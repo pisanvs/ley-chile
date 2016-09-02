@@ -54,6 +54,14 @@ Tercero: Deberán, los armadores pesqueros industriales y/o artesanales, o su ma
 
 6. Nombre Y RUT del Patrón y/o Capitán de la embarcación.
 
+El Servicio acogerá o denegará la solicitud de inscripción, mediante acto administrativo fundado, en un plazo de tres días hábiles, contados desde la recepción de la solicitud de inscripción.
+
+#### Artículo tercero bis
+
+<!-- parte:9726842 -->
+
+Tercero bis: Los armadores pesqueros industriales y/o artesanales, cuyas embarcaciones no presenten sistemas de refrigeración, deberán almacenar, transportar y desembarcar los recursos capturados en cajas con hielo, para efectos de su conservación, cuando el destino del recurso es para consumo humano directo. Asimismo, si el destino del recurso desembarcado es carnada, deberán ser almacenados, transportados y desembarcados en cajas con sal, para efectos de su conservación.
+
 #### Artículo cuarto
 
 <!-- parte:9552479 -->
