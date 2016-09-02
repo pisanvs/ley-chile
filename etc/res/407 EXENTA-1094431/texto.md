@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 407 EXENTA, DE 11 AGOSTO DE 2016
+
+Por resolución exenta N°407, de 11 de agosto de 2016, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, aprobó los planes y programas del curso B, de "Álvaro Gabriel Gómez Lobos E.I.R.L - Autoescuela Rancagua E.I.R.L", RUT: 76.513.464-1, conducente a la obtención de Licencias de Conductor No Profesionales Clase B. La Escuela de Conductores representada legalmente por Álvaro Gabriel Gómez Lobos tendrá como Director a Oscar Enrique Castro Madrid y su sede estará ubicada en Cachapoal 129, comuna de Rancagua. Las horas pedagógicas autorizadas a la referida Escuela son 8 horas teóricas, 12 horas prácticas, con un total de 20 horas pedagógicas.-
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
