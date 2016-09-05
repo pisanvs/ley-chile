@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 4.446 EXENTA, DE 2016
+
+Resolución exenta Nº 4.446, de 14 de agosto de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, que produce efectos desde su fecha de dictación, prohíbe el día 15 de agosto del presente año, por episodio crítico de alerta ambiental por material particulado respirable MP10, la circulación de vehículos motorizados, sin sello verde, de cuatro o más ruedas que se señalan en el presente cuadro, según tipo o servicio y último dígito de placa patente, en los horarios y perímetros que se indican, encontrándose exceptuados de esta prohibición todos los vehículos aludidos en el Resuelvo Nº 3º de la resolución exenta Nº 1.278, de 2016, de esta Secretaría Regional Ministerial.
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
