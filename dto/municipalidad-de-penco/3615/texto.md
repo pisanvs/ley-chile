@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO ALCALDICIO N° 3.615, DE 2016
+
+Decreto alcaldicio Nº 3.615. Rectifíquese, decreto alcaldicio Nº 3.247 en el sentido de establecer que su fecha de dictación corresponde al día 24 de junio de 2016 y no la que erradamente se indica en el citado instrumento. Forme el presente decreto parte integrante del decreto alcaldicio rectificado el que quedará vigente en todo lo no alterado por el presente decreto. Decreto alcaldicio Nº 3.247. Déjense sin efecto en todas sus partes los Planos Seccionales "Sector Cosmito" aprobado por decreto alcaldicio Nº 4.346, "Ex Refinería Crav" aprobado por decreto alcaldicio Nº 4.347 y "Mirador del Pacífico" aprobado por decreto alcaldicio Nº 7.268, los que fueren acogido al procedimiento señalado en el artículo 2.1.14 inciso 3º de la Ordenanza General de Urbanismo y Construcciones.
+
+Penco, 22 de agosto de 2016.-Víctor Hugo Figueroa Rebolledo, Alcalde.
