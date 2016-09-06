@@ -38,6 +38,10 @@ Las instituciones con acreditación vigente deberán considerar, a fin de evitar
 
 Las instituciones que no estén acreditadas, sea porque es la primera vez que se incorporan al proceso de acreditación o, porque habiendo estado acreditadas dicha acreditación expiró, deberán solicitar su incorporación en el mes de marzo de cada año. Por su parte, aquellas instituciones que no estén acreditadas porque obtuvieron un pronunciamiento negativo de acreditación, podrán iniciar un nuevo proceso de acreditación una vez cumplidos los dos años, contados desde dicho pronunciamiento.
 
+#### Artículo tercero
+
+bis: El proceso de acreditación se realizará a través de medios electrónicos conforme a las instrucciones que sobre la materia imparta la Comisión.
+
 #### Artículo cuarto
 
 Para incorporarse al proceso de acreditación las instituciones deberán presentar los siguientes antecedentes:
@@ -48,11 +52,11 @@ a. Áreas a acreditar.
 
 b. Sedes con que cuenta la institución.
 
-ii. Ficha Institucional Introductoria y sus respectivos anexos en seis copias, cuyo formato se encuentra disponible en el sitio web institucional de la CNA: www.cnachile.cl.
+ii. Ficha Institucional Introductoria y sus respectivos anexos, cuyo formato se encuentra disponible en el sitio web institucional de la CNA: www.cnachile.cl.
 
-iii. Informe de Autoevaluación, documento que deberá ser elaborado conforme a los términos establecidos en la Guía para la Evaluación Interna disponible en el sitio web de la CNA. Dicho Informe debe ser entregado en seis copias y en dos copias sus anexos.
+iii. Informe de Autoevaluación, documento que deberá ser elaborado conforme a los términos establecidos en la Guía para la Evaluación Interna disponible en el sitio web de la CNA .
 
-Toda información mencionada en las letras anteriores, debe además, ser entregada en formato digital a CNA.
+Toda la información mencionada en las letras anteriores, deberá ser entregada en formato digital a la CNA, salvo que esta última exija copias en papel.
 
 #### Artículo quinto
 
@@ -82,7 +86,7 @@ Para efectos del informe indicado en el artículo anterior, una vez iniciado for
 
 #### Artículo décimo
 
-El informe financiero será entregado al Comité de Pares Evaluadores como insumo para la visita de evaluación externa. También será enviado, para efectos de conocimiento, a la institución evaluada.
+El informe financiero será entregado al Comité de Pares Evaluadores durante la reunión preparatoria, como insumo para la visita de evaluación externa. Asimismo, dicho informe será enviado para efectos de conocimiento a la institución evaluada, la semana previa a la referida visita.
 
 #### Artículo décimo
 
@@ -92,7 +96,7 @@ primero: La relación entre la entidad que realice el informe financiero y las i
 
 #### Artículo décimo
 
-segundo: El proceso de evaluación externa, será realizado por un Comité de Pares Evaluadores. Dicho Comité estará integrado por, al menos, tres evaluadores nacionales y un evaluador extranjero. Excepción a lo anterior la constituyen los Centros de Formación Técnica, en que sólo concurren evaluadores nacionales. Acompañará al comité un profesional de la Secretaría Ejecutiva en calidad de Coordinador y Ministro de Fe del proceso.
+segundo: El proceso de evaluación externa, será realizado por un Comité de Pares Evaluadores. Dicho Comité estará integrado por, al menos, tres evaluadores nacionales y un evaluador extranjero. Excepción a lo anterior la constituyen los Centros de Formación Técnica, en que sólo concurren evaluadores nacionales. Acompañará al comité un profesional de la Secretaría Ejecutiva en calidad de Coordinador y Ministro de Fe del proceso, quien resguardará la correcta realización de la visita de evaluación externa, y será el apoyo técnico para la aplicación del procedimiento y los criterios de acreditación.
 
 #### Artículo décimo
 
@@ -114,7 +118,7 @@ sexto: La propuesta de evaluadores externos será consultada con la institución
 
 séptimo: La visita se desarrollará en base a un Programa que considera la participación en entrevistas con los diferentes actores de la institución y la visita de todas sus sedes, en el caso que la institución cuente con más de 10 sedes, será la Secretaría Ejecutiva quien defina las sedes a visitar.
 
-El Programa de Visita se enviará a la institución durante los 10 días hábiles anteriores a la fecha de realización de la visita. La institución podrá realizar las observaciones que estime pertinentes al mismo, las cuales serán remitidas al Presidente Comité de Pares. Dicho comité es el encargado de decidir el Programa definitivo.
+El Programa de Visita será elaborado por el Comité de Pares Evaluadores, el cual se enviará a la institución evaluada durante los 10 días hábiles anteriores a la fecha de realización de la visita. La institución podrá realizar las observaciones que estime pertinentes al mismo, las cuales serán remitidas al Presidente del Comité de Pares Evaluadores. Dicho Comité es el encargado de decidir el Programa de Visita definitivo.
 
 #### Artículo décimo
 
