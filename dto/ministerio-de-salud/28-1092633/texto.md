@@ -38,7 +38,7 @@ Decreto:
 
 #### Artículo 1
 
-Decrétase alerta sanitaria por enfermedades respiratorias en las regiones Metropolitana, de Valparaíso y del Biobío.
+Decrétase alerta sanitaria por enfermedades respiratorias en las regiones Metropolitana, de Valparaíso, de Coquimbo, del Maule y del Biobío.
 
 #### Artículo 2
 
@@ -112,7 +112,7 @@ Las facultades descritas en este decreto se ejercerán en las regiones indicadas
 
 #### Artículo 9
 
-Los efectos de este decreto tendrán vigencia 60 días contados desde la tramitación del presente acto, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias mejoran.
+Los efectos de este decreto tendrán vigencia hasta el 15 de octubre de 2016, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias mejoran.
 
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Carmen Castillo Taucher, Ministra de Salud.
 
