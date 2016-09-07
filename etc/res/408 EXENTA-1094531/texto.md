@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 408 EXENTA, DE 11 DE AGOSTO DE 2016
+
+Por resolución exenta N° 408, de 11 de agosto de 2016, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, aprobó los planes y programas del curso B, de "Servicios de Capacitación Jeannette Susana Barahona Jara E.I.R.L - Escuela de Conducción Segura Rengo E.I.R.L", RUT: 76.435.746-9, conducente a la obtención de Licencias de Conductor No Profesionales Clase B. La Escuela de Conductores, representada legalmente por Jeannette Susana Barahona Jara, tendrá como Director a Jeannette Susana Barahona Jara y su sede estará ubicada en Martineano Urriola 218, comuna Rengo. Las horas pedagógicas autorizadas a la referida Escuela son 9 horas teóricas, 12 horas prácticas, con un total de 21 horas pedagógicas.-
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
