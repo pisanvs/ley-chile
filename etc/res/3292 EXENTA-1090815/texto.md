@@ -60,8 +60,6 @@ Resolución:
 
 11. Los montos asignados mediante la presente resolución, ascendentes a 46.527 Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2016, del Programa Habitacional Fondo Solidario de Elección de Vivienda, de la Región de Atacama.
 
-> **Nota.** El numeral 5 de la Resolución 1852 Exenta, Vivienda, publicada el 08.03.2017, modifica el cuadro inserto en el resuelvo 1 de la presente norma, en el sentido de eliminar de la nómina de beneficiarios a la persona que ocupa la fila N° 17, doña Elvira Norma Pizarro Molina, RUT N° 4.279.944-0, debido a que la beneficiaria, aparece repetida en la resolución exenta N° 2.476 (V. y U.), de fecha 20 de abril de 2016. Sin embargo, en la nómina no aparece tal persona individualizada.
-
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
