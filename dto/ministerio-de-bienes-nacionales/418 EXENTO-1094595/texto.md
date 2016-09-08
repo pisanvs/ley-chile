@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE TARAPACÁ, A "AUSTRIAN SOLAR CHILE CUATRO SPA"
+
+Mediante decreto exento N° E-418, de 1 de septiembre de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa contra proyecto, a "Austrian Solar Chile Cuatro SpA", RUT N° 76.337.593-5, el inmueble fiscal formado por los Lotes "A" y "B", ubicado en el lugar Pampa del Tamarugal, Ruta 5, kilómetro 1.697, al Sureste de la Intersección de la Ruta A-85, camino localidad de Huatacondo, comuna de Pozo Almonte, provincia del Tamarugal, Región de Tarapacá; enrolado en el Servicio de Impuestos Internos con los N os 4595-1 y 4595-2, respectivamente; amparado por la inscripción global que rola a fojas 1078 N° 1747, del Registro de Propiedad del Conservador de Bienes Raíces de Iquique, correspondiente al año 2011; de una superficie total aproximada de 11,14 hectáreas; singularizado en el Plano N° 01401-2.840 C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 106,28.
+
+La Concesión se otorga para ejecutar en el inmueble un proyecto de construcción, instalación y operación de una Subestación Eléctrica para atender Parque Fotovoltaico Huatacondo. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza Extracto.-
+
+Patricio Flores Rivas, Abogado, Jefe División Jurídica.
