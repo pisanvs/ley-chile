@@ -24,7 +24,7 @@ c) Que en virtud de la experiencia en terreno de los profesionales encargados de
 
 Resolución:
 
-1. Dispónese un nuevo plazo para recibir solicitudes de inscripción al llamado especial efectuado por la resolución exenta Nº 334 (V. y U.), de 2016, y sus modificaciones, a que se refiere el resuelvo 1º de dicha resolución, permitiéndose una selección de beneficiados con los inscritos a partir de la publicación de la presente resolución y hasta el último día hábil del mes de septiembre de 2016, y convalídase lo actuado por el Serviu Región de Coquimbo entre el día 1 de junio de 2016 y el día anterior a su publicación en el Diario Oficial.
+1. Dispónese un nuevo plazo para recibir solicitudes de inscripción al llamado especial efectuado por la resolución exenta Nº 334 (V. y U.), de 2016, y sus modificaciones, a que se refiere el resuelvo 1º de dicha resolución, permitiéndose selecciones de beneficiados con los inscritos a partir de la publicación de la presente resolución y hasta el último día hábil del mes de septiembre de 2016, y convalídase lo actuado por el Serviu Región de Coquimbo entre el día 1 de junio de 2016 y el día anterior a su publicación en el Diario Oficial.
 
 2. Modifícase la resolución exenta Nº 334 (V. y U.), de 2016, y sus modificaciones, en el siguiente sentido:
 
