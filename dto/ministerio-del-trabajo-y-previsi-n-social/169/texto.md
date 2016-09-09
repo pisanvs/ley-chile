@@ -162,6 +162,12 @@ g) Catástrofe: Se concederá en caso de daños graves a consecuencia de incendi
 
 h) Desgravamen: El fallecimiento de un afiliado extingue automáticamente las deudas que tuviere pendiente para con el Servicio por concepto de préstamos que éste le hubiere otorgado.
 
+i) Acuerdo unión civil: Se concederá una ayuda, por una sola vez, cuando el afiliado contraiga un acuerdo de unión civil.
+
+Si ambos contrayentes fueren afiliados, cada uno de ellos tendrá derecho a la ayuda.
+
+j) Ayuda social: Se concederá a los afiliados que no tengan posibilidad alguna de resolver sus problemáticas urgentes con recursos propios, este beneficio será previamente evaluado por la asistente social y autorizado por el Consejo de Administración.
+
 El monto de las ayudas contempladas en las letras a), b), c), d), e),
 
 - **f)** y
@@ -203,6 +209,12 @@ b) Préstamos Habitacionales: Se podrán otorgar una vez al año para gastos not
 c) Préstamos Escolares: Se podrán otorgar una vez al año y estarán orientados a solventar gastos de matrícula, útiles y vestuario escolar de los hijos estudiantes que sean cargas familiares o bien para los propios afiliados;
 
 d) Préstamos Personales: Se podrán otorgar al año con el objeto de propender al mejoramiento de las condiciones familiares y/o de trabajo de los afiliados;
+
+e) Préstamos de Emergencia: Se otorgarán ante problemas económicos graves u otras causas justificadas, en casos debidamente calificados por el Consejo Administrativo, jefe/a de Bienestar o asistente social.
+
+f) Préstamos de Vacaciones: Anualmente el afiliado podrá solicitar este préstamo cuando haga uso de sus vacaciones (Periodo de 10 días).
+
+Los montos y plazos serán fijados anualmente por el Consejo de Administrativo.
 
 El monto y plazo máximo de devolución de estos préstamos será determinado anualmente por el Consejo Administrativo.
 
