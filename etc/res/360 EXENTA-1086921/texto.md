@@ -32,7 +32,7 @@ Resolución:
 
 - Título II, Mejoramiento de la Vivienda para financiar la adquisición de materiales y la contratación de servicios de construcción y reparación.
 
-La selección se efectuará mensualmente y podrán participar en este proceso las familias que cuenten con calificación por el Serviu al último día hábil de cada mes según corresponda. En caso de la primera selección, los proyectos deberán estar calificados al 29 de enero de 2016.
+La selección se efectuará mensualmente en el caso del Título II, Mejoramiento de la Vivienda y podrán participar en este proceso las familias que cuenten con calificación por el Serviu al último día hábil de cada mes; y para los proyectos correspondientes a Título II, Mejoramiento de la Vivienda para financiar la adquisición de materiales y la contratación de servicios de construcción y reparación, será cada 15 días. En caso de la primera selección, los proyectos deberán estar calificados al 29 de enero de 2016.
 
 2. Sólo podrán participar en este llamado extraordinario los damnificados por el sismo que afectó a la Región de Coquimbo. La calidad de damnificado se acreditará mediante la inscripción en el Registro de Damnificados constituido al efecto y en él se considerarán sólo las familias cuyos inmuebles hayan sido calificados con "Daño Reparable Moderado" y "Daño Reparable Mayor", tras la aplicación de la Ficha de Catastro extendida por el Serviu.
 
