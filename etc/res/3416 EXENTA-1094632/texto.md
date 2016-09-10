@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 3.416 EXENTA, DE 16 DE AGOSTO DE 2016
+
+Ábrase período de información pública por un término de 10 días en procedimiento de Régimen de Control Aplicable, respecto de los productos Max vitality, Cortico-Dress, Terpropil, Green Coffee Sunshine Andina, Toallas de Papel Dobladas Elite Antibacterial, Endogyn, Retro Tech Dressing (RTD), Biotears " Suero Autólogo, Noctiol Cápsulas, Artrifort Cápsulas, Desintoxicol Cápsulas, Super Lipo Termobolic 10 (Etiqueta color rojo), Super Lipo Termobolic 10 (Etiqueta color verde) y Mango Balance. La exhibición de los documentos, estarán disponibles en la página web del Instituto de Salud Pública de Chile en el siguiente link http://www.ispch.cl/anamed_/registro.
+
+Anótese, comuníquese, publíquese en extracto en el Diario Oficial y su texto completo en la página web del Instituto www.ispch.cl.- Alex Figueroa Muñoz, Director (TyP), Instituto de Salud Pública de Chile.
