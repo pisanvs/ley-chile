@@ -28,11 +28,17 @@ Resolución:
 
 1.- Apruébese la nómina de postulantes seleccionados con un subsidio habitacional, correspondientes al 31 de julio de 2016, de acuerdo a lo dispuesto por la resolución citada en el Visto g), nómina que se adjunta y se entenderá forma parte integrante de esta resolución, correspondiente a la Región de Coquimbo, de acuerdo a lo señalado en la siguiente tabla:
 
+.
+
 2.- Fíjese el monto de recursos comprometidos para el financiamiento de subsidios de reparación del Programa de Protección al Patrimonio Familiar, Título II, para la atención de los postulantes seleccionados a que se refiere el resuelvo 1, según la siguiente tabla:
+
+.
 
 3.- Comprométanse los recursos disponibles por región, para la selección correspondiente al 31 de julio de 2016, del llamado extraordinario para damnificados ya citado, de conformidad a los montos asignados y los saldos disponibles, según la distribución señalada en el siguiente cuadro:
 
-4.- Para los efectos de rebajar los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la UF correspondiente al 30 de enero de 2016 ($ 25.629,09), según lo establecido en el resolutivo 15 de la resolución citada en el Visto g). En consecuencia, se debe imputar a la resolución exenta N° 333 (V. y U.), de 2016, un total de 4.291,99 UF, los que corresponden al subsidio directo.
+.
+
+4.- Para los efectos de rebajar los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la UF correspondiente al 30 de enero de 2016 ($ 25.629,09), según lo establecido en el resolutivo 15 de la resolución citada en el Visto g). En consecuencia, se debe imputar a la resolución exenta N° 333 (V. y U.), de 2016, un total de 1.609,49 UF, los que corresponden al subsidio directo.
 
 5.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados, conforme al número 1 de esta resolución, la que deberá contener a lo menos, la comuna y el nombre de cada postulante con su respectiva Cédula Nacional de Identidad.
 
