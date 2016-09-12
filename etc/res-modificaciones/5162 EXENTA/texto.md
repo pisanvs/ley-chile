@@ -46,8 +46,6 @@ En consecuencia, se debe imputar a la resolución exenta N° 333 (V. y U.), de 2
 
 6.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados, conforme al número 2 de esta resolución, la que deberá contener a lo menos, la comuna y el nombre de cada postulante con su respectiva Cédula Nacional de Identidad.
 
-> **Nota.** Los numerales 7.2, 7.3, 7.4, 7.5 del numeral 7 de la Resolución 13044 Exenta, Vivienda, publicada el 14.11.2017, modifican la presente norma, la que no puede generar un texto actualizado por no coincidir los guarismos, ya que dicha norma fue modificada por la Resolución 5760 Exenta Vivienda. publicada el 12.09.2016.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
