@@ -222,7 +222,7 @@ En el caso que el beneficiario tenga derechos en comunidad sobre otro sitio, no 
 
 26. En los proyectos que se califiquen conforme a la modalidad a que se refiere el Párrafo 3º de esta resolución, regulados por el DS Nº 49 (V. y U.), de 2011, no se requerirá el diseño e implementación del Plan de Acompañamiento Social señalado en el apartado 1.2, del número 1, del artículo 51 del mismo decreto.
 
-27. Los beneficiarios de la modalidad a que se refiere el Párrafo 1º de esta resolución no estarán afectos a las prohibiciones a que se refiere el artículo 60, del DS Nº 49 (V. y U.), de 2011.
+27. Los beneficiarios de la modalidad a que se refiere el Párrafo 1° de esta resolución no estarán afectos a las prohibiciones señaladas en el artículo 60, del DS N° 49 y en el artículo 39 del DS N°1, ambos de Vivienda y Urbanismo, de 2011.
 
 ### Párrafo 7º — Consideraciones técnicas para proyectos.
 
