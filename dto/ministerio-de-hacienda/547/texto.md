@@ -62,7 +62,7 @@ A su vez, en los casinos sólo se podrán autorizar, desarrollar y explotar, med
 
 #### Artículo 6º
 
-La licencia de explotación de juegos de azar autoriza el desarrollo y explotación sólo del juego amparado por ella. Lo anterior, se entiende sin perjuicio de la atribución del operador de solicitar el aumento o disminución del número de licencias que le han sido otorgadas, según se regula en el artículo 39 del Reglamento para la Tramitación y Otorgamiento de Permisos de Operación de Casinos de Juego.
+La licencia de explotación de juegos de azar autoriza el desarrollo y explotación sólo del juego amparado por ella. Lo anterior, se entiende sin perjuicio de la atribución del operador de solicitar el aumento o disminución del número de licencias que le han sido otorgadas, conforme la normativa legal y reglamentaria.
 
 Las licencias de explotación de juegos de azar tienen carácter intransferible e inembargable, y pueden ser usadas exclusivamente por las sociedades operadoras autorizadas.
 
@@ -78,7 +78,7 @@ Catálogo de Juegos
 
 #### Artículo 8º
 
-Sólo los juegos que se encuentren incluidos en el Catálogo de Juegos, en adelante "el catálogo", podrán ser desarrollados y explotados por los casinos, conforme a las reglas establecidas respecto de cada juego, previo otorgamiento de la licencia correspondiente.
+Sólo los juegos que se encuentren incluidos en el Catálogo de Juegos, en adelante "el catálogo", podrán ser desarrollados y explotados por los casinos, conforme las especificaciones establecidas en él, respecto a cada juego, previo otorgamiento de la licencia correspondiente.
 
 El catálogo será confeccionado por la Superintendencia y aprobado mediante resolución fundada. De la misma forma se aprobará toda modificación, adición o supresión que se efectúe al catálogo.
 
@@ -100,7 +100,7 @@ En el catálogo se establecerán los distintos juegos que comprenderá cada una 
 
 a) La denominación o denominaciones con que sea conocido el respectivo juego.
 
-b) Las diversas modalidades aceptadas para la práctica del juego.
+b) Las diversas modalidades y variantes, entendida estas últimas como las variedades o diferencias del juego, sin desvirtuarlo en su esencia, aceptadas para la práctica del juego.
 
 c) La reseña general del propósito del juego.
 
@@ -112,37 +112,39 @@ f) Las condiciones y prohibiciones que se considere necesario imponer a su prác
 
 #### Artículo 11
 
-La incorporación o registro de nuevos juegos en el catálogo podrá efectuarse de oficio por la Superintendencia o solicitarse por cualquier sociedad operadora, de conformidad a lo dispuesto en los incisos siguientes.
+La incorporación o registro de nuevos juegos o de nuevas modalidades de juegos ya registrados en el catálogo, podrá efectuarse de oficio por la Superintendencia o solicitarse por cualquier sociedad operadora, de conformidad a lo dispuesto en los incisos siguientes.
 
-Para los efectos de una solicitud de nuevo registro, el representante de la sociedad operadora solicitará por escrito al Superintendente la incorporación de un nuevo juego al catálogo, desarrollando los contenidos enunciados en el artículo precedente, sin perjuicio de los demás antecedentes que estimare pertinente acompañar para mejor fundar su solicitud. El Superintendente, dentro del plazo de quince días contados desde la fecha en que recibió la solicitud, recabará la información adicional que considere procedente y evaluará el mérito de la misma.
+Para los efectos de una solicitud de incorporación de nuevos juegos o modalidades de juegos, el representante de la sociedad operadora requerirá por escrito al Superintendente la referida incorporación al catálogo, desarrollando los contenidos enunciados en el artículo precedente, sin perjuicio de los demás antecedentes que estimare pertinente acompañar para mejor fundar su solicitud.
 
-El Superintendente, dentro del plazo de veinte días contados desde que recibió el último informe solicitado en conformidad con el inciso anterior, resolverá acerca de la petición de incorporación de un nuevo juego, y dictará al efecto una resolución fundada, la cual deberá publicarse en el Diario Oficial, sin perjuicio de su notificación al interesado según lo dispone el artículo 46 de la ley Nº 19.880.
+Presentada la solicitud, deberá tramitarse conforme lo dispuesto en la ley Nº 19.880, debiendo el superintendente, dentro del plazo de veinte días contados desde la fecha en que se encuentre en estado de resolver, es decir, desde que se recibió toda la información que considere procedente para evaluar el mérito de la solicitud, resolver acerca de la petición y dictar al efecto una resolución fundada.
 
-El nuevo juego aceptado deberá incorporarse en el catálogo de conformidad a lo dispuesto en el artículo anterior.
+El nuevo juego no modalidad aceptado deberá incorporarse en el catálogo de conformidad a lo dispuesto en el artículo anterior.
 
-El registro de un nuevo juego en el catálogo habilitará a cualquier sociedad operadora a solicitar la correspondiente licencia de explotación, de conformidad al procedimiento establecido para estos efectos en el reglamento respectivo.
+El registro de un nuevo juego no modalidad en el catálogo habilitará a cualquier sociedad operadora a solicitar la correspondiente licencia de explotación, de conformidad al procedimiento establecido para estos efectos en el reglamento respectivo.
 
-El mismo procedimiento establecido en los incisos precedentes se aplicará respecto de solicitudes de incorporación de una nueva modalidad de un juego ya registrado en el catálogo.
+El mismo procedimiento establecido en los incisos precedentes, se aplicará, en lo que fuere pertinente, respecto de solicitudes de incorporación de una nueva variante de un juego ya registrado en el catálogo, así como tratándose de solicitudes de modificaciones a la regulación de uno o más de los juegos ya registrados.
 
 Lo dispuesto en el presente artículo se entiende sin perjuicio de la aplicación, cuando fuere procedente, de los derechos de propiedad intelectual sobre determinados juegos, de conformidad a la legislación vigente aplicable en la materia.
 
 #### Artículo 12
 
-La Superintendencia estará facultada para suprimir uno o más juegos registrados en el catálogo.
+La Superintendencia estará facultada para, de oficio o a solicitud de cualquier sociedad operadora, suprimir uno o más juegos registrados en el catálogo.
 
-La resolución que determine la supresión de un juego registrado deberá ser fundada, señalándose en ella los antecedentes que se han tenido a la vista para tal determinación.
+La solicitud de supresión se tramitará conforme el procedimiento señalado en el artículo precedente. La resolución que determine la supresión de un juego registrado deberá ser fundada, señalándose en ella los antecedentes que se han tenido a la vista para tal determinación.
 
-El mismo procedimiento se aplicará respecto de la supresión de cualquier modalidad de un juego ya registrado en el catálogo.
+El mismo procedimiento se aplicará respecto de la supresión de cualquier modalidad o variante de un juego ya registrado en el catálogo.
 
 La resolución que se dicte respecto de las situaciones mencionadas en los incisos precedentes deberá publicarse en el Diario Oficial
 
 #### Artículo 13
 
-Las modificaciones a las reglas de uno o más de los juegos registrados sólo podrá efectuarse por la Superintendencia mediante resolución fundada, reformando el catálogo en lo que fuera pertinente.
+La Superintendencia, de conformidad a sus facultades generales, establecerá el formulario y los antecedentes que deben acompañarse para la presentación de las solicitudes de modificación al Catálogo de Juegos, debiendo contemplar la realización de al menos un proceso de modificación al año.
 
 #### Artículo 14
 
-Toda incorporación o supresión de juegos o modalidades de los mismos, como también toda modificación a reglas de juegos que efectúe la Superintendencia, deberá ser puesta en conocimiento de cada una de las sociedades operadoras existentes en el país, mediante oficio dirigido a sus respectivos representantes, indicando además la fecha en que ello comenzará a regir y publicarse en el Diario Oficial.
+Toda incorporación o supresión de juegos o modalidades de los mismos, como también toda incorporación o supresión de nuevas variantes de juegos o modificación a la regulación de aquéllos que apruebe la Superintendencia, sea esta de oficio o a solicitud de una o más sociedades operadoras, deberá ser dispuesta por resolución fundada y puesta en conocimiento de las sociedades, mediante comunicación dirigida a sus respectivos representantes, de conformidad con las normas de la ley Nº 19.880.
+
+En los procesos a que se refieren los artículos precedentes, se deberá contemplar una fase de consulta pública en forma previa a la resolución definitiva, a menos que, por razones fundadas, la Superintendencia lo estime innecesario, de lo que deberá dejarse constancia en la resolución respectiva.
 
 ## Título III
 
@@ -154,15 +156,17 @@ El desarrollo y funcionamiento de los juegos en cada casino se sujetarán a las 
 
 #### Artículo 16
 
-La responsabilidad por el normal desarrollo y práctica de cada juego en el respectivo establecimiento corresponderá al Personal de Juego a cargo de los mismos, en lo que corresponda a sus diversas áreas y competencias, según se establece para dicho personal en el Reglamento de Funcionamiento y Fiscalización de Casinos de Juegos.
+La responsabilidad por la normal apertura de las diferentes categorías de juego, desarrollo y práctica de cada juego en el respectivo establecimiento, corresponderá al Personal de Juego a cargo de los mismos, en lo que corresponda a sus diversas áreas y competencias, según se establece para dicho personal en el Reglamento de Funcionamiento y Fiscalización de Casinos de Juego.
 
 #### Artículo 17
 
 Para el funcionamiento de las mesas de juego regirán las siguientes disposiciones generales:
 
-1.- Una vez efectuada la apertura formal de una mesa, conforme al procedimiento instruido por la Superintendencia, el personal de juego correspondiente deberá ponerla en funcionamiento al presentarse el primer jugador y continuar el desarrollo del juego, sin interrupción, hasta la hora fijada para su término. Salvo lo dispuesto en el número siguiente.
+1.- Una vez efectuada la apertura formal de una categoría de juego que se explota en mesas de juego, conforme al procedimiento mencionado en el artículo 27 del presente reglamento y a las instrucciones que para tal efecto imparta la Superintendencia, el personal de juego correspondiente deberá poner las mesas en funcionamiento al presentarse el primer jugador a dicha mesa y continuar el desarrollo del juego, hasta la hora fijada para su término, salvo lo dispuesto en el número siguiente.
 
-2.- Si al comienzo de la jornada en las salas de juego el número de jugadores presentes hiciere innecesaria la puesta en funcionamiento simultáneo de todas las mesas, la apertura de ellas podrá efectuarse de manera parcial según lo establezca el Director de Mesas de Juego. La misma regla podrá aplicarse, durante la jornada, cuando en una o más de las mesas el desarrollo de los juegos haya perdido continuidad, dejando en servicio mesas de juego en número suficiente para atender a los jugadores presentes.
+2.- Si al momento de la apertura de cualquiera de las categorías de juego correspondiente a mesas de juego, el número de jugadores presentes hiciere innecesaria la puesta en funcionamiento simultáneo de todas las mesas, la apertura de ellas podrá efectuarse de manera parcial según lo establezca el Director de Mesas de Juego.
+
+En el caso de no presentarse jugadores para una determinada categoría de juego que se explota en mesas de juego, el Director de Mesas de Juego podrá abstenerse de hacer la apertura de dicha categoría, sin perjuicio que el casino de juego deberá estar en condiciones de efectuar su apertura, en caso que algún jugador lo solicitase, no pudiendo implicar lo anterior en caso alguno, que se deje de ofrecer al público una determinada categoría de juego. La misma regla podrá aplicarse, durante la jornada, cuando en una o más de las mesas el desarrollo de los juegos haya perdido continuidad, obligándose a dejar en servicio las mesas de juego en número suficiente para atender a los jugadores presentes.
 
 3.- Los juegos cesarán a la hora fijada como límite en el establecimiento. Sin perjuicio de lo anterior, en cada mesa de juego, y antes del cumplimiento de la hora límite, el Jefe de Mesa o Croupier en funciones anunciará a los presentes, con la debida antelación, la finalización del respectivo juego, en la forma establecida para cada caso en las instrucciones que la Superintendencia dicte al efecto.
 
@@ -172,9 +176,11 @@ Para el funcionamiento de las mesas de juego regirán las siguientes disposicion
 
 Para el funcionamiento de las máquinas de azar regirán las siguientes disposiciones generales:
 
-1.- Una vez efectuada la apertura formal de una máquina de azar, conforme al procedimiento instruido por la Superintendencia, ésta deberá estar en funcionamiento, sin interrupción, hasta la hora fijada para el término de los juegos en el establecimiento. Salvo lo dispuesto en el número siguiente.
+1.- Una vez efectuada la apertura formal de la categoría de máquinas de azar, conforme al procedimiento mencionado en el artículo 27 del presente reglamento y a las instrucciones que para tal efecto imparta la Superintendencia, el Personal de Juego correspondiente deberá ponerlas en funcionamiento al presentarse el primer jugador y continuar el desarrollo del juego hasta la hora fijada para su término, salvo lo dispuesto en el número siguiente.
 
-2.- Si al comienzo de la jornada el número de jugadores presentes hiciere innecesario el funcionamiento simultáneo de todas las máquinas, la entrada en funcionamiento de ellas podrá efectuarse de manera parcial según lo establezca el Director de Máquinas de Azar. La misma regla podrá aplicarse, durante la jornada, cuando la afluencia de jugadores haya disminuido, dejando en servicio máquinas en número suficiente para atender a los jugadores presentes.
+2.- Si al momento de la apertura de la categoría de máquinas de azar, el número de jugadores presentes hiciere innecesaria la puesta en funcionamiento simultáneo de todas las máquinas, la apertura de ellas podrá efectuarse de manera parcial según lo establezca el Director de Máquinas de Azar.
+
+En el caso de no presentarse jugadores para la categoría de máquinas de azar, el Director de Máquinas de Azar podrá abstenerse de hacer la apertura de dicha categoría, sin perjuicio que el casino de juego deberá estar en condiciones de efectuar su apertura, en caso que algún jugador lo solicitase, no pudiendo implicar lo anterior en caso alguno, que se deje de ofrecer al público esta categoría de juego. La misma regla podrá aplicarse, durante la jornada, cuando en una o más máquinas el desarrollo de los juegos haya perdido continuidad, obligándose a dejar en servicio las máquinas de azar en número suficiente para atender a los jugadores presentes.
 
 3.- Las máquinas cesarán de funcionar a la hora fijada como límite en el establecimiento, para cuyo efecto el Jefe de Sección velará porque el horario de funcionamiento se encuentre debidamente anunciado al público en las respectivas salas. Sin perjuicio de lo anterior, el Jefe de Sección estará autorizado para disponer en cualquier momento el cese de funcionamiento de una máquina, en aquellos casos en que ésta presente defectos de funcionamiento u operación, de todo lo cual deberá dejarse debida constancia.
 
@@ -182,15 +188,17 @@ Para el funcionamiento de las máquinas de azar regirán las siguientes disposic
 
 #### Artículo 19
 
-Para el funcionamiento del juego Bingo regirán las siguientes disposiciones generales:
+Para el funcionamiento de la categoría de bingo, regirán las siguientes disposiciones generales:
 
-1.- Una vez efectuada la apertura formal del Bingo, conforme al procedimiento instruido por la Superintendencia, éste deberá estar en funcionamiento, sin interrupción, hasta la hora fijada para éste en el establecimiento, salvo lo establecido en el punto 2.
+1.- Una vez efectuada la apertura formal de la categoría de bingo, conforme al procedimiento mencionado en el artículo 27 del presente reglamento y a las instrucciones que para tal efecto imparta la Superintendencia, éste deberá estar en funcionamiento hasta la hora de cierre fijada para éste en el establecimiento, salvo lo establecido en el numeral 2.- de este artículo.
 
-2.- Si al comienzo de la jornada el número de jugadores presentes no fuere suficiente para el adecuado desarrollo del juego, su entrada en funcionamiento podrá efectuarse en el momento que lo establezca el Director de Bingo. La misma regla podrá aplicarse si ello ocurre durante la jornada.
+2.- Si al momento de la apertura del bingo, el número de jugadores presentes no fuere suficiente para el adecuado desarrollo del juego, su entrada en funcionamiento podrá efectuarse en el momento que lo establezca el Director de Bingo, debiendo en todo caso tenerse en consideración lo establecido en el Reglamento de Funcionamiento y Fiscalización de Casinos de Juego en relación con el tiempo mínimo de funcionamiento de esta categoría de juego.
 
-3.- El Bingo cesará de funcionar a la hora fijada como límite en el establecimiento; no obstante, el Jefe de Sección estará autorizado para disponer el cese de funcionamiento del Bingo en casos en que ésta presente defectos de funcionamiento u operación.
+En el caso de no presentarse jugadores para la categoría de bingo, el Director de Bingo podrá abstenerse de hacer la apertura de dicha categoría, no siendo exigible el tiempo mínimo de funcionamiento señalado en el inciso anterior, sin perjuicio que el casino de juego deberá estar en condiciones de efectuar su apertura, en caso que algún jugador lo solicitase, no pudiendo implicar lo anterior, en caso alguno, que se deje de ofrecer al público esta categoría de juego.
 
-Sin perjuicio de lo anterior, y antes del cumplimiento de la hora límite para su funcionamiento, el Jefe de Sección anunciará a los presentes, con la debida antelación, la finalización del funcionamiento del Bingo, informando a los presentes el término del mismo antes de la última partida.
+3.- El bingo cesará de funcionar a la hora fijada como límite en el establecimiento para este juego, a menos que el operador, atendida la afluencia de público, determine continuar con su explotación siempre que no exceda el horario de funcionamiento del casino de juego.
+
+4.- Sin perjuicio de lo anterior; el Director de Bingo estará autorizado para disponer el cese de funcionamiento del bingo en casos en que éste presente defectos de funcionamiento u operación. En tal caso, y antes del cumplimiento de la hora de cierre para el cese de su funcionamiento, el Director de Bingo anunciará a los presentes, con la debida antelación, la finalización del funcionamiento del bingo, informando a aquéllos el término del mismo antes de la última partida.
 
 #### Artículo 20
 
@@ -250,11 +258,11 @@ Si por cualquier causa el casino no pudiera pagar los premios a los jugadores, e
 
 Constituyen ingresos brutos provenientes de los juegos de azar que se desarrollan en los casinos, en cada jornada diaria, los siguientes:
 
-Ingreso Bruto en las Mesas de Juego: los ingresos por recuento de valores de cada mesa de juego (drop), más las devoluciones de fichas de las mesas de juego durante la jornada, incluido su cierre, menos la habilitación inicial o valor de apertura de las mesas, menos las reposiciones de fichas de las mesas de juego durante la jornada.
+Ingreso Bruto en las Mesas de Juego: La suma de los ingresos por recuento de valores de cada mesa de juego, incluyendo el monto de dinero asociado a fichas con que se cierra la mesa (inventario o saldo final), y el drop (depósito o recuento de valores); más el monto de dinero correspondiente a las devoluciones relativas a fichas, y, en caso que correspondan, los ingresos por comisión de progresivos de mesas, recaudación por torneos de mesas y los premios no deducibles de win; y deducidos la habilitación inicial de las mesas (inventario o saldo inicial o valor de apertura), las reposiciones (o rellenos) de fichas de las mesas de juego durante la jornada y los premios pagados en torneos de mesas.
 
-Ingreso Bruto en las Máquinas de Azar: los ingresos registrados mediante el recuento de valores, sean éstos fichas, dinero u otros instrumentos representativos de dinero, menos la habilitación inicial o valor de apertura (hopper), menos las reposiciones de fichas efectuadas a las máquinas durante la jornada, menos los premios manuales pagados y menos las retenciones para pozos acumulados.
+Ingreso Bruto en las Máquinas de Azar: La suma de los ingresos registrados mediante el recuento de valores, sean éstos dinero u otros instrumentos representativos de dinero, tales como "los Ticket in o Tarjeta in", los tickets vencidos o expirados, la recaudación por torneos de máquinas y los premios no deducibles de win; deducidos los "Ticket out o Tarjeta out", los pagos manuales por acumulación de créditos, los pagos manuales por premios grandes, los pagos manuales por error, la variación del pozo acumulado y los premios pagados en torneos de máquinas.
 
-Ingreso Bruto del Bingo: los ingresos de cada una de las partidas jugadas, acumulados hasta el final del periodo de funcionamiento, deducidos los premios otorgados a los jugadores en la jornada.
+Ingreso Bruto del Bingo: La suma de los ingresos de cada una de las partidas jugadas, acumulados hasta el final del período de funcionamiento, deducidos los premios otorgados a los jugadores en la jornada y el monto pertinente de los pozos.
 
 #### Artículo 25
 
