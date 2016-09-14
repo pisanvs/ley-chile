@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.204 EXENTA, DE 2016
+
+Por resolución exenta Nº 1.204, de 31 de agosto de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Antofagasta, se modifica resolución exenta Nº 732, de 2010, de la misma Secretaría Regional Ministerial, que Aprueba Programa de Enseñanza de la Escuela de Conductores No Profesional o Clase B "Campos Elíseos S.A.", en el sentido de aprobar el programa de enseñanza para impartir cursos conducentes a la obtención de licencias de conductor no profesional clase B, en una nueva sede ubicada en calle Porras Nº 586 de la ciudad de Antofagasta, la que tendrá como Director a don Freddy Alejandro Fernández Retamal, RUT 11.475.891-4. En lo no modificado se mantienen íntegramente las demás estipulaciones contenidas en la resolución exenta Nº 732, de 10 de junio de 2010, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Antofagasta.-
+
+Waldo Valderrama Salazar, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Antofagasta.
