@@ -176,6 +176,10 @@ e) Ayudas especiales: Se concederán ayudas especiales a los afiliados y causant
 
 f) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendiente con Bienestar por concepto de préstamos que éste le hubiere otorgado.
 
+g) Acuerdo de Unión Civil: Se concederá un subsidio a los afiliados que celebren el Acuerdo de Unión Civil. Si ambos estuvieran afiliados al Bienestar, cada uno de ellos tendrá derecho a este beneficio.
+
+El monto de este subsidio será determinado por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29º del Reglamento General para los Servicios de Bienestar Fiscalizados por la Superintendencia de Seguridad Social.
+
 El monto de los subsidios contemplados en las letras a), b), c),
 
 - **d)** y
