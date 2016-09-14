@@ -1,0 +1,5 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IMPUESTO AL VALOR AGREGADO (IVA)
+
+La IX Dirección Regional Temuco del Servicio de Impuestos Internos, por resolución exenta número 77316062340 de 19/08/2016, otorga, a contar del primero del mes siguiente al de la fecha de esta publicación, la calidad de Agente Retenedor del impuesto al Valor Agregado del Cambio de Sujeto en las operaciones de construcción de edificios, al contribuyente Roni Andrés Salvo Córdova Constructora Testa Empresa Individual de Responsabilidad Limitada, RUT 76.283.478-2, conforme a lo establecido en el dispositivo 7 de la resolución exenta número 142 de fecha 26/12/2005, de la Dirección Nacional del Servicio de Impuestos Internos de Chile, publicada en el Diario Oficial del día 29/12/2005.-
+
+Lidia del Carmen Castillo Alarcón, Directora Regional IX D.R. Temuco.
