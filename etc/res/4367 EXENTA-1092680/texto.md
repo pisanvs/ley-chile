@@ -40,7 +40,7 @@ Cuarta selección: 28 de octubre de 2016.
 
 3.- En el llamado se distinguirán 2 etapas:
 
-a) Etapa preventiva: Cuyas postulaciones serán cada dos meses, iniciando en el mes de agosto del presente año, el cual está destinado a la reparación de los daños leves de las viviendas y se podrán presentar los siguientes tipos de proyectos:
+a) Etapa preventiva: Cuyas postulaciones serán mensuales, iniciando en el mes de agosto del presente año, el cual está destinado a la reparación de los daños leves de las viviendas y se podrán presentar los siguientes tipos de proyectos:
 
 3.1 Proyecto de Habitabilidad de la Vivienda:
 
@@ -62,7 +62,7 @@ b) Etapa de reparación: Con postulaciones mensuales, al cual sólo podrán post
 
 3.5 Proyectos de Seguridad de la Vivienda: Reparaciones estructurales de más del 25% de los elementos soportantes de la vivienda, en casos de grietas, fisuras, desniveles, desaplomes, entre otros.
 
-Incremento de Subsidio para Regularización: Las modalidades de proyectos descritas anteriormente tendrán un incremento de hasta 20 UF adicionales para financiar las obras relacionadas con las adecuaciones constructivas exigidas por la DOM al momento de aprobar el permiso de edificación y recepcionar las obras.
+Incremento de Subsidio para Regularización: Las modalidades señaladas en la letra a), descritas anteriormente, tendrán un incremento de hasta 20 UF adicionales para financiar las obras relacionadas con las adecuaciones constructivas exigidas por la DOM al momento de aprobar el permiso de edificación y recepcionar las obras.
 
 4.- Los montos de recursos que se destinarán para la selección de los proyectos presentados en los concursos establecidos en el resuelvo número 1 de esta resolución, serán los dispuestos en la siguiente Tabla:
 
