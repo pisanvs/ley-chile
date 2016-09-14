@@ -338,7 +338,7 @@ Los beneficiarios de estos llamados especiales podrán aplicar los subsidios sol
 
 Incorporación de Familias.
 
-Una vez seleccionado el proyecto y suscrito el convenio señalado en el artículo 14°, la Entidad Desarrolladora podrá efectuar la incorporación de familias beneficiarias de un subsidio habitacional obtenido en alguno de los programas de vivienda del Minvu mencionados en el artículo 2° del presente Reglamento, y la reserva de subsidios para su asignación solo para familias de sectores medios, las que deberán cumplir con lo señalado en el artículo 16° de este decreto, pudiendo operar al efecto mediante los sistemas electrónicos que disponga el Minvu para tales fines.
+Una vez seleccionado el proyecto y suscrito el convenio señalado en el artículo 14°, la Entidad Desarrolladora podrá efectuar la incorporación de familias beneficiarias de un subsidio habitacional obtenido en alguno de los programas de vivienda del Minvu mencionados en el artículo 2° del presente Reglamento, y la reserva de subsidios para su asignación solo para familias de sectores medios, las que deberán cumplir con lo señalado en el artículo 16° de este decreto, a excepción de lo establecido en el número 2 de su letra b), pudiendo operar al efecto mediante los sistemas electrónicos que disponga el Minvu para tales fines.
 
 En caso de la asignación de subsidios a familias de sectores medios, en la respectiva escritura de compraventa deberá quedar consignado el ahorro que destinará a la adquisición de la vivienda, debiendo ser como mínimo el señalado en la tabla de la letra b) del artículo 3° de este decreto, siendo de responsabilidad de la entidad desarrolladora el cumplimiento del requisito de ahorro.
 
