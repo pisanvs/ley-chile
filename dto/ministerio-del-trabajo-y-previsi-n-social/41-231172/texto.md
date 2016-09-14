@@ -158,6 +158,8 @@ g) Catástrofe: Se otorgará al afiliado por daños sufridos en su patrimonio, c
 
 h) Desgravámen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuvieren pendientes con el Servicio de Bienestar, en los casos y en la forma que establezca el Consejo Administrativo.
 
+i) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio
+
 El monto de las ayudas contempladas en las letras
 
 - **a)** hasta
