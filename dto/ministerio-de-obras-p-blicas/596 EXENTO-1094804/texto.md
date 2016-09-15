@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 596, de 22 de agosto de 2016, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropiaron los lotes de terreno N°s. 11-B-1 y 11-B-2, para la obra: "Construcción Variante Polpaico en Ruta G-132, Comuna de Til Til", que figuran a nombre de SOC. AGRÍCOLA AMANCAY LTDA. y SOC. AGRÍCOLA AMANCAY LTDA., roles de avalúo 66-49 y 66-49, Comuna de TIL TIL, Región Metropolitana, superficies 9.599 m2. y 2.291 m2., respectivamente. La Comisión de Peritos integrada por Néstor Abello Rodríguez, Norman Calderón Pontiggia y Douglas Herrera Flores, mediante informe de tasación de 21 de agosto de 2014, fijó el monto de la indemnización provisional en la cantidad de $44.329.500.-, para el lote N° 11-B-1 y $18.328.000.-, para el lote N° 11-B-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
