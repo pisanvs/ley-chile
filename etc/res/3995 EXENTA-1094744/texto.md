@@ -1,0 +1,7 @@
+DERECHOS DE AGUA EN COMUNA DE PALMILLA
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 3.995, del 25 de julio de 2016, conforme artículo 5° transitorio del Código de Aguas, complementó resolución exenta del Servicio Agrícola y Ganadero N° 143, de fecha 3 de febrero de 1988, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas de los predios "Hijuela Nenquen, Hijuela N° Tres de la Hacienda Colchagua y la Hijuela Santa Virginia" e "Hijuela Número Dos de la División de la Hacienda Colchagua", "Parte del Fundo El Arrayán", "Hijuela Quinta o Las Mercedes", "Lote Número Uno en que se dividió el Fundo Las Palmas y porción de 35 cuadras de superficie más o menos, hoy Las Palmas", "Resto del predio rústico denominado Las Palmas" y del Proyecto de Parcelación "Nenquen", ubicado en la comuna de Palmilla, Región del Libertador Bernardo O'Higgins, en el sentido de especificar el nombre del Alveo del Canal Colchagua y del Canal Población, que corresponde al estero Chimbarongo, sus captaciones se sitúan en la provincia Colchagua. Las características de los derechos de aprovechamiento de aguas son superficiales, de carácter consuntivo y de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13° de la ley N° 18.377.-
+
+Director Nacional.
