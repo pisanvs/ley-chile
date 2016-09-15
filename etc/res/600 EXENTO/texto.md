@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 600, de 22 de agosto de 2016, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 59, 60 y 67, para la obra: REPOSICIÓN RUTA G-78, SECTOR MELIPILLA-CUNCUMÉN, que figura a nombre de CORTÉS REYES MARIANO ENRIQUE, SOC EDUC SAN JOSÉ DE MELIPILLA LT y MEYER STOELZING CARLOS, roles de avalúo 2023-18, 2496-95 y 2023-27, Comuna de MELIPILLA, superficies 38, 38 y 416 m2., respectivamente. La Comisión de Peritos integrada por JUAN CARLOS INFANTE LANGEMBACH, KARINE ELKE ACEVEDO HINOJOSA y HERMAN EDGARDO FIGUEROA ZÚÑIGA, mediante informe de tasación de 04 de diciembre de 2014, fijó el monto de la indemnización provisional en la cantidad de $2.307.420 para el lote N° 59, $1.782.420 para el lote N° 60, y $17.925.440 para el lote N° 67. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
