@@ -20,47 +20,179 @@ Normas Comunes de Promoción para las Plantas de Oficiales Penitenciarios y de S
 
 #### Artículo 2º
 
-La ponderación de los factores, establecidos en el artículo 24 del Estatuto del Personal, para el ascenso de los funcionarios de las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes, en los cargos y grados que el artículo 17 del Estatuto del Personal no contempla aprobación de Curso de Perfeccionamiento o Examen Habilitante será:
+A contar del 1 de enero de 2023, la ponderación de los factores, establecidos en el artículo 24 del decreto con fuerza de ley Nº 1.791, de 1979, del Ministerio de Justicia, para el ascenso de los funcionarios de las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes, en los cargos y grados que el artículo 17 del referido decreto con fuerza de ley no contempla aprobación de Curso de Perfeccionamiento o de Examen Habilitante será:
 
-a) Nota de egreso del curso de formación,
+Para la Planta de Oficiales Penitenciarios
 
-de conformidad con lo dispuesto en el
+I) En el grado de Subteniente, para ascender a Teniente Segundo, grado 14º:
 
-respectivo reglamento: 20%
+a) Antigüedad en la Institución: 15%
 
-b) Puntaje de calificación del último período
+b) Orden de egreso de la Escuela de Gendarmería: 30%
 
-ejecutoriado: 60%
+c) Clasificación:
 
-c) Tiempo de permanencia en el grado,
+40% d) Tiempo de permanencia en el grado, expresado en meses: 15%
 
-expresado en meses: 20%
+II) En el grado de Teniente Primero, para ascender a Capitán, grado 10":
+
+a) Antigüedad en la Institución: 20%
+
+b) Orden de egreso de la Escuela de Gendarmería: 20%
+
+c) Clasificación: 40%
+
+d) Tiempo de permanencia en el grado expresado en meses: 20%
+
+III) En el grado de Teniente Coronel para ascender a Coronel, grado 4º:
+
+a) Antigüedad en la Institución: 25%
+
+b) Orden de egreso de la Escuela de Gendarmería: 10%
+
+c) Clasificación: 40%
+
+d) Tiempo de permanencia en el grado, expresado en meses: 25%
+
+Para la Planta de Suboficiales y Gendarmes
+
+I) En el grado de Gendarme, para ascender a Gendarme Segundo, grado 24º:
+
+a) Antigüedad en la Institución: 15%
+
+b) Orden de egreso de la Escuela de Gendarmería: 30%
+
+c) Clasificación: 40%
+
+d) Tiempo de permanencia en el grado, expresado en meses: 15%
+
+II) En el grado de Gendarme Segundo, para ascender a Gendarme Primero, grado 22º:
+
+a) Antigüedad en la Institución: 15%
+
+b) Orden de egreso de la Escuela de Gendarmería: 30%
+
+c) Clasificación: 40%
+
+d) Tiempo de permanencia en el grado, expresado en meses: 15%
+
+III) En el grado de Gendarme Primero, para ascender a Cabo, grado 20º:
+
+a) Antigüedad en la Institución: 15%
+
+b) Orden de egreso de la Escuela de Gendarmería: 30%
+
+c) Clasificación: 40%
+
+d) Tiempo de permanencia en el grado, expresado en meses: 15%
+
+IV) En el grado de Cabo, para ascender a Cabo Segundo, grado 18º:
+
+a) Antigüedad en la Institución: 15%
+
+b) Orden de egreso de la Escuela de Gendarmería: 30%
+
+c) Clasificación: 40%
+
+d) Tiempo de permanencia en el grado, expresado en meses: 15%
+
+V) En el grado de Cabo Segundo, para ascender a Cabo Primero, grado 16º:
+
+a) Antigüedad en la Institución: 15%
+
+b) Orden de egreso de la Escuela de Gendarmería: 30%
+
+c) Clasificación: 40%
+
+d) Tiempo de permanencia en el grado, expresado en meses: 15%
+
+VI) En el grado de Sargento Primero para ascender a Suboficial, grado 10º:
+
+a) Antigüedad en la Institución: 25%
+
+b) Orden de egreso de la Escuela de Gendarmería: 10%
+
+c) Clasificación: 40%
+
+d) Tiempo de permanencia en el grado, expresado en meses: 25%
+
+VII) En el grado de Suboficial para ascender a Suboficial Mayor, grado 9º:
+
+a) Antigüedad en la Institución: 25%
+
+b) Orden de egreso de la Escuela de Gendarmería: 10%
+
+c) Clasificación: 40%
+
+d) Tiempo de permanencia en el grado, expresado en meses: 25%
 
 #### Artículo 3º
 
-La ponderación de los factores, establecidos en el artículo 24 del Estatuto del Personal, para el ascenso de los funcionarios de las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes, en los cargos y grados que, según el artículo 17 del Estatuto del Personal, requieran la aprobación de Curso de Perfeccionamiento o Examen Habilitante, será:
+A contar del 1 de enero de 2023, la ponderación de los factores, establecidos en el artículo 24 del decreto con fuerza de ley Nº1.791, de 1979, del Ministerio de Justicia, para el ascenso de los funcionarios de las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes, en los cargos y grados que según el artículo 17 del referido decreto con fuerza de ley requieran la aprobación de Curso de Perfeccionamiento o de Examen Habilitante será:
 
-a) Nota de egreso del curso de formación,
+Para la Planta de Oficiales Penitenciarios
 
-en conformidad con lo dispuesto en el
+I) En el grado de Teniente Segundo para ascender a Teniente Primero, grado 12º:
 
-respectivo reglamento: 20%
+a) Antigüedad en la Institución: 15%
 
-b) Puntaje de calificación del último período
+b) Orden de egreso de la Escuela de Gendarmería: 20%
 
-ejecutoriado: 20%
+c) Clasificación: 30%
 
-c) Nota del examen habilitante o curso de
+d) Tiempo de permanencia en el grado, expresado en meses: 15% e) Aprobación del examen habilitante: 20%
 
-perfeccionamiento, según corresponda: 40%
+II) En el grado de Capitán para ascender a Mayor, grado 8º:
 
-d) Tiempo permanencia en el grado,
+a) Antigüedad en la Institución: 20%
 
-expresado en meses: 20%
+b) Orden de egreso de la Escuela de Gendarmería: 10%
+
+c) Clasificación: 30%
+
+d) Tiempo de permanencia en el grado, expresado en meses: 20%
+
+e) Aprobación de curso de perfeccionamiento: 20%
+
+III) En el grado de Mayor para ascender a Teniente Coronel, grado 6º:
+
+a) Antigüedad en la Institución: 20%
+
+b) Orden de egreso de la Escuela de Gendarmería: 10%
+
+c) Clasificación: 30%
+
+d) Tiempo de permanencia en el grado, expresado en meses: 20% e) Aprobación del examen habilitante: 20%
+
+Para la Planta de Suboficiales y Gendarmes:
+
+I) En el grado de Cabo Primero para ascender a Sargento Segundo, grado 14º:
+
+a) Antigüedad en la Institución: 25%
+
+b) Orden de egreso de la Escuela de Gendarmería: 10%
+
+c) Clasificación: 20%
+
+d) Tiempo de permanencia en el grado, expresado en meses: 25%
+
+e) Aprobación de curso de perfeccionamiento: 20%
+
+II) En el grado de Sargento Segundo para ascender a Sargento Primero, grado 12º:
+
+a) Antigüedad en la Institución: 25%
+
+b) Orden de egreso de la Escuela de Gendarmería: 10%
+
+c) Clasificación: 20%
+
+d) Tiempo de permanencia en el grado, expresado en meses: 25%
+
+e) Aprobación del examen habilitante: 20%.
 
 #### Artículo 4º
 
-El resultado de cada factor se obtendrá de la multiplicación del valor de la variable correspondiente por la ponderación asignada en los artículos precedentes. La sumatoria de estos resultados, entregará el puntaje final para el ascenso de cada funcionario.
+El resultado de cada factor se obtendrá de la multiplicación del valor de la variable correspondiente por la ponderación asignada en los artículos precedentes y de conformidad al artículo 10. La sumatoria de estos resultados, entregará el puntaje final para el ascenso de cada funcionario.
 
 Con el resultado de los puntajes finales, se establecerá un orden decreciente para el ascenso de los funcionarios en cada uno de los grados de las respectivas plantas. El número de funcionarios que ascenderán en cada proceso, estará limitado por la cantidad de vacantes existentes en el grado correspondiente.
 
@@ -137,6 +269,30 @@ Para efectos de lo dispuesto en el artículo 17 II, inciso final del Estatuto de
 Para obtener el puntaje del examen habilitante correspondiente, se deberá multiplicar la nota de examen por la ponderación asignada. Para obtener el puntaje del proceso calificatorio correspondiente, se deberá multiplicar el puntaje de clasificación por la ponderación asignada.
 
 De la suma de los puntajes obtenidos en cada operación, se obtendrá un puntaje final que debe ser asimilado a la escala de calificación establecida en el Reglamento de Calificaciones respectivo, quedando clasificados los funcionarios en lista 3 o 4, según corresponda.
+
+#### Artículo 10
+
+Para efectos de determinar el puntaje que definirá el ascenso de los funcionarios, se deberán tener en consideración las siguientes reglas de ponderación de los diversos factores:
+
+a) Todos los factores serán convertidos a un sistema centesimal unitario.
+
+b) Antigüedad en la institución: Cantidad de meses que un funcionario se ha desempeñado en la institución continua e ininterrumpidamente contado desde la fecha de su nombramiento. La antigüedad en la institución, será multiplicada por 100, y dividida por la antigüedad máxima en la institución, según corresponda a cada grado para estos efectos.
+
+La antigüedad máxima en la institución corresponderá al mayor número de meses que se ha desempeñado en la institución un funcionario en el respectivo grado, contado desde la fecha de su nombramiento.
+
+c) Orden de egreso: Es la ubicación en la nómina de egresados de la Escuela de Gendarmería de la respectiva generación y que determina el lugar del funcionario en su promoción.
+
+El puntaje asociado al orden de egreso será de 100 para el funcionario que obtenga la primera ubicación en la nómina de egreso de la respectiva promoción. Para los demás funcionarios de la nómina de egreso de dicha promoción se calculará el puntaje en base a la siguiente fórmula:
+
+.
+
+d) Clasificación: Considera sólo a los funcionarios clasificados en Lista Nº 1 o Nº 2. Tendrá un valor de 100 puntos en caso de encontrarse el funcionario en lista 1 y de 85 puntos en caso de encontrarse en lista 2.
+
+e) Tiempo de permanencia en el grado: Cantidad de meses que un funcionario permanezca en un grado determinado. El tiempo en el grado será multiplicado por 100 y dividido por el mayor tiempo que tenga un funcionario en dicho grado.
+
+f) Cursos de perfeccionamiento y exámenes habilitantes: aquellos que habilitan al personal para el desempeño de funciones de mayor complejidad y responsabilidad. Su aprobación es requisito para el ascenso, en los casos en que la ley así lo exija.
+
+La nota de los exámenes habilitantes o de los cursos de perfeccionamiento se dividirá por siete y el resultado obtenido se multiplicará por cien.
 
 Disposición Transitoria
 
