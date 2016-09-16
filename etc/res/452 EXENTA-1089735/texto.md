@@ -34,7 +34,9 @@ Los excedentes del primer proceso de selección, se sumarán a los recursos del 
 
 3.- Defínanse los siguientes factores regionales de prelación, de acuerdo a lo dispuesto en el Resuelvo N° 17 de la resolución exenta N° 1.290 (V. y U.) de 2016:
 
-4.- La Pauta de Evaluación mencionada en el resuelvo precedente, identificada como Anexo, se entenderá formar parte de la presente resolución.
+4.- En caso de que dos o más condominios postulantes obtengan el mismo pontaje una vez aplicados los factores de prelación, para definir al condominio con mayor pontaje se aplicarán los criterios señalados en el siguiente cuadro, hasta que se produzca el desempate:
+
+5.- La Pauta de Evaluación mencionada en el resuelvo precedente, identificada como Anexo, se entenderá formar parte de la presente resolución.
 
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese oportunamente.- Jaime Arévalo Núñez, Secretario Regional Ministerial Región del Biobío.
 
