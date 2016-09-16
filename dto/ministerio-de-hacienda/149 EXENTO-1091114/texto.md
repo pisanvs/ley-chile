@@ -22,7 +22,7 @@ Arquitectos:
 
 - María Teresa Valdivia Moya.
 
-- Sergio Rodrigo Henríquez Mondaca.
+- Sergio Rodrigo Henríquez Moncada.
 
 - Ana Carolina Zamorano Cáceres.
 
