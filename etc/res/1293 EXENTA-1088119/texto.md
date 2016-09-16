@@ -174,6 +174,8 @@ Con cargo al subsidio adicional señalado en el primer inciso de este resuelvo, 
 
 Para aquellas personas que se hayan inscrito en la modalidad a la que se refiere este párrafo y que no opten por alguno de los modelos ofrecidos de vivienda industrializada, el Serviu deberá informarles de las otras modalidades de aplicación del presente llamado.
 
+Asimismo, en caso de que los beneficiarios del DS N° 49 (V. y U.), de 2011, inscritos en esta modalidad, deban -atendidas razones técnicas y/o económicas- cambiar de empresa proveedora de vivienda industrializada o aplicar su subsidio habitacional en la modalidad que se describe en el Párrafo 3° siguiente, será el Seremi de Vivienda y Urbanismo de la Región de Atacama, mediante resolución fundada, quien sancionará la nueva elección de vivienda o la nueva modalidad de ejecución a la que haya optado el beneficiario.
+
 11. Para el pago de los certificados de los damnificados beneficiados a través del DS Nº1 (V. y U.), de 2011, se estará a lo dispuesto en los artículos 32 y en las letras a), e i), del artículo 34 de dicho reglamento.
 
 ### Párrafo 3º — Modalidad de ejecución Construcción en Sitio Propio, mediante contratista, con pago por avance de obras
