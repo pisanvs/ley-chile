@@ -388,6 +388,8 @@ Con cargo al subsidio adicional señalado en el primer inciso de este resuelvo, 
 
 Para aquellas personas que se hayan inscrito en la modalidad a la que se refiere este párrafo y que no opten por alguno de los modelos ofrecidos de vivienda industrializada, el SERVIU deberá informarles de las otras modalidades de aplicación del presente llamado.
 
+Asimismo, en caso de que los beneficiarios del DS N° 49 (V. y U.), de 2011, inscritos en esta modalidad, deban -atendidas razones técnicas y/o económicas- cambiar de empresa proveedora de vivienda industrializada o aplicar su subsidio habitacional en la modalidad que se describe en el Párrafo 3° siguiente, será el Seremi de Vivienda y Urbanismo de la Región de Atacama, mediante resolución fundada, quien sancionará la nueva elección de vivienda o la nueva modalidad de ejecución a la que haya optado el beneficiario.
+
 11. Para el pago de los certificados de los damnificados beneficiados a través del DS Nº 1 (V. y U.), de 2011, se estará a lo dispuesto en el artículo 32 y en las letras a) e i) del artículo 34 de dicho reglamento.
 
 ### Párrafo 3º — Modalidad de ejecución Construcción en Sitio Propio, mediante contratista, con pago por avance de obras
@@ -396,13 +398,13 @@ Para aquellas personas que se hayan inscrito en la modalidad a la que se refiere
 
 13. En esta alternativa, el precio de la vivienda a construir corresponderá al monto de los subsidios otorgados más el valor de aportes adicionales, en caso que corresponda. Esta alternativa no contempla la opción a crédito hipotecario para financiar la construcción de la vivienda.
 
-14. El monto de subsidio a que podrá optar el damnificado para financiar la construcción de la vivienda será de hasta 600 Unidades de Fomento.
+14. El monto de subsidio a que podrá optar el damnificado para financiar la construcción de la vivienda será de hasta 600 Unidades de Fomento en la Región de Antofagasta y de hasta 700 Unidades de Fomento en la Región de Atacama.
 
 Adicionalmente, el damnificado podrá optar a los siguientes subsidios, en los casos que corresponda:
 
 a) Subsidio para demolición, limpieza y retiro de escombros, de hasta 100 Unidades de Fomento, debiendo incluir en forma detallada las obras a ejecutar en el presupuesto de obras y en las especificaciones técnicas del proyecto.
 
-b) Subsidio para obras de habilitación del terreno, de hasta 300 Unidades de Fomento, debiendo incluir en el presupuesto de obras y en las especificaciones técnicas del proyecto el detalle de éstas. Este subsidio estará destinado al financiamiento de obras de mitigación, fundaciones especiales, preparación, contención y/o mejoramiento del terreno, conexión a redes públicas u otras obras que el SERVIU de la región respectiva autorice.
+b) Subsidio para obras de habilitación del terreno, de hasta 300 Unidades de Fomento en la Región de Antofagasta y de hasta 200 Unidades de Fomento en la Región de Atacama, debiendo incluir en el presupuesto de obras y en las especificaciones técnicas del proyecto el detalle de éstas. Este subsidio estará destinado al financiamiento de obras de mitigación, fundaciones especiales, preparación, contención y/o mejoramiento del terreno, conexión a redes públicas u otras obras que el SERVIU de la región respectiva autorice.
 
 c) Subsidio a la discapacidad de hasta 20 u 80 Unidades de Fomento, según corresponda, en los términos establecidos en la letra f) del artículo 35 del DS Nº 49 (V. y U.), de 2011.
 
@@ -726,7 +728,7 @@ Adicionalmente se podrán otorgar anticipas contra avance de obras hasta complet
 
 La boleta de garantía entregada para caucionar el primer anticipo sin avance de obras, podrá ser devuelta por el SERVIU una vez que se haya acreditado mediante Certificado del Departamento Técnico que las obras se encuentran completamente terminadas conforme al proyecto aprobado.
 
-Para el pago de los anticipos no será necesario que el terreno en el que se emplazará la vivienda esté afecto a la prohibición de enajenar a favor del SERVIU, a que se refiere el artículo 60 del DS Nº 49 (V. y U.), de 2011.
+Para el pago de los anticipos no será necesario que el terreno en el que se emplazará la vivienda esté afecto a la prohibición de enajenar a favor del SERVIU, a que se refiere el artículo 69, letra c) del DS Nº 49 (V. y U.), de 2011.
 
 La boleta de buena ejecución y buen comportamiento de las obras deberá ser equivalente al 2,5% del monto total del contrato, tener una vigencia de 365 días a partir de la recepción definitiva de obras por parte de la Dirección de Obras Municipales y caucionar además la prestación del servicio de post venta a que se refiere el inciso octavo del artículo 29 del DS Nº 49 (V. y U.), de 2011.
 
