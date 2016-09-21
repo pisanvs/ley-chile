@@ -42,9 +42,11 @@ b) 10,70 - 11,7 GHz espacio - Tierra
 
 13,75 - 14,0 GHz Tierra - Espacio
 
-c) 11,7 - 12,2 GHz espacio - Tierra
+c) 11,7 - 12,7 GHz espacio - Tierra
 
 14,0 - 14,5 GHz Tierra - espacio
+
+17,3 - 17,8 GHz Tierra - espacio
 
 d) 18,8 - 19,3 GHz espacio - Tierra
 
@@ -54,11 +56,15 @@ e) 19,7 - 21,2 GHz espacio - Tierra
 
 29,5 - 31,0 GHz Tierra - Espacio
 
-Nota: Lo anterior, sin perjuicio de lo establecido en el cuadro de atribución de bandas de frecuencias del Plan General de Uso del Espectro Radioeléctrico, en especial para las bandas 10,70 - 11,7 GHz y 18,8 - 19,3 GHz que deberán coordinarse con los enlaces del servicio fijo. En el caso de las permisionarias de servicio limitado de televisión por satélite que emplea múltiples estaciones terrenas receptoras, será de su responsabilidad tomar medidas para evitar interferencias que pudieran causar los enlaces punto a punto que existan a la fecha de la instalación de la respectiva estación terrena receptora y no reclamará protección respecto de dichos enlaces punto a punto.
+Nota 1: Lo anterior, sin perjuicio de lo establecido en el cuadro de atribución de bandas de frecuencias del Plan General de Uso del Espectro Radioeléctrico, en especial para las bandas 10,70 - 11,7 GHz y 18,8 - 19,3 GHz que deberán coordinarse con los enlaces del servicio fijo. En el caso de las permisionarias de servicio limitado de televisión por satélite que emplea múltiples estaciones terrenas receptoras, será de su responsabilidad tomar medidas para evitar interferencias que pudieran causar los enlaces punto a punto que existan a la fecha de la instalación de la respectiva estación terrena receptora y no reclamará protección respecto de dichos enlaces punto a punto.
+
+Nota 2: De acuerdo a lo establecido en el Plan General de Uso del Espectro Radioeléctrico, la atribución al servicio fijo por satélite, en la banda 12,2 - 12,7 GHz, es a título secundario.
+
+Nota 3: Conforme a lo establecido en el Plan General de Uso del Espectro Radioeléctrico, está permitida la utilización de la banda 17,3 - 17,8 GHz para los enlaces Tierra - espacio del servicio fijo por satélite, que opera a título secundario en la banda 12,2 - 12,7 GHz (espacio - Tierra), a condición de no interferir a los enlaces de conexión del servicio de radiodifusión por satélite.
 
 #### Artículo 3º
 
-Las frecuencias específicas a utilizar por las estaciones de las concesionarias y permisionarias del servicio, corresponderán a las que convengan con el proveedor de la red satelital, las cuales deberán estar inscritas ante la Unión Internacional de Telecomunicaciones. Además, será obligación de las concesionarias o permisionarias del servicio, según corresponda, tomar todas las medidas del caso para no causar interferencias en bandas de frecuencias adyacentes.
+Las frecuencias específicas a utilizar por las estaciones de las concesionarias y permisionarias del servicio, corresponderán a las que convengan con el proveedor de la red satelital, las cuales deberán estar previamente coordinadas e inscritas ante la Unión Internacional de Telecomunicaciones. Además, será obligación de las concesionarias o permisionarias del servicio, según corresponda, tomar todas las medidas del caso para no causar interferencias en bandas de frecuencias adyacentes.
 
 #### Artículo 4º
 
