@@ -106,9 +106,9 @@ f) Proyecto de Ampliación en Viviendas de igual o menos de 30 metros cuadrados.
 
 A estos tipos de Proyectos Focalizados, señalados en el punto 2.2 precedente, se le otorgará al total del grupo, un puntaje adicional a los ya dispuestos en el DS N° 255 (V. y U.), de 2006, para los proyectos de mejoramiento y/o ampliación de una vivienda. Los puntajes serán los estipulados en el siguiente cuadro:
 
-3. Para participar de este llamado los proyectos deben contar con calificación hasta los días 17 de junio, 14 de septiembre y 30 de noviembre de 2016.
+3. Para participar de este llamado los proyectos deben contar con calificación hasta los días 17 de junio, 26 de septiembre y 30 de noviembre de 2016.
 
-4. Los recursos involucrados para la selección de los proyectos postulantes en el concurso dispuesto en el resuelvo número 1 de esta resolución, se distribuyen regionalmente según el siguiente cuadro:
+4. Los recursos involucrados para las selecciones de los proyectos calificados conforme al resuelvo 3. de esta resolución, se distribuyen regionalmente según los siguientes cuadros:
 
 .
 
@@ -116,7 +116,7 @@ Nota: De los recursos asignados a la Región del Biobío en las tablas precedent
 
 Los montos disponibles regionalmente para la tercera selección serán inicialmente los mismos que se indican en el cuadro para la segunda selección, pero podrán variar al adicionarle el saldo disponible tras efectuar la segunda selección y al descontarle las asignaciones directas que se hubieren realizado en las regiones con anterioridad al 2 de noviembre de 2016.
 
-5. El número de proyectos seleccionados en cada región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a este llamado, según la tabla precedente, incluidos los Servicios de Asistencia Técnica que correspondan.
+5. El número de proyectos que podrán ser beneficiados en cada selección de este llamado alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles según las tablas precedentes, incluidos los Servicios de Asistencia Técnica que correspondan.
 
 Se podrán disminuir los recursos del presente llamado o aumentarlos con cargo a los recursos asignados para el Programa de Protección del Patrimonio Familiar del año 2016, por resolución de la Ministra de Vivienda y Urbanismo, como también determinar la redistribución de recursos por títulos, de acuerdo a la necesidad de cada región.
 
@@ -168,7 +168,7 @@ Los proyectos de Innovación de Eficiencia Energética presentados a este llamad
 
 9.4 El contratista ejecutor de las obras deberá presentar una boleta bancaria de garantía de acuerdo a lo señalado en el artículo 35 del DS 255 (V. y U.), de 2006, que deberá garantizar como mínimo por dos años la instalación, ejecución y buen funcionamiento de las obras.
 
-9.5 A los factores de puntaje definidos para el Título II, en el artículo 28 del DS N° 255 (V. y U.), de 2006, se agregan los siguientes factores adicionales, cuyos puntajes se aplicarán a los proyectos presentados en la selección de este llamado:
+9.5 A los factores de puntaje definidos para el Título II, en el artículo 28 del DS N° 255 (V. y U.), de 2006, se agregan los siguientes factores adicionales, cuyos puntajes se aplicarán a los proyectos presentados en las selecciones de este llamado:
 
 9.6 La obtención de un subsidio destinado a la instalación de sistemas solares térmicos a través de este llamado, no será impedimento para obtener otros subsidios correspondientes al Título II, del Programa de Protección del Patrimonio Familiar. Además, las personas que hayan sido beneficiadas anteriormente con un subsidio de Mejoramiento de la Vivienda, del Título II del Programa de Protección del Patrimonio Familiar, no tendrán impedimento para concursar y ser beneficiados en este llamado, siempre que no se trate del mismo tipo de obra.
 
@@ -306,13 +306,13 @@ El postulante debe ser postulante individual o bien encontrarse inserto en un gr
 
 17. No podrán participar en este llamado los proyectos para la atención de Condominios de Viviendas Sociales del Capítulo Segundo del DS Nº 255 (V. y U.) del 2006.
 
-18. Para participar en este proceso de selección, las personas interesadas deberán acreditar haber enterado el ahorro mínimo correspondiente según el Título al que postula, según lo indicado en el artículo 9° del DS Nº 255 (V. y U.), de 2006.
+18. Para participar en las selecciones, las personas interesadas deberán acreditar haber enterado el ahorro mínimo correspondiente según el Título al que postula, según lo indicado en el artículo 9° del DS Nº 255 (V. y U.), de 2006.
 
 19. Los puntajes de corte serán determinados de acuerdo a la forma siguiente:
 
 a) Para las personas que postularon en los años 2014 y 2015, se considerará el puntaje de la Ficha de Protección Social (FPS) que registraron en la última postulación, en los llamados de programas habitacionales.
 
-b) Las familias que no postularon en los años señalados precedentemente, se les considerará la Calificación Socioeconómica (CSE) del Registro Social de Hogares (RSH) tomando el tramo 6 para su puntaje de corte.
+b) Las familias que no postularon en los años señalados precedentemente, se les considerará la Calificación Socioeconómica (CSE) del Registro Social de Hogares (RSH) tomando el tramo del 60% para su puntaje de corte.
 
 c) En las postulaciones colectivas se aceptará que el 60% de los integrantes cumpla con el tramo del III Quintil según Ficha de Protección Social de la última postulación y/o del tramo del 60% según Calificación Socioeconómica. La diferencia, es decir, el 40% de los integrantes del grupo, podrá superar los topes anteriores.
 
