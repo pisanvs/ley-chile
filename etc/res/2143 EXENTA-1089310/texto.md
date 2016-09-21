@@ -26,6 +26,8 @@ Resolución:
 
 2. Los recursos involucrados para la selección de postulantes, por Región y Provincia del país, según se indica para este último caso, por cada proceso de selección, son los siguientes:
 
+.
+
 3. El número de proyectos seleccionados en cada Región o Provincia alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución.
 
 4. Los postulantes que cuenten con Formulario de Ingreso al Registro Social de Hogares deberán acreditar un ahorro mínimo de 10 Unidades de Fomento si pertenecen al 40% más vulnerable de la población y 15 Unidades de Fomento si forman parte del 60% restante, cumpliendo para ello lo establecido en los artículos 38, 39 y 40 del DS Nº 49 (V. y U.), del 2011.
