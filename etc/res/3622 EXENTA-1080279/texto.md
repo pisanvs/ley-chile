@@ -16,7 +16,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase desde el 8 de agosto de 2015 y hasta el 20 de septiembre de 2016, la circulación de todo tipo de vehículos motorizados por Ruta G-78, entre calle O'Higgins y Enlace El Paico, de la comuna de El Monte.
+1.- Prohíbase desde el 8 de agosto de 2015 y hasta el 28 de noviembre de 2016, la circulación de todo tipo de vehículos motorizados por Ruta G-78, entre calle O'Higgins y Enlace El Paico, de la comuna de El Monte.
 
 2.- Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia, los destinados a cumplir funciones en las obras relacionadas con el proyecto mencionado y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicados en dicho tramo.
 
