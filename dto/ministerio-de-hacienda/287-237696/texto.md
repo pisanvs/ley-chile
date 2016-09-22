@@ -18,7 +18,9 @@ La regulación del funcionamiento y fiscalización de los casinos de juego, y de
 
 #### Artículo 2º
 
-Para los efectos del presente reglamento, se entenderá por casino de juego, en adelante "el casino" o "los casinos", el establecimiento, inmueble o parte de un inmueble, consistente en un recinto cerrado, en cuyo interior se desarrollan los juegos de azar autorizados, se reciben las apuestas, se pagan los premios correspondientes y funcionan los servicios anexos.
+Para los efectos del presente reglamento, se entenderá por casino de juego, en adelante "el casino" o "los casinos", el establecimiento, inmueble o parte de un inmueble, consistente en un recinto cerrado, en cuyo interior se desarrollan los juegos de azar autorizados por la Superintendencia, contemplados en el permiso de operación y sus modificaciones, de acuerdo a lo establecido en la ley y el reglamento, se reciben las apuestas, se pagan los premios correspondientes y funcionan los servicios anexos.
+
+Adicionalmente, en el referido establecimiento podrán llevarse a cabo las actividades de demostración que las sociedades operadoras deseen implementar, según las instrucciones que al efecto imparta la Superintendencia, y excepcionalmente, tales actividades de demostración podrán realizarse por las sociedades operadoras fuera del casino de juego, previa autorización de la Superintendencia y acorde a las instrucciones que se emitan al respecto. En todo caso, las actividades de demostración no incluirán la realización de apuestas, otorgamiento de créditos o cualquiera otra actividad que no esté expresamente autorizada por la Superintendencia.
 
 Ningún establecimiento que no haya sido previamente autorizado como casino de juego mediante el correspondiente permiso de operación, en los términos previstos en el reglamento respectivo, podrá ostentar dicha denominación, con excepción de los casinos de juego existentes a la fecha de publicación de la Ley Nº19.995.
 
@@ -52,13 +54,13 @@ Lo dispuesto precedentemente se entiende sin perjuicio del ejercicio de las facu
 
 #### Artículo 6º
 
-Los casinos de juego funcionarán todos los días del año, salvo aquellos días de excepción establecidos por la ley. Cada sociedad operadora determinará el horario de funcionamiento del establecimiento, y de los juegos que se desarrollen en él. En todo caso, ningún casino de juego, cualquiera sea el día o la época del año, podrá funcionar menos de seis horas en el día.
+La totalidad de las salas de juego de los casinos funcionarán a lo menos seis días a la semana, salvo aquellos días de excepción establecidos por la ley. Cada sociedad operadora determinará los días y el horario de funcionamiento de las salas de juego, así como de los juegos que se desarrollen en ellas, en consideración a lo establecido en el inciso final del artículo 5º de la ley Nº 19.995. Sin perjuicio de lo anterior, el bingo deberá funcionar a lo menos tres días durante la semana y, como mínimo, dos horas diarias. En todo caso, ningún casino de juego, cualquiera sea el día o la época del año, podrá funcionar menos de seis horas en el día.
 
-La sociedad operadora deberá comunicar a la Superintendencia el horario de funcionamiento establecido, como igualmente cualquier modificación que efectuare al mismo.
+La sociedad operadora deberá comunicar a la Superintendencia los días y el horario de funcionamiento que determine, como igualmente cualquier modificación que efectuare al mismo, de acuerdo a las instrucciones que al efecto imparta la Superintendencia.
 
-El horario de funcionamiento deberá anunciarse de manera visible al público. El casino no podrá suspender sus actividades antes de la hora establecida, salvo por razones de fuerza mayor.
+El horario y días de funcionamiento tanto de las salas de juego como de los servicios anexos del casino, deberán anunciarse de manera visible al público. El casino no podrá suspender sus actividades antes de la hora establecida, salvo por razones de fuerza mayor.
 
-Lo dispuesto en el inciso precedente se entiende sin perjuicio de las variaciones en la apertura y cierre de mesas, máquinas o posiciones de juego del bingo que el operador puede efectuar durante la operación cotidiana del casino, en consideración a la afluencia de jugadores, hora, días de la semana o estacionalidad.
+Lo dispuesto en el inciso precedente, se entiende sin perjuicio de las variaciones en la apertura y cierre de mesas, máquinas o posiciones de juego del bingo que el operador puede efectuar durante la operación cotidiana del casino, en consideración a la afluencia de jugadores, hora, días de la semana o estacionalidad.
 
 ### Párrafo 2º
 
@@ -66,9 +68,9 @@ De las salas de juego
 
 #### Artículo 7º
 
-En los casinos de juego existirá al menos una sala principal para el desarrollo de los juegos. No obstante, deberá habilitarse una sala diferenciada para la ubicación y operación del juego bingo.
+En los casinos de juego existirá al menos una sala principal para el desarrollo de los juegos. No obstante, deberá habilitarse una sala diferenciada para la ubicación y operación del juego bingo, en la que podrán, además, explotarse conjuntamente los servicios anexos de restaurante, bar, cafetería o salón de té, salas de estar y salas de espectáculos o eventos, en la medida que no se afecte el normal desarrollo del juego, siempre que estos se encuentren contemplados en su permiso de operación y sean autorizados por la Superintendencia. Asimismo, en el área destinada a la explotación del juego de bingo, pero fuera del horario de funcionamiento de éste, se podrá desarrollar el juego de máquinas de azar, por lo que en dicha área no podrán desarrollarse de manera simultánea los juegos de bingo y de máquinas de azar.
 
-Con todo, la sociedad operadora deberá poner en conocimiento de la Superintendencia la creación de salas de acceso restringido para el desarrollo de determinados juegos, en consideración al monto de las apuestas u otras modalidades. La entrada del público a esas salas será supervisada por el Director General de Juegos del casino.
+Con todo, la sociedad operadora deberá poner en conocimiento de la Superintendencia la creación de salas de acceso restringido para el desarrollo de determinados juegos, en consideración al monto de las apuestas u otras modalidades, tales como salones VIP, salas de torneo, entre otras. La entrada del público a esas salas será supervisada por el personal de juego del casino.
 
 #### Artículo 8º
 
@@ -76,7 +78,7 @@ Las salas de juego deberán estar dotadas de salidas de emergencia suficientes a
 
 Además de la iluminación general del establecimiento, cada mesa de juego deberá disponer de iluminación propia, que permita el adecuado desarrollo de los juegos, tanto para los jugadores como para el personal a cargo, como asimismo para el eficiente desarrollo de lo previsto en el inciso siguiente.
 
-Todas las salas de juego deberán contar con sistemas de circuito cerrado de televisión que permitan un eficiente control, grabación y registro de los diversos juegos que se desarrollan en el establecimiento, sistemas que deberán mantenerse ininterrumpidamente en funcionamiento mientras las salas de juego estén abiertas al público. Asimismo, deberán existir tales sistemas para efectos de la vigilancia y control de las demás operaciones del casino, en especial en las cajas, salas de recuento y bóveda, los que deberán mantenerse en funcionamiento mientras tales operaciones no hayan concluido. Los registros de grabación de los sistemas señalados serán almacenados en el establecimiento por el tiempo que la Superintendencia instruya.
+Todas las salas de juego deberán contar con sistemas de circuito cerrado de televisión que permitan un eficiente control, grabación y registro de los diversos juegos que se desarrollan en el establecimiento, sistemas que deberán mantenerse ininterrumpidamente en funcionamiento mientras las salas de juego estén abiertas al público. Asimismo, deberán existir tales sistemas para efectos de la vigilancia y control de las demás operaciones del casino, en especial en las cajas, accesos al casino de juego, salas de recuento y bóveda, los que deberán mantenerse en funcionamiento mientras tales operaciones no hayan concluido. Los registros de grabación de los sistemas señalados serán almacenados en el establecimiento por el tiempo y forma que la Superintendencia determine en instrucciones de general aplicación.
 
 Lo dispuesto en los incisos precedentes se entiende sin perjuicio de los demás sistemas de seguridad y vigilancia que sean necesarios para resguardo de las personas y del establecimiento.
 
@@ -100,19 +102,21 @@ Será responsabilidad del operador, y en especial del personal a cargo de la adm
 
 Los operadores no podrán imponer otras prohibiciones de admisión a las salas de juego distintas de las establecidas en el presente artículo.
 
+Sin perjuicio de lo indicado en los incisos precedentes, las personas que voluntariamente decidan autoexcluirse del ingreso a las salas de juego de un casino de juego, deberán sujetarse a las formalidades establecidas al efecto por la Superintendencia, para efectos de su ingreso y permanencia en ellas.
+
 #### Artículo 10
 
-El ingreso a las salas de juego estará gravado con impuesto fiscal equivalente a 0,07 unidad tributaria mensual, según se establece en el artículo 58 de la Ley.
+El ingreso a las salas de juego estará gravado con impuesto fiscal equivalente a 0,07 unidad tributaria mensual, según se establece en el artículo 58 de la Ley. Es responsabilidad de la sociedad operadora disponer de las medidas necesarias para dar cumplimiento a lo anteriormente señalado.
 
 En todo caso, los funcionarios de la Superintendencia y demás funcionarios públicos no se estarán sujetos al pago de entrada que fijaren los casinos, cuando se encuentren en cumplimiento de sus funciones.
 
 #### Artículo 11
 
-En el servicio de admisión del casino deberá informarse al público, mediante carteles o folletos, el horario de funcionamiento y las condiciones generales de admisión.
+En el servicio de admisión del casino deberá informarse al público, mediante carteles o folletos, el horario y días de funcionamiento y las condiciones generales de admisión a las salas de juego y a los servicios anexos.
 
-Asimismo, podrán existir folletos gratuitos que contengan disposiciones generales de funcionamiento de las salas de juego y las reglas para la práctica de los juegos que se desarrollen en el casino.
+Asimismo, podrán existir folletos gratuitos que contengan disposiciones generales de funcionamiento de las salas de juego y las reglas para la práctica de los juegos que se desarrollen en el casino, las que, en todo caso, deberán ajustarse a lo establecido en el Catálogo de Juegos a que se refiere el artículo 4 de la ley Nº 19.995.
 
-Sin perjuicio de lo anterior, en el casino deberá encontrarse disponible para consulta del público un ejemplar de la Ley Nº 19.995 y sus reglamentos.
+Sin perjuicio de lo anterior, en el casino deberá encontrarse disponible para consulta del público un ejemplar de la Ley Nº 19.995 y sus reglamentos , así como del Catálogo de Juegos vigente.
 
 ### Párrafo 3º
 
@@ -170,7 +174,7 @@ de Cambio
 
 - Cambista
 
-Cada una de las funciones señaladas precedentemente podrán ser desempeñadas por la cantidad de personas que la administración del casino establezca, y en los horarios y turnos que ésta deberá disponer al efecto; lo anterior, se entiende sin perjuicio de lo dispuesto en el artículo 17.
+Cada una de las funciones señaladas precedentemente podrán ser desempeñadas por la cantidad de personas que la administración del casino establezca, y en los horarios y turnos que ésta deberá disponer al efecto; lo anterior, se entiende sin perjuicio de lo dispuesto en el artículo 17. Con todo, el personal de Tesorería Operativa no podrá desempeñar funciones sucesiva ni simultáneamente en las Áreas de Mesas de Juego, Máquinas de Azar y Bingo.
 
 Asimismo, y en consideración a los requerimientos de operación del establecimiento, el operador podrá contemplar adicionalmente otras funciones a las señaladas en el inciso primero, lo que en todo caso deberá ser informado a la Superintendencia antes de su implementación.
 
@@ -184,9 +188,9 @@ El nombramiento en cualesquiera de los cargos antes mencionados deberá ser comu
 
 #### Artículo 15
 
-El Director General deberá permanecer en el establecimiento durante las horas de funcionamiento de las salas de juego. Si hubiere de ausentarse dentro de dicho período, deberá ser reemplazado de inmediato por el suplente que el operador haya dispuesto o en su defecto por alguno de los Directores.
+El Director General deberá permanecer en el establecimiento durante las horas de funcionamiento de las salas de juego. Si hubiere de ausentarse dentro de dicho período, deberá ser reemplazado de inmediato por el suplente que el operador haya dispuesto o en su defecto por alguno de los Directores, según orden de prelación establecido por el operador. Con todo, el Director General de Juegos no podrá ser reemplazado, cualquiera sea el intervalo de tiempo en que se ausente de sus funciones, por personal dependiente del Área de Tesorería Operativa del casino de juego.
 
-El Director General y los demás Directores, en lo que les corresponda, son responsables de la custodia del material de juego, del dinero y valores provenientes de la operación de los juegos, así como de la documentación y registros en que conste la contabilidad de los mismos. Todo el material y documentación señalados deberán estar permanentemente a disposición del personal fiscalizador de la Superintendencia.
+El Director General y los demás Directores, en lo que les corresponda, son responsables de la custodia del material de juego, del dinero y valores provenientes de la operación de los juegos, así como de la documentación y registros de las transacciones o movimientos y de aquélla en que conste la contabilidad de los mismos. Todo el material y documentación señalados deberán estar permanentemente a disposición del personal fiscalizador de la Superintendencia.
 
 #### Artículo 16
 
@@ -212,21 +216,25 @@ d) Conceder préstamos a los jugadores.
 
 e) Transportar o mantener fichas o dinero durante su servicio en el interior del casino, con infracción a los procedimientos previstos en las normas de funcionamiento.
 
-f) Consumir bebidas alcohólicas durante las horas de servicio.
+f) Consumir bebidas alcohólicas o sustancias estupefacientes durante las horas de servicio.
 
-g) Desempeñar funciones de cualquier naturaleza en los servicios anexos.
+g) Desempeñar funciones de cualquier naturaleza en los servicios anexos, a excepción de quienes vayan a realizar funciones en el servicio anexo de cambio de moneda extranjera, cuando dicho servicio sea administrado por la misma sociedad operadora.
 
 h) Las demás que establezca la administración superior del establecimiento, atendida la naturaleza de la actividad, siempre que no sean contrarias a la legislación vigente.
 
+> **Nota.** El numeral 10 del artículo único del Decreto 1253, Hacienda, dispone sustituir las letras c), f) y g) del presente artículo, sin embargo, solamente proporciona el texto para sustituir de los literales f) y g)
+
 #### Artículo 19
 
-La entrega de propinas en las salas de juego constituye siempre un acto discrecional de los jugadores, en cuanto a su procedencia, oportunidad y cuantía; por consiguiente, queda estrictamente prohibido al personal de juego requerir propinas de los jugadores, como asimismo aceptarlas a titulo personal.
+La entrega de propinas en las salas de juego constituye siempre un acto discrecional de los jugadores, en cuanto a su procedencia, oportunidad y cuantía; por consiguiente, queda estrictamente prohibido al personal de juego requerir propinas de los jugadores, como asimismo aceptarlas a título personal.
 
-Las propinas que por cualquier titulo entreguen los jugadores deberán ser inmediatamente depositadas en los compartimentos que se encuentren dispuestos al efecto en las salas de juego, sin que puedan ser guardadas de otra forma, en todo o en parte. El monto de las propinas se contará diariamente al finalizar el horario de juego, se anotará en una cuenta especial y pasará a integrar el fondo que se deberá formar al efecto en cada establecimiento.
+Las propinas que por cualquier título entreguen los jugadores deberán ser inmediatamente depositadas en los compartimentos o cajas cerradas especialmente habilitadas para ese fin, que se encuentren dispuestas al efecto en las salas de juego, sin que puedan ser guardadas de otra forma, en todo o en parte.
 
-El fondo de propinas cederá íntegramente en beneficio del personal de juego a que se refiere el presente párrafo y su distribución se efectuará mensualmente. La sociedad operadora y los representantes de dicho personal acordarán el procedimiento y los criterios de distribución del fondo, en el reglamento interno que se dicte al efecto, considerándose la calificación y antigüedad de los beneficiarios.
+El monto de las propinas se contará diariamente al finalizar el horario de juego, debiendo dejarse testimonio fidedigno del resultado del recuento, dando cuenta de la fecha y hora de aquél, la cantidad total contada, y el nombre y firma de los responsables del recuento según lo establecido en el respectivo reglamento interno. El resultado total y final del recuento se anotará en una cuenta especial y pasará a integrar el fondo que se deberá formar al efecto en cada establecimiento.
 
-El reglamento señalado, así como cualquier modificación a éste, será puesto en conocimiento de la Superintendencia, la que velará por el estricto cumplimiento de lo dispuesto en el presente artículo.
+El fondo de propinas cederá íntegramente en beneficio del personal de juego a que se refiere el presente párrafo y su distribución se efectuará mensualmente en conformidad al procedimiento que para tal efecto se contemple en el respectivo reglamento interno que deberá estar vigente en cada casino de juego. El reglamento interno antes aludido, deberá regular, a lo menos, los siguientes aspectos: nombre, objeto y vigencia del fondo de propinas; beneficiarios del mismo; órgano administrador del fondo de propinas, señalando su denominación, nombramiento, funciones y atribuciones; proceso eleccionario del órgano administrador del fondo de propinas; órgano de control y fiscalización de la administración del fondo de propinas, estableciendo su denominación, nombramiento, funciones y atribuciones; obligaciones de los beneficiarios del fondo de propinas; causales de descuento y pérdida de derechos de los beneficiarios del fondo de propinas; disposiciones transitorias relativas al nombramiento de los miembros provisorios de los órganos respectivos que se establezcan en el reglamento interno y la época en que se efectuará la elección de sus miembros permanentes.
+
+La Superintendencia de Casinos de Juego, en el contexto del proceso de revisión de estricto cumplimiento de las obligaciones legales y reglamentarias necesarias para iniciar la operación de un casino de juego, contemplado en el artículo 28 de la ley Nº 19.995, deberá verificar la existencia de un reglamento interno de fondo de propinas y el cumplimiento de lo dispuesto en los incisos 2º y 4º precedentes. Una vez expedido el certificado aludido en el citado artículo 28 de la ley Nº 19.995, toda modificación al reglamento interno del fondo de propinas se regirá por lo dispuesto en él, debiéndose comunicar a la Superintendencia las modificaciones aprobadas en conformidad a las instrucciones generales que para tal efecto se impartan. Del mismo modo, todo reclamo y/o disputa en relación con la validez, nulidad, interpretación, existencia, inexistencia, cumplimiento, incumplimiento, duración, vigencia, resolución, aplicación o cualquier otra causa relacionada directa o indirectamente con el respectivo reglamento interno del fondo de propinas, deberá resolverse en conformidad a las normativas establecidas en el ordenamiento jurídico vigente o, en su caso, por los respectivos tribunales, ordinarios o especiales de justicia.
 
 #### Artículo 20
 
@@ -242,7 +250,7 @@ Son servicios anexos, los servicios complementarios a la explotación de los jue
 
 #### Artículo 22
 
-En los casinos de juego las sociedades operadores podrán prestar, en calidad de servicios anexos, sólo los siguientes:
+En los casinos de juego las sociedades operadores podrán prestar, en calidad de servicios anexos, los siguientes:
 
 a) Servicio de restaurante.
 
@@ -256,11 +264,11 @@ e) Salas de estar.
 
 f) Salas de espectáculos o eventos.
 
-Los servicios anexos mencionados en las letras a), b) y e) precedentes tendrán carácter obligatorio y deberán prestarse necesariamente por todo operador de casino de juego. La prestación de cualquier otro servicio anexo de los señalados en el inciso precedente será facultativa para el operador, previa autorización de la Superintendencia.
+Con todo, los servicios anexos mencionados en las letras a) y b) precedentes tendrán carácter obligatorio y deberán considerarse en las respectivas ofertas técnicas, y prestarse necesariamente por todo operador de casino de juego. La inclusión en la oferta técnica de cualquier otro servicio anexo de los señalados en el inciso precedente será facultativa para el operador, previa autorización de la Superintendencia.
 
 #### Artículo 23
 
-Los servicios anexos deberán localizarse en el mismo inmueble o establecimiento que comprenda el casino, pero en sectores diferenciados de aquellos en que funcionan los juegos, aunque no necesariamente cerrados.
+Los servicios anexos deberán localizarse en el mismo inmueble o establecimiento que comprenda el casino, pero en sectores diferenciados de aquellos en que funcionan los juegos, aunque no necesariamente cerrados a excepción de la categoría de juego bingo, según se señala en el artículo 7 de este Reglamento.
 
 Sin perjuicio de lo establecido precedentemente, los servicios anexos deberán cumplir, además, con los requisitos generales y especiales exigidos a este tipo de locales y servicios por la legislación y reglamentación vigentes.
 
@@ -304,7 +312,7 @@ b) Renuncia del operador
 
 c) Disolución de la sociedad anónima operadora
 
-d) Quiebra del operador, y
+d) Procedimiento concursal de liquidación, y
 
 e) Revocación
 
@@ -316,9 +324,9 @@ La Superintendencia calificará y evaluará las condiciones que sustenten la ren
 
 #### Artículo 29
 
-La disolución de conformidad a la ley de la sociedad operadora de un casino de juego, o su declaratoria de quiebra por resolución ejecutoriada conforme al procedimiento judicial pertinente, producirá la extinción del respectivo permiso de operación.
+La disolución de conformidad a la ley de la sociedad operadora de un casino de juego, o su procedimiento concursal de liquidación por resolución ejecutoriada conforme al procedimiento judicial pertinente, producirá la extinción del respectivo permiso de operación.
 
-Una vez que la Superintendencia ha tomado debido conocimiento de la disolución de la sociedad o de su declaratoria de quiebra, dictará una resolución declarando tales circunstancias, la que será comunicada al Consejo Resolutivo y publicada en el Diario Oficial.
+Una vez que la Superintendencia ha tomado debido conocimiento de la disolución de la sociedad o de su procedimiento concursal de liquidación, dictará una resolución declarando tales circunstancias, la que será comunicada al Consejo Resolutivo y publicada en el Diario Oficial.
 
 #### Artículo 30
 
@@ -336,13 +344,13 @@ e) Explotar juegos no autorizados o prohibidos.
 
 f) Transferir la propiedad o el uso del permiso de operación o de las licencias de juego otorgadas.
 
-g) Explotar servicios anexos no autorizados en el permiso de operación, sin contar previamente con la autorización de la Superintendencia.
+g) Explotar servicios anexos no contemplados en el permiso de operación, sin contar previamente con la autorización de la Superintendencia.
 
 h) Contratar con terceros la administración o prestación de los servicios anexos, sin contar previamente con la autorización correspondiente.
 
 i) Introducir modificaciones sustanciales al establecimiento en que funcione el casino de juego, sin contar previamente con la autorización de la Superintendencia.
 
-j) Infringir gravemente las instrucciones que imparta la Superintendencia en ejercicio de sus funciones legales y reglamentarias.
+j) Infringir gravemente las instrucciones que imparta la Superintendencia en ejercicio de sus funciones legales y reglamentarias, en relación a las actividades que deban realizarse en los casinos.
 
 k) Negar la información requerida por la
 
@@ -354,9 +362,11 @@ m) Utilizar máquinas o implementos de juego no comprendidos en el registro de h
 
 n) Negar el pago total o parcial de los premios provenientes de los juegos.
 
-ñ) Disminuir, durante la vigencia del permiso de operación, el capital social mínimo y no haber enterado este mínimo dentro del plazo establecido en la letra c) del artículo 17 de la Ley Nº 19.995, regulado en lo pertinente en el Reglamento sobre Tramitación y Otorgamiento de Permisos de Operación de Casinos de Juego, y
+ñ) Disminuir, durante la vigencia del permiso de operación, el capital social mínimo y no haber enterado este mínimo dentro del plazo establecido en la letra c) del artículo 17 de la Ley Nº 19.995, regulado en lo pertinente en el Reglamento sobre Tramitación y Otorgamiento de Permisos de Operación de Casinos de Juego.
 
-o) Haber incurrido los administradores o gerentes de la sociedad operadora de un casino de juego, o quienes hagan las veces de tales, en las conductas prescritas en los números 4 y 5 del artículo 97 del Código Tributario, una vez agotados los procedimientos administrativos y judiciales que corresponda incoar frente a tales infracciones, de conformidad al referido cuerpo legal, y previo informe del Servicio de Impuestos Internos.
+o) Haber incurrido los administradores o gerentes de la sociedad operadora de un casino de juego, o quienes hagan las veces de tales, en las conductas prescritas en los números 4 y 5 del artículo 97 del Código Tributario, una vez agotados los procedimientos administrativos y judiciales que corresponda incoar frente a tales infracciones, de conformidad al referido cuerpo legal, y previo informe del Servicio de Impuestos Internos, y
+
+p) No haber dado cumplimiento a la oferta económica presentada para optar al permiso de operación y a las obligaciones establecidas en el artículo 20 letra k) de la ley Nº 19.995.
 
 #### Artículo 31
 
@@ -372,21 +382,23 @@ De la fiscalización
 
 #### Artículo 33
 
-Conforme establece la Ley, corresponde a la Superintendencia la fiscalización de todas las actividades y operaciones de los casinos de juego; comprendiéndose, entre otras, el desarrollo de los juegos, los implementos y máquinas usados para su práctica, las apuestas y premios asociados a los mismos, los ingresos generados por su explotación, la prestación de los servicios anexos y, en general, el correcto funcionamiento del establecimiento.
+Conforme establece la ley, corresponde a la Superintendencia la fiscalización de todas las actividades y operaciones de los casinos de juego; comprendiéndose, entre otras, el desarrollo de los juegos, los implementos y máquinas usados para su práctica, las apuestas y premios asociados a los mismos, los ingresos generados por su explotación, la prestación de los servicios anexos, del pago de la oferta económica contemplada en el literal k) del artículo 3º de la ley Nº 19.995, el acatamiento y cumplimiento de las leyes y reglamentos que los rigen y de las instrucciones, circulares y demás órdenes que la Superintendencia emita y, en general, el correcto funcionamiento del establecimiento, sin perjuicio de las facultades que pudieren corresponder a otros organismos fiscalizadores.
 
-Corresponde asimismo a la Superintendencia, la fiscalización de las sociedades operadoras responsables de la explotación de casinos de juego, en los aspectos jurídicos, financieros, comerciales y contables, para el debido cumplimiento de las obligaciones que establecen la Ley y sus reglamentos.
+Además, le corresponderá atender las consultas del público y resolver los reclamos que se formulen en contra de un casino de juego o de una sociedad operadora.
+
+Corresponde, asimismo, a la Superintendencia, la fiscalización de las sociedades operadoras responsables de la explotación de casinos de juego, en los aspectos jurídicos, financieros, comerciales y contables, para el debido cumplimiento de las obligaciones que establece la ley y sus reglamentos, así como aquellas establecidas a través de instrucciones, circulares y demás órdenes que la Superintendencia emita, sin perjuicio de las facultades que pudieren corresponder a otros organismos fiscalizadores.
 
 #### Artículo 34
 
-La función fiscalizadora y las correspondientes atribuciones que la Superintendencia debe ejercer sobre los casinos de juego y sus sociedades operadoras, podrá adoptar las siguientes modalidades:
+Para el desarrollo de la función fiscalizadora y las correspondientes atribuciones que la Superintendencia debe ejercer sobre los casinos de juego y sus sociedades operadoras, podrá adoptar las siguientes modalidades:
 
-a) Dictar instrucciones en materias de su competencia.
+a) Dictar instrucciones generales y órdenes, en materias de su competencia.
 
 b) Establecer procedimientos administrativos para la fiscalización de las operaciones de los casinos de juego.
 
 c) Consagrar mecanismos de registro y archivos.
 
-d) Examinar y requerir las operaciones y documentación de las entidades fiscalizadas, con el contenido y periodicidad que instruya la Superintendencia.
+d) Examinar y requerir, por los medios que estime del caso, todas las operaciones, bienes, libros, actas, cuentas, archivos, documentos y correspondencia de las sociedades operadoras, sus socios, accionistas, directores y administradores, siempre y cuando se refieran a la operación de los casinos, para la mejor inteligencia de las labores de fiscalización, con el contenido y periodicidad que instruya la Superintendencia, conforme a la ley y reglamento respectivo.
 
 e) Requerir información y antecedentes de los representantes de las entidades fiscalizadas y de su personal.
 
@@ -398,11 +410,25 @@ h) Realizar visitas inspectivas en cualquiera de las dependencias del establecim
 
 i) Destacar personal fiscalizador de manera permanente en los casinos de juego.
 
-j) Citar a cualquier persona que preste servicios en o para un casino de juego a prestar declaración bajo juramento, en conformidad con lo dispuesto en el numeral 14 del artículo 42 de la Ley.
+j) Citar a los socios y accionistas de las sociedades operadoras, sean personas naturales o jurídicas, estas últimas a través de sus representantes legales o mandatarios premunidos de las facultades para tal efecto, y, o a cualquier persona que preste servicios en o para un casino de juego, a comparecer y, o a prestar declaración bajo juramento, en conformidad con lo dispuesto en el numeral 14 del artículo 42 de la ley Nº 19.995.
 
 k) Proporcionar antecedentes a otros organismos, para que éstos ejerzan a su vez las facultades fiscalizadoras que les correspondan.
 
-La Superintendencia está facultada para incorporar medios tecnológicos e informáticos, disponibles o de su propio desarrollo, para la mayor eficiencia de las acciones de fiscalización, como asimismo disponer su implementación en los establecimientos de las sociedades operadoras, conforme a las instrucciones que imparta al efecto, en coordinación con los representantes de dichas sociedades.
+l) Velar por que las sociedades operadoras fiscalizadas cumplan con las leyes y reglamentos que las rigen y con las instrucciones, circulares y demás órdenes que la Superintendencia emita, sin perjuicio de las facultades que pudieran corresponder a otros organismos fiscalizadores;
+
+m) Requerir que las sociedades operadoras proporcionen al público, a través de los medios que la Superintendencia determine, la información estrictamente necesaria para conocer el funcionamiento de la industria, velando por que ésta sea suficiente, oportuna y veraz.
+
+La Superintendencia podrá efectuar directamente las publicaciones necesarias para dar cumplimiento a lo señalado en el párrafo anterior. Asimismo, podrá disponer la publicidad de medidas, instrucciones o información relativa a las sociedades operadoras o casinos de juego;
+
+n) Elaborar y difundir índices, estadísticas y estudios relativos a las sociedades operadoras y a los casinos de juego;
+
+o) Atender las consultas del público y resolver los reclamos que se formulen en contra de un casino de juego o de una sociedad operadora;
+
+p) Adoptar e implementar todas las acciones de fiscalización, medidas y/o modalidades de supervisión que estime necesarias y convenientes para supervigilar y fiscalizar el cumplimiento de las disposiciones legales, reglamentarias y técnicas para la instalación, administración y explotación de los casinos de juego que operen en el país;
+
+q) Ejercer las demás facultades que la ley Nº 19.995 y otras leyes o normas vigentes le confieran.
+
+La Superintendencia está facultada para incorporar medios tecnológicos e informáticos, disponibles o de su propio desarrollo, para la mayor eficiencia de las acciones, medidas o modalidades de fiscalización y, o supervisión que adopte y ejecute, como asimismo disponer su implementación en los establecimientos de las sociedades operadoras, conforme a las instrucciones, generales o particulares, que imparta al efecto, en coordinación con los representantes de dichas sociedades.
 
 #### Artículo 35
 
