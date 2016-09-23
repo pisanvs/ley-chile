@@ -44,7 +44,7 @@ De acuerdo a los tiempos necesarios para la aprobación del corte de tránsito, 
 
 Resuelvo:
 
-1. Prohíbase, desde el día 9 de septiembre de 2016 hasta el día 9 de octubre de 2016, inclusive, la circulación de todo tipo de vehículos motorizados en ambas calzadas de la calle Huichahue, en el tramo comprendido entre la calle Corvalán y Avda. Martín Alonqueo, de la comuna de Padre Las Casas.
+1. Prohíbase, desde el día 20 de septiembre de 2016 hasta el día 20 de octubre de 2016 inclusive, la circulación de todo tipo de vehículos motorizados en ambas calzadas de la calle Huichahue, en el tramo comprendido entre la calle Corvalán y Avda. Martín Alonqueo, de la comuna de Padre Las Casas.
 
 2. Los desvíos de transporte público son los que a continuación se detallan:
 
