@@ -294,6 +294,10 @@ Av. Domingo Senador Jaime Estrecho de O-P
 
 Santa María Guzmán Magallanes
 
+Bellavista-Artesanos Pío Nono Av. Independencia O-P
+
+Av. La Paz Artesanos Olivos S-N
+
 2.- También podrán circular por estas pistas exclusivas, los siguientes vehículos:
 
 a) Taxis en cualquiera de sus modalidades, incluida la submodalidad de taxi ejecutivo, siempre y cuando lo hagan con pasajeros en su interior;
