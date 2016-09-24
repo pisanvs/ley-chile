@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 8 de julio de 2016 hasta el 14 de octubre de 2016, por Club Hípico, entre calle Vecinal y 25 metros al norte de calle Departamental Antiguo, comuna de Pedro Aguirre Cerda.
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 16 de septiembre de 2016 y hasta el 15 de noviembre de 2016 por Club Hípico, desde 25 metros al norte de Departamental Antiguo hasta calle Carelmapu, comuna de Pedro Aguirre Cerda.
 
 2.- Podrán circular excepcionalmente en el tramo y período señalado, los vehículos de emergencia, los destinados a cumplir funciones en las obras descritas y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicados en dicho tramo.
 
