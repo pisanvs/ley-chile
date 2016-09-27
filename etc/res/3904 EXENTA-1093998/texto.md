@@ -124,7 +124,7 @@ Cada criterio será evaluado con una nota de 1 a 5 (siendo 1-uno la nota más ba
 
 7. ADJUDICACIÓN Y NOTIFICACIÓN
 
-Realizada la etapa de evaluación de los proyectos presentados, según los criterios expuestos, la Comisión Técnica de Preselección, dentro del plazo indicado en el Anexo 1, elaborará un Acta de Evaluación, en la que incorporará la calificación obtenida por cada uno de ellos. Las propuestas serán ordenadas según su puntaje, en orden decreciente y serán adjudicadas las propuestas que hayan obtenido una mayor puntuación, considerando el presupuesto total para el financiamiento de ellos, teniendo como tope de disponibilidad presupuestaria la suma de $300.000.000- (trescientos millones de pesos).
+Realizada la etapa de evaluación de los proyectos presentados, según los criterios expuestos, la Comisión Técnica de Preselección, dentro del plazo indicado en el Anexo 1, elaborará un Acta de Evaluación, en la que incorporará la calificación obtenida por cada uno de ellos. Las propuestas serán ordenadas según su puntaje, en orden decreciente y serán adjudicadas las propuestas que hayan obtenido una mayor puntuación, considerando el presupuesto total para el financiamiento de ellos, teniendo como tope de disponibilidad presupuestaria la suma de $340.000.000.- (trescientos cuarenta millones de pesos).
 
 Si uno o más proyectos obtienen igual puntaje final, existirá un empate. En este caso los proyectos evaluados y con iguales puntajes, se ordenarán del modo siguiente:
 
@@ -222,7 +222,7 @@ En el caso de las instituciones privadas, rendirán cuentas de la siguiente mane
 
 Primera Rendición: La primera rendición deberá realizarse junto al segundo informe de avance. El plazo para presentarlos es dentro de los 65 días hábiles contados desde la total tramitación del acto administrativo que aprueba el respectivo convenio.
 
-Segunda Rendición: La fecha tope de rendición de dichos gastos es el 31 de diciembre de 2016 y el plazo para entregar la rendición junto al tercer informe final es a más tardar el día 31 de enero de 2017.
+Segunda Rendición: la fecha tope de rendición de dichos gastos es el 31 de diciembre 2017 y el plazo para entregar la rendición junto al tercer informe final es a más tardar el día 31 de enero de 2018.
 
 El Tercer Informe y Final deberá entregarse junto a la Rendición Final de Cuentas, dentro del primer mes al término de la ejecución del Proyecto.
 
@@ -389,6 +389,10 @@ El Ministerio de Educación solicitará a cada institución ejecutora 3 informes
 6. EVALUACIÓN FINAL DEL PROYECTO DE RETENCIÓN ESCOLAR
 
 La evaluación de la experiencia de desarrollo del proyecto de retención escolar se expresará en el informe final, cuyo formato será oportunamente entregado por la Coordinación Nacional de Inclusión y Diversidad.
+
+Anexo N° 1
+
+Calendario Actividades Principales
 
 .
 
