@@ -64,6 +64,8 @@ Otórganse al Servicio de Salud de Arica y Parinacota facultades extraordinarias
 
 1°.- Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requieran desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
+En forma excepcional y mientras se mantenga la alerta sanitaria, se podrá contratar a ex funcionarios que se hayan acogido a los beneficios de incentivo al retiro establecidos en las leyes Nº 20.209, 20.282, 20.612 y 20.707, no siéndoles aplicable respecto de la contratación que por este acto se autoriza ni por el tiempo que se extienda la contingencia que lo motiva, las prohibiciones que las leyes referidas contienen.
+
 2°.- Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8° letra c) de la ley N° 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl.
 
 3°.- Disponer la realización de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en el artículo 66 y 70 de la ley Nº 18.834, cuyo texto actualizado, refundido y coordinado fue fijado por el DFL 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo.
