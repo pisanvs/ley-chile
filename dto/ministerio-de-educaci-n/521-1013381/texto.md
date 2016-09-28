@@ -38,8 +38,6 @@ Declárase Monumento Nacional en la categoría de Monumento Histórico el Pabell
 
 Asimismo, declárase monumento nacional en la categoría de monumento histórico y entiéndase que forma parte de esta declaratoria al Pabellón Alejandro del Río, ubicado en la calle Amazonas N° 576 al 602, de la comuna de Santiago, provincia de Santiago, Región Metropolitana.
 
-> **Nota.** El artículo primero dl Decreto 3 Exento, Educación, publicado el 26.01.2026, modifica la presente norma en el sentido de complementar los valores y atributos del Monumento Histórico Pabellón Valentín Errázuriz y otros pabellones del Hospital San Borja Arriarán, ubicado en la calle Santa Rosa Nº1234, comuna de Santiago, Región Metropolitana de Santiago, quedando inalterado en sus demás partes.
-
 #### Artículo 2°
 
 <!-- parte:9736915 -->
