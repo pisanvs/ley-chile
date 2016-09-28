@@ -2066,6 +2066,12 @@ h) Altura máxima de edificación : Según rasante
 
 (Art. 479 O.G.C.U.)
 
+Excepciones en materia de antejardines:
+
+No se exigirán antejardines en la Zona Deportiva ZE-2 en donde actualmente se emplaza el Estadio Municipal Roberto Bravo Santibáñez, cuyos límites son: Avda. José Manuel Benítez por el norte; la Zona Z4 por el sur; la calle Ortúzar por el oriente; la calle Silva Chávez por el poniente.
+
+Sólo se exigirá un antejardín mínimo de 3 metros para la Zona Deportiva ZE-2, en donde se emplaza el Parque Municipal Héctor Pino, cuyos límites son: las Zonas Z2, Z3 y Z4 por el norte; el Camino El Bajo por el sur; la Zona Z6-A por el oriente; las calles Barros y Ortúzar y las Zonas Z2 y Z4 por el poniente.
+
 ## Capítulo V
 
 Vialidad
