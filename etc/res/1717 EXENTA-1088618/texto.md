@@ -26,7 +26,7 @@ c) Que la entidad patrocinante ha presentado al Serviu Región de O'Higgins una 
 
 Resolución:
 
-1º Apruébese la nómina de postulantes seleccionados correspondiente al proyecto singularizado en el Considerando b) de la presente resolución, correspondiente al Llamado dispuesto en el número 1º de la resolución exenta Nº 952 (V. y U.), de 2014, y sus modificaciones, nómina que se entenderá forma parte integrante de esta resolución y fíjese el número de postulantes seleccionados para el Programa de Subsidio que se indica, según la siguiente tabla:
+1º Apruébese la nómina de postulantes seleccionados correspondiente al proyecto singularizado en el Considerando b) de la presente resolución, correspondiente al Llamado dispuesto en el número 1º de la resolución exenta Nº 952 (V. y U.), de 2014, y sus modificaciones, nómina que se entenderá forma parte integrante de esta resolución y fíjese el número de postulantes seleccionados para cada Programa de Subsidio, que se indica en la siguiente tabla:
 
 .
 
@@ -34,9 +34,9 @@ Resolución:
 
 .
 
-3º Los recursos para el financiamiento del subsidio directo, destinados a la atención de postulantes seleccionados a que se refiere el número 1º de esta resolución, se imputarán a los recursos autorizados en el año 2016 para el D.S. Nº 1 (V. y U.), de 2011.
+3º Los recursos para el financiamiento del subsidio directo, destinados a la atención de postulantes seleccionados a que se refiere el número 1º de esta resolución, se imputarán a los recursos autorizados en el año 2016 para el DS Nº 1 (V. y U.), de 2011 y para el DS Nº 49 (V. y U.), de 2011, según corresponda.
 
-4º Para la aplicación de los subsidios, deberá determinarse el valor real de pago conforme a lo establecido en el número 4º de la resolución exenta Nº 952 (V. y U.), de 2014, y sus modificaciones, según corresponda.
+4º Para la aplicación de los subsidios, deberá determinarse el valor real de pago conforme a lo establecido en el número 4º de la resolución exenta Nº 952 (V. y U.), de 2014, y sus modificaciones, considerando también las condiciones adicionales dispuestas por la resolución exenta Nº 6.924 (V. y U.), de 2014, y sus modificaciones, según corresponda.
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
