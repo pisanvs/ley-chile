@@ -58,27 +58,31 @@ Las características y condiciones que debe cumplir la Estación Cuarentenaria 4
 
 a. Cierre perimetral: delimita claramente la estación,
 
-b. Puerta de acceso: debe disponer de un sistema de cierre con llave.
+b. Puerta de acceso: debe disponer de un sistema de cierre
 
-c. Zona de acceso a la zona de cuarentena: corresponde a una zona
+con llave.
 
-seca, techada, con puerta, donde se ubican: la vestimenta
+c. Zona de acceso a la zona de cuarentena: corresponde a
 
-desechable, las herramientas e implementos y el pediluvio para
+una zona seca, techada, con puerta, donde se ubican: la
 
-acceder a la zona de cuarentena,
+vestimenta desechable, las herramientas e implementos y
 
-d. Pediluvio/Solución Desinfectante: sistema de desinfección para
+el pediluvio para acceder a la zona de cuarentena,
 
-calzado que permita el paso expedito por él; conteniendo en forma
+d. Pediluvio/Solución Desinfectante: sistema de
 
-permanente una solución desinfectante. Debe estar dispuesto
+desinfección para calzado que permita el paso expedito
 
-inmediatamente frente a la puerta ubicada en la zona de acceso,
+por él; conteniendo en forma permanente una solución
 
-cubriendo todo el ancho de ésta, por 1.0 m. de largo y 2 cm. de
+desinfectante. Debe estar dispuesto inmediatamente
 
-profundidad efectiva.
+frente a la puerta ubicada en la zona de acceso,
+
+cubriendo todo el ancho de ésta, por 1.0 m. de largo
+
+y 2 cm. de profundidad efectiva.
 
 La solución desinfectante podrá corresponder a:
 
@@ -86,41 +90,49 @@ La solución desinfectante podrá corresponder a:
 
 * Productos en base a sales de amonio cuaternarias.
 
-* Otros evaluados y autorizados previamente por la División técnica
+* Otros evaluados y autorizados previamente por la
 
-del Servicio.
+División técnica del Servicio.
 
 No se encuentra autorizado el uso de hipoclorito de sodio.
 
-e. Señalética: ubicada en la puerta de acceso a la estación,
+e. Señalética: ubicada en la puerta de acceso a la
 
-identificando la cuarentena e indicando medidas de resguardo
+estación, identificando la cuarentena e indicando
 
-permanentes, de acuerdo a las disposiciones del Servicio.
+medidas de resguardo permanentes, de acuerdo a las
 
-f. Sistema de Riego tecnificado: que evite el escurrimiento del agua
+disposiciones del Servicio.
 
-hacia fuera del sitio de cuarentena. Se debe disponer de una fuente
+f. Sistema de Riego tecnificado: que evite el escurrimiento
 
-de suministro de agua ubicada en la zona de cuarentena, a objeto de
+del agua hacia fuera del sitio de cuarentena. Se debe
 
-contar con agua para realizar manejos, de ser requeridos.
+disponer de una fuente de suministro de agua ubicada en
 
-g. Herramientas: Serán utilizadas para la toma de muestra por parte
+la zona de cuarentena, a objeto de contar con agua para
 
-del Servicio y que deben incluir a lo menos tijera de podar y
+realizar manejos, de ser requeridos.
 
-pala', de uso exclusivo para la cuarentena y desinfectadas
+g. Herramientas: Serán utilizadas para la toma de muestra
 
-periódicamente con los productos descritos en el número 2.4.3.d. de
+por parte del Servicio y que deben incluir a lo menos
+
+tijera de podar y pala', de uso exclusivo para la
+
+cuarentena y desinfectadas periódicamente con los
+
+productos descritos en el número 2.4.3.d. de
 
 la presente resolución,
 
-h. Vestimenta: buzos y guantes desechables para las personas
+h. Vestimenta: buzos y guantes desechables para las
 
-autorizadas que ingresen a la estación; y botas de goma u otro
+personas autorizadas que ingresen a la estación; y
 
-calzado adecuado para los Operadores de la cuarentena (dispuestas
+botas de goma u otro calzado adecuado para los
+
+Operadores de la cuarentena (dispuestas
 
 en la zona de acceso).
 
@@ -138,27 +150,33 @@ i.5. Materiales para toma de muestra, bolsas plásticas (medianas y grandes), pa
 
 Los materiales clasificados en las letras g., h. e i. deberán encontrarse descritos, inventariados, identificados en forma permanente, en buen estado y limpios, según corresponda.
 
-j. Suelo: apto nematológicamente a través de Informe Fitosanitario
+j. Suelo: apto nematológicamente a través de Informe
 
-Oficial, de acuerdo a la legislación de viveros vigente y para
+Fitosanitario Oficial, de acuerdo a la legislación
 
-otras plagas bajo Control oficial, cuando corresponda, pudiendo
+de viveros vigente y para otras plagas bajo Control
 
-obviar el análisis nematológico y otros bajo Control Oficial para
+oficial, cuando corresponda, pudiendo obviar el
 
-el caso de sustratos inertes, previa evaluación del Inspector SAG.
+análisis nematológico y otros bajo Control Oficial
 
-k. Portainjertos e injertos: en cantidad requerida y encontrándose
+para el caso de sustratos inertes, previa evaluación
 
-libre de plagas descritas en la reglamentación fitosanitaria de
+del Inspector SAG.
 
-viveros de plantas nacional y la relacionada con los Controles
+k. Portainjertos e injertos: en cantidad requerida y
+
+encontrándose libre de plagas descritas en la
+
+reglamentación fitosanitaria de viveros de plantas
+
+nacional y la relacionada con los Controles
 
 Oficiales vigentes, cuando corresponda.
 
-l. Libre de malezas, para lo cual se deberá realizar los controles en
+l. Libre de malezas, para lo cual se deberá realizar
 
-forma periódica y permanente.
+los controles en forma periódica y permanente.
 
 2.4.4. El Servicio, podrá establecer otras disposiciones específicas de operación, manejo, aislamiento y resguardo de la Estación Cuarentenaria, y/o para dar cumplimiento a la normativa de Controles Oficiales vigente, en consideración a las condiciones de los lugares donde la estación se encuentra ubicada, quedando establecido en la Resolución que Autoriza Cuarentena Posentrada.
 
@@ -200,7 +218,7 @@ En caso que la solicitud de evaluación no se encuentre correctamente emitida, d
 
 2.22. El término de las restricciones cuarentenarias para el material sometido a Cuarentena de Centros, se hará efectivo una vez que se hayan realizado todos los análisis de laboratorio que demuestren la fitosanidad del material cuarentenado respecto a las plagas reglamentadas. Este será solicitado oficialmente por la Oficina SAG a través de la solicitud de término, y será analizado y resuelto por el Director Regional, par medio de la dictación de la Resolución de Término respectiva.
 
-2.23. La detección de plaga cuarentenaria durante el desarrollo de la Cuarentena de Centros, implicará la destrucción de todo el envío, mediante Resolución de Destrucción dictada por el Director Regional.
+2.23. La detección de plaga cuarentenaria durante el desarrollo de la Cuarentena de Centros, esté o no asociada a la especie vegetal en la normativa vigente, podrá implicar la destrucción de todo el envío o parte de éste, y la adopción de otras medidas fitosanitarias necesarias para evitar el escape y dispersión al medio de la plaga detectada, medidas que serán determinadas previo análisis y evaluación de cada caso por parte del Servicio, siendo la ejecución de estas medidas de cargo del importador. La medida de destrucción deberá ser instruida mediante resolución emitida por el Servicio.
 
 2.24. El proceso de término de las restricciones cuarentenarias, así como de las eliminaciones a solicitud de la Contraparte Técnica o destrucción por detección de plaga cuarentenaria se encuentran descritos en la normativa vigente que establece las requisitos para el ingreso de material vegetal a Cuarentena Posestrada.
 

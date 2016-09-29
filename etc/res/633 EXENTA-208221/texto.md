@@ -236,8 +236,6 @@ Peach X disease phytoplasma
 
 Peach yellows phytoplasma
 
-ELIMINADA
-
 Plum pox virus (PPV)
 
 Xylella fastidiosa
@@ -247,8 +245,6 @@ Prunus avium Cherry leaf roll virus (CLRV)
 (Cerezo dulce) Cherry necrotic rusty mottle
 
 disease
-
-ELIMINADA
 
 Peach X disease phytoplasma
 
@@ -266,9 +262,7 @@ Xylella fastidiosa
 
 Prunus cerasus Cherry leaf roll virus (CLRV)
 
-(Cerezo ácido - Guindo) ELIMINADA
-
-Peach X disease phytoplasma
+(Cerezo ácido - Guindo) Peach X disease phytoplasma
 
 Plum pox virus (PPV)
 
@@ -284,7 +278,7 @@ Prunus domestica Apricot chlorotic leaf roll
 
 phytoplasma
 
-Prunus domestica sub sp. ELIMINADA
+Prunus domestica sub sp.
 
 Insititia
 
@@ -302,9 +296,7 @@ Prunus persica var Peach yellows phytoplasma
 
 nucipersica
 
-(Duraznero - Nectarino) ELIMINADA
-
-Plum pox virus (PPV)
+(Duraznero - Nectarino) Plum pox virus (PPV)
 
 Xylella fastidiosa
 
@@ -313,8 +305,6 @@ Prunus salicina Apricot chlorotic leaf roll
 (Ciruelo japonés) phytoplasma
 
 Peach X disease phytoplasma
-
-ELIMINADA
 
 Plum pox virus (PPV)
 
@@ -336,8 +326,6 @@ Peach X disease phytoplasma
 
 Peach yellows phytoplasma
 
-ELIMINADA
-
 Plum pox virus (PPV)
 
 Xylella fastidiosa
@@ -347,8 +335,6 @@ Prunus avium X P. Cherry leaf roll virus (CLRV)
 canescens X P. tomentosa Cherry necrotic rusty mottle
 
 disase
-
-ELIMINADA
 
 Peach X disease phytoplasma
 
@@ -364,8 +350,6 @@ canescens X P. kurilensis Cherry necrotic rusty mottle
 
 disase
 
-ELIMINADA
-
 Peach X disease phytoplasma
 
 Plum pox virus (PPV)
@@ -380,8 +364,6 @@ salicina Apricot chlorotic leaf roll
 
 phytoplasma
 
-ELIMINADA
-
 Plum pox virus (PPV)
 
 Peach X disease phytoplasma
@@ -390,9 +372,7 @@ Xylella fastidiosa
 
 Prunus cerasus X P. Cherry leaf roll virus (CLRV)
 
-kursar ELIMINADA
-
-Peach X disease phytoplasma
+kursar Peach X disease phytoplasma
 
 Plum pox virus (PPV)
 
@@ -404,9 +384,7 @@ munsoniana Plum pox virus (PPV)
 
 Prunus cerasifera X P. Cherry leaf roll virus (CLRV)
 
-dulcis X P. persica ELIMINADA
-
-Peach X disease phytoplasma
+dulcis X P. persica Peach X disease phytoplasma
 
 Peach yellows phytoplasma
 
@@ -416,9 +394,7 @@ Xylella fastidiosa
 
 Prunus dulcis X P.
 
-persica ELIMINADA
-
-Peach X disease phytoplasma
+persica Peach X disease phytoplasma
 
 Peach yellows phytoplasma
 
@@ -432,9 +408,7 @@ serrulata Plum pox virus (PPV)
 
 Prunus persica X P. Cherry leaf roll virus (CLRV)
 
-cerasifera ELIMINADA
-
-Peach X disease phytoplasma
+cerasifera Peach X disease phytoplasma
 
 Peach yellows phytoplasma
 
@@ -570,9 +544,7 @@ Prunus cerasus X
 
 Prunus Cherry leaf roll virus (CLRV)
 
-canescens ELIMINADA
-
-Plum pox virus (PPV)
+canescens Plum pox virus (PPV)
 
 Peach X disease phytoplasma
 
@@ -583,8 +555,6 @@ X Prunus Peach X disease phytoplasma
 davidiana Plum pox virus (PPV)
 
 (Nemaguard) Peach yellows phytoplasma
-
-ELIMINADA
 
 Xylella fastidiosa
 
@@ -1176,37 +1146,7 @@ Si los Depósitos Particulares corresponden a laboratorios, los materiales se de
 
 18 bis. La destrucción del material vegetal proveniente de la Cuarentena In Vitro/Laboratorio, ya sea por muerte o debilitamiento, así como los medios de cultivo, envases y otros elementos utilizados, deberán ser autoclavados en presencia del Servicio. Para los materiales establecidos en Estación Cuarentenaria 2, deberá procederse de acuerdo a lo descrito en la resolución que establece regulaciones para ingreso de material vegetal a Nivel de Cuarentena Posentrada Predial
 
-19. Si los análisis efectuados al material resultaran positivos a cualquiera de las plagas cuarentenarias exigidas en la presente resolución u otras, que después de realizado el Análisis de Riesgo de Plagas respectivo califiquen como tal, se procederá de la siguiente forma, de acuerdo al tipo de Cuarentena In Vitro:
-
-19.1 Si la Cuarentena In Vitro se encuentra
-
-establecida en una Estación Cuarentenaria
-
-3 (laboratorio), se deberá destruir la
-
-totalidad de la especie afectada, en la
-
-forma que determine el Servicio, en
-
-presencia de un Inspector del Servicio
-
-y con costo del Importador.
-
-19.2 Si corresponde a una estructura de
-
-confinamiento, se deberá destruir la variedad
-
-involucrada, la especie o la totalidad del
-
-envío, dependiendo de la plaga detectada, en
-
-la forma que determine el Departamento de
-
-Protección Agrícola, en presencia de un
-
-inspector del Servicio y con costo del
-
-importador.
+19. La detección de plaga cuarentenaria durante el desarrollo de la Cuarentena In Vitro, esté o no asociada a la especie vegetal en la normativa vigente, podrá implicar la destrucción de todo el envío o parte de éste, y la adopción de otras medidas fitosanitarias necesarias para evitar el escape y dispersión al medio de la plaga detectada, medidas que serán determinadas previo análisis y evaluación de cada caso por parte del Servicio, siendo la ejecución de estas medidas de cargo del importador. La medida de destrucción deberá ser instruida mediante resolución emitida por el Servicio.
 
 20. Frente a la detección de una plaga cuarentenaria, en el material mantenido en Cuarentena In Vitro, deberá dictarse una resolución de Destrucción por el Director Regional correspondiente.
 
@@ -1235,5 +1175,7 @@ Si el material corresponde a especies del género Prunus afectas al control obli
 > **Nota.** NOTA 3 El Numeral 1.4 de la Resolución 4853 Exenta, Agricultura, publicada el 26.11.2013, modifica la presente norma en el sentido de agregar el fitopatógeno a certificar Cherry rasp leaf virus y elimina el fitopatógeno Cherry necrotic rusty mottle virus, en el número 4.3, Frutales, a todas las especies de Prunus y sus híbridos, quedando de la manera que la propia norma indica.
 
 > **Nota.** NOTA 4 El Numeral 3º de la Resolución 5622 Exenta, Agricultura, publicada 30.11.2013, modifico la presente norma en el sentido de reemplazar en todo el texto de la resolución el término Depósito Particular por Cuarentena In Vitro.
+
+> **Nota.** NOTA 5 El N° 1 de la Resolución 3576 Exenta, Agricultura, publicada el 23.05.2014, interpreta la resolución Nº 1.960, de fecha 7 de abril de 2014, modificatoria de la presente norma en el sentido de postergar su entrada en vigencia en 60 días a partir de su publicación.
 
 Anótese, comuníquese y publíquese.- Carlos Parra Merino, Director Nacional.

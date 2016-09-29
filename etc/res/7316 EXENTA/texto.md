@@ -26,53 +26,59 @@ Período de Cuarentena Absoluta o de Filtro: Corresponde al tiempo calendario ef
 
 1.2. El Servicio podrá autorizar el ingreso a Cuarentena Posentrada de material de alto nivel de riesgo fitosanitario, determinado a través de ARP o para materiales positivos a plagas cuarentenarias ausentes del país, siendo resuelta por la División técnica del Servicio, cuarentena que deberá conducirse exclusivamente en la Estación Cuarentenaria Agrícola (ECA) del Servicio (Estación Cuarentenaria 1), ya que ésta dispone de las siguientes características o condiciones:
 
-a. Sistemas para detectar e identificar las plagas cuarentenarias,
+a. Sistemas para detectar e identificar las plagas
 
-b. Instalaciones y equipamiento que permiten dar condiciones de
+cuarentenarias,
 
-confinamiento fitosanitario apropiadas al nivel de riesgo de los
+b. Instalaciones y equipamiento que permiten dar
 
-materiales cuarentenados,
+condiciones de confinamiento fitosanitario apropiadas
 
-c. Instalaciones y equipamiento que permiten realizar el
+al nivel de riesgo de los materiales cuarentenados,
 
-acondicionamiento del material vegetal y dar las condiciones
+c. Instalaciones y equipamiento que permiten realizar
 
-medioambientales predisponentes para realizar la verificación
+el acondicionamiento del material vegetal y dar las
 
-fitosanitaria requerida y para la expresión de síntomas y signos
+condiciones medioambientales predisponentes para
 
-de las plagas,
+realizar la verificación fitosanitaria requerida y
 
-d. Instalaciones y equipamiento para realizar tratamientos,
+para la expresión de síntomas y signos de las plagas,
 
-eliminación o destrucción de material vegetal infestado y otros
+d. Instalaciones y equipamiento para realizar
 
-materiales acompañantes que puedan albergar plagas,
+tratamientos, eliminación o destrucción de material
 
-e. Personal calificado para el mantenimiento de las instalaciones de
+vegetal infestado y otros materiales acompañantes que
 
-la ECA y conducción de los materiales cuarentenados,
+puedan albergar plagas,
 
-f. Personal especializado en la detección y diagnóstico de plagas
+e. Personal calificado para el mantenimiento de las
 
-cuarentenarias asociadas a los materiales cuarentenados.
+instalaciones de la ECA y conducción de los materiales
+
+cuarentenados,
+
+f. Personal especializado en la detección y diagnóstico
+
+de plagas cuarentenarias asociadas a los materiales
+
+cuarentenados.
 
 1.3. Si por causas fortuitas o de fuerza mayor, ajenas al funcionamiento o manejo de la ECA, los materiales mantenidos en ella resultaran deteriorados, el Servicio no asumirá responsabilidades de ningún tipo.
 
-1.4. Los procedimientos que se aplican a las cuarentenas conducidas en
-
-la ECA, se encuentran establecidos en la normativa vigente que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada, describiéndose en la presente resolución los aspectos particulares y específicos de estos niveles de cuarentena.
+1.4. Los procedimientos que se aplican a las cuarentenas conducidas en la ECA, se encuentran establecidos en la normativa vigente que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada, describiéndose en la presente resolución los aspectos particulares y específicos de estos niveles de cuarentena.
 
 ### 2. DE LA CUARENTENA ABSOLUTA:
 
 2.1. Cumplirán Cuarentena Absoluta, las plantas (excluido semillas y cultivo de material in vitro) de las especies individualizadas a continuación y por el período de cuarentena mínimo que se indica, siendo estos últimos válidos sólo para las siguientes condiciones:
 
-a. Materiales que se internen en cantidades iguales o inferiores a 6
+a. Materiales que se internen en cantidades iguales o
 
-unidades (plantas, estacas o ramillas), por especie, variedad y
+inferiores a 6 unidades (plantas, estacas o
 
-clon.
+ramillas), por especie, variedad y clon.
 
 a.1 FRUTALES:
 
@@ -82,29 +88,35 @@ a.2 FORESTALES:
 
 .
 
-b. Materiales vegetales con fitopatógenos para uso como testigos
+b. Materiales vegetales con fitopatógenos para uso
 
-positivos, correspondiente a plaga cuarentenaria ausente, que no
+como testigos positivos, correspondiente a plaga
 
-superen las 100 unidades por envío, de acuerdo a lo descrito en la
+cuarentenaria ausente, que no superen las 100
 
-normativa vigente que establece los requisitos para ingreso de
+unidades por envío, de acuerdo a lo descrito en la
 
-material vegetal a Cuarentena Posentrada, éstos ingresarán
+normativa vigente que establece los requisitos para
 
-exclusivamente a la ECA (Estación Cuarentenaria 1).
+ingreso de material vegetal a Cuarentena Posentrada,
 
-c. Otras especies no contempladas en la letra a. de este numeral y
+éstos ingresarán exclusivamente a la ECA (Estación
 
-que de acuerdo al resultado del Análisis de Riesgo de Plagas, se
+Cuarentenaria 1).
 
-considere necesario que sean sometidas a este nivel de Cuarentena
+c. Otras especies no contempladas en la letra a. de este
 
-Posentrada; determinándose el período de cuarentena y la cantidad
+numeral y que de acuerdo al resultado del Análisis de
 
-de material a ingresar para cada caso en particular, el cual podrá
+Riesgo de Plagas, se considere necesario que sean
 
-ser superior al descrito en el número 2.1.a.
+sometidas a este nivel de Cuarentena Posentrada;
+
+determinándose el período de cuarentena y la cantidad
+
+de material a ingresar para cada caso en particular, el
+
+cual podrá ser superior al descrito en el número 2.1.a.
 
 2.2. Para la importación de especies vegetales contempladas en esta resolución, el importador deberá declarar al Servicio, en la solicitud de internación definida por el SAG, lo dispuesto en la normativa vigente que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada. Adicionalmente deberá entregar la siguiente información: Compatibilidad patrón-injerto cuando se interne material de injertación; requerimientos de horas de frío; quien proveerá portainjertos; individualización del lugar a donde serán trasladados los materiales una vez terminada la cuarentena; y cualquier otro antecedente necesario para el óptimo manejo del material durante el período de cuarentena. El Importador deberá presentar esta solicitud en el Departamento de Laboratorios y Estaciones Cuarentenarias del Servicio, en formato original, para la dictación de la Resolución que Autoriza Cuarentena Posentrada.
 
@@ -112,25 +124,29 @@ ser superior al descrito en el número 2.1.a.
 
 2.4. Los portainjertos nacionales que se requieran utilizar para la injertación del material de importación que ingrese a Cuarentena Absoluta, podrán ser proporcionados por:
 
-a. La ECA, siempre que ésta disponga de los portainjertos compatibles
+a. La ECA, siempre que ésta disponga de los portainjertos
 
-informados en la solicitud de internación, cuyo costo será asumido
+compatibles informados en la solicitud de internación,
 
-por el Importador.
+cuyo costo será asumido por el Importador.
 
-b. El Importador, y en este caso deberán ser entregados a la ECA en
+b. El Importador, y en este caso deberán ser entregados
 
-un plazo no mayor a 90 días y menor a 30 días previos al ingreso
+a la ECA en un plazo no mayor a 90 días y menor a 30
 
-del material. Los costos de los análisis que el Servicio requiera
+días previos al ingreso del material. Los costos de
 
-efectuar a estos portainjertos, serán de cargo del Importador. Una
+los análisis que el Servicio requiera efectuar a estos
 
-vez establecida la cuarentena los portainjertos no utilizados
+portainjertos, serán de cargo del Importador. Una
 
-quedarán a disposición del Importador, por 30 días, no siendo
+vez establecida la cuarentena los portainjertos no
 
-éstos responsabilidad del Servicio cumplido este plazo.
+utilizados quedarán a disposición del Importador, por
+
+30 días, no siendo éstos responsabilidad del Servicio
+
+cumplido este plazo.
 
 La Contraparte Técnica podrá solicitar que la injertación de su material sea realizada por personal propio, cumpliendo con las condiciones de resguardo y fitosanitarias definidas por el Servicio; en presencia del Encargado/a de la ECA u otro profesional de la misma que éste designe.
 
@@ -154,7 +170,7 @@ La Contraparte Técnica podrá solicitar la adopción de condiciones especiales 
 
 2.11. El período mínimo de cuarentena en la ECA será el establecido en el resuelvo número 2.1.a. de esta resolución, de acuerdo a la especie; no obstante, éste podrá ser modificado, si así lo estima el Servicio, en función de los antecedentes fitosanitarios, de la calidad del material cuarentenado y de la disponibilidad de utilización de nuevas técnicas de diagnóstico, por parte del Servicio, para verificar las condiciones fitosanitarias de las partidas ingresadas bajo esta medida fitosanitaria.
 
-2.12. La detección de plaga cuarentenaria en el material cuarentenado implicará la destrucción de éste en su totalidad, según lo especificado en la normativa vigente que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada; para lo cual el Jefe/a del Departamento de Laboratorios y Estaciones Cuarentenarias dictará la Resolución de Destrucción. Ésta será notificada al Importador y ejecutoriada bajo los términos definidos por el Encargado/a de la ECA, quedando registrada en el Acta de Destrucción correspondiente.
+2.12. La detección de plaga cuarentenaria durante el desarrollo de la Cuarentena Absoluta o de Filtro, esté o no asociada a la especie vegetal en la normativa vigente, podrá implicar la destrucción de todo el envío o parte de éste, incluyendo al material que se encuentre en cuarentena predial, y la adopción de otras medidas fitosanitarias necesarias para evitar el escape y dispersión al medio de la plaga detectada, medidas que serán determinadas previo análisis y evaluación de cada caso por parte del Servicio, siendo la ejecución de estas medidas de cargo del importador. La medida de destrucción deberá ser instruida mediante resolución dictada por el Servicio.
 
 2.13. Se pondrá término a la Cuarentena Absoluta cuando el material haya cumplido con los plazos establecidos en esta resolución, en el resuelvo número 2.1.a., y cuando las observaciones y diagnósticos de laboratorio determinen que el material se encuentra libre de plagas reglamentadas, dando cumplimiento a los procesos establecidos en la normativa vigente que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada.
 
@@ -166,13 +182,15 @@ El término de las restricciones cuarentenarias será requerido oficialmente por
 
 3.1. Cumplirán Cuarentena de Filtro aquellos envíos de material vegetal, constituidos por plantas (excepto semillas y material de cultivo de tejido in vitro), de las especies descritas en la normativa vigente que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada y además aquellos que cumplan con los siguientes criterios:
 
-a. Especies u orígenes que ingresen por primera vez al país o
+a. Especies u orígenes que ingresen por primera vez al
+
+país o
 
 b. Envíos que hayan presentado intercepciones de plagas
 
-cuarentenarias en envíos anteriores, considerando la misma
+cuarentenarias en envíos anteriores, considerando la
 
-especie, origen y proveedor.
+misma especie, origen y proveedor.
 
 Para los envíos que cumplan con los criterios señalados precedentemente, el Servicio realizará seguimiento fitosanitario a través de la Cuarentena de Filtro por un período no menor a 2 años; el cual será renovado en caso de detectarse plagas cuarentenarias, sin desmedro de otras medidas que el Servicio pudiera adoptar en atención a salvaguardar el patrimonio nacional.
 
@@ -198,7 +216,7 @@ sobre 2.500 repetir tabla
 
 3.6. La Contraparte Técnica será la responsable de efectuar el traslado de dicho material, dentro de un plazo máximo de 30 días a partir de la fecha de dictación de una Resolución de Traslado, bajo los procedimientos de resguardo que el Servicio establezca; previa coordinación entre la ECA y la Oficina SAG correspondiente. El Servicio no se responsabilizará del material que no haya sido retirado dentro del plazo descrito.
 
-3.7. De detectarse plaga cuarentenaria en la Cuarentena de Filtro o en su respectiva Cuarentena Predial, el Servicio procederá a destruir la totalidad del envío, para lo cual la División técnica dictará las resoluciones de destrucción para los materiales establecidos en la Estación Cuarentenaria 1 y Estación Cuarentenaria 2; de acuerdo a los procedimientos y plazos definidos en las referidas resoluciones; registrándose esta acción en las Actas de Destrucción respectivas.
+3.7. La detección de plaga cuarentenaria durante el desarrollo de la Cuarentena Absoluta o de Filtro, esté o no asociada a la especie vegetal en la normativa vigente, podrá implicar la destrucción de todo el envío o parte de éste, incluyendo al material que se encuentre en cuarentena predial, y la adopción de otras medidas fitosanitarias necesarias para evitar el escape y dispersión al medio de la plaga detectada, medidas que serán determinadas previo análisis y evaluación de cada caso por parte del Servicio, siendo la ejecución de estas medidas de cargo del importador. La medida de destrucción deberá ser instruida mediante resolución dictada por el Servicio.
 
 3.8. En la Cuarentena Predial, todo lo concerniente al confinamiento, manejo, resguardo, período de cuarentena, término de las restricciones cuarentenarias, entre otras, deberá dar fiel cumplimiento a las disposiciones establecidas en la normativa vigente que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada y en la que establece regulaciones para ingreso de material vegetal a Nivel de Cuarentena Posentrada Predial.
 
