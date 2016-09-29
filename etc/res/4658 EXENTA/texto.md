@@ -40,11 +40,15 @@ Apium graveolens Tallos con Sin declaración
 
 hojas adicional
 
-Asparagus
+Asparagus Turiones El envío ha sido
 
-officinalis Turiones Sin declaración
+officinalis inspeccionado y
 
-adicional
+encontrado libre
+
+de Elasmopalpus
+
+lignosellus
 
 Beta vulgaris
 
