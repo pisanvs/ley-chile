@@ -44,14 +44,6 @@ argentifolii
 
 Aleyrodidae).
 
-Asparagus
-
-officinalis Turiones de
-
-espárrago Sin declaraciones
-
-adicionales.
-
 Musa spp. Hojas frescas Sin declaraciones
 
 adicionales.
