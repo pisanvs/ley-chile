@@ -34,17 +34,13 @@ Temporada de crecimiento: Período del año en que las plantas tienen un crecimi
 
 .
 
-2.2. Cumplirán Cuarentena Predial aquellos envíos correspondientes a:
+2.2. Cumplirán Cuarentena Predial aquellos envíos
+
+correspondientes a:
 
 a. Las especies establecidas en el número 2.1. de esta resolución.
 
-b. El remanente del envío fraccionado y destinado a Cuarentena de
-
-Filtro: De acuerdo a los criterios definidos en la normativa
-
-vigente que establece regulaciones para ingreso de material vegetal
-
-a Nivel de Cuarentena Posentrada Absoluta y de Filtro.
+b. El remanente del envío fraccionado y destinado a Cuarentena de Filtro: De acuerdo a los criterios definidos en la normativa vigente que establece regulaciones para ingreso de material vegetal a Nivel de Cuarentena Posentrada Absoluta y de Filtro.
 
 2.3. Una vez verificada la normativa general y si las plantas para plantar deben cumplir con Cuarentena Predial, el Importador deberá entregar una Solicitud de Evaluación del Lugar de Cuarentena sujeto a consideración, en formato original, en la Oficina del Servicio bajo cuya jurisdicción se encuentre ubicada la estructura de confinamiento postulante, una vez que se dé cumplimiento a todas las disposiciones establecidas por el Servicio. En la solicitud se debe incluir un croquis de la ubicación del lugar de cuarentena y la disposición del material en contenedores dentro de la nave.
 
@@ -98,17 +94,17 @@ U otros materiales que garanticen el aislamiento, evaluados y autorizados previa
 
 b. Revestimiento y Cubierta: se podrán usar en forma alternativa o combinados los siguientes materiales:
 
-b.1. Malla antiáfido de una densidad de 50 mesh como mínimo (20x10
+b.1. Malla antiáfido de una densidad de 50 mesh como mínimo
 
-hebras/cm²).
+(20x10 hebras/cm²).
 
-b.2. Cobertores de materiales impermeables y continuos que cumplan con:
+b.2. Cobertores de materiales impermeables y continuos que
 
-Resistencia física, superior a la duración de la cuarentena
+cumplan con: Resistencia física, superior a la duración
 
-establecida, en prevención de la necesidad de prolongar el tiempo
+de la cuarentena establecida, en prevención de la
 
-de cuarentena.
+necesidad de prolongar el tiempo de cuarentena.
 
 . Vidrio,
 
@@ -144,9 +140,11 @@ g.1. Puertas: Debe contar con dos puertas, exterior-antecámara y antecámara-na
 
 . Policarbonato,
 
-. U otros materiales que garanticen el aislamiento, evaluados y
+. U otros materiales que garanticen el aislamiento,
 
-autorizados previamente por la División técnica del Servicio.
+evaluados y autorizados previamente por la División
+
+técnica del Servicio.
 
 El resto del cuerpo de las puertas deberá estar conformado por algunos de los materiales descritos en 2.4.3.1.b. Revestimientos y cubierta.
 
@@ -182,161 +180,191 @@ No se encuentra autorizado el uso de hipoclorito de sodio.
 
 2.4.3.4. Nave: Zona donde se encuentran establecidos los materiales cuarentenados; siendo ésta de uso exclusivo para cada envío, disponiéndose de una superficie que permita:
 
-. Establecer la totalidad del material cuarentenado (incluidos los
+. Establecer la totalidad del material cuarentenado
 
-posteriores incrementos).
+(incluidos los posteriores incrementos).
 
-. Facilitar la inspección por parte del Servicio, permitiendo el
+. Facilitar la inspección por parte del Servicio,
 
-libre acceso a cada una de las unidades que conforman la cuarentena.
+permitiendo el libre acceso a cada una de las
 
-. Disponer en hileras y con pasillos de acceso los materiales
+unidades que conforman la cuarentena.
 
-cuarentenados, considerando la/s especie/s establecida/s, de
+. Disponer en hileras y con pasillos de acceso los
 
-acuerdo a lo descrito en la resolución que Autoriza Cuarentena
+materiales cuarentenados, considerando la/s
+
+especie/s establecida/s, de acuerdo a lo descrito
+
+en la resolución que Autoriza Cuarentena
 
 Posentrada.
 
-. Disponer de una zona de acceso a la nave correspondiente a un
+. Disponer de una zona de acceso a la nave
 
-espacio libre de material cuarentenado y contiguo a la zona de
+correspondiente a un espacio libre de material
 
-ingreso a la nave, de a lo menos 5 m. de ancho por 2 m. de
+cuarentenado y contiguo a la zona de ingreso a
 
-profundidad. En esta zona se debe ubicar un gabinete que contenga
+la nave, de a lo menos 5 m. de ancho por 2 m.
 
-las herramientas, vestimenta desechable e implementos; y un mesón
+de profundidad. En esta zona se debe ubicar
 
-para uso del personal SAG.
+un gabinete que contenga las herramientas,
 
-a. Contenedores definitivos: Considerando el desarrollo del
+vestimenta desechable e implementos; y un
 
-material durante todo el periodo de cuarentena, con excepción
+mesón para uso del personal SAG.
 
-de aquellos que requieran ser establecidos en su fase inicial
+a. Contenedores definitivos: Considerando el desarrollo
 
-en condiciones de almácigo (speedling). El Servicio podrá
+del material durante todo el periodo de cuarentena,
 
-solicitar la utilización de mesones o plataformas para ubicar
+con excepción de aquellos que requieran ser
 
-los contenedores en atención a las características específicas
+establecidos en su fase inicial en condiciones de
 
-del desarrollo vegetativo de los materiales cuarentenados, de
+almácigo (speedling). El Servicio podrá solicitar
 
-forma de facilitar las inspecciones fitosanitarias, y cumplir
+la utilización de mesones o plataformas para ubicar
 
-con las disposiciones establecidas para las plagas bajo Control
+los contenedores en atención a las características
 
-Oficial en el país.
+específicas del desarrollo vegetativo de los
 
-b. Sistema de riego tecnificado: Que evite el escurrimiento del
+materiales cuarentenados, de forma de facilitar
 
-agua hacia fuera de la nave de cuarentena, previniendo la
+las inspecciones fitosanitarias, y cumplir con las
 
-infiltración de agua al perfil del suelo. Se debe disponer de
+disposiciones establecidas para las plagas bajo
 
-una fuente de suministro de agua ubicada en la nave de
+Control Oficial en el país.
 
-cuarentena, a objeto de contar con agua para realizar algunos
+b. Sistema de riego tecnificado: Que evite el
 
-manejos, de ser requeridos.
+escurrimiento del agua hacia fuera de la nave de
 
-c. Herramientas: Serán utilizadas para la toma de muestra por
+cuarentena, previniendo la infiltración de agua al
 
-parte del Servicio y que deben incluir a lo menos tijera de
+perfil del suelo. Se debe disponer de una fuente
 
-podar y pala; de uso exclusivo para la cuarentena y
+de suministro de agua ubicada en la nave de
 
-desinfectadas periódicamente con los productos descritos
+cuarentena, a objeto de contar con agua para
 
-2.4.3.3.b. o Hipoclorito de Sodio al 7%.
+realizar algunos manejos, de ser requeridos.
 
-d. Vestimenta: Buzos y guantes desechables para las personas
+c. Herramientas: Serán utilizadas para la toma de
 
-autorizadas que ingresen a la Estación Cuarentenaria 2; y botas
+muestra por parte del Servicio y que deben incluir
 
-de goma u otro calzado adecuado para los Operadores de la
+a lo menos tijera de podar y pala; de uso exclusivo
 
-cuarentena (dispuestas en la ante cámara). Para el caso de los
+para la cuarentena y desinfectadas periódicamente
 
-materiales vegetales establecidos sobre mesones, se autorizará
+con los productos descritos 2.4.3.3.b. o Hipoclorito
 
-el uso de delantales desechables.
+de Sodio al 7%.
+
+d. Vestimenta: Buzos y guantes desechables para las
+
+personas autorizadas que ingresen a la Estación
+
+Cuarentenaria 2; y botas de goma u otro calzado
+
+adecuado para los Operadores de la cuarentena
+
+(dispuestas en la ante cámara). Para el caso de los
+
+materiales vegetales establecidos sobre mesones, se
+
+autorizará el uso de delantales desechables.
 
 e. Implementos:
 
-e.1 Dispositivo asperjador portátil, con solución desinfectante
+e.1 Dispositivo asperjador portátil, con solución
 
-para manos (Alcohol al 70%, Alcohol gel) y para herramientas
+desinfectante para manos (Alcohol al 70%, Alcohol
 
-(las soluciones desinfectantes descritas para pediluvio en el
+gel) y para herramientas (las soluciones
+
+desinfectantes descritas para pediluvio en el
 
 resuelvo 2.4.3.3.b).
 
-e.2 Depósito para restos vegetales, con tapa y de capacidad
+e.2 Depósito para restos vegetales, con tapa y de
 
-adecuada para contener materiales vegetales provenientes de la
+capacidad adecuada para contener materiales
 
-cuarentena.
+vegetales provenientes de la cuarentena.
 
-e.3 Depósito para ropa desechable, con tapa, para contener ropa
+e.3 Depósito para ropa desechable, con tapa, para
 
-utilizada en la cuarentena.
+contener ropa utilizada en la cuarentena.
 
 e.4 Libro de manejo, foliado.
 
-e.5 Materiales para toma de muestra, bolsas plásticas (medianas y
+e.5 Materiales para toma de muestra, bolsas plásticas
 
-grandes), papel absorbente, tubos de vidrio, alcohol al 70%,
+(medianas y grandes), papel absorbente, tubos de
 
-marcador permanente, entre otros.
+vidrio, alcohol al 70%, marcador permanente,
 
-Los materiales clasificados en las letras c, d y e, deberán
+entre otros.
 
-encontrarse descritos, inventariados, identificados en forma
+Los materiales clasificados en las letras c, d y e,
 
-permanente, en buen estado y limpios.
+deberán encontrarse descritos, inventariados,
 
-f. Sustratos (no incluye suelo): Aptos nematológicamente a través
+identificados en forma permanente, en buen estado y
 
-de Informe Fitosanitario Oficial, de acuerdo a la legislación
+limpios.
 
-de viveros vigente y para otras plagas bajo Control Oficial,
+f. Sustratos (no incluye suelo): Aptos
 
-cuando corresponda; pudiendo obviar el análisis nematológico y
+nematológicamente a través de Informe Fitosanitario
 
-otros bajo Control Oficial para el caso de sustratos inertes,
+Oficial, de acuerdo a la legislación de viveros
 
-previa evaluación del Inspector SAG.
+vigente y para otras plagas bajo Control Oficial,
 
-g. Portainjertos e injertos: En cantidad requerida y encontrándose
+cuando corresponda; pudiendo obviar el análisis
 
-libre de plagas descritas en la reglamentación fitosanitaria de
+nematológico y otros bajo Control Oficial para el
 
-viveros de plantas nacional y la relacionada con los Controles
+caso de sustratos inertes, previa evaluación del
+
+Inspector SAG.
+
+g. Portainjertos e injertos: En cantidad requerida
+
+y encontrándose libre de plagas descritas en la
+
+reglamentación fitosanitaria de viveros de plantas
+
+nacional y la relacionada con los Controles
 
 Oficiales vigentes, si corresponde.
 
-h. Desinfección de la Estación Cuarentenaria 2: Cuando ésta haya
+h. Desinfección de la Estación Cuarentenaria 2:
 
-mantenido otra cuarentena en forma previa, o para las
+Cuando ésta haya mantenido otra cuarentena en forma
 
-instalaciones que vayan a albergar especies adscritas a Control
+previa, o para las instalaciones que vayan a
 
-Oficial, cuando corresponda. Las desinfecciones deberán ser
+albergar especies adscritas a Control Oficial,
 
-realizadas bajo la supervisión de personal del Servicio y con
+cuando corresponda. Las desinfecciones deberán ser
 
-los productos descritos en 2.4.3.3.b.
+realizadas bajo la supervisión de personal del
+
+Servicio y con los productos descritos en 2.4.3.3.b.
 
 2.4.3.5. Cámara Frigorífica y lugares destinados a almacenar materiales vegetales por un determinado tiempo: Son aquellos lugares en los cuales por requerimiento del material y del Importador, deben disponerse bajo ciertas condiciones medioambientales especiales, manteniéndose bajo aislamiento y resguardo durante todo este período, la cual podrá ubicarse fuera de la Estación Cuarentenaria.
 
 2.4.3.6. El Servicio podrá establecer otras disposiciones específicas de operación, manejo, aislamiento y resguardo de las Estaciones Cuarentenarias, y/o para dar cumplimiento a la normativa de Controles Oficiales vigente, en consideración a las condiciones de los lugares donde las estaciones se encuentran ubicadas, quedando establecido en la resolución que autoriza la Cuarentena Posentrada.
 
-2.5. Una vez que la Solicitud de Evaluación de Lugar de Cuarentena
-
-Predial se ha recepcionado conforme, el personal del Servicio concurrirá al lugar propuesto por el Importador a objeto de inspeccionar y verificar que se cumpla con las condiciones de aislamiento establecidas en el número 2.4. de la presente resolución.
+2.5. Una vez que la Solicitud de Evaluación de Lugar de Cuarentena Predial se ha recepcionado conforme, el personal del Servicio concurrirá al lugar propuesto por el Importador a objeto de inspeccionar y verificar que se cumpla con las condiciones de aislamiento establecidas en el número 2.4. de la presente resolución.
 
 En caso que la solicitud de evaluación no se encuentre correctamente emitida, deberá ser rechazada a través de la dictación de la resolución correspondiente por el Jefe Oficina SAG.
 
@@ -376,7 +404,7 @@ Si el lugar de cuarentena es aprobado o rechazado se deberá dictar en ambos cas
 
 El término de las restricciones cuarentenarias será requerido oficialmente por la oficina SAG a través de una solicitud de término, y será analizado y resuelto por el Director Regional, por medio de la Resolución de Término respectiva.
 
-2.22. La detección de plaga cuarentenaria durante el desarrollo de la Cuarentena Predial, implicará la destrucción de todo el envío, la cual se instruye mediante Resolución de Destrucción dictada por el Director Regional.
+2.22. La detección de plaga cuarentenaria durante el desarrollo de la Cuarentena Predial, esté o no asociada a la especie vegetal en la normativa vigente, podrá implicar la destrucción de todo el envío o parte de éste, y la adopción de otras medidas fitosanitarias necesarias para evitar el escape y dispersión al medio de la plaga detectada, medidas que serán determinadas previo análisis y evaluación de cada caso por parte del Servicio, siendo la ejecución de estas medidas de cargo del importador. La medida de destrucción deberá ser instruida mediante resolución emitida por el Servicio.
 
 2.23. Los procesos de término de las restricciones cuarentenarias, así como de las eliminaciones a solicitud de la Contraparte Técnica o destrucción por detección de plaga cuarentenaria, se encuentran descritos en la normativa vigente que establece los requisitos para el ingreso de material vegetal a Cuarentena Posentrada.
 
