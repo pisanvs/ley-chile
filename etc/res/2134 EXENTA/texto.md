@@ -88,8 +88,4 @@ d) Dentro de la infraestructura se deberá considerar un área específica para 
 
 13. Esta resolución entrará en vigencia después de su publicación en el Diario Oficial.
 
-> **Nota.** Los numerales 1 y 2 de la Resolución 3491 Exenta. Agricultura, publicada el 03.06.2020, modifica en forma transitoria la presente norma en el sentido estricto de no hacer exigible la auditoría in situ, por parte de SAG, a lugares de producción bajo malla antiáfidos y empacadoras de frutos frescos de Tomate (Lycopersicon esculentum), para consumo, producidos en Perú, exclusivamente, la temporada 2020-2021, correspondiente al periodo comprendido entre el 1 de julio de 2020 y el 30 de junio de 2021.
-
-> **Nota.** NOTA 1 El numeral 1 de la Resolución 4025 Exenta, Agricultura, publicada el 07.07.2021, que modificó el resuelvo Nº 2 de la Resolución 3491 Exenta, Agricultura, publicada el 03.06.2020, modifica la presente norma en el sentido de ampliar la vigencia de la citada Resolución 3491 Exenta para la temporada 2021-2022, correspondiente al periodo comprendido entre el 1 de julio de 2021 y el 30 de junio de 2022.
-
 Anótese, comuníquese y publíquese.- Carlos Parra Merino, Director Nacional.
