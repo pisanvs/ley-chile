@@ -54,6 +54,8 @@ o) Sustrato mixto: Lecho subacuático heterogéneo, que no permite ser clasifica
 
 p) Sustrato semiduro: Lecho subacuático compuesto por material granular cohesionado, cuyas partículas no se mueven entre sí, como cancagua, tertel o laja, o formado por fragmentos de roca sólida mayores a 254 milímetros, no móviles bajo condiciones de corrientes normales, como bolones o huevillos. Este material puede contener fragmentos menores intersticiales que pueden ser levemente móviles en las mismas condiciones.
 
+q) Cultivo o actividad experimental: Actividad de cultivo de recursos hidrobiológicos que tiene por objeto la investigación científica, mejora genética, el desarrollo tecnológico o la docencia. No se comprende dentro de esta actividad la mantención de recursos hidrobiológicos para su exhibición pública con fines demostrativos o de recreación.
+
 ## Título I
 
 De los proyectos que se someten al Sistema de Evaluación de Impacto Ambiental (SEIA)
@@ -143,6 +145,10 @@ ii) Centros de cultivo con sistemas de producción intensivo, en lagos o lagunas
 Los centros de cultivo se clasificarán en Categoría 0, 1, 2, 4 o 5, independientemente del ambiente (marino, lacustre o fluvial) en el que se encuentren ubicados.
 
 En el caso de los pectínidos, para la conversión de número a biomasa se debe aplicar un factor de 0,014, que equivale a 70 individuos por kilo, usado para categorizar el centro de cultivo.
+
+Independientemente de las categorías a que se refieren los incisos anteriores, se exceptuarán de presentar CPS e INFA las actividades experimentales que se desarrollen con sistemas extensivos sobre especies nativas con una producción anual máxima de 20 toneladas, o sobre especies exóticas con una producción anual máxima de 10 toneladas, y las actividades experimentales con sistemas intensivos cuya alimentación sea exclusivamente de macroalgas, con una producción anual máxima de 5 toneladas.
+
+Las actividades experimentales que se desarrollen con sistemas de cultivo intensivo sobre peces nativos deberán presentar CPS e INFA de conformidad con las categorías antes señaladas.
 
 6.- Se considerará que un centro de cultivo se encuentra totalmente emplazado sobre alguno de los tipos de sustrato señalados en el numeral 2 literales m), n) o p), cuando al menos un 90% de las estaciones indicadas en el numeral 8 corresponda a dicho sustrato. En caso contrario, se considerará que el centro se emplaza sobre un sustrato mixto, debiendo realizar el muestreo correspondiente a ambas categorías.
 
@@ -530,7 +536,7 @@ iv) Archivo digital o magnético con el plano batimétrico, de sustrato y de est
 
 v) Disco compacto CD o DVD u otros requerimientos que se señalen específicamente en cada categoría o variable, según corresponda;
 
-vi) En el caso de centros de cultivo con especies bentónicas exóticas, además deberán presentar los resultados del "Programa de observación ambiental de asentamiento de especies bentónicas exóticas", de acuerdo a la metodología descrita en el numeral 31 de la presente resolución y el tipo y cantidad de alimento suministrado en el periodo (toneladas /mes);
+vi) En el caso de centros de cultivo con especies bentónicas exóticas, además deberán presentar los resultados del "Programa de observación ambiental de asentamiento de especies bentónicas exóticas", de acuerdo a la metodología descrita en el numeral 31 de la presente resolución y el tipo y cantidad de alimento suministrado en el periodo (toneladas /mes); También deberán presentar tales resultados las actividades experimentales sobre especies exóticas que se desarrollen en áreas de manejo y explotación de recursos bentónicos de conformidad con lo que dispone el numeral 32.
 
 vii) En el caso de cultivo de peces, identificar la(s) balsa(s) individual(es) o módulo(s) de cultivo en la que se realizó el muestreo.
 
@@ -1175,6 +1181,10 @@ ii) En caso de detectar presencia en cualquier estado de desarrollo, se deben re
 iii) Se debe realizar una grabación de la campaña de prospección, entregando sus resultados de acuerdo a los requerimientos técnicos señalados en el literal D del numeral 25 de la presente resolución.
 
 iv) Informe escrito de la prospección con la descripción de la campaña, metodología, resultado de la prospección. Incluyendo en el plano descrito en el numeral 22 de la presente resolución la ubicación del centro de cultivo, los módulos de cultivo o del efluente, las transectas y las estaciones de muestreo.
+
+En el caso de las actividades experimentales en áreas de manejo y explotación de recursos bentónicos, se realizará una prospección con grabación subacuática de 8 transectas radiales equidistantes. Para el establecimiento de las transectas se considerará como punto inicial, el punto medio de los módulos de cultivo de especies bentónicas exóticas. No obstante lo anterior, la extensión de 100 m sobre la que se realizará la grabación subacuática será a partir de los módulos de cultivo. Las transectas deberán ser grabadas mediante buceo o sistema remoto y tener un ancho aproximado de un metro (figura Nº 1).
+
+El resultado del programa de observación deberá ser entregado conjuntamente con el informe final, requerido conforme al artículo 24 del DS Nº 96, de 2015, del Ministerio de Economía, Fomento y Turismo, reglamento de acuicultura en áreas de manejo y explotación de recursos bentónicos.
 
 33.- En caso de incumplimiento de los requerimientos de la presente resolución se procederá de conformidad con lo dispuesto en los artículos 19 inciso 2º y 23 del Reglamento.
 
