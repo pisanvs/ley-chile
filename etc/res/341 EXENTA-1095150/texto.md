@@ -1,0 +1,31 @@
+CREA OFICINA "RVM CATEDRAL" DEL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN, DENTRO DE LA CIRCUNSCRIPCIÓN DE SANTIAGO, EN LA REGIÓN METROPOLITANA DESTINADA A ATENDER SOLICITUDES DE PRIMERA INSCRIPCIÓN Y TRANSFERENCIAS ELECTRÓNICAS DE VEHÍCULOS MOTORIZADOS
+
+Santiago, 21 de septiembre de 2016.- Hoy se resolvió lo siguiente:
+
+Núm. 341 exenta.
+
+Vistos:
+
+Lo dispuesto en el DFL Nº 1/19.653, de 2001, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la Ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el artículo 7º letra t), en el inciso tercero del artículo 23 y en el artículo 40 de la Ley Nº 19.477, Orgánica del Servicio de Registro Civil e Identificación; en los artículos 39, 42, 45 e inciso 3º del artículo 51 del decreto con fuerza de ley 1, del Ministerio de Transportes y Telecomunicaciones, que Fija Texto Refundido, Coordinado y Sistematizado de la Ley de Tránsito Nº 18.290; en el artículo 3º del decreto supremo de Transportes y Justicia Nº 1.111, Reglamento del Registro de Vehículos Motorizados; y la resolución Nº 1.600, de 30 de octubre de 2008, de la Contraloría General de la República, que establece normas sobre exención del trámite de toma de razón, y
+
+Considerando:
+
+1. Que el Servicio de Registro Civil e Identificación, en el marco de la modernización del Estado, que exige elevar su eficiencia y el empleo de nuevas tecnologías en beneficio de la ciudadanía, ha desarrollado un sistema de gestión electrónico, que permitirá la primera inscripción de vehículos nuevos y sin uso y la transferencia de vehículos usados en el Registro de Vehículos Motorizados, a través de medios automatizados; inscripción fundada en facturas electrónicas de primera venta electrónica, contratos de compraventa autorizados notarialmente, facturas electrónicas de transferencia y escrituras públicas, respectivamente y los demás documentos complementarios que correspondan legal y reglamentariamente.
+
+2. Que dicho sistema, cuyo diseño, desarrollo e implementación ha sido generado por este Servicio, permitirá a los importadores y concesionarios que vendan vehículos nuevos sin uso, el ingreso de los datos del adquirente y del vehículo adquirido, contenidos en la factura electrónica fundante, directamente desde sus oficinas comerciales, o realizar la transferencia de vehículos usados en los oficios notariales, según corresponda, para requerir en forma electrónica la primera inscripción de vehículos nuevos y sin uso, y la transferencia de vehículos usados en el Registro de Vehículos Motorizados a cargo de este Servicio.
+
+3. Que, a fin de dar cumplimiento a las exigencias legales y reglamentarias señaladas en los vistos, así como para permitir la pronta implementación del sistema antes indicado, se hace necesario crear una Oficina especializada del Servicio de Registro Civil e Identificación, denominada "Oficina RVM Catedral", al tenor de lo dispuesto en el artículo 7 letra t), artículo 23 y en el artículo 40, todos de la Ley Nº 19.477, Orgánica de este Servicio.
+
+Resuelvo:
+
+1. Créase la Oficina del Servicio de Registro Civil e Identificación "Oficina RVM Catedral", dentro de la Circunscripción de Santiago, con sede en esta misma comuna, la que tendrá por objeto recibir y procesar solicitudes de primeras inscripciones de vehículos nuevos y sin uso, y la transferencia de vehículos usados en el Registro de Vehículos Motorizados, a través de medios automatizados, inscripciones fundadas en facturas de primera venta electrónica emitidas por importadores y concesionarios que comercializan vehículos motorizados nuevos y sin uso, y además, recibir y procesar solicitudes de transferencia fundadas en contratos de compraventa autorizados notarialmente, facturas electrónicas de transferencia, escrituras públicas, y los demás documentos complementarios que correspondan legal y reglamentariamente.
+
+2. La entrega de Placas Patentes Únicas, asignadas a las solicitudes de primeras inscripciones de vehículos nuevos y sin uso, requeridas a través del Sistema Electrónico señalado, será realizada en dependencias de la "Oficina RVM Catedral".
+
+3. La "Oficina RVM Catedral" estará a cargo de un Oficial Civil Adjunto, quien tendrá bajo su responsabilidad el Libro Repertorio y el Índice del Registro de Vehículos Motorizados, correspondiente a las solicitudes de primeras inscripciones de vehículos nuevos y sin uso, y la transferencia de vehículos usados, debiendo cerrarlo diariamente y dejando constancia del número de actuaciones efectuadas en el día.
+
+> **Nota.** Los numerales 1 y 2 de la Resolución 259 Exenta, Justicia, publicada el 22.10.2016. modifica la presente norma en el sentido de ampliar su objeto a fin que pueda recibir y procesar también, a través de medios automatizados, las solicitudes de anotación fundadas en sentencias o resoluciones judiciales, instrumentos privados, contratos privados o escrituras públicas, debidamente autorizados con firma Electrónica Avanzada y los demás documentos complementarios que correspondan legal y reglamentariamente; documentos estos que podrán, según corresponda, fundar la inscripción de anotaciones de gravámenes, prohibiciones, embargos, medidas precautorias, arrendamientos con opción de compra u otros títulos que otorguen la tenencia material de los vehículos y sus respectivos alzamientos, así como las alteraciones en los vehículos que los hagan cambiar su naturaleza, sus características esenciales, o que los identifican, como asimismo su abandono, destrucción o su desarmaduría total o parcial o la cancelación de la inscripción. Créase, a contar del 1 de octubre de 2016, la Oficina "RVM Catedral", del Servicio de Registro Civil e Identificación, dentro de la Circunscripción de Santiago en la Región Metropolitana.
+
+Anótese y publíquese.- Luis Acevedo Quintanilla, Director Nacional (TP).
+
+Lo que transcribo para su conocimiento y demás fines.- Antonio Saavedra Veas, Jefe Departamento Desarrollo de las Personas (S).
