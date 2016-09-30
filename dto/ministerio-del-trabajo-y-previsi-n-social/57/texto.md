@@ -320,7 +320,25 @@ durante todo el año calendario anterior,
 
 de sus afiliados.
 
-c) La nómina de todos sus afiliados activos
+c) Los montos pendientes de pago de los saldos
+
+por cotizar positivos de años anteriores,
+
+correspondientes a la cotización obligatoria
+
+para pensiones, esto es, aquella destinada a
+
+la cuenta de capitalización individual, más
+
+la comisión destinada al financiamiento de la
+
+Administradora de acuerdo a lo señalado en el
+
+#### Artículo 28
+
+de la ley.
+
+d) La nómina de todos sus afiliados activos
 
 y pensionados, señalando además del RUT,
 
@@ -328,7 +346,7 @@ el tipo de pensión que reciben, cuando
 
 corresponda.
 
-d) El valor promedio de su comisión, de
+e) El valor promedio de su comisión, de
 
 acuerdo a lo señalado en el artículo
 
@@ -354,15 +372,15 @@ F.- El Servicio de Impuestos Internos deberá calcular la diferencia positiva o 
 
 La diferencia positiva o saldo neto por cotizar se pagará de acuerdo al siguiente orden de prelación:
 
-a) Cotización obligatoria para pensiones, esto es,
+a) Cotización destinada al financiamiento del seguro a que se refiere el artículo 59 de la ley.
 
-aquella destinada a la cuenta de capitalización
+b) Cotización del Seguro Social contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales contemplado en la ley N° 16.744.
 
-individual, más la cotización adicional a que se
+c) Cotización obligatoria para pensión, esto es, aquella destinada a la cuenta de capitalización individual, más la cotización destinada al financiamiento de la Administradora de acuerdo a lo señalado en el artículo 28 de la ley.
 
-refiere el artículo 17 de la ley.
+d) Saldos insolutos pendientes de las cotizaciones de años anteriores, a que se refiere la letra c) precedente.
 
-b) Cotización para salud.
+e) Cotización de salud.
 
 Los saldos netos por cotizar señalados en el inciso segundo, serán informados por el Servicio de Impuestos Internos al trabajador, al cierre del proceso de declaración anual de impuesto a la renta.
 
@@ -382,7 +400,7 @@ I.- La Tesorería enterará, de acuerdo a lo establecido en el numeral iii) del 
 
 La Tesorería General de la República deberá comunicar a las administradoras y Fonasa la individualización de los trabajadores independientes obligados a cotizar, su domicilio, la tasa de cotización, los montos efectivos que dichos trabajadores debieron cotizar, los saldos por cotizar, el monto de las cotizaciones que se enteran de acuerdo a lo establecido en el numeral iii) del artículo 92 F de la ley, los saldos netos por cotizar y la fecha de la primera renta declarada por los trabajadores independientes no afiliados al Sistema de Pensiones.
 
-La Superintendencia establecerá, mediante norma de carácter general, el plazo para que el afiliado realice directamente el pago del saldo neto por cotizar, de las cotizaciones obligatorias para pensiones, y la información que deberá ser remitida por las Administradoras de Fondos de Pensiones al Instituto de Previsión Social para los efectos de la aplicación de los incisos segundo y tercero del artículo 92 H de la ley.
+La Superintendencia establecerá, mediante norma de carácter general, el plazo para que el afiliado realice directamente el pago del saldo neto por cotizar, de las cotizaciones obligatorias para pensiones, y la información que deberá ser remitida por las Administradoras de Fondos de Pensiones al Instituto de Previsión Social para los efectos de la aplicación de lo dispuesto en el artículo 92 H de la ley.
 
 #### Artículo 11
 
@@ -1454,17 +1472,25 @@ transitorio. A las situaciones a que se refieren los artículos sexto, séptimo,
 
 #### Artículo 8º
 
-transitorio: A partir del 1º de enero de 2012, los trabajadores que perciban rentas del inciso primero del artículo 90 de la ley, deberán efectuar las cotizaciones del Título III de la ley, salvo que en forma expresa manifiesten lo contrario, de acuerdo a lo señalado en el artículo siguiente. Respecto de las rentas percibidas a partir del año calendario 2015, no se podrá manifestar la opción antes señalada, quedando el trabajador independiente en consecuencia obligado a realizar las cotizaciones previsionales establecidas en la ley.
+transitorio: A partir del 1º de enero de 2012, los trabajadores que perciban rentas del inciso primero del artículo 90 de la ley, deberán efectuar las cotizaciones del Título III de la ley, salvo que en forma expresa manifiesten lo contrario, de acuerdo a lo señalado en el artículo siguiente. Respecto de las rentas percibidas a partir del año calendario 2018, no se podrá manifestar la opción antes señalada, quedando el trabajador independiente en consecuencia obligado a realizar las cotizaciones previsionales establecidas en la ley.
 
 A partir del 1 de enero del año 2012 los trabajadores independientes deberán cotizar por el 40% de la renta imponible a que se refiere el inciso primero del artículo 90 de la ley. Desde el 1 de enero del año 2013, la cotización se realizará sobre el 70% de dicha renta imponible. A partir del 1 de enero de 2014, la cotización se realizará sobre el 100% de la renta imponible antes señalada.
 
-La cotización del 7% para financiar prestaciones de salud a que se refiere el artículo 92 de la ley, deberá realizarse a partir del día 1 de enero del año 2018.
+No regirá la obligación a que se refiere el inciso primero de este artículo, para aquellos trabajadores que al 1 de enero de 2012 tengan 55 años o más, en el caso de los hombres; o 50 años o más, en el caso de las mujeres.
 
-No regirán las obligaciones a que se refiere este artículo, para aquellos trabajadores que al 1 de enero de 2012 tengan 55 años o más, en el caso de los hombres; o 50 años o más, en el caso de las mujeres.
+Hasta el 31 de diciembre del año 2017, los trabajadores independientes señalados en el artículo 89 de la ley, podrán pagar la cotización del siete por ciento para financiar prestaciones de salud y la cotización para el Seguro Social contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales de la ley N° 16.744, en forma mensual e independiente. Estos pagos se realizarán sobre la renta imponible que declaren para cada una de estas cotizaciones, la que no podrá ser inferior a un ingreso mínimo mensual ni superior al límite imponible del artículo 16 de la ley. En este período, no se practicarán las reliquidaciones señaladas en el inciso quinto tanto del artículo 92 de la ley, como del artículo 88 de la ley N° 20.255.
 
 #### Artículo 9º
 
 transitorio: Para los efectos de lo señalado en el inciso segundo del artículo vigésimo noveno transitorio de la ley Nº 20.255, el trabajador que perciba rentas de las señaladas en el inciso primero del artículo 90 de la ley, deberá manifestar en forma expresa su voluntad de no efectuar las cotizaciones a que se refiere el Título III de la ley, según el procedimiento establecido por la Superintendencia de Pensiones para el ejercicio de este derecho, mediante norma de carácter general.
+
+#### Artículo 10
+
+transitorio: La obligación de información a que se refiere la letra c) del artículo 11 C de este Reglamento, que las Administradoras de Fondos de Pensiones deben remitir al Servicio de Impuestos Internos, no será exigible respecto de la Operación Renta 2016.
+
+Asimismo, el orden de prelación para el pago de las cotizaciones previsionales señalado en el artículo 11 F de este Reglamento, comenzará a regir para la Operación Renta 2017. El pago de las cotizaciones previsionales que en la Operación Renta 2016 deba hacerse de conformidad con lo establecido en el numeral iii) del inciso primero del artículo 92 F de la ley se efectuará de acuerdo al orden de prelación señalado en el artículo 92 G de la citada ley, vigente a la fecha de publicación de la ley N° 20.894.
+
+Con todo, los saldos insolutos que adeuden los trabajadores independientes a que se refiere el artículo 89, por las rentas señaladas en el inciso primero del artículo 90, ambos de la ley, luego de las reliquidaciones efectuadas en las Operaciones Renta 2013, 2014 y 2015 y sus reajustes, intereses y multas, no se pagarán según el mecanismo establecido en el artículo 11 F del presente Reglamento, en conformidad a lo establecido en el inciso final del artículo segundo transitorio de la ley N° 20.894.
 
 2.- Derógase el Decreto Supremo N° 100 de 1988, modificado por el D.S. N° 144, del mismo año, ambos del Ministerio del Trabajo y Previsión Social, Subsecretaría del Previsión Social.
 
