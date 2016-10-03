@@ -3402,17 +3402,17 @@ Se prohíbe destinar los labios, ollares y las orejas de animales de abasto para
 
 #### Artículo 275
 
-Carne molida sin otra denominación, es la carne triturada de vacuno apta para el consumo humano, exenta de aditivos alimentarios, proteína vegetal y amiláceas. Su contenido de grasa total no deberá ser superior a 10%. Se permitirá solamente su expendio:
+Carne molida es la carne triturada apta para el consumo humano. Se permitirá solamente su expendio:
 
-a) a pedido y molida en presencia del comprador;
+a) A pedido y molida en presencia del comprador.
 
-b) envasada en los establecimientos que cuentan con una sala o lugar adecuado.
+b) Envasada proveniente de establecimientos autorizados.
 
-A la carne molida envasada en establecimientos industriales podrá adicionársele antioxidantes autorizados. El envase deberá cumplir con las exigencias de rotulación.
+Las carnes molidas deberán declarar la especie animal de la que proceden y estar exentas de aditivos alimentarios, proteína vegetal y sustancias amiláceas.
 
-Las carnes molidas provenientes de otras especies, deberán declarar esta condición en forma específica en su rótulo correspondiente.
+Solo a la carne molida envasada en establecimientos industriales podrá adicionársele antioxidantes y preservantes autorizados.
 
-> **Nota.** El Art. segundo del DTO 68, Salud, publicado el 23.01.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días después de su publicación.
+El contenido de grasa total de la carne molida de vacuno podrá ser hasta 10%, pudiendo rotularse dicho contenido de grasa total junto con el nombre del producto. Para efectos de fiscalización de lo anterior, se aplicarán los límites de tolerancia señalados en el artículo 115 del presente reglamento.
 
 #### Artículo 276
 
