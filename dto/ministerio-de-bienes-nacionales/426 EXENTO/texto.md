@@ -1,0 +1,7 @@
+ADJUDICA EN CONCESIÓN ONEROSA, INMUEBLE FISCAL EN LA REGIÓN DE ARICA Y PARINACOTA, A "CELEO REDES CHILE LIMITADA"
+
+Mediante decreto exento N° 426, de 15 de septiembre de 2016, el Ministerio de Bienes Nacionales adjudicó en propuesta pública a "Celeo Redes Chile Limitada", RUT N° 76.187.228-1, la concesión onerosa de un inmueble fiscal, signado como Lote F, ubicado en Pampa Camarones, comuna de Camarones, provincia de Arica, Región de Arica y Parinacota; enrolado en el Servicio de Impuestos Internos con el N° 3490-8; amparado por inscripción global que rola a fojas 25 vta. N° 60, del Registro de Propiedad del Conservador de Bienes Raíces de Arica, correspondiente al año 1935; de una superficie aproximada de 366,61 has; singularizado en el Plano N° 15102-2.506-C.R., archivado al final del Registro de Propiedad bajo el N° 110, correspondiente al año 2015, del Conservador de Bienes Raíces antes citado. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 1.847,71.
+
+La Concesión se adjudicó para ejecutar en el inmueble fiscal un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Óscar Manquilef Parra, Jefe División Jurídica (S).
