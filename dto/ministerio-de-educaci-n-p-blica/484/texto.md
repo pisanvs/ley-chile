@@ -12,7 +12,11 @@ D e c r e t o:
 
 #### Artículo único
 
-Determínanse los límites del Monumento Histórico Fuertes Ciudadela y del Este y Morro de Arica, declarado por decreto supremo de Educación N° 2.412 de 1971, al sector comprendido en el polígono señalado con las letras A, B, C, D, E, F, G, H, I, J, K, L, M, N, Ñ, O, P, Q, R, A. del plano que se adjunta y que forma parte de este decreto.
+Determínanse los límites de los Monumentos Históricos "Fuerte Ciudadela, Fuerte del Este y Morro de Arica", declarados como tales mediante el decreto Nº 2.412, de 1971, al sector comprendido por el polígono A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-R-S-T-U-V-W-X-Y-Z-A que a continuación se indica:
+
+El área de protección tiene una superficie aproximada de 2.224.838,77 mts 2, según se delimita por el polígono del plano adjunto, que forma parte del presente decreto y cuyos límites son los siguientes:
+
+.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Sergio Molina Silva, Ministro de Educación.
 
