@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE TARAPACÁ, A "TAMARUGAL SOLAR SPA"
+
+Mediante decreto exento N° 423, de 15 de septiembre de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa, a "Tamarugal Solar SpA", RUT N° 76.567.718-1, el inmueble fiscal ubicado en Camino Minero Quebrada Blanca y Collahuasi Km. 26, del lugar denominado Pampa del Tamarugal, comuna de Pozo Almonte, provincia del Tamarugal, Región de Tarapacá; enrolado en el Servicio de Impuestos Internos con el N° 4057-2; amparado por inscripción global que rola a fojas 1705 N° 1746, del Registro de Propiedad del Conservador de Bienes Raíces de Pozo Almonte, correspondiente al año 2014; de una superficie aproximada de 1.266,38 has; singularizado en el Plano N° 01401-2.590-C.R.
+
+La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 6.497,54. La Concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Óscar Manquilef Parra, Jefe División Jurídica (S).
