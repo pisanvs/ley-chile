@@ -208,7 +208,7 @@ macroorganismos) nativos o exóticos,
 
 y extractos de fermentación microbiológica;
 
-ii. Plaguicidas naturales químicos, basados en
+ii . Plaguicidas naturales químicos, basados en
 
 extractos de origen vegetal, animal o mineral;
 
@@ -768,21 +768,21 @@ sublima (Punto de sublimación). En
 
 caso que la sustancia activa se
 
-descomponga, señalar la temperatura
+descomponga, señalar la temperatura a
 
-a la que se descompone (Punto de
+la que se descompone (Punto de
 
 descomposición).
 
-8.2.3. Punto de ebullición (p) para líquidos
+8.2.3. Punto de ebullición (p) para líquidos a
 
-a temperatura ambiente. En caso que la
+temperatura ambiente. En caso que la
 
-sustancia activa se descomponga, señalar
+sustancia activa se descomponga,
 
-la temperatura a la que se descompone
+señalar la temperatura a la que se
 
-(Punto de descomposición).
+descompone (Punto de descomposición).
 
 8.2.4. Densidad (p y t).
 
@@ -1140,7 +1140,9 @@ b.1. Absorción dérmica.
 
 c. Explicación de las rutas metabólicas.
 
-8.7.7. Estudios de neurotoxicidad o neurotoxicidad retardada.
+8.7.7. Estudios de neurotoxicidad o
+
+neurotoxicidad retardada.
 
 Para el caso de la neurotoxicidad retardada, deberán someterse las sustancias similares o estructuras afines a las capaces de producir fenómenos de neurotoxicidad retardada.
 
@@ -1816,9 +1818,7 @@ producción.
 
 d. ELIMINADO.
 
-12.2. Criterios de equivalencia de sustancia activa
-
-grado técnico
+12.2. Criterios de equivalencia de sustancia activa grado técnico
 
 La equivalencia se determinará mediante los siguientes criterios:
 
@@ -2050,7 +2050,7 @@ a. En relación al solicitante y titular, según corresponda, la información so
 
 b. En relación a la Sustancia Activa Equivalente, la información solicitada en los numerales 14.1 y 5.1.
 
-12.4 Verificación, evaluación y autorización por equivalencia de la sustancia activa grado técnico.
+12.4. Verificación, evaluación y autorización por equivalencia de la sustancia activa grado técnico.
 
 12.4.1. Verificación documental de sustancia activa grado técnico candidata a equivalente y verificación analítica de perfil de pureza e impureza.
 
@@ -2488,19 +2488,21 @@ relevante(s):
 
 a. Identificación de la impureza.
 
-a.1. Nombre químico de la impureza (aceptado o
+a.1. Nombre químico de la impureza
 
-propuesto por UIQPA, CAS).
+(aceptado o propuesto por UIQPA, CAS).
 
-a.2. Fórmula estructural
+a.2. Fórmula estructural incluyendo
 
-(incluyendo estereoquímica de isómeros
+estereoquímica de isómeros activos
 
-activos si corresponde).
+si corresponde).
 
-a.3. Nº CAS y Nº CE (para cada isómero o mezcla
+a.3. Nº CAS y Nº CE (para cada isómero
 
-de isómeros si corresponde) de la impureza.
+o mezcla de isómeros si corresponde)
+
+de la impureza.
 
 a.4. Espectros de la impureza (p): UV/VIS, IR,
 
@@ -4005,16 +4007,6 @@ El Servicio podrá verificar en las sustancias activas grado técnico que se fab
 30.1 La autorización de estaciones experimentales para comprobar eficacia, estará sujeta a la Resolución de este Servicio que establece normas para autorizar estaciones experimentales destinadas a probar plaguicidas. La autorización de laboratorios de ensayos y otros cuyos estudios respalden los requisitos técnicos para evaluar los plaguicidas, estará sujeta a la Resolución que el Servicio dicte para estos efectos.
 
 30.2 Los fabricantes de sustancias activas, productores, importadores, fabricantes de productos formulados, fraccionadores, exportadores y distribuidores de plaguicidas, deberán informar el inicio de sus actividades mediante el Formulario establecido por el Servicio, en un plazo máximo de 30 días de acontecido para la verificación del cumplimiento de las obligaciones contenidas en la presente Resolución; cualquier cambio de lo informado a través del Formulario, deberá comunicarlo al Servicio dentro de los 30 días siguientes a su ocurrencia.
-
-30.3. El plaguicida se identificará mediante un código de lote, esto es, una clave que permita individualizarlo en cualquiera de las etapas de fabricación, producción, importación, exportación, fraccionamiento, distribución y venta.
-
-Las claves estarán formadas por números o por combinaciones de letras y números, debiendo incluir, a lo menos, el mes y el año de fabricación y el número correspondiente a la partida.
-
-30.4. El proceso de fabricación o fraccionamiento de cada lote de producto formulado o fabricación o producción de una sustancia activa grado técnico, según corresponda, deberá quedar consignado en documentos foliados o archivos digitales, los que deberán mantenerse respecto de cada lote fabricado, por tres años a contar de la fecha de fabricación, producción o fraccionamiento, según corresponda.
-
-30.5. Todo local de venta de plaguicidas deberá mantener un documento foliado o archivo digital, en el que se consigne, a lo menos, el nombre comercial, número de autorización del SAG, código del lote y cantidad del producto vendido y el nombre y dirección del comprador.
-
-30.6. Los fabricantes de sustancias activas, productores, importadores, fabricantes de producto formulados, fraccionadores, exportadores y distribuidores de plaguicidas autorizados deberán mantener un documento foliado o archivo digital, en el que se consigne, a lo menos, el nombre comercial, número de autorización del SAG, código del lote y cantidad del producto vendido y el nombre y dirección del comprador.
 
 ### 31. De las responsabilidades sobre los plaguicidas autorizados
 
