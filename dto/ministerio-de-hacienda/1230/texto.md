@@ -358,7 +358,7 @@ Paso Jama Sur importación, exportación
 
 67º03'W líquidos y gaseosos
 
-18. Terminal
+18.Terminal
 
 marítimo
 
@@ -378,19 +378,19 @@ traslado de
 
 desperdicios.
 
-19. Muelle Permanente Paso de personas,
+19.Muelle Permanente Paso de personas,
 
 Mecanizado exportación
 
 Esperanza de concentrado de
 
-cobre y todo
+22°43'30" S y cobre y todo
 
-22°43'30" S y tipo de operaciones
+70°18'30" W tipo de operaciones
 
-70°18'30" W aduaneras.
+aduaneras.
 
-20. Terminal Marítimo Permanente Paso de personas,
+20.Terminal Marítimo Permanente Paso de personas,
 
 Vopak Oxiquim, exportación e importación de
 
@@ -400,7 +400,7 @@ Mejillones naves y todo tipo de
 
 operaciones aduaneras.
 
-21. Muelle Terquim Permanente Paso de personas,
+21.Muelle Terquim Permanente Paso de personas,
 
 S.A., ubicado en exportación e importación
 
@@ -409,6 +409,16 @@ la bahía de de graneles líquidos,
 Mejillones. rancho de naves y todo
 
 tipo de operaciones
+
+aduaneras.
+
+22.Muelle Interacid Permanente Paso de personas, exportación
+
+Trading (Chile) e importaciónde graneles
+
+S.A. líquidos, rancho de naves y
+
+todo tipo de operaciones
 
 aduaneras.
 
