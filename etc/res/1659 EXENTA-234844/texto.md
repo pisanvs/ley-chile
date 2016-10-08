@@ -20,7 +20,7 @@ R e s u e l v o:
 
 <!-- parte:6513760 -->
 
-Primero: Las naves pesqueras de bandera extranjera que deseen ingresar a puertos nacionales, conforme a lo establecido en el DS Nº123 citado en Visto, deberán acogerse al procedimiento y exigencias establecidas en los artículos siguientes para la tramitación de la respectiva autorización de acceso a puerto. Los puertos de primera recalada habilitados para este efecto son Arica, Iquique, Coquimbo, Valparaíso, Talcahuano y Punta Arenas, para todas las naves.
+Primero: Las naves pesqueras de bandera extranjera que deseen ingresar a puertos nacionales, conforme a lo establecido en el DS Nº123 citado en Visto, deberán acogerse al procedimiento y exigencias establecidas en los artículos siguientes para la tramitación de la respectiva autorización de acceso a puerto. Los puertos de primera recalada habilitados para este efecto son Arica, Iquique, Coquimbo, Valparaíso, Talcahuano, San Vicente (Talcahuano) y Punta Arenas, para todas las naves.
 
 #### Artículo segundo
 
