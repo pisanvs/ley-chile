@@ -16,7 +16,7 @@ Que le corresponde al Servicio Nacional de Pesca ejecutar la política pesquera 
 
 R e s u e l v o:
 
-Primero: Las naves pesqueras de bandera extranjera que deseen ingresar a puertos nacionales, conforme a lo establecido en el DS Nº123 citado en Visto, deberán acogerse al procedimiento y exigencias establecidas en los artículos siguientes para la tramitación de la respectiva autorización de acceso a puerto. Los puertos de primera recalada habilitados para este efecto son Arica, Iquique, Coquimbo, Valparaíso, Talcahuano y Punta Arenas, para todas las naves.
+Primero: Las naves pesqueras de bandera extranjera que deseen ingresar a puertos nacionales, conforme a lo establecido en el DS Nº123 citado en Visto, deberán acogerse al procedimiento y exigencias establecidas en los artículos siguientes para la tramitación de la respectiva autorización de acceso a puerto. Los puertos de primera recalada habilitados para este efecto son Arica, Iquique, Coquimbo, Valparaíso, Talcahuano, San Vicente (Talcahuano) y Punta Arenas, para todas las naves.
 
 Segundo: El armador de la nave, o el representante que para estos efectos designe, deberá presentar, al menos, con 48 horas de anticipación a la hora de recalada, en la Oficina Regional de Pesca correspondiente al puerto donde la nave pretende recalar, una solicitud de ingreso a puerto, en el formulario destinado al efecto. Dicho formulario estará disponible en formato electrónico (elaborado en planilla excel) o papel, en las Oficinas Regionales de Pesca de Arica, Iquique, Coquimbo, Valparaíso, Talcahuano y Punta Arenas, en el Departamento de Fiscalización y en la página de dominio electrónico del Servicio www.sernapesca.cl.
 
