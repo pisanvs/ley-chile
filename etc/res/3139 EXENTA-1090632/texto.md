@@ -38,7 +38,7 @@ Resolución:
 
 1. Llámase a postulación extraordinaria en condiciones especiales, a todas las familias que cumplan con los requisitos que se establecen para el presente proceso de postulación, en modalidad individual o colectiva, para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, regulado por el DS N° 255 (V. y U.), de 2006, correspondientes al Título II, Mejoramiento de la Vivienda, destinados al financiamiento de subsidios de Acondicionamiento Térmico para viviendas emplazadas en zonas de las comunas vinculadas a los Planes de Descontaminación Atmosférica (PDA) a que se refieren los decretos citados en los Vistos e), f), g), h), i) y j) de la presente resolución, excepto en la Región de O'Higgins, donde sólo se abordarán las comunas o partes de éstas emplazadas en la zona térmica 3.
 
-2. Los cierres de las postulaciones de este llamado serán los meses de junio, julio, agosto y octubre, pudiendo cada Serviu definir en cuales de estas selecciones participará. Sólo podrán participar de estas selecciones los proyectos calificados hasta el último día hábil de esos meses. Los procesos de selección serán de carácter regional y se realizarán durante los meses de julio, agosto, septiembre y noviembre.
+2. Los cierres de las postulaciones de este llamado serán los meses de junio, julio, agosto, octubre y noviembre, pudiendo cada Serviu definir en cuales de estas selecciones participará. Sólo podrán participar de estas selecciones los proyectos calificados hasta el último día hábil de esos meses excepto en el caso de la postulación de noviembre que será hasta el día 25 de noviembre. Los procesos de selección serán de carácter regional y se realizarán durante los meses de julio, agosto, septiembre, noviembre y diciembre.
 
 3. Las regiones y comunas que podrán participar del presente llamado, así como los recursos que se destinarán al financiamiento de los referidos subsidios habitacionales, serán los que se indican en la tabla inserta a continuación:
 
@@ -63,6 +63,16 @@ Esta misma condición aplicará cuando el postulante o su cónyuge o su convivie
 4.2 De los montos de subsidio
 
 4.2.1 Los montos de subsidio para el presente llamado, por cada región, serán los indicados en la tabla inserta a continuación:
+
+.
+
+*Las familias que hayan sido beneficiadas con un subsidio de acondicionamiento térmico el año 2008 o 2009, sólo podrán postular a:
+
+- El subsidio base para alcanzar el estándar que se define en el respectivo PDA, lo cual se aplicará completando la solución constructiva existente.
+
+- Al Incremento por Regularización que se indica en la tabla precedente.
+
+**Al monto de subsidio de regularización se le podrán adicionar hasta 50 UF en casos de viviendas que no tengan ningún recinto con recepción final.
 
 4.2.2 Para efectos de una correcta interpretación de la tabla precedente, deberán tenerse en consideración las definiciones que a continuación se indican:
 
@@ -106,9 +116,11 @@ b) Las familias que no postularon en los años señalados precedentemente, se le
 
 5.2 De las Viviendas Objeto del llamado:
 
-5.2.1 Para efectos del presente llamado, se considerarán como viviendas objeto del Programa todos aquellos inmuebles cuyo destino sea habitacional, estén emplazados en las comunas a que se refiere la Tabla inserta en el resuelvo 3 de la presente resolución, y que fueron construidos antes del año 2007 o que hayan obtenido su recepción definitiva posteriormente, ya sea porque obtuvieron su permiso de edificación previo a la entrada en vigencia de la norma térmica y fueron recepcionadas con fecha posterior, o porque mediante la aplicación de alguna de las leyes de regularización hubieran recibido su recepción final sin haberles exigido cumplir con la actual norma térmica.
+5.2.1. Para efectos del presente llamado, se considerarán como viviendas objeto del Programa todos aquellos inmuebles cuyo destino sea habitacional, que estén emplazados en las comunas a que se refiere la Tabla inserta en el resuelvo 3 de la presente resolución, y que fueron construidos antes del año 2007.
 
-Se excluyen de la definición anterior, los Condominios de Viviendas Sociales objeto del Llamado a que se refiere la resolución exenta N° 1.290 (V. y U.), de 2016.
+Además, podrán postular viviendas que hayan obtenido su recepción definitiva posteriormente, ya sea porque obtuvieron su permiso de edificación previo a la entrada en vigencia de la norma térmica y fueron recepcionadas con fecha posterior, o porque mediante la aplicación de alguna de las leyes de regularización o por error en el otorgamiento de dicho permiso, hubieran recibido su recepción final sin haberles exigido cumplir con la actual norma térmica. Estas viviendas deberán contar con un informe técnico, validado por el Serviu respectivo, que acredite que es necesaria la incorporación de partidas adicionales a las existentes para el cumplimiento de los estándares definidos en esta resolución.
+
+Se excluyen de la definición anterior los Condominios de Viviendas Sociales objeto del Llamado a que se refiere la resolución exenta N° 1.290 (V. y U.), de 2016.
 
 5.2.2 Las viviendas deberán contar con permiso de edificación y recepción definitiva otorgada por la Dirección de Obras correspondiente.
 
