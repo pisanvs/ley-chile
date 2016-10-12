@@ -3270,7 +3270,7 @@ animal
 
 #### Artículo 255
 
-Aceites comestibles de origen marino son los obtenidos de peces o mamíferos marinos, de consistencia fluida a 15ºC, que no han sido sometidos a proceso de hidrogenación.
+Aceites comestibles de origen marino son los obtenidos de animales marinos y algas, con exclusión de anfibios y reptiles, de consistencia fluida a 15ºC, que no han sido sometidos a proceso de hidrogenación. Los aceites de algas deberán ser autorizados por el Ministerio de Salud.
 
 #### Artículo 256
 
@@ -3294,7 +3294,7 @@ De otros alimentos grasos comestibles
 
 #### Artículo 258
 
-Aceites marinos modificados comestibles son los productos grasos de consistencia fluida a la temperatura de 15ºC, obtenidos de especies pelágicas y sometidos a procesos de hidrogenación y fraccionamiento.
+Aceites marinos modificados comestibles son los productos grasos de consistencia fluida a la temperatura de 15°C, obtenidos de especies pelágicas y sometidos a procesos de hidrogenación y/o fraccionamiento.
 
 #### Artículo 259
 
