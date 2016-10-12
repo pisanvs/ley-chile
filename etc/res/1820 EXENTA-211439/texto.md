@@ -546,27 +546,29 @@ El valor límite de los pavimentos y/o repavimentos para la comuna de Gral. Lago
 
 .
 
-(2) Los valores límites de pavimentos y/o repavimentos para la comuna de Colchane es de $66.500/m2 y $68.500/m2 en adocretos y $65.000/m2 y $66.500/m2 en adoquín de piedra canteada, tanto para calles como pasajes.
+Para las aceras en Adocreto de Arica sus valores límites en pavimentos es $40.000/m2 y en repavimento $45.000/m2.
 
-Para la comuna de Camiña, el valor límite de pavimentos y/o repavimentos de adocretos en calles y pasajes es de $64.000/m2 y $65.000/m2 y en adoquín canteado es de $64.000/m2 y $64.000/m2.
+(2) Los valores límites de pavimentos y/o repavimentos para la comuna de Coichane es de $75.000/m2 y $75.500/m2 en adocretos y $79.500/m2 y $80.500/m2 en adoquín de piedra canteada, tanto para calles como pasajes.
 
-En el caso de pavimentos en adocretos prefabricados, para las restantes comunas de provincia del Tamarugal el valor límite de pavimentación y/o de repavimentación es de $62.000/m2 y de adoquín canteado es de $60.000/m2, tanto para calles como pasajes.
+Para la comuna de Camiña, el valor límite de pavimentos y/o repavimentos de adocretos en calles y pasajes es de $64.500/m2 y $65.000/m2 y en adoquín canteado es de $66.500/m2 y $67.000/m2.
 
-(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, el valor límite para la comuna de San Pedro de Atacama y para las localidades de Socaire y Toconao es de $128.000/m2 y $136.000 respectivamente, tanto para calles como para pasajes.
+En el caso de pavimentos en adocretos prefabricados, para las restantes comunas de Provincia del Tamarugal el valor límite de pavimentación y/o de repavimentación es de $64.500/m2 y de adoquín canteado es de $63.500/m2, tanto para calles como pasajes.
+
+(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, el valor límite para la comuna de San Pedro de Atacama y para las localidades de Socaire y Toconao es de $128.000/m2 y $136.000/m2 respectivamente, tanto para calles como para pasajes.
 
 En el caso de los pavimentos y/o repavimentos de aceras en piedra canteada, el valor límite para la comuna de San Pedro de Atacama y para las localidades de Socaire y Toconao es $149.000/m2 y de $157.000/m2 respectivamente.
 
-(4) En las soluciones de pasajes peatonales en madera para Caleta Tortel y localidades similares de la Región de Aysén, calificadas por la respectiva SEREMI, el correspondiente valor límite de pavimentación es de $130.000/m2. En el caso de las islas que forman parte de las comunas de Guaitecas y Aysén, el correspondiente valor límite de pavimentación en adocreto respectivamente es $82.000/m2 y $100.000/m2 y de repavimentación en adocreto respectivamente es $104.000/m2 y $121.000/m2 tanto para calles y pasajes. Para la comuna de O'Higgins y las localidades de Ñirehuao, Río Tranquilo y Cerro Castillo, el valor límite en adocreto para pavimentos es $112.000/m2 y para repavimentos es $125.000/m2, tanto para pasajes y calles. Para la localidad de Puerto Bertrand, el valor límite de pavimentación y de repavimentación es de $135.000/m2.
+(4) En las soluciones de pasajes peatonales en madera para Caleta Tortel y localidades similares de la Región de Aysén, calificadas por la respectiva Seremi, el correspondiente valor límite de pavimentación es de $137.000/m2. En el caso de las islas que forman parte de las comunas de Guaitecas y Aysén, el correspondiente valor límite de pavimentación en adocreto respectivamente es $85.500/m2 y $104.500/m2 y de repavimentación en adocreto respectivamente es $108.500/m2 y $125.500/m2 tanto para calles y pasajes. Para la comuna de O'Higgins y las localidades de Nirehuao, Río Tranquilo y Cerro Castillo, el valor límite en adocreto para pavimentos es $116.000/m2 y para repavimentos es $129.500/m2, tanto para pasajes y calles. Para la localidad de Puerto Bertrand, el valor límite de pavimentación y de repavimentación es de $135.000/m2.
 
-Para aceras en la comuna de O'Higgins y en las localidades de la comuna de Aysén distintas a la ciudad de Aysén, el valor límite de los pavimentos es $40.000/m2 y de repavimentos $51.000/m2. En el caso de comuna de Guaitecas, en aceras el valor límite de los pavimentos es $30.000/m2 y de repavimentos $42.000/m2.
+Para aceras en la comuna de O'Higgins y en localidades de comuna de Aysén distintas a la ciudad de Aysén, el valor límite de los pavimentos es $41.500/m2 y de repavimentos $51.000/m2. En el caso de comuna de Guaitecas, en aceras el valor límite de los pavimentos es $30.500/m2 y de repavimentos $43.500/m2.
 
-(5) En la comuna de Cabo de Hornos, el valor límite de pavimentación en aceras es de $67.000/m2 y de repavimentación en aceras es de $71.000/m2.
+(5) En la comuna de Cabo de Hornos, el valor límite de pavimentación en aceras es de $70.000/m2 y de repavimentación en aceras es de $74.500/m2.
 
-(6) En las comunas de la provincia de Palena, los valores límites de pavimentación son $78.000/m2 en calles, $67.000 en pasajes y $32.000/m2 en aceras, y de repavimentación son $81.000/m2 en calles, $71.000/m2 en pasajes y $34.000/m2 en aceras.
+(6) En las comunas de la Provincia de Palena, los valores límites de pavimentación son $83.000/m2 en calles, $73.000/m2 en pasajes y $34.000/m2 en aceras, y de repavimentación son $86.000/m2 en calles, $77.000/m2 en pasajes y $37.000/m2 en aceras.
 
-Para los Centros Poblados de Chiloé localizados en Islas, los valores límites de pavimentación son $62.000/m2 en calles, $52.000 en pasajes y $22.000/m2 en aceras, y de repavimentación son $66.000/m2 en calles, $58.000/m2 en pasajes y $24.000/m2 en aceras.
+Para los Centros Poblados de Chiloé localizados en Islas, los valores límites de pavimentación son $70.000/m2 en calles, $59.000/m2 en pasajes y $26.000/m2 en aceras, y de repavimentación son $75.000/m2 en calles, $66.000/m2 en pasajes y $29.000/m2 en aceras.
 
-(7) En las comunas de la provincia de Cardenal Caro y comunas de Lolol y Panquehue, los valores límites de pavimentación y de repavimentación son:
+(7) En las comunas de la Provincia de Cardenal Caro y comunas de Lolol y Pumanque, los valores límites de pavimentación y de repavimentación son:
 
 .
 
@@ -865,6 +867,10 @@ Transitorio: Las postulaciones de las comunas de Valparaíso, Viña del Mar y Co
 #### Artículo 13º
 
 transitorio: Las postulaciones válidamente ingresadas al 25º Llamado del Programa de Pavimentación Participativa, cuyos Comités de Pavimentación calificaron como "Muy Vulnerable", que en dicho proceso no resultaron seleccionadas, conformando la lista de espera, y repostulen al próximo 26º Llamado de este Programa, para todos los efectos mantendrán su calificación de "Muy Vulnerable".
+
+#### Artículo 14°
+
+Transitorio: Durante el año 2016 la fecha de cierre en los Servicios de Vivienda y Urbanización para recepción de postulaciones que participan del proceso de selección de proyectos para su visación técnica será el día 21 octubre, y la fecha de cierre para recepción de postulaciones en las Secretaría Regionales Ministeriales de Vivienda y Urbanismo será el día 21 de noviembre.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
