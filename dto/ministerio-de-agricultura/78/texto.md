@@ -128,9 +128,9 @@ Cuando provenga de otra especie deberá nominarse sidra acompañada del nombre d
 
 49.- Uva de Mesa: Es aquella que se comercializa habitualmente para su consumo directo en estado fresco. En especial, se comprende la que corresponde a las siguientes variedades: - Thompson Seedless-Flame Seedless- Ribier-Ruby Seedless-Black Seedless-Red Seedless-(Emperatriz)-Emperor-Superior Seedless-Cardinal-Almería-Red Globe-Beauty Seedless-Queen-Flame Tokay-Royal Seedless- Exotic-Black Beauty y Early Grant.
 
-50.- Sour: Se dará este nombre al coctel preparado a base de destilados o licores adicionados de frutas ácidas o saborizantes de las mismas, pudiendo contener aditivos permitidos tales como azúcares,estabilizantes, espesantes, enturbiantes y colorantes. El nombre del producto será el destilado o licor empleado seguido de la palabra sour y de la fruta o saborizante utilizado, salvo en el caso del limón, en que esta última mención tendrá carácter optativo.
+50.- Sour: Se NOTA 2dará este nombre al coctel preparado a base de destilados o licores adicionados de frutas ácidas o saborizantes de las mismas, pudiendo contener aditivos permitidos tales como azúcares,estabilizantes, espesantes, enturbiantes y colorantes. El nombre del producto será el destilado o licor empleado seguido de la palabra sour y de la fruta o saborizante utilizado, salvo en el caso del limón, en que esta última mención tendrá carácter optativo.
 
-51.- Cola de Mono: Es el coctel preparado a base de aguardiente, leche de origen animal, café y edulcorantes, pudiendo contener aditivos tales como aromatizantes, NOTA 2estabilizantes, espesantes, enturbiantes y colorantes.
+51.- Cola de Mono: Es el coctel preparado a base de aguardiente, leche de origen animal, café y edulcorantes, pudiendo contener aditivos tales como aromatizantes, estabilizantes, espesantes, enturbiantes y colorantes.
 
 Se permite el reemplazo de la leche de origen animal por otras leches o cremas de origen vegetal, pero en tal caso la rotulación deberá indicar el componente empleado como sucedáneo.
 
@@ -144,11 +144,11 @@ Se permite el reemplazo de la leche de origen animal por otras leches o cremas d
 
 56. Cóctel de vino: Es la bebida alcohólica elaborada sobre la base de vino como materia alcohólica predominante, que puede o no contener anhídrido carbónico, a la que se le adicionan productos analcohólicos, frutas y colorantes.
 
-> **Nota.** EL ARTICULO TRANSITORIO del Decreto 103, Agricultura, publicado el 30.09.1987, dispuso que las modificaciones introducidas al presente decreto regirán vencido el plazo de 6 meses a contar de su publicación.
+57. Cerveza de cereales: Es la bebida alcohólica elaborada en base a agua, lúpulo, levadura, cebada malteada y extractos fermentables provenientes de cereales en un porcentaje no inferior al 85%. En el resto de los extractos fermentables se incluye el azúcar. El producto podrá denominarse cerveza seguido del nombre del cereal correspondiente, cuando tenga una proporción mayoritaria del cereal en la composición final del producto, distinta de la cebada.
 
-> **Nota.** NOTA 1 El ARTICULO TRANSITORIO del Decreto 80, Agricultura, publicado el 19.07.1990, dispuso que las modificaciones introducidas a la presente norma, regirán 60 días después de su publicación.
+58. Barleywine: Cerveza de cebada malteada de fermentación alta, que tiene una graduación alcohólica real entre 8° y 12° GL, constituyendo un producto de características organolépticas distintivas y propias, que podrá ser objeto de maduración en madera.
 
-> **Nota.** NOTA 2 El artículo transitorio del Decreto 98, Agricultura, publicado el 19.07.1990, dispuso que las modificaciones dispuestas en sus números 1, 8 y 9, entrarán en vigencia 60 días después de su publicación.
+59. Cóctel de Cerveza: Es la bebida alcohólica elaborada sobre la base de cerveza como materia alcohólica predominante y obtenida por la mezcla de uno o más destilados, licores o bebidas alcohólicas fermentadas a las que se les puede adicionar productos analcohólicos.
 
 #### Artículo 2°
 
@@ -986,9 +986,9 @@ f) Tener un ph que fluctúe entre
 
 3,5 y 5,0.
 
-Se aceptará una tolerancia de 0,3 grados bajo la
+Se aceptará una tolerancia de 0,5 grados
 
-graduación alcohólica indicada en la etiqueta.
+bajo la graduación alcohólica indicada en la etiqueta.
 
 #### Artículo 43°
 
@@ -1055,6 +1055,22 @@ y su posterior dilución.
 14.- El uso de azúcares refinados como extracto
 
 fermentable y edulcorante del producto final.
+
+15.- Desalcoholización de la cerveza mediante las
+
+siguientes técnicas separativas empleadas
+
+de manera aislada o combinada:
+
+a) Evaporación parcial al vacío.
+
+b) Técnicas de membranas.
+
+c) Destilación.
+
+16.- El uso de madera en diferentes formas en el
+
+estacionamiento y maduración de la cerveza.
 
 #### Artículo 44°
 
@@ -1238,7 +1254,7 @@ Derogado
 
 De la comercialización
 
-#### Artículo 59°
+#### Artículo 59º
 
 El Servicio llevará un registro de las bebidas alcohólicas que se comercialicen en el país.
 
@@ -1252,11 +1268,11 @@ c) Nombre o razón social y domicilio del productor o fabricante, tratándose de
 
 d) Composición genérica del producto y las materias primas utilizadas.
 
-Si se tratare de destilados y licores, el Servicio podrá encasillar el producto en alguna de las calificaciones señaladas en el artículo 12° de este reglamento o asignarle otra clasificación si el producto tiene una composición genérica significativamente diferente.
+Respecto de las bebidas alcohólicas fermentadas, el Servicio podrá asignar otra clasificación a las establecidas en este reglamento, si los productos tienen una composición genérica significativamente diferente o si en su proceso productivo se consideran los factores humanos como elemento diferenciador.
 
-Los productos a que se refiere el inciso segundo que no se encuentren inscritos no podrán ser comercializados en el país.
+Si se tratare de destilados y licores, el Servicio podrá encasillar el producto en alguna de las calificaciones señaladas en el artículo 12° de este reglamento o asignarle otra clasificación si el producto tiene una composición genérica significativamente diferente o si en su proceso productivo se consideran los factores humanos como elemento diferenciador.
 
-> **Nota.** El artículo transitorio del DTO 103, agricultura, dispone que la modificación a este artículo rige vencido el plazo de seis meses desde su publicación.
+Los productos a que se refiere el inciso segundo que no se encuentren inscritos no podrán ser comercializados en el país
 
 #### Artículo 60°
 
