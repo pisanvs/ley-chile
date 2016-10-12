@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.099 EXENTA, DE 22 DE SEPTIEMBRE DE 2016
+
+Mediante resolución exenta Nº 1.099, de fecha 22 de septiembre de 2016, de esta Secretaría Regional, se aprobaron los planes y programas de la Escuela de Conductores Profesionales o Clase A denominada Escuela de Conductores Profesionales Sociedad de Servicios para la Productividad y el Desarrollo Limitada, RUT 76.387.924-0, nombre de fantasía "Serprode Limitada", representada legalmente por don José Hernán Aliaga Castro, para impartir cursos conducentes a la obtención de las licencias de conductor profesional clases A2, A3, A4 y A5, en los domicilios ubicados en 5 Sur, entre 14 y 15 Oriente, Nº 2115, comuna de Talca, y en Chacabuco Nº 14, comuna de Curicó.-
+
+Patricia Miranda Salas, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
