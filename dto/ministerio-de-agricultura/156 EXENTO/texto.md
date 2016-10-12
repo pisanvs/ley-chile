@@ -44,6 +44,8 @@ Chile)
 
 . Aeropuerto Internacional Cerro Moreno
 
+. Complejo Portuario Mejillones, Terminal 1.
+
 III Región
 
 . Paso San Francisco
@@ -149,6 +151,20 @@ Región Metropolitana
 . Aeropuerto Internacional Arturo Merino Benítez
 
 2.- Deróganse el punto A1 de la resolución Nº350 de 1981 y las resoluciones Nº252 de 1984, Nº373 de 1991 y Nº29 de 1995, todas del Servicio Agrícola y Ganadero, y la resolución Nº46 de 1997 del Ministerio de Agricultura.
+
+> **Nota.** El Decreto 475 Exento, Agricultura, publicado el 24.09.2011, complementa la presente norma en el sentido de habilitar temporalmente a contar de la fecha de este acto administrativo y hasta el 31 de diciembre de 2011, para la importación de productos vegetales, animales, productos, subproductos, insumos agrícolas y pecuarios al territorio nacional, el siguiente puerto de la comuna de Huasco, de la Región de Atacama: Puerto Las Losas.
+
+> **Nota.** NOTA 1 El Decreto 714 Exento, Agricultura, publicado el 03.01.2012, complementa la presente norma en el sentido de habilitar temporalmente desde el 1 de enero al 31 de diciembre de 2012, para la importación de vegetales, animales, productos, subproductos e insumos agrícolas y pecuarios al territorio nacional al siguiente puerto: Puerto las Losas, Huasco, de la Región de Atacama, asimismo habilitar temporalmente desde el 1 de enero al 31 de diciembre de 2012, para la importación de productos vegetales en categoría 0 y 1 de riesgo fitosanitario a los puertos de la Región de Los Lagos: Muelle en Isla Quihua (Puerto San José de Calbuco), Terminal Portuario Skretting.
+
+> **Nota.** NOTA 3 El Decreto 413 Exento, Agricultura, publicado el 30.06.2012, complementa la presente norma en el sentido habilitar temporalmente, a contar del 1 de junio de 2012 hasta el 31 de diciembre del mismo año, para la importación de productos vegetales, especialmente granos, destinados a la alimentación animal, al territorio nacional por el puerto de Coronel, en la comuna de Coronel, Región del Biobío, en los muelles denominados Jureles, Puchoco y Chollín.
+
+> **Nota.** NOTA 4 El Decreto 700 Exento, Agricultura, publicado el 02.02.2013, complementa la presente norma en el sentido:1. Habilitar temporalmente a contar del 31 de diciembre de 2012 y hasta el 31 de diciembre de 2013 para la importación de vegetales, animales, productos, subproductos e insumos agrícolas y pecuarios al territorio nacional al siguiente puerto de la Región de Atacama: Puerto Las Losas, Huasco.2. Habilitar temporalmente a contar del 31 de diciembre de 2012 y hasta el 31 de diciembre de 2013 para la importación de productos vegetales en categoría 1 de riesgo fitosanitario a los puertos de la Región de Los Lagos: Muelle en Isla Quihua (Puerto San José de Calbuco); Terminal Portuario Skretting.3. Habilitar temporalmente a contar del 31 de diciembre de 2012 y hasta el 31 de diciembre de 2013 para la importación de productos vegetales del tipo granos de consumo destinados a la alimentación animal a los siguientes muelles de la comuna de Coronel, Región del Biobío: Muelles Jureles, Puchoco y Chollín.
+
+> **Nota.** NOTA 5 El Decreto 388 Exento, Agricultura, publicado el 24.10.2013, complementa la presente norma en el sentido de:1. Habilitar temporalmente a contar del 1 de octubre de 2013 y hasta el 31 de diciembre del mismo año, para la importación de madera aserrada, muebles de madera, harinas y levadura de cerveza, al territorio nacional al siguiente Puerto: Puerto Angamos, Región de Antofagasta.2. Habilitar temporalmente a contar del 1 de octubre de 2013 y hasta el 31 de diciembre del mismo año, para la importación de: Semillas sin proceso de cuarentena post entrada, madera para la elaboración de artesanías y alcoholes, al territorio nacional al siguiente aeropuerto internacional: Aeropuerto Mataveri, Isla de Pascua, Región de Valparaíso.
+
+> **Nota.** NOTA 6 El Decreto 317 Exento, Agricultura, publicado el 13.10.2014, complementa la presente norma en el sentido de de habilitar temporalmente, a contar de la fecha de este acto administrativo y hasta el 31 de diciembre de 2014, la importación de granos, fertilizantes e insumos para alimentación animal, tales como, harinas de origen vegetal y animal, alimentos, suplementos y aditivos, al Puerto Punta Caullahuapi, Región de Los Lagos.
+
+> **Nota.** NOTA 7 El artículo único del Decreto 318 Exento, Agricultura, publicado el 07.08.2015, complementa la presente norma, en el sentido de de habilitar temporalmente el Puerto Angamos, Región de Antofagasta, desde la publicación del referido decreto en el Diario Oficial hasta el 31 de diciembre de 2015.
 
 Anótese, y publíquese.- Por orden del Presidente de la República, Carlos Mladinic Alonso, Ministro de Agricultura.
 
