@@ -1641,5 +1641,3 @@ ICH-07 Antiguo lavadero de Carbón, ubicado Boca Lebu
 ZCM ZONA DE PROTECCIÓN POR CEMENTERIO MAPUCHE
 
 Zona de condición especial: Para cualquier tipo de intervención que se requiera ejecutar en esta zona, deberá ser aprobada por el Consejo de Monumentos Nacionales, antes de ser ingresado a la Dirección de Obras Municipales.
-
-> **Nota.** El numeral 1° del Decreto 6704, Municipalidad de Lebu, publicado el 23.10.2018, modifica la presente norma en el sentido de agregar la Zona BA-C "Barrio Antiguo - Sector Consistorial", en el área comprendida entre las calles Freire por el norte, Saavedra y José Joaquín Pérez por el oriente, Ramírez y Andrés Bello por el sur y Mackay por el poniente.
