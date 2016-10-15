@@ -98,11 +98,15 @@ h) Aplicar tributos que graven actividades o bienes que tengan una clara identif
 
 i) Constituir corporaciones o fundaciones de derecho privado, sin fines de lucro, destinadas a la promoción y difusión del arte y la cultura. La participación municipal en estas corporaciones se regirá por las normas establecidas en el Párrafo 1º del Título VI;
 
-j) Establecer, en el ámbito de las comunas o agrupación de comunas, territorios denominados unidades vecinales, con el objeto de propender a un desarrollo equilibrado y a una adecuada canalización de la participación ciudadana, y
+j) Establecer, en el ámbito de las comunas o agrupación de comunas, territorios denominados unidades vecinales, con el objeto de propender a un desarrollo equilibrado y a una adecuada canalización de la participación ciudadana;
 
-k) Aprobar los planes reguladores comunales y los planes seccionales de comunas que formen parte de un territorio normado por un plan regulador metropolitano o intercomunal, y pronunciarse sobre el proyecto de plan regulador comunal o de plan seccional de comunas que no formen parte de un territorio normado por un plan regulador metropolitano o intercomunal.
+k) Aprobar los planes reguladores comunales y los planes seccionales de comunas que formen parte de un territorio normado por un plan regulador metropolitano o intercomunal, y pronunciarse sobre el proyecto de plan regulador comunal o de plan seccional de comunas que no formen parte de un territorio normado por un plan regulador metropolitano o intercomunal;
 
-l) Aprobarlos planos de detalle de los planes reguladores comunales y de los planes seccionales.
+l) Aprobarlos planos de detalle de los planes reguladores comunales y de los planes seccionales;
+
+m) Elaborar, aprobar, modificar y materializar los planes de inversiones en infraestructura de movilidad y espacio público, y
+
+n) Recaudar, administrar y ejecutar, en una cuenta especial y separada del resto del presupuesto municipal, los aportes al espacio público que se perciban, de conformidad a las disposiciones de la Ley General de Urbanismo y Construcciones, y suscribir los convenios sobre aportes urbanos reembolsables que regula el mismo cuerpo legal.
 
 Las municipalidades tendrán, además, las atribuciones no esenciales que le confieren las leyes o que versen sobre materias que la Constitución Política de la República expresamente ha encargado sean reguladas por la ley común.
 
@@ -306,7 +310,7 @@ Adscrito a esta unidad existirá el asesor urbanista, quien requerirá estar en 
 
 a) Asesorar al alcalde y al concejo en la promoción del desarrollo urbano;
 
-b) Estudiar y elaborar el plan regulador comunal, y mantenerlo actualizado, promoviendo las modificaciones que sean necesarias y preparar losplanos de detalle y planes seccionales, en su caso, y
+b) Estudiar y elaborar el plan regulador comunal, y mantenerlo actualizado, promoviendo las modificaciones que sean necesarias y preparar el plan de inversiones en infraestructura de movilidad y espacio público y los planos de detalle y planes seccionales, en su caso, y
 
 c) Informar técnicamente las proposiciones sobre planificación urbana intercomunal, formuladas al municipio por la Secretaría Regional Ministerial de Vivienda y Urbanismo.
 
@@ -392,7 +396,7 @@ c) Aplicar normas ambientales relacionadas con obras de construcción y urbaniza
 
 d) Confeccionar y mantener actualizado el catastro de las obras de urbanización y edificación realizadas en la comuna;
 
-e) Ejecutar medidas relacionadas con la vialidad urbana y rural;
+e) Ejecutar medidas relacionadas con la vialidad urbana y rural y pronunciarse sobre los informes de mitigación de impacto vial presentados en la comuna a petición de la secretaría regional ministerial de Transportes y Telecomunicaciones o de la dirección de Tránsito y Transporte Públicos Municipal respectiva;
 
 f) Dirigir las construcciones que sean de responsabilidad municipal, sean ejecutadas directamente o a través de terceros, y
 
@@ -424,9 +428,11 @@ a) Otorgar y renovar licencias para conducir vehículos;
 
 b) Determinar el sentido de circulación de vehículos, en coordinación con los organismos de la Administración del Estado competentes;
 
-c) Señalizar adecuadamente las vías públicas, y
+c) Señalizar adecuadamente las vías públicas;
 
-d) En general, aplicar las normas generales sobre tránsito y transporte públicos en la comuna.
+d) Aprobar, observar o rechazar los informes de mitigación de impacto vial o emitir opinión sobre ellos, a petición de la secretaría regional ministerial de Transportes y Telecomunicaciones, conforme a lo dispuesto en la Ley General de Urbanismo y Construcciones, y
+
+e) En general, aplicar las normas generales sobre tránsito y transporte públicos en la comuna.
 
 #### Artículo 27
 
@@ -904,9 +910,11 @@ de organizaciones de la
 
 sociedad civil;
 
-n) Someter a plebiscito las materias de administración local, de acuerdo a lo establecido en los artículos 99 y siguientes, y
+n) Someter a plebiscito las materias de administración local, de acuerdo a lo establecido en los artículos 99 y siguientes;
 
-ñ) Autorizar la circulación de los vehículos municipales fuera de los días y horas de trabajo, para el cumplimiento de las funciones inherentes a la municipalidad.
+ñ) Autorizar la circulación de los vehículos municipales fuera de los días y horas de trabajo, para el cumplimiento de las funciones inherentes a la municipalidad, y
+
+o) Aprobar, observar o rechazar las solicitudes de materializar los aportes al espacio público que contempla la Ley General de Urbanismo y Construcciones a través de la ejecución de estudios, proyectos, obras y medidas de acuerdo a lo que dispone el mismo cuerpo legal.
 
 #### Artículo 64
 
@@ -918,7 +926,7 @@ El alcalde requerirá el acuerdo del concejo para:
 
 a) Aprobar el plan comunal de desarrollo y el presupuesto municipal, y sus modificaciones, como asimismo los presupuestos de salud y educación, los programas de inversión correspondientes y las políticas de recursos humanos, de prestación de servicios municipales y de concesiones, permisos y licitaciones;
 
-b) Aprobar el plan regulador comunal, los planes seccionales y sus planos de detalle,y el proyecto de plan regulador comunal o de plan seccional en los casos a que se refiere la letra k) del artículo 5º;
+b) Aprobar el plan regulador comunal, los planes seccionales y sus planos de detalle, el plan de inversiones en infraestructura de movilidad y espacio público y los estudios, proyectos, obras y medidas no incluidos en éstos que sean propuestos por los interesados conforme lo establece el artículo 179 de la Ley General de Urbanismo y Construcciones, en su caso, y el proyecto de plan regulador comunal o de plan seccional en los casos a que se refiere la letra k) del artículo 5º;
 
 c) Establecer derechos por los servicios municipales y por los permisos y concesiones;
 
@@ -932,7 +940,7 @@ g) Otorgar subvenciones y aportes, para financiar actividades comprendidas entre
 
 h) Transigir judicial y extrajudicialmente;
 
-i) Celebrar los convenios y contratos que involucren montos iguales o superiores al equivalente a 500 unidades tributarias mensuales, y que requerirán el acuerdo de la mayoría absoluta del concejo; no obstante, aquellos que comprometan al municipio por un plazo que exceda el período alcaldicio, requerirán el acuerdo de los dos tercios de dicho concejo;
+i) Celebrar los convenios y contratos que involucren montos iguales o superiores al equivalente a 500 unidades tributarias mensuales, y que requerirán el acuerdo de la mayoría absoluta del concejo; no obstante, aquellos que comprometan al municipio por un plazo que exceda el período alcaldicio, requerirán el acuerdo de los dos tercios de dicho concejo. Asimismo, suscribir los convenios sobre aportes urbanos reembolsables que regula la Ley General de Urbanismo y Con
 
 j) Otorgar concesiones municipales, renovarlas y ponerles término. En todo caso, las renovaciones sólo podrán acordarse dentro de los seis meses que precedan a su expiración, aún cuando se trate de concesiones reguladas en leyes especiales;
 
@@ -1010,9 +1018,11 @@ f) Las modificaciones efectuadas al patrimonio municipal;
 
 g) Los indicadores más relevantes que den cuenta de la gestión en los servicios de educación y salud, cuando estos sean de administración municipal, tales como el número de colegios y alumnos matriculados; de los resultados obtenidos por los alumnos en las evaluaciones oficiales que se efectúen por el Ministerio de Educación; de la situación previsional del personal vinculado a las áreas de educación y salud; del grado de cumplimiento de las metas sanitarias y de salud a nivel comunal;
 
-h) El estado de la aplicación de la política de recursos humanos, y
+h) El estado de la aplicación de la política de recursos humanos;
 
-i) Todo hecho relevante de la administración municipal que deba ser conocido por la comunidad local.
+i) Todo hecho relevante de la administración municipal que deba ser conocido por la comunidad local, y
+
+j) Una relación detallada del uso, situación y movimiento de todos y cada uno de los aportes recibidos para la ejecución del plan de inversiones en infraestructura de movilidad y espacio público a que se refiere la Ley General de Urbanismo y Construcciones, la asignación de aportes en dinero a obras específicas, las obras ejecutadas, los fondos disponibles en la cuenta especial, la programación de obras para el año siguiente y las medidas de mitigación directa, estudios, proyectos, obras y medidas por concepto de aportes al espacio público recepcionadas y garantizadas y las incluidas en los permisos aprobados, consignando, además, las garantías a que alude el artículo 173 de la Ley General de Urbanismo y Construcciones que obren en su poder y la situación de los fondos obtenidos por el cobro de garantías.
 
 Un extracto de la cuenta pública del alcalde deberá ser difundido a la comunidad. Sin perjuicio de lo anterior, la cuenta íntegra efectuada por el alcalde deberá estar a disposición de los ciudadanos para su consulta.
 
@@ -1416,7 +1426,7 @@ Sin perjuicio de lo dispuesto en los artículos anteriores, cada municipalidad d
 
 La información y documentos municipales son públicos. En dicha oficina deberán estar disponibles, para quien los solicite, a lo menos los siguientes antecedentes:
 
-a) El plan comunal de desarrollo, el presupuesto municipal y el plan regulador comunal con sus correspondientes seccionales, incluyendo sus respectivos planos de detalle, y las políticas específicas.
+a) El plan comunal de desarrollo, el presupuesto municipal, el plan de inversiones en infraestructura de movilidad y espacio público, en su caso, y el plan regulador comunal con sus correspondientes seccionales, incluyendo sus respectivos planos de detalle, y las políticas específicas.
 
 b) El reglamento interno, el reglamento de contrataciones y adquisiciones, la ordenanza de participación y todas las ordenanzas y resoluciones municipales.
 

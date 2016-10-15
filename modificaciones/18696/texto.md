@@ -212,6 +212,118 @@ El Ministerio de Transportes y Telecomunicaciones podrá fijar por regiones, pro
 
 La autorización a los establecimientos que estén funcionando conforme al procedimiento del artículo 95 de la ley N° 18.290, caducará de pleno derecho cuando inicien sus actividades las plantas de revisión técnica autorizadas para efectuarlas a los mismos tipos de vehículos, de acuerdo al procedimiento del inciso anterior.
 
+#### Artículo 5°
+
+Créase un registro de consultores en informes de mitigación de impacto vial a cargo de la Subsecretaría de Transportes, que lo administrará. El registro regirá para todo el territorio nacional y tendrá carácter público y permanente. No obstante, las solicitudes de inscripciones y de modificaciones al registro se presentarán y tramitarán ante la respectiva secretaría regional ministerial de Transportes y Telecomunicaciones (en adelante "la Seremi"), conforme a los requisitos y procedimiento establecidos en el reglamento que al efecto dicte el Ministerio de Transportes y Telecomunicaciones. La inscripción realizada en cualquier región permitirá al consultor presentar informes en todo el país.
+
+En contra de las resoluciones emitidas por las Seremi en el procedimiento de inscripción podrán deducirse los recursos generales contemplados en la ley N° 19.880. El recurso jerárquico se interpondrá ante el Subsecretario de Transportes.
+
+#### Artículo 6°
+
+Sólo podrán inscribirse en el registro y permanecer inscritas en él las personas naturales y jurídicas que cumplan los requisitos que en cada caso se señalan:
+
+### I. Las personas naturales que:
+
+a) Acrediten estar en posesión del título profesional de ingeniero civil con mención en transportes o ingenierías similares, u otros profesionales con posgrado o postítulo en transporte. Con todo, el título profesional deberá ser de una carrera de, a lo menos, ocho semestres de duración.
+
+b) No estén afectas a alguna inhabilidad establecida en el artículo 7.
+
+c) Acrediten una experiencia mínima de tres años en la elaboración o revisión de proyectos de ingeniería de transporte.
+
+### II. Las personas jurídicas que:
+
+a) Sean sociedades de personas, cuando al menos uno de los socios cumpla con los requisitos profesionales y de habilidad establecidos en el número I anterior.
+
+b) Sean sociedades anónimas, cuando a lo menos uno de los socios miembros de su directorio cumpla con los requisitos profesionales y de habilidad establecidos en el número I precedente.
+
+c) Sean otras sociedades, nacionales o extranjeras, en las cuales a lo menos un socio, director, representante o agente cumpla con los requisitos profesionales y de habilidad exigidos en el número I anterior.
+
+#### Artículo 7°
+
+Las inhabilidades para inscribirse y permanecer en el registro serán las siguientes:
+
+a) Ser funcionario o estar empleado a cualquier título en el Ministerio de Transportes y Telecomunicaciones, sus secretarías regionales u organismos dependientes o cualquiera de los demás órganos que deban ser consultados a propósito de los informes de mitigación de impacto vial conforme a lo dispuesto en el artículo 172 de la Ley General de Urbanismo y Construcciones.
+
+b) Haber sido condenado por crimen o simple delito que merezca pena aflictiva.
+
+c) Haber sido sancionado con la eliminación o tener la inscripción suspendida en este registro.
+
+Las inhabilidades derivadas de una condena penal o administrativa quedarán sin efecto transcurridos cinco años desde el término del cumplimiento de la pena o sanción.
+
+#### Artículo 8°
+
+Los consultores que regula esta ley no podrán elaborar informes de mitigación de impacto vial que hayan de ser presentados en municipalidades en las que ellos o cualquiera de las personas que les presten servicios sean funcionarios o tengan alguna relación contractual, hasta pasados dos años desde que dicho vínculo haya cesado.
+
+Tratándose de personas jurídicas se aplicará la misma restricción señalada en el inciso anterior si sus socios, administradores o personas que les presten servicios, reúnen las calidades antes señaladas.
+
+#### Artículo 9°
+
+Se considerará como infracción leve, y se sancionará con amonestación por escrito, no comunicar al registro cualquier modificación de antecedentes personales que incidan en el cumplimiento de los requisitos de inscripción o las causales de inhabilidad. La comunicación deberá efectuarse dentro de los treinta días siguientes a la fecha de la modificación.
+
+#### Artículo 10
+
+Las siguientes actuaciones del consultor serán constitutivas de infracción grave y se sancionarán con la suspensión del registro, hasta por el plazo de un año:
+
+a) Reincidir en la comisión de alguna infracción leve dentro de un período de tres años.
+
+b) Emitir un informe en contravención a las normas reglamentarias que regulan los informes de mitigación de impacto vial.
+
+c) Emitir informes con antecedentes o datos incompletos, cuya omisión pudiera afectar la correcta evaluación de las medidas de mitigación propuestas.
+
+#### Artículo 11
+
+Las siguientes actuaciones del consultor serán constitutivas de infracción gravísima y se sancionarán con multa de 10 a 100 unidades tributarias mensuales a beneficio fiscal, suspensión de entre uno y tres años y/o la eliminación del registro:
+
+a) Reincidir en la comisión de alguna infracción grave dentro de un período de tres años.
+
+b) Actuar encontrándose afectado por alguna causal de inhabilidad o habiendo perdido alguno de los requisitos habilitantes para la inscripción en el registro.
+
+c) Proporcionar información inexacta relativa al cumplimiento de los requisitos de inscripción u omitir información referida a esta misma materia.
+
+d) Aportar datos o antecedentes falsos respecto del levantamiento de la información, la simulación de los sistemas de transporte o la estimación de los impactos del proyecto analizado, induciendo a error o impidiendo la correcta evaluación de las medidas de mitigación propuestas en el informe emitido.
+
+e) Ser condenado por sentencia ejecutoriada debido a responsabilidades civiles o penales derivadas de la elaboración de los informes de mitigación de impacto vial.
+
+f) Emitir un informe en contravención a las normas legales que regulan los informes de mitigación de impacto vial.
+
+g) Infringir lo dispuesto en el artículo 8 de esta ley.
+
+#### Artículo 12
+
+Las inhabilidades y sanciones que afecten a personas jurídicas se harán extensivas a la totalidad de sus socios, si se trata de sociedades de personas, y a sus directores, administradores y/o representantes, si se trata de sociedades anónimas u otras personas jurídicas. De igual manera, las inhabilidades y sanciones que afecten a una persona natural, socia de una sociedad de personas, o directora, administradora o representante de una sociedad anónima u otra persona jurídica, se harán extensivas a la respectiva persona jurídica.
+
+#### Artículo 13
+
+Será competente para conocer de las infracciones en que incurran los consultores y aplicar las sanciones establecidas en la presente ley la secretaría regional ministerial de Transportes y Telecomunicaciones de la región en que se cometió la infracción.
+
+El procedimiento sancionatorio deberá iniciarse de oficio, cuando la secretaría regional ministerial de Transportes y Telecomunicaciones correspondiente tome conocimiento de hechos que pudieren ser constitutivos de alguna de las infracciones a que se refiere esta ley.
+
+El procedimiento también podrá iniciarse mediante denuncia escrita, ante la secretaría regional ministerial competente, formulada y suscrita por una persona interesada. Las denuncias deberán ser fundadas y contendrán una descripción de los hechos concretos que se estiman constitutivos de infracción, debiendo acompañarse copia de los antecedentes en que se fundan. De no cumplirse estos requisitos, la denuncia no será admitida a trámite.
+
+#### Artículo 14
+
+El procedimiento sancionatorio se iniciará mediante una resolución de la secretaría regional ministerial de Transportes y Telecomunicaciones correspondiente, en la que deberán constar los cargos precisos formulados contra el presunto infractor, la que se le notificará por carta certificada enviada al domicilio que tenga registrado, adjuntando los antecedentes en que se funda.
+
+La formulación de cargos deberá señalar el modo en que se ha iniciado el procedimiento, una descripción de los hechos que se estiman constitutivos de infracción, la norma eventualmente infringida y la disposición que establece la sanción asignada a la infracción. El presunto infractor tendrá un plazo de treinta días para formular descargos, contado desde la notificación.
+
+#### Artículo 15
+
+Recibidos los descargos o transcurrido el término establecido para ello, la secretaría regional ministerial examinará el mérito de los antecedentes y, en caso de ser necesario, ordenará la realización de las pericias e inspecciones que sean pertinentes y la recepción de los demás medios probatorios que procedan. Los hechos investigados y las responsabilidades de los infractores podrán acreditarse mediante cualquier medio de prueba admisible en derecho, apreciándose en conciencia.
+
+#### Artículo 16
+
+La resolución que ponga fin al procedimiento sancionatorio será fundada y abordará todas las cuestiones planteadas, pronunciándose sobre cada una de las alegaciones y defensas del imputado, debiendo declarar la sanción que impone al infractor o su absolución.
+
+La resolución final deberá dictarse dentro de los treinta días siguientes a aquel en que se haya evacuado la última diligencia ordenada en el expediente.
+
+Las sanciones se anotarán en el registro. En contra de las resoluciones emitidas por la Seremi en los procedimientos sancionatorios podrán deducirse los recursos generales contemplados en la ley N° 19.880. El recurso jerárquico se interpondrá ante el Subsecretario de Transportes.
+
+#### Artículo 17
+
+Las acciones para perseguir las infracciones a que se refiere esta ley prescribirán en dos años, respecto de las leves y graves, y en cuatro, tratándose de las gravísimas, contados desde la fecha en que se cometió la infracción.
+
+El cobro de las multas aplicadas conforme a esta ley prescribirá a los dos años desde la fecha en que la respectiva resolución sancionatoria haya quedado firme. Las demás sanciones se aplicarán de pleno derecho desde esa misma fecha.
+
 #### Artículo transitorio
 
 Las vías por las cuales circulan servicios públicos de locomoción colectiva debidamente autorizados, a la fecha de vigencia de esta ley, se entenderán incorporadas en la fijación a que se refiere el inciso tercero del artículo 3°, sin perjuicio de las modificaciones que se le introduzcan en uso de las facultades que se le otorgan al Ministerio de Transportes y Telecomunicaciones.

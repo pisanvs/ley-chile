@@ -288,6 +288,18 @@ Los planos de detalle serán elaborados por el municipio o por la Secretaría Re
 
 Con el mérito de todos estos antecedentes, y un informe que justifique la propuesta y su consistencia con el instrumento especificado, el proyecto será sometido a la aprobación del concejo municipal, si se trata de planes comunales o seccionales, o a la del consejo regional, en el caso de los planes intercomunales. Los planos serán promulgados por decreto alcaldicio o resolución del intendente, según sea el caso.
 
+#### Artículo 28 ter
+
+Asimismo, a través de planos de detalle subordinados a los planes reguladores comunales, seccionales o intercomunales, podrán fijarse con exactitud el diseño y características de los espacios públicos, los límites de las distintas zonas o áreas del plan y, en el caso de los planes reguladores comunales y seccionales, el agrupamiento de edificios y las características arquitectónicas de los proyectos a realizarse en sectores vinculados con monumentos nacionales, en inmuebles o zonas de conservación histórica o en sectores en que el plan regulador exija la adopción de una determinada morfología o un particular estilo arquitectónico de fachadas.
+
+Estos planos de detalle serán elaborados y aprobados conforme señala el artículo precedente, con los siguientes cambios:
+
+a) Deberán contener una breve memoria y disposiciones reglamentarias.
+
+b) Se deberá realizar una o más audiencias públicas en los barrios o sectores afectados para exponer la propuesta de plan de detalle a la comunidad, en la forma establecida en la ordenanza de participación ciudadana de la respectiva municipalidad.
+
+c) Antes de su aprobación, se expondrán a la comunidad por un plazo de treinta días, vencido el cual los interesados podrán formular observaciones escritas y fundadas hasta por otros treinta días, aplicándoseles lo previsto en el artículo 43.
+
 ### Párrafo 1° — .- De la Planificación Urbana Nacional
 
 #### Artículo 29°
@@ -458,11 +470,7 @@ Estas modificaciones no podrán ser contrarias a los preceptos de este cuerpo le
 
 #### Artículo 46
 
-En los casos en que, para la aplicación del Plan Regulador Comunal, se requiera de estudios más detallados, ellos se harán mediante Planos Seccionales en que se fijarán la zonificación detallada, las áreas de construcción obligatoria, de remodelación, conjuntos armónicos, terrenos afectados por expropiaciones, etc.
-
 En las comunas en que no exista Plan Regulador podrán estudiarse Planes Seccionales, los que se aprobarán conforme a lo prescrito en el inciso primero del artículo 43.
-
-La confección de Planos Seccionales tendrá carácter obligatorio en las comunas de más de 50.000 habitantes que cuenten con Asesor Urbanista, para los efectos de fijar las líneas oficiales de edificación, y lo será también en aquellas que califique especialmente la Secretaría Regional correspondiente del Ministerio de Vivienda y Urbanismo, por sus condiciones topográficas, o por urgencia en materializar determinadas obras públicas o expropiaciones.
 
 #### Artículo 47
 
@@ -672,7 +680,7 @@ Asimismo, podrá consultarse en el decreto la fijación de áreas adyacentes ben
 
 #### Artículo 75°
 
-Las características técnicas mínimas que deberán tener los "Planos Seccionales de Zonas de Remodelación" y el procedimiento para su aprobación y aplicación serán regulados en la Ordenanza General.
+Las características técnicas mínimas que deberán tener los "Planes Seccionales de Zonas de Remodelación" y el procedimiento para su aprobación y aplicación serán regulados en la Ordenanza General.
 
 ### Párrafo 2° — .- De las Zonas de Construcción Obligatoria
 
@@ -1248,7 +1256,7 @@ El Director de Obras podrá otorgar facilidades para el pago de derechos por per
 
 #### Artículo 129°
 
-La garantía de urbanización por el monto total de las obras, que exige esta ley para el efecto de autorizar ventas y adjudicaciones de sitios antes de estar ejecutada y recibida la urbanización, podrá consistir indistintamente en valores hipotecarios reajustables u otros garantizados por el Estado, boletas bancarias o pólizas de seguros.
+La garantía de urbanización por el monto total de las obras, que exige esta ley para el efecto de autorizar ventas y adjudicaciones de lotes antes de estar ejecutada y recibida la urbanización, podrá consistir indistintamente en valores hipotecarios reajustables u otros garantizados por el Estado, boletas bancarias o pólizas de seguros.
 
 Las instituciones bancarias y aseguradoras, que hubieren emitido el respectivo documento de garantía por la urbanización, pagarán los valores garantizados o la parte de ellos que corresponda con el solo mérito del certificado que otorgue el Director de Obras Municipales, en el sentido de que las obras no se han ejecutado, total o parcialmente, y que el plazo correspondiente se encuentra vencido, indicado además, el monto proporcional de la garantía que deba hacerse efectivo.
 
@@ -1372,9 +1380,11 @@ A las ampliaciones de viviendas a que se refiere el inciso primero del artículo
 
 Para urbanizar un terreno, el propietario del mismo deberá ejecutar, a su costa, el pavimento de las calles y pasajes, las plantaciones y obras de ornato, las instalaciones sanitarias y energéticas, con sus obras de alimentación y desagües de aguas servidas y de aguas lluvias, y las obras de defensa y de servicio del terreno.
 
-Sin embargo, cuando las obras de alimentación y desagüe que deban ejecutarse beneficien también a otros propietarios, el servicio respectivo determinará el pago proporcional que corresponda al propietario en estas obras, en la forma que determine la Ordenanza General.
+Sin embargo, cuando las obras que deban ejecutarse beneficien también a otros propietarios, el servicio respectivo determinará el pago proporcional que corresponda al propietario en estas obras, en la forma que determine la Ordenanza General.
 
 Las plantaciones y obras de ornato deberán ser aprobadas y recibidas por la Dirección de Obras Municipales respectiva.
+
+La Ordenanza General establecerá los estándares mínimos de obras de urbanización exigibles fuera del terreno propio, cuando se trate de proyectos desvinculados de la vialidad existente, para los efectos de su adecuada inserción urbana, o su conectividad cuando se trate de proyectos en el área rural conforme al artículo 55.
 
 > **Nota.** NOTA : Ver el artículo 6 de la Ley 19525, publicada en el Diario Oficial de 10.11.1997.
 
@@ -1442,13 +1452,13 @@ Será competente para conocer de los delitos a que se refiere este artículo el 
 
 #### Artículo 140
 
-La Dirección de Obras Municipales podrá, excepcionalmente y sólo en las zonas urbanas, autorizar la subdivisión y enajenación de terrenos en lotes de dos hectáreas cada uno, a lo menos, frente a calles existentes, sin cumplir con las exigencias de urbanización establecidas en este párrafo, siempre que el propietario ceda gratuitamente los espacios de uso público contemplados en los Planes Reguladores o Planos Seccionales y sus Ordenanzas. Será necesario, sin embargo, que el adquirente del respectivo lote rinda garantía de urbanización por la parte del lote que adquiere, en la forma prevista en el artículo 129.
+La Dirección de Obras Municipales podrá, excepcionalmente y sólo en las zonas urbanas, autorizar la subdivisión y enajenación de terrenos en lotes de dos hectáreas cada uno, a lo menos, frente a calles existentes, sin cumplir con las exigencias de urbanización establecidas en este párrafo, siempre que el propietario ceda gratuitamente los espacios de uso público contemplados en los Planes Reguladores o Planes Seccionales y sus Ordenanzas. Será necesario, sin embargo, que el adquirente del respectivo lote rinda garantía de urbanización por la parte del lote que adquiere, en la forma prevista en el artículo 129.
 
 En el plano de subdivisión que se aprobare, se dejará expresa constancia de que cada lote resultante sólo podrá enajenarse a una persona, natural o jurídica.
 
 El Conservador de Bienes Raíces respectivo no inscribirá los títulos que no cumplan con las exigencias precedentes, en estos casos.
 
-En el evento de que, en cualquiera de dichos lotes, se efectuare posteriormente algunos de los actos señalados en el artículo 136, habiendo caducado las garantías correspondientes o sin cumplir con los requisitos que prescribe este párrafo, el propietario del respectivo lote, o su representante legal si fuere una persona jurídica, será sancionado con las penas que establece el artículo 139.-
+En el evento de que, en cualquiera de dichos lotes, se efectuare posteriormente algunos de los actos señalados en el artículo 136, habiendo caducado las garantías correspondientes o sin cumplir con los requisitos que prescribe este párrafo, el propietario del respectivo lote, o su representante legal si fuere una persona jurídica, será sancionado con las penas que establece el artículo 139.
 
 > **Nota.** NOTA: 2 Ver alcance de la Contraloría General de la República, al final de este texto.
 
@@ -1702,13 +1712,203 @@ Corresponderá al Servicio de Impuestos Internos supervigilar que las Viviendas 
 
 De la resolución de Impuestos Internos que aplique las referidas sanciones, el afectado podrá apelar ante la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo, dentro del plazo de 30 días, contados desde su notificación, la que resolverá en definitiva.
 
+## Título V
+
+De las mitigaciones y aportes al espacio público
+
+## Capítulo I
+
+Principios aplicables a las mitigaciones y aportes
+
+#### Artículo 168
+
+Serán aplicables a este Título los siguientes principios:
+
+a) Universalidad: todos los proyectos inmobiliarios públicos y privados deberán mitigar y/o aportar conforme a las reglas del presente Título.
+
+b) Proporcionalidad: las mitigaciones deberán ser equivalentes a las externalidades efectivamente generadas por el proyecto, y no se harán cargo de los déficits históricos de infraestructura. Los aportes se ajustarán a la densidad y al destino del proyecto.
+
+c) Predictibilidad: las mitigaciones y aportes se calcularán según métodos objetivos y en base a procedimientos y plazos predefinidos y estandarizados. La Administración velará porque puedan conocerse en forma oportuna las obras y aportes que se exigirán.
+
+#### Artículo 169
+
+Para los efectos de este Título se entenderá por crecimiento urbano por extensión el proceso que incorpora nuevo suelo urbanizado a consecuencia de un loteo; y por crecimiento urbano por densificación, el proceso que incrementa la intensidad de ocupación del suelo, sea como consecuencia del aumento de sus habitantes, ocupantes o edificación.
+
+Lo anterior se aplicará a los proyectos ubicados dentro de los límites urbanos y a los situados fuera de ellos y autorizados conforme lo dispuesto en esta ley.
+
+## Capítulo II
+
+De las mitigaciones directas
+
+#### Artículo 170
+
+Los proyectos que conlleven crecimiento urbano por extensión o por densificación y ocasionen impactos relevantes sobre la movilidad local deberán ser mitigados a través de la ejecución de medidas relacionadas con la gestión e infraestructura del transporte público y privado y los modos no motorizados, y sus servicios conexos, en el entendido que esto incluye soluciones como las siguientes: pistas exclusivas para buses, terminales, paraderos, semaforización, señalización, habilitación de ciclovías y mejoramientos o adecuaciones a la vialidad.
+
+Estas medidas de mitigación considerarán los impactos del proyecto sobre el sistema de movilidad local, dentro de su área de influencia, y propenderán a que, tras su puesta en operación, aquél mantenga sus estándares de servicio en un nivel semejante al existente, considerando las características de la zona en que se emplaza y resguardando la circulación segura de peatones y medios de transporte, las condiciones de accesibilidad del proyecto, su interacción con el sistema de movilidad y su inserción armónica con el entorno urbano.
+
+El área de influencia se definirá a partir de la dispersión de los flujos vehiculares o peatonales inducidos por el proyecto en la vialidad circundante, considerada desde los accesos y, como máximo, hasta la octava intersección. Para este efecto, se considerarán todas las intersecciones, salvo aquellas que incluyan calles sin salida, pasajes o calles peatonales. Excepcionalmente, el área podrá extenderse hasta la duodécima intersección tratándose de dos o más proyectos cercanos en su localización que presenten, en forma conjunta, un informe de mitigación de impacto vial (en adelante "informe de mitigación"), o de proyectos individuales que induzcan mil o más viajes en transporte privado o tres mil o más viajes totales por hora, al menos en un período del día.
+
+En el caso de los proyectos de loteos, se considerará un área de influencia comprendida desde los accesos y, como máximo, hasta la vigésima intersección en que se realiza una dispersión del flujo vehicular o peatonal, conforme lo establezca el reglamento a que se refiere el inciso segundo del artículo 171. Para este efecto, se considerarán todas las intersecciones, salvo aquellas que incluyan calles sin salida, pasajes o calles peatonales.
+
+Los flujos vehiculares y peatonales inducidos por el proyecto corresponderán al total de viajes en transporte privado y público, como también en modos no motorizados, como bicicleta y caminata, todos ellos obtenidos a partir de las tasas de generación o atracción de viajes que mejor reflejen la actividad, ubicación, período de mayor intensidad y temporalidad del proyecto, para lo cual el reglamento especificará los parámetros y mantendrá actualizado sus valores de acuerdo a lo que determine el Ministerio de Transportes y Telecomunicaciones.
+
+La estimación de los flujos vehiculares y peatonales inducidos por el proyecto, en los términos indicados anteriormente, será implementada en un sistema electrónico que establecerán para este efecto los ministerios de Vivienda y Urbanismo y de Transportes y Telecomunicaciones.
+
+#### Artículo 171
+
+Todos los proyectos que generen crecimiento urbano por extensión o por densificación deberán registrar la información que el reglamento determine en el sistema electrónico especificado en el artículo 170. A través de este sistema, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones indicará si el titular debe elaborar un informe de mitigación. En caso afirmativo, éste se presentará y tramitará, a través del mismo sistema, ante la autoridad que corresponda conforme al inciso siguiente.
+
+El informe de mitigación se elaborará y evaluará conforme al procedimiento y a la metodología que fije el reglamento expedido por decreto del Ministerio de Transportes y Telecomunicaciones, suscrito por el Ministro de Vivienda y Urbanismo, y aplicará los principios de celeridad, economía procedimental y no formalización. Atendiendo a las características y al impacto que pueda producir el proyecto en el área de influencia, el reglamento:
+
+a) Establecerá categorías diferenciadas de informes en función de los flujos vehiculares y peatonales inducidos por el proyecto, y, fundadamente, podrá reducir, para una o todas las categorías, los plazos máximos contemplados en el artículo 172.
+
+b) Fijará las condiciones para que dos o más proyectos que sean cercanos en su localización puedan realizar un informe de mitigación conjunto, a propuesta de los interesados o de la autoridad respectiva.
+
+c) Determinará en qué categorías los informes podrán ser confeccionados por los proyectistas, y deberán ser presentados, a través del sistema electrónico, ante la unidad municipal encargada de la función de tránsito y transporte públicos (en adelante, Dirección de Tránsito y Transporte Públicos Municipal), a través del mismo sistema, ante la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, y elaborados por un consultor inscrito en el registro que, para estos efectos, llevará la Subsecretaría de Transportes.
+
+d) Definirá los proyectos en los que no se requerirá elaborar informes de mitigación por no producir alteraciones significativas en el estándar de servicio del sistema de movilidad local.
+
+e) Detallará el contenido del informe de mitigación del proyecto, que deberá incluir sus características y área de influencia y la justificación de las medidas de mitigación propuestas, representadas gráficamente, todo ello de conformidad a la metodología definida por el reglamento.
+
+Las medidas propuestas en el informe, en conjunto con la ejecución de las consideradas en el plan de inversiones en infraestructura de movilidad y espacio público, deberán mitigar los efectos del proyecto sobre el sistema de movilidad dentro del área de influencia para que sus estándares de servicio tengan un nivel semejante al existente, de acuerdo a las características de la zona en que se inserta. El proyecto no podrá recepcionarse si no se han materializado las obras del plan de inversiones en infraestructura de movilidad y espacio público cuya ejecución hubiere previsto el informe.
+
+#### Artículo 172
+
+El secretario regional ministerial de Transportes y Telecomunicaciones o el director de Tránsito y Transporte Públicos Municipal, según corresponda, tendrá un plazo máximo de sesenta días para aprobar, observar o rechazar el informe de mitigación mediante resolución fundada, previa consulta a los demás órganos competentes, incluyéndose, en el caso de las municipalidades, las Direcciones de Obras Municipales, los cuales deberán remitir sus respuestas en un plazo máximo de treinta días, contado desde el envío del respectivo informe. Vencido este plazo sin que se hayan evacuado dichas respuestas, la autoridad correspondiente estará facultada para pronunciarse directamente sobre la solicitud.
+
+Si el informe fuere observado, el titular del proyecto tendrá un plazo máximo de treinta días para presentar el informe corregido, debiendo el secretario regional ministerial de Transportes y Telecomunicaciones o el director de Tránsito y Transporte Públicos Municipal, según proceda, pronunciarse en un plazo máximo de treinta días, previa repetición de la consulta que exige el inciso anterior. En este caso, los organismos tendrán un plazo máximo de quince días para pronunciarse, contado desde el envío del respectivo informe corregido. Vencido este plazo sin que se hubieren evacuado dichas respuestas, la autoridad correspondiente podrá pronunciarse directamente sobre la solicitud.
+
+La autoridad respectiva, de oficio o a petición del interesado, en este último caso cuando el plazo sea establecido en su favor, podrá prorrogar fundadamente los plazos señalados en los incisos anteriores, por igual período y sólo por una vez, siempre que la complejidad del informe lo justifique.
+
+Vencidos los plazos o las prórrogas sin que hubiere pronunciamiento por parte del secretario regional ministerial de Transportes y Telecomunicaciones o del director de Tránsito y Transporte Públicos Municipal, el informe de mitigación se entenderá aprobado, lo que deberá certificarse a petición del interesado, sin más trámite.
+
+La resolución que apruebe el informe de mitigación deberá consignar las características del proyecto, las medidas de mitigación aprobadas, la posibilidad de considerar etapas con mitigaciones parciales y la de garantizar las obras a ejecutar. En contra de la resolución que apruebe o rechace el informe de mitigación se podrá deducir recurso de reposición de conformidad a lo contemplado en la ley N° 19.880, que Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado. Tratándose de los directores de Tránsito y Transporte Públicos Municipal podrá, además, reclamarse de la legalidad de lo obrado ante la Secretaría Regional Ministerial de Transportes y Telecomunicaciones respectiva, debiendo cumplir para ello las normas sobre plazos y tramitación contempladas para el recurso jerárquico en la ley N° 19.880.
+
+Al solicitar un permiso de urbanización o edificación o las autorizaciones correspondientes, deberá acompañarse el comprobante de ingreso del informe de mitigación o el certificado emitido por el sistema que acredite que el proyecto no requiere de dicho informe. Cuando éste deba elaborarse, la resolución que lo apruebe será requisito para el otorgamiento del correspondiente permiso o autorización y tendrá una vigencia de tres años desde la fecha de su notificación, debiendo ser revisada si el proyecto experimenta modificaciones, para verificar la suficiencia de las medidas. Una vez obtenido el permiso respectivo, la resolución extenderá su vigencia hasta completar, como máximo, un total de diez años para efectos de solicitar la recepción definitiva de las obras. Si vencido ese plazo no se pide la recepción, o si habiendo sido solicitada ésta es rechazada, el titular del proyecto deberá presentar un nuevo informe de mitigación y cumplir las medidas que se dispongan al aprobarlo para obtener la recepción definitiva. Lo anterior, no afectará las etapas con mitigaciones parciales ya ejecutadas y recepcionadas, cuando la resolución aprobatoria del informe las hubiere considerado.
+
+#### Artículo 173
+
+Las Direcciones de Obras Municipales no podrán cursar la recepción definitiva del proyecto sin que el interesado acredite la ejecución de las medidas contenidas en la resolución que apruebe el informe de mitigación o el otorgamiento de una caución que la garantice cuando la resolución lo autorice. En caso que dicha resolución haya considerado etapas con mitigaciones parciales, la recepción de cada etapa requerirá de la ejecución conforme de sus respectivas mitigaciones o del otorgamiento de la caución que la garantice si así se autorizó. El certificado de recepción definitiva deberá consignar las medidas de mitigación que hubieren sido garantizadas.
+
+El interesado en caucionar alguna medida deberá presentar los proyectos y presupuestos aprobados por los organismos competentes, pudiendo la Dirección incrementar, por resolución fundada, el valor a garantizar hasta en un 50% considerando imprevistos y costos administrativos de contratación e inspección, todo ello en conformidad a lo que disponga la Ordenanza General de esta ley.
+
+Las garantías caucionarán la correcta ejecución de las medidas de mitigación dentro del año siguiente a la recepción definitiva, pudiendo renovarse este plazo una sola vez, por igual periodo, y podrán consistir, indistintamente, en una boleta bancaria o una póliza de seguro cuya vigencia exceda en 60 días al plazo para la ejecución o al de la prórroga si la hubiere. Las instituciones bancarias o aseguradoras que hayan emitido el respectivo documento de garantía pagarán los valores garantizados con el solo mérito del certificado que otorgue el Director de Obras Municipales señalando que las medidas no se ejecutaron dentro de este plazo, debiendo dichos valores destinarse a la ejecución de las medidas de mitigación garantizadas en la forma y plazos que establezca la Ordenanza General de esta ley.
+
+#### Artículo 174
+
+Los informes de mitigación que se presenten y las resoluciones finales que recaigan sobre ellos, tramitados a través del sistema electrónico a que se refiere el artículo 170, se encontrarán a disposición permanente del público en los sitios electrónicos del Ministerio de Transportes y Telecomunicaciones y de los respectivos municipios, según corresponda, conforme dispone el artículo 7 contenido en el artículo primero de la ley N° 20.285, de Transparencia de la función pública y de acceso a la información de la Administración del Estado. Las secretarías regionales ministeriales de Transportes y Telecomunicaciones y las direcciones de Tránsito y Transporte Públicos Municipal, según sea el caso, serán las encargadas de mantener dicha información actualizada.
+
+## Capítulo III
+
+De los aportes al espacio público
+
+#### Artículo 175
+
+Los proyectos que conlleven crecimiento urbano por densificación deberán dar cumplimiento a lo dispuesto en el artículo 70, directamente, o a través de un aporte equivalente al avalúo fiscal del porcentaje de terreno a ceder a la municipalidad respectiva, para las finalidades y en la forma que se establecen en los artículos siguientes. Los aportes se ajustarán a la densidad y al destino del proyecto, en la forma que disponga la Ordenanza General.
+
+#### Artículo 176
+
+Cada municipio elaborará un plan comunal de inversiones en infraestructura de movilidad y espacio público, que contendrá una cartera de proyectos, obras y medidas incluidas en los instrumentos de planificación territorial existentes o asociadas a éstos, debidamente priorizadas, para mejorar sus condiciones de conectividad, accesibilidad, operación y movilidad, así como la calidad de sus espacios públicos y la cohesión social y sustentabilidad urbanas. Para estos efectos, el municipio contará con la asistencia técnica de las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones, y del Programa de Vialidad y Transporte Urbano del Ministerio de Transportes y Telecomunicaciones. El plan deberá someterse a la aprobación del concejo municipal respectivo. Una vez aprobado, será promulgado por el alcalde, quien remitirá copia al gobierno regional.
+
+Las municipalidades podrán solicitar al gobierno regional la elaboración de estos planes o también incluirlos en la formulación o actualización del plan comunal de desarrollo a que se refiere el artículo 6 de la ley N° 18.695, orgánica constitucional de Municipalidades.
+
+#### Artículo 177
+
+En las áreas metropolitanas o que estén incluidas en un plan regulador metropolitano o intercomunal las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones, con consulta a las municipalidades respectivas, elaborarán un proyecto de plan intercomunal de inversiones en infraestructura de movilidad y espacio público, análogo al previsto en el artículo precedente, pero que contendrá proyectos, obras y medidas incluidas en los instrumentos de planificación de nivel intercomunal o asociadas a éstos. El intendente someterá este proyecto a la aprobación de los alcaldes de las comunas incluidas en el área correspondiente. Obtenida la conformidad de la mayoría absoluta de aquellos, el plan será presentado al consejo regional y promulgado por el intendente luego de su aprobación, remitiendo copia a las municipalidades respectivas.
+
+#### Artículo 178
+
+Los planes comunales e intercomunales de inversiones en infraestructura de movilidad y espacio público deberán actualizarse periódicamente en un plazo no mayor a diez años, y cada vez que se apruebe un nuevo instrumento de planificación comunal o intercomunal, siguiendo el mismo procedimiento señalado en los artículos precedentes.
+
+#### Artículo 179
+
+Los aportes deberán pagarse en dinero, en forma previa a la recepción municipal del proyecto. Tratándose de cambios de destino o modificaciones o ampliaciones del giro de la patente comercial de una propiedad, los aportes deberán pagarse antes del otorgamiento de la autorización respectiva.
+
+Alternativamente, el interesado podrá solicitar que el aporte se materialice a través de la ejecución de estudios de prefactibilidad, proyectos de ingeniería y/o de arquitectura, medidas operacionales para el transporte público o privado y los modos no motorizados, obras de infraestructura pública u otras medidas, con tal que lo propuesto esté incluido en el plan comunal o intercomunal de inversiones en infraestructura de movilidad y espacio público. También podrán proponerse estudios, proyectos, obras y medidas que no estén considerados en estos planes, pero que sean coherentes con ellos, siempre que no correspondan a mitigaciones directas que deba ejecutar el proyecto. En tal caso, el alcalde deberá someterlos a la aprobación del concejo municipal, y requerirá previamente de un informe favorable de las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones cuando se trate de estudios, proyectos, obras y medidas de nivel intercomunal.
+
+La solicitud deberá presentarse a través del sistema electrónico especificado en el artículo 170, se podrá tramitar en conjunto con el informe de mitigación, e incluirá un presupuesto detallado del costo de ejecución, en los términos que establezca el reglamento a que se refiere el inciso segundo del artículo 171. La municipalidad deberá aprobar, rechazar u observar la solicitud, previa consulta a los demás órganos competentes, aplicándose los mismos plazos que señala el artículo 172, incluidas las posibles prórrogas. Tratándose de estudios, proyectos, obras y medidas incluidos en los planes intercomunales, la aprobación requerirá del informe favorable de las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones. Una vez vencidos los plazos o sus prórrogas sin pronunciamiento municipal, regirá lo contemplado en el artículo 64 de la ley N° 19.880. Se aplicará a las solicitudes y a las resoluciones finales que recaigan sobre ellas lo dispuesto en el artículo 174 de esta ley, correspondiendo a la municipalidad mantener esta información actualizada.
+
+Aprobada la solicitud y su presupuesto, la municipalidad y el interesado no podrán reclamar posteriormente un aporte adicional o un reembolso del aporte alegando que la obra tuvo un costo inferior o superior al valor que se debía pagar.
+
+Los estudios, proyectos, obras y medidas que se materialicen de acuerdo a los tres incisos anteriores deberán ejecutarse en forma previa a la recepción municipal del proyecto a que corresponden los aportes pertinentes, aplicándoseles lo dispuesto en el artículo 173 de esta ley.
+
+#### Artículo 180
+
+Los aportes serán recaudados por el municipio respectivo, que deberá mantenerlos en una cuenta especial y separada del resto del presupuesto municipal.
+
+Los aportes estarán destinados única y exclusivamente a los siguientes fines:
+
+a) Ejecución de obras identificadas en los planes comunales e intercomunales de inversiones en infraestructura de movilidad y espacio público, incluida la construcción de las nuevas áreas verdes o espacios públicos allí indicados.
+
+b) Pago de expropiaciones que sean necesarias para la materialización de dichas obras.
+
+c) Actualización de los planes de inversiones en infraestructura de movilidad y espacio público, desarrollo de los instrumentos de planificación que sean necesarios para su ejecución y elaboración de los proyectos de las obras.
+
+d) Gastos de administración e inspección, incluidos aquellos en personal, hasta por el 10% de los fondos recaudados.
+
+Al menos el 70% de los aportes percibidos, deducidos los gastos de administración, deberán ser invertidos en movilidad. La municipalidad determinará la parte del remanente que será destinado a la inversión en otros espacios públicos.
+
+En las comunas en que exista un plan intercomunal de inversiones en infraestructura de movilidad y espacio público, al menos el 40% de los aportes recaudados anualmente deberá destinarse a la ejecución de obras incluidas en dicho plan intercomunal. Para estos efectos, la municipalidad deberá ejecutar esas obras directamente o transferir los recursos a alguna de las entidades competentes para ejecutarlas mediante un convenio mandato. En este último caso, la entidad receptora sólo podrá emplear los recursos en los fines señalados en este artículo.
+
+Por resolución de la secretaría regional ministerial de Transportes y Telecomunicaciones, y previa solicitud de la municipalidad interesada, el porcentaje establecido en el inciso precedente podrá ser modificado para la ejecución de obras determinadas, considerando la priorización contemplada en el plan.
+
+#### Artículo 181
+
+En sus rendiciones de cuentas anuales, las municipalidades darán una explicación circunstanciada del uso, situación y movimiento de todos y cada uno de los aportes recaudados, y deberán publicarse tales rendiciones conforme dispone el artículo 7 contenido en el artículo primero de la ley N° 20.285.
+
+Se incluirán dentro de esta rendición las medidas de mitigación a que se refiere el artículo 170, y los estudios, proyectos, obras y medidas que regula el artículo 179, recepcionadas y garantizadas, y las incluidas en los permisos aprobados, consignando las garantías a que alude el artículo 173 que obren en poder del municipio y la situación de los fondos obtenidos por el cobro de garantías.
+
+#### Artículo 182
+
+Tratándose de proyectos que incrementen el coeficiente de constructibilidad a través de beneficios urbanísticos conferidos por esta ley, su Ordenanza General o el instrumento de planificación territorial, el avalúo fiscal del terreno sobre el cual se calculará el porcentaje a ceder se aumentará en la misma proporción del beneficio obtenido.
+
+## Capítulo IV
+
+De la mitigación y los incentivos en los instrumentos de planificación territorial
+
+#### Artículo 183
+
+Cuando los planes reguladores intercomunales establezcan nuevas áreas urbanas o de extensión urbana podrán determinar condiciones adicionales de urbanización y equipamiento para el desarrollo de los proyectos que se emplacen en ellas, incluyendo la ejecución de obras de urbanización fuera del terreno en que se ubica el proyecto, la ejecución de obras o medidas en el sistema de movilidad urbana o que mejoren los espacios públicos, la inclusión de tipos de vivienda o usos de suelo en sus proyectos, la materialización o mejoramiento de equipamientos públicos u otras medidas que promuevan la integración social, todo lo cual se determinará de acuerdo con un estudio de impacto urbano y las reglas que establezca la Ordenanza General.
+
+El cumplimiento de las condiciones deberá garantizarse mediante cauciones que se ajusten a lo dispuesto en el artículo 173 y su incumplimiento acarreará, además de su cobro, la caducidad de las autorizaciones otorgadas y no ejecutadas.
+
+En estos casos deberá considerarse el área de influencia total del proyecto para efectos de las mitigaciones directas que regula el Capítulo II de este Título, incorporando, a lo menos, la red de vías estructurantes existentes o proyectadas con las que se conectarán las nuevas áreas y el territorio o sector geográfico con el cual interactuarán funcionalmente.
+
+#### Artículo 184
+
+Los planes reguladores comunales podrán otorgar incentivos en las normas urbanísticas aplicadas en todo o parte de su territorio condicionados al desarrollo de espacios públicos o al mejoramiento de los ya existentes, a la materialización, reparación o mejoramiento de equipamientos públicos, a la instalación o incorporación de obras de arte en el espacio público o al cumplimiento de otras condiciones que induzcan o colaboren en el mejoramiento de los niveles de integración social urbana.
+
+El cumplimiento de las condiciones anteriores será requisito para la recepción de los proyectos, aplicándoseles lo dispuesto en el artículo 173.
+
+La aprobación de un plan con estos incentivos dejará sin aplicación en el territorio planificado los artículos 63, 107, 108 y 109 de esta ley.
+
+## Capítulo V
+
+De los aportes urbanos reembolsables
+
+#### Artículo 185
+
+Cuando un interesado proponga ejecutar un estudio, proyecto, obra o medida del plan de inversiones en infraestructura de movilidad y espacio público, conforme admite al artículo 179, y el costo aprobado sea mayor al aporte que le corresponda enterar, podrá acoger dicho excedente a la modalidad de aportes reembolsables.
+
+#### Artículo 186
+
+Para los efectos señalados en el artículo anterior, el interesado firmará un convenio con la municipalidad respectiva. En dicho convenio se establecerá:
+
+a) Los estudios, proyectos, obras o medidas a ejecutar y su costo.
+
+b) El valor a reembolsar y su plazo de devolución por parte de la municipalidad, que no podrá superar los quince años.
+
+c) La forma en que la municipalidad reembolsará dichos aportes.
+
+Las devoluciones se entregarán a la persona que se designe en el respectivo convenio, deberán ser en dinero o pagarés reajustables y equivaldrán al valor inicial reajustado.
+
 TITULO FINAL
 
-#### Artículo 168°
+#### Artículo 187°
 
 El Ministerio de la Vivienda y Urbanismo fijará, por decreto supremo, el nuevo texto de la Ordenanza General de esta Ley, que derogue y reemplace totalmente a la anterior.
 
-#### Artículo 169°
+#### Artículo 188°
 
 Derógase el Decreto con Fuerza de Ley N° 224, de 1953, cuyo texto definitivo fue fijado por el decreto supremo N° 880, de 18 de Abril de 1963, de Obras Públicas, publicado en el Diario Oficial de 16 de Mayo del mismo año, en la parte que fija, a su vez, el texto definitivo de la Ley General de Construcciones y Urbanización.
 
@@ -1716,9 +1916,15 @@ Subsistirán las disposiciones del cuerpo legal que se deroga en la parte relati
 
 Deróganse, asimismo, los artículos 22° y 23° de la Ley N° 17.235 y las disposiciones de otras leyes o cuerpos legales que fueren contrarias a las de la presente Ley General de Urbanismo y Construcciones.
 
-#### Artículo 170
+#### Artículo 189
 
 Todas las funciones que este cuerpo legal entrega a las Secretarías Regionales del Ministerio de Vivienda y Urbanismo, deberán ejercerse de acuerdo a lo que exprese el Decreto Ley de Reestructuración de dicho Ministerio.
+
+#### Artículo 190
+
+Los plazos de días contenidos en esta ley, en que no se indique expresamente que se trata de plazos de días hábiles, son de días corridos.
+
+Con todo, siempre que el último día de un plazo contemplado en esta ley sea inhábil se entenderá prorrogado al primer día hábil siguiente.
 
 ARTICULOS TRANSITORIOS
 

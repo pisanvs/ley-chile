@@ -206,6 +206,8 @@ Los gobiernos regionales tendrán su sede en la ciudad capital de la respectiva 
 
 Funciones y Atribuciones del Gobierno Regional
 
+.
+
 #### Artículo 16
 
 Serán funciones generales del gobierno regional:
@@ -228,13 +230,13 @@ g) Participar en acciones de cooperación internacional en la región, dentro de
 
 h) Ejercer las competencias que le sean transferidas de conformidad con lo dispuesto en el artículo 67 de esta ley;
 
-i) Mantener relación permanente con el gobierno nacional y sus distintos organismos, a fin de armonizar el ejercicio de sus respectivas funciones, y
+i) Mantener relación permanente con el gobierno nacional y sus distintos organismos, a fin de armonizar el ejercicio de sus respectivas funciones;
 
-j) Construir, reponer, conservar y administrar en las áreas urbanas las obras de
+j) Construir, reponer, conservar y administrar en las áreas urbanas las obras de pavimentación de aceras y calzadas, con cargo a los fondos que al efecto le asigne la Ley de Presupuestos.
 
-pavimentación de aceras y calzadas, con cargo a los fondos que al efecto le asigne la Ley de Presupuestos.
+Para el cumplimiento de esta función, el gobierno regional podrá celebrar convenios con las municipalidades y con otros organismos del Estado, a fin de contar con el respaldo técnico necesario, y
 
-Para el cumplimiento de esta función, el gobierno regional podrá celebrar convenios con las municipalidades y con otros organismos del Estado, a fin de contar con el respaldo técnico necesario.
+k) Elaborar y aprobar los planes de inversiones en infraestructura de movilidad y espacio público asociados al o a los planes reguladores metropolitanos o intercomunales existentes en la región, con consulta a las respectivas municipalidades.
 
 #### Artículo 17
 
@@ -294,7 +296,7 @@ d) Disponer, supervisar y fiscalizar las obras que se ejecuten con cargo a su pr
 
 e) Aplicar las políticas definidas en el marco de la estrategia regional de desarrollo;
 
-f) Aprobar los planes regionales de desarrollo urbano, los planes reguladores metropolitanos e intercomunales y sus respectivos planos de detalle, los planes reguladores comunales y los planes seccionales, conforme a lo establecido en los párrafos segundo y tercero de la letra c) del artículo 36;
+f) Aprobar los planes regionales de desarrollo urbano, los planes reguladores metropolitanos e intercomunales y sus respectivos planos de detalle, los planes reguladores comunales, los planes seccionales y los planes de inversiones en infraestructura de movilidad y espacio público, conforme a lo establecido en los párrafos segundo y tercero de la letra c) del artículo 36;
 
 g) Formular y priorizar proyectos de infraestructura social básica y evaluar programas, cuando corresponda;
 
@@ -366,7 +368,7 @@ n) Informar al consejo regional oportunamente respecto de las proposiciones de p
 
 ñ) Dictar las resoluciones e instrucciones que estime necesarias para el ejercicio de sus atribuciones;
 
-o) Promulgar, previo acuerdo del consejo regional, los planes regionales de desarrollo urbano, los planes reguladores metropolitanos, intercomunales, comunales y seccionales y los planos de detalle de planes reguladores intercomunales, conforme a las normas de la Ley General de Urbanismo y Construcciones;
+o) Promulgar, previo acuerdo del consejo regional, los planes regionales de desarrollo urbano, los planes reguladores metropolitanos, intercomunales, comunales y seccionales , los planos de detalle de planes reguladores intercomunales y los planes de inversiones en infraestructura de movilidad y espacio público, conforme a las normas de la Ley General de Urbanismo y Construcciones;
 
 p) Responder, dentro del plazo de veinte días hábiles y por escrito, los actos de fiscalización que realice el consejo en su conjunto y las informaciones solicitadas por los consejeros en forma individual;
 
@@ -588,6 +590,8 @@ i) Oficializar la comunicación acerca de la adopción de acuerdos del consejo s
 
 4 bis) Planos de Detalle.
 
+4 ter) Planes de Inversiones en Infraestructura de Movilidad y Espacio Público.
+
 5) Convenios de Programación.
 
 6) Convenios Territoriales.
@@ -669,6 +673,8 @@ Aprobar los planes reguladores comunales y los planes seccionales de comunas que
 No obstante lo anterior, le corresponderá pronunciarse sobre los planes reguladores comunales y los planes seccionales de comunas que, formando parte de un territorio normado por un plan regulador metropolitano o intercomunal, hayan sido objeto de un informe técnico desfavorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo, sólo respecto de aquellos aspectos que hayan sido objetados en dicho informe.
 
 El consejo regional deberá pronunciarse dentro del plazo de noventa días, contado desde su recepción, cuando se trate de planes regionales de desarrollo urbano, planes reguladores metropolitanos o intercomunales. Tratándose de planos de detalle de planes reguladores intercomunales, planes reguladores comunales y planes seccionales, el pronunciamiento deberá emitirse dentro del plazo de sesenta días. Transcurridos que sean dichos plazos, se entenderá aprobado el respectivo instrumento de planificación;
+
+c bis) Aprobar los planes de inversiones en infraestructura de movilidad y espacio público asociados al o a los planes reguladores metropolitanos o intercomunales de la región, los que serán elaborados por las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones, previa consulta a las municipalidades respectivas, conforme a lo dispuesto en la Ley General de Urbanismo y Construcciones. Antes de la aprobación del consejo, se requerirá la conformidad de la mayoría absoluta de los alcaldes de las municipalidades correspondientes. El consejo regional deberá pronunciarse dentro del plazo de sesenta días, contado desde su recepción, transcurrido el cual se entenderá aprobado;
 
 d) Aprobar, modificar o sustituir el plan de desarrollo de la región y el proyecto de presupuesto regional, así como sus respectivas modificaciones, sobre la base de la proposición del intendente;
 
