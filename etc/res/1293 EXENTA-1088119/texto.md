@@ -304,7 +304,7 @@ Adicionalmente se podrán otorgar anticipos contra avance de obras hasta complet
 
 La boleta de garantía entregada para caucionar el primer anticipo sin avance de obras, podrá ser devuelta por el Serviu una vez que se haya acreditado mediante Certificado del Departamento Técnico que las obras se encuentran completamente terminadas conforme al proyecto aprobado.
 
-Para el pago de los anticipos, no será necesario que el terreno en el que se emplazará la vivienda esté afecto a la prohibición de enajenar a favor del Serviu, a que se refiere el artículo 60 del DS Nº 49 (V. y U.), de 2011.
+Para el pago de los anticipos, no será necesario que el terreno en el que se emplazará la vivienda esté afecto a la prohibición de enajenar a favor del Serviu, a que se refiere el artículo 69, letra c) del DS Nº 49 (V. y U.), de 2011.
 
 La boleta de buena ejecución y buen comportamiento de las obras deberá ser equivalente al 2,5% del monto total del contrato, tener una vigencia de 365 días a partir de la recepción definitiva de obras por parte de la Dirección de Obras Municipales y caucionar además la prestación del servicio de post venta a que se refiere el inciso octavo del artículo 29 del DS Nº 49 (V. y U.), de 2011.
 
