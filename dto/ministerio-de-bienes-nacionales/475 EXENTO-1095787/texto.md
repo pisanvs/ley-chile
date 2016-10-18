@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "PACIFIC UNO SPA"
+
+Mediante decreto exento Nº E-475, de 30 de septiembre de 2016, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa, a "Pacific Uno SpA", RUT Nº 76.349.151-K, el inmueble fiscal compuesto por los Lotes A, B y C, ubicados aprox. a 17 Kms. al noreste de María Elena, del Sector Crucero, comuna de María Elena, provincia de Tocopilla, Región de Antofagasta; enrolados en el Servicio de Impuestos Internos con los N os 6700-52, 6700-53 y 6700-54, respectivamente, amparados por inscripción global que rola a fojas 6 Nº 6, del Registro de Propiedad del Conservador de Bienes Raíces de María Elena, correspondiente al año 1996, de una superficie aproximada de 155,31 ha, singularizado en el Plano Nº 02302-4.434-C.R. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 1.494,00. La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Óscar Manquilef Parra, Abogado, Jefe División Jurídica (S).
