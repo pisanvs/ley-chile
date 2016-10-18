@@ -414,11 +414,9 @@ Las Juntas Electorales a que se refiere el Título XII de la presente ley, desig
 
 #### Artículo 40
 
-No podrán ser vocales de Mesas las personas que sean candidatos en la elección de que se trate, sus cónyuges y sus parientes consanguíneos o afines en toda la línea recta y en la colateral hasta el segundo grado inclusive; las personas que desempeñen cargos de representación popular; las personas a cargo de los trabajos electorales que señala el artículo 7° de esta ley; los Ministros de Estado, Subsecretarios, Intendentes, Gobernadores y Consejeros Regionales; los magistrados de los Tribunales Superiores de Justicia, los jueces que forman parte del Poder Judicial y los de Policía Local; los fiscales del Ministerio Público; los Jefes Superiores de Servicio y Secretarios Regionales Ministeriales; el Contralor General de la República ni los miembros de las Fuerzas Armadas y de Orden y Seguridad Pública en servicio activo. Tampoco podrán serlo los extranjeros, los no videntes, los analfabetos y aquellos que hayan sufrido condena por delitos contemplados en cualquiera de las leyes que regulan el Sistema Electoral Público.
+No podrán ser vocales de Mesas las personas que sean candidatos en la elección de que se trate, sus cónyuges y sus parientes consanguíneos o afines en toda la línea recta y en la colateral hasta el segundo grado inclusive; las personas que desempeñen cargos de representación popular; las personas a cargo de los trabajos electorales que señala el artículo 7° de esta ley; los Ministros de Estado, Subsecretarios, Intendentes, Gobernadores y Consejeros Regionales; los embajadores y cónsules de Chile; los magistrados de los Tribunales Superiores de Justicia, los jueces que forman parte del Poder Judicial y los de Policía Local; los fiscales del Ministerio Público; los Jefes Superiores de Servicio y Secretarios Regionales Ministeriales; el Contralor General de la República ni los miembros de las Fuerzas Armadas y de Orden y Seguridad Pública en servicio activo. Tampoco podrán serlo los extranjeros, los no videntes, los analfabetos y aquellos que hayan sufrido condena por delitos contemplados en cualquiera de las leyes que regulan el Sistema Electoral Público.
 
 Si por las causales anteriores no fuere posible integrar la Mesa, se constituirá con ciudadanos que figuren en los Padrones de Mesas correspondientes a mesas contiguas.
-
-> **Nota.** El artículo 2º de la LEY 19823, dispone que la modificación introducida a esta norma por el Nº 1 de su artículo 1º, rige en todas las Regiones del país, sin excepción, a contar de la fecha de su publicación.
 
 #### Artículo 41
 
@@ -1080,7 +1078,7 @@ Las reclamaciones derivadas de los hechos anteriores sólo procederán si los mi
 
 Cualquier elector podrá solicitar la rectificación de escrutinios cuando, en su opinión, se haya incurrido en omisiones, calificación errada de los votos válidos, marcados, objetados, nulos o en blanco por parte de la Mesa, errores en las actas de escrutinios, en sus sumas y totales, diferencias entre las actas o entre ellas y los certificados de escrutinios entregados a los apoderados, resultados mal imputados por los Colegios Escrutadores o en errores aritméticos.
 
-Las solicitudes de rectificaciones de escrutinios y las reclamaciones de nulidad de elecciones o plebiscitos se presentarán ante el Tribunal Electoral Regional correspondiente al territorio en que se hubieren cometido los hechos que sirvan de fundamento al reclamo, dentro de los seis días siguientes a la fecha de la elección o plebiscito, debiendo acompañarse en el mismo acto los antecedentes en que se funde. Si el Servicio Electoral no hubiere dado a conocer los resultados de algún Colegio Escrutador antes del sexto día siguiente de la elección, el plazo para efectuar las reclamaciones y rectificaciones que tengan relación con las Mesas de dicho Colegio Escrutador se entenderá prorrogado hasta el día siguiente de la fecha en que el Servicio Electoral entregue la información faltante.
+Las solicitudes de rectificaciones de escrutinios y las reclamaciones de nulidad de elecciones o plebiscitos se presentarán ante el Tribunal Electoral Regional correspondiente al territorio en que se hubieren cometido los hechos que sirvan de fundamento al reclamo, dentro de los seis días siguientes a la fecha de la elección o plebiscito, debiendo acompañarse en el mismo acto los antecedentes en que se funde. Si el Servicio Electoral no hubiere dado a conocer los resultados de algún Colegio Escrutador antes del sexto día siguiente de la elección, el plazo para efectuar las reclamaciones y rectificaciones que tengan relación con las Mesas de dicho Colegio Escrutador se entenderá prorrogado hasta el día siguiente de la fecha en que el Servicio Electoral entregue la información faltante. Las solicitudes de rectificaciones de escrutinios y las reclamaciones de nulidad de elecciones o plebiscitos que formulen los electores que se encuentren en el territorio nacional respecto de actos electorales celebrados en el extranjero se interpondrán ante el Tribunal Calificador de Elecciones dentro del plazo señalado en el artículo 213 de esta ley.
 
 No se requerirá patrocinio de abogado para deducir solicitud de rectificación y reclamos de nulidad.
 
@@ -1602,6 +1600,8 @@ Podrá designarse también un Apoderado General titular y uno suplente por cada 
 
 Servirá de título suficiente para los apoderados generales de local, titular o suplente, así como para los apoderados ante las Juntas Electorales, Colegios Escrutadores, Tribunales Electorales y Tribunal Calificador de Elecciones, el nombramiento mediante un poder autorizado ante notario que se les otorgue por los encargados electorales a que se refiere el artículo 7°. En el caso de los apoderados de Mesa y los apoderados ante la Oficina Electoral del local de votación, servirá de título suficiente un poder simple otorgado por un apoderado general, sea titular o suplente, que esté presente en el local de votación.
 
+En el caso de las votaciones que se realicen en el extranjero, en conformidad a lo dispuesto en el título XIII, servirá de título suficiente para los apoderados generales de local, titular o suplente y para los apoderados ante las juntas electorales, un poder simple otorgado por los encargados electorales a que se refiere el artículo 7. Asimismo, servirá de título suficiente para los apoderados de mesa y los apoderados ante la oficina electoral del local de votación, un poder simple otorgado por un apoderado general, sea titular o suplente, que se encuentre presente en el local de votación.
+
 En el nombramiento deberán indicarse los nombres y apellidos y la cédula nacional de identidad del apoderado, el candidato o partido que representa, y la Junta, Mesa, Local, Colegio, Oficina Electoral o Tribunal ante el cual se acredita. La omisión de cualquiera de esos antecedentes invalidará el nombramiento.
 
 En los plebiscitos, los nombramientos de apoderados que corresponden a los encargados electorales del artículo 7°, serán efectuados por el Presidente y el Secretario del Consejo Regional del partido o por el parlamentario independiente, en su caso.
@@ -1971,6 +1971,242 @@ De todas las actuaciones de la Junta se levantarán actas que se estamparán en 
 El Protocolo Electoral será público y se sujetará a las reglas que rigen los registros notariales. Copia de él deberá remitirse al Servicio Electoral para su publicación en su sitio web.
 
 El Protocolo se mantendrá bajo la custodia del Secretario de la Junta Electoral.
+
+## Título XIII
+
+De las votaciones en el extranjero
+
+### Párrafo 1°
+
+Disposiciones generales
+
+#### Artículo 190
+
+Este título regula el ejercicio del derecho a sufragio de los chilenos que se encuentren en el extranjero y formen parte del padrón de chilenos en el extranjero para las elecciones primarias presidenciales, las elecciones de Presidente de la República y los plebiscitos nacionales.
+
+#### Artículo 191
+
+Las disposiciones contenidas en los títulos I, II, III y IV se aplicarán en forma supletoria a las de este título, en todo lo que no lo contravengan.
+
+#### Artículo 192
+
+Para los efectos de este título, se entenderá por consulado las oficinas consulares, incluyendo las secciones consulares de una misión diplomática, a cargo de un funcionario de la planta del Servicio Exterior del Ministerio de Relaciones Exteriores designado para desempeñar funciones consulares.
+
+### Párrafo 2°
+
+De los actos preparatorios en el extranjero
+
+#### Artículo 193
+
+La emisión del sufragio en el extranjero se hará mediante cédulas oficiales de acuerdo a lo establecido en el párrafo 5º del título I.
+
+#### Artículo 194
+
+El Servicio Electoral y los consulados deberán informar al electorado en el extranjero sobre las características de las cédulas electorales y la forma de ejercer el derecho a sufragio, a través del envío de correos electrónicos informativos, de afiches impresos en las dependencias del consulado, de la página web del Servicio Electoral o mediante cualquier otro medio idóneo a disposición de los electores, con el objetivo de asegurar el correcto e informado ejercicio del derecho a sufragio en el extranjero.
+
+#### Artículo 195
+
+Los embajadores, cónsules y todos los funcionarios de las plantas del Servicio Exterior, secretaría y administración general, agregados y de los servicios dependientes del Ministerio de Relaciones Exteriores que presten servicios en el exterior, así como los empleados locales de las embajadas y consulados de Chile no podrán durante el período de campaña electoral realizar, ejecutar o participar en eventos o manifestaciones públicas que tengan por finalidad la promoción o rechazo de alguna nominación, candidatura o posición plebiscitaria, por ningún medio, sea éste escrito, audiovisual, electrónico o a través de imágenes. Lo anterior, salvo la difusión de la información electoral que disponga el Servicio Electoral mediante las instrucciones que imparta.
+
+Las infracciones al este artículo se sancionarán como falta grave al principio de probidad administrativa y serán conocidas y resueltas por la Contraloría General de la República.
+
+#### Artículo 196
+
+Las mesas receptoras de sufragios en el extranjero tienen por finalidad recibir los votos que emitan los electores registrados en el padrón de chilenos en el extranjero, en los procesos electorales y plebiscitarios que se realicen fuera de Chile, y cumplir las demás funciones que señala esta ley.
+
+Cada mesa receptora de sufragios en el extranjero se compondrá de tres vocales elegidos entre los inscritos en el padrón de chilenos en el extranjero y en el respectivo padrón de mesa.
+
+#### Artículo 197
+
+Las juntas electorales en el extranjero, a las que se refiere el párrafo 3° de este título, designarán los nombres de los vocales de mesas receptoras de sufragios en el extranjero, según lo dispuesto en los artículos 39 y siguientes, con las salvedades que dispone este artículo. El valor resultante del bono establecido en artículo 47 bis podrá ser convertido en moneda extranjera, y el procedimiento de pago deberá estar coordinado entre el Ministerio de Relaciones Exteriores y la Tesorería General de la República.
+
+Se formará una lista de nueve nombres, de entre los cuales se escogerán tres que deberán desempeñarse como vocales, conforme al procedimiento establecido en los artículos 41 y 42.
+
+El Secretario de la Junta Electoral enviará la nómina completa de los vocales designados para cada mesa receptora de la respectiva elección, indicando los apellidos y dos primeros nombres de éstos al Servicio Electoral, dentro de las veinticuatro horas siguientes al sorteo. El Servicio Electoral deberá publicar esta nómina en su sitio web, el vigésimo segundo día anterior a la elección o plebiscito. Además, se fijará una copia autorizada de esta nómina en el consulado, a la vista del público. Este mismo procedimiento se aplicará a la publicación a que se refiere el inciso segundo del artículo 46.
+
+Dentro del mismo plazo, el Servicio Electoral deberá comunicar a los vocales su nombramiento, por los medios señalados en el inciso tercero del artículo 6 de la ley Nº 18.556. En esta comunicación, el Servicio Electoral deberá señalar la fecha, la hora y el lugar en que la mesa receptora de sufragios funcionará, el nombre de los demás vocales y, si le corresponde, concurrir a la capacitación obligatoria que señala el artículo 49.
+
+Los vocales escogidos para una elección presidencial deberán desempeñar sus funciones en las segundas votaciones que tengan lugar de conformidad a lo dispuesto en el artículo 26 de la Constitución Política de la República. En estos casos no se requerirá de la publicación y comunicación a que se refieren los incisos precedentes, salvo el caso de aquellos vocales que se designen luego de aceptada la excusa o exclusión de otro vocal.
+
+Los vocales podrán excusarse de conformidad al artículo 44 ante la junta electoral respectiva, caso en el cual se deberá proceder conforme al artículo 46.
+
+#### Artículo 198
+
+Los locales en los cuales se deberán constituir la o las mesas receptoras de sufragios en el extranjero serán definidos con noventa días de anterioridad al de la elección o plebiscito, por resolución fundada del Servicio Electoral, previo informe de la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores.
+
+Dicho informe deberá ser entregado al Servicio Electoral al menos ciento veinte días antes de la elección o plebiscito. Deberá contener, como mínimo, el número e individualización de los consulados aptos para ser lugares de votación, con indicación de la infraestructura y personal con que cuenta cada uno de ellos; las zonas geográficas en que se encuentren las mayores concentraciones de población de chilenos en el extranjero, según sus registros, desagregadas por país, consulado y ciudad, y las particularidades de la legislación local que puedan incidir en el proceso eleccionario.
+
+Los lugares de votación deberán estar ubicados preferentemente en los mismos consulados y reunir condiciones de fácil acceso.
+
+Habrá a lo menos un lugar de votación por cada consulado. Por razones fundadas y tomando en consideración el informe al que se refiere el inciso primero, el Servicio Electoral podrá disponer más de un lugar de votación por cada consulado.
+
+El Servicio Electoral publicará en su sitio web la nómina de los locales de votación en el extranjero, el vigésimo segundo día anterior a la elección o plebiscito. Asimismo, al menos con cincuenta días de anticipación a la fecha de la elección o plebiscito, comunicará al cónsul respectivo la lista de locales designados dentro de su territorio jurisdiccional, a objeto de que procure la debida instalación de cada mesa.
+
+#### Artículo 199
+
+Una oficina electoral dependiente de la correspondiente junta electoral iniciará sus funciones en el respectivo territorio el día y en el horario que el Consejo Directivo del Servicio Electoral determine mediante resolución. Esta oficina estará a cargo de un delegado de la junta electoral, quien obrará para todo el territorio de la circunscripción electoral que le corresponda.
+
+Los días y horas de funcionamiento de las oficinas electorales en el extranjero serán determinados por resolución del Consejo Directivo del Servicio Electoral.
+
+El día de la votación la oficina electoral funcionará en cada local de votación. Al delegado de la junta electoral, sin perjuicio de las demás tareas que señala esta ley, le corresponderá:
+
+1. Informar a los electores la mesa en que deberán emitir su sufragio. Para ello deberá contar con medios expeditos que le permitan la atención de los electores de toda la circunscripción electoral, especialmente en lo relacionado con su local de votación, su mesa receptora o su condición de encontrarse inhabilitado para votar, indicando la causal.
+
+2. Velar por la debida constitución de las mesas receptoras y, cuando corresponda, designar a los reemplazantes de los vocales que no hubieren concurrido.
+
+3. Entregar a los comisarios de mesa los útiles electorales.
+
+4. Recibir, una vez terminada la votación, los útiles electorales empleados en las mesas.
+
+La instalación de las mesas receptoras en los locales designados en el extranjero será responsabilidad de los delegados de la junta electoral respectivos, debiendo proveer las mesas, sillas y cámaras secretas necesarias para el desarrollo de las votaciones.
+
+#### Artículo 200
+
+Al menos veinte días antes de cada elección o plebiscito, el Servicio Electoral pondrá a disposición de los consulados respectivos, a través de la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores, los útiles destinados a cada una de las mesas receptoras de sufragios del respectivo país. Los consulados custodiarán y trasladarán tales útiles.
+
+### Párrafo 3°
+
+Juntas electorales en el extranjero
+
+#### Artículo 201
+
+En cada país en que exista un consulado habrá al menos una junta electoral que tendrá las funciones que las leyes le encomienden.
+
+#### Artículo 202
+
+Las juntas electorales en el extranjero ejercerán sus funciones en el territorio del Estado en que tenga su sede el respectivo consulado.
+
+Sin perjuicio de lo anterior, el Consejo Directivo del Servicio Electoral, mediante resolución fundada y previo informe de la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores, podrá disponer que se constituya más de una junta electoral dentro de la sede del respectivo consulado o que una junta electoral extienda sus funciones a uno o más Estados contiguos o cercanos a aquél en que tenga su sede dicho consulado, cuando ellos no cuenten con representación consular chilena.
+
+#### Artículo 203
+
+Cada junta electoral en el extranjero será presidida por el cónsul e integrada, además, por otro funcionario del Servicio Exterior o, en caso de no haberlo, por un funcionario de las plantas de secretaría y administración general del Ministerio de Relaciones Exteriores o, en su defecto, por un empleado chileno del consulado, designado por el presidente de la junta, en el que recaerá la función de secretario. En caso que alguno de ello presente imposibilidad para integrar la junta, será sustituido por la persona chilena que lo reemplace en sus funciones, o por quien, para estos efectos, designe el Servicio Electoral.
+
+Si hubiere más de una junta electoral en el territorio del respectivo consulado, las otras juntas electorales serán presididas por otro funcionario del Servicio Exterior o, en caso de no haberlo, por un funcionario de las plantas de secretaría y administración general del Ministerio de Relaciones Exteriores o, en su defecto, por un empleado chileno del consulado designado por el Servicio Electoral, previo informe de la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores.
+
+De cualquier cambio en la integración de los miembros de la Junta se dejará constancia en un acta firmada por todos ellos.
+
+Las juntas electorales en el extranjero celebrarán sus sesiones en la sede de los respectivos consulados, y sus miembros estarán obligados a asistir, de conformidad a la ley.
+
+Para los efectos del cumplimiento de sus funciones como miembros de las juntas electorales, los funcionarios de los consulados estarán sujetos a las instrucciones impartidas por el Servicio Electoral. El Servicio Electoral, en coordinación con el Ministerio de Relaciones Exteriores, deberá establecer un plan de capacitación para todos los funcionarios del Ministerio que cumplan funciones electorales en este proceso, para lo cual utilizará preferentemente las plataformas web de ambos servicios.
+
+#### Artículo 204
+
+Toda comunicación oficial y todo envío de materiales, cualquiera sea su naturaleza, entre el Servicio Electoral y las juntas electorales en el extranjero, se realizará a través de la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores.
+
+### Párrafo 4º
+
+El acto electoral en el extranjero
+
+#### Artículo 205
+
+Las votaciones en el extranjero se efectuarán el mismo día fijado para la elección o plebiscito en territorio nacional y dentro de los horarios que para cada país y ciudad establezca el Consejo Directivo del Servicio Electoral, previo informe de la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores. El funcionamiento de las mesas receptoras de sufragios en el extranjero se regirá por las normas señaladas en este título, aplicándose supletoriamente, y en todo lo que no sea contrario a éste, lo dispuesto en los párrafos 1º y 2º del título II de esta ley.
+
+#### Artículo 206
+
+Si a juicio de la mesa existe disconformidad notoria y manifiesta entre las indicaciones del padrón de mesa y la identidad del elector, recabará la intervención del delegado electoral, quien dirimirá el asunto.
+
+### Párrafo 5º
+
+El escrutinio local en el extranjero
+
+#### Artículo 207
+
+El escrutinio de los votos emitidos en el extranjero se realizará conforme con lo señalado en el párrafo 3° del título II, con las salvedades establecidas en este artículo.
+
+El escrutinio por mesa en el extranjero deberá iniciarse una vez cerrada la votación, en el mismo lugar en que la mesa haya funcionado.
+
+Concluido el escrutinio por mesas, el secretario, el comisario y el presidente de la mesa receptora de sufragios remitirán los sobres, a los que se refieren los incisos quinto, sexto y séptimo del artículo 72, que contienen los ejemplares del acta, al delegado de la junta electoral, quien deberá enviarlos inmediatamente al cónsul. Éste los hará llegar en forma separada al Presidente del Tribunal Calificador de Elecciones, al colegio escrutador especial correspondiente y al Servicio Electoral, en el más breve plazo, desde el cierre del acta o de la última de ellas si hubiese más de una.
+
+El Servicio Electoral, con el objeto de mantener informada a la opinión pública del desarrollo de la elección o plebiscito en el extranjero, emitirá boletines y desplegará información en su sitio web sobre la instalación de las mesas receptoras de sufragios en el extranjero. En relación a los resultados preliminares del escrutinio señalado en el artículo 175 bis, el Servicio Electoral sólo podrá difundirlos a partir de las dieciocho horas del día en que se celebre la elección en territorio nacional, de acuerdo al huso horario que rija en Chile.
+
+El cónsul, el mismo día de la elección, deberá informar al Director del Servicio Electoral, mediante comunicación telefónica, fax o correo electrónico, los resultados del escrutinio de cada una de las mesas receptoras de sufragios, adjuntando, por cualquiera de estos medios, una copia electrónica de las actas.
+
+Sin perjuicio de lo anterior, los cónsules deberán confeccionar tres valijas diplomáticas especiales. Una contendrá las actas dirigidas al Presidente del Tribunal Calificador de Elecciones; otra, las actas dirigidas al Servicio Electoral, y la última, las actas dirigidas al colegio escrutador especial respectivo, debiendo adoptar los resguardos necesarios para que su despacho se efectúe por vías separadas. Las valijas serán remitidas a la Dirección General de Asuntos Consulares e Inmigración del Ministerio de Relaciones Exteriores dentro de las cuarenta y ocho horas siguientes a la última recepción. Esta Dirección las remitirá de inmediato al Presidente del Tribunal Calificador de Elecciones, a los colegios escrutadores especiales y al Servicio Electoral.
+
+#### Artículo 208
+
+Completados todos los escrutinios, llenadas las actas y ensobrados los votos, los delegados de juntas electorales remitirán un paquete al cónsul, con los padrones de mesa que hayan tenido a su cargo, los sobres a que se refiere el artículo 72 y los demás útiles usados en la votación. Cada paquete será sellado y firmado por los vocales de la mesa y deberá registrarse la hora en que esto último se llevó a cabo.
+
+#### Artículo 209
+
+Dentro de las veinticuatro horas siguientes a la elección o plebiscito, el cónsul enviará por valija diplomática especial a la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores todos los paquetes, sobres y útiles recibidos, la que a su vez los remitirá al Servicio Electoral. El envío se efectuará en paquetes separados por cada mesa receptora, con indicación en su cubierta del consulado a que correspondan y del número de mesa respectivo.
+
+#### Artículo 210
+
+Existirá uno o más colegios escrutadores especiales, que tendrán por finalidad reunir las actas de los escrutinios realizados en las mesas receptoras de sufragios en el extranjero, sumar los votos que en ellas se consignen y cumplir las demás funciones que le asigne esta ley. No podrán deliberar ni resolver sobre cuestión alguna relativa a la validez de la votación.
+
+Cada colegio escrutador especial estará constituido por los miembros de una de las juntas electorales de la Región Metropolitana y un secretario, designado conforme al procedimiento establecido en el artículo 84.
+
+En la resolución contemplada en el artículo 80, el Servicio Electoral dispondrá el número de colegios escrutadores especiales que existirán, individualizando la junta electoral que los constituirá y asignando a cada uno de ellos un número determinado de mesas. La asignación de mesas se iniciará por la Junta Electoral Primera de Santiago y continuará según el orden correlativo. Esta resolución deberá publicarse en el Diario Oficial, con al menos veinte días de anticipación a la fecha en que se celebrará una elección o plebiscito.
+
+#### Artículo 211
+
+Los colegios escrutadores especiales se constituirán a las nueve horas del día lunes subsiguiente al de la elección o plebiscito y se les aplicará lo establecido en el párrafo 2º del título III.
+
+### Párrafo 6º
+
+Reclamaciones electorales en el extranjero
+
+#### Artículo 212
+
+Las normas relativas a las reclamaciones electorales señaladas en el título IV serán aplicables a los hechos y actos ocurridos en los procesos electorales que se efectúen en el extranjero que puedan haber viciado las elecciones y plebiscitos.
+
+#### Artículo 213
+
+Sin perjuicio de lo dispuesto en el título IV respecto de los electores que se encuentren en el territorio nacional, las solicitudes de rectificaciones de escrutinios y las reclamaciones de nulidad que formulen los electores en el extranjero se interpondrán ante el cónsul respectivo dentro de los diez días siguientes al término del acto eleccionario. Para estos efectos, si el Servicio Electoral no hubiere dado a conocer los resultados de algún colegio escrutador especial antes del décimo día siguiente a la elección, el plazo para efectuar las reclamaciones y rectificaciones que tengan relación con las mesas de dicho colegio escrutador especial se entenderá prorrogado hasta el día siguiente de la fecha en que el Servicio Electoral entregue la información faltante. El cónsul deberá remitir copias fidedignas, directamente y sin más trámite, al Tribunal Calificador de Elecciones, por el medio más expedito de que disponga, sin perjuicio de remitir los originales en valija especial dentro de las cuarenta y ocho horas siguientes a su recepción, a la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores, para que ésta, a su vez, los remita a la mayor brevedad a dicho órgano calificador.
+
+### Párrafo 7º
+
+Orden público en el extranjero
+
+#### Artículo 214
+
+En todos los casos en que la ley dispone la intervención de la fuerza pública durante el acto electoral, el presidente de la mesa receptora de sufragios en el extranjero se limitará a dejar constancia en el acta de los hechos acaecidos, sin perjuicio de efectuar las comunicaciones que fueren procedentes para la realización de las denuncias correspondientes.
+
+#### Artículo 215
+
+Los cónsules, conforme a sus facultades, deberán adoptar las providencias necesarias para permitir y resguardar el libre acceso a los locales en que funcionen las mesas receptoras de sufragios en el extranjero y evitar aglomeraciones. Para tales efectos, deberán solicitar apoyo y actuar en forma coordinada con las autoridades locales.
+
+#### Artículo 216
+
+Los presidentes de las juntas electorales, los delegados de las juntas electorales y los presidentes de las mesas receptoras de sufragios deberán velar por la conservación del orden y la libertad de las votaciones que se efectúen en el extranjero, para lo cual dispondrán las medidas conducentes a ese objetivo, en el lugar en que funcionen.
+
+Asimismo, el delegado de la junta electoral velará por la conservación del orden y el normal funcionamiento dentro de la oficina electoral a su cargo.
+
+#### Artículo 217
+
+En caso de aglomeraciones, manifestaciones o incidentes graves que impidan el desarrollo del acto electoral, el cónsul recurrirá al auxilio de la fuerza pública del país respectivo, ajustándose al ordenamiento legal correspondiente y a las normas del derecho internacional.
+
+#### Artículo 218
+
+Si la junta o la mesa se vieren en la necesidad de suspender el acto electoral, comunicarán tal circunstancia al cónsul respectivo, quien podrá disponer la suspensión, dejando constancia en las actas. Asimismo, la junta o la mesa reiniciarán el acto electoral dejando constancia en las actas de los hechos que dieron lugar a la suspensión.
+
+En el caso de una mesa receptora de sufragios, su presidente suspenderá la votación hasta que se restablezcan las condiciones de orden y libertad necesarias para continuar la emisión y recepción de sufragios. La votación suspendida se continuará en el mismo día hasta los límites horarios señalados en el artículo 205.
+
+El presidente de la mesa dará aviso de su determinación al delegado de la junta electoral respectiva.
+
+### Párrafo 8º
+
+Sanciones y procedimientos judiciales en el extranjero
+
+#### Artículo 219
+
+Sin perjuicio de las normas establecidas en el título VII, se aplicarán a las faltas y delitos establecidos en esta ley cometidos en el extranjero, las reglas especiales que prescriben los artículos siguientes.
+
+#### Artículo 220
+
+Tratándose de infracciones a las disposiciones de esta ley cometidas en el extranjero, para las que se establezca multa a beneficio municipal, se aplicará multa de igual entidad a beneficio fiscal, y de ellas, conocerá el Servicio Electoral de conformidad a su ley orgánica constitucional.
+
+#### Artículo 221
+
+En los casos en que un funcionario del Servicio Exterior o perteneciente a la planta de secretaría y administración general del Ministerio de Relaciones Exteriores, o un empleado chileno del consulado chileno, incurriere en las faltas establecidas en el artículo 130, sin perjuicio de las sanciones allí contempladas, el Subsecretario de Relaciones Exteriores deberá ordenar la instrucción del sumario administrativo correspondiente.
+
+#### Artículo 222
+
+Los miembros de las juntas electorales y de las mesas receptoras de sufragios en el extranjero que tomen conocimiento de hechos que puedan ser constitutivos de faltas o delitos previstos en esta ley, ocurridos en los procesos electorales que tengan lugar en el extranjero, deberán dejar constancia de éstos en las actas correspondiente.
+
+Los presidentes de las juntas y de las mesas deberán comunicar tales hechos al Servicio Electoral, para que los ponga en conocimiento del tribunal competente.
 
 DISPOSICIONES TRANSITORIAS
 

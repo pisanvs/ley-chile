@@ -26,15 +26,15 @@ Créase un Registro Electoral permanente bajo la dirección del Servicio Elector
 
 El Registro Electoral contendrá también la nómina de los demás chilenos y extranjeros mayores de 17 años, que cumplan con los requisitos para sufragar establecidos en los artículos 13 y 14 de la Constitución Política de la República.
 
-El Registro Electoral contendrá a todos los electores potenciales a que se refieren los incisos anteriores, aun cuando se encontraren con su derecho a sufragio suspendido, o hubieren perdido la ciudadanía por cualquier causa.
+El Registro Electoral contendrá a todos los electores potenciales a que se refieren los incisos anteriores, sea que se encuentren en Chile o en el extranjero, aun cuando se encontraren con su derecho a sufragio suspendido, o hubieren perdido la ciudadanía por cualquier causa.
 
-El Registro Electoral servirá de base para conformar los Padrones Electorales que deberán usarse en cada plebiscito o elección, que contendrán exclusivamente los electores con derecho a sufragio en ella.
+El Registro Electoral servirá de base para conformar los Padrones Electorales que deberán usarse en cada plebiscito o elección, que contendrán exclusivamente los electores con derecho a sufragio en ella, sea que se encuentren en Chile o en el extranjero.
 
 #### Artículo 4°
 
 El conocimiento público del Registro Electoral procederá en la forma dispuesta en el Párrafo 1° del Título II.
 
-Los datos del Padrón Electoral no podrán ser usados para fines comerciales.
+Los datos de los padrones electorales no podrán ser usados para fines comerciales.
 
 El Servicio Electoral deberá dar cumplimiento a lo previsto en la ley N° 19.628, sobre protección de la vida privada, salvo en los casos señalados en esta ley.
 
@@ -50,19 +50,19 @@ Los chilenos comprendidos en el número 3° del artículo 10 de la Constitución
 
 #### Artículo 6°
 
-Los chilenos comprendidos en los números 2° y 4° del artículo 10 y los extranjeros señalados en el artículo 14, ambos de la Constitución Política de la República, serán inscritos en el Registro Electoral desde que se acredite que cumplen los requisitos de edad y avecindamiento exigido por el inciso tercero del artículo 13 o por el artículo 14 de la Constitución Política de la República, según corresponda.
+Los chilenos comprendidos en los números 2° y 4° del artículo 10 y los extranjeros señalados en el artículo 14, ambos de la Constitución Política de la República, serán inscritos en el Registro Electoral desde que se acredite que cumplen los requisitos de edad y avecindamiento exigido por el inciso cuarto del artículo 13 o por el artículo 14 de la Constitución Política de la República, según corresponda.
 
 La inscripción procederá de forma automática en la medida que el Servicio Electoral tenga acceso a la información que acredite el cumplimiento del requisito de avecindamiento.
 
-Sin perjuicio de lo anterior, el interesado podrá presentar una solicitud de inscripción ante el Servicio Electoral en cualquiera de sus oficinas, acompañando los antecedentes que acrediten su avecindamiento en el país por el tiempo exigido, y declarando bajo juramento su domicilio electoral en Chile. Dicha solicitud será remitida al Departamento de Extranjería del Ministerio del Interior y Seguridad Pública o a la Jefatura Nacional de Extranjería y Policía Internacional de la Policía de Investigaciones de Chile, quienes, si correspondiere, emitirán un certificado que acreditará el hecho de haber cumplido el avecindamiento y lo remitirán al Servicio Electoral para que practique la correspondiente inscripción. En caso que la persona tenga su residencia en el extranjero, dicha solicitud podrá ser presentada en el Consulado de Chile respectivo.
+Sin perjuicio de lo anterior, el interesado podrá presentar una solicitud de inscripción ante el Servicio Electoral en cualquiera de sus oficinas o en los consulados de Chile, acompañando los antecedentes que acrediten su avecindamiento en el país por el tiempo exigido, y declarando bajo juramento su domicilio electoral en Chile o en el extranjero. Dicha solicitud será remitida al Departamento de Extranjería del Ministerio del Interior y Seguridad Pública o a la Jefatura Nacional de Extranjería y Policía Internacional de la Policía de Investigaciones de Chile, quienes, si correspondiere, emitirán un certificado que acreditará el hecho de haber cumplido el avecindamiento y lo remitirán al Servicio Electoral para que practique la correspondiente inscripción. En caso que la persona tenga su residencia en el extranjero, dicha solicitud podrá ser presentada en el Consulado de Chile respectivo. Los interesados que declaren su domicilio electoral en el extranjero deberán informar una casilla de correo electrónico, que será el medio preferente para recibir notificaciones del Servicio Electoral o, en su defecto, un domicilio. Si los interesados no informan su casilla de correo electrónico o el domicilio, dicha declaración no producirá efecto alguno.
 
 Para los efectos de esta ley se entenderá por Consulado las Oficinas Consulares, incluyendo las Secciones Consulares de una Misión Diplomática, a cargo de un funcionario de la Planta del Servicio Exterior del Ministerio de Relaciones Exteriores designado para desempeñar funciones consulares.
 
 #### Artículo 7°
 
-El Servicio Electoral deberá comunicar a los nuevos electores el hecho de su inscripción en el Registro Electoral, entre los ciento ochenta y noventa días anteriores a la siguiente elección o plebiscito, indicando la circunscripción electoral y la mesa receptora de sufragios donde le corresponde votar, mediante carta certificada dirigida al domicilio electoral consignado en el Registro Electoral.
+El Servicio Electoral deberá comunicar a los nuevos electores el hecho de su inscripción en el Registro Electoral, entre los ciento ochenta y noventa días anteriores a la siguiente elección o plebiscito, indicando la circunscripción electoral y la mesa receptora de sufragios donde le corresponde votar, mediante carta certificada dirigida al domicilio electoral en Chile consignado en el Registro Electoral. En caso que se trate de nuevos electores con domicilio electoral en el extranjero, el Servicio Electoral efectuará la comunicación señalada enviando una notificación al correo electrónico que señale el elector, en conformidad a lo dispuesto en el artículo 6 o, en su caso, al domicilio que este haya informado.
 
-El Servicio Electoral deberá poner a disposición del público en forma permanente, a través de su sitio web y de una línea telefónica, un sistema de consulta donde cada elector podrá verificar mediante su número de cédula de identidad o nombre, el hecho de su inscripción, la circunscripción y comuna donde se encuentra inscrito, su mesa de votación y si está habilitado para votar en la próxima elección.
+El Servicio Electoral deberá poner a disposición del público en forma permanente, a través de su sitio web y de una línea telefónica, un sistema de consulta donde cada elector podrá verificar mediante su número de cédula de identidad o nombre, el hecho de su inscripción, la circunscripción y comuna, en caso de circunscripciones nacionales; o país y ciudad, en caso de circunscripciones en el extranjero, donde se encuentra inscrito, su mesa de votación y si está habilitado para votar en la próxima elección.
 
 ### Párrafo 3°
 
@@ -70,7 +70,7 @@ De los datos electorales
 
 #### Artículo 8°
 
-El Registro Electoral deberá contener los nombres y apellidos de los inscritos, e indicará para cada uno el número de rol único nacional, la fecha y el lugar de nacimiento, la nacionalidad, el sexo, la profesión, el domicilio electoral, la circunscripción electoral que corresponde a dicho domicilio con identificación de la región, provincia y comuna a que pertenezca, el número de la mesa receptora de sufragios en que le corresponde votar y el cumplimiento del requisito de avecindamiento, si procede.
+El Registro Electoral deberá contener los nombres y apellidos de los inscritos, e indicará para cada uno el número de rol único nacional, la fecha y el lugar de nacimiento, la nacionalidad, el sexo, la profesión, el domicilio electoral, la circunscripción electoral que corresponde a dicho domicilio con identificación de la región, provincia y comuna, o del país y ciudad extranjera, según corresponda, a que pertenezca, el número de la mesa receptora de sufragios en que le corresponde votar y el cumplimiento del requisito de avecindamiento, si procede.
 
 El Registro Electoral también deberá contener los antecedentes necesarios para determinar si la persona inscrita ha perdido la ciudadanía, el derecho a sufragio o se encuentra éste suspendido.
 
@@ -80,11 +80,11 @@ Se entenderá por datos electorales los señalados en este artículo y cualquier
 
 Para el solo efecto de obtener los datos señalados en el artículo anterior, el Servicio Electoral tendrá acceso directo y permanente a los datos electorales de todas las personas registradas en el Servicio de Registro Civil e Identificación y al registro de extranjeros avecindados del Departamento de Extranjería del Ministerio del Interior y Seguridad Pública. La Jefatura Nacional de Extranjería y Policía Internacional de la Policía de Investigaciones de Chile deberán proporcionar, de la misma forma, la información del avecindamiento de los chilenos comprendidos en los números 2° y 4° del artículo 10 de la Constitución Política de la República.
 
-El Servicio de Registro Civil e Identificación deberá proporcionar al Servicio Electoral cualquier otro antecedente que resulte necesario para la inscripción de los chilenos y extranjeros en el Registro Electoral y que se encuentre en su poder, quedándole expresamente prohibido calificar los antecedentes de las personas o pronunciarse acerca del cumplimiento de los requisitos legales para el ejercicio del derecho a sufragio.
+El Servicio de Registro Civil e Identificación, el Departamento de Extranjería del Ministerio del Interior y Seguridad Pública, la jefatura nacional de Extranjería y Policía Internacional de la Policía de Investigaciones de Chile y los consulados de Chile deberán proporcionar al Servicio Electoral información acerca de cambio de domicilio del elector o cualquier otro antecedente que resulte necesario para la inscripción de los chilenos y extranjeros en el Registro Electoral y que se encuentre en su poder, quedándole expresamente prohibido calificar los antecedentes de las personas o pronunciarse acerca del cumplimiento de los requisitos legales para el ejercicio del derecho a sufragio.
 
 #### Artículo 10
 
-El domicilio electoral es aquel situado dentro de Chile, con el cual la persona tiene un vínculo objetivo, sea porque reside habitual o temporalmente, ejerce su profesión u oficio o desarrolla sus estudios en él. En el caso de los chilenos que residen en el extranjero, dicho vínculo se considerará respecto del tiempo en que residieron en Chile o de su lugar de nacimiento.
+El domicilio electoral es aquel situado dentro de Chile, con el cual la persona tiene un vínculo objetivo, sea porque reside habitual o temporalmente, ejerce su profesión u oficio o desarrolla sus estudios en él. En el caso de los ciudadanos con derecho a sufragio que se encuentren en el extranjero, el domicilio electoral es aquel situado fuera de Chile, declarado como tal por el elector.
 
 No se podrá declarar como domicilio electoral la oficina o sede de un candidato o partido político, salvo que quienes lo declaren tengan una relación de trabajador dependiente con dicho partido o candidato.
 
@@ -92,13 +92,13 @@ Tratándose de una residencia temporal, el vínculo objetivo deberá corresponde
 
 Se tendrá como domicilio electoral el último domicilio declarado como tal ante el Servicio de Registro Civil e Identificación o ante el Servicio Electoral.
 
-Para efectos del registro automático de las personas referidas en los artículos 5° y 6°, el domicilio electoral será el último declarado ante el Servicio de Registro Civil e Identificación o ante el Departamento de Extranjería del Ministerio del Interior y Seguridad Pública, o el acreditado para el cumplimiento del requisito de avecindamiento, según corresponda. En caso que este último domicilio se encuentre ubicado en el extranjero, el domicilio electoral corresponderá al último domicilio en Chile informado al Servicio de Registro Civil e Identificación y, a falta de éste, al lugar o comuna de nacimiento en Chile. En ningún caso procederá la inscripción de una persona sin domicilio electoral en Chile o comuna de nacimiento en Chile.
+Para efectos del registro automático de las personas referidas en los artículos 5 y 6, el domicilio electoral será el último declarado ante el Servicio de Registro Civil e Identificación, ante el Departamento de Extranjería del Ministerio del Interior y Seguridad Pública, ante la jefatura nacional de extranjería y Policía Internacional de la Policía de Investigaciones de Chile o ante los consulados de Chile, o el acreditado para el cumplimiento del requisito de avecindamiento, según corresponda.
 
 #### Artículo 11
 
 Todo elector con derecho a sufragio deberá estar inscrito en una mesa receptora de sufragios que pertenezca a la circunscripción electoral correspondiente a su domicilio electoral.
 
-Si los antecedentes del domicilio o lugar de nacimiento con que se cuente para el registro automático de las personas referidas en los artículos 5° y 6° no permitieran al Servicio Electoral poder identificarlos con una determinada circunscripción electoral, procederá a registrarlos en la circunscripción electoral con más electores de la comuna con cuya información se cuente.
+Si los antecedentes del domicilio o lugar de nacimiento con que se cuente para el registro automático de las personas referidas en los artículos 5° y 6° no permitieran al Servicio Electoral poder identificarlos con una determinada circunscripción electoral, procederá a registrarlos en la circunscripción electoral con más electores de la comuna o país con cuya información se cuente.
 
 #### Artículo 12
 
@@ -174,7 +174,7 @@ Sin perjuicio de lo dispuesto en los artículos anteriores, cualquier elector po
 
 #### Artículo 22
 
-Entre los ciento ochenta y los noventa días anteriores a una elección o plebiscito, el Servicio Electoral deberá informar a los electores que su derecho a sufragio ha sido suspendido o que han sido inhabilitados para votar en la siguiente elección, con indicación de la causa que dio origen a dicha suspensión o inhabilidad, mediante carta certificada dirigida al domicilio electoral consignado en el Registro Electoral.
+Entre los ciento ochenta y los noventa días anteriores a una elección o plebiscito, el Servicio Electoral deberá informar a los electores que su derecho a sufragio ha sido suspendido o que han sido inhabilitados para votar en la siguiente elección, con indicación de la causa que dio origen a dicha suspensión o inhabilidad, mediante carta certificada dirigida al domicilio electoral consignado en el Registro Electoral, a la casilla de correo electrónico informado por el elector que declare su domicilio electoral en el extranjero o, en su caso, al domicilio señalado por este, de acuerdo a lo dispuesto en el artículo 6 inciso tercero.
 
 ### Párrafo 5°
 
@@ -192,13 +192,15 @@ c) Cualquier otro cambio o solicitud de cambio en los datos señalados en el art
 
 #### Artículo 24
 
-Con ocasión de la obtención o renovación de cédula de identidad o pasaporte, el Servicio de Registro Civil e Identificación deberá informar a la persona su domicilio electoral registrado, otorgándole la posibilidad de actualizarlo, declarando bajo juramento uno nuevo en ese acto, si así lo desea.
+Con ocasión de la obtención o renovación de cédula de identidad o pasaporte, el Servicio de Registro Civil e Identificación o el correspondiente consulado de Chile deberán informar a la persona su domicilio electoral registrado, otorgándole la posibilidad de actualizarlo, declarando bajo juramento uno nuevo en ese acto, si así lo desea.
 
 #### Artículo 25
 
-Sin perjuicio de lo dispuesto en el artículo anterior, el cambio de domicilio podrá también efectuarse directamente ante el Servicio Electoral, mediante una solicitud escrita firmada por el peticionario en formularios especialmente diseñados por este organismo, donde declarará bajo juramento su nuevo domicilio electoral. Dichas solicitudes deberán ser presentadas en las oficinas que el Servicio Electoral disponga en el país. Los ciudadanos chilenos residentes en el extranjero podrán presentar la solicitud a través del respectivo Consulado.
+Sin perjuicio de lo dispuesto en el artículo anterior, el cambio de domicilio podrá también efectuarse directamente ante el Servicio Electoral, en las oficinas que este organismo disponga en el país, o ante la jefatura nacional de Extranjería y Policía Internacional de la Policía de Investigaciones de Chile, al entrar en el territorio nacional o salir de él, mediante una solicitud escrita firmada por el peticionario en formularios especialmente diseñados por el Servicio Electoral, que se encontrarán además disponibles en su sitio web, donde declarará bajo juramento su nuevo domicilio electoral. Los ciudadanos chilenos residentes en el extranjero podrán presentar la solicitud a través del respectivo consulado.
 
-El Servicio Electoral deberá notificar al elector, mediante carta certificada dirigida al nuevo domicilio electoral, que ha procedido al cambio de su domicilio en el registro, indicando la circunscripción electoral y mesa de sufragio donde le corresponderá votar.
+Para efectos de lo establecido en el inciso anterior, la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores implementará las medidas necesarias para facilitar la inscripción en el Registro Electoral o el trámite de cambio de domicilio electoral de los chilenos residentes en el extranjero y otras tendientes al mejor cumplimiento de sus funciones vinculadas al ejercicio del sufragio en el extranjero, de acuerdo a las instrucciones que, para estos efectos, dicte el Consejo Directivo del Servicio Electoral.
+
+El Servicio Electoral deberá notificar al elector, mediante carta certificada dirigida al nuevo domicilio electoral en Chile, que ha procedido al cambio de su domicilio en el registro, indicando la circunscripción electoral y mesa de sufragio donde le corresponderá votar. A los electores cuyo nuevo domicilio se encuentre en el extranjero, se les notificará mediante correo electrónico a la casilla que se informe para tales efectos durante el cambio de domicilio o, en su caso, mediante carta certificada enviada al domicilio señalado por estos.
 
 El Servicio Electoral podrá disponer de otras formas para solicitar el cambio de domicilio electoral, ya sea a distancia o por medios electrónicos, siempre que éstas garanticen la confiabilidad en la identidad del elector y la seguridad de sus datos.
 
@@ -208,7 +210,7 @@ El Servicio Electoral podrá convenir con otros organismos públicos la recepci�
 
 #### Artículo 27
 
-Sin perjuicio de lo señalado en el inciso tercero del artículo 10, el domicilio electoral será aquel que registre el Servicio Electoral.
+El domicilio electoral será aquel que registre el Servicio Electoral.
 
 ### Párrafo 6°
 
@@ -238,9 +240,9 @@ El otro ejemplar, que llevará impresas las palabras "Registro del Servicio Elec
 
 #### Artículo 30
 
-El Servicio Electoral deberá elaborar un Padrón Electoral, el que contendrá la nómina de los electores inscritos en el Registro Electoral que reúnen los requisitos necesarios para ejercer el derecho a sufragio conforme a los antecedentes conocidos por él.
+El Servicio Electoral deberá elaborar dos padrones electorales, uno para electores que sufraguen en territorio nacional, y otro para electores que sufraguen en el extranjero. Cada uno de estos padrones, contendrá la nómina de los electores inscritos en el Registro Electoral que reúnen los requisitos necesarios para ejercer el derecho a sufragio conforme a los antecedentes conocidos por él, dentro o fuera de Chile, según corresponda.
 
-Cada elector podrá figurar sólo una vez en él.
+Cada elector podrá figurar en un padrón electoral y sólo una vez en él.
 
 #### Artículo 31
 
@@ -280,19 +282,19 @@ Serán aplicables al Padrón y la Nómina antes mencionados las disposiciones co
 
 #### Artículo 34
 
-El Servicio Electoral deberá publicar en su sitio web las modificaciones efectuadas al Padrón Electoral y la Nómina de Inhabilitados que provengan de las reclamaciones acogidas en conformidad a esta ley, o de las correcciones sugeridas por las empresas de auditoría que hayan sido aceptadas por el Servicio.
+El Servicio Electoral deberá publicar en su sitio web las modificaciones efectuadas a los padrones electorales y a las nóminas de Inhabilitados que provengan de las reclamaciones acogidas en conformidad a esta ley, o de las correcciones sugeridas por las empresas de auditoría que hayan sido aceptadas por el Servicio.
 
 #### Artículo 35
 
-Para la segunda votación de la elección presidencial que se realice en virtud del inciso segundo del artículo 26 de la Constitución Política de la República se utilizará el mismo Padrón Electoral de la primera votación.
+Para la segunda votación de la elección presidencial que se realice en virtud del inciso segundo del artículo 26 de la Constitución Política de la República se utilizarán los mismos padrones electorales de la primera votación.
 
-Cuando deba repetirse la elección presidencial, en virtud de ocurrir alguna de las circunstancias contempladas en los incisos cuarto del artículo 26 o segundo del artículo 28 de la Constitución Política de la República, se utilizará el mismo Padrón Electoral de la primera votación de la elección que no pudo perfeccionarse, ya sea por fallecimiento de un candidato para la segunda votación o por impedimento absoluto del presidente electo para tomar posesión del cargo.
+Cuando deba repetirse la elección presidencial, en virtud de ocurrir alguna de las circunstancias contempladas en los incisos cuarto del artículo 26 o segundo del artículo 28 de la Constitución Política de la República, se utilizarán los mismos padrones electorales de la primera votación de la elección que no pudo perfeccionarse, ya sea por fallecimiento de un candidato para la segunda votación o por impedimento absoluto del presidente electo para tomar posesión del cargo.
 
 #### Artículo 36
 
-El Servicio Electoral, en la misma oportunidad en que debe determinar el Padrón Electoral con carácter de definitivo, deberá confeccionar los Padrones de Mesa que se utilizarán en la respectiva elección o plebiscito.
+El Servicio Electoral, en la misma oportunidad en que debe determinar los padrones electorales con carácter de definitivo, deberá confeccionar los Padrones de Mesa que se utilizarán en la respectiva elección o plebiscito.
 
-A cada Mesa Receptora de Sufragios le corresponderá un Padrón de Mesa.
+A cada Mesa Receptora de Sufragios, en Chile o en el extranjero, le corresponderá un Padrón de Mesa.
 
 Cada Padrón de Mesa contendrá una nómina, ordenada alfabéticamente, de las personas habilitadas para votar en la Mesa Receptora de Sufragios respectiva.
 
@@ -318,7 +320,7 @@ Podrán, además, inscribirse los extranjeros que hayan cumplido dieciocho años
 
 #### Artículo 38
 
-El Registro Electoral, el Padrón Electoral con carácter de provisorio y la Nómina Provisoria de Inhabilitados serán sometidos a un proceso de auditoría con el objeto de revisar y determinar si contienen los antecedentes dispuestos por la ley. También se revisarán los procedimientos, sistemas de información, mecanismos de control y programas computacionales utilizados en su elaboración.
+El Registro Electoral, los padrones electorales con carácter de provisorio y las nóminas provisorias de inhabilitados serán sometidos a un proceso de auditoría con el objeto de revisar y determinar si contienen los antecedentes dispuestos por la ley. También se revisarán los procedimientos, sistemas de información, mecanismos de control y programas computacionales utilizados en su elaboración.
 
 #### Artículo 39
 
@@ -338,19 +340,19 @@ Las empresas serán seleccionadas por un período de ocho años. Dentro de ese p
 
 #### Artículo 41
 
-Las empresas de auditoría deberán revisar anualmente y emitir un informe que contendrá su opinión, sobre los procedimientos, sistemas de información, mecanismos de control y programas computacionales del Servicio Electoral, destinados a la inscripción de los electores en el Registro Electoral y a la confección del Padrón Electoral y la Nómina de Inhabilitados. Dicho informe deberá señalar la capacidad de ellos para cumplir las funciones para la cual están requeridos, sus errores, si los hubiere, y los factores de riesgo que pudieran afectar su correcto funcionamiento. El informe deberá contener también sugerencias respecto a la solución de los problemas detectados.
+Las empresas de auditoría deberán revisar anualmente y emitir un informe que contendrá su opinión, sobre los procedimientos, sistemas de información, mecanismos de control y programas computacionales del Servicio Electoral, destinados a la inscripción de los electores en el Registro Electoral y a la confección de los padrones electorales y las nóminas de inhabilitados. Dicho informe deberá señalar la capacidad de ellos para cumplir las funciones para la cual están requeridos, sus errores, si los hubiere, y los factores de riesgo que pudieran afectar su correcto funcionamiento. El informe deberá contener también sugerencias respecto a la solución de los problemas detectados.
 
 En los años que correspondan elecciones generales, el informe deberá ser emitido doscientos diez días antes de la elección.
 
 #### Artículo 42
 
-Determinado el Padrón Electoral con carácter de provisorio y la Nómina Provisoria de Inhabilitados conforme al artículo 31 de esta ley, las empresas de auditoría procederán a su revisión, que tendrá por objeto entregar una opinión respecto de si ellos cumplen con lo dispuesto en la ley. Terminada la revisión elaborarán un informe que deberá ser emitido ochenta días antes de la elección o plebiscito y que contendrá, al menos, un detalle de los errores encontrados con indicación de una sugerencia respecto de cómo pueden ser subsanados, y los demás comentarios u observaciones que los auditores estimen procedentes.
+Determinado los padrones electorales con carácter de provisorio y las nóminas provisorias de inhabilitados conforme al artículo 31 de esta ley, las empresas de auditoría procederán a su revisión, que tendrá por objeto entregar una opinión respecto de si ellos cumplen con lo dispuesto en la ley. Terminada la revisión elaborarán un informe que deberá ser emitido ochenta días antes de la elección o plebiscito y que contendrá, al menos, un detalle de los errores encontrados con indicación de una sugerencia respecto de cómo pueden ser subsanados, y los demás comentarios u observaciones que los auditores estimen procedentes.
 
 #### Artículo 43
 
 El Consejo del Servicio Electoral analizará los informes de auditoría y realizará las correcciones que estime pertinentes. Lo anterior constará en un acta que será publicada en la página web de dicho organismo.
 
-Cumplido lo anterior, el Consejo del Servicio determinará el Padrón Electoral con carácter de auditado y la Nómina Auditada de Inhabilitados, conforme al artículo 32.
+Cumplido lo anterior, el Consejo del Servicio determinará los padrones electorales con carácter de auditado y las nóminas auditadas de inhabilitados, conforme al artículo 32.
 
 #### Artículo 44
 
@@ -362,7 +364,7 @@ Las empresas de auditoría deberán efectuar sus funciones con total independenc
 
 #### Artículo 46
 
-El Servicio Electoral deberá poner a disposición de las empresas de auditoría todos sus registros, físicos y computacionales y demás antecedentes que en opinión de ellas sean necesarios para realizar sus informes. El Servicio de Registro Civil e Identificación y los demás organismos señalados en los artículos 15 al 20 deberán poner a disposición de las empresas de auditoría la misma información que hubieren entregado al Servicio Electoral, cuando exista disconformidad entre los datos electorales y el Padrón Electoral.
+El Servicio Electoral deberá poner a disposición de las empresas de auditoría todos sus registros, físicos y computacionales y demás antecedentes que en opinión de ellas sean necesarios para realizar sus informes. El Servicio de Registro Civil e Identificación y los demás organismos señalados en los artículos 15 al 20 deberán poner a disposición de las empresas de auditoría la misma información que hubieren entregado al Servicio Electoral, cuando exista disconformidad entre los datos electorales y los padrones electorales.
 
 Las empresas de auditoría deberán mantener reserva o secreto, según corresponda, de la información, datos y antecedentes que se les proporcione en virtud de este artículo, siendo públicos solamente los resultados de su auditoría.
 
@@ -372,13 +374,13 @@ DE LAS RECLAMACIONES
 
 #### Artículo 47
 
-La persona que estimare que injustificadamente fue omitida del Padrón Electoral con carácter de auditado, publicado conforme al artículo 32, podrá reclamar de este hecho, por escrito o verbalmente, dentro de los diez días siguientes a la publicación, ante el Tribunal Electoral Regional de su domicilio electoral, que conocerá del asunto.
+La persona que estimare que injustificadamente fue omitida de los padrones electorales, según corresponda, con carácter de auditado, publicado conforme al artículo 32, podrá reclamar de este hecho, por escrito o verbalmente, dentro de los diez días siguientes a la publicación, ante el Tribunal Electoral Regional de su domicilio electoral, que conocerá del asunto. En caso que la persona se encuentre en el extranjero, podrá presentar su reclamo a través del sitio web del Tribunal Electoral Regional de turno de la Región Metropolitana, o acercarse a un consulado chileno en el extranjero, el que tendrá la obligación de ingresarlo en el sitio web mencionado, en el plazo antes señalado.
 
-En el mismo plazo, los partidos políticos, candidato independiente y cualquier otra persona, podrán presentar reclamaciones ante el mismo Tribunal respecto de electores injustificadamente omitidos de dicho Padrón Electoral o que figuren con datos erróneos.
+En el mismo plazo, los partidos políticos, candidato independiente y cualquier otra persona, podrán presentar reclamaciones ante el mismo Tribunal respecto de electores injustificadamente omitidos de uno de los padrones electorales o que figuren con datos erróneos.
 
 El Tribunal resolverá con los antecedentes que el interesado le suministre, previo informe del Servicio Electoral, el cual deberá ser emitido dentro del plazo de cuatro días de requerido. El Tribunal deberá fallar, con o sin informe, dentro del plazo de diez días, contados desde la fecha de la presentación del reclamo.
 
-El Tribunal ordenará la incorporación del reclamante o electores afectados al Padrón Electoral en los casos en que hubiere lugar a la reclamación.
+El Tribunal ordenará la incorporación del reclamante o electores afectados al Padrón Electoral que corresponda en los casos en que hubiere lugar a la reclamación.
 
 Las sentencias de los Tribunales Electorales Regionales serán apelables por el requirente o por el Servicio Electoral dentro del plazo de tres días, contado desde la fecha de su incorporación en el Estado Diario del respectivo Tribunal, ante el Tribunal Calificador de Elecciones, el cual deberá fallar dentro de un plazo de cinco días de presentada la apelación.
 
@@ -386,7 +388,7 @@ Ejecutoriada la sentencia, el Tribunal remitirá al Servicio Electoral, de ofici
 
 #### Artículo 48
 
-Dentro de los diez días siguientes a la publicación del Padrón Electoral con carácter de auditado, señalado en el artículo 32, cualquiera persona natural, partido político o candidato independiente podrá pedir al Tribunal Electoral Regional correspondiente al domicilio electoral del impugnado la exclusión de quien figure en el Padrón Electoral en contravención a la ley.
+Dentro de los diez días siguientes a la publicación de los padrones electorales con carácter de auditado señalados en el artículo 32, cualquier persona natural, partido político o candidato independiente podrá pedir al Tribunal Electoral Regional correspondiente al domicilio electoral del impugnado la exclusión de quien figure en el padrón electoral respectivo en contravención a la ley. Tratándose de personas naturales que se encuentren en el extranjero, podrán hacer la petición en el sitio web del Tribunal Electoral Regional de turno de la Región Metropolitana o en cualquier consulado chileno en el extranjero, el que tendrá la obligación de ingresarla en el sitio web antes mencionado.
 
 No procederá solicitar la exclusión del Padrón Electoral respecto de un candidato cuya aceptación de candidatura se encuentre ejecutoriada.
 
@@ -416,13 +418,13 @@ DE LAS CIRCUNSCRIPCIONES ELECTORALES
 
 #### Artículo 50
 
-Las Circunscripciones Electorales son la unidad territorial electoral básica, formada por todo o parte del territorio comunal. En cada circunscripción electoral se determinarán Mesas Receptoras de Sufragios que deberán funcionar en el territorio jurisdiccional de la circunscripción.
+Las Circunscripciones Electorales son la unidad territorial electoral básica, formada por todo o parte del territorio comunal en el caso de las circunscripciones en el territorio nacional, o por todo o parte del territorio de un país o países, en el caso de circunscripciones en el extranjero. En cada circunscripción electoral se determinarán Mesas Receptoras de Sufragios que deberán funcionar en el territorio jurisdiccional de la circunscripción.
 
-El Servicio Electoral, por resolución fundada, podrá crear circunscripciones electorales cuando lo hagan aconsejable circunstancias tales como la cantidad de población, las dificultades de comunicación con la sede comunal, las distancias excesivas o la existencia de diversos centros poblados de importancia.
+El Servicio Electoral, por resolución fundada, podrá crear circunscripciones electorales cuando lo hagan aconsejable circunstancias tales como la cantidad de población, las dificultades de comunicación con la sede comunal o consular, las distancias excesivas o la existencia de diversos centros poblados de importancia.
 
-La resolución determinará el territorio jurisdiccional de las nuevas circunscripciones y se publicará dentro de quinto día en el Diario Oficial y, además, en un periódico de la localidad respectiva y, si allí no lo hubiere, en el correspondiente de la capital provincial o regional. Sin perjuicio de lo anterior, podrán difundirse avisos por otros medios de comunicación social, cuando las circunstancias lo requieran.
+La resolución determinará el territorio jurisdiccional de las nuevas circunscripciones y se publicará dentro de quinto día en el Diario Oficial y, además, en el caso de circunscripciones en el territorio nacional, en un periódico de la localidad respectiva y, si allí no lo hubiere, en el correspondiente de la capital provincial o regional. Sin perjuicio de lo anterior, podrán difundirse avisos por otros medios de comunicación social, cuando las circunstancias lo requieran, o en el caso de circunscripciones en el extranjero.
 
-El Servicio Electoral, por resolución fundada, podrá cancelar una circunscripción electoral cuando lo hagan aconsejable circunstancias tales como la cantidad de población o las dificultades para sufragar. En este caso, deberá asignar a los electores a la circunscripción más cercana incorporándolos a una mesa receptora de sufragios de conformidad al artículo 12 y efectuando la comunicación señalada en el artículo 7°, inciso primero, de esta ley.
+El Servicio Electoral, por resolución fundada, podrá cancelar una circunscripción electoral cuando lo hagan aconsejable circunstancias tales como la cantidad de población o las dificultades para sufragar. En este caso, deberá asignar a los electores a la circunscripción más cercana incorporándolos a una mesa receptora de sufragios de conformidad al artículo 12 y efectuando la comunicación señalada en el artículo 7°, inciso primero, de esta ley. Sin perjuicio de lo anterior, el Servicio Electoral no podrá cancelar una circunscripción en el extranjero, si ésta es la única existente en el respectivo país.
 
 ## Título V
 
@@ -456,19 +458,19 @@ Sufrirá la pena de reclusión menor en su grado mínimo y multa de una a tres u
 
 3.- El que ocultare, sustrajere o destruyere una solicitud de cambio de domicilio o una solicitud de acreditación de avecindamiento o los antecedentes que la acompañan.
 
-4.- El que use para fines comerciales los datos del Registro Electoral o Padrón Electoral.
+4.- El que use para fines comerciales los datos del Registro Electoral o de los padrones electorales.
 
 #### Artículo 54
 
 Sufrirá la pena de presidio menor en su grado medio, multa de diez a cincuenta unidades tributarias mensuales y la inhabilitación absoluta y perpetua para el desempeño de cargos y oficios públicos:
 
-1.- El que maliciosamente altere la información contenida en el Registro Electoral, en el Padrón Electoral, en los Padrones de Mesas Receptoras de Sufragio, en las Nóminas de Inhabilitados y en los antecedentes del Servicio de Registro Civil e Identificación y cualquier otro antecedente que pueda ser usado para conformar el Registro Electoral y sus actualizaciones.
+1.- El que maliciosamente altere la información contenida en el Registro Electoral, en los padrones electorales, en los Padrones de Mesas Receptoras de Sufragio, en las Nóminas de Inhabilitados y en los antecedentes del Servicio de Registro Civil e Identificación y cualquier otro antecedente que pueda ser usado para conformar el Registro Electoral y sus actualizaciones.
 
 2.- El que maliciosamente modifique el domicilio electoral informado por los electores al recibir solicitudes de éstos o cuando lo informen al obtener o renovar su cédula de identidad.
 
 3.- El que incite, promueva, solicite u organice a los electores, a modificar su domicilio electoral, declarando uno nuevo con datos falsos o diferente de los permitidos en el artículo 10.
 
-4.- El que comercialice los datos del Registro Electoral o Padrón Electoral.
+4.- El que comercialice los datos del Registro Electoral o los datos de los padrones electorales.
 
 #### Artículo 55
 
@@ -476,7 +478,7 @@ Si los delitos señalados en el artículo precedente fueren cometidos por un fun
 
 #### Artículo 56
 
-El que por negligencia extraviare documentos, solicitudes de cambio de domicilio electoral, solicitudes de acreditación de avecindamiento o destruyera información computacional que contenga antecedentes del Registro Electoral o del Padrón Electoral y de los Padrones de Mesas Receptoras de Sufragios, sufrirá la pena de prisión en su grado máximo.
+El que por negligencia extraviare documentos, solicitudes de cambio de domicilio electoral, solicitudes de acreditación de avecindamiento o destruyera información computacional que contenga antecedentes del Registro Electoral o de los padrones electorales y de los Padrones de Mesas Receptoras de Sufragios, sufrirá la pena de prisión en su grado máximo.
 
 Si en la desaparición de estos efectos mediare dolo, los autores del hecho sufrirán la pena de presidio menor en su grado mínimo, multa de una a tres unidades tributarias mensuales e inhabilitación absoluta y perpetua para ejercer cargos y oficios públicos.
 
@@ -738,7 +740,7 @@ a) Administrar los Padrones Electorales, para lo cual deberá formar, mantener y
 
 b) Elaborar y presentar al Director una propuesta de los Padrones Electorales y las Nóminas de Electores Inhabilitados en los términos señalados en la ley.
 
-c) Elaborar propuestas sobre el diseño e impresión de formularios y demás documentos que se utilicen en el proceso de formación y actualización del Registro Electoral, las que serán ordenadas y resueltas por el Director del Servicio.
+c) Elaborar propuestas sobre el diseño e impresión de formularios y demás documentos y medios electrónicos que se utilicen en el proceso de formación y actualización del Registro Electoral, las que serán ordenadas y resueltas por el Director del Servicio.
 
 d) Resolver las solicitudes de cambio de domicilio electoral y de acreditación de avecindamiento.
 
