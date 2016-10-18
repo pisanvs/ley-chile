@@ -60,6 +60,4 @@ c) Luego de haber asignado regionalmente esta fracción de la cuota para imprevi
 
 4.- Transcríbase copia de la presente resolución al Servicio Nacional de Pesca y a la Dirección General del Territorio Marítimo y Marina Mercante.
 
-> **Nota.** La Resolución 3208 Exenta, Economía, publicada el 28.10.2016, modifica la presente norma en el sentido de asignar un total de 1.189 toneladas del recurso Sardina común, correspondiente a la cuota de imprevistos del año 2016.
-
 Anótese, comuníquese y publíquese en el Diario Oficial y en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
