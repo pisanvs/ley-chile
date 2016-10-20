@@ -28,7 +28,7 @@ El presente llamado especial se regirá por lo dispuesto en el DS Nº 49 (V. y U
 
 a) Se permitirá aumentar el monto de subsidio base señalado en el DS Nº 49 (V. y U.), de 2011, para la comuna de Concepción, hasta el monto de 880 Unidades de Fomento.
 
-b) Se permitirá aumentar el monto de subsidio de habilitación, señalado en la letra h) del artículo 35 del DS Nº 49 (V. y U.), de 2011, de 100 Unidades de Fomento, hasta el monto de 150 Unidades de Fomento.
+b) Se permitirá aumentar el monto de subsidio de habilitación, señalado en la letra h) del artículo 35 del DS N° 49 (V. y U.) de 2011, de 100 Unidades de Fomento, hasta el monto de 300 Unidades de Fomento por solución.
 
 c) Se eximirá a los grupos postulantes, de lo dispuesto en el artículo 7 del DS Nº 49 (V. y U.), de 2011, referido a la exigencia de contar con personalidad jurídica.
 
@@ -44,6 +44,6 @@ iv. En la letra h) del artículo 4, establecido para personas que no acreditan n
 
 2) Los proyectos que participen del llamado en condiciones especiales, deberán contar con certificado de Calificación Definitiva o Condicional, a la fecha del cierre del llamado.
 
-3) El periodo de postulación al presente llamado, será a partir de la publicación en el Diario Oficial, hasta el 29 de septiembre de 2016, ambos días inclusive. El número de familias con proyecto seleccionadas, dependerá del número de subsidios susceptible de financiar con los recursos provistos en la presente resolución exenta, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios según corresponda a los proyectos ingresados al Departamento Técnico del Serviu.
+3) El periodo de postulación al presente llamado será a partir de la publicación en el Diario Oficial y contempla un primer proceso de selección, para proyectos calificados hasta el 25 de octubre de 2016, y un segundo proceso de selección, para proyectos calificados hasta el 25 de noviembre de 2016. La selección de ambos procesos será el último día hábil de cada mes, respectivamente. El número de familias con proyecto seleccionadas, dependerá del número de subsidios susceptible de financiar con los recursos provistos en la presente resolución exenta, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios según corresponda a los proyectos ingresados al Departamento Técnico del Serviu.
 
 Anótese, comuníquese, publíquese en el Diario Oficial y, en su oportunidad, archívese.- Jaime Arévalo Núñez, Secretario Regional Ministerial.
