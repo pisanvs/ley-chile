@@ -84,7 +84,7 @@ Para el desempeño de los cargos de las plantas contenidas en el artículo prece
 
 Jefe Superior del Servicio, Plantas de Directivos de Exclusiva Confianza y de Carrera y de Profesionales:
 
-Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste.
+Título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste.
 
 Adicionalmente, para desempeñarse en los cargos grado 6º y superiores se requerirá cinco años de experiencia profesional, y para desempeñarse en los cargos ubicados en los grados 7º y 8º se requerirá tres años de experiencia profesional.
 

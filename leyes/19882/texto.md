@@ -126,7 +126,7 @@ De los Beneficiarios
 
 #### Artículo OCTAVO
 
-Serán beneficiarios de la bonificación, los funcionarios de carrera o a contrata de las entidades afectas a la asignación de modernización de la ley Nº19.553 y aquellos que se desempeñen en el Servicio de Impuestos Internos, Servicio Nacional de Aduanas, Fondo Nacional de Salud, Consejo de Defensa del Estado, Comisión Chilena de Energía Nuclear, instituciones afectas al artículo 17 de la ley N° 18.091 y al artículo 9° del decreto ley N° 1.953, de 1977 y Contraloría General de la República, que tengan 65 o más años de edad si son hombres y 60 o más años, si son mujeres, y que comuniquen su decisión de presentar la renuncia voluntaria a sus cargos.
+Serán beneficiarios de la bonificación, los funcionarios de carrera o a contrata de las entidades afectas a la asignación de modernización de la ley Nº19.553 y aquellos que se desempeñen en el Servicio de Impuestos Internos, Servicio Nacional de Aduanas, Fondo Nacional de Salud, Consejo de Defensa del Estado, Comisión Chilena de Energía Nuclear, instituciones afectas al artículo 17 de la ley N° 18.091 y al artículo 9° del decreto ley N° 1.953, de 1977 y Contraloría General de la República que tengan 65 o más años de edad y que comuniquen su decisión de presentar la renuncia voluntaria a sus cargos.
 
 Los funcionarios que cumplan las edades antedichas en el primer semestre de cada año deberán comunicar su decisión de renunciar voluntariamente a su cargo dentro de los tres primeros meses de éste. En esa oportunidad deberán indicar la fecha en que harán dejación de su cargo o empleo, la que deberá estar comprendida en el mismo semestre para no quedar afecto a las disminuciones que se establecen en el artículo siguiente, y la opción de pago a que se acojan. De igual forma, quienes cumplan las edades en el segundo semestre comunicarán su decisión en los tres primeros meses de ese semestre, para hacerla efectiva en el curso del mismo.
 
@@ -141,6 +141,8 @@ Las edades señaladas en este artículo podrán rebajarse en los casos y situaci
 #### Artículo NOVENO
 
 La bonificación, se disminuirá en un mes por cada semestre en que el funcionario, habiendo cumplido el requisito de edad para tal efecto, no se haya acogido al procedimiento establecido en el artículo anterior.
+
+Con todo, las funcionarias podrán comunicar su decisión de renunciar voluntariamente desde que cumplan 60 años de edad y hasta el semestre en que cumplan 65 años, sujetándose al procedimiento establecido en el inciso segundo del artículo anterior, y percibirán la totalidad del beneficio que les corresponda. Durante dicho período no quedarán afectas a la disminución de meses antes señalada.
 
 #### Artículo DÉCIMO
 
@@ -270,9 +272,9 @@ a) Participar en el diseño de las políticas de administración de personal del
 
 b) Promover reformas y medidas tendientes al mejoramiento de la gestión del personal del sector público;
 
-c) Prestar asesoría en materias de personal a las autoridades de gobierno, así como también a los subsecretarios y jefes de los servicios no incluidos en el Sistema de Alta Dirección Pública en materias de personal de alto nivel;
+c) Prestar asesoría en materias de personal a las autoridades de gobierno, así como también a los subsecretarios y jefes de los servicios en materias de personal de alto nivel;
 
-d) Realizar las acciones necesarias para asegurar el eficiente y eficaz funcionamiento del Sistema de Alta Dirección Pública;
+d) Realizar las acciones necesarias para asegurar el eficiente y eficaz funcionamiento del Sistema de Alta Dirección Pública, para lo cual podrá, especialmente, diseñar e implementar los planes y programas de inducción, acompañamiento, formación y desarrollo de altos directivos públicos;
 
 e) Constituir y administrar un registro de los cargos de altos directivos públicos que comprenda toda la información relevante de los mismos;
 
@@ -282,7 +284,7 @@ g) Realizar estudios sobre remuneraciones en los sectores público y privado a e
 
 h) Facilitar y prestar oportunamente el debido e integral apoyo administrativo y técnico al Consejo de Alta Dirección Pública para el cabal cumplimiento de sus funciones;
 
-i) Fomentar y apoyar la profesionalización y desarrollo de las unidades de personal o recursos humanos de los ministerios y servicios;
+i) Fomentar y apoyar la profesionalización y desarrollo de las unidades de personal o gestión de personas de los ministerios y servicios. Además podrá asesorar a dichas unidades en la elaboración de los perfiles de los cargos de alta dirección pública;
 
 j) Constituir una instancia de apoyo a la interlocución con las organizaciones de funcionarios de los ministerios y servicios, en cuanto al cumplimiento de normas legales y seguimiento de los acuerdos que se suscriban con los mismos;
 
@@ -290,7 +292,7 @@ k) Fomentar el desarrollo de la cultura participativa con el fin de mejorar las 
 
 l) Incorporar en la proposición de políticas de personal, variables que eviten todo tipo de discriminación, tales como, género, tendencias sexuales, religión, étnicas, discapacidades físicas y otras de similar naturaleza;
 
-m) Constituir y administrar un registro de consultores externos especializados en servicios de asesoría para procesos de selección de personal;
+m) Constituir y administrar un registro de consultores externos especializados en servicios de asesoría para procesos de selección de personal, y de desarrollo y gestión de personas. Además, deberá establecer mecanismos de evaluación de dichos consultores;
 
 n) Realizar diagnósticos y estudios acerca de temas propios de sus funciones;
 
@@ -298,9 +300,25 @@ n) Realizar diagnósticos y estudios acerca de temas propios de sus funciones;
 
 o) Administrar Fondos creados para ejecutar programas en el área laboral, tales como los relativos a becas, mejoramiento de los ambientes laborales y de seguridad en el trabajo;
 
-p) Realizar las tareas que el Ministro de Hacienda le encomiende en el ámbito del personal del sector público, y
+p) Realizar las tareas que el Ministro de Hacienda le encomiende en el ámbito del personal del sector público;
 
-q) Ejecutar las demás funciones que le encomienden las leyes y los reglamentos.
+q) Impartir normas de aplicación general en materias de gestión y desarrollo de personas a los ministerios y sus servicios dependientes o relacionados a través de ellos, para su implementación descentralizada, tendientes a estandarizar materias relativas a reclutamiento y selección de personas, concursos de ingreso y promoción, programas de inducción, programas de capacitación, sistemas de promoción, sistema de calificaciones y otras materias referidas a buenas prácticas laborales. Respecto de dichas materias, la Dirección Nacional del Servicio Civil podrá solicitar información a las instituciones antes señaladas. Además, deberá velar por el cumplimiento de las normas que imparta e informar semestralmente a la Contraloría General de la República sobre el particular;
+
+r) Visar los reglamentos especiales de calificaciones de las instituciones señaladas en la letra anterior;
+
+s) Impartir a los ministerios y sus servicios dependientes o relacionados a través de ellos, normas de aplicación general para la elaboración de códigos de ética sobre conducta funcionaria;
+
+t) Difundir y promover el cumplimiento de las normas de probidad administrativa y transparencia en los ministerios y sus servicios dependientes o relacionados a través de ellos;
+
+u) Impartir directrices de carácter general para la formulación, seguimiento y evaluación de los convenios de desempeño de los altos directivos públicos;
+
+v) Informar, en enero de cada año, al Consejo de Alta Dirección Pública, acerca de la duración de los procesos de selección, los programas de inducción y acompañamiento a altos directivos públicos efectuados, los costos del sistema, evaluación de los consultores externos a que se refiere la letra m), el desempeño de los profesionales expertos y el estado de cumplimiento de los convenios de desempeño de los altos directivos públicos que se hubieren registrado en la Dirección Nacional del Servicio Civil, durante los doce meses anteriores a la elaboración de dicho informe;
+
+w) Requerir, respecto de aquellos candidatos que integran alguna nómina, información para verificar antecedentes referidos al cumplimiento de las exigencias derivadas de la probidad administrativa, inhabilidades e incompatibilidades y prevención de conflictos de intereses. Para tal efecto, podrá consultar bases de datos de carácter económico, financiero, bancario o comercial, relativos a juicios pendientes, condenas por crimen o simple delito de acción pública, inhabilidades declaradas por sentencia judicial para servir cargos u oficios públicos o sanciones administrativas de separación o destitución de empleos o cargos públicos. Estos antecedentes podrán solicitarse, incluso respecto de aquellas instituciones cuya entrega de información se encuentre amparada por algún tipo de reserva. En este último caso, el personal de la Dirección Nacional del Servicio Civil que tome conocimiento de dicha información estará sujeto a la misma norma legal que ampara la reserva y su infracción constituirá una falta grave a la probidad. Esta información tendrá el carácter de confidencial, por el plazo de diez años contado desde la entrega de los antecedentes a la autoridad encargada del nombramiento;
+
+x) Diseñar e implementar programas de inducción y acompañamiento para los altos directivos públicos, y
+
+y) Ejecutar las demás funciones que le encomienden las leyes y los reglamentos.
 
 Las facultades y funciones antedichas, serán sin perjuicio de aquellas que corresponden a la Contraloría General de la República.
 
@@ -310,15 +328,23 @@ La dirección superior, la organización y la administración de la Dirección N
 
 #### Artículo 4°
 
-Para los efectos de dar cumplimiento a sus funciones en el área de la Alta Dirección Pública, y en especial las enumeradas en las letras d) a h) del artículo segundo, la Dirección Nacional consultará en su estructura orgánica y funcional una Subdirección de Alta Dirección Pública.
+Para los efectos de dar cumplimiento a sus funciones en el área de la Alta Dirección Pública, y en especial las enumeradas en las letras
+
+- **d)** a
+
+- **h)** del artículo segundo, la Dirección Nacional consultará en su estructura orgánica y funcional una Subdirección de Alta Dirección Pública. Además, para dar cumplimiento a sus funciones en el área de gestión y desarrollo de personas y en especial las enumeradas en las letras a), b), c), i), j), k), l), m), ñ), q),
+
+- **r)** y
+
+- **s)** del artículo 2, se consultará en su estructura orgánica y funcional una Subdirección de Gestión y Desarrollo de Personas.
 
 #### Artículo 5°
 
-Establécese un Consejo Triministerial integrado por los ministros de Hacienda, del Trabajo y Previsión Social y Secretario General de la Presidencia, encargado de velar por la calidad técnica y la coherencia intersectorial en el desarrollo de las diversas funciones que le corresponden a la Dirección Nacional del Servicio Civil. Este Consejo se reunirá a lo menos dos veces al año y su secretaría ejecutiva estará radicada en la Dirección Nacional. El propio Consejo fijará las normas de su funcionamiento.
+Establécese un Consejo Triministerial integrado por los ministros de Hacienda, del Trabajo y Previsión Social y Secretario General de la Presidencia, encargado de velar por la calidad técnica y la coherencia intersectorial en el desarrollo de las diversas funciones que le corresponden a la Dirección Nacional del Servicio Civil. El Consejo se reunirá, al menos, una vez al año y fijará sus propias normas de funcionamiento. En dicha sesión, la Dirección Nacional del Servicio Civil presentará, para conocimiento del Consejo, su balance de gestión integral y, para aprobación del mismo, el plan estratégico institucional. La secretaría ejecutiva del Consejo estará radicada en la Dirección Nacional del Servicio Civil.
 
 Asimismo, créase un Comité Consultivo integrado, entre otros, por expertos en gestión de recursos humanos en el sector público, representantes de la Administración, y de las asociaciones de funcionarios de la Administración del Estado. Uno de estos representantes corresponderá a la entidad nacional que agrupe a las asociaciones de funcionarios de las instituciones afectas a la ley N° 19.553, que según el número de afiliados posea mayor representatividad.
 
-Un reglamento, expedido a través del Ministerio de Hacienda, regulará las funciones e integración del Comité Consultivo y la forma de designación de sus miembros.
+Un reglamento, expedido a través del Ministerio de Hacienda, regulará las funciones e integración del Comité Consultivo y la forma de designación de sus miembros. A éstos les serán aplicables las inhabilidades consagradas en el inciso segundo del artículo cuadragésimo séptimo de esta ley.
 
 #### Artículo 6°
 
@@ -786,13 +812,17 @@ Para el año 2012 el porcentaje será de 9,2%, para el año 2013 será de 9,5% y
 
 DEL SISTEMA DE ALTA DIRECCIÓN PÚBLICA
 
+> **Nota.** El Artículo 2° de la Ley 20955, publicada el 20.10.2016, incorpora al Sistema de Alta Dirección Pública del presente Título nuevos los siguientes servicios, en los niveles jerárquicos que el el citado artículo se indica.
+
 ### Párrafo 1°
 
 Normas generales y bases del Sistema
 
 ARTÍCULO TRIGÉSIMO QUINTO.- Establécese un Sistema de Alta Dirección Pública, que se regirá por las disposiciones de la presente ley y, supletoriamente, por aquellas que más adelante se indican, al que estarán sujetos los funcionarios de la exclusiva confianza de la autoridad competente que se señalarán, que desempeñen cargos de jefaturas en la dirección de órganos o servicios públicos o en unidades organizativas de éstos, y cuyas funciones sean predominantemente de ejecución de políticas públicas y de provisión directa de servicios a la comunidad. Para los efectos de esta ley, estos funcionarios se denominarán "altos directivos públicos".
 
-ARTÍCULO TRIGÉSIMO SEXTO.- El Sistema de Alta Dirección Pública se aplicará en servicios públicos regidos por el Título II de la ley N° 18.575, con excepción de las subsecretarías, Presidencia de la República, Servicio Electoral, Consejo de Defensa del Estado, Casa de Moneda de Chile, Dirección de Seguridad Pública e Informaciones, Dirección General de Relaciones Económicas Internacionales, Comité de Inversiones Extranjeras, Corporación de Fomento de la Producción, Superintendencia de Valores y Seguros, Superintendencia de Bancos e Instituciones Financieras, Servicio de Impuestos Internos, Dirección de Presupuestos, Gendarmería de Chile, Servicio Nacional de Menores, Dirección General de Obras Públicas, Dirección de Planeamiento del Ministerio de Obras Públicas, Oficina de Estudios y Políticas Agrarias, Dirección del Trabajo, Fondo Nacional de Salud, Comisión Nacional de Energía, Servicio Nacional de la Mujer, Instituto Nacional de la Juventud, Corporación Nacional de Desarrollo Indígena, Servicio Nacional del Adulto Mayor, Comisión Nacional del Medio Ambiente, Dirección Nacional del Servicio Civil Consejo Nacional de la Cultura y las Artes y las Instituciones de Educación Superior de carácter estatal.
+ARTÍCULO TRIGÉSIMO SEXTO.- El Sistema de Alta Dirección Pública se aplicará en servicios públicos regidos por el Título II de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1, de 2000, del Ministerio Secretaría General de la Presidencia, con excepción de la Presidencia de la República, subsecretarías, Consejo de Defensa del Estado, Agencia Nacional de Inteligencia, Dirección General de Relaciones Económicas Internacionales, Corporación de Fomento de la Producción, Superintendencia de Valores y Seguros, Superintendencia de Bancos e Instituciones Financieras, Dirección de Presupuestos, Consejo Nacional de la Cultura y las Artes y las instituciones de educación superior de carácter estatal. Tampoco se aplicará el Sistema de Alta Dirección Pública a los siguientes servicios, con excepción de los cargos que se señalan a continuación: en la Dirección Nacional del Servicio Civil, a los cargos de subdirectores; en la Dirección General de Obras Públicas y en la Dirección de Planeamiento del Ministerio de Obras Públicas, a los cargos del segundo nivel jerárquico; en Gendarmería de Chile, a los subdirectores técnico y de administración y finanzas; y, en el Servicio de Impuestos Internos, al cargo de Director Nacional.
+
+Lo establecido en este artículo es sin perjuicio de lo que dispongan otras leyes especiales que hagan aplicable los procesos de selección regulados por el Párrafo 3° del Título VI de esta ley o cualquier otra disposición relativa a dicho Sistema.
 
 ARTÍCULO TRIGÉSIMO SÉPTIMO.- Los cargos cuyo ejercicio se entregue a altos directivos públicos deberán corresponder a jefes superiores de servicio y al segundo nivel jerárquico del respectivo organismo.
 
@@ -808,7 +838,7 @@ ARTÍCULO CUADRAGÉSIMO.- Los altos directivos públicos responderán por la ges
 
 La competencia profesional, la integridad y probidad son criterios básicos que han de prevalecer en el acceso al Sistema de Alta Dirección Pública, así como para la evaluación de los directivos que la integran.
 
-Para ejercer un cargo de alta dirección pública se requerirá estar en posesión de un título de una carrera de, a lo menos, 8 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocidos por éste y acreditar una experiencia profesional no inferior a 5 años, sin perjuicio de otros requisitos que pueda exigir la ley para cargos determinados.
+Para ejercer un cargo de alta dirección pública se requerirá estar en posesión de un título de una carrera de, a lo menos, 8 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocidos por éste y acreditar una experiencia profesional no inferior a 5 años, sin perjuicio de otros requisitos que pueda exigir la ley para cargos determinados. Para el cómputo de la duración de la carrera que da origen al título profesional de pregrado, podrán sumarse los estudios de post grado realizados por el mismo candidato.
 
 ### Párrafo 2°
 
@@ -818,13 +848,13 @@ ARTÍCULO CUADRAGÉSIMO PRIMERO.- Establécese en la estructura de la Dirección
 
 ARTÍCULO CUADRAGÉSIMO SEGUNDO.- Corresponderán al Consejo las siguientes funciones:
 
-a) Conducir y regular los procesos de selección de candidatos a cargos de jefes superiores de servicio del sistema.
+a) Regular los procesos de selección de candidatos a cargos del Sistema de Alta Dirección Pública, o aquellos que deben ser seleccionados con su participación o con arreglo a sus procedimientos, y conducir los procesos destinados a proveer cargos de jefes superiores de servicio del Sistema.
 
 b) Resolver la contratación de empresas especializadas en selección de personal para asesorar o realizar todo o parte de las labores involucradas en los procesos de selección, entre aquellas del registro que al efecto lleve la Dirección Nacional del Servicio Civil.
 
-c) Revisar y aprobar los perfiles profesionales de los candidatos propuestos por el ministro del ramo que correspondan al jefe de servicio que se requiera proveer, pudiendo para este efecto proponer criterios generales a la Dirección Nacional del Servicio Civil.
+c) Revisar y aprobar los perfiles profesionales de los candidatos propuestos por el ministro o el subsecretario del ramo, actuando este último por delegación del primero, o por el jefe de servicio respectivo, según corresponda, para proveer cargos del Sistema de Alta Dirección Pública, pudiendo para este efecto proponer criterios generales a la Dirección Nacional del Servicio Civil. En tal labor, deberá especialmente resguardar que los perfiles de cargo sean formulados en términos tales que permitan un proceso de selección competitivo, fundado en las necesidades objetivas del respectivo cargo, y que en caso alguno permitan beneficiar a un determinado postulante.
 
-d) Proponer al Presidente de la República una nómina de entre 3 y 5 de los candidatos seleccionados en el proceso de selección efectuado para la provisión de un cargo de jefe de servicio.
+d) Proponer al Presidente de la República una nómina de 3 o 4 candidatos seleccionados en el proceso de selección efectuado para la provisión de un cargo de jefe de servicio.
 
 e) Participar en el Comité de Selección de directivos del segundo nivel jerárquico, mediante la designación de uno de sus integrantes de la letra b) del artículo siguiente o de un profesional experto de la nómina que al efecto deberá elaborar. Estos profesionales expertos deberán tener reconocidas capacidades en las áreas de administración de personal y/o políticas públicas.
 
@@ -832,17 +862,23 @@ f) Conocer de los reclamos interpuestos por los participantes en los procesos de
 
 g) Proponer al Ministro de Hacienda los porcentajes de la Asignación de Alta Dirección Pública para los jefes superiores de servicio del Sistema, tomando en consideración los antecedentes recabados relativos a los niveles de tecnificación y de responsabilidad de las respectivas instituciones y los perfiles requeridos, así como el conocimiento obtenido de las remuneraciones de mercado en el sector público o privado para funciones afines o asimilables.
 
-h) Proponer a la Dirección Nacional del Servicio Civil las medidas y normas generales que juzgue necesarias para el mejor funcionamiento del Sistema de Alta Dirección Pública y absolver las consultas que la Dirección Nacional le efectúe sobre la materia, incluyendo entre éstas las relacionadas con los convenios de desempeño y su evaluación, e
+h) Proponer a la Dirección Nacional del Servicio Civil las medidas y normas generales que juzgue necesarias para el mejor funcionamiento del Sistema de Alta Dirección Pública y absolver las consultas que la Dirección Nacional le efectúe sobre la materia, incluyendo entre éstas las relacionadas con los convenios de desempeño y su evaluación.
 
-i) Proponer el nombramiento y remoción del Secretario del Consejo.
+i) Conocer y aprobar directrices para el diseño e implementación de los planes y programas de inducción, acompañamiento, formación y desarrollo de altos directivos públicos, elaborados por la Dirección Nacional del Servicio Civil.
+
+j) Aprobar, con el acuerdo de cuatro de sus miembros y por razones fundadas, la utilización del mecanismo de gestión de candidatos establecido en el inciso tercero del artículo quincuagésimo cuarto, para cada concurso que lo requiera.
+
+k) Informar, en el mes de mayo de cada año, a las Comisiones de Hacienda del Senado y de la Cámara de Diputados sobre el funcionamiento del Sistema de Alta Dirección Pública y especialmente, acerca de la duración de los procesos de selección, los costos del sistema, evaluación de los consultores externos a que se refiere la letra m) del artículo 2 de la ley orgánica de la Dirección Nacional del Servicio Civil, contenida en el artículo vigésimo sexto de esta ley, y el desempeño de los profesionales expertos, así como también, los programas de inducción y acompañamiento efectuados a altos directivos públicos e información estadística referida al cumplimiento de los convenios de desempeño de los altos directivos públicos. El Consejo remitirá, previamente, copia de este informe al Ministro de Hacienda.
+
+l) Proponer el nombramiento y remoción del Secretario del Consejo.
 
 ARTÍCULO CUADRAGÉSIMO TERCERO.- El Consejo estará integrado por:
 
 a) El Director de la Dirección Nacional del Servicio Civil, que lo presidirá, y
 
-b) Cuatro Consejeros designados por el Presidente de la República, ratificados por el Senado, los cuales durarán seis años en sus funciones.
+b) Cuatro Consejeros designados por el Presidente de la República, ratificados por el Senado, los cuales durarán seis años en sus funciones. El Presidente hará la proposición cautelando que en la integración del Consejo se respete el pluralismo.
 
-Para el solo efecto de participar en el proceso de selección correspondiente a un jefe de servicio y durante el tiempo que aquel dure, se integrará el subsecretario del ramo, quien sólo tendrá derecho a voz.
+Para el solo efecto de participar en el proceso de selección correspondiente a un jefe de servicio , y hasta aquella sesión en que el Consejo decida el número de candidatos a entrevistar, se integrará el subsecretario del ramo, quien sólo tendrá derecho a voz.
 
 El Consejo contará con un secretario que será responsable de las actas de sesiones. Para este efecto la planta de la Dirección Nacional del Servicio Civil contará con un cargo de exclusiva confianza, el que será provisto por el Director a proposición del Consejo.
 
@@ -868,91 +904,173 @@ El consejero que adquiera una calidad que lo inhabilite para desempeñar la func
 
 e) Falta grave al cumplimiento de las obligaciones como consejero. Serán faltas graves, la inasistencia injustificada a tres sesiones consecutivas o a seis sesiones durante un semestre calendario y no guardar la debida reserva de los procesos de selección que se lleven a cabo en el consejo, entre otras, así calificadas por el Senado, por los cuatro séptimos de sus miembros en ejercicio, a proposición del Presidente de la República.
 
-Los consejeros de la letra b) del artículo 43, percibirán una dieta equivalente a quince unidades de fomento por cada sesión a que asistan, con un máximo de 100 de estas unidades por mes calendario.
+Los consejeros de la letra b) del artículo 43, percibirán una dieta equivalente a quince unidades de fomento por cada sesión a que asistan, con un máximo de 120 de estas unidades por mes calendario.
 
-El consejero o el profesional experto que integre el Comité de Selección de los directivos de segundo nivel de jerarquía tendrá derecho a una dieta de 5 unidades de fomento por cada sesión a que asista, con un máximo de 50 de estas unidades por cada mes calendario.
+El consejero o el profesional experto que integre el Comité de Selección de los directivos de segundo nivel de jerarquía tendrá derecho a una dieta de 5 unidades de fomento por cada sesión a que asista, con un máximo de 60 de estas unidades por cada mes calendario.
 
 ARTÍCULO CUADRAGÉSIMO SEXTO.- El consejo tomará sus decisiones por la mayoría de sus miembros y en caso de empate resolverá su Presidente. El quórum mínimo para sesionar será de 3 miembros con derecho a voto.
 
 Un reglamento, que será aprobado por decreto supremo del Ministerio de Hacienda, establecerá las normas necesarias para el funcionamiento del consejo y para la adecuada ejecución de las funciones que le son encomendadas.
 
-ARTÍCULO CUADRAGÉSIMO SÉPTIMO.- El desempeño de labores de consejero será incompatible con el ejercicio de cargos directivos unipersonales en los órganos de dirección de los partidos políticos. Del mismo modo serán inhábiles los consejeros que por sí, o su cónyuge o sus parientes hasta el primer grado de consanguinidad, tengan control sobre la administración o participen de la propiedad de empresas o instituciones relacionadas con procesos de selección de personal, inscritas en el registro que al efecto mantenga la Dirección Nacional del Servicio Civil.
+ARTÍCULO CUADRAGÉSIMO SÉPTIMO.- Los cargos de consejeros son incompatibles con el ejercicio del cargo de diputado, senador, ministro de Estado, subsecretario, intendente, gobernador, alcalde, concejal y consejero regional. Tampoco podrán ser consejeros los funcionarios públicos de exclusiva confianza, los ministros del Tribunal Constitucional, los miembros del Poder Judicial, los funcionarios de la Contraloría General de la República, los consejeros del Banco Central, los fiscales del Ministerio Público, los miembros del Tribunal Calificador de Elecciones y de los Tribunales Electorales Regionales, ni los miembros de las Fuerzas Armadas y de Orden y Seguridad Pública. También son incompatibles con el ejercicio de cargos directivos unipersonales en los órganos de dirección de los partidos políticos.
 
-Por otra parte, cuando participen en el proceso de selección personas que tengan la calidad de cónyuge, hijos o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive, el consejero deberá inhabilitarse.
+Del mismo modo, serán inhábiles los consejeros que por sí, o su cónyuge o conviviente civil o sus parientes hasta el primer grado de consanguinidad, tengan control sobre la administración o participen de la propiedad de empresas o instituciones relacionadas con procesos de selección de personal, inscritas en el registro que al efecto mantenga la Dirección Nacional del Servicio Civil. Por otra parte, cuando participen en un proceso de selección personas que tengan la calidad de cónyuge, conviviente civil, hijos o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive, del consejero, éste deberá inhabilitarse. También deberá hacerlo cuando el concurso tenga por objeto proveer un cargo de alto directivo público de una institución en la cual se encuentre prestando servicios.
+
+Los consejeros deberán presentar la declaración de intereses y de patrimonio a que se refiere la ley N° 20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses.
 
 ### Párrafo 3°
 
 De la selección de los altos directivos públicos
 
-ARTÍCULO CUADRAGÉSIMO OCTAVO.- Para los efectos de proveer las vacantes de cargos de alta dirección, el Consejo de Alta Dirección Pública, por intermedio de la Dirección Nacional del Servicio Civil, convocará a un proceso de selección público abierto, de amplia difusión, que se comunicará, a lo menos, mediante avisos publicados en diarios de circulación nacional, en medios electrónicos a través de las páginas web institucionales u otras que se creen y en el Diario Oficial. En los anuncios se dará información suficiente, entre otros factores, respecto de las funciones del cargo, el perfil profesional, las competencias y aptitudes requeridas para desempeñarlo, el nivel referencial de remuneraciones, el plazo para la postulación y la forma en que deberán acreditarse los requisitos.
+ARTÍCULO CUADRAGÉSIMO OCTAVO.- Para los efectos de proveer las vacantes de cargos de alta dirección, el Consejo de Alta Dirección Pública, previa aprobación del perfil del cargo y por intermedio de la Dirección Nacional del Servicio Civil, convocará a un proceso de selección público abierto, de amplia difusión, que se comunicará, a lo menos, mediante avisos publicados en medios electrónicos a través de las páginas web institucionales, el sitio web de la referida Dirección u otras que se creen y en el Diario Oficial. En los anuncios se dará información suficiente, entre otros factores, respecto de las funciones del cargo, el perfil profesional, las competencias y aptitudes requeridas para desempeñarlo, el nivel referencial de remuneraciones, el plazo para la postulación y la forma en que deberán acreditarse los requisitos.
+
+La autoridad competente deberá informar a la Dirección Nacional del Servicio Civil los cargos de alta dirección pública que se encuentren vacantes, dentro de los cinco días siguientes a que se produzca la vacancia, o dentro de los cinco días siguientes desde que haya sido adoptada la decisión a que se refiere el inciso tercero del artículo quincuagésimo séptimo. El incumplimiento de esta obligación irrogará la responsabilidad administrativa correspondiente.
+
+Durante los ocho meses anteriores al inicio de un nuevo período presidencial, se requerirá la autorización del Consejo de Alta Dirección Pública para convocar a los procesos de selección de cargos de alta dirección pública. Esta autorización será requerida por el subsecretario del ramo o jefe superior de servicio, según corresponda, y para aprobarse requerirá, al menos, cuatro votos favorables. Tanto el requerimiento como la autorización referidos deberán fundarse exclusivamente en razones de buen servicio, cuyos fundamentos se deberán señalar expresamente.
+
+La Dirección Nacional del Servicio Civil creará y administrará un registro con la información de aquellas personas seleccionadas o que hubieren postulado en procesos de selección de cargos del Sistema de Alta Dirección Pública o que hayan sido provistos mediante dicho Sistema. Quienes integren este registro serán invitados a participar en los concursos siempre que cumplan con el perfil del cargo respectivo, de acuerdo a lo que establezca el reglamento. Lo anterior no conferirá preferencia ni podrá considerarse como mérito en el respectivo proceso de selección.
 
 Prohíbese todo acto de discriminación que se traduzca en exclusiones o preferencias basadas en motivos diferentes de los méritos, calificaciones, competencias y aptitudes exigidas para el desempeño del respectivo cargo. Todos los postulantes a un cargo participarán en el proceso de selección conforme a procedimientos uniformes y en igualdad de condiciones.
 
-ARTÍCULO CUADRAGÉSIMO NOVENO.- Los ministros respectivos deberán definir los perfiles profesionales y de competencias y aptitudes que deberán cumplir los candidatos a los cargos de jefes superiores de servicio. Estos perfiles deberán ser aprobados por el Consejo de Alta Dirección Pública y ser enviados a la Dirección Nacional del Servicio Civil para su registro.
+ARTÍCULO CUADRAGÉSIMO NOVENO.- Los ministros o subsecretarios del ramo, actuando estos últimos por delegación de los primeros, y los jefes de servicio respectivos, deberán proponer al Consejo los perfiles profesionales y de competencias y aptitudes que deberán cumplir los candidatos a los cargos de alta dirección pública. La propuesta de perfil deberá incluir los lineamientos generales para el respectivo convenio de desempeño.
 
-En el caso de los altos directivos públicos del segundo nivel jerárquico de la respectiva institución, corresponderá a los jefes superiores de servicio definir dichos perfiles.
+En el caso de los altos directivos públicos del segundo nivel jerárquico de la respectiva institución, corresponderá a los jefes superiores de servicio definir dichos perfiles. Estos perfiles deberán ser aprobados por el Consejo de Alta Dirección Pública y comunicados a la Dirección Nacional del Servicio Civil para su registro.
 
-ARTÍCULO QUINCUAGÉSIMO.- El consejo entregará, en carácter reservado, la nómina de entre 3 y 5 candidatos seleccionados, acompañada de los antecedentes profesionales y laborales de los mismos, así como la evaluación a que se refiere el inciso segundo del artículo quincuagésimo tercero, sin expresar preferencia por ninguno de ellos.
+Al producirse la vacancia de un cargo de alta dirección pública, se entenderá vigente el último perfil aprobado por el Consejo para el cargo que se concursa, salvo que el ministro o el subsecretario del ramo, actuando este último por delegación del primero, o el jefe de servicio respectivo, según corresponda, envíe una nueva propuesta de perfil a la Dirección Nacional del Servicio Civil dentro del plazo de quince días hábiles contado desde dicha vacancia.
 
-ARTÍCULO QUINCUAGÉSIMO PRIMERO.- El Presidente de la República podrá nombrar a uno de los candidatos propuestos por el consejo o declarar desierto el proceso de selección, caso en el cual se realizará un nuevo proceso de selección. Una misma persona no podrá ser incluida en más de una nómina.
+La Dirección Nacional del Servicio Civil dictará normas de aplicación general para la elaboración de las propuestas de perfiles respecto de los cargos de alta dirección pública por parte de las autoridades competentes.
 
-ARTÍCULO QUINCUAGÉSIMO SEGUNDO.- El proceso de selección de los altos directivos públicos correspondientes al segundo nivel jerárquico, será conducido por un comité de selección que estará integrado por un representante del jefe superior del servicio respectivo, que deberá ser funcionario de la planta directiva del mismo, un representante del ministro del ramo y un miembro del Consejo de la Alta Dirección Pública o un representante de éste elegido de una lista de profesionales aprobada por el propio consejo.
+ARTÍCULO CUADRAGÉSIMO NOVENO BIS.- La Dirección Nacional podrá realizar convocatorias para recibir antecedentes curriculares antes de generarse las vacantes respectivas siempre que se trate de cargos con perfiles análogos a otros ya aprobados, para ser sometidos a una preevaluación de candidatos destinada a determinar su idoneidad. En el caso de ser considerados idóneos, dichos candidatos serán incorporados directamente a la fase de evaluación de los respectivos procesos de selección.
 
-El comité de selección propondrá al jefe superior del servicio respectivo una nómina de entre tres y cinco candidatos por cada cargo a proveer. El jefe superior del servicio podrá declarar desierto un concurso, caso en el cual se realizará un nuevo proceso de selección.
+ARTÍCULO QUINCUAGÉSIMO.- El consejo entregará, en carácter reservado, la nómina de 3 o 4 candidatos seleccionados, acompañada de los antecedentes profesionales y laborales de los mismos, así como la evaluación a que se refiere el inciso segundo del artículo quincuagésimo tercero, sin expresar preferencia por ninguno de ellos.
+
+ARTÍCULO QUINCUAGÉSIMO PRIMERO.- El Presidente de la República, dentro del plazo máximo de noventa días contado desde la recepción de la nómina a que se refiere el artículo anterior, podrá nombrar a uno de los candidatos propuestos por el Consejo o declarar desierto el proceso de selección, caso en el cual se realizará un nuevo proceso de selección. Transcurrido el plazo antes señalado sin que el Presidente de la República haya ejercido su facultad, se entenderá declarado desierto el proceso de selección.
+
+Quien haya integrado una nómina rechazada por el Presidente de la República no podrá ser incluido en una nueva nómina para proveer el mismo cargo, durante ese mismo período presidencial.
+
+ARTÍCULO QUINCUAGÉSIMO SEGUNDO.- El proceso de selección de los altos directivos públicos correspondientes al segundo nivel jerárquico, será conducido por un comité de selección que estará integrado por un representante del jefe superior del servicio respectivo, que deberá ser funcionario de la planta directiva o del estamento profesional del mismo, un representante del ministro o subsecretario del ramo, actuando este último por delegación del primero, y un miembro del Consejo de la Alta Dirección Pública o un representante de éste elegido de una lista de profesionales aprobada por el propio consejo.
+
+El comité de selección requerirá de la concurrencia de la mayoría de sus integrantes para constituirse, sesionar, entrevistar y adoptar decisiones. Deberá estar siempre presente el representante del Consejo de Alta Dirección Pública, quien lo presidirá.
+
+El ministro o subsecretario del ramo, cuando este último actúe por delegación del primero, y el jefe de servicio, deberán comunicar a la Dirección Nacional del Servicio Civil los nombres de sus respectivos representantes en el comité de selección, dentro de diez días hábiles contados desde la vacancia del cargo respectivo. Si no se efectúa la comunicación dentro de este plazo, el Consejo de Alta Dirección Pública designará a un profesional experto para conformar el comité de selección.
+
+El comité de selección propondrá al jefe superior del servicio respectivo una nómina de 3 o 4 candidatos por cada cargo a proveer. El jefe superior de servicio deberá entrevistar a los candidatos incluidos en la nómina, de lo cual deberá informar por escrito a la Dirección Nacional del Servicio Civil y podrá nombrar o declarar desierto un concurso, caso en el cual se realizará un nuevo proceso de selección. El jefe superior de servicio podrá declarar desierto un proceso de selección, por una única vez dentro de un concurso.
+
+Quien haya integrado una nómina rechazada por el jefe superior de servicio no podrá ser incluido en una nueva nómina para proveer el mismo cargo, salvo que la autoridad que realiza el nombramiento sea diferente de aquélla que ejercía el cargo en el momento de declarar desierto el concurso.
+
+El jefe superior de servicio dispondrá de un plazo máximo de veinte días hábiles, contado desde la recepción de la nómina de candidatos propuesta por el comité de selección, para comunicar a la Dirección Nacional del Servicio Civil el nombramiento respectivo o la declaración de desierto del proceso de selección, en su caso. En caso de que dicha autoridad no se pronuncie dentro del plazo mencionado, se entenderá que declara desierto el proceso.
+
+Si habiéndose iniciado un nuevo proceso de selección por haberse declarado desierto el anterior venciere nuevamente el plazo dispuesto en el inciso anterior sin que se haya realizado un nombramiento, el Consejo podrá declararlo desierto, por resolución fundada. Dicha facultad sólo podrá ejercerla por una sola vez, en el término de diez días contado desde el vencimiento del plazo referido.
+
+En el caso que el Consejo no ejerza esta facultad, el jefe de servicio deberá nombrar al candidato de la nómina que hubiere obtenido el mayor puntaje en el último proceso de selección. El mismo efecto se producirá si, habiendo el Consejo ejercido dicha facultad, y ante un nuevo proceso de selección con su respectiva nómina, el plazo establecido en el inciso sexto venciere nuevamente.
 
 ARTÍCULO QUINCUAGÉSIMO TERCERO.- La selección será un proceso técnico de evaluación de los candidatos, que incluirá entre otros aspectos, la verificación de los requisitos y la evaluación de los factores de mérito y de las competencias específicas.
 
 La evaluación se expresará en un sistema de puntajes.
 
-ARTÍCULO QUINCUAGÉSIMO CUARTO.- El consejo y el comité de selección sólo podrán incluir en la propuesta de nombramiento que formulen a la autoridad competente, a aquellos candidatos que hayan acreditado los requisitos exigidos para el desempeño del cargo y que respondan al perfil profesional definido. Ambos organismos podrán entrevistar a los candidatos que así determinen, según el ámbito que les corresponda.
+ARTÍCULO QUINCUAGÉSIMO CUARTO.- El consejo y el comité de selección sólo podrán incluir en la propuesta de nombramiento que formulen a la autoridad competente, a aquellos candidatos que hayan acreditado los requisitos exigidos para el desempeño del cargo y que respondan al perfil profesional definido. Ambos organismos podrán entrevistar a los candidatos que así determinen, con la presencia de, a lo menos, dos de sus miembros.
 
-En el caso de no haber a lo menos tres candidatos, el proceso deberá repetirse. Del mismo modo, tanto el consejo como el comité, podrán fundadamente declarar desierto un proceso de selección.
+El consejo o el comité de selección, en su caso, podrán declarar desierto un proceso de selección si determinan que no se reúnen, al menos, tres candidatos idóneos para conformar la nómina respectiva.
+
+Sin perjuicio de lo dispuesto en el inciso anterior, el Consejo de Alta Dirección Pública, con el acuerdo de cuatro de sus miembros y por razones fundadas, podrá:
+
+a) Incorporar en el proceso de selección, con su autorización y antes de la etapa de entrevistas, a candidatos que en los últimos veinticuatro meses hayan formado parte de una nómina para cargos de jefe superior de servicio o segundo nivel jerárquico, en concursos destinados a proveer cargos de naturaleza equivalente, sin perjuicio de lo señalado en el inciso segundo del artículo quincuagésimo primero e inciso quinto del artículo quincuagésimo segundo.
+
+b) Incorporar en el proceso de selección, con su autorización y antes de la etapa de entrevistas, a altos directivos públicos, en ejercicio o no, que hayan ejercido el cargo por al menos un periodo de dos años y cuyo cumplimiento de su convenio de desempeño haya sido igual o superior al 90 por ciento.
+
+Las incorporaciones señaladas en el inciso anterior, se realizarán utilizando el registro a que se refiere el inciso cuarto del artículo cuadragésimo octavo.
+
+Un reglamento establecerá la forma y las condiciones que deberán observarse para la aplicación del mecanismo señalado en el inciso tercero de este artículo.
 
 Deberá estar disponible para los postulantes información relevante sobre la gestión del servicio respectivo, durante el proceso de selección.
 
-ARTÍCULO QUINCUAGÉSIMO QUINTO.- El proceso de selección tendrá el carácter de confidencial, manteniéndose en reserva la identidad de cada candidato. La Dirección Nacional del Servicio Civil dispondrá las medidas necesarias para garantizar esta condición.
+ARTÍCULO QUINCUAGÉSIMO QUINTO.- El proceso de selección y sus antecedentes tendrán el carácter de públicos, sin perjuicio de las reservas que expresamente establezca la ley.
 
-ARTÍCULO QUINCUAGÉSIMO SEXTO.- Los postulantes de un proceso de selección, una vez concluido éste, tendrán derecho a reclamar ante el consejo, cuando consideren que se han producido vicios o irregularidades que afecten su participación igualitaria conforme a las disposiciones de la presente ley. Para estos efectos tendrán un plazo de cinco días contados desde el cierre del proceso.
+Con todo, serán públicos los siguientes antecedentes, de conformidad con lo dispuesto por la ley Nº 20.285, sobre Acceso a la Información Pública, sólo una vez nombrado el alto directivo público o declarado desierto el concurso:
 
-Dentro del plazo de diez días el consejo podrá desestimar el reclamo o acogerlo, pudiendo, en este caso, corregir o repetir el procedimiento aplicado o anular el proceso de selección de un jefe superior de servicio.
+a) Los antecedentes curriculares de quien sea nombrado, debiendo resguardarse sus datos sensibles en conformidad con la ley, y
 
-El Consejo de Alta Dirección Pública mediante acuerdo al que deberán concurrir a lo menos tres de los cuatro consejeros designados con ratificación del Senado, podrá solicitar fundadamente a la Dirección Nacional del Servicio Civil, la rectificación o anulación de un proceso de selección de los directivos de segundo nivel jerárquico.
+b) Los puntajes finales de los candidatos incluidos en las nóminas a las que se refieren los artículos quincuagésimo y quincuagésimo segundo de esta ley, resguardando la reserva de la identidad de las personas nominadas.
+
+Asimismo, cada postulante podrá solicitar su puntaje final y el resultado de su evaluación.
+
+Sin perjuicio de lo anterior, siempre tendrán el carácter de confidencial los siguientes antecedentes:
+
+a) El nombre y otros atributos personales que permitan deducir la identidad de los candidatos.
+
+b) Las referencias entregadas por terceros sobre los candidatos.
+
+c) Los puntajes de los candidatos, excepto en los casos señalados en la letra b) del inciso segundo y en el inciso tercero.
+
+d) Las opiniones expertas y evaluaciones emitidas por las empresas especializadas en selección de personal sobre los candidatos, sin perjuicio de lo señalado en el inciso tercero.
+
+e) La nómina de candidatos.
+
+Las normas establecidas en este artículo serán aplicables a todos aquellos procesos de selección en que la ley disponga la utilización del proceso de selección regulado por el Párrafo 3° del Título VI de la presente ley o en los que participe la Dirección Nacional del Servicio Civil o el Consejo de Alta Dirección Pública o sus representantes.
+
+En el debido cumplimiento de las funciones de la Dirección Nacional del Servicio Civil y del Consejo para la adecuada operación del Sistema de Alta Dirección Pública, se mantendrá, por el plazo de nueve años contado desde el inicio de cada proceso de selección, el carácter secreto o reservado de los antecedentes a que se refiere el inciso cuarto de este artículo.
+
+La Dirección Nacional del Servicio Civil deberá elaborar un resumen ejecutivo de los procesos de selección y de la historia curricular de los candidatos entrevistados, por el Consejo o por los Comités respectivos, sin que de éste pueda inferirse la identidad de los postulantes. El resumen señalado deberá publicarse en el sitio web del Servicio dentro de los treinta días contados desde el nombramiento en el cargo o declarado desierto el concurso.
+
+ARTÍCULO QUINCUAGÉSIMO SEXTO.- Los postulantes de un proceso de selección, una vez concluido éste, tendrán derecho a reclamar ante el consejo, cuando consideren que se han producido vicios o irregularidades que afecten su participación igualitaria conforme a las disposiciones de la presente ley. Para estos efectos tendrán un plazo de cinco días hábiles, contado desde la notificación del cierre del proceso, la que se efectuará por correo electrónico, sin perjuicio de su publicación en la página web de la Dirección Nacional del Servicio Civil.
+
+Dentro del plazo de diez días el consejo podrá desestimar el reclamo o acogerlo, pudiendo, en este caso, corregir o repetir el procedimiento aplicado o anular el proceso de selección respectivo.
 
 Sólo una vez resuelto este recurso, los postulantes podrán recurrir ante la Contraloría General de la República, de conformidad con el artículo 154 de la ley N°18.834.
 
 La interposición de estos recursos no suspenderá el nombramiento resuelto por la autoridad competente.
 
+Cuando un candidato así lo acepte, todas las comunicaciones para efectos del proceso de reclamación podrán dirigirse a las direcciones de correo electrónico indicadas por los postulantes, sin perjuicio del envío por otra vía.
+
+Para efectos de lo dispuesto en el inciso primero, se entenderá por concluido el proceso de selección para proveer cargos de alta dirección pública, en la fecha de la notificación del acta del Consejo o del comité de selección, en la que conste la conformación de la respectiva nómina, o la declaración de desierto del mismo, según sea el caso.
+
+El Consejo, el comité de selección y la Dirección Nacional del Servicio Civil deberán velar por que en sus actuaciones se garantice la confidencialidad sobre la identidad de el o los reclamantes.
+
 ### Párrafo 4°
 
 Del nombramiento
 
-ARTÍCULO QUINCUAGÉSIMO SÉPTIMO.- La autoridad competente sólo podrá nombrar en cargos de alta dirección a alguno de los postulantes propuestos por el consejo o el comité de selección, según corresponda.
+ARTÍCULO QUINCUAGÉSIMO SÉPTIMO.- La autoridad competente sólo podrá nombrar en cargos de alta dirección a alguno de los postulantes propuestos por el consejo o el comité de selección, según corresponda. Si, después de comunicada una nómina a la autoridad, se produce el desistimiento de algún candidato que la integraba, podrá proveerse el cargo con alguno de los restantes candidatos que la conformaron. Con todo, la autoridad podrá solicitar al Consejo de Alta Dirección Pública complementar la nómina con otros candidatos idóneos del proceso de selección que la originó, respetando el orden de puntaje obtenido en dicho proceso.
 
-Los nombramientos tendrán una duración de tres años. La autoridad competente podrá renovarlos fundadamente, hasta dos veces, por igual plazo, teniendo en consideración las evaluaciones disponibles del alto directivo, especialmente aquellas relativas al cumplimiento de los acuerdos de desempeño suscritos.
+Los nombramientos tendrán una duración de tres años. La autoridad competente podrá renovarlos fundadamente, hasta dos veces, por igual plazo, teniendo en consideración las evaluaciones disponibles del alto directivo, especialmente aquellas relativas al cumplimiento de los convenios de desempeño suscritos.
 
-La decisión de la autoridad competente respecto de la renovación o término del periodo de nombramiento deberá hacerse con noventa días de anticipación a su vencimiento, comunicando tal decisión en forma conjunta al interesado y a la Dirección Nacional del Servicio Civil, la que procederá, si corresponde, a disponer el inicio de los procesos de selección.
+La decisión de la autoridad competente respecto de la renovación o término del periodo de nombramiento deberá hacerse con treinta días corridos de anticipación a su vencimiento, comunicando tal decisión en forma conjunta al interesado y a la Dirección Nacional del Servicio Civil, la que procederá, si corresponde, a disponer el inicio de los procesos de selección.
 
-Si el directivo designado renunciare dentro de los dos meses siguientes a su nombramiento, la autoridad competente podrá designar a otro de los integrantes de la nómina presentada por el consejo o el comité para dicho cargo.
+Si el directivo designado renunciare dentro de los seis meses siguientes a su nombramiento, la autoridad competente podrá designar a otro de los integrantes de la nómina presentada por el consejo o el comité para dicho cargo.
 
-Respecto de los altos directivos públicos, no será aplicable lo dispuesto en la letra e) del artículo 81 de la ley Nº18.834.
+Respecto de los altos directivos públicos, no será aplicable lo dispuesto en la letra e) del artículo 81 de la ley Nº18.834. Sin perjuicio de lo anterior, los funcionarios conservarán la propiedad del cargo de planta de que sean titulares durante el periodo en que se encuentren nombrados en un cargo de alta dirección pública, incluyendo sus renovaciones. Esta compatibilidad no podrá exceder de nueve años.
 
 ARTÍCULO QUINCUAGÉSIMO OCTAVO.- Sin perjuicio de lo establecido en el artículo anterior, los altos directivos públicos tendrán en materia de remoción la calidad de empleados de la exclusiva confianza de la autoridad facultada para disponer su nombramiento.
 
+Durante los seis primeros meses del inicio del respectivo período presidencial, la autoridad facultada para hacer el nombramiento de los altos directivos de segundo nivel jerárquico podrá solicitarles la renuncia, previa comunicación dirigida por escrito al Consejo de Alta Dirección Pública, la que deberá ser fundada. Dicho Consejo estará facultado para citar a la referida autoridad a informar sobre el grado de cumplimiento del convenio de desempeño y los motivos de la desvinculación del alto directivo.
+
 Cuando el cese de funciones se produzca por petición de renuncia, antes de concluir el plazo de nombramiento o de su renovación, y no concurra una causal derivada de su responsabilidad administrativa, civil o penal, o cuando dicho cese se produzca por el término del periodo de nombramiento sin que este sea renovado, el alto directivo tendrá derecho a gozar de la indemnización contemplada en el artículo 148 de la ley Nº18.834.
 
-ARTÍCULO QUINCUAGÉSIMO NOVENO.- De haber cargos de alta dirección vacantes, cualesquiera sea el número de los que se encuentren en esta condición, la autoridad facultada para hacer el nombramiento podrá proveerlos transitoria y provisionalmente, en tanto se efectúa el proceso de selección pertinente, con personas que cumplan con los requisitos legales y los perfiles exigidos para desempeñarlos. Estos nombramientos no podrán exceder de un periodo, improrrogable, de un año, contado desde la fecha de los mismos. Transcurrido este periodo el cargo sólo podrá proveerse de conformidad con lo establecido en los artículos cuadragésimo octavo y siguientes. Sin embargo, si los nombramientos no han podido ser resueltos, éstos podrán mantenerse en tal calidad provisional previo informe positivo de la Dirección Nacional del Servicio Civil.
+Asimismo, en los casos de petición de renuncia de los cargos de segundo nivel jerárquico, la autoridad facultada deberá expresar el motivo de la solicitud, que podrá basarse en razones de desempeño o de confianza.
 
-ARTÍCULO SEXAGÉSIMO.- La persona nombrada provisionalmente podrá postular al correspondiente proceso de selección que se convoque, no pudiendo en este caso considerarse como mérito el desempeño provisional del cargo que sirve.
+Con todo, previo a solicitar la renuncia de un subdirector de hospital afecto al Sistema de Alta Dirección Pública, la autoridad facultada para removerlo de dicho cargo deberá consultar al director del hospital respectivo.
+
+ARTÍCULO QUINCUAGÉSIMO NOVENO.- Si hubiere cargos de alta dirección pública vacantes, sólo se aplicarán las normas de la subrogación establecidas en la ley N° 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, sin que sea aplicable el mecanismo de la suplencia.
+
+No obstante lo establecido en el artículo 80 del referido decreto con fuerza de ley, la autoridad facultada para efectuar el nombramiento de los jefes superiores de servicios afectos al Sistema de Alta Dirección Pública podrá determinar para ellos otro orden de subrogación, para lo cual sólo podrá considerar funcionarios que sirvan cargos de segundo nivel jerárquico, nombrados conforme al Sistema de Alta Dirección Pública, cuando existan en el servicio respectivo.
+
+Las instituciones deberán informar a la Dirección Nacional del Servicio Civil los órdenes de subrogación vigentes para los cargos de alta dirección pública.
+
+ARTÍCULO SEXAGÉSIMO.- Los nombramientos que se efectúen de conformidad con el artículo trigésimo sexto bis se extenderán hasta el término del respectivo periodo presidencial, sin perjuicio de lo dispuesto en el inciso primero del artículo quincuagésimo octavo.
+
+Los altos directivos públicos nombrados en conformidad con el artículo trigésimo sexto bis no podrán ser incorporados en el proceso de selección mediante el mecanismo dispuesto en la letra b) del inciso tercero del artículo quincuagésimo cuarto.
+
+En lo no previsto en los incisos anteriores, los jefes superiores de servicios afectos al artículo trigésimo sexto bis se regirán por las normas contenidas en los Párrafos 4°, 5°, 6° y 7° del Título VI de esta ley.
 
 ### Párrafo 5°
 
 De los convenios de desempeño y su evaluación
 
-ARTÍCULO SEXAGÉSIMO PRIMERO.- Dentro del plazo máximo de tres meses contado desde su nombramiento definitivo o de su prórroga, los jefes superiores de servicio suscribirán un convenio de desempeño con el ministro del ramo respectivo. El convenio será propuesto por dicho ministro. Estos convenios deberán, además, ser suscritos por los Ministros de Hacienda y Secretario General de la Presidencia de la República.
+ARTÍCULO SEXAGÉSIMO PRIMERO.- Dentro del plazo máximo de sesenta días corridos, contado desde su nombramiento definitivo o de su renovación, los jefes superiores de servicio suscribirán un convenio de desempeño con el ministro o el subsecretario del ramo, cuando este actúe por delegación del primero, a propuesta de dicha autoridad.
 
-En el caso de los directivos del segundo nivel de jerarquía, el convenio será suscrito con el jefe superior respectivo y a propuesta de éste.
+En el caso de directivos del segundo nivel de jerarquía, el convenio será suscrito con el jefe superior respectivo, a propuesta de éste. Tratándose de los hospitales, el convenio de desempeño deberá suscribirlo el director de dicho establecimiento con los subdirectores médicos y administrativos respectivos, a propuesta de éste.
 
-Los convenios de desempeño deberán ser propuestos al alto directivo, a más tardar, dentro de los cinco días siguientes al nombramiento.
+Los convenios de desempeño deberán ser propuestos al alto directivo, a más tardar, dentro de los treinta días corridos contados desde el nombramiento, y deberán considerar el respectivo perfil del cargo.
 
 Los convenios de desempeño tendrán una duración de tres años y deberán sujetarse al modelo e instrucciones que imparta la Dirección Nacional del Servicio Civil.
 
@@ -960,11 +1078,21 @@ En la proposición de convenio se incluirán las metas anuales estratégicas de 
 
 ARTÍCULO SEXAGÉSIMO SEGUNDO.- Los convenios, una vez suscritos, deberán ser comunicados a la Dirección Nacional del Servicio Civil para su conocimiento y registro.
 
-ARTÍCULO SEXAGÉSIMO TERCERO.- El alto directivo deberá informar a su superior jerárquico, a lo menos una vez al año, dentro de los dos meses siguientes al término del mismo, del grado de cumplimiento de las metas y los objetivos. Asimismo, le informará de las alteraciones que se produzcan en los supuestos acordados, proponiendo los cambios y ajustes pertinentes a los objetivos iniciales, todo lo anterior de acuerdo a lo que establezca el reglamento.
+La autoridad respectiva deberá cumplir con la obligación señalada en el inciso anterior dentro del plazo máximo de noventa días, contado desde el nombramiento definitivo del alto directivo público o su renovación. En caso de incumplimiento, la Dirección Nacional del Servicio Civil deberá informar a la Contraloría General de la República para efectos de lo dispuesto en el inciso siguiente.
 
-Corresponderá al ministro del ramo o al jefe superior de servicio, según corresponda, determinar el grado de cumplimiento de los objetivos acordados.
+La autoridad que no cumpla con la obligación señalada en el inciso primero será sancionada con una multa de 20 a 50 por ciento de su remuneración.
 
-ARTÍCULO SEXAGÉSIMO CUARTO.- Un reglamento que será aprobado por decreto supremo del Ministerio de Hacienda, establecerá los mecanismos de control y evaluación de los convenios, la forma de medir y ponderar los elementos e indicadores a evaluar, los procedimientos y calendarios de elaboración de los convenios, los procedimientos para modificarlos y toda otra norma necesaria para la adecuada operación de los mismos.
+Además, la Dirección Nacional del Servicio Civil informará al Consejo de Alta Dirección Pública sobre el estado de cumplimiento de la obligación señalada en el inciso primero.
+
+ARTÍCULO SEXAGÉSIMO TERCERO.- Cada doce meses, contados a partir de su nombramiento, el alto directivo público deberá entregar a su superior jerárquico un informe acerca del cumplimiento de su convenio de desempeño. Dicho informe deberá remitirlo a más tardar al mes siguiente del vencimiento del término antes indicado. Asimismo, le informará de las alteraciones que se produzcan en los supuestos acordados, proponiendo los cambios y ajustes pertinentes a los objetivos iniciales, todo lo anterior de acuerdo a lo que establezca el reglamento. El ministro o el subsecretario del ramo, cuando este último actúe por delegación del primero, o el jefe de servicio, según corresponda, deberán determinar el grado de cumplimiento de los convenios de desempeño de los altos directivos públicos de su dependencia, dentro de treinta días corridos, contados desde la entrega del informe.
+
+Los convenios de desempeño podrán modificarse una vez al año, por razones fundadas y previo envío de la resolución que lo modifica a la Dirección Nacional del Servicio Civil y al Consejo de Alta Dirección Pública, para su conocimiento.
+
+Los ministros o subsecretarios del ramo, cuando estos últimos actúen por delegación de los primeros, y jefes de servicio deberán enviar a la Dirección Nacional del Servicio Civil, para efectos de su registro, la evaluación y el grado de cumplimiento del convenio de desempeño, siguiendo el formato que esa Dirección establezca. La Dirección deberá publicar los convenios de desempeño de los altos directivos públicos y estadísticas agregadas sobre el cumplimiento de los mismos en la página web de dicho servicio. Además, deberá presentar un informe al Consejo de Alta Dirección Pública sobre el estado de cumplimiento de los referidos convenios.
+
+La Dirección Nacional podrá realizar recomendaciones sobre las evaluaciones de los convenios de desempeño. El ministro o el subsecretario del ramo o el jefe de servicio, según corresponda, deberá elaborar un informe respecto de tales recomendaciones.
+
+ARTÍCULO SEXAGÉSIMO CUARTO.- Un reglamento dictado por el Ministerio de Hacienda establecerá los mecanismos de control y evaluación de los convenios, los lineamientos sobre la forma de medir y ponderar los elementos e indicadores a evaluar, los procedimientos y calendarios de elaboración de los convenios, las causales y procedimientos para modificarlos y toda otra norma necesaria para la adecuada operación de los mismos.
 
 ### Párrafo 6°
 
@@ -980,35 +1108,21 @@ El porcentaje a que tendrán derecho los directivos del segundo nivel jerárquic
 
 El porcentaje que se fije tendrá carácter indefinido y se consignará en el acto administrativo que efectúe el nombramiento correspondiente. No obstante, mediante los mismos procedimientos señalados por los dos incisos anteriores, podrá ser aumentado o disminuido cada vez que se cumpla el periodo de nombramiento o se produzca la vacancia de los cargos correspondientes.
 
-En los servicios públicos cuyos sistemas de remuneraciones consulten el incremento por desempeño institucional de la asignación de modernización a que se refiere el artículo 6° de la ley N° 19.553 o en su reemplazo, otro similar al que forme parte de la asignación de modernización, el componente antes citado se determinará de la manera siguiente:
-
-a) El monto correspondiente en su porcentaje máximo lo percibirán aquellos jefes superiores de servicio y directivos del segundo nivel jerárquico que hubiesen cumplido el 100% o más de las metas fijadas para el año anterior en el correspondiente convenio de desempeño.
-
-b) El 50% del porcentaje máximo para aquellos jefes superiores de servicio o directivos del segundo nivel jerárquico que hubiesen cumplido más de 80% y menos de 100% de las metas fijadas para el año anterior en el correspondiente convenio de desempeño.
-
-En los servicios públicos cuyos sistemas de remuneraciones no consulten componentes asociados al desempeño institucional, similar al que forma parte de la asignación de modernización, la asignación de alta dirección pública se calculará sobre la base de las remuneraciones permanentes. Aquellos jefes superiores de servicio y directivos del segundo nivel jerárquico que hubiesen cumplido el 100% o más de las metas fijadas para el año anterior en el correspondiente convenio de desempeño recibirán el 100% de la asignación de alta dirección pública. Si dicho grado de cumplimiento fuere igual o superior a un 80% e inferior al 100%, el porcentaje será de un 90%. Si el grado de cumplimiento fuere inferior al 80%, la asignación ascenderá a un 80%.
-
-En los servicios públicos a los cuales les son aplicables los artículos 11 y 14 de la ley N° 19.479 y los artículos 3° y 4° de la ley N° 19.490, los componentes antes citados se determinarán de la manera siguiente:
-
-a) El monto correspondiente a cada uno de ellos en su porcentaje máximo lo percibirán aquellos jefes superiores de servicio y directivos del segundo nivel jerárquico, que hubiesen cumplido el 100% o más de las metas fijadas para el año anterior en el correspondiente convenio de desempeño.
-
-b) El 50% del porcentaje máximo para aquellos jefes superiores de servicio o directivos del segundo nivel jerárquico que hubiesen cumplido entre el 80% y menos del 100% de las metas fijadas para el año anterior en el correspondiente convenio de desempeño.
-
-Durante el periodo que no se haya efectuado evaluación alguna del convenio de desempeño, el componente variable de la asignación de alta dirección pública se pagará en su monto máximo.
-
-En los servicios cuyos altos directivos públicos perciban una remuneración total que de acuerdo a sus sistemas propios excedan las remuneraciones brutas de carácter permanente del subsecretario del ramo, el grado de cumplimiento del convenio de desempeño producirá el siguiente efecto:
-
-- **a)** el 100% o más de cumplimiento del convenio da derecho al 100% de la remuneración del sistema a que estén afectos;
-
-- **b)** el cumplimiento de más del 80% y menos del 100%, da derecho al 95% de dichas remuneraciones; y
-
-- **c)** el cumplimiento del 80% o menos, da derecho al 93% de dichas remuneraciones.
-
-La asignación de alta dirección pública tendrá el carácter de remuneración permanente para todos los efectos legales, se percibirá mientras se ejerza el cargo afecto al Sistema de Alta Dirección Pública y no será considerada base de cálculo de ninguna otra remuneración.
+La asignación de alta dirección pública tendrá el carácter de remuneración permanente para todos los efectos legales, se percibirá mensualmente mientras se ejerza el cargo afecto al Sistema de Alta Dirección Pública y no será considerada base de cálculo de ninguna otra remuneración.
 
 Sin perjuicio de las incompatibilidades establecidas en la presente ley, la asignación de alta dirección pública, también será incompatible con la asignación por el desempeño de funciones críticas establecida en este mismo cuerpo legal.
 
-> **Nota.** NOTA 2: El artículo 32 de la LEY 20313, publicada el 04.12.2008, interpreta la presente norma, en el sentido de indicar que entre las remuneraciones que servirán de base para el cálculo de las asignaciones de dirección superior, de alta dirección pública y de funciones críticas, están comprendidos los beneficios concedidos por el artículo 1° de la ley N° 19.490; el artículo 1° de la ley N°19.994; el artículo 2° de la ley N° 19.999; el artículo 98 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud; los artículos 3°, 5° y 6° de la ley N° 20.209; y el artículo único de la ley N° 20.213.
+El grado de cumplimiento del convenio de desempeño de los altos directivos públicos producirá el siguiente efecto:
+
+a) El cumplimiento del 95 por ciento o más del convenio de desempeño dará derecho a percibir el 100 por ciento de la remuneración bruta que le corresponda según el sistema a que estén afectos.
+
+b) El cumplimiento de más del 65 por ciento y menos del 95 por ciento dará derecho a percibir el 93 por ciento de dichas remuneraciones, más lo que resulte de multiplicar el 7 por ciento de la remuneración señalada en la letra a) por el porcentaje de cumplimiento del convenio de desempeño.
+
+c) El cumplimiento del 65 por ciento o menos dará derecho a percibir el 93 por ciento de dichas remuneraciones.
+
+Durante los primeros doce meses contados desde el nombramiento, no se aplicará lo dispuesto en el inciso anterior.
+
+> **Nota.** El artículo 32 de la LEY 20313, publicada el 04.12.2008, interpreta la presente norma, en el sentido de indicar que entre las remuneraciones que servirán de base para el cálculo de las asignaciones de dirección superior, de alta dirección pública y de funciones críticas, están comprendidos los beneficios concedidos por el artículo 1° de la ley N° 19.490; el artículo 1° de la ley N°19.994; el artículo 2° de la ley N° 19.999; el artículo 98 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud; los artículos 3°, 5° y 6° de la ley N° 20.209; y el artículo único de la ley N° 20.213.
 
 ### Párrafo 7°
 
@@ -1023,6 +1137,10 @@ En todo caso, los cargos a que se refiere el inciso anterior serán incompatible
 Las funciones de los altos directivos son incompatibles con el ejercicio de cargos o funciones unipersonales en los órganos de dirección en partidos políticos.
 
 Sin perjuicio de lo dispuesto en los incisos anteriores y de las incompatibilidades y prohibiciones especiales que les puedan afectar, los altos directivos públicos estarán sometidos a las normas legales generales que regulan la probidad administrativa.
+
+ARTÍCULO SEXAGÉSIMO SEXTO BIS.- Los cargos de director de servicio de salud y de hospital de las respectivas plantas de personal, provistos por el Sistema de Alta Dirección Pública, podrán remunerarse indistintamente bajo el régimen del decreto ley N° 249, de 1973, del Ministerio de Hacienda, en el grado que tienen asignado en la referida planta de personal, o de acuerdo a las normas de la ley N° 19.664 siempre que estén dentro del ámbito de aplicación de dicha ley, conforme a la opción que manifieste el interesado, la que deberá constar en el respectivo acto de nombramiento.
+
+En los casos de los cargos de director de servicio de salud y de hospital, y subdirector médico de servicio de salud y de hospital de las respectivas plantas de personal, el porcentaje a que tendrán derecho dichos directivos por concepto de asignación de Alta Dirección Pública podrá ser diferenciado según se trate del régimen de remuneraciones del decreto ley N° 249, de 1973, o de las normas de la ley N° 19.664.
 
 TÍTULO FINAL
 

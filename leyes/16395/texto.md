@@ -82,7 +82,7 @@ La supervigilancia de la Superintendencia comprenderá los órdenes médico-soci
 
 Un funcionario con el título de Superintendente de Seguridad Social es el Jefe Superior de la Superintendencia y tiene la representación legal, judicial y extrajudicial de la misma.
 
-El Superintendente de Seguridad Social, el Fiscal y los Intendentes serán nombrados por el Presidente de la República de conformidad a lo establecido en el Título VI de la ley Nº 19.882. Al efecto, el Superintendente tendrá el grado 1°, de la escala de fiscalizadores correspondiente al primer nivel jerárquico, y los cargos de Fiscal e Intendentes, grado 2° de la escala de fiscalizadores, correspondientes al segundo nivel jerárquico.
+El Superintendente de Seguridad Social será nombrado por el Presidente de la República de conformidad a lo establecido en el Título VI de la ley N° 19.882. Al efecto, el Superintendente tendrá el grado 1° de la escala de fiscalizadores correspondiente al primer nivel jerárquico, y los cargos de fiscal e intendentes serán nombrados por dicho Superintendente, y tendrán el grado 2° de la escala de fiscalizadores correspondiente al segundo nivel jerárquico.
 
 Corresponderá al Superintendente, especialmente:
 
