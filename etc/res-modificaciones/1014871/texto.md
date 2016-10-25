@@ -144,6 +144,36 @@ Por cada avión en servicio internacional : $60.000.-
 
 Por cada avión en servicio nacional : $40.000.-
 
+j.- Gimnasios, escuelas de baile y otros similares: Las tarifas serán variables, en consideración a los metros de superficie del correspondiente establecimiento, conforme a la siguiente tabla:
+
+Superficie Tarifa Mensual
+
+Hasta 60 mts. cuadrados $40.000.-
+
+Sobre 60 mts. y hasta 100 mts. cuadrados $65.000.-
+
+Más de 100 mts. cuadrados $86.000.-
+
+k.- Vehículos de pasajeros: Las tarifas para vehículos destinados al transporte terrestre interurbano de pasajeros, estará afecta a una tarifa mensual por cada vehículo de acuerdo a la siguiente tabla:
+
+Asientos para pasajeros Tarifa
+
+Hasta 15 asientos $700.-
+
+Sobre 15 y hasta 30 asientos $1.100.-
+
+Más de 30 asientos $1.500.-
+
+m.- Tarifa Establecimientos Comerciales no comprendidos en las letras precedentes: Las tarifas serán variables, en consideración a los metros de superficie del correspondiente establecimiento, conforme a la siguiente tabla:
+
+Superficie Tarifa Mensual
+
+Hasta 50 mts. cuadrados $49.000.-
+
+Sobre 50 mts. y hasta 100 mts. Cuadrados $69.000.-
+
+Más de 100 mts. cuadrados $90.000.-
+
 2. Wurlitzers, sinfonolas o rockcolas digitales para uso comercial, operadas con pantallas para videos musicales o no:
 
 a) $20.500.- pesos mensuales por cada máquina que almacene hasta 1.000 fonogramas o videogramas musicales.
