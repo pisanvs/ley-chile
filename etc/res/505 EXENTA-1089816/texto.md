@@ -44,9 +44,7 @@ c. Evaluar los resultados y dar seguimiento a los planes y actividades aprobados
 
 . Jefe(a) del Departamento de Relaciones Laborales
 
-. Jefe(a) del Departamento Jurídico
-
-. Jefe(a) del Departamento Atención de Usuarios
+. Jefe(a) del Departamento Jurídico . Jefe(a) del Departamento Atención de Usuarios
 
 . Jefe(a) del Departamento de Tecnologías de la Información
 
@@ -54,7 +52,9 @@ c. Evaluar los resultados y dar seguimiento a los planes y actividades aprobados
 
 . Jefe(a) del Departamento de Gestión y Desarrollo
 
-. Especialista convocado por el (la) Director(a) en función de lo que se discuta en cada sesión.
+. Jefe del Departamento de Estudios.
+
+. Especialista convocado por el(la) Director(a) en función de lo que se discuta en cada sesión.
 
 4.- Las funciones generales del Comité serán las siguientes:
 
@@ -68,7 +68,7 @@ d. Asesorar al Director del Trabajo, respecto de la estrategia de Gestión del C
 
 5.- Las sesiones del Comité Tecnológico Institucional, serán convocadas por el Jefe de Servicio, quien también podrá citar a los integrantes del mismo o algún especialista, a solicitud de alguno de ellos, de manera especial.
 
-6.- El Comité Tecnológico contará con una Secretaría Técnica, integrada por los Jefes de la Unidad de Desarrollo; Ingeniería de Procesos; Encargado de Gestión y por el (la) Subjefe del Departamento de Tecnologías de la Información.
+6.- El Comité Tecnológico contará con una Secretaría Técnica, integrada por los Jefes de la Unidad de Desarrollo; Ingeniería de Procesos; Encargado de Gestión; el Jefe(a) de la Unidad de Análisis Estadístico del Departamento de Estudios y por el (la) Subjefe del Departamento de Tecnologías de la Información.
 
 Esta secretaría tendrá, entre otras, las siguientes funciones:
 
