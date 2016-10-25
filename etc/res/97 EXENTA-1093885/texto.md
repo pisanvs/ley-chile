@@ -108,7 +108,7 @@ ii.- Si las cuatro infracciones correspondieren a sustancias pertenecientes a la
 
 B.- Pérdida del premio obtenido por el caballo en la carrera pública en la cual participó y se detectó la presencia de sustancias prohibidas;
 
-C.- Suspensión del caballo para participar en cualquier carrera pública por un plazo de 60 años corridos;
+C.- Suspensión del caballo para participar en cualquier carrera pública por el plazo de 60 días corridos;
 
 D.- Multa al preparador por una suma equivalente al cuádruple del monto establecido en el inciso primero de este artículo para la clase a que corresponde esta cuarta infracción.
 
