@@ -24,6 +24,8 @@ Decreto:
 
 1. Fíjanse, para regir en el Primer Semestre del año 2016, las siguientes Tasas de Derechos a las solicitudes y actuaciones relacionadas con el DL N° 2.306, de 1978, que dicta Normas sobre Reclutamiento y Movilización de las Fuerzas Armadas:
 
+.
+
 2. Las Tasas de los Derechos indicadas precedentemente, regirán desde la publicación del presente decreto supremo. Su vigencia expirará con la publicación del decreto supremo correspondiente al Segundo Semestre de 2016.
 
 3. Los Derechos que afectan a las Solicitudes antes citadas, se pagarán de acuerdo a los procedimientos administrativos que establezca la Dirección General de Movilización Nacional, la que también emitirá instrucciones a los Jefes Cantonales de Reclutamiento respecto a las rendiciones de cuentas de los valores recaudados.
