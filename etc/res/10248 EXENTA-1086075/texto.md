@@ -50,6 +50,8 @@ Resolución:
 
 10. Para efectos de la aprobación, ejecución y pagos de subsidios de los proyectos de las familias beneficiadas mediante esta asignación, se aplicarán las condiciones establecidas en la resolución exenta citada en el Visto c) de esta resolución.
 
+Los proyectos de las familias que apliquen su subsidio habitacional mediante el procedimiento de Autoconstrucción Asistida estarán regulados por el párrafo 7° de la citada resolución y si debido a razones técnicas no es factible la compra de materiales de acuerdo a lo establecido en ella, el Serviu de la Región de Valparaíso podrá pagar el subsidio habitacional al beneficiario, asegurando la finalidad para la cual se efectúa esta asignación.
+
 11. Los certificados de subsidios correspondientes a las personas beneficiadas mediante esta asignación, se emitirán en un plazo de 15 días hábiles a contar de la fecha de la presente resolución exenta, tendrán una vigencia de 21 meses contados desde su fecha de emisión y se entregarán con posterioridad a la calificación del proyecto.
 
 12. Los subsidios asignados mediante la presente resolución exenta, se imputarán a los recursos dispuestos para el Programa Habitacional Fondo Solidario de Elección de Vivienda del año 2015, de la Región de Valparaíso. El monto a imputar será de 57.845 Unidades de Fomento, correspondiente al valor de los subsidios asignados, su asistencia técnica y respectiva fiscalización técnica de obras.
