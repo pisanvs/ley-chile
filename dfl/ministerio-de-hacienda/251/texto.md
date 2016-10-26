@@ -204,7 +204,7 @@ Tales entidades, estén o no inscritas en el Registro de Valores a que se refier
 
 Las personas naturales o jurídicas que, personalmente o en conjunto, sean, conforme al artículo 97 de la ley N° 18.045, controladoras de una compañía de seguros del segundo grupo o que posean individualmente más del 10% de sus acciones, deberán enviar a la Superintendencia información fidedigna acerca de su situación financiera. La Superintendencia, mediante norma de carácter general, determinará la periodicidad y contenido de esta información, que no podrá exceder de la que exige a las sociedades anónimas abiertas.
 
-Cuando el patrimonio neto consolidado de los controladores, individualmente o en conjunto, se reduzca a un monto inferior al patrimonio de riesgo definido en la letra f) del artículo 1º y no sea subsanado en el plazo que la Superintendencia determine para estos efectos, ésta podrá instruir a las compañías, por resolución fundada, para que se abstengan de realizar las transacciones y operaciones que específicamente determine, con sus personas relacionadas o a través de ellas, hasta por un plazo de seis meses, renovable por igual período.
+Cuando el patrimonio neto consolidado de los controladores, individualmente o en conjunto, en la proporción que les corresponda, se reduzca a un monto inferior al patrimonio de riesgo definido en la letra f) del artículo 1º y no sea subsanado en el plazo que la Superintendencia determine para estos efectos, ésta podrá instruir a las compañías, por resolución fundada, para que se abstengan de realizar las transacciones y operaciones que específicamente determine, con sus personas relacionadas o a través de ellas, hasta por un plazo de seis meses, renovable por igual período.
 
 Asimismo, en este caso, la Superintendencia podrá suspender la administración o todas o algunas de las operaciones de la compañía, en los términos que señalan los números 3º y 4º del artículo 44, renovables por igual período, designando para tal efecto un administrador de acuerdo a la letra d) del artículo 3º.
 
@@ -382,7 +382,7 @@ Para los instrumentos señalados en esta letra, la Superintendencia establecerá
 
 2. Inversiones de Renta Variable:
 
-a) Acciones de sociedades anónimas abiertas y acciones de empresas concesionarias de obras de infraestructura de uso público;
+a) Acciones de sociedades anónimas abiertas y acciones de empresas concesionarias de obras de infraestructura de uso público. No se aceptarán como representativas las acciones de empresas concesionarias de obras de infraestructura de uso público, emitidas por personas relacionadas a la compañía;
 
 b) Cuotas de fondos mutuos cuyos activos se encuentren invertidos en valores o activos nacionales;
 
@@ -408,7 +408,7 @@ La Superintendencia, previa consulta, al Banco Central de Chile, mediante norma 
 
 La adquisición de las divisas necesarias para realizar las inversiones, a que se refiere esta letra, y su remesa al exterior, así como el retorno y la liquidación de los capitales y ganancias y su conversión a moneda nacional o extranjera, se sujetarán a las normas que al efecto establezca el Banco Central, de acuerdo a las facultades que le confiere su Ley Orgánica.
 
-El mencionado Banco, mediante acuerdo de su Consejo, establecerá anualmente los porcentajes máximos posibles de invertir, dentro de los límites establecidos en la letra g) del Nº1. del artículo 23 de esta ley. No obstante, el porcentaje máximo de inversión en el extranjero que establezca el Banco Central, no podrá ser inferior a diez por ciento de las reservas técnicas y patrimonio de riesgo de las compañías.
+El mencionado Banco, mediante acuerdo de su Consejo, establecerá los porcentajes máximos posibles de invertir, facultad que será ejercida previo informe de la Superintendencia. No obstante, el porcentaje máximo de inversión en el extranjero que establezca el Banco Central no podrá ser inferior al veinte por ciento de las reservas técnicas y patrimonio de riesgo de las compañías.
 
 Las inversiones de la letra f) de este número, sólo se computarán como inversiones representativas de reservas técnicas generadas por operaciones realizadas por la oficina correspondiente en el país respectivo.
 
@@ -466,7 +466,7 @@ DEROGADO.
 
 Las inversiones representativas de reservas técnicas y de patrimonio de riesgo no podrán estar afectas a gravámenes, prohibiciones, embargos, litigios, medidas precautorias, condiciones suspensivas o resolutorias, ni ser objeto de ningún otro acto o contrato que impida su libre cesión o transferencia. En el evento de que alguna inversión se viere afectada en la forma señalada, no podrá ser considerada como representativa de reservas técnicas ni de patrimonio de riesgo; tampoco se considerarán para estos efectos aquellos instrumentos cuyo riesgo de no pago estuviere asegurado o reasegurado total o parcialmente en la misma compañía.
 
-No obstante lo anterior, mediante normas de carácter general, se podrá exceptuar de la prohibición señalada en el inciso precedente, a los bienes raíces señalados en el Nº4. del artículo 21, y a los instrumentos otorgados como garantía o margen de operaciones de cobertura de riesgo señaladas en el inciso penúltimo del mismo artículo.
+No obstante lo anterior, mediante normas de carácter general, se podrá exceptuar de la prohibición señalada en el inciso precedente a las acciones de empresas concesionarias de obras de infraestructura de uso público señaladas en la letra a) del N° 2 del artículo 21, a los bienes raíces señalados en el Nº 4 del citado artículo, y a los instrumentos otorgados como garantía o margen de las operaciones de cobertura de riesgo señaladas en el inciso penúltimo del mismo artículo.
 
 #### Artículo 23
 
@@ -482,17 +482,17 @@ c) 30% del total, en aquellos instrumentos de la letra e) del Nº 1, para compa�
 
 d) entre un 1% y un 5% del total, según lo establezca la Superintendencia por norma de carácter general, para la suma de la inversión en instrumentos de la letra f) del Nº 1. En todo caso, no se podrá otorgar un crédito a una misma persona, directa o indirectamente, por una suma que exceda el 5% del límite antedicho. Con todo, este límite de concentración no podrá exceder del equivalente a 10.000 unidades de fomento. Sin perjuicio de las sanciones que correspondan, los créditos en exceso de los límites fijados en este párrafo, no serán representativos de reservas técnicas y patrimonio de riesgo;
 
-e) 40% del total para la suma de la inversión en instrumentos del Nº2;
+e) 40% del total para la suma de la inversión en instrumentos del Nº2. La inversión total en acciones de empresas concesionarias de obras de infraestructura de uso público no podrá exceder del 5% del total;
 
-f) 5% del total, en aquellos instrumentos de la letra a) del Nº2, que no cumplan el requisito de presencia bursátil que establezca, por norma de carácter general, la Superintendencia;
+f) 5% del total, en aquellos instrumentos de la letra a) del Nº2, que no cumplan el requisito de presencia bursátil que establezca, por norma de carácter general, la Superintendencia. Este límite no se aplicará a la inversión en acciones de empresas concesionarias de obras de infraestructura de uso público;
 
 g) 10% del total, en aquellos fondos de inversión de la letra c) del Nº2;
 
-h) 20% del total, para la suma de la inversión en aquellos instrumentos del Nº3;
+h) Derogado.
 
 i) 5% del total, para la suma de la inversión en los instrumentos de las letras a) y b) del Nº3, que presenten clasificación de riesgo internacional, inferior a BBB o N-3, o su equivalente según corresponda a instrumentos de largo y corto plazo, respectivamente;
 
-j) 10°% del total, para la suma de la inversión en instrumentos de las letras c), d) y e) del Nº3;
+j) Para la suma de la inversión en instrumentos de las letras c), d) y e) del Nº 3, la Superintendencia, mediante norma de carácter general, establecerá los porcentajes máximos posibles de invertir. No obstante, el porcentaje máximo de inversión para los instrumentos antes mencionados no podrá ser inferior al diez por ciento de las reservas técnicas y patrimonio de riesgo de las compañías;
 
 k) 3% del total en aquellos activos de la letra f) del Nº3;
 
@@ -554,13 +554,13 @@ g) 1% del total, para la suma de la inversión en instrumentos de las letras
 
 - **a)** e
 
-- **i)** del N° 1 de este artículo, según corresponda, emitidos por una misma entidad o sus respectivas filiales, y
+- **i)** del N° 1 de este artículo, según corresponda, emitidos por una misma entidad o sus respectivas filiales;
 
 h) 10% del total, para la suma de la inversión en los siguientes instrumentos:
 
 i) Instrumentos de la letra f) del Nº 1;
 
-ii) Instrumentos de la letra a) del Nº 2, que no cumplan con el requisito de presencia bursátil que establezca la Superintendencia mediante norma de carácter general;
+ii) Instrumentos de la letra a) del Nº 2, que no cumplan con el requisito de presencia bursátil que establezca la Superintendencia mediante norma de carácter general. Este límite no se aplicará a la inversión en acciones de empresas concesionarias de obras de infraestructura de uso público;
 
 iii) Instrumentos de los números 6 y 7;
 
@@ -574,7 +574,9 @@ iv) Instrumentos de la letra
 
 - **a)** e
 
-- **i)** del N° 1 de este artículo.
+- **i)** del N° 1 de este artículo, y
+
+i) 2% del total, para la suma de la inversión en acciones de empresas concesionarias de obras de infraestructura de uso público, emitidas por una misma entidad o sus respectivas filiales.
 
 #### Artículo 24
 
@@ -608,7 +610,7 @@ Tratándose de seguros con cuenta de inversión, la Superintendencia podrá ampl
 
 - **d)** y
 
-- **e)** del N° 3 del artículo 21, y no será aplicable el límite de inversión establecido en el artículo 12 A del decreto ley Nº 1.328, de 1976.
+- **e)** del N° 3 del artículo 21.
 
 #### Artículo 24 bis
 

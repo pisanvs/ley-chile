@@ -42,7 +42,7 @@ b) la transferencia de instrumentos financieros, cuando así lo requieran las tr
 
 #### Artículo 2º
 
-La presente ley se aplicará a los sistemas de compensación y liquidación de instrumentos financieros, a las sociedades administradoras y sus participantes, a las garantías otorgadas por estos últimos y a las órdenes de compensación comunicadas de conformidad con las normas de funcionamiento de dichos sistemas. No se aplicará esta ley a las cámaras compensadoras autorizadas por el Banco Central de Chile de conformidad con el número 8 del artículo 35 de su ley orgánica, cuyo funcionamiento se regirá por la reglamentación que éste imparta.
+La presente ley se aplicará a los sistemas de compensación y liquidación de instrumentos financieros, a las sociedades administradoras y sus participantes, a las garantías otorgadas por estos últimos y a las órdenes de compensación comunicadas de conformidad con las normas de funcionamiento de dichos sistemas. Sin perjuicio de lo dispuesto en el artículo siguiente, no se aplicará esta ley a los sistemas de pagos autorizados o creados por el Banco Central de Chile de conformidad con el numeral 8 del artículo 35 de su ley orgánica constitucional, cuyo funcionamiento se regirá por la reglamentación que éste imparta. Tampoco se aplicará a los sistemas de pago establecidos en el extranjero que aquél reconozca de acuerdo a esa misma disposición.
 
 Corresponderá a la Superintendencia de Valores y Seguros, en adelante la Superintendencia, velar por el cumplimiento de esta ley y de las normas que la complementen, y fiscalizar a las sociedades administradoras, de acuerdo a las facultades que se le confieren en la presente ley y en el decreto ley Nº 3.538, de 1980.
 

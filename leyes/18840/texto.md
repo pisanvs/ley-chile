@@ -380,7 +380,19 @@ En materia de regulación del sistema financiero y del mercado de capitales, son
 
 7.- Dictar las normas a que deberán sujetarse las empresas cuyo giro consista en la emisión u operación de tarjetas de crédito o de cualquier otro sistema similar y que se encuentren bajo la fiscalización de la Superintendencia de Bancos e Instituciones Financieras;
 
-8.- Autorizar la creación y reglamentar el funcionamiento de las cámaras compensadoras de cheques y de otros valores a que concurran empresas bancarias y sociedades financieras, y
+8.- Autorizar la creación y reglamentar el funcionamiento de los sistemas de pagos establecidos en Chile, en que participen las empresas bancarias u otras instituciones financieras fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras, para la aceptación, compensación y liquidación de órdenes de pago correspondientes a obligaciones de dinero, ya sea en moneda nacional o extranjera. Estos sistemas podrán ser creados y administrados por las entidades participantes, o bien, por sociedades de apoyo al giro o sociedades anónimas especiales que estarán igualmente sujetas a la regulación del Banco y la fiscalización de la Superintendencia mencionada. Lo indicado es sin perjuicio de los sistemas de pagos creados, regulados y administrados por el Banco en relación a las cuentas corrientes que se encuentra facultado para abrir.
+
+Asimismo, el Banco podrá reconocer sistemas de pagos establecidos en el extranjero, a fin de permitir la participación en éstos de empresas bancarias u otras instituciones financieras fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras.
+
+El Banco podrá revocar la autorización o el reconocimiento precitado, pero esta revocación sólo producirá efectos a partir del término del día hábil bancario siguiente en que sea notificada al operador del respectivo sistema de pagos mediante la recepción de un aviso por escrito o comunicación electrónica.
+
+Asimismo, podrá requerir al operador de un sistema de pagos regulado o reconocido conforme a este numeral, que suspenda o cancele la participación en dicho sistema de cualquiera de las entidades antes señaladas. En tal caso, el operador deberá hacer efectiva la suspensión o cancelación, absteniéndose de cursar nuevas operaciones instruidas por el participante respectivo, a partir del término del día hábil siguiente en que el operador reciba un aviso por escrito o comunicación electrónica del Banco notificando la suspensión o cancelación.
+
+Las operaciones efectuadas de conformidad a las normas de un sistema de pagos regulado o reconocido, según corresponda, en virtud de este numeral, incluyendo los creados y administrados por el Banco, serán firmes, esto es, definitivas, irrevocables, vinculantes para los participantes y oponibles a terceros. Dichas operaciones comprenden, pero no están limitadas a, todo pago, transferencia, cargo o abono de fondos en cuenta, instruidos por un participante, incluido el operador del sistema de pagos, relacionados con la compensación y/o liquidación de órdenes de pago, la constitución de garantías, y la celebración de acuerdos de distribución o asunción de pérdidas.
+
+Cualquier declaración de nulidad, inoponibilidad, ineficacia, impugnación, resolución, revocación, suspensión, medida prejudicial o precautoria, prohibición o embargo, acción reivindicatoria u otra limitación al dominio, o cualquier otro acto o decisión, sea judicial, administrativa o de otra naturaleza, incluso en caso de insolvencia, liquidación forzosa o por cualquier otra causa, que recaiga en, o tenga por objeto limitar o restringir las operaciones antes señaladas, no afectará en modo alguno la firmeza de éstas.
+
+Las obligaciones a que dieren origen las operaciones que las entidades aludidas en este numeral efectúen a través de un sistema de pagos establecido en el exterior, no se considerarán como obligaciones a la vista para efectos de lo dispuesto en el artículo 65 y el Título XV, ambos de la Ley General de Bancos.
 
 9.- Autorizar los sistemas de reajuste que utilicen en sus operaciones de crédito de dinero en moneda nacional las empresas bancarias, sociedades financieras y cooperativas de ahorro y crédito. La estipulación de un sistema de reajuste no autorizado se tendrá por no escrita.
 
@@ -448,7 +460,7 @@ En materia internacional, el Banco tendrá las siguientes atribuciones:
 
 5.- Conceder créditos a Estados extranjeros, bancos centrales o entidades bancarias o financieras extranjeras o internacionales, cuando dichos créditos tengan por objeto facilitar el cumplimiento de los objetivos del Banco;
 
-6.- Recibir depósitos o abrir cuentas corrientes en moneda nacional o extranjera, de bancos centrales o entidades bancarias o financieras extranjeras o internacionales y de Estados extranjeros, y
+6.- Recibir depósitos o abrir cuentas corrientes en moneda nacional o extranjera, de bancos centrales o entidades bancarias o financieras extranjeras o internacionales y de Estados extranjeros. Los fondos mantenidos en estas cuentas por entidades que actúen como operadores o participantes de sistemas de pagos acogidos al numeral 8 del artículo 35 de esta ley no serán susceptibles de embargo, medida prejudicial, precautoria u otras limitaciones al dominio, en virtud de procedimiento o causa alguna, y
 
 7.- Mantener, administrar y disponer de sus reservas internacionales, en el país o en el exterior. Dichas reservas podrán estar constituidas por monedas extranjeras, oro o títulos de crédito, valores o efectos de comercio, emitidos o garantizados por Estados extranjeros, bancos centrales o entidades bancarias o financieras extranjeras o internacionales. El Banco estará facultado para gravar las reservas aludidas en garantía de sus obligaciones.
 

@@ -10,9 +10,9 @@ Del Contrato de Depósito y de las Disposiciones
 
 #### Artículo 1°
 
-Las empresas de depósito de valores que esta ley regula, en adelante las empresas o la empresa, se constituirán como sociedades anónimas especiales, y tienen como objeto exclusivo recibir en depósito valores de oferta pública de las entidades a que se refiere el artículo 2° y de facilitar las operaciones de transferencia de dichos valores, de acuerdo a los procedimientos contemplados en esta misma ley. Asimismo, las empresas de depósito podrán realizar las actividades complementarias al objeto antes señalado que determine la Superintendencia de acuerdo a norma de carácter general.
+Las empresas de depósito de valores que esta ley regula (en adelante "las empresas" o "la empresa") se constituirán como sociedades anónimas especiales y tendrán como objeto exclusivo recibir en depósito valores y facilitar las operaciones de transferencia de los mismos, de acuerdo a los procedimientos contemplados en esta ley.
 
-Pueden ser objeto del depósito a que se refiere esta ley, los valores de oferta pública inscritos en el Registro de Valores que lleva la Superintendencia de Valores y Seguros, en adelante, la Superintendencia, los emitidos por los bancos o por el Banco Central de Chile, los emitidos o garantizados por el Estado y, en general, cualquier otro valor que autorice la Superintendencia mediante norma de carácter general.
+Podrán ser siempre objeto del depósito a que se refiere esta ley, los valores de oferta pública inscritos en el Registro de Valores que lleva la Superintendencia de Valores y Seguros (en adelante "la Superintendencia"), los emitidos por los bancos o por el Banco Central de Chile y los emitidos o garantizados por el Estado. Asimismo, las empresas de depósito podrán recibir en depósito otros bienes, documentos y contratos que autorice la Superintendencia, de acuerdo a normas de carácter general.
 
 Corresponde a la Superintendencia velar por el cumplimiento de la presente ley y de las normas que la complementen, y supervigilar el funcionamiento de las empresas, de acuerdo a las facultades que le confiere su ley orgánica y las señaladas en el presente cuerpo legal.
 
@@ -84,6 +84,12 @@ Entre depositantes de una misma empresa, las transferencias de valores depositad
 
 Las transferencias en favor de terceros que no sean depositantes en la empresa se efectuarán mediante las formalidades propias de la transferencia del dominio, según sea la naturaleza del título de que se trate, con cargo a los valores disponibles que el depositante tenga en cuenta. El depositante comunicará a la empresa por escrito o por vía electrónica el nombre del beneficiario. Esta comunicación ante la empresa, constituirá título suficiente para efectuar tal transferencia.
 
+#### Artículo 8° bis
+
+Las operaciones de compra con pacto de retroventa o de venta con pacto de retrocompra, así como las operaciones equivalentes a las mismas, pactadas mediante una compraventa al contado y el otorgamiento conjunto y simultáneo de una compraventa a plazo, que recaigan en valores depositados en la empresa, ya sean de emisión física o desmaterializada, se regirán por el Código Civil y las regulaciones especiales que resulten aplicables, según la naturaleza de tales operaciones y la calidad de las contrapartes que las acuerden, particularmente en lo referido a las circunstancias que den lugar a la resolución o terminación anticipada del respectivo pacto.
+
+La empresa efectuará las transferencias de dominio de los valores respectivos que sean consecuencia de cualquiera de las operaciones indicadas en el inciso anterior, observando lo dispuesto en los artículos 7° u 8°, según corresponda. Del mismo modo, se aplicará lo dispuesto en el artículo 15 a los valores adquiridos mediante cualquiera de dichos sistemas de transferencia.
+
 #### Artículo 9°
 
 En caso de rescate por sorteo de letras de crédito, bonos u otros valores, el reglamento interno de la empresa establecerá la forma en que el importe resultante será prorrateado o sorteado entre los depositantes de tales valores.
@@ -100,17 +106,17 @@ Adoptado el acuerdo antes referido entre la empresa y un emisor banco o sociedad
 
 Mediante norma de carácter general, la Superintendencia establecerá los requisitos mínimos que deberá cumplir el sistema de anotaciones en cuenta y establecerá los casos y condiciones en que procederá la emisión de los títulos representativos de los valores, a petición de los interesados y siempre que con ello no se cause perjuicio al depositario o a sus mandantes, en su caso.
 
-#### Artículo 12°
+#### Artículo 12
 
-El depositante mantendrá siempre su derecho a voto en las juntas de accionistas, de tenedores de bonos u otras asambleas semejantes, por los valores entregados en depósito. La empresa, efectuado que sea el cierre del registro, antes de la celebración de la junta y, en todo caso, antes de la calificación de poderes, deberá enviar al emisor una lista con los nombres de los titulares de dichos valores, a la fecha en que, conforme a la reglamentación aplicable, tengan derecho a participar en la junta o en las otras asambleas semejantes.
+El depositante mantendrá su derecho a voto en las juntas de accionistas, de tenedores de bonos u otras asambleas semejantes, por los valores entregados en depósito, salvo que delegue dichos derechos en la empresa para que sea ésta quien asista y ejerza dichos derechos en su nombre.
 
-La lista, junto con individualizar a los depositantes, indicará el número de unidades del valor correspondiente a cada depositante, como también los embargos, precautorias y derechos reales que las afecten, con el detalle necesario para que se pueda determinar a quienes pertenece el derecho a voto; y deberá ser suscrita por el gerente de la empresa o por la persona que éste designe especialmente al efecto.
+En el primer caso, la empresa, efectuado que sea el cierre del registro, antes de la celebración de la junta y, en todo caso, antes de la calificación de poderes, deberá enviar al emisor una lista con los nombres de los titulares de dichos valores, a la fecha en que, conforme a la reglamentación aplicable, tengan derecho a participar en la junta o en las otras asambleas semejantes. La lista, junto con individualizar a los depositantes, indicará el número de unidades del valor correspondiente a cada depositante, como también los embargos, precautorias y derechos reales que las afecten, con el detalle necesario para que se pueda determinar a quienes pertenece el derecho a voto; y deberá ser suscrita por el gerente de la empresa o por la persona que éste designe especialmente al efecto.
 
 En las votaciones, cada titular se mirará como un votante diferente.
 
-El mismo sistema se empleará para que los depositantes ejerzan su derecho de cobro de dividendos, de opción a suscribir acciones y otros derechos que posean frente al emisor.
+Aquellos depositantes que, en cambio, opten por delegar a la empresa el ejercicio de los derechos antes descritos deberán cumplir el procedimiento que al efecto ésta establezca en su reglamentación interna, junto con las demás normas que le sean aplicables.
 
-El ejercicio del derecho a voto y de los derechos patrimoniales que correspondan a los mandantes de los depositantes, se regirá por lo dispuesto en los incisos precedentes.
+El ejercicio de los derechos patrimoniales que correspondan a los mandantes de los depositantes, se regirá por lo dispuesto en el artículo 24 de esta ley.
 
 #### Artículo 13°
 
@@ -118,31 +124,59 @@ La empresa a requerimiento escrito del depositante, deberá certificar la cantid
 
 Los certificados, que indicarán la fecha y hora de su otorgamiento, deberán individualizar los valores de que se trate.
 
-#### Artículo 14°
+#### Artículo 14
 
-El depositante puede constituir prendas y derechos reales sobre los valores que tenga depositados, en los mismos casos en que podría hacerlo si no estuvieren en depósito.
+Se podrán constituir prendas y derechos reales sobre los valores mantenidos en depósito, sea que se traten de valores de emisión materializada o desmaterializada, en los mismos casos en que el depositante o su mandante podría hacerlo si no estuvieren en depósito.
 
-Para este efecto, a solicitud del depositante la empresa de depósito le entregará un certificado de los que se refiere el artículo anterior, que acredite la cantidad de valores que tiene depositados. A solicitud del depositante el certificado puede restringirse a sólo parte de los valores que tenga entregados en depósito.
+Para este efecto, a solicitud del depositante la empresa de depósito le entregará un certificado de los que se refiere el artículo anterior, que acredite la cantidad de valores que tiene depositados. A solicitud del depositante el certificado podrá restringirse a sólo parte de los valores que tenga entregados en depósito.
 
 Si el depositante declarare que el depósito lo efectuó a su propio nombre, pero por cuenta de un tercero, la empresa de depósito emitirá los certificados de que tratan el artículo 13 y el presente artículo a nombre de quien le indique el depositante, bajo exclusiva responsabilidad de éste.
 
-Para los efectos de las formalidades necesarias para la constitución de la prenda u otro derecho real, el certificado reemplazará al título representativo del valor de que se trate.
+Las prendas o derechos reales sobre los valores depositados podrán constituirse, según corresponda, de acuerdo a las siguientes modalidades alternativas:
 
-Cualquiera que sea la clase de prenda o de derecho real, no será oponible a la empresa de depósito ni a terceros, mientras no haya sido notificada a esa empresa por un notario, sin perjuicio de las demás formalidades que procedan de acuerdo a la ley.
+a) Prendas o derechos reales sobre valores depositados, constituidos conforme a otras leyes: se podrán constituir prendas u otros derechos reales sobre los valores depositados en la empresa de conformidad a lo dispuesto en otras leyes, en cuyo caso el certificado reemplazará al título representativo del valor de que se trate, para efectos del cumplimiento de las formalidades legales respectivas.
 
-Sin perjuicio de lo dispuesto en el inciso anterior, en el caso de prendas u otros derechos reales sobre valores en depósito, que se constituyan por un depositante de la empresa o su mandante, a favor de otro depositante o mandante, se entenderá notificada la empresa tanto de su constitución como de su alzamiento o cancelación, con las comunicaciones electrónicas simultáneas entre las partes y aquélla.
+Cualquiera sea la clase de prenda o derecho real, no será oponible a la empresa de depósito ni a terceros, mientras no haya sido notificada a esa empresa por un notario, sin perjuicio de las demás formalidades que procedan de acuerdo a la ley. Sin embargo, en el caso de prendas u otros derechos reales sobre valores en depósito, que se constituyan por un depositante de la empresa o su mandante, a favor de otro depositante o mandante, se entenderá notificada la empresa tanto de su constitución como de su modificación y/o alzamiento, con las comunicaciones electrónicas entre las partes y aquélla, enviadas oportunamente a través de los sistemas de mensajería que la empresa de depósito habilite al efecto. Asimismo, si correspondiere notificar de la constitución de la prenda a la sociedad emisora de los valores respectivos, dicha notificación se entenderá efectuada para todos los fines legales mediante la comunicación electrónica que al efecto le envíe la empresa de depósito.
 
-Para constituir, alzar o modificar prendas o derechos reales en un sistema de compensación y liquidación de instrumentos financieros, la sociedad administradora del sistema enviará una solicitud a la empresa por cuenta de los participantes a cuyo nombre se encuentren depositados los valores de que se trate. Con el solo mérito de tal solicitud, la empresa efectuará una anotación en cuenta que, de conformidad al reglamento interno, refleje la constitución, modificación o alzamiento de la prenda o derecho real sobre los valores respectivos, y a partir de ese momento se entenderán constituidos tales derechos para todos los efectos legales. Las garantías así constituidas se regirán por el Título XXII de la ley Nº 18.045, aun cuando se trate de prendas sin desplazamiento.
+Del mismo modo, la notificación a que se refiere el artículo 16 podrá practicarse en forma electrónica conforme a lo establecido en esta letra, siempre que así sea dispuesto por el juez de la causa, debiendo observarse para practicar dicha notificación las normas que sobre la materia establezca el Reglamento Interno de la empresa de depósito.
 
-Las anotaciones que la empresa realice de conformidad a lo señalado en el inciso anterior podrán ser realizadas por cuenta del depositante, o bien, de sus mandantes, en las cuentas identificadas a nombre de éstos, según lo indique el depositante. Para efectos de constituir, modificar o alzar válidamente prendas u otros derechos reales por cuenta de estos últimos, el depositante deberá contar con una autorización general o especial dada por sus mandantes para proceder en tal sentido.
+b) Prenda especial sobre valores en depósito registrados en sistema de anotaciones en cuenta: sin perjuicio de lo indicado en la letra a), tratándose de los valores en depósito, sean nacionales o extranjeros, registrados en un sistema de anotaciones en cuenta conforme al artículo 11, podrá constituirse prenda sobre ellos a favor de otros depositantes o sus mandantes, de acuerdo a las reglas siguientes.
 
-La empresa, a solicitud de cualquier interesado, deberá certificar la constitución de los derechos referidos en este artículo, especificando los valores sobre los cuales recayeren, la fecha en que hubieren sido constituidos, el titular de los valores respectivos, así como el derecho de que se tratare.
+Esta prenda especial se constituirá, modificará y alzará al amparo de un contrato marco celebrado al efecto por la empresa de depósito y los depositantes, al cual podrán adherir también sus respectivos mandantes, siempre que se trate de inversionistas calificados a los que se refiere la letra f) del artículo 4° bis de la ley N° 18.045, para autorizar expresamente la constitución, modificación, alzamiento y realización, en su caso, de esta prenda por cuenta y/o en favor suyo. Los términos y condiciones generales de este contrato marco serán determinados en el reglamento interno, y su suscripción se podrá realizar mediante firma manuscrita o electrónica.
+
+Una vez suscrito el contrato marco, la constitución, modificación y alzamiento de la prenda se efectuará a través de comunicaciones electrónicas oportunas entre los depositantes respectivos, actuando por cuenta propia o de sus mandantes, y la empresa de depósito de valores, empleando los sistemas de mensajería que la empresa de depósito habilite al efecto.
+
+En dichas comunicaciones se deberá señalar: (i) la individualización de las partes, indicando si la prenda se constituye por cuenta propia de un depositante o su mandante, y si es a favor de otro depositante o su mandante; (ii) los valores en depósito que se constituyen en prenda; (iii) la o las obligaciones caucionadas, las cuales podrán ser propias o de terceros, pudiendo además dejar expresa constancia que la prenda se constituye en garantía de todas las obligaciones que el deudor de que se trate, tenga o pueda tener a favor del acreedor prendario.
+
+Con el solo mérito de tales comunicaciones, la empresa efectuará una anotación en cuenta que, de conformidad al reglamento interno, refleje la constitución de esta prenda especial sobre los valores respectivos, y a partir de ese momento se entenderá constituida para todos los efectos legales. Asimismo, si correspondiere notificar la constitución de la prenda a la sociedad emisora de los valores respectivos, dicha notificación se entenderá efectuada para todos los fines legales mediante la comunicación electrónica que al efecto le envíe la empresa de depósito.
+
+Esta prenda especial sólo podrá ser alzada por la parte acreedora, esto es, el depositante respectivo actuando por cuenta propia o de su mandante, de acuerdo al procedimiento señalado; o bien, en virtud de una resolución judicial ejecutoriada.
+
+Cumplidos los requisitos que se señalan en esta letra para la constitución de la prenda especial sobre valores depositados, el acreedor prendario gozará de los privilegios establecidos en el artículo 814 del Código de Comercio, sin necesidad de observar las formalidades prescritas en el artículo 815 del mismo Código.
+
+c) Prendas o derechos reales en sistemas de compensación y liquidación de instrumentos financieros: para constituir, alzar o modificar prendas o derechos reales en un sistema de compensación y liquidación de instrumentos financieros, la sociedad administradora del sistema enviará una solicitud a la empresa por cuenta de los participantes a cuyo nombre se encuentren depositados los valores de que se trate. Con el solo mérito de tal solicitud, la empresa efectuará una anotación en cuenta que, de conformidad al reglamento interno, refleje la constitución, modificación o alzamiento de la prenda o derecho real sobre los valores respectivos, y a partir de ese momento se entenderán constituidos tales derechos para todos los efectos legales. Las garantías así constituidas se regirán por el Título XXII de la ley Nº 18.045, aun cuando se trate de prendas sin desplazamiento.
+
+Las anotaciones que la empresa realice de conformidad a lo señalado en este artículo podrán ser realizadas por cuenta del depositante, o bien, de sus mandantes, en las cuentas identificadas a nombre de éstos, según lo indique el depositante. Para efectos de constituir, modificar o alzar válidamente prendas u otros derechos reales por cuenta de estos últimos, el depositante deberá, en todos los casos señalados, contar con una autorización general o especial dada por sus mandantes para proceder en tal sentido.
+
+La empresa, a solicitud de cualquier interesado, deberá certificar la constitución de las prendas o derechos reales referidos en este artículo, especificando los valores sobre los cuales recayeren, la fecha en que hubieren sido constituidos, el titular de los valores respectivos, así como el derecho de que se tratare.
+
+El certificado que la empresa emita de acuerdo al inciso anterior constituirá plena prueba, tanto entre las partes como frente a terceros, respecto de la existencia de la garantía o derecho real respectivo, la fecha de su constitución, los valores en que recaen y las obligaciones caucionadas.
 
 #### Artículo 14 bis
 
 Los certificados que la empresa emita en virtud de lo dispuesto en los artículos 13 y 14, tendrán mérito ejecutivo en contra de los emisores, y demás personas obligadas a su pago. Para el efecto de demandar su cobro, dichos certificados reemplazarán a los títulos de los valores depositados que representan, aun en los casos en que los títulos hayan sido refundidos en virtud de lo dispuesto en el artículo 10 o consten del registro de anotaciones en cuenta de que trata el artículo 11.
 
 Los certificados antes referidos podrán ser solicitados y emitidos a nombre de quienes, sin ser depositantes, hayan efectuado el pago por cuenta del emisor.
+
+#### Artículo 14 ter
+
+A partir del momento en que se constituya la prenda especial establecida en la letra b) del artículo 14, los valores comprendidos en ella sólo podrán ser embargados en juicios entablados por los acreedores garantizados, en cuanto ejerzan acciones protegidas por la garantía.
+
+En caso de insolvencia del deudor prendario, los valores prendados quedarán excluidos de los bienes objeto de cualquier procedimiento concursal incoado a su respecto y los acreedores caucionados por esa garantía serán pagados sin aguardar los resultados de dichos procedimientos. Una vez hecha exigible cualquiera de las obligaciones garantizadas con la prenda especial señalada, el acreedor prendario podrá poner los bienes prendados a disposición de una bolsa de valores, para que se proceda a su realización en subasta pública, aplicándose supletoriamente y en todo lo que no sea incompatible, lo dispuesto en el Título XXII de la ley Nº 18.045.
+
+Los certificados emitidos por la empresa de depósito en que consten estas prendas especiales, servirán de título suficiente para efectuar la realización de los valores prendados que representen, conforme al artículo 14 bis. En caso de resultar algún remanente, éste será puesto a disposición de quien corresponda.
+
+Una vez concluido el proceso de realización de una garantía en virtud de este artículo, quien estimare haber sufrido perjuicios podrá demandar en juicio sumario.
 
 #### Artículo 15°
 
@@ -224,27 +258,13 @@ Subsanados los defectos o atendidas las observaciones formuladas, en su caso, y 
 
 #### Artículo 23
 
-Las empresas podrán llevar por sí o a través de una filial, los registros de accionistas, de aportantes, de CDV, de valores extranjeros u otros similares, a solicitud del emisor, del depositario de valores extranjeros o de quien corresponda, en la forma y condiciones que determine el reglamento interno de la empresa o de la filial.
+Sin perjuicio de lo establecido en el artículo 1°, las empresas podrán constituir o participar en la propiedad de filiales que se constituyan conforme al artículo 126 de la ley Nº 18.046 y cuyo giro principal sea realizar actividades relacionadas, complementarias o afines al giro exclusivo de la empresa. Para efectos de fiscalizar a la empresa, la Superintendencia de Valores y Seguros tendrá, respecto de dichas filiales, las mismas facultades que le confiere su ley orgánica respecto de la empresa que las constituyó.
 
-Para los efectos de este artículo, las empresas podrán constituir una filial como sociedad anónima especial, que se regirá por las siguientes reglas específicas:
+#### Artículo 24
 
-a) Se constituirá conforme al artículo 126 de la ley Nº 18.046;
+Los depositantes podrán también delegar en la empresa el ejercicio de los derechos patrimoniales que deriven de los valores otorgados en custodia, habilitándolas para concurrir a la suscripción y pago de valores de oferta pública por cuenta de éstos, y para cobrar y percibir amortizaciones, intereses, dividendos, repartos y otros beneficios a que tengan derecho los depositantes.
 
-b) Su objeto será exclusivo, para llevar los citados registros;
-
-c) El nombre deberá contener una referencia a su objeto, pudiendo tener un nombre de fantasía al efecto;
-
-d) Se regirá por las normas aplicables a las sociedades anónimas abiertas en lo que no fuere contrario a la presente ley, y
-
-e) Quedará sujeta a lo establecido en el inciso final del artículo 1º de esta ley.
-
-La empresa o la filial en su caso, podrá emitir certificados para acreditar la existencia de los valores, según conste de los registros que lleve, los que tendrán mérito ejecutivo.
-
-#### Artículo 24°
-
-Las empresas podrán también con autorización expresa del depositante hacer efectivos los derechos patrimoniales que deriven de los valores recibidos en custodia, como concurrir a la suscripción y pago de valores de oferta pública por cuenta de éstos, cobrar y percibir amortizaciones, intereses, dividendos, repartos y otros beneficios a que tengan derecho los depositantes.
-
-Las empresas de depósito de valores no podrán concurrir a las juntas de accionistas, de tenedores de bonos o asambleas de aportantes, en representación de los depositantes o de los mandantes de éstos.
+Tal delegación se regirá por las normas que al efecto establezca la empresa en su reglamentación interna, junto con las demás normas que le sean aplicables.
 
 #### Artículo 25°
 
@@ -362,7 +382,7 @@ El comité o quien lo represente estará obligado a guardar absoluta reserva sob
 
 ## Título IV
 
-De la Regularización, Disolución y Quiebra
+De la Regularización, Disolución y Liquidación
 
 de las Empresas.
 
@@ -400,39 +420,39 @@ El comité de vigilancia, dentro del plazo de 30 días contado desde el hecho qu
 
 Mientras dure la administración provisoria del comité de vigilancia, la empresa designará un representante para que en su nombre, participe con derecho a voz en las decisiones del comité de vigilancia y en los procesos de traspasos o licitación en resguardo de sus intereses patrimoniales. El comité de vigilancia dará amplia y detallada información a este representante.
 
-3° QUIEBRA
+3° LIQUIDACIÓN
 
 #### Artículo 41
 
-En caso que algún acreedor pida la quiebra de la empresa, el juzgado deberá dar aviso a la Superintendencia la que investigará la solvencia de aquélla. Si la Superintendencia comprobare que puede responder a sus obligaciones, propondrá las medidas conducentes para que prosiga sus operaciones; si no lo estimare posible, informará en tal sentido. La Superintendencia deberá dar su resolución dentro del plazo de veinte días hábiles, contado desde la fecha en que sea requerida por el tribunal y si no se diere, el tribunal procederá sin ella. Durante los 180 días siguientes a la fecha en que se resolviere por el tribunal la prosecución de sus operaciones, nadie podrá entablar contra la empresa acción ejecutiva por cobro de dinero ni demanda alguna y quedarán suspendidas todas las tramitaciones judiciales de la quiebra. Vencido el plazo seguirá adelante el procedimiento.
+En caso que algún acreedor pida la liquidación forzosa de la empresa, el juzgado deberá dar aviso a la Superintendencia la que investigará la solvencia de aquélla. Si la Superintendencia comprobare que puede responder a sus obligaciones, propondrá las medidas conducentes para que prosiga sus operaciones; si no lo estimare posible, informará en tal sentido. La Superintendencia deberá dar su resolución dentro del plazo de veinte días hábiles, contado desde la fecha en que sea requerida por el tribunal y si no se diere, el tribunal procederá sin ella. Durante los 180 días siguientes a la fecha en que se resolviere por el tribunal la prosecución de sus operaciones, nadie podrá entablar contra la empresa acción ejecutiva por cobro de dinero ni demanda alguna y quedarán suspendidas todas las tramitaciones judiciales del procedimiento concursal de liquidación. Vencido el plazo seguirá adelante el procedimiento.
 
 #### Artículo 42
 
-En caso de proposición de convenio judicial preventivo, el síndico que el tribunal debe designar conforme al artículo 175 N° 1 de la Ley de Quiebras, tendrá la administración de la empresa como si se tratare de una quiebra declarada. El Síndico asumirá sus funciones en la forma y oportunidad establecidas en el artículo 26 de la misma ley.
+En caso de proposición de acuerdo de reorganización, el veedor que el tribunal designe tendrá la administración de la empresa como si se tratare de un procedimiento concursal de liquidación declarado. El veedor asumirá sus funciones en la forma y oportunidad establecida en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
 #### Artículo 43
 
-Declarada en quiebra una empresa, el síndico provisional continuará efectivamente el giro de la fallida mientras la junta de acreedores no designe otro administrador. Esta continuación del giro no se prolongará más allá de un año contado desde la fecha de la declaración de la quiebra, a menos que la junta de acreedores lo acuerde con los votos que indica el artículo 112 de la Ley de Quiebras.
+Dictada la resolución de liquidación, el liquidador provisional continuará las actividades económicas del deudor mientras la junta de acreedores no designe otro administrador. Esta continuación de actividades económicas no se prolongará más allá de un año contado desde la fecha de la resolución de liquidación, a menos que la junta de acreedores lo acuerde con quórum especial de acuerdo a lo señalado en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
-Antes de vencido dicho año, sólo con autorización del tribunal de la quiebra podrá ponerse término a la continuación del giro o excluirse de éste bienes del activo de la quiebra.
+Antes de vencido dicho año, sólo con autorización del tribunal que conoce del procedimiento concursal de liquidación podrá ponerse término a la continuación definitiva de las actividades económicas o excluirse de ésta bienes del activo de la liquidación.
 
-Las obligaciones contraídas por el administrador del giro durante ese primer año, sólo podrán hacerse efectivas sobre los bienes comprendidos en el giro y gozarán de la preferencia que establece el artículo 100 de la Ley de Quiebras.
+Las obligaciones contraídas por el administrador de la continuación de las actividades económicas durante ese primer año sólo podrán hacerse efectivas sobre los bienes comprendidos en dicha continuación y gozarán de la preferencia que establece el artículo 239 de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
 #### Artículo 44
 
-Vencido el plazo de un año contado desde la declaración de la quiebra, podrá continuarse el giro en los casos y con arreglo a las normas que señala la Ley de Quiebras. El acuerdo podrá tomarse aún antes de vencido dicho plazo. Los bienes que en virtud del acuerdo de los acreedores queden excluidos del giro, seguirán respondiendo por las deudas nacidas durante el primer año.
+Vencido el plazo de un año contado desde que se dicte la resolución de liquidación, podrá continuarse las actividades económicas del deudor en los casos y con arreglo a las normas que señala la Ley de Reorganización y Liquidación de Activos de Empresas y Personas. El acuerdo podrá adoptarse aun antes de vencido dicho plazo. Los bienes que en virtud del acuerdo de los acreedores queden excluidos de la continuación de las actividades económicas seguirán respondiendo por las deudas nacidas durante el primer año.
 
-Los créditos nacidos después de vencido el primer año de giro, gozarán de la preferencia de pago que establece el artículo 114 de la Ley de Quiebras respecto de las demás obligaciones del fallido, incluidos los créditos nacidos durante dicho primer año.
+Los créditos nacidos después de vencido el primer año de la continuación de las actividades económicas gozarán de la preferencia de pago que establece el artículo 239 de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas respecto de las demás obligaciones del deudor, incluidos los créditos nacidos durante dicho primer año.
 
 #### Artículo 45
 
-Durante el primer año siguiente a la fecha de la declaración de quiebra, los bienes de la empresa sólo podrán ser enajenados como unidad económica a otra sociedad del mismo giro, salvo aquellos cuya enajenación separada autorice el juez de la quiebra. El adquirente deberá continuar, sin solución de continuidad, el giro de la empresa ordenado en el artículo 41. Si hubiere más de una sociedad del mismo giro, para materializar dicho traspaso, se hará una licitación entre ellas.
+Durante el primer año siguiente a la fecha de la resolución de liquidación, los bienes de la empresa sólo podrán ser enajenados como unidad económica a otra sociedad del mismo giro, salvo aquéllos cuya enajenación separada autorice el juez que conoce del procedimiento concursal de liquidación. El adquirente deberá continuar, sin solución de continuidad, el giro de la empresa ordenado en el artículo 41. Si hubiere más de una sociedad del mismo giro, para materializar dicho traspaso, se hará una licitación entre ellas.
 
 #### Artículo 46
 
-Para pronunciarse sobre la solicitud de autorización para terminar el giro, excluir bienes de éste o de la enajenación como unidad económica a que se refieren los artículos precedentes, el tribunal deberá oír previamente al síndico y al comité de vigilancia representado, para estos efectos, por su presidente o quien haga sus veces conforme al reglamento interno y a la Superintendencia de Valores. El tribunal dará la autorización si viere que accediendo a ellas no se pone en peligro el adecuado funcionamiento del mercado de valores.
+Para pronunciarse sobre la solicitud de autorización para terminar el giro, excluir bienes de éste o de la enajenación como unidad económica a que se refieren los artículos precedentes, el tribunal deberá oír previamente al liquidador y al comité de vigilancia representado, para estos efectos, por su presidente o quien haga sus veces conforme al reglamento interno y a la Superintendencia de Valores. El tribunal dará la autorización si viere que accediendo a ellas no se pone en peligro el adecuado funcionamiento del mercado de valores.
 
-En lo que no sea contrario a esta ley se aplicarán los preceptos de la ley 18.175.
+En lo que no sea contrario a esta ley se aplicarán los preceptos de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
 ## Título V
 

@@ -708,19 +708,19 @@ b) Reemplázase el número 1 por el siguiente:
 
 "1°.- La renta de los bienes raíces en conformidad a las normas siguientes:
 
-Tratándose de contribuyentes que posean o exploten a cualquier título bienes raíces se gravará la renta efectiva de dichos bienes.
+a) Tratándose de contribuyentes que posean o exploten a cualquier título bienes raíces se gravará la renta efectiva de dichos bienes.
 
 En el caso de los bienes raíces agrícolas, del monto del impuesto de esta categoría podrá rebajarse el impuesto territorial pagado por el período al cual corresponde la declaración de renta. Sólo tendrá derecho a esta rebaja el propietario o usufructuario. Si el monto de la rebaja contemplada en este párrafo excediere del impuesto aplicable a las rentas de esta categoría, dicho excedente no podrá imputarse a otro impuesto ni solicitarse su devolución. Tampoco dará derecho a devolución conforme a lo dispuesto en los artículos 31, número 3; 56, número 3 y 63, ni a ninguna otra disposición legal, el impuesto de primera categoría en aquella parte que se haya deducido de dicho tributo el crédito por el impuesto territorial. El Servicio, mediante resolución, impartirá las instrucciones para el control de lo dispuesto en este párrafo.
 
 La cantidad cuya deducción se autoriza en el párrafo anterior se reajustará de acuerdo con el porcentaje de variación experimentado por el índice de precios al consumidor en el período comprendido entre el mes anterior a la fecha de pago de la contribución y el mes anterior al de cierre del ejercicio respectivo.
 
-En el caso de contribuyentes que no declaren su renta efectiva según contabilidad completa, y den en arrendamiento, subarrendamiento, usufructo u otra forma de cesión o uso temporal, bienes raíces, se gravará la renta efectiva de dichos bienes, acreditada mediante el respectivo contrato, sin deducción alguna.
+b) En el caso de contribuyentes que no declaren su renta efectiva según contabilidad completa, y den en arrendamiento, subarrendamiento, usufructo u otra forma de cesión o uso temporal, bienes raíces, se gravará la renta efectiva de dichos bienes, acreditada mediante el respectivo contrato, sin deducción alguna.
 
 Para estos efectos, se considerará como parte de la renta efectiva el valor de las mejoras útiles, contribuciones, beneficios y demás desembolsos convenidos en el respectivo contrato o posteriormente autorizados, siempre que no se encuentren sujetos a la condición de reintegro y queden a beneficio del arrendador, subarrendador, nudo propietario o cedente a cualquier título de bienes raíces.
 
 Serán aplicables a los contribuyentes de esta letra las normas de los dos últimos párrafos de la letra a) de este número.
 
-Las empresas constructoras e inmobiliarias por los inmuebles que construyan o manden construir para su venta posterior, podrán imputar al impuesto de este párrafo el impuesto territorial pagado desde la fecha de la recepción definitiva de las obras de edificación, aplicándose las normas de los dos últimos párrafos de la letra a) de este número.".
+c) Las empresas constructoras e inmobiliarias por los inmuebles que construyan o manden construir para su venta posterior, podrán imputar al impuesto de este párrafo el impuesto territorial pagado desde la fecha de la recepción definitiva de las obras de edificación, aplicándose las normas de los dos últimos párrafos de la letra a) de este número.".
 
 11) Sustitúyese el artículo 21 por el siguiente:
 
@@ -1152,7 +1152,7 @@ vii) Las rentas pasivas consolidadas sujetas al artículo 41 G no formarán part
 
 viii) Sin perjuicio de lo anterior, cuando corresponda deberá aplicarse lo dispuesto en el artículo 41 C, considerando para tal efecto las normas establecidas en la letra A), del artículo 41 A. En tal caso, el crédito total disponible se imputará contra el impuesto de primera categoría y global complementario o adicional, de acuerdo a las reglas señaladas. Para tales efectos, se aplicará lo dispuesto en el artículo 41 C cuando exista un convenio para evitar la doble tributación internacional suscrito por Chile que se encuentre vigente, con el país que haya aplicado los impuestos acreditables en Chile.
 
-C.- Rentas por el uso de marcas, patentes, fórmulas, asesorías técnicas y otras prestaciones similares que hayan sido gravadas en el extranjero.
+C.- Rentas por el uso de marcas, patentes, fórmulas, asesorías técnicas, otras prestaciones similares y servicios calificados como exportación, que hayan sido gravadas en el extranjero.
 
 Los contribuyentes que perciban del exterior rentas por el uso de marcas, patentes, fórmulas, asesorías técnicas y otras prestaciones similares, deberán considerar las siguientes normas para los efectos de aplicar a dichas rentas el impuesto de primera categoría:
 
@@ -1168,7 +1168,15 @@ La cantidad señalada en el párrafo anterior no podrá ser superior al crédito
 
 Los contribuyentes deberán en todo caso, mantener un control separado de aquella parte del crédito por impuesto de primera categoría anotado en el saldo acumulado de crédito a que se refiere la letra d), del número 2., de la letra B), del artículo 14, que haya sido cubierto con el crédito del exterior, a los que se les aplicará lo dispuesto en el número 7.- de la letra D.- de este artículo. El crédito que establecen los artículos 56 número 3) y 63, que haya sido cubierto con este crédito del exterior, se deducirá del impuesto global complementario o adicional determinado, según corresponda, con posterioridad a cualquier otro crédito o deducción autorizada por la ley. Si hubiera un remanente de crédito, éste no dará derecho a devolución o imputación a otros impuestos ni podrá recuperarse en los años posteriores.
 
-D.- Normas comunes.
+A las mismas reglas de esta letra podrán sujetarse los contribuyentes que presten servicios calificados como exportación, de conformidad a lo establecido en el número 16 de la letra E del artículo 12 del decreto ley N° 825, de 1974.
+
+D.- Otras rentas.
+
+Los contribuyentes que, sin perder el domicilio o la residencia en Chile, perciban rentas gravadas en el extranjero clasificadas en los números 1° y 2° del artículo 42, podrán imputar como crédito contra el impuesto único establecido en el artículo 43 o el impuesto global complementario a que se refiere el artículo 52, los impuestos a la renta pagados o retenidos por tales rentas, aplicando al efecto lo dispuesto en el número 3 del artículo 41 C.
+
+En todo caso, el crédito no podrá exceder del 32% de una cantidad tal que, al restarle dicho porcentaje, la cantidad resultante sea el monto neto de la renta percibida respecto de la cual se calcula el crédito. Si el impuesto pagado o retenido en el extranjero es inferior a dicho crédito, corresponderá deducir la cantidad menor. En todo caso, una suma igual al crédito por impuestos externos se agregará a la renta extranjera declarada.
+
+E.- Normas comunes.
 
 1.- Para efectuar el cálculo del crédito por los impuestos extranjeros, tanto los impuestos respectivos como los dividendos, retiros y rentas gravadas en el extranjero, se convertirán a su equivalente en pesos chilenos de acuerdo a la paridad cambiaria entre la moneda nacional y la moneda extranjera correspondiente, y se reajustarán en el
 
