@@ -450,9 +450,11 @@ Montt L.C.S.
 
 Montt L.C.S.
 
-514,630 Diuquín/ Sector Alameda/Pto.
+514,630 Diuquín/
 
-Millantú Montt L.C.S.
+Millantú Sector Alameda/Pto.
+
+Montt L.C.S.
 
 524,570 Sin Nombre Sector Alameda/Pto.
 
@@ -497,6 +499,8 @@ Montt L.C.S.
 648,040 Perquenco Sector Alameda/Pto.
 
 Montt L.C.S.
+
+660,600 Erasmo Ovando Línea Central Sur
 
 662,170 Calle Valdivia Sector Alameda/Pto.
 
@@ -598,21 +602,29 @@ ELIMINADO
 
 185,080 Simón Bolívar Línea Yungay/Puerto
 
-0,182 San Pedro R. San Pedro/Ventanas
+0,182 San Pedro R. San Pedro/
 
-1,040 Troncal R. San Pedro/Ventanas
+Ventanas
 
-2,170 Morandé R. Llay Llay/Los Andes
+1,040 Troncal R. San Pedro/
 
-26,760 Nuevo Palomar R. Llay Llay/Los Andes
+Ventanas
+
+2,170 Morandé R. Llay Llay/
+
+Los Andes
+
+26,760 Nuevo Palomar R. Llay Llay/
+
+Los Andes
 
 43,704 El Laberinto Ramal Llay Llay-
 
 Los Andes
 
-5,560 El Sauce R. Los Andes/
+5,560 El Sauce R. Los Andes/Río
 
-Río Blanco
+Blanco
 
 3,380 ELIMINADO
 
@@ -630,59 +642,109 @@ Río Blanco
 
 7,613 ELIMINADO
 
-2,466 B. del Mercado R. Alameda/Barrancas
+2,466 B. del Mercado R. Alameda/
 
-9,390 La Capilla R. Alameda/Barrancas
+Barrancas
 
-11,800 Pajaritos R. Alameda/Barrancas
+9,390 La Capilla R. Alameda/
 
-18,950 Valparaíso R. Alameda/Barrancas
+Barrancas
 
-19,640 Sta. Cruz R. Alameda/Barrancas
+11,800 Pajaritos R. Alameda/
 
-24,100 Miraflores R. Alameda/Barrancas
+Barrancas
 
-33,300 Peñaflor R. Alameda/Barrancas
+18,950 Valparaíso R. Alameda/
 
-34,200 Eyzaguirre R. Alameda/Barrancas
+Barrancas
 
-39,600 Los Carreras R. Alameda/Barrancas
+19,640 Sta. Cruz R. Alameda/
 
-45,086 El Paico R. Alameda/Barrancas
+Barrancas
 
-56,015 Pomaire R. Alameda/Barrancas
+24,100 Miraflores R. Alameda/
 
-61,200 Los Cruceros R. Alameda/Barrancas
+Barrancas
 
-89,200 San Juan R. Alameda/Barrancas
+33,300 Peñaflor R. Alameda/
 
-109,000 La Barraca R. Alameda/Barrancas
+Barrancas
 
-110,000 Juan Aspee R. Alameda/Barrancas
+34,200 Eyzaguirre R. Alameda/
 
-112,000 Gobernación R. Alameda/Barrancas
+Barrancas
 
-24,810 O'Higgins R. Paine/Talagante
+39,600 Los Carreras R. Alameda/
 
-99,038 Sin Nombre R. Rucapequén/Concepción
+Barrancas
 
-127,650 Paicaví R. Rucapequén/Concepción
+45,086 El Paico R. Alameda/
 
-128,415 Aníbal Pinto R. Rucapequén/Concepción
+Barrancas
 
-128,675 Calle Rengo R. Rucapequén/Concepción
+56,015 Pomaire R. Alameda/
 
-128,930 Calle Angol R. Rucapequén/Concepción
+Barrancas
 
-129,050 Calle Prat R. Rucapequén/Concepción
+61,200 Los Cruceros R. Alameda/
 
-129,340 Andalién R. Rucapequén/Concepción
+Barrancas
+
+89,200 San Juan R. Alameda/
+
+Barrancas
+
+109,000 La Barraca R. Alameda/
+
+Barrancas
+
+110,000 Juan Aspee R. Alameda/
+
+Barrancas
+
+112,000 Gobernación R. Alameda/
+
+Barrancas
+
+24,810 O'Higgins R. Paine/
+
+Talagante
+
+99,038 Sin Nombre R. Rucapequén/
+
+Concepción
+
+127,650 Paicaví R. Rucapequén/
+
+Concepción
+
+128,415 Aníbal Pinto R. Rucapequén/
+
+Concepción
+
+128,675 Calle Rengo R. Rucapequén/
+
+Concepción
+
+128,930 Calle Angol R. Rucapequén/
+
+Concepción
+
+129,050 Calle Prat R. Rucapequén/
+
+Concepción
+
+129,340 Andalién R. Rucapequén/
+
+Concepción
 
 34,100 Sin Nombre Ramal San Rosendo/
 
 Talcahuano
 
-39,065 Cruce Nº1 Ramal San Rosendo- Talcahuano
+39,065 Cruce Nº1 Ramal San Rosendo-
+
+Talcahuano
 
 Variante
 
@@ -692,7 +754,9 @@ Quilacoya
 
 41,625 Cruce Nº2 Ramal San Rosendo-
 
-Variante Talcahuano
+Talcahuano
+
+Variante
 
 Hualqui -
 
@@ -760,13 +824,15 @@ Carahue
 
 24,635 Circunvalación Ramal Antilhue/
 
-Valdivia Valdivia
+Valdivia
 
 27,280 Collico Ramal Antilhue/
 
 Valdivia
 
-13,360 Intersección Ramal Alameda-San
+13,360 Intersección Ramal Alameda-
+
+San
 
 Calle Tres Antonio
 
@@ -1246,31 +1312,57 @@ Montt L.C.S.
 
 de Chile
 
-6,914 Chagres Ramal Llay Llay/Los Andes
+6,914 Chagres Ramal Llay Llay/
 
-19,464 Panquehue Ramal Llay Llay/Los Andes
+Los Andes
 
-30,815 El Puente Ramal Llay Llay/Los Andes
+19,464 Panquehue Ramal Llay Llay/
 
-31,618 Dardignac Ramal Llay Llay/Los Andes
+Los Andes
 
-32,023 12 Febrero Ramal Llay Llay/Los Andes
+30,815 El Puente Ramal Llay Llay/
 
-37,000 Curimón Ramal Llay Llay/Los Andes
+Los Andes
 
-40,510 El Bosque Ramal Llay Llay/Los Andes
+31,618 Dardignac Ramal Llay Llay/
 
-41,795 San Rafael Ramal Llay Llay/Los Andes
+Los Andes
 
-42,000 La Tortilla Ramal Llay Llay/Los Andes
+32,023 12 Febrero Ramal Llay Llay/
 
-44,980 La Junta Ramal Llay Llay/Los Andes
+Los Andes
 
-45,900 Cementerio Ramal Llay Llay/Los Andes
+37,000 Curimón Ramal Llay Llay/
 
-1,100 Hnos. Clark Ramal Los Andes/Río Blanco
+Los Andes
 
-37,500 Guardia Vieja Ramal Los Andes/Río Blanco
+40,510 El Bosque Ramal Llay Llay/
+
+Los Andes
+
+41,795 San Rafael Ramal Llay Llay/
+
+Los Andes
+
+42,000 La Tortilla Ramal Llay Llay/
+
+Los Andes
+
+44,980 La Junta Ramal Llay Llay/
+
+Los Andes
+
+45,900 Cementerio Ramal Llay Llay/
+
+Los Andes
+
+1,100 Hnos. Clark Ramal Los Andes/
+
+Río Blanco
+
+37,500 Guardia Vieja Ramal Los Andes/
+
+Río Blanco
 
 0,500 Eliminado
 
@@ -1298,19 +1390,33 @@ de Chile
 
 108,200 Llolleo Ramal a Barrancas
 
-4,350 Victoria Ramal Paine/Talagante
+4,350 Victoria Ramal Paine/
 
-5,950 Viluco Ramal Paine/Talagante
+Talagante
 
-8,010 Campusano Ramal Paine/Talagante
+5,950 Viluco Ramal Paine/
 
-9,110 Estancillla Ramal Paine/Talagante
+Talagante
 
-15,650 Sin Nombre Ramal Paine/Talagante
+8,010 Campusano Ramal Paine/
 
-15,860 Sin Nombre Ramal Paine/Talagante
+Talagante
 
-19,460 Sin Nombre Ramal Paine/Talagante
+9,110 Estancillla Ramal Paine/
+
+Talagante
+
+15,650 Sin Nombre Ramal Paine/
+
+Talagante
+
+15,860 Sin Nombre Ramal Paine/
+
+Talagante
+
+19,460 Sin Nombre Ramal Paine/
+
+Talagante
 
 0,240 Centinela Ramal a Pichilemu
 
@@ -1346,91 +1452,173 @@ de Chile
 
 ELIMINADO
 
-1,915 El Mirador Ramal Talca/Constitución
+1,915 El Mirador Ramal Talca/
 
-8,535 Unihue Ramal Talca/Constitución
+Constitución
 
-12,890 Colín Ramal Talca/Constitución
+8,535 Unihue Ramal Talca/
 
-14,900 Perales Ramal Talca/Constitución
+Constitución
 
-27,280 Sin Nombre Ramal Talca/Constitución
+12,890 Colín Ramal Talca/
 
-33,850 Sin Nombre Ramal Talca/Constitución
+Constitución
 
-87,580 Sin Nombre Ramal Talca/Constitución
+14,900 Perales Ramal Talca/
 
-87,950 Sin Nombre Ramal Talca/Constitución
+Constitución
 
-88,400 Constitución Ramal Talca/Constitución
+27,280 Sin Nombre Ramal Talca/
 
-1,030 Sin Nombre R. Rucapequén/Concepción
+Constitución
 
-2,110 Sin Nombre R. Rucapequén/Concepción
+33,850 Sin Nombre Ramal Talca/
 
-9,790 Colliguay R. Rucapequén/Concepción
+Constitución
 
-11,680 Sin Nombre R. Rucapequén/Concepción
+87,580 Sin Nombre Ramal Talca/
 
-12,905 Sin Nombre R. Rucapequén/Concepción
+Constitución
 
-15,170 Sin Nombre R. Rucapequén/Concepción
+87,950 Sin Nombre Ramal Talca/
 
-16,950 Sin Nombre R. Rucapequén/Concepción
+Constitución
 
-19,100 Nueva Aldea R. Rucapequén/Concepción
+88,400 Constitución Ramal Talca/
 
-28,370 Ñipas R. Rucapequén/Concepción
+Constitución
 
-38,570 Sin Nombre R. Rucapequén/Concepción
+1,030 Sin Nombre R. Rucapequén/
 
-48,825 Coelemu Oriente R. Rucapequén/Concepción
+Concepción
 
-49,340 Coelemu
+2,110 Sin Nombre R. Rucapequén/
 
-Poniente R. Rucapequén/Concepción
+Concepción
 
-50,943 Sin Nombre R. Rucapequén/Concepción
+9,790 Colliguay R. Rucapequén/
 
-53,547 Sin Nombre R. Rucapequén/Concepción
+Concepción
 
-59,910 Sin Nombre R. Rucapequén/Concepción
+11,680 Sin Nombre R. Rucapequén/
 
-62,290 Ranguelmo R. Rucapequén/Concepción
+Concepción
 
-97,882 Sin Nombre R. Rucapequén/Concepción
+12,905 Sin Nombre R. Rucapequén/
 
-68,110 Sin Nombre R. Rucapequén/Concepción
+Concepción
 
-73,890 Sin Nombre R. Rucapequén/Concepción
+15,170 Sin Nombre R. Rucapequén/
 
-80,047 Menque R. Rucapequén/Concepción
+Concepción
 
-80,705 Dichato R. Rucapequén/Concepción
+16,950 Sin Nombre R. Rucapequén/
 
-86,047 Sin Nombre R. Rucapequén/Concepción
+Concepción
 
-88,968 Dichato R. Rucapequén/Concepción
+19,100 Nueva Aldea R. Rucapequén/
 
-89,360 Dichato Oriente R. Rucapequén/Concepción
+Concepción
 
-93,090 Sin Nombre R. Rucapequén/Concepción
+28,370 Ñipas R. Rucapequén/
 
-95,815 Sin Nombre R. Rucapequén/Concepción
+Concepción
 
-99,300 Sin Nombre R. Rucapequén/Concepción
+38,570 Sin Nombre R. Rucapequén/
 
-112,130 Sin Nombre R. Rucapequén/Concepción
+Concepción
 
-113,690 Sin Nombre R. Rucapequén/Concepción
+48,825 Coelemu Oriente R. Rucapequén/
 
-114,590 Sin Nombre R. Rucapequén/Concepción
+Concepción
 
-114,825 Sin Nombre R. Rucapequén/Concepción
+49,340 Coelemu R. Rucapequén/
 
-115,435 Sin Nombre R. Rucapequén/Concepción
+Poniente Concepción
 
-128,040 Tucapel R. Rucapequén/Concepción
+50,943 Sin Nombre R. Rucapequén/
+
+Concepción
+
+53,547 Sin Nombre R. Rucapequén/
+
+Concepción
+
+59,910 Sin Nombre R. Rucapequén/
+
+Concepción
+
+62,290 Ranguelmo R. Rucapequén/
+
+Concepción
+
+97,882 Sin Nombre R. Rucapequén/
+
+Concepción
+
+68,110 Sin Nombre R. Rucapequén/
+
+Concepción
+
+73,890 Sin Nombre R. Rucapequén/
+
+Concepción
+
+80,047 Menque R. Rucapequén/
+
+Concepción
+
+80,705 Dichato R. Rucapequén/
+
+Concepción
+
+86,047 Sin Nombre R. Rucapequén/
+
+Concepción
+
+88,968 Dichato R. Rucapequén/
+
+Concepción
+
+89,360 Dichato Oriente R. Rucapequén/
+
+Concepción
+
+93,090 Sin Nombre R. Rucapequén/
+
+Concepción
+
+95,815 Sin Nombre R. Rucapequén/
+
+Concepción
+
+99,300 Sin Nombre R. Rucapequén/
+
+Concepción
+
+112,130 Sin Nombre R. Rucapequén/
+
+Concepción
+
+113,690 Sin Nombre R. Rucapequén/
+
+Concepción
+
+114,590 Sin Nombre R. Rucapequén/
+
+Concepción
+
+114,825 Sin Nombre R. Rucapequén/
+
+Concepción
+
+115,435 Sin Nombre R. Rucapequén/
+
+Concepción
+
+128,040 Tucapel R. Rucapequén/
+
+Concepción
 
 ELIMINADO
 
@@ -1488,17 +1676,13 @@ Talcahuano
 
 Curanilahue
 
-5,270 Bío Bío L.
+5,270 Bío Bío L. Ramal Concepción/
 
-Coloradas Ramal Concepción/
+Coloradas Curanilahue
 
-Curanilahue
+6,680 Bío Bío Ramal Concepción/
 
-6,680 Bío Bío
-
-L. Coloradas Ramal Concepción/
-
-Curanilahue
+L. Coloradas Curanilahue
 
 26,615 Sin Nombre Ramal Concepción/
 
@@ -1538,11 +1722,11 @@ Coronel Curanilagüe
 
 28,151 Sin Nombre R. Concepción/
 
+28,302 Escuadrón Curanilagüe
+
+Coronel R. Concepción/
+
 Curanilagüe
-
-28,302 Escuadrón R. Concepción/
-
-Coronel Curanilagüe
 
 28,750 Coronel/Lota R. Concepción/
 
@@ -1624,9 +1808,11 @@ Nacimiento
 
 Nacimiento
 
-6,600 Est. Coigüe Ramal Coigüe/
+6,600 Est. Coigüe
 
-Norte Mulchén
+Norte Ramal Coigüe/
+
+Mulchén
 
 ELIMINADO
 
