@@ -28,7 +28,7 @@ DICTA E INSTRUYE NORMAS DE CARÁCTER GENERAL SOBRE ENTIDADES DE INSPECCIÓN AMBI
 
 #### Artículo único
 
-Se entenderá autorizada de forma transitoria como Entidad de Inspección Ambiental y, en consecuencia, podrá desarrollar actividades de muestreo, análisis y/o medición, a toda entidad: (i) acreditada, certificada o autorizada por un organismo de la administración del Estado para llevar a cabo tales actividades, y (ii) cuya acreditación, certificación o autorización se encuentre vigente al momento de la entrada en vigencia de la presente resolución.
+En todos aquellos casos en que no exista un alcance autorizado, las actividades de muestreo, análisis y/o medición podrán ser ejecutadas por una entidad autorizada por un organismo de la Administración del Estado para llevar a cabo tales actividades, en la medida que tal autorización se encuentre vigente al momento de iniciar la actividad de que se trate.
 
 Lo anterior también se aplicará respecto de aquella entidad que cuente con acreditación vigente en el Sistema Nacional de Acreditación administrado por el Instituto Nacional de Normalización, o la entidad que la suceda, respecto de un área y alcance técnico afín a las actividades de inspección ambiental.
 
