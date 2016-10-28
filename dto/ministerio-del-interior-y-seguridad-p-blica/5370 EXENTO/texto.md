@@ -456,23 +456,7 @@ Patente: GVGK.67
 
 22.- Fiscalía Local de Pichilemu
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE- 2.5
-
-Año: 2014
-
-Motor: YD25871935B
-
-Chassis: MNTVCGD40E6601055
-
-Color: Blanco
-
-I.N.R.V.M.: GVGK.70-0
-
-Patente: GVGK.70
+DEJA SIN EFECTO
 
 23.- Fiscalía Local de Graneros
 
