@@ -984,7 +984,7 @@ Los proyectos que contemplen la edificación de una vivienda y/o equipamiento en
 
 Los proyectos que contemplen uso de suelo equipamiento deberán enfrentar una vía existente o proyectada cuyo ancho de faja vial sea igual o superior a 20 metros.
 
-> **Nota.** El artículo 1° del Decreto S/N, Municipalidad de Colina, publicado el 19.12.2017, modifica algunas condiciones urbanísticas al sur de "Colina Esmeralda" para la Zona A2 Barrio Los Robles, en específico el incremento del 30% en los coeficientes de constructibilidad y ocupación de suelo.
+NOTA
 
 #### Artículo 4
 
@@ -3083,8 +3083,6 @@ Las instalaciones y construcciones propias de su uso específico y las complemen
 El desarrollo de actividades deportivas en ésta zona deberá considerar la implementación y dotación de los servicios higiénicos mínimos para su buen funcionamiento.
 
 El Municipio podrá autorizar la instalación temporal de estructuras livianas, como son ferias artesanales, teatros al aire libre y otros similares. Las estructuras o construcciones temporales que dichas actividades requieran estarán sujetas a las normas de edificación de esta zona.
-
-> **Nota.** El artículo 1° del Decreto S/N, Municipalidad de Colina, publicado el 19.12.2017, modifica algunas condiciones urbanísticas al sur de "Colina Esmeralda" para la Zona E3 Complejo Deportivo Colina, en específico el área demarcada permitiendo el equipamiento vecinal y el incremento del 30% en los coeficientes de constructibilidad y ocupación de suelo.
 
 #### Artículo 4
 
