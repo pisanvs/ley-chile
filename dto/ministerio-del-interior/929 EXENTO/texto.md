@@ -14,23 +14,7 @@ Autorízase la circulación en días sábado en la tarde, domingo y festivos a l
 
 Fiscalía Regional de la IV Región:
 
-Vehículo : Furgón
-
-Marca : Peugeot
-
-Modelo : Boxer Tole 330 MH HDI 2.0
-
-Color : blanco
-
-Año : 2003
-
-Nº motor : 10DYER4045823
-
-Nº chassis : VF3ZBAMNB17151760
-
-I.R.N.V.M. : VV-8239-9
-
-Placa Unica : VV-8239-9
+DEJA SIN EFECTO
 
 Fiscalía Regional de la VII Región:
 
