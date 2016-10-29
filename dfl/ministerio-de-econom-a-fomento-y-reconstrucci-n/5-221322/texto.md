@@ -934,15 +934,19 @@ m) Adquirir, conservar y enajenar los bienes corporales muebles necesarios para 
 
 n) Emitir y operar tarjetas de crédito, para sus socios;
 
-o) Previa autorización del organismo fiscalizador respectivo, constituir en el país sociedades filiales, ser accionistas o tener participación en una sociedad o cooperativa de apoyo al giro, en conformidad al título IX de la ley General de Bancos, cuyo texto refundido, sistematizado y concordado fue fijado por el decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda.
+o) Emitir y operar, para sus socios y terceros, medios de pago con provisión de fondos, con sujeción a las normas que dicte el Banco Central de Chile de conformidad a su ley orgánica constitucional;
+
+p) Previa autorización del organismo fiscalizador respectivo, constituir en el país sociedades filiales, ser accionistas o tener participación en una sociedad o cooperativa de apoyo al giro, en conformidad al título IX de la ley General de Bancos, cuyo texto refundido, sistematizado y concordado fue fijado por el decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda.
 
 La resolución a que hace mención el artículo 73 de la señalada ley General de Bancos, respecto de las cooperativas de ahorro y crédito sometidas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras, podrá ser fundada en todo caso, en la existencia de deficiencias en su gestión que no la habilitan para acceder a la nueva actividad. En ningún caso se entenderá aprobada la solicitud en el evento previsto en el inciso segundo del citado artículo 73;
 
-p) Otorgar a sus clientes servicios financieros por cuenta de terceros, en la forma y condiciones que determine el órgano fiscalizador respectivo, y
+q) Otorgar a sus clientes servicios financieros por cuenta de terceros, en la forma y condiciones que determine el órgano fiscalizador respectivo, y
 
-q) Otras operaciones que autorice el Banco Central de Chile, conforme a sus facultades. Las operaciones antes señaladas sólo podrán ser ejecutadas bajo las condiciones, requisitos y modalidades que establezca el Banco Central de Chile, de conformidad a sus facultades.
+r) Otras operaciones que autorice el Banco Central de Chile, conforme a sus facultades. Las operaciones antes señaladas sólo podrán ser ejecutadas bajo las condiciones, requisitos y modalidades que establezca el Banco Central de Chile, de conformidad a sus facultades.
 
-Para la realización de las operaciones establecidas en las letras b) y g), en lo referente a mutuos hipotecarios endosables, h), i), k), n) y o), en lo relacionado a la constitución de sociedades filiales, las cooperativas de ahorro y crédito deberán contar con un patrimonio igual o superior a 400.000 unidades de fomento y encontrarse sometidas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras.
+Para la realización de las operaciones establecidas en las letras b), g), en lo referente a mutuos hipotecarios endosables, h), i), k), n), o) y p), las cooperativas de ahorro y crédito deberán contar con un patrimonio pagado igual o superior a 400.000 unidades de fomento y encontrarse sometidas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras.
+
+Sin perjuicio de lo establecido en el inciso precedente, las cooperativas de ahorro y crédito cuyo patrimonio sea inferior a 400.000 unidades de fomento, para efectos de emitir u operar medios de pago con provisión de fondos, deberán constituir sociedades filiales, cumpliendo con lo dispuesto en la ley que autoriza la emisión de dichos medios de pago por entidades no bancarias, y en la normativa dictada conforme a ella. Las sociedades filiales constituidas en virtud de lo dispuesto en este inciso quedarán sujetas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras, y se entenderá a los miembros del consejo de administración como sujetos obligados a cumplir con el requisito de integridad contemplado en el artículo 28 de la Ley General de Bancos.
 
 #### Artículo 87
 

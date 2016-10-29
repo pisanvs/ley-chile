@@ -156,7 +156,9 @@ Corresponderá a las Cajas de Compensación la administración de prestaciones d
 
 8.- Promover, organizar, coordinar y ejecutar iniciativas y acciones que tengan por objeto mejorar el bienestar social de los trabajadores afiliados y su núcleo familiar, y
 
-9.- Efectuar las demás funciones que establezca la ley.
+9.- Constituir sociedades con el objeto exclusivo de emitir y operar medios de pago con provisión de fondos, en los términos establecidos en la ley que autoriza la emisión de estos medios de pago por entidades no bancarias y a la normativa dictada conforme a ella. Las sociedades constituidas en virtud de este numeral quedarán sujetas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras, quedando los administradores de la Caja de Compensación obligados a cumplir los requisitos de integridad contemplados en el artículo 28 de la Ley General de Bancos.
+
+10.- Efectuar las demás funciones que establezca la ley.
 
 Las Cajas de Compensación estarán facultadas para celebrar convenios con el Fondo Nacional de Salud, sobre otorgamiento de credenciales de salud, venta, emisión y pago de órdenes de atención, y, otorgamiento y cobro de los préstamos que establece el artículo 31 de la ley N° 18.469.
 
@@ -191,6 +193,12 @@ Podrán ser cesionarios de estos créditos los bancos, las sociedades financiera
 Lo adeudado por prestaciones de crédito social a una Caja de Compensación por un trabajador afiliado, deberá ser deducido de la remuneración por la entidad empleadora afiliada, retenido y remesado a la Caja acreedora, y se regirá por las mismas normas de pago y de cobro que las cotizaciones previsionales.
 
 Practicada la deducción al trabajador, se entenderá extinguida a su respecto y de sus codeudores la parte correspondiente de la deuda, desde la fecha en que ella hubiera tenido lugar, aunque no haya sido remesada por el empleador a la Caja, debiendo dirigirse exclusivamente contra éste las acciones destinadas al cobro de las sumas no enteradas.
+
+En caso que la entidad empleadora afiliada tenga la calidad de deudora de un procedimiento concursal de liquidación, y una vez que se haya dictado la resolución de liquidación pertinente, regirán las siguientes reglas:
+
+1.- Las cuotas de créditos sociales devengadas y descontadas de la remuneración por el empleador que no hayan sido remesadas a la Caja de Compensación a la fecha de la dictación de la resolución de liquidación gozarán de la preferencia del número 5 del artículo 2472 del Código Civil, siendo obligación de la respectiva Caja de Compensación verificar su crédito.
+
+2.- Corresponderá al trabajador el pago de las cuotas de créditos sociales no devengadas a la fecha de la dictación de la resolución de liquidación, no siendo de cargo de la masa. Para estos efectos, se tendrán por no escritas las convenciones que permitan al empleador, en caso de término de la relación laboral por dictación de la resolución de liquidación, descontar los saldos pendientes por créditos sociales de las indemnizaciones por término de contrato a que tenga derecho el trabajador.
 
 #### Artículo 23
 

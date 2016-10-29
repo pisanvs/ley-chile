@@ -28,7 +28,11 @@ Su domicilio será la ciudad de Santiago y no obstante su carácter de instituci
 
 Corresponderá a la Superintenencia de Bancos e Instituciones Financieras la fiscalización, del Banco del Estado, de las empresas bancarias, cualquiera que sea su naturaleza y de las entidades financieras cuyo control no esté encomendado por la ley a otra institución.
 
-La Superintendencia tendrá la fiscalización de las empresas cuyo giro consista en la emisión u operación de tarjetas de crédito o de cualquier otro sistema similar, siempre que dichos sistemas importen que el emisor u operador contraiga habitualmente obligaciones de dinero para con el público o ciertos sectores o grupos específicos de él.
+La Superintendencia tendrá la fiscalización de las empresas cuyo giro consista en la emisión u operación de tarjetas de crédito, tarjetas de pago con provisión de fondos o de cualquier otro sistema similar a los referidos medios de pago, siempre que éstos importen que el emisor u operador contraiga habitualmente obligaciones de dinero para con el público en general o ciertos sectores o grupos específicos de él.
+
+Las entidades descritas en el inciso anterior, distintas de las empresas bancarias, de sus filiales o empresas de apoyo al giro deberán constituirse en el país como sociedades anónimas especiales de conformidad con el Título XIII de la ley N° 18.046, sobre Sociedades Anónimas, y se sujetarán a las disposiciones aplicables a las sociedades anónimas abiertas, en todo lo que no se oponga a las normas especiales que éstas deban observar de conformidad con la regulación que las rige.
+
+Las empresas a que se refiere el inciso segundo del presente artículo deberán sujetarse a las normas que dicte el Banco Central de Chile de conformidad con el número 7 del artículo 35 de la ley N° 18.840. Igualmente, quedarán sujetas a las disposiciones contenidas en los artículos 8, 9, 12, 13, 14, incisos primero, segundo y final, 15, 16, 17, 18, 18 bis, 19, 21, 22, 23, 26 y 26 bis de este Título, 154 y 155 del Título XVI, y 157 y siguientes del Título XVII de la presente ley y, en lo pertinente, a la ley que Autoriza la emisión y operación de medios de pago con provisión de fondos por entidades no bancarias.
 
 Las personas que realicen tales actos en forma habitual y que eludieren la fiscalización de la Superintenencia serán penadas en la forma que contempla el artículo 39.
 
@@ -277,6 +281,28 @@ En los casos en que la Superintendencia haya designado administrador provisional
 Sin perjuicio de las facultades que esta ley le confiere, la Superintendencia tendrá, respecto de las instituciones fiscalizadas y en lo que proceda, las que las leyes otorgan a la Superintendencia de Valores y Seguros.
 
 La Superintendencia tendrá, respecto de los auditores externos que contraten las instituciones fiscalizadas, las mismas facultades que la Ley Orgánica de la Superintendencia de Valores y Seguros y la Ley de Sociedades Anónimas confieren sobre ellos a dicha institución.
+
+#### Artículo 26 bis
+
+Los emisores y operadores señalados en el inciso segundo del artículo 2 de la presente ley, que infrinjan las normas dictadas por el Banco Central de Chile, o que hubieren incurrido en infracciones o multas reiteradas, o se mostraren rebeldes para cumplir las órdenes legamente impartidas por la Superintendencia, o presentaren inestabilidad financiera o administración deficiente, o no cumplieren los estándares de seguridad operacional exigibles de acuerdo a las regulaciones y mejores prácticas aplicables en la materia, o hubiere ocurrido cualquier hecho grave que haga temer por el cumplimiento de las obligaciones asumidas, podrán ser suspendidos de todas o algunas de las actividades por la Superintendencia, mediante resolución fundada y previo informe favorable del Consejo del Banco Central de Chile, hasta por noventa días.
+
+Asimismo, la Superintendencia podrá ordenar en la misma resolución una o más de las siguientes medidas, según corresponda:
+
+1. No emitir nuevos instrumentos de pago.
+
+2. No afiliar nuevos establecimientos de comercio.
+
+3. No realizar nuevas operaciones.
+
+4. No recibir provisión de fondos.
+
+Sin perjuicio de lo establecido en los incisos precedentes, el emisor u operador que infrinja las normas dictadas por el Banco Central de Chile deberá dar aviso a la Superintendencia apenas tome conocimiento del hecho y presentar, dentro del plazo que ella le fije, un plan de normalización para su aprobación. En caso de no aprobarse el plan de normalización descrito precedentemente, o de incumplimiento del que se hubiere aprobado conforme a lo establecido en este artículo, la Superintendencia podrá revocar la autorización de existencia del emisor u operador de medios de pago, previo informe favorable del Consejo del Banco Central de Chile. Asimismo, podrá revocar dicha autorización si el emisor u operador no cumpliere con las obligaciones de pago contraídas para con el público o con la devolución de los dineros provisionados, en su caso.
+
+Corresponderá asimismo a la Superintendencia dictar las resoluciones que otorguen o revoquen la correspondiente autorización de existencia a las entidades antedichas, con acuerdo previo del Banco Central de Chile en caso de rechazo, en conformidad a las normas establecidas por éste en uso de sus facultades legales.
+
+Del rechazo a la autorización de existencia, o de la revocación de dicha autorización, o de la suspensión de todas o algunas de las actividades, podrá reclamarse mediante el procedimiento establecido en el artículo 22.
+
+En los casos en que la Superintendencia haya suspendido todas o algunas de las actividades, o revocado la autorización de existencia de un operador o emisor de medios de pago, podrá ejercer las facultades establecidas en el artículo 25 de la presente ley.
 
 T I T U L O II
 
@@ -973,6 +999,10 @@ Los Bancos podrán, también, previa autorización de la Superintendencia, y cum
 a) Prestar servicios destinados a facilitar el cumplimiento de los fines de las entidades financieras.
 
 b) Que por su intermedio las instituciones financieras puedan efectuar determinadas operaciones de giro bancario con el público, excepto la de captar dinero.
+
+Las sociedades de apoyo al giro bancario que realicen actividades relacionadas con los medios de pago podrán prestar servicios a los emisores y operadores de los medios de pago descritos en el inciso segundo del artículo 2 de la presente ley.
+
+Las sociedades de apoyo al giro bancario a que se refiere el inciso anterior podrán utilizar medios tecnológicos, electrónicos o cualquier otro que resulte apto para facilitar que los establecimientos de comercio puedan aceptar en forma expresa las condiciones de contratación que éstas propongan para la operación de medios de pago con provisión de fondos no bancarios y similares, las que deberán ser objetivas, competitivas, transparentes y no discriminatorias. Estas condiciones deberán ser informadas a los establecimientos de comercio con la debida anticipación y publicidad, procurando asegurar un adecuado conocimiento de su sentido, alcances y efectos.
 
 Una vez otorgada a un banco la autorización para constituir una sociedad con un objeto determinado, ella no podrá denegarse a otros bancos.
 
