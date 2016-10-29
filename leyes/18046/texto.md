@@ -14,31 +14,25 @@ La sociedad anónima es siempre mercantil, aun cuando se forme para la realizaci
 
 #### Artículo 2°
 
-Las sociedades anónimas pueden ser de dos clases: abiertas o cerradas.
+Las sociedades anónimas pueden ser de tres clases: abiertas, especiales o cerradas.
 
-Son sociedades anónimas abiertas:
+Son sociedades anónimas abiertas aquellas que inscriban voluntariamente o por obligación legal sus acciones en el Registro de Valores.
 
-1) Aquellas que tienen 500 o más accionistas.
+Son sociedades anónimas especiales las indicadas en el Título XIII de esta ley.
 
-2) Aquellas en las que, a lo menos, el 10% de su capital suscrito pertenece a un mínimo de 100 accionistas, excluidos los que individualmente, o a través de otras personas naturales o jurídicas, excedan dicho porcentaje, y
+Son sociedades anónimas cerradas las que no califican como abiertas o especiales.
 
-3) Aquéllas que inscriban voluntariamente sus acciones en el Registro de Valores.
+Las sociedades anónimas abiertas y las sociedades anónimas especiales quedarán sometidas a la fiscalización de la Superintendencia de Valores y Seguros, en adelante la Superintendencia, salvo que la ley las someta al control de otra Superintendencia. En este último caso, quedarán además sometidas a la primera, en lo que corresponda, cuando emitieren valores.
 
-Son sociedades anónimas cerradas las no comprendidas en el inciso anterior.
+Las sociedades anónimas que dejen de cumplir las condiciones para estar obligadas a inscribir sus acciones en el Registro de Valores, continuarán afectas a las normas que rigen a las sociedades anónimas abiertas, mientras la junta extraordinaria de accionistas no acordare lo contrario por los dos tercios de las acciones con derecho a voto. En este caso, el accionista ausente o disidente tendrá derecho a retiro.
 
-Las sociedades anónimas abiertas y las sociedades anónimas cerradas que acuerden en sus estatutos someterse a las normas que rigen a las sociedades anónimas abiertas, o que por disposición legal estén obligadas a hacerlo, quedarán sometidas a la fiscalización de la Superintendencia de Valores y Seguros, en adelante la Superintendencia, deberán inscribirse en el Registro de Valores y observar las disposiciones aplicables a las sociedades anónimas abiertas.
-
-La Superintendencia podrá, mediante norma de carácter general, establecer categorías de sociedades anónimas abiertas para efectos de la fiscalización, pudiendo establecer normas y requisitos de funcionamiento e información simplificados, cuando se trate de sociedades que no hagan oferta pública de sus valores o que la transacción de los mismos no sea relevante para el mercado de valores.
-
-Las sociedades anónimas que dejen de cumplir las condiciones para ser consideradas abiertas o que se hayan inscrito voluntariamente en el Registro de Valores, continuarán afectas a las normas que las rigen, mientras la junta extraordinaria de accionistas no acordare lo contrario por los dos tercios de las acciones con derecho a voto. En este caso, el accionista ausente o disidente tendrá derecho a retiro.
-
-Cada vez que en esta ley se haga referencia a las sociedades sometidas a la fiscalización, al control o a la vigilancia de la Superintendencia, o se empleen otras expresiones análogas se entenderá, salvo mención expresa en contrario, que la remisión es a las sociedades anónimas abiertas.
+Cada vez que las leyes establezcan como requisito que una sociedad se someta a las normas de las sociedades anónimas abiertas o que dichas normas le sean aplicables, o se haga referencia a las sociedades sometidas a la fiscalización, al control o a la vigilancia de la Superintendencia, o se empleen otras expresiones análogas, se entenderá, salvo mención expresa en contrario, que la remisión se refiere exclusivamente a las normas aplicables a las sociedades anónimas abiertas en cuanto a las obligaciones de información y publicidad para con los accionistas, la Superintendencia y el público en general. En todo lo demás, esas sociedades se regirán por las disposiciones de las sociedades anónimas cerradas y no estarán obligadas a inscribirse en el Registro de Valores, salvo que fueren emisores de valores de oferta pública. Las sociedades anónimas a que se refiere este inciso, que no fueren abiertas, una vez que cesare la condición o actividad en cuya virtud la ley las sometió al control de la Superintendencia, podrán solicitar a ésta la exclusión de sus registros y fiscalización, acreditando dicha circunstancia.
 
 Las disposiciones de la presente ley primarán sobre las de los estatutos de las sociedades que dejen de ser cerradas, por haber cumplido con algunos de los requisitos establecidos en el inciso segundo del presente artículo. Lo anterior es sin perjuicio de la obligación de estas sociedades de adecuar sus estatutos a las normas de la presente ley, conjuntamente con la primera modificación que en ellos se introduzca.
 
 #### Artículo 3°
 
-La sociedad anónima se forma, existe y prueba por escritura pública inscrita y publicada en los términos del artículo 5°. El cumplimiento oportuno de la inscripción y publicación producirá efectos retroactivos a la fecha de la escritura. Las actas de las juntas generales de accionistas en que se acuerde modificar los estatutos sociales o disolver la sociedad, serán reducidas a escritura pública con las solemnidades indicadas en el inciso anterior.
+La sociedad anónima se forma, existe y prueba por escritura pública inscrita y publicada en los términos del artículo 5°. El cumplimiento oportuno de la inscripción y publicación producirá efectos retroactivos a la fecha de la escritura. Las actas de las juntas de accionistas en que se acuerde modificar los estatutos sociales o disolver la sociedad, serán reducidas a escritura pública con las solemnidades indicadas en el inciso anterior.
 
 No se admitirá prueba de ninguna especie contra el tenor de las escrituras otorgadas en cumplimiento de los incisos anteriores, ni aun para justificar la existencia de pactos no expresados en ellas.
 
@@ -46,7 +40,7 @@ No se admitirá prueba de ninguna especie contra el tenor de las escrituras otor
 
 La escritura de la sociedad debe expresar:
 
-1) El nombre, profesión y domicilio de los accionistas que concurran a su otorgamiento;
+1) El nombre, profesión u oficio, el domicilio de los accionistas que concurran a su otorgamiento, y el rol único tributario o documento de identidad, si debieren tenerlos.;
 
 2) El nombre y domicilio de la sociedad;
 
@@ -54,11 +48,11 @@ La escritura de la sociedad debe expresar:
 
 4) La duración de la sociedad, la cual podrá ser indefinida y, si nada se dice, tendrá este carácter;
 
-5) El capital de la sociedad, el número de acciones en que es dividido con indicación de sus series y privilegios si los hubiere y si las acciones tienen o no valor nominal; la forma y plazos en que los accionistas deben pagar su aporte, y la indicación y valoración de todo aporte que no consista en dinero;
+5) El capital de la sociedad, el número de acciones en que es dividido con indicación de sus series y preferencias si los hubiere y si las acciones tienen o no valor nominal; la forma y plazos en que los accionistas deben pagar su aporte, y la indicación y valoración de todo aporte que no consista en dinero;
 
 6) La organización y modalidades de la administración social y de su fiscalización por los accionistas;
 
-7) La fecha en que debe cerrarse el ejercicio y confeccionarse el balance y la época en que debe celebrarse la junta ordinaria de accionistas;
+7) La fecha en que debe cerrarse el ejercicio y confeccionarse el balance y la época en que debe celebrarse la junta ordinaria de accionistas. Si nada se dijere, se entenderá que el ejercicio se cierra al 31 de diciembre y que la junta ordinaria de accionistas debe celebrarse en el primer cuatrimestre de cada año;
 
 8) La forma de distribución de las utilidades;
 
@@ -66,7 +60,7 @@ La escritura de la sociedad debe expresar:
 
 10) La naturaleza del arbitraje a que deberán ser sometidas las diferencias que ocurran entre los accionistas en su calidad de tales, o entre éstos y la sociedad o sus administradores, sea durante la vigencia de la sociedad o durante su liquidación. Si nada se dijere, se entenderá que las diferencias serán sometidas a la resolución de un árbitro arbitrador;
 
-11) La designación de los integrantes del directorio provisorio y de los auditores externos o de los inspectores de cuentas, en su caso, que deberán fiscalizar el primer ejercicio social;
+11) La designación de los integrantes del directorio provisorio y, en las sociedades anónimas abiertas, de los auditores externos o de los inspectores de cuentas, en su caso, que deberán fiscalizar el primer ejercicio social;
 
 12) Los demás pactos que acordaren los accionistas.
 
@@ -78,7 +72,7 @@ La inscripción y publicación deberán efectuarse dentro del plazo de 60 días 
 
 El extracto de la escritura de constitución deberá expresar:
 
-1) El nombre, profesión y domicilio de los accionistas que concurran a su otorgamiento;
+1) El nombre y domicilio de los accionistas que concurran a su otorgamiento, y el rol único tributario o documento de identidad, si debieren tenerlos;
 
 2) El nombre, el o los objetos, el domicilio y la duración de la sociedad;
 
@@ -92,7 +86,7 @@ El extracto de una modificación deberá expresar la fecha de la escritura y el 
 
 A.- Si en la escritura social se hubiere omitido el domicilio social se entenderá domiciliada la sociedad en el lugar de otorgamiento de aquélla.
 
-En caso de omisión de cualquiera de las designaciones referidas en el número 11) del artículo 4º, podrá efectuarlas una junta general de accionistas de la sociedad.
+En caso de omisión de cualquiera de las designaciones referidas en el número 11) del artículo 4º, podrá efectuarlas una junta de accionistas de la sociedad.
 
 #### Artículo 6º
 
@@ -118,9 +112,11 @@ La modificación cuyo extracto no haya sido oportunamente inscrito y publicado n
 
 #### Artículo 7°
 
-La sociedad deberá mantener en la sede principal y en la de sus agencias o sucursales a disposición de los accionistas, ejemplares actualizados de sus estatutos firmados por el gerente, con indicación de la fecha y notaría en que se otorgó la escritura de constitución y la de sus modificaciones, en su caso, y de los datos referentes a sus legalizaciones. Deberá, asimismo, mantener una lista actualizada de los accionistas, con indicación del domicilio y número de acciones de cada cual.
+La sociedad deberá mantener en la sede principal y en la de sus agencias o sucursales, así como en su sitio en Internet, en el caso de las sociedades anónimas abiertas que dispongan de tales medios, a disposición de los accionistas, ejemplares actualizados de sus estatutos firmados por el gerente, con indicación de la fecha y notaría en que se otorgó la escritura de constitución y la de sus modificaciones, en su caso, y de los datos referentes a sus legalizaciones. Deberá, asimismo, mantener una lista actualizada de los accionistas, con indicación del domicilio y número de acciones de cada cual.
 
-Los directores, el gerente, el liquidador o liquidadores en su caso, serán solidariamente responsables de los perjuicios que causen a accionistas y terceros en razón de la falta de fidelidad o vigencia de los documentos mencionados en el inciso precedente. Lo anterior es sin perjuicio de las sanciones administrativas que además pueda aplicar la Superintendencia a las sociedades anónimas abiertas.
+Es de responsabilidad del directorio la custodia de los libros y registros sociales, y que éstos sean llevados con la regularidad exigida por la ley y sus normas complementarias. El directorio podrá delegar esta función, de lo que deberá dejarse constancia en actas.
+
+Los directores, el gerente, el liquidador o liquidadores en su caso, serán solidariamente responsables de los perjuicios que causen a accionistas y terceros en razón de la falta de fidelidad o vigencia de los documentos mencionados en el inciso primero. Lo anterior es sin perjuicio de las sanciones administrativas que además pueda aplicar la Comisión a las sociedades anónimas abiertas.
 
 ## Título II
 
@@ -162,9 +158,9 @@ Las acciones serán nominativas y su suscripción deberá constar por escrito en
 
 A la sociedad no le corresponde pronunciarse sobre la transferencia de acciones y está obligada a inscribir sin más trámite los traspasos que se le presenten, siempre que éstos se ajusten a las formalidades mínimas que precise el Reglamento.
 
-En las sociedades abiertas la Superintendencia resolverá administrativamente, con audiencia de las partes interesadas, las dificultades que se produzcan con motivo de la tramitación e inscripción de un traspaso de acciones.
+En las sociedades anónimas abiertas la Comisión resolverá administrativamente, con audiencia de las partes interesadas, las dificultades que se produzcan con motivo de la tramitación e inscripción de un traspaso de acciones.
 
-La Superintendencia podrá autorizar a las sociedades sometidas a su control, para establecer sistemas que sustituyan la obligación de emitir títulos o que simplifiquen en casos calificados la forma de efectuar las transferencias de acciones, siempre que dichos sistemas resguarden debidamente los derechos de los accionistas.
+La Comisión podrá autorizar a las sociedades anónimas abiertas, para establecer sistemas que sustituyan la obligación de emitir títulos o que simplifiquen en casos calificados la forma de efectuar las transferencias de acciones, siempre que dichos sistemas resguarden debidamente los derechos de los accionistas.
 
 #### Artículo 13
 
@@ -172,9 +168,9 @@ Se prohíbe la creación de acciones de industria y de organización.
 
 #### Artículo 14
 
-Los estatutos de las sociedades abiertas no podrán estipular disposiciones que limiten la libre cesión de las acciones.
+Los estatutos de las sociedades anónimas abiertas no podrán incluir limitaciones a la libre disposición de las acciones.
 
-Los pactos particulares entre accionistas relativos a cesión de acciones, deberán ser depositados en la compañía a disposición de los demás accionistas y terceros interesados, y se hará referencia a ellos en el Registro de Accionistas. Si así no se hiciere, tales pactos se tendrán por no escritos.
+Los pactos particulares entre accionistas relativos a cesión de acciones, deberán ser depositados en la compañía a disposición de los demás accionistas y terceros interesados, y se hará referencia a ellos en el Registro de Accionistas. Si así no se hiciere, tales pactos serán inoponibles a terceros. Tales pactos no afectarán la obligación de la sociedad de inscribir sin más trámites los traspasos que se le presenten, de conformidad a lo establecido en el artículo 12.
 
 #### Artículo 15
 
@@ -194,6 +190,8 @@ Los saldos insolutos de las acciones suscritas y no pagadas serán reajustadas e
 
 Si el valor de las acciones estuviere expresado en moneda extranjera, los saldos insolutos se pagarán en dicha moneda o en moneda nacional al valor oficial de cambio que ella tuviere a la fecha de pago. Si no existiere valor oficial de cambio se estará a lo que disponga el estatuto social.
 
+Los pagos parciales del saldo insoluto de las acciones suscritas y no pagadas, se abonarán a las respectivas acciones impagas de acuerdo a su antigüedad de emisión, de una en una, hasta completar el pago de la totalidad de ellas.
+
 Las acciones cuyo valor no se encuentre totalmente pagado gozarán de iguales derechos que las
 
 íntegramente pagadas, salvo en lo relativo a la participación que les corresponda en los beneficios sociales y en las devoluciones de capital, casos en los que concurrirán en proporción a la parte pagada. No obstante, lo dispuesto en este inciso, en los estatutos sociales se podrá estipular una norma diferente.
@@ -208,6 +206,16 @@ Las acciones inscritas a nombre de personas fallecidas cuyos herederos o legatar
 
 Para efectuar estas ventas no regirán las prohibiciones establecidas en la ley N° 16.271 y los dineros que se obtengan permanecerán a disposición de los herederos y legatarios de las respectivas sucesiones, por el término de 5 años contado desde la fecha de la venta correspondiente y durante este plazo devengarán los reajustes e intereses establecidos en el artículo 84 de esta ley. Vencido este plazo, los dineros pasarán a pertenecer a los Cuerpos de Bomberos de Chile y se pagarán y distribuirán en la forma que señale el Reglamento.
 
+Sin perjuicio de lo señalado en los incisos precedentes, los titulares de acciones de una sociedad anónima que durante 10 años continuados no concurran a las juntas de accionistas ni cobren los dividendos a que tengan derecho, dejarán de ser considerados accionistas para los efectos señalados en la letra c) del artículo 5° de la ley N° 18.045, sobre Mercado de Valores, y el inciso primero del artículo 50 bis de la presente ley. En cualquier tiempo que dichos titulares o sus sucesores concurran a una junta de accionistas o cobren dividendos, volverán a ser considerados accionistas con derecho a voto para los fines antes señalados.
+
+#### Artículo 18 bis
+
+Las personas que, por su giro o actividad, mantengan a cualquier título acciones a nombre propio por cuenta de terceros, a excepción de los mandatarios a que se refiere la ley N° 20.880, en lo que respecta a los mandatos otorgados conforme a dicha ley, en el mes de marzo de cada año deberán informar a la Comisión para el Mercado Financiero la identidad de dichos terceros, indicando nombres, apellidos, número de cédula de identidad, último domicilio conocido, número de acciones por emisor, nombre de las sociedades emisoras de dichas acciones y todo otro dato útil disponible con que cuente para la correcta individualización de la acción y el accionista. En el caso de bancos e instituciones financieras que mantengan acciones a nombre propio por cuenta de terceros, la señalada información se remitirá a la Comisión.
+
+Si las personas a que se refiere el inciso anterior no cuentan con la identidad de los terceros, en el mes de mayo de cada año deberán citar a los eventuales interesados en las respectivas acciones mediante dos avisos. El primero de ellos se efectuará en el Diario Oficial y el segundo en un diario de circulación nacional, mediando entre ellos no más de diez días. Los avisos contendrán la citación a los interesados, la individualización de las acciones y la sociedad emisora, la individualización de la persona que las mantiene por cuenta de terceros, el período que las ha mantenido a su nombre y cualquier otra información disponible con que cuente para la adecuada identificación de la acción y su titular.
+
+Los interesados deberán hacer presente su calidad de titular de las acciones ante las personas a que se refiere el inciso primero de este artículo, dentro del plazo de cinco años, contado desde la publicación del último aviso a que se refiere el inciso anterior. Vencido ese plazo, la persona que tiene las acciones por cuenta de terceros deberá venderlas en remate conforme a lo dispuesto en el Reglamento en todo aquello que no sea incompatible con los plazos y formalidades previstos en este artículo. El dinero que se obtenga quedará a disposición de los interesados por un año, contado desde la fecha del remate, y durante este plazo devengará los reajustes e intereses establecidos en el artículo 84. Vencido ese plazo, dicho producto pasará de pleno derecho a propiedad de los Cuerpos de Bomberos de Chile, y deberá ser entregado con los dividendos que haya devengado en los cinco años anteriores al remate, con los reajustes e intereses establecidos en el artículo 84.
+
 #### Artículo 19
 
 Los accionistas sólo son responsables del pago de sus acciones y no están obligados a devolver a la caja social las cantidades que hubieren percibido a título de beneficio.
@@ -218,7 +226,7 @@ En caso de transferencia de acciones suscritas y no pagadas, el cedente responde
 
 Las acciones pueden ser ordinarias o preferidas.
 
-Las preferencias deberán constar en los estatutos sociales y en los títulos de las acciones deberá hacerse referencia a ellas. No podrá estipularse preferencias sin precisar el plazo de su vigencia. Tampoco podrá estipularse preferencias que consistan en el otorgamiento de dividendos que no provengan de utilidades del ejercicio o de utilidades retenidas y de sus respectivas revalorizaciones. Los estatutos de las sociedades anónimas que hagan oferta pública de sus acciones podrán contener preferencias o privilegios que otorguen a una serie de acciones preeminencia en el control de la sociedad, por un plazo máximo de cinco años, pudiendo prorrogarse por acuerdo de la junta extraordinaria de accionistas.
+Las preferencias deberán constar en los estatutos sociales y en los títulos de las acciones deberá hacerse referencia a ellas. No podrá estipularse preferencias sin precisar el plazo de su vigencia. Tampoco podrá estipularse preferencias que consistan en el otorgamiento de dividendos que no provengan de utilidades del ejercicio o de utilidades retenidas y de sus respectivas revalorizaciones. Los estatutos de las sociedades anónimas abiertas podrán contener preferencias que otorguen a una serie de acciones preeminencia en el control de la sociedad, por un plazo máximo de cinco años, pudiendo prorrogarse por acuerdo de la junta extraordinaria de accionistas.
 
 #### Artículo 21
 
@@ -244,13 +252,11 @@ En caso de que una o más acciones pertenezcan en común a varias personas, los 
 
 #### Artículo 24
 
-Los acuerdos de las juntas de accionistas sobre aumentos de capital no podrán establecer un plazo superior a tres años, contado desde la fecha de los mismos, para emisión, suscripción y pago de las acciones respectivas, cualquiera sea la forma de su entero. Vencido este plazo sin que se haya enterado el aumento de capital, éste quedará reducido a la cantidad efectivamente pagada.
+Los acuerdos de las juntas de accionistas sobre aumentos de capital no podrán establecer un plazo superior a tres años, contado desde la fecha de los mismos, para emisión, suscripción y pago de las acciones respectivas, cualquiera sea la forma de su entero. Vencido el plazo establecido por la junta de accionistas sin que se haya enterado el aumento de capital, el directorio deberá proceder al cobro de los montos adeudados, si no hubiere entablado antes las acciones correspondientes, salvo que dicha junta lo hubiere autorizado por dos tercios de las acciones emitidas para abstenerse del cobro, caso en el cual el capital quedará reducido a la cantidad efectivamente pagada. Agotadas las acciones de cobro, el directorio deberá proponer a la junta de accionistas la aprobación, por mayoría simple, del castigo del saldo insoluto y la reducción del capital a la cantidad efectivamente recuperada.
 
 No obstante lo dispuesto en el inciso precedente, mientras estuviere pendiente una emisión de bonos convertibles en acciones, deberá permanecer vigente un margen no suscrito del aumento de capital por la cantidad de acciones que sea necesaria para cumplir con la opción, cuando ésta sea exigible conforme a las condiciones de la emisión de los bonos.
 
-En los aumentos de capital de una sociedad anónima abierta podrá contemplarse que hasta un 10% de su monto se destine a planes de compensación de sus propios trabajadores o de sus filiales. En esta parte, los accionistas no gozarán de la opción preferente a que se refiere el artículo siguiente.
-
-Sin embargo, si los accionistas no ejercieren su derecho preferente a suscribir en todo o parte las restantes acciones, el saldo no suscrito podrá igualmente ser destinado a planes de compensación de dichos trabajadores, si así lo hubiere acordado la junta de accionistas.
+En los aumentos de capital de una sociedad anónima podrá contemplarse que hasta un 10% de su monto se destine a planes de compensación de sus propios trabajadores o de sus filiales. En esta parte, los accionistas no gozarán de la opción preferente a que se refiere el artículo siguiente. En las sociedades anónimas abiertas, las acciones destinadas a los planes de compensación mencionados sólo podrán ser ofrecidas a los trabajadores a prorrata de la cantidad de acciones del respectivo aumento de capital, en la parte no reservada para tales fines, que sean efectivamente suscritas.
 
 El plazo para suscribir y pagar las acciones por parte de los trabajadores dentro de un plan de compensación podrá extenderse hasta por cinco años, contado desde el acuerdo de la junta de accionistas respectiva.
 
@@ -266,7 +272,7 @@ El derecho de preferencia de que trata este artículo deberá ejercerse o transf
 
 La sociedad podrá emitir acciones de pago y se ofrecerán al precio que determine libremente la junta de accionistas.
 
-El mayor valor que se obtenga en la colocación de acciones de pago por sobre el valor nominal si lo tuvieren, deberá destinarse a ser capitalizado y no podrá ser distribuido como dividendo entre los accionistas. Si por el contrario se produjere un menor valor, éste deberá registrarse como pérdida en los resultados sociales.
+El mayor valor que se obtenga en la colocación de acciones de pago por sobre el valor que resulte de dividir el capital a enterar por el número de acciones emitidas, aumentará el capital de la sociedad y no podrá ser distribuido como dividendo entre los accionistas. Si, por el contrario, se produjere un menor valor, éste constituirá una disminución del capital a enterar. Estas diferencias deberán reconocerse en la próxima modificación que se haga al capital social.
 
 #### Artículo 27
 
@@ -296,7 +302,7 @@ b) La adquisición sólo podrá hacerse hasta por el monto de las utilidades ret
 
 c) Si la sociedad tuviere series de acciones, la oferta de adquisición deberá hacerse en proporción al número de acciones de cada serie, que tenga transacción bursátil.
 
-Las juntas de accionistas citadas para considerar la adquisición de acciones de su propia emisión, deberán pronunciarse sobre el monto o porcentaje máximo a adquirir, el objetivo y la duración del programa, el que no podrá ser superior a tres años, así como del precio mínimo y máximo a pagar por las acciones respectivas, materias sobre las cuales el directorio de la sociedad deberá dar información amplia y detallada. En todo caso, la junta podrá delegar en el directorio la fijación del precio de adquisición.
+Las juntas de accionistas citadas para considerar la adquisición de acciones de su propia emisión, deberán pronunciarse sobre el monto o porcentaje máximo a adquirir, el objetivo y la duración del programa, el que no podrá ser superior a cinco años, así como del precio mínimo y máximo a pagar por las acciones respectivas, materias sobre las cuales el directorio de la sociedad deberá dar información amplia y detallada. En todo caso, la junta podrá delegar en el directorio la fijación del precio de adquisición.
 
 Aprobado el programa para adquirir y poseer acciones de su propia emisión en junta de accionistas, ninguna sociedad anónima podrá mantener en cartera acciones de su propia emisión representativas de un monto superior al 5% de sus acciones suscritas y pagadas.
 
@@ -318,9 +324,11 @@ La Comisión determinará mediante instrucciones de general aplicación, las con
 
 C.- Las acciones adquiridas en virtud de lo dispuesto por el número 4) del artículo 27, deberán ser enajenadas por la sociedad dentro del plazo máximo de veinticuatro meses a contar de su adquisición, y si así no se hiciere, el capital quedará disminuido de pleno derecho.
 
-Al momento de enajenarlas, la sociedad deberá realizar una oferta preferente a los accionistas en los términos referidos en el artículo 25. Sin embargo, no será obligatoria esa oferta cuando se trate de cumplir un programa o plan de compensación a trabajadores de la sociedad, o respecto de la venta de una cantidad de acciones que dentro de cualquier período de doce meses no supere el 1% del capital accionario de la sociedad, siempre que en ambos casos se cuente con aprobación de la junta de accionistas.
+Al momento de enajenarlas, la sociedad deberá realizar una oferta preferente a los accionistas en los términos referidos en el artículo 25. Sin embargo, no será obligatoria esa oferta cuando la cantidad total de acciones a ser vendidas dentro de cualquier período de doce meses no supere el 1% del capital accionario de la sociedad, siempre que cuente con aprobación de la junta de accionistas.
 
 Si los accionistas no ejercieren, en todo o en parte, el derecho preferente señalado en el inciso anterior o se tratare de acciones que se encuentran dentro del cupo mencionado, la enajenación deberá efectuarse siempre en una bolsa de valores.
+
+El plazo previsto en el inciso primero será de 5 años cuando las acciones se hayan adquirido para cumplir un programa o plan de compensación a trabajadores de la sociedad aprobado por la junta de accionistas, caso en el cual tampoco será obligatoria la oferta preferente a los accionistas.
 
 #### Artículo 27
 
@@ -336,11 +344,11 @@ La adquisición requerirá aprobación de la Comisión, que sólo podrá denegar
 
 Todo acuerdo de reducción de capital deberá ser adoptado por la mayoría establecida en el inciso segundo del artículo 67, y no podrá procederse al reparto o devolución de capital o a la adquisición de acciones con que dicha disminución pretenda llevarse a efecto, sino transcurridos treinta días desde la fecha de publicación en el Diario Oficial del extracto de la respectiva modificación.
 
-Dentro de los 10 días siguientes a la publicación referida en el inciso anterior, deberá publicarse además un aviso destacado en un diario de circulación nacional, en el que se informe al público del hecho de la disminución de capital y de su monto.
+Dentro de los 10 días siguientes a la publicación referida en el inciso anterior, deberá publicarse además un aviso destacado en un diario de circulación nacional y en el sitio en Internet de las sociedades anónimas abiertas que dispongan de tales medios, en el que se informe al público del hecho de la disminución de capital y de su monto.
 
 #### Artículo 29
 
-En caso de quiebra de la sociedad, los créditos de los acreedores sociales, cualquiera sea la clase a que pertenezcan, prevalecerán sobre los que posean los accionistas en razón de una disminución de capital y será aplicable el artículo 73 de la Ley de Quiebras respecto de los pagos ya efectuados a éstos.
+En caso que la sociedad tenga la calidad de deudor en un procedimiento concursal de liquidación, los créditos de los acreedores sociales, cualquiera sea la clase a que pertenezcan, prevalecerán sobre los que posean los accionistas en razón de una disminución de capital y será aplicable el artículo 287 de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas respecto de los pagos ya efectuados a éstos.
 
 #### Artículo 30
 
@@ -358,7 +366,7 @@ Los estatutos de las sociedades anónimas deberán establecer un número invaria
 
 El directorio de las sociedades anónimas cerradas no podrá estar integrado por menos de tres directores y el de las sociedades anónimas abiertas por menos de cinco, y si en los estatutos nada se dijere, se estará a estos mínimos.
 
-Sin perjuicio de lo anterior, si la sociedad anónima abierta debiere constituir el comité a que se refiere el artículo 50 bis, el mínimo de directores será de siete.
+Sin perjuicio de lo anterior, si la sociedad anónima abierta debiere designar al menos un director independiente y constituir el comité a que se refiere el artículo 50 bis, el mínimo de directores será de siete.
 
 #### Artículo 32
 
@@ -368,7 +376,7 @@ Los directores suplentes siempre podrán participar en las reuniones del directo
 
 A los directores suplentes les serán aplicables las normas establecidas para los titulares, salvo excepción expresa en contrario o que de ellas mismas aparezca que no les son aplicables.
 
-Si se produjere la vacancia de un director titular y la de su suplente, en su caso, deberá procederse a la renovación total del directorio, en la próxima junta ordinaria de accionistas que deba celebrar la sociedad y en el intertanto, el directorio podrá nombrar un reemplazante.
+Si se produjere la vacancia de un director titular y la de su suplente, en su caso, deberá procederse a la renovación total del directorio, en la próxima junta ordinaria de accionistas que deba celebrar la sociedad y en el intertanto, el directorio podrá nombrar un reemplazante. En el caso que la referida vacancia corresponda a uno de los directores independientes a que se refiere el artículo 50 bis y su suplente, en su caso, el directorio deberá designar en su reemplazo al candidato a director independiente que le hubiese seguido en votación en la junta en que el primero resultó electo. Si éste no estuviese disponible o en condiciones de asumir el cargo, el directorio designará al que le siguió en votación en la misma junta, y así sucesivamente hasta llenar el cargo. En caso que no fuere posible cumplir con el procedimiento anterior, corresponderá al directorio efectuar la designación, debiendo nombrar a una persona que cumpla con los requisitos que la ley establece para ser considerado director independiente.
 
 #### Artículo 33
 
@@ -388,7 +396,21 @@ No podrán ser directores de una sociedad anónima:
 
 2) Las personas afectadas por la revocación a que se refiere el artículo 77 de esta ley;
 
-3) Las personas condenadas por delito que merezca pena aflictiva o de inhabilitación perpetua para desempeñar cargos u oficios públicos, y los fallidos o los administradores o representantes legales de personas fallidas condenadas por delitos de quiebra culpable o fraudulenta y demás establecidos en los artículos 203 y 204 de la Ley de Quiebras.
+3) Las personas condenadas por delito que merezca
+
+pena aflictiva o de inhabilitación perpetua para
+
+desempeñar cargos u oficios públicos, y aquellos que
+
+tengan la calidad de deudor en un procedimiento
+
+concursal de liquidación personalmente o como
+
+administradores o representantes legales, o que hayan
+
+sido condenados por delitos concursales establecidos
+
+en el Código Penal.
 
 ### Párrafo D — EROGADO;
 
@@ -402,19 +424,19 @@ Las personas que adquieran la calidad de funcionarios en los organismos o empres
 
 Además de los casos mencionados en el artículo anterior, no podrán ser directores de una sociedad anónima abierta o de sus filiales:
 
-1) Los senadores y diputados;
+1) Los senadores, diputados y alcaldes;
 
-2) Los ministros y subsecretarios de Estado, jefes de servicio y el directivo superior inmediato que deba subrogar a cada uno de ellos, con excepción de los cargos de director de las sociedades anónimas abiertas en las que el Estado, según la ley, deba tener representantes en su administración, o sea accionista mayoritario, directa o indirectamente a través de organismos de administración autónoma, empresas fiscales, semifiscales, de administración autónoma, o aquellas en que el Estado sea accionista mayoritario;
+2) Los ministros de Estado, subsecretarios, intendentes, gobernadores, secretarios regionales ministeriales y embajadores, jefes de servicio y el directivo superior inmediato que deba subrogar a cada uno de ellos, con excepción de los cargos de director de las sociedades anónimas abiertas en las que el Estado, según la ley, deba tener representantes en su administración, o sea accionista mayoritario, directa o indirectamente a través de organismos de administración autónoma, empresas fiscales, semifiscales, de administración autónoma, o aquellas en que el Estado sea accionista mayoritario;
 
-3) Los funcionarios de la Superintendencia de Valores y Seguros;
+3) Los funcionarios de las superintendencias que supervisen a la sociedad respectiva o a una o más de las sociedades del grupo empresarial a que pertenece, y
 
-4) Los corredores de bolsa y los agentes de valores, salvo en las bolsas de valores.
+4) Los corredores de bolsa y los agentes de valores, así como sus directores, gerentes, ejecutivos principales y administradores. Esta restricción no se aplicará en las bolsas de valores.
 
 #### Artículo 37
 
 La calidad de director se adquiere por aceptación expresa o tácita del cargo.
 
-El director que adquiera una calidad que lo inhabilite para desempeñar dicho cargo o que incurriere en incapacidad legal sobreviniente, cesará automáticamente en él.
+El director que adquiera una calidad que lo inhabilite para desempeñar dicho cargo o que incurriere en incapacidad legal sobreviniente, cesará automáticamente en él. De igual forma cesará en su cargo aquel director que notifique su renuncia, mediante ministro de fe, al presidente del directorio o al gerente.
 
 Cuando el Estado o sus organismos fueren titulares de acciones en una sociedad anónima, en un porcentaje tal que les permita nombrar uno o más directores, les será aplicable a éstos lo dispuesto en el Párrafo 3º del Título III de la ley Nº 18.575.
 
@@ -424,7 +446,7 @@ Asimismo, quedarán sujetos a tales disposiciones los directores y los gerentes 
 
 Lo dispuesto en los incisos tercero, cuarto y quinto se aplicará aun cuando de acuerdo a la ley fuese necesario mencionar expresamente a la empresa para que se le apliquen las reglas de las empresas del Estado o las del sector público, como en el caso de Televisión Nacional de Chile, la Empresa de los Ferrocarriles del Estado, la Empresa Nacional de Minería, la Corporación Nacional del Cobre de Chile y el Banco del Estado de Chile.
 
-La omisión de la declaración a que se refieren los incisos anteriores será sancionada por la Superintendencia de Valores y Seguros en conformidad al Título III del decreto ley Nº 3.538, de 1980.
+La omisión de la declaración a que se refieren los incisos anteriores será sancionada por la Comisión para el Mercado Financiero en conformidad al Título III del decreto ley Nº 3.538, de 1980.
 
 #### Artículo 38
 
@@ -440,11 +462,13 @@ Los directores elegidos por un grupo o clase de accionistas tienen los mismos de
 
 Los gastos del directorio deberán ser presentados en la memoria social, agrupados por ítem relevantes, e informados en la junta ordinaria de accionistas.
 
+Sin perjuicio de lo dispuesto en el inciso primero, en las sociedades anónimas cerradas se podrá prescindir de los acuerdos de directorio siempre que la unanimidad de sus miembros ejecute directamente el acto o contrato y que éstos se formalicen mediante escritura pública. Esta alternativa no podrá ser utilizada por sociedades anónimas que tengan por matriz otra sociedad anónima, pero la infracción de esta prohibición no afectará la validez del acto o contrato, sino que hará personalmente responsables a los directores de los perjuicios ocasionados a la sociedad matriz o a sus directores, por no haber podido ejercer el derecho previsto en el artículo 92.
+
 #### Artículo 40
 
-El directorio de una sociedad anónima la representa judicial y extrajudicialmente y para el cumplimiento del objeto social, lo que no será necesario acreditar a terceros, está investido de todas las facultades de administración y disposición que la ley o el estatuto no establezcan como privativas de la junta general de accionistas, sin que sea necesario otorgarle poder especial alguno, inclusive para aquellos actos o contratos respecto de los cuales las leyes exijan esta circunstancia. Lo anterior no obsta a la representación que compete al gerente, conforme a lo dispuesto en el artículo 49 de la presente ley.
+El directorio de una sociedad anónima la representa judicial y extrajudicialmente y para el cumplimiento del objeto social, lo que no será necesario acreditar a terceros, está investido de todas las facultades de administración y disposición que la ley o el estatuto no establezcan como privativas de la junta de accionistas, sin que sea necesario otorgarle poder especial alguno, inclusive para aquellos actos o contratos respecto de los cuales las leyes exijan esta circunstancia. Lo anterior no obsta a la representación que compete al gerente, conforme a lo dispuesto en el artículo 49 de la presente ley.
 
-El directorio podrá delegar parte de sus facultades en los gerentes, subgerentes o abogados de la sociedad, en un director o en una comisión de directores y, para objetos especialmente determinados, en otras personas.
+El directorio podrá delegar parte de sus facultades en los ejecutivos principales, gerentes, subgerentes o abogados de la sociedad, en un director o en una comisión de directores y, para objetos especialmente determinados, en otras personas.
 
 #### Artículo 41
 
@@ -452,17 +476,17 @@ Los directores deberán emplear en el ejercicio de sus funciones el cuidado y di
 
 Es nula toda estipulación del estatuto social y todo acuerdo de la junta de accionistas que tienda a liberar o a limitar la responsabilidad de los directores a que se refiere el inciso anterior.
 
-La aprobación otorgada por la junta general de accionistas a la memoria y balance presentados por el directorio o a cualquier otra cuenta o información general, no libera a los directores de la responsabilidad que les corresponda por actos o negocios determinados; ni la aprobación específica de éstos los exonera de aquella responsabilidad, cuando se hubieren celebrado o ejecutado con culpa leve, grave o dolo.
+La aprobación otorgada por la junta de accionistas a la memoria y balance presentados por el directorio o a cualquier otra cuenta o información general, no libera a los directores de la responsabilidad que les corresponda por actos o negocios determinados; ni la aprobación específica de éstos los exonera de aquella responsabilidad, cuando se hubieren celebrado o ejecutado con culpa leve, grave o dolo.
 
 #### Artículo 42
 
 Los directores no podrán:
 
-1) Proponer modificaciones de estatutos y acordar emisiones de valores mobiliarios o adoptar políticas o decisiones que no tengan por fin el interés social, sino sus propios intereses o los de terceros relacionados;
+1) Proponer modificaciones de estatutos y acordar emisiones de valores mobiliarios o adoptar políticas o decisiones que no tengan por fin el interés social;
 
-2) Impedir u obstaculizar las investigaciones destinadas a establecer su propia responsabilidad o la de los ejecutivos en la gestión de la empresa;
+2) Impedir u obstaculizar las investigaciones destinadas a establecer su propia responsabilidad o la de los gerentes, administradores o ejecutivos principales en la gestión de la empresa;
 
-3) Inducir a los gerentes, ejecutivos y dependientes o a los inspectores de cuentas o auditores, a rendir cuentas irregulares, presentar informaciones falsas y ocultar información;
+3) Inducir a los gerentes, administradores, ejecutivos principales y dependientes, o a los inspectores de cuentas o auditores externos y a las clasificadoras de riesgo, a rendir cuentas irregulares, presentar informaciones falsas y ocultar información;
 
 4) Presentar a los accionistas cuentas irregulares, informaciones falsas y ocultarles informaciones esenciales;
 
@@ -472,45 +496,29 @@ Los directores no podrán:
 
 7) En general, practicar actos ilegales o contrarios a los estatutos o al interés social o usar de su cargo para obtener ventajas indebidas para sí o para terceros relacionados en perjuicio del interés social. Los beneficios percibidos por los infractores a lo dispuesto en los tres últimos números de este artículo pertenecerán a la sociedad, la que además deberá ser indemnizada por cualquier otro perjuicio.
 
-Lo anterior, no obsta a las sanciones que la Superintendencia pueda aplicar en el caso de sociedades sometidas a su control.
+Lo anterior, no obsta a las sanciones que la Comisión pueda aplicar en el caso de sociedades sometidas a su control.
 
 #### Artículo 43
 
-Los directores están obligados a guardar reserva respecto de los negocios de la sociedad y de la información social a que tengan acceso en razón de su cargo y que no haya sido divulgada oficialmente por la compañía.
+Los directores están obligados a guardar reserva respecto de los negocios de la sociedad y de la información social a que tengan acceso en razón de su cargo y que no haya sido divulgada oficialmente por la compañía. En el caso de las sociedades anónimas abiertas, se entenderá que se ha producido dicha divulgación cuando la información se haya dado a conocer mediante los sistemas de información al mercado previstos por la Comisión, de acuerdo al artículo 10 de la ley Nº 18.045, o bajo otra modalidad compatible con lo dispuesto en el artículo 46.
 
-No regirá esta obligación cuando la reserva lesione el interés social o se refiera a hechos u omisiones constitutivas de infracción de los estatutos sociales, de la legislación aplicable a las sociedades anónimas, o de sus normas complementarias.
+No regirá esta obligación cuando la reserva lesione el interés social o se refiera a hechos u omisiones constitutivas de infracción de los estatutos sociales, de las leyes o de la normativa dictada por la Comisión en el ejercicio de sus atribuciones.
 
 #### Artículo 44
 
-Una sociedad anónima sólo podrá celebrar actos o contratos en los que uno o más directores tengan interés por sí o como representantes de otra persona, cuando dichas operaciones sean conocidas y aprobadas previamente por el directorio y se ajusten a condiciones de equidad similares a las que habitualmente prevalecen en el mercado. Los acuerdos que al respecto adopte el directorio serán dados a conocer en la próxima junta de accionistas por el que la presida, debiendo hacerse mención de esta materia en su citación.
+Una sociedad anónima cerrada sólo podrá celebrar actos o contratos que involucren montos relevantes en los que uno o más directores tengan interés por sí o como representantes de otra persona, cuando dichas operaciones sean conocidas y aprobadas previamente por el directorio y se ajusten a condiciones de equidad similares a las que habitualmente prevalecen en el mercado, salvo que los estatutos autoricen la realización de tales operaciones sin sujeción a las mencionadas condiciones.
 
-Se presume de derecho que existe interés de un director en toda negociación, acto, contrato u operación en la que deba intervenir el mismo, su cónyuge o sus parientes hasta el segundo grado de consanguinidad o afinidad, o las sociedades o empresas en las cuales sea director o dueño directo o a través de otras personas naturales o jurídicas de un 10% o más de su capital o las sociedades o empresas en las cuales alguna de las personas antes mencionadas, sea director o dueño directo o indirecto del 10% o más de su capital; y las personas por quien el director actúe como representante.
+El directorio deberá pronunciarse con la abstención del director con interés. En el acta de la sesión de directorio correspondiente, deberá dejarse constancia de las deliberaciones para aprobar los términos y condiciones de los respectivos actos o contratos, y tales acuerdos serán informados en la próxima junta de accionistas por el que la presida, debiendo hacerse mención de esta materia en su citación.
 
-No se entenderá que actúan como representantes de otra persona, los directores de las sociedades filiales designadas por la matriz, ni aquellos que representen al Estado, a los organismos de administración autónoma, empresas fiscales, semifiscales o de administración autónoma que, conforme a la ley, deben tener representantes en la administración de la sociedad o ser accionistas mayoritarios de ésta.
+Se entiende que existe interés de un director en toda negociación, acto, contrato u operación en la que deba intervenir en cualquiera de las siguientes situaciones: (i) él mismo, su cónyuge o sus parientes hasta el segundo grado de consanguinidad o afinidad; (ii) las sociedades o empresas en las cuales sea director o dueño, directamente o a través de otras personas naturales o jurídicas, de un 10% o más de su capital; (iii) las sociedades o empresas en las cuales alguna de las personas antes mencionadas sea director o dueño, directo o indirecto, del 10% o más de su capital, y (iv) el controlador de la sociedad o sus personas relacionadas, si el director no hubiera resultado electo sin los votos de aquél o aquéllos.
 
-Siempre que el acto o contrato involucre montos relevantes, el directorio deberá pronunciarse previamente si éste se ajusta a condiciones de equidad similares a las que habitualmente prevalecen en el mercado. En caso que se considere que no es posible determinar dichas condiciones, el directorio, con la abstención del director con interés, podrá aprobar o rechazar la operación o, en su caso, designar para estos efectos a dos evaluadores independientes.
+Para los efectos de este artículo, se entiende que es de monto relevante todo acto o contrato que supere el 1% del patrimonio social, siempre que dicho acto o contrato exceda el equivalente a 2.000 unidades de fomento y, en todo caso, cuando sea superior a 20.000 unidades de fomento. Se presume que constituyen una sola operación todas aquellas que se perfeccionen en un período de 12 meses consecutivos por medio de uno o más actos similares o complementarios, en los que exista identidad de partes, incluidas las personas relacionadas, u objeto.
 
-Los actos o contratos referidos en el inciso anterior, así como el nombramiento de los evaluadores independientes, tendrán el carácter de hecho esencial.
+La infracción a este artículo no afectará la validez de la operación y sin perjuicio de las sanciones que correspondan, otorgará a la sociedad, a los accionistas y a los terceros interesados, el derecho de exigir indemnización por los perjuicios ocasionados. En caso de demandarse los perjuicios ocasionados por la infracción de este artículo, corresponderá a la parte demandada probar que el acto o contrato se ajustó a condiciones de mercado o que las condiciones de negociación reportaron beneficios a la sociedad que justifican su realización.
 
-Los informes de los evaluadores deberán pronunciarse acerca de las condiciones de la operación y de la forma en que se proponga pagar el precio cuando sea en bienes que no consistan en dinero.
+Con todo, no será aplicable lo establecido en el inciso primero si la operación ha sido aprobada o ratificada por la junta extraordinaria de accionistas con el quórum de 2/3 de los accionistas con derecho a voto.
 
-Los informes de los evaluadores serán puestos a disposición de los accionistas y del directorio en las oficinas sociales al día siguiente hábil de recibidos en la sociedad, por el plazo de 20 días hábiles contado desde la fecha en que se recibió el último de esos informes, debiendo comunicarse por escrito a los accionistas tal hecho. El directorio podrá acordar, con la abstención del director con interés, darle el carácter de reservada a la operación y a los informes, respectivamente.
-
-El directorio sólo podrá pronunciarse sobre la aprobación o rechazo del acto o contrato una vez transcurrido el plazo a que se refiere el inciso séptimo, desde recibido el último de los informes, con la abstención del director con interés.
-
-Si accionistas que representen al menos un 5% de las acciones emitidas con derecho a voto estimaren que las condiciones no son favorables a los intereses sociales o las evaluaciones fueren substancialmente distintas entre sí, podrán solicitar al directorio dentro del plazo a que se refiere el inciso séptimo, que se cite a una junta extraordinaria de accionistas para que ésta resuelva con el acuerdo de las dos terceras partes de las acciones emitidas con derecho a voto.
-
-El controlador o la persona relacionada que pretenda realizar la operación deberá poner a disposición del directorio, en forma oportuna, todos los antecedentes, informes, documentos y comunicaciones, referidos a esa operación, remitidos a entidades supervisoras o reguladoras extranjeras competentes o a bolsas de valores extranjeras, a la fecha en que se someta a consideración del directorio la enajenación del negocio, activos y pasivos, o activos en su caso. Asimismo, esos antecedentes serán puestos a disposición de los accionistas por el directorio, al día siguiente hábil de recibidos.
-
-También se presume de derecho que un director tiene interés cuando éste o personas relacionadas con él presten asesoría para la celebración de tal acto o contrato.
-
-En las actas de la sesión de directorio correspondiente deberá hacerse constar expresamente las deliberaciones del directorio para aprobar los términos y condiciones de los respectivos actos o contratos.
-
-En la citación que se envíe por correo a los accionistas, conforme al artículo 59, deberá indicarse expresamente el nombre de los directores y la forma en que cada uno de ellos votó en la sesión respectiva, acerca de las materias que trata este artículo.
-
-Para los efectos de este artículo, se entiende que es de monto relevante todo acto o contrato que supere el 1% del patrimonio social, siempre que dicho acto o contrato exceda el equivalente a 2.000 unidades de fomento y, en todo caso, cuando sea superior a 20.000 unidades de fomento.
-
-La infracción a este artículo no afectará la validez de la operación, pero además de las sanciones administrativas en su caso y penales que correspondan, otorgará a la sociedad, a los accionistas o a los terceros interesados, el derecho de exigir indemnización por los perjuicios ocasionados y pedir el reembolso a la sociedad por el director interesado, de una suma equivalente a los beneficios que a él, a sus parientes o a sus representados les hubieren reportado dichas negociaciones. En caso de demandarse los perjuicios ocasionados por la infracción de este artículo, corresponderá a la parte demandada probar que el acto o contrato se ajustó a condiciones de mercado o que las condiciones de negociación reportaron beneficios a la sociedad, salvo que la operación haya sido aprobada por la junta extraordinaria de accionistas.
+En el caso de las sociedades anónimas abiertas, se aplicará lo dispuesto en el Título XVI.
 
 #### Artículo 45
 
@@ -524,21 +532,23 @@ Se presume la culpabilidad de los directores respondiendo en consecuencia, solid
 
 #### Artículo 46
 
-El directorio deberá proporcionar a los accionistas y al público, las informaciones suficientes, fidedignas y oportunas que la ley y, en su caso, la Superintendencia determinen respecto de la situación legal, económica y financiera de la sociedad.
+El directorio deberá proporcionar a los accionistas y al público, las informaciones suficientes, fidedignas y oportunas que la ley y, en su caso, la Comisión determinen respecto de la situación legal, económica y financiera de la sociedad.
 
-Si la infracción a esta obligación causa perjuicio a la sociedad, a los accionistas o a terceros, los directores infractores serán solidariamente responsables de los perjuicios causados. Lo anterior no obsta a las sanciones administrativas que pueda aplicar, en su caso, la Superintendencia y a las demás penas que establezca la ley.
+En las sociedades anónimas abiertas, será responsabilidad del directorio adoptar las medidas apropiadas para evitar que la información referida en el inciso anterior sea divulgada a personas distintas de aquellas que por su cargo, posición o actividad en la sociedad deban conocer dicha información, antes de ser puesta a disposición de los accionistas y el público. Se entenderá que se cumple con este requisito cuando simultáneamente a dicha divulgación se proporcione la misma documentación o presentaciones al público conforme a la norma de carácter general que dicte la Comisión. La obligación de informar prescrita en este inciso, es sin perjuicio de lo establecido en los artículos 9° y 10 de la ley N° 18.045.
+
+Si la infracción a esta obligación causa perjuicio a la sociedad, a los accionistas o a terceros, los directores infractores serán solidariamente responsables de los perjuicios causados. Lo anterior no obsta a las sanciones administrativas que pueda aplicar, en su caso, la Comisión y a las demás penas que establezca la ley.
 
 #### Artículo 47
 
-Las reuniones del directorio se constituirán con la mayoría absoluta del número de directores titulares establecidos en los estatutos y los acuerdos se adoptarán por la mayoría absoluta de los directores asistentes con derecho a voto. En caso de empate, y salvo que los estatutos dispongan otra cosa, decidirá el voto del que presida la reunión.
+Las reuniones del directorio se constituirán con la mayoría absoluta del número de directores establecidos en los estatutos y los acuerdos se adoptarán por la mayoría absoluta de los directores asistentes con derecho a voto. En caso de empate, y salvo que los estatutos dispongan otra cosa, decidirá el voto del que presida la reunión.
 
 Los estatutos podrán establecer quórum superiores a los señalados.
 
 El reglamento determinará y los estatutos especificarán, la forma en que deberá efectuarse la citación a reunión del directorio de la sociedad y la frecuencia mínima de su celebración.
 
-En las sociedades anónimas abiertas, la Superintendencia por resolución fundada, podrá requerir al directorio para que sesione a fin de que se pronuncie sobre las materias que someta a su decisión.
+En las sociedades anónimas abiertas, la Comisión por resolución fundada, podrá requerir al directorio para que sesione a fin de que se pronuncie sobre las materias que someta a su decisión.
 
-Se entenderá que participan en las sesiones aquellos directores que, a pesar de no encontrarse presentes, están comunicados simultánea y permanentemente a través de medios tecnológicos que autorice la Superintendencia, mediante instrucciones de general aplicación. En este caso, su asistencia y participación en la sesión será certificada bajo la responsabilidad del presidente, o de quien haga sus veces, y del secretario del directorio, haciéndose constar este hecho en el acta que se levante de la misma.
+Se entenderá que participan en las sesiones aquellos directores que, a pesar de no encontrarse presentes, están comunicados simultánea y permanentemente a través de medios tecnológicos que autorice la Comisión, mediante instrucciones de general aplicación. En este caso, su asistencia y participación en la sesión será certificada bajo la responsabilidad del presidente, o de quien haga sus veces, y del secretario del directorio, haciéndose constar este hecho en el acta que se levante de la misma.
 
 #### Artículo 48
 
@@ -546,13 +556,13 @@ Las deliberaciones y acuerdos del directorio se escriturarán en un libro de act
 
 Si alguno de ellos falleciere o se imposibilitare por cualquier causa para firmar el acta correspondiente, se dejará constancia en la misma de la respectiva circunstancia o impedimento.
 
-Se entenderá aprobada el acta desde el momento de su firma, conforme a lo expresado en los incisos precedentes y desde esa fecha se podrán llevar a efecto los acuerdos a que ella se refiere.
+Se entenderá aprobada el acta desde el momento de su firma, conforme a lo expresado en los incisos precedentes y desde esa fecha se podrán llevar a efecto los acuerdos a que ella se refiere. Con todo, la unanimidad de los directores que concurrieron a una sesión podrá disponer que los acuerdos adoptados en ella se lleven a efecto sin esperar la aprobación del acta, de lo cual se dejará constancia en un documento firmado por todos ellos que contenga el acuerdo adoptado.
 
 El director que quiera salvar su responsabilidad por algún acto o acuerdo del directorio, deberá hacer constar en el acta su oposición, debiendo darse cuenta de ello en la próxima junta ordinaria de accionistas por el que presida.
 
-El director que estimare que un acta adolece de inexactitudes u omisiones, tiene el derecho de estampar, antes de firmarla, las salvedades correspondientes.
+El director que estimare que un acta adolece de inexactitudes u omisiones, tiene el derecho de estampar, antes de firmarla, las salvedades correspondientes. Salvo acuerdo unánime en contrario, las sesiones de directorio de las sociedades anónimas abiertas deberán ser grabadas, por quien haga las veces de secretario, en medios que permitan registrar fielmente el audio de las deliberaciones. Dichas grabaciones deberán ser guardadas en reserva por la sociedad, hasta la aprobación del acta respectiva por todos los directores que deban firmarla, y puestas a disposición de los directores que deseen comprobar la fidelidad de las actas sometidas a su aprobación. En caso que un director estime que existen discrepancias fundamentales y substanciales entre el contenido de las actas y el de las grabaciones, podrá solicitar que a ellas se incorporen literalmente sus propias palabras, según el contenido de las grabaciones en los pasajes respectivos.
 
-El presidente, el secretario y los directores que hayan participado en la sesión respectiva en alguna de las formas señaladas en el inciso final del artículo anterior, no podrán negarse a firmar el acta que se levante de la misma. El acta correspondiente, deberá quedar firmada y salvada, si correspondiere, antes de la sesión ordinaria siguiente que se celebre o en la sesión más próxima que se lleve a efecto.
+El presidente, el secretario y los directores que hayan participado en la sesión respectiva en alguna de las formas señaladas en el inciso final del artículo anterior, no podrán negarse a firmar el acta que se levante de la misma. El acta correspondiente, deberá quedar firmada y salvada, si correspondiere, antes de la sesión ordinaria siguiente que se celebre o en la sesión más próxima que se lleve a efecto. La Comisión podrá autorizar, mediante norma de carácter general, que las sociedades bajo su control adopten para tales fines los mecanismos que permitan el uso de firma electrónica u otros medios tecnológicos que permitan comprobar la identidad de la persona que suscribe.
 
 #### Artículo 49
 
@@ -566,43 +576,61 @@ El cargo de gerente es incompatible con el de presidente, auditor o contador de 
 
 A los gerentes, a las personas que hagan sus veces y a los ejecutivos principales, les serán aplicables las disposiciones de esta ley referente a los directores en lo que sean compatibles con las responsabilidades propias del cargo o función, y en especial, las contempladas en los artículos 35, 36, 37, 41, 42, 43, 44, 45 y 46, según el caso.
 
-Es de responsabilidad del gerente la custodia de los libros y registros sociales y que éstos sean llevados con la regularidad exigida por la ley y sus normas complementarias.
-
 #### Artículo 50 bis
 
-Las sociedades anónimas abiertas deberán designar el comité de directores a que se refiere este artículo, cuando tengan un patrimonio bursátil igual o superior al equivalente a 1.500.000 unidades de fomento.
+Las sociedades anónimas abiertas deberán designar al menos un director independiente y el comité de directores a que se refiere este artículo, cuando tengan un patrimonio bursátil igual o superior al equivalente a 1.500.000 unidades de fomento y a lo menos un 12,5% de sus acciones emitidas con derecho a voto, se encuentren en poder de accionistas que individualmente controlen o posean menos del 10% de tales acciones.
 
-Si durante el año se alcanzare el patrimonio a que se refiere el inciso anterior, la sociedad estará obligada a designar comité a contar del año siguiente; si se produjere una disminución del patrimonio bursátil a un monto inferior al indicado, la sociedad no estará obligada a mantener comité a contar del año siguiente.
+Si durante el año se alcanzare el patrimonio y el porcentaje accionario a que se refiere el inciso anterior, la sociedad estará obligada a designar los directores y el comité a contar del año siguiente; si se produjere una disminución del patrimonio bursátil a un monto inferior al indicado o se redujere el porcentaje accionario antes referido, la sociedad no estará obligada a mantener los directores independientes ni el comité a contar del año siguiente.
+
+No se considerará independiente a quienes se hayan encontrado en cualquier momento dentro de los últimos dieciocho meses, en alguna de las siguientes circunstancias:
+
+1) Mantuvieren cualquier vinculación, interés o dependencia económica, profesional, crediticia o comercial, de una naturaleza y volumen relevante, con la sociedad, las demás sociedades del grupo del que ella forma parte, su controlador, ni con los ejecutivos principales de cualquiera de ellos, o hayan sido directores, gerentes, administradores, ejecutivos principales o asesores de éstas.
+
+2) Mantuvieren una relación de parentesco hasta el segundo grado de consanguinidad o afinidad, con las personas indicadas en el número anterior.
+
+3) Hubiesen sido directores, gerentes, administradores o ejecutivos principales de organizaciones sin fines de lucro que hayan recibido aportes, contribuciones o donaciones relevantes de las personas indicadas en el número 1).
+
+4) Hubiesen sido socios o accionistas que hayan poseído o controlado, directa o indirectamente, 10% o más del capital; directores; gerentes; administradores o ejecutivos principales de entidades que han prestado servicios jurídicos o de consultoría, por montos relevantes, o de auditoría externa, a las personas indicadas en el número 1).
+
+5) Hubiesen sido socios o accionistas que hayan poseído o controlado, directa o indirectamente, 10% o más del capital; directores; gerentes; administradores o ejecutivos principales de los principales competidores, proveedores o clientes de la sociedad.
+
+Para poder ser elegidos como directores independientes, los candidatos deberán ser propuestos por accionistas que representen el 1% o más de las acciones de la sociedad, con a lo menos diez días de anticipación a la fecha prevista para la junta de accionistas llamada a efectuar la elección de los directores.
+
+Con no menos de dos días de anterioridad a la junta respectiva, el candidato y su respectivo suplente, en su caso, deberán poner a disposición del gerente general una declaración jurada en que señalen que: i) aceptan ser candidato a director independiente; ii) no se encuentran en ninguna de las circunstancias indicadas en los numerales anteriores; iii) no mantienen alguna relación con la sociedad, las demás sociedades del grupo del que ella forma parte, su controlador, ni con los ejecutivos principales de cualquiera de ellos, que pueda privar a una persona sensata de un grado razonable de autonomía, interferir con sus posibilidades de realizar un trabajo objetivo y efectivo, generarle un potencial conflicto de interés o entorpecer su independencia de juicio, y iv) asumen el compromiso de mantenerse independientes por todo el tiempo en que ejerzan el cargo de director. La infracción al literal iii) no invalidará su elección ni los hará cesar en el cargo, pero obligará a responder de los perjuicios que su falta de veracidad o incumplimiento pueda causar a los accionistas.
+
+Será elegido director independiente aquel candidato que obtenga la más alta votación.
+
+El director independiente que conforme a lo establecido en el inciso tercero adquiera una inhabilidad sobreviniente para desempeñar su cargo, cesará automáticamente en él, sin perjuicio de su responsabilidad frente a los accionistas. No dará lugar a inhabilidad la reelección del director independiente en su cargo o su designación como director en una o más filiales de la sociedad, en cuanto los directores de dichas entidades no sean remunerados.
 
 El comité tendrá las siguientes facultades y deberes:
 
-1) Examinar los informes de los inspectores de cuentas y auditores externos, según corresponda, el balance y demás estados financieros presentados por los administradores o liquidadores de la sociedad a los accionistas, y pronunciarse respecto de éstos en forma previa a su presentación a los accionistas para su aprobación.
+1) Examinar los informes de los auditores externos, el balance y demás estados financieros presentados por los administradores o liquidadores de la sociedad a los accionistas, y pronunciarse respecto de éstos en forma previa a su presentación a los accionistas para su aprobación.
 
-2) Proponer al directorio, los auditores externos y los clasificadores privados de riesgo, en su caso, que serán sugeridos a la junta de accionistas respectiva. En caso de desacuerdo con el comité, el directorio podrá formular una sugerencia propia, sometiéndose ambas a consideración de la junta de accionistas.
+2) Proponer al directorio nombres para los auditores externos y clasificadores privados de riesgo, en su caso, que serán sugeridos a la junta de accionistas respectiva. En caso de desacuerdo, el directorio formulará una sugerencia propia, sometiéndose ambas a consideración de la junta de accionistas.
 
-3) Examinar los antecedentes relativos a las operaciones a que se refieren los artículos 44 y 89 y evacuar un informe respecto a esas operaciones. Una copia del informe será enviada al presidente del directorio, quien deberá dar lectura a dicho informe en la sesión citada para la aprobación o rechazo de la operación respectiva.
+3) Examinar los antecedentes relativos a las operaciones a que se refiere el Título XVI y evacuar un informe respecto a esas operaciones. Una copia del informe será enviada al directorio, en el cual se deberá dar lectura a éste en la sesión citada para la aprobación o rechazo de la operación respectiva.
 
-4) Examinar los sistemas de remuneraciones y planes de compensación a los gerentes y ejecutivos principales.
+4) Examinar los sistemas de remuneraciones y planes de compensación de los gerentes, ejecutivos principales y trabajadores de la sociedad.
 
-5) Las demás materias que señale el estatuto social, o que le encomiende una junta general de accionistas o el directorio, en su caso.
+5) Preparar un informe anual de su gestión, en que se incluyan sus principales recomendaciones a los accionistas.
 
-El comité estará integrado por 3 miembros, la mayoría de los cuales deberán ser independientes al controlador. En caso que hubiere más directores con derecho a integrar el comité, según corresponda, en la primera reunión del directorio después de la junta de accionistas en que se haya efectuado su elección, los mismos directores resolverán, por unanimidad, quiénes lo habrán de integrar. En caso de desacuerdo, se decidirá por sorteo.
+6) Informar al directorio respecto de la conveniencia de contratar o no a la empresa de auditoría externa para la prestación de servicios que no formen parte de la auditoría externa, cuando ellos no se encuentren prohibidos de conformidad a lo establecido en el artículo 242 de la ley Nº 18.045, en atención a si la naturaleza de tales servicios pueda generar un riesgo de pérdida de independencia.
 
-Los directores vinculados al controlador podrán constituir mayoría si la cantidad de directores independientes no fuere suficiente para lograrla.
+7) Las demás materias que señale el estatuto social, o que le encomiende una junta de accionistas o el directorio, en su caso.
 
-Se entenderá que un director es independiente cuando, al sustraer de su votación los votos provenientes del controlador o de sus personas relacionadas, hubiese resultado igualmente electo.
+El comité estará integrado por tres miembros, la mayoría de los cuales deberán ser independientes. En caso que hubiese más directores con derecho a integrar el comité, según corresponda, en la primera reunión del directorio después de la junta de accionistas en que se haya efectuado su elección, los mismos directores resolverán, por unanimidad, quiénes lo habrán de integrar. En caso de desacuerdo, se dará preferencia a la integración del comité por aquellos directores que hubiesen sido electos con un mayor porcentaje de votación de accionistas que individualmente controlen o posean menos del 10% de tales acciones. Si hubiese solamente un director independiente, éste nombrará a los demás integrantes del comité de entre los directores que no tengan tal calidad, los que gozarán de plenos derechos como miembros del mismo. El presidente del directorio no podrá integrar el comité ni sus subcomités, salvo que sea director independiente.
 
 Las deliberaciones, acuerdos y organización del comité se regirán, en todo lo que les fuere aplicable, por las normas relativas a las sesiones de directorio de la sociedad. El comité comunicará al directorio la forma en que solicitará información, así como también sus acuerdos.
 
-Los directores integrantes del comité serán remunerados. El monto de la remuneración será fijado anualmente en la junta ordinaria de accionistas, acorde a las funciones que les corresponde desarrollar.
+Los directores integrantes del comité serán remunerados. El monto de la remuneración será fijado anualmente en la junta ordinaria de accionistas, acorde a las funciones que les corresponde desarrollar, pero no podrá ser inferior a la remuneración prevista para los directores titulares, más un tercio de su monto.
 
-La junta ordinaria de accionistas determinará un presupuesto de gastos de funcionamiento del comité y sus asesores, y éste podrá requerir la contratación de la asesoría de profesionales para el desarrollo de sus labores, conforme al referido presupuesto.
+La junta ordinaria de accionistas determinará un presupuesto de gastos de funcionamiento del comité y sus asesores, el que no podrá ser inferior a la suma de las remuneraciones anuales de los miembros del comité, y éste podrá requerir la contratación de la asesoría de profesionales para el desarrollo de sus labores, conforme al referido presupuesto.
 
-Las actividades que desarrolle el comité y los gastos en que incurra, incluidos los de sus asesores, serán presentados en la memoria anual e informados en la junta ordinaria de accionistas.
+Las actividades que desarrolle el comité, su informe de gestión anual y los gastos en que incurra, incluidos los de sus asesores, serán presentados en la memoria anual e informados en la junta ordinaria de accionistas. Las propuestas efectuadas por el comité al directorio que no hubieren sido recogidas por este último, serán informadas a la junta de accionistas previo a la votación de la materia correspondiente.
 
 Los directores que integren el comité en el ejercicio de las funciones que señala este artículo, además de la responsabilidad inherente al cargo de director, responderán solidariamente de los perjuicios que causen a los accionistas y a la sociedad.
 
-Las sociedades anónimas abiertas que no tengan el patrimonio mínimo señalado en el inciso primero, podrán acogerse voluntariamente a las normas precedentes; en ese caso, deberán cumplir estrictamente con las disposiciones de este artículo.
+Las sociedades anónimas abiertas que no tengan el patrimonio mínimo y porcentaje accionario señalados en el inciso primero, podrán acogerse voluntariamente a las normas precedentes; en ese caso, deberán cumplir estrictamente con las disposiciones de este artículo.
 
 ## Título V
 
@@ -614,17 +642,17 @@ Las juntas ordinarias de las sociedades anónimas cerradas deberán nombrar anua
 
 #### Artículo 52
 
-La junta ordinaria de accionistas de las sociedades anónimas abiertas deberá designar anualmente auditores externos independientes con el objeto de examinar la contabilidad, inventario, balance y otros estados financieros de la sociedad, y con la obligación de informar por escrito a la próxima junta ordinaria de accionistas sobre el cumplimiento de su mandato.
+La junta ordinaria de accionistas de las sociedades anónimas abiertas deberá designar anualmente una empresa de auditoría externa regida por el Título XXVIII de la ley N° 18.045 con el objeto de examinar la contabilidad, inventario, balance y otros estados financieros de la sociedad, y con la obligación de informar por escrito a la próxima junta ordinaria de accionistas sobre el cumplimiento de su mandato.
 
 Los estatutos podrán establecer, además, en forma permanente o transitoria, la existencia de inspectores de cuentas, para los fines y con las facultades indicadas en el artículo anterior.
 
 #### Artículo 53
 
-El Reglamento determinará los requisitos, derechos, obligaciones, funciones y demás atribuciones relativas a los auditores externos e inspectores de cuentas, los cuales podrán concurrir a las juntas generales de accionistas con derecho a voz pero sin derecho a voto.
+Los inspectores de cuentas y auditores externos que no se encuentren regidos por el Título XXVIII de la ley Nº 18.045, no estarán sometidos a la fiscalización de la Comisión, excepto para efectos de su incorporación o exclusión del Registro de Inspectores de Cuenta y Auditores Externos que dicha entidad establecerá. El Reglamento determinará los requisitos de idoneidad profesional o técnica, así como las inhabilidades o causales en virtud de las cuales dichos inspectores de cuentas y auditores externos podrán ser incorporados y excluidos del mencionado registro, o bien rechazada su inscripción en el mismo. De las decisiones que al respecto tome la Comisión, se podrá reclamar ante el juez de letras conforme a lo previsto en el artículo 30 del decreto ley N° 3.538, de 1980, en lo que fuere aplicable. El tribunal podrá suspender la ejecución de lo resuelto por la Comisión, cuando su aplicación en el intertanto pueda provocar un daño irreparable al reclamante.
 
-Los auditores externos responderán hasta de la culpa leve por los perjuicios que causaren a los accionistas con ocasión de sus actuaciones, informes u omisiones.
+El informe de los auditores externos e inspectores de cuentas será incorporado en la memoria junto con los estados financieros y éstos podrán concurrir a las juntas generales de accionistas con derecho a voz pero sin derecho a voto.
 
-Los auditores externos de las sociedades anónimas abiertas deberán ser elegidos de entre los inscritos en el registro que, para este fin, llevará la Superintendencia de Valores y Seguros y quedarán sujetos a su fiscalización.
+Los auditores externos e inspectores de cuenta responderán hasta de la culpa leve por los perjuicios que causaren.
 
 #### Artículo 54
 
@@ -633,6 +661,8 @@ La memoria, balance, inventario, actas, libros y los informes de los auditores e
 Durante el período indicado en el inciso anterior, estos accionistas tendrán el derecho de examinar iguales antecedentes de las sociedades filiales, en la forma, plazo y condiciones que señale el Reglamento.
 
 No obstante lo dispuesto en los incisos anteriores, con la aprobación de las tres cuartas partes de los directores en ejercicio, podrá darse el carácter de reservado a ciertos documentos que se refieran a negociaciones aún pendientes que al conocerse pudieran perjudicar el interés social. Los directores que dolosa o culpablemente concurran con su voto favorable a la declaración de reserva, responderán solidariamente de los perjuicios que ocasionaren.
+
+En el caso de las sociedades anónimas abiertas, la memoria, el informe de los auditores externos y los estados financieros auditados de la sociedad, deberán ponerse a disposición de los accionistas en el sitio en Internet de las sociedades que dispongan de tales medios.
 
 ## Título VI
 
@@ -670,7 +700,7 @@ Son materias de junta extraordinaria:
 
 3) La emisión de bonos o debentures convertibles en acciones;
 
-4) La enajenación del activo de la sociedad en los términos que señala el Nº 9) del artículo 67, o el 50% o más del pasivo;
+4) La enajenación del activo de la sociedad en los términos que señala el Nº 9) del artículo 67;
 
 5) El otorgamiento de garantías reales o personales para caucionar obligaciones de terceros, excepto si éstos fueren sociedades filiales, en cuyo caso la aprobación de directorio será suficiente, y
 
@@ -690,21 +720,21 @@ El directorio deberá convocar:
 
 3) A junta ordinaria o extraordinaria, según sea el caso, cuando así lo soliciten accionistas que representen, a lo menos, el 10% de las acciones emitidas con derecho a voto, expresando en la solicitud los asuntos a tratar en la junta;
 
-4) A junta ordinaria o extraordinaria, según sea el caso, cuando así lo requiera la Superintendencia, con respecto a las sociedades sometidas a su control, sin perjuicio de su facultad para convocarlas directamente.
+4) A junta ordinaria o extraordinaria, según sea el caso, cuando así lo requiera la Comisión, con respecto a las sociedades anónimas abiertas o especiales, sin perjuicio de su facultad para convocarlas directamente. En el caso de las sociedades anónimas cerradas, si el directorio no ha convocado a junta cuando corresponde, accionistas que representen, a lo menos, el 10% de las acciones emitidas con derecho a voto, podrán efectuar la citación a junta ordinaria o extraordinaria, según sea el caso, mediante la publicación de un aviso en un diario de circulación nacional, en el cual expresarán la fecha y hora en que se llevará a cabo y los asuntos a tratar en la junta.
 
-Las juntas convocadas en virtud de la solicitud de accionistas o de la Superintendencia, deberán celebrarse dentro del plazo de 30 días a contar de la fecha de la respectiva solicitud.
+Las juntas convocadas en virtud de la solicitud de accionistas o de la Comisión, deberán celebrarse dentro del plazo de 30 días a contar de la fecha de la respectiva solicitud.
 
 #### Artículo 59
 
 La citación a la junta de accionistas se efectuará por medio de un aviso destacado que se publicará, a lo menos, por tres veces en días distintos en el periódico del domicilio social que haya determinado la junta de accionistas o, a falta de acuerdo o en caso de suspensión o desaparición de la circulación del periódico designado, en el Diario Oficial, en el tiempo, forma y condiciones que señale el Reglamento.
 
-En las sociedades abiertas, además, deberá enviarse una citación por correo a cada accionista con una anticipación mínima de quince días a la fecha de la celebración de la junta, la que deberá contener una referencia a las materias a ser tratadas en ella.
+En las sociedades anónimas abiertas, además, deberá enviarse una citación por correo a cada accionista con una anticipación mínima de quince días a la fecha de la celebración de la junta, la que deberá contener una referencia a las materias a ser tratadas en ella e indicación de la forma de obtener copias íntegras de los documentos que fundamentan las diversas opciones sometidas a su voto, los que deberán además ponerse a disposición de los accionistas en el sitio en Internet de las sociedades que dispongan de tales medios.
 
 La omisión de la obligación a que se refiere el inciso anterior no afectará la validez de la citación, pero los directores, liquidadores y gerente de la sociedad infractora responderán de los perjuicios que causaren a los accionistas, no obstante las sanciones administrativas que la Superintendencia pueda aplicarles.
 
 #### Artículo 60
 
-Podrán celebrarse válidamente aquellas juntas a las que concurran la totalidad de las acciones emitidas con derecho a voto, aun cuando no hubieren cumplido las formalidades requeridas para su citación.
+Podrán auto convocarse y celebrarse válidamente aquellas juntas a las que concurran la totalidad de las acciones emitidas con derecho a voto, aun cuando no hubieren cumplido las formalidades requeridas para su citación.
 
 #### Artículo 61
 
@@ -716,11 +746,15 @@ Las juntas serán presididas por el presidente del directorio o por el que haga 
 
 #### Artículo 62
 
-Solamente podrán participar en las juntas y ejercer sus derechos de voz y voto, los titulares de acciones inscritas en el Registro de Accionistas con cinco días de anticipación a aquel en que haya de celebrarse la respectiva junta.
+Solamente podrán participar en las juntas y ejercer sus derechos de voz y voto, los titulares de acciones inscritas en el Registro de Accionistas con cinco días de anticipación a aquel en que haya de celebrarse la respectiva junta. Sin embargo, tratándose de una sociedad anónima cerrada, podrán participar en la junta todos los accionistas que al momento de iniciarse ésta figuraren como accionistas en el respectivo registro.
 
-Los titulares de acciones sin derecho a voto, así como los directores y gerentes que no sean accionistas, podrán participar en las juntas generales con derecho a voz.
+Los titulares de acciones sin derecho a voto, así como los directores y gerentes que no sean accionistas, podrán participar en las juntas con derecho a voz.
 
 Para los efectos de esta ley, se entiende por acciones sin derecho a voto aquellas que tengan este carácter por disposición legal o estatutaria.
+
+Las materias sometidas a decisión de la junta deberán llevarse individualmente a votación, salvo que, por acuerdo unánime de los accionistas presentes con derecho a voto, se permita omitir la votación de una o más materias y se proceda por aclamación. Toda votación que se efectúe en una junta deberá realizarse mediante un sistema que asegure la simultaneidad de la emisión de los votos o bien en forma secreta, debiendo el escrutinio llevarse a cabo en un solo acto público, y en ambos casos, que con posterioridad pueda conocerse en forma pública cómo sufragó cada accionista. Corresponderá a la Comisión aprobar, mediante norma de carácter general, los referidos sistemas para las sociedades anónimas abiertas.
+
+Siempre que la ley ordene a un accionista emitir su voto de viva voz, se entenderá cumplida esta obligación cuando la emisión del mismo se haga por uno de los sistemas de votación simultánea o secreta y con publicidad posterior referidos en el inciso precedente. Cuando en el ejercicio de la facultad que otorga el inciso anterior, la junta por la unanimidad de los presentes haya aprobado una modalidad diferente, dicho accionista deberá emitir en todo caso su voto de viva voz, de lo cual se dejará constancia en el acta de la junta.
 
 #### Artículo 63
 
@@ -735,6 +769,8 @@ La Superintendencia podrá hacerse representar en toda junta de una sociedad som
 Los accionistas podrán hacerse representar en las juntas por medio de otra persona, aunque ésta no sea accionista. La representación deberá conferirse por escrito, por el total de las acciones de las cuales el mandante sea titular a la fecha señalada en el artículo 62.
 
 El Reglamento señalará el texto del poder para la representación de acciones en las juntas y las normas para la calificación.
+
+La Comisión, mediante norma de carácter general, podrá autorizar a las sociedades anónimas abiertas, para establecer sistemas que permitan el voto a distancia, siempre que dichos sistemas resguarden debidamente los derechos de los accionistas y la regularidad del proceso de votación.
 
 #### Artículo 65
 
@@ -770,7 +806,7 @@ Requerirán del voto conforme de las dos terceras partes de las acciones emitida
 
 8) La disminución del número de miembros de su directorio;
 
-9) La enajenación de un 50% o más de su activo, sea que incluya o no su pasivo; como asimismo, la formulación o modificación de cualquier plan de negocios que contemple la enajenación de activos por un monto que supere el porcentaje antedicho. Para estos efectos se presume que constituyen una misma operación de enajenación, aquellas que se perfeccionen por medio de uno o más actos relativos a cualquier bien social, durante cualquier período de 12 meses consecutivos;
+9) La enajenación de 50% o más de su activo, sea que incluya o no su pasivo, lo que se determinará conforme al balance del ejercicio anterior, y la formulación o modificación de cualquier plan de negocios que contemple la enajenación de activos por un monto que supere dicho porcentaje; la enajenación de 50% o más del activo de una filial, siempre que ésta represente al menos un 20% del activo de la sociedad, como cualquier enajenación de sus acciones que implique que la matriz pierda el carácter de controlador;
 
 10) La forma de distribuir los beneficios sociales;
 
@@ -778,11 +814,15 @@ Requerirán del voto conforme de las dos terceras partes de las acciones emitida
 
 12) La adquisición de acciones de su propia emisión, en las condiciones establecidas en los artículos 27A y 27B;
 
-13) Las demás que señalen los estatutos, y
+13) Las demás que señalen los estatutos;
 
 14) El saneamiento de la nulidad, causada por vicios formales, de que adolezca la constitución de la sociedad o una modificación de sus estatutos sociales que comprenda una o más materias de las señaladas en los números anteriores.
 
-Las reformas de estatutos que tengan por objeto la creación, modificación o supresión de preferencias, deberán ser aprobadas con el voto conforme de las dos terceras partes de las acciones de la serie o series afectadas.
+Las reformas de estatutos que tengan por objeto la creación, modificación, prórroga o supresión de preferencias, deberán ser aprobadas con el voto conforme de las dos terceras partes de las acciones de la serie o series afectadas.
+
+15) En las sociedades anónimas abiertas, establecer el derecho de compra a que hace referencia el inciso segundo del artículo 71 bis, y
+
+16) Aprobar o ratificar la celebración de actos o contratos con partes relacionadas, de conformidad a lo establecido en los artículos 44 y 147.
 
 #### Artículo 68
 
@@ -790,7 +830,7 @@ Las acciones pertenecientes a accionistas que durante un plazo superior a 5 año
 
 #### Artículo 69
 
-La aprobación por la junta de accionistas de alguna de las materias que se indican más adelante, concederá al accionista disidente el derecho a retirarse de la sociedad, previo pago por aquélla del valor de sus acciones. Sin perjuicio de lo anterior, en caso de haberse declarado la quiebra de la sociedad, se suspenderá el ejercicio del derecho a retiro hasta que no sean pagadas las acreencias que existan en el momento de generarse ese derecho. Igual norma se aplicará en caso de quedar sujeta la sociedad a un convenio aprobado de acuerdo al Título XII de la Ley de Quiebras y mientras esté vigente, salvo que dicho convenio autorice el retiro o cuando termine por la declaración de quiebra.
+La aprobación por la junta de accionistas de alguna de las materias que se indican más adelante, concederá al accionista disidente el derecho a retirarse de la sociedad, previo pago por aquélla del valor de sus acciones. Sin perjuicio de lo anterior, en el caso de que la sociedad tenga la calidad de deudor en un procedimiento concursal de liquidación, se suspenderá el ejercicio del derecho a retiro hasta que no sean pagadas las acreencias que existan en el momento de generarse ese derecho. Igual norma se aplicará en caso de quedar sujeta la sociedad a un acuerdo de reorganización aprobado conforme a lo establecido en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas y mientras esté vigente, salvo que dicho acuerdo autorice el retiro o cuando termine por la dictación de la resolución de liquidación.
 
 Considérase accionista disidente a aquel que en la respectiva junta se hubiere opuesto al acuerdo que da derecho a retiro, o que, no habiendo concurrido a la junta, manifieste su disidencia por escrito a la sociedad, dentro del plazo establecido en el artículo siguiente.
 
@@ -802,11 +842,11 @@ Los acuerdos que dan origen al derecho a retiro de la sociedad son:
 
 2) La fusión de la sociedad;
 
-3) La enajenación del 50% o más del activo social, en los términos referidos en el Nº 9) del artículo 67;
+3) Las enajenaciones a que se refiere el Nº 9) del artículo 67
 
 4) El otorgamiento de las cauciones a que se refiere el Nº11) del artículo 67;
 
-5) La creación de preferencia para una serie de acciones o el aumento o la reducción de las ya existentes. En este caso, tendrán derecho a retiro únicamente los accionistas disidentes de la o las series afectadas;
+5) La creación de preferencia para una serie de acciones o el aumento, prórroga o la reducción de las ya existentes. En este caso, tendrán derecho a retiro únicamente los accionistas disidentes de la o las series afectadas;
 
 6) El saneamiento de la nulidad causada por vicios formales de que adolezca la constitución de la sociedad o alguna modificación de sus estatutos que diere este derecho.
 
@@ -850,13 +890,7 @@ El accionista disidente podrá renunciar a hacer efectivo su derecho a retiro, h
 
 #### Artículo 69 ter
 
-Si como consecuencia de cualquier adquisición, una persona alcanza o supera los dos tercios de las acciones emitidas con derecho a voto de una sociedad que haga oferta pública de sus acciones, tendrá el plazo de 30 días, contado desde la fecha de aquélla, para realizar una oferta por las acciones restantes, en los términos establecidos en el Título XXV de la ley Nº 18.045. Dicha oferta deberá hacerse a un precio no inferior al que correspondería en caso de existir derecho a retiro.
-
-De no efectuarse la oferta en el plazo señalado, nacerá para el resto de los accionistas el derecho a retiro en los términos del artículo 69. En este caso, se tomará como fecha de referencia para calcular el valor a pagar, el día siguiente al vencimiento del plazo indicado en el inciso primero.
-
-No regirá la obligación establecida en el inciso primero, cuando se alcance el porcentaje ahí referido como consecuencia de una reducción de pleno derecho del capital, por no haber sido totalmente suscrito y pagado un aumento dentro del plazo legal.
-
-En caso que todos los accionistas ejercieren la opción de enajenar la totalidad de sus acciones al controlador o ejercer el derecho a retiro en su caso, a la sociedad no le será aplicable la causal de disolución establecida en el Nº 2) del artículo 103, a menos que el controlador decida lo contrario y así lo señale conforme al artículo 213 de la ley Nº 18.045.
+Derogado
 
 #### Artículo 70
 
@@ -870,6 +904,18 @@ El directorio podrá convocar a una nueva junta que deberá celebrarse a más ta
 
 El precio de las acciones se pagará sin recargo alguno dentro de los sesenta días siguientes a la fecha de la celebración de la junta en que se tomó el acuerdo que motivó el retiro. Si no se pagare dentro de dicho término, el precio deberá expresarse en unidades de fomento y devengará intereses corrientes a contar del vencimiento del plazo antes señalado.
 
+#### Artículo 71 bis
+
+También dará derecho a retiro en favor de los accionistas minoritarios, que un controlador adquiera más del noventa y cinco por ciento de las acciones de una sociedad anónima abierta. Este derecho a retiro deberá ser ejercido dentro del plazo de 30 días contado desde la fecha en que el accionista controlador alcance la participación indicada, lo que se comunicará dentro de los dos días hábiles siguientes a través de un aviso destacado publicado en un diario de circulación nacional y en el sitio en Internet de la sociedad, si ella dispone de tales medios.
+
+Asimismo, los estatutos de la sociedad podrán facultar al controlador para exigir que todos los accionistas que no opten por ejercer su derecho a retiro, le vendan aquellas acciones adquiridas bajo la vigencia de esa facultad estatutaria, siempre que haya alcanzado el porcentaje indicado en el inciso anterior a consecuencia de una oferta pública de adquisición de acciones, efectuada por la totalidad de las acciones de la sociedad anónima abierta, o de la serie de acciones respectiva, en la que haya adquirido, de accionistas no relacionados, a lo menos un quince por ciento de tales acciones. El precio de la compraventa respectiva será el establecido en dicha oferta, debidamente reajustado y más intereses corrientes.
+
+El controlador deberá notificar que ejercerá su derecho de compra dentro de los quince días siguientes al vencimiento del plazo previsto para el ejercicio del derecho a retiro indicado en el inciso primero, mediante carta certificada enviada al domicilio registrado en la sociedad por los accionistas respectivos, así como a través de un aviso destacado publicado en un diario de circulación nacional y en el sitio en Internet de la sociedad, si ella dispone de tales medios.
+
+La compraventa se entenderá perfeccionada quince días después de notificado el ejercicio del derecho de compra sin necesidad que las partes firmen el respectivo traspaso, debiendo proceder la sociedad a registrar las acciones a nombre del controlador y poner inmediatamente a disposición de los accionistas el producto de la venta, de la misma forma prevista para el reparto de los dividendos sociales. En el caso de acciones prendadas, la sociedad registrará las acciones a nombre del controlador sin alzar la prenda respectiva, pero retendrá el producto de la venta hasta que ello ocurra. Para estos efectos se aplicará lo dispuesto en el artículo 18 en todo aquello que resulte aplicable.
+
+La Comisión, mediante norma de carácter general, podrá establecer los procedimientos y regulaciones que faciliten el legítimo ejercicio de estos derechos.
+
 #### Artículo 72
 
 De las deliberaciones y acuerdos de las juntas se dejará constancia en un libro de actas, el que será llevado por el secretario, si lo hubiere, o en su defecto, por el gerente de la sociedad.
@@ -878,9 +924,11 @@ Las actas serán firmadas por quienes actuaron de presidente y secretario de la 
 
 Se entenderá aprobada el acta desde el momento de su firma por las personas señaladas en el inciso anterior y desde esa fecha se podrán llevar a efecto los acuerdos a que ella se refiere. Si alguna de las personas designadas para firmar el acta estimara que ella adolece de inexactitudes u omisiones, tendrá derecho a estampar, antes de firmarla, las salvedades correspondientes.
 
-Las deliberaciones y acuerdos de las juntas se escriturarán en el libro de actas respectivo por cualquier medio, siempre que éstos ofrezcan seguridad que no podrá haber intercalaciones, supresiones o cualquier otra adulteración que pueda afectar la fidelidad del acta. Lo anterior es sin perjuicio de las atribuciones que sobre estas materias competen a la Superintendencia respecto de las entidades sometidas a su control.
+Las deliberaciones y acuerdos de las juntas se escriturarán en el libro de actas respectivo por cualquier medio, siempre que éstos ofrezcan seguridad que no podrá haber intercalaciones, supresiones o cualquier otra adulteración que pueda afectar la fidelidad del acta. Lo anterior es sin perjuicio de las atribuciones que sobre estas materias competen a la Comisión respecto de las entidades sometidas a su control.
 
 El presidente, el secretario y las demás personas que se hayan obligado a firmar el acta que se levante de la junta de accionistas respectiva, no podrán negarse a firmarla. El acta que se levante de una junta de accionistas deberá quedar firmada y salvada, si fuere el caso, dentro de los 10 días hábiles siguientes a la celebración de la junta de accionistas correspondiente.
+
+En las sociedades anónimas abiertas, el acta de la más reciente junta de accionistas deberá quedar a disposición de los accionistas en el sitio en Internet de las sociedades que cuenten con tales medios.
 
 ## Título VII
 
@@ -896,9 +944,9 @@ Las sociedades anónimas confeccionarán anualmente su balance general al 31 de 
 
 El directorio deberá presentar a la consideración de la junta ordinaria de accionistas una memoria razonada acerca de la situación de la sociedad en el último ejercicio, acompañada del balance general, del estado de ganancias y pérdidas y del informe que al respecto presenten los auditores externos o inspectores de cuentas, en su caso. Todos estos documentos deberán reflejar con claridad la situación patrimonial de la sociedad al cierre del ejercicio y los beneficios obtenidos o las pérdidas sufridas durante el mismo.
 
-En las sociedades abiertas, la memoria incluirá como anexo una síntesis fiel de los comentarios y proposiciones que formulen accionistas que posean o representen el 10% o más de las acciones emitidas con derecho a voto, relativas a la marcha de los negocios sociales y siempre que dichos accionistas así lo soliciten.
+En las sociedades abiertas, la memoria incluirá como anexo una síntesis fiel de los comentarios y proposiciones que formulen el comité de directores, en su caso, yaccionistas que posean o representen el 10% o más de las acciones emitidas con derecho a voto, relativas a la marcha de los negocios sociales, siempre que dichos comité o accionistas así lo soliciten.
 
-Asimismo, en toda información que envíe el directorio de las sociedades abiertas a los accionistas en general, con motivo de citación a junta, solicitudes de poder, fundamentación de sus decisiones u otras materias similares, deberán incluirse los comentarios y proposiciones pertinentes que hubieren formulado los accionistas mencionados en el inciso anterior.
+Asimismo, en toda información que envíe el directorio de las sociedades abiertas a los accionistas en general, con motivo de citación a junta, solicitudes de poder, fundamentación de sus decisiones u otras materias similares, deberán incluirse los comentarios y proposiciones pertinentes que hubieren formulado el comité y los accionistas mencionados en el inciso anterior.
 
 El Reglamento determinará la forma, plazo y modalidades a que deberá sujetarse este derecho y las obligaciones de información de la posición de las minorías a que se refieren los incisos anteriores.
 
@@ -912,15 +960,17 @@ Si el balance general y el estado de ganancias y pérdidas fueren modificados po
 
 #### Artículo 76
 
-Las sociedades anónimas abiertas deberán publicar las informaciones que determine la Superintendencia sobre sus balances generales y estados de ganancias y pérdidas debidamente auditados, en un diario de amplia circulación en el lugar del domicilio social, con no menos de 10 ni más de 20 días de anticipación a la fecha en que se celebre la junta que se pronunciará sobre los mismos.
+Las sociedades anónimas abiertas deberán publicar en su sitio en Internet, con la disponibilidad y por el plazo que determine la Comisión, la información sobre sus estados financieros y el informe de los auditores externos, con no menos de 10 días de anticipación a la fecha en que se celebre la junta que se pronunciará sobre los mismos.
 
-Asimismo, los documentos señalados en el inciso anterior deberán presentarse dentro de ese mismo plazo a la Superintendencia, en el número de ejemplares que ésta determine.
+Asimismo, la información señalada en el inciso anterior y el hipervínculo al sitio de Internet de la sociedad donde dicha información se ubique, deberá presentarse dentro de ese mismo plazo a la Comisión, para que así ésta pueda publicarlo en su sitio de Internet, facilitando de esta forma el acceso por parte del público a la información, debiendo la sociedad informar conjuntamente la fecha de publicación de tales antecedentes en su sitio en Internet.
 
-Si el balance y cuentas de ganancias y pérdidas fueren alteradas por la junta, las modificaciones, sin perjuicio de la obligación establecida en el artículo anterior, se publicarán en el mismo diario en que se hubieren publicado dichos documentos de acuerdo al inciso primero, dentro de los 15 días siguientes a la fecha de la junta.
+Si los estados financieros fueren alterados por la junta, las modificaciones se publicarán en el sitio en Internet de la sociedad, dentro de los 5 días siguientes a la fecha de la junta.
 
-Si estos mismos documentos fueren observados por la Superintendencia, ésta podrá disponer la publicación de sus observaciones en la forma que ella determine.
+En el evento de que la sociedad no cuente con un sitio en Internet para efectuar las publicaciones referidas en los incisos anteriores, deberá realizarlas en un diario de amplia circulación, en el lugar del domicilio social, con no menos de 10 ni más de 20 días de anticipación a la fecha en que se celebre la junta que se pronunciará sobre los estados financieros y el informe de los auditores externos. Tratándose de las modificaciones introducidas por la junta, la publicación deberá efectuarse en el mismo diario dentro de los 15 días siguientes a la fecha de la junta.
 
-Lo anterior es sin perjuicio de las otras facultades que disposiciones legales, reglamentarias y administrativas otorguen a la Superintendencia.
+Si estos mismos documentos fueren observados por la Comisión, ésta podrá disponer la publicación de sus observaciones en la forma que ella determine.
+
+Lo anterior es sin perjuicio de las otras facultades que disposiciones legales, reglamentarias y administrativas otorguen a la Comisión.
 
 #### Artículo 77
 
@@ -1010,11 +1060,9 @@ Esta prohibición también regirá aun cuando la matriz o la coligante, en su ca
 
 #### Artículo 89
 
-Las operaciones entre sociedades coligadas, entre la matriz y sus filiales, las de estas últimas entre sí, o con las coligadas, y las que efectúe una sociedad anónima abierta, ya sea directamente o a través de otras entidades pertenecientes a su grupo empresarial, con sus personas relacionadas, definidas en la ley N° 18.045, deberán observar condiciones de equidad, similares a las que habitualmente prevalecen en el mercado. Los administradores de una y otras serán responsables de las pérdidas o perjuicios que pudieren causar a la sociedad que administren por operaciones hechas con infracción a este artículo.
+En el caso de las sociedades anónimas cerradas, las operaciones entre sociedades coligadas, entre la matriz y sus filiales, las de estas últimas entre sí, o con las coligadas, y aquellas realizadas con sus personas relacionadas, definidas en la ley N° 18.045, deberán observar condiciones de equidad, similares a las que habitualmente prevalecen en el mercado. Los administradores de una y otras serán responsables de las pérdidas o perjuicios que pudieren causar a la sociedad que administren por operaciones hechas con infracción a este artículo.
 
-También se aplicará lo dispuesto en este artículo, aun cuando la matriz o la coligante, en su caso, no fuere una sociedad anónima.
-
-> **Nota.** El articulo DECIMO de la LEY 18660, publica el 20.10.1987, dispone que las modificaciones que introduce la citada ley, entrarán en vigencia el primer día del segundo mes siguiente al de su publicación.
+En el caso que cualquiera de las sociedades que interviniere en la operación fuere una sociedad anónima abierta, se aplicará lo dispuesto en el Título XVI.
 
 #### Artículo 90
 
@@ -1037,66 +1085,6 @@ Los directores de una sociedad matriz, aunque no sean miembros del directorio de
 Las operaciones de la sociedad filial en que algún director de la sociedad matriz u otra de las personas mencionadas en el artículo 44 tuviere interés, según lo dispuesto en el mismo precepto, sólo podrán celebrarse en la forma y condiciones y sujetas a las sanciones de dicha disposición.
 
 Los acuerdos que se adopten serán dados a conocer en la primera junta ordinaria de accionistas de ambas sociedades, por quienes las presidan.
-
-#### Artículo 101
-
-El directorio de la sociedad que ha cesado en el pago de una o más de sus obligaciones o que ha sido declarada en quiebra por resolución ejecutoriada, deberá citar a junta de accionistas para ser celebrada dentro de los 30 días siguientes de acaecidos estos hechos, para informar ampliamente sobre la situación legal, económica y financiera de la sociedad.
-
-Cuando una sociedad anónima abierta cesare en el pago de una o más de sus obligaciones, el gerente o el directorio en su ausencia, deberá dar aviso al día siguiente hábil a la Superintendencia.
-
-Igual comunicación deberá enviar si algún acreedor de la sociedad solicitare la quiebra de ella, sin perjuicio de que el juzgado ante el cual se entablare la acción deberá poner este hecho en conocimiento de la Superintendencia, como asimismo, comunicarle la declaratoria posterior de quiebra.
-
-#### Artículo 102
-
-Para los efectos del artículo 203 de la Ley de Quiebras, se presume el conocimiento de los directores, liquidadores y gerentes de la sociedad anónima fallida, en los siguientes casos:
-
-1) Si la sociedad hubiere celebrado convenios privados con algunos acreedores en perjuicio de los demás; y
-
-2) Si después de la cesación de pago, la sociedad ha pagado a un acreedor, en perjuicio de los demás, anticipando o no el vencimiento de su crédito.
-
-#### Artículo 103
-
-La sociedad anónima se disuelve:
-
-1) Por el vencimiento del plazo de su duración, si lo hubiere;
-
-2) Por reunirse todas las acciones en manos de una sola persona;
-
-3) Por acuerdo de junta general extraordinaria de accionistas;
-
-4) Por revocación de la autorización de existencia de conformidad con lo que disponga la ley;
-
-5) Por sentencia judicial ejecutoriada en el caso de las sociedades no sometidas a la fiscalización de la Superintendencia en razón de esta ley o de otras leyes, y
-
-6) Por las demás causales contempladas en el estatuto.
-
-#### Artículo 105
-
-Las sociedades anónimas a que se refiere el N° 5 del artículo 103 de la presente ley, podrán ser disueltas por sentencia judicial ejecutoriada, cuando accionistas que representen a lo menos un 20% de su capital así lo demandaren, por estimar que existe causa para ello, tales como infracción grave de ley, de reglamento o demás normas que les sean aplicables, que causare perjuicio a los accionistas o a la sociedad declaración de quiebra de la sociedad, administración fraudulenta u otras de igual gravedad.
-
-El tribunal procederá breve y sumariamente y apreciará la prueba en conciencia.
-
-#### Artículo 107
-
-Una sociedad anónima sometida al control de la Superintendencia en razón de esta ley o de otras leyes, no inscribirá, sin el visto bueno de ésta, la transferencia o transmisión de acciones que determine la disolución de la compañía, por el hecho de pasar todas las acciones de la sociedad al dominio de una sola persona.
-
-La Superintendencia no otorgará su autorización sino cuando se hayan tomado las medidas conducentes a resguardar los derechos de los terceros que hubieren contratado con la sociedad.
-
-#### Artículo 119
-
-La Superintendencia, en las sociedades sujetas a su fiscalización, en casos graves y calificados y a petición de accionistas que representen a lo menos el 10% de las acciones emitidas, podrá citar u ordenar se cite a junta de accionistas, con el objeto de que ésta modifique el régimen de liquidación y designe un solo liquidador de la quina que se le presentará al efecto.
-
-En las sociedades cerradas, corresponderá ejercer este derecho ante la Justicia Ordinaria, la que resolverá con audiencia de la sociedad, conforme al procedimiento establecido para los incidentes.
-
-Se presume de derecho que existe caso grave y calificado cuando el proceso de liquidación no se termine dentro de los 6 años siguientes a la disolución de la sociedad, o en el plazo menor que la junta de accionistas determine al momento de nombrar la comisión liquidadora.
-
-Lo dispuesto en este artículo es sin perjuicio de la facultad conferida al Superintendente en la ley para efectuar la liquidación por sí o por delegados respecto de determinadas sociedades.
-
-#### Artículo 125
-
-En los estatutos sociales se establecerá la forma como se designarán el o los árbitros que conocerán las materias a que se refiere el N° 10 del artículo 4° de la presente ley. En caso alguno podrá nominarse en ellos a una o más personas determinadas como árbitros.
-
-El arbitraje que establece esta ley es sin perjuicio de que, al producirse un conflicto, el demandante pueda sustraer su conocimiento de la competencia de los árbitros y someterlo a la decisión de la justicia ordinaria.
 
 ## Título IX
 
@@ -1146,19 +1134,19 @@ Ningún accionista, a menos que consienta en ello, podrá perder su calidad de t
 
 ## Título X
 
-De la quiebra, disolución y liquidación
+Del procedimiento concursal de liquidación, de la disolución y de la liquidación
 
 #### Artículo 101
 
-El directorio de la sociedad que ha cesado en el pago de una o más de sus obligaciones o que ha sido declarada en quiebra por resolución ejecutoriada, deberá citar a junta de accionistas para ser celebrada dentro de los 30 días siguientes de acaecidos estos hechos, para informar ampliamente sobre la situación legal, económica y financiera de la sociedad.
+El directorio de la sociedad que ha cesado en el pago de una o más de sus obligaciones o respecto de la cual ha sido declarado el inicio del procedimiento concursal de liquidación, deberá citar a junta de accionistas para ser celebrada dentro de los 30 días siguientes de acaecidos estos hechos, para informar ampliamente sobre la situación legal, económica y financiera de la sociedad.
 
-Cuando una sociedad anónima abierta cesare en el pago de una o más de sus obligaciones, el gerente o el directorio en su ausencia, deberá dar aviso el día siguiente hábil a la Superintendencia.
+Cuando una sociedad anónima abierta cesare en el pago de una o más de sus obligaciones, el gerente o el directorio en su ausencia, deberá dar aviso el día siguiente hábil a la Comisión.
 
-Igual comunicación deberá enviar si algún acreedor de la sociedad solicitare la quiebra de ella, sin perjuicio de que el juzgado ante el cual se entablare la acción deberá poner este hecho en conocimiento de la Superintendencia, como asimismo, comunicarle la declaratoria posterior de quiebra.
+Igual comunicación deberá enviar si algún acreedor de la sociedad solicitare el inicio de un procedimiento concursal respecto de ella, sin perjuicio de que el juzgado ante el cual se entablare la acción deberá poner este hecho en conocimiento de la Comisión, como asimismo, comunicarle la resolución de liquidación.
 
 #### Artículo 102
 
-Para los efectos del artículo 203 de la Ley de Quiebras, se presume el conocimiento de los directores, liquidadores y gerentes de la sociedad anónima fallida, en los siguientes casos:
+Si el deudor hubiere agravado el mal estado de sus negocios en forma que haga temer un perjuicio a los acreedores, podrá ser sometido a una intervención más estricta que la pactada o resolverse el acuerdo de reorganización, por su incumplimiento de conformidad a lo establecido en los artículos 98 y siguientes de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas, y se presumirá el conocimiento de los directores, liquidadores y gerentes de la sociedad anónima deudora, en los siguientes casos:
 
 1) Si la sociedad hubiere celebrado convenios privados con algunos acreedores en perjuicio de los demás; y
 
@@ -1170,13 +1158,13 @@ La sociedad anónima se disuelve:
 
 1) Por el vencimiento del plazo de su duración, si lo hubiere;
 
-2) Por reunirse todas las acciones en manos de una sola persona;
+2) Por reunirse, por un período ininterrumpido que exceda de 10 días, todas las acciones en manos de una sola persona;
 
-3) Por acuerdo de junta general extraordinaria de accionistas;
+3) Por acuerdo de junta extraordinaria de accionistas;
 
 4) Por revocación de la autorización de existencia de conformidad con lo que disponga la ley;
 
-5) Por sentencia judicial ejecutoriada en el caso de las sociedades no sometidas a la fiscalización de la Superintendencia en razón de esta ley o de otras leyes, y
+5) Por sentencia judicial ejecutoriada en el caso de las sociedades anónimas cerradas, y
 
 6) Por las demás causales contempladas en el estatuto.
 
@@ -1186,7 +1174,9 @@ En los casos que esta ley u otras leyes establezcan que una sociedad requiere de
 
 #### Artículo 105
 
-Las sociedades anónimas a que se refiere el N° 5 del artículo 103 de la presente ley, podrán ser disueltas por sentencia judicial ejecutoriada, cuando accionistas que representen a lo menos un 20% de su capital así lo demandaren, por estimar que existe causa para ello, tales como infracción grave de ley, de reglamento o demás normas que les sean aplicables, que causare perjuicio a los accionistas o a la sociedad; declaración de quiebra de la sociedad, administración fraudulenta u otras de igual gravedad.
+Las sociedades anónimas a que se refiere el
+
+N° 5 del artículo 103 de la presente ley, podrán ser disueltas por sentencia judicial ejecutoriada, cuando accionistas que representen a lo menos un 20% de su capital así lo demandaren, por estimar que existe causa para ello, tales como infracción grave de ley, de reglamento o demás normas que les sean aplicables, que causare perjuicio a los accionistas o a la sociedad; dictación de la resolución de liquidación de la sociedad, administración fraudulenta u otras de igual gravedad.
 
 El tribunal procederá breve y sumariamente y apreciará la prueba en conciencia.
 
@@ -1196,9 +1186,9 @@ Sin perjuicio de lo dispuesto en el artículo 133, se presumen culpables y será
 
 #### Artículo 107
 
-Una sociedad anónima sometida al control de la Superintendencia en razón de esta ley o de otras leyes, no inscribirá, sin el visto bueno de ésta, la transferencia o transmisión de acciones que determine la disolución de la compañía, por el hecho de pasar todas las acciones de la sociedad al dominio de una sola persona.
+Una sociedad anónima abierta o especial no inscribirá, sin el visto bueno de la Comisión, la transferencia o transmisión de acciones que pueda determinar la disolución de la compañía, por el hecho de pasar todas las acciones de la sociedad al dominio de una sola persona.
 
-La Superintendencia no otorgará su autorización sino cuando se hayan tomado las medidas conducentes a resguardar los derechos de los terceros que hubieren contratado con la sociedad.
+La Comisión no otorgará su autorización sino cuando se hayan tomado las medidas conducentes a resguardar los derechos de los terceros que hubieren contratado con la sociedad.
 
 #### Artículo 108
 
@@ -1290,7 +1280,7 @@ Los liquidadores que concurran con su voto serán solidariamente responsables de
 
 #### Artículo 119
 
-La Superintendencia, en las sociedades sujetas a su fiscalización, en casos graves y calificados y a petición de accionistas que representen a lo menos el 10% de las acciones emitidas podrá citar u ordenar se cite a junta de accionistas, con el objeto de que ésta modifique el régimen de liquidación y designe un solo liquidador de la quina que se le presentará al efecto.
+La Comisión, en las sociedades anónimas abiertas o especiales, en casos graves y calificados y a petición de accionistas que representen a lo menos el 10% de las acciones emitidas podrá citar u ordenar se cite a junta de accionistas, con el objeto de que ésta modifique el régimen de liquidación y designe un solo liquidador de la quina que se le presentará al efecto.
 
 En las sociedades cerradas, corresponderá ejercer este derecho ante la Justicia Ordinaria, la que resolverá con audiencia de la sociedad, conforme al procedimiento establecido para los incidentes.
 
@@ -1352,7 +1342,7 @@ Del Arbitraje
 
 En los estatutos sociales se establecerá la forma como se designarán el o los árbitros que conocerán las materias a que se refiere el N° 10 del artículo 4° de la presente ley. En caso alguno podrá nominarse en ellos a una o más personas determinadas como árbitros.
 
-El arbitraje que establece esta ley es sin perjuicio de que, al producirse un conflicto, el demandante pueda sustraer su conocimiento de la competencia de los árbitros y someterlo a la decisión de la justicia ordinaria.
+El arbitraje que establece esta ley es sin perjuicio de que, al producirse un conflicto, el demandante pueda sustraer su conocimiento de la competencia de los árbitros y someterlo a la decisión de la justicia ordinaria. Este derecho no podrá ser ejercido por los directores, gerentes, administradores y ejecutivos principales de la sociedad. Tampoco por aquellos accionistas que individualmente posean, directa o indirectamente, acciones cuyo valor libro o bursátil supere las 5.000 unidades de fomento, de acuerdo al valor de dicha unidad a la fecha de presentación de la demanda.
 
 ## Título XIII
 
@@ -1384,7 +1374,9 @@ En lo no modificado, regirá lo dispuesto en el artículo 6° de esta ley.
 
 #### Artículo 129
 
-Las sociedades a que se refiere el artículo 126 de esta ley se regirán por las disposiciones legales y reglamentarias aplicables a las sociedades anónimas abiertas en todo lo que no se oponga a lo dispuesto en los artículos precedentes de este título y a las disposiciones especiales que las rigen.
+Las sociedades a que se refiere el artículo 126 de esta ley se regirán por las mismas disposiciones legales y reglamentarias aplicables a las sociedades anónimas abiertas, en todo lo que no se oponga a lo dispuesto en los artículos precedentes de este Título y a las disposiciones especiales que las rigen, y no se les aplicará lo establecido en el inciso séptimo del artículo 2º de esta Ley.
+
+Salvo que las sociedades anónimas especiales sean emisores de valores, no deberán inscribirse en el Registro de Valores de la Comisión.
 
 #### Artículo 130
 
@@ -1406,7 +1398,7 @@ La Superintendencia del ramo expedirá un certificado que acredite tal circunsta
 
 #### Artículo 132
 
-Las sociedades administradoras de fondos de pensiones se rigen por las disposiciones aplicables a las sociedades anónimas abiertas en cuanto esas disposiciones puedan conciliarse o no se opongan a las normas de la legislación especial a que se encuentran sometidas.
+Las sociedades administradoras de fondos de pensiones se rigen por las disposiciones aplicables a las sociedades anónimas abiertas en cuanto esas disposiciones puedan conciliarse o no se opongan a las normas de la legislación especial a que se encuentran sometidas. En consecuencia, a estas sociedades le serán aplicables íntegramente las disposiciones sobre sociedades anónimas abiertas.
 
 ## Título XIV
 
@@ -1422,7 +1414,7 @@ Los directores, gerentes y liquidadores que resulten responsables en conformidad
 
 #### Artículo 133 bis
 
-Toda pérdida irrogada al patrimonio de la sociedad como consecuencia de una infracción a esta ley, su reglamento, los estatutos sociales o las normas que imparta la Superintendencia, dará derecho a un accionista o grupo de accionistas que representen, a lo menos, un 5% de las acciones emitidas por la sociedad o a cualquiera de los directores de la sociedad, a demandar la indemnización de perjuicios a quien correspondiere, en nombre y beneficio de la sociedad.
+Toda pérdida irrogada al patrimonio de la sociedad como consecuencia de una infracción a esta ley, su reglamento, los estatutos sociales, las normas dictadas por el directorio en conformidad a la ley o las normas que imparta la Comisión, dará derecho a un accionista o grupo de accionistas que representen, a lo menos, un 5% de las acciones emitidas por la sociedad o a cualquiera de los directores de la sociedad, a demandar la indemnización de perjuicios a quien correspondiere, en nombre y beneficio de la sociedad.
 
 Las costas a que hubiere lugar serán pagadas a los demandantes y no podrán, de forma alguna, beneficiar a la sociedad. Por su parte, si los accionistas o el director demandantes fueren condenados en costas, serán exclusivamente responsables de éstas.
 
@@ -1749,6 +1741,66 @@ Derógase la ley sobre transferencia de acciones o promesas de acción de socied
 Asimismo, en la ley N° 12.680, elimínase en el artículo 1° la expresión "y de sociedades anónimas"; en el artículo 6° sustitúyese la coma (,) que sigue a las palabras "artículo 2°" por la letra "y", y en el artículo 11, suprímese la frase "según el caso, de la sociedad anónima, o" y la coma (,) que la antecede.
 
 ## Título XVI
+
+DE LAS OPERACIONES CON PARTES RELACIONADAS EN LAS SOCIEDADES ANÓNIMAS ABIERTAS Y SUS FILIALES
+
+#### Artículo 146
+
+Son operaciones con partes relacionadas de una sociedad anónima abierta toda negociación, acto, contrato u operación en que deba intervenir la sociedad y, además, alguna de las siguientes personas:
+
+1) Una o más personas relacionadas a la sociedad, conforme al artículo 100 de la ley N° 18.045.
+
+2) Un director, gerente, administrador, ejecutivo principal o liquidador de la sociedad, por sí o en representación de personas distintas de la sociedad, o sus respectivos cónyuges o parientes hasta el segundo grado de consanguinidad o afinidad inclusive.
+
+3) Las sociedades o empresas en las que las personas indicadas en el número anterior sean dueños, directamente o a través de otras personas naturales o jurídicas, de un 10% o más de su capital, o directores, gerentes, administradores, ejecutivos principales.
+
+4) Aquellas que establezcan los estatutos de la sociedad o fundadamente identifique el comité de directores, en su caso, aun cuando se trate de aquellas indicadas en el inciso final del artículo 147.
+
+5) Aquellas en las cuales haya realizado funciones de director, gerente, administrador, ejecutivo principal o liquidador, un director, gerente, administrador, ejecutivo principal o liquidador de la sociedad, dentro de los últimos dieciocho meses.
+
+#### Artículo 147
+
+Una sociedad anónima abierta sólo podrá celebrar operaciones con partes relacionadas cuando tengan por objeto contribuir al interés social, se ajusten en precio, términos y condiciones a aquellas que prevalezcan en el mercado al tiempo de su aprobación, y cumplan con los requisitos y procedimientos que se señalan a continuación:
+
+1) Los directores, gerentes, administradores, ejecutivos principales o liquidadores que tengan interés o participen en negociaciones conducentes a la realización de una operación con partes relacionadas de la sociedad anónima, deberán informar inmediatamente de ello al directorio o a quien éste designe. Quienes incumplan esta obligación serán solidariamente responsables de los perjuicios que la operación ocasionare a la sociedad y sus accionistas.
+
+2) Antes que la sociedad otorgue su consentimiento a una operación con parte relacionada, ésta deberá ser aprobada por la mayoría absoluta de los miembros del directorio, con exclusión de los directores o liquidadores involucrados, quienes no obstante deberán hacer público su parecer respecto de la operación si son requeridos por el directorio, debiendo dejarse constancia en el acta de su opinión. Asimismo, deberá dejarse constancia de los fundamentos de la decisión y las razones por las cuales se excluyeron a tales directores.
+
+3) Los acuerdos adoptados por el directorio para aprobar una operación con una parte relacionada serán dados a conocer en la próxima junta de accionistas, debiendo hacerse mención de los directores que la aprobaron. De esta materia se hará indicación expresa en la citación a la correspondiente junta de accionistas.
+
+4) En caso que la mayoría absoluta de los miembros del directorio deba abstenerse en la votación destinada a resolver la operación, ésta sólo podrá llevarse a cabo si es aprobada por la unanimidad de los miembros del directorio no involucrados o, en su defecto, si es aprobada en junta extraordinaria de accionistas con el acuerdo de dos tercios de las acciones emitidas con derecho a voto.
+
+5) Si se convocase a junta extraordinaria de accionistas para aprobar la operación, el directorio designará al menos un evaluador independiente para informar a los accionistas respecto de las condiciones de la operación, sus efectos y su potencial impacto para la sociedad. En su informe, los evaluadores independientes deberán también pronunciarse acerca de los puntos que el comité de directores, en su caso, haya solicitado expresamente que sean evaluados. El comité de directores de la sociedad o, si la sociedad no contare con éste, los directores no involucrados, podrán designar un evaluador independiente adicional, en caso que no estuvieren de acuerdo con la selección efectuada por el directorio.
+
+Los informes de los evaluadores independientes serán puestos por el directorio a disposición de los accionistas al día hábil siguiente de recibidos por la sociedad, en las oficinas sociales y en el sitio en Internet de la sociedad, de contar la sociedad con tales medios, por un plazo mínimo de 15 días hábiles contado desde la fecha en que se recibió el último de esos informes, debiendo comunicar la sociedad tal situación a los accionistas mediante hecho esencial.
+
+Los directores deberán pronunciarse respecto de la conveniencia de la operación para el interés social, dentro de los 5 días hábiles siguientes desde la fecha en que se recibió el último de los informes de los evaluadores.
+
+6) Cuando los directores de la sociedad deban pronunciarse respecto de operaciones de este Título, deberán explicitar la relación que tuvieran con la contraparte de la operación o el interés que en ella tengan. Deberán también hacerse cargo de la conveniencia de la operación para el interés social, de los reparos u objeciones que hubiese expresado el comité de directores, en su caso, así como de las conclusiones de los informes de los evaluadores o peritos. Estas opiniones de los directores deberán ser puestas a disposición de los accionistas al día siguiente de recibidos por la sociedad, en las oficinas sociales así como en el sitio en Internet de las sociedades que cuenten con tales medios, y dicha situación deberá ser informada por la sociedad mediante hecho esencial.
+
+7) Sin perjuicio de las sanciones que correspondan, la infracción a este artículo no afectará la validez de la operación, pero otorgará a la sociedad o a los accionistas el derecho de demandar, de la persona relacionada infractora, el reembolso en beneficio de la sociedad de una suma equivalente a los beneficios que la operación hubiera reportado a la contraparte relacionada, además de la indemnización de los daños correspondientes. En este caso, corresponderá a la parte demandada probar que la operación se ajustó a lo señalado en este artículo.
+
+No obstante lo dispuesto en los números anteriores, las siguientes operaciones con partes relacionadas podrán ejecutarse sin los requisitos y procedimientos establecidos en los números anteriores, previa autorización del directorio:
+
+a) Aquellas operaciones que no sean de monto relevante. Para estos efectos, se entiende que es de monto relevante todo acto o contrato que supere el 1% del patrimonio social, siempre que dicho acto o contrato exceda el equivalente a 2.000 unidades de fomento y, en todo caso, cuando sea superior a 20.000 unidades de fomento. Se presume que constituyen una sola operación todas aquellas que se perfeccionen en un periodo de 12 meses consecutivos por medio de uno o más actos similares o complementarios, en los que exista identidad de partes, incluidas las personas relacionadas, u objeto.
+
+b) Aquellas operaciones que, conforme a políticas generales de habitualidad, determinadas por el directorio de la sociedad, sean ordinarias en consideración al giro social. En este último caso, el acuerdo que establezca dichas políticas o su modificación será informado como hecho esencial y puesto a disposición de los accionistas en las oficinas sociales y en el sitio en Internet de las sociedades que cuenten con tales medios, sin perjuicio de informar las operaciones como hecho esencial cuando corresponda.
+
+c) Aquellas operaciones entre personas jurídicas en las cuales la sociedad posea, directa o indirectamente, al menos un 95% de la propiedad de la contraparte.
+
+#### Artículo 148
+
+Ningún director, gerente, administrador, ejecutivo principal, liquidador, controlador, ni sus personas relacionadas, podrá aprovechar para sí las oportunidades comerciales de la sociedad de que hubiese tenido conocimiento en su calidad de tal. Se entenderá por oportunidad comercial todo plan, proyecto, oportunidad u oferta exclusiva dirigida a la sociedad, para desarrollar una actividad lucrativa en el ámbito de su giro o uno complementario a él.
+
+Los accionistas podrán utilizar para sí tales oportunidades comerciales cuando el directorio de la sociedad las haya previamente desechado, o si hubiere transcurrido un año desde la adopción del acuerdo de postergar o aceptar la oportunidad comercial, sin que se hubiese iniciado su desarrollo.
+
+Sin perjuicio de las sanciones que correspondan, la infracción a este artículo no afectará la validez de la operación y dará derecho a la sociedad o a los accionistas a pedir el reembolso, a favor de la sociedad, de una suma equivalente a los beneficios que la operación hubiere reportado al infractor y los demás perjuicios que se acrediten.
+
+#### Artículo 149
+
+Las disposiciones de este título serán aplicables tanto a las sociedades anónimas abiertas como a todas sus filiales, sin importar la naturaleza jurídica de éstas.
+
+## Título XVII
 
 Disposiciones Transitorias
 
