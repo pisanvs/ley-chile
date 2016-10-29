@@ -40,6 +40,8 @@ Fíjase arancel regulado, para cada una de las carreras que se indican, de acuer
 
 .
 
+> **Nota.** El Artículo Primero del Decreto 1237 Exento, Educación, publicado el 29.10.2016, rectifica las imágenes insertas en el presente articulo de la manera que la citada norma indica.
+
 Anótese y publíquese en el Diario Oficial y en la página web www.mineduc.cl.- Por orden de la Presidenta de la República, Valentina Karina Quiroga Canahuate, Ministra de Educación (S).
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Vivien Villagrán Acuña, Subsecretaria de Educación (S).
