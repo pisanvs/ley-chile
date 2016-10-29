@@ -320,7 +320,7 @@ Es productor de una obra cinematográfica la persona, natural, o jurídica, que 
 
 #### Artículo 27
 
-Tendrán legalidad de autores de una obra cinematográfica la o las personas naturales que realicen la creación intelectual de la misma.
+Tendrán la calidad de autores de una obra cinematográfica la o las personas naturales que realicen la creación intelectual de la misma.
 
 Salvo prueba en contrario, se presumen coautores de la obra cinematográfica hecha en colaboración, los autores del argumento, de la escenificación, de la adaptación, del guión y de la música especialmente compuesta para la obra, y el director.
 
