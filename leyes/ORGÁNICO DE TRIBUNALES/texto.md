@@ -110,6 +110,8 @@ Quedan sometidos a la jurisdicción chilena los crímenes y simples delitos perp
 
 11°) Los sancionados en el artículo 62 del decreto con fuerza de ley Nº 1, del Ministerio de Economía, Fomento y Reconstrucción, de 2004, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 211, de 1973, cuando afectaren los mercados chilenos.
 
+> **Nota.** El artículo 3° de la Ley 20960, publicada el 18.10.2016, modifica la presente norma en el sentido de reemplazar en el N° 9, la expresión ", y" por un punto y coma (;), y en el número 10, el punto final por ", y" e incorpora un nuevo N° 11 del siguiente tenor: "11. Los delitos y faltas penales sancionados en la ley Nº 18.556 y en la ley Nº 18.700, cometidos por chilenos o extranjeros.". Sin embargo, este precepto ya había sido modificado por la Ley 20945, publicada el 30.08.2016, tal como aparece en el presente texto actualizado, incorporando también un N° 11.
+
 #### Artículo 7°
 
 Los tribunales sólo podrán ejercer su potestad en los negocios y dentro del territorio que la ley les hubiere respectivamente asignado.
@@ -2894,11 +2896,11 @@ No pueden ser jueces:
 
 1°) Los que se hallaren en interdicción por causa de demencia o prodigalidad;
 
-2°) Los sordos;
+2°) Derogado;
 
-3°) Los mudos;
+3°) Derogado;
 
-4°) Los ciegos;
+4°) Derogado;
 
 5°) Los que de conformidad a la ley procesal penal, se hallaren acusados por crimen o simple delito o estuvieren acogidos a la suspensión condicional del procedimiento;
 
@@ -3608,25 +3610,11 @@ En el caso de que se produjeren antecedentes para creer que los jueces infringen
 
 #### Artículo 323 bis
 
-Los miembros del escalafón primario y los de la segunda serie del escalafón secundario del Poder Judicial, a que se refieren los artículos 267 y 269, respectivamente deberán, dentro del plazo de treinta días desde que hubieren asumido el cargo, efectuar una declaración jurada de intereses ante un notario de la ciudad donde ejerzan su ministerio, o ante el oficial del Registro Civil en aquellas comunas en que no hubiere notario.
-
-Se entiende por intereses los que sean exigibles para la declaración a que se refiere el artículo 60 de la ley Nº18.575.
-
-El original de la declaración será protocolizado en la misma notaría donde fue prestada o en una notaría con jurisdicción en el territorio del tribunal a que pertenezca el declarante, y se remitirá copia de la protocolización a la secretaría de la Corte Suprema y de la respectiva Corte de Apelaciones, donde se mantendrá para su consulta pública. Cualquier persona podrá obtener copia del instrumento protocolizado.
-
-La declaración deberá ser actualizada cuando el funcionario fuere nombrado en un nuevo cargo o dentro de los treinta días siguientes al cumplimiento del próximo cuatrienio, si no se hubiere efectuado un nuevo nombramiento.
-
-La omisión de la declaración será sancionada por el superior jerárquico que corresponda, en la forma y con las sanciones que establece el Título XVI.
+Derogado.
 
 #### Artículo 323 bis
 
-A. Asimismo, las personas señaladas en el artículo anterior deberán efectuar una declaración jurada de patrimonio, en los mismos términos de los artículos 60 B, 60 C y 60 D de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, ante el Secretario de la Corte Suprema o de la Corte de Apelaciones respectiva, según sea el caso, quien la mantendrá para su consulta pública.
-
-En todo lo demás, la declaración de patrimonio se regirá por lo dispuesto en el artículo anterior.
-
-No obstante lo establecido en el inciso precedente, la no presentación oportuna de la declaración de patrimonio será sancionada con multa de diez a treinta unidades tributarias mensuales. Transcurridos sesenta días desde que la declaración sea exigible, se presumirá incumplimiento del infractor.
-
-El incumplimiento de la obligación de actualizar la declaración de patrimonio, se sancionará con multa de cinco a quince unidades tributarias mensuales.
+A. Derogado.
 
 #### Artículo 323 ter
 
@@ -4768,7 +4756,7 @@ No pueden ser notarios:
 
 1°) Los que se hallaren en interdicción por causa de demencia o prodigalidad;
 
-2°) Los sordos, los ciegos y los mudos;
+2°) Derogado;
 
 3°) Los que se hallaren procesados por crimen o simple delito; y
 
