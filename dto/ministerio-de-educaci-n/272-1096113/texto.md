@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 272, DE 3 DE OCTUBRE DE 2016
+
+Por decreto de Educación N° 272, de fecha 3 de octubre de 2016, y de conformidad con lo dispuesto en el DL N° 3.166, de 1980, y su Reglamento, fijado por DS N° 5.077, del mismo año, ley N° 20.845 y DFL N°2, de Educación, de 1998, se ha aprobado la modificación de convenio celebrada con fecha 22 de agosto de 2016 entre el Ministerio de Educación y la Corporación Educacional Tecnológica de Chile, con el objeto de aprobar e incorporar al respectivo convenio de administración, un Anexo denominado "Aporte por Gratuidad de la Ley N° 20.845" que permita que los establecimientos educacionales regidos por el decreto ley N° 3.166, de 1980, que administra esa entidad, sean beneficiados con dicho aporte.-
+
+Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
