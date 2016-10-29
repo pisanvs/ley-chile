@@ -8,11 +8,9 @@ Decreto:
 
 #### Artículo 1º
 
-Asígnase para uso privativo o del Director Nacional del Servicio Nacional de Turismo, el siguiente vehículo destinado al cumplimiento de las funciones propias de su cargo y con autorización para circular los días sábado, domingo y festivos, exento de la obligación del uso del disco fiscal distintivo:
+Asígnase para el uso preferente de la Dirección Regional de Turismo de la Región Metropolitana, el siguiente vehículo destinado al cumplimiento de las funciones propias de su cargo y con autorización para circular los días sábado, domingo y festivos, exento de la obligación del uso del disco fiscal distintivo:
 
-NOTA: VER DIARIO OFICIAL DE 03.11.2008,
-
-PRIMER CUERPO, PAGINA 21
+.
 
 El vehículo se guardará en el estacionamiento interior del Mercado de Providencia, Avda. Providencia Nº 1550.
 
