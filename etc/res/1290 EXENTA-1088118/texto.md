@@ -28,6 +28,10 @@ Resolución:
 
 2. Los postulantes podrán ser seleccionados por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo (Seremi), mediante resoluciones exentas, a partir de los procesos dispuestos para ese fin, de acuerdo a los siguientes plazos:
 
+.
+
+La Seremi deberá publicar un extracto de las resoluciones de selección en el Diario Oficial. En tanto, Serviu mediante un aviso en al menos un periódico de circulación regional, pondrá en conocimiento de los postulantes el lugar y la fecha en que serán publicadas las nóminas de los seleccionados y los respectivos proyectos.
+
 3. Exímase a los postulantes de este llamado de cumplir con los siguientes requisitos, condiciones y antecedentes establecidos en el decreto supremo Nº 255 (V. y U.) de 2006:
 
 a. Del monto de ahorro contenido en el artículo 9º.
@@ -54,11 +58,13 @@ a) Condominios Sociales que presenten deterioro físico y que posean una antigü
 
 b) Condominios sociales que hayan sido beneficiados por llamados extraordinarios para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su modalidad regulada por el Capítulo II, de la atención a Condominios de Viviendas Sociales, sólo en aquellos proyectos y partidas que no fueron intervenidas anteriormente por el Programa.
 
+Tratándose de copropiedades que superen 150 unidades de vivienda, éstas podrán postular proyectos que integren un número de viviendas menor al de la copropiedad en su conjunto, el cual podrá corresponder a determinados bloques de vivienda, sub-administraciones y/o sectores de la copropiedad, según lo apruebe la Seremi respectiva en el proceso de certificación de la copropiedad
+
 5. Este llamado contempla las siguientes modalidades de postulación a subsidios:
 
 a) Subsidio a la Familia: El Minvu beneficiará con un monto de subsidio acorde a la modalidad de postulación y a los montos máximos establecidos en la presente resolución exenta, a cada una de las familias que cumplan con los requisitos del llamado. Este beneficio se asociará al código del grupo postulante, al RUT de los postulantes y a los roles de la propiedad beneficiada, considerando la postulación de solo una familia por unidad habitacional.
 
-b) Subsidio a la Comunidad de Copropietarios: Las copropiedades formalizadas con anterioridad al ingreso de antecedentes al Serviu podrán postular al Subsidio a la Comunidad de Copropietarios, cuyo monto global será equivalente al producto del subsidio y la asistencia técnica por la cantidad de viviendas del condominio. Dicho beneficio se asociará al RUT de la copropiedad postulante y a los roles de las unidades.
+b) Subsidio a la Comunidad de Copropietarios: Las copropiedades formalizadas con anterioridad al ingreso de antecedentes al Serviu podrán postular al Subsidio a la Comunidad de Copropietarios, cuyo monto global será equivalente al producto del subsidio y la asistencia técnica por la cantidad de viviendas del condominio. Dicho beneficio se asociará al RUT de la copropiedad postulante y a los roles de las unidades. Si el proyecto postulado lo integra un número de viviendas menor al de la copropiedad en su conjunto, los roles de vivienda a consignar en la postulación corresponderán a aquellas unidades que sean efectivamente beneficiarias del proyecto y el PHS se ejecutará en base a los términos que apruebe la respectiva Seremi.
 
 Para efectos de la postulación, se entenderá como copropiedad formalizada aquella que cuente con Reglamento inscrito en Conservador de Bienes Raíces, Comité de Administración vigente y RUT de la copropiedad otorgado por el Servicio de Impuestos Internos.
 
@@ -98,6 +104,8 @@ Asimismo, serán inadmisibles los expedientes de las copropiedades que mantengan
 
 Las copropiedades certificadas durante 2015, podrán postular al presente llamado siempre que presenten una versión actualizada del Diagnóstico Socio jurídico señalado en la letra c) del resuelvo 7 de la presente resolución a Serviu, al momento de ingresar los antecedentes para la postulación. Por el contrario, aquellas copropiedades certificadas con anterioridad a 2015, deberán presentar un nuevo Expediente.
 
+Los Condominios Sociales que hubieren desarrollado proyectos de Mejoramiento del Entorno para ser presentados al llamado a postulación regulado por la resolución N° 2.977 (V. y U.), de 2016, deberán cumplir en lo referente a su presentación, las exigencias y condiciones establecidas en dicho llamado, por lo que no se requerirá la presentación de los antecedentes señalados en el resuelvo 7 de la presente resolución.
+
 10. Al ingresar a SERVIU, los proyectos deberán contar con la aprobación de la Asamblea de Copropietarios, según lo establecido en la Ley N°19.537, sobre Copropiedad Inmobiliaria, si la copropiedad está formalizada, o con la aprobación del 50% de los copropietarios cuando éstos no se encuentren formalmente organizados de acuerdo a los términos de dicha Ley.
 
 Adicionalmente, en el caso de proyectos correspondientes al Título III, del artículo 5º, del decreto supremo Nº 255 (V. y U.), de 2006, los proyectos postulados deberán contar con la aprobación de los propietarios de las unidades a ampliar, mediante declaración simple y acreditación de la propiedad de la vivienda, de acuerdo a lo señalado en el resuelvo 11, letra a) i., de la presente resolución exenta.
@@ -136,7 +144,13 @@ En el caso de los proyectos que ingresen a Serviu en la modalidad de Subsidio a 
 
 15. La ejecución de los proyectos seleccionados, los gastos de asistencia técnica, las obras de acondicionamiento térmico y eficiencia energética, así como los incrementos de subsidio, serán financiados con los recursos disponibles para este llamado, conforme a lo establecido en el resuelvo 16 de la presente resolución exenta.
 
-16. El presente llamado dispone recursos para efectuar la selección de proyectos en a) Condominios Sociales que corresponden a copropiedades objeto del programa y que conforman la demanda general de esta línea de atención y b) Condominios Sociales insertos en conjuntos habitacionales que, en virtud de las resoluciones exentas citadas en el Visto 3 de la presente resolución, se encuentran en los barrios seleccionados por el Programa de Recuperación de Barrios y cuyas intervenciones se iniciaron durante el año 2014 o 2015.
+16. El presente llamado dispone recursos para efectuar la selección de proyectos en
+
+- **a)** Condominios Sociales que corresponden a copropiedades objeto del programa y que conforman la demanda general de esta línea de atención;
+
+- **b)** Condominios Sociales insertos en conjuntos habitacionales que, en virtud de las resoluciones exentas citadas en el Visto 3 de la presente resolución, se encuentran en los barrios seleccionados por el Programa de Recuperación de Barrios y cuyas intervenciones se iniciaron durante el año 2014 o 2015; y
+
+- **c)** Condominios Sociales que hubieren desarrollado proyectos de Entorno para ser postulados al llamado regulado por la resolución N° 2.977 (V. y U.), de 2016, previo a las modificaciones introducidas por la resolución exenta N° 5.082 (V. y U.), de 2016.
 
 De acuerdo a lo indicado, los recursos destinados a dichas selecciones serán los siguientes:
 
@@ -149,6 +163,8 @@ A partir del mes de julio de 2016, la Subsecretaría de Vivienda y Urbanismo, me
 De no haber recursos suficientes para seleccionar a la totalidad de los proyectos postulados, se deberá realizar un proceso de prelación, por parte de una Comisión Evaluadora que convocará el Secretario Regional Ministerial, integrada por a lo menos 2 profesionales representantes de la Seremi y Serviu respectivo hasta enterar el total de los recursos disponibles.
 
 Dicha prelación, se realizará en base a los factores descritos a continuación y a aquellos que defina la Seremi mediante resolución exenta, antes de iniciar el primer proceso de selección que implemente la región:
+
+En caso de no contar con la fecha de recepción final de obras, la Seremi podrá determinar una fuente de información alternativa a fin de estimar la antigüedad de la copropiedad, según lo requiere el numeral 1 de la tabla precedente, de no hallar antecedentes referidos al año de construcción de la copropiedad, el puntaje correspondiente a dicha variable será equivalente a 0. Asimismo, para el cálculo de puntaje de la variable indicada en el numeral 6 del cuadro precedente, si el Catastro Nacional de Condominios Sociales no indicase la superficie promedio de las unidades de vivienda del Conjunto Habitacional, esta podrá acreditarse mediante el Certificado de Recepción Definitiva, o el Plano de Venta por Piso, o el Plano de Plantas y Superficies, entre otros, siempre que en dichos documentos conste este dato.
 
 El resultado de esta evaluación, será sancionado mediante un acta de la Comisión Evaluadora y deberá ser notificado mediante carta certificada a la entidad que presentó la postulación, en un plazo máximo de 15 días hábiles, explicitando el mecanismo de evaluación. Tras dicho plazo, las entidades que presentaron el expediente podrán realizar sus apelaciones a la Seremi respectiva, durante los siguientes 5 días hábiles. Las apelaciones serán revisadas y respondidas mediante oficio por la Seremi respectiva.
 
@@ -228,7 +244,7 @@ A fin de optar al subsidio adicional para el financiamiento de Obras de Acondici
 
 26. En la modalidad de subsidio a la familia, la acreditación del ahorro podrá efectuarse en una cuenta de ahorro individual para cada uno de los postulantes, o bien, en un depósito a plazo equivalente al total del ahorro de los integrantes del grupo. En el caso de postulación de copropiedad la acreditación del ahorro corresponderá a un depósito a plazo colectivo equivalente al número de unidades que conforman la copropiedad. Estos depósitos a plazo tendrán las siguientes características: tomado a nombre del Serviu respectivo, endosables y reajustables, por un monto en UF equivalente a la suma total del ahorro mínimo exigido a cada postulante o a la comunidad de copropietarios.
 
-El ahorro enterado mediante libretas de ahorro individuales, deberá cumplir con las condiciones establecidas en la letra f) del artículo 21, del decreto supremo 255 (V. y U.), de 2006. En caso de postular con depósito a plazo, los documentos de acreditación deberán ser de fecha anterior al día del ingreso del proyecto al Serviu, con una vigencia mínima de 12 meses. En casos fundados, la Seremi podrá eximir a aquellos postulantes que no cuenten con el requisito establecido en la letra f) del artículo 21, del decreto supremo Nº 255 (V. y U.), de 2006; en cuanto a contar con el ahorro exigido al último día del mes anterior al del inicio del proceso de selección, previa acreditación de haber enterado el ahorro mínimo en las fechas indicadas en el resuelvo 2 de la presente resolución exenta.
+El ahorro enterado mediante libretas de ahorro individuales, deberá cumplir con las condiciones establecidas en la letra f) del artículo 21, del decreto supremo 255 (V. y U.), de 2006. En caso de postular con depósito a plazo, los documentos de acreditación deberán ser de fecha anterior al día del ingreso del proyecto al Serviu, con una vigencia mínima de 12 meses. En casos fundados, la Seremi podrá eximir a aquellos personas naturales o comunidad de copropietarios que no cuenten con el requisito establecido en la letra f) del artículo 21, del decreto supremo Nº 255 (V. y U.), de 2006; en cuanto a contar con el ahorro exigido al último día del mes anterior al del inicio del proceso de selección, previa acreditación de haber enterado el ahorro mínimo en las fechas indicadas en el resuelvo 2 de la presente resolución exenta.
 
 27. En el marco del presente llamado, podrán actuar como PSAT el Serviu respectivo, las Municipalidades y los prestadores privados con convenio marco vigente, siempre que no mantengan productos de Asistencia Técnica pendientes, respecto a proyectos financiados en virtud de las resoluciones exentas Nº 3.239 (V. y U.), de 2011; Nº 3.448 (V. y U), de 2012 y Nº 739 (V. y U.), de 2013, o a través de resoluciones de asignación directa de subsidios destinados a la reparación y/o mejoramiento de Condominios Sociales, anteriores a 2014, para los cuales haya vencido el plazo de vigencia de los subsidios, o de su prórroga si la hubiese.
 
