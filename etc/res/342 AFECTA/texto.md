@@ -166,9 +166,9 @@ Cuerpos Salientes de la Línea de Edificación
 
 Se permitirán cuerpos salientes que sobresalgan del plano vertical de la línea de edificación, en los siguientes casos:
 
-a) A nivel de 1° piso sobre el antejardín, cuando no superen los 0,80m de saliente respecto a la línea de edificación, con una longitud máxima de 2/3 del largo total del plano de fachada en que se emplaza y no podrán situarse a menos de 0,50m respecto del nivel natural de antejardín.
+a) A nivel del 1° piso sobre el antejardín, cuando no superen 1.20 metros de saliente respecto a la línea de edificación, con una longitud máxima de 2/3 del largo total del plano de fachada en que se emplaza y no podrán situarse a menos de 0.50 metros respecto del nivel natural del antejardín.
 
-b) En los pisos superiores, balcones que no superen los 0,80m de saliente respecto a la línea de edificación, cuya longitud máxima podrá ser igual a la fachada, respetando el distanciamiento a los deslindes.
+b) En los pisos superiores, balcones que no superen 1.20 metros de saliente respecto a la línea de edificación, cuya longitud máxima podrá ser igual a la fachada, respetando el distanciamiento a los deslindes.
 
 #### Artículo 9º
 
@@ -199,6 +199,8 @@ En las zonas ZCH y U-1 no se establece exigencia mínima de estacionamientos par
 1. Para los locales comerciales emplazados en galerías comerciales en edificios existentes.
 
 2. Cuando el cambio de destino de todo o parte de un edificio existente haga exigible un número de estacionamientos inferior a 5.
+
+> **Nota.** La Decreto N° 3920, Municipalidad de Talca, publicado el 02.11.2016, modifica la tabla de estacionamientos de la presente norma, de la manera que la citada norma indica.
 
 ## Capítulo III
 
@@ -461,6 +463,10 @@ Subzona R-7 (R-7A)
 Subzona R-7 (R-7B)
 
 c) Áreas de Protección de Recursos de Valor Patrimonial Cultural
+
+> **Nota.** NOTA 1 El Decreto 3920, Municipalidad de Talca, publicado el 03.11.2016, modifíca las normas urbanísticas del área urbana del Plan Regulador de la presente norma, en el sentido que la citada norma indica.
+
+> **Nota.** NOTA 2 El Decreto 4178, Municipalidad de Talca, publicado 03.11.2016, modifica la presente norma en el sentido eliminar "Agrupamiento - continuo, aislado sobre continuidad" en la Zona U-9: NODO COMERCIAL - TRANSPORTE, Normas de Subdivisión y Edificación.
 
 #### Artículo 23º
 
