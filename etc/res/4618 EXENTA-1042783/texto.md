@@ -76,9 +76,7 @@ En el caso de las solicitudes de condonación de deudas relativas a prestaciones
 
 . Última declaración de impuestos presentada ante el Servicio de Impuestos Internos.
 
-2.6.- El Formulario de Informe Social para solicitar la Condonación de Copagos MAI, debe presentarse exclusivamente mediante el Formato presentado en el Anexo 2, destinado a emitir el Informe Social del Municipio o establecimiento correspondiente, otorgado por un profesional debidamente acreditado para estos fines, que avale las circunstancias socio-económicas que justifican la condonación solicitada.
-
-2.7.- Certificado médico que acredite la enfermedad o problema de salud crónica o terminal del paciente, con la firma del médico responsable de su emisión.
+2.6.- Certificado médico que acredite la enfermedad o problema de salud crónica o terminal del paciente, con la firma del médico responsable de su emisión.
 
 En el caso de las solicitudes de condonación de deudas relativas a prestaciones cubiertas por las Garantías Explícitas en Salud (GES) no será necesario acompañar este documento.
 
@@ -142,7 +140,7 @@ ASPECTOS EVALUADOS EN LA TABLA DE PONDERACIÓN:
 
 3. Composición etaria del grupo familiar: Evalúa el porcentaje de integrantes del grupo familiar menores de 18 años y mayores de 60 años. Se considerarán como menores de 18 años aquellos integrantes del grupo familiar mayores de esa edad que se encuentren cursando estudios regulares en cualquiera de los niveles de enseñanza y vivan a expensas del afiliado.
 
-4. Relación entre la deuda que solicita condonar y la renta disponible acreditada del titular (D/RDAT): Representa las veces que la deuda es mayor que la renta disponible acreditada del titular. En el caso que la renta disponible acreditada del titular resulte cero o negativa, debe asignarse el porcentaje de 60%.
+4. Relación entre la deuda que solicita condonar y la renta disponible acreditada del titular (D/RDAT): Representa las veces que la deuda es mayor que la renta disponible acreditada del titular. En el caso que la renta disponible acreditada del titular resulte cero o negativa, debe asignarse el porcentaje de 60%. La RDAT corresponde al equivalente al 80% de la renta total del afiliado
 
 El Director Nacional o los funcionarios que ejerzan la facultad de condonación por delegación de tal atribución de conformidad con el Resuelvo 1.- del presente acto administrativo, podrán bonificar la postulación hasta en 50 puntos cuando existan circunstancias adicionales a las señaladas en la tabla, debidamente acreditadas, que justifiquen el otorgamiento de dicha bonificación. Los fundamentos de esta decisión deberán quedar expresados en la resolución respectiva.
 
@@ -150,7 +148,7 @@ En el caso que el interesado sea parte del Directorio de una Junta de Vecinos co
 
 Si el resultado ponderado final de la evaluación de las solicitudes de condonación es superior a 100%, deberá otorgarse la condonación total del copago correspondiente.
 
-El resultado final de la evaluación podrá ser considerado como fundamento suficiente para resolver nuevas solicitudes de condonación de copagos, presentadas por el mismo afiliado hasta el plazo máximo de un año contado desde la fecha de la primera resolución que la tuvo como fundamento. En tal caso, las resoluciones posteriores deberán señalar expresamente que la nueva condonación se otorga teniendo como fundamento la evaluación practicada en el procedimiento administrativo que dio origen a la señalada primera resolución, individualizándola por su número y fecha, debiendo agregarse una copia de la misma a los antecedentes de la solicitud que se resuelve.
+El resultado final de la evaluación podrá ser considerado como fundamento suficiente para resolver nuevas solicitudes de condonación de copagos, presentadas por el mismo afiliado hasta el plazo máximo de dos años contados desde la fecha de la primera resolución que la tuvo como fundamento. En tal caso, las resoluciones posteriores deberán señalar expresamente que la nueva condonación se otorga teniendo como fundamento la evaluación practicada en el procedimiento administrativo que dio origen a la señalada primera resolución, individualizándola por su número y fecha, debiendo agregarse una copia de la misma a los antecedentes de la solicitud que se resuelve.
 
 ### 5. ANTECEDENTES ADICIONALES:
 
@@ -209,6 +207,8 @@ Cada resolución exenta resuelta con la firma del Director Nacional o Directores
 9.- RECURSOS DE REPOSICIÓN
 
 Contra la resolución que rechaza la condonación solicitada, se podrá interponer recurso de reposición o de reconsideración ante el mismo Director Nacional o Directores Zonales, según corresponda, dentro del plazo de cinco días hábiles, contado desde su notificación.
+
+En dicho recurso, deberá acompañarse el Formulario de Informe Social para solicitar la Condonación de Copagos MAI, exclusivamente mediante el Formato presentado en el Anexo 2, destinado a emitir el Informe Social del Municipio o establecimiento correspondiente, otorgado por un profesional debidamente acreditado para estos fines, que avale las circunstancias socio-económicas que justifican la condonación solicitada.
 
 IV.- OBSERVACIONES DE AUDITORÍA QUE SE DEBEN TENER PRESENTES
 
