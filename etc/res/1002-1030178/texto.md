@@ -106,9 +106,9 @@ En virtud de lo anterior, los Contralores Regionales podrán, a solicitud de los
 
 m) Ratificar la aplicación de la medida disciplinaria de destitución a los directores de las asociaciones de funcionarios, de conformidad con el inciso primero del artículo 25 de la ley Nº 19.296.
 
-n) Instruir los sumarios administrativos e investigaciones sumarias que disponga el Contralor Regional, los que se sustanciarán en conformidad a las normas contempladas en la Ley Orgánica y en el Reglamento de Sumarios de la Contraloría General.
+n) Instruir y resolver los sumarios administrativos e investigaciones sumarias que disponga el Contralor Regional, los que se sustanciarán en conformidad a las normas contempladas en la Ley Orgánica y en el Reglamento de Sumarios de la Contraloría General.
 
-En el caso de investigaciones sumarias del decreto ley Nº 799, de 1974, el sobreseimiento, absolución o las medidas disciplinarias serán propuestas al Contralor General por intermedio del Contralor Regional.
+En el caso de investigaciones sumarias del decreto ley Nº 799, de 1974, la resolución que ordene la aplicación de una medida disciplinaria, podrá ser objeto de recurso de reposición y/o jerárquico, para ante el Contralor Regional o el Contralor General, respectivamente, dentro del plazo de 5 días contados desde su notificación
 
 ### Párrafo 2º
 
