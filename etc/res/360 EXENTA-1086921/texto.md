@@ -164,7 +164,7 @@ El postulante damnificado que tenga un subsidio vigente del Programa de Protecci
 
 7.4 Para las selecciones de este llamado, se aplicarán los factores de puntaje indicados en el artículo 28 letra c) del DS Nº 255 (V. y U.), de 2006, en todo aquello que no se contraponga con lo dispuesto en la presente resolución.
 
-7.5 La vivienda a reparar con la aplicación de este subsidio no podrá estar emplazada en un área de riesgo determinada en el respectivo instrumento de planificación territorial, ni en otras zonas en que se considere que hay riesgo para la población, establecidas por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo, sobre la base de la información que provea el Servicio Nacional de Geología y Minería, la Dirección de Obras Hidráulicas del Ministerio de Obras Públicas u otros expertos en la materia. La determinación de estas zonas será para el solo efecto de identificar aquellas en que el subsidio no podrá ser aplicado.
+7.5 La vivienda o condominio de vivienda social que se intervenga con la aplicación de este(os) subsidio(s) no podrá estar emplazada en un área de riesgo determinada en el respectivo instrumento de planificación territorial, ni en las zonas definidas por el Secretario Regional Ministerial de Vivienda y Urbanismo, sobre la base de la información que provea el Servicio Nacional de Geología y Minería, la Dirección de Obras Hidráulicas del Ministerio de Obras Públicas u otros expertos en la materia, con excepción de que el subsidio sea aplicado a la ejecución de obras de mitigación de riesgo definidas en los Planes reguladores las que deberán ser aprobadas por la Dirección de Obras Municipales.
 
 7.6 El inicio de obras se deberá realizar en un máximo de 30 días desde el otorgamiento del subsidio.
 
