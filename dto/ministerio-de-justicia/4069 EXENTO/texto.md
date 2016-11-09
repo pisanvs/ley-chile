@@ -28,7 +28,7 @@ b.- Complejo Penitenciario de Alto Hospicio, ubicado en el sector Huantajaya, co
 
 c.- Centro de Detención Preventiva de Quillota, ubicado en calle Chacabuco Nº 990, comuna de Quillota, V Región de Valparaíso.
 
-d.- Centro Penitenciario de Concepción, ubicado en Camino a Penco Nº 450, sector de Punta Parra, comuna de Tomé, provincia de Concepción, VIII Región del Biobío.
+d.- SUPRIMIDO.
 
 e.- Centro Penitenciario Femenino de Temuco, ubicado en calle Callejón Carmine Nº 0249, comuna de Temuco, provincia de Cautín, IX Región de la Araucanía.
 
@@ -62,7 +62,7 @@ g.- Centro de Detención Preventiva Rengo, ubicado en Avenida Bisquertt Nº 205,
 
 h.- Centro de Cumplimiento Penitenciario de Cauquenes, ubicado en Avenida Comunidad Redentorista Nº 75, Cauquenes, Región del Maule.
 
-i.- Complejo Penitenciario de Concepción, ubicado en Camino a Penco Nº 450, sector de Punta Parra, comuna de Tomé, provincia de Concepción, VIII Región del Biobío.
+i.- SUPRIMIDO.
 
 j.- Centro de Cumplimiento Penitenciario de Chillán, ubicado en calle Isabel Riquelme Nº 230, de la comuna de Chillan, provincia de Ñuble, VIII Región del Biobío.
 
