@@ -46,15 +46,27 @@ Apruébense los siguientes programas de estudio para 7° y 8° año de Educació
 
 #### Artículo 2°
 
-Declárase oficial la versión de los programas de estudio para 7° y 8° año de Educación Básica correspondientes a las asignaturas indicadas en el artículo 1° del presente decreto, y que el Ministerio de Educación pondrá a disposición de todos los establecimientos educacionales del país a través de su página web (www.mineduc.cl).
+Declárase oficial la versión del plan y de los programas de estudio para 7° y 8° año de Educación Básica correspondientes a las asignaturas indicadas en el artículo 1° del presente decreto, y que el Ministerio de Educación pondrá a disposición de todos los establecimientos educacionales del país a través de su página web (www.mineduc.cl).
 
 #### Artículo 3°
 
-Los programas de estudio para 7° y 8° año de Educación Básica que se aprueban por este decreto comenzarán a regir a partir del año escolar 2016.
+Los programas y el plan de estudio para 7° y 8° año de Educación Básica que se aprueban por este decreto comenzarán a regir a partir del año escolar 2016.
 
 #### Artículo 4°
 
 Deróguense las disposiciones relativas a los programas de estudio para 7° y 8° año de Educación Básica contenidas en los decretos exentos Nos 481, de 2000; 92, de 2002, ambos del Ministerio de Educación. Asimismo en lo relativo a los programas de 7° y 8° año de educación básica de los decretos exentos Nos 1363, de 2011; 169, 310, ambos de 2014, y 2.398, de 2015, todos del Ministerio de Educación.
+
+#### Artículo 5º
+
+Apruébase el siguiente plan de estudio para 7º y 8º año de Educación Básica para aquellos establecimientos educacionales reconocidos oficialmente por el Ministerio de Educación, que no se encuentren adscritos al Régimen de Jornada Escolar Completa Diurna.
+
+.
+
+#### Artículo 6º
+
+Apruébase el siguiente plan de estudio para 7º y 8º año de Educación Básica para aquellos establecimientos educacionales reconocidos oficialmente por el Ministerio de Educación, que se encuentren adscritos al Régimen de Jornada Escolar Completa Diurna:
+
+.
 
 Anótese y publíquese.- Por orden de la Presidenta de la República, Adriana Delpiano Puelma, Ministra de Educación.
 
