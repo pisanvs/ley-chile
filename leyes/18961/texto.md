@@ -316,9 +316,13 @@ El sistema de salud que asegure el otorgamiento de estas prestaciones se financi
 
 #### Artículo 34
 
-El personal que se accidentara en actos de servicio o se enfermare a consecuencia de sus funciones, tendrá derecho, previa resolución administrativa fundada, a que sean de cargo fiscal todos los gastos de atención médica, hospitalaria, quirúrgica, dental, ortopédica y demás similares relativos a su tratamiento clínico, hasta ser dado de alta definitiva o declarado imposibilitado para reasumir sus funciones. Este derecho será regulado en la forma y condiciones que determine el Estatuto del Personal.
+El personal que se accidentara en actos de servicio o se enfermare a consecuencia de sus funciones, tendrá derecho a que sean de cargo fiscal todos los gastos de atención médica, hospitalaria, quirúrgica, dental, ortopédica y demás similares relativos a su tratamiento clínico, hasta ser dado de alta definitiva o declarado imposibilitado para reasumir sus funciones. Este derecho será regulado en la forma y condiciones que determine el Estatuto del Personal.
+
+Una resolución administrativa fundada, que deberá dictarse en un plazo no superior a treinta días, determinará la calificación de accidente en actos de servicio o de enfermedad a consecuencia de sus funciones, la que sólo tendrá efectos para la imputación del pago de los gastos que se originen.
 
 Serán de cargo fiscal, igualmente, los gastos de transporte del herido o enfermo, desde el lugar en que se encuentra hasta el centro hospitalario en que será atendido, como los causados con ocasión de controles y exámenes médicos posteriores.
+
+Tendrá derecho también a que no se le descuente de las remuneraciones cualquier tipo de gasto en que incurra la institución para financiar la reparación de equipos y/o vehículos institucionales.
 
 #### Artículo 35
 
