@@ -1,0 +1,5 @@
+SE DISPONE "DÉCIMA QUINTA EMISIÓN DE OTORGAMIENTO DEL APORTE ÚNICO DE CARÁCTER REPARATORIO DEL ARTÍCULO 1º LEY Nº 20.874", POR EL MONTO ÚNICO Y TOTAL QUE EN DICHA NÓMINA SE CONSIGNA
+
+Por resolución exenta Nº 458, de 3 de octubre de 2016, del Director Nacional del Instituto de Previsión Social, se aprueba la publicación de la décima quinta emisión del otorgamiento del aporte único de carácter reparatorio ley Nº 20.874, a las Personas Reconocidas como Víctimas en el Informe de la Comisión Nacional sobre Prisión Política y Tortura; y a los titulares incluidos en la nómina de víctimas de prisión política y tortura elaborada por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, conforme con las leyes Nº 19.992 y Nº 20.405, respectivamente. Si el titular estuviere fallecido, corresponderá a su cónyuge sobreviviente el 60% del aporte del titular víctimas de prisión política y tortura.
+
+Santiago, 3 de noviembre de 2016.- Patricio Coronado Rojo, Director Nacional.
