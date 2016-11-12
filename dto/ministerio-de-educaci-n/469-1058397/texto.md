@@ -42,9 +42,39 @@ Para efectos del presente Reglamento, los siguientes conceptos tendrán el signi
 
 a) Rendición de cuenta pública del uso de los recursos: Es la obligación legal de los sostenedores de establecimientos educacionales subvencionados o que reciban aportes del Estado, de dar a conocer y entregar las cuentas comprobadas del uso de todos los recursos públicos y privados que administren o perciban, anualmente, en la forma y plazo que establece el presente Reglamento, de acuerdo a los instrumentos y formatos estandarizados que fije la Superintendencia de Educación, y bajo su fiscalización.
 
-b) Estado anual de resultados: Es el instrumento que debe presentar anualmente, y mantener a disposición de la Superintendencia de Educación por un mínimo de cinco años, el sostenedor de un establecimiento educacional subvencionado o que reciba aportes del Estado, dando cuenta en forma detallada y ordenada, de todos los ingresos, públicos y privados, que perciba el establecimiento, y de todos los gastos e inversiones que realice, en el período respectivo.
+b) Estados Financieros: Es el instrumento que da cuenta, a través de una representación estructurada, de la situación y desempeño financiero de un establecimiento educacional a una fecha o período determinado.
 
-c) Informe consolidado: Es el instrumento que, además del estado anual de resultados, debe presentar anualmente y mantener por un mínimo de cinco años a disposición de la Superintendencia de Educación, el sostenedor que posea más de un establecimiento educacional subvencionado o que reciba aportes del Estado, dando cuenta en forma agregada de todos los ingresos, públicos y privados, que perciba, y de todos los gastos e inversiones que realice, respecto de la totalidad de sus establecimientos, en el período respectivo.
+Para efectos de este reglamento, los Estados Financieros comprenderán la siguiente información:
+
+- Un estado de situación financiera, que involucre los activos, pasivos y patrimonio de un sostenedor a una fecha específica, y que contenga la información desagregada por cada establecimiento administrado;
+
+- Un estado de resultados, que señale en forma integral y desagregada, todos los ingresos, públicos y privados, que perciba el establecimiento, y todos los gastos que impliquen o no desembolso de efectivo, que realice en un período determinado;
+
+- Un estado de cambios en el patrimonio, el cual presente, entre otros, el resultado del período sobre el que se informa, los efectos de los cambios en políticas contables, las correcciones de errores reconocidos y los importes de las inversiones efectuadas, en dicho periodo;
+
+- Un estado de flujos de efectivo, que proporcione información de un establecimiento sobre los cambios en el efectivo y sus equivalentes, durante el período sobre el que se informa. Asimismo, deberá exhibir por separado los cambios de las actividades de operación, actividades de inversión y actividades de financiamiento, según corresponda;
+
+- Notas a los estados financieros, las que comprenden un resumen de las políticas contables significativas e información explicativa;
+
+- Detalle de los movimientos contables que conforman los estados financieros, incluyendo, entre otros, los siguientes libros:
+
+i) Libro de Remuneraciones;
+
+ii) Libro Diario;
+
+iii) Libro Mayor;
+
+iv) Libro de Bancos;
+
+v) Libro de Honorarios.
+
+vi) Libro de Ingresos
+
+vii) Libro de Compras.
+
+c) Estados Financieros Consolidados o Informe Consolidado: Aquél instrumento que da cuenta, a través de una representación estructurada, de la situación y desempeño financiero de la entidad sostenedora, respecto de la totalidad de los establecimientos bajo su administración, a una fecha o período determinado.
+
+El estado financiero consolidado comprenderá la información especificada en la letra b), en forma desagregada por la totalidad de los establecimientos administrados por un mismo sostenedor.
 
 d) Subvenciones: Son aquellos recursos que el Estado transfiere a los sostenedores de los establecimientos educacionales bajo el régimen de subvenciones, con el objeto de propender a la creación, mantención y ampliación de los establecimientos educacionales.
 
@@ -52,35 +82,65 @@ e) Subvenciones para fines especiales: Son aquellos recursos que el Estado trans
 
 f) Notas explicativas: Son las anotaciones incorporadas a los estados anuales de resultados y a los informes consolidados, que contienen información necesaria para comprender las operaciones referidas en dichos instrumentos.
 
+g) Cuentas Bancarias: Corresponden a las cuentas corrientes y/o las cuentas vistas en que el sostenedor administrará todos los recursos públicos y privados destinados a los fines educativos.
+
+h) Gastos objetados: Corresponden a aquellos desembolsos cuyo respaldo documental no da cuenta en forma fehaciente de que éstos se ajusten a los fines educativos, especiales o generales, según sea el caso, o que no cumplen con las instrucciones de forma establecidas por la Superintendencia, y que por ello requerirá información adicional para ser aceptado.
+
+i) Gastos no aceptados: Corresponden a aquellos egresos detectados en una fiscalización, que habiendo sido previamente objetados, la Superintendencia considera que no se ajustan a los fines educativos, generales o especiales, según sea el caso, o que sus respaldos documentales están adulterados o no dieron cumplimiento a los requisitos legales.
+
+j) Juicio de legalidad: Procedimiento por el cual la Superintendencia de Educación verifica que un acto o contrato que sirve de antecedente a un desembolso, se enmarca dentro de los fines educativos, sean especiales o generales, señalados en la normativa educacional; y que su documentación cumpla con los requisitos legales. Dicho juicio, comprenderá el criterio de eficiencia en el uso de los recursos respecto de la administración en el servicio educativo.
+
+k) Juicio de mérito: Procedimiento de calificación del uso de los recursos aportados por el Estado, que realiza el sostenedor, dentro de la finalidad especial o general prevista en la ley, según sea el caso.
+
+l) Formato estandarizado: Modelo, plataforma o formulario predefinido por la Superintendencia de Educación, manual o electrónico, dirigido a las entidades sostenedoras, necesario para llevar a cabo de manera eficiente el proceso de rendición de cuenta.
+
+#### Artículo 2º bis
+
+El contenido de los estados financieros deberá comprender información fidedigna, la que deberá ajustarse a las formas y procedimientos establecidos por la Superintendencia de Educación. Adicionalmente, la Superintendencia podrá requerir cualquier otro antecedente que se haya utilizado para construir los estados financieros.
+
+La Superintendencia de Educación, con especial consideración de las características de cada establecimiento educacional, exigirá, en la oportunidad que determine, y según sea el caso, procedimientos que sean eficientes y proporcionados a la gestión de cada sostenedor y sus respectivos establecimientos. Para tal efecto, la Superintendencia deberá tener presente factores tales como la ruralidad, número de estudiantes matriculados y nivel socioeconómico de cada establecimiento y sostenedor.
+
+Los sostenedores de establecimientos educacionales subvencionados o que reciban aportes del Estado, deberán presentar anualmente los estados financieros individuales y consolidados a la Superintendencia de Educación, manteniéndolos a su disposición por un período mínimo de cinco años, sin perjuicio de lo establecido en el artículo 49, letra e), de la ley Nº 20.529.
+
 ## Título II
 
 Del Mecanismo de Rendición de Cuenta Pública del Uso de los Recursos
 
 #### Artículo 3º
 
-La cuenta pública del uso de los recursos a que se refiere este Reglamento deberá rendirse anualmente, debiendo presentarse los respectivos estados anuales de resultados, y, si procede, los informes consolidados del período respectivo, antes del 30 de abril del año calendario siguiente al período a rendir.
+La cuenta pública del uso de los recursos a que se refiere este Reglamento deberá rendirse anualmente, debiendo presentarse los respectivos estados financieros, y los informes consolidados del período respectivo, antes del 31 de marzo del año calendario siguiente al período a rendir.
 
-Para estos efectos, se deberán utilizar los formatos estandarizados e instrumentos que fije la Superintendencia de Educación, los cuales podrán consistir, por ejemplo, en formularios electrónicos.
+Para estos efectos, se deberán utilizar los formatos estandarizados e instrumentos que fije la Superintendencia de Educación.
 
-Sin perjuicio de lo anterior, los sostenedores serán los responsables de resguardar los estados anuales de resultados e informes consolidados que rindan, por un período mínimo de cinco años contados a partir del vencimiento del plazo para efectuar la rendición.
+Sin perjuicio de lo anterior, los sostenedores serán los responsables de resguardar los los estados financieros individuales y consolidados, y la información de respaldo que presenten, por un período mínimo de cinco años contados a partir del vencimiento del plazo para efectuar la rendición.
 
 Asimismo, dentro del término señalado en el inciso anterior, los sostenedores deberán presentar la documentación fundante de los registros contables que hubieren obtenido dentro del período a rendir, cuando la Superintendencia de Educación así lo requiera. Podrán excusarse de este deber mientras dichos documentos se encuentren en poder de otro órgano del Estado, en el ejercicio de sus competencias legales.
 
 #### Artículo 4º
 
-Los estados anuales de resultados y los informes consolidados deberán comprender la totalidad de las operaciones que se efectúen en los establecimientos educacionales durante el período a rendir.
+Los Estados financieros individuales y consolidados deberán comprender la totalidad de las operaciones que se efectúen en los establecimientos educacionales durante el período a rendir.
 
-El estado anual de resultados deberá consignar, en orden cronológico, todos los ingresos efectivamente percibidos por concepto de subvenciones transferidas al sostenedor, otros ingresos de carácter público o privado, el monto total de los gastos e inversiones pagados con dichos recursos durante el período a rendir, señalando el uso y destino de los mismos, el resultado del período y las notas explicativas que correspondan, por cada establecimiento que posea.
+Dichos estados deberán consignar de manera desagregada todos los movimientos financieros contables registrados en los libros de contabilidad del período a rendir, de tal forma que éstos den cuenta del uso y destino de los recursos de carácter público o privado percibidos por los sostenedores, los gastos efectuados, las inversiones realizadas, las obligaciones contraídas, y cualquier otra operación de las señaladas en el artículo 3º del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, en que se destinen dichos recursos.
 
-El estado anual de resultados de aquellos establecimientos educacionales respecto de los cuales se hubiese recibido subvenciones para fines especiales, deberá contener el saldo inicial de éstas, el total de los ingresos efectivamente percibidos por dichas subvenciones, el total de los gastos efectivamente pagados con estos recursos dentro del período a rendir, señalando el uso y destino de los mismos, el saldo final para dicho período y las notas explicativas que correspondan.
+Los estados financieros de aquellos establecimientos educacionales que reciban subvenciones y aportes para fines especiales, deberán presentar además, la información detallada y en la forma que exija la Superintendencia de Educación para este tipo de subvenciones, mediante instrucciones de carácter general.
 
-En caso de que el sostenedor esté obligado a presentar adicionalmente un informe consolidado, dicho instrumento deberá consignar de manera agregada para todos los establecimientos educacionales que posea, la información señalada en los dos incisos anteriores.
+El informe consolidado que deban entregar los sostenedores que administren más de un establecimiento subvencionado o que reciba aportes del Estado, deberá consignar de manera desagregada la información señalada en los dos incisos anteriores.
+
+#### Artículo 4º bis
+
+En el registro administrado por la Superintendencia de Educación, de conformidad a lo establecido en el artículo 49, letra e), de la ley Nº 20.529, constarán todos los datos de las cuentas bancarias en que los sostenedores administren de forma exclusiva los recursos que destinen al cumplimiento de los fines educativos, tales como, cuentas destinadas a la recepción de la subvención general o especial, de aportes públicos o privados y cuentas de operación en las que consten los traspasos de dineros y egresos.
+
+La Superintendencia de Educación, podrá requerir, mediante resolución fundada, todos los movimientos de estas cuentas bancarias, tales como egresos y transferencias a otras cuentas, y los antecedentes que los respalden. En caso de negativa del titular de la cuenta a entregar dicha información, ésta podrá ser solicitada por la Superintendencia al juez competente, sin perjuicio de las sanciones que pueda imponer al sostenedor, de conformidad a lo establecido en el artículo 76, letra b) de la ley Nº 20.529.
+
+La Superintendencia de Educación informará mediante instrucciones de carácter general la forma en que este registro operará, así como la exigencia de administrar los recursos provenientes de subvenciones para fines especiales en cuentas bancarias exclusivas e independientes.
 
 #### Artículo 5º
 
-En caso de existir saldos no utilizados correspondientes a las subvenciones para fines especiales, los sostenedores deberán acreditar la disponibilidad de ellos, ya sea a través de la cuenta corriente del establecimiento o a través de otro medio idóneo que para estos efectos determine la Superintendencia de Educación, cuando la ley o el convenio suscrito para impetrar la subvención de propósito especial no fijen estas exigencias.
+Como parte del proceso de rendición de cuentas, los sostenedores deberán acreditar la disponibilidad de los saldos de las subvenciones destinadas a fines educativos generales y especiales. Solo aquellas cuentas incluidas en el Registro de Cuentas Bancarias podrán ser utilizadas para acreditar los saldos que puedan quedar al final de cada ejercicio.
 
-La Superintendencia de Educación informará al Ministerio de Educación la existencia de excedentes o saldos no invertidos, correspondientes a subvenciones para fines especiales, a fin de que éste tramite su devolución, cuando corresponda.
+En el caso de las subvenciones para fines especiales, la Superintendencia de Educación informará al Ministerio de Educación la existencia de excedentes o saldos no invertidos, a fin de que este tramite su devolución cuando corresponda.
+
+Si el Ministerio de Educación, en el ámbito de sus competencias, resuelve no tramitar la devolución, deberá informar esta decisión a la Superintendencia de Educación en el plazo de 20 días hábiles, en cuyo caso dichos excedentes o saldos podrán ser utilizados en el período de rendición de cuentas correspondiente al año siguiente. Este movimiento contable deberá reflejarse en el registro de apertura de dicho período.
 
 ## Título III
 
@@ -92,11 +152,17 @@ La rendición de cuentas presentada por los sostenedores y regulada por el prese
 
 #### Artículo 7º
 
-Si producto de la fiscalización de la rendición de cuenta pública, que efectúe la Superintendencia de Educación, uno o más gastos del estado anual de resultados rendido por el sostenedor resultan rechazados, el sostenedor quedará obligado a restar dichos gastos del estado anual de resultados correspondiente, y del informe consolidado, si procede; sólo una vez que esto haya ocurrido se entenderá cumplida la obligación de rendir cuenta del período respectivo.
+Ante la concurrencia de gastos objetados, producto de la fiscalización que efectúe la Superintendencia de Educación, el sostenedor tendrá un plazo de 10 días hábiles contados desde la notificación del acta respectiva, para acompañar todos los antecedentes que estime necesarios y que, a su juicio, permitan modificar su calificación a gastos aceptados.
 
 #### Artículo 8º
 
-La Superintendencia de Educación fijará mediante instrucciones de carácter general la forma y plazos para descontar los gastos rechazados de los estados anuales de resultados y de los informes consolidados, así como cualquier otro aspecto de la fiscalización que le compete según la ley.
+Ante la concurrencia de gastos no aceptados producto de una fiscalización, se deberá acreditar la existencia de su monto debidamente reajustado en los términos del artículo 3 ter, del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, en la cuenta bancaria respectiva.
+
+En contra de los gastos no aceptados, procederán los recursos de la ley Nº 19.880.
+
+Las actas de fiscalización serán notificadas mediante correo electrónico a la dirección que para dichos efectos haya registrado el sostenedor y se entenderá practicada al tercer día hábil siguiente de su despacho.
+
+La Superintendencia de Educación fijará mediante instrucciones de carácter general, la forma y plazos para reflejar en los sistemas contables del sostenedor, según corresponda, los gastos no aceptados, así como cualquier otro aspecto de la fiscalización que le competa según la ley.
 
 #### Artículo 9º
 
@@ -104,7 +170,9 @@ En caso de infracción a alguna de las disposiciones de este Reglamento, se adop
 
 #### Artículo transitorio
 
-La cuenta pública del uso de los recursos recibidos durante el año 2014, deberá rendirse antes del 30 de junio del año 2015.
+Desde el 1 de marzo de 2016 y hasta el 31 de diciembre de 2017, las modificaciones al uso de los recursos de los establecimientos educacionales establecidos en el numeral 3), del artículo 2º, de la ley Nº 20.845, regirán para los sostenedores que no estén organizados como personas jurídicas sin fines de lucro, respecto de los recursos públicos de que sean beneficiarios, según lo dispuesto en el inciso final, del artículo segundo transitorio de la ley Nº 20.845.
+
+Sin perjuicio de que en este caso los ingresos privados no están sujetos al cumplimiento de fines educativos, al estar afectos al proceso de rendición de cuentas, deberán igualmente acreditar, cuando corresponda, los saldos o excedentes en las cuentas que informe el sostenedor para gestionar dichos recursos, en la forma y procedimiento que determine la Superintendencia de Educación.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Carolina Schmidt Zaldívar, Ministra de Educación.
 
