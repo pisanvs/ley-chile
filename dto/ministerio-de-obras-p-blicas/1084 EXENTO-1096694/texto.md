@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 1084, de 26 de octubre de 2016, y de conformidad a la facultad otorgada en el artículo 3° letra a), 10° letra c), 14° letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y el DFL MOP N° 206, de 1960, se expropió el lote de terreno Nº 1, superficie 187.200 m2., Rol Avalúo 1043-56, comuna de Coyhaique, para la obra: AMPLIACIÓN ÁREA DE MOVIMIENTO Y TERMINAL DE PASAJEROS AERÓDROMO BALMACEDA, PROVINCIA DE COYHAIQUE, XI REGIÓN. La comisión de peritos integrada por JUAN ANTONIO FUENTES MANCILLA, PATRICIO ANTONIO FUENTES BOPP LATHAM y GERMÁN AURELIO ENRIQUE WULF ANDRADE, fijó el valor de tasación con fecha 11 de julio de 2016, acordándose la indemnización con su propietario FEDERICO EDUARDO PEEDE THOMAS, en la cantidad de $49.234.829.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N! 2186, de 1978.
+
+Fiscalía MOP.
