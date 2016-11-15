@@ -52,7 +52,7 @@ II.- Principios Generales del Plan Especial:
 
 - El Plan Especial tiene carácter descentralizador, por cuanto radica en las autoridades regionales y provinciales su ejecución.
 
-III.- Ámbito y Espacio de Aplicación: El presente Plan se ejecutará en la totalidad del territorio de la Región de Aysén, dentro de los tres años siguientes a la fecha de publicación del presente decreto.
+III.- Ámbito y Espacio de Aplicación: El presente Plan se ejecutará en la totalidad del territorio de la Región de Aysén, dentro de los seis años siguientes a la fecha de publicación del presente decreto.
 
 IV.- Objetivos: Constituyen objetivos del presente Plan Especial:
 
