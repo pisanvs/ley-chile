@@ -166,7 +166,7 @@ Asimismo, los dueños de criaderos deberán responder de los daños que causen a
 
 Todo tenedor de animales, vivos o muertos, pertenecientes a especies en peligro de extinción, vulnerables, raras o escasamente conocidas y protegidas deberá acreditar su legítima procedencia o su obtención en conformidad con esta ley, a requerimiento de autoridad competente.
 
-Del mismo modo se deberá acreditar la procedencia u obtención de animales exóticos pertenecientes a especies o subespecies listadas en los Apéndices I, II o III de la Convención sobre el Comercio Internacional de Especies Amenazadas de la Fauna y Flora Silvestres (CITES), promulgada por decreto ley N° 873, de 1975, publicado en el Diario Oficial de 28 de enero del mismo año, y de animales incluidos en los Anexos I y II del Convenio sobre la Conservación de Especies Migratorias de la Fauna Salvaje, promulgado por decreto supremo N° 868, de 1981, del Ministerio de Relaciones Exteriores, publicado en el Diario Oficial de 12 de diciembre del mismo año, en conformidad a las disposiciones de los referidos instrumentos.
+Del mismo modo se deberá acreditar la procedencia u obtención de animales incluidos en los Anexos I y II del Convenio sobre la Conservación de Especies Migratorias de la Fauna Salvaje, promulgado por decreto supremo N° 868, de 1981, del Ministerio de Relaciones Exteriores.
 
 ## Título V
 
@@ -316,7 +316,7 @@ Las armas, con excepción de las de fuego, los instrumentos de caza y los produc
 
 #### Artículo 37
 
-El conocimiento y castigo de los delitos a que se refieren los artículos 30 y 31 corresponderá al juez del crimen competente.
+La investigación y conocimiento de los delitos a que se refieren los artículos 30 y 31 corresponderá al Ministerio Público y al tribunal competente en materia penal, respectivamente.
 
 Asimismo, el Servicio Agrícola y Ganadero será competente para conocer y sancionar administrativamente las contravenciones a esta ley, en conformidad a lo dispuesto en la ley N° 18.755.
 
