@@ -68,7 +68,7 @@ De las condiciones del Plan de Integración Social
 
 De las Etapas y Productos del Plan de Integración Social
 
-El Plan de Integración Social que se aplicará a los beneficiarios del Programa, de conformidad a lo señalado en el artículo 3º, letra c), del DS Nº1 (V. y U.), de 2016, se desarrollará en dos etapas y contempla las áreas que a continuación se indican, con los correspondientes productos asociados:
+El Plan de Integración Social que se aplicará a los beneficiarios del Programa, de conformidad a lo señalado en el artículo 3º, letra c), del DS Nº 19 (V. y U.), de 2016, se desarrollará en dos etapas y contempla las áreas que a continuación se indican, con los correspondientes productos asociados:
 
 .
 
