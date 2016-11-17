@@ -78,6 +78,22 @@ Ruta Q-61-R, Cruce Longitudinal (Los Angeles) - Santa
 
 Bárbara - Ralco.
 
+Ruta Q-105, Cruce Ruta 177 (Los Ángeles) - Santa
+
+Clara - Cruce Q-119 (Salto del Laja).
+
+Ruta Q-119, Cruce Ruta 5 (Chillancito) - Salto del
+
+Laja - Cruce Ruta 5 (Lima).
+
+Ruta Q-129, Cruce Ruta 5 (Paso Superior) - Cruce
+
+Q-119 (El Pinar).
+
+Ruta Q-351, Cruce Q-105 (Los Ángeles) - Cruce
+
+N-589-Q (Cerro Colorado).
+
 3º Declárase Caminos Públicos en las áreas urbanas de la siguiente Metrópoli, dando continuidad a las rutas antes indicadas, a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Metrópoli de Concepción:
@@ -151,6 +167,10 @@ Antuco:
 NACIMIENTO
 
 . El sistema vial que conecta la Ruta 156 con la Ruta Q-340, a través de Camino Antiguo a Nacimiento, Pastor Lepe, puente Tavoleo y Camino a Millapoa Diuquín.
+
+TOMÉ
+
+. El sistema vial que interconecta la Ruta O-274 con las rutas O-14 y O-250, a través de Enrique Molina, Vicente Palacios, Daniel Vera, Bilbao, Juan Antonio Ríos, Daniel Vera y Camino de Vegas de Itata.
 
 6º Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
