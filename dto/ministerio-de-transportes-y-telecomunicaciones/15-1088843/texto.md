@@ -24,6 +24,8 @@ Decreto:
 
 2.- Dicha suma será transferida conforme al siguiente calendario:
 
+.
+
 3.- La Empresa de los Ferrocarriles del Estado deberá remitir a este Ministerio el comprobante de ingreso respectivo, en el que se especificará el origen del aporte, y el resumen de los pagos que se efectúen.
 
 4.- La Empresa de los Ferrocarriles del Estado deberá rendir cuenta a este Ministerio respecto a la inversión de los fondos recibidos conforme al calendario indicado en el numeral 2 anterior, de no cumplir con dicha obligación no se transferirán los fondos correspondientes al mes siguiente.
