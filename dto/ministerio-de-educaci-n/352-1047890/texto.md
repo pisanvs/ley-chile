@@ -30,6 +30,8 @@ La información requerida por la División de Educación Superior considerará:
 
 a) Carreras de pregrado y programas de postgrado y postítulo, extensión o perfeccionamiento que la institución ofrece y las que imparte efectivamente;
 
+a) bis. El registro de los alumnos que hayan rendido las evaluaciones diagnósticas a que se refiere la letra a) del inciso tercero del artículo 27 bis de la Ley N° 20.129;
+
 b) Estudiantes matriculados o inscritos en las carreras o programas mencionados en la letra a) anterior, que sean dictados por o en la institución;
 
 c) Personal académico que lleva a cabo actividades de docencia, investigación o extensión de la institución;
@@ -136,9 +138,11 @@ a) Identificación de los estudiantes matriculados en la institución con sus no
 
 b) Individualización de la carrera o programa en que se encuentra matriculado el estudiante;
 
-c) Año y semestre en que el estudiante ingresó al primer año de la carrera o programa; y
+c) Año y semestre en que el estudiante ingresó al primer año de la carrera o programa;
 
-d) En el caso de estudiantes extranjeros, además se deberá aportar información sobre su nacionalidad, condición de alumno regular o de intercambio, y país en que cursó previamente sus estudios.
+d) En el caso de estudiantes extranjeros, además se deberá aportar información sobre su nacionalidad, condición de alumno regular o de intercambio, y país en que cursó previamente sus estudios; y
+
+e) En el caso de los alumnos que se encuentren cursando las carreras y programas de pedagogía, además se deberá informar si han rendido la o las evaluaciones diagnósticas, según corresponda, de acuerdo a lo establecido en la letra a) del inciso tercero, del artículo 27 bis de la Ley N° 20.129.
 
 #### Artículo 10º
 
