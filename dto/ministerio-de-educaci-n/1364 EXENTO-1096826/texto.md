@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.364 EXENTO, DE 15 DE NOVIEMBRE DE 2016
+
+Por el presente decreto exento del Ministerio de Educación se aprobó la resciliación del convenio de 2 de noviembre de 1981, celebrado entre el Ministerio de Educación y la Ilustre Municipalidad de Pitrufquén, sobre Traspaso del Servicio Educacional y sus Bases que presta la Escuela Básica G-632, de la comuna de Pitrufquén, aprobado por decreto supremo Nº 8.833, de 1981, del Ministerio de Educación, que incide en la cláusula sexta, relativa al bien raíz, y con el objeto de practicar en el Registro de Propiedad del Conservador de Bienes Raíces de Pitrufquén, las anotaciones, cancelaciones y subinscripciones que fueren procedentes.
+
+Santiago, 15 de noviembre de 2016.- Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
