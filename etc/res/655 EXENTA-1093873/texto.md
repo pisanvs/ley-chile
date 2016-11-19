@@ -28,6 +28,22 @@ Resolución:
 
 1. Apruébase la nómina de postulantes seleccionados durante el mes de mayo de 2016, para el otorgamiento de subsidios habitacionales destinados al Acondicionamiento Térmico de Viviendas correspondientes al Llamado Regional del Programa de Protección del Patrimonio Familiar Título II, dispuesto en la resolución exenta N° 377, de fecha 29.04.2016, de esta Secretaría Regional Ministerial, la que se entenderá formar parte integrante de esta resolución, fijándose el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada según se indica en la siguiente tabla:
 
+.
+
+2. Fíjase el monto de Unidades de Fomento comprometidas para el financiamiento de subsidios Térmicos del Programa de Protección al Patrimonio Familiar, Título II, para la Atención de los postulantes seleccionados a que se refiere el número anterior, según la siguiente tabla:
+
+.
+
+3. Comprométense los recursos disponibles en la Región de Magallanes y Antártica Chilena, para la selección del mes de mayo de 2016, según la distribución señalada en el siguiente cuadro:
+
+.
+
+4. Déjese establecido que mediante la resolución exenta N° 3.486 (V. y U.), de fecha 02.06.2016, singularizada en la letra f) de los vistos, se otorgó un incremento de subsidio a don José Alamiro Valderas Cárdenas, RUN 8.018.264-3, por un monto de 105 Unidades de Fomento, con cargo a los recursos autorizados en la Región de Magallanes y la Antártica Chilena, para el Programa de Protección del Patrimonio Familiar del año 2016.
+
+De acuerdo a lo anterior, el total de recursos comprometidos en el año 2016 en el Programa de Protección del Patrimonio Familiar, para el Acondicionamiento Térmico de Viviendas de la Región, se presentan según la siguiente tabla:
+
+.
+
 5. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme los números 1 y 2 de esta resolución, las que deberán contener a lo menos, el Título del cual se trate, el nombre del grupo y el nombre de cada postulante con su respectiva Cédula Nacional de Identidad, el nombre del proyecto, y el puntaje obtenido por el grupo o persona.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Atircio Aguilera Burgos, Secretario Regional Ministerial de Vivienda y Urbanismo (S) Región de Magallanes y Antártica Chilena
