@@ -122,6 +122,8 @@ g) Catástrofe: Se concederá una ayuda al afiliado que sufra daños graves a co
 
 h) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Bienestar por concepto de préstamos que éste le hubiese otorgado.
 
+i) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio. Dicho beneficio será determinado por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29, del Reglamento General. Para solicitar el beneficio, el afiliado deberá presentar una solicitud, acompañada del certificado respectivo, emitido por la Oficina del Registro Civil e Identificación.
+
 El monto de las ayudas contempladas en las letras a), b), c), d), e),
 
 - **f)** y
