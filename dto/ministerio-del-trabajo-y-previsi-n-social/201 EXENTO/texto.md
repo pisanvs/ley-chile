@@ -114,7 +114,7 @@ c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado, y d
 
 1º.- A la persona designada expresamente para tales efectos por el afiliado;
 
-2º.- Al cónyuge sobreviviente;
+2º.- Al cónyuge sobreviviente o al conviviente civil;
 
 3º.- A los hijos;
 
@@ -136,11 +136,13 @@ h) Educación: Se concederá una asignación de escolaridad a los afiliados y ca
 
 i) Becas de estudio: Beneficio que será otorgado con el propósito de complementar los gastos derivados de la educación de un afiliado o de sus hijos que sean carga familiar. Corresponderá al Consejo Administrativo autorizar anualmente la aplicación de un programa que atienda a este beneficio, determinando para ello el monto total del presupuesto que será destinado a esta ayuda social.
 
-j) Imprevistos: Beneficio destinado a prestar auxilio en dinero o en especies a los afiliados o a sus cargas familiares que hubieren sufrido perjuicios por fuerza mayor, particularmente por fenómenos naturales y/o de otra índole, calificados por el Consejo Administrativo, que a su vez, fijará anualmente el monto de esta ayuda, según sus disponibilidades presupuestarias.
+j) Imprevistos: Beneficio destinado a prestar auxilio en dinero o en especies a los afiliados o a sus cargas familiares que hubieren sufrido perjuicios por fuerza mayor, particularmente por fenómenos naturales y/o de otra índole, calificados por el Consejo Administrativo, que a su vez, fijará anualmente el monto de esta ayuda, según sus disponibilidades presupuestarias. y
+
+k) Acuerdo de Unión Civil: Se concederá una ayuda a cada afiliado que contraiga el Acuerdo de Unión Civil. Si ambos contrayentes fueran afiliados, se concederá la ayuda a cada uno de ellos.
 
 #### Artículo 7º
 
-Para solicitar los beneficios señalados en las letras a), b), c), d), e), h), i) y j), del artículo 6º, el beneficiario deberá presentar una solicitud de ayuda acompañada del certificado respectivo o documento de respaldo que se determine, según el caso. Para solicitar la ayuda económica por fallecimiento de un mortinato, deberá acreditarse el hecho, presentando el certificado médico en que conste esta causal.
+Para solicitar los beneficios señalados en las letras a), b), c), d), e), h), i), j) y k) del artículo 6º, el beneficiario deberá presentar una solicitud de ayuda acompañada del certificado respectivo o documento de respaldo que se determine, según el caso. Para solicitar la ayuda económica por fallecimiento de un mortinato, deberá acreditarse el hecho, presentando el certificado médico en que conste esta causal.
 
 Párrafo Tercero
 
@@ -212,7 +214,7 @@ c) Que el afiliado o su cónyuge no sean dueños de ninguna propiedad, exceptuan
 
 Las solicitudes de un préstamo habitacional deberán ser avaladas por tres codeudores solidarios que tengan más de tres años de afiliación al Servicio de Bienestar, y una remuneración neta de, a lo menos, tres veces el dividendo que debe servir al préstamo solicitado por el afiliado. Ante una situación de mora en el servicio de la deuda, o pérdida de la condición de funcionario del Servicio de Impuestos Internos, el Consejo Administrativo resolverá la fórmula de cancelación que deba cumplir el afiliado.
 
-Las solicitudes de todo préstamo habitacional serán resueltas por el Consejo Administrativo, de acuerdo a una normativa especial y aprobada por la misma Comisión.
+Las solicitudes de todo préstamo habitacional, serán aprobadas por el Jefe del Servicio de Bienestar, precio informe de las Asistentes Sociales del Servicio de Bienestar.
 
 Los préstamos señalados precedentemente se sujetarán a los límites establecidos en la ley 18.834 sobre Estatuto Administrativo.
 
