@@ -190,15 +190,7 @@ La infracción de esta disposición será sancionada con presidio menor en sus g
 
 Se Prohíbe a los funcionarios de Policía de Investigaciones de Chile, ejecutar cualquier acto de violencia, destinado a obtener declaraciones de parte del detenido.
 
-El que infrinja esta disposición será castigado:
-
-1.- Con la pena de presidio mayor en sus grados mínimos a medio, si le causare la muerte;
-
-2.- Con la de presidio menor en su grado medio a presidio mayor en su grado mínimo, si le causare lesiones graves;
-
-3.- Con la de presidio menor en sus grados mínimo a medio, si le causare lesiones menos grave, y
-
-4.- Con la de prisión en su grado máximo a presidio menor en su grado mínimo, si no le causare lesiones o si éstas fueren leves.
+El que infrinja esta disposición será castigado con arreglo a lo dispuesto en el Código Penal.
 
 #### Artículo 20
 

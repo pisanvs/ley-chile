@@ -10,7 +10,7 @@ Proyecto de ley:
 
 #### Artículo 1º
 
-Restricción de la competencia de los tribunales militares. En ningún caso, los civiles y los menores de edad estarán sujetos a la competencia de los tribunales militares. Ésta siempre se radicará en los tribunales ordinarios con competencia en materia penal.
+Restricción de la competencia de los tribunales militares. En ningún caso, los civiles y los menores de edad, que revistan la calidad de víctimas o de imputados, estarán sujetos a la competencia de los tribunales militares. Ésta siempre se radicará en los tribunales ordinarios con competencia en materia penal.
 
 Para estos efectos, se entenderá que civil es una persona que no reviste la calidad de militar, de acuerdo al artículo 6º del Código de Justicia Militar.
 

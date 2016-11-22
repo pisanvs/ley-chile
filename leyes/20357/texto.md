@@ -72,7 +72,7 @@ En los casos a que se refieren los dos últimos incisos del artículo 141 del C�
 
 Será castigado con la pena de presidio mayor en su grado mínimo a medio, el que, concurriendo las circunstancias descritas en el artículo 1º:
 
-1º. Torturare a otro que se encuentre bajo su custodia o control, infligiéndole graves dolores o sufrimientos físicos o mentales. Sin embargo, no se entenderá por tortura el dolor o los sufrimientos que deriven únicamente de sanciones lícitas o que sean consecuencia normal o fortuita de ellas.
+1º. Torturare a otro que se encuentre bajo su custodia o control, infligiéndole graves dolores o sufrimientos físicos, sexuales o mentales. Sin embargo, no se entenderá por tortura el dolor o los sufrimientos que deriven únicamente de sanciones lícitas o que sean consecuencia normal o fortuita de ellas.
 
 Si además de la realización de las conductas descritas en este numeral se causare alguna de las lesiones previstas en el artículo 397 del Código Penal o la muerte de la persona bajo custodia o control, siempre que el resultado fuere imputable a negligencia o imprudencia del hechor, la pena será de presidio mayor en su grado medio a máximo.
 

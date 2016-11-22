@@ -1436,7 +1436,7 @@ Tampoco es aplicable a aquellas personas a quienes por leyes o reglamentos espec
 
 El que bajo cualquier pretexto, impusiere a otros contribuciones o les exigiere, sin título para ello, servicios personales, incurrirá en las penas de reclusión menor en sus grados mínimo a medio y multa de once a veinte unidades tributarias mensuales.
 
-### IV. De los agravios inferidos por funcionarios públicos a los derechos garantidos por la Constitución
+IV. De la tortura, otros tratos crueles, inhumanos o degradantes, y de otros agravios inferidos por funcionarios públicos a los derechos garantidos por la Constitución
 
 #### Artículo 148
 
@@ -1470,27 +1470,69 @@ Sufrirá las penas de presidio o reclusión menores y la accesoria que correspon
 
 2º. El que arbitrariamente hiciere arrestar o detener en otros lugares que los establecidos por la ley.
 
+Al que, sin revestir la calidad de empleado público, participare en la comisión de estos delitos, se le impondrá la pena de presidio o reclusión menor en su grado mínimo a medio.
+
 #### Artículo 150
 
 A.
 
-El empleado público que aplicare a una persona privada de libertad tormentos o apremios ilegítimos, físicos o mentales, u ordenare o consintiere su aplicación, será castigado con las penas de presidio o reclusión menor en sus grados medio a máximo y la accesoria correspondiente.
+El empleado público que, abusando de su cargo o sus funciones, aplicare, ordenare o consintiere en que se aplique tortura, será penado con presidio mayor en su grado mínimo. Igual sanción se impondrá al empleado público que, conociendo de la ocurrencia de estas conductas, no impidiere o no hiciere cesar la aplicación de tortura, teniendo la facultad o autoridad necesaria para ello o estando en posición para hacerlo.
 
-Las mismas penas, disminuidas en un grado, se aplicarán al empleado público que, conociendo la ocurrencia de las conductas tipificadas en el inciso precedente, no las impidiere o hiciere cesar, teniendo la facultad o autoridad necesaria para ello.
+La misma pena se aplicará al particular que, en el ejercicio de funciones públicas, o a instigación de un empleado público, o con el consentimiento o aquiescencia de éste, ejecutare los actos a que se refiere este artículo.
 
-Si mediante alguna de las conductas descritas en el inciso primero el empleado público compeliere al ofendido o a un tercero a efectuar una confesión, a prestar algún tipo de declaración o a entregar cualquier información, la pena será de presidio o reclusión menor en su grado máximo a presidio o reclusión mayor en su grado mínimo y la accesoria correspondiente.
+Se entenderá por tortura todo acto por el cual se inflija intencionalmente a una persona dolores o sufrimientos graves, ya sean físicos, sexuales o psíquicos, con el fin de obtener de ella o de un tercero información, declaración o una confesión, de castigarla por un acto que haya cometido, o se le impute haber cometido, o de intimidar o coaccionar a esa persona, o en razón de una discriminación fundada en motivos tales como la ideología, la opinión política, la religión o creencias de la víctima; la nación, la raza, la etnia o el grupo social al que pertenezca; el sexo, la orientación sexual, la identidad de género, la edad, la filiación, la apariencia personal, el estado de salud o la situación de discapacidad.
 
-Si de la realización de las conductas descritas en este artículo resultare alguna de las lesiones previstas en el artículo 397 o la muerte de la persona privada de libertad, siempre que el resultado fuere imputable a negligencia o imprudencia del empleado público, la pena será de presidio o reclusión mayor en su grado mínimo a medio y de inhabilitación absoluta perpetua.
+Se entenderá también por tortura la aplicación intencional de métodos tendientes a anular la personalidad de la víctima, o a disminuir su voluntad o su capacidad de discernimiento o decisión, con alguno de los fines referidos en el inciso precedente. Esta conducta se sancionará con la pena de presidio menor en su grado máximo.
+
+No se considerarán como tortura las molestias o penalidades que sean consecuencia únicamente de sanciones legales, o que sean inherentes o incidentales a éstas, ni las derivadas de un acto legítimo de autoridad.
 
 #### Artículo 150
 
-B. Al que, sin revestir la calidad de empleado público, participare en la comisión de los delitos sancionados en los dos artículos precedentes, se le impondrán las siguientes penas:
+B.
 
-1º. Presidio o reclusión menor en su grado mínimo a medio, en los casos de los artículos 150 y 150 A, inciso primero;
+Si con ocasión de la tortura se cometiere además:
 
-2º. Presidio o reclusión menor en su grado medio a máximo, en el caso del inciso segundo del artículo 150 A, y 3º. Presidio o reclusión menor en su grado máximo a presidio o reclusión mayor en su grado mínimo, si se tratare de la figura del último inciso del artículo 150 A.
+1° Homicidio, se aplicará la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
 
-En todos estos casos se aplicarán, además, las penas accesorias que correspondan.
+2° Alguno de los delitos previstos en los artículos 361, 362, 365 bis, 395, 396 o 397, número 1°, la pena será de presidio mayor en su grado máximo a presidio perpetuo.
+
+3° Alguno de los cuasidelitos a que se refiere el artículo 490, número 1°, la pena será de presidio mayor en su grado medio.
+
+#### Artículo 150
+
+C.-
+
+En los casos previstos en los artículos 150 A y 150 B se excluirá el mínimum o el grado mínimo de la pena señalada, según corresponda, al que torture a otro que se encuentre, legítima o ilegítimamente, privado de libertad, o en cualquier caso bajo su cuidado, custodia o control.
+
+#### Artículo 150
+
+D.-
+
+El empleado público que, abusando de su cargo o sus funciones, aplicare, ordenare o consintiere en que se apliquen apremios ilegítimos u otros tratos crueles, inhumanos o degradantes, que no alcancen a constituir tortura, será castigado con las penas de presidio menor en sus grados medio a máximo y la accesoria correspondiente. Igual sanción se impondrá al empleado público que, conociendo de la ocurrencia de estas conductas, no impidiere o no hiciere cesar la aplicación de los apremios o de los otros tratos, teniendo la facultad o autoridad necesaria para ello o estando en posición para hacerlo.
+
+Si la conducta descrita en el inciso precedente se cometiere en contra de una persona menor de edad o en situación de vulnerabilidad por discapacidad, enfermedad o vejez; o en contra de una persona que se encuentre bajo el cuidado, custodia o control del empleado público, la pena se aumentará en un grado.
+
+No se considerarán como apremios ilegítimos u otros tratos crueles, inhumanos o degradantes las molestias o penalidades que sean consecuencia únicamente de sanciones legales, o que sean inherentes o incidentales a éstas, ni las derivadas de un acto legítimo de autoridad.
+
+Sin perjuicio de lo dispuesto en los incisos anteriores, si los hechos constituyeren algún delito o delitos de mayor gravedad, se estará a la pena señalada para ellos.
+
+#### Artículo 150
+
+E.-
+
+Si con ocasión de los apremios ilegítimos u otros tratos crueles, inhumanos o degradantes se cometiere además:
+
+1° Homicidio, se aplicará la pena de presidio mayor en su grado máximo a presidio perpetuo.
+
+2° Alguno de los delitos previstos en los artículos 361, 362, 365 bis, 395, 396 o 397, número 1°, la pena será de presidio mayor en su grado medio.
+
+3° Alguno de los cuasidelitos a que se refiere el artículo 490, número 1°, la pena será de presidio menor en su grado máximo a presidio mayor en su grado mínimo.
+
+#### Artículo 150
+
+F.-
+
+La misma pena se aplicará al particular que, en el ejercicio de funciones públicas, o a instigación de un empleado público, o con el consentimiento o aquiescencia de éste, ejecutare los actos a que se refieren los artículos 150 D o 150 E.
 
 #### Artículo 151
 
@@ -2236,11 +2278,15 @@ Las disposiciones de este artículo han de entenderse sin perjuicio de lo establ
 
 #### Artículo 255
 
-El empleado público que, desempeñando un acto del servicio, cometiere cualquier vejación injusta contra las personas o usare de apremios ilegítimos o innecesarios para el desempeño del servicio respectivo, será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de once a veinte unidades tributarias mensuales.
+El empleado público que, desempeñando un acto del servicio, cometiere cualquier vejación injusta contra las personas será castigado con la pena de reclusión menor en su grado mínimo, salvo que el hecho sea constitutivo de un delito de mayor gravedad, caso en el cual se aplicará sólo la pena asignada por la ley a éste.
+
+Si la conducta descrita en el inciso precedente se cometiere en contra de una persona menor de edad o en situación de vulnerabilidad por discapacidad, enfermedad o vejez; o en contra de una persona que se encuentre bajo el cuidado, custodia o control del empleado público, la pena se aumentará en un grado.
+
+No se considerarán como vejaciones injustas las molestias o penalidades que sean consecuencia únicamente de sanciones legales, o que sean inherentes o incidentales a éstas, ni las derivadas de un acto legítimo de autoridad.
 
 #### Artículo 256
 
-En iguales penas incurrirá todo empleado público del orden administrativo que maliciosamente retardare o negare a los particulares la protección o servicio que deba dispensarles en conformidad a las leyes y reglamentos.
+El empleado público del orden administrativo que maliciosamente retardare o negare a los particulares la protección o servicio que deba dispensarles en conformidad a las leyes y reglamentos será castigado con las penas de suspensión del empleo en cualquiera de sus grados y multa de once a veinte unidades tributarias mensuales.
 
 #### Artículo 257
 
