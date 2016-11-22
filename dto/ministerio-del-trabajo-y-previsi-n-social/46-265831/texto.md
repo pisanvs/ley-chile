@@ -68,7 +68,7 @@ Los representantes titulares y suplentes de los afiliados en el Consejo Administ
 
 #### Artículo 5º
 
-El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. Las sesiones ordinarias se celebrarán a lo menos una vez al mes, en el día y hora que fijen sus integrantes, y se citará por escrito y/o correo electrónico por el Jefe del Servicio de Bienestar.
+El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. Las sesiones ordinarias se celebrarán cada dos meses, en el día y hora que fijen sus integrantes, y se citará por escrito y/o correo electrónico por el Jefe del Servicio de Bienestar.
 
 Las sesiones extraordinarias se realizarán cada vez que las convoque el presidente de oficio y/o a petición escrita de la mayoría de los miembros en ejercicio del Consejo Administrativo.
 
@@ -168,6 +168,8 @@ h) Ayuda Social: Se concederá una ayuda al afiliado que acredite un estado de n
 
 i) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como requisito la comprobación de los hechos por parte del Jefe de Bienestar o funcionario designado por el Director del Instituto Nacional de Estadísticas y/o Directores Regionales del Instituto respectivo, según corresponda.
 
+j) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de Unión Civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
+
 El monto de las ayudas contenidas en las letras anteriores será determinado por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29º del Reglamento general.
 
 #### Artículo 8º
@@ -176,7 +178,7 @@ Para solicitar los beneficios indicados en las letras a), b), c), d), e) y f) de
 
 #### Artículo 9º
 
-En la medida de sus disponibilidades presupuestarias, previo acuerdo de los 2/3 de los miembros presentes del Consejo Administrativo, el Servicio de Bienestar podrá destinar fondos para la celebración y financiamiento de Fiestas Patrias, Navidad u otorgar regalos a los afiliados y a sus cargas legales, así como de otros eventos con similar naturaleza, en beneficio de sus afiliados.
+En la medida de sus disponibilidades presupuestarias, previo acuerdo de los 2/3 de los miembros presentes del Consejo Administrativo, el Servicio de Bienestar podrá destinar fondos para la celebración y financiamiento de Fiestas Patrias, Aniversario, Navidad u otorgar regalos a los afiliados y a sus cargas legales, así como de otros eventos con similar naturaleza, en beneficio de sus afiliados.
 
 #### Artículo 10º
 
@@ -212,7 +214,7 @@ a) Préstamos Médicos: Se otorgarán como complemento de las ayudas económicas
 
 b) Préstamos Escolares: Se otorgarán una vez al año y están orientados a solventar gastos de matrícula, útiles y vestuario escolar de los hijos estudiantes que sean causantes de asignación familiar o bien para los propios afiliados.
 
-c) Préstamos Personales: Se otorgarán una vez al año con el objeto de propender al mejoramiento de las condiciones familiares de los afiliados.
+c) Préstamos Personales: Se otorgarán con el objeto de propender al mejoramiento de las condiciones familiares de los afiliados y cuando las condiciones de endeudamiento posibiliten el otorgamiento de este préstamo.
 
 d) Préstamo de Auxilio: Se otorgarán ante problemas económicos graves y otras causas justificadas. La emergencia deberá ser debidamente calificada por el Consejo Administrativo.
 
@@ -224,7 +226,7 @@ Los plazos indicados en el inciso anterior podrán ser reducidos a solicitud del
 
 #### Artículo 15º
 
-Para conceder un préstamo el Consejo Administrativo deberá considerar, especialmente, las posibilidades de recuperación de los dineros prestados. Además, será requisito indispensable la constitución de la garantía de dos codeudores solidarios, que sean funcionarios de Planta o a Contrata de la Institución y cuya solvencia será calificada por dicho Consejo Administrativo. A lo menos uno de los codeudores deberá pertenecer a la planta del Instituto Nacional de Estadísticas. Se excluyen como codeudores solidarios a los directivos de exclusiva confianza.
+Para conceder un préstamo el Consejo Administrativo deberá considerar, especialmente, las posibilidades de recuperación de los dineros prestados. Además, será requisito indispensable la constitución de la garantía de dos codeudores solidarios, que sean funcionarios de Planta o a Contrata de la Institución y cuya solvencia será calificada por dicho Consejo Administrativo. Se excluyen como codeudores solidarios a los directivos de exclusiva confianza.
 
 Para solicitar cualquier tipo de préstamo el afiliado deberá tener, por lo menos, una antigüedad de 3 meses de afiliación ininterrumpida al Servicio de Bienestar. Este plazo podrá ser inferior en casos debidamente calificados por el Consejo Administrativo.
 
