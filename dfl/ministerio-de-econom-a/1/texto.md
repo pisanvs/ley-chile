@@ -678,10 +678,6 @@ Los cargos de esta planta requerirán haber aprobado la Educación Básica. Adem
 
 > **Nota.** NOTA 2: El artículo primero del DFL 1, Hacienda, publicado el 20.05.2008, dispuso la creación de 28 cargos en la Planta de Personal de la Subsecretaría de Economía, Fomento y Reconstrucción, distribuidos de la forma que establece la citada norma.
 
-> **Nota.** NOTA 3 El artículo primero, Nº 1, del DFL 20, Hacienda, publicado el 09.07.2018, crea un cargo de Secretario Regional Ministerial, grado 5°, en la Planta de personal Cargos de Exclusiva Confianza, de la Subsecretaría de Economía, Fomento y Reconstrucción.
-
-> **Nota.** NOTA 4 El artículo 50 de la Ley 21126, Hacienda, publicado el 17.12.2018, crea un cargo grado 4, jefe de División de Innovación, en la planta de personal de Directivos de Exclusiva Confianza de la Subsecretaría de Economía y Empresas de Menor Tamaño del Ministerio de Economía, Fomento y Turismo. Establécense los siguientes requisitos para el ingreso y promoción al cargo señalado en el inciso anterior. Alternativamente: i) Título profesional de una carrera de, a lo menos, 10 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocido por éste, o aquellos validados en Chile de acuerdo a la legislación vigente, y acreditar una experiencia profesional mínima de 5 años, o ii) Título profesional de una carrera de, a lo menos, 8 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocido por éste, o aquellos validados en Chile de acuerdo a la legislación vigente, y acreditar una experiencia profesional mínima de 6 años.
-
 Anótese, tómese razón, regístrese, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Norman Bull de la Jara, Ministro de Economía, Fomento y Reconstrucción
 
 (S).- Martín Costabal Llona, Ministro de Hacienda.- Carlos Cáceres C., Ministro del Interior.

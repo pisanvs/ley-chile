@@ -116,11 +116,29 @@ Fiscal Nacional Económico 1º 1
 
 Segundo Nivel Jerárquico
 
-Subfiscal Nacional 3º 1
+Subfiscal Nacional 2º 1
 
-Jefe Departamento 3º 4
+Jefe Departamento 3º 7
 
-> **Nota.** El artículo primero, Nº 2, del DFL 7, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 6, en la Planta de personal de Directivos del Servicio Nacional del Consumidor. NOTA 1: El artículo primero, Nº 3, del DFL 7, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 5, en la Planta de personal de Directivos del Servicio Nacional de Pesca.NOTA 2: El artículo primero, Nº 4, del DFL 7, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 8, en la Planta de personal de Directivos de la Superintendencia de Electricidad y Combustibles.NOTA 3: El artículo primero, Nº 6, del DFL 7, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 7, en la Planta de personal de Directivos de las Direcciones Regionales del Instituto Nacional de Estadísticas.NOTA 4: El artículo primero, Nº 7, del DFL 7, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 7, en la Planta de personal de Directivos Regionales del Servicio Nacional de Turismo. NOTA 5: El artículo primero, Nº 2, del DFL 9, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 8, en la Planta de Directivos del Servicio Nacional del Consumidor.NOTA 6: El artículo primero, Nº 3, del DFL 9, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 5, en la Planta de personal de Directivos del Servicio Nacional de Pesca.NOTA 7: El artículo primero, Nº 4, del DFL 9, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 7, en la Planta de personal de Directivos de la Superintendencia de Electricidad y Combustibles.NOTA 8: El artículo primero, Nº 6, del DFL 9, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 7, en la Planta de personal de Directivos de las Direcciones Regionales del Instituto Nacional de Estadísticas.NOTA 9: El artículo primero, Nº 7, del DFL 9, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 7, en la Planta de personal de Directivos Regional del Servicio Nacional de Turismo.
+> **Nota.** El artículo primero, Nº 2, del DFL 7, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 6, en la Planta de personal de Directivos del Servicio Nacional del Consumidor.
+
+> **Nota.** NOTA 1 El artículo primero, Nº 3, del DFL 7, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 5, en la Planta de personal de Directivos del Servicio Nacional de Pesca.
+
+> **Nota.** NOTA 2 El artículo primero, Nº 4, del DFL 7, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 8, en la Planta de personal de Directivos de la Superintendencia de Electricidad y Combustibles.
+
+> **Nota.** NOTA 3 El artículo primero, Nº 6, del DFL 7, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 7, en la Planta de personal de Directivos de las Direcciones Regionales del Instituto Nacional de Estadísticas.
+
+> **Nota.** NOTA 4 El artículo primero, Nº 7, del DFL 7, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 7, en la Planta de personal de Directivos Regionales del Servicio Nacional de Turismo.
+
+> **Nota.** NOTA 5 El artículo primero, Nº 2, del DFL 9, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 8, en la Planta de Directivos del Servicio Nacional del Consumidor.
+
+> **Nota.** NOTA 6 El artículo primero, Nº 3, del DFL 9, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 5, en la Planta de personal de Directivos del Servicio Nacional de Pesca.
+
+> **Nota.** NOTA 7 El artículo primero, Nº 4, del DFL 9, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 7, en la Planta de personal de Directivos de la Superintendencia de Electricidad y Combustibles.
+
+> **Nota.** NOTA 8 El artículo primero, Nº 6, del DFL 9, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 7, en la Planta de personal de Directivos de las Direcciones Regionales del Instituto Nacional de Estadísticas.
+
+> **Nota.** NOTA 9 El artículo primero, Nº 7, del DFL 9, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 7, en la Planta de personal de Directivos Regional del Servicio Nacional de Turismo.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción.
 

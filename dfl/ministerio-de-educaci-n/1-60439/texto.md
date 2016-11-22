@@ -1602,7 +1602,7 @@ Al menos el 40% de las horas no lectivas estará destinado a las actividades de 
 
 Corresponderá a la Superintendencia de Educación la fiscalización del cumplimiento de lo señalado en el inciso anterior, de conformidad al procedimiento establecido en los artículos 51 y siguientes de la ley N° 20.529.
 
-Las disposiciones de este artículo se aplicarán solamente a los contratos docentes celebrados entre profesionales de la educación y establecimientos educacionales particulares subvencionados.
+Las disposiciones de este artículo no se aplicarán a los contratos docentes celebrados entre profesionales de la educación y establecimientos educacionales particulares pagados.
 
 El personal docente hará uso de su feriado legal de acuerdo a las normas establecidas en el artículo 41 de la presente ley.
 
