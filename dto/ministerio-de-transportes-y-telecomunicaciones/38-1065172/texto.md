@@ -28,6 +28,8 @@ El Programa de Inversiones se orienta principalmente a fortalecer el desarrollo 
 
 Asimismo, este programa de inversiones está enfocado en incentivar el aumento en el transporte de carga, duplicando los volúmenes actuales, junto con desarrollar nuevos proyectos de transporte de servicios de pasajeros suburbano en la zona sur-poniente de la Región Metropolitana.
 
+.
+
 1 Programa de Continuidad y Seguridad Operacional
 
 El Programa de Continuidad y Seguridad Operacional tiene por objetivo resguardar la integridad de la infraestructura de la red ferroviaria de EFE y filiales, asegurando las condiciones necesarias para el desarrollo del transporte ferroviario establecidos en la normativa vigente, garantizando así la seguridad, la confiabilidad y la disponibilidad de canales de circulación para la operación ferroviaria, de esta manera también se fomenta la explotación comercial en el trasporte de carga y de pasajeros por lo que se aseguran las condiciones necesarias para el desarrollo del transporte ferroviario establecido en la normativa vigente.
@@ -818,7 +820,9 @@ El impacto generado por las actuales condiciones de mercado, incidieron en el au
 
 4.4.5 Obras Civiles Adicionales
 
-En la minuta explicativa anexada se describen y enumeran las causas de cada una de las partidas de los ítems que tienen aumentos de costos. Los montos asociados a estos costos se expresan en la Tabla siguiente:
+Estas obras tienen aumentos de costos. Los montos asociados a estos costos se expresan en la Tabla siguiente:
+
+.
 
 4.4.6 "Estación Central y San Bernardo";
 
@@ -872,6 +876,8 @@ Nota 2: En la Tabla "Plan de Inversiones": Subprograma 3.1 hace referencia a lo 
 
 El Plan Trienal de Inversiones se financia mediante Aportes Fiscales, Endeudamiento con 100% Garantía del Estado, Venta de Activos, Convenios provenientes de la Ley Espejo Transantiago y Bonos de Carbono, de acuerdo a la siguiente distribución:
 
+.
+
 Notas:
 
 1. Bono Carbono: EFE puede emitir bonos de carbono al migrar carga del modo rodoviario al modo ferroviario, que presenta menor emisión de carbono por unidad transportada, La empresa contempla transar dichos bonos en el Sistema de Bonos de Contaminación. Este es un proyecto que se encuentra en desarrollo.
@@ -889,6 +895,8 @@ Notas:
 > **Nota.** Las letras h, i, j, k, l y m, del N° 1 del Artículo único del Decreto 289, Transportes, publicado el 30.04.2015, introducen diversas modificaciones al numeral 5.1 "Plan de Inversiones", en la forma que la citada norma indica.
 
 > **Nota.** NOTA 1 Las letras d), e) y f) del N° 1 del Artículo único del Decreto 197, Transportes, publicado el 17.02.2016, introducen modificaciones al numeral 5.1 "Plan de Inversiones", en la forma que la citada norma indica.
+
+> **Nota.** NOTA 2 Las letras c, d, e, f, g, h, i del N° 1, del artículo N° 1 del Decreto 121, Transportes, publicada el 23.11.2016, introducen diversas modificaciones al numeral 5.1 "Plan de Inversiones", en la forma que la citada norma indica.
 
 #### Artículo 2º
 
