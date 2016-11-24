@@ -2768,6 +2768,24 @@ Patrimonio
 
 6. Se considera Patrimonio el valor residual de los activos de una entidad, una vez deducidas todas las obligaciones con terceros.
 
+FORMATO
+
+El Balance General deberá presentarse de acuerdo con el siguiente formato:
+
+.
+
+ESTADO DE RESULTADOS
+
+Concepto
+
+1. El Estado de Resultados, tiene como objetivo mostrar el desempeño de la gestión económico-financiera de una entidad pública, en un período contable determinado. Ello, a través de las variaciones indirectas del patrimonio, esto es, evaluando los elementos reconocidos como ingresos y gastos patrimoniales habituales.
+
+FORMATO
+
+El Estado de Resultados deberá presentarse de acuerdo con el siguiente formato:
+
+.
+
 ESTADO DE SITUACIÓN PRESUPUESTARIA
 
 Concepto
@@ -2795,6 +2813,12 @@ Contenido
 10. El gasto se reconocerá de acuerdo al principio de devengo y la normativa contable y presupuestaria aplicable. Supone el reconocimiento de la obligación presupuestaria, y simultáneamente el de un activo, o de un gasto, o bien la disminución de otro pasivo.
 
 11. El reconocimiento de un gasto como pagado supone la materialización de su desembolso en forma de efectivo o de otros recursos disponibles o en una disminución de un deudor presupuestario.
+
+FORMATO
+
+El Estado de Situación Presupuestaria deberá presentarse de acuerdo con el siguiente formato:
+
+.
 
 ESTADO DE FLUJOS DE EFECTIVO
 
@@ -2880,6 +2904,12 @@ Actividades de financiamiento
 
 . Pagos para reducir la deuda pendiente de un arrendamiento financiero.
 
+FORMATO
+
+El Estado de Flujos de Efectivo deberá presentarse de acuerdo con el siguiente formato:
+
+.
+
 ESTADO DE CAMBIOS EN EL PATRIMONIO NETO
 
 Concepto
@@ -2901,6 +2931,10 @@ Concepto
 . Los efectos de los cambios en la normativa contable y en la corrección de errores.
 
 . El saldo de los resultados acumulados al principio del período y en la fecha del balance, así como los movimientos del mismo durante el período.
+
+FORMATO
+
+.
 
 ESTADOS FINANCIEROS CONSOLIDADOS
 
@@ -4509,3 +4543,7 @@ Vida útil: es el período durante el cual se espera utilizar el activo por la e
 4) Asimismo, las universidades aplicarán, en estas materias, las normas que actualmente se encuentran vigentes para ellas.
 
 5) Las normas contables aprobadas a la fecha mantendrán su validez en cuanto no sean contrarias al texto de la presnete resolución.
+
+> **Nota.** La Resolución 8, Contraloría General, publicada el 26.02.2016 modifica el Capítulo III, Plan de Cuentas para el Sector Público de la presente norma, en lo términos que la citada Resolución indica.
+
+> **Nota.** NOTA 1 La Resolución 62, Contraloría General, publicada el 24.11.2016 modifica el Capítulo III, Plan de Cuentas para el Sector Público de la presente norma, en lo términos que la citada Resolución indica.
