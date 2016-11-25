@@ -42,7 +42,7 @@ Si al concluir la construcción del monumento resultaren excedentes de las eroga
 
 #### Artículo 7°
 
-El monumento deberá erigirse en el plazo de tres años, contado desde la publicación de la presente ley. Vencido dicho plazo sin que se hubiere ejecutado la obra, los recursos obtenidos hasta esa fecha por concepto de erogaciones serán aplicados a los objetivos de beneficencia que la Comisión establezca.".
+El monumento deberá erigirse en el plazo de diez años, contado desde la publicación de la presente ley. Vencido dicho plazo sin que se hubiere ejecutado la obra, los recursos obtenidos hasta esa fecha por concepto de erogaciones serán aplicados a los objetivos de beneficencia que la Comisión establezca.".
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
