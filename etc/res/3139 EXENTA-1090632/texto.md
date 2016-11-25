@@ -58,6 +58,8 @@ No obstante lo anterior, si las condiciones presupuestarias lo permiten, de exis
 
 4.1.2 Excepcionalmente, a los postulantes que pertenezcan al 60% más vulnerable o con menores ingresos de la población y que tengan 60 o más años de edad, él o su cónyuge o conviviente civil o conviviente, considerando los que cumplen 60 años durante el año calendario de la postulación, les será exigible un ahorro mínimo equivalente a 1 Unidad de Fomento. En estos casos, el monto base de subsidio a que se refiere el punto 4.2.1 de la presente resolución, se incrementará en 2 Unidades de Fomento.
 
+4.1.3 Las familias del tramo entre el 60% y el 70% según la Caracterización Socioeconómica que requieran aplicar el Incremento por Complejidad Técnica, deberán aportar un ahorro de 6 UF.
+
 Esta misma condición aplicará cuando el postulante o su cónyuge o su conviviente civil, cuenten con algún tipo de discapacidad.
 
 4.2 De los montos de subsidio
@@ -72,13 +74,13 @@ Esta misma condición aplicará cuando el postulante o su cónyuge o su convivie
 
 - Al Incremento por Regularización que se indica en la tabla precedente.
 
-**Al monto de subsidio de regularización se le podrán adicionar hasta 50 UF en casos de viviendas que no tengan ningún recinto con recepción final.
+** Al monto de subsidio de regularización se le podrán adicionar hasta 50 UF en casos de viviendas que no tengan ningún recinto con recepción final.
 
 4.2.2 Para efectos de una correcta interpretación de la tabla precedente, deberán tenerse en consideración las definiciones que a continuación se indican:
 
 . Subsidio Base: Corresponde al monto de subsidio mínimo que se otorgará por cada beneficiario según la región a la que pertenezca.
 
-. Incremento por Complejidad Técnica para Familias Vulnerables: Corresponde a un monto de subsidio máximo, adicional al subsidio base, al que podrá optar el postulante cuando el costo del proyecto supere el monto de subsidio base y cuando el postulante pertenezca al 60% más vulnerable o de menores ingresos de la población.
+. Incremento por Complejidad Técnica: Corresponde a un monto de subsidio máximo, adicional al subsidio base, al que podrán optar los postulantes que pertenezcan hasta el tramo del 70% de Caracterización Socioeconómica, en los casos en que el costo del proyecto supere el monto de subsidio base. Este subsidio adicional será diferenciado según el tramo Caracterización Socioeconómica al que pertenezca la familia.
 
 . Incremento por Regularización: Corresponde a un monto de subsidio máximo, adicional al subsidio base y al incremento por Complejidad Técnica, al que podrá optar el postulante cuando la vivienda requiera la realización de partidas que en forma simultánea a la ejecución del subsidio, permitan que la vivienda pueda optar a la obtención de la recepción municipal definitiva.
 
@@ -116,11 +118,11 @@ b) Las familias que no postularon en los años señalados precedentemente, se le
 
 5.2 De las Viviendas Objeto del llamado:
 
-5.2.1. Para efectos del presente llamado, se considerarán como viviendas objeto del Programa todos aquellos inmuebles cuyo destino sea habitacional, que estén emplazados en las comunas a que se refiere la Tabla inserta en el resuelvo 3 de la presente resolución, y que fueron construidos antes del año 2007.
+5.2.1. Para efectos del presente llamado, se considerarán como viviendas objeto del programa todos aquellos inmuebles cuyo destino sea habitacional, estén emplazados en las comunas a que se refiere la Tabla inserta en el resuelvo 3 de la presente resolución, y que hayan obtenido su Permiso de Edificación hasta el 31 de diciembre del año 2007, inclusive.
 
-Además, podrán postular viviendas que hayan obtenido su recepción definitiva posteriormente, ya sea porque obtuvieron su permiso de edificación previo a la entrada en vigencia de la norma térmica y fueron recepcionadas con fecha posterior, o porque mediante la aplicación de alguna de las leyes de regularización o por error en el otorgamiento de dicho permiso, hubieran recibido su recepción final sin haberles exigido cumplir con la actual norma térmica. Estas viviendas deberán contar con un informe técnico, validado por el Serviu respectivo, que acredite que es necesaria la incorporación de partidas adicionales a las existentes para el cumplimiento de los estándares definidos en esta resolución.
+Además, se considerarán viviendas objeto del programa las que hayan obtenido su Permiso de Edificación y Recepción con posterioridad a esa fecha, ya sea porque obtuvieron su Permiso de Edificación previo a la entrada en vigencia de la norma térmica y fueron recepcionadas con fecha posterior, o porque mediante la aplicación de alguna de las leyes de regularización o por error involuntario en el otorgamiento de dicho permiso, hubieran recibido la Recepción Final sin haberles exigido cumplir con el artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones. Estas viviendas deberán contar con un informe técnico, validado por el Serviu respectivo, que acredite que es necesaria la incorporación de partidas adicionales a las existentes para el cumplimiento de los estándares definidos en esta resolución. Por último, también se entenderá como viviendas objeto del programa las viviendas de autoconstrucción que no tengan ni permiso ni recepción, pero que dentro de las gestiones de aplicación del subsidio lo obtengan.
 
-Se excluyen de la definición anterior los Condominios de Viviendas Sociales objeto del Llamado a que se refiere la resolución exenta N° 1.290 (V. y U.), de 2016.
+Se excluyen de la definición anterior, los Condominios de Viviendas Tipo A.
 
 5.2.2 Las viviendas deberán contar con permiso de edificación y recepción definitiva otorgada por la Dirección de Obras correspondiente.
 
