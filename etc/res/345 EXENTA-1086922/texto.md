@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 30 de julio de 2016 y hasta el 31 de octubre de 2016, por Av. Vicuña Mackenna en los tramos que se indican en el siguiente cuadro:
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 30 de julio de 2016 y hasta el 30 de noviembre de 2016, por Av. Vicuña Mackenna en los tramos que se indican en el siguiente cuadro:
 
 .
 
