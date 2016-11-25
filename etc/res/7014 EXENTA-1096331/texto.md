@@ -24,11 +24,13 @@ Resolución:
 
 .
 
-2. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado nacional dispuesto en el número 1 de la resolución exenta Nº 450, de este Ministerio, del programa de Subsidio de Arriendo de Vivienda, es de 140.250 Unidades de Fomento y el remanente para los siguientes seleccionados, es de 259.250 Unidades de Fomento, conforme lo indica en la siguiente tabla:
+2. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado nacional dispuesto en el número 1 de la resolución exenta Nº 450, de este Ministerio, del programa de Subsidio de Arriendo de Vivienda, es de 140.250 Unidades de Fomento y el remanente para los siguientes seleccionados, es de 259.420 Unidades de Fomento, conforme lo indica en la siguiente tabla:
 
 .
 
 3. Publíquese en un periódico de circulación nacional y en el sitio web de este Ministerio, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados conforme al número 1 de esta resolución, las que deberán contener a lo menos el puntaje y el nombre de cada postulante beneficiado con su respectiva Cédula de Identidad y exhíbanse dichas nóminas en las oficinas de los Serviu.
+
+> **Nota.** El numeral 3.1.1 del número 3 de la Resolución 7433 Exenta, Vivienda, publicada el 25.11.2016, modifica el cuadro inserto en el numeral 2 de la presente norma, en el sentido de sustituir en la fila correspondiente al Saldo UF a asignar el número "259.250" por "259.420".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
