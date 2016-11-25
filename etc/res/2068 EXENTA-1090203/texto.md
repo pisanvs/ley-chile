@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, entre el kilómetro 5,2 y el 8,1, de la Ruta N° 77, Acceso Nororiente a Santiago (Autopista Nororiente), desde el 2 de mayo de 2016 al 27 de junio de 2017, en horarios de 10:00 a 11:00 hrs. y 16:00 a 17:00 hrs.
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, entre kilómetro 5,2 y 8,2 de Ruta N° 77, Acceso Nororiente a Santiago (Autopista Nororiente), desde 2 de mayo de 2016 al 27 de junio de 2017, en horarios de 10:00 a 10:30 hrs.; 16:00 a 16:30 hrs. y, 20:30 a 21:00 hrs.
 
 2.- Podrán ingresar excepcionalmente en el tramo señalado, los vehículos de emergencia y los destinados a cumplir funciones en las obras relacionadas con el proyecto "Construcción Túnel Chamisero II".
 
