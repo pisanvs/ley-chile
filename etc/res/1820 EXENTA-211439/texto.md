@@ -892,7 +892,7 @@ Las postulaciones válidamente ingresadas al 25º Llamado del Programa de Pavime
 
 <!-- parte:9739042 -->
 
-Durante el año 2016 la fecha de cierre en los Servicios de Vivienda y Urbanización para recepción de postulaciones que participan del proceso de selección de proyectos para su visación técnica será el día 21 octubre, y la fecha de cierre para recepción de postulaciones en las Secretaría Regionales Ministeriales de Vivienda y Urbanismo será el día 21 de noviembre.
+Durante el año 2016 la fecha de cierre en los Servicios de Vivienda y Urbanización para recepción de postulaciones que participan del proceso de selección de proyectos para su visación técnica será el día 21 octubre, y la fecha de cierre para recepción de postulaciones en las Secretaría Regionales Ministeriales de Vivienda y Urbanismo será el día 7 de diciembre.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
