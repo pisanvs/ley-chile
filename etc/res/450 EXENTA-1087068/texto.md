@@ -20,11 +20,9 @@ Las personas que postulen como titulares vía internet a través de los medios e
 
 2. Se realizarán selecciones el último día hábil de cada mes, con las familias que hubieren efectuado válidamente su postulación en las fechas indicadas en el número precedente. Las familias que no sean consideradas en una selección, continuarán postulando y serán contempladas en la siguiente.
 
-3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.936.810 Unidades de Fomento.
+3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.734.000 Unidades de Fomento.
 
 4. La cantidad de familias a seleccionar se distribuirá regionalmente según el cuadro que se presenta a continuación:
-
-.
 
 5. El monto mensual de la renta de arrendamiento que se podrá acordar en los contratos que se celebren por los beneficiarios del presente llamado en todo el país, no podrá superar las 8,6 Unidades de Fomento, según el valor que tenga ésta a la fecha de la suscripción del contrato, a excepción de los contratos que se celebren en las comunas de Arica, Iquique, Antofagasta, Calama, Copiapó, Coyhaique, Aysén y Punta Arenas, en que el monto de la renta de arrendamiento podrá ser de hasta 10 Unidades de Fomento.
 
