@@ -44,7 +44,11 @@ Resolución:
 
 4.3.2. En caso de postulantes que se encuentren dentro del 60% más vulnerable del Registro Social de Hogares, de contar con ingresos cuyo monto cumpla con las exigencias establecidas en la resolución exenta a que se refiere el artículo 7º.
 
-4.3.3. De los montos y límites en el valor del subsidio establecidos en el artículo 5º. 4.3.4. Del plazo para postular al Programa Fondo Solidario de Elección de Vivienda dispuesto en el artículo 54.
+4.3.3. De los montos y límites en el valor del subsidio establecidos en el artículo 5º.
+
+4.3.4. Del plazo para postular al Programa Fondo Solidario de Elección de Vivienda dispuesto en el artículo 54.
+
+4.3.5. De la prohibición relativa a estar postulando a otro programa habitacional, respecto del Programa Fondo Solidario de Elección de Vivienda, establecida en la letra g. del Artículo 21.
 
 5. El valor máximo del subsidio que obtendrán los postulantes seleccionados en el presente llamado, será de 192 Unidades de Fomento, el que se pagará en montos mensuales de hasta 8 Unidades de Fomento. Además, el valor mensual del subsidio podrá coincidir con el monto de la renta acordada.
 
