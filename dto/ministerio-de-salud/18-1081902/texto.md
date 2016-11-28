@@ -502,7 +502,7 @@ Disposiciones Transitorias
 
 #### Artículo 1º
 
-Los establecimientos de radioterapia en funcionamiento que a la entrada en vigencia del presente reglamento no cumplan con todas las condiciones que en él se establecen, tendrán el plazo de 6 meses contados desde esa fecha para satisfacer tales requerimientos.
+Los establecimientos de radioterapia en funcionamiento que a la entrada en vigencia del presente reglamento no cumplan con todas las condiciones que en él se establecen, tendrán el plazo de 24 meses contados desde esa fecha para satisfacer tales requerimientos.
 
 #### Artículo 2º
 
