@@ -10,7 +10,7 @@ Apruébase el siguiente Reglamento Sanitario de los Alimentos:
 
 #### Artículo 1
 
-Este reglamento establece las condiciones sanitarias a que deberá ceñirse la producción, importación, elaboración, envase, almacenamiento, distribución y venta de alimentos para uso humano, con el objeto de proteger la salud y nutrición de la población y garantizar el suministro de productos sanos e inocuos.
+Este reglamento establece las condiciones sanitarias a que deberá ceñirse la producción, importación, elaboración, envase, almacenamiento, distribución y venta de alimentos para uso humano, así como las condiciones en que deberá efectuarse la publicidad de los mismos, con el objeto de proteger la salud y nutrición de la población y garantizar el suministro de productos sanos e inocuos.
 
 Este reglamento se aplica igualmente a todas las personas, naturales o jurídicas, que se relacionen o intervengan en los procesos aludidos anteriormente, así como a los establecimientos, medios de transporte y distribución destinados a dichos fines.
 
@@ -4740,7 +4740,7 @@ Sal comestible es el cloruro de sodio proveniente de depósitos geológicos, de 
 
 #### Artículo 436
 
-La sal comestible sea cristalizada o molida, deberá ser de color blanca, inodora y contener un mínimo de 97% de cloruro de sodio en base seca.
+La sal comestible, sin otra denominación, sea cristalizada o molida, deberá contener un mínimo de 97% de cloruro de sodio en base seca, con exclusión de los aditivos.
 
 #### Artículo 437
 
