@@ -182,7 +182,31 @@ Los procedimientos a que se refiere este numeral deberán ser concordados con lo
 
 9.- Organizar, bajo su dependencia y apoyar el funcionamiento de la Comisión de Medicina Preventiva e Invalidez.
 
-10.- Las demás que establezcan las leyes y reglamentos.
+10.- Otorgar apostillas en
+
+conformidad a lo establecido en la
+
+Convención de La Haya que Suprime
+
+la Exigencia de Legalización de
+
+Documentos Públicos Extranjeros,
+
+en los documentos en que consten
+
+las firmas de las autoridades del
+
+Ministerio de Salud o de algún
+
+profesional del área de la salud
+
+que acredite el estado de salud
+
+de una persona o le prescriba
+
+algún tratamiento o medicación.
+
+11.- Las demás que establezcan las leyes y reglamentos.
 
 #### Artículo 13
 
@@ -368,13 +392,15 @@ Sin perjuicio de lo dispuesto en esta letra, el Director podrá designar en comi
 
 p) Celebrar convenios de gestión con las respectivas entidades administradoras de salud municipal, o con establecimientos de atención primaria, que tengan por objeto, entre otros, asignar recursos asociados al cumplimiento de metas sanitarias, aumento de la resolutividad de sus establecimientos y mejoramiento de los niveles de satisfacción del usuario. Los referidos convenios deberán contemplar, en general, los objetivos y metas, prestaciones y establecimientos de atención primaria involucrados, así como las actividades a realizar, indicadores, medios de verificación y las medidas que se adoptarán en caso de incumplimiento de las obligaciones contraídas.
 
-Los convenios de gestión deberán aprobarse por resolución fundada del Director del Servicio, en la que se consignarán los antecedentes que justifiquen su celebración y los criterios utilizados para elegir a los establecimientos participantes. Losconvenios podrán extenderse a otros establecimientos municipales de atención primaria que lo soliciten, siempre que exista disponibilidad presupuestaria para esos fines y que se presenten antecedentes que lo justifiquen desde los puntos de vista económico y sanitario;
+Los convenios de gestión deberán aprobarse por resolución fundada del Director del Servicio, en la que se consignarán los antecedentes que justifiquen su celebración y los criterios utilizados para elegir a los establecimientos participantes. Los convenios podrán extenderse a otros establecimientos municipales de atención primaria que lo soliciten, siempre que exista disponibilidad presupuestaria para esos fines y que se presenten antecedentes que lo justifiquen desde los puntos de vista económico y sanitario;
 
 q) Evaluar el cumplimiento de las normas técnicas, planes y programas que imparta el Ministerio de Salud a los establecimientos de atención primaria de salud, y el cumplimiento de las metas fijadas a dichos establecimientos en virtud de los convenios celebrados conforme a la letra anterior y al artículo 57 de la ley Nº 19.378. Si el Director del Servicio verificara un incumplimiento grave de las obligaciones señaladas anteriormente, podrá representar tal circunstancia al alcalde respectivo. Asimismo, dicha comunicación será remitida al Intendente Regional, para los efectos de lo dispuesto en el artículo 9º de la ley N° 18.695, Ley Orgánica Constitucional de Municipalidades, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 1-19.704, de 2001, del Ministerio del Interior;
 
-r) Elaborar el presupuesto de la Red Asistencial de Salud a su cargo y formular las consideraciones y observaciones que le merezcan los presupuestos de los hospitales autogestionados, y
+r) Elaborar el presupuesto de la Red Asistencial de Salud a su cargo y formular las consideraciones y observaciones que le merezcan los presupuestos de los hospitales autogestionados;
 
-s) Desempeñar las demás funciones y atribuciones que le asignen las leyes y reglamentos.
+s) Otorgar apostillas en conformidad a lo establecido en la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros, en los documentos en que consten las firmas de las autoridades del Ministerio de Salud o de algún profesional del área de la salud que acredite el estado de salud de una persona o le prescriba algún tratamiento o medicación, y
+
+t) Desempeñar las demás funciones y atribuciones que le asignen las leyes y reglamentos.
 
 #### Artículo 24
 
@@ -1474,7 +1500,7 @@ funcionaria
 
 #### Artículo 102
 
-La promoción de los funcionarios de las plantas de técnicos, administrativos y auxiliares de las Subsecretarías del Ministerio de Salud; del Instituto de Salud Pública de Chile; de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud y de los Servicios de Salud señalados en el artículo 16 de este cuerpo legal, regidos por la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, y el decreto ley Nº 249, de 1974, se efectuará mediante un procedimiento de acreditación de competencias, en el cual se evaluará la capacitación, la experiencia calificada y la calificación obtenida por el personal en el período objeto de acreditación, con una ponderación de 33%, 33% y 34%, respectivamente.
+La promoción de los funcionarios de las plantas de técnicos, administrativos y auxiliares de las Subsecretarías del Ministerio de Salud; del Instituto de Salud Pública de Chile; de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud y de los Servicios de Salud señalados en el artículo 16 de este cuerpo legal, regidos por la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, y el decreto ley Nº 249, de 1974, se efectuará mediante un procedimiento de acreditación de competencias, en el cual se evaluará la capacitación, la experiencia calificada y la calificación obtenida por el personal en el período objeto de acreditación, con una ponderación de 30%, 40% y 30%, respectivamente.
 
 Los funcionarios deberán someterse anualmente al sistema de acreditación de competencias en el cargo que sirvan.
 
@@ -1862,9 +1888,31 @@ Para la aplicación de estas sanciones la Superintendencia se sujetará a lo est
 
 Para efectos de dar cumplimiento a lo señalado en este numeral, la Superintendencia deberá implementar un sistema de atención continuo y expedito para recibir y resolver los reclamos que sobre esta materia se formulen.
 
-12. Imponer las sanciones que corresponda, en conformidad a la ley, y
+12. Imponer las sanciones que corresponda, en conformidad a la ley.
 
-13. Realizar las demás funciones que la ley y los reglamentos le asignen.
+13. Otorgar apostillas en conformidad
+
+a lo establecido en la Convención de La
+
+Haya que Suprime la Exigencia de
+
+Legalización de Documentos Públicos
+
+Extranjeros, en los documentos en que
+
+consten las firmas de las autoridades
+
+del Ministerio de Salud o de algún
+
+profesional del área de la salud que
+
+acredite el estado de salud de una
+
+persona o le prescriba algún
+
+tratamiento o medicación, y
+
+14. Realizar las demás funciones que la ley y los reglamentos le asignen.
 
 Los instrumentos regulatorios utilizados en la labor de fiscalización, por parte de la Superintendencia, serán iguales para los establecimientos públicos y privados, de acuerdo a la normativa vigente.
 
