@@ -1,6 +1,6 @@
 OTORGA CONCESIÓN DE ACUICULTURA
 
-1.- Resolución 3.305, del 23 de diciembre de 2016, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se otorgó a Hidrocultivos S.A., sociedad chilena, RUT. 79.732.410-8, con domicilio en Wheelwright 905, Caldera, concesión de acuicultura de porción de agua y fondo de mar, requerida mediante solicitud 207031014, del 5 de junio de 2007, ubicada en Bahía Inglesa, al Sureste de Punta Fernández, comuna de Caldera, provincia de Copiapó, III Región de Atacama, individualizada en la ubicación señalada en los planos 110-2015-AC., y 111-2015-Ac., visados por la Autoridad Marítima de Caldera.
+1.- Resolución 3.305, del 23 de diciembre de 2015, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se otorgó a Hidrocultivos S.A., sociedad chilena, RUT. 79.732.410-8, con domicilio en Wheelwright 905, Caldera, concesión de acuicultura de porción de agua y fondo de mar, requerida mediante solicitud 207031014, del 5 de junio de 2007, ubicada en Bahía Inglesa, al Sureste de Punta Fernández, comuna de Caldera, provincia de Copiapó, III Región de Atacama, individualizada en la ubicación señalada en los planos 110-2015-AC., y 111-2015-Ac., visados por la Autoridad Marítima de Caldera.
 
 2.- Superficie de -20,78 hectáreas y está delimitado por las siguientes coordenadas geográficas:
 
