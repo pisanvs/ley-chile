@@ -76,6 +76,12 @@ adicionales
 
 (Avena sativa) Canadá
 
+Bixa orellana) Perú Sin declaraciones
+
+(Bixa adicionales
+
+orellana)
+
 Cacao Cualquier
 
 origen Sin declaraciones
@@ -202,6 +208,14 @@ Maíz Paraguay La partida se encuentra libre de
 
 (Coleóptera: Silvanidae)
 
+Maíz
+
+Zea
+
+mays) Uruguay Sin declaraciones
+
+adicionales
+
 Maní Argentina Sin declaraciones
 
 adicionales
@@ -318,15 +332,21 @@ adicionales
 
 Pimienta Cualquier origen Sin declaraciones
 
-adicionales
+(Piper adicionales
 
-(Piper nigrum)
+nigrum)
 
 Quinoa Bolivia, Perú Sin declaraciones
 
-adicionales
+(Chenopodium adicionales
 
-(Chenopodium quinoa)
+quinoa)
+
+Quínoa Ecuador Sin declaraciones
+
+(Chenopodium adicionales
+
+quinoa)
 
 Schinus Cualquier Sin declaraciones
 
