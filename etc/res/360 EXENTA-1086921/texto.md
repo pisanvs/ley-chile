@@ -26,7 +26,7 @@ b) Que de acuerdo al catastro realizado en la región señalada en el consideran
 
 Resolución:
 
-1. Llámese a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el 30 de noviembre del presente año o hasta que se agoten los recursos, o antes si se agotan los recursos disponibles para la región, a postulación extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar en su Título II, destinados a la atención de familias damnificadas de la Región de Coquimbo, conforme a las disposiciones del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, en los siguientes tipos de subsidios:
+1. Llámese a partir de la fecha de publicación en el Diario Oficial de la presente resolución y hasta el día 16 de diciembre del presente año o hasta que se agoten los recursos, o antes si se agotan los recursos disponibles para la región, a postulación extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar en su Título II, destinados a la atención de familias damnificadas de la Región de Coquimbo, conforme a las disposiciones del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, en los siguientes tipos de subsidios:
 
 - Título II, Mejoramiento de la Vivienda.
 
