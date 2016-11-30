@@ -602,29 +602,17 @@ ELIMINADO
 
 185,080 Simón Bolívar Línea Yungay/Puerto
 
-0,182 San Pedro R. San Pedro/
+0,182 San Pedro R. San Pedro/Ventanas
 
-Ventanas
+1,040 Troncal R. San Pedro/Ventanas
 
-1,040 Troncal R. San Pedro/
+2,170 Morandé R. Llay Llay/Los Andes
 
-Ventanas
+26,760 Nuevo Palomar R. Llay Llay/Los Andes
 
-2,170 Morandé R. Llay Llay/
+43,704 El Laberinto Ramal Llay Llay- Los Andes
 
-Los Andes
-
-26,760 Nuevo Palomar R. Llay Llay/
-
-Los Andes
-
-43,704 El Laberinto Ramal Llay Llay-
-
-Los Andes
-
-5,560 El Sauce R. Los Andes/Río
-
-Blanco
+5,560 El Sauce R. Los Andes/Río Blanco
 
 3,380 ELIMINADO
 
@@ -642,77 +630,41 @@ Blanco
 
 7,613 ELIMINADO
 
-2,466 B. del Mercado R. Alameda/
+2,466 B. del Mercado R. Alameda/Barrancas
 
-Barrancas
+9,390 La Capilla R. Alameda/Barrancas
 
-9,390 La Capilla R. Alameda/
+11,800 Pajaritos R. Alameda/Barrancas
 
-Barrancas
+18,950 Valparaíso R. Alameda/Barrancas
 
-11,800 Pajaritos R. Alameda/
+19,640 Sta. Cruz R. Alameda/Barrancas
 
-Barrancas
+24,100 Miraflores R. Alameda/Barrancas
 
-18,950 Valparaíso R. Alameda/
+33,300 Peñaflor R. Alameda/Barrancas
 
-Barrancas
+34,200 Eyzaguirre R. Alameda/Barrancas
 
-19,640 Sta. Cruz R. Alameda/
+39,600 Los Carreras R. Alameda/Barrancas
 
-Barrancas
+45,086 El Paico R. Alameda/Barrancas
 
-24,100 Miraflores R. Alameda/
+56,015 Pomaire R. Alameda/Barrancas
 
-Barrancas
+61,200 Los Cruceros R. Alameda/Barrancas
 
-33,300 Peñaflor R. Alameda/
+89,200 San Juan R. Alameda/Barrancas
 
-Barrancas
+109,000 La Barraca R. Alameda/Barrancas
 
-34,200 Eyzaguirre R. Alameda/
+110,000 Juan Aspee R. Alameda/Barrancas
 
-Barrancas
+112,000 Gobernación R. Alameda/Barrancas
 
-39,600 Los Carreras R. Alameda/
+24,810 O'Higgins R. Paine/Talagante
 
-Barrancas
-
-45,086 El Paico R. Alameda/
-
-Barrancas
-
-56,015 Pomaire R. Alameda/
-
-Barrancas
-
-61,200 Los Cruceros R. Alameda/
-
-Barrancas
-
-89,200 San Juan R. Alameda/
-
-Barrancas
-
-109,000 La Barraca R. Alameda/
-
-Barrancas
-
-110,000 Juan Aspee R. Alameda/
-
-Barrancas
-
-112,000 Gobernación R. Alameda/
-
-Barrancas
-
-24,810 O'Higgins R. Paine/
-
-Talagante
-
-99,038 Sin Nombre R. Rucapequén/
-
-Concepción
+99,038 Eliminado
 
 127,650 Paicaví R. Rucapequén/
 
@@ -738,15 +690,13 @@ Concepción
 
 Concepción
 
-34,100 Sin Nombre Ramal San Rosendo/
+34,100 Sin Nombre Ramal San
 
-Talcahuano
+Rosendo/Talcahuano
 
 39,065 Cruce Nº1 Ramal San Rosendo-
 
-Talcahuano
-
-Variante
+Variante Talcahuano
 
 Hualqui -
 
@@ -754,9 +704,7 @@ Quilacoya
 
 41,625 Cruce Nº2 Ramal San Rosendo-
 
-Talcahuano
-
-Variante
+Variante Talcahuano
 
 Hualqui -
 
@@ -814,13 +762,11 @@ Traiguén/Púa
 
 0,200 Los Sauces
 
-Guadaba Ramal Los
+Guadaba Ramal Los Sauces/
 
-Sauces/Lebu
+Lebu
 
-2,821 Panamericana Ramal Temuco/
-
-Carahue
+2,821 Panamericana Ramal Temuco/Carahue
 
 24,635 Circunvalación Ramal Antilhue/
 
@@ -1308,9 +1254,9 @@ Montt L.C.S.
 
 38,925 Viña del Mar San Pedro/Ventanas
 
-39,150 Estrella San Pedro/Ventanas
+39,150 Estrella
 
-de Chile
+de Chile San Pedro/Ventanas
 
 6,914 Chagres Ramal Llay Llay/
 
@@ -1390,33 +1336,19 @@ Río Blanco
 
 108,200 Llolleo Ramal a Barrancas
 
-4,350 Victoria Ramal Paine/
+4,350 Victoria Ramal Paine/Talagante
 
-Talagante
+5,950 Viluco Ramal Paine/Talagante
 
-5,950 Viluco Ramal Paine/
+8,010 Campusano Ramal Paine/Talagante
 
-Talagante
+9,110 Estancillla Ramal Paine/Talagante
 
-8,010 Campusano Ramal Paine/
+15,650 Sin Nombre Ramal Paine/Talagante
 
-Talagante
+15,860 Sin Nombre Ramal Paine/Talagante
 
-9,110 Estancillla Ramal Paine/
-
-Talagante
-
-15,650 Sin Nombre Ramal Paine/
-
-Talagante
-
-15,860 Sin Nombre Ramal Paine/
-
-Talagante
-
-19,460 Sin Nombre Ramal Paine/
-
-Talagante
+19,460 Sin Nombre Ramal Paine/Talagante
 
 0,240 Centinela Ramal a Pichilemu
 
@@ -1520,81 +1452,43 @@ Concepción
 
 Concepción
 
-28,370 Ñipas R. Rucapequén/
+28,370 ELIMINADO
 
-Concepción
+38,570 ELIMINADO
 
-38,570 Sin Nombre R. Rucapequén/
+48,825 ELIMINADO
 
-Concepción
+49,340 ELIMINADO
 
-48,825 Coelemu Oriente R. Rucapequén/
+50,943 ELIMINADO
 
-Concepción
+53,547 ELIMINADO
 
-49,340 Coelemu R. Rucapequén/
+59,910 ELIMINADO
 
-Poniente Concepción
+62,290 ELIMINADO
 
-50,943 Sin Nombre R. Rucapequén/
+97,882 ELIMINADO
 
-Concepción
+68,110 ELIMINADO
 
-53,547 Sin Nombre R. Rucapequén/
+73,890 ELIMINADO
 
-Concepción
+80,047 ELIMINADO
 
-59,910 Sin Nombre R. Rucapequén/
+80,705 ELIMINADO
 
-Concepción
+86,047 ELIMINADO
 
-62,290 Ranguelmo R. Rucapequén/
+88,968 ELIMINADO
 
-Concepción
+89,360 ELIMINADO
 
-97,882 Sin Nombre R. Rucapequén/
+93,090 ELIMINADO
 
-Concepción
+95,815 ELIMINADO
 
-68,110 Sin Nombre R. Rucapequén/
-
-Concepción
-
-73,890 Sin Nombre R. Rucapequén/
-
-Concepción
-
-80,047 Menque R. Rucapequén/
-
-Concepción
-
-80,705 Dichato R. Rucapequén/
-
-Concepción
-
-86,047 Sin Nombre R. Rucapequén/
-
-Concepción
-
-88,968 Dichato R. Rucapequén/
-
-Concepción
-
-89,360 Dichato Oriente R. Rucapequén/
-
-Concepción
-
-93,090 Sin Nombre R. Rucapequén/
-
-Concepción
-
-95,815 Sin Nombre R. Rucapequén/
-
-Concepción
-
-99,300 Sin Nombre R. Rucapequén/
-
-Concepción
+99,300 ELIMINADO
 
 112,130 Sin Nombre R. Rucapequén/
 
@@ -1722,11 +1616,11 @@ Coronel Curanilagüe
 
 28,151 Sin Nombre R. Concepción/
 
-28,302 Escuadrón Curanilagüe
-
-Coronel R. Concepción/
-
 Curanilagüe
+
+28,302 Escuadrón R. Concepción/
+
+Coronel Curanilagüe
 
 28,750 Coronel/Lota R. Concepción/
 
@@ -2066,23 +1960,41 @@ Oriente Ramal a Panguipulli
 
 52,897 Panguipulli Ramal a Panguipulli
 
-0,480 Antilhue Ramal Antilhue/Valdivia
+0,480 Antilhue Ramal Antilhue/
 
-1,193 Circ. Antilhue Ramal Antilhue/Valdivia
+Valdivia
 
-4,210 Sin Nombre Ramal Antilhue/Valdivia
+1,193 Circ. Antilhue Ramal Antilhue/
 
-5,230 Chincuín Ramal Antilhue - Valdivia
+Valdivia
 
-9,635 Pishuinco Ramal Antilhue/Valdivia
+4,210 Sin Nombre Ramal Antilhue/
 
-16,180 Huellelhue Ramal Antilhue/Valdivia
+Valdivia
 
-22,665 Sin Nombre Ramal Antilhue/Valdivia
+5,230 Chincuín Ramal Antilhue -
 
-25,820 Sin Nombre Ramal Antilhue/Valdivia
+Valdivia
 
-27,787 Valdivia Ramal Antilhue/Valdivia
+9,635 Pishuinco Ramal Antilhue/
+
+Valdivia
+
+16,180 Huellelhue Ramal Antilhue/
+
+Valdivia
+
+22,665 Sin Nombre Ramal Antilhue/
+
+Valdivia
+
+25,820 Sin Nombre Ramal Antilhue/
+
+Valdivia
+
+27,787 Valdivia Ramal Antilhue/
+
+Valdivia
 
 ELIMINADO
 
