@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 4.030 del 17/11/2016, Serviu Región del Biobío ordenó expropiación total del inmueble ubicado en LT 6 Ejército de Chile, Rol de Avalúo 00247-00001, comuna de Chillán, de aparente dominio de Inmobiliaria Nueva Vía S.A. La superficie afecta a expropiación total de terreno es de 16.566,0 m2 y 0,00 m2 de edificación, cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A del plano S8R-33773, son los siguientes: Norte: Tramo AB en 132,0 m con Rol 247-2. Oriente: Tramo BC en 125,5 m con calle Italia; Sur: Tramo CD en 132,0 m con calle Santa Rosa. Poniente: Tramo DA en 125,5 m con calle Ejército Chileno. Conforme artículo 51 ley 16.391 y DL 2.186. Comisión de Peritos integrada por el constructor civil don Fernando Iván Cerda Espinosa, el constructor civil don Héctor Alejandro Peña Ríos, y por la arquitecto doña Daniela Andrea Cortez Moraga, que fijó el monto de la indemnización provisional por la expropiación total, en la suma de $370.429.744.-, más reajuste del art. 5º del DL 2.186, de 1978, correspondiente a un 0,4%, lo que completa la suma de $371.948.736.-
+
+Directora Serviu Región del Biobío.
