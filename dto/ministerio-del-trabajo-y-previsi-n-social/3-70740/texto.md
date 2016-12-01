@@ -28,7 +28,7 @@ La administración del Servicio corresponderá al Consejo Administrativo integra
 
 a.) El Intendente Regional, en su calidad de Jefe Superior del Servicio Administrativo del Gobierno Regional, o la persona que éste designe en su reemplazo, quien lo presidirá;
 
-b.) El Jefe del Departamento de Presupuesto;
+b.) Un representante institucional del Servicio Administrativo del Gobierno Regional.
 
 c.) Dos representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda de acuerdo con lo dispuesto en el inciso tercero del artículo 18 del Reglamento General.
 
@@ -51,6 +51,8 @@ Los representantes titulares y suplentes de los afiliados en el Consejo Administ
 El Consejo Administrativo sesionará ordinariamente cada tres meses, en el día y hora que fijen sus miembros en la primera sesión del año y se citará por escrito por el Jefe del Servicio.
 
 Sesionará extraordinariamente cuando proceda en conformidad al artículo 23 del Reglamento General, y le será aplicable la misma forma de citación indicada en el inciso precedente.
+
+Por cada sesión el o la Secretario/a del Consejo emitirá un acta con los temas tratados y principales acuerdos, señalando expresamente la fecha de la próxima reunión y llevará un libro de correspondencia en la cual se registrará la entrega del acta a cada miembro del Consejo. Las actas serán aprobadas por mayoría en la sesión siguiente.
 
 ## Título III
 
@@ -76,9 +78,9 @@ g.) Con los demás bienes o recursos que el Servicio obtenga a cualquier título
 
 #### Artículo 7º
 
-Los fondos del Servicio serán depositados en una cuenta corriente subsidiaria de la Cuenta Unica Fiscal y contra ella sólo podrán girar conjuntamente el Jefe del Servicio y un funcionario de la Institución designado por el Intendente Regional, no pudiendo recaer dicha designación en el contador del Bienestar.
+Los fondos del Servicio serán depositados y administrados en una cuenta corriente subsidiaria de la Cuenta Única Fiscal y contra ella sólo podrán girar conjuntamente el Jefe del Servicio de Bienestar y un representante del Consejo propuesto por este mismo órgano, para que sea designado para tal efecto por el Intendente Regional.
 
-En caso de ausencia o impedimento de los giradores mencionados en el inciso anterior, éstos serán reemplazados por los funcionarios que el Intendente haya designado en calidad de suplentes.
+En caso de ausencia o impedimento de los giradores mencionados en el inciso anterior, éstos serán reemplazados por los/as funcionarios/as designados/as por el Intendente Regional, a sugerencia del Consejo, en calidad de suplentes.
 
 ## Título IV
 
@@ -89,6 +91,10 @@ Párrafo Primero
 Atención médica y odontológica
 
 #### Artículo 8º
+
+Dada la naturaleza solidaria del Servicio de Bienestar, y considerando que cumple una función complementaria de la acción del sistema de seguridad social, otorgará los beneficios que contemple este reglamento, de acuerdo a su disponibilidad presupuestaria, sin generar una sobre cobertura del estado de necesidad del o la afiliado/a; por tanto, sólo podrá bonificar al o la afiliado/a en aquella parte que ni el sistema de seguridad social, ni la compañía de seguros (en el caso que hubiere recurrido a ella previamente) le hubieren cubierto, y sin que el beneficio supere tal monto, no pudiendo convertirse en una ganancia para él o la interesado/a.
+
+El Bienestar podrá financiar total o parcialmente y contratar con cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias: seguros de vida para sus afiliados/as y seguros de salud, para solventar gastos de salud previsional, sin perjuicio de que los/as propios/as beneficiarios/as puedan concurrir a suscribir dichos seguros.
 
 El Servicio podrá otorgar beneficios de carácter médico y odontológico a sus afiliados y cargas familiares, en la medida que sus recursos lo permitan, por los siguientes conceptos:
 
@@ -132,33 +138,35 @@ De los subsidios
 
 El Servicio podrá otorgar, en la medida que sus recursos lo permitan, las siguientes ayudas, por las causales y de acuerdo a las modalidades que se indican:
 
-a.) Matrimonio del afiliado: Se concederá cuando el afiliado contraiga matrimonio. En caso de que ambos cónyuges sean afiliados al Bienestar cada uno de ellos tendrá derecho a este beneficio en forma independiente.
+a.) Matrimonio o Acuerdo de Unión Civil: Se concederá cuando el afiliado/a contraiga matrimonio o establezca un contrato de unión civil. En caso de que ambos cónyuges o contrayentes, sean afiliados/as al Bienestar cada uno/a de ellos/as tendrán derecho a este beneficio en forma independiente.
 
 b.) Nacimientos: Se concederá una ayuda por el nacimiento de cada hijo. En el caso de que ambos padres sean afiliados al Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
 
-c.) Fallecimiento: Una ayuda por el fallecimiento del afiliado, y de cada una de sus cargas familiares reconocidas, incluido el mortinato a contar del quinto mes de gestación y el fallecimiento del recién nacido.
+c.) Fallecimiento: Se entregará una ayuda por el fallecimiento del afiliado/a, o de una de sus cargas familiares reconocidas en la forma establecida en la ley, se incluye el mortinato a contar del quinto mes de gestación y el fallecimiento del recién nacido.
 
-En caso del fallecimiento del afiliado, el Servicio otorgará esta ayuda en el siguiente orden de precedencia:
+En caso del fallecimiento del o la afiliado/a, el Servicio otorgará este bono en el siguiente orden de precedencia:
 
-1. A la persona expresamente designada por el afiliado.
+1. A la persona expresamente designada por el afiliado/a.
 
-2. Al cónyuge sobreviviente.
+2. Al cónyuge sobreviviente o su conviviente civil.
 
-3. A los hijos legítimos y naturales.
+3. A los descendientes.
 
-4. A los padres legítimos y naturales.
+4. A los hermanos/as
 
 5. A la persona que acredite haber efectuado los gastos del funeral.
 
 d.) Escolaridad: Una asignación de escolaridad siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares, que se encuentren cursando estudios regulares en los niveles pre-básico, básico, medio, técnico o de educación superior, en algún establecimiento del Estado o reconocido por éste.
 
-e.) Ayuda médica: En caso de enfermedad grave y tratamiento médico de alto costo, calificados como tales por el Consejo Administrativo.
+e.) Ayuda médica: El Servicio de Bienestar, de acuerdo a su disponibilidad presupuestaria, podrá contribuir a solventar el costo de una enfermedad grave y tratamiento médico de alto costo que afecte algún afiliado/a o carga familiar reconocida en la forma establecida en la ley, a todos/as ellos/as luego de usar su seguro médico e Isapre o Fonasa que se encuentra imposibilitado/a de financiar y que sea debidamente calificado por el Consejo Administrativo.
 
-f.) Catástrofe: Una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como requisito la comprobación de los hechos por parte del Jefe del Servicio, y
+f.) Catástrofe: Se podrá entregar una ayuda a los/as afiliados/as que sufran daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes, cuya solicitud será evaluada por el Consejo de acuerdo a los antecedentes aportados y a su disponibilidad presupuestaria.
 
 g.) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendiente con el Servicio por concepto de préstamos que éste le hubiese otorgado.
 
-El monto de las ayudas contempladas en las letras a, b, c, d, e y f será determinado por el Consejo Administrativo conforme a lo señalado en la letra g del artículo 29 del Reglamento General.
+h) Asignación de Navidad: Se entregará a cada afiliado/a del Servicio de Bienestar, su monto será definido por el Consejo Administrativo atendido a la disponibilidad presupuestaria.
+
+El monto de los bonos contemplados en las letras a), b), c) y d), serán definidos por el Consejo en forma anual conforme a lo señalado en la letra g del artículo N° 29 del Reglamento General. Las ayudas de las letras e), f), g) y h), serán entregadas previa evaluación de los antecedentes por el Consejo Administrativo y su monto se determinará según disponibilidad presupuestaria del Servicio.
 
 #### Artículo 9º Bis
 
@@ -170,7 +178,7 @@ Para solicitar los beneficios señalados en las letras a, b, c, d y g del artíc
 
 #### Artículo 11º
 
-El Servicio podrá cooperar para celebrar y financiar las festividades de Navidad y 18 de Septiembre para los afiliados y sus cargas familiares, siempre que sus recursos presupuestarios lo permitan.
+El Servicio podrá celebrar y financiar las festividades de Navidad y fiestas patrias para los/as afiliados/as, sus cónyuges, hijos e hijas, como también del o la conviviente civil, siempre que sus recursos presupuestarios lo permitan, ya sea en forma independiente o en forma conjunta con el Servicio Administrativo del Gobierno Regional de Atacama o la Asociación de Funcionarios.
 
 Párrafo Tercero
 
@@ -178,7 +186,7 @@ De los préstamos
 
 #### Artículo 12º
 
-El Servicio podrá conceder los préstamos no reajustables que se señalan a continuación, siempre que sus recursos presupuestarios lo permitan:
+El Servicio podrá conceder en forma excepcional préstamos onerosos y reajustables a sus afiliados, siempre que sus recursos presupuestarios lo permitan:
 
 a.) Préstamos médicos: Como complemento de las ayudas económicas a que se refiere el artículo 8º de este Reglamento;
 
@@ -188,7 +196,7 @@ c.) Préstamos escolares: Una vez al año y estarán orientados a solventar gast
 
 d.) Préstamos de vacaciones: Una vez al año.
 
-El monto máximo de los préstamos antes señalados, será determinado anualmente por el Consejo Administrativo; y su reintegro deberá efectuarse en un plazo no superior a 16 meses.
+El monto máximo de los préstamos antes señalados, será determinado anualmente por el Consejo Administrativo; y su reintegro deberá efectuarse en un plazo no superior a los 12 meses.
 
 #### Artículo 13º
 
@@ -204,7 +212,7 @@ La tasa de interés que devengarán estos préstamos será fijada por el Consejo
 
 #### Artículo 15º
 
-Las cuotas que el afiliado adeude al Servicio por préstamos o por concepto de créditos de casas comerciales no podrán en ningún caso exceder del 30% de su remuneración imponible para pensiones o de su pensión, según corresponda.
+Las cuotas que el o la afiliado/a adeude al Servicio, por préstamos o por concepto de créditos de casas comerciales, no podrán en ningún caso exceder del 15% de su remuneración imponible para pensiones o de su pensión, según corresponda.
 
 ## Título V
 
