@@ -66,4 +66,6 @@ d.) Establece tabla de resumen de asignación de recursos para este primer llama
 
 5. Publíquese la presente resolución en el Diario Oficial, y ordénese a Serviu Región de Valparaíso para publicar, a lo menos en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados y los respectivos proyectos, conforme al cuadro inserto en el resuelvo Nº 3 precedente, las que deberán contener, a lo menos, la comuna, el título y la modalidad de proyecto del cual se trate, nombre de cada postulante con su respectiva Cédula de Identidad y puntaje obtenido por el grupo o persona.
 
+> **Nota.** El N° 1 de la Resolución 3412 Exenta, Vivienda, publicada el 02.12.2016, incorpora al presente resuelvo un cuadro, que asigna los ahorros y el subsidio correspondientes a las viviendas de propiedad de Serviu. Sin embargo, la citada norma no indica donde debe ser agregado.
+
 Anótese, comuníquese y publíquese.- Rodrigo Uribe Barahona, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Valparaíso.
