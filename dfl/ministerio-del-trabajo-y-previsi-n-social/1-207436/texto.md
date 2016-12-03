@@ -4936,11 +4936,11 @@ Existirá un Juzgado de Letras del Trabajo, con asiento en cada una de las sigui
 
 a) Primera Región de Tarapacá:
 
-Iquique, con tres jueces, con competencia sobre las comunas de Iquique y Alto Hospicio;
+Iquique, con tres jueces,con competencia sobre la comuna de Iquique;
 
 b) Segunda Región de Antofagasta:
 
-Antofagasta, con cuatro jueces, con competencia sobre las comunas de Antofagasta, Mejillones y Sierra Gorda; Calama, con dos jueces, con competencia en las comunas de la provincia de El Loa;
+Antofagasta, con cuatro jueces, con competencia sobre las comunas de Antofagasta y Sierra Gorda; Calama, con dos jueces, con competencia en las comunas de la provincia de El Loa;
 
 c) Tercera Región, de Atacama:
 
@@ -4980,13 +4980,13 @@ k) Décimo Primera Región, de Aisén del General Carlos Ibáñez del Campo: Coy
 
 l) Décimo Segunda Región, de Magallanes y Antártica Chilena:
 
-Punta Arenas, con un juez, con competencia sobre las comunas de las provincias de Magallanes y Antártica Chilena;
+Punta Arenas, con un juez, con competencia sobre las comunas de la provincia de Magallanes;
 
 m) Santiago, con treinta y dos jueces, agrupados en dos juzgados, con dieciséis jueces cada uno, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
 
 San Miguel con cuatro jueces, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
 
-San Bernardo, con dos jueces, con competencia sobre las comunas de San Bernardo y Calera de Tango, y Puente Alto, con dos jueces, con competencia sobre las comunas de la Provincia Cordillera.".
+San Bernardo, con dos jueces, con competencia sobre las comunas de San Bernardo y Calera de Tango, y Puente Alto, con dos jueces, con competencia sobre las comunas de la Provincia Cordillera.
 
 n) Decimocuarta Región de los Ríos:
 
@@ -5692,7 +5692,7 @@ El procedimiento contenido en este Párrafo se aplicará respecto de las cuestio
 
 También se aplicará este procedimiento para conocer de los actos discriminatorios a que se refiere el artículo 2° de este Código, con excepción de los contemplados en su inciso sexto.
 
-Se entenderá que los derechos y garantías a que se refieren los incisos anteriores resultan lesionados cuando el ejercicio de las facultades que la ley le reconoce al empleador limita el pleno ejercicio de aquéllas sin justificación suficiente, en forma arbitraria o desproporcionada, o sin respeto a su contenido esencial. En igual sentido se entenderán las represalias ejercidas en contra de trabajadores, en razón o como consecuencia de la labor fiscalizadora de la Dirección del Trabajo o por el ejercicio de acciones judiciales.
+Se entenderá que los derechos y garantías a que se refieren los incisos anteriores resultan lesionados cuando el ejercicio de las facultades que la ley le reconoce al empleador limita el pleno ejercicio de aquéllas sin justificación suficiente, en forma arbitraria o desproporcionada, o sin respeto a su contenido esencial. En igual sentido se entenderán las represalias ejercidas en contra de trabajadores por el ejercicio de acciones judiciales, por su participación en ellas como testigo o haber sido ofrecidos en tal calidad, o bien como consecuencia de la labor fiscalizadora de la Dirección del Trabajo.
 
 Interpuesta la acción de protección a que se refiere el artículo 20 de la Constitución Política, en los casos que proceda, no se podrá efectuar una denuncia de conformidad a las normas de este Párrafo, que se refiera a los mismos hechos.
 
@@ -5824,7 +5824,7 @@ La notificación al demandado se practicará conforme a las reglas generales.
 
 En todo caso, en la notificación se hará constar los efectos que producirá la falta de reclamo o su presentación extemporánea.
 
-Presentada la reclamación dentro de plazo, el juez citará a las partes a una audiencia única de conciliación, contestación y prueba, la que deberá celebrarse dentro de los quince días siguientes a su presentación.
+Presentada la reclamación dentro de plazo, el juez citará a las partes a una audiencia única de conciliación, contestación y prueba, la que deberá celebrarse dentro de los quince días siguientes a su presentación. En el evento de citarse a la audiencia única por no existir antecedentes suficientes para el pronunciamiento a que se refiere el inciso primero, el tribunal fijará dentro de los veinte días siguientes a la fecha de la resolución, el día y la hora para su celebración, debiendo mediar entre la notificación y la celebración de la audiencia, a lo menos, cinco días.
 
 Si el empleador reclama parcialmente de la resolución que acoge las pretensiones del trabajador, se aplicará lo establecido en el artículo 462.
 
@@ -5835,6 +5835,8 @@ Las partes deberán asistir a la audiencia con todos sus medios de prueba y, en 
 La audiencia tendrá lugar con sólo la parte que asista.
 
 El juez deberá dictar sentencia al término de la audiencia, la que deberá contener las menciones señaladas en los números 1, 2, 5, 6 y 7 del artículo 459.
+
+Sin perjuicio de lo dispuesto en el inciso anterior, siempre que se trate de causas de interés colectivo o causas que presenten mayor complejidad, el juez podrá, mediante resolución fundada, dictar la sentencia respectiva hasta en un plazo de tres días de terminada la audiencia, la que deberá notificarse en la forma prevista en el inciso primero del artículo 457.
 
 #### Artículo 502
 
