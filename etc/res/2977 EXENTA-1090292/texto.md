@@ -106,7 +106,7 @@ f) Proyecto de Ampliación en Viviendas de igual o menos de 30 metros cuadrados.
 
 A estos tipos de Proyectos Focalizados, señalados en el punto 2.2 precedente, se le otorgará al total del grupo, un puntaje adicional a los ya dispuestos en el DS N° 255 (V. y U.), de 2006, para los proyectos de mejoramiento y/o ampliación de una vivienda. Los puntajes serán los estipulados en el siguiente cuadro:
 
-3. Para participar de este llamado los proyectos deben contar con calificación hasta los días 17 de junio, 26 de septiembre y 30 de noviembre de 2016.
+3. Para participar de este llamado los proyectos deben contar con calificación hasta los días 17 de junio, 26 de septiembre y 27 de diciembre de 2016.
 
 4. Los recursos involucrados para las selecciones de los proyectos calificados conforme al resuelvo 3. de esta resolución, se distribuyen regionalmente según los siguientes cuadros:
 
