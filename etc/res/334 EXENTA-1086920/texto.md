@@ -20,7 +20,7 @@ Resolución:
 
 .
 
-Durante el período señalado, el Serviu recibirá las solicitudes de inscripción por parte de las familias, para cada modalidad, con los documentos que deben acompañarlas, en las Oficinas del Serviu de la Región de Coquimbo, o en los lugares de atención que éste disponga al efecto. Las asignaciones de subsidio se efectuarán con los inscritos en cada modalidad a más tardar al último día hábil de cada mes a partir de la fecha de publicación de la presente resolución, y hasta el último día hábil de noviembre de 2016, siempre que cumplan con los requisitos exigidos para cada una de ellas, las que serán sancionadas por resolución del Ministro de Vivienda y Urbanismo y publicadas en el Diario Oficial.
+Durante el período señalado, el Serviu recibirá las solicitudes de inscripción por parte de las familias, para cada modalidad, con los documentos que deben acompañarlas, en las Oficinas del Serviu de la Región de Coquimbo, o en los lugares de atención que éste disponga al efecto. Las asignaciones de subsidio se efectuarán con los inscritos en cada modalidad a más tardar al último día hábil de cada mes a partir de la fecha de publicación de la presente resolución, hasta el último día hábil de diciembre de 2016, siempre que cumplan con los requisitos exigidos para cada una de ellas, las que serán sancionadas por resolución del Ministro de Vivienda y Urbanismo y publicadas en el Diario Oficial.
 
 Las nóminas de los seleccionados serán publicadas en el sitio web del Minvu, o del Serviu y/o de la Seremi de Vivienda y Urbanismo respectiva, y/o en los medios que el Minvu disponga al efecto, las que deberán contener a lo menos el número de cédula de identidad del beneficiario.
 
@@ -273,6 +273,8 @@ Estos préstamos se otorgarán mediante resoluciones del Director del Serviu de 
 El préstamo podrá restituirse contra el pago del subsidio habitacional, siempre que dicho pago se efectúe dentro del plazo máximo de los dos años, señalados anteriormente, descontado del subsidio a pagar el monto correspondiente de restituir.
 
 Si, encontrándose próxima la expiración de la vigencia de la boleta bancaria de garantía que cauciona el préstamo la restitución no se hubiere efectuado, el prestatario deberá renovar la vigencia de la boleta bancaria o reemplazarla por otra de las mismas características, por el monto adeudado del préstamo; de no hacerlo, se hará efectiva dicha boleta bancaria de garantía. En todo caso, se hará efectiva dicha boleta transcurrido el plazo de dos años desde el otorgamiento del préstamo, en caso que éste no se haya restituido en su totalidad.
+
+El N° 1 de la Resolución 7655 Exenta, Vivienda, publicada el 05.12.2016, sustituye en el resuelvo 1 de la presente resolución la locución "y hasta el último día hábil de noviembre de 2016", por la expresión "hasta el último día hábil de diciembre de 2016", las dos veces que ahí aparece. Sin embargo, se actualiza sólo en una de dichas referencias por no ser posible intervenir la imagen en la que aparece.
 
 > **Nota.** El N° 1 de la Resolución 3973, Vivienda, publicada el 01.07.2016, dispuso un nuevo plazo para recibir solicitudes de inscripción al llamado especial efectuado por la presente resolución, a contar de su publicación y hasta el último día hábil del mes de septiembre de 2016. La misma norma dispuso además la convalidación de lo actuado por el Serviu Región de Coquimbo entre el día 1 de junio de 2016 y el día anterior a su publicación en el Diario Oficial, relativo de la recepción de solicitudes presentadas durante esos días.
 
