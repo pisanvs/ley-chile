@@ -1,4 +1,4 @@
-LLAMA A PROCESO DE SELECCIÓN EN CONDICIONES ESPECIALES PARA EL OTORGAMIENTO DE SUBSIDIOS DEL PROGRAMA HABITACIONAL FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, REGULADO POR EL DS Nº 49 (V. Y U.), DE 2011, Y SUS MODIFICACIONES, EN LA ALTERNATIVA DE POSTULACIÓN COLECTIVA PARA PROYECTOS DE CONSTRUCCIÓN EN NUEVOS TERRENOS, EN COMUNAS QUE INDICA, EN LOS MESES DE OCTUBRE Y NOVIEMBRE DE 2016
+LLAMA A PROCESO DE SELECCIÓN EN CONDICIONES ESPECIALES PARA EL OTORGAMIENTO DE SUBSIDIOS DEL PROGRAMA HABITACIONAL FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, REGULADO POR EL DS Nº 49 (V. Y U.), DE 2011, Y SUS MODIFICACIONES, EN LA ALTERNATIVA DE POSTULACIÓN COLECTIVA PARA PROYECTOS DE CONSTRUCCIÓN EN NUEVOS TERRENOS, EN COMUNAS QUE INDICA, EN LOS MESES DE OCTUBRE, NOVIEMBRE Y DICIEMBRE DE 2016
 
 Santiago, 11 de agosto de 2016.- Hoy se resolvió lo que sigue:
 
@@ -22,7 +22,7 @@ b) La necesidad de fomentar el desarrollo de proyectos habitacionales en áreas 
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado hasta el último día hábil de los meses de octubre y noviembre de 2016, ubicados en las comunas de Santiago, Estación Central, Independencia, Pedro Aguirre Cerda, Quinta Normal, Recoleta, San Joaquín y San Miguel.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado hasta el último día hábil de los meses de octubre y noviembre de 2016 y hasta el 27 de diciembre de 2016, ubicados en las comunas de Santiago, Estación Central, Independencia, Pedro Aguirre Cerda, Quinta Normal, Recoleta, San Joaquín y San Miguel.
 
 2. Los recursos destinados para la selección de las personas postulantes a este llamado alcanzarán hasta 182.000 Unidades de Fomento, sin perjuicio de poder efectuarse ajustes para el mes de noviembre en función de la demanda presentada y los recursos disponibles del programa 2016.
 
