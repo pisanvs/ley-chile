@@ -2050,11 +2050,7 @@ En ambos casos estas mayores superficies se agregarán a la que permite el coefi
 
 #### Artículo 3
 
-3.07. Excepciones para predios de Zonas e
-
-Inmuebles Patrimoniales.
-
-Con el objeto de permitir la permanencia y conservación de inmuebles de valor patrimonial, calificados como Monumentos Históricos o Inmuebles de Conservación Histórica, existentes en terrenos donde se proyecte levantar edificaciones nuevas en altura, el Director de Obras, podrá aprobar una superficie de subdivisión menor a la establecida en el Art. 3.3.01. de esta OL., para el predio en que se emplaza el edificio patrimonial, previa tramitación y aprobación de un Plano Seccional que precise la subdivisión correspondiente, con la aprobación de los organismos pertinentes, según corresponda. Las construcciones patrimoniales que por esta vía se conserven, así como las que queden integradas a un paño mayor de terreno mediante la aplicación del conjunto de las disposiciones de la Ley 19.537 sobre Copropiedad Inmobiliaria, deben conformar un todo armónico con las nuevas edificaciones. El predio en que se emplace el edificio patrimonial gozará de excepciones a las normas de edificación, de uso del suelo, estacionamientos y otras establecidas en el Art. 5.4.01. de esta OL. En el caso de quedar estas edificaciones integradas a predios de copropiedad, su superficie edificada se sumará a la constructibilidad máxima para el predio resultante de dicha fusión, pudiendo aumentar el coeficiente normado en un 20%, como máximo.
+3.07. Derogado.
 
 #### Artículo 3
 
@@ -2748,11 +2744,15 @@ Las diferentes normas que regirán en cada Zona de Edificación son las que se d
 
 #### Artículo 4
 
-3.02. Normas de Edificación en Zonas e
+3.02. Normas de edificación en áreas de
 
-Inmuebles Patrimoniales.
+protección de recursos de valor
 
-Los proyectos de edificaciones nuevas, así como las modificaciones o ampliaciones de las existentes, que se aprueben por la autoridad correspondiente para las Zonas o Inmuebles Patrimoniales, no podrán sobrepasar las normas máximas de las Zonas de Edificación de los predios contiguos. En caso de que los predios contiguos se emplacen en más de una Zona de Edificación, prevalecerá la norma más restrictiva, excepto para los coeficientes de ocupación del suelo, según se señala a continuación. En estas Zonas e Inmuebles Patrimoniales, los coeficientes de ocupación del suelo podrán ampliarse superando hasta en un 20% el normado para la Zona de Edificación contigua menos restrictiva, aplicado en cualquiera de sus niveles.
+patrimonial cultural
+
+Los proyectos de edificación nueva y los proyectos de modificación o ampliación de la edificación existente que se proyecten en las áreas de protección de recursos de valor patrimonial cultural (ZT, MH, ZCH, ICH) se regirán por las normas de las zonas de edificación patrimonial (ZEP) descritas en el cuadro a continuación.
+
+A cada ZT, MH, ZCH, ICH le corresponde una ZEP específica, como aparece en los cuadros 20, 21, 22 y 23 del título 5 de la presente OL.
 
 #### Artículo 4
 
@@ -2910,233 +2910,129 @@ AREAS, ZONAS E INMUEBLES PROTEGIDOS
 
 ## Capítulo 5.1.
 
-NORMAS GENERALES
-
-PARA AREAS, ZONAS E INMUEBLES PROTEGIDOS.
+DISPOSICIONES GENERALES
 
 #### Artículo 5
 
-1.01. Enumeración de Areas, Zonas e Inmuebles
+1.01. Áreas, zonas e inmuebles protegidos.
 
-Protegidos.
+Este título trata de lo siguiente:
 
-Las Areas, Zonas e Inmuebles Protegidos, serán aquellos definidos por o en virtud de instrumentos de nivel superior, así como aquellos definidos por el municipio de acuerdo a las facultades y responsabilidades otorgadas por el PRMS, Art. 60, inciso 2° de la LGUC y lo dispuesto en el Art. 2.1.10. de la OGUC en relación con la conservación del patrimonio edificado, los cuales se identifican en este PRCP y aparecen graficados en el plano denominado "PRCP 2007.
+. áreas de protección de recursos de valor patrimonial cultural,
 
-L4/4. Areas, Zonas e Inmuebles Protegidos".
+. zonas de equipamiento metropolitano o intercomunal (ZEMoI),
 
-Las Areas, Zonas e Inmuebles Protegidos se clasifican en:
+. zonas de interés metropolitano (ZIM) y
 
-a) Zonas e Inmuebles Patrimoniales
+. áreas verdes públicas y privadas consideradas protegidas.
 
-b) Zonas Metropolitanas Protegidas
-
-c) Areas Verdes Públicas y Privadas Protegidas
+Estas áreas, zonas e inmuebles aparecen representados en el plano "L4/4. Áreas, zonas e inmuebles protegidos".
 
 ## Capítulo 5.2.
 
-ZONAS E INMUEBLES PATRIMONIALES.
+ÁREAS DE PROTECCIÓN DE RECURSOS DE VALOR PATRIMONIAL CULTURAL
 
 #### Artículo 5
 
-2.01. Enumeración de Zonas e Inmuebles
+2.01. Enumeración de áreas de protección de recursos de valor patrimonial cultural.
 
-Patrimoniales.
+Las áreas de protección de recursos de valor patrimonial cultural son:
 
-Las Zonas e Inmuebles Patrimoniales, se refiere a aquellas zonas o inmuebles generados por o en virtud de instrumentos de nivel superior, así como aquellas zonas e inmuebles propuestos por el municipio de acuerdo a las facultades y responsabilidades otorgadas por el Art. 60, inciso 2° de la LGUC y lo dispuesto en el Art. 2.1.10. de la OGUC en relación con la conservación del patrimonio edificado, los cuales se identifican en este PRCP y aparecen graficados en el plano "PRCP 2007. L4/4. Areas, Zonas e Inmuebles Protegidos.
+. las zonas típicas (ZT), declaradas por el Consejo de Monumentos Nacionales mediante decreto supremo del Ministerio de Educación,
 
-Las Zonas e Inmuebles Patrimoniales se clasifican en:
+. los monumentos históricos (MH), declarados por el Consejo de Monumentos Nacionales mediante decreto supremo del Ministerio de Educación,
 
-a. ZT - Zonas Típicas.
+. las zonas de conservación histórica (ZCH), declaradas por el Plan Regulador Comunal de Providencia, y
 
-Declaradas por el Consejo de Monumentos
+. los inmuebles de conservación histórica (ICH), declarados por el Plan Regulador Comunal de Providencia.
 
-Nacionales, se enumeran en el Cuadro N° 21 del
-
-#### Artículo 5
-
-2.02. siguiente;
-
-b. MH - Monumentos Históricos.
-
-Declaradas por el Consejo de Monumentos
-
-Nacionales, se enumeran en el Cuadro N° 22 del
+Estas áreas de protección de recursos de valor patrimonial cultural aparecen representadas en el plano "L4/4. Áreas, zonas e inmuebles protegidos".»
 
 #### Artículo 5
 
-2.03. siguiente;
+2.02. Zonas típicas (ZT).
 
-c. ZCH - Zonas de Conservación Histórica.
+Las zonas típicas declaradas en la comuna de Providencia se enumeran en el cuadro 20 y aparecen representadas en el plano «L4/4 Áreas, zonas e inmuebles protegidos».
 
-Declaradas por el presente PRCP, se enumeran en
+Respecto de la localización de las ZT, en caso de discordancia entre el plano mencionado y el cuadro 20, la información contenida en el plano es la que prima.
 
-el Cuadro N° 23 del Art 5.2.04. siguiente;
-
-d. ICH - Inmuebles de Conservación Histórica.
-
-Declarados por el presente PRCP, se enumeran en
-
-el Cuadro N° 24 del Art 5.2.05. siguiente.
+.
 
 #### Artículo 5
 
-2.02. ZT - Zonas Típicas.
+2.03. Monumentos históricos (MH).
 
-Conforme a la Ley N° 17.288 de Monumentos Nacionales y de acuerdo con los Decretos que se señalan en cada caso, las Zonas Típicas declaradas a la fecha por el Consejo de Monumentos Nacionales, se grafican en el plano "PRCP 2007. L4/4: Areas, Zonas e Inmuebles Protegidos" y se enumeran en el Cuadro Nº 20 siguiente, el cual se entenderá modificado cada vez que se dicte el decreto respectivo:
+Los monumentos históricos declarados en la comuna de Providencia se enumeran en el cuadro 21 a continuación, y aparecen representados en el plano L4/4 «Áreas, zonas e inmuebles protegidos».
 
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 22
+Respecto de la localización de los MH, en caso de discordancia entre el plano mencionado y el cuadro 21, la información contenida en el plano es la que prima.
 
-#### Artículo 5
-
-2.03. MH - Monumentos Históricos.
-
-Conforme a la Ley N° 17.288 de Monumentos Nacionales y de acuerdo con los Decretos que se señalan en cada caso, los Monumentos Históricos que hasta la fecha y dentro del territorio comunal han sido declarados por el Consejo de Monumentos Nacionales, se grafican en el plano "PRCP 2007. L4/4: Areas, Zonas e Inmuebles Protegidos" y se enumeran en el Cuadro Nº 21 siguiente, el cual se entenderá modificado cada vez que se dicte el decreto respectivo:
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 22
+.
 
 #### Artículo 5
 
-2.04. ZCH - Zonas de Conservación Histórica.
+2.04. Zonas de conservación histórica (ZCH)
 
-Según lo señalado en el Art. 60 de la LGUC, en los Arts. 1.1.2., 2.1.10. y 2.1.43. de la OGUC, en este PRCP se declaran Zonas de Conservación Histórica (ZCH) aquellas graficadas en el plano "PRCP 2007. L4/4: Areas, Zonas e Inmuebles Protegidos" y detalladas en el Cuadro Nº 22 siguiente, el cual se entenderá modificado cada vez que se dicte el decreto respectivo:
+Las zonas de conservación histórica declaradas en la comuna de Providencia se enumeran en el cuadro 22 y aparecen representadas en el plano «L4/4. Áreas, zonas e inmuebles protegidos».
 
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 22
+Respecto de la localización de los ZCH, en caso de discordancia entre el plano mencionado y el cuadro 22, la información contenida en el plano es la que prima.
 
-#### Artículo 5
-
-2.05. ICH - Inmuebles de Conservación
-
-Histórica.
-
-Según lo señalado en el Art. 60 de la LGUC, en los Arts. 1.1.2., 2.1.10. y 2.1.43. de la OGUC, en este PRCP se declaran Inmuebles de Conservación Histórica (ZCH) aquellos graficados en el plano "PRCP 2007. L4/4: Areas, Zonas e Inmuebles Protegidos" y detallados en el Cuadro Nº 23 siguiente, el cual se entenderá modificado cada vez que se dicte el decreto respectivo
-
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 22
-
-## Capítulo 5.3.
-
-PROCEDIMIENTOS, PERMISOS Y BENEFICIOS (1)
-
-PARA ZONAS E INMUEBLES PATRIMONIALES.
-
-(1)Subsidios de Rehabilitación Patrimonial. Los compradores de un Inmueble de Conservación Histórica, inserto o no en una Zona de Conservación Histórica, podrán postular al Subsidio de Rehabilitación Patrimonial, con el patrocinio del municipio.
-
-Fondos y Programas de financiamiento para Espacios Públicos Patrimoniales. Serán los municipios los que, de acuerdo a los procedimientos y plazos que corresponda, coordinarán las postulaciones de proyectos a fondos concursables o programas de financiamiento del gobierno central, referidos a construcción, mejoramiento o rehabilitación (restauración, remodelación o renovación) de sectores o barrios de valor patrimonial, ubicados en el territorio comunal.
+.
 
 #### Artículo 5
 
-3.01. Aviso al Consejo de Monumentos Nacionales
+2.05. Inmuebles de conservación histórica (ICH).
 
-por hallazgos.
+Los inmuebles de conservación histórica declarados en la comuna de Providencia se enumeran en el cuadro 23 y aparecen representados en el plano «L4/4. Áreas, zonas e inmuebles protegidos».
 
-En el caso de que, producto de trabajos ejecutados en el espacio público o privado, se encontraren monumentos arqueológicos tales como lugares, ruinas, yacimientos y piezas arqueológicas, piezas paleontológicas, sobre o bajo la superficie del área que contempla el presente PRCP, se deberá poner de inmediato en conocimiento del Consejo de Monumentos Nacionales, para lo cual se aplicará la normativa contemplada en la Ley Nº 17.288 de Monumentos Nacionales y su Reglamento.
+Respecto de la localización de los ICH, en caso de discordancia entre el plano mencionado y el cuadro 22, la información contenida en el plano es la que prima.
 
-#### Artículo 5
+.
 
-3.02. Permisos para las intervenciones en Zonas
+* Ver Art. 4.3.02 de esta OL.
 
-e Inmuebles Patrimoniales.
-
-Las intervenciones en zonas e inmuebles patrimoniales requerirán de supervisión o aprobaciones y permisos, de las instituciones que a continuación se detalla:
-
-a) Zonas Típicas (ZT) y Monumentos Históricos (MH).
-
-De acuerdo a los establecido en la Ley Nº 17.288 de Monumentos Nacionales y su Reglamento, será el Consejo de Monumentos Nacionales la institución responsable de supervisar y aprobar los proyectos de intervención, previo a la obtención del permiso de la Dirección de Obras Municipales, cuando corresponda.
-
-b) Zonas e Inmuebles de Conservación Histórica (ZCH e ICH).
-
-De acuerdo a los establecido en el Art 60 de la LGUC, cada municipio a través de su PRC señalará las zonas e inmuebles de conservación histórica, existentes, que no podrán ser demolidos o refaccionados sin autorización previa de la SEREMI Metropolitana de Vivienda y Urbanismo.
+CAPITULO 5.3. Derogado
 
 #### Artículo 5
 
-3.03. Aplicación de las presentes normas y
+3.01. Derogado
 
-disposiciones.
+#### Artículo 5
 
-Corresponderá a la Dirección de Obras Municipales aplicar las presentes normas y disposiciones, así como proveer la información necesaria y las condiciones especiales que reglamentan las obras de valor patrimonial al propietario o profesional que intervenga en ellas, velando por el estricto cumplimiento de éstas, así como aquellas que sean aplicables, en cada caso, en concordancia con lo señalado en la Ley Nº 17.288 de Monumentos Nacionales, LGUC, OGUC y la presente OL.
+3.02. Derogado
 
-Será responsabilidad del profesional competente adecuar el proyecto respectivo a las exigencias que se formulen y aportar los antecedentes pertinentes a nivel de anteproyecto para su aprobación previa por parte del Consejo de Monumentos Nacionales o la SEREMI Metropolitana de Vivienda y Urbanismo, según corresponda.
+#### Artículo 5
+
+3.03. Derogado
 
 ## Capítulo 5.4.
 
-NORMAS DE EXCEPCION
-
-PARA ZONAS E INMUEBLES PATRIMONIALES.
+NORMAS DE EXCEPCIÓN PARA LAS ÁREAS DE PROTECCIÓN DE RECURSOS DE VALOR PATRIMONIAL CULTURAL
 
 #### Artículo 5
 
-4.01. Normas generales y de excepción
+4.01. Normas generales y de excepción aplicables a las áreas de protección de recursos de valor patrimonial cultural.
 
-aplicables a Zonas e Inmuebles
+Toda intervención en un área de protección de recursos de valor patrimonial cultural deberá cumplir con las normas de las zonas de edificación patrimonial, descritas en el artículo 4.3.02, y asignadas a cada una de estas áreas en los cuadros 20, 21, 22 y 23, así como las zonas de uso de suelo respectivas.
 
-Patrimoniales.
-
-Toda intervención en una Zona o Inmueble de Interés Patrimonial, sea que ya cuenten con declaración oficial o la obtengan en el futuro, deberá cumplir con las normas respectivas de cada zona de edificación y de uso de suelo, considerando además las siguientes normas generales de excepción:
-
-Respecto a la subdivisión mínima, se encuentra en el Art. 3.3.07., de esta OL
-
-Respecto a los antejardines, se encuentran en el Art. 4.1.07., de esta OL
-
-Respecto a las normas de construcción, se encuentran en el Art. 4.2.08.c., de esta OL
-
-Respecto a las normas de Edificación, se encuentran en el Art. 4.3.02., de esta OL
-
-Respecto a las normas de Usos del Suelo, se encuentran en el Art. 6.1.09., de esta OL
-
-Respecto a los estándares de Estacionamientos, se encuentran en el Art. 8.1.09., de esta OL
+A estas disposiciones se suman las normas de excepción de los artículos 4.1.07 y 6.1.09 de esta OL.
 
 #### Artículo 5
 
-4.02. Restricciones especiales aplicables a
+4.02. Restricciones a la instalación de publicidad y propaganda en las áreas de protección de recursos de valor patrimonial cultural.
 
-Zonas e Inmuebles Patrimoniales.
+Toda publicidad o propaganda que se proponga instalar en áreas de protección de recursos de valor patrimonial cultura deberá cumplir con la ordenanza sobre publicidad y propaganda en la comuna de Providencia.
 
-Las restricciones especiales aplicables a las Zonas e Inmuebles Patrimoniales, son las siguientes:
+Además, toda publicidad o propaganda que se proponga instalar en zonas típicas o monumentos históricos deberá contar con el visto bueno del Consejo de Monumentos Nacionales.
 
-a) Sobre Publicidad y Propaganda.
-
-Toda publicidad y propaganda que se proponga en sectores declarados Zona Típica o Monumento Histórico, deberá contar con el visto bueno del Consejo de Monumentos Nacionales.
-
-Toda publicidad y propaganda que se proponga en Zonas o Inmuebles de Conservación Histórica, ZCH o ICH respectivamente, deberá dar cumplimiento a lo señalado en el Reglamento de Intervención para Zonas e Inmuebles de Conservación Histórica, dictado por el Alcalde.
-
-b) Sobre las antenas.
-
-Quedan estrictamente prohibidas las antenas en las Zonas o Inmuebles Patrimoniales.
-
-## Capítulo 5.5.
-
-GRADOS Y PARAMETROS DE INTERVENCION EN LAS ZCH E ICH.
+CAPITULO 5.5. Derogado
 
 #### Artículo 5
 
-5.01. Grados de Intervención en las ZCH e ICH.
-
-Se han definido tres Grados de Intervención para las ZCH e ICH, ordenados de menor a mayor de acuerdo al siguiente detalle:
-
-a) ZCH e ICH con Grado de Intervención GI 1:
-
-Restauración.
-
-Este grado de intervención sólo podrá contemplar trabajos de conservación, consolidación, restauración, recuperación o reconstrucción, sin alterar o modificar la estructura resistente original, ni el espacio exterior del o los predios. Los espacios públicos podrán ser intervenido pero manteniendo los valores urbanos y ambientales existentes. Requerirá de la presentación de un proyecto "restauración" a la SEREMI Metropolitana de Vivienda y Urbanismo, para su aprobación.
-
-b) ZCH e ICH con Grado de Intervención GI 2.
-
-Remodelación.
-
-Este grado de intervención podrá contemplar remodelaciones interiores, en las que se modifica parcialmente la distribución de recintos y la morfología de los inmuebles, siempre que los cambios propuestos no alteren la estructura resistente original de los inmuebles a intervenir, identificados en la ficha de evaluación respectiva. Los espacios públicos podrán ser intervenido pero manteniendo o resaltando los valores urbanos y ambientales existentes. Requerirá de la presentación de un proyecto de "remodelación" a la SEREMI Metropolitana de Vivienda y Urbanismo, para su aprobación.
-
-c) ZCH e ICH con Grado de Intervención GI 3.
-
-Renovación.
-
-Este grado de intervención podrá contemplar modificaciones, ampliaciones y/o demoliciones parciales, a condición de que los cambios y usos propuestos no alteren substancialmente la volumetría general que se encuentre originalmente visible desde el espacio público, ni la estructura resistente exterior de los inmuebles, identificados en la ficha de evaluación respectiva. Los espacios públicos podrán ser intervenidos manteniendo, resaltando o aún generando nuevos valores urbanos y ambientales. Requerirá de la presentación de un proyecto de "renovación" a la SEREMI Metropolitana de Vivienda y Urbanismo, para su aprobación.
+5.01. Derogado
 
 #### Artículo 5
 
-5.02. Parámetros de intervención en las ZCH e
-
-ICH.
-
-En todos los casos, las intervenciones, independiente de su grado, deberán considerar los parámetros de intervención que se detallan en el Reglamento Municipal de Intervención para Zonas e Inmuebles de Conservación Histórica.
+5.02. Derogado
 
 ## Capítulo 5.6.
 
@@ -3144,25 +3040,39 @@ ZONAS METROPOLITANAS PROTEGIDAS.
 
 #### Artículo 5
 
-6.01. ZEMoI - Zona de Equipamiento
+6.01 Zona de Equipamiento Metropolitano o Intercomunal (ZEMoI).
 
-Metropolitano o Intercomunal.
+Las ZEMoI presentes en el territorio comunal aparecen representadas en los siguientes planos:
 
-Conforme al Art. 3.1.1.2. del PRMS y al Plano RM-PRM-92-I.A., los predios que cumplen con las características para ser declarados Equipamiento Metropolitano o Intercomunal, se grafican en los planos "PRCP 2007. L2/4. Espacio Privado: Zonas de Edificación" y "PRCP 2007. L4/4: Areas, Zonas e Inmuebles Protegidos". Estas Zonas tendrán un porcentaje de ocupación del suelo de un 40% y hasta 5 pisos de altura. Previo a la autorización de modificación de estas construcciones y/o usos del suelo de estas Zonas, deberá tramitarse el Plano Seccional o una modificación al PRC conforme al Art. 3.3.4.del PRMS.
+L2/4. Espacio privado: zonas de edificación.
 
-Las Zonas EMoI se enumeran en el Cuadro Nº 24 siguiente:
+L3/4. Espacio privado: zonas de uso de suelo.
 
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 24
+L4/4. Áreas, zonas e inmuebles protegidos.
+
+En estas zonas el coeficiente de ocupación de suelo será de 0,40 y se autorizarán construcciones de hasta 5 pisos de altura.
+
+Las ZEMoI se enumeran en el cuadro 24 siguiente:
+
+.
 
 #### Artículo 5
 
-6.02. ZIM - Zonas de Interés Metropolitano.
+6.02. Zonas de Interés Metropolitano (ZIM).
 
-Conforme a lo señalado en el Art. 3.1.1.2. del PRMS, se definen en esta condición los predios destinados a uso de Equipamiento y que cuentan con una superficie igual o mayor a 1 hectárea, se grafican en los Planos "PRCP 2007. L2/4. Espacio Privado: Zonas de Edificación", "PRCP 2007. L3/4. Espacio Privado: Zonas de Usos de Suelo", y "PRCP 2007. L4/4: Areas, Zonas e Inmuebles Protegidos". Estas Zonas tendrán un coeficiente de ocupación del suelo de 0,40 en todos sus pisos y hasta 5 pisos de altura. Previo a subdividirse y/o modificarse estas normas de edificación o los usos del suelo de estas Zonas, deberá tramitarse una Modificación al PRCP conforme lo exige el Art 3.3.4. del PRMS y conforme lo establece el Art. 2.1.10. y 2.1.11. de la OGUC.
+Las ZIM presentes en el territorio comunal aparecen representadas en los siguientes planos:
 
-Las Zonas ZIM se enumeran en el Cuadro Nº 25 siguiente:
+L2/4. Espacio privado: zonas de edificación.
 
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 24
+L3/4. Espacio privado: zonas de usos de suelo.
+
+L4/4. Áreas, zonas e inmuebles protegidos.
+
+En estas zonas el coeficiente de ocupación de suelo será de 0,40 y se autorizarán construcciones de hasta 5 pisos de altura.
+
+Las ZIM se enumeran en el cuadro 25 siguiente:»
+
+.
 
 ## Capítulo 5.7.
 
@@ -3186,17 +3096,7 @@ c) Plazas (Pz) Declaradas por el presente PRCP, según sus distintas categorías
 
 #### Artículo 5
 
-7.02. Normas generales aplicables a las Areas
-
-Verdes Públicas o Privadas Protegidas.
-
-Toda construcción en áreas verdes de uso público o BNUP definidas en el presente PRCP, para ser autorizada por la municipalidad, deberá dar cumplimiento a lo señalado en el Art. 2.1.30. de la OGUC.
-
-Por su parte, toda construcción en áreas verdes en BPP definidas en el presente PRCP, para ser autorizada por la municipalidad, deberá dar cumplimiento a lo señalado en el Art. 2.1.31. de la OGUC. Las autorizaciones a los proyectos presentados serán otorgadas por el Director de Obras Municipales, previo informe del Asesor Urbanista, según lo prescrito por el Art. 2.1.31. de la OGUC.
-
-No obstante lo anterior, las construcciones o ampliaciones resultantes en áreas verdes, deberán respetar las condiciones establecidas en los Arts.
-
-5.2.2., 5.2.3., 5.2.3.1. y 5.2.4. del PRMS.
+7.02. Derogado
 
 ## Título 6
 
@@ -3314,9 +3214,7 @@ Los límites de las Zonas de Uso se grafican en plano PRCP 2007 - L3/4 "Espacio 
 
 2.02. Zonas de uso de suelo
 
-Las zonas de uso de suelo que se asigna a los predios del territorio comunal son los señalados en el cuadro 28 a continuación.»
-
-CUADRO 28
+Las zonas de uso de suelo que se asigna a los predios del territorio comunal son los señalados en el cuadro 28 a continuación.
 
 .
 
@@ -3393,6 +3291,10 @@ Las actividades específicas permitidas o prohibidas en la zona de uso de suelo 
 .
 
 Nota: En el cuadro 35 las actividades señaladas en cursiva están asociadas a patentes de alcohol, de acuerdo con lo establecido en la Ley Nº 19.925 sobre expendio y consumo de bebidas alcohólicas.
+
+UpR y E-CC - Subzona de uso preferentemente residencial y de equipamiento culto y cultura Las actividades específicas permitidas o prohibidas en la subzona de uso preferentemente residencial y de equipamiento culto y cultura (UpR y E-CC) se consignan en el cuadro 35 bis a continuación.
+
+.
 
 #### Artículo 6
 
@@ -3582,31 +3484,23 @@ NORMAS SOBRE ESTACIONAMIENTOS
 
 #### Artículo 8
 
-1.01. Normas a aplicar sobre estacionamientos.
-
-Las normas sobre Estacionamientos se regirán por lo dispuesto en la LGUC, OGUC, PRMS y la presente OL, la cual puede ser más exigente que lo señalado en los Art. 7.1.2. al 7.1.2.9. del PRMS, en conformidad a lo establecido en el Art. 7.1.2.8. de ese mismo cuerpo legal. No obstante lo anterior deberá darse cumplimiento a las otras normas legales y técnicas específicas vigentes sobre la materia, por ejemplo la Ley de Tránsito, en todo lo que sean pertinentes.
+1.01. Derogado.
 
 #### Artículo 8
 
-1.02. Aplicación de las normas de
-
-estacionamientos a toda obra.
-
-Para obtener la aprobación de los permisos de obra nueva, ampliación, obra menor, cambio de destino, regularización y otros, se deberá dar cumplimiento a las normas y estándares mínimos de estacionamientos al interior del predio que se señalan en el presente capítulo.
-
-Para verificar el cumplimiento de las normas correspondientes, en los proyectos presentados deberá identificarse los estacionamientos para visitas y los adjudicables, distinguiéndose éstos últimos entre asignados y vendidos en un solo acto a los propietarios de unidades específicas, y los vendibles en forma independiente.
+1.02. Derogado.
 
 #### Artículo 8
 
-1.03. Exigencias mínimas de estacionamientos.
+1.03. Exigencias de estacionamiento.
 
-Para cada Tipo y Clase de Uso o Conjunto de Actividades Específicas ya definidas en la presente OL, se exigirá una cantidad de estacionamientos mínimos, sea por un determinado número de metros cuadrados edificados o por unidades de operación del respectivo uso. Ello se ha definido sin reducir el mínimo establecido por el PRMS en sus Art. 7.1.2.8. y 7.1.2.9. para cada una de las "zonas E y B" establecidas por el Art. 7.1.2.1. del PRMS, las que involucran al territorio comunal de Providencia.
+En el cuadro 40 a continuación se establece el número de estacionamientos exigido para cada tipo de uso de suelo y sus destinos, así como para cada clase de equipamiento, que varía según se trate de la zona A o B del territorio comunal.
 
-Los estándares mínimos de estacionamientos exigidos para cada Tipo, Clase de Uso y Conjunto de Actividades Específicas, se establecen para las Zonas E y B, en el Cuadro N° 40 siguiente:
+En las edificaciones con dos o más destinos, el número total de estacionamientos exigidos corresponderá a la suma de los estacionamientos requeridos para cada destino.
 
-NOTA: VER DIARIO OFICIAL DE 23.01.2007, PAGINA 32
+La exigencia de estacionamientos para personas con discapacidad será aquella establecida en la OGUC.»
 
-En las edificaciones que consulten dos o más destinos diferentes, el número total de estacionamientos exigidos, será el resultante de aplicar los estándares correspondientes a cada uno de los destinos considerados, de acuerdo con el cuadro anterior, y sumarlos.
+.
 
 #### Artículo 8
 
@@ -3618,45 +3512,25 @@ Las playas de estacionamientos a nivel de suelo estarán prohibidas en toda la c
 
 #### Artículo 8
 
-1.05. Excepción a las exigencias de
-
-estacionamientos en Zona UpEC.
-
-En las zonas UpEC, la tasa de estacionamientos exigida para el equipamiento de esparcimiento (cines, teatros, auditorios, etc.) y la exigida para los restoranes, se determinará conforme a los estándares definidos en el Art. 7.1.2.9. del PRMS.
+1.05. Derogado.
 
 #### Artículo 8
 
-1.06. Estacionamientos mínimos de visitas en
-
-uso residencial en copropiedad.
-
-Conforme a lo señalado en el Art. 7.1.2.9., nota (5). del PRMS, en los edificios residenciales o conjuntos de copropiedad, adicional al estándar de estacionamientos exigido para residentes, se exigirá un % mínimo de estacionamientos para uso de visitas, el cual está definido en el Cuadro N° 40 de esta O.L. y deberán tener un acceso directo desde el espacio público.
+1.06. Derogado.
 
 #### Artículo 8
 
-1.07. Patente especial para el cobro por el uso
-
-de estacionamientos.
-
-A los recintos de estacionamientos subterráneos, que se autoricen por ser necesarios para atender las demandas de los usos no residenciales permitidos en cualquier Zona de Uso, podrá otorgárseles patentes comerciales a fin de ser operados por los propietarios o concesionarios de éstos, siempre que estén destinados a atender exclusivamente a los usuarios de actividades permitidas en esa Zona y emplazadas dentro del mismo predio.
+1.07. Derogado.
 
 #### Artículo 8
 
-1.08. Exigencia de estacionamientos para
+1.08. ART. 8.1.08. Exigencia de estacionamientos para bicicletas.
 
-bicicleta.
-
-Como manera de fomentar el uso de bicicletas en el territorio comunal se exigirán estacionamientos para bicicletas en todos los proyectos de equipamientos comerciales y de servicios, conforme a los estándares que se fijan en la columna correspondiente del Cuadro N° 40 del Art. 8.1.03. de esta OL.
+Todos los proyectos deberán contar con estacionamiento para bicicletas conforme a los estándares establecidos en el cuadro 40 del artículo 8.1.03. de esta OL.
 
 #### Artículo 8
 
-1.09. Excepción de estacionamientos para Zonas
-
-e Inmuebles Patrimoniales.
-
-En las Zonas e Inmuebles Patrimoniales se exigirá sólo el número mínimo de estacionamientos que exija el PRMS para la Zona correspondiente.
-
-Los inmuebles declarados de interés patrimonial podrán cumplir con la cuota de estacionamientos exigida, haciéndola efectiva en otro predio que se ubique fuera de la zona acogida a protección.
+1.09. Derogado.
 
 ## Título 9
 
@@ -3691,3 +3565,7 @@ Jaime Márquez Rojas.- Arquitecto, Asesor Urbanista.
 > **Nota.** NOTA 2 El numeral 2.4 del numero 2 del Decreto 4 Exento, M. DE PROVIDENCIA, publicado el 09.01.2016, modifica la presente norma en el sentido de incorporar dos nuevas filas al final del cuadro como la citada norma indica.
 
 > **Nota.** NOTA 3 El numeral 2.5 del numero 2 del Decreto 4 Exento, M. DE PROVIDENCIA, publicado el 09.01.2016, modifica la presente norma en el sentido de incorporar dos nuevas filas al final del cuadro como la citada norma indica.
+
+> **Nota.** NOTA 4 El numeral 2.9 del numero 2 del Decreto 2009 M. DE PROVIDENCIA , publicado el 06.12.2016 modifica la presente norma en el sentido de incorporar en el cuadro 32, en la fila correspondiente al tipo de equipamiento clase servicios, al final de la lista de las actividades prohibidas, un guion nuevo con la actividad «estacionamientos»
+
+> **Nota.** NOTA 5 Los numerales 2.10, 2.11, 2.12 del numero 2 del Decreto 2009 M. DE PROVIDENCIA , publicado el 06.12.2016 modifica la presente norma en el sentido deeliminar en el cuadro 35, en la fila correspondiente al tipo de equipamiento clase culto y cultura, en el cuarto guion de la casilla correspondiente a las actividades permitidas, la actividad «canales de televisión», incorporar en el cuadro 35, en la fila correspondiente al tipo de equipamiento clase culto y cultura, en el recuadro correspondiente a las actividades prohibidas, «Edificaciones o locales destinados a: - canales de televisión»
