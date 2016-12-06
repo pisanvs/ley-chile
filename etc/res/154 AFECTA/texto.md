@@ -70,6 +70,10 @@ El Consejo Directivo se reunirá las veces y en la forma que él mismo determine
 
 Se entenderá que participan en las sesiones de sus órganos colegiados aquellos miembros que, a pesar de no encontrarse presentes, estén comunicados simultánea y permanentemente a través de conferencia telefónica o de video conferencia, debiendo dejarse constancia de dicha forma de participación en el acta de la sesión correspondiente.
 
+El Consejo Directivo tendrá un Secretario, función que será desempeñada por un funcionario del Comité o de la Corporación, designado por el Vicepresidente Ejecutivo de Corfo, al que le corresponderá efectuar las citaciones a los miembros del Comité; certificar la asistencia de éstos a las sesiones; levantar actas de las mismas y certificar los acuerdos que el Consejo Directivo adopte en dichas sesiones.
+
+El Vicepresidente Ejecutivo podrá designar a uno o más reemplazantes del Secretario del Consejo Directivo del Comité.
+
 #### Artículo 5º
 
 Serán atribuciones del Consejo Directivo las siguientes:
