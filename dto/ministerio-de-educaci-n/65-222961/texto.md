@@ -358,7 +358,7 @@ El Consejo, según la naturaleza y posibilidades de cada proyecto, podrá establ
 
 #### Artículo 43º
 
-Ejecución de Proyectos. Las actividades de los proyectos deberán comenzar y ser ejecutadas en los plazos y regiones estipulados en los mismos. Sólo en casos excepcionales y de fuerza mayor calificados por el/la Director(a) Regional, podrán autorizar a los(as) titulares de los proyectos a iniciar la ejecución de las actividades o el término de las mismas en una fecha o región distinta a la prevista originalmente.
+Ejecución de Proyectos. Las actividades de los proyectos deberán comenzar y ser ejecutadas en los plazos y regiones estipulados en los mismos. Sólo en casos excepcionales y de fuerza mayor calificados por el Consejo, éste podrá autorizar a los(as) titulares de los proyectos a iniciar la ejecución de las actividades o el término de las mismas en una fecha o región distinta a la prevista originalmente.
 
 #### Artículo 44º
 
@@ -404,11 +404,11 @@ Procedimientos de Control de la Ejecución de los Proyectos
 
 #### Artículo 48º
 
-Unidad a Cargo del Control. Corresponderá al Consejo, a través de los(as) Directores(as) Regionales, el control de la ejecución de los proyectos. Este deberá recaer en el estricto cumplimiento de las bases, las disposiciones del convenio y de los plazos establecidos para su realización.
+Unidad a Cargo del Control. Corresponderá al Consejo a través de la autoridad competente, el control de la ejecución de los proyectos. Éste deberá recaer en el estricto cumplimiento de las bases, las disposiciones del convenio y de los plazos establecidos para su realización.
 
 #### Artículo 49º
 
-Certificación de Ejecución. Los(as) Directores(as) Regionales certificarán la total ejecución del proyecto o la etapa que hubiere sido aprobada. Cerrado el proyecto, de conformidad con lo establecido en el respectivo convenio, los(as) Directores (as) Regionales procederán a hacer devolución de la caución que hubiera sido entregada.
+Certificado de Ejecución. El Consejo, a través de la autoridad competente, certificará la total ejecución del proyecto o la etapa que hubiere sido aprobada. Cerrado el proyecto, de conformidad con lo establecido en el respectivo convenio, se procederá hacer devolución de la caución que hubiera sido entregada.
 
 Los(as) responsables de los proyectos deberán colaborar con la realización de la supervisión y controles.
 
