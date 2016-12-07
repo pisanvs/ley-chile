@@ -18,7 +18,7 @@ Créase el programa Más Capaz, en adelante e indistintamente "el programa", "M�
 
 Del Objetivo y Componentes del Programa.
 
-El objetivo del programa es apoyar el acceso y permanencia en el mercado laboral de mujeres, jóvenes y personas con discapacidad, que se encuentren en situación de vulnerabilidad, mediante la capacitación técnica y en habilidades transversales y la intermediación laboral, para favorecer su empleabilidad.
+El objetivo del programa es apoyar el acceso y permanencia en el mercado laboral de mujeres, jóvenes, personas con discapacidad y el de las demás personas señaladas en el artículo tercero del presente decreto, mediante la capacitación técnica y en habilidades transversales y la intermediación laboral, para favorecer su empleabilidad.
 
 El programa considera todos o algunos de los siguientes componentes:
 
@@ -28,17 +28,21 @@ El Director Nacional del Sence podrá, excepcionalmente, ampliar el rango de hor
 
 El rango de horas indicado no se aplicará respecto al componente Más Capaz Mujer Emprendedora a que se refiere el artículo 4º letra b), del presente decreto.
 
-b) Intermediación laboral: Este componente contempla prácticas laborales en puestos de trabajo relacionados directamente con la capacitación recibida y acciones tendientes a lograr la colocación laboral en puestos de trabajo formal, tales como diagnóstico socio laboral, inscripción en Bolsa Nacional de Empleo, gestión en empresas a través de encuentros y reuniones y preparación, derivación y seguimiento de entrevistas laborales.
+Este componente podrá contemplar prácticas laborales en puestos de trabajo relacionados con la capacitación recibida.
 
-c) Certificación de Competencias Laborales: Un porcentaje de las personas capacitadas accederán, previa experiencia laboral, a una evaluación de competencias laborales, que se realizará a través del Sistema Nacional de Certificación de Competencias Laborales, establecido en la ley 20.267.
+b) Intermediación laboral: Este componente contempla acciones tendientes a lograr la colocación laboral en puestos de trabajo formal, tales como diagnóstico socio laboral, inscripción en Bolsa Nacional de Empleo, gestión en empresas a través de encuentros y reuniones y preparación, derivación y seguimiento de entrevistas laborales.
 
-d) Subsidios y Aportes: Se considerará aquellos gastos necesarios para la participación en el programa, referidos, entre otros, a la movilización, colación de los participantes y cuidado de los hijos/as menores de seis años, de conformidad con el artículo 70 de la ley Nº19.518, y seguros de accidentes, a causa o con ocasión de la asistencia a las respectivas actividades, para los participantes del programa, y los que podrán asimismo considerarse para sus hijos/hijas menores de 6 años.
+c) Certificación de Competencias Laborales: Un porcentaje de las personas capacitadas accederán, a una evaluación de competencias laborales, que se realizará a través del Sistema Nacional de Certificación de Competencias Laborales, establecido en la ley 20.267.
+
+d) Subsidios y Aportes: Son aquellos gastos que facilitan la participación en el Programa y corresponden entre otros a: un subsidio para la asistencia; los de cuidado y los de seguros de accidentes para asegurar los riesgos o contigencias de los hijos menores de seis años de los/las beneficiarios/as, a causa o con ocasión de la asistencia de estos/as a las respectivas actividades, que sean necesarios para el cumplimiento de los objetivos del Programa.
+
+Adicionalmente, dentro de este componente se podrá incluir un set de herrramientas o instrumentos para entregar a las personas capacitadas, que les permitan desarrollar inicialmente el oficio.
 
 e) Apoyo socio laboral personalizado: Considera actividades destinadas a asegurar la permanencia de los participantes en el programa, evitando deserciones no fundadas y fortalecer habilidades y capacidades para el trabajo, asegurando las condiciones y competencias mínimas con las cuales los participantes del programa pueden enfrentarse de manera más adecuada al mercado laboral.
 
 f) Nivelación de estudios: Para un porcentaje de las personas que no han terminado el segundo ciclo de educación media, se contará con un componente de nivelación de estudios, que se ejecutará en conformidad a la normativa vigente.
 
-g) Continuación de estudios: Para un porcentaje de participantes del programa que cuenten con su licencia de cuarto medio, se ofrecerá el acceso a una beca de continuación de estudios técnicos de nivel superior.
+g) Continuación de estudios: Para un porcentaje de participantes del programa que cuenten con su licencia de cuarto medio o encuentren cursando cuarto año de la educación media técnica profesional, se ofrecerá el acceso a una beca de continuación de estudios técnicos de nivel superior.
 
 #### Artículo segundo
 
@@ -70,7 +74,15 @@ De los Participantes.
 
 Podrán participar del programa las personas que cumplan los siguientes requisitos:
 
-a) Que se encuentren dentro del 60% más vulnerable de la población, según el instrumento de focalización vigente.
+a) Que se encuentren dentro del 60% más vulnerable de la población, según el Registro Social de Hogares, con las siguientes excepciones:
+
+1. Para las regiones de Antofagasta, Aysén del General Carlos Ibáñez del Campo y Magallanes y de la Antártica Chilena, podrán acceder las personas que se encuentren dentro del 80% más vulnerable de la población y participen del programa en estas regiones.
+
+2. Personas con discapacidad.
+
+3. Personas afectadas en su condición física o mental en forma temporal o permanente que vean impedida o restringida su participación plena y efectiva en la sociedad
+
+4. Personas infractoras de ley.
 
 b) Que cuenten con nula o escasa participación laboral, lo que se traduce en una densidad de cotizaciones igual o menor al 50% en los últimos 12 meses.
 
@@ -84,9 +96,11 @@ iii. Hombres y mujeres con responsabilidad parental de 16 y 17 años.
 
 iv. Hombres y mujeres que estén cursando cuarto medio de la enseñanza media técnico profesional.
 
-v. Hombres y mujeres con discapacidad entre 18 y 40 años.
+v. Personas con discapacidad entre 18 y 50 años.
 
-vi. Hombres y mujeres jóvenes infractores de ley, entre 14 y 40 años, y excepcionalmente mujeres hasta 64 años.
+vi. Personas infractoras de ley, entre 14 y 64 años.
+
+vii. Personas afectadas en su condición física o mental en forma temporal o permanente que vean impedida o restringida su participación plena y efectiva en la sociedad entre 18 y 50 años
 
 Sin perjuicio de lo señalado en el inciso anterior, no podrán participar del programa las personas que:
 
@@ -95,6 +109,8 @@ Sin perjuicio de lo señalado en el inciso anterior, no podrán participar del p
 2. Cuenten con un nivel de educación terciaria completa impartida por institutos profesionales, centros de formación técnica y/o por universidades estatales o privadas, y
 
 3. Aquellas que, al momento de postular, se encuentren como alumnos/as regulares en institutos profesionales, centros de formación técnica o en universidades estatales o privadas.
+
+Los participantes que no se encuentren inscritos en la Bolsa Nacional de Empleo al momento de ingresar al programa y que de acuerdo con la ley N° 19.728, cumplan con los requisitos para incorporarse a esta deberán hacerlo durante la etapa de Intermediación Laboral.
 
 ## Título II — - DE LAS LÍNEAS DEL PROGRAMA.
 
@@ -108,7 +124,7 @@ a) Más Capaz.
 
 b) Más Capaz Mujer Emprendedora.
 
-c) Más Capaz Jóvenes con Discapacidad.
+c) Más Capaz Personas con Discapacidad o afectadas en su condición física o mental.
 
 Sin perjuicio de lo señalado, a través de decreto del Ministerio del Trabajo y Previsión Social se podrán establecer otras líneas de acción del programa.
 
@@ -118,7 +134,7 @@ Más Capaz.
 
 La línea Más Capaz del programa tendrá por objeto la capacitación de jóvenes entre 18 y 29 años de edad y mujeres de entre 30 y 64 años de edad. Para los jóvenes y mujeres que no hayan terminado el segundo ciclo de educación media se podrá ofrecer la nivelación de estudios.
 
-Además, podrán participar en esta línea las personas a que se hace referencia en el acápite c) iv del artículo tercero del presente decreto.
+Además, podrán participar en esta línea, las personas a que se hace referencia en el acápite c) números iii, iv, v, vi y vii del artículo tercero del presente decreto.
 
 #### Artículo sexto
 
@@ -148,13 +164,13 @@ iii. Asistencia técnica para la instalación de prácticas y procesos.
 
 #### Artículo séptimo
 
-Más Capaz Jóvenes con Discapacidad
+Más Capaz Personas con Discapacidad o afectadas en su condición física o mental.
 
-La línea Más Capaz Jóvenes con Discapacidad se focaliza en personas de entre 18 y 40 años de edad y deberá dotar a los/las participantes de formación en un oficio y de las habilidades laborales necesarias para poder acceder en igualdad de oportunidades al mercado del trabajo.
+La línea Más Capaz Personas con Discapacidad o afectadas en su condición física o mental se focaliza en las personas definidas en el acápite c) v. y vii. del artículo tercero del presente acto administrativo, para dotarlas de formación en un oficio y de las habilidades laborales necesarias para lograr su inclusión laboral.
 
-Sin perjuicio de lo señalado en el artículo primero del presente decreto, esta línea podrá considerar, además la inserción laboral bajo la modalidad de empleo con apoyo.
+Sin perjuicio de lo señalado en el artículo primero del presente decreto, esta línea podrá considerar, además prácticas laborales e inserción laboral bajo la modalidad de empleo con apoyo.
 
-La forma de acreditación de la situación de discapacidad será mediante alguno de los siguientes medios:
+Para los efectos de acceder a los beneficios de esta línea, la acreditación de la situación de discapacidad o condición en que se encuentra la persona, será a través de alguno de los siguientes medios:
 
 a) Credencial de Inscripción en el Registro Nacional de Discapacidad del Servicio de Registro Civil e Identificación.
 
@@ -162,7 +178,9 @@ b) Copia de resolución de discapacidad emitida por la Comisión de Medicina Pre
 
 c) Certificado de inscripción de discapacidad emitido por el Servicio de Registro Civil e Identificación.
 
-d) Presentación del pago de la pensión básica solidaria de invalidez.
+d) Presentación del pago de la pensión de invalidez.
+
+e) Para las personas señaladas en el artículo tercero acápite c) vii del presente acto administrativo, la forma de acreditar la afectación de su condición física o mental será a través de un certificado extendido por un médico.
 
 ## Título III — - EJECUTORES
 
@@ -174,11 +192,35 @@ La ejecución de este programa podrá realizarse por medio de las personas jurí
 
 Igualmente, se podrá ejecutar el programa por medio de los establecimientos de educación media técnico profesionales cuyo administrador o sostenedor sea privado o público; las fundaciones y corporaciones que atiendan preferentemente a personas con discapacidad y, asimismo, por las personas jurídicas establecidas en el artículo 46, letra e) de la ley 19.518 y demás entidades públicas o privadas que establezca la Ley de Presupuesto del año correspondiente.
 
-## Título IV — - REGULACIÓN DEL PROGRAMA
+## Título IV — MECANISMOS DE CONTROL
 
 #### Artículo noveno
 
-Regulación del Programa.
+Mecanismos de Control
+
+El Sence realizará las supervisiones pertinentes, para verificar el cumplimiento de la normativa señalada en el presente decreto y en las instrucciones que el Director Nacional del Sence dicte al efecto, de acuerdo con el Plan Anual de Fiscalización, Supervigilancia y Auditoría interna del Sence a que se hace referencia en la letra h) del artículo segundo del presente decreto.
+
+Los Organismos Ejecutores deberán adoptar las medidas conducentes a permitir el libre acceso de los auditores y supervisores del Sence sin restricciones, prestando la colaboración que se requiera en este sentido.
+
+#### Artículo décimo
+
+Presentación de antecedentes falsos
+
+Las personas que participen en el programa y que presenten antecedentes falsos para la obtención de alguno de los beneficios que el mismo contempla, no podrán continuar participando en el mismo, sin perjuicio de las demás acciones legales que resulten procedentes.
+
+#### Artículo décimo
+
+primero: Obligaciones de los organismos ejecutores.
+
+Los organismos ejecutores deberán dar cumplimiento a la normativa del Programa, y especialmente verificar el cumplimiento de los requisitos de acceso al Programa por parte de los/las participantes, cuando su constatación le corresponda a éstos, debiendo poner en conocimiento de Sence cualquier situación de la cual tomen conocimiento que constituya una vulneración a la normativa del programa.
+
+Aquellos ejecutores que permitan la participación de personas que no cumplan con los requisitos exigidos en el Programa, no continuarán ejecutando las acciones previstas en éste, sin perjuicio de las demás sanciones o acciones legales que correspondan.
+
+## Título V — - REGULACIÓN DEL PROGRAMA
+
+#### Artículo décimo
+
+segundo: Regulación del Programa.
 
 El Ministerio del Trabajo y Previsión Social, o el Servicio Nacional de Capacitación y Empleo, podrán emitir uno o más decretos o resoluciones adicionales, para regular determinados aspectos que sean necesarios para la correcta ejecución del programa.
 
