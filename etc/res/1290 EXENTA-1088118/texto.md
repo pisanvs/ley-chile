@@ -32,6 +32,8 @@ Resolución:
 
 La Seremi deberá publicar un extracto de las resoluciones de selección en el Diario Oficial. En tanto, Serviu mediante un aviso en al menos un periódico de circulación regional, pondrá en conocimiento de los postulantes el lugar y la fecha en que serán publicadas las nóminas de los seleccionados y los respectivos proyectos.
 
+Únicamente podrán digitarse en el Sistema RUKAN los proyectos previamente calificados por Serviu.
+
 3. Exímase a los postulantes de este llamado de cumplir con los siguientes requisitos, condiciones y antecedentes establecidos en el decreto supremo Nº 255 (V. y U.) de 2006:
 
 a. Del monto de ahorro contenido en el artículo 9º.
