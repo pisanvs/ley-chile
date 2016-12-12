@@ -14332,13 +14332,17 @@ Las notas a estos estados se prepararán siguiendo los criterios de la NIC 34.
 
 Lo anterior no obsta para que los bancos preparen estados financieros intermedios trimestrales de acuerdo con la NIC 34, con cifras comparativas de los trimestres y de los períodos acumulados, incluyendo el último trimestre en los estados financieros anuales de que trata el Capítulo C-1.
 
-Los estados de situación intermedios a que se refiere el presente Capítulo no requieren de una opinión de los auditores externos y se enviarán a esta Superintendencia, aprobados por el Directorio, a lo menos seis días hábiles bancarios antes de su publicación. Los estados se enviarán firmados en un documento en PDF.
+Los estados referidos al 30 de junio de cada año serán objeto de un informe de revisión de la información financiera intermedia, emitido por los auditores externos acuerdo con las Normas de Auditoría Generalmente (NAGA N° 63, Sección AU 930).
+
+Los bancos deberán enviar a esta Superintendencia sus estados financieros intermedios el mismo día de su publicación o, si este fuera inhábil, el día hábil bancario inmediatamente anterior o siguiente. Para el efecto, enviarán en un documento PDF los estados financieros, debidamente firmados.
 
 A diferencia de la entrega de los estados financieros correspondientes al ejercicio anual, para los estados de situación de que se trata no se acompañarán estados financieros de las entidades que se consolidan.
 
 La publicación en el periódico de circulación nacional se efectuará a más tardar el último día del mes que sigue a la fecha a que los estados se refieran.
 
-Al igual que los estados financieros anuales, los bancos pueden optar por publicarlos en su sitio web, debiendo en ese caso publicar en el periódico el balance general, el estado de resultados y la inserción indicada en el Capítulo C-1.
+Si un banco no pudiere contar con toda la información necesaria para elaborar los estados financieros con sus respectivas notas dentro del plazo establecido en la ley para su publicación, deberá al menos publicar y enviar a esta Superintendencia el Estado de Situación Financiera y el Estado de Resultados, agregando una nota en la que se indique la fecha en que los estados completos estarán a disposición de los usuarios en el sitio web del banco. En todo caso, ellos deberán estar disponibles dentro de la primera quincena del mes siguiente, plazo durante el cual se enviarán a este Organismo.
+
+Al tratarse de los estados referidos al 30 de junio, el banco deberá enviar también a esta Superintendencia, a más tardar el 15 de agosto, el respectivo informe de revisión de sus auditores externos.
 
 Compendio de Normas Contables
 
