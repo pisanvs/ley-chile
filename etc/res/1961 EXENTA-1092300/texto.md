@@ -60,11 +60,11 @@ e. De lo establecido en el artículo 32 de la letra a) del artículo 37, sobre e
 
 4. Exímase al presente llamado de dar cumplimiento al plazo de publicación en el Diario Oficial de la resolución exenta que lo convoca, establecido en el inciso tercero del artículo 13 del decreto supremo Nº 255 (V. y U.), de 2006, debiendo publicarse hasta con 3 días corridos de antelación a la fecha de inicio de la postulación.
 
-5. El presupuesto inicial disponible para este Llamado Especial Regional PPPF para el Sector de Bajos de Mena, comuna de Puente Alto, corresponde a 68.500 UF. Dicho presupuesto global incluye el monto del subsidio, más los servicios de asistencia técnica respectiva.
+5. El presupuesto inicial disponible para este Llamado Especial Regional PPPF para el sector de Bajos de Mena, comuna de Puente Alto, corresponde a 128.098 UF. Dicho presupuesto global incluye el monto del subsidio más los servicios de asistencia técnica respectiva
 
 Región UF
 
-Metropolitana 68.500
+Metropolitana 128.098
 
 ### 6. Para este llamado se definen las siguientes condiciones especiales:
 
