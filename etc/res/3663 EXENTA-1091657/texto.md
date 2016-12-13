@@ -30,6 +30,8 @@ Resolución:
 
 .
 
+Únicamente podrán digitarse en el Sistema RUKAN los proyectos previamente calificados por el Serviu
+
 3. Exímese a los postulantes de este llamado de cumplir con los siguientes requisitos, condiciones y antecedentes establecidos en el decreto supremo Nº 255 (V. y U.) de 2006:
 
 a) Del máximo de integrantes de un grupo organizado para la Postulación Colectiva, definida en el artículo 3º.
