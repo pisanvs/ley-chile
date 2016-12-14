@@ -42,11 +42,11 @@ Decreto:
 
 #### Artículo 1°
 
-Declárase alerta sanitaria en todo el territorio de la Región de Arica y Parinacota, para enfrentar la emergencia producida por la reintroducción al territorio nacional continental del mosquito Aedes aegypti.
+Declárase Alerta Sanitaria en todo el territorio de la Región de Arica y Parinacota y de la Región de Tarapacá para enfrentar la emergencia producida por la reintroducción al territorio nacional continental del mosquito Aedes aegyptf.
 
 #### Artículo 2º
 
-Otórganse a la Secretaría Regional Ministerial de Salud de la Región de Arica y Parinacota facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
+Otórgase a las Secretarías Regionales Ministeriales de Salud de las regiones de Arica y Parinacota y de Tarapacá facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
 
 1°.- Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requieran desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
@@ -60,7 +60,7 @@ Las facultades señaladas en los números 1, 2 y 3 de este artículo deberán se
 
 #### Artículo 3º
 
-Otórganse al Servicio de Salud de Arica y Parinacota facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
+Otórgase al Servicio de Salud Arica y al Servicio de Salud Iquique facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
 
 1°.- Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requieran desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
@@ -90,7 +90,7 @@ Lo anterior, de conformidad con lo señalado en los convenios que, previamente, 
 
 #### Artículo 6°
 
-Los efectos de este decreto tendrán vigencia hasta el 31 de diciembre de 2016, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten.
+Los efectos de este decreto tendrán vigencia hasta el 28 de febrero de 2017, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten.
 
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Carmen Castillo Taucher, Ministra de Salud.
 
