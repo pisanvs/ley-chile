@@ -74,6 +74,8 @@ Para efectos de la determinación de los precios de nudo promedio a utilizar en 
 
 Los precios de nudo de energía y potencia promedio en nivel de distribución para cada concesionaria fueron calculados de acuerdo a las fórmulas, parámetros y definiciones considerados en los Informes Técnicos de la Comisión.
 
+.
+
 * Todas aquellas comunas que no se encuentren individualizadas en la tabla y que son suministradas por la respectiva empresa concesionaria en el sistema de subtransmisión indicado.
 
 Donde:
