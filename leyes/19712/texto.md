@@ -16,17 +16,23 @@ Para los efectos de esta ley, se entiende por deporte aquella forma de actividad
 
 Es deber del Estado crear las condiciones necesarias para el ejercicio, fomento, protección y desarrollo de las actividades físicas y deportivas, estableciendo al efecto una política nacional del deporte orientada a la consecución de tales objetivos.
 
-El Estado promoverá las actividades anteriores a través de la prestación de servicios de fomento deportivo y de la asignación de recursos presupuestarios, distribuidos con criterios regionales y de equidad, de beneficio e impacto social directo, que faciliten el acceso de la población, especialmente niños, adultos mayores, discapacitados y jóvenes en edad escolar, a un mejor desarrollo físico y espiritual.
+El Estado promoverá las actividades anteriores a través de la prestación de servicios de fomento deportivo y de la asignación de recursos presupuestarios, distribuidos con criterios regionales y de equidad, de beneficio e impacto social directo, que faciliten el acceso de la población, especialmente niños, adultos mayores, personas en situación de discapacidad y jóvenes en edad escolar, a un mejor desarrollo físico y espiritual.
+
+#### Artículo 2 bis
+
+Se entiende por deporte adaptado para las personas en situación de discapacidad, aquella modalidad deportiva que se adecua a este grupo de personas, ajustando sus reglas o implementos para su desarrollo, así como aquellos deportes especialmente diseñados para ellos, con el fin de permitirles su práctica. Estas adecuaciones no deben implicar o conllevar la pérdida de la esencia misma del deporte.
+
+Cuando el deporte adaptado se desarrolle y practique en la forma y por deportistas señalados en el artículo 8, y bajo el amparo del Comité Paralímpico, se denominará deporte paralímpico y sus cultores, deportistas paralímpicos.
 
 #### Artículo 3º
 
-La política nacional del deporte deberá ajustarse a las disposiciones de la presente ley, reconociendo y fomentando el ejercicio del derecho de las personas a organizar, aprender, practicar, presenciar y difundir actividades físicas y deportivas. Asimismo, contemplará acciones coordinadas de la Administración del Estado y de los grupos intermedios de la sociedad destinadas a impulsar, facilitar, apoyar y fomentar tales actividades físicas y deportivas en los habitantes del territorio nacional, en comunidades urbanas y rurales, como también a promover una adecuada ocupación de los lugares públicos y privados especialmente acondicionados para estos fines.
+La política nacional del deporte deberá ajustarse a las disposiciones de la presente ley, reconociendo y fomentando el ejercicio del derecho de las personas a organizar, aprender, practicar, presenciar y difundir actividades físicas y deportivas. Asimismo, contemplará acciones coordinadas de la Administración del Estado y de los grupos intermedios de la sociedad destinadas a impulsar, facilitar, apoyar y fomentar tales actividades físicas y deportivas en los habitantes del territorio nacional, en comunidades urbanas y rurales, tanto para el deporte convencional como adaptado, como también a promover una adecuada ocupación de los lugares públicos y privados especialmente acondicionados para estos fines.
 
 La política nacional del deporte deberá velar por la autonomía de las organizaciones deportivas y la libertad de asociación, fundada en los principios de descentralización y de acción subsidiaria del Estado.
 
 #### Artículo 4º
 
-La política nacional del deporte considerará planes y programas para las siguientes modalidades:
+La política nacional del deporte considerará planes y programas para las siguientes modalidades, tanto en su versión convencional como adaptado:
 
 a) Formación para el Deporte;
 
@@ -36,19 +42,25 @@ c) Deporte de Competición, y
 
 d) Deporte de Alto Rendimiento y Proyección Internacional.
 
-Los planes y programas a que se refiere el inciso anterior contemplarán, entre otras acciones, promover la formación de profesionales y técnicos de nivel superior en disciplinas relacionadas con el deporte; promover la prestación de servicios de difusión de la cultura del deporte; de orientación técnica y metodológica para programas de actividades y competiciones deportivas; de asesoría para creación y desarrollo de organizaciones deportivas; de asesoría y formación en gestión de recintos e instalaciones deportivas; de asesoría en arquitectura deportiva; de becas y cupos de participación en actividades y competiciones; de inversiones para la adquisición de terrenos, y construcción, ampliación, mejoramiento y equipamiento de recintos deportivos; de medición y evaluación periódica de la realidad deportiva nacional y de los planes y programas ejecutados en corto y mediano plazo, cuya periodicidad se determinará en el reglamento.
+Los planes y programas a que se refiere el inciso anterior contemplarán, entre otras acciones, promover la formación de profesionales y técnicos de nivel superior en disciplinas relacionadas con el deporte; promover el deporte adaptado en los establecimientos educacionales del país; promover la prestación de servicios de difusión de la cultura del deporte; de orientación técnica y metodológica para programas de actividades y competiciones deportivas; de asesoría para creación y desarrollo de organizaciones deportivas; de asesoría y formación en gestión de recintos e instalaciones deportivas; de asesoría en arquitectura deportiva; de becas y cupos de participación en actividades y competiciones; de inversiones para la adquisición de terrenos, y construcción, ampliación, mejoramiento y equipamiento de recintos deportivos; de medición y evaluación periódica de la realidad deportiva nacional y de los planes y programas ejecutados en corto y mediano plazo, cuya periodicidad se determinará en el reglamento.
+
+#### Artículo 4 bis
+
+Los planes y programas de la Política Nacional del Deporte deberán asegurar a todas las personas en situación de discapacidad, incluyendo a los deportistas adaptados o paralímpicos, el derecho a la educación física, a la práctica deportiva, a la salud, al bienestar físico y mental, a la integración, al ocio y a las posibilidades que el deporte ofrece, y a contar con instalaciones adaptadas y accesibles para la práctica del deporte, de conformidad con la ley.
+
+Asimismo, las federaciones deportivas deberán adaptar sus reglamentos para regular y permitir la práctica inclusiva del deporte y promover la organización de competencias de deporte adaptado o inclusivo en todas las categorías.
 
 #### Artículo 5º
 
 Se entiende por formación para el deporte la puesta en práctica de procesos de enseñanza y aprendizaje a cargo de profesionales o técnicos especializados vinculados a la actividad física-deportiva, cuyo objetivo es el desarrollo en las personas de aptitudes, habilidades y destrezas necesarias para la práctica de los distintos deportes; el conocimiento de los fundamentos éticos, técnicos y reglamentarios de las especialidades deportivas, y la práctica sistemática y permanente de actividades deportivas para niños, jóvenes y adultos.
 
-Los planes y programas de estudio de la educación básica y de la educación media deberán considerar los objetivos y contenidos destinados a la formación para el deporte. El marco curricular de enseñanza de la educación preescolar deberá considerar contenidos destinados a enseñar el valor e importancia del deporte, sus fundamentos y a motivar e incentivar su práctica.
+Los planes y programas de estudio de la educación básica y de la educación media deberán considerar los objetivos y contenidos destinados a la formación para el deporte, así como también los objetivos asociados al deporte adaptado, con el fin de obtener un enfoque inclusivo que fomente el desarrollo de éstos y aquéllos. El marco curricular de enseñanza de la educación preescolar deberá considerar contenidos destinados a enseñar el valor e importancia del deporte, sus fundamentos y a motivar e incentivar su práctica.
 
 A falta de los profesionales o técnicos especializados, señalados en el inciso primero de este artículo, podrán estar a cargo de los procesos de formación para el deporte, las personas con capacitación acreditada por el Instituto Nacional de Deportes de Chile y con la autorización del Ministerio del Deporte.
 
 El Ministerio de Educación establecerá un Sistema Nacional de Medición de la Calidad de la Educación Física y Deportiva para ser aplicado al finalizar la Educación Básica, debiendo consultar previamente al Ministerio del Deporte.
 
-Las instituciones de educación superior fomentarán y facilitarán la práctica del deporte por parte de sus alumnos, además de crear becas de acceso a deportistas destacados. A ellos se deberá otorgar las facilidades necesarias a fin de hacer compatibles sus estudios con la práctica intensiva del deporte. Aquellas instituciones de este nivel que reciban subsidios o aportes del Estado, deberán establecer sistemas permanentes que permitan a los alumnos designados como seleccionados regionales o nacionales por las respectivas federaciones, hacer compatibles sus actividades académicas con los programas de entrenamiento y participación en las competiciones deportivas. La existencia de dichos sistemas será requisito obligatorio para todas las instituciones de educación superior que postulen a la asignación de recursos por parte del Instituto Nacional de Deportes de Chile destinados al financiamiento de proyectos deportivos de cualquier tipo.
+Las instituciones de educación superior fomentarán y facilitarán la práctica del deporte por parte de sus alumnos, incluyendo a aquéllos en situación de discapacidad, además de crear becas de acceso a deportistas destacados. A ellos se deberá otorgar las facilidades necesarias a fin de hacer compatibles sus estudios con la práctica intensiva del deporte. Aquellas instituciones de este nivel que reciban subsidios o aportes del Estado, deberán establecer sistemas permanentes que permitan a los alumnos designados como seleccionados regionales o nacionales por las respectivas federaciones, hacer compatibles sus actividades académicas con los programas de entrenamiento y participación en las competiciones deportivas. La existencia de dichos sistemas será requisito obligatorio para todas las instituciones de educación superior que postulen a la asignación de recursos por parte del Instituto Nacional de Deportes de Chile destinados al financiamiento de proyectos deportivos de cualquier tipo.
 
 #### Artículo 6º
 
@@ -66,17 +78,19 @@ Se entiende por deporte de competición las prácticas sistemáticas de especial
 
 Se entiende por deporte de alto rendimiento y de proyección internacional aquel que implica una práctica sistemática y de alta exigencia en la respectiva especialidad deportiva.
 
-Se considerarán deportistas de alto rendimiento aquéllos que cumplan con las exigencias técnicas establecidas por el Instituto Nacional de Deportes de Chile con el Comité Olímpico de Chile y la federación nacional respectiva afiliada a este último y, especialmente, quienes, además, integren las selecciones nacionales de cada federación.
+Se considerarán deportistas de alto rendimiento aquéllos que cumplan con las exigencias técnicas establecidas por el Instituto Nacional de Deportes de Chile con el Comité Olímpico de Chile, o con el Comité Paralímpico de Chile, según corresponda, y la federación nacional respectiva afiliada a cualquiera de los dos comités y, especialmente, quienes, además, integren las selecciones nacionales de cada federación.
 
 El Instituto Nacional de Deportes de Chile desarrollará, con las federaciones deportivas nacionales, el Programa Nacional de Deporte de Alto Rendimiento, destinado a elevar el nivel y la proyección internacional del deporte nacional.
 
-Dicho Programa contemplará, entre otras, las siguientes acciones:
+Dicho Programa contemplará, entre otras, las siguientes acciones, tanto para el deporte convencional como para el adaptado:
 
-a) Detección, selección y desarrollo de personas -hombres y mujeres- dotadas de talentos deportivos, en todos los niveles, desde la educación básica;
+a) Detección, selección y desarrollo de personas -hombres y mujeres- dotadas de talentos deportivos, en todos los niveles, desde la educación básica; tanto para el deporte convencional como el deporte adaptado.
 
-b) Formación y perfeccionamiento de técnicos, entrenadores, jueces, administradores deportivos y profesionales ligados a la ciencia del deporte, y
+b) Formación y perfeccionamiento de técnicos, entrenadores, jueces, administradores deportivos, clasificadores funcionales y profesionales ligados a la ciencia del deporte.
 
 c) Creación y desarrollo de centros de entrenamiento para el alto rendimiento deportivo de nivel nacional y regional.
+
+d) Desarrollo de productos para el apoyo de la práctica deportiva de las personas en situación de discapacidad, entendiendo por tales aquellos utilizados por o para personas en situación de discapacidad, destinados a facilitar la participación en deportes adaptados.
 
 Asimismo, el Instituto Nacional de Deportes de Chile podrá participar en la constitución, administración y desarrollo de Corporaciones para el Alto Rendimiento Deportivo, de conformidad con lo establecido en el artículo 13 de la presente ley, o podrá integrarse a las ya formadas.
 
@@ -110,7 +124,7 @@ El Instituto tendrá, en especial, las siguientes funciones:
 
 a) Ejecutar las políticas destinadas al desarrollo de la actividad física y el deporte en sus diversas modalidades, en coordinación con las organizaciones deportivas, las municipalidades y los demás organismos públicos y privados pertinentes;
 
-b) Ejecutar las estrategias destinadas a difundir los valores, ideales y conocimientos relativos a la actividad física y al deporte, incentivando su práctica permanente y sistemática en todos los sectores de la población;
+b) Ejecutar las estrategias destinadas a difundir los valores, ideales y conocimientos relativos a la actividad física y al deporte, tanto convencional como adaptado, incentivando su práctica permanente y sistemática en todos los sectores de la población;
 
 c) Proporcionar orientaciones técnicas y metodológicas a las personas y organizaciones que lo soliciten, para la formulación de estrategias, planes y proyectos de desarrollo deportivo, así como para el diseño de programas de actividades físicas y deportivas en sus diferentes modalidades;
 
@@ -122,7 +136,7 @@ f) SUPRIMIDA;
 
 g) Impulsar el desarrollo de los sistemas de entrenamiento y fomento del alto rendimiento deportivo, pudiendo para este efecto integrar y participar en la formación de corporaciones privadas, o incorporarse a las ya formadas;
 
-h) Actuar como unidad técnica mandataria de otros organismos públicos en la construcción de recintos e instalaciones deportivos, funciones todas que deberán cumplirse en los términos establecidos en el artículo 16 de la ley N° 18.091. Le corresponderá, asimismo, fomentar la modernización y el desarrollo de la infraestructura deportiva nacional, así como la gestión eficiente de la capacidad instalada;
+h) Actuar como unidad técnica mandataria de otros organismos públicos en la construcción de recintos e instalaciones deportivos, funciones todas que deberán cumplirse en los términos establecidos en el artículo 16 de la ley N° 18.091. Le corresponderá, asimismo, fomentar la modernización y el desarrollo de la infraestructura deportiva nacional, así como la gestión eficiente de la capacidad instalada. Será aplicable a esta infraestructura lo dispuesto en el párrafo 1º del título IV de la ley Nº 20.422.;
 
 i) SUPRIMIDA;
 
@@ -130,7 +144,7 @@ j) Administrar los recintos e instalaciones que formen parte de su patrimonio, p
 
 k) Transferir recursos en dinero, bienes o servicios para la realización de proyectos relativos a la difusión, fomento y desarrollo de las modalidades deportivas que establece esta ley;
 
-l) Financiar o contribuir al financiamiento de becas a deportistas, profesionales de la educación física y del deporte y dirigentes de organizaciones deportivas, para su capacitación, perfeccionamiento y especialización, en la forma que determine el Reglamento.
+l) Financiar o contribuir al financiamiento de becas a deportistas, profesionales de la educación física y del deporte, tanto convencional como adaptado, y dirigentes de organizaciones deportivas, para su capacitación, perfeccionamiento y especialización, en la forma que determine el Reglamento.
 
 Estas becas no constituyen renta para ningún efecto legal;
 
@@ -138,7 +152,7 @@ m) Vincularse con organismos nacionales y, en general, con toda institución o p
 
 n) Instituir, en favor de deportistas o ex deportistas y de dirigentes o ex dirigentes deportivos nacionales, que tengan o hayan tenido destacada participación regional, nacional o internacional, según determine el reglamento respectivo, premios que podrán consistir en estímulos en dinero, con cargo al presupuesto del Instituto;
 
-ñ) Financiar o contribuir a financiar, de acuerdo a sus disponibilidades presupuestarias, los gastos de traslado y mantención de delegaciones de las federaciones nacionales y del Comité Olímpico de Chile que deban concurrir a participar, en representación del país, en competencias deportivas internacionales realizadas dentro y fuera del país;
+ñ) Financiar o contribuir a financiar, de acuerdo a sus disponibilidades presupuestarias, los gastos de traslado y mantención de delegaciones del Comité Paralímpico de Chile, del Comité Olímpico de Chile y las federaciones vinculadas a cualquiera de estos comités que deban concurrir a participar, en representación del país, en competencias deportivas internacionales realizadas dentro y fuera del país;
 
 o) Ejecutar las acciones y ejercer las facultades que sean necesarias para el cumplimiento de los fines que la ley le asigna, pudiendo al efecto celebrar convenios con personas naturales o jurídicas, nacionales o extranjeras, de derecho público o privado;
 
@@ -310,11 +324,13 @@ e) Un representante de las asociaciones gremiales de profesionales y técnicos d
 
 f) Un representante de las instituciones de la Defensa Nacional (Delegado Regional del Deporte Militar), con sede en la respectiva Región;
 
-g) Dos representantes con grado académico en educación física, con residencia en la respectiva Región, propuestos por el correspondiente Director Regional del Instituto, y
+g) Dos representantes con grado académico en educación física, con residencia en la respectiva Región, propuestos por el correspondiente Director Regional del Instituto;
 
-h) Un representante designado por la dirección regional respectiva del Servicio Nacional de la Mujer.
+h) Un representante designado por la dirección regional respectiva del Servicio Nacional de la Mujer, y
 
-Estos miembros, salvo el señalado en la letra h), serán designados por el Consejo Regional del Gobierno Regional respectivo. Para tales efectos, cada uno de estos consejos regionales abrirá un período de inscripción, con el objeto de que las instituciones habilitadas para participar en los Consejos Consultivos o el respectivo Director Regional del Instituto, según corresponda, presenten postulantes a dichos cargos, en un número equivalente al señalado para cada caso en el inciso anterior.
+i) Un representante de las organizaciones deportivas de deporte adaptado de la Región y un representante designado por la Dirección Regional respectiva del Servicio Nacional de la Discapacidad.
+
+Estos miembros, salvo los señalados en las letras h) e i), serán designados por el Consejo Regional del Gobierno Regional respectivo. Para tales efectos, cada uno de estos consejos regionales abrirá un período de inscripción, con el objeto de que las instituciones habilitadas para participar en los Consejos Consultivos o el respectivo Director Regional del Instituto, según corresponda, presenten postulantes a dichos cargos, en un número equivalente al señalado para cada caso en el inciso anterior.
 
 Los consejeros así nombrados durarán dos años en sus cargos, los que ejercerán ad honorem, pudiendo ser designados por nuevos períodos. Las vacantes que se produzcan serán llenadas mediante el mismo procedimiento señalado en el inciso precedente y se extenderán sólo por el tiempo que reste para completar el período del consejero que provocó la vacancia. Cesará en su cargo por el solo ministerio de la ley el consejero que faltare a más del 50% de las sesiones en un año calendario. Dicha vacancia se llenará en la forma anteriormente señalada.
 
@@ -526,7 +542,7 @@ d) Consejo local de deportes, formado por asociaciones deportivas locales corres
 
 e) Asociación deportiva regional, formada por asociaciones locales o clubes de la respectiva Región cuando el número de éstos no permita la existencia de a lo menos tres asociaciones locales, cuyo objeto es organizar competiciones regionales y nacionales y difundir la correspondiente especialidad o modalidad deportiva;
 
-f) Federación deportiva, formada por clubes, asociaciones locales o asociaciones regionales, cuyo objeto es fomentar y difundir la práctica de sus respectivos deportes en el ámbito nacional; establecer las reglas técnicas y de seguridad relativas a dichas prácticas velando por su aplicación, y organizar la participación de sus deportistas en competiciones nacionales e internacionales en conformidad a la presente ley, sus estatutos y demás normas internas o internacionales que les sean aplicables. También se considera una federación aquella entidad que tiene por objeto promover la actividad física y el deporte en sectores específicos de la población, tales como estudiantes, miembros de las Fuerzas Armadas y de Orden y Seguridad Pública, trabajadores, discapacitados y otros. Los estatutos de cada federación establecerán si éstas se integrarán con clubes, asociaciones locales o asociaciones regionales;
+f) Federación deportiva, formada por clubes, asociaciones locales o asociaciones regionales, cuyo objeto es fomentar y difundir la práctica de sus respectivos deportes en el ámbito nacional; establecer las reglas técnicas y de seguridad relativas a dichas prácticas velando por su aplicación, y organizar la participación de sus deportistas en competiciones nacionales e internacionales en conformidad a la presente ley, sus estatutos y demás normas internas o internacionales que les sean aplicables. También se considera una federación aquella entidad que tiene por objeto promover la actividad física y el deporte en sectores específicos de la población, tales como estudiantes, miembros de las Fuerzas Armadas y de Orden y Seguridad Pública, trabajadores, personas en situación de discapacidad y otros. Los estatutos de cada federación establecerán si éstas se integrarán con clubes, asociaciones locales o asociaciones regionales;
 
 g) Federación Deportiva Nacional: Es aquella Federación Deportiva que cumple con los siguientes requisitos:
 
@@ -559,6 +575,20 @@ Corresponderá también al Comité Olímpico de Chile organizar la participació
 El símbolo, bandera, lema, emblema e himno del Comité Olímpico Internacional, así como las denominaciones "Juegos Olímpicos", "Juegos Panamericanos", "Juegos Sudamericanos" y "Juegos del Pacífico" son de uso exclusivo del Comité Olímpico de Chile, en el territorio nacional. De igual protección gozarán la denominación "Comité Olímpico de Chile" y el emblema de esta organización.
 
 El Comité Olímpico de Chile se rige por sus estatutos y reglamentos y por las disposiciones de la Carta Olímpica que le sean aplicables, de conformidad a la legislación nacional y a los convenios internacionales.
+
+#### Artículo 33 bis
+
+El Comité Paralímpico de Chile será la máxima organización paralímpica del país. Esta entidad se regirá por sus estatutos y reglamentos, por las disposiciones de la Carta Paralímpica y por las directrices del Comité Paralímpico Internacional que les sean aplicables en conformidad con la legislación nacional y las convenciones internacionales.
+
+Su misión será fomentar la práctica del deporte paralímpico y del deporte adaptado de alto rendimiento, así como difundir sus ideales.
+
+Le corresponderá organizar la participación de los deportistas chilenos en los Juegos Paralímpicos, Parapanamericanos, Parasuramericanos y en otras competencias multideportivas internacionales patrocinadas por el Comité Paralímpico Internacional.
+
+#### Artículo 33 ter
+
+El comité señalado en el artículo anterior estará conformado por federaciones deportivas que se dediquen de manera exclusiva a la práctica del deporte adaptado en una disciplina deportiva, o por discapacidad. Del mismo modo, podrá estar integrado por federaciones deportivas que cuenten de manera inclusiva con deportistas con discapacidad, según sus estatutos.
+
+El símbolo, bandera, lema, emblema e himno del Comité Paralímpico Internacional, así como las denominaciones "Paralímpico", "Juegos Paralímpicos", "Juegos Parapanamericanos" y "Juegos Parasuramericanos" son de uso exclusivo del Comité Paralímpico de Chile, en el territorio nacional. De igual protección gozarán la denominación "Comité Paralímpico de Chile" y el emblema de esta organización.
 
 ### Párrafo 2º
 
@@ -934,9 +964,11 @@ b) Fomentar y apoyar, a través de medidas específicas de financiamiento, el de
 
 c) Apoyar financieramente al deporte de competición comunal, provincial, regional y nacional;
 
-d) Apoyar financieramente al deporte de proyección internacional y de alto rendimiento, y
+d) Apoyar financieramente al deporte de proyección internacional y de alto rendimiento;
 
-e) Financiar, total o parcialmente, la adquisición, construcción, ampliación y reparación de recintos para fines deportivos.
+e) Financiar, total o parcialmente, la adquisición, construcción, ampliación y reparación de recintos para fines deportivos, y
+
+f) Fomentar y apoyar, a través de medidas específicas de financiamiento, el deporte adaptado y paralímpico.
 
 El Instituto, con cargo al Fondo Nacional para el Fomento del Deporte, podrá complementar las donaciones del sector privado que se efectúen a proyectos concursables orientados al cumplimiento de los objetivos definidos en el presente artículo, pudiendo para ello destinarse, como máximo, un 50% del presupuesto de dicho Fondo.
 
@@ -1222,7 +1254,7 @@ El Ministerio del Deporte promoverá e impulsará medidas de prevención y contr
 
 Para los efectos de lo dispuesto en el artículo precedente existirá, bajo la dependencia del Ministerio del Deporte, la Comisión Nacional de Control de Dopaje.
 
-La Comisión estará integrada por un representante del Ministro del Deporte, designado por éste, que la presidirá; un representante del Ministro de Salud, designado por éste; un representante del Instituto, designado por su Director Nacional; un representante del Comité Olímpico de Chile, designado por el Plenario de Federaciones, y un representante de la Sociedad Chilena de Medicina Deportiva, designado por ésta.
+La Comisión estará integrada por un representante del Ministro del Deporte, designado por éste, que la presidirá; un representante del Ministro de Salud, designado por éste; un representante del Instituto, designado por su Director Nacional; un representante del Comité Olímpico de Chile, designado por el Plenario de Federaciones; un representante del Comité Paralímpico de Chile, también designado por el Plenario de Federaciones, y un representante de la Sociedad Chilena de Medicina Deportiva, designado por ésta.
 
 Los integrantes de la Comisión desempeñarán estas funciones ad-honorem.
 
@@ -1232,7 +1264,7 @@ Serán funciones de la Comisión, entre otras, las siguientes:
 
 a) Divulgar información sobre métodos reglamentarios y modalidades de control del uso de sustancias y grupos farmacológicos prohibidos;
 
-b) Elaborar el listado oficial de sustancias y métodos prohibidos para los entrenamientos y competencias deportivas e informarlo, en concordancia con lo dispuesto al efecto por el Comité Olímpico Internacional y la Agencia Mundial Antidopaje;
+b) Elaborar el listado oficial de sustancias y métodos prohibidos para los entrenamientos y competencias deportivas e informarlo, en concordancia con lo dispuesto al efecto por el Comité Paralímpico Internacional, el Comité Olímpico Internacional y la Agencia Mundial Antidopaje;
 
 c) Establecer las competencias deportivas oficiales, tanto de carácter nacional como las internacionales que se realicen en el país, en las cuales será obligatorio el control de dopaje, siempre que ellas cuenten con el patrocinio o apoyo financiero del Instituto;
 
@@ -1242,7 +1274,7 @@ e) Elaborar el reglamento que regule la realización de controles de dopaje, el 
 
 #### Artículo 72
 
-Los deportistas afiliados a federaciones deportivas nacionales que reciban aportes directos o indirectos, a través del financiamiento que el Instituto entregue al sector del deporte federado, estarán obligados a someterse a control de dopaje, ya sea como parte de los requisitos de dichos programas o a requerimiento de las propias federaciones nacionales, del Comité Olímpico de Chile o de la Comisión Nacional de Control de Dopaje.
+Los deportistas afiliados a federaciones deportivas nacionales que reciban aportes directos o indirectos, a través del financiamiento que el Instituto entregue al sector del deporte federado, estarán obligados a someterse a control de dopaje, ya sea como parte de los requisitos de dichos programas o a requerimiento de las propias federaciones nacionales, del Comité Olímpico de Chile, del Comité Paralímpico de Chile o de la Comisión Nacional de Control de Dopaje.
 
 Los análisis destinados a la detección y comprobación de prácticas prohibidas, deberán realizarse en laboratorios homologados por los organismos deportivos internacionales correspondientes. En el caso de carecer de dicha homologación, su reconocimiento lo entregará la Comisión Nacional de Control de Dopaje, previa evaluación de las condiciones científicas, técnicas y metodológicas que lo garanticen.
 

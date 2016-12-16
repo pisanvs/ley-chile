@@ -56,11 +56,7 @@ De igual forma, formular programas y acciones, con este mismo objeto, destinados
 
 16) Velar por el cumplimiento de las políticas sectoriales por parte del Instituto Nacional de Deportes de Chile, asignarle recursos y fiscalizar sus actividades.
 
-17) Elaborar y aprobar, mediante decreto supremo, un protocolo general para la prevención y sanción de las conductas de acoso sexual, abuso sexual, discriminación y maltrato en el deporte, el que deberá ser adoptado por las organizaciones deportivas a que se refiere el Título III de la ley N° 19.712, del Deporte, como requisito para acceder a los beneficios contemplados en dicha ley, y por las organizaciones deportivas profesionales regidas por la ley N° 20.019, como requisito para acceder a los beneficios y franquicias contemplados en el mismo cuerpo legal.
-
 17) En general, cumplir y ejercer las atribuciones que le encomiende la ley.
-
-En los casos de quienes ejerzan las conductas de acoso sexual y/o abuso sexual, procederá siempre la inhabilitación perpetua para participar en organizaciones deportivas, con independencia del acceso a los beneficios a que hace mención el inciso precedente, a fin de garantizar el bienestar de quienes han sido o pudieran ser víctimas de estas conductas en lo sucesivo.
 
 ### Párrafo 2°
 
