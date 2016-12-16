@@ -40,7 +40,7 @@ a) Estar inscritos en el Registro de Damnificados del Ministerio de Vivienda y U
 
 b) Declaración de Núcleo Familiar según formato provisto por el SERVIU. No se exigirá que suscriban esta declaración las personas mayores de 18 años incluidas como integrantes del núcleo familiar. Sólo podrá incluirse a los hijos de hasta 24 años que integran el núcleo familiar, que viven con el postulante y a sus expensas, señalándolo así expresamente en dicha declaración.
 
-c) Si el damnificado tiene derechos sobre el sitio en que estaba emplazada la vivienda, haya resultado o no totalmente destruida o inhabitable por la catástrofe y éste se encuentra ubicado en zona de riesgo, para inscribirse en este llamado deberá haber iniciado los trámites de cesión de derechos o transacción sobre el terreno al Serviu, lo que deberá ser acreditado por éste.
+c) Si el damnificado tiene derechos sobre el sitio en que estaba emplazada la vivienda, haya resultado o no totalmente destruida o inhabitable por la catástrofe y éste se encuentra ubicado en zona de riesgo, para inscribirse en este llamado deberá haber iniciado los trámites de cesión de derechos o transacción sobre el terreno al Serviu, lo que deberá ser acreditado por éste. Estarán eximidos de esta obligación, los damnificados propietarios cuyas viviendas siniestradas se encuentren emplazadas en la Zona Centro Comercial de Chañaral, identificada en la resolución exenta N° 205, de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Atacama, de 2015.
 
 3. Los inscritos en el presente llamado se eximirán del cumplimiento de los siguientes requisitos, condiciones o impedimentos establecidos en el DS Nº 1 (V. y U.), 2011, según corresponda:
 
