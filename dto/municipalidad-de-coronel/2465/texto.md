@@ -150,6 +150,12 @@ En el Área Urbana, las exigencias de estacionamientos son las siguientes:
 
 .
 
+#### Artículo 6
+
+3.
+
+En predios que enfrenten a la vialidad colectora denominada "Carlos Prats", en el tramo comprendido entre "Nodo Los Laboreos y Pedro Aguirre Cerda", se acepta el emplazamiento de Equipamiento de Escala Mayor.
+
 #### Artículo 4
 
 Publíquese el presente decreto y el texto íntegro de la Ordenanza del Plan Regulador Comunal de Coronel en el Diario Oficial de la República de Chile.
