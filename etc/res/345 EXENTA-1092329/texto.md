@@ -16,9 +16,17 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados en las siguientes calles: Av. Manuel Antonio Matta oriente en calzada completa en el tramo desde calle Atacama a Av. Circunvalación de la comuna de Copiapó, a partir del día jueves 16 de julio de 2016 a las 18:00 hrs. hasta las 23:59 hrs. del día 17 de junio de 2016.
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 1 de diciembre de 2016 y hasta el 1 de marzo de 2017, por calzada poniente de Av. Vicuña Mackenna, entre Av. Departamental y 150 metros al norte de Av. Escuela Agrícola.
 
-2.- Los servicios de transporte público, que en su recorrido tengan como vías las señaladas en el Resuelvo N° 1 anterior, deberán adoptar alguna de las vías alternativas que se indican a continuación:
+2.- Establécese como medida de gestión de tránsito, en forma excepcional, en el mismo período anterior, que el tramo de Av. Vicuña Mackenna que se indica en el siguiente cuadro, sea destinado como vía exclusiva para el uso de buses de transporte público urbano de pasajeros y taxis, en cualquiera de sus modalidades, con o sin pasajeros en su interior, con sentido de circulación bidireccional.
+
+VÍA DESDE HASTA
+
+Calzada Oriente Av. Departamental 150 metros al norte
+
+Av. Vicuña Mackenna de Av. Escuela
+
+Agrícola
 
 2.1 Alternativa 1: Av. Manuel Antonio Matta, Atacama, Rancagua, reintegrándose a su trazado habitual.
 
