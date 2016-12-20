@@ -40,7 +40,7 @@ iii. Rodrigo Musalem Uauy, cédula nacional de identidad Nº 7.412.799-1.
 
 3. El Ministro de Economía, Fomento y Turismo, será representado por Juan Cristóbal Marshall Silva, cédula nacional de identidad Nº 13.892.894-2.
 
-4. El Ministro de Hacienda será representado por Gerardo Martin Uña, cédula nacional de identidad Nº 23.034.721-2.
+4. El Ministro de Hacienda será representado por Rodrigo Fernando Aranda Lagos, cédula nacional de identidad N° 7.560.656-7.
 
 #### Artículo segundo
 
