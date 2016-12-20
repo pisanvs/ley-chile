@@ -1034,6 +1034,8 @@ El Departamento de Tecnologías de la Información estará conformado por los si
 
 8. Sección Control de Gestión y Proyectos.
 
+9. Sección Seguridad de la Información.
+
 #### Artículo 58º
 
 El Subdepartamento Seguro Público será responsable del desarrollo, implementación y mantención de los sistemas y servicios de apoyo a los procesos del Seguro de Salud. En el ejercicio de estas competencias le corresponderá:
@@ -1197,6 +1199,26 @@ e) Administrar y controlar contratos de proveedores de servicios informáticos a
 f) Investigar nuevos productos y herramientas de software que satisfacen las nuevas necesidades, presentando diversas alternativas de solución y proposiciones a las áreas respectivas.
 
 g) Administrar el contenido de los repositorios de datos, que darán soporte a la toma de decisiones de los usuarios, asegurando la completitud, consistencia, integridad y calidad de los datos.
+
+#### Artículo 66° bis
+
+La Sección Seguridad de la Información será responsable de todas aquellas materias relativas a Seguridad de la Información institucional. En el ejercicio de este objetivo, le corresponderá ejercer las siguientes funciones:
+
+a) Desarrollar y actualizar las políticas, normas y procedimientos asociada a la Seguridad de la Información al interior de la Institución y controlar su implementación y seguimiento, velando por su correcta aplicación.
+
+b) Formar un Comité de Seguridad de la Información, el cual será el responsable de aprobar y/o promover políticas, manuales y procedimientos, además de iniciativas en temas relacionados a la Seguridad de la Información.
+
+c) Velar por la Continuidad Operacional, coordinar y monitorear la implementación del Plan de Continuidad Operacional (PCN).
+
+d) Promover iniciativas y proyectos que aumenten la Seguridad de la Información, liderar proyectos de seguridad dentro de la Institución.
+
+e) Establecer puntos de enlace con Encargados de Seguridad de la Información de otros organismos públicos y especialistas externos (capacitaciones) que le permitan estar al tanto de las tendencias, normas y métodos de seguridad pertinentes.
+
+f) Reportar al Comité de Seguridad de la Información cualquier riesgo de Seguridad de la Información detectada, sea real o potencial, proponiendo posibles soluciones de mitigación.
+
+g) Coordinar y/o ejecutar revisiones periódicas de auditorías relativas a las prácticas de Seguridad de la Información y/o Riesgo Tecnológico.
+
+h) Asesorar en forma permanente y cercana a las distintas áreas de la Institución en temas referentes a Seguridad de la Información y conducir al correcto cumplimiento de los estándares de Seguridad de la Información definidos.
 
 ### XI. DEPARTAMENTO GESTIÓN TERRITORIAL
 
