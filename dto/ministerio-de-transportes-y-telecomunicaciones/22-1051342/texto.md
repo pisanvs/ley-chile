@@ -290,23 +290,9 @@ El presente Reglamento se aplicará a aquellos servicios de telecomunicaciones d
 
 Asimismo, se aplicará a aquellos servicios de telecomunicaciones distintos de los servicios públicos de telecomunicaciones, cuando la operación del servicio no requiera de un despliegue territorial masivo, numeroso o celular, similar al servicio público telefónico móvil y de transmisión de datos móvil, en cuyo caso se estará a las exigencias contempladas en el artículo 7º del título siguiente.
 
-#### Artículo 4º
+#### Artículo 4°
 
-Dentro de los servicios a que se refiere el inciso primero del artículo 3º precedente, se encuentran los siguientes:
-
-a) Los servicios de radiodifusión televisiva que utilicen sistemas
-
-de transmisión digitales; y
-
-b) Los demás servicios de telecomunicaciones cuyas redes, en lo que
-
-respecta a sus antenas, sistemas radiantes y torres soportantes
-
-de éstos, requieran de un despliegue territorial masivo, numeroso
-
-o celular, similar al servicio público telefónico móvil y de
-
-transmisión de datos móvil.
+Dentro de los servicios a que se refiere el inciso primero del artículo 3° precedente, se encuentran todos los servicios de telecomunicaciones distintos de los servicios públicos de telecomunicaciones, cuyas redes, en lo que respecta a sus antenas, sistemas radiantes y torres soportantes de éstos, requieran de un despliegue territorial masivo, numeroso o celular, similar al servicio público telefónico móvil y de transmisión de datos móvil.
 
 #### Artículo 5º
 
@@ -314,21 +300,23 @@ Dentro de los servicios a que se refiere el inciso segundo del artículo 3º pre
 
 a) Servicios de radiodifusión sonora;
 
-b) Servicios de radiodifusión televisiva que utilicen sistemas de
+b) Servicios de radiodifusión televisiva que utilicen
 
-transmisión analógicos;
+sistemas de transmisión analógicos y/o digitales;
 
 c) Servicios limitados de telecomunicaciones; y
 
-d) Los demás servicios de telecomunicaciones cuyas redes, en lo que
+d) Los demás servicios de telecomunicaciones cuyas redes, en
 
-respecta a sus antenas, sistemas radiantes y torres soportantes
+lo que respecta a sus antenas, sistemas radiantes y
 
-de éstos, no requieran de un despliegue territorial masivo,
+torres soportantes de éstos, no requieran de un
 
-numeroso o celular, similar al servicio público telefónico móvil
+despliegue territorial masivo, numeroso o celular,
 
-y de transmisión de datos móvil.
+similar al servicio público telefónico móvil y de
+
+transmisión de datos móvil.
 
 ## Título IV
 
