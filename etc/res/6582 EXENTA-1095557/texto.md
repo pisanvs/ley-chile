@@ -18,7 +18,7 @@ e) La resolución exenta N°32, de la Subsecretaría de Evaluación Social del M
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en las alternativas de postulación individual y colectiva, para proyectos de Construcción en Sitio Propio, Densificación Predial y Pequeño Condominio, que cuenten con Certificado de Proyecto Calificado hasta el último día hábil de los meses de octubre, noviembre y hasta el 15 de diciembre de 2016, en las Regiones de Valparaíso, L. B. O'Higgins, Maule, Biobío, Aysén y Metropolitana. En tal sentido, se efectuarán procesos de selección en forma mensual, con los proyectos calificados para dichos efectos hasta los días indicados, o hasta agotar la totalidad de los recursos dispuestos para cada Región.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en las alternativas de postulación individual y colectiva, para proyectos de Construcción en Sitio Propio, Densificación Predial y Pequeño Condominio, que cuenten con Certificado de Proyecto Calificado hasta el último día hábil de los meses de octubre, noviembre y hasta el 27 de diciembre de 2016, en las Regiones de Valparaíso, L. B. O'Higgins, Maule, Biobío, Aysén y Metropolitana. En tal sentido, se efectuarán procesos de selección en forma mensual, con los proyectos calificados para dichos efectos hasta los días indicados, o hasta agotar la totalidad de los recursos dispuestos para cada Región.
 
 2. Los recursos involucrados por Región del país para la selección de postulantes son los siguentes:
 
