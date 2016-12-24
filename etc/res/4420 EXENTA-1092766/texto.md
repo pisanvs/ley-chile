@@ -22,6 +22,8 @@ Resolución:
 
 La cantidad de cupos de subsidio que dispondrán para este llamado son los que se señalan a continuación:
 
+.
+
 Para el ingreso y aprobación de los proyectos, el Serviu podrá operar mediante los sistemas electrónicos que disponga el Minvu al efecto.
 
 La revisión, aprobación y selección de los proyectos se efectuará de acuerdo a lo señalado en los artículos 12º y 13º del DS Nº 19. Todos los proyectos deberán cumplir con las condiciones, exigencias y requisitos establecidos en el DS Nº 19 y en esta resolución.
