@@ -62,7 +62,7 @@ Autorízase a la empresa AES GENER S.A. a exportar energía eléctrica desde el 
 
 #### Artículo segundo
 
-Establécese que la presente autorización se mantendrá vigente mientras el Sistema Interconectado del Norte Grande no se interconecte con otro sistema eléctrico chileno con capacidad instalada de generación mayor a 200 MW o por un periodo de hasta diez años a contar de la publicación en el Diario Oficial del presente decreto supremo, lo que ocurra primero. En consecuencia, al término del periodo de vigencia señalado la empresa AES GENER S.A. podrá solicitar un nuevo permiso de exportación en conformidad al artículo 220º de la ley.
+Establécese que la presente autorización se mantendrá vigente mientras el Sistema Interconectado del Norte Grande no se interconecte con otro sistema eléctrico chileno con capacidad instalada de generación mayor a 200 MW o por un periodo de hasta diez años a contar de la publicación en el Diario Oficial del presente decreto supremo, lo que ocurra primero. En consecuencia, al término del periodo de vigencia señalado la empresa AES GENER S.A. podrá solicitar un nuevo permiso de exportación en conformidad al artículo 82º de la ley.
 
 #### Artículo tercero
 
@@ -79,6 +79,8 @@ El presente decreto supremo establece las condiciones y disposiciones aplicables
 #### Artículo 2
 
 Las exigencias de seguridad y calidad de servicio a las que deberá sujetarse la planificación y la operación de la exportación de energía, así como las centrales destinadas a la exportación de energía serán las que establezcan la reglamentación correspondiente y la Norma Técnica de Seguridad y Calidad de Servicio.
+
+En lo referente al acceso, este sistema de interconexión internacional se regirá por sus respectivos contratos y por la normativa eléctrica vigente.
 
 #### Artículo 3
 
@@ -100,13 +102,13 @@ g. DPD: Dirección de Planificación y Desarrollo del CDEC;
 
 h. Empresa Generadora: Empresa eléctrica que inyecta energía y potencia con plantas de generación propias o contratadas que se encuentren interconectadas entre sí en un sistema eléctrico;
 
-i. Ley: Ley General de Servicios Eléctricos, decreto con fuerza de ley Nº 4 del Ministerio de Economía, Fomento y Reconstrucción, de 2006, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1 del Ministerio de Minería, de 1982;
+i. Ley: Ley General de Servicios Eléctricos, decreto con fuerza de ley Nº 4 del Ministerio de Economía, Fomento y Reconstrucción, de 2006, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1 del Ministerio de Minería, de 1982, y sus modificaciones posteriores;
 
 j. Línea de Interconexión: Línea de transmisión eléctrica Andes - Salta 345 kV que interconecta al SING con el SADI;
 
 k. Ministerio: Ministerio de Energía;
 
-l. NTSyCS: Norma Técnica de Seguridad y Calidad de Servicio, dictada por la Comisión Nacional de Energía en virtud del artículo 150º de la ley;
+l. NTSyCS: Norma Técnica de Seguridad y Calidad de Servicio, dictada por la Comisión Nacional de Energía de acuerdo a lo dispuesto en la Ley;
 
 m. Punto de Frontera: Nodo o barra del sistema eléctrico en el cual se efectúa la exportación de energía. Este nodo se determina de manera tal que, a lo largo de la Línea de Interconexión, entre el Punto de Frontera y el límite territorial de Chile no existen subestaciones eléctricas, consumos o retiros para el suministro de clientes libres o regulados o centrales de generación eléctrica.
 
@@ -134,13 +136,15 @@ La energía de exportación será producida en las unidades de generación que c
 
 Las unidades de generación se encontrarán habilitadas para la exportación cuando se cumplan copulativamente las siguientes condiciones:
 
-i. No estar considerada su generación para el suministro instantáneo de la demanda eléctrica del sistema eléctrico. Es decir, de no existir exportación de energía, la unidad de generación no figuraría en el despacho del sistema, ya sea por suficiencia eléctrica, prestación de regulación primaria de frecuencia, condiciones especiales de operación, mínimos técnicos o control de voltaje, entre otros.
+i. Todo o parte de su capacidad de generación no se encuentra considerada para el suministro instantáneo de la demanda eléctrica del sistema eléctrico. Es decir, de no existir exportación de energía, la unidad de generación no figuraría en el despacho del sistema, ya sea por suficiencia eléctrica, prestación de regulación primaria de frecuencia, condiciones especiales de operación, mínimos técnicos o control de voltaje, entre otros; o su capacidad de generación disponible como reserva en giro es adicional a la requerida por el sistema y que no participan en el cumplimiento de los requerimientos de reserva en giro para garantizar el abastecimiento de la demanda del SING o, de no existir exportación de energía, dicha parte de la capacidad de generación de la unidad de generación no figuraría en el despacho del sistema, ya sea por suficiencia eléctrica, prestación de regulación primaria de frecuencia, condiciones especiales de operación, mínimos técnicos o control de voltaje, entre otros. Los requerimientos mínimos de reserva en giro para garantizar el abastecimiento de la demanda del SING deberán ser determinados por el CDEC en forma previa a la operación interconectada con el SADI.
+
+Para efectos de lo anterior, no se podrá considerar como capacidad de generación disponible para exportación aquella que se encuentre disponible en unidades que se encuentren marcando el costo marginal del sistema.
 
 ii. No encontrarse, por cualquier causa u origen, en trabajos de mantenimiento programado o de curso forzoso.
 
 iii. La Empresa Generadora propietaria u operadora de la unidad de generación haya suscrito con la Solicitante un acuerdo comercial para que esta última comercialice su producción de energía en el extranjero. Para estos efectos, la Solicitante deberá informar al CDEC, con copia a la Superintendencia, las unidades de generación con las cuales posee acuerdos suscritos.
 
-La comunicación a que se refiere el numeral iii. deberá ser efectuada con, al menos, 45 días corridos de anticipación y deberá contener, al menos: vigencia del acuerdo, identificación de la o las unidades de generación disponibles para exportación y carta de aceptación de la Empresa Generadora.
+La comunicación a que se refiere el numeral iii. deberá ser efectuada con, al menos, 7 días corridos de anticipación y deberá contener, al menos: vigencia del acuerdo, identificación de la o las unidades de generación disponibles para exportación y carta de aceptación de la Empresa Generadora.
 
 #### Artículo 7
 
@@ -160,13 +164,13 @@ c. Verificando que no se activen restricciones y límites de las instalaciones d
 
 En base a los excedentes de energía disponibles para exportación determinados por el CDEC, la Solicitante deberá informar a la DO las cantidades máximas de energía eléctrica a exportar por cada unidad de generación habilitada para la exportación, el orden de prioridad de las unidades y el bloque máximo a exportar medido en el Punto de Frontera. Las cantidades informadas por la Solicitante serán referenciales, quedando sujetas al programa de operación de corto plazo y a la operación en tiempo real.
 
-El programa de operación de corto plazo que elabore la DO incorporará el despacho de las centrales habilitadas para exportación según las cantidades máximas y prioridades informadas para las unidades de generación hasta completar en el Punto de Frontera el bloque de energía informado por la Solicitante, según lo dispuesto en el inciso anterior.
+El programa de operación de corto plazo que elabore la DO incorporará el despacho de las centrales habilitadas para exportación según las cantidades máximas y prioridades informadas para las unidades de generación hasta completar en el Punto de Frontera el bloque de energía informado por la Solicitante, según lo dispuesto en el inciso anterior. Durante la operación real del sistema, con posterioridad a la programación de la operación de corto plazo, la Solicitante podrá informar al CDEC cambios a las cantidades máximas de energía eléctrica a exportar. En base a estos informes, el CDEC podrá modificar las cantidades de energía si las condiciones del sistema eléctrico lo permiten.
 
 Con todo, las transferencias instantáneas de energía a través de la Línea de Interconexión no deberán superar los límites que determine la DO para dar cumplimiento a las condiciones de suministro, seguridad y calidad de servicio del sistema eléctrico dispuestos en la normativa vigente.
 
 #### Artículo 9
 
-Serán excluidas de la determinación de los Costos Marginales las centrales que efectivamente estén participando en la exportación de energía eléctrica, según lo señalado en los artículos anteriores. Así, el Costo Marginal deberá ser determinado de acuerdo al costo variable de operación de las restantes centrales que se encuentren operando en el sistema, conforme lo dispuesto en el artículo 46º del DS Nº 291.
+Serán excluidas de la determinación de los Costos Marginales las centrales que efectivamente estén participando en la exportación de energía eléctrica, según lo señalado en los artículos anteriores. Así, el Costo Marginal deberá ser determinado de acuerdo al costo variable de operación de las restantes centrales que se encuentren operando en el sistema, conforme lo dispuesto en la normativa vigente. Para estos efectos, cuando una unidad de generación se encuentre operando simultáneamente para la operación del sistema eléctrico local y para exportación, la generación de energía de dicha unidad tanto para el abastecimiento local y para exportación será valorizada considerando un único costo variable, el que corresponderá al asociado al nivel de generación de dicha unidad. Sin perjuicio de los otros costos y cargos que le correspondan conforme al presente decreto supremo, serán de cargo de la Solicitante los costos asociados a la energía destinada para exportación producida en estas unidades de generación.
 
 Sin perjuicio de lo anterior y de lo que acuerde la Solicitante con los propietarios de las unidades de generación, las centrales que se encuentren operando para la exportación de energía, deberán ser retribuidas económicamente por la Solicitante en sus costos variables de operación no cubiertos por el Costo Marginal.
 
@@ -174,7 +178,7 @@ La determinación del pago de los costos no cubiertos deberá ser consistente co
 
 #### Artículo 10
 
-La DO no deberá considerar la interconexión de los sistemas SING y SADI para determinar los recursos disponibles a los efectos del "Informe de Definición y Programación de Servicios Complementarios" a que se refiere el artículo 6º del DS Nº 130.
+La DO no deberá considerar la interconexión de los sistemas SING y SADI para determinar los recursos técnicos disponibles requeridos en la operación del sistema eléctrico a que se refiere la letra z) del artículo 225° de la Ley.
 
 Sin embargo, la Solicitante deberá pagar por los servicios complementarios que correspondan por los retiros de energía efectuados desde el Punto de Frontera, así como también por las inyecciones efectuadas para efectos de la exportación por las unidades generadoras habilitadas.
 
@@ -184,9 +188,9 @@ La Solicitante deberá pagar la valorización de los retiros de energía efectua
 
 #### Artículo 12
 
-La Solicitante deberá efectuar los pagos por uso de los sistemas de transmisión troncal y subtransmisión, en conformidad a la normativa vigente.
+La Solicitante deberá efectuar los pagos por uso de los sistemas de transmisión, en conformidad a la normativa vigente.
 
-Los estudios de transmisión troncal a que se refiere el artículo 84º de la ley, así como las revisiones anuales que se desarrollen conforme al artículo 99º de la ley, no deberán incorporar en los planes de expansión del sistema de transmisión troncal obras nuevas o ampliaciones que se justifiquen en la exportación de energía a que se refiere el presente decreto.
+La planificación de la transmisión a que se refiere el artículo 87° y siguientes de la ley, no deberá incorporar obras nuevas o ampliaciones que se justifiquen en la exportación de energía a que se refiere el presente decreto.
 
 #### Artículo 13
 
@@ -202,7 +206,7 @@ ii. Asignación de la diferencia entre la valorización de las inyecciones al co
 
 #### Artículo 15
 
-Las instalaciones ubicadas dentro del territorio nacional que conforman la Línea de Interconexión deberán ser consideradas para la determinación de los pagos para el financiamiento del Panel de Expertos y del Estudio de Transmisión Troncal, conforme lo dispuesto en los DS Nº 181 y DS Nº 233.
+Derogado.
 
 #### Artículo 16
 
@@ -248,7 +252,9 @@ Establécese que la autorización a exportar contenida en el presente decreto su
 
 #### Artículo quinto
 
-Establécese que toda modificación que implique una alteración sustancial al proyecto presentado deberá ser informado al Ministerio, en forma previa a su materialización, y someterse a lo establecido en el artículo 220º de la ley.
+Establécese que toda modificación que implique una alteración sustancial al proyecto presentado deberá ser informado al Ministerio, en forma previa a su materialización, y someterse a lo establecido en el artículo 82º de la ley.
+
+El incumplimiento de las condiciones establecidas en la presente autorización conllevarán la caducidad de la misma. Asimismo, la presente autorización caducará en caso de verificarse un cambio relevante en las circunstancias bajo las que se otorga, que impliquen un riesgo para los principios establecidos en el artículo 72°-1 de la ley, situación que deberá ser calificada por el Ministerio previo informe del Coordinador. La caducidad deberá ser declarada por esta Secretaría de Estado, mediante decreto fundado.
 
 #### Artículo sexto
 
@@ -256,7 +262,7 @@ Establécese que no podrá exportarse energía eléctrica hasta que no se hayan 
 
 #### Artículo séptimo
 
-Establécese que la exportación de energía podrá superar transferencias instantáneas de 200 MW sólo cuando la DO del CDEC-SING lo determine y autorice expresamente.
+Establécese que la exportación de energía podrá superar transferencias instantáneas de 150 MW sólo cuando la DO del CDEC-SING lo determine y autorice expresamente.
 
 #### Artículo octavo
 
