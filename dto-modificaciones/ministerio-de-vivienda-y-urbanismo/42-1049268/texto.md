@@ -58,29 +58,35 @@ De las especialidades y sus categorías
 
 Especialidades del Registro: El Registro estará compuesto por las siguientes especialidades:
 
-a) Instaladores
+a) Instaladores de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas.
 
-b) Mantenedores
+b) Mantenedores de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas.
 
-c) Certificadores.
+c) Certificadores de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas.
 
 #### Artículo 5º
 
-Categorías: En la especialidad de Instaladores habrá tres categorías: Primera, segunda y tercera. Para las especialidades de Mantenedores y Certificadores habrá una categoría única.
+Categorías. Cada especialidad tendrá categorías de acuerdo a la tabla siguiente:
+
+.
 
 #### Artículo 6º
 
-Características Técnicas que determinan las Categorías de los Instaladores: La instalación de ascensores o montacargas será efectuada por instaladores inscritos en las diferentes categorías, de acuerdo a las siguientes características:
+Características Técnicas que determinan las Categorías de los Instaladores: La instalación de ascensores verticales o montacargas será efectuada por instaladores inscritos en las diferentes categorías, de acuerdo a las siguientes características:
 
 .
 
 Las características de los ascensores y montacargas incluidos en el cuadro precedente se refieren a equipos cuyo uso es el transporte de personas y de carga.
 
-La instalación de funiculares y escaleras o rampas mecánicas, deberá efectuarse por instaladores inscritos en 1ª o 2ª categoría.
+La instalación de ascensores inclinados o funiculares y escaleras o rampas mecánicas, deberá efectuarse por instaladores inscritos en 1ª o 2ª categoría, según corresponda de acuerdo a las características técnicas del cuadro precedente.
+
+> **Nota.** El numeral 3.2 del número 3 del Decreto 5, Vivienda, publicado el 24.12.2016, modifica la presente norma en el sentido de remplazar la expresión "vivienda" por "Habitacional", en las características técnicas relativas al destino del edificio en la 2a y 3a Categorías.
 
 #### Artículo 7º
 
-Los instaladores podrán solicitar el cambio de categoría siempre que acrediten el cumplimiento de los requisitos exigidos para la nueva categoría.
+Artículo 7°. Características Técnicas que determinan las Categorías de los Certificadores. La certificación de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas será efectuada por Certificadores inscritos en cada categoría, en función de las características técnicas que se señalan:
+
+.
 
 ## Título III
 
@@ -92,9 +98,25 @@ Requisitos generales: Podrán solicitar su inscripción en el Registro y permane
 
 Las personas naturales o jurídicas podrán ser clasificadas en cada una de las especialidades y categorías a que postulen, de acuerdo a su calidad técnica y experiencia, conforme a los antecedentes exigidos en el presente Reglamento.
 
+Los inscritos podrán solicitar el cambio de categoría de su especialidad, siempre que acrediten el cumplimiento de los requisitos exigidos para la categoría a que postulan.
+
+#### Artículo 8° Bis
+
+Requisitos de inscripción. Las personas naturales y jurídicas que ejerzan las labores de instalación, mantención y certificación de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, para inscribirse en este Registro deberán declarar la nómina del personal que realice directamente labores de instalación, mantención o certificación, en adelante el personal, y acreditar las competencias laborales de éstos de la siguiente manera:
+
+Deberán informar al Registro en el momento de la inscripción, y posteriormente al cumplimiento de cada nueva anualidad, la nómina de su personal dependiente que ejerza directamente actividades de instalación, mantención y certificación de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, sin perjuicio de tener la obligación de informar al Registro cualquier modificación a dicha nómina en un plazo no superior a 15 días contados desde que ésta ocurra.
+
+Junto con la nómina a que se refiere el inciso anterior se deberán acompañar los certificados que acrediten las competencias laborales de dicho personal, emitidos por algún centro de acreditación reconocido por ChileValora -sistema creado por la ley N° 20.267 que crea el Sistema Nacional de Certificación de Competencias Laborales- como instalador, mantenedor o certificador de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, según corresponda. La Dirección del Registro se reserva la facultad de solicitar la actualización de dichos certificados.
+
+Solamente el personal que posea un certificado que acredite el cumplimiento con los perfiles de ChileValora y que se encuentre incorporado en la nómina a que se refiere el inciso segundo anterior, podrá realizar funciones de instalación, mantención o certificación, según corresponda.
+
+No estarán sujetos a cumplir con el requisito de acreditar las competencias laborales de los perfiles de ChileValora, los trabajadores que posean las calidades técnicas señaladas en los cuadros de los artículos 10, 11 y 12, que establecen los requisitos para inscribirse en cada una de las especialidades.
+
 #### Artículo 9º
 
-Acreditación de Requisitos: El cumplimiento de los requisitos de calidad técnica y experiencia puede acreditarse a través del propio solicitante o de un socio, director, administrador, trabajador o autoridad superior. La acreditación de los requisitos de calidad técnica y experiencia deberá ser respecto de una misma persona natural.
+Acreditación de Requisitos: El cumplimiento de los requisitos de calidad técnica y experiencia puede acreditarse a través del propio solicitante o de un socio, director, administrador, trabajador o autoridad superior. La acreditación de los requisitos de calidad técnica y experiencia deberá ser cumplida por una misma persona natural.
+
+En el caso de las personas jurídicas, los requisitos y condiciones habilitantes para inscribirse en el Registro podrán ser cumplidos por más de un profesional, debiendo cada uno de ellos acreditar la calidad técnica y la experiencia profesional que habilita la inscripción, y tener con ésta un vínculo comercial o contractual permanente, tales como el de socio, director, administrador, trabajador o autoridad superior.
 
 La experiencia deberá estar referida a ascensores, tanto verticales como inclinados, funiculares, montacargas, escaleras o rampas mecánicas, instalados en obras que cuenten con permiso y con recepción definitiva por parte de la Dirección de Obras Municipales.
 
@@ -104,15 +126,21 @@ Instaladores: Para inscribirse en la especialidad Instaladores, se deberán acre
 
 .
 
+> **Nota.** NOTA 1 Los numerales 8.1, 8.2 del numeral 8, Vivienda, publicado el 24.12.2016, modifica la presente norma en el sentido de indicar donde dice "Ingeniero de Ejecución en Computación o Informática con mención en sistemas de control automatizados", elimínar la expresión "con mención en sistemas de control automatizados.", y reemplazar el último párrafo de los requisitos comunes a todas las categorías por: "Otros profesionales de carreras con un mínimo de 8 semestres académicos, cuya malla curricular incluya a lo menos dos semestres obligatorios de mecánica y/o electricidad y/o electrónica."
+
 #### Artículo 11
 
 Mantenedores: Para inscribirse en la categoría única de la especialidad Mantenedores, se deberán acreditar los requisitos que se indican a continuación:
 
 .
 
+> **Nota.** NOTA 2 Los numerales 9.1, 9.2, 9.3, 9.4 del numero 9 del Decreto 5, Vivienda, publicado el 24.12.2016, modifica la presente norma en el siguiente sentido donde dice "Ingeniero de Ejecución en Computación o Informática con mención en sistemas de control automatizados", elimínese la expresión "con mención en sistemas de control automatizados"., reemplazar el penúltimo párrafo de los requisitos comunes a todas las categorías por: "Otros profesionales de carreras con un mínimo de 8 semestres académicos, cuya malla curricular incluya a lo menos dos semestres obligatorios de mecánica y/o electricidad y/o electrónica. ,reemplazar el último párrafo de los requisitos comunes a todas las categorías por: "Técnicos con un mínimo de 4 semestres académicos, que incluyan en su malla curricular a lo menos un semestre obligatorio de mecánica y/o electricidad y/o electrónica., en el recuadro referido a Experiencia reemplazar: "3 años de experiencia en el rubro, con un mínimo de 5 unidades mantenidas" por la expresión "Tres años de experiencia en el rubro como socio, director, administrador, trabajador o autoridad superior.
+
 #### Artículo 12
 
-Certificadores: Para inscribirse en la categoría única de la especialidad Certificadores, se deberán acreditar los requisitos que se indican a continuación:
+Para inscribirse en la especialidad de Certificadores, en cualquiera de sus categorías, se deberán acreditar los requisitos que se indican a continuación:
+
+.
 
 #### Artículo 13
 
@@ -128,7 +156,7 @@ Acreditación de la experiencia por las Personas Jurídicas: Para acreditar expe
 
 a) Podrán computar la experiencia personal de uno solo de sus socios, directores, administradores, trabajadores o autoridad superior, según corresponda, quien, además, deberá cumplir con el requisito de calidad técnica.
 
-b) También se podrá computar la experiencia de un socio, director, administrador, trabajador o autoridad superior, según corresponda, si éste se hubiere desempeñado en empresas relacionadas con el rubro como trabajador, gerente técnico, socio, director, administrador o autoridad superior, siempre que hubiere estado directamente encargado de la instalación, mantención o certificación de ascensores o similares y cumpla con el requisito de calidad técnica. En este caso se computará como experiencia un 50% de lo señalado en cada uno de los certificados que presente.
+b) También se podrá computar la experiencia de un socio, director, administrador, trabajador o autoridad superior, según corresponda, si éste se hubiere desempeñado en empresas relacionadas con el rubro como trabajador, gerente técnico, socio, director, administrador o autoridad superior, siempre que hubiere estado directamente encargado de la instalación, mantención o certificación de ascensores o similares y cumpla con el requisito de calidad técnica.
 
 c) En el caso de empresas extranjeras y/o agencias en Chile, para computar su experiencia se considerarán solamente las obras ejecutadas en el país, salvo que la Dirección Nacional del Registro pueda comprobar fehacientemente experiencia por obras ejecutadas en el extranjero.
 
@@ -142,49 +170,29 @@ a) Podrán computar su experiencia personal, por haberse desempeñado como Insta
 
 b) Podrán computar la experiencia personal de uno de sus trabajadores, por haberse desempeñado éste como Instalador, Mantenedor o Certificador, en calidad de persona natural, quien, además, deberá cumplir con el requisito de calidad técnica;
 
-c) Podrán computar su propia experiencia, o la experiencia de su trabajador, en el evento que se hayan desempeñado como gerente técnico, socio, director, administrador, autoridad superior o trabajador de empresas relacionadas con el rubro, siempre que hubieren estado directamente encargado de la instalación, mantención y certificación de ascensores y que, además, cumpla con el requisito de calidad técnica. En este caso se computará como experiencia un 50% de lo señalado en cada uno de los certificados que presente.
+c) Podrán computar su propia experiencia, en el evento que se hayan desempeñado como socio, director, administrador, autoridad superior o trabajador de empresas relacionadas con el rubro, siempre que hubieren estado a cargo de la instalación, mantención y certificación de ascensores y que, además, cumpla con el requisito de calidad técnica.
 
 Las alternativas indicadas en las letras a), b) y c) precedentes son excluyentes, por lo cual no pueden sumarse.
 
 #### Artículo 16
 
-Certificación de la Experiencia: La experiencia deberá acreditarse mediante certificados emanados del Director de Obras Municipales respectivo o de las instituciones públicas o privadas a las cuales se les hubiere prestado los servicios, los que deberán contener las siguientes menciones, según corresponda:
+Certificación de la Experiencia: La experiencia deberá acreditarse mediante certificados emanados del Director de Obras Municipales respectivo o de las instituciones públicas o privadas o de las empresas a las cuales se les hubiere prestado los servicios, los que deberán contener las siguientes menciones, según corresponda:
 
-1. Nombre del Proyecto.
+1. Nombre del Proyecto indicando si corresponde a una instalación, mantención o certificación de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas.
 
-2. Dirección del Proyecto.
+2. Nombre y RUT del profesional o empresa prestadora del servicio.
 
-3. Número y fecha del permiso de edificación.
+3. Dirección del proyecto.
 
-4. Número y fecha del certificado de recepción
+4. Número y fecha del permiso de edificación.
 
-definitiva.
+5. Número y fecha del certificado de recepción definitiva.
 
-5. Destino del proyecto.
+6. Nómina de profesionales y técnicos que efectuaron directamente las labores de instalación, mantención o certificación, indicando su RUT y las funciones específicas realizadas por cada uno.
 
-6. Altura en pisos del o de los edificios.
+7. Contrato de trabajo cuando corresponda, que dé cuenta de las labores realizadas en concordancia con la experiencia que se solicita acreditar.
 
-7. Valor de la Instalación, Mantención o
-
-Certificación, según corresponda (anual,
-
-semestral, mensual, u otro).
-
-8. Características del equipo:
-
-- Uso.
-
-- Velocidad.
-
-- Capacidad.
-
-- Número de aparatos en batería.
-
-- Número de paradas.
-
-9. Grado de cumplimiento del contrato.
-
-10. Fecha de la prestación del servicio.
+8. Fecha de la prestación del servicio.
 
 ## Título IV
 
@@ -192,7 +200,7 @@ De las inhabilidades e incompatibilidades para la inscripción en el Registro
 
 #### Artículo 17
 
-Inhabilidades: Los Instaladores estarán inhabilitados para inscribirse en más de una categoría de esa especialidad. También estarán inhabilitados para inscribirse como Certificadores quienes estén inscritos como Instaladores o Mantenedores. Sólo los Certificadores estarán facultados para certificar ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, cualesquiera sean las características del equipo.
+Inhabilidades: Los Instaladores y Certificadores estarán inhabilitados para inscribirse en más de una categoría de su especialidad. También estarán inhabilitados para inscribirse como Certificadores quienes estén inscritos como Instaladores o Mantenedores.
 
 Estarán inhabilitados para inscribirse en el Registro o para desempeñarse como Instaladores, Mantenedores y/o Certificadores si ya estuvieran inscritos, aquellas personas que hayan sido sancionadas por alguna de las causales de infracción gravísima señaladas en el artículo 4º de la ley 20.296, hasta el término de la sanción. Esta inhabilidad será aplicable si cualquiera de los socios, directores, administradores o autoridades superiores de una persona jurídica estuviere afectado por la causal, o lo estuviere el trabajador de la persona natural o jurídica que haya acreditado la capacidad técnica y la experiencia que habilitó para la inscripción en el Registro.
 
@@ -286,6 +294,22 @@ conforme a lo dispuesto en los artículos 15 y 16
 
 del presente Reglamento.
 
+i) Contratos de todo el personal dependiente del
+
+solicitante que realizarán las labores de
+
+instalación, mantención o certificación.
+
+j) Certificado de competencias laborales emitido por
+
+un centro de acreditación reconocido por ChileValora,
+
+de todo el personal dependiente del solicitante
+
+que realizarán labores de instalación, mantención
+
+o certificación.
+
 B. Solicitud de persona jurídica:
 
 a) Formulario de Solicitud, indicando nombre o
@@ -377,6 +401,22 @@ i) Certificados que acrediten la experiencia,
 conforme a lo dispuesto en los artículos 14 y 16
 
 del presente Reglamento.
+
+j) Contratos de todo el personal dependiente del
+
+solicitante que realizarán las labores de
+
+instalación, mantención o certificación.
+
+k) Certificado de competencias laborales emitido
+
+por un centro de acreditación reconocido por
+
+ChileValora, de todo el personal dependiente
+
+del solicitante que realizarán labores de
+
+instalación, mantención o certificación.
 
 El Registro se reserva la facultad de comprobar directamente la información proporcionada por el solicitante o Instalador, Mantenedor o Certificador. Si durante el proceso de inscripción se detecta que la información proporcionada adolece de inexactitudes, la solicitud respectiva será rechazada.
 
