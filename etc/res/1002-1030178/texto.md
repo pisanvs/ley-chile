@@ -110,6 +110,8 @@ n) Instruir y resolver los sumarios administrativos e investigaciones sumarias q
 
 En el caso de investigaciones sumarias del decreto ley Nº 799, de 1974, la resolución que ordene la aplicación de una medida disciplinaria, podrá ser objeto de recurso de reposición y/o jerárquico, para ante el Contralor Regional o el Contralor General, respectivamente, dentro del plazo de 5 días contados desde su notificación
 
+ñ) Autorizar la apertura y cierre de las cuentas corrientes bancarias para el manejo de los recursos del sector público. Igualmente, autorizar a los giradores de dichas cuentas.
+
 ### Párrafo 2º
 
 Funciones de Control Externo
@@ -130,6 +132,8 @@ c) Efectuar, previa visación de la Unidad Jurídica Regional y del Comité Judi
 
 d) Intervenir en la destrucción e incineración de documentos, especies valoradas y otros efectos de acuerdo a las instrucciones del Contralor General.
 
+e) Suscribir convenios con entidades que se encuentren dentro de la cobertura regional, para el establecimiento de programas de trabajo colaborativo que contribuyan al fortalecimiento de la Administración del Estado y a la superación de las debilidades institucionales detectadas en procesos de fiscalización llevados a cabo por la Contraloría Regional, de acuerdo a un formato aprobado previamente por el Contralor General de la República.
+
 ### Párrafo 3º
 
 Funciones de Contabilidad
@@ -144,9 +148,7 @@ b) Emitir los oficios para absolver las consultas que se formulen sobre dichas m
 
 c) Requerir, revisar y procesar los informes de la gestión financiera de los servicios e instituciones del sector público sometidos a su fiscalización, como también requerir el cumplimiento de los plazos establecidos para dichos efectos.
 
-d) Autorizar la apertura y cierre de las cuentas corrientes bancarias para el manejo de los recursos del sector público. Igualmente, autorizar a los giradores de dichas cuentas.
-
-e) Requerir, analizar y procesar la información contable municipal remitida, revisando su adecuada consistencia e integridad.
+d) Requerir, analizar y procesar la información contable municipal remitida, revisando su adecuada consistencia e integridad.
 
 ## Título III
 
