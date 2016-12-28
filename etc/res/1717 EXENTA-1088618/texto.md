@@ -47,3 +47,5 @@ NÓMINA DE POSTULANTES SELECCIONADOS D.S. Nº 1 (V. Y U.), DE 2011.
 Proyecto "Papa León XIII", comuna de San Vicente de Tagua Tagua, Región de O'Higgins, Código Proyecto 117574.
 
 .
+
+> **Nota.** Los numerales 3 y 4 de la Resolución 8298 Exenta, Vivienda, publicada el 28.12.2016, modifica la presente norma en el sentido de reemplazar en la tabla inserta del anexo las filas que la citada norma indica.
