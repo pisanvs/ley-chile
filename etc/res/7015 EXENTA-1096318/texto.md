@@ -28,7 +28,7 @@ Resolución:
 
 1. Llámase a postulación en condiciones especiales a la población adulto mayor de las regiones del Libertador Bernardo O'Higgins, del Biobío y de La Araucanía para el otorgamiento de subsidios habitacionales del Programa Habitacional para el Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013.
 
-2. Las postulaciones se recibirán a partir del 7 de noviembre y hasta el 9 de diciembre de 2016, ambas fechas inclusive, período en que los Servicios de Vivienda y Urbanización (Serviu) de las regiones del Libertador Bernardo O'Higgins, del Biobío y de La Araucanía procederán, directamente, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas.
+2. Las postulaciones se recibirán a partir del 7 de noviembre y hasta el 28 de diciembre de 2016, ambas fechas inclusive, período en que los Servicios de Vivienda y Urbanización (Serviu) de las regiones del Libertador Bernardo O'Higgins, del Biobío y de La Araucanía procederán, directamente, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas.
 
 3. La selección se realizará con las personas que hubieren efectuado válidamente su postulación en las fechas indicadas en el número precedente.
 
