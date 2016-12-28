@@ -508,6 +508,8 @@ Los profesionales funcionarios que durante más de 20 años hayan prestado, de a
 
 Para los efectos del cómputo del tiempo se considerará todo lapso servido, sea en calidad de reemplazante, suplente, a contrata o interino.
 
+Para efectos de este artículo, se considerarán también los tiempos que el becario haya prestado durante la realización de la beca en guardias nocturnas y en días festivos, siempre que dichas guardias se encuentren contempladas en el respectivo programa de formación y la beca haya sido financiada por el Ministerio de Salud o por los servicios de salud. El reglamento determinará la forma en que se reconocerá el tiempo y condiciones de desempeño clínico para efectos del inciso primero de este artículo.
+
 ARTICULOS TRANSITORIOS
 
 #### Artículo 1°

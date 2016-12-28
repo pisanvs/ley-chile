@@ -100,31 +100,27 @@ La Etapa de Planta Superior estará conformada por tres niveles, asociados a la 
 
 El ingreso a la Etapa de Planta Superior se efectuará, previo concurso público regido por la ley N°19.198, por nombramiento en calidad de titular de un cargo de planta, en el Nivel I.
 
-Excepcionalmente y en casos debidamente justificados en razones de servicio, se podrá llamar a concurso para cargos vacantes en otro nivel, siempre que en el respectivo organismo no existan profesionales acreditados para ese nivel con la especialidad o competencia profesional correspondiente y haya cupos disponibles de asignación de experiencia calificada en la forma prevista en el inciso tercero del artículo 32.
+Sin perjuicio de lo dispuesto en el inciso anterior, si quien resulta seleccionado en el concurso se hallare percibiendo, sin solución de continuidad, en cualquier calidad jurídica, en el mismo servicio de salud u otro distinto, la asignación de experiencia calificada de nivel II o III, se le reconocerá su actual ubicación en la etapa, pagándose dicha asignación en el nuevo cargo. Con todo, en caso que el profesional funcionario no se encuentre percibiendo la asignación de experiencia calificada por hallarse en espera de cupo financiero, o si el cargo concursado tiene un mayor número de horas asignadas, o bien, es compatible con el cargo actualmente desempeñado, el pago de la referida asignación, en el nivel que corresponda, quedará sujeto a la existencia de cupo financiero, comenzándose a pagar, cuando exista dicho cupo.
 
-Con todo, e independientemente del nivel a que sea llamado el concurso, si quien resulta seleccionado para un cargo de titular en la Etapa de Planta Superior se hallare percibiendo en dicha calidad, en el mismo Servicio de Salud, una asignación de experiencia calificada de nivel superior a la del cargo que se concursa, se le reconocerá en el nuevo cargo al menos su antiguo nivel de asignación y de ubicación en la Etapa, siempre que existan recursos disponibles en la forma prevista en el inciso tercero del artículo 32, para el conjunto de los Servicios de Salud.
+Lo dispuesto en el inciso anterior se aplicará asimismo a los profesionales funcionarios que sean contratados sin solución de continuidad en el mismo servicio de salud u otro distinto.
 
-El mismo derecho tendrán aquellos profesionales que sean titulares de un cargo en la Etapa de Planta Superior, que posean especialidades o subespecialidades críticas o en falencia y que provengan, sin solución de continuidad, de un Servicio de Salud distinto del que llama a concurso, siempre y cuando se cumplan además los siguientes requisitos:
+Por su parte, a los profesionales funcionarios que se hubiesen desempeñado como titulares o a contrata en niveles II o III de la Etapa de Planta Superior y que sean nuevamente designados o contratados en cualquier servicio de salud, se les reconocerá la asignación de experiencia calificada en el máximo nivel que la hayan estado percibiendo a la fecha de su cese de funciones, todo ello de acuerdo a los registros consignados en la respectiva hoja de vida funcionaria y siempre que exista cupo financiero. De no existir cupo, pasarán a integrar por orden de precedencia una nómina que para esos efectos llevará el servicio, en espera de cupo financiero. Con todo, en los casos a que se refiere este inciso, se computará el inicio de la permanencia en el respectivo nivel a contar de la nueva designación o contratación, según corresponda.
 
-a) Que las bases del respectivo concurso dejen expresa constancia que el reconocimiento contemplado en este inciso regirá para el cargo que se concursa, siempre que existan recursos disponibles en la forma prevista en el inciso tercero del artículo 32, para el conjunto de los Servicios de Salud, y
-
-b) Que el nuevo cargo para el que se llame a concurso requiera la misma especialidad o subespecialidad del profesional beneficiario del reconocimiento.
-
-Lo dispuesto en los dos incisos precedentes se aplicará también a los profesionales funcionarios que sirvan empleos a contrata en la Etapa de Planta Superior, de acuerdo a lo dispuesto en el inciso segundo del artículo 4º transitorio.
-
-El Ministerio de Salud, para efectos de la aplicación del inciso cuarto de este artículo, instruirá sobre los criterios de aplicación nacional y regional conforme a los cuales cada Servicio de Salud determine, fundadamente, las especialidades críticas o en falencia.
+Inciso Suprimido.
 
 #### Artículo 16
 
-Los profesionales funcionarios que pertenezcan a la Etapa de Planta Superior deberán someterse a un sistema de acreditación en el o los cargos que sirvan, cada nueve años, cuando corresponda.
+Los profesionales funcionarios que pertenezcan a la Etapa de Planta Superior deberán someterse a un sistema de acreditación cada nueve años.
 
 El sistema de acreditación evaluará cualitativa y cuantitativamente los logros alcanzados durante el período por los profesionales funcionarios en el ejercicio de sus funciones, considerando aspectos técnicos, clínicos y organizacionales, y comprenderá tanto la superación profesional como el aporte de su gestión a la calidad de los servicios proporcionados a la población usuaria.
 
-Durante el curso del noveno año de permanencia en un cargo de planta, en los Niveles I y II, dichos profesionales estarán obligados a presentar sus antecedentes para acreditación.
+Durante el curso del noveno año de permanencia en un cargo de planta o a contrata, en los Niveles I y II, dichos profesionales estarán obligados a presentar sus antecedentes para acreditación. Si un profesional funcionario sirviera más de un cargo de planta o a contrata para un mismo servicio de salud o diversos servicios, se someterá a acreditación, cuando corresponda, en aquel servicio donde haya completado el plazo requerido para la acreditación. Cuando el plazo de acreditación se complete en dos o más servicios de salud simultáneamente, podrá presentar los antecedentes en cualquiera de ellos a su elección. En los casos antes señalados, los resultados de su acreditación se extenderán a todos los empleos que sirva el profesional funcionario, en cualquier servicio de salud.
 
-La no presentación de tales antecedentes, cuando corresponda hacerlo, hará incurrir al profesional en la pérdida de requisitos para continuar ejerciendo la función y se le declarará vacante el respectivo cargo dentro de los quince días hábiles siguientes a la fecha en que debió someterse a acreditación.
+La no presentación de tales antecedentes, cuando corresponda hacerlo, hará incurrir al profesional en la pérdida de requisitos para continuar ejerciendo la función y se le declarará vacante el respectivo cargo o se le terminará el contrato, según corresponda, dentro de los quince días hábiles siguientes a la fecha en que debió someterse a acreditación. Si el profesional mantuviere más de un cargo titular o a contrata, se le declarará vacante o terminará el contrato en todos ellos, dentro de los quince días hábiles siguientes a la fecha en que debió someterse a acreditación.
 
 A los profesionales que conserven la propiedad de sus cargos al asumir otro incompatible, no se les contabilizará, para estos efectos, el tiempo que permanezcan ausentes de ellos, si fuere superior a un año. Sin embargo, tales profesionales podrán presentar voluntariamente sus antecedentes en la oportunidad en que les correspondería hacerlo de no mediar esta circunstancia.
+
+A los profesionales funcionarios que pasen a desempeñar cargos de la planta directiva de un servicio de salud se les reconocerán los tiempos que hayan desempeñado en la planta de profesionales, sea como titulares o contratados, hasta la fecha de asumir el cargo directivo, todo ello para efectos del siguiente proceso de acreditación al que deban someterse, cuando vuelvan a ocupar un cargo de la planta de profesionales o asimilado a ella.
 
 #### Artículo 17
 
@@ -134,15 +130,15 @@ Quienes no aprueben esta acreditación seguirán sometidos a las normas generale
 
 #### Artículo 18
 
-Los profesionales que aprueben la acreditación accederán en el respectivo cargo al nivel inmediatamente siguiente, siempre que exista cupo financiero para ello, lo que deberá ser reconocido por resolución del Director. En tal caso, percibirán la asignación de experiencia calificada en el porcentaje correspondiente a ese nivel.
+Los profesionales que aprueben la acreditación accederán al nivel inmediatamente siguiente, siempre que exista cupo financiero para ello, lo que deberá ser reconocido por resolución del Director. En tal caso, percibirán la asignación de experiencia calificada en el porcentaje correspondiente a ese nivel.
 
 De no existir cupo, pasarán a integrar, por orden de precedencia, una nómina que para esos efectos llevará el Servicio, en espera de cupo financiero. El nuevo monto del beneficio se pagará sólo desde que se genere dicho cupo financiero, en la forma prevista en el inciso tercero del artículo 32. En todo caso, para los efectos del plazo al que deban someterse a una nueva acreditación según lo dispuesto en el artículo 16, los profesionales que se encuentren en la nómina podrán abonar el tiempo que deban esperar por el cupo financiero para acceder al siguiente nivel de la Etapa, debiendo considerarse, asimismo, los logros alcanzados durante este tiempo por los profesionales en el ejercicio de sus funciones.
 
-Los profesionales que no aprueben la acreditación a que deban someterse mantendrán su cargo y el nivel en que se encontraren, pero deberán presentar anualmente sus antecedentes para nuevas acreditaciones en ese cargo en la forma que determine el reglamento.
+Los profesionales que no aprueben la acreditación a que deban someterse mantendrán el nivel en que se encontraren, pero deberán presentar anualmente sus antecedentes para nuevas acreditaciones en la forma que determine el reglamento.
 
 #### Artículo 19
 
-Los profesionales que desempeñen más de un cargo de planta deberán presentar sus antecedentes para acreditación respecto de cada uno de ellos, en la oportunidad que corresponda.
+Derogado
 
 #### Artículo 20
 
@@ -150,13 +146,11 @@ A los profesionales que hubieren aprobado la acreditación en un Servicio de Sal
 
 #### Artículo 21
 
-Los Directores de los Servicios de Salud podrán, en ejercicio de sus atribuciones, contratar profesionales asimilados al Nivel I de la Etapa de Planta Superior, siempre que tengan más de seis años de ejercicio profesional y que se difundan públicamente las plazas a proveer.
+Los directores de los servicios de salud podrán, en ejercicio de sus atribuciones, contratar profesionales asimilados al Nivel I de la Etapa de Planta Superior, siempre que tengan más de seis años de ejercicio profesional y que se difundan públicamente las plazas a proveer. Para estos efectos, el tiempo servido en calidad de becario, financiado por el Ministerio de Salud o servicio de salud, será también considerado como ejercicio profesional.
 
-Los profesionales cuyos contratos sean prorrogados en el mismo empleo y Servicio de Salud por un lapso mínimo de nueve años deberán someterse a acreditación en ese empleo, en la oportunidad que determine el reglamento, y los efectos de dicha acreditación se regirán por las normas generales, sin perjuicio de la facultad del Director del Servicio para poner término o no renovar el respectivo contrato.
+Los profesionales funcionarios cuyos contratos sean prorrogados por un lapso mínimo de nueve años deberán someterse a acreditación, en la forma prevista en el artículo 16, sin perjuicio de la facultad del director del servicio para poner término o no renovar el respectivo contrato. En los casos a que se refiere este artículo, si el profesional funcionario es contratado por otro servicio de salud, sin solución de continuidad, los tiempos desempeñados previamente en el nivel correspondiente serán considerados útiles para el cómputo de los nueve años antes señalados.
 
 Esta acreditación dará derecho a la asignación a que se refiere el artículo 32 y constituirá un antecedente que se considerará favorablemente en el concurso, si los profesionales postulan a un cargo de planta.
-
-La no presentación de los antecedentes para la acreditación, cuando corresponda hacerlo, hará incurrir a los profesionales a que se refiere este artículo, en la pérdida de requisitos para continuar ejerciendo el empleo y se le pondrá término a su contrato dentro de los quince días hábiles siguientes a la fecha en que debió someterse a la acreditación.
 
 #### Artículo 22
 
@@ -212,7 +206,11 @@ a) Sueldo base: retribución pecuniaria de carácter fijo y por períodos iguale
 
 b) Asignación de antigüedad: estipendio que se concede por cada tres años de servicios como profesional funcionario en los Servicios de Salud, con un límite de trece trienios;
 
-c) Asignación de experiencia calificada: estipendio que se otorga en reconocimiento al nivel de calificación técnica y de competencia de los profesionales, y d) Asignación de reforzamiento profesional diurno: estipendio destinado a retribuir el desempeño profesional en jornadas diurnas en los establecimientos de los Servicios de Salud.
+c) Asignación de experiencia calificada: estipendio que se otorga en reconocimiento al nivel de calificación técnica y de competencia de los profesionales;
+
+d) Asignación de reforzamiento profesional diurno: estipendio destinado a retribuir el desempeño profesional en jornadas diurnas en los establecimientos de los Servicios de Salud, y
+
+e) Asignación de permanencia para especialistas y subespecialistas: retribución que se otorga sólo a los profesionales funcionarios que se desempeñen en los servicios de salud, atendida la calidad de especialistas o subespecialistas certificados e inscritos en el Registro de Prestadores Individuales de la Superintendencia de Salud a que se refiere el número 6 del artículo 121 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud.
 
 #### Artículo 28
 
@@ -290,21 +288,21 @@ Sin embargo, los profesionales funcionarios de la Etapa de Planta Superior que a
 
 #### Artículo 33
 
-La asignación de reforzamiento profesional diurno se otorgará a los profesionales funcionarios de las Etapas de Destinación y Formación y de Planta Superior que cumplan funciones en los establecimientos de los Servicios de Salud. Su monto será equivalente al 23% y al 92%, respectivamente, calculado sobre el sueldo base. Esta asignación se otorgará de acuerdo al siguiente cronograma:
+La asignación de reforzamiento profesional diurno se otorgará a los profesionales funcionarios de las Etapas de Destinación y Formación y de Planta Superior que cumplan funciones en los establecimientos de los Servicios de Salud. Su monto será equivalente al 28% y al 108%, respectivamente, calculado sobre el sueldo base.
 
-Para los profesionales funcionarios de la Etapa de Destinación y Formación:
+Inciso Suprimido.
 
-- A contar del 1 de noviembre de 2007 y hasta el 31 de diciembre de 2008: 20,5%.
+#### Artículo 33 bis
 
-- A contar del 1 de enero de 2009: 23,0%.
+La asignación de permanencia para especialistas y subespecialistas corresponderá a los profesionales funcionarios de las Etapas de Destinación y Formación o de Planta Superior que se desempeñen en los servicios de salud y que se encuentren certificados e inscritos como especialistas o subespecialistas en el Registro de Prestadores Individuales de la Superintendencia de Salud.
 
-Para los profesionales funcionarios de la Etapa de Planta Superior:
+El monto de la asignación establecida en el inciso anterior ascenderá al 40% del sueldo base, para las jornadas de 44, 33 o 22 horas semanales, y al 10% del sueldo base, para las jornadas de 11 horas semanales. Esta asignación se pagará mensualmente, independientemente del número de especialidades o subespecialidades que el profesional funcionario mantenga certificadas e inscritas en el registro a que se refiere el inciso primero, y no constituirá base de cálculo para ninguna otra remuneración.
 
-- A contar del 1 de noviembre de 2007 y hasta el 31 de diciembre de 2008: 43,9%.
+Con todo, si un profesional funcionario mantuviere en un mismo servicio de salud un cargo, cualquiera sea su jornada semanal, junto con otro cargo compatible, ambos regidos por esta ley, el monto de esta asignación ascenderá al 40% del sueldo base para la suma de las jornadas contratadas.
 
-- Durante el año 2009: 69,8%.
+La asignación se percibirá sólo mientras el profesional funcionario mantenga vigente la inscripción de la especialidad o subespecialidad en el registro a que se refiere el inciso primero, y se pagará a contar del día primero del mes siguiente de aquél en que presente el certificado de inscripción del registro a su empleador.
 
-- A contar del 1 de enero de 2010: 92%.
+Los profesionales funcionarios beneficiarios de la asignación a que se refiere este artículo serán única y exclusivamente responsables de renovar la certificación de las especialidades y subespecialidades que tengan inscritas en el registro público antes señalado, ya sea en virtud de las normas permanentes o transitorias del reglamento a que se refiere el Nº 13 del artículo 4º del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud.
 
 #### Artículo 34
 
@@ -394,7 +392,7 @@ Para efectos de las bonificaciones por desempeño individual y colectivo institu
 
 #### Artículo 40
 
-Las asignaciones de experiencia calificada, de antigüedad, de reforzamiento profesional diurno, de responsabilidad y de estímulo y las bonificaciones por desempeño serán compatibles entre sí, aunque se tenga derecho a los máximos definidos para cada una de ellas.
+Las asignaciones de experiencia calificada, de antigüedad, de reforzamiento profesional diurno, de permanencia para especialistas y subespecialistas, de responsabilidad y de estímulo y las bonificaciones por desempeño serán compatibles entre sí, aunque se tenga derecho a los máximos definidos para cada una de ellas.
 
 #### Artículo 41
 
