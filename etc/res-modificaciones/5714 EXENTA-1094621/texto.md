@@ -58,10 +58,6 @@ Resolución:
 
 5. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al resuelvo Nº 3 de esta resolución.
 
-> **Nota.** El 2.2 del numeral 2° de la Resolución 12854 Exenta, Vivienda, publicada el 08.11.2017, modifica la presente norma en el sentido de reemplazar las siguientes filas: Julio 90 65 TOTAL 586 65.
-
-> **Nota.** NOTA 1 El 2.3 del numeral 2° de la Resolución 12854 Exenta, Vivienda, publicada el 08.11.2017, modifica la presente norma en el sentido de reemplazar la columna "U.F. selección Julio", el guarismo "11.799" por "11.633" y en la columna "Saldo en UF", el guarismo "858.919" por "859.085".
-
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
