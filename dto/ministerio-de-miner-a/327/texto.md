@@ -1012,13 +1012,17 @@ La información anterior deberá ser actualizada en los períodos que fije la Su
 
 Sin perjuicio de las disposiciones del Capítulo 5 de este Título, las empresas distribuidoras de servicio público estarán obligadas a dar servicio en su zona de concesión, a quien lo solicite, sea que el usuario esté ubicado en la zona de concesión o bien se conecte a las instalaciones de la empresa mediante líneas propias o de terceros. La obligación de dar suministro se entiende en la misma tensión de la línea sujeta a concesión a la cual se conecte el usuario.
 
+Para dichos efectos, las empresas distribuidoras deberán mantener a disposición del público la información técnica de sus instalaciones incluyendo los planos de sus redes de distribución, a fin de entregarla cada vez que les sea requerida por estos últimos, para el adecuado diseño, ejecución y conexión de las instalaciones eléctricas, a fin de evitar peligro para las personas o daño en las cosas. Las empresas distribuidoras deberán entregar la información señalada dentro de los 15 días hábiles siguientes a la solicitud, la que podrá ser entregada mediante técnicas y medios electrónicos.
+
 #### Artículo 106
 
 Las empresas concesionarias deberán mantener a disposición del público la lista de precios de los servicios que prestan, incluyendo los regulados y no regulados. Igual información deberán entregar a la Superintendencia y actualizarla cada vez que dichos valores se modifiquen.
 
 En la información referida no se incluirán los suministros contratados a precio libre.
 
-En el caso de los servicios no sujetos a regulación de precios, la lista de precios deberá indicar expresamente aquellos que, siendo ofrecidos por el concesionario, también pueden ser contratados con terceros.
+En el caso de los servicios no sujetos a regulación de precios y de aquellos indicados en el número 4 del artículo 147° de la Ley, la lista de precios deberá indicar expresamente aquellos que, siendo ofrecidos por el concesionario, también pueden ser contratados con terceros.
+
+Los concesionarios deberán entregar a quien solicite algunos de los servicios de que trata el inciso anterior, un presupuesto detallado que contenga, al menos, los costos, plazos y etapas asociadas a la prestación de los mismos, dentro de los 15 días hábiles siguientes a la solicitud, salvo que las partes acuerden un plazo distinto, y conforme a las instrucciones de carácter general que imparta la Superintendencia.
 
 #### Artículo 107
 
@@ -1169,6 +1173,10 @@ En los casos en que el empalme o el medidor sean de propiedad del usuario, el co
 #### Artículo 128
 
 Los concesionarios deberán entregar la factura o boleta de los consumos en la dirección del inmueble o instalación en que se registró el consumo o en el lugar convenido con el cliente.
+
+#### Artículo 128 bis
+
+Los concesionarios no podrán incluir o acompañar a las boletas o facturas de los consumos, publicidad referida a los servicios o productos que presten, sean o no sujetos a regulación de precios.
 
 #### Artículo 129
 
