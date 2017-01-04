@@ -28,7 +28,29 @@ Considerando:
 
 Resuelvo:
 
-1º Autorízanse las siguientes señales especiales de Paradas de Buses para el sistema de transporte público del Área Metropolitana de Concepción:
+1º.- Autorízanse las siguientes señales especiales de Paradas de Buses para el sistema de transporte público del Área Metropolitana de Concepción:
+
+a) Colores de señales según destino final:
+
+.
+
+b) Tamaños y tipologías:
+
+.
+
+c) Elementos que componen las señales:
+
+.
+
+d) Especificaciones tipográficas:
+
+.
+
+c) Secuencia de llenado:
+
+.
+
+d) Mini panel-personas con discapacidad visual:
 
 .
 
