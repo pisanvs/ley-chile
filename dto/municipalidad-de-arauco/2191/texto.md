@@ -1270,6 +1270,10 @@ DISPOSICIONES FINALES
 
 Toda actividad con fines lucrativos que no se encuentre contemplada expresamente en la presente Ordenanza, pagará los derechos que determine el Alcalde, previo informe fundado emitido por la Unidad responsable de girar el cobro del derecho.
 
+A objeto regular el cobro y el monto de los derechos municipales, por concepto de servicios de intermediación que deban pagar los usuarios adquiridos a través de la Farmacia Municipal de Arauco, se aplicará la tasa o valor que corresponda a cada medicamento o producto, dentro del rangos definido en el presente artículo, definido en UTM, al momento del respectivo pago.
+
+Por cada medicamento o producto, intermediado, se deberá reembolsar a la Municipalidad por el usuario, el costo de adquisición más un 7% lo que le permitirá la administración y funcionamiento del sistema. La referida suma, debe quedar comprendida dentro de los rangos definidos en la presente tabla:
+
 #### Artículo 48
 
 El Alcalde, puede eximir total o parcialmente, o rebajar el o los pagos de derechos que estipula la presente Ordenanza, a las Juntas de Vecinos y otras Organizaciones Comunitarias, Voluntariados, Instituciones Benéficas u otros Organismos públicos y/o privados, cuando no se persiguen fines de lucro y cuando circunstancias especiales, debidamente fundadas, así lo determinen.
