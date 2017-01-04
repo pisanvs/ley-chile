@@ -80,9 +80,9 @@ a. Ser trabajadoras regidas por el Código del Trabajo.
 
 b. Tener entre 25 y 60 años de edad.
 
-c. Pertenecer al 40% socioeconómicamente más vulnerable de la población, según
+c. Pertenecer al 40% socioeconómicamente más
 
-se determine por aplicación del instrumento de focalización a que se refiere
+vulnerable de la población, según lo dispuesto en
 
 el artículo 27 del presente reglamento.
 
@@ -96,31 +96,37 @@ Serán asimismo beneficiarias del Subsidio las trabajadoras independientes que c
 
 a. Tener entre 25 y 60 años de edad.
 
-b. Pertenecer al 40% socioeconómicamente más vulnerable de la población, según
+b. Pertenecer al 40% socioeconómicamente más vulnerable de
 
-se determine por aplicación del instrumento de focalización a que se refiere
+la población, según lo dispuesto en el artículo 27 del
 
-el artículo 27 del presente reglamento.
+presente reglamento.
 
 Además, para tener derecho al pago de este beneficio deberá:
 
-a. Acreditarse rentas brutas por un monto inferior a $4.600.692 durante el año
+a. Acreditarse rentas brutas por un monto inferior a $4.600.692
 
-calendario en que se devenga el Subsidio;
+durante el año calendario en que se devenga el Subsidio;
 
-b. Acreditarse rentas de aquellas a que se refiere el N° 2 del artículo 42, del
+b. Acreditarse rentas de aquellas a que se refiere el N° 2 del
 
-decreto ley Nº 824 sobre Ley de Impuesto a la Renta, en el año calendario en
+#### Artículo 42
 
-que se devenga el Subsidio, y
+, del decreto ley Nº 824 sobre Ley de Impuesto
 
-c. Verificarse que el pago de sus cotizaciones obligatorias de pensiones y de
+a la Renta, en el año calendario en que se devenga el
 
-salud, se encuentre al día en el año calendario en que se devenga el
+Subsidio, y
 
-Subsidio, sin perjuicio de lo dispuesto en el artículo 3º transitorio de la
+c. Verificarse que el pago de sus cotizaciones obligatorias
 
-Ley Nº 20.338.
+de pensiones y de salud, se encuentre al día en el año
+
+calendario en que se devenga el Subsidio, sin perjuicio
+
+de lo dispuesto en el artículo 3º transitorio de la Ley
+
+Nº 20.338.
 
 Las referidas trabajadoras independientes podrán acceder al Subsidio por una sola vez, por un plazo de 4 años continuos, a contar del primer día del mes siguiente a la fecha de presentación de la solicitud, siempre que se cumplan los requisitos para tener derecho al Subsidio.
 
@@ -132,13 +138,15 @@ a. Ser trabajadoras regidas por el Código del Trabajo.
 
 b. Tener entre 25 y 60 años de edad.
 
-c. Pertenecer al 40% socioeconómicamente más vulnerable de la población, según
+c. Pertenecer al 40% socioeconómicamente más vulnerable de
 
-se determine por aplicación del instrumento de focalización a que se refiere
+la población, según lo dispuesto en el artículo 27 del
 
-el artículo 27 del presente reglamento.
+presente reglamento.
 
-d. Que perciban remuneraciones brutas mensuales inferiores a $383.391.
+d. Que perciban remuneraciones brutas mensuales inferiores
+
+a $383.391.
 
 Además, el empleador deberá haber pagado, dentro del plazo legal, las cotizaciones de seguridad social, correspondientes a la trabajadora que causa el Subsidio.
 
@@ -284,7 +292,7 @@ En caso que una trabajadora haya optado por percibir pagos provisionales mensual
 
 #### Artículo 22
 
-Durante los tres primeros años contados desde el mes de presentación de la solicitud al Subsidio, los pagos provisionales mensuales a que tenga derecho la trabajadora ascenderán al 75% del monto que le corresponda de conformidad al inciso segundo del artículo 3° de la Ley N° 20.338. A contar del cuarto año, los pagos provisionales mensuales del Subsidio ascenderán a un 50% del referido monto.
+Durante los tres primeros años contados desde la fecha de devengo del beneficio, los pagos provisionales mensuales a que tenga derecho la trabajadora ascenderán al 75% del monto que le corresponda de conformidad al inciso segundo del artículo 3° de la Ley N° 20.338. A contar del cuarto año, los pagos provisionales mensuales del Subsidio ascenderán a un 50% del referido monto.
 
 #### Artículo 23
 
@@ -326,43 +334,13 @@ De la focalización
 
 #### Artículo 27
 
-El Instrumento de Focalización, es el mecanismo que permite determinar la vulnerabilidad socioeconómica de la población para los efectos de asignar el Subsidio.
+El Ministerio de Desarrollo Social determinará el 40% socioeconómicamente más vulnerable de la población de conformidad a la información que se desprenda por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5° de la ley N° 20.379, considerando, a lo menos, la información contenida en la Base de Datos del Seguro de Cesantía a que se refiere el artículo 34 de la ley N° 19.728.
 
-El Ministerio de Desarrollo Social utilizará el Instrumento de Focalización, para los efectos de determinar si las trabajadoras que solicitan el Subsidio cumplen con el requisito de acceso de pertenecer al 40% socioeconómicamente más vulnerable de la población, a que se refieren el artículo 3º, 4º y 5º del presente reglamento.
-
-Dicho instrumento considerará los siguientes factores y ponderaciones:
-
-1. Puntaje obtenido por aplicación de la Ficha de Protección Social, regulada
-
-por el decreto supremo Nº 291 de 2006 del Ministerio de Planificación,
-
-actual Ministerio de Desarrollo Social, o instrumento que la reemplace. Este
-
-factor ponderará un 75% en la obtención del puntaje de focalización del
-
-Subsidio; y
-
-2. Puntaje de empleabilidad que considerará factores densidad de cotizaciones y
-
-renta bruta promedio. Para ello se utilizará, a lo menos, la información
-
-contenida en la Base de Datos del Seguro de Cesantía a que se refiere el
-
-#### Artículo 34
-
-de la Ley N° 19.728. Este factor ponderará un 25% en la
-
-obtención del puntaje de focalización del Subsidio.
-
-Como resultado de la aplicación del Instrumento de Focalización se obtendrá un puntaje de focalización del Subsidio.
-
-El puntaje de focalización del Subsidio podrá ser informado a cualquier interesada que lo requiera, mediante los medios que determine la Subsecretaría de Servicios Sociales.
-
-La Subsecretaría de Evaluación Social con la visación del Ministerio de Hacienda, a través de la Dirección de Presupuestos, dictará una resolución que contendrá la fórmula matemática de cálculo del puntaje de focalización del Subsidio.
+Para efectos de lo anterior, el 40% socioeconómicamente más vulnerable de la población corresponderá a aquellas trabajadoras que pertenezcan hasta el tramo 40 según la Calificación Socioeconómica a que se refiere el artículo 33° del decreto supremo N° 22, de 2015, del Ministerio de Desarrollo Social.
 
 #### Artículo 28
 
-El Ministerio de Desarrollo Social podrá verificar la información destinada a obtener el puntaje de focalización del Subsidio, utilizando la información disponible en el Sistema de Información de Datos Previsionales; en el Registro de Información Social a que se refiere el decreto supremo N°160, de 2007, del Ministerio de Planificación, actual Ministerio de Desarrollo Social y la información de la Ficha de Protección Social, regulada en el decreto supremo N° 291, de 2006, del mismo Ministerio; así como la información que le proporcionen los organismos públicos, tales como el Servicio de Impuestos Internos, según lo establecido en el artículo 26 de la Ley N° 20.595.
+El Ministerio de Desarrollo Social podrá verificar la información disponible utilizando los datos contenidos en el Registro de Información Social, regulado a través de decreto supremo N° 160, de 2007, del Ministerio de Planificación, actual Ministerio de Desarrollo Social.
 
 ## Título Sexto
 
@@ -372,7 +350,7 @@ De la revisión, suspensión y extinción del subsidio
 
 El Ministerio podrá en cualquier momento, revisar la concurrencia de los requisitos para acceder al Subsidio, mediante los procedimientos y con la periodicidad que determine la Subsecretaria de Servicios Sociales, en especial, para efectos de determinar la suspensión del pago y de lo dispuesto en el artículo 13 de la Ley Nº 20.338.
 
-El puntaje de focalización del Subsidio se mantendrá vigente para las beneficiarias durante 4 años continuos a contar de la fecha de la solicitud del beneficio.
+Para efectos de este beneficio, no se volverá a determinar la pertenencia al 40% socioeconómicamente más vulnerable de la población durante 4 años continuos, a contar de la fecha de devengo.
 
 #### Artículo 30
 
@@ -380,7 +358,7 @@ El Ministerio, a lo menos, anualmente revisará el cumplimiento de las condicion
 
 #### Artículo 31
 
-El Subsidio correspondiente a la trabajadora se extinguirá el último día del mes en que se cumplan 4 años continuos, contados desde el primer día del mes siguiente en que se presentó la solicitud para acceder al Subsidio. Si durante ese período la trabajadora cumple 60 años de edad se extinguirá el Subsidio el último día del mes en que cumplió dicha edad.
+El Subsidio correspondiente a la trabajadora se extinguirá el último día del mes en que se cumplan 4 años continuos a contar de la fecha de devengo del beneficio. Si durante ese período la trabajadora cumple 60 años de edad se extinguirá el Subsidio el último día del mes en que cumplió dicha edad.
 
 #### Artículo 32
 
