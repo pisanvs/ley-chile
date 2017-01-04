@@ -42,7 +42,7 @@ Resolución:
 
 .
 
-5.- Para los efectos de rebajar los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la UF correspondiente al 30 de abril de 2015 ($24.754,77), según lo establecido en el Resolutivo 14 de la resolución citada en el Visto f). En consecuencia, se debe imputar a la resolución exenta Nº 2.753 (V. y U.), de 2015, un total de 16.239,30 UF, los que corresponden al subsidio directo.
+5.- Para los efectos de rebajar los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la UF correspondiente al 30 de abril de 2015 ($24.754,77), según lo establecido en el Resolutivo 14 de la resolución citada en el Visto f). En consecuencia, se debe imputar a la resolución exenta Nº 2.753 (V. y U.), de 2015, un total de 14.906,22 UF, los que corresponden al subsidio directo.
 
 6.- Publíquese en un periódico de circulación regional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados, conforme al número 2 de esta resolución, la que deberá contener, a lo menos, la comuna y el nombre de cada postulante con su respectiva Cédula de Identidad.
 
