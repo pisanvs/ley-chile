@@ -538,6 +538,8 @@ iv. Nivel socioeconómico.
 
 v. Área de estudios.
 
+vi) Haber sido beneficiario de una beca de reparación para los estudios de educación superior, regulada por el decreto N°97, de 2013, del Ministerio de Educación.
+
 ### Párrafo 6º
 
 De los beneficios de las Becas Nacionales de Postgrado
