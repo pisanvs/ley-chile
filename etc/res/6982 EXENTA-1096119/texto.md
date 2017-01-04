@@ -32,7 +32,7 @@ Resolución:
 
 ### Párrafo 1° — Disposiciones Generales
 
-1. Llámase a proceso de selección en condiciones especiales pare el otorgamiento de subsidios del Programa de Habitabilidad Rural, del Título II Proyectos de Postulación Directa, en la alternativa postulación colectiva, para el desarrollo de proyectos en la tipología Construcción de Conjuntos Habitacionales, a familias que cuenten con Expediente de Postulación aprobado, hasta el día 29 de diciembre del año en curso.
+1. Llámase a proceso de selección en condiciones especiales pare el otorgamiento de subsidios del Programa de Habitabilidad Rural, del Título II Proyectos de Postulación Directa, en la alternativa postulación colectiva, para el desarrollo de proyectos en la tipología Construcción de Conjuntos Habitacionales, a familias que cuenten con Expediente de Postulación aprobado, hasta el día 27 de diciembre del año en curso.
 
 2. Podrán participar en este llamado, familias que residan en áreas rurales o urbanas, excluidas las localidades urbanas de 5.000 o más habitantes de acuerdo a los datos demográficos que consigna el Censo de Población y Vivienda del año 2002, exceptuando los residentes de las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Valparaíso, Metropolitana, O'Higgins, Aysén y Magallanes.
 
@@ -46,17 +46,15 @@ Para autorizar proyectos a emplazarse parcial o totalmente en un área de riesgo
 
 5. Los postulantes deberán encontrarse inscritos en el Registro Social de Hogares y acreditar Calificación Socioeconómica, información que deberá ser visualizada en la plataforma informática RUKAN de este Ministerio. Para todos los efectos se considerará lugar de residencia del postulante, el domicilio que se consigne en el Registro Social de Hogares.
 
-6. No obstante lo señalado en el artículo 1º del DS Nº 10 (V. y U.), de 2015, los postulantes que se encuentren en situación de Déficit de Habitabilidad Alto, podrán participar en este llamado, independiente de la calificación socioeconómica que acrediten. En esta alternativa de postulación, el grupo podrá estar integrado por un máximo de 40% de familias que se encuentren en situación de Déficit de Habitabilidad Media y Bajo, permitiéndose en este caso y para dicha condición de déficit, acreditarse una calificación socioeconómica no superior al 80% y 60%, respectivamente.
+6. Complementariamente a lo señalado en el artículo 6º del DS 10 (V. y U.), de 2015, en relación al número máximo de dormitorios por modalidad y/o tipología, en este llamado, solo podrán postular a un dormitorio adicional, las familias cuyo núcleo familiar este conformado por 3 o más integrantes. Respecto a la postulación a la tipología ampliación o construcción de recintos complementarios, independiente del número de recintos que se desee ampliar o construir, el monto máximo del subsidio base será de 120 UF.
 
-7. Complementariamente a lo señalado en el artículo 6º del DS 10 (V. y U.), de 2015, en relación al número máximo de dormitorios por modalidad y/o tipología, en este llamado, solo podrán postular a un dormitorio adicional, las familias cuyo núcleo familiar este conformado por 3 o más integrantes. Respecto a la postulación a la tipología ampliación o construcción de recintos complementarios, independiente del número de recintos que se desee ampliar o construir, el monto máximo del subsidio base será de 120 UF.
+7. El subsidio complementario para personas con discapacidad, contemplado en el artículo 10 letra d) del DS N° 10 (V. y U.), de 2015, se entregará solo una vez al postulante y su grupo familiar, independiente de las modalidades o tipologías que contemple su proyecto, siempre que con anterioridad a la presente postulación, no haya sido beneficiado con un subsidio equivalente, a través de alguno de los otros programas habitacionales del Ministerio de Vivienda y Urbanismo.
 
-8. El subsidio complementario para personas con discapacidad, contemplado en el artículo 10 letra d) del DS N° 10 (V. y U.), de 2015, se entregará solo una vez al postulante y su grupo familiar, independiente de las modalidades o tipologías que contemple su proyecto, siempre que con anterioridad a la presente postulación, no haya sido beneficiado con un subsidio equivalente, a través de alguno de los otros programas habitacionales del Ministerio de Vivienda y Urbanismo.
-
-9. Para efectos de dar cumplimiento a lo establecido en la letra b) del artículo 24 del DS Nº 10 (V. y U.), de 2015, la acreditación de inscripción de dominio y certificados de hipotecas, gravámenes, interdicciones y prohibiciones, se efectuará con certificados extendidos con no más de 90 días corridos de anticipación a la fecha de la presentación de antecedentes de postulación ante el Serviu respectivo.
+8. Para efectos de dar cumplimiento a lo establecido en la letra b) del artículo 24 del DS Nº 10 (V. y U.), de 2015, la acreditación de inscripción de dominio y certificados de hipotecas, gravámenes, interdicciones y prohibiciones, se efectuará con certificados extendidos con no más de 90 días corridos de anticipación a la fecha de la presentación de antecedentes de postulación ante el Serviu respectivo.
 
 ### Párrafo 3° — Operatoria
 
-10. Podrán participar en este llamado, familias cuyos expedientes de postulación se encuentren aprobados en el Sistema Informático que este Ministerio provea para tales efectos. Sin perjuicio de lo dispuesto en el artículo 6º del DS Nº 10 (V. y U.), de 2015, cada expediente de postulación deberá corresponder sólo a la tipología Construcción de Conjunto Habitacional, pudiendo considerar un máximo de 2 o 3 tipologías o clases de proyectos adicionales, según se indica a continuación:
+9. Podrán participar en este llamado, familias cuyos expedientes de postulación se encuentren aprobados en el sistema que este Ministerio defina para tales efectos. Sin perjuicio de lo dispuesto en el artículo 6º del DS Nº 10 (V. y U.), de 2015, cada expediente de postulación deberá corresponder sólo a la tipología Construcción de Conjunto Habitacional, pudiendo considerar un máximo de 2 o 3 tipologías o clases de proyectos adicionales, según se indica a continuación:
 
 a) Construcción de vivienda nueva, con un máximo de dos tipologías adicionales, si el equipamiento comunitario se encuentra emplazado en el mismo terreno del conjunto habitacional;
 
@@ -64,25 +62,21 @@ b) Construcción de vivienda nueva con un máximo de tres tipologías adicionale
 
 ### Párrafo 4º — Factores de puntaje y selección
 
-11. La selección de los postulantes para la asignación del subsidio se realizará conforme al orden de prelación que determine el respectivo puntaje del Expediente de Postulación, ordenados de mayor a menor, hasta enterar el total de recursos disponibles para este llamado.
+10. La selección de los postulantes para la asignación del subsidio se realizará conforme al orden de prelación que determine el respectivo puntaje del Expediente de Postulación, ordenados de mayor a menor, hasta enterar el total de recursos disponibles para este llamado.
 
-12. Los factores para determinar el puntaje que definirá la prelación entre los postulantes serán los siguientes:
+11. Los factores para determinar el puntaje que definirá la prelación entre los postulantes serán los siguientes:
 
 .
 
-13. Corresponderá a cada Servicio Regional de las regiones que participan en el llamado, generar un procedimiento que permita cautelar el cumplimiento de las disposiciones establecidas en los vistos señalados en la presente resolución, en especial en relación a las restricciones y requisitos establecidos en los artículos 6º, 23º, 24º, 25º, 26º, 27º, 34º del DS Nº 10 (V. y U.), de 2015.
+12. Corresponderá a cada Servicio Regional de las regiones que participan en el llamado, generar un procedimiento que permita cautelar el cumplimiento de las disposiciones establecidas en los vistos señalados en la presente resolución, en especial en relación a las restricciones y requisitos establecidos en los artículos 6º, 23º, 24º, 25º, 26º, 27º, 34º del DS Nº 10 (V. y U.), de 2015.
 
 ### Párrafo 5º — Recursos disponibles
 
-14. Los recursos involucrados para la selección ascienden a un total de 993.027 UF y su
+13. Los recursos involucrados para la selección ascienden a un total de 920.007 UF y su distribución regional será la siguiente:
 
-distribución territorial será la siguiente:
+14. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponden.
 
-.
-
-15. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponden.
-
-16. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+15. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra
 
