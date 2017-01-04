@@ -20,8 +20,6 @@ Resolución:
 
 2. Los recursos involucrados por Región del país para la selección de postulantes son los siguientes:
 
-.
-
 3. El número de proyectos seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución.
 
 4. Los postulantes que cuenten con Formulario de Ingreso al Registro Social de Hogares deberán acreditar un ahorro mínimo de 10 Unidades de Fomento si pertenecen al 40% más vulnerable de la población y 15 Unidades de Fomento si forman parte del 60% restante, cumpliendo para ello lo establecido en los artículos 37, 38, 39 y 40 del DS N° 49 (V. y U.), de 2011.
@@ -34,7 +32,7 @@ Resolución:
 
 8. Exímese a las familias indicadas en el resuelvo anterior, de cumplir con el ahorro mínimo establecido en el artículo 3, letra c), del DS N°49 (V. y U.), de 2011 y sus modificaciones; no obstante, aquellas familias que deseen optar al premio al ahorro y cuyo proyecto habitacional lo incluya, serán beneficiadas por cada Unidad de Fomento acreditada, con un premio de 1,5 Unidades de Fomento, con un tope máximo de 30 Unidades de Fomento.
 
-9. La conformación del núcleo familiar y de condiciones de la vivienda habitada, para los efectos de postular y el cálculo de los factores de puntaje a que se refiere el artículo 24, del DS N° 49 (V. y U.), de 2011, será consultada directamente del Registro Social de Hogares.
+9. La conformación del núcleo familiar y de condiciones de la vivienda habitada, para los efectos de postular y el cálculo de los factores de puntaje a que se refiere el artículo 24, del DS N° 49 (V. y U.), de 2011, será consultada directamente del Registro Social de Hogares, o en su defecto, en caso que no se cuente con dicha información, se utilizará la información contenida en la Ficha de Protección Social al 31 de diciembre de 2015, cuando corresponda.
 
 10. Respecto del puntaje que otorga el factor "Vulnerabilidad Social", establecido en la letra b) del artículo 24, del DS N° 49 (V. y U.), de 2011, obtendrán 90 puntos los postulantes que pertenezcan al Primer y Segundo Quintil de Vulnerabilidad Social, según Ficha de Protección Social y los que pertenezcan al 40% más vulnerable de la población, de acuerdo al Registro Social de Hogares. No obtendrán puntaje por este Factor aquellos postulantes que no estén caracterizados dentro de los segmentos antes indicados.
 
