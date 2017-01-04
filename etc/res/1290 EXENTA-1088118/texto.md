@@ -156,7 +156,7 @@ En el caso de los proyectos que ingresen a Serviu en la modalidad de Subsidio a 
 
 De acuerdo a lo indicado, los recursos destinados a dichas selecciones serán los siguientes:
 
-..
+.
 
 A partir del mes de julio de 2016, la Subsecretaría de Vivienda y Urbanismo, mediante resoluciones exentas, podrá reasignar estos recursos entre regiones a fin de garantizar la completa asignación de los subsidios del presente llamado.
 
