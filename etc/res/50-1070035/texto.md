@@ -60,7 +60,7 @@ Para la consecución de los objetivos previamente señalados, el Comité deberá
 
 a) Un funcionario de la Corporación o de sus Comités, designado por el Vicepresidente Ejecutivo de CORFO.
 
-b) Un representante del Ministerio de Economía, Fomento y Turismo, designado por el Ministro de Economía, Fomento y Turismo.
+b) El Ministro de Economía, Fomento y Turismo o un representante de éste, designado por él.
 
 c) Un representante del Ministerio de Hacienda, designado por el Ministro de Hacienda.
 
@@ -279,6 +279,8 @@ u) Comunicar a los postulantes, beneficiarios, peticionarios y a terceros las re
 v) Ejercer las demás funciones y cumplir los otros deberes que el Consejo Estratégico del Comité estime conveniente encomendarle.
 
 El Vicepresidente Ejecutivo de Corfo podrá designar a un funcionario en calidad de interino, para que ejerza y cumpla las funciones antes señaladas, en tanto el Consejo Estratégico no designe al Director Ejecutivo en conformidad con el procedimiento establecido en el párrafo primero de este numeral.
+
+El Vicepresidente Ejecutivo de la Corporación podrá designar uno o más subrogantes del Director Ejecutivo, quienes actuarán en ausencia del titular, con todas sus facultades, lo que no será necesario acreditar ante terceros, previa aprobación del Consejo Estratégico del Comité.
 
 11º El Comité tendrá dos Subdirecciones permanentes, las cuales dependerán directamente del Director Ejecutivo, las que tendrán la denominación y objetivos que se señalan a continuación:
 
