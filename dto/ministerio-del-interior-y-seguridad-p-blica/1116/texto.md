@@ -62,7 +62,7 @@ Es un Plan que promueve, de forma especial, el fomento de las actividades produc
 
 III.- Ámbito de Aplicación.
 
-El presente Plan se aplicará en las comunas de Monte Patria, Punitaqui Combarbalá y Canela en la Región de Coquimbo; Futrono, La Unión, Lago Ranco y Río Bueno, en la Región de Los Ríos; Cauquenes, Empedrado, Pelluhue y Chanco, en la Región del Maule; Lebu, Arauco, Cañete, Contulmo, Curanilahue, Los Álamos, Cobquecura, Coelemu, Ninhue, Portezuelo, Quirihue, Quillón, Ránquil, San Nicolás, Trehuaco y Tirúa, en la Región del Biobío; y Chaitén, en la Región de Los Lagos
+El presente Plan se aplicará en las comunas de Monte Patria, Punitaqui Combarbalá y Canela en la Región de Coquimbo; Futrono, La Unión, Lago Ranco y Río Bueno, en la Región de Los Ríos; Cauquenes, Empedrado, Pelluhue y Chanco, en la Región del Maule; Lebu, Arauco, Cañete, Contulmo, Curanilahue, Los Álamos, Cobquecura, Coelemu, Ninhue, Portezuelo, Quirihue, Quillón, Ránquil, San Nicolás, Trehuaco y Tirúa, en la Región del Biobío; Carahue, Nueva Imperial, Saavedra, Teodoro Schmidt y Toltén, en la Región de la Araucanía; y Chaitén, en la Región de Los Lagos
 
 IV.- Objetivos.
 
