@@ -20,7 +20,7 @@ Normas Generales
 
 #### Artículo 1
 
-Para el ejercicio de las funciones de la Contraloría General, existirán Contralorías Regionales en cada región del país, excluida la Metropolitana de Santiago, las cuales tendrán su sede en la capital de la respectiva región.
+Para el ejercicio de las funciones de la Contraloría General, existirán Contralorías Regionales en cada región del país,NOTABCN las cuales tendrán su sede en la capital de la respectiva región.
 
 #### Artículo 2
 
