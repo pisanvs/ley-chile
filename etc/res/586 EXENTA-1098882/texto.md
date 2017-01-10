@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO DE TRANSFERENCIA DE RECURSOS "PROGRAMA PAGO CUIDADORES DE PERSONAS CON DISCAPACIDAD"
+
+Por resolución exenta N° 586, de 27 de diciembre de 2016, del Director Nacional del Instituto de Previsión Social, se aprueba "Convenio de Transferencia de Recursos", de 12 de octubre de 2016, cuya finalidad es la transferencia de recursos al Instituto de Previsión Social, desde el Ministerio de Desarrollo Social, a través de su Subsecretaría de Servicios Sociales, para solventar el pago del Subsidio referida a la Asignación "Programa pago cuidadores de personas con discapacidad", previsto en la Ley N° 20.882, de Presupuesto del Sector Público 2016, reglamentado por el DS N° 28, de 2016, del Ministerio de Desarrollo Social , Subsecretaría de Servicios Sociales.
+
+Santiago, 3 de enero de 2017.- Patricio Coronado Rojo, Director Nacional.
