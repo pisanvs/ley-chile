@@ -24,6 +24,12 @@ A lo menos cada cinco años, el Ministerio de Salud, oyendo a la Comisión refer
 
 Sin perjuicio de los demás requisitos que se exijan, los médicos cirujanos deberán haber obtenido, a lo menos, la puntuación mínima que establezca el reglamento respecto del examen señalado en el artículo anterior para postular a programas de perfeccionamiento, de postítulo, de postgrado conducentes a la obtención de un grado académico y de especializaciones o subespecializaciones, financiados por los órganos de la Administración del Estado o que se desarrollen total o parcialmente en establecimientos de salud dependientes de dichos órganos.
 
+#### Artículo 2 bis
+
+El examen único nacional de conocimientos de medicina a que se refiere el artículo 1 de esta ley no será exigible a médicos cirujanos que hayan obtenido la certificación de su respectiva especialidad o subespecialidad de conformidad con las normas establecidas en el número 13 del artículo 4 del decreto con fuerza ley Nº 1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979, y de las leyes Nº 18.933 y Nº 18.469.
+
+Las entidades certificadoras autorizadas por el Ministerio de Salud, en virtud del citado artículo 4, podrán certificar la especialidad o subespecialidad de quienes hayan obtenido su título profesional de médico cirujano en el extranjero, que no se encuentren habilitados para ejercer su profesión en Chile y que no cuenten con el examen único nacional de conocimientos de medicina. A los médicos que, encontrándose en estas circunstancias, obtengan la certificación de su especialidad o subespecialidad tampoco les será exigible el examen. Con todo, el ejercicio de su profesión quedará limitado al de la especialidad o subespecialidad que le fuere certificada, y sólo para el sector público.
+
 #### Artículo 3º
 
 Otórgase a los cargos de Subdirector Médico de Hospital y Director de Atención Primaria, de los Servicios de Salud, cualquiera sea su grado y nivel de jerarquía, la calidad de segundo nivel jerárquico para todos los efectos de la aplicación del Sistema de Alta Dirección Pública, establecido en la ley Nº 19.882, sin perjuicio de lo dispuesto en el decreto con fuerza de ley Nº 37, del Ministerio de Hacienda, de 2003.
