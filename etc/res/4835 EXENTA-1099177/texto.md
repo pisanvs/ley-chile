@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.835, 30 de diciembre 2016, Serviu Región del Biobío ordenó expropiación adicional parcial de terreno de un inmueble ubicado en Los Carrera 970, de la comuna de Los Ángeles, rol de avalúo 508-4, de aparente dominio de Fermín Alejandro Mardones Garay, superficie afecta a expropiación parcial es de 8,67 m2 de terreno, dentro de linderos señalados plano de expropiación S8R-28.083-4, para la ejecución de las obras del proyecto denominado "Mejoramiento Accesos de Santa María de Los Ángeles Acceso Sur" de la comuna de Los Ángeles, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por constructor civil Gonzalo Melo Sáez, por el arquitecto Guillermo Villafañe Feres y por la arquitecto Paola Martínez Perucca, según informe de fecha 7 de noviembre de 2016, fijó monto provisional de indemnización más reajustes del artículo 5° del DL N° 2.186 en $1.693.150, pagadera de contado.
+
+Directora Serviu Región del Biobío.
