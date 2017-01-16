@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 4.769, del 27/12/2016, Serviu Región del Biobío ordenó expropiación total del inmueble ubicado en Est. Negrete LT 1, Rol de Avalúo 00074-000003, de la comuna de Negrete, para la ejecución de las obras del proyecto "Estación Negrete, Negrete", de aparente dominio de Empresa FFCC del Estado. La superficie afecta a expropiación total de terreno es de 2.262,00 m2, cuyos linderos particulares, enmarcados en el polígono A-B-P-Q-A del plano S8R-34971, son los siguientes: Norte: Tramo A - B en 62,0 m con calle Pedro Montt. Sur: Tramo P-Q en 54,0 m con Lote 10; Oriente: Tramo B-P en 39,0 m con Lote 2. Poniente: Tramo Q-A en 39,81 m con calle A. Moller. Conforme artículo 51 ley 16.391 y DL 2.186. Comisión de Peritos integrado por la arquitecto doña Carolina del Pilar Zuloaga Sanhueza, la arquitecto doña Marielva Consuelo Inzunza Morales, y por el arquitecto don Andrés Javier Tobar Beluzan, que fijó el monto de la indemnización provisional por la expropiación total, en la suma de $25.415.832.-
+
+Directora Serviu Región del Biobío.
