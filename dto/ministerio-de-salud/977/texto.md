@@ -3012,9 +3012,9 @@ De las mantequillas
 
 #### Artículo 225
 
-Mantequilla es el producto lácteo derivado exclusivamente de la crema pasteurizada de leches.
+Mantequilla, sin otra denominación, es el producto lácteo derivado exclusivamente de la crema pasteurizada de leches.
 
-> **Nota.** El Art. transitorio del DTO 214, Salud, publicado el 04.02.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días desde su publicación.
+Los productos que usen la expresión de fantasía "mantequilla de.", sin tratarse de un producto lácteo, deberán rotular, además, el nombre del alimento de que se trate, en los términos exigidos por la letra a) del artículo 107 del presente reglamento, informando la verdadera naturaleza del producto en forma específica.
 
 #### Artículo 226
 
@@ -5070,6 +5070,8 @@ hortalizas
 
 Jugo o zumo puro de fruta u hortaliza es el producto sin fermentar, pero fermentable, pulposo, turbio o claro, destinado al consumo directo, obtenido por procedimientos mecánicos a partir de frutas u hortalizas maduras en buen estado o de sus carnes y conservados exclusivamente por medios físicos. El jugo podrá haber sido concentrado y luego reconstituido con agua para conservar la composición esencial y los factores de calidad del mismo.
 
+Los productos que usen la expresión de fantasía "agua de.", siendo líquidos provenientes de una especie vegetal determinada, deberán rotular, además, el nombre del alimento de que se trate, en los términos exigidos por la letra a) del artículo 107 del presente reglamento, informando la verdadera naturaleza del producto en forma específica.
+
 #### Artículo 483
 
 El jugo o zumo puro de frutas u hortalizas deberá cumplir los siguientes requisitos:
@@ -5135,6 +5137,8 @@ Boysenberry 10,0
 Chirimoya 7,5
 
 Ciruela 10,0
+
+Coco 5,0
 
 Damasco 10,0
 
