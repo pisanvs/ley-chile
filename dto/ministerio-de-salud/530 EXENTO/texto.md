@@ -22,6 +22,8 @@ Considerando:
 
 Decreto:
 
+> **Nota.** El numeral 1° del Decreto 189 Exento, Salud, publicado el 30.05.2015, modifica la presente norma en el sentido de modificar los cuadros, los que no se han podido realizar por restricciones técnicas.
+
 #### Artículo 1º
 
 Apruébase la Norma Técnica Nº 181 que fija los estándares técnicos específicos, generales y especiales que deben cumplir los prestadores de salud para formar parte de la red de prestadores señalada en el artículo 13º de la Ley Nº 20.850 y los respectivos formularios de solicitud de aprobación.
@@ -94,6 +96,52 @@ Los estándares especiales deberán ser cumplidos por los prestadores, conforme 
 
 .
 
+12. Estándares para el tratamiento basado en Infliximab o Adalimumab en la Enfermedad de Crohn grave y Enfermedad de Crohn con Fístula perianales complejas.
+
+12.1. Etapa de confirmación diagnóstica: Para este problema de salud, la confirmación consiste en la determinación de la necesidad de tratamiento de segunda línea conforme al protocolo, sin perjuicio de lo anterior, esta solicitud deberá ser validada por la Comisión de Expertos del Centro de Referencia Nacional.
+
+.
+
+12.2. Etapa de Tratamiento:
+
+.
+
+12.3. Etapa de Seguimiento:
+
+.
+
+13.- Estándares para el tratamiento basado en la administración de insulina, a través de Infusores Subcutáneos de Insulina (bomba de Insulina) para personas con diagnóstico de Diabetes Mellitus tipo 1 inestable severa.
+
+13.1. Etapa de confirmación diagnóstica: Para este problema de salud, la confirmación consiste en la determinación de la necesidad de tratamiento de segunda línea conforme al protocolo, sin perjuicio de lo anterior, esta solicitud deberá ser validada por la Comisión de Expertos del Centro de Referencia Nacional.
+
+.
+
+13.2. Etapa de Tratamiento:
+
+.
+
+13.3. Etapa de Seguimiento:
+
+.
+
+14.- Estándares para el tratamiento basado en Nutrición Enteral Domiciliaria total o parcial para personas cuya condición de salud imposibilita la alimentación por vía oral.
+
+14.1. Etapa de confirmación diagnóstica: Para este problema de salud, la confirmación consiste en la determinación de la necesidad de tratamiento de segunda línea conforme al protocolo, sin perjuicio de lo anterior, esta solicitud deberá ser validada por la Comisión de Expertos del Centro de Referencia Nacional.
+
+.
+
+14.2. Etapa de Tratamiento:
+
+.
+
+14.3. Etapa de Seguimiento:
+
+.
+
 ### III. DE LOS PROGRAMAS EXTERNOS DE EVALUACIÓN DE LA CALIDAD:
 
 Excepcionalmente, el Ministerio de Salud podrá, mediante resolución fundada, exceptuar del cumplimiento del requisito referido a contar con certificación PEEC, en consideración al tipo de establecimiento, trayectoria, años en la implementación, desarrollo de la técnica de laboratorio y riesgos que ella representa.
+
+IV. Estándares para la visita, atención y/o administración de terapias en domicilio, para la ley 20.850
+
+..
