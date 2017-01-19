@@ -42,7 +42,7 @@ Del mismo modo fomentará la creación de centros públicos o privados orientado
 
 #### Artículo 5º
 
-El examen para detectar el virus de inmunodeficiencia humana será siempre confidencial y voluntario, debiendo constar por escrito el consentimiento del interesado o de su representante legal. El examen de detección se realizará previa información a éstos acerca de las características, naturaleza y consecuencias que para la salud implica la infección causada por dicho virus, así como las medidas preventivas científicamente comprobadas como eficaces.
+El examen para detectar el virus de inmunodeficiencia humana será siempre confidencial y voluntario, debiendo constar por escrito el consentimiento del interesado o de su representante legal, en el caso de que el interesado tenga menos de 14 años de edad. El examen de detección se realizará previa información a éstos acerca de las características, naturaleza y consecuencias que para la salud implica la infección causada por dicho virus, así como las medidas preventivas científicamente comprobadas como eficaces.
 
 Sin perjuicio de ello, respecto de quienes se hallaren privados de libertad, y del personal regido por el decreto con fuerza de ley Nº 1, de 1997, del Ministerio de Defensa Nacional; por el decreto con fuerza de ley N° 2, de 1968, del Ministerio del Interior, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo N° 412, de 1992, del Ministerio de Defensa Nacional y por el decreto con fuerza de ley N° 1, de 1980, del Ministerio de Defensa Nacional, se estará a lo que dispongan los respectivos reglamentos. El examen deberá practicarse siempre en los casos de transfusiones sanguíneas, elaboraciones de plasma, trasplantes y cualesquiera otras actividades médicas que pudieren ocasionar contagio.
 
@@ -50,7 +50,7 @@ Sus resultados se entregarán en forma personal y reservada, a través de person
 
 Serán aplicables en esta materia las disposiciones de la Ley 19.628 sobre protección de datos personales.
 
-El reglamento establecerá las condiciones bajo las cuales se realizará el examen, la entrega de sus resultados, las personas y situaciones que ameriten la pesquisa obligatoria y la forma en que se entregará la información de los casos de contagio a la autoridad sanitaria.
+El reglamento establecerá las condiciones bajo las cuales se realizará el examen, la entrega de sus resultados, las personas y situaciones que ameriten la pesquisa obligatoria y la forma en que se entregará la información de los casos de contagio a la autoridad sanitaria. Si el interesado tuviere una edad igual o superior a 14 años, pero menor a 18, de ser positivo el resultado del examen, se deberá informar de este hecho a su representante legal. Un reglamento del Ministerio de Salud establecerá el procedimiento de información, así como el manejo adecuado para el control, apoyo y seguimiento del paciente.
 
 #### Artículo 6º
 
