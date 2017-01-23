@@ -174,7 +174,7 @@ i) Equipos empleados como sistemas de radar en vehículos que operen en la banda
 
 j) Otros aparatos o equipos que cumplan con lo que se establece a continuación:
 
-j.1) Operen al interior de inmuebles con una potencia máxima radiada de 150 mW en las bandas de frecuencias 2.400 a 2.483,5; 5.150 a 5.250; 5.250 a 5.350 y 5.725 a 5.850 MHz y al exterior de inmuebles con una potencia máxima radiada de 5 mW en la banda 2.400 a 2.483,5 MHz, en ambos casos, con técnicas de espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 10 MHz y permitan la compartición de frecuencias.
+j.1) Operen en las bandas de frecuencias 2.400 a 2.483,5; 5.150 a 5.250; 5.250 a 5.350 y 5.470 a 5.725 MHz, con una potencia máxima radiada de 150 mW y con técnicas de espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 10 MHz y permitan la compartición de frecuencias. También podrán operar en la banda 5.725 a 5.850 MHz, con una potencia máxima radiada de 150 mW al interior de inmuebles o 50 mW al exterior, siempre que, además, los equipos empleen alguna de las técnicas de compartición de frecuencias, antes señaladas.
 
 En la banda de frecuencias 5.150 a 5.250 MHz, la operación de los equipos estará restringida al interior de recintos cerrados (casas, edificios, oficinas, fábricas, almacenes, etc.). Además, la densidad de potencia máxima radiada no deberá exceder 7,5mW/MHz en cualquier banda de 1 MHz o su valor equivalente de 0,1875 mW/25 kHz en cualquier banda de 25 kHz.
 
