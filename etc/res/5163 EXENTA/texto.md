@@ -24,7 +24,7 @@ Resolución:
 
 1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado hasta el último día hábil de los meses de octubre y noviembre de 2016 y hasta el 27 de diciembre de 2016, ubicados en las comunas de Santiago, Estación Central, Independencia, Pedro Aguirre Cerda, Quinta Normal, Recoleta, San Joaquín y San Miguel.
 
-2. Los recursos destinados para la selección de las personas postulantes a este llamado alcanzarán hasta 182.000 Unidades de Fomento, sin perjuicio de poder efectuarse ajustes para el mes de noviembre en función de la demanda presentada y los recursos disponibles del programa 2016.
+2. Los recursos destinados para la selección de las personas postulantes a este llamado alcanzarán hasta 200.689 Unidades de Fomento, sin perjuicio de poder efectuarse ajustes para el mes de noviembre en función de la demanda presentada y los recursos disponibles del programa 2016.
 
 3. El número de proyectos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos señalados en el resuelvo 2, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
 
