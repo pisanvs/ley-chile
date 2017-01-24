@@ -8,7 +8,7 @@ Resuelvo:
 
 #### Artículo 1º
 
-La presente resolución será aplicable a los taxis básicos inscritos en el Registro de Servicio de Transporte Público de Pasajeros de la Región Metropolitana, salvo que expresamente en los procesos de licitación que realice el Ministerio de Transportes y Telecomunicaciones, de conformidad con lo dispuesto en el artículo 3º de la ley 18.696, se contemplen normas especiales diversas.
+La presente resolución será aplicable a los taxis básicos inscritos en el Registro Nacional de Servicios de Transporte Público de Pasajeros, salvo que expresamente en los procesos de licitación que realice el Ministerio de Transportes y Telecomunicaciones, de conformidad con lo dispuesto en el artículo 3º de la ley 18.696, se contemplen normas especiales diversas.
 
 #### Artículo 2º
 
