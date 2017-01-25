@@ -126,9 +126,9 @@ El Servicio Nacional de Pesca y Acuicultura deberá pronunciarse respecto de la 
 
 #### Artículo 4°
 
-En la sustitución sólo se podrá autorizar las especies registradas en la inscripción de la embarcación sustituida respecto de las cuales se encuentren vigentes de conformidad con la letra a) del artículo 3º.
+En la sustitución se autorizarán todas las pesquerías registradas en la inscripción vigente de la embarcación sustituida.
 
-Tratándose de la sustitución de dos naves por una, la autorización sólo se limitará a las especies que en común cumplan con lo establecido en el inciso anterior.
+Tratándose de la sustitución de dos naves por una, la autorización considerará todas las pesquerías que tengan las embarcaciones sustituidas, siempre que se dé cumplimiento a las normas de clases y límites de bodega establecidos en el artículo 2° del presente reglamento. Se entienden reguladas por esta disposición, la sustitución de dos embarcaciones por una tercera distinta, así como la sustitución de una embarcación por otra con inscripción vigente, a la cual se transfieren todas las pesquerías correspondientes a la embarcación sustituida sin perder aquellas que corresponden a su inscripción particular.
 
 Asimismo, para autorizar en la nave sustituyente el arte de pesca cerco o arrastre, las dos naves sustituidas deberán tener inscrito dicho arte de pesca.
 
@@ -140,15 +140,23 @@ La sustitución o modificación, podrá contemplar cambios de artes o aparejos d
 
 La sustitución procederá entre embarcaciones de igual clase o cuando ésta no implique aumentar la capacidad extractiva de acuerdo a lo indicado en el artículo 2°.
 
-Sin perjuicio de lo anterior, en caso de sustituciones de dos embarcaciones por una, se permitirá que dos embarcaciones de igual o distinta clase puedan ser sustituidas por una de clase inmediatamente superior a la de mayor clase.
+Sin perjuicio de lo anterior, en caso de sustituciones de dos embarcaciones por una, se permitirá que dos embarcaciones de igual o distinta clase puedan ser sustituidas por una de clase igual o inmediatamente superior a la de mayor clase.
 
-En la sustitución a que se refiere el inciso anterior, la capacidad de bodega de la embarcación sustituyente no podrá ser superior a la suma de las bodegas de las embarcaciones sustituidas.
+En la sustitución a que se refiere el inciso anterior, la capacidad de bodega de la embarcación sustituyente no podrá ser superior a la suma de las bodegas de las embarcaciones sustituidas, ni exceder a la capacidad de bodega correspondiente a la clase a que corresponda la embarcación sustituyente, de conformidad con lo dispuesto en el inciso segundo del presente artículo y el artículo 2° del presente Reglamento.
 
 Asimismo, la embarcación sustituyente, en caso de una sustitución realizada de conformidad con el inciso 2º del presente artículo, no podrá aumentar su capacidad de bodega mediante modificación o sustitución de una embarcación por otra.
 
+#### Artículo 6° Bis
+
+En el caso de las sustituciones a que se refiere el inciso 9° del artículo 50 de la Ley General de Pesca y Acuicultura, la embarcación objeto de la modificación deberá dar cumplimiento a las normas de clases y límites de bodega establecidos en el artículo 2° del presente reglamento.
+
+Deberán someterse a dicho procedimiento aquellas modificaciones estructurales que disminuyan la clase de la embarcación sustituida a las correspondientes a primera o segunda clase, en el caso de las embarcaciones inscritas con arte de pesca de cerco o arrastre, y a la primera clase, en el caso de las demás embarcaciones, según lo indicado por el artículo 2° del presente Reglamento, siempre que en virtud de dicha modificación la embarcación respectiva alcance una eslora igual o inferior a doce metros, y su capacidad de bodega no se encuentre dentro de los límites establecidos en artículo 2° indicado precedentemente.
+
 #### Artículo 7°
 
-Las medidas de eslora y capacidad de bodega se acreditarán con el comprobante de matrícula de embarcación menor y certificado de bodega, otorgado por la Autoridad Marítima competente. Sin embargo, las embarcaciones cuya eslora sea superior a 12 metros deberán acompañar además, certificado de arqueo otorgado por la Dirección General del Territorio Marítimo y Marina Mercante.
+Las medidas de eslora se acreditarán con el certificado de matrícula de embarcación menor. La capacidad de bodega se acreditará, en el caso de las embarcaciones de una eslora menor a 12 metros, con el anexo de certificado de matrícula otorgado por la respectiva Capitanía de Puerto y las embarcaciones de una eslora igual o superior a doce metros, acreditarán dicha capacidad con el certificado de arqueo, otorgado por la Dirección General del Territorio Marítimo y de Marina Mercante.
+
+A la solicitud de sustitución deberá acompañarse además el certificado de navegabilidad de la embarcación sustituyente, vigente a la fecha de su presentación.
 
 INCISO ELIMINADO.
 
