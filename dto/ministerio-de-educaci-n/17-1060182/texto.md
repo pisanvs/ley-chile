@@ -1474,6 +1474,8 @@ ii. Condición 2: el establecimiento educacional posee el 55% o más de los resu
 
 transitorio: La metodología de ordenación de establecimientos educacionales aprobada a través de este decreto, comenzará a regir a partir del mes de diciembre del año 2015.
 
+En el caso del nivel de educación media, esta metodología de ordenación comenzará a regir a partir del mes de diciembre del año 2016.
+
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Carolina Schmidt Zaldívar, Ministra de Educación.
 
 Lo que transcribo a usted para su conocimiento. Saluda atentamente a usted, Fernando Rojas Ochagavía, Subsecretario de Educación.
