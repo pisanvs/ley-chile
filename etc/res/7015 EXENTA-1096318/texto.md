@@ -52,7 +52,7 @@ Resolución:
 
 5. El valor máximo del subsidio que obtendrán los postulantes seleccionados en el presente llamado, será de 192 Unidades de Fomento, el que se pagará en montos mensuales de hasta 8 Unidades de Fomento. Además, el valor mensual del subsidio podrá coincidir con el monto de la renta acordada.
 
-6. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 152.668 Unidades de Fomento, las que se distribuirán regionalmente según la tabla que se presenta a continuación:
+6. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 39.168 Unidades de Fomento, las que se distribuirán regionalmente según la tabla que se presenta a continuación:
 
 .
 
