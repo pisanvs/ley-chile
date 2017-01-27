@@ -74,6 +74,8 @@ b) Construcción de vivienda nueva con un máximo de tres tipologías adicionale
 
 13. Los recursos involucrados para la selección ascienden a un total de 920.007 UF y su distribución regional será la siguiente:
 
+.
+
 14. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponden.
 
 15. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
