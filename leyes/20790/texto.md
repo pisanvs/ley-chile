@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1º
 
-Autorízase, a contar de la entrada en vigencia del artículo siguiente y hasta el 28 de febrero de 2018, al Ministro de Hacienda para que, mediante uno o más decretos expedidos bajo la fórmula "Por Orden del Presidente de la República", efectúe aportes extraordinarios de capital por un monto de hasta 3.000.000.000 de dólares, moneda de los Estados Unidos de América, a la Corporación Nacional del Cobre de Chile, en una o más transferencias, las que se financiarán con activos financieros disponibles en el Tesoro Público, sean estos en moneda nacional o en moneda extranjera.
+Autorízase, a contar de la entrada en vigencia del artículo siguiente y hasta el 28 de febrero de 2019, al Ministro de Hacienda para que, mediante uno o más decretos expedidos bajo la fórmula "Por Orden del Presidente de la República", efectúe aportes extraordinarios de capital por un monto de hasta 3.000.000.000 de dólares, moneda de los Estados Unidos de América, a la Corporación Nacional del Cobre de Chile, en una o más transferencias, las que se financiarán con activos financieros disponibles en el Tesoro Público, sean estos en moneda nacional o en moneda extranjera.
 
 #### Artículo 2º
 
