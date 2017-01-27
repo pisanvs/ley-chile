@@ -20,6 +20,8 @@ Resolución:
 
 2. Los recursos involucrados por Región del país para la selección de postulantes son los siguientes:
 
+.
+
 3. El número de proyectos seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución.
 
 4. Los postulantes que cuenten con Formulario de Ingreso al Registro Social de Hogares deberán acreditar un ahorro mínimo de 10 Unidades de Fomento si pertenecen al 40% más vulnerable de la población y 15 Unidades de Fomento si forman parte del 60% restante, cumpliendo para ello lo establecido en los artículos 37, 38, 39 y 40 del DS N° 49 (V. y U.), de 2011.
@@ -55,6 +57,8 @@ Resolución:
 Asimismo, en la Región de Antofagasta, podrán complementarse los montos de subsidio del Programa Fondo Solidario de Elección de Vivienda, con subsidios adicionales provenientes del Gobierno Regional en el marco del Convenio de Programación 2015-2023 "Más Viviendas y Mejores Barrios para la Región de Antofagasta", aprobado mediante decreto exento N° 230 (V. y U.), de fecha 26 de octubre de 2015, los que deberán consignarse en el respectivo módulo informático como "Aporte adicional Convenio GORE".
 
 18. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de proyectos seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+
+> **Nota.** El numeral 1° de la Resolución 417 Exenta, Vivienda, publicada el 27.01.2017, modifica la presente norma en el sentido de de reemplazar su tabla inserta en el resuelvo 1, no obstante encontrarse dicha tabla en el resuelvo 2.
 
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 

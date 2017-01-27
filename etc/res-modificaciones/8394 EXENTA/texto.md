@@ -36,8 +36,16 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 5. Los recursos comprometidos en los Resuelvos 3. y 4., de la presente resolución, para los proyectos seleccionados en el concurso a que se llamó por resolución exenta N° 6.086 (V. y U.), de 2016, cuyo cierre de postulación se efectuó el día 30 de noviembre, se detallan en el siguiente cuadro para cada región del país, incluyendo la suma total de familias beneficiadas y Unidades de Fomento comprometidas, para efectos de cuadratura, considerando los montos de subsidio de los proyectos, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras:
 
+> **Nota.** La letra a) del numeral 3° de la Resolución 417 Exenta, Vivienda, publicada el 27.01.2017, modifica la presente norma en el sentido de reemplazar las filas Nº 1 y Total de la manera que la citada norma indica.
+
+> **Nota.** NOTA 1 La letra c) del numeral 3° de la Resolución 417 Exenta, Vivienda, publicada el 27.01.2017, modifica la presente norma en el sentido de reemplazar la fila Nº 1 de la manera que la citada norma indica.
+
+> **Nota.** NOTA 2 La letra D) del numeral 3° de la Resolución 417 Exenta, Vivienda, publicada el 27.01.2017, modifica la presente norma en el sentido de reemplazar las filas correspondientes a la región de "Arica y Parinacota", "Valparaíso", "Metropolitana" y "Total País" de la manera que la citada norma indica.
+
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.
 
 NÓMINA DE PROYECTOS SELECCIONADOS - LLAMADO EFECTUADO MEDIANTE RESOLUCIÓN N° 6.086 EXENTA (V. Y U.), DE 2016 - SELECCIÓN MES DE NOVIEMBRE
+
+..

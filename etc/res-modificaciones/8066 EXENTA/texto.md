@@ -40,8 +40,12 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 .
 
+> **Nota.** La letra a del numeral 2 de la Resolución 417 Exenta, Vivienda, publicada el 27.01.2017, modifica la presente norma en el sentido de reemplazar las filas Nº 1, 10 y Total de la tabla de la manera que la citada norma indica.
+
+> **Nota.** NOTA 1 La letra c del numeral 2 de la Resolución 417 Exenta, Vivienda, publicada el 27.01.2017, modifica la presente norma en el sentido de reemplazar las filas correspondientes a las regiones de "Arica y Parinacota", "Metropolitana" y "Total País" de la manera que la citada norma indica.
+
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.
 
-. .
+..
