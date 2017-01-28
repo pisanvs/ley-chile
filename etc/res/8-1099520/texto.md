@@ -1,0 +1,3 @@
+APRUEBA CIRCULAR DE LA DIRECCIÓN GENERAL DEL TERRITORIO MARÍTIMO Y DE MARINA MERCANTE ORD. N° O-71/033
+
+Resolución D.G.T.M. y M.M. Ord. N° 12600/8 Vrs., de fecha 7 de enero de 2017, aprueba la Circular D.G.T.M. y M.M. Ord. N° O-71/033, de la misma fecha, la cual "Dispone la Adopción de las Normas de Funcionamiento de las Luces de Navegación, los Reguladores de las Luces de Navegación y el Equipo Conexo".
