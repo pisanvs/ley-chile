@@ -890,9 +890,9 @@ Desde la entrada en vigencia de la presente ley, y hasta el 31 de diciembre de 2
 
 #### Artículo tercero
 
-El sostenedor que haya adquirido tal calidad de conformidad a lo dispuesto en el artículo anterior deberá dar cumplimiento a lo establecido en el literal a) quáter del artículo 6º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, dentro del plazo de tres años contado desde que haya adquirido su personalidad jurídica.
+El sostenedor que haya adquirido tal calidad de conformidad a lo dispuesto en el artículo anterior deberá dar cumplimiento a lo establecido en el literal a) quáter del artículo 6º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, dentro del plazo de seis años contado desde el 30 de junio de 2017.
 
-Asimismo, aquel sostenedor que a la fecha de publicación de esta ley se encuentre organizado como una persona jurídica sin fines de lucro, tendrá el plazo de tres años, contado desde la entrada en vigencia de esta ley, para dar cumplimiento a lo dispuesto en el literal a) quáter del artículo 6º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+Asimismo, aquel sostenedor que a la fecha de publicación de esta ley se encuentre organizado como una persona jurídica sin fines de lucro, tendrá el plazo de seis años, contado desde el 30 de junio de 2017, para dar cumplimiento a lo dispuesto en el literal a) quáter del artículo 6º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
 
 Con todo, en caso de que el sostenedor, a la fecha de publicación de esta ley mantenga gravado con hipoteca o adquiera el inmueble en que funciona el establecimiento educacional al inicio del año escolar 2014, deberá acreditar, si correspondiere, el alzamiento de la hipoteca que garantizaba la obligación contraída para adquirirlo en el término de veinticinco años contado desde el plazo que señalan los incisos precedentes, según corresponda. Sin perjuicio de lo anterior, en el evento de que no se haya podido alzar la hipoteca en el plazo señalado previamente, y siempre que se haya extinguido completamente la obligación garantizada con ésta, el sostenedor dispondrá de dos años para formalizar el alzamiento.
 
@@ -902,7 +902,9 @@ Sin perjuicio de lo dispuesto en el artículo anterior, los sostenedores que use
 
 Los sostenedores que tengan contratos de arrendamiento vigentes al inicio del año escolar 2014, podrán continuar con ellos en las mismas condiciones en ellos señaladas hasta el plazo establecido en los incisos primero y segundo del artículo tercero transitorio, según corresponda. En caso que dichos contratos expiren durante el referido plazo, sólo podrán ser renovados por el tiempo que reste para su cumplimiento, con un canon de arrendamiento que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades.
 
-Los demás sostenedores podrán celebrar o continuar con sus contratos de arrendamiento, según corresponda, con un canon de arrendamiento que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades.
+Los demás sostenedores podrán celebrar o continuar con sus contratos de arrendamiento, según corresponda, con un canon de arrendamiento que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades hasta por el mismo plazo a que se refiere el inciso anterior.
+
+Solamente los sostenedores organizados como personas jurídicas sin fines de lucro a la fecha de publicación de esta ley, así como aquellos organizados como tales en virtud del artículo segundo transitorio, antes del 1 de julio de 2017, podrán extender dichos contratos hasta por cuatro años adicionales al plazo establecido en los incisos primero y segundo del artículo tercero transitorio, según corresponda. Vencido el plazo anterior, les será exigible el cumplimiento de lo dispuesto en el literal a) quáter del artículo 6 del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
 
 Los contratos de arrendamiento a que se refieren los incisos anteriores estarán exceptuados de las restricciones respecto de personas relacionadas a que se refiere la letra a) del inciso sexto del artículo 3º y el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
 
@@ -928,13 +930,9 @@ La Superintendencia de Educación, en uso de sus atribuciones, fiscalizará el c
 
 Sin perjuicio de lo dispuesto en el artículo tercero transitorio, los sostenedores regidos por el decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, que, al inicio del año escolar 2014, gestionen establecimientos educacionales con una matrícula no superior a 400 estudiantes considerado el total de establecimientos de su dependencia, podrán acogerse al régimen excepcional que establecen los incisos siguientes.
 
-Si al inicio del año escolar 2014 se encontraban ocupando el inmueble en que funciona el establecimiento educacional en virtud de un contrato de arrendamiento celebrado con una persona relacionada, podrán mantener dicho contrato en las mismas condiciones en las que fue celebrado hasta por un plazo de seis años, contado desde que dé cumplimiento a lo dispuesto en el artículo segundo transitorio de la presente ley.
+Inciso Eliminado.
 
-En caso que dichos contratos expiren durante el plazo señalado anteriormente, sólo podrán ser renovados por el tiempo que reste para el cumplimento de aquel, con un canon de arrendamiento que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades.
-
-Dicho contrato estará exceptuado de las restricciones respecto de personas relacionadas a que se refiere la letra a) del inciso quinto del artículo 3º y el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
-
-Finalizado el plazo señalado en el inciso segundo del presente artículo los sostenedores podrán celebrar un "contrato de uso de infraestructura para fines educacionales" del bien inmueble en que funciona el establecimiento educacional. Este contrato deberá cumplir con las siguientes reglas:
+Finalizados los plazos referidos en los incisos segundo, tercero o cuarto del artículo cuarto transitorio respectivamente, los sostenedores podrán celebrar un "contrato de uso de infraestructura para fines educacionales" del bien inmueble en que funciona el establecimiento educacional. Este contrato deberá cumplir con las siguientes reglas:
 
 a) El propietario del bien inmueble se obliga a entregar el uso de éste al sostenedor sin fines de lucro y a solventar los gastos relativos a mejoras útiles o necesarias de dicho inmueble. En ningún caso, ni directa o indirectamente, dichos gastos podrán ser solventados por el sostenedor con cargo a la subvención escolar u otros aportes que reciba en su calidad de tal.
 
@@ -956,7 +954,7 @@ En caso que el Ministerio de Educación determine que, durante dos años consecu
 
 El propietario podrá solicitar al Servicio de Impuestos Internos la revisión del actual avalúo fiscal del inmueble en donde funciona el establecimiento educacional.
 
-Para efectos de este artículo, se entenderán personas relacionadas las que define la letra a) del inciso sexto del artículo 3º y lo dispuesto en el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+Dicho contrato estará exceptuado de las restricciones respecto de las personas relacionadas a que se refiere la letra a) del inciso quinto del artículo 3 y el artículo 3 bis del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
 
 #### Artículo sexto
 
@@ -978,6 +976,8 @@ El sostenedor deberá remitir copia del o los contratos que corresponda por la a
 
 El Ministerio de Educación, mediante un reglamento que deberá ser firmado por el Ministro de Hacienda, regulará las materias señaladas en este artículo.
 
+Con todo, aquellos sostenedores que se acojan a lo dispuesto en el inciso cuarto del artículo cuarto transitorio, podrán celebrar el contrato señalado en el inciso primero durante la extensión de plazo indicada en dicho artículo.
+
 ### Párrafo 2º
 
 De los créditos garantizados
@@ -994,7 +994,9 @@ b) Aquel que se encuentre constituido como persona jurídica sin fines de lucro 
 
 Para efectos de lo dispuesto en el presente Párrafo, no se aplicará la prohibición de celebrar actos o contratos con personas relacionadas en los términos de la letra a) del inciso sexto del artículo 3º y el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
 
-El contrato de crédito sólo podrá celebrarse dentro del plazo de seis años contado desde la publicación de la presente ley. Con todo, tratándose de los sostenedores a que se refiere el artículo quinto transitorio, estos contratos podrán celebrarse hasta el vencimiento del último plazo a que se refiere el inciso segundo del artículo quinto transitorio.
+El contrato de crédito sólo podrá celebrarse dentro de los plazos establecidos en los incisos primero y segundo del artículo tercero transitorio. Con todo, aquellos sostenedores que se acojan a lo dispuesto en el inciso cuarto del artículo cuarto transitorio podrán celebrar dicho contrato durante la extensión de plazo allí indicado.
+
+Las empresas bancarias a que alude el inciso segundo podrán solicitar a quienes competa, previo a la celebración del respectivo contrato, la verificación de los antecedentes presentados por el sostenedor.
 
 #### Artículo octavo
 
@@ -1008,9 +1010,11 @@ i. Los supuestos bajo los cuales se perderá el derecho a impetrar la subvenció
 
 ii. Que la propiedad adquirida quedará afecta al servicio educativo de conformidad a lo señalado en el artículo decimosexto transitorio.
 
-c) Que el sostenedor autorice expresamente al Ministerio de Educación para descontar, retener y pagar directamente a la empresa bancaria, la cuota mensual del crédito respectivo, con cargo a la subvención de conformidad a lo dispuesto en el inciso segundo del artículo duodécimo transitorio, hasta por el plazo de veinticinco años. En estos casos se entenderá que se cumple la exigencia de destinar la subvención a fines educacionales, en los términos del artículo 3º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+c) Que el sostenedor autorice expresamente al Ministerio de Educación para descontar, retener y pagar directamente a la empresa bancaria, la cuota mensual del crédito respectivo, con cargo a la subvención de conformidad a lo dispuesto en el inciso segundo del artículo duodécimo transitorio, hasta por el plazo de veinticinco años. En estos casos se entenderá que se cumple la exigencia de destinar la subvención a fines educacionales, en los términos del artículo 3º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. Cuando corresponda, esta cuota se considerará como un gasto indispensable de aquellos a que hace referencia la letra c) del artículo 92 de la ley Nº 20.529.
 
-d) Que la cuota mensual proyectada del crédito no supere el límite que señala el inciso primero del artículo duodécimo transitorio.
+d) Que la cuota mensual proyectada del crédito no supere el 25% de los ingresos promedio mensuales proyectados, considerando para dicha proyección la matrícula promedio efectiva de los últimos tres años del establecimiento educacional. Para este cálculo deberán considerarse sólo aquellos ingresos señalados en el inciso segundo del artículo duodécimo transitorio. Con todo, la Dirección de Presupuestos podrá autorizar que la cuota del crédito exceda este límite.
+
+e) Que el sostenedor contrate y mantenga, mientras el crédito se encuentre vigente, y con cargo al pago de dicho crédito señalado en el literal c) precedente, un seguro destinado a la completa restitución de los daños que se produzcan en el local escolar, y que cubra a lo menos los riesgos de incendio, sismo y salida de mar, en caso que el bien esté expuesto a este último riesgo. Este seguro se contratará utilizando los modelos de texto de condiciones generales de pólizas y cláusulas adicionales que la Superintendencia de Valores y Seguros deposite para tal efecto en el Depósito de Pólizas del literal e) del artículo 3 del decreto con fuerza de ley Nº 251, de 1931, los que estarán sujetos a las normas de contratación que para estos efectos dicte dicha Superintendencia.
 
 En el caso que, por cualquier causa legal distinta de la señalada en el literal c) del inciso anterior, el Ministerio de Educación retenga parte o todos los recursos de la subvención, éste no dejará de pagar, con cargo a ella, la cuota mensual del crédito que corresponda.
 
@@ -1019,6 +1023,10 @@ En caso que la tasación a que se refiere el literal a) anterior sea superior a 
 Los inmuebles adquiridos y que cuenten con garantía a que hace referencia el artículo undécimo transitorio tendrán el carácter de inembargables. Asimismo, éstos no podrán ser objeto de gravamen alguno ni podrá celebrarse respecto de ellos acto o contrato alguno.
 
 Los títulos en que consten los créditos celebrados de conformidad a este artículo serán endosables.
+
+Los títulos en que consten los créditos celebrados de conformidad a este artículo serán endosables de acuerdo a la forma determinada en el numeral 7) del artículo 69 del decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y otros cuerpos legales que se indican.
+
+Igualmente, los créditos celebrados de conformidad a este artículo quedarán excluidos de los procedimientos concursales que establece la ley Nº 20.720, que sustituye el régimen concursal vigente por una ley de reorganización y liquidación de empresas y personas, y perfecciona el rol de la superintendencia del ramo.
 
 #### Artículo noveno
 
@@ -1048,13 +1056,17 @@ Mediante decreto supremo conjunto del Ministerio de Hacienda, del Ministerio de 
 
 Una vez servidos completamente todos los créditos garantizados por el Fondo, el remanente de sus recursos será transferido íntegramente al Tesoro Público.
 
-Artículo duodécimo.- El sostenedor que, en un año calendario, destine para el pago del crédito más de un 25% de los recursos que recibe por el establecimiento educacional cuyo inmueble fue adquirido conforme a este Párrafo, perderá el derecho a impetrar la subvención al término del año escolar siguiente.
+El Fondo sólo podrá caucionar obligaciones hasta un monto que, en su conjunto, no exceda en 10 veces la totalidad de su patrimonio. Dicha relación deberá ser calculada dentro de los primeros diez días de cada mes respecto al último día hábil del mes inmediatamente anterior.
+
+Artículo duodécimo.- El sostenedor que, en un año , destine para el pago del crédito más de un 30% de los recursos que recibe por el establecimiento educacional cuyo inmueble fue adquirido conforme a este Párrafo o más de un 25% durante tres años consecutivos, perderá el derecho a impetrar la subvención al término del año escolar siguiente. Se considerará para el cómputo de cada año el período entre el inicio de un año escolar y el inicio del año escolar siguiente.
 
 Para el cálculo del límite a que se refiere el inciso anterior, se considerarán los recursos de la subvención de escolaridad, que regula el artículo 9º; el incremento de zona de la subvención de escolaridad, a que se refiere el artículo 11; el incremento de ruralidad de la subvención de escolaridad, a que se refiere el artículo 12; la subvención anual de apoyo al mantenimiento, a que se refiere el artículo 37, y el aporte por gratuidad a que se refiere el artículo 49 bis, todos del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación. Igualmente, se computará para dicho límite la suma de los cobros efectuados a los padres y apoderados, así como las donaciones en dinero que éstos efectúen.
 
-El Ministerio de Educación dictará, en enero de cada año, una resolución que individualice a los sostenedores que se encuentren en la situación del inciso primero de este artículo. De la inclusión en esta resolución, deberá notificarse mediante carta certificada, a cada sostenedor.
+El Ministerio de Educación dictará, en marzo de cada año, una resolución que individualice a los sostenedores que se encuentren en la situación del inciso primero de este artículo. De la inclusión en esta resolución, deberá notificarse mediante carta certificada, a cada sostenedor, a la Corporación de Fomento de la Producción y a las empresas bancarias que corresponda.
 
 El sostenedor podrá impugnar dicha resolución mediante un recurso de reposición ante el Subsecretario de Educación, y jerárquico, en subsidio o directamente, ante el Ministro de Educación, ambos, dentro del término de cinco días contado desde la notificación por carta certificada a que hace referencia el inciso anterior.
+
+Sin perjuicio de lo anterior, el Subsecretario o Subsecretaria de Educación, mediante resolución fundada y previo informe favorable de la Superintendencia de Educación, de la Agencia de Calidad de la Educación y de la Corporación de Fomento de la Producción, podrá ordenar, por una sola vez, que se deje sin efecto la pérdida del derecho a que se refiere el inciso primero.
 
 #### Artículo decimo
 
@@ -1071,6 +1083,8 @@ En todos los casos que el sostenedor pierda el derecho a impetrar la subvención
 Tomando conocimiento de la notificación señalada en el inciso anterior, la Corporación dictará una resolución haciendo efectiva la garantía de pago, la que se notificará por carta certificada al sostenedor. Con el solo mérito de dicha resolución, el Fondo recuperará los recursos públicos destinados al pago del crédito para la compra del inmueble mediante la adquisición de éste para el Fondo, el cual lo inscribirá a su nombre. Esta resolución podrá impugnarse judicialmente de conformidad a lo establecido en el artículo decimoquinto transitorio.
 
 La Corporación, en representación del Fondo, dentro del plazo de dos años desde adquirido el inmueble de que trata el inciso anterior, deberá transferirlo al Fisco, de conformidad a los artículos 36 y siguientes del decreto ley Nº1.939, o enajenarlo, mediante subasta pública de conformidad a lo dispuesto en el artículo 2º de la ley Nº19.085. De proceder la subasta, tendrán una primera opción de adjudicación quienes sean sostenedores de establecimientos educacionales regidos por el decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+
+Los ingresos del Fondo quedarán exentos de toda clase de impuestos o contribuciones. Los actos, contratos y documentos necesarios para la constitución de las garantías otorgadas por éste, quedarán exentos de los impuestos establecidos en el decreto ley Nº 3.475, de 1980, Ley sobre Impuesto de Timbres y Estampillas.
 
 #### Artículo decimo
 
@@ -1155,6 +1169,8 @@ c) Incremento de ruralidad de la subvención de escolaridad, a que se refiere el
 d) Subvención anual de apoyo al mantenimiento, a que se refiere el artículo 37 del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
 
 Se entenderá por ingreso por subvenciones e incrementos, calculado en promedio mensual por alumno, aquél que resulte de dividir el monto total anual de estas subvenciones e incrementos por doce meses y por la asistencia promedio anual, en cada establecimiento.
+
+Para la realización del cálculo establecido en el inciso anterior no se considerarán los incrementos de subvención establecidos en el artículo 3, numerales 1) y 2), de la ley Nº 20.903, así como los establecidos en el artículo cuadragésimo octavo transitorio de la misma ley.
 
 A más tardar el 25 de enero de cada año, el Ministerio de Educación publicará, y notificará en su caso, por comunicación electrónica, a cada establecimiento educacional, el límite máximo de cobro del año escolar siguiente o la obligación de no seguir cobrando el financiamiento compartido, cuando se cumpla la condición indicada en el inciso primero del artículo anterior.
 

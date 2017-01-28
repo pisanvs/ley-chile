@@ -56,7 +56,7 @@ iv) Costos de aquellos servicios que estén asociados al funcionamiento y admini
 
 v) Adquisición de toda clase de servicios, materiales e insumos para el buen desarrollo de la gestión educativa, así como recursos didácticos e insumos complementarios que sean útiles al proceso integral de enseñanza y aprendizaje de los y las estudiantes.
 
-Tratándose de servicios de personas o entidades técnicas pedagógicas, a que se refiere el artículo 30 de la ley Nº20.248, sólo podrán ser contratadas si sus servicios se encuentran certificados por el Ministerio de Educación y han sido adjudicados por medio de licitación o concurso público, según corresponda. En caso de concursos públicos, deberán ser publicados, a lo menos, en un diario de circulación regional. Los honorarios de dichas personas o entidades serán pagados con la subvención escolar preferencial establecida por la ley Nº20.248.
+Tratándose de servicios de personas o entidades técnicas pedagógicas, a que se refiere el artículo 30 de la ley Nº20.248, sólo podrán ser contratadas si sus servicios se encuentran certificados por el Ministerio de Educación y han sido adjudicados por medio de licitación o concurso público, según corresponda. En caso de concursos públicos, deberán ser publicados, a lo menos, en un diario de circulación regional y le serán aplicables las causales de excepción establecidas en los literales g) y h) del artículo 8 de la ley Nº 19.886, de Bases sobre contratos administrativos de suministro y prestación de servicio. Los honorarios de dichas personas o entidades serán pagados con la subvención escolar preferencial establecida por la ley Nº20.248.
 
 vi) Inversión en activos no financieros necesarios para la prestación del servicio educativo.
 
