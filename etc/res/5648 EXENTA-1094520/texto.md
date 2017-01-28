@@ -82,7 +82,7 @@ Las viviendas nuevas y equipamientos comunitarios que se construyan, no podrán 
 
 ### Párrafo 5° — Recursos disponibles
 
-13. Los recursos involucrados para la selección ascienden a un total de 2.272.450 y su distribución entre las regiones, para las diferentes modalidades, corresponderá al siguiente detalle:
+13. Los recursos involucrados para la selección ascienden a un total de 2.521.809,77 UF y su distribución entre las regiones, para las diferentes modalidades, corresponderá al siguiente detalle:
 
 .
 
