@@ -42,13 +42,13 @@ Decreto:
 
 #### Artículo 1º
 
-Determínase que el aporte estatal que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2º letra c) y en el artículo 3º, por el período comprendido entre los meses de enero a diciembre del año 2016, ambos meses inclusive, asciende a la suma de $834.918.389.214 (ochocientos treinta y cuatro mil novecientos dieciocho millones, trescientos ochenta y nueve mil doscientos catorce pesos).
+Determínase que el aporte estatal que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2º letra c) y en el artículo 3º, por el período comprendido entre los meses de enero a diciembre del año 2016, ambos meses inclusive, asciende a la suma de $836.710.804.556 (ochocientos treinta y seis mil setecientos diez millones ochocientos cuatro mil quinientos cincuenta y seis pesos).
 
 #### Artículo 2º
 
 El referido aporte se transferirá por mensualidades, por intermedio de la municipalidad respectiva, a cada entidad administradora de salud municipal y su monto se determina aplicando a un aporte general y básico que se detalla, los criterios de incremento o rebaja según corresponda, señalados en el artículo 49º de la ley Nº19.378 en la proporción y forma que a continuación se indican:
 
-a) Aporte básico unitario homogéneo, denominado per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna de $4.895 (cuatro mil ochocientos noventa y cinco pesos).
+a) Aporte básico unitario homogéneo, denominado per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna de $5.020 (cinco mil veinte pesos).
 
 b) Criterios de incremento del per cápita basal, según corresponda:
 
