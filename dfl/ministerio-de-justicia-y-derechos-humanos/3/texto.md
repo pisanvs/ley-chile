@@ -1,0 +1,355 @@
+FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY ORGÁNICA DEL MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS
+
+Santiago, 2 de diciembre de 2016.- Hoy se decretó lo que sigue:
+
+DFL Núm. 3.
+
+Vistos:
+
+Lo dispuesto en los artículos 32 N°3 y 64 de la Constitución Política de la República, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo N° 100, de 2005, del Ministerio Secretaría General de la Presidencia; la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia; el decreto ley N° 3.346, de 1980, que fija el texto de la Ley Orgánica del Ministerio de Justicia y Derechos Humanos; la Ley N° 20.720, que sustituye el Régimen Concursal vigente por una Ley de Reorganización y Liquidación de Empresas y Personas, y perfecciona el rol de la superintendencia del ramo; la Ley N° 20.711, que implementa la Convención de La Haya que suprime la exigencia de legalización de documentos públicos extranjeros (Convención de la Apostilla), adoptada el 5 de octubre de 1961 en La Haya, Países Bajos; la ley Nº 20.587, que modifica el régimen de libertad condicional y establece, en caso de multa, la pena alternativa de trabajos comunitarios; la ley N° 20.286, que introduce modificaciones orgánicas y procedimentales a la Ley N° 19.968, que Crea los Tribunales de Familia; la Ley N° 19.968, que crea los Tribunales de Familia; la Ley N° 19.947, que establece la Nueva Ley de Matrimonio Civil; la ley N° 19.368, que introduce modificaciones al Código de Justicia Militar, al decreto ley N° 2.859, de 1979, Ley Orgánica de Gendarmería de Chile, y al decreto ley N° 3.346, de 1980, Ley Orgánica del Ministerio de Justicia; la Ley N° 20.885, que crea la Subsecretaría de Derechos Humanos y adecúa la Ley Orgánica del Ministerio de Justicia; la resolución N° 1.600, de 2008, que fija normas sobre exención del trámite de toma de razón, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que, con fecha 5 de enero de 2016, se publicó en el Diario Oficial la Ley N° 20.885, que crea la Subsecretaría de Derechos Humanos y adecúa la Ley Orgánica del Ministerio de Justicia, contenida en el decreto ley N° 3.346, de 1980.
+
+2. Que el decreto ley N° 3.346, de 1980, fue previamente modificado por las leyes N° 20.720, que sustituye el Régimen Concursal vigente por una Ley de Reorganización y Liquidación de Empresas y Personas, y perfecciona el rol de la superintendencia del ramo; N° 20.711, que implementa la Convención de La Haya que suprime la exigencia de legalización de documentos públicos extranjeros (Convención de la Apostilla), adoptada el 5 de octubre de 1961 en La Haya, Países Bajos; N° 20.587, que modifica el régimen de libertad condicional y establece, en caso de multa, la pena alternativa de trabajos comunitarios; N° 20.286, que introduce modificaciones orgánicas y procedimentales a la Ley N° 19.968, que Crea los Tribunales de Familia; N° 19.968, que crea los Tribunales de Familia; N° 19.947, que establece la Nueva Ley de Matrimonio Civil, y N° 19.368, que introduce modificaciones al Código de Justicia Militar, al decreto ley N° 2.859, de 1979, Ley Orgánica de Gendarmería de Chile, y al decreto ley N° 3.346, de 1980, Ley Orgánica del Ministerio de Justicia.
+
+3. Que, sin perjuicio de lo dispuesto en el artículo 64 de la Constitución Política de la República, el artículo primero transitorio de la ley N° 20.885 facultó al Presidente de la República para que, dentro del plazo de un año contado desde la publicación de dicha ley, mediante un decreto con fuerza de ley, fije el texto refundido, coordinado y sistematizado del decreto ley N° 3.346, del Ministerio de Justicia, promulgado y publicado el año 1980.
+
+4. Que, en consideración a las numerosas reformas que ha sufrido la Ley Orgánica del Ministerio de Justicia y Derechos Humanos, se ha hecho necesario refundir, coordinar y sistematizar su texto, con el objeto de mejorar su debida inteligencia.
+
+Decreto con fuerza de ley:
+
+Fíjase el siguiente texto refundido, coordinado y sistematizado de la Ley Orgánica del Ministerio de Justicia y Derechos Humanos:
+
+"LEY ORGÁNICA DEL MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS
+
+#### Artículo 1°
+
+El Ministerio de Justicia y Derechos Humanos es la Secretaría de Estado encargada esencialmente de relacionar al Poder Ejecutivo con el Poder Judicial, de fomentar y promocionar los derechos humanos y de ejecutar las acciones que la ley y el Presidente de la República le encomienden.
+
+#### Artículo 2°
+
+Al Ministerio de Justicia y Derechos Humanos corresponden las siguientes funciones:
+
+a) Realizar el estudio crítico de las normas constitucionales y de la legislación civil, penal, comercial, administrativa y de procedimiento, a fin de proponer al Presidente de la República las reformas que estime pertinentes;
+
+b) Colaborar, en el ámbito de su competencia, con el Presidente de la República en las materias relativas a la promoción y protección de los derechos humanos. En ejercicio de esta función, le corresponderá realizar el estudio crítico de la normativa interna a la luz del Derecho Internacional de los Derechos Humanos y proponer al Presidente de la República las reformas que en tal sentido estime pertinentes;
+
+c) Prestar asesoría técnica al Ministerio de Relaciones Exteriores en los procedimientos ante los tribunales y órganos internacionales de derechos humanos y, en ejercicio de esta función, colaborar con las respuestas o informes que se presenten a nombre del Estado de Chile;
+
+d) Colaborar con el Ministerio de Relaciones Exteriores, dentro del ámbito de su competencia, en la elaboración y seguimiento de los informes periódicos ante los órganos y mecanismos de derechos humanos, en la ejecución de medidas cautelares y provisionales, soluciones amistosas y sentencias internacionales en que Chile sea parte, y en la implementación, según corresponda, de las resoluciones y recomendaciones originadas en el Sistema Interamericano y en el Sistema Universal de Derechos Humanos, sin perjuicio de las atribuciones de otros órganos del Estado;
+
+e) Celebrar convenios de colaboración y cooperación con organismos públicos y privados, nacionales o internacionales, dentro del ámbito de sus competencias;
+
+f) Asesorar al Presidente de la República en los nombramientos de jueces, funcionarios del Poder Judicial, y en el ejercicio de la atribución especial de velar por la conducta ministerial de los jueces;
+
+g) Formular políticas, planes y programas sectoriales, en especial respecto de la defensa judicial de los intereses del Estado; del tratamiento penitenciario y la rehabilitación del condenado; de la organización legal de la familia e identificación de las personas; de la tuición que al Estado corresponde en la administración y realización de los bienes de las personas que caigan en falencia, y de los sistemas asistenciales aplicables a las niñas, niños y adolescentes que carezcan de tuición o cuya tuición se encuentre alterada y a los que presenten desajustes conductuales o estén en conflicto con la justicia;
+
+h) Controlar el cumplimiento de las políticas, planes y programas sectoriales y evaluar sus resultados;
+
+i) Dictar normas e impartir instrucciones a que deben sujetarse sus servicios dependientes y fiscalizar su cumplimiento;
+
+j) Atender a las necesidades de organización y funcionamiento de los tribunales de justicia;
+
+k) Asesorar a los tribunales de justicia materias técnicas, a través de los organismos de su dependencia;
+
+l) Programar y proponer la adquisición, construcción, adecuación y habilitación por el Fisco de inmuebles para los tribunales de justicia, el Ministerio y sus servicios dependientes, sin perjuicio de las atribuciones de la Corporación Administrativa del Poder Judicial;
+
+m) Proponer al Presidente de la República las medidas necesarias para solucionar las dificultades y dudas que le sean formuladas en materia de inteligencia y aplicación de las leyes, de acuerdo con lo dispuesto en los artículos 5° del Código Civil y 102 del Código Orgánico de Tribunales;
+
+n) Velar por la prestación de asistencia jurídica gratuita en conformidad a la ley;
+
+ñ) Proponer medidas para prevenir el delito por medio de planes de reinserción social;
+
+o) Crear establecimientos penales y de tratamiento y rehabilitación penitenciarios;
+
+p) Dictar las resoluciones necesarias para el cumplimiento de las sentencias ejecutoriadas que condenen al Fisco;
+
+q) Asesorar al Presidente de la República en lo relativo a amnistía e indultos;
+
+r) Estudiar los antecedentes y proponer, en su caso, la concesión de los beneficios previstos en el decreto ley N° 409, de 1932;
+
+s) Intervenir en la fiscalización de las asociaciones y fundaciones de conformidad a lo establecido en el Título XXXIII del Libro I del Código Civil, así como ejercer todas las atribuciones y demás funciones que la ley Nº 20.500, sobre asociaciones y participación ciudadana en la gestión pública, le confieren;
+
+t) Participar en la legalización o el otorgamiento de apostillas, en conformidad a lo establecido en la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros, de los instrumentos otorgados o autorizados por el Poder Judicial, por el Ministerio, por sus servicios dependientes y por los organismos que se relacionen con el Gobierno a través del Ministerio;
+
+u) Otorgar las certificaciones y testimonios instrumentales que organismos internacionales o entidades extranjeras soliciten al Supremo Gobierno, en asuntos que puedan afectar al Fisco;
+
+v) Aprobar el texto oficial de los Códigos y autorizar sus ediciones oficiales;
+
+w) Pronunciarse sobre los proyectos y ejecución de obras de Gendarmería de Chile, y sus prioridades, los que se someterán a la aprobación del Presidente de la República. Respecto de estas obras, el Ministerio de Justicia y Derechos Humanos tendrá las mismas atribuciones que la ley señale al Ministerio de Obras Públicas para el resto de las obras de tal naturaleza;
+
+x) Llevar el Registro de Mediadores a que se refiere la ley N° 19.968, que crea los juzgados de familia, y fijar el arancel respectivo, y
+
+y) Desempeñar las restantes funciones y ejercer las demás atribuciones que le encomiende la ley.
+
+#### Artículo 3°
+
+Conforman el sector Justicia, los servicios públicos que se encuentran sometidos a la dependencia o supervigilancia del Presidente de la República, a través del Ministerio de Justicia y Derechos Humanos.
+
+#### Artículo 4º
+
+La estructura orgánica funcional del Ministerio será la siguiente:
+
+a) El Ministro y su Gabinete;
+
+b) La Subsecretaría de Justicia;
+
+c) La Subsecretaría de Derechos Humanos, y
+
+d) Las Secretarías Regionales Ministeriales.
+
+Un reglamento expedido por el Ministerio de Justicia y Derechos Humanos determinará la estructura organizativa interna del Ministerio, de conformidad a lo dispuesto en la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado.
+
+Para efectos de establecer la estructura interna del Ministerio deberán considerarse áreas funcionales, tales como las encargadas de realizar estudios en las materias de su competencia, de atender los aspectos relacionados con el Poder Judicial de su competencia, de reinserción social, de los aspectos relativos a su administración, planificación y presupuesto, de los asuntos jurídicos internacionales de su competencia, de asesoría jurídica y las demás que sean necesarias para dar cumplimiento a los objetivos, funciones y atribuciones del Ministerio de Justicia y Derechos Humanos.
+
+#### Artículo 5°
+
+Al Ministro de Justicia y Derechos Humanos corresponden las siguientes atribuciones:
+
+a) La conduccióndel Ministerio y la dirección superior de las acciones que conciernen al Estado en materias de su competencia;
+
+b) La colaboración inmediata con el Ministerio de Relaciones Exteriores en el ejercicio de las funciones ministeriales señaladas en las letras c) y d) del artículo 2°;
+
+c) La presidencia del Comité Interministerial de Derechos Humanos, de conformidad con lo dispuesto en el artículo 11;
+
+d) La adopción de las medidas conducentes a la planificación y coordinación del desarrollo del sector a su cargo, como parte del sistema nacional de planificación, y la distribución de los recursos asignados al sector;
+
+e) La dictación de resoluciones, instrucciones y otras normas para el funcionamiento de las actividades del sector;
+
+f) Realizar la coordinación intersectorial, y
+
+g) Ejercer las demás funciones que le asigne el ordenamiento jurídico.
+
+#### Artículo 6°
+
+El Gabinete es la unidad de apoyo directo del Ministro y está constituido por el Jefe de Gabinete, la Secretaría del Ministro y sus asesores personales.
+
+El Jefe de Gabinete colaborará inmediata y directamente con el Ministro, dirigirá su Secretaría, actuará como órgano de enlace y comunicación con las distintas unidades del Ministerio y jefaturas superiores de servicios y desempeñará las demás funciones que aquel le encomiende. Además, servirá de organismo de apoyo a los asesores personales del Ministro.
+
+#### Artículo 7°
+
+Son funciones de la Subsecretaría de Justicia prestar asesoría y colaboración directa al Ministro en la elaboración de los planes, programas y decisiones del sector a su cargo.
+
+El Subsecretario de Justicia es el jefe superior de la Subsecretaría de Justicia, colaborador inmediato del Ministro en las materias de su competencia y su subrogante legal. Tiene a su cargo la administración interna del Ministerio y le corresponden las funciones y atribuciones establecidas en la legislación vigente y, en especial:
+
+a) Atender, en su calidad de superior jerárquico, directamente los asuntos relacionados con las Secretarías Regionales Ministeriales de Justicia y Derechos Humanos y fiscalizar su acción, y
+
+b) Coordinar las acciones de los órganos y servicios públicos del sector.
+
+#### Artículo 8°
+
+Son funciones de la Subsecretaría de Derechos Humanos prestar asesoría y colaboración directa al Ministro de Justicia y Derechos Humanos en el diseño y elaboración de las políticas, planes y programas relativos a la promoción y protección de los derechos humanos. El
+
+Subsecretario de Derechos Humanos es el jefe superior de la Subsecretaría de Derechos Humanos y colaborador inmediato del Ministro en las materias de su competencia y, en caso de ausencia o inhabilidad del Subsecretario de Justicia, su subrogante legal.
+
+Corresponde a la Subsecretaría de Derechos Humanos:
+
+a) Proponer al Ministro de Justicia y Derechos Humanos el diseño y elaboración de políticas, planes, programas y estudios referidos a la promoción y protección de los derechos humanos, y colaborar en el fomento y desarrollo de dichas políticas, planes, programas y estudios.
+
+b) Promover la elaboración de políticas, planes y programas en materia de derechos humanos en los órganos de la Administración del Estado, prestándoles asistencia y coordinación técnica.
+
+c) Elaborar y proponer el Plan Nacional de Derechos Humanos, a que alude el artículo 15, y presentarlo al Comité Interministerial de Derechos Humanos, a efectos de cumplir con lo dispuesto en la letra d) del artículo 12. Asimismo, coordinará su ejecución, seguimiento y evaluación con los demás Ministerios, requiriendo la información que sea necesaria.
+
+d) Asistir al Ministro de Justicia y Derechos Humanos en el estudio crítico del derecho interno, con la finalidad de proponer al Presidente de la República las reformas pertinentes para adecuar su contenido a los tratados internacionales en materia de derechos humanos ratificados por Chile y que se encuentren vigentes.
+
+e) Prestar asesoría técnica al Ministerio de Relaciones Exteriores en los procedimientos ante los tribunales y órganos internacionales de derechos humanos, según lo dispuesto en la letra c) del artículo 2°.
+
+f) Colaborar con el Ministerio de Relaciones Exteriores según lo dispuesto en la letra d) del artículo 2°, en la elaboración y seguimiento de los informes periódicos ante los órganos y mecanismos de derechos humanos, en la ejecución de medidas cautelares y provisionales, soluciones amistosas y sentencias internacionales en que Chile sea parte, y en la implementación, según corresponda, de las resoluciones y recomendaciones originadas en el Sistema Interamericano y en el Sistema Universal de Derechos Humanos,sin perjuicio de las atribuciones de otros órganos del Estado.
+
+g) Diseñar, fomentar y coordinar programas de capacitación y promoción de los derechos humanos para funcionarios de la Administración del Estado, en particular, los integrantes de las Fuerzas Armadas, de Orden y Seguridad Pública, y de Gendarmería de Chile.
+
+Asimismo, propenderá a la celebración de acuerdos de cooperación con los otros órganos del Estado, destinados a la promoción y capacitación en materias relativas a los derechos humanos.
+
+h) Generar y coordinar instancias de participación y diálogo con organizaciones ciudadanas y con la sociedad civil en general, respecto de la adopción de políticas, planes y programas en materia de derechos humanos, con el objeto de promover y garantizar el respeto efectivo de los derechos humanos en los diferentes ámbitos del quehacer nacional, tomando en consideración y, en su caso, remitiendo a las instancias competentes las peticiones que éstas les formulen.
+
+Lo anterior, sin perjuicio de las competencias que le corresponden al Ministerio de Relaciones Exteriores en cumplimiento de las obligaciones internacionales de Chile en materia de derechos humanos.
+
+i) Ejercer las labores de Secretaría Ejecutiva del Comité Interministerial de Derechos Humanos.
+
+j) Celebrar convenios de colaboración y cooperación con organismos públicos y privados, nacionales o internacionales, dentro del ámbito de sus competencias.
+
+k) Cumplir las demás funciones que le confieren las leyes o que le sean delegadas, en el ámbito de su competencia.
+
+Las atribuciones en materia de derechos humanos que éste y otros cuerpos legales entreguen a la Subsecretaría de Derechos Humanos no excluyen las facultades que tengan, también en lo relativo a estos derechos y en sus respectivas áreas, los demás órganos que integran la Administración Pública ni aquellas establecidas en la ley N° 20.405, que crea el Instituto Nacional de Derechos Humanos, y sus normas complementarias.
+
+#### Artículo 9º
+
+Corresponden a los Secretarios Regionales Ministeriales de Justicia y Derechos Humanos, además de las atribuciones y obligaciones establecidas en la legislación vigente, las que a continuación se señalan:
+
+a) Colaborar en la región con las Subsecretarías de Justicia y de Derechos Humanos, en las materias de su competencia;
+
+b) Otorgar el beneficio establecido en el decreto ley N° 409, de 1932, sobre regeneración y reintegración del penado a la sociedad, cuando se trate de personas residentes en la región;
+
+c) Solicitar a los Directores Regionales del sector, en casos calificados, la designación de personal en cometidos funcionarios y comisiones de servicios dentro de la región;
+
+d) Dictar las resoluciones que se refieran al personal de la Secretaría Regional Ministerial, de acuerdo con lo dispuesto en el Estatuto Administrativo;
+
+e) Otorgar apostillas en conformidad a lo establecido en la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros, en los documentos expedidos en cualquier región del país, provenientes de Notarías Públicas, de Archiveros Judiciales, de Conservadores de Bienes Raíces, de los servicios dependientes y los relacionados con el Ministerio de Justicia y Derechos Humanos, con excepción del Servicio de Registro Civil e Identificación, además de las sentencias y otras resoluciones dictadas por los Tribunales de Justicia que pertenezcan al Poder Judicial que hayan sido autenticadas en la forma y para los casos que determine el reglamento.
+
+El Secretario Regional Ministerial de Justicia y Derechos Humanos de la Región Metropolitana no gozará de la facultad contemplada en el párrafo anterior, siendo competente la Subsecretaría de Justicia para otorgar apostillas en dicha región, respecto de los documentos, sentencias y resoluciones indicados precedentemente, y
+
+f) Desempeñar las funciones que les sean encomendadas por la autoridad competente.
+
+#### Artículo 10
+
+Créase el Comité Interministerial de Derechos Humanos, cuya función será asesorar al Presidente de la República en la determinación de los lineamientos de la política intersectorial del Gobierno en materia de derechos humanos, constituyendo una instancia de información, orientación, coordinación y acuerdo para los ministerios y servicios que lo integran.
+
+#### Artículo 11
+
+El Comité Interministerial de Derechos Humanos estará integrado por:
+
+a) El Ministro de Justicia y Derechos Humanos, quien lo presidirá.
+
+b) El Ministro del Interior y Seguridad Pública.
+
+c) El Ministro de Relaciones Exteriores.
+
+d) El Ministro de Defensa Nacional.
+
+e) El Ministro Secretario General de la Presidencia.
+
+f) El Ministro de Desarrollo Social.
+
+g) El Ministro de Educación.
+
+h) El Ministro o Ministra de la Mujer y la Equidad de Género.
+
+Adicionalmente, podrán asistir en calidad de invitados, con derecho a voz, el Director del Instituto Nacional de Derechos Humanos, el Director de Presupuestos, representantes de otros órganos y funcionarios de la Administración del Estado, de la sociedad civil y personas de reconocida competencia en el ámbito de los derechos humanos.
+
+En caso de ausencia o impedimento del Presidente, éste será reemplazado por la autoridad que corresponda según el orden establecido en el inciso primero.
+
+A las sesiones del Comité deberá concurrir personalmente el Ministro respectivo o, en su defecto, su subrogante legal, quien podrá ser acompañado por un asesor.
+
+#### Artículo 12
+
+Corresponderá especialmente al Comité Interministerial de Derechos Humanos:
+
+a) Conocer y acordar las propuestas de políticas públicas elaboradas por el Ministerio de Justicia y Derechos Humanos en materia de derechos humanos que hayan de ser aplicables intersectorialmente.
+
+b) Informar acerca de las necesidades sectoriales que, en el ámbito de los derechos humanos, deban ser integradas en las políticas públicas y adecuaciones normativas del derecho interno a ser propuestas por el Ministerio de Justicia y Derechos Humanos en la materia.
+
+c) Acordar las prioridades sectoriales, intersectoriales y de política exterior para ser abordadas en la elaboración del Plan Nacional de Derechos Humanos, incluidas las materias indicadas en el inciso segundo del artículo 15.
+
+d) Presentar al Presidente de la República el Plan Nacional de Derechos Humanos para su aprobación.
+
+e) Conocer el informe anual elaborado por el Instituto Nacional de Derechos Humanos y elaborar propuestas a partir de su contenido, sin perjuicio de lo dispuesto en el número 1 del artículo 3° de la ley N° 20.405.
+
+f) Conocer los programas de capacitación y promoción de los derechos humanos para los funcionarios de la Administración del Estado, propuestos por el Ministerio de Justicia y Derechos Humanos.
+
+g) Cumplir las demás funciones y tareas que ésta u otras leyes o el Presidente de la República le encomienden, en el ámbito de sus funciones.
+
+Las atribuciones del Comité Interministerial de Derechos Humanos se entienden sin perjuicio de las facultades que, en conformidad a la ley, corresponden a otros órganos de la Administración Pública, especialmente aquellas establecidas en la ley N° 20.405, que crea el Instituto Nacional de Derechos Humanos, y sus normas complementarias.
+
+#### Artículo 13
+
+El Comité Interministerial de Derechos Humanos celebrará sesiones cuando lo convoque su presidente.
+
+El quórum para sesionar será de la mayoría de sus integrantes y los acuerdos, que serán vinculantes, se adoptarán por la mayoría absoluta de los asistentes. En caso de empate, decidirá el voto del ministro presidente o quien lo reemplace. El Comité en su primera sesión determinará las normas para su funcionamiento. El Comité deberá sesionar, a lo menos, dos veces al año.
+
+Cuando el objeto de la sesión tenga relación directa con las funciones de un Ministerio que no es integrante del Comité, el Ministro correspondiente deberá ser invitado y su opinión quedará registrada en actas.
+
+#### Artículo 14
+
+El Comité Interministerial de Derechos Humanos sesionará en las dependencias del Ministerio de Justicia y Derechos Humanos, el que proporcionará los recursos materiales y humanos para su funcionamiento.
+
+Actuará como Secretario Ejecutivo del Comité, el Subsecretario de Derechos Humanos del Ministerio de Justicia y Derechos Humanos.
+
+Los acuerdos del Comité que requieran materializarse mediante actos administrativos que, conforme al ordenamiento jurídico, deben dictarse por una Secretaría de Estado, serán expedidos por el Ministerio de Justicia y Derechos Humanos.
+
+#### Artículo 15
+
+El Plan Nacional de Derechos Humanos tendrá una duración de cuatro años y contendrá el diseño e implementación de las políticas encaminadas al respeto, promoción y protección de los derechos humanos, debiendo considerar al menos:
+
+a) El señalamiento de los objetivos y las metas.
+
+b) La identificación de responsables.
+
+c) Los recursos financieros disponibles.
+
+d) Los mecanismos de seguimiento y evaluación de resultados, a efectos de identificar las dificultades y adoptar las medidas correctivas o complementarias pertinentes.
+
+Dicho Plan será elaborado a partir de las prioridades sectoriales, intersectoriales y de política exterior propuestas por el Comité Interministerial de Derechos Humanos y en su formulación se deberá tener en consideración la opinión de la sociedad civil, según lo dispuesto en el literal h) del artículo 8°, y los informes, propuestas y recomendaciones, conforme sea pertinente, procedentes del Instituto Nacional de Derechos Humanos, así como también del Sistema Interamericano y del Sistema Universal de Derechos Humanos.
+
+El Plan Nacional se materializará en la elaboración de políticas que abordarán al menos especialmente las siguientes materias:
+
+a) La promoción de la investigación, sanción y reparación de los crímenes de lesa humanidad y genocidios, y crímenes y delitos de guerra, en especial, según correspondiere, aquellos comprendidos entre el 11 de septiembre de 1973 y el 10 de marzo de 1990.
+
+b) La preservación de la memoria histórica de las violaciones a los derechos humanos.
+
+c) La promoción de la no discriminación arbitraria, de conformidad a la normativa nacional e internacional vigente, en especial la ley N° 20.609, que establece medidas contra la discriminación, la Constitución Política de la República y los tratados internacionales sobre derechos humanos ratificados por Chile y que se encuentren vigentes.
+
+d) La promoción de la educación y formación en derechos humanos, en los niveles de enseñanza parvularia, básica, media y superior, así como en los programas de capacitación, formación y perfeccionamiento de todas las autoridades y funcionarios de los órganos del Estado, incluidos el Ministerio Público y la Defensoría Penal Pública, los miembros de las Fuerzas Armadas, Carabineros de Chile, Policía de Investigaciones de Chile, Gendarmería de Chile y las municipalidades.
+
+e) La promoción del cumplimiento de las medidas cautelares y provisionales, soluciones amistosas y sentencias internacionales en que Chile sea parte, dictadas en virtud del Sistema Interamericano y del Sistema Universal de Derechos Humanos, de conformidad con la letra f) del artículo 8°.
+
+#### Artículo 16
+
+El Ministro, los Subsecretarios y los Secretarios Regionales Ministeriales podrán delegar parte de sus atribuciones en funcionarios de su dependencia.
+
+#### Artículo 16 bis
+
+Mediante decreto supremo expedido a través del Ministerio de Justicia y Derechos Humanos, se constituirá un Consejo Nacional de Reinserción Social Juvenil, que tendrá la labor de proponer al Presidente de la República la Política Nacional de Reinserción Social Juvenil.
+
+Para la formulación de esta Política, el Consejo deberá:
+
+a) Proponer los objetivos estratégicos y metas para el Sistema de Justicia Juvenil;
+
+b) Determinar los procedimientos para la participación consultiva del sector académico, la sociedad civil y organizaciones internacionales;
+
+c) Aprobar y hacer seguimiento al Plan de Acción elaborado por la Comisión Coordinadora Nacional;
+
+d) Conocer los resultados de evaluaciones del funcionamiento del Sistema de Justicia Juvenil;
+
+e) Evaluar el cumplimiento de la política periódicamente, y
+
+f) Cumplir con las demás funciones que ésta u otras leyes, o el Presidente de la República le encomienden, en el ámbito de sus funciones.
+
+Para la formulación de la política el Consejo deberá tener en consideración la Política Nacional de la Niñez.
+
+El Consejo será presidido por el Ministro de Justicia y Derechos Humanos. Además, participará como asesor técnico el Director del Servicio Nacional de Reinserción Social Juvenil. La Secretaría Ejecutiva de este Consejo estará radicada en la División de Reinserción Social del Ministerio de Justicia y Derechos Humanos.
+
+El decreto supremo que lo constituya establecerá la participación en el Consejo de las secretarías de Estado con competencias en aquellas materias abordadas por la Política Nacional de Reinserción Social Juvenil, así como de otras instituciones y funcionarios del Estado que se consideren necesarios para la implementación y diseño de las políticas en el área.
+
+Un reglamento, expedido por intermedio del Ministerio de Justicia y Derechos Humanos, establecerá las demás normas necesarias para el funcionamiento del Consejo y para la adecuada ejecución de su función.
+
+#### Artículo 17
+
+Suprímese la Oficina de Presupuestos del Ministerio de Justicia, creada por decreto con fuerza de ley N° 106, de 3 de marzo de 1960. La supresión empezará a regir simultáneamente con la vigencia de la planta del Ministerio que fijará el Presidente de la República de acuerdo con lo dispuesto en el artículo 1° transitorio.
+
+Los funcionarios y los bienes de esta Oficina se incorporarán, respectivamente, a la planta de personal e inventarios del Ministerio de Justicia y Derechos Humanos o de sus servicios dependientes, en los casos y en la forma que determine el Presidente de la República.
+
+#### Artículo 18
+
+Derógase el artículo 7º, del decreto con fuerza de ley N° 7.912, de 1927 y sus modificaciones, como asimismo toda disposición general o especial contenida en la legislación vigente en lo que sea contrario a la presente ley.
+
+#### Artículo 19
+
+Las referencias que las leyes, reglamentos u otras normas vigentes hagan al Ministerio de Justicia, al Ministro de Justicia, a las Secretarías Regionales Ministeriales de Justicia y a los Secretarios Regionales Ministeriales de Justicia se entenderán hechas al Ministerio de Justicia y Derechos Humanos, al Ministro de Justicia y Derechos Humanos, a las Secretarías Regionales Ministeriales de Justicia y Derechos Humanos y a los Secretarios Regionales Ministeriales de Justicia y Derechos Humanos, respectivamente.".
+
+Anótese, tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Nicolás Mena Letelier, Ministro de Justicia y Derechos Humanos (S).
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Ignacio Castillo Val, Subsecretario de Justicia (S).
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance el decreto con fuerza de ley N° 3, de 2016, del Ministerio de Justicia y Derechos Humanos
+
+Nº 2.595.- Santiago, 25 de enero de 2017.
+
+Esta Contraloría General ha tomado razón del decreto con fuerza de ley individualizado en el rubro, que fija el Texto Refundido, Coordinado y Sistematizado de la Ley Orgánica del Ministerio de Justicia y Derechos Humanos, por cuanto se ajusta a derecho.
+
+No obstante, cumple con hacer presente que se entiende que el decreto con fuerza de ley de la especie ha sido dictado en virtud de lo dispuesto en el artículo 64, inciso quinto, de la Constitución Política, de la República.
+
+Con el alcance que antecede, se ha tomado razón del instrumento examinado.
+
+Saluda atentamente a Ud., Jorge Bermúdez Soto, Contralor General de la República.
+
+Al señor
+
+Ministro de Justicia y Derechos Humanos
+
+Presente.
