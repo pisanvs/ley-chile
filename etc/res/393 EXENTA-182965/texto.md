@@ -4,7 +4,9 @@ Núm. 393 exenta.- Santiago, 7 de marzo de 2001.- Visto: estos antecedentes, el 
 
 R e s o l u c i ó n:
 
-1°.- Apruébase el siguiente Arancel para las prestaciones que otorga el Instituto de Salud Pública: ARANCEL DE PRESTACIONES DEL INSTITUTO DE SALUD PUBLICA DE CHILE
+1°.- Apruébase el siguiente Arancel para las prestaciones que otorga el Instituto de Salud Pública:
+
+ARANCEL DE PRESTACIONES DEL INSTITUTO DE SALUD PUBLICA DE CHILE
 
 I.- NORMAS GENERALES
 
@@ -2502,17 +2504,9 @@ POR DROGA ESTUPEFACIENTES/
 
 PSICOTRÓPICOS. 30.800
 
-4130017 AUTORIZACIÓN DE USO Y DESTINO
+4130017 Eliminado
 
-DE DROGA Y DE PRODUCTO
-
-ESTUPEFACIENTE 22.400
-
-4130018 AUTORIZACIÓN DE USO Y DESTINO
-
-DE DROGA Y DE PRODUCTO
-
-PSICOTRÓPICO. 22.400
+4130018 Eliminado
 
 4130019 AUTORIZACIÓN PARA REPROCESAR
 
@@ -2585,6 +2579,20 @@ ACONDICIONAMIENTO Y
 POSTERIOR EXPORTACIÓN COMO
 
 PRODUCTO TERMINADO 80.000
+
+4111109 AUTORIZACIÓN DE USO Y
+
+DISPOSICIÓN PARA PRODUCTOS
+
+SOMETIDOS A CONTROL SANITARIO
+
+POR PARTE DEL INSTITUTO DE
+
+SALUD PÚBLICA DE CHILE Y
+
+AFECTOS A LA LEY Nº 18.164
+
+(POR PRODUCTO) $22.145
 
 C.5 SUBDEPARTAMENTO REACTIVOS DE DIAGNÓSTICO
 
@@ -4388,11 +4396,17 @@ MANIPULADORES DE ALIMENTOS 14,644
 
 2°.- El presente arancel entrará en vigencia a contar del día primero del mes siguiente a su publicación en el Diario Oficial, fecha en que quedará derogada la resolución exenta N° 757, de 30 de marzo de 1999, de este Ministerio y sus modificaciones.
 
-> **Nota.** El numerando 3º de la RES 1005 exenta, Salud, publicada el 28.02.2003, dispone que los presentes aranceles entrarán en vigencia a contar del día primero del mes siguiente a su publicación en el Diario Oficial.
+> **Nota.** El N 3º de la Resolución 1005 Exenta, Salud, publicada el 28.02.2003, dispone que los presentes aranceles entrarán en vigencia a contar del día primero del mes siguiente a su publicación en el Diario Oficial.
 
-> **Nota.** NOTA 1: El Nº1 de la RES 58 Exenta, Salud, publicada el 17.01.2005, modifica la presente norma, en el sentido de establecer nuevos aranceles para las prestaciones que la citada norma modificatoria indica. Dicha modificación rige a contar del día siguiente hábil al de su publicación.
+> **Nota.** NOTA 1: El Nº 1 de la Resolución 58 Exenta, Salud, publicada el 17.01.2005, modifica la presente norma, en el sentido de establecer nuevos aranceles para las prestaciones que la citada norma modificatoria indica. Dicha modificación rige a contar del día siguiente hábil al de su publicación.
 
-> **Nota.** NOTA 2: El Nº 2 de la RES 174 exenta, Salud, publicada el 05.05.2005, dispone que las modificaciones que introduce a la presente norma rigen a contar de 15 días después de su publicación.
+> **Nota.** NOTA 2: El Nº 2 de la Resolución 174 Exenta, Salud, publicada el 05.05.2005, dispone que las modificaciones que introduce a la presente norma rigen a contar de 15 días después de su publicación.
+
+> **Nota.** NOTA 3 El N° 1 de la Resolución 790 Exenta, Salud, publicada el 31.12.2013, sustituye las glosas y los valores correspondientes a los aranceles indicados en su Párrafo II "Nómina de Prestaciones" y contenidos en las secciones que en ella se señalan e incorpora prestaciones y sus respectivos aranceles y valores.
+
+> **Nota.** NOTA 4 La letra A del numeral 1 de la Resolución 112 Exenta, Salud, publicada el 04.03.2014, modifica la presente norma en el sentido de agregar bajo una nueva Sección C.5, denominada "Prestaciones asociadas a la ley 20.724" e incorporada a su Párrafo II "Nómina de Prestaciones", las glosas y aranceles contenidos en los puntos 4, 5.1 y 6.2 del segundo ítem de la Resolución 96 Exenta, Salud, publicada el 21.02.1996, que Aprueba Arancel de Acciones de Protección de la Salud.
+
+> **Nota.** NOTA 5 El numero 1 del Resolución 196 Exenta, Salud, publicada el 18.02.2017, modifica la Resolución 82 Exenta, Salud, publicada el 31.01.2017, que modifica la presente norma en el sentido de eliminar completamente el código Nº 4111031, ubicado en la letra C.1 "Subdepartamento de Registro".
 
 Anótese y publíquese.- Michelle Bachelet Jeria, Ministra de Salud.
 
