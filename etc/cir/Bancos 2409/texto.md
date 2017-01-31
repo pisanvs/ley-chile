@@ -9122,7 +9122,7 @@ Para operar dicho registro, en el cual se anotarán también los instrumentos de
 
 Un mutuo hipotecario solo puede ser incorporado al Registro de Mutuos Hipotecarios cuando:
 
-a) Haya sido otorgado con posterioridad a la fecha de colocación de los bonos;
+a) Haya sido concedido en una fecha posterior al inicio de devengo de intereses y reajustes del bono al que se vincula, según conste en su tabla de desarrollo; debiendo en todo caso, encontrarse ya publicado el certificado de inscripción de la respectiva emisión. Dicha publicación se efectuará en el sitio web institucional del banco, donde luego se presente la información requerida por el Banco Central de Chile, en conformidad a lo establecido en el N° 18 del Capítulo II.A.2 de su Compendio de Normas Financieras;
 
 b) Corresponda a un mutuo extendido mediante escritura pública que se ajuste a lo indicado en el artículo 69 N° 2 de la Ley General de Bancos y el N° 6 del presente Capítulo; y
 
