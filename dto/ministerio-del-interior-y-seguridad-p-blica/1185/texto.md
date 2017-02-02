@@ -42,7 +42,7 @@ La Comisión estará integrada por los siguientes miembros titulares:
 
 1. Monseñor Héctor Vargas Bastidas, RUT 6.771.569-1, quien la presidirá.
 
-2. Andrés Jouannet Valderrama, RUT 10.784.325-6.
+2. José Miguel Hernández Saffirio, 5.931.703-2.
 
 3. Alejandro Fuentes Inostroza, RUT 10.922.932-6.
 
