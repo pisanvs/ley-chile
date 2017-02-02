@@ -64,6 +64,8 @@ e) Almacenamientos de cilindros de gas licuado con capacidad igual o inferior a 
 
 3.- Instalaciones de Gas tipo 3.- Corresponden a instalaciones interiores de gas en baja presión, cuya potencia total instalada sea igual o inferior a 60 Kw.
 
+4.- Instalaciones de Gas tipo 4.- Corresponden a las instalaciones donde se desarrollan, indistintamente, las actividades de recepción, preparación y almacenamiento de sustrato, producción, almacenamiento, tratamiento, transferencia, suministro y uso o consumo de biogás.
+
 ## Título II
 
 DE LAS LICENCIAS
@@ -82,6 +84,8 @@ Las licencias de instaladores de gas se clasificarán de acuerdo al campo de acc
 
 1.3 Licencias Clase 3.- Los poseedores de estas licencias podrán diseñar, proyectar, ejecutar y/o mantener las instalaciones de gas tipo 3.
 
+1.4 Licencia Clase 4.- Los poseedores de estas licencias podrán diseñar, proyectar, ejecutar y/o mantener las instalaciones de gas tipo 4.
+
 2.- Requisitos para optar a las licencias de instaladores de gas
 
 2.1 Licencia Clase 1.- Poseer el título de ingeniero civil o ingeniero de ejecución, en las especialidades de mecánica o química, o profesionales con título equivalente cuya condición de tal sea reconocida por la respectiva casa de estudios, o que estén habilitados para el ejercicio de dichas profesiones conforme a las disposiciones legales y reglamentarias vigentes en materia de equivalencia de estudios y convalidación de títulos.
@@ -98,13 +102,23 @@ d) Haber obtenido el título de instalador de gas en un establecimiento de ense�
 
 No obstante, en los casos señalados en las letras c) y d) precedentes, para el otorgamiento de la respectiva licencia por parte de la Superintendencia, los postulantes deberán acreditar que el contenido de las materias del curso incluye a lo menos las señaladas en el artículo 5° de este reglamento.
 
-e) Haber aprobado un examen de competencia ante la Superintendencia de Electricidad y Combustibles respecto de las materias indicadas en el artículo 5º y de acuerdo al procedimiento técnico de competencias y de control que definirá la mencionada Superintendencia. Este organismo podrá asimismo suscribir, de conformidad a la ley, un convenio en virtud del cual una persona jurídica, de derecho público o privado, tomará el mencionado examen. 2.3 Licencia Clase 3.-
+e) Haber aprobado un examen de competencia ante la Superintendencia de Electricidad y Combustibles respecto de las materias indicadas en el artículo 5º y de acuerdo al procedimiento técnico de competencias y de control que definirá la mencionada Superintendencia. Este organismo podrá asimismo suscribir, de conformidad a la ley, un convenio en virtud del cual una persona jurídica, de derecho público o privado, tomará el mencionado examen.
+
+2.3 Licencia Clase 3.-
 
 a) Poseer el título de técnico universitario con mención en construcción o instalaciones;
 
 b) Haber obtenido el título de instalador de gas en una universidad, instituto profesional, centro de formación técnica, o establecimiento de enseñanza media técnico-profesional, y
 
 c) Haber aprobado un examen de competencia ante la Superintendencia de Electricidad y Combustibles respecto de las materias indicadas en el artículo 5º y de acuerdo al procedimiento técnico de competencias y de control que definirá la mencionada Superintendencia. Este organismo podrá asimismo suscribir, de conformidad a la ley, un convenio en virtud del cual una persona jurídica, de derecho público o privado, tomará el mencionado examen.
+
+2.4 Licencia Clase 4.-
+
+a) Poseer el título de ingeniero civil o ingeniero de ejecución, conforme a lo indicado en el punto 2.1;
+
+b) Certificado de aprobación de curso relacionado con el diseño y construcción de instalaciones de biogás con un mínimo de 27 horas cronológicas, impartido por una universidad, instituto profesional, centro de formación técnica, empresa de ingeniería u otro organismo o entidad que en su giro se encuentre la capacitación técnica, o bien, un certificado de experiencia laboral en materias de diseño y construcción u operación de instalaciones de biogás, emitido por empresas relacionadas con el diseño y construcción u operación de instalaciones de biogás, que respalden su experiencia de al menos un año en dichas materias; y
+
+c) Haber aprobado un examen de competencia ante la Superintendencia de Electricidad y Combustibles en materias de diseño y construcción u operación de instalaciones de biogás, de acuerdo al procedimiento técnico de competencias y de control que defina la Superintendencia. Este organismo podrá suscribir, de conformidad a la ley, un convenio en virtud del que una persona jurídica, de derecho público o privado, tomará el mencionado examen.
 
 #### Artículo 5°
 
@@ -131,6 +145,8 @@ c) 3 fotografías tamaño carnet con nombre completo y número de cédula nacion
 Los ingenieros civiles o ingenieros de ejecución, en especialidades diferentes a las de mecánica o química, que opten a la licencia clase 2, deberán asimismo acreditar que en el plan de estudios se ha contemplado las materias señaladas en la letra a) del punto 2.2 del artículo 4° de este reglamento, en la forma señalada en la citada disposición.
 
 Los postulantes a obtener la licencia clase 2, en los casos señalados en las letras c) y d) del número 2.2. del artículo 4°, deberán asimismo acompañar documentos que acrediten el contenido de las materias incluidas en sus estudios.
+
+Los postulantes a obtener la licencia clase 4, deberán asimismo acompañar uno de los certificados indicados en la letra b) del punto 2.4 del artículo 4°.
 
 Duración de las licencias
 
