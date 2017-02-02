@@ -364,9 +364,13 @@ Tendrá el carácter de feriado legal el día en que deba procederse al levantam
 
 #### Artículo 44
 
-Quedan prohibidas, desde las 6 hasta las 18 horas del día mencionado en el artículo anterior, las actividades, espectáculos y reuniones públicas al aire libre o en recintos cubiertos, las funciones teatrales, exhibiciones cinematográficas, competencias deportivas y eventos similares a los indicados.
+Quedan prohibidas, desde las 00:00 horas hasta las 20:00 horas del día en que se realice el censo, las actividades, espectáculos y reuniones públicas al aire libre o en recintos cubiertos, funciones teatrales, exhibiciones cinematográficas, competencias deportivas y eventos similares a los indicados.
 
-La misma prohibición se extenderá al funcionamiento de los restaurantes, supermercados, rotiserías, panaderías, bares, clubes, y, en general, a todo comercio de venta de artículos alimenticios y de bebidas, todos los cuales deberán permanecer cerrados hasta la hora indicada.
+Para efectos laborales, el día en que se realice el censo se tendrá como feriado obligatorio e irrenunciable para los dependientes de los malls, centros comerciales, grandes tiendas, discotecas, pubs, cabarets, casinos de juego u otros lugares de juego autorizado, bares, clubes, restaurantes, supermercados, rotiserías, panaderías y, en general, para todo dependiente que preste servicios en el comercio de bienes y productos alimenticios, cualquiera sea el tamaño de la empresa donde desempeñen sus funciones.
+
+A los dependientes del comercio señalados en el inciso anterior les será aplicable lo dispuesto en la ley N° 20.828.
+
+Exceptúanse de la prohibición señalada en los incisos precedentes los establecimientos que expendan combustibles, locales comerciales en los aeródromos civiles públicos y aeropuertos, farmacias de urgencia y farmacias que deban cumplir con turnos fijados por la autoridad sanitaria, así como cualquier servicio que el Instituto Nacional de Estadísticas haya contratado con ocasión del censo o que sea necesario para su realización.
 
 #### Artículo 45
 
