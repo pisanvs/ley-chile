@@ -36,6 +36,12 @@ Que, la inscripción señalada precedentemente, deberá solicitarse directamente
 
 Que, el Servicio Nacional de Pesca y Acuicultura dispondrá para el efecto señalado anteriormente, en su sitio electrónico (www.sernapesca.cl) de una solicitud de inscripción para que el usuario pueda iniciar el trámite correspondiente, entendiéndose que dicha inscripción es condición habilitante para operar sobre los recursos señalados en el numeral primero de la presente resolución.
 
+#### Artículo segundo bis
+
+<!-- parte:9767134 -->
+
+Segundo Bis: Delégase en los Directores Regionales del Servicio Nacional de Pesca y Acuicultura o en quien los subrogue, el ejercicio de la facultad de firmar "por orden del Director Nacional del Servicio Nacional de Pesca y Acuicultura" las resoluciones que resuelvan las solicitudes de inscripción que autorizan el ejercicio de actividades pesqueras extractivas de captura de recursos destinados a la elaboración de productos de consumo humano directo y a carnada durante la vigencia de vedas biológicas; así como las resoluciones que resuelvan las solicitudes de modificación, renuncia, desistimiento y cancelación que digan relación con las referidas inscripciones.
+
 #### Artículo tercero
 
 <!-- parte:9552478 -->
