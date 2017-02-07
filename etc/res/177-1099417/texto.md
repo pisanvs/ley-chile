@@ -128,11 +128,9 @@ e) Poseer planes de negocio de mediano plazo acordes con el desarrollo y expansi
 
 f) El Intermediario no debe encontrarse constituido en mora en sus obligaciones de pago, con CORFO.
 
-g) No haber tenido deudas con mora superior a 30 días en los últimos 12 meses.
+g) No haber tenido deudas con mora superior a 30 días en los últimos 12 meses. h) En caso de tener pérdida patrimonial, esta debe ser menor al 15% en el último año (ejercicio enero-diciembre). Además en caso que exista una pérdida, CORFO revisará que el resultado final negativo, no corresponda a un efecto de deterioro permanente del negocio del Intermediario.
 
-h) En caso de tener pérdida patrimonial, esta debe ser menor al 15% en el último año (ejercicio enero-diciembre). Además en caso que exista una pérdida, CORFO revisará que el resultado final negativo, no corresponda a un efecto de deterioro permanente del negocio del Intermediario.
-
-i) Tener una tasa de morosidad mayor a 90 días más castigos1, inferior al 10% del stock de colocaciones en el último año (ejercicio enero-diciembre).
+i) Tener una tasa de morosidad mayor a 90 días más castigos netos (1), inferior al 15% del stock de colocaciones en el último año (ejercicio enero-diciembre).
 
 En el caso que el Comité Ejecutivo de Créditos de la Corporación, en adelante también "CEC", haya autorizado un financiamiento al IFNB, éste deberá acompañar los poderes de sus representantes debidamente autorizados para actuar frente a CORFO. No será necesario cumplir con esta exigencia si ella ha sido cumplida en otros programas de coberturas o subsidios contingentes, instrumentos o líneas de refinanciamiento o intermediación financiera de CORFO y las representaciones señaladas resultan suficientes y se mantienen vigentes, lo que deberá ser previamente acreditado por el IFNB.
 
@@ -146,7 +144,7 @@ c) Tener activos superiores a $1.000.000.000 (mil millones de pesos) y de hasta 
 
 -----------------------------------------
 
-1 La tasa de mora se calcula considerando la aceleración de todo el saldo del crédito a la cuota en mora más antigua. Forma de Cálculo: (Mora mayor a 90 días + Castigos) / Total Colocaciones Brutas.
+(1) La tasa de mora se calcula considerando la aceleración de todo el saldo del crédito a la cuota en mora más antigua. Forma de Cálculo: (Mora mayor a 90 días + Castigos) / Total Colocaciones Brutas.
 
 6.2.3 Requisitos Modalidad especial Indígena.
 
