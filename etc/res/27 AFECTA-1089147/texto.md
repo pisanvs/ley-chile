@@ -274,7 +274,7 @@ Para la solicitud de los préstamos que operen bajo la modalidad individual, los
 
 (ii) Una declaración jurada simple con el cumplimiento de la normativa social exigida (normas laborales, tributarias y previsional), según formato similar al que se incluye como Anexo N°3 de estas normas;
 
-(iii)Para proyectos ERNC de más de 3 MW o para centrales hidroeléctricas que desarrollen alguna de las obras señaladas en el artículo 294 del Código de Aguas se necesitará, además de la aprobación de parte del Director General de Aguas, la Resolución de Calificación Ambiental (RCA) del Sistema de Evaluación de Impacto Ambiental (SEIA);
+iii) Para proyectos ERNC de más de 3 MW o para centrales hidroeléctricas que desarrollen alguna de las obras señaladas en el artículo 294 del Código de Aguas se necesitará haber solicitado la Aprobación de Obras en la Dirección General de Aguas (DGA) y contar con la Resolución de Calificación Ambiental (RCA) del Sistema de Evaluación de Impacto Ambiental (SEIA);
 
 (iv) Para proyectos de hasta 3MW y, en el caso de centrales hidroeléctricas, que no cuenten con alguna de las obras señaladas en el artículo 294 del Código de Aguas, deben desarrollarse respetando la legislación vigente, para lo cual será suficiente contar con la Declaración Jurada agregada como Anexo N°2.
 
