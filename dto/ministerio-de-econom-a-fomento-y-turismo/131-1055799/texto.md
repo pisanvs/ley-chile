@@ -74,9 +74,9 @@ Los interesados en postular a alguno de los programas contemplados en el present
 
 Los beneficios contemplados en cada uno de los programas son de carácter personal, intransferible, e intransmisibles y se entregarán por una única vez, conforme a lo establecido en cada uno de ellos, a excepción del Programa Acciones de Capacitación que podrá entregarse por más de una vez.
 
-#### Artículo 5º
+#### Artículo 5
 
-Serán incompatibles entre sí los beneficios del Programa Acciones de Capacitación con el Programa de Estudios Técnicos de Nivel Superior. En consecuencia un beneficiario de alguno de estos dos programas no podrá ser beneficiario ni simultanea ni por segunda vez del otro programa.
+Aquellas personas que hayan sido beneficiarias del Programa de Estudios Técnicos de Nivel Superior, no podrán acceder nuevamente al mismo programa, ni al Programa de Acciones de Capacitación, ya sea en el mismo año o en años posteriores.
 
 Por otra parte, quien hubiere recibido beneficio en virtud del Programa Acciones de Capacitación podrá recibir posteriormente el beneficio contemplado en el Programa de Reinserción Laboral, sólo en tanto mediante este último programa se posibilite la efectiva implementación de la acción de capacitación ya efectuada, es decir, si su Plan de Negocio se encuentra estrictamente relacionado con la Acción de Capacitación de que fue beneficiario.
 
@@ -222,23 +222,7 @@ Los documentos y forma en que se acreditarán los requisitos antes señalados se
 
 #### Artículo 10
 
-Los postulantes que cumplan con los requisitos establecidos en el artículo 9º precedente serán evaluados de acuerdo a los siguientes factores de ponderación:
-
-a) Edad del postulante (15%):
-
-b) Antigüedad de trabajo en la industria pesquera (70%):
-
-c) Meses de cesantía efectiva (15%):
-
-Meses de Cesantía Efectiva
-
-Meses Puntos
-
-Desde 7 meses 30
-
-Desde 4 a 6 meses 20
-
-Desde 1 a 3 meses 10
+Los postulantes que cumplan con los requisitos establecidos en el artículo 9 precedente, serán evaluados conforme a los factores de ponderación que establezcan las respectivas bases de postulación del Programa.
 
 #### Artículo 11
 
@@ -368,31 +352,7 @@ Los documentos y forma en que se acreditarán los requisitos antes señalados se
 
 #### Artículo 19
 
-Los postulantes que cumplan con los requisitos establecidos en el artículo anterior serán evaluados de acuerdo a los siguientes factores de ponderación:
-
-1. Trabajadores activos de la industria pesquera (100%)
-
-a) Edad del postulante (30%):
-
-b) Antigüedad de trabajo en la industria pesquera (70%):
-
-2. Ex Trabajadores de la industria pesquera (100%)
-
-a) Edad del postulante (15%):
-
-b) Antigüedad de trabajo en la industria pesquera (70%):
-
-c) Meses de cesantía efectiva (15%):
-
-Meses de Cesantía Efectiva
-
-Meses Puntos
-
-Desde 7 meses 30
-
-Desde 4 a 6 meses 20
-
-Desde 1 a 3 meses 10
+Los postulantes que cumplan con los requisitos establecidos en el artículo anterior, serán evaluados conforme a los factores de ponderación que establezcan las bases de postulación del respectivo Programa.
 
 #### Artículo 20
 
@@ -518,31 +478,7 @@ Los documentos y forma en que se acreditarán los requisitos antes señalados se
 
 #### Artículo 27
 
-Los postulantes que cumplan con los requisitos establecidos en el artículo anterior serán evaluados de acuerdo a los siguientes factores de ponderación:
-
-1. Trabajadores activos de la Industria pesquera (100%)
-
-a) Edad del postulante (30%):
-
-b) Antigüedad de trabajo en la industria pesquera (70%):
-
-2. Ex Trabajadores de la Industria Pesquera (100%)
-
-a) Edad del postulante (15%):
-
-b) Antigüedad de trabajo de en la Industria pesquera (70%):
-
-c) Meses de Cesantía efectiva (15%):
-
-Meses de Cesantía Efectiva
-
-Meses Puntos
-
-Desde 7 meses 30
-
-Desde 4 a 6 meses 20
-
-Desde 1 a 3 meses 10
+Los postulantes que cumplan con los requisitos establecidos en el artículo anterior serán evaluados conforme a los factores de ponderación que establezcan las bases de postulación del respectivo Programa.
 
 #### Artículo 28
 
@@ -588,9 +524,11 @@ dentro de los plazos establecidos.
 
 #### Artículo 31
 
-Este beneficio se pagará directamente al beneficiario por 4 semestres, previa acreditación de inscripción emitida por la institución de educación respectiva, documento que deberá ser presentado ante el Fondo de Administración Pesquero, en forma conjunta con aquellos documentos que permitan determinar de manera fehaciente el monto de la respectiva matrícula y arancel.
+Este beneficio se pagará directamente al beneficiario o a la institución de educación por 4 semestres, previa acreditación de inscripción emitida por la institución de educación respectiva, documento que deberá ser presentado ante el Fondo de Administración Pesquero, en forma conjunta con aquellos documentos que permitan determinar de manera fehaciente el monto de la respectiva matrícula y arancel.
 
 En caso de requerirse previo pago de matrícula, ésta deberá rendirse ante el Fondo de Administración Pesquero a efecto de proceder al pago del arancel, en la forma antes señalada.
+
+Para el caso que el postulante acceda además a otros beneficios que le permitan cubrir total o parcialmente el costo de sus estudios técnicos, el Fondo de Administración Pesquero solventará sólo el saldo del monto de la escolaridad del año respectivo. Para estos efectos, el postulante deberá indicar en su ficha de postulación, si se encuentra participando en otro proceso que le permita costear el monto del arancel de la carrera que pretenda estudiar.
 
 #### Artículo 32
 
@@ -768,7 +706,7 @@ Ejecutivo del Fondo de Administración Pesquero.
 
 g) En caso de haber conseguido un nuevo empleo, su
 
-remuneración mensual imponible no podrá ser
+remuneración mensual líquida no podrá ser
 
 superior a 14 UF.
 
@@ -778,25 +716,7 @@ Los documentos y forma en que se acreditarán los requisitos antes señalados se
 
 #### Artículo 41
 
-Los postulantes que cumplan con los requisitos establecidos en el artículo 40º, serán evaluados de acuerdo a los siguientes factores de ponderación:
-
-a) Edad del postulante (25%):
-
-b) Antigüedad de trabajo en la industria pesquera (20%)
-
-c) Meses de cesantía efectiva (20%):
-
-Meses de Cesantía Efectiva
-
-Meses Puntos
-
-Desde 7 meses 30
-
-Desde 4 a 6 meses 20
-
-Desde 1 a 3 meses 10
-
-d) Remuneración imponible al momento de la postulación al Programa, respecto de un nuevo empleo: (35%):
+Los postulantes que cumplan con los requisitos establecidos en el artículo 40, serán evaluados conforme a los factores de ponderación que establezcan las respectivas bases de postulación del Programa.
 
 #### Artículo 42
 
