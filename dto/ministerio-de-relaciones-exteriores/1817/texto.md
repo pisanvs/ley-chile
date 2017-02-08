@@ -94,19 +94,19 @@ El grado de "Gran Cruz" podrá conferirse a los Embajadores, Ministros de Estado
 
 #### Artículo 14º
 
-El grado de "Gran Oficial" podrá ser otorgado a los Subsecretarios de Estado, Vicepresidentes de Cámaras Legislativas, miembros de las Cortes Supremas de Justicia, Senadores, Generales de División y de Brigada, Vicealmirantes y Contraalmirantes de Armada, Generales de Aviación y de Brigada Aérea, Generales Inspectores y Generales de Carabineros y demás funcionarios que tengan un rango equivalente.
+El grado de "Gran Oficial" podrá ser otorgado a los Subsecretarios de Estado, Vicepresidentes de Cámaras Legislativas, miembros de las Cortes Supremas de Justicia, Senadores, Generales de División y de Brigada, Vicealmirantes y Contraalmirantes de Armada, Generales de Aviación y de Brigada Aérea, y Generales de las Fuerzas de Orden y Seguridad y demás funcionarios que tengan un rango equivalente.
 
 #### Artículo 15º
 
-El grado de "Comendador" podrá concederse a Encargados de Negocios, Ministros Consejeros y Consejeros de Embajadas, Cónsules Generales, Diputados, Presidentes de Corporaciones Científicas, miembros de Cortes de Apelaciones, Coroneles y Tenientes Coroneles de Ejército, Capitanes de Navío y de Fragata, Coroneles de Aviación y Comandantes de Grupo, Coroneles y Tenientes Coroneles de Carabineros.
+El grado de "Comendador" podrá concederse a Encargados de Negocios, Ministros Consejeros y Consejeros de Embajadas, Cónsules Generales, Diputados, Presidentes de Corporaciones Científicas, miembros de Cortes de Apelaciones, Coroneles y Tenientes Coroneles de Ejército, Capitanes de Navío y de Fragata, Coroneles de Aviación y Comandantes de Grupo, oficiales superiores de las Fuerzas de Orden y Seguridad.
 
 #### Artículo 16º
 
-El grado de "Oficial" podrá conferirse a Primeros Secretarios de Embajadas, Cónsules Particulares, Mayores y Capitanes de Ejército, Capitanes de Corbeta y Tenientes Primeros de Marina, Comandantes de Escuadrilla y Capitanes de Bandada de Aviación y Mayores y Capitanes de Carabineros, Jueces de Letras, miembros de las Municipalidades y autoridades de igual categoría.
+El grado de "Oficial" podrá conferirse a Primeros Secretarios de Embajadas, Cónsules Particulares, Mayores y Capitanes de Ejército, Capitanes de Corbeta y Tenientes Primeros de Marina, Comandantes de Escuadrilla y Capitanes de Bandada de Aviación y oficiales superiores de las Fuerzas de Orden y Seguridad, Jueces de Letras, miembros de las Municipalidades y autoridades de igual categoría.
 
 #### Artículo 17º
 
-El grado de "Caballero" podrá otorgarse a Segundos y Terceros Secretarios de Embajadas, Agregados Civiles y Comerciales, Tenientes y Subtenientes de Ejército, Tenientes Segundos y Guardiamarinas de la Armada, Tenientes y Subtenientes de Aviación, Tenientes y Subtenientes de Carabineros, Vicecónsules, Cancilleres y demás funcionarios que tengan un rango equivalente.
+El grado de "Caballero" podrá otorgarse a Segundos y Terceros Secretarios de Embajadas, Agregados Civiles y Comerciales, Tenientes y Subtenientes de Ejército, Tenientes Segundos y Guardiamarinas de la Armada, Tenientes y Subtenientes de Aviación, Tenientes y Subtenientes de las Fuerzas de Orden y Seguridad, Vicecónsules, Cancilleres y demás funcionarios que tengan un rango equivalente.
 
 #### Artículo 18º
 
