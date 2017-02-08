@@ -46,7 +46,7 @@ Nacional de Turismo.
 
 Tipo de vehículo : Automóvil
 
-Marca : Hyundai
+Marca : Samsung
 
 Modelo : SM7 3.5 Sedan RE AT 4X2
 
@@ -70,7 +70,7 @@ Exímase de la obligación de usar el disco fiscal distintivo a que se refiere e
 
 Tipo de vehículo : Automóvil
 
-Marca : Hyundai
+Marca : Samsung
 
 Modelo : SM7 3.5 Sedan RE AT 4X2
 
