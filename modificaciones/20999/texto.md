@@ -1,82 +1,54 @@
-LEY DE SERVICIOS DE GAS
+LEY NÚM. 20.999
 
-Núm. 323.- Santiago, 20 de Mayo de 1931.- Vistas las facultades que me confiere la ley Número 4.945, de 6 de Febrero ppdo.
+MODIFICA LA LEY DE SERVICIOS DE GAS Y OTRAS DISPOSICIONES QUE INDICA
 
-Decreto:
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
 
-Apruébase la siguiente Ley de Servicios de Gas:
-
-## Título I
-
-Disposiciones generales
+Proyecto de ley:
 
 #### Artículo 1
 
-El transporte, la distribución de gas de red concesionada y no concesionada, la comercialización de gas, el régimen de concesiones y tarifas de gas de red, y las funciones del Estado relacionadas con estas materias se regirán por la presente ley, y, en lo que ésta no prevé, por las leyes, decretos, reglamentos y ordenanzas vigentes.
+Introdúcense en el decreto con fuerza de ley N° 323, de 1931, del Ministerio del Interior, Ley de Servicios de Gas, las siguientes modificaciones:
 
-Específicamente están comprendidas en las disposiciones de la presente ley:
+1. Modifícase el artículo 1 en el siguiente sentido:
 
-1. Las concesiones para establecer, operar, y explotar el servicio público de distribución de gas de red, y las redes de transporte de gas de red;
+a) Sustitúyese el inciso primero, por el siguiente:
 
-2. Eliminado;
+#### Artículo 1
 
-3. Las servidumbres a los bienes raíces;
+El transporte, la distribución de gas de red concesionada y no concesionada, la comercialización de gas, el régimen de concesiones y tarifas de gas de red, y las funciones del Estado relacionadas con estas materias se regirán por la presente ley, y, en lo que ésta no prevé, por las leyes, decretos, reglamentos y ordenanzas vigentes.".
 
-4. El régimen de precios a que están sometidos los servicios de gas de red;
+b) Elimínase el numeral 2 del inciso segundo.
 
-5. Las relaciones de las empresas de gas entre sí, con el Estado, las Municipalidades, y los particulares;
+c) Elimínase del numeral 7 del inciso segundo la frase "y los artefactos de gas licuado".
 
-6. Las disposiciones sobre calidad del servicio de gas de red;
+d) Elimínase del numeral 8 del inciso segundo la frase "y de gas licuado".
 
-7. Las condiciones de seguridad a que deben someterse las instalaciones y artefactos de gas de red;
+e) Agréganse los siguientes incisos tercero y cuarto:
 
-8. Las condiciones de seguridad de las instalaciones interiores de gas de red.
+"Asimismo, se le aplicarán las disposiciones de la presente ley que regulan la distribución de gas de red no concesionada a la distribución de gas licuado a granel, en todo aquello que le sea compatible. En especial, se le aplicarán las normas contenidas en los artículos 2 y 30, en el Párrafo I del Título V y en los Títulos VI, VIII y IX.
 
-Asimismo, se le aplicarán las disposiciones de la presente ley que regulan la distribución de gas de red no concesionada a la distribución de gas licuado a granel, en todo aquello que le sea compatible. En especial, se le aplicarán las normas contenidas en los artículos 2 y 30, en el Párrafo I del Título V y en los Títulos VI, VIII y IX.
+No se aplicarán las disposiciones de la presente ley a las instalaciones de producción, procesamiento y redes de captación en campos de producción de hidrocarburos. De lo anterior, se excluye al servicio de gas y servicios afines que se presten desde dichas instalaciones, los que sí deberán sujetarse a lo dispuesto en la ley para tal clase de servicios, incluso si son prestados por una entidad distinta a una empresa de gas.".
 
-No se aplicarán las disposiciones de la presente ley a las instalaciones de producción, procesamiento y redes de captación en campos de producción de hidrocarburos. De lo anterior, se excluye al servicio de gas y servicios afines que se presten desde dichas instalaciones, los que sí deberán sujetarse a lo dispuesto en la ley para tal clase de servicios, incluso si son prestados por una entidad distinta a una empresa de gas.
+2. Modifícase el artículo 2 en el siguiente sentido:
 
-#### Artículo 2°
+a) Sustitúyese en el numeral 1 la oración "gas obtenido del carbón, nafta o coke, propano y butano en fase gaseosa y cualquier otro tipo o mezcla de los anteriores" por la siguiente: "gas licuado de petróleo en fase gaseosa y cualquier otro tipo de fluido gaseoso combustible".
 
-Para los efectos de esta ley, se entenderá por:
+b) Elimínase en el numeral 2 la expresión "producir," y reemplázase la frase "suministrar gas" por la oración "comercializar gas por redes concesionadas y no concesionadas".
 
-1. Gas de red: en adelante gas, a todo fluido gaseoso combustible que se transporte o distribuya a través de redes de tubería, ya sea gas natural, gas licuado de petróleo en fase gaseosa y cualquier otro tipo de fluido gaseoso combustible.
+c) Incorpórase en el numeral 5, a continuación de las expresiones "servicio público", la siguiente frase final: "o de una red no concesionada hasta la salida del medidor".
 
-2. Empresa de gas: la entidad destinada a transportar, distribuir o comercializar gas por redes concesionadas y no concesionadas.
+d) Intercálase, en el numeral 6, a continuación de la palabra "edificios", la expresión ", desde la salida del medidor".
 
-3. Instalación de gas: los instrumentos, maquinarias, equipos, redes, aparatos, accesorios y obras complementarias destinadas al transporte y distribución de gas, incluyendo las instalaciones interiores de gas.
+e) Incorpórase en el numeral 10, a continuación de la frase "según corresponda", la expresión ", que sean propiedad del concesionario".
 
-4. Redes de transportes: el conjunto de tuberías, equipos y accesorios destinados a transportar gas, también denominados gasoductos, que unen centros de producción o almacenamiento con redes de distribución de gas u otros centros de producción, almacenamiento o consumo.
+f) Intercálase en el numeral 12, letra b), entre la palabra "consumos" y la coma la frase "y servicios afines".
 
-5. Redes de distribución: el conjunto de tuberías, equipos, y accesorios, destinados a distribuir gas haciendo uso de una concesión de servicio público o de una red no concesionada hasta la salida del medidor.
+g) Suprímese en el numeral 13, la oración final que señala: "En este inmueble o instalaciones quedarán radicadas todas las obligaciones derivadas del servicio para con la empresa de gas, a menos que ésta y el cliente hayan convenido por escrito un acuerdo distinto.".
 
-6. Instalación interior: la instalación construida dentro de una propiedad particular y para uso exclusivo de sus ocupantes, ubicada tanto en el interior como en el exterior de los edificios, desde la salida del medidor.
+h) Agréganse, a continuación del numeral 15, los siguientes numerales 16 a 32:
 
-7. Artefacto: el aparato fijo o portátil que suministra energía calórica mediante la combustión.
-
-8. Servicio de gas: el suministro de gas efectuado por una empresa de gas a los clientes o consumidores, bajo condiciones establecidas respecto a calidad de servicio y precio.
-
-9. Servicio público de distribución de gas: el suministro de gas que una empresa concesionaria de distribución efectúe a clientes o consumidores ubicados en sus zonas de concesión, o bien a clientes o consumidores ubicados fuera de dichas zonas que se conecten a las instalaciones de distribución de la concesionaria mediante redes propias o de terceros.
-
-10. Bienes de la concesión: el conjunto de bienes muebles e inmuebles, instalaciones de gas, derechos y, en general, todas las obras y equipos requeridos para el servicio público de distribución de gas o de transporte de gas, según corresponda, que sean propiedad del concesionario.
-
-11. Suministro de gas: la entrega de gas que hace una empresa de gas a los clientes o consumidores, y la que se efectúa conforme a especificaciones relativas a las propiedades físicas y químicas del gas y a las condiciones físicas en que éste es entregado.
-
-12. Calidad del servicio de gas: corresponde al grado en que se mantienen las condiciones del servicio de gas en cuanto a:
-
-a) La seguridad y continuidad del suministro así como el cumplimiento de las especificaciones del gas;
-
-b) La correcta y oportuna medición y facturación de los consumos y servicios afines, y
-
-c) Adecuados sistemas de atención e información para los consumidores.
-
-13. Cliente: es la persona natural o jurídica que acredite dominio sobre un inmueble o instalaciones que reciben servicio de gas.
-
-14. Consumidor: es la persona natural o jurídica que utiliza el gas para consumirlo.
-
-15. Superintendencia: es la Superintendencia de Electricidad y Combustibles.
-
-16. De acuerdo a su giro y uso del gas, los servicios de gas se clasificarán en la siguiente forma:
+"16. De acuerdo a su giro y uso del gas, los servicios de gas se clasificarán en la siguiente forma:
 
 a) Servicio de gas residencial: servicio de gas destinado a consumidores que utilizan el gas para el funcionamiento de artefactos de uso doméstico en residencias particulares o de uso comunitario.
 
@@ -114,253 +86,87 @@ c) Servicio de gas industrial: servicio de gas destinado a consumidores que util
 
 31. Red de distribución no concesionada: aquella red que comprende el o los tanques de almacenamiento de gas licuado, más el conjunto de tuberías, equipos y accesorios hasta la salida del medidor, destinados a distribuir gas, sin hacer uso de una concesión de servicio público de distribución.
 
-32. Distribución de gas licuado a granel: es el suministro de gas licuado en uno o más tanques de almacenamiento sin un medidor del flujo gaseoso para contabilizar el consumo.
+32. Distribución de gas licuado a granel: es el suministro de gas licuado en uno o más tanques de almacenamiento sin un medidor del flujo gaseoso para contabilizar el consumo.".
 
-## Título II
+3. Sustitúyese la denominación del Título II por la siguiente: "De las concesiones de servicio público de distribución de gas y de redes de transporte de gas.".
 
-De las concesiones de servicio público de distribución de gas y de redes de transporte de gas.
+4. Reemplázase el artículo 3 por el siguiente:
 
 #### Artículo 3
 
-Para establecer, operar y explotar el servicio público de distribución de gas de red, y las redes de transporte de gas de red, las empresas deberán obtener una concesión de acuerdo a lo dispuesto en el artículo 7, a quienes se les reconocerán los derechos y se le impondrán las obligaciones señaladas en la presente ley.
+Para establecer, operar y explotar el servicio público de distribución de gas de red, y las redes de transporte de gas de red, las empresas deberán obtener una concesión de acuerdo a lo dispuesto en el artículo 7, a quienes se les reconocerán los derechos y se le impondrán las obligaciones señaladas en la presente ley.".
 
-#### Artículo 4°
+5. Elimínase el artículo 4.
 
-Eliminado.-
-
-#### Artículo 5°
-
-El plazo de las concesiones definitvas será indefinido.
+6. Reemplázase el artículo 6 por el siguiente:
 
 #### Artículo 6
 
-La solicitud de concesión deberá presentarse a la Superintendencia, con copia al Ministerio, debiendo contener todos los antecedentes y documentos necesarios para su otorgamiento, los que se establecerán mediante un Reglamento.
+La solicitud de concesión deberá presentarse a la Superintendencia, con copia al Ministerio, debiendo contener todos los antecedentes y documentos necesarios para su otorgamiento, los que se establecerán mediante un Reglamento.".
+
+7. Reemplázase el artículo 7 por el siguiente:
 
 #### Artículo 7
 
 Las concesiones de servicio público de distribución de gas de red y las de transporte de gas serán otorgadas mediante decreto supremo del Ministerio de Energía, expedido bajo la fórmula "por orden del Presidente de la República", previo informe de la Superintendencia.
 
-El decreto que otorgue la concesión deberá publicarse por el concesionario en el Diario Oficial, en el plazo de treinta días corridos contado desde la fecha de su total tramitación y reducirse a escritura pública dentro de los treinta días siguientes a la fecha de su publicación.
+El decreto que otorgue la concesión deberá publicarse por el concesionario en el Diario Oficial, en el plazo de treinta días corridos contado desde la fecha de su total tramitación y reducirse a escritura pública dentro de los treinta días siguientes a la fecha de su publicación.".
 
-#### Artículo 8°
+8. Elimínanse los artículos 8, 9 y 10.
 
-Eliminado.-
+9. Suprímese el artículo 11.
 
-#### Artículo 9°
+10. Reemplázase en el artículo 14 la frase "no constituyen monopolio", por la expresión "no otorgan derechos exclusivos.".
 
-Eliminado.-
+11. Modifícase el artículo 15 de la siguiente manera:
 
-#### Artículo 10°
+a) Reemplázase la frase "las modificaciones necesarias" por "las modificaciones estrictamente necesarias".
 
-Eliminado.-
+b) Sustitúyese la expresión "del organismo que las dispuso" por "del concesionario".
 
-#### Artículo 11°
+12. Modifícase el artículo 16 en el siguiente sentido:
 
-Suprimido.-
+a) Sustitúyense, en el inciso primero, el vocablo "Empresa" por "empresa concesionaria", y la palabra "cañería" por "red".
 
-#### Artículo 12
+b) Sustitúyese, en el inciso segundo, la frase "Gobierno, oída la Dirección" por la siguiente: "Ministerio, previo informe de la Superintendencia".
 
-Las concesiones de servicio público de distribución de gas y de redes de transporte de gas crean en favor del concesionario el permiso para ocupar con su red y dispositivos afectos a ella las calles, plazas, veredas, avenidas, caminos y otros bienes nacionales de uso público, cruzar ríos, canales, vías férreas, puentes, acueductos y redes de distribución de otros servicios públicos. Estas ocupaciones y cruzamientos se ejecutarán en conformidad con las prescripciones que establezcan los reglamentos pertinentes en cada caso y sin perjudicar el objeto principal de aquéllos.
+13. Modifícase el artículo 17 en el siguiente sentido:
 
-Las concesiones de servicio público de distribución de gas y de redes de transporte de gas crean en favor del concesionario las servidumbres para tender tuberías a través de propiedades ajenas y para ocupar y cerrar los terrenos necesarios para estaciones de bombeo, centros reductores de presión, habitaciones para el personal de vigilancia, caminos de acceso, depósitos de materiales y, en general, todas las obras requeridas para la construcción y operación de las redes y dispositivos afectos a ellas. Los edificios no quedarán en caso alguno sujetos a estas servidumbres, como tampoco quedarán los huertos, parques, jardines o patios que dependan de edificios o le sean anexos o circundantes.
+a) Sustitúyese en el inciso primero, la expresión "Los concesionarios" por "Las empresas concesionarias".
 
-La concesión provisional otorga al concesionario el derecho para obtener del Juez de Letras en lo Civil que corresponda, el permiso para practicar o hacer practicar en terrenos fiscales, municipales o particulares, las mediciones y estudios que sean necesarios para la preparación del proyecto definitivo de las obras comprendidas en su concesión. El mismo Juez determinará, cuando los afectos lo soliciten, las indemnizaciones a que tienen derecho por los perjuicios que le provocaren los permisos referidos en sus predios o heredades.
+b) Sustitúyese en el inciso segundo la frase "resolverá el Gobierno, oyendo a la Dirección" por la siguiente: "la empresa concesionaria podrá recurrir a la Superintendencia para que resuelva.".
 
-#### Artículo 13
+c) Sustitúyese en el inciso final la frase inicial "Siempre que los concesionarios presenten a la Dirección" por la siguiente: "Las empresas concesionarias que presenten a la Superintendencia".
 
-Todas las concesiones de redes de distribución a que refiere esta ley, comprenden el derecho de construir, mantener y explotar las subestaciones respectivas.
+14. Modifícase el artículo 18 en el siguiente sentido:
 
-#### Artículo 14
+a) Modifícase el inciso segundo en el siguiente sentido:
 
-Las concesiones a que se refiere el presente Título no otorgan derechos exclusivos.
+i. Sustitúyese las expresiones "Corte de Apelaciones" y "Corte" por la palabra "Superintendencia".
 
-#### Artículo 15
+ii. Elimínase la palabra "respectiva".
 
-Si el Estado, las Municipalidades u otros organismos públicos efectuaren nuevos trazados, obras de rectificación, cambios de nivel, pavimentación definitiva u otros análogos, en calles, caminos, plazas, puentes, canales, acueductos y otros bienes de uso público o fiscales, el concesionario estará obligado a ejecutar en sus redes de distribución o transporte, las modificaciones estrictamente necesarias para no perturbar la construcción o el uso de dichas obras. El costo de estas modificaciones será de cargo del concesionario.
+iii. Reemplázase la expresión "concesión" por "empresa concesionaria".
 
-#### Artículo 16
+iv. Sustitúyese la frase "dentro de los 90 días corridos siguientes de transcurridos dichos plazos", por la expresión: ", declaración que deberá efectuarse dentro de los noventa días corridos siguientes a dicha solicitud".
 
-La empresa concesionaria sólo podrá levantar sus instalaciones si con ello no se interrumpe el suministro de ninguna red de distribución situada dentro de una zona de servicio.
+b) Agrégase en el inciso tercero, a continuación de su punto final, la siguiente oración: "El costo de los retiros que afectaren bienes de uso público será de cargo del exconcesionario.".
 
-Para abandonar el suministro dentro de una zona de servicio, se necesitará la autorizacíon del Ministerio, previo informe de la Superintendencia.
+c) Modifícase el inciso final en el siguiente sentido:
 
-#### Artículo 17
+i. Sustitúyese la expresión "Presidente de la República" por "Ministro de Energía".
 
-Las empresas concesionarias podrán abrir los pavimentos de calzadas y aceras de las vías públicas para la ejecución de los trabajos propios al aprovechamiento de cualquiera de las concesiones a que se refiere esta ley o a la explotación de sus servicios.
+ii. Intercálase entre la preposición "a" y la frase "los artículos 20" la frase "lo dispuesto en".
 
-Si el Alcalde negare el permiso solicitado para efectuar los trabajos a que se refiere el inciso anterior, la empresa concesionaria podrá recurrir a la Superintendencia para que resuelva.
+15. En el artículo 21, inciso segundo:
 
-Las empresas concesionarias que presenten a la Superintendencia planos para la ejecución de obras, podrán presentar duplicados de ellos que les serán devueltos en el mismo acto con la fecha de presentación y el sello de la oficina, a fin de que le sirvan de prueba de tal presentación para el efecto del cumplimiento de la obligación que al efecto tuvieren en relación con las correspondientes rupturas de pavimento.
+a) Sustitúyese la expresión "el concesionario" por la expresión "la empresa concesionaria".
 
-## Título III
+b) Sustitúyese la expresión "al nuevo concesionario" por la expresión "a la nueva empresa concesionaria".
 
-De la caducidad de las concesiones
+16. Sustitúyese en el artículo 22, inciso segundo, letra b), la palabra "concesionario" por la frase "empresa concesionaria".
 
-#### Artículo 18°
-
-El Presidente de la República mediante decreto supremo fundado, expedido a través del Ministerio de Energía, podrá declarar la caducidad de una concesción de gas antes de entrar en explotación si el concesionario no redujere a escritura pública el decreto de concesión dentro de los 30 días siguientes a la fecha de su publicación.
-
-El Ministro de Energía podrá solicitar a la Superintendencia que declare el incumplimiento grave de las obligaciones de una empresa concesionaria de gas antes de entrar en explotación, si no se hubiesen ejecutado por lo menos los dos tercios de las obras en los plazos establecidos o en las prórrogas de plazo que se otorguen y no mediare fuerza mayor o caso fortuito. Declarado el incumplimiento grave por la Superintendencia, podrá el Presidente de la República decretar la caducidad de la concesión.
-
-En los casos de caducidad previstos en el inciso anterior, el ex concesionario podrá levantar y retirar las instalaciones de gas ejecutadas. Cuando estas instalaciones ocupen bienes nacionales de uso público, terrenos fiscales o terrenos particulares, en virtud de servidumbres constituidas, el retiro deberá hacerse dentro del plazo y en las condiciones que fije la Superintendencia, en conformidad a los reglamentos. El costo de los retiros que afectaren bienes de uso público será de cargo del exconcesionario.
-
-Cuando sea declarada la caducidad de una concesión por la causal señalada en el inciso segundo de este artículo, el Ministro de Energía, si lo estimare conveniente para el interés general, podrá disponer la expropiación de los bienes de la concesión en conformidad a lo dispuesto en los artículo 20° y siguientes.
-
-> **Nota.** El numeral iv) de la letra a) del N° 14, del Art. 1° de la Ley 20999, publicada el 09.02.2017, dispuso la sustitución de la frase "dentro de los 90 días corridos siguientes de transcurridos dichos plazos", por la expresión: ", declaración que deberá efectuarse dentro de los noventa días corridos siguientes a dicha solicitud". Esta modificación no se pudo efectuar, por cuanto la frase a que se hace referencia no se encuentra en el texto de este artículo. Sin embargo, se hace presente que aquella sí estaba en el proyecto aprobado por la Cámara de Diputados en Primer Trámite Constitucional, donde había sido agregada a continuación de la expresión "caso fortuito".
-
-#### Artículo 19
-
-En toda concesión de servicio público de distribución de gas que se encuentre en explotación, deberá entenderse incorporada la condición de que el Presidente de la República puede declarar caducada la concesión por incumplimiento de lo dispuesto en el inciso cuarto del artículo 44° y en los casos de los incisos finales de los artículos 46° y 58° de la presente ley.
-
-No se podrá declarar caducada una concesión si el incumplimiento de las obligaciones por parte del concesionario proviniere de fuerza mayor o caso fortuito.
-
-#### Artículo 20
-
-Decláranse de utilidad pública, sujetos a expropiación en conformidad al decreto ley N° 2.186, de 1978, los bienes de la concesión de servicio público de distribución de gas que hubiere sido caducada en conformidad a esta ley.
-
-#### Artículo 21
-
-Declarada la caducidad de una concesión de servicio público de distribución de gas en los casos previstos en esta ley, el Presidente de la República, en un plazo máximo de 120 días, contado desde la fecha de vigencia del decreto de caducidad, dispondrá la expropiación de los bienes de la concesión por decreto supremo del Ministerio de Energía. La caducidad de la concesión producirá sus efectos cuando el Estado tome posesión del bien expropiado en conformidad al decreto ley N° 2.186, de 1978, tiempo hasta el cual el concesionario deberá continuar con las obligaciones impuestas por esta ley. En caso de incumplimiento se aplicará lo dispuesto en el artículo 44°.
-
-No obstante haber sido declarada la caducidad de una concesión de servicio público de distribución de gas en el plazo que media entre la fecha de la declaración de caducidad y la del decreto expropiatorio, la empresa concesionaria podrá solicitar al Presidente de la República que se le autorice a enajenar a un tercero el conjunto de los bienes de la concesión, bajo la condición de que el Presidente de la República apruebe a la nueva empresa concesionaria, o que se proceda directamente a la licitación pública de los bienes de la concesión en los términos indicados en el artículo siguiente.
-
-El Presidente de la República, mediante decreto supremo expedido por el Ministerio de Energía, podrá aprobar la venta directa o la licitación pública, según el caso. Efectuada la enajenación en una de las formas indicadas, la concesión pertenecerá de pleno derecho al adquirente.
-
-En caso de licitación pública, el producto de la licitación, deducidos los gastos en que se hubiere incurrido con motivo de ella, las multas que procedieren y el aviso de que se trata más adelante, será depositado en la cuenta corriente del Juzgado de Letras de turno en lo Civil de Santiago, lo que será comunicado mediante un aviso publicado en el Diario Oficial por la Superintendencia. A contar de la fecha de publicación y dentro del plazo de 30 días hábiles los acreedores deberán verificar sus preferencias y créditos ante el juzgado en que se haya efectuado el depósito.
-
-Los acreedores hipotecarios, prendarios o de cualquier otra naturaleza y los actores de los juicios pendientes o que se promovieren, relativos al dominio o cualquier otro derecho sobre lo bienes con que se prestan los servicios de la concesión, no podrán oponerse a que se efectúe la licitación, y reconocidos sus derechos por el juzgado se pagarán con el saldo antes mencionado, sin perjuicio de las demás acciones que puedan legalmente ejercitar los acreedores en contra del ex concesionario.
-
-## Título IV
-
-De los gravámenes
-
-#### Artículo 22
-
-Caducada la concesión de servicio público de distribución y adquiridos los bienes afectos a la misma por el Estado, el Presidente de la República deberá disponer la licitación pública de la concesión conjuntamente con los bienes de la concesión expropiados, dentro de un plazo no mayor a 270 días, contado desde la fecha que el Estado tome posesión material de los bienes expropiados en conformidad al decreto ley N° 2.186, de 1978.
-
-La licitación se efectuará en las siguientes condiciones:
-
-a) El mínimo para la adjudicación será el valor de todos los bienes de la concesión, según tasación que efectúa la Superintendencia;
-
-b) Los licitantes deberán cumplir con los requisitos exigidos para obtener la calidad de empresa concesionaria de servicio público de distribución de gas;
-
-c) En las bases de la licitación se señalará:
-
-1. Las obras de reparación, mejoramiento y ampliación de los bienes de la concesión que deberán ejecutarse y el plazo correspondiente.
-
-2. El plazo máximo y la tasa mínima de interés real que se aceptará para ofertas con pago diferido.
-
-3. El depósito de garantía para participar en la licitación, el que no podrá ser inferior al 10% del valor mínimo de adjudicación.
-
-d) Deberán publicarse con un mínimo de 30 días de anticipación tres avisos, a lo menos, anunciando la licitación, uno en el Diario Oficial y dos en un diario de circulación nacional.
-
-e) Si al primer llamado no concurrieren oferentes o bien ninguno de los que concurriere satisfaciere las bases de la licitación, el mínimo se rebajará en un 25% del valor señalado en la letra a) de este artículo, y se llamará a nueva licitación en la forma indicada en la letra anterior dentro del plazo de 30 días, pudiendo modificarse las bases de la licitación. De igual forma se procederá, sucesivamente, si no concurrieren oferentes o bien si ninguno de los que concurriere satisfaciere las bases de la licitación.
-
-La adjudicación de la licitación llevará aparejada la inmediata renovación de la concesión a nombre del adjudicatario, la que, en todo caso, deberá formalizarse dentro del plazo de 60 días contado desde la fecha de adjudicación.
-
-Un reglamento determinará los procedimientos y modalidades a que deberá sujetarse la licitación a que se refiere el presente artículo.
-
-## Título IV
-
-De las Servidumbres
-
-#### Artículo 22
-
-A. Todas las servidumbres que señalen los decretos de concesión se establecerán en conformidad a los planos de servidumbres que se hayan aprobado en el decreto de concesión.
-
-Las gestiones para hacer efectivas las servidumbres deberán iniciarse en cada caso dentro de los seis meses siguientes a la fecha de reducción a escritura pública del decreto de concesión que hubiere aprobado los planos correspondientes, so pena de caducidad del derecho otorgado para imponer la servidumbre.
-
-#### Artículo 22
-
-B. Las servidumbres se constituirán previa determinación del monto de la indemnización a
-
-pagar por todo perjuicio que se cause al dueño de los terrenos o al de la concesión sirviente en su caso, o a cualquiera otra persona.
-
-La constitución de las servidumbres, su ejercicio y las indemnizaciones correspondientes se determinarán por acuerdo de los interesados que conste en escritura pública, o por resolución judicial. Podrá convenirse o resolverse que la indemnización se pague de una sola vez o en forma periódica.
-
-Para que las servidumbres sean oponibles a terceros, deberán inscribirse en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces, correspondiente a la ubicación de los inmuebles respectivos.
-
-#### Artículo 22
-
-C. Las servidumbres no podrán aprovecharse en fines distintos de aquellos propios de la respectiva concesión y para los cuales hayan sido constituidas y cesarán cuando termine ese aprovechamiento. Podrán ampliarse o restringirse según lo requieran las actividades propias de la respectiva concesión.
-
-#### Artículo 22
-
-D. Mientras se tramita el juicio respectivo, el Juez podrá autorizar al solicitante
-
-para hacer uso, desde luego, de las servidumbres pedidas, siempre que rinda caución suficiente para responder de las indemnizaciones a que pueda estar obligado.
-
-#### Artículo 22
-
-E. Cuando exista una concesión de redes de transporte de gas en un predio, el propietario de éste podrá exigir que se aprovechen las existentes cuando desee constituirse una nueva servidumbre de paso sobre su propiedad. La Superintendencia, oídos los interesados, y siempre que las instalaciones de transporte existentes tengan capacidad disponible y no existan razones técnicas que lo impidan, resolverá si los concesionarios deben aceptar esta obligación, la cual será cumplida en las condiciones que establece el artículo siguiente.
-
-#### Artículo 22
-
-F. La servidumbre de paso señalada en el artículo anterior se establecerá observando las
-
-reglas siguientes:
-
-1. Los cobros y condiciones de la prestación del servicio de transporte serán fijados por el concesionario a solicitud del que desea hacer uso de las instalaciones de transporte, de acuerdo a las normas, plazos y pautas que fijen los reglamentos.
-
-2. El que impone la servidumbre deberá indemnizar al propietario de estas instalaciones de transporte, en la proporción que representa la capacidad máxima que él utilice frente a la suma de todas las capacidades máximas efectivamente utilizadas en dichas instalaciones. El interesado, en caso necesario, aumentará la capacidad de las instalaciones, a su costa, y según las normas e instrucciones del dueño de éstas, debiendo siempre indemnizar a éste, a prorrata de la capacidad de las instalaciones que efectivamente utilice.
-
-3. Las indemnizaciones considerarán la totalidad de los costos generales de inversión; los costos de operación, mantención, los impuestos a las utilidades, y todos aquellos costos asociados a las instalaciones de transporte. En caso que no se haga uso permanente de las instalaciones, la indemnización por concepto de inversión se determinará con las anualidades correspondientes al plazo en que se ejerce la servidumbre.
-
-4. Si el dueño de las instalaciones varía el trazado o ubicación de ellas o bien las desconecta cuando los trabajos lo hagan necesario, el interesado no podrá oponerse y serán de su cargo los gastos que estos cambios le originen. Sin embargo, el dueño de las instalaciones deberá avisar al interesado, con sesenta días de anticipación, por lo menos, de los cambios y trabajos que proyecte efectuar.
-
-5. Todo perjuicio que se produjere en la instalación existente con motivo de la constitución de la servidumbre de paso, será de cargo del interesado.
-
-En caso de desacuerdo respecto de las condiciones, cobros, indemnizaciones u otras desavenencias que puedan existir entre las partes con motivo de la constitución de la servidumbre de paso serán fijadas por los Tribunales Ordinarios de Justicia en juicio sumario y con informe previo de la Superintendencia.
-
-#### Artículo 22
-
-G. Todas las cuestiones relativas a la constituckón, ejercicio y terminación de las servidumbres reguladas por esta ley, a las indemnizaciones correspondientes y a las cauciones que procedan, se tramitarán conforme al siguiente procedimiento:
-
-1. Deducida la demanda, citará el tribunal a la audiencia el quinto día hábil después de la última notificación, ampliándose este plazo si el demandado no está en el lugar del juicio, con todo o parte del aumento que concede el artículo 259 del Código de Procedimiento Civil.
-
-2. La audiencia se celebrará con sólo el que asista y en ella se recibirá la contestación y se rendirán las pruebas. La parte que quiera rendir prueba testimonial deberá presentar, antes de las doce horas del día anterior al de la audiencia, una lista de los testigos de que piensa valerse.
-
-3. Si el Juez lo estima conveniente, oirá el informe de un perito, nombrado en la misma audiencia por los interesados y, a falta de acuerdo, por él. El Juez fijará un plazo al perito para que presente su informe.
-
-4. La sentencia se dictará dentro de quinto día contado desde la fecha de la audiencia, o de la presentación del informe, en su caso.
-
-5. La sentencia definitiva será apelable en el solo efecto devolutivo, salvo que el Juez, por resolución fundada no susceptible de apelación, conceda el recurso en ambos efectos. Las demás resoluciones serán inapelables.
-
-6. La apelación se tramitará como en los incidentes y gozará de preferencia para su vista y fallo.
-
-#### Artículo 22
-
-H. Será Juez competente para conocer de los juicios a que se refiere el presente Título, el de la comuna donde se encuentre el predio sirviente y si los predios sirvientes estuvieren en dos o más comunas, el Juez de cualesquiera de ellas.
-
-#### Artículo 22
-
-I. El dueño del predio sirviente no podrá hacer plantaciones, construcciones ni obras de otra naturaleza que perturben el libre ejercicio de las servidumbres establecidas por esta ley. Si infringiere esta disposición o sus plantaciones perturbaren dicho ejercicio, el titular de la servidumbre podrá subsanar la infracción a costa del dueño del suelo.
-
-Sin perjuicio de lo establecido en el inciso anterior el propietario del predio atravesado por las tuberías que desee ejecutar construcciones sobre ellas, podrá exigir del dueño de las tuberías que varíe su trazado. En este caso las obras modificatorias serán de cargo del dueño del predio.
-
-#### Artículo 22
-
-J. El dueño del predio sirviente tendrá derecho a que se le pague:
-
-1. El valor de todo terreno ocupado por las tuberías y sus zanjas, por los centros reductores de presión, por las estaciones de bombeo, por los edificios, por los caminos de acceso y, en general, obras anexas, según los planos de servidumbre.
-
-2. El valor de los perjuicios ocasionados durante la construcción de las obras o como consecuencia de ellas o del ejercicio de las servidumbres. Igualmente el valor de los perjuicios que causen las tuberías.
-
-3. Una indemnización por el tránsito que el concesionario tiene derecho a hacer para los efectos de la custodia, conservación y reparación de las tuberías y obras anexas. Esta indemnización no podrá ser superior al valor de una faja de terreno de dos metros de ancho, en la parte del predio ocupado por las tuberías.
-
-Si al constituirse una servidumbre quedaren terrenos inutilizados para su natural aprovechamiento, el concesionario estará obligado a extender la servidumbre a todos estos terrenos.
-
-#### Artículo 22
-
-K. El dueño del predio sirviente está obligado a permitir la entrada de inspectores y trabajadores debidamente identificados para efectuar trabajos de reparación, bajo la responsabilidad del concesionario a quien pertenecen las tuberías y obras anexas. Asimismo, el dueño del predio sirviente estará obligado a permitir la entrada de los materiales necesarios para estos trabajos. El Juez, a solicitud del propietario del suelo, regulará, atendidas las circunstancias, el tiempo y forma en que se ejercitará este derecho.
-
-## Título V
-
-De la venta del gas
-
-### Párrafo I
-
-Del suministro en general
+17. Reemplázase el artículo 23 por el siguiente:
 
 #### Artículo 23
 
@@ -372,7 +178,9 @@ Si no existiere una matriz frente al predio, la solicitud de matriz se sujetará
 
 En caso de negativa de la empresa concesionaria a suministrar un servicio, el interesado podrá recurrir a la Superintendencia, la que, previa audiencia de la empresa, resolverá si ésta debe o no suministrar el servicio, en conformidad con las disposiciones de la presente ley y de la ley N°18.410.
 
-Las empresas distribuidoras de gas y las empresas comercializadoras estarán obligadas a proporcionar a los clientes o consumidores la información relativa a las condiciones de prestación de sus servicios y la información generada por la prestación de éstos, conforme a lo establecido en el Reglamento.
+Las empresas distribuidoras de gas y las empresas comercializadoras estarán obligadas a proporcionar a los clientes o consumidores la información relativa a las condiciones de prestación de sus servicios y la información generada por la prestación de éstos, conforme a lo establecido en el Reglamento.".
+
+18. Reemplázase el artículo 24 por el siguiente:
 
 #### Artículo 24
 
@@ -382,29 +190,25 @@ Son zonas de servicio para los efectos del artículo anterior:
 
 2) La zona que se identificará en el plano de la ciudad respectiva y que se protocolizará al otorgar la concesión a una nueva empresa y que abarque la zona que ésta planifique cubrir con su red de distribución.
 
-Asimismo, se entenderá que es parte de la zona de servicio de la empresa concesionaria aquella en la que ésta extiende sus redes de distribución.
+Asimismo, se entenderá que es parte de la zona de servicio de la empresa concesionaria aquella en la que ésta extiende sus redes de distribución.".
 
-#### Artículo 25
+19. Modifícase el artículo 25 en el siguiente sentido:
 
-La Superintendencia podrá ordenar a las empresas concesionarias la prolongación a sus expensas, de sus redes de baja presión, aun fuera de las zonas de servicio a que se refiere el artículo anterior, para consumos de carácter permanente, si se garantiza efectivamente para cada una de dichas prolongaciones como mínimo anual de consumo durante los tres primeros años del valor del presupuesto de la instalación.
+a) Sustitúyense, en el inciso primero, el vocablo "Empresas" por la expresión "empresas concesionarias", y la palabra "cañerías" por "redes".
 
-Inciso eliminado.
+b) Elimínase el inciso segundo.
 
-Las empresas concesionarias podrán cobrar también la parte de costo de prolongación de red cuya colocación no quede justificada por el consumo garantizado en este artículo.
+c) Sustitúyese, en el actual inciso final, la palabra "Empresas" por "empresas concesionarias".
 
-#### Artículo 26
+20. Modifícase el artículo 26 en el siguiente sentido:
 
-La empresa distribuidora podrá exigir a los consumidores de dudosa solvencia, o a propietarios de instalaciones de funcionamiento temporal, o a establecimientos que por su naturaleza están expuestos a ser clausurados por la autoridad, una garantía que no exceda el valor del consumo probable de tres meses.
+a) Sustitúyese en los incisos primero, segundo y final la expresión "Empresa" por "empresa distribuidora".
 
-Si el consumidor creyere que la Empresa no tiene derecho a exigirle garantía o considere excesiva la exigida, podrá reclamar a la Superintendencia.
+b) Sustitúyese en el inciso segundo la expresión "apelar" por "reclamar".
 
-En caso de mora en el pago a los servicios, la Empresa podrá aplicar a este pago todo o parte de la garantía y exigir que ésta se reintegre, sin perjuicio de los demás derechos que le competan.
+21. Sustitúyese en el artículo 27, inciso primero, la expresión "Empresa" por "empresa distribuidora" y la expresión "de vida o propiedades" por "para las personas o cosas".
 
-#### Artículo 27
-
-La empresa distribuidora podrá, además de cobrar ante la justicia ordinaria los daños y perjuicios, suspender el suministro de gas por cualquier acto que tienda a alterar, sin su consentimiento, el uso a que se destine el gas suministrado, o las condiciones del servicio, o el funcionamiento de los medidores o la medida exacta de los consumos, así como también si se hiciere uso de ese gas en condiciones que constituyan peligro para las personas o cosas.
-
-En estos casos, se procederá de acuerdo con las disposiciones de los Reglamentos de Servicios de Gas.
+22. Reemplázase el artículo 28 por el siguiente:
 
 #### Artículo 28
 
@@ -414,7 +218,9 @@ Los empalmes y los medidores forman parte de la red de distribución de gas y, p
 
 Toda acción ejecutada en cumplimiento de la obligación de mantenimiento de los empalmes, medidores y los tanques y sus accesorios, ya sea de revisión o reparación, será de cargo exclusivo de la empresa distribuidora, salvo cuando demuestre que la destrucción o daño fue originada por culpa o dolo del consumidor, cliente o de terceros. Asimismo, será de su cargo cuando el deterioro en las instalaciones sea consecuencia del desgaste natural que provoca el uso regular del empalme, los medidores, los tanques o sus accesorios.
 
-El reglamento regulará el procedimiento y demás condiciones para la debida implementación del presente artículo.
+El reglamento regulará el procedimiento y demás condiciones para la debida implementación del presente artículo.".
+
+23. Sustitúyese el artículo 29 por el siguiente:
 
 #### Artículo 29
 
@@ -422,7 +228,9 @@ La solicitud de servicio de gas, o de modificación de un servicio vigente, podr
 
 Asimismo, los clientes o consumidores podrán dar término al servicio de gas o a cualquier servicio afín en cualquier momento, salvo que existan cláusulas de exclusividad o de permanencia mínima en los términos señalados en el artículo siguiente. La empresa distribuidora sólo podrá negar el término de servicios, si el cliente o consumidor mantiene obligaciones morosas derivadas del servicio de gas y servicios afines que dicha empresa le otorga.
 
-Tratándose de solicitudes de inicio, modificación o término de servicios de gas efectuadas para todo un condominio u otro inmueble de múltiples unidades enajenables, acogido o no al régimen de copropiedad inmobiliaria, la solicitud deberá efectuarse de acuerdo a lo indicado en la ley N° 19.537 o según el sistema de administración, representación o de manifestación de voluntad común que los regulen, según corresponda.
+Tratándose de solicitudes de inicio, modificación o término de servicios de gas efectuadas para todo un condominio u otro inmueble de múltiples unidades enajenables, acogido o no al régimen de copropiedad inmobiliaria, la solicitud deberá efectuarse de acuerdo a lo indicado en la ley N° 19.537 o según el sistema de administración, representación o de manifestación de voluntad común que los regulen, según corresponda.".
+
+24. Incorpóranse, a continuación del artículo 29, los siguientes artículos 29 bis, 29 ter, 29 quáter, 29 quinquies y 29 sexies:
 
 #### Artículo 29 bis
 
@@ -460,11 +268,9 @@ quinquies. La Comisión podrá administrar un sistema o plataforma de informaci�
 
 #### Artículo 29
 
-sexies. Un reglamento regulará las materias necesarias para la debida y eficaz implementación de las disposiciones contenidas en el presente Párrafo.
+sexies. Un reglamento regulará las materias necesarias para la debida y eficaz implementación de las disposiciones contenidas en el presente Párrafo.".
 
-### Párrafo 2
-
-De las tarifas y de los pagos
+25. Sustitúyese el artículo 30 por el siguiente:
 
 #### Artículo 30
 
@@ -474,7 +280,9 @@ El esquema tarifario que establezca libremente cada empresa distribuidora de gas
 
 Se entenderá por esquema tarifario el listado de servicios, condiciones, vigencia y precios aplicables por la empresa distribuidora al cliente final.
 
-En todo caso, cada vez que una empresa distribuidora modifique el precio a cliente final del servicio de gas o servicios afines, deberá informarlo a la Superintendencia con la anticipación y en la forma que determine el reglamento. Asimismo, deberá publicarlo previamente en sus sitios electrónicos y por una vez al menos en un diario de amplia circulación en las zonas que presta servicio u en otros medios similares disponibles, y notificar a los clientes o consumidores en la boleta o factura de cobro, de acuerdo a la forma que establezca el reglamento
+En todo caso, cada vez que una empresa distribuidora modifique el precio a cliente final del servicio de gas o servicios afines, deberá informarlo a la Superintendencia con la anticipación y en la forma que determine el reglamento. Asimismo, deberá publicarlo previamente en sus sitios electrónicos y por una vez al menos en un diario de amplia circulación en las zonas que presta servicio u en otros medios similares disponibles, y notificar a los clientes o consumidores en la boleta o factura de cobro, de acuerdo a la forma que establezca el reglamento.".
+
+26. Intercálase, a continuación del artículo 30, el siguiente artículo 30 bis:
 
 #### Artículo 30 bis
 
@@ -488,7 +296,9 @@ En todo caso, este chequeo de rentabilidad deberá tener en especial consideraci
 
 En el caso de la entrada en operación de una nueva zona de concesión, el primer chequeo de rentabilidad se efectuará durante el año calendario siguiente al año de inicio de operación si el período de operación durante el primer año supera los seis meses, considerando la rentabilidad económica obtenida durante dicho período. El reglamento establecerá los ajustes pertinentes de acuerdo al número de meses de operación durante el referido período. En caso que el período de operación durante el primer año no supere los seis meses, el primer chequeo de rentabilidad se efectuará en el año subsiguiente al de inicio de operación, considerando únicamente la rentabilidad del año calendario siguiente al de inicio de operación. La rentabilidad económica máxima para el primer chequeo de rentabilidad corresponderá a tres puntos porcentuales sobre la tasa de costo de capital definida en el artículo 32 y calculada para el año correspondiente. En este caso, el factor individual de la tasa de costo de capital asociado a esta nueva zona de concesión, será determinado por la Comisión en el informe preliminar referido al primer chequeo de rentabilidad, el que quedará sujeto a la resolución de discrepancias del Panel, manteniéndose su valor resultante hasta la entrada en vigencia del nuevo informe cuatrienal de tasa de costo de capital a que se refiere el artículo 32. Para efectos de determinar si durante el segundo chequeo de rentabilidad, en esta nueva zona de concesión, se excedió la tasa máxima de rentabilidad permitida, se considerará el promedio de las rentabilidades obtenidas durante el primer y segundo chequeo de rentabilidad, la que no deberá superar los tres puntos porcentuales sobre el promedio simple de los últimos dos años de la tasa de costo de capital definida en el artículo 32.
 
-Lo dispuesto en el inciso anterior, no se aplicará a aquellas nuevas zonas geográficas especificadas en uno o más decretos de concesión de servicio público de gas de red, ubicadas en una zona de concesión existente de la misma empresa concesionaria sujeta al régimen de libertad tarifaria con límite máximo de rentabilidad.
+Lo dispuesto en el inciso anterior, no se aplicará a aquellas nuevas zonas geográficas especificadas en uno o más decretos de concesión de servicio público de gas de red, ubicadas en una zona de concesión existente de la misma empresa concesionaria sujeta al régimen de libertad tarifaria con límite máximo de rentabilidad.".
+
+27. Reemplázase el artículo 31 por el siguiente:
 
 #### Artículo 31
 
@@ -504,7 +314,9 @@ Una vez que haya entrado en vigencia el decreto tarifario respectivo, la empresa
 
 El informe que ordene poner término al régimen de fijación tarifaria podrá establecer, además, medidas preventivas, correctivas o prohibitivas que tengan por objeto asegurar condiciones de competencia en el o los mercados de que se trate, las que se aplicarán en la oportunidad que determine el Tribunal de Defensa de la Libre Competencia. En contra del informe que emita el Tribunal en virtud de lo establecido en este artículo sólo procederá el recurso de reposición, a menos que aquel hubiere establecido una o más de las medidas señaladas precedentemente. En contra de dichas medidas, la empresa concesionaria o el Fiscal Nacional Económico podrán deducir el recurso de reclamación a que se refiere el artículo 27 contenido en el artículo único del decreto con fuerza de ley N° 1, de 2004, del Ministerio de Economía, Fomento y Reconstrucción, ya indicado.
 
-En caso que una empresa concesionaria retorne al régimen de libertad de precios sujeto a un límite máximo de rentabilidad, el primer y segundo chequeo de rentabilidad se efectuarán de acuerdo a la misma metodología dispuesta para una empresa concesionaria que inicia su operación en una nueva zona de concesión, según lo establecido en el inciso quinto del artículo 30 bis.
+En caso que una empresa concesionaria retorne al régimen de libertad de precios sujeto a un límite máximo de rentabilidad, el primer y segundo chequeo de rentabilidad se efectuarán de acuerdo a la misma metodología dispuesta para una empresa concesionaria que inicia su operación en una nueva zona de concesión, según lo establecido en el inciso quinto del artículo 30 bis.".
+
+28. Intercálase, a continuación del artículo 31, el siguiente artículo 31 bis:
 
 #### Artículo 31 bis
 
@@ -512,7 +324,9 @@ Todos los clientes de aquella empresa concesionaria que haya excedido la tasa de
 
 Las devoluciones a que se refiere este artículo se efectuarán, a elección del cliente, mediante reembolso en dinero efectivo o descontando las cantidades correspondientes en la facturación más próxima, o en aquellas que determine la Superintendencia a requerimiento de la respectiva empresa concesionaria, reajustadas según la variación que haya tenido el Índice de Precios al Consumidor en los meses respectivos, más los intereses corrientes.
 
-El monto de la devolución para los clientes será establecido por la Comisión mediante resolución, dentro de los treinta días siguientes a la notificación del informe de rentabilidad anual a que hace referencia el artículo 33 quáter, correspondiéndole a la Superintendencia instruir las normas para dicha devolución.
+El monto de la devolución para los clientes será establecido por la Comisión mediante resolución, dentro de los treinta días siguientes a la notificación del informe de rentabilidad anual a que hace referencia el artículo 33 quáter, correspondiéndole a la Superintendencia instruir las normas para dicha devolución.".
+
+29. Reemplázase el artículo 32 por el siguiente:
 
 #### Artículo 32
 
@@ -538,7 +352,9 @@ En caso de subsistir discrepancias relativas al valor de dicha tasa, las empresa
 
 Para los efectos anteriores, se entenderá que existe discrepancia susceptible de ser sometida al dictamen del Panel, si quien hubiere formulado observaciones al informe técnico preliminar, persevere en ellas con posterioridad al rechazo de las mismas por parte de la Comisión, como también, si quien no hubiere formulado observaciones al informe técnico preliminar, considere que se debe mantener su contenido, en caso de haberse modificado en el informe técnico final.
 
-Si no se presentaren discrepancias o emitido el dictamen del Panel, en su caso, la Comisión deberá, antes del 31 de diciembre, mediante resolución, fijar la tasa de costo de capital para el cuatrienio siguiente para efectos de determinar la rentabilidad económica máxima señalada en el artículo 30 bis y para utilizar en el proceso de fijación de tarifas regulado en los artículos 38 y siguientes. Dicha tasa se actualizará anualmente únicamente respecto a la tasa libre de riesgo de conformidad al instrumento del Banco Central de Chile o de la Tesorería General de la República definido en la resolución anteriormente indicada. Para efectos del chequeo de rentabilidad, la Comisión deberá durante el mes de diciembre de cada año, mediante resolución, determinar la tasa libre de riesgo de la tasa de costo de capital para el año siguiente, la que corresponderá al promedio de los seis meses anteriores a su determinación. En el caso de las empresas concesionarias sujetas a fijación de precios, el período semestral a considerar para determinar la tasa libre de riesgo de la tasa de costo de capital corresponderá a los seis meses previos al mes de la fecha de referencia para la base monetaria establecida en el estudio de costos a que hace referencia el artículo 40-N.
+Si no se presentaren discrepancias o emitido el dictamen del Panel, en su caso, la Comisión deberá, antes del 31 de diciembre, mediante resolución, fijar la tasa de costo de capital para el cuatrienio siguiente para efectos de determinar la rentabilidad económica máxima señalada en el artículo 30 bis y para utilizar en el proceso de fijación de tarifas regulado en los artículos 38 y siguientes. Dicha tasa se actualizará anualmente únicamente respecto a la tasa libre de riesgo de conformidad al instrumento del Banco Central de Chile o de la Tesorería General de la República definido en la resolución anteriormente indicada. Para efectos del chequeo de rentabilidad, la Comisión deberá durante el mes de diciembre de cada año, mediante resolución, determinar la tasa libre de riesgo de la tasa de costo de capital para el año siguiente, la que corresponderá al promedio de los seis meses anteriores a su determinación. En el caso de las empresas concesionarias sujetas a fijación de precios, el período semestral a considerar para determinar la tasa libre de riesgo de la tasa de costo de capital corresponderá a los seis meses previos al mes de la fecha de referencia para la base monetaria establecida en el estudio de costos a que hace referencia el artículo 40-N.".
+
+30. Reemplázase el artículo 33 por el siguiente:
 
 #### Artículo 33
 
@@ -568,7 +384,9 @@ Sólo para los efectos de este artículo, los impuestos a las utilidades se calc
 
 Las pérdidas contables en años anteriores, los gastos financieros y las amortizaciones no deberán ser considerados en los costos de explotación, como tampoco para determinar los impuestos a pagar.
 
-Todos los antecedentes de ingresos, inversiones y costos que se utilicen en los cálculos que se señalan en este artículo deberán estar expresados en moneda de igual fecha.
+Todos los antecedentes de ingresos, inversiones y costos que se utilicen en los cálculos que se señalan en este artículo deberán estar expresados en moneda de igual fecha.".
+
+31. Intercálanse, a continuación del artículo 33, los siguientes artículos 33 bis, 33 ter, 33 quáter, 33 quinquies y 33 sexies:
 
 #### Artículo 33 bis
 
@@ -616,7 +434,9 @@ sexies. Las bases para licitaciones a que se refiere el artículo 33 quinquies s
 
 Las exigencias de seguridad y calidad de servicio que se establezcan para cada licitación deberán ser homogéneas, conforme a lo dispuesto en la normativa, y no discriminatorias para los oferentes. Ningún oferente podrá ofrecer calidades especiales de servicio, ni incluir regalías o beneficios adicionales al suministro. La licitación se adjudicará a aquellas ofertas más económicas, de acuerdo a las condiciones establecidas en las bases de licitación para su evaluación. Los contratos deberán ser suscritos por la empresa concesionaria y su suministrador, previa aprobación de la Comisión mediante resolución, y una copia autorizada será registrada en la Superintendencia. Asimismo, las modificaciones que se introduzcan en los contratos deberán ser aprobadas por la Comisión.
 
-Para cada licitación de suministro de gas, la Comisión podrá fijar el valor máximo de las ofertas de suministro de gas, en un acto administrativo separado de carácter reservado, que permanecerá oculto hasta la apertura de las ofertas respectivas, momento en el que el acto administrativo perderá el carácter de reservado. Con todo, dicho valor máximo deberá ser fundado y definirse en virtud del suministro licitado, del período de suministro y en consideración a estimaciones del costo eficiente de abastecimiento para cada caso. El reglamento establecerá los procedimientos administrativos que correspondan para asegurar la confidencialidad del valor máximo de las ofertas.
+Para cada licitación de suministro de gas, la Comisión podrá fijar el valor máximo de las ofertas de suministro de gas, en un acto administrativo separado de carácter reservado, que permanecerá oculto hasta la apertura de las ofertas respectivas, momento en el que el acto administrativo perderá el carácter de reservado. Con todo, dicho valor máximo deberá ser fundado y definirse en virtud del suministro licitado, del período de suministro y en consideración a estimaciones del costo eficiente de abastecimiento para cada caso. El reglamento establecerá los procedimientos administrativos que correspondan para asegurar la confidencialidad del valor máximo de las ofertas.".
+
+32. Reemplázase el artículo 34 por el siguiente:
 
 #### Artículo 34
 
@@ -624,11 +444,9 @@ No será aplicable lo señalado en los artículos 30, 30 bis y 31 al servicio de
 
 Las fórmulas tarifarias para el servicio de gas y servicios afines indicados en el inciso anterior se determinarán de acuerdo a las mismas metodologías y procedimientos que se establecen para las empresas concesionarias cuyas zonas de concesión queden sujetas a fijación de tarifas, de acuerdo a lo dispuesto en la presente ley.
 
-Sin perjuicio de lo anterior, para las empresas señaladas en el inciso primero y cuyo número total de clientes con servicio de gas sea inferior al dos por ciento de los clientes de la mayor empresa concesionaria de la Región de Magallanes y la Antártica Chilena, las fórmulas tarifarias aplicables al servicio de gas y servicios afines serán las que se establezcan en el decreto supremo al que se refiere el artículo 40-R para el mayor concesionario de dicha región, como consecuencia del procedimiento contemplado en los artículos 38 y siguientes.
+Sin perjuicio de lo anterior, para las empresas señaladas en el inciso primero y cuyo número total de clientes con servicio de gas sea inferior al dos por ciento de los clientes de la mayor empresa concesionaria de la Región de Magallanes y la Antártica Chilena, las fórmulas tarifarias aplicables al servicio de gas y servicios afines serán las que se establezcan en el decreto supremo al que se refiere el artículo 40-R para el mayor concesionario de dicha región, como consecuencia del procedimiento contemplado en los artículos 38 y siguientes.".
 
-#### Artículo 35°
-
-En caso de que la empresa concesionaria considere que las tarifas fijadas por la autoridad causan perjuicio a sus legítimos derechos, podrá recurrir ante la Justicia Ordinaria reclamando la indemnización correspondiente, sin perjuicio de los demás recursos que le franquea la ley.
+33. Sustitúyese el artículo 36 por el siguiente:
 
 #### Artículo 36
 
@@ -642,15 +460,11 @@ En caso de falta de pago de dos boletas o facturas consecutivas de consumo de ga
 
 El consumidor podrá reclamar a la Superintendencia de la notificación de suspensión en casos indebidos o no justificados, o evitar la misma haciendo el depósito de la suma cobrada en la empresa o en el lugar que ella estipule. Tanto los consumidores como las empresas distribuidoras están obligados a acatar las resoluciones que en estos casos adopte la Superintendencia, sin perjuicio del derecho de reclamar ante la justicia ordinaria. Un reglamento fijará las normas y plazos bajo los cuales la Superintendencia deberá resolver estos reclamos.
 
-La suspensión del servicio de gas no se aplicará al consumo de hospitales y cárceles, sin perjuicio de la acción ejecutiva que la empresa distribuidora podrá instaurar con la sola presentación de una declaración jurada ante Notario, en la cual se indique que existen dos o más mensualidades insolutas. Tal declaración constituirá el título ejecutivo de dicha acción.
+La suspensión del servicio de gas no se aplicará al consumo de hospitales y cárceles, sin perjuicio de la acción ejecutiva que la empresa distribuidora podrá instaurar con la sola presentación de una declaración jurada ante Notario, en la cual se indique que existen dos o más mensualidades insolutas. Tal declaración constituirá el título ejecutivo de dicha acción.".
 
-#### Artículo 37°
+34. Sustitúyese la denominación del párrafo 3 contenido en el Título V, "De los suministros al Fisco" por el siguiente: "Del procedimiento de fijación de tarifas".
 
-DEROGADO.-
-
-### Párrafo 3 — .
-
-Del procedimiento de fijación de tarifas
+35. Agréganse, a continuación del artículo 37, los siguientes artículos 38 a 40:
 
 #### Artículo 38
 
@@ -672,7 +486,9 @@ Sin perjuicio de lo anterior, en la Región de Magallanes y la Antártica Chilen
 
 #### Artículo 40
 
-Para efectos de la fijación de las tarifas, la empresa concesionaria respectiva deberá proporcionar toda la información necesaria y pertinente que le solicite la Comisión.
+Para efectos de la fijación de las tarifas, la empresa concesionaria respectiva deberá proporcionar toda la información necesaria y pertinente que le solicite la Comisión.".
+
+36. Intercálanse los siguientes artículos 40-A a 40-T, nuevos:
 
 #### Artículo 40
 
@@ -860,35 +676,25 @@ En todo caso, se entenderá que las nuevas fórmulas tarifarias entrarán en vig
 
 #### Artículo 40
 
-T. Un reglamento fijará las materias necesarias para la debida y eficaz implementación de las disposiciones contenidas en el presente Párrafo.
+T. Un reglamento fijará las materias necesarias para la debida y eficaz implementación de las disposiciones contenidas en el presente Párrafo.".
 
-## Título VI
+37. Intercálase en el artículo 41, entre las palabras "propietarios" y la preposición "de" la siguiente expresión "y operadores".
 
-De la explotación
+38. Elimínase, en el artículo 42, la expresión "concesionarias de distribución"."
 
-#### Artículo 41°
+39. Modifícase el artículo 44 en el siguiente sentido:
 
-Es responsabilidad de los respectivos propietarios y operadores de la instalación de gas cumplir con las normas técnicas y reglamentos que se establezcan en virtud de esta ley. El no cumplimiento de estas normas o reglamentos podrá ser sancionado por la Superintendencia con multas o desconexión de las instalaciones correspondientes, o con ambas sanciones a la vez.
+a) Sustitúyese en el inciso primero la expresión "todo concesionario" por la expresión "toda empresa distribuidora y transportista de gas".
 
-#### Artículo 42°
+b) Reemplázase el inciso segundo por el siguiente:
 
-Si las empresas de gas cambiaren las especificaciones del suministro por su propia iniciativa, deberán adaptar por su cuenta a las nuevas condiciones las instalaciones interiores y artefactos a gas que estuvieren utilizando sus consumidores para hacer uso del suministro, o acordarán con sus consumidores una compensación, tomando en cuenta el estado de uso y servicio que tuvieren las instalaciones y artefactos que entonces estuvieren usando y las otras circunstancias pertinentes. Si no se pusieren de acuerdo, resolverá la cuestión la Superintendencia.
+"La Superintendencia podrá instruir a las empresas distribuidoras y transportistas de gas el cumplimiento de la obligación señalada en el inciso anterior, así como las medidas necesarias para su cumplimiento.".
 
-#### Artículo 43
+c) Sustitúyese en el inciso cuarto la expresión "Corte de Apelaciones respectiva" por la expresión "Superintendencia".
 
-Para las obras iniciales y las obras de ampliación importantes que así lo requieran, a juicio de la Superintendencia, las empresas de gas entregarán al servicio sus instalaciones después que esa repartición haya comprobado que han sido ejecutados correctamente, están dotados de los elementos necesarios para explotarlos en forma continua y en condiciones de seguridad y que cumplan con las normas de construcción y pruebas de ensayo vigentes en las empresas, de acuerdo con los reglamentos y aprobadas por la Superintendencia.
+d) Sustitúyese en el inciso final la frase "concesionarias de servicio público de distribución" por la expresión "distribuidoras y comercializadoras de gas.".
 
-#### Artículo 44
-
-Es deber de toda empresa distribuidora y transportista de gas mantener las instalaciones en buen estado y en condiciones de evitar peligros para las personas o cosas o interrupciones del servicio.
-
-La Superintendencia podrá instruir a las empresas distribuidoras y transportistas de gas el cumplimiento de la obligación señalada en el inciso anterior, así como las medidas necesarias para su cumplimiento.
-
-Si la explotación de un servicio público de distribución fuera en extremo deficiente, a causa de las condiciones de calidad del servicio de gas o debido a las condiciones de seguridad de las instalaciones de gas, según las normas expresas establecidas en esta ley o en sus reglamentos o en los decretos de concesión, el Ministro de Energía podrá autorizar a la Superintendencia para tomar las medidas necesarias a expensas del concesionario para asegurar provisionalmente el servicio público de distribución de gas.
-
-Si durante el plazo de tres meses, contado desde la organización del servicio provisional el concesionario no volviere a tomar a su cargo la explotación del servicio público de distribución, garantizando su buen funcionamiento, el Ministro de Energía solicitará a la Superintendencia respectiva que declare el incumplimiento grave a las obligaciones de la concesión. Declarado el incumplimiento grave, podrá el Presidente de la República decretar la caducidad de la concesión.
-
-En los reglamentos de esta ley se fijarán las condiciones de calidad del servicio de gas de las empresas distribuidoras y comercializadoras de gas.
+40. Reemplázase el artículo 45 por el siguiente:
 
 #### Artículo 45
 
@@ -904,158 +710,252 @@ La compensación regulada en este artículo se efectuará descontando las cantid
 
 Las compensaciones a que se refiere el presente artículo se abonarán al consumidor de inmediato, sin perjuicio del derecho de la empresa distribuidora de reclamar ante la Superintendencia la improcedencia de su obligación de pago y su monto, y de lo que se resuelva en las impugnaciones judiciales que se puedan interponer, ni de las acciones de repetición contra quienes finalmente resulten responsables, en cuyo caso y de existir diferencias, éstas deberán ser calculadas por la Superintendencia, la que instruirá el reintegro o devoluciones que correspondan.
 
-Lo señalado en el presente artículo no obsta la facultad de la Superintendencia de compeler a la empresa distribuidora a reponer el servicio de gas y de aplicar las sanciones que correspondan, en caso de interrupción o suspensión del servicio de gas a que se refieren el inciso primero.
+Lo señalado en el presente artículo no obsta la facultad de la Superintendencia de compeler a la empresa distribuidora a reponer el servicio de gas y de aplicar las sanciones que correspondan, en caso de interrupción o suspensión del servicio de gas a que se refieren el inciso primero.".
 
-## Título VII
+41. Modifícase el artículo 46 en el siguiente sentido:
 
-De la enajenación y gravámenes de propiedades y concesiones
+a) Sustitúyese en el inciso séptimo la expresión "Gobierno" por la palabra "Ministerio".
 
-#### Artículo 46
+b) Sustitúyese en el inciso final la palabra "Gobierno" por la expresión "Presidente de la República".
 
-Se otorga desde ahora a las empresas la autorización necesaria para enajenar definitivamente o dar en garantía, todos, cualquiera o cualesquiera de sus bienes; derechos y concesiones.
+42. Sustitúyese el epígrafe del Título VIII por el siguiente: "De la Fiscalización".
 
-Podrán también hipotecar y gravar en otra forma todas, cualquiera o cualesquiera de las concesiones, objeto de esta ley, conjuntamente con los bienes con que se explotan, en garantía de cualquier clase de obligaciones.
+43. Reemplázase en el artículo 47 la expresión "El control" por la expresión "La fiscalización".
 
-La emisión de bonos, vales, debentures y otras obligaciones de las empresas, con garantía o sin ella, podrán realizarse por el monto y en la forma, condiciones y plazos que sean permitidos por las leyes de los países en los cuales se otorguen los documentos, de acuerdo con los cuales se haga la emisión. Si las emisiones fueran garantidas con hipotecas o enajenaciones, el contrato de garantía se conformará también a las leyes del país en que se otorguen, pero deberá ser inscrito de acuerdo con las leyes chilenas.
+44. En el artículo 48:
 
-El dominio de las concesiones y sus transferencias e hipotecas se inscribirán sólo en el Registro del Conservador de Bienes Raíces que corresponda.
+a) Sustitúyese, en el número 2°, la expresión "que la experiencia aconsejare" por "legales y reglamentarias que correspondan".
 
-Podrán transferirse también las concesiones y las propiedades con que respectivamente se exploten para hacer con ellas o su producto el pago de obligaciones o proteger los derechos de los acreedores; y los acreedores podrán embargar dichas concesiones y propiedades para venderlas y pagarse con el producto de la venta.
+b) Sustitúyese, en los números 9° y 10, la expresión "los concesionarios" por "las empresas de gas".
 
-No obtante lo dicho en el párrafo anterior; ni los gravámenes ni las enajenaciones, ni las garantías, ni los embargos, podrán paralizar ni entorpecer el servicio público, ni el correcto y completo cumplimiento de las obligaciones de esta ley. Asímismo, en caso de enajenación total o parcial, el o los nuevos adquirentes estarán sujetos a las mismas obligaciones, de lo cual se dejará testimonio del respectivo instrumento.
+c) Incorpórase el siguiente numeral 14:
 
-Si los adquirentes no fueren chilenos o empresas chilenas organizadas en conformidad a las leyes del país, deberán, dentro de un plazo de seis meses, hacer las transferencias a personas o empresas que reunan estas condiciones, o someter a la aprobación del Ministerio los estatutos de una empresa organizada en conformidad a las leyes del país, a la cual deberán transferir, dentro de los 90 días siguientes a la organización definitiva de esta nueva empresa, todos los bienes, derechos y concesiones obtenidos en conformidad a esta ley.
+"14. Requerir a cualquier órgano de la Administración del Estado, municipalidades, y cualquier otro organismo público o privado, la información que estime necesaria para el ejercicio de sus funciones.".
 
-En caso de transferencia en garantía de las concesiones de que disfrutan las empresas, se tendrá como fecha de la transferencia, para los efectos de este artículo, la adquisición definitiva por los acreedores o terceros.
+45. Elimínase el artículo 49.
 
-Si vencieren los plazos mencionados sin que el adquirente haya cumplido las obligaciones que en el presente artículo se le imponen, el Presidente de la República podrá declarar la caducidad de las concesiones.
-
-## Título VIII
-
-De la Fiscalización
-
-#### Artículo 47
-
-La fiscalización y supervigilancia de la construcción y explotación de las empresas de gas establecidas o que se establezcan en el futuro, será ejercida por la Superintendencia.
-
-#### Artículo 48
-
-Corresponde a la Superintendencia ejercer las atribuciones que le confiere la presente ley y principalmente:
-
-1° Velar por el cumplimiento de las leyes vigentes o que en adelante se dicten sobre las instalaciones o servicios de gas, como asímismo sus reglamentos respectivos y decretos de concesión;
-
-2° Estudiar e intervenir en todas las cuestiones a que dé lugar la aplicación de dichas leyes y sus reglamentos para su ejecución y proponer las modificaciones legales y reglamentarias que correspondan;
-
-3° Vigilar las instalaciones y otorgar permisos para ejercer las funciones de instalador;
-
-4° Dictaminar sobre las solicitudes de concesión sobre servicios de gas;
-
-5° Intervenir en la entrega de las nuevas instalaciones de servicio público y autorizar estas entregas en casos de servicios particulares;
-
-6° Informar sobre las solicitudes relativas a tarifas y sus condiciones de aplicación, así como los reglamentos especiales de servicio que las empresas de gas deban someter a la aprobación de la Superintendencia;
-
-7° Verificar en conformidad a los reglamentos, las indicaciones de los aparatos destinados a medir un volumen de gas o cualquiera otra magnitud;
-
-8° Reglamentar y verificar la calidad de gas vendido al público;
-
-9° Atender las consultas del público y resolver los reclamos que se formulen contra las empresas de gas, en cuanto se relacione con el cumplimiento de las leyes y reglamentos vigentes;
-
-10. Imponer a las empresas de gas las multas autorizadas por esta ley y hacerlas efectivas por vía de apremio;
-
-11. Examinar y revisar las cuentas de las empresas para los efector de la presente ley;
-
-12. Formar anualmente la estadística de las empresas de gas del país;
-
-13. Formar un archivo completo de todos los antecedentes relativos a cada una de las empresas de gas del país.
-
-14. Requerir a cualquier órgano de la Administración del Estado, municipalidades, y cualquier otro organismo público o privado, la información que estime necesaria para el ejercicio de sus funciones.
-
-> **Nota.** NOTA: 2.- El artículo 1° del Decreto con fuerza de ley N 26, de 13 de abril de 1953 dispone que sin perjuicio de las atribuciones establecidas en el artículo 48 del presente D.F.L. 323, la Dirección General de Servicios Eléctricos y de Gas tendrá las siguientes facultades: a) Limitar, prohibir y en general reglamentar las demandas máximas y los consumos de energía eléctrica y de gas en las temporadas en que por cualquiera causa se presenten déficit de producción que impidan cubrir las demandas y los consumos de cualquier empresa eléctrica o de gas de servicio público. b) Fijar horarios de suministro de energía eléctrica y de gas a las diferentes categorías de consumidores durante las temporadas a que se refiere la letra anterior. c) Convenir con los industriales que posean plantas propias el funcionamiento de ellas durante las mismas temporadas y el pago de primas que le compensen del mayor precio de la energía producida por estas plantas. d) Dictar resoluciones sobre las materias indicadas en las letras a) y b) precedentes, aplicar multas y ordenar suspensiones de servicios por incumplimiento de estas resoluciones. Las multas no podrán ser inferiores a cien pesos ni superiores a cincuenta mil pesos por cada infracción, o bien se fijarán por kilowatt de demanda, por kilowatthora de energía, o por metro cúbico de gas con exceso sobre los valores fijados en las resoluciones, según el caso. e) Autorizar disminuciones de voltaje de frecuencia que excedan de las tolerancias reglamentarias durante las mismas temporadas.
-
-#### Artículo 49
-
-Eliminado
-
-#### Artículo 50°
-
-DEROGADO.-
-
-#### Artículo 51
-
-La Superintendencia se encuentra facultada para requerir de las empresas los datos que sean necesarios para habilitarla en sus funciones y cumplir los fines de esta ley.
+46. Reemplázase el artículo 52 por el siguiente:
 
 #### Artículo 52
 
-Los reclamos que cualquier interesado formule sobre los actos de las empresas de gas en contravención con la presente ley serán tramitados de acuerdo a lo dispuesto en la ley N° 18.410 y en los reglamentos respectivos.
+Los reclamos que cualquier interesado formule sobre los actos de las empresas de gas en contravención con la presente ley serán tramitados de acuerdo a lo dispuesto en la ley N° 18.410 y en los reglamentos respectivos.".
 
-> **Nota.** El numero 52, del Art. 1° de la Ley 20999, publicada el 09.02.2017, dispuso la sustitución las expresiones "Dirección" y "Dirección General de Servicios Eléctricos" por "Superintendencia en el presente articulo, sin embargo, este fue sustituido por el numeral 46 de la citada norma.
+47. Incorpórase en la denominación del Título IX, a continuación de la palabra "penales", la expresión "e infraccionales".
 
-## Título IX
+48. Modifícase el inciso primero del artículo 55 de la siguiente manera:
 
-Disposiciones penales e infraccionales
+a) Reemplázase la voz "autoridad" por "Superintendencia".
 
-#### Artículo 53°
+b) Sustitúyese la expresión "los concesionarios y" por "las empresas de gas y de los clientes o".
 
-El que intencionalmente obstruyere o deteriorare redes de transporte o de distribución de gas o ejecutare cualquier otro acto tendiente a interrumpir el transporte o servicio de gas, será castigado con presidio menor en su grado mínimo a medio. Si el hecho envolviere peligro para las personas, la sanción será de presidio menor en su grado medio a máximo.
+49. Sustitúyese en el artículo 56 la expresión "Los concesionarios" por "Las empresas de gas".
 
-#### Artículo 54°
-
-El que tuviere instalaciones clandestinas o conexiones directas o ejecutare otra acción fraudulenta destinada a sustraer gas directa o indirectamente, será castigado con presidio menor en su grado medio a máximo. En los casos de reiteración se impondrá al delincuente la pena en su grado máximo.
-
-El que interviniere o hiciere modificaciones en el medidor para alterar la correcta medición del gas será sancionado con la pena establecida en el artículo 473 del Código Penal.
-
-La reposición ilícita del suministro se sancionará con multa no inferior a una ni superior a diez Unidades Tributarias Mensuales, sin perjuicio de la obligación de pagar el consumo de gas.
-
-#### Artículo 55°
-
-La Superintendencia podrá adoptar las medidas que estime necesarias para la seguridad del público y el resguardo de los derechos de las empresas de gas y de los clientes o consumidores de gas, pudiendo requerir el auxilio de la fuerza pública para el cumplimiento de sus resoluciones, con facultades de allanamiento y descerrajamiento si fuere necesario.
-
-Todo ataque o resistencia violenta a los agentes o empleados de la Superintendencia en el desempeño de sus funciones será castigado con reclusión menor en su grado mínimo o multa entre diez y cien Unidades Tributarias Mensuales.
-
-#### Artículo 56
-
-Las empresas de gas son responsables de los actos u omisiones contrarios a la presente ley, sin que puedan declinar su responsabilidad en sus empleados.
+50. Reemplázase el inciso primero del artículo 57, por el siguiente:
 
 #### Artículo 57
 
 Toda infracción a esta ley será sancionada de acuerdo a ley N° 18.410, que crea la Superintendencia de Electricidad y Combustibles.
 
-Se considerará como infracción distinta el incumplimiento voluntario por parte de las empresas de gas de la orden que al efecto hubieren recibido de la Superintendencia para ajustarse a las disposiciones de esta ley o sus reglamentos.
+51. Suprímense los artículos 59 y 60.
 
-La interposición de acciones o recursos ante la Justicia Ordinaria no suspenderá la aplicación de las sanciones adoptadas por la autoridad administrativa.
+52. Sustitúyese en los artículos 25, 26, 43, 47, 48, 51 y 52 las expresiones "Dirección" y "Dirección General de Servicios Eléctricos" por "Superintendencia".
 
-#### Artículo 58°
+#### Artículo 2
 
-De las medidas, órdenes y sanciones adoptadas o aplicadas por la Superintendencia, el afectado podrá interponer recurso de reposición ante ella dentro del plazo de 7 días hábiles, contado desde que se le comunicó o notificó la medida, orden o sanción. De la resolución que niegue lugar a la reposición podrá apelarse ante la Corte de Apelaciones respectiva, dentro del plazo de cinco días hábiles contado desde la notificación de la resolución.
+Introdúcense en el decreto con fuerza de ley N°4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija texto refundido, coordinado y sistematizado de la Ley General de Servicios Eléctricos, en materia de energía eléctrica, las siguientes modificaciones:
 
-Si la Corte ordenare la ejecución de obras éstas deberán ejecutarse en el plazo que el mismo tribunal señale al dictar el fallo.
+1. En el artículo 209:
 
-La Corte podrá también autorizar a la Superintendencia para que tome, a costa de la empresa de gas, las medidas necesarias para que no se perjudique el servicio. En el caso de que las obras ordenadas por la Corte a una empresa concesionaria ésta no las ejecutare dentro del plazo fijado, podrá el Ministro de Energía solicitar de la Corte que declare el incumplimiento grave a las obligaciones de la concesión.
+a) Sustitúyese en su inciso primero la expresión "eléctrico" por "energético".
 
-Declarado el incumplimiento grave por la Corte, podrá el Presidente de la República decretar la caducidad de la concesión.
+b) Sustitúyese en su inciso segundo la expresión "Economía, Fomento y Reconstrucción" por "Energía".
 
-#### Artículo 59
+c) Intercálase en su inciso quinto, entre la expresión "energía eléctrica," y la expresión importadoras, "sean o no", la siguiente frase: "así como de empresas productoras, almacenadoras, regasificadoras, transportistas, distribuidoras y comercializadoras de gas,".
 
-Suprimido
+2. Sustitúyese en el inciso final del artículo 210 la expresión "eléctrico" por "energético".
 
-## Título X
+#### Artículo 3
 
-Disposiciones varias
+Introdúcense en el decreto con fuerza de ley N° 1, de 1978, del Ministerio de Minería, las siguientes modificaciones:
 
-#### Artículo 60
+1. Reemplázase el artículo segundo por el siguiente:
 
-Suprimido
+#### Artículo segundo
 
-#### Artículo 61
+Establécese un registro en el que los propietarios de las instalaciones que sirvan para producción, importación, refinación, transporte, distribución, almacenamiento, abastecimiento, regasificación o comercialicen combustibles derivados del petróleo, biocombustibles líquidos, gases licuados combustibles y todo fluido gaseoso combustible, como gas natural, gas de red y biogás deberán inscribirlas.
 
-Autorízase al Presidente de la República para dictar los reglamentos necesarios para la aplicación de la presente ley.
+No se entenderán incluidas en las actividades antes señaladas la explotación de depósitos naturales de petróleo y gas natural.
 
-#### Artículo 62
+La Superintendencia de Electricidad y Combustibles será el organismo responsable de establecer y mantener el citado registro.".
 
-Derógase la ley 4,794, de 23 de Enero de 1930.
+2. Suprímese el artículo tercero.
 
-#### Artículo 63
+3. Reemplázase el artículo cuarto por el siguiente:
 
-Esta ley comenzará a regir desde la fecha de su publicación en el Diario Oficial.
+#### Artículo cuarto
 
-Tómese razón, comuníquese, publíquese e insértese en el Boletín de Leyes y Decretos del Gobierno.- C. IBAÑEZ C.- C. O. Frodden.- R. Jaramillo.
+Cuando ocurra una transferencia o cambio en el dominio de los establecimientos, instalaciones y demás medios objeto de registro, será obligación del nuevo propietario registrar dicho evento en el Registro mencionado en el artículo segundo.
+
+Asimismo, cualquier modificación en las instalaciones deberá ser informada por el propietario a la Superintendencia.
+
+Finalmente, todo cierre de la instalación o término de servicio de la persona natural o jurídica que se dedicaba a alguna de las actividades mencionadas en el artículo segundo, deberá informarse a la Superintendencia.
+
+La Superintendencia de Electricidad y Combustibles será el organismo responsable de establecer los procedimientos de inscripción, modificación, cierre de instalaciones o cese de actividades, y de mantener el citado Registro.".
+
+4. Modifícase el artículo decimoquinto en los términos que siguen:
+
+a) Intercálase, a continuación de la frase "distribución de gas licuado", la expresión "por cilindros".
+
+b) Suprímese la frase "aprobado por decreto N° 3.707, de 1955, del Ministerio del Interior".
+
+5. Incorpóranse, a continuación del artículo decimoquinto, los siguientes artículos decimosexto y decimoséptimo:
+
+#### Artículo decimo
+
+sexto.- La exportación de gas natural requerirá ser informada al Ministerio de Energía, antes de la firma del contrato respectivo. El Ministerio de Energía podrá, en un plazo de treinta días hábiles, previo informe de la Comisión Nacional de Energía, prohibir la realización de dicha operación, siempre que ésta represente una amenaza al abastecimiento interno de gas, a la calidad y seguridad del servicio de distribución de gas natural a clientes o consumidores finales, o a la operación segura de los sistemas eléctricos nacionales.
+
+#### Artículo decimo
+
+séptimo.- En casos sobrevinientes de amenazas al abastecimiento interno de gas, a la calidad y seguridad del servicio de distribución de gas natural a clientes o consumidores finales, el Presidente de la República, previo informe del Ministerio de Energía, podrá dictar un decreto que suspenda, reduzca, limite o fije modalidades alternativas para continuar con la exportación de gas. Asimismo, dicho decreto dispondrá de las medidas que la autoridad estime conducentes y necesarias para manejar, disminuir o superar la situación que le dio origen, y principalmente para asegurar el suministro de clientes sujetos a regulación de precios.".
+
+#### Artículo 4
+
+Introdúcense las siguientes modificaciones en la ley N° 20.936, que establece un nuevo sistema de transmisión eléctrica y crea un organismo coordinador independiente del sistema eléctrico nacional:
+
+1. Incorpórase el siguiente inciso final en el artículo segundo transitorio:
+
+"Por su parte, tratándose del financiamiento del presupuesto del Panel de Expertos para el año 2017, y el procedimiento para su recaudación y pago, serán aplicables las disposiciones que esta ley modifica.".
+
+2. Agrégase el siguiente inciso segundo en el artículo tercero transitorio:
+
+"El presupuesto del Panel de Expertos para el año 2018, así como el procedimiento para su recaudación y pago, se regirán por lo dispuesto en los artículos 212 y 212-13. Corresponderá al Panel enviar el presupuesto anual a la Subsecretaría de Energía a más tardar el 30 de junio de 2017, para efectos de poder ser incorporado en las boletas o facturas emitidas a partir del mes de septiembre de 2017.".
+
+DISPOSICIONES TRANSITORIAS
+
+#### Artículo primero
+
+Los precios cobrados por los servicios de gas y servicios afines sujetos a tarifa garantizada en conformidad a lo establecido en el artículo 39 de esta ley, por las empresas de la Región de Magallanes y la Antártica Chilena, a la fecha de entrada en vigencia de esta ley, tendrán el carácter de máximos hasta la fecha de entrada en vigencia del decreto tarifario respectivo y se entenderán transitoriamente aplicables aquellos que estaban vigentes al 1 de septiembre de 2016. Estos precios máximos del servicio de gas y servicios afines se indexarán conforme a la variación mensual del Índice de Precio al Consumidor durante todo el período en que se apliquen.
+
+Las nuevas tarifas se aplicarán desde el momento en que comience a regir el nuevo decreto tarifario, y no implicarán en ningún caso una reliquidación que afecte las tarifas de gas a los clientes sujetos a tarifa garantizada en conformidad a lo establecido en el artículo 39 de la presente ley, en la Región de Magallanes y la Antártica Chilena.
+
+#### Artículo segundo
+
+Dentro de los sesenta días siguientes a la publicación en el Diario Oficial de la presente ley, la Comisión Nacional de Energía deberá dar inicio al proceso de tarificación del servicio de gas y servicios afines de la empresa distribuidora de gas de la Región de Magallanes y la Antártica Chilena, conforme a las normas contenidas en los artículos 38 y siguientes del decreto con fuerza de ley N° 323, de 1931, del Ministerio del Interior, Ley de Servicios de Gas, que esta ley incorpora y que le sean aplicables.
+
+Los plazos y condiciones dispuestos en los referidos artículos que deban ser contabilizados a partir de la vigencia de las tarifas respectivas y que requieran para su implementación la dictación de un reglamento, mientras el mismo no se encuentre vigente, deberán estar expresa y previamente contenidos en una resolución de la Comisión Nacional de Energía, a fin de dar cabal cumplimiento a lo dispuesto en el inciso anterior.
+
+#### Artículo tercero
+
+Antes del 31 de julio de 2017, la Comisión deberá emitir los informes técnicos preliminares que fijan la tasa de costo de capital y los bienes eficientes, sus vidas útiles, Valores Nuevos de Reemplazo con sus fórmulas de indexación, los indicadores de eficiencia y el plazo de amortización de los gastos de comercialización eficientes de la empresa concesionaria, que se aplicarán para el cuatrienio siguiente, señalados en los artículos 32 y 33 bis, respectivamente.
+
+Para estos efectos, las empresas concesionarias deberán informar a la Comisión, antes del 31 de enero de 2017, sus instalaciones de distribución del año calendario 2016, con su correspondiente VNR, ubicación de su red de distribución y de las demás instalaciones, demanda actual y proyectada dentro de cada zona de concesión, y todo otro antecedente que le sea solicitado por la Comisión y que sea necesario para la realización de los informes cuatrienales. En la misma oportunidad informarán su elección para el plazo de amortización de los gastos de comercialización eficientes asociados a la captación y conexión de nuevos clientes, el que en todo caso se aplicará para los gastos realizados desde la entrada en vigencia de la ley. En caso que la empresa concesionaria no comunique su decisión en el plazo fijado al efecto, los gastos de comercialización se amortizarán en cinco años.
+
+#### Artículo cuarto
+
+Los chequeos de rentabilidad económica correspondientes al ejercicio de los años calendario 2016 y 2017 se efectuarán en conformidad a las normas introducidas por ésta, en especial en los artículos 30 bis y siguientes, con las siguientes excepciones:
+
+1. Para el cálculo de los costos anuales de inversión de la empresa concesionaria se considerarán sólo aquellos bienes que sean estrictamente necesarios para la prestación del servicio público de distribución de gas, incluyendo los servicios afines que correspondan, sin aplicar correcciones por criterios de eficiencia.
+
+2. La tasa de costo de capital aplicable a estos dos chequeos de rentabilidad será la fijada mediante resolución por la Comisión y se encontrará incluida en el informe técnico para el primer cuatrienio a que se refiere el artículo 32 de la presente ley. Las componentes de premio por riesgo y riesgo sistemático de la tasa de costo de capital para estos dos años se determinará mediante la misma metodología utilizada para determinar la tasa de costo de capital del primer cuatrienio, pero considerando una fecha base de referencia de cálculo al 31 de diciembre de 2015. La tasa libre de riesgo de este primer chequeo de rentabilidad se determinará como el promedio de la tasa interna de retorno del instrumento que para estos efectos se defina, para el período de seis meses contado regresivamente desde noviembre de 2015. Asimismo, la tasa libre de riesgo para el segundo chequeo de rentabilidad se determinará como el promedio de la tasa interna de retorno del instrumento que para estos efectos se defina, para el período de seis meses contado regresivamente desde noviembre de 2016.
+
+#### Artículo quinto
+
+El primer chequeo de rentabilidad que se efectúe en conformidad a la presente ley, correspondiente al ejercicio del año calendario 2016, considerará, para efectos de determinar si una empresa concesionaria excedió la tasa máxima de rentabilidad establecida en la ley, únicamente el período correspondiente a dicho año. En este período la rentabilidad económica máxima a que se refiere el artículo 30 bis, de una empresa concesionaria podrá exceder en hasta cinco puntos porcentuales la tasa de costo de capital determinada en conformidad a lo dispuesto en el numeral 2 del artículo cuarto transitorio. En caso que el resultado de ese primer chequeo de rentabilidad determine que una empresa concesionaria sobrepasó la rentabilidad máxima, sólo procederá la devolución establecida en el artículo 31 bis, sin que deba iniciarse el proceso de fijación de tarifas a que hace referencia el artículo 31.
+
+Por su parte, el segundo chequeo de rentabilidad que se efectúe correspondiente al ejercicio del año calendario 2017, considerará sólo dos años para efectos de verificar dicha rentabilidad máxima, y en dicho período la rentabilidad económica máxima de una empresa concesionaria podrá exceder en hasta cuatro coma cinco puntos porcentuales el promedio simple de la tasa de costo de capital de los últimos dos años determinada en conformidad a lo dispuesto en el numeral 2 del artículo cuarto transitorio.
+
+Para el tercer chequeo de rentabilidad correspondiente al ejercicio del año calendario 2018, la tasa máxima de rentabilidad permitida para el trienio móvil precedente será de cuatro puntos porcentuales por sobre el promedio simple de los últimos tres años de la tasa de costo de capital. Finalmente, para el cuarto chequeo de rentabilidad dicha tasa máxima para el trienio móvil correspondiente será de tres coma cinco puntos porcentuales por sobre el promedio simple de los últimos tres años de la tasa de costo de capital.
+
+#### Artículo sexto
+
+Los gastos de comercialización eficientes asociados a la captación y conexión de nuevos clientes a los que se refiere el artículo 33 que hayan sido efectuados durante los últimos diez años anteriores a la vigencia de la presente ley, podrán ser considerados como gastos amortizables en un período de diez años contados desde su desembolso para efectos de los sucesivos chequeos de rentabilidad que se efectúen en conformidad a esta ley. Para estos efectos, las empresas concesionarias deberán informar el detalle de los gastos que efectivamente hayan desembolsado en cada uno de los diez años previos, acompañando una auditoría externa independiente, los que podrán ser revisados y corregidos por la Comisión para considerar sólo los gastos eficientes. De ser necesario, la Comisión podrá encargar una segunda auditoría, de costo de la empresa.
+
+#### Artículo séptimo
+
+En las zonas de concesión a la que se le aplique la rentabilidad económica máxima del artículo 30 bis, la tasa de actualización a considerar en la transformación a costos anuales de inversión del Valor Nuevo de Reemplazo de las redes construidas en nuevas zonas de servicio y de los demás bienes de la concesionaria asociados a estas expansiones, que entren en operación entre quince años previos y hasta en diez años posteriores a la vigencia de la ley será mayor en dos puntos porcentuales a la tasa de rentabilidad económica anual del concesionario, por un plazo de quince años desde la entrada en operación. Para estos efectos las empresas concesionarias deberán informar el detalle de los gastos que efectivamente hayan desembolsado en construcción de redes y otros bienes asociados a estas expansiones para cada uno de los quince años previos, acompañando una auditoría externa independiente, los que podrán ser revisados y corregidos por la Comisión para considerar sólo los gastos eficientes. De ser necesario, la Comisión podrá encargar una segunda auditoría de costo de la empresa concesionaria.
+
+#### Artículo octavo
+
+Increméntase la dotación consignada en la Ley de Presupuestos del Ministerio de Energía en 4 cupos, según la siguiente distribución:
+
+a) Comisión Nacional de Energía, en 3 cupos, y
+
+b) Superintendencia de Electricidad y Combustibles, en 1 cupo.
+
+#### Artículo noveno
+
+El mayor gasto que represente la aplicación de esta ley durante el primer año presupuestario de entrada en vigencia se financiará con cargo al presupuesto del Ministerio de Energía, y en lo que faltare el Ministerio de Hacienda podrá suplementarlo con cargo a la partida presupuestaria del Tesoro Público.
+
+#### Artículo décimo
+
+Las instalaciones de distribución o transporte que en conformidad al artículo 3 de la ley deban obtener una concesión y que al momento de publicación en el Diario Oficial de la presente ley no la hayan obtenido, tendrán ciento ochenta días a contar de dicha publicación para iniciar ante la Superintendencia el procedimiento al que se refieren los artículos 7 y siguientes de la ley.
+
+Artículo undécimo.- Las cláusulas de exclusividad, permanencia mínima o que dificulten o entorpezcan el término del contrato de servicio de gas residencial, cuya antigüedad sea superior a cinco años desde la fecha de publicación de la presente ley, no serán válidas en lo que excedan dicho plazo, pudiendo siempre el cliente o consumidor poner término libremente al contrato de servicio de gas una vez transcurrido dicho plazo.
+
+En caso que las cláusulas del inciso anterior estén contenidas en contratos de servicio de gas residencial celebrados con una antigüedad menor a cinco años desde la entrada en vigencia de la presente ley, los plazos serán válidos sólo hasta el período de tiempo que reste para cumplir con los cinco años de exclusividad o permanencia, o por el plazo menor que se hubiese pactado, a menos que se haya cumplido en el intertanto alguna condición contractual que habilitaba para darle término independientemente del plazo. Cumplido el plazo o condición según el caso, los clientes o consumidores podrán dar término al contrato libremente.
+
+Artículo duodécimo .- En caso que, al momento de la entrada en vigencia de la presente ley, la empresa concesionaria cuente con contratos de compra de gas suscritos con empresas de su mismo grupo empresarial o a personas o entidades relacionadas en los términos señalados en la ley N° 18.045, de Mercado de Valores, no aplicará a dichos contratos lo dispuesto en los incisos segundo y tercero del artículo 33 quinquies, determinándose el costo del gas asociado a tales contratos de acuerdo al presente artículo.
+
+Si la empresa concesionaria o las referidas empresas, personas o entidades relacionadas cuentan con acceso a instalaciones que permitan realizar importaciones de gas, tales como terminales marítimos de regasificación de gas natural licuado o gasoductos internacionales, la Comisión verificará que la gestión de compra de los contratos en cuestión sea económicamente eficiente, de acuerdo a las condiciones de mercado. Para estos efectos, la Comisión determinará el precio promedio proyectado de los contratos existentes con el mercado internacional, excluyendo los contratos de las referidas empresas, personas o entidades relacionadas asociadas al suministro de la propia concesionaria. En todo caso, se deberá considerar los contratos que presenten características similares a las que podría pactar la concesionaria, tales como plazo y volumen de gas contratado.
+
+Para determinar el precio promedio proyectado de los contratos existentes, la Comisión realizará una proyección de los precios de cada uno de los contratos existentes considerados para los cuarenta y ocho meses siguientes, en moneda de un mismo año, basada en la proyección de los indexadores contenidos en las fórmulas de precios, y estimará los volúmenes proyectados de gas para cada mes del correspondiente cuatrienio, sobre la base de la información entregada por los titulares de los respectivos contratos. El precio promedio proyectado de los contratos existentes corresponderá al promedio ponderado por volumen proyectado de cada uno de estos precios mensuales de los contratos considerados. Asimismo, se calculará el precio promedio proyectado de los contratos de la empresa concesionaria de acuerdo a la metodología anteriormente descrita, considerando sus propios contratos suscritos con empresas, personas o entidades relacionadas.
+
+Si el precio promedio proyectado de los contratos de la concesionaria no supera en más de un cinco por ciento el precio promedio proyectado de los contratos existentes, el costo del gas en cada punto de conexión corresponderá a lo efectivamente pagado por la empresa concesionaria de acuerdo al o los precios de compra de los contratos en cuestión. En caso contrario, se considerará para efectos del chequeo de rentabilidad que el costo del gas asociado a los contratos en cuestión corresponderá al producto entre el precio promedio de mercado evaluado en cada mes y el volumen de gas efectivamente comprado por la empresa concesionaria, para el año correspondiente al chequeo de rentabilidad. Para cada mes, el precio promedio de mercado corresponderá al promedio de los precios de los contratos existentes, excluyendo los suscritos por la propia empresa concesionaria con sus relacionadas, ponderado por el volumen de gas consumido en el respectivo mes.
+
+En caso que la empresa concesionaria y las referidas empresas, personas o entidades relacionadas no cuenten con acceso a instalaciones que permitan realizar importaciones de gas, el costo del gas al ingreso del sistema de distribución de la empresa concesionaria será valorizado al menor precio de compra del gas calculado en base a los contratos de importación de largo plazo existentes con el mercado internacional, incluyendo si corresponde los demás costos para llevar el gas hasta el ingreso del sistema de distribución, tales como transporte, almacenamiento y regasificación. Toda prórroga de la vigencia del contrato de suministro de gas de la empresa concesionaria con empresas, personas o entidades relacionadas se entenderá como un nuevo contrato para los efectos de lo dispuesto en el presente artículo.
+
+#### Artículo decimo
+
+tercero.- En caso que al momento de la entrada en vigencia de la presente ley, la empresa concesionaria cuente con contratos de compra de gas suscritos con empresas de su mismo grupo empresarial o a personas o entidades relacionadas en los términos señalados en la ley N° 18.045, de Mercado de Valores, no aplicará a dichos contratos lo dispuesto en los incisos tercero y cuarto del artículo 40-B, determinándose el VGISD asociado a tales contratos de acuerdo a lo establecido en este artículo.
+
+Si la empresa concesionaria o las referidas empresas, personas o entidades relacionadas cuentan con acceso a instalaciones que permitan realizar importaciones de gas, tales como terminales marítimos de regasificación de gas natural licuado o gasoductos internacionales, la Comisión verificará que la gestión de compra de los contratos en cuestión sea económicamente eficiente, de acuerdo a las condiciones de mercado. Para estos efectos, la Comisión determinará el precio promedio proyectado de los contratos existentes con el mercado internacional, excluyendo los contratos de las referidas empresas, personas o entidades relacionadas asociadas al suministro de la propia empresa concesionaria. En todo caso, se deberá considerar los contratos que presenten características similares a las que podría pactar el concesionario, tales como plazo y volumen de gas contratado.
+
+Para determinar el precio promedio proyectado de los contratos existentes, la Comisión realizará una proyección de los precios de cada uno de los contratos existentes considerados para los cuarenta y ocho meses del período tarifario correspondiente, en moneda de un mismo año, basada en la proyección de los indexadores contenidos en las fórmulas de precios, y estimará los volúmenes proyectados de gas para cada mes del correspondiente cuatrienio, sobre la base de la información entregada por los titulares de los respectivos contratos. El precio promedio proyectado de los contratos existentes corresponderá al promedio ponderado por volumen proyectado de cada uno de estos precios mensuales de los contratos considerados. Asimismo, se calculará el precio promedio proyectado de los contratos de la empresa concesionaria de acuerdo a la metodología anteriormente descrita, considerando sus propios contratos suscritos con empresas, personas o entidades relacionadas.
+
+Si el precio promedio proyectado de los contratos de la empresa concesionaria no supera en más de un cinco por ciento el precio promedio proyectado de los contratos existentes, el precio de compra del gas del VGISD asociados a los contratos en cuestión corresponderá a los precios de los contratos de compra de gas celebrados por la empresa concesionaria con sus relacionadas, considerando los volúmenes de gas contratados y sus condiciones de reajustabilidad. En caso contrario, se considerará que el precio de compra del gas del VGISD asociado a los contratos en cuestión corresponderá al promedio de los precios de los contratos existentes, excluyendo los suscritos por la propia empresa concesionaria con sus relacionadas, ponderados por el volumen de gas proyectado para cada año del cuatrienio. Asimismo, para este caso se determinará una fórmula de indexación del precio de compra del gas del VGISD para cada año del período tarifario, como el promedio de las fórmulas de indexación de cada uno de los contratos existentes considerados, ponderado por el volumen de gas proyectado de tales contratos en cada año.
+
+En caso que la empresa concesionaria y las referidas empresas, personas o entidades relacionadas no cuenten con acceso a instalaciones que permitan realizar importaciones de gas, el precio de compra del gas del VGISD será valorizado al menor precio de compra del gas calculado en base a los contratos de importación de largo plazo existentes con el mercado internacional, incluyendo su fórmula de indexación y si corresponde los demás costos para llevar el gas hasta el ingreso del sistema de distribución, tales como transporte, almacenamiento y regasificación. Toda prórroga de la vigencia del contrato de suministro de gas de la empresa concesionaria con empresas, personas o entidades relacionadas se entenderá como un nuevo contrato para los efectos de lo dispuesto en el presente artículo.
+
+#### Artículo decimo
+
+cuarto .- Para todos los efectos legales, se entenderá que todos los miembros del Panel de Expertos que estén en ejercicio de dicho cargo a la fecha de entrada en vigencia de la presente ley cumplen con la nueva exigencia establecida en el artículo 209 del decreto con fuerza de ley N° 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, Ley General de Servicios Eléctricos, en orden de contar con tres años de experiencia laboral mínima en materias técnicas, económicas o jurídicas del sector energético.
+
+#### Artículo decimo
+
+quinto .- Para los efectos de lo dispuesto en el artículo 33, las empresas concesionarias que no cuenten con registros de los valores efectivamente pagados por los derechos de uso del suelo, tales como los referidos a adquisición de terrenos, su uso y goce, servidumbres voluntarias o forzosas, entre otros, correspondientes a instalaciones de la red de distribución puestas en servicios hasta el 31 de diciembre de 2014, podrán acogerse al reconocimiento del 65% del valor fijado por ese concepto por la Comisión en el Informe de Chequeo de Rentabilidad Anual correspondiente al ejercicio del año calendario 2014, emitidos en enero de 2016.
+
+Para estos efectos, el representante legal de las respectivas empresas concesionarias deberá comunicar a la Comisión si ejercerán la opción señalada en el inciso anterior, dentro de los treinta días siguientes a la publicación de la presente ley. En caso que no se efectúe dicha comunicación en el plazo antes señalado, las instalaciones de distribución serán valorizadas en conformidad al procedimiento general indicado en el artículo 33 del decreto con fuerza de ley Nº 323, de 1931, del Ministerio de Interior, Ley de Servicios de Gas.
+
+#### Artículo decimo
+
+sexto .- Dentro del plazo de un año contado desde la publicación de la presente ley en el Diario Oficial, se deberán dictar los reglamentos que establezcan las disposiciones necesarias para su ejecución. Mientras los referidos reglamentos no entren en vigencia, dichas disposiciones se sujetarán en cuanto a los plazos, requisitos y condiciones a las disposiciones de esta ley y a las que se establezcan por resolución de la Comisión.
+
+La resolución a que hace referencia el inciso anterior, tendrá como plazo de vigencia máxima dieciocho meses contado desde la publicación de la presente ley en el Diario Oficial. En caso de requerir una prórroga por cuanto el reglamento que verse sobre el mismo contenido se encuentre en trámite, ésta deberá ser aprobada por resolución, indicando expresamente los fundamentos que ameritan la señalada prórroga y su plazo.
+
+#### Artículo decimo
+
+séptimo .- Facúltase al Presidente de la República para que, dentro del plazo de un año contado desde la publicación de esta ley, mediante uno o más decretos con fuerza de ley expedidos a través del Ministerio de Energía, introduzca en el decreto con fuerza de ley N° 323, de 1931, del Ministerio de Interior, Ley de Servicios de Gas, las adecuaciones y modificaciones de referencias, denominaciones, expresiones y numeraciones de artículos, que sean necesarias y procedentes a consecuencia de las disposiciones de esta ley y fije su texto refundido, coordinado y sistematizado.
+
+#### Artículo decimo
+
+ctavo .- Lo dispuesto en el nuevo artículo decimosexto del decreto con fuerza de ley N° 1, de 1978, del Ministerio de Minería, no se aplicará a los contratos de exportación de gas natural suscritos con anterioridad a la entrada en vigencia de la presente ley.".
+
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+
+Santiago, 31 de enero de 2017.- MICHELLE BACHELET JERIA, Presidenta de la República.- Andrés Rebolledo Smitmans, Ministro de Energía.- Rodrigo Valdés Pulido, Ministro de Hacienda.- Paula Narváez Ojeda, Ministra Secretaria General de la Presidencia (S).
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Loreto Cortés Alvear, Jefa División Jurídica (S), Subsecretaría de Energía.
+
+Tribunal Constitucional
+
+Proyecto de ley que modifica la Ley de Servicios de Gas y otras disposiciones legales que indica, correspondiente al boletín N° 9.890-08
+
+El Secretario del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control preventivo de constitucionalidad respecto del artículo 1 del proyecto de ley, en cuanto a la letra a) de su número 14, los incisos quinto y sexto del artículo 31 contenido en su número 27, y la c) de su número 39 y, que esta Magistratura, por sentencia 26 de enero de 2017, en el proceso Rol N° 3.301-16-CPR.
+
+Se declara:
+
+1°. Que son propias de ley orgánica constitucional y no contravienen la Constitución Política las disposiciones del proyecto de ley contenidas en el artículo 1, Nos 14, letra a), i); 27, incisos quinto y sexto del artículo 31 que reemplaza, y 39, letra c).
+
+2°. Que, por no versar sobre materias propias de ley orgánica constitucional, este Tribunal Constitucional no emite pronunciamiento, en examen preventivo de constitucionalidad, respecto de las disposiciones del proyecto de ley contenidas en el artículo 1, Nos 2, letra h), en la parte que agrega un numeral 20; 14, letra a), ii), iii) y iv); 24, en la parte que incorpora el artículo 29 quáter; 26, que intercala el artículo 30 bis; 29, que reemplaza el artículo 32; 31, en la parte que intercala los artículos 33 bis y 33 quáter; 36, en la parte que intercala los artículos 40 K, 40 M y 40 P; en el artículo 4°, Nos 1 y 2, y en el artículo decimocuarto transitorio.
+
+Santiago, 27 de enero de 2017.- Rodrigo Pica Flores, Secretario.

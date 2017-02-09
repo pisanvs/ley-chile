@@ -4126,15 +4126,15 @@ Podrán, asimismo, someterse al dictamen del Panel de Expertos las discrepancias
 
 #### Artículo 209º
 
-El panel de expertos estará integrado por siete profesionales, cinco de los cuales deberán ser ingenieros o licenciados en ciencias económicas, nacionales o extranjeros, y dos abogados, de amplia trayectoria profesional o académica y que acrediten, en materias técnicas, económicas o jurídicas del sector eléctrico, dominio y experiencia laboral mínima de tres años, designados por el Tribunal de Defensa de la Libre Competencia, mediante concurso público de antecedentes fundado en condiciones objetivas, transparentes y no discriminatorias. El concurso público para conformar el panel de expertos deberá también ser publicado, a lo menos, en un diario de cada región.
+El panel de expertos estará integrado por siete profesionales, cinco de los cuales deberán ser ingenieros o licenciados en ciencias económicas, nacionales o extranjeros, y dos abogados, de amplia trayectoria profesional o académica y que acrediten, en materias técnicas, económicas o jurídicas del sector energético, dominio y experiencia laboral mínima de tres años, designados por el Tribunal de Defensa de la Libre Competencia, mediante concurso público de antecedentes fundado en condiciones objetivas, transparentes y no discriminatorias. El concurso público para conformar el panel de expertos deberá también ser publicado, a lo menos, en un diario de cada región.
 
-El nombramiento de los integrantes así designados se efectuará mediante resolución del Ministerio de Economía, Fomento y Reconstrucción.
+El nombramiento de los integrantes así designados se efectuará mediante resolución del Ministerio de Energía.
 
 Los integrantes del panel de expertos ejercerán su función por seis años y podrán ser designados por un nuevo período, para lo cual deberán participar en el concurso señalado en el número anterior. La renovación de los integrantes se efectuará parcialmente cada tres años.
 
 Una vez constituido, el panel elegirá de entre sus integrantes, al experto que lo presidirá por los siguientes tres años. El quórum mínimo para sesionar será de cinco integrantes y los acuerdos se adoptarán por simple mayoría, decidiendo el voto del presidente en caso de empate.
 
-Es incompatible la función de integrante del panel con la condición de funcionario público y también con la calidad de director, gerente, trabajador dependiente, asesor independiente, o la condición de tenedor, poseedor o propietario de acciones o derechos, por sí o a través de una persona jurídica, de empresas generadoras, transmisoras, comercializadoras y distribuidoras de energía eléctrica, sean o no concesionarias, o de sus matrices, filiales o coligadas. Las personas que al momento de su nombramiento detenten cualquiera de dichas condiciones deberán renunciar a ella. Las limitaciones contenidas en este artículo se mantendrán hasta un año después de haber terminado el período del integrante de que se trate. En todo caso, el desempeño como integrante del panel es compatible con funciones y cargos docentes.
+Es incompatible la función de integrante del panel con la condición de funcionario público y también con la calidad de director, gerente, trabajador dependiente, asesor independiente, o la condición de tenedor, poseedor o propietario de acciones o derechos, por sí o a través de una persona jurídica, de empresas generadoras, transmisoras, comercializadoras y distribuidoras de energía eléctrica, así como de empresas productoras, almacenadoras, regasificadoras, transportistas, distribuidoras y comercializadoras de gas, sean o no concesionarias, o de sus matrices, filiales o coligadas. Las personas que al momento de su nombramiento detenten cualquiera de dichas condiciones deberán renunciar a ella. Las limitaciones contenidas en este artículo se mantendrán hasta un año después de haber terminado el período del integrante de que se trate. En todo caso, el desempeño como integrante del panel es compatible con funciones y cargos docentes.
 
 Los integrantes del panel deberán inhabilitarse de intervenir en las discrepancias que se sometieren a su conocimiento, en caso que incurran personalmente en alguno de los motivos de abstención contemplados en el artículo 12 de la ley N° 19.880, con excepción de su número 4, comunicándolo inmediatamente a las partes a través del secretario abogado. Sin perjuicio de ello, las partes podrán solicitar la inhabilitación directamente al panel de expertos, el que se pronunciará con exclusión del integrante cuya inhabilitación se solicita, previo informe del secretario abogado.
 
@@ -4152,7 +4152,7 @@ d) Las demás que señale el reglamento.
 
 El secretario abogado será designado por el Tribunal de Libre Competencia mediante un concurso público de antecedentes sujeto a las mismas condiciones establecidas para los integrantes del panel, permanecerá seis años en su cargo, pudiendo ser nombrado para un nuevo período y estará sujeto a las mismas incompatibilidades e inhabilidades señaladas en el artículo anterior.
 
-Los postulantes deberán estar en posesión del título de abogado y acreditar, en materias jurídicas del sector eléctrico, dominio y experiencia laboral mínima de dos años. El nombramiento se efectuará mediante resolución del Ministerio de Energía.
+Los postulantes deberán estar en posesión del título de abogado y acreditar, en materias jurídicas del sector energético, dominio y experiencia laboral mínima de dos años. El nombramiento se efectuará mediante resolución del Ministerio de Energía.
 
 #### Artículo 211º
 

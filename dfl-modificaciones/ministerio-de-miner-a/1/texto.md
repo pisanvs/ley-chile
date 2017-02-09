@@ -14,37 +14,35 @@ Derógase el decreto N° 20 del Ministerio de Minería, de 8 de Abril de 1964, y
 
 #### Artículo segundo
 
-Establécese un Registro en el que deberán inscribirse las personas que produzcan, importen, refinen, distribuyan, transporten, almacenen, abastezcan o comercialicen petróleo, combustibles derivados del petróleo, biocombustibles líquidos, gases licuados combustibles y todo fluido gaseoso combustible, como gas natural, gas de red y biogás.
+Establécese un registro en el que los propietarios de las instalaciones que sirvan para producción, importación, refinación, transporte, distribución, almacenamiento, abastecimiento, regasificación o comercialicen combustibles derivados del petróleo, biocombustibles líquidos, gases licuados combustibles y todo fluido gaseoso combustible, como gas natural, gas de red y biogás deberán inscribirlas.
 
 No se entenderán incluidas en las actividades antes señaladas la explotación de depósitos naturales de petróleo y gas natural.
 
-El Registro será llevado por la Superintendencia de Electricidad y Combustibles.
+La Superintendencia de Electricidad y Combustibles será el organismo responsable de establecer y mantener el citado registro.
 
 #### Artículo tercero
 
-La solicitud de Registro deberá contener los siguientes antecedentes:
-
-a) Nombre, nacionalidad y domicilio;
-
-b) Individualización completa de los Estatutos Sociales, si se trata de una persona jurídica;
-
-c) Fuentes de abastecimiento de los productos objeto del giro;
-
-d) Ubicación de los depósitos e instalaciones e individualización de los medios de transporte, en su caso.
+Suprimido
 
 #### Artículo cuarto
 
-Las transferencias o cambios en el dominio de los establecimientos, instalaciones y demás medios objeto de registro, como, asimismo, el aumento o disminución de éstos, deberán también registrarse en el Rol previsto en los artículos precedentes.
+Cuando ocurra una transferencia o cambio en el dominio de los establecimientos, instalaciones y demás medios objeto de registro, será obligación del nuevo propietario registrar dicho evento en el Registro mencionado en el artículo segundo.
+
+Asimismo, cualquier modificación en las instalaciones deberá ser informada por el propietario a la Superintendencia.
+
+Finalmente, todo cierre de la instalación o término de servicio de la persona natural o jurídica que se dedicaba a alguna de las actividades mencionadas en el artículo segundo, deberá informarse a la Superintendencia.
+
+La Superintendencia de Electricidad y Combustibles será el organismo responsable de establecer los procedimientos de inscripción, modificación, cierre de instalaciones o cese de actividades, y de mantener el citado Registro.
 
 #### Artículo quinto
 
-Por exigirlo el interés nacional, el Presidente de la República, por decreto supremo dictado a través del Ministerio de Economía, Fomento y Reconstrucción y publicado en el Diario Oficial, podrá imponer deberes y obligaciones determinados destinados a precaver todo hecho que cause o pueda causar daño a las personas o a la propiedad.
+Por exigirlo el interés nacional, el Presidente de la República, por decreto supremo dictado a través del Ministerio de Energía y publicado en el Diario Oficial, podrá imponer deberes y obligaciones determinados destinados a precaver todo hecho que cause o pueda causar daño a las personas o a la propiedad.
 
 Dichos deberes y obligaciones podrán versar sobre las modalidades con que deberán efectuarse las operaciones de descarga de combustibles desde camiones estanques a los depósitos o instalaciones para su venta al público; las condiciones que deban reunir las instalaciones y las características de los lugares en que se ubiquen; las medidas que deban adoptarse al tiempo de efectuar cada expendio; las condiciones de seguridad de los depósitos de almacenamiento, de los envases, conductos, cañerías u otros medios de traslado o de transporte y, en general, sobre cualquier clase de precauciones para prevenir o evitar todo peligro en la manipulación de tales elementos combustibles o inflamables.
 
 #### Artículo sexto
 
-Por decreto conjunto del Ministerio de Economía, Fomento y Reconstrucción, que deberá publicarse en el Diario Oficial, el Presidente de la República podrá declarar como normas oficiales nacionales, las normas técnicas y de Calidad Aplicables a los diversos tipos de petróleo, a los combustibles derivados de éste y a cualquiera otra clase de combustibles.
+Por decreto conjunto del Ministerio de Energía, que deberá publicarse en el Diario Oficial, el Presidente de la República podrá declarar como normas oficiales nacionales, las normas técnicas y de Calidad Aplicables a los diversos tipos de petróleo, a los combustibles derivados de éste y a cualquiera otra clase de combustibles.
 
 En la misma forma señalada en el inciso anterior podrán dictarse normas sobre comercialización de los productos allí señalados.
 
@@ -62,13 +60,13 @@ INCISO SEGUNDO ELIMINADO.
 
 #### Artículo octavo
 
-El régimen de precios de los productos objeto del presente decreto con fuerza de ley se sujetará, en todo, a lo previsto en la Ley Orgánica del Ministerio de Economía.
+Derogado
 
 #### Artículo noveno
 
-El Ministerio de Economía, Fomento y Reconstrucción podrá requerir las declaraciones y la documentación que sean necesarias para el ejercicio de sus atribuciones de las personas referidas en el artículo segundo de este decreto con fuerza de ley.
+El Ministerio de Energía podrá requerir las declaraciones y la documentación que sean necesarias para el ejercicio de sus atribuciones de las personas referidas en el artículo segundo de este decreto con fuerza de ley.
 
-Estas mismas personas están obligadas a facilitar las inspecciones o visitas que los funcionarios de los Servicios del Ministerio de Economía, Fomento y Reconstrucción y de la Superintendencia de Electricidad y Combustibles efectúen en cumplimiento de las atribuciones que les encomiende la ley, a exhibir y a proporcionar los antecedentes que estos les soliciten, en el acto mismo en que lo hagan o en el término que se estime necesario.
+Estas mismas personas están obligadas a facilitar las inspecciones o visitas que los funcionarios de los Servicios del Ministerio de Energía y de la Superintendencia de Electricidad y Combustibles efectúen en cumplimiento de las atribuciones que les encomiende la ley, a exhibir y a proporcionar los antecedentes que estos les soliciten, en el acto mismo en que lo hagan o en el término que se estime necesario.
 
 INCISO TERCERO ELIMINADO.
 
@@ -98,7 +96,15 @@ CUARTO Derogado
 
 #### Artículo decimo
 
-quinto: Las empresas de distribución de gas licuado y sus sistemas de operación comercial se regirán, en cuanto a dicha distribución, por las disposiciones del presente decreto con fuerza de ley, no siéndoles aplicables, en consecuencia, ni el régimen de concesiones establecido por el decreto con fuerza de ley N° 323, de 1931, sus modificaciones y su reglamento aprobado por decreto N° 3.707, de 1955, del Ministerio del Interior, ni las demás normas que las rijan que sean incompatibles con las del presente decreto con fuerza de ley o con las que se dicten en virtud de sus artículos 5° y 6°.
+quinto: Las empresas de distribución de gas licuado por cilindros y sus sistemas de operación comercial se regirán, en cuanto a dicha distribución, por las disposiciones del presente decreto con fuerza de ley, no siéndoles aplicables, en consecuencia, ni el régimen de concesiones establecido por el decreto con fuerza de ley N° 323, de 1931, sus modificaciones y su reglamento, ni las demás normas que las rijan que sean incompatibles con las del presente decreto con fuerza de ley o con las que se dicten en virtud de sus artículos 5° y 6°.
+
+#### Artículo decimo
+
+sexto.- La exportación de gas natural requerirá ser informada al Ministerio de Energía, antes de la firma del contrato respectivo. El Ministerio de Energía podrá, en un plazo de treinta días hábiles, previo informe de la Comisión Nacional de Energía, prohibir la realización de dicha operación, siempre que ésta represente una amenaza al abastecimiento interno de gas, a la calidad y seguridad del servicio de distribución de gas natural a clientes o consumidores finales, o a la operación segura de los sistemas eléctricos nacionales.
+
+#### Artículo decimo
+
+séptimo.- En casos sobrevinientes de amenazas al abastecimiento interno de gas, a la calidad y seguridad del servicio de distribución de gas natural a clientes o consumidores finales, el Presidente de la República, previo informe del Ministerio de Energía, podrá dictar un decreto que suspenda, reduzca, limite o fije modalidades alternativas para continuar con la exportación de gas. Asimismo, dicho decreto dispondrá de las medidas que la autoridad estime conducentes y necesarias para manejar, disminuir o superar la situación que le dio origen, y principalmente para asegurar el suministro de clientes sujetos a regulación de precios.
 
 DISPOSICIONES TRANSITORIAS
 
@@ -118,7 +124,7 @@ transitorio: No obstante lo dispuesto por el artículo 8°, en tanto se dicta la
 
 #### Artículo cuarto
 
-transitorio: La Empresa Nacional del Petróleo continuará proporcionando el personal y los medios materiales que a la fecha mantiene en el Ministerio de Economía, Fomento y Reconstrucción, en cumplimiento del artículo 47 del decreto N° 20, del Ministerio de Minería, de 1964, hasta que se fije la planta de dicho Ministerio. En todo caso, cesará la obligación impuesta a la Empresa Nacional del Petróleo el 30 de Junio de 1979.
+transitorio: La Empresa Nacional del Petróleo continuará proporcionando el personal y los medios materiales que a la fecha mantiene en el Ministerio de Energía, en cumplimiento del artículo 47 del decreto N° 20, del Ministerio de Minería, de 1964, hasta que se fije la planta de dicho Ministerio. En todo caso, cesará la obligación impuesta a la Empresa Nacional del Petróleo el 30 de Junio de 1979.
 
 #### Artículo quinto
 

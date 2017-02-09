@@ -1466,9 +1466,13 @@ El Coordinador no será continuador de las personas jurídicas o entidades que l
 
 Con anterioridad al 1 de enero de 2017, el Consejo Directivo podrá iniciar los trámites para la obtención del rol único tributario y de iniciación de actividades ante el Servicio de Impuestos Internos, o abrir cuentas corrientes bancarias y, en general, realizar cualquier trámite ante organismos públicos y privados que le permitan al Coordinador estar plenamente operativo a la fecha de inicio de sus funciones.
 
+Por su parte, tratándose del financiamiento del presupuesto del Panel de Expertos para el año 2017, y el procedimiento para su recaudación y pago, serán aplicables las disposiciones que esta ley modifica.
+
 #### Artículo tercero
 
 El presupuesto del Coordinador para el año 2018, será financiado de acuerdo a lo dispuesto en el artículo 212º-13. Para tal efecto, el cargo único por servicio público que se establece en dicho artículo, deberá ser incorporado en las boletas o facturas emitidas a partir del mes de septiembre de 2017.
+
+El presupuesto del Panel de Expertos para el año 2018, así como el procedimiento para su recaudación y pago, se regirán por lo dispuesto en los artículos 212 y 212-13. Corresponderá al Panel enviar el presupuesto anual a la Subsecretaría de Energía a más tardar el 30 de junio de 2017, para efectos de poder ser incorporado en las boletas o facturas emitidas a partir del mes de septiembre de 2017.
 
 #### Artículo cuarto
 
