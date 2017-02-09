@@ -9686,7 +9686,7 @@ Las sociedades de apoyo al giro deben enviar a esta Superintendencia para efecto
 
 Las sociedades de apoyo al giro se atendrán a lo dispuesto en el N° 9 del título II de este Capítulo, en lo que se refiere a la relación con sus bancos socios o accionistas, las filiales de éstos y las demás sociedades de apoyo al giro en que sus dueños participen.
 
-Sin embargo, no podrán ser directores de una sociedad de apoyo al giro cuyas funciones consistan en la administración y operación de Cámaras de Compensación de Alto Valor, los gerentes o empleados de un banco que sea accionista o socio de aquella.
+Sin embargo, no podrán ser directores de las sociedades de apoyo al giro que no tengan el carácter de filial de un banco y a su vez presten servicios vinculados a los sistemas de pago, los gerentes o empleados de una institución financiera que sea accionista o socia de aquella.
 
 ### 7. Restricciones en las inversiones de las sociedades de apoyo al giro
 
@@ -9807,6 +9807,8 @@ A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS
 - Operación de tarjetas de pago con provisión de fondos.
 
 - Efectuar la recaudación, administración y custodia de los recursos del Sistema Transantiago y demás actividades que debe ejecutar conforme a lo prescrito en el Contrato de Prestación de los Servicios Complementarios de Administración Financiera de los Recursos del Sistema de Transporte Público de Pasajeros de Santiago de 14 de diciembre de 2012, todo ello en el contexto de lo dispuesto por la Ley N°18.696 y sus posteriores modificaciones.
+
+- Administración y operación de una Cámara de Compensación de Pagos de Alto Valor, en concordancia con las disposiciones del Título II del Capítulo III.H.5, del Compendio de Normas Financieras del Banco Central de Chile.
 
 - Otros servicios vinculados a los sistemas de pagos.
 
