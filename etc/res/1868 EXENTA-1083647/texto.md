@@ -108,7 +108,7 @@ La aprobación del beneficio, corresponderá al Gerente de Administración y Fin
 
 2.- La operación de crédito reprogramada con una tasa de interés de Unidad de Fomento (UF) no superior a UF + 2% anual deberá:
 
-- Considerar un período de gracia para el pago de capital e interés de 6 cuotas desde la fecha de reprogramación a tasa de interés máxima de UF + 2% anual. Excepcionalmente, en caso de que al momento de la reprogramación de la operación le restaren 6 o menos cuotas pendientes por pagar, el deudor podrá renunciar al periodo de gracia antes mencionado, comenzando el pago del crédito reprogramado desde la cuota inmediatamente siguiente a la fecha de la reprogramación.
+- Considerar un período de gracia para el pago de capital e interés de 6 cuotas desde la fecha de la reprogramación, a tasa de interés máxima de UF + 2% anual. Sin embargo, el deudor podrá renunciar al período de gracia antes mencionado, comenzando el pago del crédito reprogramado desde la cuota inmediatamente siguiente a la fecha de la reprogramación
 
 - Los vencimientos del nuevo plan de pago generado por la reprogramación deberán considerar el día 5 de cada mes como fecha de vencimiento de cada una de las cuotas reprogramadas. Si esa fecha recayera en un día inhábil, el vencimiento se entenderá prorrogado al día hábil siguiente.
 
