@@ -54,6 +54,8 @@ f) Listado de personas responsables en la coordinación de los programas de acci
 
 4. Correo electrónico.
 
+Los plazos y condiciones establecidos en la resolución exenta número 8.561, citada en visto, deberán cumplirse a cabalidad por los respectivos centros de cultivo de salmónidos. No obstante, se autoriza a los referidos centros de cultivo de salmónidos, pertenecientes a una misma agrupación de concesiones, a presentar planes de acción coordinados ante una mortalidad masiva, pudiendo incorporar en dichos planes: plazos de retiro de mortalidades distintos a los establecidos en la resolución exenta número 8.561, citada en visto. El Servicio aprobará el plan de acción coordinado en la medida que se acredite fehacientemente que los plazos se modifican en razón de limitaciones geográficas, logísticas u otras. Por consiguiente, aquellos centros de cultivo que no presenten los planes de acción antes señalados, en coordinación con los otros centros de su agrupación, se les aplicarán derechamente los plazos establecidos en resolución exenta número 8.561, antes citada.
+
 #### Artículo segundo
 
 Los titulares de los centros de cultivo en operación o que vaya a sembrar ejemplares dentro del año 2016, deberá remitir una copia del Plan de Acción ante Mortalidades Masivas a la Dirección Regional del Servicio Nacional de Pesca y Acuicultura que corresponda según su ubicación y cumpliendo con los plazos establecidos en la siguiente tabla:
