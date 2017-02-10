@@ -190,9 +190,17 @@ Para estos efectos, se estiman aspectos sustanciales el cambio de Intermediario 
 
 El CAF, por la unanimidad de sus miembros asistentes y mediante acuerdo debidamente fundado, podrá modificar las normas referentes a las empresas o emprendedores, su financiamiento o cofinanciamiento, transferencias a los Intermediarios, y duración de sus Etapas, cuando algún sector económico, territorio o zona geográfica determinada así lo requiera.
 
-### 8. MANUALES DE INSTRUMENTOS
+8.- PAR - EMERGENCIA:
 
-El Gerente de Desarrollo Competitivo de CORFO, en uso de sus facultades, podrá dictar instrucciones de carácter general, en el marco del presente Reglamento, las que formarán parte de un Manual.
+Decretado un estado de catástrofe o de emergencia, producto de una calamidad pública, se podrán aprobar Proyectos, en la zona afectada por ella, con las siguientes particularidades:
+
+a.- En cuanto a los beneficiarios: Se amplía el rango de beneficiarios, comprendiendo, además de las ya señaladas, a todas aquellas personas naturales o personas jurídicas, con iniciación de actividades, que demuestren rentas líquidas imponibles o ventas netas anuales, en ambos casos, inferiores a UF 10.000 (diez mil unidades de fomento).
+
+Podrán, también, ser beneficiarias de este tipo de subsidio, las Organizaciones de Usuarios reguladas en el Código de Aguas y las sucesiones hereditarias que, cumpliendo los requisitos de ventas o rentas señaladas precedentemente, hayan conferido poder notarial a uno de los herederos para representarlos ante Corfo.
+
+No será aplicable para los beneficiarios la exigencia de no haber sido apoyado previamente con este instrumento, así como tampoco será contabilizado este apoyo a futuro.
+
+b.- En cuanto al financiamiento y/o cofinanciamiento: Se amplía el cofinanciamiento para el proyecto de inversión para cada beneficiario, el que podrá ser de hasta un 80% del total, con un monto máximo de $5.000.000.- (cinco millones de pesos).
 
 ### 9. VIGENCIA
 
