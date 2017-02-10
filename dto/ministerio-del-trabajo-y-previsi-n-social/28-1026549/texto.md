@@ -16,7 +16,7 @@ Apruébanse los siguientes componentes y líneas de acción, procedimientos, mod
 
 Objetivo del Programa:
 
-El Programa de Formación en el Puesto de Trabajo, en adelante el "Programa", tiene como objetivo generar acciones para facilitar la inserción laboral de las personas desempleadas, a través del desarrollo de iniciativas de capacitación destinadas a incrementar sus oportunidades para acceder al mercado del trabajo, mediante su contratación en las empresas que accedan al Programa, de acuerdo a la línea de acción que más adelante se detalla.
+El Programa de Formación en el Puesto de Trabajo, en adelante "El Programa", tiene como objetivo generar acciones para facilitar la inserción laboral de las personas desempleadas, o la conservación de la fuente laboral de los trabajadores ya contratados, a través del desarrollo de iniciativas de capacitación y/o de entrega de beneficios a empleadores de acuerdo con las líneas de acción que más adelante se indican.
 
 #### Artículo segundo
 
@@ -26,45 +26,45 @@ La asignación de los recursos del Programa se orientará a fomentar la contrata
 
 a) Hombres y mujeres, cesantes crónicos o
 
-desempleados que buscan trabajo por primera vez,
+desempleados que buscan trabajo por
 
-de entre 25 y 65 años de edad y que pertenezcan
+primera vez, de entre 25 y 65 años de
 
-al 60% de la población más vulnerable de acuerdo
+edad y que pertenezcan al 60% de la
 
-al instrumento de medición Ficha de Protección
+población más vulnerable de acuerdo al
 
-Social (FPS) u otro que lo reemplace.
+instrumento de calificación socioeconómica
 
-Se entenderá por cesantes crónicos a aquellas
+vigente.
 
-personas que cumplan copulativamente los
+Se entenderá por cesantes crónicos a
 
-siguientes requisitos:
+aquellas personas que cumplan
 
-1. Que acrediten su situación de desempleados,
+copulativamente los siguientes requisitos:
 
-por un mínimo de 12 (doce) meses de
+1. Que acrediten su situación de
 
-cesantía continuos, mediante la
+desempleados, por un mínimo de 12
 
-certificación de los últimos 12 (doce)
+(doce) meses de cesantía continuos,
 
-meses de cotizaciones previsionales, por la
+mediante la certificación de los
 
-entidad previsional que corresponda, o por
+últimos 12 (doce) meses de cotizaciones
 
-la Administradora de Fondos de Cesantía
+previsionales, por la entidad previsional
 
-(AFC), y
+que corresponda, o por la Administradora
 
-2. Que se encuentren inscritos en alguna
+de Fondos de Cesantía (AFC), y
 
-Oficina Municipal de Información Laboral
+2. Que se encuentren inscritos en la Bolsa
 
-(OMIL) o en la Bolsa Nacional de Empleo que
+Nacional de Empleo que establece la
 
-establece la ley Nº 19.728.
+ley Nº 19.728.
 
 Se entenderá que buscan trabajo por primera vez, aquellas personas que no se encuentran afiliadas a ninguna Administradora de Fondos de Pensiones o régimen antiguo, o que estando afiliadas, no registran cotizaciones.
 
@@ -112,11 +112,93 @@ trabajadores contratados en el mismo mes,
 
 pero del año anterior.
 
+c) Hombres y Mujeres, de entre 18 y 65 años de edad,
+
+siempre que se cumplan los siguientes requisitos
+
+copulativos:
+
+1. Que entre el empleador y el trabajador
+
+contratado no haya existido una relación
+
+laboral con posterioridad al último día
+
+del mes de abril de 2013.
+
+2. Que el empleador desarrolle la actividad
+
+económica de "Agricultura, Ganadería, Caza
+
+y Silvicultura", conforme la clasificación
+
+de actividad económica asignada por el
+
+Servicio de Impuestos Internos (SII).
+
+3. Que se trate de un contrato de trabajo a
+
+plazo fijo o por obra o faena, cuya duración
+
+mínima sea un mes, y
+
+4. Que el contrato de trabajo contemple una
+
+remuneración mensual de hasta el equivalente
+
+a 1,5 Ingreso Mínimo Mensual.
+
+d) Hombres y mujeres mayores de 18 años de edad que
+
+se encuentren desempleadas(os), o en riesgo de
+
+perder su fuente laboral, a consecuencia de
+
+alguna catástrofe que afecte a la zona
+
+determinada del país en que habitan.
+
+La situación de desempleo se acreditará
+
+mediante el respectivo finiquito o un certificado
+
+emitido por la Inspección del Trabajo
+
+respectiva. La determinación del riesgo de
+
+perder la fuente laboral será realizada por
+
+el Secretario Regional Ministerial del Trabajo
+
+y Previsión Social respectivo mediante informe
+
+fundado, en base al análisis de la destrucción
+
+o inutilización de infraestructura y/o capital
+
+de trabajo de la entidad empleadora
+
+respectiva. Copia de dicho informe deberá ser
+
+remitida al Subsecretario del Trabajo dentro
+
+de los dos días hábiles siguientes a su emisión.
+
+Todas las personas desempleadas que accedan al Programa deberán encontrarse inscritas en la Bolsa Nacional de Empleo, BNE.
+
 #### Artículo tercero
 
 Línea de Acción y Componentes:
 
+a) Línea Formación en el Puesto de Trabajo:
+
 Con cargo a los recursos del Programa se podrá otorgar a los respectivos empleadores que contraten a los beneficiarios indicados en el artículo precedente, una bonificación mensual de un 40%, de un ingreso mínimo mensual por trabajador, durante los primeros 6 meses de vigencia del contrato de trabajo, y de un 20% de un ingreso mínimo mensual por trabajador, durante los siguientes 6 meses, tendientes a compensar los costos de formación en la empresa. Si el contrato terminare anticipadamente, las bonificaciones sólo se devengarán por el período en que se mantenga vigente el contrato de trabajo.
+
+b) Línea Emergencia Laboral: Esta línea de acción será posible de implementar, si a consecuencia de una catástrofe en un territorio del país, las personas pierdan o corran el grave riesgo de perder su fuente laboral. Dicha situación será calificada por el Subsecretario del Trabajo, mediante resolución fundada visada por la Dirección de Presupuestos, como de emergencia laboral, determinando el número máximo de beneficiarios, el plazo de la bonificación y su porcentaje. Igualmente esta línea se podrá implementar si es declarado estado de excepción constitucional en alguna zona del país, y el Subsecretario del Trabajo realiza la calificación señalada anteriormente.
+
+Con cargo a los recursos del Programa se podrá otorgar a los empleadores una bonificación mensual de hasta el 80% de un ingreso mínimo mensual por trabajador, cuando contraten o mantengan vigente el contrato de trabajo a las personas indicadas en el artículo segundo letra d) anterior, de este decreto. La bonificación será exigible siempre que el contrato de trabajo tenga una duración mínima de un mes, y se encuentre vigente.
+
+Este beneficio tendrá una vigencia de un mes prorrogable hasta un máximo de nueve meses. Durante el primer mes, y en caso de prorrogarse, hasta por dos meses más, la bonificación máxima será del 80%, y de corresponder, en los meses siguientes, será de hasta un máximo del 60% de un ingreso mínimo mensual.
 
 Se bonificará a la empresa por un período hasta de 12 (doce) meses. Los contratos de trabajo deberán tener una duración mínima de 6 (seis) meses, los que podrán ser prorrogados por 6 (seis) meses más, recibiendo la bonificación a la que se refiere el inciso anterior, por el tiempo que reste para completar los 12 (doce) meses de bonificación que establece el Programa.
 
@@ -125,6 +207,10 @@ Los trabajadores(as) contratados(as) con cargo a esta línea deberán ser capaci
 Dicha capacitación será bonificada a la empresa por un monto de hasta 10 (diez) unidades tributarias mensuales y en las condiciones que mediante instrucciones generales fije el SENCE.
 
 El Director Nacional del SENCE establecerá, mediante resolución fundada, el valor y los mínimos de horas cronológicas de la capacitación, con el objeto que dicha actividad se ejecute bajo costos reales y apropiados.
+
+Con todo, no se aplicarán las reglas precedentes respecto de los beneficiarios establecidos en la letra c) del artículo segundo. Tratándose de estos últimos, podrá otorgarse al empleador con cargo a los recursos del Programa una bonificación mensual de hasta el 40%, de un ingreso mínimo mensual por trabajador contratado y por un período de hasta cuatro meses. De esta forma, en caso que el trabajador sea contratado con jornada menor a 45 horas semanales, el monto del subsidio se reducirá proporcionalmente a las horas trabajadas.
+
+La bonificación a que se refiere el inciso anterior, podrá ser percibida íntegramente por el mismo empleador o de manera parcial por empleadores distintos, pero en ningún caso se otorgarán más de cuatro meses de bonificación continuos o discontinuos respecto de un mismo trabajador. Sin embargo, si el contrato terminare anticipadamente, las bonificaciones sólo se devengarán por el período en que se mantenga vigente el contrato de trabajo.
 
 #### Artículo cuarto
 
@@ -155,6 +241,56 @@ Asimismo, el SENCE realizará las fiscalizaciones pertinentes, para verificar el
 Los Organismos Técnicos de Capacitación y las empresas deberán adoptar las medidas conducentes a permitir el libre acceso de los auditores y fiscalizadores del SENCE sin restricciones, prestando la colaboración que se requiera en este sentido.
 
 El SENCE supervisará el cumplimiento de los requisitos contemplados para el desarrollo del Programa, con el objeto de controlar su correcta ejecución. Lo anterior, sin perjuicio de las acciones de supervigilancia, auditoría o control que pudiere implementar directamente la Subsecretaría del Trabajo, según determine el Subsecretario del Trabajo.
+
+#### Artículo sexto
+
+bis: Presentación de antecedentes falsos:
+
+Las personas que participen en el programa y que presenten antecedentes falsos para la obtención de alguno de los beneficios que el mismo contempla, no podrán continuar participando en el mismo, sin perjuicio de la interposición de las demás acciones legales que resulten procedentes.
+
+#### Artículo séptimo
+
+Por el plazo de 3 meses, prorrogable por igual periodo, o por el tiempo que reste para el término de la vigencia de este artículo, serán beneficiarios del Programa los hombres y mujeres de entre 18 y 65 años de edad que se encuentren en riesgo de perder su fuente laboral o desempleadas desde el día 25 de marzo de 2015 a consecuencia de la catástrofe que asoló a la Región de Atacama y las comunas de Taltal y Antofagasta; y desde el día 24 de abril del presente, en el caso de la catástrofe que afectó la Provincia de Llanquihue, en la Región de Los Lagos, y en la comuna de Puerto Octay.
+
+La determinación del riesgo de perder la fuente laboral será realizada por el Secretario Regional Ministerial de Trabajo y Previsión Social respectivo mediante informe fundado, en base al análisis de la destrucción o inutilización de infraestructura y/o capital de trabajo de la entidad empleadora respectiva. Copia de dicho informe deberá ser remitido al Subsecretario del Trabajo dentro de los dos días hábiles siguientes a su emisión.
+
+Con cargo a los recursos del programa se podrá otorgar a los referidos empleadores una bonificación mensual por 3 meses de hasta el 80% de un ingreso mínimo mensual por trabajador contratado. En caso de prorrogarse el contrato por otros 3 meses, o por el tiempo que reste para el término de la vigencia de este artículo, la bonificación será de hasta el 60% de un ingreso mínimo mensual. La bonificación será exigible siempre que el contrato de trabajo que dé origen al beneficio tenga una duración mínima de 3 meses. Si el contrato terminare anticipadamente, la bonificación respectiva sólo se devengará por el periodo en que se mantenga vigente el contrato de trabajo, asimismo no será aplicable a estos beneficiarios lo dispuesto en los incisos tercero, cuarto y quinto del artículo tercero del presente decreto.
+
+Con todo, la aplicación de este artículo no podrá exceder de 3.000 trabajadores contratados.
+
+En lo que sea contradictorio con lo establecido en este artículo, se aplicará lo establecido en los artículos 4º, 5º y 6º anteriores.
+
+El presente artículo entrará en vigencia desde la fecha de total tramitación del acto administrativo que lo incorpora al presente decreto por un periodo máximo de 6 meses.
+
+#### Artículo octavo
+
+Por el plazo de 4 meses, o por el tiempo que reste para el término de la vigencia de este artículo, serán beneficiarios del Programa los hombres y mujeres mayores de 18 años de edad que se encuentren en riesgo de perder su fuente laboral o desempleadas desde el día 7 de agosto de 2015 a consecuencia de la catástrofe que asoló a las localidades de Tongoy y Guanaqueros de la Comuna de Coquimbo.
+
+La determinación del riesgo de perder la fuente laboral será realizada por el Secretario Regional Ministerial de Trabajo y Previsión Social respectivo mediante informe fundado, en base al análisis de la destrucción o inutilización de infraestructura y/o capital de trabajo de la entidad empleadora respectiva. Copia de dicho informe deberá ser remitido al Subsecretario del Trabajo dentro de los dos días hábiles siguientes a su emisión.
+
+Con cargo a los recursos del programa se podrá otorgar a los referidos empleadores una bonificación mensual por 3 meses de hasta el 80% de un ingreso mínimo mensual por trabajador contratado. En caso de prorrogarse el contrato, por el tiempo que reste para el término de la vigencia de este artículo, la bonificación será de hasta el 60% de un ingreso mínimo mensual. La bonificación será exigible siempre que el contrato de trabajo que dé origen al beneficio tenga una duración mínima de 3 meses. Si el contrato terminare anticipadamente, la bonificación respectiva sólo se devengará por el periodo en que se mantenga vigente el contrato de trabajo, asimismo no será aplicable a estos beneficiarios lo dispuesto en los incisos tercero, cuarto y quinto del artículo tercero del presente decreto.
+
+Con todo, la aplicación de este artículo no podrá exceder de 500 trabajadores contratados.
+
+En lo que sea contradictorio con lo establecido en este artículo, se aplicará lo establecido en los artículos 4º, 5º y 6º anteriores.
+
+El presente artículo entrará en vigencia desde la fecha de total tramitación del acto administrativo que lo incorpora al presente decreto y la mantendrá hasta el 31 de diciembre del año 2015.
+
+#### Artículo noveno
+
+Por el plazo de 3 meses, o por el tiempo que reste para el término de la vigencia de este artículo, serán beneficiarios del Programa los hombres y mujeres mayores de 18 años de edad que se encuentren en riesgo de perder su fuente laboral o desempleadas desde el día 17 de septiembre de 2015 a consecuencia de la catástrofe que asoló a la Región de Coquimbo.
+
+La determinación del riesgo de perder la fuente laboral será realizada por el Secretario Regional Ministerial del Trabajo y Previsión Social respectivo mediante informe fundado, en base al análisis de la destrucción o inutilización de infraestructura y/o capital de trabajo de la entidad empleadora respectiva. Copia de dicho informe deberá ser remitido al Subsecretario del Trabajo dentro de los dos días hábiles siguientes a su emisión.
+
+Con cargo a los recursos del programa se podrá otorgar a los referidos empleadores una bonificación mensual por 3 meses de hasta el 80% de un ingreso mínimo mensual por trabajador contratado. En caso de prorrogarse el contrato por el tiempo que reste para el término de la vigencia de este artículo, la bonificación será de hasta el 60% de un ingreso mínimo mensual. La bonificación será exigible siempre que el contrato de trabajo que dé origen al beneficio tenga una duración mínima de 3 meses. Si el contrato terminare anticipadamente, la bonificación respectiva sólo se devengará por el periodo en que se mantenga vigente el contrato de trabajo, asimismo no será aplicable a estos beneficiarios lo dispuesto en los incisos tercero, cuarto y quinto del artículo tercero del presente decreto.
+
+Con todo, la aplicación de este artículo no podrá exceder de 1.200 trabajadores contratados.
+
+En lo que sea contradictorio con lo establecido en este artículo, se aplicará lo establecido en los artículos 4°, 5°y 6° anteriores.
+
+El presente artículo entrará en vigencia desde la fecha de total tramitación del acto administrativo que lo incorpora al presente decreto y la mantendrá hasta el 31 de diciembre de 2015.
+
+> **Nota.** El artículo único del Decreto 14, Trabajo, publicado el 06.05.2016, modifica la presente norma en el sentido de entrar nuevamente en vigencia por un plazo de tres meses contados desde la fecha de publicación de la citada norma.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Evelyn Matthei Fornet, Ministra del Trabajo y Previsión Social.
 
