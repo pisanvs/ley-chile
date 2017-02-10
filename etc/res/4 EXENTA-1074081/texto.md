@@ -720,8 +720,6 @@ Comuna Ancud:
 
 . Pulelo
 
-. Pullinque
-
 . Punta Chilén
 
 . Quetalmahue
