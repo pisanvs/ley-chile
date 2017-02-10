@@ -33,3 +33,5 @@ Apruébase el informe de precios de referencia de las sustancias metálicas y no
 Anótese, comuníquese y publíquese en el Diario Oficial y en el sitio web de la Institución.- Luis Maturana Villablanca, Fiscal (S).
 
 Lo que transcribo a usted para su conocimiento y fines a que haya lugar.- Jorge Catallopts Araya, Secretario del Consejo (S).
+
+..
