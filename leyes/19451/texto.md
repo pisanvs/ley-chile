@@ -24,7 +24,33 @@ Dichos establecimientos deberán llevar un registro de las actividades a que se 
 
 Las personas cuyo estado de salud lo requiera tendrán derecho a ser receptoras de órganos.
 
-Toda persona mayor de dieciocho años será considerada, por el solo ministerio de la ley, donante de sus órganos una vez fallecida, a menos que en vida haya manifestado su voluntad de no serlo en alguna de las formas establecidas en esta ley.
+Toda persona mayor de dieciocho años será considerada, por el solo ministerio de la ley, como donante de sus órganos una vez fallecida, a menos que hasta antes del momento en que se decida la extracción del órgano, se presente una documentación fidedigna, otorgada ante notario público, en la que conste que el donante en vida manifestó su voluntad de no serlo. El notario deberá remitir dicha información al Servicio de Registro Civil e Identificación para efectos del Registro Nacional de No Donantes, según lo establezca el reglamento respectivo.
+
+En caso de existir duda fundada respecto de la calidad de donante, se deberá consultar en forma previa sobre la extracción de uno o más órganos del fallecido, por orden de prelación, a las siguientes personas:
+
+a) El cónyuge que vivía con el fallecido o la persona que convivía con él en relación de tipo conyugal.
+
+b) Cualquiera de los hijos mayores de 18 años.
+
+c) Cualquiera de los padres.
+
+d) El representante legal, el tutor o el curador.
+
+e) Cualquiera de los hermanos mayores de 18 años.
+
+f) Cualquiera de los nietos mayores de 18 años.
+
+g) Cualquiera de los abuelos.
+
+h) Cualquier pariente consanguíneo hasta el cuarto grado inclusive.
+
+i) Cualquier pariente por afinidad hasta el segundo grado inclusive.
+
+Se entenderá por duda fundada el hecho de presentar ante el médico encargado del procedimiento documentos contradictorios o la existencia de declaraciones diferentes de las personas enunciadas en el inciso anterior.
+
+Para los efectos de su intervención en el procedimiento de trasplantes, la enumeración precedente constituye orden de prelación, de manera que la intervención de una o más personas pertenecientes a una categoría excluya a las demás comprendidas en la misma categoría y en las categorías siguientes.
+
+En el caso de que varias personas se encuentren en igualdad de condiciones para la recepción de un órgano, el hecho de no estar inscrito en el Registro de No Donantes deberá tomarse en cuenta para priorizarlo respecto del que sí lo está.
 
 #### Artículo 3°
 
@@ -38,7 +64,7 @@ No podrán facilitarse ni divulgarse informaciones que permitan identificar al d
 
 Asimismo, los familiares del donante no podrán conocer la identidad del receptor, ni el receptor o sus familiares la del donante y, en general, queda prohibida cualquier difusión de información que pueda relacionar directamente la extracción con el ulterior injerto o implantación.
 
-Esta prohibición no afectará a los directamente interesados en una donación entre personas vivas.
+Esta prohibición no afectará a los directamente interesados en una donación entre personas vivas, a excepción del mecanismo de donación de órganos establecido en los artículos 4° bis y 4° ter.
 
 La información relativa a donantes y receptores de órganos humanos será recogida, tratada y custodiada en la más estricta confidencialidad y se considerará un dato sensible, conforme a lo dispuesto en la ley N° 19.628, sobre protección de la vida privada.
 
@@ -46,9 +72,9 @@ La información relativa a donantes y receptores de órganos humanos será recog
 
 De la extracción de órganos a donantes vivos
 
-#### Artículo 4º
+#### Artículo 4°
 
-Sólo se permitirá la extracción de órganos en vida con fines de trasplante entre personas relacionadas, conforme a lo dispuesto en el artículo siguiente, y siempre que se estime que razonablemente no causará un grave perjuicio a la salud del donante y existan perspectivas de éxito para conservar la vida o mejorar la salud del receptor. Esta extracción siempre deberá practicarse previo informe positivo de aptitud física.
+La extracción de órganos en vida con fines de trasplante, conforme a lo dispuesto en los artículos 4° bis y 4° ter, sólo se realizará cuando se estime que razonablemente no causará un grave perjuicio a la salud del donante y existan perspectivas de éxito para conservar la vida o mejorar la salud del receptor. Esta extracción siempre deberá practicarse previo informe positivo de aptitud física.
 
 El reglamento establecerá los órganos que podrán ser objeto de extracción en estos casos
 
@@ -56,7 +82,29 @@ El reglamento establecerá los órganos que podrán ser objeto de extracción en
 
 La extracción de órganos en vida con fines de trasplante sólo se permitirá en personas capaces mayores de dieciocho años y cuando el receptor sea su pariente consanguíneo o por adopción hasta el cuarto grado, o su cónyuge, o una persona que, sin ser su cónyuge, conviva con el donante.
 
+Asimismo, se permitirá la extracción de órganos en vida con fines de trasplante cuando el donante sea una persona capaz, mayor de dieciocho años, y se ofrezca voluntariamente y en forma altruista para la extracción y donación en vida. En este caso, el órgano extraído tendrá como destino ser trasplantado a la persona que corresponda y esté incluida en el registro nacional de potenciales receptores de órganos a cargo del Instituto de Salud Pública de Chile, con el propósito de conservar su vida o mejorar su salud.
+
+Para los efectos dispuestos en los incisos anteriores, se deberán cumplir, además, los requisitos siguientes:
+
+1.- En el momento de la donación, el donante no debe pertenecer al registro nacional de no donantes a que se refiere el artículo 2º bis.
+
+2.- El donante debe expresar su consentimiento por escrito, en forma libre e informada, y debe encontrarse en pleno goce de sus facultades, lo que deberá ser certificado por dos médicos especialistas en salud mental, sin perjuicio de cumplir con la certificación dispuesta en el artículo 5º.
+
+3.- La donación se efectuará al registro nacional de potenciales receptores de órganos, según lo dispuesto en el inciso anterior.
+
 El consentimiento del donante no puede ser sustituido ni complementado, pudiendo siempre ser revocado, hasta el instante mismo de la intervención quirúrgica, mientras conserve capacidad para expresar su voluntad, caso en el cual la extracción no será practicada.
+
+#### Artículo 4° ter
+
+En los casos que no existan condiciones médicas favorables para el trasplante de órganos entre las personas mencionadas en el inciso primero del artículo anterior, se permitirá la donación cruzada de órganos. Se entiende por donación cruzada aquella que se realiza entre parejas donante-receptor que se encuentren en la situación descrita y estén inscritas en un registro nacional de parejas donante-receptor, en el Instituto de Salud Pública, como responsable del listado nacional de potenciales receptores de órganos.
+
+#### Artículo 4° quáter
+
+El reglamento elaborado por el Ministerio de Salud establecerá las normas para la organización y funcionamiento del registro de parejas donante-receptor y del registro de donantes altruistas, el cual tendrá por objetivo facilitar la búsqueda de parejas biológicamente compatibles entre sí y aplicar criterios de priorización para los trasplantes.
+
+#### Artículo 4°
+
+quinquies.- La información relativa a donantes y receptores de las modalidades establecidas en los artículos 4° bis y 4° ter será tratada y custodiada con estricta confidencialidad y será considerada como dato sensible conforme a lo dispuesto en la ley Nº 19.628, sobre Protección de la Vida Privada.
 
 #### Artículo 5°
 
@@ -86,37 +134,7 @@ Derogado
 
 #### Artículo 9°
 
-Las personas mayores de dieciocho años podrán, en forma expresa, renunciar a su condición de donantes de sus órganos para trasplantes con fines terapéuticos.
-
-La renuncia podrá manifestarse en cualquier momento ante el Servicio de Registro Civil e Identificación. Asimismo, al obtener o renovar la cédula de identidad o la licencia de conducir vehículos motorizados. De lo anterior se dejará constancia en dichos documentos.
-
-Las municipalidades informarán de inmediato al referido Servicio la individualización de aquellos que hayan renunciado a ser donantes.
-
-En caso de duda fundada sobre la renuncia de su condición de donante o la vigencia de ésta, deberá requerirse a las siguientes personas, en el orden preferente que a continuación se indica, siempre que estén presentes al momento de tomar la decisión, para que den testimonio sobre la última voluntad del causante:
-
-a) El cónyuge que vivía con el fallecido o la persona que convivía con él en relación de tipo conyugal;
-
-b) Cualquiera de los hijos mayores de 18 años;
-
-c) Cualquiera de los padres;
-
-d) El representante legal, el tutor o el curador;
-
-e) Cualquiera de los hermanos mayores de 18 años;
-
-f) Cualquiera de los nietos mayores de 18 años;
-
-g) Cualquiera de los abuelos;
-
-h) Cualquier pariente consanguíneo hasta el cuarto grado inclusive;
-
-i) Cualquier pariente por afinidad hasta el segundo grado inclusive.
-
-En caso que existan contradicciones en los testimonios de las personas que se encuentren en el mismo orden o no sea posible requerir este testimonio a ninguna de ellas dentro de un plazo razonable para realizar el trasplante, atendidas las circunstancias, se estará a lo establecido en el inciso segundo del artículo 2° bis.
-
-La relación con el donante y el testimonio de su última voluntad serán acreditados, a falta de otra prueba, mediante declaración jurada que deberá prestarse ante el director del establecimiento asistencial o ante quien éste delegue dicha función, en los términos señalados en el inciso segundo del artículo 6°.
-
-En todo caso, la renuncia a ser donante podrá expresarse en cualquier momento antes de la extracción de los órganos, sin sujeción a formalidad alguna, ante el director del establecimiento asistencial en que estuviere internado o ante quien éste delegue dicha función o ante alguno de los facultativos que lo estuvieren atendiendo.
+Derogado
 
 #### Artículo 10
 
