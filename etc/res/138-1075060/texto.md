@@ -38,7 +38,7 @@ Para los efectos del siguiente Programa, se entenderá por:
 
 a) Comité de Capital de Riesgo: En adelante indistintamente "CCR". Comité de CORFO creado en virtud del Artículo 7º del DFL 211, de 1960, de la Corporación, que tiene a su cargo el desarrollo de los Programas de Capital de Riesgo de la Corporación de Fomento de la Producción.
 
-b) Patrimonio de una empresa: Se entenderá como patrimonio de la empresa lo consignado en la cuenta respectiva del balance de la empresa receptora, el que deberá acreditarse mediante un certificado de Auditores Externos consignando el cumplimiento de dicha condición, cuando el Balance no se encuentre auditado. Para empresas de menos de un año de antig&amp;uuml;edad se tendrá como su patrimonio el capital estatutario, sin considerar el aumento estatutario de capital necesario para la materialización de la inversión del Fondo.
+b) Patrimonio de una empresa: Se entenderá como patrimonio de la empresa lo consignado en la cuenta respectiva del balance de la empresa receptora, el que deberá acreditarse mediante un certificado de Auditores Externos consignando el cumplimiento de dicha condición, cuando el Balance no se encuentre auditado. Para empresas de menos de un año de antigüedad se tendrá como su patrimonio el capital estatutario, sin considerar el aumento estatutario de capital necesario para la materialización de la inversión del Fondo.
 
 c) Tasa de interés BCU 10 años: Tasa informada cada día hábil bancario por la Asociación de Bancos e Instituciones Financieras de Chile A.G., conforme al Reglamento de las Tasas Bancarias Nominales, CERO, BCP y BCU, cuyo Texto refundido fue acordado en sesión de Directorio de la Asociación de Bancos e Instituciones Financieras de Chile A.G, el día 23 de junio del año 2005, y que pretende reflejar el promedio de las tasas de interés de compra y venta de este tipo de papeles en el mercado secundario.
 
@@ -58,23 +58,33 @@ Adicionalmente, los recursos del Fondo podrán invertirse en bonos, efectos de c
 
 i) Para efectos de lo dispuesto en el presente Programa, son empresas de etapas tempranas tecnológicas, y por lo tanto empresas elegibles para invertir los recursos del Fondo las que se enmarquen dentro de la definición de etapas tempranas tecnológicas señalada anteriormente, y que cumplan los siguientes requisitos copulativos:
 
-- Aquella cuyas ventas no excedan las UF 5.000.- anuales al momento
+- Aquella cuyas ventas no excedan las UF 5.000.-
 
-de la primera inversión concretada con recursos del Fondo.
+anuales al momento de la primera inversión concretada
 
-- Que posea una antig&amp;uuml;edad no superior a los 36 meses,
+con recursos del Fondo.
 
-contados desde la fecha de inicio de actividades en el Servicio
+- Que no hayan transcurrido más de 36 meses desde la
 
-de Impuestos Internos.
+emisión de la primera factura o boleta de ventas
 
-- En el caso que la empresa tenga un Controlador o pertenezca a un
+o servicios, al momento de la solicitud del
 
-Grupo Empresarial, el controlador o el grupo empresarial
+desembolso de la línea de crédito de Corfo,
 
-respectivo, deberán contar con un promedio anual de ingresos
+para materializar la inversión del Fondo en la
 
-percibidos o devengados por ventas y servicios no superiores a
+empresa
+
+- En el caso que la empresa tenga un Controlador o
+
+pertenezca a un Grupo Empresarial, el controlador
+
+o el grupo empresarial respectivo, deberán contar
+
+con un promedio anual de ingresos percibidos o
+
+devengados por ventas y servicios no superiores a
 
 las UF 600.000.-, los últimos tres años comerciales.
 
@@ -238,7 +248,7 @@ b) Si hubiere transcurrido el plazo de dos años, contado desde la expiración d
 
 ### 6. Formalización y desembolso de los créditos
 
-Los Fondos a los que se les comunique por carta y/o correo electrónico la aprobación de la Línea con cargo a este Programa, deberán suscribir con CORFO, en un plazo que no podrá superar los 90 días corridos contados desde la total tramitación de la resolución que ejecuta el Acuerdo del Comité de Capital de Riesgo que autorizó la respectiva Línea, desde la comunicación, salvo que se otorgue una prórroga por el CCR de hasta 30 días adicionales, y previo a la primera solicitud de desembolso; un Contrato de Apertura de Línea de Crédito, mediante escritura pública, que regulará las condiciones y obligaciones derivadas de la utilización de los recursos respectivos.
+Los Fondos a los que se les comunique por carta y/o correo electrónico la aprobación de la Línea con cargo a este Programa, deberán suscribir con Corfo un Contrato de Apertura de Línea de Crédito, en un plazo que no podrá superar los 90 días corridos contados desde la comunicación de la total tramitación de la resolución que ejecuta el Acuerdo del Comité de Capital de Riesgo que autorizó la respectiva Línea, cuyo plazo podrá prorrogarse por el Comité hasta por 30 días adicionales. El Contrato de Apertura de Línea de Crédito se formalizará mediante escritura pública previo a cualquier solicitud de desembolso, y regulará las condiciones y obligaciones derivadas de la utilización de los recursos respectivos.
 
 A partir de la fecha del Contrato de Apertura de Línea de Crédito, el Fondo tendrá derecho a solicitar desembolsos con cargo a esa Línea para financiar las inversiones o préstamos en empresas elegibles, hasta completar el monto que resulte de aplicar la razón deuda capital considerada en la respectiva postulación, salvo que haya operado lo dispuesto en el numeral 3.3, en el que se aplicará la razón fijada por el Comité de Capital de Riesgo, a la suma de los aportes enterados en dinero efectivo al Fondo.
 
@@ -258,17 +268,13 @@ CORFO efectuará los desembolsos en una cuenta corriente a nombre del Fondo de I
 
 En dicho plazo, CORFO podrá solicitar aclaraciones y antecedentes adicionales, relativos a la elegibilidad de la empresa receptora final de la inversión y su formalización, en acuerdo con estas Normas. El plazo de diez días mencionado se extenderá en el número de días que se demore la Administradora en dar respuesta satisfactoria a dichos requerimientos de información.
 
-7. Plazos para realizar las inversiones con cargo a la Línea en las empresas receptoras finales de los recursos de los Fondos.
+7. Plazo para realizar las inversiones con cargo a la Línea en las empresas receptoras finales de los recursos de los Fondos.
 
-Dentro de un plazo máximo de 24 meses, contado desde la fecha del Contrato de Apertura de Línea de Crédito, el Fondo deberá haber acreditado las inversiones finales con cargo a ella, por un monto no inferior al 40% de la Línea de Crédito aprobada por el Comité de Capital de Riesgo.
+Dentro de un plazo máximo de 60 meses, contado desde la fecha de celebración del Contrato de Apertura de Línea de Crédito, el Fondo deberá haber acreditado las inversiones finales con cargo a ella, por un monto no inferior al 60% de la Línea de Crédito aprobada por el Comité de Capital de Riesgo.
 
-Vencido ese plazo sin haber ocurrido lo anterior, el monto no utilizado de dicho 40% se considerará caducado para todos los efectos legales.
+Vencido el plazo sin haber ocurrido lo anterior, el monto no utilizado de dicho 60% se considerará caducado para todos los efectos legales.
 
-Cumplidos 48 meses, contados desde la fecha del Contrato de Apertura de Línea de Crédito, el Fondo deberá haber acreditado las inversiones finales con cargo a ella, por un monto no inferior al 80% de la Línea de Crédito aprobada por el Comité de Capital de Riesgo, menos los eventuales montos caducados, derivados de lo establecido en los dos párrafos anteriores.
-
-Vencido este plazo sin haber ocurrido lo anterior, el saldo no utilizado, determinado según lo señalado, se considerará caducado para todos los efectos legales.
-
-En caso de haber sido modificado el monto de la Línea de Crédito, al tenor de lo dispuesto por los numerales 3.1, 3.2 y 3.3 de la presente normativa, el cómputo de los plazos y montos caducados se realizará respecto de la línea de crédito originalmente autorizada por el Comité de Capital de Riesgo.
+En caso de haber sido modificado el monto de la Línea de Crédito, al tenor de lo dispuesto en los numerales 3.1, 3.2 y 3.3 de la presente normativa, el cómputo del plazo y monto caducado se realizará respecto de la línea de crédito originalmente autorizada por el Comité de Capital de Riesgo.
 
 ### 8. Obligación de información a CORFO
 
@@ -444,7 +450,7 @@ e) Reglamento Interno del Fondo Protocolizado o en Borrador.
 
 f) Copia del Acta de la Sesión de Directorio en la que se acuerde la creación del Fondo de Inversión.
 
-g) Copia de los últimos tres estados financieros de la Administradora, en los casos que corresponda, por antig&amp;uuml;edad.
+g) Copia de los últimos tres estados financieros de la Administradora, en los casos que corresponda, por antigüedad.
 
 h) Plan de Negocios del Fondo con los contenidos señalados en el numeral anterior.
 
@@ -502,7 +508,7 @@ d. Estrategias y proceso de desinversión.
 
 ### IV. Operación de la Administradora:
 
-a. Copia de los últimos tres estados financieros de la Administradora, en los casos que corresponda, por antig&amp;uuml;edad;
+a. Copia de los últimos tres estados financieros de la Administradora, en los casos que corresponda, por antigüedad;
 
 b. Experiencia en administración de fondos de terceros;
 
