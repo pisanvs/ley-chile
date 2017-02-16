@@ -98,6 +98,14 @@ El plazo establecido en el inciso anterior se contará desde la publicación del
 
 El plazo establecido en el inciso anterior se contará desde la fecha del acto administrativo que incorpora este numeral al presente decreto.
 
+15.- Por el plazo de 3 meses, prorrogable por una sola vez por resolución fundada del Subsecretario de Trabajo, no serán exigibles a los beneficiarios del Programa Inversión en la Comunidad de la Subsecretaría del Trabajo que habiten en cualesquiera de las Comunas de la Región del Maule o en las provincias de Colchagua y Cardenal Caro de la Región de O'Higgins, los requisitos establecidos en las letras c), d), e) y f) del numeral N° 2 del presente decreto.
+
+Sin perjuicio de lo anterior, para la incorporación de beneficiarios al Programa, la Subsecretaría del Trabajo deberá verificar que dichas personas tengan aplicada la ficha básica de emergencia (FIBE), a que se refiere el decreto supremo N° 156, de 2002, del Ministerio del Interior y Seguridad Pública y que de acuerdo a éste se hayan visto afectados por la catástrofe ocurrida en las zonas señaladas.
+
+El plazo establecido en el párrafo anterior se contará desde la fecha del acto administrativo que incorpora este numeral.
+
+> **Nota.** El artículo único de la Resolución 1933, Trabajo, publicado el 09.10.2015, modifica la presente norma en el sentido de prorrogar a contar del 18 de agosto de 2015, y por el período de tres meses contados desde esa fecha, la vigencia del numeral 14.
+
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Claudia Serrano Madrid, Ministra del Trabajo y Previsión Social.
 
 Lo que transcribo a usted para su conocimiento, Mauricio Jélvez Maturana, Subsecretario del Trabajo.
