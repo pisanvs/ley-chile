@@ -1,4 +1,4 @@
-RECONOCE CENTRO DE PRODUCCIÓN MICRO PARADOX, PARA EL ENVIO DE PLANTAS DE NOGAL PARADOX (JUGLANS REGIA X JUGLANS HINDSII), DESDE EL ESTADO DE CALIFORNIA, ESTADOS UNIDOS DE NORTEAMÉRICA A CHILE
+RECONOCE CENTRO DE PRODUCCIÓN MICRO PARADOX INC, PARA EL ENVIO DE PLANTAS DE NOGAL DE LAS ESPECIES QUE INDICA.
 
 Núm. 10.162 exenta.- Santiago, 30 de diciembre de 2015.
 
@@ -54,9 +54,7 @@ Considerando:
 
 Resuelvo:
 
-1. Reconócese la siguiente instalación registrada y aprobada por la Autoridad Fitosanitaria de los Estados Unidos de Norteamérica para la producción de plantas dormantes de portainjertos clonales de nogal paradox, verificada en conjunto por el SAG, USDA/APHIS, CDFA y SCDA, cuya información se detalla en el cuadro siguiente:
-
-.
+1. Reconócese el Centro de Producción Micro Paradox Inc., ubicado en 3556 Sankey Road de Pleasant Grove, Estado de California, registrado y aprobado por la Autoridad Fitosanitaria de los Estados Unidos de Norteamérica para la producción y envío de plantas clonales dormantes de nogal Paradox (Juglans regia x Juglans hindsii) y RX1 (Juglans regia x Juglans microcarpa) hacia Chile, el cual fue verificado in situ por el SAG en conjunto con USDA/APHIS, CDFA y SCDA.
 
 2. Las siguientes medidas implementadas en el Centro de Producción, deben ser mantenidas durante toda la etapa de sombreadero:
 
@@ -100,9 +98,15 @@ d. El total de las plantas a muestrear establecido por la tabla, deberá ser env
 
 e. Para el caso de nematodos, se deberá realizar un solo análisis a partir de la muestra constituida del total del sustrato obtenido de cada una de las plantas muestreadas.
 
-6. Para su ingreso al país, el envío de plantas dormantes de nogal paradox deberá estar amparado por un Certificado Fitosanitario Oficial, presentado en original, emitido por la autoridad fitosanitaria del país de origen, indicando la siguiente declaración adicional:
+6. Para su ingreso al país, el envío de plantas clonales dormantes de nogal provenientes del Centro de Producción Micro Paradox Inc., deberá estar amparado por un Certificado Fitosanitario Oficial, presentado en original, emitido por la autoridad fitosanitaria del país de origen, indicando las siguientes declaraciones adicionales:
 
-"Las plantas dormantes provienen de la empresa Micro Paradox Inc., reconocida oficialmente por SAG-Chile, encontrándose libres de Brevipalpus lewisi, Tetranychus pacificus, Euzophera semifuneralis, Hyphantria cunea, Chrysobothris mali, Quadraspidiotus juglansregiae, Parlatoria oleae, Parthenolecanium pruinosum, Epiphyas postvittana, Brenneria rubrifaciens, Xylella fastidiosa, Cherry leaf roll virus, Phytophthora cambivora, Xiphinema americanum sensu stricto y Xiphinema americanum sensu lato (excepto poblaciones chilenas)".
+Juglans regia x Juglans hindsii:
+
+"Las plantas provienen del Centro de Producción Micro Paradox Inc., reconocido oficialmente por SAG Chile, y cumplen con las medidas de manejo del riesgo establecidas para: Brevipalpus lewisi, Tetranychus pacificus, Euzophera semifuneralis, Hyphantria cunea, Chrysobothris mali, Quadraspidiotus juglansregiae, Parlatoria oleae, Parthenolecanium pruinosum, Epiphyas postvittana, Brenneria rubrifaciens, Xylella fastidiosa, Cherry leaf roll virus, Phytophthora cambivora, Xiphinema americanum sensu stricto y Xiphinema americanum sensu lato (excepto poblaciones chilenas)".
+
+Juglans regia x Juglans microcarpa:
+
+"Las plantas provienen del Centro de Producción Micro Paradox Inc., reconocido oficialmente por SAG Chile, y cumplen con las medidas de manejo del riesgo establecidas para: Archips argyrospila, Brevipalpus lewisi, Tetranychus pacificus, Euzophera semifuneralis, Hyphantria cunea, Quadraspidiotus juglansregiae, Parlatoria oleae, Parthenolecanium pruinosum, Epiphyas postvittana, Brenneria rubrifaciens, Xylella fastidiosa, Cherry leaf roll virus, Phytophthora cambivora, Xiphinema americanum sensu stricto y Xiphinema americanum sensu lato (excepto poblaciones chilenas)".
 
 7. El período de vigencia del reconocimiento del Centro de Producción Micro Paradox Inc., tendrá una validez de dos años y podrá ser prorrogado en base a informes con evaluación positiva enviados por USDA/APHIS anualmente, y los resultados de las inspecciones fitosanitarias del SAG en el punto de ingreso.
 
