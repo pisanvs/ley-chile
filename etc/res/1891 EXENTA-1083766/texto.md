@@ -140,9 +140,9 @@ CORFO, durante la evaluación del proyecto, podrá ajustar el monto total antes 
 
 Se verificará que el proyecto cumpla con los requisitos reglamentarios respecto de los objetivos, del beneficiario y costos de administración si corresponde, además de los siguientes aspectos:
 
-a) Nivel de ventas
+a) Nivel de ventas:
 
-Empresas cuyas ventas netas anuales sean superiores a UF 10.000.- (diez mil unidades de fomento) y no excedan de UF 100.000.- (cien mil unidades de fomento).
+Empresas cuyas ventas netas anuales sean superiores a UF 2.400.- (dos mil cuatrocientas Unidades de Fomento) y no excedan de UF 100.000.- (cien mil Unidades de Fomento).
 
 b) Tipo de proyectos
 
