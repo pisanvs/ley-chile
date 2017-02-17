@@ -104,7 +104,7 @@ Características y estándares técnicos
 
 La prueba respiratoria evidencial es una toma de muestra que permite medir la cantidad de masa de alcohol en un volumen de aire espirado, realizada por Carabineros a una persona, con un etilómetro evidencial certificado por el Ministerio de Transportes y Telecomunicaciones.
 
-Para los fines indicados en el inciso anterior, los etilómetros evidenciales deberán contar con a lo menos dos principios analíticos diferentes para la medición de la cantidad de masa de alcohol en un volumen de aire espirado, los que podrán ser infrarrojo, celda electroquímica u otros.
+Para los fines indicados en el inciso anterior, los etilómetros evidenciales deberán contar con a lo menos un principio analítico para la medición de la cantidad de masa de alcohol en un volumen de aire espirado, el que podrá ser infrarrojo, celda electroquímica u otros.
 
 Adicionalmente, dichos equipos deberán poseer un sistema que evite la condensación u otra alteración durante todo el proceso de la toma de muestra, de modo tal de evitar distorsiones de la medición.
 
