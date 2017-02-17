@@ -28,7 +28,7 @@ Resolución:
 
 1. Delégase en la Jefatura de la División de Sanción y Cumplimiento, el ejercicio de la facultad de dictar las resoluciones y los demás actos administrativos que se establecen a continuación:
 
-a) Eliminado.
+a) Solicitar al denunciante antecedentes, de conformidad con el artículo 31 de la Ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado, y tener por desistida la denuncia, cuando el denunciante no cumpla con el apercibimiento de dicha norma.
 
 b) Remitir los antecedentes a la autoridad que deba conocer según el ordenamiento jurídico, en aquellos casos en que la Superintendencia no sea competente para intervenir, informando para ello, al interesado, según lo prescrito en el artículo 14 de la Ley Nº 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado.
 
@@ -69,6 +69,8 @@ s) Eliminado.
 t) Eliminado.
 
 u) Eliminado.
+
+Las facultades indicadas en los literales a), b), c), d) y e) antes señaladas sólo podrán ser ejercidas respecto de las denuncias que hayan sido ingresadas a la Superintendencia con anterioridad a la dictación de la resolución exenta N° 40 de 20 de enero de 2017, de esta Superintendencia.
 
 2. Se deja constancia que, para el aseguramiento de la continuidad del Servicio, el presente acto administrativo comenzará a regir de inmediato y de manera previa a su publicación en el Diario Oficial de la República.
 
