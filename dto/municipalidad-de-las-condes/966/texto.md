@@ -12,89 +12,79 @@ Rectifícase la fecha de publicación del plano seccional PS-V-01; de detalle de
 
 Rectifícase la fecha del decreto alcaldicio sección 1º Nº 3.193 de "25 de junio de 2007" por la de "25 de julio de 2007".
 
-1.2 Suprímase en el numeral 4, inciso primero la expresión "o calles de menos de 15 m. entre líneas oficiales" y la expresión "que formen parte de dichas vías"; reemplázase la expresión "y de 5,0 metros en los demás casos" por la frase ", de 5,0 metros en los demás casos y el existente cuando se trate de ampliaciones de vivienda unifamiliar".
+1.2 Derogado.
 
-1.3 Reemplázase en el numeral 4 el inciso segundo por el siguiente: "Los proyectos con subsidio estatal o municipal, de viviendas, ampliación de viviendas y de equipamiento no requerirán de antejardín.".
+1.3 Derogado.
 
-1.4 En el numeral 21, que modifica el artículo 32, en su número 2, agrégase la siguiente letra c) nueva: "c) Clase Servicios, Actividad de oficinas hasta 200 m2: 1 estacionamiento cada 30 m2.".
+1.4 Derogado.
 
-1.5 En el numeral 21, que modifica el artículo 32, elimínase la letra h).
+1.5 Derogado.
 
-1.6 En el numeral 22, que modifica el artículo 34 en la letra c) a continuación del inmueble individualizado como "Casa en calle Asturias 400" señálase el siguiente texto: "Casa en camino Otoñal Nº 1218".
+1.6 Derogado.
 
-1.7 En el numeral 25, que modifica el artículo 38, letra b) que fija el incremento de la medida de antejardines, rectifícase en el cuadro lo siguiente:
+1.7 Derogado.
 
-.
+1.8 Derogado.
 
-1.9 En el numeral 25, que modifica el artículo 38, letra b) que fija el incremento de la medida de antejardines, agréganse en el cuadro las siguientes calles:
+1.9 Derogado.
 
-A continuación de la vía Alicante, rectifícase el cuadro, incluyéndose la fila siguiente:
+1.10 Derogado.
 
-.
+1.11 Derogado.
 
-1.10 Reemplázase en el numeral 25, que modifica el artículo 38, el inciso final de la letra b), por el siguiente: "Los proyectos de servicios municipales con destino equipamiento de la clase salud, educación o recreacional deportivo y de vivienda o ampliación de viviendas con subsidio municipal, podrán adicionar hasta un 0.3 a los coeficientes señalados en la tablas de densificación aplicables, previo informe favorable del Asesor Urbanista.".
+1.12 Derogado.
 
-1.11 En el numeral 25, que modifica el artículo 38, letra g),1. En el acápite número 1, letra e) Reemplázace la Tabla C) por la siguiente:
+1.13 Derogado.
 
-"Los proyectos que se emplacen en el área delimitada por la Avda. Charles Hamilton por el norte, Avda. Francisco de Asís por el oriente, Avda. Francisco Bulnes Correa por el sur y Avda. República de Honduras, límite oriente de las áreas Ee3 y Ee1 y su prolongación hasta interceptar la Avda. Charles Hamilton por el límite del terreno de la Fundación Cultural Las Condes, se regirán por las normas señaladas en la siguiente tabla:
+1.14 Derogado.
 
-.
+1.15 Derogado.
 
-1.12 En el numeral 25, que modifica el artículo 38, letra g), 8. En el acápite número 8, reemplázace la letra b) por la siguiente: "b) En la Tabla B) reemplázace la expresión "Antejardín mínimo" por "Antejardín", la expresión "Distanciamiento a medianero" por "Distanciamiento" y la expresión "Servicios Profesionales" por "Servicios".
+1.16 Derogado.
 
-1.13 En el numeral 25, que modifica el artículo 38, letra g), 14. En el acápite número 14, letra g), inciso 1º, reemplázase la expresión "Avda. Presidente Riesco" por "Avda. Isidora Goyenechea"; en el inciso tercero, reemplázase la expresión "Alcántara y La Gloria" por "Alcántara, La Gloria y Noruega".
+1.17 Derogado.
 
-1.14 En el numeral 25, que modifica el artículo 38, letra g), 14. En el acápite número 14, letra i), reemplázase la expresión "y que enfrentan Avda. El Bosque excepcionalmente podrán construir", por "y que enfrentan Avda. El Bosque o Avda. Isidora Goyenechea y que pertenecen a esta área, excepcionalmente podrán construir.".
+1.18 Derogado.
 
-1.15 En el numeral 25, que modifica el artículo 38, letra g), 16. En el acápite número 16, reemplázace la letra e), por la siguiente "e) En la Tabla A reemplázace la expresión "Antejardín mínimo" por "Antejardín" y la expresión "Distanciamiento a medianero", por "Distanciamiento". En el párrafo que precede a la Tabla A elimínase la expresión "y que enfrenten o colinden con las áreas de edificación EAb o especial". En el inciso ubicado a continuación de la Tabla A, después del punto seguido, elimínase la expresión "Con todo, a.".
+1.19 Derogado.
 
-1.16 En el numeral 27 que modifica el artículo 40, letra e) En el cuadro de la zona U-V, reemplázase la letra e1) por la siguiente "e1) Agrégase en la primera nota bajo el cuadro a continuación del texto "en edificaciones nuevas", la expresión "con una superficie máxima edificada de 290 m2.". Asimismo, reemplázase en la segunda nota bajo el Cuadro de Usos de Suelo Zona U-V, la palabra "Incorpórese" por "Se admite".
+1.20 Derogado.
 
-1.17 En el numeral 27 que modifica el artículo 40, letra g) En el cuadro de la zona U-V2, en la letra g1) a continuación del punto final agrégase el siguiente texto: En la fila correspondiente a la clase "Educación", reemplázase para todas las vías en la columna correspondiente a las Condiciones, la expresión "con una superficie máxima construida de 500 m2" por "con una superficie edificada máxima de 290 m2." en las cinco ocasiones. En la letra g2) agrégase continuación del punto final lo siguiente: para la misma clase "Comercio" actividad "Servicios Artesanales" en la columna correspondiente a "Actividad", agrégase a continuación de la expresión "servicios automotrices", la frase "y locales destinados a venta de comida envasada.".
+1.21 Derogado.
 
-1.18 En el numeral 27 que modifica el artículo 40, letra h) En el cuadro de la zona U-V3, reemplázace la letra h2), por la siguiente: " h2) En la fila correspondiente a la clase "Educación", actividad "Parvularios Jardines Infantiles", agrégase la palabra "Sólo" al inicio del texto de la columna condiciones correspondiente a Vía de Servicio y reemplázase para todas las vías la expresión "con una superficie máxima construida de 500 m2" por "con una superficie edificada máxima de 290 m2." en las cinco ocasiones.
+1.22 Derogado.
 
-1.19 En el numeral 27 que modifica el artículo 40, letra i) En el cuadro de la zona U-VO, reemplázase la letra i2) por la siguiente: "i2) En la fila correspondiente a la clase "Educación", reemplázase la expresión "superficie máxima construida de 500 m2", "por superficie edificada máxima de 290 m2.", en las cinco ocasiones.
+1.23 Derogado.
 
-1.20 En el numeral 27 que modifica el artículo 40, letra j) En el cuadro de la zona U-C1, reemplázace la letra j5) por la siguiente: "j5) En la fila correspondiente a la clase "Comercio" para la actividad de locales comerciales en la columna "Condiciones" elimínase la expresión "y Venta de Vehículos" en las cinco ocasiones. En la fila correspondiente a la clase Comercio, "Actividad", "Restaurantes, Centros Comerciales, Estaciones o Centros de Servicio Automotor." agrégase a continuación la expresión "y Venta de Vehículos" en las cinco ocasiones. Asimismo, incopórase en las columnas "Condiciones" un número (1) relativo al siguiente pie de página "(1) Exhibición o venta de vehículos sólo al interior de la edificación.".
+1.24 Derogado.
 
-1.21 En el numeral 27 que modifica el artículo 40, letra j) En el cuadro de la zona U-C1, reemplázase en el cuadro modificado de la letra j6) en la fila correspondiente a la actividad de "Oficinas sin afluencia de público" en la columna "Condiciones" correspondiente a la vía local la expresión "Máximo 200 m2 de superficie edificada por predio S.R. En edificaciones que se emplacen en vías que cumplan con el ancho mínimo de una vía colectora o superior" por la frase: "Máximo 300 m2 de superficie edificada por predio. S.R. En edificaciones que se emplacen en vías que cumplan con el ancho mínimo de una vía de servicio o superior" y para la vía de servicio la expresión "S.R.".
+1.25 Derogado.
 
-1.22 En el numeral 27 que modifica el artículo 40, letra k) En el cuadro de la zona U-C2, reemplázace la letra k5) por la siguiente: "k5) En la fila correspondiente a la clase "Comercio" para la actividad de locales comerciales en la columna "Condiciones" elimínase la expresión "y Venta de Vehículos" en las cinco ocasiones. En la fila correspondiente a la clase Comercio, "Actividad", " Restaurantes, Centros Comerciales, Estaciones o Centros de Servicio Automotor." agrégase a continuación la expresión "y Venta de Vehículos" en las cinco ocasiones. Asimismo, incopórase en las columnas "Condiciones" un número (1) relativo al siguiente pie de página "(1) Exhibición o venta de vehículos sólo al interior de la edificación.".
+1.26 Derogado.
 
-1.23 En el numeral 27 que modifica el artículo 40, letra k) En el cuadro de la zona U-C2, reemplázace la letra k6) por la siguiente: "k6) Reemplázace la fila correspondiente a la clase "Servicios", actividad "Oficinas en general (abogados, médicos, dentistas...) Bancos, Notarías, AFP. Isapres." por las siguientes filas:
+1.27 Derogado.
 
-.
+1.28 Derogado.
 
-1.24 En el numeral 27, que modifica el artículo 40, en la letra l), Intercálase a continuación de la letra I2), la siguiente letra l3), pasando las actuales letras l3), l4), l5), l6), l7), l8) a ser letras l4), l5), l6), l7), l8), l9) respectivamente, con el siguiente texto, "l3) en la fila correspondiente a la clase "Social", elimínase "en locales de escala básica", tanto para la vía local como de servicio.
+1.29 Derogado.
 
-1.25 En el numeral 27, que modifica el artículo 40, en la letra p) reemplázace en el primer nuevo inciso la expresión "servicios artesanales, y el destino de culto y cultura" por la frase "servicios artesanales, gimnasio, y el destino de culto y cultura.".
+1.30 Derogado.
 
-1.26 En el numeral 27 que modifica el artículo 40, en la letra p) en el segundo nuevo inciso reemplázace la expresión "supermercados" por "minimercados".
+1.31 Derogado.
 
-1.27 En el numeral 29 que modifica el artículo 41, en la letra b) reemplázase la frase "según se grafica" por "y aquellas otras vías graficadas" y la expresión "podrán destinar la vivienda existente a servicios profesionales" por la frase "podrán destinar la vivienda existente a oficinas sin afluencia de público.".
+1.31.1 Derogado.
 
-1.28 En el numeral 29, que modifica el artículo 41, reemplázase la letra f), por la siguiente: f) Intercálase en el inciso sexto, a continuación de la expresión "podrán optar", la frase "con ocupación de suelo máxima de 0.4, un coeficiente de constructibilidad de 0.6 y altura máxima de 3 pisos o 10,50 metros," y reemplázase la expresión "con el giro de Oficinas Comerciales" por la frase, "con la actividad de: Oficinas en General," y elimínase la expresión "siempre y cuando mantengan las características de la edificación existente" a continuación de la coma, que se transforma en punto final.
+1.31.2 Derogado.
 
-1.29 En el numeral 32, que modifica el artículo 45, letra e), se reemplazan en los cuadros de vialidad intercomunal, las filas que a continuación se indican:
+1.31.3 Derogado.
 
-.
+1.31.4 Derogado.
 
-1.31 Rectifícase el plano MPRCLC-2010, mediante planos complementarios de detalle de la Lámina Nº 1 Edificación, Lámina Nº 2 Uso de Suelo, Lámina Nº 3 Vialidad, de manera de representar y concordar con lo señalado en el presente decreto.
+1.31.5 Derogado.
 
-1.31.1 Rectifícase gráficamente en el plano MPRCLC-2010, Lámina Nº1, el área de edificación Ee5, Edificación Especial Nº5, y en la Lámina Nº 2, correspondiente a la zona de Uso de Suelo UEe5, los límites del predio correspondientes al Inmueble de Conservación Histórica Avda. Camino Otoñal Nº 1218.
+1.31.6 Derogado.
 
-1.31.2 Rectifícase gráficamente en el plano MPRCLC-2010, Lámina Nº 1, el límite norte del área de Edificación Ee1, equipamiento "Hospital de la Caja de Previsión de Carabineros de Chile (DIPRECA)", individualizado en la letra b) del artículo 38, numeral 16, "Equipamientos Comunales Comerciales y de Servicios" y rectifícase en la Lámina Nº 2, los mismos límites para la correspondiente zona de uso de suelo UEe1.
-
-1.31.3 Rectifícase gráficamente en el plano MPRCLC-2010, Lámina Nº 1, el límite sur, del área de Edificación Ee1, individualizado en la letra c) del artículo 38, numeral 16, "Equipamientos Comunales Culturales", Colegio San Patricio, y en la Lámina Nº 2, el mismo límite para la correspondiente zona de uso de suelo UEe1.
-
-1.31.4 Rectifícase en el plano MPRCLC-2010, Lámina Nº 2 la concordancia entre los límites prediales del equipamiento existente "Clínica San Carlos de Apoquindo" con los de la zona de Uso de Suelo U-M.
-
-1.31.5 Rectifícase en el plano MPRCLC-2010, Lámina Nº 2, de acuerdo a lo señalado en el artículo 41, inciso primero, la gráfica para los predios que enfrentan la zona UEe1, "Clínica Las Condes", por calle Lo Fontecilla.
-
-1.31.6 Rectifícase en el plano MPRCLC- 2010, Lámina Nº 2, de acuerdo a lo señalado en el artículo 41, inciso segundo, la gráfica para la vereda oriente de calle Hernando de Magallanes entre avenida Martín de Zamora y calle Los Pozos.
-
-1.31.7 Rectifícase de acuerdo al presente decreto en el plano MPRCLC-2010, Lámina Nº 3 Vialidad, las siguientes calles y avenidas: avenida Andrés Bello; calle Bocaccio; calle Carlos Peña Otaégui; calle Choapa; avenida Francisco Bilbao; calle Fray Jorge; calle Las Torcazas; calle Lo Fontecilla; calle Martín Alonso Pinzón; calle Nevería; calle Pedro de Gamboa; calle Río Guadiana, calle Sebastián Elcano y calle Visviri.
+1.31.7 Derogado.
 
 ### 2. Publíquese el presente decreto en el Diario Oficial
 
