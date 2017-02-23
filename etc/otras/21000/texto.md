@@ -1,0 +1,1333 @@
+LEY NÚM. 21.000
+
+CREA LA COMISIÓN PARA EL MERCADO FINANCIERO
+
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+
+Proyecto de ley:
+
+#### Artículo primero
+
+Reemplázase el texto del decreto ley Nº 3.538, de 1980, del Ministerio de Hacienda, que Crea la Superintendencia de Valores y Seguros, por el siguiente:
+
+"CREA LA COMISIÓN PARA EL MERCADO FINANCIERO
+
+## Título I
+
+Objetivo y Funciones de la Comisión para el Mercado Financiero
+
+#### Artículo 1
+
+Créase la Comisión para el Mercado Financiero (en adelante también la "Comisión"), como un servicio público descentralizado, de carácter técnico, dotado de personalidad jurídica y patrimonio propio, que se relacionará con el Presidente de la República a través del Ministerio de Hacienda y se regirá por la presente ley y demás normativa que se dicte al efecto.
+
+Corresponderá a la Comisión, en el ejercicio de sus potestades, velar por el correcto funcionamiento, desarrollo y estabilidad del mercado financiero, facilitando la participación de los agentes de mercado y promoviendo el cuidado de la fe pública. Para ello deberá mantener una visión general y sistémica del mercado, considerando los intereses de los inversionistas, depositantes y asegurados, así como el resguardo del interés público.
+
+Asimismo, le corresponderá velar porque las personas o entidades fiscalizadas cumplan con las leyes, reglamentos, estatutos y otras disposiciones que las rijan, desde que inicien su organización o su actividad, según corresponda, hasta el término de su liquidación; pudiendo ejercer la más amplia fiscalización sobre todas sus operaciones.
+
+Su domicilio será la ciudad de Santiago, sin perjuicio de las oficinas regionales que pueda establecer en otras ciudades del país.
+
+#### Artículo 2
+
+La Comisión y su personal se regirán por lo establecido en la presente ley y, supletoriamente, por las normas contempladas en la ley Nº 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1/19653, de 2000, del Ministerio Secretaría General de la Presidencia; y en la ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado; y en la ley Nº 20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses, en todo lo no regulado expresamente por la presente ley.
+
+Con todo, la Comisión estará sometida a la fiscalización de la Contraloría General de la República exclusivamente en lo que concierne al examen de las cuentas de sus gastos.
+
+#### Artículo 3
+
+Corresponderá a la Comisión la fiscalización de:
+
+1. Las personas que emitan o intermedien valores de oferta pública.
+
+2. Las bolsas de productos, las bolsas de valores mobiliarios y las operaciones bursátiles.
+
+3. Las asociaciones de agentes de valores y las operaciones sobre valores que estos realicen.
+
+4. Los fondos que la ley somete a su fiscalización y las sociedades que los administren.
+
+5. Las sociedades anónimas y en comandita por acciones que la ley sujete a su vigilancia.
+
+6. Las empresas dedicadas al comercio de asegurar y reasegurar, cualquiera sea su naturaleza, y los negocios de éstas, así como de las personas que intermedien seguros.
+
+7. El Comité de Autorregulación Financiera a que se refiere el título VI.
+
+8. Las empresas bancarias, cualquiera sea su naturaleza, así como las empresas dedicadas a la emisión y operación de tarjetas de crédito, tarjetas de pago con provisión de fondos o de cualquier otro sistema similar, siempre que importen que el emisor u operador contraiga habitualmente obligaciones de dinero para con el público en general o ciertos sectores o grupos específicos de él.
+
+9. Las cooperativas de ahorro y crédito sujetas a su fiscalización en virtud de lo dispuesto en el decreto con fuerza de ley N° 5, de 25 de septiembre de 2003, del Ministerio de Economía, Fomento y Turismo, que fija el texto refundido, concordado y sistematizado de la Ley General de Cooperativas.
+
+10. Cualquiera otra entidad o persona natural o jurídica que esta ley u otras leyes le encomienden.
+
+No quedan sujetas a la fiscalización de esta Comisión las administradoras de fondos de pensiones y otras entidades y personas naturales o jurídicas que la ley exceptúe expresamente. No obstante, cuando éstas realicen actividades que produzcan o puedan producir efectos sobre las materias que son de competencia de la Comisión, deberán adoptarse, a iniciativa de ésta o de los correspondientes organismos fiscalizadores, los mecanismos necesarios para observar el principio de coordinación que rige a los órganos de la Administración del Estado en el cumplimiento de sus funciones, facilitando la debida colaboración y evitando la interferencia de funciones.
+
+#### Artículo 4
+
+Sin perjuicio de lo dispuesto en el artículo precedente, la Comisión colaborará con el Servicio de Impuestos Internos en su rol fiscalizador del cumplimiento de la normativa tributaria. Al efecto, corresponderá que:
+
+1. Todas las empresas sujetas a fiscalización de la Comisión que implementen una reorganización de activos o funciones, incluyendo la fusión, división, transformación, liquidación, creación o aporte total de activos y pasivos de una o más empresas, la pongan en su conocimiento.
+
+2. En las actas de directorio de dichas empresas, en los casos que cuenten con esa instancia, se dejará constancia detallada de si, en el período correspondiente, se han acordado algunas de las operaciones a que se refiere el numeral anterior o si la empresa ha sido objeto de fiscalización por parte del Servicio de Impuestos Internos. También se dejará constancia en el acta de la resolución o informe respectivo, para el caso que hubiese sido emitido por escrito por dicho servicio.
+
+3. En las notas a los estados financieros de las empresas a que se refiere el presente artículo se dejará constancia detallada de las controversias de índole tributaria que pudiesen afectar razonable y materialmente a algunos de los rubros informados.
+
+#### Artículo 5
+
+La Comisión está investida de las siguientes atribuciones generales, las que deberán ser ejercidas conforme a las reglas y al quórum de aprobación que determine esta ley:
+
+1. Dictar las normas para la aplicación y cumplimiento de las leyes y reglamentos y, en general, dictar cualquier otra normativa que de conformidad con la ley le corresponda para la regulación del mercado financiero. De igual modo, corresponderá a la Comisión interpretar administrativamente las leyes, reglamentos y demás normas que rigen a las personas, entidades o actividades fiscalizadas, y podrá fijar normas, impartir instrucciones y dictar órdenes para su aplicación y cumplimiento. Estas potestades no podrán extenderse en ningún caso a las facultades normativas e interpretativas que le corresponden al Banco Central de Chile de conformidad con la ley, sin perjuicio de lo dispuesto en el artículo 82 de su ley orgánica constitucional.
+
+2. Absolver las consultas y peticiones e investigar las denuncias o reclamos formulados por accionistas, inversionistas, asegurados, depositantes u otros legítimos interesados, en materias de su competencia, determinando los requisitos o condiciones previas que deban cumplir para conocer de ellas. Para estos efectos, la Comisión establecerá criterios y procedimientos para coordinar el trabajo entre sus diversas unidades, con el objeto de gestionar de manera eficiente las denuncias recibidas del público.
+
+3. Evacuar los informes que le requieran los fiscales del Ministerio Público que estén dirigiendo investigaciones criminales, siempre que correspondan a materias de su competencia y se refieran a información que esté disponible en sus archivos.
+
+4. Examinar sin restricción alguna y por los medios que estime pertinentes todas las operaciones, bienes, libros, cuentas, archivos y documentos de las personas, entidades o actividades fiscalizadas o de sus matrices, filiales o coligadas, y requerir de ellas o de sus administradores, asesores o personal, los antecedentes y explicaciones que juzgue necesarios para obtener información acerca de su situación, sus recursos, de la forma en que se administran sus negocios e inversiones, de la actuación de sus personeros, del grado de seguridad y prudencia con que hayan invertido sus fondos, cuando corresponda y, en general, de cualquier otro punto que convenga esclarecer para efectos de determinar el cumplimiento de la normativa aplicable por parte de la entidad fiscalizada.
+
+Asimismo, podrá pedir la ejecución y presentación de balances y estados financieros en las fechas que estime convenientes para comprobar la exactitud e inversión de los capitales y fondos.
+
+Igualmente, podrá solicitar la entrega de cualquier documento, libro o antecedente que sea necesario para fines de fiscalización o estadística, sin alterar el normal desenvolvimiento de las actividades del afectado.
+
+Salvo las excepciones autorizadas por la Comisión, todos los libros, archivos y documentos de las personas o entidades fiscalizadas deberán estar permanentemente disponibles para su examen en la sede principal de sus negocios.
+
+A su vez, con el objeto de evaluar los riesgos de la situación financiera de las entidades sujetas a su fiscalización, la Comisión podrá requerirles a éstas antecedentes sobre la situación financiera de todas aquellas personas o entidades que pertenezcan a su mismo grupo empresarial que pudieren comprometer, en forma significativa, la situación financiera de la entidad fiscalizada, así como información conducente a determinar las relaciones de propiedad o control y operaciones entre ellas. Para efectos de lo dispuesto en este párrafo, se entenderá por grupo empresarial lo establecido en los artículos 96 y siguientes de la ley Nº 18.045, de Mercado de Valores. La información y antecedentes recabados por la Comisión en conformidad con este párrafo quedarán sujetos al régimen y a las obligaciones de reserva contemplados en esta ley.
+
+5. Autorizar al fiscal a que se refiere el artículo 22, para que, en el marco de investigaciones o procedimientos sancionatorios, con el voto favorable de al menos tres de sus comisionados y mediante resolución fundada, requiera información relativa a operaciones bancarias de personas determinadas, comprendiéndose todas aquellas sometidas a secreto o sujetas a reserva, que resulten indispensables para verificar la realización de conductas, por parte de personas naturales o jurídicas, que constituyan infracciones a las normas que rigen a las personas o entidades fiscalizadas por la Comisión y que, a su vez, se encuentren tipificadas como delitos en la legislación sometida a su fiscalización. El ejercicio de esta atribución sólo procederá a solicitud del antedicho fiscal, debiendo contar, además de lo anterior, con la autorización previa de un ministro de la Corte de Apelaciones de Santiago de conformidad con lo establecido en los párrafos siguientes del presente numeral.
+
+Igualmente se podrá autorizar al fiscal para dar cumplimiento a los requerimientos provenientes de entidades fiscalizadoras extranjeras cuando ello haya sido acordado bajo un convenio internacional de intercambio de información suscrito por la Comisión en virtud de las facultades conferidas en el numeral 23 de este artículo y en conformidad a los términos y a la reciprocidad que el convenio establezca.
+
+Salvo los casos especialmente regulados en otras disposiciones legales, los requerimientos de información sobre operaciones bancarias sometidas a secreto o reserva que formule el fiscal en virtud de lo establecido en este numeral deberán, además, ser autorizados previamente por un ministro de la Corte de Apelaciones de Santiago. Corresponderá al presidente de dicha corte designar, una vez al año y por sorteo, a dos de sus miembros para cumplir esta labor. Si ninguno de los ministros estuviere en funciones, corresponderá otorgar la autorización al presidente de la corte o a quien lo subrogue. La solicitud deberá ser presentada por el fiscal conjuntamente con los antecedentes que sustenten el requerimiento y que justifiquen la necesidad de contar con dicha información para efectos de verificar la existencia de las infracciones materia de la investigación o procedimiento sancionatorio en curso. En el caso de requerimientos efectuados desde el extranjero, el fiscal deberá individualizar a la entidad requirente de la información y acompañar los demás antecedentes que fundamenten la solicitud respectiva.
+
+La solicitud que haga el fiscal y la resolución que recaiga sobre ella deberán fundarse en antecedentes claros, precisos y graves acerca de la realización de conductas materia de la investigación o procedimiento sancionatorio en curso, así como el carácter indispensable de la medida solicitada para la determinación de la infracción. Por su parte, en la resolución favorable del ministro deberá especificarse la medida, el tiempo por el cual podrá ejercerse y las personas naturales o jurídicas a las que pueda afectar. Para el caso de los requerimientos de autoridades extranjeras, tanto la solicitud que haga el fiscal como la correspondiente resolución del ministro deberán fundarse en hechos graves y específicos que se ajusten a los términos del convenio internacional de intercambio de información suscrito o ratificado por la Comisión en virtud de las facultades conferidas en el numeral 23 de este artículo, de los que se dejará expresa constancia en ambos documentos.
+
+La resolución a que se refiere el párrafo anterior deberá dictarse en un plazo de tres días, sin audiencia ni intervención de terceros.
+
+En caso que el fiscal no cumpliere con alguno de los requisitos o formalidades referidos precedentemente o los contemplados en la autorización, los resultados derivados de dichas actuaciones no podrán ser utilizados como medios de prueba en el procedimiento sancionatorio que eventualmente se inicie con motivo de la infracción investigada, ni tampoco podrán servir de fundamento para la denuncia que formule el fiscal que señala el artículo 22 por la calidad de delito que pudiere desprenderse de los mismos hechos. Con todo, dichos antecedentes podrán ser utilizados en un proceso penal ya iniciado, sin perjuicio de lo dispuesto en el inciso tercero del artículo 276 del Código Procesal Penal. Los afectados podrán reclamar ante el ministro de corte a que se refiere el párrafo tercero, el que resolverá en el más breve plazo, en una sola audiencia, sin forma de juicio y oyendo a las partes, una vez que éstas hubieren tomado conocimiento de los hechos en el procedimiento sancionatorio correspondiente.
+
+Si la solicitud es rechazada por el ministro de corte, el fiscal podrá apelar ante la Corte de Apelaciones de Santiago, recurso que será conocido en cuenta y sin más trámite, tan pronto se reciban los antecedentes, los que mantendrán el carácter de secretos y serán devueltos íntegramente al fiscal, fallado que sea el recurso en última instancia.
+
+Acogida la solicitud por sentencia judicial firme, la Comisión notificará a la entidad que corresponda entregar la información, acompañando copia autorizada de la resolución del ministro de corte o de la sala de cuenta de la Corte de Apelaciones de Santiago, en su caso. Dicha entidad dispondrá de un plazo de cinco días para la entrega de la información solicitada, cuya omisión o retardo será sancionado por el Consejo de la Comisión para el Mercado Financiero de conformidad con el artículo 37.
+
+La información obtenida por la Comisión bajo el procedimiento a que se refiere este número tendrá el carácter de reservada y sólo podrá ser utilizada por ella para verificar la existencia de infracciones a las normas que rigen a las personas o entidades fiscalizadas por la Comisión y que, a su vez, se encuentren tipificadas como delitos en la legislación sometida a su fiscalización, en el marco de investigaciones o procedimientos sancionatorios que estuviere conociendo y para la aplicación de las sanciones que procedan, o bien, para ser entregada a las entidades fiscalizadoras extranjeras que la hubieren solicitado en el marco de un convenio de intercambio de información suscrito por la Comisión en conformidad con la legislación vigente, sin perjuicio de lo dispuesto en el inciso final del artículo 180 del Código Procesal Penal. Para los efectos de su incorporación al proceso penal, se entenderá que las copias de los registros, evidencias y demás antecedentes que hayan sido recabados a partir de las diligencias realizadas con autorización judicial de un ministro de Corte de Apelaciones, otorgada de conformidad al presente numeral, cumplen con lo dispuesto en el artículo 9 del Código Procesal Penal. La Comisión adoptará las medidas de organización interna necesarias para garantizar su reserva y controlar su adecuado uso. La información así recabada que no dé lugar a una gestión de fiscalización o sanción posterior o al intercambio de información con una entidad fiscalizadora extranjera, conforme con lo señalado previamente, deberá ser eliminada.
+
+Los comisionados o funcionarios de la Comisión que tomen conocimiento de la información bancaria sometida a secreto o sujeta a reserva estarán obligados a mantenerla con este carácter, sin que puedan cederla o comunicarla a terceros, salvo para cumplir con el requerimiento del tribunal ordinario que conozca de la reclamación de la sanción o de procedimientos posteriores, o de una autoridad extranjera según lo señalado anteriormente, o para fundar sus oficios de cargos y las resoluciones de término de los procedimientos sancionatorios, según sea el caso. La infracción a esta obligación se castigará con la pena de reclusión menor en cualquiera de sus grados y multa de 10 a 30 unidades tributarias mensuales. Asimismo, dicha infracción dará lugar a responsabilidad administrativa y se sancionará con destitución del cargo.
+
+6. Fijar las normas para la confección y presentación de las memorias, balances, estados de situación y demás estados financieros de las entidades fiscalizadas y determinar los principios conforme a los cuales deberán llevar su contabilidad. En ausencia de un principio contable nacional para un caso específico, la entidad fiscalizada deberá consultar previamente a la Comisión y se estará a las normas generales que ésta determine.
+
+Para estos efectos podrá, asimismo, impartir instrucciones a las entidades fiscalizadas y adoptar las medidas tendientes a corregir las deficiencias que observare y, en general, las que estimare necesarias en resguardo de los accionistas, inversionistas, depositantes y asegurados, así como del interés público.
+
+Podrá ordenar que se rectifique o corrija el valor en que se encuentran asentadas determinadas partidas de la contabilidad, cuando establezca que dicho valor no ha sido registrado de acuerdo a normas por ella dictadas, o a normas y principios contables de general aceptación. Especialmente, podrá ordenar que se rectifique o corrija el valor en que se encuentran asentadas determinadas partidas de la contabilidad, cuando establezca que dicho valor no corresponde al real, pudiendo, además, ordenar la reversión de los estados financieros hasta por los últimos cuatro años, en la forma que ella determine.
+
+Con todo, para los fines de la aplicación del sistema de corrección monetaria del decreto ley N° 824, que aprueba el texto que indica de la Ley sobre Impuesto a la Renta, se estará a las pautas de valorización indicadas en el artículo 41 de la mencionada ley. Sin embargo, el Director del Servicio de Impuestos Internos podrá establecer que se esté al valor que haya determinado la Comisión.
+
+7. Inspeccionar, por medio de sus empleados o de empresas de auditoría externa, a las personas o entidades fiscalizadas.
+
+En las inspecciones que la Comisión realice en el marco de la fiscalización, podrá integrar su propio personal con el de la empresa fiscalizada.
+
+8. Requerir a las personas o entidades fiscalizadas que proporcionen al público, por las vías que señale, información veraz, suficiente y oportuna sobre sus prácticas de gobierno corporativo y su situación jurídica, económica y financiera.
+
+La Comisión podrá efectuar directamente las publicaciones que fueren necesarias para los fines precisados en el párrafo anterior, con cargo a las personas o entidades fiscalizadas, siendo en tal caso aplicable lo dispuesto en el artículo 7.
+
+9. Citar a declarar a los socios, directores, administradores, representantes, empleados y personas que, a cualquier título, presten o hayan prestado servicios para las personas o entidades fiscalizadas y a toda otra persona que hubiere ejecutado y celebrado con ellas actos y convenciones de cualquier naturaleza, respecto de algún hecho cuyo conocimiento estime necesario para el cumplimiento de sus funciones. Podrán ser citadas a declarar aquellas personas que, sin ser fiscalizadas o relacionadas a ellas, ejecuten o celebren actos o convenciones cuyo objeto sean instrumentos o valores emitidos por personas o entidades fiscalizadas.
+
+En general, podrá disponer que se cite a declarar a cualquier persona que tenga conocimiento de algún hecho que se requiera aclarar en alguna operación de las instituciones fiscalizadas o en relación con la conducta de su personal.
+
+No estarán obligadas a concurrir a declarar las personas indicadas en el artículo 361 del Código de Procedimiento Civil, a las cuales la Comisión, para los fines expresados en el párrafo precedente, deberá pedir declaración por escrito.
+
+10. Dictar normas que aseguren la fidelidad de las actas, libros y documentos que determine y requerir, en su caso, que en ellos se deje testimonio o se inserten, parcial o íntegramente, sus comunicaciones.
+
+11. Ordenar a las personas o entidades fiscalizadas que ella determine la designación de empresas de auditoría externa, las que deberán informar sus balances generales y, en su caso, reemplazarán a los auditores externos o inspectores de cuentas y estarán investidas de las atribuciones y deberes contemplados en el Título XXVIII de la ley Nº 18.045, de Mercado de Valores. La Comisión podrá fijar los requisitos que deban reunir las empresas de auditoría externa para el cumplimiento de su cometido, todo ello en relación con las características de las personas o entidades fiscalizadas.
+
+12. Vigilar las actuaciones de las empresas de auditoría externa designadas por las personas o entidades sometidas a su fiscalización; impartirles normas respecto al contenido de sus opiniones, certificaciones, informes o dictámenes y de su trabajo de auditoría, y requerirles cualquier información o antecedente relacionado con el cumplimiento de sus funciones.
+
+13. Designar empresas de auditoría externa en las entidades o personas fiscalizadas, para que realicen las tareas que específicamente les encomiende, con las facultades que estime necesarias. En especial, la Comisión podrá designar a una de dichas empresas para que efectúe una auditoría externa de los estados financieros de tales entidades, en forma adicional.
+
+Las empresas de auditoría externa designadas por la Comisión estarán afectas a la obligación de reserva establecida y sancionada en el artículo 28 y serán remuneradas por la persona o entidad fiscalizada. La remuneración gozará del privilegio establecido en el Nº 4 del artículo 2472 del Código Civil.
+
+14. Designar a una entidad clasificadora de riesgo para que efectúe una clasificación de riesgo respecto de una entidad fiscalizada o de los valores emitidos por un emisor de valores de oferta pública determinado.
+
+15. Llevar los registros públicos de profesionales o de información que las leyes le encomienden.
+
+16. Requerir de los organismos técnicos del Estado los informes que estime necesarios y contratar o hacer contratar por las personas o entidades fiscalizadas los servicios de peritos o técnicos para los trabajos que les encomiende, los que serán de cargo de dichas personas o entidades fiscalizadas.
+
+17. Disponer, cuando lo estime conveniente, que los documentos que mantenga en sus registros se archiven en medios distintos del papel, mediante sistemas tecnológicos que aseguren su fidelidad con el original. Asimismo, autorizar a las personas o entidades fiscalizadas para mantener su documentación en medios distintos del papel. La impresión en papel de los documentos contenidos en los referidos medios tendrá el valor probatorio de instrumento público o privado según la naturaleza del original. En caso de disconformidad de la impresión de un documento archivado tecnológicamente con el original o una copia auténtica del mismo, prevalecerán estos últimos sin necesidad de otro cotejo. Se considerará también documento original aquel que se recibiere en la Comisión por los medios tecnológicos que ésta haya establecido para dicho fin y que sean aptos para producir fe. Para efectos de lo establecido en este número, la Comisión autorizará los medios tecnológicos que cuiden la integridad, autenticidad y durabilidad de los documentos.
+
+18. Establecer la forma, plazos y procedimientos para que las personas o entidades fiscalizadas presenten la información que la ley les exija enviar a la Comisión o divulgar al público, a través de medios magnéticos o de soporte informático o en otras formas que ésta establezca, así como la forma en que dará a conocer el contenido y detalle de la información.
+
+19. Cobrar y percibir los derechos por registro, aprobaciones y certificaciones según se establezca en ésta u otras leyes.
+
+20. Estimar el monto de los beneficios, expresado en su equivalente en unidades de fomento, que hayan percibido los infractores al Título XXI de la ley Nº 18.045, de Mercado de Valores, señalándolo en la resolución que aplique la sanción. En la estimación de los beneficios la Comisión considerará el precio de mercado promedio ponderado del valor de oferta pública en los sesenta días anteriores al de la fecha de las transacciones hechas con información privilegiada.
+
+La Comisión, para el solo efecto de velar por los intereses de los terceros perjudicados según lo previsto en el artículo 172 de la ley Nº 18.045, de Mercado de Valores, podrá solicitar al tribunal competente que decrete las medidas precautorias que la ley señala.
+
+21. Presentar a los tribunales de justicia, en asuntos civiles, informes escritos respecto de los hechos que hubiere constatado, los que se apreciarán conforme a las reglas de la sana crítica.
+
+22. Proporcionar asistencia técnica y colaborar, dentro del ámbito de sus facultades, en la investigación de infracciones que sean de competencia de la Comisión, que le soliciten entidades reguladoras, supervisoras o autorreguladoras nacionales o extranjeras u organismos internacionales, incluyendo la entrega de información de que disponga, en virtud de convenios o memorandos de entendimiento que haya celebrado para la cooperación técnica, intercambio de información, capacitación y asistencia recíproca.
+
+23. Suscribir convenios o memorandos de entendimiento con organismos nacionales, internacionales o extranjeros, sean estos públicos o privados. Dichos convenios o memorandos podrán versar, entre otras materias, sobre cooperación técnica, capacitación y asistencia recíproca, investigación conjunta de eventuales infracciones a la normativa correspondiente, intercambios de información, ingreso a organismos internacionales, interconexión de sistemas de información en línea o cualquier otra que estime conveniente para el ejercicio de sus atribuciones y cumplimiento de sus fines.
+
+24. Proponer al Presidente de la República, a través del Ministerio de Hacienda, las normas legales y reglamentarias necesarias para asegurar el adecuado funcionamiento del mercado financiero y el cumplimiento por parte de las personas o entidades fiscalizadas de la normativa que las rige.
+
+La Comisión, a través de la facultad consagrada en este numeral, procurará evitar la existencia de vacíos regulatorios que pudieren poner en riesgo el adecuado funcionamiento del mercado financiero, así como su debida fiscalización; promoverá la coherencia regulatoria entre los distintos mercados sometidos a su competencia; y velará por la permanente actualización de la regulación del mercado financiero, con el objeto de hacer frente a los desafíos y exigencias que pudieren surgir como consecuencia de nuevas actividades, mercados, agentes o instrumentos financieros.
+
+25. Relacionarse con los organismos públicos y demás órganos del Estado, como también con las entidades supervisoras, reguladoras, autorreguladoras o participantes del mercado financiero nacionales, extranjeras o internacionales.
+
+26. Instruir, por resolución fundada, a los intermediarios de valores, a las administradoras de fondos fiscalizados, respecto de los recursos de éstos, a las compañías de seguros del segundo grupo, y a las sociedades securitizadoras, respecto de los recursos de sus patrimonios separados, que se abstengan de realizar las transacciones que específicamente determine con sus personas relacionadas o a través de ellas, hasta por un plazo de tres meses, renovable por igual período, cuando la situación financiera de ellas o de sus personas relacionadas ponga en riesgo los respectivos fondos administrados, patrimonios separados o compromisos con inversionistas o asegurados, según corresponda.
+
+27. Autorizar al fiscal a que se refiere el artículo 22, con el voto favorable de al menos tres de sus Comisionados y mediante resolución fundada, para solicitar a Carabineros de Chile o a la Policía de Investigaciones de Chile, bajo la dirección del funcionario de la Comisión que indique la solicitud, que proceda a ejecutar alguna de las medidas que a continuación se indican, en el marco de investigaciones o procedimientos sancionatorios. Para el ejercicio de estas atribuciones se deberá contar, además, con la autorización previa de un ministro de la Corte de Apelaciones de Santiago, otorgada de conformidad con el procedimiento contemplado en el numeral 5 del presente artículo. Asimismo, tanto la solicitud del fiscal, la resolución del ministro de la Corte de Apelaciones de Santiago, la apelación del fiscal, la reclamación de los afectados, las obligaciones de reserva, los procedimientos y todas las demás reglas consagradas en la precitada norma, regirán íntegramente para el ejercicio de la facultad del presente numeral. Para los efectos de su incorporación al proceso penal, se entenderá que las copias de los registros, evidencias y demás antecedentes que hayan sido recabados a partir de las diligencias realizadas con la autorización precitada, cumplen con lo dispuesto en el artículo 9 del Código Procesal Penal.
+
+Las medidas sujetas a dicha autorización procederán en casos graves y calificados, y siempre que resulten indispensables para acreditar la realización, por parte de personas naturales o jurídicas, de conductas que constituyan infracciones a las normas que rigen a las personas o entidades fiscalizadas por la Comisión y que, a su vez, se encuentren tipificadas como delito en la legislación sometida a su fiscalización, y facultarán al fiscal, conjunta o alternativamente, para:
+
+a) Ingresar en recintos privados y, si fuere necesario, allanar y descerrajar con el auxilio de la fuerza pública.
+
+b) Registrar e incautar toda clase de objetos y documentos.
+
+c) Interceptar toda clase de comunicaciones.
+
+d) Requerir a las empresas que presten servicios de telecomunicaciones que faciliten copias y registros de las comunicaciones transmitidas o recibidas por ella.
+
+e) Ordenar a otros organismos públicos la entrega de antecedentes, incluso cuando recaiga sobre ellos alguna causal de secreto o reserva. Para estos efectos, no regirá lo establecido en el inciso segundo del artículo 35 del Código Tributario. Asimismo, la autorización judicial precitada servirá de antecedente suficiente para configurar la excepción que contempla el inciso tercero del artículo 66 de la ley Nº 18.840, orgánica constitucional del Banco Central de Chile.
+
+Dichos antecedentes mantendrán el referido carácter, salvo los supuestos de excepción contemplados en el párrafo noveno del numeral 5 de este artículo, siendo igualmente aplicables los resguardos y responsabilidades vinculadas al manejo de esta información que se contemplan en el párrafo final del precitado numeral.
+
+28. Llevar el registro público donde consten las actividades laborales, comerciales y de prestación de servicio de los excomisionados y exfuncionarios afectos al deber de información a que se refiere el inciso primero del artículo 31, así como las sanciones que se hubieren impuesto en virtud de lo dispuesto en los incisos tercero y siguientes del precitado artículo.
+
+29. Resolver los procedimientos sancionatorios que se originen como consecuencia de la formulación de cargos, aplicando las sanciones que correspondan, según el caso.
+
+30. Adoptar las medidas preventivas o correctivas que se estimen necesarias para el debido resguardo de accionistas, inversionistas, depositantes y asegurados, así como del interés público y la estabilidad financiera. Dichas medidas podrán ser establecidas sin más trámite en el contexto de sus atribuciones generales de fiscalización, e impugnadas en conformidad al artículo 70.
+
+31. Solicitar información de otros organismos públicos. En caso que dicha información sea secreta o reservada deberá mantener dicho carácter sin perjuicio de su traspaso. A los funcionarios y personas que, a cualquier título, presten servicios en la Comisión les serán aplicables las exigencias de confidencialidad y responsabilidades establecidas en las leyes respectivas en relación con la información traspasada.
+
+En caso que el órgano público deniegue el requerimiento, la Comisión podrá proceder de conformidad con lo establecido en el literal e) del número 27 de este artículo.
+
+32. Formular las denuncias que correspondieren al Ministerio Público por los hechos de que tomare conocimiento en el ejercicio de sus atribuciones y que pudieren revestir caracteres de delito, sin perjuicio de los deberes generales que sobre la materia determine la ley.
+
+33. Designar a un inspector delegado, a un administrador provisional o a un liquidador, de conformidad con lo dispuesto en los títulos XIV y XV del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos que se indican, según corresponda.
+
+34. Proporcionar información sobre las entidades fiscalizadas al Ministerio de Hacienda, al Banco Central de Chile y al Consejo de Estabilidad Financiera, sin perjuicio de lo dispuesto en el artículo 28 de la presente ley y de las normas sobre secreto bancario contenidas en el artículo 154 del decreto con fuerza de ley Nº 3, del Ministerio de Hacienda, de 1997, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican.
+
+En todo caso, para el cumplimiento de los fines de los señalados organismos, la Comisión podrá darles a conocer información sujeta a secreto bancario, siempre que se realice mediante la anonimización de los datos personales involucrados, esto es, mediante la previa modificación de los mismos para impedir la identificación de los individuos a que se refieren.
+
+35. Evaluar la efectividad de los controles que los bancos implementen con el fin de evitar la utilización del sistema financiero y de otros sectores de la actividad económica, para la comisión de alguno de los delitos descritos en el artículo 27 de la ley N° 19.913 y en el artículo 8º de la ley Nº 18.314. En los casos en que la Comisión advirtiere la ocurrencia de cualquier conducta u omisión que pudiere ser indiciaria de situaciones referidas en este numeral, deberá informar de ello a la Unidad de Análisis Financiero (UAF), comunicándole, además, todos los antecedentes que pudieren serle útiles para iniciar y llevar adelante una investigación respecto de dichas situaciones, incluyendo aquella información a la que se refiere el inciso segundo del artículo 154 de la Ley General de Bancos.
+
+Respecto de la información recabada, así como de las comunicaciones a que se refiere el párrafo anterior, regirá el deber de reserva establecido en el inciso primero del artículo 28 de la presente ley.
+
+36. Ejercer las demás facultades que otras leyes expresamente le confieran.
+
+#### Artículo 6
+
+El patrimonio de la Comisión estará formado por:
+
+1. El aporte que se contemple anualmente en la Ley de Presupuestos del Sector Público.
+
+2. Los recursos que se otorguen por leyes especiales.
+
+3. Los bienes muebles e inmuebles, corporales e incorporales que se le transfieran o adquiera a cualquier título.
+
+4. Los frutos de sus bienes.
+
+5. Los ingresos que perciba por los derechos que cobre y los servicios que preste.
+
+6. Los aportes que reciba a cualquier título por concepto de cooperación internacional.
+
+A la Comisión le será aplicable lo dispuesto en el decreto ley Nº 1.263, de 1975, del Ministerio de Hacienda, sobre administración financiera del Estado.
+
+#### Artículo 7
+
+La Comisión podrá pagar con fondos de su presupuesto los gastos que se ocasionen con motivo del ejercicio de las atribuciones que se le otorgan, en especial las contempladas en los numerales 6 y 8 del artículo 5, y en el inciso final del artículo 28.
+
+En tal caso tendrá derecho a cobrar las sumas pagadas más los reajustes e intereses señalados en el artículo 53 del Código Tributario a la entidad o persona por cuya cuenta efectúe el desembolso.
+
+Para el cobro de las sumas a que se refiere el inciso anterior, la Comisión podrá demandar ejecutivamente al deudor ante el juzgado de letras en lo civil que corresponda en virtud de lo establecido en los artículos 175 y siguientes del Código Orgánico de Tribunales, solicitando el correspondiente mandamiento de ejecución y embargo.
+
+En estos casos se practicará una liquidación que, firmada por el presidente de la Comisión, tendrá por sí sola mérito ejecutivo. En el juicio correspondiente no será admisible la oposición del ejecutado a menos que se funde en alguna de las siguientes excepciones:
+
+1. Pago de la deuda. Si éste se hubiere efectuado en una fecha posterior a la de la notificación de la demanda el demandado será necesariamente condenado en costas.
+
+2. No empecer el título al ejecutado. En virtud de esta excepción no podrá discutirse la legalidad de la resolución que hubiere dado lugar a los gastos que demanda la Comisión.
+
+3. Prescripción.
+
+## Título II
+
+Organización de la Comisión para el Mercado Financiero
+
+#### Artículo 8
+
+La dirección superior de la Comisión estará a cargo del Consejo de la Comisión para el Mercado Financiero, al cual le corresponderá ejercer las atribuciones y cumplir las funciones que ésta y otras leyes le encomienden a ésta.
+
+El Consejo de la Comisión para el Mercado Financiero establecerá una normativa interna de funcionamiento, la que determinará los aspectos básicos para su funcionamiento y para el cumplimiento de las obligaciones encomendadas por esta ley y contendrá, en general, todas aquellas disposiciones que le permitan una gestión eficiente.
+
+En caso de ejercerse acciones judiciales por actos formales, acciones u omisiones producidos en el ejercicio de su cargo en contra del personal de la Comisión, incluidos los miembros del Consejo de la Comisión para el Mercado Financiero y el fiscal referido en el artículo 22, la Comisión deberá proporcionarles defensa. Lo mismo se aplicará respecto del administrador provisional, el inspector delegado y el liquidador establecidos en los artículos 117 y 130 del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos que se indican. Esta defensa se extenderá a todas aquellas acciones que se inicien en su contra por los motivos señalados, incluso después de haber cesado en el cargo.
+
+No procederá la defensa a que se refiere el inciso anterior en los casos en que los actos formales, acciones u omisiones en cuestión hayan configurado una causal de cesación imputable a la conducta del respectivo comisionado o funcionario de la Comisión.
+
+### Párrafo 1
+
+Del Consejo de la Comisión para el Mercado Financiero
+
+#### Artículo 9
+
+El Consejo de la Comisión para el Mercado Financiero (en adelante también el "Consejo") estará integrado por cinco miembros, denominados comisionados, los que se nombrarán y estarán sujetos a las reglas siguientes:
+
+1. Un comisionado designado por el Presidente de la República, de reconocido prestigio profesional o académico en materias relacionadas con el sistema financiero, que tendrá el carácter de presidente de la Comisión.
+
+El presidente de la Comisión deberá ser nombrado a más tardar dentro de los noventa días siguientes al inicio del período presidencial y durará en su cargo hasta el término del período de quien lo hubiere designado, salvo que concurra alguna de las causales de cesación de funciones establecidas en la presente ley.
+
+El Presidente de la Comisión tendrá la calidad de jefe de servicio y gozará de la autoridad, atribuciones y deberes inherentes a esa calidad, en especial los señalados en el artículo 21 y en las demás disposiciones legales pertinentes.
+
+2. Cuatro comisionados designados por el Presidente de la República, de entre personas de reconocido prestigio profesional o académico en materias relacionadas con el sistema financiero, mediante decreto supremo expedido a través del Ministerio de Hacienda, previa ratificación del Senado por los cuatro séptimos de sus miembros en ejercicio, en sesión especialmente convocada al efecto.
+
+Los comisionados designados de conformidad con lo dispuesto en este numeral durarán seis años en sus cargos, pudiendo ser reelegidos sólo por un nuevo período consecutivo. Se renovarán en pares, cada tres años, según corresponda.
+
+El Presidente de la República deberá proponer al Senado los candidatos que correspondan antes de la expiración del plazo de duración de los comisionados salientes. En caso que no se efectuaren sus nombramientos antes del vencimiento de dicho plazo, los comisionados salientes podrán permanecer en el desempeño de sus funciones hasta el nombramiento de sus reemplazantes por un plazo máximo de tres meses adicionales. Vencido dicho plazo, y no habiéndose pronunciado el Senado en los términos señalados precedentemente, se nombrará a los candidatos propuestos por el Presidente de la República, sin más trámite.
+
+En el nombramiento de los comisionados a que se refieren los números 1 y 2 del presente artículo se deberá velar de manera permanente por la conformación de un Consejo diverso y que equilibre la experiencia y conocimiento técnico que posean sus miembros sobre los mercados específicos que se encuentran sometidos a la fiscalización de la Comisión.
+
+El Consejo elegirá de entre sus miembros a un vicepresidente, quien subrogará al presidente en caso que este último se ausente o esté temporalmente imposibilitado de ejercer sus funciones.
+
+La función de comisionado no será delegable, como tampoco las obligaciones, facultades y responsabilidades que emanan de dicha designación.
+
+Para efectos de lo dispuesto en la ley Nº 20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses, se aplicarán a todos los comisionados las exigencias previstas para el superintendente o jefe de servicio, según corresponda.
+
+#### Artículo 10
+
+El desempeño de las labores de comisionado exigirá dedicación exclusiva y será incompatible con todo cargo o servicio, sea o no remunerado, que se preste en el sector privado. No obstante lo anterior, el cargo de comisionado será compatible con cargos docentes en instituciones públicas o privadas reconocidas por el Estado hasta un máximo de doce horas semanales. Del mismo modo, podrá desempeñarse en corporaciones o fundaciones, públicas o privadas, nacionales o extranjeras, que no persigan fines de lucro, siempre que en ellas no perciba remuneración y su desempeño no sea incompatible con sus funciones.
+
+El cargo de comisionado será también incompatible con todo otro empleo o servicio retribuido con fondos fiscales o municipales y con las funciones, remuneradas o no, de consejero, director o trabajador de instituciones fiscales, semifiscales, organismos autónomos nacionales o extranjeros, empresas del Estado y, en general, de todo servicio público creado por ley, como, asimismo, de empresas, sociedades o entidades públicas o privadas en que el Estado, sus empresas, sociedades o instituciones centralizadas o descentralizadas, tengan aportes de capital mayoritario o en igual proporción o, en las mismas condiciones, representación o participación.
+
+#### Artículo 11
+
+No podrá ser designada comisionado:
+
+1. La persona que hubiere sido condenada por delito que merezca pena aflictiva o inhabilitación perpetua para desempeñar cargos u oficios públicos, por delitos de prevaricación, cohecho y, en general, aquellos cometidos en ejercicio de la función pública, delitos tributarios, delitos contemplados en la ley Nº 18.045, de Mercado de Valores, delitos contra la fe pública y, en general, por cualquier otro delito contemplado en las leyes sujetas a la fiscalización de la Comisión.
+
+2. La persona que tuviere dependencia de sustancias o drogas estupefacientes o sicotrópicas cuya venta no se encuentre autorizada por la ley, a menos que justifique su consumo por un tratamiento médico.
+
+3. La persona que esté siendo objeto de un procedimiento sancionatorio o que haya sido sancionada, dentro de los últimos cinco años, por infracción a las normas que regulan los mercados sujetos a la fiscalización de la Comisión y que, a su vez, se encuentren tipificadas como delitos.
+
+Aquellos comisionados que mantengan participación en la propiedad de las entidades sujetas a fiscalización de la Comisión o en aquellas empresas que formen parte del mismo grupo empresarial de éstas, en los términos del artículo 96 de la ley Nº 18.045, de Mercado de Valores, deberán someterse al régimen descrito en el capítulo 2 del Título III de la ley Nº 20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses. Respecto del comisionado que, debiendo hacerlo, no se sometiere al referido régimen en un plazo de noventa días contado desde su nombramiento, se configurará la causal prevista en el número 5 del artículo 14. Lo anterior, sin perjuicio de las demás sanciones que concurran en aplicación de las normas generales contenidas en la ley Nº 20.880.
+
+#### Artículo 12
+
+Sin perjuicio de lo dispuesto en el artículo 10, el cargo de comisionado será incompatible con:
+
+1. El cargo de diputado, senador, ministro del Tribunal Constitucional, ministro de la Corte Suprema, consejero del Banco Central, Fiscal Nacional del Ministerio Público, Contralor General de la República y cargos del alto mando de las Fuerzas Armadas y de las Fuerzas de Orden y Seguridad Pública.
+
+2. El cargo de ministro de Estado, subsecretario, intendente y gobernador; alcalde y concejal; consejero regional; miembro del escalafón primario del Poder Judicial; secretario y relator del Tribunal Constitucional; fiscal del Ministerio Público; miembro del Tribunal Calificador de Elecciones y su secretario-relator; miembro de los tribunales electorales regionales, sus suplentes y sus secretarios-relatores; miembro de los demás tribunales creados por ley; funcionario de la Administración del Estado, y miembro de los órganos de dirección de los partidos políticos, candidatos a cargos de elección popular, y dirigentes de asociaciones gremiales o sindicales.
+
+La incompatibilidad de los candidatos a cargos de elección popular regirá desde la inscripción de las candidaturas y hasta cumplidos seis meses desde la fecha de la respectiva elección. En el caso de los dirigentes gremiales y sindicales, la incompatibilidad regirá, asimismo, hasta cumplidos seis meses desde la fecha de cesación en el cargo de dirigente gremial o sindical, según correspondiere.
+
+3. El cargo de director, administrador, gerente, trabajador dependiente o asesor, consejero o mandatario, ejecutivo principal o miembro de algún comité en entidades sujetas a la fiscalización de la Comisión, como también de sus matrices, filiales o coligadas.
+
+Si una vez designado en el cargo sobreviniere a un comisionado alguna de las incompatibilidades o inhabilidades señaladas en el inciso precedente o en los artículos 10 y 11, deberá informarlo inmediatamente al Consejo, cesando inmediatamente en el cargo. Si no lo hiciere así, se configurará la causal prevista en el número 5 del artículo 14.
+
+#### Artículo 13
+
+Aquellas personas que hubieren sido designadas comisionados deberán presentar una declaración jurada para acreditar el cumplimiento de los requisitos establecidos en el artículo 9 y la circunstancia de no encontrarse afectas a las inhabilidades e incompatibilidades a que se refieren los artículos 10, 11 y 12. Lo anterior, sin perjuicio de la obligación de presentar las declaraciones de patrimonio e intereses a que se refiere la ley Nº 20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses.
+
+En caso que los comisionados incluyan datos inexactos u omitan inexcusablemente información relevante en las declaraciones a que se refiere el inciso anterior, se configurará la causal prevista en el número 5 del artículo siguiente, sin perjuicio de las sanciones establecidas en la ley Nº 20.880.
+
+#### Artículo 14
+
+Serán causales de cesación en el cargo de comisionado las siguientes:
+
+1. Expiración del plazo por el cual fue nombrado.
+
+2. Renuncia aceptada por el Presidente de la República.
+
+3. Incapacidad física o síquica para el desempeño del cargo.
+
+4. Sobreviniencia de alguna causal de inhabilidad o incompatibilidad de las contempladas en los artículos 10, 11 y 12.
+
+Si el comisionado hubiere sido acusado de alguno de los delitos señalados en el número 1 del artículo 11 quedará suspendido de su cargo hasta que concluya el proceso por sentencia firme.
+
+5. Incumplimiento grave de sus funciones y deberes. Serán incumplimientos graves, entre otros, la inasistencia injustificada a dos sesiones consecutivas o a tres sesiones durante un trimestre calendario; el incumplimiento a la obligación de reserva a que se refiere el párrafo final del numeral 5 del artículo 5 y el inciso primero del artículo 28; el incumplimiento de las obligaciones de presentación de declaraciones a que se refiere el artículo 13, el incumplimiento del deber de abstención a que alude el artículo 16 y cualquier falta al principio de probidad administrativa.
+
+Asimismo, se considerará grave el incumplimiento de la dedicación exclusiva contemplada en el artículo 10 y el incumplimiento del deber de informar al Consejo sobre causales sobrevinientes de inhabilidad o incompatibilidad, contemplado en el inciso final del artículo 12. En dichos casos, la causal de cesación se entenderá verificada al momento de la sobreviniencia de la correspondiente inhabilidad o incompatibilidad. El comisionado afectado deberá restituir las remuneraciones percibidas desde el momento que se entiende verificada la causal, y no le corresponderá la compensación a que se refiere el inciso segundo del artículo 30, sin perjuicio de las demás consecuencias que establezca la ley. Lo anterior en ningún caso afectará la validez de los actos del Consejo en cuya dictación hubiere participado el comisionado afectado, salvo que la inhabilidad o incompatibilidad observada constituya, a su vez, una infracción al principio de probidad administrativa y hubiere resultado determinante para configurar la mayoría necesaria para adoptar el acuerdo.
+
+El comisionado respecto del cual se verificare alguna de las causales contenidas en los numerales 1, 2, 3 y 4 del inciso primero cesará automáticamente en su cargo.
+
+Si alguno de los comisionados señalados en el número 2 del artículo 9 incurriere en alguna de las conductas descritas en el número 5 del presente artículo será acusado ante la Corte Suprema, la que resolverá en pleno y en única instancia sobre la concurrencia de la causal. La corte dará traslado por seis días hábiles al acusado para que conteste la acusación, pudiendo dictar, igualmente, medidas para mejor resolver. La corte, si lo estima pertinente, podrá abrir un término probatorio, que no excederá de siete días.
+
+La acusación deberá ser interpuesta por el presidente de la Comisión por sí o a requerimiento escrito de dos comisionados. Será fundada y tendrá preferencia para su vista y fallo. La sentencia se dictará en un plazo máximo de treinta días, contado desde la vista de la causa.
+
+La corte, mientras se encuentre pendiente su resolución, podrá disponer la suspensión temporal del comisionado acusado. Ejecutoriada la sentencia que declare la configuración de la causal de cesación, el comisionado afectado cesará de inmediato en su cargo, sin que pueda ser designado nuevamente.
+
+De proceder la causal descrita en el número 5 del presente artículo respecto del comisionado a que se refiere el número 1 del artículo 9, el Presidente de la República lo removerá mediante decreto supremo, expedido a través del Ministerio de Hacienda.
+
+Si quedare vacante el cargo de comisionado, deberá procederse al nombramiento de uno nuevo en la forma indicada en el referido artículo 9. El comisionado nombrado en reemplazo durará en el cargo sólo por el tiempo que falte para completar el período del comisionado reemplazado.
+
+#### Artículo 15
+
+El Consejo sólo podrá sesionar con la asistencia de a lo menos tres de sus miembros. Los acuerdos se adoptarán por mayoría absoluta de los comisionados presentes, salvo que la ley exija una mayoría diferente. El presidente de la Comisión, o quien lo subrogue, tendrá voto dirimente en caso de empate.
+
+El Consejo deberá celebrar sesiones ordinarias a lo menos una vez por semana, y sesiones extraordinarias cuando las cite especialmente el presidente de la Comisión por sí o a requerimiento escrito de dos comisionados, en la forma y condiciones que determine su normativa interna de funcionamiento. El presidente no podrá negarse a realizar la citación indicada, debiendo la respectiva sesión tener lugar dentro de los dos días hábiles siguientes al requerimiento señalado.
+
+Los comisionados podrán participar de las sesiones del Consejo a través de cualquier medio tecnológico que así lo permita, cuando por causa justificada se encontraren imposibilitados de asistir presencialmente. La normativa interna de funcionamiento establecerá la modalidad y condiciones en que se ejercerá la participación no presencial regulada en este inciso. En cualquier caso, su asistencia y participación en la sesión será certificada bajo la responsabilidad del presidente del Consejo, o de quien haga sus veces, haciéndose constar este hecho en el acta correspondiente.
+
+De los acuerdos que adopte el Consejo deberá dejarse constancia en el acta de la sesión respectiva.
+
+#### Artículo 16
+
+Los comisionados deberán abstenerse de participar y votar cuando se traten materias o se resuelvan asuntos en que puedan tener interés. Además, deberán informar al Consejo el conflicto de intereses que les afecta.
+
+Se entenderá que el comisionado tiene interés, entre otras circunstancias, cuando:
+
+1. Las decisiones o asuntos se refieran a los casos contenidos en el inciso tercero del artículo 44 de la ley Nº 18.046, sobre Sociedades Anónimas.
+
+2. La decisión que adopte pudiese afectar sus intereses, en los términos a que se refiere el artículo 7 de la ley Nº 20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses, y el artículo 12 de la ley Nº19.880, que establece las bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado.
+
+3. Las decisiones o asuntos a tratar recaigan sobre sociedades o entidades en las que se hubiere desempeñado en los últimos doce meses como director, administrador, gerente, trabajador dependiente o asesor, consejero o mandatario, ejecutivo principal o miembro de algún comité, como también de sus matrices, filiales o coligadas. Sin embargo, dicha prohibición no impedirá que el comisionado afectado pueda participar de las decisiones que tengan por objeto dictar normas de alcance general y que resulten aplicables a un sector, mercado o industria.
+
+4. Se haya pronunciado o emitido opiniones, por cualquier medio, sobre un procedimiento sancionatorio en curso y cuya resolución se encontrare pendiente.
+
+Asimismo, el Consejo podrá establecer, en su normativa interna de funcionamiento, los procedimientos y mecanismos que deberán adoptarse en materia de conflictos de interés. Lo anterior, sin perjuicio de los deberes generales de abstención para el ejercicio de la función pública establecidos en ésta y otras leyes.
+
+Sin perjuicio de lo establecido en el inciso primero, el comisionado afectado por una causal de abstención podrá asistir a la sesión en que se traten materias adicionales a aquélla que lo implica, pudiendo participar en el tratamiento y resolución de estas. Con todo, su asistencia no será considerada para los efectos de determinar el quórum en la resolución de la materia o asunto en la que pudiera tener interés o estar involucrado.
+
+La ausencia del comisionado que se haya abstenido de participar de una determinada sesión en virtud de alguna de las causales referidas en el presente artículo se entenderá, para todos los efectos de esta ley, como justificada.
+
+#### Artículo 17
+
+Los comisionados tendrán derecho a percibir la remuneración que corresponda al grado 1° de la planta de personal de la Comisión para el Mercado Financiero, incluidas las bonificaciones y asignaciones del artículo 5° de la ley Nº 19.528, del artículo 17 de la ley Nº 18.091, del artículo 9° de la ley Nº 20.212 y las demás que correspondan a dicho grado.
+
+Los comisionados tendrán derecho a percibir una asignación de Alta Dirección del Sector Financiero, que corresponderá a la suma mensual de $2.318.561, en el caso del presidente de la Comisión que tendrá la calidad de Jefe de Servicio, y de $1.174.173, para los restantes comisionados. Dicha asignación será imponible, tributable, y no servirá de base de cálculo de ninguna otra remuneración, salvo para la compensación económica a que se refiere el inciso segundo del artículo 30.
+
+#### Artículo 18
+
+El presidente de la Comisión, con sujeción a la dotación máxima de ésta y aprobación del Consejo, podrá establecer su organización interna y, en conformidad con lo establecido en el artículo 32 de la ley Nº 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, determinar, mediante resolución, las funciones que correspondan a las distintas unidades para el ejercicio de las atribuciones y responsabilidades asignadas a la Comisión.
+
+#### Artículo 19
+
+El presidente de la Comisión podrá encargar a cualquiera de sus funcionarios absolver posiciones o prestar declaraciones ante los tribunales correspondientes.
+
+#### Artículo 20
+
+Corresponderá al Consejo:
+
+1. Ejercer las atribuciones y cumplir las funciones que la ley le encomiende a la Comisión.
+
+2. Establecer políticas de planificación, organización, dirección, supervisión, coordinación y control de funcionamiento de la Comisión, así como las de administración, adquisición y enajenación de bienes, excepto aquellos inmuebles cuya adquisición o enajenación requiera la aprobación del Ministro de Hacienda.
+
+3. Dictar normas de carácter general, circulares, oficios circulares y otras resoluciones que se requieran. La normativa que se imparta deberá contener los fundamentos que hagan necesaria su dictación, incluyendo una definición adecuada del problema que se pretende abordar, la justificación de la intervención regulatoria, la evaluación del impacto de dicha regulación, así como aquellos estudios o informes en que se apoye, en los casos que corresponda o sea posible. Dicha normativa deberá ser objeto de una consulta pública. Con dicho propósito, antes de la dictación de ésta, se dará a conocer el proyecto de norma en la página web de la Comisión, disponiéndose los mecanismos necesarios para que los interesados puedan formular observaciones a éste.
+
+La Comisión, por resolución fundada, podrá excluir de los trámites contemplados en el párrafo anterior aquella normativa que, atendida su urgencia, requiera de aplicación inmediata. Con todo, en dichos casos una vez que se haya dictado la norma, la Comisión deberá elaborar el informe de evaluación de impacto regulatorio correspondiente.
+
+Del mismo modo, no se requerirán los trámites contemplados en el párrafo primero del presente numeral cuando la Comisión, por resolución fundada, estime que estos resultan impracticables, innecesarios o contrarios al interés público.
+
+4. Resolver los procedimientos sancionatorios que se originen como consecuencia de la formulación de cargos, aplicando las sanciones que correspondan, según el caso.
+
+5. Autorizar las medidas a que se refieren los numerales 5 y 27 del artículo 5.
+
+6. Dictar y modificar la normativa interna de funcionamiento del mismo, de acuerdo a lo establecido en el artículo 8.
+
+7. Formular al Presidente de la República, a través del Ministerio de Hacienda, las propuestas de reforma a normas legales y reglamentarias a que se refiere el numeral 24 del artículo 5.
+
+8. Resolver acerca de la suscripción de convenios o memorandos de entendimiento a los que se refiere el numeral 23 del artículo 5.
+
+9. Formular al Ministerio Público las denuncias que correspondieren por los hechos de que tomare conocimiento en el ejercicio de sus atribuciones y que pudieren revestir caracteres de delito, sin perjuicio de los deberes generales que sobre la materia determina la ley.
+
+10. Designar un inspector delegado, administrador provisional o liquidador, de conformidad con lo establecido, respectivamente, en los artículos 117 y 130 del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican, según corresponda.
+
+11. Elaborar, dentro del primer cuatrimestre de cada año, una cuenta pública anual en que se detalle el trabajo efectuado por la Comisión en el año inmediatamente anterior, incluyendo, entre otras materias, una evaluación general del comportamiento de los mercados que son objeto de su competencia, las acciones de la Comisión en materia normativa y regulatoria, la cantidad de sanciones impuestas y sus causas, el número de procedimientos sancionatorios en curso, su participación en el diseño de políticas públicas, los recursos empleados, el nivel de cumplimiento de los objetivos impuestos y los indicadores de desempeño utilizados, así como los desafíos y metas para el año siguiente.
+
+12. Suspender provisionalmente, en casos graves y urgentes debidamente calificados, total o parcialmente, mediante resolución fundada, las actividades de una persona o entidad fiscalizada o la cotización o la transacción de uno o más valores, y adoptar, en general, cualquier medida preventiva o correctiva que disponga la ley, en los casos en que no se cumpla con las normas necesarias para el adecuado desarrollo de tales actividades o cuando así lo requiera el interés público, la estabilidad financiera o la protección de los inversionistas, depositantes y asegurados.
+
+Con todo, en el caso de las entidades cuyas actividades se encuentran reguladas en virtud del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican, la facultad de suspensión provisional de actividades descrita en este numeral, será ejercida de conformidad a lo dispuesto en dicha ley.
+
+13. Dictar las resoluciones que se pronuncien respecto de la autorización de existencia, funcionamiento y fusiones o reorganizaciones de las entidades fiscalizadas, según corresponda y, en general, pronunciarse sobre cualquier otra autorización o inscripción que deba otorgar la Comisión dentro del ámbito de sus competencias.
+
+14. Las demás funciones y atribuciones que ésta u otras leyes le encomienden.
+
+El ejercicio de las facultades a que se refieren los numerales 1 a 12 del presente artículo corresponderán exclusivamente al Consejo, y no podrán ser delegadas a otros funcionarios o autoridades de la Comisión.
+
+En todo caso, el Consejo podrá delegar determinadas facultades de administración, autorización, inscripción y funcionamiento en el presidente, otros comisionados y demás autoridades o funcionarios de la Comisión, de acuerdo a lo establecido en su normativa interna de funcionamiento. Asimismo, el Consejo podrá conferir poderes especiales a funcionarios de la Comisión para la ejecución de determinados acuerdos.
+
+El Consejo podrá organizarse en comités para el cumplimiento de las funciones que la presente ley le asigna. Sin perjuicio del ejercicio de esta facultad, la responsabilidad y resolución definitiva de los asuntos y el ejercicio de las facultades relativas a la dirección superior de la Comisión recaerán siempre en el Consejo.
+
+### Párrafo 2
+
+Del Presidente de la Comisión para el Mercado Financiero
+
+#### Artículo 21
+
+El presidente de la Comisión, en su calidad de jefe de servicio, tendrá a su cargo la organización y administración de la Comisión, de conformidad a lo dispuesto en el artículo 18. Además, le corresponderá ejercer la vigilancia y control jerárquico de la actuación del personal de la Comisión, sin perjuicio de lo dispuesto en el numeral 6 del artículo 24.
+
+Corresponderá especialmente al presidente de la Comisión:
+
+1. Ejecutar y dar cumplimiento a las normas y acuerdos adoptados por el Consejo.
+
+2. Citar y presidir las sesiones del Consejo, así como establecer la tabla de materias a ser tratadas en cada sesión.
+
+3. Informar al Consejo, en forma periódica y cuando alguno de sus miembros lo requiera, sobre la ejecución de las políticas y normas generales dictadas por dicho órgano, y darle cuenta sobre el funcionamiento y desarrollo de la institución. Además, mensualmente enviará a los miembros del Consejo una relación de los acuerdos cumplidos o por cumplir.
+
+4. Representar legal, judicial y extrajudicialmente a la Comisión.
+
+5. Suspender provisionalmente, en casos graves y urgentes debidamente calificados, la cotización o la transacción de uno o más valores de oferta pública, sin perjuicio de lo dispuesto en el numeral 12 del artículo precedente. El presidente deberá informar al Consejo de la medida adoptada en la próxima sesión que se celebre, la que deberá citarse especialmente al efecto, a más tardar, para dentro de las cuarenta y ocho horas siguientes a su adopción, y en la cual el Consejo deberá pronunciarse sobre la conveniencia de mantener o dejar sin efecto dicha medida.
+
+6. Velar por el cumplimiento de las normas aplicables a la Comisión y adoptar las medidas necesarias para asegurar su eficiente funcionamiento.
+
+7. Establecer, previa aprobación del Consejo, oficinas regionales cuando el buen funcionamiento de la Comisión así lo exija.
+
+8. Resolver la celebración de los actos y convenciones necesarias para el cumplimiento de los fines de la Comisión.
+
+9. Delegar las atribuciones o facultades derivadas de su calidad de jefe de servicio en funcionarios de la Comisión.
+
+10. La conducción de las relaciones de la Comisión con los organismos públicos y demás órganos del Estado y con las personas o entidades sujetas a la fiscalización de ésta, como también con las entidades supervisoras, reguladoras, autorreguladoras o participantes del mercado financiero nacionales, extranjeras o internacionales, sin perjuicio de las potestades que sobre el particular mantengan otros organismos del Estado.
+
+11. Publicar la memoria a que se refiere el numeral 11 del artículo precedente.
+
+12. Previa aprobación del Consejo, comunicar al Ministro de Hacienda, dentro de los plazos y de acuerdo a las modalidades establecidas para el sector público, las necesidades presupuestarias de la Comisión.
+
+13. Las demás materias y atribuciones que se establezcan expresamente en ésta u otras leyes.
+
+### Párrafo 3
+
+Unidad de Investigación
+
+#### Artículo 22
+
+Sin perjuicio de lo señalado en el artículo 18, la Comisión deberá contar con una unidad de investigación responsable de la instrucción del procedimiento sancionatorio que regula el título IV, la cual estará a cargo de un funcionario denominado fiscal, que será nombrado por el Consejo mediante el proceso de selección de altos directivos públicos previsto en el párrafo 3 del Título VI de la ley Nº 19.882. La función del fiscal será ejercida por un directivo, grado 2°, de la planta de Directivos de la Comisión para el Mercado Financiero.
+
+El fiscal estará sujeto a las inhabilidades e incompatibilidades establecidas en los artículos 10, 11 y 12, y durará seis años en su cargo, pudiendo renovarse su nombramiento por un período consecutivo.
+
+Serán causales de cesación en el cargo de fiscal aquellas contenidas en el artículo 14. Si se verificare respecto de él alguna de las causales establecidas en los números 1, 2, 3 y 4 de dicha norma, cesará automáticamente en sus funciones, sin perjuicio del deber de comunicar de inmediato dicha circunstancia al Consejo. De proceder la causal descrita en el número 5 del referido artículo, el Consejo, por acuerdo adoptado por al menos tres de sus miembros, removerá al fiscal mediante resolución fundada.
+
+Quien hubiere sido designado fiscal deberá presentar una declaración jurada para acreditar la circunstancia de no encontrarse afecto a las inhabilidades e incompatibilidades a que se refieren los artículos 10, 11 y 12. Lo anterior, sin perjuicio de la obligación de presentar las declaraciones de patrimonio e intereses a que se refiere la ley Nº 20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses.
+
+En caso que el fiscal incluya datos inexactos u omita inexcusablemente información relevante en las declaraciones a que se refiere el inciso anterior, se configurará la causal prevista en el número 5 del artículo 14, sin perjuicio de las sanciones establecidas en la ley Nº 20.880.
+
+Serán aplicables respecto del fiscal los deberes de abstención contenidos en el artículo 16.
+
+#### Artículo 23
+
+En el desempeño de sus funciones, el fiscal tendrá en cuenta los sistemas y políticas de supervisión definidos por el Consejo para las personas o entidades fiscalizadas por la Comisión. El fiscal será el responsable de realizar o instruir las investigaciones necesarias o procedentes para comprobar las infracciones a la ley y a la normativa sujeta a la fiscalización de la Comisión respecto de las personas o entidades fiscalizadas por aquélla, todo ello de conformidad con lo dispuesto en el título IV; de contribuir a la determinación de los responsables de las conductas infraccionales investigadas, y al cumplimiento de las sanciones impuestas por la Comisión por infracciones a las leyes y normativas de su competencia.
+
+#### Artículo 24
+
+Serán atribuciones y deberes del fiscal:
+
+1. Instruir, respecto de aquellos hechos sobre los que hubiere tomado conocimiento por medio de la denuncia de particulares realizada ante la Comisión, en virtud de aquellos antecedentes que hubiere reunido de oficio que le hayan sido proporcionados por otras unidades de la Comisión como resultado de sus procesos de supervisión o de los aportados en el marco de la colaboración que regula el párrafo 4 del título IV, las investigaciones que estime procedentes con el objeto de comprobar las infracciones de las leyes y normativa cuya fiscalización corresponda a la Comisión y proponer al Consejo la imposición de las sanciones que la ley determine. En caso que decida no iniciar la investigación de hechos puestos en su conocimiento, emitirá un informe fundado de las razones para tal decisión, el que deberá ser remitido al Consejo y a los interesados. Como resultado de la investigación instruida, el fiscal procederá, de conformidad con el artículo 45, a dictar el correspondiente oficio de cargos o, en su caso, a emitir el informe fundado de la decisión de no hacerlo y, en general, a llevar adelante el procedimiento de acuerdo a lo señalado en el título IV de esta ley.
+
+2. En el marco de las investigaciones o procedimientos en que se encuentre interviniendo, ejercer las facultades a que se refieren los numerales 4, 5, 7, 9, 16, 21, 22 y 27 del artículo 5, sin perjuicio de las facultades que le otorguen otras leyes.
+
+3. Proponer al Consejo la formulación de las denuncias que correspondieren al Ministerio Público por los hechos de que tomare conocimiento en el ejercicio de sus atribuciones y que pudieren revestir caracteres de delito, sin perjuicio de los deberes generales que sobre la materia determine la ley.
+
+4. Verificar el cumplimiento de las resoluciones que emita el Consejo en el marco de los procedimientos sancionatorios sometidos a su conocimiento, y de las sentencias judiciales que se dicten sobre dichas materias.
+
+5. Colaborar en la detección, investigación, determinación y persecución de las responsabilidades por infracciones a las normas que rigen los mercados sujetos a la fiscalización de la Comisión en los términos del numeral 22 del artículo 5, para contribuir en el cumplimiento de las obligaciones que dicho organismo haya contraído en los convenios o memorandos de entendimiento referidos en el número 23 de la misma disposición.
+
+6. Proponer al presidente del Consejo la contratación y remoción de los funcionarios que integren la unidad de investigación, responsable de la instrucción del procedimiento sancionatorio. Igualmente, deberá evaluar a los funcionarios de dicha unidad.
+
+Con todo, los funcionarios de la unidad de investigación serán, para todos los efectos legales, funcionarios de la Comisión y se regirán por las disposiciones que la presente ley y la Comisión, en su caso, establezcan para el personal de ésta.
+
+7. Ejercer las demás facultades que otras leyes o normas expresamente le confieran.
+
+#### Artículo 25
+
+El fiscal deberá recibir las denuncias que se le formulen respecto de actos que puedan importar infracción a la normativa bajo fiscalización de la Comisión, sin perjuicio de remitir a las autoridades competentes aquéllas que deban ser conocidas por otros organismos en razón de su naturaleza. Para determinar si corresponde investigar o desestimar las denuncias que se formulen, el fiscal podrá solicitar, dentro del plazo de sesenta días de recibida la denuncia, antecedentes a particulares, como también llamar a declarar a cualquier persona que pudiere tener conocimiento del hecho denunciado. La entrega de antecedentes y la prestación de declaración señaladas previamente serán siempre voluntarias, y no se les aplicará lo dispuesto en el artículo 35.
+
+### Párrafo 4
+
+Del Personal de la Comisión para el Mercado Financiero
+
+#### Artículo 26
+
+Todo el personal de la Comisión se regirá por un estatuto del personal de carácter especial. En lo no previsto en él o en la presente ley regirá, como legislación supletoria, el Código del Trabajo.
+
+El presidente de la Comisión, de conformidad con el estatuto de personal a que se refiere el inciso anterior, podrá nombrar y remover al personal, con entera independencia de toda otra autoridad, salvo las excepciones contenidas expresamente en la ley.
+
+A todo el personal de la Comisión le serán aplicables las normas de remuneraciones y otros beneficios pecuniarios y previsionales que actualmente rigen al personal de la Superintendencia de Valores y Seguros, incluyendo las bonificaciones y asignaciones dispuestas en los artículos 8, 9, 12 y 13 de la ley Nº 20.212, en el artículo 17 de la ley Nº 18.091 y en el artículo 5 de la ley Nº 19.528, otorgándose en la forma que señalan dichas leyes y las demás que rijan a dicha Superintendencia.
+
+#### Artículo 27
+
+El presidente de la Comisión podrá celebrar contratos de prestación de servicios a honorarios para la ejecución de labores específicas, de acuerdo a sus disponibilidades presupuestarias. Las personas así contratadas no tendrán, en caso alguno, la calidad jurídica de empleados de la Comisión, pero les serán aplicables las normas a las que se refiere el artículo 2.
+
+#### Artículo 28
+
+La Comisión, así como los Comisionados, funcionarios y las personas que, a cualquier título, presten servicios a dicha entidad estarán obligados a guardar reserva acerca de los documentos y antecedentes de los que tomen conocimiento con ocasión del ejercicio de sus funciones, así como documentos, informes y antecedentes que elaboren, preparen o mantengan en su poder o de los que hayan tomado conocimiento en el ejercicio de dichas funciones, siempre que éstos no tengan el carácter de públicos. Del mismo modo, deberán abstenerse de formular opiniones o emitir juicios respecto de los asuntos de que estuvieren conociendo con ocasión de los procedimientos sancionatorios en curso y cuya resolución se encontrare pendiente. La infracción de estas obligaciones se castigará con la pena de reclusión menor en cualquiera de sus grados y multa de diez a treinta unidades tributarias mensuales. Asimismo, dicha infracción dará lugar a responsabilidad administrativa y se sancionará con destitución del cargo. Lo anterior es sin perjuicio del deber de abstención de participar y votar a que se refiere el artículo 16.
+
+Sin perjuicio de los deberes de reserva de que trata este artículo, y con el objeto de velar por el cumplimiento de sus respectivas labores, la Comisión, el Banco Central de Chile y la Superintendencia de Pensiones podrán compartir cualquier información. Lo anterior no regirá tratándose de aquella información a que se refiere el inciso primero del artículo 154 del decreto con fuerza de ley N° 3, del Ministerio de Hacienda, de 1997, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican, salvo lo dispuesto en el numeral 34 del artículo 5 de esta ley. Cuando la información compartida sea reservada, deberá mantenerse en este carácter por quienes la reciban.
+
+La Comisión deberá mantener a disposición permanente del público, a través de su sitio web institucional, las resoluciones por medio de las cuales se haya sancionado a personas o entidades fiscalizadas. Para efectos de la publicación de las resoluciones referidas podrán elaborarse versiones públicas de las mismas, cuando a juicio de la Comisión ello sea necesario o recomendable para el adecuado funcionamiento del mercado financiero o para resguardar la información protegida por alguna causal de reserva.
+
+Para todos los efectos legales, se entenderá que tiene carácter de reservada cualquiera información derivada de los documentos, antecedentes, informes a que se refiere el inciso primero y cuya divulgación pueda afectar el debido cumplimiento de sus funciones, así como los derechos a la intimidad, comerciales, económicos de las personas o entidades sujetas a su fiscalización, o que pudieren afectar la estabilidad financiera, en la medida que ella no tenga el carácter de público.
+
+Lo dispuesto en los incisos anteriores no obstará a que el Consejo pueda difundir o hacer difundir por las personas y medios que determine, la información o documentación relativa a las personas o entidades fiscalizadas con el fin de velar por la fe pública, el interés de los accionistas, inversionistas , depositantes y asegurados.
+
+#### Artículo 29
+
+Una vez cesados en sus cargos, y por el plazo de seis meses, tanto los excomisionados como los exfuncionarios de la Comisión no podrán prestar ningún tipo de servicio, sea de forma gratuita o remunerada, ni adquirir participación en la propiedad de entidades respecto de las cuales, dentro de los doce meses anteriores al cese en sus funciones, hayan, de forma específica, personal y directa, emitido actos, resoluciones o dictámenes; participado en sesiones del Consejo en las que se hubiere adoptado algún acuerdo o resolución a su respecto; o hayan intervenido en los procedimientos administrativos, finalizados o no, que produjeron o producirán dichos actos administrativos. La prohibición de que trata este artículo se extiende a aquellas empresas que formen parte del mismo grupo empresarial en los términos del artículo 96 de la ley Nº 18.045, de Mercado de Valores.
+
+Los excomisionados y exfuncionarios a que alude este artículo, dentro de los diez días hábiles siguientes al cese en sus funciones, deberán efectuar una declaración jurada en la que individualicen las entidades respecto a las cuales hayan intervenido en los términos del inciso anterior. Una copia de dicha declaración deberá ser remitida al presidente de la Comisión y a la Contraloría General de la República, para su registro.
+
+#### Artículo 30
+
+Sin perjuicio de la prohibición establecida en el artículo anterior, los excomisionados y los exdirectivos pertenecientes al primer y segundo nivel jerárquico de la Comisión, no podrán, una vez cesados en el cargo y por un plazo de tres meses contado desde que la cesación se ha hecho efectiva, prestar ningún tipo de servicio, sea o no remunerado, ni adquirir participación en la propiedad, respecto de las entidades sujetas a fiscalización de la Comisión, ni de aquellas empresas que formen parte del mismo grupo empresarial de éstas, en los términos del artículo 96 de la ley Nº 18.045, de Mercado de Valores.
+
+Durante los tres meses que dure la prohibición a que se refiere este artículo, el personal señalado en el inciso anterior tendrá derecho a percibir mensualmente de parte de la Comisión una compensación económica equivalente al 75% de la remuneración que les correspondía percibir por el ejercicio de sus funciones. La remuneración que servirá de base para el cálculo de esta compensación será el promedio de la remuneración bruta mensual de los últimos doce meses anteriores al cese de funciones, actualizadas según el índice de precios al consumidor determinado por el Instituto Nacional de Estadísticas o por el sistema de reajustabilidad que lo sustituya. Esta compensación se considerará remuneración para todos los efectos legales y no servirá de base de cálculo de ninguna otra remuneración.
+
+De la compensación a que se refiere el inciso anterior se deducirán los montos que correspondan a los ingresos que mensualmente perciba el excomisionado o exdirectivo por la prestación de servicios que se encuentre habilitado a realizar, en cuanto excedan el 25% del precitado promedio de la remuneración bruta mensual. La Tesorería General de la República estará autorizada para retener los montos que por este concepto corresponda de la devolución anual de impuestos a la renta respectiva, e imputar dichos montos a la deducción mencionada, en la forma que señale el reglamento.
+
+No procederá la compensación a que se refiere el inciso segundo en los casos en que los sujetos afectos por la prohibición de que trata este artículo cesen en sus cargos por destitución o por cualquier otra causal imputable a su conducta.
+
+Las personas señaladas en el inciso primero de este artículo tendrán prohibido desarrollar actividades de lobby, en los términos de la ley Nº 20.730, a favor de las entidades sujetas a fiscalización de la Comisión y aquellas que formen parte del mismo grupo empresarial de conformidad con el artículo 96 de la ley Nº 18.045, de Mercado de Valores, por el período de dos años, a contar de la fecha de cese en sus funciones.
+
+#### Artículo 31
+
+Los excomisionados, exdirectivos y exfuncionarios afectos a las prohibiciones establecidas en los artículos 29 y 30, durante el período que duren dichas prohibiciones, deberán informar a la Comisión sus participaciones societarias y todas las actividades laborales y de prestación de servicios que realicen, tanto en el sector público como en el sector privado, sean o no remuneradas. Esta obligación se extenderá hasta los seis meses posteriores al término de la prohibición a que se refiere el artículo 29 y se materializará en la forma que indicará el reglamento.
+
+La Comisión deberá mantener un registro público disponible en su sitio web donde conste la información entregada de conformidad con el inciso anterior, durante todo el tiempo que dure dicha obligación y hasta que hubiere expirado el plazo a que se refiere el inciso final de este artículo. En dicho registro, además, constarán las sanciones que se hubiesen impuesto en virtud de los incisos siguientes.
+
+La infracción al deber de información establecido en el inciso primero de este artículo cometida por los excomisionados y exdirectivos pertenecientes al primer y segundo nivel jerárquico de la Comisión será sancionada con multa a beneficio fiscal de hasta 100 unidades tributarias mensuales. En caso que dicha infracción fuere cometida por un exfuncionario distinto de los señalados anteriormente, será sancionada con multa a beneficio fiscal de hasta 50 unidades tributarias mensuales. Si la Comisión infringiere lo dispuesto en el inciso anterior será sancionada por el Consejo para la Transparencia de conformidad con el artículo 47 de la Ley de Transparencia de la Función Pública y de Acceso a la Información de la Administración del Estado, contenida en el artículo primero de la ley Nº 20.285.
+
+Por su parte, la infracción a la prohibición a que se refiere el artículo 29 será sancionada con multa a beneficio fiscal de hasta 500 unidades tributarias mensuales.
+
+La infracción a las prohibiciones a que se refieren los incisos primero y final del artículo 30 será sancionada con multa a beneficio fiscal de hasta 1.000 unidades tributarias mensuales. Adicionalmente, el infractor deberá restituir el monto percibido por concepto de compensación económica a que alude el inciso segundo de ese artículo.
+
+La responsabilidad de los exfuncionarios, incluidos los excomisionados y exdirectivos pertenecientes al primer y segundo nivel jerárquico, por infracción a lo dispuesto en el inciso primero de este artículo y en los artículos 29 y 30, se hará efectiva por la Contraloría General de la República conforme a los artículos 134, 135 y 138 de la ley Nº 10.336, sobre organización y atribuciones de la Contraloría General de la República, cuyo texto refundido fue fijado por el decreto Nº 2.421, de 1964, del Ministerio de Hacienda, para lo cual el instructor poseerá un plazo máximo e improrrogable de veinte días hábiles. Las sanciones que imponga la Contraloría General de la República serán reclamables ante la Corte de Apelaciones respectiva, dentro de quinto día de notificada la resolución. La Corte de Apelaciones pedirá informe a la Contraloría General de la República, el que deberá ser evacuado dentro de los diez días hábiles siguientes al requerimiento. Para el conocimiento, vista y fallo de estas cuestiones se aplicarán las normas sobre las apelaciones de los incidentes en materia civil, con preferencia para su vista y fallo. Respecto de la resolución que falle este asunto no procederán recursos ulteriores. La interposición de la reclamación suspenderá la aplicación de la sanción impuesta por la resolución recurrida.
+
+Las personas naturales o jurídicas que, en infracción a lo dispuesto en los artículos 29 y 30, establezcan vínculos laborales o de prestación de servicios, sean o no remunerados, con quienes se encuentren afectos a las prohibiciones en ellos contempladas, serán sancionadas por la Comisión con multa a beneficio fiscal de hasta 4.000 unidades tributarias mensuales. La multa que se aplique en definitiva a las entidades privadas deberá ser proporcional al tamaño de la empresa en los términos de la ley Nº 20.416.
+
+La responsabilidad por las infracciones de que trata este artículo prescribirá una vez transcurridos dos años desde la realización de los hechos que le dieron origen.
+
+#### Artículo 31 bis
+
+El personal de la Comisión deberá informar al Presidente los créditos que solicite en las empresas bancarias y otras instituciones sujetas a su fiscalización, así como los bienes que adquiera de tales empresas. El Consejo establecerá, en su normativa interna, los procedimientos necesarios para el debido cumplimiento de este deber, así como para el resguardo de la información recibida. Sin perjuicio de lo anterior, dicha información tendrá el carácter de reservada.
+
+#### Artículo 32
+
+En asuntos civiles, las aseveraciones de los funcionarios de la Comisión designados como fiscalizadores, sobre los hechos constatados en el ejercicio de sus funciones y en la verificación de infracciones, se apreciarán conforme a las reglas de la sana crítica.
+
+### Párrafo 5
+
+Del Cobro de Derechos
+
+#### Artículo 33
+
+Las personas y entidades que deban inscribirse en los registros que lleve la Comisión, o depositar antecedentes en dichos registros, obtener aprobaciones, o que soliciten certificaciones, pagarán los derechos que se indican a continuación:
+
+1. Derechos por inscripción en los registros que lleve la Comisión. El monto por inscripción en el Registro de Valores y en el Registro de Valores Extranjeros será fijo, por el equivalente a 20 unidades de fomento. No obstante lo anterior, las inscripciones en el Registro de Valores Extranjeros, de valores de igual naturaleza y provenientes de un mismo mercado de otro país, que sean presentadas por un mismo patrocinador en virtud de lo dispuesto en el título XXIV de la ley Nº 18.045, de Mercado de Valores, bajo una determinada modalidad de transacción, quedarán afectas al pago de derechos por un monto máximo de 500 unidades de fomento, ya sea que correspondan a solicitudes de inscripción simultáneas o presentadas en distintas oportunidades. A estas solicitudes de inscripción no les resultará aplicable lo dispuesto en el párrafo final de este numeral.
+
+El monto por inscripción en otros registros será fijo, por el equivalente a 10 unidades de fomento.
+
+Sin perjuicio del monto señalado en el párrafo primero de este numeral, las emisiones de valores pagarán, adicionalmente, un derecho de un 0,5 por mil del capital involucrado en la operación, con un tope máximo de 200 unidades de fomento.
+
+2. Anotaciones en los registros. El monto será único y corresponderá a 3 unidades de fomento por cada anotación que se practique.
+
+3. Derechos por aprobaciones y autorizaciones de reglamentos bursátiles o de depósito y custodia de valores y por aprobación de normas de funcionamiento de sistemas de compensación y liquidación de instrumentos financieros y sus modificaciones. El monto será único y por el equivalente a 30 unidades de fomento.
+
+4. Derechos por aprobaciones, autorizaciones y depósitos de reglamentos internos y contratos de fondos autorizados por ley. El monto será único y por el equivalente a 15 unidades de fomento.
+
+5. Derechos por aprobaciones de autorizaciones de existencia, reformas de estatutos, fusiones, divisiones, cancelaciones o disoluciones, de entidades sujetas a autorización de la Comisión. El monto será único y por el equivalente a 20 unidades de fomento.
+
+6. Derechos por aprobaciones de contratos y pólizas de seguros. El monto será único y por el equivalente a 6 unidades de fomento.
+
+7. Derechos por certificaciones que consten en los registros. Las certificaciones que se otorguen por las inscripciones o aprobaciones que otorgue la Comisión y que consten en los registros públicos que las leyes le ordenan llevar tendrán un valor equivalente a 0,2 unidades de fomento por cada copia.
+
+No procederá el cobro de una certificación cuando ella se expida con ocasión de haberse realizado un registro u otorgado una aprobación que hubiere pagado derechos.
+
+8. Derechos por modificaciones relacionadas a los numerales 3, 4 y 6. El monto será único y por el equivalente a la mitad de las unidades de fomento señaladas en esos numerales.
+
+Se encontrarán exentas de enterar los pagos a que se refiere este artículo las entidades que se encuentren afectas a la contribución de las cuotas a que se refiere el artículo 8 del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos que se indican.
+
+#### Artículo 34
+
+Los derechos fijados en el artículo anterior serán pagados en las oficinas de la Comisión o por medios electrónicos habilitados al momento de obtener la correspondiente inscripción, depósito, aprobación o certificación, en su caso, según el valor que haya tenido la unidad de fomento al último día hábil del mes anterior a aquel en que se realiza el pago.
+
+## Título III
+
+Apremios y Sanciones
+
+#### Artículo 35
+
+En los casos en que se obstaculizare o impidiere el pleno ejercicio de las funciones otorgadas a la Comisión o al fiscal por los numerales 4 y 8 del artículo 5, la Comisión podrá requerir de la justicia ordinaria la aplicación del procedimiento de apremio contemplado en los artículos 93 y 94 del Código Tributario, a fin de obtener el cabal cumplimiento y ejecución de tales atribuciones.
+
+Procederá igualmente este apremio en contra de las personas que, habiendo sido citadas bajo apercibimiento por la Comisión o el fiscal, en su caso, de acuerdo a lo establecido en el numeral 9 del artículo 5, no concurran a declarar sin causa justificada.
+
+El tribunal competente para conocer de estos apremios, a requerimiento de la Comisión, será el juzgado de letras en lo civil del domicilio del infractor que corresponda en virtud de lo establecido en los artículos 175 y siguientes del Código Orgánico de Tribunales.
+
+Las personas que presten declaraciones falsas ante la Comisión o ante el fiscal sufrirán las penas de presidio menor en sus grados mínimo a medio y multa de 6 a 10 unidades tributarias mensuales.
+
+#### Artículo 36
+
+Las sociedades anónimas y empresas bancarias sujetas a la fiscalización de la Comisión que incurrieren en infracciones a las leyes, reglamentos, estatutos y demás normas que las rijan, o en incumplimiento de las instrucciones y órdenes que les imparta la Comisión, podrán ser objeto de la aplicación por parte de ésta de una o más de las siguientes sanciones, sin perjuicio de las establecidas específicamente en otros cuerpos legales:
+
+1. Censura.
+
+2. Multa a beneficio fiscal equivalente, alternativamente, a un monto global por sociedad de hasta:
+
+a) La suma de 15.000 unidades de fomento. En el caso de haber sido sancionado anteriormente por infracciones de la misma naturaleza, podrá aplicarse una multa de hasta cinco veces el monto máximo antes expresado.
+
+b) El 30% del valor de la emisión, registro contable u operación irregular.
+
+c) El doble de los beneficios obtenidos producto de la emisión, registro contable u operación irregular.
+
+En los casos de las letras b y c la Comisión expresará el monto de la multa en su equivalente en unidades de fomento, señalándolo en la resolución que aplique la sanción.
+
+3. Revocación de la autorización de existencia de la sociedad, cuando proceda.
+
+Las sanciones señaladas en los números 1 y 2 podrán ser aplicadas a la sociedad, directores, gerentes, dependientes, empresas de auditoría externa o liquidadores, según lo determine la Comisión.
+
+Cuando se apliquen las sanciones de los números 1 y 2 de este artículo, la Comisión deberá poner en conocimiento de la junta de accionistas las infracciones, incumplimientos o actos en que hayan incurrido los directores, gerentes, empresas de auditoría externa o liquidadores, a fin de que aquélla pueda removerlos de sus cargos si lo estima conveniente, sin perjuicio de ejercer las acciones judiciales que crea pertinentes. La convocatoria a esta junta de accionistas deberá hacerla el directorio dentro del plazo que fije la Comisión, y podrá ser citada por ella misma si lo estima necesario.
+
+#### Artículo 37
+
+Las personas o entidades diversas de aquéllas a que se refiere el inciso primero del artículo anterior que incurrieren en infracciones a las leyes, reglamentos, estatutos y demás normas que las rijan, o en incumplimiento de las instrucciones y órdenes que les imparta la Comisión, podrán ser objeto de la aplicación por parte de ésta de una o más de las siguientes sanciones, sin perjuicio de las establecidas específicamente en otros cuerpos legales o reglamentarios:
+
+1. Censura.
+
+2. Multa a beneficio fiscal equivalente, alternativamente, a un monto global por persona o entidad de hasta:
+
+a) La suma de 15.000 unidades de fomento. En el caso de haber sido sancionado anteriormente por infracciones de la misma naturaleza, podrá aplicarse una multa de hasta cinco veces el monto máximo antes expresado.
+
+b) El 30% del valor de la emisión, registro contable u operación irregular.
+
+c) El doble de los beneficios obtenidos producto de la emisión, registro contable u operación irregular.
+
+En los casos de las letras b y c la Comisión expresará el monto de la multa en su equivalente en unidades de fomento, señalándolo en la resolución que aplique la sanción.
+
+3. Tratándose de personas nombradas o autorizadas por la Comisión para ejercer determinadas funciones o actuaciones, ésta podrá aplicarles también las sanciones de:
+
+a) Suspensión de su cargo hasta por un año.
+
+b) Revocación de su autorización o nombramiento por causa grave.
+
+Sin perjuicio de lo establecido en el artículo anterior y en los incisos precedentes, el Consejo podrá aplicar como sanción accesoria la de inhabilidad temporal, hasta por cinco años, para el ejercicio del cargo de director o ejecutivo principal de las entidades descritas en el artículo anterior y en el inciso primero del presente artículo, a aquellas personas que hubiesen incurrido en las conductas descritas en los artículos 59, 60 y 61 de la ley Nº 18.045, de Mercado de Valores, en los artículos 157, 158, 159 y 160 del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican, y en los artículos 41 y 49 del decreto con fuerza de ley Nº 251, de 1931, del Ministerio de Hacienda, de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio.
+
+Las sanciones establecidas en el presente artículo podrán ser aplicadas a la sociedad, empresa, entidad, personas jurídicas o naturales, administradores o representantes, según lo determine la Comisión.
+
+#### Artículo 38
+
+Para la determinación del rango y del monto específico de las multas a las que se refieren los artículos anteriores, la Comisión deberá procurar que su aplicación resulte óptima para el cumplimiento de los fines que la ley le encomienda, considerando al efecto las siguientes circunstancias:
+
+1. La gravedad de la conducta.
+
+2. El beneficio económico obtenido con motivo de la infracción, en caso que lo hubiese.
+
+3. El daño o riesgo causado al correcto funcionamiento del mercado financiero, a la fe pública y a los intereses de los perjudicados con la infracción.
+
+4. La participación de los infractores en la misma.
+
+5. El haber sido sancionado previamente por infracciones a las normas sometidas a su fiscalización.
+
+6. La capacidad económica del infractor.
+
+7. Las sanciones aplicadas con anterioridad por la Comisión en las mismas circunstancias.
+
+8. La colaboración que éste haya prestado a la Comisión antes o durante la investigación que determinó la sanción.
+
+La calidad de reincidente del infractor no se tomará en consideración en aquellos casos en que haya determinado por sí sola el aumento del monto de la multa específica de conformidad con lo establecido en la letra a) del numeral 2 del artículo 36 y en la letra a) del numeral 2 del artículo 37.
+
+#### Artículo 39
+
+El monto de las multas aplicables de conformidad con esta ley será fijado por el Consejo de acuerdo a las reglas precitadas y con sujeción al procedimiento sancionatorio a que se refiere el título siguiente.
+
+## Título IV
+
+Procedimiento Sancionatorio
+
+### Párrafo 1
+
+Normas Comunes
+
+#### Artículo 40
+
+El procedimiento sancionatorio seguido ante la Comisión admitirá la participación de interesados, con las facultades para aducir alegaciones y aportar documentos u otros elementos de juicio durante toda su tramitación. Para estos efectos se considerarán interesados los señalados en el artículo 21 de la ley Nº 19.880.
+
+Los interesados podrán actuar por sí o por medio de apoderados, entendiéndose que éstos tienen todas las facultades necesarias para la sustanciación del procedimiento sancionatorio, salvo manifestación expresa en contrario. El correspondiente mandato deberá constar en escritura pública, instrumento público otorgado en el extranjero de acuerdo a lo dispuesto en el artículo 345 del Código de Procedimiento Civil, o en instrumento privado suscrito ante notario público en los términos del artículo 22 de la ley Nº 19.880.
+
+Asimismo, se deberá permitir a los interesados actuar asistidos por asesor cuando lo consideren conveniente para la defensa de sus intereses.
+
+El procedimiento sancionatorio deberá desarrollarse con sencillez y eficacia, de manera tal que sólo sean exigibles las formalidades tendientes a dejar constancia indubitada de lo actuado y evitar perjuicios a los interesados.
+
+El vicio de procedimiento o de forma sólo afectará la validez de los actos administrativos cuando recaiga en algún requisito esencial del mismo, y sea de tal entidad que genere perjuicio a los interesados. La Comisión podrá siempre, de oficio o a petición del interesado, corregir los vicios que observe en la sustanciación del procedimiento y subsanar los vicios de forma de que adolezcan los actos que emita, siempre que con ello no se afectaren intereses de terceros.
+
+#### Artículo 41
+
+Cada uno de los plazos dispuestos para la sustanciación del procedimiento sancionatorio, sea que estén establecidos por esta ley o por resolución fundada de la autoridad instructora, podrán ser prorrogados por una sola vez y hasta por igual período, en la medida que ello resultare necesario para la acertada resolución del caso. La prórroga podrá ser decretada por el Consejo, previo requerimiento del fiscal o de uno de los interesados, presentado con anterioridad al vencimiento del plazo de que se trate.
+
+La prórroga otorgada en los términos del inciso anterior beneficiará de la misma forma a todos los interesados que se hayan apersonado en el procedimiento sancionatorio.
+
+El procedimiento sancionatorio tendrá una duración máxima de nueve meses, contados desde la formulación de cargos hasta la resolución final del Consejo, a menos que hubiesen sido decretadas una o más prórrogas de plazo en los términos del inciso primero. En este último caso, el plazo de nueve meses se entenderá ampliado por el tiempo equivalente a la suma de todas las prórrogas decretadas en el marco del procedimiento sancionatorio.
+
+#### Artículo 42
+
+La notificación de los actos que se dicten durante la sustanciación de un procedimiento sancionatorio se realizará conforme a lo dispuesto en el artículo 64.
+
+#### Artículo 43
+
+Los interesados que se hubieren apersonado en un procedimiento sancionatorio estarán obligados a guardar reserva respecto de la información a la cual accedan durante su tramitación, y no podrán divulgarla a terceros. Dicha obligación se mantendrá aún finalizado el correspondiente procedimiento respecto de la información que no adquiera el carácter de pública en los términos de la ley Nº 20.285. La infracción a esta norma será sancionada con las penas de reclusión menor en sus grados mínimo a medio y multa de 6 a 10 unidades tributarias mensuales.
+
+#### Artículo 44
+
+En caso que las personas objeto de cargos fueren válidamente notificadas por la Comisión y no comparecieren dentro de plazo, personalmente o representadas por apoderado, serán declaradas en rebeldía. Dicha declaración producirá como efecto que las resoluciones que se dicten durante el procedimiento sancionatorio se entenderán notificadas a su respecto desde la fecha de su dictación.
+
+### Párrafo 2
+
+Procedimiento General
+
+Actuaciones Previas e Inicio del Procedimiento
+
+#### Artículo 45
+
+Si el fiscal constatare alguna posible infracción a la normativa cuya fiscalización corresponda a la Comisión, como resultado de la investigación de los hechos sobre los que hubiere tomado conocimiento por medio de la denuncia de particulares realizada ante la Comisión, de sus unidades dependientes, en virtud de los antecedentes que hubiere reunido de oficio o de los aportados en el marco de la colaboración que regula el párrafo 4 del presente título, procederá a formular cargos por los hechos constitutivos de ésta, de conformidad con el artículo siguiente.
+
+En el evento que, existiendo una investigación en curso, el fiscal decida no formular cargos, el informe fundado de dicha decisión deberá ser remitido al Consejo, el que podrá aceptarlo o, en su caso, solicitarle la ampliación de dicho informe o la presentación de antecedentes adicionales que justifiquen su decisión.
+
+#### Artículo 46
+
+El oficio por medio del cual se formulen cargos deberá ser fundado y contendrá la descripción de los hechos en los que se fundamentan y de cómo éstos constan en la investigación, la indicación de por qué se consideran contrarios a las normas sometidas a la fiscalización de la Comisión, especificando la o las normas que se estimen infringidas, y la persona presuntamente responsable de la infracción, señalando la participación que se le imputa en ella.
+
+En el oficio de cargos también se comunicará el procedimiento aplicable, se hará mención a la facultad de adjuntar pruebas y se fijará un plazo para la formulación de descargos, el cual no podrá ser inferior a catorce ni mayor a veinte días.
+
+#### Artículo 47
+
+Emitido el oficio de cargos, se dará traslado a la persona objeto de los mismos mediante notificación practicada por alguna de las formas señaladas en el artículo 64.
+
+También se notificará el oficio de cargos a quienes se hayan apersonado en el procedimiento sancionatorio en la calidad de interesados, de conformidad con el artículo 40, para que puedan formular alegaciones y aportar documentos para la defensa de sus intereses.
+
+#### Artículo 48
+
+En los descargos deberán señalarse todas las circunstancias o antecedentes de hecho y de derecho que eximan o atenúen la presunta responsabilidad de la persona objeto de cargos, así como aquellas que nieguen la efectiva ocurrencia de los hechos, o que demuestren que éstos no constituyen infracción. Todo ello, sin perjuicio de otras presentaciones o antecedentes posteriores que se hagan valer en el curso del procedimiento sancionatorio con el mismo objetivo.
+
+#### Artículo 49
+
+Transcurrido el plazo para la formulación de descargos, el fiscal ordenará la apertura de un término probatorio para que los interesados y la persona objeto de cargos puedan hacer valer cualquier medio de prueba admisible en derecho que diga relación con hechos relevantes para la decisión del procedimiento.
+
+La duración del término probatorio se fijará según la naturaleza del asunto de que se trate y no podrá ser inferior a diez ni exceder de treinta días. Dicho plazo podrá prorrogarse de oficio o a petición de la persona objeto de cargos, por una sola vez y hasta por igual período.
+
+La práctica de las diligencias probatorias que se decreten en el procedimiento sancionatorio deberá notificarse a todos los interesados que participen en dicho procedimiento.
+
+#### Artículo 50
+
+Durante el término probatorio, la persona objeto de cargos y los interesados, en su caso, podrán valerse de cualquier medio de prueba que sea procedente y conducente para verificar la efectividad de sus alegaciones.
+
+#### Artículo 51
+
+Una vez vencido el término probatorio, el fiscal podrá decretar, de oficio o a solicitud de la persona objeto de cargos y de los interesados, en su caso, las diligencias que estime estrictamente necesarias para la resolución del asunto. El tiempo dispuesto para la realización de dichas diligencias será considerado como una ampliación del procedimiento sancionatorio en los términos dispuestos en el inciso final del artículo 41. La disposición de tales diligencias deberá ser notificada, salvo que ello resultare contrario a los fines perseguidos con su realización.
+
+Realizados todos los actos de instrucción, vencido el término probatorio o llevadas a cabo las diligencias que se hubieren decretado, el fiscal remitirá al Consejo el expediente, informando el estado de éste y su opinión fundada acerca de la configuración de la infracción imputada en los cargos, en virtud de lo acreditado en el procedimiento sancionatorio respecto de cada persona objeto de éstos. La remisión del expediente y del informe del fiscal será notificada a los interesados.
+
+#### Artículo 52
+
+El Consejo pondrá término al procedimiento sancionatorio mediante resolución fundada adoptada por la mayoría de los miembros presentes, dictada dentro del plazo de setenta y cinco días, contado desde la recepción del informe del fiscal a que se refiere el artículo anterior, término durante el cual deberá proponer una audiencia para que la persona objeto de cargos y los interesados formulen alegaciones. Del mismo modo, la Comisión podrá disponer la práctica de las diligencias o medidas para mejor resolver que estime necesarias.
+
+La resolución a que se refiere el inciso anterior deberá contener un análisis de todas las defensas, alegaciones y pruebas hechas valer en el procedimiento sancionatorio, determinar en conformidad a ellas si ha existido infracción a la normativa aplicable, resolver si la persona objeto de cargos resulta responsable de la misma, indicando su participación en los hechos, y la sanción de que se hace merecedora, en caso que correspondiere.
+
+#### Artículo 53
+
+La notificación de la resolución definitiva del procedimiento sancionatorio se realizará por carta certificada, la que se remitirá a la persona objeto de cargos y a todos los interesados que se hayan apersonado en él.
+
+### Párrafo 3
+
+Procedimiento Simplificado
+
+#### Artículo 54
+
+Si los hechos presuntamente infraccionales, respecto de los cuales el fiscal tome conocimiento por cualquiera de las modalidades contempladas en el inciso primero del artículo 45, fueren de menor entidad, serán sometidos a un procedimiento simplificado. En ningún caso podrá aplicarse este procedimiento si se trata de conductas que estén tipificadas como delito en las leyes que rijan a las personas, entidades o actividades fiscalizadas por la Comisión. Para estos efectos, el Consejo determinará, mediante una norma de carácter general, aquellas infracciones que podrán ser sometidas a este procedimiento, y establecerá el rango de sanciones que les podrán ser aplicables de conformidad con el título III.
+
+Para efectos de determinar la sanción aplicable, en el contexto del procedimiento simplificado, en cada caso se tomarán en consideración las siguientes circunstancias:
+
+1. Si el supuesto infractor hubiere subsanado los incumplimientos detectados, dentro de los treinta días siguientes a su notificación.
+
+2. Si el supuesto infractor hubiere sido sancionado por la Comisión.
+
+#### Artículo 55
+
+El procedimiento simplificado se iniciará por requerimiento del fiscal al supuesto infractor para que admita por escrito su responsabilidad en los hechos que se indiquen, señalando en él la sanción que solicitará al Consejo en el evento que lo hiciere.
+
+Si el supuesto infractor admitiere su responsabilidad en los hechos, el fiscal remitirá al Consejo el requerimiento, el acto o documento en que conste la admisión de responsabilidad por parte del infractor, los antecedentes recabados, su opinión fundada acerca de la configuración de la infracción imputada y la sanción que estime procedente aplicar. Recibidos dichos antecedentes, el Consejo procederá a la dictación de la resolución final en los términos del artículo 52, sin más trámite. Con todo, no procederá la celebración de la audiencia a que se refiere el inciso primero de dicho artículo.
+
+En caso que el supuesto infractor no admitiere responsabilidad en los hechos que se le imputan, el fiscal emitirá el oficio de cargos en los términos a que se refiere el artículo 46, en cuanto fuere pertinente, y continuará con la tramitación del procedimiento simplificado de conformidad con el artículo siguiente.
+
+#### Artículo 56
+
+El procedimiento simplificado se regirá por las siguientes normas especiales:
+
+1. Emitido el oficio de cargos, se dará traslado a la persona objeto de éste mediante notificación practicada según lo señalado en el artículo 64.
+
+2. El plazo para la formulación de descargos, fijado en el oficio de cargos, no podrá ser inferior a tres ni mayor a seis días.
+
+3. Presentados los descargos, el fiscal ordenará la apertura de un término probatorio para que los interesados y la persona objeto de cargos puedan hacer valer cualquier medio de prueba admisible en derecho que diga relación con hechos relevantes para la decisión del procedimiento. La duración del término probatorio se fijará según la naturaleza del asunto de que se trate y no podrá ser inferior a cinco ni superior a diez días. Con todo, dicho plazo podrá ser prorrogado, de oficio o a petición de interesado, por una sola vez y hasta por igual período.
+
+En lo no regulado expresamente en este artículo, el procedimiento simplificado se regirá, en su tramitación, por las mismas normas del procedimiento general, en lo que no sea contrario a su naturaleza sumaria.
+
+#### Artículo 57
+
+Si durante la tramitación del procedimiento simplificado se recabaren antecedentes que permitieren hacer una calificación distinta de la naturaleza o gravedad de la infracción, el fiscal, de oficio o a petición de la persona objeto de cargos, podrá decretar la sustitución del procedimiento simplificado por el procedimiento general, con acuerdo del Consejo.
+
+Habiéndose reconocido responsabilidad en los términos del inciso segundo del artículo 55, ningún antecedente que dijere relación con la asunción de responsabilidad por parte del supuesto infractor podrá ser invocado ni incorporado como medio de prueba al procedimiento general que sustituya al simplificado, de conformidad con el inciso anterior.
+
+### Párrafo 4
+
+De la Colaboración del Presunto Infractor
+
+#### Artículo 58
+
+El que incurra en una conducta sancionable por la Comisión podrá acceder a una reducción de hasta el 80% de la sanción pecuniaria aplicable, cuando se auto denunciare aportando a la Comisión antecedentes que conduzcan a la acreditación de los hechos constitutivos de infracción.
+
+En el caso de una infracción que involucrare a dos o más posibles responsables, el primero en auto denunciarse y aportar antecedentes a la Comisión podrá acceder a una reducción del 100% de la sanción pecuniaria aplicable. Los restantes involucrados, en tanto, sólo podrán acceder a una reducción de hasta el 30%, siempre que aporten antecedentes sustanciales y adicionales a los ya presentados por el primer denunciante.
+
+Se aplicará la pena inferior en uno o dos grados a la señalada por la ley al delito, a la persona a quien la Comisión le hubiere concedido la reducción del 100% de la sanción pecuniaria aplicable de conformidad con el inciso anterior en el caso que los hechos que se investiguen estén tipificados como delito de acuerdo a las leyes que rigen a las personas, entidades o actividades fiscalizadas por la Comisión. Excepcionalmente, se le reconocerá la extinción de la responsabilidad penal en los casos que los antecedentes aportados permitan revelar o descubrir una o más conductas sancionadas como delito por los artículos 59, letra e, sólo en lo referente a las prohibiciones consignadas en los artículos 52 y 53; 60 letras e, g y h en relación con el artículo 164; o 61, siempre que no se trate de los sujetos señalados en su inciso segundo, todos de la ley Nº 18.045, de Mercado de Valores.
+
+Los beneficios indicados en los incisos anteriores no obstarán a la persecución de las responsabilidades civiles que tuvieren lugar. La acción de indemnización de perjuicios correspondiente podrá ser interpuesta ante el tribunal civil competente de conformidad con las reglas generales, y se tramitará de acuerdo al procedimiento sumario establecido en el título XI del libro III del Código de Procedimiento Civil. El tribunal apreciará la prueba de acuerdo a las reglas de la sana crítica.
+
+Para acceder a los beneficios indicados en los incisos primero, segundo y tercero, quien aporte antecedentes a la Comisión deberá cumplir los siguientes requisitos:
+
+1. Proporcionar antecedentes precisos, veraces y comprobables que representen una contribución efectiva a la constitución de elementos de prueba suficientes para fundar el oficio de cargos.
+
+2. Abstenerse de divulgar la solicitud de este beneficio hasta que se haya emitido la resolución sancionatoria u ordenado archivar los antecedentes del caso.
+
+3. Haber puesto fin a su participación en la conducta antes de presentar su solicitud.
+
+4. No haber sido el organizador o líder de la conducta ilícita, ni haber coaccionando a los demás a participar en ella.
+
+5. No haber sido sancionado previamente por infracciones a las leyes y a la normativa cuya fiscalización corresponde a la Comisión, con alguna de las sanciones previstas en los numerales 2 y 3 del artículo 36 o 2 y 3 del artículo 37.
+
+La persona que acceda a alguno de los beneficios descritos en el inciso tercero deberá, además, contribuir efectivamente a la investigación en el marco del proceso penal que lleve adelante el Ministerio Público por los mismos hechos. Para estos efectos, deberá proporcionar al fiscal del Ministerio Público a cargo del caso todos los antecedentes que hubiere aportado en la investigación conducida por la Comisión, y prestar declaración en calidad de testigo cuando fuere requerido por éste o por el tribunal llamado a conocer de los hechos, en su caso. La declaración podrá ser prestada en la forma dispuesta por el artículo 191 del Código Procesal Penal, caso en el cual será incorporada al juicio oral en la forma prevista en el artículo 331 del mencionado Código.
+
+Si el testigo legalmente citado no compareciere sin justa causa o se negare a ratificar su declaración prestada ante la Comisión y así lo declarare el juez de garantía competente a petición del Ministerio Público, o incurriere en alguna de las conductas previstas en los artículos 206 y 269 bis del Código Penal, será privado de los beneficios a los que hubiere accedido en virtud del inciso tercero del presente artículo. En contra de la resolución del juez de garantía que privare de dichos beneficios procederá el recurso de apelación que se concederá en ambos efectos.
+
+Quien solicite alguno de los beneficios a que se refieren los incisos primero, segundo y tercero de este artículo a sabiendas de que se basa en antecedentes falsos o fraudulentos, será sancionado con las penas de presidio menor en sus grados mínimo a medio y multa de 6 a 10 unidades tributarias mensuales.
+
+### Párrafo 5
+
+Disposiciones Generales
+
+#### Artículo 59
+
+La sanción aplicada por el Consejo que consistiere en una multa deberá ser pagada en la tesorería comunal correspondiente al domicilio del infractor, dentro del plazo de diez días, contado desde que la resolución del Consejo se encuentre firme. La persona sancionada deberá ingresar los comprobantes de pago respectivos en las oficinas de la Comisión dentro de quinto día de efectuado el pago. Si la persona sancionada no tuviere domicilio en Chile podrá enterar el pago de la multa correspondiente en la Tesorería Comunal de Santiago.
+
+Para efectos de lo dispuesto en el inciso anterior, se entenderá que la resolución del Consejo se encuentra firme cuando han transcurrido los plazos que disponen los artículos 69 y 71 sin que se hayan interpuesto los correspondientes recursos, o bien, habiéndose interpuesto, desde la notificación de la resolución expresa que resuelva el rechazo total o parcial de los mismos.
+
+Encontrándose firme la resolución del Consejo, la Tesorería General de la República podrá demandar ejecutivamente al infractor ante el juzgado de letras con competencia en lo civil correspondiente a su domicilio, acompañando copia de la resolución del Consejo que aplicó la sanción o de la sentencia ejecutoriada en su caso, la que tendrá, por sí sola, mérito ejecutivo.
+
+En el respectivo juicio ejecutivo, la oposición del ejecutado deberá ser presentada dentro de quinto día contado desde su notificación.
+
+#### Artículo 60
+
+De toda multa aplicada a una sociedad o a sus directores o liquidadores responderán solidariamente los directores o liquidadores que concurrieron con su voto favorable a los acuerdos que motivan la sanción.
+
+#### Artículo 61
+
+El Consejo no podrá sancionar a un infractor luego de transcurridos cuatro años desde la fecha en que hubiere terminado de cometer el hecho constitutivo de una infracción o de ocurrir la omisión sancionada.
+
+El plazo establecido en el inciso anterior se entenderá suspendido hasta por seis meses, contados desde la fecha en que la Comisión reciba un reclamo o denuncia referidos a hechos que pudieren ser constitutivos de infracción. El mismo plazo se entenderá interrumpido por el inicio de un procedimiento sancionatorio a partir de la fecha de notificación de los respectivos cargos a la persona objeto de los mismos.
+
+La acción de cobro de una multa prescribe en el plazo de dos años, contado desde que fuere exigible conforme a lo establecido en el artículo 59.
+
+#### Artículo 62
+
+El retardo en el pago de toda multa aplicada por la Comisión, en conformidad con la ley, devengará los intereses establecidos en el artículo 53 del Código Tributario, desde que se hubiere hecho exigible.
+
+Si la multa no fuera procedente y, no obstante, hubiese sido enterada en arcas fiscales, la Comisión o la Corte de Apelaciones de Santiago, según corresponda, deberán ordenar que se devuelva debidamente reajustada en la forma que señalan los artículos 57 y 58 del Código Tributario.
+
+#### Artículo 63
+
+Las normas establecidas en los artículos precedentes se aplicarán en todos los casos en que la Comisión sancione con multa a las personas o entidades fiscalizadas.
+
+#### Artículo 64
+
+Los términos de días que establece la presente ley se entenderán de días hábiles, a menos que se exprese lo contrario. Para estos efectos, se entenderá que no son hábiles los días sábados, domingos y festivos. De la misma forma se contarán los plazos que otorgue la Comisión.
+
+Las notificaciones se practicarán:
+
+1. Mediante carta certificada dirigida al domicilio que el fiscalizado tuviere registrado en la Comisión, o que el interesado hubiere designado ante ésta. Las notificaciones por carta certificada se entenderán practicadas a contar del tercer día hábil siguiente a su recepción en la oficina de Correos correspondiente al domicilio del notificado.
+
+2. De modo personal, por medio de un empleado de la Comisión, quien dejará copia íntegra del acto o resolución que se notifica en el domicilio del fiscalizado o interesado, dejando constancia de tal hecho.
+
+3. En las oficinas de la Comisión, si el fiscalizado o interesado se apersonare a recibirla, debiendo entregársele copia del acto o resolución que se le notifica, si así lo requiriese, firmando la debida recepción.
+
+4. A la casilla de correo electrónico que el fiscalizado tuviere registrada en la Comisión, o que el interesado hubiere designado ante ésta, en cuyo caso deberá suscribirse mediante firma electrónica avanzada, comenzando a correr los plazos a que ella se refiera el día siguiente hábil de despachada por la Comisión.
+
+Aun cuando no hubiere sido practicada notificación alguna o la que existiere fuere viciada, se entenderá el acto debidamente notificado si el interesado o fiscalizado a quien afectare hiciere cualquier gestión, con posterioridad al acto, que suponga necesariamente su conocimiento, sin haber reclamado previamente de su falta o nulidad.
+
+#### Artículo 65
+
+Las disposiciones de la presente ley primarán sobre las establecidas en los estatutos de las personas o entidades sujetas a la fiscalización de la Comisión.
+
+#### Artículo 66
+
+Los montos de las multas establecidas en esta ley que sean superiores prevalecerán a los contemplados en otros cuerpos legales para la sanción de los mismos hechos infraccionales.
+
+#### Artículo 67
+
+La Comisión que crea esta ley será considerada para todos los efectos la sucesora y continuadora legal de la Superintendencia de Valores y Seguros, y del servicio denominado Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio. Asimismo, será para todos los efectos la continuadora legal de la Superintendencia de Bancos e Instituciones Financieras.
+
+Las referencias que se hagan a la Superintendencia de Valores y Seguros, al Superintendente de Valores y Seguros, a la Superintendencia de Bancos e Instituciones Financieras y al Superintendente de Bancos e Instituciones Financieras, a la Superintendencia de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio o al Superintendente de Compañías de Seguros, Sociedades Anónimas y Bolsas de Comercio, contenidas en leyes, decretos, reglamentos, resoluciones, estatutos o cualquier otro cuerpo normativo, se entenderán hechas, respectivamente, a la Comisión para el Mercado Financiero, al Consejo o a su presidente, según corresponda.
+
+Del mismo modo, las referencias que se hagan al decreto ley Nº 3.538, de 1980, del Ministerio de Hacienda, se entenderán hechas a la presente ley.
+
+## Título V
+
+De los Recursos
+
+#### Artículo 68
+
+Las personas o entidades que estimen que los actos administrativos que emita la Comisión no se ajustan a la ley, reglamentos o normas que le compete aplicar podrán impugnarlos mediante los recursos que señala este título, sin perjuicio de los que sean procedentes de conformidad a las normas generales.
+
+#### Artículo 69
+
+Se podrá recurrir de reposición contra los actos administrativos y sanciones del Consejo, del presidente de la Comisión o del fiscal, según corresponda. La petición se formulará por escrito y contendrá en forma clara y precisa los hechos y el derecho en que se fundamenta.
+
+El plazo para su interposición será de cinco días hábiles contado desde la notificación del respectivo acto administrativo o sanción, y la autoridad correspondiente dispondrá de quince días hábiles para resolver al respecto, transcurridos los cuales sin que se hubiere pronunciado, se entenderá que rechaza el recurso para los efectos del inciso siguiente.
+
+La interposición de este recurso suspenderá el plazo para reclamar de ilegalidad de conformidad con los artículos 70 y 71 siguientes, plazo que se reanudará desde la notificación de la resolución expresa que resuelva el rechazo total o parcial de la reposición, o cuando opere el silencio negativo en los términos del artículo 65 de la ley Nº 19.880.
+
+#### Artículo 70
+
+Las personas que estimen que una norma de carácter general, instrucción, comunicación, resolución o cualquier otro acto administrativo emanado del Consejo, del presidente de la Comisión o del fiscal, según corresponda, distinto de aquellos a los que se refiere el artículo siguiente, es ilegal y les causa perjuicio, podrán presentar reclamo de ilegalidad ante la Corte de Apelaciones de Santiago.
+
+También podrán reclamarse, con sujeción al mismo procedimiento, las resoluciones de la Comisión que impongan las prohibiciones o limitaciones contenidas en el artículo 116 del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos que se indican; que designen inspector delegado o administrador provisional, o renueven esas designaciones; revoquen la autorización de existencia o resuelvan la liquidación forzosa de una empresa bancaria.
+
+De igual modo, procederá, en general, el mismo reclamo de ilegalidad para la impugnación de las demás resoluciones, órdenes o instrucciones que impongan a una persona o entidad fiscalizada por la Comisión una medida correctiva o preventiva en el ejercicio de la facultad consagrada en el numeral 30 del artículo 5 y el numeral 5 del artículo 21.
+
+Interpuesto el reclamo, la corte deberá pronunciarse previamente sobre la admisibilidad de éste, para lo cual el reclamante señalará en su escrito, con precisión, el acto reclamado, la disposición que supone infringida, la forma en que se ha producido la infracción y las razones por las cuales ésta lo perjudica. Cuando corresponda, el reclamante deberá acompañar el certificado que acredite que el recurso de reposición no ha sido resuelto dentro de plazo legal en los términos del artículo 65 de la ley Nº 19.880 o, en su defecto, copia del escrito por medio del cual se solicita la expedición de dicho certificado. La corte rechazará de plano el reclamo de ilegalidad si la presentación no cumple con las condiciones señaladas en el presente inciso.
+
+El reclamo de ilegalidad deberá interponerse dentro del plazo de diez días hábiles computado de acuerdo a lo establecido en el artículo 66 del Código de Procedimiento Civil, contado desde la notificación o publicación del acto que rechaza total o parcialmente el recurso de reposición o desde que ha operado el silencio negativo al que se refiere el inciso tercero del artículo 69.
+
+Si la Corte de Apelaciones declarare admisible el reclamo, dará traslado de éste por seis días hábiles notificando esta resolución por oficio.
+
+Evacuado el traslado, o acusada la rebeldía, la corte dictará sentencia en el término de quince días. La sentencia que rechace el reclamo de ilegalidad será susceptible de apelación ante la Corte Suprema dentro del plazo de diez días hábiles computado de acuerdo a lo establecido en el artículo 66 del Código de Procedimiento Civil, contado desde su notificación. La apelación será conocida en la forma prevista en los incisos anteriores y gozará de preferencia para su vista y fallo.
+
+La sola interposición del reclamo de ilegalidad a que se refiere el presente artículo no suspenderá los efectos del acto impugnado.
+
+#### Artículo 71
+
+Los sancionados por el Consejo podrán presentar reclamo de ilegalidad ante la Corte de Apelaciones de Santiago, dentro del plazo de diez días hábiles computado de acuerdo a lo establecido en el artículo 66 del Código de Procedimiento Civil, contado desde la notificación de la resolución que impuso la sanción que rechazó total o parcialmente el recurso de reposición o desde que ha operado el silencio negativo al que se refiere el inciso tercero del artículo 69. Dichos reclamos gozarán de preferencia para su vista y fallo.
+
+La Corte de Apelaciones de Santiago deberá pronunciarse previamente sobre su admisibilidad, para lo cual el reclamante señalará con precisión en su escrito el acto reclamado, la disposición que se supone infringida y las razones por las que no se ajusta a la ley, los reglamentos o demás disposiciones que le sean aplicables y las razones por las cuales aquél lo perjudica. Cuando corresponda, el reclamante deberá acompañar el certificado que acredite que el recurso de reposición no ha sido resuelto dentro de plazo legal en los términos del artículo 65 de la ley Nº 19.880 o, en su defecto, copia del escrito por medio del cual se solicita la expedición de dicho certificado. La corte rechazará de plano el reclamo si la presentación no cumple con las condiciones señaladas en este inciso.
+
+Si la Corte de Apelaciones lo declarare admisible, dará traslado por seis días, notificando esta resolución por oficio.
+
+Evacuado el traslado o vencido el plazo de que dispone para formular observaciones, la corte ordenará traer los autos en relación y la causa se agregará extraordinariamente a la tabla de la audiencia más próxima, previo sorteo de la Sala. La corte podrá, si lo estima pertinente, abrir un término probatorio que no podrá exceder de siete días.
+
+La sentencia que rechace el reclamo de ilegalidad será susceptible de apelación ante la Corte Suprema, recurso que deberá interponerse en el plazo de diez días hábiles computado de acuerdo a lo establecido en el artículo 66 del Código de Procedimiento Civil, contado desde su notificación. La apelación será conocida en la forma prevista en los incisos anteriores y gozará de preferencia para su vista y fallo.
+
+Si el reclamo de ilegalidad es deducido oportunamente, se suspenderán los efectos de la resolución que impuso la sanción y el transcurso del plazo para el pago de la multa, hasta que aquel sea resuelto por resolución ejecutoriada.
+
+En su decisión, la Corte Suprema podrá dejar la sanción sin efecto, confirmarla o modificarla, si así surgiere de los antecedentes puestos en su conocimiento. En contra de la sentencia de la Corte Suprema que resuelva el reclamo de ilegalidad no procederá recurso alguno.
+
+## Título VI
+
+Del Comité de Autorregulación Financiera
+
+#### Artículo 72
+
+Los intermediarios de valores de oferta pública, las bolsas de valores, las bolsas de productos, las administradoras generales de fondos y las administradoras de carteras individuales fiscalizadas por la Comisión deberán autorregularse con la finalidad de implementar buenas prácticas en materia de gobierno corporativo, ética empresarial, transparencia y competencia leal entre los distintos actores del mercado.
+
+Para tales efectos, existirá un Comité de Autorregulación Financiera (en adelante también el "Comité"), cuyo objeto exclusivo será dictar normas que permitan alcanzar los fines descritos en el inciso precedente y velar por su adecuado cumplimiento; establecer y acreditar el cumplimiento de estándares de idoneidad técnica y ética de los participantes del mercado de valores; resolver las diferencias o reclamos que se presenten entre sus miembros o entre éstos y sus clientes, cuando así lo solicitaren, y promover la protección de los inversionistas.
+
+Podrán participar como miembros de este Comité tanto las entidades descritas en el inciso primero del presente artículo, como toda otra entidad que participe del mercado financiero que así lo solicitare. Lo anterior, sin perjuicio de la existencia de entidades que puedan asociarse al Comité, tales como asociaciones gremiales, empresas de custodia y depósito de valores, administradoras de sistemas de compensación y liquidación de instrumentos financieros, entre otras, en los términos y condiciones que al efecto aquel determine.
+
+#### Artículo 73
+
+La administración general del Comité será ejercida por un directorio, compuesto por cinco directores independientes, los que serán elegidos por el subcomité de designación en virtud de lo dispuesto en el inciso tercero de este artículo. El reglamento interno deberá establecer las normas sobre designación, periodicidad, convocatoria, quórum y funcionamiento general del directorio. El presidente del directorio será elegido por el señalado subcomité de entre aquellos directores escogidos, y ejercerá la representación judicial y extrajudicial de la entidad autorreguladora.
+
+Para los efectos descritos en el inciso precedente no se considerarán independientes a quienes se encuentren en alguna de las siguientes circunstancias:
+
+1. Mantuvieren cualquier vínculo, interés o dependencia económica, profesional, crediticia o comercial de carácter relevante, con alguna de las sociedades integrantes de la entidad de autorregulación o del grupo empresarial del que ella forme parte, su controlador, o los ejecutivos principales de cualquiera de ellos; o haya tenido tal calidad durante el año inmediatamente anterior a la designación. Para estos efectos se entenderá que existe un vínculo, interés o dependencia económica relevante, cuando éste represente el 10% o más de sus ingresos anuales.
+
+2. Mantuvieren una relación de parentesco hasta el segundo grado de consanguineidad o afinidad con alguna de las personas indicadas en el numeral anterior.
+
+El subcomité de designación estará compuesto por ocho miembros que representarán a las entidades que participen del Comité según las áreas del mercado en que se desenvuelvan, los que serán escogidos en virtud del procedimiento regulado por el reglamento interno del Comité. Para estos efectos, a los intermediarios de valores de oferta pública les corresponderá nombrar a dos representantes, a las bolsas de valores y las bolsas de productos a dos representantes en conjunto, a las administradoras generales de fondos a dos representantes, y a las administradoras de carteras individuales fiscalizadas por la Comisión a dos representantes. En caso que se aceptare la entrada de otros participantes del mercado financiero al Comité, deberá aumentarse el número de miembros del subcomité de designación, en razón de un miembro por cada nueva área del mercado que se vea representada en el Comité.
+
+El Comité podrá convocar, de oficio o a petición de cualquiera de sus miembros, a una asamblea general, constituida por representantes de todos sus miembros, y en la que cada uno de ellos dispondrá de un voto. Sin perjuicio de lo anterior, aquellos integrantes que pertenezcan al mismo grupo empresarial en los términos del artículo 96 de la ley Nº 18.045, de Mercado de Valores, dispondrán de un solo voto en su conjunto. El reglamento interno deberá establecer las normas sobre periodicidad, convocatoria, quórum, funcionamiento y participación en la asamblea general, y procurará garantizar condiciones suficientes de igualdad entre los miembros y de transparencia en su actuación.
+
+#### Artículo 74
+
+El Comité deberá dictar un reglamento interno en el que se fijarán las normas relativas a su organización, estructura y funcionamiento; los procedimientos de regulación y supervisión; y, en general, todas aquellas normas que le permitan garantizar una gestión eficiente.
+
+El reglamento interno del Comité y sus eventuales modificaciones deberán ser aprobados por la mayoría de la Asamblea General, y depositados en la Comisión. La Comisión podrá, en cualquier momento, representar fundadamente al Comité que el reglamento o sus eventuales modificaciones no se ajustan a la legislación o a la normativa vigente, en cuyo caso el Comité deberá subsanar las observaciones dentro del plazo que le indique la Comisión. En caso que el Comité no subsanare las observaciones dentro del plazo, la Comisión podrá, sin más trámite, dejar sin efecto aquella parte del reglamento o su modificación que hubiere sido objetada, según sea el caso.
+
+#### Artículo 75
+
+El Comité será una entidad sin fines de lucro, y su patrimonio estará formado por:
+
+1. El aporte que enteren anualmente las entidades que lo integren, en la proporción que establezca el reglamento interno.
+
+2. Los bienes muebles e inmuebles que se le transfieran o adquiera a cualquier título.
+
+3. Los frutos de sus bienes.
+
+4. Las donaciones que reciba, las que no estarán sujetas al trámite de insinuación.
+
+5. Los montos que perciba producto de las sanciones que curse.
+
+6. El aporte de las entidades asociadas al Comité a que se refiere el inciso tercero del artículo 72.
+
+7. Los ingresos que perciba por los servicios que preste.
+
+8. Los aportes que reciba a cualquier título por concepto de cooperación internacional.
+
+El reglamento interno establecerá de manera precisa los criterios y mecanismos de determinación de los aportes que deberán enterar sus miembros, el registro de las transferencias de bienes muebles e inmuebles, de las donaciones a las que se refiere el numeral 4 del inciso anterior, los ingresos y egresos y los aportes que reciba bajo cualquier modalidad o título, los que deberán determinarse en base a criterios objetivos y podrán considerar componentes fijos y variables.
+
+El reglamento interno podrá establecer los servicios adicionales que el Comité pueda prestar a sus miembros, a las personas vinculadas a éstos o al público general, así como el valor que se cobrará por cada uno de dichos servicios, los que deberán ser públicos y no discriminatorios.
+
+El directorio deberá nombrar anualmente a una empresa de auditoría externa, la que deberá examinar la contabilidad, inventario, balance y otros estados financieros del Comité, en los términos descritos en el Título V de la ley Nº 18.046, sobre Sociedades Anónimas.
+
+Asimismo, el directorio deberá dar cuenta de su gestión en asamblea general, informando el detalle del trabajo efectuado por el Comité en el período anterior. El reglamento interno establecerá la periodicidad y materias que deberá contener dicha exposición, la que deberá realizarse, al menos, anualmente.
+
+La Comisión podrá fiscalizar en cualquier tiempo el cumplimiento de lo establecido en el reglamento interno, especialmente lo relativo a la determinación y pago de los aportes de sus miembros, solicitar los registros a que se refiere el inciso segundo de este artículo y toda otra información relativa a la administración de los bienes que componen el patrimonio del Comité.
+
+#### Artículo 76
+
+El Comité dictará las normas necesarias para cumplir con sus objetivos, especialmente en materias de gobierno corporativo, ética empresarial, transparencia e información a los inversionistas, y competencia leal entre los distintos actores del mercado.
+
+Las normas serán aprobadas por el directorio de acuerdo a lo establecido en el reglamento interno y, dentro de un plazo de treinta días contado desde su aprobación, deberán ser depositadas en la Comisión y publicadas en el sitio web del Comité. Verificados estos trámites, dichas normas serán obligatorias para todos sus miembros.
+
+La Comisión podrá, en cualquier momento, representar fundadamente al Comité que una determinada norma no se ajusta a la legislación o a la normativa vigente, en cuyo caso el Comité deberá subsanar las observaciones dentro del plazo que le indique la Comisión. En caso que el Comité no subsane las observaciones dentro del plazo, la Comisión podrá, sin más trámite, dejar sin efecto la norma respectiva.
+
+Lo anterior, sin perjuicio que la Comisión, en ejercicio de sus facultades normativas, emita una norma de carácter general que contenga una disposición aprobada por el Comité, haciéndola de esta forma aplicable a las entidades sometidas a su fiscalización que no sean miembros de éste.
+
+#### Artículo 77
+
+Las entidades obligadas a autorregularse en virtud de lo establecido en el artículo 72, que no participen del Comité, deberán dictar normas y códigos de conducta que las rijan para efectos de cumplir con el objeto establecido en dicho artículo.
+
+Las normas deberán ser sometidas a la aprobación de la Comisión, dentro del plazo de treinta días contado desde su formulación, y ésta resolverá dentro del plazo de sesenta días hábiles contado desde su recepción. Verificados estos trámites, dichas normas serán obligatorias para la respectiva entidad, la que deberá publicarlas en su web institucional.
+
+La Comisión podrá, en cualquier momento, representar fundadamente que una determinada norma no se ajusta a la legislación o a la normativa vigente, en cuyo caso la entidad correspondiente deberá subsanar las observaciones dentro del plazo que le indique la Comisión. En caso que no subsane las observaciones dentro del plazo, la Comisión podrá, sin más trámite, dejar sin efecto la norma respectiva.
+
+#### Artículo 78
+
+El Comité deberá supervisar el cumplimiento de las normas emitidas por él, por la Comisión, por las bolsas de valores, las bolsas de productos, por las empresas de custodia y depósito de valores, y las administradoras de sistemas de compensación y liquidación de instrumentos financieros. Dicha labor deberá contemplar, a lo menos, un adecuado monitoreo de las transacciones que se realicen por intermedio de las bolsas, planes de auditoría periódica a los miembros, y la realización de acciones tendientes a prevenir la ocurrencia de infracciones a las leyes y normativa aplicable a sus miembros. Las infracciones a las normas descritas en el presente artículo por parte de los miembros del Comité serán sometidas a un procedimiento que determinará si son objeto de multa u otro tipo de medida, sin perjuicio de las sanciones que pueda imponer la Comisión por los mismos hechos. Tratándose de infracciones constitutivas de delito, el Comité deberá informar a la Comisión tan pronto tenga conocimiento de aquéllas.
+
+El reglamento interno deberá establecer las normas que regulen el procedimiento a que se refiere el inciso anterior, el que, en todo caso, deberá garantizar una investigación transparente y un justo y racional procedimiento a todos los intervinientes.
+
+Asimismo, el reglamento deberá establecer procedimientos que regulen la denuncia anónima de presuntas infracciones cometidas por los miembros del Comité.
+
+La Comisión deberá tomar en consideración las sanciones cursadas por el Comité para efectos de determinar el monto efectivo de la multa a ser impuesta a alguna de las entidades que lo integren.
+
+#### Artículo 79
+
+El Comité podrá otorgar las acreditaciones de idoneidad y conocimientos suficientes a los participantes del mercado de valores que por disposición legal o reglamentaria estén obligados a obtenerlas, y a aquellos que voluntariamente deseen hacerlo, cumpliendo con las exigencias que establezca previamente la Comisión, por norma de carácter general.
+
+Lo anterior, sin perjuicio de las facultades que se le otorgan a las bolsas en la legislación respectiva. Con todo, las bolsas podrán celebrar convenios de cooperación para efectos de delegar dichas funciones en el Comité.
+
+#### Artículo 80
+
+El Comité establecerá en su reglamento interno un mecanismo transparente, reglado y participativo para efectos de conocer y resolver los conflictos que se susciten entre sus participantes, o entre uno o más de éstos y sus clientes, garantizando un justo y racional procedimiento a todos los intervinientes.
+
+#### Artículo 81
+
+El Comité podrá acordar memorandos de entendimiento con otras entidades de su misma especie, supervisores, bolsas, entidades académicas y otras relacionadas con los mercados financieros del sector público y privado, sean éstas nacionales o extranjeras, para la cooperación técnica, capacitación, asistencia recíproca e intercambio de cualquier tipo de información o documentación que conozca o adquiera en el ejercicio de sus funciones. Con todo, en caso que dicha información sea secreta o reservada deberá mantener dicho carácter sin perjuicio de su traspaso.
+
+#### Artículo segundo
+
+Introdúcense las siguientes modificaciones en el decreto con fuerza de ley Nº 13, de 1981, del Ministerio de Hacienda, que fija la planta de personal de la Superintendencia de Valores y Seguros:
+
+1. Sustitúyese en su denominación la expresión "Superintendencia de Valores y Seguros" por "Comisión para el Mercado Financiero".
+
+2. En el artículo 1:
+
+a) Reemplázase, en su encabezamiento, la palabra "Superintendencia Valores y Seguros" por "Comisión para el Mercado Financiero".
+
+b) Enmiéndase la tabla que contiene, como sigue:
+
+i. Sustitúyese la denominación del escalafón "Jefe Superior del Servicio" por la siguiente: "Jefe Superior del Servicio-Presidente de la Comisión para el Mercado Financiero".
+
+ii. Agréganse, en el escalafón de Directivos, cuatro cargos grado 2° para los comisionados de la Comisión para el Mercado Financiero.
+
+3. Elimínase el artículo 2.
+
+#### Artículo tercero
+
+Sin perjuicio de lo dispuesto en el artículo anterior, la planta de personal de la Comisión para el Mercado Financiero será la establecida para la Superintendencia de Valores y Seguros, contenida en el decreto con fuerza de ley Nº 13, de 1981, del Ministerio de Hacienda, y sus modificaciones posteriores. El personal de la referida comisión estará sujeto al sistema de remuneraciones a que se encontraba afecta la Superintendencia de Valores y Seguros.
+
+#### Artículo cuarto
+
+Intercálase en la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, el siguiente artículo 37 bis:
+
+#### Artículo 37 bis
+
+Cuando un órgano de la Administración del Estado deba evacuar un acto administrativo de carácter general que tenga claros efectos en los ámbitos de competencia de otro órgano, le remitirá todos los antecedentes y requerirá de éste un informe para efectos de evitar o precaver conflictos de normas, con el objeto de resguardar la coordinación, cooperación y colaboración entre los órganos involucrados en su dictación.
+
+Los órganos administrativos cuyo informe se solicite deberán evacuarlo dentro del plazo de treinta días corridos, contado desde la fecha en que hubieren recibido el requerimiento a que se refiere el inciso precedente. El requirente valorará el contenido de la opinión del órgano administrativo requerido, expresándolo en la motivación del acto administrativo de carácter general que dicte, de conformidad con lo dispuesto en el artículo 41. Transcurrido el plazo sin que se hubiere recibido el correspondiente informe, se procederá conforme al inciso segundo del artículo 38.
+
+El requerimiento y los informes que emitan los órganos administrativos en virtud de los incisos anteriores se sujetarán en su forma, valor y tramitación a lo señalado en los artículos 37 y 38.
+
+No regirá lo establecido en los incisos anteriores en los casos en que el acto administrativo de carácter general requiera aplicación inmediata o en el más breve plazo posible, atendida su naturaleza y urgencia, circunstancia que deberá ser justificada y de la cual se dejará constancia en su texto.
+
+Con todo, el órgano administrativo autor de dicho acto, con posterioridad a su dictación, deberá remitirle a los otros órganos administrativos competentes todos los antecedentes tenidos a la vista y requerir de éstos un informe, con el propósito de cumplir con los objetivos señalados en el inciso primero, en la aplicación del acto administrativo respectivo.".
+
+DISPOSICIONES TRANSITORIAS
+
+#### Artículo primero
+
+transitorio.- Lo dispuesto en el artículo primero de esta ley, con excepción de lo señalado en los incisos segundo y siguientes de este artículo, así como lo mandatado en los artículos segundo y tercero, entrará en vigencia dieciocho meses después de la publicación de esta ley o cuando entre en funcionamiento la Comisión para el Mercado Financiero si esto ocurriere con anterioridad. Por su parte, la modificación introducida mediante el artículo cuarto de la presente ley entrará en vigencia una vez dictado el reglamento respectivo, el que no podrá emitirse en un plazo superior a seis meses desde dicha publicación.
+
+El Presidente de la República, a lo menos dos meses antes de la fecha de inicio de las funciones de la Comisión para el Mercado Financiero, deberá designar, en la forma prevista en el artículo 9 contenido en el artículo primero de esta ley, al presidente de la comisión y a los demás comisionados. Con todo, éstos sólo asumirán sus cargos una vez que la referida comisión inicie su funcionamiento.
+
+El primer presidente de la comisión durará en su cargo hasta el término del mandato del Presidente de la República que lo designe, salvo que concurra alguna de las causales de cesación en sus funciones establecidas en las disposiciones del artículo primero de esta ley.
+
+Para el primer nombramiento de los demás comisionados, y para los efectos de la renovación alternada y por parcialidades de los mismos a que se refiere la letra b) del artículo 9 citado en el inciso segundo, en la propuesta que efectúe el Presidente de la República al Senado, presentará dos de los candidatos con una duración en su cargo de tres años a contar de la fecha de su nombramiento, y a los otros dos con una duración en su cargo de seis años a contar de la fecha de su nombramiento, sin perjuicio que, en ambos casos, podrán ser designados hasta por un nuevo período adicional. Lo anterior deberá quedar así también consignado en el primer decreto de nombramiento.
+
+#### Artículo segundo
+
+transitorio.- El consejo a que se refiere el artículo 8 contenido en el artículo primero de esta ley deberá dictar su normativa interna de funcionamiento en el plazo de sesenta días, contado desde la fecha de inicio de sus funciones.
+
+#### Artículo tercero
+
+transitorio.- Sin perjuicio de lo dispuesto en los artículos 1 y 3 contenidos en el artículo primero de esta ley, la Comisión para el Mercado Financiero no podrá ejercer sus competencias respecto de las personas, entidades o actividades sujetas expresamente al control de la Superintendencia de Bancos e Instituciones Financieras, sino hasta que se materialice la modificación legal que la habilite para ejercer competencias respecto de dichas personas, entidades y actividades. En la modificación aludida deberán establecerse las formas y condiciones en que dichas facultades serán ejercidas.
+
+En cumplimiento de lo anterior, el Presidente de la República deberá enviar al Congreso Nacional, dentro del plazo de un año desde la publicación de esta ley, un proyecto de ley que modifique el decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican.
+
+#### Artículo cuarto
+
+transitorio.- Facúltase al Presidente de la República para que dentro del plazo de un año, contado desde la fecha de publicación de esta ley, establezca mediante uno o más decretos con fuerza de ley, expedidos a través del Ministerio de Hacienda, las normas necesarias para regular las siguientes materias:
+
+1. Fijar la fecha en que la Comisión para el Mercado Financiero entrará en funcionamiento, contemplando un período para su implementación, el que no podrá exceder de seis meses, y determinar la fecha de supresión de la Superintendencia de Valores y Seguros.
+
+2. Fijar las normas necesarias para establecer el estatuto de personal de carácter especial de la Comisión para el Mercado Financiero, el cual contendrá el régimen de administración de personal, regulando las relaciones que vinculan a esta comisión con sus funcionarios, el cual deberá disponer, a lo menos, normas sobre la o las formas en que se efectuarán las contrataciones del personal; jornadas de trabajo; permisos; los mecanismos de promociones; las normas necesarias para el desempeño de destinaciones, comisiones de servicio y cometidos funcionarios; los sistemas de capacitación y calificación del desempeño laboral, y causales de terminación de la relación laboral. También podrá establecer las normas transitorias necesarias para la aplicación del estatuto de personal de carácter especial. Además, podrá establecer las materias que se regirán por la norma supletoria a que se refiere el artículo 26 contenido en el artículo primero de esta ley. Asimismo, fijará la o las fechas de entrada en vigencia de las normas de personal que rijan a la comisión.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, al personal de la Comisión para el Mercado Financiero le serán aplicables las normas sobre probidad administrativa a las que se refiere el artículo 2 contenido en el artículo primero de esta ley.
+
+Mientras el Estatuto de Personal a que se refiere este artículo no sea dictado, el personal de la Comisión para el Mercado Financiero se seguirá rigiendo por las normas estatutarias que actualmente rigen al personal de la Superintendencia de Valores y Seguros. Los trabajadores que a la fecha de publicación de esta ley se encontraren prestando servicios en la Superintendencia de Valores y Seguros continuarán ejerciendo labores en la Comisión para el Mercado Financiero.
+
+El ejercicio de la facultad a que se refiere el numeral 2 del inciso primero quedará sujeto a las siguientes restricciones, respecto del personal que afecte:
+
+a) No podrá tener como consecuencia cambio de la residencia habitual de los funcionarios fuera de la región en que estén prestando servicios, salvo con su consentimiento.
+
+b) No podrá tener como consecuencia ni ser considerado como causal de término de servicios, supresión de cargos, cese de funciones o término de la relación laboral, ni disminución de sus remuneraciones. Cualquier diferencia de remuneraciones deberá ser pagada por planilla suplementaria, la que se absorberá por los futuros mejoramientos de remuneraciones que correspondan a los funcionarios, excepto los derivados de reajustes generales que se otorguen a los trabajadores y trabajadoras del sector público. Dicha planilla mantendrá la misma imponibilidad que aquella de las remuneraciones que compensa. Además, a la planilla suplementaria se le aplicará el reajuste general antes indicado.
+
+#### Artículo quinto
+
+transitorio.- Los procedimientos sancionatorios iniciados con anterioridad a la fecha del comienzo de actividades de la Comisión para el Mercado Financiero seguirán tramitándose conforme a las normas vigentes a la fecha de iniciación de los mismos.
+
+#### Artículo sexto
+
+transitorio.- El Comité de Autorregulación Financiera a que se refiere el título VI contenido en el artículo primero de esta ley se constituirá dentro de los seis meses siguientes a la fecha en que comience su funcionamiento la Comisión para el Mercado Financiero.
+
+Para estos efectos, los intermediarios de valores de oferta pública, las bolsas de valores, las bolsas de productos, las administradoras generales de fondos y las administradoras de carteras individuales fiscalizadas por la Comisión para el Mercado Financiero, y los demás participantes del mercado que decidan hacerlo, deberán concurrir ante la comisión manifestando su voluntad de formar parte del comité indicado en el inciso precedente. La referida comisión determinará por medio de norma de carácter general el plazo para realizar dichas presentaciones, la que deberá ser publicada, por una vez, en el Diario Oficial, en un diario de circulación nacional y en la página web de la comisión, a fin de contar con la debida publicidad.
+
+Una vez vencido el plazo que determine la Comisión para el Mercado Financiero, ésta deberá entregar las facilidades de comunicación y coordinación para que cada una de las áreas del mercado señaladas en el inciso anterior proceda al nombramiento del primer subcomité de designación, en virtud de lo dispuesto en el inciso tercero del artículo 73 contenido en el artículo primero de esta ley.
+
+En caso que alguna de las áreas del mercado financiero no se encuentre representada en el subcomité de designación, por no haber manifestado ninguna de las entidades que la conforman la voluntad de concurrir a su formación, se procederá igualmente a su integración prescindiendo de los representantes de aquellas áreas. Una vez constituido el subcomité de designación conforme a lo establecido en los incisos precedentes, éste deberá proceder al nombramiento del primer directorio del comité y a su presidente dentro del plazo de noventa días.
+
+El directorio deberá dictar el reglamento interno del comité, el que deberá ser aprobado por la asamblea general de miembros por simple mayoría.
+
+El reglamento interno del comité deberá ser depositado en la comisión dentro del plazo de seis meses, contado desde la fecha de su constitución. En dicho reglamento se establecerá el plazo para inicio del funcionamiento del comité, el que no podrá exceder de doce meses, contado desde el nombramiento de su directorio. Dentro de igual plazo deberán enterarse los aportes iniciales de sus miembros.
+
+#### Artículo séptimo
+
+transitorio.- Dentro de los seis meses siguientes a la fecha en que comience su funcionamiento la Comisión para el Mercado Financiero, las entidades obligadas a autorregularse en virtud de lo establecido en el artículo 72 contenido en el artículo primero de esta ley, que no participen del Comité de Autorregulación Financiera a que se refiere el título VI contenido en el señalado artículo primero, deberán remitir a la comisión para su aprobación las normas y códigos de conducta que las rijan, de conformidad al artículo 77 del artículo primero de esta ley.
+
+#### Artículo octavo
+
+transitorio.- Increméntase la dotación máxima de la Comisión para el Mercado Financiero, a contar de la fecha de su iniciación de actividades, en 16 cupos.
+
+#### Artículo noveno
+
+transitorio.- El Presidente de la República, por decreto expedido por intermedio del Ministerio de Hacienda, conformará el primer presupuesto de la Comisión para el Mercado Financiero y transferirá a ella los fondos de la Superintendencia de Valores y Seguros, para lo cual podrá crear, suprimir o modificar los capítulos, asignaciones, ítems y glosas presupuestarias que sean pertinentes.
+
+#### Artículo décimo
+
+transitorio.- El mayor gasto fiscal que irrogue la aplicación de esta ley durante su primer año presupuestario de vigencia se financiará con cargo al Presupuesto de la Superintendencia de Valores y Seguros y, en lo que faltare, con cargo a la partida presupuestaria Tesoro Público. En los años siguientes se financiará con cargo a los presupuestos anuales de la Comisión para el Mercado Financiero.".
+
+Habiéndose cumplido con lo establecido en el Nº 1 del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+
+Santiago, 10 de febrero de 2017.- MICHELLE BACHELET JERIA, Presidenta de la República.- Rodrigo Valdés Pulido, Ministro de Hacienda.- Jaime Campos Quiroga, Ministro de Justicia y Derechos Humanos.
+
+Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Alejandro Micco Aguayo, Subsecretario de Hacienda.
+
+Tribunal Constitucional
+
+Proyecto de ley que crea la Comisión para el Mercado Financiero, correspondiente al boletín N° 9.015-05
+
+El Secretario del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control preventivo de constitucionalidad respecto de los artículos 1; 2; 4; 5 números 1), 5), 27), 28) y 31) párrafo segundo; 7; 8; 9; 12; 14 incisos tercero, cuarto y quinto; 18; 20; 21; 22; 26; 29; 30; 31; 35; 62; 67; 70; 71 y 78, todos contenidos en el artículo primero; del artículo cuarto y del artículo primero transitorio del proyecto de ley, y por sentencia de 27 de enero de 2017, en los autos Rol Nº 3312-17-CPR.
+
+Se declara:
+
+1º. Que, los artículos que se mencionarán, contenidos en el artículo primero del proyecto de ley, son conformes con la Constitución Política:
+
+a) 2º, en el entendido que se consigna en el considerando cuadragésimo séptimo;
+
+b) 5º, numeral 5°, párrafos primero y, tercero, en la frase "Salvo los casos especialmente regulados en otras disposiciones legales, los requerimientos de información sobre operaciones bancarias sometidas a secreto o reserva que formule el fiscal en virtud de lo establecido en este numeral, deberán, además, ser autorizados previamente por un ministro de la Corte de Apelaciones de Santiago.";
+
+c) 5º, numeral 5, párrafo sexto, en la frase "Los afectados podrán reclamar ante el ministro de corte a que se refiere el párrafo tercero,";
+
+d) 5º, numeral 27, párrafo primero, en el entendido que se desarrolla en el considerando cuadragésimo octavo;
+
+e) 8º, inciso primero;
+
+f) 9º, inciso primero, numerales 1° y 2°;
+
+g) 11, numeral 3°, párrafo segundo;
+
+h) 12, numerales 1° y 2°, párrafo primero;
+
+i) 13, inciso primero, en la frase "Lo anterior, sin perjuicio de la obligación de presentar las declaraciones de patrimonio e intereses a que se refiere la ley Nº 20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses.";
+
+j) 14, inciso tercero;
+
+k) 16, numeral 2°;
+
+l) 20, en el entendido explicitado en el considerando cuadragésimo noveno;
+
+m) 22;
+
+n) 26;
+
+o) 29;
+
+p) 30;
+
+q) 31;
+
+r) 35, inciso tercero;
+
+s) 58, inciso sexto;
+
+t) 70, incisos primero y segundo;
+
+u) 71, incisos primero y séptimo, en el entendido de que trata el considerando quincuagésimo;
+
+2º. Que, la disposición contenida en el artículo 5°, numeral 1°, párrafo segundo, del artículo primero del proyecto de ley, es inconstitucional y, en consecuencia, debe eliminarse del texto del proyecto de ley sometido a control preventivo de constitucionalidad.
+
+3º. Que, este Tribunal Constitucional no emite pronunciamiento, en examen preventivo de constitucionalidad, por no versar sobre materias propias de ley orgánica constitucional, de las disposiciones contenidas en:
+
+### I. Artículo primero, en sus artículos:
+
+a) 1º; 3°; y, 4°;
+
+b) 5º, numerales 1°, párrafo primero; 2º; 3º; 4º; 5º, párrafos segundo, tercero -con la excepción de la frase "Salvo los casos especialmente regulados en otras disposiciones legales, los requerimientos de información sobre operaciones bancarias sometidas a secreto o reserva que formule el fiscal en virtud de lo establecido en este numeral, deberán, además, ser autorizados previamente por un ministro de la Corte de Apelaciones de Santiago."-, cuarto, quinto, sexto - con la excepción de la frase "Los afectados podrán reclamar ante el ministro de corte a que se refiere el párrafo tercero,"-, séptimo, octavo, noveno y décimo; 6º; 7º; 8º; 9º; 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24; 25; 26; 27, párrafos segundo y tercero; 28; 29; 30; 31; 32; y, 33;
+
+c) 6º y 7º;
+
+d) 8º, incisos segundo, tercero y cuarto;
+
+e) 9º, incisos segundo, tercero, cuarto y quinto;
+
+f) 10;
+
+g) 11, numerales 1º, 2º, y 3º, párrafo primero;
+
+h) 12, numeral 2º, párrafo segundo; numeral 3º e, inciso final;
+
+i) 13, incisos primero -con la excepción de la frase "Lo anterior, sin perjuicio de la obligación de presentar las declaraciones de patrimonio e intereses a que se refiere la ley N° 20.880, sobre Probidad en la Función Pública y Prevención de los Conflictos de Intereses."- y segundo;
+
+j) 14, con excepción de su inciso tercero;
+
+k) 15;
+
+l) 16, con excepción de su numeral 2º;
+
+m) 17; 18; 19; 21; 23; 24; 25; 27; 28; 32; 33; 34;
+
+n) 35, con excepción de su inciso tercero;
+
+o) 36; 37; 38; 39; 40; 41; 42; 43; 44; 45; 46; 47; 48; 49; 50; 51; 52; 53; 54; 55; 56; 57;
+
+p) 58, con excepción de su inciso sexto;
+
+q) 59; 60; 61; 62; 63; 64; 65; 66; 67; 68; 69;
+
+r) 70, con excepción de sus incisos primero y segundo;
+
+s) 71, con excepción de sus incisos primero y séptimo;
+
+t) 72; 73; 74; 75; 76; 77; 78; 79; 80; y, 81;
+
+### II. Artículos segundo, tercero y cuarto;
+
+### III. Artículos primero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno y décimo transitorios
+
+Santiago, 27 de enero de 2017.- Rodrigo Pica Flores, Secretario.
