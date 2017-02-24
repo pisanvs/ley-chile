@@ -102,7 +102,7 @@ La delegación comprende la facultad de autorizar el aprobar el pago de lo compr
 
 Incluye la facultad de declarar inadmisibles las ofertas cuando éstas no cumplieren con los requisitos establecidos en las bases; la facultad de declarar desierta una licitación cuando no se presenten ofertas, o bien, cuando éstas no resulten convenientes a los intereses del Servicio, cumpliendo el requisito de resolución fundada que exige el art. 9 de la Ley de Bases sobre Contratos administrativos de suministro y prestación de servicios; la facultad de nombrar integrantes de comisiones evaluadoras; la facultad de nombrar y remover referentes técnicos y asesores técnicos de reconocido prestigio en las materias técnicas a revisar en los procesos de licitación.
 
-Incluye la facultad de aplicar multas, cobrar las garantías o terminar anticipadamente el contrato.
+Incluye la facultad de resolver en los procesos administrativos asociados a la aplicación de multas, cobro de garantías y término anticipado de contrato. Con todo, la facultad de resolver en los procesos administrativos asociados a la aplicación de multas, cobro de garantías y término anticipado de contrato respecto de los contratos de diseño y/o construcción de hospitales se excluye de esta delegación.
 
 b) La facultad de aceptar donaciones en dinero hasta 250 UTM, siempre que se acepte con beneficio de inventario.
 
