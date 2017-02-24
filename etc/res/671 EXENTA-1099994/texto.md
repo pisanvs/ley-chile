@@ -20,7 +20,11 @@ Durante el período señalado, los Serviu recibirán las solicitudes de inscripc
 
 La asignación de subsidio se efectuará en forma mensual, con los inscritos al último día hábil de cada mes, siempre que cumplan con los requisitos exigidos en el presente llamado, mediante resolución del Ministro de Vivienda y Urbanismo y publicadas en el Diario Oficial. En casos de urgente necesidad habitacional, los subsidios podrán ser asignados antes del plazo señalado, con los inscritos a la fecha de la asignación.
 
-Las nóminas de los seleccionados serán publicadas en el sitio web del Minvu, o del Serviu y/o de la Seremi de Vivienda y Urbanismo respectiva, y/o en los medios que el Minvu disponga al efecto, las que deberán contener a lo menos el número de cédula de identidad del beneficiario. La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados para cada Región, serán los siguientes:
+Las nóminas de los seleccionados serán publicadas en el sitio web del Minvu, o del Serviu y/o de la Seremi de Vivienda y Urbanismo respectiva, y/o en los medios que el Minvu disponga al efecto, las que deberán contener a lo menos el número de cédula de identidad del beneficiario.
+
+La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados para cada Región, serán los siguientes:
+
+Podrán inscribirse en este llamado los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo, hubiesen estado o no residiendo en la vivienda siniestrada.
 
 2. Sin perjuicio del cumplimiento de las exigencias establecidas en el DS N° 1 (V. y U.), de 2011, los damnificados deberán cumplir con los siguientes requisitos y antecedentes:
 
@@ -76,25 +80,25 @@ e) Haber obtenido algún beneficio habitacional anterior del Serviu, o de sus an
 
 4. No podrán inscribirse quienes tengan algún Certificado de Subsidio Habitacional vigente a la fecha, ni aquellos que estuvieran postulando a cualquier otro programa habitacional de las instituciones del Sector Vivienda, o respecto de los cuales se hubiere efectuado la reserva del subsidio conforme al Título IV del DS N° 120 (V. y U.), de 1995, del DS N° 116 (V. y U.), de 2014, o del DS N° 19 (V. y U.), de 2016, o si lo estuviere su cónyuge o conviviente civil.
 
-Tampoco podrán inscribirse en alguna de las modalidades de aplicación del subsidio los propietarios del inmueble afectado, arrendatarios o allegados que, aun teniendo la calidad de damnificados, sean propietarios de otro u otros inmuebles de carácter habitacional o cuando lo sea su cónyuge, salvo que estos inmuebles se encuentren igualmente en estado inhabitable, lo cual deberá ser acreditado.
+Tampoco podrán inscribirse los propietarios del inmueble afectado, arrendatarios o allegados que, aun teniendo la calidad de damnificados, sean propietarios de otro u otros inmuebles de carácter habitacional o cuando lo sea su cónyuge, salvo que estos inmuebles se encuentren igualmente en estado inhabitable, lo cual deberá ser acreditado.
 
 5. Los beneficiarios de un subsidio habitacional otorgado por este Ministerio, que estén inscritos en el Registro de Damnificados, y que aún no lo hayan aplicado, podrán acogerse a los montos de subsidio establecidos en esta resolución en caso que resulten más beneficiosos para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos.
 
-6. El subsidio regulado por el presente llamado se podrá aplicar a la construcción de una vivienda en sitio propio o densificación predial. En cualquier caso, la vivienda no podrá exceder de 140 m 2 y deberá contar con, a lo menos, 3 recintos conformados por un dormitorio, que deberá corresponder al dormitorio principal, una sala de estar-comedor-cocina y un baño con inodoro, lavamanos, ducha o tina, no exigiéndose que cumpla con el programa arquitectónico ni con el Itemizado Técnico de Construcción, a que se refieren los artículos 42 y 43 del DS N° 1 (V. y U.), de 2011.
+6. El subsidio regulado por el presente llamado se podrá aplicar construcción de una vivienda en sitio propio o densificación predial. En cualquier caso, la vivienda no podrá exceder de 140 m 2 y deberá contar con, a lo menos, 3 recintos conformados por un dormitorio, que deberá corresponder al dormitorio principal, una sala de estar-comedor-cocina y un baño con inodoro, lavamanos, ducha o tina, no exigiéndose que cumpla con el programa arquitectónico ni con el Itemizado Técnico de Construcción, a que se refieren los artículos 42 y 43 del DS N° 1 (V. y U.), de 2011.
 
-7. Los beneficiarios podrán aplicar el subsidio a la adquisición o construcción de una vivienda económica en cualquier Región del país.
+7. Los beneficiarios podrán aplicar el subsidio a la construcción de una vivienda económica en cualquier Región del país.
 
 El precio máximo de la vivienda a cuya construcción se podrá aplicar el subsidio según zona de emplazamiento, serán los siguientes:
 
 8. El precio de la vivienda será financiado con el subsidio, con aportes propios, si los hubiere, y/o con un crédito hipotecario, de ser el caso.
 
-Si el beneficiario requiere de un crédito hipotecario complementario para enterar el financiamiento de la construcción de la vivienda, se aplicará en lo que fuera procedente, lo estipulado en el Título III: De los créditos hipotecarios complementarios para el financiamiento del precio de adquisición o de construcción de la vivienda, del DS N° 1 (V. y U.), de 2011.
+Si el beneficiario requiere de un crédito hipotecario complementario para enterar el financiamiento de la construcción de la vivienda, se aplicará en lo que fuera procedente, lo estipulado en el Título III: De los créditos hipotecarios complementarios para el financiamiento del precio de construcción de la vivienda, del DS N° 1 (V. y U.), de 2011.
 
 9. Los beneficiarios obtendrán un subsidio de hasta 800 Unidades de Fomento el que deberán aplicar a la construcción de la vivienda en sitio propio o densificación predial. Si el valor de la vivienda fuere menor al valor del subsidio, sólo se pagará hasta el monto del precio de la construcción de ésta.
 
 Si el beneficiario o uno o más integrantes del núcleo familiar declarado estuvieren inscritos en el Registro Nacional de la Discapacidad, al monto de subsidio señalado en el inciso primero de este número, se adicionarán 20 Unidades de Fomento, siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presenten tal condición de discapacidad en el núcleo familiar del postulante.
 
-Conforme a los gastos que rinda al momento de presentar a cobro el certificado de subsidio, el beneficiario obtendrá un subsidio adicional de hasta 20 Unidades de Fomento por Asistencia Técnica, destinadas a financiar el costo de la elaboración del proyecto y gastos administrativos tales como el permiso de edificación, recepción final municipal, inscripciones, si correspondiere. Para el pago de este subsidio adicional se deberán presentar las respectivas boletas o facturas en que estén señalados los montos gastados, pudiendo el subsidio ser pagado a quien determine el beneficiario.
+Conforme a los gastos que rinda al momento de presentar a cobro el certificado de subsidio, el beneficiario obtendrá un subsidio adicional de hasta 30 Unidades de Fomento por Asistencia Técnica, destinadas a financiar el costo de la elaboración del proyecto y gastos administrativos tales como el permiso de edificación, recepción final municipal, inscripciones, si correspondiere. Para el pago de este subsidio adicional se deberán presentar las respectivas boletas o facturas en que estén señalados los montos gastados, pudiendo el subsidio ser pagado a quien determine el beneficiario.
 
 10. El Certificado de Subsidio Habitacional tendrá una vigencia de 21 meses, contados desde la fecha de su emisión, consignada en el respectivo Certificado, siendo aplicables las disposiciones de plazo adicional y nuevo plazo de vigencia establecidas en el DS N° 1 (V. y U.), de 2011.
 
@@ -102,7 +106,7 @@ Conforme a los gastos que rinda al momento de presentar a cobro el certificado d
 
 El contratista o empresa constructora que construya la vivienda, deberá dar aviso al Serviu del inicio de las obras, el que podrá supervisar el avance de las obras durante su ejecución. Para el pago del subsidio, el Serviu deberá haber verificado previamente que la vivienda está terminada y que cumple con lo establecido en el resuelvo 6 de esta resolución.
 
-12. Para el pago del Certificado de Subsidio Habitacional, además de la verificación a que se refiere el resuelvo 11, se estará a lo dispuesto en los artículos 32, 33 y 34 del DS N° 1 (V. y U.), de 2011, en lo que fuera procedente, debiendo cumplir la vivienda como mínimo con el programa arquitectónico a que se refiere el número 6 de esta resolución.
+12. Para el pago del Certificado de Subsidio Habitacional, además de la verificación a que se refiere el resuelvo 11, se estará a lo dispuesto en los artículos 32 y 34 del DS N° 1 (V. y U.), de 2011, en lo que fuera procedente, debiendo cumplir la vivienda como mínimo con el programa arquitectónico a que se refiere el número 6 de esta resolución.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
