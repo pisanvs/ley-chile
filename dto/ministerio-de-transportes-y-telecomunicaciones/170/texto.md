@@ -588,7 +588,7 @@ No obstante en casos calificados y siempre que la deficiencia no sea grave, o at
 
 #### Artículo 5°
 
-El médico del Gabinete Técnico firmará en el recuadro habilitado para tal efecto en la ficha resumen para el otorgamiento de licencia de conductor a que se refiere el Decreto Supremo N° 123, publicado en el Diario Oficial de 29 de Diciembre de 1984, sólo cuando el postulante haya rendido y aprobado los exámenes Sensométricos y Sicométricos, que correspondan.
+El médico del Gabinete Técnico firmará en el recuadro habilitado para tal efecto en la ficha resumen para el otorgamiento de licencia de conductor a que se refiere el Decreto Supremo N° 23 de 2000, del Ministerio de Transportes y Telecomunicaciones, sólo cuando el postulante haya rendido y aprobado los exámenes Sensométricos y Sicométricos, que correspondan.
 
 La calificación de la idoneidad síquica la efectuará el médico del Gabinete, sobre la base de los exámenes sicométricos cuando corresponda y de la respectiva entrevista, pudiendo solicitar información adicional sobre algunos aspectos no considerados en la pauta de entrevista, con el propósito de descartar dudas con respecto al estado de salud mental. Además, cuando el caso así lo requiera, el médico podrá solicitar exámenes especiales para determinar la aptitud síquica del postulante.
 
@@ -641,6 +641,8 @@ Para postulantes a licencia Clase E, el examen de conocimientos teóricos de las
 Tratándose de postulantes a licencias de conductor de las Clases B y C, el examen de conocimientos teóricos de la conducción y de las disposiciones legales y reglamentarias que rigen al tránsito público, será rendido a través del sistema informático a que se refiere el inciso tercero.
 
 El examen constará de 35 preguntas aleatorias, 3 de las cuales tendrán doble puntuación. La doble puntuación atenderá a materias vinculadas al consumo de alcohol, velocidad, casco protector, cinturón de seguridad y sistemas de retención infantil. El examen se aprobará obteniendo un mínimo de 33 puntos de un máximo de 38.
+
+A petición del interesado, el examen teórico para postular a una licencia de conductor Clase B podrá ser rendido en idioma inglés, rigiéndose éste por las normas de los incisos 7º y 8º anteriores.
 
 La puesta en marcha del examen teórico informatizado en los Gabinetes Técnicos Municipales deberá ser aprobada, mediante resolución, por el Secretario Regional Ministerial de Transportes y Telecomunicaciones competente, previa constatación de su funcionamiento.
 
