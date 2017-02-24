@@ -6,7 +6,7 @@ Núm. 662 exenta.
 
 Visto:
 
-El DS N° 104, de Interior, de 1977, que fija el texto refundido, coordinado y sistematizado del Título I de la Ley 16.282; el DS N° 1 (V. y U.), de 2011, que regula el Sistema Integrado de Subsidio Habitacional; el DS N° 40, del Ministerio del Interior y Seguridad Pública, de fecha 11 de enero de 2017, publicado en el Diario Oficial del 14 de enero de 2017, que declara a la comuna de Valparaíso como zona afectada por la catástrofe derivada de los incendios ocurridos en el mes de enero de 2017; la resolución exenta N° 8.315, de Vivienda y Urbanismo, de fecha 26 de diciembre de 2016, y sus modificaciones, que autoriza efectuar llamados a postulación y/o comprometer recursos en el otorgamiento de subsidios habitacionales durante el año 2017, entre otros, a través del programa regulado por el DS N° 1 (V. y U.), de 2011, y
+El DS N° 104, de Interior, de 1977, que fija el texto refundido, coordinado y sistematizado del Título I de la Ley 16.282; el DS N° 1 (V. y U.), de 2011, que regula el Sistema Integrado de Subsidio Habitacional; el DS N° 40, del Ministerio del Interior y Seguridad Pública, de fecha 11 de enero de 2017, publicado en el Diario Oficial del 14 de enero de 2017, que declara a la comuna de Valparaíso como zona afectada por la catástrofe derivada de los incendios ocurridos en el mes de enero de 2017; la resolución exenta N° 8.315, de Vivienda y Urbanismo, de fecha 26 de diciembre de 2016, y sus modificaciones, que autoriza efectuar llamados a postulación y/o comprometer recursos en el otorgamiento de subsidios habitacionales durante el año 2017, entre otros, a través del programa regulado por el DS N° 1 (V. y U.), de 2011; la resolución exenta N° 725, del Serviu Región de Valparaíso, de fecha 14 de febrero de 2017, que establece Nómina de Damnificados por el Incendio Ocurrido en Enero de 2017, en la Comuna de Valparaíso y nomina el universo del Catastro de Damnificados y
 
 Considerando:
 
@@ -24,13 +24,17 @@ Las nóminas de los seleccionados serán publicadas en el sitio web del Minvu, o
 
 La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será de 90.000 Unidades de Fomento.
 
-Podrán inscribirse en este llamado especial los damnificados que sean propietarios, hubiesen estado o no residiendo en la vivienda siniestrada, cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, de acuerdo a la información contenida en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo.
+Podrán inscribirse en este llamado especial los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, calificadas con "Daño Total" de acuerdo a la información contenida en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo o en el Catastro de Damnificados nominado por la resolución exenta N° 725, del Serviu Región de Valparaíso, de 2017, en adelante el Catastro, hubiesen estado o no residiendo en la vivienda siniestrada. No podrán inscribirse en este llamado, los damnificados que hubiesen sido arrendatarios de la vivienda siniestrada.
+
+En el caso del sector 2 del Catastro, también podrán inscribirse en este llamado los damnificados cuya viviendas hubiesen resultado con daño reparable o irreparable por la catástrofe, calificadas con "Daño Parcial" o "Daño Total" en el referido Catastro.
 
 2.- Sin perjuicio del cumplimiento de las exigencias establecidas en el DS N° 1 (V. y U.), de 2011, los damnificados deberán cumplir con los siguientes requisitos:
 
-a) Estar inscritos en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo. b) Presentar Declaración de Núcleo Familiar según formato provisto por el Serviu. No se exigirá que suscriban esta declaración las personas mayores de 18 años incluidas como integrantes del núcleo familiar. Solo podrá incluirse a los hijos de hasta 24 años que integran el núcleo familiar, que viven con el postulante y a sus expensas, señalándolo así expresamente en dicha declaración.
+a) Estar inscritos en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo o ser parte del Catastro de Damnificados nominado por la resolución exenta N° 725, del Serviu Región de Valparaíso, de 2017.
 
-c) Si el damnificado tiene derechos sobre el sitio en que estaba emplazada la vivienda, haya resultado o no totalmente destruida o inhabitable por la catástrofe y éste se encuentra ubicado en zona de riesgo, para inscribirse en este llamado deberán haberse iniciado los trámites de transferencia de dominio del inmueble al Serviu, lo que deberá ser acreditado por éste.
+b) Presentar Declaración de Núcleo Familiar según formato provisto por el Serviu. No se exigirá que suscriban esta declaración las personas mayores de 18 años incluidas como integrantes del núcleo familiar. Solo podrá incluirse a los hijos de hasta 24 años que integran el núcleo familiar, que viven con el postulante y a sus expensas, señalándolo así expresamente en dicha declaración.
+
+c) Si el damnificado tiene derechos sobre el sitio en que estaba emplazada la vivienda, que haya o no resultado totalmente destruida o inhabitable por la catástrofe, y/o éste se encuentra ubicado en zona de riesgo, para inscribirse en este llamado deberán haberse iniciado los trámites de transferencia de dominio del inmueble al Serviu o la cesión de derechos a un tercero, en caso de tratarse de derechos en comunidad, lo que deberá ser acreditado ante el Serviu.
 
 3.- Los inscritos en el presente llamado se eximirán del cumplimiento de los siguientes requisitos, condiciones o impedimentos establecidos en el DS N° 1 (V. y U.), de 2011, según corresponda:
 
@@ -44,11 +48,11 @@ d) Dar cumplimiento a lo dispuesto en la letra d2) de su artículo 16, con relac
 
 e) Haber obtenido algún beneficio habitacional anterior del Serviu, o de sus antecesores legales, o de las municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, o ser propietario de otros inmuebles destinados a la habitación, o si lo fuere su cónyuge, de acuerdo a lo señalado en las letras a) y e) de su artículo 17.
 
-4.- No obstante lo señalado en la letra e) del resuelvo 3., no podrán inscribirse los arrendatarios o allegados que aun cuando tengan la calidad de damnificados, sean propietarios de otro u otros inmuebles de carácter habitacional o cuando lo fuera su cónyuge, salvo que estos inmuebles se encuentren igualmente en estado inhabitable.
+4.- No obstante lo señalado en la letra e) del resuelvo 3., no podrán inscribirse los allegados que aun cuando tengan la calidad de damnificados, sean propietarios de otro u otros inmuebles de carácter habitacional o cuando lo fuera su cónyuge, salvo que estos inmuebles se encuentren igualmente en estado inhabitable.
 
 Tampoco podrán inscribirse los damnificados que tengan algún certificado de subsidio habitacional vigente a la fecha, ni los que estuvieran postulando a cualquier otro programa habitacional de las instituciones del Sector Vivienda, o respecto de los cuales se hubiere efectuado la reserva del subsidio conforme al Título IV del DS N° 120 (V. y U.), de 1995, o si lo estuviere su cónyuge, de acuerdo a lo señalado en las letras b) y c) del artículo 17 del DS N° 1 (V. y U.), de 2011.
 
-5.- Los beneficiarios de un subsidio habitacional otorgado por este Ministerio, que estén inscritos en el Registro de Damnificados, podrán acogerse a los montos de subsidio establecidos en esta resolución en caso que resulten más beneficiosos para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos.
+5.- Los beneficiarios de un subsidio habitacional otorgado por este Ministerio, que estén inscritos en el Registro de Damnificados o en el Catastro, podrán acogerse a los montos de subsidio establecidos en esta resolución en caso que resulten más beneficiosos para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos.
 
 6.- La vivienda a la que se aplique el subsidio habitacional, podrá ser una vivienda nueva o usada; no podrá exceder de 140 m 2 y deberá contar con a lo menos 3 recintos conformados por un dormitorio, que deberá corresponder al dormitorio principal, una sala de estar-comedor-cocina y un baño con inodoro, lavamanos, ducha o tina, no exigiéndose que cumpla con el programa arquitectónico ni con el Itemizado Técnico de Construcción, a que se refieren los artículos 42 y 43 del DS N° 1 (V. y U.), de 2011.
 
@@ -72,9 +76,9 @@ Conforme a los gastos que el beneficiario rinda al Serviu, obtendrá un subsidio
 
 11.- Para el pago del Certificado de Subsidio Habitacional, se estará a lo dispuesto en los artículos 32 y 33 del DS N° 1 (V. y U.), de 2011, en lo que fuera procedente, debiendo cumplir la vivienda como mínimo con el programa arquitectónico a que se refiere el número 6 de esta resolución.
 
-En caso que el beneficiario hubiese tenido derechos sobre un sitio en el que hubiere estado emplazada la vivienda que resultó totalmente destruida o inhabitable por la catástrofe y haya iniciado los trámites de cesión de derechos al Serviu sobre el terreno, conforme a lo señalado en la letra c) del resuelvo 2 de esta resolución, se le eximirá de inscribir las prohibiciones a que se refiere la letra c) del artículo 33, del DS N° 1 (V. y U.), de 2011.
+En caso que el beneficiario hubiese tenido derechos sobre un sitio en el que hubiere estado emplazada la vivienda que resultó totalmente destruida o inhabitable por la catástrofe y haya iniciado los trámites de cesión de derechos al Serviu o a un tercero sobre el terreno, según corresponda, conforme a lo señalado en la letra c) del resuelvo 2 de esta resolución, se le eximirá de inscribir las prohibiciones a que se refiere la letra c) del artículo 33, del DS N° 1 (V. y U.), de 2011.
 
-En los casos en que se haya debido ceder al Serviu los derechos sobre un sitio de conformidad con lo señalado en el inciso precedente, para proceder al pago del subsidio se deberá acreditar que se han cedido dichos derechos mediante escritura pública, inscrita en el Conservador de Bienes Raíces competente.
+En los casos en que se haya debido ceder al Serviu o a un tercero, según corresponda, los derechos sobre un sitio de conformidad con lo señalado en el inciso precedente, para proceder al pago del subsidio se deberá acreditar que se han cedido dichos derechos mediante escritura pública, inscrita en el Conservador de Bienes Raíces competente.
 
 Tratándose de viviendas usadas, el subsidio no podrá aplicarse al pago del precio de una vivienda que se pretenda adquirir entre parientes por consanguinidad o afinidad, en línea recta hasta el segundo grado inclusive y en línea colateral hasta el cuarto grado inclusive, de acuerdo a lo señalado en la letra c) del artículo 35, del DS N° 1 (V. y U.), de 2011.
 
