@@ -22,255 +22,143 @@ Corresponde al Instituto Nacional de Deportes de Chile - Chiledeportes, en adela
 
 La asignación de los recursos considerados en el presupuesto del Instituto, para contribuir al financiamiento de tales objetivos, corresponde a su Director Nacional y a los Directores Regionales, en la esfera de sus respectivas atribuciones, de acuerdo a lo previsto en la ley Nº 19.712 y en el presente reglamento.
 
-## Título I
+## Título I — Derogado.
 
 Del Fondo Nacional para el Fomento del Deporte
 
+> **Nota.** El artículo 27 del Decreto 19, Deporte, publicado el 24.02.2017, dispone derogar todas las disposiciones referidas al Fondo Nacional para el Fomento del Deporte contenidas en el presente Reglamento. Sin embargo el alcance de la Controlaría General de la República con que fue cursado el citado Decreto, hace presente que esta norma se está derogando parcialmente, solo en lo relativo a las disposiciones contenidas en el título primero referidas al citado Fondo, aspecto que no se consigna de este modo en la suma de dicho acto administrativo.
+
 ### Párrafo 1º
 
-De la Naturaleza y Objetivos
+De la Naturaleza y Objetivos Derogado.
 
-#### Artículo 2º
+#### Artículo 2°
 
-El Fondo Nacional para el Fomento del Deporte, en adelante el "Fondo", cuya administración le corresponde al Instituto, tiene por objeto financiar, total o parcialmente, proyectos, programas, actividades y medidas de fomento, ejecución, práctica y desarrollo del deporte en sus diversas modalidades y manifestaciones, en adelante "proyectos deportivos".
+Derogado.
 
-La asignación de recursos con cargo al Fondo se efectuará mediante el sistema de concursabilidad como asimismo mediante asignación directa, según corresponda, y en los términos previstos en el presente Título. El Director Nacional del Instituto determinará, anualmente y mediante resolución, los montos de recursos concursables y de asignación directa, correspondientes a las distintas cuotas del Fondo.
+#### Artículo 3°
 
-El Fondo estará constituido por la Cuota Nacional y por trece Cuotas Regionales, y se conformará con los recursos que anualmente contemple la Ley de Presupuestos de la Nación de acuerdo con lo establecido en el artículo 45 de la ley Nº 19.712, los otorgados por leyes especiales, los que el Instituto destine de su patrimonio, como asimismo por las donaciones de que sea objeto, de conformidad con la ley y el presente reglamento.
+Derogado.
 
-La Cuota Nacional será administrada por la Dirección Nacional del Instituto y cada una de las Cuotas Regionales por el respectivo Director Regional.
+#### Artículo 4°
 
-#### Artículo 3º
-
-Los recursos del Fondo estarán destinados a los siguientes objetivos:
-
-a) Financiar, total o parcialmente, planes,
-
-programas, actividades y proyectos de fomento de la educación física y de la formación para el deporte, como asimismo, de desarrollo de la ciencia del deporte y de capacitación y perfeccionamiento de recursos humanos de las organizaciones deportivas;
-
-b) Fomentar y apoyar, a través de medidas específicas de financiamiento, el deporte escolar y recreativo;
-
-c) Apoyar financieramente al deporte de competición comunal, provincial, regional y nacional;
-
-d) Apoyar financieramente al deporte de proyección internacional y de alto rendimiento, y
-
-e) Financiar, total o parcialmente, la adquisición, construcción, ampliación y reparación de recintos para fines deportivos.
-
-#### Artículo 4º
-
-Sin perjuicio de lo dispuesto precedentemente, el Instituto, con cargo al Fondo, también podrá complementar las donaciones con fines deportivos, efectuadas por el sector privado a proyectos que estén orientados al cumplimiento de alguno de los objetivos establecidos en el artículo anterior, según se regula en el artículo 23 del presente reglamento.
+Derogado.
 
 ### Párrafo 2º
 
-De la Concursabilidad
+De la Concursabilidad Derogado.
 
-#### Artículo 5º
+#### Artículo 5°
 
-La selección de los proyectos a ser financiados con recursos del Fondo, en su modalidad concursable, se efectuará anualmente mediante concurso público, convocado por el Instituto tanto a nivel nacional como regional, sobre la base de los criterios de elegibilidad aprobados por el Consejo Nacional del Instituto a propuesta de su Director Nacional.
+Derogado.
 
-Mediante el concurso a que se refiere el inciso anterior, se efectuará además la selección de los proyectos a ser financiados mediante donaciones que tengan derecho al crédito tributario establecido en el artículo 62 de la ley 19.712, de acuerdo a lo señalado en el párrafo 4º del Título II del presente reglamento.
+#### Artículo 6°
 
-El Director Nacional, tratándose de concurso de carácter nacional, y el respectivo Director Regional, tratándose de concursos de carácter regional, establecerán en las bases especiales de los concursos, a lo menos los siguientes elementos:
+Derogado.
 
-a) montos estimados de recursos concursables por categorías de proyectos;
+#### Artículo 7°
 
-b) tipos de postulantes por cada categoría;
+Derogado.
 
-c) límites máximos de financiamiento por categoría, y d) aporte de los postulantes según categoría de proyectos.
+#### Artículo 8°
 
-#### Artículo 6º
+Derogado.
 
-El concurso público será convocado por el Director Nacional y por los Directores Regionales del Instituto, en el segundo semestre de cada año, mediante resolución, en la cual se indicará especialmente el plazo para la presentación de los proyectos, el período de evaluación y selección de los mismos, y los recursos disponibles en cada cuota del Fondo para efectos del concurso correspondiente.
+#### Artículo 9°
 
-La convocatoria a concurso deberá comunicarse a través de un periódico de circulación nacional o regional, según corresponda, y con una anticipación, a lo menos, de sesenta días a la fecha de cierre de la recepción de los proyectos. Lo anterior se entiende sin perjuicio de otras modalidades de difusión pública que el Instituto determine, con el objeto de asegurar un amplio conocimiento por parte de las organizaciones deportivas y de la ciudadanía, respecto de su realización.
+Derogado.
 
-#### Artículo 7º
+#### Artículo 10°
 
-Podrán presentar proyectos deportivos concursables las personas naturales y jurídicas que cumplan con las bases respectivas. Los referidos proyectos se presentarán individualizados y debidamente descritos, conteniendo los elementos necesarios para su evaluación, de conformidad con lo establecido en el presente reglamento.
-
-Al efecto, y sin perjuicio de lo señalado en el artículo siguiente, la presentación deberá señalar específicamente los fines del proyecto, sus componentes, las acciones para su desarrollo, el presupuesto de gastos y flujos financieros, así como también los indicadores de resultados, los medios de verificación de los mismos y, cuando proceda, los supuestos esenciales para la viabilidad del proyecto que dependan de terceros.
-
-#### Artículo 8º
-
-Los proyectos sólo podrán ser presentados conforme a los formularios de postulación elaborados por el Instituto, en caso contrario, no serán considerados en el proceso de evaluación. Dichos formularios se retirarán por los interesados conjuntamente con las bases del concurso.
-
-La presentación deberá efectuarse en original y dos copias, escrita a máquina o letra de imprenta. Los postulantes recibirán un comprobante de recepción, en el que constará la identificación del proyecto, la individualización del postulante y la fecha de recepción.
-
-Además, si corresponde, deberán adjuntarse los convenios o cartas de compromiso que se hubieren suscrito con terceros para la realización y/o financiamiento conjunto del proyecto.
-
-El no cumplimiento de cualesquiera de las disposiciones anteriores, impedirá que el o los proyectos presentados sean considerados en la asignación de recursos. Los documentos y antecedentes acompañados a la presentación no serán devueltos a los postulantes.
-
-#### Artículo 9º
-
-El concurso nacional, efectuado con cargo a la cuota nacional del Fondo, estará destinado al financiamiento de proyectos deportivos de carácter nacional o de carácter suprarregional, entendiéndose por estos últimos aquellos proyectos que abarquen dos o más regiones.
-
-Tales proyectos deberán indicar expresamente que postulan al concurso de carácter nacional y referirse o estar destinados al financiamiento, entre otras, de alguna de las siguientes actividades:
-
-a) Detección de talentos deportivos;
-
-b) Organización de megaeventos deportivos;
-
-c) Desarrollo y operación de sistemas informáticos deportivos;
-
-d) Desarrollo tecnológico para el deporte, y e) En general, toda materia o actividad deportiva de carácter nacional o suprarregional que diga relación con uno o más de los objetivos señalados en el artículo 3º del presente reglamento.
-
-La presentación de los proyectos respectivos se efectuará en las oficinas de la Dirección Nacional del Instituto o en alguna de las Direcciones Regionales del mismo.
-
-#### Artículo 10
-
-Los concursos de carácter regional, efectuados con cargo a la respectiva cuota regional, estarán destinados al financiamiento de proyectos deportivos a ejecutarse dentro del territorio regional o que incidan en el desarrollo del deporte en la región respectiva.
-
-Tales proyectos deberán referirse o estar destinados al financiamiento de materias o actividades de carácter comunal, provincial o regional que digan relación con uno o más de los objetivos señalados en el artículo 3º del presente reglamento.
-
-La presentación de los proyectos se efectuará en las oficinas de la respectiva Dirección Regional del Instituto.
+Derogado.
 
 ### Párrafo 3º
 
-De la Evaluación y Selección
+De la Evaluación y Selección Derogado.
 
-#### Artículo 11
+#### Artículo 11°
 
-Una vez vencido el plazo de postulación, el Instituto se abocará a evaluar técnica y financieramente los proyectos presentados. Al efecto, se evaluará especialmente la relación impacto social y deportivo del proyecto como asimismo su relación costo y beneficio.
+Derogado.
 
-La selección de los proyectos se efectuará sobre la base de los criterios de elegibilidad que para cada año establezca el Consejo Nacional del Instituto a proposición del Director Nacional. Sin perjuicio de lo anterior, se considerarán entre tales criterios el efecto nacional, regional o comunal del proyecto, la población que éste beneficia, la situación socioeconómica de la población beneficiada y el grado de accesibilidad para la comunidad.
+#### Artículo 12°
 
-Asimismo, entre tales criterios se considerará priorizar los proyectos destinados al deporte escolar, el monto de aporte de la contraparte, la relación con los planes comunales o regionales de desarrollo deportivo y la proyección de mediano y largo plazo del proyecto.
+Derogado.
 
-#### Artículo 12
+#### Artículo 13°
 
-Tratándose de concursos de carácter nacional, el Director Nacional del Instituto podrá constituir un Comité de Evaluación, el cual deberá elaborar un informe con la evaluación técnica y económica de los distintos proyectos deportivos postulados a la cuota nacional, dentro del plazo de 30 días contado desde el cierre de las postulaciones.
+Derogado.
 
-Corresponderá al Director Nacional, dentro de los diez días siguientes al vencimiento de dicho plazo, establecer un listado priorizado de los proyectos evaluados y seleccionar aquellos que serán financiados con cargo a dicha cuota.
+#### Artículo 14°
 
-#### Artículo 13
+Derogado.
 
-Tratándose de concursos de carácter regional, el respectivo Director Regional del Instituto podrá constituir un Comité de Evaluación, el cual deberá elaborar un informe de evaluación técnica y económica que recaerá sobre todos los proyectos deportivos presentados, dentro del plazo de 30 días contado desde el cierre de las postulaciones.
+#### Artículo 15°
 
-Corresponderá al Director Regional, dentro de los diez días siguientes al vencimiento de dicho plazo, establecer un listado priorizado de los proyectos evaluados y seleccionar, previa consulta al Consejo Consultivo Regional, aquellos que serán financiados con cargo a la correspondiente cuota regional.
-
-#### Artículo 14
-
-El Director Nacional o el Director Regional, según corresponda, podrá declarar desierto todo o parte del respectivo concurso, por motivos fundados.
-
-#### Artículo 15
-
-Dentro de los cinco días siguientes al término del proceso de selección, el Instituto -a través de la Dirección Nacional y de las respectivas Direcciones Regionales- informará por escrito a aquellos postulantes cuyos proyectos deportivos hayan sido seleccionados.
-
-Asimismo, el Instituto publicará, en un medio de comunicación de circulación nacional, la lista de proyectos seleccionados, tanto de carácter nacional como regional, incluyendo el nombre de las personas u organizaciones responsables de los mismos y los correspondientes recursos asignados.
+Derogado.
 
 ### Párrafo 4º
 
-De la Ejecución y Supervisión
+De la Ejecución y Supervisión Derogado.
 
-#### Artículo 16
+#### Artículo 16°
 
-Resuelto el concurso respectivo, las asignaciones que procedan se perfeccionarán mediante la celebración de un convenio entre el Instituto y el asignatario en el cual se consignarán los derechos y obligaciones de las partes. Al efecto, se especificarán, entre otras estipulaciones, las siguientes:
+Derogado.
 
-a) El monto de los recursos asignados al proyecto.
+#### Artículo 17°
 
-b) Los objetivos de la asignación.
+Derogado.
 
-c) La modalidad de entrega de los recursos y las condiciones para su utilización.
+#### Artículo 18°
 
-d) Los indicadores de medición del cumplimiento de los objetivos.
-
-e) La presentación de estados de avance y de un informe final.
-
-f) El plazo de ejecución del proyecto.
-
-g) Las garantías exigidas por el Instituto.
-
-Los convenios comenzarán a regir a contar de la fecha de su total tramitación administrativa y serán aprobados mediante resolución emanada de la autoridad que los suscribió.
-
-En todo caso, los recursos que se otorguen deberán ser caucionados por el asignatario, mediante una letra de cambio emitida a la vista y autorizada ante notario público o una boleta de garantía bancaria, a favor del Instituto y por un monto equivalente a los recursos asignados, la que deberá entregarse al momento de la suscripción del convenio.
-
-El Instituto, según la naturaleza de cada proyecto, podrá acordar con los asignatarios un sistema de retribución de los recursos públicos recibidos, en forma de actividades en beneficio de la comunidad según se estipule en el convenio.
-
-#### Artículo 17
-
-En caso de incumplimiento imputable al asignatario de las obligaciones establecidas en el convenio, la autoridad correspondiente estará facultada para suspender parcial o totalmente los aportes al proyecto, para hacer efectiva la garantía y para dar término al convenio, sin perjuicio de lo cual el Instituto se reserva el derecho de accionar judicialmente para obtener la restitución de los fondos asignados.
-
-En este último caso, la Dirección Nacional o la Dirección Regional respectiva podrá reasignar los recursos, recurriendo al listado priorizado de proyectos que se haya elaborado al momento de resolver los respectivos concursos.
-
-#### Artículo 18
-
-Corresponderá a la Dirección Nacional y a las respectivas Direcciones Regionales, en su caso, el control de la ejecución de los proyectos. Este deberá recaer en el estricto cumplimiento de las bases, de los procedimientos y formularios de postulación, de los términos del convenio y de los plazos establecidos para su realización.
-
-Las personas u organizaciones responsables de los proyectos deberán colaborar con el Instituto en las tareas de supervisión y control pertinentes.
-
-Asimismo, corresponderá a las citadas Direcciones emitir la certificación de la total ejecución de los respectivos proyectos. Cumplido el trámite de la certificación, se procederá a hacer devolución de la caución que hubiere sido entregada.
+Derogado.
 
 ### Párrafo 5º
 
-De la Asignación Directa
+De la Asignación Directa Derogado.
 
-#### Artículo 19
+#### Artículo 19°
 
-La Dirección Nacional y las Direcciones Regionales del Instituto, con cargo a las respectivas cuotas del Fondo Nacional para el Fomento del Deporte, podrán financiar proyectos deportivos mediante la modalidad de asignación directa. Dichos proyectos deberán estar orientados a los objetivos indicados en el artículo 3º.
+Derogado.
 
-Asimismo, en la asignación de recursos mediante esta modalidad el Instituto considerará la priorización de los proyectos destinados al deporte escolar, el monto de aporte de la contraparte, la relación con los planes comunales o regionales de desarrollo deportivo y la proyección de mediano y largo plazo de los proyectos.
+#### Artículo 20°
 
-#### Artículo 20
+Derogado.
 
-Asimismo, por asignación directa y con cargo a la Cuota Nacional, se podrá suplementar los recursos de una o más de las Cuotas Regionales, en los montos y para los fines que determine el Director Nacional.
+#### Artículo 21°
 
-#### Artículo 21
+Derogado.
 
-Los proyectos que postulen a financiamiento directo del Fondo deberán ser previamente evaluados por el Instituto. Al efecto, cada Director Regional, o el Director Nacional en su caso, constituirá un Comité Técnico que se encargará de estudiar los antecedentes y evaluar la pertinencia del financiamiento directo.
+#### Artículo 22°
 
-Sin perjuicio de lo anterior, corresponderá a dichas autoridades la aprobación definitiva del proyecto, el que, en todo caso, debe enmarcarse dentro de los parámetros previamente definidos por el Instituto para ser asignatario de financiamiento directo.
+Derogado.
 
-#### Artículo 22
+#### Artículo 23°
 
-No obstante, los proyectos cuyo objeto sea la realización en el país de competiciones deportivas internacionales de cualquier tipo podrán postular a financiamiento directo del Instituto con cargo al Fondo Nacional para el Fomento del Deporte.
+Derogado.
 
-El respectivo proyecto deberá ser aprobado por el Director Nacional, a más tardar el 30 de junio del año anterior al de la realización de la competición, y previa evaluación técnica y financiera del proyecto efectuada por el Comité Técnico que al efecto constituya el Director Nacional.
+#### Artículo 24°
 
-Para estos efectos, el proyecto correspondiente deberá ser presentado a la Dirección Nacional del Instituto a más tardar el 30 de mayo del año anterior al de la realización de la competición.
-
-#### Artículo 23
-
-El Instituto, también mediante asignación directa y con cargo al Fondo, podrá aportar recursos a proyectos deportivos beneficiados con donaciones del sector privado conforme a la Ley del Deporte, con el objeto de complementar el financiamiento proveniente de tales donaciones.
-
-Este aporte podrá alcanzar hasta el 50% del costo total del proyecto respectivo y bajo las siguientes condiciones:
-
-Si se tratare de proyectos deportivos orientados a alguno de los objetivos indicados en las letras a), b), c) y d) del artículo 3º, el aporte tendrá un tope máximo de 1.000 Unidades Tributarias Mensuales, o un tope distinto según establezca la Ley de Presupuestos de cada año.
-
-Si se tratare de proyectos deportivos orientados a objetivos indicados en la letra e) del artículo 3º, el aporte tendrá un tope máximo de 8.000 Unidades Tributarias Mensuales, o un tope distinto según establezca la Ley de Presupuestos de cada año.
-
-En todo caso, para los efectos de lo establecido en los incisos precedentes, el Instituto podrá comprometer solamente hasta un 50% de los recursos que la Ley de Presupuestos contemple para el Fondo Nacional para el Fomento del Deporte.
-
-#### Artículo 24
-
-Los recursos aportados mediante asignación directa, con excepción de aquellos destinados a suplementar una o más de las Cuotas Regionales, se perfeccionarán mediante la celebración de un convenio entre el Instituto y el asignatario, aplicándose las normas sobre ejecución y supervisión previstas en el párrafo 4º de este reglamento.
+Derogado.
 
 ### Párrafo 6º
 
-Disposiciones Generales
+Disposiciones Generales Derogado.
 
-#### Artículo 25
+#### Artículo 25°
 
-Los bienes inmuebles adquiridos y las obras construidas o habilitadas, en todo o parte, con los recursos que establece el presente Título, no se podrán enajenar, gravar, prometer gravar o enajenar, salvo previa autorización del Instituto. Tratándose de la autorización para enajenar, deberán reintegrarse al Instituto los recursos aportados en los términos dispuestos en los incisos siguientes.
+Derogado.
 
-Deberá restituirse al Instituto aquella parte del precio de venta equivalente a la proporción del aporte en el precio original de compra del inmueble. Si el aporte se hubiere circunscrito sólo a edificaciones e instalaciones deportivas propiamente tales, deberá restituirse el capital aportado, debidamente reajustado, deducida la depreciación que determine el Servicio de Impuestos Internos.
+#### Artículo 26°
 
-Con todo, cuando el inmueble en su conjunto o sus edificaciones e instalaciones sean objeto de un cambio del destino deportivo que motivó el aporte, sin que exista enajenación de ellos, se restituirá el capital aportado, debidamente reajustado.
+Derogado.
 
-En todo caso, los recursos provenientes de las restituciones de dichos aportes, deberán destinarse por el Instituto al financiamiento de obras deportivas o recreativas en la misma región, donde se encontrare ubicado el inmueble.
+#### Artículo 27°
 
-Para el cumplimiento de lo dispuesto en los incisos anteriores, el convenio que formalice el aporte respectivo deberá suscribirse mediante escritura pública, la cual deberá contener cláusula expresa sobre la prohibición de enajenar sin la previa autorización del Instituto y el régimen de restituciones ante eventuales enajenaciones. Dicha prohibición deberá inscribirse en el correspondiente registro del Conservador de Bienes Raíces respectivo y anotarse al margen de la inscripción de dominio del inmueble. En todo caso, la prohibición de enajenar el inmueble respectivo expirará, por el solo ministerio de la ley, a los cuarenta años de la fecha de la inscripción, conforme a lo dispuesto en el inciso final del artículo 50 de la ley Nº 19.712.
+Derogado.
 
-#### Artículo 26
+#### Artículo 28°
 
-Ninguna organización deportiva podrá postular nuevos proyectos a financiamiento del Fondo, si no hubiere dado cumplimiento ante el Instituto, o hubieren sido rechazados por éste, uno o más estados de avance o rendiciones de cuentas, respecto de proyectos en ejecución. Lo anterior, se entiende sin perjuicio de las sanciones legales, reglamentarias o contractuales que procedan producto de la mora en el cumplimiento de los términos de la asignación.
-
-#### Artículo 27
-
-La Cuota Nacional y las Cuotas Regionales del Fondo Nacional para el Fomento del Deporte estarán sometidas a la auditoría contable de la Contraloría General de la República.
-
-#### Artículo 28
-
-En toda publicación, escrito, propaganda o difusión de cualquier naturaleza referida a un proyecto deportivo financiado total o parcialmente conforme a las disposiciones del presente Título, deberá especificarse que tal financiamiento lo ha sido con recursos del "Fondo Nacional para el Fomento del Deporte" creado por la ley Nº 19.712.
+Derogado.
 
 ## Título II
 
