@@ -2908,15 +2908,13 @@ Capitán de la Marina Mercante
 
 Nacional,
 
-b.- Tener a lo menos 2 años de
+b.- Tener, a lo menos, 2 años de
 
-mando efectivo de naves, uno de los
+mando efectivo de naves mayores de
 
-cuales debe ser en naves mayores de
+1.000 toneladas de registro grueso o
 
-1.000 toneladas de registro grueso
-
-o de desplazamiento,
+de desplazamiento,
 
 c.- Que su retiro no se haya
 
@@ -8487,8 +8485,6 @@ quiere haber sido clasificado en
 Lista 1 todo el tiempo en el grado
 
 de Suboficial.
-
-> **Nota.** Las letras a y b del numeral 2° del decreto 171, Defensa, publicado el 21.11.2019, modifica la presente norma en el sentido de agregar y suprimir respectivamente cambios en la presente norma.
 
 #### Artículo 256º
 
@@ -15601,8 +15597,6 @@ grave, impide quedar en Listas 1 y
 obliga a quedar clasificado en Lista
 
 4.
-
-> **Nota.** El artículo único del Decreto 16, Defensa, publicado el 12.08.2020, dispone modificar el inciso segundo del presente artículo, en el sentido de intercalar entre el vocablo "En" y la expresión "la Fuerza Aérea", las palabras "el Ejército" seguida de la conjunción "y". Sin embargo, las referidas adecuaciones ya se encuentran contenidas en su texto.
 
 4.- Formación del Escalafón de
 
