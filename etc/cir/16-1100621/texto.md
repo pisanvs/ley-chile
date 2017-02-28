@@ -1,0 +1,5 @@
+CAMBIO DE CRITERIO RESPECTO DEL CÓMPUTO DEL PLAZO PARA INVOCAR LA EXENCIÓN CONTEMPLADA EN EL ARTÍCULO 42 TER DE LA LEY SOBRE IMPUESTO A LA RENTA
+
+Extracto de circular del Servicio de Impuestos Internos N° 16, de fecha 22 de febrero de 2017, mediante la cual se cambia el criterio sostenido por este Servicio hasta la fecha respecto del cómputo del plazo para invocar la exención contemplada en el artículo 42 ter de la Ley sobre Impuesto a la Renta. Los contribuyentes pueden efectuar retiros de libre disposición a partir de un año posterior a aquel en que se acojan a pensión, sin que por ello pierdan el beneficio de la exención de impuestos que la norma citada dispone respecto de tales retiros.
+
+El texto íntegro de esta circular está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en febrero de 2017.
