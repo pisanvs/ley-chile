@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados calzada completa de calle Chacabuco, en el tramo comprendido entre Rodríguez y Los Carrera, de la comuna de Copiapó, desde el día 23 de enero de 2017 hasta el día 23 de febrero de 2017, para la ejecución de las obras "Reposición de calzada en Hormigón".
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados calzada completa de calle Chacabuco, en el tramo comprendido entre Rodríguez y Los Carrera, de la comuna de Copiapó, desde el día 23 de enero de 2017 hasta el día 3 de marzo de 2017, para la ejecución de las obras "Reposición de calzada en Hormigón".
 
 2.- Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
