@@ -60,9 +60,9 @@ a.15. Traslado de enfermos, y
 
 a.16. Insumos necesarios para el otorgamiento de las prestaciones de las letras a.2, a.4, a.7, a.8, a.9, a.10 y a.13 precedentes.
 
-b. Subsidios de Carácter Social Sin cargos de restitución, se otorgarán a los afiliados, por las causales y con las modalidades que se indican, los siguientes subsidios y cuando el socio haya cumplido 3 meses de antigüedad en el Servicio:
+b. Subsidios de Carácter Social Sin cargos de restitución, se otorgarán a los afiliados, por las causales y con las modalidades que se indican, los siguientes subsidios y cuando el socio haya cumplido 3 meses de antigüedad en el Servicio, según disponibilidad presupuestaria:
 
-b.1. de matrimonio: Se concederá al afiliado que contraiga matrimonio y se acreditará con el correspondiente certificado. Si ambos contrayentes fueren afiliados al SERBICO, cada uno tendrá derecho a recibir el beneficio íntegro;
+b.1. de matrimonio o de acuerdo de unión civil: Se concederá al afiliado que contraiga matrimonio o acuerdo de unión civil y se acreditará con el correspondiente certificado. Si ambos contrayentes fueren afiliados al SERBICO, cada uno tendrá derecho a recibir el beneficio íntegro;
 
 b.2. de nacimiento: Se concederá al afiliado que acredite, mediante el respectivo certificado, el nacimiento de cada hijo. Si ambos padres fueren afiliados al SERBICO, cada uno tendrá derecho a recibir el beneficio íntegro. En caso de nacimientos múltiples (más de 2), como única cifra, se duplicará el monto del subsidio;
 
@@ -74,7 +74,7 @@ b.5. por fallecimiento: Procederá por el fallecimiento del afiliado o de alguno
 
 i) la persona designada, expresamente para tales efectos, por el afiliado;
 
-ii) cónyuge sobreviviente;
+ii) cónyuge sobreviviente o conviviente civil;
 
 iii) a los hijos o los padres sobrevivientes, y
 
@@ -84,39 +84,39 @@ PÁRRAFO SUPRIMIDO.
 
 Se concederá el mismo subsidio por fallecimiento del hijo recién nacido aun cuando no hubiere sido reconocido como carga familiar y por el mortinato a partir del 5° mes de gestación;
 
-b.6. ayuda médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificados como tales por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el literal a);
+b.6. ayuda médica: En caso de enfermedad grave y tratamiento médico calificados como tales por el médico tratante, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el literal a);
 
-b.7. SUPRIMIDO.
+b.7. de cumpleaños: se concederá una ayuda al afiliado que acredite mediante el respectivo certificado o cédula de identidad la fecha de su cumpleaños
 
 b.8. SUPRIMIDO.
 
 c. Préstamos
 
-El SERBICO podrá otorgar préstamos reajustables a sus afiliados, cuando sus recursos lo permitan, para las siguientes finalidades:
+El SERBICO podrá otorgar préstamos a sus afiliados, cuando sus recursos lo permitan, para las siguientes finalidades:
 
 c.1. Préstamos médicos: Se otorgarán como complemento de las prestaciones que establece el presente artículo, letras a) y b.6).;
 
-c.2. Préstamos habitacionales: Se otorgarán para complementar ahorro previo, reparación y u o ampliación de viviendas;
+c.2. Préstamos habitacionales: Se otorgarán para complementar ahorro previo, reparación y/o ampliación de viviendas;
 
-c.3. Préstamos de emergencia: Se otorgarán por necesidades sociales debidamente calificadas por el Trabajador Social y autorizada Consejo Administrativo.
+c.3. Préstamos de emergencia: Se otorgarán por necesidades sociales debidamente calificadas por el Trabajador Social y autorizada por el Consejo Administrativo.
 
 c.4. Préstamos para vacaciones: Se otorgarán para el financiamiento parcial de gastos de vacaciones o feriado legal de los afiliados.
 
-c.5. SUPRIMIDO.
+c.5. Préstamos personales: Se otorgarán con el objeto de propender al mejoramiento de las condiciones familiares y/o de trabajo de los afiliados.
 
-Los préstamos serán reintegrados en un plazo no superior a 12 meses. El Consejo Administrativo fijará anualmente el porcentaje de reajustabilidad e interés que se aplicarán a estos préstamos. Para este efecto se utilizará el interés corriente para operaciones reajustables, fijado de acuerdo a la Ley N° 18.010 por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorga el préstamo.
+Los préstamos serán reintegrados en un plazo no superior a 12 meses, en cuotas iguales y sucesivas, que serán descontadas a partir del mes siguiente al de su otorgamiento. El Consejo Administrativo fijará anualmente el tipo de tasa de interés que se aplicarán a estos préstamos. Para este efecto se utilizará el interés corriente para operaciones no reajustables, fijado de acuerdo a la ley Nº 18.010 por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorga el préstamo.
 
-Para solicitar un nuevo préstamo de aquéllos señalados en los literales c.1 y c.3, será necesario haber servido como mínimo el 75% de la deuda por el mismo concepto, en los demás casos, el afiliado deberá haber reintegrado la totalidad del préstamo obtenido.
+Para solicitar un nuevo préstamo será necesario haber solucionado como mínimo el 50% de la deuda por el mismo concepto.
 
-El Servicio podrá otorgar los préstamos indicados a partir del segundo mes de afiliación. Cada uno de estos préstamos se concederá por una sola vez en el año y tendrán prioridad los socios que soliciten su primer préstamo anual. Será requisito indispensable la constitución de caución mediante dos codeudores solidarios que sean afiliados al Servicio de Bienestar.
+El servicio podrá otorgar los préstamos indicados a partir del segundo mes de afiliación. Será requisito indispensable la constitución de caución mediante dos codeudores solidarios que sean afiliados al Servicio de Bienestar.
 
 d. Trabajadora Social
 
 El SERBICO, por medio de trabajadora social contratada por la CONICYT especialmente al efecto, podrá entre otros servicios:
 
-d.1. Otorgar asistencia personalizada de carácter educativo, social y u o familiar, a los afiliados que teniendo problemas o necesidades en esas áreas requieran de atención profesional al respecto, y
+d.1. Otorgar asistencia personalizada de carácter educativo, social y/o familiar, a los afiliados que teniendo problemas o necesidades en esas áreas requieran de atención profesional al respecto, y
 
-d.2. Aplicar las medidas y políticas insertas en la acción social del país, a las realidades concretas y posibilidades de CONICYT y u o de su personal, dentro de las materias que competen al SERBICO.
+d.2. Aplicar las medidas y políticas insertas en la acción social del país, a las realidades concretas y posibilidades de CONICYT y/o de su personal, dentro de las materias que competen al SERBICO.
 
 e. Beneficios Facultativos
 
@@ -126,7 +126,7 @@ e.1. Actividades culturales, recreativas, de camaradería y sociales;
 
 e.2. Actividades de desarrollo físico y deportivas;
 
-e.3. Organización y u o financiamiento de la celebración de actividades aniversarias de CONICYT, Año Nuevo, Fiestas Patrias y Navidad.
+e.3. Organización y/o financiamiento de la celebración de actividades aniversarias de CONICYT, Año Nuevo, Fiestas Patrias y Navidad.
 
 e.4. SUPRIMIDO.
 
@@ -148,7 +148,7 @@ a. El Jefe Superior del Servicio o la persona que éste designe en su reemplazo,
 
 b. El Jefe del Departamento de Administración y Finanzas, que presidirá a falta de las personas mencionadas en el literal anterior;
 
-c. El Jefe de Gestión de Personas, el que presidirá a falta de las personas mencionadas en los literales anteriores;
+c. El Jefe de Departamento que designe el Jefe Superior del Servicio, el que presidirá a falta de las personas mencionadas en los literales anteriores;
 
 d. Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso tercero del artículo 18° del Reglamento General.
 
@@ -186,7 +186,7 @@ c. Los aportes o cuotas extraordinarias de los afiliados que deberán ser aproba
 
 d. Las cuotas de incorporación que podrá fijar el Consejo Administrativo para ingresar al SERBICO, cuyo monto no podrá ser superior al 3% de las pensiones de jubilación o de las remuneraciones imponibles para pensiones, según proceda;
 
-e. Los aportes mensuales de sus afiliados de hasta el 2% de sus pensiones, que fijará el Consejo Administrativo, más la cantidad correspondiente al aporte institucional que será de cargo de éstos;
+e. Los aportes mensuales de sus afiliados jubilados de hasta el 2% de sus pensiones, que fijará el Consejo Administrativo, más la cantidad correspondiente al aporte institucional que será de cargo de éstos;
 
 f. Los intereses que generen los préstamos concedidos a sus afiliados;
 
@@ -208,7 +208,7 @@ DISPOSICIONES GENERALES
 
 #### Artículo 8°
 
-El funcionario que ingrese al SERBICO no tendrá derecho a percibir los beneficios de las letras b) y c) del artículo 2°, sino una vez transcurridos tres y seis meses, respectivamente, desde la fecha de afiliación. En cuanto a los beneficios contemplados en las letras a), b.6 del artículo 2°, el afiliado podrá percibir a contar de la fecha de ingreso, una vez aprobada la solicitud respectiva, sujeto a la existencia de disponibilidad presupuestaria y cumplimiento de los requisitos exigidos reglamentariamente, en cada caso.
+El funcionario que ingrese al SERBICO no tendrá derecho a percibir los beneficios de las letras b) y c) del artículo 2°, sino una vez transcurridos tres y dos meses, respectivamente, desde la fecha de afiliación. En cuanto a los beneficios contemplados en las letras a), b.6 del artículo 2°, el afiliado podrá percibir a contar de la fecha de ingreso, una vez aprobada la solicitud respectiva, sujeto a la existencia de disponibilidad presupuestaria y cumplimiento de los requisitos exigidos reglamentariamente, en cada caso.
 
 #### Artículo 9°
 
