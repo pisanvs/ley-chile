@@ -38,7 +38,7 @@ Resolución:
 
 1. Llámase a postulación extraordinaria en condiciones especiales, a todas las familias que cumplan con los requisitos que se establecen para el presente proceso de postulación, en modalidad individual o colectiva, para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, regulado por el DS N° 255 (V. y U.), de 2006, correspondientes al Título II, Mejoramiento de la Vivienda, destinados al financiamiento de subsidios de Acondicionamiento Térmico para viviendas emplazadas en zonas de las comunas vinculadas a los Planes de Descontaminación Atmosférica (PDA) a que se refieren los decretos citados en los Vistos d), e), f), g), h) e i) de la presente resolución, excepto en la Región de O'Higgins, donde sólo se abordarán las comunas o partes de éstas emplazadas en la zona térmica 3.
 
-2. Los cierres de las postulaciones de este llamado serán los meses de junio, julio, agosto, octubre y noviembre, pudiendo cada Serviu definir en cuáles de estas selecciones participará. Sólo podrán participar de estas selecciones las familias con proyectos calificados hasta el último día hábil de los meses de marzo, junio, septiembre y noviembre.
+2. Los cierres de las postulaciones de este llamado serán los meses de marzo, junio, septiembre y noviembre, pudiendo cada Serviu definir en cuáles de estas selecciones participará. Sólo podrán participar de estas selecciones las familias con proyectos calificados hasta el último día hábil de dichos meses.
 
 3. Las regiones y comunas que podrán participar del presente llamado, así como los recursos que se destinarán al financiamiento de los referidos subsidios habitacionales serán los que se indican en la tabla inserta a continuación:
 
