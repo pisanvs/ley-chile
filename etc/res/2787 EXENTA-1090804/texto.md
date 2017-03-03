@@ -18,9 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 28 de mayo de 2016 hasta el 28 de enero de 2017, por calzada oriente de Ruta 5 Norte, entre km 11+000 (sector Enlace Américo Vespucio Norte) y km. 13+900 (sector Enlace Buenaventura), de comunas de Quilicura y Lampa.
-
-Podrán ingresar excepcionalmente en el tramo y horario señalado, los vehículos de emergencia y los destinados a cumplir funciones en las obras relacionadas con el proyecto "Conversión Estándar Urbano del Acceso a Santiago Ruta 5 Norte, Región Metropolitana, Concesión Tramo Santiago - Los Vilos".
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 29 de enero de 2017 y hasta el 15 de febrero de 2017, calzada oriente de Ruta 5 Norte, entre km 11+000 (sector enlace Américo Vespucio Norte) y km 13+900 (sector enlace Buenaventura), de comunas de Quilicura y Lampa.
 
 2.- Dese cumplimiento a todas las medidas de seguridad y condicionantes establecidas en el Ord. SM/AGD N° 2235, de 31 de marzo de 2016, el que se entiende formar parte integrante del presente instrumento.
 
