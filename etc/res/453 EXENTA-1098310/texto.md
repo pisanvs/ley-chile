@@ -78,39 +78,9 @@ l) DPP: Defensoría Penal Pública.
 
 #### Artículo 2
 
-Servicios de defensa penal. Establézcanse para la determinación de la obligación a la que eventualmente está afecto el usuario, los siguientes servicios de defensa penal:
+Servicios de Defensa Penal. Establézcanse para la determinación de la obligación a la que eventualmente está afecto el usuario, los siguientes servicios de defensa penal:
 
-Servicios de Defensa Grupo de Salidas
-
-Facultad de la Fiscalía
-
-Derivación Salidas Básicas
-
-Sobreseimiento Temporal
-
-Sobreseimiento Definitivo
-
-Salida Alternativa, Acuerdo Reparatorio Salidas
-
-Salida Alternativa, Suspensión Condicional Intermedias
-
-del Procedimiento
-
-Sentencia de Término, Procedimiento
-
-Simplificado
-
-Sentencia de Término, Acción Privada
-
-Conciliación, Acción Privada
-
-Sentencia de Término, Procedimiento Abreviado Salida Abreviado
-
-Sentencia de Término, Juicio Oral hasta Salida Juicio Oral
-
-7 días de duración
-
-Día adicional de Juicio Oral
+.
 
 Los servicios antes detallados corresponden a la tipología utilizada por la Defensoría Penal Pública para determinar el tipo de prestación que entrega, singularizándose cada uno de ellos por el nombre de la audiencia en la que se produce el término, debidamente ejecutoriado.
 
@@ -146,45 +116,7 @@ Tratándose de las formas de término, denominadas "Salidas Básicas" que agrupa
 
 Arancel. Los servicios de defensa penal y los precios para cada uno de ellos, son los que a continuación se detallan:
 
-Servicios de Defensa Grupo de Salidas Precios
-
-UTM
-
-(mensual)
-
-Facultad de la Fiscalía Salidas
-
-Derivación Básicas 0
-
-Sobreseimiento Temporal
-
-Sobreseimiento Definitivo
-
-Salida Alternativa, Acuerdo
-
-Reparatorio
-
-Salida Alternativa, Suspensión Salidas
-
-Condicional del Procedimiento Intermedias 26,79
-
-Sentencia de Término, Procedimiento
-
-Simplificado
-
-Sentencia de Término, Acción Privada
-
-Conciliación, Acción Privada
-
-Sentencia de Término, Procedimiento Salida Abreviado 36,71
-
-Abreviado.
-
-Sentencia de Término, Juicio
-
-Oral hasta 7 días de duración. Salida Juicio Oral 87,36
-
-Día adicional de Juicio Oral.
+.
 
 Los valores se encuentran expresados en Unidades Tributarias Mensuales (UTM). El valor de la UTM aplicada a la resolución que fija el monto de los servicios de defensa penal será el correspondiente al mes de la respectiva resolución de cobro.
 
