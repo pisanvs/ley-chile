@@ -62,6 +62,6 @@ Los excedentes de las erogaciones recibidas que quedaren al concluir la construc
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
-Santiago, 2 de febrero de 2016.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.- María Isabel Díaz Pérez, Ministra de Educación (S).
+Santiago, 2 de febrero de 2017.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.- María Isabel Díaz Pérez, Ministra de Educación (S).
 
 Lo que transcribo a Ud. para su conocimiento.- Atentamente, Mahmud Aleuy Peña y Lillo, Subsecretario del Interior.
