@@ -12,6 +12,8 @@ El sellado de la bomba inyectora a que se refiere el inciso precedente, será ef
 
 La bomba inyectora del vehículo presentado a la Planta Revisora deberá contar a lo menos, con un perno con la perforación para instalar el correspondiente sello.
 
+Estarán exentos del sellado de la bomba inyectora antes descrito, los buses cuyo motor cuente con alguno de los siguientes sistemas de inyección electrónico de combustible: Unidad bomba -inyector, bomba-tubería-inyector, sistema de inyección acumulador (common rail), u otro similar.
+
 2°.- La circunstancia de haber procedido la Planta Revisora al sellado de la bomba inyectora, se consignará en el certificado de análisis de gases que se otorga con ocasión de efectuar la revisión de gases a que se refiere el artículo 3° del DS N° 48 de 1985 del Ministerio de Transportes y Telecomunicaciones, o en el certificado de revisión técnica, según corresponda.
 
 En el evento que la bomba inyectora estuviere ya sellada en los términos precedentemente indicados, y el vehículo al ser revisado cumple la norma de emisión de contaminantes, se mantendrá el sello que tenga colocado la bomba inyectora, consignando esta circunstancia en el certificado que se emita en dicha ocasión. En todo caso, la vigencia del sellado de la bomba inyectora no podrá exceder de 18 meses o de 100.000 Km., lo que se cumpla primero.
