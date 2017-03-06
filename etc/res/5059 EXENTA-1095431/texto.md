@@ -34,6 +34,4 @@ Período Calzada
 
 5.- La presente resolución entrará en vigencia a partir de su publicación en el Diario Oficial.
 
-> **Nota.** El N° 1 de la Resolución 8231, Transportes, publicada el 29.01.2018, modifica la presente norma en el sentido de reemplazar en el cuadro, la frase "31 de diciembre de 2017" por "28 de febrero de 2018", sin embargo, la frase a reemplazar no se encuentra en el texto, por lo que no se ha podido efectuar la modificación.
-
 Anótese y publíquese.- Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
