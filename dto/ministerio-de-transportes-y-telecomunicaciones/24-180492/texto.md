@@ -80,7 +80,15 @@ los cuales, en forma voluntaria, se efectúe la
 
 revisión/calibración de la bomba inyectora del motor
 
-en los términos antes indicados
+en los términos antes indicados. Asimismo, quedarán
+
+exceptuados los buses cuyo motor cuente con alguno de
+
+los siguientes sistemas de inyección electrónico de
+
+combustible: Unidad bomba-inyector; bomba-tubería-
+
+inyector, sistema de inyección acumulador (common rail).
 
 2.- Junto con el Certificado en que conste el
 
