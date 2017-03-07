@@ -22,13 +22,13 @@ Resuelvo:
 
 Declárase Emergencia de Plaga, por un período de treinta días corridos, contado desde la publicación de la presente resolución, el área de contención, que configura un polígono, cuyos vértices son los siguientes puntos geográficos, ubicados en la Región de Aysén y Magallanes:
 
-Punto 1: Localizado en las coordenadas geográficas de referencia Latitud: 44º48'12,38" S; Longitud: 71º13'35,80" O, Datum WGS 84, en adelante referencia de toda coordenada geográfica indicada en la presente resolución.
+Punto 1: Localizado en las coordenadas geográficas de referencia Latitud: 44° 27' 34,44" S; Longitud: 72° 50' 28,16" O, Datum WGS 84, en adelante referencia de toda coordenada geográfica indicada en la presente resolución.
 
-Punto 2: Localizado en las coordenadas geográficas de referencia Latitud: 49º8'1,64" S; Longitud: 70º51'56,35" O, Datum WGS 84, siguiendo entre este punto y el precedente.
+Punto 2: Localizado en las coordenadas geográficas de referencia Latitud: 48° 43' 26,65" S; Longitud: 72° 39' 53,04" O, Datum WGS 84, siguiendo entre este punto y el precedente.
 
-Punto 3: Localizado en las coordenadas geográficas de referencia Latitud: 49º9'55,06" S; Longitud: 76º3'36,48" O, Datum WGS 84, siguiendo entre este punto y el precedente.
+Punto 3: Localizado en las coordenadas geográficas de referencia Latitud: 48° 44' 29,27" S; Longitud: 76° 12' 9,58" O, Datum WGS 84, siguiendo entre este punto y el precedente.
 
-Punto 4: Localizado en las coordenadas geográficas de referencia Latitud: 44º51'3,98" S; Longitud: 75º56'53,95" O, Datum WGS 84, siguiendo entre este punto y el precedente.
+Punto 4: Localizado en las coordenadas geográficas de referencia Latitud: 44° 28' 28,43" S; Longitud: 76° 6' 42,26" O. Datum WGS 84, siguiendo entre este punto y el precedente.
 
 #### Artículo segundo
 
