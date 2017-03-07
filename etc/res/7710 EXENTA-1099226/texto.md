@@ -20,7 +20,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Establécese como medida de gestión de tránsito temporal, desde el 3 de enero de 2017 y hasta el 3 de mayo de 2018, en calzada de Av. Independencia, entre Av. Santa María y Santos Dumont, comuna de Independencia, una vía exclusiva para buses de transporte público urbano de pasajeros y taxis, en cualquiera de sus modalidades, con o sin pasajeros en su interior.
+1.- Establécese como medida de gestión de tránsito temporal, desde el 3 de enero de 2017 y hasta el 3 de mayo de 2018, en calzada de Av. Independencia, entre Av. Santa María y Av. Dorsal, comuna de Independencia, una vía exclusiva para buses de transporte público urbano de pasajeros, buses de servicios rurales de transporte público de pasajeros y taxis, en cualquiera de sus modalidades, con o sin pasajeros en su interior.
 
 Podrán circular, además, en la referida vía exclusiva, los vehículos de emergencia, de Gendarmería de Chile; los adscritos al Programa Nacional de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control; los vehículos municipales destinados a cumplir funciones de apoyo a la función policial que se encuentren debidamente identificados; los destinados a cumplir funciones en las obras relacionadas con el proyecto "Construcción Eje de Movilidad Independencia, Tramo I", y aquellos vehículos que requieran ingresar o egresar hacia o desde su lugar de residencia.
 
