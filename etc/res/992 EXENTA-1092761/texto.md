@@ -44,7 +44,7 @@ Podrán, además, acceder a este Programa, empresas con un tiempo de operación 
 
 No se aplicará para los beneficiarios de esta Tipología, la restricción establecida en este instrumento consistente en beneficiarse una sola vez del PAR, así como tampoco se contará a futuro el haberse beneficiado de esta Tipología.
 
-No podrán ser beneficiados por este Programa quienes ya hayan sido beneficiados por el "Programa Reemprende Atacama".
+No podrán ser beneficiados por esta Tipología quienes hayan sido beneficiados por los programas de emergencia: Programa Emergencia Productiva y Programa Transporte Público y Escolar de Sercotec; y Programa IPRO Línea Recuperación de Inversiones de Corfo.
 
 Las empresas deberán acreditar estar al día en el pago de sus cotizaciones de seguridad social y seguro de desempleo.
 
