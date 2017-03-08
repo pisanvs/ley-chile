@@ -1,0 +1,7 @@
+ESTABLECE FORMA Y PLAZO PARA EL CUMPLIMIENTO DE LO ESTABLECIDO EN EL INCISO PRIMERO DEL ARTÍCULO 85 DEL DL N° 830, DE 1974, SOBRE CÓDIGO TRIBUTARIO
+
+Extracto de resolución exenta del Servicio de Impuestos Internos N° 140, del 2 de marzo de 2017, que establece forma y plazo para el cumplimiento de lo establecido en el inciso primero del artículo 85 del DL N° 830, de 1974, sobre Código Tributario.
+
+. Establécese forma y plazo de envío de la información sobre tasaciones de bienes raíces que el Banco del Estado, las cajas de previsión y las instituciones bancarias y de crédito en general, deben remitir al Servicio de Impuestos Internos, de acuerdo a lo dispuesto en el inciso primero del artículo 85 del DL N° 830, de 1974, sobre Código Tributario a través de un extracto de informe de tasación, mediante el cual las personas jurídicas señaladas anteriormente remitirán datos indicados en las tasaciones de bienes raíces que practiquen, junto con las copias de dichas tasaciones en formato PDF.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de marzo de 2017.
