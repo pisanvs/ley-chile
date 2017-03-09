@@ -76,7 +76,7 @@ c) Contar con el instrumento de caracterización socioeconómica vigente, de acu
 
 d) Acreditación de ingreso familiar bajo los máximos permitidos, de acuerdo a lo señalado en la letra m) de su artículo 16.
 
-e) Haber obtenido algún beneficio habitacional anterior del Serviu, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, o ser propietario de otro inmueble destinado a la habitación, o si lo fuere su cónyuge o conviviente civil, de acuerdo a lo señalado en las letras a) y e) de su artículo 17. Las familias que, con ocasión de esta catástrofe, hayan obtenido un beneficio para la reparación de sus viviendas, ya sea otorgado por el Ministerio de Vivienda y Urbanismo o por el Ministerio del Interior y Seguridad Pública podrán inscribirse en este llamado.
+e) Haber obtenido algún beneficio habitacional anterior del Serviu, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, o lo hubiere obtenido o aplicado su cónyuge o conviviente civil de acuerdo a lo señalado en la letra e) de su artículo 17.
 
 4. No podrán inscribirse quienes tengan algún Certificado de Subsidio Habitacional vigente a la fecha, ni aquellos que estuvieran postulando a cualquier otro programa habitacional de las instituciones del Sector Vivienda, o respecto de los cuales se hubiere efectuado la reserva del subsidio conforme al Título IV del DS N° 120 (V. y U.), de 1995, del DS N° 116 (V. y U.), de 2014, o del DS N° 19 (V. y U.), de 2016, o si lo estuviere su cónyuge o conviviente civil.
 
