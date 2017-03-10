@@ -108,6 +108,16 @@ Son residuos especiales aquellos residuos de establecimientos de atención de sa
 
 5 Residuos de animales: Cadáveres o partes de animales, así como sus camas, que estuvieron expuestos a agentes infecciosos durante un proceso de investigación, producción de material biológico o en la evaluación de fármacos.
 
+#### Artículo 6° bis
+
+<!-- parte:9779305 -->
+
+Sin perjuicio de lo dispuesto en el artículo 6°, la placenta se entregará a requerimiento de la mujer, en la medida que sea destinada a prácticas culturales que la mujer considere relevantes. Dicha solicitud deberá realizarse con la anticipación tal que permita llevar a cabo la evaluación médica respectiva. No se entregará la placenta en caso de diagnóstico de determinadas enfermedades y/o infecciones transmisibles. Asimismo, deberá ser entregada debidamente envasada, de acuerdo a las especificaciones técnicas correspondientes.
+
+Una norma general técnica dictada por el Ministerio de Salud, establecerá requisitos de entrega, el proceso de solicitud y entrega, la gestión de información y/o estadísticas y los responsables del proceso.
+
+Las placentas cuya entrega no sea requerida de conformidad con lo dispuesto en el inciso anterior, sea que tengan o no agentes patógenos, serán consideradas de acuerdo a la categoría señalada en el artículo 6 N° 2.
+
 #### Artículo 7º
 
 <!-- parte:8812321 -->
