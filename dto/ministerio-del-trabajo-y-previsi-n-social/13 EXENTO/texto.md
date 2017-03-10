@@ -124,7 +124,7 @@ El Servicio de Bienestar podrá otorgar, siempre que sus recursos lo permitan, l
 
 a) Nacimiento o adopción: se concederá una ayuda por el nacimiento o adopción de cada hijo. Si ambos padres fuesen afiliados, se pagará el beneficio sólo al afiliado que lo registre como carga familiar. En el caso de la adopción, la ayuda podrá solicitarse una vez que se haya otorgado la tuición para la adopción de un hijo, circunstancia que se acreditará con la respectiva resolución judicial, en el plazo de seis meses desde la dictación de la sentencia firme y ejecutoriada y/o certificado de nacimiento.
 
-b) Matrimonio: Se concederá ayuda al afiliado que acredite haber contraído matrimonio. Si ambos cónyuges son afiliados, el beneficio le corresponderá a ambos.
+b) Matrimonio o Acuerdo de Unión Civil: Se concederá ayuda al afiliado que acredite haber contraído matrimonio. Si ambos cónyuges son afiliados, el beneficio le corresponderá a ambos. Asimismo, se concederá ayuda al afiliado que acredite haber celebrado acuerdo de unión civil. Si ambos convivientes civiles son afiliados, el beneficio le corresponderá a ambos.
 
 c) Fallecimiento: Se podrá conceder una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares reconocidas, incluida el mortinato a partir del 5° mes de gestación y del hijo recién nacido que no hubiese sido reconocido aún como carga familiar.
 
