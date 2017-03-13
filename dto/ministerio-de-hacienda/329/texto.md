@@ -22,7 +22,7 @@ El Servicio Nacional de Aduanas es un Servicio Público dependiente del Minister
 
 El Servicio de Aduanas estará constituido por la Dirección Nacional, las Direcciones Regionales y las Administraciones de Aduanas.
 
-La Dirección Nacional está constituida por las siguientes Subdirecciones: Técnica, Jurídica, de Fiscalización, de Gestión y Desarrollo de Personas, Administrativa y de Informática.
+La Dirección Nacional está constituida por las siguientes Subdirecciones: Técnica, Jurídica, de Fiscalización, de Recursos Humanos, Administrativa y de Informática.
 
 Con sujeción a la Planta del Servicio, el Director Nacional establecerá los Departamentos que dependerán de las Subdirecciones, y los que dependerán directamente de él.
 
@@ -44,7 +44,7 @@ El Director Nacional tiene la autoridad, atribuciones y deberes inherentes a su 
 
 1.- Planificar, organizar, dirigir, coordinar y supervigilar el funcionamiento del Servicio.
 
-2.- Fijar y modificar la organización interna de las Unidades del Servicio, asignándole el personal necesario, fijándoles sus atribuciones, obligaciones y dependencias, sin que el ejercicio de esta facultad pueda originar modificaciones en la planta, funciones y estructura del Servicio dentro de las normas establecidas por la ley. En el ejercicio de esta facultad establecerá la estructura organizativa interna del Servicio, de conformidad a su dotación máxima de personal y a lo dispuesto en la ley Nº 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia y determinará las denominaciones y funciones que correspondan a cada una de las unidades establecidas para el cumplimiento de las funciones que le sean asignadas. En dicha estructura considerará, a lo menos, una unidad de Control Fronterizo y Operaciones y una unidad de Contraloría Interna.
+2.- Fijar y modificar la organización interna de las Unidades del Servicio, asignándole el personal necesario, fijándoles sus atribuciones, obligaciones y dependencias, sin que el ejercicio de esta facultad pueda originar modificaciones en la planta, funciones y estructura del Servicio dentro de las normas establecidas por la ley.
 
 3.- Ordenar que cualquiera Aduana sea intervenida por los funcionarios que designe al efecto.
 
@@ -60,7 +60,7 @@ El Director Nacional tiene la autoridad, atribuciones y deberes inherentes a su 
 
 9.- Proponer al Ministerio de Hacienda la dictación de los reglamentos cuya aplicación corresponda al Servicio.
 
-10.- Disponer, mediante resolución fundada, la habilitación de lugares especiales de almacenamiento de mercancías que cumplan con las condiciones técnicas para ello, y que por su naturaleza no puedan ser depositadas en los recintos habilitados, o bien, por ser éstos insuficientes o carecer de elementos materiales adecuados, siéndoles aplicable lo dispuesto en el inciso cuarto del artículo 56 y en los artículos 58 a 62 de la Ordenanza de Aduanas.
+10.- Disponer, mediante resolución fundada, la habilitación de lugares especiales de almacenamiento fiscal de mercancías que por su naturaleza no puedan ser depositadas en los recintos fiscales destinados al efecto, por ser éstos insuficientes o carecer de elementos materiales adecuados.
 
 11.- Proponer la contratación de personas ajenas al Servicio para atender las operaciones aduaneras en puntos de escasa importancia, las que dispondrán para el desempeño de sus funciones de las facultades, atribuciones y responsabilidades que se le otorguen.
 
@@ -140,7 +140,7 @@ Corresponderá a la Subdirección de Informática, por sí o a través de los De
 
 #### Artículo 12°
 
-Corresponderá a la Subdirección de Gestión y Desarrollo de Personas, por sí o a través de los departamentos de su dependencia, proponer y ejecutar la política del Servicio en materia de recursos humanos, particularmente, sobre admisión, capacitación, promoción, traslados, destinaciones, bienestar del personal; efectuar o encargar los estudios que se estimen necesarios para la adecuada gestión del área y las demás funciones que le asigne el Director.
+Corresponderá a la Subdirección de Recursos Humanos, por sí o a través de los departamentos de su dependencia, proponer y ejecutar la política del Servicio en materia de recursos humanos, particularmente, sobre admisión, capacitación, promoción, traslados, destinaciones, bienestar del personal; efectuar o encargar los estudios que se estimen necesarios para la adecuada gestión del área y las demás funciones que le asigne el Director.
 
 #### Artículo 12°
 
@@ -192,23 +192,17 @@ Las Direcciones Regionales de Aduana son las siguientes:
 
 4.- Coquimbo, con jurisdicción sobre la IV Región.
 
-5. Valparaíso, con jurisdicción en la Región de Valparaíso, sobre las provincias de Isla de Pascua, Petorca, Quillota, Marga Marga y Valparaíso.
+5.- Valparaíso, con jurisdicción sobre la V Región.
 
-6. San Antonio, con jurisdicción en la Región de Valparaíso, sobre la provincia de San Antonio.
+6.- Metropolitana, con jurisdicción sobre la Región Metropolitana y la VI Región.
 
-7. Los Andes, con jurisdicción en la Región de Valparaíso, sobre las provincias de Los Andes y San Felipe de Aconcagua.
+7.- Talcahuano, con jurisdicción sobre la VII, VIII y IX Regiones.
 
-8.- Metropolitana, con jurisdicción sobre la Región Metropolitana y la VI Región.
+8.- Puerto Montt, con jurisdicción sobre la X y XIV Región.
 
-9.- Talcahuano, con jurisdicción sobre la Región del Maule, Región de Ñuble y Región del Bíobío.
+9.- Coyhaique, con jurisdicción sobre la XI Región.
 
-10.- Araucanía, con jurisdicción sobre la Región de La Araucanía.
-
-11.- Puerto Montt, con jurisdicción sobre la X y XIV Región.
-
-12.- Coyhaique, con jurisdicción sobre la XI Región.
-
-13.- Punta Arenas, con jurisdicción sobre la XII Región.
+10.- Punta Arenas, con jurisdicción sobre la XII Región.
 
 #### Artículo 15°
 

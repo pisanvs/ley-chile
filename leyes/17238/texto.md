@@ -50,7 +50,11 @@ Autorízase la importación sin depósito y con una tributación aduanera única
 
 Las personas lisiadas a que se refiere el inciso anterior son aquellas que presentan incapacidad permanente para la marcha normal en virtud de lesiones orgánicas o funcionales que afectan uno o los dos miembros inferiores y, además, aquellas que conjuntamente a su incapacidad permanente para la marcha normal, sufran de la incapacidad absoluta de uno de los miembros superiores.
 
-Para los efectos de la internación los interesados deberán presentar a la Aduana un certificado que controle la incapacidad permanente requerida y que sólo podrá otorgar una comisión especial designada por el Servicio Nacional de Salud. Para efectos de dicha importación, en ningún caso se exigirá licencia de conducir.
+Las personas lisiadas interesadas en adquirir un vehículo, acogiéndose a las franquicias arancelarias establecidas en este artículo, deberán presentar una solicitud al Servicio Nacional de Aduanas, acompañada de la resolución que para tales efectos les otorgue la Comisión de Medicina Preventiva e Invalidez, en la cual se deberán consignar los elementos especiales que deberá tener el vehículo que requieran.
+
+Corresponderá al Director Nacional de Aduanas dictar las resoluciones que señalen los documentos que los interesados deben acompañar a las solicitudes respectivas y el procedimiento para su tramitación.
+
+Para los efectos de la importación de los vehículos por las personas lisiadas, en ningún caso se exigirá licencia de conducir.
 
 En ningún caso los vehículos a que se refiere el inciso primero podrán tener un valor superior a US$ 21.048,33 FOB, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para lisiados que se señalen en los certificados que para los efectos de esta ley deben emitir los servicios de salud a cada beneficiario. Para los vehículos de transporte de mercancías que se clasifican en la posición arancelaria 87.02.04, el valor limite antes señalado será de US$17.456,12 FOB. Dichas cantidades se reactualizarán anualmente, en la misma forma señalada en el artículo 46° bis del decreto ley Nº 825, de 1974.
 

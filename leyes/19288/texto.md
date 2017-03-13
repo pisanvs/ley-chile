@@ -12,9 +12,9 @@ Autorízase el establecimiento y el funcionamiento de uno o más Almacenes de Ve
 
 #### Artículo 2°
 
-Para los efectos de esta ley, se entenderá por Almacén de Venta Libre, el recinto perfectamente deslindado dentro del respectivo aeropuerto, en el cual se depositarán mercancías extranjeras, nacionales y nacionalizadas, con el único objeto de ser vendidas para el uso o consumo de los pasajeros de aeronaves que se dirijan al exterior, que arriben al país o se encuentren en tránsito al extranjero.
+Para los efectos de esta ley, se entenderá por Almacén de Venta Libre, el recinto perfectamente deslindado dentro del respectivo aeropuerto, en el cual se depositarán mercancías extranjeras, nacionales y nacionalizadas, con el único objeto de ser vendidas para el uso o consumo de los pasajeros y tripulantes de aeronaves que se dirijan al exterior, que arriben al país o se encuentren en tránsito al extranjero.
 
-Los pasajeros que adquieran productos en estos recintos a su arribo al país, gozarán de la franquicia contemplada en la subpartida 0009.0200, del capítulo 0 del arancel aduanero.
+Los pasajeros y tripulantes que adquieran productos en estos recintos a su arribo al país, gozarán de la franquicia contemplada en la subpartida 0009.0200, del capítulo 0 del arancel aduanero.
 
 > **Nota.** La letra b) del Art. 29 del DFL 1, Hacienda, publicado el 11.09.2001, que fijó el texto refundido de la LEY 19420, reitero la presente modificación.
 
@@ -24,7 +24,7 @@ Agrégase a la subpartida 0009.0200, del capítulo 0 del arancel aduanero, a con
 
 #### Artículo 4°
 
-Los pasajeros que arriben al país sólo podrán adquirir en los Almacenes de Venta Libre, las mercancías que se contemplan especialmente para estos efectos, en una lista establecida por decreto supremo del Ministerio de Hacienda.
+Los pasajeros y tripulantes que arriben al país sólo podrán adquirir en los Almacenes de Venta Libre, las mercancías que se contemplan especialmente para estos efectos, en una lista establecida por decreto supremo del Ministerio de Hacienda.
 
 > **Nota.** La letra c) del Art. 29 del DFL 1, Hacienda, publicado el 11.09.2001, que fijó el texto refundido de la LEY 19420, reitero la presente modificación.
 

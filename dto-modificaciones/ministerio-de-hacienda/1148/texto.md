@@ -70386,6 +70386,36 @@ para cada Posición, Subposición o Item de los Capítulos
 
 1 al 97 de dicho Arancel.
 
+Nota Legal Nacional Nº 6:
+
+Los montos en dólares de las partidas arancelarias 00.09,
+
+00.23 y 00.26 se actualizarán cada cinco años, mediante
+
+decreto supremo aprobado por el Ministerio de Hacienda,
+
+expedido bajo la fórmula "Por orden del Presidente de la
+
+República", de acuerdo con la variación experimentada
+
+por el Índice Oficial de Precios al Por Mayor (PPM) de
+
+los Estados Unidos de Norteamérica, en el período de
+
+sesenta meses, comprendido entre el uno de noviembre
+
+del año que antecede al de la dictación del decreto
+
+supremo y el treinta de octubre del año anterior a la
+
+vigencia de dicho decreto. En caso de resultar un monto
+
+con decimales deberá aproximarse al entero superior. Si
+
+el factor de actualización resultare negativo, se mantendrá
+
+el valor vigente anterior.
+
 Estad.
 
 Partida Código Glosa U.A. Adv. Unidad
@@ -70742,7 +70772,17 @@ de Relaciones Exteriores. KB L
 
 0004.0200 Dependientes del Ministerio de
 
-Defensa Nacional. KB L
+Defensa Nacional y funcionarios
+
+de Carabineros de Chile y de la
+
+Policía de Investigaciones de Chile;
+
+así como funcionarios del Estado
+
+que, en su representación, presten
+
+servicios en el exterior. KB L
 
 0004.0300 De Organismos Internacionales,
 
@@ -70766,13 +70806,21 @@ participación superior al
 
 noventa por ciento de su capital. KB L
 
-0004.0500 Menaje de casa adquirido por
+0004.0500 Menaje de casa adquirido por KB 15
 
-el personal dependiente del KB 15
+el personal dependiente del
 
-Ministerio de Defensa Nacional
+Ministerio de Defensa Nacional,
 
-en comisión de servicio en el
+Carabineros de Chile, Policía de
+
+Investigaciones de Chile y
+
+funcionarios del Estado que, en su
+
+representación, presten servicios
+
+en el exterior en comisión de servicio en el
 
 extranjero por períodos inferiores
 
@@ -70946,17 +70994,25 @@ del Servicio Exterior del
 
 Ministerio de Relaciones
 
-Exteriores y a los dependientes
+Exteriores y el personal
 
-del Ministerio de Defensa
+dependiente del Ministerio de
 
-Nacional que deban ser
+Defensa Nacional, Carabineros de
 
-trasladados al país como
+Chile, Policía de Investigaciones
+
+de Chile y funcionarios del Estado
+
+que, en su representación, presten
+
+servicios en el exterior, que deban
+
+ser trasladados al país como
 
 consecuencia de situaciones
 
-que esos Ministerios,
+que esos Ministerios e Instituciones,
 
 respectivamente, califiquen
 
@@ -71376,7 +71432,9 @@ FRANCA O ZONA FRANCA DE EXTENSION.
 
 0009.0200 Mercancías de propiedad de
 
-cada viajero proveniente de
+cada viajero, excluidos los
+
+tripulantes, proveniente de
 
 Zona Franca o Zona Franca de KB L
 
@@ -71386,15 +71444,19 @@ aduanero de US$ 1.218. De
 
 igual beneficio gozarán los
 
-pasajeros provenientes del
+pasajeros y tripulantes
 
-extranjero que adquieran
+provenientes del extranjero
+
+que adquieran
 
 mercancías hasta por un valor
 
-aduanero de US$ 500 en los
+aduanero de US$ 500, por viaje
 
-Almacenes de Venta Libre
+y US$350 mensuales, respectivamente
+
+en los Almacenes de Venta Libre
 
 establecidos en la ley Nº
 
@@ -71464,9 +71526,9 @@ valor de US$ 1.500 FOB. KB 6
 
 0009.8900 Otras mercancías de viajeros
 
-hasta por un valor de US$ 1.500 KB 15
+hasta por un valor de US KB 15
 
-FOB.
+$3.000 FOB.
 
 Notas Legales
 
@@ -71612,7 +71674,15 @@ que por su cantidad o valor
 
 hagan presumir su
 
-comercialización.
+comercialización. Asimismo,
+
+aquellos portados sólo para su
+
+uso personal, por tripulantes
+
+de naves, aeronaves y otros
+
+vehículos de transporte.
 
 b) Los objetos de uso exclusivo
 
@@ -71622,7 +71692,9 @@ profesiones y oficios, usados.
 
 c) Hasta una cantidad que no
 
-exceda, por persona adulta, de
+exceda, por viajero mayor de edad,
+
+excluidos los tripulantes, de
 
 400 unidades de cigarrillos;
 
@@ -71656,7 +71728,15 @@ digitales o fotográficas u otros
 
 objetos que habitualmente portan
 
-los viajeros.
+los viajeros. De la misma manera
+
+determinará los objetos que pueden
+
+ser incluidos dentro del concepto
+
+de equipaje, cuando son portados
+
+por tripulantes.
 
 El concepto de equipaje de esta
 
@@ -71798,155 +71878,7 @@ debidamente calificados por el
 
 Director Nacional de Aduanas.
 
-00.10 EFECTOS NUEVOS DE LOS SEÑALADOS
-
-EN LA LETRA a), INCISO 1º DE
-
-LA PARTIDA 00.09 DE PASAJEROS
-
-ADULTOS QUE HAYAN PERMANECIDO MAS
-
-DE SESENTA DIAS EN EL EXTRANJERO
-
-Y DEL PERSONAL DE LAS NAVES DE
-
-GUERRA, EN MISION DE SERVICIO
-
-EN EL EXTRANJERO, PARA SU EXCLUSIVO
-
-USO, NO PUDIENDO SER VENDIDOS.
-
-0010.01 De pasajeros adultos con
-
-permanencia superior a 60 días en
-
-el extranjero, hasta la
-
-concurrencia de $ 1.000 oro en
-
-valor aduanero de estos efectos.
-
-0010.0101 Los gravados según el artículo
-
-3º del Decreto de Hacienda KB 32
-
-Nº 2.772, de 1943.
-
-0010.0199 Los demás. KB L
-
-Nota: La franquicia liberatoria
-
-contenida en los ítemes 01 y 99
-
-de esta Subpartida será aplicable
-
-también a los chilenos
-
-radicados en el extranjero y
-
-que retornen por vía terrestre al
-
-país con su familia y enseres,
-
-aunque se movilicen como los
-
-arrieros, siempre que acrediten
-
-fehacientemente ante la
-
-Dirección Nacional de Aduanas su
-
-calidad de repatriados.
-
-Esta misma franquicia no excluye
-
-la de las partidas 00.04, 00.05
-
-y 00.18, y no será aplicable en
-
-el caso de los arrieros.
-
-0010.02 Del personal de las naves de
-
-guerra en misión de servicio en
-
-el extranjero. El Presidente de la
-
-República decretará para cada
-
-caso el por ciento de sus sueldos
-
-anuales a que ascenderá en valor
-
-aduanero de los efectos, la
-
-liberación que contempla esta
-
-Subpartida a través de sus ítems
-
-01 y 99.
-
-0010.0201 Los gravados según el artículo
-
-3º del Decreto de Hacienda KB 32
-
-Nº 2.772, de 1943.
-
-0010.0299 Los demás. KB L
-
-Nota: El personal de las naves
-
-de guerra que permanezca en el
-
-extranjero más de seis meses
-
-en misión del servicio, gozará
-
-de la franquicia de la Subpartida
-
-0010.0200 hasta por la suma,
-
-en valor aduanero de los efectos,
-
-que no exceda de los porcentajes
-
-de los sueldos anuales de que
-
-gozan los funcionarios en el
-
-exterior:
-
-Sueldos anuales superiores a
-
-$ 18.000 oro. . . . . 10%
-
-Sueldos anuales entre
-
-$ 18.000 y $ 12.000 oro. . . 12%
-
-Sueldos anuales entre
-
-$ 12.000 y $ 10.200 oro. . . 14%
-
-Sueldos anuales inferiores a
-
-$ 10.200 oro, una suma fija de
-
-$ 1.000 oro.
-
-El personal de las naves de guerra
-
-que permanezca en el extranjero
-
-menos de seis meses en misión de
-
-servicio, gozará de la franquicia
-
-liberatoria, hasta la concurrencia
-
-de $ 1.000 oro, en valor
-
-aduanero de los efectos.
+00.10 Derogada.
 
 00.11 0011.0000 EQUIPAJES DE ARRIEROS,
 
@@ -72500,43 +72432,27 @@ transcurridos desde la fecha
 
 de su internación.
 
-00.23 0023.0000 OBSEQUIOS SIN CARÁCTER COMERCIAL, KB 15
+00.23 0023.0000 Encomiendas, envíos
 
-HASTA POR UN VALOR FOB DE
+postales, envíos de
 
-US$ 50, AUNQUE ESTEN COMPRENDIDOS
+entrega rápida y
 
-EN OTRAS PARTIDAS DEL ARANCEL
+carga general,
 
-ADUANERO.
+ocasional, sin KB L
 
-Nota Legal.
+carácter comercial,
 
-La expresión «obsequios sin
+hasta por un valor
 
-carácter comercial» deberá
+FOB de US$30, aunque
 
-entenderse referida a las
+estén comprendidos
 
-mercancías que cumplen, además
+en otras partidas
 
-de las condiciones señaladas en
-
-la glosa misma de esta Partida,
-
-con los siguientes requisitos:
-
-a) Que vengan consignados a
-
-una persona natural por otra
-
-residente en el extranjero
-
-o en su nombre.
-
-b) Que se trate de un envío
-
-ocasional.
+del arancel aduanero.
 
 00.24 MERCANCIAS ARMADAS, FABRICADAS O
 
@@ -72598,7 +72514,7 @@ QUE CUENTEN CON LA RESPECTIVA
 
 RECETA, Y CUYO VALOR FOB NO
 
-EXCEDA DE 100 DOLARES.
+EXCEDA DE 500 DOLARES.
 
 00.29 0029.0000 EQUIPOS DIALIZADORES Y
 
@@ -72916,7 +72832,7 @@ PERMANECIDO EN EL EXTRANJERO,
 
 SIN SOLUCION DE CONTINUIDAD,
 
-DURANTE UN AÑO O MAS, Y QUE
+DURANTE DIECIOCHO MESES O MAS, Y QUE
 
 REGRESEN AL PAIS DESPUES DEL 30
 
@@ -73090,6 +73006,148 @@ REBAJAS PROGRAMADAS EN EL ART.
 
 PROCEDENTE.
 
+Nota Legal Nº 1: Los chilenos que
+
+regresen definitivamente al país
+
+y que acrediten una residencia
+
+ininterrumpida en el exterior no
+
+inferior a dieciocho meses,
+
+podrán importar al amparo de esta
+
+Partida un vehículo que,
+
+correspondiendo a alguno de los
+
+ítems señalados en ella, ingrese
+
+conjuntamente con el beneficiario. Dicho
+
+vehículo tendrá igual tratamiento
+
+cuando su ingreso se produzca
+
+dentro del plazo de ciento veinte
+
+días, con anterioridad o posterioridad
+
+al del beneficiario y siempre que venga
+
+consignado a su nombre en el Manifiesto
+
+o Guía correspondiente.
+
+El Director Nacional de Aduanas podrá,
+
+en casos calificados y por una sola vez,
+
+prorrogar el plazo señalado en el inciso
+
+anterior.
+
+Nota Legal N° 2: El vehículo susceptible
+
+de ser importado al amparo de esta Partida
+
+deberá provenir del país de residencia
+
+del beneficiario y haber sido adquirido
+
+por lo menos seis meses antes de la fecha
+
+del regreso definitivo del beneficiario a
+
+Chile. No obstante, el vehículo podrá ser
+
+adquirido en alguna de las zonas francas
+
+nacionales e ingresado al resto del país,
+
+dentro del plazo a que se refiere la oración
+
+final del inciso primero de la Nota Legal
+
+N° 1.
+
+Nota Legal N° 3: El vehículo importado al
+
+amparo de esta Partida no podrá ser objeto
+
+de negociaciones de ninguna especie, tales
+
+como compraventa, arrendamiento, comodato o
+
+cualquier acto jurídico que signifique su
+
+tenencia, posesión o dominio por persona
+
+extraña al beneficiario de la franquicia,
+
+antes de transcurrido el plazo de tres años,
+
+contado desde la fecha de su importación al
+
+país, salvo que se entere en arcas fiscales
+
+la diferencia de los derechos que exista
+
+entre los efectivamente pagados al momento
+
+de su importación y los vigentes a la fecha
+
+de numeración de la solicitud de pago de
+
+acuerdo a la clasificación arancelaria que
+
+le corresponda en el régimen general.
+
+Nota Legal Nº 4: Las personas que se acojan a
+
+la presente Partida no podrán hacer uso de
+
+ninguna otra posición de esta sección, con la
+
+sola excepción de la Partida 00.09 sobre menaje
+
+y/o útiles de trabajo.
+
+Nota Legal N° 5: Una misma persona no podrá
+
+acogerse nuevamente a los beneficios de esta
+
+Partida sin que haya transcurrido, a lo menos,
+
+un plazo de tres años, contado desde la fecha
+
+de la última importación efectuada a su
+
+amparo.
+
+Nota Legal Nº 6: El plazo de permanencia en el
+
+extranjero a que se refiere esta Partida se
+
+contará hacia atrás desde la fecha de regreso
+
+del beneficiario a Chile y no podrá interrumpirse
+
+por un plazo superior a sesenta días en total,
+
+salvo en casos debidamente calificados por el
+
+Director Nacional de Aduanas.
+
+El período de permanencia en el extranjero se
+
+acreditará mediante certificado de viaje,
+
+emitido por la Policía de Investigaciones de
+
+Chile.
+
 00.34 0034.0000 MERCANCIAS DESTINADAS AL USO KB L
 
 O CONSUMO DE LAS BASES UBICADAS
@@ -73198,9 +73256,13 @@ naturaleza o el ser humano, como
 
 accidentes de tránsito u otros
 
-análogos. Esta partida se aplicará
+análogos, las que estarán exentas
 
-previa calificación de la Junta
+del pago de derechos de aduana. Esta
+
+partida se aplicará previa
+
+calificación de la Junta Nacional
 
 Nacional de Cuerpos de Bomberos de
 

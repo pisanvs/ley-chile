@@ -388,17 +388,17 @@ De las exenciones arancelarias
 
 Los vehículos importados por personas con discapacidad, sea que actúen por sí o por medio de sus guardadores, cuidadores o representantes legales o contractuales, accederán al beneficio para la importación de vehículos establecido en el artículo 6º de la ley Nº17.238.
 
-Los vehículos a que se refiere el inciso primero no podrán tener un valor FOB superior a US$ 29.739,89.-, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para personas con discapacidad que se señalen en los certificados que, para los efectos de esta ley, debe emitir la Comisión de Medicina Preventiva e Invalidez, cuando resulte pertinente. En el caso de vehículos de transporte de mercancías, estos no podrán tener un valor FOB superior a US$ 35.148,58.- Dichas cantidades se actualizarán anualmente.
+Los vehículos a que se refiere el inciso primero no podrán tener un valor FOB superior a US$ 29.629,85.-, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para personas con discapacidad que se señalen en los certificados que, para los efectos de esta ley, debe emitir la Comisión de Medicina Preventiva e Invalidez, cuando resulte pertinente. En el caso de vehículos de transporte de mercancías, estos no podrán tener un valor FOB superior a US$ 35.018,53.- Dichas cantidades se actualizarán anualmente.
 
-Los beneficios establecidos en este artículo serán aplicables también a la importación de vehículos destinados exclusivamente al transporte colectivo de personas con discapacidad. El valor FOB de dichos vehículos no podrá exceder de US$ 51.370,94.-, sin considerar los elementos opcionales constitutivos del equipo especial para personas con discapacidad que señale el reglamento.
+Los beneficios establecidos en este artículo serán aplicables también a la importación de vehículos destinados exclusivamente al transporte colectivo de personas con discapacidad. El valor FOB de dichos vehículos no podrá exceder de US$ 51.180,86.-, sin considerar los elementos opcionales constitutivos del equipo especial para personas con discapacidad que señale el reglamento.
 
 Los vehículos que se importen mediante la franquicia establecida en este artículo deberán permanecer por un lapso no inferior a 3 años afectos al uso y transporte de personas con discapacidad.
 
-Las cantidades en dólares establecidas en el presente artículo se actualizarán anualmente a contar del 1 de enero de cada año mediante decreto supremo expedido por el Ministerio de Hacienda, conforme a la variación experimentada por el Índice Oficial de Precios al por Mayor de los Estados Unidos de América en el período de doce meses comprendido entre el 1 de noviembre del año que antecede al de la dictación del decreto supremo y el 30 de octubre del año anterior a la vigencia de dicho decreto.
+Las cantidades en dólares establecidas en el presente artículo se actualizarán anualmente a contar del 1 de enero de cada año mediante decreto supremo expedido por el Ministerio de Hacienda, conforme a la variación experimentada por el Índice Oficial de Precios al por Mayor de los Estados Unidos de América en el período de doce meses comprendido entre el 1 de noviembre del año que antecede al de la dictación del decreto supremo y el 30 de octubre del año anterior a la vigencia de dicho decreto. Si el factor de actualización resultare negativo, se mantendrá el valor vigente anterior.
 
 Las personas jurídicas sin fines de lucro, que tengan por objeto la asistencia, cuidado o apoyo de personas con discapacidad podrán impetrar los beneficios establecidos en este artículo, para importar vehículos destinados exclusivamente al transporte de personas con discapacidad que ellas atiendan en el cumplimiento de sus fines.
 
-Un reglamento dictado por el Ministro de Hacienda determinará los procedimientos y competencias para el otorgamiento de autorizaciones, control y fiscalización de los beneficios establecidos en este artículo.
+Inciso Eliminado.
 
 #### Artículo 49
 
@@ -438,7 +438,7 @@ El Servicio de Impuestos Internos, a solicitud de los beneficiarios de las exenc
 
 #### Artículo 53
 
-Un reglamento dictado por el Ministerio de Hacienda determinará el procedimiento de obtención de los beneficios arancelarios y tributarios establecidos en los artículos precedentes, así como el de enajenación de los bienes a que los mismos artículos se refieren.
+Una resolución dictada por el Director Nacional de Aduanas determinará los procedimientos para el otorgamiento de las autorizaciones, control, fiscalización y la desafectación de los bienes acogidos a los beneficios aduaneros establecidos en los artículos 48 y 49 de la presente ley.
 
 #### Artículo 54
 

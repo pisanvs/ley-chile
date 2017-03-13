@@ -64,6 +64,14 @@ Los plazos no fatales pueden prorrogarse si la solicitud respectiva se presenta 
 
 En casos excepcionales podrán concederse términos especiales una vez vencido un plazo prorrogable, pero se sancionará al infractor de conformidad con lo dispuesto en el artículo 176.
 
+Con todo, los plazos que
+
+se establecen en el Título VI
+
+del Libro II se regirán por
+
+las normas de dicho Título.
+
 3.- Disposiciones generales relativas
 
 a los derechos y obligaciones de
@@ -88,7 +96,11 @@ Las informaciones proporcionadas al Servicio Nacional de Aduanas u obtenidas por
 
 #### Artículo 7º
 
-Los interesados deberán conservar los documentos relativos a las operaciones aduaneras, en papel o magnéticos, según la forma en que hayan servido de antecedente en su oportunidad, por un plazo de cinco años, a contar del primer día del año calendario siguiente a aquel de la fecha del hecho generador de la obligación tributaria aduanera, salvo los casos de pago diferido en que el plazo de cinco años se contará desde la amortización o vencimiento de la última cuota.
+Los interesados deberán conservar los documentos relativos a las operaciones aduaneras, en papel o electrónico, según la forma en que hayan servido de antecedente en su oportunidad, por un plazo de cinco años, a contar del primer día del año calendario siguiente a aquel de la fecha del hecho generador de la obligación tributaria aduanera, salvo los casos de pago diferido en que el plazo de cinco años se contará desde la amortización o vencimiento de la última cuota.
+
+El Director Nacional de Aduanas podrá autorizar a quienes realicen operaciones aduaneras a nombre de terceros y a los que se encuentren sujetos a su jurisdicción disciplinaria conforme al artículo 202 de la presente ley, para que efectúen la presentación de antecedentes, documentos y su conservación, así como, en general, el cumplimiento de cualquier trámite ante el Servicio, a través de medios electrónicos.
+
+Se tendrán por auténticas las copias electrónicas obtenidas a partir de los registros del Servicio Nacional de Aduanas de los documentos o antecedentes presentados de acuerdo con lo establecido en el inciso anterior. Igualmente se tendrán por auténticas, las copias de los documentos que sirvieron de base para la confección de las declaraciones aduaneras presentadas por los agentes de aduana, en su calidad de ministros de fe.
 
 #### Artículo 8º
 
@@ -174,6 +186,22 @@ El Director Nacional de Aduanas, a requerimiento de los usuarios, podrá designa
 
 El reglamento establecerá las condiciones para acceder a estas solicitudes, los procedimientos de provisión de los referidos gastos y las demás normas necesarias para la adecuada aplicación de este artículo.
 
+#### Artículo 23 bis
+
+El Director Nacional de Aduanas, a requerimiento de los interesados, podrá certificar como Operadores Económicos Autorizados a personas que podrán actuar en la cadena logística del comercio exterior, con el objeto de acceder a los beneficios relativos a control y simplificación de procesos aduaneros, según su rol en la referida cadena.
+
+Mediante reglamento dictado a través de decreto supremo del Ministerio de Hacienda, expedido bajo la fórmula "Por orden del Presidente de la República", se establecerán las actividades susceptibles de ser consideradas para la certificación de Operador Económico Autorizado, así como los requisitos, condiciones, prerrogativas y obligaciones de las personas que accedan a la certificación.
+
+La certificación tendrá una vigencia de tres años, renovable por períodos sucesivos, siempre que el Operador Económico Autorizado mantenga los requisitos para su calificación y cumpla las obligaciones que se dispongan. En caso de incumplimiento, total o parcial, el Director Nacional de Aduanas podrá suspender o revocar la certificación de conformidad a lo dispuesto en el reglamento a que se refiere el inciso anterior, sin perjuicio de toda otra responsabilidad que pudiere hacerse efectiva por los hechos que configuran dicho incumplimiento.
+
+#### Artículo 23 ter
+
+En el caso de las destinaciones de importación y exportación, y a efectos de llevar a cabo sus funciones de fiscalización y auditoría, el Servicio de Aduanas podrá certificar a personas con el objeto de que le asistan en los procesos de determinación de peso, humedad, extracción de muestras, preparación de muestras representativas, medición, calibraje, análisis químicos y otros que se determinen por resolución del Director Nacional de Aduanas.
+
+Mediante reglamento expedido a través del Ministerio de Hacienda se establecerán los requisitos y obligaciones que las personas referidas deberán cumplir para acceder a la certificación.
+
+La certificación se otorgará por tres años, renovable por períodos sucesivos, siempre que la persona certificada mantenga los requisitos para su otorgamiento y cumpla las obligaciones asociadas a su rol en los procesos de importación o exportación en que haya intervenido. Las personas certificadas, sus socios, representantes y empleados, quedarán sujetos a la jurisdicción disciplinaria del Director Nacional de Aduanas, en los términos previstos en el artículo 202 de esta Ordenanza, sin perjuicio de toda otra responsabilidad que resulte aplicable.
+
 #### Artículo 24
 
 Las personas naturales o jurídicas a quienes se permita actuar como agentes para la recepción, estiba, desestiba, movilización o transporte de mercancías en la zona primaria de jurisdicción de una Aduana, estarán sujetas tanto ellas como los medios que utilicen, a la potestad de la Aduana. Dichas personas deberán rendir cauciones con arreglo a lo dispuesto en el artículo 4°, N° 17, del DFL 329, de 1979, del Ministerio de Hacienda.
@@ -186,53 +214,23 @@ Las mercancías responderán directa y preferentemente al Fisco por los derechos
 
 # Libro I
 
-DE LA JUNTA GENERAL DE ADUANAS
+DE LA JUNTA GENERAL DE ADUANAS DEROGADO.
 
-#### Artículo 26
+#### Artículo 26°
 
-La Junta General de Aduanas tendrá su asiento en Valparaíso. Se compondrá por el Fiscal Nacional Económico y de tres Consejeros nombrados por el Presidente de la República, del siguiente modo:
+(DEROGADO)
 
-a) Uno elegido libremente por el Presidente de la República, y
+#### Artículo 27°
 
-b) Dos elegidos de una quina presentada por la Confederación de la Producción y el Comercio de Chile.
+(DEROGADO)
 
-En la misma forma establecida en el inciso anterior, se designarán consejeros suplentes de los titulares.
+#### Artículo 28°
 
-Para celebrar sus sesiones la Junta deberá contar con la asistencia de tres de sus miembros a lo menos, y será presidida por el representante de elección libre del Presidente de la República. En ausencia de éste, por el Consejero más antiguo en el cargo.
+(DEROGADO)
 
-El Presidente decidirá en las sesiones los empates que se produzcan.
+#### Artículo 29°
 
-La Junta tendrá un Secretario Abogado y un Prosecretario, quienes serán designados por la misma Junta a propuesta del Director Nacional, los que desempeñarán el cargo mientras cuenten con la confianza de la Junta.
-
-El Secretario Abogado será ministro de fe de las deliberaciones y resoluciones de ésta y el Prosecretario actuará en tal carácter cuando lo subrogue en caso de ausencia o impedimento.
-
-#### Artículo 27
-
-Si la entidad a que se refiere la letra b) del artículo anterior no presentare la quina al Presidente de la República dentro de treinta días de producida una vacante que deba ser llenada con arreglo a dicho artículo, el Presidente de la República podrá nombrar a la persona que estime conveniente.
-
-Las vacantes serán llenadas sólo por el tiempo que le falte para completar su período al Consejero que se reemplaza.
-
-#### Artículo 28
-
-Los Consejeros de la Junta General de Aduanas desempeñarán sus cargos por un período de tres años, renovables.
-
-La inasistencia injustificada a más de tres sesiones en un año calendario, a las cuales se haya citado con cuarenta y ocho horas de anticipación, a lo menos, producirá la cesación en el cargo.
-
-No podrán ser Consejeros de la Junta las personas que tengan o caucionen contratos con el Fisco, ya sea personalmente o como socios comerciales.
-
-Para resolver materias de carácter administrativo que le sean encomendadas por la ley, integrará también la Junta General el Director Nacional de Aduanas, quien para estos efectos asumirá la presidencia de este organismo.
-
-#### Artículo 29
-
-Corresponderá a la Junta General de Aduanas:
-
-a) Determinar el procedimiento para sus propias reuniones y acuerdos,
-
-b) Resolver en conciencia los juicios o contiendas sometidos a su conocimiento, y
-
-c) Conocer breve y sumariamente, en única instancia y sin forma de juicio, las reclamaciones que se interpongan en contra del Director Nacional de Aduanas por sus resoluciones de carácter administrativo que denieguen el trámite de una destinación aduanera.
-
-La reclamación se deberá interponer por el afectado ante la Junta General de Aduanas, dentro del plazo fatal de diez días hábiles, desde que se tuvo conocimiento de la resolución que causa agravio. Para estos efectos se presume que el interesado tuvo conocimiento del acto administrativo cuestionado, al tercer día hábil siguiente a la remisión de la comunicación de dicho acto.
+(DEROGADO)
 
 # Libro II
 
@@ -264,13 +262,13 @@ f) Provisiones y Rancho: mercancías destinadas al consumo de pasajeros y tripul
 
 g) Equipaje:
 
-1) Los artículos, nuevos o usados, que porte un viajero para su uso personal o para obsequios, con exclusión de mercancías que por su cantidad o valor hagan presumir su comercialización.
+1) Los artículos, nuevos o usados, que porte un viajero para su uso personal o para obsequios, con exclusión de mercancías que por su cantidad o valor hagan presumir su comercialización. Asimismo, aquellos portados sólo para su uso personal, por tripulantes de naves, aeronaves y otros vehículos de transporte.
 
 2) Los objetos de uso exclusivo para el ejercicio de profesiones u oficios, usados.
 
-3) Hasta una cantidad que no exceda, por persona adulta, de 400 unidades de cigarrillos; 500 gramos de tabaco de pipa; 50 unidades de puros y 2.500 centímetros cúbicos de bebidas alcohólicas.
+3) Hasta una cantidad que no exceda, por viajero mayor de edad, excluidos los tripulantes, de 400 unidades de cigarrillos; 500 gramos de tabaco de pipa; 50 unidades de puros y 2.500 centímetros cúbicos de bebidas alcohólicas.
 
-El Director Nacional de Aduanas determinará, mediante una resolución de aplicación general, los objetos que pueden ser incluidos dentro del concepto de equipaje, cuando son portados por residentes o no residentes, tales como prismáticos, teléfonos celulares o móviles, cámaras fotográficas u otros objetos que habitualmente portan los viajeros.
+El Director Nacional de Aduanas determinará, mediante una resolución de aplicación general, los objetos que pueden ser incluidos dentro del concepto de equipaje, cuando son portados por residentes o no residentes, tales como prismáticos, teléfonos celulares o móviles, cámaras fotográficas u otros objetos que habitualmente portan los viajeros. De la misma manera determinará los objetos que pueden ser incluidos dentro del concepto de equipaje cuando son portados por tripulantes.
 
 h) Guía de Correos: lista de los efectos postales entregados o recibidos por el Servicio de Correos.
 
@@ -456,11 +454,9 @@ El recinto que se habilite deberá reunir las condiciones técnicas de almacenam
 
 Para ejercer el giro de almacenista se deberán cumplir los siguientes requisitos:
 
-a) Giro exclusivo: el almacenista deberá acreditar que tiene la actividad de almacenaje como giro exclusivo. Las sociedades constituidas y que se constituyan de acuerdo a la ley N° 18.690, sobre almacenes generales de depósito, se entenderá que cumplen con este requisito.
+a) Giro exclusivo: el almacenista deberá acreditar que tiene la actividad de almacenaje como giro exclusivo. Las sociedades constituidas y que se constituyan de acuerdo a la ley N° 18.690, sobre almacenes generales de depósito, se entenderá que cumplen con este requisito. Lo anterior será sin perjuicio de las destinaciones de depósito que se cursen de conformidad a lo dispuesto en el artículo 111 bis de esta Ordenanza de Aduanas.
 
-b) Idoneidad moral: no podrán ejercer como almacenistas las personas naturales que hayan sido condenadas por crimen o simple delito de acción pública, o que hayan sido declaradas en quiebra, a menos que, en este último caso, acrediten haber sido legalmente rehabilitadas.
-
-Tratándose de personas jurídicas regirá el mismo requisito para caso de quiebra y, además, deberán acreditar que los impedimentos señalados precedentemente no afecten a sus administradores o directores.
+b) Idoneidad moral: no podrán ejercer como almacenistas las personas naturales que hayan sido condenadas por crimen o simple delito de acción pública, o que tengan actualmente la calidad de deudoras en un procedimiento concursal de liquidación, a menos que se acredite el término del mismo. Tratándose de personas jurídicas, regirá idéntico requisito y, además, deberán acreditar que los impedimentos señalados precedentemente no afecten a sus administradores o directores.
 
 c) Solvencia económica: para ser almacenista se deberá tener un patrimonio igual o superior a 6.000 Unidades de Fomento y rendir una garantía a favor del Servicio Nacional de Aduanas, mediante boleta bancaria de garantía o póliza de seguro por una suma igual o superior a 3.000 Unidades de Fomento.
 
@@ -470,9 +466,19 @@ La resolución del Director que disponga la habilitación se inscribirá en un r
 
 La cancelación de la habilitación para ejercer de almacenista se dispondrá por resolución del Director Nacional de Aduanas y sólo procederá por petición expresa del beneficiario o como sanción aplicada por el Director en ejercicio de su autoridad disciplinaria.
 
-La decisión del Director Nacional que deniegue la habilitación o disponga la cancelación será reclamable ante la Junta General de Aduanas. El plazo para su interposición será de diez días hábiles contado desde la notificación de la resolución respectiva. Admitida a trámite la reclamación, se pedirá de inmediato informe al Director, el que deberá ser evacuado en el plazo de diez días hábiles.
+La decisión del Director
 
-Recibido el informe, el recurso se agregará en la tabla para su vista. La Junta General de Aduanas resolverá en única instancia.
+Nacional que disponga la
+
+cancelación será reclamable
+
+ante el Tribunal Tributario
+
+y Aduanero, en conformidad
+
+al inciso final del artículo
+
+202.
 
 Serán aplicables a los almacenes extraportuarios y a los almacenistas las normas contenidas en los artículos 58 al 60 de esta Ordenanza y demás a que se sujetan los concesionarios de recintos de depósito.
 
@@ -500,7 +506,7 @@ c) Vicio propio de la cosa.
 
 #### Artículo 60
 
-Los concesionarios de recintos de depósito aduanero y los almacenistas habilitados, sus socios, representantes y empleados, quedarán sujetos a la jurisdicción disciplinaria del Director Nacional de Aduanas, en los términos previstos en el artículo 202 de la presente Ordenanza.
+Los concesionarios de recintos de depósito aduanero y los almacenistas habilitados, sus socios, representantes y empleados, quedarán sujetos a la jurisdicción disciplinaria del Director Nacional de Aduanas, en los términos previstos en el artículo 202 de la presente Ordenanza. En estos casos, cuando se aplique multa, su monto máximo será de hasta 200 unidades tributarias mensuales. Si hubiere reincidencia, se podrá aplicar una multa de hasta 300 unidades tributarias mensuales.
 
 Las personas que se mencionan en el inciso anterior se considerarán empleados públicos para todos los efectos del Código Penal y de las responsabilidades derivadas de las infracciones contempladas en esta Ordenanza o en otras leyes de orden tributario, cuyo cumplimiento y fiscalización corresponda al Servicio de Aduanas.
 
@@ -552,15 +558,23 @@ Para la valoración de importaciones o exportaciones que no tengan carácter com
 
 Cuando haya sido aceptada a trámite una declaración de destinación y la Aduana tenga motivos fundados para dudar de la veracidad y exactitud del valor declarado o de los documentos presentados que le sirven de antecedente, podrá, por una vez, exigir al importador que proporcione otros documentos o pruebas que acrediten que el monto declarado representa efectivamente el valor de transacción de las mercancías.
 
-Para estos efectos, la Aduana le concederá al importador un plazo prudencial para entregar la información requerida. Con la respuesta del importador o a falta de ella, se adoptará una decisión que se le comunicará por escrito en un plazo no mayor de doce días hábiles, señalándose sus fundamentos.
+Para efectos del requerimiento a que se refiere el inciso anterior, Aduana deberá notificar por escrito al importador, precisando con toda claridad las dudas que tuviere así como los antecedentes que le han servido de fundamento a la misma.
 
-Este procedimiento no impedirá el ejercicio de la potestad aduanera en revisiones, investigaciones o auditorías a posteriori.
+Una vez notificado, el importador contará con un plazo prudencial, el que no podrá ser inferior a quince días hábiles contados desde la notificación de la observación y requerimiento, con el objeto de entregar la información solicitada, formular descargos si lo estima conveniente y adjuntar cualquier otro antecedente que crea necesario a objeto de acreditar el valor total del monto declarado. Este plazo podrá ser prorrogado previa petición fundada, presentada con, a lo menos, tres días de antelación al vencimiento del plazo original.
+
+Si a consecuencia del procedimiento a que se refieren los incisos anteriores Aduana estimare procedente emitir cargos por presunta diferencia de derechos aduaneros, dispondrá de un plazo de sesenta días para emitirlo y notificarlo, contados desde la respuesta del importador o desde extinguido el plazo para efectuarla, según sea el caso. La precitada notificación deberá efectuarse por carta certificada dirigida al domicilio indicado en la destinación aduanera correspondiente, señalando expresamente el criterio asumido para la determinación del valor respectivo.
+
+Contra la resolución a que se refiere el inciso anterior, procederá recurso de reposición administrativa, en los términos del artículo 121 de la presente ley, sin perjuicio de los recursos judiciales que fueren procedentes.
 
 #### Artículo 70
 
 El valor aduanero se expresará en dólares de los Estados Unidos de América en los documentos de destinación aduanera.
 
 La equivalencia entre esta moneda y otras monedas extranjeras será la que para tal efecto fije el Banco Central de Chile, vigente al momento de aceptación de la respectiva declaración.
+
+#### Artículo 70 bis
+
+En el caso de exportaciones bajo una modalidad de venta distinta a firme, el valor definitivo de la exportación deberá informarse al Servicio Nacional de Aduanas en la forma, plazos y condiciones que dicho Servicio determine.
 
 ## Título V
 
@@ -628,6 +642,18 @@ Las destinaciones aduaneras que cancelen declaraciones de régimen suspensivo, a
 
 Las mercancías objeto de este trámite anticipado podrán ser reconocidas antes de su retiro de los recintos de depósito aduanero.
 
+#### Artículo 80 bis
+
+Sin perjuicio de lo dispuesto en el artículo 80, el Servicio Nacional de Aduanas no aceptará a trámite las declaraciones de importación acogidas a exenciones o franquicias aduaneras, contenidas en la Sección 0 del Arancel Aduanero y en leyes especiales y las destinaciones aduaneras que amparen regímenes suspensivos, cualquiera que sea su tipo y naturaleza, cuando el Servicio acredite fundadamente que quien manifiesta la destinación se encuentra en alguna de las siguientes situaciones:
+
+a) Registrar una o más deudas por derechos, impuestos, tasas y demás gravámenes, y/o multas aplicadas por el Servicio Nacional de Aduanas o por cualquier otra institución fiscalizadora, por un monto total superior a 200 unidades tributarias mensuales por más de un año. En estos casos, la inhabilidad cesará cuando se acredite el pago de lo adeudado por los conceptos antes referidos o la existencia de convenios de pago que se hayan suscrito con los servicios respectivos, reactivándose la inhabilidad cuando se acredite cualquier incumplimiento de estos últimos.
+
+b) Haber sido condenado por sentencia firme y ejecutoriada por delito establecido en esta Ordenanza. La inhabilidad será de un año, contado desde la condena firme. Esta inhabilidad y su duración también se aplicarán a la persona jurídica, incluso de hecho, que tramita la destinación, cuyos socios hayan sido condenados en los términos antes expuestos.
+
+c) Registrar sanciones reiteradas por infracciones o contravenciones aduaneras en el período de un año. En este caso, la inhabilidad será declarada por resolución fundada del Director Nacional de Aduanas, hasta por el plazo de un año, según la gravedad de los hechos.
+
+Además, el Servicio Nacional de Aduanas no aceptará a trámite destinaciones aduaneras de cualquier tipo, cuando sea solicitado por un organismo internacional de conformidad con un acuerdo internacional vigente en Chile.
+
 #### Artículo 81
 
 La Aduana aceptará a trámite las declaraciones presentadas, previa verificación de que contienen los datos, menciones y formalidades exigidas.
@@ -665,6 +691,24 @@ El acto de aforo constituye una operación única que consiste en practicar en u
 Las operaciones de examen físico, revisión documental y aforo deberán ser realizadas por funcionarios aduaneros especialmente facultados para ese objeto por la Ordenanza y sus reglamentos y podrán realizarse en las zonas primarias de jurisdicción o en los recintos puestos, temporal o permanentemente, bajo su potestad.
 
 Las variaciones que se produzcan en la revisión documental, aforo o en el examen físico de las mercancías, no implicará la devolución del documento al interesado, pero, junto con darle curso, el funcionario procederá en conformidad con lo establecido en el artículo 185.
+
+La formulación de cargos por
+
+diferencias de derechos, impuestos
+
+u otros gravámenes podrá ser
+
+efectuada por la autoridad ante la
+
+cual se hubiere tramitado la respectiva
+
+destinación aduanera, y también por
+
+aquella que hubiere efectuado la
+
+revisión, investigación o auditoría
+
+a posteriori.
 
 #### Artículo 85
 
@@ -710,17 +754,37 @@ Corresponderá también al Servicio de Correos recibir de los remitentes previo 
 
 Las piezas postales que no sean encomiendas y que contengan o puedan contener objetos o mercancías que estén o puedan estar afectos al pago de derechos e impuestos, serán entregados por el servicio postal de la Aduana para los efectos del cumplimiento de las disposiciones de esta Ordenanza y sus reglamentos, debiendo proceder el correo, en todo caso, a entregar a la Aduana los objetos señalados en la etiqueta reglamentaria contemplada en la Convención Postal Universal, pero, tratándose de piezas postales de la categoría de las cartas, la Aduana en ningún caso podrá abrirlas, debiendo ser el destinatario quien lo haga ante los funcionarios aduaneros y postales competentes. En caso de rechazo de estos objetos por el destinatario, serán reintegrados al Correo para su tratamiento conforme a las disposiciones postales correspondientes.
 
+#### Artículo 91 bis
+
+El Director Nacional de Aduanas reglamentará las obligaciones y facultades de las Empresas de Envío de Entrega Rápida o Expreso Internacional, entendiendo por tales aquellas que prestan el servicio de recolección, transporte, recepción y entrega de este tipo de envíos, desde y hacia el extranjero, utilizando medios propios o de terceros, sin perder el control y la responsabilidad de ellos durante todo el suministro de dicho servicio.
+
+El monto máximo de los despachos que podrán ser realizados por estas empresas será fijado por decreto supremo del Ministerio de Hacienda.
+
+El ingreso y salida de envíos de entrega rápida se sujetará a las normas especiales que establezca el Director Nacional de Aduanas para este tipo de envíos, conforme a lo dispuesto en la letra c) del número 1 del artículo 191 de esta Ordenanza, relativas a sus procedimientos, plazos, depósito y formalidades documentales. En lo demás, les serán aplicables las normas de este mismo cuerpo legal.
+
+Las mercancías a que se refiere el inciso anterior podrán permanecer almacenadas en recintos especialmente habilitados para efectuar operaciones de ingreso y salida de este tipo de envíos, por los plazos que determine el Director Nacional de Aduanas, siéndoles aplicable lo dispuesto en el inciso cuarto del artículo 56 y en los artículos 58 a 62 de esta Ordenanza. Las condiciones y requisitos para la habilitación y funcionamiento de estos recintos de depósito aduanero serán aprobadas por decreto supremo del Ministerio de Hacienda, dictado y suscrito por el Ministro respectivo, por orden del Presidente de la República.
+
+Las empresas que presten servicios de conformidad con este artículo serán responsables del pago de los derechos, impuestos, tasas y demás gravámenes que ocasione la operación respectiva y de las multas que se les apliquen. En todo caso, dichas empresas, sus socios, representantes y empleados, estarán sujetos a la potestad disciplinaria del Director Nacional de Aduanas, en los términos previstos en el artículo 202 de la presente Ordenanza, debiendo rendirse caución de conformidad con el artículo 4, N° 17, de la ley orgánica del Servicio Nacional de Aduanas.
+
+Asimismo, las referidas empresas representarán al comitente extranjero en los términos y condiciones del contrato de servicio de entrega rápida internacional, para efectuar todos los trámites necesarios para el cumplimiento del contrato, incluyendo la devolución de la mercancía al extranjero en caso de rechazo de la misma por el destinatario. Del mismo modo, estas empresas tendrán derecho a solicitar la devolución de los derechos e impuestos de importación pagados por encargo o a nombre de otros, tanto ante el Servicio Nacional de Aduanas como ante la Tesorería General de la República, cuando se haya procedido a la anulación de la respectiva declaración de importación a efectos de reexportar o entregar las mercancías al Servicio de Aduanas.
+
 #### Artículo 92
 
 La legalización es el acto por el cual el Administrador o los funcionarios en quienes éste delegue esta facultad, constatan que el respectivo documento ha cumplido todos los trámites legales y reglamentarios otorgándole su aprobación y verificando, además, la conformidad de la garantía rendida en aquellas declaraciones en que sea exigible.
 
-Una vez legalizadas las declaraciones sólo podrán ser modificadas o dejadas sin efecto por el Director Nacional de Aduanas cuando contravengan las leyes o reglamentos que regulan el comercio de importación o exportación; cuando ellas no correspondan a la naturaleza de la operación a que se refieren; cuando se hayan aplicado erróneamente los derechos, impuestos, tasas o demás gravámenes o cuando el fallo de la reclamación interpuesta así lo disponga.
+Una vez legalizadas las declaraciones sólo podrán ser modificadas o dejadas sin efecto, de oficio o a petición de parte, por el Director Nacional de Aduanas cuando contravengan las leyes o reglamentos que regulan el comercio de importación o exportación; cuando ellas no correspondan a la naturaleza de la operación a que se refieren; cuando se hayan aplicado erróneamente los derechos, impuestos, tasas o demás gravámenes o cuando el fallo de la reclamación interpuesta así lo disponga.
 
-Si como consecuencia de las resoluciones que se expidan en conformidad al inciso anterior resultaren mayores derechos, impuestos, tasas o gravámenes que los cobrados, se formulará un cargo por la diferencia, el cual tendrá mérito ejecutivo y su cobro se sujetará a las normas procesales establecidas por el Código Tributario, aprobado por el decreto ley N°830, de 1974, y sus modificaciones. El Servicio podrá formular estos cargos dentro del plazo de un año contado desde la fecha de la legalización. Igual plazo tendrá el interesado para solicitar la devolución del exceso de derechos de aduana, si los pagados resultan ser mayores que los que corresponden.
+Incisos Eliminados.
 
-No obstante lo señalado, en el caso que se constatare la existencia de dolo o uso de documentación maliciosamente falsa en las declaraciones presentadas al Servicio, el plazo de un año se ampliará a tres.
+#### Artículo 92 bis
 
-Las resoluciones que se dicten y los cargos que se formulen en conformidad a este artículo serán reclamables según lo dispuesto en el artículo 117. Tratándose de cargos, no será preciso para interponer la reclamación el pago previo de los derechos, impuestos, tasas o gravámenes.
+Si en las destinaciones aduaneras resultaren mayores derechos, impuestos, tasas o gravámenes que los cobrados, el Servicio podrá formular cargos dentro del plazo de dos años, contado desde la fecha de la legalización de la declaración, salvo tratándose de cargos que resulten de la verificación de origen para la aplicación de regímenes arancelarios preferenciales contemplados en convenios o tratados internacionales, en cuyo caso los cargos podrán formularse hasta por el plazo que los distintos acuerdos o convenios consideren para la conservación de los documentos que sirven de base al origen preferencial de las mercancías. Asimismo, en el caso de importación de mercancías que tengan la condición de bienes de capital conforme a lo dispuesto en la ley Nº 18.634, y en todos aquellos casos en que una ley especial establezca requisitos cuyo incumplimiento implique la formulación de cargos, ésta podrá ser efectuada en el plazo que dichas leyes especiales contemplen. En caso de declaraciones que amparen regímenes suspensivos de derechos, el plazo se contará desde la fecha de la legalización de la declaración definitiva que cancela la declaración suspensiva. Dichos cargos tendrán mérito ejecutivo y su cobro se sujetará a las normas procesales establecidas en el Código Tributario.
+
+En el caso que se constatare la existencia de dolo o uso de documentación maliciosamente falsa en las declaraciones presentadas al Servicio, el plazo de dos años se ampliará a cinco.
+
+Los cargos que se formulen en conformidad a este artículo se notificarán mediante el envío de un ejemplar del documento al consignatario o importador por carta certificada dirigida al domicilio señalado en el documento de destinación aduanera, debiendo remitirse además una copia del cargo referido al despachador. Se entenderá practicada la notificación al tercer día de expedida dicha carta. Asimismo, podrán ser reclamados según lo dispuesto en el artículo 117 y no será preciso para interponer la reclamación el pago previo de los derechos, impuestos, tasas o gravámenes.
+
+El interesado tendrá el plazo de dos años para solicitar la devolución del exceso de los derechos de aduana, si los pagados resultaren ser mayores a los que correspondan.
 
 #### Artículo 93
 
@@ -732,7 +796,7 @@ Las mercancías podrán ser retiradas de los recintos de depósito aduanero prev
 
 Por medio de un documento denominado "cargo" se formulará el cobro que dispone el inciso anterior cuya liquidación y pago no se haya efectuado o no haya de efectuarse mediante documentos de destinación u otros.
 
-La formulación de estos cargos y de aquellos a que se refieren los artículos 92 y 97 se notificarán mediante el envío de un ejemplar del documento al afectado por carta certificada, debiendo entenderse practicada la notificación al tercer día de expedida dicha carta.
+La formulación de estos cargos y de aquellos a que se refiere el artículo 97 se notificarán mediante el envío de un ejemplar del documento al afectado por carta certificada, debiendo entenderse practicada la notificación al tercer día de expedida dicha carta.
 
 Esta facultad prescribirá en el plazo de tres años contado desde la fecha en que dicho cobro se hizo exigible, de conformidad a lo establecido en el artículo 2.521 del Código Civil.
 
@@ -810,6 +874,12 @@ Las mercancías que se importan al país deberán pagar los derechos de importac
 
 El pago de los derechos aduaneros, impuestos, tasas y demás gravámenes causados por una importación será previo al retiro de las mercancías, salvo que éstas se encuentren sometidas a una modalidad de pago diversa.
 
+No obstante lo dispuesto en el inciso anterior, y sin perjuicio de lo establecido en el artículo 25, las personas acogidas al beneficio establecido en el inciso tercero del artículo 64 del decreto ley N° 825, de 1974, y los importadores que obtengan la certificación establecida en el artículo 23 bis de esta Ordenanza, que importen mercancías que no se hayan acogido previamente a los regímenes suspensivos previstos en los artículos 107 al 109, y 111 bis y que cumplan con los requisitos que se establezcan mediante decreto supremo del Ministerio de Hacienda, expedido bajo la fórmula "Por orden del Presidente de la República", podrán retirar las mercancías extranjeras que se encuentren en los recintos de depósito aduanero para su importación, sin previo pago de los derechos, impuestos, tasas y demás gravámenes que causen, salvo el pago de los servicios de almacenamiento y movilización.
+
+Las personas que soliciten acogerse a lo dispuesto en el inciso precedente deberán constituir previo al retiro de las mercancías una garantía consistente en una boleta bancaria o póliza de seguros, de ejecución inmediata, o caución equivalente, que asegure el pago de los derechos, impuestos y demás gravámenes y los eventuales reajustes e intereses que pudieran causarse. Mediante el decreto a que se refiere el inciso anterior se reglamentará el tipo de garantías que se hará exigible, su ámbito de aplicación, el periodo de su vigencia y los requisitos, condiciones y plazos para hacerla efectiva, así como lo relacionado con su administración. Los derechos, impuestos y demás gravámenes deberán ser pagados dentro del plazo de sesenta días corridos, contado desde la legalización de la declaración de importación, comprendiéndose dentro de dicho término el plazo de quince días a que se refiere el artículo 89 de esta Ordenanza.
+
+En caso que el pago no se realice dentro del plazo indicado en el inciso anterior, se hará efectiva la garantía hasta hacerse entero pago de los derechos, impuestos y demás gravámenes adeudados, incluidos los reajustes e intereses correspondientes, sin perjuicio de que, además, el importador no podrá seguir impetrando el beneficio a que se refieren los anteriores incisos, por el término de un año contado desde el incumplimiento.
+
 #### Artículo 105
 
 La declaración debidamente tramitada y el comprobante de pago cancelado, en los casos que proceda, habilitará al interesado para retirar las mercancías desde los recintos de depósito.
@@ -884,13 +954,15 @@ Los bienes de capital que ingresen al país bajo el régimen de admisión tempor
 
 #### Artículo 108
 
-El Director Nacional de Aduanas, con la aprobación del Ministerio de Hacienda y sólo para actividades de exportación, podrá acordar modalidades especiales para la admisión temporal, en recintos habilitados en las fábricas o industrias, de aquellas materias primas, partes, piezas o elementos que vayan a ser transformados, armados, integrados, elaborados o sometidos a otros procesos de terminación en dichos recintos. Podrá autorizar asimismo que algunos de los procesos industriales enumerados anteriormente, puedan ser ejecutados en recintos distintos al habilitado para estos efectos.
+El Director Nacional de Aduanas podrá, previa solicitud fundada, autorizar para su posterior reexportación, la admisión temporal para perfeccionamiento activo de mercancías extranjeras hasta por el plazo de dos años, prorrogable hasta por el plazo de un año, en recintos habilitados autorizados por el Servicio de Aduanas.
 
-El régimen especial de admisión temporal a que se refiere este artículo sólo podrá autorizarse por actividades fabriles o industriales y no individualmente para determinadas fábricas o industrias.
+Las mercancías extranjeras podrán consistir en bienes terminados, a media elaboración, o en materias primas, partes, piezas y otros insumos, a objeto que, según su estado o condición, sean sometidos a procesos de fabricación, elaboración, integración, armado, transformación, refinación, reparación, mantención, mejoras u otros procesos similares. En la realización de los procesos autorizados se podrán utilizar también materias primas, partes, piezas y otros insumos nacionales o nacionalizados.
 
-Sin perjuicio de lo señalado en el inciso primero de este artículo, en el caso de que antes del vencimiento del plazo de la admisión temporal o de sus prórrogas, se acreditare la imposibilidad de efectuar la exportación en razón del incumplimiento del contrato por parte del comprador extranjero o de la resciliación del mismo como consecuencia de variaciones de precios en el mercado de destino, el Servicio de Aduanas autorizará la importación de las materias primas, partes, piezas o elementos sometidos a este régimen suspensivo, previo pago de los derechos, impuestos y gravámenes correspondientes, además de una tasa del 1% sobre el valor aduanero de las mercancías, por cada treinta días o fracción superior a quince, contados desde el otorgamiento de la admisión temporal. Esta tasa no será aplicable en casos de desperdicios sin carácter comercial.
+Mediante decreto supremo del Ministerio de Hacienda, dictado bajo la fórmula "Por orden del Presidente de la República", se establecerán los requisitos y condiciones que deberán cumplir las autorizaciones otorgadas. El Director Nacional de Aduanas podrá autorizar que algunos de los procesos enumerados anteriormente puedan ser ejecutados en recintos distintos al habilitado para estos efectos.
 
-Los productos terminados causarán en su importación los derechos, impuestos y demás gravámenes que afecten a las materias primas, partes, piezas o elementos, incorporados en su producción, sin considerar el mayor valor que adquieran por los procesos enumerados anteriormente.
+En el caso de que antes del vencimiento del plazo de la admisión temporal o de su prórroga, se acredite de manera fundada la imposibilidad de efectuar la reexportación, el Servicio de Aduanas podrá autorizar la importación de las mercancías extranjeras, siempre que ésta no se encuentre prohibida y previo pago de los derechos, impuestos y gravámenes correspondientes, sin considerar el mayor valor que los bienes o productos adquieran por los procesos enumerados anteriormente. Además, deberá pagarse una tasa del 1% sobre el valor aduanero de las mercancías extranjeras declarado en la respectiva destinación aduanera, por cada treinta días o fracción superior a quince, contados desde el otorgamiento de la admisión temporal. Esta tasa, cualquiera sea el tiempo trascurrido, no podrá exceder del 10% sobre el valor señalado y no será aplicable en casos de desperdicios sin carácter comercial.
+
+Si una vez concluido el respectivo proceso resultaren materias primas, piezas, partes o insumos extranjeros sobrantes, el Director Nacional de Aduanas podrá autorizar, previa solicitud, su importación hasta por el 10% del valor aduanero declarado en la respectiva destinación aduanera, exentos del pago de la tasa referida en el inciso precedente, o bien, su utilización en procesos amparados en otra destinación a que se refiere el presente artículo.
 
 ### 5. Almacén particular
 
@@ -913,6 +985,20 @@ La vigilancia que el Director Nacional de Aduanas estime necesaria ejercer sobre
 #### Artículo 111
 
 Las personas a quienes se permita depositar sus mercancías en los locales o recintos habilitados, responderán ante la Aduana por los derechos y demás cargos correspondientes a las mercancías perdidas o dañadas, conforme lo dispuesto en el artículo 58 de este Libro.
+
+5 bis.- Depósito
+
+#### Artículo 111 bis
+
+Las mercancías extranjeras podrán ser objeto de la destinación aduanera de depósito, hasta por el plazo de un año, sin previo pago de los derechos, impuestos y demás gravámenes que cause en su importación, debiendo ser objeto de procesos menores, que favorezcan su conservación, presentación, calidad comercial o preparación para su distribución o su comercialización, tales como ensamblado, acondicionamiento, embalaje, terminación, planchado, ensacado, envasado o etiquetado, siempre que estas operaciones no transformen o modifiquen la naturaleza de las mismas, no alteren los atributos que determinan su carácter esencial y no impliquen un cambio en su clasificación arancelaria.
+
+Los procesos menores citados se deberán realizar en los almacenes a que se refieren los artículos 55 y siguientes, debiendo los almacenistas diferenciar y delimitar de manera separada las áreas destinadas al solo almacenamiento de mercancías de aquellas otras en las cuales se lleven a cabo las operaciones menores propias de la destinación aduanera de depósito y sujetándose a las demás normas e instrucciones que imparta el Director Nacional de Aduanas. La realización de procesos menores en los almacenes referidos estará también afecta a la limitación prevista en el inciso cuarto del artículo 56.
+
+Las partes, piezas o insumos incorporados en los procesos menores señalados deberán ser mercancías nacionales o nacionalizadas. El Presidente de la República, mediante decreto supremo expedido a través del Ministerio de Hacienda, establecerá los requisitos, exigencias y garantías que los interesados deberán cumplir a objeto de autorizar la destinación a que se refiere la presente disposición.
+
+La destinación establecida en este artículo sólo podrá ser cancelada mediante una destinación aduanera de importación, debiendo pagarse los derechos, impuestos, tasas y demás gravámenes respectivos, con exclusión de los correspondientes a las partes, piezas e insumos nacionales o nacionalizados incorporados en el proceso respectivo.
+
+El régimen que se establece en el presente artículo no será aplicable en la región en que se sitúe una zona franca establecida de conformidad a lo dispuesto en la letra a) del artículo 2 del decreto con fuerza de ley N° 2, de 2001, del Ministerio de Hacienda, sobre Zonas Francas.
 
 ### 6. Exportación
 
@@ -976,75 +1062,283 @@ Asimismo, establécese un impuesto cuya tasa determinará el reglamento sobre el
 
 ## Título VI
 
-De las reclamaciones
+De las materias de competencia de los Tribunales Tributarios y Aduaneros, de la Reposición Administrativa, del Procedimiento de Reclamación y del Procedimiento Especial de Reclamo por Vulneración de Derechos
+
+1. DE LAS MATERIAS DE COMPETENCIA DE LOS TRIBUNALES TRIBUTARIOS Y ADUANEROS
 
 #### Artículo 117
 
-Toda liquidación practicada por el Servicio de Aduanas y las actuaciones de éste que hayan servido de base para la fijación del monto de los derechos, impuestos, tasas o gravámenes, dará derecho a reclamar al interesado.
+Serán de competencia de los Tribunales Tributarios y Aduaneros las reclamaciones en contra de las siguientes actuaciones del Servicio Nacional de Aduanas:
 
-Asimismo, el interesado podrá reclamar de la clasificación arancelaria y/o valoración aduanera de las declaraciones de exportación.
+a) Liquidaciones, cargos y actuaciones que sirvan de base para la fijación del monto o determinación de diferencias de derechos, impuestos, tasas o gravámenes.
 
-La reclamación deberá deducirse dentro del plazo de sesenta días hábiles, contado desde la notificación de la declaración, liquidación o actuación de la Aduana, según corresponda.
+b) Clasificación y/o valoración aduanera de las declaraciones de exportación, practicada por el Servicio de Aduanas.
+
+c) Actos o resoluciones que denieguen total o parcialmente las solicitudes efectuadas en conformidad al Título VII del Libro II.
+
+d) Las demás que establezca la ley.
+
+Será competente para conocer de las reclamaciones señaladas en el inciso anterior, el Tribunal en cuyo territorio jurisdiccional se encuentre la autoridad aduanera que hubiere practicado la actuación que se reclama.
 
 #### Artículo 118
 
-Las reclamaciones sobre aplicación de impuestos y tasas cuya fiscalización no corresponda al Servicio de Aduanas, se regirán por las normas inherentes a la naturaleza del tributo o tasa cuya aplicación se pretenda reclamar.
+Las Cortes de Apelaciones conocerán en segunda instancia de los recursos de apelación que se deduzcan contra las resoluciones del Tribunal Tributario y Aduanero, en los casos que sean procedentes de conformidad a la ley.
+
+Conocerá de estos recursos la Corte de Apelaciones en cuyo territorio jurisdiccional tenga asiento el tribunal que dictó la resolución apelada.
 
 #### Artículo 119
 
-Las reclamaciones deberán interponerse ante el Director Regional o el Administrador de Aduana respectivo y deberán cumplir los siguientes requisitos:
-
-1. Precisar los fundamentos de la reclamación;
-
-2. Presentarse acompañada de los documentos en que se funde, y
-
-3. Enunciar en forma precisa y clara, las peticiones que se someten a la consideración de la Aduana.
+La Corte Suprema conocerá de los recursos de casación en la forma y en el fondo que se deduzcan contra las sentencias de segunda instancia dictadas por las Cortes de Apelaciones, en los casos en que ellos sean procedentes de conformidad al Código de Procedimiento Civil y a esta Ordenanza.
 
 #### Artículo 120
 
-El Director Regional o Administrador de Aduana declarará inadmisible la reclamación cuando se presente fuera de plazo; no se hayan pagado los derechos, impuestos, tasas y demás gravámenes que afecten a la respectiva declaración o, la persona que la deduzca carezca de facultad para interponerla.
+En todas aquellas materias no sujetas a disposiciones especiales del presente Título, se aplicarán, en cuanto fueren compatibles con la naturaleza de las reclamaciones, las normas establecidas en el Libro Primero del Código de Procedimiento Civil.
+
+### 2. DE LA REPOSICIÓN ADMINISTRATIVA
 
 #### Artículo 121
 
-La tramitación de la reclamación deducida se llevará en la forma establecida en los artículos 29 y 34 del Código de Procedimiento Civil. El interesado podrá imponerse de la reclamación en cualquier estado de su tramitación.
+Respecto de las actuaciones a que se refiere el artículo 117, será procedente el recurso de reposición administrativa, en conformidad a las normas del Capítulo IV de la ley Nº 19.880, con las siguientes modificaciones:
+
+a) El plazo para presentar la reposición será de quince días.
+
+b) La reposición se entenderá rechazada en caso de no encontrarse notificada la resolución que se pronuncia sobre ella dentro del plazo de cincuenta días contado desde su presentación.
+
+c) La presentación de la reposición no interrumpirá el plazo para la interposición de la reclamación judicial contemplada en el Párrafo siguiente.
+
+No serán procedentes en contra de las actuaciones a que se refiere el inciso primero los recursos jerárquico y extraordinario de revisión.
+
+Los plazos a que se refiere este artículo se regularán por lo señalado en la ley Nº 19.880.
+
+### 3. DEL PROCEDIMIENTO DE RECLAMACIÓN
 
 #### Artículo 122
 
-Presentada la reclamación se dará traslado al funcionario que realizó el aforo, la liquidación de derechos o ejecutó la actuación que se reclama o al funcionario que para estos efectos se designe, a fin de que emita su informe en un plazo que no podrá exceder de quince días.
+Toda persona podrá reclamar de las actuaciones a que se refiere el artículo 117, siempre que invoque un interés actual comprometido.
+
+La reclamación deberá deducirse dentro del plazo de noventa días contado desde la notificación del acto que se reclama.
+
+En las reclamaciones a que se refiere el presente Título, sólo podrán actuar las partes por sí o por medio de sus representantes legales o mandatarios.
+
+Las partes deberán comparecer en conformidad a las normas establecidas en la ley Nº 18.120, salvo que se trate de causas de cuantía inferior a treinta y dos unidades tributarias mensuales, en cuyo caso podrán comparecer sin patrocinio de abogado.
 
 #### Artículo 123
 
-Evacuado el informe a que se refiere el artículo anterior o vencido el plazo para hacerlo, el Director Regional o el Administrador de Aduana, de oficio o a petición de parte, recibirá la causa a prueba por un plazo de cinco días hábiles, señalando los puntos sobre los cuales deba recaer. En todo caso, sólo será admisible la prueba documental y pericial.
+La reclamación deberá cumplir con los siguientes requisitos:
+
+1º. Consignar el nombre o razón social, número de Rol Único Tributario, domicilio, profesión u oficio del reclamante, y, en su caso, de la o las personas que lo representan y la naturaleza de la representación.
+
+2º. Precisar sus fundamentos.
+
+3º. Presentarse acompañada de los documentos en que se funde, excepto aquellos que por su volumen, naturaleza, ubicación u otras circunstancias, no puedan agregarse a la solicitud.
+
+4º. Contener, en forma precisa y clara, las peticiones que se someten a la consideración del Tribunal.
+
+Si no se cumpliere con los requisitos antes enumerados, el Juez Tributario y Aduanero dictará una resolución, ordenando que se subsanen las omisiones en que se hubiere incurrido, dentro del plazo que señale el tribunal, el cual no podrá ser inferior a tres días, bajo apercibimiento de tener por no presentada la reclamación. Respecto de aquellas causas en que se permita la litigación sin patrocinio de abogado, dicho plazo no podrá ser inferior a quince días.
 
 #### Artículo 124
 
-Vencido el plazo fijado para rendir la prueba, no se admitirán nuevas diligencias y deberá fallarse la reclamación en el plazo máximo de quince días.
+La representación del Fisco en los procesos jurisdiccionales seguidos en conformidad a este Título corresponderá exclusivamente al Servicio que para todos los efectos legales tendrá la calidad de parte. Si éste lo considera necesario podrá requerir la intervención del Consejo de Defensa del Estado ante los tribunales superiores de justicia.
+
+Sin perjuicio de las facultades del Director Nacional, corresponderá a los Directores Regionales y a los Administradores de Aduana, dentro de los límites de sus respectivas jurisdicciones territoriales, la representación del Servicio para los fines señalados en el inciso anterior. Con todo, el Director Nacional podrá, en cualquier momento, asumir dicha representación.
 
 #### Artículo 125
 
-La resolución que falle la reclamación será apelable para ante el Director Nacional de Aduanas, dentro del plazo de cinco días hábiles contados desde su notificación. Si no se apelare, en todo caso procederá el trámite de consulta ante esta misma autoridad.
+El Tribunal llevará los autos en la forma ordenada en los artículos 29 y 34 del Código de Procedimiento Civil.
+
+Sólo las partes podrán imponerse de ellos, en cualquier estado de la tramitación.
 
 #### Artículo 126
 
-El fallo que expida el Director Nacional de Aduanas no podrá ser desconocido ni invalidado por autoridad alguna, se aplicará sin ulterior recurso y regirá en todas las Aduanas.
+Los plazos de días que se establecen en este Título comprenderán sólo días hábiles. No se considerarán inhábiles para tales efectos ni para practicar las actuaciones y notificaciones que procedan, ni para emitir pronunciamientos, los días del feriado judicial a que se refiere el artículo 313 del Código Orgánico de Tribunales, en cuanto todos ellos deban cumplirse por o ante el Tribunal Tributario y Aduanero.
+
+> **Nota.** La Ley 20774, publicada el 04.09.2014, modificó diversas disposiciones legales con el fin de suprimir el feriado judicial y, en particular, el Nº 3 de su Art. 1º lo eliminó del Art. 313 del Código Orgánico de Tribunales, a que se refiere el presente artículo. Conforme a su Art. 7 las referencias al feriado judicial de febrero consignadas en cualquier cuerpo legal que no se encuentren previstas expresamente en ella, se entenderán derogadas para todos los efectos legales.
 
 #### Artículo 127
 
-Cuando la reclamación verse sobre materias respecto de las cuales el Director ya hubiere sentado jurisprudencia, el Director Regional o Administrador de Aduana estampará en el escrito de formalización el fallo emitido a este respecto por el Director Nacional. En este último caso, el afectado tendrá derecho a renovar su reclamación dentro del plazo de tres días hábiles, contados desde la notificación respectiva, acompañando nuevos antecedentes y certificado de haber ingresado al Servicio de Tesorerías el total de los derechos objeto de la controversia, más un 10% del exceso sobre los mismos.
+Las resoluciones que dicte el Tribunal Tributario y Aduanero se notificarán a las partes mediante la publicación de su texto íntegro en el sitio en Internet del Tribunal.
 
-Lo dispuesto en el inciso anterior será también aplicable en el caso de las reclamaciones a que se refiere el inciso segundo del artículo 117, debiendo el afectado acompañar certificado de haber ingresado al Servicio de Tesorerías una suma equivalente a 3 Unidades Tributarias Mensuales, vigente al mes de la renovación de la reclamación.
+Se dejará testimonio en el expediente y en el sitio en Internet de haberse efectuado la publicación y de su fecha. Los errores u omisiones en dichos testimonios no invalidarán la notificación.
 
-Aceptado el nuevo recurso, el Director Regional o Administrador de Aduana fallará en el plazo de quince días hábiles siguientes a su interposición. Si el Director Nacional confirmare la jurisprudencia contra la cual se alzó el reclamante, el porcentaje del 10% o la suma equivalente a 3 Unidades Tributarias Mensuales, según corresponda, quedará a beneficio fiscal.
+Las notificaciones al reclamante de las sentencias definitivas, de las resoluciones que reciben la causa a prueba y de aquellas que declaren inadmisible un reclamo, pongan término al juicio o hagan imposible su continuación, serán efectuadas por carta certificada. Del mismo modo, lo serán aquellas que se dirijan a terceros ajenos al juicio. En estos casos, la notificación se entenderá practicada al tercer día contado desde aquél en que la carta fue expedida por el tribunal. Sin perjuicio de lo anterior, dichas resoluciones serán igualmente publicadas del modo que se establece en el inciso primero. En todo caso, la falta de esta publicación no anulará la notificación.
 
-En todo caso, si se plantea alguna controversia entre el Contralor General de la República y el Director Nacional de Aduanas, acerca de un fallo emitido de acuerdo con lo dispuesto en el artículo anterior, se elevarán los antecedentes respectivos a la Corte Suprema, la que resolverá en definitiva.
+Para efectos de las notificaciones a que se refiere el inciso anterior, el reclamante deberá designar, en la primera gestión que realice ante el Tribunal, un domicilio dentro del radio urbano de una localidad ubicada en alguna de las comunas de la Región sobre cuyo territorio aquél ejerce competencia, y esta designación se considerará subsistente mientras no haga otra, aun cuando de hecho cambie su morada. Si se omite efectuar esta designación, el Tribunal dispondrá que ella se realice en un plazo de cinco días, bajo apercibimiento de que estas notificaciones se efectúen de conformidad con lo dispuesto en el inciso primero.
+
+Cualquiera de las partes podrá solicitar para sí el aviso, mediante correo electrónico, del hecho de haber sido notificada de una o más resoluciones. En todo caso, la falta de este aviso no anulará la notificación.
+
+La notificación al Servicio de la resolución que le confiere traslado del reclamo se efectuará por correo electrónico, a la dirección que el Director Nacional, los Directores Regionales y los Administradores de Aduanas deberán registrar ante el Tribunal Tributario y Aduanero de su jurisdicción. La designación de la dirección de correo electrónico se entenderá vigente mientras no se informe al tribunal de su modificación.
+
+#### Artículo 128
+
+Del reclamo se conferirá traslado al Servicio por el término de veinte días. La contestación del Servicio deberá contener una exposición clara de los hechos y fundamentos de derecho en que se apoya, y las peticiones concretas que se someten a la decisión del Tribunal Tributario y Aduanero.
+
+Vencido el plazo a que se refiere el inciso anterior, haya o no contestado el Servicio, el Tribunal Tributario y Aduanero, de oficio o a petición de parte, deberá recibir la causa a prueba si hubiere controversia sobre algún hecho substancial y pertinente. La resolución que se dicte al efecto señalará los puntos sobre los cuales deberá recaer la prueba. En su contra sólo procederán los recursos de reposición y de apelación, dentro del plazo de cinco días, contado desde la notificación. De interponerse apelación, deberá hacerse siempre en subsidio de la reposición y procederá en el solo efecto devolutivo. El recurso de apelación se tramitará en cuenta y en forma preferente.
+
+El término probatorio será de veinte días y dentro de él se deberá rendir toda la prueba.
+
+En los primeros dos días del probatorio cada parte deberá acompañar una nómina de los testigos de que piensa valerse, con expresión de su nombre y apellido, domicilio y profesión u oficio. Sólo se examinarán testigos que figuren en dicha nómina. En el procedimiento no existirán testigos inhábiles, sin perjuicio de lo cual el tribunal podrá desechar de oficio a los que notoriamente aparezcan comprendidos en alguna de las situaciones del artículo 357 del Código de Procedimiento Civil. Se podrán dirigir a cualquier testigo preguntas tendientes a demostrar su credibilidad o falta de ella.
+
+Se admitirá a declarar hasta un máximo de cuatro testigos por punto de prueba.
+
+En todo caso, no podrán probarse por testigos los elementos que sirven de base para la determinación de la obligación tributaria aduanera.
+
+El Tribunal Tributario y Aduanero dará lugar a la petición de oficios cuando se trate de requerir información pertinente sobre los hechos materia del juicio, debiendo señalarse específicamente el o los hechos sobre los cuales se pide el informe.
+
+Tratándose de solicitudes de oficios a las que acceda el Tribunal Tributario y Aduanero, éste deberá disponer su despacho inmediato a las personas o entidades requeridas, quienes estarán obligadas a evacuar la respuesta dentro del plazo que al efecto fije el tribunal, el que en todo caso no podrá exceder de quince días. A petición de la parte que lo solicita o de la persona o entidad requerida, el plazo para evacuar el oficio podrá ser ampliado por el tribunal, por una sola vez y hasta por quince días más, cuando existan antecedentes fundados que lo aconsejen.
+
+Los mismos plazos indicados en el inciso precedente regirán para los peritos, en relación a sus informes, desde la aceptación de su cometido.
+
+El Director Nacional, los Subdirectores, los Directores Regionales y los Administradores de Aduanas no tendrán la facultad de absolver posiciones en representación del Servicio.
+
+Se admitirá, además, cualquier otro medio probatorio apto para producir fe.
+
+No serán admisibles aquellos antecedentes que, teniendo relación directa con operaciones fiscalizadas, hayan sido solicitados determinada y específicamente por el Servicio al reclamante, en ejercicio de sus facultades fiscalizadoras, y que este último, no obstante disponer de ellos, no acompañe en forma íntegra, dentro del plazo de un mes, contado desde la notificación del requerimiento. El reclamante siempre podrá probar que no acompañó la documentación en el plazo señalado por causas que no le hayan sido imputables.
+
+El Juez Tributario y Aduanero se pronunciará en la sentencia sobre esta inadmisibilidad.
+
+Cuando hayan de practicarse diligencias probatorias fuera del lugar en que se sigue el juicio, o si durante el término de prueba ocurren entorpecimientos que imposibiliten la recepción de ésta, el Tribunal Tributario y Aduanero podrá ampliar, por una sola vez, el término probatorio por el número de días que estime necesarios, no excediendo en ningún caso de diez días, contados desde la fecha de notificación de la resolución que ordena la ampliación.
+
+La prueba será apreciada por el Juez Tributario y Aduanero de conformidad con las reglas de la sana crítica. Al apreciar las pruebas de esta manera, el tribunal deberá expresar en la sentencia las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia en virtud de las cuales les asigna valor o las desestima. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.
+
+No obstante lo anterior, los actos o contratos solemnes sólo podrán ser acreditados por medio de la solemnidad prevista por la ley. En aquellos casos en que la ley requiera probar mediante contabilidad fidedigna, el juez deberá ponderar preferentemente dicha contabilidad.
+
+El Tribunal Tributario y Aduanero tendrá el plazo de sesenta días para dictar sentencia, contado desde el vencimiento del término probatorio.
+
+#### Artículo 129
+
+Las resoluciones que se dicten durante la tramitación del reclamo sólo serán susceptibles del recurso de reposición, el cual deberá interponerse dentro del término de cinco días contado desde la notificación correspondiente, sin perjuicio de señalado en los artículos 128, 129 B y 129 D.
+
+#### Artículo 129
+
+A.- El Juez Tributario y Aduanero declarará de oficio la nulidad de las actuaciones reclamadas que hubieren sido formuladas fuera de los plazos de prescripción establecidos en la ley.
+
+#### Artículo 129
+
+B.- Cuando las facultades del reclamante no ofrezcan suficiente garantía o haya motivo racional para creer que procederá a ocultar sus bienes, el Servicio podrá impetrar en los procesos de reclamación a que se refiere este Título, la medida cautelar de prohibición de celebrar actos o contratos sobre bienes o derechos específicos de aquél. La solicitud de medida cautelar deberá ser fundada.
+
+Esta medida cautelar se limitará a los bienes y derechos suficientes para responder de los resultados del proceso y se decretará, preferentemente, sobre bienes y derechos cuyo gravamen no afecte el normal desenvolvimiento del giro del reclamante. Ella será esencialmente provisional y deberá hacerse cesar siempre que desaparezca el peligro que se ha procurado evitar o se otorgue caución suficiente.
+
+La solicitud de medida cautelar se tramitará incidentalmente por el Tribunal, en cuaderno separado. En contra de la resolución que se pronuncie sobre la medida sólo procederán los recursos de reposición y de apelación, dentro del plazo de cinco días, contado desde la notificación. Si se interpusieran ambos, deberán serlo conjuntamente, entendiéndose la apelación en subsidio de la reposición. El recurso de apelación se concederá en el solo efecto devolutivo y será tramitado por la Corte de Apelaciones respectiva en cuenta y en forma preferente.
+
+#### Artículo 129
+
+C.- Notificada que sea la sentencia que falle el reclamo no podrá modificarse o alterarse, salvo en cuanto se deba, de oficio o a petición de parte, aclarar los puntos oscuros o dudosos, salvar las omisiones o rectificar los errores de copia, de referencias o de cálculos numéricos que aparezcan en ella.
+
+#### Artículo 129
+
+D.- Contra la sentencia que falle un reclamo sólo podrá interponerse el recurso de apelación, dentro del plazo de quince días contados desde la fecha de su notificación.
+
+Respecto de la resolución que declare inadmisible un reclamo o haga imposible su continuación, podrán interponerse los recursos de reposición y de apelación, en el plazo de quince días contado desde la respectiva notificación. De interponerse apelación, deberá hacerse siempre en subsidio de la reposición y procederá en el sólo efecto devolutivo. El recurso de apelación se tramitará en cuenta y en forma preferente.
+
+El término para apelar no se suspende por la solicitud de aclaración, agregación o rectificación que se deduzca de acuerdo con el artículo anterior.
+
+#### Artículo 129
+
+E.- En contra de la sentencia de primera instancia no procederá el recurso de casación en la forma ni su anulación de oficio. Los vicios en que se hubiere incurrido deberán ser corregidos por la Corte de Apelaciones que corresponda.
+
+#### Artículo 129
+
+F.- El Tribunal deberá elevar los autos para el conocimiento de la apelación dentro de los quince días siguientes a aquél en que se notifique la concesión del recurso.
+
+#### Artículo 129
+
+G.- El recurso de apelación contra la sentencia definitiva se tramitará en cuenta, a menos que cualquiera de las partes, dentro del plazo de cinco días contado desde el ingreso de los autos en la secretaría de la Corte de Apelaciones, solicite alegatos.
+
+Vencido ese plazo, el tribunal de alzada ordenará traer los autos en relación, si se hubiere solicitado oportunamente alegatos. De lo contrario, el Presidente de la Corte ordenará dar cuenta.
+
+En las apelaciones a que se refiere esta Ordenanza no será necesaria la comparecencia de las partes en segunda instancia.
+
+#### Artículo 129
+
+H.- Los fallos pronunciados por el Tribunal Tributario y Aduanero deberán ser fundados. La omisión de este requisito, así como de los establecidos en el inciso décimoquinto del artículo 128, será corregida de conformidad con lo dispuesto en el artículo 129 E.
+
+#### Artículo 129
+
+I.- El reclamante o el Servicio podrán interponer los recursos de casación en contra de los fallos de segunda instancia.
+
+Los recursos de casación que se interpongan en contra de las sentencias de segunda instancia, se sujetarán a las reglas contenidas en el Título XIX del Libro Tercero del Código de Procedimiento Civil.
+
+#### Artículo 129
+
+J.- La interposición de la reclamación suspenderá la prescripción del artículo 2521 del Código Civil, hasta que la resolución que le pone término o hace imposible su prosecución quede ejecutoriada.
+
+### 4. DEL PROCEDIMIENTO ESPECIAL DE RECLAMO POR VULNERACIÓN DE DERECHOS
+
+#### Artículo 129
+
+K.- Si producto de un acto u omisión del Servicio, un particular considerare vulnerados sus derechos contemplados en los numerales 21º, 22º y 24º del artículo 19 de la Constitución Política de la República, podrá recurrir ante el Tribunal Tributario y Aduanero en cuya jurisdicción se hubiere producido tal acto u omisión, siempre que no se trate de materias cuyo conocimiento la ley somete a un procedimiento distinto ante estos tribunales.
+
+La acción deberá presentarse por escrito dentro del plazo fatal de quince días hábiles contado desde la ejecución del acto o la ocurrencia de la omisión, o desde que se haya tenido conocimiento cierto de los mismos, lo que se hará constar en autos.
+
+Interpuesta la acción de protección a que se refiere el artículo 20 de la Constitución Política, en los casos en que ella proceda, no se podrá recurrir de conformidad a las normas de este Párrafo, por los mismos hechos.
+
+#### Artículo 129
+
+L.- Presentada la acción el Tribunal examinará si ha sido interpuesta en tiempo y si tiene fundamentos suficientes para acogerla a tramitación. Si su presentación ha sido extemporánea o adolece de manifiesta falta de fundamento, la declarará inadmisible por resolución fundada.
+
+Acogida a tramitación, se dará traslado al Servicio por diez días. Vencido este plazo, haya o no contestado el Servicio, y existiendo hechos sustanciales y pertinentes controvertidos, se abrirá un término probatorio de diez días en el cual las partes deberán rendir todas sus pruebas. El Tribunal apreciará la prueba rendida de acuerdo a las reglas de la sana crítica.
+
+Vencido el término probatorio, el Juez Tributario y Aduanero dictará sentencia en un plazo de diez días. El fallo contendrá todas las providencias que el Tribunal juzgue necesarias para restablecer el imperio del derecho y asegurar la debida protección del solicitante, sin perjuicio de los demás derechos que pueda hacer valer ante la autoridad o los tribunales correspondientes.
+
+Contra la sentencia sólo procederá el recurso de apelación, en el plazo de quince días. El recurso será conocido en cuenta y en forma preferente por la Corte de Apelaciones, a menos que cualquiera de las partes, dentro del plazo de cinco días contado desde el ingreso de los autos en la secretaría de la Corte de Apelaciones, solicite alegatos.
+
+El Tribunal podrá decretar orden de no innovar, en cualquier estado de la tramitación.
+
+#### Artículo 129
+
+M.- En lo no establecido por este Párrafo, y en cuanto la naturaleza de la tramitación lo permita, se aplicarán las demás normas contenidas en el Párrafo 3 de este Título. En todo caso, el solicitante podrá comparecer sin patrocinio de abogado.
+
+#### Artículo 117
+
+Serán de competencia de los Tribunales Tributarios y Aduaneros las reclamaciones en contra de las siguientes actuaciones del Servicio Nacional de Aduanas:
+
+a) Liquidaciones, cargos y actuaciones que sirvan de base para la fijación del monto o determinación de diferencias de derechos, impuestos, tasas o gravámenes.
+
+b) Clasificación y/o valoración aduanera de las declaraciones de exportación, practicada por el Servicio de Aduanas.
+
+c) Actos o resoluciones que denieguen total o parcialmente las solicitudes efectuadas en conformidad al Título VII del Libro II.
+
+d) Las demás que establezca la ley.
+
+Será competente para conocer de las reclamaciones señaladas en el inciso anterior, el Tribunal en cuyo territorio jurisdiccional se encuentre la autoridad aduanera que hubiere practicado la actuación que se reclama.
+
+#### Artículo 121
+
+Respecto de las actuaciones a que se refiere el artículo 117, será procedente el recurso de reposición administrativa, en conformidad a las normas del Capítulo IV de la ley Nº 19.880, con las siguientes modificaciones:
+
+a) El plazo para presentar la reposición será de quince días.
+
+b) La reposición se entenderá rechazada en caso de no encontrarse notificada la resolución que se pronuncia sobre ella dentro del plazo de cincuenta días contado desde su presentación.
+
+c) La presentación de la reposición no interrumpirá el plazo para la interposición de la reclamación judicial contemplada en el Párrafo siguiente.
+
+No serán procedentes en contra de las actuaciones a que se refiere el inciso primero los recursos jerárquico y extraordinario de revisión.
+
+Los plazos a que se refiere este artículo se regularán por lo señalado en la ley Nº 19.880.
+
+#### Artículo 125
+
+El Tribunal llevará los autos en la forma ordenada en los artículos 29 y 34 del Código de Procedimiento Civil.
+
+Sólo las partes podrán imponerse de ellos, en cualquier estado de la tramitación.
+
+#### Artículo 127
+
+Las resoluciones que dicte el Tribunal Tributario y Aduanero se notificarán a las partes mediante la publicación de su texto íntegro en el sitio en Internet del Tribunal.
+
+Se dejará testimonio en el expediente y en el sitio en Internet de haberse efectuado la publicación y de su fecha. Los errores u omisiones en dichos testimonios no invalidarán la notificación.
+
+Las notificaciones al reclamante de las sentencias definitivas, de las resoluciones que reciben la causa a prueba y de aquellas que declaren inadmisible un reclamo, pongan término al juicio o hagan imposible su continuación, serán efectuadas por carta certificada. Del mismo modo, lo serán aquellas que se dirijan a terceros ajenos al juicio. En estos casos, la notificación se entenderá practicada al tercer día contado desde aquél en que la carta fue expedida por el tribunal. Sin perjuicio de lo anterior, dichas resoluciones serán igualmente publicadas del modo que se establece en el inciso primero. En todo caso, la falta de esta publicación no anulará la notificación.
+
+Para efectos de las notificaciones a que se refiere el inciso anterior, el reclamante deberá designar, en la primera gestión que realice ante el Tribunal, un domicilio dentro del radio urbano de una localidad ubicada en alguna de las comunas de la Región sobre cuyo territorio aquél ejerce competencia, y esta designación se considerará subsistente mientras no haga otra, aun cuando de hecho cambie su morada. Si se omite efectuar esta designación, el Tribunal dispondrá que ella se realice en un plazo de cinco días, bajo apercibimiento de que estas notificaciones se efectúen de conformidad con lo dispuesto en el inciso primero.
+
+Cualquiera de las partes podrá solicitar para sí el aviso, mediante correo electrónico, del hecho de haber sido notificada de una o más resoluciones. En todo caso, la falta de este aviso no anulará la notificación.
+
+La notificación al Servicio de la resolución que le confiere traslado del reclamo se efectuará por correo electrónico, a la dirección que el Director Nacional, los Directores Regionales y los Administradores de Aduanas deberán registrar ante el Tribunal Tributario y Aduanero de su jurisdicción. La designación de la dirección de correo electrónico se entenderá vigente mientras no se informe al tribunal de su modificación.
 
 #### Artículo 128
 
 Todas las notificaciones se harán por el estado diario, excepto la de la resolución que reciba la causa a prueba y las de las sentencias definitivas, que se notificarán por carta certificada con copia íntegra de la resolución que se trata de notificar, diligencia que se entenderá practicada al tercer día de expedida la referida carta.
-
-#### Artículo 129
-
-La interposición de una reclamación contra un cargo o documento de pago, que haga sus veces, interrumpirá la prescripción del artículo 2521, del Código Civil, hasta que la resolución quede ejecutoriada.
 
 ## Título VII
 
@@ -1052,7 +1346,7 @@ Devoluciones de gravámenes aduaneros
 
 #### Artículo 130
 
-Sin perjuicio de las devoluciones efectuadas en cumplimiento de fallos de las reclamaciones que se interpongan, el Director Nacional de Aduanas podrá ordenar la devolución administrativa de derechos aduaneros en conformidad a las normas de este
+El Director Nacional de Aduanas podrá ordenar la devolución administrativa de derechos aduaneros en conformidad a las normas de este
 
 Título.
 
@@ -1120,11 +1414,13 @@ Se declara propiedad del Estado, para el solo efecto de su enajenación, toda me
 
 #### Artículo 137
 
-Las mercancías expresa o presuntamente abandonadas, las decomisadas y las incautadas, cuando corresponda, serán enajenadas en remate público, al mejor postor, en la fecha y lugar que fije el Director Nacional de Aduanas.
+Las mercancías expresa o presuntamente abandonadas, las decomisadas y las incautadas, cuando corresponda, serán enajenadas en remate público, al mejor postor, en la forma y condiciones que fije el Director Nacional de Aduanas.
 
 Para la inclusión en subasta de estas mercancías no será necesario practicar notificación o aviso de ninguna clase.
 
 El Presidente de la República podrá eximir del remate a las armas o pertrechos de guerra. En este caso la mercancía pasará a ser de propiedad fiscal.
+
+La subasta podrá realizarse mediante un sistema de remate público por medios electrónicos. El Director Nacional de Aduanas dictará una resolución que regulará la forma, condiciones, normas técnicas y demás procedimientos necesarios para la implementación de esta forma de subasta.
 
 #### Artículo 138
 
@@ -1152,9 +1448,11 @@ d) Las mercancías cuyos consignatarios se ignoren.
 
 3) Las mercancías que hubieren ingresado bajo régimen de admisión temporal desde el extranjero o desde un territorio de régimen aduanero especial al resto del país cuando, al término del plazo de la admisión respectiva, no hubiesen sido devueltas al exterior o al territorio especial que corresponda.
 
+4) Las mercancías que ingresen al país al amparo de la destinación aduanera de depósito, sin que al término del plazo autorizado se haya cursado una destinación aduanera de importación.
+
 #### Artículo 141
 
-La subasta de las mercancías a que se refiere el artículo 139, se realizará por la Aduana bajo cuya jurisdicción se encuentre el respectivo recinto de depósito.
+La subasta de las mercancías a que se refiere el artículo 139, se realizará por la Aduana bajo cuya jurisdicción se encuentre el respectivo recinto de depósito. No obstante, el Director Nacional de Aduanas, mediante resolución, podrá agrupar en una Aduana las subastas de mercancías que se encuentren bajo jurisdicción de distintas Aduanas.
 
 #### Artículo 142
 
@@ -1236,7 +1534,7 @@ d) Mercancías que tengan nombres, signos o condiciones que les hayan dado cará
 
 Los Directores Regionales o Administradores de Aduana, tratándose de combustibles o productos alimenticios perecibles que pudieren ser destruidos de acuerdo a la letra a) de este artículo, podrán entregar los a los Intendentes o Gobernadores para que éstos, con los resguardos sanitarios o de seguridad del caso, procedan a donarlos a un establecimiento público.
 
-Asimismo, el Director Nacional de Aduanas, previo informe favorable del Director Regional de Aduanas respectivo, podrá donar a algún establecimiento educacional del Estado o reconocido por éste, otras mercancías susceptibles de ser destruidas, que puedan servir en sus labores propias de investigación o docencia. Esta donación estará exenta del trámite de insinuación y de toda clase de impuestos y tendrá el carácter de pública.
+Asimismo, el Director Nacional de Aduanas, previo informe favorable del Director Regional o Administrador de Aduanas respectivo, podrá donar a alguna institución de beneficencia o asistencia social, o a algún establecimiento educacional sin fines de lucro, las mercancías susceptibles de ser destruidas, no indicadas en el inciso anterior, y que sirvan para el cumplimiento de sus objetivos sociales, de conformidad con el procedimiento que determine. Se consideran también dentro de esta categoría aquellas mercancías que, habiéndose incluido en más de tres subastas consecutivas, no fueron rematadas por falta de postores. Esta donación estará exenta del trámite de insinuación y de toda clase de impuestos y tendrá el carácter de pública.
 
 #### Artículo 153
 
@@ -1254,7 +1552,7 @@ El Director Nacional de Aduanas, mediante resolución fundada, podrá rebajar o 
 
 #### Artículo 155
 
-Los mínimos de la subasta se fijarán por la Dirección Nacional de Aduanas sobre la base de los derechos arancelarios que afectan a la importación de las mercancías, al momento de la fijación de dichos valores.
+Los mínimos de la subasta se fijarán por la Dirección Nacional de Aduanas sobre la base de los derechos arancelarios e impuestos que afectan a la importación de las mercancías, al momento de la fijación de dichos valores.
 
 Si la mercancía fuese nuevamente incluida en subasta por falta de postores, se le fijará el mínimo, sin consideración a los derechos arancelarios que la afectan.
 
@@ -1266,11 +1564,11 @@ Los remates serán practicados por la Dirección General del Crédito Prendario.
 
 El derecho de martillo será de un 8% del monto de la subasta. De la cantidad que represente dicho derecho, el 25% lo entregará el Servicio Nacional de Aduanas directamente a la Dirección General del Crédito Prendario y el resto lo ingresará a Rentas Generales de la Nación.
 
+Sin perjuicio de lo anterior, el Director podrá ordenar que los remates se efectúen en pública subasta en forma electrónica, de conformidad con lo señalado en el artículo 137, en cuyo caso no procederá el derecho señalado en el inciso precedente.
+
 #### Artículo 157
 
-Los remates de mercancías deberán ser anunciados, a lo menos, por tres días en los periódicos de mayor circulación del lugar correspondiente, y en las ciudades que, a juicio del Administrador respectivo, tenga importancia hacer publicidad, como asimismo, por medio de carteles en sitios de las Aduanas de acceso al público durante los siete días hábiles que precedan a aquél en que debe comenzar el remate. El primer aviso deberá ser publicado con veinte días de anticipación a lo menos. Estos anuncios deberán mencionar el lugar, fecha y hora de la subasta.
-
-La postergación del remate deberá ser anunciada, a lo menos, con la publicación de un aviso y la fijación de carteles por tres días, hechos en la misma forma dispuesta en el inciso anterior.
+Los remates de mercancías deberán ser anunciados de manera de garantizar su mayor difusión, de la forma en que se determine en el respectivo reglamento.
 
 #### Artículo 158
 
@@ -1278,7 +1576,7 @@ La adjudicación de las mercancías en subasta pública no libera al adquirente 
 
 #### Artículo 159
 
-Las mercancías cuya importación se encuentre prohibida sólo podrán ser subastadas en aquellas zonas de tratamiento aduanero en que esté permitido su ingreso, debiendo trasladarse a ellas para tal efecto, sin perjuicio de que el Director Nacional de Aduanas, en casos calificados, pueda disponer que no se haga el traslado de las mercancías. Si no existieren dichas zonas, se dispondrá su destrucción.
+Las mercancías cuya importación se encuentre prohibida sólo podrán ser subastadas en aquellas zonas de tratamiento aduanero en que esté permitido su ingreso, debiendo trasladarse a ellas para tal efecto, sin perjuicio de que el Director Nacional de Aduanas, en casos calificados, pueda disponer que no se haga el traslado de las mercancías. Si no existieren dichas zonas, se dispondrá su destrucción. Estas limitaciones no se aplicarán a la subasta de vehículos usados.
 
 Las mercancías en condiciones de ser rematadas por orden de Aduanas, ubicadas en zonas de tratamiento aduanero especial, se considerarán nacionalizadas sólo respecto de dichos territorios. Esta limitación no regirá respecto de mercancías provenientes de zonas no preferenciales cuya subasta se realice en dichos territorios especiales.
 
@@ -1304,19 +1602,21 @@ Al precio o monto de adjudicación deberán agregarse los impuestos a las ventas
 
 #### Artículo 164
 
-Los adjudicatarios deberán enterar el valor de la adjudicación durante los siete días siguientes al remate.
+Los adjudicatarios deberán enterar el valor de la adjudicación y retirar la mercancía adjudicada del recinto en que se encuentren almacenadas dentro de los siete días siguientes al remate.
 
-Si no enterasen tal valor en el plazo citado, quedará a beneficio fiscal la suma que hayan depositado como garantía y perderán todo derecho sobre la mercancía. Esta suma deducidos los gastos del remate, entre los que se incluirán los derechos de martillo, ingresará a Rentas Generales de la Nación.
+Si no enteraren tal valor o no retiraren la mercancía en el plazo citado, quedará a beneficio fiscal la suma que hayan depositado como garantía y perderán todo derecho sobre la mercancía, la que se incorporará en el próximo remate. Esta suma, deducidos los gastos del remate, entre los que se incluirán los derechos de martillo, si corresponden, ingresará a Rentas Generales de la Nación.
+
+En ningún caso se podrá retirar la mercancía sin que se haya pagado íntegramente el precio respectivo.
 
 #### Artículo 165
 
 El producto de los remates una vez deducidos los gastos que causen, entendiéndose por tales los originados por comisión de martillo, avisos, propaganda, impresión de catálogos, gastos de traslado o destrucción de las mercancías, y otros relativos a la preparación y realización de los mismos, será distribuido en la forma que a continuación se indica:
 
-a) Tratándose de mercancías presuntivamente abandonadas, se deducirán los derechos arancelarios que la afectaban. Hecho lo anterior, se descontarán los gastos de almacenamiento del período transcurrido hasta la subasta y las sumas derivadas del recargo del artículo 154. El remanente quedará a disposición del dueño de la mercancía por el lapso de un año, contado desde la fecha de su enajenación. Transcurrido dicho lapso sin que el dueño retire el saldo, éste se ingresará a Rentas Generales de la Nación.
+a) Tratándose de mercancías presuntivamente abandonadas, se deducirán los derechos arancelarios, impuestos y demás gravámenes que la afectaban. Hecho lo anterior, se descontarán los gastos de almacenamiento del período transcurrido hasta la subasta y las sumas derivadas del recargo del artículo 154. El remanente quedará a disposición del dueño de la mercancía por el lapso de un año, contado desde la fecha de su enajenación. Transcurrido dicho lapso sin que el dueño retire el saldo, éste se ingresará a Rentas Generales de la Nación.
 
 b) Tratándose de mercancías decomisadas, y expresamente abandonadas, corresponderá un 20% para pago de los gastos portuarios de almacenaje en recintos no aduaneros y el saldo se ingresará a Rentas Generales de la Nación.
 
-c) Tratándose de mercancías incautadas por los Tribunales Aduaneros u Ordinarios en procesos por fraude aduanero o contrabando, el producto de la subasta se depositará en su totalidad, sin deducción de las sumas a que se refiere este artículo, en una cuenta de ahorro que para estos efectos se abrirá en el Banco del Estado de Chile, la que, con sus respectivos reajustes e intereses, ingresará a Rentas Generales de la Nación en caso de decretarse el comiso de ellas, o se devolverá a su propietario cuando se dictare sentencia absolutoria o sobreseimiento definitivo debidamente ejecutoriados.
+c) Tratándose de mercancías incautadas por orden de los tribunales de justicia en procesos por delitos aduaneros, el producto de la subasta se pondrá a disposición del tribunal que hubiere ordenado la incautación, el que, con sus respectivos reajustes e intereses, ingresará a Rentas Generales de la Nación en caso de decretarse el comiso de ellas, o se devolverá a su propietario cuando se dictare sentencia absolutoria o sobreseimiento definitivo debidamente ejecutoriados.
 
 El Servicio de Aduanas, con cargo a su presupuesto anual podrá anticipar las sumas que se precisaren a fin de solventar los gastos a que se refiere el inciso primero, las que serán reembolsadas con cargo al producido del remate a cuyo objeto tales sumas hubieren sido aplicadas.
 
@@ -1346,6 +1646,8 @@ Incurrirá en el delito de contrabando el que introduzca al territorio nacional,
 
 Comete también el delito de contrabando el que, al introducir al territorio de la República, o al extraer de él, mercancías de lícito comercio, defraude la hacienda pública mediante la evasión del pago de los tributos que pudieren corresponderle o mediante la no presentación de las mismas a la Aduana.
 
+Incurre también en el delito de contrabando el que extraiga mercancías del país por lugares no habilitados o sin presentarlas a la Aduana.
+
 Asimismo, incurre en el delito de contrabando el que introduzca mercancías extranjeras desde un territorio de régimen tributario especial a otro de mayores gravámenes, o al resto del país, en alguna de las formas indicadas en los incisos precedentes.
 
 #### Artículo 169
@@ -1353,6 +1655,8 @@ Asimismo, incurre en el delito de contrabando el que introduzca mercancías extr
 La declaración maliciosamente falsa del origen, peso, cantidad o contenido de las mercancías de exportación, será castigada con la pena de presidio menor en su grado mínimo a medio y multa de hasta cinco veces el valor aduanero de las mercancías.
 
 Con la misma pena señalada en el inciso anterior serán castigados quienes falsifiquen material o ideológicamente certificaciones o análisis exigidos para establecer el origen, peso, cantidad o contenido de las mercancías de exportación.
+
+Se castigará, asimismo, con la misma pena indicada en los incisos anteriores, a aquellos consignantes de mercancías que salen del país, que presenten documentos falsos, adulterados o parcializados, para servir de base a la confección de las declaraciones, determinándose a través de ellos la clasificación o valor de las mercancías.
 
 #### Artículo 170
 
@@ -1428,13 +1732,15 @@ Para fijar la multa se deberá atender al monto de los derechos e impuestos invo
 
 n) El no cumplimiento, dentro de los plazos, de las reexpediciones, tránsito, trasbordo y redestinaciones, con una multa de hasta el valor aduanero de las mercancías;
 
-ñ) Las infracciones de cualquiera disposición de la presente Ordenanza, reglamento o instrucciones dictadas por la Dirección Nacional de Aduanas, que tengan por objeto una medida de orden, fiscalización o policía de Aduana, con una multa de hasta 5 Unidades Tributarias Mensuales. Las normas a que alude la presente disposición deberán publicarse en el Diario Oficial.
+ñ) Las infracciones de cualquiera disposición de la presente Ordenanza, reglamento o instrucciones dictadas por la Dirección Nacional de Aduanas, que tengan por objeto una medida de orden, fiscalización o policía de Aduana, con una multa de hasta 5 Unidades Tributarias Mensuales. Las normas a que alude la presente disposición deberán publicarse en el Diario Oficial, sin perjuicio de la publicación en extracto que disponga el Director Nacional, conforme al N° 29, del artículo 4, del decreto con fuerza de ley N° 329, de 1979, del Ministerio de Hacienda, sobre ley orgánica del Servicio Nacional de Aduanas.
+
+o) La no presentación o la presentación extemporánea a la Aduana del documento que da cuenta del valor definitivo de la exportación, de conformidad al plazo establecido según lo dispuesto en el artículo 70 bis de esta Ordenanza, con una multa de hasta el 2% del valor aduanero de la mercancías. En caso de reincidencia, se podrá aplicar una multa de hasta el 10% de dicho valor.
 
 El producto de las multas impuestas en conformidad a este artículo, ingresará a Rentas Generales de la Nación.
 
 #### Artículo 177
 
-La Aduana podrá eximir del pago de la multa, considerando las circunstancias que concurran en cada caso, a quien incurriere en una contravención aduanera, pero pusiere este hecho en su conocimiento antes de cualquier fiscalización o requerimiento por parte de ella y pagare los derechos aduaneros correspondientes.
+La Aduana no formulará denuncia a quien incurriere en una contravención aduanera de aquellas a que se refieren los artículos 173, 174, 175 y 176, siempre que se pusiere el hecho en su conocimiento antes de cualquier procedimiento de fiscalización y se pagaren los derechos aduaneros correspondientes.
 
 3.- Del contrabando y del fraude
 
@@ -1448,7 +1754,7 @@ Las personas que resulten responsables de los delitos de contrabando o fraude se
 
 En ambos casos se condenará al comiso de la mercancía, sin perjuicio de su inmediata incautación.
 
-No podrá aplicarse pena exclusivamente pecuniaria al reincidente de estos delitos en el caso del N° 1 de este artículo. Para estos efectos se considerará también eincidente al que haya sido condenado anteriormente por contrabando o fraude de mercancías cuyo valor no exceda de 25 Unidades Tributarias Mensuales. El mínimo de la pena de multa en el caso del N° 2 de este artículo será de dos veces el valor de la mercancía para el que hubiese reincidido una vez; de tres para el que hubiere reincidido dos y así sucesivamente, hasta llegar a cinco veces el valor de la mercancía como monto de la multa para el que hubiere reincidido cuatro veces o más.
+No podrá aplicarse pena exclusivamente pecuniaria al reincidente de estos delitos en el caso del número 1) de este artículo, ni tampoco cuando se trate de mercancía afecta a tributación especial o adicional, procediendo en ambos casos la aplicación de la pena establecida en el precitado numeral, aumentada en un grado. Para estos efectos se considerará también reincidente al que haya sido condenado anteriormente por contrabando o fraude de mercancías cuyo valor no exceda de 25 Unidades Tributarias Mensuales. El mínimo de la pena de multa en el caso del N° 2 de este artículo será de dos veces el valor de la mercancía para el que hubiese reincidido una vez; de tres para el que hubiere reincidido dos y así sucesivamente, hasta llegar a cinco veces el valor de la mercancía como monto de la multa para el que hubiere reincidido cuatro veces o más.
 
 Lo anterior es sin perjuicio de la responsabilidad que pueda caber a los funcionarios aduaneros, de acuerdo con lo dispuesto en el artículo 239 del Código Penal y de la que corresponda a otros que hayan tenido participación con ellos.
 
@@ -1500,7 +1806,7 @@ d) Obtener engañosamente la liberación o la reducción de derechos para mercan
 
 e) Emplear con distinto fin del declarado, y sin autorización o sin pagar los derechos correspondientes, mercancías afectas a derechos menores con la condición de un uso determinado de ellas;
 
-f) Vender, disponer o ceder a cualquier título y consumir o utilizar en forma industrial o comercial mercancías sujetas al régimen suspensivo de derechos de admisión temporal o almacenaje particular sin haber cubierto previamente los respectivos derechos, impuestos y otros gravámenes que las afecten o sin haber retornado a la potestad aduanera y cumplido las obligaciones existentes a su respecto, una vez expirado el plazo de la franquicia, y
+f) Vender, disponer o ceder a cualquier título y consumir o utilizar en forma industrial o comercial mercancías sujetas a régimenes suspensivos de derechos de admisión temporal o de depósito, salvo cuando se trate de actividades autorizadas para dicho tipo de destinación, o almacenaje particular sin haber cubierto previamente los respectivos derechos, impuestos y otros gravámenes que las afecten o sin haber retornado a la potestad aduanera y cumplido las obligaciones existentes a su respecto, una vez expirado el plazo de la franquicia, y
 
 g) Exportar, enajenar, arrendar o destinar a una finalidad no productiva los bienes respecto de los cuales se hubiere obtenido el beneficio de pago diferido de tributos aduaneros, sin que se hubiere pagado el total de la deuda, o sin haber obtenido autorización del Servicio de Aduanas en el caso de la enajenación o del arrendamiento.
 
@@ -1548,15 +1854,33 @@ Si el citado no concurriere a la referida audiencia o en ella rechazare la exist
 
 En el acta se dejará constancia de la falta de comparecencia o, en su caso, del rechazo formulado por la persona citada, de lo resuelto, de los hechos fundantes de tal decisión, y de la circunstancia de haberse informado al infractor que haya concurrido sobre su derecho a reclamar de la multa de conformidad a los incisos siguientes.
 
-El afectado por la multa que se hubiere aplicado podrá reclamar, fundadamente, dentro de los diez días hábiles siguientes a la fecha de realización de la audiencia respectiva, ante la Junta General de Aduanas.
+El afectado por la multa que se hubiere aplicado podrá reclamar, fundadamente, dentro de los quince días hábiles siguientes a la fecha de realización de la audiencia respectiva, ante el Tribunal Tributario y
+
+Aduanero, el que conocerá de acuerdo
+
+al procedimiento contenido en el
+
+artículo siguiente.
 
 Transcurrido el plazo a que se refiere el inciso anterior sin que se reclame, se procederá a emitir el giro comprobante de pago correspondiente.
 
-Si se presentare reclamación, la Junta solicitará que informe al tenor de ella al funcionario ante el cual se celebró la audiencia. Evacuado el informe, se procederá a la vista de la causa y la resolución que se dicte no será susceptible de recurso alguno.
+INCISO ELIMINADO.
+
+#### Artículo 186 bis
+
+Formulado el reclamo, se conferirá traslado al Servicio por el término de diez días. Vencido el plazo, haya o no contestado el Servicio, el Juez Tributario y Aduanero podrá recibir la causa a prueba si estima que existen hechos sustanciales y pertinentes controvertidos, abriendo un término probatorio de ocho días. En la misma resolución determinará la oportunidad en que la prueba testimonial deba rendirse. Dentro de los dos primeros días del término probatorio las partes deberán acompañar una nómina de los testigos de que piensan valerse, con expresión de su nombre y apellido, domicilio y profesión u oficio. No podrán declarar más de cuatro testigos por cada parte. En todo caso, el tribunal podrá citar a declarar a personas que no figuren en las listas de testigos o decretar otras diligencias probatorias que estime pertinentes.
+
+En contra de la resolución del Tribunal Tributario y Aduanero no procederá recurso alguno.
+
+En lo no previsto en este artículo, se aplicarán supletoriamente las normas del Párrafo 3 del Título VI del Libro II.
 
 #### Artículo 187
 
 Cuando el monto máximo de la liquidación de las multas por contravenciones aduaneras no exceda de 6 Unidades Tributarias Mensuales, el Administrador de la Aduana respectiva podrá aplicarlas directamente, en el mismo documento que la origine o en la denuncia, con el solo mérito de los antecedentes que existan; pero el afectado tendrá derecho a reclamo, caso en el cual se substanciará el proceso correspondiente en conformidad a las reglas establecidas en el Título II del Libro III de esta Ordenanza.
+
+#### Artículo 187 bis
+
+Cuando los hechos que den origen a un reclamo ante el Tribunal Tributario y Aduanero sean los mismos que han servido de base al Servicio para iniciar un procedimiento de denuncia en conformidad a los artículos precedentes, se suspenderá la tramitación de este último, de oficio o a petición del denunciado, hasta que la resolución que falle el reclamo se encuentre ejecutoriada.
 
 2.- Del contrabando y fraude
 
@@ -1658,17 +1982,23 @@ c) No encontrarse inhabilitado para cargos u oficios públicos, ni haberle sido 
 
 d) Haber aprobado estudios vinculados al comercio exterior, en establecimientos educacionales reconocidos por el Estado. Los cursos deberán tener una duración mínima de cinco semestres, sin que sea necesario que todas las asignaturas fijadas en los respectivos programas estén relacionadas con el comercio exterior.
 
-El requisito establecido en el inciso anterior podrá ser reemplazado para las personas que acrediten experiencia como funcionarios del Servicio o hayan sido reconocidos como apoderados de Agentes de Aduana, por un período no inferior a diez años; y
+El requisito establecido en el párrafo anterior podrá ser reemplazado para las personas que acrediten experiencia como funcionarios del Servicio o hayan sido reconocidos como apoderados de Agentes de Aduana, por un período no inferior a diez años; y
 
 e) Haber sido aprobado en concurso de antecedentes y conocimientos en materias aduaneras, calificado mediante resolución fundada del Director Nacional.
 
-El concurso será convocado por el referido Director a lo menos cada dos años, correspondiéndole a la Junta General de Aduanas fijar en forma previa el número máximo de agentes a designar.
+El Director convocará el concurso
+
+a lo menos cada dos años
+
+y fijará, en forma previa,
+
+el número máximo de agentes
+
+a designar.
 
 El nombramiento de Agentes de Aduana se hará mediante resolución del Director Nacional, una vez verificado el cumplimiento de los requisitos señalados en el presente artículo, previa constitución de una garantía de monto no inferior a 20 Unidades Tributarias Anuales, cuya suficiencia calificará el mismo Director del Servicio.
 
-Las personas no designadas podrán deducir reclamo ante la Junta General de Aduanas, dentro del plazo de diez días hábiles, entendiéndose practicada la notificación al día siguiente de expedida la comunicación respectiva. Los reclamos se presentarán en la Dirección Nacional de Aduanas, debiendo remitirse los antecedentes a la Junta General de Aduanas, quien resolverá sin ulterior recurso. El número máximo de agentes a designar se ampliará con el número de reclamos que sean acogidos por la Junta General de Aduanas.
-
-En todo caso, la Junta, al resolver las reclamaciones, no podrá alterar o modificar las normas, procedimientos o ponderaciones que se fijaron por el Director Nacional antes del concurso.
+INCISOS ELIMINADOS
 
 #### Artículo 197
 
@@ -1690,11 +2020,11 @@ La constitución de estas sociedades deberá sujetarse al cumplimiento de los si
 
 a) La razón social principiará con la expresión "Agencia de Aduanas", seguida únicamente por el nombre del despachador o el de alguno de ellos y las expresiones legales que indiquen la naturaleza de la compañía;
 
-b) El capital social no podrá ser inferior a 5.000 Unidades de Fomento;
+b) El capital social no podrá ser inferior a 5.000 unidades de fomento, debiendo al momento de la constitución estar efectivamente pagadas al menos 3.000 unidades de fomento y enterarse la diferencia en el plazo de tres años;
 
 c) El o los Agentes de Aduana no podrán ser excluidos de la administración de la sociedad ni del uso de la razón social;
 
-d) En caso de que la sociedad esté compuesta por dos o más Agentes de Aduana el aporte total de los agentes no podrá ser inferior al 51% y el aporte individual de cada uno no podrá ser inferior al 20% del capital social y su participación en las utilidades y pérdidas de la compañía será, a lo menos, proporcional a su aporte. Asimismo, en este caso, cada socio no agente no podrá realizar un aporte ni tener una participación en las utilidades y pérdidas igual o superior al de cada uno de los agentes individualmente considerados.
+d) En caso de que la sociedad esté compuesta por dos o más Agentes de Aduana el aporte total de los agentes no podrá ser inferior al 51% y el aporte individual de cada uno no podrá ser inferior al 10% del capital social y su participación en las utilidades y pérdidas de la compañía será, a lo menos, proporcional a su aporte. Asimismo, en este caso, cada socio no agente no podrá realizar un aporte ni tener una participación en las utilidades y pérdidas igual o superior al de cada uno de los agentes individualmente considerados.
 
 Tratándose de sociedades en que participe sólo un Agente de Aduana, su aporte no podrá ser inferior al 51% del capital social y su participación en las utilidades y pérdidas de la compañía será, a lo menos, proporcional a su aporte. Esta regla podrá ser alterada estableciéndose un porcentaje menor de participación para el Agente de Aduana en las utilidades y en las pérdidas, cuando los demás socios hayan sido auxiliares del mismo durante un tiempo no inferior a cinco años. Con todo, siempre el Agente de Aduana tendrá una participación igual o superior a la de los demás socios individualmente considerados;
 
@@ -1720,11 +2050,17 @@ Para efectos del inciso anterior, se entenderá que no resguarda la independenci
 
 #### Artículo 199
 
-El Agente de Aduana, hasta el monto de su caución, más la provisión de fondos, junto con su comitente, quedarán solidariamente obligados al pago de todos los gravámenes, cualesquiera sean su naturaleza y finalidad, cuya aplicación y fiscalización correspondan al Servicio de Aduanas.
+El Agente de Aduana, hasta el monto de su caución, más la provisión de fondos, junto con su comitente, quedarán solidariamente obligados al pago de todos los gravámenes, cualesquiera sean su naturaleza y finalidad, cuya aplicación y fiscalización correspondan al Servicio de Aduanas, hasta por el plazo de dos años a que se refiere el inciso primero del artículo 92 bis.
 
 El Agente de Aduana responderá por el total del valor de las multas que deriven de las contravenciones cometidas en un despacho a su cargo. Con todo, siempre que el error que causa la multa no sea imputable a su agencia, tendrá derecho a repetir en contra de su mandante con intereses corrientes.
 
-El Agente de Aduana se subrogará legalmente en los derechos privilegiados del Fisco cuando, por cuenta del mandante, hubiere pagado sumas de dinero por concepto de gravámenes, de cualquiera clase y diferencias de tributos, como consecuencia de cargos emitidos por la Aduana. La subrogación alcanzará al capital e intereses corrientes hasta el momento del pago por parte del mandante. Copia autorizada por la Aduana del documento de pago que deberá mencionar el nombre del deudor, servirá al Agente de Aduana de título ejecutivo para accionar en contra de éste para el reembolso de las sumas pagadas por su cuenta, en conformidad al Libro III del Código de Procedimiento Civil. El mismo procedimiento ejecutivo tendrá lugar cuando el Agente de Aduana haya pagado multas por infracciones que no deban ser soportadas en definitiva por él, según lo resuelva, a petición de cualquiera de las partes y previa audiencia de ambas, la Junta General de Aduanas.
+El Agente de Aduana se subrogará legalmente en los derechos privilegiados del Fisco cuando, por cuenta del mandante, hubiere pagado sumas de dinero por concepto de gravámenes, de cualquiera clase y diferencias de tributos, como consecuencia de cargos emitidos por la Aduana. La subrogación alcanzará al capital e intereses corrientes hasta el momento del pago por parte del mandante. Copia autorizada por la Aduana del documento de pago que deberá mencionar el nombre del deudor, servirá al Agente de Aduana de título ejecutivo para accionar en contra de éste para el reembolso de las sumas pagadas por su cuenta, en conformidad al Libro III del Código de Procedimiento Civil. El mismo procedimiento ejecutivo tendrá lugar cuando el Agente de Aduana haya pagado multas por infracciones que no deban ser soportadas en definitiva por él, según lo resuelva, sin forma de juicio y
+
+escuchando a las partes, el
+
+Tribunal Tributario y Aduanero
+
+respectivo.
 
 #### Artículo 200
 
@@ -1736,7 +2072,7 @@ Responden, asimismo, personalmente de dichas acciones u omisiones cuando ellas f
 
 Los despachadores, sin perjuicio de las demás obligaciones que les impongan las leyes y reglamentos, estarán sujetos a los siguientes deberes generales:
 
-1. Llevar un libro registro circunstanciado de todos los despachos en que intervengan y formar con los instrumentos relativos a cada uno de ellos un legajo especial que mantendrán correlacionados con aquel registro. Dicho libro deberá estar foliado y ser timbrado por la Administración de Aduana;
+1. Llevar un libro registro circunstanciado de todos los despachos en que intervengan y formar con los instrumentos relativos a cada uno de ellos un legajo especial que mantendrán correlacionados con aquel registro. Dicho libro deberá estar foliado y ser timbrado por la Administración de Aduana. No obstante, el Director Nacional de Aduanas podrá autorizar otros mecanismos de control o la utilización de medios electrónicos para el cumplimiento de esta obligación;
 
 2. Llevar contabilidad completa, consignando en sus libros los antecedentes que justifiquen sus asientos, conforme con las normas tributarias, aduaneras y comerciales que sean del caso;
 
@@ -1818,9 +2154,39 @@ Sin perjuicio de lo dispuesto en el artículo 203, la suspensión preventiva que
 
 No podrá suspenderse preventivamente a un Agente de Aduana por el no pago, en lo que excede de su caución, de cargos formulados por sumas dejadas de percibir por el Fisco en relación a un despacho ya terminado.
 
-Los despachadores, los apoderados especiales y los auxiliares que tengan registrados o hayan debido registrar ante la Aduana, podrán apelar ante la Junta General de Aduanas de la resolución que aplique sanciones de suspensión del ejercicio de la función y de cancelación de la licencia, nombramiento o permiso, que les haya sido impuesta por el Director Nacional de Aduanas en ejercicio de la jurisdicción disciplinaria que sobre ellos le confiere el artículo anterior. En este recurso podrá ser parte el Servicio Nacional de Aduanas.
+Los despachadores, los apoderados especiales y los auxiliares que tengan registrados o hayan debido registrar ante la Aduana, podrán reclamar ante el Tribunal Tributario y
 
-La apelación deberá interponerse dentro del plazo de diez días, contado desde la fecha de notificación de dicha resolución y se concederá sólo en su efecto devolutivo cuando la resolución apelada disponga la sanción de cancelación de la licencia, nombramiento o permiso.
+Aduanero de la resolución que aplique
+
+sanciones de suspensión del ejercicio
+
+de la función y de cancelación de la
+
+licencia, nombramiento o permiso,
+
+que les haya sido impuesta por el
+
+Director Nacional de Aduanas en
+
+ejercicio de la jurisdicción
+
+disciplinaria que sobre ellos le
+
+confiere el artículo anterior.
+
+El reclamo deberá interponerse
+
+dentro del plazo de diez
+
+días contado desde la fecha
+
+de notificación de
+
+dicha resolución y se
+
+sustanciará en conformidad
+
+con el artículo 186 bis.
 
 #### Artículo 203
 

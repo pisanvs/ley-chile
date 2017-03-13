@@ -96,6 +96,14 @@ Lo dispuesto en el inciso anterior es sin perjuicio de la responsabilidad civil 
 
 Inciso tercero.- Derogado. (15)
 
+#### Artículo 9 bis
+
+Las personas naturales y jurídicas que efectúen gestiones, trámites y demás operaciones aduaneras, con ocasión del ingreso o salida de mercancías desde o hacia las zonas francas, incluyendo su importación a las zonas francas de extensión, previo a su entrada en operación, constituirán cauciones consistentes en boletas bancarias o pólizas de seguros, de ejecución inmediata, o cauciones equivalentes, en la forma, plazos, exigencias y condiciones que se fijen mediante decreto supremo expedido a través del Ministerio de Hacienda.
+
+Las cauciones a que se refiere el inciso anterior tendrán por objeto asegurar el pago de las multas, derechos, impuestos y demás gravámenes que pudieren resultar en contra de las personas y por las actividades señaladas en el mismo inciso.
+
+La extinción de la caución producirá de pleno derecho la suspensión de las personas naturales o jurídicas que efectúen las gestiones, trámites y demás operaciones aduaneras a que se refiere el inciso primero.
+
 #### Artículo 10
 
 Las mercancías podrán salir de las zonas francas para ser reexpedidas o exportadas sin restricción al extranjero de acuerdo con lo que señale el reglamento. Podrán también ser ingresadas al país sujetándose en todo a la legislación general o especial que corresponda. (16) (17)
@@ -340,7 +348,7 @@ Régimen de Franquicias de las Zonas Francas (44)
 
 Las sociedades administradoras y los usuarios que se instalen dentro de las Zonas Francas estarán exentas de los impuestos a las ventas y servicios del decreto ley 825, de 1974, por las operaciones que realicen dentro de dichos recintos y zonas. (45)(46)
 
-Del mismo modo estarán exentas del Impuesto de Primera Categoría de la Ley de Impuesto a la Renta por las utilidades devengadas en sus ejercicios financieros, pero estarán obligadas a llevar contabilidad con arreglo a la legislación chilena con el objeto de acreditar la participación de utilidades respecto a las cuales sus propietarios tributarán anualmente con el Impuesto Global Complementario o Adicional, según corresponda (decreto ley 1.055, artículo 14º).
+Del mismo modo estarán exentas del Impuesto de Primera Categoría de la Ley de Impuesto a la Renta por las utilidades devengadas en sus ejercicios financieros, pero estarán obligadas a llevar contabilidad con arreglo a la legislación chilena con el objeto de acreditar la participación de utilidades respecto a las cuales sus propietarios tributarán anualmente con el Impuesto Global Complementario o Adicional, según corresponda (decreto ley 1.055, artículo 14º). No obstante la referida exención, los contribuyentes propietarios tendrán derecho a usar en la determinación de su impuesto global complementario o adicional por las rentas que se les atribuyan en conformidad a los artículos 14; 14 ter; 17, número 7; 38 bis, 54, 58, 60 y 62 de la ley sobre Impuesto a la Renta, el 50% del crédito establecido en el N° 3 del artículo 56 o del 63 de la misma ley, considerándose para ese sólo efecto que las referidas rentas han estado afectadas por el impuesto de primera categoría.
 
 #### Artículo 24
 
@@ -390,7 +398,7 @@ La enajenación de las mercancías de dichas empresas provenientes de la Zona Fr
 
 #### Artículo 28
 
-Las mercancías elaboradas por empresas industriales manufactureras instaladas o que se instalen en Arica acogidas al régimen que establece el artículo 27º de este Título, y que desarrollen actividades destinadas a la obtención de mercancías que tengan una individualidad diferente de las materias primas, partes o piezas extranjeras utilizadas en su elaboración o que en su proceso productivo provoquen una transformación irreversible de dichas materias primas, partes o piezas extranjeras, estarán exentas en su importación al resto del país y sólo hasta el 31 de diciembre del año 2012, de los derechos, tasas y demás gravámenes aduaneros determinados por las aduanas, incluida la tasa de despacho. (65)
+Las mercancías elaboradas por empresas industriales manufactureras instaladas o que se instalen en Arica acogidas al régimen que establece el artículo 27º de este Título, y que desarrollen actividades destinadas a la obtención de mercancías que tengan una individualidad diferente de las materias primas, partes o piezas extranjeras utilizadas en su elaboración o que en su proceso productivo provoquen una transformación irreversible de dichas materias primas, partes o piezas extranjeras, estarán exentas en su importación al resto del país y sólo hasta el 31 de diciembre del año 2025, de los derechos, tasas y demás gravámenes aduaneros determinados por las aduanas, incluida la tasa de despacho. (65)
 
 Se entenderá que hay cambio de individualidad de las materias primas, partes o piezas extranjeras, cuando se demuestre un cambio de partida arancelaria. En los demás casos, es decir, cambios arancelarios a nivel de subpartida o ítem y procesos de transformación irreversible, el cumplimiento de los requisitos establecidos en el inciso primero de este artículo será calificado fundadamente por el Servicio Nacional de Aduanas, previo informe del Ministerio de Economía, Fomento y Reconstrucción, que deberá ser evacuado dentro de los 30 días siguientes a su requerimiento, y sin perjuicio del procedimiento establecido en los artículos 116 y siguientes de la Ordenanza de Aduanas.
 
