@@ -334,25 +334,7 @@ I.N.R.V.M.: GWBG.41
 
 Patente: GWBG.41
 
-16.- Fiscalía Regional VI Región (Unidad Regional de Atención a Víctimas y Testigos)
-
-Vehículo: Minibús
-
-Marca: Peugeot
-
-Modelo: Expert Active HDI 2.0
-
-Año: 2014
-
-Motor: 10DYZF4021072
-
-Chassis: VF3XDRHH4DZ061535
-
-Color: Gris aster
-
-I.N.R.V.M.: GWCT.85-1
-
-Patente: GWCT.85
+16.- Eliminado.
 
 17.- Fiscalía Local de Rancagua
 
