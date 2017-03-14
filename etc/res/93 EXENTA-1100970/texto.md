@@ -1,0 +1,5 @@
+SE DISPONE "DÉCIMA NOVENA EMISIÓN DE OTORGAMIENTO DEL APORTE ÚNICO DE CARÁCTER REPARATORIO DEL ARTÍCULO 1° LEY N° 20.874", POR EL MONTO ÚNICO Y TOTAL QUE EN DICHA NÓMINA SE CONSIGNA
+
+Por resolución exenta N° 93, de 10 de febrero de 2017, de la Directora Nacional (S) del Instituto de Previsión Social, se aprueba la publicación de la décima novena emisión del otorgamiento del aporte único de carácter reparatorio ley N° 20.874, a las Personas Reconocidas como Víctimas en el Informe de la Comisión Nacional sobre Prisión Política y Tortura; y a los titulares incluidos en la nómina de víctimas de prisión política y tortura elaborada por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, conforme con las leyes N°19.992 y N° 20.405, respectivamente. Si el titular estuviere fallecido, corresponderá a su cónyuge sobreviviente el 60% del aporte del titular víctimas de prisión política y tortura.
+
+Santiago, 7 de marzo de 2017.- Patricio Coronado Rojo, Director Nacional.
