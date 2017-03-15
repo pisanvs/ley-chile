@@ -54,11 +54,13 @@ Las transmisiones de los equipos de radiocomunicación que operen en la banda 5.
 
 #### Artículo 2º
 
-La banda de frecuencias 10,7 - 12,2 GHz podrá emplearse en el sentido satélite - aeronave y 14 - 14,5 GHz, en el sentido aeronave - satélite, en ambos casos por encima de 3.000 metros de altura sobre el nivel del suelo y con una P.I.R.E. que no deberá exceder de 50 dBW. El respectivo satélite y sus frecuencias asociadas deberán estar debidamente inscritas ante la UIT.
+Las bandas de frecuencias 10,7 - 12,2 GHz y 19,7 - 20,2 GHz podrán emplearse en el sentido satélite - aeronave y las bandas, 14 - 14,5 GHz y 29,5 - 30 GHz, en el sentido aeronave - satélite, en ambos casos por encima de 3.000 metros de altura sobre el nivel del suelo y con una P.I.R.E. que no deberá exceder de 51 dBW. El respectivo satélite y sus frecuencias asociadas deberán estar debidamente inscritas ante la UIT.
 
 El uso de la banda 10,7 - 12,2 GHz está condicionado a no interferir ni reclamar por interferencias de estaciones que operen de acuerdo al Cuadro de Atribución de Bandas de Frecuencias, del Plan General de Uso del Espectro Radioeléctrico ya que se permite su uso, en aplicación del numeral 4.4 del artículo 4 del Reglamento de Radiocomunicaciones de la UIT.
 
 La banda 14 - 14,5 GHz está atribuida a título secundario, al servicio móvil por satélite, por lo cual su uso está condicionado a no interferir ni reclamar por interferencias de estaciones que operen con atribución a título primario debiéndose, además, cumplir con lo establecido en la Recomendación UIT- R M.1643.
+
+El funcionamiento de las estaciones terrenas de aeronave en las bandas 19,7 - 20,2 GHz y 29,5 - 30 GHz, en el caso que se comuniquen con estaciones espaciales geoestacionarias del servicio fijo por satélite, estará sujeto a la resolución exenta Nº 6.966, de 2009, y sus modificaciones, de la Subsecretaría de Telecomunicaciones.
 
 #### Artículo 3º
 
