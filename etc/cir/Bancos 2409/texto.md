@@ -12874,7 +12874,7 @@ vi) El deudor no aparece con deudas directas impagas en la información que refu
 
 La condición del numeral iii) no se aplica en el caso de deudores que solamente tienen créditos para financiamiento de estudios superiores de acuerdo con la Ley N° 20.027.
 
-4 Garantía, bienes entregados en leasing y operaciones de factoraje.
+4. Garantía, bienes entregados en leasing, operaciones de factoraje y Fondo de Garantía de Infraestructura Escolar
 
 4.1 Garantías
 
@@ -12902,7 +12902,7 @@ ii) deudores indirectos, distintos a los señalados en el número anterior, que 
 
 Para proceder a realizar la sustitución que aquí se trata, el banco debe llevar a cabo el control y seguimiento y demás actos que sean necesarios a objeto de asegurar el continuo cumplimiento de todas las condiciones legales, reglamentarias y contractuales que aseguren el cobro contra el garante, conforme a la cobertura que se haya definido contractualmente para la operación.
 
-Por otra parte, el procedimiento para obtener el pago debe permitir el cobro sin que medien inconvenientes operativos, debiendo existir evidencia de que los rechazos son mínimos en relación con las solicitudes que se presenta y que no suelen presentarse demoras en los pagos.
+Por otra parte,el procedimiento para obtener el pago debe permitir el cobro sin que medien inconvenientes operativos, debiendo existir evidencia de que los rechazos son mínimos en relación con las solicitudes que se presenta y que no suelen presentarse demoras en los pagos.
 
 Para efectos de la sustitución en la cartera grupal, cuando se utilice el primer método indicado en el número 3 de este Capítulo, los montos avalados pueden ser utilizados para la determinación de las provisiones, teniendo en cuenta lo siguiente:
 
@@ -12987,6 +12987,10 @@ Excepcionalmente, en los casos de cesión con responsabilidad se podrá sustitui
 - El deudor de la factura se encuentra calificado en categoría A3 o superior, según lo indicado en el numeral 2.1.1.
 
 La contraparte deberá ser evaluada grupal o individualmente, utilizando los métodos establecidos en los numerales 2 y 3 de este Capítulo, según corresponda.
+
+4.4 Fondo de Garantía de Infraestructura Escolar
+
+Para efectos de la determinación de provisiones, en el caso de los créditos respaldados por el Fondo de Garantía de Infraestructura Escolar creado por la Ley N° 20.845, podrá aplicarse la sustitución del riesgo de crédito del deudor directo por la calidad crediticia del referido fondo, asignándole para este efecto la categoría A1.
 
 5 Agrupaciones y segmentaciones para efectos de evaluación
 
@@ -14682,6 +14686,8 @@ CAPITULO C-3 hoja 7
 
 1302.1.02 Préstamos en el exterior
 
+1302.1.50 Créditos para infraestructura escolar Ley N° 20.845
+
 1302.1.70 Préstamos con letras de crédito para fines generales
 
 1302.1.80 Préstamos con mutuos hipotecarios endosables
@@ -15487,6 +15493,8 @@ Corresponde a créditos comerciales distintos de los créditos que se informan e
 1302.1.01 Préstamos en el país
 
 1302.1.02 Préstamos en el exterior
+
+1302.1.50 Créditos para infraestructura escolar Ley N° 20.845
 
 1302.1.70 Préstamos con letras de crédito para fines generales
 
