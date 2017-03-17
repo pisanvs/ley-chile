@@ -422,6 +422,8 @@ como responsable del Programa.
 
 Planificación.
 
+. Un representante del Gobierno Regional.
+
 Los miembros de la Comisión Regional de selección, facultados para nombrar un representante deberán hacer uso de ésta mediante una Orden de Servicio.
 
 11. Esta comisión evaluará los proyectos debidamente postulados, con el fin de asignar los puntajes correspondientes a cada postulación válida y confeccionar la nómina priorizada de proyectos preseleccionados de la región, que será enviada a la Subsecretaría de Vivienda y Urbanismo.
