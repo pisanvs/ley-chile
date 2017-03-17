@@ -4,7 +4,7 @@ Santiago, 3 de diciembre de 2013.- Hoy se resolvió lo que sigue:
 
 Núm. 8.834 exenta.- Visto: El DS Nº 52 (V. y U.), de 2013, que regula el Programa de Subsidio de Arriendo de Vivienda, y,
 
-Considerando: Que el reglamento del Programa de Subsidio de Arriendo de Vivienda, regulado por el DS Nº 52 (V. y U.), de 2013, contempla la definición de condiciones de postulación y aplicación del programa mediante resolución visada por la Dirección de Presupuestos del Ministerio de Hacienda, referidas a la determinación de los ingresos que debe tener el Núcleo Familiar postulante, al puntaje de su Instrumento de Caracterización Socioeconómica y a la fórmula para la determinación del puntaje de vulnerabilidad social, dicto la siguiente
+Considerando: Que el reglamento del Programa de Subsidio de Arriendo de Vivienda, regulado por el DS Nº 52 (V. y U.), de 2013, contempla la definición de condiciones de postulación y aplicación del programa mediante una resolución visada por la Dirección de Presupuestos del Ministerio de Hacienda, dicto la siguiente.
 
 Resolución:
 
@@ -16,19 +16,21 @@ El ingreso mensual del núcleo familiar corresponderá al ingreso bruto menos lo
 
 2º.- El Núcleo Familiar postulante deberá pertenecer al 70% más vulnerable de la población nacional, de conformidad con la información que se obtenga por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5º de la ley Nº 20.379.
 
-3º.- La fórmula para determinar el puntaje de vulnerabilidad social en la postulación es la siguiente:
+3°.- El puntaje de vulnerabilidad social en la postulación, se determinará conforme lo indicado en la siguiente tabla:
 
-PtjeVS = (13.484 - PtjeFPS)
+Porcentaje de vulnerabilidad Puntaje de VS
 
-100
+Dentro del 40% 180
+
+Sobre el 40% y hasta el 50% 135
+
+Sobre el 50% y hasta el 60% 90
+
+Sobre el 60% y hasta el 70% 45
 
 Donde:
 
-PtjeVS : Es el puntaje de vulnerabilidad social.
-
-PtjeFPS : Es el puntaje obtenido por la familia postulante en la Ficha de Protección Social.
-
-En caso que el producto del cálculo de la fórmula arriba descrita resultare un valor negativo, éste se deberá considerar como cero.
+Puntaje de VS = es el puntaje de vulnerabilidad social.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
