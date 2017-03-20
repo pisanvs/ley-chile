@@ -42,7 +42,7 @@ Resolución:
 
 1.1 Título I, Equipamiento Comunitario y/o Mejoramiento del Entorno: Se incluye en especial una línea para atender barrios con plagas de xilófagos. Este último tipo de proyectos se regirán por las condiciones especiales del resuelvo 6 de la presente resolución.
 
-1.2 Título II, Mejoramiento de la Vivienda: Además de la postulación de los proyectos regulares que cumplen con todo lo definido en el DS 255 (V. y U.), de 2006, se incluyen los siguientes proyectos con condiciones especiales:
+1.2 Título II, Mejoramiento de la Vivienda: Podrán postular en este llamado los Proyectos de Seguridad de la Vivienda y de Habitabilidad de la Vivienda que cumplan con todo lo definido en el DS 255 (V. y U.), de 2006, y además los siguientes proyectos con condiciones especiales:
 
 1.2.1 Proyectos de Seguridad de la Vivienda:
 
@@ -108,6 +108,8 @@ A estos tipos de Proyectos Focalizados señalados en el punto 2.2. precedente, s
 
 .
 
+No obstante que los proyectos de Mantención no son parte de los tipos de proyectos que se pueden postular en este llamado según lo señalado en el punto 1 de esta resolución, los grupos que contemplen proyectos focalizados señalados en el punto 2.2, podrán estar constituidos por proyectos de esa tipología. Además, en la primera selección de este llamado, se permitirá la postulación de proyectos de Mantención de la Vivienda en el caso que estos hayan resultado hábiles no seleccionados en el último proceso selección.
+
 3. Este llamado contará con 3 procesos de selección. Para participar en las selecciones de este llamado, los proyectos deben contar con Calificación hasta las siguientes fechas:
 
 - Para Primera Selección: Hasta el 17 de abril de 2017
@@ -134,15 +136,37 @@ Se podrá disminuir los recursos del presente llamado o aumentarlos con cargo a 
 
 6. Para los Proyectos de Mejoramiento del Entorno destinados a controlar la acción de plagas de insectos xilófagos (como termitas o larvas de coleópteros) en un barrio, se tendrán las siguientes consideraciones especiales:
 
-6.1 La intervención estará orientada a generar cebos u otros sistemas que logren controlar la acción de plagas de insectos xilófagos (como termitas o larvas de coleópteros), idealmente eliminándolas o a lo menos desviándolas de las viviendas para que no sigan causando daños en los elementos de éstas.
+6.1 La intervención estará orientada a generar cebos u otros sistemas que logren controlar la acción de plagas de insectos xilófagos (como termitas o larvas de coleópteros), idealmente eliminándolas o a lo menos desviándolas de las viviendas para que no sigan causando daños en los elementos de éstas. Para justificar esta intervención se deberá contar con un informe que describa el tipo de agente xílófago y el alcance de la plaga. Este informe podrá ser el mismo señalado en los puntos 7.2.1 y 7.2.2.
 
-6.2 Estos proyectos deberán garantizar sus resultados a lo menos por 3 años tras su intervención.
+6.2 Estos proyectos deberán garantizar sus resultados a lo menos por 3 años tras su intervención. Para hacer devolución de la boleta de Garantía, se deberá verificar que no hay presencia de estos insectos, en cebos o a la vista, dependiendo del sistema utilizado. Además, se deberá contar con el visto bueno de las familias o en caso de no llegar a acuerdo con las familias, el Serviu podrá autorizar su devolución.
 
 6.3 Podrán postular a esta línea de proyectos las familias que se encuentren en grupos organizados.
 
-6.4 Los montos de subsidio podrán ser incrementados hasta en un 50% en caso de ser requerido.
+6.4 Los montos de subsidio podrán ser incrementados hasta en un 50% en caso de ser requerido. No obstante, del total de familias que residan en las viviendas del barrio a intervenir, deberán postular la cantidad mínima para cubrir el financiamiento del control de las plagas en el sector, cumpliendo a lo menos con 10 familias del grupo. Además, los costos del control de las plagas por metro cuadrado o por vivienda, deberán ser agregadas a la tabla de precios unitarios indicados en el artículo 36 del DS N° 255 (V. y U.), de 2006. El proyecto deberá contar con la aprobación de la División Técnica de Estudio y Fomento Habitacional (Ditec).
 
 6.5 En casos de postulación simultánea con proyectos de Habitabilidad de la Vivienda, referidos a problemas provocados por la acción de plagas de insectos xilófagos su puntaje se incrementará en 100 puntos.
+
+6.6 El Plan de Habilitación Social en este tipo de proyectos se orientará a capacitar a las familias para evitar las futuras contaminaciones de termitas, el que deberá contemplar lo siguiente:
+
+i. Evitar zonas húmedas en la vivienda: Uno de los aspectos esenciales para que la termita subterránea ingrese a las viviendas es el agua. Limitar su disponibilidad y entorno para prevenir la presencia de ella.
+
+ii. Evitar humedad adyacentes a la vivienda, como macetas con plantas y riego
+
+iii. Eliminar filtración de cañerías.
+
+iv. Evitar condicionantes internas que generen aporte excesivo de humedad como el secado de ropa.
+
+v. Ventilar periódicamente, evitando condensación.
+
+vi. Mantener la higiene dentro de la casa, considerando el aspirado de guardapolvos, sacudir cortinas y el aseo de closets y baños.
+
+vii. No incorporar macetas o plantaciones aledañas contiguas a la vivienda
+
+viii. No mantener desechos de madera que tengan contacto con el terreno natural.
+
+ix. Reconocer e inspeccionar la vivienda
+
+x. Reconocer la inspección de cebos y aplicación de ello en sus dependencias.
 
 7. Para los casos de Proyectos de Habitabilidad de la Vivienda, referidos a problemas provocados por la acción de plagas de insectos xilófagos (como termitas o larvas de coleópteros), se tendrán las siguientes consideraciones especiales:
 
@@ -386,19 +410,21 @@ El postulante debe ser postulante individual o bien encontrarse inserto en un gr
 
 19. Para participar en este proceso de selección, las personas interesadas deberán acreditar haber enterado el ahorro mínimo correspondiente según el Titulo al que postula, según lo indicado en el artículo 9° del DS N° 255 (V. y U.), de 2006.
 
-20. Los puntajes de corte se determinarán mediante la Calificación Socioeconómica (CSE) del Registro Social de Hogares (RSH) tomando el tramo del 60% para su puntaje de corte.
+20. Se permitirá la postulación de inmuebles pertenecientes a una sucesión hereditaria, pudiendo postular uno de los comuneros. En este caso se deberá acompañar copia de la inscripción especial de herencia. Si ésta no se hubiere practicado aún, deberá presentar copia de la inscripción de dominio a favor del causante, acreditando su calidad de heredero con copia del auto de posesión efectiva otorgada por el tribunal competente, en caso de sucesiones testadas, o del acto administrativo que acoja a trámite la solicitud de posesión efectiva ante el Servicio de Registro Civil e Identificación tratándose de sucesiones intestadas.
+
+21. Los puntajes de corte se determinarán mediante la Calificación Socioeconómica (CSE) del Registro Social de Hogares (RSH) tomando el tramo del 60% para su puntaje de corte.
 
 En las postulaciones colectivas se aceptará que el 60% de los integrantes cumplan con el tramo del 60% según Calificación Socioeconómica y el 40% de los integrantes del grupo podrán superar este tope.
 
-21. En virtud de que la Ficha de Protección Social ya no está vigente, para determinar el puntaje señalado en el cuadro de la letra a) del Artículo 28 del DS N° 255 (V. y U.) de 2006, se aplicará el tramo de la Calificación Socioeconómica (CSE) del Registro Social de Hogares (RSH), estableciéndose para estos fines una conversión a un puntaje equivalente al que tenía el Quintil en la Ficha de Protección Social para que sea compatible con el cálculo de puntaje señalado en dicho Artículo.
+22. En virtud de que la Ficha de Protección Social ya no está vigente, para determinar el puntaje señalado en el cuadro de la letra a) del Artículo 28 del DS N° 255 (V. y U.) de 2006, se aplicará el tramo de la Calificación Socioeconómica (CSE) del Registro Social de Hogares (RSH), estableciéndose para estos fines una conversión a un puntaje equivalente al que tenía el Quintil en la Ficha de Protección Social para que sea compatible con el cálculo de puntaje señalado en dicho Artículo.
 
-22. En caso de proyectos emplazados en barrios que estén siendo Intervenidos por el Programa Quiero Mi Barrio, estos obtendrán 50 puntos Adicionales.
+23. En caso de proyectos emplazados en barrios que estén siendo Intervenidos por el Programa Quiero Mi Barrio, estos obtendrán 50 puntos Adicionales.
 
-23. Exímese al presente llamado del cumplimiento de lo señalado en el inciso tercero del Artículo 13, del DS N° 255 (V. y U.), de 2006, referido a su publicación del llamado en el Diario Oficial con 30 días de anterioridad a lo menos, a la fecha del inicio del proceso de selección.
+24. Exímese al presente llamado del cumplimiento de lo señalado en el inciso tercero del Artículo 13, del DS N° 255 (V. y U.), de 2006, referido a su publicación del llamado en el Diario Oficial con 30 días de anterioridad a lo menos, a la fecha del inicio del proceso de selección.
 
-24. Los proyectos se deberán ingresar en las Oficinas de Partes del Serviu correspondiente a la Región en la que se postula, en sus Delegaciones Provinciales, o en otro lugar que el Serviu respectivo disponga, el que deberá ser debidamente informado por correo electrónico a las Entidades Patrocinantes.
+25. Los proyectos se deberán ingresar en las Oficinas de Partes del Serviu correspondiente a la Región en la que se postula, en sus Delegaciones Provinciales, o en otro lugar que el Serviu respectivo disponga, el que deberá ser debidamente informado por correo electrónico a las Entidades Patrocinantes.
 
-25. Las nóminas de los postulantes seleccionados y sus respectivos proyectos se aprobarán mediante resoluciones exentas de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial. La difusión de dichas nóminas se realizará por el Serviu respectivo en los términos previstos en el DS N° 255 (V. y U.), de 2006.
+26. Las nóminas de los postulantes seleccionados y sus respectivos proyectos se aprobarán mediante resoluciones exentas de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial. La difusión de dichas nóminas se realizará por el Serviu respectivo en los términos previstos en el DS N° 255 (V. y U.), de 2006.
 
 Anótese, publíquese en el Diario oficial y archívese.- Iván Leonhardt Cárdenas, Ministro de Vivienda y Urbanismo Subrogante.
 
