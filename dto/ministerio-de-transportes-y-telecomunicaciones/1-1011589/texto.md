@@ -38,7 +38,7 @@ Fórmula de Cálculo
 
 #### Artículo 3º
 
-Para determinar el monto del subsidio a que se refiere el presente reglamento, por vehículo a nivel nacional u otra unidad geográfica que determine el Ministerio de Transportes y Telecomunicaciones, en adelante "el Ministerio", se deberá seguir el siguiente procedimiento:
+Para determinar el monto del subsidio a que se refiere el presente reglamento, por vehículo a nivel nacional u otra unidad geográfica que determine el Ministerio de Transportes y Telecomunicaciones, en adelante "el Ministerio", siempre que exista disponibilidad presupuestaria, se podrá considerar una actualización de los montos del período inmediatamente anterior en base al Índice de Precios del Consumidor (IPC) o se podrá seguir el siguiente procedimiento, según lo determine el Ministerio.
 
 1° Determinar un conjunto de zonas o ciudades donde exista información disponible de viajes y tarifas, de acuerdo a lo señalado en el artículo 2° de este reglamento, en función del número de viajes, población, tarifas u otros factores. El Ministerio deberá, antes del inicio del período de postulación, informar mediante resolución publicada en sus sitios electrónicos, el conjunto de las zonas o ciudades que cuenten con información disponible.
 
