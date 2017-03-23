@@ -58,7 +58,7 @@ En caso que la estimación teórica de la zona de servicio de una estación anal
 
 Para el caso de compartición de infraestructura entre dos o más concesionarias en que se proponga una zona de servicio común, ésta podrá ser la que resulte de la superposición de las zonas de servicio analógicas que se reúnen. Cada concesionaria deberá presentar el correspondiente proyecto técnico, no obstante ser éste el mismo, suscrito por sus respectivos representantes técnicos y legales.
 
-Sin perjuicio de lo anterior, estará permitida además la tolerancia de un 30% de aumento de la zona de servicio en la dirección de mayor cambio, respecto de la zona de servicio de la estación analógica que se reemplace. Lo dispuesto en el presente inciso quedará, en todos los casos, sujeto a su factibilidad técnica.
+Sin perjuicio de lo anterior, estará permitida además la tolerancia de un 30% de la zona de servicio en la dirección de mayor cambio, respecto de la zona de servicio de la estación analógica que se reemplace. Lo dispuesto en el presente inciso quedará, en todos los casos, sujeto a su factibilidad técnica y, ante una eventual disminución de la zona de servicio, a que no afecte a zonas pobladas.
 
 #### Artículo 4º
 
@@ -116,7 +116,7 @@ El proyecto técnico debe contener, a lo menos, la siguiente información:
 
 2.1 Descripción del equipamiento de la estación.
 
-Transmisor principal, transmisor de respaldo (si existiera), torre de antena, antena, filtros, línea de alimentación de la antena, respaldo de energía eléctrica (si existiera) informando tipo de equipamiento y autonomía en horas y equipos de estudio.
+Transmisor principal, transmisor de respaldo (si existiera), torre de antena, antena, filtros, línea de alimentación de la antena, respaldo de energía eléctrica (si existiera) informando tipo de equipamiento y autonomía en horas y equipos de estudio, encoder y multiplexor.
 
 Se entenderá por transmisor de respaldo aquel que entra en funcionamiento en caso de falla del transmisor principal y que se encuentra en la misma ubicación de este último. Su uso es opcional.
 
