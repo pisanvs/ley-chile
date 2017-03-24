@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Créase, a contar del 10 de febrero de 2017, la Oficina de Registro Civil e Identificación Placilla, dentro de la circunscripción de Placilla, ubicada en Calle Óscar Gajardo Nº 2250, Placilla, provincia de Colchagua y Región del Libertador Bernardo O'Higgins.
+1.- Créase la Oficina de Registro Civil e Identificación Placilla, dentro de la circunscripción de Placilla, ubicada en calle Óscar Gajardo N° 2250, Placilla, Provincia de Colchagua y Región del Libertador Bernardo O'Higgins, debiendo iniciar sus funciones a contar del 1 de mayo de 2017.
 
 2.- Fíjanse los límites de la circunscripción de Registro Civil de Placilla, y modifíquense los de la circunscripción de Nancagua en la forma que se indica a continuación:
 
