@@ -16,7 +16,19 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 6 de febrero de 2017 hasta el 10 de Marzo de 2017, por la calzada norte de Av. Departamental entre Chiloé y Primera Transversal, comuna de San Miguel.
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, en Av. Departamental, entre Primera Transversal y Chiloé, comuna de San Miguel, en las calzadas y períodos que se indican en el siguiente cuadro:
+
+CALZADA DESDE HASTA
+
+CALZADA NORTE 6 de febrero de 2017 24 de marzo de 2017
+
+AMBAS CALZADAS 25 de marzo de 2017 26 de marzo de 2017
+
+CALZADA NORTE 27 de marzo de 2017 2 de abril de 2017
+
+CALZADA SUR 3 de abril de 2017 23 de abril de 2017
+
+Dese estricto cumplimiento a las especificaciones y condiciones establecidas en el Ord. SM/AGD N° 2355, de 21 de marzo de 2017, de esta Secretaría Regional.
 
 2.- Dese estricto cumplimiento a las especificaciones establecidas en el Ord. SM/AGD/N° 9771, de 28 de diciembre de 2016, de esta Secretaría Regional Ministerial.
 
