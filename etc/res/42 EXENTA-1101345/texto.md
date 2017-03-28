@@ -1,0 +1,17 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "AMPLIACIÓN PROYECTO MINERO PEJERREYES"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta N° 42, de fecha 16 de marzo de 2017, el Director Regional (S) del Servicio de Evaluación Ambiental de la Región de Coquimbo, ha resuelto dar inicio a un proceso de Participación Ciudadana por un plazo de 20 días hábiles de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Ampliación Proyecto Minero Pejerreyes".
+
+El proyecto consiste en el aumento de la capacidad de procesamiento de minerales de cobre de la planta de beneficio de minerales del proyecto minero Pejerreyes. El abastecimiento del proyecto se realizará bajo la modalidad de poder de compra en planta, lo que se traduce en que los terceros a quienes se les adquirirá el mineral deberán entregarlo en la planta. La adquisición de minerales se realizará a faenas mineras de extracción que se encuentren debidamente autorizadas.
+
+La ampliación del proyecto minero Pejerreyes contempla la construcción del depósito de relaves filtrados II, donde se almacenarán los relaves del proceso. Además, se deberán construir diversas obras complementarias para la operación de dicho depósito, tales como el sistema de drenaje basal, la piscina de monitoreo, el camino de inspección, entre otros. Y por otra parte, se construirán otras obras que darán continuidad a la operación del proyecto, dentro de las que se cuentan la construcción del sistema de transporte de relaves, la construcción de un taller de mantenimiento, la instalación de un estanque de combustible de mayor capacidad, el aumento en la generación de energía de la sala de máquinas y la construcción de un sistema de desvío de aguas lluvias. Para energizar la Planta de Beneficio y la totalidad de las instalaciones se cuenta con una capacidad instalada de 5,28 MW correspondiente 6 generadores de 1.110 kVA.
+
+La planta de beneficio incluye los procesos de conminución y recuperación de sustancias minerales vía concentración por flotación, para obtener concentrados de cobre. A su vez, el proceso genera como rechazo relaves, que serán dispuestos en el depósito de relaves filtrados II.
+
+La capacidad de la planta de flotación del proyecto será de 60.000 toneladas/mes (t/mes) de mineral que ingresarán al proceso. La cantidad de relaves que se almacenarán en el depósito será de 1.734.265 m3, lo que permite atender la operación del proyecto durante 4,5 años, que corresponde a la vida productiva del mismo.
+
+El proyecto se ubicará en las comunas de Coquimbo y Ovalle, provincias de Elqui y Limarí, respectivamente, Región de Coquimbo, y su titular es Empresa de Servicios Generales para la Minería Limitada.
+
+El texto íntegro de la resolución antes individualizada más los antecedentes del proceso de evaluación pueden ser conocidos en las oficinas de la Dirección Regional del SEA Coquimbo, ubicadas en calle Eduardo de la Barra N° 205, La Serena, o accederse a ella a través del sitio web www.sea.gob.cl.
+
+Oscar Robledo Burrows, Director Regional (S), Servicio de Evaluación Ambiental Región de Coquimbo.
