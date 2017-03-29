@@ -96,7 +96,11 @@ El Consejo Administrativo, con el propósito de mejorar el nivel de atención y 
 
 <!-- parte:8946170 -->
 
-### Párrafo II — De la Atención Económica Artículo 5º. El Servicio de Bienestar podrá otorgar las siguientes ayudas por las causales y de acuerdo a las modalidades que a continuación se indican: a) Matrimonio. Cuando el afiliado contraiga
+### Párrafo II — De la Atención Económica
+
+Artículo 5º. El Servicio de Bienestar podrá otorgar las siguientes ayudas por las causales y de acuerdo a las modalidades que a continuación se indican:
+
+a) Matrimonio. Cuando el afiliado contraiga
 
 matrimonio, circunstancia que deberá comprobar con
 
@@ -146,15 +150,13 @@ se otorgará en el siguiente orden de precedencia:
 
 efectos por el afiliado;
 
-2. Al cónyuge sobreviviente;
+2. Al cónyuge sobreviviente o al conviviente civil;
 
-3. A los hijos legítimos;
+3. A los hijos;
 
-4. A los hijos naturales;
+4. A los padres;
 
-5. A los padres legítimos;
-
-6. A la persona que acredite haber efectuado los
+5. A la persona que acredite haber efectuado los
 
 gastos del funeral.
 
@@ -174,7 +176,27 @@ del presupuesto que se destinará para estos
 
 beneficios.
 
-El Consejo Administrativo fijará anualmente los montos a que ascenderán estos beneficios.
+e) Bono de Invierno. Se otorgará en la medida
+
+que los recursos así lo permitan un Bono de Invierno
+
+a todos los afiliados al Servicio de Bienestar,
+
+pagadero durante el mes de julio de cada año
+
+f) Acuerdo de Unión Civil. Se concederá una
+
+ayuda a los afiliados que celebren el Acuerdo de
+
+Unión Civil. Si ambos estuvieran afiliados al
+
+Servicio, cada uno de ellos tendrá derecho a
+
+este beneficio
+
+El Consejo Administrativo fijará anualmente los
+
+montos a que ascenderán estos beneficios.
 
 #### Artículo 6
 
@@ -196,11 +218,7 @@ Estos préstamos sólo podrán concederse una vez al año, no pudiendo su monto 
 
 d) Préstamos para vivienda:
 
-- Para completar ahorro previo.
-
-El afiliado debe cumplir con el requisito de haber hecho la postulación a vivienda, a través del Servicio de Personal de la Universidad Arturo Prat, para el Programa P.E.T.
-
-- Para terminaciones de casas obtenidas por el Programa P.E.T. o habilitaciones de viviendas básicas obtenidas a través de la Municipalidad.
+- Para terminaciones de viviendas obtenidas a través de los subsidios vigentes, como a título personal o a través de crédito hipotecario.
 
 Para optar a estos préstamos, los afiliados no deben ser propietarios de otras viviendas. El monto a otorgar no podrá ser superior a 20 U.F. y deberá descontarse en un plazo máximo de 24 meses.
 
@@ -225,6 +243,8 @@ Tanto el mecanismo de reajustabilidad que se les aplicará como el interés que 
 <!-- parte:8946173 -->
 
 La solicitud de cualquier tipo de préstamo deberá ser avalada por dos codeudores solidarios que pertenezcan al Servicio de Bienestar. No obstante, no será necesaria la presentación de avales cuando se haya establecido el reembolso a un plazo máximo de treinta días.
+
+Se deja establecido que un funcionario puede ser máximo 2 veces codeudor solidario de algún funcionario solicitante de préstamo interno en el período de un año o mientras estén vigentes dichos créditos, cumpliendo los mismos requisitos de capacidad de endeudamiento que el titular.
 
 #### Artículo 9
 
@@ -260,7 +280,7 @@ El Bienestar podrá organizar y financiar en beneficio de los afiliados y de sus
 
 <!-- parte:8946177 -->
 
-El Bienestar podrá organizar y financiar, según lo determine el Consejo, la celebración de la fiesta de Navidad para los afiliados y sus cargas familiares. Asimismo podrá colaborar en la organización y financiamiento de la celebración de las Fiestas Patrias, según lo determine el Consejo.
+El Bienestar podrá organizar y financiar, según lo determine el Consejo, la celebración de la fiesta de Navidad para los afiliados y sus cargas familiares, Día del Niño, de la Madre, del Padre o de la Familia y Promoción del Servicio de Bienestar a través de actividades recreativas, saludarles, expositivas, de vinculación, según lo determine el Consejo Administrativo. Asimismo podrá colaborar en la organización y financiamiento de la celebración de las Fiestas Patrias, según lo determine el Consejo.
 
 #### Artículo 13
 
