@@ -70,7 +70,9 @@ Tratándose de casos urgentes, en que la inmediata autorización u orden judicia
 
 Cautela de garantías. En cualquiera etapa del procedimiento en que el juez de garantía estimare que el imputado no está en condiciones de ejercer los derechos que le otorgan las garantías judiciales consagradas en la Constitución Política, en las leyes o en los tratados internacionales ratificados por Chile y que se encuentren vigentes, adoptará, de oficio o a petición de parte, las medidas necesarias para permitir dicho ejercicio.
 
-Si esas medidas no fueren suficientes para evitar que pudiere producirse una afectación sustancial de los derechos del imputado, el juez ordenará la suspensión del procedimiento y citará a los intervinientes a una audiencia que se celebrará con los que asistan. Con el mérito de los antecedentes reunidos y de lo que en dicha audiencia se expusiere, resolverá la continuación del procedimiento o decretará el sobreseimiento temporal del mismo.
+Si esas medidas no fueren suficientes para evitar que pudiere producirse una afectación sustancial de los derechos del imputado, el juez ordenará la suspensión del procedimiento por el menor tiempo posible y citará a los intervinientes a una audiencia que se celebrará con los que asistan. Con el mérito de los antecedentes reunidos y de lo que en dicha audiencia se expusiere, resolverá la continuación del procedimiento o decretará el sobreseimiento temporal del mismo.
+
+Con todo, no podrá entenderse que existe afectación sustancial de los derechos del imputado cuando se acredite, por el Ministerio Público o el abogado querellante, que la suspensión del procedimiento solicitada por el imputado o su abogado sólo persigue dilatar el proceso.
 
 #### Artículo 11
 
@@ -794,6 +796,12 @@ Si el imputado prefiriere defenderse personalmente, el tribunal lo autorizará s
 
 Efectos de la ausencia del defensor. La ausencia del defensor en cualquier actuación en que la ley exigiere expresamente su participación acarreará la nulidad de la misma, sin perjuicio de lo señalado en el artículo 286.
 
+#### Artículo 103 bis
+
+Sanciones al defensor que no asistiere o abandonare la audiencia injustificadamente. La ausencia injustificada del defensor a la audiencia del juicio oral, a la de preparación del mismo o del procedimiento abreviado, como asimismo a cualquiera de las sesiones de éstas, si se desarrollaren en varias, se sancionará con la suspensión del ejercicio de la profesión, la que no podrá ser inferior a quince ni superior a sesenta días. En idéntica sanción incurrirá el defensor que abandonare injustificadamente alguna de las mencionadas audiencias, mientras éstas se estuvieren desarrollando.
+
+El tribunal impondrá la sanción después de escuchar al afectado y recibir la prueba que ofreciere, si la estimare procedente.
+
 #### Artículo 104
 
 Derechos y facultades del defensor. El defensor podrá ejercer todos los derechos y facultades que la ley reconoce al imputado, a menos que expresamente se reservare su ejercicio a este último en forma personal.
@@ -807,6 +815,10 @@ Si el tribunal advirtiere una situación de incompatibilidad la hará presente a
 #### Artículo 106
 
 Renuncia o abandono de la defensa. La renuncia formal del defensor no lo liberará de su deber de realizar todos los actos inmediatos y urgentes que fueren necesarios para impedir la indefensión del imputado.
+
+Sin perjuicio de lo anterior, no podrá ser presentada la mencionada renuncia del abogado defensor dentro de los diez días previos a la realización de la audiencia de juicio oral, como tampoco dentro de los siete días previos a la realización de la audiencia de preparación de juicio.
+
+El abogado defensor que renunciare a su cargo en los plazos señalados en el inciso anterior, o abandonare o dejare de asistir injustificadamente a las audiencias mencionadas en el artículo 103 bis, será sancionado con la suspensión del ejercicio de la profesión en los términos previstos en el citado precepto.
 
 En el caso de renuncia del defensor o en cualquier situación de abandono de hecho de la defensa, el tribunal deberá designar de oficio un defensor penal público que la asuma, a menos que el imputado se procurare antes un defensor de su confianza. Con todo, tan pronto este defensor hubiere aceptado el cargo, cesará en sus funciones el designado por el tribunal.
 
@@ -2290,9 +2302,9 @@ Defensa oral del imputado. Si el imputado no hubiere ejercido por escrito las fa
 
 Comparecencia del fiscal y del defensor. La presencia del fiscal y del defensor del imputado durante la audiencia constituye un requisito de validez de la misma.
 
-La falta de comparecencia del fiscal deberá ser subsanada de inmediato por el tribunal, quien además pondrá este hecho en conocimiento del fiscal regional. Si no compareciere el defensor, el tribunal declarará el abandono de la defensa, designará un defensor de oficio al imputado y dispondrá la suspensión de la audiencia por un plazo que no excediere de cinco días, a objeto de permitir que el defensor designado se interiorice del caso.
+La inasistencia o el abandono injustificado de la audiencia por parte del fiscal deberá ser subsanada de inmediato por el tribunal, el que, además, pondrá este hecho en conocimiento del fiscal regional respectivo para que determine la responsabilidad del fiscal ausente, de conformidad a lo que disponga la ley orgánica constitucional del Ministerio Público. Si no compareciere el defensor, el tribunal declarará el abandono de la defensa, designará un defensor de oficio al imputado y dispondrá la suspensión de la audiencia por un plazo que no excediere de cinco días, a objeto de permitir que el defensor designado se interiorice del caso.
 
-La ausencia o abandono injustificados de la audiencia por parte del defensor o del fiscal será sancionada conforme a lo previsto en el artículo 287.
+Inciso Suprimido.
 
 #### Artículo 270
 
@@ -2492,17 +2504,13 @@ El presidente de la sala deberá informar al acusado de lo ocurrido en su ausenc
 
 Presencia del defensor en el juicio oral. La presencia del defensor del acusado durante toda la audiencia del juicio oral será un requisito de validez del mismo, de acuerdo a lo previsto en el artículo 103.
 
-La no comparecencia del defensor a la audiencia constituirá abandono de la defensa y obligará al tribunal a la designación de un defensor penal público, de acuerdo con lo dispuesto en el inciso segundo del artículo 106.
+La no comparecencia del defensor a la audiencia constituirá abandono de la defensa y obligará al tribunal a la designación de un defensor penal público, de acuerdo con lo dispuesto en el inciso cuarto del artículo 106.
 
 No se podrá suspender la audiencia por la falta de comparecencia del defensor elegido por el acusado. En tal caso, se designará de inmediato un defensor penal público al que se concederá un período prudente para interiorizarse del caso.
 
 #### Artículo 287
 
-Sanciones al abogado que no asistiere o abandonare la audiencia injustificadamente. La ausencia injustificada del defensor o del respectivo fiscal a la audiencia del juicio oral o a alguna de sus sesiones, si se desarrollare en varias, se sancionará con suspensión del ejercicio de la profesión, hasta por dos meses. En idéntica pena incurrirá el defensor o fiscal que abandonare injustificadamente la audiencia que se estuviere desarrollando.
-
-El tribunal impondrá la sanción después de escuchar al afectado y recibir la prueba que ofreciere, si la estimare procedente.
-
-No constituirá excusa suficiente la circunstancia de tener el abogado otras actividades profesionales que realizar en la misma oportunidad en que se hubiere producido su inasistencia o abandono.
+Sanciones al fiscal que no asistiere o abandonare la audiencia injustificadamente. A la inasistencia o abandono injustificado del fiscal a la audiencia del juicio oral o a alguna de sus sesiones, si se desarrollare en varias, se aplicará lo previsto en el inciso segundo del artículo 269.
 
 #### Artículo 288
 
@@ -3459,6 +3467,10 @@ Cuando no lo estimare así, o cuando considerare fundada la oposición del quere
 #### Artículo 411
 
 Trámite en el procedimiento abreviado. Acordado el procedimiento abreviado, el juez abrirá el debate, otorgará la palabra al fiscal, quien efectuará una exposición resumida de la acusación y de las actuaciones y diligencias de la investigación que la fundamentaren. A continuación, se dará la palabra a los demás intervinientes. En todo caso, la exposición final corresponderá siempre al acusado.
+
+#### Artículo 411 bis
+
+Sanciones al fiscal que no asistiere o abandonare la audiencia injustificadamente. A la inasistencia o abandono injustificado del fiscal a la audiencia del procedimiento abreviado o a alguna de sus sesiones, si se desarrollare en varias, se aplicará lo previsto en el inciso segundo del artículo 269.
 
 #### Artículo 412
 
