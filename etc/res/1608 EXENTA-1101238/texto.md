@@ -34,8 +34,4 @@ Resuelvo:
 
 2. La presente resolución regirá a contar de su publicación en el Diario Oficial y tendrá una vigencia de 30 días.
 
-> **Nota.** El N° 1 de la Resolución 2592 Exenta, Agricultura, publicada el 09.05.2017, modifica la presente norma en el sentido de prorrogar su vigencia por 30 días, contados desde la referida fecha de su publicación.
-
-> **Nota.** NOTA 1 El numeral 1 de la Resolución 4200 Exenta, Agricultura, publicada el 26.07.2017, modifica la presente norma en el sentido de prorrogar su vigencia por 30 días, contados desde la referida fecha de su publicación.
-
 Anótese, comuníquese y publíquese.- Ángel Sartori Arellano, Director Nacional, Servicio Agrícola y Ganadero.
