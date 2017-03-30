@@ -1,0 +1,55 @@
+REGLAMENTA PAGO DE LA SUBVENCIÓN ESPECIAL DIFERENCIAL Y DE NECESIDADES EDUCATIVAS ESPECIALES DE CARÁCTER TRANSITORIO A LOS(AS) ALUMNOS(AS) INTEGRADOS EN CURSOS DE ENSEÑANZA MEDIA
+
+Núm. 389.- Santiago, 28 de diciembre de 2016.
+
+Visto:
+
+Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República; en la ley Nº 18.956, que reestructura el Ministerio de Educación Pública; en la ley Nº 20.422, del Ministerio de Planificación, que establece Normas sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad; en la Ley Nº 20.981, del Ministerio de Hacienda, de Presupuestos del Sector Público para el año 2017; en el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 2, de 1996, sobre Subvención del Estado a Establecimientos Educacionales; en el decreto supremo Nº 8.144, de 1980, del Ministerio de Educación, que Reglamenta decreto ley Nº 3.476, de 1980, sobre Subvenciones a Establecimientos Particulares Gratuitos de Enseñanza; en el ordinario Nº 05/985, de 15 de noviembre de 2016, del Jefe de la División de Educación General, del Ministerio de Educación, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija Normas sobre exención del trámite de Toma de Razón, y
+
+Considerando:
+
+Que, es deber del Estado ofrecer en igualdad de condiciones las mejores opciones educativas a los niños, niñas, jóvenes y adultos con necesidades educativas especiales, permanentes y/o transitorias, que cursan el nivel de enseñanza media;
+
+Que, el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, establece en su artículo 9º que los sostenedores que cuenten con proyectos de integración aprobados por el Ministerio de Educación y que integren alumnos(as) que fueren considerados(as) de educación especial en cursos de enseñanza media, conforme al artículo 9º del decreto supremo Nº 8.144, de 1980, del Ministerio de Educación, podrán obtener el pago de la subvención especial diferencial por dichos estudiantes;
+
+Que, para percibir dicho pago los sostenedores deberán postular ante la Secretaría Regional Ministerial de Educación respectiva, quien determinará la entrega del beneficio;
+
+Que, de acuerdo con la misma norma, mediante decreto anual el Ministerio de Educación establecerá el número máximo de alumnos(as) beneficiados(as), distribución regional, plazo de postulación y antecedentes que deban acompañarse para justificar la solicitud, conforme a las normas técnicas y administrativas vigentes para la educación especial diferencial,
+
+Decreto:
+
+#### Artículo 1º
+
+Los sostenedores de los establecimientos educacionales subvencionados, que cuenten con proyectos de integración aprobados por el Ministerio de Educación y que integren alumnos en cursos de enseñanza media, que de acuerdo con el artículo 9º del decreto supremo Nº 8.144, de 1980, del Ministerio de Educación, fueren considerados de educación especial, podrán obtener el pago de la subvención correspondiente a Educación Especial Diferencial o subvención de Necesidades Educativas Especiales de Carácter Transitorio, según corresponda.
+
+#### Artículo 2º
+
+Los sostenedores de establecimientos educacionales subvencionados que cuenten con proyectos de integración aprobados por el Ministerio de Educación, cuyos alumnos fueron beneficiarios en años anteriores de las subvenciones a que se refiere el artículo anterior, deberán postular al beneficio enviando una nómina a la Secretaría Regional Ministerial de Educación de la región respectiva, donde conste que tales alumnos continúan siendo estudiantes del establecimiento educacional y que cumplen con todos los requisitos a que se refiere el artículo anterior.
+
+#### Artículo 3º
+
+Los sostenedores que postulen a estudiantes por primera vez al beneficio del pago de la subvención correspondiente a Educación Especial Diferencial o subvención de Necesidades Educativas Especiales de Carácter Transitorio, según corresponda, deberán presentar ante la Secretaría Regional Ministerial de Educación respectiva, la siguiente documentación:
+
+a) La postulación de los(as) alumnos(as), que deberá ser presentada en el formato oficial que al efecto disponga el Ministerio de Educación, vía plataforma electrónica, y
+
+b) Documento que acredite que el(la) alumno(a), es beneficiario(a) de un proyecto de integración escolar aprobado por resolución de la Subsecretaría de Educación.
+
+La documentación a que se refiere el inciso anterior deberá presentarse durante el mes de julio de 2017.
+
+#### Artículo 4º
+
+Establécese que el número máximo de estudiantes de enseñanza media beneficiados para el año 2017 será de 62.500 alumnos(as), de acuerdo a la siguiente distribución regional:
+
+.
+
+#### Artículo 5º
+
+En todos los aspectos técnicos no previstos en el presente decreto, se aplicarán las normas técnicas y administrativas vigentes para la Educación Especial Diferencial y para el régimen de subvenciones.
+
+#### Artículo 6º
+
+El gasto que irrogue al Ministerio de Educación el cumplimiento del presente decreto será imputado al ítem: 09-01-20-24-01-255, de la ley Nº 20.981 sobre Presupuestos del Sector Público, correspondiente al año 2017.
+
+Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Valentina Karina Quiroga Canahuate, Ministra de Educación (S).
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a usted, Javier Jiménez Díaz, Subsecretario de Educación (S).
