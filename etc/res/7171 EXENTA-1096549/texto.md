@@ -45,3 +45,5 @@ PRIMER LLAMADO 2016 DS Nº 19 (V. Y U.), DE 2016
 .
 
 > **Nota.** Los numeros 1 y 2 de la Resolución 8192 Exenta, Vivienda, publicada el 24.12.2016, modifica la presente norma en el sentido de incorporar y eliminar de la nómina proyectos seleccionados, los que la citada norma indica.
+
+> **Nota.** NOTA 1 Los numeros 1 y 2 de la Resolución 2746 Exenta, Vivienda, publicada el 30.03.2017, modifica la presente norma en el sentido de incorporar y eliminar de la nómina proyectos seleccionados, los que la citada norma indica.
