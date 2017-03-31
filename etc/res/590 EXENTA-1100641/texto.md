@@ -178,6 +178,10 @@ El proceso de postulación puede realizarse sólo una vez por institución postu
 
 Por la sola presentación de la postulación se entiende que la entidad postulante declara que todos los antecedentes e información señalada en el formulario y acompañada, constituye documentación veraz, fidedigna e íntegra.
 
+El Departamento de Acción Social podrá solicitar a las instituciones postulantes, mediante correo electrónico, la aclaración de ciertos puntos del Formulario de Postulación, que requieran mayor especificidad o de aquellos cuya simple lectura genera dudas, y la aclaración, corrección y/o presentación de los documentos indicados en el número 10 de la sección B. EJECUCIÓN DEL PROGRAMA DE PROMOCIÓN Y ASISTENCIA SOCIAL PARA INMIGRANTES EN SITUACIÓN DE VULNERABILIDAD, contenida dentro del apartado 6.6. FORMULARIO DE POSTULACIÓN.
+
+La información requerida, deberá ser remitida por las instituciones dentro del plazo de 5 días hábiles, contados desde aquel en que se hubiere efectuado la solicitud.
+
 Es de exclusiva responsabilidad de la entidad postulante, que el correo electrónico ingresado en el formulario de postulación sea válido y revisado periódicamente, ya que a través de él se realizará la única comunicación formal entre el DAS y las organizaciones postulantes.
 
 6.3. Monto del Proyecto
@@ -187,6 +191,8 @@ Se dispone de un monto total de $200.000.000.
 Las instituciones postulantes pueden presentar proyectos de implementación del Programa por montos que van desde los $5.000.000.- hasta los $20.000.000.
 
 El DAS se reserva el derecho a modificar los montos de las iniciativas presentadas con la finalidad de propender a la participación de actores que se desempeñan en distintos territorios o bien, en consideración a la capacidad técnica y de ejecución, que demuestren las entidades postulantes al presentar el proyecto, respetando en todo caso, los montos mínimos y máximos indicados en el párrafo anterior.
+
+La Subsecretaría del Interior, se encuentra facultada para celebrar nuevos convenios de colaboración para la implementación del Programa de Promoción y Asistencia Social de Inmigrantes en situación de vulnerabilidad año 2017, con la/s Agencia/s Implementadora/s del Programa indicado en consideración, a la evaluación de la ejecución presupuestaria y gestión institucional realizada por el Departamento de Acción Social, mediante la aplicación del instrumento correspondiente. Los montos de dineros que podrán ser transferidos en virtud de los convenios señalados, irán desde los $2.000.000 a los $20.000.000.
 
 6.4. Plazo de Postulación
 
