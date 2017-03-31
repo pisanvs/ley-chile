@@ -1,6 +1,6 @@
 DETERMINA EL COMPONENTE VARIABLE PARA EL CÁLCULO DEL IMPUESTO ESPECÍFICO ESTABLECIDO EN LA LEY 18.502
 
-Núm. 82 exento.- Santiago, 28 de marzo de 2017.
+Núm. 89 exento.- Santiago, 28 de marzo de 2017.
 
 Vistos:
 
