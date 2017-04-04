@@ -322,9 +322,9 @@ G.- La inducción consiste en el proceso formativo que tiene por objeto acompañ
 
 La inducción es un derecho que tendrán todos los docentes que ingresan al ejercicio profesional en un establecimiento educacional subvencionado de conformidad al decreto con fuerza de ley N°2, de 1998, del Ministerio de Educación, o regido por el decreto ley N°3.166, de 1980, siempre y cuando en su respectivo contrato se estipule una jornada semanal de un máximo de 38 horas, por el periodo en que se desarrolle el respectivo proceso de inducción.
 
-Se entenderá por "docente principiante" aquel profesional de la educación que, contando con un título profesional de profesor(a) o educador(a), no haya ejercido la función docente de conformidad al artículo 6° de la presente ley o la haya desempeñado por un lapso inferior a un año o a dos años en caso que haya sido contratado durante el primer año escolar al que se incorporó al establecimiento educacional. Asimismo, para efectos de lo dispuesto en este título, el docente deberá estar contratado para desarrollar funciones de aquellas señaladas en el artículo 6º de esta ley, y no encontrarse inhabilitado para ejercer como docente de acuerdo al artículo 4°.
+Se entenderá por "docente principiante" aquel profesional de la educación que, contando con un título profesional de profesor(a) o educador(a), no haya ejercido la función docente de conformidad al artículo 6° de la presente ley o la haya desempeñado por un lapso inferior a un año o a dos años en caso que no haya realizado la inducción durante el primer año en que se incorporó a un establecimiento educacional. Asimismo, para efectos de lo dispuesto en este título, el docente deberá estar contratado para desarrollar funciones de aquellas señaladas en el artículo 6º de esta ley, y no encontrarse inhabilitado para ejercer como docente de acuerdo al artículo 4°.
 
-El proceso de inducción deberá iniciarse dentro del año escolar en que el profesor ingrese a prestar sus servicios profesionales, tendrá una duración de diez meses y requerirá una dedicación semanal exclusiva de un mínimo de cuatro y un máximo de seis horas. Durante este período el docente principiante será acompañado y apoyado por un docente denominado "mentor".
+El proceso de inducción deberá iniciarse dentro del año escolar en que el profesor ingrese a prestar sus servicios profesionales, o al siguiente en el caso de haber sido contratado con posterioridad al inicio de dicho año escolar, tendrá una duración de diez meses y requerirá una dedicación semanal exclusiva de un mínimo de cuatro y un máximo de seis horas. Durante este período el docente principiante será acompañado y apoyado por un docente denominado "mentor".
 
 El equipo directivo del establecimiento educacional, en conjunto con el mentor, efectuarán recomendaciones respecto del desempeño del docente principiante durante el proceso de inducción, las que serán consideradas en las acciones de apoyo formativo que éste debe recibir, de conformidad con el numeral 1. del inciso cuarto del artículo 12 ter.
 
@@ -380,7 +380,7 @@ N.- Los docentes principiantes, mientras realicen el proceso de inducción, tend
 
 Esta asignación será imponible, tributable, no servirá de base de cálculo de ninguna otra remuneración, y se ajustará en la misma oportunidad y porcentaje en que se reajusten las remuneraciones del sector público.
 
-En el caso de los procesos de inducción desarrollados de conformidad al artículo 18 H, el Ministerio transferirá estos recursos al sostenedor de acuerdo a lo señalado en el artículo 18 K. Por su parte, en los procesos de inducción administrados por el Centro, éste transferirá dicha suma directamente al docente principiante.
+En el caso de los procesos de inducción desarrollados de conformidad al artículo 18 H, el Ministerio transferirá estos recursos al sostenedor de acuerdo a lo señalado en el artículo 18 K. Por su parte, en los procesos de inducción administrados por el Centro, éste transferirá dicha suma, a través del sostenedor al docente principiante.
 
 #### Artículo 18
 
@@ -601,6 +601,10 @@ Asimismo, la Subsecretaría de Educación, a través del Centro, dictará la res
 F.- Los profesionales de la educación que hayan accedido a los tramos profesionales temprano y avanzado, y a los tramos experto I y II, no retrocederán a tramos anteriores de su desarrollo profesional docente, independientemente del tipo de establecimiento educacional donde se desempeñen o la actividad que desarrollen.
 
 Sin perjuicio de lo establecido en el inciso anterior, los profesionales de la educación que, habiendo accedido a un tramo, sean posteriormente contratados por un empleador cuyos docentes no se rijan por las disposiciones del presente Título, quedarán sujetos a las normas laborales que regulen a dichos profesionales.
+
+No obstante lo señalado en el inciso primero, los profesionales de la educación que, teniendo cuatro o más años de ejercicio docente, se incorporen a un establecimiento educacional cuyos docentes se rijan por lo prescrito en este Título, y no puedan ser asignados a ningún tramo de acuerdo a lo establecido en el Párrafo II, ingresarán a un tramo profesional transitorio denominado "de acceso" al Sistema de Desarrollo Docente, y percibirán la remuneración que corresponde a un docente asignado al tramo inicial.
+
+Dichos profesionales accederán al tramo que corresponda de acuerdo a sus resultados y la experiencia acreditada, una vez rendidos los instrumentos para el proceso de reconocimiento profesional respectivo, en los plazos que corresponda de conformidad a lo establecido en el Título III de la presente ley.
 
 ### Párrafo II
 
@@ -1244,7 +1248,9 @@ La Asignación de Reconocimiento por Docencia en Establecimientos de Alta Concen
 
 Para estos efectos se entenderá por establecimiento educacional de alta concentración de alumnos prioritarios, aquellos que tengan, al menos, un 60% de concentración de alumnos prioritarios de acuerdo a la ley N°20.248.
 
-En caso de que el beneficiario se encuentre en el tramo profesional inicial o temprano solo podrá percibirla, por una vez, hasta por el término de cuatro años desde su primer reconocimiento en cualquiera de dichos tramos.
+En escuelas o liceos cárceles se entenderá, sólo para efectos de determinar el derecho a percibir la asignación señalada en el inciso primero, que la concentración de alumnos prioritarios es igual al 60%.
+
+En caso de que el beneficiario se encuentre en el tramo profesional inicial o temprano solo podrá percibirla hasta por el término de cuatro años desde que nace su derecho a hacerla exigible, en cualquiera de dichos tramos.
 
 En aquellos establecimientos educacionales con una concentración de alumnos prioritarios igual o superior al 80%, los profesionales de la educación que se encuentren en los tramos profesional avanzado, experto I y experto II, recibirán por concepto de esta asignación un monto fijo mensual adicional de $60.000.-, para un contrato de 44 horas cronológicas semanales. Para aquellos profesionales de la educación que tengan una designación o contrato inferior a 44 horas cronológicas semanales, este monto se pagará proporcionalmente a las horas establecidas en las respectivas designaciones o contratos. Esta suma se reajustará en la misma proporción y oportunidad que el monto fijo señalado en el inciso primero.
 
@@ -1336,7 +1342,7 @@ La Asignación por Tramo de Desarrollo Profesional será de cargo del sostenedor
 
 La Bonificación de Reconocimiento Profesional se otorgará de acuerdo al procedimiento establecido en la ley N°20.158 y se financiará de acuerdo a las siguientes reglas:
 
-a) Se financiará con la subvención de escolaridad del artículo 9° del decreto con fuerza de ley N°2, de 1998, del Ministerio de Educación, el monto de $31.238.- para los profesionales de la educación con una jornada de 30 o más horas y en proporción a sus horas de trabajo para los demás profesionales beneficiarios de esta bonificación.
+a) Se financiará con la subvención de escolaridad del artículo 9° del decreto con fuerza de ley N°2, de 1998, del Ministerio de Educación, el monto de $32.519.- para los profesionales de la educación con una jornada de 30 o más horas y en proporción a sus horas de trabajo para los demás profesionales beneficiarios de esta bonificación.
 
 b) La diferencia entre los montos establecidos en el artículo 54 y la letra anterior se financiará por el Ministerio de Educación a través de una transferencia directa.
 

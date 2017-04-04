@@ -42,7 +42,7 @@ a. Jefes de División e Intendente de Educación Parvularia.
 
 Contar con:
 
-Título profesional de una carrera de, a lo menos, 10 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocido por este o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a seis años en el sector público o privado. En el caso de poseer el grado académico de Magíster o Doctor los años de experiencia requeridos serán, a lo menos, de cinco años.
+Título profesional de una carrera de, a lo menos, 8 semestres de duración, otorgado por una universidad o instituto profesional del Estado o reconocido por este o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a seis años en el sector público o privado. En el caso de poseer el grado académico de Magíster o Doctor los años de experiencia requeridos serán, a lo menos, de cinco años.
 
 b. Fiscal.
 

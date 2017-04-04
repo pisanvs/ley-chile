@@ -12,7 +12,7 @@ Otórgase, por una sola vez, una bonificación por retiro voluntario al personal
 
 La bonificación por retiro voluntario será de cargo del empleador y ascenderá a un mes de remuneración imponible por cada año de servicio prestado en las entidades mencionadas en el inciso anterior, con un máximo de once meses.
 
-La remuneración que servirá de base para el cálculo de la bonificación por retiro voluntario será el promedio de remuneraciones mensuales imponibles que le haya correspondido al trabajador durante los doce meses inmediatamente anteriores al retiro, actualizadas según el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas.
+La remuneración que servirá de base para el cálculo de la bonificación por retiro voluntario será el promedio de remuneraciones mensuales imponibles que le haya correspondido al trabajador durante los doce meses inmediatamente anteriores a la fecha de presentación de la carta de renuncia, actualizadas según el Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas.
 
 #### Artículo 2º
 
@@ -110,7 +110,7 @@ Entre 15 y 19 135
 
 35 o más 560
 
-El valor de la unidad de fomento que se considerará para el cálculo del beneficio será el vigente al último día del mes anterior al del término de la relación laboral.
+El valor de la unidad de fomento que se considerará para el cálculo del beneficio será el vigente al último día del mes anterior al de la presentación de la carta de renuncia.
 
 El monto de la bonificación adicional por antigüedad fijado en este artículo corresponde a una jornada semanal de 45 ó 44 horas semanales, según el régimen al cual esté afecto el trabajador. Si la jornada fuere inferior a lo indicado, se calculará en forma proporcional a la que esté contratado. Si la jornada fuere mayor, o se desempeña en más de un establecimiento siendo la suma de las jornadas superior a dicho máximo, sólo tendrá derecho a la bonificación adicional correspondiente a las referidas 45 ó 44 horas semanales, según su antigüedad.
 

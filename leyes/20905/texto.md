@@ -16,7 +16,7 @@ En este caso no procederá el recurso de reposición establecido en el artículo
 
 #### Artículo 2°
 
-Se entenderán extinguidas, aún en el caso que se haya declarado su incumplimiento por acto administrativo, las obligaciones de los becarios cumplidas fuera de los plazos dispuestos para tales efectos, antes de la entrada en vigencia de la presente ley, y que tengan su origen en una de las siguientes normas:
+Se entenderán extinguidas, aún en el caso que se haya declarado su incumplimiento por acto administrativo, las obligaciones de los becarios cumplidas fuera de los plazos dispuestos para tales efectos, siempre que sean cumplidas antes del 29 de diciembre de 2017, y que tengan su origen en una de las siguientes normas:
 
 a) Becas reguladas por el artículo 27 de la ley N°19.595.
 
@@ -30,11 +30,13 @@ e) Decreto supremo N°335, de 2010, del Ministerio de Educación, y sus modifica
 
 f) Decreto supremo N°664, de 2008, del Ministerio de Educación, y sus modificaciones.
 
-Lo señalado en el inciso anterior deberá ser declarado mediante acto administrativo y habilitará a dichos becarios para postular a nuevos concursos de CONICYT y ser beneficiarios cuando corresponda.
+Lo señalado en el inciso anterior deberá ser declarado mediante acto administrativo. La acreditación del cumplimiento de las obligaciones se podrá realizar hasta el 29 de diciembre de 2017, bastando sólo una copia simple de la documentación o mediante información que acredite dicho cumplimiento que sea otorgada por las respectivas instituciones públicas o privadas.
 
-Para los efectos de lo señalado en el inciso primero, la acreditación del cumplimiento de obligaciones se podrá realizar hasta el 30 de diciembre de 2016.
+Para el cumplimiento de las obligaciones impuestas para el otorgamiento de las becas nacionales de posgrado de la Comisión Nacional de Investigación Científica y Tecnológica (CONICYT), para la realización de estudios o investigación en Chile, conferidas en virtud de la facultad establecida en el artículo 6 del decreto supremo Nº 491, de 1971, del Ministerio de Educación Pública, aun en el caso que se haya declarado su incumplimiento por acto administrativo, los beneficiarios de dichas becas tendrán el plazo establecido en los numerales vii y viii del artículo 14 del decreto supremo Nº 335, de 2010, del Ministerio de Educación, y sus modificaciones.
 
 Los adjudicatarios de becas reguladas por el decreto supremo N°335, de 2010, del Ministerio de Educación, y sus modificaciones, en convocatorias anteriores al 25 de septiembre de 2015, tendrán el plazo establecido en los numerales vii y viii del artículo 14 del mismo decreto para acreditar el cumplimiento de todas las obligaciones derivadas de este beneficio.
+
+Para acreditar el cumplimiento de las obligaciones de todas las becas administradas por CONICYT, se facultará a dicha Comisión para solicitar, tanto a los becarios como a las instituciones públicas o privadas, copia simple de la documentación.
 
 #### Artículo 3°
 
