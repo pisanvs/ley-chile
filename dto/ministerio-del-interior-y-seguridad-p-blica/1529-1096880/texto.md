@@ -22,7 +22,7 @@ Acéptase, a contar de 26 de octubre de 2016, la renuncia presentada por don Mar
 
 #### Artículo segundo
 
-Nómbrase desde el 26 de octubre de 2016, a don Antonio Esteban Leiva Rabael, RUT 13.096.398-6, abogado, Jefe de División Jurídica del Senda, en calidad de subrogante en el cargo de Director Nacional del Servicio Nacional para la Prevención y Rehabilitación del Consumo de Drogas y Alcohol.
+Derogado
 
 #### Artículo tercero
 
