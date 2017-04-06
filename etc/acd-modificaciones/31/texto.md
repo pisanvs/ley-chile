@@ -128,9 +128,17 @@ c. Los resguardos adoptados por el Fondo y la Administradora para proteger a los
 
 d. La idoneidad y experiencia de la administración y propiedad de la Administradora en los tipos específicos de negocios que lleva a cabo el Fondo, así como los recursos que dispone para este efecto.
 
-e. El cumplimiento de los requisitos establecidos en los artículos 3, 4 y 5 de este Acuerdo.
+e. La estructura, políticas y procesos del gobierno corporativo para resguardar apropiadamente los intereses del Fondo y de sus partícipes.
 
-f. La política y procedimientos de valoración de las inversiones establecidas por la Administradora, sea adecuada y cumpla con la normativa vigente, y que a través de ellas se refleje razonablemente el valor de las inversiones.
+f. La separación funcional e independencia en la realización de tareas, establecida por la Administradora con el fin de gestionar los riesgos, vigilar y salvaguardar las inversiones del Fondo, y prevenir, manejar y resolver potenciales conflictos de interés.
+
+g. La suficiencia e idoneidad de la estructura de gestión de riesgos y control interno de la Administradora, de la implementación formal de políticas y procedimientos al respecto, y de la realización de estas funciones.
+
+h. La fortaleza y suficiencia de su plataforma de operaciones en relación al tamaño y la complejidad de los activos administrados.
+
+i. El cumplimiento de los requisitos establecidos en los artículos 3, 4 y 5 de este Acuerdo.
+
+j. La política y procedimientos de valoración de las inversiones establecidas por la Administradora, sea adecuada y cumpla con la normativa vigente, y que a través de ellas se refleje razonablemente el valor de las inversiones.
 
 3.- Características del Fondo
 
