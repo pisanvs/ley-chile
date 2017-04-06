@@ -66,13 +66,13 @@ l) Nivel de Presión Sonora Máximo (NPSmáx):
 
 Es el NPS, medido en respuesta temporal "Fast" y filtro de ponderación de frecuencias "A", más alto registrado durante el período de medición.
 
-m) Derogado.
+m) Ralentí: Velocidad de rotación, expresada en revoluciones por minuto (rpm), a la que gira un motor cuando funciona sin aceleración y en vacío (con su transmisión desconectada).
 
-n) Derogado.
+n) Ruido de Fondo: Es aquel que prevalece en ausencia del ruido generado por el vehículo a ensayar.
 
-ñ) Derogado.
+ñ) Ruido Ocasional: es aquel ruido, no habitual en el ruido de fondo, que influye en forma directa en las mediciones durante el tiempo de muestreo de éstas.
 
-o) Derogado.
+o) Velocidad gobernada: velocidad de rotación máxima, expresada en revoluciones por minuto (rpm), que puede desarrollar un motor, especificada por el fabricante y controlada por un gobernador de velocidad.
 
 ## Título II
 
@@ -226,51 +226,185 @@ Los procedimientos de medición que se apliquen para el ensayo dinámico y estac
 
 ## Título IV
 
-Procedimientos de Medición Derogado.-
+Procedimientos de Medición
 
-#### Artículo 8°
+#### Artículo 8º
 
-Derogado.
+El instrumental para realizar las mediciones deberá tener las siguientes características:
 
-#### Artículo 9°
+a) Rango de medición mínimo de 50 a 110 dB;
 
-Derogado.
+b) Con filtro de ponderación de frecuencias "A";
 
-#### Artículo 10°
+c) Respuesta temporal "Fast";
 
-Derogado.
+d) Que cumpla con el Tipo 1 de la Norma Chilena NCh2500, equivalente a la norma IEC 60651, acreditado mediante certificado vigente.
 
-#### Artículo 11°
+#### Artículo 9º
 
-Derogado.
+La calibración del instrumental deberá realizarse mediante un calibrador acústico que cumpla con la Clase 1 según la norma IEC 60942, acreditado mediante certificado vigente.
 
-#### Artículo 12°
+#### Artículo 10
 
-Derogado.
+El ensayo estacionario se realizará bajo las siguientes condiciones:
 
-#### Artículo 13°
+1. Condiciones Climáticas.
 
-Derogado.
+Ausencia de precipitaciones y velocidad de viento inferior a 5 m/s, medida con un anemómetro que mida la velocidad horizontal del viento con una resolución de 0,1 m/s.
 
-#### Artículo 14°
+2. Ruido de Fondo.
 
-Derogado.
+a) Se deberá medir el nivel de presión sonora del ruido de fondo en las mismas posiciones en que se medirán los niveles de emisión de ruido de los buses.
 
-#### Artículo 15°
+b) Para la obtención del nivel de presión sonora del ruido de fondo, se medirá NPSmáx durante un minuto, registrando el valor más alto en el periodo.
 
-Derogado.
+c) Se deberá repetir la medición que haya sido realizada en presencia de algún ruido ocasional.
 
-#### Artículo 16°
+d) El nivel de presión sonora del ruido de fondo deberá ser al menos 10 dB inferior a los valores medidos.
 
-Derogado.
+3. Vehículo a ensayar.
 
-#### Artículo 17°
+a) Vehículo en condiciones de operación a temperatura normal de funcionamiento, con todos sus equipos auxiliares (alternador, compresor, ventilador, etc.) conectados y funcionando, sin pasajeros, con ventanas y puertas cerradas.
 
-Derogado.
+b) Vehículo estacionado sobre una superficie pavimentada, a una distancia de a lo menos 3 metros de cualquier otro vehículo, persona, objeto o edificio, excluyendo el instrumento de medición, el operador y el conductor.
 
-#### Artículo 18°
+4. Instrumental.
 
-Derogado.
+a) La medición se realizará utilizando sonómetros, seleccionando la respuesta temporal Fast y filtro de ponderación de frecuencias A.
+
+b) Calibración al inicio y verificación de ésta al término del ensayo, tal que exista una diferencia inferior a 0.5 dB con respecto al valor de referencia de calibración.
+
+c) Uso de una pantalla antiviento, apropiada según el fabricante del sonómetro.
+
+d) En el caso de disponer de un único sonómetro, las mediciones tendrán que realizarse en cada una de las tres posiciones de medición por separado.
+
+5. Posiciones del micrófono.
+
+a) El micrófono del sonómetro para medición del nivel de emisión de ruido de escape (Sonómetro 1) deberá localizarse a una altura sobre el suelo igual a la del orificio de salida de gases de escape, a una distancia de 0,5 m del mismo, para tubos horizontales (Figura 1) y 0,5 m de la carrocería más próxima al tubo, para tubos verticales (Figura 2). Este micrófono deberá estar orientado hacia dicho orificio y a 45° del flujo de gases para tubos de salida horizontal, y orientado verticalmente para tubos de salida vertical.
+
+b) El micrófono del sonómetro para medición del nivel de emisión de ruido del motor (Sonómetro 2) deberá localizarse a una altura sobre el suelo igual a 0,5 m y a una distancia de 0,5 m del costado derecho de la carrocería, frente al eje trasero para buses con motor trasero, frente al eje delantero para buses con motor delantero y frente al punto intermedio para buses con motor intermedio (en la Figura 1 se muestra el caso para eje trasero).
+
+c) El micrófono del sonómetro para medición del nivel de emisión de ruido interior estacionario (Sonómetro 3) deberá localizarse a una altura de 1,2 m sobre el piso interior del bus, en el eje longitudinal del mismo y equidistante de ambos extremos (Figura 1).
+
+Figura 1.- Diagrama del ensayo estacionario (caso
+
+vehículo con tubo de escape horizontal).
+
+VER DIARIO OFICIAL DE 07.02.2003, PAGINA 7
+
+Figura 2.- Diagrama del ensayo estacionario (caso
+
+vehículo con tubo de escape vertical).
+
+VER DIARIO OFICIAL DE 07.02.2003, PAGINA 7
+
+#### Artículo 11
+
+El ensayo estacionario se efectuará acelerando gradualmente desde el ralentí hasta una velocidad igual a la velocidad gobernada. Se mantendrá dicha velocidad por al menos 2 segundos, para luego liberar el pedal rápidamente de modo que el motor pierda aceleración hasta llegar a ralentí.
+
+#### Artículo 12
+
+Se registrará manual o automáticamente el valor del NPSmáx expresado en dB(A) observado en cada uno de los sonómetros durante los períodos de mantención de la velocidad indicada y posterior desaceleración.
+
+#### Artículo 13
+
+El procedimiento dispuesto en los artículos 11º y 12º se repetirá, por un mínimo de tres veces y un máximo de cinco veces, hasta obtener tres valores consecutivos de cada sonómetro que no difieran entre sí, respectivamente, en más de 2 dB(A). Las medias aritméticas de dichos tres valores para el sonómetro 1 constituirán los Niveles de Emisión de Ruido de Escape, para velocidad gobernada. Las medias aritméticas de dichos tres valores para el sonómetro 2 constituirán los Niveles de Emisión de Ruido de Motor, para velocidad gobernada. Las medias aritméticas de dichos tres valores para el sonómetro 3 constituirán los Niveles de Emisión de Ruido Interior Estacionario, para velocidad gobernada. En caso de no encontrarse tres valores consecutivos que no difieran entre sí, respectivamente, en más de 2 dB(A), dentro de los cinco valores medidos, se tomará la media aritmética de los tres valores más altos.
+
+#### Artículo 14
+
+El ensayo dinámico se realizará bajo las siguientes condiciones:
+
+1. Condiciones climáticas.
+
+Ausencia de precipitaciones y velocidad de viento inferior a 5 m/s, medida con un anemómetro que mida la velocidad horizontal del viento con una resolución de 0,1 m/s.
+
+2. Ruido de Fondo.
+
+a) Se deberá medir el nivel de presión sonora del ruido de fondo en las mismas posiciones en que se medirán los niveles de emisión de ruido de los buses.
+
+b) Para la obtención del nivel de presión sonora del ruido de fondo, se medirá NPSmáx durante un minuto, registrando el valor más alto en el período.
+
+c) Se deberá repetir la medición que haya sido realizada en presencia de algún ruido ocasional.
+
+d) El nivel de presión sonora del ruido de fondo deberá ser al menos 15 dB inferior a los valores medidos.
+
+3. Lugar de ensayo.
+
+Pista de prueba pavimentada y horizontal, simétrica con respecto al eje de circulación, de ancho superior a 3 m entre 20 m antes y 20 m después del punto central y ancho superior a 20 m entre 10 m antes y 10 m después de punto central (Figura 3). Debe estar seca y libre de polvo, nieve u otro elemento que absorba o genere sonido. El punto central será el punto de la pista de prueba ubicado en el eje de dicha pista, tal que en un radio de 10 m se encuentra pavimentada y en un radio de 50 m se encuentra libre de obstáculos tales como muros, edificios, rocas u otros.
+
+4. Vehículo a ensayar. Se cumplirá con lo señalado en el artículo 10 Nº 3 letra a) de este decreto.
+
+5. Instrumental.
+
+a) La medición se realizará utilizando sonómetros, seleccionando la respuesta temporal Fast y filtro de ponderación de frecuencia A.
+
+b) Calibración al inicio y verificación de ésta al término del ensayo, tal que exista una diferencia inferior a 0.5 dB con respecto al valor de referencia de calibración.
+
+c) Uso de una pantalla antiviento, apropiada según el fabricante del sonómetro.
+
+d) En el caso de disponer de un único sonómetro, las mediciones tendrán que realizarse en cada una de las tres posiciones de medición por separado.
+
+6. Posiciones del micrófono.
+
+a) El micrófono de los sonómetros para medición de nivel de emisión de ruido exterior (Sonómetros 1 y 2) deberá estar ubicado a 1,20 metros de altura sobre el pavimento ± 0,02 m, a 7,5 m ± 0,05 m a cada lado del eje, frente al punto central, orientados horizontalmente hacia el punto central (Figura 3).
+
+b) El micrófono del sonómetro para medición de nivel de emisión de ruido interior dinámico (Sonómetro 3) deberá estar ubicado al interior del bus, a 1,20 m sobre el piso, en el eje longitudinal del mismo y equidistante de ambos extremos.
+
+Figura 3.- Diagrama de la pista de prueba y del ensayo
+
+dinámico.
+
+VER DIARIO OFICIAL DE 07.02.2003, PAGINA 8
+
+#### Artículo 15
+
+El ensayo dinámico se efectuará conduciendo el vehículo a lo largo del eje de la pista de prueba, utilizando el combustible, los neumáticos y la presión de inflado especificados por el fabricante. En caso de transmisión automática se utilizará la marcha señalada por el fabricante para conducción normal. En caso de transmisión manual, se utilizará la marcha señalada en la tabla siguiente, de acuerdo a la potencia del motor especificada por el fabricante. En caso que el vehículo no alcance la velocidad de ensayo en la marcha seleccionada según la tabla siguiente, el ensayo se realizará en la marcha inmediatamente superior o en aquella en que se alcance la velocidad de ensayo.
+
+Número de Buses de menos Buses de más
+
+marchas
+
+totales de 225 kW de 225 kW
+
+(301.6 hp) (301.6 hp)
+
+4 2ª marcha 2ª marcha
+
+5 3ª marcha 2ª marcha
+
+6 3ª marcha 2ª marcha
+
+7 4ª marcha 3ª marcha
+
+8 4ª marcha 3ª marcha
+
+9 5ª marcha 3ª marcha
+
+10 5ª marcha 4ª marcha
+
+11 6ª marcha 4ª marcha
+
+12 6ª marcha 4ª marcha.
+
+#### Artículo 16
+
+El vehículo se conducirá a velocidad uniforme de modo que el frente del vehículo alcance un punto ubicado 10 m antes del punto central, a una velocidad constante que corresponda a la menor de las velocidades siguientes con una tolerancia de ± 1 km/h:
+
+a) 50 km/h;
+
+b) La velocidad del vehículo que corresponda a las tres cuartas partes de la velocidad de potencia máxima de régimen del motor para una potencia del motor no mayor que 225 kW;
+
+c) La velocidad del vehículo que corresponda a la mitad de la velocidad de potencia máxima de régimen del motor para una potencia del motor mayor que 225 kW.
+
+En dicho punto se acelerará a fondo o se mantendrá hasta que la totalidad del vehículo sobrepase un punto ubicado 10 m después del punto central.
+
+#### Artículo 17
+
+Se registrarán manual o automáticamente los valores del NPSmáx expresado en dB(A) observados en cada uno de los tres sonómetros durante los períodos de paso del vehículo. Se descartarán aquellos valores obtenidos en condiciones de prueba en la cual hayan ocurrido ruidos que afecten el transcurso normal de la medición, ajenos a la fuente a medir y al ruido de fondo.
+
+#### Artículo 18
+
+El procedimiento dispuesto en los artículos 16 y 17 se repetirá hasta obtener cuatro valores consecutivos en cada uno de los sonómetros 1 y 2. Estos valores consecutivos no deberán diferenciarse en más de 2 dB(A), entre sí, para cada sonómetro. Se calcularán los promedios aritméticos de los cuatro valores válidos, independientemente para cada uno de los tres sonómetros. El mayor entre los promedios del sonómetro 1 y del sonómetro 2 constituirá el Nivel de Emisión de Ruido Exterior. El promedio del sonómetro 3 constituirá el Nivel de Emisión de Ruido Interior Dinámico.
 
 ## Título VI
 
