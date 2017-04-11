@@ -80,6 +80,30 @@ dosis o concentración
 
 utilizada.
 
+Jatrofa India El envío ha sido tratado
+
+(Jatropha (especificar el tratamiento
+
+curcas) en sección III del
+
+Certificado Fitosanitario)
+
+para el control de
+
+Colletotrichum capsici o,
+
+bien, el envío procede de un
+
+semillero inspeccionado
+
+durante el período de
+
+crecimiento activo y
+
+encontrado libre de
+
+Colletotrichum capsici.
+
 Jatrofa Paraguay Sin declaraciones adicionales
 
 (Jatropha
