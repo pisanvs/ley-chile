@@ -26,7 +26,7 @@ Nómbrase a las siguientes personas como integrantes del Comité de Inversiones 
 
 i. Aurora Williams Baussa, Ministra de Minería, cédula nacional de identidad Nº 8.023.134-2. En caso de ausencia o impedimento será representada por Jorge Anís Chocair Santibáñez, cédula nacional de identidad Nº 4.180.961-2
 
-ii. Máximo Pacheco Matte, Ministro de Energía, cedula nacional de identidad Nº 6.371.887-4. En caso de ausencia o impedimento será representado por Jimena Jara Quilodrán, Subsecretaria de Minería, cédula nacional de identidad Nº 12.325.879-7.
+ii. Andrés Rebolledo Smitmans, Ministro de Energía, cédula nacional de identidad Nº 8.127.608-0. En caso de ausencia o impedimento será representado por Jimena Jara Quilodrán, Subsecretaria de Minería, cédula nacional de identidad Nº 12.325.879-7.
 
 iii. Carlos Furche Guajardo, Ministro de Agricultura, cédula nacional de identidad Nº 6.039.991-3. En caso de ausencia o impedimento será representado por Max Sanhueza Riquelme, cédula nacional de identidad Nº 9.783.039-8.
 
