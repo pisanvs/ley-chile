@@ -20,7 +20,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 25 de noviembre de 2016 y hasta el 17 de marzo de 2017, por aquellas vías de la comuna de Maipú descritas en el siguiente cuadro:
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 25 de noviembre de 2016 y hasta el 19 de mayo de 2017, por aquellas vías de la comuna de Maipú descritas en el siguiente cuadro:
 
 2.- Establécese como medida de gestión de tránsito, en forma excepcional, en el mismo período anterior, que las pistas y calzadas que se indican a continuación, según sus sentidos de tránsito habitual, sean destinadas como vía exclusiva para el uso de buses de transporte público urbano de pasajeros, de la forma que se indica en el cuadro siguiente:
 
