@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 28 de octubre de 2016 hasta el 20 de marzo de 2017, por las pistas y calzadas de aquellas vías de la comuna de Maipú indicadas en el siguiente cuadro:
+1. Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 28 de octubre de 2016 hasta el 19 de mayo de 2017, por las pistas y calzadas de aquellas vías de la comuna de Maipú indicadas en el siguiente cuadro:
 
 .
 
