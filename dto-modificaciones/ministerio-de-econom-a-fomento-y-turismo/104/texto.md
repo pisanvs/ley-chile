@@ -152,7 +152,7 @@ b) Elimínase el inciso 2º.
 
 Para los efectos del presente reglamento, las embarcaciones artesanales con inscripción vigente en el Registro Artesanal a la fecha de publicación del presente decreto en el Diario Oficial, se clasificarán sólo de acuerdo a su eslora y arte de pesca en alguna de las clases a las que se refiere el numeral 1. del artículo anterior.
 
-En caso que las embarcaciones a que se refiere el inciso anterior, tengan una capacidad de bodega superior a la de su clase de acuerdo a su eslora, se considerará ésta para efectos de su sustitución, con independencia de la capacidad de bodega máxima que corresponda dentro de la clase que haya quedado clasificada de conformidad con su eslora.
+En caso que las embarcaciones a que se refiere el inciso anterior, tengan una capacidad de bodega superior a la de su clase de acuerdo a su eslora, se considerará ésta para efectos de su sustitución, con independencia de la capacidad de bodega máxima que corresponda dentro de la clase que haya quedado clasificada de conformidad con su eslora. Sin perjuicio de lo anterior, en aquellos casos de siniestro de una embarcación artesanal debidamente acreditado ante la Autoridad Marítima que constituya fuerza mayor o caso fortuito y que implique dar de baja la citada embarcación en el Registro de Naves que lleva dicho organismo, la embarcación sustituta podrá mantener la misma capacidad de bodega que tenía la embarcación sustituida.
 
 Anótese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Pablo Longueira Montes, Ministro de Economía, Fomento y Turismo.
 
