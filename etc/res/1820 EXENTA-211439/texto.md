@@ -872,6 +872,10 @@ transitorio: Las postulaciones válidamente ingresadas al 25º Llamado del Progr
 
 Transitorio: Durante el año 2016 la fecha de cierre en los Servicios de Vivienda y Urbanización para recepción de postulaciones que participan del proceso de selección de proyectos para su visación técnica será el día 21 octubre, y la fecha de cierre para recepción de postulaciones en las Secretaría Regionales Ministeriales de Vivienda y Urbanismo será el día 7 de diciembre.
 
+#### Artículo 15°
+
+transitorio: Las postulaciones realizadas en la comuna de Valparaíso, Región de Valparaíso, en provincias de Colchagua y Cardenal Caro de la Región de O'Higgins, y en las regiones del Maule, Biobío y La Araucanía, que participen y resulten seleccionadas en el 26° Proceso de Selección de Proyectos que realiza la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo, quedan exentas de realizar aportes complementarios por obras anexas, imprescindibles para la construcción de las obras de pavimentación que incluyen sus respectivos proyectos, aprobados por el correspondiente Servicio de Vivienda y Urbanización, en consideración a los decretos que señalan a la comuna de Valparaíso, provincias de Colchagua y Cardenal Caro, a todas las comunas de la Región del Maule y a las regiones del Biobío y de La Araucanía, como zona afectada por catástrofe.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
