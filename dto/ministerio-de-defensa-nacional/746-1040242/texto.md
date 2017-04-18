@@ -32,7 +32,7 @@ Disposiciones generales
 
 Objeto. El presente Reglamento regula los Registros Especiales de Proveedores que deben mantener las instituciones y organismos del sector defensa señalados en el artículo siguiente y fija los requisitos que deberán cumplir las empresas interesadas en incorporarse en estos Registros.
 
-ºLa incorporación previa en el Registro será una condición necesaria para la participación en todo procedimiento de adquisición de bienes y contratación de servicios, con independencia de la forma en que éste se lleve a efecto. En aquellos casos en que la inversión tuviere carácter secreta en conformidad a la Ley, la institución u organismo contratante deberá hacer presente dicha condición al proveedor, quien quedará imposibilitado de informar acerca de dicho negocio jurídico.
+La incorporación previa en el Registro será una condición necesaria para la participación en todo procedimiento de adquisición de bienes y contratación de servicios, con independencia de la forma en que éste se lleve a efecto. En aquellos casos en que la inversión tuviere carácter secreta en conformidad a la Ley, la institución u organismo contratante deberá hacer presente dicha condición al proveedor, quien quedará sometido a la prohibición de informar acerca de dicho negocio jurídico.
 
 El presente Reglamento no será aplicable a las adquisiciones y contrataciones regidas por la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, ni a las adquisiciones y contrataciones desarrolladas con otros órganos de la Administración del Estado, con otros Estados o con organizaciones internacionales. Asimismo, se exceptúan de la aplicación del presente Reglamento las contrataciones a honorarios que se celebren con personas naturales para que presten servicios a las instituciones y organismos del sector defensa.
 
@@ -190,9 +190,9 @@ presentación de la solicitud de inscripción al
 
 Registro, otorgada por el representante de la
 
-persona jurídica, de que no incurre en alguna de
+persona jurídica, de que ésta no incurre en alguna
 
-las inhabilidades señaladas en el artículo 17°.
+de las inhabilidades señaladas en el artículo 17°.
 
 9. Declaración jurada ante notario público otorgada
 
@@ -298,11 +298,11 @@ Antecedentes requeridos para potenciales proveedores extranjeros. Los potenciale
 
 a) Copia de poder especial otorgado bajo las formalidades del país en que se encuentra radicado el potencial proveedor, donde conste la personería del mandatario o representante.
 
-b) Antecedentes legales otorgados con las formalidades del país respectivo, que acrediten que el potencial proveedor se encuentra legalmente constituido e inscrito en el registro de comercio de su país de origen, cuando corresponda, y den cuenta de la facultad de representación de las personas que celebrarán los respectivos contratos por parte del potencial proveedor.
+b) Antecedentes legales otorgados con las formalidades del país respectivo, que acrediten que el potencial proveedor se encuentra legalmente constituido e inscrito en los respectivos registros de su país de origen, cuando corresponda, y den cuenta de la facultad de representación de las personas que celebrarán los respectivos contratos por parte del potencial proveedor.
 
 c) Nómina con identificación de las personas naturales o jurídicas que tienen la representación del potencial proveedor en Chile, y de aquellas personas que sean socios, dueños, gerentes, administradores, representantes, directores o ejecutivos de quienes tienen la representación del potencial proveedor en Chile.
 
-d) Declaración jurada ante notario público o cónsul chileno, otorgada por el representante del potencial proveedor, de que no incurre en alguna de las inhabilidades señaladas en el artículo 17°.
+d) Declaración jurada ante notario público o cónsul chileno, otorgada por el representante del potencial proveedor, de que este no incurre en alguna de las inhabilidades señaladas en el artículo 17°.
 
 e) Declaración jurada ante notario público o cónsul chileno, otorgada por el representante del potencial proveedor o certificado de la institución respectiva, en que se indiquen los registros de proveedores de bienes y servicios o sus equivalentes en que se encuentra inscrito en Chile, si corresponde, señalando la circunstancia de encontrarse habilitado o suspendido de dichos registros.
 
@@ -326,7 +326,7 @@ Ficha de antecedentes. La Subsecretaría para las Fuerzas Armadas elaborará una
 
 #### Artículo 16º
 
-Obligación de actualización de antecedentes. Los proveedores deberán mantener sus antecedentes actualizados. En caso de ocurrir alguna modificación a los antecedentes aportados al Registro, éstos deberán ser actualizados en un plazo no superior a 30 días.
+Obligación de actualización de antecedentes. Los proveedores deberán mantener sus antecedentes actualizados. En caso de ocurrir alguna modificación a los antecedentes aportados al Registro, éstos deberán ser actualizados y el proveedor deberá dar cuenta, especialmente, de cualquier medida judicial o administrativa que le afecte y constituya causal de inhabilidad, suspensión o eliminación de acuerdo a los siguientes artículos en un plazo no superior a 20 días hábiles.
 
 Para estos efectos, los proveedores deberán presentar una solicitud de modificación de antecedentes, adjuntando los documentos de respaldo que correspondan.
 
@@ -338,7 +338,7 @@ Causales de inhabilidad y abstención
 
 Causales de inhabilidad. Los potenciales proveedores, o sus representantes, estarán inhabilitados para inscribirse en los Registros Especiales de Proveedores, cuando se encuentren en alguna de las siguientes circunstancias:
 
-a) Haber sido condenado por cualquiera de los delitos de cohecho contemplados en el Título V del Libro Segundo del Código Penal.
+a) Haber sido condenado, por cualquiera de los delitos contemplados en: el Título IV párrafo 2º, 4º, 5º y 7º; en el Título V párrafos 4º, 5º, 6º, 7º, 8º, 9º y 10º; en el Título VI párrafo 5º, 7º, 8º con excepción de lo dispuesto en el artículo 288 bis, y párrafo 14º; y el Título IX párrafo 7º y 8º del Libro Segundo del Código Penal; el decreto con fuerza de ley Nº 1, de 2004, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 211, de 1973; los delitos sancionados en el Código Tributario; el Código de Justicia Militar; o los delitos contemplados en el decreto con fuerza de ley Nº 30, de 2004, del Ministerio de Hacienda, que Aprueba el Texto Refundido, Coordinado y Sistematizado del decreto con fuerza de ley de Hacienda Nº 213, de 1953, sobre Ordenanza de Aduanas.
 
 b) Registrar una o más deudas tributarias por un monto total superior a 500 unidades tributarias mensuales por más de un año, o superior a 200 unidades tributarias mensuales e inferior a 500 unidades tributarias mensuales por un período superior a dos años, sin que exista un convenio de pago vigente. En caso de encontrarse pendiente juicio sobre la efectividad de la deuda, esta inhabilidad regirá una vez que se encuentre firme o ejecutoriada la respectiva resolución.
 
@@ -346,7 +346,7 @@ c) Registrar deudas previsionales o de salud por más de doce meses por sus trab
 
 d) Haber presentado a los Registros Especiales de Proveedores del sector defensa uno o más documentos declarados falsos.
 
-e) Haber sido declarado en quiebra por resolución judicial ejecutoriada.
+e) Encontrarse sometido a un procedimiento concursal de liquidación a que se refiere la ley Nº 20.720, a un juicio de quiebra o al desasimiento de sus bienes.
 
 f) Haber sido condenado por prácticas antisindicales o infracción a los derechos fundamentales del trabajador.
 
@@ -356,25 +356,27 @@ h) Prestar servicios personales en el organismo o institución a cargo del regis
 
 i) Tener relación de matrimonio, adopción o parentesco hasta el tercer grado de consanguinidad y segundo de afinidad inclusive, con las autoridades, directivos o alto mando del organismo o institución a cargo del registro respectivo. Para efectos de información, el organismo o institución respectiva deberá identificar a las autoridades, directivos o alto mando aludido, mantener esta información actualizada en sus sitios electrónicos y comunicarla a la Subsecretaría para las Fuerzas Armadas, así como informar a ésta cualquier modificación que tuviere lugar.
 
-j) Mantener entre sus socios, en el caso de sociedades de personas; entre sus accionistas, en el caso de sociedades en comandita y sociedades anónimas cerradas; entre sus accionistas dueños de un 10% o más del capital, en el caso de sociedades anónimas abiertas; o entre los gerentes, administradores, representantes o directores de cualquiera de las sociedades antedichas, alguna persona que tenga alguno de los vínculos aludidos en las letras h) e i) anteriores.
+j) Mantener entre sus socios, en el caso de sociedades de personas; entre sus accionistas, en el caso de sociedades en comandita y sociedades anónimas cerradas; entre sus accionistas dueños de un 10% o más del capital, en el caso de sociedades anónimas abiertas; o entre los gerentes, administradores, representantes o directores de cualquiera de las sociedades antedichas, alguna persona que tenga alguna de las condiciones aludidas en este inciso o les afecte alguna de las circunstancias señaladas en el inciso final.
 
-En el caso de la causal indicada en la letra a), la inhabilidad regirá a contar de la fecha en que la resolución se encuentre ejecutoriada, y durará el mismo tiempo establecido para las inhabilidades contempladas en el citado Título V, salvo el caso del artículo 250° bis del Código Penal, en que la inhabilidad durará tres años.
+k) Tener la calidad de procesado o de imputado contra quien se haya formalizado la investigación, respecto de uno o más delitos señalados en la letra a) del presente artículo, de conformidad a lo dispuesto en los artículos 274 y siguientes del Código de Procedimiento Penal, 229 y siguientes del Código Procesal Penal o en el Libro Segundo del Código de Justicia Militar.
+
+En el caso de la causal indicada en la letra a), la inhabilidad regirá a contar de la fecha en que la resolución se encuentre ejecutoriada, y durará el mismo tiempo establecido para las inhabilidades contempladas para los respectivos delitos, o sólo el de la pena, si ésta no incluyera una inhabilidad, salvo el caso del artículo 250° bis del Código Penal, en que la inhabilidad durará tres años.
 
 En el caso de la causal indicada en la letra b), la inhabilidad durará mientras se encuentre pendiente el pago de la deuda, o bien dos años desde que la respectiva resolución judicial que la declare se encuentre ejecutoriada.
 
-Respecto de la causal establecida en la letra d), la inhabilidad durará dos años a contar de la respectiva resolución judicial ejecutoriada que la declare.
+Respecto de la causal establecida en la letra d), la inhabilidad durará cinco años a contar de la respectiva resolución judicial ejecutoriada que la declare.
 
-Tratándose de la causal establecida en la letra e), la inhabilidad durará mientras se encuentre configurada la causal o, en último término, hasta un plazo de dos años contados desde que la resolución que declara la quiebra se encuentre ejecutoriada, salvo que se haya determinado la existencia de delitos relacionados con la quiebra a que se refieren los artículos 218° y siguientes del Libro IV del Código de Comercio, en cuyo caso el plazo será de 5 años.
+Inciso suprimido.
 
 Respecto de la causal establecida en la letra f), la inhabilidad durará 2 años desde que la respectiva resolución judicial se encuentre ejecutoriada.
 
-Tratándose de las causales establecidas en las letras c), g), h), i) y j), la inhabilidad durará mientras se encuentre configurada.
+Tratándose de las causales establecidas en las letras c), e), g), h), i), j) y k) la inhabilidad durará mientras se encuentre configurada.
 
 La inhabilidad de la sociedad afectará también a quienes tengan la administración de ésta. En el caso de sociedades anónimas, la inhabilidad afectará, además, a todos sus directores. En cualquier caso, la inhabilidad afectará a todos quienes tengan el uso de la razón social.
 
 #### Artículo 18º
 
-Inhabilidad sobreviniente. Si un proveedor incurre en una causal de inhabilidad con posterioridad a su inscripción en el Registro, será eliminado de éste en conformidad con lo dispuesto en el Párrafo 4° del presente Título.
+Inhabilidad sobreviniente. Si un proveedor incurre en una causal de inhabilidad con posterioridad a su inscripción en el Registro, será eliminado de éste en conformidad con lo dispuesto en el Párrafo 4° del presente Título, excepto en el caso de la causal de la letra k) del artículo precedente, en que se aplicará lo establecido en el artículo 20.
 
 #### Artículo 19º
 
@@ -386,17 +388,23 @@ Causales de suspensión y eliminación de los Registros
 
 #### Artículo 20º
 
-Causales de suspensión. Los proveedores serán suspendidos de los Registros Especiales de Proveedores por un período no inferior a 3 ni superior a 6 meses, cuando incurran en alguna de las siguientes circunstancias:
+Causales de suspensión. Los proveedores serán suspendidos de los Registros Especiales de Proveedores por un período no inferior a 6 meses ni superior a un año, cuando incurran en alguna de las siguientes circunstancias:
 
 a) No haber efectuado el cambio o modificación de algún antecedente requerido para la actualización de información, de conformidad con lo dispuesto por el artículo 16°.
 
 b) No haber efectuado la renovación de antecedentes, de conformidad con lo dispuesto por el artículo 24°.
 
-Transcurrido el plazo de suspensión decretado, el proveedor se mantendrá suspendido del respectivo Registro hasta que regularice su situación.
+c) Tener la calidad de procesado o de imputado contra quien se haya formalizado la investigación, respecto de uno o más delitos señalados en la letra a) del artículo 17, de conformidad a lo dispuesto en los artículos 274 y siguientes del Código de Procedimiento Penal, 229 y siguientes del Código Procesal Penal o en el Libro Segundo del Código de Justicia Militar.
+
+d) Presentar deudas pendientes con las instituciones y organismos del sector Defensa de las cuales sea proveedor por concepto de multas cursadas mediante resolución administrativa.
+
+La suspensión del Registro especial de proveedores en los casos de las letras a) y b) precedentes será por un período no inferior a 6 meses ni superior a un año. Con todo, transcurrido el plazo de suspensión decretado, el proveedor se mantendrá suspendido del respectivo Registro hasta que regularice su situación.
+
+En los casos de las letras c) y d) de este artículo, la suspensión del Registro especial de proveedores se extenderá mientras se mantenga la calidad de procesado, de imputado o de deudor, según sea el caso.
 
 #### Artículo 21º
 
-Reincorporación. Una vez transcurrido el período de suspensión y siempre que haya sido subsanada la circunstancia que dio origen a ésta, el proveedor suspendido será reincorporado a los Registros Especiales de Proveedores, de oficio o a solicitud del interesado.
+Reincorporación. Una vez transcurrido el período de suspensión y siempre que haya sido subsanada la circunstancia que dio origen a ésta, el proveedor suspendido será reincorporado a los Registros Especiales de Proveedores, de oficio o a solicitud del interesado, siempre que, en ambos casos, se actualicen todos los antecedentes que sean necesarios para ingresar al registro.
 
 #### Artículo 22º
 
@@ -406,7 +414,7 @@ a) Haber presentado antecedentes no fidedignos en la solicitud de inscripción a
 
 b) Haber sido condenado por incumplimiento contractual respecto de uno o más contratos celebrados con las instituciones y los organismos del sector defensa regidos por el presente Reglamento.
 
-c) Haber sobrevenido alguna de las causales de inhabilidad establecidas en el artículo 17°.
+c) Haber sobrevenido alguna de las causales de inhabilidad establecidas en el artículo 17°, excepto la contemplada en la letra k del mismo.
 
 Los proveedores eliminados de los Registros no podrán ser reincorporados sino transcurridos cinco años contados desde la eliminación. Sin embargo, tratándose de la causal de eliminación contenida en la letra
 
@@ -415,6 +423,10 @@ Los proveedores eliminados de los Registros no podrán ser reincorporados sino t
 - **i)** y
 
 - **j)** de dicho precepto, en cuyo caso el período de reincorporación será de un año contado desde la eliminación.
+
+#### Artículo 22º bis
+
+Las instituciones u organismos mencionados en el artículo 2º del presente Reglamento, deberán comunicar a las otras instituciones de hechos que den lugar a la inhabilidad sobreviniente, suspensión o eliminación que afecte a alguno de sus proveedores registrados, tan pronto tomen conocimiento de estos, para que adopten las medidas pertinentes.
 
 ### Párrafo 5°
 
