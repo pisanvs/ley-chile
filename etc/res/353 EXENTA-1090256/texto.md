@@ -22,15 +22,15 @@ Resuelvo:
 
 1.- Establézcanse como sujetos pasivos de la ley Nº20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, a los siguientes funcionarios del Gobierno Regional:
 
-a) Jefa de División de Análisis y Control de Gestión, doña Vicky Gutiérrez Cortés, cédula de identidad Nº 12.619.803-5, directivo grado 4º EUR.
+a) Jefa de División de Análisis y Control de Gestión, doña Vicky Gutiérrez Cortés, cédula de identidad Nº 12.619.803-5 , directivo grado 4º EUR.
 
-b) Jefe de División Administración y Finanzas, don Pablo Palza Mazuelos, cédula de identidad Nº 12.832.175-6, directivo grado 4º, EUR.
+b) Jefe de División Administración y Finanzas, don Luis Cerda Ortiz, cédula de identidad Nº 11.817.875-0 directivo grado 4º, EUR.
 
 c) Jefe de División de Planificación Regional, don Pedro Barrios Castillo, cédula de identidad Nº 9.046.023-4, directivo grado 4º, EUR.
 
 d) Asesor Jurídico Gobierno Regional, don Christian Arenas Gutiérrez, cédula de identidad Nº 12.217.419-0, profesional, grado 4º EUR.
 
-e) Coordinador Fomento Productivo e Industria, don Luis Cerda Ortiz, cédula de identidad Nº 11.817.875-0, profesional a honorarios que goza de la calidad de agente público por lo que está sujeto a responsabilidad administrativa.
+e) Coordinador Fomento Productivo e Industria, don Rubén Rojo Maturana, cédula de identidad Nº 14.308.156-7, profesional a honorarios que goza de la calidad de agente público por lo que está sujeto a responsabilidad administrativa.
 
 2.- Regístrense, a contar de la fecha de esta resolución, en los Registros de Agenda Pública señalados en la Ley del Lobby, la información pertinente a los sujetos pasivos establecidos a través de la presente resolución.
 
