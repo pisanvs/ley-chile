@@ -52,6 +52,8 @@ f. Demostrar una capacidad de pago suficiente para cumplir con éxito las obliga
 
 g. Estar en condiciones de otorgar las garantías que INDAP le solicite.
 
+h. Estar registrados en el Registro de Apicultores y Declaración de Apiarios dispuesto por el Servicio Agrícola y Ganadero mediante resolución exenta Nº 8.196, de 29 de octubre de 2015, de su Dirección Nacional, aquellos clientes dedicados al rubro apícola.
+
 #### Artículo 6º
 
 En los documentos de formalización y entrega de los créditos deberán incluirse las siguientes obligaciones por parte de los receptores de dichos créditos:

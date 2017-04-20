@@ -146,6 +146,8 @@ d. Suscribir y entregar a INDAP una Carta Compromiso en la cual el postulante de
 
 - El compromiso de aceptar, facilitar y apoyar los procesos de fiscalización, supervisión, seguimiento y evaluación del(os) incentivo(s) otorgado(s), así como también la calidad de los apoyos recibidos y las distorsiones que eventualmente pudieran ocurrir.
 
+e. Estar registrados en el Registro de Apicultores y Declaración de Apiarios dispuesto por el Servicio Agrícola y Ganadero mediante resolución exenta Nº 8.196 de 29 de octubre de 2015, de su Dirección Nacional, aquellos beneficiarios dedicados al rubro apícola.
+
 ## Título IV
 
 De los Programas y Servicios que Financian los
