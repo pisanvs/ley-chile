@@ -46,7 +46,131 @@ Decreto:
 
 3.- Facúltase a la concesionaria para continuar operando y explotando la estación de radiodifusión sonora en frecuencia modulada, señal distintiva XQC-41, cuyos elementos de la esencia de la concesión, características técnicas y ubicación de las instalaciones de la radioemisora serán los que a continuación se indican:
 
-.
+ELEMENTOS DE LA ESENCIA DE LA CONCESIÓN
+
+- Tipo de servicio : Radiodifusión Sonora en
+
+Frecuencia Modulada.
+
+- Zona de servicio : Localidad de Pichilemu,
+
+VI Región.
+
+Superficie delimitada
+
+por una intensidad
+
+de campo mayor o igual
+
+que 54 dB(µV/m), referida
+
+al punto de emisión
+
+de la señal.
+
+- Período de la concesión : 25 años.
+
+- Potencia : 1.000 W.
+
+- Frecuencia : 103,7 MHz.
+
+- Dado que la asignataria es la actual concesionaria, no se especifican los plazos de inicio y término de construcción de las obras e inicio de servicio.
+
+CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
+
+- Tipo de emisión : 180KF8EHF
+
+- Desviación máxima : ±75 kHz
+
+- Diagrama de Radiación : Omnidireccional.
+
+- Ganancia : 3,2 dBd de ganancia
+
+máxima.
+
+- Polarización : Circular.
+
+- Tipo de antenas : Anillo terminado en
+
+barras.
+
+- Nº Antenas : 4.
+
+- Altura del centro
+
+de radiación : 31 m.
+
+- Pérdidas en cables,
+
+conectores y otros : 0,7 dB.
+
+UBICACIÓN DE LAS INSTALACIONES
+
+- Ubicación del Estudio : Ortúzar Nº 125,
+
+piso 2º, Pichilemu, VI
+
+Región.
+
+- Coordenadas Geográficas : 34º 22' 55" Latitud Sur.
+
+72º 00' 06" Longitud
+
+Oeste.
+
+Datum PSAD56.
+
+- Ubicación de la Planta
+
+Transmisora y Sistema
+
+Radiante : Cerro Centinela,
+
+Camino a Pichilemu,
+
+Pichilemu, VI Región.
+
+- Coordenadas Geográficas : 34º 21' 46" Latitud Sur.
+
+71º 51' 22" Longitud Oeste.
+
+Datum PSAD56.
+
+CARACTERÍSTICAS TÉCNICAS DEL RADIOENLACE ESTUDIO - PLANTA
+
+TRANSMISORA
+
+- Frecuencia : 321,7 MHz.
+
+- Potencia : 10 W.
+
+- Ganancia : 8 dBd.
+
+- Polarización : Horizontal.
+
+- Tipo emisión : 180KF8EHF.
+
+- Antena : Yagi de 5 de elementos.
+
+- Coordenadas etapa
+
+transmisora : 34º 21' 46" Latitud Sur.
+
+71º 51' 22" Longitud
+
+Oeste.
+
+Datum: PSAD56.
+
+- Coordenadas etapa receptora : 34º 22'55" Latitud
+
+Sur.
+
+72º 00'06" Longitud
+
+Oeste.
+
+Datum: PSAD56.
 
 4.- El presente decreto de renovación deberá publicarse en el Diario Oficial dentro del plazo de 30 días hábiles, contados desde que la Subsecretaría le notifique a la concesionaria que el decreto fue totalmente tramitado por la Contraloría General de la República. La no publicación de éste dentro del plazo indicado, producirá la extinción de la concesión por el solo ministerio de la ley.
 
