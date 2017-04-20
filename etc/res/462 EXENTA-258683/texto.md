@@ -298,6 +298,18 @@ Bellavista-Artesanos Pío Nono Av. Independencia O-P
 
 Av. La Paz Artesanos Olivos S-N
 
+Matucana Santo Domingo Av. Libertador
+
+Bernardo O'Higgins N-S
+
+(Alameda)
+
+Matucana Av. Libertador
+
+Bernardo O'Higgins Santo Domingo S-N
+
+(Alameda)
+
 2.- También podrán circular por estas pistas exclusivas, los siguientes vehículos:
 
 a) Taxis en cualquiera de sus modalidades, incluida la submodalidad de taxi ejecutivo, siempre y cuando lo hagan con pasajeros en su interior;
