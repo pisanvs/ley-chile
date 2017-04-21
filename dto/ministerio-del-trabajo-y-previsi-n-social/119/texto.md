@@ -136,7 +136,7 @@ Otras Prestaciones
 
 El Bienestar podrá otorgar a los afiliados las siguientes ayudas en dinero o en especies no sujetas a restitución por las causales y de acuerdo con las modalidades que a continuación se indican:
 
-a) Matrimonio: Si ambos contrayentes son afiliados, se otorgará este beneficio a cada uno de ellos;
+a) Matrimonio y Acuerdo de Unión Civil: Cuando un afiliado contraiga matrimonio o celebre un Acuerdo de Unión Civil en los términos de la Ley 20.830. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente.
 
 b) Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuvieren afiliados al Bienestar, sólo la madre tendrá derecho a este beneficio;
 
@@ -146,7 +146,7 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente o
 
 1.- A la persona designada expresamente para tales efectos por el afiliado;
 
-2.- Al cónyuge sobreviviente;
+2.- Al cónyuge o conviviente civil sobreviviente;
 
 3.- A los hijos legítimos;
 
