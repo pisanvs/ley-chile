@@ -1,0 +1,7 @@
+CERTIFICADO
+
+Certifico: Que por resolución exenta Nº 1.172, de 16 de marzo de 2017, de la Superintendencia de Valores y Seguros, se aprobó la modificación de los estatutos de la sociedad anónima "Zenit Seguros Generales S.A.", acordada en Junta Extraordinaria de Accionistas de 30 de enero de 2017, cuya acta consta en escritura pública de fecha 1 de febrero de 2017, otorgada ante el Notario de Santiago doña Verónica Salazar Hernández, suplente de la titular doña Nancy de la Fuente Hernández, con domicilio en Huérfanos 1117, oficina 1014, Santiago.
+
+La modificación consiste en el aumento del capital social de $7.310.942.432.-, dividido en 2.593 acciones nominativas, sin valor nominal y de una misma serie íntegramente suscrito y pagado, a $9.941.944.432.-, dividido en 3.526 acciones nominativas, sin valor nominal y de una misma serie, mediante la emisión de 933 de acciones de pago, correspondiente a $2.631.002.000.-, a ser suscritas y pagadas en el plazo de 3 años contados desde la fecha de la junta antes indicada. Se modifica el artículo cuarto y primero transitorio. Demás estipulaciones en escritura extractada.
+
+Santiago, 16 de marzo de 2017.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
