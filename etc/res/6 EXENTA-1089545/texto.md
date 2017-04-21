@@ -44,7 +44,7 @@ Personas naturales mayores de edad sin inicio de actividades en primera categor�
 
 De resultar adjudicado, antes de la transferencia de los recursos, los beneficiarios/as deberán acreditar el cumplimiento de las normas laborales y tributarias aplicables a Corfo para la entrega de subsidios.
 
-El Comité podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el/la beneficiario/a consiente en ello por el solo hecho de la postulación al instrumento.
+Sercotec podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el beneficiario/a consiente en ello por el solo hecho de la postulación al instrumento.
 
 ### 3. ETAPAS Y PLAZOS
 
@@ -68,21 +68,17 @@ El Comité de Desarrollo Productivo Regional podrá prorrogar este plazo hasta p
 
 ### 4. CRITERIOS DE EVALUACIÓN
 
-La evaluación del Programa se realizará por el Comité de Desarrollo Productivo Regional, para cuyos efectos podrá contar con la colaboración de entidades externas.
+Las evaluaciones deberán realizarse de conformidad con criterios señalados más adelante, a los que se les asignará una nota de 1 a 10, donde 1 es la más baja y 10 la más alta. La evaluación se realizará en base a números enteros.
 
-Las evaluaciones se realizarán de conformidad con los criterios que se indicarán más adelante, asignándosele una nota de 1 a 10, donde 1 es la más baja y 10 la más alta. La evaluación se realizará en base a números enteros.
+No podrán ser recomendados para su aprobación o renovación aquellos que obtengan una evaluación total inferior a 7 o que en uno de sus criterios obtengan una calificación inferior a 5.
 
-No podrán ser recomendados para su aprobación aquellos que obtengan una evaluación total inferior a 7 o que en uno de sus criterios obtengan una calificación inferior a 5.
+Los criterios de evaluación y su ponderación serán los siguientes:
 
-Los criterios de evaluación serán los siguientes:
-
-IMAGEN
+.
 
 ### 5. MODELO DE ADMINISTRACIÓN
 
-La administración de este instrumento se encuentra externalizada, a través de entidades públicas o privadas, denominadas Agentes Operadores Intermediarios (AOI) de Corfo y/o Sercotec. Ellos, en conformidad a este Reglamento, son los habilitados para postular y administrar los programas y proyectos, además, son los responsables de velar por el cumplimiento de las obligaciones financieras, de las actividades y objetivos del instrumento.
-
-Cuando circunstancias excepcionales así lo ameriten, el Consejo Directivo del Comité de Desarrollo Productivo Regional podrá resolver que uno o más de estos proyectos sean evaluados, supervisados y administrados directamente por él mismo, determinando los procedimientos respectivos.
+La administración del instrumento Capital Semilla Emprende será, por regla general, mediante la modalidad agenciada.
 
 La operación de los Proyectos deberá ajustarse a las instrucciones que imparta el Consejo Directivo del Comité de Desarrollo Productivo Regional en relación a los procedimientos.
 
@@ -100,45 +96,35 @@ El plan de trabajo para implementar un negocio deberá contemplar obligatoriamen
 
 ### 7. COSTO DE ADMINISTRACIÓN
 
-El Comité de Desarrollo Productivo Regional pagará a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración de la Etapa de Desarrollo hasta $535.000.- (quinientos treinta y cinco mil pesos) por beneficiario/a.
+Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración de la Etapa de Desarrollo hasta $535.000.- (quinientos treinta y cinco mil pesos) por beneficiario/a.
 
-Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
+Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto
 
 ### 8. PROCEDIMIENTO Y TRANSFERENCIA DE FONDOS
 
-Este instrumento, para la selección de sus beneficiarios, operará mediante el mecanismo de Concurso, que permite postular durante un plazo fijo, situación que será comunicada mediante un aviso a través de la página web del Comité, el que deberá contener la fecha y hora de cierre de las postulaciones, un correo electrónico al cual dirigir las consultas y el sistema o medio disponible para realizar las postulaciones.
+Este instrumento, para la selección de sus beneficiarios, operará mediante el mecanismo de Concurso, que permite postular durante un plazo fijo, situación que será comunicada mediante un aviso a través de la página web del Comité, el que deberá contener la fecha y hora de cierre de las postulaciones, un correo electrónico del Comité al cual dirigir las consultas y el sistema o medio disponible para realizar las postulaciones.
 
-El Programa será postulado por el Agente Operador Intermediario y comprende los siguientes procesos:
+En el marco del Plan de Acción Anual del Comité, aprobado por su Consejo Directivo, se efectuará un llamado a los AOI quienes deberán presentar el Proyecto a Sercotec.
 
-8.1 Fase de Presentación y aprobación del Proyecto.
+El proceso será el siguiente:
 
-El Programa será presentado al Consejo Directivo del Comité de Desarrollo Productivo Regional para su conocimiento y decisión.
+8.1 Fase de Presentación y aprobación del Proyecto
 
-El Programa deberá contener, al menos, la siguiente información:
+Sercotec presentará el Programa al Consejo Directivo del Comité de Desarrollo Productivo Regional, con su recomendación de aprobación o rechazo, Consejo que actuando en pleno o subcomité, según corresponda, podrá aprobarlos y asignar el cofinanciamiento para su ejecución o rechazarlos.
 
-- Sector/es productivo/s y/o territorio.
-
-- Objetivo de la intervención. Impacto y resultados esperados.
-
-- Focalización.
-
-- Número y perfil de beneficiarios/as, criterios y ponderación para su selección.
-
-- Perfil de las empresas consultoras, criterios y ponderación para su selección.
-
-- Presupuesto (costo total, aporte del Comité, aporte empresarial y OH).
-
-- Plazo de ejecución.
+El Programa deberá contener, al menos, la siguiente información: sector productivo y/o territorio a intervenir; objetivo, impacto y resultados esperados, focalización, número y perfil de beneficiarios, criterios y ponderación para su selección, perfil de las empresas consultoras, criterios y ponderación para su selección; presupuesto y plazo de ejecución.
 
 El conocimiento y decisión sobre la asignación de recursos para la ejecución del Programa corresponde al Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o subcomité, según corresponda, el que podrá aprobarlos y asignar el cofinanciamiento para su ejecución o rechazarlos.
 
-El Director Ejecutivo dictará el o los actos administrativos que ejecuten los Acuerdos adoptados y ordene la transferencia de los fondos a los AOI.
+El Director Ejecutivo dictará el o los actos administrativos que ejecuten los Acuerdos adoptados.
 
-8.2 Etapa de Selección de Beneficiarios y Empresas Consultoras.
+8.2 Etapa de Selección de Beneficiarios y Empresas Consultoras
 
-Esta Etapa comienza con la total tramitación de la resolución que pone en ejecución el acuerdo que aprueba el Programa disponiendo la apertura del Concurso para la selección de los beneficiarios y termina con la presentación al Comité de Desarrollo Productivo Regional del listado de beneficiarios/as y empresas consultoras recomendados/as.
+Esta Etapa comienza con la notificación al Agente Operador Intermediario de la resolución del Comité que pone en ejecución el acuerdo que aprueba el Programa, la que será realizada por Sercotec, servicio que deberá disponer la apertura del Concurso para la selección de los beneficiarios y terminará con la presentación al Comité de Desarrollo Productivo Regional del listado de beneficiarios/as y empresas consultoras recomendados/as.
 
-8.3 Etapa de Desarrollo del Proyecto.
+El AOI, aplicando el perfil los criterios y ponderaciones contenidos en el programa aprobado por el Consejo de Desarrollo Productivo Regional, procederá a seleccionar los beneficiarios/as y las empresas consultoras, para proponerlos al Director Ejecutivo del Comité.
+
+8.3 Etapa de Desarrollo del Proyecto
 
 La aprobación por el Comité de Desarrollo Productivo Regional del listado de beneficiarios/as y de las empresas consultoras inicia la Etapa de Implementación del proyecto, la que termina con la aprobación por el Agente Operador Intermediario del Informe Final.
 
@@ -146,15 +132,15 @@ No se podrá modificar el objetivo general de un Programa.
 
 El Director Ejecutivo del Comité tendrá facultades para modificar el Programa y los proyectos en todos aquellos aspectos que no sean sustanciales.
 
-Para estos efectos se considerarán aspectos sustanciales el aumento del monto o porcentaje de financiamiento y/o cofinanciamiento asignado al Programa, cualquier aumento en los gastos de operación, el cambio de Agente Operador, la modificación de sus objetivos específicos y las modificaciones en gastos de recursos humanos. Las modificaciones de estas materias corresponderán al Consejo Directivo del Comité, actuando en pleno o en Subcomité, según corresponda.
+Para estos efectos se considerarán aspectos sustanciales el aumento del monto o porcentaje de financiamiento y/o cofinanciamiento asignado al Programa, cualquier aumento en los gastos de operación, el cambio de Agente Operador, la modificación de sus objetivos específicos y las modificaciones en gastos de recursos humanos. Las modificaciones de estas materias corresponderá al Consejo Directivo del Comité, actuando en pleno o en Subcomité, según corresponda.
 
 La aprobación de estos Programas, la asignación de recursos y su ejecución deberán ajustarse a las disposiciones del presente Reglamento y a las instrucciones que imparta el Comité de Desarrollo Productivo Regional, en relación a los procedimientos.
 
 ### 9. ANTICIPOS, GARANTÍAS Y RENDICIONES
 
-El Director Ejecutivo del Comité podrá autorizar anticipos a los Agentes Operadores Intermediarios para la ejecución y administración de los proyectos aprobados, previa entrega de una boleta de garantía bancaria pagadera a la vista o una póliza de seguro de ejecución inmediata o a primer requerimiento, por el total de los fondos anticipados.
+Sercotec podrá autorizar anticipos a los Agentes Operadores Intermediarios para la ejecución y administración de los Proyectos. Los anticipos a los Agentes Operadores Intermediarios sólo podrán autorizarse previa entrega de una boleta de garantía bancaria pagadera a la vista o una póliza de seguro de ejecución inmediata o a primer requerimiento, por el total de los fondos anticipados.
 
-El Agente Operador Intermediario deberá preparar oportuna y periódicamente los correspondientes informes y rendiciones de cuentas, conforme las instrucciones establecidas por el Consejo Directivo del Comité de Desarrollo Productivo Regional, y sin perjuicio de aquellas que imparta la Contraloría General de la República.
+El Agente Operador Intermediario deberá presentar oportuna y periódicamente los correspondientes informes y rendiciones de cuentas a Sercotec, conforme las instrucciones establecidas por el Comité de Desarrollo Productivo Regional, y sin perjuicio de aquellas que imparta la Contraloría General de la República.
 
 ### 10. MANUALES DE INSTRUMENTOS
 
