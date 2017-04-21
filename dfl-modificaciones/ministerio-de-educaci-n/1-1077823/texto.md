@@ -82,7 +82,7 @@ Título profesional de una carrera de, a lo menos, 8 semestres de duración otor
 
 Grado 15º:
 
-Título profesional de una carrera de, a lo menos, 8 semestres de duración otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 3 años en el área educacional en establecimientos de educación parvularia.
+Título profesional de una carrera de, a lo menos, 8 semestres de duración otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente, y acreditar una experiencia profesional no inferior a 4 años, o de a lo menos 3 años en funciones de supervisión o en el área educacional en establecimientos de educación parvularia.
 
 C.- Función de Dirección de Establecimientos de Educación Parvularia:
 
