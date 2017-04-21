@@ -26,6 +26,10 @@ Decreto:
 
 Apruébanse los programas de estudio de 5° y 6° año de educación básica para la asignatura de Lengua Indígena, correspondiente a Aymara, Quechua, Rapa Nui y Mapuzugun.
 
+#### Artículo 1° bis
+
+Apruébanse los programas de estudio de 7° año de educación básica para la asignatura de Lengua Indígena, correspondiente a Aymara, Quechua, Rapa Nui y Mapuzungun.
+
 #### Artículo 2°
 
 La evaluación de los aprendizajes de los alumnos que cursen la asignatura de Lengua Indígena se regirá por las disposiciones oficiales vigentes sobre la materia.
@@ -51,6 +55,12 @@ Apruébase el siguiente plan de estudio de 5° a 8° año de educación básica 
 #### Artículo 5°
 
 Apruébase el siguiente plan de estudio de 5° a 6° año de educación básica para aquellos establecimientos educacionales reconocidos oficialmente por el Ministerio de Educación, que se encuentran adscritos al Régimen de Jornada Escolar Completa diurna e impartan la asignatura de Lengua Indígena:
+
+.
+
+#### Artículo 5° bis
+
+Apruébase el siguiente plan de estudio de 7° año de educación básica para aquellos establecimientos educacionales reconocidos oficialmente por el Ministerio de Educación, que se encuentran adscritos al Régimen de Jornada Escolar Completa diurna e impartan la asignatura de Lengua Indígena.
 
 .
 
