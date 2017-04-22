@@ -1254,7 +1254,17 @@ En todo caso las construcciones serán un complemento mínimo de las actividades
 
 Zona Usos de Suelo Permitidos
 
-ZR-1 Areas verdes. Areas libres. Vialidad peatonal.
+ZR-1 Áreas verdes y vialidad peatonal.
+
+Equipamiento: comercio,
+
+específicamente en la actividad
+
+de restaurante, en la zona de
+
+encuentro con la zona ZR-2,
+
+frente a la rambla Alejandro Fierro.
 
 Usos de Suelo Prohibidos
 
@@ -1274,7 +1284,23 @@ ZR-1E La zona denominada ZR-1E en el plano corresponde a aquella denominada ARGI
 
 Zona Usos de Suelo Permitidos
 
-ZR-2 Actividades relacionadas con la pesca artesanal. Vialidad peatonal. Areas verdes. Areas libres.
+ZR-2 Actividades relacionadas con la pesca artesanal.
+
+Vialidad peatonal. Areas verdes.
+
+Areas libres.
+
+Equipamiento: comercio,
+
+específicamente en la actividad
+
+de restaurante, en la zona
+
+de encuentro con la zona ZR-1,
+
+frente a la rambla Alejandro
+
+Fierro.
 
 Usos de Suelo Prohibidos
 
