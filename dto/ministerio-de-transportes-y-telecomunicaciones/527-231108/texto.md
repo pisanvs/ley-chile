@@ -124,15 +124,15 @@ UBICACION DE LAS INSTALACIONES
 
 planta transmisora
 
-y sistema radiante : Cerro Don Pancho, comuna
+y sistema radiante : Cerro Don Pancho s/n, comuna
 
 de Tocopilla, II Región.
 
 - Coordenadas
 
-geográficas : 22°05'55" Latitud Sur
+geográficas : 22° 06' 02" Latitud Sur; 70° 12'
 
-70°11'55" Longitud Oeste
+12" Longitud Oeste. Datum WGS 84.
 
 4.- Los plazos de inicio y término de obras, y de inicio de servicio, se contarán a partir de la publicación en el Diario Oficial del presente decreto.
 
