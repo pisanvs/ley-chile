@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados calzada completa de calle Chacabuco, en el tramo comprendido entre Atacama y Chañarcillo, de la comuna de Copiapó, desde el día 22 de febrero de 2017 hasta el día 7 de abril de 2017, para la ejecución de las obras "Reposición de calzada en hormigón, además de retiro y cambio de solera ambos lados".
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados calzada completa de calle Chacabuco, en el tramo comprendido entre Atacama y Chañarcillo, de la comuna de Copiapó, desde el día 22 de febrero de 2017 hasta el día 13 de abril de 2017, para la ejecución de las obras "Reposición de calzada en hormigón, además de retiro y cambio de solera ambos lados".
 
 2.- Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
