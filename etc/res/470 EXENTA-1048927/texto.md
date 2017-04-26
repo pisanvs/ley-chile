@@ -208,6 +208,12 @@ Décimo tercero: Delégase en el Jefe de la División Administración y Finanzas
 
 22. Oficios de retiro y reingreso a la Contraloría General de la República de aquellos actos administrativos y demás documentos relativos a materias de personal y contratación administrativa de suministro de bienes y prestación de servicios, en los que tenga interés la Subsecretaría.
 
+#### Artículo décimo tercero bis
+
+<!-- parte:9794029 -->
+
+Décimo tercero bis: Delégase en el Jefe de la División Administración y Finanzas la facultad de comparecer y absolver posiciones en nombre y representación de la Subsecretaría de Telecomunicaciones en los procedimientos que se sigan ante la jurisdicción laboral.
+
 #### Artículo décimo cuarto
 
 <!-- parte:9334178 -->
