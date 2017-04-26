@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 8 de octubre de 2016 hasta el 31 de mayo de 2017, por la calzada poniente de Ruta 5 Norte, entre los enlaces Buenaventura y la Radial Nororiente, de las comunas de Quilicura y Lampa.
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 8 de octubre de 2016 hasta el 15 de abril de 2017, por la calzada poniente de Ruta 5 Norte, entre los enlaces Buenaventura y la Radial Nororiente, de las comunas de Quilicura y Lampa.
 
 2.- Podrán ingresar excepcionalmente en el tramo y horario señalado, los vehículos de emergencia y los destinados a cumplir funciones en las obras relacionadas con el proyecto "Conversión Estándar Urbano del Acceso a Santiago Ruta 5 Norte, Región Metropolitana, Concesión Tramo Santiago - Los Vilos".
 
