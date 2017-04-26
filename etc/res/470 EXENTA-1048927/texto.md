@@ -156,6 +156,8 @@ Décimo tercero: Delégase en el Jefe de la División Administración y Finanzas
 
 22. Oficios de retiro y reingreso a la Contraloría General de la República de aquellos actos administrativos y demás documentos relativos a materias de personal y contratación administrativa de suministro de bienes y prestación de servicios, en los que tenga interés la Subsecretaría.
 
+Décimo tercero bis: Delégase en el Jefe de la División Administración y Finanzas la facultad de comparecer y absolver posiciones en nombre y representación de la Subsecretaría de Telecomunicaciones en los procedimientos que se sigan ante la jurisdicción laboral.
+
 Décimo cuarto: Delégase en el Jefe del Departamento Gestión de Personas, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
 1. Resoluciones de reconocimiento a las funcionarias del derecho de disponer de al menos una hora al día, para dar alimento a sus hijos menores de dos años, de acuerdo a lo contemplado en el artículo 206 del Código del Trabajo.
