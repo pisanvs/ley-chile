@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.929 EXENTA, SOLICITUD Nº 2.092, DE 2017
+
+Por la presente resolución exenta se han modificado las resoluciones exentas Nos 4.104 y 12.870, ambas de 1999; 5.925, de 2001 y 3.390, de 2002, todas del Ministerio de Educación y sus modificaciones, que aprobaron planes y programas especiales de estudio de 1º a 4° año de educación media, al Colegio Calasanz, RBD 9250-9, Comuna de Ñuñoa, Provincia de Santiago, Región Metropolitana; en el sentido de sustituir sus planes de estudio de 1º a 4° año de educación media por los que se indican en dicha resolución exenta y aprobar los programas especiales de estudio para la asignatura de "Ciencias Naturales: Física, Química y Biología" para 1° y 2° año de educación media; "Cultura Religiosa, Ética y Moral" para 1° a 4° año de educación media y para los sectores de "Método de Investigación en Ciencias Sociales" y "Género y Economía Regional" para 4° año de educación media, Plan de Formación Diferenciada Humanista.
+
+Santiago, 20 de abril de 2017.- Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
