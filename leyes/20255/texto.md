@@ -136,6 +136,8 @@ b) Si percibe una pensión bajo la modalidad de retiro programado de acuerdo al 
 
 Cuando el saldo de la cuenta de capitalización individual del afiliado no alcanzare a financiar doce meses de pensión básica solidaria de vejez, la pensión bajo la modalidad de retiro programado se ajustará al monto de dicha pensión solidaria.
 
+Las reglas de cálculo a que se refieren el artículo 10 y los incisos precedentes se establecerán en el momento de acceder al beneficio y no serán modificadas ante alguna variación en el monto de la pensión base o de la pensión básica solidaria de vejez, sin perjuicio de que dichas variaciones modificarán el monto resultante del aporte previsional solidario de vejez de acuerdo a la regla de cálculo correspondiente.
+
 #### Artículo 12
 
 Las personas señaladas en el artículo 9° para acceder al aporte previsional solidario de vejez, deberán presentar la correspondiente solicitud a partir del cumplimiento de la edad establecida en la letra a) del artículo 3° de esta ley.
@@ -244,6 +246,10 @@ Con todo, la pensión autofinanciada de referencia para el pensionado de invalid
 
 Sin perjuicio de lo señalado en el inciso primero del artículo 23, las personas que sean beneficiarias de la pensión básica solidaria de invalidez o del aporte previsional solidario de invalidez podrán, a contar de la fecha en que cumplan sesenta y cuatro años de edad, solicitar la pensión básica solidaria de vejez o el aporte previsional solidario de vejez, según corresponda. En este caso, la mencionada pensión de vejez o el aporte previsional solidario de vejez se devengarán a contar del día primero del mes siguiente al cumplimiento de los sesenta y cinco años de edad, siempre que los peticionarios reúnan los requisitos para ser beneficiarios de dicha pensión o aporte.
 
+Respecto de los beneficiarios de pensión básica solidaria de invalidez o del aporte previsional solidario de invalidez que no hayan solicitado las prestaciones de vejez en los plazos señalados en el inciso anterior y hasta el trimestre previo a que cumplan la edad señalada en la letra a) de artículo 3º, el Instituto de Previsión Social tramitará de oficio y según corresponda la solicitud de pensión básica solidaria de vejez o aporte previsional solidario de vejez, a que se refieren los artículos 6º y 12, respectivamente. Para lo anterior, el Instituto de Previsión Social utilizará los antecedentes del Sistema de Información de Datos Previsionales establecido en el artículo 56 y los que le proporcionen los organismos públicos y privados a que se refiere su inciso primero. En este caso, la mencionada pensión de vejez o el aporte previsional solidario de vejez, según corresponda, se devengarán en la oportunidad señalada en el inciso anterior, siempre que los peticionarios reúnan los requisitos para ser beneficiarios de dicha pensión o aporte.
+
+Para las solicitudes que se tramiten de oficio, el Instituto de Previsión Social podrá requerir al titular de ella los antecedentes que sean necesarios para acreditar el cumplimiento de los requisitos para acceder a la pensión básica solidaria de vejez o al aporte previsional solidario de vejez, según corresponda. Si dentro del plazo de seis meses, contado desde que se efectuare el requerimiento, no se entregasen los antecedentes, la solicitud tramitada de oficio no producirá efecto alguno.
+
 Respecto de las personas que hayan percibido la pensión básica solidaria de invalidez o el aporte previsional solidario de invalidez durante un lapso de veinte años o más, sea en forma continua o discontinua, se entenderá cumplido el requisito de residencia establecido en la letra c) del artículo 3°.
 
 Párrafo sexto
@@ -318,9 +324,11 @@ A las personas pensionadas o imponentes de los regímenes de la Caja de Previsi�
 
 #### Artículo 34
 
-Las personas que carezcan de recursos, conforme a los mismos términos establecidos en el artículo 31 de esta ley, y gocen de pensión básica solidaria de vejez causarán asignación por muerte en los términos establecidos en el decreto con fuerza de ley N° 90, de 1979, del Ministerio del Trabajo y Previsión Social.
+Los beneficiarios del Sistema de Pensiones Solidarias que no sean causantes de asignación por muerte o cuota mortuoria en algún régimen de seguridad social causarán asignación por muerte en los términos establecidos en el decreto con fuerza de ley Nº90, de 1978, del Ministerio del Trabajo y Previsión Social. El Instituto de Previsión Social deberá verificar el cumplimiento de este requisito utilizando el Sistema de Información de Datos Previsionales a que se refiere el artículo 56.
 
 Sin embargo, si quien hubiere hecho los gastos del funeral fuere persona distinta del cónyuge o conviviente civil, hijos o padres del fallecido, sólo tendrá derecho a tal beneficio hasta la concurrencia del monto efectivo de su gasto, con el límite establecido en el inciso primero del artículo 6° del decreto con fuerza de ley citado en el inciso anterior, quedando el saldo hasta completar dicho límite a disposición del o la cónyuge o conviviente civil sobreviviente, y a falta de éste, de los hijos o los padres del causante.
+
+Respecto de los beneficiarios de cuota mortuoria del artículo 88 del decreto ley Nº3.500, de 1980, del Ministerio del Trabajo y Previsión Social, cuyo causante sea beneficiario del Sistema de Pensiones Solidarias, el Instituto de Previsión Social deberá pagar a quien corresponda y en los términos del precitado artículo la diferencia que se genere entre el monto efectivo de la prestación y las 15 unidades de fomento que establece como límite dicho precepto.
 
 El Instituto de Previsión Social pagará el beneficio a que se refiere este artículo con cargo a los aportes fiscales que se contemplen anualmente en su presupuesto.
 
@@ -1126,7 +1134,7 @@ El Reglamento establecerá los procedimientos que se aplicarán para la determin
 
 Incorpóranse en el Seguro Social contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales contemplado en la ley N° 16.744 a los trabajadores independientes señalados en el artículo 89 del decreto ley N° 3.500, de 1980.
 
-Los trabajadores a que se refiere el inciso precedente quedarán obligados a pagar la cotización general básica contemplada en la letra a) del artículo 15 de la ley N° 16.744, la cotización extraordinaria del 0,05% establecida por el artículo sexto transitorio de la ley N° 19.578, y la cotización adicional diferenciada que corresponda en los términos previstos en los artículos 15 y 16 de la ley N° 16.744 y en sus respectivos reglamentos.
+Los trabajadores a que se refiere el inciso precedente quedarán obligados a pagar la cotización general básica contemplada en la letra a) del artículo 15 de la ley N° 16.744, la cotización extraordinaria establecida por el artículo sexto transitorio de la ley N° 19.578, y la cotización adicional diferenciada que corresponda en los términos previstos en los artículos 15 y 16 de la ley N° 16.744 y en sus respectivos reglamentos.
 
 Las cotizaciones se calcularán sobre la base de la renta que declare mensualmente el trabajador independiente, sin perjuicio de lo señalado en el inciso quinto de este artículo. Estas cotizaciones no se considerarán renta para los efectos de la ley sobre Impuesto a la Renta. La renta mensual imponible para estos efectos no podrá ser inferior a un ingreso mínimo mensual ni superior al límite máximo imponible que resulte de la aplicación del artículo 16 del decreto ley N° 3.500, de 1980.
 

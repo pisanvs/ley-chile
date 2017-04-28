@@ -330,7 +330,7 @@ A.- Fondo de Contingencia
 
 a) Los ingresos mensuales por concepto de la cotización extraordinaria prevista en el artículo sexto transitorio de esta ley;
 
-b) La suma equivalente a la diferencia positiva, si la hubiera, entre el GPE y el GAP anuales, según se definen en el artículo 22 de esta ley, y
+b) La suma equivalente a la diferencia positiva, si la hubiera, entre el GPE y el GAP anuales, según se definen en el artículo 22 de esta ley. Dicha suma no podrá ser superior al 4% del ingreso por cotización básica del año anterior, definido en la letra a) del artículo 15 de la ley N° 16.744.
 
 c) La cantidad equivalente a 0,25% del IC mensual definido en el artículo 22 de esta ley.
 
@@ -354,9 +354,9 @@ a) Los recursos definidos en el número 1 de la letra A de este artículo, cada 
 
 b) El traspaso de activos representativos del Fondo de Contingencia en el caso previsto en la letra b) del número 3 de la letra A precedente.
 
-La obligación de cada Mutualidad de destinar recursos a la adquisición de estos activos, subsistirá hasta que complete una suma equivalente al 100% del monto de la reserva de pensiones al 31 de diciembre del año anterior, obligación que se restablecerá cada vez que los activos citados representen un porcentaje inferior al indicado.
+La obligación de cada Mutualidad de destinar recursos a la adquisición de estos activos, subsistirá hasta que complete una suma equivalente al 65% del monto de la reserva de pensiones al 31 de diciembre del año anterior, obligación que se restablecerá cada vez que los activos citados representen un porcentaje inferior al indicado.
 
-2. Cada Mutualidad sólo podrá liquidar los activos representativos a que se refiere el número anterior en la medida que ellos excedan del 100% del monto de la reserva de pensiones al 31 de diciembre del año anterior. La liquidación de recursos sólo podrá llegar hasta la suma que resulte de restar al monto total pagado por concepto de pensiones por la Mutualidad durante el año respectivo, el monto total pagado por el mismo concepto durante el año 1997, y de multiplicar el resultado por la relación que representen, al término del año, la suma de los activos representativos de la reserva de pensiones invertidos en los instrumentos financieros a que se refiere el número 1 anterior, respecto del monto total de dicha reserva.
+2. Cada Mutualidad sólo podrá liquidar los activos representativos a que se refiere el número anterior en la medida que ellos excedan del 65% del monto de la reserva de pensiones al 31 de diciembre del año anterior. La liquidación de recursos sólo podrá llegar hasta la suma que resulte de restar al monto total pagado por concepto de pensiones por la Mutualidad durante el año respectivo, el monto total pagado por el mismo concepto durante el año 1997, y de multiplicar el resultado por la relación que representen, al término del año, la suma de los activos representativos de la reserva de pensiones invertidos en los instrumentos financieros a que se refiere el número 1 anterior, respecto del monto total de dicha reserva.
 
 Tratándose de Mutualidades que no hayan pagado pensiones durante 1997, para efectuar el cálculo previsto en el inciso anterior, se reemplazará el valor de dichas pensiones por la cifra que resulte de aplicar al monto total pagado por concepto de pensiones en el año por dicha Mutualidad, el promedio de las relaciones que represente el monto pagado en pensiones en 1997, respecto de su respectivo pago total de pensiones del año.
 
@@ -490,7 +490,15 @@ No podrán beneficiarse de lo establecido en este artículo los intereses proven
 
 #### Artículo sexto
 
-Establécese, a contar del 1º de septiembre de 1998 y hasta el 31 de marzo del año 2017, una cotización extraordinaria del 0,05% de las remuneraciones imponibles, de cargo del empleador, en favor del seguro social contra riesgos de accidentes del trabajo y enfermedades profesionales de la ley N° 16.744.
+Establécese, a contar del 1º de septiembre de 1998 y hasta el 31 de diciembre de 2019, una cotización extraordinaria sobre las remuneraciones imponibles, de cargo del empleador, en favor del seguro social contra riesgos de accidentes del trabajo y enfermedades profesionales de la ley N° 16.744.
+
+A partir del 1 de abril de 2017, y durante los períodos que a continuación se establecen, el porcentaje de la cotización extraordinaria señalada en el inciso anterior corresponderá a:
+
+a) Un 0,04% desde el 1 de abril y hasta el 31 de diciembre de 2017.
+
+b) Un 0,015% desde el 1 de enero y hasta el 31 de diciembre de 2018.
+
+c) Un 0,01% desde el 1 de enero y hasta el 31 de diciembre de 2019.
 
 Las empresas que tienen la calidad de administradoras delegadas del citado seguro, enterarán la referida cotización, en su totalidad, en el Instituto de Normalización Previsional, conjuntamente con los aportes que deban realizar en éste conforme a la legislación vigente.
 
