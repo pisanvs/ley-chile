@@ -144,11 +144,11 @@ El cobro de la tarifa de aseo se efectuará trimestralmente junto con la contrib
 
 #### Artículo 14°
 
-Cuando un local comercial, industria, oficina de profesionales, etc. definidos en los artículos 23 y 32 de la Ley, tengan dos o mas patentes, el cobro por extracción domiciliaria de basura se aplicará solo a una de ellas. También están afectos al pago del servicio, las personas naturales o jurídicas que estén exentas de la contribución de patente, señaladas en los artículos 23 y 27 del Decreto Ley N°3063.
+Los establecimientos comerciales, industriales, oficinas de profesionales, u otros establecimientos análogos, definidos en los artículos 23° y 32° del decreto ley N°3.063, Ley de Rentas Municipales, que sean titulares de dos o más patentes, el cobro por extracción domiciliaria de basura se aplicará a cada una de las patentes, salvo que la actividad comercial no se desarrolle efectivamente y el domicilio sea de uso postal tributario. También están afectos al pago del servicio, las personas naturales o jurídicas que estén exentas de la contribución de patente, señaladas en los artículos 23° y 27° del decreto ley Nº 3.063, Ley de Rentas Municipales.
 
 #### Artículo 15°
 
-Tratándose de propiedades que sirvan como vivienda y además como locales comerciales, industriales, oficinas profesionales u otros, el pago del derecho ordinario o especial del servicio deberá aplicarse en la contribución territorial, en el cobro directo o en las patentes respectivas, según sea el caso.
+Tratándose de inmuebles que se usen como vivienda y como establecimientos comercial, industrial, oficinas profesionales u otros establecimientos análogos, el pago del derecho ordinario o especial del servicio de extracción de basura, deberá aplicarse en la contribución territorial y en el giro de la respectiva patente comercial, en atención a que se trata de contribuyentes distintos o de actividades comerciales separadas del uso habitacional.
 
 #### Artículo 16°
 
