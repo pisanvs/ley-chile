@@ -48,9 +48,11 @@ Resolución:
 
 3. Modifícase la resolución exenta Nº 7.524 (V. y U.), de 2015, citada en la letra f) de los Visto de le presente resolución, en el sentido de reemplazar las filas que en cada caso se señalan de la nómina de familias beneficiadas de la Región de Atacama, que se indican a continuación:
 
-4. Impútese la diferencia de 9.737 Unidades de Fomento, correspondientes al mayor valor de los subsidios asignados y reflejados en las Tablas insertas en los resuelvos 1, 2 y 3 de la presente resolución, a los recursos autorizados a la Región de Atacama para el Programa de Protección del Patrimonio Familiar del año 2015, de las cuales 9.375 Unidades de Fomento corresponden al subsidio directo y 362 Unidades de Fomento a la Asistencia Técnica.
+4. Impútese la diferencia de 9.362 Unidades de Fomento, correspondientes al mayor valor de los subsidios asignados y reflejados en las Tablas insertas en los resuelvos 1, 2 y 3 de la presente resolución, a los recursos autorizados a la Región Atacama para el Programa de Protección del Patrimonio Familiar del año 2015, de las cuales 9.005 Unidades de Fomento corresponden al subsidio directo y 357 Unidades de Fomento a la Asistencia Técnica
 
 5. Establécese que las resoluciones exentas Nº 5.660, 6.718 y 7.524, todas de Vivienda y Urbanismo de 2015, se mantendrán vigentes en todo aquello que no ha sido modificado por la presente resolución.
+
+> **Nota.** Los numerales 3.1 y 3.2 del N° 3 de la Resolución 5230 Exenta, Vivienda, publicada el 28.04.2017, modifican los resuelvos 1 y 3 de la presente norma de la manera que la citada norma indica.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
