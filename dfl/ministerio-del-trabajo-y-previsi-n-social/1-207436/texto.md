@@ -34,7 +34,7 @@ Las relaciones laborales deberán siempre fundarse en un trato compatible con la
 
 Son contrarios a los principios de las leyes laborales los actos de discriminación.
 
-Los actos de discriminación son las distinciones, exclusiones o preferencias basadas en motivos de raza, color, sexo, edad, estado civil, sindicación, religión, opinión política, nacionalidad, ascendencia nacional u origen social, que tengan por objeto anular o alterar la igualdad de oportunidades o de trato en el empleo y la ocupación.
+Los actos de discriminación son las distinciones, exclusiones o preferencias basadas en motivos de raza, color, sexo, edad, estado civil, sindicación, religión, opinión política, nacionalidad, ascendencia nacional, situación socioeconómica, idioma, creencias, participación en organizaciones gremiales, orientación sexual, identidad de género, filiación, apariencia personal, enfermedad o discapacidad u origen social, que tengan por objeto anular o alterar la igualdad de oportunidades o de trato en el empleo y la ocupación.
 
 Con todo, las distinciones, exclusiones o preferencias basadas en las calificaciones exigidas para un empleo determinado no serán consideradas discriminación.
 
@@ -68,7 +68,7 @@ Las empresas que cumplan lo dispuesto en el inciso cuarto serán solidariamente 
 
 Las cuestiones suscitadas por la aplicación de los incisos anteriores se sustanciarán por el juez del trabajo, conforme al Párrafo 3° del Capítulo II del Título I del Libro V de este Código, quien resolverá el asunto, previo informe de la Dirección del Trabajo, pudiendo requerir además informes de otros órganos de la Administración del Estado. El ejercicio de las acciones judiciales derivadas de la aplicación del inciso cuarto, así como la sentencia definitiva respectiva, deberán, además, considerar lo dispuesto en el artículo 507 de este Código.
 
-Los trabajadores de todas las empresas consideradas como un solo empleador podrán constituir uno o más sindicatos que los agrupen, o mantener sus organizaciones existentes; podrán, asimismo, negociar colectivamente con todas las empresas que han sido consideradas como un empleador, o bien con cada una de ellas. Los sindicatos interempresa que agrupen exclusivamente a trabajadores dependientes de empresas que hayan sido declaradas como un solo empleador podrán presentar proyectos de contrato colectivo, siendo obligatorio para el empleador negociar con dichos sindicatos. En todos estos casos, la presentación y tramitación de los proyectos de contrato colectivo se regirán por las normas establecidas en el Capítulo I del Título II del Libro IV de este Código.
+Los trabajadores de todas las empresas consideradas como un solo empleador podrán constituir uno o más sindicatos que los agrupen, o mantener sus organizaciones existentes; podrán, asimismo, negociar colectivamente con todas las empresas que han sido consideradas como un empleador, o bien con cada una de ellas. Los sindicatos interempresa que agrupen exclusivamente a trabajadores dependientes de empresas que hayan sido declaradas como un solo empleador podrán presentar proyectos de contrato colectivo, siendo obligatorio para el empleador negociar con dichos sindicatos. En todos estos casos, la presentación y tramitación de los proyectos de contrato colectivo se regirán por las normas establecidas en el Título IV del Libro IV de este Código.
 
 #### Artículo 4
 
@@ -84,7 +84,7 @@ o El ejercicio de las facultades que la ley le reconoce al empleador, tiene como
 
 Los derechos establecidos por las leyes laborales son irrenunciables, mientras subsista el contrato de trabajo.
 
-Los contratos individuales y colectivos de trabajo podrán ser modificados, por mutuo consentimiento, en aquellas materias en que las partes hayan podido convenir libremente.
+Los contratos individuales y los instrumentos colectivos de trabajo podrán ser modificados, por mutuo consentimiento, en aquellas materias en que las partes hayan podido convenir libremente.
 
 #### Artículo 6
 
@@ -164,7 +164,7 @@ Si por la naturaleza de los servicios se precisare el desplazamiento del trabaja
 
 Las modificaciones del contrato de trabajo se consignarán por escrito y serán firmadas por las partes al dorso de los ejemplares del mismo o en documento anexo.
 
-No será necesario modificar los contratos para consignar por escrito en ellos los aumentos derivados de reajustes de remuneraciones, ya sean legales o establecidos en contratos o convenios colectivos del trabajo o en fallos arbitrales. Sin embargo, aún en este caso, la remuneración del trabajador deberá aparecer actualizada en los contratos por lo menos una vez al año, incluyendo los referidos reajustes.
+No será necesario modificar los contratos para consignar por escrito en ellos los aumentos derivados de reajustes de remuneraciones, ya sean legales o establecidos en contratos o convenios colectivos del trabajo o en fallos arbitrales o en acuerdos de grupo negociador. Sin embargo, aún en este caso, la remuneración del trabajador deberá aparecer actualizada en los contratos por lo menos una vez al año, incluyendo los referidos reajustes.
 
 #### Artículo 12
 
@@ -512,7 +512,7 @@ Cuando se acumule más de un día de descanso en la semana por aplicación de lo
 
 Con todo, en casos calificados, el Director del Trabajo podrá autorizar, previo acuerdo de los trabajadores involucrados, si los hubiere, y mediante resolución fundada, el establecimiento de sistemas excepcionales de distribución de jornadas de trabajo y descansos, cuando lo dispuesto en este artículo no pudiere aplicarse, atendidas las especiales características de la prestación de servicios y se hubiere constatado, mediante fiscalización, que las condiciones de higiene y seguridad son compatibles con el referido sistema.
 
-La vigencia de la resolución será por el plazo de cuatro años. No obstante, el Director del Trabajo podrá renovarla si se verifica que los requisitos que justificaron su otorgamiento se mantienen. Tratándose de las obras o faenas, la vigencia de la resolución no podrá exceder el plazo de ejecución de las mismas, con un máximo de cuatro años.
+La vigencia de la resolución será por el plazo de hasta tres años. No obstante, el Director del Trabajo podrá renovarla si se verifica que los requisitos que justificaron su otorgamiento se mantienen. Tratándose de las obras o faenas, la vigencia de la resolución no podrá exceder el plazo de ejecución de las mismas, con un máximo de hasta tres años.
 
 > **Nota.** El artículo 2º de la LEY 20178, publicada el 25.04.2007, dispone que la presente norma, entrará en vigencia el día 1º del mes subsiguiente al de su publicación.
 
@@ -590,7 +590,7 @@ e) gratificación, que corresponde a la parte de utilidades con que el empleador
 
 #### Artículo 43
 
-Los reajustes legales no se aplicarán a las remuneraciones y beneficios estipulados en contratos y convenios colectivos de trabajo o en fallos arbitrales recaídos en una negociación colectiva.
+Los reajustes legales no se aplicarán a las remuneraciones y beneficios estipulados en contratos y convenios colectivos de trabajo, en acuerdos de grupo negociador o en fallos arbitrales recaídos en una negociación colectiva.
 
 #### Artículo 44
 
@@ -636,7 +636,7 @@ Los empleadores estarán obligados a pagar las gratificaciones al personal con e
 
 #### Artículo 49
 
-Para los efectos del pago de gratificaciones, el Servicio de Impuestos Internos determinará, en la liquidación, el capital propio del empleador invertido en la empresa y calculará el monto de la utilidad líquida que deberá servir de base para el pago de gratificaciones. El referido Servicio comunicará este antecedente al Juzgado de Letras del Trabajo o a la Dirección del Trabajo, cuando éstos lo soliciten. Asimismo, deberá otorgar certificaciones en igual sentido a los empleadores, sindicatos de trabajadores o delegados del personal cuando ellos lo requieran, dentro del plazo de treinta días hábiles, contado desde el momento en que el empleador haya entregado todos los antecedentes necesarios y suficientes para la determinación de la utilidad conforme al artículo precedente.
+Para los efectos del pago de gratificaciones, el Servicio de Impuestos Internos determinará, en la liquidación, el capital propio del empleador invertido en la empresa y calculará el monto de la utilidad líquida que deberá servir de base para el pago de gratificaciones. El referido Servicio comunicará este antecedente al Juzgado de Letras del Trabajo o a la Dirección del Trabajo, cuando éstos lo soliciten. Asimismo, deberá otorgar certificaciones en igual sentido a los empleadores o sindicatos de trabajadores cuando ellos lo requieran, dentro del plazo de treinta días hábiles, contado desde el momento en que el empleador haya entregado todos los antecedentes necesarios y suficientes para la determinación de la utilidad conforme al artículo precedente.
 
 #### Artículo 50
 
@@ -770,11 +770,13 @@ En caso de término del contrato de trabajo, el empleador estará obligado a pag
 
 En los establecimientos que atiendan público a través de garzones, como restaurantes, pubs, bares, cafeterías, discotecas, fondas y similares, el empleador deberá sugerir, en cada cuenta de consumo, el monto correspondiente a una propina de a lo menos el 10% del mismo, la que deberá pagarse por el cliente, salvo que éste manifieste su voluntad en contrario.
 
-Los trabajadores tendrán derecho a percibir todas aquellas sumas que por concepto de propinas entreguen los clientes de dichos establecimientos, sea en forma directa y en dinero en efectivo al trabajador, como también a través de los medios de pago aceptados por el empleador, tales como tarjetas de crédito, de débito, cheques u otros títulos de crédito. El empleador no podrá disponer de ellas, deberá entregarlas íntegramente a los trabajadores y no podrá efectuar descuentos de ninguna naturaleza sobre las mismas. Tampoco podrá distribuir las propinas, facultad que sólo recae en los trabajadores que las reciben del cliente, las que se entenderán de su propiedad.
+Los trabajadores tendrán derecho a percibir todas aquellas sumas que por concepto de propinas entreguen los clientes de dichos establecimientos, sea en forma directa y en dinero en efectivo al trabajador, como también y a su elección a través de los medios de pago aceptados por el empleador, tales como tarjetas de crédito, de débito, cheques u otros títulos de crédito. El empleador no podrá disponer de ellas, deberá entregarlas íntegramente a los trabajadores y no podrá efectuar descuentos de ninguna naturaleza sobre las mismas. Tampoco podrá distribuir las propinas, facultad que sólo recae en los trabajadores que las reciben del cliente, las que se entenderán de su propiedad.
 
 Tratándose de pagos con tarjetas de crédito u otros títulos de crédito, el empleador deberá liquidar y enterar dichas sumas en la fecha en que acuerde con sus trabajadores, plazo que no podrá exceder de siete días hábiles desde que se recibieron del cliente. En estos casos, el empleador deberá entregar al trabajador copia del vale o comprobante en que conste la cantidad total pagada y el valor del servicio o producto adquirido. Tratándose de eventos especiales organizados por el empleador y que sean pagados con posterioridad a su celebración, este plazo se extenderá hasta la fecha de pago de la respectiva factura, cuando la propina esté incorporada a ella.
 
 Si las propinas no son pagadas en efectivo, los plazos contenidos en el inciso anterior podrán extenderse excepcionalmente cuando, producto del aislamiento geográfico de la zona en que se encuentre el establecimiento, unido ello a la falta de medios electrónicos de pago, no sea posible entregar las propinas en el tiempo establecido.
+
+Las normas contenidas en los incisos segundo, tercero y cuarto de este artículo serán también aplicables, en lo pertinente, en aquellos establecimientos de atención al público en los que se deje propina, como las estaciones de expendio de combustibles u otros. Los establecimientos que acepten medios electrónicos de pago deberán permitir que la propina también pueda ser pagada por los mismos medios.
 
 #### Artículo 64 Bis
 
@@ -928,7 +930,7 @@ La remuneración del aprendiz no estará sujeta a lo dispuesto en el inciso terc
 
 #### Artículo 82
 
-En ningún caso las remuneraciones de los aprendices podrán ser reguladas a través de convenios o contratos colectivos o fallos arbitrales recaídos en una negociación colectiva.
+En ningún caso las remuneraciones de los aprendices podrán ser reguladas a través de convenios o contratos colectivos, acuerdos de grupo negociador o fallos arbitrales recaídos en una negociación colectiva.
 
 #### Artículo 83
 
@@ -1918,7 +1920,7 @@ Especialmente, se deberán estipular las normas que se deben observar para garan
 
 Una copia del reglamento deberá remitirse al Ministerio de Salud y a la Dirección del Trabajo dentro de los cinco días siguientes a la vigencia del mismo.
 
-El delegado del personal, cualquier trabajador o las organizaciones sindicales de la empresa respectiva podrán impugnar las disposiciones del reglamento interno que estimaren ilegales, mediante presentación efectuada ante la autoridad de salud o ante la Dirección del Trabajo, según corresponda. De igual modo, esa autoridad o esa Dirección podrán, de oficio, exigir modificaciones al referido reglamento en razón de ilegalidad. Asimismo, podrán exigir que se incorporen las disposiciones que le son obligatorias de conformidad al artículo siguiente.
+Cualquier trabajador o las organizaciones sindicales de la empresa respectiva podrán impugnar las disposiciones del reglamento interno que estimaren ilegales, mediante presentación efectuada ante la autoridad de salud o ante la Dirección del Trabajo, según corresponda. De igual modo, esa autoridad o esa Dirección podrán, de oficio, exigir modificaciones al referido reglamento en razón de ilegalidad. Asimismo, podrán exigir que se incorporen las disposiciones que le son obligatorias de conformidad al artículo siguiente.
 
 #### Artículo 154
 
@@ -1964,7 +1966,7 @@ Las respuestas que dé el empleador a las cuestiones planteadas en conformidad a
 
 #### Artículo 156
 
-Los reglamentos internos y sus modificaciones deberán ponerse en conocimiento de los trabajadores treinta días antes de la fecha en que comiencen a regir, y fijarse, a lo menos, en dos sitios visibles del lugar de las faenas con la misma anticipación. Deberá también entregarse una copia a los sindicatos, al delegado del personal y a los Comités Paritarios existentes en la empresa.
+Los reglamentos internos y sus modificaciones deberán ponerse en conocimiento de los trabajadores treinta días antes de la fecha en que comiencen a regir, y fijarse, a lo menos, en dos sitios visibles del lugar de las faenas con la misma anticipación. Deberá también entregarse una copia a los sindicatos y a los Comités Paritarios existentes en la empresa.
 
 Además, el empleador deberá entregar gratuitamente a los trabajadores un ejemplar impreso que contenga en un texto el reglamento interno de la empresa y el reglamento a que se refiere la Ley N° 16.744.
 
@@ -2248,7 +2250,7 @@ En caso de incompatibilidad, deberá pagarse al trabajador la indemnización por
 
 #### Artículo 177
 
-El finiquito, la renuncia y el mutuo acuerdo deberán constar por escrito. El instrumento respectivo que no fuere firmado por el interesado y por el presidente del sindicato o el delegado del personal o sindical respectivos, o que no fuere ratificado por el trabajador ante el inspector del trabajo, no podrá ser invocado por el empleador. El finiquito deberá ser otorgado por el empleador y puesto su pago a disposición del trabajador dentro de diez días hábiles, contados desde la separación del trabajador. Las partes podrán pactar el pago en cuotas de conformidad con los artículos 63 bis y 169.
+El finiquito, la renuncia y el mutuo acuerdo deberán constar por escrito. El instrumento respectivo que no fuere firmado por el interesado y por el presidente del sindicato o el delegado sindical respectivos, o que no fuere ratificado por el trabajador ante el inspector del trabajo, no podrá ser invocado por el empleador. El finiquito deberá ser otorgado por el empleador y puesto su pago a disposición del trabajador dentro de diez días hábiles, contados desde la separación del trabajador. Las partes podrán pactar el pago en cuotas de conformidad con los artículos 63 bis y 169.
 
 Para estos efectos, podrán actuar también como ministros de fe, un notario público de la localidad, el oficial del registro civil de la respectiva comuna o sección de comuna o el secretario municipal correspondiente.
 
@@ -2266,7 +2268,7 @@ El finiquito ratificado por el trabajador ante el inspector del trabajo o ante a
 
 #### Artículo 178
 
-Las indemnizaciones por término de funciones o de contratos de trabajo establecidas por ley, las pactadas en contratos colectivos de trabajo o en convenios colectivos que complementen, modifiquen o reemplacen estipulaciones de contratos colectivos, no constituirán renta para ningún efecto tributario.
+Las indemnizaciones por término de funciones o de contratos de trabajo establecidas por ley, las pactadas en contratos colectivos de trabajo o en convenios colectivos o en acuerdos de grupo negociador que complementen, modifiquen o reemplacen estipulaciones de contratos colectivos, no constituirán renta para ningún efecto tributario.
 
 Sin perjuicio de lo dispuesto en el inciso anterior, cuando por terminación de funciones o de contrato de trabajo, se pagaren además otras indemnizaciones a las precitadas, deberán sumarse éstas a aquéllas con el único objeto de aplicarles lo dispuesto en el Nº 13 del artículo 17 de la ley sobre Impuesto a la Renta a las indemnizaciones que no estén mencionadas en el inciso primero de este artículo.
 
@@ -3026,7 +3028,7 @@ J.- Los menores de 18 años y mujeres no podrán llevar, transportar, cargar, ar
 
 # Libro III
 
-DE LAS ORGANIZACIONES SINDICALES Y DEL DELEGADO DEL PERSONAL
+DE LAS ORGANIZACIONES SINDICALES
 
 ## Título I
 
@@ -3080,7 +3082,7 @@ Los funcionarios de las empresas del Estado dependientes del Ministerio de Defen
 
 #### Artículo 218
 
-Para los efectos de este Libro III serán ministros de fe, además de los inspectores del trabajo, los notarios públicos, los oficiales del Registro Civil y los funcionarios de la Administración del Estado que sean designados en calidad de tales por la Dirección del Trabajo.
+Para los efectos de este Libro III serán ministros de fe, además de los inspectores del trabajo, los notarios públicos, los oficiales del Registro Civil y los funcionarios de la Administración del Estado que sean designados en calidad de tales por la Dirección del Trabajo y los secretarios municipales en localidades en que no existan otros ministros de fe disponibles.
 
 Respecto al acto de constitución del sindicato, los trabajadores deberán decidir quién será el ministro de fe, eligiendo alguno de los señalados en el inciso anterior. En los demás casos en que la ley requiera genéricamente un ministro de fe, tendrán tal calidad los señalados en el inciso primero, y si ésta nada dispusiere, serán ministros de fe quienes el estatuto del sindicato determine.
 
@@ -3122,15 +3124,17 @@ DE LA CONSTITUCION DE LOS SINDICATOS
 
 #### Artículo 221
 
-La constitución de los sindicatos se efectuará en una asamblea que reúna los quórum a que se refieren los artículos 227 y 228 y deberá celebrarse ante un ministro de fe.
+La constitución de los sindicatos se efectuará en una asamblea que reúna los quórum a que se refieren los artículos 227 y 228 y deberá celebrarse ante un ministro de fe. Tratándose de la constitución de un sindicato interempresa, sólo podrán actuar como ministros de fe los inspectores del trabajo.
 
 En tal asamblea y en votación secreta se aprobarán los estatutos del sindicato y se procederá a elegir su directorio. De la asamblea se levantará acta, en la cual constarán las actuaciones indicadas en el inciso precedente, la nómina de los asistentes, y los nombres y apellidos de los miembros del directorio.
 
-Los trabajadores que concurran a la constitución de un sindicato de empresa, de establecimiento de empresa o de un sindicato interempresa, gozan de fuero laboral desde los diez días anteriores a la celebración de la respectiva asamblea constitutiva y hasta treinta días de realizada. Este fuero no podrá exceder de 40 días.
+Los trabajadores que concurran a la constitución de un sindicato de empresa o de establecimiento de empresa gozarán de fuero laboral desde los diez días anteriores a la celebración de la respectiva asamblea constitutiva y hasta treinta días de realizada. Este fuero no podrá exceder de cuarenta días.
 
-Los trabajadores que constituyan un sindicato de trabajadores transitorios o eventuales, gozan del fuero a que se refiere el inciso anterior, hasta el día siguiente de la asamblea constitutiva y se les aplicará a su respecto, lo dispuesto en el inciso final del artículo 243. Este fuero no excederá de 15 días.
+Los trabajadores que concurran a la constitución de un sindicato interempresa gozarán de fuero laboral desde que se formule la solicitud reservada de ministro de fe para la asamblea constitutiva y hasta treinta días después de realizada esta. La asamblea deberá verificarse dentro de los diez días siguientes a la solicitud de ministro de fe.
 
-Se aplicará a lo establecido en los dos incisos precedentes, lo dispuesto en el inciso tercero del artículo 238.
+Los trabajadores que constituyan un sindicato de trabajadores transitorios o eventuales, gozan del fuero a que se refiere el inciso tercero, hasta el día siguiente de la asamblea constitutiva y se les aplicará a su respecto, lo dispuesto en el inciso final del artículo 243. Este fuero no excederá de 15 días.
+
+Se aplicará a lo establecido en los incisos tercero, cuarto y quinto precedentes, lo dispuesto en el inciso tercero del artículo 238.
 
 #### Artículo 222
 
@@ -3178,7 +3182,7 @@ La constitución de un sindicato en una empresa que tenga más de cincuenta trab
 
 No obstante lo anterior, para constituir dicha organización sindical en aquellas empresas en las cuales no exista un sindicato vigente, se requerirá al menos de ocho trabajadores, debiendo completarse el quórum exigido en el inciso anterior, en el plazo máximo de un año, transcurrido el cual caducará su personalidad jurídica, por el solo ministerio de la ley, en el evento de no cumplirse con dicho requisito.
 
-Si la empresa tiene cincuenta trabajadores o menos, podrán constituir sindicato ocho de ellos.
+Si la empresa tiene cincuenta trabajadores o menos, podrán constituir sindicato ocho de ellos, siempre que representen como mínimo el 50% del total de trabajadores. Si la empresa tiene un número impar de trabajadores, el porcentaje señalado se calculará sobre el número par inmediatamente anterior a aquel. En las empresas donde no exista sindicato, será aplicable lo dispuesto en el inciso anterior. Para efectos del cómputo del número total de trabajadores de la empresa, se descontarán aquellos impedidos de negociar colectivamente de acuerdo al artículo 305, sin perjuicio del derecho de estos trabajadores a afiliarse a una organización sindical.
 
 Si la empresa tuviere más de un establecimiento, podrán también constituir sindicato los trabajadores de cada uno de ellos, con un mínimo de veinticinco trabajadores que representen, a lo menos, el treinta por ciento de los trabajadores de dicho establecimiento.
 
@@ -3190,7 +3194,17 @@ Para constituir un sindicato que no sea de aquellos a que se refiere el artícul
 
 #### Artículo 229
 
-Los trabajadores de una empresa que estén afiliados a un sindicato interempresa o de trabajadores eventuales o transitorios, siempre que sean ocho o más y que no se hubiere elegido a uno de ellos como director del sindicato respectivo, podrán designar de entre ellos a un delegado sindical, el que gozará del fuero a que se refiere el artículo 243; si fueren veinticinco o más trabajadores, elegirán tres delegados sindicales. Con todo, si fueren 25 o más trabajadores y de entre ellos se hubiere elegido como director sindical a dos o uno de ellos, podrán elegir, respectivamente, uno o dos delegados sindicales. Los delegados sindicales gozarán del fuero a que se refiere el artículo 243.
+Los trabajadores de una empresa que estén afiliados a un sindicato interempresa o de trabajadores eventuales o transitorios, elegirán uno o más delegados sindicales de acuerdo a las siguientes reglas: de ocho a cincuenta trabajadores elegirán un delegado sindical; de cincuenta y uno a setenta y cinco elegirán dos delegados sindicales, y si fueran setenta y seis o más trabajadores, elegirán tres delegados.
+
+Si entre los trabajadores de la empresa se hubieren elegido uno o más directores sindicales, estos cargos se rebajarán en igual proporción del número total de delegados sindicales que corresponda elegir en la respectiva empresa.
+
+Los delegados sindicales gozarán del fuero a que se refiere el artículo 243.
+
+Las elecciones de los delegados sindicales se realizarán en presencia de un ministro de fe y respecto de ellas se deberá hacer la comunicación a que se refiere el artículo 225, con copia a la Inspección del Trabajo respectiva.
+
+La alteración en el número de afiliados no modificará el número de delegados, el que deberá adecuarse en la próxima elección, sin perjuicio de informar a la Dirección del Trabajo sobre este hecho, a más tardar dentro del quinto día hábil de haberse producido la alteración.
+
+El mandato de los delegados durará el tiempo que señalen los estatutos, y si estos no lo regulan, tendrá la misma duración que el establecido para los directores sindicales.
 
 #### Artículo 230
 
@@ -3205,6 +3219,8 @@ DE LOS ESTATUTOS
 El estatuto del sindicato deberá contemplar los requisitos de afiliación, de desafiliación y los derechos y obligaciones de sus miembros, los requisitos para ser elegido dirigente sindical, los mecanismos de modificación del estatuto o de fusión del sindicato, el régimen disciplinario interno y la clase y denominación de sindicato que lo identifique, que no podrá sugerir el carácter de único o exclusivo.
 
 Las asambleas de socios serán ordinarias y extraordinarias. Las asambleas ordinarias se celebrarán con la frecuencia y en la oportunidad establecidas en los estatutos, y serán citadas por el presidente o quien los estatutos determinen. Las asambleas extraordinarias serán convocadas por el presidente o por el veinte por ciento de los socios.
+
+El estatuto deberá incorporar un mecanismo destinado a resguardar que el directorio esté integrado por directoras en una proporción no inferior a un tercio del total de sus integrantes con derecho al fuero y a las demás prerrogativas que establece este Código, o por la proporción de directoras que corresponda al porcentaje de afiliación de trabajadoras en el total de afiliados, en el caso de ser menor.
 
 El estatuto deberá disponer los resguardos para que los socios puedan ejercer su libertad de opinión y su derecho a votar. Podrá el estatuto, además, contener normas de ponderación del voto, cuando afilie a trabajadores no permanentes.
 
@@ -3300,7 +3316,7 @@ Derogado.
 
 #### Artículo 243
 
-Los directores sindicales gozarán del fuero laboral establecido en la legislación vigente, desde la fecha de su elección y hasta seis meses después de haber cesado en el cargo, siempre que la cesación en él no se hubiere producido por censura de la asamblea sindical, por sanción aplicada por el tribunal competente en cuya virtud deban hacer abandono del mismo, o por término de la empresa.
+Los directores sindicales gozarán del fuero laboral establecido en la legislación vigente desde la fecha de su elección y hasta seis meses después de haber cesado en el cargo, siempre que la cesación en él no se hubiere producido por censura de la asamblea sindical, por sanción aplicada por el tribunal competente en cuya virtud deba hacer abandono del cargo, por renuncia al sindicato o por término de la empresa. Asimismo, el fuero de los directores sindicales terminará cuando caduque la personalidad jurídica del sindicato por aplicación de lo dispuesto en el inciso tercero del artículo 223 o en el inciso segundo del artículo 227.
 
 Asimismo, durante el lapso a que se refiere el inciso precedente, el empleador no podrá, salvo caso fortuito o fuerza mayor, ejercer respecto de los directores sindicales las facultades que establece el artículo 12 de este Código.
 
@@ -3340,29 +3356,29 @@ Derogado.
 
 #### Artículo 249
 
-Los empleadores deberán conceder a los directores y delegados sindicales los permisos necesarios para ausentarse de sus labores con el objeto de cumplir sus funciones fuera del lugar de trabajo, los que no podrán ser inferiores a seis horas semanales por cada director, ni a ocho tratándose de directores de organizaciones sindicales con 250 o más trabajadores.
+Los empleadores deberán conceder a los directores y delegados sindicales las horas de trabajo sindical necesarias para ausentarse de sus labores con el objeto de cumplir sus funciones fuera del lugar de trabajo, las que no podrán ser inferiores a seis horas semanales por cada director, ni a ocho tratándose de directores de organizaciones sindicales con 250 o más trabajadores.
 
-El tiempo de los permisos semanales será acumulable por cada director dentro del mes calendario correspondiente y cada director podrá ceder a uno o más de los restantes la totalidad o parte del tiempo que le correspondiere, previo aviso escrito al empleador.
+El tiempo de las horas semanales de trabajo sindical será acumulable por cada director dentro del mes calendario correspondiente y cada director podrá ceder a uno o más de los restantes la totalidad o parte del tiempo que le correspondiere, previo aviso escrito al empleador.
 
 Con todo, podrá excederse el límite indicado en los incisos anteriores cuando se trate de citaciones practicadas a los directores o delegados sindicales, en su carácter de tales, por las autoridades públicas, las que deberán acreditarse debidamente si así lo exigiere el empleador. Tales horas no se considerarán dentro de aquellas a que se refieren los incisos anteriores.
 
-El tiempo que abarquen los permisos otorgados a directores o delegados para cumplir labores sindicales se entenderá trabajado para todos los efectos, siendo de cargo del sindicato respectivo el pago de las remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador que puedan corresponder a aquéllos durante el tiempo de permiso.
+El tiempo que abarquen las horas de trabajo sindical otorgadas a directores o delegados para cumplir labores sindicales se entenderá trabajado para todos los efectos, siendo de cargo del sindicato respectivo el pago de las remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador que puedan corresponder a aquéllos durante el tiempo de permiso.
 
-Las normas sobre permiso y pago de remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador podrán ser objeto de negociación de las partes.
+Las normas sobre horas de trabajo sindical y pago de remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador podrán ser objeto de negociación de las partes.
 
 #### Artículo 250
 
-Habrá derecho a los siguientes permisos sindicales adicionales a los señalados en el artículo anterior:
+Habrá derecho a las siguientes horas de trabajo sindical adicionales a las señaladas en el artículo anterior:
 
 a) Los directores sindicales, con acuerdo de la asamblea respectiva, adoptado en conformidad a sus estatutos, podrán, conservando su empleo, excusarse enteramente de su obligación de prestar servicios a su empleador siempre que sea por un lapso no inferior a seis meses y hasta la totalidad del tiempo que dure su mandato. Asimismo, el dirigente de un sindicato interempresa podrá excusarse por un lapso no superior a un mes con motivo de la negociación colectiva que tal sindicato efectúe.
 
-b) Podrán también, en conformidad a los estatutos del sindicato, los dirigentes y delegados sindicales hacer uso hasta de una semana de permiso en el año calendario, a fin de realizar actividades que sean necesarias o estimen indispensables para el cumplimiento de sus funciones de dirigentes, o para el perfeccionamiento en su calidad de tales.
+b) Los directores y delegados sindicales podrán también hacer uso de hasta tres semanas de horas de trabajo sindical en el año calendario para asistir a actividades destinadas a formación y capacitación sindical, en conformidad a los estatutos del sindicato.
 
 En los casos señalados en las letras precedentes, los directores o delegados sindicales comunicarán por escrito al empleador, con diez días de anticipación a lo menos, la circunstancia de que harán uso de estas franquicias.
 
 La obligación de conservar el empleo se entenderá cumplida si el empleador asigna al trabajador otro cargo de igual grado y remuneración al que anteriormente desempeñaba.
 
-Las remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador, durante los permisos a que se refiere este artículo y el siguiente, serán pagadas por la respectiva organización sindical, sin perjuicio del acuerdo a que puedan llegar las partes.
+Las remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador, durante las horas de trabajo sindical a que se refiere este artículo y el siguiente, serán pagadas por la respectiva organización sindical, sin perjuicio del acuerdo a que puedan llegar las partes.
 
 #### Artículo 251
 
@@ -3370,7 +3386,7 @@ No obstante lo dispuesto en el artículo anterior, los empleadores podrán conve
 
 #### Artículo 252
 
-El tiempo empleado en licencias y permisos sindicales se entenderá como efectivamente trabajado para todos los efectos.
+El tiempo empleado en licencias y horas de trabajo sindical se entenderá como efectivamente trabajado para todos los efectos.
 
 ## Capítulo V
 
@@ -3402,7 +3418,7 @@ Del patrimonio sindical
 
 #### Artículo 256
 
-El patrimonio del sindicato estará compuesto por las cuotas o aportes ordinarios o extraordinarios que la asamblea imponga a sus asociados, con arreglo a los estatutos; por el aporte de los adherentes a un instrumento colectivo y de aquellos a quienes se les hizo extensivo éste; por las donaciones entre vivos o asignaciones por causa de muerte que se le hicieren; por el producto de sus bienes; por el producto de la venta de sus activos; por las multas cobradas a los asociados de conformidad a los estatutos, y por las demás fuentes que prevean los estatutos.
+El patrimonio del sindicato estarácompuesto por las cuotas o aportes ordinarios o extraordinarios que la asamblea imponga a sus asociados, con arreglo a los estatutos; por el aporte o cuota sindical ordinaria del exafiliado que se mantenga afecto al instrumento colectivo negociado por la organización, en los términos del inciso segundo del artículo 323; por la cuota sindical ordinaria de los no afiliados que hayan aceptado que se les aplique la extensión de beneficios de conformidad al inciso segundo del artículo 322; por las donaciones entre vivos o asignaciones por causa de muerte que se le hicieren; por el producto de sus bienes; por el producto de la venta de sus activos; por las multas cobradas a los asociados de conformidad a los estatutos, y por las demás fuentes que prevean los estatutos.
 
 #### Artículo 257
 
@@ -3524,6 +3540,8 @@ Derogado.
 
 El número de directores de las federaciones y confederaciones, y las funciones asignadas a los respectivos cargos se establecerán en sus estatutos.
 
+Los estatutos de las federaciones y confederaciones deberán incorporar un mecanismo destinado a resguardar que sus directorios estén integrados por un número de directoras no inferior a un tercio del total de sus integrantes con derecho al fuero, horas de trabajo sindical y licencia del artículo 274, o por el número de directoras que corresponda al porcentaje de dirigentas que puedan ser electas de conformidad al artículo 273, en caso de ser menor.
+
 #### Artículo 273
 
 Para ser elegido director de una federación o confederación se requiere estar en posesión del cargo de director de alguna de las organizaciones afiliadas.
@@ -3534,9 +3552,9 @@ Todos los miembros del directorio de una federación o confederación mantendrá
 
 Los directores de las federaciones o confederaciones podrán excusarse de su obligación de prestar servicios a su empleador por todo o parte del período que dure su mandato y hasta un mes después de expirado éste, en cuyo caso se aplicará lo dispuesto en los incisos segundo y tercero del artículo 250.
 
-El director de una federación o confederación que no haga uso de la opción contemplada en el inciso anterior, tendrá derecho a que el empleador le conceda diez horas semanales de permiso para efectuar su labor sindical, acumulables dentro del mes calendario.
+El director de una federación o confederación que no haga uso de la opción contemplada en el inciso anterior, tendrá derecho a que el empleador le conceda diez horas semanales de horas de trabajo sindical para efectuar su labor sindical, acumulables dentro del mes calendario.
 
-El tiempo que abarquen los permisos antes señalados se entenderá como efectivamente trabajado para todos los efectos, y las remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador por tales períodos serán de cuenta de la federación o confederación, sin perjuicio del acuerdo a que puedan llegar las partes.
+El tiempo que abarquen las horas de trabajo sindical antes señaladas se entenderá como efectivamente trabajado para todos los efectos, y las remuneraciones, beneficios y cotizaciones previsionales de cargo del empleador por tales períodos serán de cuenta de la federación o confederación, sin perjuicio del acuerdo a que puedan llegar las partes.
 
 #### Artículo 275
 
@@ -3565,6 +3583,8 @@ Los objetivos, estructura, funcionamiento y administración de las centrales sin
 Con todo, los estatutos deberán contemplar que la aprobación y reforma de los mismos, así como la elección del cuerpo directivo, deberán hacerse ante un ministro de fe, en votación secreta, garantizando la adecuada participación de las minorías. Los representantes de las organizaciones afiliadas votarán en proporción al número de sus asociados. La duración del directorio no podrá exceder de cuatro años.
 
 Los estatutos deberán, también, contemplar un mecanismo que permita la remoción de todos los miembros del directorio de la central, en los términos señalados en el artículo 244.
+
+Asimismo, los estatutos deberán incorporar un mecanismo destinado a resguardar que su cuerpo directivo esté integrado por un número de directoras no inferior al 30% del total de integrantes del directorio con derecho al fuero, inamovilidad funcionaria, horas de trabajo sindical y licencia del artículo 283.
 
 #### Artículo 279
 
@@ -3602,11 +3622,11 @@ Los integrantes del directorio de una central sindical que, al momento de su ele
 
 Los directores de las centrales sindicales podrán excusarse de su obligación de prestar servicios a su empleador por todo el período que dure su mandato y hasta un mes después de expirado éste, sin derecho a remuneración. Este período se considerará como efectivamente trabajado para todos los efectos legales y contractuales.
 
-El director de una central sindical que no haga uso de la opción contemplada en el inciso anterior, tendrá derecho a que el empleador le conceda hasta veinticuatro horas semanales, acumulables dentro del mes calendario, de permisos para efectuar su labor sindical.
+El director de una central sindical que no haga uso de la opción contemplada en el inciso anterior, tendrá derecho a que el empleador le conceda hasta veinticuatro horas semanales, acumulables dentro del mes calendario, de horas de trabajo sindical para efectuar su labor.
 
-El tiempo que abarquen los permisos antes señalados se entenderá como efectivamente trabajado para todos los efectos, y las remuneraciones por ese período serán de cargo de la central sindical.
+El tiempo que abarquen las horas de trabajo sindical antes señaladas se entenderá como efectivamente trabajado para todos los efectos, y las remuneraciones por ese período serán de cargo de la central sindical.
 
-Las normas sobre permisos y remuneraciones podrán ser modificadas de común acuerdo por las partes, sólo en cuanto excedan de los montos establecidos en los incisos precedentes.
+Las normas sobre horas de trabajo sindical y remuneraciones podrán ser modificadas de común acuerdo por las partes, sólo en cuanto excedan de los montos establecidos en los incisos precedentes.
 
 #### Artículo 284
 
@@ -3638,45 +3658,61 @@ En todo lo que no sea contrario a las normas especiales que las rigen, se aplica
 
 ## Capítulo IX
 
-DE LAS PRACTICAS DESLEALES O ANTISINDICALES Y DE SU SANCION
+DE LAS PRACTICAS ANTISINDICALES Y DE SU SANCION
 
 #### Artículo 289
 
-Serán consideradas prácticas desleales del empleador, las acciones que atenten contra la libertad sindical.
+Serán consideradas prácticas antisindicales del empleador, las acciones que atenten contra la libertad sindical, entendiéndose por tales, entre otras, las siguientes:
 
-Incurre especialmente en esta infracción:
+a) Obstaculizar la formación o funcionamiento de sindicatos de trabajadores negándose injustificadamente a recibir a sus dirigentes, ejerciendo presiones mediante amenazas de pérdida del empleo o de beneficios, o del cierre de la empresa, establecimiento o faena, en caso de acordarse la constitución de un sindicato; ejecutar maliciosamente actos tendientes a alterar el quórum de un sindicato o despedir a trabajadores por haber manifestado su intención de sindicalizarse.
 
-a) El que obstaculice la formación o funcionamiento de sindicatos de trabajadores negándose injustificadamente a recibir a sus dirigentes, ejerciendo presiones mediante amenazas de pérdida del empleo o de beneficios, o del cierre de la empresa, establecimiento o faena, en caso de acordarse la constitución de un sindicato; el que maliciosamente ejecutare actos tendientes a alterar el quórum de un sindicato.
+Las conductas a que alude esta letra se considerarán también prácticas desleales cuando se refieran a los Comités Paritarios de Higiene
 
-Las conductas a que alude esta letra se considerarán también prácticas desleales cuando se refieran a los Comités Paritarios de Higiene y Seguridad o a sus integrantes;
+y Seguridad o a sus integrantes;
 
-b) El que se niegue a proporcionar a los dirigentes del o de los sindicatos base la información a que se refieren los incisos quinto y sexto del artículo 315;
+b) Negarse a proporcionar a los dirigentes del o de los sindicatos base la información a que se refieren los artículos 315 y 317;
 
-c) El que ofrezca u otorgue beneficios especiales con el fin exclusivo de desestimular la formación de un sindicato;
+c) Ofrecer u otorgar beneficios especiales que signifiquen desestimular la formación de un sindicato;
 
-d) El que realice alguna de las acciones indicadas en las letras precedentes, a fin de evitar la afiliación de un trabajador a un sindicato ya existente;
+d) Realizar alguna de las acciones indicadas en las letras precedentes, a fin de evitar la afiliación de un trabajador a un sindicato ya existente;
 
-e) El que ejecute actos de injerencia sindical, tales como intervenir activamente en la organización de un sindicato; ejercer presiones conducentes a que los trabajadores ingresen a un sindicato determinado; discriminar entre los diversos sindicatos existentes otorgando a unos y no a otros, injusta y arbitrariamente, facilidades o concesiones extracontractuales; o condicionar la contratación de un trabajador a la firma de una solicitud de afiliación a un sindicato o de una autorización de descuento de cuotas sindicales por planillas de remuneraciones;
+e) Ejecutar actos de injerencia sindical, tales como intervenir activamente en la organización de un sindicato; ejercer presiones conducentes a que los trabajadores ingresen a un sindicato determinado; discriminar entre los
 
-f) El que ejerza discriminaciones indebidas entre trabajadores con el fin exclusivo de incentivar o desestimular la afiliación o desafiliación sindical, y
+diversos sindicatos existentes otorgando a unos y no a otros, injusta y arbitrariamente, facilidades o concesiones extracontractuales; o
 
-g) El que aplique las estipulaciones de un contrato o convenio colectivo a los trabajadores a que se refiere el artículo 346, sin efectuar el descuento o la entrega al sindicato de lo descontado según dicha norma dispone.
+condicionar la contratación de un trabajador a la firma de una solicitud de afiliación a un sindicato o de una autorización de descuento de
+
+cuotas sindicales por planillas de remuneraciones;
+
+f) Negarse a reincorporar en sus funciones a un dirigente sindical aforado, frente al requerimiento de un fiscalizador de la Inspección del Trabajo, salvo que el tribunal respectivo haya decretado la separación provisional del trabajador de conformidad a lo establecido en el inciso segundo del artículo 174;
+
+g) Ejercer discriminaciones indebidas entre trabajadores que signifiquen incentivar o desestimular la afiliación o desafiliación sindical;
+
+h) Otorgar o convenir con trabajadores no afiliados a la organización u organizaciones que los hubieren negociado, los mismos beneficios pactados en un instrumento colectivo, salvo lo dispuesto en el inciso final del artículo 322 de este Código.
+
+No constituye práctica antisindical el o los acuerdos individuales entre el trabajador y el empleador sobre remuneraciones o sus incrementos que se funden en las capacidades, calificaciones, idoneidad, responsabilidad o productividad del trabajador, e
+
+i) No descontar o no integrar a la organización sindical respectiva las cuotas o aportes sindicales, ordinarios o extraordinarios, que corresponda pagar por los afiliados, o la cuota o aporte convenido en un acuerdo de extensión de conformidad al artículo 322, cuando este proceda.
 
 #### Artículo 290
 
-Serán consideradas prácticas desleales del trabajador, de las organizaciones sindicales, o de éstos y del empleador en su caso, las acciones que atenten contra la libertad sindical.
+Serán consideradas prácticas antisindicales del trabajador, de las organizaciones sindicales, o de éstos y del empleador en su caso, las acciones que atenten contra la libertad sindical, entendiéndose por tales, entre otras, las siguientes:
 
-Incurre especialmente en esta infracción:
+a) Acordar con el empleador la ejecución por parte de éste de alguna de las prácticas antisindicales atentatorias contra la libertad sindical en conformidad al artículo precedente y el que presione indebidamente al empleador para inducirlo a ejecutar tales actos;
 
-a) El que acuerde con el empleador la ejecución por parte de éste de alguna de las prácticas desleales atentatorias contra la libertad sindical en conformidad al artículo precedente y el que presione indebidamente al empleador para inducirlo a ejecutar tales actos;
+b) Acordar con el empleador el despido de un trabajador u otra medida o discriminación indebida por no haber éste pagado multas, cuotas o deudas a un sindicato y el que de cualquier modo presione al empleador en tal sentido;
 
-b) El que acuerde con el empleador el despido de un trabajador u otra medida o discriminación indebida por no haber éste pagado multas, cuotas o deudas a un sindicato y el que de cualquier modo presione al empleador en tal sentido;
+c) Aplicar sanciones de multas o de expulsión de un afiliado por no haber acatado éste una decisión ilegal o por haber presentado
 
-c) Los que apliquen sanciones de multas o de expulsión de un afiliado por no haber acatado éste una decisión ilegal o por haber presentado cargos o dado testimonio en juicio, y los directores sindicales que se nieguen a dar curso a una queja o reclamo de un afiliado en represalia por sus críticas a la gestión de aquélla;
+cargos o dado testimonio en juicio, y los directores sindicales que se nieguen a dar curso a una queja o reclamo de un afiliado en represalia por sus críticas a la gestión de aquélla;
 
-d) El que de cualquier modo presione al empleador a fin de imponerle la designación de un determinado representante, de un directivo u otro nombramiento importante para el procedimiento de negociación y el que se niegue a negociar con los representantes del empleador exigiendo su reemplazo o la intervención personal de éste, y
+d) Presionar al empleador a fin de imponerle la designación de un determinado representante, de un directivo u otro nombramiento importante para el procedimiento de negociación y el que se niegue a negociar con los representantes del empleador exigiendo su reemplazo o la
 
-e) Los miembros del directorio de la organización sindical que divulguen a terceros ajenos a éste los documentos o la información que hayan recibido del empleador y que tengan el carácter de confidencial o reservados.
+intervención personal de éste;
+
+e) Divulgar a terceros ajenos a la organización sindical los documentos o la información que hayan recibido del empleador y que tengan el carácter de confidencial o reservados, y
+
+f) Ejercer los derechos sindicales o fueros que establece este Código de mala fe o con abuso del derecho.
 
 #### Artículo 291
 
@@ -3684,13 +3720,23 @@ Incurren, especialmente, en infracción que atenta contra la libertad sindical:
 
 a) Los que ejerzan fuerza física o moral en los trabajadores a fin de obtener su afiliación o desafiliación sindical o para que un trabajador se abstenga de pertenecer a un sindicato, y los que en igual forma impidan u obliguen a un trabajador a promover la formación de una organización sindical, y
 
-b) Los que por cualquier medio entorpezcan o impidan la libertad de opinión de los miembros de un sindicato.
+b) Los que por cualquier medio entorpezcan o impidan la libertad de opinión de los miembros de un sindicato, impidan el ingreso de los trabajadores a las asambleas o el ejercicio de su derecho a sufragio.
 
 #### Artículo 292
 
-- Las prácticas antisindicales o desleales serán sancionadas con multas de diez a ciento cincuenta unidades tributarias mensuales, teniéndose en cuenta para determinar su cuantía la gravedad de la infracción. En caso de tratarse de una reincidencia, se sancionará con multas de cien a ciento cincuenta unidades tributarias mensuales.
+- Las prácticas antisindicales serán sancionadas de la siguiente forma:
 
-Las multas a que se refiere el inciso anterior serán a beneficio del Servicio Nacional de Capacitación y Empleo.
+1. En la micro empresa con multa de cinco a veinticinco unidades tributarias mensuales.
+
+2. En la pequeña empresa con multa de diez a cincuenta unidades tributarias mensuales.
+
+3. En la mediana empresa con multa de quince a ciento cincuenta unidades tributarias mensuales.
+
+4. En la gran empresa con multa de veinte a trescientas unidades tributarias mensuales.
+
+La cuantía de la multa, dentro del rango respectivo, será determinada teniendo en cuenta la gravedad de la infracción y el número de trabajadores involucrados o afiliados a la organización sindical. En caso de reincidencia en las medianas y grandes empresas, se aplicará lo dispuesto en el inciso quinto del artículo 506 de este Código.
+
+Las multas a que se refiere el inciso anterior serán a beneficio del Fondo de Formación Sindical y Relaciones Laborales Colaborativas, administrado por el Ministerio del Trabajo y Previsión Social.
 
 El conocimiento y resolución de las infracciones por prácticas desleales o antisindicales se sustanciará conforme las normas establecidas en el Párrafo 6º, del Capítulo II, del Título I, del Libro V, del presente Código.
 
@@ -3710,9 +3756,7 @@ Lo dispuesto en el artículo anterior es sin perjuicio de la responsabilidad pen
 
 #### Artículo 294
 
-Si una o más de las prácticas antisindicales o desleales establecidas en este Libro o en el Título VIII, del Libro IV, han implicado el despido de trabajadores no amparados por fuero laboral, éste no producirá efecto alguno y se aplicará lo dispuesto en el artículo 487, con excepción de sus incisos tercero y cuarto.
-
-El trabajador podrá optar entre la reincorporación decretada por el tribunal o el derecho a la indemnización a que se refiere el inciso cuarto del artículo 162 y la establecida en el artículo 163, con el correspondiente recargo de conformidad a lo dispuesto en el artículo 168 y, adicionalmente, a una indemnización que fijará el juez de la causa, la que no podrá ser inferior a seis meses ni superior a once meses de la última remuneración mensual.
+- Si el despido o el término de la relación laboral de trabajadores no amparados por fuero laboral se realiza en represalia de su afiliación sindical, participación en actividades sindicales o negociación colectiva, el despido o el término de la relación laboral no producirá efecto alguno, aplicándose el artículo 489, con excepción de lo dispuesto en sus incisos tercero, cuarto y quinto.
 
 #### Artículo 294 bis
 
@@ -3735,6 +3779,8 @@ La disolución de una organización sindical procederá por el acuerdo de la may
 #### Artículo 297
 
 También procederá la disolución de una organización sindical, por incumplimiento grave de las obligaciones que le impone la ley o por haber dejado de cumplir con los requisitos necesarios para su constitución, declarado por sentencia del Tribunal del Trabajo de la jurisdicción en que tenga su domicilio la respectiva organización, a solicitud fundada de la Dirección del Trabajo o por cualquiera de sus socios.
+
+El empleador podrá solicitar fundadamente a la Dirección del Trabajo que ejerza la acción señalada en el inciso primero.
 
 El Juez conocerá y fallará en única instancia, sin forma de juicio, con los antecedentes que proporcione en su presentación el solicitante, oyendo al directorio de la organización respectiva, o en su rebeldía. Si lo estima necesario abrirá un período de prueba de diez días, la que apreciará en conciencia. La sentencia deberá dictarse dentro de quince días desde que se haya notificado al presidente de la organización o a quien estatutariamente lo reemplace o desde el término del período probatorio.
 
@@ -3768,23 +3814,15 @@ Derogado.
 
 ## Título II
 
-DEL DELEGADO DEL PERSONAL
+DEL DELEGADO DEL PERSONAL Derogado.
 
 #### Artículo 302
 
-En las empresas o establecimientos en que sea posible constituir uno o más sindicatos en conformidad a lo dispuesto en el artículo 227, podrán elegir un delegado del personal los trabajadores que no estuvieren afiliados a ningún sindicato, siempre que su número y porcentaje de representatividad les permita constituirlo de acuerdo con la disposición legal citada. En consecuencia, podrán existir uno o más delegados del personal, según determinen agruparse los propios trabajadores, y conforme al número y porcentaje de representatividad señalados.
-
-La función del delegado del personal será la de servir de nexo de comunicación entre el grupo de trabajadores que lo haya elegido y el empleador, como asimismo, con las personas que se desempeñen en los diversos niveles jerárquicos de la empresa o establecimiento. Podrá también representar a dichos trabajadores ante las autoridades del trabajo.
-
-El delegado del personal deberá reunir los requisitos que se exigen para ser director sindical; durará dos años en sus funciones; podrá ser reelegido indefinidamente y gozará del fuero a que se refiere el artículo 243.
-
-Los trabajadores que elijan un delegado del personal lo comunicarán por escrito al empleador y a la Inspección del Trabajo, acompañando una nómina con sus nombres completos y sus respectivas firmas. Dicha comunicación deberá hacerse en la forma y plazos establecidos en el artículo 225.
-
-Respecto del fuero de los delegados del personal contratados por plazo fijo o por obra o servicio determinado regirá la misma norma del artículo 243 inciso final.
+Derogado.
 
 # Libro IV
 
-DE LA NEGOCIACION COLECTIVA
+DE LA NEGOCIACIÓN COLECTIVA
 
 ## Título I
 
@@ -3792,1131 +3830,1047 @@ NORMAS GENERALES
 
 #### Artículo 303
 
-Negociación colectiva es el procedimiento a través del cual uno o más empleadores se relacionan con una o más organizaciones sindicales o con trabajadores que se unan para tal efecto, o con unos y otros, con el objeto de establecer condiciones comunes de trabajo y de remuneraciones por un tiempo determinado, de acuerdo con las normas contenidas en los artículos siguientes.
+Partes. Las partes deben negociar de buena fe, cumpliendo con las obligaciones y plazos previstos en las disposiciones siguientes, sin poner obstáculos que limiten las opciones de entendimiento entre ambas.
 
-La negociación colectiva que afecte a más de una empresa requerirá siempre acuerdo previo de las partes.
+Para determinar si dos o más empresas deben ser consideradas como un solo empleador para efectos de la negociación colectiva, se estará a lo dispuesto en los incisos cuarto y siguientes del artículo 3°.
 
 #### Artículo 304
 
-La negociación colectiva podrá tener lugar en las empresas del sector privado y en aquellas en las que el Estado tenga aportes, participación o representación.
+Ámbito de aplicación. La negociación colectiva podrá tener lugar en las empresas del sector privado y en aquellas en las que el Estado tenga aportes, participación y representación.
 
-No existirá negociación colectiva en las empresas del Estado dependientes del Ministerio de Defensa Nacional o que se relacionen con el Supremo Gobierno a través de este Ministerio y en aquellas en que leyes especiales la prohíban.
+No existirá negociación colectiva en las empresas del Estado dependientes del Ministerio de Defensa Nacional o que se relacionen con el Gobierno a través de dicho Ministerio y en aquellas en que leyes especiales la prohíban.
 
-Tampoco podrá existir negociación colectiva en las empresas o instituciones públicas o privadas cuyos presupuestos, en cualquiera de los dos últimos años calendario, hayan sido financiadas en más de un 50% por el Estado, directamente, o a través de derechos o impuestos.
+Tampoco podrá existir negociación colectiva en las empresas o instituciones públicas o privadas cuyos presupuestos, en cualquiera de los dos últimos años calendario, hayan sido financiadas en más del 50% por el Estado, directamente o a través de derechos o impuestos.
 
-Lo dispuesto en el inciso anterior no tendrá lugar, sin embargo, respecto de los establecimientos educacionales particulares subvencionados en conformidad al decreto ley N.° 3.476, de 1980, y sus modificaciones, ni a los establecimientos educacionales técnico-profesional administrados por Corporaciones Privadas conforme al decreto ley N.° 3.166, de 1980.
+Lo dispuesto en el inciso anterior no tendrá lugar, sin embargo, respecto de los establecimientos educacionales particulares subvencionados en conformidad al decreto ley N°3.476, de 1980, y sus modificaciones, ni a los establecimientos de educación técnico-profesional administrados por corporaciones privadas conforme al decreto ley N° 3.166, de 1980.
 
-El Ministerio de Economía, Fomento y Reconstrucción determinará las empresas en las que el Estado tenga aporte, participación o representación mayoritarios en que se deberá negociar por establecimiento, entendiéndose que dichas unidades tendrán el carácter de empresas para todos los efectos de este Código.
+El Ministerio de Economía, Fomento y Turismo determinará las empresas en las que el Estado tenga aporte, participación o representación mayoritarios en que se deberá negociar por establecimiento, entendiéndose que dichas unidades tendrán el carácter de empresas para todos los efectos de este Código.
 
 #### Artículo 305
 
-No podrán negociar colectivamente:
+Trabajadores impedidos de ejercer el derecho a negociar colectivamente, forma y reclamo de esta condición. No podrán negociar colectivamente los trabajadores que tengan facultades de representación del empleador y que estén dotados de facultades generales de administración, tales como gerentes y subgerentes. En la micro y pequeña empresa esta prohibición se aplicará también al personal de confianza que ejerza cargos superiores de mando.
 
-1. los trabajadores sujetos a contrato de aprendizaje y aquellos que se contraten exclusivamente para el desempeño en una determinada obra o faena transitoria o de temporada;
+De la circunstancia a que se refiere el inciso anterior deberá además dejarse constancia escrita en el contrato de trabajo y, a falta de esta estipulación, se entenderá que el trabajador está habilitado para negociar colectivamente.
 
-2. los gerentes, subgerentes, agentes y apoderados, siempre que en todos estos casos estén dotados, a lo menos, de facultades generales de administración;
+El trabajador o el sindicato al que se encuentre afiliado podrán reclamar a la Inspección del Trabajo de la circunstancia hecha constar en su contrato, de no poder negociar colectivamente. La resolución de la Inspección del Trabajo podrá reclamarse judicialmente a través del procedimiento establecido en el artículo 504, dentro del plazo de quince días contado desde su notificación.
 
-3. las personas autorizadas para contratar o despedir trabajadores, y
-
-4. los trabajadores que de acuerdo con la organización interna de la empresa, ejerzan dentro de ella un cargo superior de mando e inspección, siempre que estén dotados de atribuciones decisorias sobre políticas y procesos productivos o de comercialización.
-
-De la circunstancia de no poder negociar colectivamente por encontrarse el trabajador en alguno de los casos señalados en los números 2, 3 y 4 deberá dejarse constancia escrita en el contrato de trabajo y, a falta de esta estipulación, se entenderá que el trabajador está habilitado para negociar colectivamente.
-
-Dentro del plazo de seis meses contados desde la suscripción del contrato, o de su modificación, cualquier trabajador de la empresa podrá reclamar a la Inspección del Trabajo de la atribución a un trabajador de algunas de las calidades señaladas en este artículo, con el fin de que se declare cuál es su exacta situación jurídica. De la resolución que dicho organismo dicte, podrá recurrirse ante el juez competente en el plazo de cinco días contados desde su notificación. El tribunal resolverá en única instancia, sin forma de juicio y previa audiencia de las partes.
-
-Los trabajadores a que se refiere este artículo, no podrán, asimismo, integrar comisiones negociadoras a menos que tengan la calidad de dirigentes sindicales.
+Las micro, pequeñas y medianas empresas podrán excusarse de negociar colectivamente con los trabajadores sujetos a contrato de aprendizaje.
 
 #### Artículo 306
 
-Son materias de negociación colectiva todas aquellas que se refieran a remuneraciones, u otros beneficios en especie o en dinero, y en general a las condiciones comunes de trabajo.
+Materias de la negociación colectiva. Son materia de la negociación colectiva aquellas de interés común de las partes que afecten las relaciones mutuas entre trabajadores y empleadores, especialmente las que se refieran a remuneraciones u otros beneficios en especie o en dinero y, en general, a las condiciones comunes de trabajo.
 
-No serán objeto de negociación colectiva aquellas materias que restrinjan o limiten la facultad del empleador de organizar, dirigir y administrar la empresa y aquellas ajenas a la misma.
+Las negociaciones podrán incluir acuerdos para la conciliación del trabajo con las responsabilidades familiares, el ejercicio de la corresponsabilidad parental, planes de igualdad de oportunidades y equidad de género en la empresa, acciones positivas para corregir situaciones de desigualdad, acuerdos para la capacitación y reconversión productiva de los trabajadores, constitución y mantenimiento de servicios de bienestar, mecanismos de solución de controversias, entre otros.
+
+Adicionalmente, se podrán negociar los acuerdos de extensión previstos en el artículo 322 y los pactos sobre condiciones especiales de trabajo de que trata el Título VI de este Libro.
+
+No serán objeto de la negociación colectiva aquellas materias que restrinjan o limiten la facultad del empleador de organizar, dirigir y administrar la empresa y aquellas ajenas a la misma.
+
+La negociación colectiva en una empresa contratista o subcontratista no afectará las facultades de administración de la empresa principal, la que podrá ejecutar directamente o a través de un tercero la provisión de la obra o el servicio subcontratado que haya dejado de prestarse en caso de huelga.
 
 #### Artículo 307
 
-Ningún trabajador podrá estar afecto a más de un contrato colectivo de trabajo celebrado con el mismo empleador de conformidad a las normas de este Código.
+Relación del trabajador con el contrato colectivo. Ningún trabajador podrá estar afecto a más de un contrato colectivo de trabajo celebrado con el mismo empleador de conformidad a las normas de este Código.
 
 #### Artículo 308
 
-Para negociar colectivamente dentro de una empresa, se requerirá que haya transcurrido a lo menos un año desde el inicio de sus actividades.
+Plazo mínimo para negociar colectivamente. Para negociar colectivamente en una micro y pequeña empresa, en una mediana empresa o en una gran empresa, se requerirá que hayan transcurrido, a lo menos, dieciocho, doce y seis meses, respectivamente, desde el inicio de sus actividades.
 
 #### Artículo 309
 
-Los trabajadores involucrados en una negociación colectiva gozarán del fuero establecido en la legislación vigente, desde los diez días anteriores a la presentación de un proyecto de contrato colectivo hasta treinta días después de la suscripción de este último, o de la fecha de notificación a las partes del fallo arbitral que se hubiere dictado.
+Fuero de negociación colectiva. Los trabajadores afiliados a la organización nsindical involucrada en una negociación colectiva reglada gozarán del fuero establecido en la legislación vigente desde los diez días anteriores a la presentación de un proyecto de contrato colectivo hasta treinta días después de la suscripción de este último, o de la fecha de notificación a las partes del fallo arbitral que se hubiere dictado.
 
-Sin embargo, no se requerirá solicitar el desafuero de aquellos trabajadores sujetos a plazo fijo, cuando dicho plazo expirare dentro del período a que se refiere el inciso anterior.
+Igualmente, gozarán del fuero antes señalado los trabajadores que se afilien a la organización sindical durante el proceso de negociación colectiva a que se refiere el inciso anterior, a partir de la fecha en que se comunique la afiliación al empleador y hasta treinta días después de la suscripción del contrato colectivo o de la notificación del fallo arbitral, en su caso.
+
+Sin embargo, no se requerirá solicitar el desafuero de aquellos trabajadores con contrato a plazo fijo o por obra o faena, cuando dicho plazo, obra o faena expirare dentro del período a que se refieren los incisos anteriores.
 
 #### Artículo 310
 
-El fuero a que se refiere el artículo anterior se extenderá por treinta días adicionales contados desde la terminación del procedimiento de negociación, respecto de los integrantes de la comisión negociadora que no estén acogidos al fuero sindical.
-
-Sin embargo, no se requerirá solicitar el desafuero de aquellos trabajadores sujetos a contrato a plazo fijo, cuando dicho plazo expirare dentro del período comprendido en el inciso anterior.
+Beneficios y afiliación sindical. Los trabajadores se regirán por el instrumento colectivo suscrito entre su empleador y la organización sindical a la que se encuentren afiliados mientras este se encuentre vigente, accediendo a los beneficios en él contemplados.
 
 #### Artículo 311
 
-Las estipulaciones de un contrato individual de trabajo no podrán significar disminución de las remuneraciones, beneficios y derechos que correspondan al trabajador por aplicación del contrato, convenio colectivo o del fallo arbitral por el que esté regido.
+Relación y efectos del instrumento colectivo con el contrato individual de trabajo y forma de modificación del instrumento colectivo. Las estipulaciones de un contrato individual de trabajo no podrán significar disminución de las remuneraciones, beneficios y derechos que correspondan al trabajador por aplicación del instrumento colectivo por el que esté regido.
+
+Las estipulaciones de los instrumentos colectivos reemplazarán en lo pertinente a las contenidas en los contratos individuales de los trabajadores que sean parte de aquellos.
+
+Las estipulaciones de un instrumento colectivo vigente sólo podrán modificarse mediante acuerdo entre el empleador y la o las organizaciones sindicales que lo hubieren suscrito.
 
 #### Artículo 312
 
-Cuando un plazo de días previsto en este Libro venciere en sábado, domingo o festivo, se entenderá prorrogado hasta el día siguiente hábil.
+Plazos y su cómputo. Todos los plazos establecidos en este Libro son de días corridos, salvo los previstos para la mediación obligatoria del artículo 351.
+
+Con todo, cuando un plazo venciere en día sábado, domingo o festivo, se entenderá prorrogado hasta el día hábil siguiente.
 
 #### Artículo 313
 
-Para los efectos previstos en este Libro IV serán ministros de fe los inspectores del Trabajo, los notarios públicos, los oficiales del Registro Civil y los funcionarios de la Administración del Estado que sean designados en calidad de tales por la Dirección del Trabajo.
+Ministros de fe. Para los efectos previstos en este Libro IV, además de los inspectores del trabajo, serán ministros de fe los notarios públicos, los oficiales del registro Civil, los funcionarios de la Administración del Estado que sean designados en esa calidad por la Dirección del Trabajo y los secretarios municipales en localidades en que no existan otros ministros de fe disponibles.
 
 #### Artículo 314
 
-Sin perjuicio del procedimiento de negociación colectiva reglada, en cualquier momento y sin restricciones de ninguna naturaleza, podrán iniciarse entre uno o más empleadores y una o más organizaciones sindicales, negociaciones directas y sin sujeción a normas de procedimiento para convenir condiciones comunes de trabajo y remuneraciones, por un tiempo determinado.
-
-Los sindicatos de trabajadores transitorios o eventuales podrán pactar con uno o más empleadores, condiciones comunes de trabajo y remuneraciones para determinadas obras o faenas transitorias o de temporada.
-
-#### Artículo 314 bis
-
-Sin perjuicio de lo dispuesto en el artículo anterior, tratándose de grupos de trabajadores que se unan para negociar, deberán observarse las siguientes normas mínimas de procedimiento:
-
-a) Deberá tratarse de grupos de ocho o más trabajadores.
-
-b) Los trabajadores serán representados por una comisión negociadora, de no menos de tres integrantes ni más de cinco, elegida por los involucrados en votación secreta celebrada ante un Inspector del Trabajo.
-
-c) El empleador estará obligado a dar respuesta a la presentación hecha por los trabajadores dentro del plazo de 15 días. Si así no lo hiciere, se aplicará la multa prevista en el artículo 506.
-
-d) La aprobación de la propuesta final del empleador deberá ser prestada por los trabajadores involucrados en votación secreta celebrada ante un inspector del Trabajo.
-
-Si se suscribiere un instrumento sin sujeción a estas normas mínimas de procedimiento, éste tendrá la naturaleza de contrato individual de trabajo y no producirá el efecto de un convenio colectivo.
-
-Con todo, si en una empresa se ha suscrito un convenio colectivo, ello no obstará para que los restantes trabajadores puedan presentar proyectos de contrato colectivo, de conformidad al artículo 317.
-
-#### Artículo 314 bis
-
-A. El sindicato que agrupe a trabajadores agrícolas de temporada, tendrá la facultad de presentar a el o a los respectivos empleadores, un proyecto de convenio colectivo al que deberán dar respuesta dentro del plazo de 15 días desde la recepción del respectivo proyecto de convenio.
-
-Si la respuesta antes indicada no se verifica, la Inspección del Trabajo a solicitud del sindicato, podrá apercibirlo dentro de los 5 días siguientes a la fecha de esta solicitud, a fin de que la respuesta sea entregada, bajo apercibimiento de la sanción prevista en el artículo 506. La respuesta negativa del empleador, sólo habilita al sindicato para presentar un nuevo proyecto en la siguiente temporada.
-
-La negociación directa deberá finalizar, con una antelación no inferior a 30 días al de inicio de las labores agrícolas de temporada.
-
-#### Artículo 314 bis
-
-B. Se podrán convenir en la negociación a que se refiere el artículo anterior, normas comunes de trabajo y remuneraciones incluyéndose especialmente entre aquéllas, las relativas a prevención de riesgos, higiene y seguridad; distribución de la jornada de trabajo; normas sobre alimentación, traslado, habitación y salas cunas.
-
-Será también objeto especial de esta negociación:
-
-a) Acordar normas sobre remuneraciones mínimas, que regirán para los trabajadores afiliados al sindicato, y
-
-b) Pactar las formas y modalidades bajo las cuales se cumplirán las condiciones de trabajo y empleo convenidas.
-
-Podrá también, si lo acordaren las partes, pactarse la contratación futura de un número o porcentaje de los trabajadores involucrados en la negociación.
-
-Las estipulaciones de estos convenios, se tendrán como parte integrante de los contratos individuales que se celebren durante su vigencia con quienes se encuentren afiliados al sindicato y tendrán el plazo de duración que le fijen las partes, que no podrá ser inferior a la respectiva temporada.
-
-#### Artículo 314 bis
-
-C. Las negociaciones de que tratan los artículos 314, 314 bis, 314 bis A y 314 bis B no se sujetarán a las normas procesales previstas para la negociación colectiva reglada, ni darán lugar a los derechos, prerrogativas y obligaciones que para ésta se señalan en este Código.
-
-Los instrumentos colectivos que se suscriban se denominarán convenios colectivos y tendrán los mismos efectos que los contratos colectivos, sin perjuicio de las normas especiales a que se refiere el artículo 351.
+Negociación no reglada. En cualquier momento y sin restricciones de ninguna naturaleza, podrán iniciarse entre uno o más empleadores y una o más organizaciones sindicales, negociaciones voluntarias, directas y sin sujeción a normas de procedimiento, para convenir condiciones comunes de trabajo y remuneraciones, por un tiempo determinado.
 
 ## Título II
 
-DE LA PRESENTACION Y TRAMITACION DEL PROYECTO DE CONTRATO COLECTIVO
-
-## Capítulo I
-
-DE LA PRESENTACION HECHA POR SINDICATOS DE EMPRESA O GRUPOS DE TRABAJADORES
+DERECHO A INFORMACIÓN DE LAS ORGANIZACIONES SINDICALES
 
 #### Artículo 315
 
-La negociación colectiva se iniciará con la presentación de un proyecto de contrato colectivo por parte del o los sindicatos o grupos negociadores de la respectiva empresa.
+Derecho de información periódica en las grandes empresas. Las grandes empresas deberán entregar anualmente a los sindicatos de empresa constituidos en ellas, el balance general, el estado de resultados y los estados financieros auditados, si los tuvieren, dentro del plazo de treinta días contado desde que estos documentos se encuentren disponibles.
 
-Todo sindicato de empresa o de un establecimiento de ella, podrá presentar un proyecto de contrato colectivo.
+Asimismo, deberán entregar toda otra información de carácter público que conforme a la legislación vigente estén obligadas a poner a disposición de la Superintendencia de Valores y Seguros. Esta información deberá ser entregada dentro del plazo de treinta días contado desde que se haya puesto a disposición de la referida Superintendencia.
 
-Podrán presentar proyectos de contrato colectivo en una empresa o en un establecimiento de ella, los grupos de trabajadores que reúnan, a lo menos, los mismos quórum y porcentajes requeridos para la constitución de un sindicato de empresa o el de un establecimiento de ella. Estos quórum y porcentajes se entenderán referidos al total de los trabajadores facultados para negociar colectivamente, que laboren en la empresa o predio o en el establecimiento, según el caso.
-
-Todas las negociaciones entre un empleador y los distintos sindicatos de empresa o grupos de trabajadores, deberán tener lugar durante un mismo período, salvo acuerdo de las partes. Se entenderá que lo hay si el empleador no hiciese uso de la facultad señalada en el artículo 318.
-
-Todo sindicato o grupo negociador de empresa podrá solicitar del empleador dentro de los tres meses anteriores a la fecha de vencimiento del contrato colectivo vigente, los antecedentes indispensables para preparar el proyecto de contrato colectivo. Para el empleador será obligatorio entregar, a lo menos, los balances de los dos años inmediatamente anteriores, salvo que la empresa tuviere una existencia menor, en cuyo caso la obligación se reducirá al tiempo de existencia de ella; la información financiera necesaria para la confección del proyecto referida a los meses del año en ejercicio y los costos globales de mano de obra del mismo período. Asimismo, el empleador entregará la información pertinente que incida en la política futura de inversiones de la empresa, siempre que no sea considerada por aquél como confidencial.
-
-Si en la empresa no existiere contrato colectivo vigente, tales antecedentes pueden ser solicitados en cualquier momento.
+Respecto de los nuevos sindicatos de empresa que se constituyan, la información indicada en este artículo será entregada dentro del plazo de treinta días contado a partir de la comunicación señalada en el inciso primero del artículo 225 de este Código.
 
 #### Artículo 316
 
-Cada predio agrícola se considerará como una empresa para los efectos de este Libro. También se considerarán como una sola empresa los predios colindantes explotados por un mismo empleador.
+Derecho de información específica para la negociación colectiva. Las empresas estarán obligadas a proporcionar a los sindicatos que tengan derecho a negociar en ellas, la información específica y necesaria para preparar sus negociaciones colectivas.
 
-Tratándose de empleadores que sean personas jurídicas y que dentro de su giro comprendan la explotación de predios agrícolas, los trabajadores de los predios comprendidos en ella podrán negociar conjuntamente con los otros trabajadores de la empresa.
+A requerimiento de las organizaciones sindicales que lo soliciten, dentro de los noventa días previos al vencimiento del instrumento colectivo vigente, las grandes y medianas empresas deberán entregar, a lo menos, la siguiente información:
 
-Para los efectos de este artículo, se entiende por predios agrícolas tanto los destinados a las actividades agrícolas en general, como los forestales, frutícolas, ganaderos u otros análogos.
+a) Planilla de remuneraciones pagadas a los trabajadores afiliados a la organización requirente, desagregada por haberes y con el detalle de fecha de ingreso a la empresa y cargo o función desempeñada.
+
+b) Valor actualizado de todos los beneficios que forman parte del instrumento colectivo vigente.
+
+c) Los costos globales de mano de obra de la empresa de los dos últimos años. Si existiere contrato colectivo vigente y éste hubiere sido celebrado con duración superior a dos años, se
+
+deberán entregar los costos globales del período de duración del contrato.
+
+d) Toda la información periódica referida en los artículos 315 y 318 que no haya sido entregada oportunamente a los sindicatos de empresa, cuando corresponda.
+
+e) Información que incida en la política futura de inversiones de la empresa que no tenga, a juicio del empleador, carácter de confidencial.
+
+Los sindicatos con derecho a negociar en las micro y pequeñas empresas sólo podrán solicitar, dentro de los noventa días previos al vencimiento del instrumento colectivo vigente,
+
+las planillas de remuneraciones pagadas a sus socios, desagregadas por haberes y la información específica señalada en los literales b) y c) del inciso segundo de este artículo.
+
+La información relativa a la planilla de remuneraciones de los trabajadores involucrados
+
+en la negociación podrá ser solicitada por las organizaciones sindicales que hayan sido autorizadas expresamente en sus estatutos o cuando su entrega haya sido autorizada expresamente por cada trabajador.
+
+En el evento de que no exista instrumento colectivo vigente, el requerimiento de información podrá hacerse en cualquier época.
+
+Las empresas señaladas en este artículo dispondrán del plazo de treinta días para hacer entrega de la información solicitada por el sindicato, contado desde su requerimiento.
+
+La comisión negociadora que represente a un grupo negociador tendrá derecho a solicitar al
+
+empleador la información específica para la negociación establecida en las letras a) y b) de
+
+este artículo, respecto de los trabajadores que represente y previa autorización de estos. Esta
+
+información deberá entregarse en el plazo de cinco días.
 
 #### Artículo 317
 
-En las empresas en que no existiere contrato colectivo anterior, los trabajadores podrán presentar al empleador un proyecto de contrato colectivo en el momento que lo estimen conveniente.
+Derecho de información por cargos o funciones de los trabajadores en las grandes y medianas empresas. Los sindicatos de empresa podrán una vez en cada año calendario solicitar a las grandes empresas, información sobre remuneraciones asignadas a trabajadores de los diversos cargos o funciones de la empresa que se encuentren contenidas en el registro a que se refiere el numeral 6) del artículo 154 de este Código.
 
-No podrán, sin embargo, presentarlo en uno o más períodos que, cubriendo en su conjunto un plazo máximo de sesenta días en el año calendario, el empleador haya declarado no aptos para iniciar negociaciones.
+La información deberá entregarse innominadamente, dentro de los treinta días siguientes a la fecha en que haya sido requerida.
 
-Dicha declaración deberá hacerse en el mes de junio, antes de la presentación de un proyecto de contrato y cubrirá el período comprendido por los doce meses calendario siguientes a aquél.
+En el caso de las empresas medianas, sus sindicatos podrán hacer este requerimiento sólo como información previa a la negociación.
 
-La declaración deberá comunicarse por escrito a la Inspección del Trabajo y a los trabajadores.
+La información deberá ser entregada por la empresa siempre que cuente con cinco o más trabajadores en cada cargo o función, se asegure la reserva de la información individual de cada trabajador y no infrinja lo dispuesto en el artículo 154 bis de este Código.
 
 #### Artículo 318
 
-Dentro de los cinco días siguientes de recibido el proyecto de contrato colectivo, el empleador podrá comunicar tal circunstancia a todos los demás trabajadores de la empresa y a la Inspección del Trabajo.
+Derecho de información periódica en la micro, pequeña y mediana empresa. Las micro, pequeñas y medianas empresas proporcionarán anualmente a los sindicatos de empresa constituidos en ellas, la información sobre sus ingresos y egresos que, de acuerdo al régimen tributario al que se encuentren acogidas, declaren ante el Servicio de Impuestos Internos para efectos del impuesto a la renta. Esta información deberá ser entregada dentro de los treinta días siguientes a la declaración anual de impuesto a la renta que efectúe la empresa.
 
 #### Artículo 319
 
-Si el empleador no efectuare Tal comunicación, deberá negociar con quienes hubieren presentado el proyecto.
+Derecho a requerir información por vía administrativa y judicial. Si el empleador no cumple con entregar la información en la forma y plazos previstos en los artículos anteriores, el o los sindicatos afectados podrán solicitar a la Inspección del Trabajo que requiera al empleador para su entrega.
 
-En este evento, los demás trabajadores mantendrán su derecho a presentar proyectos de contratos colectivos en cualquier tiempo, en las condiciones establecidas en este Código.
+En caso de no prosperar la gestión administrativa, el o los sindicatos afectados podrán recurrir al tribunal laboral de conformidad a lo establecido en el artículo 504 de este Código.
 
-En este caso, regirá lo dispuesto en este artículo y en el precedente.
-
-#### Artículo 320
-
-El empleador deberá comunicar a todos los demás trabajadores de la empresa la circunstancia de haberse presentado un proyecto de contrato colectivo y éstos tendrán un plazo de treinta días contados desde la fecha de la comunicación para presentar proyectos en la forma y condiciones establecidas en este Libro o adherir al proyecto presentado.
-
-El último día del plazo establecido en el inciso anterior se entenderá como fecha de presentación de todos los proyectos, para los efectos del cómputo de los plazos que establece este Libro, destinados a dar respuesta e iniciar las negociaciones.
-
-#### Artículo 321
-
-Los trabajadores de aquellas empresas que señala el artículo 317 que no hubieren presentado un proyecto de contrato colectivo, no obstante habérseles practicado la comunicación señalada en el artículo 318, sólo podrán presentar proyectos de contrato de acuerdo con las normas del artículo siguiente.
-
-#### Artículo 322
-
-En las empresas en que existiere contrato colectivo vigente, la presentación del proyecto deberá efectuarse no antes de cuarenta y cinco días ni después de cuarenta días anteriores a la fecha de vencimiento de dicho contrato.
-
-Los trabajadores que ingresen a la empresa donde hubiere contrato colectivo vigente y que tengan derecho a negociar colectivamente, podrán presentar un proyecto de contrato después de transcurridos seis meses desde la fecha de su ingreso, a menos que el empleador les hubiere extendido, en su totalidad, las estipulaciones del contrato colectivo respectivo. La duración de estos contratos, será lo que reste al plazo de dos años contados desde la fecha de celebración del último contrato colectivo que se encuentre vigente en la empresa, cualquiera que sea la duración efectiva de éste. No obstante, los trabajadores podrán elegir como fecha de inicio de dicha duración el de la celebración de un contrato colectivo anterior, con tal que éste se encuentre vigente.
-
-Los trabajadores que no participaren en los contratos colectivos que se celebren y aquellos a los que, habiendo ingresado a la empresa con posterioridad a su celebración, el empleador les hubiere extendido en su totalidad el contrato respectivo, podrán presentar proyectos de contrato colectivo al vencimiento del plazo de dos años de celebrado el último contrato colectivo, cualquiera que sea la duración efectiva de éste y, en todo caso, con la antelación indicada en el inciso primero, salvo acuerdo de las partes de negociar antes de esa oportunidad, entendiéndose que lo hay cuando el empleador dé respuesta al proyecto respectivo, de acuerdo con el artículo 329.
-
-No obstante lo dispuesto en el inciso primero, las partes de común acuerdo podrán postergar hasta por sesenta días, y por una sola vez en cada período, la fecha en que les corresponda negociar colectivamente y deberán al mismo tiempo fijar la fecha de la futura negociación. De todo ello deberá dejarse constancia escrita y remitirse copia del acuerdo a la Inspección del Trabajo respectiva. La negociación que así se postergare se sujetará íntegramente al procedimiento señalado en este Libro y habilitará a las partes para el ejercicio de todos los derechos, prerrogativas e instancias que en éste se contemplan.
-
-#### Artículo 323
-
-Los sindicatos podrán admitir, por acuerdo de su directiva, que trabajadores no afiliados adhieran a la presentación del proyecto de contrato colectivo que realice la respectiva organización.
-
-La adhesión del trabajador al proyecto de contrato colectivo lo habilitará para ejercer todos los derechos y lo sujetará a todas las obligaciones que la ley reconoce a los socios del sindicato, dentro del procedimiento de negociación colectiva. En caso alguno podrá establecerse discriminación entre los socios del sindicato y los trabajadores adherentes.
-
-#### Artículo 324
-
-Copia del proyecto de contrato colectivo presentado por los trabajadores, firmada por el empleador para acreditar que ha sido recibido por éste, deberá entregarse a la Inspección del Trabajo respectiva, dentro de los cinco días siguientes a su presentación.
-
-Si el empleador se negare a firmar dicha copia, los trabajadores podrán requerir a la Inspección del Trabajo, dentro de los tres días siguientes al vencimiento del plazo señalado en el inciso anterior, para que le notifique el proyecto de contrato. Se entenderá para estos efectos por empleador a las personas a quienes se refiere el artículo 4.° de este Código.
-
-#### Artículo 325
-
-El proyecto de contrato colectivo deberá contener, a lo menos, las siguientes menciones:
-
-1.- las partes a quienes haya de involucrar la negociación, acompañándose una nómina de los socios del sindicato o de los miembros del grupo comprendidos en la negociación. En el caso previsto en el artículo 323, deberá acompañarse además la nómina y rúbrica de los trabajadores adherentes a la presentación;
-
-2.- las cláusulas que se proponen;
-
-3.- el plazo de vigencia del contrato, y
-
-4.- la individualización de los integrantes de la comisión negociadora.
-
-El proyecto llevará, además, la firma o impresión digital de todos los trabajadores involucrados en la negociación cuando se trate de trabajadores que se unen para el solo efecto de negociar. En todo caso, deberá también ser firmado por los miembros de la comisión negociadora.
-
-#### Artículo 326
-
-La representación de los trabajadores en la negociación colectiva estará a cargo de una comisión negociadora integrada en la forma que a continuación se indica.
-
-Si el proyecto de contrato colectivo fuere presentado por un sindicato, la comisión negociadora será el directorio sindical respectivo, y si varios sindicatos hicieren una presentación conjunta, la comisión indicada estará integrada por los directores de todos ellos.
-
-Si presentare el proyecto de contrato colectivo un grupo de trabajadores que se unen para el solo efecto de negociar, deberá designarse una comisión negociadora conforme a las reglas siguientes:
-
-a) Para ser elegido miembro de la comisión negociadora será necesario cumplir con los mismos requisitos que se exigen para ser director sindical;
-
-b) La comisión negociadora estará compuesta por tres miembros. Sin embargo, si el grupo negociador estuviere formado por doscientos cincuenta trabajadores o más, podrán nombrarse cinco, si estuviere formado por mil o más trabajadores podrán nombrarse siete, y si estuviere formado por tres mil trabajadores o más, podrán nombrarse nueve;
-
-c) La elección de los miembros de la comisión negociadora se efectuará por votación secreta, la que deberá practicarse ante un ministro de fe, si los trabajadores fueren doscientos cincuenta o más, y
-
-d) Cada trabajador tendrá derecho a dos, tres, cuatro o cinco votos no acumulativos, según si la comisión negociadora esté integrada por tres, cinco, siete o nueve miembros, respectivamente.
-
-El empleador, a su vez, tendrá derecho a ser representado en la negociación hasta por tres apoderados que formen parte de la empresa, entendiéndose también como tales a los miembros de su respectivo directorio y a los socios con facultad de administración.
-
-#### Artículo 327
-
-Además de los miembros de la comisión negociadora y de los apoderados del empleador, podrán asistir al desarrollo de las negociaciones los asesores que designen las partes, los que no podrán exceder de tres por cada una de ellas.
-
-En las negociaciones en que la comisión negociadora laboral sean las directivas de uno o más sindicatos, podrá asistir como asesor de éstas, y por derecho propio, un dirigente de la federación o confederación a que se encuentren adheridas, sin que su participación se compute para los efectos del límite establecido en el inciso precedente.
-
-Tratándose de un grupo negociador de trabajadores que pertenezcan a un sindicato interempresa, podrá asistir a las negociaciones como asesor de aquéllos, y por derecho propio, un dirigente del sindicato, también sin que su participación sea computable para el límite establecido en el inciso primero del presente artículo.
-
-#### Artículo 328
-
-Una vez presentado el proyecto de contrato colectivo, el trabajador deberá permanecer afecto a la negociación durante todo el proceso, sin perjuicio de lo señalado en los artículos 381, 382 y 383.
-
-El trabajador que tenga un contrato colectivo vigente no podrá participar en otras negociaciones colectivas, en fechas anteriores a las del vencimiento de su contrato, salvo acuerdo con el empleador. Se entenderá que hay acuerdo del empleador si no rechaza la inclusión del trabajador en la respuesta que dé al proyecto de contrato colectivo, siempre que en éste se haya mencionado expresamente dicha circunstancia.
-
-#### Artículo 329
-
-El empleador deberá dar respuesta por escrito a la comisión negociadora, en forma de un proyecto de contrato colectivo que deberá contener todas las cláusulas de su proposición. En esta respuesta el empleador podrá formular las observaciones que le merezca el proyecto y deberá pronunciarse sobre todas las proposiciones de los trabajadores así como señalar el fundamento de su respuesta. Acompañará, además, los antecedentes necesarios para justificar las circunstancias económicas y demás pertinentes que invoque, siendo obligatorio como mínimo adjuntar copia de los documentos señalados en el inciso quinto del artículo 315, cuando dichos antecedentes no se hubieren entregado anteriormente.
-
-El empleador dará respuesta al proyecto de contrato colectivo dentro de los quince días siguientes a su presentación. Las partes, de común acuerdo, podrán prorrogar este plazo por el término que estimen necesario.
-
-#### Artículo 330
-
-Copia de la respuesta del empleador, firmada por uno o más miembros de la comisión negociadora para acreditar que ha sido recibida por ésta, deberá acompañarse a la Inspección del Trabajo dentro de los cinco días siguientes a la fecha de su entrega a dicha comisión.
-
-En caso de negativa de los integrantes a suscribir dicha copia, se estará a lo dispuesto en el inciso segundo del artículo 324.
-
-#### Artículo 331
-
-Recibida la respuesta del empleador, la comisión negociadora podrá reclamar de las observaciones formuladas por éste, y de las que le merezca la respuesta, por no ajustarse éstas a las disposiciones del presente Código.
-
-La reclamación deberá formularse ante la Inspección del Trabajo dentro del plazo de cinco días contados desde la fecha de recepción de la respuesta. La Inspección del Trabajo tendrá igual plazo para pronunciarse, contado desde la fecha de presentación de la reclamación.
-
-No obstante, si la negociación involucra a más de mil trabajadores, la reclamación deberá ser resuelta por el Director del Trabajo.
-
-La resolución que acoja las observaciones formuladas ordenará a la parte que corresponda su enmienda dentro de un plazo no inferior a cinco ni superior a ocho días contados desde la fecha de notificación de la resolución respectiva, bajo apercibimiento de tenerse por no presentada la cláusula o el proyecto de contrato, o de no haber respondido oportunamente el proyecto, según el caso.
-
-La interposición del reclamo no suspenderá el curso de la negociación colectiva.
-
-No será materia de este procedimiento de objeción de legalidad la circunstancia de estimar alguna de las partes que la otra, en el proyecto de contrato colectivo o en la correspondiente respuesta, según el caso, ha infringido lo dispuesto en el inciso segundo del artículo 306.
-
-#### Artículo 332
-
-Si el empleador no diere respuesta oportunamente al proyecto de contrato, será sancionado con una multa ascendente al veinte por ciento de las remuneraciones del último mes de todos los trabajadores comprendidos en el proyecto de contrato colectivo.
-
-La multa será aplicada administrativamente por la Inspección del Trabajo respectiva, en conformidad con lo previsto en el Título II del Libro V de este Código.
-
-Llegado el vigésimo día de presentado el proyecto de contrato colectivo, sin que el empleador le haya dado respuesta, se entenderá que lo acepta, salvo prórroga acordada por las partes de conformidad con el inciso segundo del artículo 329.
-
-#### Artículo 333
-
-A partir de la respuesta del empleador las partes se reunirán el número de veces que estimen conveniente, con el objeto de obtener directamente un acuerdo, sin sujeción a ningún tipo de formalidades.
-
-## Capítulo II
-
-DE LA PRESENTACION HECHA POR OTRAS ORGANIZACIONES SINDICALES
-
-#### Artículo 334
-
-Dos o más sindicatos de distintas empresas, un sindicato interempresa, o una federación o confederación, podrán presentar proyectos de contrato colectivo de trabajo, en representación de sus afiliados y de los trabajadores que adhieran a él, a los empleadores respectivos.
-
-Para que las organizaciones sindicales referidas en este artículo puedan presentar proyectos de contrato colectivo será necesario:
-
-a) Que la o las organizaciones sindicales respectivas lo acuerden en forma previa con él o los empleadores respectivos, por escrito y ante ministro de fe;
-
-b) Que en la empresa respectiva, la mayoría absoluta de los trabajadores afiliados que tengan derecho a negociar colectivamente, acuerden conferir en votación secreta, tal representación a la organización sindical de que se trate, en asamblea celebrada ante ministro de fe.
-
-La presentación del correspondiente proyecto se hará en forma conjunta a todos los empleadores que hayan suscrito el acuerdo.
-
-#### Artículo 334 bis
-
-No obstante lo dispuesto en el inciso segundo del artículo 303, el sindicato interempresa podrá presentar un proyecto de contrato colectivo de trabajo, en representación de sus afiliados y de los trabajadores que adhieran a él, a empleadores que ocupen trabajadores que sean socios de tal sindicato, el que estará, en su caso, facultado para suscribir los respectivos contratos colectivos.
-
-Para efectuar esta presentación, se requerirá que lo haga en representación de un mínimo de cuatro trabajadores de cada empresa.
-
-#### Artículo 334 bis
-
-A. Para el empleador será voluntario o facultativo negociar con el sindicato interempresa. Su decisión negativa deberá manifestarla expresamente dentro del plazo de diez días hábiles después de notificado.
-
-Si su decisión es negativa, los trabajadores de la empresa afiliados al sindicato interempresa podrán presentar proyectos de contrato colectivo conforme a las reglas generales de este Libro IV.
-
-En este caso, los trabajadores deberán designar una comisión negociadora en los términos del artículo 326.
-
-En todo caso, el o los delegados sindicales existentes en la empresa integrarán, por derecho propio, la comisión negociadora laboral.
-
-#### Artículo 334 bis
-
-B. Si los empleadores a quienes se presentó el proyecto de contrato colectivo, manifiestan su intención de negociar en forma conjunta, dentro del plazo establecido en el inciso primero del artículo anterior, deberán integrar una comisión negociadora común, la que estará compuesta por un apoderado de cada empresa. Si éstos fueren más de cinco podrán delegar tal representación en una comisión de hasta cinco miembros, la que deberá extenderse ante ministro de fe.
-
-En el caso previsto en el inciso anterior, la comisión negociadora laboral se integrará por la directiva sindical o por el número de sus miembros que ésta designe. Cuando hayan de discutirse estipulaciones aplicables a una empresa en particular, deberá integrarse además por el o los delegados sindicales respectivos y, en caso de no existir éstos, por un delegado elegido por los trabajadores de la empresa involucrada.
-
-La comisión negociadora conjunta, deberá dar una respuesta común al proyecto, la que podrá contener estipulaciones generales para todas las empresas como diferenciadas para cada una de ellas.
-
-La respuesta deberá darse dentro del plazo de 25 días siguientes al de expiración del plazo de diez días previsto en el inciso primero del artículo 334 bis A.
-
-#### Artículo 334 bis
-
-C. La presentación y tramitación de los proyectos de contratos colectivos contemplados en los artículos 334 bis A y 334 bis B, en lo no previsto en estos preceptos, se ajustará a lo dispuesto en el Capítulo I del Título II del Libro IV y, en lo que corresponda, a las restantes normas especiales de este Capítulo II.
-
-#### Artículo 335
-
-La presentación y tramitación del proyecto de contrato colectivo se ajustará a lo prescrito en el Capítulo I del Título II de este Libro, sin perjuicio de las normas especiales que se señalan en los artículos siguientes.
-
-#### Artículo 336
-
-En las empresas en que existiere un contrato colectivo vigente, las partes podrán adelantar o diferir hasta un máximo de sesenta días el término de su vigencia, con el objeto de negociar colectivamente de acuerdo con las normas de este Capítulo.
-
-#### Artículo 337
-
-La negociación se iniciará con la presentación de un proyecto de contrato colectivo a una comisión negociadora, conformada por todos los empleadores o sus representantes que hayan suscrito el respectivo acuerdo de negociar colectivamente bajo las normas de este Capítulo. El proyecto deberá ser presentado dentro de los treinta días siguientes a la suscripción del referido acuerdo y se estará a lo dispuesto en el artículo 324.
-
-#### Artículo 338
-
-El proyecto de contrato colectivo deberá contener, a lo menos, las siguientes menciones:
-
-1.- las partes a quienes haya de involucrar la negociación, individualizándose la o las empresas con sus respectivos domicilios y los trabajadores involucrados en cada una de ellas, acompañándose una nómina de los socios del sindicato respectivo y de los trabajadores que adhieren a la presentación, así como una copia autorizada del acta de la asamblea a que se refiere la letra b) del inciso segundo del artículo 334;
-
-2.- la rúbrica de los adherentes si correspondiere;
-
-3.- las cláusulas que se proponen. El proyecto podrá contener proposiciones especiales para una o más de las empresas involucradas;
-
-4.- el plazo de vigencia del contrato, y
-
-5.- los integrantes de la comisión negociadora.
-
-El proyecto llevará, además, la firma de los miembros de la comisión negociadora.
-
-#### Artículo 339
-
-La representación de los trabajadores en la negociación colectiva estará a cargo de la directiva de la o las organizaciones sindicales respectivas. Cuando haya de discutirse estipulaciones contractuales aplicables a una empresa en particular, la comisión negociadora deberá integrarse con la directiva del sindicato base o el delegado sindical respectivo. En el caso de no existir este último, deberá integrarse con un representante de los trabajadores de la empresa afiliado al sindicato respectivo.
-
-En tal caso, el representante deberá cumplir con los requisitos que se exigen para ser director sindical y ser elegido por los trabajadores de la empresa respectiva afiliados al sindicato, en votación secreta.
-
-Dicha elección se verificará en la misma asamblea a que se refiere la letra b) del inciso segundo del artículo 334.
-
-#### Artículo 340
-
-Los empleadores que formen parte del procedimiento, deberán constituir una comisión negociadora que estará integrada por un apoderado de cada una de las empresas.
-
-Dicha comisión deberá constituirse en el momento de la suscripción del acuerdo a que se refiere el artículo 334, o a más tardar, dentro de los dos días siguientes a éste. En este último caso, deberá comunicarse dicha circunstancia a la directiva de la o las organizaciones sindicales respectivas, dentro del mismo plazo indicado precedentemente.
-
-Los apoderados podrán delegar la representación en una comisión de hasta cinco personas. Esta delegación deberá constar por escrito y extenderse ante Ministro de fe.
-
-El empleador podrá, en todo caso y en cualquier momento, suscribir un contrato colectivo en conformidad a lo dispuesto en los incisos segundo y tercero del artículo 343.
-
-#### Artículo 341
-
-Los empleadores que formen parte del procedimiento deberán dar una respuesta única al proyecto. No obstante, la respuesta podrá contener estipulaciones especiales para una o más de las empresas involucradas.
-
-#### Artículo 342
-
-La comisión negociadora de los empleadores dará respuesta al proyecto de contrato colectivo dentro de los quince días siguientes al de su presentación. Este plazo será de veinte días, contados del mismo modo, en caso que la comisión negociadora estuviese integrada por representantes de más de diez empresas.
-
-Para los efectos de lo dispuesto en el inciso anterior, se estará a lo señalado en el artículo 330.
-
-Las respectivas comisiones negociadoras podrán prorrogar este plazo por el término que estimen necesario. La prórroga que se acuerde será general para las empresas que integren la misma comisión negociadora.
-
-Si la comisión negociadora de los empleadores no diere respuesta en la forma y plazos señalados en el inciso primero, se entenderá que acepta el proyecto, salvo la prórroga a que se refiere el inciso anterior. El mismo efecto se producirá respecto del o de los empleadores que no concurrieren a la respuesta de la comisión negociadora.
-
-#### Artículo 343
-
-Las respectivas comisiones negociadoras podrán, en cualquier momento, acordar la suscripción de un contrato colectivo que ponga término a la negociación, el que podrá ser igual para todas las empresas involucradas, como contener estipulaciones específicas para alguna o algunas de ellas.
-
-Con todo, el instrumento respectivo será suscrito separadamente en cada una de las empresas por el empleador y la comisión negociadora, debiendo concurrir además a su firma la directiva del sindicato respectivo o el delegado sindical o el representante de los trabajadores, según corresponda de conformidad al artículo 339.
-
-Asimismo, en cualquier momento, los trabajadores de cualquiera de las empresas comprendidas en la negociación, por acuerdo adoptado por la mayoría absoluta de los trabajadores involucrados, podrán instruir a la comisión negociadora para que celebre con su empleador un contrato colectivo de trabajo relativo a dicha empresa, quedando ésta excluida de la negociación.
-
-Si transcurridos dos días de la instrucción a que se refiere el inciso anterior, los integrantes de la comisión negociadora no concurrieren a la firma del contrato colectivo o se negaren a hacerlo, el instrumento respectivo será suscrito por el sindicato base o el delegado sindical o el representante de los trabajadores, según sea el caso.
-
-Copia de dicho contrato colectivo deberá enviarse a la Inspección del Trabajo dentro de los tres días siguientes.
+El tribunal, previa revisión de los antecedentes, ordenará en la primera resolución que el empleador haga entrega de la información, bajo apercibimiento legal.
 
 ## Título III
 
-DEL CONTRATO COLECTIVO
+DE LOS INSTRUMENTOS COLECTIVOS Y DE LA TITULARIDAD SINDICAL
 
-#### Artículo 344
+#### Artículo 320
 
-Si producto de la negociación directa entre las partes, se produjere acuerdo, sus estipulaciones constituirán el contrato colectivo.
+Instrumento colectivo. Instrumento colectivo es la convención celebrada entre empleadores y trabajadores con el objeto de establecer condiciones comunes de trabajo y remuneraciones u otros beneficios en especie o en dinero, por un tiempo determinado, de conformidad a las reglas previstas en este Libro.
 
-Contrato colectivo es el celebrado por uno o más empleadores con una o más organizaciones sindicales o con trabajadores que se unan para negociar colectivamente, o con unos y otros, con el objeto de establecer condiciones comunes de trabajo y de remuneraciones por un tiempo determinado.
+El laudo o fallo arbitral dictado según las normas de los artículos 385 y siguientes de
 
-El contrato colectivo deberá constar por escrito.
+este Código también constituye un instrumento colectivo.
 
-Copia de este contrato deberá enviarse a la Inspección del Trabajo dentro de los cinco días siguientes a su suscripción.
+Los instrumentos colectivos deberán constar por escrito y registrarse en la Inspección del Trabajo dentro de los cinco días siguientes a su suscripción.
 
-#### Artículo 345
+#### Artículo 321
 
-Todo contrato colectivo deberá contener, a lo menos, las siguientes menciones:
+Instrumentos colectivos y su contenido. Todo instrumento colectivo deberá contener, a lo menos, las siguientes menciones:
 
-1.- La determinación precisa de las partes a quienes afecte;
+1. La determinación precisa de las partes a quienes afecte.
 
-2.- Las normas sobre remuneraciones, beneficios y condiciones de trabajo que se hayan acordado. En consecuencia, no podrán válidamente contener estipulaciones que hagan referencias a la existencia de otros beneficios o condiciones incluidos en contratos anteriores, sin entrar a especificarlos, y
+2. Las normas sobre remuneraciones, beneficios, condiciones de trabajo y demás estipulaciones que se hayan acordado, especificándolas detalladamente.
 
-3.- El período de vigencia del contrato.
+3. El período de vigencia.
 
-Si lo acordaren las partes, contendrá además la designación de un árbitro encargado de interpretar las cláusulas y de resolver las controversias a que dé origen el contrato.
+4. El acuerdo de extensión de beneficios o la referencia de no haberse alcanzado dicho acuerdo.
 
-#### Artículo 346
+Adicionalmente, podrá contener la constitución de una comisión bipartita para la implementación y seguimiento del cumplimiento del instrumento colectivo o mecanismos de resolución de las controversias.
 
-Los trabajadores a quienes el empleador les hiciere extensivos los beneficios estipulados en el instrumento colectivo respectivo, para aquéllos que ocupen cargos o desempeñen funciones similares, deberán aportar al sindicato que hubiere obtenido dichos beneficios, un setenta y cinco por ciento de la cotización mensual ordinaria, durante toda la vigencia del contrato y los pactos modificatorios del mismo, a contar de la fecha en que éste se les aplique. Si éstos los hubiere obtenido más de un sindicato, el aporte irá a aquel que el trabajador indique; si no lo hiciere se entenderá que opta por la organización más representativa.
+#### Artículo 322
 
-El monto del aporte al que se refiere el inciso precedente, deberá ser descontado por el empleador y entregado al sindicato respectivo del mismo modo previsto por la ley para las cuotas sindicales ordinarias y se reajustará de la misma forma que éstas.
+Aplicación de las estipulaciones de un instrumento colectivo. La comunicación al empleador deberá realizarse por escrito al correo electrónico designado por este y enviarse copia de la misma a la Inspección del Trabajo.
 
-El trabajador que se desafilie de la organización sindical, estará obligado a cotizar en favor de ésta el setenta y cinco por ciento de la cotización mensual ordinaria, durante toda la vigencia del contrato colectivo y los pactos modificatorios del mismo.
+Las partes de un instrumento colectivo podrán acordar la aplicación general o parcial de sus estipulaciones a todos o parte de los trabajadores de la empresa o establecimiento de empresa sin afiliación sindical. En el caso antes señalado, para acceder a los beneficios dichos trabajadores deberán aceptar la extensión y obligarse a pagar todo o parte de la cuota ordinaria de la organización sindical, según lo establezca el acuerdo.
 
-También se aplicará lo dispuesto en este artículo a los trabajadores que, habiendo sido contratados en la empresa con posterioridad a la suscripción del instrumento colectivo, pacten los beneficios a que se hizo referencia.
+El acuerdo de extensión de que trata el inciso anterior deberá fijar criterios objetivos, generales y no arbitrarios para extender los beneficios a trabajadores sin afiliación sindical.
 
-#### Artículo 347
+Sin perjuicio de lo anterior, el empleador podrá aplicar a todos los trabajadores de la empresa las cláusulas pactadas de reajuste de remuneraciones conforme a la variación del Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas o el que haga sus veces, siempre que dicho reajuste se haya contemplado en su respuesta al proyecto de contrato colectivo.
 
-Los contratos colectivos y los fallos arbitrales tendrán una duración no inferior a dos años ni superior a cuatro años. La vigencia de los contratos colectivos se contará a partir del día siguiente al de la fecha de vencimiento del contrato colectivo o fallo arbitral anterior. Si no existiese contrato colectivo o fallo arbitral anterior, la vigencia se contará a partir del día siguiente al de su suscripción.
+#### Artículo 323
 
-No obstante, la duración de los contratos colectivos que se suscriban con arreglo al Capítulo II del Título II de este Libro, se contará para todos éstos, a partir del día siguiente al sexagésimo de la presentación del respectivo proyecto, cuando no exista contrato colectivo anterior.
+Derecho a la libre afiliación y vinculación del trabajador con el instrumento colectivo. El trabajador podrá afiliarse y desafiliarse libremente de cualquier sindicato.
 
-Con todo, si se hubiere hecho efectiva la huelga, el contrato que se celebre con posterioridad o el fallo arbitral que se dicte, sólo tendrán vigencia a contar de la fecha de suscripción del contrato o de constitución del compromiso, sin perjuicio de que su duración se cuente a partir del día siguiente al de la fecha de vencimiento del contrato colectivo o fallo arbitral anterior o del cuadragésimo quinto o sexagésimo día contado desde la presentación del respectivo proyecto, según corresponda.
+No obstante el cambio de afiliación sindical o desafiliación, el trabajador se mantendrá afecto al instrumento colectivo negociado por el sindicato al que pertenecía y que estuviere vigente, debiendo pagar el total de la cuota mensual ordinaria de ese sindicato durante toda la vigencia de dicho instrumento colectivo. Al término de la vigencia del instrumento colectivo del sindicato al que estaba afiliado, el trabajador pasará a estar afecto al instrumento colectivo del sindicato al que se hubiere afiliado, de existir este.
 
-#### Artículo 348
+Una vez iniciada la negociación colectiva, los trabajadores involucrados permanecerán afectos a esta, así como al instrumento colectivo a que dicha negociación diere lugar.
 
-Las estipulaciones de los contratos colectivos reemplazarán en lo pertinente a las contenidas en los contratos individuales de los trabajadores que sean parte de aquéllos y a quienes se les apliquen sus normas de conformidad al artículo 346.
+#### Artículo 324
 
-Extinguido el contrato colectivo, sus cláusulas subsistirán como integrantes de los contratos individuales de los respectivos trabajadores, salvo las que se refieren a la reajustabilidad tanto de las remuneraciones como de los demás beneficios pactados en dinero, y a los derechos y obligaciones que sólo pueden ejercerse o cumplirse colectivamente.
+Duración y vigencia de los instrumentos colectivos. Los contratos colectivos, los acuerdos de grupo negociador y los fallos arbitrales tendrán una duración no inferior a dos años ni superior a tres.
 
-#### Artículo 349
+La vigencia de los contratos colectivos se contará a partir del día siguiente al de la fecha de vencimiento del contrato colectivo o fallo arbitral anterior. De no existir instrumento colectivo anterior, la vigencia se contará a partir del día siguiente al de su suscripción.
 
-El original de dicho contrato colectivo, así como las copias auténticas de este instrumento autorizadas por la Inspección del Trabajo, tendrán mérito ejecutivo y los Juzgados de Letras del Trabajo conocerán de estas ejecuciones, conforme al procedimiento señalado en el Párrafo 4°, del Capítulo II, del Título I, del Libro V, de este Código.
+Con todo, si se hubiere hecho efectiva la huelga, el contrato que se celebre con posterioridad o el fallo arbitral que se dicte, en su caso, sólo tendrán vigencia a contar de la fecha de suscripción del contrato, de constitución del compromiso o de la notificación de la resolución que ordena la reanudación de faenas, sin perjuicio de que su duración se cuente a partir del día siguiente al de la fecha de vencimiento del contrato colectivo o del fallo arbitral anterior, o del cuadragésimo quinto día contado desde la presentación del respectivo proyecto, según corresponda.
 
-No obstante lo dispuesto en el inciso precedente, el incumplimiento de las estipulaciones contenidas en contratos y convenios colectivos y fallos arbitrales, será sancionado con multa a beneficio fiscal de hasta diez unidades tributarias mensuales. La aplicación, cobro y reclamo de esta multa se efectuarán con arreglo a las disposiciones del Título II del Libro V de este Código.
+Por su parte, los convenios colectivos podrán tener la duración que las partes definan, pero en ningún caso podrá ser superior a tres años.
 
-Lo dispuesto en el inciso anterior es sin perjuicio de las facultades de fiscalización que sobre el cumplimiento de los contratos y convenios colectivos y fallos arbitrales corresponden a la Dirección del Trabajo.
+#### Artículo 325
 
-#### Artículo 350
+Ultraactividad de un instrumento colectivo. Extinguido el instrumento colectivo, sus cláusulas subsistirán como integrantes de los contratos individuales de los respectivos trabajadores afectos, salvo las que se refieren a la reajustabilidad pactada tanto de las remuneraciones como de los demás beneficios convenidos en dinero, los incrementos reales pactados, así como los derechos y obligaciones que sólo pueden ejercerse o cumplirse colectivamente y los pactos sobre condiciones especiales de trabajo.
 
-Lo dispuesto en este Título se aplicará también a los fallos arbitrales que pongan término a un proceso de negociación colectiva y a los convenios colectivos que se celebren de conformidad al artículo 314.
+#### Artículo 326
 
-#### Artículo 351
+Mérito ejecutivo de los instrumentos colectivos y sanciones en caso de incumplimiento. Las copias originales de los instrumentos colectivos, así como las copias auténticas de dichos instrumentos, autorizadas por la Inspección del Trabajo, respecto de aquellas cláusulas que contengan obligaciones líquidas y actualmente exigibles, tendrán mérito ejecutivo y los Juzgados de Cobranza Laboral y Previsional conocerán de estas ejecuciones conforme al procedimiento señalado en los artículos 463 y siguientes.
 
-Convenio colectivo es el suscrito entre uno o más empleadores con una o más organizaciones sindicales o con trabajadores unidos para tal efecto, o con unos y otros, con el fin de establecer condiciones comunes de trabajo y remuneraciones por un tiempo determinado, sin sujeción a las normas de procedimiento de la negociación colectiva reglada ni a los derechos, prerrogativas y obligaciones propias de tal procedimiento.
-
-No obstante lo señalado en el artículo anterior, lo dispuesto en el inciso segundo del artículo 348 sólo se aplicará tratándose de convenios colectivos de empresa.
-
-Asimismo, no se les aplicará lo dispuesto en el artículo 347 e inciso primero del artículo 348, cuando en los respectivos convenios se deje expresa constancia de su carácter parcial o así aparezca de manifiesto en el respectivo instrumento.
-
-Los convenios colectivos que afecten a más de una empresa, ya sea porque los suscriban sindicatos o trabajadores de distintas empresas con sus respectivos empleadores o federaciones y confederaciones en representación de las organizaciones afiliadas a ellas con los respectivos empleadores, podrán regir conjuntamente con los instrumentos colectivos que tengan vigencia en una empresa, en cuanto ello no implique disminución de las remuneraciones, beneficios y derechos que correspondan a los trabajadores por aplicación del respectivo instrumento colectivo de empresa.
+No obstante lo dispuesto en el inciso precedente, el incumplimiento de las estipulaciones contenidas en los instrumentos colectivos será sancionado por la Inspección del Trabajo de conformidad al artículo 506. La aplicación, cobro y reclamo de esta multa se efectuará con arreglo a las disposiciones de los artículos 503 y siguientes de este Código.
 
 ## Título IV
 
-DE LA MEDIACION
+EL PROCEDIMIENTO DE NEGOCIACIÓN COLECTIVA REGLADA
 
-#### Artículo 352
+## Capítulo I
 
-En cualquier momento de la negociación, las partes podrán acordar la designación de un mediador. Este deberá ajustarse al procedimiento que le señalen las partes o, en subsidio, al que se establece en los artículos siguientes.
+REGLAS GENERALES
 
-#### Artículo 353
+#### Artículo 327
 
-El mediador estará dotado de las facultades indicadas en el artículo 362, salvo acuerdo en contrario de las partes.
+Inicio de la negociación colectiva reglada. La negociación colectiva se inicia con la presentación del proyecto de contrato colectivo por parte de el o los sindicatos al empleador.
 
-#### Artículo 354
+#### Artículo 328
 
-El mediador tendrá un plazo máximo de diez días, o el que determinen las partes, contados desde la notificación de su designación, para desarrollar su gestión.
+Contenido del proyecto de contrato colectivo. En la presentación del proyecto de contrato colectivo se deberán explicitar, a lo menos, las cláusulas que se proponen, la vigencia ofrecida, la comisión negociadora sindical y el domicilio físico y electrónico de el o los sindicatos respectivos. En esta misma oportunidad deberán presentar la nómina de los trabajadores que hasta ese momento se encuentren afiliados.
 
-Al término de dicho plazo, si no se hubiere logrado acuerdo, convocará a las partes a una audiencia en la que éstas deberán formalizar su última proposición de contrato colectivo.
+El sindicato podrá explicar los fundamentos de su propuesta de contrato y acompañar los antecedentes que sustenten su presentación.
 
-El mediador les presentará a las partes una propuesta de solución, a la que éstas deberán dar respuesta dentro de un plazo de tres días.
+#### Artículo 329
 
-Si ambas partes o una de ellas no aceptase dicha proposición o no diese respuesta dentro del plazo indicado precedentemente, pondrá término a su gestión, presentando a las partes un informe sobre el particular, en el cual dejará constancia de su proposición y de la última proposición de cada una de ellas, o sólo de la que la hubiese hecho.
+Presentación del proyecto de contrato colectivo y negativa del empleador a recibirlo. Copia del proyecto de contrato colectivo presentado por el o los sindicatos, firmada por el empleador para acreditar que ha sido recibido por este, con la fecha de recepción estampada en él, deberá entregarse a la Inspección del Trabajo respectiva, dentro de los cinco días siguientes a su presentación.
 
-## Título V
+Si el empleador se negare a recibir o certificar la recepción del proyecto, el sindicato deberá requerir a la Inspección del Trabajo, dentro de los tres días siguientes a la negativa, para que notifique el proyecto de contrato al empleador en el más breve plazo.
 
-DEL ARBITRAJE LABORAL
+#### Artículo 330
 
-#### Artículo 355
+Comisión negociadora sindical. La representación del sindicato en la negociación colectiva corresponderá a la comisión negociadora sindical, integrada por el directorio sindical respectivo. Si se trata de una negociación colectiva iniciada por más de un sindicato, la comisión negociadora sindical estará integrada por los directores que sean designados en el proyecto de contrato colectivo.
 
-Las partes podrán someter la negociación a arbitraje en cualquier momento, sea durante la negociación misma o incluso durante la huelga o el cierre temporal de empresa o lock-out.
+Además de los miembros de la comisión negociadora sindical, podrán asistir al desarrollo de las negociaciones los asesores que designen la o las organizaciones sindicales, los que no podrán exceder de tres.
 
-Sin embargo, el arbitraje será obligatorio en aquellos casos en que estén prohibidos la huelga y cierre temporal de empresa o lock-out, y en el de reanudación de faenas previsto en el artículo 385.
+En caso que el o los sindicatos que negocien tengan afiliación femenina y la respectiva comisión negociadora sindical no esté integrada por ninguna trabajadora, se deberá integrar a una representante elegida por el o los sindicatos de conformidad a sus estatutos. En el evento que los estatutos nada establecieran, esta trabajadora deberá ser elegida en asamblea convocada al efecto, en votación universal.
 
-#### Artículo 356
+En la micro y pequeña empresa, la trabajadora que deba integrar la comisión negociadora de conformidad a lo dispuesto en el inciso anterior sustituirá a uno de los miembros que deban integrarla por derecho propio.
 
-En los casos de arbitraje voluntario el compromiso deberá constar por escrito, y en él se consignará el nombre del árbitro laboral o el procedimiento para designarlo. Copia de este acuerdo deberá enviarse a la Inspección del Trabajo dentro del plazo de cinco días contados desde su suscripción.
+Respecto de la trabajadora que integre la comisión negociadora sindical de conformidad a lo dispuesto en el inciso tercero, el fuero señalado en el artículo 309 se extenderá hasta noventa días, contados desde la suscripción del contrato colectivo o, en su caso, desde la fecha de notificación a las partes del fallo arbitral que se hubiere dictado.
 
-El procedimiento será fijado libremente por las partes o por el árbitro laboral, en subsidio.
+#### Artículo 331
 
-#### Artículo 357
+Afiliación sindical durante la negociación colectiva. Iniciado un proceso de negociación colectiva reglada, los trabajadores no afiliados al sindicato tendrán derecho a afiliarse a él, incorporándose de pleno derecho a la negociación en curso, salvo lo dispuesto en el inciso segundo del artículo 323.
 
-En los arbitrajes obligatorios a que se refiere el artículo 384, si hubiere vencido el contrato colectivo o fallo arbitral anterior o, en caso de no existir algunos de estos instrumentos, si hubieren transcurrido cuarenta y cinco días desde la presentación del proyecto de contrato en el caso de la negociación sujeta al procedimiento del Capítulo I del Título II, o sesenta en el caso de la negociación sujeta al procedimiento establecido en el Capítulo II del mismo título, sin que se hubiere suscrito el nuevo instrumento colectivo, la Inspección del Trabajo citará a las partes a un comparendo para dentro de tercero día, con el objeto de proceder a la designación del árbitro laboral. Esta audiencia se celebrará con cualquiera de las partes que asista, o aún en su ausencia, y de ella se levantará acta en la cual se dejará constancia de tal designación y de las últimas proposiciones de las partes.
+Con todo, sólo se incorporarán a la negociación en curso los trabajadores que se afilien hasta el quinto día de presentado el proyecto de contrato colectivo.
 
-Lo dispuesto en el inciso precedente se entenderá sin perjuicio de la prórroga a que se refiere el inciso primero del artículo 369, y del derecho de las partes para concurrir en cualquier tiempo a la Inspección del Trabajo para solicitar que se proceda a la designación del árbitro laboral. En caso de que ninguna de las partes asista, tal designación la hará el Inspector del Trabajo.
+El sindicato deberá informar al empleador la afiliación de nuevos trabajadores dentro del plazo de dos días contado desde la respectiva incorporación.
 
-En los arbitrajes señalados en el artículo 385, el plazo de la citación que deberá practicar la Inspección del Trabajo se contará a partir de la fecha del decreto respectivo.
+## Capítulo II
 
-#### Artículo 358
+OPORTUNIDAD PARA PRESENTAR EL PROYECTO Y PLAZO DE LA NEGOCIACIÓN
 
-El arbitraje obligatorio se regirá, en cuanto a la constitución del tribunal arbitral, al procedimiento a que debe ajustarse y al cumplimiento de sus resoluciones, por lo dispuesto en este Título y, en lo que fuere compatible, por lo establecido para los árbitros arbitradores en el párrafo 2.° del Título VIII del Libro III del Código de Procedimiento Civil.
+#### Artículo 332
 
-#### Artículo 359
+Oportunidad de presentación del proyecto de contrato colectivo por el sindicato cuando no tiene instrumento colectivo vigente. La presentación de un proyecto de contrato colectivo realizada por un sindicato que no tiene instrumento colectivo vigente podrá hacerse en cualquier tiempo, sin perjuicio de lo establecido en el artículo 308.
 
-Las negociaciones sometidas a arbitrajes obligatorios serán resueltas en primera instancia por un tribunal arbitral unipersonal, que será designado de entre la nómina de árbitros laborales confeccionada en conformidad a las disposiciones del Título X de este Libro.
+Las empresas en que no exista un instrumento colectivo vigente podrán fijar un período, de hasta sesenta días al año, durante el cual no será posible iniciar un proceso de negociación colectiva.
 
-Para designar el árbitro laboral, las partes podrán elegir de común acuerdo a uno de los indicados en la referida nómina, y a falta de dicho acuerdo, deberán proceder a enumerar en un orden de preferencia los distintos árbitros laborales incluidos en la nómina. La Inspección del Trabajo designará a aquel que más se aproxime a las preferencias de ambas partes; si se produjere igualdad de preferencias, el árbitro laboral será elegido por sorteo de entre aquellos que obtuvieron la igualdad.
+La declaración a que se refiere el inciso anterior deberá comunicarse por medios idóneos a la Inspección del Trabajo y a los trabajadores. Su vigencia será de doce meses.
 
-Si a la audiencia no asistieren las partes o una de ellas, el árbitro laboral será designado por sorteo.
+#### Artículo 333
 
-#### Artículo 360
+Oportunidad de presentación del proyecto de contrato colectivo por el sindicato cuando tiene instrumento colectivo vigente. La presentación de un proyecto de contrato colectivo realizada por un sindicato que tiene instrumento colectivo vigente deberá hacerse no antes de sesenta ni después de cuarenta y cinco días anteriores a la fecha de término de la vigencia de dicho instrumento.
 
-Serán aplicables a los árbitros laborales las causales de implicancia y recusación señaladas en los artículos 195 y 196 del Código Orgánico de Tribunales, declarándose que la mención que en dichas normas se hace a los abogados de las partes debe entenderse referida a los asesores de las mismas en el respectivo procedimiento de negociación colectiva.
+Si el proyecto de contrato colectivo se presenta antes del plazo señalado en el inciso precedente, se entenderá, para todos los efectos legales, que fue presentado sesenta días antes de la fecha de vencimiento del instrumento colectivo anterior.
 
-Para los efectos de las implicancias o recusaciones, solamente se entenderán como parte el empleador, sus representantes legales, sus apoderados en el procedimiento de negociación colectiva, los directores de los sindicatos interesados en la misma, y los integrantes de la respectiva comisión negociadora de los trabajadores, en su caso.
+#### Artículo 334
 
-Las implicancias o recusaciones serán declaradas de oficio o a petición de parte por el árbitro laboral designado.
+Consecuencias de la no presentación o presentación tardía del proyecto de contrato colectivo. Si el sindicato no presenta el proyecto de contrato colectivo o lo presenta luego de vencido el plazo, llegada la fecha de término del instrumento colectivo vigente se extinguirán sus efectos y sus cláusulas subsistirán como parte de los contratos individuales de los trabajadores afectos a él, salvo las que se refieren a la reajustabilidad pactada tanto de las remuneraciones como de los demás beneficios convenidos en dinero, el incremento real pactado, así como los derechos y obligaciones que sólo pueden ejercerse o cumplirse colectivamente.
 
-En caso de implicancia, la declaración podrá formularse en cualquier tiempo.
+## Capítulo III
 
-En caso de recusación, el tribunal deberá declararla dentro del plazo de cinco días hábiles de haberse constituido. Dentro del mismo plazo, la parte interesada podrá también deducir las causales de recusación que fueren pertinentes.
+DE LA RESPUESTA DEL EMPLEADOR
 
-Si la causal de recusación sobreviniere con posterioridad a la constitución del tribunal arbitral, el plazo a que se refiere el inciso anterior se contará desde que se tuvo conocimiento de la misma.
+#### Artículo 335
 
-Si el tribunal no diere lugar a la declaración de la implicancia o recusación, la parte afectada podrá apelar, dentro del plazo de cinco días hábiles, ante el Consejo Directivo del Cuerpo Arbitral, el que resolverá de acuerdo al procedimiento que se determine en conformidad a lo dispuesto en la letra g) del artículo 406. En uso de la facultad señalada, el Consejo podrá encomendar la resolución del asunto a dos o más de sus miembros y la decisión de éstos será la del Consejo Directivo del Cuerpo Arbitral.
+Respuesta del empleador y comisión negociadora de empresa. La respuesta del empleador al proyecto de contrato colectivo deberá ser entregada a alguno de los integrantes de la comisión negociadora sindical y remitida a la dirección de correo electrónico designada por el sindicato, dentro de los diez días siguientes a la presentación del proyecto. Las partes de común acuerdo podrán prorrogar este plazo hasta por diez días adicionales.
 
-La interposición de este recurso no suspenderá el procedimiento de arbitraje. Con todo, no podrá procederse a la dictación del fallo arbitral sin que previamente se haya resuelto la implicancia o recusación.
+El empleador deberá dar respuesta a todas las cláusulas propuestas en el proyecto presentado por el sindicato y señalar una dirección de correo electrónico. Asimismo, podrá explicar los fundamentos y contenidos de su proposición, acompañando los antecedentes que la sustenten.
 
-La resolución que se pronuncie acerca de la implicancia o recusación se notificará a las partes en la forma dispuesta por el inciso final del artículo 411.
+El empleador deberá designar una comisión negociadora de empresa, constituida por un máximo de tres apoderados que formen parte de la empresa, entendiéndose también como tales a los miembros de su respectivo directorio y a los socios con facultad de administración. Podrá además designar a los asesores, conforme a lo dispuesto en el inciso segundo del artículo 330 de este Código.
 
-#### Artículo 361
+#### Artículo 336
 
-El tribunal a que se refiere el artículo 359, deberá constituirse dentro de los cinco días hábiles siguientes a la notificación de su designación.
+Piso de la negociación. La respuesta del empleador deberá contener, a lo menos, el piso de la negociación. En el caso de existir instrumento colectivo vigente, se entenderá por piso de la negociación idénticas estipulaciones a las establecidas en el instrumento colectivo vigente, con los valores que corresponda pagar a la fecha de término del contrato. Se entenderán excluidos del piso de la negociación la reajustabilidad pactada, los incrementos reales pactados, los pactos sobre condiciones especiales de trabajo y los beneficios que se otorgan sólo por motivo de la firma del instrumento colectivo. El acuerdo de extensión de beneficios que forme parte de un instrumento colectivo tampoco constituye piso de la negociación.
 
-La notificación al árbitro laboral o a los árbitros laborales designados será practicada por el Secretario del Cuerpo Arbitral, para cuyo efecto el Inspector del Trabajo pondrá en su conocimiento, dentro de los tres días siguientes a esta designación, el nombre de aquél o aquéllos, y le remitirá el expediente de la negociación.
+En el caso de no existir instrumento colectivo vigente, la respuesta del empleador constituirá el piso de la negociación. La propuesta del empleador no podrá contener beneficios inferiores a los que de manera regular y periódica haya otorgado a los trabajadores que represente el sindicato.
 
-El procedimiento arbitral será fijado por las partes o, en caso de desacuerdo, por el tribunal.
+#### Artículo 337
 
-El tribunal deberá fallar dentro de los treinta días hábiles siguientes a su constitución, plazo que podrá prorrogar fundadamente por otros diez días hábiles.
+Efectos de la falta de respuesta y de aquella que no contenga las estipulaciones del piso de la negociación. Si el empleador no diere respuesta oportunamente al proyecto de contrato, será sancionado con una multa establecida de conformidad al inciso primero del artículo 406.
 
-Si el tribunal no se constituyere dentro del plazo establecido, deberá procederse a la designación de uno nuevo, ajustándose el procedimiento en lo demás a lo dispuesto en los artículos precedentes.
+Llegado el vigésimo día de presentado el proyecto de contrato colectivo sin que el empleador le haya dado respuesta, se entenderá que lo acepta, salvo que las partes hayan acordado la prórroga del inciso primero del artículo 335, en cuyo caso la sanción operará a partir del día siguiente al vencimiento de la prórroga.
 
-Lo señalado en el inciso anterior se entenderá sin perjuicio de lo dispuesto en la letra c) del artículo 411.
+En caso que la respuesta del empleador no contenga las estipulaciones del piso de la negociación, aquellas se entenderán incorporadas para todos los efectos legales.
 
-#### Artículo 362
+#### Artículo 338
 
-El tribunal podrá requerir los antecedentes que juzgue necesarios, efectuar las visitas que estime procedentes a los locales de trabajo, hacerse asesorar por organismos públicos o por expertos sobre las diversas materias sometidas a su resolución, y exigir aquellos antecedentes documentales, laborales, tributarios, contables o de cualquier otra índole que las leyes respectivas permitan exigir a las autoridades de los diversos servicios inspectivos.
+Registro de la respuesta. El empleador deberá remitir a la Inspección del Trabajo copia de la respuesta dentro de los cinco días siguientes a la fecha en que esta haya sido entregada a la comisión negociadora sindical, adjuntando comprobante de su recepción por el sindicato.
 
-Al hacerse cargo de su gestión, el tribunal recibirá de la Inspección del Trabajo toda la documentación que constituye el expediente de negociación existente en dicha repartición.
+## Capítulo IV
 
-#### Artículo 363
+IMPUGNACIONES Y RECLAMACIONES
 
-El tribunal arbitral, en los arbitrajes obligatorios previstos en los artículos 384 y 385, estará obligado a fallar en favor de una de las dos proposiciones de las partes, vigentes en el momento de someterse el caso a arbitraje, debiendo aceptarla en su integridad. En consecuencia, no podrá fallar por una alternativa distinta ni contener en su fallo proposiciones de una y otra parte.
+#### Artículo 339
 
-Para emitir su fallo, el árbitro laboral deberá tomar en consideración, entre otros, los siguientes elementos:
+Impugnación de la nómina, quórum y otras reclamaciones. El empleador tendrá derecho a impugnar la inclusión de uno o más trabajadores incorporados en la nómina del proyecto de contrato colectivo, por no ajustarse a las disposiciones de este Código.
 
-a) El nivel de remuneraciones vigente en plaza para los distintos cargos o trabajos sometidos a negociación;
+Las partes podrán, además, formular reclamaciones respecto del proyecto de contrato colectivo o de su respuesta, por no ajustarse a las normas del presente Libro.
 
-b) El grado de especialización y experiencia de los trabajadores que les permite aportar una mayor productividad a la empresa en relación a otras de esa actividad u otra similar;
+No será materia de reclamación la circunstancia de estimar alguna de las partes que la otra, en el proyecto de contrato colectivo o en la correspondiente respuesta, según el caso, ha infringido lo dispuesto en el inciso cuarto del artículo 306 de este Código.
 
-c) Los aumentos de productividad obtenidos por los distintos grupos de trabajadores, y
+#### Artículo 340
 
-d) El nivel de empleo en la actividad de la empresa objeto de arbitraje.
+Reglas de procedimiento. Las impugnaciones y reclamaciones señaladas en el artículo anterior se tramitarán ante la Inspección del Trabajo respectiva, conforme a las siguientes reglas:
 
-El fallo será fundado y deberá contener iguales menciones que las especificadas para el contrato colectivo y la regulación de los honorarios del tribunal arbitral.
+a) El empleador deberá formular todas sus impugnaciones y reclamaciones en la respuesta al proyecto de contrato colectivo, acompañando los antecedentes en que se funden.
 
-Las costas del arbitraje serán de cargo de ambas partes, por mitades.
+b) La comisión negociadora sindical deberá formular todas sus reclamaciones en una misma presentación ante la Inspección del Trabajo, acompañando los antecedentes en que se funden, dentro de los cinco días siguientes de recibida la respuesta del empleador.
 
-#### Artículo 364
+c) Recibida la respuesta del empleador que contenga impugnaciones o reclamaciones y recibidas las reclamaciones del sindicato, según sea el caso, la Inspección del Trabajo deberá citar a las partes a una audiencia que tendrá lugar dentro de los cinco días siguientes. Dicha citación deberá ser enviada a la dirección de correo electrónico de las partes.
 
-El fallo arbitral será apelable ante una Corte Arbitral integrada por tres miembros, designados en cada caso por sorteo, ante la Inspección del Trabajo, de entre la nómina de árbitros.
+d) A esta audiencia las partes deberán asistir con todos los antecedentes necesarios y la documentación adicional que le haya sido requerida por la Inspección del Trabajo, la que instará a las partes a alcanzar un acuerdo.
 
-Si en una misma empresa hubiere lugar a varios arbitrajes en la misma época de negociación, el tribunal arbitral de segunda instancia deberá estar integrado por las mismas personas.
+e) La resolución deberá dictarse por el Inspector del Trabajo dentro del plazo de cinco días de concluida la audiencia. Si las impugnaciones o reclamaciones involucran a más de mil trabajadores, serán resueltas por el Director del Trabajo.
 
-El recurso de apelación deberá interponerse ante el propio tribunal apelado, dentro del plazo de cinco días hábiles contados desde la notificación del fallo arbitral, para ante el tribunal de apelación respectivo; será fundado y deberá contener las peticiones concretas que se sometan al fallo de dicho tribunal.
+f) En contra de esta resolución sólo procederá el recurso de reposición que deberá ser interpuesto dentro de tercero día. La resolución que resuelva el recurso de reposición deberá dictarse en el plazo de tres días y será reclamable judicialmente dentro del plazo de cinco días, a través del procedimiento establecido en el artículo 504 de este Código.
 
-Deducido el recurso de apelación, el tribunal de primera instancia hará llegar los autos respectivos a la Inspección del Trabajo correspondiente, con el objeto de proceder a la designación de los integrantes del tribunal de apelaciones.
+g) La interposición de las impugnaciones o reclamaciones no suspenderá el curso de la negociación colectiva.
 
-La Corte Arbitral o el tribunal de segunda instancia funcionará con asistencia de la mayoría de sus miembros, bajo la presidencia de quien hubiere sido designado por mayoría de votos, o a falta de la misma, por sorteo.
+## Capítulo V
 
-Las disposiciones de los artículos 361, 362 y 363 se aplicarán a la Corte Arbitral en lo que fueren pertinentes.
+PERÍODO DE NEGOCIACIÓN
 
-#### Artículo 365
+#### Artículo 341
 
-La Corte Arbitral deberá emitir su fallo dentro de los treinta días siguientes al de notificación de su designación.
+Período de negociación. A partir de la respuesta del empleador, las partes se reunirán el número de veces que estimen conveniente con el objeto de obtener directamente un acuerdo, sin sujeción a ningún tipo de formalidades.
 
-El acuerdo que al efecto deba adoptar el tribunal respectivo se regirá por las disposiciones contenidas en los artículos 83 a 86 del Código Orgánico de Tribunales.
+Las partes podrán negociar todas las materias comprendidas en el proyecto y la respuesta, como aquellas que de común acuerdo definan, incluyendo modificaciones al piso de la negociación.
 
-Si para llegar a dicho acuerdo fuere necesario el concurso de otros árbitros laborales, en conformidad a las normas a que se refiere el inciso precedente, su integración al tribunal arbitral respectivo se hará llamando en cada oportunidad al que corresponda por orden alfabético.
+Igualmente podrán convenir rebajar el piso de la negociación a que se refiere el artículo 336, cuando las condiciones económicas de la empresa así lo justifiquen.
 
-Las costas de la apelación serán de cargo de la parte vencida.
+#### Artículo 342
 
-#### Artículo 366
+Derecho a la suscripción del piso de la negociación. Durante todo el período de negociación, e incluso después de votada y hecha efectiva la huelga, la comisión negociadora sindical podrá poner término al proceso de negociación comunicándole al empleador, por escrito, su decisión de suscribir un contrato colectivo sujeto a las estipulaciones del piso de la negociación.
 
-En los casos en que proceda arbitraje obligatorio, si éste afecta a tres mil o más trabajadores el tribunal arbitral de primera instancia estará integrado por tres árbitros laborales. Dos de ellos serán elegidos de la nómina de árbitros laborales, y el tercero será designado discrecionalmente por el Ministerio de Hacienda. Sus fallos serán apelables para ante un tribunal de cinco miembros, tres de los cuales serán elegidos de entre la nómina de árbitros laborales, uno será designado por dicho Ministerio y otro por la Corte Suprema, en ambos casos discrecionalmente.
+El empleador no podrá negarse a esta exigencia, salvo en el caso a que se refiere el inciso final del artículo anterior. El contrato que se celebre conforme a las disposiciones de este artículo tendrá una duración de dieciocho meses y se entenderá suscrito desde la fecha en que la comisión negociadora sindical comunique su decisión al empleador.
 
-Para la designación de los árbitros laborales de primera instancia, se aplicará lo dispuesto en el artículo 359 y si se tratare del tribunal de segunda instancia, dichos árbitros laborales se designarán por sorteo.
+#### Artículo 343
 
-#### Artículo 367
+Derecho a solicitar reunión de asistencia técnica. En las micro y pequeñas empresas, cualquiera de las partes podrá solicitar a la Dirección del Trabajo que las convoque a la reunión de asistencia técnica para llevar a cabo el proceso de negociación colectiva. La misma regla se aplicará a las empresas medianas cuando negocien por primera vez.
 
-Será aplicable a los fallos arbitrales lo establecido en los artículos 345, 346 y 349.
+En esta oportunidad la Dirección del Trabajo informará a las partes sobre el procedimiento, los plazos, los derechos y las obligaciones derivados de la negociación. La asistencia a esta reunión será obligatoria para ambas partes.
 
-Sin perjuicio de lo dispuesto en el inciso cuarto del artículo 347, el fallo tendrá vigencia a contar de la suscripción del compromiso.
+#### Artículo 344
 
-#### Artículo 368
+Mediación voluntaria. Una vez vencido el plazo de respuesta del empleador, y durante todo el proceso de negociación colectiva, las partes podrán solicitar, de común acuerdo, la mediación de la Dirección del Trabajo.
 
-En cualquier estado del proceso arbitral, las partes podrán poner fin a la negociación y celebrar el respectivo contrato colectivo, sin perjuicio de pagar las costas ocasionadas por el arbitraje, de acuerdo al inciso segundo del artículo 400.
+## Capítulo VI
 
-## Título VI
+DERECHO A HUELGA
 
-DE LA HUELGA Y DEL CIERRE TEMPORAL DE LA EMPRESA
+#### Artículo 345
 
-#### Artículo 369
+Derecho a huelga. La huelga es un derecho que debe ser ejercido colectivamente por los trabajadores.
 
-Si llegada la fecha de término del contrato, o transcurridos más de cuarenta y cinco días desde la presentación del respectivo proyecto si la negociación se ajusta al procedimiento del Capítulo I del Título II, o más de sesenta si la negociación se ajusta al procedimiento del Capítulo II del Título II, las partes aún no hubieren logrado un acuerdo, podrán prorrogar la vigencia del contrato anterior y continuar las negociaciones.
+Se prohíbe el reemplazo de los trabajadores en huelga.
 
-La comisión negociadora podrá exigir al empleador, en cualquier oportunidad, durante el proceso de negociación, la suscripción de un nuevo contrato colectivo con iguales estipulaciones a las contenidas en los respectivos contratos vigentes al momento de presentarse el proyecto. El empleador no podrá negarse a esta exigencia y el contrato deberá celebrarse por el plazo de dieciocho meses.
+La huelga no afectará la libertad de trabajo de los trabajadores no involucrados en ella, ni la ejecución de las funciones convenidas en sus contratos de trabajo.
 
-Con todo, no se incluirán en el nuevo contrato las estipulaciones relativas a reajustabilidad tanto de las remuneraciones como de los demás beneficios pactados en dinero.
+La infracción de la prohibición señalada en el inciso segundo constituye una práctica desleal grave, la que habilitará a la Inspección del Trabajo para requerir el retiro inmediato de los trabajadores reemplazantes.
 
-Para todos los efectos legales, el contrato se entenderá suscrito en la fecha en que la comisión negociadora comunique, por escrito, su decisión al empleador.
+En el caso de negativa del empleador para retirar a los reemplazantes, la Inspección del Trabajo deberá denunciar al empleador al Juzgado de Letras del Trabajo conforme a las normas establecidas en los artículos 485 y siguientes, con excepción de lo dispuesto en el inciso sexto del artículo 486. El sindicato podrá iniciar esta acción o hacerse parte de la denuncia presentada por la Inspección del Trabajo. El Tribunal, revisados los antecedentes de la denuncia, ordenará al empleador el retiro inmediato de los reemplazantes en la primera resolución, bajo el apercibimiento señalado en el artículo 492.
 
-#### Artículo 370
+#### Artículo 346
 
-Los trabajadores deberán resolver si aceptan la última oferta del empleador o si declaran la huelga, cuando concurran los siguientes requisitos:
+Última oferta del empleador. El empleador, con a lo menos dos días de anticipación al inicio del período en que se puede hacer efectiva la votación de la huelga, podrá presentar a la comisión negociadora sindical una propuesta formal de contrato colectivo denominada "última oferta". Esta propuesta deberá estar contenida en un documento suscrito por la comisión negociadora de la empresa. En la micro y pequeña empresa bastará que la última oferta sea firmada por uno de los miembros de la comisión negociadora de la empresa.
 
-a) Que la negociación no esté sujeta a arbitraje obligatorio;
+A falta de última oferta, aquella estará constituida por la propuesta formal más próxima al vencimiento del plazo señalado en el inciso anterior. De no existir propuestas formales, se tendrá por última oferta la respuesta del empleador.
 
-b) Que el día de la votación esté comprendido dentro de los cinco últimos días de vigencia del contrato colectivo o del fallo anterior, o en el caso de no existir éstos, dentro de los cinco últimos días de un total de cuarenta y cinco o sesenta días contados desde la presentación del proyecto, según si la negociación se ajusta al procedimiento señalado en el Capítulo I o II del Título II, respectivamente, y
+La última oferta podrá ser informada por el empleador por escrito a todos los trabajadores involucrados en la negociación a través de mecanismos generales de comunicación.
 
-c) Que las partes no hubieren convenido en someter el asunto a arbitraje.
+#### Artículo 347
 
-Para estos efectos, la comisión negociadora deberá convocar a una votación a lo menos con cinco días de anticipación.
+Art. 347.- Convocatoria a la votación de la huelga. La comisión negociadora sindical deberá convocar a la votación de la huelga con a lo menos cinco días de anticipación a la fecha en que esta deba realizarse.
 
-Si la votación no se efectuare en la oportunidad en que corresponda, se entenderá que los trabajadores aceptan la última proposición del empleador. Lo anterior es sin perjuicio de lo dispuesto en el inciso segundo del artículo 369, facultad que deberá ejercerse dentro del plazo de cinco días contados desde el último día en que debió procederse a la votación.
+Cuando la votación no se hubiere llevado a efecto por causas ajenas al sindicato, este tendrá un plazo de cinco días adicionales para proceder a ella.
 
-Cuando la votación no se hubiere llevado a efecto por causas ajenas a los trabajadores éstos tendrán un plazo de cinco días para proceder a ella.
+#### Artículo 348
 
-Para los efectos de este Libro se entiende por última oferta u oferta vigente del empleador, la última que conste por escrito de haber sido recibida por la comisión negociadora y cuya copia se encuentre en poder de la Inspección del Trabajo respectiva.
+Oportunidad de votación de la huelga. Si existe instrumento colectivo vigente, la huelga deberá ser votada dentro de los últimos cinco días de vigencia del instrumento.
 
-#### Artículo 371
+En el caso de no existir instrumento colectivo vigente, la huelga deberá ser votada dentro de los últimos cinco días de un total de cuarenta y cinco contados desde la fecha de presentación del proyecto de contrato colectivo.
 
-En las negociaciones colectivas a que se refiere el Capítulo II del Título II de este Libro, los trabajadores de cada empresa involucrados en la negociación deberán pronunciarse por aceptar la última oferta del empleador que le fuere aplicable o declarar la huelga, la que de aprobarse y hacerse efectiva sólo afectará a los trabajadores involucrados en la negociación en dicha empresa.
+Las partes de común acuerdo podrán ampliar el plazo de la negociación y postergar la oportunidad para la votación de la huelga. En este caso, si existiere contrato colectivo se entenderá prorrogada su vigencia por el tiempo que las partes determinen. Este acuerdo deberá constar por escrito, suscribirse por las comisiones negociadoras de ambas partes y remitirse copia a la Inspección del Trabajo.
 
-#### Artículo 372
+#### Artículo 349
 
-La votación deberá efectuarse en forma personal, secreta y en presencia de un ministro de fe.
+Medios para votación de la huelga. El empleador deberá facilitar que la votación de la huelga se realice con normalidad, otorgando los permisos necesarios para que los trabajadores puedan concurrir al acto de votación. El acto de votación podrá realizarse en la sede sindical, según lo dispuesto en el artículo 255.
 
-Tendrán derecho a participar en la votación todos los trabajadores de la empresa respectiva involucrados en la negociación.
+La comisión negociadora sindical deberá organizar el proceso de votación evitando alteraciones en el normal funcionamiento de la empresa.
 
-El empleador deberá informar a todos los trabajadores interesados su última oferta y acompañar una copia de ella a la Inspección del Trabajo, con una anticipación de a lo menos dos días al plazo de cinco días indicado en la letra b) del artículo 370. Para este efecto, entregará un ejemplar a cada trabajador o exhibirá dicha proposición en lugares visibles de la empresa. Todos los gastos correspondientes a esta información serán de cargo del empleador.
+El día que se lleve a efecto la votación de la huelga el sindicato podrá realizar asambleas.
 
-No será necesario enviar un ejemplar de la última oferta del empleador a la Inspección del Trabajo, si fuere coincidente con la respuesta dada al proyecto de contrato colectivo.
+#### Artículo 350
 
-Los votos serán impresos y deberán emitirse con la expresión "última oferta del empleador", o con la expresión "huelga", según sea la decisión de cada trabajador.
+Votación de la huelga. La votación de la huelga se realizará en forma personal, secreta y ante un ministro de fe. Los votos serán impresos y deberán emitirse con las expresiones "última oferta del empleador" o "huelga".
 
-El día que corresponda proceder a la votación a que se refiere este artículo no podrá realizarse asamblea alguna en la empresa involucrada en la votación.
+La última oferta o la huelga deberán ser acordadas por la mayoría absoluta de los trabajadores representados por el sindicato. Del quórum de votación se descontarán aquellos trabajadores que no se encuentren actualmente prestando servicios en la empresa por licencia médica, feriado legal o aquellos que, por requerimientos de la empresa, se encuentren fuera del lugar habitual donde prestan servicios.
 
-#### Artículo 373
+De aprobarse la huelga, esta se hará efectiva a partir del inicio de la respectiva jornada el quinto día siguiente a su aprobación.
 
-La huelga deberá ser acordada por la mayoría absoluta de los trabajadores de la respectiva empresa involucrados en la negociación. Si no obtuvieren dicho quórum se entenderá que los trabajadores aceptan la última oferta del empleador.
+#### Artículo 351
 
-Lo anterior se entiende sin perjuicio de lo dispuesto en el inciso segundo del artículo 369, facultad que deberá ejercerse dentro del plazo de tres días contados desde el día en que se efectuó la votación.
-
-#### Artículo 374
-
-Acordada la huelga, ésta deberá hacerse efectiva al inicio de la respectiva jornada del tercer día siguiente a la fecha de su aprobación. Este plazo podrá prorrogarse, por acuerdo entre las partes, por otros diez días.
-
-Si la huelga no se hiciere efectiva en la oportunidad indicada, se entenderá que los trabajadores de la empresa respectiva han desistido de ella y, en consecuencia, que aceptan la última oferta del empleador. Lo anterior se entiende sin perjuicio de lo dispuesto en el inciso segundo del artículo 369, facultad esta última que deberá ejercerse dentro del plazo de cinco días contados desde la fecha en que debió hacerse efectiva la huelga.
-
-Se entenderá que no se ha hecho efectiva la huelga en la empresa si más de la mitad de los trabajadores de ésta, involucrados en la negociación, continuaren laborando en ella.
-
-Para los efectos de lo dispuesto en este artículo, en aquellas empresas en que el trabajo se realiza mediante el sistema de turnos, el quórum necesario para hacer efectiva la huelga se calculará sobre la totalidad de los trabajadores involucrados en la negociación y cuyos turnos se inicien al tercer día siguiente al de la aprobación de la huelga.
-
-#### Artículo 374 bis
-
-Dentro de las cuarenta y ocho horas siguientes de acordada la huelga, sin que se haya recurrido a mediación o arbitraje voluntario, cualquiera de las partes podrá solicitar al Inspector del Trabajo competente la interposición de sus buenos oficios, para facilitar el acuerdo entre ellas.
+Mediación obligatoria. Dentro de los cuatro días siguientes de acordada la huelga, cualquiera de las partes podrá solicitar la mediación obligatoria del Inspector del Trabajo competente, para facilitar el acuerdo entre ellas.
 
 En el desempeño de su cometido, el Inspector del Trabajo podrá citar a las partes, en forma conjunta o separada, cuantas veces estime necesario, con el objeto de acercar posiciones y facilitar el establecimiento de bases de acuerdo para la suscripción del contrato colectivo.
 
-Transcurridos cinco días hábiles desde que fuere solicitada su intervención, sin que las partes hubieren llegado a un acuerdo, el Inspector del Trabajo dará por terminada su labor, debiendo hacerse efectiva la huelga al inicio del día siguiente hábil. Sin perjuicio de lo anterior, las partes podrán acordar que el Inspector del Trabajo continúe desarrollando su gestión por un lapso de hasta cinco días, prorrogándose por ese hecho la fecha en que la huelga deba hacerse efectiva.
+Transcurridos cinco días hábiles desde que fuere solicitada su intervención sin que las partes hubieren llegado a un acuerdo, el Inspector del Trabajo dará por terminada su labor, debiendo hacerse efectiva la huelga al inicio del día siguiente hábil. Sin perjuicio de lo anterior, las partes podrán acordar que el
+
+Inspector del Trabajo continúe desarrollando su gestión por un lapso de hasta cinco días, prorrogándose por ese hecho la fecha en que la huelga deba hacerse efectiva.
 
 De las audiencias que se realicen ante el Inspector del Trabajo deberá levantarse acta firmada por los comparecientes y el funcionario referido.
 
+#### Artículo 352
+
+Votación que no alcanza los quórum necesarios. En los casos en que no se alcancen los quórum de votación necesarios para que la asamblea acuerde la huelga, el sindicato tendrá la facultad de impetrar la suscripción de un contrato colectivo con las estipulaciones establecidas en el piso de la negociación, conforme al artículo 342, facultad que deberá ejercerse dentro del plazo de tres días contado desde la votación.
+
+En caso de no ejercer la facultad señalada en el inciso anterior, se entenderá que el sindicato ha optado por aceptar la última oferta del empleador.
+
+#### Artículo 353
+
+El cierre temporal de la empresa o lock-out. Acordada la huelga y una vez que esta se hubiere hecho efectiva, el empleador podrá declarar el lock-out o cierre temporal de la empresa, el que podrá ser total o parcial.
+
+Se entenderá por cierre temporal de la empresa el derecho del empleador, iniciada la huelga, a impedir temporalmente el acceso a todos los trabajadores a la empresa, predio o establecimiento.
+
+El cierre temporal es total cuando afecta a todos los trabajadores de la empresa o predio, y es parcial cuando afecta a todos los trabajadores de uno o más establecimientos de una empresa. Para declarar el cierre temporal parcial será necesario que en el establecimiento respectivo haya trabajadores involucrados en el proceso de negociación que lo origine.
+
+Los establecimientos no afectados por el cierre temporal parcial continuarán funcionando normalmente.
+
+En todo caso, el cierre temporal no afectará a los trabajadores a que se refiere el inciso primero del artículo 305.
+
+El cierre temporal no podrá extenderse más allá de los treinta días contados de la fecha en que se hizo efectiva la huelga o del día de su término, cualquiera sea el hecho que ocurra primero.
+
+#### Artículo 354
+
+Declaración de cierre temporal o lock-out. El cierre temporal, sea total o parcial, sólo podrá ser declarado por el empleador si la huelga afectare a más del 50% del total de trabajadores de la empresa o del establecimiento en su caso, o significare la paralización de actividades imprescindibles para su funcionamiento, cualquiera fuere en este caso el porcentaje de trabajadores en huelga.
+
+En caso de reclamo, la calificación de las circunstancias de hecho señaladas en el inciso anterior la efectuará la Inspección del Trabajo, dentro de los tres días siguientes de formulada la reclamación. La resolución de la Inspección del Trabajo será reclamable judicialmente en los términos del artículo 504.
+
+#### Artículo 355
+
+Suspensión del contrato de trabajo y efectos de la huelga y del cierre temporal. Durante la huelga o el cierre temporal, se entenderá suspendido el contrato de trabajo respecto de los trabajadores que se encuentren involucrados en ella o a quienes afecte el cierre temporal. En consecuencia, los trabajadores no estarán obligados a prestar sus servicios, ni el empleador al pago de las remuneraciones, beneficios y regalías derivadas de dicho contrato.
+
+En el caso del inciso anterior, los trabajadores podrán efectuar trabajos temporales, fuera de la empresa, sin que ello signifique el término del contrato de trabajo con el empleador.
+
+Durante la huelga, los trabajadores involucrados en la negociación podrán pagar voluntariamente las cotizaciones previsionales o de seguridad social en los organismos respectivos. Sin embargo, en el caso del cierre temporal, el empleador deberá pagar las cotizaciones previsionales o de seguridad social de aquellos trabajadores afectados por esta medida y que no se encuentren en huelga.
+
+Asimismo, durante la huelga el recinto o local de la empresa no constituirá sede sindical.
+
+#### Artículo 356
+
+Nueva oferta del empleador y su votación. Iniciada la huelga, la comisión negociadora de empresa podrá presentar una nueva oferta, con las mismas formalidades y publicidad del artículo 346, la que deberá ser votada por los trabajadores involucrados en la negociación, en votación secreta y ante un ministro de fe dentro de los cinco días siguientes a la presentación de la nueva oferta. En este caso, los trabajadores deberán pronunciarse sobre la mantención de la huelga o la aceptación de la nueva oferta del empleador. La aceptación de la nueva oferta deberá ser aprobada por la mayoría absoluta de los trabajadores involucrados en la negociación.
+
+En el caso de la micro y pequeña empresa, la votación a que se refiere el inciso anterior se realizará dentro de los dos días siguientes de presentada la nueva oferta.
+
+Si la nueva oferta a que se refiere el inciso primero es rechazada, el empleador podrá presentar otra transcurridos cinco días desde su votación, la que deberá ser sometida a votación en los términos y plazos previstos en los incisos anteriores, en la medida que cumpla con las formalidades y publicidad previstas en el artículo 346. Este derecho podrá ejercerse en forma sucesiva hasta la aprobación de una nueva oferta.
+
+Para el cómputo de los quórum de que trata este artículo se aplicará lo dispuesto en el inciso segundo del artículo 350.
+
+#### Artículo 357
+
+Derecho a reincorporación individual del trabajador. Estará prohibido al empleador ofrecer o aceptar la reincorporación individual de los trabajadores en huelga, salvo en las condiciones establecidas en este artículo.
+
+En la gran y mediana empresa, los trabajadores involucrados en la negociación podrán ejercer el derecho a reincorporarse individualmente a sus funciones a partir del decimosexto día de iniciada la huelga, siempre que la última oferta formulada en la forma y con la anticipación señalada en el artículo 346 contemple, a lo menos, lo siguiente:
+
+a) Idénticas estipulaciones que las contenidas en el contrato, convenio o fallo arbitral vigente, reajustadas en el porcentaje de variación del Índice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas o el que haga sus veces, habido en el período comprendido entre la fecha del último reajuste y la fecha de término de vigencia del respectivo instrumento.
+
+b) Una reajustabilidad mínima anual según la variación del Índice de Precios al Consumidor para el período del contrato, a partir de la suscripción del mismo.
+
+En la micro y pequeña empresa, si la última oferta cumple las condiciones señaladas en el inciso anterior, los trabajadores involucrados en la negociación podrán ejercer el derecho a reincorporarse individualmente a sus funciones a partir del sexto día de iniciada la huelga.
+
+Si el empleador no hace una oferta de las características y en la oportunidad señalada en los incisos anteriores, los trabajadores de la gran y mediana empresa involucrados en la negociación podrán ejercer el derecho a reincorporarse individualmente a partir del trigésimo día de iniciada la huelga. En la micro y pequeña empresa, este derecho podrá ejercerse a partir del día décimo sexto.
+
+Los trabajadores que opten por reincorporarse individualmente de acuerdo a lo señalado en este artículo, lo harán en las condiciones contendidas en la última oferta del empleador y a partir de ese momento no les será aplicable lo dispuesto en el inciso final del artículo 323.
+
+El ejercicio del derecho a reincorporación individual no afectará la huelga de los demás trabajadores.
+
+#### Artículo 358
+
+De la reanudación de las negociaciones, de la suspensión y del término de la huelga. Durante la huelga las partes podrán reanudar las negociaciones las veces que estimen conveniente, sin sujeción a ninguna restricción o regla especial.
+
+Las partes podrán acordar la suspensión temporal de la huelga por el plazo que estimen pertinente. El acuerdo deberá ser suscrito por las comisiones negociadoras y depositado en la Inspección del Trabajo. En este caso, también se entenderá suspendido el cierre temporal de la empresa.
+
+La suscripción del contrato colectivo hará cesar de pleno derecho los efectos de la huelga.
+
+## Capítulo VII
+
+LIMITACIONES AL EJERCICIO DEL DERECHO A HUELGA
+
+#### Artículo 359
+
+Servicios mínimos y equipos de emergencia. Sin afectar el derecho a huelga en su esencia, durante esta la comisión negociadora sindical estará obligada a proveer el personal destinado a atender los servicios mínimos estrictamente necesarios para proteger los bienes corporales e instalaciones de la empresa y prevenir accidentes, así como garantizar la prestación de servicios de utilidad pública, la atención de necesidades básicas de la población, incluidas las relacionadas con la vida, la seguridad o la salud de las personas, y para garantizar la prevención de daños ambientales o sanitarios. En esta determinación se deberán considerar los requerimientos vinculados con el tamaño y características de la empresa, establecimiento o faena.
+
+El personal destinado por el sindicato a atender los servicios mínimos se conformará con trabajadores involucrados en el proceso de negociación y recibirá el nombre de equipo de emergencia. Sus integrantes deberán percibir remuneraciones por el tiempo trabajado.
+
+Los servicios mínimos deberán proveerse durante el tiempo que sea necesario y para los fines que fueron determinados.
+
+En el caso que el sindicato no provea el equipo de emergencia, la empresa podrá adoptar las medidas necesarias para atender los servicios mínimos, incluyendo la contratación de estos servicios, debiendo informar de ello inmediatamente a la Inspección del Trabajo, con el objeto que constate este incumplimiento. Las medidas adoptadas por el empleador no podrán involucrar a un número superior de trabajadores del equipo de emergencia que no hayan sido proveídos por el sindicato, salvo que la Inspección del Trabajo autorice fundadamente un número distinto.
+
+#### Artículo 360
+
+Calificación de los servicios mínimos y de los equipos de emergencia. Los servicios mínimos y los equipos de emergencia deberán ser calificados antes del inicio de la negociación colectiva.
+
+La calificación deberá identificar los servicios mínimos de la empresa, así como el número y las competencias profesionales o técnicas de los trabajadores que deberán conformar los equipos de emergencia.
+
+El empleador deberá proponer por escrito a todos los sindicatos existentes en la empresa, con una anticipación de, a lo menos, ciento ochenta días al vencimiento del instrumento colectivo vigente, su propuesta de calificación de servicios mínimos y equipos de emergencia para la empresa, remitiendo copia de la propuesta a la Inspección del Trabajo. En el caso de haber más de un instrumento colectivo vigente en la empresa, los referidos ciento ochenta días se considerarán respecto del instrumento colectivo más próximo a vencer.
+
+En caso que no exista sindicato en la empresa, el empleador deberá formular su propuesta dentro de los quince días siguientes a la comunicación de la constitución del sindicato efectuada de conformidad al artículo 225 de este Código, plazo durante el cual no se podrá iniciar la negociación colectiva. Habiéndose formulado el requerimiento por parte del empleador, tampoco se podrá iniciar la negociación colectiva en tanto no estén calificados los servicios mínimos y equipos de emergencia.
+
+Recibida la propuesta del empleador, los sindicatos tendrán un plazo de quince días para responder, en forma conjunta o separada.
+
+Las partes tendrán un plazo de treinta días desde formulada la propuesta para alcanzar un acuerdo.
+
+En caso de acuerdo, se levantará un acta que consigne los servicios mínimos y los equipos de emergencia concordados, la que deberá ser suscrita por el empleador y por todos los sindicatos que concurrieron a la calificación. Copia del acta deberá depositarse en la Inspección del Trabajo dentro de los cinco días siguientes a su suscripción.
+
+Si las partes no logran acuerdo o este no involucra a todos los sindicatos, cualquiera de ellas podrá requerir la intervención de la Dirección Regional del Trabajo, dentro de los cinco días siguientes.
+
+En caso que la empresa tenga establecimientos o faenas en dos o más regiones del país, el requerimiento deberá formularse ante la Dirección Regional del Trabajo del domicilio del requirente. En caso que haya sido requerida la intervención de dos o más Direcciones Regionales, la Dirección Nacional del Trabajo determinará cuál de ellas resolverá todos los requerimientos.
+
+Recibido el requerimiento, la Dirección Regional del Trabajo deberá oír a las partes y solicitar un informe técnico al organismo regulador o fiscalizador que corresponda. Cualquiera de las partes podrá acompañar informes técnicos de organismos públicos o privados. Asimismo, a requerimiento de parte o de oficio, la Dirección Regional del Trabajo podrá realizar visitas inspectivas.
+
+La resolución que emita la Dirección Regional del Trabajo calificando los servicios mínimos y los equipos de emergencia de la empresa deberá ser fundada y emitida dentro de los cuarenta y cinco días siguientes al requerimiento. Esta resolución deberá ser notificada a las partes dentro de los cinco días siguientes a su emisión y sólo será reclamable ante el Director Nacional del Trabajo.
+
+La Dirección del Trabajo, en el mes de abril de cada año, publicará los estándares técnicos de carácter general que han servido de base para la calificación de los servicios mínimos y los equipos de emergencia.
+
+Por circunstancias sobrevinientes, la calificación podrá ser revisada si cambian las condiciones que motivaron su determinación, de acuerdo al procedimiento previsto en los incisos anteriores. La solicitud de revisión deberá ser siempre fundada por el requirente.
+
+#### Artículo 361
+
+Conformación de los equipos de emergencia. El empleador, en su respuesta al proyecto de contrato colectivo, deberá proponer a la comisión negociadora sindical los trabajadores afiliados al sindicato que conformarán los equipos de emergencia, cuando corresponda.
+
+La comisión negociadora sindical tendrá un plazo de cuarenta y ocho horas para responder la propuesta del empleador. Si no contesta dentro del plazo señalado, se entenderá aceptada esta propuesta.
+
+En caso de negativa expresa de la comisión negociadora sindical o discrepancia en el número o identidad de los trabajadores del sindicato respectivo que deben conformar los equipos de emergencia, el empleador deberá solicitar a la Inspección del Trabajo que se pronuncie dentro del plazo de cinco días contados desde la respuesta. La Inspección del Trabajo tendrá un plazo de diez días para resolver el requerimiento. La resolución será notificada al correo electrónico designado por las partes y en contra de ella sólo procederá el recurso de reposición.
+
+#### Artículo 362
+
+Determinación de las empresas en las que no se podrá ejercer el derecho a huelga. No podrán declarar la huelga los trabajadores que presten servicios en corporaciones o empresas, cualquiera sea su naturaleza, finalidad o función, que atiendan servicios de utilidad pública o cuya paralización cause grave daño a la salud, a la economía del país, al abastecimiento de la población o a la seguridad nacional.
+
+La calificación de encontrarse la empresa en alguna de las situaciones señaladas en este artículo será efectuada cada dos años, dentro del mes de julio, por resolución conjunta de los Ministros del Trabajo y Previsión Social, Defensa Nacional y Economía, Fomento y Turismo, previa solicitud fundada de parte, la que deberá presentarse hasta el 31 de mayo del año respectivo.
+
+Promovida la solicitud, se pondrá en conocimiento de la contraparte empleadora o trabajadora para que formule las observaciones que estime pertinentes, dentro del plazo de quince días.
+
+Efectuada la calificación de una empresa e incorporada en la resolución conjunta respectiva, sólo por causa sobreviniente y a solicitud de parte, se podrá revisar su permanencia.
+
+La resolución deberá publicarse en el Diario Oficial y podrá ser reclamada ante la Corte de Apelaciones de acuerdo a las reglas establecidas en el artículo 402.
+
+#### Artículo 363
+
+Reanudación de faenas. En caso de producirse una huelga o el cierre temporal de la empresa, que por sus características, oportunidad o duración causare grave daño a la salud, al medio ambiente, al abastecimiento de bienes o servicios de la población, a la economía del país o a la seguridad nacional, el Tribunal de Letras del Trabajo respectivo podrá decretar la reanudación de faenas, previa solicitud de parte.
+
+La solicitud se tramitará a través del procedimiento monitorio de los artículos 496 y siguientes, con excepción de lo señalado en el
+
+inciso primero del artículo 497. Podrán ejercer la acción de que trata este artículo tanto la o las empresas, como la Dirección del Trabajo o el o los sindicatos, según corresponda.
+
+La reanudación de faenas se hará en las mismas condiciones vigentes en el momento de presentar el proyecto de contrato colectivo.
+
+Una vez que esté ejecutoriada, la sentencia definitiva deberá notificarse a la Dirección del Trabajo para los efectos de lo dispuesto en el artículo 387.
+
+## Título V
+
+REGLAS ESPECIALES PARA LA NEGOCIACIÓN COLECTIVA DE LOS TRABAJADORES AFILIADOS A SINDICATOS INTEREMPRESA, Y DE LA NEGOCIACIÓN COLECTIVA DE LOS TRABAJADORES EVENTUALES, DE TEMPORADA Y DE OBRA O FAENA TRANSITORIA
+
+## Capítulo I
+
+DE LA NEGOCIACIÓN COLECTIVA DEL SINDICATO INTEREMPRESA Y DE LOS TRABAJADORES AFILIADOS A SINDICATOS INTEREMPRESA
+
+#### Artículo 364
+
+Negociación colectiva de los trabajadores afiliados a un sindicato interempresa. Los trabajadores afiliados a un sindicato interempresa podrán negociar con su empleador conforme al procedimiento de la negociación colectiva reglada del Título IV de este Libro, con las modificaciones señaladas en este artículo.
+
+Para los efectos de la negociación colectiva, los sindicatos interempresa deberán agrupar a trabajadores que se desempeñen en empresas del mismo rubro o actividad económica. Asimismo, para negociar colectivamente en una empresa, el sindicato interempresa deberá contar con un total de afiliados no inferior a los quórum señalados en el artículo 227, respecto de los trabajadores que represente en esa empresa.
+
+El sindicato interempresa podrá negociar conforme a lo dispuesto en el artículo 314.
+
+En la micro y pequeña empresa será voluntario o facultativo negociar con el sindicato interempresa. Si el empleador acepta la negociación, deberá responder el proyecto de contrato colectivo dentro del plazo de diez días de presentado. Si la rechaza, deberá manifestarlo por escrito dentro del mismo plazo de diez días.
+
+En caso de negativa del empleador a negociar directamente con el sindicato interempresa, los trabajadores afiliados a él podrán presentar un proyecto de contrato colectivo e iniciar una negociación colectiva reglada con su empleador, entendiéndose para el solo efecto de este procedimiento que constituyen un sindicato de empresa, debiendo cumplir con el quórum señalado en el inciso segundo de este artículo.
+
+En la mediana y gran empresa, la negociación colectiva de los trabajadores afiliados a un sindicato interempresa se realizará a través del sindicato interempresa.
+
+La comisión negociadora sindical en la negociación colectiva reglada del sindicato interempresa estará integrada por los directores y los delegados sindicales que trabajen en la empresa en la que se negocia.
+
+Podrán participar de las negociaciones los asesores de ambas partes, de conformidad a lo dispuesto en el artículo 330 de este Código.
+
+## Capítulo II
+
+DE LA NEGOCIACIÓN COLECTIVA DE LOS TRABAJADORES EVENTUALES, DE TEMPORADA Y DE OBRA O FAENA TRANSITORIA
+
+#### Artículo 365
+
+Procedimiento especial de negociación. Los trabajadores eventuales, de temporada y de obra o faena transitoria, sólo podrán negociar colectivamente conforme a lo dispuesto en el artículo 314 o a las disposiciones previstas en este Capítulo.
+
+Las empresas estarán obligadas a negociar conforme al procedimiento regulado en este Capítulo sólo en el caso que la obra o faena transitoria tenga una duración superior a doce meses. Con todo, los trabajadores sujetos a esta negociación no gozarán de las prerrogativas de los artículos 309 y 345.
+
+#### Artículo 366
+
+Inicio de la negociación y contenido del proyecto. La negociación deberá iniciarse con la presentación de un proyecto de convenio colectivo con las condiciones comunes de trabajo y remuneraciones para un período de tiempo, temporada u obra o faena transitoria determinada.
+
+El proyecto de convenio colectivo deberá contener, a lo menos, las siguientes menciones:
+
+1. La identificación de la organización que presenta el proyecto y la individualización de los miembros de la comisión negociadora sindical de conformidad a las reglas del artículo 330, con indicación de un domicilio y correo electrónico.
+
+2. Las cláusulas que se proponen a la empresa.
+
+3. El ámbito de la negociación.
+
+4. La determinación de la obra o faena o período de tiempo comprendido en la negociación.
+
+#### Artículo 367
+
+Oportunidad, formalidades y comunicación del proyecto. El sindicato podrá presentar el proyecto de convenio colectivo a una o más empresas, una vez iniciada la obra o faena transitoria.
+
+Copia del proyecto de convenio colectivo firmada por un representante de la o las empresas, para acreditar que ha sido recibido, deberá entregarse a la Inspección del Trabajo respectiva, dentro de los cinco días siguientes a su presentación.
+
+Si el representante de la empresa se negare a firmar dicha copia, la organización sindical podrá requerir a la Inspección del Trabajo, dentro de los tres días siguientes al vencimiento del plazo señalado en el inciso anterior, para que le notifique el proyecto de convenio.
+
+#### Artículo 368
+
+Respuesta del empleador. La empresa deberá dar respuesta al proyecto de convenio colectivo dentro del plazo de cinco días contado desde la presentación del mismo, enviándola a la comisión negociadora sindical, con copia a la Inspección del Trabajo. En la respuesta deberá consignar la individualización de la empresa, la comisión negociadora y una dirección de correo electrónico para las comunicaciones que deban producirse durante la negociación. Deberá también señalar las cláusulas que se proponen celebrar, pudiendo incluir entre ellas los pactos sobre condiciones especiales de trabajo a los que se refiere el artículo 372.
+
+En el caso que el proyecto de convenio colectivo se presente a dos o más empresas, cada una de ellas deberá decidir si negocia en forma conjunta o separada, y comunicará su decisión a la comisión negociadora sindical en su respuesta al proyecto de convenio colectivo.
+
+#### Artículo 369
+
+Reuniones durante la negociación. Durante la negociación y con el objeto de lograr un acuerdo, las partes se reunirán el número de veces que estimen necesario. Las partes podrán asistir a estas reuniones con sus asesores.
+
+#### Artículo 370
+
+Mediación. Cualquiera de las partes podrá solicitar la mediación de la Inspección del Trabajo, la que estará dotada de amplias facultades para instarlas a lograr un acuerdo. La asistencia de las partes a las audiencias de mediación será obligatoria.
+
+Este procedimiento de mediación durará cinco días hábiles, prorrogable por mutuo acuerdo de las partes por el plazo que estimen pertinente.
+
+#### Artículo 371
+
+Relación del convenio colectivo con el contrato individual y registro del instrumento. Las estipulaciones de los convenios colectivos celebrados en virtud de las normas de este Capítulo se tendrán como parte integrante de los contratos individuales de los trabajadores afiliados a la o las organizaciones sindicales que los hubieren negociado, incluidos aquellos que se afilien con posterioridad.
+
+Los convenios colectivos deberán ser registrados en la Inspección del Trabajo respectiva, dentro del plazo de cinco días contado desde su suscripción.
+
+#### Artículo 372
+
+Pactos sobre condiciones especiales de trabajo. Los convenios colectivos suscritos de acuerdo a las reglas precedentes podrán incluir pactos sobre condiciones especiales de trabajo de conformidad a lo dispuesto en el Título VI de este Libro.
+
+#### Artículo 373
+
+Convenio de provisión de puestos de trabajo. Los convenios de provisión de puestos de trabajo de que trata el artículo 142 podrán negociarse conforme a las reglas del presente Capítulo.
+
+Durante la vigencia de un convenio de provisión de puestos de trabajo, sus estipulaciones beneficiarán a todos los afiliados a la organización que los negocie, que sean expresamente considerados en la nómina del convenio. Las estipulaciones del convenio referidas al monto de la remuneración acordada para el respectivo turno se harán extensivas a los trabajadores no considerados en la nómina antes señalada cada vez que sean contratados por el empleador. A estos últimos trabajadores no se les extenderán los demás beneficios del convenio, ni la garantía de ofertas de trabajo de la letra a) del artículo 142, salvo que medie acuerdo expreso del empleador.
+
+En cuanto a su contenido, los convenios de provisión de puestos de trabajo quedarán enteramente sujetos a lo dispuesto en el artículo 142.
+
+## Título VI
+
+DE LOS PACTOS SOBRE CONDICIONES ESPECIALES DE TRABAJO
+
+#### Artículo 374
+
+Requisitos, procedimiento y ámbito de aplicación de los pactos sobre condiciones especiales de trabajo. En aquellas empresas que tengan una afiliación sindical igual o superior al 30% del total de sus trabajadores, la o las organizaciones sindicales, conjunta o separadamente, podrán acordar con el empleador los pactos sobre condiciones especiales de trabajo de que trata este Título.
+
+Estos pactos sólo podrán acordarse en forma directa y sin sujeción a las normas de la negociación colectiva reglada. Su aprobación por parte del sindicato se sujetará a las disposiciones que establezcan sus estatutos y si estos nada dicen, se aprobarán por mayoría absoluta, en asamblea convocada al efecto y ante un ministro de fe.
+
+La duración máxima de estos pactos será de tres años.
+
+Los pactos serán aplicables a los trabajadores representados por las organizaciones sindicales que los hayan celebrado, salvo que las partes excluyan
+
+expresamente de su aplicación a los trabajadores que lo hubieren solicitado.
+
+Para aplicar estos pactos a los trabajadores de la empresa sin afiliación sindical se requerirá de su consentimiento expreso, manifestado por escrito.
+
 #### Artículo 375
 
-Acordada la huelga y una vez que ésta se hubiere hecho efectiva, el empleador podrá declarar el lock-out o cierre temporal de la empresa, el que podrá ser total o parcial.
-
-Se entenderá por lock-out el derecho del empleador, iniciada la huelga, a impedir temporalmente el acceso a todos los trabajadores a la empresa o predio o al establecimiento.
-
-El lock-out es total si afecta a todos los trabajadores de la empresa o predio, y es parcial cuando afecta a todos los trabajadores de uno o más establecimientos de una empresa. Para declarar lock-out parcial será necesario que en el establecimiento respectivo haya trabajadores involucrados en el proceso de negociación que lo origine.
-
-Los establecimientos no afectados por el lock-out parcial continuarán funcionando normalmente.
-
-En todo caso, el lock-out no afectará a los trabajadores a que se refieren los números 2, 3 y 4 del artículo 305.
-
-El lock-out no podrá extenderse más allá del trigésimo día, a contar de la fecha en que se hizo efectiva la huelga o del día del término de la huelga, cualquiera ocurra primero.
+Pactos sobre distribución de jornada de trabajo semanal. Las partes podrán acordar que la jornada ordinaria semanal de trabajo se distribuya en cuatro días. En cualquier caso, la jornada no podrá exceder de doce horas diarias de trabajo efectivo, incluidas la jornada ordinaria, extraordinaria y los descansos. Si la jornada de trabajo supera las diez horas, deberá acordarse una hora de descanso imputable a ella.
 
 #### Artículo 376
 
-El lock-out, sea total o parcial, sólo podrá ser declarado por el empleador si la huelga afectare a más del cincuenta por ciento del total de trabajadores de la empresa o del establecimiento en su caso, o significare la paralización de actividades imprescindibles para su funcionamiento, cualquiera fuere en este caso el porcentaje de trabajadores en huelga.
+Pactos para trabajadores con responsabilidades familiares. Las organizaciones sindicales podrán celebrar con el empleador, pactos con el objeto que trabajadores con responsabilidades familiares puedan acceder a sistemas de jornada que combinen tiempos de trabajo presencial en la empresa y fuera de ella.
 
-En caso de reclamo, la calificación de las circunstancias de hecho señaladas en el inciso anterior la efectuará la Inspección del Trabajo, dentro de tercero día de formulada la reclamación, sin perjuicio de reclamarse judicialmente de lo resuelto conforme a lo dispuesto en el último inciso del artículo 380.
+Para acogerse a este pacto, el trabajador deberá solicitarlo por escrito al empleador quien deberá responder de igual forma en el plazo de treinta días. El empleador tendrá la facultad de aceptar o rechazar la solicitud.
+
+Aceptada la solicitud del trabajador, deberá suscribirse un anexo al contrato individual de trabajo que deberá contener las siguientes menciones:
+
+1. El lugar o lugares alternativos a la empresa en que el trabajador prestará los servicios, pudiendo ser el hogar del trabajador u otro lugar convenido con el empleador.
+
+2. Las adecuaciones a la jornada de trabajo, si fuere necesario.
+
+3. Los sistemas de control y gestión que utilizará el empleador respecto de los servicios convenidos con el trabajador.
+
+4. El tiempo de duración del acuerdo.
+
+El trabajador podrá unilateralmente volver a las condiciones originalmente pactadas en su contrato de trabajo, previo aviso por escrito al empleador con una anticipación mínima de treinta días.
+
+Estos pactos también podrán ser convenidos para aplicarse a trabajadores jóvenes que cursen estudios regulares, mujeres, personas con discapacidad u otras categorías de trabajadores que definan de común acuerdo el empleador y la organización sindical.
 
 #### Artículo 377
 
-Durante la huelga o el cierre temporal o lock-out se entenderá suspendido el contrato de trabajo, respecto de los trabajadores y del empleador que se encuentren involucrados o a quienes afecte, en su caso.
+Registro y fiscalización de los pactos. Dentro de los cinco días siguientes a la suscripción del pacto, el empleador deberá registrar dicho instrumento de manera electrónica ante la Dirección del Trabajo.
 
-En consecuencia, los trabajadores no estarán obligados a prestar sus servicios ni el empleador al pago de sus remuneraciones, beneficios y regalías derivadas de dicho contrato.
+El Director del Trabajo, mediante resolución exenta, determinará la forma, condiciones y características del registro de los pactos y las demás normas necesarias para verificar el cumplimiento de los requisitos contemplados en los artículos anteriores.
 
-Durante la huelga o durante el cierre temporal o lock-out, los trabajadores podrán efectuar trabajos temporales, fuera de la empresa, sin que ello signifique el término del contrato de trabajo con el empleador.
+La Dirección del Trabajo pondrá a disposición del público modelos tipo de pactos sobre condiciones especiales de trabajo, que se ajusten a las disposiciones de este Título.
 
-Durante la huelga los trabajadores podrán efectuar voluntariamente las cotizaciones previsionales o de seguridad social en los organismos respectivos. Sin embargo, en caso de lock-out, el empleador deberá efectuarlas respecto de aquellos trabajadores afectados por éste que no se encuentren en huelga.
+La fiscalización del cumplimiento de los pactos corresponderá a la Dirección del Trabajo.
 
-#### Artículo 378
-
-Una vez declarada la huelga, o durante su transcurso, la comisión negociadora podrá convocar a otra votación a fin de pronunciarse sobre la posibilidad de someter el asunto a mediación o arbitraje, respecto de un nuevo ofrecimiento del empleador o, a falta de éste, sobre su última oferta. El nuevo ofrecimiento deberá formularse por escrito, darse a conocer a los trabajadores antes de la votación y si fuere rechazado por éstos no tendrá valor alguno.
-
-Las decisiones que al respecto adopten los trabajadores deberán ser acordadas por la mayoría absoluta de los involucrados en la negociación.
-
-Sin perjuicio de lo dispuesto en los artículos 370, 373 y 374, la última oferta del empleador se entenderá subsistente, mientras éste no la retire con las mismas formalidades establecidas en el inciso final del artículo 370.
-
-Constituido el compromiso, cesará la huelga y los trabajadores deberán reintegrarse a sus labores en las mismas condiciones vigentes al momento de presentarse el proyecto de contrato colectivo.
-
-Será aplicable en estos casos lo dispuesto en los artículos 370 y 372, en lo que corresponda, pero no será obligatoria la presencia de un ministro de fe si el número de trabajadores involucrados fuere inferior a doscientos cincuenta.
-
-#### Artículo 379
-
-En cualquier momento podrá convocarse a votación al grupo de trabajadores involucrados en la negociación, por el veinte por ciento a lo menos de ellos, con el fin de pronunciarse sobre la censura a la comisión negociadora, la que deberá ser acordada por la mayoría absoluta de los involucrados en la negociación, en cuyo caso se procederá a la elección de una nueva comisión en el mismo acto.
-
-La votación será siempre secreta y deberá ser anunciada con veinticuatro horas de anticipación, a lo menos. En caso de tratarse de una negociación que involucre a doscientos cincuenta o más trabajadores, se efectuará ante un ministro de fe.
-
-Planteada la censura y notificada a la Inspección del Trabajo y al empleador, la comisión negociadora no podrá suscribir contrato colectivo ni acordar arbitraje sino una vez conocido el resultado de la votación.
-
-#### Artículo 380
-
-Si se produjere una huelga en una empresa o predio, o en un establecimiento cuya paralización provoque un daño actual e irreparable en sus bienes materiales o un daño a la salud de los usuarios de un establecimiento asistencial o de salud o que preste servicios esenciales, el sindicato o grupo negociador estará obligado a proporcionar el personal indispensable para la ejecución de las operaciones cuya paralización pueda causar este daño.
-
-La comisión negociadora deberá señalar al empleador, a requerimiento escrito de éste, los trabajadores que compondrán el equipo de emergencia, dentro de las veinticuatro horas siguientes a dicho requerimiento.
-
-Si así no lo hiciere, el empleador podrá reclamar a la Inspección del Trabajo a fin de que se pronuncie sobre la obligación de los trabajadores de proporcionar dicho equipo.
-
-Lo dispuesto en los incisos anteriores se aplicará cuando hubiere negativa expresa de los trabajadores, o si existiere discrepancia en cuanto a la composición del equipo.
-
-La reclamación deberá ser interpuesta por el empleador dentro del plazo de cinco días contados desde la fecha de la negativa de los trabajadores o de la falta de acuerdo, en su caso, y deberá ser resuelta dentro de las cuarenta y ocho horas siguientes a su presentación.
-
-De la resolución de la Inspección del Trabajo podrá reclamarse ante el Juzgado de Letras del Trabajo dentro de los cinco días siguientes a la fecha de la resolución o de la expiración del plazo señalado en el inciso anterior.
-
-#### Artículo 381
-
-Estará prohibido el reemplazo de los trabajadores en huelga, salvo que la última oferta formulada, en la forma y con la anticipación indicada en el inciso tercero del artículo 372, contemple a lo menos:
-
-a) Idénticas estipulaciones que las contenidas en el contrato, convenio o fallo arbitral vigente, reajustadas en el porcentaje de variación del Indice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas o el que haga sus veces, habido en el período comprendido entre la fecha del último reajuste y la fecha de término de vigencia del respectivo instrumento;
-
-b) Una reajustabilidad mínima anual según la variación del Indice de Precios al Consumidor para el período del contrato, excluidos los doce últimos meses;
-
-c) Un bono de reemplazo, que ascenderá a la cifra equivalente a cuatro unidades de fomento por cada trabajador contratado como reemplazante. La suma total a que ascienda dicho bono se pagará por partes iguales a los trabajadores involucrados en la huelga, dentro de los 5 días siguientes a la fecha en que ésta haya finalizado.
-
-En este caso, el empleador podrá contratar a los trabajadores que considere necesarios para el desempeño de las funciones de los involucrados en la huelga, a partir del primer día de haberse hecho ésta efectiva.
-
-Además, en dicho caso, los trabajadores podrán optar por reintegrarse individualmente a sus labores, a partir del décimo quinto día de haberse hecho efectiva la huelga.
-
-Si el empleador no hiciese una oferta de las características señaladas en el inciso primero, y en la oportunidad que allí se señala, podrá contratar los trabajadores que considere necesarios para el efecto ya indicado, a partir del décimo quinto día de hecha efectiva la huelga, siempre y cuando ofrezca el bono a que se refiere la letra c) del inciso primero de este artículo. En dicho caso, los trabajadores podrán optar por reintegrarse individualmente a sus labores, a partir del trigésimo día de haberse hecho efectiva la huelga.
-
-Si la oferta a que se refiere el inciso primero de este artículo fuese hecha por el empleador después de la oportunidad que allí se señala, los trabajadores podrán optar por reintegrarse individualmente a sus labores, a partir del décimo quinto día de materializada tal oferta, o del trigésimo día de haberse hecho efectiva la huelga, cualquiera de estos sea el primero. Con todo, el empleador podrá contratar a los trabajadores que considere necesarios para el desempeño de las funciones de los trabajadores involucrados en la huelga, a partir del décimo quinto día de hecha ésta efectiva.
-
-En el caso de no existir instrumento colectivo vigente, la oferta a que se refiere el inciso primero se entenderá materializada si el empleador ofreciere, a lo menos, una reajustabilidad mínima anual, según la variación del Indice de Precios al Consumidor para el período del contrato, excluidos los últimos doce meses.
-
-Para los efectos de lo dispuesto en este artículo, el empleador podrá formular más de una oferta, con tal que al menos una de las proposiciones cumpla con los requisitos que en él se señalan, según sea el caso, y el bono a que se refiere la letra c) del inciso primero de este artículo.
-
-Si los trabajadores optasen por reintegrarse individualmente a sus labores de conformidad a lo dispuesto en este artículo, lo harán, al menos, en las condiciones contenidas en la última oferta del empleador.
-
-Una vez que el empleador haya hecho uso de los derechos señalados en este artículo, no podrá retirar las ofertas a que en él se hace referencia.
-
-#### Artículo 382
-
-Mientras los trabajadores permanezcan involucrados en la negociación colectiva, quedará prohibido al empleador ofrecerles individualmente su reintegro en cualquier condición, salvo en las circunstancias y condiciones señaladas en el artículo anterior.
-
-#### Artículo 383
-
-El empleador podrá oponerse a que los trabajadores se reincorporen en los términos a que se refieren los artículos anteriores, siempre que el uso de tal prerrogativa afecte a todos éstos, no pudiendo discriminar entre ellos.
-
-Si, de conformidad con lo señalado en los artículos anteriores, se hubiere reintegrado más de la mitad de los trabajadores involucrados en la negociación, la huelga llegará a su término al final del mismo día en que tal situación se produzca. En dicho caso, los restantes trabajadores deberán reintegrarse dentro de los dos días siguientes al del término de la huelga, en las condiciones contenidas en la última oferta del empleador.
-
-#### Artículo 384
-
-No podrán declarar la huelga los trabajadores de aquellas empresas que:
-
-a) Atiendan servicios de utilidad pública, o
-
-b) Cuya paralización por su naturaleza cause grave daño a la salud, al abastecimiento de la población, a la economía del país o a la seguridad nacional.
-
-Para que se produzca el efecto a que se refiere la letra b), será necesario que la empresa de que se trate comprenda parte significativa de la actividad respectiva del país, o que su paralización implique la imposibilidad total de recibir un servicio para un sector de la población.
-
-En los casos a que se refiere este artículo, si no se logra acuerdo directo entre las partes en el proceso de negociación colectiva, procederá el arbitraje obligatorio en los términos establecidos en esta ley.
-
-La calificación de encontrarse la empresa en alguna de las situaciones señaladas en este artículo, será efectuada dentro del mes de julio de cada año, por resolución conjunta de los Ministros del Trabajo y Previsión Social, Defensa Nacional y Economía, Fomento y Reconstrucción.
-
-#### Artículo 385
-
-Sin perjuicio de lo dispuesto en el artículo anterior, en caso de producirse una huelga o lock-out que por sus características, oportunidad o duración causare grave daño a la salud, al abastecimiento de bienes o servicios de la población, a la economía del país o a la seguridad nacional, el Presidente de la República podrá decretar la reanudación de faenas.
-
-El decreto que disponga la reanudación de faenas será suscrito, además, por los Ministros del Trabajo y Previsión Social, Defensa Nacional y Economía, Fomento y Reconstrucción y deberá designar a un miembro del Cuerpo Arbitral, que actuará como árbitro laboral, conforme a las normas del Título V.
-
-La reanudación de faenas se hará en las mismas condiciones vigentes al momento de presentar el proyecto de contrato colectivo.
-
-Los honorarios de los miembros del Cuerpo Arbitral serán de cargo del Fisco, y regulados por el arancel que para el efecto dicte el Ministerio de Economía, Fomento y Reconstrucción.
+En caso de incumplimiento de los requisitos contemplados en los artículos anteriores o si sus estipulaciones infringen gravemente el cumplimiento de normas de higiene y seguridad en el trabajo, el Director del Trabajo podrá, mediante resolución fundada, dejar sin efecto los pactos de que trata este Título. Esta resolución será reclamable ante el tribunal respectivo de conformidad al procedimiento de aplicación general contemplado en el Párrafo 3° del Capítulo II del Título I del Libro V de este Código.
 
 ## Título VII
 
-DE LA NEGOCIACION COLECTIVA DE LA GENTE DE MAR
+DE LA MEDIACIÓN, LA MEDIACIÓN LABORAL DE CONFLICTOS COLECTIVOS Y EL ARBITRAJE
+
+## Capítulo I
+
+DE LA MEDIACIÓN
+
+#### Artículo 378
+
+Tipos de mediación. Conforme a lo previsto en este Libro, habrá mediación voluntaria cuando las partes de común acuerdo soliciten la designación de un mediador a la Dirección del Trabajo.
+
+La mediación voluntaria tendrá un plazo máximo de diez días contado desde la notificación de la designación del mediador.
+
+#### Artículo 379
+
+Facultades del mediador. En el cumplimiento de sus funciones, el mediador podrá requerir los antecedentes que juzgue necesarios, efectuar las visitas que estime procedentes a los lugares de trabajo, hacerse asesorar por organismos públicos o por expertos y requerir aquellos antecedentes documentales, laborales, tributarios, contables o de cualquier otra índole que las leyes respectivas permitan exigir a las empresas involucradas en la mediación y a las autoridades.
+
+#### Artículo 380
+
+Informe de mediación. Si no se produce acuerdo dentro del plazo, el mediador pondrá término a su gestión, presentando a las partes un informe sobre lo realizado.
+
+## Capítulo II
+
+DE LA MEDIACIÓN LABORAL DE CONFLICTOS COLECTIVOS
+
+#### Artículo 381
+
+Mediación laboral de conflictos colectivos. Los conflictos colectivos que no tengan un procedimiento especial previsto en este Libro para su resolución podrán sujetarse a las disposiciones de este Capítulo.
+
+#### Artículo 382
+
+Forma de inicio de la mediación de conflictos colectivos. Cualquiera de las partes podrá recurrir a la Inspección del Trabajo para solicitarle una instancia de mediación laboral de conflictos colectivos. Asimismo, la Inspección del Trabajo podrá intervenir de oficio.
+
+#### Artículo 383
+
+Facultades de la Inspección del Trabajo. La Inspección del Trabajo estará facultada para disponer la celebración de las audiencias que estime necesarias para llegar a un acuerdo.
+
+Para el logro del objeto de la mediación, la Inspección del Trabajo podrá solicitar asesoramiento e información a entidades públicas y privadas y ordenar medidas destinadas a contar con la mayor información necesaria para contribuir a resolver el conflicto.
+
+#### Artículo 384
+
+Informe de mediación. En caso de no prosperar la mediación, la Inspección del
+
+Trabajo levantará un informe que detallará las características del conflicto, la posición de
+
+las partes, las fórmulas de mediación analizadas y las posturas de las partes respecto de aquellas. Este informe será público.
+
+## Capítulo III
+
+DEL ARBITRAJE
+
+#### Artículo 385
+
+Definición de arbitraje. El arbitraje es un procedimiento a través del cual la organización sindical y el empleador, en los supuestos y al amparo de las reglas que señala este Capítulo, someten la negociación colectiva a un tribunal arbitral para decidir el asunto. La resolución del tribunal arbitral se denominará indistintamente laudo o fallo arbitral.
+
+Sin perjuicio de lo dispuesto en los artículos siguientes, un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscrito por el Ministro de Hacienda determinará las condiciones, plazos y formas por las cuales se llevará a cabo la designación del tribunal arbitral, la contratación de los árbitros, la supervigilancia del Registro Nacional de Árbitros Laborales y demás normas necesarias para el funcionamiento del arbitraje de que trata este Capítulo.
 
 #### Artículo 386
 
-La negociación colectiva de la gente de mar se sujetará a las reglas generales y además, a las siguientes normas especiales:
+Arbitraje voluntario y obligatorio. Las partes en cualquier momento podrán voluntariamente someter la negociación colectiva a arbitraje.
 
-a) No será aplicable en este caso el artículo 374.
-
-b) Las votaciones a que se refiere el Título VI de este Libro podrán realizarse, además, en cada una de las naves que se encuentren embarcados los trabajadores involucrados en la negociación, siempre que se lleven a efecto en la misma fecha y que los votantes hayan recibido la información que establece el artículo 372.
-
-El ministro de fe hará constar la fecha y resultado de la votación y el hecho de haberse recibido la información a que se refiere el inciso anterior, en certificado que remitirá de inmediato a la comisión negociadora.
-
-Para adoptar acuerdos y computar los votos emitidos se considerarán los sufragios de todas las votaciones cuyos resultados conozca la comisión negociadora dentro de los dos días siguientes a la fecha de efectuadas, aún cuando no hubiere recibido el certificado a que se refiere el inciso anterior. La comisión comunicará estos resultados a la Inspección del Trabajo dentro de los cuatro días siguientes a la fecha de la votación, para los efectos previstos en la letra c) siguiente y en el artículo 373.
-
-En caso de disconformidad entre las cifras que comunicare la comisión negociadora y las contenidas en el certificado emitido por el ministro de fe, se estará a estas últimas.
-
-c) Acordada la huelga deberá hacerse efectiva a partir del sexto día contado desde dicho acuerdo, o vencido este plazo, en el primer puerto a que arribe la nave, siempre que, encontrándose en el extranjero, exista en él cónsul de Chile.
-
-Este plazo podrá prorrogarse por otros seis días, de común acuerdo por la comisión negociadora y el empleador.
-
-A contar de este sexto día o de su prórroga, se computarán los plazos a que se refiere el artículo 381.
-
-d) Las facultades que confieren a los trabajadores y empleadores los artículos 377 y 381, respectivamente, podrán ejercerse mediante la contratación temporal de la gente de mar involucrada en la negociación siempre que la nave se encuentre en el extranjero durante la huelga.
-
-Estos contratos subsistirán por el tiempo que acordaren las partes y en todo caso, concluirán al término de la suspensión de los contratos de trabajo previsto en el artículo 377 o al arribo de la nave a puerto chileno de destino, cualquiera de estas circunstancias ocurra primero.
-
-Iniciada la huelga en puerto extranjero y siempre que dentro de los tres días siguientes no se efectuare la contratación temporal a que se refiere esta letra, el personal embarcado que lo solicitare deberá ser restituido al puerto que se hubiere señalado en el contrato de embarco.
-
-No se aplicará el inciso anterior al personal embarcado que rehusare la contratación temporal en condiciones a lo menos iguales a las convenidas en los contratos vigentes, circunstancia que certificará el respectivo cónsul de Chile.
-
-e) El personal de emergencia a que se refiere el inciso primero del artículo 380 será designado por el capitán de la nave dentro de los seis días siguientes a la presentación del proyecto de contrato colectivo. De esta designación podrá reclamar la comisión negociadora ante el Tribunal competente si no estuviere de acuerdo con su número o composición. Dicha reclamación deberá interponerse dentro de los cinco días siguientes a la designación del personal de emergencia y se aplicará en este caso lo dispuesto en el artículo 392, y
-
-f) Sin perjuicio de la calidad de ministro de fe que la ley asigna al capitán de la nave, tendrán también este carácter los correspondientes cónsules de Chile en el extranjero, para todas las actuaciones a que se refiere este Libro. Dichos cónsules tendrán facultad para calificar las circunstancias que hacen posible o no llevar a efecto la huelga en el respectivo puerto, la que ejercerán a solicitud de la mayoría de los trabajadores de la nave involucrados en la negociación.
-
-Un reglamento fijará las normas que sean necesarias para la aplicación de lo dispuesto en las letras precedentes de este artículo.
-
-## Título VIII
-
-DE LAS PRACTICAS DESLEALES EN LA NEGOCIACION COLECTIVA Y DE SU SANCION
+El arbitraje será obligatorio para las partes en los casos en que esté prohibida la huelga y cuando se determine la reanudación de faenas, según lo dispuesto en el artículo 363.
 
 #### Artículo 387
 
-Serán consideradas prácticas desleales del empleador las acciones que entorpezcan la negociación colectiva y sus procedimientos.
+Del tribunal arbitral, de la nómina de árbitros y su designación. El tribunal arbitral será colegiado y estará integrado por tres árbitros.
 
-Especialmente incurren en esta infracción:
+Suscrito el compromiso entre las partes, llegada la fecha de término de vigencia del instrumento colectivo o a partir del día siguiente de la notificación de la resolución que ordena la reanudación de faenas, la Dirección Regional del Trabajo correspondiente al domicilio de la empresa deberá citar a las partes a una audiencia dentro de quinto día para la designación del tribunal arbitral, la que se llevará a cabo con cualquiera de las partes que asista o en ausencia de ambas.
 
-a) El que se niegue a recibir a los representantes de los trabajadores o a negociar con ellos en los plazos y condiciones que establece este Libro y el que ejerza presiones para obtener el reemplazo de los mismos;
-
-b) El que se niegue a suministrar la información necesaria para la justificación de sus argumentaciones;
-
-c) El que ejecute durante el proceso de la negociación colectiva acciones que revelen una manifiesta mala fe que impida el normal desarrollo de la misma;
-
-d) El que ejerza fuerza física en las cosas, o física o moral en las personas, durante el procedimiento de negociación colectiva, y
-
-e) El que haga uso indebido o abusivo de las facultades que concede el inciso segundo del artículo 317 o realice cualquier práctica arbitraria o abusiva con el objeto de dificultar o hacer imposible la negociación colectiva.
+En esta audiencia se procederá a designar a los árbitros que conformarán el tribunal arbitral, nombrando a tres titulares y dos suplentes entre los inscritos en la Nómina Nacional de Árbitros Laborales. Las designaciones serán de común acuerdo y, en ausencia de las partes, la Dirección Regional del Trabajo designará aquellos que más se aproximen a las preferencias de las mismas. Si las partes no manifestaren preferencias, la designación se hará por sorteo. El Director Regional del Trabajo procurará que al menos uno de los árbitros tenga domicilio en la Región respectiva.
 
 #### Artículo 388
 
-Serán también consideradas prácticas desleales del trabajador, de las organizaciones sindicales o de éstos y del empleador en su caso, las acciones que entorpezcan la negociación colectiva o sus procedimientos.
+Notificación de los árbitros, audiencia de constitución y procedimientos de arbitraje. Los árbitros designados serán notificados por la Dirección Regional del Trabajo al correo electrónico que tengan registrado, quedando citados a una audiencia de constitución del tribunal arbitral dentro de quinto día. A esta audiencia también serán convocadas las partes.
 
-Especialmente incurren en esta infracción:
+En la audiencia de constitución, el Director Regional del Trabajo tomará juramento o promesa a los árbitros designados, partiendo por los titulares y siguiendo por los suplentes. En caso de ausencia de un árbitro titular, tomará su lugar uno de los suplentes. Los árbitros deberán jurar o prometer dar fiel e íntegro cumplimiento a su cometido. En esta audiencia el tribunal arbitral definirá el procedimiento que seguirá para su funcionamiento.
 
-a) Los que ejecuten durante el proceso de la negociación colectiva acciones que revelen una manifiesta mala fe que impida el normal desarrollo de la misma;
+Una vez verificada la audiencia de constitución, el tribunal arbitral convocará a las partes a una audiencia dentro de los cinco días siguientes. En esta oportunidad las partes presentarán su última propuesta y realizarán las observaciones que estimen pertinentes. El tribunal levantará acta resumida de lo obrado.
 
-b) Los que ejerzan fuerza física en las cosas, o física o moral en las personas durante el procedimiento de negociación colectiva;
-
-c) Los que acuerden con el empleador la ejecución por parte de éste de prácticas atentatorias contra la negociación colectiva y sus procedimientos, en conformidad a las disposiciones precedentes, y los que presionen física o moralmente al empleador para inducirlo a ejecutar tales actos, y
-
-d) Los miembros de la comisión negociadora que divulguen a terceros ajenos a ésta los documentos o la información que hayan recibido del empleador y que tengan el carácter de confidencial o reservados.
+Al tribunal arbitral les serán aplicables los artículos 75, 76, 77, 78, 79, 80, 83, 85 y 89, inciso primero, del Código Orgánico de Tribunales, en todo aquello que no sea incompatible con las normas de este Capítulo.
 
 #### Artículo 389
 
-- Las infracciones señaladas en los artículos precedentes serán sancionadas con multas de diez a ciento cincuenta unidades tributarias mensuales, teniéndose en cuenta para determinar su cuantía la gravedad de la infracción. En caso de tratarse de una reincidencia, se sancionará con multas de cien a ciento cincuenta unidades tributarias mensuales.
-
-Las multas a que se refiere el inciso anterior serán a beneficio del Servicio Nacional de Capacitación y Empleo.
-
-El conocimiento y resolución de las infracciones por prácticas desleales en la negociación colectiva se sustanciará conforme a las normas establecidas en el Párrafo 6º, del Capítulo II, del Título I, del Libro V, del presente Código.
-
-La Inspección del Trabajo deberá denunciar al tribunal competente los hechos que estime constitutivos de prácticas desleales en la negociación colectiva, de los cuales tome conocimiento.
+Facultades del tribunal. El tribunal arbitral podrá requerir los antecedentes que juzgue necesarios, efectuar las visitas que estime procedentes a los locales de trabajo, hacerse asesorar por organismos públicos o por expertos, sobre las diversas materias sometidas a su resolución, citar a audiencia a las partes, y exigir aquellos antecedentes documentales, laborales, tributarios, contables o de cualquier otra índole a las partes, que le permitan emitir su fallo de manera fundada.
 
 #### Artículo 390
 
-Lo dispuesto en el artículo anterior es sin perjuicio de la responsabilidad penal en los casos en que las conductas sancionadas como prácticas desleales configuren faltas, simples delitos o crímenes.
+Del fallo y del derecho de las partes a celebrar un contrato colectivo antes de su dictación. El tribunal arbitral estará obligado a fallar en favor de la proposición de alguna de las partes.
 
-#### Artículo 390 bis
-
-La Dirección del Trabajo deberá llevar un registro de las sentencias condenatorias por prácticas desleales en la negociación colectiva, debiendo publicar semestralmente la nómina de empresas y organizaciones sindicales infractoras. Para este efecto, el tribunal enviará a la Dirección del Trabajo copia de los respectivos fallos.
-
-## Título IX
-
-DEL PROCEDIMIENTO JUDICIAL EN LA NEGOCIACION COLECTIVA
+Mientras no se notifique el fallo a las partes, estas mantendrán la facultad de celebrar directamente un contrato colectivo.
 
 #### Artículo 391
 
-Será competente para conocer de las cuestiones a que dé origen la aplicación de este Libro el Juzgado de Letras del Trabajo del lugar en que se encuentre la empresa, predio o establecimiento sujetos al procedimiento de negociación colectiva, sin perjuicio de las excepciones legales que entreguen el conocimiento de estos asuntos a otros tribunales.
+Plazo para fallar. El tribunal arbitral deberá fallar dentro de los treinta días hábiles siguientes a la celebración de la audiencia constitutiva, plazo que podrá prorrogarse fundadamente hasta por otros diez días hábiles. El fallo deberá resolver los asuntos sometidos a su decisión y no será objeto de recurso alguno.
 
 #### Artículo 392
 
-La reclamación a que se refiere el artículo 380 deberá interponerse dentro del plazo señalado en esa disposición, y se sujetará a la tramitación dispuesta para los incidentes por el Código de Procedimiento Civil, no pudiendo resolverse de plano.
-
-La confesión en juicio sólo podrá solicitarse una vez por cada una de las partes, en el plazo prescrito en el inciso segundo del artículo 90 del Código de Procedimiento Civil.
-
-En el mismo plazo deberá solicitarse la prueba de informe de peritos.
-
-Cuando la reclamación se dirigiere en contra de los trabajadores sujetos a la negociación, la notificación se hará a la comisión negociadora, la que se entenderá emplazada cuando a lo menos dos de sus integrantes hubieren sido notificados legalmente.
-
-La sentencia que se dicte será apelable en el solo efecto devolutivo.
+De la remuneración de los árbitros. La remuneración de los árbitros será determinada por el arancel que anualmente fije la Dirección del Trabajo para el año siguiente, la que será de costo fiscal, salvo cuando el procedimiento arbitral afecte a una gran empresa, caso en el cual el costo deberá ser asumido por esta.
 
 #### Artículo 393
 
-Si la gravedad de las circunstancias lo requiere, el tribunal podrá, en el caso de la reclamación a que se refiere el artículo 380, disponer provisoriamente como medida precautoria el establecimiento de un equipo de emergencia.
+Secretaría del cuerpo arbitral. La Secretaría del cuerpo arbitral se radicará en la Dirección del Trabajo, la que será responsable de llevar el registro de árbitros.
 
 #### Artículo 394
 
-Si las partes designaren un árbitro en conformidad a lo dispuesto en el inciso segundo del artículo 345, el juicio arbitral se ajustará preferentemente a las siguientes normas:
+Registro Nacional de Árbitros Laborales y requisitos para incorporarse. Existirá un Registro Nacional de Árbitros Laborales en el cual podrán inscribirse las personas naturales que acrediten el cumplimiento de los siguientes requisitos:
 
-a) El tribunal será unipersonal;
+1. Poseer un título profesional de una carrera que tenga al menos ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por este.
 
-b) La tramitación de la causa se ajustará a lo dispuesto para los árbitros arbitradores por los párrafos 2.° y 3.° del Título VIII del Libro III del Código de Procedimiento Civil, sin perjuicio de las excepciones contempladas en el presente artículo;
+2. Experiencia no menor a cinco años en el ejercicio profesional o en la docencia universitaria en legislación laboral, relaciones laborales, recursos humanos o administración de empresas.
 
-c) El árbitro apreciará la prueba en conciencia y fallará la causa conforme a derecho, y
+3. No encontrarse inhabilitado para prestar servicios en el Estado o ejercer la función pública.
 
-d) La sentencia arbitral será siempre apelable ante la Corte respectiva, en conformidad con las normas del Título I del Libro V de este Código.
+4. No haber sido condenado por delito que merezca pena aflictiva.
+
+5. No tener la calidad de funcionario o servidor público de la Administración del Estado, centralizada o descentralizada.
+
+Los árbitros laborales permanecerán en el Registro mientras mantengan los requisitos legales para su inscripción en el mismo.
 
 #### Artículo 395
 
-Si en el contrato colectivo las partes no hubieren sometido a compromiso la solución de las controversias que él pudiera originar, conocerá de ellas el Juzgado de Letras del Trabajo.
+Reglas generales. Corresponderá a la Dirección del Trabajo:
+
+1. La revisión del cumplimiento y mantención de los requisitos de quienes postulen a incorporarse en el Registro Nacional de Árbitros Laborales.
+
+2. El pago de los honorarios correspondientes a las remuneraciones de los integrantes del tribunal arbitral, cuando proceda.
 
 #### Artículo 396
 
-Las causas cuyo conocimiento corresponda a los Juzgados de Letras del Trabajo en conformidad con lo dispuesto en este Libro y respecto de las cuales no se hubieren establecido normas especiales, se regirán por el procedimiento general establecido en el Título I del Libro V de este Código.
-
-## Título X
-
-DE LA NOMINA NACIONAL DE ARBITROS LABORALES O CUERPO ARBITRAL
+Contrato del árbitro. Constituido el tribunal arbitral, la Dirección del Trabajo suscribirá con cada uno de sus integrantes un contrato de prestación de servicios a honorarios, en el cual se especificará que estos se pagarán contra la entrega del fallo arbitral correspondiente, dentro del plazo máximo permitido.
 
 #### Artículo 397
 
-Existirá una nómina nacional de árbitros laborales o Cuerpo Arbitral, cuyos miembros serán llamados a integrar los tribunales que deben conocer de los casos de arbitraje obligatorio en conformidad al Título V de este Libro.
+Causales de implicancia y recusación. Serán aplicables a los árbitros laborales las causales de implicancia y recusación señaladas en los artículos 195 y 196 del Código Orgánico de Tribunales, considerándose que la mención que en dichas normas se hace a los abogados de las partes deberá entenderse referida a los asesores de las mismas en el respectivo procedimiento de negociación colectiva.
+
+Para los efectos de las implicancias o recusaciones, solamente se entenderán como parte el empleador, sus representantes legales, sus apoderados en el procedimiento de negociación colectiva, los directores de los sindicatos interesados en la misma y los integrantes de la respectiva comisión negociadora sindical, en su caso.
+
+Las implicancias o recusaciones serán declaradas de oficio o a petición de parte por el tribunal arbitral, con exclusión del miembro afectado por estas.
+
+En caso de implicancia, la declaración podrá formularse en cualquier tiempo.
+
+En caso de recusación, el tribunal deberá declararla dentro del plazo de cinco días hábiles desde su constitución. Dentro del mismo plazo, la parte interesada podrá también deducir las causales de recusación que fueren pertinentes.
+
+Si la causal de recusación sobreviniere con posterioridad a la constitución del tribunal arbitral, el plazo a que se refiere el inciso anterior se contará desde que se tuvo conocimiento de la misma.
+
+Si el tribunal no diere lugar a la declaración de la implicancia o recusación, la parte afectada podrá apelar, dentro del plazo de cinco días hábiles, ante el Director del Trabajo, el que resolverá en el más breve plazo posible.
+
+La interposición de este recurso no suspenderá el procedimiento de arbitraje. Con todo, no podrá procederse a la dictación del fallo arbitral sin que previamente se haya resuelto la implicancia o recusación.
+
+La resolución que se pronuncie acerca de la implicancia o recusación se notificará a las partes por carta certificada.
 
 #### Artículo 398
 
-El número de los integrantes del Cuerpo Arbitral será veinticinco. El Presidente de la República sólo podrá aumentarlo.
+Características del Registro Nacional de Árbitros Laborales. El Registro Nacional de Árbitros Laborales será de carácter público. Contendrá el nombre del árbitro, región o regiones de desempeño, los casos asignados y terminados y el monto de los honorarios percibidos.
 
-Corresponderá al Presidente de la República el nombramiento de los árbitros laborales, a proposición del propio Cuerpo Arbitral, en terna por cada cargo a llenar.
+## Título VIII
+
+DE LOS PROCEDIMIENTOS JUDICIALES EN LA
+
+NEGOCIACIÓN COLECTIVA
 
 #### Artículo 399
 
-El decreto supremo que aumente el número de integrantes del Cuerpo Arbitral, y los decretos supremos que designen a sus miembros, deberán ser publicados en el Diario Oficial.
+Competencia. Será competente para conocer de las cuestiones a que dé origen la aplicación de este Libro el Juzgado de Letras del Trabajo del domicilio del demandado o el del lugar donde se presten o se hayan prestado los servicios, a elección del demandante.
 
 #### Artículo 400
 
-Para ser miembro del Cuerpo Arbitral será necesario estar en posesión de un título profesional de la educación superior y contar con experiencia calificada en el área de la actividad económica y laboral.
-
-Los aranceles de los árbitros laborales serán fijados por el Ministerio de Economía, Fomento y Reconstrucción.
+Medidas de reparación. En el caso de la denuncia del artículo 345, el tribunal competente podrá disponer, como medida de reparación, una indemnización del daño causado a los afectados por la infracción a la prohibición de reemplazar trabajadores en huelga, además de la multa establecida en el artículo 406.
 
 #### Artículo 401
 
-No podrán integrar la nómina nacional de árbitros laborales las siguientes personas:
+Efecto de la interposición de acciones judiciales. En los procedimientos
 
-a) Las que sean funcionarios de la Administración del Estado, con excepción de aquellas que se encuentren en tal situación por el solo hecho de ser docente académico aunque se desempeñen en cualquiera actividad universitaria;
-
-b) Las que sean dirigentes sindicales o de asociaciones gremiales;
-
-c) Las que tengan la calidad de miembro de una comisión negociadora, o de apoderado de un empleador, o de asesor de aquélla o éste, en procedimiento de negociación colectiva, al momento de la designación, y
-
-d) Las que hayan sido condenadas o se encuentren procesadas por crimen o simple delito.
-
-El interesado deberá acompañar una declaración jurada notarial en la que exprese no estar afecto a las inhabilidades señaladas en las letras precedentes.
+judiciales a que dé lugar el ejercicio de las acciones previstas en este Libro, el tribunal podrá, mediante resolución fundada, disponer la suspensión de la negociación colectiva en curso. La resolución será apelable conforme a lo dispuesto en el artículo 476.
 
 #### Artículo 402
 
-Los árbitros laborales permanecerán en sus cargos mientras mantengan su buen comportamiento, y cesarán en los mismos en los casos previstos en el artículo 411.
+Reclamación de la determinación de las empresas sin derecho a huelga. El reclamo se deducirá por la empresa o los afectados, ante la Corte de Apelaciones de Santiago o la del lugar donde se encuentre domiciliado el reclamante, a elección de este último. El reclamo deberá interponerse dentro de los quince días siguientes a la publicación en el Diario Oficial de la resolución respectiva, según las siguientes reglas:
+
+a) El reclamante señalará en su escrito, con precisión, la resolución objeto del reclamo, la o las normas legales que se suponen infringidas, la forma como se ha producido la infracción y, finalmente, cuando procediere, las razones por las cuales el acto le perjudica.
+
+b) La empresa y el o los sindicatos, según corresponda, podrán hacerse parte en el respectivo reclamo de conformidad a las normas generales.
+
+c) La Corte podrá decretar orden de no innovar cuando la ejecución del acto impugnado le produzca un daño irreparable al recurrente. Asimismo, podrá declarar inadmisible la reclamación si el escrito no cumple con las condiciones señaladas en la letra a) anterior.
+
+d) Recibida la reclamación, la Corte requerirá de informe conjunto a los ministros que suscribieron el acto reclamado, concediéndole un plazo de diez días al efecto.
+
+e) Evacuado el traslado o teniéndosele por evacuado en rebeldía, la Corte podrá abrir un término de prueba, si así lo estima necesario, el que se regirá por las reglas de los incidentes que contempla el Código de Procedimiento Civil.
+
+f) Vencido el término de prueba, se ordenará traer los autos en relación. La vista de esta causa gozará de preferencia para su inclusión en la tabla.
+
+g) La Corte, en su sentencia, si da lugar al reclamo, decidirá u ordenará, según sea procedente, la rectificación del acto impugnado y la dictación de la respectiva resolución, incluyendo o excluyendo a la empresa, según corresponda.
+
+h) En todo aquello que no estuviere regulado por el presente artículo, regirán las normas establecidas en el Código Orgánico de Tribunales y en el Código de Procedimiento Civil, según corresponda.
+
+## Título IX
+
+DE LAS PRÁCTICAS DESLEALES Y OTRAS INFRACCIONES
+
+EN LA NEGOCIACIÓN COLECTIVA Y SU SANCIÓN
 
 #### Artículo 403
 
-Corresponderá al Cuerpo Arbitral la designación y remoción de los integrantes del Consejo Directivo.
+Art. 403.- Prácticas desleales del empleador. Serán consideradas prácticas desleales del empleador las acciones que entorpezcan la negociación colectiva y sus procedimientos. Entre otras, se considerarán las siguientes:
 
-Igualmente le corresponderá proponer al Presidente de la República las ternas para la designación de los integrantes de la nómina nacional de árbitros laborales.
+a) La ejecución durante el proceso de la negociación colectiva de acciones que impliquen una vulneración al principio de buena fe que afecte el normal desarrollo de la misma.
+
+b) La negativa a recibir a la comisión negociadora de el o los sindicatos negociantes o a negociar con ellos en los plazos y condiciones que establece este Libro.
+
+c) El incumplimiento de la obligación de suministrar la información señalada en los términos de los artículos 315 y siguientes, tanto en la oportunidad como en la autenticidad de la información entregada.
+
+d) El reemplazo de los trabajadores que hubieren hecho efectiva la huelga dentro del procedimiento de negociación colectiva reglada del Título IV de este Libro.
+
+El empleador, en el ejercicio de sus facultades legales, podrá modificar los turnos u horarios de trabajo, y efectuar las adecuaciones necesarias con el objeto de asegurar que los trabajadores no involucrados en la huelga puedan ejecutar las funciones convenidas en sus contratos de trabajo, sin que constituya práctica desleal ni importe una infracción a la prohibición de reemplazo.
+
+e) El cambio de establecimiento en que deben prestar servicios los trabajadores no involucrados en la huelga para reemplazar a los trabajadores que participan en ella.
+
+f) Ofrecer, otorgar o convenir individualmente aumentos de remuneraciones o beneficios a los trabajadores sindicalizados, durante el período en que se desarrolla la negociación colectiva de su sindicato.
+
+g) El ejercicio de fuerza física en las cosas, o física o moral en las personas, durante la negociación colectiva.
 
 #### Artículo 404
 
-El Cuerpo Arbitral tendrá un Consejo Directivo compuesto por cinco miembros titulares y tres suplentes, elegidos por aquél en votación secreta y unipersonal.
+Prácticas desleales de los trabajadores, de las organizaciones sindicales y del empleador. Serán también consideradas prácticas desleales del trabajador, de las organizaciones sindicales o de estos y del empleador, en su caso, las acciones que entorpezcan la negociación colectiva o sus procedimientos. Entre otras, se considerarán las siguientes:
 
-Serán designados consejeros titulares quienes obtengan las cinco más altas mayorías relativas, y suplentes, los que obtengan las tres restantes.
+a) La ejecución durante el proceso de la negociación colectiva de acciones que impliquen una vulneración al principio de buena fe que afecte el normal desarrollo de la misma.
 
-Si se produjere igualdad de votos para designar consejero, se estará a la preferencia que resulte de la antigüedad en la fecha de otorgamiento del título profesional, y si ésta fuere coincidente, a la del orden alfabético de los apellidos de los miembros que hayan obtenido dicha igualdad.
+b) El acuerdo para la ejecución de prácticas atentatorias contra la negociación colectiva y sus procedimientos, en conformidad a las disposiciones precedentes, y los que presionen física o moralmente al empleador para inducirlo a ejecutar tales actos.
 
-Los miembros suplentes reemplazarán a los titulares cuando éstos por cualquier causa no pudieren asistir a sesiones.
+c) La divulgación a terceros ajenos a la negociación de los documentos o la información recibida del empleador y que tengan el carácter de confidencial o reservada.
 
-El Consejo Directivo se renovará cada tres años y será presidido por el miembro que internamente se designe.
+d) El incumplimiento del deber de proveer el o los equipos de emergencia que fueron concordados por las partes o dispuestos por la autoridad competente, según corresponda.
 
-La designación del Consejo Directivo y de su presidente deberá ser publicada en el Diario Oficial.
+e) El ejercicio de fuerza física en las cosas, o física o moral en las personas, durante la negociación colectiva.
+
+f) Impedir durante la huelga, por medio de la fuerza, el ingreso a la empresa del personal directivo o de trabajadores no involucrados en ella.
 
 #### Artículo 405
 
-La remoción del cargo de consejero deberá ser acordada por los dos tercios del Cuerpo Arbitral, en votación secreta y unipersonal, llevada a cabo en sesión especialmente citada al efecto por el presidente del Consejo Directivo o por el veinticinco por ciento, a lo menos, de los miembros del Cuerpo Arbitral.
-
-El acuerdo del Cuerpo Arbitral no será susceptible de recurso alguno.
+Práctica desleal de la empresa principal. La contratación directa o indirecta de los trabajadores en huelga de una empresa contratista o subcontratista por parte de la empresa principal será considerada práctica desleal.
 
 #### Artículo 406
 
-Corresponderá al Consejo Directivo del Cuerpo Arbitral:
+Régimen sancionatorio. Las prácticas desleales serán sancionadas de la siguiente forma:
 
-a) Velar por el progreso, prestigio y prerrogativas de la actividad del arbitraje obligatorio en la negociación colectiva y por su regular y correcto ejercicio, pudiendo al efecto dictar las normas internas que estime procedentes;
+1. En la micro empresa con multa de cinco a veinticinco unidades tributarias mensuales.
 
-b) Representar al Cuerpo Arbitral ante las autoridades del Estado;
+2. En la pequeña empresa con multa de diez a cincuenta unidades tributarias mensuales.
 
-c) Pronunciarse sobre el cumplimiento del requisito de experiencia calificada en el área económica y laboral de los postulantes a integrar la nómina nacional;
+3. En la mediana empresa con multa de quince a ciento cincuenta unidades tributarias mensuales.
 
-d) Pronunciarse sobre las inhabilidades sobrevinientes de los miembros del Cuerpo Arbitral;
+4. En la gran empresa con multa de veinte a trescientas unidades tributarias mensuales.
 
-e) Remover a los miembros del Cuerpo Arbitral en los casos señalados en el artículo 411;
+La cuantía de la multa, dentro del rango respectivo, será determinada teniendo en cuenta la gravedad de la infracción y el número de trabajadores involucrados o afiliados a la organización sindical.
 
-f) Designar un secretario ejecutivo, con título de abogado, que tendrá la calidad de ministro de fe de las actuaciones del Cuerpo Arbitral y de su Consejo Directivo y la responsabilidad de la materialización de sus acuerdos, y removerlo cuando así lo estimare procedente, y
+El incumplimiento de las estipulaciones contenidas en un instrumento colectivo y las prácticas desleales de la letra d) de los artículos 403 y 404 serán sancionados con una multa por cada trabajador involucrado de acuerdo a las siguientes reglas:
 
-g) En general, ejercer las demás funciones que sean necesarias para el cumplimiento de su cometido y, especialmente, dictar las normas relativas a su funcionamiento.
+1. En la micro y pequeña empresa con multa de una a diez unidades tributarias mensuales.
+
+2. En la mediana empresa con multa de cinco a cincuenta unidades tributarias mensuales.
+
+3. En la gran empresa con multa de diez a cien unidades tributarias mensuales.
+
+En caso de reincidencia en las medianas y grandes empresas, esta será sancionada de conformidad a lo dispuesto en el inciso quinto del artículo 506 de este Código.
+
+Las multas a que se refieren los incisos anteriores serán a beneficio del Fondo de Formación Sindical y Relaciones Laborales Colaborativas, administrado por el Ministerio del Trabajo y Previsión Social.
+
+Lo dispuesto en los incisos anteriores es sin perjuicio de la responsabilidad penal en los casos en que las conductas sancionadas como prácticas desleales configuren faltas, simples delitos o crímenes.
 
 #### Artículo 407
 
-Salvo disposición expresa en contrario, el quórum para sesionar y adoptar acuerdos será de tres consejeros.
+Procedimiento aplicable. El conocimiento y resolución de las infracciones por prácticas desleales en la negociación colectiva se sustanciará conforme a las normas establecidas en el Párrafo 6° del Capítulo II del Título I del Libro V del presente Código.
+
+Las acciones judiciales destinadas a declarar y sancionar las conductas descritas en los artículos anteriores podrán ser ejercidas por la o las organizaciones sindicales o el empleador, según el caso. La Inspección del Trabajo deberá denunciar al tribunal competente los hechos que estime constitutivos de prácticas desleales en la negociación colectiva, de los cuales tome conocimiento.
+
+La Dirección del Trabajo deberá llevar un registro de las sentencias condenatorias por prácticas desleales en la negociación colectiva, y publicar semestralmente la nómina de empresas y organizaciones sindicales infractoras. Para este efecto, el tribunal enviará a la Dirección del Trabajo copia de los respectivos fallos.
+
+## Título X
+
+DE LA PRESENTACIÓN EFECTUADA POR FEDERACIONES Y CONFEDERACIONES
 
 #### Artículo 408
 
-El Consejo Directivo funcionará en la capital de la República.
+Presentación efectuada por federaciones y confederaciones, contenido y reglas generales. Las federaciones y confederaciones podrán, en cualquier momento y sin sujeción a reglas de procedimiento, previo acuerdo con uno o más empleadores, o con una o más asociaciones gremiales de empleadores, suscribir convenios colectivos y,o pactos sobre condiciones especiales de trabajo de que trata este Código. Con todo, las federaciones o confederaciones que definan negociar conforme a las disposiciones de este Título deberán presentar su propuesta por escrito a los empleadores o a las asociaciones gremiales respectivas, para quienes siempre será voluntario negociar. También podrá iniciarse el procedimiento a que se refiere este Título a solicitud escrita de uno o más empleadores o de una o más asociaciones gremiales de empleadores. El plazo para manifestar la decisión de negociar será de treinta días contado desde la presentación de la propuesta. En caso de ser afirmativa, dentro de este mismo plazo se deberá dar respuesta a la proposición de convenio o pacto. En todo caso, la respuesta deberá darse siempre por escrito.
 
-El Ministerio del Trabajo y Previsión Social habilitará las dependencias que fueren necesarias para dicho funcionamiento.
+Los convenios colectivos podrán referirse a cualquiera de las materias señaladas en el artículo 306. Los pactos sobre condiciones especiales de trabajo deberán ajustarse a las regulaciones previstas en el Título VI de este Libro, sin que les sea aplicable el quórum de afiliación sindical señalado en el inciso primero del artículo 374. Los convenios colectivos o los pactos tendrán la duración que dispongan las partes.
 
-Las publicaciones que deban efectuarse por mandato de este Título serán con cargo al presupuesto del Ministerio del Trabajo y Previsión Social, Subsecretaría del Trabajo.
+A los empleadores sólo les serán aplicables aquellos convenios y,o pactos concordados directamente por sus representantes legales o que concurran a aceptar una vez concordados.
+
+Los convenios colectivos y pactos sobre condiciones especiales de trabajo de que trata este Título se deberán depositar en la Dirección del Trabajo dentro de los cinco días siguientes a su suscripción. Este organismo deberá llevar un registro público de estos instrumentos colectivos.
 
 #### Artículo 409
 
-Para la confección de las ternas a que se refieren los artículos 398 y 403, el Consejo Directivo procederá a llamar a concurso de antecedentes para proveer los respectivos cargos, dentro del plazo de diez días contados desde que se haya producido una vacante en la nómina nacional de árbitros laborales o desde que el Presidente de la República haya dispuesto el aumento de sus integrantes. Las personas interesadas tendrán un plazo de treinta días para la presentación de sus postulaciones.
-
-Vencido este último plazo, el Consejo Directivo calificará el mérito de dichos antecedentes y citará al Cuerpo Arbitral, con el objeto de que éste se pronuncie sobre la integración de las ternas.
-
-La inclusión de cada interesado en la terna respectiva deberá ser aprobada por la mayoría absoluta del Cuerpo Arbitral.
-
-Aprobada la terna pertinente, será remitida al Presidente de la República para la designación del integrante que corresponda.
+Regla de aplicación de instrumentos colectivos a organizaciones afiliadas. Los convenios colectivos y pactos sobre condiciones especiales de trabajo de que trata este Título serán aplicables a los trabajadores afiliados a las organizaciones sindicales de base, previa aprobación de estos en asamblea de socios, de conformidad a lo dispuesto en sus estatutos. En caso de no existir regulación estatutaria aplicable, deberán ser aprobados en asamblea, por mayoría absoluta de los socios, en votación secreta celebrada ante un ministro de fe.
 
 #### Artículo 410
 
-Notificado que sea al interesado el decreto supremo de su designación, deberá éste prestar juramento ante el Presidente del Consejo Directivo al tenor de la siguiente fórmula:
-
-"¿Juráis por Dios desempeñar fielmente los encargos que se os entreguen en el ejercicio de vuestro ministerio con estricta lealtad e imparcialidad, conforme a los principios de la buena fe y de la equidad, a las leyes de la República y a las normas de este Cuerpo Arbitral?"
-
-El afectado responderá: "Sí. Juro".
-
-De lo anterior se dejará constancia escrita.
+Regla de aplicación de convenios en la micro y pequeña empresa, sin sindicatos. En la micro y pequeña empresa en que no exista sindicato con derecho a negociar, los convenios podrán ser extendidos a los trabajadores sin afiliación sindical, previa aceptación escrita de la extensión y del compromiso de pago de la cuota sindical ordinaria de la respectiva organización sindical.
 
 #### Artículo 411
 
-Los árbitros laborales cesarán en sus cargos en los casos siguientes:
+Regla de aplicación de pactos sobre condiciones especiales de trabajo en la micro y pequeña empresa, sin sindicatos. Podrán aplicarse los pactos sobre condiciones especiales de trabajo concordados conforme a las reglas de este Título en las empresas señaladas en el artículo anterior, siempre y cuando concurran los siguientes requisitos:
 
-a) Por inhabilidad sobreviniente de acuerdo con las causales previstas en el artículo 401.
+a) Que exista un convenio colectivo sobre condiciones comunes de trabajo y remuneración, suscrito entre las mismas partes para toda la vigencia del pacto sobre condiciones especiales de trabajo.
 
-La inhabilidad sobreviniente será declarada por el Consejo Directivo del Cuerpo Arbitral de oficio o a petición de parte;
+b) Que el convenio colectivo señalado se haya extendido a los trabajadores de la respectiva empresa, de conformidad a lo previsto en el artículo anterior.
 
-b) Por renuncia presentada ante el Consejo Directivo;
+c) Que la aplicación del pacto sobre condiciones especiales de trabajo sea aprobada por la mayoría absoluta de los trabajadores de la respectiva empresa, ante un ministro de fe.
 
-c) Por remoción acordada por el Consejo Directivo con el voto conforme de los dos tercios de sus miembros en ejercicio, cuando el afectado hubiere incurrido en notable abandono de sus deberes.
-
-Se entenderá que existe dicho abandono cuando el árbitro laboral no aceptare integrar el respectivo tribunal por más de una vez en el año calendario, no teniendo compromisos pendientes que resolver y siempre que a la fecha de la negativa no haya sido designado para conocer de a lo menos tres arbitrajes distintos en el mismo año calendario. Lo mismo sucederá cuando el árbitro laboral no constituyere el respectivo tribunal, abandonare culpablemente un procedimiento ya iniciado o no diere curso progresivo a los autos o trámites en los plazos que la ley o el compromiso señalen, y
-
-d) Por remoción acordada por el Consejo Directivo, en caso de incapacidad física permanente del árbitro para el ejercicio de la función o declaración de haber incurrido éste en mal comportamiento. Dicho acuerdo deberá adoptarse con el quórum indicado en la letra precedente.
-
-Los acuerdos que se pronuncien acerca de la inhabilidad o remoción de los árbitros laborales en conformidad a las letras a), c) y d) del presente artículo, serán notificados por el secretario ejecutivo del Consejo Directivo del Cuerpo Arbitral, o por el Inspector del Trabajo que éste designe, en conformidad al artículo 48 del Código de Procedimiento Civil y de su adopción podrá reclamarse ante la Corte Suprema.
-
-#### Artículo 412
-
-La reclamación a que se refiere el artículo anterior deberá ser interpuesta directamente ante la Corte Suprema, dentro del plazo de cinco días hábiles contados desde la notificación de la medida en contra de la cual se reclama. Este plazo se aumentará en conformidad a la tabla de emplazamiento que señala el artículo 259 del Código de Procedimiento Civil.
-
-La reclamación será conocida por la Corte Suprema, previo informe del reclamado, en el plazo de ocho días y de ello deberá darse cuenta en la Sala que designe el Presidente.
-
-#### Artículo 413
-
-En los casos señalados en el artículo 411, el árbitro laboral respectivo será eliminado de la nómina nacional de árbitros laborales, debiendo comunicarse esta circunstancia mediante una publicación en el Diario Oficial. En ella sólo se indicará el hecho de la eliminación, sin hacer mención a ningún otro antecedente.
-
-La misma publicación deberá efectuarse en caso de fallecimiento de un árbitro laboral.
-
-## Título XI
-
-NORMAS ESPECIALES
-
-#### Artículo 414
-
-En el caso de las empresas monopólicas, calificadas así por la Comisión Resolutiva establecida en el decreto ley N.° 211, de 1973, si la autoridad fijare los precios de venta de sus productos o servicios, lo hará considerando como costos las remuneraciones vigentes en el mercado, tomando en cuenta los niveles de especialización y experiencia de los trabajadores en las labores que desempeñan y no aquellas que rijan en la respectiva empresa.
+> **Nota.** El N° 36 del Art. 1° de la Ley 20940, publicada el 08.09.2016, al sustituir el Libro IV "De la Negociación Colectiva" del presente Código, eliminó los artículos 412, 413 y 414, así como el Título XI "Normas Especiales" en que se encontraba este último.
 
 # Libro V
 
