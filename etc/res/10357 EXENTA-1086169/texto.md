@@ -52,7 +52,9 @@ Resolución:
 
 .
 
-6.- Impútese la diferencia de 18.453 Unidades de Fomento, correspondientes al mayor valor de los subsidios asignados y reflejados en las Tablas insertas en los resuelvo precedentes de la presente resolución, a los recursos autorizados a la Región Atacama para el Programa de Protección del Patrimonio Familiar del año 2015, de las cuales 18.054 Unidades de Fomento corresponden al subsidio directo y 399 Unidades de Fomento a la Asistencia Técnica.
+6.- Impútese la diferencia de 10.500 Unidades de Fomento, correspondientes al mayor valor de los subsidios asignados y reflejados en las Tablas insertas en los resuelvos precedentes de la presente resolución, a los recursos autorizados a la Región Atacama para el Programa de Protección del Patrimonio Familiar del año 2015, de las cuales 10.329 Unidades de Fomento corresponden al subsidio directo y 171 Unidades de Fomento a la Asistencia Técnica.
+
+> **Nota.** Los numerales 1.1, 1.2, 1.3 y 1.4 del N° 1 de la Resolución 5230 Exenta, Vivienda, publicada el 28.04.2017, modifican los resuelvos 1, 2, 3 y 4, respectivamente, de la presente norma, en el sentido de eliminar los incrementos de montos de subsidios respecto de ciertas filas, de la manera que la citada norma indica.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
