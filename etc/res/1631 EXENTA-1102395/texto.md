@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 1.631 de fecha 21/04/2017, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación parcial del lote Nº 01-1, inmueble consistente en "Propiedad ubicada en Avenida Prieto número ciento diez, del loteo de los sitios cinco, seis, siete y ocho de la Quinta Bellavista, de esta ciudad", comuna de Temuco, rol de avalúo 1321-39. La superficie a expropiar aproximada es de 173,20 metros cuadrados, de aparente dominio de Distribuidora Uribe Limitada. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, arquitecto, Arturo Osvaldo Cantos Oyarzún, arquitecto, y Claudio Romo Sanhueza, arquitecto, fijó monto de indemnización provisional en $78.072.268 según informe Nº 01-1 de fecha 17/04/2017, pagadero contado.-
+
+Director (S) Serviu Región de la Araucanía.
