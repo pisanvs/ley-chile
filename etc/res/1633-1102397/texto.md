@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.633, de fecha 21/04/2017, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote N° 03-0, inmueble consistente en "Una parte de los sitios signados con los números tres y cuatro del plano de esta ciudad, ubicados en Avenida Prieto con un frente de catorce metros por cincuenta metros de fondo", comuna de Temuco, Rol de avalúo 1321-41. La superficie a expropiar aproximada es de 627,33 metros cuadrados, de aparente dominio de Sergio Gerardo Ernesto Cabrera Godoy. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, arquitecto, Arturo Osvaldo Cantos Oyarzún, arquitecto, y Claudio Romo Sanhueza, arquitecto, fijó monto de Indemnización Provisional en $288.552.663 según Informe N° 03-0 de fecha 17/04/2017, pagadero contado.-
+
+Director (S) Serviu Región de la Araucanía.
