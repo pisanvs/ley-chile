@@ -894,6 +894,18 @@ Jurisdicción : Porvenir, Primavera, Timaukel
 
 Mod. atención : Permanente
 
+Centro de Conciliación y Mediación de la Región de Magallanes y la Antártica Chilena
+
+Ciudad : Punta Arenas
+
+Jurisdicción
+
+conciliación : Punta Arenas
+
+Mediación : Punta Arenas
+
+Mod. atención : permanente.
+
 XIII REGIÓN METROPOLITANA ORIENTE
 
 Inspección Comunal del Trabajo Santiago Sur
