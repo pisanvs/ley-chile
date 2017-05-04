@@ -38,7 +38,7 @@ Para la ejecución de la asignación presupuestaria, regulada por el presente re
 
 #### Artículo 4º
 
-El Programa Salud Oral, comprenderá acciones destinadas a reparar el daño bucal de los beneficiarios, entre las que se contemplan, acciones clínicas de operatoria dental (obturaciones), endodoncia (recubrimiento pulpar y pulpotomías), cirugía bucal (exodoncias); acciones preventivas (control de placa bacteriana y técnica de cepillado, profilaxis, aplicación de sellantes, aplicación tópica de flúor); unidades educativas y enseñanza de hábitos de higiene bucal, otorgadas a cada estudiante atendido. Además, en los estudiantes beneficiarios se pueden realizar, según lo requieran, atenciones de radiografías y urgencias.
+El Programa Salud Oral, comprenderá acciones destinadas a reparar el daño bucal de los beneficiarios, entre las que se contemplan, acciones clínicas de operatoria dental (obturaciones), endodoncia (recubrimiento pulpar y pulpotomías), cirugía bucal (exodoncias); acciones preventivas (control de placa bacteriana y técnica de cepillado, profilaxis, aplicación de sellantes, aplicación tópica de flúor acciones preventivas e interceptivas de ortodoncia); unidades educativas y enseñanza de hábitos de higiene bucal, otorgadas a cada estudiante atendido. Además, en los estudiantes beneficiarios se pueden realizar, según lo requieran, atenciones de radiografías y urgencias.
 
 #### Artículo 5º
 
@@ -48,21 +48,23 @@ Los beneficiarios del Programa Salud Oral serán atendidos por profesionales de 
 
 Las prestaciones que recibirán los beneficiarios del Programa Salud Oral, se pueden clasificar en:
 
-a) Ingresos: Para los fines de este decreto, se entiende por ingresos, aquellas acciones clínicas de operatoria dental (obturaciones), endodoncia (recubrimiento pulpar y pulpotomías), cirugía bucal (exodoncias); acciones preventivas (control de placa bacteriana y técnica de cepillado, profilaxis, aplicación de sellantes, aplicación tópica de flúor); unidades educativas y enseñanza de hábitos de higiene bucal, otorgadas a cada estudiante que se atienda por primera vez.
+a) Ingresos: Para los fines de este decreto, se entiende por ingresos, aquellas acciones clínicas de operatoria dental (obturaciones), endodoncia (recubrimiento pulpar y pulpotomías), cirugía bucal (exodoncias); acciones preventivas (control de placa bacteriana y técnica de cepillado, profilaxis, aplicación de sellantes, aplicación tópica de flúor acciones preventivas e interceptivas de ortodoncia); unidades educativas y enseñanza de hábitos de higiene bucal, otorgadas a cada estudiante que se atienda por primera vez.
 
-b) Controles: Para los fines de este decreto, se entiende por controles las acciones clínicas de operatoria dental (obturaciones), endodoncia (recubrimiento pulpar y pulpotomías), cirugía bucal (exodoncias), acciones preventivas (control de placa bacteriana y técnica de cepillado, profilaxis, aplicación de sellantes, aplicación tópica de flúor); unidades educativas y enseñanza de hábitos de higiene bucal, otorgadas a cada estudiante que se atienda, para seguimiento en el Módulo Dental.
+b) Controles: Para los fines de este decreto, se entiende por controles las acciones clínicas de operatoria dental (obturaciones), endodoncia (recubrimiento pulpar y pulpotomías), cirugía bucal (exodoncias), acciones preventivas (control de placa bacteriana y técnica de cepillado, profilaxis, aplicación de sellantes, aplicación tópica de flúor acciones preventivas e interceptivas de ortodoncia); unidades educativas y enseñanza de hábitos de higiene bucal, otorgadas a cada estudiante que se atienda, para seguimiento en el Módulo Dental.
 
 c) Radiografías y urgencias dentales: Para los fines de este decreto, se entiende por urgencia dental, la consulta resultante de una demanda espontánea y que requiere de una acción clínica específica, la que será realizada en el Módulo Dental. Sin perjuicio de lo anterior, el beneficiario podrá ser derivado o requerir de exámenes complementarios para dar solución definitiva al motivo de consulta de la urgencia. La cantidad máxima de radiografías y de urgencias dentales será definida en el convenio que se suscribirá con el prestador de la atención referida.
 
 #### Artículo 7º
 
-Los valores establecidos por ingresos, controles, radiografías retroalveolares y/o "bitewing" y urgencias dentales, serán reajustados, según variación que experimente el índice de precios al consumidor (IPC), al cumplirse cada año de ejecución del convenio que se suscriba con la entidad que prestará la atención respectiva. Para los efectos del cálculo del reajuste anual, el período de vigencia del convenio se contará desde el 1 de enero al 31 de diciembre de cada año, excepto durante el primer año de actividades, en el cual el período de vigencia se contará desde la fecha de dictación del acto administrativo que aprueba el respectivo convenio hasta el 31 de diciembre del mismo año.
+Los valores establecidos por ingresos, controles, radiografías retroalveolares y/o "bitewing y urgencias dentales, serán reajustados según variación que experimente el índice de precios al consumidor (IPC), al cumplirse cada año de ejecución del Programa, que se materializará en los convenios que se suscriban con las entidades que prestarán la atención respectiva. Para efectos del cálculo del reajuste anual, el período de vigencia del convenio se contará desde el 1 de enero al 31 de diciembre de cada año.
 
 #### Artículo 8º
 
 La clasificación de los beneficiarios y de las prestaciones que recibirán, se describen en el siguiente cuadro:
 
 .
+
+> **Nota.** Las letras a, b y c del numeral 4 del artículo primero del Decreto 220, Educación, publicado el 04.05.2017, modifica el cuadro inserto en el artículo 8 de la presente norma, que clasifica los beneficiarios y las prestaciones de la manera que la citada norma indica.
 
 ## Título II
 
@@ -112,9 +114,11 @@ d) Financiar y pagar las atenciones odontológicas de acuerdo a la siguiente car
 
 .
 
-#### Artículo 11º
+> **Nota.** NOTA 1 El numeral 5 del artículo primero del Decreto 220, Educación, publicado el 04.05.2017, modifica la tabla inserta en el artículo 10 de la presente norma en el sentido de reemplazar en la primera columna, titulada "Tipo de comuna", la frase "Comunas vulnerables, según clasificación contenida en documento denominado Programa de Comunas Vulnerables, Experiencia de Implementación Durante el año 2009, del Ministerio de Salud", por la frase "Comunas aisladas (cuartil 1 y 2): ACTUALIZACIÓN ESTUDIO DIAGNÓSTICO Y PROPUESTA PARA TERRITORIOS AISLADOS, Unidad de Análisis Territorial, Departamento de Estudios y Evaluación, División de Políticas y Estudios, Subsecretaría de Desarrollo Regional y Administrativo. Comunas rezagadas: Política de zonas rezagadas.
 
-Los recursos que se traspasen serán utilizados para reparar el daño bucal y realizar las acciones de educación y prevención de la salud bucal, otorgando atención prioritaria y preferencial a aquellos alumnos beneficiarios cuyo sistema de salud corresponde al Fondo Nacional de Salud (Fonasa), a aquellos alumnos pertenecientes al Sistema Chile Solidario y a los alumnos inscritos en el sistema de salud privado (Isapre).
+#### Artículo 11
+
+Los recursos que se traspasen serán utilizados para reparar el daño bucal y realizar acciones de educación, prevención y promoción en salud bucal; otorgando atención prioritaria y preferencial a aquellos alumnos matriculados en los establecimientos educacionales municipales y particulares subvencionados, adscritos mediante convenio al Programa de Salud Oral que cumplen con lo exigido en el artículo 3º del presente Decreto.
 
 #### Artículo 12º
 
