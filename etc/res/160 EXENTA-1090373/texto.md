@@ -52,7 +52,7 @@ No podrán ser beneficiarios/as de este instrumento las cooperativas de ahorro y
 
 De resultar adjudicado, antes de la transferencia de los recursos, el/la Beneficiario/a deberá acreditar el cumplimiento de las normas laborales y tributarias aplicables a Corto para la entrega de subsidios.
 
-El Comité podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el/la Beneficiario/a consiente en ello por el solo hecho de la postulación al instrumento.
+Sercotec podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el beneficiario/a consiente en ello por el solo hecho de la postulación al instrumento.
 
 ### 3. ETAPAS Y PLAZOS
 
@@ -80,9 +80,7 @@ Sin perjuicio de lo anterior, para efectos de la rendición de cuentas, se acept
 
 ### 4. MODELO DE ADMINISTRACIÓN
 
-La administración de este instrumento se encuentra externalizada, a través de entidades públicas o privadas, denominadas Agentes Operadores Intermediarios (AOI) de Corfo y/o Sercotec. Ellos, en conformidad a este Reglamento, son los habilitados para postular y administrar los proyectos de empresas interesadas, además, son los responsables de velar por el cumplimiento de las obligaciones financieras, de las actividades y objetivos del instrumento.
-
-Cuando circunstancias excepcionales así lo ameriten, el Consejo Directivo del Comité de Desarrollo Productivo Regional podrá resolver que uno o más de estos proyectos sean evaluados, supervisados y administrados directamente por el mismo, determinando los procedimientos respectivos.
+La administración del instrumento Juntos, Fondo para Negocios Asociativos será, por regla general, mediante la modalidad agenciada.
 
 La operación de los Proyectos deberá ajustarse a las instrucciones que imparta el Consejo Directivo del Comité de Desarrollo Productivo Regional en relación a los procedimientos.
 
@@ -106,19 +104,25 @@ No se podrán financiar impuestos recuperables ni gastos de operación, salvo qu
 
 ### 6. COSTO DE ADMINISTRACIÓN
 
-El Comité de Desarrollo Productivo Regional pagará al AOI hasta $4.000.O00.- (cuatro millones de pesos) durante la Etapa de Desarrollo, por año y por proyecto, por concepto de evaluación, supervisión, seguimiento y administración.
+Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración de la Etapa de Desarrollo, hasta la suma de $4.000.000.- (cuatro millones de pesos) por año y por proyecto.
 
 Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
 
 ### 7. CRITERIOS DE EVALUACIÓN
 
-La evaluación del proyecto se realizará por el Comité de Desarrollo Productivo Regional, para cuyos efectos podrá contar con la colaboración de entidades externas.
-
-Las evaluaciones para las Etapas de Análisis de Factibilidad y de Desarrollo se realizarán de conformidad con los citados criterios, a los que se les asignará una nota de 1 a 10, donde 1 es la más baja y 10 la más alta. La evaluación se realizará en base a números enteros.
+Las evaluaciones deberán realizarse de conformidad con criterios señalados más adelante, a los que se les asignará una nota de 1 a 10, donde 1 es la más baja y 10 la más alta. La evaluación se realizará en base a números enteros.
 
 No podrán ser recomendados para su aprobación o renovación aquellos que obtengan una evaluación total inferior a 7 o que en uno de sus criterios obtengan una calificación inferior a 5.
 
-Los criterios de evaluación para la Etapa de Análisis de Factibilidad serán los siguientes:
+Los criterios de evaluación y su ponderación para la Etapa de Análisis de Factibilidad serán los siguientes:
+
+.
+
+Los criterios de evaluación y su ponderación para la Etapa de Desarrollo serán los siguientes:
+
+.
+
+Los criterios de evaluación y su ponderación para la primera y segunda renovación de la Etapa de Desarrollo serán los siguientes:
 
 .
 
@@ -128,23 +132,23 @@ Este instrumento operará mediante alguno de los mecanismos que se describen a c
 
 a) Ventanilla abierta: permite postular en cualquier día del año durante la vigencia del instrumento.
 
-b) Concurso: permite postular durante un plazo fijo, situación que será comunicada mediante un aviso a través de la página web del Comité, el que deberá contener la fecha y hora de cierre de las postulaciones, un correo electrónico al cual dirigir las consultas y el sistema o medio disponible para realizar las postulaciones.
+b) Concurso: permite postular durante un plazo fijo, situación que será comunicada mediante un aviso a través de la página web del Comité, el que deberá contener la fecha y hora del cierre de las postulaciones, un correo electrónico del Comité al cual dirigir las consultas y el sistema o medio disponible para realizar las postulaciones.
 
 El mecanismo de postulación será determinado por el Director Ejecutivo del Comité.
 
-Desde la aprobación del presente Reglamento y hasta el mes de diciembre del presente año operará bajo el mecanismo de ...1
+Hasta el mes de diciembre del presente año el mecanismo de postulación será el de Ventanilla Abierta.
 
 Para los años posteriores la decisión sobre el mecanismo de postulación será adoptada en el mes de diciembre del año anterior, decisión que deberá ser comunicada por medio de un aviso en la página web del Comité.
 
-Las postulaciones se harán a través de un Agente Operador Intermediario, quien determinará si los/las postulantes son elegibles.
+En el marco del Plan de Acción Anual del Comité, aprobado por el Consejo Directivo del Comité, las postulaciones se harán a través de un Agente Operador Intermediario, quien determinará si las/los postulantes son elegibles.
 
-El AOI informará por escrito al Director Ejecutivo sobre la elegibilidad de los/las postulantes y de su evaluación del proyecto.
+El AOI informará por escrito a Sercotec sobre la elegibilidad de las/los postulantes y la evaluación de su proyecto.
 
-El Director Ejecutivo emitirá su recomendación técnica, para que el proyecto sea presentado al Consejo Directivo del Comité de Desarrollo Productivo Regional para su conocimiento y decisión.
+Sercotec revisará que las/los postulantes cumplan con los requisitos de elegibilidad y emitirá su recomendación técnica para que el proyecto sea presentado al Consejo del Comité de Desarrollo Productivo Regional para su conocimiento y decisión.
 
 El conocimiento y decisión sobre la asignación de recursos para la ejecución del proyecto corresponde al Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o subcomité, según corresponda, el que podrá aprobar estos proyectos y asignar el cofinanciamiento para su ejecución o rechazarlos.
 
-El Director Ejecutivo dictará el o los actos administrativos que ejecuten los acuerdos adoptados y ordenen la transferencia de los fondos a los Agentes Operadores Intermediarios.
+El Director Ejecutivo dictará el o los actos administrativos que ejecuten los acuerdos adoptados por el Consejo Directivo.
 
 No se podrá modificar el objetivo general de un proyecto.
 
@@ -152,15 +156,7 @@ El Director Ejecutivo del Comité tendrá facultades para modificar los proyecto
 
 Para estos efectos se considerarán aspectos sustanciales el aumento del monto o porcentaje de cofinanciamiento asignado al Proyecto, cualquier aumento de sus gastos de operación, el término anticipado del proyecto, el cambio de Agente Operador Intermediario, la modificación de sus objetivos específicos, y cualquier modificación de las empresas beneficiarias, aspectos que podrán ser modificados por el Consejo Directivo, actuando en pleno o en subcomité, según corresponda.
 
-------------------------------------------
-
-1 El Director Regional, conforme la decisión regional, deberá completar con uno de los dos mecanismos.
-
 La aprobación de estos proyectos, la asignación de recursos y su ejecución deberán ajustarse a las disposiciones del presente Reglamento y a las instrucciones que imparta el Comité de Desarrollo Productivo Regional, en relación a los procedimientos.
-
-Finalizada la Etapa de Análisis de Factibilidad, el AOI deberá presentar al Director Ejecutivo un informe final con la propuesta para la Etapa de Desarrollo.
-
-Aprobado el informe final, el proyecto deberá ser presentado al Consejo Directivo del Comité de Desarrollo Productivo Regional para el conocimiento y decisión sobre la ejecución de la Etapa de Desarrollo.
 
 ### 9. CONTRATO ENTRE EL AGENTE OPERADOR INTERMEDIARIO Y LOS BENEFICIARIOS
 
@@ -176,15 +172,15 @@ d) Las condiciones que deberán cumplirse para la transferencia de los recursos.
 
 e) Una declaración expresa de aceptación de las condiciones de operación del instrumento.
 
-f) La facultad del Comité de Desarrollo Productivo Regional de supervisar las actividades y la obligación de entregar, si el Comité así lo requiere, información periódica que le permita efectuar un adecuado control del avance del proyecto.
+f) La facultad del Comité de Desarrollo Productivo Regional y de Sercotec de supervisar las actividades y la obligación de entregar, si así lo requieren, información periódica que le permita efectuar un adecuado control del avance del proyecto.
 
 g) La obligación, dentro de los cinco años siguientes a la finalización del proyecto, de proporcionar a solicitud del Comité de Desarrollo Productivo Regional, información que haya sido relevante para el levantamiento de los indicadores del proyecto.
 
 ### 10. ANTICIPOS, GARANTÍAS Y RENDICIONES
 
-El Director Ejecutivo del Comité podrá autorizar anticipos a los Agentes Operadores Intermediarios para la ejecución y administración de los Proyectos. Los anticipos a los Agentes Operadores Intermediarios sólo podrán autorizarse previa entrega de una boleta de garantía bancaria pagadera a la vista o una póliza de seguro de ejecución inmediata o a primer requerimiento, por el total de los fondos anticipados.
+Sercotec podrá autorizar anticipos a los Agentes Operadores Intermediarios para la ejecución y administración de los Proyectos. Los anticipos a los Agentes Operadores Intermediarios sólo podrán autorizarse previa entrega de una boleta de garantía bancaria pagadera a la vista o una póliza de seguro de ejecución inmediata o a primer requerimiento, por el total de los fondos anticipados.
 
-El Agente Operador Intermediario deberá preparar oportuna y periódicamente los correspondientes informes y rendiciones de cuentas, conforme las instrucciones establecidas por el Consejo Directivo del Comité de Desarrollo Productivo Regional, y sin perjuicio de aquellas que imparta la Contraloría General de la República.
+El Agente Operador Intermediario deberá presentar oportuna y periódicamente los correspondientes informes y rendiciones de cuentas a Sercotec, conforme las instrucciones establecidas por el Comité de Desarrollo Productivo Regional, y sin perjuicio de aquellas que imparta la Contraloría General de la República.
 
 ### 11. MANUALES DE INSTRUMENTOS
 
@@ -197,5 +193,7 @@ Este Reglamento entrará en vigencia una vez que se encuentre totalmente tramita
 ### 13. NORMA TRANSITORIA
 
 Podrán postular a este instrumento los proyectos Juntos, Fondos para Negocios Asociativos, cuya ejecución haya sido apoyada por el Servicio de Cooperación Técnica - Sercotec, previo a la constitución de este Comité de Desarrollo Productivo Regional, que pasen a su Etapa de Desarrollo o la renueven. Para tales proyectos no será exigible la constitución de una nueva persona jurídica para la ejecución del proyecto de inversión grupal, prevista en el párrafo cuarto del numeral 5 de este Reglamento.
+
+> **Nota.** La Letra f del numeral 2 de la Resolución 117 Exenta, Economía, publicado el 09.05.2017, modifica la presente norma en el sentido de reemplazar el párrafo penúltimo del numeral 9 por el siguiente "Finalizada la Etapa de Análisis de Factibilidad, el AOI deberá presentar a Sercotec un informe final con la propuesta para la Etapa de Desarrollo.", actualización que no fue posible realizar, por no existir penúltimo párrafo.
 
 Anótese, regístrese en el Comité de Desarrollo Productivo Regional del Biobío, Corfo y publíquese en el Diario Oficial.- Juan Mardones Alarcón, Director Ejecutivo, Comité de Desarrollo Productivo Regional del Biobío.
