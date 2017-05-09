@@ -26,7 +26,7 @@ Asígnase para uso del Ministerio de Economía, Fomento y Turismo, el vehículo 
 
 #### Artículo tercero
 
-El vehículo previamente indicado, será conducido por los señores Valerio Silva González, Cédula de Identidad Nº 9.902.826-2; Claudio Reyes Duarte, Cédula de Identidad Nº 4.045.055-6; Jorge Fuenzalida Berríos, Cédula de Identidad Nº 10.837.675-9; Mauricio Chanalet Jeria, Cédula de Identidad Nº 15.360.165-8 y Mario Matamala Molina, Cédula de Identidad Nº 7.629.680-4, quienes deberán rendir caución, de acuerdo a lo establecido en el artículo 7 del decreto ley Nº 799, de 1974, del Ministerio del Interior.
+El vehículo previamente indicado será conducido por los señores Valerio Silva González, cédula de identidad Nº 9.902.826-2; Juan Luis Muñoz López, cédula de identidad Nº 9.204.737-7; Jorge Fuenzalida Berríos, cédula de identidad Nº 10.837.675-9; Mauricio Chanalet Jeria, cédula de identidad Nº 15.360.165-8; y Mario Matamala Molina, cédula de identidad Nº 7.629.680-4; quienes deberán rendir caución, de acuerdo a lo establecido en el artículo 7º del decreto ley Nº 799, de 1974, del Ministerio del Interior.
 
 #### Artículo cuarto
 
@@ -36,7 +36,7 @@ El vehículo antes individualizado deberá ser guardado en los siguientes recint
 
 2. Domicilio conductor Valerio Silva González, ubicado en calle Lo Encalada Nº 1961, Villa Canadá, comuna de Ñuñoa, ciudad de Santiago.
 
-3. Domicilio conductor Claudio Reyes Duarte, ubicado en avenida Elías Fernández Albano Nº 1521, comuna de San Ramón, ciudad de Santiago.
+3. Domicilio conductor Juan Luis Muñoz López, ubicado en pasaje Cerro Chena Nº 1321, El Mirador de Maipo, comuna de Puente Alto, ciudad de Santiago.
 
 4. Domicilio conductor Jorge Fuenzalida Berríos, ubicado en pasaje Curalaba Nº 488, Villa Ciudad Jardín, comuna de Maipú, ciudad de Santiago.
 
