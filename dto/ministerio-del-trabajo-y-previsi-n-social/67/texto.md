@@ -38,9 +38,9 @@ designe, quien presidirá el Consejo
 
 Administrativo.
 
-b) Subdirector Administrativo del Servicio de Salud
+b) Jefe Departamento Subdirección de Recursos
 
-Valdivia.
+Humanos del Servicio de Salud de Valdivia.
 
 c) Subdirector Administrativo del Hospital Clínico
 
@@ -84,13 +84,13 @@ En caso de fallecimiento del afiliado esta ayuda se otorgará en el siguiente or
 
 2.- Al cónyuge sobreviviente.
 
-3.- A los hijos legítimos.
+3.- Al conviviente civil.
 
-3.- A los hijos;
+4.- A los hijos.
 
-4.- A los padres
+5.- A los padres.
 
-5.- A la persona que acredite haber efectuado los gastos del funeral.
+6.- A la persona que acredite haber efectuado los gastos del funeral.
 
 También, se otorgará una ayuda para adquisición de nicho-
 
@@ -107,6 +107,8 @@ g) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves 
 h) Ayuda Médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificado como tales por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones a que alude la norma citada en el artículo 7º.
 
 INCISO ELIMINADO.
+
+i) Acuerdo de Unión Civil: cuando el afiliado/a celebre un Contrato de Acuerdo de Unión Civil. Si ambos contrayentes fuesen afiliados/as, la ayuda se pagará a cada uno de ellos en forma independiente.
 
 #### Artículo 9º
 
