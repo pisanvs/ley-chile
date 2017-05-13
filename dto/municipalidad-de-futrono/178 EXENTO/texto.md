@@ -18,12 +18,12 @@ Zonifíquese con tasas diferenciadas de patentes del área que tiene como límit
 
 . Por el sur Calle Avda, José Manuel Balmaceda
 
-. Por el norte Calle Avda. Bernardo O’Higgins
+. Por el norte Calle Avda. Bernardo O'Higgins
 
 . Por el oriente Calle Arturo Alessandri
 
 . Por el poniente calle Los Carrera.
 
-Rebájese la tasa para las patentes con domicilio en el área antes indicada a un 2,9 por mil.
+Rebájese la tasa para las patentes con domicilio en el área antes indicada a un 2,5 por mil.
 
 Anótese, comuníquese y archívese.- Jorge Tatter Oñate, Alcalde.- Rebeca Asenjo Jaramillo, Secretario Municipal.
