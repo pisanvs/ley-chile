@@ -108,6 +108,12 @@ El contratista o empresa constructora que construya la vivienda, deberá dar avi
 
 12. Para el pago del Certificado de Subsidio Habitacional, además de la verificación a que se refiere el resuelvo 11, se estará a lo dispuesto en los artículos 32 y 34 del DS N° 1 (V. y U.), de 2011, en lo que fuera procedente, debiendo cumplir la vivienda como mínimo con el programa arquitectónico a que se refiere el número 6 de esta resolución.
 
+En aquellos casos que el damnificado, al momento de la inscripción, hubiere acreditado la disponibilidad de terreno mediante alguno de los documentos señalados en el numeral xiii, letra c) del resuelvo 2. de la presente resolución, al momento del pago se deberá presentar copia de la inscripción de dominio del inmueble a nombre de la comunidad, con certificado de vigencia.
+
+Respecto de los damnificados que hubieren acreditado disponibilidad de terreno en la forma señalada en el numeral xiv, letra c) del resuelvo 2. de esta resolución, deberá acompañar copia de la inscripción de dominio a favor del propietario del sitio, con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de la presentación a cobro del subsidio y declaración notarial de éste, en que señale estar de acuerdo con la construcción de la nueva vivienda a cuyo financiamiento se aplicará el subsidio, junto con copia de la correspondiente escritura pública de constitución del usufructo por a lo menos 15 años, a nombre del beneficiario del subsidio o de su cónyuge o conviviente civil, sobre la porción de terreno en que se emplaza la vivienda construida con subsidio, con constancia de su inscripción en el Registro competente.
+
+Déjase establecido que los beneficiarios del presente llamado no estarán afectos a las prohibiciones a que se refiere el artículo 39, del DS Nº 1 (V. y U.), de 2011.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.
