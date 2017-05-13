@@ -62,19 +62,11 @@ EJE COMPAÑÍA - MERCED
 
 Eliminado.
 
-d) SANTO DOMINGO
+SANTO DOMINGO
 
-VÍA DESDE HASTA SENTIDO VÍA
+Eliminado.
 
-EXCLUSIVA
-
-SANTO DOMINGO Ismael Manuel Habitual
-
-Valdés Rodríguez O-P
-
-Vergara
-
-e) AV. JOSÉ JOAQUÍN PÉREZ
+d) AV. JOSÉ JOAQUÍN PÉREZ
 
 VÍA DESDE HASTA SENTIDO VÍA
 
@@ -84,7 +76,7 @@ AV. JOSÉ Av. Teniente Av. Walker Sólo calzada
 
 JOAQUÍN PÉREZ Cruz Martínez P-O
 
-f) SAN PABLO
+e) SAN PABLO
 
 VÍA DESDE HASTA SENTIDO VÍA
 
@@ -94,7 +86,7 @@ SAN PABLO Av. La Barros Sólo calzada
 
 Estrella Arana P-O
 
-g) IRARRÁZAVAL
+f) IRARRÁZAVAL
 
 VÍA DESDE HASTA SENTIDO VÍA
 
@@ -106,7 +98,7 @@ Bustamante norte de
 
 O-P
 
-h) SAN MARTÍN
+g) SAN MARTÍN
 
 Vía Desde Hasta Sentido Vía
 
