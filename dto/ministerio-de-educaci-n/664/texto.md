@@ -40,6 +40,8 @@ Objetivos del Programa.-
 
 BECAS CHILE tendrá como propósito principal asignar becas de estudio o investigación en todas las áreas del conocimiento y en cualquier país del mundo, excepto Chile, salvo el caso de los cursos de idioma contemplados en la letra a) del artículo 17º del presente decreto.
 
+Las bases concursales que elaboren las entidades ejecutoras, podrán priorizar disciplinas y/o áreas de estudio y/o población de interés.
+
 #### Artículo 3º
 
 Definiciones.-
@@ -48,11 +50,7 @@ Para efectos del presente reglamento, se entenderá por:
 
 a) Comité de Ministros del Sistema Bicentenario de Formación de Capital Humano Avanzado en el Extranjero (en adelante indistintamente Comité de Ministros o Comité): Instancia de coordinación interministerial, integrada por el Ministro de Educación -quien lo preside-, el Ministro de Hacienda, el Ministro de Economía, Fomento y Reconstrucción, el Ministro de Relaciones Exteriores, el Ministro de Planificación y el Presidente del Consejo Nacional de Innovación para la Competitividad, que fue constituida por la Presidenta de la República mediante el Instructivo Presidencial Nº 10, de fecha 03 de septiembre de 2008 que tiene como función principal definir la política, lineamientos, estrategias, programas, planes de trabajo en materias de formación de capital humano avanzado en el extranjero y metas de BECAS CHILE.
 
-b) Secretaría Ejecutiva:
-
-El Comité de Ministros a que se hace referencia en la letra a) precedente cuenta con una Secretaría Ejecutiva, cuya misión es actuar como soporte técnico y administrativo para el cumplimiento de los objetivos del Comité. Para ello, corresponde a la Secretaría Ejecutiva impulsar y coordinar la generación de propuestas a ser presentadas al Comité de Ministros y velar por su adecuada implementación. A su vez, corresponde a la Secretaría Ejecutiva representar al Comité de Ministros en las instancias o tareas que éste le encomiende.
-
-La Secretaría Ejecutiva del Comité de Ministros contará con un Secretario Ejecutivo el cual, de acuerdo a lo establecido en la Partida 09, Capítulo 01, Programa 32, Subtítulo 24, ítem 02, Glosa 01, de la Ley Nº 20.314, de Presupuesto del Sector Público para el año 2009, tiene la calidad de agente público para efectos de la ejecución del Programa BECAS CHILE.
+b) Eliminada.
 
 c) Entidades Ejecutoras: Organismos públicos
 
@@ -136,7 +134,7 @@ académicos universitarios de
 
 pedagogía en inglés.
 
-Las entidades ejecutoras considerarán, para la ejecución de los distintos programas de becas, los acuerdos e instrucciones que adopte o emita en su caso el Comité de Ministros y les corresponderá, en el ámbito de las funciones que le son propias, de acuerdo a las políticas y planes de trabajo establecidos por el Comité de Ministros, la elaboración de las bases concursales de las distintas becas que contempla el programa; difundir y promocionar los concursos; administrar los procesos de postulación; evaluar y seleccionar a los postulantes; adjudicar las becas y formalizar los convenios con los beneficiarios en virtud de los cuales se asigne la respectiva beca; implementar los acuerdos internacionales en las materias del presente decreto; coordinar, pagar, mantener comunicación, brindar apoyo y hacer seguimiento de los becarios beneficiados por BECAS CHILE; monitorear el cumplimiento de las exigencias de retorno y retribución exigidas en el presente reglamento y así como cualquier otra establecida en los convenios suscritos con dichas entidades ejecutoras.
+A las entidades ejecutoras les corresponderá, para la ejecución de los distintos programas de becas y en el ámbito de las funciones que le son propias, la elaboración de las bases concursales de las distintas becas que contempla el programa; difundir y promocionar los concursos; administrar los procesos de postulación; evaluar y seleccionar a los postulantes; adjudicar las becas y formalizar los convenios con los beneficiarios en virtud de los cuales se asigne la respectiva beca; implementar los acuerdos internacionales en las materias del presente decreto; coordinar, pagar, mantener comunicación y hacer seguimiento de los becarios beneficiados por Becas Chile; monitorear el cumplimiento de las exigencias de retorno y retribución exigidas en el presente reglamento, así como cualquier otra obligación establecidas en el presente reglamento, en las bases y convenios que los becarios suscriben con dichas entidades ejecutoras.
 
 #### Artículo 4°
 
@@ -172,11 +170,11 @@ Técnicos de Nivel Superior.
 
 12. Doctorado con Acuerdo Bilateral
 
-#### Artículo 5°
+#### Artículo 5º
 
 Número de becas.-
 
-Corresponderá al Comité de Ministros, determinar, el rango del número de becas disponibles para cada tipo de estudio, dependiendo de los recursos asignados al Programa en la Ley de Presupuestos para el Sector Público. El referido rango deberá quedar establecido en los respectivos convenios de transferencia que se firmen con las entidades ejecutoras.
+Los respectivos Comités de Selección de las entidades ejecutoras, señaladas en el artículo 13º del presente reglamento, sobre la base de las evaluaciones efectuadas por los Comités de Evaluación, propondrán a las entidades ejecutoras una lista de seleccionados, y por consiguiente, la propuesta del número de becas a otorgar. En base a estas propuestas, las entidades ejecutoras determinarán el número definitivo de seleccionados en conformidad con el artículo 14º del presente reglamento.
 
 ## Título II
 
@@ -376,53 +374,43 @@ debidamente validados en Chile.
 
 7) Subespecialidades Médicas:
 
-i. Ser chileno. Tratándose de
+i. Ser chileno. Tratándose de extranjeros,
 
-extranjeros, éstos podrán postular
+éstos podrán postular en caso que
 
-en caso que cuenten con permanencia
+cuenten con permanencia definitiva en
 
-definitiva en Chile.
+Chile.
 
-ii. Poseer el título de Médico Cirujano y
+ii. Poseer el título de Médico Cirujano.
 
-licenciatura en medicina.
+iii. Estar habilitado para ejercer legalmente
 
-iii. En el caso de los postulantes
+la profesión de médico en Chile
 
-extranjeros, estar habilitado para
+iv. Poseer al momento de la postulación la
 
-ejercer legalmente la profesión de
+certificación de la especialidad médica
 
-médico en Chile.
-
-iv. Poseer al momento de la postulación
-
-la certificación de la especialidad
-
-médica correspondiente.
+correspondiente.
 
 v. Poseer al menos dos años de experiencia
 
-laboral, jornada completa, en alguna
+laboral, en jornada de al menos 22 horas,
 
-de las siguientes instituciones:
+en alguna de las siguientes instituciones
 
-Servicios de Salud Pública;
+públicas: Servicios de Salud Pública;
 
-establecimientos de salud municipal;
+establecimientos de salud municipal; las
 
-las Fuerzas Armadas y Carabineros de
+Fuerzas Armadas y/o Carabineros de Chile;
 
-Chile; Universidades del Estado
+Universidades del Estado y sus respectivos
 
-reconocidas por éste y sus
+hospitales universitarios; servicios de
 
-respectivos hospitales
-
-universitarios; servicios de la
-
-Administración del Estado, empresas
+la Administración del Estado, empresas
 
 fiscales e instituciones autónomas.
 
@@ -548,43 +536,41 @@ de al menos 10 semestres de duración.
 
 #### Artículo 6º bis
 
-Beca de Doctorado en el Extranjero con Acuerdo Bilateral.- Esta beca financia estudios en el extranjero, conducentes a la obtención del grado académico de doctor, cuando exista un convenio suscrito entre la entidad ejecutora y una universidad, centro de investigación, institución gubernamental o institución de intercambio académico, en los cuales la contraparte comprometa el otorgamiento de beneficios a los becarios.
+Beca de Doctorado en el Extranjero con Acuerdo Bilateral.-
 
-Dichos acuerdos serán propuestos por el Comité de Ministros y, en el caso de tratarse de universidades o centros de investigación, éstos deberán estar catalogados entre los diez primeros a nivel mundial, de acuerdo a los rankings internacionales reconocidos por dicho Comité.
+Esta beca financia estudios en el extranjero, conducentes a la obtención del grado académico de doctor, cuando exista un convenio suscrito entre la entidad ejecutora y una institución gubernamental o de intercambio académico, en los cuales la contraparte comprometa el otorgamiento de beneficios a los becarios.
 
 La suscripción de los acuerdos señalados es sin perjuicio de la facultad de celebrar convenios internacionales en conformidad al artículo 30º del presente reglamento.
 
-Los beneficios otorgados por la entidad ejecutora en Chile, en conformidad al artículo 15º serán complementarios a los conferidos por las entidades extranjeras, los cuales quedarán establecidos en los acuerdos suscritos para tales efectos.
+Para la ejecución de esta beca podrá no ser aplicable lo señalado en el Párrafo tercero del Título II del presente reglamento, circunstancia de la que deberá dejarse constancia en las respectivas bases de postulación.
 
-Para la ejecución de esta beca podrá no ser aplicable lo señalado en los artículos 11º, 12º, 13º y 14º del presente reglamento en el caso que así se estipule en el respectivo Acuerdo Bilateral, circunstancia de la que deberá dejarse constancia en las respectivas bases de postulación.
+En el evento de no aplicarse el párrafo del reglamento antes señalado, para la ejecución de esta beca, se realizarán convocatorias públicas y abiertas, las que contendrán los requisitos que deberán cumplir los postulantes para ser seleccionados bajo esta modalidad.
 
-En el evento de no aplicarse los artículos antes señalados, para la ejecución de esta beca, se realizarán convocatorias públicas y abiertas, las que contendrán los requisitos que deberán cumplir los postulantes para ser seleccionados bajo esta modalidad.
+Una vez abierta la convocatoria, los postulantes deberán presentar sus antecedentes en la forma y condiciones establecidas en las bases respectivas, con el objeto que la entidad ejecutora acredite el cumplimiento de los requisitos exigidos para el otorgamiento de la beca.
 
-Una vez abierta la convocatoria, los postulantes deberán presentar sus antecedentes ante la entidad ejecutora según las bases respectivas, con el objeto de que aquella acredite el cumplimiento de los requisitos exigidos. Para estos efectos, los requisitos mínimos de postulación serán los siguientes:
+Para estos efectos, los requisitos mínimos de postulación serán los siguientes:
 
-a) Encontrarse seleccionado de manera incondicional, en el caso de las universidades o centros de investigación extranjeros; o contar con un patrocinio,en el caso de las instituciones gubernamentales o de intercambio académico de conformidad al Acuerdo Bilateral correspondiente; y
+a) Contar con un patrocinio de las instituciones gubernamentales o de intercambio académico de conformidad al Acuerdo Bilateral correspondiente; y
 
 b) Acreditar el cumplimiento de los requisitos establecidos en el numeral 12) del artículo 6º del presente reglamento.
 
-Para la asignación de esta beca, la entidad ejecutora, una vez recibidas las postulaciones, y sobre la base de las mismas, seleccionará a las personas que cumplen con los requisitos exigidos y que no se encuentren afectas a ninguna de las incompatibilidades reguladas en este reglamento.
+Para la asignación de esta beca la entidad ejecutora seleccionará a las personas que cumplan con los requisitos exigidos para la beca y que no se encuentren afectas a ninguna de las incompatibilidades reguladas en este reglamento.
 
-Constatado el cumplimiento de los requisitos exigidos se adjudicarán las becas mediante el respectivo acto administrativo.
+Constatado el cumplimiento de los requisitos exigidos para la beca se adjudicarán las mismas mediante el respectivo acto administrativo.
 
-Los postulantes serán notificados de su calidad de seleccionados por medio de carta certificada. Sin perjuicio de lo anterior, podrán ser notificados adicionalmente por medio de correo electrónico.
-
-La asignación de la beca se perfeccionará a través de la firma del convenio respectivo entre el seleccionado y la entidad ejecutora el cual será aprobado mediante el respectivo acto administrativo.
-
-#### Artículo 7°
+#### Artículo 7º
 
 Incompatibilidad.-
 
-No podrán ser beneficiarios de BECAS CHILE:
+No podrán ser beneficiarios de Becas Chile:
 
-1. Aquellos que a la fecha de postulación a BECAS CHILE tengan la calidad de beneficiario de otras becas con financiamiento del sector público para el mismo programa de estudios, grado académico e institución, en el extranjero.
+1.- Las personas que hayan percibido una Beca Chile o una beca administrada por Conicyt, incluidas las becas reguladas por el artículo 27 de la ley Nº 19.595, por el decreto con fuerza de ley Nº 1, de 1999, del Ministerio de Planificación y Cooperación y en el decreto con fuerza de ley Nº 22, de 1981, del Ministerio de Educación, para la obtención de un grado académico o certificación igual o superior al que postulan.
 
-2. Los que mantengan deudas o compromisos con instituciones públicas derivadas de su situación de becario. Sin perjuicio de lo anterior, podrán ser beneficiarios quienes mantengan compromisos pendientes derivados de su condición de becario de BECAS CHILE correspondientes a periodos de retorno y/o retribución previa autorización de la entidad ejecutora.
+Con todo, respecto de quienes hayan percibido una beca administrada por Conicyt para la realización de un doctorado podrán realizar un postdoctorado con una beca regulada por el presente reglamento, pero quienes hayan percibido una Beca Chile para la realización de un postdoctorado no podrán recibir con posterioridad ningún tipo de financiamiento regulado por este decreto.
 
-Podrán ser beneficiarios, de conformidad con los requisitos de cada beca, aquellas personas de nacionalidad chilena que residan en el extranjero y/o personas que al momento de la postulación se encuentren estudiando con una beca otorgada para un programa o grado distinto al que se está postulando y/o aquellas personas que hayan iniciado sus programas de estudios y desean financiar, con una beca, el periodo restante.
+2.- Los que mantengan deudas o compromisos con las entidades ejecutoras derivadas de su situación de becario. Sin perjuicio de lo anterior, podrán ser beneficiarios quienes mantengan compromisos pendientes derivados de su condición de becario, correspondientes sólo a periodos de retorno y/o retribución previa autorización de la entidad ejecutora.
+
+Ningún seleccionado de Becas Chile podrá ser beneficiario en forma simultánea de más de una Beca Chile.
 
 ### Párrafo 2°
 
@@ -594,13 +580,11 @@ Postulación a BECAS CHILE.
 
 Forma de postulación al sistema de becas.-
 
-La convocatoria pública de las distintas becas de estudios se realizará a través de avisos publicados en un diario de circulación nacional y de la página web www.becaschile.cl. Los interesados en postular a BECAS CHILE, deberán hacerlo a través de una plataforma única de postulación en línea en el mismo sitio web señalado.
+La convocatoria pública de las distintas becas de estudios se realizará a través de avisos publicados en un diario de circulación nacional y de la página web establecida por la entidad ejecutora en las bases concursales. Los interesados en postular a BECAS CHILE, deberán hacerlo a través de una plataforma única de postulación en línea en el mismo sitio web señalado.
 
 El período para realizar las postulaciones a las distintas becas que contempla BECAS CHILE no podrá ser inferior a 4 semanas.
 
-Con el fin de apoyar el proceso de postulación a que se hace referencia en el inciso precedente, la Secretaría Ejecutiva habilitará un sistema de consultas telefónicas cuyo horario de funcionamiento quedará establecido en el sitio web www.becaschile.cl.
-
-Sin perjuicio de lo señalado en los incisos anteriores, y con el solo propósito de difundir y comunicar a la ciudadanía el programa BECAS CHILE, la Secretaría Ejecutiva deberá realizar al menos una actividad de promoción y difusión al año, en cada región del país, con el fin de comunicar las oportunidades disponibles a lo largo de todo el territorio nacional.
+Inciso Suprimido.
 
 #### Artículo 9°
 
@@ -620,7 +604,7 @@ La postulación delegada no asegura la aceptación del becario en la IEE de dest
 
 Formulario de postulación.-
 
-Las personas que deseen postular a alguna de las becas que contempla BECAS CHILE deberán completar el formulario que estará disponible a través de la página web de BECAS CHILE, www.becaschile.cl. Dicho formulario deberá ser completado en línea o en papel, y enviado dentro de los plazos, lugar y modalidades de postulación, según corresponda, señalados por la respectiva entidad ejecutora. Los postulantes serán responsables de la veracidad, integridad y legibilidad de la información consignada en dicho formulario de postulación.
+Las personas que deseen postular a alguna de las becas que contempla BECAS CHILE deberán completar el formulario que estará disponible a través de la página web que establecerá la entidad ejecutora en las respectivas bases concursales. Dicho formulario deberá ser completado, y enviado dentro de los plazos, lugar y modalidades de postulación, según corresponda, señalados por la respectiva entidad ejecutora. Los postulantes serán responsables de la veracidad, integridad y legibilidad de la información consignada en dicho formulario de postulación.
 
 Además, los postulantes deberán proveer la documentación de respaldo en el momento que las entidades ejecutoras de la beca lo soliciten, así como todos los antecedentes e informaciones que éstas requieran como necesaria, durante el proceso de postulación y/o durante el período en que se esté percibiendo el beneficio.
 
@@ -646,7 +630,7 @@ Los Comités evaluarán los antecedentes de los postulantes que los hayan presen
 
 Criterios de Evaluación.-
 
-La evaluación de las postulaciones a las becas que contempla BECAS CHILE se realizará por parte de los respectivos Comités Evaluadores de acuerdo a los siguientes criterios:
+La evaluación de las postulaciones a las becas que contempla BECAS CHILE se realizará por parte de los respectivos Comités Evaluadores de acuerdo, a lo menos, a los siguientes criterios:
 
 a) Los antecedentes académicos y/o trayectoria y/o experiencia laboral del postulante.
 
@@ -658,29 +642,43 @@ d) El nivel, la calidad y la trayectoria de la institución educacional extranje
 
 Los rankings internacionales a utilizar en la evaluación serán fijados por las entidades ejecutoras respectivas.
 
-e) A su vez, y según el tipo de beca, se podrá considerar para efecto de la evaluación los siguientes criterios: región de residencia; pertenencia a etnias indígenas; nivel socioeconómico; presencia de discapacidad física; patrocinio laboral; presentación de proyectos de retribución; pertenencia al sector público; y/o postulación para realizar estudios en un área prioritaria definida por el Comité de Ministros.
+e) Suprimida.
 
 f) El proyecto de investigación y/o tesis propuesto por el postulante, cuando corresponda, según el tipo de estudio.
+
+Al puntaje final obtenido en la evaluación, de acuerdo a las condiciones y requisitos dispuestos en las bases que regulen cada concurso, se podrán otorgar bonificaciones adicionales considerando todos o algunos de los siguientes criterios: residencia y/o escolaridad y/o haber obtenido una Licenciatura y/o Título Profesional y/o la obtención del grado académico de doctor en una región distinta a la Metropolitana; pertenencia a etnias indígenas; nivel socioeconómico; presencia de discapacidad; trabajadores del sector público; postulación para realizar estudios en un área prioritaria definida por las entidades ejecutoras; y/o haber sido beneficiario de una beca de reparación para sus estudios de educación superior, regulada en el decreto Nº 97, del 2013, del Ministerio de Educación.
 
 #### Artículo 13º
 
 Selección.-
 
-Habrá un Comité de Selección encargado de proponer a la respectiva entidad ejecutora el número de becas a entregar sobre la base de las evaluaciones efectuadas por el Comité de Evaluación, para cada tipo de estudio, y dentro del rango a que hace referencia el artículo 5º.
+Habrá un Comité de Selección encargado de proponer a la respectiva entidad ejecutora el número de becas a entregar sobre la base de las evaluaciones efectuadas por el Comité de Evaluación, para cada tipo de estudio.
 
-Dicho Comité estará integrado por expertos de destacada trayectoria nacional y/o internacional en el ámbito de políticas de formación de capital humano avanzado e investigación que serán designados por la entidad ejecutora, los cuales podrán ser vetados por quien presida el Comité de Ministros, a través de la Secretaría Ejecutiva, más un integrante de la Secretaría Ejecutiva de BECAS CHILE. Los Comités de Selección serán presididos por los Jefes, Directores o responsables de las respectivas entidades ejecutoras, y estarán conformados por un mínimo de cinco miembros y máximo de veinticinco miembros, quienes actuarán ad honorem.
+Dicho Comité estará integrado por expertos de destacada trayectoria nacional y/o internacional en el ámbito de políticas de formación de capital humano avanzado e investigación que serán designados por la entidad ejecutora. Los Comités de Selección serán presididos por quienes lo dispongan las bases concursales, y estarán conformados por un mínimo de cinco miembros, quienes actuarán ad honorem..
 
 #### Artículo 14º
 
 De la nómina de selección y notificación.-
 
-Las entidades ejecutoras, sobre la base de las postulaciones evaluadas y seleccionadas, deberán emitir una nómina de postulantes seleccionados del concurso BECAS CHILE, la que considerará la individualización de todos los seleccionados para la obtención de los beneficios de la beca. Dicha nómina será publicada en la página web www.becaschile.cl.
+Las entidades ejecutoras, de acuerdo con la propuesta señalada en el artículo anterior y la disponibilidad presupuestaria existente, mediante el respectivo acto administrativo, establecerán la selección y adjudicación del concurso, el puntaje de selección, la nómina de todos/as los/as seleccionados/as para la obtención de la beca. Dicho acto administrativo será publicado en la página web de la respectiva entidad ejecutora.
 
-Los postulantes serán notificados de su calidad de seleccionados por medio de carta certificada.
-
-Sin perjuicio de lo anterior, podrán ser notificados adicionalmente por medio de correo electrónico a la dirección que señalen en el respectivo formulario de postulación.
+Inciso Eliminado.
 
 La asignación de la beca se perfeccionará a través de la firma del convenio respectivo entre el seleccionado y la entidad ejecutora una vez que sean aceptados en los respectivos programas de estudios en las instituciones académicas extranjeras.
+
+#### Artículo 14º bis
+
+De la asignación de las becas.
+
+La asignación de la beca se perfeccionará y sus derechos y obligaciones se harán exigibles con la total tramitación del acto administrativo que apruebe el convenio respectivo entre el seleccionado y la entidad ejecutora que corresponda. Para la suscripción del convenio mencionado, la entidad ejecutora podrá requerir documentación determinada, especificándolo en las bases concursales respectivas.
+
+Los beneficios de la beca se devengarán a partir de la fecha de adjudicación para quienes hayan iniciado sus estudios con anterioridad a dicha fecha o la indicada en el convenio de beca si la fecha de inicio de estudios fuere posterior a la adjudicación, la que en todo caso debe corresponder a la fecha de inicio de los estudios.
+
+Tanto para los alumnos regulares como para quienes inicien estudios con posterioridad a la adjudicación, la fecha de inicio y término de la beca se establecerá en el respectivo convenio.
+
+Un becario es aquel seleccionado cuyo convenio de beca ha sido totalmente tramitado a través del acto administrativo que lo aprueba, momento a partir del cual podrá gozar de los beneficios de la misma, de acuerdo a lo señalado en el respectivo convenio, debiendo cumplir con todas las obligaciones inherentes a su condición, establecidas en el presente reglamento y en las bases concursales.
+
+Las asignaciones de manutención mensual se otorgarán a partir del día en que se inicie la beca y se pagarán hasta el día en que ésta termine, de manera que para el primer y último mes sólo se pagarán las asignaciones en proporción a los días que correspondan. Lo anterior, no se aplicará a las demás asignaciones reguladas por el presente reglamento las cuales se pagarán íntegramente, las que en todo caso sólo corresponderán mientras la beca se encuentre vigente.
 
 ### Párrafo 4°
 
@@ -690,7 +688,7 @@ De los beneficios de las BECAS CHILE.
 
 Beneficios.-
 
-Los beneficios de las BECAS CHILE, sin perjuicio de aquellos particulares que se establezcan en los convenios que serán firmados por los becarios y que en ningún caso podrán ser mayores a los señalados en el presente decreto, son los siguientes:
+Las entidades ejecutoras de Becas Chile, entregarán como máximo los siguientes beneficios, sin perjuicio que alguno(s) de éstos podrán excluirse en las correspondientes bases concursales.
 
 1) Postdoctorado:
 
@@ -782,27 +780,7 @@ cónyuges o convivientes civiles
 
 ostenten la calidad de becarios, se
 
-perderá este beneficio. Con todo,
-
-el cónyuge o conviviente civil
-
-deberá residir junto al becario
-
-por un período no inferior al 50%
-
-de la estadía completa del becario
-
-financiada a través de la Beca Chile
-
-de postdoctorado. Este beneficio
-
-sólo se hará efectivo por cónyuges o
-
-convivientes civiles que posean
-
-nacionalidad chilena o extranjera con
-
-permanencia definitiva en Chile. En
+perderá este beneficio. En
 
 caso de que el becario contraiga
 
@@ -836,17 +814,7 @@ padres ostenten la calidad de
 
 becarios, sólo uno de ellos
 
-percibirá esta asignación. Con todo,
-
-los hijos deberán residir junto al
-
-becario por un período no inferior
-
-al 50% de la estadía completa del
-
-becario financiada a través de la
-
-BECA CHILE de postdoctorado. En caso
+percibirá esta asignación. En caso
 
 que el becario tenga un hijo con
 
@@ -892,19 +860,17 @@ manutención mensual para becarias
 
 con permiso de pre y post natal
 
-hasta por cuatro meses en total,
+hasta por seis meses en total. Los
 
-para lo cual deberán informar sobre
+meses utilizados por este motivo, no
 
-dicha situación a la correspondiente
+se considerarán para el cómputo del
 
-entidad ejecutora con el objeto de
+período original de la beca. Este
 
-evaluar si se dan las condiciones
+beneficio sólo podrá solicitarse
 
-exigidas en este literal para
-
-percibir el beneficio.
+durante la vigencia de la beca.
 
 2) Doctorado, Doctorado con Acuerdo Bilateral, Magíster, Magíster para Profesionales de la Educación, Subespecialidades Médicas, Pasantías para Técnicos de Nivel Superior y Cotutela de Doctorado:
 
@@ -970,9 +936,9 @@ el becario durante el programa de
 
 estudio, correspondiente al país y
 
-ciudad de destino, por 12 meses,
+ciudad de destino, renovable
 
-renovable anualmente hasta un máximo
+anualmente hasta un máximo
 
 de cuatro años contados desde el
 
@@ -1010,29 +976,9 @@ cónyuges o convivientes civiles
 
 ostenten la calidad de becarios,
 
-se perderá este beneficio. Con
+se perderá este beneficio.
 
-todo, el cónyuge o conviviente
-
-civil deberá residir junto al
-
-becario por un período no inferior
-
-al 50% de la estadía completa
-
-del becario financiada a través de
-
-la Beca Chile. Este beneficio sólo
-
-se hará efectivo por cónyuges o
-
-convivientes civiles que posean
-
-nacionalidad chilena o extranjera
-
-con permanencia definitiva en
-
-Chile. En caso de que el becario
+En caso de que el becario
 
 contraiga matrimonio o celebre un
 
@@ -1066,19 +1012,9 @@ ostenten la calidad de becarios,
 
 sólo uno de ellos percibirá esta
 
-asignación. Con todo, los hijos
+asignación. En caso que el becario
 
-deberán residir junto al becario por
-
-un período no inferior al 50% de la
-
-estadía completa del mismo
-
-financiada a través de la BECA
-
-CHILE. En caso que el becario tenga
-
-un hijo con posterioridad a la
+tenga un hijo con posterioridad a la
 
 adjudicación de la beca, éste deberá
 
@@ -1120,19 +1056,17 @@ manutención mensual para becarias
 
 con permiso de pre y post natal
 
-hasta por cuatro meses en total,
+hasta por seis meses en total. Los
 
-para lo cual deberán informar sobre
+meses utilizados por este motivo,
 
-dicha situación a la correspondiente
+no se considerarán para el cómputo
 
-entidad ejecutora con el objeto de
+del período original de la beca. Este
 
-evaluar si se dan las condiciones
+beneficio sólo podrá solicitarse
 
-exigidas en este literal para
-
-percibir el beneficio.
+durante la vigencia de la beca.
 
 xi. Beneficios asociados al curso de
 
@@ -1318,9 +1252,9 @@ obtención de los visados para
 
 el becario.
 
-Sin perjuicio de lo establecido anteriormente, el pasaje de ida y retorno para cónyuge o conviviente civil e hijos, la asignación de manutención por el cónyuge o conviviente civil e hijos y la extensión de la asignación de manutención mensual para becarias con permiso de pre y post natal serán otorgados solamente a aquellos becarios cuya duración de la beca sea igual o superior a los 12 meses y en caso que el cónyuge o conviviente civil e hijos residan junto al becario por un período no inferior al 50% de la estadía completa del mismo financiada a través de la BECA CHILE.
+Sin perjuicio de lo establecido anteriormente, el pasaje de ida y retorno para cónyuge o conviviente civil e hijos, la asignación de manutención por el cónyuge o conviviente civil e hijos y la extensión de la asignación de manutención mensual para becarias con permiso de pre y post natal serán otorgados solamente a aquellos becarios cuya duración de la beca sea igual o superior a los 12 meses.
 
-Los montos equivalentes a los beneficios entregados podrán ser pagados directamente al becario o a las instituciones educacionales extranjeras, de acuerdo a los convenios celebrados con estas últimas. Del monto de los beneficios se rebajarán todos aquellos similares que otorgue la institución de educación extranjera o le concedan convenios internacionales suscritos por Chile.
+Los montos equivalentes a los beneficios entregados podrán ser pagados directamente al becario o a las instituciones educacionales extranjeras.
 
 Para todas las becas señaladas en el presente artículo, los pasajes de regreso que se señalan se harán efectivos una vez que el beneficiario haya finalizado su programa de estudios, sea por término total, anticipado o, fracaso del mismo.
 
@@ -1328,7 +1262,7 @@ Para todas las becas señaladas en el presente artículo, los pasajes de regreso
 
 Acreditación del Nivel de idioma del postulante.-
 
-Los postulantes de Doctorado, Magíster, Magíster en Educación, Subespecialidades Médicas, Cotutelas de Doctorado y Pasantías para Técnicos de Nivel Superior que declaren que sus programas de preferencia se desarrollarán en alemán, francés o inglés deberán acreditar al momento de postular a la beca su nivel de idioma, a través de los exámenes o diplomas requeridos por las entidades ejecutoras.
+Los postulantes de Doctorado, Magíster, Magíster para Profesionales de la Educación, Subespecialidades Médicas, Cotutelas de Doctorado y Pasantías para Técnicos de Nivel Superior que declaren que sus programas de preferencia se desarrollarán en alemán, francés o inglés deberán acreditar su nivel de idioma, a través de los exámenes o diplomas u otros, requeridos por las entidades ejecutoras.
 
 Si los estudios que desea desarrollar se efectuaran en idiomas distintos a los mencionados, el postulante deberá acreditar un nivel de manejo del idioma y una carta de aceptación en el programa de estudios escogido, de acuerdo a lo señalado para tales efectos en las bases de postulación.
 
@@ -1336,7 +1270,7 @@ Si los estudios que desea desarrollar se efectuaran en idiomas distintos a los m
 
 Curso de Idioma.-
 
-Para los estudios de Doctorado, Doctorado con Acuerdo Bilateral, Magíster, Magíster en Educación, Subespecialidades Médicas, Cotutelas de Doctorado y Pasantías para Técnicos de Nivel Superior; la beca otorgada contemplará, además del programa específico, un curso de idioma extranjero en Chile o en el país donde se impartirán los estudios, de acuerdo al nivel de idioma del becario, las exigencias del programa de estudios del país de destino y los convenios internacionales vigentes.
+Para los estudios de Doctorado, Doctorado con Acuerdo Bilateral, Magíster, Magíster para Profesionales de la Educación, Subespecialidades Médicas, Cotutelas de Doctorado y Pasantías de Perfeccionamiento para Técnicos de Nivel Superior; la beca otorgada contemplará, además del programa específico, un curso de idioma extranjero en Chile o en el país donde se impartirán los estudios, de acuerdo al nivel de idioma del becario y las exigencias del programa de estudios del país de destino.
 
 Para efectos del curso de idioma, los postulantes serán clasificados, por la entidad ejecutora correspondiente, en tres niveles, según el dominio del idioma que presenten y según la exigencia de cada tipo de estudio, definido en el artículo 4º: el Nivel 1 está definido como aquél en el cual el becario no requiere de un curso de idioma para realizar estudios en el extranjero; el Nivel 2 está definido como aquél en el cual el becario posee un dominio intermedio del idioma; y finalmente, el Nivel 3 está definido como aquél en el cual el becario posee un nivel insuficiente de dominio del idioma requerido para realizar estudios en el extranjero.
 
@@ -1350,17 +1284,13 @@ El curso para Nivel 3 a desarrollarse en Chile, tendrá una duración mínima de
 
 máximo del curso financiado bajo esta modalidad no podrá exceder en total de $3.000.000 (tres millones de pesos) por becario.
 
-Para efectos determinar el porcentaje de financiamiento entregado por el Estado asociados a los costos inherentes al curso de idiomas realizados en Chile, una vez finalizado el proceso de evaluación y publicado el fallo de selección de la BECA CHILE, se clasificará a los seleccionados según el instrumento de caracterización socioeconómica dispuesto por la Secretaría Ejecutiva de BECAS CHILE para estos efectos, en tres grupos socioeconómicos:
-
-A, B y C. Siendo A el grupo de menor nivel socioeconómico. Esta clasificación será utilizada para efectos del financiamiento parcial, de acuerdo a la siguiente tabla:
-
-.
+Para efectos de eliminar porcentaje de financiamiento entregado por el Estado asociado a los costos inherentes al curso de idiomas realizado en Chile, una vez finalizado el proceso de evaluación y publicado el fallo de selección de la Beca Chile, se clasificará a los seleccionados en tres grupos socioeconómicos, según un único instrumento de caracterización socioeconómica que será utilizado para todas las becas reguladas en el presente reglamento, cuando corresponda. Esta clasificación será utilizada para efectos del financiamiento, de acuerdo a la siguiente tabla:
 
 Los becarios deberán cumplir con las condiciones exigidas para cada curso de idioma, las cuales serán fijadas por las entidades ejecutoras en los respectivos convenios que suscriban con los becario, de lo contrario, las entidades ejecutoras estarán facultadas para disponer el término anticipado de la beca y solicitar la restitución de los fondos entregados.
 
 El período utilizado para este curso de idioma no será considerado para el cómputo del plazo previsto para la duración del programa de estudios.
 
-b) Curso de idioma en el país donde se impartirán los estudios: Destinado a aquellos becarios de nacionalidad chilena que se encuentren aceptados condicionalmente al nivel de idioma en instituciones educacionales extranjeras que tengan convenio vigente con el Gobierno de Chile, o que pertenezcan a una asociación de instituciones educacionales que tiene convenio vigente con el Gobierno de Chile, o se encuentran en un país que tiene convenio vigente con el Gobierno de Chile; y que poseen un dominio del idioma de Nivel 1 o 2 y considerado aún insuficiente para alcanzar los niveles de idioma requeridos por la institución a la cual postulan y así iniciar el programa de estudios respectivo.
+b) Curso de idioma en el país donde se impartirán los estudios: Destinado a aquellos becarios que se encuentren aceptados condicionalmente al nivel de idioma en instituciones educacionales extranjeras; y que poseen un dominio del idioma de Nivel 1 o 2 y considerado aún insuficiente para alcanzar los niveles de idioma requeridos por la institución a la cual postulan y así iniciar el programa de estudios respectivo.
 
 El curso tendrá una duración máxima de 800 horas cronológicas, por un período máximo de seis meses.
 
@@ -1476,23 +1406,7 @@ civiles ostenten la calidad de
 
 beneficiario, se perderá este
 
-beneficio. Con todo, el cónyuge
-
-o conviviente civil deberá
-
-residir junto al becario por
-
-un período no inferior al 50%
-
-de la estadía completa del becario,
-
-sumando el período del curso de
-
-idioma más el del programa específico
-
-de estudios del becario financiada
-
-a través de la Beca Chile.
+beneficio.
 
 v. Asignación de manutención mensual por
 
@@ -1514,23 +1428,7 @@ ostenten la calidad de becarios,
 
 sólo uno de ellos percibirá esta
 
-asignación. Con todo, los hijos
-
-deberán residir junto al becario por
-
-un período no inferior al 50% de la
-
-estadía completa del becario,
-
-sumando el período del curso de
-
-idioma más el del programa
-
-específico de estudios del becario,
-
-financiada a través de la BECA
-
-CHILE.
+asignación.
 
 vi. Prima anual de seguro médico para el
 
@@ -1556,7 +1454,7 @@ correspondiente a US $500
 
 Los becarios deberán cumplir con las condiciones exigidas para cada curso de idioma, las cuales serán fijadas por las entidades ejecutoras en los respectivos convenios que suscriban con los becario, de lo contrario, las entidades ejecutoras estarán facultadas para disponer el término anticipado de la beca y solicitar la restitución de los fondos entregados.
 
-En el caso que el becario chileno o extranjero con permanencia definitiva en Chile que se encuentre aceptado condicionalmente al nivel de idioma en una institución educacional extranjera que no tenga convenio vigente con el Gobierno de Chile, o que no pertenezca a una asociación de instituciones educacionales que tiene convenio vigente con el Gobierno de Chile, o no se encuentren en un país que tiene convenio vigente con el Gobierno de Chile; y autogestione el curso de idioma en dicha institución educacional, éste podrá acceder a todos los beneficios asociados al curso de idioma recién descritos, a excepción del costo del curso propiamente tal, de acuerdo a lo que se señale en el convenio de beca respectivo.
+Inciso Suprimido
 
 Sin perjuicio de lo señalado en el presente artículo, un becario podrá realizar un curso de nivelación tanto en Chile como en el extranjero, en virtud de convenios internacionales suscritos con instituciones educacionales extranjeras para tales efectos.
 
@@ -1604,21 +1502,15 @@ En los casos que el becario se encuentre fuera del país la entidad ejecutora de
 
 Declaración jurada.-
 
-El becario deberá realizar una declaración jurada ante Notario Público o ante el Cónsul chileno en el extranjero, según formato elaborado y entregado por la entidad ejecutoras, una vez recibida la aceptación de la beca, manifestando que:
+El becario deberá realizar una declaración jurada ante Notario Público o ante el Cónsul chileno en el extranjero, según formato elaborado y entregado por la entidad ejecutora, una vez recibida la aceptación de la beca, manifestando que:
 
-a) No posee otras becas con financiamiento del sector público para los mismos fines.
+a) No posee algunas de las incompatibilidades señaladas en el artículo 7º del presente reglamento.
 
-b) No es becario de una beca CONICYT, MIDEPLAN, MECESUP, Pasantías Técnicos de Nivel Superior, ni del Programa Fortalecimiento del Aprendizaje en Inglés, ni del Programa de Perfeccionamiento de los Profesionales de la Educación, por el mismo programa de estudios por el cual se adjudicó la BECA CHILE, como tampoco poseer compromisos, deudas u otras obligaciones derivadas de su situación de becario con dichas entidades.
+b) Se compromete a cumplir con todas las condiciones y obligaciones que le impone la beca, establecidas en el presente reglamento, bases concursales y convenio de beca.
 
-c) Se compromete a aprobar en tiempo y forma los estudios que lo lleven a la obtención del título, grado académico, certificación, u otro similar, según correspondiere; sin perjuicio de quedar liberado de esta obligación en caso de fuerza mayor o caso fortuito o cualquier otra circunstancia analizada por las entidades ejecutoras.
+c) Para efectos de recibir los beneficios respectivos, si correspondiere, se compromete a residir junto con sus hijos menores de 18 años y/o cónyuge o conviviente civil en el extranjero durante sus estudios, si correspondiere, de acuerdo a los términos y requisitos establecidos en el presente reglamento.
 
-d) Se compromete a cumplir todas las obligaciones inherentes a la realización del curso de idioma en Chile y/o en el extranjero, en los casos que corresponda.
-
-e) Se compromete a tener dedicación exclusiva sus estudios y a abstenerse de ejecutar cualquier actividad remunerada, salvo la realización de actividades académicas y/o de investigación u otras remuneradas autorizadas en los convenios suscritos con los becarios que estén en directa relación con dichos estudios. Se exceptúa de esta restricción el periodo de tiempo comprendido entre el término de los estudios y el plazo máximo de retorno a Chile, según lo establecido en el artículo 25º del presente reglamento.
-
-f) Para efectos de recibir los beneficios respectivos, si correspondiere, se compromete a residir junto con su conviviente civil o cónyuge y/o sus hijos menores de 18 años en el extranjero durante sus estudios, si correspondiere, de acuerdo a los términos y requisitos establecidos en el artículo 24º letra j) del presente reglamento.
-
-La declaración jurada deberá señalar la fecha de inicio y término del programa de estudios o curso de idioma, según corresponda, como así mismo la fecha de inicio y término de la beca.
+La declaración jurada deberá señalar la fecha de inicio y término del programa de estudios y/o curso de idioma, según corresponda, como así mismo la fecha de inicio y término de la beca.
 
 #### Artículo 21º
 
@@ -1658,15 +1550,19 @@ j) Pasantías de Perfeccionamiento para Técnicos de Nivel Superior: El financia
 
 k) Cotutela de Doctorado: El financiamiento será de una duración máxima de veinticuatro meses, contados a partir de la fecha de inicio de los estudios.
 
+La duración de la beca no podrá exceder los plazos señalados en el inciso primero, siempre contados desde el ingreso del becario al programa de estudios. Los beneficios de la beca estarán vigentes hasta el plazo máximo señalado en el convenio o hasta el término de sus estudios, según el hito que suceda primero.
+
+Los becarios deberán informar la fecha efectiva en que éstos finalizan sus estudios. Las entidades ejecutoras podrán establecer, en las respectivas bases concursales, como fecha de fin de términos de los estudios la rendición del examen de grado o instancia equivalente u otro hito que éstas determinen, de modo tal que los beneficios de la beca percibidos con posterioridad a dichos términos deberán ser restituidos por los becarios.
+
+Podrán ser beneficiarios de una beca quienes inicien estudios o quienes sean alumnos regulares, según lo dispongan las entidades ejecutoras en las respectivas bases concursales. En el caso de los alumnos regulares, la beca financiará el resto del período de estudios a contar de la adjudicación del concurso, siempre y cuando el plazo total de la beca no exceda los plazos señalados en inciso primero, contados desde el ingreso del becario al programa de estudios.
+
 ### Párrafo 7°
 
 De las prórrogas, suspensiones, cambios de programa y/o términos anticipados de las BECAS CHILE, entre otras.
 
 #### Artículo 23º
 
-Las entidades ejecutoras de las BECAS CHILE, excepcionalmente y sólo previa evaluación de los antecedentes correspondientes, aceptarán solicitudes por parte de los becarios para cambios de universidades, instituciones educacionales, y/o centros de investigación, cambios de programas de estudios, suspensión de la beca, término anticipado, entre otras.
-
-Cada entidad ejecutora contará con un comité que evalúe cada uno de los casos presentados. Dicho Comité será designado por la misma entidad ejecutora y estará conformado por expertos, académicos, investigadores y profesionales pertenecientes al sector público y/o privado, chilenos o extranjeros, especialistas en las disciplinas pertinentes, de destacada trayectoria y reconocido prestigio, quienes actuarán ad honorem. Su número de miembros estará determinado conforme a las necesidades y al número de casos presentados.
+Las entidades ejecutoras de las Becas Chile, excepcionalmente y sólo previa evaluación de los antecedentes correspondientes, podrán aceptar solicitudes por parte de los becarios para sustituir sus preferencias de postulación; cambios de universidades, instituciones educacionales, y/o centros de investigación; cambios de programas de estudios; suspensión de la beca, con o sin beneficios; prórrogas de beca para iniciar estudios; prórrogas de retorno y retribución; prórrogas para el cumplimiento de las obligaciones, término anticipado en caso de fuerza mayor o caso fortuito sin restitución de fondos.
 
 ### Párrafo 8°
 
@@ -1680,7 +1576,7 @@ a) Hacer entrega de toda documentación solicitada por las entidades ejecutoras,
 
 b) Tramitar la obtención de la visa para sí y sus dependientes, si correspondiere.
 
-c) Completar los formularios correspondientes de acreditación socioeconómica, en el plazo que BECAS CHILE lo solicite, con el objeto de determinar el porcentaje de financiamiento del curso de idioma, en los casos que corresponda.
+c) Completar los formularios correspondientes de acreditación socioeconómica, en el plazo que la entidad ejecutora encargada de dicho formulario lo solicite, con el objeto de determinar el porcentaje de financiamiento del curso de idioma, en los casos que corresponda.
 
 d) Iniciar los estudios de idioma en Chile y/o el extranjero, según corresponda, de acuerdo a la naturaleza de la beca, en la fecha dispuesta por la entidad ejecutora, la que será especificada en el respectivo convenio de beca.
 
@@ -1694,19 +1590,23 @@ g) Aprobar en tiempo y forma los estudios que lo lleven a la obtención del tít
 
 i) Remitir certificado con las calificaciones obtenidas y/o avance del proyecto emitido por la institución de estudios para efectos de acreditar el progreso de sus estudios, según corresponda.
 
-j) Remitir anualmente, si correspondiere, una declaración jurada ante notario o cónsul del país donde curse sus estudios en el extranjero, según corresponda de acuerdo a la naturaleza de la beca, donde declara estar residiendo junto a sus hijos menores de 18 años y cónyuge o conviviente civil por un período mínimo del 50%, de la duración total de la beca.
+j) Remitir anualmente, si correspondiere, una declaración jurada ante notario o cónsul del país donde curse sus estudios en el extranjero, según corresponda de acuerdo a la naturaleza de la beca, donde señale estar residiendo junto a sus hijos menores de 18 años y/o cónyuge o conviviente civil.
 
 k) Proceder a informar a la entidad ejecutora en caso de ausencia del país donde se está realizando sus estudios por motivos académicos o de investigación.
 
-l) Informar a la entidad ejecutora de la beca, mediante certificado médico, cualquier situación relacionada con la salud del becario, para efectos de considerar un permiso sin suspensión de beca.
+l) Informar a la entidad ejecutora de la beca sobre situaciones de salud que le aquejen a él/ella o a quienes estén bajo su cuidado que impidan el normal cumplimiento de las obligaciones del/de la becario/a, para que la entidad ejecutora determine fundadamente si suspende la beca, con o sin beneficios, por el plazo y condiciones que ésta determine.
 
-m) Abstenerse de ejecutar cualquier actividad remunerada. Sólo se aceptarán la realización de actividades académicas y/o de investigación u otras remuneradas aceptadas que estén en directa relación con sus estudios. Se exceptúa de esta restricción el periodo de tiempo comprendido entre el término de los estudios y el plazo máximo de retorno a Chile, según lo establecido en el artículo 25º del presente reglamento.
+Asimismo, en el caso de situaciones de salud que resulten incompatibles con las actividades académicas, las entidades ejecutoras estarán facultadas para poner término a la beca sin restitución de fondos.
 
-n) Acreditar la obtención del grado académico, título, certificación u otro equivalente, una vez finalizada la beca y de acuerdo a los plazos y condiciones señalados en los convenios de beca.
+Excepcionalmente podrán autorizarse disminución de cargas académicas de los becarios por razones de salud que le aquejen a él/ella o a quienes estén bajo su cuidado, en tal caso se podrá prorrogar la beca por el término que la entidad ejecutora determine.
 
-ñ) Acreditar su regreso a Chile a la entidad encargada de la ejecución.
+m) Suprimida.
 
-o) Remitir una copia del contrato u otro documento vigente, para efectos de acreditar la relación laboral entre el becario y la institución patrocinante y su reincorporación, en el caso que haya declarado patrocinio laboral al momento de postular, según el tipo de beca.
+n) Suprimida.
+
+ñ) Suprimida.
+
+o) Acreditar relación laboral, según corresponda por el tipo de beca en conformidad con el artículo 26º, en la forma y condiciones que las entidades ejecutoras determinen en las bases respectivas.
 
 p) Suscribir un convenio de beca con la entidad ejecutora de acuerdo a lo establecido en el artículo 19º del presente reglamento.
 
@@ -1720,35 +1620,33 @@ Del retorno y la retribución.
 
 #### Artículo 25º
 
-Obligaciones una vez finalizada la beca: plazo máximo para retornar a Chile.-
+Obligaciones una vez finalizada la beca: plazo máximo para obtener el grado académico, título, certificación u otro equivalente, según el tipo de estudio o investigación, y retornar a Chile.-
 
-Al término de la beca, el becario tendrá un plazo máximo para retornar a Chile el cual dependerá del respectivo tipo de estudio:
+Al término de la beca el becario tendrá los siguientes plazos máximos para retornar a Chile y obtener el grado académico, título, certificación u otro equivalente, según el tipo de estudio o investigación:
 
-a) Postdoctorado: Tendrá un plazo máximo de 1 año para retornar a Chile.
+1.- Postdoctorado: Tendrá un plazo máximo de 2 años.
 
-b) Doctorado: Tendrá un plazo máximo de 2 años para retornar a Chile.
+2.- Doctorado y Doctorado con Acuerdo Bilateral: Tendrá un plazo máximo de 4 años.
 
-c) Magíster: Tendrá un plazo máximo de 1 año para retornar a Chile.
+3.- Magíster: Tendrá un plazo máximo de 2 años.
 
-d) Magíster para Profesionales de la Educación: Tendrá un plazo máximo de 1 año para retornar a Chile.
+4.- Magíster para Profesionales de la Educación: Tendrá un plazo máximo de 2 años.
 
-e) Pasantías doctorales: Tendrá un plazo máximo de 3 meses para retornar a Chile.
+5.- Pasantías doctorales: Tendrá un plazo máximo de 3 meses.
 
-f) Subespecialidades médicas: Tendrá un plazo máximo de 1 año para retornar a Chile.
+6.- Subespecialidades médicas: Tendrá un plazo máximo de 2 años.
 
-g) Pasantías de matemáticas y ciencias en el extranjero: Tendrá un plazo máximo de 3 meses para retornar a Chile.
+7.- Pasantías de matemáticas y ciencias en el extranjero: Tendrá un plazo máximo de 3 meses.
 
-h) Estudios de un semestre en el extranjero de alumnos de pedagogía en inglés: Tendrá un plazo máximo de 3 meses para retornar a Chile.
+8.- Estudios de un semestre en el extranjero de alumnos de pedagogía en inglés: Tendrá un plazo máximo de 3 meses.
 
-i) Diplomado en el extranjero para académicos universitarios de pedagogía en inglés:
+9. Diplomado en el extranjero para académicos universitarios de pedagogía en inglés: Tendrá un plazo máximo de 3 meses.
 
-Tendrá un plazo máximo de 3 meses para retornar a Chile.
+10.- Pasantías de Perfeccionamiento para Técnicos de Nivel Superior: Tendrá un plazo máximo de 3 meses.
 
-j) Pasantías de Perfeccionamiento para Técnicos de Nivel Superior: Tendrá un plazo máximo de 3 meses para retornar a Chile.
+11.- Cotutela de Doctorado: Tendrá un plazo máximo de 1 año.
 
-k) Cotutela de Doctorado: Tendrá un plazo máximo de 1 año para retornar a Chile.
-
-l) Doctorado con Acuerdo Bilateral: Tendrá un plazo máximo de 3 años para retornar a Chile.
+En caso de que los becarios retornen a residir en Chile antes del vencimiento de los plazos señalados precedentemente, se entenderá que renuncian al plazo restante para retornar.
 
 #### Artículo 26º
 
@@ -1758,101 +1656,95 @@ Una vez finalizada la beca, el becario tendrá, según corresponda, de acuerdo e
 
 a) Postdoctorado:
 
-El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
+El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de la forma que determine la entidad ejecutora en las bases respectivas. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
 b) Doctorado y Doctorado con Acuerdo Bilateral:
 
-El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
+El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de la forma que determine la entidad ejecutora en las bases respectivas. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
 c) Magíster:
 
-El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
+El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de la forma que determine la entidad ejecutora en las bases respectivas. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
 d) Magíster para Profesionales de la Educación:
 
-El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
+El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de la forma que determine la entidad ejecutora en las bases respectivas. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
 Además, el becario deberá acreditar su reincorporación laboral en el establecimiento de educación que autorizó la realización de los estudios de magíster, por al menos cuatro años dentro de un periodo de ocho años contados desde su regreso a Chile. Lo anterior, deberá acreditar a la entidad ejecutoras por medio de un contrato o documento vigente que acredite su situación laboral por al menos 22 horas semanales. En caso que el establecimiento de educación no reincorpore al becario, éste podrá reinsertarse laboralmente en cualquier establecimiento municipal o particular subvencionado en las mismas condiciones anteriores.
 
 e) Pasantías doctorales:
 
-El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
+El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de la forma que determine la entidad ejecutora en las bases respectivas. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
-Además, el becario, al retornar a Chile, deberá cumplir un Plan de Retribución a la comunidad, el que deberá contener al menos dos seminarios dirigidos a estudiantes de enseñanza media de colegios municipales y/o particulares subvencionados en el cual se explicite la experiencia científica del postulante y de su estadía en el extranjero. Al mismo tiempo, el postulante podrá proponer otras formas de retribución que considere importantes para el desarrollo de la comunidad escolar, universitaria y/o científica chilena, las cuales serán consideradas en el proceso de evaluación de los postulantes.
+Parrafo Suprimido
 
 f) Subespecialidades médicas:
 
-El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
+El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de la forma que determine la entidad ejecutora en las bases respectivas. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
 Además, el becario a su retorno deberá obligatoriamente y sin excepciones egresar a ejercer sus labores profesionales por un mínimo de 22 horas semanales, por el doble del período de duración de la beca, con un mínimo de 2 años, dentro de un periodo de hasta 8 años en un Servicio de Salud Pública; establecimientos de salud municipal; las Fuerzas Armadas o en el Cuerpo de Carabineros de Chile; Universidades del Estado reconocidas por éste y sus respectivos Hospitales Universitarios; Servicios de la Administración del Estado, empresas fiscales e instituciones autónomas.
 
 g) Pasantías de matemáticas y ciencias en el extranjero:
 
-El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
+El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de la forma que determine la entidad ejecutora en las bases respectivas. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
 Además, el becario que sea docente, al retornar a Chile, deberá acreditar su reincorporación laboral en el establecimiento de educación que autorizó la realización de los estudios, por al menos 2 años dentro de un periodo de 4 años contados desde su regreso a Chile. Lo anterior, deberá acreditar a la entidad ejecutoras por medio de un contrato o documento vigente que acredite su situación laboral por al menos 22 horas semanales. En caso que el establecimiento de educación no reincorpore al becario, éste podrá reinsertarse laboralmente en cualquier establecimiento municipal o particular subvencionado.
 
 h) Estudios de un semestre en el extranjero de alumnos de pedagogía en inglés:
 
-El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de certificados de residencia, los que eberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
+El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de la forma que determine la entidad ejecutora en las bases respectivas. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
 Además, el becario deberá, al retornar a Chile, reintegrarse a sus estudios regulares en la universidad que lo patrocinó. Una vez titulado, el becario deberá prestar servicios por al menos dos años en establecimientos educacionales regidos por el DFL (Ed.) Nº2 de 1998 y por el DL. Nº 3.166 de 1980, dentro de un periodo de cuatro años contados desde su retorno.
 
-i) Diplomado en el extranjero para académicos universitarios de pedagogía en inglés:
+i) Diplomado en el extranjero para académicos universitarios de pedagogía en inglés: El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de la forma que determine la entidad ejecutora en las bases respectivas. Si el becario regresa a Chile residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo período de duración de la beca.
 
-El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
+Además, el becario a su retorno deberá reintegrarse a sus labores académicas en una universidad que haya obtenido y mantenga vigente, al día de inicio de la retribución, la acreditación institucional en conformidad a lo establecido en la ley Nº 20.129, la que deberá haber sido otorgada, al menos, por el doble del período de duración de la beca y por un mínimo de un año.
 
-Además, el becario a su retorno deberá reintegrarse a sus labores académicas en la universidad que lo patrocinó por el doble del periodo de duración de la beca, por un mínimo de un año.
+j) Pasantías de Perfeccionamiento para Técnicos de Nivel Superior: El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de la forma que determine la entidad ejecutora en las bases respectivas. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo período de duración de la beca.
 
-j) Pasantías de Perfeccionamiento para Técnicos de Nivel Superior:
-
-El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
+Sin perjuicio de lo anterior la entidad ejecutora podrá establecer en las respectivas bases una forma distinta de efectuar la retribución, que se relacione con el área de perfeccionamiento desarrollada por la beca.
 
 k) Cotutela de Doctorado:
 
-El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
+El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de la forma que determine la entidad ejecutora en las bases respectivas. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
-El becario, al retornar a Chile, deberá cumplir un Plan de Retribución a la comunidad, el que deberá contener al menos dos seminarios dirigidos a estudiantes de enseñanza media de colegios municipales y/o particulares subvencionados en el cual se explicite la experiencia científica del postulante y de su estadía en el extranjero. Al mismo tiempo, el postulante podrá proponer otras formas de retribución que considere importantes para el desarrollo de la comunidad escolar, universitaria y/o científica chilena, las cuales serán consideradas en el proceso de evaluación de los postulantes.
+Parrafo Suprimido
 
-En los casos que exista patrocinio laboral, en el momento de su regreso a Chile el becario deberá acreditar a la entidad ejecutora, por medio de un contrato u otro documento vigente, la relación laboral entre el becario y la institución patrocinante y su reincorporación a dicha institución por un periodo mínimo de un año.
+Inciso Suprimido
 
-Las obligaciones de retorno y/o la retribución podrán suspenderse, previa autorización de la entidad ejecutora, en el caso de aquellos beneficiarios que habiendo estudiado con una BECA CHILE hayan sido beneficiados nuevamente con otra BECA CHILE otorgada para un programa y/o grado distinto al primero, ya sea obtenida inmediatamente o durante su periodo de retribución en Chile. En estos casos el cómputo total del tiempo para efectos de la retribución será la suma de todos ellos.
+Las obligaciones de retorno y/o retribución podrán suspenderse, previa autorización de la entidad ejecutora, en el caso de aquellos beneficiarios que habiendo estudiado con una Beca Chile prosigan a un programa y/o grado superior al primero, con una beca regulada por el presente reglamento, ya sea inmediatamente o durante su periodo de retribución en Chile. La suma de los tiempos de retribución se hará exigible al término del plazo máximo para retornar a Chile de la última beca.
 
-En el caso que ambos cónyuges o convivientes civiles estén beneficiados con una Beca Chile, pero con fechas de finalización de estudios distintas, el retorno y/o la retribución podrá posponerse, previa autorización de la entidad ejecutora, hasta la finalización de la beca del cónyuge o conviviente civil, según corresponda, que haya concluido último sus estudios, lo cual se acreditará mediante la correspondiente obtención del grado académico, título, certificación u otro equivalente, una vez finalizada la beca.
+Asimismo, podrán suspender su periodo de retorno y/o retribución quienes habiendo estudiado con una beca regulada por el presente reglamento prosigan a un doctorado o a un postdoctorado con recursos propios o con una beca distinta a la regulada en el presente reglamento, ya sea inmediatamente después de terminada su Beca Chile o durante su periodo de retribución en Chile. En tal caso, los becarios que realicen un doctorado o un postdoctorado que hayan financiado su estadía en el extranjero con recursos propios o con una beca distinta a la regulada por el presente reglamento deberán retornar a Chile dentro del plazo de ocho y cuatro años, respectivamente, contados desde el inicio del doctorado o postdoctorado, término a partir del cual deberán iniciar su periodo de retribución correspondientes a sus obligaciones de becario de Becas Chile.
 
-Serán autorizados a suspender su periodo de retorno y/o retribución los becarios cuyos cónyuges o convivientes civiles se vean afectados por funciones que les sean encomendadas por el Estado y que por ello deban desempeñarse fuera de Chile.
+En el caso de ambos cónyuges o convivientes civiles estén financiados con una Beca Chile, pero con fechas de finalización distintas de sus becas, el retorno y/o retribución de ambos se pospondrá, previa autorización de la entidad ejecutora correspondiente, hasta la finalización del plazo máximo establecido en el artículo 25º relativo al cónyuge o conviviente civil cuya beca haya concluido última.
 
-Finalmente, los funcionarios del Estado que deben realizar alguna misión encomendada por el Estado fuera del país se encontrarán autorizados para suspender su retribución.
+Serán autorizados a suspender su periodo de retorno y/o retribución los becarios cuyos cónyuges o convivientes civiles se vean afectados por funciones que les sean encomendadas por el Estado y que por ello deban desempeñarse fuera de Chile. En tal caso, deberá retornar a Chile una vez que el cónyuge o conviviente civil concluya dichas funciones.
+
+Finalmente, los funcionarios del Estado que deben realizar alguna misión encomendada por el Estado dentro o fuera del país se encontrarán autorizados para suspender su beca y/o obligaciones de ésta. En tal caso, deberá retomar sus estudios y/o retornar a Chile una vez que concluya dichas funciones.
 
 #### Artículo 27º
 
-Sanciones en caso de incumplimiento de las obligaciones por parte de becario.
+Sanciones en caso de incumplimiento de las obligaciones por parte de becario.-
 
-Las entidades ejecutoras se reservan el derecho de exigir a los becarios la restitución de la totalidad de los beneficios económicos pagados respecto de quienes sean eliminados, suspendan o abandonen sus labores de estudios e investigación, sin causa justificada, así como a quienes no cumplan con las obligaciones inherentes a su condición de becario establecidas en el presente reglamento o hayan alterado sus antecedentes o informes.
+Las entidades ejecutoras, a través de las acciones judiciales que correspondan o por medio de la ejecución del respectivo pagaré, exigirán a los becarios la restitución de la totalidad de los beneficios económicos pagados respecto de quienes sean eliminados, suspendan sus estudios sin estar autorizados por la entidad ejecutora, abandonen y/o renuncien a su programa de estudios, así como a quienes no cumplan con las obligaciones inherentes a su condición de becarios/as o hayan adulterado sus antecedentes o informes.
 
-Además, éstos no podrán postular o participar nuevamente a cualquiera de los concursos establecidos en el presente reglamento.
+En el evento que por caso fortuito o fuerza mayor, el/la becario/a se vea impedido/a de cumplir con las obligaciones señaladas en el presente reglamento, en las bases concursales correspondientes y en el convenio de beca, la entidad ejecutora correspondiente podrá declarar el término de la relación jurídica con éste, sin solicitar la restitución de fondos.
+
+En el caso de Doctorado y Doctorado con Acuerdo Bilateral, no se solicitará la devolución de los fondos otorgados en los casos de aquellos que sean eliminados de su programa de doctorado por motivo de la reprobación del examen de calificación o instancia equivalente
 
 ## Título III
 
-DE LOS CONVENIOS DE TRANSFERENCIA DE RECURSOS CON LAS ENTIDADES EJECUTORAS DE LAS BECAS CHILE
+DE LAS ENTIDADES EJECUTORAS DE LAS BECAS CHILE
 
 #### Artículo 28º
 
-De los convenios con las entidades ejecutoras.-
-
-De acuerdo a lo dispuesto en la Ley Nº 20.314, de Presupuesto del Sector Público para el año 2009, en la Partida 09, Capítulo 01, Programa 32, Subtítulo 24, ítem 02, Glosa 02, Los recursos necesarios para la ejecución de las BECAS CHILE por parte de las entidades ejecutoras, serán transferidos mediante convenios.
-
-Dichos convenios se someterán en todo a las normas y condiciones establecidas en el presente reglamento y deberán contener al menos: montos a transferir; modalidad y exigencias de transferencia y administración de los recursos; objetivos y metas; indicadores de desempeño y medios de verificación; presentación de informes técnicos y financieros; y las obligaciones de las entidades ejecutoras.
-
-Las entidades ejecutoras podrán suscribir, a su vez, convenios con otras entidades, públicas o privadas, para el desarrollo de tareas específicas con los recursos asignados, en la forma y condiciones que se establezcan en los convenios de transferencia a que se hace referencia en el inciso precedente.
-
-Será responsabilidad de las entidades ejecutoras el cumplimiento de las tareas específicas para las cuales fueron traspasados los recursos BECAS CHILE y garantizar la eficacia, eficiencia y transparencia en el uso de los recursos públicos involucrados, tanto en los convenios suscritos con la Secretaria Ejecutiva, como en los convenios señalados en el inciso precedente.
+Eliminado
 
 #### Artículo 29º
 
 Funciones de las entidades ejecutoras.-
 
-Las entidades ejecutoras, de acuerdo a las políticas, estrategias y planes de trabajo establecidos por el Comité de Ministros, y en virtud de los convenios señalados en el artículo anterior, tendrán como funciones mínimas para la ejecución de las BECAS CHILE, las siguientes:
+Las entidades ejecutoras tendrán como funciones mínimas para la ejecución de las Becas Chile las siguientes:
 
 a) La elaboración de las bases de postulación al programa específico de BECAS CHILE, en las materias de su competencia.
 
@@ -1936,9 +1828,9 @@ consignados directamente a los
 
 becarios.
 
-h) Coordinar con la Secretaría Ejecutiva las etapas que comprendan el proceso de postulación y selección de los becarios que hayan postulado a una BECAS CHILE.
+h) Eliminada.
 
-i) Entregar en forma oportuna, toda la información solicitada, ya sea por el Comité de Ministros o por la Secretaría Ejecutiva del Programa BECAS CHILE.
+i) Eliminada.
 
 TÍTULO FINAL
 
