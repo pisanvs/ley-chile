@@ -1,10 +1,20 @@
-ESTABLECE OBJETIVOS, LÍNEAS DE ACCIÓN Y PROCEDIMIENTO PARA LA IMPLEMENTACIÓN DEL PROGRAMA DE DIÁLOGO SOCIAL
+MODIFICA DECRETO N° 18 DEL MINISTERIO DEL TRABAJO Y PREVISIÓN SOCIAL QUE ESTABLECE OBJETIVOS, LÍNEAS DE ACCIÓN Y PROCEDIMIENTOS PARA LA IMPLEMENTACIÓN DEL PROGRAMA DIÁLOGO SOCIAL
 
-Núm. 18.- Santiago 14 de enero de 2009.- Vistos: Lo dispuesto en el artículo 32 Nº 6 de la Constitución Política de la República; en la glosa 04 asociada a la partida 15-01-01-24-01-432, de la Ley Nº 20.314 de Presupuestos del Sector Público para el año 2009, y la resolución Nº 1.600, del año 2008, de la Contraloría General de la República;
+Núm. 11.- Santiago, 3 de febrero de 2017.
 
-Considerando: Que es de vital importancia mantener una política clara que promueva la generación de instancias para el desarrollo del diálogo social en el país, principalmente para la interacción constante entre trabajadores/as, empleadores/as, gobierno y participantes activos de las relaciones socio - laborales, a nivel nacional, regional y/o sectorial, para impulsar la institucionalización de los mecanismos de diálogo y cooperación entre todos y cada uno de los actores del mundo del trabajo.
+Visto:
+
+Lo dispuesto en el artículo 32 N°6, de la Constitución Política de la República; en el decreto N° 18, de 2009, del Ministerio del Trabajo y Previsión Social, que establece objetivos, líneas de acción y procedimientos para la implementación del Programa Diálogo Social; la Ley de Presupuesto N°20.981 de Presupuestos del Sector Público para el año 2017; en el decreto supremo 1.727, de 2016, del Ministerio del Interior y Seguridad Pública, que nombra a la Ministra del Trabajo y Previsión Social; en el decreto supremo N° 14 de 2014, del Ministerio del Trabajo y Previsión Social, que nombra Subsecretario del Trabajo; en el decreto exento N° 16, de 2017, que aprueba orden de subrogación del Subsecretario del Trabajo; en la resolución N° 40, de 2014, que nombra al Jefe de Gabinete del Subsecretario del Trabajo, y la resolución N° 1.600 de la Contraloría General de la República, y
+
+Considerando:
+
+Que el decreto N° 18 del Ministerio del Trabajo y Previsión Social, establece los componentes, objetivos, líneas de acción y procedimientos para la implementación del Programa Diálogo Social.
+
+Que, es importante establecer una política que promueva la generación y el fortalecimiento de las herramientas y capacidades con que cuentan los actores socio laborales para el desarrollo del diálogo social, así como impulsar la institucionalización de los mecanismos de diálogo y cooperación entre los actores del mundo del trabajo, para contribuir con la promoción del diálogo social y una cultura de relaciones laborales justas, modernas y colaborativas en el país.
 
 Decreto:
+
+Apruébase modificación al decreto 18, de 2009, del Ministerio del Trabajo y Previsión Social que establece objetivos, líneas de acción y procedimientos para la implementación del Programa Diálogo Social:
 
 ## Título I
 
@@ -118,6 +128,6 @@ El Programa se financiará con cargo a los recursos consultados en la asignació
 
 En la ejecución del Programa podrán recibirse aportes y/o recursos adicionales mediante convenios marco intersectoriales de colaboración entre organismos del sector público y/u organismos internacionales, los cuales serán administrados por la Subsecretaría del Trabajo, de conformidad a este decreto.
 
-Anótese, tómese razón, regístrese, publíquese.- Por orden de la Presidenta de la República, Claudia Serrano Madrid, Ministra del Trabajo y Previsión Social.
+Anótese, tómese razón, regístrese y publíquese.- Por orden de la Presidenta de la República, Gabriela Alejandra Krauss Valle, Ministra del Trabajo y Previsión Social.
 
-Lo que transcribo a usted para su conocimiento.- Saluda a usted, Mauricio Jélvez Maturana, Subsecretario del Trabajo.
+Lo que transcribo a usted para su conocimiento.- Francisco Javier Díaz Verdugo, Subsecretario del Trabajo.
