@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 1.856 de fecha 05/05/2017, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 14-0, correspondiente al Inmueble consistente en el Sitio Número 7 del Plano de Loteo Santa Laura, ubicado en Temuco, Avenida Pedro de Valdivia, hoy Pedro de Valdivia número cero ciento sesenta y cinco, comuna de Temuco, Rol de avalúo 1321-8. La superficie a expropiar aproximada es de 382,70 metros cuadrados, de aparente dominio de Sociedad Aislapanel S.A. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $185.222.295 según Informe Nº 014-0 de fecha 28/04/2017, pagadero contado.
+
+Director (S) Serviu Región de la Araucanía.
