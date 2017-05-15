@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 1.853, de fecha 05/05/2017, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 11-0, correspondiente a Propiedad consistente en la Quinta número dos del plano formado por la Quinta Bellavista, ubicado en Avenida Pedro de Valdivia número cero ciento uno, de esta ciudad, comuna de Temuco, Rol de avalúo 1321-5. La superficie a expropiar aproximada es de 854,81 metros cuadrados, de aparente dominio de Inmobiliaria J. A. Rodríguez S.p.A. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $394.990.443 según Informe Nº 011-0 de fecha 28/04/2017, pagadero contado.-
+
+Director (S) Serviu Región de la Araucanía.
