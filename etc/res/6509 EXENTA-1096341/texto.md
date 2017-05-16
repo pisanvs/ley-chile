@@ -36,13 +36,13 @@ De la Entidad Desarrolladora
 
 1. Podrán ejecutar las actividades relacionadas con el Plan de Integración Social, las Entidades Desarrolladoras que firmen el Convenio a que se refiere el artículo 14º del DS Nº 19 (V. y U.), de 2016, pudiendo encargar dicha ejecución a un Prestador de Servicios de Asistencia Técnica, sin perjuicio de lo cual la responsabilidad derivada de esta prestación quedará siempre radicada en la Entidad Desarrolladora. Previo a la firma del Convenio, la Entidad Desarrolladora deberá informar al Serviu si ejecutará de forma directa las actividades del Plan de Integración Social, o si éstas serán realizadas por un Prestador de Servicios de Asistencia Técnica, en cuyo caso este Prestador de Servicios de Asistencia Técnica deberá estar inscrito en el Registro de Consultores del Minvu, regido por el DS Nº 135 (V. y U.), de 1978.
 
-2. Los antecedentes y documentos que deberá presentar la Entidad Desarrolladora, al momento de suscribir el Convenio son:
+2. Los antecedentes y documentos que deberá presentar la Entidad Desarrolladora, 60 días antes de la primera actividad son:
 
 - Copia autorizada ante Notario del título profesional de quienes ejecutarán las actividades del Plan de Integración Social. Dicho título profesional deberá ser otorgado por una Universidad o Instituto Profesional reconocido por el Estado.
 
 - Declaración Jurada de compromiso de tales profesionales, que asegure su participación y responsabilidad en las actividades que involucra esta asesoría.
 
-3. La Entidad Desarrolladora deberá contar con un número suficiente de profesionales competentes para desarrollar las actividades del Plan, profesionales que podrán ser del área técnica o social, según sea el carácter de cada actividad. El número de estos profesionales deberá estar acorde a la cantidad de beneficiarios que considere el proyecto y las particularidades que éste presente, de manera que permitan, a juicio del Serviu, el logro de los propósitos del Plan. Sin perjuicio de lo anterior, en ningún caso uno de estos profesionales podrá atender más de 600 familias simultáneamente. En caso de efectuarse un cambio de los profesionales que integran los equipos encargados de desarrollar el Plan, éste deberá ser informado a la brevedad al Serviu, el que deberá aprobar los reemplazos correspondientes.
+3. La Entidad Desarrolladora deberá contar con un número suficiente de profesionales competentes para desarrollar las actividades del Plan, profesionales que podrán ser del área técnica, social o legal, en cuyo caso se deberá acreditar la experiencia profesional, según sea el carácter de cada actividad. El número de estos profesionales deberá estar acorde a la cantidad de beneficiarios que considere el proyecto y a las particularidades que éste presente, de manera que permitan, a juicio del Serviu, el logro de los propósitos del Plan. Sin perjuicio de lo anterior, en ningún caso uno de estos profesionales podrá atender más de 600 familias simultáneamente. En caso de efectuarse un cambio de los profesionales que integran los equipos encargados de desarrollar el Plan, éste deberá ser informado a la brevedad al Serviu, el que deberá aprobar los reemplazos correspondientes.
 
 4. La supervisión del desarrollo del Plan de Integración Social ejecutado por la Entidad Desarrolladora, será realizada por el Serviu.
 
@@ -69,6 +69,12 @@ De las condiciones del Plan de Integración Social
 De las Etapas y Productos del Plan de Integración Social
 
 El Plan de Integración Social que se aplicará a los beneficiarios del Programa, de conformidad a lo señalado en el artículo 3º, letra c), del DS Nº 19 (V. y U.), de 2016, se desarrollará en dos etapas y contempla las áreas que a continuación se indican, con los correspondientes productos asociados:
+
+### I. ETAPA EJECUCIÓN DEL PROYECTO
+
+.
+
+### II. ETAPA EJECUCIÓN Y/O POST TÉRMINO DEL PROYECTO Y RECEPCIÓN DE LA DIRECCIÓN DE OBRAS MUNICIPALES
 
 .
 
