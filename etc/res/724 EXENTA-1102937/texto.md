@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 724 EXENTA, DE 6 DE ABRIL DE 2017
+
+Resolución exenta Nº 724, de 6 de abril de 2017, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, aprueba Contrato Ad-Referéndum de Concesión 6 para operar una planta revisora clase AB en la comuna de San Antonio y una planta revisora clase B en la comuna de Valparaíso, en la Región de Valparaíso, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso y el concesionario "Chilena de Revisiones Técnicas SpA", con vigencia de ocho años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Mauricio Candia Llancas, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
