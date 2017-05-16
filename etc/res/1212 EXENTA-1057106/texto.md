@@ -44,7 +44,7 @@ Podrán postular al Programa empresas privadas, comprendiendo en ese concepto a 
 
 Sin perjuicio de lo señalado en el párrafo anterior, no quedan comprendidas en el concepto de empresas privadas personas jurídicas, aquellas en las que una empresa o entidad pública nacional tenga una participación que supere el 40% de su capital o representación.
 
-Las empresas postulantes, sean personas naturales o jurídicas, o los socios, accionistas o titulares de estas últimas, no podrán poseer un patrimonio superior a U.F. 25.000.- (veinticinco mil Unidades de Fomento). Tratándose de socios personas jurídicas, la información deberá ser entregada respecto de las personas naturales que participen en ellas, sin importar el número de personas jurídicas existentes en la relación de sociedades en cascada.
+Las empresas postulantes, sean personas naturales o jurídicas, o los socios, accionistas o titulares de estas últimas, no podrán poseer un patrimonio superior a U.F. 50.000 (cincuenta mil Unidades de Fomento). Tratándose de socios personas jurídicas, la información deberá ser entregada respecto de las personas naturales que participen en ellas, sin importar el número de personas jurídicas existentes en la relación de sociedades en cascada.
 
 Para ser calificadas como empresas privadas, los postulantes personas naturales (empresarios individuales), deberán ser contribuyentes de Primera Categoría de la Ley sobre Impuesto a la Renta (DL 824/1974), condición que Corfo verificará con la información disponible en la página del Servicio de Impuestos Internos. En el caso de empresas extranjeras, esta calidad se acreditará mediante un certificado emitido por la autoridad competente del país de origen o, excepcionalmente, mediante Declaración Jurada, en el que conste que en el país de origen desarrolla una actividad similar a aquellas gravadas con el Impuesto de Primera Categoría en Chile.
 
@@ -62,11 +62,9 @@ Para que tales componentes de la inversión sean financiables, deberán ser dete
 
 Se entenderá por proyectos de inversión productiva y de servicios, aquellos que tengan por objeto la producción y comercialización de bienes o servicios, que contribuyan al incremento de la actividad económica y generen nuevos empleos.
 
-3.2. Monto Máximo del Subsidio y Porcentaje de Cofinanciamiento
+3.2. Monto Máximo del Subsidio y Porcentaje de Cofinanciamiento.
 
-El subsidio del Programa consistirá en un cofinanciamiento de componentes, estimados por Corfo, determinantes para la instalación de la inversión, de hasta U.F. 1.500.- (mil quinientas Unidades de Fomento) por proyecto, el cual no podrá exceder del 35% de los recursos comprometidos por la empresa beneficiaria durante los dos primeros años de ejecución del proyecto de inversión productiva o de servicios.
-
-El valor en pesos de dicha unidad reajustable, será el que corresponda al día de adopción del Acuerdo que asigne el subsidio.
+El subsidio del Programa consistirá en un cofinanciamiento de componentes, estimados por Corfo, como determinantes para la instalación de la inversión, de hasta $40.000.000.- (cuarenta millones de pesos), por proyecto, el cual, no podrá exceder del 40% de los recursos comprometidos por la empresa beneficiaria durante los primeros doce meses de ejecución del proyecto de inversión productiva o de servicios.
 
 3.3. Órgano Competente para la Asignación del Subsidio
 
