@@ -20,7 +20,7 @@ b) La necesidad de fomentar el desarrollo de proyectos habitacionales en áreas 
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado hasta el último día hábil de los meses de abril y junio de 2017, ubicados total o parcialmente en los territorios de las comunas o áreas, o a las distancias de los sistemas de transporte que se indican en la siguiente tabla, de las regiones de Valparaíso, Biobío y Metropolitana:
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado hasta el último día hábil de los meses de abril, mayo y junio de 2017, ubicados total o parcialmente en los territorios de las comunas o áreas, o a las distancias de los sistemas de transporte que se indican en la siguiente tabla, de las regiones de Valparaíso, Biobío y Metropolitana:
 
 El Serviu de la Región respectiva será responsable de determinar si los proyectos que se presenten en este llamado especial se emplazan en los territorios o a la distancia de estaciones de sistemas de transporte definidos en la tabla precedente.
 
