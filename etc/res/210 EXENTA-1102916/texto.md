@@ -1,0 +1,5 @@
+RECHAZA RECURSO DE REPOSICIÓN CON JERÁRQUICO EN SUBSIDIO, ARTÍCULO N° 59 LEY N° 19.880, DE FECHA 16.08.2016, DEDUCIDO EN CONTRA DE RESOLUCIÓN N° 232 EXENTA, DE FECHA 07.06.2016, QUE RECHAZÓ SOLICITUD DE PAGO CON SUBROGACIÓN, PRESENTADA POR DOÑA ADRIANA FRESIA RIQUELME MOYA
+
+Por resolución exenta N° 210, de 21 de abril de 2017, del Director Nacional del Instituto de Previsión Social, se rechaza Recurso de Reposición con Jerárquico en Subsidio, artículo 59°, ley N° 19.880, que dedujera la exonerada política doña Adriana Fresia Riquelme Moya, en contra de resolución exenta N° 232, de 7 de junio de 2016, que le denegara la Solicitud de Pago de Cotizaciones Previsionales con Subrogación que impetrara, bajo el empleador Hijuela Las Mercedes Asentamiento Santa Mónica.
+
+Santiago, 10 de mayo de 2017.- Patricio Coronado Rojo, Director Nacional.
