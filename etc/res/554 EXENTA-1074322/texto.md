@@ -158,7 +158,7 @@ d) Si el beneficiario o uno o más integrantes del núcleo familiar declarado es
 
 e) En caso de Densificación Predial, se otorgará un subsidio adicional de hasta 150 Unidades de Fomento en caso que la superficie construida alcance 55 metros cuadrados, y el programa de recintos arquitectónicos incluya a lo menos 5 recintos conformados: un dormitorio con cabida para una cama de dos plazas, dos dormitorios con cabida para una cama de una plaza cada uno, una sala de estar-comedor-cocina y un baño con inodoro, lavamanos y ducha.
 
-13. El Certificado de Subsidio Habitacional tendrá una vigencia de doce meses, contados desde la fecha de su emisión consignada en el respectivo Certificado, plazo que podrá ser ampliado en seis meses más por resolución fundada del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Valparaíso.
+13. El Certificado de Subsidio Habitacional tendrá una vigencia de veintiún meses, contados desde la fecha de su emisión consignada en el respectivo Certificado, plazo que podrá ser ampliado en doce meses más por resolución fundada del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Valparaíso.
 
 14. Para el pago del Certificado de Subsidio Habitacional, se estará a lo dispuesto en los artículos 32 y letras a) e i) del artículo 34 del DS Nº 1 (V. y U.), 2011.
 
