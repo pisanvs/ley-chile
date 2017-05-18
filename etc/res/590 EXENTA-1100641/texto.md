@@ -412,6 +412,28 @@ Para todos los efectos el "arrendador" se considerará la persona a quien se rea
 
 Todos los aportes anteriormente señalados podrán entregarse por una única vez dentro del año presupuestario.
 
+7.3.2.6. Adquisición de enseres y artefactos básicos para el hogar.
+
+Se entiende como enser y artefacto básico del hogar todo utensilio, mueble o artefacto (WC, lavaplatos, lavamanos, estanques de agua u otros similares), requerido para otorgar las condiciones mínimas de habitabilidad de una vivienda y/o conectividad de su grupo familiar. La necesidad que será cubierta con dicho aporte debe ser explicitada y debidamente fundamentada en el informe social.
+
+Quedan excluidos de este ítem los artículos de lujo, así como los asociados a la tecnología y telefonía, televisores, equipos de música, tablets, celulares inteligentes o cualquier otro similar.
+
+7.3.2.7. Aportes para generar convenios en razón de la existencia de una deuda y/o efectuar el pago de deudas de servicios básicos.
+
+Son servicios básicos el suministro de electricidad, de agua potable y gas otorgado por la respectiva empresa de servicios. Esta prestación sólo podrá efectuarse por una sola vez dentro del año presupuestario.
+
+Se debe distinguir:
+
+- Si se trata de aportes para generar convenios para el pago de deudas de servicios básicos, se deberá acompañar:
+
+- La Propuesta de Convenio de Pago.
+
+- Fotocopia Cédula de Identidad del beneficiario del Programa - deudor del Convenio de Pago.
+
+- Si se trata de aportes para efectuar pago de deudas de servicios básicos:
+
+- Se deberá acompañar el documento que acredite que el beneficiario de la prestación del Programa, se encontraba residiendo en el inmueble, durante el período en que se generaron los pagos adeudados.
+
 7.3.3. Educación.
 
 7.3.3.1. Aportes para el pago de matrículas y/o aranceles en establecimientos de Educación Superior acreditados, y reconocidos por el Ministerio de Educación, siempre que se trate de alumnos regulares, y que se encuentren con una aprobación de a lo menos el 50% de las asignaturas del total de su carrera.
