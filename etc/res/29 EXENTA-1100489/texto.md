@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de todo tipo de vehículos motorizados, en calzada completa de la ruta C-397, en el tramo comprendido entre el kilómetro Nº 12 hasta el kilómetro N° 14, comuna de Tierra Amarilla, desde el día 1 de febrero de 2017 hasta el 30 de abril de 2017, entre las 13:30 hrs. y las 14:30 hrs. para la ejecución de las obras de tronadura que Compañía Contractual Minera Candelaria realizará.
+1. Prohíbase la circulación de todo tipo de vehículos motorizados, en calzada completa de la ruta C-397, en el tramo comprendido entre el kilómetro Nº 12 hasta el kilómetro N° 14, comuna de Tierra Amarilla, desde el día 1 de febrero de 2017 hasta el 31 de mayo de 2017, entre las 13:30 hrs. y las 14:30 hrs. para la ejecución de las obras de tronadura que Compañía Contractual Minera Candelaria realizará.
 
 2. Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
