@@ -602,17 +602,27 @@ ELIMINADO
 
 185,080 Simón Bolívar Línea Yungay/Puerto
 
-0,182 San Pedro R. San Pedro/Ventanas
+0,182 San Pedro R. San Pedro/
 
-1,040 Troncal R. San Pedro/Ventanas
+Ventanas
 
-2,170 Morandé R. Llay Llay/Los Andes
+1,040 Troncal R. San Pedro/
 
-26,760 Nuevo Palomar R. Llay Llay/Los Andes
+Ventanas
+
+2,170 Morandé R. Llay Llay/
+
+Los Andes
+
+26,760 Nuevo Palomar R. Llay Llay/
+
+Los Andes
 
 43,704 El Laberinto Ramal Llay Llay- Los Andes
 
-5,560 El Sauce R. Los Andes/Río Blanco
+5,560 El Sauce R. Los Andes/
+
+Río Blanco
 
 3,380 ELIMINADO
 
@@ -666,119 +676,75 @@ ELIMINADO
 
 99,038 Eliminado
 
-127,650 Paicaví R. Rucapequén/
+127,650 Paicaví R. Rucapequén/Concepción
 
-Concepción
+128,415 Aníbal Pinto R. Rucapequén/Concepción
 
-128,415 Aníbal Pinto R. Rucapequén/
+128,675 Calle Rengo R. Rucapequén/Concepción
 
-Concepción
+128,930 Calle Angol R. Rucapequén/Concepción
 
-128,675 Calle Rengo R. Rucapequén/
+129,050 Calle Prat R. Rucapequén/Concepción
 
-Concepción
+129,340 Andalién R. Rucapequén/Concepción
 
-128,930 Calle Angol R. Rucapequén/
+34,100 Sin Nombre Ramal San Rosendo/Talcahuano
 
-Concepción
+39,065 Cruce Nº1 Ramal San Rosendo- Talcahuano
 
-129,050 Calle Prat R. Rucapequén/
-
-Concepción
-
-129,340 Andalién R. Rucapequén/
-
-Concepción
-
-34,100 Sin Nombre Ramal San
-
-Rosendo/Talcahuano
-
-39,065 Cruce Nº1 Ramal San Rosendo-
-
-Variante Talcahuano
+Variante
 
 Hualqui -
 
 Quilacoya
 
-41,625 Cruce Nº2 Ramal San Rosendo-
+41,625 Cruce Nº2 Ramal San Rosendo- Talcahuano
 
-Variante Talcahuano
+Variante
 
 Hualqui -
 
 Quilacoya
 
-45,500 Hualqui Ramal San Rosendo/
+45,500 Hualqui Ramal San Rosendo/Talcahuano
 
-Talcahuano
+49,200 Periquillo R. San Rosendo/Talcahuano
 
-49,200 Periquillo R. San Rosendo/
+68,530 O'Higgins R. San Rosendo/Talcahuano
 
-Talcahuano
+72,960 Corhabit R. San Rosendo/Talcahuano
 
-68,530 O'Higgins R. San Rosendo/
+76,070 Los Perales R. San Rosendo/Talcahuano
 
-Talcahuano
+80,695 La Higuera R. San Rosendo/Talcahuano
 
-72,960 Corhabit R. San Rosendo/
+82,300 Hualpén R. San Rosendo/Talcahuano
 
-Talcahuano
+83,390 Bilbao R. San Rosendo/Talcahuano
 
-76,070 Los Perales R. San Rosendo/
+84,200 La Unión R. San Rosendo/Talcahuano
 
-Talcahuano
+85,026 Blanco R. San Rosendo/Talcahuano
 
-80,695 La Higuera R. San Rosendo/
+50,978 Forestal R. Curanilahue/Concepción
 
-Talcahuano
-
-82,300 Hualpén R. San Rosendo/
-
-Talcahuano
-
-83,390 Bilbao R. San Rosendo/
-
-Talcahuano
-
-84,200 La Unión R. San Rosendo/
-
-Talcahuano
-
-85,026 Blanco R. San Rosendo/
-
-Talcahuano
-
-50,978 Forestal R. Curanilahue/
-
-Concepción
-
-20,710 O'Higgins R. Renaico/
-
-Traiguén y
+20,710 O'Higgins R. Renaico/Traiguén y
 
 Traiguén/Púa
 
 0,200 Los Sauces
 
-Guadaba Ramal Los Sauces/
-
-Lebu
+Guadaba Ramal Los Sauces/Lebu
 
 2,821 Panamericana Ramal Temuco/Carahue
 
-24,635 Circunvalación Ramal Antilhue/
+24,635 Circunvalación Ramal Antilhue/Valdivia
 
 Valdivia
 
-27,280 Collico Ramal Antilhue/
+27,280 Collico Ramal Antilhue/Valdivia
 
-Valdivia
-
-13,360 Intersección Ramal Alameda-
-
-San
+13,360 Intersección Ramal Alameda-San
 
 Calle Tres Antonio
 
@@ -787,6 +753,10 @@ Poniente con
 Camino Melipilla
 
 22,940 Cerro El Plomo Ramal Concepción -
+
+Curanilahue
+
+23,080 Volcán Villarrica Sub Ramal Concepción-
 
 Curanilahue
 
@@ -1336,19 +1306,33 @@ Río Blanco
 
 108,200 Llolleo Ramal a Barrancas
 
-4,350 Victoria Ramal Paine/Talagante
+4,350 Victoria Ramal Paine/
 
-5,950 Viluco Ramal Paine/Talagante
+Talagante
 
-8,010 Campusano Ramal Paine/Talagante
+5,950 Viluco Ramal Paine/
 
-9,110 Estancillla Ramal Paine/Talagante
+Talagante
 
-15,650 Sin Nombre Ramal Paine/Talagante
+8,010 Campusano Ramal Paine/
 
-15,860 Sin Nombre Ramal Paine/Talagante
+Talagante
 
-19,460 Sin Nombre Ramal Paine/Talagante
+9,110 Estancillla Ramal Paine/
+
+Talagante
+
+15,650 Sin Nombre Ramal Paine/
+
+Talagante
+
+15,860 Sin Nombre Ramal Paine/
+
+Talagante
+
+19,460 Sin Nombre Ramal Paine/
+
+Talagante
 
 0,240 Centinela Ramal a Pichilemu
 
@@ -1574,9 +1558,17 @@ Curanilahue
 
 Coloradas Curanilahue
 
-6,680 Bío Bío Ramal Concepción/
+6,680 Bío Bío
 
-L. Coloradas Curanilahue
+L. Coloradas Ramal Concepción/
+
+Curanilahue
+
+12,240 Portal
+
+San Pedro Sub Ramal Concepción-
+
+Curanilahue
 
 26,615 Sin Nombre Ramal Concepción/
 
@@ -1686,27 +1678,17 @@ Sta. Bárbara
 
 ELIMINADO
 
-59,690 Santa Bárbara R. Sta. Fe/
+59,690 Santa Bárbara R. Sta. Fe/Sta. Bárbara
 
-Sta. Bárbara
+0,230 Sin Nombre R. Coigüe/Nacimiento
 
-0,230 Sin Nombre R. Coigüe/
+2,060 Sin Nombre R. Coigüe/Nacimiento
 
-Nacimiento
-
-2,060 Sin Nombre R. Coigüe/
-
-Nacimiento
-
-5,040 Sin Nombre R. Coigüe/
-
-Nacimiento
+5,040 Sin Nombre R. Coigüe/Nacimiento
 
 6,600 Est. Coigüe
 
-Norte Ramal Coigüe/
-
-Mulchén
+Norte Ramal Coigüe/Mulchén
 
 ELIMINADO
 
