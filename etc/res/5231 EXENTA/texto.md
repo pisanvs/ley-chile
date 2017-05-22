@@ -82,9 +82,7 @@ c) Mejoramiento y/o Ampliación de Vivienda Existente con Construcción o Mejora
 
 ### Párrafo 5º — Recursos Disponibles
 
-20. Los recursos involucrados para la selección ascienden a un total de 806.026,75 UF y su distribución regional será la indicada a continuación:
-
-.
+20. Los recursos involucrados para la selección ascienden a un total de 737.723 UF y su distribución territorial será la siguiente:
 
 21. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponden.
 
