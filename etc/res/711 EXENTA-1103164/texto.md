@@ -1,30 +1,30 @@
-EJECUTA ACUERDO DEL COMITÉ DE ASIGNACIÓN DE FONDOS - CAF, QUE DEJA SIN EFECTO ACUERDO DEL COMITÉ DE ASIGNACIÓN DE FONDOS - CAF, ADOPTADO EN SESIÓN Nº12/2015, Y ESTABLECE NUEVAS REGULACIONES PARA EL INSTRUMENTO "NODOS PARA LA COMPETITIVIDAD"; DEJA SIN EFECTO RESOLUCIÓN QUE INDICA Y APRUEBA NUEVO REGLAMENTO DEL PROGRAMA "NODOS PARA LA COMPETITIVIDAD"
+EJECUTA ACUERDOS DEL COMITÉ DE ASIGNACIÓN DE FONDOS - CAF, QUE DEJAN SIN EFECTO ACUERDO DEL COMITÉ DE ASIGNACIÓN DE FONDOS - CAF, ADOPTADO EN SESIÓN Nº 12/2015, Y ESTABLECEN NUEVAS REGULACIONES PARA EL INSTRUMENTO "NODOS PARA LA COMPETITIVIDAD"; DEJA SIN EFECTO RESOLUCIÓN QUE INDICA Y APRUEBA NUEVO REGLAMENTO DEL PROGRAMA "NODOS PARA LA COMPETITIVIDAD"
 
-Núm. 2.267 exenta.- Santiago, 21 de diciembre de 2015.
+Núm. 711 exenta.- Santiago, 12 de mayo de 2017.
 
 Visto:
 
-1. El Acuerdo de Consejo Nº 2.682, de 2011, modificado por el Acuerdo de Consejo Nº 2.769, de 2013, que regulan el Sistema de Fomento a la Calidad y a la Productividad, ejecutados por las resoluciones (A) Nº 30, de 2013 y Nº 42, de 2014, ambas del Vicepresidente Ejecutivo de Corfo.
+1. La resolución (A) Nº 91, de 2015, del Vicepresidente Ejecutivo, que "Ejecuta parcialmente Acuerdo de Consejo Nº 2.874, de 2015, que deja sin efecto Acuerdo de Consejo Nº 2.681, de 2011; y dicta nuevo texto que consolida disposiciones para el Comité de Asignación de Fondos - CAF y Comités de Asignación Zonales de Fondos - CAZ", en cuya letra A.13 se ha delegado en el CAF la facultad de "Aprobar la creación de los instrumentos de financiamiento, programas o concursos; establecer sus objetivos generales, montos y porcentajes máximos de cofinanciamiento, plazos máximos de ejecución, definición de potenciales beneficiarios y criterios de evaluación, así como la modificación de alguno de estos elementos; previa propuesta del Gerente respectivo, a quien le corresponderá dictar el acto administrativo aprobatorio del texto definitivo del correspondiente Reglamento o Bases".
 
-2. El Acuerdo de Consejo Nº 2.770, de 2013, que consolida las normas que regulan al Comité de Asignación de Fondos - CAF y a los Comités de Asignación Zonal de Fondos - CAZ, puesto en ejecución por la resolución (A) Nº 28, de 2013, del Vicepresidente Ejecutivo, en cuya letra A.21 se ha delegado en el CAF la facultad de "Modificar y poner término a los Instrumentos y Programas creados por el Consejo de Corfo, cuya administración se encuentre entregada a la actual Gerencia de Competitividad -hoy Gerencia de Desarrollo Competitivo- de Corfo. Las modificaciones podrán decir relación con cualquiera de los elementos, condiciones y requisito establecidos en el acto de creación" y, en su letra A.17 se ha dispuesto que, le corresponde al CAF la aprobación de la creación de instrumentos, así como "establecer sus objetivos generales, montos y porcentajes máximos de cofinanciamiento, plazos máximos de ejecución, definición de potenciales beneficiarios y criterios de evaluación, así como de modificación de alguno de estos elementos".
+2. El Acuerdo alcanzado por el Comité de Asignación de Fondos - CAF, en su Sesión Nº 24/2015, de 17 de noviembre de 2015, ejecutado por resolución (E) Nº 2.267, de 2015, del Gerente de Desarrollo Competitivo, que aprueba normas para el instrumento Nodos para la Competitividad, aprobando además su Reglamento
 
-3. La resolución (E) Nº 1.292, de 2015, del Gerente de Desarrollo Competitivo, que regula el instrumento Nodos para la Competitividad.
+3. La resolución (E) Nº 2.342, de 2015, que "Ejecuta parcialmente Acuerdo de Consejo Nº 2.868, de 2015, e individualiza proyectos y programas que deben ser competencia de los Comités de Desarrollo Productivo Regional de las regiones de Antofagasta, Biobío y Los Ríos", que entrega la competencia a los CDPR de las regiones que indica, para conocer y decidir de los proyectos postulados al instrumento "Nodos para la Competitividad".
 
-4. El Acuerdo alcanzado por el Comité de Asignación de Fondos - CAF, en su Sesión Nº 24/2015, de 17 de noviembre de 2015, que "Deja sin efecto Acuerdo que indica y aprueba normas del instrumento "Nodos para la Competitividad"".
+4. El Acuerdo alcanzado por el Comité de Asignación de Fondos - CAF, en su Sesión Nº 7/2017, de 28 de marzo de 2017, que "Deja sin efecto Acuerdo que indica y aprueba normas del instrumento "Nodos para la Competitividad"".
 
-5. Lo dispuesto en el artículo 3º de la Ley Nº 19.880, que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado, en orden a que las decisiones de los órganos administrativos pluripersonales se llevarán a efecto por medio de resoluciones de la autoridad ejecutiva correspondiente.
+5. El Acuerdo alcanzado por el Comité de Asignación de Fondos - CAF, en su Sesión Nº 9/2017, de 25 de abril de 2017, que modificó el Acuerdo señalado en el Visto precedente.
 
-6. Que, las asignaciones anuales para estos proyectos son inferiores a 5.000 Unidades Tributarias Mensuales.
+6. Lo dispuesto en el artículo 3º de la Ley Nº 19.880, que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado, en orden a que las decisiones de los órganos administrativos pluripersonales se llevarán a efecto por medio de resoluciones de la autoridad ejecutiva correspondiente.
 
-7. Las facultades que me confiere la resolución (A) Nº 28, de 2013, del Vicepresidente Ejecutivo de Corfo, que aprueba el Reglamento del Comité de Asignación de Fondos - CAF y Comités de Asignación Zonal de Fondos - CAZ; la resolución (E) de Personal Nº 219, de 2015, modificada por la resolución (E) de Personal Nº 255, de 2015, que me asignó funciones como Gerente de Desarrollo Competitivo; y lo dispuesto en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
+7. Que las asignaciones anuales para estos proyectos son inferiores a 5.000 Unidades Tributarias Mensuales.
+
+8. Las facultades que me confiere la resolución (A) Nº 91, de 2015, del Vicepresidente Ejecutivo de Corfo, que aprueba el Reglamento del Comité de Asignación de Fondos - CAF y Comités de Asignación Zonal de Fondos - CAZ; la resolución (E) de Personal Nº 219, de 2015, modificada por la Resolución (E) de Personal Nº 255, Nº 293 y Nº 300, todas de 2015 y Nº 19 de 2016, que me asignó funciones como Gerente de Desarrollo Competitivo; y lo dispuesto en la resolución Nº 1.600, de 2008, modificada por la resolución Nº 10, de 2017, ambas de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
 
 Resuelvo:
 
-I.- Ejecútase el Acuerdo adoptado por el Comité de Asignación de Fondos - CAF, en su Sesión Nº 24, de 17 de noviembre de 2015.
+I° Ejecútanse los Acuerdos adoptados por el Comité de Asignación de Fondos - CAF, en su Sesión Nº 7/2017, de 28 de marzo de 2017 y Sesión Nº 9/2017, de 25 de abril de 2017, que aprueban las normas que regulan el instrumento "Nodos para la Competitividad".
 
-II.- Déjase sin efecto la resolución (E) Nº 1.292, de 2015, del Gerente de Desarrollo Competitivo, que regula el instrumento "Nodos para la Competitividad".
-
-III.- Aprúebase el nuevo Reglamento del instrumento Nodos para la Competitividad, cuyo texto es del siguiente tenor:
+II° Reemplázase el Reglamento aprobado en el numeral IIIº de la parte resolutiva de la resolución (E) Nº 2.267, de 2015, del Gerente de Desarrollo Competitivo, por el siguiente:
 
 REGLAMENTO DEL INSTRUMENTO NODOS PARA LA COMPETITIVIDAD
 
@@ -152,9 +152,131 @@ La evaluación se efectuará de conformidad con criterios y factores de evaluaci
 
 Los criterios de la evaluación para la Etapa de Diagnóstico serán los siguientes:
 
+Criterios de Evaluación Ponderación
+
+Aptitud del grupo de empresas:
+
+Se evaluarán las características productivas y de gestión de las 30%
+
+empresas, la conformación del grupo en cuanto a su potencial
+
+de trabajo colaborativo en relación a los objetivos del programa.
+
+Plan de Actividades:
+
+Se evaluará la congruencia y calidad en la formulación del Plan 30%
+
+de Actividades, en relación a los Beneficiarios y al propósito
+
+de la Etapa.
+
+Propuesta económica:
+
+Se evaluará la coherencia entre el presupuesto y el Plan de 15%
+
+Actividades presentado.
+
+Justificación Estratégica:
+
+Se evaluará la pertinencia del Proyecto respecto de su 25%
+
+contribución a los lineamientos estratégicos, según su foco
+
+(Sector - Territorio).
+
 Los criterios de evaluación para la Etapa de Desarrollo, serán los siguientes:
 
+Criterios de Evaluación Ponderación
+
+Plan de Actividades:
+
+Se evaluará la coherencia del Plan de Actividades, sus plazos, 35%
+
+indicadores y resultados esperados, con relación a las brechas
+
+y oportunidades detectadas en el Diagnóstico, su objetivo general
+
+y objetivos específicos del Proyecto.
+
+Propuesta económica:
+
+Se evaluará la coherencia entre el Plan de Actividades y el 15%
+
+presupuesto presentado.
+
+Resultados esperados:
+
+Se evaluará el impacto potencial del Proyecto, en relación con 30%
+
+las mejoras en productividad y competitividad de las empresas a
+
+través de:
+
+. La incorporación de capacidades y conocimientos para
+
+acceder, directa o indirectamente, a mercados
+
+internacionales
+
+. Agregación de nuevos conocimientos, técnicas y prácticas
+
+productivas, administrativas y comerciales.
+
+Justificación Estratégica:
+
+Se evaluará la pertinencia del Proyecto respecto de su 20%
+
+contribución a los lineamientos estratégicos, según su foco
+
+(Sector - Territorio).
+
 Los criterios de evaluación para la renovación de la Etapa de Desarrollo, serán los siguientes:
+
+Criterios de Evaluación Ponderación
+
+Ejecución técnica y presupuestaria del primer año:
+
+Se evaluará los resultados obtenidos, particularmente en el 25%
+
+cumplimiento de los indicadores, y la oportuna y correcta
+
+inversión de los recursos otorgados para la ejecución del
+
+Proyecto en el período anterior.
+
+Plan de actividades:
+
+Se evaluará la coherencia del Plan de Actividades, sus plazos, 35%
+
+indicadores y resultados esperados, con relación a las brechas y
+
+oportunidades detectadas en el Diagnóstico, su objetivo general
+
+y objetivos específicos del proyecto.
+
+Propuesta económica:
+
+Se evaluará la coherencia entre el Plan de Actividades y el 15%
+
+presupuesto presentado.
+
+Resultados esperados:
+
+Se evaluará el impacto potencial del Proyecto, en relación con 25%
+
+las mejoras en productividad y competitividad de las empresas a
+
+través de:
+
+. La incorporación de capacidades y conocimientos para
+
+acceder a mercados internacionales
+
+. El acceso mercados de exportación
+
+. Agregación de nuevos conocimientos, técnicas y prácticas
+
+productivas.
 
 9.- ASIGNACIÓN Y TRANSFERENCIA DE FONDOS
 
