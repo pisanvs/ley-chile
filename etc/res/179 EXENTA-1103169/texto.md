@@ -1,0 +1,11 @@
+INFORMA INICIO DE UN PROCESO DE PARTICIPACIÓN CIUDADANA SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 30 BIS DE LA LEY 19.300, EN EL MARCO DE LA EVALUACIÓN AMBIENTAL DE LA DECLARACIÓN DE IMPACTO AMBIENTAL DEL PROYECTO "PISCICULTURA SAN JOAQUÍN"
+
+Con fecha 12 de mayo de 2017 y mediante resolución exenta Nº 179/2017 del Director del Servicio de Evaluación Ambiental de la Región de Los Lagos, en el marco del procedimiento de evaluación de impacto ambiental del proyecto "Piscicultura San Joaquín", presentado por Cultivos Marinos Lago Yelcho SpA, con fecha de 17 de marzo de 2017, se ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, según lo establecido en el artículo 30 bis de la ley Nº 19.300.
+
+Cualquier persona natural o jurídica podrá formular observaciones a la Declaración de Impacto Ambiental, ante la Dirección Regional del Servicio. Las observaciones deberán formularse por escrito, contener sus fundamentos y referirse a la evaluación ambiental del proyecto o actividad. Conforme a la descripción del proyecto y a la tipología que hace obligatorio su ingreso al SEIA, es pertinente señalar que corresponde a un proyecto de cultivo intensivo de recursos hidrobiológicos, que cuenta con un sistema de tratamiento y disposición de residuos industriales líquidos, correspondiendo a aquellos contemplados en los literales n) y o) del artículo 10 de la Ley de Bases del Medio Ambiente (ley Nº 19.300), y a los literales n.5) y o.8) del Reglamento del Sistema de Evaluación de Impacto Ambiental DS Nº 40/2012 del Ministerio del Medio Ambiente.
+
+El plazo legal de 20 días para efectuar observaciones se contará desde la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del Servicio de Evaluación Ambiental, en Avenida Diego Portales 2000, oficina 401, Puerto Montt. Además, puede accederse a ella a través del sitio web www.sea.gob.cl.
+
+Alfredo Wendt Scheblein, Director Regional, Servicio de Evaluación Ambiental Región de Los Lagos.
