@@ -288,7 +288,7 @@ Tratándose de productos psicotrópicos que se encuentren incorporados en las Li
 
 #### Artículo 24°
 
-Las recetas cheques sólo podrán extenderse en los formularios oficiales que formen parte de talonarios que los Servicios de Salud proporcionarán a los médicos cirujanos, previa acreditación de su calidad profesional. En ellos deberá individualizarse claramente el Servicio de Salud y el nombre y cédula de identidad del médico cirujano.
+Las recetas cheques sólo podrán extenderse en los formularios oficiales que formen parte de talonarios que los Servicios de Salud proporcionarán a los médicos cirujanos, previa acreditación de su calidad profesional. En ellos deberá individualizarse el nombre y cédula de identidad del médico cirujano.
 
 Los formularios de recetas cheques serán de uso personal y exclusivo del profesional y no podrán transferirse ni cederse a ningún título.
 
@@ -570,6 +570,18 @@ METCATINONA 2-(metilamino)-1-
 
 fenilpropan-1-ona
 
+m-CPP o 1-(3-clorofenil)
+
+-piperazina
+
+5F-APINACA o o N-(1-adamantil)-
+
+5F-AKB48 1-(5-fluoropentil)-
+
+1H-indazol-
+
+3-carboxamida
+
 4-METILAMINOREX (±) -cis-2-amino-4-
 
 metil-5-fenil-2-
@@ -768,11 +780,9 @@ AMINEPTINA (ácido 7 - [(10,
 
 dibenzo [a, d]
 
-ciclohepteno-5
+ciclohepteno-5 il)
 
-il) amino]
-
-heptanoico)
+amino] heptanoico)
 
 KETAMINA ±2-
 

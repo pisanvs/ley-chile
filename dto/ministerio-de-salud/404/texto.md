@@ -308,7 +308,7 @@ Los talonarios de formularios de recetas cheques serán confeccionados por inter
 
 #### Artículo 25°
 
-Las recetas cheques sólo podrán extenderse en los formularios oficiales que formen parte de talonarios que los Servicios de Salud proporcionarán a los médicos cirujanos, previa acreditación de su calidad profesional. En ellos deberá individualizarse claramente el Servicio de Salud y el nombre y cédula de identidad del médico cirujano.
+Las recetas cheques sólo podrán extenderse en los formularios oficiales que formen parte de talonarios que los Servicios de Salud proporcionarán a los médicos cirujanos, previa acreditación de su calidad profesional. En ellos deberá individualizarse el nombre y cédula de identidad del médico cirujano.
 
 Los formularios de recetas cheques serán de uso personal y exclusivo del profesional y no podrán transferirse ni cederse a ningún título.
 
