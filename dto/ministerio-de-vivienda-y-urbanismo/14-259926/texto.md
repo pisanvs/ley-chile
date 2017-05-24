@@ -16,7 +16,7 @@ Para los fines del presente decreto se entenderá por:
 
 a) Consejo Vecinal de Desarrollo (CVD): organización comunitaria funcional constituida de acuerdo a la ley N° 19.418, que actuará en representación del barrio, constituida por representantes de organizaciones sociales, actores locales relevantes y personeros de entidades públicas o privadas involucradas en el territorio. La Secretaría Regional Ministerial de Vivienda y Urbanismo actuará como secretario técnico.
 
-b) Deterioro Urbano: situaciones tales como segregación urbana, déficit o deterioro del espacio público, infraestructura y/o de equipamiento colectivo, imagen ambiental degradada y/o con problemas de conectividad y/o accesibilidad.
+b) Deterioro Urbano: situaciones tales como segregación urbana, déficit o deterioro del espacio público de los bienes en dominio común en el caso de los condominios, infraestructura y/o de equipamiento colectivo, imagen ambiental degradada y/o con problemas de conectividad y/o accesibilidad.
 
 c) Vulnerabilidad Social: situaciones de habitantes con un débil sentido de pertenencia, estigmatización negativa, deterioro en las relaciones sociales, inseguridad ciudadana, concentración de problemas en ámbitos de educación, recreación y cultura, emprendimiento y población vulnerable.
 
@@ -32,7 +32,7 @@ La Municipalidad respectiva podrá concurrir como Consultor en el Barrio, previa
 
 La implementación del Programa en los barrios consistirá en la ejecución del plan de gestión físico de obras y el plan de gestión social. Se entenderá por intervenciones de gestión social aquellas acciones que tiendan al fortalecimiento de las organizaciones vecinales y a la integración del barrio, así como aquellas que permitan lograr los acuerdos y adoptar las medidas necesarias para el desarrollo del Programa.
 
-El plan de gestión físico de obras contendrá proyectos en categorías de área verde, equipamiento, circulación y/o obras complementarias que sean coherentes entre ellos y con los recursos de que se disponga. Dentro de estos proyectos se podrán realizar, entre otras, obras relativas a construcción o reparación de centros comunitarios, infraestructura deportiva, sedes sociales, pavimentación, plazas, estacionamientos, mobiliario urbano.
+El plan de gestión físico de obras contendrá proyectos en categorías de área verde, equipamiento, circulación y/o obras complementarias que sean coherentes entre ellos y con los recursos de que se disponga. Dentro de estos proyectos se podrán realizar, entre otras, obras relativas a construcción o reparación de centros comunitarios, infraestructura deportiva, sedes sociales, pavimentación, plazas, estacionamientos, mobiliario urbano, así como reparación de los bienes en dominio común de un condominio.
 
 #### Artículo 4º
 
@@ -44,7 +44,7 @@ La selección de barrios se efectuará por el MINVU aplicando como criterios de 
 
 #### Artículo 6º
 
-Mediante resoluciones del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se señalarán todas aquellas operaciones, tipo de inversión, actos o contratos que se requieran para la aplicación práctica de este Programa, y para regular la prestación de servicios de asistencia técnica para el desarrollo del proyecto en los barrios seleccionados.
+Mediante resoluciones del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se señalarán todas aquellas operaciones que se requieran para la aplicación práctica de este Programa, y para regular la prestación de servicios de asistencia técnica para el desarrollo del proyecto en los barrios seleccionados.
 
 #### Artículo 7º
 
