@@ -210,75 +210,19 @@ Corresponde a las instalaciones del Complejo Químico del Ejército, actual FAMA
 
 Zona Especial Deportivo - Recreacional ZE - 1
 
-i) Condiciones de edificación:
-
-. Uso de Suelo Permitido: Equipamiento Clase Deporte; Equipamiento Clase Servicios: profesionales y artesanales.
-
-. Uso de Suelo Prohibido: Todos los no indicados como permitidos.
-
-. Coeficiente de ocupación de suelo: 0,6
-
-. Coeficiente de constructibilidad: 1
-
-. Sistema agrupamiento: Aislado
-
-. Altura máxima de edificación: 14 m / 4 pisos
-
-. Antejardín: 3 metros
-
-. Adosamiento: No se permite.
+.
 
 #### Artículo 24
 
 Zona Especial Equipamiento Exclusivo ZE - 2
 
-i) Condiciones de subdivisión predial y de edificación:
-
-. Uso de Suelo Permitido: Equipamiento en todas sus clases.
-
-. Uso de Suelo Prohibido: Todos los no indicados como permitidos.
-
-. Subdivisión predial mínima: 1.000 m2.
-
-. Coeficiente de ocupación de suelo: 0,7
-
-. Coeficiente de constructibilidad: 2
-
-. Sistema agrupamiento: Aislado
-
-. Altura máxima de edificación: 14 m / 4 pisos
-
-. Antejardín: 3 metros
-
-ii) Intensidad de Ocupación de Suelo.
-
-No exigible.
+.
 
 #### Artículo 25
 
 Zona Especial de Resguardo Ferroviario ZE - 3
 
-i) Uso de suelo Permitido:
-
-Equipamiento: Cultura, Esparcimiento
-
-Infraestructura: Transporte e instalaciones ferroviarias.
-
-Área Verde: Parques y Plazas.
-
-Espacio Público: Sistema vial, plazas y plazoletas.
-
-ii) Condiciones de Subdivisión y Edificación:
-
-. Coeficiente de ocupación de suelo: 0,2
-
-. Coeficiente de constructibilidad: 2
-
-. Sistema agrupamiento: Aislado
-
-. Altura máxima de edificación: 14 m / 4 pisos
-
-. Antejardín: 3 metros
+.
 
 #### Artículo 26
 
