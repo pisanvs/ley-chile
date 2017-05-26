@@ -98,13 +98,15 @@ Apruébanse los programas de estudio para 3º y 4º año medio de formación dif
 
 34.- Atención de Enfermería.
 
+35.- Mecánica de Mantenimiento de Aeronaves.
+
 #### Artículo 3º
 
-Los nuevos planes y programas de estudio que se aprueban en el presente decreto, comenzarán a regir a partir del año escolar 2016, para 3er. año medio, y desde el año escolar 2017, para 4to. año medio, los que serán puestos a disposición de todos los establecimientos educacionales del país, a través de la página web del Ministerio de Educación (www. mineduc.cl).
+Los nuevos planes y programas de estudio que se aprueban en el presente decreto, comenzarán a regir a partir del año escolar 2016, para 3er. año medio, y desde el año escolar 2017, para 4to. año medio; salvo en el caso del programa de estudio para la especialidad de Mecánica de Mantenimiento de Aeronaves, que comenzará a regir a partir del año escolar 2017 para 3er. año de educación media y del año escolar 2018 para 4to. año de educación media, los que serán puestos a disposición de todos los establecimientos educacionales del país, a través de la página web del Ministerio de Educación (www. mineduc.cl).
 
 #### Artículo 4º
 
-Derógase, a partir del año escolar 2016, el artículo 4º del decreto exento Nº 27, de 2001, del Ministerio de Educación.
+Derógase, a partir del año escolar 2016, el artículo 4º del decreto exento Nº 27, de 2001, del Ministerio de Educación. La implementación del presente artículo, considera las fechas de entrada en vigencia de los programas de estudio establecido en el artículo 3º de esta misma norma.
 
 Anótese y publíquese.- Por orden de la Presidenta de la República, Adriana Delpiano Puelma, Ministra de Educación.
 
