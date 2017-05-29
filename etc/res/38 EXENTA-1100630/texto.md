@@ -26,7 +26,7 @@ Resuelvo:
 
 2.- Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
-3.- Los vehículos motorizados, que en su trayecto tengan como vía de circulación las señaladas en el resuelvo N° 1, deberán adoptar vías alternativas para el tránsito por el sector, mientras que los vehículos de transporte público de pasajeros, no serán afectados con la medida.
+3.- Los vehículos motorizados, que en su trayecto tengan como vía de circulación las señaladas en el resuelvo N° 1, deberán adoptar vías alternativas para el tránsito por el sector, mientras que los taxis colectivos que dentro de su ruta transitan por calle Atacama tendrán como alternativa las siguientes vías: Av. Manuel Antonio Matta, O'Higgins, retomando recorrido habitual.
 
 4.- Los responsables a cargo de las obras deberán respetar estrictamente el periodo de cierre de las calles en los tramos indicados en la presente resolución y señalizar debidamente el sector de los trabajos de acuerdo al Manual de Señalización de Tránsito "Señalización Transitoria y Medidas de Seguridad para Trabajos en la Vía", Capítulo 5 del Ministerio de Transportes y Telecomunicaciones (www.conaset.cl), debiendo adoptar todas las medidas necesarias que permitan el normal desarrollo de las obras.
 
