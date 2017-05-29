@@ -1,0 +1,5 @@
+RECTIFICA ACREDITACIÓN DE LA "UNIVERSIDAD CATÓLICA DE TEMUCO", COMO CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES
+
+Por resolución exenta Nº 43, de 24 de marzo de 2017, y conforme lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo y en el decreto supremo Nº 29, de 2011, del Ministerio del Trabajo y Previsión Social que aprueba el Reglamento que regula la Acreditación de Centros de Evaluación y Certificación de Competencias Laborales y la Habilitación de Evaluadores, se rectifica el número 1 de la parte resolutiva de la resolución exenta Nº 6, de 18 de enero de 2017, que acreditó a la Universidad Católica de Temuco, RUT Nº 71.918.700-5, como Centro de Evaluación y Certificación de Competencias Laborales, publicada en la edición del Diario Oficial Nº 41.670 de 28 de enero de 2017, en el sentido de eliminar de su alcance de acreditación el perfil ocupacional de Instalador de Gas Clase 3 (P-4322-7126-002-V02).-
+
+Ximena Concha Bañados, Secretaria Ejecutiva, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
