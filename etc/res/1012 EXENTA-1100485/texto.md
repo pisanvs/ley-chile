@@ -42,7 +42,7 @@ Resolución:
 
 1.1 Título I, Equipamiento Comunitario y/o Mejoramiento del Entorno: Se incluye en especial una línea para atender barrios con plagas de xilófagos. Este último tipo de proyectos se regirán por las condiciones especiales del resuelvo 6 de la presente resolución.
 
-1.2 Título II, Mejoramiento de la Vivienda: Podrán postular en este llamado los Proyectos de Seguridad de la Vivienda y de Habitabilidad de la Vivienda que cumplan con todo lo definido en el DS 255 (V. y U.), de 2006, y además los siguientes proyectos con condiciones especiales:
+1.2 Título II, Mejoramiento de la Vivienda: Podrán postular en este llamado los Proyectos de Seguridad de la Vivienda y de Habitabilidad de la Vivienda que cumplan con todo lo definido en el DS 255 (V. y U.), de 2006, y además los proyectos de Mantención y los siguientes proyectos con condiciones especiales:
 
 1.2.1 Proyectos de Seguridad de la Vivienda:
 
@@ -69,6 +69,8 @@ Resolución:
 1.3.2 Proyectos de Ampliación que consulten atender a las familias que viven en condición de Hacinamiento, las que se regirán de acuerdo a lo señalado en el resuelvo 15 de esta resolución exenta.
 
 1.3.3 Proyectos de ampliación para aquellas viviendas cuyo metraje de construcción sea igual o inferior a 30 metros cuadrados, las que se regirán de acuerdo a lo señalado en el resuelvo 16 de esta resolución exenta.
+
+1.3.4 Además podrán participar cualquiera de los proyectos del Título III, de Ampliación de la Vivienda, señalados en la letra c) del Artículo 5°, del DS N° 255 (V. y U.) de 2006.
 
 2. Para este llamado se considerarán los siguientes tipos de proyectos como focalizados:
 
@@ -108,15 +110,15 @@ A estos tipos de Proyectos Focalizados señalados en el punto 2.2. precedente, s
 
 .
 
-No obstante que los proyectos de Mantención no son parte de los tipos de proyectos que se pueden postular en este llamado según lo señalado en el punto 1 de esta resolución, los grupos que contemplen proyectos focalizados señalados en el punto 2.2, podrán estar constituidos por proyectos de esa tipología. Además, en la primera selección de este llamado, se permitirá la postulación de proyectos de Mantención de la Vivienda en el caso que estos hayan resultado hábiles no seleccionados en el último proceso selección.
+No obstante que los proyectos de Mantención se pueden postular dentro de una línea específica de este llamado según lo señalado en el resuelvo 1, los grupos que contemplen proyectos focalizados señalados en el punto 2.2, también podrán estar constituidos por proyectos de esa tipología. Además, en la primera selección de este llamado, se permitirá la postulación de proyectos de Mantención de la Vivienda en el caso que estos hayan resultado hábiles no seleccionados en el último proceso selección.
 
 3. Este llamado contará con 3 procesos de selección. Para participar en las selecciones de este llamado, los proyectos deben contar con Calificación hasta las siguientes fechas:
 
-- Para Primera Selección: Hasta el 17 de abril de 2017
+- Para Primera Selección: Hasta el 17 de abril de 2017.
 
-- Para la Segunda Selección: Hasta el 14 de julio de 2017
+- Para la Segunda Selección: hasta el 30 de junio de 2017.
 
-- Para la Tercera Selección: Hasta el 17 de noviembre de 2017
+- Para la Tercera Selección: hasta el 31 de octubre de 2017.
 
 4. Los recursos involucrados para la primera selección de los proyectos postulantes en el concurso dispuesto en el resuelvo número 1 de esta resolución exenta, se distribuyen regionalmente según el siguiente cuadro:
 
@@ -242,7 +244,7 @@ La contribución solar mínima exigida se obtiene de la tabla del Capítulo III 
 
 * Calefón Solar es aquél que ajusta la temperatura de salida a un valor determinado, independiente de la temperatura y caudal de agua que ingresa.
 
-10.5.4 Por Mantención del sistema: Se otorgará puntaje adicional por la cantidad de mantenciones que se les aplique a los equipos y al sistema completo después de a lo menos un año desde la entrega de la obra y pago del subsidio.
+10.5.4 Por Mantención del sistema: Se otorgará puntaje adicional por la cantidad de mantenciones que se les aplique a los equipos y al sistema completo, después de a lo menos un año desde la entrega de la obra y pago del subsidio. Estas mantenciones a la mantención obligatoria exigida para todos los equipos.
 
 .
 
@@ -277,6 +279,8 @@ El postulante debe ser postulante individual o bien encontrarse inserto en un gr
 12.2 Dado que en llamados anteriores los tipos de proyectos correspondientes a Habitabilidad de la Vivienda que contemplaban cambios de cubierta fueron postulados a través de grupos integrados por familias cuyas viviendas contaban con asbesto cemento y otras sin asbesto, y que muchas de estas postulaciones resultaron hábiles no seleccionadas, no hábiles o se encontraban en preparación al momento de dicho llamado, se permitirá que los integrantes de estos grupos puedan distribuirse en grupos diferentes y con menos de 10 integrantes, tanto a los que postulan a la línea de cambio de cubierta con asbesto como el resto del grupo original.
 
 12.3 En esta línea sólo podrán postular proyectos de Habitabilidad que contemplen cambio de cubierta en viviendas que tengan planchas de asbesto. Para los otros tipos de proyectos de cambio de cubierta se postulará con los montos y condiciones de un proyecto normal de Habitabilidad del Título II de Mejoramiento.
+
+12.4 La obtención de un subsidio destinado al cambio de una cubierta con asbesto cemento a través de este llamado no será impedimento para obtener otros subsidios siempre que no se trate del mismo tipo de obra del Título II del Programa de Protección del Patrimonio Familiar. Además, las personas que hayan sido beneficiadas anteriormente con un subsidio de Mejoramiento de la Vivienda, del Título II del Programa de Protección del Patrimonio Familiar, no tendrán impedimento para concursar y ser beneficiado en este llamado con un subsidio de Mejoramiento para cambio de una cubierta con asbesto cemento, siempre que no se trate del mismo tipo de obras.
 
 13. En caso de Proyectos de Habitabilidad del Título II de Mejoramiento de Vivienda, que tengan como fin cumplir con los requisitos indicados en el Artículo 6° bis del DS N° 255 (V. y U.), de 2006, para el Acondicionamiento Térmico de la Vivienda, se tendrán las siguientes consideraciones especiales:
 
@@ -404,27 +408,33 @@ Además estos montos podrán incrementarse en 45 UF caso de que la ampliación s
 
 El postulante debe ser postulante individual o bien encontrarse inserto en un grupo compuesto por a lo menos un 30% de sus integrantes con este tipo de proyecto o de un tipo de proyecto declarado focalizado, además que en dicho proyecto y presupuesto se contemplen obras que permitan llegar al metraje mínimo establecido en resuelvo 16.2 precedente, en a lo menos un 60% del proyecto.
 
-17. Se considerarán como Viviendas Objeto del Programa para este llamado, las señaladas en el artículo 3° del DS 255 (V. y U.), de 2006 conforme a los procedimientos establecidos en la letra e) del artículo 21, del reglamento ya señalado. Las viviendas en que el avalúo fiscal de sus construcciones, excluido el valor del terreno, sea igual o inferior a 350 Unidades de Fomento a la fecha de la presente resolución, deberán acreditarlo presentando el Certificado de Avalúo Fiscal Detallado de la propiedad, o el Certificado de Avalúo Fiscal Simple si el inmueble tiene destino habitacional y el monto total es inferior a 350 UF; o las viviendas cuyo avalúo fiscal total sea igual o inferior a 950 Unidades de Fomento, a la fecha de la presente resolución, lo que será acreditado presentando el Certificado de Avalúo Fiscal Simple.
+17. En caso que tras haber aplicado un subsidio de Ampliación, ya sea del Título III del Programa de Protección del Patrimonio Familiar o de otro programa de subsidio, la vivienda ampliada no alcance a lo menos una superficie mínima de 40 m2, se permitirá que el beneficiario pueda participar de este llamado y postular nuevamente.
 
-18. No podrán participar en este llamado aquellos proyectos referidos al Capítulo Segundo del DS N° 255 (V. y U.), de 2006, relativos a la atención a Condominios de Viviendas Sociales.
+18. Se considerarán como Viviendas Objeto del Programa para este llamado, las señaladas en el artículo 3° del DS 255 (V. y U.), de 2006 conforme a los procedimientos establecidos en la letra e) del artículo 21, del reglamento ya señalado. Las viviendas en que el avalúo fiscal de sus construcciones, excluido el valor del terreno, sea igual o inferior a 350 Unidades de Fomento a la fecha de la presente resolución, deberán acreditarlo presentando el Certificado de Avalúo Fiscal Detallado de la propiedad, o el Certificado de Avalúo Fiscal Simple si el inmueble tiene destino habitacional y el monto total es inferior a 350 UF; o las viviendas cuyo avalúo fiscal total sea igual o inferior a 950 Unidades de Fomento, a la fecha de la presente resolución, lo que será acreditado presentando el Certificado de Avalúo Fiscal Simple.
 
-19. Para participar en este proceso de selección, las personas interesadas deberán acreditar haber enterado el ahorro mínimo correspondiente según el Titulo al que postula, según lo indicado en el artículo 9° del DS N° 255 (V. y U.), de 2006.
+19. No podrán participar en este llamado aquellos proyectos referidos al Capítulo Segundo del DS N° 255 (V. y U.), de 2006, relativos a la atención a Condominios de Viviendas Sociales.
 
-20. Se permitirá la postulación de inmuebles pertenecientes a una sucesión hereditaria, pudiendo postular uno de los comuneros. En este caso se deberá acompañar copia de la inscripción especial de herencia. Si ésta no se hubiere practicado aún, deberá presentar copia de la inscripción de dominio a favor del causante, acreditando su calidad de heredero con copia del auto de posesión efectiva otorgada por el tribunal competente, en caso de sucesiones testadas, o del acto administrativo que acoja a trámite la solicitud de posesión efectiva ante el Servicio de Registro Civil e Identificación tratándose de sucesiones intestadas.
+20. Para participar en este proceso de selección, las personas interesadas deberán acreditar haber enterado el ahorro mínimo correspondiente según el Titulo al que postula, según lo indicado en el artículo 9° del DS N° 255 (V. y U.), de 2006.
 
-21. Los puntajes de corte se determinarán mediante la Calificación Socioeconómica (CSE) del Registro Social de Hogares (RSH) tomando el tramo del 60% para su puntaje de corte.
+21. Se permitirá la postulación de inmuebles pertenecientes a una sucesión hereditaria, pudiendo postular uno de los comuneros. En este caso se deberá acompañar copia de la inscripción especial de herencia. Si ésta no se hubiere practicado aún, deberá presentar copia de la inscripción de dominio a favor del causante, acreditando su calidad de heredero con copia del auto de posesión efectiva otorgada por el tribunal competente, en caso de sucesiones testadas, o del acto administrativo que acoja a trámite la solicitud de posesión efectiva ante el Servicio de Registro Civil e Identificación tratándose de sucesiones intestadas.
+
+22. Los puntajes de corte se determinarán mediante la Calificación Socioeconómica (CSE) del Registro Social de Hogares (RSH) tomando el tramo del 60% para su puntaje de corte.
 
 En las postulaciones colectivas se aceptará que el 60% de los integrantes cumplan con el tramo del 60% según Calificación Socioeconómica y el 40% de los integrantes del grupo podrán superar este tope.
 
-22. En virtud de que la Ficha de Protección Social ya no está vigente, para determinar el puntaje señalado en el cuadro de la letra a) del Artículo 28 del DS N° 255 (V. y U.) de 2006, se aplicará el tramo de la Calificación Socioeconómica (CSE) del Registro Social de Hogares (RSH), estableciéndose para estos fines una conversión a un puntaje equivalente al que tenía el Quintil en la Ficha de Protección Social para que sea compatible con el cálculo de puntaje señalado en dicho Artículo.
+23. Para el pago de los subsidios que requieran permiso de edificación se permitirá pagar un 70% del monto del contrato al momento de que el contratista o constructor haya terminado las obras, y que éstas hayan sido recibidas por SERVIU y la EP. Dejando el 30% restante para cuando haya presentado la recepción final de las obras. En los demás casos se pagará según se indica en el DS Nº 255 (V. y U.), de 2006.
 
-23. En caso de proyectos emplazados en barrios que estén siendo Intervenidos por el Programa Quiero Mi Barrio, estos obtendrán 50 puntos Adicionales.
+24. En virtud de que la Ficha de Protección Social ya no está vigente, para determinar el puntaje señalado en el cuadro de la letra a) del Artículo 28 del DS N° 255 (V. y U.) de 2006, se aplicará el tramo de la Calificación Socioeconómica (CSE) del Registro Social de Hogares (RSH), estableciéndose para estos fines una conversión a un puntaje equivalente al que tenía el Quintil en la Ficha de Protección Social para que sea compatible con el cálculo de puntaje señalado en dicho Artículo.
 
-24. Exímese al presente llamado del cumplimiento de lo señalado en el inciso tercero del Artículo 13, del DS N° 255 (V. y U.), de 2006, referido a su publicación del llamado en el Diario Oficial con 30 días de anterioridad a lo menos, a la fecha del inicio del proceso de selección.
+25. En caso de proyectos emplazados en barrios que estén siendo Intervenidos por el Programa Quiero Mi Barrio, estos obtendrán 50 puntos Adicionales.
 
-25. Los proyectos se deberán ingresar en las Oficinas de Partes del Serviu correspondiente a la Región en la que se postula, en sus Delegaciones Provinciales, o en otro lugar que el Serviu respectivo disponga, el que deberá ser debidamente informado por correo electrónico a las Entidades Patrocinantes.
+26. Exímese al presente llamado del cumplimiento de lo señalado en el inciso tercero del Artículo 13, del DS N° 255 (V. y U.), de 2006, referido a su publicación del llamado en el Diario Oficial con 30 días de anterioridad a lo menos, a la fecha del inicio del proceso de selección.
 
-26. Las nóminas de los postulantes seleccionados y sus respectivos proyectos se aprobarán mediante resoluciones exentas de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial. La difusión de dichas nóminas se realizará por el Serviu respectivo en los términos previstos en el DS N° 255 (V. y U.), de 2006.
+27. Los proyectos se deberán ingresar en las Oficinas de Partes del Serviu correspondiente a la Región en la que se postula, en sus Delegaciones Provinciales, o en otro lugar que el Serviu respectivo disponga, el que deberá ser debidamente informado por correo electrónico a las Entidades Patrocinantes.
+
+28. Las nóminas de los postulantes seleccionados y sus respectivos proyectos se aprobarán mediante resoluciones exentas de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial. La difusión de dichas nóminas se realizará por el Serviu respectivo en los términos previstos en el DS N° 255 (V. y U.), de 2006.
+
+> **Nota.** El numeral 1, 1.5 de la Resolución 6643 Exenta, Vivienda, publicada el 29.05.2017, modifica la presente norma, en el sentido de insertar dentro de la tabla de su resuelvo 4 una nueva columna, que indica los montos destinados para proyectos de Mantención en dicho llamado. La referida modificación, señala que dichos montos deberán ser descontados de aquellos señalados para cada región en la columna "Total Regular Títulos I, II y III", en los términos indicados en la tabla que se inserta por medio de esta modificación.
 
 Anótese, publíquese en el Diario oficial y archívese.- Iván Leonhardt Cárdenas, Ministro de Vivienda y Urbanismo Subrogante.
 
