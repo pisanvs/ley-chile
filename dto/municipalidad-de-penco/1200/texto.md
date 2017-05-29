@@ -36,7 +36,7 @@ El Plan Regulador Comunal de Penco ( PRCP ) está conformado por los siguientes 
 
 2.- Deroga Instrumentos Anteriores
 
-El presente PRCP reemplaza al Plan Regulador Comunal de Penco aprobado por D.S. Nº 188 del MINVU de 2 de noviembre de 1982 y sus respectivas modificaciones y al Plan Seccional de Lirquén, aprobado por Resolución Nº 3 del Gobierno Regional, de 20 de febrero de 1996 .
+El presente PRCP reemplaza al Plan Regulador Comunal de Penco aprobado por D.S. Nº 188 del MINVU de 2 de noviembre de 1982 y sus respectivas modificaciones y al Plan Seccional de Lirquén, aprobado por Resolución Nº 3 del Gobierno Regional, de 20 de febrero de 1996.
 
 #### Artículo 1
 
@@ -72,13 +72,13 @@ Todas aquellas materias atinentes al desarrollo urbano que no se encontraren nor
 
 7.- Trámite de Proyectos con Informe Previo
 
-Los proyectos de subdivisión predial, loteo, urbanización, edificación y demás obras de construcción que requieran informe de la Secretaría Regional Ministerial de Vivienda y Urbanismo, deberán presentarse en la Dirección de Obras Municipales de Penco, cumpliendo con los requisitos señalados en la presente Ordenanza, en el PRMC y/o en la O.G.U.C.
+Los proyectos de subdivisión predial, loteo, urbanización, edificación y demás obras de construción que requieran informe de la Secretaría Regional Ministerial de Vivienda y Urbanismo, deberán presentarse en la Dirección de Obras Municipales de Penco, cumpliendo con los requisitos señalados en la presente Ordenanza, en el PRMC y/o en la O.G.U.C.
 
 #### Artículo 1
 
 8.- Aplicación, Supervigilancia e Interpretación del PRCP
 
-De conformidad a los Artículos 4° y 5° de la L G.U.C. corresponde a la Dirección de Obras Municipales de Penco ( D.O.M.), la aplicación de las normas de la presente Ordenanza Local y a la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región del Biobío, la supervigilancia de su cumplimiento e interpretación.
+De conformidad a los Artículos 4° y 5° de la L.G.U.C. corresponde a la Dirección de Obras Municipales de Penco ( D.O.M.), la aplicación de las normas de la presente Ordenanza Local y a la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región del Biobío, la supervigilancia de su cumplimiento e interpretación.
 
 #### Artículo 1
 
@@ -264,7 +264,7 @@ DEFINICIONES Y NORMAS GENERALES
 
 #### Artículo 3
 
-1.- Conceptos Utilizados El significado de los términos Coeficiente de Ocupación de Suelo, Coeficiente de Constructibilidad, Densidad, Edificación Aislada, Pareada y Continua, Antejardín y otros términos técnicos, es el establecido en la Ordenanza General de Urbanismo y Construcciones.
+1.- Conceptos Utilizados El significado de los términos Coeficiente de Ocupación de Suelo, Coeficiente de Constructibilidad, Densidad, Edificación Aislada, Pareada y Continua, Antejardín y otros términos técnicos, es el establecido en la Ordenanza General de Urbanismo y construcciones.
 
 #### Artículo 3
 
@@ -522,6 +522,10 @@ Con todo, se prohíbe la construcción en el antejardín, a excepción de cobert
 
 26.- Disposiciones sobre antenas Las antenas de telecomunicaciones en el área urbana del PRCP se estarán a lo establecido en el artículo 2.6.3 de la Ordenanza General de Urbanismo y Construcciones.
 
+#### Artículo 3
+
+27.- Zona Área Verde (ZAV): Corresponde a las zonas destinadas al uso de suelo de área verde, que pueden ser terrenos particulares como fiscales, que no son bienes nacionales de uso público, de acuerdo a lo señalado en la Ordenanza General de Urbanismo y Construcciones.
+
 ## Título IV
 
 PLANTACIONES Y OBRAS DE ORNATO
@@ -604,103 +608,9 @@ Las diferentes zonas, atendiendo a sus características de usos de suelo permiti
 
 AREA URBANA CONSOLIDADA
 
-ZONA RESIDENCIAL DE DENSIDAD ALTA ZR - 1
+ZONA RESIDENCIAL DE DENSIDAD ALTA (ZR-1)
 
-Usos permitidos: Residencial
-
-Equipamiento de todo tipo excepto
-
-Cementerios, Crematorios, Cárceles,
-
-Estadios y Zoológicos
-
-Usos prohibidos: Todos los usos de suelo no
-
-mencionados expresamente como usos
-
-permitidos y los indicados en el
-
-#### Artículo 3
-
-4 de esta Ordenanza.
-
-Condiciones de Subdivisión y edificación
-
-Superficie predial mínima 200 m2
-
-Coeficiente de ocupación
-
-máximo de suelo 0.8
-
-Coeficiente máximo
-
-de constructibilidad 4,0
-
-Sistema de agrupamiento Aislado, pareado y continuo
-
-Altura máxima de
-
-la edificación 21,0 m
-
-Antejardín mínimo No es obligatorio, sin
-
-perjuicio de lo señalado en
-
-el Art. 3.23
-
-Densidad habitacional
-
-bruta máxima 720 hab/há
-
-ZONA RESIDENCIAL DE DENSIDAD MEDIA ZR - 2
-
-Usos permitidos: Residencial
-
-Equipamiento de todo tipo excepto
-
-Cementerios, Crematorios y Cárceles
-
-Usos prohibidos: Todos los usos de suelo no
-
-mencionados expresamente como usos
-
-permitidos y los indicados en el
-
-#### Artículo 3
-
-4 de esta Ordenanza.
-
-Condiciones de Subdivisión y edificación
-
-Superficie predial mínima 200 m2
-
-Coeficiente de ocupación
-
-máximo de suelo 0.8
-
-Coeficiente máximo
-
-de constructibilidad 1.6
-
-Sistema de agrupamiento Aislado, pareado y continuo
-
-Altura máxima de
-
-la edificación Pareado y continuo 10,5 m.
-
-Aislado, según rasante y
-
-distanciamiento
-
-Antejardín mínimo: No es obligatorio, sin
-
-perjuicio de lo señalado en
-
-el Art. 3.23
-
-Densidad habitacional
-
-bruta máxima 480 hab/há
+ZONA RESIDENCIAL DE DENSIDAD MEDIA (ZR -2)
 
 ZONA RESIDENCIAL CENTRAL DE PENCO ZR - 3
 
@@ -960,6 +870,8 @@ Densidad habitacional
 
 bruta máxima 600 hab/há
 
+ZONA RESIDENCIAL 7 (ZR-7)
+
 ZONA DE EQUIPAMIENTO COMERCIAL PREFERENTE ZE - 1
 
 Usos permitidos: Residencial
@@ -1012,57 +924,7 @@ Densidad habitacional
 
 bruta máxima 960 hab/há
 
-ZONA DE EQUIPAMIENTO DEPORTIVO ZE - 2
-
-Usos permitidos: Equipamiento de Deportes
-
-Construcciones complementarias,
-
-tales como la vivienda del cuidador,
-
-camarines, baños, pequeños locales
-
-de venta, graderías y otros
-
-similares calificados por la D.O.M.
-
-Usos prohibidos: Todos los usos de suelo no
-
-mencionados expresamente como usos
-
-permitidos y los indicados en el
-
-#### Artículo 3
-
-4 de esta Ordenanza y
-
-expresamente el uso residencial.
-
-Condiciones de Subdivisión y edificación
-
-Superficie predial mínima 2.500 m2
-
-Coeficiente de ocupación
-
-máximo de suelo 0,2
-
-Coeficiente máximo
-
-de constructibilidad 0,3
-
-Sistema de agrupamiento Aislado
-
-Altura máxima de
-
-la edificación Libre, según rasante y
-
-distanciamiento
-
-Antejardín mínimo 5,0 m
-
-Densidad habitacional
-
-bruta máxima No se consulta
+ZONA DE EQUIPAMIENTO DEPORTIVO (ZE-2)
 
 Condiciones especiales:
 
@@ -2736,57 +2598,7 @@ Densidad habitacional
 
 bruta máxima No se consulta
 
-ZONA DE EXTENSION DE EQUIPAMIENTO Y ACTIVIDADES PRODUCTIVAS 1 ZEE - 3
-
-Usos permitidos Actividades productivas inofensivas
-
-Equipamiento de comercio, culto y
-
-cultura, deporte, educación,
-
-esparcimiento, salud, seguridad,
-
-servicios y social.
-
-Usos prohibidos: Todos los usos de suelo no
-
-mencionados expresamente como usos
-
-permitidos y los indicados en el
-
-#### Artículo 3
-
-4 de esta Ordenanza.
-
-Condiciones de Subdivisión y edificación
-
-Superficie predial mínima 1.000 m2
-
-Coeficiente de ocupación
-
-máximo de suelo 0,5
-
-Coeficiente máximo
-
-de constructibilidad 2,0
-
-Sistema de agrupamiento Aislado
-
-Longitud máxima de pareo 30%
-
-Altura máxima de pareo 7,0 m
-
-Altura máxima de
-
-la edificación Libre, según rasante y
-
-distanciamiento
-
-Antejardín mínimo 5,0 m
-
-Densidad habitacional
-
-bruta máxima No se consulta
+ZONA DE EXTENSIÓN DE EQUIPAMIENTO Y ACTIVIDADES PRODUCTIVAS 1 ZEE - 3
 
 ZONA DE EXTENSION DE EQUIPAMIENTO Y ACTIVIDADES PRODUCTIVAS 2 ZEE- 4
 
@@ -3034,9 +2846,7 @@ c. Deberá estarse a lo dispuesto en el Art.
 
 3.5 de esta Ordenanza
 
-ZONA RESIDENCIAL CONDICIONADA POR PENDIENTES ZEC - 5
-
-Los usos de suelo y las normas urbanísticas para esta zona serán las mismas de la Zona ZR-1, con excepción del antejardín, el cual se regirá por el Art. 3.24. Además, la densidad se disminuye a 400Hab/há en esta zona.
+ZONA RESIDENCIAL EN PENDIENTE (ZEC-5)
 
 Condiciones especiales:
 
@@ -3098,7 +2908,7 @@ c. Deberá estarse a lo dispuesto en el Art.
 
 3.5 de esta Ordenanza
 
-AREAS DE PROTECCIÓN Y DE RESTRICCION
+ÁREAS DE PROTECCIÓN Y DE RESTRICCIÓN
 
 ZONA DE PROTECCIÓN DE PLAYA ZP - 1
 
@@ -3228,7 +3038,7 @@ Densidad habitacional
 
 bruta máxima No se consulta
 
-ZONA DE PROTECCION POR PENDIENTES Y QUEBRADAS ZP - 4
+ZONA DE PROTECCIÓN POR PENDIENTES Y QUEBRADAS ZP - 4
 
 Usos permitidos: Acciones de Protección de laderas y
 
@@ -3262,7 +3072,7 @@ medio del mantenimiento adecuado de
 
 la vegetación.
 
-ZONA DE PROTECCION DE CAUCES NATURALES ZP - 5
+ZONA DE PROTECCIÓN DE CAUCES NATURALES ZP - 5
 
 Identificación
 
@@ -3336,7 +3146,7 @@ faja se permitirá la construcción de
 
 áreas verdes y paseos.
 
-ZONA DE PROTECCION DE AREAS DE VALOR NATURAL ZP - 6
+ZONA DE PROTECCIÓN DE ÁREAS DE VALOR NATURAL ZP - 6
 
 Identificación
 
