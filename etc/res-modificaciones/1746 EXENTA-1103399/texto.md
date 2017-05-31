@@ -1,0 +1,7 @@
+MODIFICA PROGRAMA DE INVESTIGACIÓN DEL DESCARTE PARA PESQUERÍAS INDUSTRIALES DE JUREL Y SU FAUNA ACOMPAÑANTE, V-X REGIONES Y AGUAS INTERNACIONALES
+
+Por resolución exenta Nº 1.746, de 24 de mayo de 2017, de esta Subsecretaría, modifícase la resolución exenta Nº 524, de 2015, que autorizó la ejecución de un programa de investigación del descarte y la pesca incidental para las unidades de pesquería industriales de Jurel, y su fauna acompañante, comprendidas entre la V y la IX regiones y la XIV y la X regiones, así como la actividad extractiva desarrollada en aguas internacionales en el área de la Convención sobre Conservación y Ordenamiento de los Recursos Pesqueros en Alta Mar en el Océano Pacífico Sur, en el sentido de incorporar la participación de los barcos científicos "Abate Molina" y "AGS 61 Cabo de Hornos", en el mencionado programa de descarte, en el marco de pescas de investigación otorgadas de conformidad con el Título VII, Párrafo 3º de la Ley General de Pesca y Acuicultura.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 24 de mayo de 2017.- Pablo Berazaluce Maturana, Subsecretario de Pesca y Acuiculcultura.
