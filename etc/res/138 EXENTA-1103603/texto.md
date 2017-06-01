@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Res. Ex. Nº 138 de 30/03/2017, Vistos: Ley Nº 18.755, Considerando: 1.-¬ Acta de Denuncia y Citación Nº 022517 de 14/05/2016 cursada a Pablo Ávalos Ibacache, cédula de identidad Nº 17.542.407-¬5. 2.¬- Observaciones del acta antes individualizada. 3¬.- Declaración del denunciado. 4¬.- Informe complementario efectuado por el sustanciador de la causa. 5¬.- Correo electrónico del Encargado Regional de Control Fronterizo. 6.-¬ Que la denuncia formulada por inspectores del Servicio constituye presunción de haberse cometido la infracción. 7¬.- Declaración jurada conjunta del denunciado. 8¬.- Art Nº 22 Ley Nº 19.473. 9¬ Art. 21 inciso 2 DL 3.557. 10¬.- Art. 26 Ley 18.755. 11.-¬ El denunciado cometió dos infracciones, al DL 3.557 y a la ley 19.473. 12¬.- Que el denunciado no es reincidente en Atacama. Resuelvo: Aplíquese a Pablo Ávalos Ibacache multa de 3 UTM.
+
+Firma: Juan Carlos Valencia Bustos, Director SAG, Región de Atacama.
