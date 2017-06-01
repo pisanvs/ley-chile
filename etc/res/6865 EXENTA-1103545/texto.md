@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 6.865, de fecha 27 de diciembre del año 2016, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 3377-36, correspondiente al inmueble ubicado en Calle de Servicio 4060 DP 33 Francisco Coloane, Rol de Avalúo Nº 3377-36, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Lazo Pérez Andrea, con una superficie aproximada de 42,441 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Proyecto Habilitación Terrenos Poblaciones Francisco Coloane y Cerro Morado, Puente Alto, Plan de Cierre". La Comisión de Peritos integrada por los señores Patricio Rivera Castro, Ingeniero en Ejecución; Andrés Risso Caamaño, Arquitecto y Valentina Chacaltana Sims, Arquitecto, mediante Informe de fecha 6 de julio de 2015, fijó la indemnización provisional por causa de la referida expropiación en la suma de $14.140.710, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
