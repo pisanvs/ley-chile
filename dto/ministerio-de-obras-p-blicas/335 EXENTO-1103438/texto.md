@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 335 de 12 de mayo de 2017, se tuvo por desistido la expropiación del lote de terreno N° 12, ordenada por Decreto Supremo Exento MOP N° 591 de 22 de agosto de 2016, para la obra "Concesión Américo Vespucio Oriente. Tramo Av. El Salto - Príncipe de Gales. Sector 2: Puente Centenario - Príncipe de Gales", Región Metropolitana de Santiago, comuna de La Reina. En todo lo no modificado, se mantiene plenamente vigente el citado Decreto Exento MOP N° 591.
