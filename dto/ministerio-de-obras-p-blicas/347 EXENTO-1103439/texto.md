@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 347 de 12 de mayo de 2017, se modificó el Decreto Exento MOP N° 209 de 11 de mayo de 2016, en el sentido de señalar que los lotes de expropiación son necesarios para la obra Concesión Ruta 5 Norte. Tramo: La Serena - Vallenar. Sector: Límite Regional - Vallenar, y no como en él se indica. En todo lo no modificado, se mantiene plenamente vigente el citado Decreto Exento MOP N° 209.
