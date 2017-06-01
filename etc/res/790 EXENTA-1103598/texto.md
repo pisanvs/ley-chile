@@ -1,0 +1,3 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 790, de 17 de febrero de 2017, Serviu Región de Valparaíso dispuso expropiación conforme al artículo 51 de la ley 16.391, decreto ley 2.186 de 1978 y decreto exento Nº 228 de 21 de noviembre de 2016 del Minvu, del siguiente inmueble: Departamento Nº45, del Block B, ubicado en Avenida La Paz Nº968-B, comuna de Puchuncaví, Rol SII 19-61, presunto dominio Pamela Alejandra Flores Torres, monto indemnización provisional en $9.214.327; el monto de indemnización provisional fue fijado por la Comisión Tasadora integrada por Irma Díaz Riveros, Hugo Fuentes Jara y Enrique Ramos Guzmán, según informe de tasación de septiembre de 2016, que será pagada al contado.
