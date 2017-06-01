@@ -54,7 +54,7 @@ Asimismo, a los grupos organizados inscritos en el Sistema de Información Terri
 
 17. Establécese que para optar al subsidio para Proyectos de Mediana Escala, estipulado en la letra k) del artículo 35 del DS N° 49 (V. y U.), de 2011, para estimar las comunas que tengan más de 5 mil o 40 mil habitantes, según sea el caso, dicho dato podrá obtenerse según la proyección de población que publique el Instituto Nacional de Estadísticas para el presente año, en sitio web respectivo.
 
-18. Establécese que para el cierre de los meses marzo y abril, se permitirá excepcionalmente, para proyectos cuyas obras de habilitación superen los recursos señalados en el inciso tercero de la letra h, del artículo 35 del DS N° 49 (V. y U.), de 2011, que la Entidad Patrocinante pueda requerir hasta 280 Unidades de Fomento por dicho subsidio, para las siguientes obras:
+18. Establécese para proyectos cuyas obras de habilitación superen los recursos señalados en el inciso tercero de la letra h, del artículo 35 del DS N° 49 (V. y U.), de 2011, que la Entidad Patrocinante pueda requerir hasta 280 Unidades de Fomento por dicho subsidio, para las siguientes obras:
 
 a. Muros de contención y Estabilización de taludes: Cuando el estudio de mecánica de suelos indique, mediante ensayos, la presencia de suelos especiales y donde el proyecto de obras civiles asociado, establezca de manera fundada a través de memoria de cálculo y planos de proyecto que se requieren de mayores dimensiones, refuerzos o condiciones de apoyo y/o anclaje de las obras de contención y/o estabilización.
 
