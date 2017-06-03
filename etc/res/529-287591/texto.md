@@ -264,7 +264,7 @@ La infracción de las prohibiciones e incumplimiento de las obligaciones y medid
 
 Las medidas contenidas en los numerales 4.1 y letra B.2.2., referida a "Condiciones específicas", acápite concerniente al "Traslado de peces", del Artículo Primero, numeral 7, denominado "Protocolo de Traslado", se harán exigibles de manera progresiva, en dos etapas:
 
-- En una primera etapa que se extenderá durante 6 meses a partir de la fecha de su publicación en el Diario Oficial, sólo será aplicable a los wellboats que descarguen en la Bahía de Quellón, pudiendo prorrogarse, previo informe técnico, por una sola vez por el mismo período.
+- En una primera etapa que se extenderá hasta el 31 de octubre de 2017, sólo será aplicable a los wellboats que descarguen en la Bahía de Quellón.
 
 Sin perjuicio de lo anterior, durante igual período, las embarcaciones que transporten peces cuyo destino sean acopios o plantas de proceso que se ubiquen al norte de Quellón, deberán cerrar las compuertas en la línea FAN hasta Isla Tranqui (43º3'), pudiendo el Servicio muestrear, en forma aleatoria, las bodegas y hacer aplicables las citadas medidas.
 
