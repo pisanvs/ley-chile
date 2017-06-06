@@ -236,7 +236,7 @@ Las modificaciones que acuerde entrarán a regir a contar de los treinta días s
 
 Para que un hipódromo pueda ser reconocido en el país con carácter de oficial, será necesario que haya cumplido con lo dispuesto en el artículo 1° de la Ley N° 4.566.
 
-Todo hipódromo reconocido deberá aplicar y respetar en forma obligatoria las disposiciones del presente Reglamento. Las infracciones al mismo serán sancionadas por el Consejo Superior de la Hípica Nacional con amonestación por escrito y/o multa, de acuerdo a lo dispuesto en el inciso tercero del artículo 280 de este cuerpo legal.
+Todo hipódromo reconocido deberá aplicar y respetar en forma obligatoria las disposiciones del presente Reglamento. Las infracciones al mismo serán sancionadas por el Consejo Superior de la Hípica Nacional con amonestación por escrito y/o multa, de acuerdo a lo dispuesto en el inciso tercero del artículo 316 de este cuerpo legal.
 
 El referido Consejo podrá solicitar la revocación del reconocimiento de algún hipódromo, cuando deje de cumplir con cualquiera de los requisitos contenidos tanto en el proyecto aprobado para autorizar su funcionamiento como en las modificaciones al mismo.
 
@@ -522,7 +522,7 @@ Cualquier caso no previsto en este capítulo será resuelto por el directorio de
 
 #### Artículo 42 bis
 
-El Consejo Superior de la Hípica Nacional podrá aplicar cualquiera de las sanciones establecidas en el inciso primero del artículo 280 del presente Reglamento, en caso que los hipódromos incumplan las disposiciones contenidas en el Título V bis de este Reglamento. Asimismo, el Consejo deberá poner en conocimiento del Ministerio de Hacienda los hechos que motiven la aplicación de estas sanciones, para los efectos de hacer efectivas las responsabilidades contempladas en los artículos 3º y 4º de la ley Nº 4.566, General de Hipódromos.
+El Consejo Superior de la Hípica Nacional podrá aplicar cualquiera de las sanciones establecidas en el inciso primero del artículo 316 del presente Reglamento, en caso que los hipódromos incumplan las disposiciones contenidas en el Título V bis de este Reglamento. Asimismo, el Consejo deberá poner en conocimiento del Ministerio de Hacienda los hechos que motiven la aplicación de estas sanciones, para los efectos de hacer efectivas las responsabilidades contempladas en los artículos 3º y 4º de la ley Nº 4.566, General de Hipódromos.
 
 Lo anterior es sin perjuicio de las sanciones penales que correspondan de acuerdo a ley.
 
@@ -2236,213 +2236,293 @@ El propietario de un caballo extranjero que participe en Chile por haber sido es
 
 En el caso que la participación del caballo en la carrera no corresponda a una invitación sino que a una decisión voluntaria de su propietario, el premio que pudiere obtener en tal carrera se liquidará y pagará de acuerdo con las normas establecidas en el presente Reglamento.
 
-CAPITULO XL {ARTS. 255-270} De las Drogas y otras Substancias
+CAPÍTULO XL (ARTS. 255 - 259)
+
+DEL CONTROL DE DOPING EN CABALLOS DISPOSICIONES GENERALES
 
 #### Artículo 255
 
-Se prohíbe suministrar medicamentos, drogas u otras sustancias químicas o cualquier agente físico, a excepción de furosemida, a los caballos inscritos para participar en carreras públicas. La forma y condiciones en que podrá ser suministrada la furosemida será determinada por el Consejo Superior de la Hípica Nacional, mediante un reglamento que dictará especialmente para dicho efecto.
-
-La fenilbutazona sólo podrá ser suministrada en los casos, formas, condiciones y a los caballos que determine el Consejo Superior de la Hípica Nacional mediante un reglamento que dictará especialmente para dicho efecto.
+Le corresponderá al Consejo Superior de la Hípica el control del uso de drogas, medicamentos y otras sustancias prohibidas, de acuerdo con las disposiciones contenidas en el Reglamento de Carreras de Chile y en el Reglamento del Control de la Medicamentación y las Drogas.
 
 #### Artículo 256
 
-Para investigar la existencia de substancias prohibidas por este Reglamento, los hipódromos deberán valerse de los análisis de muestras de orina y/o sangre.
+El Consejo Superior de la Hípica deberá dictar los reglamentos necesarios para regular el Control de Doping en Caballos, estableciendo entre otras cosas, los procedimientos y la metodología para detectar la existencia de sustancias prohibidas en los líquidos orgánicos de un caballo.
 
-Estos análisis deberán realizarse inmediatamente después de disputada la carrera.
+Asimismo, cualquier interpretación respecto de la aplicación de las sanciones más adelante descritas será materia del respectivo "Reglamento de Control de la medicamentación y Drogas" que conforme con este artículo deberá dictarse y será complementario de estas normas.
 
 #### Artículo 257
 
-Un laboratorio con carácter de oficial será quien determine los sistemas aplicables para el control del uso de las substancias prohibidas señaladas en el artículo 255 del presente Reglamento.
-
-La condición de laboratorio oficial la otorgará sólo el Consejo Superior de la Hípica Nacional, quien, además de supervigilar su funcionamiento, dictará un reglamento que regule todo lo relativo a su objeto, finalidades, competencia y procedimiento.
-
-En el evento que el laboratorio requiera analizar o confirmar las muestras, o realizar el procedimiento de la o las contra muestras, el Consejo Superior de la Hípica Nacional podrá subcontratar estos servicios con otro laboratorio de reconocida experiencia, sin que ello le haga perder el carácter de oficial al laboratorio designado por el referido Consejo.
-
-Los gastos que demande el control de doping y medicamentación serán cargados proporcionalmente a los hipódromos, sin perjuicio de lo establecido en el artículo 265 del presente Reglamento.
+El Consejo Superior de la Hípica se hará asesorar por un Comité Técnico Antidoping, en los temas relacionados con el uso y control de drogas, medicamentos y sustancias prohibidas. Los miembros de este Comité serán nombrados por el Consejo Superior de la Hípica, quien deberá designar también a su Director Técnico.
 
 #### Artículo 258
 
-Todos los análisis que se practiquen para investigar la existencia de substancias prohibidas por este Reglamento, deberán efectuarse con los métodos científicos aprobados por el laboratorio oficial, dentro de las normas y plazos que este laboratorio determine.
+Los gastos que demande el proceso de control de doping de caballos serán de cargo de cada uno de los Hipódromos respectivos.
 
-Los certificados del laboratorio oficial en que aparezcan los resultados de los análisis de las muestras de una reunión de carrera, deberán ser dados a conocer en un recinto público de la oficina principal del hipódromo respectivo, dentro de los siete días siguientes de celebrada dicha reunión. En el caso de los certificados que contengan los resultados de una contra muestra, lo serán dentro de las 48 horas siguientes de efectuada aquélla.
-
-Copia de dichos certificados deberán ser remitidos de inmediato al Consejo Superior de la Hípica Nacional.
+Sin perjuicio de lo anterior, cuando un Preparador solicite el análisis de una contramuestra, los costos de este procedimiento serán enteramente de su cargo, salvo que este análisis arrojara un resultado negativo.
 
 #### Artículo 259
 
-Los directorios de los hipódromos quedarán obligados a adoptar, de acuerdo con el presente Reglamento, todas aquellas medidas de carácter general tendientes a rodear al proceso de extracción de las muestras de la máxima transparencia, seriedad y corrección. En cumplimiento de tales obligaciones, deberán establecer las restricciones que correspondan para impedir que personas extrañas puedan alterar o intervenir en el proceso de extracción.
+Son Objetivos del Sistema de Control Doping:
+
+a) Proteger la integridad y transparencia de las carreras de caballos.
+
+b) Proteger la seguridad del Jinete y de todas las personas que tienen a su cargo el cuidado del caballo.
+
+c) Proteger la salud y bienestar del equino.
+
+d) Contribuir a las buenas prácticas en la industria hípica.
+
+e) Cautelar la fe pública en las apuestas.
+
+CAPÍTULO XLI (ART. 260)
+
+DE LAS DIVERSAS CLASES DE SUSTANCIAS
 
 #### Artículo 260
 
-Luego de disputada cada carrera, se procederá a hacer las extracciones de muestras al caballo que ocupe el primer lugar en ella, al cual también se le practicará un examen físico complementario.
+Las drogas, medicamentos y sustancias prohibidas se agruparán en cinco clases, cuyo fundamento se basa en la farmacología, el patrón de uso y la pertinencia del uso de la sustancia en un caballo de carreras.
 
-En las carreras clásicas y especiales, estas obligaciones serán exigibles para los caballos que ocupen los cuatro primeros lugares de la tabla.
+Para los efectos del Reglamento de Carreras y del Reglamento de Control de la Medicamentación y Drogas, se utilizará el siguiente esquema referencial de clasificación de drogas de la Asociación Internacional de Comisarios de Carreras (Association of Racing Commissioners International, Inc.).
 
-La Junta de Comisarios tendrá la facultad para ordenar las extracciones y el examen físico de cualquiera de los competidores que hayan participado en una carrera, para lo cual podrá solicitar la opinión respectiva al médico veterinario de turno.
+CLASE 1: Fármacos que generalmente no han sido aprobados para su uso médico en equinos de carreras y que poseen un alto potencial farmacológico para alterar el rendimiento deportivo del equino. No deberán encontrarse en posesión de ninguna persona al interior de una dependencia o instalación destinada al alojamiento de caballos en training. Son estimulantes potentes del sistema nervioso central, incluyendo opiáceos, opiáceos sintéticos, drogas psicoactivas, anfetaminas y todas aquellas controladas por la ley N° 20.000 de drogas.
+
+CLASE 2: Fármacos que tienen un alto potencial farmacológico para alterar el rendimiento deportivo, pero en menor medida que aquellos de la Clase 1 y que generalmente no son aceptadas como agentes terapéuticos en el equino, o agentes terapéuticos que tienen un alto potencial de abuso. Los medicamentos de esta clase incluyen sicotrópicos, depresores y bloqueadores neuromusculares, anestésicos locales inyectables ciertos estimulantes del sistema nervioso central y del sistema cardiovascular.
+
+CLASE 3: Medicamentos, aceptados o no para uso médico en el equino de carreras, pero con una farmacología de menor potencial para afectar el desempeño deportivo que aquellos de la Clase 2. En esta clase se incluyen broncodilatadores, anabólicos esteroidales y otras drogas con efectos primarios sobre el sistema nervioso autónomo, antihistamínicos con propiedades sedantes y diuréticos que afecten la función renal y la composición de los fluidos corporales.
+
+CLASE 4: Esta clase incluye medicamentos terapéuticos empleados normalmente en el equino, con menor potencial para afectar el rendimiento deportivo que aquellos de la Clase 3. Se incluyen diuréticos menos potentes, corticosteroides, antihistamínicos y relajantes músculo esqueléticos sin acción prominente en el sistema nervioso central, expectorantes, mucolíticos, hemostáticos, glucósidos cardíacos y antiarrítmicos, anestésicos tópicos, antidiarreicos y analgésicos suaves. También se incluyen los antiinflamatorios no esteroidales (AINE) en concentraciones superiores a los límites establecidos.
+
+CLASE 5: Esta categoría comprende los medicamentos terapéuticos. Incluye específicamente agentes con acciones localizadas como los antiulcerativos, ciertos fármacos antialérgicos y los anticoagulantes.
+
+CAPÍTULO XLII (ARTS. 261-263)
+
+DEL LABORATORIO OFICIAL
 
 #### Artículo 261
 
-En todas las extracciones se tomarán dos muestras de líquidos orgánicos del animal, a lo menos. Una de ellas se utilizar para el análisis y su confirmación, si procediere, y la otra, se ocupará para realizar la contra muestra respectiva.
+El Consejo Superior de la Hípica será el responsable de designar y supervisar al laboratorio que realice los análisis de las muestras, el que tendrá la categoría de Laboratorio Oficial.
+
+El laboratorio designado deberá prestar sus servicios, ciñéndose fielmente a las disposiciones del presente Reglamento de Carreras y del Reglamento de Control de la Medicamentación y Drogas.
 
 #### Artículo 262
 
-Los preparadores de los caballos a que se refiere el artículo 260, tendrán la obligación de asistir a las extracciones y firmar los documentos de respaldo que correspondan, ya sea personalmente o por medio de un representante debidamente autorizado.
-
-En caso de inasistencia de alguna de estas personas, la Junta de Comisarios nombrará a otro representante del gremio de preparadores para que presencie las extracciones y firme los documentos de rigor. Si ello no es posible, el procedimiento seguirá su curso con la asistencia y firma del gerente del hipódromo respectivo o de quien sea designado por él.
+El Consejo Superior de la Hípica deberá convenir la forma jurídica y las condiciones económicas, bajo las cuales se contratarán y prestarán los servicios profesionales del Laboratorio Oficial.
 
 #### Artículo 263
 
-Los preparadores que se negaren a concurrir a las extracciones a que tienen obligación de asistir, los que no dieren las facilidades necesarias para cumplir íntegramente lo establecido en este capítulo o en la reglamentación respectiva, o aquellos que procedieren con dolo, serán sancionados por la Junta de Comisarios, sin perjuicio de la facultad que tendrá para pasar los antecedentes al directorio del hipódromo respectivo para los fines que correspondan.
+El Laboratorio Oficial deberá mantener confidencialidad y no podrá información referidas a establecer comunicación directa, ni responder solicitudes de procedimientos de evaluación internos, uso de medicamentación, farmacocinética o cualquier otra información relacionada, sin el consentimiento previo por escrito del Presidente del Consejo Superior de la Hípica.
+
+CAPÍTULO XLIII (ARTS. 264-279)
+
+DEL CONTROL DE DOPING DE CABALLOS
 
 #### Artículo 264
 
-Se considerará comprobada la existencia de substancias prohibidas sólo cuando tanto el análisis de la primera muestra como el de la contra muestra acusen resultados positivos, cualquiera que sea el líquido orgánico que se haya analizado.
+Queda estrictamente prohibida la presencia de cualquier medicamento, droga u otra sustancia química o cualquier agente físico, en los líquidos orgánicos de un caballo participante en una carrera pública, que tenga por finalidad mejorar o desmejorar artificialmente su rendimiento locomotor o disimular o atenuar sus dolencias físicas, o modificar su condición atlética.
 
 #### Artículo 265
 
-En caso de comprobarse el suministro a un caballo de cualquier sustancia prohibida perteneciente a alguna de las clases a que se refiere el artículo 255 de este Reglamento, el Consejo Superior de la Hípica Nacional aplicará al preparador a cuyo cargo se encuentra el caballo, dependiendo de la clase de sustancia comprobada, las siguientes sanciones:
+El Consejo Superior de la Hípica podrá autorizar el uso de determinadas sustancias en caballos, debiendo para ello adoptar todas las medidas de resguardo que sean necesarias para asegurar que el uso de estas sustancias no implique un abuso.
 
-1.- Tratándose de cualquiera de las sustancias prohibidas pertenecientes a la Clase I, se aplicarán las siguientes sanciones:
-
-A.- Suspensión de la patente de preparador por el plazo de 18 meses;
-
-B.- Pérdida del premio obtenido por el caballo en la carrera pública en la cual participó y se detectó la presencia de sustancias prohibidas;
-
-C.- Suspensión del caballo para participar en cualquier carrera pública por un plazo de 30 días corridos;
-
-D.- Multa al preparador equivalente al 100% de sus honorarios porcentuales, que se calculará sobre el premio asignado al lugar que hubiera ocupado el caballo en la carrera que participó, si no hubiera sido distanciado como consecuencia de la aplicación del artículo 267 del presente Reglamento, la cual, en ningún caso, podrá ser inferior a 100 unidades de fomento.
-
-2.- Tratándose de cualquiera de las sustancias prohibidas pertenecientes a la Clase II, se aplicarán las siguientes sanciones:
-
-A.- Suspensión de la patente de preparador por el plazo de 9 meses;
-
-B.- Pérdida del premio obtenido por el caballo en la carrera pública en la cual participó y se detectó la presencia de sustancias prohibidas;
-
-C.- Suspensión del caballo para participar en cualquier carrera pública por un plazo de 30 días corridos;
-
-D.- Multa al preparador equivalente al 80% de sus honorarios porcentuales, que se calculará sobre el premio asignado al lugar que hubiera ocupado el caballo en la carrera que participó, si no hubiera sido distanciado como consecuencia de la aplicación del artículo 267 del presente Reglamento, la cual, en ningún caso, podrá ser inferior a 80 unidades de fomento.
-
-3.- Tratándose de cualquiera de las sustancias prohibidas pertenecientes a la Clase III, se aplicarán las siguientes sanciones:
-
-A.- Suspensión de la patente de preparador por el plazo de 6 meses;
-
-B.- Pérdida del premio obtenido por el caballo en la carrera pública en la cual participó y se detectó la presencia de sustancias prohibidas;
-
-C.- Suspensión del caballo para participar en cualquier carrera pública por un plazo de 30 días corridos;
-
-D.- Multa al preparador equivalente al 50% de sus honorarios porcentuales, que se calculará sobre el premio asignado al lugar que hubiera ocupado el caballo en la carrera que participó, si no hubiera sido distanciado como consecuencia de la aplicación del artículo 267 del presente Reglamento, la cual, en ningún caso, podrá ser inferior a 60 unidades de fomento.
-
-4.- Tratándose de cualquiera de las sustancias prohibidas pertenecientes a la Clase IV, se aplicarán las siguientes sanciones:
-
-A.- Suspensión de la patente de preparador por el plazo de 3 meses;
-
-B.- Pérdida del premio obtenido por el caballo en la carrera pública en la cual participó y se detectó la presencia de sustancias prohibidas;
-
-C.- Suspensión del caballo para participar en cualquier carrera pública por un plazo de 30 días corridos;
-
-D.- Multa al preparador equivalente al 35% de sus honorarios porcentuales, que se calculará sobre el premio asignado al lugar que hubiera ocupado el caballo en la carrera que participó, si no hubiera sido distanciado como consecuencia de la aplicación del artículo 267 del presente Reglamento, la cual, en ningún caso, podrá ser inferior a 30 unidades de fomento.
-
-5.- Tratándose de cualquiera de las sustancias prohibidas pertenecientes a la Clase V, se aplicarán las siguientes sanciones:
-
-A.- Suspensión de la patente de preparador por el plazo de 2 meses;
-
-B.- Pérdida del premio obtenido por el caballo en la carrera pública en la cual participó y se detectó la presencia de sustancias prohibidas;
-
-C.- Suspensión del caballo para participar en cualquier carrera pública por un plazo de 30 días corridos;
-
-D.- Multa al preparador equivalente al 25% de sus honorarios porcentuales, que se calculará sobre el premio asignado al lugar que hubiera ocupado el caballo en la carrera que participó, si no hubiera sido distanciado como consecuencia de la aplicación del artículo 267 del presente Reglamento, la cual, en ningún caso, podrá ser inferior a 20 unidades de fomento.
-
-En caso que el preparador incurra en una Segunda Infracción, por comprobarse el suministro a un caballo de cualquier sustancia prohibida perteneciente a alguna de las clases a que se refiere el artículo 255 de este Reglamento, el Consejo Superior de la Hípica Nacional aplicará las siguientes sanciones:
-
-A.- Suspensión de la patente de preparador por un periodo de tiempo equivalente al doble del plazo establecido en el inciso primero de este artículo para la Clase a que corresponde esta segunda infracción;
-
-B.- Pérdida del premio obtenido por el caballo en la carrera pública en la cual participó y se detectó la presencia de sustancias prohibidas;
-
-C.- Suspensión del caballo para participar en cualquier carrera pública por un plazo de 30 días corridos;
-
-D.- Multa al preparador por una suma equivalente al doble del monto establecido en el inciso primero de este artículo para la Clase a que corresponde esta segunda infracción.
-
-En caso que el preparador incurra en una Tercera Infracción, por comprobarse el suministro a un caballo de cualquier sustancia prohibida perteneciente a alguna de las clases a que se refiere el artículo 255 de este Reglamento, el Consejo Superior de la Hípica Nacional aplicará las siguientes sanciones:
-
-A.- Si la tercera infracción es de Clase I o II, se suspenderá la patente del preparador por un plazo de 10 años. Si la tercera infracción es de Clase III, se suspenderá la patente del preparador por un plazo de 36 meses. Si la tercera infracción es de Clase IV, se suspenderá la patente del preparador por un plazo de 24 meses. Si la tercera infracción es de Clase V, se suspenderá la patente del preparador por un plazo de 18 meses;
-
-B.- Pérdida del premio obtenido por el caballo en la carrera pública en la cual participó y se detectó la presencia de sustancias prohibidas;
-
-C.- Suspensión del caballo para participar en cualquier carrera pública por un plazo de 30 días;
-
-D.- Multa al preparador por una suma equivalente al triple del monto establecido en el inciso primero de este artículo para la Clase a que corresponde esta tercera infracción.
-
-En caso que el preparador incurra en una Cuarta Infracción, por comprobarse el suministro a un caballo de cualquier sustancia prohibida perteneciente a alguna de las clases a que se refiere el artículo 255 de este Reglamento, el Consejo Superior de la Hípica Nacional aplicará las siguientes sanciones:
-
-A.- Suspensión de la patente de preparador por el tiempo que corresponda, según la siguiente distinción:
-
-i.- Si, al menos, una de las cuatro infracciones correspondiere a las Clases I o II, se suspenderá la patente de preparador por el plazo de 10 años;
-
-ii.- Si las cuatro infracciones correspondieren a sustancias pertenecientes a las Clases III, IV o V, se suspenderá la patente de preparador por el plazo de 4 años;
-
-B.- Pérdida del premio obtenido por el caballo en la carrera pública en la cual participó y se detectó la presencia de sustancias prohibidas;
-
-C.- Suspensión del caballo para participar en cualquier carrera pública por un plazo de 60 días corridos;
-
-D.- Multa al preparador por una suma equivalente al cuádruple del monto establecido en el inciso primero de este artículo para la Clase a que corresponde esta cuarta infracción.
-
-Se considerará que existe una segunda, tercera o cuarta infracción a las normas del presente Capítulo, siempre que no hubieren transcurrido más de 3 años entre la primera y la segunda infracción, más de 5 años entre la segunda y tercera infracción y más de 10 años entre la tercera y cuarta infracción. Estos plazos se contarán desde la fecha en que se detectó la presencia de la sustancia prohibida motivo de la infracción.
-
-El Consejo Superior de la Hípica Nacional, previo a aplicar cualquier sanción, citará al preparador para que éste efectúe sus descargos mediante declaración verbal o escrita. Si el preparador no concurre a la citación, se niega a declarar o no presenta sus descargos por escrito, el Consejo Superior de la Hípica Nacional actuará en rebeldía del afectado.
-
-Para las Clases I, II y III, se considerará como reincidencia para los efectos de estimar que existe una segunda o tercera infracción a las normas del presente capítulo, siempre que no hubieren transcurrido más de dieciocho meses entre la primera y la segunda infracción, y treinta y seis meses entre la segunda y tercera infracción.
-
-INCISO OCTAVO ELIMINADO
-
-Si a un mismo preparador se le comprueba la existencia de sustancias prohibidas en dos o más muestras de distintos caballos bajo su cuidado, ya sea en una misma reunión de carrera o en reuniones sucesivas efectuadas en un mismo o en distintos hipódromos dentro de un plazo de siete días y, respecto de los cuales, no haya recibido sanción alguna por ello, será considerado sólo como una circunstancia agravante, por lo que el Consejo Superior de la Hípica Nacional deberá aplicar las sanciones señaladas en el inciso primero de este artículo, contempladas para la infracción más grave cometida por el preparador, aumentada en un 100% respecto del periodo de suspensión de la patente del preparador y de la multa en dinero aplicable a este último.
-
-El profesional que haya sido sancionado por infracción al artículo 255 de este Reglamento no podrá ejercer sus funciones al cumplir los plazos de suspensión sin haber pagado o caucionado debidamente el monto de la multa aplicada. Para estos efectos, el Consejo Superior de la Hípica Nacional podrá otorgar plazos o cuotas para dicho pago, las que no deberán superar un período de seis meses.
-
-Si en la investigación que se lleve a cabo se constata la participación en un caso de doping o medicamentación de una o más personas distintas del preparador, el Consejo Superior de la Hípica Nacional podrá aplicarle las mismas sanciones establecidas en el presente artículo.
-
-Los que facilitaren su nombre para figurar como preparador de uno o más caballos que no estén efectivamente bajo su cuidado, serán suspendidos previa investigación e informe de la Comisión de Patentes y Disciplina, por el tiempo que determine el Consejo Superior de la Hípica Nacional, quien apreciará ese informe y resolverá en conciencia. La reincidencia en esta infracción será sancionada con el retiro de la patente del infractor.
+Los caballos que se encuentren autorizados para el uso de la sustancia, estarán sujetos a la determinación de los niveles cuantitativos de la droga, o sus metabolitos o marcadores, como así mismo a la detección de otras sustancias prohibidas.
 
 #### Artículo 266
 
-Estará impedido de participar en una carrera pública el caballo cuya muestra haya arrojado resultado positivo y se encuentre pendiente el proceso de la contra muestra.
+Durante una reunión de carreras, en un recinto hípico, con exclusión de los corrales, ninguna persona, excepto un médico o un técnico veterinario previamente autorizado, podrá poseer comprimidos, medicamentos, o frascos con o sin rotular, como tampoco jeringas o agujas, o cualquier otro elemento que permita inyectar o suministrar alguna sustancia a un caballo.
 
 #### Artículo 267
 
-Si en el análisis se comprobare la existencia de las substancias prohibidas o agentes físicos señalados en el artículo 255 del presente Reglamento, se procederá al distanciamiento del caballo y se extinguirá, por ese solo hecho, el derecho a percibir el premio correspondiente.
+Se deberán someter al proceso de toma de muestras para el control de doping los caballos que ocupen el primer lugar en una carrera. En las carreras Clásicas y Especiales, esta obligación será para los caballos que ocupen los cuatro primeros lugares. Sin perjuicio de lo anterior, se realizará el análisis de muestras en forma aleatoria, determinado por sorteo, de acuerdo con las normas que establezca el "Reglamento de Control de la Medicamentación y Drogas" a que se refiere el Artículo 256 anterior. Adicionalmente, la Junta de Comisarios tendrá la facultad de ordenar el control de doping de cualquiera de los caballos participantes en una carrera.
+
+Corresponderá al Consejo Superior de la Hípica decidir sobre el número de muestras que deberá analizar el Laboratorio Oficial, sobre la base del total extraído en cada reunión de carreras.
 
 #### Artículo 268
 
-Los caballos a los cuales se les haya comprobado el suministro de substancias prohibidas, no podrán tomar parte en ninguna carrera pública, dentro de los treinta días siguientes a la fecha en que se disputó la carrera.
+Los Preparadores de los caballos sometidos al control de doping, tendrán la obligación de asistir a las extracciones y firmar los documentos de respaldo que correspondan, ya sea personalmente o por medio de un representante debidamente autorizado.
+
+En caso de inasistencia de alguno de ellos, la Junta de Comisarios nombrará a otro representante del gremio de los Preparadores, para que actúe en su ausencia. Si ello no fuera posible, el procedimiento seguirá su curso con la asistencia y firma del Gerente General del Hipódromo respectivo o de quien éste designe.
 
 #### Artículo 269
 
-Los hipódromos deberán establecer un control de doping y medicamentación para los jinetes que participen en las carreras públicas programadas por ellos, de acuerdo al reglamento que al efecto dictará cada hipódromo.
+Los Preparadores que se negaran a concurrir al proceso de toma de muestras de sus caballos, y los que no dieran las facilidades necesarias para cumplir íntegramente con lo establecido en la reglamentación relativa al control de doping, o aquellos que procedieren con dolo, deberán ser sancionados por la Junta de Comisarios.
+
+La no presentación de un caballo al Control Doping hará presumir que está medicamentado con una droga clasificada como "Clase 1" y hará al Preparador y al Caballo merecedores de las sanciones correspondientes.
 
 #### Artículo 270
 
-Las normas contenidas en el presente capítulo serán de cumplimiento obligatorio para el Club Hípico de Santiago, Sociedad Hipódromo Chile, Valparaíso Sporting Club y Club Hípico de Concepción.
+Se entenderá que existe doping positivo, cuando el análisis de la primera muestra y el de la Contramuestra, siempre que el afectado la hubiera solicitado, acusen la presencia de alguna droga, medicamento o sustancia prohibida, cualquiera sea el líquido orgánico sometido al análisis.
 
-Los hipódromos que no se encuentren en condiciones de aplicar en todas sus partes las disposiciones de este capítulo, deberán adoptar, en todo caso, las medidas que estimen conducentes para castigar este delito hípico, las que serán sometidas previamente a la aprobación del Consejo Superior de la Hípica Nacional.
+Tanto el resultado, como también la clase a la cual pertenece la sustancia prohibida detectada, serán determinados por el Director del Laboratorio Oficial o por quien lo reemplace en su ausencia, de acuerdo con las clasificaciones de sustancias establecidas en el Reglamento de Control de la Medicamentación y Drogas y sus anexos.
 
-CAPITULO XLI {ARTS. 271-278}
-
-Del Examen Clínico
+En caso de detectarse la presencia confirmada de una droga no incluida en el Reglamento de Control de la Medicamentación y Drogas y sus anexos, le corresponderá al Comité Técnico Antidoping determinar la clasificación de la droga y tipo de penalidad recomendada. En todo caso, será el Consejo Superior de la Hípica quien debe aprobar dicha recomendación.
 
 #### Artículo 271
 
-El examen clínico previo consistirá en el examen individual de los animales que se presenten a participar en una reunión de carreras, con el objeto de establecer su identidad, sus condiciones sanitarias, atléticas y la normalidad de su estado físico en general. Tal función la cumplirá el Servicio Médico Veterinario Oficial, quien quedará facultado para hacer uso de todos los medios habituales de examen físico y clínico, a fin de precisar su diagnóstico.
+Informado un doping positivo de la primera muestra, el caballo quedará inmediatamente impedido de participar en una carrera pública, y su Preparador impedido de inscribir caballos a su nombre, a la espera del resultado de la contramuestra, siempre que el afectado la hubiera solicitado, y del pronunciamiento definitivo del Consejo Superior de la Hípica.
+
+En este caso, para el Preparador que tenga calidad de Propietario, no aplicará lo establecido en el Artículo 122 del presente Reglamento, mientras no se dicte la sanción definitiva.
 
 #### Artículo 272
 
-Sólo tendrán acceso al recinto en que se practique el examen clínico previo, además del personal de servicio, el propietario del caballo, su preparador o su representante debidamente autorizado y el cuidador del animal.
+Los informes técnicos emitidos por el Laboratorio Oficial con los resultados del análisis de control de doping, deberán ser puestos simultáneamente en conocimiento del Consejo Superior de la Hípica y del Hipódromo correspondiente, dentro de los diez días siguientes a la fecha en que se tomaron las muestras. Seguidamente y en el más breve plazo, en caso de existir un análisis con resultado positivo, el Consejo Superior deberá informar a la Oficina de Stud Book y Estadística.
 
 #### Artículo 273
+
+Del mismo modo, y dentro de las 24 horas siguientes de informada la existencia de un caso positivo, el Hipódromo respectivo deberá notificar al Preparador afectado, mediante comunicación escrita entregada personalmente o en el domicilio señalado por él para este efecto, o a través de comunicación electrónica.
+
+#### Artículo 274
+
+Una vez notificado el Preparador, contará con un plazo de tres días hábiles para informar si acepta o no el resultado, o solicita el análisis de la contramuestra. Transcurrido dicho plazo, si el Preparador no se pronunciara, se entenderá por renunciado el derecho a solicitar el análisis de la contramuestra, y en consecuencia, aceptado el primer resultado entregado por el Laboratorio Oficial..
+
+#### Artículo 275
+
+El análisis de la contramuestra podrá ser realizado en el Laboratorio Oficial o bien, en algún laboratorio de referencia nacional o internacional, previamente autorizado por el Comité Técnico Antidoping.
+
+En este segundo caso, el Laboratorio Oficial en coordinación con el Director Técnico, deberá enviar la contramuestra con registro de cadena de custodia interno, a aquel laboratorio de referencia designado, dentro de los tres días hábiles siguientes, contados desde la fecha de solicitud hecha por el Preparador.
+
+#### Artículo 276
+
+El resultado del análisis de la contramuestra prevalecerá por sobre el resultado de la primera muestra que haya informado el Laboratorio Oficial.
+
+#### Artículo 277
+
+No se entenderá anulado o invalidado el procedimiento de análisis de las muestras y contramuestras si no se pueden cumplir los plazos establecidos en el presente Reglamento de Carreras.
+
+#### Artículo 278
+
+El Preparador afectado podrá reclamar ante el Consejo Superior de la Hípica, en el evento que se vulneraran las normas del presente Reglamento y del Reglamento de Control de la Medicamentación y Drogas, que regulan la toma de muestras, cadena de custodia, y en general los procedimientos para determinar la existencia de un doping positivo. En tal caso, el Consejo Superior, previo informe del Comité Técnico Antidoping, resolverá el reclamo presentado.
+
+Igualmente, el Consejo Superior de la Hípica, previo a aplicar cualquier sanción, citará al Preparador afectado para que efectúe sus descargos mediante declaración verbal o escrita. Si éste no concurriera a la citación, se negara a declarar o no presentara sus descargos por escrito, el Consejo Superior de la Hípica procederá a dictar la sanción correspondiente.
+
+#### Artículo 279
+
+Cualquier duda que surja de la aplicación o interpretación de las normas contenidas en el Reglamento de Control de la Medicamentación y Drogas, o en los procedimientos implementados en el proceso de control de doping, será resuelta por el Consejo Superior de la Hípica, previo informe del Comité Técnico Antidoping.
+
+CAPÍTULO XLIV (ARTS. 280-293)
+
+DE LAS SANCIONES POR DOPING EN CABALLOS
+
+#### Artículo 280
+
+Sin perjuicio de lo establecido en el Artículo 260 precedente, con respecto a la clasificación de las sustancias prohibidas, las sanciones establecidas en el presente Código serán clasificadas en letras desde la A, la más severa, a la D, la menos severa, utilizando a modo de referencia la recomendación establecida por la Association of Racing Commissioners Internacional, en la versión vigente de su documento Uniform Classification Guidelines for Foreign Substances and Recommended Penalties and Model Rule.
+
+En caso de detectarse la presencia confirmada de una droga no incluida en el Reglamento de Control de la Medicamentación y Drogas y sus anexos, le corresponderá al Comité Técnico Antidoping sugerir el tipo de sanción asociado a la clasificación de la droga y tipo de penalidad recomendada.
+
+#### Artículo 281
+
+Las sanciones aplicables a las violaciones de este Título y su Reglamento, establecidas como Tipo A serán las siguientes:
+
+.
+
+#### Artículo 282
+
+La detección en una cuarta oportunidad de alguna droga con una sanción de Tipo A, dentro de un periodo de tres años desde la tercera vez, será sancionada con el retiro permanente de la patente de Preparador.
+
+#### Artículo 283
+
+Las sanciones aplicables a las violaciones de este Título y su Reglamento, establecidas como Tipo B serán las siguientes:
+
+.
+
+#### Artículo 284
+
+La detección en una cuarta oportunidad de drogas con una sanción de Tipo B, dentro de un periodo de tres años desde la tercera vez, será sancionada con el retiro permanente de la patente de preparador.
+
+#### Artículo 285
+
+Las sanciones aplicables a las violaciones de este Instrumento y su Reglamento, establecidas como Tipo C serán las siguientes:
+
+.
+
+#### Artículo 286
+
+La detección en una cuarta oportunidad de alguna droga con una sanción de Tipo C, dentro de un periodo de tres años desde la tercera vez, será sancionada con el doble de la suspensión estipulada en la tercera vez para el Tipo C y una multa de 240 UF.
+
+#### Artículo 287
+
+Las sanciones aplicables a las violaciones de este Título y su Reglamento, establecidas como Tipo D serán las siguientes:
+
+.
+
+#### Artículo 288
+
+Sujeto a los límites que se contemplan a continuación, se podrá suministrar Furosemida a los caballos fina sangre de carreras a partir de los tres años de edad reglamentaria que participen en carreras públicas. Sin embargo, queda prohibido el suministro de Furosemida a los caballos fina sangre de carreras nacidos desde el año 2010 en adelante que participen en carreras públicas clásicas de Grupo y/o Listadas.
+
+De la misma forma y sujeto a los límites que se contemplan a continuación, se podrá suministrar Fenilbutazona a los caballos fina sangre de carreras a partir de los tres años de edad reglamentaria, pero, se prohíbe suministrar Fenilbutazona a los caballos de cualquiera edad que participan en carreras públicas clásicas, sean de Grupo y/o Listadas.
+
+El uso de Furosemida y Fenilbutazona en caballos que participen en las carreras a que se refieren los dos incisos anteriores será sancionado con una sanción del Tipo C.
+
+No obstante, en aquellas carreras en que su uso se encuentre regulado, las sanciones establecidas para aquellas muestras con concentraciones superiores a las toleradas serán las siguientes:
+
+.
+
+#### Artículo 289
+
+Se considerará como reincidencia la detección de cualquier droga, medicamento o sustancia prohibida dentro de los periodos indicados, aplicándose la pena que corresponda a la clase detectada, incrementada en la forma que se indica precedentemente.
+
+La detección en más de una oportunidad de un doping positivo en una misma reunión de carreras, se considerará como una reincidencia.
+
+#### Artículo 290
+
+Aquel Preparador que haya sido sancionado, no podrá cumplir ninguna función propia del cargo, mientras dure el periodo de suspensión establecido por la Autoridad Hípica.
+
+El Hipódromo deberá adoptar todas las medidas necesarias para evitar que el Preparador suspendido ejerza las funciones propias de Preparador. Lo anterior, sin perjuicio de las facultades que tiene el Consejo Superior de la Hípica para hacer respetar las sanciones que se imponen en el presente Código.
+
+#### Artículo 291
+
+El Preparador sancionado por doping, podrá designar un Preparador Asistente, pudiendo ser cualquier persona que al momento de la designación tenga patente vigente de Preparador o Capataz.
+
+Las sanciones en que este Preparador Asistente incurra, constituirán una reincidencia del Preparador Titular y serán también aplicadas en forma solidaria al "Preparador Asistente", el cual quedará imposibilitado de continuar subrogando al Preparador Titular. El Preparador Titular podrá continuar percibiendo los premios que le correspondan por la participación de sus ejemplares, lo que es sin perjuicio de los arreglos económicos que este último acuerde con el Preparador Asistente, los que deberán constar por escrito.
+
+#### Artículo 292
+
+El Preparador deberá pagar al Consejo Superior de la Hípica la multa correspondiente, previamente al vencimiento del periodo de suspensión. No obstante lo anterior, si los ejemplares a cargo del Preparador Asistente obtuvieran premios por figuración en cualquier Hipódromo Autorizado, éstos deberán destinarse en forma preferente al pago de multa. Los Hipódromos deberán retener estos montos y remitirlos al Consejo Superior de la Hípica.
+
+El no pago de la multa antes de finalizar el periodo de suspensión, prolongará dicho período hasta el pago definitivo de ella.
+
+#### Artículo 293
+
+El Hipódromo deberá adoptar todas las medidas necesarias para evitar que el Preparador y el Asistente suspendidos, ejerzan las funciones propias de Preparador. Lo anterior, sin perjuicio de las facultades que tiene el Consejo Superior de la Hípica para hacer respetar las sanciones que se imponen en el presente Reglamento.
+
+CAPÍTULO XLV (ARTS 294-296)
+
+DE LA SUSPENSIÓN Y REPOSO DEL CABALLO
+
+#### Artículo 294
+
+El caballo quedará suspendido de participar en carreras cuando una muestra de orina o sangre arroje un resultado positivo a la presencia de cualquier droga, medicamento o sustancia prohibida. En este caso, los periodos de suspensión para el caballo serán los siguientes:
+
+#### Artículo 295
+
+Cuando la muestra positiva del equino contenga sustancias reguladas, en las concentraciones superiores a las establecidas en el Reglamento de Control de Medicamentación y Drogas, el caballo deberá ser evaluado por el Servicio Médico Veterinario Oficial para ser autorizado a participar en carreras. En este caso, las sanciones y los períodos de reposo para el equino serán los siguientes:
+
+.
+
+#### Artículo 296
+
+Si en la investigación que se lleve a cabo, se comprobara la participación en un caso de doping positivo, de una o más personas distintas al Preparador Titular, el Consejo Superior de la Hípica podrá aplicarles algunas de las sanciones establecidas en el presente Reglamento de Carreras.
+
+CAPITULO XLVI ARTS. 297-304
+
+Del Examen Clínico
+
+#### Artículo 297
+
+El examen clínico previo consistirá en el examen individual de los animales que se presenten a participar en una reunión de carreras, con el objeto de establecer su identidad, sus condiciones sanitarias, atléticas y la normalidad de su estado físico en general.
+
+Tal función la cumplirá el Servicio Médico Veterinario Oficial, quien quedará facultado para hacer uso de todos los medios habituales de examen físico y clínico, a fin de precisar su diagnóstico.
+
+#### Artículo 298
+
+Sólo tendrán acceso al recinto en que se practique el examen clínico previo, además del personal de servicio, el propietario del caballo, su preparador o su representante debidamente autorizado y el cuidador del animal.
+
+#### Artículo 299
 
 Los caballos deberán ser presentados al examen clínico previo con la anticipación que señale cada hipódromo.
 
 En casos calificados o de fuerza mayor, la Junta de Comisarios podrá autorizar el examen de animales que lleguen atrasados al recinto.
 
-#### Artículo 274
+#### Artículo 300
 
 Para efectuar los exámenes se seguirá el siguiente procedimiento:
 
@@ -2452,15 +2532,15 @@ b) Se examinar su herraje, cuidando de que se cumplan las condiciones reglamenta
 
 Cuando se trate de animales que corren por primera vez en un hipódromo o respecto de los cuales no se haya extendido la ficha correspondiente, se hará una identificación y se llenará el prontuario destinado a este fin.
 
-#### Artículo 275
+#### Artículo 301
 
 Los preparadores que deseen hacer actuar sus caballos con vendajes o cualquier otro elemento de protección, deberán solicitar la autorización del Servicio Médico Veterinario Oficial. Si no se cumpliere este requisito, se dará cuenta del hecho a la Junta de Comisarios.
 
-#### Artículo 276
+#### Artículo 302
 
 El Servicio Médico Veterinario Oficial informará de inmediato a la Junta de Comisarios de los caballos que a su juicio, presenten anormalidades para disputar una carrera.
 
-#### Artículo 277
+#### Artículo 303
 
 La Junta de Comisarios, una vez conocido el informe a que se refiere el artículo anterior y luego de citar a los preparadores para comunicarles los problemas que afectan a los caballos bajo su preparación, ordenará el retiro de los animales en los siguientes casos:
 
@@ -2468,49 +2548,53 @@ a) Enfermedad local o general del caballo, que pueda afectar su capacidad para c
 
 b) Suplantación, falsificación de identidad, adulteración de edad o cualquier otro fraude.
 
-#### Artículo 278
+#### Artículo 304
 
 La Junta de Comisarios sancionará con multa al preparador que presente a un animal con herraje antirreglamentario. El Servicio Médico Veterinario Oficial corregirá dicho herraje. En caso de nuevas reincidencias, la Junta de Comisarios pasará los antecedentes al directorio, para la aplicación de las sanciones que del caso procedan.
 
-## Título V — BIS ARTS. 278-A - 278-J
+## Título VI
+
+ARTS. 305 - 314
 
 Del simulcasting
 
-#### Artículo 278
+#### Artículo 305
 
-A.- Los hipódromos nacionales en actividad podrán recibir apuestas, respecto de carreras de caballos fina sangre, que se disputen en el extranjero, siempre que cumplan las condiciones que establece la ley y el presente Reglamento.
+Los hipódromos nacionales en actividad podrán recibir apuestas, respecto de carreras de caballos fina sangre, que se disputen en el extranjero, siempre que cumplan las condiciones que establece la ley y el presente Reglamento.
 
 Los hipódromos podrán realizar simulcasting en cualquier día, independientemente de si en la misma fecha se verifican carreras en vivo en alguno de ellos, y no regirá la limitación establecida en el artículo 8º del decreto ley Nº 2.437, de 1978, que establece la distribución del monto de las apuestas mutuas y otras normas de la actividad hípica nacional.
 
-#### Artículo 278
+#### Artículo 306
 
-B.- Al momento de la recepción de las apuestas bajo la modalidad de simulcasting, los hipódromos nacionales en actividad deberán tener confeccionados y publicados sus programas de carrera en vivo, los que deberán estar llevándose a cabo.
+Al momento de la recepción de las apuestas bajo la modalidad de simulcasting, los hipódromos nacionales en actividad deberán tener confeccionados y publicados sus programas de carrera en vivo, los que deberán estar llevándose a cabo.
 
-#### Artículo 278
+#### Artículo 307
 
-C.- Para captar y recibir apuestas de carreras de caballos fina sangre disputadas en el extranjero, los hipódromos nacionales en actividad deberán acreditar, ante el Consejo Superior de la Hípica Nacional, que en el año calendario anterior al de la transmisión de las carreras extranjeras y de la captación de las apuestas, el número de carreras disputadas en vivo en sus recintos fue igual o superior a las del año calendario anterior a aquél.
+Para captar y recibir apuestas de carreras de caballos fina sangre disputadas en el extranjero, los hipódromos nacionales en actividad deberán acreditar, ante el Consejo Superior de la Hípica Nacional, que en el año calendario anterior al de la transmisión de las carreras extranjeras y de la captación de las apuestas, el número de carreras disputadas en vivo en sus recintos fue igual o superior a las del año calendario anterior a aquél.
 
 A modo de ejemplo, para que un hipódromo nacional en actividad pueda captar y recibir apuestas mediante simulcasting en el año calendario 2015, el número de carreras en vivo, disputadas en el respectivo hipódromo durante el año calendario 2014, debe haber sido igual o superior al mismo tipo de carreras disputadas en ese hipódromo durante el año calendario 2013.
 
 Para acreditar el cumplimiento de este requisito, cada hipódromo en actividad deberá emitir al Consejo una carta firmada por su representante legal, en la cual se incluirá un cuadro comparativo que contenga el número total de carreras disputadas en los dos años calendario precedentes, con el objeto de respaldar la información proporcionada.
 
-Si un hipódromo no acreditare el cumplimiento del requisito señalado en el inciso primero, quedará impedido de captar y recibir apuestas por carreras de caballos fina sangre que se disputen en el extranjero, lo cual será comunicado por el Consejo Superior de la Hípica Nacional. Este impedimento cesará a partir del año calendario en que se acredite el cumplimiento del señalado requisito, en la forma dispuesta en este artículo.
+Si un hipódromo no acreditare el cumplimiento del requisito señalado en el inciso primero, quedará impedido de captar y recibir apuestas por carreras de caballos fina sangre que se disputen en el extranjero, lo cual será comunicado por el Consejo Superior de la Hípica Nacional.
 
-#### Artículo 278
+Este impedimento cesará a partir del año calendario en que se acredite el cumplimiento del señalado requisito, en la forma dispuesta en este artículo.
 
-D.- Para todos los efectos, el hipódromo receptor de las apuestas será responsable frente a los apostadores de la transmisión de las carreras extranjeras dentro de sus recintos, oficinas o dependencias, así como de todos los aspectos relacionados con la captación y distribución de las apuestas de las mismas carreras que se verifiquen en dichos lugares.
+#### Artículo 308
 
-#### Artículo 278
+Para todos los efectos, el hipódromo receptor de las apuestas será responsable frente a los apostadores de la transmisión de las carreras extranjeras dentro de sus recintos, oficinas o dependencias, así como de todos los aspectos relacionados con la captación y distribución de las apuestas de las mismas carreras que se verifiquen en dichos lugares.
 
-E.- El número mínimo de carreras en vivo que exige el artículo 7º bis de la ley Nº 4.566, General de Hipódromos, como requisito para la implementación del simulcasting, no será exigible cuando se verifique una causal de fuerza mayor o impedimento justificado.
+#### Artículo 309
+
+El número mínimo de carreras en vivo que exige el artículo 7º bis de la ley Nº 4.566, General de Hipódromos, como requisito para la implementación del simulcasting, no será exigible cuando se verifique una causal de fuerza mayor o impedimento justificado.
 
 Se entiende por fuerza mayor o caso fortuito el imprevisto a que no es posible resistir; y por impedimento justificado aquel obstáculo que razonablemente haga imposible el desarrollo de carreras de caballo fina sangre en hipódromos nacionales, por un período acotado de tiempo.
 
 A petición del interesado, el Consejo Superior de la Hípica Nacional verificará y calificará las causales antes mencionadas, mediante resolución fundada.
 
-#### Artículo 278
+#### Artículo 310
 
-F.- Para captar y recibir apuestas a través de simulcasting, el hipódromo interesado deberá notificar por escrito al Consejo Superior de la Hípica Nacional, antes del 31 de diciembre de cada año, de su intención de implementar el simulcasting durante el año calendario siguiente.
+Para captar y recibir apuestas a través de simulcasting, el hipódromo interesado deberá notificar por escrito al Consejo Superior de la Hípica Nacional, antes del 31 de diciembre de cada año, de su intención de implementar el simulcasting durante el año calendario siguiente.
 
 El Consejo deberá pronunciarse dentro del plazo de 20 días corridos desde la notificación, ya sea autorizando al hipódromo a realizar simulcasting en el período señalado, o bien, formulando observaciones al interesado, las que deberán ser subsanadas por éste dentro del plazo de 10 días corridos. En caso que no lo hiciere o que el Consejo no aceptare los descargos, el hipódromo quedará inhabilitado para llevar a cabo el simulcasting en el respectivo año calendario.
 
@@ -2518,75 +2602,51 @@ Si producto de las fechas y plazos establecidos en los incisos anteriores, el hi
 
 Será obligación del hipódromo notificar al Consejo Superior de la Hípica Nacional de cualquier cambio que se genere en la forma como serán captadas, recibidas y distribuidas las apuestas de carreras disputadas en el extranjero, sea con relación a los aspectos mínimos exigidos en el inciso primero de este artículo o respecto de otras materias que puedan afectar o impactar la captación de dichas apuestas.
 
-#### Artículo 278
+#### Artículo 311
 
-G.- En la notificación exigida en el artículo anterior se deberá incluir:
+En la notificación exigida en el artículo anterior se deberá incluir:
 
 a. La carta que menciona el inciso tercero del artículo 278-C.
 
-b. La forma como serán transmitidas las carreras que se disputen en el
+b. La forma como serán transmitidas las carreras que se disputen en el extranjero, debiendo precisar la manera como se transmitirán en tiempo real.
 
-extranjero, debiendo precisar la manera como se transmitirán en
+c. Los sistemas de seguridad que se adoptarán para que las transmisiones de carreras no se interrumpan en ningún momento, los que deberán cumplir, al menos, con los mismos estándares que se aplican para la transmisión de carreras en vivo organizadas por dicho hipódromo.
 
-tiempo real.
+d. Los lugares o recintos donde serán captadas y recibidas las apuestas, y los medios que serán utilizados para tales efectos.
 
-c. Los sistemas de seguridad que se adoptarán para que las transmisiones
+e. La forma en que serán distribuidas entre los hipódromos nacionales en actividad las cantidades indicadas en las letras b) y c), del inciso cuarto, del artículo 1º, del decreto ley Nº 2.437, de 1978, y los acuerdos que los hipódromos hayan adoptado al respecto.
 
-de carreras no se interrumpan en ningún momento, los que deberán
+f. Los convenios o acuerdos que el hipódromo pueda haber suscrito con otros hipódromos nacionales en actividad u otras entidades, para efectos de la transmisión de carreras disputadas en el extranjero, de la captación de apuestas que recaigan sobre las mismas y de la distribución del producto de estas últimas.
 
-cumplir, al menos, con los mismos estándares que se aplican para la
+#### Artículo 312
 
-transmisión de carreras en vivo organizadas por dicho hipódromo.
+Los hipódromos nacionales en actividad deberán publicar el porcentaje y la forma como se pagarán los dividendos que tengan su origen en las apuestas mutuas que reciban por la transmisión de carreras de caballos fina sangre que se disputen en el extranjero, los que en caso alguno podrán ser inferiores al 70% de lo que se recaude por dichas apuestas. Estos dividendos se podrán calcular sobre la base de las apuestas recibidas en Chile o en el hipódromo extranjero donde se dispute la respectiva carrera. Cualquier modificación que se realice con relación a esta materia, deberá cumplir con los mismos requisitos de publicidad indicados en este artículo.
 
-d. Los lugares o recintos donde serán captadas y recibidas las apuestas,
+#### Artículo 313
 
-y los medios que serán utilizados para tales efectos.
-
-e. La forma en que serán distribuidas entre los hipódromos nacionales en
-
-actividad las cantidades indicadas en las letras b) y c), del inciso
-
-cuarto, del artículo 1º, del decreto ley Nº 2.437, de 1978, y los
-
-acuerdos que los hipódromos hayan adoptado al respecto.
-
-f. Los convenios o acuerdos que el hipódromo pueda haber suscrito con
-
-otros hipódromos nacionales en actividad u otras entidades, para
-
-efectos de la transmisión de carreras disputadas en el extranjero, de
-
-la captación de apuestas que recaigan sobre las mismas y de la
-
-distribución del producto de estas últimas.
-
-#### Artículo 278
-
-H.- Los hipódromos nacionales en actividad deberán publicar el porcentaje y la forma como se pagarán los dividendos que tengan su origen en las apuestas mutuas que reciban por la transmisión de carreras de caballos fina sangre que se disputen en el extranjero, los que en caso alguno podrán ser inferiores al 70% de lo que se recaude por dichas apuestas. Estos dividendos se podrán calcular sobre la base de las apuestas recibidas en Chile o en el hipódromo extranjero donde se dispute la respectiva carrera. Cualquier modificación que se realice con relación a esta materia, deberá cumplir con los mismos requisitos de publicidad indicados en este artículo.
-
-#### Artículo 278
-
-I.- Conforme lo dispone el artículo 248 del presente Reglamento, los directorios de los hipódromos nacionales en actividad administrarán los premios a que alude la letra b), del inciso cuarto, del artículo 1º, del decreto ley Nº 2.437, de 1978, los cuales deberán destinarse exclusivamente a premios de las carreras en vivo que se disputen en dichos hipódromos.
+Conforme lo dispone el artículo 248 el presente Reglamento, los directorios de los hipódromos nacionales en actividad administrarán los premios a que alude la letra b), del inciso cuarto, del artículo 1º, del decreto ley Nº 2.437, de 1978, los cuales deberán destinarse exclusivamente a premios de las carreras en vivo que se disputen en dichos hipódromos.
 
 En el mes de enero de cada año, los hipódromos nacionales en actividad deberán remitir al Consejo Superior de la Hípica Nacional un informe que contenga un detalle de la distribución de los premios provenientes del porcentaje indicado en la norma antes citada, que haya sido asignado a los premios de las carreras en vivo disputadas en ellos en el año calendario inmediatamente anterior.
 
-#### Artículo 278
+#### Artículo 314
 
-J.- Las demás disposiciones del presente Reglamento se aplicarán a las apuestas mutuas captadas bajo el sistema de simulcasting, en cuanto no fueren contrarias a la naturaleza de esta modalidad.
+Las demás disposiciones del presente Reglamento se aplicarán a las apuestas mutuas captadas bajo el sistema de simulcasting, en cuanto no fueren contrarias a la naturaleza de esta modalidad.
 
-## Título VI — {ARTS. 279-292}
+## Título VII
+
+ARTS. 315-328
 
 De las Sanciones
 
-CAPITULO XLII {ARTS. 279-280}
+CAPITULO XLVII ARTS. 315-316
 
 Disposiciones Generales
 
-#### Artículo 279
+#### Artículo 315
 
 El Consejo Superior de la Hípica Nacional y sus comisiones, los directorios de los hipódromos y demás autoridades a que se refiere el Título II del presente Reglamento, tendrán facultad para sancionar las infracciones a éste, en la forma y dentro de los límites que en él se establecen.
 
-#### Artículo 280
+#### Artículo 316
 
 Las referidas autoridades podrán aplicar las siguientes sanciones: amonestación, multa, defaulter, suspensión, distanciamiento, retiro de las patentes de profesionales hípicos, anulación de las inscripciones de productos y de propietarios en los registros respectivos e inscripciones en los Libros de Suspensiones y de Forfeits.
 
@@ -2596,17 +2656,19 @@ Las infracciones al presente Reglamento y las multas que por este concepto apliq
 
 Los indultos de las sanciones impuestas a los infractores del Reglamento de Carreras de Chile, serán resueltos por la misma autoridad que las impuso, en la forma establecida en el mencionado Reglamento, pero en ningún caso podrán ser de carácter general.
 
-Cuando no haya una autoridad hípica especialmente designada para sancionar las infracciones a este Reglamento de Carreras, será el Consejo Superior de la Hípica Nacional quien, en el ejercicio de la obligación de hacer respetar los reglamentos que dicta, ejercerá esa potestad. Para este efecto, dispondrá de la escala de sanciones que establece el inciso primero de este artículo.
+Cuando no haya una autoridad hípica especialmente designada para sancionar las infracciones a este Reglamento de Carreras, será el Consejo Superior de la Hípica Nacional quien, en el ejercicio de la obligación de hacer respetar los reglamentos que dicta, ejercerá esa potestad.
+
+Para este efecto, dispondrá de la escala de sanciones que establece el inciso primero de este artículo.
 
 La aplicación de estas sanciones deberá aprobarse con la mayoría de los miembros en ejercicio, salvo cuando se aplique la pena de forfeits, que se exigirá la aprobación de los dos tercios de los miembros en ejercicio.
 
 En el caso de denuncias que resultaren claramente infundadas, el Consejo Superior de la Hípica Nacional tendrá facultad para castigar en los mismos grados establecidos en el inciso primero, al denunciante que haya abusado del derecho de reclamación.
 
-CAPITULO XLIII {ARTS. 281-292}
+CAPITULO XLVIII ARTS. 317-328
 
 Del Libro de Forfeits y de Suspensiones
 
-#### Artículo 281
+#### Artículo 317
 
 Los Libros de Forfeits y Suspensiones, serán los registros en los cuales deberán anotarse las sanciones de esta clase, aplicadas en los casos y por las autoridades hípicas que establece el Reglamento de Carreras de Chile.
 
@@ -2614,19 +2676,19 @@ Ambos libros serán llevados por la Oficina de Stud Book y Estadística y sus an
 
 Las referidas autoridades comunicarán a la mencionada Oficina, dentro del plazo de 48 horas contado desde la fecha en que hayan impuesto un castigo que merezca tal pena, los forfeits y las suspensiones que deban inscribirse, como asimismo, los indultos que procedan. Igual comunicación dirigirán a los hipódromos a los cuales se hagan extensivas las sanciones aplicadas y los indultos acordados.
 
-#### Artículo 282
+#### Artículo 318
 
 En el Libro de Forfeits deberán inscribirse todas las sanciones de esta clase que sean aplicadas.
 
 En el Libro de Suspensiones serán inscritas solamente aquellas cuya duración sea igual o superior a tres meses, y cuya inscripción haya sido solicitada por la autoridad hípica facultada para ello.
 
-#### Artículo 283
+#### Artículo 319
 
 Los directorios de los hipódromos deberán aplicar la pena de forfeits a las personas y a los caballos que hayan merecido esta sanción, de acuerdo a las disposiciones establecidas en el presente Reglamento.
 
 Podrán también aplicar el mismo castigo a las personas responsables de actos fraudulentos o contrarios al orden, corrección o disciplina en las actividades hípicas, como asimismo a las que no acaten las resoluciones de las autoridades de los hipódromos, ejercitando acciones ante la justicia ordinaria o ante otras autoridades o poderes del Estado, sin la debida autorización del Consejo Superior de la Hípica Nacional.
 
-#### Artículo 284
+#### Artículo 320
 
 El Consejo Superior de la Hípica Nacional aplicará la pena de forfeits en los casos contemplados en el artículo 23 de este Reglamento.
 
@@ -2636,35 +2698,35 @@ Podrá también el Consejo Superior de la Hípica Nacional, a petición del dire
 
 Adicionalmente, podrá aplicar la pena de forfeits o suspensión, a los profesionales hípicos que al representar a Chile en el extranjero, con motivo de eventos internacionales, hayan tenido una conducta profesional reprochable. El Consejo Superior de la Hípica Nacional resolverá en estos casos a petición de los hipódromos, quienes deberán hacer las correspondientes acusaciones fundadas.
 
-#### Artículo 285
+#### Artículo 321
 
 La inscripción de una persona en el Libro de Forfeits la inhabilitará para desarrollar cualquier actividad relacionada directamente con los hipódromos y para desempeñar todo cargo o función en ellos. No podrá, en consecuencia, comprar, vender, arrendar o criar caballos de carrera, inscribirlos en el Stud Book de Chile, prepararlos, cuidarlos, correrlos o hacerlos correr en los hipódromos del país, ni entrar a los recintos de éstos en días de trabajo.
 
 Los caballos inscritos en el Libro de Forfeits, no podrán correr en ningún hipódromo ni ser dedicados a la reproducción.
 
-#### Artículo 286
+#### Artículo 322
 
 La inscripción en el Libro de Forfeits será de duración indefinida.
 
 Las personas o los caballos inscritos en dicho libro, sólo podrán ser retirados de él por acuerdo de la autoridad que aplicó el castigo, adoptado con una mayoría de los dos tercios de los miembros presentes, en sesión a que asista por lo menos la mayoría absoluta de los miembros que la integren.
 
-#### Artículo 287
+#### Artículo 323
 
 La inscripción en el Libro de Suspensiones será siempre por un plazo determinado y ella afectará sólo a la actividad por la cual fue aplicada la sanción, salvo disposiciones contrarias establecidas en el presente Reglamento.
 
-#### Artículo 288
+#### Artículo 324
 
 Los profesionales suspendidos estarán impedidos de realizar todo tipo de trabajo hípico que se comprenda ordinariamente en las labores que debe ejercitar un profesional patentado.
 
 No obstante lo anterior, los jinetes que se encuentren suspendidos por menos de 30 días o a aquellos que les reste ese plazo para cumplir una sanción de mayor duración, podrán aprontar caballos mientras se encuentre vigente la suspensión, y gozarán de los beneficios que otorga el Fondo de Riesgo en los términos establecidos en el artículo 188 del presente Reglamento.
 
-#### Artículo 289
+#### Artículo 325
 
-Las inscripciones en los Libros de Forfeits o de Suspensiones que tengan por objeto sancionar faltas relacionadas con las disposiciones del capítulo XL del Título V del presente Reglamento, sólo podrán ser dejados sin efecto por el Consejo Superior de la Hípica Nacional, y con las mayorías establecidas en el inciso segundo del artículo 286.
+Las inscripciones en los Libros de Forfeits o de Suspensiones que tengan por objeto sancionar faltas relacionadas con las disposiciones del capítulo XL del Título V del presente Reglamento, sólo podrán ser dejados sin efecto por el Consejo Superior de la Hípica Nacional, y con las mayorías establecidas en el inciso segundo del artículo 322.
 
 Rechazada una solicitud de indulto, no podrá presentarse nuevamente a consideración del Consejo Superior de la Hípica Nacional hasta transcurridos 6 meses de su rechazo, salvo que la totalidad de los miembros que adoptaron el acuerdo resolvieran pronunciarse sobre ella antes de dicho plazo.
 
-#### Artículo 290
+#### Artículo 326
 
 Será declarado defaulter la persona que no haya cumplido con sus compromisos de orden financiero en materia hípica. La aplicación de esta sanción implicará la anotación del afectado en el Libro de Suspensiones.
 
@@ -2672,11 +2734,11 @@ Esta sanción sólo podrá ser aplicada por el Consejo Superior de la Hípica Na
 
 El infractor sólo quedará rehabilitado para actuar en la actividad hípica, cuando haya cumplido el plazo de suspensión y haya acreditado ante la autoridad que aplicó dicha sanción el pago de lo adeudado, determinado por resolución ejecutoriada dictada por la autoridad competente.
 
-#### Artículo 291
+#### Artículo 327
 
 Sin perjuicio de la fiscalización que le corresponderá al Inspector de Patentes que designe la Comisión de Patentes y Disciplina, los hipódromos deberán velar por que se dé estricto cumplimiento a las sanciones impuestas.
 
-#### Artículo 292
+#### Artículo 328
 
 Los profesionales hípicos independientes que quebranten los castigos impuestos, serán sancionados por el Consejo Superior de la Hípica Nacional, previo informe de la Comisión de Patentes y Disciplina.
 
