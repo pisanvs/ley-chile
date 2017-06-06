@@ -38,19 +38,19 @@ f) Crear y mantener sistemas de información y registros estadísticos en relaci
 
 #### Artículo 4º
 
-Corresponderá al Servicio Nacional de la Mujer proponer al Presidente de la República las políticas públicas para el cumplimiento de los objetivos de esta ley.
+Corresponderá al Ministerio de la Mujer y la Equidad de Género proponer al Presidente de la República las políticas públicas para el cumplimiento de los objetivos de esta ley.
 
 En coordinación y colaboración con los organismos públicos y privados pertinentes formulará anualmente un plan nacional de acción.
 
-Para los efectos de los incisos anteriores, el Servicio Nacional de la Mujer tendrá las siguientes funciones:
+Para los efectos de los incisos anteriores, el Ministerio de la Mujer y la Equidad de Género tendrá las siguientes funciones:
 
 a) Impulsar, coordinar y evaluar las políticas gubernamentales en contra de la violencia intrafamiliar;
 
 b) Recomendar la adopción de medidas legales, reglamentarias o de otra naturaleza para prevenir, sancionar y erradicar la violencia intrafamiliar;
 
-c) Prestar asistencia técnica a los organismos que intervengan en la aplicación de esta ley que así lo requieran, y
+c) Promover la contribución de los medios de comunicación para erradicar la violencia contra la mujer y realzar el respeto a su dignidad.
 
-d) Promover la contribución de los medios de comunicación para erradicar la violencia contra la mujer y realzar el respeto a su dignidad.
+Corresponderá al Servicio Nacional de la Mujer y la Equidad de Género prestar asistencia técnica a los organismos que intervengan en la aplicación de esta ley que así lo requieran.
 
 #### Artículo 5º
 
@@ -122,11 +122,11 @@ Normas Especiales. En las investigaciones y procedimientos penales sobre violenc
 
 #### Artículo 14
 
-Delito de maltrato habitual. El ejercicio habitual de violencia física o psíquica respecto de alguna de las personas referidas en el artículo 5º de esta ley se sancionará con la pena de presidio menor en su grado mínimo, salvo que el hecho sea constitutivo de un delito de mayor gravedad, caso en el cual se aplicará sólo la pena asignada por la ley a éste.
+Delito de maltrato habitual. El ejercicio habitual de violencia física o psíquica respecto de alguna de las personas referidas en el artículo 5º de esta ley se sancionará con la pena de presidio menor en su grado mínimo a medio, salvo que el hecho sea constitutivo de un delito de mayor gravedad, caso en el cual se aplicará sólo la pena asignada por la ley a éste.
 
 Para apreciar la habitualidad, se atenderá al número de actos ejecutados, así como a la proximidad temporal de los mismos, con independencia de que dicha violencia se haya ejercido sobre la misma o diferente víctima. Para estos efectos, no se considerarán los hechos anteriores respecto de los cuales haya recaído sentencia penal absolutoria o condenatoria.
 
-El Ministerio Público sólo podrá dar inicio a la investigación por el delito tipificado en el inciso primero, si el respectivo Juzgado de Familia le ha remitido los antecedentes, en conformidad con lo dispuesto en el artículo 90 de la ley N° 19.968.
+Inciso eliminado.
 
 #### Artículo 14 bis
 

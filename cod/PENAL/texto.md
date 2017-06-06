@@ -320,9 +320,13 @@ Inhabilitación absoluta perpetua para cargos y oficios públicos, derechos pol�
 
 Inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad.
 
+Inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con menores de dieciocho años de edad, adultos mayores o personas en situación de discapacidad.
+
 Inhabilitación especial perpetua para algún cargo u oficio público o profesión titular.
 
 Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad.
+
+Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con menores de dieciocho años de edad, adultos mayores o personas en situación de discapacidad.
 
 Inhabilitación absoluta temporal para cargos y oficios públicos y profesiones titulares.
 
@@ -343,6 +347,8 @@ Relegación menor.
 Destierro.
 
 Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad.
+
+Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con menores de dieciocho años de edad, adultos mayores o personas en situación de discapacidad.
 
 Inhabilitación especial temporal para emitir licencias médicas.
 
@@ -503,6 +509,16 @@ Las penas de inhabilitación absoluta perpetua o temporal para cargos, empleos, 
 1º La privación de todos los cargos, empleos, oficios y profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad que tenga el condenado.
 
 2º La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados, perpetuamente cuando la inhabilitación es perpetua, y si la inhabilitación es temporal, la incapacidad para obtenerlos, antes de transcurrido el tiempo de la condena de inhabilitación, contado desde que se hubiere dado cumplimiento a la pena principal, obtenido libertad condicional en la misma, o iniciada la ejecución de alguna de las penas de la ley Nº 18.216 como sustitutiva de la pena principal.
+
+La pena de inhabilitación absoluta temporal de que trata este artículo tiene una extensión de tres años y un día a diez años y es divisible en la misma forma que las penas de inhabilitación absoluta y especial temporales.
+
+#### Artículo 39 ter
+
+La pena de inhabilitación absoluta perpetua o temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con menores de dieciocho años de edad, adultos mayores o personas en situación de discapacidad, prevista en el artículo 403 quáter de este código, produce:
+
+1º. La privación de todos los cargos, empleos, oficios y profesiones que tenga el condenado, ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con las personas mencionadas en el inciso primero de este artículo.
+
+2º. La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados, perpetuamente cuando la inhabilitación es perpetua, y por el tiempo de la condena cuando es temporal.
 
 La pena de inhabilitación absoluta temporal de que trata este artículo tiene una extensión de tres años y un día a diez años y es divisible en la misma forma que las penas de inhabilitación absoluta y especial temporales.
 
@@ -1032,7 +1048,7 @@ Segunda.-El condenado a confinamiento o extrañamiento sufrirá la de presidio, 
 
 Tercera.-El condenado a relegación temporal o a destierro sufrirá la de reclusión o prisión por la mitad del tiempo que le falte por cumplir de la pena primitiva.
 
-5.° El inhabilitado para cargos y oficios públicos, derechos políticos y profesiones titulares o para cargos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, que los ejerciere, cuando el hecho no constituya un delito especial, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a veinte unidades tributarias mensuales.
+5.° El inhabilitado para cargos y oficios públicos, derechos políticos y profesiones titulares o para cargos, oficios o profesiones ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con menores de dieciocho años de edad, adultos mayores o personas en situación de discapacidad, que los ejerciere, cuando el hecho no constituya un delito especial, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a veinte unidades tributarias mensuales.
 
 En caso de reincidencia se doblará esta pena.
 
@@ -3346,6 +3362,8 @@ Las lesiones no comprendidas en los artículos precedentes se reputan menos grav
 
 Si los hechos a que se refieren los artículos anteriores de este párrafo se ejecutan en contra de alguna de las personas que menciona el artículo 5º de la Ley sobre Violencia Intrafamiliar, o con cualquiera de las circunstancias Segunda, Tercera o Cuarta del número 1º del artículo 391 de este Código, las penas se aumentarán en un grado.
 
+Asimismo, si los hechos a que se refieren los artículos anteriores de este párrafo se ejecutan en contra de un menor de dieciocho años de edad, adulto mayor o persona en situación de discapacidad, por quienes tengan encomendado su cuidado, la pena señalada para el delito se aumentará en un grado.
+
 #### Artículo 401
 
 Las lesiones menos graves inferidas a guardadores, sacerdotes, maestros o personas constituidas en dignidad o autoridad pública, serán castigadas siempre con presidio o relegación menores en sus grados mínimos a medios.
@@ -3362,9 +3380,43 @@ Cuando sólo hubieren resultado lesiones menos graves sin conocerse a los autore
 
 En los casos de este artículo y del anterior, se estará a lo dispuesto en el 304 para la aplicación de la pena.
 
+§ III. bis.
+
+Del maltrato a menores de dieciocho años de edad, adultos mayores o personas en situación de discapacidad.
+
 #### Artículo 403 bis
 
-Derogado.
+El que, de manera relevante, maltratare corporalmente a un niño, niña o adolescente menor de dieciocho años, a una persona adulta mayor o a una persona en situación de discapacidad en los términos de la ley N° 20.422 será sancionado con prisión en cualquiera de sus grados o multa de una a cuatro unidades tributarias mensuales, salvo que el hecho sea constitutivo de un delito de mayor gravedad.
+
+El que teniendo un deber especial de cuidado o protección respecto de alguna de las personas referidas en el inciso primero, la maltratare corporalmente de manera relevante o no impidiere su maltrato debiendo hacerlo, será castigado con la pena de presidio menor en su grado mínimo, salvo que el hecho fuere constitutivo de un delito de mayor gravedad, caso en el cual se aplicará sólo la pena asignada por la ley a éste.
+
+#### Artículo 403 ter
+
+El que sometiere a una de las personas referidas en los incisos primero y segundo del artículo 403 bis a un trato degradante, menoscabando gravemente su dignidad, será sancionado con la pena de presidio menor en su grado mínimo.
+
+#### Artículo 403 quáter
+
+El que cometiere cualquiera de los delitos contemplados en los párrafos 1, 3 y 3 bis del título VIII del libro II de este código, en contra de un menor de dieciocho años de edad, adulto mayor o persona en situación de discapacidad, además será condenado a la pena de inhabilitación absoluta temporal para ejercer los cargos contemplados en el artículo 39 ter, en cualquiera de sus grados. En caso de reincidencia en delitos de la misma especie, el juez podrá imponer la inhabilitación absoluta con el carácter de perpetua.
+
+#### Artículo 403
+
+quinquies.-
+
+Las condenas dictadas en virtud del artículo anterior deberán inscribirse en la respectiva sección del Registro General de Condenas, establecido en el decreto ley N° 645, de 1925, del Ministerio de Justicia, sobre el Registro General de Condenas.
+
+#### Artículo 403
+
+sexies.-
+
+Además de las penas establecidas en los artículos anteriores, el juez podrá decretar, como pena accesoria, la asistencia a programas de rehabilitación para maltratadores o el cumplimiento de un servicio comunitario por el plazo que prudencialmente determine, el cual no podrá exceder de sesenta días, debiendo las instituciones respectivas dar cuenta sobre el cumplimiento efectivo de dichas penas ante el tribunal.
+
+Asimismo, el juez podrá decretar, como penas o medidas accesorias, la prohibición de acercarse a la víctima o a su domicilio, lugar de cuidado, trabajo o estudio, así como a cualquier otro lugar al que ésta concurra o visite habitualmente; también, la prohibición de porte y tenencia y, en su caso, el comiso de armas de fuego; y, además, la asistencia obligatoria a programas de tratamiento para la rehabilitación del consumo problemático de drogas o alcohol, si ello corresponde.
+
+#### Artículo 403
+
+septies.-
+
+Los delitos contemplados en este párrafo serán de acción penal pública.
 
 ### IV. Del duelo
 
@@ -4266,7 +4318,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 
 4.° El que amenazare a otro con armas blancas y el que riñendo con otro las sacare, como no sea con motivo justo.
 
-5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas y circunstancias del hecho. En ningún caso el tribunal podrá calificar como leves las lesiones cometidas en contra de las personas mencionadas en el artículo 5° de la Ley sobre Violencia Intrafamiliar.
+5.° El que causare lesiones leves, entendiéndose por tales las que, en concepto del tribunal, no se hallaren comprendidas en el art. 399, atendidas la calidad de las personas y circunstancias del hecho. En ningún caso el tribunal podrá calificar como leves las lesiones cometidas en contra de las personas mencionadas en el artículo 5° de la Ley sobre Violencia Intrafamiliar, ni aquéllas cometidas en contra de las personas a que se refiere el inciso primero del artículo 403 bis de este Código.
 
 6.° El que corriere carruajes o caballerías con peligro de las personas, haciéndolo en poblado, ya sea de noche o de día cuando haya aglomeración de gente.
 
