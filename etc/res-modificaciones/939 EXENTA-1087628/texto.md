@@ -42,7 +42,7 @@ Resolución:
 
 .
 
-5. Impútese a la resolución exenta Nº 110 (V. y U.), de 2015, un total de 70.635 Unidades de Fomento, a los recursos autorizados para el Programa de Protección del Patrimonio Familiar, del año 2015, de las cuales 61.737 UF corresponden al subsidio directo y 8.898 UF a la Asistencia Técnica.
+5. Impútese a la resolución exenta Nº 110 (V. y U.), de 2015, un total de 68.234 Unidades de Fomento, a los recursos autorizados para el Programa de Protección del Patrimonio Familiar, del año 2015, de las cuales 61.737 UF corresponden al subsidio directo y 8.898 UF a la Asistencia Técnica.
 
 6. Previo a la aplicación de los subsidios comprometidos mediante la presente resolución, cada Serviu deberá verificar nuevamente que las familias beneficiadas cumplan con todos los requisitos establecidos en la resolución exenta Nº 7.909 (V. y U.) de 2015 y con lo dispuesto en el DS Nº 255 (V. y U.), de 2006, que no haya sido excepcionado por la referida resolución.
 
