@@ -68,6 +68,8 @@ Dicho Consejo estará integrado por:
 
 6) Cuatro miembros que sean ajenos a la Administración Pública, designados por el Consejo. El Consejo también designará los respectivos suplentes.
 
+7) Un representante del Instituto Nacional de Propiedad Industrial (INAPI)
+
 Los miembros representantes del sector privado, quienes actuarán ad honorem, se renovarán anualmente, siendo su período prorrogable.
 
 En caso de ausencia o impedimento de los representantes de organismos públicos, éstos serán reemplazados por las personas designadas al efecto por las respectivas autoridades, en el orden que éstas determinen, mediante el acto administrativo que corresponda.
