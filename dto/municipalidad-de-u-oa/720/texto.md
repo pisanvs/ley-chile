@@ -142,7 +142,7 @@ Coeficiente máximo de ocupación de suelo: 0,5
 
 - En terrenos mayores a 300m² 0,6
 
-- En terrenos de superficie ? a 300m²
+- En terrenos de superficie ≤ a 300m²
 
 - Coeficiente de constructibilidad 1,5
 
