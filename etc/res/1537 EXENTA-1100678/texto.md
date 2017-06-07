@@ -26,6 +26,8 @@ El Serviu de la Región respectiva será responsable de determinar si los proyec
 
 2. Los recursos destinados para la selección de las personas postulantes a este llamado alcanzarán los montos que se indican en la siguiente tabla, sin perjuicio de poder efectuarse ajustes para el mes de junio en función de la demanda presentada y los recursos disponibles del programa 2017:
 
+.
+
 3. El número de proyectos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos señalados en el resuelvo 2, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
 
 4. Para la creación de grupos postulantes nuevos, a lo menos el 70% de sus integrantes deberá pertenecer al 40% más vulnerable de la población y hasta un 30% de los integrantes podrá estar situado sobre el 40 y hasta el 90% más vulnerable de la población según el Registro Social de Hogares.
@@ -64,7 +66,7 @@ Sobre el incremento señalado en el inciso anterior, podrá adicionarse el monto
 
 17. El monto del Subsidio complementario para Proyectos de Mediana Escala, establecido en la letra k), del artículo 35, del DS Nº 49 (V. y U.), de 2011, y sus modificaciones, podrá alcanzar las 80 Unidades de Fomento en los proyectos no sobrepasen las 70 viviendas y se emplacen en el territorio definido en el Resuelvo 1. anterior.
 
-18. Los proyectos habitacionales que participen del Llamado regulado por la presente resolución, deberán estar integrados por al menos un 60% de residentes de la comuna correspondiente al proyecto. Se entenderá como comuna de residencia aquella que corresponda al domicilio en que fue encuestado el postulante para su caracterización socioeconómica.
+18. Los proyectos habitacionales que participen del Llamado regulado por la presente resolución, deberán estar integrados por al menos un 60% de residentes de la comuna del proyecto o de comunas adyacentes a esta. Se entenderá como comuna de residencia aquella que corresponda al domicilio en que fue encuestado el postulante para su caracterización socioeconómica.
 
 19. Establécese que personas beneficiarias de subsidios de la modalidad de Adquisición de Vivienda Construida de los Programas Habitacionales regulados por el DS Nº 174 (V. y U.), de 2005, y sus modificaciones, y el DS Nº 49 (V. y U.), de 2011, y sus modificaciones, podrán asociarse a los proyectos postulantes a este Llamado, de acuerdo a los montos de subsidios correspondientes al respectivo proyecto de construcción.
 
