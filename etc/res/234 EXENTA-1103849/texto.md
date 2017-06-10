@@ -1,0 +1,5 @@
+APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO ELEGIBILIDAD BENEFICIOS SISTEMAS PENSIONES SOLIDARIAS Y BONIFICACIÓN POR HIJO NACIDO VIVO"
+
+Por resolución exenta N° 234, de 9 de mayo de 2017, el Director Nacional del Instituto de Previsión Social, aprueba este procedimiento dirigido a las solicitudes de beneficios solidarios "en trámite" y a "beneficios que se pagan normalmente", para determinar el derecho de una persona para optar a los beneficios del sistema de pensiones solidarias o de bonificación por hijo nacido vivo, a través de la obtención de los registros de Elegibilidad de Beneficiarios con pago vigente y/o solicitantes de beneficios del Sistema de Pensiones Solidarias.
+
+Santiago, 5 de junio de 2017.- Patricio Coronado Rojo, Director Nacional.
