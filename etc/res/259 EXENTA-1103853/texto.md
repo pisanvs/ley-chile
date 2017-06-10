@@ -1,0 +1,5 @@
+RECHAZA RECURSO DE REPOSICIÓN, ARTÍCULO 59 LEY 19.880, DE FECHA 11.01.2017, DEDUCIDO EN CONTRA DE RESOLUCIÓN N° 4 EXENTA, DE FECHA 04.01.2016, QUE RECHAZÓ SOLICITUD DE PAGO CON SUBROGACIÓN PRESENTADA POR DON DANIEL SEGUNDO PARADA BENAVIDES
+
+Por resolución exenta N° 259, de 30 de mayo de 2017, del Director Nacional del Instituto de Previsión Social, se rechaza Recurso de Reposición, artículo 59°, ley N° 19.880, singularizado en la referencia, que dedujera el exonerado político don Daniel Segundo Parada Benavides, por denegación de solicitud de pago con subrogación de cotizaciones previsionales por labores prestadas a los empleadores "Fundo Las Mercedes" y "Asentamiento Triunfo Las Mercedes", durante los períodos que en cada caso detalla.
+
+Santiago, 5 de junio de 2017.- Patricio Coronado Rojo, Director Nacional.
