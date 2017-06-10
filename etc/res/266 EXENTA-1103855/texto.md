@@ -1,0 +1,5 @@
+RECHAZA RECURSO DE REPOSICIÓN, ARTÍCULO 59° LEY N° 19.880, DE FECHA 02.12.2016, DEDUCIDO EN CONTRA DE RESOLUCIÓN N° 30 EXENTA, DE FECHA 20.10.2016, QUE RECHAZÓ SOLICITUD DE PAGO CON SUBROGACIÓN PRESENTADA POR DOÑA YOLANDA DEL CARMEN PINO VERGARA, VIUDA DE DON ÓSCAR ALBERTO PÉREZ DELGADO
+
+Por resolución exenta N° 266, de 31 de mayo de 2017, del Director Nacional del Instituto de Previsión Social, se rechaza Recurso de Reposición, artículo 59°, ley N° 19.880, singularizado en la referencia, que dedujera doña Yolanda del Carmen Pino Vergara, viuda del exonerado político don Oscar Alberto Pérez Delgado, por denegación de solicitud de pago con subrogación de cotizaciones previsionales por labores prestadas al empleador "Hotelera Nacional S.A. (HONSA)", por el causante durante el período que indica, con la finalidad de acceder a una pensión no contributiva de viudez.
+
+Santiago, 5 de junio de 2017.- Patricio Coronado Rojo, Director Nacional.
