@@ -32,7 +32,7 @@ Resolución:
 
 ### Párrafo 1 — Disposiciones generales
 
-1. Llámase, a partir de la fecha de publicación de la presente resolución en el Diario Oficial y hasta las 14:00 horas del 31 de mayo de 2017, a postulación regional al Programa de Integración Social y Territorial, regulado por el DS N° 19 (V. y U.), de 2016, en adelante el DS N° 19, en el terreno de propiedad de Serviu Región de Tarapacá, singularizado en el considerando N° 2 del presente instrumento, período en que Serviu Región de Tarapacá procederá directamente a la recepción de proyectos habitacionales con la documentación y antecedentes exigidos en el artículo 9 del DS N° 19 (V. y U.), de 2016 y en esta resolución. Previamente, las entidades desarrolladoras deberán ingresar los datos del proyecto, a través de los medios electrónicos que el Ministerio de Vivienda y Urbanismo (Minvu) disponga para estos efectos.
+1. Llámase, a partir de la fecha de publicación de la presente resolución en el Diario Oficial y hasta las 14:00 horas del 30 de Junio de 2017, a postulación regional al Programa de Integración Social y Territorial, regulado por el DS N° 19 (V. y U.), de 2016, en adelante el DS N° 19, en el terreno de propiedad de Serviu Región de Tarapacá, singularizado en el considerando N° 2 del presente instrumento, período en que Serviu Región de Tarapacá procederá directamente a la recepción de proyectos habitacionales con la documentación y antecedentes exigidos en el artículo 9 del DS N° 19 (V. y U.), de 2016 y en esta resolución. Previamente, las entidades desarrolladoras deberán ingresar los datos del proyecto, a través de los medios electrónicos que el Ministerio de Vivienda y Urbanismo (Minvu) disponga para estos efectos.
 
 La presentación se debe realizar en dos proyectos que no superen cada uno las 160 viviendas.
 
@@ -108,7 +108,9 @@ El Serviu dispondrá de un plazo de 10 días corridos a partir de la fecha de su
 
 ### 6. Inicio de las Obras
 
-Las obras deberán iniciarse en el plazo máximo indicado en el artículo 15° del DS N° 19. La entidad desarrolladora deberá comunicar el inicio de obras al Serviu, mediante una carta que señale la fecha del inicio y acompañe una programación general de la obra que señale el porcentaje mensual de avance esperado y el permiso de edificación, cuando corresponda. El Serviu deberá verificar el inicio de las obras, en un plazo máximo de 15 días corridos, a contar de la fecha del inicio de obras informada por la entidad desarrolladora, como también verificar mensualmente si el avance de las obras está de acuerdo a lo programado y si se está cumpliendo con el proyecto aprobado y seleccionado y con las especificaciones técnicas exigidas por el DS N° 19.
+6.1. La entidad desarrolladora deberá comunicar el inicio de obras al Serviu, mediante una carta que señale la fecha del inicio y acompañe una programación general de la obra que señale el porcentaje mensual de avance esperado y el permiso de edificación, cuando corresponda.
+
+6.2. Sin perjuicio de lo dispuesto en el inciso final del artículo 15º, el Serviu deberá verificar el inicio de las obras, en un plazo máximo de 15 días corridos a contar de la fecha del inicio de obras informada por la entidad desarrolladora.
 
 ### 7. Incorporación de Familias
 
@@ -116,10 +118,10 @@ Una vez que las entidades desarrolladoras hayan comunicado el inicio de obras a 
 
 ### Párrafo 4 — De la transferencia del terreno
 
-8. La transferencia del terreno a la Entidad Desarrolladora, cuyo proyecto haya sido seleccionado, se realizará previo a la recepción de la totalidad de las obras.
+8. La transferencia del terreno a la Entidad Desarrolladora, cuyo proyecto haya sido seleccionado, se realizará una vez que las obras alcancen un 30% de ejecución o bien a los 5 meses contados desde el inicio de las obras, de acuerdo a lo señalado en el punto 6.1 de la presente resolución.
 
 Fíjase en la suma de 61.784,64 UF (sesenta y un mil setecientos ochenta y cuatro coma sesenta y cuatro unidades de fomento) el valor de la transferencia del terreno singularizado en el considerando 2° de la presente resolución, conforme al valor que indica resolución exenta N° 60, de fecha 17 de septiembre de 2015, de Serviu Región de Tarapacá que aprueba el contrato de compraventa de terreno referido.
 
-Una vez seleccionado el proyecto y suscrito el convenio a que se refiere el resuelvo 6. de esta resolución, el Serviu Región de Tarapacá deberá suscribir una carta compromiso en que se obliga a transferir el terreno a la Entidad Desarrolladora cuyos proyectos resulten seleccionados en este llamado.
+Una vez seleccionado el proyecto y suscrito el convenio a que se refiere el resuelvo 5, de esta resolución, el Serviu Región de Tarapacá, deberá suscribir una carta compromiso en que se obliga a transferir el terreno a la Entidad Desarrolladora cuyos proyectos resulten seleccionados, en un plazo no superior a 30 días, contados desde la fecha de la resolución de selección de proyectos.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Verónica Guajardo Contreras, Secretaria Regional Ministerial (S) Vivienda y Urbanismo Región de Tarapacá.
