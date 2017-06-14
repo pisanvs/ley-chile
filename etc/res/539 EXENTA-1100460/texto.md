@@ -52,19 +52,25 @@ b) El préstamo será otorgado a la Empresa Constructora o la Entidad Desarrolla
 
 c) El monto del préstamo no podrá ser superior a aquella parte del valor de las obras, expresado en el contrato de construcción, que será cubierto con subsidio del Estado.
 
-d) El préstamo podrá ser girado en cuotas, en los montos y oportunidades que Serviu autorice. Al girarse la primera cuota, el monto de la garantía podrá ser sólo respecto de esta cuota. Esta garantía deberá ser una boleta bancaria de garantía, una póliza de garantía de ejecución inmediata o un Certificado de Fianza Recíproca. Sin embargo, para girar la siguiente cuota, con autorización del Serviu, el mutuario podrá garantizarla con la misma garantía de la cuota ya girada, siempre que en su reemplazo entregue uno o más pagarés suscritos ante Notario, y así sucesivamente. En cualquier circunstancia, los montos que se hayan entregado al mutuario deberán estar siempre íntegramente garantizados por éste.
+d) El préstamo podrá ser girado en cuotas, en los montos y oportunidades establecidos en el contrato. Al girarse la primera cuota, debe ingresarse una garantía cuyo valor, a lo menos, debe ser equivalente al monto de dicha cuota. Esta garantía deberá ser una boleta bancaria de garantía, una póliza de garantía de ejecución inmediata o un Certificado de Fianza Recíproca.
+
+Para el giro de la siguiente cuota, el mutuario podrá garantizarla con la misma garantía de la cuota ya girada, siempre que su glosa y vigencia lo permitan y que cuente con la autorización del Serviu y que en reemplazo de la garantía por la primera cuota entregue un pagaré suscrito ante Notario, y así sucesivamente.
+
+En casos excepcionales, el mutuario podrá garantizar la primera cuota con un Pagaré suscrito ante Notario, lo que será autorizado por Serviu, siempre y cuando la obra registre un avance igual o superior al monto solicitado.
+
+En cualquier circunstancia, los montos que se hayan entregado al mutuario deberán estar siempre íntegramente garantizados por éste.
 
 e) El otorgamiento de estos préstamos limita en igual monto los giros por anticipo que se efectúen con cargo al subsidio.
 
 f) El préstamo deberá ser garantizado en la forma que se señala en el literal d) anterior y en el resuelvo 8. Tratándose de construcción en nuevos terrenos, se exigirá que el terreno se encuentre inscrito a nombre del Serviu respectivo en el Conservador de Bienes Raíces, debiendo en este caso el mutuario presentar, además, las garantías pecuniarias por la diferencia entre el valor del terreno y el monto del préstamo.
 
-5. Procederá también el otorgamiento de préstamos por parte de los Serviu, a las empresas constructoras o a las Entidades Desarrolladoras, tratándose de proyectos de construcción que hayan iniciado obras antes de la fecha de la presente resolución, en los que se haya verificado la entrega de una boleta bancaria, una póliza o un certificado de fianza recíproca, como garantía de un anticipo.
+5. Procederá también el otorgamiento de préstamos por parte de los Serviu, a las empresas constructoras o a las Entidades Desarrolladoras, tratándose de proyectos de construcción que a la fecha de la presente resolución ya hayan recibido anticipos, siempre que éstos se encuentren debidamente garantizados, mediante una boleta bancaria, una póliza o un certificado de fianza recíproca.
 
 En estos casos se deberán cumplir las mismas condiciones señaladas en el Resuelvo 4. anterior, salvo en lo siguiente:
 
 a) El monto del préstamo no podrá ser superior a aquella parte del valor de las obras, expresado en el contrato de construcción, que será cubierto con subsidio del Estado, deducida la suma que ya haya sido entregada en forma de anticipo.
 
-b) Todas las cuotas de estos préstamos, incluso la primera, podrán ser garantizadas con pagaré autorizado por Notario.
+b) Todas las cuotas de estos préstamos, incluso la primera, podrán ser garantizadas con pagaré autorizado por Notario. Sin perjuicio de lo anterior, el monto de cada cuota del préstamo no podrá sobrepasar la garantía entregada para caucionar el anticipo otorgado al proyecto, salvo que la diferencia sea garantizada de acuerdo a lo indicado en la letra d) del resuelvo 4.
 
 6. Para proceder al giro del préstamo se deberá acreditar el cumplimiento de los siguientes requisitos:
 
