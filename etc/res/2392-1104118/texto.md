@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 2.392 de fecha 07/06/2017, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación del lote N° 19-0, inmueble consistente en "Propiedad ubicada en calle Pedro de Valdivia número cero doscientos cincuenta y cinco, que corresponde al sitio N° 1 del loteo Santa Laura de esta ciudad", comuna de Temuco, rol de avalúo 1323-1. La superficie a expropiar aproximada es de 283,85 metros cuadrados, de aparente dominio de Washington Aravena Concha. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, arquitecto, Arturo Osvaldo Cantos Oyarzún, arquitecto, y Claudio Romo Sanhueza, arquitecto, fijó monto de indemnización provisional en $221.462.683 según informe N° 19-0/2017 de fecha 02/06/2017, pagadero contado.-
+
+Director (S) Serviu Región de la Araucanía.
