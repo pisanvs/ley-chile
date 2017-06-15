@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 2.375 de fecha 06/06/2017, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al proyecto "Construcción Red de Ciclovías de Angol", Serviu Región de la Araucanía ordenó la expropiación del Lote N° 01-0, propiedad ubicada en Angol, consistente en parte del "Terreno que forma la Faja de Vía Férrea emplazada entre las Estaciones Ferroviarias de Tijeral y Angol, que forma parte del ramal ferroviario que se desarrolla entre las Estaciones Ferroviarias de Renaico a Los Sauces. Tiene una superficie de doscientos noventa y tres mil doscientos sesenta y cinco coma sesenta metros cuadrados". Rol de avalúo desconocido. La superficie a expropiar aproximada es de 3.676,70 metros cuadrados, de aparente dominio de Empresa de los Ferrocarriles del Estado. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, arquitecto, Arturo Osvaldo Cantos Oyarzún, arquitecto y Claudio Romo Sanhueza, arquitecto, fijó monto de indemnización provisional en $68.548.740.- según informe N° 01-0 de fecha 02/06/2017, pagadero contado.-
+
+Director (S) Serviu Región de la Araucanía.
