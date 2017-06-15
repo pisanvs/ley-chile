@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.415 de fecha 07/06/2017, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del lote Nº 22-0, inmueble consistente en "1) "Resto de la quinta ubicada en esta ciudad, compuesta de dos retazos". 2) "Retazo del inmueble ubicado en el sector de la Avenida Pedro de Valdivia, de esta ciudad, formado por dos porciones"", comuna de Temuco, rol de avalúo 1304-1. La superficie a expropiar aproximada es de 652,72 metros cuadrados, de aparente dominio de Sociedad Inmobiliaria Petroil Chile Limitada. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, arquitecto, Arturo Osvaldo Cantos Oyarzún, arquitecto, y Claudio Romo Sanhueza, arquitecto, fijó monto de indemnización provisional en $515.822.733 según informe Nº 22-0/2017 de fecha 02/06/2017, pagadero contado.-
+
+Director (S) Serviu Región de la Araucanía.
