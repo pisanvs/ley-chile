@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+1. Que mediante resolución exenta Nº 1.083/2017 de fecha 17 de febrero del 2017 se resolvió recurso de revisión interpuesto por don Carlos Tapia Azócar en causa rol 1613927. Que se tuvo a la vista lo dispuesto en la Ley Nº 18.755, Orgánica del Servicio Agrícola y Ganadero; La resolución Nº 2.051, de 7 de septiembre de 2016, del Director Regional Metropolitano del Servicio Agrícola y Ganadero; el recurso interpuesto por Tamar, representada por don Carlos Tapia Azócar, domiciliado en Avda. Jaime Guzmán Nº 2259, Isla de Maipo; la resolución exenta Nº 5.655, de 17 de septiembre de 2013, en dicha presentación se resuelve: Ha lugar al recurso interpuesto por Tamar, representada por don Carlos Tapia Azócar, ya individualizado y absuélvase de la multa impuesta.
+
+Firmó: Marisol Raquel Páez Flores, Jefa División Jurídica.
