@@ -22,6 +22,6 @@ Establécese, para el Presidente del Directorio, una remuneración mensual únic
 
 Determínase, además, que en el caso de los Directores que deban integrar el Comité de Directores, sea aquel a que se refiere el artículo 50 bis) de la ley N° 18.046 u otro distinto que establezca los estatutos de la empresa, éstos deberán recibir la suma única adicional mensual de $1.278.619.- (un millón doscientos setenta y ocho mil seiscientos diecinueve pesos) por su participación en ellos, cualquiera sea el número de los comités en los que participen. Adicionalmente, quien presida el Comité de Directores deberá recibir una remuneración única mensual por concepto de participación en comités, de $2.557.240.- (dos millones quinientos cincuenta y siete mil doscientos cuarenta pesos).
 
-Las remuneraciones establecidas en el presente decreto regirán por el plazo de dos años, contado desde el día 1 de marzo de 2016, y se reajustarán, a contar del 1 de enero de 2017, conforme a las mismas disposiciones que rigen el reajuste general de remuneraciones de los funcionarios del Sector Público.
+Las remuneraciones establecidas en el presente decreto regirán por el plazo de dos años, contado desde el día 1 de marzo de 2016.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Rodrigo Valdés Pulido, Ministro de Hacienda. Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Alejandro Micco Aguayo, Subsecretario de Hacienda.
