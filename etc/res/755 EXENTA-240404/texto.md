@@ -200,7 +200,7 @@ a 300 metros
 
 1.705 a 4.500 kHz 100 µV/m a 30 metros
 
-10,3 a 10,9 MHz 30 µV/m a 30 metros
+4.500 kHz a 30 MHz 30 µV/m a 30 metros
 
 218 a 222 MHz 45 mW
 
