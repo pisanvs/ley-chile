@@ -40,21 +40,23 @@ El Comité estará integrado por representantes de las siguientes instituciones 
 
 6. Ministerio de Bienes Nacionales.
 
-7. Ministerio del Medio Ambiente.
+7. Ministerio de Energía
 
-8. Oficina Nacional de Emergencia.
+8. Ministerio del Medio Ambiente.
 
-9. Servicio Nacional de Turismo.
+9. Oficina Nacional de Emergencia.
 
-10. Corporación Nacional de Desarrollo Indígena.
+10. Servicio Nacional de Turismo.
 
-11. Dirección General de Aguas.
+11. Corporación Nacional de Desarrollo Indígena.
 
-12. Corporación Nacional Forestal.
+12. Dirección General de Aguas.
 
-13. Servicio Nacional de Geología y Minería.
+13. Corporación Nacional Forestal.
 
-14. Policía de Investigaciones de Chile.
+14. Servicio Nacional de Geología y Minería.
+
+15. Policía de Investigaciones de Chile.
 
 #### Artículo 3º
 
