@@ -5006,7 +5006,7 @@ d) los juicios en que se demande el cumplimiento de obligaciones que emanen de t
 
 e) las reclamaciones que procedan contra resoluciones dictadas por autoridades administrativas en materias laborales, previsionales o de seguridad social;
 
-f) los juicios en que se pretenda hacer efectiva la responsabilidad del empleador derivada de accidentes del trabajo o enfermedades profesionales, con excepción de la responsabilidad extracontractual a la cual le será aplicable lo dispuesto en el artículo 69 de la ley N.° 16.744, y
+f) los juicios iniciados por el propio trabajador o sus causahabientes, en que se pretenda hacer efectiva la responsabilidad contractual del empleador por los daños producidos como consecuencia de accidentes del trabajo o enfermedades profesionales. Respecto de la responsabilidad extracontractual se seguirán las reglas del artículo 69 de la ley Nº 16.744, y
 
 g) todas aquellas materias que las leyes entreguen a juzgados de letras con competencia laboral.
 
