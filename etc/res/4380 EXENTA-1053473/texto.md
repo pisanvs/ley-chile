@@ -70,6 +70,12 @@ formación en producción pecuaria, sanidad y
 
 bienestar animal.
 
+d. Solo podrán dictar los cursos aquellos relatores
+
+que se encuentren individualizados en los
+
+antecedentes presentados para la autorización.
+
 ### III. Sobre la orientación de los cursos:
 
 Estarán dirigidos al personal que se desempeñe en labores relacionadas con el manejo de animales.
@@ -124,6 +130,10 @@ c. El curso deberá ser evaluado para medir los
 
 resultados del proceso de enseñanza.
 
+d. Los cursos deberán tener un máximo de 25 alumnos
+
+por versión.
+
 2. Las instituciones u organismos de capacitación interesados en obtener el reconocimiento oficial, deberán presentar una solicitud a la Dirección Regional del SAG correspondiente a su jurisdicción, adjuntando los antecedentes que permitan respaldar el cumplimiento de los requisitos enumerados en el artículo anterior.
 
 3. Una vez aprobado por el Servicio, el reconocimiento será oficializado mediante resolución de la Dirección Regional SAG respectiva.
@@ -133,5 +143,9 @@ resultados del proceso de enseñanza.
 5. El programa de los cursos podrá ser dictado en cualquier lugar del territorio nacional, y la validez del certificado de aprobación emitido tendrá una vigencia de 36 meses, desde su emisión.
 
 6. Publíquese un listado de los cursos reconocidos por el SAG en el sitio web institucional.
+
+7. En el caso de incumplimiento de los requisitos establecidos por la presente norma, el Servicio dejará sin efecto la resolución de reconocimiento a la institución capacitadora respectiva.
+
+8. En el caso de las instituciones señaladas en el resuelvo anterior, estas no podrán solicitar un nuevo reconocimiento dentro de los 12 meses siguientes a la notificación de la respectiva resolución.
 
 Anótese, comuníquese y publíquese.- Aníbal Ariztía Reyes, Director Nacional.
