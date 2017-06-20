@@ -22,9 +22,9 @@ Considerando:
 
 Resolución:
 
-1º Otórgase a contribuyentes domiciliados en las zonas afectadas, convenios especiales, cuyas cuotas se ajusten a las reales posibilidades económicas del deudor, las que deberán cubrir parcial o totalmente la deuda tributaria.
+1º Suprimido.
 
-2º Pospóngase por 180 días, en las zonas afectadas por la catástrofe, la gestión de cobro efectuada por medio del Contact Center de la División Cobranzas y Quiebras, respecto del cobro de impuestos morosos, ya sean estos por impuestos o créditos fiscales o impuestos territoriales. De la misma forma y por igual plazo se podrán posponer las notificaciones de demandas a efectuarse por medio de carta certificada, respecto de contribuyentes domiciliados en las zonas afectadas y en relación a deudas de impuesto territorial asociadas a roles (predios) que se encuentren ubicados en las comunas afectadas.
+2º Suprimido.
 
 3º Otórgase, por un plazo de 90 días contados desde el día 21 de enero de 2017, un beneficio de mayor condonación de hasta el 100% de intereses y sanciones pecuniarias que se aplique a los contribuyentes por las infracciones a las normas tributarias, por concepto de deudas de impuestos y otros créditos fiscales, de conformidad a la modalidad de pago elegida por el contribuyente, por la declaración del estado de excepción constitucional de catástrofe, a todos los contribuyentes que tengan domicilio tributario en las provincias y comunas que se individualizan en los decretos supremos N° 84, de fecha 20 de enero de 2017, N° 88, de fecha 22 de enero de 2017, Nº 97, de fecha 23 de enero de 2017, y Nos 129 y 142, de fecha 26 de enero de 2017, todos del Ministerio del Interior y Seguridad Pública y publicados en el Diario Oficial, los días 21, 23, 25, 26 y 27 de enero, respectivamente.
 
