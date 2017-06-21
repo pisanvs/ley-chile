@@ -24,7 +24,7 @@ Entidad patrocinante: persona natural o jurídica, pública o privada, con o sin
 
 Garantía estatal de remate: pago que efectúa el Minvu, en caso de rematarse la vivienda, si el producto del remate no cubre el saldo insoluto de la deuda, con sus intereses y comisiones devengadas, cuando corresponda, incluyendo las costas del juicio.
 
-Instrumento de caracterización socioeconómica: la Ficha de Protección Social o el instrumento que la reemplace.
+Instrumento de caracterización socioeconómica: Corresponde al instrumento que permite caracterizar socioeconómicamente a la población nacional, según lo establecido en el reglamento dictado conforme a lo dispuesto en el artículo 5° de la ley N° 20.379.
 
 MINVU: Ministerio de Vivienda y Urbanismo.
 
@@ -38,9 +38,11 @@ Proyecto de densificación predial: solución habitacional que se desarrolla en 
 
 Proyecto habitacional: conjunto de viviendas a construir, cuyo proyecto, presentado al Serviu por una entidad patrocinante, ha sido aprobado por éste. El proyecto habitacional puede formar parte de un proyecto de arquitectura y urbanización mayor.
 
-Proyecto de Integración Social: proyecto habitacional de loteo con construcción simultánea o acogido a la Ley Nº 19.537 con un máximo de 300 viviendas, que incluya un porcentaje mínimo de un 20% de viviendas destinadas preferentemente a familias del primer quintil según el instrumento de caracterización socioeconómico vigente y las beneficiadas con un subsidio habitacional del D.S. Nº 49 (V. y U.), de 2011; y, además, como mínimo un 20% de viviendas destinadas preferentemente a familias que reúnen los requisitos para acceder a uno de los subsidios regulados por el presente reglamento, sean o no beneficiarios del subsidio al momento de incorporarse al proyecto.
+Proyecto de integración social: proyecto habitacional de loteo con construcción simultánea o acogido a la ley N° 19.537, con un máximo de 300 viviendas, que incluya un porcentaje mínimo de un 20% de viviendas destinadas preferentemente a familias que pertenezcan hasta el 50% más vulnerable de la población nacional, de conformidad con la información que se obtenga de la aplicación del instrumento de caracterización socioeconómica, o beneficiadas con un subsidio habitacional del DS N° 49 (V. y U.), de 2011. Además, deberá incluir como mínimo un 20% de viviendas destinadas preferentemente a familias que reúnan los requisitos para acceder a uno de los subsidios regulados por el presente reglamento, sean o no beneficiarios del subsidio al momento de incorporarse al proyecto.
 
 Serviu: Servicio(s) de Vivienda y Urbanización.
+
+Sistema de Información Territorial de la Demanda: sistema a cargo de los SERVIU, a través del cual podrán identificar, cuantificar, caracterizar a las familias que requieran una solución habitacional, conocer su ubicación en el territorio e informarles respecto de las alternativas de solución habitacional y de los requisitos de postulación, con el objeto de garantizarles el acceso a una adecuada información, además de otorgar a la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo antecedentes actualizados de la demanda habitacional existente en la región, permitiendo una mejor planificación y seguimiento del programa. El Minvu pondrá a disposición de todos los Serviu del país una plataforma informática común, la que será utilizada como soporte de este sistema.
 
 Subsidio habitacional o subsidio: ayuda estatal directa, que se otorga por una sola vez al beneficiario, sin cargo de restitución, y que constituye un complemento del ahorro que necesariamente deberá tener el beneficiario y, si lo necesitare, del crédito que obtenga para financiar la adquisición o construcción en sitio propio, de una vivienda económica. El subsidio habitacional se complementará con otros subsidios indirectos que se otorgan al beneficiario, como el subsidio implícito y a la originación; el subsidio destinado al pago de la prima del seguro de desempleo o de incapacidad temporal, cuando corresponda, y el subsidio para Asesoría Social o Asistencia Técnica.
 
@@ -100,7 +102,7 @@ a) En el caso de operaciones de compraventa que se financien con crédito hipote
 
 b) En operaciones de construcción en sitio propio o densificación predial, se estará al presupuesto indicado en el permiso de edificación, en base a las tablas de costos unitarios a que se refiere el artículo 127 de la Ley General de Urbanismo y Construcciones, incrementado en un 30%.
 
-c) En el caso de adquisición de viviendas usadas que no requieran crédito hipotecario, se considerará el mayor valor entre el precio estipulado en la escritura de compraventa y el de la tasación comercial de la vivienda, la que podrá ser realizada por el Serviu o por un consultor con inscripción vigente en el Registro Nacional de Consultores del Minvu, en la subespecialidad Tasaciones.
+c) En el caso de adquisición de viviendas usadas que no requieran crédito hipotecario, se considerará el mayor valor entre el precio estipulado en la escritura de compraventa y el de la tasación comercial de la vivienda, la que podrá ser realizada por el Serviu o por un consultor con inscripción vigente en el Registro Nacional de Consultores del Minvu, en la subespecialidad Tasaciones. Los valores señalados no podrán exceder del precio máximo establecido para cada Título y tramo, según corresponda.
 
 Tratándose de viviendas acogidas a la ley Nº 19.537, sobre Copropiedad Inmobiliaria, en el precio de la vivienda podrá también incluirse el de los estacionamientos y/o bodegas.
 
@@ -172,9 +174,15 @@ Las resoluciones que dispongan los llamados a postulación, deberán ser publica
 
 Extraordinariamente, previa autorización escrita del Ministro de Vivienda y Urbanismo, el Secretario Regional Ministerial de Vivienda y Urbanismo, en adelante el Seremi, podrá realizar llamados a ser aplicados en la Región respectiva, o en una o más provincias o comunas de esa Región. Para ello, las resoluciones que dispongan estos llamados deberán ser publicadas en el Diario Oficial a más tardar el día 25 o siguiente hábil del mes anterior al del inicio del período de postulación y serán difundidas a través de los medios de difusión que el Minvu disponga.
 
-El Ministro de Vivienda y Urbanismo podrá autorizar, mediante resoluciones fundadas, la realización de llamados a postulación en condiciones especiales. Dicha resolución establecerá los requisitos, condiciones y exigencias señaladas en este reglamento que serán obligatorias para participar en dicho llamado. Los recursos que se destinen a los llamados especiales a que se refiere este inciso no podrán exceder del 25% de los recursos del respectivo programa anual.
+El Ministro de Vivienda y Urbanismo podrá autorizar, mediante resoluciones fundadas, la realización de llamados a postulación en condiciones especiales. Dicha resolución establecerá los requisitos, condiciones, exigencias e impedimentos señalados en este reglamento que serán obligatorios para participar en dicho llamado y/o los requisitos, condiciones, exigencias e impedimentos que podrán ser eximidos, liberados o modificados. Los recursos que se destinen a los llamados especiales a que se refiere este inciso no podrán exceder del 50% de los recursos del respectivo programa anual.
 
-De la cantidad de recursos dispuesta anualmente a nivel nacional para el presente reglamento, podrá reservarse hasta un 30% para la atención de personas que se encuentren en situaciones especiales de urgente necesidad habitacional, derivados de casos fortuitos, de fuerza mayor u otros, debidamente calificados por el Ministro de Vivienda y Urbanismo, o para la atención de los damnificados como consecuencia de sismos o catástrofes de zonas que el Ministerio del Interior declare como afectadas por tales catástrofes conforme a la ley Nº 16.282, cuyo texto refundido fue fijado por DS Nº 104, de Interior, de 1977. Los subsidios que se otorguen con cargo a estos recursos podrán ser asignados directamente por resoluciones del Ministro de Vivienda y Urbanismo. En estas resoluciones se podrá eximir a los beneficiarios de uno o más de los requisitos y condiciones establecidos en el presente reglamento, incorporar y/o establecer nuevos requisitos y condiciones así como disponer montos de subsidio diferentes a los señalados en los artículos 64 y 67. En este último caso, el monto máximo de subsidio no podrá exceder del establecido para cada Título y tramo de precio de la vivienda, y la cantidad de recursos que podrá reservarse para estos efectos, no podrá exceder del 10% de aquellos dispuestos anualmente para este Sistema de Subsidio.
+En el caso de llamados para la atención de damnificados como consecuencia de sismos o catástrofes de zonas que el Ministerio del Interior declare como afectadas por catástrofes conforme a la ley N° 16.282, el Ministro de Vivienda y Urbanismo podrá incorporar y/o establecer nuevos requisitos y condiciones, autorizar montos de subsidio diferentes, mayores o menores, a los establecidos en este reglamento.
+
+De la cantidad de recursos dispuesta anualmente a nivel nacional para el presente reglamento, podrá reservarse hasta un 30% para la atención de personas que se encuentren en situaciones especiales de urgente necesidad habitacional, derivados de casos fortuitos, de fuerza mayor u otros, debidamente calificados por el Ministro de Vivienda y Urbanismo, o para la atención de los damnificados como consecuencia de sismos o catástrofes de zonas que el Ministerio del Interior declare como afectadas por tales catástrofes conforme a la ley Nº 16.282, cuyo texto refundido fue fijado por DS Nº 104, de Interior, de 1977. Los subsidios que se otorguen con cargo a estos recursos podrán ser asignados directamente por resoluciones del Ministro de Vivienda y Urbanismo. En estas resoluciones se podrá eximir o liberar a los beneficiarios de uno o más de los requisitos, condiciones, exigencias e impedimentos establecidos en el presente reglamento, incorporar y/o establecer nuevos requisitos y condiciones así como disponer montos de subsidio diferentes a los señalados en los artículos 64 y 67. En este último caso, el monto máximo de subsidio no podrá exceder del establecido para cada Título y tramo de precio de la vivienda, y la cantidad de recursos que podrá reservarse para estos efectos, no podrá exceder del 10% de aquellos dispuestos anualmente para este Sistema de Subsidio. Tratándose de casos para la atención de damnificados como consecuencia de sismos o catástrofes de zonas que el Ministerio del Interior declare como afectadas por tales catástrofes conforme a la ley N° 16.282, el Ministro de Vivienda y Urbanismo podrá autorizar montos de subsidio diferentes, mayores o menores a los establecidos para cada Título y tramo de precio de vivienda.
+
+El Minvu o el Seremi, previa autorización escrita del Ministro de Vivienda y Urbanismo, podrán efectuar mediante resoluciones fundadas llamados a postulación en condiciones especiales al subsidio habitacional, para ser aplicados sólo a viviendas de proyectos seleccionados mediante el DS N° 19 (V. y U.), de 2016. Dichas resoluciones establecerán los montos de ahorro y subsidios así como los precios máximos de vivienda, conforme a lo señalado en el artículo 3° letra a) del DS N° 19 (V. y U.), de 2016 y los requisitos, impedimentos, condiciones y exigencias señaladas en el presente Reglamento que serán obligatorias de satisfacer para participar en dicho proceso y/o cuáles requisitos, impedimentos, condiciones y exigencias podrán ser eximidas, liberadas, condicionadas o modificadas. Los recursos destinados a estos llamados no podrán exceder del 30% de los recursos del respectivo programa anual.
+
+En caso que el Ministro de Vivienda y Urbanismo delegue la facultad indicada en el inciso precedente en los respectivos SEREMI, no podrá autorizar que asignen montos de subsidio mayores a los establecidos para cada título y tramo de precio de la vivienda.
 
 #### Artículo 14
 
@@ -198,7 +206,7 @@ Requisitos y antecedentes para postular. Para postular al subsidio habitacional,
 
 a) Ser mayor de 18 años.
 
-b) Si el postulante es de nacionalidad chilena, deberá presentar su Cédula Nacional de Identidad vigente y entregar fotocopia de ella y de los documentos que se le exijan para el Título y tramo de precio de vivienda a que postule. Si el postulante es de nacionalidad extranjera, deberá presentar Cédula de Identidad para Extranjeros y entregar fotocopia de ella y del Certificado de Permanencia Definitiva conforme a las normas que regulan la residencia legal de los extranjeros en el país.
+b) Si el postulante es de nacionalidad chilena, deberá presentar su Cédula Nacional de Identidad vigente y entregar fotocopia de ella y de los documentos que se le exijan para el Título y tramo de precio de vivienda a que postule. Si el postulante es de nacionalidad extranjera, deberá presentar Cédula de Identidad para Extranjeros, en la que conste su permanencia definitiva y entregar fotocopia de ella así como el Certificado para acreditar la vigencia de la Permanencia Definitiva, conforme a las normas que regulan la residencia legal de los extranjeros en el país. Este Certificado podrá corresponder, alternativamente, al otorgado por el Departamento de Extranjería y Migración del Ministerio del Interior y Seguridad Pública o al de Vigencia de la Permanencia Definitiva emitido por la Policía de Investigaciones de Chile, con una antigüedad no mayor a 90 días corridos, contados desde su emisión. Dicho Certificado no se exigirá en caso que se verifique en línea con los organismos correspondientes.
 
 c) Cumplir con el ahorro mínimo exigido para postular al Título y tramo de precio de vivienda que corresponda, el que deberá ser acreditado conforme a lo señalado en el artículo 10 del presente reglamento.
 
@@ -218,7 +226,7 @@ g) Tratándose de postulantes que tengan derechos en comunidad sobre una viviend
 
 h) Si el postulante o el grupo organizado optan por construir en sitio propio, deberán acreditar la disponibilidad de terreno mediante alguno de los siguientes documentos:
 
-1. Sitio inscrito a nombre del postulante o de su cónyuge, cuando éste se encuentre incluido en la ficha de protección social y forme parte de la Declaración de Núcleo, o de ambos cónyuges en comunidad, o de la comunidad integrada por el cónyuge sobreviviente, sus hijos o descendientes, o del grupo organizado, mediante la presentación de copia simple de la escritura de compraventa con constancia de su inscripción en el Registro de Propiedad del Conservador de Bienes Raíces o de copia simple de la inscripción de dominio del sitio, en ambos casos con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de postulación.
+1. Sitio inscrito a nombre del postulante o de su cónyuge, cuando éste se encuentre incluido en el instrumento de caracterización socioeconómica y forme parte de la Declaración de Núcleo, o de ambos cónyuges en comunidad, o de la comunidad integrada por el cónyuge sobreviviente, sus hijos o descendientes, o del grupo organizado, mediante la presentación de copia simple de la escritura de compraventa con constancia de su inscripción en el Registro de Propiedad del Conservador de Bienes Raíces o de copia simple de la inscripción de dominio del sitio, en ambos casos con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de postulación.
 
 2. Si se postula acreditando dominio en tierras indígenas deberá acompañarse certificado de la Conadi que acredite su inscripción en el Registro de Tierras Indígenas.
 
@@ -242,27 +250,15 @@ También se podrá acreditar mediante copia de la inscripción en el Conservador
 
 i) Tratándose de postulantes o grupos organizados que optan por construcción en densificación predial, se deberán identificar el o los sitios en que se emplazarán la o las viviendas en el respectivo plano de loteo; presentar autorización notarial del propietario del sitio para la construcción de las mismas, en que conste, además, el compromiso de entregar en usufructo por a lo menos 15 años al postulante o su cónyuge, plano en que se identifique la porción de terreno en que se emplazará la o las viviendas; y copia de la inscripción de dominio en favor del propietario del sitio, con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de postulación.
 
-j) Si postula al Título I de este reglamento, debe contar con Ficha de Protección Social vigente, cuyo puntaje será consultado en línea al momento de la postulación, el cual no podrá ser superior al que se determine conforme al artículo 63 de este reglamento.
+j) Si postula a los Subsidios Habitacionales que regula este Reglamento, debe contar con el instrumento de caracterización socioeconómica y pertenecer a algunos de los porcentajes de vulnerabilidad de la población nacional definidos para cada Título y tramo, cuando corresponda, lo que será consultado en línea al momento de la postulación, a excepción de los chilenos y chilenas que residan, al menos durante cinco años, en el extranjero quienes no necesitaran ser parte del instrumento de caracterización socioeconómica para postular al Título II del presente reglamento. En este último caso, el postulante deberá presentar Certificado de Residencia legalizado o autorizado ante la Embajada o Consulado de Chile en el país respectivo. En el caso de las ciudades donde no exista una sede consular chilena, se admitirá un documento oficial legalizado que acredite residencia en el respectivo país.".
 
-Si postula al Título II, no será requisito que el interesado cuente con Instrumento de Caracterización Socioeconómica vigente, aun cuando se disponga de éste. No obstante, si opta por hacer valer dicho instrumento, podrá obtener puntaje conforme a lo establecido en la letra b) del artículo 68 de este reglamento.
+Solo se permitirá una postulación por instrumento de caracterización socioeconómica. Dicho Instrumento no podrá ser invocado si ya ha sido utilizado para acreditar núcleo familiar en postulaciones a otros programas de subsidio habitacional de este Ministerio. Todas las personas que formen parte del mismo instrumento de caracterización socioeconómica, utilizado por un postulante que resultó beneficiado con un subsidio normado por este reglamento, aun cuando en la postulación no hayan sido invocados como parte del núcleo familiar declarado, quedarán impedidos de utilizar este Instrumento en futuras postulaciones a este o a otros programas de subsidio habitacional del MINVU. Este impedimento regirá por un plazo de tres años, contados desde la fecha de la resolución que apruebe la correspondiente nómina de seleccionados.
 
-Sólo se permitirá una postulación por cada Ficha de Protección Social o del instrumento que la reemplace. Dicho instrumento tampoco podrá ser invocado, si ya ha sido utilizado para acreditar núcleo familiar en postulaciones a otros programas de subsidio habitacional de este Ministerio. Todas las personas que formen parte de una misma Ficha de Protección Social o del instrumento que la reemplace, utilizada por un postulante que resultó beneficiado con un subsidio normado por este reglamento, aun cuando en la postulación no hayan sido invocados como parte del núcleo familiar declarado, quedarán impedidos de utilizar esa Ficha en futuras postulaciones a este o a otros programas de subsidio habitacional del Minvu. Este impedimento regirá por un plazo de tres años, contados desde la fecha de la resolución que apruebe la correspondiente nómina de seleccionados.
+Como consecuencia de la postulación el postulante quedará registrado en el Sistema de Información Territorial de la Demanda.
 
-k) Presentar Declaración de Núcleo, en formulario que el Serviu respectivo proveerá para estos efectos. Todas las personas que sean invocadas por el postulante como miembros de su núcleo familiar deberán formar parte de la misma Ficha de Protección Social, contar con Rol Único Nacional y ninguno de ellos podrá estar postulando a un subsidio habitacional, tener un subsidio vigente o aplicado, ser propietario de una vivienda, sitio o infraestructura sanitaria ni estar afecto a alguno de los impedimentos señalados en el artículo 17 de este reglamento.
+k) Presentar Declaración de Núcleo, en formulario que el SERVIU respectivo proveerá para estos efectos. Todas las personas que sean invocadas por el postulante como miembros de su núcleo familiar deberán formar parte del instrumento de caracterización socioeconómica, contar con Cédula Nacional de Identidad o Cédula de Identidad para Extranjeros, según sea el caso, y ninguno de ellos podrá estar postulando a un subsidio habitacional, tener un subsidio vigente o aplicado, ser propietario de una vivienda, sitio o infraestructura sanitaria ni estar afecto a alguno de los impedimentos señalados en el artículo 17 de este reglamento.
 
-Para el Título II, si el postulante opta por no hacer valer el Instrumento de Caracterización Socioeconómica, se considerará sólo la información contenida en la Declaración de Núcleo y los antecedentes que proporcione el Servicio de Registro Civil e Identificación, cuando corresponda. Sólo podrá incorporar en su Declaración de Núcleo a las siguientes personas:
-
-i. Su cónyuge o conviviente.
-
-ii. Hijos de hasta 24 años, del postulante o su cónyuge, cumplidos durante el año calendario del llamado, que vivan con él y a sus expensas, lo que deberá ser acreditado con declaración jurada simple.
-
-iii. Padres del postulante o de su cónyuge, reconocidos como carga familiar de éstos; deberán presentar copia del documento en que conste su reconocimiento de carga familiar y declaración jurada simple que viven con él y a sus expensas.
-
-La información del núcleo familiar será consultada directamente por el Serviu al Servicio de Registro Civil e Identificación.
-
-Para la postulación a ambos Títulos, las personas mayores de 18 años incluidas como integrantes del núcleo familiar, deberán concurrir con su firma en la declaración señalada precedentemente, a la cual se deberá adjuntar fotocopia de sus respectivas Cédulas Nacional de Identidad. Las personas que cumplan 18 años en el año calendario del llamado y que sean integrantes del núcleo familiar, no tendrán obligación de firmar la citada declaración.
-
-Todas las personas invocadas como miembros del grupo familiar deberán contar con Cédula Nacional de Identidad o Cédula de Identidad para Extranjeros, según sea el caso.
+Las personas mayores de 18 años incluidas como integrantes del núcleo familiar, deberán concurrir con su firma en la declaración señalada precedentemente, a la cual se deberá adjuntar fotocopia de su respectiva Cédula Nacional de Identidad o Cédula de Identidad para Extranjeros, según sea el caso. Las personas que cumplan 18 años en el año calendario del llamado y que sean integrantes del núcleo familiar, no tendrán obligación de firmar la citada declaración.
 
 l) Declaración Jurada de Postulación, acerca de la necesidad de la obtención del subsidio para acceder a una vivienda, de la veracidad de la información proporcionada, y del conocimiento respecto a las obligaciones y prohibiciones señaladas en el artículo 39 de este reglamento.
 
@@ -364,7 +360,7 @@ Si los recursos asignados en el llamado respectivo no son suficientes para atend
 
 En caso de postulación colectiva, si el corte alcanza a un grupo de postulantes y los recursos asignados no son suficientes para atender a la totalidad de los integrantes hábiles del grupo, se excluirá a todo el grupo y los recursos que queden disponibles podrán ser redistribuidos de acuerdo a lo establecido en este reglamento.
 
-En caso de empate, si los recursos no alcanzaren para atender a todos los que se encuentren en tal situación, se dará prioridad a quienes tengan un mayor puntaje por Grupo Familiar, luego a quienes tengan un mayor puntaje por Caracterización Socioeconómica y en caso de mantenerse el empate, se dirimirá por sorteo.
+En caso de empate, si los recursos no alcanzaren para atender a todos los que se encuentren en tal situación, se dará prioridad a quienes tengan un mayor puntaje por Grupo Familiar, luego a quienes tengan mayor puntaje por monto de ahorro y en caso de mantenerse el empate, se dirimirá por sorteo.
 
 Si quedaren recursos disponibles en un llamado nacional o regional, el Ministro de Vivienda y Urbanismo o el Secretario Regional Ministerial de Vivienda y Urbanismo, respectivamente, podrá disponer que se asignen dichos recursos a otra región o regiones, o entre las distintas alternativas de postulación, mediante resoluciones que se dicten al efecto.
 
@@ -394,7 +390,7 @@ De los reemplazos. Si durante la vigencia de los certificados se produjere la re
 
 El ahorro acreditado por el reemplazante, deberá ser igual o superior al del beneficiario reemplazado. El ahorro deberá estar cumplido por el reemplazante al último día del mes anterior al ingreso al sistema computacional de la solicitud de reemplazo.
 
-En el Título I el puntaje de la Ficha de Protección Social del reemplazante, deberá ser igual o inferior al puntaje del reemplazado.
+El reemplazante deberá estar dentro del porcentaje de vulnerabilidad de la población nacional definido para cada Título.
 
 Las solicitudes de reemplazo podrán ser presentadas hasta la fecha de término del período de vigencia consignada en los certificados de subsidio a reemplazar.
 
@@ -564,6 +560,8 @@ Para los efectos de lo dispuesto en el inciso anterior, se entenderá por vivien
 
 Asimismo, durante un plazo de cinco años, el beneficiario no podrá enajenar la vivienda ni celebrar acto o contrato alguno que importe cesión de uso y goce de la misma, sea a título gratuito u oneroso, sin previa autorización escrita del Serviu. Las prohibiciones antes señaladas se inscribirán en el respectivo Registro del Conservador de Bienes Raíces competente. Transcurrido dicho plazo contado desde su inscripción, se procederá al alzamiento de las mismas prohibiciones al sólo requerimiento del interesado.
 
+El beneficiario que deseare enajenar la vivienda antes del cumplimiento de dicho plazo, deberá obtener del Serviu la autorización correspondiente, el que la otorgará bajo la condición que se le restituya el o los subsidios recibidos, al valor de la Unidad de Fomento vigente a la fecha de la restitución, quedando impedido de postular al subsidio habitacional conforme a lo establecido en la letra e) del artículo 17 del presente reglamento.
+
 La infracción por parte del beneficiario de cualquiera de las obligaciones antes señaladas, dará derecho al Serviu para exigir la restitución de la totalidad de los dineros recibidos por concepto de subsidios, al valor de la Unidad de Fomento vigente a la fecha de la restitución.
 
 #### Artículo 40
@@ -688,7 +686,7 @@ d) ELIMINADO.
 
 #### Artículo 48
 
-De la presentación y verificación de los proyectos. Para el ingreso y aprobación de los proyectos, el Serviu podrá operar mediante los sistemas electrónicos que disponga el Minvu para estos efectos. Para la verificación y aprobación de los proyectos, la entidad patrocinante deberá presentar al Serviu un proyecto habitacional que cumpla con todas las disposiciones legales, reglamentarias y los requisitos exigidos al proyecto; su equipamiento y al estándar de las viviendas que lo integran, según lo establecido en este reglamento.
+De la presentación y verificación de los proyectos. Para el ingreso y aprobación de los proyectos, el Serviu podrá operar mediante los sistemas electrónicos que disponga el Minvu para estos efectos. Para la verificación y aprobación de los proyectos, la entidad patrocinante deberá presentar al Serviu un proyecto habitacional que cumpla con todas las disposiciones legales, reglamentarias y los requisitos exigidos al proyecto; su equipamiento y al estándar de las viviendas que lo integran, según lo establecido en este reglamento. Para la definición de los proyectos habitacionales, las entidades patrocinantes podrán consultar al Serviu antecedentes que provengan del Sistema de Información Territorial de la Demanda, respecto de la cuantificación y caracterización de las familias y su ubicación en el territorio.
 
 Al presentar el proyecto habitacional al Serviu, la entidad patrocinante, deberá acompañar los siguientes antecedentes:
 
@@ -852,7 +850,7 @@ a) Adquisición de una vivienda nueva o usada en el mercado inmobiliario.
 
 b) Adquisición de una vivienda que sea parte de un proyecto de la Nómina de Oferta de Proyectos Habitacionales, elegida conforme a lo señalado en el artículo 55.
 
-c) Construcción de una vivienda en sitio propio o en densificación predial. El proyecto deberá ser desarrollado a través de una entidad patrocinante o de un Prestador de Asistencia Técnica inscrito en el Registro respectivo, pudiendo el Serviu informar acerca de las actividades que deba realizar para el desarrollo del proyecto. Los honorarios que se pagarán a la entidad patrocinante o al prestador, se fijarán por resolución del Ministro de Vivienda y Urbanismo.
+c) Construcción de una vivienda en sitio propio o en densificación predial. El proyecto deberá ser desarrollado a través de una entidad patrocinante o de un Prestador de Asistencia Técnica inscrito en el Registro respectivo, pudiendo el Serviu informar acerca de las actividades que deba realizar para el desarrollo del proyecto. Los honorarios que se pagarán a la entidad patrocinante o al prestador, se fijarán por resolución del Ministro de Vivienda y Urbanismo. El subsidio obtenido en esta alternativa de postulación, no podrá ser aplicado en una operación de adquisición de vivienda.
 
 #### Artículo 52
 
@@ -980,7 +978,7 @@ Mediante resoluciones del Ministro de Vivienda y Urbanismo se fijará el monto d
 
 #### Artículo 63
 
-De los postulantes al Título I. El Subsidio habitacional regulado por el presente Título, está orientado a familias de sectores emergentes, con capacidad de ahorro y/o endeudamiento, que correspondan hasta el 60% de la población de menores ingresos de acuerdo a la última encuesta Casen, que cuenten con un puntaje del Instrumento de Caracterización Socioeconómica vigente determinado por el Ministerio de Desarrollo Social igual o inferior al fijado mediante resoluciones del Ministro de Vivienda y Urbanismo, publicadas en el Diario Oficial.
+De los postulantes al Título I. El subsidio habitacional regulado por el presente Título está orientado a familias de sectores medios, con capacidad de ahorro y/o endeudamiento, que correspondan a familias de hasta el 60% más vulnerable de la población nacional, para el tramo 1, y de hasta el 80% para el tramo 2, de conformidad con la información que se obtenga de la aplicación del instrumento de caracterización socioeconómica. Para ambos tramos, tratándose de postulantes de 60 o más años de edad, considerando a quienes los cumplen durante el año calendario del llamado a postulación, podrán pertenecer hasta el 90% más vulnerable de la población nacional.
 
 #### Artículo 64
 
@@ -1004,13 +1002,15 @@ b.2) Título I, tramo 2:
 
 c) En caso que el beneficiario o uno o más integrantes del núcleo familiar declarado por éste estuvieren inscritos en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en las tablas precedentes se adicionarán hasta con 20 U.F., siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el núcleo familiar del postulante.
 
-d) Si el beneficiario aplica el subsidio a la adquisición, en primera transferencia, de una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el SERVIU respectivo, obtendrá un subsidio adicional de 100 U.F. a los determinados en las tablas de las letra a.1) y a.2).
+d) Si el beneficiario aplica el subsidio a la adquisición, en primera transferencia, de una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el SERVIU respectivo, obtendrá un subsidio de 200 U.F. adicional a los determinados en las tablas de la letra a.1) y a.2) del presente artículo.
 
 e) Conforme a los gastos que rinda al momento de presentar a cobro el certificado de subsidio, en el caso de una operación de construcción en sitio propio o densificación predial, el beneficiario obtendrá un subsidio adicional de hasta 15 U.F. destinado a financiar el costo de la elaboración del proyecto y gastos administrativos, tales como el permiso de edificación, recepción final municipal, certificados e inscripciones que correspondan.
 
 En el caso de operaciones de adquisición correspondientes al tramo 1, el beneficiario obtendrá un subsidio adicional de hasta 10 U.F. para el pago de los aranceles que correspondan, para cubrir costos de estudio de títulos, escrituración y notaría, tasación de la vivienda, informe de aceptabilidad, inscripción en el Conservador de Bienes Raíces.
 
 Para el pago de este subsidio adicional se deberán presentar las respectivas boletas o facturas en que estén señalados los montos gastados, pudiendo el subsidio ser pagado a quien determine el beneficiario.
+
+Mediante resolución fundada del Ministro de Vivienda y Urbanismo, con aprobación de la Dirección de Presupuestos del Ministerio de Hacienda, se podrá establecer un factor multiplicador que ajuste el monto y/o fórmula de cálculo del subsidio a que se refieren las letras a.1), a.2), b.2) y d) del presente artículo. Dicho factor representará las variaciones en el costo de los materiales de construcción, el valor de la mano de obra, el costo del suelo, y en general aquellos aspectos estacionarios o permanentes que incidan en el costo local y/o regional de construcción o adquisición de la vivienda objeto de este programa.
 
 #### Artículo 65
 
@@ -1028,11 +1028,11 @@ a) Grupo Familiar:
 
 30 puntos adicionales por cada miembro del Núcleo Familiar Declarado, incluido el postulante que estuviere inscrito en el Registro Nacional de la Discapacidad a que se refiere el artículo 55 de la Ley Nº 20.422 que Establece Normas Sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad.
 
-100 puntos adicionales como postulante, si éste tuviese 60 o más años de edad, considerando al que los cumple durante el año calendario del llamado a postulación.
+150 puntos adicionales como postulante, si éste tuviese 60 o más años de edad, considerando al que los cumple durante el año calendario del llamado a postulación.
 
 30 puntos adicionales por cada integrante del núcleo familiar declarado, excluido el postulante, que tuviese 60 o más años de edad, considerando a los que los cumplan durante el año calendario del llamado a postulación.
 
-100 puntos si el postulante o su cónyuge invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por DS Nº 1.040, de Interior, de 2003, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, a que se refiere el artículo 3º transitorio de la ley Nº 20.405.
+300 puntos si el postulante o su cónyuge invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por DS Nº 1.040, de Interior, de 2003, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, a que se refiere el artículo 3º transitorio de la ley Nº 20.405.
 
 20 puntos por cada integrante del núcleo familiar que acredite haber cumplido efectivamente con su Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar, y que han quedado en condición de Acuartelados en el Proceso de Selección de Contingente a partir del año 2004.
 
@@ -1042,19 +1042,21 @@ a) Grupo Familiar:
 
 40 puntos adicionales si el postulante o su cónyuge, o conviviente civil, que son funcionarios de Gendarmería de Chile, certificada esta situación conforme a lo indicado en la letra p) del artículo 16. Este puntaje será incompatible con el de cumplimiento de Servicio Militar.
 
-Para estos efectos, los miembros del núcleo familiar incluido en la Declaración de Núcleo deberán corresponder a los comprendidos en el Instrumento de Caracterización Socio Económica aplicado al postulante.
+Los miembros del núcleo familiar incluidos en la Declaración de Núcleo deberán corresponder a los incluidos en el instrumento de caracterización socioeconómica aplicado al postulante.
 
-b) Puntaje por Caracterización Socioeconómica:
+b) Vulnerabilidad habitacional:
 
-El cálculo de puntaje para cada tramo de este Título corresponderá a la diferencia entre el puntaje a que se refiere el artículo 63 de este reglamento para cada tramo y el puntaje del Instrumento de Caracterización Socioeconómica obtenido por el postulante, dividida por cien.
+El puntaje por vulnerabilidad habitacional será el siguiente, de acuerdo al índice de hacinamiento, que corresponde al cociente entre el número de personas y el número de dormitorios de la vivienda que habitan, según la información proporcionada por el instrumento de caracterización socioeconómica:
 
-c) Monto de Ahorro:
+.
 
-2 puntos por cada Unidad de Fomento que exceda el ahorro mínimo exigido para postular y que no supere las 100 U.F.;
+c) Monto de ahorro:
 
-1 punto por cada U.F. que exceda de 100 U.F. y no supere las 150 U.F;
+4 puntos por cada U.F. que exceda el ahorro mínimo exigido para postular y que no supere las 100 U.F.;
 
-0,5 puntos por cada U.F. que exceda de 150 y no supere las 200 U.F.;
+2 puntos por cada U.F. que exceda de 100 U.F. y no supere las 150 U.F.;
+
+1 punto por cada U.F. que exceda de 150 U.F. y no supere las 200 U.F.,
 
 0,05 puntos por cada U.F. que exceda de 200 U.F.
 
@@ -1086,15 +1088,17 @@ f) Programa de arriendo:
 
 #### Artículo 66
 
-De los postulantes al Título II.
-
-El subsidio habitacional regulado por el presente Título está dirigido a familias de sectores medios de la población, con capacidad de endeudamiento.
+De los postulantes al Título II. El subsidio habitacional regulado por el presente Título, está orientado a familias de sectores medios, con capacidad de ahorro y/o endeudamiento, que correspondan a familias de hasta el 90% más vulnerable de la población nacional, de conformidad con la información que se obtenga por aplicación del instrumento de caracterización socioeconómica, a excepción de los chilenos y chilenas que residan, al menos durante cinco años, en el extranjero quienes no necesitaran ser parte del instrumento de caracterización socioeconómica para postular a este Título. En este último caso, el postulante deberá presentar Certificado de Residencia legalizado o autorizado ante la Embajada o Consulado de Chile en el país respectivo. En el caso de las ciudades donde no exista una sede consular chilena, se admitirá un documento oficial legalizado que acredite residencia en el respectivo país.
 
 #### Artículo 67
 
 Montos del subsidio y del ahorro para el Titulo II. Los montos de subsidio y el ahorro mínimo exigido para postular a este Título, según el precio máximo de vivienda para cada tramo, expresados todos en U.F., serán los siguientes:
 
 a) Subsidio y ahorro mínimo para postular a operaciones de adquisición de vivienda del Título II:
+
+.
+
+* En que "P" corresponde al precio de la vivienda de acuerdo a lo señalado en las letras a) y c) artículo 7° del presente Reglamento.
 
 Los montos de subsidio se calcularán con dos decimales.
 
@@ -1108,7 +1112,9 @@ d) Tratándose de la adquisición de una vivienda económica que se origine de l
 
 e) En caso que el beneficiario o uno o más integrantes del núcleo familiar declarado por éste estuvieren inscritos en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en las tablas de las letras a) y b) precedentes se adicionarán hasta 20 U.F., siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el núcleo familiar del postulante.
 
-f) Si el beneficiario aplica el subsidio a la adquisición, en primera transferencia, de una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el SERVIU respectivo, obtendrá un subsidio adicional de 100 U.F. a los determinados en la tabla de la letra a).
+f) Si el beneficiario aplica el subsidio a la adquisición, en primera transferencia, de una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el SERVIU respectivo, obtendrá un subsidio de 200 U.F., adicional a los determinados en las tablas de la letra a) del presente artículo.
+
+Mediante resolución fundada del Ministro de Vivienda y Urbanismo, con aprobación de la Dirección de Presupuestos del Ministerio de Hacienda, se podrá establecer un factor multiplicador que ajuste el monto y/o fórmula de cálculo del subsidio a que se refieren las letras a), b) y f) del presente artículo. Dicho factor representará las variaciones en el costo de los materiales de construcción, el valor de la mano de obra, el costo del suelo, y en general aquellos aspectos estacionarios o permanentes que incidan en el costo local y/o regional de construcción o adquisición de la vivienda objeto de este programa.
 
 #### Artículo 68
 
@@ -1120,39 +1126,7 @@ a) Grupo Familiar:
 
 40 puntos por cada uno de los integrantes del núcleo familiar señalado en la Declaración de Núcleo, incluido el conviviente, de ser el caso, con excepción del postulante, quien en ningún caso obtendrá puntaje por este concepto.
 
-En caso que el postulante no esté encuestado con el Instrumento de Caracterización Socioeconómica vigente, se considerará sólo la información contenida en la Declaración de Núcleo y los antecedentes que proporcione el Servicio de Registro Civil e Identificación, cuando corresponda. Sólo podrá incorporar en su Declaración de Núcleo a las siguientes personas:
-
-. Su cónyuge o conviviente.
-
-. Hijos de hasta 18 años, del postulante
-
-o de su cónyuge, cumplidos durante el
-
-año calendario del llamado.
-
-. Hijos mayores de 18 y hasta 24 años,
-
-del postulante o de su cónyuge, cumplidos
-
-durante el año calendario del llamado,
-
-que vivan con él y a sus expensas, lo que deberá
-
-ser acreditado mediante declaración jurada simple.
-
-. Padres del postulante o de su cónyuge,
-
-reconocidos como carga familiar de éstos; deberán
-
-presentar copia del documento en que conste su
-
-reconocimiento como carga familiar y declaración
-
-jurada simple que viven con él y a sus expensas.
-
-La información del núcleo familiar será consultada directamente por el Serviu al Servicio de Registro Civil e Identificación.
-
-35 puntos adicionales como postulante, si éste es madre o padre soltero, divorciado o viudo que tenga hijos a su cargo de hasta 24 años incluidos los que los cumplan en el año calendario del llamado, que vivan con él y a sus expensas. Lo anterior deberá ser acreditado con una declaración jurada simple, en caso que el postulante no cuente con el Instrumento de Caracterización Socioeconómica. No se otorgará este puntaje en caso que el postulante incorpore a su conviviente en el formulario Declaración de Núcleo.
+35 puntos adicionales como postulante, si éste es madre o padre soltero, divorciado o viudo que tenga a su cargo hijos de hasta 24 años incluidos los que los cumplan en el año calendario del llamado. No se otorgará este puntaje en caso que el postulante incorpore a su conviviente en el formulario Declaración de Núcleo.
 
 30 puntos adicionales por cada menor de hasta 5 años incluido en la Declaración de Núcleo, comprendidos los que cumplan 5 años durante el año calendario del llamado a postulación.
 
@@ -1160,11 +1134,11 @@ La información del núcleo familiar será consultada directamente por el Serviu
 
 30 puntos adicionales por cada miembro del Núcleo Familiar Declarado, incluido el postulante que estuviere inscrito en el Registro Nacional de la Discapacidad a que se refiere el artículo 55 de la Ley Nº 20.422 que Establece Normas Sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad.
 
-100 puntos adicionales como postulante, si éste tuviese 60 o más años de edad, considerando al que los cumple durante el año calendario del llamado a postulación.
+150 puntos adicionales como postulante, si éste tuviese 60 o más años de edad, considerando al que los cumple durante el año calendario del llamado a postulación.
 
 30 puntos adicionales por cada integrante del núcleo familiar declarado, excluyendo al postulante que tuviese 60 o más años de edad, considerando a los que los cumplan durante el año calendario del llamado a postulación.
 
-100 puntos si el postulante o su cónyuge invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por DS Nº 1.040, de Interior, de 2003, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, a que se refiere el artículo 3º transitorio de la ley Nº 20.405.
+300 puntos si el postulante o su cónyuge invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, designada por DS Nº 1.040, de Interior, de 2003, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, a que se refiere el artículo 3º transitorio de la ley Nº 20.405.
 
 20 puntos por cada integrante del núcleo familiar que acredite haber cumplido efectivamente con su Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar, y que ha quedado en condición de Acuartelado en el Proceso de Selección de Contingente a partir del año 2004.
 
@@ -1174,9 +1148,13 @@ La información del núcleo familiar será consultada directamente por el Serviu
 
 40 puntos adicionales si el postulante o su cónyuge, o conviviente civil, que son funcionarios de Gendarmería de Chile, certificada esta situación conforme a lo indicado en la letra p) del artículo 16. Este puntaje será incompatible con el de cumplimiento de Servicio Militar.
 
-b) Puntaje por Caracterización Socioeconómica, si la tuviere:
+Los miembros del núcleo familiar incluidos en la Declaración de Núcleo deberán corresponder a los comprendidos en el instrumento de caracterización socioeconómica aplicado al postulante.
 
-Corresponderá a la diferencia entre el puntaje asociado al tercer quintil del Instrumento de Caracterización Socioeconómica determinado por el Ministerio de Desarrollo Social y el puntaje del Instrumento de Caracterización Socioeconómica obtenido por el postulante, dividida por cien. Si la diferencia es negativa, o no se acredita el Instrumento de Caracterización Socioeconómica, el postulante no obtendrá puntaje por este concepto.
+b) Vulnerabilidad habitacional:
+
+El puntaje por vulnerabilidad habitacional será el siguiente, de acuerdo al índice de hacinamiento, que corresponde al cociente entre el número de personas y el número de dormitorios de la vivienda que habitan, según la información proporcionada por el Instrumento de Caracterización Socioeconómica:
+
+.
 
 c) Monto de Ahorro:
 
@@ -1321,6 +1299,8 @@ En caso que la entidad crediticia autorice la novación por cambio de deudor, de
 Si la entidad crediticia transfiere el contrato de mutuo hipotecario otorgado conforme al presente reglamento, lo dispuesto en este artículo respecto a los términos y condiciones que se establecen para la entidad crediticia, regirá igualmente para el cesionario del mismo así como de quienes lo adquieran con posterioridad.
 
 Lo señalado en este artículo también será aplicable a un crédito hipotecario que se destine a refinanciar la deuda del crédito original, siempre que el crédito para el refinanciamiento se otorgue conforme a las condiciones señaladas en este reglamento.
+
+> **Nota.** El numeral 16 del artículo 1° del Decreto 22, Vivienda, publicado el 21.06.2017, modifica la presente norma en EL sentido de reemplazar en la tabla inserta el guarismo "2.200" por "2.400".
 
 #### Artículo 74 bis
 

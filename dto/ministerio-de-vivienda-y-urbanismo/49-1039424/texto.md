@@ -18,7 +18,7 @@ Objetivo del Programa Habitacional Fondo Solidario de Elección de Vivienda
 
 El programa regulado por el presente reglamento, denominado Programa Habitacional Fondo Solidario de Elección de Vivienda, en adelante también el Programa, tiene por objeto promover el acceso de las familias que se encuentran en situación de vulnerabilidad a una solución habitacional a través de un subsidio otorgado por el Estado.
 
-El programa está destinado a atender preferentemente a las familias del primer quintil de vulnerabilidad definido por el Ministerio de Desarrollo Social o su sucesor legal, ajustado en base a condiciones de carencia habitacional establecidas por resolución fundada del Ministro de Vivienda y Urbanismo, en adelante también el Ministro. Tratándose de postulaciones colectivas, el grupo organizado podrá incluir como máximo un 30% de familias pertenecientes hasta el tercer quintil de vulnerabilidad.
+El programa está destinado a atender preferentemente a las familias que pertenezcan al 40% más vulnerable de la población nacional, en conformidad con la información que se obtenga de la aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5° de la ley N° 20.379, en adelante Instrumento de Caracterización Socioeconómica. Tratándose de postulaciones colectivas, el grupo organizado podrá incluir como máximo un 30% de familias calificadas sobre el 40% y hasta el 90% más vulnerable de la población nacional, siempre que se encuentren en las condiciones de carencia habitacional u otras situaciones de vulnerabilidad socioeconómica que se establezcan por resolución fundada del Ministro de Vivienda y Urbanismo, en adelante también el Ministro. El postulante individual a la tipología de Construcción en Sitio Propio podrá pertenecer hasta el 50% más vulnerable de la población nacional.
 
 Mediante resoluciones fundadas del Ministro de Vivienda y Urbanismo se podrán señalar todas aquellas operaciones o actos que incidan en la aplicación práctica de este reglamento. Adicionalmente, mediante circulares del Subsecretario de Vivienda y Urbanismo podrán impartirse instrucciones a los Servicios de Vivienda y Urbanización, en adelante también SERVIU, para la aplicación y/o aclaración de las disposiciones del presente reglamento.
 
@@ -46,7 +46,7 @@ Para postular al subsidio habitacional los interesados deberán cumplir los sigu
 
 a) Ser mayor de 18 años.
 
-b) Si el postulante es de nacionalidad chilena, deberá presentar su Cédula Nacional de Identidad vigente y entregar fotocopia de ella. Si el postulante es de nacionalidad extranjera, deberá presentar Cédula de Identidad para Extranjeros y entregar fotocopia de ella y del Certificado de Permanencia Definitiva, conforme a las normas que regulan la residencia legal de los extranjeros en el país.
+b) Si el postulante es de nacionalidad chilena, deberá presentar su Cédula Nacional de Identidad vigente y entregar fotocopia de ella. Si el postulante es de nacionalidad extranjera, deberá presentar Cédula de Identidad para Extranjeros, en la que conste su permanencia definitiva y entregar fotocopia de ella y del Certificado de Permanencia Definitiva conforme a las normas que regulan la residencia legal de los extranjeros en el país. Este Certificado podrá corresponder, alternativamente, al otorgado por el Departamento de Extranjería y Migración del Ministerio del Interior y Seguridad Pública o al de Vigencia de la Permanencia Definitiva entregado por la oficina correspondiente de la Policía Internacional de Investigaciones de Chile. Dicho Certificado no se exigirá en caso que se verifique en línea con los organismos correspondientes.
 
 c) Cumplir con el ahorro mínimo exigido, el que deberá ser acreditado conforme a lo señalado en el artículo 39 del presente reglamento.
 
@@ -54,13 +54,13 @@ d) Si el postulante o uno o más integrantes del núcleo familiar declarado por 
 
 e) Tratándose de indígenas, para acreditar tal calidad, como asimismo la de padre, madre, cónyuge o hijo de una persona que tenga tal calidad, se estará a las disposiciones de la Ley Nº 19.253, sobre Protección, Fomento y Desarrollo de los Indígenas, debiendo acompañarse documento extendido por la Corporación Nacional de Desarrollo Indígena, en adelante también CONADI.
 
-f) Tratándose de postulantes que tengan derechos en comunidad sobre una vivienda o si los tiene su cónyuge o conviviente u otro miembro del núcleo familiar declarado, deberán presentar certificado de dominio vigente o copia de la escritura en que consten dichos derechos o el instrumento que acredite tal condición, en ambos casos con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de postulación. Para el pago del certificado de subsidio, deberá acreditar haber cedido dichos derechos, mediante la correspondiente escritura pública inscrita.
+f) Tratándose de postulantes que tengan derechos en comunidad sobre una vivienda o si los tiene su cónyuge o conviviente u otro miembro del núcleo familiar declarado, deberán presentar certificado de dominio vigente o copia de la escritura en que consten dichos derechos o el instrumento que acredite tal condición, en ambos casos con certificado de vigencia extendido con no más de 90 días corridos de anticipación a la fecha de postulación. Para el pago del certificado de subsidio, deberá acreditar haber cedido dichos derechos, mediante la correspondiente escritura pública inscrita, salvo en el caso a que se refiere el inciso final del Artículo 62 del presente reglamento.
 
-g) Contar con Ficha de Protección Social vigente o el instrumento de caracterización socioeconómica que la reemplace, cuya información será consultada en línea al momento de la postulación. Las familias podrán postular de acuerdo a sus condiciones de vulnerabilidad y carencia habitacional, conforme a lo establecido en el inciso segundo del artículo 1 del presente reglamento.
+g) Contar con Instrumento de Caracterización Socioeconómica, cuya información será consultada en línea al momento de la postulación o del ingreso al Banco de Postulaciones.
 
 h) Presentar Declaración de Núcleo Familiar en formulario que el SERVIU respectivo proveerá para estos efectos. Las personas incluidas en esta declaración deberán cumplir con los siguientes requisitos y condiciones:
 
-1. Todas las personas que sean invocadas por el postulante como miembros de su núcleo familiar deberán formar parte de la misma Ficha de Protección Social o del instrumento que la reemplace.
+1. Todas las personas que sean invocadas por el postulante como miembros de su núcleo familiar deberán formar parte del mismo Instrumento de Caracterización Socioeconómica.
 
 2. Ninguno de los integrantes del núcleo identificado o sus cónyuges podrá estar postulando a un subsidio habitacional, ni tener subsidio vigente o ser propietario de una vivienda o caseta sanitaria.
 
@@ -80,7 +80,7 @@ j) Tratándose de postulantes que opten por la tipología de Construcción en Si
 
 5. Tratándose de postulantes acogidos a la citada Ley Nº 19.253, deberán acompañar escritura pública inscrita de cesión de derechos del terreno a favor del postulante, o de su cónyuge, o de ambos cónyuges en comunidad, o de la sucesión integrada por el cónyuge sobreviviente, sus hijos o descendientes.
 
-6. Copia de la inscripción en el Conservador de Bienes Raíces del instrumento público mediante el cual se hubiere constituido usufructo o derecho real de uso por el propietario del terreno sobre una determinada porción del mismo, a favor del postulante que sea ascendiente o descendiente de aquél, o pariente por consanguinidad o por afinidad, o colateral hasta el segundo grado inclusive. También podrá postular el cónyuge del titular del derecho anteriormente mencionado.
+6. Copia de la inscripción en el Conservador de Bienes Raíces del instrumento público mediante el cual se hubiere constituido usufructo o derecho real de uso por el propietario del terreno sobre una determinada porción del mismo, a favor del postulante que sea ascendiente o descendiente de aquél, o pariente por consanguinidad o por afinidad, o colateral hasta el cuarto grado inclusive. También podrá postular el cónyuge del titular del derecho anteriormente mencionado.
 
 7. Si se postula acreditando derechos en comunidades agrícolas a las que se refiere el DFL Nº 5, de 1968, del Ministerio de Agricultura, deberá acompañarse copia de la inscripción de dominio o de la cesión de derechos a favor de comuneros agrícolas, otorgado por el Conservador de Bienes Raíces, con certificado de vigencia. Estos derechos podrán ser acreditados por el postulante, por su cónyuge, por ambos cónyuges en comunidad o por la sucesión integrada por el cónyuge sobreviviente, sus hijos o descendientes.
 
@@ -92,6 +92,10 @@ j) Tratándose de postulantes que opten por la tipología de Construcción en Si
 
 11. Certificado emitido por el Ministerio de Bienes Nacionales que acredite que el inmueble poseído por el postulante o por su cónyuge se encuentra sometido al procedimiento de regularización establecido en el DL Nº 2.695, de 1979, que se ha cumplido con las medidas de publicidad establecidas en el artículo 11º de dicho cuerpo legal, y que no se ha deducido oposición de terceros dentro del plazo de 30 días hábiles que señala ese precepto.
 
+12. Carta compromiso suscrita por el SERVIU, cuando éste lo haya autorizado previamente, para el desarrollo de proyectos en terrenos de su propiedad.
+
+13. Contrato de promesa de compraventa suscrito ante Notario, cuyos términos sean coincidentes y no se contrapongan con el Contrato de Promesa de Compraventa Tipo entregado por el SERVIU, acompañado de copia de la inscripción, de dominio a nombre del promitente vendedor, con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años.
+
 k) Tratándose de postulantes que opten por la tipología de Densificación Predial, deberán acreditar la disponibilidad de terreno mediante los siguientes documentos:
 
 1. Contrato de promesa de compraventa o promesa de cesión de derechos del predio en que se emplazará el proyecto, otorgado por escritura pública, y
@@ -100,9 +104,13 @@ k) Tratándose de postulantes que opten por la tipología de Densificación Pred
 
 l) Tratándose de postulantes que opten por la tipología de Pequeño Condominio, deberán acreditar la disponibilidad de terreno mediante los siguientes documentos:
 
-1. Copia de alguno de los documentos exigibles para acreditar dominio para la tipología de Construcción en Sitio Propio, en el caso del propietario del sitio, o de la comunidad de propietarios que formará parte del proyecto, y
+1. Copia de alguno de los documentos exigibles para acreditar dominio para la tipología de Construcción en Sitio Propio, en el caso del propietario del sitio, o de la comunidad de propietarios que formará parte del proyecto, salvo por los numerales 12. y 13.
 
-2. Contrato de promesa de cesión de derechos del predio en que se emplazará el proyecto, para los efectos de conformar una copropiedad de acuerdo a la Ley 19.537, para los postulantes no propietarios.
+2. Contrato de promesa de cesión de derechos del predio en que se emplazará el proyecto, para los efectos de conformar una copropiedad de acuerdo a la ley 19.537, para los postulantes no propietarios.
+
+3. Carta compromiso suscrita por el SERVIU, cuando éste lo haya autorizado previamente, para el desarrollo de proyectos en terrenos de su propiedad, en favor de la totalidad de las familias que componen el pequeño condominio.
+
+4. Contrato de promesa de compraventa suscrito ante Notario, cuyos términos sean coincidentes y no se contrapongan con el Contrato de Promesa de Compraventa Tipo entregado por el SERVIU, acompañado de copia de la inscripción de dominio a nombre del promitente vendedor, con certificado de vigencia y certificado de hipotecas y gravámenes, de interdicciones y prohibiciones y litigios pendientes de 30 años, en favor de la totalidad de las familias que componen el pequeño condominio.
 
 m) Tratándose de postulantes en cuyo núcleo familiar se incluyan voluntarios activos del Cuerpo de Bomberos de Chile, para optar al puntaje establecido para esos efectos en el literal a) del artículo 24, deberán adjuntar la inscripción en el Registro Nacional de Bomberos Voluntarios a cargo de la Junta Nacional de Cuerpos de Bomberos de Chile.
 
@@ -112,7 +120,7 @@ n) Tratándose de postulantes o su cónyuge o conviviente civil que sean funcion
 
 #### Artículo 4
 
-Impedimentos para postular y para aplicar el subsidio habitacional
+Impedimentos para postular y para aplicar el subsidio habitacional, en los casos que se indica
 
 Sin perjuicio de los otros impedimentos establecidos en este reglamento, no podrán postular a este subsidio ni aplicarlo las personas que se encuentren en alguna de las siguientes situaciones:
 
@@ -126,7 +134,7 @@ d) Los que estuvieren postulando a cualquier otro programa habitacional de las I
 
 e) No podrán postular en el mismo proceso de selección, por sí mismos o ser ingresados como parte de otra postulación, los miembros del núcleo familiar incluidos en la declaración del postulante.
 
-f) No se podrán invocar como integrantes de un núcleo familiar a personas que hayan sido incorporadas en otro núcleo que haya resultado beneficiado en un proceso de selección anterior o mediante asignación directa, hasta tres años contados desde la fecha de la resolución que apruebe la correspondiente nómina de seleccionados, salvo que el respectivo titular hubiere renunciado al subsidio. Respecto de aquellos que hayan sido invocados en una declaración de núcleo siendo menores de edad, la presente limitación aplicará solo hasta que cumplan su mayoría de edad. Para estos efectos, los integrantes del núcleo que haya sido declarado serán registrados por el SERVIU.
+f) No se podrán invocar corno integrantes de un núcleo familiar a personas que hayan sido incorporadas en otro núcleo. Los integrantes de un núcleo que haya resultado beneficiado en un proceso de selección anterior o mediante asignación directa, no podrán ser invocados por otro núcleo hasta tres años contados desde la fecha de la resolución que apruebe la correspondiente nómina de seleccionados, salvo que el respectivo titular hubiere renunciado al subsidio. Respecto de aquellos que hayan sido invocados en una declaración de núcleo siendo menores de edad, la presente limitación aplicará solo hasta que cumplan su mayoría de edad. Para estos efectos, los integrantes del núcleo que haya sido declarado serán registrados por el SERVIU.
 
 g) Las que hubieren obtenido del SERVIU o de sus antecesores legales, o de las Municipalidades o a través de los mecanismos del Impuesto Habitacional, una vivienda o una caseta sanitaria o un subsidio habitacional o una subvención municipal, a través de cualesquiera de los sistemas que regulan o hayan regulado dichos beneficios, o con financiamiento proveniente de un préstamo habitacional obtenido del SERVIU o de sus antecesores legales, sea directamente o a través de cooperativas de vivienda, y lo hubieren aplicado a la adquisición o construcción de una vivienda o caseta sanitaria, o lo hubiere obtenido y aplicado su cónyuge o alguno de los miembros del núcleo familiar declarado.
 
@@ -232,15 +240,15 @@ Del Proyecto Habitacional
 
 En la modalidad de construcción de viviendas, podrán ser ingresados al SERVIU para su calificación proyectos habitacionales correspondientes a las siguientes tipologías:
 
-a) Construcción en Nuevos Terrenos (CNT), incluidos los Megaproyectos (MP): La construcción de un conjunto habitacional incluyendo su urbanización, que deberá contar con un solo permiso de edificación y/o loteo, y deberán tener un mínimo de 10 viviendas y un máximo de 160, considerando el equipamiento y áreas verdes contemplados en la normativa vigente.
+a) Construcción en Nuevos Terrenos (CNT), incluidos los Megaproyectos (MP): La construcción de un conjunto habitacional incluyendo su urbanización, que deberá contar con un solo permiso de edificación y/o loteo, y deberán tener un mínimo de 10 viviendas y un máximo de 160, considerando el equipamiento y áreas verdes contemplados en la normativa vigente. El proyecto podrá incorporar infraestructura y/o edificaciones existentes en el terreno en el que se desarrolle, considerando su recuperación o rehabilitación como parte de la intervención.
 
-Se entiende por Megaproyecto la construcción de un conjunto habitacional, incluyendo su urbanización, con un mismo permiso de edificación, que puede alcanzar las 600 viviendas a desarrollarse en etapas de un mínimo de 70 y un máximo de 160 viviendas, a emplazar en áreas que cumplan con los requisitos para obtener subsidio diferenciado a la localización. Cada etapa deberá contemplar la proporción de superficies de áreas verdes, equipamiento y vialidad que correspondería según la Ordenanza General de Urbanismo y Construcción, en adelante también OGUC, como si se tratara de un loteo singular, considerando conectividad entre sus etapas. El Megaproyecto deberá ingresar en su totalidad a evaluación, incluyendo viviendas en todas las etapas a ser aplicadas con este reglamento.
+Se entiende por Megaproyecto la construcción de un conjunto habitacional, incluyendo su urbanización, con un mismo permiso de edificación, que puede alcanzar las 600 viviendas a desarrollarse en etapas de un mínimo de 70 y un máximo de 160 viviendas, que se emplace en terrenos que cumplan con los requisitos para obtener subsidio diferenciado a la localización. Cada etapa deberá contemplar la proporción de superficies de áreas verdes, equipamiento y vialidad que correspondería según la Ordenanza General de Urbanismo y Construcción, en adelante también OGUC, como si se tratara de un loteo singular, considerando conectividad entre sus etapas. El Megaproyecto deberá ingresar en su totalidad a evaluación, incluyendo viviendas en todas las etapas a ser aplicadas con este reglamento.
 
-b) Densificación Predial (DP): Solución habitacional que se desarrolla en predios con una o más viviendas existentes, en los cuales se construyen una o más soluciones habitacionales.
+b) Densificación Predial (DP): Solución habitacional que se desarrolla en predios con una o más viviendas existentes, en los cuales se construyen una o más soluciones habitacionales. La construcción de la o las nuevas viviendas puede considerar la rehabilitación total o parcial de la o las viviendas existentes, para la generación de la o las unidades habitacionales adicionales.
 
-c) Construcción en Sitio Propio (CSP): La construcción de una vivienda en el sitio de propiedad del postulante.
+c) Construcción en Sitio Propio (CSP): La construcción de una vivienda en el sitio de propiedad del postulante. El proyecto podrá incorporar infraestructura y/o edificaciones existentes en el terreno en el que se desarrolle, considerando su recuperación o rehabilitación como parte de la intervención.
 
-d) Pequeño Condominio (PC): Proyecto habitacional acogido al régimen de copropiedad inmobiliaria regulado por la Ley 19.537, que se desarrolla en un predio urbano, en el cual se construyen de 2 a 9 soluciones habitacionales y opcionalmente equipamiento.
+d) Pequeño Condominio (PC): Proyecto habitacional acogido al régimen de copropiedad inmobiliaria regulado por la Ley 19.537, que se desarrolla en un predio urbano, en el cual se construyen de 2 a 9 soluciones habitacionales y opcionalmente equipamiento. El proyecto podrá incorporar infraestructura y/o edificaciones existentes en el terreno en el que se desarrolle, considerando su recuperación o rehabilitación como parte de la intervención.
 
 #### Artículo 10
 
@@ -332,11 +340,15 @@ El grupo organizado deberá ser ingresado al Banco de Postulaciones junto con el
 
 El ingreso de los antecedentes para la postulación se efectuará directamente en las oficinas que el SERVIU respectivo dispondrá para tal efecto, así como en las municipalidades acreditadas para ello por el SERVIU respectivo, o en otros servicios públicos con los cuales se suscriban los respectivos convenios, con arreglo a la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, o a través de los medios electrónicos que se establezcan para estos efectos.
 
+Tratándose de postulaciones colectivas, la Entidad Patrocinante tendrá un plazo máximo de 180 días, a partir de la incorporación de la primera familia en un proyecto en preparación en el sistema informático, para el ingreso de los antecedentes a que se refiere el inciso anterior. En caso de superarse este plazo, se eliminarán los antecedentes incorporados al sistema informático.
+
+El SERVIU estará facultado para solicitar únicamente los antecedentes requeridos en el presente reglamento y aquellos que sean estrictamente necesarios para la verificación del cumplimiento de sus requerimientos.
+
 #### Artículo 13
 
 De la evaluación de Proyectos
 
-El Ministerio de Vivienda y Urbanismo pondrá a disposición de las Entidades Patrocinantes un Sistema Informático para los efectos de ingresar los antecedentes de las familias y de los proyectos habitacionales que postulen a este Programa.
+El Ministerio de Vivienda y Urbanismo pondrá a disposición de las Entidades Patrocinantes un Sistema Informático para los efectos de ingresar los antecedentes de las familias y de los proyectos habitacionales que postulen a este Programa. En caso que el sistema informático provisto permita la verificación de los requerimientos técnico-económicos, legales y/o sociales del presente programa, el SERVIU no podrá solicitar antecedentes para su verificación física al momento del ingreso y evaluación de la postulación, salvo en los casos que la información señalada por el sistema informático haya sido editada en dicho sistema para efectos de postular.
 
 Luego del ingreso, el estudio de los antecedentes del proyecto habitacional estará a cargo del SERVIU, quien realizará la evaluación técnico-económica, social y legal de los proyectos técnicos, además de la evaluación de las familias integrantes del grupo organizado. Esta evaluación será coordinada por un funcionario designado por el Director del SERVIU respectivo, para estos efectos, quien consolidará para cada proyecto las diferentes áreas de evaluación, cuando corresponda, velando por su consistencia y el debido cumplimiento de sus plazos. El SERVIU tendrá plazo de 30 días hábiles para evaluar los antecedentes que acompañan el Proyecto Habitacional o Técnico.
 
@@ -372,7 +384,7 @@ Sólo en los siguientes casos se podrá otorgar la Calificación Condicional al 
 
 a) Cuando el proyecto habitacional no cuente con Permiso de Edificación, siempre que para el ingreso al Banco se hayan acompañado todos los antecedentes exigidos por la OGUC para la aprobación de permisos de urbanización y de edificación, incluido el anteproyecto aprobado por la DOM.
 
-b) Si la Entidad Patrocinante acredita fa disponibilidad del terreno en los términos señalados en el número 4. de la letra k) del artículo 10.
+b) Si la Entidad Patrocinante acredita fa disponibilidad del terreno en los términos señalados en el número 4. de la letra k) del artículo 10, o bien, en los términos señalados en el número 13 de la letra j) y 4 de la letra l), ambos del artículo 3.
 
 c) Si al momento del ingreso de los antecedentes no se hubiere acreditado fehacientemente que los aportes adicionales comprometidos en dinero, que sean fundamentales y necesarios para el desarrollo del proyecto, se encuentran ingresados al SERVIU, a excepción de los aportes provenientes del Gobierno Regional respectivo o de otros fondos públicos.
 
@@ -394,7 +406,7 @@ La Nómina de Oferta de Proyectos estará compuesta por el total de viviendas di
 
 Las viviendas disponibles en la nómina de oferta podrán ser asociadas a grupos organizados para los efectos de ingresar su postulación y/o adscritas por beneficiarios que cuenten con subsidio habitacional no asociado a proyecto.
 
-La Entidad Patrocinante que presente un proyecto técnico, deberá establecer una cantidad mínima de viviendas a adscribir o asociar que otorgue factibilidad de ejecución al proyecto, con lo cual se hace viable la construcción del mismo. Cuando dicha cantidad sea alcanzada por medio de adscripciones y/o asociaciones de familias que hayan obtenido el subsidio, deberá darse inicio a las obras de acuerdo al artículo 32 del presente reglamento. Esa cantidad no podrá ser inferior al 70% del total de las viviendas del proyecto o etapa del proyecto en caso de Megaproyectos. El MINVU estará facultado para difundir en todo el país, por los medios de difusión que estime convenientes, la información correspondiente a los proyectos aprobados que forman parte de la Nómina de Oferta y que estén destinados para la asociación o adscripción de postulantes y beneficiarios del presente reglamento.
+La Entidad Patrocinante que presente un proyecto técnico, deberá establecer una cantidad mínima de viviendas a adscribir o asociar que otorgue factibilidad de ejecución al proyecto, con lo cual se hace viable la construcción del mismo. Cuando dicha cantidad sea alcanzada por medio de adscripciones y/o asociaciones de familias que hayan obtenido el subsidio, deberá darse inicio a las obras de acuerdo al artículo 32 del presente reglamento. Esa cantidad no podrá ser inferior al 70% del total de las viviendas del proyecto. El MINVU estará facultado para difundir en todo el país, por los medios de difusión que estime convenientes, la información correspondiente a los proyectos aprobados que forman parte de la Nómina de Oferta y que estén destinados para la asociación o adscripción de postulantes y beneficiarios del presente reglamento.
 
 La adscripción al proyecto habitacional que forme parte de la Nómina de Oferta la realizará el beneficiario en el SERVIU, a través del Sistema Informático u otro medio de que el MINVU disponga para tal efecto, obteniendo en dicho momento un Comprobante de Adscripción al Proyecto.
 
@@ -446,7 +458,9 @@ El proceso de selección se desarrollará entre la fecha máxima establecida par
 
 Llamados en Condiciones Especiales
 
-Sin perjuicio de lo señalado en el artículo anterior, el Ministro de Vivienda y Urbanismo podrá efectuar o autorizar a la SEREMI, mediante resoluciones fundadas, la realización de llamados a procesos de selección en condiciones especiales. Dichas resoluciones establecerán cuáles de los requisitos, condiciones y exigencias señaladas en este reglamento serán obligatorias de satisfacer para participar en dicho proceso y/o cuáles requisitos, condiciones y exigencias podrán ser eximidas, condicionadas o modificadas.
+Sin perjuicio de lo señalado en el artículo anterior, el Ministro de Vivienda y Urbanismo podrá efectuar o autorizar a la SEREMI, mediante resoluciones fundadas, la realización de llamados a procesos de selección en condiciones especiales. Dichas resoluciones establecerán cuáles de los requisitos, impedimentos, condiciones y exigencias señaladas en este reglamento serán obligatorias de satisfacer para participar en dicho proceso y/o cuales requisitos, impedimentos, condiciones y exigencias podrán ser eximidas, liberadas, condicionadas o modificadas.
+
+Sin perjuicio de lo señalado en el inciso anterior, el Minvu o el Seremi, previa autorización escrita del Ministro de Vivienda y Urbanismo, podrán efectuar mediante resoluciones fundadas llamados a procesos de selección en condiciones especiales en la alternativa individual, para seleccionar familias que pertenezcan hasta el 50% más vulnerable de la población nacional de conformidad con la información que se obtenga por aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5° de la Ley N°20.379, para los efectos de incorporarse solo a proyectos seleccionados mediante el DS N° 19 (V. y U.), de 2016. Dichas resoluciones establecerán los montos de ahorro y subsidios así como los precios máximos de vivienda, conforme a lo señalado en el artículo 3° letra a) del DS N° 19 (V. y U.), de 2016 y los requisitos, impedimentos, condiciones y exigencias señaladas en el presente Reglamento que serán obligatorias de satisfacer para participar en dicho proceso y/o cuáles requisitos, impedimentos, condiciones y exigencias podrán ser eximidas, liberadas, condicionadas o modificadas.
 
 #### Artículo 22
 
@@ -470,81 +484,85 @@ En la postulación colectiva se aplicará la regla del inciso anterior para el g
 
 Los grupos asociados a Megaproyectos podrán ser seleccionados si los recursos del llamado son suficientes para atender a la totalidad de los grupos asociados. En caso que los recursos no resulten suficientes, se omitirá este Megaproyecto y se podrán seleccionar el o los grupos que le siguen en el orden de prelación, hasta agotar los recursos disponibles.
 
-En caso de empate, si los recursos no alcanzaren para atender a todos los que se encuentren en tal situación, se dará prioridad a quienes tengan un mayor puntaje por Núcleo Familiar, luego a quienes tengan un mayor puntaje en el factor de Vulnerabilidad Social y finalmente mayor puntaje en el factor de Vulnerabilidad Habitacional, según corresponda, y en caso de mantenerse el empate, se dirimirá por sorteo.
+En caso de empate, si los recursos no alcanzaren para atender a todos los que se encuentren en tal situación, se dará prioridad a quienes tengan un mayor puntaje por Núcleo Familiar, luego a quienes tengan un mayor puntaje en el factor de Vulnerabilidad Habitacional, luego a quienes tengan un mayor puntaje en el factor de Antigüedad de la Postulación, y finalmente mayor puntaje en el factor de Antigüedad y Permanencia del Ahorro, y en caso de mantenerse el empate, se dirimirá por sorteo.
 
 #### Artículo 24
 
-Factores de Puntaje
+Factores de puntaje
 
-Los factores para determinar el puntaje que definirá la prelación entre los postulantes serán los siguientes:
+Los factores para determinar el puntaje que definirá la prelación entre los postulantes, serán los siguientes:
 
 a) Núcleo Familiar:
 
-40 puntos por cada uno de los integrantes del grupo familiar señalado en la Declaración de Núcleo Familiar, incluido el conviviente, de ser el caso, exceptuando al postulante. El postulante unipersonal no obtendrá puntaje por este concepto.
+50 puntos por cada uno de los integrantes del grupo familiar señalado en la Declaración de Núcleo Familiar, incluidos el conviviente civil y el conviviente, de ser el caso, exceptuando al postulante. El postulante unipersonal no obtendrá puntaje por este concepto.
 
-100 puntos adicionales, si el postulante es madre o padre soltero, divorciado o viudo que tenga a su cargo hijos de hasta 24 años, incluidos los que cumplan 25 en el año calendario del llamado, que vivan con él y a sus expensas, lo que se deberá acreditar con una declaración jurada simple. No se otorgará este puntaje en caso que en la Ficha de Protección Social, o en el instrumento que la reemplace, se identifique al postulante con cónyuge o conviviente.
+40 puntos adicionales por cada menor entre 6 y hasta 18 años de edad, integrantes del núcleo familiar identificado en la Declaración de Núcleo, al 31 de diciembre del año calendario del llamado.
 
-30 puntos adicionales por cada menor de hasta 5 años de edad incluido en la Declaración de Núcleo, comprendidos los que cumplan 5 años durante el año calendario del llamado.
-
-20 puntos adicionales por cada menor entre 6 y hasta 18 años de edad, integrantes del núcleo familiar identificado en la Declaración de Núcleo, incluidos los que cumplan 6 y 18 años durante el año calendario del llamado.
-
-100 puntos adicionales por cada miembro del núcleo familiar declarado que estuviere inscrito en el Registro Nacional de la Discapacidad.
+50 puntos adicionales por cada menor de hasta 5 años de edad, incluido en la Declaración de Núcleo, al 31 de diciembre del año calendario del llamado.
 
 100 puntos adicionales por cada miembro integrante del Núcleo Familiar declarado que tuviese 60 o más años de edad, considerando los que cumplen 60 años durante el año calendario del llamado.
 
-100 puntos si el postulante o su cónyuge invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura.
-
-40 puntos adicionales por cada integrante del núcleo familiar que acredite ser voluntario activo del Cuerpo de Bomberos y que se encuentre inscrito en el Registro Nacional de Bomberos Voluntarios a cargo de la Junta Nacional de Cuerpo de Bomberos de Chile
+40 puntos adicionales por cada integrante del núcleo familiar que acredite ser voluntario activo del Cuerpo de Bomberos y que se encuentre inscrito en el Registro Nacional de Bomberos Voluntarios a cargo de la Junta Nacional del Cuerpo de Bomberos de Chile.
 
 20 puntos por cada integrante del núcleo familiar que haya cumplido efectivamente con su Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar, y que ha quedado en condición de Acuartelado en el Proceso de Selección de Contingente a partir del año 2004.
 
-40 puntos adicionales si el postulante o su cónyuge, o conviviente civil, que son funcionarios de Gendarmería de Chile, certificada esta situación conforme a lo indicado en la letra n) del artículo 3. Este puntaje será incompatible con el de cumplimiento de Servicio Militar.
+40 puntos adicionales si el postulante o su cónyuge, o conviviente civil, pertenece a las Plantas de Suboficiales y Gendarmes, o de Profesionales funcionarios, de Profesionales, de Técnicos, de Administrativos y de Auxiliares, de Gendarmería de Chile, cuyas funciones permanentes se desarrollen al interior de recintos penitenciarios, certificada esta situación por Gendarmería de Chile, y, que tengan domicilio en la región de preferencia que manifiesten al postular, o donde se emplace el proyecto, en cuyo caso el domicilio corresponderá al registrado en el certificado a que se refiere la letra n) del artículo 3. Este puntaje será incompatible con el de cumplimiento de Servicio Militar.
 
-b) Vulnerabilidad Social
+Para el puntaje final de este factor, se sumarán los puntos mencionados anteriormente, no pudiendo este puntaje ser mayor a 600 puntos.
 
-Para postulaciones colectivas, se considerará como Puntaje de Vulnerabilidad Social el correspondiente al quintil de vulnerabilidad al que pertenezca el núcleo familiar postulante, según el Ministerio de Desarrollo Social, o su sucesor legal, conforme a lo siguiente:
+b) Vulnerabilidad Habitacional
 
-90 puntos para núcleos familiares pertenecientes al primer quintil de vulnerabilidad.
+Se considerará como Puntaje de Vulnerabilidad Habitacional aquel que resulte de la suma de los siguientes ítems:
 
-45 puntos para núcleos familiares pertenecientes al segundo quintil de vulnerabilidad.
+i. Hacinamiento
 
-Las familias pertenecientes a otros quintiles de vulnerabilidad no recibirán puntaje por este concepto.
-
-c) Vulnerabilidad Habitacional
-
-Se considerará como Puntaje de Vulnerabilidad Habitacional (PtjeVH) aquel que resulte de la siguiente ecuación:
+Se otorgará el siguiente puntaje de acuerdo al índice de hacinamiento del núcleo familiar al que pertenece el postulante:
 
 .
 
-Índice de hacinamiento: Corresponde al cuociente entre el número de personas y el número de dormitorios, calculado en base a los antecedentes consignados en la Ficha de Protección Social o el instrumento que la reemplace, de la cual forma parte el núcleo familiar del postulante.
+El índice de hacinamiento corresponderá al cociente entre el número de personas y el número de habitaciones usadas como dormitorio, calculado en base a los antecedentes consignados en el Instrumento de Caracterización Socioeconómica, del hogar del cual forma parte el núcleo familiar del postulante.
 
-Tipo: Corresponde a la variable Tipo de Vivienda de la Ficha de Protección Social o el instrumento que la reemplace, de la cual forma parte el núcleo familiar del postulante, según la siguiente clasificación:
+ii. Tipo de vivienda
 
-.
-
-Agua: Corresponde a la variable disponibilidad de agua de la Ficha de Protección Social o el instrumento que la reemplace, de la cual forma parte el núcleo familiar del postulante, según la siguiente clasificación:
+Se otorgará el siguiente puntaje de acuerdo a la variable Tipo de Vivienda consignada en el Instrumento de Caracterización Socioeconómica, del hogar del cual forma parte el núcleo familiar del postulante, complementada con la variable Materialidad de Pisos en el primer indicador:
 
 .
 
-Excretas: Corresponde a la variable sistema de eliminación de excretas de la Ficha de Protección Social o el instrumento que la reemplace, de la cual forma parte el núcleo familiar del postulante, según la siguiente clasificación:
+iii. Distribución de agua
+
+Se otorgará el siguiente puntaje de acuerdo a la variable Distribución de Agua consignada en el Instrumento de Caracterización Socioeconómica, del hogar del cual forma parte el núcleo familiar del postulante:
 
 .
 
-d) Antigüedad de la postulación
+iv. Sistema de baño
 
-i. Individual
+Se otorgará el siguiente puntaje de acuerdo a la variable Sistema de Baño consignada en el Instrumento de Caracterización Socioeconómica, del hogar del cual forma parte el núcleo familiar del postulante:
 
-20 puntos por cada postulación en que no haya sido seleccionado, con un máximo de 60 puntos, en llamados a concurso regulados por el presente reglamento u otros llamados a postulación habitacional efectuados por el MINVU destinados a la obtención de una vivienda.
+.
 
-ii. Colectiva
+c) Antigüedad de la postulación
 
-20 puntos por cada postulación de cada integrante del Comité postulante en que no haya sido seleccionado, en llamados a concurso regulados por el presente reglamento u otros llamados a postulación habitacional efectuados por el MINVU destinados a la obtención de una vivienda, con un máximo de 120 puntos.
+i. Individual:
 
-e) Antigüedad y permanencia del ahorro
+40 puntos por cada postulación en que no haya sido seleccionado, con un máximo de 160 puntos, en llamados a concurso regulados por el presente reglamento u otros llamados a postulación habitacional efectuados por el MINVU destinados a la obtención de una vivienda.
 
-5 puntos por cada mes de Antigüedad del instrumento para mantener y acreditar el ahorro, contados desde el mes de apertura del citado instrumento hasta el mes de inicio del proceso de selección, con un máximo de 90 puntos.
+ii. Colectiva:
 
-20 puntos si el promedio del saldo medio mensual del semestre previo al ingreso de los antecedentes de la postulación es igual o superior al 12,5% del saldo acreditado en dicho momento.
+80 puntos por cada postulación de cada integrante del Comité postulante en que no haya sido seleccionado, en llamados a concurso regulados por el presente reglamento u otros llamados a postulación habitacional efectuados por el MINVU destinados a la obtención de una vivienda, con un máximo de 160 puntos por cada postulante.
+
+d) Antigüedad y permanencia del ahorro:
+
+1 punto por cada mes de antigüedad del instrumento para mantener y acreditar el ahorro, contados desde el mes de apertura del citado instrumento hasta el mes de inicio del proceso de selección, con un máximo de 40 puntos.
+
+10 puntos si el promedio del saldo medio mensual del semestre previo al ingreso de los antecedentes de la postulación, es igual o superior al 12,5% del saldo acreditado en dicho momento.
+
+e) Condiciones especiales de vulnerabilidad:
+
+300 puntos adicionales por cada miembro del núcleo familiar declarado que estuviere inscrito en el Registro Nacional de la Discapacidad. Adicionalmente, en esta situación el núcleo familiar postulante recibirá una bonificación del 50% de la sumatoria de los puntajes obtenidos en los factores señalados en las letras a), b), c) y d) precedentes.
+
+600 puntos si el postulante o su cónyuge o conviviente civil invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura. Adicionalmente el núcleo familiar postulante recibirá una bonificación del 50% de la sumatoria de los puntajes obtenidos en los factores señalados en las letras a), b), c) y d) precedentes.
+
+150 puntos adicionales, si el postulante es madre o padre soltero, divorciado o viudo que tenga a su cargo hijos de hasta 24 años, incluidos los que cumplan 25 en el año calendario del llamado, que vivan con él y a sus expensas, lo que se deberá acreditar con una declaración jurada simple. No se otorgará este puntaje si en el Instrumento de Caracterización Socioeconómica vigente, se identifique al postulante con cónyuge, conviviente civil o conviviente.
 
 #### Artículo 25
 
@@ -562,13 +580,13 @@ Una vez efectuada la publicación señalada en el artículo anterior, los postul
 
 Sólo serán atendidos los reclamos fundados en errores de hecho no imputables a los postulantes ni a la entidad patrocinante, los que serán resueltos administrativamente mediante resoluciones del SERVIU, sin perjuicio de los derechos establecidos en la Ley Nº 19.880 y de las facultades que la Ley Nº 10.336 otorga a la Contraloría General de la República.
 
-Los postulantes, sean individuales o colectivos, cuyos reclamos fueren acogidos y cuyos puntajes fueren superiores al puntaje de corte del respectivo llamado, serán incluidos en una nueva nómina de postulantes seleccionados, la que será aprobada mediante resolución fundada del Ministro de Vivienda y Urbanismo, de acuerdo a la prelación que les corresponda. Los subsidios que se otorguen se imputarán a los recursos autorizados correspondientes al año del llamado a postulación.
+Los postulantes, sean individuales o colectivos, cuyos reclamos fueren acogidos y cuyos puntajes fueren superiores al puntaje de corte del respectivo llamado, serán incluidos en una nueva nómina de postulantes seleccionados, la que será aprobada mediante resolución fundada del SEREMI de Vivienda y Urbanismo respectivo, de acuerdo a la prelación que les corresponda. Los subsidios que se otorguen se imputarán a los recursos autorizados correspondientes al año del llamado a postulación.
 
 #### Artículo 27
 
 De la Asignación Especial de Subsidios
 
-De la cantidad de recursos dispuesta anualmente a nivel nacional para el Programa regulado por el presente reglamento, podrá reservarse hasta un 30% para la atención de personas que se encuentren en situaciones especiales de urgente necesidad habitacional, derivadas de casos fortuitos, de fuerza mayor u otros, debidamente calificados por el Ministro de Vivienda y Urbanismo, o para la atención de los damnificados como consecuencia de sismos o catástrofes de zonas que el Ministerio del Interior y Seguridad Pública declare como afectadas por tales catástrofes conforme a la Ley Nº 16.282, cuyo texto refundido fue fijado por el DS Nº 104, de Interior, de 1977. Los subsidios que se otorguen con cargo a estos recursos podrán ser asignados directamente por resoluciones fundadas del Ministro de Vivienda y Urbanismo. En estas resoluciones podrá eximirse a los beneficiarios del cumplimiento de uno o más de los requisitos, modificarse condiciones o requisitos e incluso disponerse el aumento de los montos de subsidio establecidos en este reglamento. Asimismo, en el uso de esta facultad se podrán otorgar subsidios para proyectos habitacionales, pudiendo diferirse la determinación de la nómina de beneficiarios hasta antes que el SERVIU realice la recepción de las obras del proyecto, nómina que en todo caso deberá ser sancionada mediante resolución fundada del Ministro de Vivienda y Urbanismo, quien podrá delegar esta función en el SEREMI respectivo. En este último caso, el proyecto habitacional deberá ser desarrollado por una Entidad Patrocinante, y será evaluado conforme al procedimiento establecido en el Párrafo III, del Capítulo II del presente reglamento.
+De la cantidad de recursos dispuesta anualmente a nivel nacional para el Programa regulado por el presente reglamento, podrá reservarse hasta un 30% para la atención de personas que se encuentren en situaciones especiales de urgente necesidad habitacional, derivadas de casos fortuitos, de fuerza mayor u otros, debidamente calificados por el Ministro de Vivienda y Urbanismo, o para la atención de los damnificados como consecuencia de sismos o catástrofes de zonas que el Ministerio del Interior y Seguridad Pública declare como afectadas por tales catástrofes conforme a la Ley Nº 16.282, cuyo texto refundido fue fijado por el DS Nº 104, de Interior, de 1977. Los subsidios que se otorguen con cargo a estos recursos podrán ser asignados directamente por resoluciones fundadas del Ministro de Vivienda y Urbanismo. En estas resoluciones podrá eximirse a los beneficiarios del cumplimiento de uno o más requisitos, liberarlos de impedimentos, o modificarse condiciones, requisitos y/o impedimentos e incluso disponerse el aumento de los montos de subsidio establecidos en este reglamento. Asimismo, en el uso de esta facultad se podrán otorgar subsidios para proyectos habitacionales, pudiendo diferirse la determinación de la nómina de beneficiarios hasta antes que el SERVIU realice la recepción de las obras del proyecto, nómina que en todo caso deberá ser sancionada mediante resolución fundada del Ministro de Vivienda y Urbanismo, quien podrá delegar esta función en el SEREMI respectivo. En este último caso, el proyecto habitacional deberá ser desarrollado por una Entidad Patrocinante, y será evaluado conforme al procedimiento establecido en el Párrafo III, del Capítulo II del presente reglamento.
 
 Por otra parte, y con cargo al porcentaje establecido en el inciso precedente, mediante resoluciones fundadas el Ministro de Vivienda y Urbanismo podrá otorgar subsidios adicionales a aquellos proyectos habitacionales en que por razones de fuerza mayor o imposibles de prever al momento de la calificación del proyecto, y que estén claramente fundamentadas, el subsidio otorgado sea insuficiente para su correcta ejecución, o bien, cuando se requiera de mayores recursos para la recontratación de obras luego de un término anticipado del contrato original. En caso de corresponder, los SERVIU deberán realizar las acciones necesarias con el objeto de recuperar los recursos que hayan sido aplicados y de iniciar los procedimientos administrativos que eventualmente procedan.
 
@@ -577,6 +595,10 @@ Para las familias beneficiadas por un subsidio habitacional del presente Program
 a) Cuando sea necesaria la disposición inmediata de los terrenos que ocupan, como consecuencia de la ejecución de obras que cuenten con financiamiento estatal u otras de interés público, y
 
 b) Cuando existan razones de seguridad o salubridad, en la medida que esté comprometida la integridad física o la vida de las familias.
+
+Cuando se transfieran recursos al MINVU para el otorgamiento de subsidios o financiamiento complementario de proyectos, por parte de otros organismos públicos, éstos podrán ser asignados directamente a los beneficiarios sin que se contabilicen en el 30% señalado en el inciso primero del presente artículo.
+
+En las resoluciones a las que se refieren los incisos primero y segundo del presente artículo, por medio de las cuales se asignen directamente subsidios habitacionales a grupos organizados, el Ministro podrá delegar en la SEREMI de la región que corresponda la facultad para autorizar reemplazos o sustituciones de familias beneficiadas mediante dichos instrumentos. La SEREMI deberá velar por el cumplimiento por parte del reemplazante o sustituto de lo establecido en los artículos 57 y 58 del presente reglamento, sin perjuicio de las condiciones bajo las cuales fue beneficiada la persona que reemplaza o sustituye. Si la resolución que asignó el beneficio eximió del cumplimiento de alguno o algunos de los requisitos establecidos para la obtención de un subsidio del Programa, la SEREMI deberá evaluar la correspondencia de aplicar dicha exención para el reemplazante propuesto o para el sustituto que corresponda.
 
 #### Artículo 28
 
@@ -636,7 +658,7 @@ El contratista o constructor deberá contar con inscripción vigente para la reg
 
 Sin perjuicio de las responsabilidades del contratista establecidas en la LGUC y en el Código Civil, en el contrato se establecerá que el contratista deberá ofrecer un servicio de post venta, por un período mínimo de 120 días a contar de la entrega material de la vivienda a las familias beneficiadas, durante el cual se deberán resolver oportunamente todas las observaciones generadas por deficiencias en la construcción que a juicio de SERVIU le sean atribuibles.
 
-En los casos donde el SERVIU actúe como Entidad Patrocinante, la contratación de obras estará regida por las disposiciones del DS Nº 236 (V. y U.), de 2002. Sin perjuicio de lo anterior, en estos casos, podrá contratar la ejecución de obras a contratistas inscritos en Registro Nacional de Constructores de Viviendas Sociales, Modalidad Privada, regulado por el DS Nº 63 (V. y U.), de 1997.
+Cuando el beneficiario, o grupo beneficiado en el caso de postulaciones colectivas, decida poner término anticipado al contrato de construcción en acuerdo con la Fiscalización Técnica de Obras y el SERVIU respectivo, por razones no imputables al beneficiario, el SERVIU podrá asignar un incremento de hasta un 5% del monto contratado para efectos de la recontratación de la obra a una nueva empresa contratista, previo informe favorable del Departamento Técnico de la oferta económica presentada por el nuevo contratista.
 
 #### Artículo 30
 
@@ -694,7 +716,7 @@ Capítulo III: Del Financiamiento
 
 Financiamiento de la vivienda
 
-Para efectos de financiar el precio de la vivienda el beneficiario deberá aplicar el monto total de ahorro acreditado al postular, los aportes adicionales, si correspondiere, y el subsidio habitacional, en ese mismo orden. Si aplicado el ahorro, el aporte adicional, si correspondiere, y el subsidio habitacional, se excediera del precio de venta, se reducirá el monto del subsidio hasta alcanzar el precio de la vivienda.
+Para efectos de financiar el precio de la vivienda el beneficiario deberá aplicar el monto de ahorro señalado en la escritura de compraventa, en casos de adquisición de vivienda construida, o el acreditado para financiar el proyecto, en la modalidad de construcción, los aportes adicionales, si correspondiere, y el subsidio habitacional, en ese mismo orden. Si aplicado el ahorro, el aporte adicional, si correspondiere, y el subsidio habitacional, se excediera del precio de venta, se reducirá el monto del subsidio hasta alcanzar el precio de la vivienda.
 
 El subsidio habitacional estará compuesto por un subsidio base y/o los subsidios complementarios señalados en los artículos 34 y 35 del presente reglamento, según corresponda.
 
@@ -702,11 +724,9 @@ El subsidio habitacional estará compuesto por un subsidio base y/o los subsidio
 
 Montos del Subsidio Base
 
-El monto de subsidio base, expresado en Unidades de Fomento, según tipología de aplicación será el siguiente:
+El monto de subsidio base, expresado en Unidades de Fomento, según tipología de aplicación y conforme a la calificación socioeconómica obtenida por el postulante, en virtud de la aplicación del Instrumento de Caracterización Socioeconómica, será el siguiente:
 
-.
-
-Mediante resolución fundada del Ministro de Vivienda y Urbanismo, con aprobación de la Dirección de Presupuestos del Ministerio de Hacienda, se podrá establecer un factor multiplicador que juste el monto a que se refiere el inciso anterior, con el objeto de determinar el monto del subsidio base en cada comuna del país y/o determinadas localidades. Dicho factor representará las variaciones en el costo de los materiales de construcción, el valor de la mano de obra, el costo del suelo, y en general aquellos aspectos estacionarios o permanentes que incidan en el costo local de construcción o adquisición de la vivienda objeto de este programa.
+Mediante resolución fundada del Ministro de Vivienda y Urbanismo, con aprobación de la Dirección de Presupuestos del Ministerio de Hacienda, se podrá establecer un factor multiplicador que juste el monto a que se refiere el inciso anterior, como así mismo el monto del Subsidio Diferenciado a la Localización al que se refiere la letra a), del siguiente artículo, con el objeto de determinar el monto del subsidio base en cada comuna del país y/o determinadas localidades. Dicho factor representará las variaciones en el costo de los materiales de construcción, el valor de la mano de obra, el costo del suelo, y en general aquellos aspectos estacionarios o permanentes que incidan en el costo local de construcción o adquisición de la vivienda objeto de este programa.
 
 #### Artículo 35
 
@@ -722,11 +742,11 @@ Para acceder a este Subsidio Diferenciado a la Localización el terreno en que s
 
 1. Tratándose de proyectos de Construcción en Nuevos Terrenos u operaciones de Adquisición de Vivienda Construida, deberá emplazarse, a lo menos un 50% de su superficie, en el área urbana o de extensión urbana, de localidades de comunas con población urbana mayor o igual a 5.000 habitantes, según el último censo de población del cual se tenga información disponible.
 
-2. Tratándose de proyectos de Construcción en Nuevos Terrenos u operaciones de Adquisición de Vivienda Construida, deberán emplazarse, en a lo menos un 50% de su superficie, en el territorio operacional de una empresa sanitaria o contar con convenio suscrito de acuerdo al artículo 33 C del DFL Nº 382 (MOP), de 1989, Ley General de Servicios Sanitarios.
+2. Tratándose de proyectos de Construcción en Nuevos Terrenos u operaciones de Adquisición de Vivienda Construida, deberán emplazarse, en a lo menos un 50% de su superficie, en el territorio operacional de una empresa sanitaria o contar con convenio suscrito de acuerdo al artículo 33 C del DFL Nº 382 (MOP), de 1989, Ley General de Servicios Sanitarios, o en el área de Servicio de un operador de servicios sanitarios rurales que consulte simultáneamente la prestación de agua potable y saneamiento domiciliario, primario o secundario, según lo establece la ley 20.998 que regula los servicios sanitarios rurales.
 
-3. Para proyectos de Construcción en Nuevos Terrenos, deberán deslindar con una vía local o de rango superior existente, y tratándose de Megaproyectos, con una vía de servicio o de rango superior existente, o bien, dos o más vías locales.
+3. Para proyectos de Construcción en Nuevos Terrenos, Construcción en Sitio Propio en caso que deban financiar la adquisición del terreno deberán deslindar o intersecar en un punto o a lo menos uno de sus vértices con una vía local o de rango superior existente, y tratándose de Megaproyectos, con una vía de servicio o de rango superior existente, o bien, dos o más vías locales.
 
-Adicionalmente, tratándose de proyectos de Construcción en Nuevos Terrenos u operaciones de Adquisición de Vivienda Construida, el terreno en que se desarrollará el proyecto habitacional o la vivienda a adquirir deberá cumplir con a lo menos tres de los siguientes requisitos:
+Adicionalmente, tratándose de proyectos de Construcción en Nuevos Terrenos, Construcción en Sitio Propio en caso que deban financiar la adquisición del terreno u operaciones de Adquisición de Vivienda Construida, el terreno en que se desarrollará el proyecto habitacional o la vivienda a adquirir deberá cumplir con a lo menos tres de los siguientes requisitos:
 
 4. Que el establecimiento de educación existente más cercano cuente con a lo menos dos de los siguientes niveles educacionales operativos: pre-básica, básica y/o media, y se encuentre ubicado a una distancia recorrible peatonalmente no mayor a 1.000 metros, medidos desde el punto más cercano del terreno donde se desarrollará el proyecto o se emplaza la vivienda a adquirir.
 
@@ -748,6 +768,14 @@ b) Subsidio de Factibilización
 
 El Subsidio de Factibilización es una subvención adicional de hasta 120 Unidades de Fomento a la que podrán acceder los postulantes y grupos de postulantes, destinada al financiamiento de proyectos de Construcción en Nuevos Terrenos u operaciones de Adquisición de Vivienda Construida, emplazados en áreas rurales, o en áreas urbanas o de extensión urbana donde no aplique el Subsidio Diferenciado a la Localización. Se podrá aplicar cuando a lo menos el 80% de los integrantes del grupo postulante, o el postulante individual, provengan de la comuna en que se desarrollará el proyecto habitacional. En las comunas de la Provincia de Palena, en la Región de los Lagos, y las comunas de las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y la Antártica Chilena, este subsidio complementario podrá alcanzar hasta las 170 Unidades de Fomento.
 
+Tratándose de proyectos de la tipología de Construcción en Nuevos Terrenos a desarrollarse en zonas en que no aplique el Subsidio Diferenciado a la Localización, el Subsidio de Factibilización será de hasta 180 Unidades de Fomento, en todas las comunas del país, con excepción de las comunas de la Provincia de Palena, en la Región de Los Lagos, y las comunas de las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y la Antártica Chilena, en las que éste será de hasta 240 Unidades de Fomento, si el terreno en que se emplaza el proyecto cumple con alguna de las siguientes condiciones:
+
+i. Emplazamiento en áreas urbanas o de extensión urbana en a lo menos un 50% de su superficie, y donde se cumplan además 3 de las 5 distancias a servicios indicadas en los números 4. al 8. de la letra a) anterior,
+
+ii. Emplazamiento a no más de 1.000 metros al exterior del límite urbano de la entidad urbana más cercana, medidos en línea recta desde el punto más cercano del terreno, y donde se cumplan además 3 de las 5 distancias a servicios indicadas en los números 4. al 8. de la letra a) anterior, o
+
+iii. Emplazamiento fuera del límite urbano, y donde se cumplan además 4 de las 5 distancias a servicios indicadas en los números 4. al 8. de la letra a) anterior, y el terreno se encuentre a una distancia no mayor a 100 metros de una vía de servicio o de rango superior existente.
+
 c) Subsidio de incentivo y premio al ahorro adicional.
 
 El subsidio base podrá ser incrementado por un subsidio adicional, de hasta un máximo de 30 Unidades de Fomento. Por cada Unidad de Fomento que exceda el ahorro mínimo exigido se otorgará un subsidio adicional de 1,5 Unidades de Fomento.
@@ -758,7 +786,7 @@ d) Subsidio de Densificación en Altura.
 
 Cuando se trate de proyectos habitacionales de Construcción en Nuevos Terrenos, Pequeño Condominio y en operaciones de Adquisición de Vivienda Construida, el subsidio base podrá incrementarse hasta en 110 Unidades de Fomento, en todas las comunas del país, con excepción de las comunas de la Provincia de Palena, en la Región de Los Lagos, y las comunas de las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y la Antártica Chilena, en las que podrá incrementarse hasta en 140 Unidades de Fomento, si cumple copulativamente con los siguientes requisitos:
 
-1. Que el terreno donde se emplace el proyecto o la nueva vivienda a adquirir cumpla las condiciones establecidas para aplicar el Subsidio Diferenciado a la Localización.
+1. Que el terreno donde se emplace el proyecto o la nueva vivienda a adquirir cumpla las condiciones establecidas para aplicar el Subsidio Diferenciado a la Localización, con excepción de los proyectos de la tipología de Pequeño Condominio.
 
 2. Que se trate de una edificación de 3 o más pisos habitables. Excepcionalmente, mediante resolución fundada, el Director SERVIU podrá autorizar la aplicación de este subsidio a edificaciones de a lo menos 2 pisos.
 
@@ -768,7 +796,7 @@ Cuando se trate de proyectos habitacionales de Construcción en Nuevos Terrenos,
 
 5. Que las unidades de vivienda tengan una superficie edificada y habilitada a entregar al postulante no inferior a 55 metros cuadrados, incluyendo el dormitorio principal, un segundo dormitorio y un tercero con las características del Dormitorio Construido Adicional, establecidos en el Cuadro Normativo de Proyectos Habitacionales y Tabla de Espacios y Usos Mínimos para el Mobiliario a que se hace referencia en el artículo 43 de este reglamento. Tratándose de Adquisición de Vivienda Construida Usada, la superficie construida deberá alcanzar los 50 metros cuadrados, y contar con el programa arquitectónico señalado en el mismo artículo.
 
-Para proyectos de Construcción en Nuevos Terrenos, en todas las comunas del país de más de 40 mil habitantes, según los datos del último censo de población de que se disponga, el subsidio a que se alude en el inciso anterior podrá incrementarse hasta en 40 Unidades de Fomento adicionales por familia cuando se cumpla con 4 de los 5 requerimientos indicados en los números 4. a 8. del subsidio complementario señalado en la letra a) del presente artículo. Para la aplicación del incremento señalado en el presente inciso, el proyecto deberá contemplar una densidad neta mínima de viviendas por hectárea, la que será establecida mediante resoluciones del Ministro de Vivienda y Urbanismo.
+Para proyectos de Construcción en Nuevos Terrenos, en todas las comunas del país de más de 40 mil habitantes, según los datos del último censo de población de que se disponga, o la actualización o proyección de población que publique el Instituto Nacional de Estadísticas para el año de ingreso del proyecto, el subsidio a que se alude en el inciso anterior podrá incrementarse hasta en 40 Unidades de Fomento adicionales por familia cuando se cumpla con 4 de los 5 requerimientos indicados en los números 4. a 8. del subsidio complementario señalado en la letra a) del presente artículo. Para la aplicación del incremento señalado en el presente inciso, el proyecto deberá contemplar una densidad neta mínima de viviendas por hectárea, la que será establecida mediante resoluciones del Ministro de Vivienda y Urbanismo.
 
 Excepcionalmente, en proyectos de la Región Metropolitana que cumplan con las disposiciones del inciso anterior, el subsidio podrá incrementarse en hasta 40 Unidades de Fomento adicionales sí dicho proyecto se encuentra ubicado a una distancia recorrible peatonalmente no mayor a 1.000 metros del acceso a una estación existente de la red de transporte de pasajeros Metro S.A., medidos desde el punto más cercano del terreno donde se desarrollará el proyecto.
 
@@ -800,17 +828,25 @@ Se deberá presentar el proyecto técnico correspondiente a el o los equipamient
 
 h) Subsidio de Habilitación.
 
-En proyectos de construcción podrá aplicarse un subsidio de habilitación que podrá destinarse al pago de obras de mejoramiento estructural del suelo, rellenos estructurales compactados, muros de contención, estabilización de taludes, defensas fluviales, canalización de quebradas, pilotajes profundos u otro tipo de fundaciones especiales, obras asociadas a la construcción sobre suelos salinos, pavimentación cuando la vía proyectada tenga una pendiente superior al 10%, plantas elevadoras de aguas servidas u otra solución sanitaria especial, ya sea individual o colectiva, obras especiales para mitigación por zonas de inundación, control de plagas, demolición de edificaciones o elementos existentes, retiro de escombros, soterramiento de tendidos eléctricos en los casos que fuera exigible por alguna norma general o reglamentaria de carácter general, u otras obras de similar naturaleza.
+En proyectos de construcción podrá aplicarse un subsidio de habilitación que podrá destinarse al pago de obras de mejoramiento estructural del suelo, rellenos estructurales compactados, muros de contención, estabilización de taludes, defensas fluviales, canalización de quebradas, pilotajes profundos u otro tipo de fundaciones especiales, obras asociadas a la construcción sobre suelos salinos, pavimentación cuando la vía proyectada tenga una pendiente superior al 10%, plantas elevadoras de aguas servidas u otra solución sanitaria especial, ya sea individual o colectiva, obras especiales para mitigación por zonas de inundación, control de plagas, demolición de edificaciones o elementos existentes, retiro de escombros, soterramiento de tendidos eléctricos en los casos que fuera exigible por alguna norma general o reglamentaria de carácter general, obras de habilitación asociadas a la construcción sobre suelos salinos, obras especiales para mitigación por zonas de inundación, ejecución de vías colectoras o superiores previstas en el instrumento de planificación territorial respectivo u otras obras de similar naturaleza.
 
 Para los efectos de lo dispuesto en el inciso anterior, la Entidad Patrocinante deberá presentar, para la evaluación y aprobación del SERVIU respectivo en conjunto con el resto de los antecedentes del proyecto, las obras de habilitación que se realizarán, en un presupuesto separado, fundamentado y detallado.
 
-El monto de subsidio a otorgar para la habilitación corresponderá al del presupuesto aprobado por el SERVIU y no podrá exceder de 100 Unidades de Fomento por cada familia, salvo para proyectos que requieran obras de habilitación asociadas a la construcción sobre suelos salinos y obras especiales para mitigación por zonas de inundación, los que podrán contar con 150 Unidades de Fomento. En los proyectos de Construcción en Nuevos Terrenos y Megaproyectos, el total de este subsidio se utilizará en favor de todo el grupo postulante en conjunto.
+El monto de subsidio a otorgar para la habilitación corresponderá al del presupuesto aprobado por el SERVIU y no podrá exceder las 150 Unidades de Fomento por cada familia. En los proyectos de Construcción en Nuevos Terrenos y Megaproyectos, el total de este subsidio se utilizará a favor de todo el grupo postulante en conjunto. Tratándose de postulaciones colectivas de las tipologías de Construcción en Sitio Propio, Densificación Predial o Pequeños Condominios, podrán disponerse montos individuales superiores a los señalados en este inciso, siempre que el total del subsidio de habilitación del proyecto no supere el subsidio máximo disponible para la suma de cada uno de sus integrantes. Sin perjuicio de lo anterior, dicho monto podrá incrementarse en hasta 130 Unidades de Fomento adicionales en los casos en que fuere necesario ejecutar alguna o algunas de las obras que se señalan a continuación:
+
+a. Muros de contención y estabilización de taludes: Cuando el estudio de mecánica de suelos indique la presencia de suelos especiales y el proyecto de obras civiles asociado establezca, a través de memoria de cálculo y planos de proyecto que se requieren de mayores dimensiones, refuerzos o condiciones de apoyo y/o anclaje de las obras de contención y/o estabilización.
+
+b. Pilotajes profundos u otro tipo de fundaciones especiales: Cuando el proyecto justifique la ejecución de fundaciones especiales, según estudio de mecánica de suelos y proyecto de ingeniería estructural, en el que quede establecido que el tipo de fundación resuelve la condición de apoyo para el suelo especial.
+
+c. Obras asociadas a la construcción sobre suelos salinos: Cuando en el proyecto se incorporen las indicaciones incluidas las resoluciones del MINVU o SEREMI de Vivienda y Urbanismo respectivo, que aprueben el Itemizado Técnico Nacional, Regional de Suelos Salinos y/o incluidas en la NCh 3394, en materia de fundaciones y/o instalaciones sanitarias.
+
+d. Rellenos Estructurales Masivos: Cuando el proyecto requiera rellenos estructurales para poder lograr descargas gravitacionales a redes públicas aguas servidas y/o aguas lluvias, deberá ser acreditado mediante el respectivo proyecto topográfico, mecánica de suelos y de factibilidad de servicios respectivos. En caso que los rellenos se utilicen únicamente para posibilitar las descargas de aguas lluvias, se deberá acompañar además un informe suscrito por profesional competente que justifique técnicamente que no es posible la evacuación de las aguas lluvias vía infiltración en el terreno. Además, de existir algún tipo de interconexión con las redes de alcantarillado, se deberá acompañar un estudio suscrito por un profesional competente que justifique la descarga a dicha red desde un punto de vista técnico.
 
 Excepcionalmente, mediante resolución fundada, el Director del SERVIU podrá autorizar la calificación de proyectos cuyas obras de habilitación superen los recursos señalados en el inciso anterior. El ejercicio de esta facultad no asigna ni compromete recursos, sino que permite el ingreso y calificación de proyectos específicos y no podrá superar en el lapso de un año calendario el 1,5% del programa anual regional de recursos para la asignación de subsidios, establecido para el Fondo Solidario de Elección de Vivienda.
 
 i) Subsidio para Territorios Especiales y Localidades Aisladas
 
-Tratándose de Áreas de Desarrollo indígena, territorios insulares y localidades aisladas de comunas con aislamiento crítico, definidas en el marco de Política Nacional de Desarrollo de Localidades Aisladas de la Subsecretaría de Desarrollo Regional, podrá disponerse de hasta 50 Unidades de Fomento adicionales por familia para el financiamiento del proyecto habitacional.
+Tratándose de Áreas de Desarrollo Indígena, territorios insulares, localidades aisladas de comunas con aislamiento crítico, definidas en el marco de la Política Nacional de Desarrollo de Localidades Aisladas de la Subsecretaría de Desarrollo Regional, conforme a lo establecido en el DS N° 608 (Interior), de 2010, o territorios incluidos en el Plan de Desarrollo para Territorios Rezagados del Ministerio del Interior y Seguridad Pública, conforme a lo establecido en el DS N°1.116 (Interior), de 2014, podrá disponerse de hasta 50 Unidades de Fomento adicionales por familia para el financiamiento del proyecto habitacional.
 
 En los proyectos donde este subsidio complementario sea aplicado, el Ministro de Vivienda y Urbanismo, por medio de resoluciones fundadas, podrá establecer condiciones especiales para el cumplimiento del Cuadro Normativo de Proyectos Habitacionales y Tabla de Espacios y Usos Mínimos para el Mobiliario, con el objeto que la solución habitacional recoja las particularidades climáticas, geográficas y/o culturales de las familias asociadas.
 
@@ -824,9 +860,9 @@ k) Subsidio para Proyectos de Mediana Escala
 
 Para proyectos de Construcción en Nuevos Terrenos, podrá disponerse de hasta 50 Unidades de Fomento adicionales por familia para el financiamiento del proyecto habitacional, en los siguientes casos:
 
-1. Proyectos que no sobrepasen las 70 viviendas, emplazados en comunas de más de 40 mil habitantes, según los datos del último censo de población de que se disponga, y que cumplan con 4 de los 5 requerimientos indicados en los números 4. a 8. del subsidio complementario señalado en la letra a) del presente artículo.
+1. Proyectos que no sobrepasen las 70 viviendas, emplazados en comunas de más de 40 mil habitantes, según los datos del último censo de población de que se disponga, o la actualización o proyección de población que publique el Instituto Nacional de Estadísticas para el año de ingreso del proyecto, y que cumplan con 4 de los 5 requerimientos indicados en los números 4. a 8. del subsidio complementario señalado en la letra a) del presente artículo.
 
-2. Proyectos que no sobrepasen las 30 viviendas, emplazados en comunas de hasta 5.000 mil habitantes, según los datos del último censo de población de que se disponga, y que apliquen el subsidio complementario señalado en la letra b) del presente artículo.
+2. Proyectos que no sobrepasen las 30 viviendas, emplazados en comunas de hasta 5.000 mil habitantes, según los datos del último censo de población de que se disponga, o la actualización o proyección de población que publique el Instituto Nacional de Estadísticas para el año de ingreso del proyecto, y que apliquen el subsidio complementario señalado en la letra b) del presente artículo.
 
 Para la aplicación de este subsidio complementario, en cualquiera de sus alternativas, el proyecto no puede ser parte de un proyecto mayor a desarrollarse en etapas consecutivas o colindantes, lo que será evaluado por el SERVIU respectivo.
 
@@ -836,7 +872,7 @@ Para la aplicación de este subsidio complementario, en cualquiera de sus altern
 
 Bono de Movilidad Habitacional
 
-La movilidad habitacional es un mecanismo que permite al vendedor de una vivienda, en que el precio de la compraventa sea de hasta 900 Unidades de Fomento y de hasta 1.010 Unidades de Fomento para las viviendas a adquirir dentro de las comunas de la Región de Aysén del General Carlos Ibáñez del Campo o Magallanes y Antártica Chilena o de la provincia de Palena de la Región de Los Lagos, recibir un bono de 50 Unidades de Fomento si la vivienda que enajena es adquirida por un beneficiario de subsidio de este reglamento y siempre que el producto de la enajenación o parte de éste sea destinado a la adquisición de otra vivienda, de igual o mayor precio que la vivienda enajenada, hasta un valor máximo de 2.200 Unidades de Fomento. No podrán recibir el Bono de Movilidad Habitacional quienes sean propietarios o asignatarios de otra vivienda o cuando lo fuese su cónyuge.
+La movilidad habitacional es un mecanismo que permite al vendedor de una vivienda, en que el precio de la compraventa sea de hasta 900 Unidades de Fomento y de hasta 1.010 Unidades de Fomento para las viviendas a adquirir dentro de las comunas de la Región de Aysén del General Carlos Ibáñez del Campo o Magallanes y Antártica Chilena o de la provincia de Palena de la Región de Los Lagos, recibir por una sola vez un bono de 50 Unidades de Fomento si la vivienda que enajena es adquirida por un beneficiario de subsidio de este reglamento y siempre que el producto de la enajenación o parte de éste sea destinado a la adquisición de otra vivienda, de igual o mayor precio que la vivienda enajenada, hasta un valor máximo de 2.200 Unidades de Fomento. No podrán recibir el Bono de Movilidad Habitacional quienes sean propietarios o asignatarios de otra vivienda o cuando lo fuese su cónyuge o conviviente civil.
 
 Las 50 Unidades de Fomento que se otorguen según lo señalado en el inciso precedente deberán formar parte del precio de la compraventa de la nueva vivienda que adquiera el beneficiario de este bono, lo que deberá constar en el respectivo contrato.
 
@@ -856,7 +892,9 @@ b) Escritura de compraventa de la vivienda adquirida con constancia de la inscri
 
 Ahorro mínimo
 
-Para postular a los Subsidios Habitacionales regulados por este reglamento, el postulante deberá acreditar haber enterado un ahorro mínimo de 10 Unidades de Fomento en alguno de los instrumentos señalados en el artículo siguiente. En postulaciones colectivas, los postulantes del tercer quintil de vulnerabilidad definido por el Ministerio de Desarrollo Social, o quienes sean considerados dentro de él para efectos de la postulación al presente programa, como resultado de sus condiciones de carencia habitacional, de acuerdo a lo indicado en el inciso segundo del artículo 1 del presente reglamento, deberán acreditar un ahorro mínimo de 15 Unidades de Fomento.
+Para postular a los Subsidios Habitacionales regulados por este reglamento el postulante deberá acreditar haber enterado el ahorro mínimo, y con posterioridad a la selección, el ahorro adicional, a más tardar 150 días corridos luego de la fecha de la resolución que otorga el subsidio, que se señala en este artículo, en alguno de los instrumentos señalados en el artículo siguiente. El monto de ahorro mínimo a enterar, expresado en Unidades de Fomento, será el que se indica en la tabla siguiente, conforme a la calificación socioeconómica obtenida por el postulante en virtud de la aplicación del Instrumento de Caracterización Socioeconómica:
+
+.
 
 #### Artículo 38
 
@@ -1024,11 +1062,15 @@ Capítulo V: De la Gestión de la Demanda y el Plan de Acompañamiento Social
 
 #### Artículo 49
 
-Del Sistema de Información y Gestión Territorial de la Demanda
+Del Sistema de Información Territorial de la Demanda
 
-Los SERVIU tendrán a su cargo un Sistema de Información y Gestión Territorial de la Demanda, a través del cual podrán identificar, cuantificar, caracterizar a las familias que requieran una solución habitacional, conocer su ubicación en el territorio e informar respecto de las alterativas de solución habitacional y de los requisitos de postulación. Lo anterior, con el objeto de garantizar a las familias el acceso a una adecuada información, además de otorgar a la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo antecedentes actualizados de la demanda habitacional existente en la región, permitiendo una mejor planificación y seguimiento del programa. El sistema comprende el acompañamiento de las familias hasta su vinculación a alguna de las alternativas de solución previstas en el presente programa, a través de una entidad patrocinante en los casos que corresponda.
+Los SERVIU tendrán a su cargo un Sistema de Información Territorial de la Demanda, a través del cual podrán identificar, cuantificar, caracterizar a las familias que requieran una solución habitacional, conocer su ubicación en el territorio e informar respecto de las alterativas de solución habitacional y de los requisitos de postulación. Lo anterior, con el objeto de garantizar a las familias el acceso a una adecuada información, además de otorgar a la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo antecedentes actualizados de la demanda habitacional existente en la región, permitiendo una mejor planificación y seguimiento del programa. El sistema comprende el acompañamiento de las familias hasta su vinculación a alguna de las alternativas de solución previstas en el presente programa, a través de una entidad patrocinante en los casos que corresponda.
 
 El MINVU pondrá a disposición de todos los SERVIU del país una plataforma informática común, la que será utilizada como soporte del sistema a que se refiere el presente artículo.
+
+Como consecuencia de la postulación el postulante quedará registrado en el Sistema de Información Territorial de la Demanda.
+
+Para efectos de las postulaciones colectivas las familias que hayan ingresado con anterioridad al Sistema de Información Territorial de la Demanda, podrán conservar el tramo registrado en el Instrumento de Caracterización Socioeconómica hasta por 12 meses respecto de dicho ingreso.
 
 ### Párrafo II — Del Plan de Acompañamiento Social
 
@@ -1162,7 +1204,23 @@ Las cooperativas cerradas de vivienda, reguladas por el DFL Nº 5, del Ministeri
 
 Los SERVIU, a través de un procedimiento establecido e informado oportunamente por el Ministerio de Vivienda y Urbanismo, deberán evaluar la prestación de servicios de asistencia técnica que desarrollen las Entidades Patrocinantes al amparo de este Programa, con el fin de aportar antecedentes a las SEREMI que les permitan decidir fundadamente la continuidad del convenio marco respectivo.
 
-El SERVIU podrá actuar como Entidad Patrocinante, previa autorización del Secretario Regional Ministerial de Vivienda y Urbanismo, a petición fundada del Director del SERVIU respectivo. La actuación del SERVIU como Entidad Patrocinante será regulada mediante resoluciones del Ministro de Vivienda y Urbanismo.
+El SERVIU podrá actuar como Entidad Patrocinante, previa autorización mediante resolución del Secretario Regional Ministerial de Vivienda y Urbanismo, a petición fundada del Director del SERVIU respectivo.
+
+Tratándose de proyectos que el SERVIU desarrolle como Entidad Patrocinante en terrenos de su propiedad, en la resolución señalada en el inciso anterior el SEREMI dispondrá los mecanismos para determinar la nómina de familias que se incorporarán al proyecto a desarrollar, considerando convocatorias a familias individuales y grupos organizados, en la proporción que se establezca, utilizando para su priorización los siguientes criterios:
+
+a) ser titular de un subsidio habitacional sin aplicar;
+
+b) antigüedad de la inscripción en el Sistema de Información Territorial de la Demanda a que se refiere el Artículo 49. de este reglamento;
+
+c) los factores de puntaje indicados en el Artículo 24. de este reglamento;
+
+d) la condición de damnificado a causa de catástrofes naturales, o
+
+e) haber obtenido la calificación de grupo organizado hábil para la postulación a programas habitacionales sin haber obtenido el subsidio;
+
+f) casos de urgente necesidad habitacional, los que no podrán superar el 5% de las familias que participarán del desarrollo del proyecto.
+
+La actuación del SERVIU como Entidad Patrocinante, en relación a la prestación de los servicios de Asistencia Técnica, Jurídica y Social, será regulada mediante resoluciones del Ministro de Vivienda y Urbanismo.
 
 ### Párrafo II — Asistencia Técnica, Jurídica y Social para proyectos de construcción
 
@@ -1222,7 +1280,7 @@ a) Realizar un informe técnico de la vivienda que se pretende adquirir, para de
 
 b) Efectuar el Estudio de Títulos, verificando que la vivienda se encuentra legalmente apta para su adquisición.
 
-c) Efectuar la tasación comercial de la vivienda, aplicando las metodologías descritas en el Manual de Tasaciones para el Subsidio Habitacional aprobado por resolución del Ministro de Vivienda y Urbanismo.
+c) Efectuar la tasación comercial de la vivienda, la que podrá ser realizada por el SERVIU aplicando las metodologías descritas en el Manual de Tasaciones para el Subsidio Habitacional aprobado por resolución del Ministro de Vivienda y Urbanismo, o por un consultor con inscripción vigente en el Registro Nacional de Consultores del MINVU, en la subespecialidad Tasaciones.
 
 d) Preparar la escritura de compraventa de la vivienda.
 
@@ -1268,7 +1326,7 @@ De los reemplazos
 
 Se podrá reemplazar hasta el 20% del número total de beneficiados que integran el grupo postulante, debiendo quien se desiste hacer devolución al SERVIU del respectivo Certificado de Subsidio, acompañando carta de renuncia firmada y/o copia autorizada del Acta de la Asamblea, debidamente aprobada de acuerdo a sus estatutos, en que conste la exclusión. En casos calificados, a petición del Director del SERVIU, mediante resoluciones fundadas el SEREMI podrá autorizar que el reemplazo de postulantes exceda dicho porcentaje.
 
-Si con posterioridad a la selección y hasta antes del pago del subsidio se produjera la renuncia al subsidio respecto de uno o más beneficiarios de una postulación grupal, la Entidad Patrocinante podrá requerir por escrito al SERVIU que dichas personas sean reemplazadas por otras que cumplan con todos los requisitos para ser postulante hábil. El quintil de vulnerabilidad de la Ficha de Protección Social o del instrumento que la reemplace o el que se determine como quintil de ingreso al presente programa, producto de las condiciones de carencia habitacional del reemplazante de acuerdo a lo indicado en el artículo 1 de este reglamento, deberá ser igual o inferior al quintil de vulnerabilidad acreditado por el reemplazado al postular, según la letra g) del artículo 3 de este reglamento. El ahorro deberá estar cumplido por el reemplazante al ingreso al Sistema Informático de Postulación de la solicitud de reemplazo, de acuerdo a los artículos 37 y siguientes del presente reglamento.
+Si con posterioridad a la selección y hasta antes del pago del subsidio se produjera la renuncia al subsidio respecto de uno o más beneficiarios de una postulación grupal, la Entidad Patrocinante podrá requerir por escrito al SERVIU que dichas personas sean reemplazadas por otras que cumplan con todos los requisitos para ser postulante hábil. El reemplazante deberá estar caracterizado dentro del mismo porcentaje de vulnerabilidad que el reemplazado, según el Instrumento de Caracterización Socioeconómica. El ahorro deberá estar cumplido por el reemplazante al ingreso al Sistema Informático de Postulación de la solicitud de reemplazo, de acuerdo a los artículos 37 y siguientes del presente reglamento.
 
 Tratándose de reemplazos de familias de grupos postulantes que no han obtenido beneficio, el reemplazante deberá cumplir con todos los requisitos que exige el presente reglamento para ser postulante hábil. El reemplazante deberá acreditar haber enterado el ahorro al ingreso al Sistema informático de Postulación de la solicitud de reemplazo, de acuerdo a los artículos 37 y siguientes del presente reglamento.
 
@@ -1372,7 +1430,7 @@ Los beneficiarios que se encuentren asociados a un proyecto que resulte eliminad
 
 Alternativas de aplicación en casos especiales
 
-Cuando las familias se encuentren adscritas a un proyecto habitacional y éste no se lleve a cabo debido a que pierde su vigencia, o cuando no se cumple el plazo para el inicio de obras, produciéndose la eliminación del proyecto, cada beneficiario podrá optar a alguna de las siguientes alternativas:
+Cuando las familias se encuentren adscritas o asociadas a un proyecto habitacional y éste no se lleve a cabo debido a que pierde su vigencia, no se cumple el plazo para responder observaciones, no se responden adecuadamente según lo señalado en el artículo 13., o cuando no se cumple el plazo para el inicio de obras, produciéndose la eliminación del proyecto, cada beneficiario podrá optar alguna de las siguientes alternativas:
 
 a) Elegir una vivienda de otro proyecto que forme parte de la Nómina de Oferta.
 
@@ -1446,11 +1504,11 @@ Para proceder al pago, el SERVIU exigirá la presentación, a más tardar a los 
 
 Pago de anticipos para adquisición del terreno en proyectos de construcción
 
-Tratándose de Proyectos de Construcción con Calificación Definitiva o Condicional sólo por la causal descrita en la letra b) del artículo 15, para la adquisición del terreno, el SERVIU podrá otorgar anticipos a cuenta del pago total de los subsidios, en cuyo caso el dominio del terreno debe quedar inscrito a nombre del SERVIU respectivo.
+Tratándose de Proyectos de Construcción con Calificación Definitiva o Condicional sólo por la causal descrita en la letra b) del artículo 15, para la adquisición del terreno, el SERVIU podrá otorgar anticipos a cuenta del pago total de los subsidios, en cuyo caso el dominio del terreno debe quedar inscrito a nombre del SERVIU respectivo, salvo para proyectos de las tipologías Construcción en Sitio Propio, Densificación Predial y Pequeño Condominio.
 
 Para proceder al pago del subsidio destinado a la adquisición del terreno, deberán presentarse los siguientes antecedentes:
 
-a) Copia de la inscripción de dominio del terreno a favor del SERVIU respectivo, con certificado de vigencia, extendido con no más de 30 días de anterioridad a la fecha de su presentación.
+a) Para proyectos de la tipología Construcción en Nuevos Terrenos, copia de la inscripción de dominio del terreno a favor del SERVIU respectivo, con certificado de vigencia, extendido con no más de 30 días de anterioridad a la fecha de su presentación. Para proyectos de las tipologías Construcción en Sitio Propio, Densificación Predial y Pequeño Condominio se deberá constituir la prohibición a que hace alusión el inciso tercero artículo 60 del presente reglamento.
 
 b) Copia del respectivo contrato de construcción.
 
@@ -1526,15 +1584,13 @@ Para los efectos del presente reglamento, se entenderá por:
 
 1.5. Caseta Sanitaria: Edificación compuesta por recinto baño, cocina y/o lavadero, que cuenta con servicios de agua potable y sistema de evacuación de aguas servidas.
 
-1.6. Familia Monoparental: El postulante que es madre o padre soltero, divorciado o viudo, que tenga a su cargo hijos menores de 24 años, aun cuando cumplan 25 años en el año calendario del llamado, que vivan con él y a sus expensas, lo que se deberá acreditar con una declaración jurada simple. No se considerará la familia como monoparental si en la Ficha de Protección Social o en el instrumento que la reemplace se identifica al postulante con cónyuge o conviviente.
+1.6. Familia Monoparental: El postulante que es madre o padre soltero, divorciado o viudo, que tenga a su cargo hijos menores de 24 años, aun cuando cumplan 25 años en el año calendario del llamado, que vivan con él y a sus expensas, lo que se deberá acreditar con una declaración jurada simple. No se considerará la familia como monoparental si en el Instrumento de Caracterización Socioeconómica se identifica al postulante con cónyuge o conviviente.
 
 1.7. Modalidad o Modalidad de Aplicación: Opción de aplicar el subsidio para la adquisición de una vivienda construida, nueva o usada, o bien para la construcción de una solución habitacional definitiva.
 
-1.8. Nómina de Oferta de Proyectos: Registro de viviendas en proyectos calificados por el
+1.8. Nómina de Oferta de Proyectos: Registro de viviendas en proyectos calificados por el SERVIU, que se encuentran disponibles para la adscripción o asociación de los postulantes beneficiados.
 
-SERVIU, que se encuentran disponibles para la adscripción de los postulantes beneficiados.
-
-1.9. Núcleo Familiar: Conjunto de personas declaradas por el postulante y que se encuentran incluidas en una misma Ficha de Protección Social o en el instrumento que la remplace.
+1.9. Núcleo Familiar: Conjunto de personas declaradas por el postulante y que se encuentran incluidas en un mismo Instrumento de Caracterización Socioeconómica.
 
 1.10. Postulante o Grupo Postulante: Aquel que cumple con los requisitos y condiciones exigidos conforme a este reglamento, para participar en el proceso de selección del llamado en el que formalizó su postulación.
 

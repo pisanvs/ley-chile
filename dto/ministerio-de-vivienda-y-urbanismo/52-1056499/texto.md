@@ -42,7 +42,7 @@ Definiciones generales:
 
 1.7 Infraestructura sanitaria: Edificación compuesta por baño, cocina y/o lavadero, que cuenta con servicios de agua potable y sistema de evacuación de aguas servidas.
 
-1.8 Instrumento de Caracterización Socioeconómica: La Ficha de Protección Social o el instrumento que la reemplace.
+1.8 Instrumento de Caracterización Socioeconómica: corresponde al instrumento de caracterización socioeconómica a que se refiere el artículo 5° de la ley N° 20.379.
 
 1.9 Minvu: Ministerio de Vivienda y Urbanismo.
 
@@ -60,9 +60,11 @@ Definiciones generales:
 
 1.16 Serviu: Servicio de Vivienda y Urbanización.
 
-1.17 Titular del beneficio: Postulante seleccionado para la asignación del subsidio de arriendo.
+1.17 Sistema de Información Territorial de la Demanda: es un sistema a cargo de los SERVIU, a través del cual podrán identificar, cuantificar, caracterizar a las familias que requieran una solución habitacional, conocer su ubicación en el territorio e informarles respecto de las alternativas de solución habitacional y de los requisitos de postulación, con el objeto de garantizarles el acceso a una adecuada información, además de otorgar a la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo antecedentes actualizados de la demanda habitacional existente en la región, permitiendo una mejor planificación y seguimiento del programa. El MINVU pondrá a disposición de todos los SERVIU del país una plataforma informática común, la que será utilizada como soporte de este sistema.
 
-1.18 U.F.: Unidad de Fomento o Unidades de Fomento.
+1.18 Titular del beneficio: Postulante seleccionado para la asignación del subsidio de arriendo.
+
+1.19 U.F.: Unidad de Fomento o Unidades de Fomento.
 
 CAPÍTULO II. EL SUBSIDIO
 
@@ -70,7 +72,7 @@ CAPÍTULO II. EL SUBSIDIO
 
 #### Artículo 2º
 
-Del subsidio de arriendo: El programa del subsidio de arriendo regulado por el presente reglamento está destinado a dar una solución habitacional transitoria, a familias pertenecientes hasta el tercer quintil de vulnerabilidad o su equivalente de acuerdo al Instrumento de Caracterización Socioeconómica vigente, pero capaces de realizar desembolsos mensuales destinados a pagar una renta de arrendamiento.
+Del subsidio de arriendo: El programa del subsidio de arriendo regulado por el presente reglamento está destinado a dar una solución habitacional transitoria, a familias pertenecientes hasta el 70% más vulnerable de la población nacional, o su equivalente de conformidad con la información que se obtenga de la aplicación del Instrumento de Caracterización Socioeconómica vigente, pero capaces de realizar desembolsos mensuales destinados a pagar una renta de arrendamiento.
 
 Mediante resoluciones fundadas del Ministro de Vivienda y Urbanismo, se podrán señalar todas aquellas operaciones o actos que incidan en la aplicación práctica de este reglamento. Adicionalmente, mediante circulares del Subsecretario de Vivienda y Urbanismo, podrán impartirse instrucciones a los Servicios de Vivienda y Urbanización, en adelante también Serviu, para la aplicación y/o aclaración de las disposiciones del presente reglamento.
 
@@ -96,6 +98,8 @@ d. Información de los contratos activos correspondientes al programa regulado p
 
 El monto establecido por dicha resolución no podrá superar las 6 U.F. No obstante lo anterior, en caso que corresponda, el valor del subsidio mensual se ajustará de manera que no supere el 80% de la renta acordada.
 
+Mediante resolución fundada del Ministro de Vivienda y Urbanismo, con aprobación de la Dirección de Presupuestos del Ministerio de Hacienda, se podrá establecer un factor multiplicador que ajuste el monto del subsidio único y total a que se refiere el inciso primero del presente artículo. Dicho factor representará las variaciones en el precio de las rentas de arrendamiento conforme a la localización y a los elementos indicados en el inciso primero de este artículo, y en general aquellos aspectos estacionarios o permanentes que incidan en el costo local y/o regional del arrendamiento de viviendas objeto de este programa.
+
 #### Artículo 6º
 
 Del ahorro mínimo de postulación: El ahorro mínimo exigido para la postulación será de 4 U.F., y se acreditará en la forma establecida en este Reglamento. En caso de ser seleccionado, este monto quedará a disposición del beneficiario para que pueda ser destinado al copago del mes de garantía que se fije en el contrato de arrendamiento.
@@ -106,7 +110,7 @@ De la resolución que establece condiciones de postulación y aplicación del su
 
 a. El límite mínimo y máximo de los ingresos que deberá tener el Núcleo Familiar o el postulante, en su caso;
 
-b. El puntaje requerido para postular, de acuerdo a la información de vulnerabilidad establecida en el Instrumento de Caracterización Socioeconómica; y
+b. El porcentaje de vulnerabilidad de la población nacional requerido para postular, de acuerdo a la información que se obtenga de la aplicación del Instrumento de Caracterización Socioeconómica vigente; y
 
 c. La fórmula para determinar el puntaje de vulnerabilidad social.
 
@@ -138,7 +142,7 @@ e. No ser aquella que habitaba, en calidad de allegado, el Núcleo Familiar bene
 
 f. No estar ubicadas en determinadas áreas geográficas o conjuntos habitacionales donde se encuentre suspendida transitoria o indefinidamente la aplicación de subsidio, las que serán fijadas por resoluciones fundadas del Ministro de Vivienda y Urbanismo o del Seremi correspondiente, previa autorización otorgada por el Ministro.
 
-g. No estar afectas a prohibición de arrendar constituida a favor del Serviu y no estar embargadas. Lo anterior lo acreditará el beneficiario mediante el certificado de hipotecas, gravámenes, prohibiciones e interdicciones correspondiente, de una antigüedad no mayor a 6 meses.
+g. No estar afectas a prohibición de arrendar, salvo que cuenten con la autorización respectiva, y no estar embargadas. Lo anterior lo acreditará el beneficiario mediante el certificado de hipotecas, gravámenes, prohibiciones e interdicciones correspondiente, de una antigüedad no mayor a 6 meses.
 
 ### Párrafo 3º — De los llamados
 
@@ -154,11 +158,13 @@ De los llamados territoriales: Extraordinariamente, previa autorización escrita
 
 #### Artículo 13
 
-De los llamados especiales: El Ministro de Vivienda y Urbanismo podrá autorizar, mediante resoluciones fundadas, la realización de llamados a postulación en condiciones especiales para la atención de personas que se encuentren en situaciones especiales de urgente necesidad habitacional, derivadas de casos fortuitos, de fuerza mayor u otros. Dichas resoluciones podrán eximir del cumplimiento de uno o más de los requisitos y condiciones establecidos en el presente Reglamento, incorporar y/o establecer nuevos requisitos y condiciones, así como disponer montos de subsidio diferentes a los establecidos en el artículo 5º. En ningún caso podrá eximirse de la obligación de suscribir el contrato de arrendamiento, ni de las exigencias que deben cumplir las viviendas objeto del programa. Los recursos que se destinen a estos llamados no podrán exceder del 25% de los correspondientes al respectivo programa anual.
+De los llamados especiales: El Ministro de Vivienda y Urbanismo podrá autorizar, mediante resoluciones fundadas, la realización de llamados a postulación en condiciones especiales. Dicha resolución establecerá los requisitos, condiciones, exigencias e impedimentos señalados en este reglamento que serán obligatorios para participar en el llamado y/o los requisitos, condiciones, exigencias e impedimentos que podrán ser eximidos, liberados o modificados. En ningún caso podrá eximirse de la obligación de suscribir el contrato de arrendamiento, ni de las exigencias que deben cumplir las viviendas objeto del programa. Los recursos que se destinen a estos llamados no podrán exceder del 50% de los correspondientes al respectivo programa anual.
+
+En el caso de llamados para la atención de damnificados como consecuencia de sismos o catástrofes de zonas que el Ministerio del Interior declare como afectadas por catástrofes conforme a la ley N° 16.282, el Ministro de Vivienda y Urbanismo podrá autorizar montos de subsidio diferentes, mayores o menores, y podrá eximir de las condiciones dispuestas en las letras c. y g. del artículo 10 del presente Reglamento, referidas a la vivienda objeto del programa. En el caso de la letra g. la exención solo podrá referirse a la prohibición de arrendar a favor del SERVIU que se encuentre vigente.
 
 #### Artículo 14
 
-De las asignaciones directas: De la cantidad de recursos dispuesta anualmente a nivel nacional para el presente programa, podrá reservarse hasta un 15% para la atención de personas que se encuentren en situaciones especiales de urgente necesidad habitacional, derivadas de casos fortuitos, de fuerza mayor u otros, debidamente calificados por el Ministro de Vivienda y Urbanismo, o para la atención de los damnificados como consecuencia de sismos o catástrofes de zonas que el Ministerio del Interior declare como afectadas por tales catástrofes conforme a la ley Nº 16.282, cuyo texto refundido fue fijado por DS Nº 104, de Interior, de 1977. Los subsidios de arriendo que se otorguen con cargo a estos recursos podrán ser asignados directamente por resoluciones fundadas del Ministro de Vivienda y Urbanismo y sólo podrán cubrir un período de 24 meses. En estas resoluciones se podrá eximir del cumplimiento de uno o más de los requisitos y condiciones establecidos en el presente Reglamento, incorporar y/o establecer nuevos requisitos y condiciones, así como disponer montos de subsidio diferentes a los establecidos en el artículo 5º. En ningún caso podrá eximirse de la obligación de suscribir el contrato de arrendamiento, ni de las exigencias que deben cumplir las viviendas objeto del programa.
+De las asignaciones directas: De la cantidad de recursos dispuesta anualmente a nivel nacional para el presente programa, podrá reservarse hasta un 15% para la atención de personas que se encuentren en situaciones especiales de urgente necesidad habitacional, derivadas de casos fortuitos, de fuerza mayor u otros, debidamente calificados por el Ministro de Vivienda y Urbanismo, o para la atención de los damnificados como consecuencia de sismos o catástrofes de zonas que el Ministerio del Interior declare como afectadas por tales catástrofes conforme a la ley N° 16.282, cuyo texto refundido fue fijado por DS N° 104, de Interior, de 1977. Los subsidios de arriendo que se otorguen con cargo a estos recursos podrán ser asignados directamente por resoluciones fundadas del Ministro de Vivienda y Urbanismo y sólo podrán cubrir un período de 24 meses. En estas resoluciones se podrá eximir o liberar del cumplimiento de uno o más requisitos, condiciones e impedimentos, establecidos en el presente Reglamento, incorporar y/o establecer nuevos requisitos y condiciones, así como disponer montos de subsidio diferentes a los establecidos en el artículo 5°. Respecto de las condiciones de las viviendas objeto del programa solo podrán eximirse las dispuestas en las letras c. y g. del artículo 10 de este Reglamento. En el caso de la letra g. la exención solo podrá referirse a la prohibición de arrendar a favor del SERVIU que se encuentre vigente. En ningún caso podrá eximirse de la obligación de suscribir el contrato de arrendamiento.
 
 #### Artículo 15
 
@@ -195,6 +201,8 @@ g. Otorgar autorización expresa para consultar al Servicio de Impuestos Interno
 h. Presentar una Declaración Jurada de Postulación, acerca de la veracidad de la información proporcionada, de su conocimiento y de la aceptación de las obligaciones y prohibiciones dispuestas en el presente Reglamento.
 
 i. Tratándose de postulantes o su cónyuge o conviviente civil que sean funcionarios de las Plantas de Suboficiales y Gendarmes, o de Profesionales, de Técnicos, de Administrativos y de Auxiliares, de Gendarmería de Chile, para optar al puntaje establecido para esos efectos en la letra i. del artículo 25, deberán adjuntar Certificado que acredite su calidad de funcionario, el lugar de desempeño de sus funciones y que éstas se desarrollan de manera permanente al interior de recintos penitenciarios, otorgado por Gendarmería de Chile.
+
+Como consecuencia de la postulación el postulante quedará registrado en el Sistema de Información Territorial de la Demanda.
 
 #### Artículo 17
 
@@ -494,7 +502,7 @@ La renta mensual de arrendamiento estará compuesta por el monto del subsidio y 
 
 #### Artículo 42
 
-Duración del contrato: El contrato comenzará a regir a partir del día 1º del mes siguiente al de la fecha de la recepción de éste por parte del Serviu. La vigencia establecida en el contrato no podrá ser inferior a 12 meses.
+Aplicación del subsidio: El subsidio se comenzará a aplicar a contar del día 1° del mes siguiente al de la fecha en que el beneficiario realizó su primer copago, conforme a lo establecido en el párrafo 1° del Capítulo IV de este Reglamento. La vigencia establecida en el contrato no podrá ser inferior a 12 meses.
 
 En caso de suscribirse un nuevo contrato de arrendamiento, el subsidio se pagará sólo por los meses que falten para cumplir con la cobertura del beneficio. Si la duración del contrato de arrendamiento es mayor a los aportes de subsidio que resten, el arrendatario, cuyo subsidio se habrá extinguido según lo indicado en la letra a. del artículo 32, deberá pagar la totalidad de la renta mensual de arrendamiento, a partir del mes siguiente al de la extinción de dicho beneficio.
 
@@ -580,11 +588,9 @@ Egreso del programa: El titular del beneficio y el Núcleo Familiar Beneficiado 
 
 #### Artículo 52
 
-Postulación al Programa del Sistema Integrado de Subsidio Habitacional, regulado por el DS Nº 1 (V. y U.), de 2011: El titular del beneficio o cualquier miembro de su Núcleo Familiar podrán postular al Sistema Integrado de Subsidio Habitacional regulado por el DS Nº 1 (V. y U.), de 2011, sin necesidad de egresar del Programa de Arriendo de Viviendas e igualmente una vez egresado de éste.
+Postulación a los Programas Habitacionales de adquisición o construcción de viviendas: El titular del beneficio o cualquier miembro de su Núcleo Familiar podrán postular a los Programas Habitacionales de adquisición o construcción de viviendas sin necesidad de egresar del Programa de Arriendo de Viviendas e igualmente una vez egresado de éste.
 
-En estos casos, el titular del beneficio obtendrá puntaje adicional para la postulación al subsidio, en los términos que se definan en el referido decreto.
-
-Si el titular del beneficio resulta seleccionado en dicho programa habitacional, el subsidio de arriendo seguirá vigente, requiriéndose el egreso del Programa de Arriendo de Vivienda al momento del pago del beneficio destinado a la adquisición o construcción de la vivienda, según lo establecido en el presente Capítulo.
+Si el titular del beneficio resulta seleccionado en dichos Programas Habitacionales, el subsidio de arriendo seguirá vigente, requiriéndose el egreso del Programa de Arriendo de Vivienda al momento del pago final del beneficio destinado a la adquisición o construcción de la vivienda, según lo establecido en el presente Capítulo.
 
 #### Artículo 53
 
@@ -592,7 +598,7 @@ Reserva de cupo de subsidio en el Programa sobre Arrendamiento de Viviendas con 
 
 #### Artículo 54
 
-Postulación al Programa Fondo Solidario de Elección de Vivienda, DS Nº 49 (V. y U.), de 2011: Para ser considerado postulante hábil, el titular del beneficio y su Núcleo Familiar deberán haber egresado del Programa de Subsidio de Arriendo de Vivienda en la forma establecida en el presente Capítulo, debiendo haber transcurrido 12 meses, contados desde la fecha del egreso. Este plazo no se aplicará en caso que no se haya efectuado ningún pago de subsidio correspondiente al Programa de Subsidio de Arriendo de Vivienda al momento del egreso.
+Eliminado.
 
 Segundo: Modifícase el DS Nº 1 (V. y U.), de 2011, que aprueba el Reglamento del Sistema Integrado de Subsidio Habitacional, en el siguiente sentido:
 

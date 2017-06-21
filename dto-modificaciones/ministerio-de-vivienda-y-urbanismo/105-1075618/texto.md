@@ -1580,7 +1580,7 @@ transitorio: Las modificaciones a los requerimientos de conformación de áreas 
 
 #### Artículo 7º
 
-transitorio: Las personas damnificadas beneficiadas con un subsidio sin aplicar en la modalidad de Construcción en Sitio Propio por Autoconstrucción y Vivienda Tipo en el marco del Plan de Reconstrucción del terremoto del 27 de febrero de 2010, podrán optar a la homologación de dicho subsidio a las condiciones del DS Nº 49 (V. y U.), de 2011, y sus modificaciones.
+transitorio: Las personas damnificadas beneficiadas con un subsidio sin aplicar en las modalidades de Construcción en Sitio Propio, Autoconstrucción Asistida y Proyecto Tipo, en el marco del Plan de Reconstrucción del terremoto del 27 de febrero de 2010, podrán optar a la homologación de dicho subsidio a las condiciones del DS N° 49, (V. y U.), de 2011, y sus modificaciones.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 

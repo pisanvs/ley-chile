@@ -30,17 +30,17 @@ Objetivo del Programa
 
 El Programa regulado por el presente reglamento, denominado Programa de Habitabilidad Rural, en adelante también el Programa, tiene por objeto mejorar las condiciones de habitabilidad de familias que residan en cualquier lugar del territorio nacional, excluidas las localidades urbanas de 5.000 o más habitantes de acuerdo a los datos que provea el Instituto Nacional de Estadísticas, atendiendo a sus particularidades geográficas y culturales. Tratándose de áreas rurales, deberá cumplirse con lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones, cuando corresponda.
 
-El Programa está destinado preferentemente a atender a las personas que presenten condiciones de déficit de habitabilidad establecidas conforme a lo señalado en el presente reglamento de acuerdo a la información contenida en el Instrumento de Caracterización Social vigente, salvo en el caso del Tipo de Vivienda Inhabitable, en que la condición será certificada en la forma prevista en el artículo 28, letra e), de este reglamento. La condición de déficit de habitabilidad podrá ser alta, media o baja, de acuerdo a la presencia de uno o más de los indicadores definidos en el siguiente cuadro:
+El Programa está destinado preferentemente a atender a las personas que presenten condiciones de déficit de habitabilidad, establecidas conforme a lo señalado en el presente reglamento, de conformidad con la información que se obtenga de la aplicación del Instrumento de Caracterización Socioeconómica a que se refiere el artículo 5° de la ley N° 20.379, salvo en el caso de la inhabitabilidad de la vivienda, en que dicha condición será certificada en la forma prevista en el artículo 28, letra e), de este reglamento. La condición de déficit de habitabilidad podrá ser alta, media o baja, de acuerdo a la presencia de uno o más de los indicadores definidos en el siguiente cuadro:
 
-.
+En el caso que la persona evaluada presente indicadores correspondientes a distintas condiciones de déficit se considerará la situación de habitabilidad más desfavorable.
 
-Las familias que se encuentren en situación de Déficit de Habitabilidad Alto, podrán postular al presente programa, independiente del quintil al que pertenezcan según el Instrumento de Caracterización Social que disponga el Ministerio de Desarrollo Social.
+Las familias que se encuentren en situación de Déficit de Habitabilidad Alto, podrán postular al presente programa, independiente de la calificación obtenida en el Instrumento de Caracterización Socioeconómica. Sin perjuicio de lo anterior, aquellas personas que se ubiquen en el tramo superior al 90% de caracterización socioeconómica, deberán acreditar al menos dos indicadores que refieran a un Déficit de Habitabilidad Alto.
 
-Asimismo, las familias en situación de Déficit de Habitabilidad Medio que postulen individualmente, podrán pertenecer del I al III quintil establecido en el Instrumento de Caracterización Social. En postulaciones colectivas, se podrá incorporar hasta un 40% de personas del IV quintil.
+Asimismo, las familias en situación de Déficit de Habitabilidad Medio que postulen individualmente, podrán pertenecer hasta el 60% de mayor vulnerabilidad de la población nacional. En postulaciones colectivas, se podrá incorporar al grupo postulante hasta un 40% de personas comprendidas hasta el 80% más vulnerable.
 
-Finalmente, las familias en situación de Déficit de Habitabilidad Bajo que postulen individualmente, podrán pertenecer del I al II quintil establecido en el Instrumento de Caracterización Social. En postulaciones colectivas, se podrá incorporar hasta un 40% de personas del III quintil.
+Finalmente, las familias en situación de Déficit de Habitabilidad Bajo que postulen individualmente, podrán pertenecer hasta el 40% de mayor vulnerabilidad de la población nacional. En postulaciones colectivas, se podrá incorporar al grupo postulante hasta un 40% de personas comprendidas hasta el 60% más vulnerable.
 
-No obstante lo señalado en los incisos anteriores y tratándose de proyectos Construcción y/o Mejoramiento del Equipamiento y Entorno Comunitario, podrán postular las familias que cuenten con Instrumento de Caracterización Social, en cualquier quintil y situación de habitabilidad.
+No obstante lo señalado en los incisos anteriores y tratándose de proyectos de Construcción y/o Mejoramiento del Equipamiento y Entorno Comunitario, podrán postular las familias de cualquier tramo o segmento de calificación obtenida en el Instrumento de Caracterización Socioeconómica.
 
 Mediante resoluciones fundadas del Ministro de Vivienda y Urbanismo, se podrán señalar todas aquellas operaciones o actos que incidan en la aplicación práctica de este reglamento. Adicionalmente, mediante circulares del Subsecretario de Vivienda y Urbanismo, podrán impartirse instrucciones a los Servicios de Vivienda y Urbanización, en adelante también SERVIU, para la aplicación y/o aclaración de las disposiciones del presente reglamento.
 
@@ -68,7 +68,7 @@ Para los efectos del presente reglamento, se entenderá por:
 
 2.9. Entorno inmediato: Espacio dentro del predio en el cual se emplaza la vivienda del postulante, cuyas condiciones inciden en el uso, accesibilidad y habitabilidad de ésta.
 
-2.10. Familia monoparental: El postulante que es madre o padre soltero, divorciado o viudo, que tenga a su cargo hijos de hasta 24 años, aun cuando cumplan 25 años en el año calendario del llamado, que vivan con él y a sus expensas, lo que se deberá acreditar con una declaración jurada simple. No se considerará la familia como monoparental si en el instrumento de Caracterización Social se identifica al postulante con cónyuge o conviviente.
+2.10. Familia monoparental: El postulante que es madre o padre soltero, divorciado o viudo, que tenga a su cargo hijos de hasta 24 años, aun cuando cumplan 25 años en el año calendario del llamado, que vivan con él y a sus expensas, lo que se deberá acreditar con una declaración jurada simple. No se considerará la familia como monoparental si en el Instrumento de Caracterización Socioeconómica vigente se identifica al postulante con cónyuge o conviviente.
 
 2.11. Garantía Estatal de remate: Pago que efectúa el Ministerio de Vivienda y Urbanismo, en adelante también MINVU en caso de rematarse la vivienda, si el producto del remate no cubre el saldo insoluto de la deuda, con sus intereses y comisiones devengadas, cuando corresponda, incluyendo las costas del juicio.
 
@@ -76,7 +76,7 @@ Para los efectos del presente reglamento, se entenderá por:
 
 2.13. Modalidad de Aplicación o Modalidad: Alternativa de aplicación del subsidio, que puede ser para la construcción de una solución habitacional definitiva; el mejoramiento o ampliación de la vivienda, y el mejoramiento del entorno y equipamiento comunitario, que incluye diversas tipologías y éstas a su vez distintas clases de proyectos.
 
-2.14. Núcleo familiar: Conjunto de personas declaradas por el postulante y que se encuentran incluidas en un mismo Instrumento de Caracterización Social vigente.
+2.14. Núcleo familiar: Conjunto de personas declaradas por el postulante y que se encuentran incluidas en un mismo Instrumento de Caracterización Socioeconómica vigente.
 
 2.15. Proyecto de Asociación Territorial: Proyecto o conjunto de proyectos de habitabilidad postulados al Título I de éste Programa, de forma colectiva, por la Entidad de Gestión Rural ante el SERVIU, relacionado con un territorio específico definido previamente por la SEREMI MINVU, caracterizado por condiciones geográficas, ambientales, culturales y productivas particulares, tales como aislamiento, dispersión territorial, dificultad de acceso, baja oferta de proveedores de servicios, emplazado al interior de una comuna, provincia o región, y cuyos habitantes poseen carencias de habitabilidad que pueden ser atendidas de manera integral por el Programa de Habitabilidad Rural.
 
@@ -172,7 +172,7 @@ b) Tipología de Construcción y/o Mejoramiento del Equipamiento y Entorno Comun
 
 Compatibilidades e incompatibilidades entre tipologías y/o clases de proyectos
 
-Se podrá postular en forma simultánea a 3 intervenciones de las tipologías o clases incluidas en las modalidades de proyecto señaladas en los artículos precedentes y de hasta 4 en caso que a lo menos una de ellas corresponda a la Tipología de Construcción y/o Mejoramiento del Equipamiento y Entorno Comunitario. Los postulantes pertenecientes a los quintiles l y II del Instrumento de Caracterización Social que se encuentre vigente, que cuenten únicamente con una caseta sanitaria o baño y que no cuenten con vivienda o ésta se encuentre inhabitable, podrán contemplar la aplicación simultánea de una tipología o clase adicional a las ya señaladas.
+Se podrá postular en forma simultánea a 3 intervenciones de las tipologías o clases incluidas en las modalidades de proyecto señaladas en los artículos precedentes y de hasta 4 en caso que a lo menos una de ellas corresponda a la Tipología de Construcción y/o Mejoramiento del Equipamiento y Entorno Comunitario. Los postulantes pertenecientes hasta el 40% más vulnerable de la población nacional, de conformidad con la información que se obtenga de la aplicación del Instrumento de Caracterización Socioeconómica vigente, que cuenten únicamente con una caseta sanitaria o baño y que no cuenten con vivienda o ésta se encuentre inhabitable, podrán contemplar la aplicación simultánea de una tipología o clase adicional a las ya señaladas.
 
 Sin perjuicio de lo señalado en el inciso anterior, no podrá postularse a ambas tipologías de la Modalidad de Proyectos de Construcción de Viviendas Nuevas, ni tampoco a esta última modalidad conjuntamente con las clases de la Tipología de Proyectos de Mejoramiento de la Vivienda. En el caso, de postulantes a la Modalidad: de Proyectos de Construcción de Viviendas Nuevas que adicionalmente postulen a la clase de Construcción de Dormitorio, la vivienda resultante no podrá considerar en total más de 3 de estos recintos.
 
@@ -196,7 +196,7 @@ Del subsidio
 
 El MINVU, directamente o a través del SERVIU, otorgará mediante este sistema de atención un subsidio destinado a financiar proyectos de construcción de vivienda nueva, de mejoramiento o ampliación de una vivienda existente, de mejoramiento del entorno y de equipamiento comunitario.
 
-En el caso de la construcción de viviendas, su precio estará conformado por el monto del ahorro acreditado por el postulante, los aportes adicionales públicos y/o privados, el crédito hipotecario, si corresponde y el subsidio. Los beneficiarios del presente Programa que pertenezcan al III, IV y V quintil, podrán optar a un crédito hipotecario para complementar el financiamiento del precio de la vivienda a construir. Asimismo, aquellos que pertenezcan al I y II quintil definido en el Instrumento de Caracterización Social que se encuentre vigente, no podrán optar al financiamiento de su vivienda mediante crédito.
+En el caso de la construcción de viviendas, su precio estará conformado por el monto del ahorro acreditado por el postulante, los aportes adicionales públicos y/o privados, el crédito hipotecario, si corresponde y el subsidio. Los beneficiarios del presente Programa, con excepción de los que se encuentren dentro del 40% más vulnerable de la población nacional, podrán optar a un crédito hipotecario para complementar el financiamiento del precio de la vivienda a construir.
 
 El subsidio estará compuesto por un subsidio base y, según corresponda, los subsidios complementarios señalados en el artículo 10 del presente reglamento.
 
@@ -216,13 +216,13 @@ b) Cuando existan razones de seguridad o salubridad, en la medida que esté comp
 
 c) Cuando la ejecución del proyecto de mejoramiento o ampliación de la vivienda impida que el postulante habite simultáneamente su vivienda, o bien en los casos de Construcción en Sitio del Residente, cuando la ejecución de las obras contemple la demolición del inmueble donde se encuentra habitando el postulante.
 
+Cuando se transfieran recursos al MINVU para el otorgamiento de subsidios o financiamiento complementario de proyectos, por parte de otros organismos públicos, éstos podrán ser asignados directamente a los beneficiarios sin que se contabilicen en el 30% señalado en el inciso primero del presente artículo.
+
 #### Artículo 9
 
 Monto de Subsidio Base
 
-El monto de subsidio base, expresado en Unidades de Fomento, según tipología de aplicación que contempla el Programa, será el siguiente:
-
-.
+El monto de subsidio base, expresado en Unidades de Fomento, según tipología de aplicación que contempla el Programa y conforme a la calificación socioeconómica obtenida por el postulante, será el siguiente:
 
 Mediante resolución fundada del Ministro de Vivienda y Urbanismo, con aprobación de la Dirección de Presupuestos del Ministerio de Hacienda, se podrá establecer un factor multiplicador que ajuste los montos a que se refiere el inciso anterior, con el objeto de complementar el monto del subsidio base en cada comuna del país y/o determinadas localidades en función de su grado de aislamiento. Dicho factor representará las variaciones en el costo de dos materiales de construcción, el valor de la mano de obra, el costo del suelo, y en general aquellos aspectos estacionarios o permanentes que incidan en el costo local de construcción.
 
@@ -260,7 +260,7 @@ Para los efectos de lo dispuesto en los incisos anteriores, la Entidad de Gesti�
 
 d) Subsidio para personas con discapacidad.
 
-En caso que el postulante o uno o más integrantes del grupo familiar estuviere afectado por discapacidad, acreditada mediante inscripción en el Registro Nacional de la Discapacidad, a que se refiere el artículo 55 de la ley Nº 20.422, sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad, el subsidio base se incrementará hasta en 20 Unidades de Fomento, siempre que la vivienda contemple la implementación de obras que contribuyan a paliar las situaciones que afectan a quienes presentan tal condición de discapacidad en el grupo familiar del postulante. Si en razón de su discapacidad el postulante o el integrante del núcleo familiar afectado por una discapacidad se encuentre en condiciones de movilidad reducida que dificulten su desplazamiento, lo que se acreditará mediante un certificado emitido por la Comisión de Medicina Preventiva e Invalidez de la Secretaría Regional Ministerial de Salud correspondiente o el organismo competente, en que se califique dicha situación, o a través de una consulta en línea al Servicio de Registro Civil e Identificación, el subsidio base se incrementará hasta en 80 Unidades de Fomento, debiendo igualmente la vivienda contemplar la implementación de obras que contribuyan a paliar las limitaciones que afectan a quienes presentan tal condición de discapacidad señaladas en el inciso anterior, y cumplir además con los requerimientos establecidos en el Cuadro Normativo de Estándar Técnico de Habitabilidad Rural.
+En caso que el postulante o uno o más integrantes del grupo familiar estuviere afectado por discapacidad, acreditada mediante inscripción en el Registro Nacional de la Discapacidad, a que se refiere el artículo 55 de la ley Nº 20.422, sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad, el subsidio base se incrementará hasta en 20 Unidades de Fomento, siempre que la vivienda contemple la implementación de obras que contribuyan a paliar las situaciones que afectan a quienes presentan tal condición de discapacidad en el grupo familiar del postulante. Si en razón de su discapacidad el postulante o el integrante del núcleo familiar afectado por una discapacidad se encuentre en condiciones de movilidad reducida que dificulten su desplazamiento, lo que se acreditará mediante un certificado emitido por la Comisión de Medicina Preventiva e Invalidez de la Secretaría Regional Ministerial de Salud correspondiente o el organismo competente, en que se califique dicha situación, o a través de una consulta en línea al Servicio de Registro Civil e Identificación, el subsidio base se incrementará hasta en 80 Unidades de Fomento, debiendo igualmente la vivienda contemplar la implementación de obras que contribuyan a paliar las limitaciones que afectan a quienes presentan tal condición de discapacidad, y cumplir además con los requerimientos establecidos en el Cuadro Normativo de Estándar Técnico de Habitabilidad Rural.
 
 Las obras adicionales que financiará este mayor monto de subsidio deberán estar consideradas en el proyecto habitacional.
 
@@ -280,13 +280,13 @@ Se deberá presentar el proyecto técnico correspondiente a el o los equipamient
 
 Ahorro mínimo
 
-Para postular a los Subsidios regulados por este reglamento, el postulante deberá acreditar haber enterado el ahorro mínimo señalado a continuación, en Unidades de Fomento, en alguno de los instrumentos indicados en el artículo siguiente, según la o las tipologías de proyectos a las cuales postule:
+Para postular a los Subsidios regulados por este reglamento, el postulante deberá acreditar haber enterado el ahorro mínimo señalado a continuación, en Unidades de Fomento, en alguno de los instrumentos indicados en el artículo siguiente, según la o las tipología(s) de proyecto a las cuales postule, y conforme a su calificación socioeconómica:
 
 .
 
-A los postulantes pertenecientes a los quintiles I y II según el Instrumento de Caracterización Social que se encuentre vigente, que tengan 60 años o más años de edad, considerando los que cumplen 60 años durante el año calendario de la postulación, no les será exigible el ahorro mínimo señalado en el presente artículo. En estos casos, el monto del subsidio se incrementará de acuerdo al monto de ahorro mínimo requerido para cada tipo de proyecto postulado.
+A los postulantes comprendidos dentro del 40% más vulnerable de la población nacional, que tengan 60 o más años de edad, considerando los que cumplen 60 años durante el año calendario de la postulación, no les será exigible el ahorro mínimo señalado en el presente artículo. En estos casos, el monto del subsidio se incrementará de acuerdo al monto de ahorro mínimo requerido para cada tipo de proyecto postulado.
 
-Los postulantes pertenecientes a los quintiles I y II según el Instrumento de Caracterización Social que se encuentre vigente, que postulen a proyectos de ampliación y cuenten con una caseta sanitaria o baño y que no cuenten con vivienda o ésta se encuentre inhabitable, podrán acreditar un ahorro mínimo de 3 Unidades de Fomento por cada proyecto de ampliación considerado.
+Los postulantes comprendidos dentro del 40% más vulnerable de la población nacional, que postulen a proyectos de ampliación y cuenten con una caseta sanitaria o baño y que no cuenten con vivienda o ésta se encuentre inhabitable, podrán acreditar un ahorro mínimo de 3 Unidades de Fomento por cada proyecto de ampliación considerado.
 
 #### Artículo 12
 
@@ -348,7 +348,7 @@ También quedará sin efecto la suspensión respecto de aquellos titulares que, 
 
 Del crédito hipotecario complementario
 
-Los Postulantes del III, IV y V quintil según el instrumento de caracterización social vigente que resulten seleccionados para la asignación del subsidio habitacional, en la medida que requieran mayor financiamiento que el disponible, podrán solicitar un crédito hipotecario complementario a un Banco, Sociedad Financiera, Agencia Administradora de Mutuos Hipotecarios Endosables, Cooperativa de Ahorro y Crédito sujeta a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras o a una Caja de Compensación de Asignación Familiar sujeta a la fiscalización de la Superintendencia de Seguridad Social o a un Servicio de Bienestar Social o Caja de Previsión que, de conformidad a su normativa orgánica, otorgue créditos con fines habitacionales, en adelante, las entidades crediticias.
+Según lo señalado en el inciso segundo del Artículo 7. de este reglamento, los postulantes que resulten seleccionados para la asignación del subsidio habitacional, en la medida que requieran mayor financiamiento que el disponible, podrán solicitar un crédito hipotecario complementario a un Banco, Sociedad Financiera, Agencia Administradora de Mutuos Hipotecarios Endosables, Cooperativa de Ahorro y Crédito sujeta a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras, o a una Caja de Compensación de Asignación Familiar sujeta a la fiscalización de la Superintendencia de Seguridad Social, o a un Servicio de Bienestar Social o Caja de Previsión que, de conformidad a su normativa orgánica, otorgue créditos con fines habitacionales, en adelante, las entidades crediticias.
 
 Tratándose de créditos hipotecarios financiados mediante la emisión de letras de crédito, para acceder a los beneficios que señala el presente reglamento, se requerirá que las letras que financian el crédito respectivo hayan sido vendidas en alguna de las Bolsas de Valores regidas por la ley Nº 18.045, sobre Mercado de Valores.
 
@@ -500,11 +500,13 @@ Requisitos y Antecedentes Generales
 
 Para postular al subsidio, los interesados, además de lo establecido en el artículo 1 del presente reglamento, deberán cumplir los siguientes requisitos:
 
-a) Contar con el Instrumento de caracterización vigente que disponga el Ministerio de Desarrollo Social, cuya información será consultada en línea al momento de la postulación.
+a) Contar con el Instrumento de Caracterización Socioeconómica, cuya información será consultada en línea al momento de la postulación o del ingreso al Banco de Postulaciones.
+
+Como consecuencia de la postulación el postulante quedará registrado en el Sistema de Información Territorial de la Demanda.
 
 b) Ser mayores de 18 años.
 
-c) Si el postulante es de nacionalidad chilena, deberá presentar su Cédula Nacional de Identidad vigente y entregar fotocopia de ella. Si el postulante es de nacionalidad extranjera deberá presentar Cédula de Identidad para Extranjeros y entregar fotocopia de ella y del Certificado de Permanencia Definitiva, conforme a las normas que regulan la residencia legal de los extranjeros en el país.
+c) Si el postulante es de nacionalidad chilena, deberá presentar su Cédula Nacional de Identidad vigente y entregar fotocopia de ella. Si el postulante es de nacionalidad extranjera, deberá presentar Cédula de Identidad para Extranjeros, en la que conste su permanencia definitiva, y entregar fotocopia de ella y del Certificado de Permanencia Definitiva conforme a las normas que regulan la residencia legal de los extranjeros en el país. Este Certificado podrá corresponder, alternativamente, al otorgado por el Departamento de Extranjería y Migración del Ministerio del Interior y Seguridad Pública o al de Vigencia de la Permanencia Definitiva entregado por la oficina correspondiente de la Policía Internacional de Investigaciones de Chile. Dicho Certificado no se exigirá en caso que se verifique en línea la información con los organismos correspondientes.
 
 d) Cumplir con el ahorro mínimo exigido, el que deberá ser acreditado conforme a lo señalado en el artículo 13 del presente reglamento.
 
@@ -512,17 +514,19 @@ e) Si el postulante o uno o más integrantes del núcleo familiar declarado por 
 
 f) Presentar Declaración de Núcleo familiar en formulario que el SERVIU respectivo proveerá para estos efectos. Las personas incluidas en esta declaración deberán cumplir con los siguientes requisitos y condiciones:
 
-1) Todas las personas que sean invocadas por el postulante como miembros de su núcleo familiar, deberán formar parte del mismo Instrumento de Caracterización Social.
+1) Todas las personas que sean invocadas por el postulante como miembros de su núcleo familiar, deberán formar parte del mismo Instrumento de Caracterización Socioeconómica.
 
 2) En el referido instrumento, las personas mayores de 18 años, a excepción del cónyuge, deberán declarar bajo su firma que forman parte de dicho núcleo familiar, adjuntando fotocopia de sus respectivas cédulas de identidad. Las personas que cumplan 18 años en el año calendario del llamado y que sean integrantes del núcleo familiar, no tendrán obligación de firmar la citada declaración.
 
-3) Sólo se permitirá una postulación en un mismo llamado o un ingreso al Banco de postulaciones por cada Instrumento de Caracterización Social, salvo respecto de aquellos instrumentos en que se encuentren inscritos 6 o más integrantes, en cuyo evento se permitirá la separación de sus integrantes en hasta 2 núcleos familiares distintos de manera que cada uno de esos núcleos puedan postular o ingresar al Banco en forma independiente en la medida en que cada uno de ellos cumpla los requisitos y no esté afecto a otro impedimento conforme a lo previsto en el presente reglamento.
+3) Sólo se permitirá una postulación en un mismo llamado o un ingreso al Banco de Postulaciones por cada Instrumento de Caracterización Socioeconómica, salvo respecto de aquellos instrumentos en que se encuentren registrados 6 o más integrantes, en cuyo caso se permitirá la separación de sus integrantes en hasta 2 núcleos familiares distintos, de manera que cada uno de esos núcleos puedan postular o ingresar al Banco de Postulaciones en forma independiente en la medida en que cada uno de ellos cumpla los requisitos y no esté afecto a otro impedimento, conforme a lo previsto en el presente reglamento.
 
 g) Declaración Jurada de Postulación acerca de la necesidad de la obtención del subsidio y de la veracidad de la información proporcionada.
 
-h) Tratándose de postulantes en cuyo núcleo familiar se incluyan voluntarios activos del Cuerpo de Bomberos de Chile, para optar al puntaje establecido para esos efectos en el literal b) del artículo 43, deberán adjuntar un documento que acredite la inscripción en el Registro Nacional de Bomberos Voluntarios a cargo de la Junta Nacional de Cuerpos de Bomberos de Chile.
+h) Tratándose de postulantes en cuyo núcleo familiar se incluyan voluntarios activos del Cuerpo de Bomberos de Chile, para optar al puntaje establecido para esos efectos en el literal a) del artículo 43, deberán adjuntar un documento que acredite la inscripción en el Registro Nacional de Bomberos Voluntarios a cargo de la Junta Nacional de Cuerpos de Bomberos de Chile.
 
-i) No estar afecto a los impedimentos señalados en el artículo 27.
+i) Tratándose de postulantes, o su cónyuge o conviviente civil, que sean funcionarios de Gendarmería de Chile, para optar al puntaje establecido para esos efectos en la letra a) del Artículo 43 de este reglamento, deberá adjuntar un certificado que acredite tanto la calidad de funcionario de dicha institución como el lugar de desempeño de sus funciones, otorgado por Gendarmería de Chile.
+
+j) No estar afecto a los impedimentos señalados en el artículo 27.
 
 #### Artículo 24
 
@@ -560,7 +564,7 @@ b) Tratándose de postulantes que opten por la tipología de Construcción en Si
 
 13. Autorización notarial del propietario del sitio para construir una vivienda en él, en que conste además el compromiso de entregar en usufructo por a lo menos 15 años al postulante o su cónyuge, acompañando el plano en que se identifique la porción de terreno en que se emplazará la o las viviendas, y copia de la inscripción de dominio en favor del propietario del sitio, con certificado de vigencia, extendido con no más de 90 días corridos de anticipación a la fecha de postulación.
 
-c) Tratándose de postulantes que opten por la tipología de Construcción de Conjuntos Habitacionales, podrán acreditar la disponibilidad de terreno conforme a lo señalado en el literal anterior, o por alguna de las siguientes formas:
+c) Tratándose de postulantes que opten por la tipología de Construcción de Conjuntos Habitacionales, podrán acreditar la disponibilidad de terreno conforme a lo señalado en el literal anterior, en los casos en que corresponda, o por alguna de las siguientes formas:
 
 1. Copia de la inscripción de dominio en el Registro de Propiedad del Conservador de Bienes Raíces respectivo a nombre del grupo organizado como persona jurídica, o de, grupo postulante, o de la Entidad de Gestión Rural o de la Inmobiliaria o de la empresa constructora con la cual haya suscrito el contrato de construcción. En estos casos el propietario del terreno deberá constituir prohibición de gravar y enajenar a favor del SERVIU, la que éste alzará para los efectos de la transferencia de las respectivas viviendas a cada beneficiario.
 
@@ -580,7 +584,7 @@ Para postular proyectos en la modalidad de Mejoramiento y Ampliación de la Vivi
 
 a) El postulante o su cónyuge deberá acreditar la disponibilidad de vivienda y/o del terreno, mediante alguno de los documentos establecidos en el literal b) del artículo precedente.
 
-b) El domicilio informado en el Instrumento de Caracterización Social para estos efectos, deberá corresponder al de la vivienda en que se ejecutará el proyecto.
+b) El domicilio informado en el Instrumento de Caracterización Socioeconómica para estos efectos, deberá corresponder al de la vivienda en que se ejecutará el proyecto.
 
 c) Que la vivienda que integra el proyecto corresponda a una Vivienda Objeto de Mejoramiento, de acuerdo a lo señalado en el artículo 2, punto 2.26 de este reglamento.
 
@@ -590,7 +594,7 @@ d) Certificado Municipal de Recepción Definitiva de Obras de Edificación corre
 
 Requisitos para la Postulación a Proyectos de la tipología de Construcción y/o Mejoramiento del Entorno y Equipamiento Comunitario
 
-Los postulantes a la presente tipología deberán contar con instrumento de Caracterización Social, aplicado dentro de la comuna donde se desarrollará el proyecto.
+Los postulantes a la presente tipología deberán contar con instrumento de Caracterización Socioeconómica, aplicado dentro de la comuna donde se desarrollará el proyecto.
 
 a) Para postular proyectos en la tipología de Construcción y/o Mejoramiento del Entorno y Equipamiento Comunitario se deberá considerar lo siguiente: Los postulantes que sean propietarios de los inmuebles donde se emplazará el proyecto, deberán acreditar el dominio del terreno conforme a alguna de las formas señaladas en este reglamento, y la autorización o acuerdo de los comuneros para ejecutar el proyecto, según los requisitos y formalidades que correspondan.
 
@@ -650,7 +654,7 @@ No regirá el impedimento establecido en la letra c) del artículo 27, referido 
 
 a) Cuando el postulante casado bajo cualquier régimen matrimonial que hubiere anulado su matrimonio o se hubiere divorciado, no se hubiere adjudicado la vivienda o caseta sanitaria, ni hubiere recibido compensación ni participación en gananciales. Tampoco regirá cuando hubiere recibido compensación o participación en gananciales y hubiere restituido al SERVIU el 50% de los subsidios recibidos, conforme a la liquidación practicada por ese Servicio, debidamente actualizada a la fecha de la restitución.
 
-b) Cuando el postulante casado se encuentre separado de hecho y acredite haber iniciado el trámite de divorcio, mediante copia autorizada de la demanda con constancia de su notificación. Sin embargo, para el pago del subsidio deberá acreditarse la subinscripción de la sentencia de divorcio al margen de la respectiva inscripción de matrimonio y que el postulante no se hubiere adjudicado la vivienda o caseta sanitaria y hubiere renunciado a recibir una compensación equivalente o hubiere restituido al SERVIU el 50% del total del subsidio recibido, conforme a la liquidación practicada por el SERVIU, debidamente actualizada a la fecha de la restitución. Quienes postulen en esta situación, no podrán invocar al cónyuge como integrante del grupo familiar. En caso que se aplique lo señalado en la presente letra, tampoco regirán los impedimentos establecidos en las letras c) y e) del artículo 27, respecto del cónyuge del postulante.
+b) Cuando el postulante casado se encuentre separado de hecho y acredite haber iniciado el trámite de divorcio, mediante copia autorizada de la demanda con constancia de su notificación. Sin embargo, para el pago del subsidio deberá acreditarse la subinscripción de la sentencia de divorcio al margen de la respectiva inscripción de matrimonio y que el postulante no se hubiere adjudicado la vivienda o caseta sanitaria y hubiere renunciado a recibir una compensación equivalente o hubiere restituido al SERVIU el 50% del total del subsidio recibido, conforme a la liquidación practicada por el SERVIU, debidamente actualizada a la fecha de la restitución. Quienes postulen en esta situación, no podrán invocar al cónyuge como integrante del grupo familiar.
 
 c) Cuando el conviviente del postulante tenga vivienda o beneficio asociado a su nombre, pero el usufructo legal de esa vivienda lo tenga el cónyuge del conviviente, lo que deberá ser acreditado con el instrumento legal correspondiente.
 
@@ -688,9 +692,9 @@ Los expedientes de postulación aprobados participarán de procesos de selecció
 
 #### Artículo 31
 
-Del Sistema de Gestión Territorial de la Demanda
+Del Sistema de Información Territorial de la Demanda
 
-Los SERVIU tendrán a su cargo un Sistema de Información y Gestión Territorial de la Demanda, a través del cual podrán identificar, cuantificar, caracterizar a las familias que requieran una solución habitacional, conocer su ubicación en el territorio e informar respecto de las alternativas de solución de habitabilidad y de los requisitos de postulación. Lo anterior, con el objeto de garantizar a las familias el acceso a una adecuada información, además de otorgar a la respectiva SEREMI MINVU antecedentes actualizados de la demanda de habitabilidad existente en la región, permitiendo una mejor planificación y seguimiento del Programa. El sistema comprende el acompañamiento de las familias hasta su vinculación a alguna de las alternativas de solución previstas en el presente Programa, a través de una Entidad de Gestión Rural, en los casos que corresponda.
+Los SERVIU tendrán a su cargo un Sistema de Información Territorial de la Demanda, a través del cual podrán identificar, cuantificar, caracterizar a las familias que requieran una solución habitacional, conocer su ubicación en el territorio e informar respecto de las alternativas de solución habitacional y de habitabilidad y de los requisitos de postulación. Lo anterior, con el objeto de garantizar a las familias el acceso a una adecuada información, además de otorgar a la respectiva SEREMI MINVU antecedentes actualizados de la demanda habitacional y de habitabilidad existente en la región, permitiendo una mejor planificación y seguimiento del Programa. El sistema comprende el acompañamiento de las familias hasta su vinculación a alguna de las alternativas de solución previstas en el presente Programa, a través de una Entidad de Gestión Rural, en los casos que corresponda.
 
 El MINVU pondrá a disposición de todos los SERVIU del país una plataforma informática común, la que será utilizada como soporte del sistema a que se refiere el presente artículo.
 
@@ -796,7 +800,23 @@ De las Entidades de Gestión Rural
 
 Las labores de las Entidades de Gestión Rural en los Títulos I y II incluirán la preparación de los antecedentes de las familias y grupos para la postulación, su presentación al SERVIU y el desarrollo del proyecto de las familias que resulten seleccionadas.
 
-Excepcionalmente, cuando el cumplimiento de los objetivos de este Programa así lo requiera, el SEREMI podrá autorizar fundadamente al SERVIU, respectivo para actuar en esta calidad indistintamente en ambos títulos. La actuación del SERVIU como Entidad de Gestión Rural será regulada mediante resoluciones del Ministro de Vivienda y Urbanismo.
+El SERVIU podrá actuar como Entidad de Gestión Rural, previa autorización mediante resolución del Secretario Regional Ministerial de Vivienda y Urbanismo, a petición fundada del Director del SERVIU respectivo.
+
+En la resolución mencionada en el inciso precedente, y tratándose de proyectos que el SERVIU desarrolle en terrenos de su propiedad, el SEREMI dispondrá los mecanismos para determinar la nómina de familias que se incorporarán al proyecto a desarrollar, considerando convocatorias a familias individuales y grupos organizados, en la proporción que se establezca, utilizando para su priorización los siguientes criterios:
+
+a) ser titular de un subsidio habitacional sin aplicar;
+
+b) antigüedad de la inscripción en el Sistema de Información Territorial de la Demanda a que se refiere el Artículo 31. de este reglamento;
+
+c) los factores de puntaje indicados en el Artículo 43. de este reglamento;
+
+d) la condición de damnificado a causa de catástrofes naturales, o
+
+e) haber obtenido la calificación de grupo organizado hábil para la postulación a programas habitacionales sin haber obtenido el subsidio;
+
+f) casos de urgente necesidad habitacional, los que no podrán superar el 5% de las familias que participarán del desarrollo del proyecto.
+
+La actuación del SERVIU como Entidad de Gestión Rural, en relación a la prestación de los servicios de Asistencia Técnica, Jurídica y Social, será regulada mediante resoluciones del Ministerio de Vivienda y Urbanismo.
 
 #### Artículo 40
 
@@ -804,7 +824,7 @@ Del Convenio Marco
 
 Para operar en el presente Programa, las Entidades de Gestión Rural deberán suscribir previamente un Convenio Marco con la SEREMI MINVU correspondiente a la región en que desarrollará sus funciones, en el que se dejará constancia de las acciones, condiciones, compromisos y obligaciones que asumirán para la postulación, preparación, desarrollo y ejecución de los proyectos, según lo establecido en el presente reglamento, y de cualquier otra estipulación que se estime conveniente a los intereses de las partes. Junto con ello, se fijarán las condiciones para acceder al Sistema Informático como usuario y las responsabilidades, obligaciones y medidas que procedan sobre su uso y la veracidad de la información proporcionada.
 
-Excepcionalmente, si las condiciones fijadas en los llamados a procesos de selección así lo establecen, las cooperativas cerradas de vivienda, reguladas por el DFL Nº5, del Ministerio de Economía de 2003, que fija texto refundido, concordado y sistematizado de la Ley General de Cooperativas, serán Consideradas como grupo organizado para los efectos de la postulación al presente programa, pudiendo además actuar como Entidad de Gestión Rural para gestionar su proyecto habitacional. En este caso, independiente del título, al cual postule, la cooperativa suscribirá un Convenio con el SERVIU para actuar como Entidad Patrocinante en el proyecto, en el que quedarán establecidas las obligaciones de las partes, sin que sea necesario suscribir el Convenio Marco a que se refiere el inciso primero. La cooperativa deberá contratar la realización de las labores correspondientes a la Asistencia Técnica, Jurídica y Social con profesionales competentes inscritos en el Registro Nacional de Consultores regulado por el DS Nº 135 (V. y U.), de 1978, en los rubros, especialidades y categorías que corresponda.
+Excepcionalmente, si las condiciones fijadas en los llamados a procesos de selección así lo establecen, las cooperativas cerradas de vivienda, reguladas por el DFL Nº5, del Ministerio de Economía de 2003, que fija texto refundido, concordado y sistematizado de la Ley General de Cooperativas, serán Consideradas como grupo organizado para los efectos de la postulación al presente programa, pudiendo además actuar como Entidad de Gestión Rural para gestionar su proyecto habitacional. En este caso, independiente del título, al cual postule, la cooperativa suscribirá un Convenio con el SERVIU para actuar como Entidad de Gestión Rural en el proyecto, en el que quedarán establecidas las obligaciones de las partes, sin que sea necesario suscribir el Convenio Marco a que se refiere el inciso primero. La cooperativa deberá contratar la realización de las labores correspondientes a la Asistencia Técnica, Jurídica y Social con profesionales competentes inscritos en el Registro Nacional de Consultores regulado por el DS Nº 135 (V. y U.), de 1978, en los rubros, especialidades y categorías que corresponda.
 
 Los SERVIU, a través de un procedimiento establecido e informado oportunamente por el Ministerio de Vivienda y Urbanismo, deberán evaluar la prestación de servicios de asistencia técnica que desarrollen las Entidades de Gestión Rural al amparo de este Programa, con el fin de aportar antecedentes a la respectiva SEREMI MINVU que le permita decidir fundadamente la continuidad del convenio marco respectivo.
 
@@ -832,7 +852,7 @@ La selección de postulantes para la asignación del subsidio se realizará conf
 
 La determinación del puntaje individual se efectuará sumando cada uno de los factores obtenidos por el postulante. En el caso de postulación colectiva, se sumarán los puntajes individuales que obtenga cada uno de los postulantes del grupo conforme al artículo siguiente y se dividirá por el número total de familias integrantes de éste. El resultado que se obtenga será el puntaje del grupo de postulantes que integra el expediente. Si los recursos asignados en el llamado respectivo no son suficientes para completar el monto total de subsidio solicitado por la iniciativa del grupo postulante alcanzado por el puntaje de corte, tanto ese grupo como los que le siguen en el orden de prelación, serán excluidos de la selección.
 
-En caso de empate, si los recursos no alcanzan para atender a todos los que se encuentren en tal situación, se dará prioridad a los grupos que tengan mayor puntaje por Tenencia de Vivienda, luego a quienes tengan un mayor puntaje en el factor de Hacinamiento y finalmente mayor puntaje en el factor de Solución Sanitaria, según corresponda y en caso de mantenerse el empate, se dirimirá por sorteo.
+En caso de empate, si los recursos no alcanzan para atender a todos los que se encuentren en tal situación, se dará prioridad a los grupos que tengan mayor puntaje en el factor Núcleo Familiar, luego a quienes tengan un mayor puntaje en el factor de Hacinamiento, luego a quienes tengan un mayor puntaje en el factor de Tipo de Vivienda y, finalmente, mayor puntaje en el factor Antigüedad de la postulación, según corresponda, y en caso de mantenerse el empate, se dirimirá por sorteo.
 
 #### Artículo 43
 
@@ -840,79 +860,109 @@ Factores de Puntaje
 
 Los factores para determinar el puntaje que definirá la prelación entre los postulantes, serán los siguientes:
 
-a) Vulnerabilidad Habitacional
+a) Núcleo Familiar:
 
-Se considerará como Puntaje de Vulnerabilidad Habitacional (PtjeVH) aquél que resulte de la siguiente ecuación:
+50 puntos por cada uno de los integrantes del grupo familiar señalado en la Declaración de Núcleo Familiar, incluido el conviviente civil o el conviviente, de ser el caso, exceptuando al postulante. El postulante unipersonal no obtendrá puntaje por este concepto.
 
-.
+40 puntos adicionales por cada menor de hasta 5 años de edad, incluido en la Declaración de Núcleo, al 31 de diciembre del año calendario del llamado.
 
-b) Núcleo Familiar:
-
-50 puntos por cada uno de los integrantes del grupo familiar señalado en la Declaración de Núcleo Familiar, incluido el conviviente, de ser el caso, exceptuando al postulante. El postulante unipersonal no obtendrá puntaje por este concepto.
-
-100 puntos adicionales, si el postulante es madre o padre soltero, divorciado o viudo que tenga a su cargo hijos de hasta 24 años, incluidos los que cumplan 25 en el año calendario del llamado, que vivan con él y a sus expensas, lo que se deberá acreditar con una declaración jurada simple. No se otorgará este puntaje en caso que en el Instrumento de Caracterización Social se identifique al postulante con cónyuge o conviviente.
-
-30 puntos adicionales por cada menor de hasta 5 años de edad incluido en la Declaración de Núcleo, comprendidos los que cumplan 5 años durante el año calendario del llamado.
-
-20 puntos adicionales por cada menor entre 6 y hasta 18 años de edad, integrantes del núcleo familiar identificado en la Declaración de Núcleo, incluidos los que cumplan 6 y 18 años durante el año calendario del llamado.
-
-100 puntos adicionales por cada miembro del núcleo familiar declarado que estuviere inscrito en el Registro Nacional de la Discapacidad.
+50 puntos adicionales por cada menor entre 6 y hasta 18 años de edad, integrantes del núcleo familiar identificado en la Declaración de Núcleo, al 31 de diciembre del año calendario del llamado.
 
 100 puntos adicionales por cada miembro integrante del Núcleo Familiar declarado que tuviese 60 o más años de edad, considerando los que cumplen 60 años durante el año calendario del llamado.
 
-100 puntos si el postulante o su cónyuge invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura.
-
-40 puntos adicionales por cada integrante del núcleo familiar que acredite ser voluntario activo del Cuerpo de Bomberos y que se encuentre inscrito en el Registro Nacional de Bomberos Voluntarios a cargo de la Junta Nacional de Cuerpo de Bomberos de Chile.
+40 puntos adicionales por cada integrante del núcleo familiar que acredite ser voluntario activo del Cuerpo de Bomberos y que se encuentre inscrito en el Registro Nacional de Bomberos Voluntarios a cargo de la Junta Nacional del Cuerpo de Bomberos de Chile.
 
 20 puntos por cada integrante del núcleo familiar que haya cumplido efectivamente con su Servicio Militar en modalidad de Conscripción Ordinaria y Valer Militar, y que ha quedado en condición de Acuartelado en el Proceso de Selección de Contingente a partir del año 2004.
+
+40 puntos adicionales si el postulante o su cónyuge, o conviviente civil, pertenece a las Plantas de Suboficiales y Gendarmes, o de Profesionales funcionarios, de Profesionales, de Técnicos, de Administrativos y de Auxiliares, de Gendarmería de Chile, cuyas funciones permanentes se desarrollen al interior de recintos penitenciarios, certificada esta situación por Gendarmería de Chile, y que tengan domicilio en la región de preferencia que manifiesten al postular, o donde se emplace el proyecto, en cuyo caso el domicilio corresponderá al registrado en el certificado a que se refiere la letra i) del artículo 23. Este puntaje será incompatible con el de cumplimiento de Servicio Militar.
+
+Para el puntaje final de este factor, se sumarán los puntos mencionados anteriormente, no pudiendo este puntaje ser mayor a 600 puntos.
+
+b) Vulnerabilidad Habitacional
+
+Se considerará como Puntaje de Vulnerabilidad Habitacional aquel que resulte de la suma de los siguientes ítems:
+
+i. Hacinamiento
+
+Se otorgará el siguiente puntaje de acuerdo al índice de hacinamiento del núcleo familiar al que pertenece el postulante:
+
+.
+
+El índice de hacinamiento corresponderá al cociente entre el número de personas y el número de habitaciones usadas como dormitorio, calculado en base a los antecedentes consignados en el Instrumento de Caracterización Socioeconómica vigente del hogar del cual forma parte el núcleo familiar del postulante.
+
+Si el proyecto del postulante incluye la intervención correspondiente a Construcción de Dormitorio a que se refiere el numeral iii. de la letra b) del artículo 4, y registra un índice de hacinamiento mayor o igual a 2,5, recibirá 100 puntos adicionales en este ítem.
+
+ii. Tipo de vivienda
+
+Se otorgará el siguiente puntaje de acuerdo a la variable Tipo de Vivienda consignada en el Instrumento de Caracterización Socioeconómica vigente del hogar del cual forma parte el núcleo familiar del postulante, complementada con la variable Materialidad de Pisos en el primer indicador:
+
+.
+
+Si el proyecto del postulante incluye alguna de las intervenciones correspondientes a Mejoramiento de la Vivienda a que se refiere el numeral i. de la letra a) del artículo 4., recibirá 100 puntos adicionales en este ítem.
+
+iii. Distribución de agua
+
+Se otorgará el siguiente puntaje de acuerdo a la variable Distribución de Agua consignada en el Instrumento de Caracterización Socioeconómica vigente del hogar del cual forma parte el núcleo familiar del postulante:
+
+.
+
+Si el proyecto del postulante incluye alguna de las intervenciones correspondientes a Mejoramiento de Servicios Básicos y/u Obras de Eficiencia Energética e Hídrica a que se refieren los numerales ii. y iv. de la letra a) del artículo 4, recibirá 50 puntos adicionales en este ítem.
+
+iv. Sistema de baño
+
+Se otorgará el siguiente puntaje de acuerdo a la variable Sistema de Baño, consignada en el Registro Social de Hogares del Ministerio de Desarrollo Social, del hogar del cual forma parte el núcleo familiar del postulante:
+
+.
+
+Si el proyecto del postulante incluye alguna de las intervenciones correspondientes a Mejoramiento de Servicios Básicos y/u Obras de Eficiencia Energética e Hídrica a que se refieren los numerales ii. y iv. de la letra a) del artículo 4, recibirá 50 puntos adicionales en este ítem.
 
 c) Antigüedad de la postulación
 
 i. Individual
 
-20 puntos por cada postulación en que no haya sido seleccionado, con un máximo de 60 puntos, en llamados a concurso regulados por el presente reglamento u otros llamados a postulación habitacional efectuados por el MINVU, destinados a la obtención de una vivienda.
+40 puntos por cada postulación en que no haya sido seleccionado, con un máximo de 160 puntos, en llamados a concurso regulados por el presente reglamento u otros llamados a postulación habitacional destinados a la obtención de una vivienda, efectuados por el MINVU o SEREMI respectiva en su caso.
 
 ii. Colectiva:
 
-20 puntos por cada postulación de cada integrante del Comité postulante en que no haya sido seleccionado, en llamados a concurso regulados por el presente reglamento u otros llamados a postulación habitacional efectuados por el MINVU, destinados a la obtención de una vivienda, con un máximo de 120 puntos.
+80 puntos por cada postulación de cada integrante del grupo postulante en que no haya sido seleccionado, en llamados a concurso regulados por el presente reglamento u otros llamados a postulación habitacional destinados a la obtención de una vivienda, efectuados por el MINVU o SEREMI respectiva en su caso, con un máximo de 160 puntos por postulante.
 
 d) Antigüedad y permanencia del ahorro
 
-5 puntos por cada mes de antigüedad del instrumento para mantener y acreditar el ahorro, contados desde el mes de apertura del citado instrumento hasta el mes de inicio del proceso de selección, con un máximo de 90 puntos.
+1 punto por cada mes de antigüedad del instrumento para mantener y acreditar el ahorro, contados desde el mes de apertura del citado instrumento hasta el mes de inicio del proceso de selección, con un máximo de 40 puntos.
 
-20 puntos si el promedio del saldo medio mensual del semestre previo al ingreso de los antecedentes de la postulación, es igual o superior al 12,5% del saldo acreditado en dicho momento.
+e) Condiciones especiales de vulnerabilidad
 
-e) Factor corrector por quintil de caracterización social
+300 puntos adicionales por cada miembro del núcleo familiar declarado que estuviere inscrito en el Registro Nacional de la Discapacidad. Adicionalmente, en esta situación el núcleo familiar postulante recibirá una bonificación del 50% de la sumatoria de los puntajes obtenidos en los factores señalados en las letras a), b), c) y d) precedentes.
 
-De acuerdo al quintil de caracterización social al que pertenezca el postulante, definido por el Ministerio de Desarrollo Social o su sucesor legal; los puntajes obtenidos en los literales a), b), c) y d) del presente artículo serán ajustados por un factor multiplicador conforme el siguiente cuadro:
+600 puntos si el postulante o su cónyuge o conviviente civil invoca su condición de persona reconocida como víctima en el informe de la Comisión Nacional sobre Prisión Política y Tortura, o por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura. Adicionalmente, el núcleo familiar postulante recibirá una bonificación del 50% de la sumatoria de los puntajes obtenidos en los factores señalados en las letras a), b), c) y d) precedentes.
 
-.
+150 puntos adicionales, si el postulante es madre o padre soltero, divorciado o viudo que tenga a su cargo hijos de hasta 24 años, incluidos los que cumplan 25 en el año calendario del llamado, que vivan con él y a sus expensas, lo que se deberá acreditar con una declaración jurada simple. No se otorgará este puntaje si en el Instrumento de Caracterización Socioeconómica vigente, se identifique al postulante con cónyuge, conviviente civil o conviviente.
 
-f) A los Proyectos de Asociación territorial, postulados al Título I del presente Programa, además de los factores de puntaje ya señalados, les serán aplicables los siguientes, los que serán evaluados por la Comisión Técnico Evaluadora:
+50 puntos adicionales si el postulante tuviese 60 o más años de edad, considerando los que cumplen 60 años durante el año calendario del llamado, y se encuentre dentro del 40% más vulnerable de la población según el Instrumento de Caracterización Socioeconómica vigente.
+
+30% de la sumatoria de los puntajes obtenidos en los factores señalados en las letras a), b), c) y d) precedentes, como bonificación adicional a los postulantes que estén comprendidos dentro del 40% más vulnerable de la población según el Instrumento de Caracterización Socioeconómica vigente.
+
+f) A los Proyectos de Asociación Territorial, postulados al Título I del presente Programa, además de los factores de puntaje ya señalados, les serán aplicables los siguientes, los que serán evaluados por la Comisión Técnico Evaluadora:
 
 i. Diagnóstico del Proyecto de Asociación Territorial
 
-La Comisión Técnica Evaluadora deberá verificar la coherencia entre el Proyecto de Asociación Territorial presentado y las características del déficit de habitabilidad del postulante. Para esto, se deberá evaluar en qué medida la solución propuesta responde al Diagnóstico Técnico y Social del Expediente de Postulación presentado por la entidad de Gestión Rural y a los factores de déficit de habitabilidad que justificaron el ingreso del postulante, según lo establecido en el cuadro inserto en el artículo 1 del presente programa.
+La Comisión Técnica Evaluadora deberá verificar la coherencia entre el Proyecto de Asociación Territorial presentado y las características del déficit de habitabilidad del postulante. Para esto, se deberá evaluar en qué medida la solución propuesta responde al Diagnóstico Técnico y Social del Expediente de Postulación presentado por la Entidad de Gestión Rural y a los factores de déficit de habitabilidad que justificaron el ingreso del postulante, según lo establecido en el cuadro inserto en el artículo 1. del presente programa.
 
 De acuerdo a lo anterior, la Comisión Técnica Evaluadora otorgará:
 
-80 puntos por cada postulante, si el Proyecto de Asociación Territorial presenta soluciones apropiadas a las condiciones que justifican el déficit de habitabilidad de a lo menos de un 80% de las familias postulantes.
+80 puntos por cada postulante, si el Proyecto de Asociación Territorial presenta soluciones apropiadas a las condiciones que justifican el déficit de habitabilidad de a lo menos un 80% de las familias postulantes.
 
-40 puntos por cada postulante, si el Proyecto de Asociación Territorial presenta soluciones apropiadas a las condiciones que justifican el déficit de habitabilidad de a lo menos de un 40% de las familias postulantes.
+40 puntos por cada postulante, si el Proyecto de Asociación Territorial presenta soluciones apropiadas a las condiciones que justifican el déficit de habitabilidad de a lo menos un 40% de las familias postulantes.
 
 ii. Aislamiento
 
-De acuerdo a la categoría de aislamiento de la localidad o comuna señalada en el inciso segundo del artículo 9 del presente reglamento, se otorgará:
+De acuerdo al grado de aislamiento de la localidad o comuna señalada en el inciso segundo del artículo 9. del presente reglamento, se otorgará:
 
-80 puntos adicionales por cada postulante cuyo proyecto se emplace en comunas o localidades con factor de aislamiento crítico.
+80 puntos adicionales por cada postulante cuyo proyecto se emplace en comunas o localidades con grado de aislamiento Muy Crítico o Crítico.
 
-60 puntos adicionales por cada postulante cuyo proyecto se emplace en comunas o localidades con factor de aislamiento Alto.
+60 puntos adicionales por cada postulante cuyo proyecto se emplace en comunas o localidades con grado de aislamiento Muy Alto o Alto.
 
-40 puntos adicionales por cada postulante cuyo proyecto se emplace en comunas o localidades con factor de aislamiento Medio.
-
-Mediante resolución fundada del Ministro de Vivienda y Urbanismo se determinará el nivel de aislamiento para las distintas comunas y/o localidades del país, con el objeto de asignar el puntaje a que se refiere el presente literal.
-
-iii. Intersectorialidad
+iii. lntersectorialidad
 
 40 puntos adicionales por cada postulante cuyo proyecto incorpore aportes adicionales a su financiamiento, provenientes de otros organismos públicos, que representen a lo menos el 20% del monto de el o los subsidios base, sin factor de corrección, que le sean aplicables según la o las tipologías y/o clases de proyectos postulados, acreditado al momento de ingreso del expediente en la forma indicada en la letra m) del artículo 52.
 
@@ -962,7 +1012,7 @@ f) Título, modalidad de postulación, tipología y/o clase de proyecto.
 
 El período de vigencia de los certificados de subsidio será de 21 meses, contados desde la fecha de su emisión, consignada en el respectivo Certificado.
 
-Si un certificado de subsidio fuere objeto de pérdida por cualquier causal, la Entidad de Gestión Rural deberá dar aviso al SERVIU respectivo tan pronto tenga conocimiento del hecho, entregando una Declaración Jurada que dé cuenta de ello, requiriendo que se deje sin efecto el certificado original y el otorgamiento de otro nuevo a su favor. El SERVIU verificará que no se haya hecho uso del documento y extenderá un nuevo certificado, si corresponde, en el que se señalará expresamente que se trata de un certificado de reemplazo y que se deja sin efecto el certificado original.
+Si un certificado de subsidio fuere objeto de pérdida por cualquier causal, la Entidad de Gestión Rural deberá dar aviso al SERVIU respectivo tan pronto tenga conocimiento del hecho, entregando una Declaración Jurada que dé cuenta de ello, requiriendo que se deje sin efecto el certificado original y el otorgamiento de otro nuevo a favor del beneficiario. El SERVIU verificará que no se haya hecho uso del documento y extenderá un nuevo certificado, si corresponde, en el que se señalará expresamente que se trata de un certificado de reemplazo y que se deja sin efecto el certificado original.
 
 Capítulo V: Del Estándar Técnico de los Proyectos, su Desarrollo y Presentación
 
@@ -1074,7 +1124,7 @@ d) Plano de loteo del proyecto aprobado por la DOM correspondiente, en su caso, 
 
 e) Permiso de loteo con construcción simultánea o de anteproyecto de loteo, en su caso.
 
-f) Resolución de la Secretaría Regional Ministerial de Agricultura que autoriza la subdivisión y urbanización del predio rural e informe favorable de la SEREMI MINVU, donde se estipulen las condiciones de urbanización, y de la Dirección de Obras Municipales y del Servicio Agrícola y Ganadero, cuando corresponda, conforme a lo establecido en los incisos tercero y cuarto del artículo 55 de la Ley General de Urbanismo y Construcciones, según corresponda.
+f) Resolución de la Secretaría Regional Ministerial de Agricultura que autoriza la subdivisión y urbanización del predio rural e informe favorable de la SEREMI MINVU, donde se estipulen las condiciones de urbanización, y de la Dirección de Obras Municipales y del Servicio Agrícola y Ganadero, cuando corresponda, conforme a lo establecido en los incisos tercero y cuarto del artículo 55 de la Ley General de Urbanismo y Construcciones.
 
 g) Planos de los proyectos de urbanización: de pavimentación, aguas lluvia, agua potable, alcantarillado, áreas verdes u otros, con la firma del profesional competente.
 
@@ -1090,7 +1140,7 @@ l) Documento que acredite la aprobación del crédito hipotecario por una entida
 
 m) Documento que acredite los aportes adicionales que contemple el financiamiento del proyecto, en caso que existiesen.
 
-n) Si se trata de un proyecto del Título II, se deberá acompañar Contrato de construcción suscrito entre la Entidad de Gestión Rural, la empresa constructora o contratista, el o los postulantes o los representantes del grupo, en su caso, en los términos señalados en el artículo 54 del presente reglamento.
+n) Si se trata de un proyecto del Título II, se deberá acompañar Contrato de construcción suscrito entre la Entidad de Gestión Rural, la empresa constructora o contratista, el o los postulantes o los representantes del grupo, en su caso, en los términos señalados en el artículo 54 del presente reglamento salvo tratándose de Entidades de Gestión Rural que de acuerdo a la normativa que las rige requieran llamar a licitación.
 
 o) El antecedente señalado en la letra n) precedente no se requerirá en caso de ejecución bajo la modalidad dé Autoconstrucción Asistida, en la que deberá presentarse una declaración de autoconstrucción en formato proporcionado por el SERVIU.
 
@@ -1157,6 +1207,8 @@ l) En el transcurso de los 2 meses posteriores a la entrega material de las vivi
 m) Verificar la ocupación efectiva de las viviendas entregadas, al final del periodo de postventa, entregando informe al SERVIU respecto del resultado de esta actividad.
 
 Los pagos que el SERVIU deba efectuar por las actividades, trámites y gestiones que corresponda realizar con motivo de la Asistencia Técnica, Jurídica y Social, los derechos y obligaciones de las partes, los hitos de pago y las condiciones de contratación mínimas serán regulados por resolución del Ministro de Vivienda y Urbanismo, estando prohibido formular cobro alguno a los postulantes por las referidas actividades, trámites y gestiones. No obstante lo anterior, la Entidad de Gestión Rural podrá solicitar a los postulantes provisiones de fondos a rendir, para financiar el pago de derechos y aranceles que no estén considerados en el financiamiento del proyecto de habitabilidad, debiendo rendir cuenta documentada a los postulantes de la utilización de estos fondos y acompañar copia de esta rendición, con constancia de su aprobación por los postulantes o por el o los representantes del grupo organizado, en su caso, al formular el cobro de sus honorarios al SERVIU.
+
+La resolución a que alude el inciso anterior regulará además los honorarios por la prestación de servicios de asistencia técnica, para la supervisión de la operación de sistemas particulares colectivos de tratamiento y disposición de aguas servidas, y de captación, potabilización y distribución de agua potable, por un plazo máximo de 1 año contado desde la entrega de las viviendas a las familias, cuyos términos y condiciones de aplicación se señalarán en la misma.
 
 Capítulo VI: Contrato y Ejecución de obras
 
@@ -1260,13 +1312,13 @@ En caso que el beneficiario individual renuncie al subsidio, no lo utilice duran
 
 Desde que los grupos sean seleccionados colectivamente con este Programa y hasta antes del pago del subsidio, sus miembros podrán renunciar al proyecto o ser excluidos, permitiéndose reemplazar hasta el 20% del número total de integrantes del grupo, debiendo quien se desiste hacer devolución al SERVIU del respectivo Certificado de Subsidio, acompañando carta de renuncia firmada y/o, en su caso, copia autorizada de un Acta del grupo en que conste la exclusión, la que deberá ser adoptada conforme a los procedimientos que les sean aplicables. En casos calificados, a petición del Director del SERVIU, mediante resoluciones fundadas el SEREMI podrá autorizar que el reemplazo de postulantes exceda dicho porcentaje. Los proyectos colectivos de las tipologías de Construcción de Conjuntos Habitacionales y los de Mejoramiento y/o Construcción de Entorno y Equipamiento Comunitario, no podrán aceptar renuncias ni exclusiones sin reemplazo.
 
-En los casos de reemplazo señalados en el inciso anterior, la Entidad de Gestión Rural deberá gestionar por escrito ante el SERVIU que dichas personas sean reemplazadas por otras que cumplan con todos los requisitos para ser postulante. El Déficit de Habitabilidad del reemplazante deberá ser igual o superior al del reemplazado al momento de postular, según la tabla inserta en el artículo 1 del presente reglamento y deberá postular como máximo a las mismas tipologías y/o clases de proyecto postuladas por el beneficiario reemplazado. El ahorro deberá estar cumplido por el reemplazante al momento de su ingreso al Sistema Informático de Postulación de la solicitud de reemplazo, de acuerdo a los artículos 11 y siguientes del presente reglamento.
+En los casos de reemplazo señalados en el inciso anterior, la Entidad de Gestión Rural deberá gestionar por escrito ante el SERVIU que dichas personas sean reemplazadas por otras que cumplan con todos los requisitos para ser postulante. El Déficit de Habitabilidad del reemplazante deberá ser igual o superior al del reemplazado al momento de postular, según la tabla inserta en el artículo 1 del presente reglamento y deberá postular como máximo a las mismas tipologías y/o clases de proyecto postuladas por el beneficiario reemplazado. El ahorro deberá estar cumplido por el reemplazante al momento del ingreso al Sistema Informático de Postulación de la solicitud de reemplazo, de acuerdo a los artículos 11 y siguientes del presente reglamento.
 
 Los beneficios asignados en postulaciones colectivas se considerarán obtenidos por el grupo en su conjunto, de acuerdo a sus características evaluadas en el momento del proceso de selección, por lo que, aun cuando el subsidio es otorgado a cada beneficiario, la renuncia a un determinado proyecto o la exclusión del grupo, significa que ese beneficiario pierde el derecho a aplicar dicho subsidio, debiendo ser reemplazado en el grupo original para efectos del debido financiamiento del proyecto postulado. La exclusión de un postulante o beneficiario de un grupo sólo operará cuando dicho grupo esté constituido como persona jurídica y se realice conforme a sus estatutos vigentes.
 
 Tratándose de reemplazos de familias de grupos postulantes que no han obtenido beneficio, el reemplazante deberá cumplir con todos los requisitos que exige el presente reglamento para ser postulante. El reemplazante deberá acreditar haber enterado el ahorro, al ingreso al Sistema Informático de Postulación de la solicitud de reemplazo, de acuerdo a los artículos 11 y siguientes del presente reglamento.
 
-Los beneficiarios fallecidos podrán ser igualmente reemplazados en caso que no sea aplicable el procedimiento de sustitución señalado en el artículo 60 de este reglamento.
+Los beneficiarios fallecidos podrán ser igualmente reemplazados en caso que no sea aplicable el procedimiento de sustitución señalado en el artículo 61 de este reglamento.
 
 #### Artículo 61
 
@@ -1430,7 +1482,7 @@ No obstante lo anterior, tratándose de terrenos a adquirir a terceros, el preci
 
 #### Artículo 71
 
-Pago de anticipos para la ejecución de obras de construcción
+Anticipos para el pago del permiso de edificación y la ejecución de obras de construcción
 
 Tratándose de proyectos relacionados con postulaciones colectivas y operaciones individuales de construcción en sitio del residente, que reúnan los requisitos para iniciar obras, si las disponibilidades de caja lo permiten, el contratista podrá solicitar anticipos a cuenta del pago del subsidio, destinados a financiar la ejecución física de las obras.
 
@@ -1457,6 +1509,8 @@ El monto total de los anticipos que podrá girar el SERVIU durante el desarrollo
 a) El valor del avance físico de obras correspondiente a partidas terminadas, calculado de acuerdo al presupuesto aprobado por el SERVIU, acreditado mediante informe emitido por el Fiscalizador Técnico de Obras que señale el valor equivalente al porcentaje de avance de las obras ejecutadas a conformidad, deducidos el ahorro, aportes adicionales si existiesen y créditos hipotecarios, si corresponde, todo ello expresado en su equivalente en Unidades de Fomento, y
 
 b) El monto total de las garantías entregadas al SERVIU para caucionar los giros anticipados, que se encuentren vigentes y que hayan sido extendidas de acuerdo al artículo 73 de este reglamento.
+
+Tratándose de proyectos en que el valor del permiso de edificación se encuentre incluido en el presupuesto, el SERVIU podrá otorgar anticipos a cuenta del subsidio para su financiamiento, luego de emitida la resolución que aprueba el proyecto, indicada en el inciso cuarto del Artículo 53. de este reglamento, en cuyo caso entre los antecedentes del proyecto se presentará la orden de ingreso o documento emitido por el municipio, para el pago del permiso de edificación. Este giro no se considerará parte del primer anticipo a que se refiere el inciso quinto de este artículo.
 
 #### Artículo 72
 
@@ -1488,7 +1542,7 @@ En lugar de la boleta bancaria de garantía a que se refiere este artículo, el 
 
 Pago de la Autoconstrucción Asistida.
 
-En la alternativa de Autoconstrucción Asistida, el subsidio se aplicará mediante una tarjeta, u otro instrumento afín, personal e intransferible, que el SERVIU emitirá una vez aprobado el proyecto, a nombre del beneficiario, grupo de beneficiarios o de sus representantes legales tratándose de proyectos de Construcción de Conjuntos Habitacionales, la que en estos casos será administrada por la Entidad de Gestión Rural. Ésta podrá utilizarse en establecimientos comerciales adheridos a esta modalidad, para la adquisición de los insumos a utilizar en la construcción de la vivienda. La Entidad de Gestión Rural deberá rendir cuenta de la utilización de los recursos cargados en la tarjeta, en la forma en que se señale en la resolución a que se refiere el inciso final del artículo 54, en la misma se establecerá el porcentaje de los honorarios que corresponda percibir a la Entidad de Gestión Rural por sus servicios, cuyo pago quedará condicionado a la aprobación de esta rendición.
+En la alternativa de Autoconstrucción Asistida, el subsidio se aplicará mediante una tarjeta, u otro instrumento afín, personal e intransferible, que el SERVIU emitirá, descontado el monto que se hubiere anticipado con ocasión de lo dispuesto en el inciso final del artículo 71, una vez aprobado el proyecto, a nombre del beneficiario, grupo de beneficiarios o de sus representantes legales tratándose de proyectos de Construcción de Conjuntos Habitacionales, la que en estos casos será administrada por la Entidad de Gestión Rural. Ésta podrá utilizarse en establecimientos comerciales adheridos a esta modalidad, para la adquisición de los insumos a utilizar en la construcción de la vivienda. La Entidad de Gestión Rural deberá rendir cuenta de la utilización de los recursos cargados en la tarjeta, en la forma en que se señale en la resolución a que se refiere el inciso final del artículo 54, en la misma se establecerá el porcentaje de los honorarios que corresponda percibir a la Entidad de Gestión Rural por sus servicios, cuyo pago quedará condicionado a la aprobación de esta rendición.
 
 El SERVIU entregará la tarjeta o el instrumento afín, que permita la adquisición de insumos a utilizar para la ejecución del proyecto, los que deberán ser adquiridos en comercios que hayan sido habilitados por el Ministerio de Vivienda y Urbanismo para el registro de dichas compras, quienes a su vez, solicitarán el pago al SERVIU respectivo de los materiales entregados al beneficiario. Mediante resoluciones fundadas el Ministro de Vivienda y Urbanismo establecerá las condiciones para ingresar al sistema de proveedores de autoconstrucción asistida, pudiendo limitar los montos de adquisición de materiales en atención al cumplimiento de hitos de avance físico de la obra. Asimismo, podrá regularse la operación de la contratación de insumos y servicios a los que hace referencia el siguiente inciso.
 
@@ -1504,7 +1558,7 @@ transitorio. Las familias que a la fecha de la publicación del presente decreto
 
 - Hayan sido beneficiadas colectivamente en el marco del DS Nº 49 (V. y U.), de 2011, y sus modificaciones, o por el DS Nº 1 (V. y U.), de 2011, y sus modificaciones, y que a la fecha de la publicación del presente decreto en el Diario Oficial, no cuenten con un proyecto asociado, o
 
-- Hayan sido beneficiadas individualmente con un subsidio para la adquisición o construcción de una vivienda tanto del DS Nº 49 (V. y U.), de 2011, como del DS Nº 1 (V. y U.), de 2011, sin aplicar, o que no hayan iniciado obras, en cuyo caso, deberán adjuntar una declaración jurada que dé cuenta de aquello, o
+- Hayan sido beneficiadas individualmente con un subsidio para la adquisición o construcción de una vivienda del DS N° 49 (V. y U.), de 2011, o con un subsidio para la construcción de vivienda en sitio propio del DS N° 1 (V. y U.), de 2011, sin aplicar y que no hayan iniciado obras, en cuyo caso, deberán adjuntar una declaración jurada que dé cuenta de aquello, o
 
 - Las personas damnificadas beneficiadas con un subsidio sin aplicar en la modalidad de Construcción en Sitio del Residente, por Autoconstrucción o Vivienda Tipo en el marco del Plan de Reconstrucción del terremoto del 27 de febrero de 2010.
 
