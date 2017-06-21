@@ -40,6 +40,8 @@ La protección de la persona del Presidente de la República y de los Jefes de E
 
 La vigilancia policial de las fronteras que corresponde a Carabineros de Chile será ejercida en conformidad a las leyes y normas generales que regulan la materia.
 
+Corresponderá a la Institución prestar la cooperación necesaria en cumplimiento de tratados internacionales ratificados y vigentes en Chile, incluyendo el intercambio de datos personales. Esta cooperación se ajustará a la legislación nacional en la materia y en ningún caso implicará la entrega de bases de datos nacionales ni el acceso directo a ellas por parte de los órganos de un Estado extranjero o de los órganos de una organización internacional, observando siempre lo dispuesto en la ley N° 19.628, sobre Protección de la Vida Privada, particularmente en lo relativo a la protección de los titulares de datos.
+
 Asimismo, la Institución tendrá a su cargo, en la forma que determine la ley, la fiscalización y el control de las personas que desarrollen actividades de vigilancia privada.
 
 #### Artículo 4°

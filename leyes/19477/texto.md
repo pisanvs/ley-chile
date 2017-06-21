@@ -152,7 +152,7 @@ t) Crear o suprimir Oficinas y Suboficinas, cuando las necesidades de la comunid
 
 u) Otorgar apostillas en conformidad a lo establecido en la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros, en los documentos emanados del Servicio y, asimismo, autorizar a determinados funcionarios su otorgamiento, conforme a lo dispuesto en la letra k) de este artículo, y
 
-v) Dictar las resoluciones y órdenes de servicio que fueren necesarias para el ejercicio de sus atribuciones.
+v) Dictar las resoluciones que fueren necesarias para el ejercicio de sus atribuciones.
 
 ### Párrafo 2°
 
