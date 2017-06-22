@@ -22,7 +22,7 @@ La asignación de subsidio se efectuará en forma mensual, con los inscritos al 
 
 Las nóminas de los seleccionados serán publicadas en el sitio web del Minvu, o del Serviu y/o de la Seremi de Vivienda y Urbanismo respectiva, y/o en los medios que el Minvu disponga al efecto, las que deberán contener a lo menos el número de cédula de identidad del beneficiario.
 
-La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será de 90.000 Unidades de Fomento.
+La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será de 166.470 Unidades de Fomento.
 
 Podrán inscribirse en este llamado especial los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, calificadas con "Daño Total" de acuerdo a la información contenida en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo o en el Catastro de Damnificados nominado por la resolución exenta N° 725, del Serviu Región de Valparaíso, de 2017, en adelante el Catastro, hubiesen estado o no residiendo en la vivienda siniestrada. No podrán inscribirse en este llamado, los damnificados que hubiesen sido arrendatarios de la vivienda siniestrada.
 
