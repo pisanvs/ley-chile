@@ -1,46 +1,28 @@
-APRUEBA CUADRO NORMATIVO Y TABLA DE ESPACIOS Y USOS MÍNIMOS PARA EL MOBILIARIO, PARA PROYECTOS DEL PROGRAMA FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, Y DEROGA RESOLUCIÓN N° 3.563 EXENTA (V. Y U.), DE 10 DE MAYO DE 2012
+MODIFICA RESOLUCIÓN N° 6.625 EXENTA (V. Y U.), DE FECHA 13 DE OCTUBRE DE 2016, QUE APRUEBA CUADRO NORMATIVO Y TABLA DE ESPACIOS Y USOS MÍNIMOS PARA EL MOBILIARIO, PARA PROYECTOS DEL PROGRAMA FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, DS N° 49 (V. Y U.), DE 2011
 
-Santiago, 13 de octubre de 2016.- Hoy se resolvió lo que sigue:
+Santiago, 16 de junio de 2017.- Hoy se resolvió lo que sigue:
 
-Núm. 6.625 exenta.
+Núm. 7.712 exenta.
 
 Visto:
 
 a) El DS N°49 (V. y U.) de 2011, y sus modificaciones, que reglamenta el Programa Habitacional Fondo Solidario de Elección de Vivienda, en especial lo previsto en sus artículos 14, 35, 43, 45, 46 y 47, contenidos en los Capítulos II, III y IV.
 
-b) La resolución exenta N° 3.563, de 10 de mayo de 2012, modificada por la resolución N° 9.013, de 8 de noviembre de 2012, ambas de Vivienda y Urbanismo, que aprobó el Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario, para proyectos del Programa Fondo Solidario de Elección de Vivienda.
+b) La resolución exenta N° 6.625, de fecha 13 de octubre de 2016, y sus modificaciones, que deroga la resolución exenta N° 3.563, de fecha 10 de mayo de 2012, modificada por la resolución exenta N° 9.013, de fecha 8 de noviembre de 2012, ambas de Vivienda y Urbanismo, que aprobó el Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario, para proyectos del Programa Fondo Solidario de Elección de Vivienda, DS N°49 (V. y U.), de 2011, y
 
 Considerando:
 
-La necesidad de precisar los requerimientos del estándar arquitectónico para el diseño de viviendas de los proyectos habitacionales del DS N°49 (V. y U.) de 2011, mediante el establecimiento de un Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario, dicto la siguiente:
+La necesidad de precisar los requerimientos del estándar arquitectónico para el diseño de viviendas de los proyectos Habitacionales del DS N°49 (V. y U.) de 2011, mediante el establecimiento de un Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario, dicto la siguiente:
 
 Resolución:
 
-1. Derógase, a contar del 30 de junio de 2017, la resolución exenta N° 3.563, de 10 de mayo de 2012, modificada por la resolución exenta N° 9.013, de 8 de noviembre de 2012, ambas de Vivienda y Urbanismo, que aprobó el Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario, para proyectos del Programa Fondo Solidario de Elección de Vivienda, DS N°49 (V. y U.) de 2011.
+1. Reemplázase, el "Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario", adjunto a la resolución exenta N° 6.625 (V. y U.), de fecha 13 de octubre de 2016, y sus modificaciones, de acuerdo a lo indicado en el resuelvo 2., por el documento adjunto a la presente resolución.
 
-2. Apruébase, a contar del 1 de julio de 2017, el "Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario", para Proyectos del Programa Fondo Solidario de Elección de Vivienda, instrumento que define un estándar arquitectónico que permite el diseño de las edificaciones en base a parámetros mínimos de calidad, habitabilidad, pertinencia y seguridad, que deben ser cumplidos por los proyectos habitacionales indicados en el Programa, el que se acompaña y se entenderá formar parte integrante de esta resolución.
-
-3. El "Cuadro Normativo y Tabla de Espacios y Usos Minimos para el Mobiliario" aprobado en el resuelvo anterior, regirá para el ingreso al Serviu de operaciones de la modalidad de Adquisición de Viviendas Construidas y para proyectos que ingresen al Banco de Postulaciones del Fondo Solidario de Elección de Vivienda a partir del 1 de julio de 2017. No obstante lo anterior, desde la publicación en el Diario oficial de la presente resolución y hasta el 30 de junio de 2017, las Entidades Patrocinantes podrán solicitar voluntariamente al ingresar un proyecto, o el beneficiario para una operación de Adquisición de Vivienda Construida Nueva, la aplicación de todas o algunas de sus disposiciones, según corresponda a cada modalidad.
-
-4. Una vez que se encuentre vigente el "Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario" que se aprueba por el presente acto, y previa autorización de la Seremi, a solicitud del Serviu y de las familias, se podrán utilizar soluciones que atiendan condiciones especiales, de acuerdo a particularidades geográficas y culturales presentes en la localidad donde se emplace un proyecto, siempre que dichas adecuaciones mejoren la calidad de las viviendas, resguarden su superficie mínima y que el costo se adecue a los montos establecido en el Programa Habitacional para la zona. La Seremi podrá autorizar las soluciones propuestas siempre que con ellas no se disminuya el estándar mínimo establecido en el "Cuadro Normativo y Tabla de Espacios y Usos Mínimos para el Mobiliario", no pudiendo en ningún caso fijarse condiciones que contravengan lo dispuesto en la Ordenanza General de Urbanismo y Construcciones, y en general, en la normas constructivas y urbanísticas vigentes.
-
-La solicitud de autorización formulada por el Serviu a la Seremi respectiva, debe contener como mínimo lo siguiente:
-
-a) Un informe con V°B° de Serviu, que justifique las modificaciones propuestas.
-
-b) El proyecto, identificando claramente las modificaciones propuestas.
-
-c) Los antecedentes complementarios a las modificaciones, como especificaciones y costos.
-
-d) Presupuesto del proyecto.
-
-e) Aprobación de las familias.
-
-Obtenida la autorización de la Seremi, el Serviu dictará el acto administrativo que apruebe la solución particular del proyecto.
+2. Establécese que la resolución exenta N° 6.625 (V. y U.), de fecha 13 de octubre 2016, se mantendrá vigente en todo aquello que no ha sido modificado por la presente resolución exenta.
 
 Anótese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
-Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
+Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.
 
 CUADRO NORMATIVO Y TABLA DE ESPACIOS Y USOS MÍNIMOS PARA EL MOBILIARIO Versión – 2017
 
