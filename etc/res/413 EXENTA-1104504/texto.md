@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCIÓN N° 413 EXENTA, DE 9 DE JUNIO DE 2017
+
+Con fecha 9 de junio de 2017, la Superintendencia de Educación dicta resolución exenta Nº 413, que "Aprueba instrucciones que reglamentan la potestad interpretativa de la Superintendencia de Educación", la cual aprueba lo contenido en el Ordinario Nº 504, de fecha 24 de julio de 2014, que fija su potestad interpretativa, en virtud de lo dispuesto en el artículo 49 letra m) de la ley Nº 20.529, de 2011, sobre el Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media y su Fiscalización. Dicha resolución estará disponible para la comunidad en la página web institucional www.supereduc.cl.
