@@ -1,40 +1,28 @@
-APRUEBA ITEMIZADO TÉCNICO DE CONSTRUCCIÓN PARA PROYECTOS DEL PROGRAMA FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA Y DEROGA RESOLUCIÓN Nº 9.020 EXENTA (V. Y U.), DE 9 DE NOVIEMBRE DE 2012
+MODIFICA LA RESOLUCIÓN Nº 6.624 EXENTA (V. Y U.), DE FECHA 13 DE OCTUBRE DE 2016, QUE APRUEBA EL ITEMIZADO TÉCNICO DE CONSTRUCCIÓN PARA PROYECTOS DEL PROGRAMA FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, DS Nº 49 (V. Y U.), DE 2011
 
-Santiago, 13 de octubre de 2016.- Hoy se resolvió lo que sigue:
+Santiago, 16 de junio de 2017.- Hoy se resolvió lo que sigue:
 
-Núm. 6.624 exenta.
+Núm. 7.713 exenta.
 
 Visto:
 
-Lo dispuesto en los artículos 13 letra c) y 16 letra c), ambos del DL Nº 1.305, de 1975; lo previsto en el DFL Nº 458, de 1976, Ley General de Urbanismo y Construcciones y sus modificaciones, en especial en su artículo 25; la Ordenanza General de Urbanismo y Construcciones, aprobada por DS Nº 47 (V. y U.), de 1992 y sus modificaciones; y el DS Nº 49 (V. y U.), de 2011, y sus modificaciones, que reglamenta el Programa Fondo Solidario de Elección de Vivienda; la resolución exenta Nº 9.020 (V. y U.), de 9 de noviembre de 2012, que aprobó el Itemizado Técnico de Construcción para Proyectos del Programa Fondo Solidario de Elección de Vivienda, y
+Lo dispuesto en los artículos 13 letra c) y 16 letra c), ambos del DL Nº 1.305, de 1975; lo previsto en el DFL Nº 458, de 1976, Ley General de Urbanismo y Construcciones y sus modificaciones, en especial en su artículo 25; la Ordenanza General de Urbanismo y Construcciones, aprobada por DS Nº 47 (V. y U.), de 1992 y sus modificaciones; y el DS Nº 49 (V. y U.), de 2011, y sus modificaciones, que reglamenta el Programa Fondo Solidario de Elección de Vivienda; la resolución exenta Nº 9.020 (V. y U.), de 9 de noviembre de 2012, que aprobó el Itemizado Técnico de Construcción para Proyectos del Programa Fondo Solidario de Elección de Vivienda, la resolución exenta Nº 6.624 (V. y U.), de 13 de octubre de 2016 que aprobó el Itemizado Técnico de Construcción para Proyectos del Programa Fondo Solidario de Elección de Vivienda y deroga la resolución exenta Nº 9.020 (V. y U.), de 9 de noviembre de 2012, y
 
 Considerando:
 
-a) Que el DS Nº49 (V. y U.), de 2011, en su texto reemplazado por el DS Nº 105 (V. y U.), de 2014, en sus artículos 44 y 47, faculta al MINVU para aprobar por resolución el Itemizado Técnico de Construcción que determine los requisitos mínimos que deberán cumplir los proyectos habitacionales, según el tipo y zona geográfica donde se ubiquen.
+a) Que el DS Nº49 (V. y U.) de 2011, en sus artículos 44 y 47, faculta al Minvu para aprobar por resolución el Itemizado Técnico de Construcción que determine los requisitos mínimos que deberán cumplir los proyectos habitacionales, según el tipo y zona geográfica donde se ubiquen.
 
-b) La necesidad de actualizar los requerimientos de estándar arquitectónico para el diseño de viviendas de los proyectos habitacionales del Programa Fondo Solidario de Elección de Vivienda, mediante el establecimiento de un nuevo Itemizado Técnico de Construcción, dicto la siguiente:
+b) La necesidad de actualizar los requerimientos de estándar arquitectónico para el diseño de viviendas de los proyectos Habitacionales del Programa Fondo Solidario de Elección de Vivienda, mediante el establecimiento de un nuevo Itemizado Técnico de Construcción, dicto la siguiente:
 
 Resolución:
 
-1. Derógase, a contar del 30 de junio de 2017, la resolución exenta Nº 9.020 (V. y U.), de 9 de noviembre de 2012, que aprobó el Itemizado Técnico de Construcción para Proyectos del Programa Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011.
+1. Reemplázase, el "Itemizado Técnico de Construcción", adjunto a la resolución exenta Nº 6.624, (V. y U.), de fecha 13 de octubre de 2016, y sus modificaciones, de acuerdo a lo indicado en el resuelvo 2., por el documento adjunto a la presente resolución.
 
-2. Apruébase, a contar del 1 de julio de 2017, el "Itemizado Técnico de Construcción para Proyectos del Fondo Solidario de Elección de Vivienda", instrumento que define las especificaciones técnicas mínimas que deben cumplir los proyectos habitacionales o proyectos de construcción del Programa Fondo Solidario de Elección de Vivienda, regulado por el DS Nº 49 (V. y U.), de 2011, el que se acompaña y que se entenderá forma parte integrante de la presente resolución.
-
-3. El "Itemizado Técnico de Construcción" regirá para el ingreso al SERVIU de operaciones de la modalidad de Adquisición de Viviendas Construidas y para proyectos que ingresen al Banco de Postulaciones del Fondo Solidario de Elección de Vivienda, a partir del 1 de julio de 2017. No obstante lo anterior, desde la publicación en el Diario Oficial de la presente resolución, y hasta el 30 de junio de 2017, al ingresar un proyecto las Entidades Patrocinantes podrán solicitar voluntariamente, o el beneficiario para una operación de Adquisición de Vivienda Construida Nueva, la aplicación de todas o algunas de las disposiciones del Itemizado que se aprueba por la presente resolución, según corresponda a cada modalidad.
-
-4. Una vez que se encuentre vigente el "Itemizado Técnico de Construcción" que se aprueba por el presente instrumento, los Servicios de Vivienda y Urbanización, SERVIU, podrán solicitar a la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo, SEREMI, la aprobación de un Itemizado Técnico Regional, informando a la División Técnica de Estudio y Fomento Habitacional del MINVU. A esta solicitud el SERVIU deberá adjuntar:
-
-a) La propuesta de partidas o especificaciones a modificar, la que se deberá formular en el mismo formato y correlación del Itemizado técnico vigente a nivel nacional.
-
-b) Un informe técnico y presupuestario que justifique las modificaciones propuestas y demuestre que no genera aumento en los costos.
-
-5. Las propuestas de Itemizados Técnicos Regionales podrán, en atención a condiciones geográficas, climáticas y culturales particulares de cada región, exigir requisitos distintos de los indicados en este documento, siempre que no se disminuya el estándar y la calidad establecidos en él, no aumenten los costos del proyecto y no contravengan lo dispuesto en la Ordenanza General de Urbanismo y Construcciones, en las Normas Técnicas Oficiales y en la normas constructivas o urbanísticas vigentes.
-
-6. El Itemizado Técnico Regional, una vez aprobado, complementará el Itemizado Técnico aprobado por el presente acto. Los proyectos del Programa Fondo de Elección Solidario de Vivienda serán evaluados conforme al "Itemizado Técnico de Construcción" vigente a la fecha de su ingreso, y al Itemizado Técnico Regional si corresponde.
+2. Establécese que la resolución exenta Nº 6.624 (V. y U.), de fecha 13 de octubre 2016, se mantendrá vigente en todo aquello que no ha sido modificado por la presente resolución exenta.
 
 Anótese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
-Lo que transcribo para su conocimiento.- Jaime Romero Álvarez, Subsecretario de Vivienda y Urbanismo.
+Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.
 
 ITEMIZADO TÉCNICO DE CONSTRUCCIÓN
 
@@ -662,7 +650,7 @@ a) Calicatas:
 
 . Dimensionamiento y resistencia del hormigón de acuerdo a proyecto de cálculo.
 
-. Resistencia especificada para hormigón no menor a G8; resistencia a compresión a 28 días, f 'c &gt; 8 MPa, con un 10% de fracción defectuosa y un máximo de 20% de bolón desplazador.
+. Resistencia especificada para hormigón no menor a G8; resistencia a compresión a 28 días, f 'c > 8 MPa, con un 10% de fracción defectuosa y un máximo de 20% de bolón desplazador.
 
 . Tamaño máximo de bolón desplazador de 1/3 del ancho de la fundación.
 
@@ -686,9 +674,9 @@ a) Calicatas:
 
 . Se debe asegurar su impermeabilidad a la humedad (Hidrófugo incorporado).
 
-. Resistencia especificada para hormigón simple no menor a G12; resistencia a compresión a 28 días, f 'c &gt; 12 MPa, con un 10% de fracción defectuosa.
+. Resistencia especificada para hormigón simple no menor a G12; resistencia a compresión a 28 días, f 'c > 12 MPa, con un 10% de fracción defectuosa.
 
-. Resistencia especificada para hormigón armado no menor a G17; resistencia a compresión a 28 días, f 'c&gt; 17 MPa.
+. Resistencia especificada para hormigón armado no menor a G17; resistencia a compresión a 28 días, f 'c> 17 MPa.
 
 . La preparación del hormigón debe considerar revoltura mecánica de la mezcla.
 
@@ -718,7 +706,7 @@ a) Calicatas:
 
 2.3.3. Hormigón
 
-. Resistencia especificada para hormigón no menor a G12; resistencia a compresión a 28 días, f 'c &gt; 12 MPa, con un 10% de fracción defectuosa y tamaño máximo de grava 2,5 cm.
+. Resistencia especificada para hormigón no menor a G12; resistencia a compresión a 28 días, f 'c > 12 MPa, con un 10% de fracción defectuosa y tamaño máximo de grava 2,5 cm.
 
 . Espesor mínimo de 7 cm.
 
@@ -768,7 +756,7 @@ a) Calicatas:
 
 . Los desaplomes de los muros no deben superar el 2/1000 de la altura.
 
-. Dosificación y resistencia establecidas por cálculo, con una resistencia especificada para hormigón armado no menor a G17; resistencia a compresión a 28 días, f 'c &gt; 17 MPa.
+. Dosificación y resistencia establecidas por cálculo, con una resistencia especificada para hormigón armado no menor a G17; resistencia a compresión a 28 días, f 'c > 17 MPa.
 
 . Los moldajes a utilizar deben ser estancos y estar correctamente afianzados para evitar el posterior desaplome de los muros.
 
@@ -886,7 +874,7 @@ a) Calicatas:
 
 2.9.1. Tradicional (maciza de H.A.)
 
-. Dosificación y resistencia establecidas por cálculo, con una resistencia especificada para hormigón armado no menor G17; resistencia a compresión a 28 días, f 'c &gt; 17 MPa.
+. Dosificación y resistencia establecidas por cálculo, con una resistencia especificada para hormigón armado no menor G17; resistencia a compresión a 28 días, f 'c > 17 MPa.
 
 . El espesor mínimo de losas tradicionales será 11 cm. Otras soluciones podrán ser aprobadas por Serviu, teniendo en consideración que se debe responder a la condición más exigente que para el caso aplique.
 
