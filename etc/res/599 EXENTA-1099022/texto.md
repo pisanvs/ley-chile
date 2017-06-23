@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de todo tipo de vehículos motorizados, en media calzada de calle Chacabuco, en el tramo comprendido entre Avenida Circunvalación y calle Buena Esperanza, de la comuna de Copiapó, hasta el día 6 de junio de 2017, para la ejecución de la obra "Reposición Calzada, Solera, Sello Juntas Hormigón, Señalización, Demarcación, Bici-estacionamientos, cambio de luminaria, Hormigón Veredas".
+1. Prohíbase la circulación de todo tipo de vehículos motorizados, en media calzada de calle Chacabuco, en el tramo comprendido entre Avenida Circunvalación y calle Buena Esperanza, de la comuna de Copiapó, hasta el día 9 de agosto de 2017, para la ejecución de la obra "Reposición Calzada, Solera, Sello Juntas Hormigón, Señalización, Demarcación, Bici-estacionamientos, cambio de luminaria, Hormigón Veredas".
 
 2. Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
