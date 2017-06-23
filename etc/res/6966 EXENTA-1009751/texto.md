@@ -56,7 +56,7 @@ e) 19,7 - 21,2 GHz espacio - Tierra
 
 29,5 - 31,0 GHz Tierra - Espacio
 
-Nota 1: Lo anterior, sin perjuicio de lo establecido en el cuadro de atribución de bandas de frecuencias del Plan General de Uso del Espectro Radioeléctrico, en especial para las bandas 10,70 - 11,7 GHz y 18,8 - 19,3 GHz que deberán coordinarse con los enlaces del servicio fijo. En el caso de las permisionarias de servicio limitado de televisión por satélite que emplea múltiples estaciones terrenas receptoras, será de su responsabilidad tomar medidas para evitar interferencias que pudieran causar los enlaces punto a punto que existan a la fecha de la instalación de la respectiva estación terrena receptora y no reclamará protección respecto de dichos enlaces punto a punto.
+Nota 1: Lo anterior, sin perjuicio de lo establecido en el cuadro de atribución de bandas de frecuencias del Plan General de Uso del Espectro Radioeléctrico, en especial para las bandas 10,70 - 11,7 GHz y 18,8 - 19,3 GHz que deberán coordinarse con los enlaces del servicio fijo, los cuales para efectos de disminuir las eventuales interferencias con el servicio fijo satelital solo serán autorizados fuera de zonas urbanas. En el caso de las permisionarias de servicio limitado de televisión por satélite que emplea múltiples estaciones terrenas receptoras, será de su responsabilidad tomar medidas para evitar interferencias que pudieran causar los enlaces punto a punto que existan a la fecha de la instalación de la respectiva estación terrena receptora y no reclamará protección respecto de dichos enlaces punto a punto.
 
 Nota 2: De acuerdo a lo establecido en el Plan General de Uso del Espectro Radioeléctrico, la atribución al servicio fijo por satélite, en la banda 12,2 - 12,7 GHz, es a título secundario.
 
@@ -87,6 +87,8 @@ Las estaciones terrenas en movimiento reguladas en el presente artículo no se u
 #### Artículo 7º
 
 Deróguese la resolución exenta Nº 561, de 2003, de la Subsecretaría de Telecomunicaciones, que fijó la norma técnica para el uso de las bandas de frecuencias 18,8 - 19,3 GHz, 19,7 - 20,2 GHz, 28,6 - 29,1 GHz y 29,5 - 30,0 GHz.
+
+Disposición Transitoria: Las solicitudes de asignación de frecuencias en la banda 10,7 - 11,7 GHz para enlaces del servicio fijo que consideren zonas urbanas, que se hayan ingresado a la Oficina de Partes de la Subsecretaría de Telecomunicaciones, con anterioridad a la fecha de publicación en el Diario Oficial de la presente resolución, deberán atenderse considerando que será responsabilidad de las titulares de autorizaciones para enlaces del servicio fijo tomar las medidas que sean necesarias para evitar interferencias que pudieran causar a las estaciones terrenas receptoras del servicio fijo por satélite, que existan a la fecha de la instalación de los respectivos enlaces de servicio fijo.
 
 Anótese y publíquese en el Diario Oficial.- Pablo Bello Arellano, Subsecretario de Telecomunicaciones.
 
