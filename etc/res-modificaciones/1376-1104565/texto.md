@@ -1,0 +1,7 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 1.376, de 17 de mayo de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+Modifícase, a contar de la fecha del presente acto administrativo, la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.819, del 28 de octubre de 1996, modificada por resolución 1.433, del 3 de julio de 2009, y por resolución 115, del 4 de enero de 2010, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría de Pesca y Acuicultura, con el N° 4372014, a nombre de su actual titular, Invermar S.A., sociedad chilena, RUT 79.797.990-2, con domicilio en Avda. Juan Soler Manfredini 41, oficina 1602, Torre Costanera, Puerto Montt, en el sentido que la concesionaria debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 3.489, del 13 de diciembre de 2013, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+
+Santiago, 9 de junio de 2017.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
