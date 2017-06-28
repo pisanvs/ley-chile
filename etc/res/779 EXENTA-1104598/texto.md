@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 779 EXENTA, DE 16 DE FEBRERO DE 2017
+
+Por la presente resolución exenta se ha modificado la resolución exenta Nº 4.096, de 1999, del Ministerio de Educación, que aprobó plan y programas especiales de estudio para 1º y 2º año de educación media, al Colegio Tabancura, comuna de Vitacura, provincia de Santiago, Región Metropolitana, en el sentido de sustituir su plan de estudio de 1º año de educación media por el que se indica en la presente resolución exenta y aprobar los programas especiales de estudio para 1° año de educación media de las asignaturas de Lengua y Literatura; Matemática; Historia, Geografía y Ciencias Sociales; Ciencias Naturales: Biología, Física y Química; Artes Visuales; Música; Educación Física y Salud; Tecnología y Ciencia Teológica y Ética que se acompañan en la presente resolución exenta.
+
+Santiago, 16 de febrero de 2017.- Javier Jiménez Díaz, Subsecretario de Educación (S).
