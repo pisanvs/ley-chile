@@ -90,13 +90,43 @@ c) Construcción o Mejoramiento del Equipamiento Comunitario
 
 21. Los recursos involucrados para la selección ascienden a un total de 1.880.947 UF y su distribución territorial será la siguiente:
 
-.
+REGIÓN MONTO - UF
+
+Arica y Parinacota 17.460
+
+Tarapacá 48.015
+
+Antofagasta 116.400
+
+Atacama 71.594
+
+Coquimbo 162.416
+
+Valparaíso 122.111
+
+O'Higgins 112.859
+
+Maule 214.602
+
+Biobío 164.997
+
+Araucanía 179.093
+
+Los Ríos 40.171
+
+Los Lagos 246.073
+
+Aysén 87.300
+
+Magallanes 17.460
+
+Metropolitana 104.760
+
+Total 1.705.311
 
 22. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponden.
 
 23. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
-
-> **Nota.** El numeral 1° de la Resolución 14537 Exenta, Vivienda, publicada el 29.12.2017, modifica la presente norma en el sentido de complementar los recursos asignados a las regiones de Coquimbo, Valparaíso, Metropolitana, O'Higgins, Biobío, Los Ríos y Los Lagos, en las cantidades que la citada norma indica.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
