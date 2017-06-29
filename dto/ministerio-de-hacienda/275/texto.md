@@ -12,15 +12,25 @@ Decreto:
 
 #### Artículo 1º
 
-Fijanse los siguientes limites periféricos al recinto de la Zona Franca de Punta Arenas, de conformidad a lo graficado en el Plano Nº 83-1, denominado "Límites y Deslindes Recinto Zona Franca", confeccionado a escala 1:2000, por la Sociedad Administradora Zona Franca Punta Arenas, y que se considera parte integrante del presente decreto:
+Fíjanse los siguientes límites periféricos al recinto de la Zona Franca de Punta Arenas, de conformidad con lo graficado en el Plano N°12101-1493-CU, de la División del Catastro Nacional de los Bienes del Estado, Ministerio de Bienes Nacionales, y que forma parte integrante del presente decreto:
 
-Norte: En línea discontinua, en tramo F - G en 310,00 metros, con terrenos de la Fuerza Area de Chile, en tramo H - I en 22,00 metros, con Avenida Costanera, en tramo J - K en 690,00 metros, con terrenos de la Fuerza Aérea de Chile y en tramo B - C en 60,00 metros, con terrenos destinados al Servicio de Aduanas;
+Al Norte:
 
-Sur: En línea discontinua, en tramo A - M en 957,00 metros con calle pública y en tramo E - D en 60,00 metros, con terrenos destinados al Servicio de Aduanas;
+Tramo F-G, con Villa Torres del Paine, separado por cerco en línea recta en 310,0 metros.
 
-Oriente: En línea discontinua, en tramo M - L en 184,85 metros y en tramo L - K en 380,00 metros, en línea quebrada, con Avenida Costanera, y en tramo J - I en 387,00 metros con terrenos de la Fuerza Aérea de Chile; y
+Tramo H-I, I-a, a-d, d-J y K-L, con Propiedad Fiscal, Lote 5b1, Calle Nueva - Bien Nacional de Uso Público, lotes 5b3, 5b6, 5b7, 5b8 y Avenida Costanera, separado por cerco en línea recta cada uno en una extensión de 22,6; 133,0; 29,0; 196,1; 97,1; 97,1; 135,5 y 4,1 metros, respectivamente.
 
-Poniente; En línea discontinua, en tramo A - B en 186,00 metros, con Avenida Bulnes, en tramo C - D en 30,00 metros, con terrenos destinados al Servicio de Aduanas, en tramo E - F en 214,00 metros, con Avenida Bulnes y en tramo G - H en 523,00 metros, con terrenos de la Fuerza Aérea de Chile.
+Al Sur:
+
+Tramos N-O, P-Q, y Q-A, con Propiedad Equipamiento Villa El Golf, parte calle Chañarcillo y Propiedad de la Universidad de Magallanes, separado por cerco en línea recta de 125,2; 225,5 y 609,5 metros, respectivamente.
+
+Al Este:
+
+Tramo J-K, L-M, M-N, y O-P con Avenida Costanera y Equipamiento Villa El Golf, separado por cerco en parcialidades de 228,1; 248,4; 82,0 y 11,0 metros, respectivamente.
+
+Al Oeste:
+
+Tramos A-B, B-E y E-F, con Avenida Bulnes, separado por cerco en línea recta de 199,6; 30,00 y 188,7 metros, respectivamente.
 
 #### Artículo 2°
 
