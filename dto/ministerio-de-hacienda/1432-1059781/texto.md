@@ -14,11 +14,11 @@ Lista de Países Menos Adelantados y Condiciones para ser incluido o excluido de
 
 Los países que serán considerados como Países Menos Adelantados corresponden a la lista de países calificados como tales por la Organización de Naciones Unidas y para los efectos de este decreto son los siguientes:
 
-(a) en África: Angola, Benín, Burkina Faso, Burundi, República Centroafricana, Chad, Comoras, República Democrática del Congo, Djibouti, Guinea Ecuatorial, Eritrea, Etiopía, Gambia, Guinea, Guinea-Bissau, Lesoto, Liberia, Madagascar, Malawi, Malí, Mauritania, Mozambique, Níger, Ruanda, Santo Tomé y Príncipe, Senegal, Sierra Leona, Somalia, Sudán, Sudán del Sur, Togo, Uganda, República Unida de Tanzania y Zambia;
+(a) en África: Angola, Benín, Burkina Faso, Burundi, República Centroafricana, Chad, Comoras, República Democrática del Congo, Djibouti, Guinea Ecuatorial, Eritrea, Etiopía, Gambia, Guinea, Guinea-Bissau, Lesoto, Liberia, Madagascar, Malawi, Malí, Mauritania, Mozambique, Níger, Ruanda, Santo Tomé y Príncipe, Senegal, Sierra Leona, Somalía, Sudán, Sudán del Sur, Togo, Uganda, República Unida de Tanzania y Zambia;
 
-(b) en Asia y el Pacífico: Afganistán, Bangladesh, Bután, Camboya, Kiribati, República Democrática Popular Lao, Myanmar, Nepal, Samoa, Islas Salomón, Timor-Leste, Tuvalu, Vanuatu y Yemen;
+(b) en Asia y el Pacífico: Afganistán, Bangladesh, Bután, Camboya, Kiribati, República Democrática Popular Lao, Myanmar, Nepal, Islas Salomón, Timor-Leste, Tuvalu, Vanuatu y Yemen;
 
-(c) en América Latina y el Caribe: Haití.
+(c) en América Latina y el Caribe: Haití
 
 #### Artículo 2
 
@@ -122,23 +122,31 @@ permanecieron las mercancías en el país de
 
 tránsito; o
 
-(c) en ausencia de ello, cualesquiera documentos de prueba.
+(c) en ausencia de ello, cualesquiera documentos de prueba que permitan concluir al Servicio Nacional de Aduanas que las mercancías no han perdido su carácter originario durante el tránsito por un tercer país.
 
-#### Artículo 11º
+#### Artículo 11°
 
-Para que las mercancías originarias califiquen al tratamiento arancelario preferencial, se emitirá un certificado de origen, cuyo contenido y formato será determinado en el Anexo de este decreto. Este certificado de origen deberá ser emitido por la Autoridad Competente del país exportador, a solicitud escrita del exportador. El certificado de origen será válido por el plazo de un (1) año contado a partir de la fecha de su emisión y deberá ser completado en idioma español, inglés, francés o portugués.
+Para que las mercancías originarias califiquen al tratamiento arancelario preferencial, el importador deberá presentar ante el Servicio Nacional de Aduanas un certificado de origen, el cual deberá contener al menos el contenido definido en el anexo del presente decreto. Éste certificado de origen podrá ser emitido por:
 
-El Director Nacional de Aduanas, a solicitud del importador, podrá, mediante resolución fundada, aceptar la presentación de un certificado de origen emitido por el productor o exportador de las mercancías sólo en aquellos casos en que el Servicio Nacional de Aduanas no contare, al momento de la solicitud de trato preferencial, con la información oficial respecto de las firmas y sellos de las Autoridades Competentes del país exportador para la emisión de certificados de origen conforme a lo establecido en el artículo 15.
+a) la Autoridad Competente del país exportador designada conforme a lo señalado en el artículo 14; o
 
-En el caso señalado en el inciso anterior, si el exportador no es el productor de las mercancías, podrá certificar origen con fundamento en:
+b) el productor o exportador de las mercancías. En el caso de que el exportador no sea el productor de las mercancías, el exportador podrá certificar origen con fundamento en:
 
-a) su conocimiento respecto de que la mercancía califica como originaria;
+i) su conocimiento respecto de que las mercancías califican como originarias; o
 
-b) la confianza razonable en una declaración escrita del productor respecto de que la mercancía califica como originaria, o
+ii) una declaración escrita del productor de que la mercancía califica como originaria; o
 
-c) un certificado que ampare la mercancía, llenado y firmado por el productor y proporcionado voluntariamente al exportador.
+iii) un certificado que ampare la mercancía, llenado y firmado por el productor y proporcionado voluntariamente al exportador; o
 
-El Director Nacional de Aduanas podrá siempre solicitar al importador la información o antecedentes que estime necesarios para evaluar en cada caso la solicitud a que se refiere.
+c) el importador de las mercancías, quien solo podrá emitir un certificado de origen con fundamento en:
+
+i) una declaración escrita del productor o exportador de las mercancías respecto de que la misma califica como originaria; o
+
+ii) cualquier otra documentación o antecedente que permita concluir que las mercancías son originarias del país exportador, tales como certificados emitidos por una entidad pública del país exportador, o certificados o informes de embarque emitidos en el país de exportación por una empresa certificadora independiente o surveyor, los que deberán ser consistentes con los demás documentos del despacho y las circunstancias de la operación.
+
+El Director Nacional de Aduanas podrá siempre solicitar al importador la información o antecedentes adicionales que estime necesarios para determinar la veracidad o exactitud del certificado de origen.
+
+El certificado de origen será válido por el plazo de un (1) año contado a partir de la fecha de su emisión y deberá ser completado en idioma español, inglés, francés o portugués.
 
 #### Artículo 12
 
@@ -152,15 +160,13 @@ Cuando un importador en Chile no hubiera solicitado un tratamiento arancelario p
 
 #### Artículo 13
 
-El solicitante de la preferencia arancelaria deberá conservar una copia del certificado de origen y de los antecedentes que le sirvieron de base durante un plazo mínimo de cinco (5) años, a partir de la fecha en que dicho certificado fue emitido.
+Para los efectos de un procedimiento de verificación de origen que el Servicio Nacional de Aduanas pudiera realizar, el importador deberá conservar una copia del certificado de origen y de los antecedentes que le sirvieron de base durante un plazo de cinco años, contados desde la fecha en que dicho certificado fue emitido.
+
+El Servicio Nacional de Aduanas, conforme a lo dispuesto en el decreto con fuerza de ley N° 30/2004 sobre Ordenanza de Aduanas y demás disposiciones contenidas en el ordenamiento jurídico nacional, verificará si una mercancía importada desde un País Menos Adelantado califica como originaria para efectos de acogerse al beneficio establecido en la ley 20.690.
 
 #### Artículo 14
 
-El Servicio Nacional de Aduanas, conforme a lo dispuesto en los artículos 66 y 67 del decreto con fuerza de ley Nº 30/2004 sobre Ordenanza de Aduanas, fiscalizará si una mercancía importada desde un País Menos Adelantado califica como originaria para efectos de acogerse al beneficio establecido en la ley Nº 20.690.
-
-#### Artículo 15
-
-El Ministerio de Relaciones Exteriores informará a los Países Menos Adelantados sobre el beneficio establecido en la ley Nº 20.690. Para los efectos de formalizar la Autoridad Competente, aquellos países informarán al Ministerio de Relaciones Exteriores el nombre de los funcionarios habilitados para la emisión de los certificados de origen y sus respectivos sellos oficiales, información que será comunicada por dicho Ministerio al Servicio Nacional de Aduanas.
+El Ministerio de Relaciones Exteriores informará a los Países Menos Adelantados sobre el beneficio establecido en la ley N° 20.690. Para los efectos de formalizar la Autoridad Competente, aquellos países informarán al Ministerio de Relaciones Exteriores las respectivas entidades habilitadas para la emisión de los certificados de origen y los funcionarios habilitados para estos efectos, información que será comunicada por dicho Ministerio al Servicio Nacional de Aduanas.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Felipe Larraín Bascuñán, Ministro de Hacienda.
 
@@ -174,25 +180,23 @@ INSTRUCCIONES:
 
 I.- Para los efectos del artículo 11 del presente decreto, la emisión del certificado de origen deberá sujetarse a las siguientes instrucciones:
 
-1. En cuanto a su formato, deberá seguir la distribución y el orden del certificado de origen incluido en este Anexo.
+1. En cuanto a su formato, podrá seguir la distribución y el orden del certificado de origen incluido en este anexo.
 
-2. Sin perjuicio de lo anterior, el Servicio Nacional de Aduanas podrá aceptar otros formatos, cuando, en su contenido, el certificado contenga a lo menos la siguiente información:
+2. Sin perjuicio de lo anterior, el Servicio Nacional de Aduanas podrá aceptar otros formatos, cuando, en su contenido, el certificado contemple a lo menos la siguiente información:
 
-- Número de Certificado
+- Número de Certificado.
 
-- Nombre y dirección del Exportador
+- Nombre y dirección del Exportador.
 
-- Nombre y dirección del productor de las mercaderías, si es conocido
+- Nombre y dirección del productor de las mercaderías, si es conocido. Nombre y dirección del Importador.
 
-- Nombre y dirección del Importador
+- Descripción detallada de las mercancías, incluyendo el código arancelario a nivel de subpartida
 
-- Descripción detallada de las mercancías
+- Criterio de Origen (conforme a los artículos 4, 5 y 6).
 
-- Criterio de Origen (conforme a los artículos 4, 5 y 6)
+- Declaración del productor, exportador o importador, según corresponda, en el sentido de señalar que las mercancías designadas en el certificado cumplen las condiciones exigidas para su emisión. Indicar fecha y lugar de la declaración, estampando firma del productor, exportador o importador, según corresponda.
 
-- Declaración del exportador en el sentido de señalar que las mercancías designadas en el certificado cumplen las condiciones exigidas para su emisión. Indicar fecha y lugar de la declaración, estampando firma del exportador
-
-- Fecha y lugar de emisión del certificado de origen por la autoridad competente, estampando su firma y sello. Esta información no será obligatoria para el caso contemplado en el inciso segundo del artículo 11 del decreto.
+- Fecha y lugar de emisión del certificado de origen por la Autoridad Competente, o por el exportador, productor o importador de las mercancías según corresponda conforme a lo dispuesto en el artículo 11 del decreto.
 
 FORMATO CERTIFICADO DE ORIGEN
 
