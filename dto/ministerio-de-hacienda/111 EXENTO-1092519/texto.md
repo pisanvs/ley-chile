@@ -36,10 +36,6 @@ b) Del decreto exento de Hacienda Nº 943, de 2009, los vehículos en el orden c
 
 c) Del decreto exento de Hacienda Nº 885, de 2011, el vehículo individualizado en el numeral 13.
 
-> **Nota.** El numeral 2° del Decreto 593 Exento, Hacienda, publicado el 10.09.2021, modifica la presente norma en el sentido de eliminar un vehículo de la dotación del Servicio Nacional de Aduanas, Dirección Regional de Aduanas de Valparaíso, que fue autorizado para circular en días sábado en la tarde, domingo y festivos, y exceptuados del uso de disco distintivo estatal, de conformidad a lo dispuesto en el decreto ley N° 799, de 1974, del Ministerio del Interior, de acuerdo a la individualización que la citada norma indica.
-
-> **Nota.** NOTA 1 El numeral 3° del Decreto 165 Exento, Hacienda, publicado el 14.07.2023, modifica la presente norma en el sentido de dejar sin efecto la autorización otorgada por la presente norma al Vehículo Camioneta, marca Chevrolet, año 2016, placa patente única HSFL-25.
-
 Anótese y publíquese.- Por orden de la Presidenta de la República, Rodrigo Valdés Pulido, Ministro de Hacienda.- Jorge Burgos Varela, Ministro del Interior y Seguridad Pública.
 
 Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Alejandro Micco Aguayo, Subsecretario de Hacienda.
