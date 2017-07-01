@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 517, de 14 de junio de 2017, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP N° 570, de 29 de julio de 2014, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes de terreno N°s. 68 y 70, expropiados con motivo de la obra: "Construcción Mejoramiento Interconexión Vial P-20 P-40, Arauco", Comuna de Arauco, Provincia de Arauco, Región del Biobío. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 20 de marzo de 2013, complementada por acta de 19 de mayo de 2015, ascendente a la cantidad de $69.150.- para el lote N° 68 y $995.098.- para el lote N° 70.
