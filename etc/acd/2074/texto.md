@@ -172,7 +172,7 @@ iii. Mantener en todo momento un capital pagado y reservas al menos equivalente 
 
 (a) 25.000 Unidades de Fomento, y
 
-(b) la suma de los siguientes factores: el 1% del valor promedio anual del monto total de pagos efectuados a entidades afiliadas no relacionadas, durante los últimos 3 años calendarios o la cantidad inferior de años que resulte aplicable; y el 4,5% del valor de la cartera total de créditos originados o renovados por el uso de las Tarjetas en el año calendario anterior.
+(b) la suma de los siguientes factores: el 1% del valor promedio anual del monto total de pagos efectuados a entidades afiliadas no relacionadas, durante los últimos tres años o la cantidad inferior de años que resulte aplicable; y el 4,5% del valor de la cartera total de créditos originados o renovados por el uso de las Tarjetas que se encuentren vigentes.
 
 iii.1 En consecuencia, el requerimiento mínimo de capital pagado y reservas para cada Emisor se determina a través del siguiente algoritmo:
 
@@ -354,7 +354,7 @@ iii. Mantener en todo momento un capital pagado y reservas al menos equivalente 
 
 (a) 25.000 Unidades de Fomento y
 
-(b) la suma de los siguientes factores: 1% del valor promedio anual del monto total de pagos efectuados a entidades afiliadas no relacionadas, durante los últimos 3 años calendarios o la cantidad inferior de años que resulte aplicable; el 8% de los recursos provisionados en sus sistemas que se encuentren invertidos en instrumentos financieros de largo plazo, autorizados conforme al presente Capítulo; y el 3% de los recursos provisionados en sus sistemas que se encuentren invertidos en instrumentos de corto plazo, autorizados asimismo de acuerdo al presente Capítulo.
+(b) la suma de los siguientes factores: 1% del valor promedio anual del monto total de pagos efectuados a entidades afiliadas no relacionadas, durante los últimos tres años o la cantidad inferior de años que resulte aplicable; el 8% de los recursos provisionados en sus sistemas que se encuentren invertidos en instrumentos financieros de largo plazo, autorizados conforme al presente Capítulo; y el 3% de los recursos provisionados en sus sistemas que se encuentren invertidos en instrumentos de corto plazo, autorizados asimismo de acuerdo al presente Capítulo.
 
 iii.1) En consecuencia, el requerimiento mínimo de capital pagado y reservas para cada Emisor se determinará a través del siguiente algoritmo:
 
@@ -486,15 +486,15 @@ ANEXO N° 1
 
 LÍMITES APLICABLES A SALDOS ACUMULABLES EN TARJETAS DE PAGO CON PROVISIÓN DE FONDOS
 
-1. Tarjetas Innominadas recargables (Título IV. N°4): $20.000 (veinte mil pesos en moneda corriente nacional).
+1. Tarjetas Innominadas recargables (Título IV. N° 5): $20.000 (veinte mil pesos en moneda corriente nacional).
 
-2. Tarjetas Innominadas no recargables (Título IV. N° 4): $ 100.000 (cien mil pesos en moneda corriente nacional).
+2. Tarjetas Innominadas no recargables (Título IV. N° 5): $ 100.000 (cien mil pesos en moneda corriente nacional).
 
-3. Tarjetas Nominativas adquiridas de manera presencial, suscribiendo y documentando por escrito el contrato de apertura: (Título IV, N° 5): Sin límite de saldo máximo.
+3. Tarjetas Nominativas adquiridas de manera presencial, suscribiendo y documentando por escrito el contrato de apertura: (Título IV, N° 6): Sin límite de saldo máximo.
 
-4. Tarjetas Nominativas cuya apertura sea contratada en forma remota por medios tecnológicos (Título IV, N° 5): $500.000 (quinientos mil pesos en moneda corriente nacional).
+4. Tarjetas Nominativas cuya apertura sea contratada en forma remota por medios tecnológicos (Título IV, N° 6): $500.000 (quinientos mil pesos en moneda corriente nacional).
 
-5. Tarjetas Nominativas cuya apertura sea contratada en forma remota por medios tecnológicos en que el Emisor sea capaz, según su propia determinación, de verificar en forma fidedigna la identidad del Titular, mediante procedimientos de autentificación seguros, sea que ellos constituyan o no el uso de firma electrónica avanzada: (Título IV, N° 5): Sin límite de saldo máximo.
+5. Tarjetas Nominativas cuya apertura sea contratada en forma remota por medios tecnológicos en que el Emisor sea capaz, según su propia determinación, de verificar en forma fidedigna la identidad del Titular, mediante procedimientos de autentificación seguros, sea que ellos constituyan o no el uso de firma electrónica avanzada: (Título IV, N° 6): Sin límite de saldo máximo.
 
 ANEXO N° 2
 
