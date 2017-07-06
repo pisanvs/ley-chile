@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº 57, de 30 de junio de 2017, que autoriza a las instituciones sin fines de lucro, Junta de Vecinos N º1 Futuro, 2º Etapa San Pedro de la Costa, RUT Nº 65.077.325-K; Junta de Vecinos San Pedro de la Costa 1 Etapa, RUT Nº 65.637.480-2; Junta de Vecinos Nueva Estrella de Michaihue, RUT Nº 75.958.770-7; Junta de Vecinos 20-11 San Alberto, RUT Nº 65.566.140-9, y Fundación Reeduca, RUT Nº 65.111.046-7, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de junio de 2017.
