@@ -186,7 +186,7 @@ Existirá un juzgado de garantía con asiento en cada una de las siguientes comu
 
 Primera Región de Tarapacá:
 
-Iquique, con siete jueces, con competencia sobre las comunas de Iquique y Alto Hospicio.
+Iquique, con siete jueces, con competencia sobre la misma comuna.
 
 Segunda Región de Antofagasta:
 
@@ -194,7 +194,7 @@ Tocopilla, con un juez, con competencia sobre la misma comuna.
 
 Calama, con cuatro jueces, con competencia sobre las comunas de Calama, Ollagüe y San Pedro de Atacama.
 
-Antofagasta, con siete jueces, con competencia sobre las comunas de Mejillones, Sierra Gorda y Antofagasta.
+Antofagasta, con siete jueces, con competencia sobre las comunas de Sierra Gorda y Antofagasta.
 
 Tercera Región de Atacama:
 
@@ -222,7 +222,7 @@ La Ligua, con un juez, con competencia sobre las comunas de La Ligua, Cabildo, P
 
 Calera, con dos jueces, con competencia sobre las comunas de Nogales, Calera, La Cruz e Hijuelas.
 
-San Felipe, con dos jueces, con competencia sobre las comunas de San Felipe, Catemu, Santa María, Panquehue y Llay-LLay.
+San Felipe, con tres jueces, con competencia sobre las comunas de San Felipe, Catemu, Santa María, Panquehue y Llay-LLay.
 
 Los Andes, con dos jueces, con competencia sobre las comunas de San Esteban, Rinconada, Calle Larga y Los Andes.
 
@@ -254,7 +254,7 @@ Rengo, con dos jueces, con competencia sobre las comunas de Requínoa, Quinta de
 
 San Fernando, con tres jueces, con competencia sobre las comunas de San Fernando, Placilla y Chimbarongo.
 
-Santa Cruz, con un juez, con competencia sobre las comunas de Santa Cruz, Nancagua, Lolol y Chépica.
+Santa Cruz, con dos jueces, con competencia sobre las comunas de Santa Cruz, Nancagua, Lolol y Chépica.
 
 Séptima Región del Maule:
 
@@ -264,7 +264,7 @@ Molina, con un juez, con competencia sobre la misma comuna.
 
 Constitución, con dos jueces, con competencia sobre las comunas de Constitución y Empedrado.
 
-Talca, con cinco jueces, con competencia sobre las comunas de Río Claro, Pencahue, Talca, Pelarco, San Clemente, Maule y San Rafael.
+Talca, con seis jueces, con competencia sobre las comunas de Río Claro, Pencahue, Talca, Pelarco, San Clemente, Maule y San Rafael.
 
 San Javier, con un juez, con competencia sobre las comunas de San Javier y Villa Alegre.
 
@@ -302,7 +302,7 @@ Cañete, con un juez, con competencia sobre las comunas de Cañete, Contulmo y T
 
 Novena Región de La Araucanía:
 
-Angol, con un juez, con competencia sobre las comunas de Angol y Renaico.
+Angol, con dos jueces, con competencia sobre las comunas de Angol y Renaico.
 
 Victoria, con un juez, con competencia sobre la misma comuna.
 
@@ -338,7 +338,7 @@ Coihaique, con dos jueces, con competencia sobre las comunas de Coihaique y Río
 
 Duodécima Región de Magallanes y la Antártica Chilena:
 
-Punta Arenas, con cuatro jueces, con competencia sobre las comunas de Laguna Blanca, San Gregorio, Río Verde, Punta Arenas, Navarino y Antártica.
+Punta Arenas, con cuatro jueces, con competencia sobre las comunas de Laguna Blanca, San Gregorio, Río Verde y Punta Arenas.
 
 Decimocuarta Región de los Ríos:
 
@@ -448,7 +448,7 @@ Existirá un tribunal de juicio oral en lo penal con asiento en cada una de las 
 
 Primera Región de Tarapacá:
 
-Iquique, con once jueces, con competencia sobre las comunas de Huara, Camiña, Colchane, Iquique, Pozo Almonte, Alto Hospicio y Pica.
+Iquique, con trece jueces, con competencia sobre las comunas de Huara, Camiña, Colchane, Iquique, Pozo Almonte, Alto Hospicio y Pica.
 
 Segunda Región de Antofagasta:
 
@@ -462,7 +462,7 @@ Copiapó, con nueve jueces, con competencia sobre las comunas de Chañaral, Dieg
 
 Cuarta Región de Coquimbo:
 
-La Serena, con nueve jueces, con competencia sobre las comunas de La Higuera, Vicuña, La Serena, Coquimbo, Andacollo y Paihuano.
+La Serena, con diez jueces, con competencia sobre las comunas de La Higuera, Vicuña, La Serena, Coquimbo, Andacollo y Paihuano.
 
 Ovalle, con cinco jueces, con competencia sobre las comunas de Ovalle, Río Hurtado, Punitaqui, Monte Patria, Combarbalá, Canela, Illapel, Los Vilos y Salamanca.
 
@@ -478,7 +478,7 @@ Viña del Mar, con trece jueces, con competencia sobre las comunas de Puchuncav�
 
 Valparaíso, con quince jueces, con competencia sobre las comunas de Juan Fernández, Valparaíso, Casablanca e Isla de Pascua.
 
-San Antonio, con seis jueces, con competencia sobre las comunas de Algarrobo, El Quisco, El Tabo, Cartagena, San Antonio y Santo Domingo.
+San Antonio, con siete jueces, con competencia sobre las comunas de Algarrobo, El Quisco, El Tabo, Cartagena, San Antonio y Santo Domingo.
 
 Sexta Región del Libertador General Bernardo O'Higgins:
 
@@ -490,9 +490,9 @@ Santa Cruz, con cuatro jueces, con competencia sobre las comunas de Santa Cruz, 
 
 Séptima Región del Maule:
 
-Curicó, con seis jueces, con competencia sobre las comunas de Teno, Vichuquén, Hualañé, Rauco, Curicó, Romeral, Licantén, Sagrada Familia y Molina.
+Curicó, con siete jueces, con competencia sobre las comunas de Teno, Vichuquén, Hualañé, Rauco, Curicó, Romeral, Licantén, Sagrada Familia y Molina.
 
-Talca, con seis jueces, con competencia sobre las comunas de Curepto, Río Claro, Constitución, Pencahue, Talca, Pelarco, San Clemente, Maule, Empedrado y San Rafael.
+Talca, con siete jueces, con competencia sobre las comunas de Curepto, Río Claro, Constitución, Pencahue, Talca, Pelarco, San Clemente, Maule, Empedrado y San Rafael.
 
 Linares, con seis jueces, con competencia sobre las comunas de San Javier, Villa Alegre, Colbún, Yerbas Buenas, Linares y Longaví .
 
@@ -500,9 +500,9 @@ Cauquenes, con cuatro jueces, con competencia sobre las comunas de Chanco, Cauqu
 
 Octava Región del Bío Bío:
 
-Chillán, con seis jueces, con competencia sobre las comunas de Cobquecura, Quirihue, Ninhue, San Carlos, Niquén, San Fabián, San Nicolás, Treguaco, Portezuelo, Chillán, Coihueco, Coelemu, Ranquil, Pinto, Quillón, Bulnes, San Ignacio, El Carmen, Pemuco, Yungay, Tucapel y Chillán Viejo.
+Chillán, con siete jueces, con competencia sobre las comunas de Cobquecura, Quirihue, Ninhue, San Carlos, Niquén, San Fabián, San Nicolás, Treguaco, Portezuelo, Chillán, Coihueco, Coelemu, Ranquil, Pinto, Quillón, Bulnes, San Ignacio, El Carmen, Pemuco, Yungay, Tucapel y Chillán Viejo.
 
-Concepción, con dieciocho jueces, con competencia sobre las comunas de Tomé, Penco, Florida, Concepción, Coronel, Hualqui, Lota, Santa Juana, Talcahuano, San Pedro de la Paz, Hualpén y Chiguayante.
+Concepción, con veintidós jueces, con competencia sobre las comunas de Tomé, Penco, Florida, Concepción, Coronel, Hualqui, Lota, Santa Juana, Talcahuano, San Pedro de la Paz, Hualpén y Chiguayante.
 
 Los Angeles, con seis jueces, con competencia sobre las comunas de San Rosendo, Yumbel, Cabrero, Laja, Los Angeles, Antuco, Quilleco, Nacimiento, Negrete, Mulchén, Santa Bárbara, Alto Biobío y Quilaco.
 
@@ -560,7 +560,7 @@ Segundo Tribunal de Juicio Oral en lo Penal de Santiago, con veintiún jueces, c
 
 Tercer Tribunal de Juicio Oral en lo Penal de Santiago, con diecinueve jueces, con competencia sobre las comunas de Lo Barnechea, Vitacura, Las Condes, Providencia, Ñuñoa y La Reina.
 
-Cuarto Tribunal de Juicio Oral en lo Penal de Santiago, con dieciocho jueces, con competencia sobre las comunas de Quinta Normal, Estación Central y Santiago.
+Cuarto Tribunal de Juicio Oral en lo Penal de Santiago, con veinte jueces, con competencia sobre las comunas de Quinta Normal, Estación Central y Santiago.
 
 Quinto Tribunal de Juicio Oral en lo Penal de Santiago, con nueve jueces, con competencia sobre las comunas de Maipú y Cerrillos.
 
@@ -790,13 +790,13 @@ En la Segunda Región, de Antofagasta, existirán los siguientes juzgados de let
 
 A.- JUZGADOS CIVILES:
 
-Cuatro juzgados de letras en lo civil en la comuna de Antofagasta, con competencia sobre las comunas de Antofagasta, Mejillones y Sierra Gorda.
+Cuatro juzgados de letras en lo civil en la comuna de Antofagasta, con competencia sobre las comunas de Antofagasta y Sierra Gorda.
 
 B.- JUZGADOS DE COMPETENCIA COMUN:
 
 Un juzgado con asiento en la comuna de Tocopilla, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de María Elena, con competencia sobre la misma comuna;
+Un juzgado con asiento en la comuna de María Elena, con competencia sobre la misma comuna. Un juzgado con asiento en la comuna de Mejillones, con dos jueces, con competencia sobre la misma comuna;
 
 Tres juzgados con asiento en la comuna de Calama, con competencia sobre las comunas de la provincia de El Loa, y
 
@@ -1092,13 +1092,15 @@ En la Décima Segunda Región, de Magallanes y Antártica Chilena, existirán lo
 
 A.- JUZGADOS CIVILES:
 
-Tres Juzgados con asiento en la comuna de Punta Arenas, con competencia sobre las comunas de las provincias de Magallanes y Antártica Chilena;
+Tres Juzgados con asiento en la comuna de Punta Arenas, con competencia sobre las comunas de la provincia de Magallanes;
 
 B.- JUZGADOS DE COMPETENCIA COMÚN:
 
-Un Juzgado con asiento en la comuna de Natales, con competencia sobre las comunas de la provincia de Última Esperanza, y
+Un Juzgado con asiento en la comuna de Natales, con competencia sobre las comunas de la provincia de Última Esperanza.
 
 Un Juzgado con asiento en la comuna de Porvenir, con competencia sobre las comunas de la provincia de Tierra del Fuego.
+
+Un Juzgado con asiento en la comuna de Cabo de Hornos, con competencia sobre las comunas de la Provincia de la Antártica Chilena.
 
 #### Artículo 39 bis
 
@@ -1628,15 +1630,11 @@ Derogado.
 
 #### Artículo 89
 
-En los autos y sentencias definitivas e interlocutorias de los tribunales colegiados, se expresará nominalmente qué miembros han concurrido con su voto a formar sentencia y qué miembros han sostenido opinión contraria.
+En los autos y sentencias definitivas e interlocutorias de los tribunales colegiados, se expresará nominalmente qué miembros han concurrido con su voto a formar sentencia y qué miembros han sostenido opinión contraria, lo que quedará registrado electrónicamente.
 
-Habrá en cada tribunal colegiado un libro, denominado de acuerdos, en el cual los miembros que no opinaren como la mayoría deberán exponer y fundar su voto particular en los asuntos en que hubiere conocido el tribunal.
+Podrán también consignarse electrónicamente las razones especiales que algún miembro de la mayoría haya tenido para formar sentencia y que no se hubieren insertado en ella.
 
-Podrán también consignar las razones especiales que algún miembro de la mayoría haya tenido para formar sentencia, y que no se hubieren insertado en ella.
-
-Este libro quedará en la secretaría y podrá ser consultado por cualquiera que demuestre interés en ello.
-
-El voto y fundamento de que se trata en el inciso precedente se publicarán en la Gaceta de los Tribunales a continuación de la sentencia a que se refieren.
+La sentencia, su disidencia y las prevenciones estarán disponibles en la página de internet del Poder Judicial. Estos documentos podrán publicarse por la Corte Suprema en la Gaceta de los Tribunales o en otras publicaciones que disponga al efecto.
 
 ### 3. Los Presidentes de las Cortes de Apelaciones
 
@@ -2254,9 +2252,9 @@ Lo dispuesto en este artículo no se aplicará a los juzgados de garantía ni a 
 
 #### Artículo 176
 
-En los lugares de asiento de Corte en que hubiere más de un juez de letras en lo civil, deberá presentarse a la secretaría de la Corte toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento.
+En los lugares de asiento de Corte en que hubiere más de un juez de letras en lo civil, deberá presentarse a la Corte toda demanda o gestión judicial que se iniciare y que deba conocer alguno de dichos jueces, a fin de que se designe el juez a quien corresponda su conocimiento.
 
-Esta designación se hará por el presidente del tribunal, previa cuenta dada por el secretario, asignando a cada causa un número de orden, según su naturaleza, y dejando constancia de ella en un libro llevado al efecto que no podrá ser examinado sin orden del tribunal.
+Esta designación se hará electrónicamente por orden del presidente del tribunal, asignando a cada causa un número de orden, según su naturaleza.
 
 #### Artículo 177
 
@@ -2444,7 +2442,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 7.235 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 5.450 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 7.430 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 5.600 pesos.
 
 #### Artículo 199
 
@@ -2632,9 +2630,9 @@ En las ternas no se podrán repetir nombres.
 
 #### Artículo 220
 
-Los secretarios de los tribunales colegiados, llevarán un libro público de integraciones y de asistencia al tribunal, en el que anotarán diariamente los nombres de los miembros que no hayan asistido, con expresión de la causa de esta inasistencia, y de los funcionarios o abogados que hayan sido llamados a integrar.
+Los secretarios de los tribunales colegiados llevarán electrónicamente un registro público de integraciones y de asistencia al tribunal, en el que anotarán diariamente los nombres de los miembros que no hayan asistido, con expresión de la causa de inasistencia, y de los funcionarios o abogados que hayan sido llamados a integrar, información que estará disponible en la página de internet del Poder Judicial.
 
-De la integración deberá dejarse testimonio en el respectivo proceso.
+De la integración deberá dejarse testimonio en la respectiva carpeta electrónica.
 
 #### Artículo 221
 
@@ -3970,7 +3968,7 @@ Son funciones de los relatores:
 
 2°) Poner en conocimiento de las partes o sus abogados el nombre de las personas que integran el tribunal, en el caso a que se refiere el artículo 173 del Código de Procedimiento Civil;
 
-3°) Revisar los expedientes que se les entreguen y certificar que están en estado de relación. En caso que sea necesario traer a la vista los documentos, cuadernos separados y expedientes no acompañados o realizar trámites procesales previos a la vista de la causa, informará de ello al Presidente de la Corte, el cual dictará las providencias que correspondan.
+3°) Revisar los expedientes físicos o digitales que se les entreguen o asignen y certificar que están en estado de relación. En caso que sea necesario traer a la vista los documentos, cuadernos separados y expedientes no acompañados o realizar trámites procesales previos a la vista de la causa, informará de ello al Presidente de la Corte, el cual dictará las providencias que correspondan.
 
 4°) Hacer relación de los procesos;
 
@@ -4024,7 +4022,7 @@ Son funciones de los secretarios:
 
 1°) Dar cuenta diariamente a la Corte o juzgado en que presten sus servicios de las solicitudes que presentaren las partes;
 
-2°) Autorizar las providencias o resoluciones que sobre dichas solicitudes recayeren, y hacerlas saber a los interesados que acudieren a la oficina para tomar conocimiento de ellas, anotando en el proceso las notificaciones que hicieren, y practicar las notificaciones por el estado diario;
+2°) Dar a conocer las providencias o resoluciones a los interesados que acudieren a la oficina para tomar conocimiento de ellas, registrando en la carpeta electrónica las modificaciones que hicieren, y practicar las notificaciones por el estado diario;
 
 3°) Dar conocimiento a cualquiera persona que lo solicitare de los procesos que tengan archivados en sus oficinas, y de todos los actos emanados de la Corte o juzgado, salvo los casos en que el procedimiento deba ser secreto en virtud de una disposición expresa de la ley;
 
@@ -4050,21 +4048,19 @@ En las Cortes de Apelaciones que consten de una sala, los secretarios estarán o
 
 #### Artículo 384
 
-Los Secretarios deberán llevar los siguientes registros:
+Los secretarios estarán a cargo de la confección de los siguientes registros:
 
-1°.- Un registro foliado compuesto por copias escritas a máquina, autorizadas por el Secretario, de las sentencias definitivas que se dicten en los asuntos civiles, contenciosos o de jurisdicción voluntaria.
+1º Un registro electrónico de las sentencias definitivas que se dicten en los asuntos civiles, contenciosos o no contenciosos, con la debida firma electrónica avanzada del juez o jueces involucrados.
 
-También se copiarán en dicho libro las sentencias interlocutorias que pongan término al juicio o hagan imposible su continuación.
+También se incluirán en dicho registro electrónico las sentencias interlocutorias que pongan término al juicio o hagan imposible su continuación.
 
-En los Tribunales Colegiados se formará el mismo registro señalado en los incisos precedentes.
+En los tribunales colegiados se formará el mismo registro electrónico señalado en los incisos precedentes.
 
-Cada registro con no más de quinientas páginas se empastará anualmente;
+2º El registro electrónico de los depósitos a que se refiere el artículo 517.
 
-2°.- El registro de depósitos a que se refiere el artículo 507, y
+3º Un registro electrónico de las resoluciones relativas al régimen económico y disciplinario del juzgado, con la debida firma electrónica avanzada del juez o jueces involucrados.
 
-3°.- Los demás que ordenen las leyes o el Tribunal.
-
-Los Secretarios de los Juzgados de Letras llevarán también un libro donde se estamparán, con la firma del Juez, las resoluciones que miren al régimen económico y disciplinario del Juzgado.
+4º Los demás que ordenen las leyes o el tribunal, los que deberán ser conformados electrónicamente.
 
 #### Artículo 385
 
@@ -4072,7 +4068,7 @@ Derogado
 
 #### Artículo 386
 
-Los secretarios de los tribunales colegiados deberán llevar, también, los siguientes libros:
+Los secretarios de los tribunales colegiados deberán llevar, también, los siguientes registros electrónicos:
 
 1°) El de acuerdos que el tribunal celebre en asuntos administrativos;
 
@@ -4080,7 +4076,7 @@ Los secretarios de los tribunales colegiados deberán llevar, también, los sigu
 
 3°) El de integraciones y de asistencia al tribunal en el que anotarán diariamente los nombres de los miembros que no hayan asistido, con expresión de la causa de esta inasistencia, y de los funcionarios o abogados que hayan sido llamados a integrar; y
 
-4°) El libro a que se refiere el artículo 89.
+4°) Eliminado.
 
 #### Artículo 387
 
@@ -4188,7 +4184,7 @@ Los receptores ejercerán sus funciones en todo el territorio jurisdiccional del
 
 Para cada comuna o agrupación de comunas que constituya el territorio jurisdiccional de juzgados de letras, habrá el número de receptores que determine el Presidente de la República, previo informe favorable de la respectiva Corte de Apelaciones.
 
-Sin perjuicio de lo anterior, podrá el tribunal de la causa designar receptor a un empleado de la secretaría del mismo tribunal para el solo efecto de que practique una diligencia determinada que no pueda realizarse por ausencia, inhabilidad u otro motivo calificado, por los receptores judiciales a que se refiere el inciso anterior. Esta designación deberá hacerse mediante resolución fundada, escrita en el libro establecido en el inciso final del artículo 384, dejándose constancia en el respectivo expediente.
+Sin perjuicio de lo anterior, podrá el tribunal de la causa designar receptor a un empleado de la secretaría del mismo tribunal para el solo efecto de que practique una diligencia determinada que no pueda realizarse por ausencia, inhabilidad u otro motivo calificado, por los receptores judiciales a que se refiere el inciso anterior. Esta designación deberá hacerse mediante resolución fundada, registrada electrónicamente conforme a lo dispuesto en el número 3º del artículo 384, dejándose constancia en el respectivo expediente.
 
 La persona designada prestará el juramento exigido por el artículo 471 ante el mismo tribunal; practicará la diligencia encomendada ciñéndose a las obligaciones impuestas por el artículo 393, y quedará facultada para cobrar los derechos que correspondan de acuerdo con el arancel de receptores judiciales.
 
@@ -4198,11 +4194,11 @@ Las disposiciones de los dos incisos anteriores no tendrán aplicación en los j
 
 #### Artículo 393
 
-Los receptores deberán cumplir con prontitud y fidelidad las diligencias que se les encomienden, ciñéndose en todo a la legislación vigente, y dejar testimonio íntegro de ellas en los autos respectivos.
+Los receptores deberán cumplir con prontitud y fidelidad las diligencias que se les encomienden, ciñéndose en todo a la legislación vigente, y dejar testimonio íntegro de ellas en la carpeta electrónica respectiva.
 
 Toda falsedad en un testimonio castigada por la ley llevará consigo la pena accesoria de inhabilitación especial perpetua para desempeñar funciones en la Administración de Justicia, sin perjuicio de las otras penas accesorias que procedan en conformidad con la ley.
 
-Los receptores sólo podrán retirar de la secretaría del tribunal las piezas del expediente que sean estrictamente necesarias para la realización de la diligencia que deban efectuar. El expediente o el respectivo cuaderno, en su caso, deberán devolverse a la secretaría del tribunal dentro de los dos días hábiles siguientes a la fecha en que se practicó la diligencia, con la debida constancia de todo lo obrado. Todo incumplimiento a las normas de este inciso constituirá falta grave a las funciones y será sancionado por el tribunal, previa audiencia del afectado, con alguna de las medidas contempladas en los números 2, 3 y 4 del artículo 532. En caso de reincidencia, el juez deberá aplicar la medida de suspensión de funciones por un mes.
+Los receptores sólo podrán acceder a las causas a través del sistema de tramitación electrónica del Poder Judicial para la realización de las diligencias que deban efectuar, debiendo dejar en la carpeta electrónica constancia de todo lo obrado. Todo incumplimiento a las normas de este inciso constituirá falta grave a las funciones y será sancionado por el tribunal, previa audiencia del afectado, con alguna de las medidas contempladas en los números 2, 3 y 4 del artículo 532. En caso de reincidencia, el juez deberá aplicar la medida de suspensión de funciones por un mes.
 
 Los receptores sólo podrán hacer uso del auxilio de la fuerza pública que decrete un tribunal para la realización de la determinada diligencia respecto de la cual fue autorizado. El uso no autorizado o el anuncio o la amenaza de uso del auxilio de la fuerza pública sin estar decretado, será sancionado en la forma prevista en el N° 4 del artículo 532 de este Código.
 
@@ -5188,7 +5184,7 @@ Los depósitos a la orden judicial ganarán el interés que, para estos efectos,
 
 En los lugares en que no exista oficina del Banco del Estado, el depósito deberá hacerse en alguna Tesorería Comunal. El tesorero, en el plazo de cinco días, deberá enviar los fondos que se le hayan entregado a la oficina del Banco en que tenga su cuenta el tribunal a cuya orden se consignan los fondos.
 
-Los secretarios de las Cortes y los secretarios o administradores de los tribunales llevarán un libro en que anotarán los depósitos consignados a la orden del tribunal, con indicación de la fecha, nombre, juicio o proceso en que inciden y de los giros que se hagan.
+Los secretarios de las Cortes y los secretarios o administradores de los tribunales llevarán un registro electrónico en que anotarán los depósitos consignados a la orden del tribunal, con indicación de la fecha, nombre, juicio o proceso en que inciden y de los giros que se hagan.
 
 No obstante lo dispuesto en los incisos anteriores, continuarán consignándose en arcas fiscales, en conformidad a las disposiciones que estaban vigentes el 21 de septiembre de 1939 y especialmente a las de la ley N° 5.493, los dineros que para responder al pago de multas debían consignarse en dichas arcas.
 
@@ -5218,11 +5214,9 @@ El título de abogado será otorgado en audiencia pública por la Corte Suprema 
 
 En la audiencia indicada, después que el postulante preste juramento de desempeñar leal y honradamente la profesión, el Presidente del Tribunal, de viva voz lo declarará legalmente investido del título de abogado.
 
-De lo actuado se levantará acta autorizada por el Secretario en un libro que se llevará especialmente con este objeto.
+De lo actuado se levantará acta autorizada por el Secretario en un registro electrónico que se llevará especialmente con este objeto.
 
 En seguida se entregará al abogado el título o diploma que acredite su calidad de tal, firmado por el Presidente del Tribunal, por los Ministros asistentes a la audiencia respectiva y por el Secretario.
-
-Inciso suprimido.
 
 #### Artículo 523
 
@@ -5292,7 +5286,7 @@ Podrán también los jueces de letras, para la represión o castigo de las falta
 
 1°) Mandar devolver el escrito con orden de que no se admita mientras no se supriman las palabras o pasajes abusivos;
 
-2°) Hacer tarjar por el secretario esas mismas palabras o pasajes abusivos; y dejar copia de ellos en un libro privado que al efecto habrá en el juzgado;
+2°) Hacer tarjar por el secretario esas mismas palabras o pasajes abusivos; y dejar copia de ellos en un registro electrónico privado que al efecto habrá en el juzgado;
 
 3°) Exigir firma de abogado para ese escrito y los demás que en adelante presente la misma parte, cuando ésta no esté patrocinada por un abogado en conformidad a la ley;
 

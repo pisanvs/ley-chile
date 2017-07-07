@@ -4956,7 +4956,9 @@ m) Santiago, con treinta y dos jueces, agrupados en dos juzgados, con dieciséis
 
 San Miguel con cuatro jueces, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
 
-San Bernardo, con dos jueces, con competencia sobre las comunas de San Bernardo y Calera de Tango, y Puente Alto, con dos jueces, con competencia sobre las comunas de la Provincia Cordillera.
+San Bernardo, con tres jueces, con competencia sobre las comunas de San Bernardo y Calera de Tango, y
+
+Puente Alto, con dos jueces, con competencia sobre las comunas de la Provincia Cordillera.
 
 n) Decimocuarta Región de los Ríos:
 
@@ -4965,6 +4967,8 @@ Valdivia, con dos jueces, con competencia sobre las comunas de Valdivia y Corral
 o) Décima Quinta Región, de Arica y Parinacota:
 
 Arica, con dos jueces, con competencia sobre las comunas de las provincias de Arica y Parinacota.
+
+> **Nota.** El numeral i de la letra g) del numero 1° del artículo 3°, de la ley 21017, publicada el 07.07.2017, modifica la presente norma en el sentido de reemplazar la expresión "Santiago con treinta y dos jueces, agrupados en dos juzgados, con dieciséis jueces cada uno" por "Santiago con treinta y ocho jueces, agrupados en dos juzgados, con diecinueve jueces cada uno", con lo que se agregan 3 jueces a cada juzgado. El inciso segundo del artículo primero transitorio de la citada ley establece que esta modificación entrará en vigencia transcurrido un año desde su publicación; no obstante, dispone además que uno de los tres jueces que para cada uno de ellos se contemplan se incorporará desde la publicación de la citada norma.
 
 #### Artículo 416
 
@@ -4976,7 +4980,7 @@ b) Concepción, con dos jueces, con competencia sobre las comunas de Concepción
 
 c) San Miguel, con dos jueces, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo, y
 
-d) Santiago, con ocho jueces, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo.
+d) Santiago, con nueve jueces, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo.
 
 #### Artículo 417
 
