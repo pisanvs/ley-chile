@@ -79,3 +79,23 @@ La restricción de altura para el área "f" quedará determinada por la superfic
 Anótese, tómese razón, regístrese, comuníquese y publíquese en el Diario Oficial.- MICHELLE BACHELET JERIA, Presidenta de la República.- José Antonio Gómez Urrutia, Ministro de Defensa Nacional.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que se transcribe para su conocimiento.- Paulina Vodanovic Rojas, Subsecretaria para las Fuerzas Armadas.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de Infraestructura y Regulación
+
+Cursa con alcance el decreto N° 217, de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas
+
+N° 21.291.- Santiago, 12 de junio de 2017.
+
+La Contraloría General ha dado curso al instrumento del rubro, que aprueba el Plano PP-16-01, que determina la Zona de Protección del Aeródromo "El Bosque", ubicado en la comuna de igual denominación, confeccionado por la Dirección General de Aeronáutica Civil -que había sido sancionado anteriormente por los decretos Nos 414 y 592, ambos de 2016, de esa cartera ministerial, los que fueron representados por los oficios N os 70.673 y 94.040, de igual anualidad, de este origen, respectivamente-, por cuanto se han corregido suficientemente los reparos formulados en este último documento.
+
+Con todo, cabe precisar que, acorde con lo graficado en el plano de que se trata, los arcos para definir el ÁREA "d" se trazan a partir del punto medio de los extremos de la franja de pista -esto es, desde la intersección de los extremos de dicha franja con la proyección del eje de la misma-, y no "desde los extremos de la franja de pista", como prevé la letra C, del número 2, del acto en examen.
+
+Saluda atentamente a Ud., Jorge Bermúdez Soto, Contralor General de la República.
+
+Al señor
+
+Ministro de Defensa Nacional
+
+Presente.
