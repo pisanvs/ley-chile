@@ -34,23 +34,9 @@ Placa única : DBXP.48
 
 FISCAL REGIONAL II REGIÓN DE ANTOFAGASTA:
 
-Vehículo : Automóvil
+Derogado.
 
-Marca : MG
-
-Modelo : MG 750 AT 2.5 V6
-
-Año : 2011
-
-Motor : 25K4F A050000546
-
-Color : Blanco
-
-I.N.R.V.M. : DCBB.37-1
-
-Placa única : DCBB.37
-
-DEJA SIN EFECTO
+DEJA SIN EFECTO.
 
 #### Artículo segundo
 
