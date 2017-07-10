@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN Nº 782 EXENTA, DE 16 DE FEBRERO DE 2017
+
+Por la presente resolución exenta se han modificado las resoluciones exentas Nº 12.862, de 1999; 5.926, de 2001; 1.264, de 2002 y 679, de 2014, todas del Ministerio de Educación, que aprobaron planes y programas especiales de estudio de 1º a 4º año de educación media, al Colegio Hispano Americano (Padres Escolapios), Comuna y Provincia de Santiago, Región Metropolitana, en el sentido de sustituir su plan de estudio de 1º a 4º año de educación media por los que se indican en la presente resolución exenta y aprobar los programas especiales de estudio del Plan de Formación Diferenciada Biólogo para los sectores de "Fundamentos de la Biología y Química General I"; "Fundamentos de la Física General" para 3º año de educación media y "Fundamentos de la Biología y Química General II" e "Histología, Farmacología y Salud" para 4º año de educación media. Y el programa especial de estudio del Plan de Formación Diferenciada Matemático para el sector de "Aplicaciones de la Física" para 4º año de educación media.
+
+Santiago, 16 de febrero de 2017.- Javier Jiménez Díaz, Subsecretario de Educación (S).
