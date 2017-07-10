@@ -20,7 +20,7 @@ Resuelvo:
 
 A. Magdalena Sofía Fernández Bolaños, abogada, contrata Grado 7º de la EUS, de la Subsecretaría de Educación.
 
-B. María Verónica León Bravo, abogada, contrata Grado 6º de la EUS, de la Subsecretaría de Educación.
+B) MARÍA JESÚS SAN MARTÍN RODRÍGUEZ, abogada, contrata grado 7° de la EUS, de la Subsecretaría de Educación.
 
 2. Por razones impostergables de buen servicio se hará efectiva esta subrogación en forma inmediata, sin esperar su total tramitación.
 
