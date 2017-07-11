@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN N° 2.916 EXENTA, DE 27 DE JUNIO DE 2017
+
+Por resolución exenta Nº 2.916, de 27 de junio de 2017, de este Servicio, que implementa y regulariza de oficio las inscripciones en el Registro Pesquero Artesanal se incorporan de conformidad con las reglas establecidas en el numeral 4º letras a) y b) de peces y crustáceos de la resolución exenta Nº 3.115, de 2013, en virtud de lo dispuesto en resuelvo 2º de la resolución exenta Nº 1.838, del 2017, que la modifica, ambas de la Subsecretaría de Pesca y Acuicultura, el recurso Atún Lanzon como especie asociada a la pesquería del Pez Espada con el aparejo de pesca palangre, entre la XV y la X regiones y a la pesquería de la Merluza del Sur con el aparejo de pesca espinel, en la X Región, a los armadores artesanales y/o pescadores artesanales propiamente tales inscritos y activos en el Registro Artesanal entre la XV y la X región.
+
+El texto íntegro de la resolución indicada se encuentra publicado con esta fecha en el sitio de dominio electrónico del Servicio Nacional de Pesca y Acuicultura y en el de la Subsecretaría de Pesca y Acuicultura.
+
+En Valparaíso, 27 de junio de 2017.- José Miguel Burgos González, Director Nacional, Servicio Nacional de Pesca y Acuicultura.
