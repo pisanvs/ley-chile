@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 488 EXENTA, DE 21 JUNIO DE 2017
+
+Por resolución exenta N° 488, de 21 de junio de 2017, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, aprobó los planes y programas del curso B, de "Escuela de Conducción Mostazal E.I.R.L", conducente a la obtención de Licencias de Conductor No Profesionales Clase B. La Escuela de Conductores, de propiedad de Servicios de Capacitación Claudia Andrea Riquelme Medina E.I.R.L, representada legalmente por Claudia Andrea Riquelme Medina quien actuará también como Directora. Su sede estará ubicada en Sitio 47B ST47PP Patria Nueva, comuna de San Francisco de Mostazal. Las horas pedagógicas autorizadas a la referida Escuela son 08 horas teóricas, 12 horas prácticas, con un total de 20 horas pedagógicas.-
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
