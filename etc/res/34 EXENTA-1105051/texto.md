@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) DEL PROYECTO "MODIFICACIÓN RCA N° 137/2001 Y RCA N° 254/2006. PLANTA DE TRATAMIENTO DE RILES. BAHÍA CHACABUCO"
+
+De conformidad con lo dispuesto en el artículo 94 del DS. N° 40/2012 del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que mediante resolución exenta N° 34 de fecha 3 de julio de 2017 del Director Regional del SEA Aysén, se ha resuelto dar inicio a un proceso de participación ciudadana en la DIA del Proyecto "Modificación RCA N° 137/2001 y RCA N° 254/2006, Planta de Tratamiento de Riles. Bahía Chacabuco", cuyo titular es "Marine Harvest Chile S.A.", y el cual se pretende desarrollar en la comuna de Aysén, específicamente al interior de las instalaciones de la Planta de Procesos que posee la empresa en Puerto Chacabuco.
+
+Lo anterior, conforme el Proyecto corresponde a aquellos que provocan cargas ambientales, es decir generan beneficios sociales y externalidades ambientales negativas en las localidades próxima durante su construcción u operación, en consideración a que se configuran dos de las tipologías que hacen obligatorio su ingreso al SEIA, a saber, las contempladas en el artículo 3°, letras o.6) y o.7) del DS. 40/2012, referidas a emisarios submarinos y sistemas de tratamiento y/o disposición de residuos industriales líquidos, que den servicio de tratamiento a residuos provenientes de terceros, respectivamente.
+
+Cualquier persona natural o jurídica podrá realizar observaciones al Proyecto ante la Dirección Regional del SEA Aysén, para lo cual tendrán un plazo legal de 20 días hábiles, contados desde la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas del SEA, Aysén, ubicadas en Avda. Ogana 759, Coyhaique. Además, puede accederse a ella a través del sitio web www.sea.gob.cl.
+
+Claudio Aguirre Ramírez, Director Regional del Servicio de Evaluación Ambiental Región de Aysén.
