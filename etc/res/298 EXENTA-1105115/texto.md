@@ -1,0 +1,5 @@
+RATIFICA RESOLUCIÓN Nº 1, DE FECHA 3 DE ABRIL DE 2017, DE JEFE DIVISIÓN BENEFICIOS QUE INVALIDA LA RESOLUCIÓN 108 EXENTA, DE FECHA 12 DE FEBRERO DE 2016, QUE RECHAZÓ SOLICITUD DE PAGO CON SUBROGACIÓN PRESENTADA POR DON HUMBERTO MERIÑO MONTERO
+
+Por resolución exenta Nº 298, de 27 de junio de 2017, del Director Nacional del Instituto de Previsión Social, se ratifica en todas sus partes la Resolución singularizada en la referencia, de la Jefa de la Unidad de Exonerados Políticos del Subdepartamento Leyes Reparatorias y Convenios Internacionales debiendo retrotraerse el procedimiento de Pago con Subrogación solicitado por don Humberto Meriño Montero, al estado de efectuarse el análisis de causal por la Unidad Exonerados Políticos.
+
+Santiago, 6 de julio de 2017.- Patricio Coronado Rojo, Director Nacional.
