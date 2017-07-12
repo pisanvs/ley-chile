@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LA LABOR DE "TÉCNICO PARAMÉDICO/AUXILIAR DE ENFERMERÍA/TENS DE LA UNIDAD O SERVICIO DE URGENCIA O EMERGENCIA ADULTO", DESARROLLADA PARA EL EMPLEADOR "COMPLEJO ASISTENCIAL DR. SÓTERO DEL RÍO"
+
+Por resolución exenta Nº 280, de 12 de junio de 2017, del Director Nacional del Instituto de Previsión Social, se califica e incorpora al Listado Oficial de Actividades e Industrias Diversas calificadas como Trabajo Pesado, la labor de "Técnico Paramédico/Auxiliar de Enfermeríal/Tens de la Unidad o Servicio de Urgencia o Emergencia Adulto", que desempeñara doña Mariana Salomé Faúndez Albornoz, para el empleador citado en la referencia, correspondiendo aplicar una rebaja de edad de 1X5 (un año por cada cinco años de labores pesadas), con la finalidad de impetrar su jubilación por vejez, con rebaja de edad.
+
+Santiago, 6 de julio de 2017.- Patricio Coronado Rojo, Director Nacional.
