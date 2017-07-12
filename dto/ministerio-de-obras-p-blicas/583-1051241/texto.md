@@ -34,7 +34,7 @@ S/R, Acceso Sur a Puerto Varas.
 
 Ruta 215 CH, Cruce Longitudinal (Osorno) - Paso Cardenal Samoré.
 
-Ruta 225 CH, Cruce Longitudinal (Puerto Varas) - Ensenada - Paso Pérez Rosales.
+Ruta 225 CH: Puerto Varas (Cruce Av. Los Colonos/Av. Vicente Pérez Rosales) - Ensenada - Paso Pérez Rosales.
 
 Ruta 226, Cruce Longitudinal (Puerto Montt) - El Tepual.
 
