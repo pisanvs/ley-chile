@@ -42,7 +42,7 @@ Decreto:
 
 #### Artículo 1
 
-Declárase alerta sanitaria por enfermedades respiratorias en las regiones Metropolitana, de Valparaíso y del Biobío.
+Declárase alerta sanitaria por enfermedades respiratorias en las regiones Metropolitana, de Valparaíso, de Magallanes y Antártica Chilena y del Biobío.
 
 #### Artículo 2
 
@@ -68,7 +68,7 @@ En forma excepcional y mientras se mantenga la alerta sanitaria, podrán contrat
 
 4. Reasignar servicios clínicos y unidades de apoyo de la Red Asistencial de Salud.
 
-5. Contratar, para que se desempeñen en establecimientos de atención primaria de salud de la Red Asistencial del respectivo Servicio de Salud, estudiantes que estén cursando sexto año en adelante de la carrera de Medicina, y séptimo semestre en adelante de las carreras de Enfermería y de Kinesiología, impartidas por universidades reconocidas oficialmente en Chile; para ello, deberán calificar sus labores como funciones de colaboración médica, las que desarrollarán bajo la supervisión de un médico cirujano, entregándoles la correspondiente implementación de elementos de protección personal requerida.
+5. Contratar, para que se desempeñen en establecimientos de la Red Asistencial del respectivo Servicio de Salud, estudiantes que estén cursando sexto año en adelante de la carrera de Medicina, y séptimo semestre en adelante de las carreras de Enfermería y de Kinesiología, impartidas por universidades reconocidas oficialmente en Chile; para ello, deberán calificar sus labores como funciones de colaboración médica, las que desarrollarán bajo la supervisión de un médico cirujano, entregándoles la correspondiente implementación de elementos de protección personal requerida.
 
 6. Suspender las cirugías electivas y programadas, que no sean de urgencia. Los directores a quienes esta facultad se les confiere deberán fundamentar su ejercicio ante la Subsecretaría de Redes Asistenciales a solicitud de ésta y, en todo caso, informarle sobre todos los aspectos relacionados con la misma; sin perjuicio de las instrucciones que sobre el particular imparta la Subsecretaria de Redes Asistenciales.
 
