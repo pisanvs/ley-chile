@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 407 EXENTA, DE 16 DE MARZO DE 2017
+
+Por resolución exenta Nº 407, de 16 de marzo de 2017, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule, se aprueba el programa de enseñanza a la Escuela de Conductores No Profesionales o Clase B, denominada Escuela de Conductores Albatros SpA, RUT Nº 76.680.302-4. La Escuela de Conductores tendrá como Directora a doña Mircia Elizabeth Salazar Díaz, Cédula Nacional de Identidad Nº 11.963.655-8 y su sede estará ubicada en Sargento Aldea Nº 2311-D, comuna de San Javier. Las horas pedagógicas autorizadas a la referida Escuela son 10 horas teóricas, 12 horas prácticas, con un total de 22 horas pedagógicas.-
+
+Patricia Miranda Salas, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
