@@ -1,0 +1,19 @@
+RECTIFICA ENMIENDA AL PLAN REGULADOR COMUNAL DE MEJILLONES
+
+Núm. 2.150.- Mejillones, 6 de julio de 2017.
+
+Vistos:
+
+El Acta de Proclamación del Tribunal Electoral Regional de Antofagasta, de fecha 29 de noviembre de 2016. En virtud a los resulto en la Sentencia de Escrituras y Calificación de la elección Municipal de Alcalde, efectuada en la comuna de Mejillones, el 23 de octubre de 2016, rol electoral 102/2016 y de acuerdo con lo previsto en los artículos 127 y 128 de la ley N° 18.695. El acta de Constitución y juramento, de fecha 6 de diciembre de 2016, emitida por el Secretario Municipal; Plan Regulador publicado en el Diario Oficial el 11 de noviembre de 2000, acta Sesión de Concejo Municipal N° 22/2016, de fecha 4 de julio de 2016, que aprueba el proyecto de Enmienda consistente en la Relocalización de equipamiento vecinal en el Sector del Barrio Salvador Allende y da inicio al proceso de conocimiento, difusión y participación ciudadana; Certificado emitido por la Secretaria Municipal, N° 40/2016, de fecha 1 de diciembre de 2016, dando cuenta que el proceso de Relocalización de Equipamiento Vecinal en el Sector del Barrio Salvador Allende ha sido llevado según lo dispuesto en la Ordenanza General de Urbanismo y Construcciones artículo 2.1.30; Información mediante cartas certificadas a vecinos, organizaciones territorialmente constituidas que estén involucradas sobre el proceso de Enmienda de fecha 17 de agosto de 2016; Aviso en medio radial en la comuna, indicando horas y fechas para audiencias públicas del 12 al 17 de agosto de 2016; Exposición del proyecto de Enmienda para conocimiento de los vecinos y comunidad en general acompañada de la memoria explicativa y un libro para formular observaciones desde el 24 de agosto al 4 de octubre de 2016; Audiencias públicas para exponer el proyecto a la comunidad, la 1ª con fecha 5 de octubre de 2016 y la 2ª con fecha 12 de octubre de 2016, Opinión del Consejo Económico y Social Comunal de fecha 22 de agosto de 2016; Aprobación del Concejo Municipal del proceso de enmienda en sesión N° 39/2016 de fecha 15 de noviembre de 2016; Exposición al Concejo Municipal del proyecto de rectificación a la enmienda de relocalización de equipamiento vecinal Barrio Salvador Allende en sesión N° 29/2017 de fecha 12 de junio de 2017; Sesión Extraordinaria N° 30/2017 de fecha 22 de junio de 2017 por la cual el Concejo Municipal aprueba rectificación de enmienda; lo dispuesto en la Ley General de Urbanismo y Construcciones y en uso de las facultades que me confiere la Ley Orgánica Constitucional de Municipalidades.
+
+Decreto:
+
+1.- Rectifíquese enmienda al plan regulador comunal de Mejillones publicada en el Diario Oficial de fecha 19 de diciembre de 2016 en el tenor que se señala a continuación.
+
+2.- Enmiéndese el Plan Regulador Comunal de Mejillones, publicado en el Diario Oficial el 11 de noviembre de 2000, en el sentido de modificar el Uso de Suelo del equipamiento y área verde, establecido en el Plano de Loteo resolución N° 13/2006, 20 de julio 2006, correspondiente a "Construcción y Urbanización 241 viviendas (16 Comités) del F.S.V. 63 viviendas (4 Comités) del F.S.V. Comuna de Mejillones 2004", Población Salvador Allende Gossens, inscrito en el CBR, bajo el número 1012, con fecha 23/07/2007.
+
+3.- Relocalícese el área definida como equipamiento 1, ubicado en la calle Esterlinda Pizarro, entre calles Zenobia Jiménez y calle Domingo Barraza, con una superficie correspondiente a 1.217 m2, al sector definido como área verde en calle Luisa Palacios Hidalgo con calle Jorge Aliaga Palma, ocupando una superficie de 993,375 m2.
+
+4.- Publíquese el presente decreto en la página web del municipio Portal Transparencia, Diario Oficial de Chile e inscríbase en el Conservador de Bienes Raíces.
+
+Anótese, comuníquese y archívese.- Sergio Vega Venegas, Alcalde.- Samuel Hidalgo Palacios, Secretario Municipal.
