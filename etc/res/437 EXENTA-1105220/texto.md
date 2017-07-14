@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 437 EXENTA, DE 14 DE JUNIO DE 2017
+
+Por resolución exenta Nº 0437, de 14 de junio de 2017, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y Antártica Chilena, se ha declarado extinto el contrato de la Concesión Uno (1) aprobado mediante resolución Nº 314, de 28 de octubre de 2004, con vigencia en la Región de Magallanes y Antártica Chilena, en la cual operaba la Planta de Revisión Técnica Clase AB1201, ubicada en la comuna de Punta Arenas y AB1202, comuna de Natales, perteneciente al concesionario Servicios Automotrices Denham Limitada y se ha dispuesto la devolución de la totalidad de las pólizas y/o boletas de Garantía de Fiel Cumplimiento del Contrato de Concesión.-
+
+Gabriel Muñoz Obando, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Magallanes y Antártica Chilena.
