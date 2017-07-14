@@ -46,7 +46,7 @@ Color de Orla: Azul reflectante.
 
 Color de flecha, letras y números: Azul reflectante.
 
-Forma: Largo de la placa: 136 cm; Ancho de la placa: 36 cm. Además, la placa será redondeada en todos sus vértices.
+Forma: Largo de placa 110 cm y ancho de la placa 30 cm. Además, la placa será redondeada en todos sus vértices.
 
 2. Las señales de tránsito Nombre y Numeración de Calles (IV-3) deberán cumplir con los requerimientos mínimos de retrorreflectividad señalados en el punto 2.1.3.4 del capítulo 2 del Manual de Señalización de Tránsito.
 
