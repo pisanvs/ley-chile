@@ -2,7 +2,7 @@ CERTIFICA EXTINCIÓN DE CONCESIONES DE SERVICIO DE RADIODIFUSIÓN SONORA DE MÍN
 
 Santiago, 6 de junio de 2017.- Con esta fecha se ha decretado lo que sigue:
 
-Núm. 365 exento.
+Núm. 305 Exento.
 
 Vistos:
 
