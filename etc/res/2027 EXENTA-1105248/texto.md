@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE QUILLOTA
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 2.027, de 3 de abril de 2017, conforme artículo 5º transitorio Código de Aguas complementó la resolución exenta Nº 869, de 25 de junio de 1987, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas del Proyecto de Parcelación "Rauten Bajo", formado entre otros predios, por los denominados "Hijuela Carolmo o Séptima de la Hacienda o Fundo Rautén" e "Hijuela Huingán o Cuarta", ubicados en la comuna de Quillota, Región de Valparaíso, en el sentido de establecer que el Canal El Molino extrae las aguas del álveo río Aconcagua, ubicado en la Provincia de Aconcagua, Región de Valparaíso y que la toma de este canal nace de dicho río en la Provincia de Quillota, y establece además, que los derechos de aprovechamiento son superficiales y corrientes, de carácter consuntivo, ejercicio permanente y continuo. Publicación hecha conforme artículo 13º ley Nº 18.377.-
+
+Director Nacional.
