@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 559 de 23 de junio de 2017, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió los lotes de terreno 4 y 5, Rol de avalúo 537-173, Comuna de Curicó, superficie 80 y 101 m2. respectivamente, para la obra REPOSICION PUENTE COLORADO EN RUTA J-615, comuna de Curicó, provincia de Curicó, VII Región del Maule. La comisión de peritos, integrada por Patricio Ulises Durán Marcos, Rodrigo Antonio Silva Lazo y Alicia Bárbara Flores Pacheco, fijó el valor de tasación con fecha 01 de septiembre de 2015, acordándose la indemnización con su propietaria MARTA VIVIANA ROJAS MONTECINO, en la cantidad de $20.257.482.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscalía MOP.
