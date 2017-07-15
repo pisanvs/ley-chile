@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 630, de 23 de junio de 2017, y de conformidad con la facultad otorgada en el art. 3º letra a), 10º letra c), 14º letra e) y 105 del DFL MOP. Nº 850, de 1997, se expropiaron los lotes de terreno 75 y 75-A, superficie 816 y 292 m2 respectivamente, Rol 540-83, Comuna Saavedra, para la obra MEJORAMIENTO RUTA S-422 PTO. SAAVEDRA - EL ALMA - EL TEMO, SAAVEDRA, PROVINCIA CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por ENEDINA DEL CARMEN CID RAMÍREZ, PABLO ALEX MANSILLA ARAVENA y EVALDO ROBERTO CONTRERAS ROA, fijó el valor de tasación con fecha 21 de diciembre de 2012 y 28 de octubre de 2014, acordándose la indemnización con su propietaria ELIANA DEL ROSARIO BEJAR PILQUINAO, en la cantidad de $2.085.711.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.-
+
+Fiscalía MOP.
