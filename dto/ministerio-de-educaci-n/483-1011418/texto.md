@@ -44,7 +44,9 @@ Decreto:
 
 Declárase Monumento Nacional en la categoría de Monumento Histórico el Estadio Víctor Jara, ubicado en el Pasaje Arturo Godoy N° 2750, de la comuna y provincia de Santiago, Región Metropolitana.
 
-El área protegida tiene una superficie de 3.811,38 m2, según se señala en el polígono A-B-C-D-E-F-G-H-A del plano que se adjunta y que forma parte del presente decreto.
+Él área protegida tiene una superficie de 5.327,25 mts.2, como se grafica en el polígono con las letras A - B - C - D - E - F - G - H - I - J - K - L - A, del plano adjunto, que forma parte del presente decreto y cuyos límites son los siguientes:
+
+..
 
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Mónica Jiménez de la Jara, Ministra de Educación.
 
