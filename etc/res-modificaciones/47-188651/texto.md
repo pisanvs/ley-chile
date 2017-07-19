@@ -358,7 +358,7 @@ Zonas. Para los efectos de la aplicación del presente Plan Regulador y su Orden
 
 Áreas de Usos de Suelo, cuya sigla corresponde a la letra "U".
 
-En segundo lugar, por zonas que poseen normas de edificación y de usos en forma conjunta, que son las siguientes: Zonas de Equipamiento de Áreas Verdes, que se designan en el Plano con la sigla "AV"; Zonas de Equipamiento Deporte, cuya sigla en Plano corresponde a las letras ED; Zonas Especiales, que se indican en el Plano con la sigla "ESP"; Zonas de Resguardo de Equipamiento de Infraestructura, que se designan con la sigla "RI"; Zonas de Restricción, cuya sigla será la letra "R"; Zona de Protección Ecológica con Desarrollo Controlado, señalada en el Plano con la sigla "PEDC-3", los Inmuebles de Conservación Histórica, cuya sigla en el Plano será las letras "ICH" y las Zonas del Sector Centro cuyas siglas en elplano serán Z-AA1; Z-AA2; Z-AA+CB/CM; Z- AA+CM y Z-AM, las que se encuentran graficadas en el plano PRLF-1/07 y PRLF-2/07.
+En segundo lugar, por zonas que poseen normas de edificación y de usos en forma conjunta, que son las siguientes: Zonas de Equipamiento de Áreas Verdes, que se designan en el Plano con la sigla "AV"; Zonas de Equipamiento Deporte, cuya sigla en Plano corresponde a las letras ED; Zonas Especiales, que se indican en el Plano con la sigla "ESP"; Zonas de Resguardo de Equipamiento de Infraestructura, que se designan con la sigla "RI"; Zonas de Restricción, cuya sigla será la letra "R"; Zona de Protección Ecológica con Desarrollo Controlado, señalada en el Plano con la sigla "PEDC-3", los Inmuebles de Conservación Histórica, cuya sigla en el Plano será las letras "ICH" las Zonas del Sector Centro cuyas siglas en elplano serán Z-AA1; Z-AA2; Z-AA+CB/CM; Z- AA+CM y Z-AM, las que se encuentran graficadas en el plano PRLF-1/07 y PRLF-2/07 y las Zonas Residenciales Mixtas, cuya sigla será ZRM-DT, las que se encuentran graficadas en los planos PRLF-1 "Edificación" y PRLF-2 "Usos de Suelo.
 
 #### Artículo 26
 
@@ -396,6 +396,8 @@ VER DIARIO OFICIAL DE 17.08.2001, PAGINA 14.
 
 > **Nota.** NOTA 2 El artículo Único Nº 6 del Decreto 461 Exento, M. DE LA FLORIDA, publicado el 09.02.2015, modifica la presente norma en el sentido de reemplazar en el cuadro, las filas que en ella indica.
 
+> **Nota.** NOTA 3 El artículo 3° del Decreto 27, M. DE LA FLORIDA, publicado el 19.06.2017, modifica la presente norma en el sentido de agregar al final del cuadro, una nueva zona que en ella indica.
+
 ### 2. De los Usos de Suelo y Normas Específicas
 
 de Subdivisión Predial y Edificación.
@@ -419,6 +421,8 @@ VER DIARIO OFICIAL DE 17.08.2001, PAGINAS 15 - 18
 > **Nota.** NOTA 4 El Artículo 4° del Decreto 77, Vivienda, publicado el 04.03.2014, modifica la presente norma, en el sentido de establecer para la nueva Área E-AB6 (Edificación Aislada Baja densidad Nº 6), indicada en el nuevo Cuadro Nº 13, una superficie de Subdivisión Predial Mínima de 140 m2.
 
 > **Nota.** NOTA 5 El N° 7 del Artículo Único del Decreto 461 Exento, M. DE LA FLORIDA, publicado el 09.02.2015, modifica la presente norma, en el sentido de reemplazar las tablas Área E-AB1, Área E-AB2, Área E-AB3, Área E-AB4, Área E-AB5, Área E-AM1, Área E-AM2, Área E-AM3, Área E-AM4, Área E-AA1, Área E-AA2 y Área E-A1 por las nuevas tablas que en ella se indica.
+
+> **Nota.** NOTA 6 Los Numeros 1 y 2 del Artículo Único del Decreto 3514 Exento, M. de la Florida, publicada el 29.09.2016, modifican la presente norma en el sentido de indicar que en la tabla 7. Área E-AM2 aislada media densidad Nº 2, los parámetros para uso residencial que se indican: - En la columna "Coeficiente de constructibilidad", la celda que dice "1,56" debe decir "1,56*". - En la columna "Altura de edificación máxima (mt)", la celda que dice "10,5" debe decir "10,5**". - En la columna "Antejardín (mt)", la celda que dice "5" debe decir "5***".ademas Agréguese nota explicativa, inmediatamente a continuación de la tabla que se modifica, en el siguiente sentido: Excepcionalmente en el sector definido entre Av. Diego Portales por el norte, límite comunal por el sur, calle Eusebio Lillo por el oriente y Av. México por el poniente, se dispondrán las siguientes normas de edificación para el uso de suelo residencial: *: Coeficiente de constructibilidad 2,028. **: Altura de edificación máxima (mt) 12,6. ***: Antejardín (mt) 0. Las personas que sientan afectados sus derechos con la dictación del presente decreto podrán interponer los recursos de Reposición y Reclamo de Ilegalidad ante el Alcalde, dentro de los plazos que señala la legislación vigente, sin perjuicio de su derecho a interponer los recursos que le franquea la justicia ordinaria.
 
 #### Artículo 31
 
@@ -1648,7 +1652,11 @@ Densidad Neta
 
 Máxima Libre
 
-10. Disposiciones sobre Propaganda
+10. Zonas Residenciales Mixtas
+
+.
+
+11. Disposiciones sobre Propaganda
 
 La instalación de propaganda y publicidad en la propiedad pública y/o privada dentro del límite urbano comunal, deberá ceñirse a lo establecido en el artículo 2.7.10 de la Ordenanza General de Urbanismo y Construcciones, y a los procedimientos que señala la Ordenanza Local sobre Publicidad y Propaganda, respetando las exigencias estipuladas para la solicitud de permisos, diseño, instalación y mantención, en la medida que esta Ordenanza Local de Publicidad y Propaganda no contravenga lo dispuesto por la OGUC.
 
@@ -1661,6 +1669,8 @@ La instalación de propaganda y publicidad en la propiedad pública y/o privada 
 > **Nota.** NOTA 3 El artículo 1º Nº 19 del Decreto 766 Exento, M. DE LA FLORIDA, publicado el 19.03.2013, modifica la presente norma de la manera que la citada norma indica.
 
 > **Nota.** NOTA 4 El N° 9 del Artículo Único del Decreto 461 Exento, M. DE LA FLORIDA, publicado el 09.02.2015, introduce diversas modificaciones a los cuadros contenidos en la presente norma, en la forma que en ella se indica.
+
+> **Nota.** NOTA 5 El artículo único del Decreto 1747 Exento, M. de la Florida, publicado el 08.06.2015, modifica la presente norma. Algunas actualizaciones, no se ha incorporado al presente texto actualizado por razones técnicas temporales.
 
 ## Capítulo V
 
