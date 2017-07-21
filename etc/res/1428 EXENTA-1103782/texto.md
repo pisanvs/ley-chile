@@ -108,7 +108,11 @@ El ahorro deberá estar acreditado al último día hábil del mes anterior a la 
 
 10.- Los recursos disponibles para la selección de proyectos corresponden a 60.000 UF, distribuyéndose los recursos en dos procesos de selección. Para participar en este llamado, los proyectos deben contar con calificación hasta las siguientes fechas:
 
-.
+INGRESOS INGRESO DE PROYECTO A SERVIU FECHA SELECCIÓN
+
+1° 14.08.2017 08.09.2017
+
+2° 16.10.2017 10.11.2017
 
 La Seremi de Vivienda y Urbanismo Araucanía mediante resolución exenta asignará los recursos.
 
