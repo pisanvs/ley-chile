@@ -68,15 +68,17 @@ Esta misma condición aplicará cuando el postulante o su cónyuge, cuenten con 
 
 .
 
-*Las familias que hayan sido beneficiadas con un subsidio de acondicionamiento térmico el año 2008 o 2009. sólo podrán postular a:
+*Las familias que hayan sido beneficiadas con un subsidio de acondicionamiento térmico el año 2008 o 2009, sólo podrán postular a:
 
 - El subsidio base para alcanzar el estándar que se define en el respectivo PDA, lo cual se aplicará completando la solución constructiva existente.
 
 - Al Incremento por Regularización que se indica en la tabla precedente.
 
-**Al monto de subsidio de regularización se le podrán adicionar hasta 50 UF en casos de viviendas que no tengan ningún recinto con recepción final.
+* En casos de Viviendas con Pisos Ventilados, estos montos se podrán aumentar en 40 UF.
 
-***Este monto puede duplicarse cuando el elemento de la cubierta contenga asbesto, para realizar el recambio completo de este.
+** Al monto de subsidio de regularización se le podrán adicionar hasta 50 UF en casos de viviendas que no tengan ningún recinto con recepción final.
+
+*** Este monto puede duplicarse cuando el elemento de la cubierta contenga asbesto, para realizar el recambio completo de este.
 
 4.2.2 Para efectos de una correcta interpretación de la tabla precedente, deberán tenerse en consideración las definiciones que a continuación se indican:
 
@@ -84,9 +86,11 @@ Esta misma condición aplicará cuando el postulante o su cónyuge, cuenten con 
 
 Corresponde al monto de subsidio mínimo que se otorgará por cada beneficiario según la región a la que pertenezca.
 
-. Incremento por Complejidad Técnica:
+* Incremento por Complejidad Técnica:
 
-Corresponde a un monto de subsidio máximo, adicional al subsidio base, al que podrán optar los postulantes que pertenezcan hasta el tramo del 70% de Caracterización Socioeconómica, en los casos en que por las características técnico-constructivas de la vivienda supera las características de la vivienda tipo o modelo utilizada para la definición y cálculo del monto del subsidio base, que informa la DITEC para efectos del llamado, por lo que el proyecto requeriría un monto superior. Este subsidio adicional será diferenciado según el tramo de Caracterización Socioeconómica al que pertenezca la familia.
+Corresponde a un monto de subsidio máximo, adicional al subsidio base, al que podrán optar los postulantes que pertenezcan hasta el tramo del 70% de Caracterización Socioeconómica, en los casos en que por las características técnico-constructivas de la vivienda se superan las características de la vivienda tipo o modelo utilizada para la definición y cálculo del monto del subsidio base, conforme a lo informado por la División Técnica de Estudio y Fomento Habitacional (Ditec) para efectos del llamado, por lo que el proyecto requeriría un monto superior. Este subsidio adicional será diferenciado según el tramo de Caracterización Socioeconómica al que pertenezca la familia.
+
+Además, tratándose de viviendas que requieran la aislación de piso ventilado, al monto anterior se le podrán adicionar 40 UF para financiar el costo adicional que signifique la implementación de esta partida.
 
 . Incremento por Regularización:
 
@@ -186,11 +190,11 @@ Se pagará una vez que el subsidio haya sido ejecutado en su totalidad a conform
 
 En aquellos casos en que la vivienda haya debido ser regularizada con el subsidio, se deberá adjuntar la recepción definitiva otorgada por la DOM respectiva. En estos casos, al monto de subsidio a que se refiere la tabla inserta en el punto 8, se le adicionarán los incrementos por concepto de regularización descritos en la tabla inserta en el resuelvo 9 precedente, según corresponda. En estos casos sólo se pagará el 2° y el 3° pago de la Asistencia Técnica cuando se haya obtenido la recepción definitiva de la vivienda.
 
-3° Pago: Plan de Habilitación Social.
+3º Pago: Plan de Habilitación Social.
 
-Se realizará en conformidad a lo dispuesto en la reglamentación vigente. No obstante lo anterior, en atención a las particularidades climático-ambientales de cada región, se autorizará a que cada Serviu regional, si lo estimase conveniente, incorpore al Plan de Habilitación Social requisitos específicos en materia de difusión, capacitación u otro que pudiese contribuir al buen desempeño de las viviendas.
+Se realizará en conformidad a lo dispuesto en la reglamentación vigente, pero en este llamado el Plan de Habilitación Social (PHS) será aplicado a todos los beneficiarios, ya sea que hayan postulado individual o colectivamente. No obstante lo anterior, en atención a las particularidades climático-ambientales de cada región, se autorizará a que cada Serviu regional, si lo estimase conveniente, incorpore al Plan de Habilitación Social requisitos específicos en materia de difusión, capacitación u otro que pudiese contribuir al buen desempeño de las viviendas.
 
-En todo aquello que no se contraponga con lo dispuesto en la presente resolución, regirá lo establecido en la resolución exenta N°533 (V. y U.), de 1997.
+En todo aquello que no se contraponga con lo dispuesto en la presente resolución, regirá lo establecido en la resolución exenta N° 533 (V. y U.), de 1997.
 
 11. Autorízase a los Serviu de las regiones que participan del presente llamado, a utilizar los recursos de Asistencia Técnica en caso que dichos Servicios regionales deban asumir las referidas labores, según lo dispuesto en resolución exenta N° 8.312, de (V. y U.), año 2013.
 
