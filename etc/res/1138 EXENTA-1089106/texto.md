@@ -32,7 +32,7 @@ Resuelvo:
 
 2.- También podrán circular por esta vía exclusiva prioritaria, los siguientes vehículos:
 
-a) Vehículos de emergencia, del Programa Nacional de Fiscalización de la Subsecretaría de Transportes, de los municipios, destinados a cumplir funciones de seguridad ciudadana y de aquellos destinados para labores de mantención de la vía señalada, debidamente identificados como tales;
+a) Taxis básicos, ejecutivos y de turismo, vehículos de emergencia, vehículos del Programa Nacional de Fiscalización de la Subsecretaría de Transportes, vehículos municipales destinados a cumplir funciones de seguridad ciudadana y aquellos destinados para labores de mantención de la vía señalada, debidamente identificados como tales;
 
 b) Los vehículos no contemplados en la letra precedente que deban necesariamente utilizar en parte esta vía exclusiva con el único objetivo de acceder o egresar desde la correspondiente residencia o lugar de estacionamiento, siempre y cuando acrediten dicha circunstancia. Para tal efecto, deberán ingresar y salir de la vía exclusiva prioritaria en el cruce más próximo al lugar en que se ubique la respectiva residencia o estacionamiento.
 
