@@ -64,7 +64,7 @@ Para la aplicación de cualquiera de los incrementos señalados se requerirá qu
 
 3.2 Modalidad Daño Reparable Moderado y/o Mayor, para la asignación de Subsidios de Mejoramiento del Título II, en su tipología de Seguridad y Habitabilidad de la Vivienda del Programa de Protección del Patrimonio Familiar.
 
-Se aplicará para reparar daños estructurales severos que merman la capacidad de resistencia del inmueble, quedando comprometida su estabilidad, como también para reparar aquellos daños que no comprometan la estabilidad total de la edificación. Estos proyectos están asociados a una empresa constructora.
+Se aplicará para reparar daños estructurales severos que merman la capacidad de resistencia del inmueble, quedando comprometida su estabilidad, como también para reparar aquellos daños que no comprometan la estabilidad total de la edificación. Estos proyectos están asociados a una empresa constructora. Sin perjuicio de lo anterior, tratándose de viviendas catastradas ubicadas en zonas con características Patrimoniales, se podrá aplicar el subsidio en la modalidad señalada en el punto 3.1, del Resuelvo 3, es decir, para financiar la adquisición de materiales de construcción y para la contratación de servicios de construcción.
 
 Un proyecto se enmarca en esta modalidad, cuando:
 
@@ -97,6 +97,8 @@ c) Obras de reparación de paramentos interiores, como cielos o tabiques que hub
 Tras la aplicación de estos incrementos de subsidio, la vivienda deberá contar con recepción definitiva, si corresponde, y sus sistemas sanitarios en regla.
 
 4. Los montos, según los tipos de proyectos definidos en el numeral 3 anterior, serán los descritos en las siguientes tablas:
+
+.
 
 5. El monto de los recursos que se destinarán para la selección de los proyectos presentados al llamado a postulación del resuelvo 1. de esta resolución corresponderá a 300.000 UF.
 
@@ -152,6 +154,8 @@ De los Pagos de Asistencia Técnica y Fiscalización Técnica de Obras.
 
 8. El monto del subsidio para Asistencia Técnica y Fiscalización Técnica de Obras que recibirá cada familia beneficiada, y que Serviu pagará a la Entidad Patrocinante o al profesional señalado en el resuelvo 7.1.b), será el que corresponda al tipo de proyecto de que se trate, conforme a lo establecido en el resuelvo 3. de la presente resolución:
 
+.
+
 Los servicios de Organización de la Demanda, Desarrollo de Proyectos y Postulación del Proyecto serán pagados contra subsidio asignado, lo cual será acreditado mediante la resolución de Selección publicada en el Diario Oficial y el pago correspondiente al servicio de Gestión Técnica y Social de Proyectos, se verificará contra Recepción de Obras por parte del Serviu y/o de Recepción Municipal por la DOM respectiva, en aquellos proyectos que asi lo requierán.
 
 En todo aquello que no se contraponga con lo dispuesto en la presente resolución, regirá lo establecido en la resolución N° 533 (V. y U.), de 1997, en especial lo prescito en el numeral 52, de su articulo 6°, para los servicios de Organización de la Demanda y Postulación de Proyectos y Gestión de Proyectos y Fiscalización Técnica de Obras.
@@ -162,9 +166,9 @@ Del Pago de Subsidios.
 
 9.1 Los subsidios correspondientes a Proyectos con Daño Moderado y/o Mayor, con empresa constructora, se pagarán una vez que se certifique que las obras asociadas a dicho subsidio se encuentran terminadas, distinguiendo las siguientes formas de pago:
 
-9.1.1 Pagos por Avance Físico: Se podrá pagar de acuerdo al avance físico de obras, acreditado por el informe del fiscalizador técnico de obras visado por el Serviu, cuando la fiscalización técnica sea desarrollada por Consultores Externos. El Serviu, mediante resolución, determinará la frecuencia máxima de estos pagos. Si el proyecto contempló un permiso de edificación, se podrá pagar por esta modalidad hasta el 70% del proyecto terminado, previa recepción de las obras por el Serviu, quedando pendiente el 30% restante, hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
+9.1.1 Pagos por Avance Físico: Se podrá pagar de acuerdo al avance físico de obras, acreditado por el informe del fiscalizador técnico de obras visado por el Serviu, cuando la fiscalización técnica sea desarrollada por Consultores Externos. El Serviu, mediante resolución, determinará la frecuencia máxima de estos pagos. Si el proyecto contempló un permiso de edificación, se podrá pagar por esta modalidad hasta el 90% del proyecto terminado, previa recepción de las obras por el Serviu, quedando pendiente el 10% restante, hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
 
-9.1.2 Pagos por Obras Terminadas: Si el proyecto contempló un permiso de edificación y el contratista requiere el pago al finalizar la obra, se podrá pagar hasta el 70% del proyecto terminado, previa recepción de las obras por el Serviu, quedando pendiente el 30% restante hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
+9.1.2 Pagos por Obras Terminadas: Si el proyecto contempló un permiso de edificación y el contratista requiere el pago al finalizar la obra, se podrá pagar hasta el 90% del proyecto terminado, previa recepción de las obras por el Serviu, quedando pendiente el 10% restante hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
 
 9.2 El pago de los servicios de construcción y reparación correspondientes a Proyectos con Daño Reparable Moderado (Banco de Materiales), se realizará en 2 cuotas, correspondientes al 40% y 60%, respectivamente.
 
@@ -174,6 +178,22 @@ La Entidad Patrocinante o el profesional señalado en el resuelvo 7.1. b) deber�
 
 Disposiciones específicas para proyectos a ejecutar a través de Adquisición de Materiales y Contratación de Servicios de Construcción y Reparación para Daño Moderado.
 
+9.3 El pago de los servicios de construcción y reparación correspondientes a Proyectos con Daño Reparable Mayor en Zonas con características Patrimoniales (Banco de Materiales), se realizará en las siguientes 3 etapas:
+
+a) Etapa 1° Reparación: correspondiente al subsidio base, el cual se dividirá en 2 cuotas, equivalentes al 40% y 60%, de su monto, respectivamente.
+
+.
+
+Una vez ejecutada la etapa de reparación, se procederá a activar las Tarjetas de los incrementos y de regularización; para proceder a las otras etapas, la Entidad Patrocinante o el profesional señalado en el resuelvo 7.1.b) deberá generar un informe que dé cuenta que la reparación se encuentra ejecutada y recibida a conformidad por el beneficiario.
+
+b) Etapa 2° Incrementos: correspondientes a los incrementos por concepto de servicios sanitarios y de instalaciones eléctricas, señalados en las letras a) y b) del punto 3.1.3, del resuelvo 3, los cuales se liberarán en una sola cuota.
+
+.
+
+c) Etapa 3° Incremento por Regularización: correspondiente al incremento requerido para realizar el proceso de regularización de la vivienda intervenida, el cual se liberará en una sola cuota.
+
+.
+
 10. Apruébase el listado de materiales y herramientas que podrán ser adquiridos mediante los subsidios que se entreguen en virtud del presente llamado, el cual se adjunta como anexo a esta resolución, pasando a formar parte integrante de la misma. No obstante lo anterior, en caso de ser requerido, el Serviu podrá autorizar, mediante resoluciones fundadas, la incorporación a dicha nómina de nuevos materiales o herramientas.
 
 Los materiales deberán ser adquiridos en los establecimientos comerciales señalados por Serviu, los cuales serán informados al beneficiario al momento de entrega de la tarjeta.
@@ -182,7 +202,7 @@ Los materiales deberán ser adquiridos en los establecimientos comerciales seña
 
 11.1 Las familias acudirán a recibir la tarjeta de Banco de Materiales en el lugar que Serviu disponga para ello, lo que les será comunicado con antelación.
 
-11.2 Serviu entregará a las familias la tarjeta de Banco de Materiales sin activar, asociada a un subsidio base de 120 UF para viviendas ubicadas en zonas urbanas y 140 U.F. para viviendas en zonas rurales, además de los incrementos si corresponde, valor que será distribuido en un 60% para la compra de materiales y un 40% para la contratación de los servicios de construcción. Para la entrega de esta tarjeta, Serviu verificará que la familia beneficiada cuente con una Entidad Patrocinante o con un profesional del área de la construcción conforme al resuelvo 7.1. b), que se encuentre trabajando en un proyecto de reparación de su vivienda, con quien deberá suscribir un contrato para la prestación de servicios de asistencia técnica. Las familias con tarjetas entregadas y asociadas a una Entidad Patrocinante o a un profesional del área de la construcción serán beneficiadas a través de selecciones quincenales, según lo dispuesto en el resuelvo 1 de la presente resolución. Si los servicios de asistencia técnica se realizaran por un profesional del área de la construcción que no cuente con convenio marco vigente, conforme al resuelvo 7.1.b), este deberá acreditar su profesión al Serviu antes de efectuar la visita a la vivienda que se refiere resuelvo 14.2. de esta resolución.
+11.2 Serviu, entregará a las familias la tarjeta de Banco de Materiales sin activar, asociada a un subsidio base de 120 UF para viviendas ubicadas en zonas urbanas y 140 UF para viviendas en zonas rurales, y de 220 UF para daño mayor en zona de características patrimoniales en zonas urbanas y 240 UF para daño mayor en zona de características patrimoniales en zonas rurales, además de los incrementos si corresponde, valor que será distribuido en un 60% para la compra de materiales y un 40% para la contratación de los servicios de construcción.
 
 11.3 Una vez recibida la tarjeta de Banco de Materiales, las familias deberán contar con la asesoría de un Prestador de Servicios de Construcción, quien además de ejecutar la obra de reparación podrá desarrollar la propuesta de cubicación y presupuesto a las familias, o en caso contrario, será la Entidad Patrocinante quien deberá realizar esta función. El presupuesto será definido en pesos, con IVA incluido. Serviu será el encargado de activar las tarjetas entregadas a las familias una vez aprobado el presupuesto y cubicación de las obras.
 
