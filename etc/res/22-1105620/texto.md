@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO TITULAR Y SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA SERIE CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE VALDIVIA
+
+Por resolución SII Nº 22, de 30.06.2017, se designó a don Ramiro Enrique Cifuentes Alvarado, RUT. Nº 8.628.642-4, en la calidad de Secretario Titular, y a don Luis Enrique Rosales González, RUT. 10.061.955-5, en la calidad de Secretario Suplente en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Valdivia.
