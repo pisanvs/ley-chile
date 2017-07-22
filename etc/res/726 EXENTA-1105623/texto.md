@@ -1,0 +1,55 @@
+DISPONE LA REALIZACIÓN DEL PROCESO DE CONSULTA INDÍGENA QUE INDICA E INICIA PROCEDIMIENTO ADMINISTRATIVO, EN EL MARCO DE UNA NUEVA CONSTITUCIÓN PARA CHILE
+
+Santiago, 29 de junio de 2017.- Hoy se resolvió lo que sigue:
+
+Núm. 726 exenta.
+
+Visto:
+
+Lo dispuesto en el decreto con fuerza de ley N° 1/19.653, del Ministerio Secretaría General de la Presidencia, de 2000, que fija texto refundido, coordinado y sistematizado de la ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley N° 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los Órganos de la Administración del Estado; en la ley N° 20.530, que Crea el Ministerio de Desarrollo Social y modifica cuerpos legales que indica; en el artículo 34 de la ley N° 19.253, que Establece Normas sobre Protección, Fomento y Desarrollo de los Indígenas, y Crea la Corporación Nacional de Desarrollo Indígena; en el decreto supremo N° 15, de 2012, del Ministerio de Desarrollo Social, que Aprueba Reglamento del artículo 4° de la ley N° 20.530, que Crea el Ministerio de Desarrollo Social; en el artículo 6° N° 1 letra a) y N° 2 del Convenio N° 169 de la Organización Internacional del Trabajo, promulgado a través del decreto supremo N° 236, de 2008, del Ministerio de Relaciones Exteriores; en el decreto supremo N° 66, de 2013, del Ministerio de Desarrollo Social, que Aprueba el Reglamento que regula el procedimiento de consulta indígena en virtud del artículo 6 N° 1 letra a) y N° 2 del Convenio N° 169 de la Organización Internacional del Trabajo y deroga normativa que indica; en el decreto supremo N° 101, de 2010, del Ministerio de Planificación, que Crea Consejo de Ministros para Asuntos Indígenas; en la resolución exenta N° 387, de 2014, del Ministerio de Desarrollo Social que crea la Unidad Nacional de Consulta y Participación Indígena y Determina Estructura Secretaría Ejecutiva del Consejo de Ministros; en la resolución exenta N° 329, de 6 de mayo de 2016, del Ministerio de Desarrollo Social; en la resolución N° 1.600, de 2008, de la Contraloría General de la República, que Fija Normas sobre Exención del Trámite de Toma de Razón, y en las demás normas aplicables.
+
+Considerando:
+
+Que, para los Pueblos Indígenas el Reconocimiento Constitucional ha sido una aspiración histórica. En ese sentido, el Acuerdo de Nueva Imperial (1989), estableció entre otros puntos, la necesidad de reconocer constitucionalmente los derechos de éstos y elaborar un marco jurídico favorable para su desarrollo. Con posterioridad, en el año 2003, durante el Gobierno del Presidente Lagos, la Comisión de Verdad Histórica y Nuevo Trato con los Pueblos Indígenas presentó al Presidente de la República su informe final con propuestas referidas al reconocimiento constitucional.
+
+Que, considerando lo anterior, el Programa de Gobierno 2014-2018 de la Presidenta de la República, Sra. Michelle Bachelet Jeria, establece la necesidad de generar una nueva Constitución para Chile, que reconozca y se base en un sistema plenamente democrático, recogiendo las normas y principios de derechos humanos reconocidos en nuestro país y en el ámbito internacional, y que sea impulsada en un proceso democrático, institucional y participativo.
+
+Que, asimismo, establece, en el marco de la discusión de una nueva Constitución para Chile, el desafío impostergable de reconocer constitucionalmente a los Pueblos Indígenas y debatir ahí un nuevo modo de convivencia como sociedad pluricultural.
+
+Para estos efectos, señala que los Pueblos Indígenas y la sociedad en general serán actores fundamentales en este debate, comprometiéndose a garantizar su participación plena en todo el proceso, teniendo presente la idea de un Estado que reconoce la existencia de los pueblos indígenas, que garantice sus derechos individuales y colectivos.
+
+Que, el proceso constituyente debe comprenderse como una política de Estado que impulsa el acuerdo y la participación de toda la sociedad en las diferentes instancias de conversación y deliberación.
+
+Que, en este sentido, el Programa de Gobierno 2014-2018 reconoce como deber del Estado la implementación de los tratados que ha ratificado en materia de derechos de los Pueblos Indígenas y la adecuación de su legislación para que sea acorde a dichos estándares. Asimismo, reitera la necesidad de efectuar un reconocimiento e implementación efectiva de sus derechos, teniendo por delante distintos desafíos, siendo el proceso constituyente la instancia propicia para el debate de un nuevo modo de convivencia como sociedad pluricultural.
+
+Que, mediante resolución exenta N° 329, de 6 de mayo de 2016, del Ministerio de Desarrollo Social, se dispuso la realización del Proceso Participativo Constituyente Indígena, para recoger la visión de las instituciones representativas de los pueblos indígenas y sus integrantes sobre los desafíos históricos e impostergables, tales como su reconocimiento constitucional, el desarrollo de derechos colectivos y culturales, y la representación política indígena, entre otros temas, teniendo presente experiencias históricas relevantes tales como el Informe de la Comisión de Verdad Histórica y Nuevo Trato, del año 2001; e instrumentos internacionales como la Declaración de las Naciones Unidas sobre los Derechos de los Pueblos Indígenas, del año 2007; entre otras.
+
+Que, el Proceso Participativo Constituyente Indígena se realizó en todo el territorio chileno y tuvo tres modalidades de participación, a saber, encuentros convocados, encuentros auto convocados y participación individual, en los cuales participaron un total de 17.016 personas, entre los meses de mayo a diciembre de 2016, dando cumplimiento en lo pertinente al Convenio N° 169 de la Organización Internacional del Trabajo y a la ley N° 19.253.
+
+Que, el Proceso Participativo Constituyente Indígena culminó en un documento denominado "Sistematización del Proceso Participativo para la generación del Estatuto Constituyente Indígena", el que recoge las observaciones, propuestas y planteamientos formulados por los nueve pueblos indígenas durante el desarrollo del proceso y que fue entregado a la Presidenta de la República de Chile, Sra. Michelle Bachelet Jeria el día 4 de mayo de 2017, oportunidad en la cual señaló que: "las propuestas más relevantes que se expresan serán consideradas en el proyecto de una nueva Constitución que enviaremos al Congreso Nacional. Las normas referidas al reconocimiento constitucional y otros temas específicos de los pueblos indígenas, serán, naturalmente, sometidos a consulta indígena, tal y como prevé el Convenio 169 de la OIT".
+
+Que, con fecha 4 de marzo de 2014, entró en vigencia el decreto supremo N° 66, del Ministerio de Desarrollo Social, de 2013, que Aprueba el Reglamento que regula el procedimiento de consulta indígena en virtud del artículo 6 N° 1 letra a) y N° 2 del citado Convenio N° 169, y deroga normativa que indica.
+
+Que, las materias del Proceso Participativo Constituyente Indígena fueron discutidas con fecha 15 de junio de 2017 por el Consejo de Ministros para Asuntos Indígenas convocado para tal efecto, aprobándose por dicho organismo las temáticas que han de ser parte de la Consulta Indígena por ser estas las que se han de incorporar en la propuesta de Nueva Constitución para Chile y que son susceptibles de afectar directamente a los Pueblos Indígenas, encomendándose en la misma oportunidad al Ministerio de Desarrollo Social la tarea de coordinar y ejecutar la Consulta respectiva.
+
+Que, en dicho contexto se hace necesario realizar un Proceso de Consulta Indígena con las temáticas indicadas, de conformidad a lo dispuesto en el artículo 6° N° 1 letra a) y N° 2 del Convenio N° 169 de la Organización Internacional del Trabajo, promulgado a través del decreto supremo N° 238, de 2008, del Ministerio de Relaciones Exteriores.
+
+Que, corresponderá al Ministerio de Desarrollo Social efectuar la coordinación y ejecución general del Proceso de Consulta Indígena, para lo cual se deberá tener presente que la resolución exenta N° 387, de 25 de junio de 2014, del Ministerio de Desarrollo Social que Crea la Unidad Nacional de Consulta y Participación Indígena y Determina la estructura de la Secretaría Ejecutiva del Consejo de Ministros para Asuntos Indígenas, establece que la Secretaría Ejecutiva del Consejo de Ministros está a cargo del Asesor(a) Especial para asuntos indígenas, cuya función es mantener constantemente informado al consejo acerca del estado de avance de las distintas iniciativas comprendidas en la política indígena, como asimismo proponer criterios que permitan coordinar la gestión intersectorial y efectuar un seguimiento adecuado al cumplimiento de la política indígena.
+
+Que, en este sentido, entre los contenidos a consultar del anteproyecto de Nueva Constitución que son susceptible de afectar directamente a los Pueblos Indígenas se encuentran el Reconocimiento Constitucional y la Representación y Participación Política de los Pueblos Indígenas.
+
+Resuelvo:
+
+1° Dispónese la realización de un Proceso de Consulta Indígena, e instrúyase el procedimiento administrativo respecto del mismo, sobre las temáticas aprobadas por el Consejo de Ministros para Asuntos Indígenas que han de ser incorporadas en una Nueva Constitución para Chile.
+
+2° Establécese que la coordinación y ejecución general del Proceso de Consulta será responsabilidad del Ministerio de Desarrollo Social.
+
+3° Convóquese a los pueblos indígenas y sus instituciones representativas a la primera reunión de planificación del proceso de consulta de conformidad a lo dispuesto en el artículo 15 del decreto supremo N° 66, de 2013, del Ministerio de Desarrollo Social.
+
+4° Confecciónese el respectivo expediente administrativo del procedimiento de conformidad a lo dispuesto en el artículo 18 y siguientes de la ley N° 19.880, que Establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado; y a lo dispuesto en el artículo 19 del decreto supremo N° 66, de 2013, del Ministerio de Desarrollo Social.
+
+5° Remítase copia íntegra de la presente resolución a S.S la Presidenta de la República de Chile, Dra. Michelle Bachelet Jeria; al Ministerio del Interior y Seguridad Pública; al Ministerio Secretaría General de la Presidencia; al Gabinete de la Subsecretaría de Servicios Sociales; al Gabinete de la Subsecretaría de Evaluación Social; a la Fiscalía del Ministerio de Desarrollo Social; a la Corporación Nacional de Desarrollo Indígena; a la Unidad de Coordinación de Asuntos Indígenas, del Ministerio de Desarrollo Social; y a la Oficina de Partes.
+
+Anótese y publíquese.- Marcos Barraza Gómez, Ministro de Desarrollo Social.
+
+Lo que comunico a Ud. para su conocimiento.- Juan Eduardo Faúndez Molina, Subsecretario de Servicios Sociales.
