@@ -60,6 +60,10 @@ Apruébanse los siguientes programas de estudio para 1º año de Educación Medi
 
 7. Orientación.
 
+8. Artes Visuales.
+
+9. Música.
+
 #### Artículo 2º ter
 
 <!-- parte:9785551 -->
