@@ -72,7 +72,7 @@ Si el proyecto contempla la habilitación de infraestructura, dentro de los íte
 
 De resultar adjudicado, antes de la transferencia de los recursos, la/las organización/es deberán acreditar el cumplimiento de las normas laborales y tributarias aplicables a CORFO para la entrega de subsidios.
 
-El Comité podrá verificar esta información directamente con los organismos pertinentes, entendiendo que los/las beneficiarios/as consiente/n en ello por el sólo hecho de la postulación al instrumento.
+Sercotec podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el beneficiario/a consiente en ello por el solo hecho de la postulación al instrumento.
 
 ### 3. ETAPAS Y PLAZOS
 
@@ -118,11 +118,9 @@ Esta consiste en potenciar su imagen integral a través del cofinanciamiento de 
 
 ### 4. MODELO DE ADMINISTRACIÓN
 
-La administración de este instrumento se encuentra externalizada, a través de entidades públicas o privadas, denominadas Agentes Operadores Intermediarios (AOI) de CORFO y/o SERCOTEC. Ellos, en conformidad a este Reglamento, son los habilitados para postular y administrar los proyectos, además, son los responsables de velar por el cumplimiento de las obligaciones financieras, de las actividades y objetivos del instrumento.
+La administración del instrumento Fondo de Desarrollo de Ferias Libres será, por regla general, mediante la modalidad agenciada.
 
-Cuando circunstancias excepcionales así lo ameriten, el Consejo Directivo del Comité de Desarrollo Productivo Regional de la Región del Bío-Bío, podrá resolver que uno o más de estos proyectos sean evaluados, supervisados y administrados directamente por el mismo, determinando los procedimientos respectivos.
-
-La operación de los proyectos deberá ajustarse a las instrucciones que imparta el Consejo Directivo del Comité de Desarrollo Productivo Regional en relación a los procedimientos.
+La operación de los Proyectos deberá ajustarse a las instrucciones que imparta el Consejo Directivo del Comité de Desarrollo Productivo Regional en relación a los procedimientos.
 
 ### 5. MONTO DEL COFINANCIAMIENTO
 
@@ -132,7 +130,7 @@ El aporte del Beneficiario será pecuniario.
 
 ### 6. COSTO DE ADMINISTRACIÓN Y SEGUIMIENTO
 
-El Comité de Desarrollo Productivo Regional pagará a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración hasta el 15% (quince por ciento) del cofinanciamiento aprobado para el proyecto, con un tope no inferior a $500.000.- (quinientos mil pesos) y no superior de $2.000.000.- (dos millones de pesos) por proyecto.
+Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión y administración hasta el 15% (quince por ciento) del cofinanciamiento aprobado para el proyecto, con un tope no inferior a $500.000.- (quinientos mil pesos) y no superior de $2.000.000.- (dos millones de pesos) por proyecto.
 
 Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
 
@@ -146,19 +144,15 @@ b) Concurso: permite postular durante un plazo fijo, situación que será comuni
 
 El mecanismo de postulación será determinado por el Director Ejecutivo del Comité.
 
-Desde la aprobación del presente Reglamento y hasta el mes de diciembre del presente año operará bajo el mecanismo de convocatoria.
+Hasta el mes de diciembre de 2017, operará bajo el mecanismo de ventanilla abierta. Para los años posteriores, la decisión sobre el mecanismo de postulación será adoptada en el mes de diciembre del año anterior, decisión que deberá ser comunicada por medio de un aviso en la página web del Comité.
 
-Para los años posteriores la decisión sobre el mecanismo de postulación será adoptada en el mes de diciembre del año anterior, decisión que deberá ser comunicada por medio de un aviso en la página web del Comité.
+SELECCIÓN DE LOS BENEFICIARIOS
 
-SELECCIÓN DE LOS BENEFICIARIOS.
-
-Cualquiera sea el mecanismo, serán las Ferias, a través de la plataforma en línea de postulación de este Comité, las que deberán registrar e ingresar sus antecedentes, conforme las exigencias de este Reglamento.
+Cualquiera sea el mecanismo, serán las Ferias, a través de la plataforma en línea de postulación de este Comité, las que deberán registrar e ingresar sus antecedentes, conforme a las exigencias de este Reglamento.
 
 El proyecto postulado deberá indicar si postula a la primera o a ambas etapas.
 
-El Comité de Desarrollo Productivo Regional analizará y determinará si el o los postulantes cumplen con los requisitos de elegibilidad establecidos en el numeral 2 de este Reglamento.
-
-Para emitir su recomendación, el Director Ejecutivo podrá contar con la colaboración de entidades externas.
+En el marco del Plan de Acción Anual del Comité, aprobado por su Consejo Directivo, Sercotec revisará que las Ferias postulantes cumplan con los requisitos de elegibilidad, y remitirá su recomendación técnica al Consejo Directivo del Comité de Desarrollo Productivo Regional para su conocimiento y decisión.
 
 La evaluación se realizará de conformidad con los criterios que se indicarán más adelante, asignándosele una nota de 1 a 10, donde 1 es la más baja y 10 la más alta. La evaluación se realizará en base a números enteros.
 
@@ -168,13 +162,11 @@ Los criterios de evaluación para el o los proyectos serán los siguientes:
 
 .
 
-El conocimiento y decisión sobre la selección del o los beneficiaria/s le corresponde al Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o subcomité, según corresponda.
+El Director Ejecutivo del Comité de Desarrollo Productivo Regional ejecutará el acuerdo del órgano colegiado, correspondiéndole a Sercotec el inicio del proceso de selección del Agente Operador Intermediario y del/de la Consultor/a.
 
-El Director Ejecutivo del Comité de Desarrollo Productivo Regional ejecutará el acuerdo del órgano colegiado, disponiendo además el inicio del proceso de selección del Agente Operador Intermediario y del/ de la Consultor/a, designando, además, la Comisión Evaluadora.
+SELECCIÓN DE LOS AGENTES OPERADORES INTERMEDIARIOS Y CONSULTORES
 
-SELECCIÓN DE LOS AGENTES OPERADORES INTERMEDIARIOS Y CONSULTORES.
-
-Una vez totalmente tramitada la resolución que selecciona a el o los beneficiario/s, el Comité de Desarrollo Productivo Regional deberá invitar a el o los Agentes Operadores Intermediarios habilitados para actuar en la región, para que postulen.
+Una vez totalmente tramitada la resolución que selecciona a el o los beneficiario/s, Sercotec deberá invitar a el o los Agentes Operadores Intermediarios habilitados para actuar en la región, para que postulen.
 
 Cualquiera sea el mecanismo, los Agentes Operadores Intermediarios a través de la plataforma en línea de postulación de este Comité, deberán registrar e ingresar sus antecedentes, conforme las exigencias de este Reglamento.
 
@@ -188,13 +180,13 @@ Los criterios de evaluación para la selección del Agente y el o la consultora 
 
 .
 
-El conocimiento y decisión sobre la selección del Agente Operador Intermediario y del Consultor, así como la asignación de los recursos, le corresponde al Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o Subcomité, según corresponda.
+El conocimiento y decisión sobre la selección del o los beneficiario/s, la selección del Agente Operador Intermediario y del Consultor, así como la asignación de los recursos para la ejecución del proyecto, es competencia del Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o subcomité, según corresponda, tomando en consideración la recomendación realizada por Sercotec.
 
-El Director Ejecutivo del Comité de Desarrollo Productivo Regional ejecutará el acuerdo del órgano colegiado y ordenará la transferencia de los fondos al Agente seleccionado.
+El Director Ejecutivo del Comité de Desarrollo Productivo Regional ejecutará los acuerdos adoptados por el Consejo Directivo de ese Comité.
 
-Desarrollo del Proyecto.
+DESARROLLO DEL PROYECTO
 
-La Etapa 1: Mejoramiento de la gestión y elaboración de un Plan de Desarrollo Estratégico se inicia con la total tramitación de la resolución del Director Ejecutivo que ejecuta el acuerdo que seleccionó el Agente Operador Intermediario, el/la Consultor/a y dispuso la transferencia de los recursos.
+La Etapa 1: Mejoramiento de la gestión y elaboración de un Plan de Desarrollo Estratégico se inicia con la total tramitación de la resolución del Director Ejecutivo que ejecuta el acuerdo que seleccionó el Agente Operador Intermediario y el/la Consultor/a.
 
 Esta etapa finaliza con aprobación por el Agente Operador Intermediario del informe final que debe realizar el/la Consultor/a y, si corresponde, de la propuesta de implementación para la Etapa 2: Mejorar la imagen comercial de la Feria.
 
@@ -202,7 +194,7 @@ La Etapa 2: Mejorar la imagen comercial de la Feria comienza con la aprobación 
 
 Las actividades a desarrollar en esta etapa serán asistidas por el Agente Operador Intermediario.
 
-Esta etapa finaliza con la aprobación del Director Ejecutivo del Informe Final del Agente Operador Intermediario.
+Esta etapa finaliza con la aprobación, por parte de Sercotec, del Informe Final del Agente Operador Intermediario.
 
 No se podrá modificar el objetivo general de un Proyecto.
 
@@ -214,9 +206,9 @@ La aprobación de estos proyectos, la asignación de recursos y su ejecución de
 
 ### 8. ANTICIPOS, GARANTÍAS Y RENDICIONES
 
-El Director Ejecutivo del Comité podrá autorizar anticipos a los Agentes Operadores Intermediarios para la ejecución y administración de los proyectos aprobados, previa entrega de una boleta de garantía bancaria pagadera a la vista o una póliza de seguro de ejecución inmediata o a primer requerimiento, por el total de los fondos anticipados.
+Sercotec podrá autorizar anticipos a los Agentes Operadores Intermediarios para la ejecución y administración de los Proyectos. Los anticipos a los Agentes Operadores Intermediarios sólo podrán autorizarse previa entrega de una boleta de garantía bancaria pagadera a la vista o una póliza de seguro de ejecución inmediata o a primer requerimiento, por el total de los fondos anticipados.
 
-El Agente Operador Intermediario deberá preparar oportuna y periódicamente los correspondientes informes y rendiciones de cuentas, conforme las instrucciones establecidas por el Comité de Desarrollo Productivo Regional, y sin perjuicio de aquellas que imparta la Contraloría General de la República.
+El Agente Operador Intermediario deberá presentar oportuna y periódicamente los correspondientes informes y rendiciones de cuentas a Sercotec, conforme las instrucciones establecidas por el Comité de Desarrollo Productivo Regional, y sin perjuicio de aquellas que imparta la Contraloría General de la República.
 
 ### 9. MANUALES DE INSTRUMENTOS
 
