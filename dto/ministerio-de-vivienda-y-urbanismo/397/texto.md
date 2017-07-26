@@ -76,7 +76,7 @@ A cada Secretario Ministerial de Vivienda y Urbanismo, en su jurisdicción, le c
 
 a) Integrar las diferentes comisiones en que al Ministerio le corresponda estar representado a nivel de su región, y convocar y presidir las que se deban formar con participación de la Secretaría y del SERVIU;
 
-b) Constituir y presidir, para el estudio y análisis en común de la actividad del sector, una Comisión de Asesoría y Coordinación que se integrará con el Director del SERVIU, que la presidirá en ausencia del Secretario Ministerial, y con los Jefes del Departamento de Planes y Programas de Vivienda y Equipamiento y del Departamento Desarrollo Urbano e Infraestructura, ambos de la Secretaría Ministerial, y con los Jefes de los Departamentos Técnicos de Construcciones y Urbanización, de Operaciones Habitacionales y de Finanzas del Serviu.
+b) Constituir y presidir, para el estudio y análisis en común de la actividad del sector, una Comisión de Asesoría y Coordinación que se integrará con el Director del Serviu, quien la presidirá en ausencia del Secretario Ministerial, con los Jefes de los Departamentos de Planes y Programas de Vivienda y Equipamiento y de Desarrollo Urbano e Infraestructura, ambos de la Secretaría Ministerial, y con los Jefes del Departamento Técnico de Construcciones y Urbanización, de Operaciones Habitacionales y de Finanzas del Serviu. En el caso del Serviu Metropolitano, también la integrarán los Subdirectores de Operaciones Habitacionales, Vivienda y Equipamiento, Pavimentación y Obras Viales, Administración y Finanzas, y el Jefe del Departamento de Gestión Inmobiliaria.
 
 Dicha Comisión tendrá carácter permanente y deberá convocarse a lo menos una vez al mes, dejándose constancia en acta de sus deliberaciones. Corresponderá al Secretario Ministerial o al Director del SERVIU, en ausencia del primero, convocar a sesiones de la comisión referida.
 
@@ -296,7 +296,7 @@ a) Velar por el cumplimiento de las leyes y reglamentos vigentes, dependiendo t�
 
 b) Asesorar al Secretario Regional Ministerial y a los Departamentos y Secciones de la Secretaría en materias de derecho.
 
-c) Formular al Departamento Jurídico del SERVIU las sugerencias que tiendan a la uniformidad de procedimientos y criterios jurídicos.
+c) Formular al Departamento Jurídico o a la Subdirección Jurídica en cada Serviu, según sea el caso, las sugerencias que tiendan a la uniformidad de procedimientos y criterios jurídicos.
 
 d) Redactar los actos y contratos en que intervenga la Secretaría.
 
