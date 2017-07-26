@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de todo tipo de vehículos motorizados calzada completa de calle Atacama, en el tramo comprendido entre Av. Manuel Antonio Matta y Rancagua, de la comuna de Copiapó, desde el 12 de junio de 2017 hasta el día 15 de octubre de 2017, para la ejecución de las obras "Trabajos de Pavimentación en calzada de calle Atacama".
+1. Prohíbase la circulación de todo tipo de vehículos motorizados calzada completa de calle Atacama, en el tramo comprendido entre Av. Manuel Antonio Matta y Rancagua, de la comuna de Copiapó, desde el 12 de junio de 2017 hasta el día 07 de agosto de 2017, para la ejecución de las obras "Trabajos de Pavimentación en calzada de calle Atacama".
 
 2. Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
