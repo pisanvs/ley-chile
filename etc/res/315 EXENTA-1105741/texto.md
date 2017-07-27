@@ -1,0 +1,23 @@
+FIJA DESLINDE DE CAUCE RÍO DE LAS MINAS, SECTOR AGUAS ARRIBA PUENTE PRESIDENTE EDUARDO FREI MONTALVA, COMUNA DE PUNTA ARENAS, PROVINCIA DE MAGALLANES, REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
+
+Núm. 315 exenta.- Punta Arenas, 4 de julio de 2017.
+
+Vistos:
+
+Estos antecedentes, lo solicitado por la Dirección de Obras Hidráulicas de la Región de Magallanes y de la Antártica Chilena, mediante oficio ordinario Nº 1049 , de fecha 22 de noviembre de 2016; las observaciones formuladas por esta Secretaría Regional Ministerial de Bienes Nacionales, según consta en ordinarios Nº SE 12- 1205 de 4 de noviembre de 2016; el oficio del Departamento de Obras Fluviales de la Dirección Regional de Obras Hidráulicas Nº 7804, de 30 de diciembre de 2016, y lo solicitado por la Unidad de Catastro de esta Secretaría Regional Ministerial a la Unidad Jurídica por documento conductor Nº 457961 de fecha 19 de mayo de 2017, y teniendo presente lo dispuesto en la ley Nº 18.575 de 1986, Orgánica Constitucional de Bases Generales de la Administración del Estado; lo dispuesto en la Ley Nº 19.880 que aprueba las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; lo dispuesto en el decreto ley Nº 1.939, sobre Adquisición, Administración y Disposición de los Bienes del Estado; lo establecido en el decreto supremo Nº 609, del Ministerio de Tierras y Colonización que fija las Normas para Establecer Deslindes Propietarios Riberanos con el Bien Nacional de uso Público por las Riberas de los Ríos, Lagos y Esteros; las facultades delegadas en los Secretarios Regionales Ministeriales por decreto supremo Nº 79 de 20 de abril de 2010, publicado en el Diario Oficial el 29 de junio de 2010; el decreto supremo Nº 47, de fecha 19 de marzo de 2014, de nombramiento del suscrito, ambos del Ministerio de Bienes Nacionales; y la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
+
+Considerando:
+
+1º Que, la Dirección Regional de Obras Hidráulicas, entidad peticionaria, remitió a esta Secretaría Regional Ministerial el informe denominado: "Proposición de deslinde Río de Las Minas, sector aguas arriba puente Presidente Eduardo Frei Montalva, comuna de Punta Arenas, Región de Magallanes", de junio de 2016, que considera la fijación de deslindes del Río de Las Minas en la ciudad de Punta Arenas, desde aguas arriba del Puente Presidente Eduardo Frei Montalva, estudio que tiene por finalidad principal dar solución a la intervención antrópica al margen de las consideraciones técnicas y de la normativa legal y reglamentaria, efectuadas por particulares en un sector del Río de Las Minas de baja pendiente, en un curso de aguas con alta presencia de sedimentos, lo anterior permitirá mejorar la condición de seguridad de la canalización del Río de Las Minas en beneficio de toda la población de la ciudad Punta Arenas. Por ello se hace imprescindible fijar los deslindes de dicho cuerpo de agua, determinando de ese modo el bien nacional de uso público con las propiedades particulares colindantes, poniendo término a los rellenos no autorizados que estrangulan el cauce del río.
+
+2º Que, dicho informe y posterior fijación, se enmarcan dentro de los trabajos necesarios para la ejecución de las obras propuestas en el Estudio: "Análisis Hidráulico y Mecánico Fluvial Río de Las Minas Punta Arenas", que contempla obras a realizar en el sector del río desde puente Eduardo Frei aguas arriba.
+
+Resuelvo:
+
+I.- Fíjase como deslindes del cauce del Río de Las Minas, sector aguas arriba del Puente Presidente Eduardo Frei Montalva, en la ciudad y comuna de Punta Arenas, provincia de Magallanes, Región de Magallanes y de la Antártica Chilena, individualizado en el plano Nº 12101-1326-CU, en el singularizado vértice o punto 364 a 397 ribera Norte y 338 a 363 Ribera Sur, y cuyos deslindes son:
+
+.
+
+II.- Cualquier interesado tendrá un plazo de sesenta (60) días, contados desde la fecha de la publicación en el Diario Oficial, de la presente resolución, para pedir administrativamente la modificación del mismo, formulando el correspondiente reclamo en la Secretaría Regional Ministerial de Bienes Nacionales de la Región de Magallanes y de la Antártica Chilena.
+
+Anótese, regístrese, comuníquese y publíquese en el Diario Oficial.- Por orden de la Presidenta de la República, Víctor Eduardo Igor Hess, Secretario Regional Ministerial de Bienes Nacionales Región de Magallanes y Antártica Chilena.
