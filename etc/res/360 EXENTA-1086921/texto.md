@@ -82,7 +82,7 @@ Estos incrementos se complementarán al subsidio base según corresponda y el va
 
 3.2 Modalidad Daño Reparable Moderado y/o Mayor, para la asignación de Subsidios de Mejoramiento del Título II, en su tipología de Seguridad y Habitabilidad de la Vivienda del Programa de Protección del Patrimonio Familiar.
 
-Se aplicará para reparar daños estructurales severos que merman la capacidad de resistencia del inmueble, quedando comprometida su estabilidad, como también para reparar aquellos daños que no comprometan la estabilidad total de la edificación. Estos proyectos están asociados a una Empresa Constructora.
+Se aplicará para reparar daños estructurales severos que merman la capacidad de resistencia del inmueble, quedando comprometida su estabilidad, como también para reparar aquellos daños que no comprometan la estabilidad total de la edificación. Estos proyectos están asociados a una Empresa Constructora, sin perjuicio de lo anterior, tratándose de viviendas catastradas ubicadas en zonas con características patrimoniales, que a la fecha de tramitación de la presente resolución, cuenten con un certificado de subsidio asignado y no hayan iniciado obras, éstas podrán aplicar su subsidio en la modalidad señalada en el resuelvo 3.1, es decir, para financiar la adquisición de materiales de construcción y contratar los servicios de construcción, siendo responsabilidad del Serviu proveer al Minvu las nóminas de los beneficiarios que requerirán este cambio.
 
 Para evaluar si un proyecto se enmarca en esta modalidad, se considerará principalmente:
 
@@ -188,9 +188,9 @@ En todo aquello que no se contraponga con lo dispuesto en la presente resolució
 
 Los subsidios correspondientes a Proyectos con Daño Moderado y/o Mayor, con constructora, podrán ser pagados en la medida que se certifique que las obras asociadas a dicho subsidio se encuentran terminadas, distinguiendo las siguientes formas de pago:
 
-9.1 Pagos por Avance Físico: Se podrá pagar de acuerdo al avance físico de obras, acreditado mediante informe del fiscalizador técnico de obras visado por el Serviu, cuando la fiscalización técnica sea desarrollada por Consultores Externos. El Serviu, mediante resolución, determinará la frecuencia máxima de estos pagos. En caso que el proyecto haya contemplado un permiso de edificación, se podrá pagar por esta modalidad hasta el 70% del proyecto terminado, previa recepción del Serviu de las obras, quedando retenido el 30% restante hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
+9.1 Pagos por Avance Físico: Se podrá pagar de acuerdo al avance físico de obras, acreditado mediante informe del fiscalizador técnico de obras visado por el Serviu, cuando la fiscalización técnica sea desarrollada por Consultores Externos. El Serviu, mediante resolución, determinará la frecuencia máxima de estos pagos. En caso que el proyecto haya contemplado un permiso de edificación, se podrá pagar por esta modalidad hasta el 90% del proyecto terminado, previa recepción del Serviu de las obras, quedando retenido el 10% restante hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
 
-9.2 Pagos por Obras Terminadas: En caso que el proyecto haya contemplado un permiso de edificación y el contratista cobre al finalizar la obra, se podrá pagar hasta el 70% del proyecto terminado, previa recepción del Serviu de las obras, quedando el 30% restante retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
+9.2 Pagos por Obras Terminadas: En caso que el proyecto haya contemplado un permiso de edificación y el contratista cobre al finalizar la obra, se podrá pagar hasta el 90% del proyecto terminado, previa recepción del Serviu de las obras, quedando el 10% restante retenido hasta la presentación del respectivo certificado de recepción de las obras emitido por la DOM.
 
 Respecto a los subsidios correspondientes a Proyectos con Daño Moderado (Banco de Materiales), la contratación de servicios de construcción y reparación, que representará el 40% del monto total del subsidio, será cancelada en 2 pagos correspondientes a aproximadamente el 40% y 60%, respectivamente.
 
@@ -199,6 +199,8 @@ La Entidad Patrocinante deberá verificar los avances de obras para la autorizac
 La compra de materiales a través de la tarjeta dispuesta para ello contará con 2 cargas de recursos. La primera representará el 40% del subsidio correspondiente a la compra de materiales, y la segunda el 60% restante. A través de cada carga podrán efectuarse 2 compras.
 
 Disposiciones específicas para proyectos a ejecutar a través de Adquisición de Materiales y Contratación de Servicios de Construcción y Reparación para Daño Moderado.
+
+Las formas de pago señaladas en los puntos 9.1 y 9.2 precedentes, serán aplicables a todas las viviendas que la fecha de la presente resolución no se encuentren pagadas en su totalidad.
 
 10. Apruébase el listado de materiales y herramientas que podrán ser adquiridos mediante los subsidios que se entreguen en virtud del presente llamado, el cual se adjunta como anexo a esta resolución, pasando a formar parte integrante de la misma. No obstante lo anterior, en caso de ser requerido, el Serviu podrá autorizar, mediante resoluciones fundadas, la incorporación a dicha nómina de nuevos materiales o herramientas.
 
