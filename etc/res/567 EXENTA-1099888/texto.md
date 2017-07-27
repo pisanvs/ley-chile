@@ -30,8 +30,16 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 4. Los recursos comprometidos conforme a los resuelvos 2. y 3., de la presente resolución, para los proyectos señalados, se detallan en el siguiente cuadro para cada región, considerando los montos de subsidio de los proyectos, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
 
-Los montos de subsidios asignados mediante la presente resolución, ascendentes a 177.504,94 Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2017, para el Programa Fondo Solidario de Elección de Vivienda de la Región de Valparaíso y Biobío, según el siguiente detalle:
+Los montos de subsidios asignados mediante la presente resolución, ascendentes a 177.464,42 Unidades de Fomento, se imputarán a los recursos dispuestos para el año 2017, para el Programa Fondo Solidario de Elección de Vivienda de la Región de Valparaíso y Biobío, según el siguiente detalle:
+
+> **Nota.** La letra a) del numeral 1 de la Resolución 8973 Exenta, Vivienda, publicada el 27.07.2017 modifica el la tabla inserta en el Resuelvo 1 de la presente norma, en el sentido de reemplazar las filas Nº 10 y 16 de la manera que la citada norma indica.
+
+> **Nota.** NOTA 1 La letra b) del numeral 1 de la Resolución 8973 Exenta, Vivienda, publicada el 27.07.2017 modifica el la tabla inserta en el Resuelvo 3 de la presente norma, en el sentido de reemplazar la fila Nº 10 de la manera que la citada norma indica.
+
+> **Nota.** NOTA 2 La letra d) del numeral 1 de la Resolución 8973 Exenta, Vivienda, publicada el 27.07.2017 modifica el la tabla inserta en el Resuelvo 4 de la presente norma, en el sentido de reemplazar las filas correspondientes a la Región del Biobío y al total por aquellas que la citada norma indica.
 
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.
+
+..
