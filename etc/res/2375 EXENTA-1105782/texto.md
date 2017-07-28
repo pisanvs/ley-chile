@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE PLAN DE MANEJO Y EXPLOTACIÓN DE ÁREA DE MANEJO QUE INDICA Y DEJA SIN EFECTO RESOLUCIONES QUE SEÑALA
+
+Por resolución exenta Nº 2.375, de 21 de julio de 2017, de esta Subsecretaría, declárase la caducidad del plan de manejo y explotación del área de manejo Pelluhue, VII Región, en virtud del artículo 144 letra b) de la Ley General de Pesca y Acuicultura y déjense sin efecto las resoluciones exentas Nº 1.526 de 1998, Nº 1.052 de 1999, Nº 809 de 2000, Nº 2.810 de 2002, Nº 457 de 2004, Nº 820 de 2005, Nº 1.185 de 2006, Nº 1.794 de 2007, Nº 326 de 2008, Nº 1.555 de 2009, Nº 2.011 de 2010, Nº 2.354 de 2012 y Nº 2.476 de 2013, todas de esta Subsecretaría, en virtud del artículo 21 del DS Nº 355, de 1995, del actual Ministerio de Economía, Fomento y Turismo.
+
+Valparaíso, 21 de julio de 2017.- Pablo Berazaluce Maturana, Subsecretario de Pesca y Acuicultura.
