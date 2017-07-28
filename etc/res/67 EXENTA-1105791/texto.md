@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos N°67, de 20 de julio de 2017, que autoriza a las instituciones sin fines de lucro, Grupo de Mujeres Guardería Comunitaria Te Poki Koa RUT N° 65.004.102-K; Club de Adulto Mayor El Esfuerzo Centenario II RUT N° 53.321.900-4; Fundación Misericordia Chile RUT N° 65.103.934-7; Fundación Misión Lumbrera, RUT N° 65.090.167-3; Fundación Trabun, RUT N° 65.120.259-0; Fundación Elim, RUT N° 65.092.865-2; Consejo Vecinal de Desarrollo del Barrio Población O'Higgins, RUT N° 65.109.768-1, y Misión Evangélica Pentecostal de Peñalolén, RUT N° 71.204.200-1, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de julio de 2017.
