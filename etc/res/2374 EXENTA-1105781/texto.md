@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE PLAN DE MANEJO Y EXPLOTACIÓN DE ÁREA DE MANEJO QUE INDICA Y DEJA SIN EFECTO RESOLUCIONES QUE SEÑALA
+
+Por resolución N° 2.374 exenta, de 21 de julio de 2017, de esta Subsecretaría, declárase la caducidad del plan de manejo y explotación del área de manejo Los Pellines, VII Región, en virtud del artículo 144 letra b) de la Ley General de Pesca y Acuicultura y déjense sin efecto las resoluciones exentas N° 888, de 2003, N° 447 y N° 2.774, ambas de 2004, N° 1.780. de 2006, N° 1.742, de 2007, N° 2.013, de 2008, N° 2.825, de 2009, N° 1.657, de 2010, y N° 1.647, de 2012, todas de esta Subsecretaría, en virtud del artículo 21 del DS N° 355, de 1995, del actual Ministerio de Economía, Fomento y Turismo.
+
+Valparaíso, 21 de julio de 2017.- Pablo Berazaluce Maturana, Subsecretario de Pesca y Acuicultura.
