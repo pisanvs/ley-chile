@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 300 EXENTA, DE 10 DE JULIO DE 2017
+
+Por resolución exenta N° 300, del 10 de julio de 2017, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, autorizó el funcionamiento del terminal urbano para servicios de locomoción colectiva prestado mediante buses, ubicado en Avenida Manuel Rodríguez N° 4545, de la comuna de Chiguayante, Región del Biobío, de responsabilidad de la empresa Transportes Vía Siglo XXI S.A., rol único tributario N° 96.770.880-1, representada legalmente por don Carlos Cifuentes Ferreira y la empresa Expresos Plaza del Mall S.A., rol único tributario 96.717.040-2, representada legalmente por don Luis Álvarez Leal. El tipo de terminal es un terminal clasificado en "Categoría B - 5" con capacidad para 300 vehículos, de acuerdo a la tabla establecida en el artículo 4.13.6 del DS 47/92 del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal. Déjese constancia de lo siguiente
+
+- **A)** Harán uso del terminal referido los servicios de locomoción urbana de Chiguayante, cuyos responsables son Transportes Vía Siglo XXI S.A., rol único tributario N° 96.770.880-1, representada legalmente por don Carlos Cifuentes Ferreira, hasta 39 vehículos con recorrido Troncal: Manuel Rodríguez - Centro Concepción - Autopista - Talcahuano y la empresa Expresos Plaza del Mall S.A., rol único tributario 96.717.040-2, representada legalmente por don Luis Álvarez Leal, hasta con 69 vehículos, con recorrido: Troncal 115: Chiguayante - Centro - Penco - Lirquén, Troncal 118: Chiguayante - Centro - Collao Nonguén.
+
+- **B)** El terminal que se autoriza podrá ser utilizado hasta por una cantidad máxima diaria de 300 vehículos, en conformidad al artículo 45° del DS 212/92 del Ministerio de Transportes y Telecomunicaciones.
+
+- **C)** El administrador del terminal será don Carlos Cifuentes Ferreira, con domicilio en Avenida Manuel Rodríguez N° 4545, comuna de Chiguayante. El público usuario no podrá acceder al terminal cuyo funcionamiento se autoriza.
+
+César Arriagada Lira, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
