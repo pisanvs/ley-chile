@@ -118,6 +118,8 @@ Calceolaria crenatiflora
 
 Calendula officinalis Asteraceae
 
+Calibrachoa spp. Solanaceae
+
 Campanula spp. Campanulaceae
 
 Carex commans Cyperaceae
@@ -187,6 +189,8 @@ Cordyline indivisa (Sin.:
 Dracaena indivisa) Agavaceae
 
 Coreopsis grandiflorum Asteraceae
+
+Cortaderia selloana Poaceae
 
 Cosmos spp. Asteraceae
 
@@ -263,6 +267,8 @@ Echinops ritro Asteraceae
 Ensete spp. Musaceae
 
 Eryngium alpinum Apiaceae
+
+Euphorbia hypericifolia Euphorbiaceae
 
 Eustoma russellianum (Sin.:
 
@@ -537,6 +543,10 @@ Spathyphyllum spp. Araceae
 Stachys byzantina Lamiaceae
 
 Strelitzia spp. Strelitziaceae
+
+Sutera cordata
+
+(Sin.: Chaenostoma cordatum) Scrophulariaceae
 
 Tagetes erecta
 
