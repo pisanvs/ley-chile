@@ -1,0 +1,9 @@
+NOTIFICACIÓN LIQUIDACIONES DE IMPUESTOS N° 304-4 A LA 309-4
+
+De conformidad a lo dispuesto en Res. Ex. N° 686, de fecha 26/07/2017, lo dispuesto en los artículos 6 letra B) N° 10, inc. 2 del art. 21 y 24 inc. 1°, todos del Código Tributario, se practican liquidaciones de impuestos N° 304-4 a 309-4, de fecha 26/07/2017, a Denisse Estefanía Flores Medina, RUT N° 17.412.065-K, en su calidad de heredera del Sr. Samuel Antonio Flores Martínez, RUT N° 10.508.660-1, fallecido el día 11/01/2013, por lo concluido mediante Citación N° 19-4 de fecha 25/04/2017 practicada según lo dispuesto en el artículo 63 del Código Tributario y notificada por DO con fecha 29/04/2017, a la cual, transcurrido el plazo legal, no se dio respuesta ni acompañó antecedente alguno.
+
+De la revisión de los Formularios 29, respecto del contribuyente Samuel Antonio Flores Martínez, se observa que no cumplió con los requisitos establecidos en el artículo 34 bis de la Ley de la Renta (en adelante LIR) para los años tributarios 2011, 2012 y 2013.
+
+Dado que no se aportó documentación alguna por la sucesión, se empleó el mecanismo de tasación contemplado en el artículo 35 de la LIR, determinándose impuestos adeudados por el causante previo a su fallecimiento, por lo que, en su calidad de heredera y conforme al artículo 5° de la LIR, se practican las referidas liquidaciones por la cuota que le corresponde en la herencia. Las Liquidaciones se encuentran materialmente a su disposición en la XIII Dirección Regional Metropolitana Centro, ubicada en calle Alonso de Ovalle N° 680, 6° piso.-
+
+Silvia León Moreno, Directora Regional XIII Dirección Regional Santiago Centro.
