@@ -298,6 +298,6 @@ transitorio : La modificación al Reglamento de Carreras que ratifica y sanciona
 
 #### Artículo segundo
 
-transitorio : Se faculta al Consejo Superior de la Hípica Nacional a aplicar criterios y sanciones distintos a los establecidos en los artículos 281 al 289 para los casos de reincidencia que se presenten entre los días 20 de marzo y 31 de diciembre de 2017, ambas fechas inclusive.
+transitorio: Se faculta al Consejo Superior de la Hípica Nacional a aplicar criterios y sanciones distintos a los establecidos en los artículos 281 al 289 para los casos de suspensiones y reincidencia que se presenten entre los días 20 de marzo y 31 de diciembre de 2017, ambas fechas inclusive.
 
 Anótese y publíquese.- Rodrigo Valdés Pulido, Ministro de Hacienda. Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Alejandro Micco Aguayo, Subsecretario de Hacienda.
