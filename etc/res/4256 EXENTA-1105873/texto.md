@@ -1,0 +1,7 @@
+DERECHOS DE AGUA EN COMUNA DE EL MONTE
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 4.256 de 7 de julio de 2017, conforme artículo 5° transitorio Código de Aguas, aclaró y complementó la resolución exenta del Servicio Agrícola y Ganadero N° 84, de fecha 25 de enero de 1988, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas del Proyecto de División de los terrenos de la Cooperativa de Reforma Agraria Asignataria "Ex Ministro Trivelli", formado por la totalidad de los predios denominados "Resto del Fundo Casas del Paico o La Red", "Parte del Fundo Casas del Paico o La Red" y otra parte, "Parte del Fundo Casas del Paico o La Red", ubicados en la comuna de El Monte, Provincia de Talagante, Región Metropolitana, en el sentido de expresar en unidad de volumen por unidad de tiempo los derechos de aprovechamiento de aguas señalados en acciones en dicha resolución, aguas que se extraen de los canales Chiñiguano; canal Chacón y Canal San José, que nacen del álveo río Mapocho, cuyas bocatomas se ubican en la comuna de Peñaflor y establecer, además, que los derechos de aprovechamiento son superficiales y corrientes, de carácter consuntivo, ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13° ley N° 18.377.-
+
+Director Nacional.
