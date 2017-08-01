@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 543, de 22 de junio de 2017, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP N° 465, de 22 de julio de 2016, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N° 63-C, expropiado con motivo de la obra: "Construcción Mejoramiento Interconexión Vial P-20 P-40, Arauco", Comuna de Arauco, Provincia de Arauco, Región del Biobío. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 19 de enero de 2015, ascendente a la cantidad de $1.158.438.
