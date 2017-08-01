@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº 2017/PA/13/1414 EXENTA, DE FECHA 5 DE JULIO DE 2017, QUE APRUEBA PROCESO ADMINISTRATIVO
+
+La Superintendencia de Educación, por resolución exenta Nº 2.017/PA/13/1414, de fecha 5 de julio de 2017, aprobó proceso administrativo por contravención a la normativa educacional, aplica sanción y ordena notificación, al establecimiento educacional Complejo Educacional Los Andes, RBD 25.029-5, ubicado en Américo Vespucio Nº 711, de la comuna de La Cisterna, cuyo sostenedor es la Sociedad Educacional Bayuk Limitada, RUT Nº 78.888.220-3; aplicando por el cargo único "establecimiento no presenta continuidad del servicio educacional durante el año escolar", formulado y confirmado, la sanción de Revocación del Reconocimiento Oficial del Estado, a contar del año escolar 2018. También, deja constancia que el sostenedor dispone del recurso de reclamación establecido en el artículo 84 de la ley Nº 20.529.-
+
+Paola Pollard Santander, Encargada Jurídica, Superintendencia de Educación Región Metropolitana.
