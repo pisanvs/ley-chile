@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 747 de 17 de julio de 2017, se tuvo por desistida la expropiación de los lotes N° 141L6-T y 141L6-C, para la obra: "PROYECTO LÍNEA 6 LAS CONDES - CERRILLOS, SECTOR: PROVIDENCIA - VITACURA", ordenada por Decreto Exento MOP N° 402 de 10 de junio de 2015. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7° y 32° del Decreto Ley N° 2186, de 1978.
