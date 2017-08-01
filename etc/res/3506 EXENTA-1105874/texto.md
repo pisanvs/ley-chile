@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.506, de fecha 10 de julio de 2017, se ordenó la expropiación parcial, conforme a las normas del decreto Ley Nº 2.186 de 1978, del denominado Lote N° BF-10-4, correspondiente al inmueble ubicado en Ochagavía 11750, Rol de avalúo N° 14106-19, de la comuna de El Bosque, Región Metropolitana, de aparente dominio de Inmobiliaria Nueva Vía S.A., con una superficie aproximada de 392,2 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Proyecto Mejoramiento Integral Infraestructura Ferroviaria, Tramo Alameda - Rancagua". La Comisión de Peritos integrada por los señores Ingrid Von Osten Yáñez, Ingeniero Civil; Gabriel Pantoja Rivera, Ingeniero Agrónomo y Karine Acevedo Hinojosa, Constructor Civil, mediante Informe de fecha 1 de diciembre de 2014, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.341.000, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
