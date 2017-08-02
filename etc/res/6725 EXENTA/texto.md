@@ -60,11 +60,7 @@ Tampoco podrán inscribirse los damnificados que tengan algún certificado de su
 
 La vivienda que se adquiera con aplicación de este subsidio, no podrá estar emplazada en una zona de riesgo determinada en el respectivo instrumento de planificación territorial, ni en otras zonas en que se considere que hay riesgo para la población, establecidas por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo, sobre la base de la información que provea el Servicio Nacional de Geología y Minería, la Dirección de Obras Hidráulicas del Ministerio de Obras Públicas u otros expertos en la materia. La determinación de estas zonas será para el solo efecto de identificar aquellas en que el subsidio no podrá ser aplicado.
 
-7. Los beneficiarios podrán aplicar el subsidio a la adquisición de una vivienda económica en cualquier región del país, la que deberán señalar al momento de su inscripción al subsidio.
-
-El precio máximo de vivienda a cuya adquisición se podrá aplicar el subsidio según zona de emplazamiento, serán los siguientes:
-
-.
+7. Los beneficiarios damnificados podrán aplicar el subsidio a la adquisición de una vivienda económica en cualquier región del país.
 
 8. El precio de compraventa de la vivienda será financiado con el subsidio, con aportes propios, si los hubiere, y/o con un crédito hipotecario, de ser el caso.
 
