@@ -124,6 +124,8 @@ Iguales atribuciones tendrán los organismos públicos encargados de aplicar y f
 
 Las infracciones a los artículos 5°, inciso primero, y 11, así como a las normas relacionadas con el transporte de ganado, serán sancionadas con multa de una a cincuenta unidades tributarias mensuales. En caso de reincidencia, la multa podrá elevarse al doble. El cumplimiento de la normativa señalada en este inciso será fiscalizado por el Servicio Agrícola y Ganadero, aplicándose el procedimiento de sanción y reclamo contenido en el párrafo IV del Título I de la ley Nº 18.755.
 
+Sin perjuicio de lo anterior, en las infracciones de los artículos 5º y 11 podrá imponerse la clausura temporal, hasta por tres meses, o la clausura definitiva del establecimiento, aplicándose el procedimiento señalado en el inciso anterior.
+
 Tratándose de especies hidrobiológicas, la fiscalización de las disposiciones de esta ley será ejercida por funcionarios del Servicio Nacional de Pesca, personal de la Armada de Chile y Carabineros de Chile, según corresponda la jurisdicción de cada una de estas instituciones. Para la aplicación de las sanciones correspondientes se seguirá el procedimiento señalado en el artículo 125 de la ley N° 18.892, General de Pesca y Acuicultura, cuyo texto refundido, coordinado y sistematizado se fijó mediante el decreto Nº 430, del Ministerio de Economía, Fomento y Reconstrucción, de 1992.
 
 #### Artículo 14

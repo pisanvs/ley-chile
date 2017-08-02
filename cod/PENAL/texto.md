@@ -358,6 +358,8 @@ Inhabilidad perpetua para conducir vehículos a tracción mecánica o animal.
 
 Suspensión para conducir vehículos a tracción mecánica o animal.
 
+Inhabilidad absoluta perpetua para la tenencia de animales.
+
 PENAS DE LAS FALTAS.
 
 Prisión.
@@ -1038,7 +1040,7 @@ Los sentenciados que quebrantaren su condena serán castigados con las penas que
 
 2° Los reincidentes en el quebrantamiento de tales condenas, a más de las penas de la regla anterior, sufrirán la pena de incomunicación con personas extrañas al establecimiento penal por un término prudencial, atendidas las circunstancias, que no podrá exceder de seis meses.
 
-3.° DEROGADO.
+3.° Derogado.
 
 4.° Los condenados a confinamiento, extrañamiento, relegación o destierro, sufrirán las penas de presidio, reclusión o prisión, según las reglas siguientes:
 
@@ -1048,7 +1050,7 @@ Segunda.-El condenado a confinamiento o extrañamiento sufrirá la de presidio, 
 
 Tercera.-El condenado a relegación temporal o a destierro sufrirá la de reclusión o prisión por la mitad del tiempo que le falte por cumplir de la pena primitiva.
 
-5.° El inhabilitado para cargos y oficios públicos, derechos políticos y profesiones titulares o para cargos, oficios o profesiones ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con menores de dieciocho años de edad, adultos mayores o personas en situación de discapacidad, que los ejerciere, cuando el hecho no constituya un delito especial, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a veinte unidades tributarias mensuales.
+5.° El inhabilitado para cargos y oficios públicos, derechos políticos y profesiones titulares o para cargos, oficios o profesiones ejercidos en ámbitos educacionales, de la salud o que involucren una relación directa y habitual con menores de dieciocho años de edad o para la tenencia de animales, adultos mayores o personas en situación de discapacidad, que los ejerciere, cuando el hecho no constituya un delito especial, sufrirá la pena de reclusión menor en su grado mínimo o multa de seis a veinte unidades tributarias mensuales.
 
 En caso de reincidencia se doblará esta pena.
 
@@ -2579,6 +2581,14 @@ Los que propagaren indebidamente organismos, productos, elementos o agentes quí
 #### Artículo 291 bis
 
 El que cometiere actos de maltrato o crueldad con animales será castigado con la pena de presidio menor en sus grados mínimo a medio y multa de dos a treinta unidades tributarias mensuales, o sólo con esta última.
+
+Si como resultado de una acción u omisión se causare al animal daño, la pena será presidio menor en sus grados mínimo a medio y multa de diez a treinta unidades tributarias mensuales, además de la accesoria de inhabilidad absoluta perpetua para la tenencia de cualquier tipo de animales.
+
+Si como resultado de las referidas acción u omisión se causaren lesiones que menoscaben gravemente la integridad física o provocaren la muerte del animal se impondrá la pena de presidio menor en su grado medio y multa de veinte a treinta unidades tributarias mensuales, además de la accesoria de inhabilidad absoluta perpetua para la tenencia de animales.
+
+#### Artículo 291 ter
+
+Para los efectos del artículo anterior se entenderá por acto de maltrato o crueldad con animales toda acción u omisión, ocasional o reiterada, que injustificadamente causare daño, dolor o sufrimiento al animal.
 
 ### X. De las asociaciones ilícitas
 
@@ -4345,6 +4355,8 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 17.° El que quebrantare los reglamentos o disposiciones de la autoridad sobre la custodia, conservación y trasporte de materias inflamables o corrosivas o productos químicos que puedan causar estragos.
 
 18.° El dueño de animales feroces que en lugar accesible al público los dejare sueltos o en disposición de causar mal.
+
+Para estos efectos, se comprenderán como feroces los animales potencialmente peligrosos.
 
 19. El que ejecutare alguno de los hechos penados en los artículos 189, 233, 448, 467, 469, 470 y 477, siempre que el delito se refiera a valores que no excedan de una unidad tributaria mensual.
 
