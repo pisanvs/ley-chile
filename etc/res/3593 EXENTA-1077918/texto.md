@@ -58,11 +58,7 @@ Tampoco podrán inscribirse los damnificados que tengan algún Certificado de Su
 
 La vivienda que se adquiera con aplicación de este subsidio, no podrá estar emplazada en una zona de riesgo determinada en el respectivo instrumento de planificación territorial, ni tampoco en nuevas áreas de riesgo determinadas por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Los Lagos que no estén previamente contempladas en el señalado instrumento de planificación.
 
-7. Los beneficiarios podrán aplicar el subsidio a la adquisición de una vivienda económica en cualquier región del país, la que deberán señalar al momento de su inscripción al subsidio.
-
-El precio máximo de vivienda a cuya adquisición se podrá aplicar el subsidio según zona de emplazamiento, serán los siguientes:
-
-.
+7. Los beneficiarios damnificados podrán aplicar el subsidio a la adquisición de una vivienda económica en cualquier región del país.
 
 8. El precio de compraventa de la vivienda será financiado con el subsidio, con aportes propios, si los hubiere, y/o con un crédito hipotecario, de ser el caso.
 
