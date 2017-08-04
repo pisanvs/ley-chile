@@ -730,27 +730,29 @@ Los envases de las semillas corrientes deberán llevar marcados en su exterior l
 
 Las etiquetas que deberán llevar los envases de semilla corriente serán de color amarillo y de tamaño adecuado al envase.
 
-En las etiquetas deberá consignarse esta información:
+En las etiquetas deberá consignarse la siguiente información:
 
-a) El nombre y domicilio del envasador.
+a) El nombre y domicilio del envasador
 
-b) La expresión Semilla Corriente.
+b) La expresión Semilla Corriente
 
-c) La especie.
+c) La especie (nombre común)
 
-d) La variedad o nombre del híbrido si correspondiere.
+d) La variedad
 
-e) El número de lote.
+e) El número del lote
 
-f) El mes y año en que la semilla fue envasada, y
+f) El porcentaje de pureza y germinación
 
-g) El estado sanitario de la semilla.
+g) Mes y año en que la semilla fue envasada, y
 
-La información de la letra g) será optativa, salvo que el Servicio Agrícola y Ganadero establezca su obligatoriedad para determinadas especies.
+h) El estado sanitario de la semilla.
+
+La indicación de la letra h) será optativa, salvo que el Servicio Agrícola y Ganadero establezca su obligatoriedad para determinadas especies.
 
 Cualquier mención que se haga respecto al estado fitosanitario será de exclusiva responsabilidad del envasador.
 
-Tratándose de semillas de flores y hortalizas, en la etiqueta deberán consignarse a lo menos lo especificado en las letras b) y f), pudiéndose colocar el resto de la información en el envase.
+Tratándose de semillas de flores y hortalizas, en la etiqueta deberán consignarse, a lo menos, lo especificado en las letras b), f) y g), pudiéndose colocar el resto de la información en el envase.
 
 En el caso de mezclas de semillas forrajeras o de semillas para prados, deberá especificarse tal condición en la etiqueta. Además, en la misma etiqueta o en el envase, se indicará el nombre y porcentaje de cada una de las especies y variedades que componen la mezcla.
 
