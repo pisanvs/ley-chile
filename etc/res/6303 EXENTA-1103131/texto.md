@@ -30,7 +30,7 @@ Resolución:
 
 ### Párrafo 1° — Disposiciones Generales
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios del Programa de Habitabilidad Rural, del Título II Proyectos de Postulación Directa, en la alternativa postulación individual o colectiva, para el desarrollo de proyectos en las regiones de Coquimbo, Valparaíso, O'Higgins, Maule, Biobío, Araucanía, Los Lagos y Metropolitana, en las Tipologías Construcción en Sitio del Residente, dirigido a familias que cuenten con Expediente de Postulación y proyecto aprobado por Serviu, hasta el día 31 de julio del año en curso. La selección se efectuará con los expedientes y proyectos aprobados, por estricto orden de prelación y hasta agotar la totalidad de los recursos distribuidos para cada región, indicados en el resuelvo número 23 de la presente resolución.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios del Programa de Habitabilidad Rural, del Título II Proyectos de Postulación Directa, en la alternativa postulación individual o colectiva, para el desarrollo de proyectos en las regiones de Coquimbo, Valparaíso, O'Higgins, Maule, Biobío, Araucanía, Los Lagos y Metropolitana, en las Tipologías Construcción en Sitio del Residente, dirigido a familias que cuenten con Expediente de Postulación y proyecto aprobado por Serviu, hasta el 31 de julio y 31 de agosto del año en curso. La selección se efectuará con los expedientes y proyectos aprobados, por estricto orden de prelación y hasta agotar la totalidad de los recursos distribuidos para cada región, indicados en el resuelvo número 23 de la presente resolución.
 
 2. Podrán participar en este proceso de selección, las familias que residan en áreas rurales o urbanas, excluidas las localidades urbanas de 5.000 o más habitantes, de acuerdo a los datos demográficos que consigna el Censo de Población y Vivienda del año 2002. La residencia de las familias que participan en el proceso de selección, deberá corresponder al domicilio acreditado en el Registro Social de Hogares (RSH).
 
@@ -77,8 +77,6 @@ Para llevar a cabo el proceso de evaluación de proyectos, y en instancia previa
 Una vez concluido el proceso de evaluación de proyectos, la Comisión Evaluadora deberá hacer devolución de la totalidad de los antecedentes correspondientes a los expedientes y/o proyectos que no hubieren resultado aprobados.
 
 19. En relación al plazo establecido para el inicio de obras que consigna el inciso segundo del artículo 57 del DS N°10 (V. y U.) de 2015, los proyectos que sean aprobados en el proceso que regula la presente resolución, deberán iniciar obras dentro del plazo de 30 días corridos siguientes a la publicación de la resolución de selección de los grupos o familias beneficiadas.
-
-> **Nota.** El numeral 2 de la Resolución 7544 Exenta, Vivienda, publicada el 19.06.2017, modifica la presente norma en el sentido de reemplazar el cuadro inserto en el resuelvo 19, sin embargo , el referido cuadro se encuentra en el numeral 18.
 
 ### Párrafo 4° — Factores de puntaje y selección
 
