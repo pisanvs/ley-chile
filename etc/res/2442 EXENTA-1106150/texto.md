@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE PLAN DE MANEJO Y EXPLOTACIÓN DE ÁREA DE MANEJO QUE INDICA Y DEJA SIN EFECTO RESOLUCIONES QUE SEÑALA
+
+Por resolución exenta Nº 2.442, de 27 de julio de 2017, de esta Subsecretaría, declárase la caducidad del plan de manejo y explotación del área de manejo El Quisco Sector C, V Región, en virtud del artículo 144 letra b) de la Ley General de Pesca y Acuicultura y déjense sin efecto las resoluciones exentas Nº 277 y Nº 2012, ambas de 2000, Nº 1.639, de 2001, Nº 1.974, de 2002, Nº 431 y Nº 1.902, ambas de 2003, Nº 2.540, de 2004, Nº 2.816, de 2006, Nº 3.774, de 2007, Nº 3.245, de 2008 y Nº 3.106, de 2010, todas de esta Subsecretaría, en virtud del artículo 21 del DS Nº 355, de 1995, del actual Ministerio de Economía, Fomento y Turismo.
+
+Valparaíso, 27 de julio de 2017.- Pablo Berazaluce Maturana, Subsecretario de Pesca y Acuicultura.
