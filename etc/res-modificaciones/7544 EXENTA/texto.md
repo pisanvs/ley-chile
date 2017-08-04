@@ -22,7 +22,7 @@ Modifícase la resolución exenta Nº 6.303 (V. y U.), de 2017, en el siguiente 
 
 1. Suprímese el resuelvo 9 de dicha resolución exenta, debiendo acreditarse la disponibilidad de terreno conforme a lo establecido en el literal b) del artículo 24 del DS Nº 10 (V. y U.), de 2015.
 
-### 2. Remplázase el cuadro inserto en el resuelvo 19 por el siguiente:
+### 2. Remplázase el cuadro inserto en el resuelvo 18 por el siguiente:
 
 .
 
