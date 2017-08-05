@@ -1318,7 +1318,7 @@ En virtud del desdoble que se realice conforme las condiciones indicadas en el i
 
 En los casos en que el titular del centro de cultivo requiera realizar desdobles en condiciones diferentes a las indicadas en los incisos anteriores, deberá requerir la autorización del Servicio. Con todo, las eliminaciones de ejemplares que se originen en estas autorizaciones serán consideradas pérdidas conforme a las reglas generales.
 
-El plan de siembra de los ejemplares, las dimensiones de las estructuras de cultivo y el sistema de cosecha a utilizar en el centro deberán ser comunicados a la Subsecretaría, al menos un mes antes del inicio del descanso sanitario coordinado de la agrupación respectiva, indicando las especies a sembrar, el número de ejemplares, la identificación de los centros de cultivo a operar y el rango de fecha de inicio de siembra y deberá adjuntarse una declaración jurada que indique la especie, centro de origen y cantidad de alevines, smolt o juveniles que serán parte del período productivo. Esta información se entregará en un formulario que pondrá a disposición la Subsecretaría a través de su página web. Una vez dictada la resolución que fija la densidad de cultivo para la agrupación respectiva y previo a realizar la siembra efectiva del centro de cultivo, el Servicio revisará el estatus sanitario del centro, agrupación o zona y verificará el cumplimiento de los requisitos exigidos para la siembra por uno o más programas sanitarios específicos, cuando corresponda y que el número ejemplares a sembrar se encuentre dentro de lo autorizado por la resolución de calificación ambiental vigente para el centro de cultivo, cuando proceda. En el evento que de la revisión de los antecedentes se derive el incumplimiento de algunas de las condiciones para proceder a la siembra en el centro de cultivo respectivo, incluyendo las establecidas en las disposiciones del Título XIV del presente reglamento, en lo que corresponda. el Servicio deberá notificar esta circunstancia dentro del plazo de un mes desde la presentación quedando prohibida dicha actividad.
+El plan de siembra de los ejemplares, las dimensiones de las estructuras de cultivo y el sistema de cosecha a utilizar en el centro deberán ser comunicados a la Subsecretaría, el 15 de febrero o 16 de agosto según corresponda de acuerdo al semestre fijado para la determinación de la densidad de cultivo de la agrupación, conforme al inciso 2° del artículo 58 M, indicando las especies a sembrar, el número de ejemplares, la identificación de los centros de cultivo a operar, rango de inicio de siembra, número de peces que permanecen en cultivo, meses que restan para terminar el ciclo productivo en curso y deberá adjuntarse una declaración jurada que indique la especie, centro de origen y cantidad de alevines, smolt o juveniles que serán parte del período productivo. Esta información se entregará en un formulario que pondrá a disposición la Subsecretaría a través de su página web. Una vez dictada la resolución que fija la densidad de cultivo para la agrupación respectiva y previo a realizar la siembra efectiva del centro de cultivo, el Servicio revisará el estatus sanitario del centro, agrupación o zona y verificará el cumplimiento de los requisitos exigidos para la siembra por uno o más programas sanitarios específicos, cuando corresponda y que el número ejemplares a sembrar se encuentre dentro de lo autorizado por la resolución de calificación ambiental vigente para el centro de cultivo, cuando proceda. En el evento que de la revisión de los antecedentes se derive el incumplimiento de algunas de las condiciones para proceder a la siembra en el centro de cultivo respectivo, incluyendo las establecidas en las disposiciones del Título XIV del presente reglamento, en lo que corresponda. el Servicio deberá notificar esta circunstancia dentro del plazo de un mes desde la presentación quedando prohibida dicha actividad.
 
 El titular de la concesión deberá comunicar a la Subsecretaría el momento en que se inicie el último mes de cosecha del ciclo productivo en curso, para lo cual se dispondrá de un formulario en la página web de la Subsecretaría..
 
@@ -1908,6 +1908,10 @@ Del establecimiento de las densidades de cultivo para las agrupaciones de conces
 
 M. La densidad de cultivo corresponderá a la biomasa de peces existente por área utilizada con estructuras de cultivo, al término de la etapa de engorda del ciclo productivo.
 
+La densidad de cultivo será fijada por semestre. El primer semestre se fijará la densidad para las agrupaciones de concesiones que inician su descanso sanitario coordinado entre los meses de abril y septiembre del mismo año y el segundo semestre se fijará la densidad para las agrupaciones de concesiones que inician su descanso sanitario coordinado entre los meses de octubre del mismo año y marzo del año siguiente.
+
+Si con posterioridad a la determinación de la densidad de cultivo semestral y antes del inicio del período productivo de una agrupación de concesiones se declara una emergencia sanitaria o una situación sanitaria o ambiental no prevista que origine una modificación de los elementos, para la determinación de la densidad de cultivo, previo informe del Servicio, se deberá realizar nuevamente la clasificación de bioseguridad de la agrupación y la densidad de cultivo que corresponda, la que se deberá ajustar conforme a los resultados obtenidos.
+
 #### Artículo 58
 
 N. La determinación de la densidad de cultivo para las agrupaciones de concesiones de salmónidos contemplará dos etapas:
@@ -1922,7 +1926,9 @@ b) Fijación del número máximo de ejemplares a ingresar en las estructuras de 
 
 a) Ambiental: INFAs de los centros de cultivo integrantes de la agrupación, cuyos resultados den cuenta de una condición aeróbica;
 
-b) Sanitario: Pérdidas de la agrupación, entendiendo por tales la diferencia, expresada en porcentaje, entre el número total de ejemplares ingresados al inicio del período productivo en los centros de cultivo integrantes de la agrupación y las cosechas contabilizadas hasta un mes antes del término de aquél, salvo aquellas que hayan sido ordenadas obligatoriamente por el Servicio por la aplicación de programas sanitarios específicos o como medida de emergencia. No se considerarán pérdidas, las cosechas que estén consideradas en el certificado sanitario de movimiento para ser efectuadas el último mes. Tampoco se considerarán las pérdidas que se originen en accidentes provocados por el choque de embarcaciones con las estructuras de cultivo, las derivadas de floraciones algales nocivas o de catástrofes naturales o las verificadas por los muestreos realizados en cumplimiento de los programas sanitarios o de medidas de emergencia, dispuestos por el Servicio, y
+b) Sanitario: pérdidas de la agrupación, entendiendo por tales la diferencia, expresada en porcentaje, entre el número total de ejemplares ingresados al inicio del período productivo en los centros de cultivo integrantes de la agrupación y la suma de las cosechas efectivas y proyectadas, salvo las cosechas que hayan sido ordenadas obligatoriamente por el Servicio por la aplicación de programas sanitarios específicos o como medida de emergencia. Serán cosechas efectivas las contabilizadas hasta el 31 de enero o el 31 de julio, según corresponda al semestre de fijación de la densidad de cultivo de la agrupación. Serán cosechas proyectadas, el número de peces que permanecen en cultivo que haya sido informado de conformidad con el artículo 24, menos las pérdidas proyectadas. Estas últimas corresponderán a las pérdidas que resulten de multiplicar el valor promedio mensual de pérdidas obtenido hasta el 31 de enero o 31 de julio, según corresponda, por el número de meses que resten para el término del ciclo productivo en curso.
+
+No se considerarán pérdidas las que se originen en accidentes provocados por el choque de embarcaciones con las estructuras, las derivadas de floraciones algales nocivas o de catástrofes naturales; o las verificadas por los muestreos realizados en cumplimiento de los programas sanitarios o de medidas de emergencia, dispuestos por el Servicio.
 
 c) Productivo: Comparación entre la proyección de siembra de la agrupación para el período productivo siguiente y la siembra efectiva en el período productivo anterior. Para tales efectos, se considerará como proyección de siembra el número total de ejemplares a sembrar en el período productivo siguiente en los centros de cultivo integrantes de la agrupación, declarados por sus titulares de conformidad con el artículo 24.
 
@@ -1992,33 +1998,11 @@ S. En los casos en que la agrupación hubiere obtenido una clasificación en bio
 
 #### Artículo 58
 
-T. No se autorizarán siembras en los centros de cultivo integrantes de la agrupación una vez alcanzado el número máximo de peces a ingresar, salvo en el caso que el titular del centro de cultivo invoque los resultados negativos en INFA de un centro de su titularidad en otra agrupación que le impide sembrar en él los ejemplares que se habían planificado, cuyo origen y existencia deberá acreditar. En cualquier caso, no se autorizará una siembra de un número mayor de peces que aquel que estaba previsto para el centro con resultados negativos en INFA.
+T. No se autorizarán siembras en los centros de cultivo integrantes de la agrupación una vez alcanzado el número máximo de peces a ingresar.
 
-La excepción a que se refiere el inciso anterior estará sometida a las siguientes condiciones:
+El número máximo de peces a sembrar en una agrupación de concesiones corresponderá a la suma de ejemplares que consten en todas las declaraciones informadas por los titulares de los centros de cultivo de la agrupación de concesiones de acuerdo al artículo 24 del presente reglamento, descontado el número que corresponda por la reducción de siembra que haya sido aplicada de conformidad con el artículo 24 A.
 
-a) El traslado de siembra sólo podrá efectuarse a una agrupación de concesiones que haya obtenido una clasificación en bioseguridad alta o media en el período productivo inmediatamente anterior. En ningún caso podrán trasladarse siembras a centros de cultivo integrantes de agrupaciones de concesiones que hubieren sido clasificadas en bioseguridad baja;
-
-b) El traslado de siembra podrá efectuarse a uno o varios centros de cultivo pertenecientes a la misma o a distintas agrupaciones de concesiones;
-
-c) El centro de cultivo al que se traslade la siembra deberá ser del mismo titular al que pertenece el centro que obtuvo los resultados negativos en el informe ambiental;
-
-d) La siembra a trasladar corresponderá al número de ejemplares que resulte de la aplicación del artículo 24 A;
-
-e) El centro de cultivo al que se traslade la siembra estará sometido a la densidad de cultivo de la agrupación concesiones a la que pertenece y al número máximo de ejemplares a ingresar por estructura de cultivo fijada para los centros de la misma;
-
-f) En ningún caso el traslado de la siembra podrá implicar que se supere el número máximo de ejemplares determinado para el centro de destino por aplicación del artículo 24 A;
-
-g) El número de ejemplares a ingresar al centro de cultivo al que se traslade la siembra, no podrá exceder el autorizado en la resolución de calificación ambiental de dicho centro, cuando corresponda.
-
-Una resolución de la Subsecretaría establecerá el porcentaje máximo en que se podrá sobrepasar el número máximo de peces a ingresar a las agrupaciones de concesiones por el motivo indicado en el presente artículo, el que en todo caso deberá ser inferior en las agrupaciones de concesiones que sean clasificadas en bioseguridad media.
-
-La resolución antes señalada establecerá, asimismo, el porcentaje máximo en que se podrá sobrepasar el número de peces a ingresar en una agrupación de concesiones que haya optado por someterse a la medida indicada en el artículo 58 l letra m), el que en ningún caso podrá exceder del porcentaje de reducción de siembra que corresponda de conformidad con el artículo 60 del presente reglamento. En los casos en que la agrupación de concesiones haya obtenido en su período productivo anterior pérdidas menores al 15%, se podrá autorizar un porcentaje de incremento para la aplicación de la excepción de este artículo, el que se fijará en la misma resolución y que no podrá ser superior a los establecidos, para las agrupaciones de concesiones con densidad de cultivo.
-
-La resolución a que se refieren los incisos precedentes deberá dictarse considerando los parámetros establecidos de conformidad con el artículo 60 del presente reglamento.
-
-El número máximo de peces a sembrar en una agrupación de concesiones corresponderá a la suma de ejemplares que consten en todas las declaraciones informadas por los titulares de los centros de cultivo de la agrupación de concesiones de acuerdo al artículo 24 del presente reglamento, descontado el número que corresponda por la reducción de siembra que haya sido aplicada de conformidad con el artículo 24 A. Asimismo, dicho número máximo considerará la disminución de ejemplares que se hubiere aplicado en virtud del porcentaje de reducción de siembra que se hubiere acordado al interior de la agrupación de concesiones, de conformidad con los artículos 59 y siguientes de este reglamento.
-
-Si una vez fijada la densidad en forma definitiva, sea porque no hubo reclamación conforme al artículo 86 bis de la ley o ella hubiere sido resuelta, o bien, al término de las siembras efectivas no se hubiere alcanzado el número máximo de ejemplares a ingresar en la agrupación, se podrá solicitar la siembra de ejemplares en los centros de cultivo de la agrupación, respetando los descansos sanitarios coordinados, hasta completar el número máximo de ejemplares a ingresar.
+Si una vez fijada la densidad en forma definitiva, sea porque no hubo reclamación conforme al artículo 86 bis de la ley o ella hubiere sido resuelta, o bien al término de las siembras efectivas, no se hubiere alcanzado el número máximo de ejemplares a ingresar en la agrupación, se podrá solicitar la siembra de ejemplares en los centros de cultivo de la agrupación, respetando los descansos sanitarios coordinados, hasta completar el número máximo de ejemplares a ingresar.
 
 #### Artículo 58
 
@@ -2030,13 +2014,15 @@ V. Las disposiciones del presente Título, no se aplicarán a la especie Salmón
 
 #### Artículo 59
 
-La densidad de cultivo no se aplicará en caso que el titular de una o más concesiones de la misma agrupación suscriba un programa de manejo para someter a la medida de porcentaje de reducción de siembra individual a los centros de cultivo de que sea titular dentro de dicha agrupación para el próximo período productivo. Tampoco se aplicará la densidad de cultivo de que trata este Título en caso que el titular de una o más concesiones de la misma agrupación ya tenga vigente un programa de manejo suscrito por más de un período productivo, que haya incluido la medida de porcentaje de reducción de siembra individual para todos los centros de cultivo de que sea titular dentro de la agrupación. Con todo, aun en caso de tener vigente un programa de manejo individual suscrito por más de un período productivo, no se aplicará la medida de porcentaje de reducción de siembra individual si se verifica la condición señalada en el inciso 2° del artículo 60.
+La densidad de cultivo no se aplicará en caso que el titular de una o más concesiones de la misma agrupación suscriba un programa de manejo para someter a la medida de porcentaje de reducción de siembra individual a los centros de cultivo de que sea titular dentro de dicha agrupación para el próximo período productivo. Tampoco se aplicará la densidad de cultivo de que trata este Título en caso que el titular de una o más concesiones de la misma agrupación ya tenga vigente un programa de manejo suscrito por más de un período productivo, que haya incluido la medida de porcentaje de reducción de siembra individual para todos los centros de cultivo de que sea titular. Con todo, aun en caso de tener vigente un programa de manejo individual suscrito por más de un período productivo, no se aplicará la medida de porcentaje de reducción de siembra individual si se verifica la condición señalada en el inciso 2° del artículo 60.
+
+Para los efectos del porcentaje de reducción de siembra se considerará titular de las concesiones tanto a aquel a quien se haya otorgado la concesión como al controlador del grupo empresarial en el que se encuentre la persona jurídica a quien se le otorgó la concesión en los términos previstos en el artículo 96 de la ley 18.045. La calidad de controlador deberá ser acreditada a la Subsecretaría, conforme a la normativa vigente, en el mes de enero y de julio, dependiendo si la fijación de la densidad de cultivo debe realizarse para la agrupación en los meses de abril u octubre, respectivamente.
 
 #### Artículo 60
 
 Conforme al desempeño sanitario obtenido durante cada período productivo, la Subsecretaría elaborará la propuesta de porcentaje de reducción de siembra, lo que comprenderá el número total de ejemplares de peces que será posible ingresar a los centros de cultivo del mismo titular en el próximo período productivo, sea que se realicen uno o dos ciclos productivos. Cuando corresponda, dicho porcentaje se ajustará al término de cada período productivo para el próximo, conforme al desempeño sanitario obtenido durante aquel.
 
-En ningún caso será procedente el porcentaje de reducción de siembra individual cuando todos los centros de cultivo del mismo titular hayan obtenido pérdidas superiores a 20% en el período productivo anterior.
+En ningún caso será procedente el porcentaje de reducción de siembra individual cuando el promedio de pérdidas obtenidas por los centros de cultivo del mismo titular sea superior al 20%.
 
 El porcentaje de reducción de siembra individual será determinado por la Subsecretaría considerando las variables que a continuación se indican en el período productivo inmediatamente anterior:
 
@@ -2048,7 +2034,7 @@ Una resolución de la Subsecretaría fijará los indicadores sanitarios que debe
 
 #### Artículo 61
 
-La distribución del porcentaje de reducción de siembra individual en el caso que el titular tenga dos o más centros, deberá ser incorporado a un programa de manejo. En ningún caso dicha distribución podrá vulnerar, cuando corresponda, la operación máxima prevista para cada año en la resolución de calificación ambiental de cada uno de los centros de cultivo respectivos.
+La distribución del porcentaje de reducción de siembra individual en el caso que el titular tenga dos o más centros, podrá realizarse entre centros de la misma agrupación o de otra u otras agrupaciones, cualquiera sea la macrozona o región, todo lo cual deberá ser incorporado a un programa de manejo. En el caso que la distribución comprenda centros de distintas agrupaciones, la receptora deberá ser una de aquellas cuya densidad es fijada en el mismo semestre que la agrupación de origen.. En ningún caso dicha distribución podrá vulnerar, cuando corresponda, la operación máxima prevista para cada año en la resolución de calificación ambiental de cada uno de los centros de cultivo respectivos.
 
 No podrá incorporarse al programa de manejo un porcentaje de reducción de siembra menor al propuesto por la Subsecretaría que tenga el efecto de reemplazar la medida de densidad de cultivo de la agrupación aplicable al centro. En caso que el porcentaje de reducción de siembra sea mayor al propuesto por la Subsecretaría, será aprobado para el período productivo siguiente. Sin embargo, para el cálculo correspondiente al período productivo subsiguiente, será considerado el porcentaje que hubiere sido propuesto originalmente por la Subsecretaría y no el que finalmente se suscribió.
 
@@ -2056,11 +2042,33 @@ Todos los centros de cultivo sometidos a un porcentaje de reducción de siembra 
 
 Si al término del período productivo los centros de cultivo del mismo titular son clasificados en bioseguridad alta, el titular podrá aumentar hasta en un 3% el número de peces a sembrar en el período siguiente.
 
+#### Artículo 61
+
+A. No podrán recibir un número de peces adicional por distribución del porcentaje de reducción de siembra individual aquellas agrupaciones cuyas declaraciones de siembra superen los 20.000.000 de peces para el período productivo respectivo.
+
+La agrupación de concesiones podrá recibir peces provenientes de la distribución del porcentaje de reducción de siembra individual dependiendo del número total de peces resultante de la declaración de siembra de la agrupación, conforme a los límites que se indican a continuación:
+
+.
+
+Las declaraciones de siembra de los titulares de centros de cultivo de destino integrantes de cada agrupación serán ordenadas de menor a mayor, determinando así el orden de prioridad de los titulares para distribuir en dicha agrupación sus peces provenientes del porcentaje de reducción de siembra. El primer lugar lo ocupará quien no haya declarado siembra en la respectiva agrupación.
+
+En el caso que un titular ejerza su prioridad, la siguiente prioridad solo podrá ser utilizada en caso de existir saldo respecto del límite de crecimiento por porcentaje de reducción de siembra en la agrupación de destino y hasta dicho límite. Las prioridades serán utilizadas hasta completar dicho saldo. En caso que dos o más titulares tengan la misma prioridad en la agrupación de destino, tendrá preferencia el que haya ejercido en primer lugar la opción por el porcentaje de reducción de siembra en la agrupación respectiva.
+
+En el evento que uno o más titulares de centros de cultivo integrantes de la agrupación de origen comuniquen su opción de operar con centros integrantes de otra agrupación, el límite de crecimiento de una agrupación por distribución del porcentaje de reducción de siembra será modificado en la oportunidad a que se refiere el inciso 5° del artículo 62.
+
 #### Artículo 62
 
-La propuesta de porcentaje de reducción de siembra será remitida por la Subsecretaría a los titulares de las concesiones de cada agrupación conjuntamente con la propuesta correspondiente a la densidad de cultivo para la misma.
+La propuesta de porcentaje de reducción de siembra será remitida por la Subsecretaría a los titulares de las concesiones de cada agrupación conjuntamente con la propuesta correspondiente a la densidad de cultivo para la misma. Además deberá indicarse el límite máximo de crecimiento para la agrupación por recepción de peces provenientes de porcentaje de reducción de siembra y la prioridad que tiene el titular para redistribuir peces dentro de la agrupación.
 
-El programa de manejo mediante el cual el titular optará por someterse al porcentaje de reducción de siembra individual, en reemplazo de la aplicación de la densidad de cultivo por agrupación al o a los centros de su titularidad, deberá ser presentado a la Subsecretaría en el plazo establecido para remitir las observaciones a la propuesta de densidad. La Subsecretaría tendrá el plazo de 7 días hábiles para aprobar o rechazar el programa de manejo.
+El programa de manejo mediante el cual el titular optará por someterse al porcentaje de reducción de siembra individual, en reemplazo de la aplicación de la densidad de cultivo por agrupación al o a los centros de su titularidad, deberá ser presentado a la Subsecretaría en el plazo de 7 días hábiles contados desde la fecha de remisión de las propuestas de densidad y de porcentaje de reducción de siembra.
+
+En caso que el porcentaje de reducción de siembra se realice respecto de las mismas agrupaciones en que se realizaron las declaraciones de siembra, deberá indicarse la agrupación o agrupaciones que serán objeto de la reducción y las concesiones que operarán, así como la cantidad de peces que se reducirá. En caso que el porcentaje de reducción de siembra dé lugar a la redistribución en agrupaciones distintas a las que fueron objeto de la declaración de siembra, deberán indicarse las agrupaciones y concesiones de destino, así como el número de peces que serán recibidos por cada una de estas últimas.
+
+Vencido el plazo de 7 días hábiles sin que se haya comunicado la opción por el porcentaje de reducción de siembra, los centros de cultivo del titular quedarán sometidos a la medida de densidad de cultivo por agrupación.
+
+En caso de haberse comunicado el ejercicio de la opción de sometimiento al porcentaje de reducción de siembra, la Subsecretaría verificará el cumplimiento de los requisitos que hacen procedente la medida y deberá emitir una nueva propuesta de densidad de cultivo para la agrupación de origen, indicando la aceptación o rechazo de la opción de porcentaje de reducción de siembra en el plazo de 10 días hábiles. En caso de rechazo, la Subsecretaría podrá remitir una contrapropuesta de porcentaje de reducción de siembra.
+
+Solo en caso de aceptar la contrapropuesta y dentro del plazo de un mes contado desde la fecha de la propuesta original de densidad de cultivo, los titulares deberán presentar el programa de manejo definitivo en que incorporan el porcentaje de reducción de siembra, el que deberá ser aprobado o rechazado por la Subsecretaría en el plazo de 7 días hábiles.
 
 La Subsecretaría deberá señalar los centros que quedan sometidos a porcentaje de reducción de siembra individual en la resolución que fija la densidad de cultivo de la agrupación.
 
