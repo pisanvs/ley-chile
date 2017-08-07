@@ -1,0 +1,11 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO "AMPLIACIÓN DEL SISTEMA DE TRATAMIENTO DE AGUAS SERVIDAS DE ZAPALLAR"
+
+De conformidad a lo dispuesto en el artículo 95 del decreto supremo N° 40, de 2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se informa a las personas -naturales y jurídicas- que presentaron observaciones durante el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental (DIA) del proyecto "Ampliación del Sistema de Tratamiento de Aguas Servidas de Zapallar", cuyo titular es ESVAL S.A., que éste ha sido calificado desfavorablemente por la Comisión de Evaluación de la Región de Valparaíso, mediante la resolución exenta N° 234/2017 (RCA), de fecha 26 de julio de 2017.
+
+De igual modo, se informa a todas las personas -naturales y jurídicas- que hayan realizado observaciones ciudadanas a la DIA del proyecto "Ampliación del Sistema de Tratamiento de Aguas Servidas de Zapallar" y que estimen que éstas no han sido debidamente consideradas en los fundamentos de la citada RCA, que disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar un recurso de reclamación ante el Director Ejecutivo, de conformidad a los artículos 20 y 30 bis de la ley N° 19.300 sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la RCA citada puede ser conocido en la oficina del Servicio de Evaluación Ambiental de la Región de Valparaíso ubicada en Prat 827, oficina 301, Valparaíso, con horario de atención de lunes a viernes de 09:00 a 13:00 horas; en las oficinas del Gobierno Regional, ubicadas en calle Melgarejo 669, pisos 7 y 10, Valparaíso, con horario de atención de lunes a viernes de 09:00 a 14:00 horas y en las oficinas de la Ilustre Municipalidad de Zapallar, ubicadas en calle Germán Riesco 399, Zapallar, con horario de atención de lunes a viernes de 09:00 a 14:00 horas. Además, se podrá acceder a la RCA y su expediente de evaluación, a través del sitio web www.sea.gob.cl o directamente a través del siguiente enlace:
+
+http://seia.sea.gob.cl/archivos/2017/07/28/RCA_234-2017_.pdf
+
+Esther Parodi Muñoz, Directora Regional (S), Servicio de Evaluación Ambiental Región de Valparaíso.
