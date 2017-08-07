@@ -200,11 +200,11 @@ De la caducidad de las concesiones
 
 El Presidente de la República mediante decreto supremo fundado, expedido a través del Ministerio de Energía, podrá declarar la caducidad de una concesción de gas antes de entrar en explotación si el concesionario no redujere a escritura pública el decreto de concesión dentro de los 30 días siguientes a la fecha de su publicación.
 
-El Ministro de Energía podrá solicitar a la Superintendencia que declare el incumplimiento grave de las obligaciones de una empresa concesionaria de gas antes de entrar en explotación, si no se hubiesen ejecutado por lo menos los dos tercios de las obras en los plazos establecidos o en las prórrogas de plazo que se otorguen y no mediare fuerza mayor o caso fortuito. Declarado el incumplimiento grave por la Superintendencia, podrá el Presidente de la República decretar la caducidad de la concesión.
+El Ministro de Energía podrá solicitar a la Superintendencia que declare el incumplimiento grave de las obligaciones de una empresa concesionaria de gas antes de entrar en explotación, si no se hubiesen ejecutado por lo menos los dos tercios de las obras en los plazos establecidos o en las prórrogas de plazo que se otorguen y no mediare fuerza mayor o caso fortuito, declaración que deberá efectuarse dentro de los noventa días corridos siguientes a dicha solicitud. Declarado el incumplimiento grave por la Superintendencia, podrá el Presidente de la República decretar la caducidad de la concesión.
 
 En los casos de caducidad previstos en el inciso anterior, el ex concesionario podrá levantar y retirar las instalaciones de gas ejecutadas. Cuando estas instalaciones ocupen bienes nacionales de uso público, terrenos fiscales o terrenos particulares, en virtud de servidumbres constituidas, el retiro deberá hacerse dentro del plazo y en las condiciones que fije la Superintendencia, en conformidad a los reglamentos. El costo de los retiros que afectaren bienes de uso público será de cargo del exconcesionario.
 
-Cuando sea declarada la caducidad de una concesión por la causal señalada en el inciso segundo de este artículo, el Ministro de Energía, si lo estimare conveniente para el interés general, podrá disponer la expropiación de los bienes de la concesión en conformidad a lo dispuesto en los artículo 20° y siguientes.
+Cuando sea declarada la caducidad de una concesión por la causal señalada en el inciso segundo de este artículo, el Presidente de la República, si lo estimare conveniente para el interés general, podrá disponer la expropiación de los bienes de la concesión en conformidad a lo dispuesto en los artículo 20° y siguientes.
 
 > **Nota.** El numeral iv) de la letra a) del N° 14, del Art. 1° de la Ley 20999, publicada el 09.02.2017, dispuso la sustitución de la frase "dentro de los 90 días corridos siguientes de transcurridos dichos plazos", por la expresión: ", declaración que deberá efectuarse dentro de los noventa días corridos siguientes a dicha solicitud". Esta modificación no se pudo efectuar, por cuanto la frase a que se hace referencia no se encuentra en el texto de este artículo. Sin embargo, se hace presente que aquella sí estaba en el proyecto aprobado por la Cámara de Diputados en Primer Trámite Constitucional, donde había sido agregada a continuación de la expresión "caso fortuito".
 
@@ -626,9 +626,9 @@ Las fórmulas tarifarias para el servicio de gas y servicios afines indicados en
 
 Sin perjuicio de lo anterior, para las empresas señaladas en el inciso primero y cuyo número total de clientes con servicio de gas sea inferior al dos por ciento de los clientes de la mayor empresa concesionaria de la Región de Magallanes y la Antártica Chilena, las fórmulas tarifarias aplicables al servicio de gas y servicios afines serán las que se establezcan en el decreto supremo al que se refiere el artículo 40-R para el mayor concesionario de dicha región, como consecuencia del procedimiento contemplado en los artículos 38 y siguientes.
 
-#### Artículo 35°
+#### Artículo 35
 
-En caso de que la empresa concesionaria considere que las tarifas fijadas por la autoridad causan perjuicio a sus legítimos derechos, podrá recurrir ante la Justicia Ordinaria reclamando la indemnización correspondiente, sin perjuicio de los demás recursos que le franquea la ley.
+Cuando el suministro del gas natural comprimido para uso vehicular provenga de una empresa distribuidora de gas natural por red que esté sujeta a fijación de precios de acuerdo a los artículos 31 o 34, el impuesto específico a los combustibles será constante e igual a la componente base de dicho impuesto definido en la ley Nº 20.765.
 
 #### Artículo 36
 
