@@ -46,7 +46,7 @@ Los vehículos según su tipo o clase deberán estar provistos de los siguientes
 
 * Vehículos motorizados de cuatro o más ruedas:
 
-Parte delantera: dos focos que permitan proyectar las luces bajas y altas, dos luces de estacionamiento, y dos destellantes de viraje, y Parte trasera: dos luces de estacionamiento, dos destellantes de viraje, dos de frenos, dos de retroceso, dos luces rojas fijas y una que ilumine la placa patente;
+Parte delantera: dos focos que permitan proyectar las luces bajas y altas, dos luces de estacionamiento, y dos destellantes de viraje, y Parte trasera: dos luces de estacionamiento, dos destellantes de viraje, dos de frenos, dos de retroceso, dos luces rojas fijas y una que ilumine la placa patente. Con todo, los vehículos motorizados livianos de pasajeros definidos en el decreto supremo N° 211, de 1991, del Ministerio de Transportes y Telecomunicaciones, podrán estar provistos con una o dos luces de retroceso, cuando respecto de ellos se acredite que sus luces cumplen las disposiciones que establece el decreto supremo N° 2, de 17 de enero de 2017, del Ministerio de Transportes y Telecomunicaciones.
 
 * Remolques y semirremolques:
 
@@ -70,13 +70,15 @@ Llevarán un farol en la parte delantera de cada uno de los costados que sobresa
 
 #### Artículo 6º
 
-Las luces que los vehículos proyecten hacia adelante serán de color blanco o amarillo y las que proyecten hacia atrás, de color rojo, a excepción de las de retroceso, que serán blancas, y las de viraje traseras que podrán ser rojas o amarillas.
+Las luces que los vehículos proyecten hacia adelante serán de color blanco o amarillo y las que proyecten hacia atrás, de color rojo, a excepción de las de retroceso, que serán blancas, y las de viraje traseras y de estacionamiento que podrán ser rojas o amarillas.
 
 Con todo para efectos de este reglamento se entenderá que una luz proyectada es de color blanco cuando provenga de lámparas de descarga de gas (xenón comúnmente) o de lámparas convencionales, cuya temperatura de color sea superior a 3200 ºK.
 
 #### Artículo 7º
 
-Sin perjuicio de lo dispuesto en el artículo anterior, los vehículos de 2 metros o más de ancho (sin considerar los espejos laterales), llevarán luces amarillas frontales, a ambos extremos de la parte superior de la carrocería, en forma que indiquen, claramente, el ancho y altura máxima del vehículo. Además, en los extremos laterales de la parte superior trasera, deberán llevar luces rojas.
+Sin perjuicio de lo dispuesto en el artículo anterior, los vehículos de más de 2,1 metros de ancho (sin considerar los espejos laterales), llevarán luces amarillas frontales, a ambos extremos de la parte superior de la carrocería, en forma que indiquen, claramente, el ancho y altura máxima del vehículo. Además, en los extremos laterales de la parte superior trasera, deberán llevar luces rojas.
+
+Las luces señaladas en el inciso precedente, serán opcionales en los vehículos que tengan un ancho igual o mayor a 1,8 metros e igual o menor a 2,1 metros.
 
 Para vehículos distintos de buses y camiones, la exigencia anterior comenzará a regir para los modelos cuyo año de fabricación anotado en el Registro Nacional de Vehículos Motorizados del Servicio de Registro Civil e Identificación, sea 2007 o posterior.
 
@@ -150,17 +152,73 @@ Los vidrios de los vehículos livianos, medianos y pesados, definidos en los Dec
 
 #### Artículo 17º
 
-Los dispositivos para casos de emergencia, dos a lo menos, a que se refiere el artículo 79 número 7 de la Ley Nº 18.290, de Tránsito, deberán cumplir con las siguientes características:
+Los dispositivos para casos de emergencia a que se refiere el numeral 7º del artículo 75 del DFL Nº1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que contiene el texto refundido, coordinado y sistematizado de la ley Nº 18.290, de Tránsito, serán los siguientes y deberán cumplir con los requisitos que en cada caso se indican:
 
-* Tener forma de un triángulo equilátero.
+1.- Triángulos.-
 
-* Ser visibles tanto de día como de noche, por lo que sus lados deberán contar con material que asegure su retrorreflexión.
+- Deberán ser a lo menos 2 y tener la forma de triángulo equilátero.
 
-* Ser confeccionados con materiales que en el evento de ser embestidos por un vehículo, no dañen a este último.
+- Deberán ser visibles tanto de día como de noche, por lo que sus lados deberán contar con material que asegure su retrorreflexión.
 
-* Deberán ser estables, de manera tal que su ubicación y posición no se alteren por la vibración y corrientes de aire provocadas por el paso de los demás vehículos.
+- Deberán ser confeccionados con materiales que en el evento de ser embestidos por un vehículo, no dañen a este último.
+
+- Deberán ser estables, de manera tal que su ubicación y posición no se alteren por la vibración y corrientes de aire provocadas por el paso de los demás vehículos.
 
 Estos dispositivos se colocarán uno por delante y otro por detrás del vehículo, en forma tal que sean visibles por los demás conductores. En vías de sentido único de tránsito o de más de tres pistas de circulación en un mismo sentido, bastará la colocación de un solo dispositivo ubicado detrás del vehículo en la forma antes indicada.
+
+2.- Chaleco de alta visibilidad.-
+
+- Deberá ser confeccionado con material fluorescente, entendiéndose éste como aquel que emite radiación óptica de longitud de onda mayor que la absorbida
+
+- Deberá ser de color amarillo, debiendo el color estar dentro del área definida por las siguientes coordenadas cromáticas:
+
+Coordenadas cromáticas
+
+X y
+
+0,387 0,610
+
+0,356 0,494
+
+0,398 0,452
+
+0,460 0,540
+
+- Deberá contar con bandas de material retrorreflectante de un ancho no inferior a 50 mm, dispuestas según una de las alternativas descritas a continuación:
+
+a) Dos bandas horizontales rodeando el torso, separadas por una distancia mínima de 50 mm, y bandas que unan la banda superior del torso de adelante hacia atrás, pasando por cada hombro. La parte baja de la banda inferior del torso debe estar a una distancia mínima de 50 mm del borde inferior del chaleco.
+
+.
+
+Cotas en mm
+
+b) Una banda horizontal que rodee el torso, y bandas que unan aquélla de adelante hacia atrás por sobre cada hombro. La parte baja de la banda del torso debe estar a una distancia mínima de 50 mm del borde inferior del chaleco.
+
+.
+
+Cotas en mm
+
+c) Dos bandas horizontales rodeando el torso, separadas por una distancia mínima de 50 mm. La parte baja de la banda inferior debe estar a una distancia mínima de 50 mm del borde inferior del chaleco.
+
+.
+
+Cotas en mm
+
+El material de las bandas retrorreflectantes deberá cumplir con los requisitos mínimos para el coeficiente de retrorreflexión, medido en cd/(lx.m²), de acuerdo a los datos consignados en la siguiente tabla:
+
+Ángulo de Ángulo de iluminación
+
+observación 5º 20º 30º 40º
+
+12' 330 290 180 65
+
+20' 250 200 170 60
+
+1º 25 15 12 10
+
+1º30' 10 7 5 4
+
+El chaleco deberá encontrarse siempre en un lugar del vehículo que sea accsesible desde el interior del mismo.
 
 #### Artículo 18º
 
