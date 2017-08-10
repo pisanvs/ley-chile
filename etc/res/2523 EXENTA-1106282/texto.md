@@ -1,0 +1,5 @@
+DECLARA CADUCIDAD DE PLAN DE MANEJO Y EXPLOTACIÓN DE ÁREA DE MANEJO QUE INDICA Y DEJA SIN EFECTO RESOLUCIONES QUE SEÑALA
+
+Por resolución exenta Nº 2.523, de 2 de agosto de 2017, de esta Subsecretaría, declárase la caducidad del plan de manejo y explotación del área de manejo Pihuio, X Región, en virtud del artículo 144 letra b) de la Ley General de Pesca y Acuicultura y déjense sin efecto las resoluciones exentas Nº 2.162 de 2002, Nº 1.532 de 2003, Nº 1.805 de 2004, Nº 1.127 de 2005, Nº 1.754 de 2006, Nº 1.328 de 2007, Nº 945 de 2008, Nº 1.833 de 2009, Nº 475 y Nº 2.093, ambas de 2010, Nº 1.878 y Nº 3.082, ambas de 2011, todas de esta Subsecretaría, en virtud del artículo 21 del DS Nº 355 de 1995, del actual Ministerio de Economía, Fomento y Turismo.
+
+Valparaíso, 2 de agosto de 2017.- Pablo Berazaluce Maturana, Subsecretario de Pesca y Acuicultura.
