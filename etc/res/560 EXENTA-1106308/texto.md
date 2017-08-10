@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 560 EXENTA, DE 25 DE JULIO DE 2017
+
+Por resolución exenta N° 560, de fecha 25 de julio de 2017, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se modificó el resuelvo N° 1 de la resolución exenta N° 251, de fecha 10 de mayo de 2016, de esta Secretaría Regional, que aprobó los planes y Programas de la Escuela de Conductores No Profesionales, "Eduardo Humberto Ibáñez González", cuyo nombre de fantasía es "Escuela de Conductores Interlagos" el sentido de incorporar una nueva sede ubicada en Manuel Rodríguez N° 475, Local N° 6, de la comuna de Peralillo, que tendrá como Director a Sergio Enrique Durán Canales y representada legalmente por don Eduardo Humberto Ibáñez González; en todo lo no modificado, continúa vigente la resolución exenta N° 251, de 10 de mayo de 2016, de esta Secretaría Regional.-
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
