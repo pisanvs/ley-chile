@@ -14,7 +14,7 @@ Que a causa de los incendios que afectaron, entre otras, a la Región del Maule 
 
 Resolución:
 
-1. Llámase a partir de la fecha de publicación de la presente resolución en el Diario Oficial y hasta el 31 de agosto de 2017, ambas fechas inclusive, a inscripción para la asignación de subsidio habitacional en la modalidad de adquisición de vivienda, regulado por el DS N°1 (V. y U.), de 2011, destinado a la atención de los damnificados afectados por la catástrofe derivada de los incendios producidos en la Región del Maule en el mes de enero de 2017.
+1. Llámase a partir de la fecha de publicación de la presente resolución en el Diario Oficial y hasta el 29 de septiembre de 2017, ambas fechas inclusive, a inscripción para la asignación de subsidio habitacional en la modalidad de adquisición de vivienda, regulado por el DS N°1 (V. y U.), de 2011, destinado a la atención de los damnificados afectados por la catástrofe derivada de los incendios producidos en la Región del Maule en el mes de enero de 2017.
 
 Durante el período señalado, el Serviu recibirá las solicitudes de inscripción e ingreso al sistema computacional respectivo, con los documentos que deben acompañarlas, en los lugares de atención que éste disponga al efecto.
 
@@ -28,11 +28,13 @@ Podrán inscribirse en este llamado los damnificados cuyas viviendas hubieren re
 
 2. Sin perjuicio del cumplimiento de las exigencias establecidas en el DS N° 1 (V. y U.), de 2011, los damnificados deberán cumplir con los siguientes requisitos:
 
-a) Estar inscritos en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo y acreditar residencia en la vivienda siniestrada a la fecha de ocurrida la catástrofe, lo cual se verificará en la Ficha de Catastro N° 2 de Serviu Región del Maule.
+a) Estar inscritos en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo y acreditar residencia en la vivienda siniestrada a la fecha de ocurrida la catástrofe, lo cual se verificará en la Ficha de Catastro N° 2 de Serviu Región del Maule. Solo se permitirá la postulación de damnificados debidamente inscritos en el Registro de Damnificados administrado por Serviu, construido en base a catastro Serviu, Ficha Básica de Emergencia y Registro Social de Hogares.
 
 b) Presentar Declaración de Núcleo Familiar según formato provisto por el Serviu. No se exigirá que suscriban esta declaración las personas mayores de 18 años incluidas como integrantes del núcleo familiar. Solo podrá incluirse a los hijos de hasta 24 años que integran el núcleo familiar, que viven con el postulante y a sus expensas, señalándolo así expresamente en dicha declaración.
 
 c) Tratándose de damnificados del Sector Santa Olga, que sean propietarios del sitio en que estaba emplazada la vivienda siniestrada, para inscribirse en este llamado deberán al menos haber iniciado los trámites de transferencia de dominio del inmueble al Serviu o transacción con éste, o acreditar que ésta se ha efectuado.
+
+d) No ser propietarios de otro inmueble de carácter habitacional o cuando lo fuere su cónyuge o conviviente civil, salvo que ese inmueble se encuentre igualmente en estado inhabitable producto de la misma catástrofe, y en él no sea factible construir una nueva solución habitacional.
 
 3. Los inscritos en el presente llamado se eximirán del cumplimiento de los siguientes requisitos, condiciones o impedimentos establecidos en el DS N° 1 (V. y U.), de 2011, según corresponda:
 
@@ -42,13 +44,11 @@ b) Dar cumplimiento a lo dispuesto en la letra d2) de su artículo 16, con relac
 
 c) Contar con el instrumento de caracterización socioeconómica vigente, de acuerdo a lo señalado en la letra j) de su artículo 16.
 
-d) Acreditación de ingreso familiar bajo los máximos permitidos, de acuerdo a lo establecido en la letra m) de su artículo 16.
+d) Acreditaci�n de ingreso familiar bajo los máximos permitidos, de acuerdo a lo establecido en la letra m) de su artículo 16.
 
-e) Haber obtenido algún beneficio habitacional anterior del Serviu, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, o ser propietario de otros inmuebles destinados a la habitación, o si lo fuere su cónyuge, de acuerdo a lo señalado en las letras a) y e) de su artículo 17.
+e) Haber obtenido algún beneficio habitacional anterior del Serviu, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, o lo hubiere obtenido o aplicado su cónyuge o conviviente civil de acuerdo a lo señalado en la letra e) de su artículo 17.
 
-4. No obstante lo señalado en la letra e) del Resuelvo 3., no podrán inscribirse los allegados que aun cuando tengan la calidad de damnificados, sean propietarios de otro u otros inmuebles de carácter habitacional o cuando lo fuera su cónyuge, salvo que estos inmuebles se encuentren igualmente en estado inhabitable.
-
-Tampoco podrán inscribirse los damnificados que tengan algún certificado de subsidio habitacional vigente a la fecha, ni los que estuvieran postulando a cualquier otro programa habitacional de las instituciones del Sector Vivienda, o respecto de los cuales se hubiere efectuado la reserva del subsidio conforme al Título IV del DS N° 120 (V. y U.), de 1995, o si lo estuviere su cónyuge, de acuerdo a lo señalado en las letras b) y c) del artículo 17 del DS N° 1 (V. y U.), de 2011.
+4. No podrán inscribirse los damnificados que tengan algún Certificado de Subsidio Habitacional vigente a la fecha, ni aquellos que estuvieran postulando a cualquier otro programa habitacional del Ministerio de Vivienda y Urbanismo, o si lo estuviere su cónyuge o conviviente civil o respecto de los cuales se hubiere efectuado la reserva del subsidio conforme al Título IV del DS Nº 120 (V. y U.), de 1995, del DS Nº 116 (V. y U.), de 2014 o del DS Nº 19 (V. y U.), de 2016.
 
 5. Los beneficiarios de un subsidio habitacional otorgado por este Ministerio, que estén inscritos en el Registro de Damnificados, podrán acogerse a los montos de subsidio establecidos en esta resolución en caso que resulten más beneficiosos para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos.
 
