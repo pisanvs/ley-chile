@@ -30,17 +30,19 @@ Resuelvo:
 
 1° Deléguese, en los Secretarios(as) Regionales Ministeriales de Gobierno de cada una de las regiones del país, las siguientes facultades en relación al concurso público Fondo de Fortalecimiento de las Organizaciones de Interés público, y solo respecto de los proyectos de su respectiva región:
 
-a. Firmar los convenios de ejecución de proyectos locales y regionales.
+a. Dictar resoluciones exentas de adjudicación de proyectos locales y regionales.
 
-b. Dictar resoluciones exentas de aprobación de los convenios de ejecución suscritos por los beneficiarios.
+b. Firmar los convenios de ejecución de proyectos locales y regionales.
 
-c. Solicitar informes relacionados con la ejecución de los proyectos locales y regionales, realizar visitas e inspecciones en terrenos y hacer observaciones a los mismos.
+c. Dictar resoluciones exentas de aprobación de los convenios de ejecución suscritos por los beneficiarios.
 
-d. Responder todas las solicitudes efectuadas por las organizaciones, y en especial aprobar las solicitudes de la adecuación de la ejecución de determinados proyectos, incluida la modificación a la fecha de ejecución de determinados proyectos, su correspondiente rendición posterior y cambiar los gastos financiables de una categoría a otra, así como adecuar los presupuestos que formulen las organizaciones, siempre que no altere lo sustancial del proyecto adjudicado.
+d. Solicitar informes relacionados con la ejecución de los proyectos locales y regionales, realizar visitas e inspecciones en terrenos y hacer observaciones a los mismos.
 
-e. Facilitar el cierre de los proyectos adjudicados en los concursos conjuntamente con todos los trámites necesarios para la rendición del fondo, y aceptar las solicitudes de renuncia de los saldos a favor de las organizaciones.
+e. Responder todas las solicitudes efectuadas por las organizaciones, y en especial aprobar las solicitudes de la adecuación de la ejecución de determinados proyectos, incluida la modificación a la fecha de ejecución de determinados proyectos, su correspondiente rendición posterior y cambiar los gastos financiables de una categoría a otra, así como adecuar los presupuestos que formulen las organizaciones, siempre que no altere lo sustancial del proyecto adjudicado, y se observe estrictamente en estas materias el marco que fijan las bases que rigen el concurso.
 
-f. Hacer efectivas las garantías y enviar al respectivo Consejo de Defensa del Estado, y al respectivo Director Regional del Servicio de Impuestos Internos los antecedentes necesarios para iniciar las acciones que en derecho correspondan.
+f. Facilitar el cierre de los proyectos adjudicados en los concursos conjuntamente con todos los trámites necesarios para la rendición del fondo, y aceptar las solicitudes de renuncia de los saldos a favor de las organizaciones.
+
+g. Hacer efectivas las garantías y enviar al respectivo Consejo de Defensa del Estado, y al respectivo Director Regional del Servicio de Impuestos Internos los antecedentes necesarios para iniciar las acciones que en derecho correspondan.
 
 2° Comuníquese, a las y los Secretarios Regionales Ministeriales el contenido de la presente resolución.
 
