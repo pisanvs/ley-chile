@@ -62,7 +62,9 @@ Resolución:
 
 1.2.2.6 Proyectos de Habitabilidad, destinados al Acondicionamiento Térmico de la vivienda conforme a lo indicado en el Artículo 6° bis del DS N° 255 (V. y U.), de 2006, de las regiones del L. Bernardo O'Higgins, del Maule, del Biobío, de La Araucanía, de Los Ríos, de Los Lagos y de Aysén, y además proyectos del resto de las regiones que se ubiquen en zona térmica 4 o superior, según lo detallado en el resuelvo 13 de la presente resolución exenta.
 
-1.3 Título III, Ampliación de la Vivienda:
+1.2.2.7 Proyectos de "Obras de Innovaciones de Eficiencia Energética", que tengan como fin el instalar un Sistema Fotovoltaico en la vivienda, los que se regirán por lo indicado para ese tipo de obras en el DS N° 255 (V. y U.), de 2006. Además estos sistemas deberán cumplir con el Itemizado Técnico denominado "Itemizado Técnico para Sistemas Solares Térmicos - Minvu, Sistemas Individuales para Viviendas", adjunto a la presente resolución, el que se entenderá forma parte integrante de ésta.
+
+1.3 Título III, Ampliación de la Vivienda: En esta línea podrán participar cualquiera de los proyectos del Título III, señalados en la letra c) del artículo 5° del DS N° 255 (V. y U.), no obstante todas las viviendas tras ser intervenidas con este subsidio deberán alcanzar una superficie edificada mínima de 48 m2. Dentro de los estos proyectos se dará prioridad a los siguientes;
 
 1.3.1 Dentro de esta línea se atenderán proyectos especiales de ampliación, destinados a acoger a un Adulto Mayor, o en caso de ser este último el propietario de la vivienda a intervenir, a albergar a uno o más familiares que vengan a residir con él, según lo detallado en el resuelvo 14 de esta resolución exenta.
 
@@ -70,7 +72,7 @@ Resolución:
 
 1.3.3 Proyectos de ampliación para aquellas viviendas cuyo metraje de construcción sea igual o inferior a 30 metros cuadrados, las que se regirán de acuerdo a lo señalado en el resuelvo 16 de esta resolución exenta.
 
-1.3.4 Además podrán participar cualquiera de los proyectos del Título III, de Ampliación de la Vivienda, señalados en la letra c) del Artículo 5°, del DS N° 255 (V. y U.) de 2006.
+1.3.4 Eliminado.
 
 2. Para este llamado se considerarán los siguientes tipos de proyectos como focalizados:
 
@@ -106,7 +108,7 @@ f) Proyecto para atender el hacinamiento en la vivienda.
 
 g) Proyecto de Ampliación en Viviendas de igual o menos de 30 metros cuadrados.
 
-A estos tipos de Proyectos Focalizados señalados en el punto 2.2. precedente, se les otorgará al total del grupo, un puntaje adicional a los ya dispuestos en el DS N° 255 (V. y U.), de 2006, para los proyectos de mejoramiento y/o ampliación de una vivienda. Los puntajes serán los estipulados en el siguiente cuadro:
+A estos tipos de Proyectos Focalizados se�alados en el punto 2.2. precedente, se les otorgará al total del grupo, un puntaje adicional a los ya dispuestos en el DS N° 255 (V. y U.), de 2006, para los proyectos de mejoramiento y/o ampliación de una vivienda. Los puntajes serán los estipulados en el siguiente cuadro:
 
 .
 
@@ -394,7 +396,13 @@ Además estos montos podrán incrementarse en 45 Unidades de Fomento en el caso 
 
 El postulante debe ser postulante individual o bien encontrarse inserto en un grupo compuesto por a lo menos un 30% de sus integrantes con este tipo de proyecto de dormitorio o de un tipo de proyecto declarado focalizado, además que en dicho proyecto y presupuesto se contemplen obras para atender el hacinamiento, en a lo menos un 60 % del proyecto.
 
-16. Para los casos de las viviendas cuya construcción regularizada es igual o menor a 30 metros cuadrados, cuyo proyecto sea un T III, Ampliación de la Vivienda, y su Objetivo es construir ampliación para llegar a un metraje mínimo de 43 metros cuadrados, el monto de subsidio debe ser incrementado respecto de lo señalado en el Artículo 6° del DS N° 255 (V. y U.), de 2006, dado que el proyecto contempla la construcción de uno o más dormitorios, y que con los recursos del subsidio no alcanzan a financiarse, el monto de subsidio se calculará aplicando la siguiente fórmula:
+16. Cualquier vivienda a intervenir con un Título III, Ampliación de la Vivienda de este programa debe lograr que su superficie tras ser ampliada sea igual o superior a 48 m2 edificada, en especial en los casos cuya construcción regularizada sea igual o menor a 40 metros cuadrados. Con este fin el monto del subsidio se aumenta respecto de lo señalado en el artículo 6° del DS N° 255 (V. y U.), de 2006, para cualquiera de los tipos de proyectos que se indican en el artículo 5° del mismo reglamento, pudiendo en casos de viviendas de menor tamaño construirse uno o más de los recintos descritos en estos proyectos para llegar a esta superficie. En todos los casos el proyecto de ampliación deberá cumplir con el cuadro normativo de la letra r) del artículo 16 del reglamento e incluir un espacio adicional que permita incluir dos módulos de closets de 50x60 cm en cada recinto. En el caso de las viviendas de menos de 30 m2, el proyecto deberá contemplar a lo menos la construcción de uno o más dormitorios. Para todos estos casos el monto de subsidio se calculará aplicando la siguiente tabla, y el tamaño del recinto mínimo a construir con la ampliación será de 10 m2 en el caso de dormitorios:
+
+Para ampliaciones en primer piso contarán con los siguientes montos de subsidio:
+
+.
+
+Para ampliaciones en segundo piso contarán con los siguientes montos de subsidio:
 
 .
 
@@ -422,7 +430,7 @@ El postulante debe ser postulante individual o bien encontrarse inserto en un gr
 
 En las postulaciones colectivas se aceptará que el 60% de los integrantes cumplan con el tramo del 60% según Calificación Socioeconómica y el 40% de los integrantes del grupo podrán superar este tope.
 
-23. Para el pago de los subsidios que requieran permiso de edificación se permitirá pagar un 70% del monto del contrato al momento de que el contratista o constructor haya terminado las obras, y que éstas hayan sido recibidas por SERVIU y la EP. Dejando el 30% restante para cuando haya presentado la recepción final de las obras. En los demás casos se pagará según se indica en el DS Nº 255 (V. y U.), de 2006.
+23. Para el pago de los subsidios que requieran permiso de edificación u otras aprobaciones (por ejemplo el formulario de trámite eléctrico "TE1" de la Superintendencia de Electricidad y Combustibles, o resolución Sanitaria en caso de Proyectos de Asbesto) se permitirá pagar un 70% del monto del contrato al momento de que el contratista o constructor haya terminado las obras, y que estas hayan sido recibidas por Serviu y el Prestador de Servicios de Asistencia Técnica. Dejando el 30% restante para cuando haya presentado la recepción final de las obras o las aprobaciones tramitadas. En los demás casos se pagará según se indica en el DS N° 255 (V. y U.), de 2006.
 
 24. En virtud de que la Ficha de Protección Social ya no está vigente, para determinar el puntaje señalado en el cuadro de la letra a) del Artículo 28 del DS N° 255 (V. y U.) de 2006, se aplicará el tramo de la Calificación Socioeconómica (CSE) del Registro Social de Hogares (RSH), estableciéndose para estos fines una conversión a un puntaje equivalente al que tenía el Quintil en la Ficha de Protección Social para que sea compatible con el cálculo de puntaje señalado en dicho Artículo.
 
