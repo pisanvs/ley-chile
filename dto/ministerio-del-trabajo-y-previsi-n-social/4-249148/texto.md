@@ -54,7 +54,7 @@ En caso de empate, se entenderá elegido el afiliado que tenga mayor antigüedad
 
 #### Artículo 6º
 
-El Consejo celebrará, a lo menos, dos sesiones ordinarias al mes, en el día, lugar y tabla que fijen sus miembros en la primera sesión del año. La citación la hará por escrito el Jefe del Servicio con 5 días de anticipación de la fecha que fijen los integrantes del Consejo. Las sesiones extraordinarias se efectuarán, cuando proceda, conforme el artículo 23º del Reglamento General, y serán citadas por escrito por el Presidente del Consejo.
+El Consejo celebrará, a lo menos, una sesión ordinaria al mes, en el día, lugar y tabla que fijen sus miembros en la primera sesión del año. La citación la hará por escrito el Jefe del Servicio de Bienestar con 5 días de anticipación de la fecha que fijen los integrantes del Consejo. Las sesiones extraordinarias se efectuarán, cuando proceda, conforme el artículo 23º del Reglamento General, y serán citadas por escrito por el presidente del Consejo.
 
 ## Título IV
 
@@ -72,11 +72,13 @@ c) Con un aporte mensual de hasta el 2,0% de la remuneración imponible para pen
 
 d) Con los intereses de los préstamos que otorga el Servicio a sus afiliados;
 
-e) Con el producto de las comisiones o bonificaciones provenientes de los convenios que se celebren con empresas industriales, comerciales o de servicios, u otros necesarios para el funcionamiento y cumplimiento de los fines del Servicio;
+e) Los excedentes que genere la administración de los servicios dependientes, siempre que la institución que concedió dicha administración lo hubiese autorizado en la resolución correspondiente.
 
-f) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias, y
+f) Con el producto de las comisiones o bonificaciones provenientes de los convenios que se celebren con empresas industriales, comerciales o de servicios, u otros necesarios para el funcionamiento y cumplimiento de los fines del Servicio;
 
-g) Con los demás bienes y recursos que el Servicio obtenga a cualquier título.
+g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias, y
+
+h) Con los demás bienes y recursos que el Servicio obtenga a cualquier título.
 
 #### Artículo 8º
 
@@ -140,7 +142,7 @@ a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes es
 
 b) Nacimiento: Por el nacimiento de un hijo. Si ambos padres estuviesen afiliados al Servicio, podrán invocar el beneficio en forma independiente.
 
-c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado, de su cónyuge y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
+c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado, de su cónyuge o conviviente civil y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
 
 En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
@@ -148,7 +150,7 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente o
 
 2. A la persona que acredita haber efectuado los gastos del funeral;
 
-3. Al cónyuge sobreviviente;
+3. Al cónyuge sobreviviente o conviviente civil sobreviviente;
 
 4. A los hijos;
 
@@ -170,9 +172,11 @@ i) Beca de Excelencia Académica: Se otorgará por una sola vez en el año, a lo
 
 j) Beneficio de Fiestas Patrias: Se otorgará a todos los afiliados un bono, en el mes de septiembre de cada año.
 
+k) Bono por Acuerdo de Unión Civil: Cuando el afiliado suscriba el contrato de Acuerdo de Unión Civil según la ley Nº 20.830. Si ambos contratantes estuvieren afiliados al Servicio, cada uno tendrá derecho a invocar el beneficio en forma independiente.
+
 El monto de las ayudas contempladas en las letras a), b), c), d), e), g), h), i), y j), precedentes será determinado por el Consejo conforme a lo señalado en la letra g), del artículo 29º del Reglamento General.
 
-Para solicitar los beneficios señalados en las letras a), b), c), y d), el afiliado deberá presentar una solicitud con el certificado respectivo emitido por el Servicio de Registro Civil e Identificación o el establecimiento educacional, según corresponda. En el caso del beneficio señalado en la letra e), se deberá presentar, junto con la solicitud, antecedentes suficientes que a juicio del Consejo acrediten la situación del afiliado.
+Para solicitar los beneficios señalados en las letras a), b), c), d) y k), el afiliado deberá presentar una solicitud con el certificado respectivo emitido por el Servicio de Registro Civil e Identificación o el establecimiento educacional, según corresponda. En el caso del beneficio señalado en la letra e), se deberán presentar, junto con la solicitud, antecedentes suficientes que a juicio del Consejo acrediten la situación del afiliado.
 
 Los beneficios establecidos en las letras h) y j) se entregarán a todos los afiliados(as) que se encuentren al día en sus aportes y que no tengan deudas pendientes con el Servicio de Bienestar.
 
@@ -226,11 +230,11 @@ De la atención cultural, deportiva y recreacional
 
 #### Artículo 15º
 
-El Servicio procurará el progreso social, educacional, deportivo, recreativo y artístico cultural de sus afiliados y sus cargas familiares, utilizando al máximo sus recursos y facilidades que le otorgue el Gobierno Regional Región del Bío Bío, otras entidades o la propia comunidad, pudiendo adquirir para ello bienes, tales como regalos de Navidad, elementos deportivos y demás que fueren necesarios para la realización de las actividades involucradas en el cumplimiento de estos objetivos.
+El Servicio procurará el progreso social, educacional, deportivo, recreativo y artístico cultural de sus afiliados y sus cargas familiares, utilizando al máximo sus recursos y facilidades que le otorgue el Gobierno Regional Región del Bío Bío, otras entidades o la propia comunidad, pudiendo adquirir para ello bienes, tales como regalos de Navidad y cumpleaños, elementos deportivos y demás que fueren necesarios para la realización de las actividades involucradas en el cumplimiento de estos objetivos.
 
 El Consejo fijará anualmente los porcentajes y el monto total de los recursos que deberán destinarse para estos efectos.
 
-El Servicio podrá administrar recintos de veraneo, jardines infantiles, casinos de personal, clubes deportivos y, en general, otros recintos destinados al uso de sus afiliados, excluyendo de dicha facultad la de contratar personal, que corresponde a la autoridad superior.
+El Servicio podrá administrar recintos de veraneo, jardines infantiles, casinos de personal, clubes deportivos, cafeterías, viviendas fiscales de uso habitacional de funcionarios, estacionamientos, hospedajes y, en general, otros recintos destinados al uso de sus afiliados, excluyendo de dicha facultad la de contratar personal, que corresponde a la autoridad superior.
 
 #### Artículo 16º
 
