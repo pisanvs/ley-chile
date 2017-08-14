@@ -40,7 +40,7 @@ Considerando:
 
 Decreto:
 
-1°.- Apruébase el programa de expropiación de 38 inmuebles de distintos propietarios aparentes, conforme a los roles señalados en los considerandos del presente decreto, todos los cuales corresponden a la comuna y Región de Valparaíso, de una superficie total 7.459,36 metros cuadrados, destinados al proyecto de vialidad urbana denominado "Mejoramiento y Prolongación Avenida Alessandri, Tramo B + R".
+1°.- Apruébase el programa de expropiación de 38 inmuebles de distintos propietarios aparentes, conforme a los roles señalados en los considerandos del presente decreto, todos los cuales corresponden a la comuna y Región de Valparaíso, de una superficie total 7.459,36 metros cuadrados, destinados al proyecto de vialidad urbana denominado "Mejoramiento y Prolongación Avenida Alemania, Tramo B + R".
 
 2°.- El presente decreto se publicará en el Diario Oficial y en un periódico de la provincia de Valparaíso, Región de Valparaíso, si lo hubiere.
 
