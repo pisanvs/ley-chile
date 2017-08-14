@@ -126,17 +126,17 @@ El cofinanciamiento del Comité de Desarrollo Productivo Regional no podrá exce
 
 Línea Cooperativas:
 
-Modalidad 1 de Creación y Desarrollo: tope máximo de $10.000.000 (diez millones de pesos) por proyecto.
+Modalidad 1 de Creación y Desarrollo: tope máximo de $8.000.000.- (ocho millones de pesos) por proyecto.
 
-Modalidad 2 de Fortalecimiento: tope máximo de hasta $8.000.000 (ocho millones de pesos) por proyecto.
+Modalidad 2 de Fortalecimiento: tope máximo de hasta $10.000.000.- (diez millones de pesos) por proyecto.
 
 Línea Asociaciones Empresariales y/o Gremiales:
 
-Modalidad 1 de Creación: tope máximo de $3.000.000 (tres millones de pesos) por proyecto.
+Modalidad 1 de Creación: Tope máximo de $3.000.000.- (tres millones de pesos) por proyecto.
 
-Modalidad 2 de Fortalecimiento: tope máximo de hasta $8.000.000 (ocho millones de pesos) por proyecto.
+Modalidad 2 de Fortalecimiento: Tope máximo de hasta $8.000.000.- (ocho millones de pesos) por proyecto.
 
-Modalidad 3 de Creación y Desarrollo: tope máximo de hasta $10.000.000 (diez millones de pesos) por proyecto.
+Modalidad 3 de Creación y Desarrollo: Tope máximo de hasta $10.000.000.- (diez millones de pesos) por proyecto.
 
 ### 6. COSTOS DE ADMINISTRACIÓN
 
