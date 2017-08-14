@@ -1528,6 +1528,12 @@ regiones Metropolitana y de Valparaíso;
 
 43) DEROGADO.
 
+G) EN LA JEFATURA DEL DEPARTAMENTO DE CIUDADANÍA CULTURAL
+
+Otorgar autorizaciones, respecto de las interpretaciones y ejecuciones de la Orquesta de Cámara de Chile y del Ballet Folclórico Nacional, para su grabación, reproducción, transmisión o retransmisión, sin fines de lucro, por medio de organismos de radiodifusión o televisión, o el uso por cualquier otro medio, de tales interpretaciones o ejecuciones.
+
+En ningún caso podrá autorizarse la distribución al público mediante venta, o cualquier otra transferencia de propiedad del original o de los ejemplares de su interpretación o ejecución.
+
 #### Artículo segundo
 
 <!-- parte:9370908 -->
