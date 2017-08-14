@@ -1540,6 +1540,12 @@ regiones Metropolitana y de Valparaíso;
 
 43) DEROGADO.
 
+G) EN LA JEFATURA DEL DEPARTAMENTO DE CIUDADANÍA CULTURAL
+
+Otorgar autorizaciones, respecto de las interpretaciones y ejecuciones de la Orquesta de Cámara de Chile y del Ballet Folclórico Nacional, para su grabación, reproducción, transmisión o retransmisión, sin fines de lucro, por medio de organismos de radiodifusión o televisión, o el uso por cualquier otro medio, de tales interpretaciones o ejecuciones.
+
+En ningún caso podrá autorizarse la distribución al público mediante venta, o cualquier otra transferencia de propiedad del original o de los ejemplares de su interpretación o ejecución.
+
 #### Artículo segundo
 
 Para los efectos de la presente resolución se entenderá por "fondos de cultura" el conjunto constituido por el Fondo para el Fomento de la Música Nacional, el Fondo Nacional de Desarrollo Cultural y las Artes, el Fondo de Fomento Audiovisual y el Fondo Nacional de Fomento del Libro y la Lectura.
