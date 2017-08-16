@@ -142,7 +142,9 @@ Normas de excepción
 
 #### Artículo 13º
 
-En los casos de sismo o calamidad pública, que dé lugar a la declaración del estado de excepción constitucional de catástrofe, se podrá otorgar hasta un 100% de condonación de intereses y multas que accedan a impuestos y contribuciones de los contribuyentes o inmuebles situados en las zonas geográficas afectadas, mediante la dictación de una resolución de general aplicación, según los criterios que en ella se determinen por el Tesorero General de la República.
+En los casos de sismo o calamidad pública, que dé lugar a la declaración de zona de catástrofe o de zona afectada por catástrofe, se podrá otorgar hasta un 100% de condonación de intereses y multas que accedan a impuestos y contribuciones de los contribuyentes o inmuebles situados en las zonas geográficas afectadas, mediante la dictación de una resolución de general aplicación, según los criterios que en ella se determinen por el Tesorero General de la República.
+
+> **Nota.** La Resolución 1230 Exenta, Hacienda, publicada el 16.08.2017, modifica el presente artículo en el sentido de sustituir la frase "que dé lugar al estado de excepción constitucional de catástrofe", sin embargo, en el texto dice "que dé lugar a la declaración del estado de excepción constitucional de catástrofe", se efectúa la modificación de todos modos de la manera indicada.
 
 #### Artículo 14º
 
