@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 732, de 13 de julio de 2017, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 21, para la obra "MEJORAMIENTO RUTA E-525, SECTOR EL TÁRTARO - LOS PATOS, TRAMO: KM. 15,42000 AL KM. 20,96000", que figura a nombre de FERNÁNDEZ MANCILLA ORIANA DEL C, rol de avalúo 451-22, Comuna de PUTAENDO, Región de Valparaíso, superficie 50 m2. La Comisión de Peritos integrada por ANTONIO DÍAZ ROZAS, MARÍA ISABEL RÍOS MARCUELLO y MARÍA CRISTINA AYALA MUÑOZ, mediante informe de tasación de 05 de julio de 2013, complementada por acta de fecha 28 de diciembre de 2016, fijaron el monto de la indemnización provisional en la cantidad de $1.527.000.- para el lote N° 21. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
