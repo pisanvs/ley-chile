@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 782 de 21 de julio de 2017, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 51, Rol de avalúo 575-24, Comuna de Teodoro Schmidt, superficie 780 m2., para la obra "Mejoramiento Rutas S-46, S-618, sector: Pto. Domínguez - Hualpin", comunas de Saavedra y Teodoro Schmidt, Provincia de Cautín, Región de la Araucanía. La comisión de peritos, integrada por Patricio Fernando Casagrande Ulloa, María Soledad Núñez Arroyo y Yaschala Maribel Yáñez Riffo, fijó el valor de tasación con fecha 27 de abril de 2015, acordándose la indemnización con su propietaria MIGNA ODILIA VÁSQUEZ LEAL Y OTRAS, en la cantidad de $4.361.147.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
