@@ -1,0 +1,3 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.324, de 18 de mayo de 2017, Serviu Región de Valparaíso dispuso expropiación conforme al artículo 51 de la ley 16.391; decreto ley 2.186, de 1978, y decreto exento Nº 222, de 8 de noviembre de 2016, del Minvu, del inmueble ubicado en calle Carlos Rogers S/N, Cerro Merced, comuna de Valparaíso, Rol SII 5189-15, presunto dominio Olga del C. Gómez Albornoz y otros, monto indemnización provisional en $9.207.780; el monto de indemnización provisional fue fijado por la Comisión Tasadora integrada por Irma Díaz Riveros, Hugo Fuentes Jara y Enrique Ramos Guzmán, según informe de tasación de septiembre de 2016, que será pagada al contado.
