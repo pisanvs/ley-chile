@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 699, de 7 de julio de 2017, se desistió parcialmente de la expropiación del lote N° 136, realizada por decreto exento MOP N° 148, de 27 de marzo de 2015, en cuanto a disminuir la superficie de dicho lote a 284 m2., expropiado para la ejecución de obra "Camino Mejoramiento Ruta L-45, Sector Escuela Llepo - El Peñasco, Tramo Kilómetro 12,10000 a Km. 20,13700" Comuna y Provincia de Linares, VII Región de Maule.
