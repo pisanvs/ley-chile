@@ -44,8 +44,6 @@ Considerando:
 
 Resuelvo:
 
-> **Nota.** El Artículo primero de la Resolución 10 Exenta, Energía, publicada el 18.01.2018, dispone la prórroga de vigencia de la presente norma a partir del 21 de enero de 2018 y hasta que la modificación al decreto supremo Nº 86 de 2012, del Ministerio de Energía entre en vigencia, en conformidad a lo dispuesto en el artículo vigésimo transitorio de la ley Nº 20.936.
-
 #### Artículo primero
 
 Establécense los plazos, requisitos y condiciones a los que deberá sujetarse el proceso de fijación de precios de nudo de corto plazo regulado en los artículos 155° y siguientes de la Ley General de Servicios Eléctricos, respecto de las materias que se regulan en la parte resolutiva de la presente resolución.
@@ -60,7 +58,7 @@ Los nuevos precios de nudo de corto plazo entrarán en vigencia a contar del 1°
 
 #### Artículo 3°
 
-Para los efectos de cada fijación semestral de precios de nudo de corto plazo, la Comisión comunicará, al Ministerio de Energía y a las empresas eléctricas que corresponda, un informe técnico definitivo del cálculo de los precios de nudo de corto plazo, los días 31 de enero y 31 de julio de cada año, respectivamente, o al siguiente día hábil. La comunicación a las empresas eléctricas, así como toda notificación referida a los respectivos informes técnicos, podrá realizarse a través del Coordinador Independiente del Sistema Eléctrico Nacional a que se refiere el artículo 72-1 de la Ley, en adelante el "Coordinador".
+Para los efectos de cada fijación semestral de precios de nudo de corto plazo, la Comisión comunicará, al Ministerio de Energía y a las empresas eléctricas que corresponda, un informe técnico definitivo del cálculo de los precios de nudo de corto plazo, los días 31 de enero y 31 de julio de cada año, respectivamente, o al siguiente día hábil. La comunicación a las empresas eléctricas podrá realizarse a través de los Centros de Despacho Económico de Carga o el organismo que los reemplace, en adelante el "Coordinador".
 
 Dentro de los primeros quince días del mes anterior al establecido para la comunicación del informe técnico definitivo a que se refiere el inciso anterior, la Comisión deberá poner en conocimiento del Coordinador y de los coordinados a través de éste, un informe técnico preliminar del cálculo de los precios de nudo según el procedimiento indicado en el artículo 162° de la ley, el que deberá contener lo señalado en el artículo 165° de la misma.
 
@@ -176,7 +174,7 @@ c) Eliminado.
 
 #### Artículo segundo
 
-El informe técnico de la Comisión al que se refiere el artículo 7° del decreto supremo N° 29, de 2014, del Ministerio de Energía, que Aprueba Reglamento de Licitaciones para la Provisión de Bloques Anuales de Energía Provenientes de Medios de Generación de Energía Renovable No Convencional, deberá ser emitido dentro de los diez primeros días hábiles del mes de noviembre de cada año. Para dichos efectos, deberán considerarse los antecedentes asociados al informe técnico definitivo de precios de nudo de corto plazo que debe comunicar la Comisión el 31 de julio de cada año.
+El informe técnico de la Comisión al que se refiere el artículo 7° del decreto supremo N° 29, del 2014, del Ministerio de Energía que aprueba Reglamento de Licitaciones para la Provisión de Bloques Anuales de Energía Provenientes de Medios de Generación de Energía Renovable No Convencional, deberá ser emitido dentro de los cinco primeros días hábiles del mes de noviembre de 2016. Para dichos efectos, deberán considerarse los antecedentes asociados a la fijación de precios de nudo vigente a la fecha de publicación de la presente resolución.
 
 #### Artículo tercero
 
