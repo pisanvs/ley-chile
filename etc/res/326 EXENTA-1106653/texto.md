@@ -1,0 +1,5 @@
+SE DISPONE VIGÉSIMA CUARTA EMISIÓN DE OTORGAMIENTO DEL APORTE ÚNICO DE CARÁCTER REPARATORIO LEY N° 20.874, A LAS PERSONAS QUE SE INDIVIDUALIZAN Y POR LOS MONTOS QUE EN CADA CASO SE INDICAN
+
+Por resolución exenta Nº 326, de 14 de julio de 2017, el Director Nacional del Instituto de Previsión Social, dispone la publicación de la vigésima cuarta emisión del otorgamiento del aporte único de carácter reparatorio Ley Nº 20.874, a las Personas Reconocidas como Víctimas en el Informe de la Comisión Nacional sobre Prisión Política y Tortura; y a los titulares incluidos en la nómina de víctimas de prisión política y tortura elaborada por la Comisión Asesora para la calificación de Detenidos Desaparecidos, Ejecutados Políticos y Víctimas de Prisión Política y Tortura, conforme con las leyes Nº 19.992 y Nº 20.405, respectivamente. Si el titular estuviere fallecido, corresponderá a su cónyuge sobreviviente el 60% del aporte del titular víctimas de prisión política y tortura.
+
+Santiago, 9 de agosto de 2017.- Patricio Coronado Rojo, Director Nacional.
