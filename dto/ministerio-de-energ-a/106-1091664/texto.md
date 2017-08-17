@@ -172,15 +172,15 @@ Etapas previas al llamado a licitación
 
 #### Artículo 11
 
-Las Concesionarias, deberán informar semestralmente a la Comisión, a más tardar el 15 de enero y 15 de julio de cada año, en forma justificada, detallada y documentada, las proyecciones de demanda, las necesidades de suministro a contratar y los supuestos y metodologías utilizados conforme al formato y contenido que defina la Comisión, el que será debidamente comunicado a las Concesionarias, a través de correo electrónico. La información proporcionada por las Concesionarias será publicada por la Comisión en su sitio web.
+Las Concesionarias, deberán informar semestralmente a la Comisión, a más tardar el 1° de junio y 1° de diciembre de cada año, en forma justificada, detallada y documentada, las proyecciones de demanda, las necesidades de suministro a contratar y los supuestos y metodologías utilizados conforme al formato y contenido que defina la Comisión, el que será debidamente comunicado a las Concesionarias, a través de correo electrónico. La información proporcionada por las Concesionarias será publicada por la Comisión en su sitio web.
 
 #### Artículo 12
 
-Para efecto de establecer las comunicaciones a través de correo electrónico con las Concesionarias y las Empresas Generadoras, estas deberán comunicar a la Comisión sus casillas de correo electrónico a más tardar dentro de los 5 primeros días del mes de diciembre de cada Año Calendario. Además deberán informar inmediatamente cualquier cambio que efectúen.
+Para efecto de establecer las comunicaciones a través de correo electrónico con las Concesionarias y las Empresas Generadoras, estas deberán comunicar a la Comisión sus casillas de correo electrónico a más tardar dentro de los 5 primeros días del mes de marzo de cada Año Calendario. Además deberán informar inmediatamente cualquier cambio que efectúen.
 
 #### Artículo 13
 
-Anualmente, en el mes de diciembre, la Comisión a través del correspondiente acto administrativo, abrirá un proceso de registro de las instituciones y usuarios interesados en realizar observaciones de carácter técnico al Informe Preliminar de Licitaciones. El llamado a inscripción en el registro será publicado en el Diario Oficial y en el sitio web de la Comisión.
+Anualmente, en el mes de marzo, la Comisión a través del correspondiente acto administrativo, abrirá un proceso de registro de las instituciones y usuarios interesados en realizar observaciones de carácter técnico al Informe Preliminar de Licitaciones. El llamado a inscripción en el registro será publicado en el Diario Oficial y en el sitio web de la Comisión.
 
 Para efectos de inscribirse en dicho registro, las instituciones y usuarios interesados deberán presentar una solicitud en la que indicarán y acompañarán los siguientes antecedentes, según corresponda:
 
@@ -210,9 +210,9 @@ Informes preliminar y final de licitaciones
 
 #### Artículo 14
 
-La Comisión anualmente, a más tardar en el mes de mayo, deberá publicar el Informe Final de Licitaciones que determinará las licitaciones de suministro necesarias para abastecer, al menor costo de suministro, los consumos de los Clientes Regulados, sobre la base de la información proporcionada por las Concesionarias, de acuerdo al artículo 11 del presente reglamento.
+La Comisión anualmente, a más tardar en el mes de septiembre, deberá publicar el Informe Final de Licitaciones que determinará las licitaciones de suministro necesarias para abastecer, al menor costo de suministro, los consumos de los Clientes Regulados, sobre la base de la información proporcionada por las Concesionarias, de acuerdo al artículo 11 del presente reglamento.
 
-Para estos efectos a más tardar dentro de los 15 primeros días del mes de marzo de cada año, la Comisión elaborará y publicará un Informe Preliminar de Licitaciones en su sitio web y adicionalmente lo enviará en la misma oportunidad, a las casillas de correo electrónico informadas por las Concesionarias, las Empresas Generadoras y las instituciones y usuarios interesados.
+Para estos efectos a más tardar dentro de los 15 primeros días del mes de julio de cada año, la Comisión elaborará y publicará un Informe Preliminar de Licitaciones en su sitio web y adicionalmente lo enviará en la misma oportunidad, a las casillas de correo electrónico informadas por las Concesionarias, las Empresas Generadoras y las instituciones y usuarios interesados.
 
 El Informe Preliminar de Licitaciones contendrá los aspectos técnicos del análisis de las proyecciones de demanda de las Concesionarias, de la situación esperada respecto de la oferta potencial de energía eléctrica en el período relevante y, si existieren, las condiciones especiales de la Licitación.
 
