@@ -32,100 +32,50 @@ Acceso: Ruta 60CH - Rotonda La Palma - Rafael Ariztía - Avenida Doctor Fernando
 
 Salida: Rodoviario - Teniente Ignacio Serrano - Avenida Doctor Fernando Monckeberg - Rafael Ariztía - Rotonda La Palma - Ruta 60CH.
 
-2º: Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural que no utilizan terminal o recinto para iniciar y/o finalizar el servicio en la comuna de Quillota:
+2º Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural que no utilizan terminal o recinto para iniciar y/o finalizar el servicio en la comuna de Quillota:
 
-a) Servicios desde y hacia las comunas o localidades ubicadas al sur de la ciudad de Quillota:
-
-Ruta F-62 - Avenida Juan Bautista Alberdi - Hermano Fernando de la Fuente - Bernardo O'Higgins - Hospital Biprovincial - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Carlos Condell - Avenida 21 de Mayo - Simón Álamos - Merced - Manuel Rodríguez - Avenida 21 de Mayo - Avenida Carlos Condell - Hermano Fernando de la Fuente - Avenida Juan Bautista Alberdi - Ruta F-62.
-
-O
-
-Ruta F-62 - Avenida Juan Bautista Alberdi - Avenida Valparaíso - Pudeto - Avenida Carlos Condell - Avenida 21 de Mayo - Simón Álamos - Merced - Teniente Ignacio Serrano - Molinare - 18 de Septiembre - Carrera - Concepción - Avenida Valparaíso - Avenida Juan Bautista Alberdi - Ruta F-62.
+a) Servicios desde y hacia las comunas o localidades ubicadas al sur de la ciudad de Quillota: Ruta F-62, Alberdi, Hermano de la Fuente, Av. Condell, 21 de Mayo, Simón Álamos, Merced, M. Rodríguez, 21 de Mayo, Av. Condell, Hermano de la Fuente, Alberdi, Ruta F-62, o bien, Ruta F-62, Alberdi, Av. Valparaíso, Pudeto, Av. Condell, 21 de Mayo, Simón Álamos, Merced, Serrano, Molinare, 18 de Septiembre, Carrera, La Concepción, Av. Valparaíso, Ruta F-62.
 
 b) Servicios desde y hacia las comunas o localidades ubicadas al norte de la ciudad de Quillota:
 
-Ruta F-62 - Avenida 21 de Mayo - Teniente Ignacio Serrano - Molinare - 18 de Septiembre - Carrera - Concepción - Germán Riesco - Los Copihues - Hermanos Carrera - José Miguel Carrera - Agustín Avezón - Avenida Valparaíso - Las Industrias - Salvador Said - Avenida Juan Bautista Alberdi - Hermano Fernando de la Fuente - Bernardo O'Higgins - Hospital Biprovincial - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Carlos Condell - Avenida 21 de Mayo - Ruta F-62.
+Ruta 62CH - 21 de Mayo - Simón Álamos - Merced - Serrano - Molinare - 18 de Septiembre - Carrera - La Concepción - Germán Riesco - Los Copihues - Hermanos Carrera - José Miguel Carrera - Agustín Avezón - Av. Valparaíso - Las Industrias - Salvador Said - Alberdi - Freire - Arauco - Av. Condell - 21 de Mayo - Ruta 62CH; o bien, Ruta 62CH - 21 de Mayo - Simón Álamos - Merced - M. Rodríguez - 21 de Mayo - Av. Condell - Ahumada - Freire - Alberdi - Av. Valparaíso - Pudeto - Av. Condell - 21 de Mayo - Ruta 62CH.
 
-O
+c) Servicios que utilizan la ciudad de Quillota como vía de paso de Norte a Sur:
 
-Ruta F-62 - Avenida 21 de Mayo - Avenida Carlos Condell - Ramón Freire - Caletera Poniente Ruta 60CH - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Juan Bautista Alberdi - Avenida Valparaíso - Concepción - Las Rosas - Pudeto - Avenida Carlos Condell - Avenida 21 de Mayo - Ruta F-62.
+Acceso: Ruta 62CH - 21 de Mayo - Simón Álamos - M. Rodríguez - 21 de Mayo - Av. Condell - Ahumada - Freire - Alberdi - Ruta 62CH.
 
-c) Servicios que utilizan la ciudad de Quillota como vía de paso de norte a sur y viceversa:
+Salida: Ruta 62CH - Alberdi - Freire - Arauco - Av. Condell - 21 de Mayo - Ruta 62CH.
 
-Acceso Norte: Ruta F-62 - Avenida 21 de Mayo - Avenida Carlos Condell - Ramón Freire - Caletera Poniente Ruta 60CH - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Juan Bautista Alberdi - Ruta F-62.
+3º Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios de locomoción colectiva desde y hacia la localidad de San Pedro:
 
-Acceso Sur: Ruta F-62 - Avenida Juan Bautista Alberdi - Hermano Fernando de la Fuente - Bernardo O'Higgins - Hospital Biprovincial - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Carlos Condell - Avenida 21 de Mayo - Ruta F-62.
+Acceso: Ruta 62CH - 21 de Mayo - Simón Álamos - M. Rodríguez - 21 de Mayo - Av. Condell - Ahumada - Freire - Alberdi - Ruta 62CH - San Pedro.
 
-3º: Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios de locomoción colectiva desde y hacia la localidad de San Pedro:
+Salida: San Pedro - Ruta 62CH - Alberdi - Freire - Arauco - Av. Condell - 21 de Mayo - Ruta 62CH, o bien, San Pedro - Ruta 62CH - Av. Valparaíso - Pudeto - Av. Condell - 21 de Mayo - Ruta 62CH.
 
-San Pedro - Ruta F-62 - Avenida Juan Bautista Alberdi - Hermano Fernando de la Fuente - Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Hermano Fernando de la Fuente - Avenida Juan Bautista Alberdi - Ruta F-62 - San Pedro.
+4º Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios desde y hacia el sector de Boco, Rautén hasta Colmo:
 
-O
+Acceso: 21 de Mayo - Serrano - Molinare - 18 de Septiembre - Carrera - La Concepción - Puente Boco - Boco - Rautén - Manzanar - Mauco - Puente Colmo; o bien, 21 de Mayo - Av. Condell - La Concepción - Puente Boco - Boco - Rautén - Manzanar - Mauco - Puente Colmo.
 
-San Pedro - Ruta F-62 - Avenida Juan Bautista Alberdi - Hermano Fernando de la Fuente - Bernardo O'Higgins - Hospital Biprovincial - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Hermano Fernando de la Fuente - Avenida Juan Bautista Alberdi - Ruta F-62 - San Pedro.
+Salida: Puente Colmo - Mauco - Manzanar - Carolmo - Rautén - Boco - Puente Boco - Pudeto - Av. Condell - A. Prat- 21 de Mayo.
 
-O
+5º Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios desde y hacia el sector de San Isidro:
 
-San Pedro - Ruta F-62 - Avenida Valparaíso - Concepción - Las Rosas - Pudeto - Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Hermano Fernando de la Fuente -Avenida Juan Bautista Alberdi - Ruta F-62 - San Pedro.
+Acceso: 21 de Mayo - Av. Condell - Ahumada - Freire - Larraguibel - San Francisco.
 
-4º: Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios desde y hacia las localidades de Boco, Rautén, Manzanar y Colmo:
+Salida: Larraguibel - Freire - Arauco - Blanco - Chacabuco - Arturo Prat - 21 de Mayo.
 
-a) Boco: Boco - Puente Boco - Concepción - Pudeto - Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Concepción - Puente Boco - Boco.
+6º Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios desde y hacia el sector de La Tetera:
 
-O
+Acceso: 21 de Mayo - Av. Condell - Ahumada - Freire - Arauco - La Tetera.
 
-Boco - Puente Boco - Concepción - Pudeto - Avenida Carlos Condell - Ramón Freire - Caletera Poniente Ruta 60CH - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Concepción - Puente Boco - Boco.
+Salida: La Tetera - Arauco - Av. Condell - Arturo Prat - 21 de Mayo.
 
-b) Rautén: Rautén - Boco - Puente Boco - Concepción - Pudeto - Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Concepción - Puente Boco - Boco - Rautén.
+7º Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios desde y hacia el sector de La Palma:
 
-O
+Acceso: 21 de Mayo - Serrano - Fernando Monckeberg - Ariztía - La Palma; o bien La Palma - Ariztía - Av. Condell - Serrano- Fernando Monckeberg - Ariztía - La Palma.
 
-Rautén - Boco - Puente Boco - Concepción - Pudeto - Avenida Carlos Condell - Ramón Freire - Caletera Poniente Ruta 60CH - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Concepción - Puente Boco - Boco - Rautén.
+Salida: La Palma - Ariztía - Arturo Prat - 21 de Mayo.
 
-c) Manzanar y Colmo: Colmo - Manzanar - Boco - Puente Boco - Concepción - Pudeto - Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Concepción - Puente Boco - Boco - Manzanar - Colmo.
-
-O
-
-Colmo - Manzanar - Boco - Puente Boco - Concepción - Pudeto - Avenida Carlos Condell - Ramón Freire - Caletera Poniente Ruta 60CH - Bernardo O'Higgins - Hermano Fernando de la Fuente -Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Concepción - Puente Boco - Boco - Manzanar - Colmo.
-
-5º: Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios desde y hacia el sector de San Isidro:
-
-Larraguibel - Ramón Freire - Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Ramón Freire - Larraguibel.
-
-O
-
-Larraguibel - Ramón Freire - Caletera Poniente Ruta 60CH - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Ramón Freire - Larraguibel.
-
-6º: Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios desde y hacia el sector de La Tetera:
-
-La Tetera - Arauco - Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Arauco - La Tetera.
-
-O
-
-La Tetera - Arauco -Avenida Carlos Condell - Ramón Freire - Caletera Poniente Ruta 60CH - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Carlos Condell - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Arauco - La Tetera.
-
-7º: Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios desde y hacia el sector de La Palma:
-
-La Palma - Rafael Ariztía - Avenida Carlos Condell - Avenida 21 de Mayo - Teniente Ignacio Serrano - Avenida Doctor Fernando Monckeberg - Rafael Ariztía - La Palma.
-
-O
-
-La Palma - Rafael Ariztía - Arturo Prat - 21 de Mayo - Avenida Carlos Condell - Teniente Ignacio Serrano - Avenida Doctor Fernando Monckeberg - Rafael Ariztía - La Palma.
-
-O
-
-La Palma - Rafael Ariztía - Avenida Carlos Condell - Ramón Freire - Caletera Poniente Ruta 60CH - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Carlos Condell - Teniente Ignacio Serrano - Avenida Doctor Fernando Monckeberg - Rafael Ariztía - La Palma.
-
-8º: Fíjanse al interior de la zona urbana de la comuna de Quillota, los siguientes trazados que deberán utilizar los servicios de buses de combinación servicio tren Limache Puerto:
-
-a) Desde y Hacia La Calera:
-
-Acceso Norte: Ruta F-62 - Avenida 21 de Mayo - Avenida Carlos Condell - Ramón Freire - Caletera Poniente Ruta 60CH - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Juan Bautista Alberdi - Ruta F-62.
-
-Acceso Sur: Ruta F-62 - Avenida Juan Bautista Alberdi - Hermano Fernando de la Fuente - Bernardo O'Higgins - Hospital Biprovincial - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Carlos Condell - Avenida 21 de Mayo - Ruta F-62.
-
-a) Desde y Hacia Quillota:
-
-Ruta F-62 - Avenida Juan Bautista Alberdi - Avenida Valparaíso - Agustín Avezón - Germán Riesco - Pudeto - Chacabuco - Maipú - Avenida Carlos Condell - Ramón Freire - Caletera Poniente Ruta 60CH - Bernardo O'Higgins - Hermano Fernando de la Fuente - Avenida Juan Bautista Alberdi - Ruta F-62.
+8º La presente resolución entrará en vigencia transcurridos 7 días de la fecha de su publicación en el Diario Oficial.-
 
 Luis Eduardo González Brito, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
