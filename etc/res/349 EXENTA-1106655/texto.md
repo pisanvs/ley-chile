@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO DE COLABORACIÓN Y TRANSFERENCIA DE RECURSOS ENTRE EL SERVICIO NACIONAL DEL CONSUMIDOR Y ESTE INSTITUTO DE PREVISIÓN SOCIAL PARA LA EJECUCIÓN DEL "ACUERDO" ADOPTADO CON OCASIÓN DE LA DENOMINADA COLUSIÓN DEL PAPEL TISSUE
+
+Por resolución exenta Nº 349, de 24 de julio de 2017, del Director Nacional del Instituto de Previsión Social, se aprueba "Convenio de Colaboración y Transferencia de Recursos", suscrito con fecha 13 de julio de 2017, con el Servicio Nacional del Consumidor, con el objeto que el Sernac efectúe la transferencia de los recursos necesarios para que el IPS pague a los beneficiarios que le sean indicados por el Sernac la compensación acordada y derivada de la llamada "Colusión del Papel Tissue".
+
+Santiago, 9 de agosto de 2017.- Patricio Coronado Rojo, Director Nacional.
