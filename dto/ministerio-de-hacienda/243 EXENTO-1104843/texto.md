@@ -18,8 +18,6 @@ REGIÓN DE VALPARAÍSO
 
 Ingenieros Agrónomos:
 
-- Maximiliano Cortés Caiozzi.
-
 - Tomás Patricio Zaldívar Palacios.
 
 - Carlos Andrés Salinas Rivera.
@@ -29,6 +27,8 @@ Ingenieros Agrónomos:
 - Manuel Antonio Prieto Rodríguez.
 
 - Sebastián Matías Barrios Goio.
+
+- Francisco Covarrubias Noé.
 
 Anótese y publíquese.- Por orden de la Presidenta de la República, Rodrigo Valdés Pulido, Ministro de Hacienda.
 
