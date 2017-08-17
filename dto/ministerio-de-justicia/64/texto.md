@@ -102,13 +102,15 @@ g) Cuando se trate de personas sancionadas por cuasi-delito, simple delito o cri
 
 h) Cuando se trate de condenados que hayan cumplido una pena no aflictiva y que a la fecha de la comisión del delito tenían menos de 18 años de edad, se procederá a eliminar la anotación prontuarial desde el mismo momento en que se cumple la condena. No obstante, los menores de 18 años de edad a la fecha de la comisión del delito, que sean condenados con una pena aflictiva, deberán esperar que transcurran tres años desde el cumplimiento de la condena para proceder a la eliminación de dicha anotación prontuarial.
 
+i) Cuando se trate del cumplimiento de sentencias internacionales o de acuerdos de solución amistosa homologados en materia de derechos humanos en que el Estado de Chile sea parte.
+
 Si se trata de faltas y a la persona se le hubiere suspendido la aplicación de la pena, se podrá eliminar su anotación en el prontuario, una vez transcurrido el plazo de tres años que señala el artículo N° 564 del Código de Procedimiento Penal.
 
 En todos los casos relacionados con las letras f), g) y h) se otorgará el beneficio por resolución fundada, sólo a aquellas personas que acrediten irreprochable conducta anterior, mediante los antecedentes que el Director exija, y siempre que la anotación de que se trate sea la única que exista en el prontuario del interesado.
 
 Sin embargo, transcurridos 20 años o más desde el cumplimiento de la pena el Director del Servicio podrá eliminar de oficio la anotación referente a alguna de las condenas indicadas en las letras f), g) y h) siempre que se cumpla con la última condición indicada en el inciso anterior.
 
-Inciso Final: DEROGADO.-
+En los casos relacionados con la letra i), la documentación oficial será remitida por el Ministerio de Justicia y Derechos Humanos al Servicio de Registro Civil e Identificación, solicitando la eliminación de la anotación prontuarial correspondiente. Con el mérito de dicha documentación, el Director del Servicio dictará la resolución que ordene eliminar la anotación prontuarial.
 
 #### Artículo 9°
 
