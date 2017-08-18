@@ -434,17 +434,11 @@ ciones aduaneras.
 
 2.Puerto de Caldera Permanente Paso de personas y
 
-operaciones
+todo tipo
 
-de importación de
+de operaciones
 
-combustibles
-
-líquidos; exporta-
-
-ción y rancho
-
-de naves.
+aduaneras.
 
 3.Puerto de Huasco Permanente Paso de personas
 
