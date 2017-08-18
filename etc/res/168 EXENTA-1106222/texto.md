@@ -26,7 +26,9 @@ Resuelvo:
 
 2.- Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
-3.- Los vehículos motorizados, que en su trayecto tengan como vía de circulación las señaladas en el resuelvo Nº 1, deberán adoptar vías alternativas para el tránsito por el sector, mientras que los vehículos de transporte público de pasajeros que circulan por las vías que se señalan no serán afectados por la medida.
+3.- Los vehículos motorizados, que en su trayecto tengan como vía de circulación las señaladas en el resuelvo Nº 1, deberán adoptar vías alternativas para el tránsito por el sector, mientras que los vehículos de transporte público de pasajeros deberán transitar por la variante autorizada según se indica:
+
+Los taxis colectivos que dentro de su ruta transitan por calle Rodríguez tendrán como alternativa la siguiente variante: calle Los Carrera en toda su extensión, retomando recorrido habitual.
 
 4.- El responsable a cargo de las obras, deberá respetar estrictamente el periodo de cierre de las calles en los tramos indicados en la presente resolución y señalizará debidamente el sector de los trabajos de acuerdo al Manual de Señalización de Tránsito "Señalización Transitoria y Medidas de Seguridad para Trabajos en la Vía", Capítulo 5 del Ministerio de Transportes y Telecomunicaciones (www.conaset.cl), debiendo adoptar todas las medidas necesarias que permitan el normal desarrollo de las obras.
 
