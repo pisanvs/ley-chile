@@ -26,147 +26,45 @@ Resuelvo :
 
 a) Tarifa Servicios Puros:
 
-Tarifa Buses Adulto $770 (setecientos setenta pesos)
+Tarifa Alimentador Adulto (Taa) $ 500 (quinientos
 
-Tarifa Metro Valle $790 (setecientos noventa pesos)
+pesos)
 
-Tarifa Metro Periodo Punta $870 (ochocientos setenta pesos)
+Tarifa Troncal Adulto $ 500 (quinientos
 
-Tarifa Metro Baja $710 (setecientos diez pesos)
+pesos)
 
-Tarifa Trenes Valle $790 (setecientos noventa pesos)
+Tarifa Metro Valle $ 520 (quinientos
 
-Tarifa Trenes Periodo Punta $870 (ochocientos setenta pesos)
+veinte pesos)
 
-Tarifa Trenes Baja $710 (setecientos diez pesos)
+Tarifa Metro Período Punta $ 580 (quinientos
 
-Escolar Sup. y Media Buses $250 (doscientos cincuenta pesos)
+ochenta pesos)
 
-Escolar Sup. y Media Metro y
+Tarifa Metro Baja $ 480 (cuatrocientos
 
-Trenes Período Punta, Baja y
+ochenta pesos)
 
-Valle $250 (doscientos cincuenta pesos)
+Escolar Sup. y Media Alimentador $160 (ciento sesenta
 
-Escolar Básica $0
+pesos)
 
-Tarifa Metro Plebiscito 25
+Escolar Sup. y Media Troncal $160 (ciento sesenta
 
-de octubre de 2020 $0
+pesos)
 
-Tarifa Trenes Plebiscito 25
+Escolar Sup. y Media Metro Período
 
-de octubre de 2020 $0
+Punta, Baja y Valle $160 (ciento sesenta
 
-Tarifa Metro Elecciones 15
+pesos)
 
-y 16 de mayo de 2021 $0
-
-Tarifa Trenes Elecciones 15
-
-y 16 de mayo de 2021 $0
-
-Tarifa Metro Elecciones 13
-
-de junio de 2021 $0
-
-Tarifa Trenes Elecciones 13
-
-de junio de 2021 $0
-
-Tarifa Metro Elecciones
-
-Primarias 18 de julio de 2021 $0
-
-Tarifa Trenes Elecciones
-
-Primarias 18 de julio de 2021 $0
-
-Tarifa Metro Elecciones
-
-21 de noviembre de 2021 $0
-
-Tarifa Trenes Elecciones
-
-21 de noviembre de 2021 $0
-
-Tarifa Metro Elecciones
-
-19 de diciembre de 2021 $0
-
-Tarifa Trenes Elecciones
-
-19 de diciembre de 2021 $0
-
-Tarifa Metro Plebiscito 04 de
-
-septiembre de 2022 $0
-
-Tarifa Trenes Plebiscito 04 de
-
-septiembre de 2022 $0
-
-Tarifa de Trenes Elecciones
-
-7 de mayo de 2023, para todo
-
-contrato y etapa del viaje $0
-
-Tarifa de Metro Elecciones
-
-7 de mayo de 2023, para todo
-
-contrato y etapa del viaje $0
-
-Tarifa de Metro de Plebiscito $0
-
-17 de diciembre de 2023, para
-
-todo contrato y etapa de viaje
-
-Tarifa de Trenes Plebiscito $0
-
-17 de diciembre de 2023, para
-
-todo contrato y etapa de viaje
-
-Tarifa de Metro Elecciones $0
-
-de 26 y 27 de octubre de
-
-2024, para todo contrato y
-
-etapa de viaje.
-
-Tarifa de Trenes Elecciones $0
-
-de 26 y 27 de octubre de
-
-2024, para todo contrato y
-
-etapa de viaje.
-
-Tarifa de Metro Elecciones $0
-
-de 24 de noviembre de
-
-2024, para todo contrato y
-
-etapa de viaje.
-
-Tarifa de Trenes Elecciones $0
-
-de 24 de noviembre de
-
-2024, para todo contrato y
-
-etapa de viaje.
+Escolar Básica $ 0 (cero pesos)
 
 Los valores contenidos en la presente tabla serán los que sirvan de base para la aplicación del procedimiento de ajuste de tarifas, contenido en el Artículo 14 literal a) de la ley N° 20.378 y el decreto supremo N° 140, de 2009, del Ministerio de Transportes y Telecomunicaciones, y del procedimiento de determinación de nivel de tarifas establecido en el artículo 14 literal c) y artículo 15 de la ley N° 20.378.
 
-La Tarifa Metro Baja comprende el período entre las 6:00:00 y las 6:59:59 horas, y entre las 20:45:00 y las 23:00:00 horas, de lunes a viernes, excepto festivos. La Tarifa Metro Período Punta comprende el período entre las 7:00:00 y las 8:59:59 horas y entre las 18:00:00 y las 19:59:59 horas, de lunes a viernes, excepto festivos. El resto de los horarios y de los días corresponde a la Tarifa Metro Valle.
-
-La Tarifa Trenes Baja comprende el período entre las 6:00:00 y las 6:59:59 horas, y entre las 20:45:00 y las 23:00:00 horas, de lunes a viernes, excepto festivos. La Tarifa Trenes Período Punta comprende el período entre las 7:00:00 y las 8:59:59 horas y entre las 18:00:00 y las 19:59:59 horas, de lunes a viernes, excepto festivos. El resto de los horarios y de los días corresponde a la Tarifa Trenes Valle.
+La tarifa Metro baja comprende el período entre las 6:00:00 y 6:29:59 horas, y entre las 20:45:00 y las 23:00:00 horas, de lunes a viernes, excepto festivos. La tarifa Metro Período Punta comprende el período entre las 7:00:00 y 8:59:59 horas y entre las 18.00:00 y las 19:59:59 horas, de lunes a viernes, excepto festivos. El resto de los horarios y de los días corresponde a la tarifa Metro Valle.
 
 b) Tarifas Servicios Integrados:
 
@@ -180,21 +78,9 @@ c) Tarifa Metro Pensionado:
 
 La Tarifa Metro Pensionado corresponderá a la Tarifa Escolar Superior y Media Metro Período Punta, Baja y Valle. Esta Tarifa regirá para las mujeres mayores de 60 años y los hombres mayores de 65 años que perciban una pensión previsional, asistencial o una jubilación, y se aplicará en Metro en período Valle, Baja y Punta, o en los períodos que los sustituyan, en forma ilimitada.
 
-d) Tarifa Integrada Adulto Mayor de 65 años o más:
-
-La Tarifa Integrada Adulto Mayor de 65 años o más corresponderá a la mitad de la Tarifa Buses Adulto, a cuyo resultado se le resta $10 (diez pesos). Los valores resultantes de la aplicación señalada se convertirán al múltiplo de $10 más próximo. Si el valor resultante fuere un número entero cuyo último dígito sea el 5, dicho valor se convertirá al múltiplo de 10 inmediatamente inferior. Esta Tarifa regirá para las personas de 65 años o más, y se aplicará en Buses, Metro y Tren Alameda-Nos, en período Valle, Baja y Punta, o en los períodos que los sustituyan, en forma ilimitada. El valor del trasbordo corresponderá a $0 (cero pesos), siempre y cuando no se hayan realizado más de dos trasbordos y que el tiempo entre la primera y la última validación no supere los 120 minutos.
-
-e) Tarifa Inteligente:
-
-La Tarifa Inteligente corresponde a las Tarifas Buses Adulto; Metro período Punta, Valle y Baja; y las tarifas Trenes período, Punta, Valle y Baja, pagadas exclusivamente con cuentas de transporte ABT (Código C2D o QR), las que tendrán un límite de cobro equivalente a $39.000 (treinta y nueve mil pesos) por mes calendario. Dicho monto será reajustado solo en múltiplos de $1.000 y en el mismo porcentaje que varía la Tarifa Buses Adulto desde el último ajuste del valor del referido límite de cobro. El nuevo valor comenzará a regir desde el primer día del mes siguiente a aquel en el que haya entrado en vigencia el cambio tarifario. Los cobros por los viajes que se realicen una vez superado dicho monto corresponderán a $0 (cero pesos) hasta el último día del mes calendario.
-
-Una cuenta ABT (Account Based Ticketing) corresponde al saldo de cuotas de transporte de una cuenta virtual enlazado a una cuenta de transporte ABT, la que tiene asociada a su vez, un usuario debidamente identificado y cuyo saldo se aloja en los Sistemas Centrales administrados por el Proveedor de Servicios Tecnológicos del Sistema de Transporte Público Metropolitano.
-
 2º Déjanse sin efecto las Resoluciones Exentas Nº44 y N°45, ambas de 2007, del Ministerio de Transportes y Telecomunicaciones.
 
 3º La presente resolución entrará en vigencia el día 12 de febrero de 2009.
-
-> **Nota.** El N° 5 de la Resolución 3307 Exenta, Transportes, publicada el 18.08.2023, dispone que la Tarifa Inteligente y su consiguiente incentivo, se implementará a contar del día 1º de septiembre de 2023, debiéndose instruir a los correspondientes prestadores de servicios complementarios para su correcta aplicación.
 
 Anótese, tómese razón, comuníquese y publíquese.- René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.
 
