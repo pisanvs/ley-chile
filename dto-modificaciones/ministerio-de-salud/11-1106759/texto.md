@@ -1,28 +1,28 @@
-REGLAMENTO PARA LA APLICACIÓN DEL ARTICULO 6° DE LA LEY N°19.230 Y DEL INCISO TERCERO DEL ARTÍCULO 44, DEL DECRETO CON FUERZA DE LEY N° 1, DE 2001, QUE FIJA TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY N° 15.076
+MODIFICA EL DECRETO SUPREMO N° 2.207, DE 1993, DEL MINISTERIO DE SALUD, QUE APRUEBA EL REGLAMENTO PARA LA APLICACIÓN DEL ARTÍCULO 6° DE LA LEY N° 19.230
 
-Santiago, 17 de Noviembre de 1993.- Hoy se decretó lo que sigue:
+Núm. 11.- Santiago, 2 de junio de 2017.
 
-Núm. 2.207.- Visto: lo dispuesto en el artículo 6° de la ley N° 19.230, el artículo 44 de la ley N°15.076 y teniendo presente las facultades que me confieren los artículos 24 y 32 N°8 de la Constitución Política del Estado,
+Visto:
+
+Lo dispuesto en el numeral 2 del artículo 1º de la ley Nº 20.982; en el artículo 44º de la ley Nº 15.076, cuyo texto refundido, coordinado y sistematizado fue fijado en el decreto con fuerza de ley Nº 1, de 2001 del Ministerio de Salud; en el artículo 6º de la ley Nº 19.230; en el artículo 32º Nº 6 de la Constitución Política de la República y en las resoluciones Nº 1.600, de 2008, y Nº 10, de 2017, ambas de la Contraloría General de la República, y
+
+Considerando:
+
+1º Que, el numeral 2 del artículo 1° de la ley Nº 20.982 agregó un inciso tercero al artículo 44º de la ley Nº 15.076, permitiendo considerar, para los efectos del beneficio establecido en esta última disposición, los tiempos que el becario haya prestado durante la realización de la beca en guardias nocturnas y en días festivos, siempre y cuando dichas guardias se encuentren contempladas en el respectivo programa de formación y la beca haya sido financiada por el Ministerio de Salud o por los Servicios de Salud;
+
+2º Que, conforme a la misma modificación y para los fines anteriores, el reglamento debe determinar la forma en que se reconocerá el tiempo y condiciones de desempeño clínico;
+
+3º Que, como consecuencia de lo anterior se ha estimado pertinente modificar el decreto supremo Nº 2.207, de 1993, del Ministerio de Salud, razones por todas las cuales, dicto el siguiente
 
 Decreto:
 
-#### Artículo 1°
+Modifícase el decreto supremo Nº 2.207, de 1993, del Ministerio de Salud, que aprueba reglamento para la aplicación del artículo 6º de la ley Nº 19.230, en la siguiente forma:
 
-Los cargos de planta, adicionales, en extinción, que se creen por el solo ministerio de la ley en los Servicios de Salud, para ser ocupados por profesionales funcionarios que, por cumplir con los requisitos establecidos en el artículo 44 de la ley N°15.076, soliciten ser liberados de la obligación de prestar servicios de guardias nocturnas en días domingo y festivos, otorgarán a los beneficiados los mismos derechos que les conferían aquellos que por esta causa dejarán de desempeñar, con excepción del descanso compensatorio especial de que trata el artículo 5 de la ley N°19.230.
+1) Substitúyase su Título, por el siguiente:
 
-Los referidos cargos adicionales se remunerarán por 28 horas semanales, pero implicarán la obligación de trabajar sólo 22 horas e incompatibilizarán 11 horas semanales de la ley N°15.076.
+"Reglamento para la aplicación del artículo 6º de la Ley Nº 19.230 y del inciso tercero del artículo 44, del decreto con fuerza de ley Nº 1, de 2001, que fija texto refundido, coordinado y sistematizado de la Ley Nº 15.076".
 
-#### Artículo 2°
-
-La jornada de 22 horas semanales que desempeñen los profesionales funcionarios liberados de la obligación de efectuar guardias nocturnas y en días domingos y festivos, se cumplirá en horario diurno en las mismas unidades en que servían antes de ser liberados, o en otras que a solicitud del interesado autorice el Director del Servicio. En este caso se distribuirá de lunes a viernes, en la forma que determine la misma autoridad.
-
-#### Artículo 3°
-
-De la jornada de 22 horas semanales referida, 15 horas se destinarán a trabajos asistenciales y el resto a tareas de investigación, asesoría técnica o a actividades docentes dentro de las Unidades de Emergencia, Cuidados Intensivos, Maternidades o en otras dependencias según lo disponga el Director de Servicio a petición del interesado.
-
-#### Artículo 4°
-
-Los cargos adicionales que se creen para los profesionales funcionarios que al momento de ser liberados ocupen empleos ligados de 22/28 u 11/28 horas semanales, tendrán esta misma vinculación, según sea el caso, y se extinguirán íntegramente si los referidos profesionales renuncian con posterioridad a las 22 u 11 horas o aceptan un empleo incompatible con el que sirven.
+2) Agréganse los siguientes artículos 5º, 6º, 7º, 8º y 9º, nuevos:
 
 #### Artículo 5º
 
@@ -62,6 +62,26 @@ c) Que el interesado cumplió las guardias nocturnas y en días domingos y festi
 
 Sin perjuicio de lo anterior, la Subsecretaría de Redes Asistenciales impartirá a los Servicios de Salud instrucciones específicas para la aplicación del presente Reglamento.
 
-Anótese, tómese razón y publíquese en el Diario Oficial e insértese en la recopilación oficial de la Contraloría General de la República.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Patricio Silva Rojas, Ministro de Salud Subrogante.
+Anótese, tómese razón y comuníquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Carmen Castillo Taucher, Ministra de Salud.
 
-Lo que transcribo a Ud., para su conocimiento.- Saluda a Ud.- Luis Martínez Oliva, Subsecretario de Salud (S).
+Transcribo para su conocimiento decreto Af. Nº 11, de 02-06-2017.- Saluda atentamente a Ud., Cristian Herrera Riquelme, Subsecretario de Salud Pública (S).
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance el decreto N° 11, de 2017, del Ministerio de Salud
+
+N° 29.765.- Santiago, 11 de agosto de 2017.
+
+Esta Contraloría General ha tomado razón del acto administrativo del rubro, que modifica el decreto supremo Nº 2.207, de 1993, del Ministerio de Salud, que aprueba el reglamento para la aplicación del artículo 6º de la ley Nº 19.230, pero cumple con hacer presente que de conformidad con lo previsto en la letra a) del artículo 48, de la ley Nº 19.880 -que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado-, este acto debe publicarse en el Diario Oficial, lo que se ha omitido consignar en dicho instrumento.
+
+Con el alcance previamente señalado, se ha tomado razón del acto administrativo en examen.
+
+Saluda atentamente a Ud., Jorge Bermúdez Soto, Contralor General de la República.
+
+A la señora
+
+Ministra de Salud
+
+Presente.
