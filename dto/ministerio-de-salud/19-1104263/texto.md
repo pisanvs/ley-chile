@@ -42,7 +42,7 @@ Decreto:
 
 #### Artículo 1
 
-Declárase alerta sanitaria por enfermedades respiratorias en las regiones Metropolitana, de Valparaíso, de Magallanes y Antártica Chilena y del Biobío.
+Declárase alerta sanitaria por enfermedades respiratorias en las regiones Metropolitana, de Aysén, de Valparaíso, de Magallanes y Antártica Chilena y del Biobío.
 
 #### Artículo 2
 
