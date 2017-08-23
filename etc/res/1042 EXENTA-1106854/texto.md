@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.042 EXENTA, DE 1 DE AGOSTO DE 2017
+
+Por resolución exenta N° 1.042, de fecha 1 de agosto de 2017, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones Región del Maule, se autorizó el funcionamiento del Terminal No Urbano, para servicios de locomoción colectiva prestado mediante buses interurbanos, ubicado en Avenida León Bustos N° 6, de la comuna de Linares, Región del Maule. El propietario del terminal antes individualizado deberá dar cumplimiento a lo establecido en el decreto supremo Nº 94/84 y velar por el cumplimiento de lo establecido en el decreto exento Nº 2.985 del 31 de 2006, la Ilustre Municipalidad de Linares. El responsable del funcionamiento del Terminal será el Sr. Pedro Farías Soto.-
+
+Patricia Miranda Salas, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
