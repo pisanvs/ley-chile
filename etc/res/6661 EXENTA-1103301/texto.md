@@ -42,7 +42,7 @@ Resolución:
 
 1.3. Peñalolén, El Sauzal, superficie 0,85 ha inscrito a fojas 13.703 N° 20.329, correspondiente al registro de propiedad del año 2015 del Conservador de Bienes Raíces de Santiago, singularizado como Lote 1-A del "Plano de División Afecta" archivado con el N° 51.235 en el Conservador de Bienes Raíces de Santiago, el año 2017.
 
-2. Llámase, a partir de la fecha de publicación de la presente resolución en el Diario Oficial y hasta las 14:00 horas del 31 de agosto de 2017, a postulación regional al Programa de Integración Social y Territorial, regulado por el DS N° 19 (V. y U.), de 2016, en adelante el DS N° 19, en los terrenos de propiedad de Serviu Región Metropolitana, singularizados en el Resuelvo 1. del presente instrumento, período en que el Serviu Región Metropolitana procederá directamente a la recepción de proyectos habitacionales con la documentación y antecedentes exigidos en el artículo 9 del DS N° 19 y por esta resolución. Previamente, las entidades desarrolladoras deberán ingresar los datos del proyecto, a través de los medios electrónicos que el Ministerio de Vivienda y Urbanismo (Minvu) disponga para estos efectos.
+2. Llámase, a partir de la fecha de publicación de la presente resolución en el Diario Oficial y hasta las 17:00 horas del 14 de septiembre de 2017, a postulación regional al Programa de Integración Social y Territorial, regulado por el DS N° 19 (V. y U.), de 2016, en adelante el DS N° 19, en los terrenos de propiedad de Serviu Región Metropolitana, singularizados en el Resuelvo 1. del presente instrumento, período en que el Serviu Región Metropolitana procederá directamente a la recepción de proyectos habitacionales con la documentación y antecedentes exigidos en el artículo 9 del DS N° 19 y por esta resolución. Previamente, las entidades desarrolladoras deberán ingresar los datos del proyecto, a través de los medios electrónicos que el Ministerio de Vivienda y Urbanismo (Minvu) disponga para estos efectos.
 
 2.1. En el caso del terreno singularizado en el Resuelvo 1. punto 1.2.2. sector Las Tinajas, exímase de cumplir con las condiciones establecidas en las letras c) y g) del número 4. del artículo 10°, del DS N° 19 (V. y U.), de 2016.
 
@@ -90,6 +90,8 @@ Resolución:
 
 En caso de incluir elementos de eficiencia energética, estos deberán ser evaluados de acuerdo a la siguiente tabla:
 
+.
+
 Otras soluciones de eficiencia energética serán revisadas por la Comisión Evaluadora, que podrá otorgar el puntaje, asimilándolas a los tipos indicados en la tabla precedente, según corresponda.
 
 6.1.3. En caso que el proyecto incluya unidades de vivienda acondicionadas para recibir a personas con discapacidad, asociadas a movilidad reducida, estas deberán emplazarse de manera estratégica en el conjunto, considerar preferentemente sólo una planta en el caso de viviendas unifamiliares, o emplazarse en pisos con acceso a nivel de la calle, en caso de vivienda colectiva y considerar como mínimo lo indicado en la resolución exenta N° 6.625 (V. y U.), de 2016, que Aprueba Cuadro Normativo y Tabla de Espacios y Usos mínimos para el Mobiliario, para Proyectos del Programa Fondo Solidario de Elección de Vivienda, en el ítem II. Requerimientos por recintos, Punto 1. Espacios y usos mínimos para viviendas y edificios, punto 1.7 Circulaciones, y 1.9 Puertas, así como también lo indicado en el Punto 2. Espacios y usos mínimos para viviendas para personas con discapacidad que apliquen subsidio de movilidad reducida, 2.2. Dormitorios, 2.4. Cocina, 2.5. Baño, 2.6 Escaleras y 2.7. Rampas de acceso.
@@ -107,6 +109,8 @@ Esta modalidad de condominio deberá otorgar una respuesta arquitectónica y urb
 ### 7. Requisitos Regionales
 
 7.1. Los criterios especiales que deberán cumplir los proyectos que se presenten en cada uno de los terrenos, singularizados en el Resuelvo 1, serán los dispuestos en la siguiente tabla:
+
+.
 
 ### 8. Antecedentes a presentar
 
@@ -132,7 +136,7 @@ Esta modalidad de condominio deberá otorgar una respuesta arquitectónica y urb
 
 8.1.10. Planos de proyecto de equipamiento, áreas verdes y espacios comunes: plantas, cortes, elevaciones y detalles, que incluyan las exigencias del DS N° 19.
 
-8.1.11. Especificaciones técnicas del proyecto que incluyan el detalle exigido en el DS N� 19 para viviendas, equipamiento, cierros y áreas verdes. En caso que corresponda, se deberán detallar en las especificaciones técnicas, los aspectos adicionales al mínimo exigido que presente el proyecto.
+8.1.11. Especificaciones técnicas del proyecto que incluyan el detalle exigido en el DS N° 19 para viviendas, equipamiento, cierros y áreas verdes. En caso que corresponda, se deberán detallar en las especificaciones técnicas, los aspectos adicionales al mínimo exigido que presente el proyecto.
 
 ### 9. Convenio Serviu - Entidad Desarrolladora
 
@@ -176,9 +180,15 @@ Esta modalidad de condominio deberá otorgar una respuesta arquitectónica y urb
 
 ### 13. Transferencia del Terreno
 
-13.1. La transferencia del terreno a la Entidad Desarrolladora, cuyo proyecto haya sido seleccionado, se realizará una vez que las obras alcancen un 30% de ejecución o bien a los 5 meses contados desde el inicio de las obras, de acuerdo a lo señalado en el punto 10.1 de la presente resolución.
+13.1. El Serviu Región Metropolitana deberá suscribir una carta compromiso en que se obliga a transferir el terreno a la Entidad Desarrolladora cuyo proyecto resulte seleccionado en este llamado, en un plazo no superior a 30 días, contados desde la fecha de publicación de la resolución de selección del proyecto.
 
-13.2. El Serviu Región Metropolitana deberá suscribir una carta compromiso en que se obliga a transferir el terreno a la Entidad Desarrolladora cuyo proyecto resulte seleccionado en este llamado, en un plazo no superior a 30 días, contados desde la fecha de publicación de la resolución de selección del proyecto.
+13.2. La transferencia del terreno a la Entidad Desarrolladora, cuyo proyecto haya sido seleccionado, se realizará una vez obtenido por ésta el Permiso de Edificación.
+
+13.3. A fin de garantizar que el terreno transferido se destine al desarrollo del proyecto seleccionado, cumpliendo con las características y condiciones con que fue aprobado por la Comisión Evaluadora, la respectiva Entidad Desarrolladora deberá presentar en forma previa a la firma de la escritura de compraventa una póliza de garantía de ejecución inmediata, equivalente al valor de avalúo comercial del terreno.
+
+Procederá el cobro de esta garantía en caso de incumplimiento por parte de la Entidad Desarrolladora de su obligación de desarrollar el proyecto seleccionado en el terreno transferido, en los términos y condiciones aprobados por Serviu, circunstancia que tendrá que ser declarada por resolución fundada del Director de dicho Servicio.
+
+Esta póliza de garantía deberá mantenerse vigente desde la fecha de celebración de la compraventa y por todo el plazo de ejecución del proyecto, aprobado por Serviu, aumentado en seis meses.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
