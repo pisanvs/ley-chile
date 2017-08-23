@@ -112,6 +112,8 @@ En el caso de investigaciones sumarias del decreto ley Nº 799, de 1974, la reso
 
 ñ) Autorizar la apertura y cierre de las cuentas corrientes bancarias para el manejo de los recursos del sector público. Igualmente, autorizar a los giradores de dichas cuentas.
 
+o) Suscribir convenios con municipalidades que se encuentren dentro de su cobertura, para la revisión previa de juridicidad de los actos que dicten, conforme a las orientaciones que imparta el Contralor General y a lo que se pacte en dichos convenios; y aprobar mediante resolución tales convenios.
+
 ### Párrafo 2º
 
 Funciones de Control Externo
