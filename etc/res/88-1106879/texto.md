@@ -1,22 +1,30 @@
-PONE EN EJECUCIÓN ACUERDO DEL COMITÉ DE ASIGNACIÓN DE FONDOS -CAF- QUE APRUEBA NUEVA NORMATIVA DEL "PROGRAMAS TERRITORIALES INTEGRADOS - PTI"
+PONE EN EJECUCIÓN ACUERDO DEL COMITÉ DE ASIGNACIÓN DE FONDOS - CAF - QUE INDICA, DEJA SIN EFECTO RESOLUCIÓN (A) N° 185, DE 2016, Y (A) N° 70, DE 2017, AMBAS SIN TRAMITAR Y REEMPLAZA REGLAMENTO DEL INSTRUMENTO "PROGRAMAS TERRITORIALES INTEGRADOS - PTI", CONTENIDO EN RESOLUCIÓN (A) N° 41, DE 2016, DEL GERENTE DE DESARROLLO COMPETITIVO
 
-Núm. 41 afecta.- Santiago, 9 de marzo de 2016.
+Núm. 88.- Santiago, 24 de julio de 2017.
 
-Vistos:
+Visto:
 
-La resolución (A) N° 91, de 2015, del Vicepresidente Ejecutivo, que "Ejecuta parcialmente Acuerdo de Consejo N° 2.874, de 2015, que deja sin efecto Acuerdo de Consejo N° 2.681, de 2011; y dicta nuevo texto que consolida disposiciones para el Comité de Asignación de Fondos - CAF y Comités de Asignación Zonales de Fondos - CAZ", en cuya letra A.13 se ha delegado en el CAF la facultad de "Aprobar la creación de los instrumentos de financiamiento, programas o concursos; establecer sus objetivos generales, montos y porcentajes máximos de cofinanciamiento, plazos máximos de ejecución, definición de potenciales beneficiarios y criterios de evaluación, así como la modificación de alguno de estos elementos; previa propuesta del Gerente respectivo, a quien le corresponderá dictar el acto administrativo aprobatorio del texto definitivo del correspondiente Reglamento o Bases".
+1. La resolución (A) N° 91, de 2015, del Vicepresidente Ejecutivo, que "Ejecuta parcialmente Acuerdo de Consejo N° 2.874, de 2015, que deja sin efecto Acuerdo de Consejo N° 2.681, de 2011; y dicta nuevo texto que consolida disposiciones para el Comité de Asignación de Fondos - CAF y Comités de Asignación Zonales de Fondos - CAZ", en cuya letra A.13 se ha delegado en el CAF la facultad de "Aprobar la creación de los instrumentos de financiamiento, programas o concursos; establecer sus objetivos generales, montos y porcentajes máximos de cofinanciamiento, plazos máximos de ejecución, definición de potenciales beneficiarios y criterios de evaluación, así como la modificación de alguno de estos elementos; previa propuesta del Gerente respectivo, a quien le corresponderá dictar el acto administrativo aprobatorio del texto definitivo del correspondiente Reglamento o Bases".
 
-2. El Acuerdo adoptado por el Comité de Asignación de Fondos - CAF, en su Sesión N° 05/2016, de 1 de marzo de 2016, que aprobó la creación del instrumento "Programas Territoriales Integrados - PTI".
+2. La resolución (A) N° 41, de 2016, del Gerente de Desarrollo Competitivo, que ejecutó el Acuerdo adoptado por el Comité de Asignación de Fondos - CAF, en su Sesión N° 05/2016, de 1 de marzo de 2016, que aprobó la creación del instrumento "Programas Territoriales Integrados - PTI".
 
-3. Lo dispuesto en el artículo 3° de la Ley N° 19.880, que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado, en orden a que las decisiones de los órganos administrativos pluripersonales se llevarán a efecto por medio de resoluciones de la autoridad ejecutiva correspondiente.
+3. El Acuerdo alcanzado por el Comité de Asignación de Fondos - CAF, en su Sesión N° 15/2017, de 14 de julio de 2017, que reemplazó el Acuerdo adoptado en la Sesión N° 05-2016, de fecha 01 de marzo de 2016, que creó el instrumento denominado "Programas Territoriales Integrados - PTI", y sus modificaciones, aprobadas en Sesiones N° 26-2016, de 4 de octubre de 2016 y N° 04-2017, de 14 de febrero de 2017, del mismo Comité.
 
-4. Las facultades que me confiere la resolución (A) N° 91, de 2015, del Vicepresidente Ejecutivo de esta Corporación, que aprobó el Reglamento ya citado; la resolución (E) de Personal N° 219, de 2015, modificada por la resolución (E) de Personal N° 255, N° 293 y N° 300, todas de 2015 y N° 19, de 2016, que me asignó funciones como Gerente de Desarrollo Competitivo; y lo establecido en la resolución Nº 1.600, de 2008, de la Contraloría General de la República que fija normas sobre exención del trámite de toma de razón.
+4. Que, por otra parte, y en uso de las facultades otorgadas en el numeral 13 de la letra A, de la resolución (A) N° 91, de 2015, de Corfo, citada en el Visto 1, el Gerente de Desarrollo Competitivo ha estimado conveniente introducir cambios en la normativa actual del instrumento, que no son competencia del Comité de Asignación de Fondos - CAF, aprobando un nuevo texto de la normativa del instrumento que contenga los cambios aprobados por el mencionado Comité y aquellas que son de su incumbencia.
+
+5. Lo dispuesto en el artículo 3° de la ley N° 19.880, que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado, en orden a que las decisiones de los órganos administrativos pluripersonales se llevarán a efecto por medio de resoluciones de la autoridad ejecutiva correspondiente.
+
+6. Que, conforme su naturaleza jurídica, los Programas Territoriales Integrados son Proyectos de Fomento, toda vez que tienen por objeto aumentar la productividad, calidad y oferta de valor de las empresas localizadas en un territorio, impulsando así la competitividad y crecimiento de la economía. El financiamiento de los Proyectos aprobados se imputará a la Asignación 021, del presupuesto de la Corporación para el año 2017 y a la que corresponda en los años venideros.
+
+7. Las facultades que me confiere la resolución (A) N° 91, de 2015, del Vicepresidente Ejecutivo de esta Corporación, ya citada; la resolución (E) de Personal N° 129, de 2016, del Vicepresidente Ejecutivo de Corfo, que establece el orden de subrogación de la Gerencia de Desarrollo Competitivo; las facultades que me otorga el Reglamento General de la Corporación, aprobado por decreto N° 360, de 1945 del Ministerio de Economía, y lo establecido en la resolución N° 1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
 
 Resuelvo:
 
-1° Ejecútase el Acuerdo del Comité de Asignación de Fondos ? CAF, adoptado en la Sesión Nº 05/2016, celebrada el 1 de marzo de 2016, que aprobó la creación del instrumento "Programas Territoriales Integrados - PTI".
+1° Ejecútase el Acuerdo alcanzado por el Comité de Asignación de Fondos - CAF, en su Sesión N° 15/2017, de 14 de julio de 2017, que reemplazó el Acuerdo adoptado en la Sesión N° 05-2016, de fecha 01 de marzo de 2016, que creó el instrumento denominado "Programas Territoriales Integrados - PTI", y sus modificaciones, aprobadas en Sesiones N° 26-2016, de 4 de octubre de 2016 y N° 04-2017, de 14 de febrero de 2017, del mismo Comité.
 
-2° Apruébase el siguiente Reglamento para los "Programas Territoriales Integrados - PTI":
+2° Déjase sin efecto la resolución (A) N° 185, de 2016 y (A) N° 70, ambas sin tramitar, que "Pone en ejecución Acuerdos del Comité de Asignación de Fondos - CAF que indica, y reemplaza reglamento del instrumento "Programas Territoriales Integrados - PTI", contenido en resolución (A) N° 41, de 2016, del Gerente de Desarrollo Competitivo" y que "Pone en ejecución Acuerdos del Comité de Asignación de Fondos - CAF que indica, deja sin efecto resolución (A) N° 185, de 2016, sin tramitar y reemplaza reglamento del instrumento "Programas Territoriales Integrados - PTI", contenido en resolución (A) N° 41, de 2016, del Gerente de Desarrollo Competitivo", respectivamente.
+
+3° Reemplázase el Reglamento aprobado en el numeral 2° de la parte resolutiva de la resolución (A) N° 41, de 2016, del Gerente de Desarrollo Competitivo, por el siguiente:
 
 PROGRAMAS TERRITORIALES INTEGRADOS - PTI
 
@@ -66,6 +74,8 @@ Cuando un PTI sea administrado directamente por Corfo, la selección y contratac
 
 Asociados/as: Se trata de una o más personas, naturales o jurídicas, públicas o privadas, con o sin fines de lucro, que concurren cofinanciando el proyecto. Además, podrán concurrir en este rol, órganos de la Administración del Estado, Gobiernos Regionales y Municipalidades.
 
+El aporte que realicen los Asociados no será considerado como parte del aporte de Corfo, aun cuando la Corporación administre esos recursos en cuentas extrapresupuestarias, complementarias o cuentas representativas de movimientos financieros no presupuestarios.
+
 Participantes: Son las entidades, tanto públicas como privadas, que darán pertinencia al proyecto, que conformen y/o interaccionen en el ámbito de acción del PTI, y cuya participación en las acciones de difusión y coordinación se estime crítica por Corfo para la ejecución del proyecto.
 
 La calificación, de una entidad pública o privada, como Participante de un PTI, deberá ser realizada por Corfo en forma previa a su incorporación al proyecto, ya sea en la Etapa de Validación Estratégica o durante la Etapa de Ejecución del proyecto.
@@ -96,6 +106,8 @@ La Etapa de Ejecución será ejecutada conforme se indique en el proyecto aproba
 
 Los montos máximos por cada Etapa son:
 
+Para la ejecución de las Etapas, Corfo aportará un financiamiento y/o cofinanciamiento por los montos máximos que se señalan a continuación, sin considerar en el cálculo de esos topes los recursos aportados para estos efectos por personas de derecho público, incluidos los órganos de la Administración del Estado, que Corfo administre en cuentas extrapresupuestarias, complementarias o cuentas representativas de movimientos financieros no presupuestarios, según lo dispuesto en la normativa o autorizaciones que corresponda.
+
 El financiamiento total de Corfo para la Etapa de Validación Estratégica, no podrá exceder de $20.000.000.- (veinte millones de pesos).
 
 El cofinanciamiento de Corfo para el primer y segundo año de la Etapa de Ejecución, no podrá exceder el 80% del costo total anual del proyecto, con un aporte anual máximo de $120.000.000.- (ciento veinte millones de pesos).
@@ -112,9 +124,9 @@ Los recursos aportados por Corfo y el/los Asociado/s serán destinados a la ejec
 
 Por la evaluación, supervisión y administración del PTI en su Etapa de Validación Estratégica, Corfo pagará, además, al Agente Operador Intermediario, hasta un 15% del financiamiento otorgado al proyecto.
 
-Por la evaluación, supervisión, administración y gastos asociados al funcionamiento del PTI en su Etapa de Ejecución, Corfo pagará, además, al Agente Operador Intermediario, hasta un 15% del cofinanciamiento otorgado por la Corporación al proyecto.
+Por la evaluación, supervisión, administración y gastos asociados al funcionamiento del PTI en su Etapa de Ejecución, Corfo pagará, además, al Agente Operador Intermediario hasta un 18% calculado sobre el monto de cofinanciamiento otorgado por la Corporación al proyecto, durante el primer año, y hasta un 15% del cofinanciamiento otorgado por la Corporación al proyecto para la ejecución de cada uno de los años restantes.
 
-Adicionalmente, Corfo podrá pagar al Agente Operador Intermediario, durante el primer año de ejecución del PTI, hasta la suma de $3.000.000.- (tres millones de pesos), por concepto de activos imprescindibles para la ejecución del proyecto, tales como computadores, impresoras y mobiliario para las oficinas del PTI, entre otros.
+Con cargo al Costo de Administración, el Agente Operador Intermediario deberá proporcionar, el primer año de la Etapa de Ejecución del proyecto, los activos imprescindibles para la gestión del proyecto que se definan al momento de su postulación, los que tendrán un tope de $3.000.000.
 
 Si un proyecto termina anticipadamente, no ejecuta todo su presupuesto asignado, se resuelve su administración directa, se modifica el Agente Operador Intermediario o éste incumple sus obligaciones, el Director Regional de Corfo deberá determinar fundadamente el monto o porcentaje de pago que por concepto de costo de administración deberá efectuarse al Agente Operador Intermediario que lo administraba.
 
@@ -240,4 +252,4 @@ Los gastos imputables a los aportes otorgados por Corfo deberán detallarse, gua
 
 Los proyectos actualmente en ejecución se regirán por este Reglamento, salvo que los Agentes Operadores Intermediarios manifiesten su voluntad por escrito de continuar rigiéndose por la normativa que los regulaba, debiendo informarlo a la Dirección Regional de Corfo.
 
-Anótese, tómese razón y publíquese, Claudio Maggi Campos, Gerente de Desarrollo Competitivo.
+Anótese, tómese razón y publíquese.- Alicia Olivares Muñoz, Gerente de Desarrollo Competitivo (S).
