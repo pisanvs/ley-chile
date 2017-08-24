@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL ESTUDIO DE IMPACTO AMBIENTAL "TERMINAL MARÍTIMO GNL TALCAHUANO"
+
+De conformidad a lo dispuesto en el inciso final del artículo 91 del DS (MA) N° 40/2013 (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental del Estudio de Impacto Ambiental del proyecto "Terminal Marítimo GNL Talcahuano", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Inversiones GNL Talcahuano SpA, que por resolución exenta N° 204, de fecha 2 de agosto de 2017, la Comisión de Evaluación de la Región del Biobío calificó favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad al artículo 29 de la ley N° 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA de Biobío, ubicada en Lincoyán N° 145, Concepción, en la Ilustre Municipalidad de Talcahuano, ubicada en Bulnes 266, comuna de Talcahuano, en horarios de oficina. Además podrá accederse a la resolución a través del sitio web www.sea.gob.cl.
+
+Christian Cifuentes Bastías, Secretario, Comisión de Evaluación Región del Biobío.
