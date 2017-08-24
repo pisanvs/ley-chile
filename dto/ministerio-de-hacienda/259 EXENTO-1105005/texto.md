@@ -8,7 +8,7 @@ El inciso 2° del artículo 4° del decreto ley N° 2.186, de 1978, modificado p
 
 Considerando:
 
-Que el Intendente de la Región de Valparaíso ha propuesto los profesionales, de la especialidad que se individualiza en el presente acto administrativo, con el objetivo de ampliar el listado de peritos, de entre los cuales las entidades expropiantes designarán a los miembros de la Comisión encargada de determinar el monto provisional de la indemnización en un proceso expropiatorio, de conformidad al artículo 4° del decreto ley N° 2.186, de 1978.
+Que el Intendente de la Región Metropolitana ha propuesto los profesionales, de la especialidad que se individualiza en el presente acto administrativo, con el objetivo de ampliar el listado de peritos, de entre los cuales las entidades expropiantes designarán a los miembros de la Comisión encargada de determinar el monto provisional de la indemnización en un proceso expropiatorio, de conformidad al artículo 4° del decreto ley N° 2.186, de 1978.
 
 Decreto:
 
