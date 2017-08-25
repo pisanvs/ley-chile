@@ -158,6 +158,8 @@ El tramo urbano de la Ruta G-45-H, desde Camino Internacional (E13S) hasta el l�
 
 . Sistema vial que interconecta Avenida Américo Vespucio (E14.N) con Costanera Norte Río Mapocho (E6.O), a través de: Avenida El Salto, Camino La Pirámide y Vía Morada.
 
+. Sistema vial que interconecta Camino a Valparaíso Ruta 68 (E5.P) Ruta 78 Autopista del Sol (E19.S), a través de: ajuste de trazado de Costanera Interior (T48.P), Costanera Norte Zanjón de la Aguada (T10.P) y Cuatro Poniente (T14.P).
+
 4º Declárense Caminos Públicos en las áreas urbanas de los siguientes centros poblados, pueblos y ciudades, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Calera de Tango:
