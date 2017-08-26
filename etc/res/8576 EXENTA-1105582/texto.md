@@ -30,7 +30,7 @@ Resolución:
 
 2. Establécese que para participar del llamado que por este acto se autoriza, los postulantes:
 
-a. Deberán provenir de la comuna de Castro, Región de Los Lagos, información que se tomará directamente del Registro Social de Hogares de cada postulante.
+a. Deberán provenir de cualquier comuna de la Provincia de Chiloé, Región de Los Lagos, información que se tomará directamente del Registro Social de Hogares de cada postulante.
 
 b. Deberán cumplir todos los requisitos y condiciones establecidos en el DS N° 49 (V. y U.), de 2011.
 
