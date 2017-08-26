@@ -22,6 +22,8 @@ Resolución:
 
 2. Los recursos involucrados para la selección de postulantes, por región y provincia del país, según se indica para este último caso, son los siguientes:
 
+.
+
 3. El número de proyectos seleccionados en cada Región o Provincia alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución.
 
 4. Los integrantes de los proyectos que hayan ingresado con fecha anterior al 31 de diciembre de 2016, deberán cumplir las exigencias, requisitos y condiciones establecidos en la resolución que dispuso el último llamado para construcción en nuevos terrenos de dicho año, según se establece en la resolución señalada en el visto c) precedente.
@@ -84,7 +86,7 @@ Sin perjuicio de lo anterior, si el titular del beneficio resulta seleccionado e
 
 24. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de proyectos seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-> **Nota.** La Letra a) del numeral 1° de la Resolución 2747 Exenta, Vivienda, publicada el 30.03.2017, modifica el cuadro inserto en el numeral 2 de la presente norma, en el sentido de incorporar "Marga Marga" en la sección correspondiente a la Región de Valparaíso.
+> **Nota.** La letra a) del número 3° de la Resolución 9965 Exenta, Vivienda, publicada el 26.08.2017, modifica la presente norma en el sentido de reemplazar en la tabla inserta en su resuelvo 1., en la fila correspondiente a la provincia de Arauco, Región del Biobío, el monto de "260.024,00" señalado en su última columna, por la cifra "262.124,00", cifra que a su vez fue corregida por el numeral 1° de la citada norma al ordenar el reemplazo de la tabla inserta en este numeral.
 
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
