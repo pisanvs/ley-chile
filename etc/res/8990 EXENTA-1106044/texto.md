@@ -140,10 +140,6 @@ c) Una vez presentada la Factura o Boleta al Serviu, éste dispondrá de 10 día
 
 14. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para la Región de Atacama y Región de Coquimbo en el Programa regulado por el DS N° 255 (V. y U.), de 2006, para el año 2017.
 
-> **Nota.** El numeral 1° de la Resolución 12211 Exenta, Vivienda, publicada el 24.10.2017, modifica la presente norma en el sentido de fijar el 31 de octubre de 2017 como nueva fecha límite para ingresar postulaciones al llamado dispuesto por la presente norma.
-
-> **Nota.** NOTA 1 El numeral 1° de la Resolución 13113 Exenta, Vivienda, publicada el 18.11.2017, modifica la presente norma en el sentido de fijar el 30 de noviembre de 2017 como nueva fecha límite para ingresar postulaciones al llamado dispuesto por la presente norma.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.
