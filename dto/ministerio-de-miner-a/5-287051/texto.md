@@ -36,17 +36,17 @@ Decreto:
 
 Otórgase la concesión de explotación de energía geotérmica a la empresa "Geotérmica del Norte S.A.", conforme al artículo 14 de la ley Nº 19.657, respecto del área denominada "La Torta", ubicada en la comuna de San Pedro de Atacama, provincia de El Loa, Región de Antofagasta, cuyas coordenadas referidas a la Proyección Universal Transversal de Mercator (UTM), Elipsoide de Referencia Internacional de 1924, Datum Provisorio Sudamericano (La Canoa, Venezuela) 1956, Zona 19 Sur, son las siguientes:
 
-La Torta: 5.400 hectáreas.
+La Torta: 3.000 hectáreas.
 
-Vértice Este Norte
+Este Norte
 
-V1 603.000 7.516.000
+V1 603.815 7.522.626
 
-V2 609.000 7.516.000
+V2 608.815 7.522.626
 
-V3 609.000 7.525.000
+V3 608.815 7.516.626
 
-V4 603.000 7.525.000
+V4 603.815 7.516.626
 
 #### Artículo segundo
 
