@@ -34,17 +34,17 @@ Decreto
 
 Otórgase la concesión de explotación de energía geotérmica a la Empresa Geotérmica del Norte S.A., de conformidad al artículo 14 de la ley Nº19.657, respecto del área denominada "El Tatio", ubicada en la comuna de Calama, provincia El Loa, Segunda Región de Antofagasta, cuya extensión y coordenadas UTM en metros, son las siguientes:
 
-EL TATIO: 4.160 hectáreas.
+EL TATIO: 1.280 hectáreas.
 
-Vértice Este Norte
+Este Norte
 
-1 602.800 7.525.000
+V1 602.615 7.528.626
 
-2 608.000 7.525.000
+V2 605.815 7.528.626
 
-3 608.000 7.533.000
+V3 605.815 7.524.626
 
-4 602.800 7.533.000
+V4 602.615 7.524.626
 
 #### Artículo segundo
 
