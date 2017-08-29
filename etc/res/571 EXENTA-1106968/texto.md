@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 571 EXENTA, DE 27 JULIO DE 2017
+
+Por resolución exenta N° 571, de 27 de julio de 2017, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, aprobó los planes y programas del curso B, de Escuela de Conductores "Condúcete", conducente a la obtención de Licencias de Conductor No Profesionales Clase B. La Escuela de Conductores representada legalmente por su propietaria doña Ingrid Solange Salas Olivares quien tendrá como Director a Alex Javier Salas Olivares. Su sede estará ubicada en Las Acacias Nº 935-B, comuna de Las Cabras. Las horas pedagógicas autorizadas a la referida Escuela son 8 horas teóricas, 12 horas prácticas, con un total de 20 horas pedagógicas.-
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
