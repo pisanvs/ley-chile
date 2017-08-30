@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 171 EXENTA, DE 21 DE JULIO DE 2017
+
+Mediante resolución exenta Nº 171, de fecha 21 de julio de 2017, de esta Secretaría Regional, se aprobaron los programas de enseñanza conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores Sociedad Vallecar, Escuela de Conductores Clase B, Capacitación, Inversiones y Turismo Limitada, nombre de fantasía "Vallecar", cuyo Director y propietario es don Carlos Artemio Miranda Vergara. La Escuela de Conductores operará en la sede ubicada en calle Colchagua Nº 625 A, comuna de Vallenar. Las horas pedagógicas autorizadas a la referida Escuela son de 9 hrs. de teoría y 12 hrs. prácticas, con un total de 21 horas pedagógicas.-
+
+Roberto Sofanor Campos Uribe, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Atacama.
