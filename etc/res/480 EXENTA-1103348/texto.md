@@ -28,7 +28,7 @@ Resolución:
 
 i. En el jefe de la oficina regional de Tarapacá, las funciones correspondientes a la Región de Arica y Parinacota.
 
-ii. En el jefe de la oficina regional de Atacama, las funciones correspondientes a la Región de Coquimbo.
+ii. Eliminado.
 
 iii. En el jefe de la oficina regional de Los Ríos, las funciones correspondientes a las regiones de La Araucanía y Magallanes y la Antártica Chilena.
 
