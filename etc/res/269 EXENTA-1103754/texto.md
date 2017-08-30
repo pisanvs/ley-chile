@@ -28,8 +28,6 @@ f) Que, a este efecto, la Comisión viene en establecer por la presente resoluci
 
 Resuelvo:
 
-> **Nota.** El Artículo primero de la Resolución 13 Exenta, Energía, publicada el 18.01.2018, dispone la prórroga de vigencia de la presente norma a partir del 21 de enero de 2018 y hasta que el Reglamento de Sistemas de Transmisión y Planificación de la Transmisión entre en vigencia, en conformidad a lo dispuesto en el artículo vigésimo transitorio de la ley N° 20.936.
-
 #### Artículo primero
 
 <!-- parte:9804366 -->
