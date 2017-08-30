@@ -906,6 +906,16 @@ Mediación : Punta Arenas
 
 Mod. atención : permanente.
 
+Inspección Provincial del Trabajo de la Antártica Chilena
+
+Comuna : Cabo de Hornos
+
+Localidad : Puerto Williams
+
+Jurisdicción : Cabo de Hornos (Ex-Navarino), Antártica
+
+Mod. Atención : Intermitente
+
 XIII REGIÓN METROPOLITANA ORIENTE
 
 Inspección Comunal del Trabajo Santiago Sur
