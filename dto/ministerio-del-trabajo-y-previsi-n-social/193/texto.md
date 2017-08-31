@@ -70,11 +70,15 @@ servicio activo de hasta el 2% de sus remuneraciones
 
 imponibles para pensiones;
 
-c) Con el aporte mensual de los afiliados jubilados
+c) Con el aporte mensual de las y los
 
-de hasta el 1% de sus pensiones, más la cantidad
+afiliados jubilados de hasta el 1% de sus
 
-correspondiente al aporte Institucional;
+pensiones, más la cantidad a definir anualmente
+
+por el Consejo de Bienestar correspondiente al
+
+aporte institucional vigente;
 
 d) Con los intereses de los préstamos que otorgue
 
@@ -114,6 +118,8 @@ De los Beneficios
 
 El Servicio de Bienestar podrá otorgar a los afiliados y sus cargas familiares, los beneficios médicos que establece el artículo 15º del Reglamento General, en la medida que sus recursos lo permitan.
 
+En relación al beneficio de atención obstétrica señalado en el artículo 15, letra n), del decreto supremo Nº 28, de 1994, del Ministerio del Trabajo y Previsión Social, que aprueba el Reglamento General para los Servicios de Bienestar fiscalizados por la Superintendencia de Seguridad Social, se entiende que dicho beneficio incluye el beneficio de parto, en forma separada.
+
 #### Artículo 9 bis
 
 El Bienestar podrá financiar con cargo a sus propios recursos y de acuerdo con sus disponibilidades presupuestarias, la contratación de seguros de vida para sus afiliados y la de seguros de salud para solventar gastos de salud de ellos y/o de sus cargas familiares no cubiertos por el sistema de salud previsional, sin perjuicio de que los propios beneficiarios concurran al pago de los seguros referidos.
@@ -122,7 +128,7 @@ El Bienestar podrá financiar con cargo a sus propios recursos y de acuerdo con 
 
 El Servicio de Bienestar, dependiendo de sus disponibilidades presupuestarias, podrá otorgar las siguientes ayudas, por las causales y en las modalidades que a continuación se indican.
 
-a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente
+a) Matrimonio o acuerdo de unión civil: Cuando la o el afiliado contraiga matrimonio o un acuerdo de unión civil. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente. En todo caso, el beneficio otorgado por alguna de estas causales, solo podrá solicitarse una vez en cada año, cualquiera sea la causal que se invoque.
 
 b) Nacimiento: Cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento de un hijo suyo.
 
@@ -150,7 +156,7 @@ f) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves 
 
 g) Desgravamen: Al fallecer un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio de Bienestar por concepto de préstamos que éste le hubiese otorgado.
 
-h) ELIMINADA
+h) Subsidio por gastos en salud de alto costo: Consiste en el apoyo económico que puede otorgarse para contribuir al financiamiento de diagnósticos o tratamientos de alto costo, que afecten a la o el afiliado o sus cargas familiares. Se excluyen los gastos de diagnósticos o tratamientos cubiertos por la ley Nº 20.850, sobre "Sistema de protección financiera para diagnósticos y tratamientos de alto costo", por la cobertura adicional para enfermedades catastróficas (CAEC), del respectivo contrato de salud previsional; por el seguro automotriz obligatorio de la ley Nº 18.469, o por la ley 16.744, sobre accidentes del trabajo y enfermedades profesionales. Previo al otorgamiento de este subsidio, deberá acreditarse la situación que se invoca, el que en todo caso solo podrá otorgarse una vez en cada año calendario.
 
 #### Artículo 11º
 
@@ -184,7 +190,7 @@ La solicitud de cualquier tipo de préstamo será suscrita, además del afiliado
 
 #### Artículo 15º
 
-Las cuotas que el afiliado adeude al Servicio de Bienestar por préstamos o por concepto de crédito de casas comerciales, no podrán, en ningún caso, exceder del 40% de la remuneración imponible para pensiones del afiliado, o de su pensión cuando corresponda.
+Las cuotas que la o el afiliado adeude al Servicio de Bienestar por préstamos o por concepto de crédito de casas comerciales u otras instituciones en convenio con este servicio, no podrán, en ningún caso, exceder del quince por ciento de la remuneración imponible para pensiones del afiliado, o de su pensión cuando corresponda. Si se trata de créditos otorgados por cooperativas en convenio, las cuotas no podrán superar el veinticinco por ciento de la remuneración o pensión indicados.
 
 #### Artículo 16º
 
