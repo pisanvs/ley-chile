@@ -1,0 +1,5 @@
+MODIFICACIONES EFECTUADAS POR LA LEY N° 20.956, EN MATERIA DE IMPUESTO A LA RENTA, Y NUEVA NORMA DE APROXIMACIÓN EN CASO DE PAGOS SOLUCIONADOS EN EFECTIVO
+
+Extracto de circular del Servicio de Impuestos Internos Nº 44, de fecha 25 de agosto de 2017, que imparte instrucciones sobre modificaciones efectuadas por la ley Nº 20.956, de 26 de octubre de 2016, a las letras C.- y D.-, del artículo 41 A de la Ley sobre Impuesto a la Renta, en materia de normas sobre Tributación Internacional, y al Nº 2, del inciso 4º, del artículo 59 del referido cuerpo legal, en materia de Impuesto Adicional, e imparte instrucciones sobre la regla de aproximación en caso de pagos solucionados en efectivo.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en agosto de 2017.
