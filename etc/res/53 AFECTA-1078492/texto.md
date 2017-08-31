@@ -46,11 +46,13 @@ El Programa será aplicable a todo el territorio nacional.
 
 II.- TIPOS DE PROGRAMAS
 
-Existirán dos tipos de Programas:
+Existirán tres tipos de Programas:
 
-. Programa de Apoyo a Proyectos de Inversión Tecnológica
+. Programa de Apoyo a Proyectos de Inversión Tecnológica.
 
-. Programa de Apoyo a Iniciativas de Impacto Estratégico
+. Programa de Apoyo a Iniciativas de Impacto Estratégico.
+
+. Programa de Apoyo a Inversiones Audiovisuales de Alto Impacto.
 
 III.- PROGRAMA DE APOYO A PROYECTOS DE INVERSIÓN TECNOLÓGICA
 
@@ -562,15 +564,229 @@ Esta caución podrá ser constituida por la empresa o entidad beneficiaria o un 
 
 En el caso de existir anticipos de recursos, se deberá entregar una garantía de las mismas características indicadas anteriormente, por el monto total de lo anticipado.
 
-V.- EJECUCIÓN
+### V. PROGRAMA DE APOYO A INVERSIONES AUDIOVISUALES DE ALTO IMPACTO
+
+V.1. DEFINICIÓN
+
+Tiene por objeto aumentar la realización de producciones audiovisuales extranjeras de alto impacto en Chile, a través de un subsidio que contribuya a aumentar la inversión en esta industria y fortalezca la imagen de Chile a nivel internacional.
+
+Sus objetivos específicos son:
+
+- Atraer inversiones audiovisuales internacionales de alto impacto, en la tipología largometrajes, series de televisión y contenido transmitido vía Internet (OTT1). Quedan excluidos de este subsidio los reportajes noticiosos, reality shows, pornografía y comerciales
+
+- Promover producciones audiovisuales en distintas locaciones chilenas.
+
+- Promover la contratación de servicios logísticos y audiovisuales contratados a proveedores locales.
+
+- Fortalecer el desarrollo y dinamización de la industria audiovisual chilena a través de la generación de empleos directos e indirectos y del aumento de las exportaciones de servicios audiovisuales.
+
+- Promover el programa en redes internacionales vinculadas a la industria.
+
+A.- COFINANCIAMIENTO DE PROYECTO DE INVERSIONES AUDIOVISUALES DE ALTO IMPACTO
+
+Consiste en un subsidio de reembolso de los gastos relevantes (denominados también "gastos calificados") en el que incurren las producciones audiovisuales filmadas total o parcialmente en Chile, ya sea largometrajes, series de televisión o contenido transmitido vía nternet (OTT).
+
+Tipos de gastos financiables
+
+Se podrán financiar aquellos gastos realizados en Chile, relativos a servicios audiovisuales que sean calificados como admisibles por la Gerencia de Desarrollo Competitivo, denominados "Gastos Calificados", tales como:
+
+- Administración de proyecto: gastos de oficina, gastos básicos y seguros.
+
+- Honorarios de rodaje equipo de dirección, equipo de fotografía y cámara, equipo de arte y equipo de sonido.
+
+- Gastos de operación del rodaje: transporte y movilización, alimentación, producción de terreno, locaciones.
+
+- Gastos de producción artísticos y técnicos: arriendo de equipos y materiales de producción técnica.
+
+- Gastos realizados en maquillaje, vestuario, escenografía, montaje, entre otros similares.
+
+- Gastos asociados a la gestión de derechos de autor y conexos de autores chilenos.
+
+Se excluyen los costos de desarrollo, entre los que se encuentran el desarrollo de historias y guiones; los costos de contratación del equipo técnico y artístico extranjero que tienen mayor injerencia en la dirección creativa de la obra audiovisual, tales como el guionista, el director, el productor y honorarios de los actores principales extranjeros (Above the line) entre otros.
+
+Cofinanciamiento y tope máximo
+
+El incentivo no podrá exceder del 30% de los gastos calificados realizados por la empresa beneficiaria en Chile con un tope de hasta US$3 millones (tres millones de dólares de Norteamérica).
+
+Monto mínimo de inversión
+
+Las producciones que postulen a este Programa deberán efectuar un gasto mínimo en Chile de US$2 millones (dos millones de dólares de Norteamérica) netos.
+
+---------------------------------------
+
+1 OTT: Internet Over the Top Content.
+
+No deberá considerarse dentro del gasto mínimo antes referido el financiamiento que provenga de otros fondos nacionales, tales como CNTV (Consejo Nacional de Televisión), FFA (Fondo de Fomento Audiovisual), o Corfo.
+
+Beneficiarios
+
+Los beneficiarios serán personas jurídicas extranjeras responsables de la realización de una obra audiovisual, que se desarrolle total o parcialmente en territorio chileno, que concurra directamente, o mediante un acuerdo de co-ejecución con una empresa productora nacional. En este segundo caso, el porcentaje mayoritario de inversión deberá ser aportado por la empresa extranjera postulante. Se aplicarán, si corresponde, las normas referidas en el literal a) de la letra A, del Numeral III.1 precedente.
+
+B.- FINANCIAMIENTO DEL AGENTE OPERADOR INTERMEDIARIO
+
+En los casos en que la supervisión, seguimiento y administración del proyecto sea entregada a un Agente Operador Intermediario (AOI), Corfo pagará un monto máximo total de hasta $1.500 000.- (un millón quinientos mil pesos) mensuales por ese concepto. Además, podrá transferirle hasta $1.500.000 (un millón quinientos mil pesos) mensuales, para el financiamiento de la contratación de un especialista que valide los gastos a financiarse con cargo a los recursos otorgados.
+
+V.2. FORMULACIÓN DEL PROGRAMA
+
+La formulación de un Programa constará de las siguientes etapas:
+
+a) Análisis de admisibilidad
+
+La empresa postulante deberá completar la ficha de admisibilidad del proyecto de inversión, la cual se someterá a un análisis de admisibilidad sobre los siguientes aspectos:
+
+. Empresa Postulante: se analizará si la empresa postulante reúne los requisitos exigidos para ser beneficiaria(s), de acuerdo al literal A del numeral V de este Reglamento.
+
+. Tipología de Producción Audiovisual: se analizará si la producción audiovisual corresponde a largometraje, serie de televisión o contenido transmitido vía internet (OTT). Además, se evaluará que no corresponda a las tipologías de producción audiovisual que están excluidas para el subsidio de este programa.
+
+. Monto de gasto a ejecutar en Chile: se analizará si el gasto a realizar en el país cumple con el mínimo exigido por este Reglamento.
+
+Esta ficha se encontrará disponible para los interesados en el sitio web de Corfo www.corfo.cl, o en su defecto, podrá ser solicitada electrónicamente a la Plataforma de Atención a Clientes de la Corporación.
+
+La ficha deberá presentarse a través del sistema electrónico habilitado para estos efectos, o excepcionalmente en la Oficina de Partes del edificio institucional de Corfo en Santiago o en sus Direcciones Regionales.
+
+Esta etapa del proceso tiene por objeto determinar si el proyecto es susceptible de ser apoyado, previa verificación del cumplimiento de los requisitos que habilitan su postulación.
+
+En caso de ser declarado admisible, la empresa podrá postular su proyecto.
+
+La Gerencia de Desarrollo Competitivo podrá contar con el apoyo de capacidades internas o externas tales como la Comisión Fílmica de Chile, para resolver sobre la admisibilidad del proyecto.
+
+V.3. POSTULACIÓN DEL PROGRAMA
+
+La Gerencia de Desarrollo Competitivo determinará los mecanismos de postulación a este programa de apoyo, pudiendo ser éstos:
+
+a) Postulación permanente permite postular cualquier día del año durante la vigencia del instrumento.
+
+La comunicación sobre la apertura de las postulaciones se realizará mediante un aviso publicado en un diario de circulación nacional, con la siguiente información: identificación del instrumento, día de inicio de las postulaciones, correo electrónico para las consultas y el medio de postulación, información que, además, será publicada en el sitio www.corfo.cl. De la misma forma, se comunicará el cierre o suspensión de postulaciones.
+
+b) Concurso: permite postular durante un plazo fijo, comunicando el correspondiente llamado mediante un aviso publicado en un diario de circulación nacional. Se podrá establecer que el concurso se ponga en conocimiento de los interesados periódicamente (por ejemplo, al menos una vez al año), permitiendo postular durante determinados plazos fijos.
+
+La comunicación sobre la apertura de las postulaciones en caso de concurso deberá contener la misma información que la postulación permanente, además de la fecha y hora de cierre de las postulaciones.
+
+En ambas modalidades de postulación, se podrá, adicionalmente, comunicar la apertura de las postulaciones o el respectivo llamado, según corresponda, en cualquier otro medio de comunicación que asegure su adecuada difusión.
+
+La empresa postulante deberá formalizar su postulación mediante el Formulario denominado "Postulación al Programa de Apoyo a Inversiones Audiovisuales de Alto Impacto", el cual estará disponible en el sitio www.corfo.cl. Se deberán adjuntar, además, los antecedentes que se exijan en el Formulario.
+
+El Formulario de Postulación y los antecedentes adjuntos solicitados, deberán ser ingresados a través del sistema electrónico habilitado para estos efectos, o excepcionalmente, en la Oficina de Partes del edificio institucional de Corfo en Santiago o en sus Direcciones Regionales.
+
+Las postulaciones que omitan adjuntar uno o más de los antecedentes exigidos, serán devueltas sin tramitar. Asimismo, serán devueltas las presentaciones incompletas o que presenten errores manifiestos que, a juicio de Corfo, impidan la continuación del proceso de postulación.
+
+Lo anterior no obsta a la obligación de la empresa postulante de adjuntar antecedentes adicionales que Corfo pueda solicitar eventualmente durante el proceso de evaluación, o bien, autorizar la Corporación para requerirlos.
+
+Se considerará como fecha de presentación a Corfo, aquella en que se reciba el Formulario de Postulación con todos los antecedentes solicitados.
+
+Garantía de seriedad de la propuesta:
+
+Para postular, la empresa interesada deberá entregar una boleta de garantía bancaria pagadera a la vista, tomada a favor de Corfo, un stand by letter of credit o una póliza de seguro de ejecución inmediata o a primer requerimiento, emitida a favor de Corfo, por una suma equivalente a $10.000.000.- (diez millones de pesos chilenos) y con vencimiento no inferior a 90 días corridos posteriores a la fecha de postulación, la que tendrá por objeto garantizar la seriedad de la misma.
+
+Esta caución podrá ser constituida por la empresa o entidad postulante o un tercero.
+
+La Boleta de Garantía Bancaria deberá contemplar la siguiente glosa "Para garantizar a Corfo la seriedad de la postulación del proyecto denominado "......" presentado al instrumento.... por la empresa .....".
+
+Si encontrándose próxima la fecha de vencimiento del documento de Garantía, aún estuviere en curso el proceso de firma del contrato con la empresa, ya sea con Corfo o con el Agente Operador Intermediario, en caso de agenciamiento del proyecto, ésta deberá prorrogar su vigencia o tomar un nuevo documento en las mismas condiciones en que se tomó el primitivo, a total satisfacción de la Corporación.
+
+Esta garantía se hará efectiva, especialmente, en los siguientes casos:
+
+a) Si la empresa desiste de su postulación después de haber sido declarada admisible.
+
+b) Si siéndole aprobada su postulación:
+
+- No proporciona los antecedentes necesarios para elaborar el contrato con Corfo o con el AOI, según corresponda, o
+
+- No suscribe el contrato dentro del plazo fijado por la Corporación para hacerlo, o
+
+- No entregare en forma oportuna la garantía de fiel cumplimiento de contrato, en el caso de administración directa por parte de Corfo.
+
+Las postulaciones que sean declaradas inadmisibles o desestimadas se les devolverá la garantía una vez notificada tales circunstancias.
+
+En el caso que la postulación sea admisible, la garantía de seriedad de la propuesta le será devuelta al beneficiario una vez que acompañe la garantía de fiel cumplimiento del contrato de subsidio, en caso que se trate de un proyecto administrado por Corfo.
+
+V.4. EVALUACIÓN DEL PROGRAMA.
+
+La evaluación de los proyectos se realizará de conformidad con criterios y factores de evaluación, a los que se asignará un puntaje de 1 a 7.
+
+Para ser propuestos con recomendación de aprobación al Comité de Asignación de Fondos, los proyectos deberán obtener una calificación final igual o superior a 4.
+
+Estos criterios de evaluación se analizarán de forma integral, con el objeto de determinar la factibilidad técnica y financiera del proyecto y su correspondencia con los objetivos estratégicos del Programa.
+
+Los criterios y la ponderación que cada criterio de evaluación tendrá en la nota final será la que se señala a continuación:
+
+a) Criterios asociados a la experiencia y reconocimiento del postulante (30% de la nota final):
+
+a1) Experiencia y reconocimiento internacional de la empresa productora o empresas coejecutoras (20%).
+
+a2) Experiencia y reconocimiento internacional del Productor(a) (10%).
+
+b) Criterios asociados al proyecto (30% de la nota final):
+
+b1) Plan de Producción (15%)
+
+b2) Plan de Distribución y Marketing (8%)
+
+b3) Coherencia del plan ejecutivo (7%).
+
+c) Criterios asociados al potencial de impactos en la industria o industrias relacionadas (40% de la nota final):
+
+c1) Estructura de gasto del plan maestro de contratación de servicios (20%).
+
+c2) Nivel de capacidades locales consideradas en actividades creativas (5%).
+
+c3) Generación de empleo (5%).
+
+c4) Contribución al aumento de exportaciones (5%).
+
+c5) Aporte escénico a la promoción de la imagen país (5%).
+
+V .5. APROBACIÓN DEL PROGRAMA
+
+Será sometido al conocimiento y decisión del Comité de Asignación de Fondos –CAF, órgano que podrá aprobar su ejecución, asignando recursos para ello, o lo rechazará.
+
+La presentación al Comité corresponderá al Gerente de Desarrollo Competitivo de Corfo, Subgerentes o Directores del Área. A esta instancia de presentación se podrá convocar a la Comisión Fílmica de Chile, quien participará con representantes con derecho a voz.
+
+El órgano decisor, podrá aceptar la propuesta, modificarla y/o solicitar antecedentes adicionales, o bien, podrá rechazar fundadamente los proyectos postulados.
+
+Las modificaciones a los proyectos serán conocidas y decididas por el órgano decisor. Sin perjuicio de lo anterior, cuando se trate de las siguientes modificaciones: prórrogas de plazo para la ejecución del proyecto, modificaciones del presupuesto del gasto en Chile, reemplazo del AOI, y la liberación de recursos no rendidos, observados o no invertidos, el conocimiento y decisión corresponderá al Gerente de Desarrollo Competitivo.
+
+V.6. CELEBRACIÓN DEL CONTRATO DE SUBSIDIO
+
+El contrato de subsidio se celebrará entre Corfo y la empresa beneficiaria, una vez definido el subsidio.
+
+En el evento de agenciarse a un AOI, el contrato se celebrará entre el Agente Operador Intermediario y la empresa beneficiaria, en cuyo caso se aplicarán las normas contenidas en el numeral V.7 siguiente.
+
+El contrato a celebrarse con Corfo deberá contemplar, a lo menos, objeto, monto, plazo de vigencia, individualización del documento de garantía, el derecho de supervisión de Corfo respecto de las actividades y la obligación para la beneficiaria de entregar a Corfo, si ésta lo requiere, información periódica que le permita efectuar un adecuado control del avance del proyecto.
+
+Además, se deberá adjuntar una copia del Formulario de Postulación del proyecto firmado por el representante de la empresa beneficiaria.
+
+En caso de incumplimiento total o parcial del Formulario de Postulación, que ocurra dentro del plazo de ejecución del proyecto, Corfo podrá adoptar las medidas que estime oportunas en resguardo de sus intereses, las que podrán incluir el término del contrato y la ejecución de la garantía de fiel cumplimiento y por el anticipo otorgado.
+
+Además Corfo podrá adoptar la decisión de poner término anticipado al contrato en caso de insolvencia, cesación de pagos del beneficiario o en caso de negación o dificultad para la realización de labores de seguimiento. En este último caso, Corfo no transferirá los recursos del subsidio aprobado o solicitará la restitución de la totalidad del subsidio recibido.
+
+En el caso de entrega del subsidio a título de anticipo, y de no efectuarse la restitución de los recursos, Corfo hará efectivas la(s) garantía(s) constituida(s) y que obren en su poder.
+
+Corfo deberá, al momento de suscribir el contrato, exigir al beneficiario la entrega de una boleta de garantía bancaria, pagadera a la vista, tomada a favor de la Corporación, un stand by letter of credit o una póliza de seguro de ejecución inmediata o a primer requerimiento, por una suma equivalente al 3% del monto total del subsidio y con vencimiento no inferior a noventa días corridos posteriores a la fecha de término de las actividades del proyecto, la que tendrá por objeto garantizar el fiel cumplimiento de las obligaciones establecidas en el contrato.
+
+Esta caución podrá ser constituida por la empresa o entidad beneficiara por un tercero.
+
+V.7. ASIGNACIÓN DEL PROGRAMA A UN AOI
+
+Una vez aprobado el proyecto por el CAF, su administración, supervisión y seguimiento podrá ser encomendada a un Agente Operador Intermediario (AOI), el cual será seleccionado mediante una convocatoria realizada por la Gerencia de Desarrollo Competitivo.
+
+Corfo transferirá los recursos aprobados para la ejecución de las actividades encomendadas al AOI, previa dictación del acto administrativo respectivo.
+
+El AOI deberá constituir garantía en conformidad a las normas que rigen a los operadores intermediarios de Corfo. Con todo, la garantía podrá ser constituida por el AOI o un tercero.
+
+Sin perjuicio de lo anterior, el AOI podrá imputar a gastos del Programa los costos financieros de la garantía constituida.
+
+El AOI podrá, bajo su responsabilidad, anticipar recursos del subsidio al beneficiario, solicitando la constitución u otorgamiento de las garantías que estime adecuadas.
+
+VI.- EJECUCIÓN
 
 Corresponderá al Gerente de Desarrollo Competitivo de Corfo la facultad de dictar las resoluciones y suscribir los contratos que permitan la ejecución de los Programas.
 
-En el caso de existir cofinanciamiento del proyecto en cualesquiera de los Programas, Corfo deberá verificar el cumplimiento del Hito de Materialización de la Inversión y el cumplimiento de las diversas etapas contempladas en el respectivo proyecto de inversión durante los dos primeros años de su ejecución, de manera que le permita obtener resultados concretos sobre éste.
+En el caso de existir cofinanciamiento del proyecto en los programas referidos en los numerales III y IV, Corfo deberá de verificar el cumplimiento del Hito de Materialización de la Inversión y el cumplimiento de las diversas etapas contempladas en el respectivo proyecto de inversión durante los dos primeros años de su ejecución, de manera que le permita obtener resultados concretos sobre éste.
 
 El cumplimiento del Hito de Materialización de la inversión deberá ser acreditado por parte de la beneficiaria mediante la presentación de los antecedentes necesarios que así lo demuestren y/o a través de la inspección en terreno por parte de Corfo.
 
-La beneficiaria deberá rendir cuenta de los recursos del subsidio, en conformidad con la normativa de la Contraloría General de la República, la que actualmente se encuentra contenida en la resolución Nº759, de 2003. Si ésta fuere reemplazada, las rendiciones deberán realizarse de conformidad con la normativa que se dictare en su lugar.
+La beneficiaria deberá rendir cuenta de los recursos del subsidio, en conformidad con la normativa de la Contraloría General de la República, esto es, la resolución Nº 759, de 2003, respecto de aportes, subvenciones y transferencias realizadas antes del 1 de junio de 2015, y la resolución N° 30, de 2015, a aquéllas realizadas a contar de la fecha antes indicada, sin perjuicio de las modificaciones que pudieren introducirse a las resoluciones antes indicadas, las que deberán cumplirse por los beneficiarios de este instrumento.
 
 Aprobado el Programa para Iniciativas de Fomento Integradas por el Comité de Asignación de Fondos -CAF-, o el órgano que correspondiere, el Gerente de Desarrollo Competitivo dictará una resolución que lo ponga en ejecución en conformidad a las normas que se indican a continuación:
 
@@ -586,7 +802,7 @@ e) Excepcionalmente, las actividades del Programa podrán llevarse a cabo tambi�
 
 f) Las actividades que impliquen contratación de servicios directamente por Corfo, podrán encomendarse total o parcialmente a un tercero, para lo cual deberá llamarse a propuesta pública o privada, pudiendo contratarse en forma directa sólo si procede alguna de las causales habilitantes de acuerdo a la Ley de Compras Públicas y su Reglamento.
 
-VI.- FORMA DE PAGO DEL SUBSIDIO
+VII.- FORMA DE PAGO DEL SUBSIDIO
 
 El Subsidio podrá ser pagado de acuerdo a las siguientes modalidades:
 
@@ -600,30 +816,36 @@ En caso de existir situaciones pendientes de revisión o rendición, 15 días h�
 
 El documento de garantía podrá ser otorgado por el beneficiario o por un tercero y se deberá entregar en forma previa o al momento de la celebración del contrato que da cuenta del subsidio otorgado. En caso de ser otorgada por un tercero, la glosa de dicho documento, si éste permitiere su incorporación, deberá señalar expresamente que garantiza a un tercero, individualizándolo. La garantía será devuelta una vez que los resultados del proyecto hayan sido aprobados a satisfacción de Corfo, tanto respecto de sus aspectos técnicos como de la rendición de cuentas correspondiente.
 
+Para el caso de proyectos cuya administración, supervisión y seguimiento haya sido encomendada a un Agente Operador Intermediario, éste podrá anticipar recursos del subsidio al beneficiario, bajo su responsabilidad, solicitando la constitución u otorgamiento de las garantías que estime adecuadas.
+
 Todos los pagos se efectuarán contra la presentación y aprobación de los siguientes antecedentes adicionales, los que serán solicitados por Corfo:
 
 . Declaración jurada simple, firmada por el representante, de que la beneficiaria se encuentra al día en el pago de las cotizaciones de seguridad social o de seguro de desempleo, respecto de las empresas chilenas o extranjeras que contraten personal en Chile.
 
 . Informe o certificado emitido por organismos competentes respecto de las empresas chilenas o extranjeras, que contraten personal en Chile, en que conste que la beneficiaria no posee deudas de seguridad social o de seguro de desempleo.
 
-VII.- RENDICIONES
+VIII.- RENDICIONES
 
 Para el caso de los instrumentos de subsidio o apoyo ya existentes que considere una IFI, las rendiciones se realizarán conforme a la normativa de tales instrumentos.
 
-Las rendiciones de cuentas se regirán por las disposiciones de la Contraloría General de la República, las que actualmente se encuentran contenidas en la resolución Nº759, de 2003, y por las instrucciones impartidas por la Gerencia de Desarrollo Competitivo. Si alguna de estas fuere reemplazada, las rendiciones deberán realizarse de conformidad con la normativa que se dictare en su lugar.
+Las rendiciones se regirán por las disposiciones de la Contraloría General de la República y por las instrucciones que imparta la Gerencia de Desarrollo Competitivo. Las normas de la Contraloría General de la República, aplicables a las rendiciones de cuentas, se encuentran contenidas en la resolución N° 759, de 2003, respecto de aportes, subvenciones y transferencias realizadas antes del 1 de junio de 2015 y la resolución N° 30, de 2015, para aquéllas realizadas a contar de la fecha antes indicada, sin perjuicio de las modificaciones que pudieren introducirse a las resoluciones antes indicadas, las que deberán cumplirse por los beneficiarios de este instrumento.
 
-VIII.- SEGUIMIENTO
+IX.- SEGUIMIENTO
 
 Para el caso del Programa de Apoyo a Proyectos de Inversión Tecnológica, el seguimiento será efectuado por la Gerencia de Desarrollo Competitivo, cuando éste no fuere asignado a un AOI.
 
 En el caso del Programa de Apoyo a Iniciativas de Impacto Estratégico o de Apoyo a Proyectos de Inversión Tecnológica, fuere asignado a un AOI, la supervisión, seguimiento y administración será realizado por éste, sin perjuicio de las facultades de supervisión y control de Corfo para requerir antecedentes respecto de su desempeño.
 
-IX.- SUPERVISIÓN DEL PROGRAMA
+X.- SUPERVISIÓN DEL PROGRAMA
 
 La supervisión, coordinación y orientación del Programa será efectuada por la Gerencia de Desarrollo Competitivo de Corfo.
 
-X.- VIGENCIA
+En el caso que cualquiera de estos proyectos fuere asignado a un AOI, la supervisión, seguimiento y administración será realizado por éste, sin perjuicio de las facultades de supervisión y control de Corfo para requerir antecedentes respecto de su desempeño.
+
+XI.- VIGENCIA
 
 El Programa será de duración indefinida.
+
+> **Nota.** La literal i. e ii. de la letra c) del N° 2 de la Resolución 76, Economía, publicada el 31.08.2017, dispone modificar el tercer y quinto párrafo del nuevo numeral IV Ejecución, por aquellos que indica, sin embargo, encontrarse su texto en el inciso segundo y cuarto respectivamente. Asimismo, el la letra f) dispone reemplazar el párrafo segundo del nuevo numeral IX Supervisión del Programa, sin embargo, en su texto dispone de un solo inciso, es por ello que se agrega a continuación del inciso primero.
 
 Anótese, tómese razón y publíquese en el Diario Oficial.- Claudio Maggi Campos, Gerente de Desarrollo Competitivo.
