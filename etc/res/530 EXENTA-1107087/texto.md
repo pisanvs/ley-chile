@@ -1,0 +1,5 @@
+OTORGA EXCEPCIÓN DE CAMBIO DE SUJETO DEL IVA EN LA VENTA DE BERRIES Y OTORGA LA CALIDAD DE RETENEDOR DEL IVA RESPECTO DE LAS COMPRAS DE BERRIES QUE A SU VEZ EFECTÚE A TERCEROS VENDEDORES
+
+La VII Dirección Regional Talca del SII, por resolución Ex. Nº 530, de fecha 18/08/2017, concede a la sociedad Mosquitero Ecosistema Screen Limitada, RUT Nº 77.887.660-4, a contar del día primero del mes siguiente, de la fecha de esta publicación, la excepción del régimen de cambio de sujeto de derecho del impuesto al Valor Agregado en la Venta de Berries y además se otorga la calidad de Agente Retenedor del Impuesto al Valor Agregado, respecto de las compras de berries que, a su vez, efectúe a terceros vendedores, de acuerdo a la facultad establecida en el dispositivo Nº 12, de la resolución exenta SII Nº 55, del 02.06.2005, modificada por la resolución exenta SII Nº 58, del 19.05.2006, de la Dirección Nacional.
+
+Talca, 18 de agosto de 2017.- Sergio Flores Gutiérrez, Director Regional.
