@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 928, de 22 de agosto de 2017, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP Nº354, de 29 de mayo de 2015, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes de terreno Nº 28, expropiados con motivo de la obra: "Mejoramiento y Constr. Camino Curanilahue - Nacimiento por B. los Rios" Comuna de Curanilahue, Provincia de Arauco, Región del Biobío. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 12 de junio de 2014, ascendente a la cantidad de $1.998.370.- para el lote Nº28.
