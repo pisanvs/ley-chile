@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 927 de 22 de agosto de 2017, se tuvo por desistida la expropiación de los lotes Nºs. 118L3, 116L3, 117L3, 130L3, 126L3, 124L3, 127L3, 119L3, 120L3, 125L3, 123L3, 121L3, 122L3, 129L3 y 128L3, para la obra: PROYECTO LÍNEA 3 LA REINA - HUECHURABA, SECTOR: GRANADA", ordenada por Decretos Exentos MOP Nºs. 201, 202, 203, 204, 205, 206, 207, 208, 209, 211, 212, 213, 214, 215 y 216, todos de fecha 1 de febrero de 2013. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7º y 32º del Decreto Ley Nº 2186, de 1978.
