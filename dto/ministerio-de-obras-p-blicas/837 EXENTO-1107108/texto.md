@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 837, de 04 de agosto de 2017, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº380, de 21 de julio de 2016, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes de terreno Nºs 18 y 19, expropiados con motivo de la obra: "Construcción By Pass Castro en Chiloé", Comunas de Castro y Chonchi, Provincia de Chiloé, Región de Los Lagos. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 23 de abril de 2013, ascendente a las cantidades de $3.369.900, para el lote Nº18 y $26.744.280, para el lote Nº 19.
