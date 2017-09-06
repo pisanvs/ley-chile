@@ -18,10 +18,6 @@ Asígnase para uso de la Unidad de Servicios Generales de la Subsecretaría de E
 
 #### Artículo 2º
 
-El vehículo antes individualizado, deberá guardarse en el domicilio institucional, ubicado en Avenida Libertador Bernardo O'Higgins Nº 1449, subterráneo Nivel -4, box 422, comuna de Santiago, y será conducido por el Sr. Wladimir Alexander General Soto, cédula nacional de identidad Nº 5.665.711-5, quien deberá rendir caución, de acuerdo a lo establecido en el artículo 7 del decreto ley Nº 799 de 1974, del Ministerio del Interior.
-
-#### Artículo 3º
-
 Autorízase la circulación del vehículo antes individualizado los días sábados en la tarde, domingos y festivos, para el desarrollo de las labores operativas de la Unidad.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Luis Felipe Céspedes Cifuentes, Ministro de Economía, Fomento y Turismo.- Jorge Burgos Varela, Ministro del Interior y Seguridad Pública.
