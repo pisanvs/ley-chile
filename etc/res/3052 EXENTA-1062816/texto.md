@@ -126,6 +126,14 @@ Conforme a los gastos que rinda, el beneficiario obtendrá un subsidio adicional
 
 9. El Certificado de Subsidio Habitacional tendrá una vigencia de dieciocho meses, contados desde la fecha de su emisión consignada en el respectivo Certificado, plazo que podrá ser ampliado en seis meses más por resolución fundada del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Valparaíso.
 
+Adicionalmente los beneficiarios de subsidios habitacionales regulados por la presente resolución bajo esta modalidad, que no se encuentren vinculados formalmente a un proyecto regulado por el DS Nº 116, de 2014, o el DS Nº 19, de 2016, o a un proyecto de reconstrucción del DS Nº 49, de 2011, todos de Vivienda y Urbanismo, tendrán plazo hasta el 29 de diciembre de 2017 para solicitar, por una sola vez, un nuevo plazo de vigencia para presentar a cobro al Serviu el Certificado de Subsidio Habitacional, siempre que acrediten que se encuentran en proceso de adquisición de una vivienda mediante reserva de ésta, promesa o escritura de compraventa o ingreso de esta última para su inscripción en el Conservador de Bienes Raíces competente.
+
+El nuevo plazo de vigencia será hasta el 31 de diciembre de 2018 y deberá ser sancionado por resolución del Seremi de la Región de Valparaíso.
+
+Los certificados de subsidio de los beneficiarios que hasta el 29 de diciembre de 2017 no soliciten un nuevo plazo de vigencia, caducarán automáticamente a partir de la fecha de término de aquella consignada en el certificado de subsidio o en su defecto de la última prórroga otorgada.
+
+Lo dispuesto en los incisos precedentes, podrá ser aplicado a los beneficiarios de subsidios de Proyectos de Integración Social a ser aplicados en la modalidad de adquisición de viviendas, que resultaron seleccionados a través del llamado efectuado mediante resolución exenta Nº 4.425 (V. y U.), de 2014.
+
 10. Para el pago del Certificado de Subsidio Habitacional, se estará a lo dispuesto en los artículo 32 y 33 del DS Nº 1 (V. y U.), 2011, en lo que fuera procedente, debiendo cumplir la vivienda con el programa arquitectónico a que se refiere el número 6 de esta resolución.
 
 En caso que el beneficiario hubiese tenido derechos sobre un sitio en que estaba emplazada la vivienda que resultó totalmente destruida o inhabitable por la catástrofe y haya iniciado los trámites de cesión del terreno al Serviu, conforme a lo señalado en el inciso quinto del Resuelvo 6. de esta resolución, se le eximirá de inscribir las prohibiciones a que se refiere la letra c) del artículo 33 del DS Nº 1 (V. y U.), de 2011.
