@@ -518,7 +518,7 @@ Disposiciones Transitorias
 
 #### Artículo 1º
 
-A los ascensores verticales, inclinados o funiculares, montacargas y escaleras o rampas mecánicas, instalados en edificios privados o públicos, que hubiesen sido recepcionados con anterioridad a la fecha de entrada en vigencia del presente decreto, sólo les serán aplicables las disposiciones contenidas en los numerales 3 y 4 del artículo 5.9.5. de la Ordenanza General de Urbanismo y Construcciones, referidas a la mantención y certificación de dichas instalaciones, debiendo ajustarse para estos efectos a las especificaciones técnicas de sus fabricantes y a las especificaciones contenidas en el respectivo permiso de edificación, cuando las hubiere. Con todo, para esas certificaciones se deberá dar cumplimiento a lo que señalen para dicho efecto las respectivas normas técnicas vigentes.
+A los ascensores verticales, inclinados o funiculares, montacargas y escaleras o rampas mecánicas, instalados en edificios privados o públicos, que hubiesen sido recepcionados con anterioridad a la fecha de entrada en vigencia del presente decreto, sólo les serán aplicables las disposiciones contenidas en los numerales 3 y 4 del artículo 5.9.5. de la Ordenanza General de Urbanismo y Construcciones, referidas a la mantención y certificación de dichas instalaciones, debiendo ajustarse para estos efectos a las especificaciones técnicas de sus fabricantes y a las especificaciones contenidas en el respectivo permiso de edificación, cuando las hubiere. Con todo, para esas certificaciones se deberá dar cumplimiento a lo que señalen para dicho efecto las respectivas normas técnicas oficiales vigentes.
 
 La certificación deberá efectuarse en el mes que corresponda al último dígito del número municipal asignado al acceso principal del edificio donde se encuentran instalados los ascensores y otras instalaciones similares, conforme al siguiente cuadro:
 
@@ -526,7 +526,7 @@ La certificación deberá efectuarse en el mes que corresponda al último dígit
 
 MUNICIPAL ASIGNADO AL PREDIO
 
-0 Marzo
+0 Enero -Febrero - Marzo
 
 1 Abril
 
@@ -578,13 +578,71 @@ La primera certificación y las que le sigan se efectuarán en los plazos indica
 
 En cualquiera de los casos a que se refieren los artículos transitorios 1º y 2º de este decreto, junto al Certificado al que se refiere el artículo 5.9.5. de la Ordenanza General de Urbanismo y Construcciones, deberá ingresarse a la Dirección de Obras Municipales una Carpeta de Ascensores e Instalaciones similares conformada por:
 
-1. Plano General de Ascensores a que se refiere el numeral 1 del artículo 5.9.5. de la Ordenanza General de Urbanismo y Construcciones, singularizando cada uno de los ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas que corresponda, usando como base el número de rol de avalúo asignado al predio al momento del permiso.
+1. Plano General de Ascensores a que se refiere el numeral 1 del artículo 5.9.5. de la Ordenanza General de Urbanismo y Construcciones, singularizando cada uno de los ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas que corresponda, usando como base el número de rol de avalúo asignado por el Servicio de Impuestos Internos al predio al momento del permiso.
 
 2. Antecedentes a que se refieren las letras g), h), i), j) y k) del numeral 2 del artículo 5.9.5 de la aludida Ordenanza General.
 
 En caso que los antecedentes señalados en el número 2 precedente no consten en el expediente de permiso de edificación del respectivo edificio, estos podrán ser elaborados, recopilados y/o completados por un profesional especialista, requerido especialmente para dicho efecto por el propietario. Dicha labor también podrá ser realizada por el mantenedor del edificio, o un instalador o certificador inscritos en la respectiva especialidad del Registro de la Ley Nº 20.296, a solicitud del propietario.
 
-Se elaborarán dos ejemplares de esta Carpeta de Ascensores e Instalaciones similares, una de las cuales deberá ser entregada por el propietario del edificio a la Dirección de Obras Municipales, incluyendo en cada una de estas copia de todos los documentos señalados en los dos incisos precedentes, suscritos por el propietario y el respectivo profesional especialista, mantenedor, instalador o certificador que hubiese hecho el levantamiento y completado los antecedentes requeridos para dicha Carpeta. El otro ejemplar quedará archivado en el respectivo edificio.
+En tal circunstancia, los antecedentes correspondientes a las letras g), h) y j) de dicho artículo 5.9.5. número 2, podrán ser reemplazados, respectivamente, por:
+
+1) Planos y Especificaciones Técnicas de cada una de las instalaciones de ascensores, montacargas, escaleras o rampas mecánicas, y que contenga, según corresponda, lo siguiente:
+
+a) Ascensores Verticales, Inclinados o Funiculares, o Montacargas. Contendrá las principales características y dimensiones de la cabina en los siguientes aspectos:
+
+- Capacidad en Kg.
+
+- Nº de Personas.
+
+- Velocidad Nominal.
+
+- Nº de Paradas.
+
+- Nº de Embarques.
+
+- Ancho y tipo de puertas.
+
+- Inclinación del plano de rodadura, cuando corresponda.
+
+b) Rampas o Escaleras Mecánicas: Contendrá las principales características y dimensiones de la instalación, velocidad nominal, inclinación y ancho de peldaños, según corresponda.
+
+2) Planos de la instalación eléctrica y plano eléctrico de la línea de seguridad, conforme a la normativa vigente.
+
+3) Declaración Jurada de las normas técnicas oficiales vigentes aplicables para la mantención y certificación de cada ascensor, montacarga y escalera o rampa mecánica.
+
+Si las normas técnicas aludidas no abordan las características singulares de la instalación de un ascensor, montacarga y escalera o rampa mecánica, se deberá elaborar un Manual de Procedimientos e Inspecciones como alternativa a esta Declaración Jurada, debiendo incluir en aquel los aspectos no abordados por dichas normas y los procedimientos aplicables que procedan para su mantención y certificación. Dicho Manual será elaborado por el mismo profesional señalado en el inciso segundo precedente.
+
+En esta misma circunstancia, los antecedentes correspondientes a las letras i) y k) podrán ser reemplazados, según corresponda, por antecedentes elaborados especialmente para este efecto, por el respectivo profesional especialista, mantenedor, instalador o certificador que hubiese hecho el levantamiento y completado los antecedentes requeridos para dicha Carpeta.
+
+Para la primera certificación a la que se refieren los artículos precedentes, el propietario o el administrador, cuando corresponda, deberá poner a disposición del certificador la Carpeta de Ascensores e Instalaciones similares previamente elaborada, quien cotejará que el contenido de los documentos de esta corresponda a las instalaciones sobre las que efectuará la certificación y con su identificación determinada en el Plano General de Ascensores.
+
+Se elaborarán dos ejemplares de esta Carpeta de Ascensores e Instalaciones similares, las cuales deberán ser entregadas por el propietario del edificio a la Dirección de Obras Municipales, incluyendo en cada una de estas copia de todos los documentos señalados en los dos incisos precedentes, suscritos por el propietario y el respectivo profesional especialista, mantenedor, instalador o certificador que hubiese hecho el levantamiento y completado los antecedentes requeridos para dicha Carpeta. El Director de Obras Municipales verificará el cumplimiento del contenido de esta Carpeta y su correspondencia con las respectivas instalaciones, incluida la identificación de estas, conforme al Plano General de Ascensores. Ambos ejemplares, junto con su contenido, serán timbrados y fechados, debiendo quedar una de estas Carpetas registrada y archivada en la Dirección de Obras Municipales y la otra archivada en el respectivo edificio.
+
+La Carpeta de Ascensores e Instalaciones similares, incluyendo la primera Certificación, no podrá ser registrada y archivada cuando falte alguno de los documentos antes señalados o no haya correspondencia entre estos.
+
+#### Artículo 4º
+
+Para los efectos de lo dispuesto en el numeral 4, del párrafo décimo cuarto del artículo 5.9.5. de la Ordenanza General de Urbanismo y Construcciones y en tanto las normas técnicas vigentes se actualizan para calificar los defectos encontrados en las instalaciones al momento de efectuar la inspección que antecede a la certificación, estos serán calificados como defectos graves y defectos leves:
+
+Defecto Grave: Es todo aquel que constituye un riesgo para la seguridad de las personas, del personal técnico que mantiene las respectivas instalaciones, o de la instalación propiamente tal. En virtud de lo anterior, será considerado como grave todo aquel defecto que altere o pueda alterar el correcto funcionamiento de cualquiera de los sistemas o componentes de la respectiva instalación, señalados a continuación, cuando pueda causar un accidente por cizallamiento, aplastamiento, caída, choque, atrapamiento, fuego o choque eléctrico:
+
+- Sistema de apertura de puertas, contactos de seguridad y dispositivos de enclavamiento.
+
+- Conjunto limitador de velocidad y paracaídas del equipo.
+
+- Sistema de frenos del equipo.
+
+- Sistema de suspensión y polea motriz, en especial cuando estos no cumplan con las disposiciones de seguridad especificadas por el fabricante.
+
+- Línea eléctrica o circuito de seguridad, incluidos los dispositivos de final de recorrido.
+
+Defecto Leve: Es todo aquel no calificable como grave, y que por sí solo no significa un riesgo para la seguridad de las personas, para el personal técnico que mantiene las respectivas instalaciones, o para la instalación propiamente tal.
+
+En caso que, conforme a las normas técnicas oficiales vigentes aplicables a la respectiva instalación, hayan razones técnicas por las cuales estos defectos no puedan ser subsanados, el certificador deberá determinar fundadamente una solución alternativa para cada defecto, de carácter permanente, así como el plazo de ejecución de la misma solución, lo que deberá quedar detallado en un informe de defectos leves que se adjuntará a la Certificación.
+
+#### Artículo 5º
+
+A contar de la entrada en vigencia de este decreto, las primeras certificaciones que deban efectuarse el año 2017 cuyo plazo preceptuado estuviere vigente dispondrán de tres meses adicionales para realizarlas. Las primeras certificaciones cuyo plazo preceptuado estuviere vencido dispondrán de un plazo adicional para realizarlas que vence el 31 de octubre de 2017. El ingreso del certificado respectivo a la Dirección de Obras Municipales, deberá ser realizado durante el mismo periodo, que les corresponda.
 
 #### Artículo 4º
 

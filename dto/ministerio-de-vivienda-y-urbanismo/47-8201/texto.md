@@ -4268,6 +4268,8 @@ Las puertas de la cabina y de pisos deben ser automáticas y operar con deslizam
 
 Adicionalmente, la cabina deberá cumplir con las disposiciones para personas con discapacidad indicadas en el artículo 4.1.7. de esta Ordenanza.
 
+Tratándose de alteraciones o transformaciones de ascensores o de la incorporación de ascensores en edificios existentes, las dimensiones mínimas de cabina podrán reducirse y adaptarse al máximo que permiten las dimensiones interiores de la caja de ascensores existente. En estos casos, la dimensión del ancho libre de paso de las puertas podrá reducirse a 0,8 m, en tanto las puertas de piso y cabina sean automáticas. Por su parte, el Estudio de Ascensores exigido en la letra b) de este numeral no será necesario
+
 d) Caja de Ascensores:
 
 La caja de ascensores terminará inferiormente en un pozo y superiormente en un espacio sobre la cabina que contemplará un recorrido libre de seguridad, calculado por el profesional especialista o por el fabricante, conforme a las normas técnicas oficiales vigentes y las especificaciones técnicas del fabricante de la instalación.
@@ -9572,9 +9574,13 @@ Parte 2: Reglas para la mejora de la seguridad de las escaleras mecánicas y de 
 
 - NCh 3362 Requisitos mínimos de diseño, instalación y operación para ascensores electromecánicos frente a sismos.
 
+- NCh 3365 Requisitos para equipos de transporte vertical - Ascensores y montacargas inclinados o funiculares.
+
+- NCh 3395 Equipos de transporte vertical - Parte 1: Requisitos para la inspección de ascensores y montacargas eléctricos existentes.
+
 Todos los ascensores, tanto verticales como inclinados, montacargas y escaleras o rampas mecánicas de una edificación, deberán singularizarse en un Plano General de dichas instalaciones, en que se graficará cada uno de estos en la planta del primer piso del edificio, del acceso principal, o en la que corresponda al piso de salida del edificio. Dicho plano será confeccionado y firmado por el profesional especialista que suscribe el estudio de ascensores y el propietario.
 
-En dicho plano, se identificará con un número único a cada ascensor, montacarga, escalera y rampa mecánica del respectivo edificio. Este número se conformará a partir del número de la comuna asignado por el Servicio de Impuestos Internos, seguido del número de rol de avalúo de la propiedad, según manzana y predio donde se emplaza el proyecto, seguido del número asignado a la respectiva instalación, compuesto por dos dígitos partiendo del "01" y una letra al final, que se asignará conforme a la siguiente nomenclatura:
+En dicho plano, se identificará con un número único a cada ascensor, montacarga, escalera y rampa mecánica del respectivo edificio. Este número se conformará a partir del número de la región y la comuna asignado por el Servicio de Impuestos Internos, seguido del número de rol de avalúo de la propiedad, según manzana y predio donde se emplaza el proyecto, seguido del número asignado a la respectiva instalación, compuesto por dos dígitos partiendo del "01" y una letra al final, que se asignará conforme a la siguiente nomenclatura:
 
 A : Ascensor Electromecánico.
 
@@ -9606,15 +9612,15 @@ a) Certificado de inscripción vigente en la especialidad Instaladores del Regis
 
 b) Declaración Jurada del instalador que señale que todas las instalaciones de ascensores, montacargas y escaleras o rampas mecánicas cumplen con las normas técnicas oficiales vigentes, con las especificaciones técnicas del fabricante y con las de esta Ordenanza.
 
-c) Declaración Jurada del instalador que señale expresamente que para cada una de las instalaciones de ascensores, montacargas y escaleras o rampas mecánicas del proyecto, se efectuaron las inspecciones y ensayos previos a su puesta en servicio y que además se encuentran sin fallas o defectos y operativas. Para dicho efecto, en el caso de ascensores electromecánicos verticales, deberá procederse conforme señala el Anexo D de la NCh 440/1 y en el caso de ascensores hidráulicos verticales, se procederá conforme señala el Anexo D de la NCh 440/2. En el caso de ascensores inclinados o funiculares, montacargas y escaleras o rampas mecánicas deberá procederse conforme señalen para estos efectos las respectivas normas técnicas vigentes.
+c) Declaración Jurada del instalador que señale expresamente que para cada una de las instalaciones de ascensores, montacargas y escaleras o rampas mecánicas del proyecto, se efectuaron ensayos previos a su puesta en servicio y que además se encuentran sin fallas o defectos y operativas. Para dicho efecto, en el caso de ascensores electromecánicos verticales, deberá procederse conforme a lo establecido por el fabricante, o en su defecto conforme señala el Anexo D de la NCh 440/1 y en el caso de ascensores hidráulicos verticales, se procederá conforme señala el Anexo D de la NCh 440/2. En el caso de ascensores inclinados o funiculares, montacargas y escaleras o rampas mecánicas deberá procederse conforme señalen para estos efectos el fabricante o las respectivas normas técnicas vigentes.
 
 d) Declaración Jurada del instalador, que señale que la instalación de ascensores verticales, inclinados o funiculares, y de escaleras o rampas mecánicas cuando corresponda, cumplen con la cantidad de ascensores, tanto verticales como inclinados o funiculares, diseño y características determinadas en el Estudio de Ascensores.
 
 e) Declaración de instalaciones eléctricas de ascensores, tanto verticales como inclinados, montacargas y escaleras o rampas mecánicas, cuando corresponda, inscrita por el instalador autorizado en la Superintendencia de Electricidad y Combustibles.
 
-f) En el caso de ascensores electromecánicos verticales se adjuntará además el Informe Técnico y las Certificaciones descritas en el Anexo C de la Norma NCh 440/1. En el caso de ascensores hidráulicos verticales, deberá procederse conforme señala el Anexo C de la NCh 440/2.
+f) En el caso de ascensores electromecánicos verticales se adjuntará además el Informe Técnico y los datos necesarios para verificar la conformidad descrita en el Anexo C de la Norma NCh 440/1. En el caso de ascensores hidráulicos verticales, deberá procederse conforme señala el Anexo C de la NCh 440/2.
 
-g) Planos Mecánicos y Especificaciones Técnicas de cada una de las instalaciones de ascensores, montacargas, escaleras o rampas mecánicas, según corresponda:
+g) Planos y Especificaciones Técnicas de cada una de las instalaciones de ascensores, montacargas, escaleras o rampas mecánicas, según corresponda:
 
 - Ascensores Verticales: Contendrá el plano de cada ascensor, las plantas y cortes que permitan definir la obra gruesa y terminaciones de la caja de ascensores, el pozo y el espacio o sala de máquinas, según corresponda, así como también las principales características y dimensiones de la cabina en los siguientes aspectos:
 
@@ -9629,8 +9635,6 @@ g) Planos Mecánicos y Especificaciones Técnicas de cada una de las instalacion
 - Nº de Embarques.
 
 - Ancho y tipo de puertas.
-
-- Cargas máximas requeridas por la caja de ascensores y losa de sala de máquinas, cuando corresponda.
 
 - Ascensores Inclinados o Funiculares: Contendrá las plantas y cortes que permitan definir la obra gruesa donde se apoya la instalación y el plano de rodadura por la que se desplaza la cabina, así como también las principales características de la instalación, y las terminaciones, dimensiones, forma de acceder, y cargas máximas que soporta la cabina.
 
@@ -9722,7 +9726,7 @@ Las edificaciones que consideren más de un destino deberán aplicar las exigenc
 
 Para la certificación, el propietario o el administrador, cuando corresponda, deberá poner a disposición del certificador la Carpeta de Ascensores e Instalaciones similares señalada en el numeral 13 del artículo 5.1.6. de esta Ordenanza General. Esta contendrá además los respectivos informes de mantención del período que corresponde a la certificación y copia de todas las certificaciones efectuadas al respectivo ascensor, montacarga, rampa o escalera mecánica.
 
-La primera certificación se realizará durante el mes en que se cumplan los plazos a que se refiere la tabla anterior, según corresponda al destino del edificio, contados desde su recepción definitiva. En el caso de ascensores verticales, inclinados o funiculares, montacargas y escaleras o rampas mecánicas, instalados en edificios que correspondan a obras de infraestructura ejecutadas por el Estado, a que se refiere el inciso tercero del artículo 116 del DFL Nº 458 (V. y U.), de 1975, Ley General de Urbanismo y Construcciones, los plazos se contarán a partir de la fecha de término de las obras.
+La primera certificación se realizará durante el mes en que se cumplan los plazos a que se refiere la tabla anterior, según corresponda al destino del edificio, contados desde su recepción definitiva. En el caso de ascensores verticales, inclinados o funiculares, montacargas y escaleras o rampas mecánicas, instalados en edificios que correspondan a obras de infraestructura ejecutadas por el Estado, a que se refiere el inciso cuarto del artículo 116 del DFL Nº 458 (V. y U.), de 1975, Ley General de Urbanismo y Construcciones, los plazos se contarán a partir de la fecha de término de las obras. En el caso de ascensores verticales, inclinados o funiculares, montacargas y escaleras o rampas mecánicas, instalados en edificios existentes a que se refiere el numeral 3 del artículo 5.1.4. de esta Ordenanza, los plazos se contarán a partir de la fecha de recepción de las obras respectivas por parte de la Dirección de Obras Municipales. Cuando se trate de la alteración o transformación de ascensores e instalaciones similares, a que hacen referencia los párrafos finales del numeral 2 de este artículo, los plazos se contarán a partir de la fecha de entrega de la documentación respectiva en la Dirección de Obras Municipales.
 
 Las certificaciones siguientes se realizarán en los mismos plazos y meses en que se hubiere practicado la primera certificación.
 
@@ -9776,9 +9780,19 @@ c) Que la instalación cuenta con los informes de mantención correspondientes a
 
 d) Que se ha seguido el plan anual de mantención determinado para la respectiva instalación.
 
-En los casos en que no se hubiera realizado alguna de las mantenciones a que se refiere esta Ordenanza, no hubiesen sido hechas en los plazos señalados para ello, o no se encontraren vigentes los contratos de mantención respectivos, el certificador podrá efectuar la certificación, previa verificación de que las respectivas instalaciones se encuentran en condiciones de seguir funcionando.
+En los casos que se indican a continuación, el certificador podrá efectuar la Certificación, debiendo incluir estos aspectos en un informe escrito que se adjuntará al Certificado en tales circunstancias, previa verificación de que las respectivas instalaciones se encuentran en condiciones de seguir funcionando:
 
-En los casos señalados en el inciso anterior, el certificador, además de emitir el respectivo certificado, deberá ingresar una copia de éste en la Dirección de Obras Municipales, en un plazo no superior a 15 días contados desde la fecha de emisión de la certificación, para los efectos de la aplicación de los artículos 20 y 21 de la Ley General de Urbanismo y Construcciones.
+. Si no se hubiera realizado alguna de las mantenciones a que se refiere esta Ordenanza;
+
+. Si las mantenciones no hubiesen sido hechas en los plazos señalados para ello;
+
+. Si la instalación presenta algún defecto calificado como leve conforme a las normas técnicas oficiales vigentes, o
+
+. Si no se encontraren vigentes los contratos de mantención respectivos.
+
+Bajo ningún concepto el certificador podrá emitir el Certificado si la instalación presenta defectos calificados como graves, conforme a las normas técnicas oficiales vigentes o, si no se hubieren solucionado los defectos leves detectados en la Certificación anterior.
+
+En los casos señalados en el párrafo décimo cuarto, el certificador, además de emitir el respectivo certificado, deberá ingresar una copia de éste en la Dirección de Obras Municipales, en un plazo no superior a 30 días contados desde la fecha de emisión de la certificación, para los efectos de la aplicación de los artículos 20 y 21 de la Ley General de Urbanismo y Construcciones.
 
 En caso que el certificador determine que las instalaciones no se encuentran en condiciones de seguir funcionando, independientemente del hecho que se haya dado cumplimiento a las mantenciones obligatorias señaladas en el presente artículo, el propietario o el administrador, según corresponda, deberá dejar sin servicio la instalación e impedirá su utilización. En estos casos el certificador pondrá en conocimiento de lo anterior a la Dirección de Obras Municipales, para los efectos de la aplicación de los artículos 20 y 21 de la Ley General de Urbanismo y Construcciones.
 
