@@ -132,7 +132,11 @@ Las acciones emitidas por empresas y entidades bancarias extranjeras y los certi
 
 #### Artículo 7
 
-Se evaluará el riesgo país en función de la clasificación de riesgo que tenga el país donde esté situada la bolsa de valores en la cual se encuentren inscritas las acciones o los certificados negociables, y los Fondos puedan transarlos. Se entenderá por clasificación de riesgo país la correspondiente a los instrumentos de largo plazo en moneda extranjera emitidos por el Estado extranjero o su Banco Central. La clasificación de mayor riesgo asignada, por al menos dos de las entidades clasificadoras internacionales indicadas en el artículo 2, deberá ser igual o superior a Categoría AA, considerando lo establecido en el artículo 3 anterior.
+Para los efectos del artículo anterior, el riesgo país se evaluará en función de la clasificación de riesgo que tenga el país donde esté situada la bolsa de valores en la cual se encuentren inscritas las acciones o los certificados negociables, y los Fondos puedan transarlos. Las bolsas deberán estar localizadas en países que cuenten con una clasificación de riesgo soberano vigente igual o superior a la Categoría AA establecida en el inciso primero del artículo 105 del DL 3.500, de 1980, respecto de instrumentos de deuda de largo plazo, considerando para ello las equivalencias establecidas en el artículo 3 anterior.
+
+Sin perjuicio de lo anterior, también podrán considerarse aquellas bolsas que se encuentran localizadas en países que tengan clasificación de riesgo soberano igual o superior a la Categoría BBB, conforme a las equivalencias y forma de determinación antedichas, sujeto a que la bolsa de que se trate se encuentre establecida en una jurisdicción incluida dentro de los "Mercados Reconocidos" por la Superintendencia de Valores y Seguros, para efectos del listado a que se refiere la letra d) de la Sección III de su Norma de Carácter General Nº 352 o la norma que la reemplace o sustituya, y solo en tanto se mantenga en dicho listado.
+
+La clasificación de riesgo soberano exigida deberá haber sido otorgada por, al menos, dos de las entidades clasificadoras internacionales indicadas en el artículo 2 de este Acuerdo, considerándose para estos efectos la categoría de más alto riesgo que cualquier entidad clasificadora hubiere asignado al país respectivo.
 
 #### Artículo 8
 
