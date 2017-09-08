@@ -20,13 +20,15 @@ b) La necesidad de fomentar el desarrollo de proyectos habitacionales en comunas
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado hasta los días 25 de septiembre de 2017, 31 de octubre de 2017 y 15 de diciembre de 2017, ubicados total o parcialmente en los territorios de las comunas o áreas o a las distancias de los sistemas de transporte que se indican en la siguiente tabla, de las regiones de Valparaíso, del Biobío y Metropolitana:
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado hasta el día 31 de octubre de 2017, ubicados total o parcialmente en los territorios de las comunas o áreas o a las distancias de los sistemas de transporte que se indican en la siguiente tabla, de las regiones de Valparaíso, del Biobío y Metropolitana:
 
 .
 
 El Serviu de la región respectiva será responsable de determinar si los proyectos que se presenten en este llamado especial se emplazan en los territorios o a la distancia de estaciones de sistemas de transporte definidos en la tabla precedente.
 
 2. Los recursos destinados para la selección de las personas postulantes a este llamado alcanzarán los montos que se indican en la siguiente tabla, sin perjuicio de poder efectuarse ajustes en función de la demanda presentada y los recursos disponibles del programa 2017:
+
+.
 
 3. El número de proyectos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos señalados en el Resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
 
