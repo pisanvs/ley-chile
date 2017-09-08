@@ -32,6 +32,18 @@ h) Casa González Videla, de calle Matta N°s 489 al 495 esquina de calle Cordov
 
 Declárase Zona Típica, el área de la ciudad tradicional de La Serena enmarcada entre la Costanera P. P. Muñoz por el poniente, barranca del río por el norte, calle Amunátegui por el sur, y bordes de los cerros por el oriente.
 
+El área protegida tiene una superficie de 1.656.390 mts.2, según se grafica en el polígono con los números 1 - 2 - 3 - 4 -1, del plano adjunto, que forma parte del presente decreto y cuyos límites son los siguientes:
+
+TRAMO DESCRIPCIÓN
+
+1 - 2 Límite Norte, línea de barranca de río.
+
+2 - 3 Límite Oriente, línea de borde de los Cerros.
+
+3 - 4 Límite Sur, línea de solera sur de calle Amunátegui.
+
+4 - 1 Límite Poniente, línea por Costanera Pedro Pablo Muñoz.
+
 Anótese, tómese razón y Publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Alfredo Prieto Bafalluy, Ministro de Educación Publica.
 
 Lo que transcribo a usted para su conocimiento. - Saluda a usted. - Alvaro Arriagada Norambuena, Subsecretario de Educación Pública subrogante.
