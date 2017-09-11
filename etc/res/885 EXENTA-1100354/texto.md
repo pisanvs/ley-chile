@@ -64,11 +64,13 @@ Dicho presupuesto global incluye el monto del subsidio más el monto de la Asist
 
 7. Se resuelve establecer un monto mayor de subsidio respecto a lo señalado en el artículo 6° del DS N° 255 (V. y U.), de 2006, dada la necesidad de financiar las reparaciones más complejas que se pueden dar en estos casos. Este mayor monto de subsidio para la intervención de la vivienda podrá incrementarse si la cubierta está constituida por asbesto cemento y debe ser reemplazada. Los montos serán los indicados según la siguiente tabla:
 
+.
+
 a. En el caso de requerir tratamiento y traslado de cubiertas existentes de asbesto cemento, la Entidad Patrocinante deberá solicitar el incremento de subsidio según tabla anterior, con la finalidad de absorber los mayores costos que implica la aplicación de los protocolos de retiro de planchas de asbesto acordados con el Ministerio de Salud.
 
 b. En el caso de requerir incremento por accesibilidad universal, estas obras podrán ser, entre otras, implementación de rampas de acceso, pasamanos, ampliación de vanos de puertas, adaptación de baños, ajuste de altura de mobiliario (clósets, artefactos, interruptores, entre otros).
 
-8. Para los casos de Proyectos del Título II Reposición de techumbres y Título III Reposición de 2° pisos afectados por problemas provocados por la acción de plagas de insectos xilófagos (como termitas o larvas de coleópteros u otros análogos), se tendrán las siguientes consideraciones especiales:
+8. Para los casos de Proyectos del Título II "Reposición de techumbres u otros elementos estructurales" y del Título III "Reposición de 2º piso afectado por problemas provocados por la acción de plagas de insectos xilófagos" (como termitas o larvas de coleópteros u otros análogos), se tendrán las siguientes consideraciones especiales:
 
 a. La intervención estará orientada principalmente a la reposición de elementos estructurales dañados por efectos de plagas en la vivienda existente, y que comprometan la capacidad de resistencia de la misma, por elementos que a futuro puedan verse afectados por la acción de estos insectos.
 
@@ -81,6 +83,8 @@ ii. Se podrá complementar con un documento o certificado emitido por alguna ent
 iii. Este subsidio solo será aplicable si la presencia del insecto o plaga compromete las propiedades físicas de los elementos afectados.
 
 9. Se otorgará al total del grupo, en el caso de postulación colectiva, un puntaje adicional a los ya dispuestos en el DS N° 255 (V. y U.), de 2006, para los proyectos de mejoramiento y ampliación de vivienda de la siguiente manera:
+
+.
 
 Para los postulantes de la Región de Coquimbo se considerará también un puntaje adicional por factor de localización de acuerdo a la siguiente tabla:
 
