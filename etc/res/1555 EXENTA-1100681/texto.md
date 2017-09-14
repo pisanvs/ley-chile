@@ -14,19 +14,19 @@ c) La resolución exenta Nº 8.315 (V. y U.), de 2016, que autoriza efectuar lla
 
 Resolución:
 
-1. Llámase a partir del 13 de marzo y hasta el 31 de octubre de 2017, ambas fechas inclusive, a postulación nacional para el otorgamiento de subsidios habitacionales del Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, período en que los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas. Asimismo, los Serviu de todas las regiones podrán recibir solicitudes de postulación a través de las entidades públicas con las que tenga convenio para tales efectos.
+1. Llámase a partir del 13 de marzo y hasta el 10 de noviembre de 2017, ambas fechas inclusive, a postulación nacional para el otorgamiento de subsidios habitacionales del Programa de Subsidio de Arriendo de Vivienda, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, período en que los Servicios de Vivienda y Urbanización (Serviu) procederán directamente, o a través de los medios electrónicos que se establezcan al efecto, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas. Asimismo, los Serviu de todas las regiones podrán recibir solicitudes de postulación a través de las entidades públicas con las que tenga convenio para tales efectos.
 
 Las personas que postulen como titulares vía internet a través de los medios electrónicos que se establezcan al efecto, deberán contar con la clave única entregada por el Servicio de Registro Civil e Identificación y la información ingresada y registrada en el sistema, será válida para todos los efectos de la postulación y del proceso de selección.
 
 2. Se realizarán selecciones el último día hábil de cada mes, con las familias que hubieren efectuado válidamente su postulación en las fechas indicadas en el número precedente. Las familias que no sean consideradas en una selección, continuarán postulando y serán contempladas en la siguiente.
 
-3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.360.000 Unidades de Fomento.
+3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de 1.420.690 Unidades de Fomento.
 
 4. La cantidad de familias que se podrá seleccionar se distribuirán regionalmente según el cuadro que se presenta a continuación:
 
 .
 
-5. Los recursos a seleccionar cada mes ascenderán hasta 170.000 Unidades de Fomento. En caso que en el último mes de selección quedaren más recursos disponibles que los definidos mensualmente, se podrá seleccionar por el saldo total.
+5. Los recursos a seleccionar cada mes ascenderán hasta 204.000 Unidades de Fomento. En caso que en el último mes de selección quedaren más recursos disponibles que los definidos mensualmente, se podrá seleccionar por el saldo total.
 
 6. El monto mensual de la renta de arrendamiento que se podrá acordar en los contratos que se celebren por los beneficiarios del presente llamado en todo el país, no podrá superar las 8,6 Unidades de Fomento, según el valor que tenga ésta a la fecha de la suscripción del contrato, a excepción de los contratos que se celebren en las comunas de Arica, Iquique, Alto Hospicio, Antofagasta, Calama, Copiapó, Isla de Pascua, Juan Fernández, Coyhaique, Aysén y Punta Arenas, en que el monto de la renta de arrendamiento podrá ser de hasta 10 Unidades de Fomento.
 
