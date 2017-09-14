@@ -20,7 +20,7 @@ Fíjase la siguiente norma técnica para el uso de la banda de frecuencias 1.785
 
 #### Artículo 1º
 
-Se destina la banda 1.785 - 1.805 MHz para el servicio público de transmisión de datos, en adelante el servicio.
+Se destina la banda de frecuencias 1.785 - 1.805 MHz para la operación de equipos de radiocomunicación destinados a acceso inalámbrico, autorizados mediante concesión de servicio intermedio de telecomunicaciones, en adelante el servicio.
 
 #### Artículo 2º
 
@@ -28,7 +28,7 @@ En dicha banda se establece un solo bloque de frecuencias y la operación de las
 
 #### Artículo 3º
 
-En una misma zona geográfica, se podrá otorgar solo una concesión para la prestación del servicio. La zona de servicio podrá abarcar todo el territorio nacional. La respectiva concesión será otorgada mediante concurso público, conforme con lo dispuesto en el artículo 13ºC de la Ley General de Telecomunicaciones.
+En una misma zona geográfica, se podrá otorgar solo una concesión para la prestación del servicio. La zona de servicio podrá abarcar todo el territorio que disponga las bases del correspondiente concurso público. La respectiva concesión será otorgada mediante concurso público, conforme con lo dispuesto en el artículo 13ºC de la Ley General de Telecomunicaciones.
 
 #### Artículo 4º
 
