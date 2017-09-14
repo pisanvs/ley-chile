@@ -54,6 +54,8 @@ Incremento de Subsidio para Regularización: Las modalidades señaladas en la le
 
 4. Los montos de recursos que se destinarán para la selección de los proyectos presentados en los concursos establecidos en el resuelvo número 1 de esta resolución serán los establecidos en la siguiente tabla:
 
+.
+
 El número de proyectos seleccionados en las regiones alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles incluidos los servicios de asistencia técnica que correspondan.
 
 En caso que en alguna de las selecciones los recursos definidos no alcanzaren para atender la totalidad de las postulaciones ingresadas, la selección se efectuará considerando el orden de prelación que determine el puntaje de los postulantes, hasta enterar el total de los recursos disponibles.
