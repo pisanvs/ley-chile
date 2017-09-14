@@ -22,19 +22,25 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de todo tipo de vehículos motorizados calzada completa de calle Yerbas Buenas, en el tramo comprendido entre Chañarcillo y Atacama; entre Atacama y O'Higgins, y entre O'Higgins y Los Carrera, todas, de la comuna de Copiapó, desde la publicación en el diario oficial hasta el día 17 de noviembre de 2017, para la ejecución de las obras "Trabajos de Reposición Pavimentación en calzada de calle Yerbas Buenas".
+1. Prohíbase la circulación de todo tipo de vehículos motorizados calzada completa de calle Yerbas Buenas, en el tramo comprendido entre Freire y Chañarcillo; entre Chañarcillo y Atacama; entre Atacama y O'Higgins; entre O'Higgins y Los Carrera; entre Los Carrera y Rodríguez; y entre Rodríguez y Av. Circunvalación todas de la comuna de Copiapó, desde la publicación en el Diario Oficial hasta el día 30 de noviembre de 2017, para la ejecución de las obras "Trabajos de Reposición Pavimentación en calzada de calle Yerbas Buenas.
 
 2. Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
-3. Los vehículos motorizados, que en su trayecto tengan como vía de circulación las señaladas en el resuelvo N° 1, deberán adoptar vías alternativas para el tránsito por el sector, mientras que los vehículos de transporte público de pasajeros que dentro de su ruta transitan por calle Atacama tendrán como alternativa las siguientes vías:
+3. Los vehículos motorizados, que en su trayecto tengan como vía de circulación las señaladas en el resuelvo Nº 1, deberán adoptar vías alternativas para el tránsito por el sector, mientras que los vehículos de transporte público de pasajeros que dentro de su ruta transitan por calle Atacama tendrán como alternativa las siguientes vías:
 
-. Calle Freire, Talcahuano, O'Higgins, Vallejos, retomando su recorrido habitual.
+. calle Freire, Talcahuano, O'Higgins, Vallejos, retomando su recorrido habitual.
 
-. Calle Freire, Talcahuano, Av. Circunvalación, retomando su recorrido habitual.
+. calle Freire, Talcahuano, Av. Circunvalación, retomando su recorrido habitual.
 
-. Calle Freire, Rancagua, O'Higgins, Vallejos, retomando su recorrido habitual.
+. calle Freire, Rancagua, O'Higgins, Vallejos, retomando su recorrido habitual.
 
-. Calle Freire, Rancagua, Av. Circunvalación, retomando su recorrido habitual.
+. calle Freire, Rancagua, Av. Circunvalación, retomando su recorrido habitual.
+
+. calle Buen Esperanza, Chacabuco, Av. Copayapu, Freire, Vallejos, retomando su recorrido habitual.
+
+. calle Freire, Vallejos, retomando su recorrido habitual.
+
+. calle Los Carrera, Talcahuano, retomando su recorrido habitual.
 
 4. Los responsables a cargo de las obras deberá respetar estrictamente el periodo de cierre de las calles en los tramos indicados en la presente resolución y señalizar debidamente el sector de los trabajos de acuerdo al Manual de Señalización de Tránsito "Señalización Transitoria y Medidas de Seguridad para Trabajos en la Vía", Capitulo 5 del Ministerio de Transportes y Telecomunicaciones (www.conaset.cl), debiendo adoptar todas las medidas necesarias que permitan el normal desarrollo de las obras.
 
