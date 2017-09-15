@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto M.O.P. (EXENTO) N° 891 de 9 de agosto de 2017, se desistió de la expropiación del lote N°4, ordenada por el Decreto MOP (Exento) N°1.215 de 28 de noviembre de 2014, para la obra. "Reposición Puente sobre Río Biobío, Concepción - San Pedro de la Paz", debido a que el lote fue eliminado mediante Resuelvo S.R.M. (Exenta) VIII Región N°555 de 27 de julio de 2015. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
