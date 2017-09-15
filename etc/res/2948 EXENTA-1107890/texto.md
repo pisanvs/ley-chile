@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.948 de 6 de septiembre de 2017, Serviu III Región de Atacama, conforme D.L. N° 2186 de 1978; D.S. N° 176 año 2013; D.S. N° 156 año 2014 y D.S. N° 31 año 2017, todos de V. y U, ordenó la expropiación parcial del inmueble denominado Lote 7-A ubicado en el lecho del Río Copiapó, ciudad de Copiapó, rol de avalúo fiscal N° 1205-3, de aparente dominio de Inmobiliaria Kaufmann S.A., para proyecto ''Construcción Parque Urbano Kaukari, 2° Etapa, Copiapó", Comisión tasadora integrada por Jaime Patricio Marín Salgado, Ingeniero Civil Industrial; Claudio Concha Grossi, Ingeniero Agrónomo, y Marcelo Molina Ross, Arquitecto, según informe de 4 de abril de 2017, fijó un monto provisional de indemnización de $32.571.000.- pagadera al contado.-
+
+Director Serviu III Región Atacama.
