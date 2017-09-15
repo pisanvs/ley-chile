@@ -594,6 +594,8 @@ ZONAS DE USO ESPECIAL
 
 > **Nota.** NOTA 1 El artículo único del numeral 2º del Decreto 6971, Municipalidad de Maipú, publicado el 10-11-2012, modifica la presente en en el sentido de introducir cambios de la manera que la citada norma indica.
 
+> **Nota.** NOTA 2 La letra e) del numeral 1° del Decreto 2358, Municipalidad de Maipú, publicado el 15.09.2016, modifica la presente en en el sentido de introducir cambios de la manera que la citada norma indica.
+
 #### Artículo 42º
 
 En aquellos predios que corresponden a ZE-2 que no tienen localizada la superficie posible de destinar a otros usos de equipamiento, se requerirá la realización de una modificación del Plan Regulador Comunal mediante la cual se localice dicha superficie. Esta modificación podrá realizarse mediante un Plano Seccional si se cumple con las condiciones señaladas en el Art. 2.1.14. de la OGUC.
@@ -1104,15 +1106,13 @@ Usos de Suelo en Área Restringida o Excluida del Desarrollo Urbano: Corresponde
 
 (DEL NRO. Nº2)
 
+#### Artículo 47º
+
 Sobre sistema de agrupamiento continuo:
 
-En aquellas zonas o subzonas habitacionales en que no se especifique la altura máxima de edificación continua y se permita como sistema de agrupamiento "continuo", ésta será para uso habitacional la que se indica o establece para cada zona como altura de edificación máxima, medida en la misma forma que establece el Nº 3, del inciso 2º, del artículo 2.6.2. de la Ordenanza General de la Ley General de Urbanismo y Construcciones para los adosamientos, y 15 metros para los otros usos.
+En aquellas zonas o subzonas habitacionales en que no se especifique la altura máxima de edificación continua y se permita como sistema de agrupamiento "continuo", ésta será para uso habitacional la que se indica o establece para cada zona como altura de edificación máxima, medida en la misma forma que se establece el Nº 3, del inciso 2º, del artículo 2.6.2 de la Ordenanza General de la Ley General de Urbanismo y Construcciones para los adosamientos, y 15 metros para los otros usos.
 
-Para las zonas ZC1, ZC4 la altura máxima será de 15 metros para todos los usos.
-
-Sobre la edificación continua se permitirá construcción aislada, en los casos que no se indique lo contrario.
-
-Sin perjuicio del cumplimiento de otras disposiciones de esta ordenanza, laedificación continua para uso habitacional (residencial) no podrá tener una profundidad mayor de 12 metros de longitud como tampoco podrá abarcar la totalidad de la longitud del deslinde común; para otros usos la profundidad y adosamiento máximos es la indicada en la Ordenanza de Urbanismo y Construcciones.
+Sobre la edificación continua se permitirá construcción aislada, en los casos que no se indique lo contrario
 
 #### Artículo 48º
 
@@ -1212,11 +1212,9 @@ Corresponde al ex pozo de extracción de áridos Santa Adela, y las normas que s
 
 Para esta zona se define un buffer de restricción de 20 metros, medidos desde el borde superior del talud de la excavación hacia el exterior del pozo, en el cual no podrá ejecutarse construcciones permanentes, y la que deberá contemplar arborización con el fin de mejorar las condiciones de estabilidad del terreno que bordea el pozo. Esta restricción podrá ser levantada una vez rellenado el pozo y toda vez que se compruebe la estabilidad del terreno circundante mediante estudios técnicos especiales.
 
-AR-4 De Terminales y Plantas de Combustible de Maipú
+Áreas de Restricción AR-4 De Terminales y plantas Combustible de Maipú" el siguiente inciso:
 
-Se regirán según lo dispuesto por el Art. 8.2.2.2. del PRMS. Se grafican en los planos PRCM-1B, PRCM-1C y PRCM-3 los predios correspondientes, y además las áreas de restricción de estanques definidas a la fecha por la Superintendencia de Electricidad y Combustibles, en las cuales. Las áreas de restricción de los nuevos estanques serán las indicadas por el organismo competente.
-
-Para el área y predios que queda en radio de influencia de 800 metros por BLEVE graficado en plano MPRCM-3, el uso permitido es Equipamiento clase salud sólo cementerios y áreas verdes complementarias y las indicadas como permitidas en Plan Regulador Metropolitano de Santiago según artículo 8.2.2.2 según proyecto aprobado por el Ministerio de Salud.
+Para el área y predios que queda en radio de influencia de 800 metros por BLEVE graficado en plano MPRCM-3, el uso permitido es el indicado como permitido en Plan Regulador Metropolitano de Santiago según artículo 8.2.2.2 según proyecto aprobado por el Ministerio de Salud.
 
 AR-5 De Resguardo de Infraestructura de Transporte y Comunicaciones
 

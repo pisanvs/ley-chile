@@ -294,65 +294,41 @@ el antejardín de la vía de mayor jerarquía.
 
 46º de la actual ordenanza, lo siguiente:
 
-1.3.1.1 Reemplácese actual artículo 47 que pasa a ser
-
-51º, e incorpórese a capítulo de zonificación
-
-y normas específicas:
+1.3.1.1 Reemplácese actual artículo 47 que pasa a ser 51º, e incorpórese a capítulo de zonificación y normas específicas:
 
 #### Artículo 47º
 
 Sobre sistema de agrupamiento continuo:
 
-En aquellas zonas o subzonas habitacionales en
+En aquellas zonas o subzonas habitacionales
 
-que no se especifique la altura máxima de
+en que no se especifique la altura máxima
 
-edificación continua y se permita como sistema
+de edificación continua y se permita como
 
-de agrupamiento "continuo", ésta será para uso
+sistema de agrupamiento "continuo", ésta será
 
-habitacional la que se indica o establece para
+para uso habitacional la que se indica o
 
-cada zona como altura de edificación máxima,
+establece para cada zona como altura de
 
-medida en la misma forma que establece el Nº
+edificación máxima, medida en la misma
 
-3, del inciso 2º, del artículo 2.6.2. de la
+forma que se establece el Nº 3, del inciso
 
-Ordenanza General de la Ley General de
+2º, del artículo 2.6.2 de la Ordenanza General
 
-Urbanismo y Construcciones para los
+de la Ley General de Urbanismo y Construcciones
 
-adosamientos, y 15 metros para los otros usos.
+para los adosamientos, y 15 metros para los
 
-Para las zonas ZC1, ZC4 la altura máxima será
-
-de 15 metros para todos los usos.
+otros usos.
 
 Sobre la edificación continua se permitirá
 
 construcción aislada, en los casos que no se
 
-indique lo contrario.
-
-Sin perjuicio del cumplimiento de otras
-
-disposiciones de esta ordenanza, la
-
-edificación continua para uso habitacional
-
-(residencial) no podrá tener una profundidad
-
-mayor de 12 metros de longitud como tampoco
-
-podrá abarcar la totalidad de la longitud del
-
-deslinde común; para otros usos la profundidad
-
-y adosamiento máximos es la indicada en la
-
-Ordenanza de Urbanismo y Construcciones.
+indique lo contrario".
 
 1.3.1.2 Reemplácese actual artículo 48º que pasa a
 
@@ -522,41 +498,29 @@ de Uso Especial" por el siguiente:
 
 1.3.2.4 Reemplácese del artículo 41º inciso adjunto
 
-como "Nota" a la tabla de condiciones de
+como "nota" a la tabla de condiciones de
 
-edificación y subdivisión de las zonas de uso
+edificación y subdivisión de las zonas de
 
-especial, por los siguientes incisos:
+uso especial, por los siguientes incisos:
 
-"Nota: En los predios correspondientes a ZE-5
+"Nota: En los predios correspondientes a
 
-y/o ZE-6 que se emplacen frente a Av. Américo
+ZE-5 y/o ZE-6, que se emplacen frente a
 
-Vespucio, Santa Elena entre el límite comunal
+Av. Américo Vespucio, Santa Elena entre
 
-norte y Costanera FFCC San Antonio o en Av.
+el límite comunal norte y costanera FFCC
 
-Pajaritos al norte del Zanjón de la Aguada, se
+San Antonio o en Av. Pajaritos al norte
 
-podrá aplicar el coeficiente de
+del Zanjón de la Aguada, se podrá aplicar
 
-constructibilidad y la altura de edificación
+el coeficiente de constructibilidad y la
 
-correspondientes a la ZH-8.
+altura de edificación correspondientes
 
-En los predios correspondientes a zonas ZE-2
-
-que se emplacen entre las intersecciones de
-
-las Avenidas Primera Transversal, Esquina
-
-Blanca y 5 de Abril, podrán aplicar todos los
-
-usos, coeficiente de constructibilidad,
-
-ocupación de suelo y altura de edificación
-
-correspondiente a la zona ZC-3".
+a la ZH-8."
 
 Para aquellos proyectos destinados a clase
 
@@ -564,13 +528,13 @@ seguridad que se emplacen en la zona ZE-3
 
 emplazados en la intersección de las Avenidas
 
-Parque El Rosal con Isabel Riquelme (Costanera
+Parque El Rosal con Isabel Riquelme
 
-Norte Zanjón de la Aguada) la
+(Costanera Norte Zanjón de la Aguada) la
 
-constructibilidad será de 0,7; la ocupación de
+constructibilidad será de 0,7; la ocupación
 
-suelo y pisos superiores será 0,5.
+de suelo y pisos superiores será de 0,5.
 
 1.3.2.5 Reemplácese del artículo 37º, después de la
 
@@ -736,25 +700,21 @@ rehabilitación conductual)".
 
 1.4. Modifíquese el actual Capítulo V "ÁREAS DE RIESGOS, RESTRICCIÓN Y PROTECCIÓN", incorporando, reemplazando o eliminando como se indica a continuación:
 
-1.4.1. Incorpórese al actual artículo 47º que pasa a
+1.4.1. Incorpórese al actual artículo 47º que pasa
 
-ser 51º, "Áreas de Restricción AR-4 De
+a ser 51º, "Áreas de Restricción AR-4 De
 
-Terminales y plantas de Combustible de Maipú"
+Terminales y plantas Combustible de Maipú"
 
 el siguiente inciso:
 
-Para el área y predios que queda en radio de
+Para el área y predios que queda en radio
 
-influencia de 800 metros por BLEVE graficado
+de influencia de 800 metros por BLEVE
 
-en plano MPRCM-3, el uso permitido es
+graficado en plano MPRCM-3, el uso permitido
 
-Equipamiento clase salud sólo cementerios y
-
-áreas verdes complementarias y las indicadas
-
-como permitidas en Plan Regulador
+es el indicado como permitido en Plan Regulador
 
 Metropolitano de Santiago según artículo
 
