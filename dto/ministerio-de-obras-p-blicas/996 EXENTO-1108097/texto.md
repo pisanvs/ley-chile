@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº996 de 29 de agosto de 2017, se modificó el numeral segundo del Decreto MOP (Exento) Nº1.971 de 18 de noviembre de 2013, que ordenó la expropiación, entre otros, del Lote Nº143, en la parte que se refiere al nombre del propietario y rol de avalúo, según certificado de avalúo emitido por el Servicio de Impuestos Internos, quedando como a continuación se indica: LOTE 143, INVERSIONES LA OBRA S.A., superficie 1484,98 m2., rol de avalúo 10500-1, Comuna de Talca. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
