@@ -1,0 +1,5 @@
+SE DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL N° 0504-0315-0100005495, DEL BANCO BILBAO VIZCAYA ARGENTARIA (CHILE), SUCURSAL RANCACUA DEL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL IPS RANCAGUA
+
+Por resolución exenta N° 353, de 25 de julio de 2017, del Director Nacional del Instituto de Previsión Social, se delega en funcionarios del Centro de Atención Previsional Integral IPS Rancagua la facultad de operar la cuenta corriente denominada Giradora Local N° 0504-0315-0100005495, del Banco Bilbao Vizcaya Argentaria (Chile), destinada al pago de beneficios previsionales y gastos del Instituto de Previsión Social, que este organismo abrió en la Oficina Principal del Banco Bilbao Vizcaya Argentaría (Chile).
+
+Santiago, 8 de septiembre de 2017.- Patricio Coronado Rojo, Director Nacional.
