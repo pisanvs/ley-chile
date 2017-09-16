@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, A LA "I. MUNICIPALIDAD DE TORTEL"
+
+Mediante decreto exento N° E-430, de 25 de agosto de 2017, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "I. Municipalidad de Tortel", RUT N° 69.253.400-K, el inmueble fiscal compuesto por los Lotes A, B, C y D, ubicado en acceso Caleta Tortel, comuna de Tortel, provincia de Capitán Prat, Región de Aysén del General Carlos Ibáñez del Campo; Rol Servicio de Impuestos Internos N° 241-131 y N° 241-157; inscrito a nombre del Fisco a mayor cabida a fojas 2 vta. N° 2, del Registro de Propiedad del Conservador de Bienes Raíces de Cochrane, correspondiente al año 1980; singularizado en el Plano N° 11303-1439-C.R.; de una superficie total de 7.219,49 m2. La Concesión se otorga por un plazo de 10 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para ejecutar el proyecto de "Planta de Tratamiento de Aguas Servidas (PTAS) para la localidad de Caleta Tortel". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Magdalena Badilla Rodríguez, Jefa de División Jurídica.
