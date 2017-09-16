@@ -1,0 +1,39 @@
+APRUEBA PRESUPUESTO ANUAL PARA LA REALIZACIÓN DEL ESTUDIO DE FRANJAS DE TRANSMISIÓN PARA EL AÑO 2018
+
+Núm. 75 exenta.- Santiago, 17 de agosto de 2017.
+
+Vistos:
+
+Lo dispuesto en el artículo 9 letra h) del DL N° 2.224, de 1978, que crea el Ministerio de Energía y la Comisión Nacional de Energía; en el DFL N° 4, del Ministerio de Economía, Fomento y Reconstrucción, de 2006, que fija el texto refundido, coordinado y sistematizado del DFL N° 1, de Minería de 1982, Ley General de Servicios Eléctricos, modificada por la ley N° 20.936, de 2016; en el decreto supremo N° 139, de 2016, del Ministerio de Energía, que aprueba el reglamento para la determinación de Franjas Preliminares para Obras Nuevas de los Sistemas de Transmisión establecida en el título III de la Ley General de Servicios Eléctricos; en el artículo 212-13 de la ley N° 20.936, que establece un Nuevo Sistema de Transmisión Eléctrica y crea un Organismo Coordinador Independiente del Sistema Eléctrico Nacional; en la resolución exenta N° 379, de 2017, de la Comisión Nacional de Energía, que establece plazos, requisitos y condiciones aplicables al cálculo, recaudación y pago del Cargo por Servicio Público; en la ley N° 19.886, de 2003, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios; en el decreto supremo N° 250, de 2004, del Ministerio de Hacienda, que Aprueba Reglamento de la ley N° 19.886; en el decreto supremo N° 1 A, del Ministerio de Energía, de 11 de marzo de 2014, que nombra a doña Jimena Jara Quilodrán como Subsecretaria de Energía, y en la resolución N° 1.600, de 2008, de la Contraloría General de la República.
+
+Considerando:
+
+a) Que, el 20 de julio de 2016, se publicó en el Diario Oficial la ley N° 20.636, que establece un Nuevo Sistema de Transmisión Eléctrica y crea un Organismo Coordinador Independiente del Sistema Eléctrico Nacional, cuerpo legal que introdujo diversas modificaciones a la Ley General de Servicios Eléctricos, dentro de las que se cuenta la incorporación del procedimiento para la determinación de franjas preliminares;
+
+b) Que, el procedimiento para la determinación de franjas preliminares se realiza a través de un Estudio de Franjas, el que, conforme a lo prescrito en el artículo 93 de la citada ley N° 20.936, será licitado, adjudicado y supervisado por el Ministerio de Energía, y su financiamiento se establecerá a través de un presupuesto anual elaborado por la Subsecretaría de Energía, el que será financiado conforme a lo señalado en el artículo 212-13 del mismo cuerpo legal;
+
+c) Que, el referido artículo 212-13 de la ley dispone que el presupuesto del Coordinador, del Panel de Expertos y el Estudio de Franjas que establece el aludido artículo 93, será financiado por la totalidad de usuarios finales, libres y sujetos a fijación de precios, a través de un cargo por servicio público, que será fijado anualmente por la Comisión Nacional de Energía, mediante una resolución exenta e informado antes del 19 de noviembre de cada año con el objeto de que el cargo indicado sea incorporado en las respectivas boletas o facturas a partir del mes de diciembre del año anterior del período presupuestario correspondiente;
+
+d) Que, el artículo 212-13 de la ley establece que el procedimiento para la fijación y recaudación del cargo por servicio público, así como su pago, se efectuará en la forma que señale el reglamento;
+
+e) Que, el artículo vigésimo transitorio de la ley N° 20.936 establece que, dentro del plazo de un año contado desde su publicación en el Diario Oficial, se deberán dictar los reglamentos que establezcan las disposiciones necesarias para su ejecución;
+
+f) Que, en el mismo sentido del considerando anterior, el anotado artículo vigésimo transitorio prescribe que, mientras los referidos reglamentos no entren en vigencia, dichas disposiciones se sujetarán, en cuanto a los plazos, requisitos y condiciones, a las disposiciones de la ley y a las que se establezcan por resolución exenta de la Comisión Nacional de Energía, las que tendrán una vigencia máxima de 18 meses contados de la publicación de la ley N° 20.936 en el Diario Oficial;
+
+g) Que, en cumplimiento de lo precedentemente señalado, la Comisión Nacional de Energía dictó, el 20 de julio de 2017, la resolución exenta N° 379, del corriente, que establece plazos, requisitos y condiciones aplicables al cálculo, recaudación y pago del Cargo por Servicio Público;
+
+h) Que, la antedicha resolución exenta N° 379, de 2017, prevé en su artículo 3° que antes del 30 de septiembre de cada año, la Subsecretaría de Energía deberá enviar a la Comisión el presupuesto anual para el financiamiento del Estudio de Franjas;
+
+i) Que, en atención a lo anteriormente expuesto, y teniendo en especial consideración lo dispuesto en el artículo 212-13 de la ley N° 20.936, en el artículo 20 del Reglamento para la determinación de Franjas Preliminares para Obras Nuevas de los Sistemas de Transmisión, y en el artículo 3° de la resolución exenta N° 379, de 2017, de la Comisión Nacional de Energía, es necesario aprobar el presupuesto anual para el financiamiento del Estudio de Franja correspondiente al año 2018;
+
+j) Que, para efectos de la estimación del presupuesto que mediante el presente instrumento se aprueba, fueron considerados, en primer término, los valores de estudios de similar naturaleza realizados en el mercado nacional, referidos a los componentes que forman parte integrante del Estudio de Franjas, ello, de conformidad a lo preceptuado en el inciso primero del artículo 14 del reglamento para la determinación de franjas preliminares. En segundo lugar, se llevaron a cabo procesos formales de consultas y reuniones con proveedores, convocados a través del portal web www.mercadopublico.cl a fin de requerir cotizaciones estimativas de los eventuales costos de los Estudios de Franjas a través del mecanismo de Consultas al Mercado, regulado en el artículo 13 bis del decreto N° 250, de 2004, del Ministerio de Hacienda, que aprueba el reglamento de la ley N° 19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios. Finalmente, se tuvo a la vista la Propuesta de Expansión de Transmisión del Sistema Eléctrico Nacional para el año 2017 y su correspondiente informe Complementario, publicados en los meses de enero y junio de 2017, respectivamente;
+
+k) Que, para el cálculo del presupuesto del año 2018 se estimó, dentro del proceso de formulación presupuestaria correspondiente al año 2018, la ejecución del 60 por ciento del costo total de los Estudios de Franjas proyectados para dicha anualidad. Asimismo, el saldo pendiente al término de dicho ejercicio presupuestario (40 por ciento restante) se considerará, si corresponde, a los ejercicios presupuestarios venideros, en la medida que se contemplen recursos disponibles para ello y se cumplan los requisitos establecidos para su desembolso;
+
+Resuelvo:
+
+I. Apruébase como presupuesto para financiar los contratos que deriven de los correspondientes procedimientos licitatorios de Estudios de Franjas para el periodo enero - diciembre de 2018, la suma de $2.665.670.000.- (dos mil seiscientos sesenta y cinco millones seiscientos setenta pesos chilenos).
+
+II. Publíquese la presente resolución en el sitio web institucional y en el Diario Oficial. III. Remítase la presente resolución a la Comisión Nacional de Energía dentro de los cinco días siguientes a su dictación, para efectos de la fijación del cargo por servicio público al que se refiere el artículo 212-13 de la Ley General de Servicios Eléctricos, ya singularizada.
+
+Anótese, publíquese en el Diario Oficial.- Jimena Jara Quilodrán, Subsecretaria de Energía. Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
