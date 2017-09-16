@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL EL "PROCEDIMIENTO PROCESO DE SOLICITUDES PAGOS DE MENOS APS"
+
+Por resolución exenta N° 414, de 28 de agosto de 2017, del Director Nacional del Instituto de Previsión Social, se aprueba el texto denominado "Procedimiento Proceso de Solicitudes Pagos de Menos APS", del Instituto de Previsión Social, que forma parte integrante del presente instrumento, cuyo objetivo es establecer las normas de procedimiento para verificar la procedencia de estas solicitudes de pagos de menos, que remiten las Administradoras de Fondos de Pensiones, Compañías de Seguros y Mutuales y que provienen del proceso de conciliación entre los fondos transferidos por el IPS y la suma puesta a disposición de los beneficiarios, es decir, aquellas diferencias a favor de la entidad por concepto de montos no transferidos o transferidos parcialmente por el IPS, para los cuales exista una resolución de concesión de APS vigente en la Entidad.
+
+Santiago, 8 de septiembre de 2017.- Patricio Coronado Rojo, Director Nacional.
