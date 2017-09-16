@@ -310,6 +310,8 @@ Sin embargo, los plazos que se establecen en el Título V de esta ley son de dí
 
 b) Las notificaciones que dispone la presente ley se harán personalmente o por carta certificada enviada al domicilio que el interesado haya señalado en su respectiva presentación. Se entenderá perfeccionada la notificación transcurrido que sean 5 días desde la fecha de entrega de la carta a la oficina de Correos.
 
+Sin perjuicio de lo anterior, las notificaciones que deban realizarse en el marco del procedimiento de otorgamiento de permisos o concesiones o de sus modificaciones se podrán realizar por medios electrónicos. Una norma técnica dictada por la Subsecretaría establecerá los requisitos y medios de validación de las notificaciones electrónicas. En caso de no verificarse la notificación electrónica, procederá la notificación postal, rigiendo los plazos y formas señalados en el párrafo anterior.
+
 No obstante, el Ministro podrá disponer que determinadas resoluciones se notifiquen por cédula hecha por notario público o receptor judicial. La notificación de cargos, y la notificación de las resoluciones que reciban la causa a prueba, acojan oposiciones, rechacen solicitudes o impongan sanciones, deberán notificarse personalmente o por cédula.
 
 Las disposiciones contenidas en esta letra no se aplicarán a la notificación de las resoluciones dictadas por los Tribunales Superiores de Justicia.
@@ -571,6 +573,8 @@ El concesionario de servicios intermedios que deba proveer servicios de larga di
 En el caso de interconexiones entre redes de servicio público telefónico de distintos concesionarios, en una misma zona primaria, para cursar comunicaciones locales, será de la exclusiva responsabilidad del nuevo concesionario acceder a la red preexistente en los puntos de terminación de red fijados por la Subsecretaría de Telecomunicaciones.
 
 Los precios o tarifas aplicados entre los concesionarios por los servicios prestados a través de las interconexiones, serán fijados de acuerdo a lo establecido en los artículos 30 a 30 J de esta ley.
+
+> **Nota.** Artículo único de la Resolución 1879 Exenta, Transportes, publicada el 20.08.2016, interpreta el presente inciso, respecto de la obligación de los concesionarios de servicio público telefónico de pagar las tarifas de los servicios prestados a través de las interconexiones, en la forma que la citada norma indica.
 
 #### Artículo 25 bis
 
