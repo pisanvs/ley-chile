@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LA LABOR DE "CONDUCTOR DE AMBULANCIA", DESARROLLADA PARA EL EMPLEADOR "SERVICIO DE SALUD O'HIGGINS - HOSPITAL SAN VICENTE DE TAGUA TAGUA"
+
+Por resolución exenta N° 377, de 7 de agosto de 2017, del Director Nacional del Instituto de Previsión Social, se aprueba la solicitud presentada por don Raúl Reinaldo Pino Piña, para calificar como Trabajo Pesado la labor de "Conductor de Ambulancia", desempeñada para el empleador "Servicio de Salud O'Higgins - Hospital San Vicente de Tagua Tagua", e incorpórese al Listado Oficial de Actividades e Industrias Diversas calificadas como Trabajo Pesado, correspondiendo aplicar una rebaja de edad de 1X5 (un año por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez, con rebaja en la edad.
+
+Santiago, 8 de septiembre de 2017.- Patricio Coronado Rojo, Director Nacional.
