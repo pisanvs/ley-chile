@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, AL "CLUB DE DEPORTES TOMÁS LAWRENCE"
+
+Mediante decreto exento N° E-429, de 25 de agosto de 2017, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, al "Club de Deportes Tomás Lawrence", RUT N° 72.795.900-9, el inmueble fiscal ubicado en calle Valdivia N° 1048, comuna de San Fernando, provincia de Colchagua, Región del Libertador General Bernardo O'Higgins; Rol Servicio de Impuestos Internos N° 107-3; inscrito a nombre del Fisco a fojas 1047 N° 1151, del Registro de Propiedad del Conservador de Bienes Raíces de San Fernando, correspondiente al año 2012; singularizado en el Plano N° 06301-3378-C.U.; de una superficie aproximada de 1.138,47 m2. La Concesión se otorga por un plazo de 25 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para el funcionamiento del "Club de Deportes Tomás Lawrence". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Magdalena Badilla Rodríguez, Jefa de División Jurídica.
