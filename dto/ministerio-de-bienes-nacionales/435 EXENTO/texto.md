@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A LA "I. MUNICIPALIDAD DE SAN ANTONIO"
+
+Mediante decreto exento N° E-435, de 25 de agosto de 2017, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "I. Municipalidad de San Antonio", RUT N° 69.073.400-1, el inmueble fiscal ubicado en Ex Ruta Nacional N° 78 Lote N° 1, comuna y provincia de San Antonio, Región de Valparaíso; Rol Servicio de Impuestos Internos N° 9049-194; inscrita en mayor cabida a nombre del Fisco a fojas 2192 N° 1884, del Registro de Propiedad del Conservador de Bienes Raíces de San Antonio, correspondiente al año 1997; singularizado en el Plano N° 05601-6806-C.U.; de una superficie aproximada de 2.010 m2. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para destinar el inmueble para implementar un sistema de alcantarillado público y planta de tratamiento de aguas servidas para la localidad de Leyda. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Magdalena Badilla Rodríguez, Jefa de División Jurídica.
