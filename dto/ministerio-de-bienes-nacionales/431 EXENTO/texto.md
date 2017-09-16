@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN METROPOLITANA DE SANTIAGO, A LA "CORPORACIÓN DE ASISTENCIA JUDICIAL REGIÓN METROPOLITANA"
+
+Mediante decreto exento N° E-431, de 25 de agosto de 2017, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Corporación de Asistencia Judicial Región Metropolitana", RUT N° 70.786.200-9, el inmueble fiscal que corresponde al departamento N° 708, ubicado en calle Agustinas N° 1442, comuna y provincia de Santiago, Región Metropolitana; Rol Servicio de Impuestos Internos N° 87-95; inscrito a nombre del Fisco a fojas 27.145 N° 34.029, del Registro de Propiedad del Conservador de Bienes Raíces de Santiago, correspondiente al año 1973; singularizado en el Plano N° XIII-1-18-C.U.; de una superficie aproximada de 61,00 m2. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble al uso de la Corporación de Asistencia Judicial R.M. y efectuar las mejoras necesarias en su conservación y mantenimiento. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Magdalena Badilla Rodríguez, Jefa de División Jurídica.
