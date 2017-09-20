@@ -88,11 +88,11 @@ DISPOSICIONES GENERALES
 
 #### Artículo 1
 
-El Plan Regulador de San Bernardo y localidad de Lo Herrera, en adelante el Plan, está conformado por la presente Ordenanza, los planos PRC-SB-01 y PRC-SB-02, escala 1:10.000, y la Memoria Explicativa, que le complementan y que para los efectos de su aplicación constituyen un solo cuerpo legal.
+El Plan Regulador de San Bernardo y localidad de Lo Herrera, en adelante el Plan, está conformado por la presente Ordenanza, los planos PRC-SB-01 y PRC-SB-02, escala 1:10.000, PRC-SB-03/2017, escala 1:2.000, y la Memoria Explicativa, que le complementan y que para los efectos de su aplicación constituyen un solo cuerpo legal.
 
 #### Artículo 2
 
-Las disposiciones contenidas en esta Ordenanza se refieren a las siguientes materias: Límite Urbano, Zonificación, Usos de Suelo, Condiciones de Subdivisión Predial, de Edificación, de Urbanización y Vialidad, todas las cuales regirán dentro del área territorial del Plan graficada en los Planos PRC-SB-01 y PRC-SB-02.
+Las disposiciones contenidas en esta Ordenanza se refieren a las siguientes materias: Límite Urbano, Zonificación, Usos de Suelo, Condiciones de Subdivisión Predial, de Edificación, de Urbanización y Vialidad, todas las cuales regirán dentro del área territorial del Plan graficada en los Planos PRC-SB-01, PRC-SB-02 y PRC-SB-03/2017.
 
 #### Artículo 3
 
@@ -2964,6 +2964,50 @@ b.8 Densidad Bruta Máxima: 450
 
 Hab./Ha.
 
+SUBZONA ZU5-2 EL MARISCAL
+
+CONDICIONES DE USO DE SUELO
+
+a.1 Usos Permitidos:
+
+Residencial, equipamiento, áreas verdes, espacio público.
+
+a.2 Usos Prohibidos:
+
+En el uso Residencial, hotel, motel, apart - hotel, residencial, pensión, hospedería, casa de acogida, albergues y hostales o similares.
+
+En el uso equipamiento de clase comercio las discotecas, pub y ferias libres.
+
+Actividades Productivas.
+
+Se prohíben todos los usos de suelo que no están expresamente permitidos.
+
+CONDICIONES DE SUBDIVISIÓN Y EDIFICACIÓN
+
+b.1 Superficie de Subdivisión Predial Mínima: 80 m2
+
+b.2 Coeficiente de Constructibilidad: 2,0
+
+b.3 Coeficiente de Ocupación de Suelo: 0,6
+
+b.4 Sistema de Agrupamiento:
+
+Residencial: Aislado y pareado
+
+Equipamiento: Aislado
+
+b.5 Altura Máxima de Edificación: 17,5 m (5 pisos)
+
+b.6 Rasantes y distanciamientos según OGUC.
+
+b.7 Antejardín: 3 m
+
+b.8 Estacionamiento: Según artículo 36 de la presente
+
+Ordenanza
+
+b.9 Densidad bruta máxima: 350 hab./ha.
+
 #### Artículo 62
 
 ZU 6 ESTACION SAN BERNARDO
@@ -3171,6 +3215,48 @@ Los sitios ubicados dentro del proyecto de Maestranza, se regirán por las condi
 En la zona de Equipamiento ZE del seccional Maestranza, se permitirá el uso vivienda desde el primer piso.
 
 No se permitirá la construcción de planos inclinados resultantes por las rasantes en los edificios, es decir, las rasantes se resuelven con planos de 90 grados respecto al suelo natural.
+
+SUBZONA ZU7-1 PADRE HURTADO
+
+CONDICIONES DE USO DE SUELO
+
+a.1 Usos Permitidos:
+
+Residencial, equipamiento, áreas verdes, espacio público.
+
+a.2 Usos Prohibidos:
+
+En el uso Residencial, hotel, motel, apart - hotel, residencial, pensión, hospedería, casa de acogida, albergues y hostales o similares.
+
+En el uso equipamiento de clase comercio las discotecas, pub y ferias libres. Actividades Productivas.
+
+Se prohíben todos los usos de suelo que no están expresamente permitidos.
+
+CONDICIONES DE SUBDIVISIÓN Y EDIFICACIÓN
+
+b.1 Superficie de Subdivisión Predial Mínima: 500 m2
+
+b.2 Coeficiente de Constructibilidad: 3,0
+
+b.3 Coeficiente de Ocupación de Suelo: 0,8
+
+b.4 Sistema de agrupamiento:
+
+Residencial: Aislado
+
+Equipamiento: Aislado y continuo
+
+b.5 Altura Máxima de Edificación: 49 m (14 pisos)
+
+Altura Máxima de Edificación Continua: 10,5 m (3 pisos)
+
+b.6 Rasantes y distanciamientos según OGUC.
+
+b.7 Antejardín: 3 m
+
+b.8 Estacionamiento: Según artículo 36 de la presente Ordenanza
+
+b.9 Densidad bruta máxima: 700 hab./ha.
 
 #### Artículo 64
 
@@ -4574,6 +4660,16 @@ Estas zonas se regirán por las normas establecidas en el Artículo 8.2.1.2. del
 
 ## Título V
 
+CIRCULACIONES, PLAZAS Y PARQUES
+
+PLAZAS Y PARQUES
+
+#### Artículo 82 bis
+
+Terrenos consultados para ser destinados a Plazas y Parques, de acuerdo a lo graficado en Plano PRC-SB-03/2017, y singularizados en la siguiente tabla:
+
+.
+
 VIALIDAD
 
 #### Artículo 83
@@ -4590,7 +4686,7 @@ Los árboles valiosos existentes en los bandejones, así calificados por la Dire
 
 #### Artículo 86
 
-La vialidad estructurante del área urbana está constituida por las vías que se grafican en el Plano PRC-SB-02 y cuya identificación, ancho entre líneas oficiales y demás características, se señalan en la siguiente tabla, con excepción de las vías locales como tales:
+La vialidad estructurante del área urbana está constituida por las vías que se grafican en el Plano PRC-SB-02 y PRC-SB-03/2017 y cuya identificación, ancho entre líneas oficiales y demás características, se señalan en la siguiente tabla:
 
 CUADRO DE VIALIDAD ESTRUCTURANTE.
 
@@ -4601,6 +4697,8 @@ TR: Vía Troncal
 COL: Vía Colectora
 
 SR: Vía de Servicio.
+
+LO: Vía Local.
 
 VIALIDAD INTERCOMUNAL
 
@@ -4627,3 +4725,5 @@ Las salidas o accesos a estas rutas, deberán contar con la autorización expres
 El Secretario Municipal y Ministro de Fe del Concejo Municipal, certifica que el Plan Regulador Comunal de San Bernardo y localidad de Lo Herrera, compuesto de los Planos, Memoria Explicativa y Ordenanza, fue aprobado por Acuerdo Nº 724, con fecha 27 de julio de 2004.
 
 El Secretario Municipal y Ministro de Fe, certifica que el Plan Regulador Comunal de San Bernardo y localidad de Lo Herrera, compuesto de los Planos, Memoria Explicativa y Ordenanza, fue promulgado mediante el Decreto Alcaldicio Exento Nº 3.855, de fecha 2 de mayo de 2006.
+
+> **Nota.** El literal d) del artículo 7 del Decreto 34, Vivienda, publicado el 20.09.2017, modifica el artículo 86 de la presente norma, en el sentido de intercalar en el cuadro Vialidad Comunal, entre la fila de la calle Bernardo O'Higgins y la fila Calle de Servicio 1, por aquellas vías y su descripción que la citada norma indica, por razones técnicas y temporales no se ha podido actualizar.
