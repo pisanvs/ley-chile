@@ -8,4 +8,4 @@ Extracto de resolución Ex. Nº 110, de la Dirección de Grandes Contribuyentes 
 
 3.- Conocer y resolver los recursos de reposición administrativa interpuestos por los contribuyentes conforme al artículo 123 bis del Código Tributario.
 
-El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en septiembre de 2017.
+El texto íntegro de esta resolución aparecerá en el Boletín del SII en septiembre de 2017.
