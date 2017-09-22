@@ -126,6 +126,10 @@ Región de Los Lagos
 
 . Puerto Punta de Caullahuapi S.A.
 
+. Muelle en Isla Quihua (Puerto San
+
+José de Calbuco).
+
 Región de Aysén
 
 . Paso Huemules
