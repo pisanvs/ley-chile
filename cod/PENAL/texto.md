@@ -2950,7 +2950,7 @@ Será castigado con presidio menor en sus grados mínimo a medio, el que con vio
 
 #### Artículo 344
 
-La mujer que causare su aborto o consintiere que otra persona se lo cause, será castigada con presidio menor en su grado máximo.
+La mujer que, fuera de los casos permitidos por la ley, causare su aborto o consintiere que otra persona se lo cause, será castigada con presidio menor en su grado máximo.
 
 Si lo hiciere por ocultar su deshonra, incurrirá en la pena de presidio menor en su grado medio.
 

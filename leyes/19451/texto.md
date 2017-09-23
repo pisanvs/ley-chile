@@ -176,7 +176,7 @@ Si las conductas señaladas en el inciso anterior fueren realizadas por cuenta d
 
 #### Artículo 13 bis
 
-El que extraiga órganos de un cadáver con fines de trasplante sin cumplir con las disposiciones de esta ley será penado con presidio menor en su grado mínimo. En igual sanción incurrirá quien destine dichos órganos a un uso distinto al permitido por la presente ley o el Código Sanitario.
+El que extraiga órganos de un cadáver con fines de trasplante sin cumplir con las disposiciones de esta ley será penado con presidio menor en su grado mínimo. En igual sanción incurrirá quien destine dichos órganos a un uso distinto al permitido por la presente ley o el Código Sanitario, así como quien destine, en cualquier momento, con ánimo de lucro o para fines distintos de los autorizados en esta ley, órganos, tejidos o fluidos humanos provenientes de una intervención propia de la interrupción del embarazo.
 
 La infracción a las normas contenidas en el artículo 3º bis se sancionará con una multa de veinte a cincuenta unidades tributarias mensuales.
 
