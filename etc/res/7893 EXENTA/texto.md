@@ -56,7 +56,7 @@ Los recursos se distribuirán a las regiones, de acuerdo al número de postulant
 
 6.4. A los postulantes Adultos Mayores se les exigirá como ahorro 1 Unidad de Fomento.
 
-6.5. El Serviu respectivo, tras la entrega de las tarjetas, girará el ahorro familiar y lo depositará en una cuenta propia, el que estará destinado al pago de la última compra que se realizará con el saldo del subsidio y con el ahorro.
+6.5 El Serviu respectivo girará el ahorro familiar y lo depositará en una cuenta propia, el que será devuelto a las familias una vez entregadas las tarjetas. Si Serviu aún no ha girado el ahorro, autorizará a las familias a retirarlo de su cuenta. En ambos casos se espera que con estos recursos la familia pueda complementar el costo de las obras.
 
 6.6. En el caso de las sucesiones hereditarias, sólo podrá postular un integrante de ésta y siempre que no cuente en su patrimonio, con una segunda propiedad con destino habitacional.
 
@@ -102,7 +102,7 @@ Una vez que las familias hayan sido beneficiadas, el Serviu respectivo definirá
 
 - El desarrollo y cubicación del proyecto, indicando la cantidad y costo estimativo de los materiales a adquirir y el requerimiento de mano de obra calculado y su valor aproximado. El proyecto deberá ser presentado al Serviu que corresponda, dentro de los 6 meses posteriores a la fecha de la resolución exenta que apruebe la selección de los beneficiados.
 
-Estos proyectos no podrán ser de la modalidad de Seguridad de la Vivienda ni proyectos que requieran mano de obra calificada (ejecución de nuevas instalaciones, reparaciones estructurales u otros).
+Estos proyectos no podrán ser de la modalidad de Seguridad de la Vivienda ni proyectos que requieran mano de obra calificada (ejecución de nuevas instalaciones, reparaciones estructurales u otros). El Secretario Regional Ministerial de Vivienda y Urbanismo que corresponda, podrá por una sola vez otorgar un nuevo plazo a casos debidamente justificados y respaldados por el Serviu responsable.
 
 - Apoyar a las familias en la compra de los materiales de construcción.
 
