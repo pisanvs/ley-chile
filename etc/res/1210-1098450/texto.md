@@ -204,6 +204,8 @@ Los resultados de estas actividades de fiscalización ambiental serán reportado
 
 ctavo. Subprograma de fiscalización ambiental de Resoluciones de Calificación Ambiental del Servicio Nacional de Pesca y Acuicultura. Durante el año 2017, el Servicio Nacional de Pesca y Acuicultura ejecutará en conjunto con la Superintendencia el siguiente número de actividades de fiscalización ambiental, sobre la base de la asignación presupuestaria indicada.
 
+.
+
 Los resultados de estas actividades de fiscalización ambiental serán reportados directamente a la Superintendencia, quien elaborará el informe de fiscalización respectivo.
 
 #### Artículo decimo

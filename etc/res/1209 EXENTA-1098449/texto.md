@@ -92,6 +92,8 @@ Los Organismos Sectoriales que durante el año 2017 ejecutarán actividades de f
 
 Actividades de Fiscalización Ambiental comprendidas en el programa y subprogramas de Planes de Prevención y/o Descontaminación Ambiental. Durante el año 2017, la Superintendencia en conjunto con los Organismos Sectoriales que han considerado actividades de fiscalización ambiental para el año 2017 en el marco de un subprograma de fiscalización ambiental, ejecutará el siguiente número de actividades, según sea el caso, en las regiones del país en las cuales se encuentra vigente un Plan de Prevención y/o Descontaminación.
 
+.
+
 #### Artículo quinto
 
 Indicador de Desempeño. Para efectos de lo establecido en el artículo 17 de la Ley Orgánica de la Superintendencia del Medio Ambiente, se considerará como indicador de desempeño el porcentaje de cumplimiento, que se expresa como la razón entre las actividades de fiscalización ambiental ejecutadas y las actividades de fiscalización ambiental consideradas en el programa y subprogramas de Fiscalización Ambiental respectivo del año 2017.
@@ -99,6 +101,8 @@ Indicador de Desempeño. Para efectos de lo establecido en el artículo 17 de la
 #### Artículo sexto
 
 Programa de fiscalización ambiental de Planes de Prevención y/o Descontaminación Ambiental de la Superintendencia del Medio Ambiente. Durante el año 2017, la Superintendencia ejecutará las siguientes actividades de fiscalización, sobre la base de la asignación presupuestaria indicada.
+
+.
 
 #### Artículo séptimo
 
