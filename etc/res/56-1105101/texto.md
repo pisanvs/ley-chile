@@ -261,3 +261,33 @@ Lo anterior, sin perjuicio que los interesados presenten sus solicitudes directa
 Recibida la solicitud y los documentos respectivos, por la Subdirección Técnica, procederá a analizarlos, remitiéndolos a la Subdirección Jurídica para el estudio de los antecedentes legales presentados, cuando corresponda. El Director Nacional de Aduanas, recibida la solicitud, los documentos acompañados a esta, el informe de la Subdirección Técnica y de la Subdirección Jurídica, si procediere, se pronunciará sobre la procedencia de la franquicia, en cuanto se cumplan los requisitos dispuestos para su otorgamiento, dictará la resolución afecta que la concede, la que deberá emitirse dentro del plazo de 10 días hábiles, contados desde el ingreso de la solicitud. En caso de solicitudes incompletas, el plazo referido se comenzará a contar una vez que se acompañen todos los antecedentes exigidos en la presente resolución.
 
 Anótese, tómese razón, comuníquese y publíquese en el Diario Oficial.- Claudio Sepúlveda Valenzuela, Director Nacional de Aduanas (S).
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcances la resolución N° 56, de 2017, de la Dirección Nacional del Servicio Nacional de Aduanas
+
+N° 22.766.- Santiago, 21 de junio de 2017.
+
+Esta Entidad de Control ha dado curso a la resolución del epígrafe, que establece el procedimiento e instrucciones para la concesión de la franquicia establecida en los artículos 48 y 49 de la ley N° 20.422, por encontrarse ajustada a derecho.
+
+No obstante, cumple con hacer presente que la resolución afecta a que se alude en el N° 4, párrafos 3° y 5°, y en el N° 9, letra a), del acápite I del instrumento en trámite, tendrá esa calidad en la medida que el Contralor General de la República no determine que la materia a que ella se refiere se encuentra exenta del control preventivo de legalidad, acorde con el artículo 10, incisos quinto y sexto, de la ley N° 10.336.
+
+Enseguida, en el acápite I, N° 9, letra c), se menciona la sigla GCP, sin que fuera definida expresamente; debiendo entenderse que se refiere al Giro de Comprobante de Pago.
+
+A continuación, cabe precisar que el documento que se menciona en la letra d, del numeral 9, del aludido acápite, corresponde a la Certificación, señalada en el numeral 7 que le antecede, y no a una resolución como se indica en el anotado literal.
+
+Luego, en relación a la modificación del Capítulo III del Compendio de Normas Aduaneras anotada en su acápite II, corresponderá que la autoridad administrativa dicte el acto administrativo pertinente para ajustar dicha normativa a lo prevenido en esta resolución.
+
+Por último, en lo formal, en el acápite I, N° 9, se repiten sus letras b, c y d, y su contenido, en tanto que en su acápite IV se omitió señalar expresamente que aquella se trata de una disposición transitoria.
+
+Con los alcances que anteceden se ha tomado razón del acto administrativo en examen.
+
+Saluda atentamente a Ud., Jorge Bermúdez Soto, Contralor General de la República.
+
+Al señor
+
+Director Nacional de Aduanas
+
+Valparaíso.
