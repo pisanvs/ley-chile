@@ -1,0 +1,5 @@
+RESOLUCIÓN N° 655 EXENTA, DE 20 DE SEPTIEMBRE DE 2017, DEL SUPERINTENDENTE DE EDUCACIÓN, QUE ACTUALIZA Y APRUEBA EL REGISTRO DE CORREOS ELECTRÓNICOS DE LOS SOSTENEDORES, DE LA SUPERINTENDENCIA DE EDUCACIÓN
+
+Con fecha 20 de septiembre de 2017, la Superintendencia de Educación dictó la resolución exenta Nº 655, que "actualiza y aprueba el registro de correos electrónicos de los sostenedores, de la Superintendencia de Educación". Dicho registro ha sido actualizado conforme a las siguientes fuentes de información, una(s) en defecto de la otra(s), procurando que el email que pasa a integrar el registro sea el último declarado por el sostenedor ante la Superintendencia, en alguna de las siguientes instancias: i) rendición de cuenta 2017, recursos 2016; ii) declaración LIE, año 2017; iii) declaración del sostenedor en la rendición de cuenta 2016, recursos 2015; iv) declaración del sostenedor en la rendición de cuenta 2015, recursos 2014 y; v) sistema de información general de estudiantes (SIGE). Dicha resolución estará disponible para la comunidad en la página web institucional www.supereduc.cl.
+
+Manuela Pérez Vargas, Fiscal, Superintendencia de Educación.
