@@ -532,9 +532,13 @@ j) Delegar en los Subdirectores, Directores Regionales o a otros funcionarios de
 
 k) Administrar los bienes del Servicio y los recursos asignados a éste, y dictar las resoluciones que permitan su correcta custodia, uso y conservación;
 
-l) Controlar la calidad sanitaria de los materiales y embarcaciones de importación usados destinados a las actividades de pesca o acuicultura, y de los productos de importación, que se destinen a carnada, a usos alimenticios o medicinales de los recursos hidrobiológicos. Asimismo, deberá controlar la inocuidad de los productos pesqueros y de acuicultura de exportación y otorgar los certificados oficiales correspondientes cuando así lo requieran los peticionarios, y
+l) Controlar la calidad sanitaria de los materiales y embarcaciones de importación usados destinados a las actividades de pesca o acuicultura, y de los productos de importación, que se destinen a carnada, a usos alimenticios o medicinales de los recursos hidrobiológicos. Asimismo, deberá controlar la inocuidad de los productos pesqueros y de acuicultura de exportación y otorgar los certificados oficiales correspondientes cuando así lo requieran los peticionarios;
 
-m) Deducir querella para la investigación de los delitos contemplados en la normativa pesquera y de acuicultura.
+m) Deducir querella para la investigación de los delitos contemplados en la normativa pesquera y de acuicultura;
+
+n) Solicitar y obtener la destinación de aquella parte de los bienes comprendidos en el borde costero que se encuentran bajo la supervigilancia del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, de conformidad con el artículo 1 del decreto con fuerza de ley Nº 340, de 1960, del Ministerio de Hacienda, sobre concesiones marítimas, y
+
+ñ) Solicitar y obtener la destinación de los bienes fiscales colindantes a los indicados en la letra anterior, que se encuentren bajo la supervigilancia del Ministerio de Bienes Nacionales.
 
 #### Artículo 28
 
@@ -942,7 +946,7 @@ H.- Corresponderá al Departamento de Pesca Artesanal:
 
 a) Proponer a la Subdirección del área, las acciones y técnicas necesarias para realizar la difusión de la normativa al sector pesquero artesanal;
 
-b) Supervisar las áreas entregadas para el manejo de recursos bentónicos, y las áreas destinadas para uso de la actividad pesquera artesanal;
+b) Supervisar las áreas entregadas para el manejo de recursos bentónicos, y las actividades y áreas destinadas para uso de la actividad pesquera artesanal;
 
 c) Administrar el Registro Pesquero Artesanal;
 
