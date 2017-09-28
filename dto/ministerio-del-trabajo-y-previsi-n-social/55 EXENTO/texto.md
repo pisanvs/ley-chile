@@ -172,6 +172,8 @@ En caso de faltar los beneficiarios enumerados, el Servicio podrá concurrir, di
 
 Se otorgará el mismo subsidio por fallecimiento del hijo recién nacido, aun cuando no hubiere sido reconocido como carga familiar y por mortinato a partir del quinto mes de gestación;
 
+e) bis. Acuerdo de Unión Civil: Se concederá una ayuda, por una sola vez, cuando el afiliado/a celebre un acuerdo de unión civil, el que se acreditará con el correspondiente certificado. Si ambos contrayentes fueren afiliados al Servicio, ambos tendrán derecho a solicitar el beneficio íntegro de forma independiente.
+
 f) Vacaciones: Se podrá conceder anualmente, por una sola vez, una bonificación al afiliado que tenga derecho y haga uso de sus vacaciones legales correspondientes, una vez dictada la resolución respectiva que conceda el correspondiente feriado legal;
 
 g) Ayuda social: Se concederá ayuda social al afiliado que sufra situaciones socio-económicas de alta precariedad, previo informe del Servicio de Bienestar;
@@ -277,6 +279,10 @@ f) El Servicio podrá poseer y/o administrar colonias, refugios, casas de huésp
 g) Celebración de festividades patrias: se podrá conceder anualmente, por una sola vez, un bono al afiliado con ocasión de la celebración de las festividades patrias.
 
 h) Celebración de cumpleaños: se podrá conceder anualmente, por una sola vez, en el mes que cumpla años, un bono al afiliado con ocasión de la celebración de su cumpleaños.
+
+i) Celebración día de la Secretaria: participación en la organización y/o financiamiento de la celebración de la festividad del día de la Secretaria del Servicio;
+
+j) Celebración día de la Familia: participación en la organización y/o financiamiento de la celebración del día de la Familia en el Servicio.
 
 Los beneficios a que se refieren las letras a), b), g) y h) podrán otorgarse mediante bonificaciones o subvenciones, tanto para actividades grupales o individuales en que se haya convocado o se permita la participación de cualquier afiliado.
 
