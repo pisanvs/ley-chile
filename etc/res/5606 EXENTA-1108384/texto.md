@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 5.606 EXENTA, DE 11 DE AGOSTO DE 2017
+
+Por resolución exenta Nº 5.606, de fecha 11 de agosto de 2017, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica la resolución exenta Nº 5.057, de 24 de octubre de 2012, que aprueba programa de enseñanza para obtención de licencia de conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Godoy y Ureta Limitada'', representada legalmente por Pedro Alberto Godoy Ureta, ubicada en Avenida Independencia N° 220, local B, comuna de Puente Alto, en el sentido de autorizar una sede ubicada en Avenida Las Nieves Oriente Nº 026, comuna de Puente Alto, cuyo director es Nelson Eduardo Inostroza Ortega.-
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
