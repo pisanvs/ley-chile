@@ -26,7 +26,39 @@ Resolución:
 
 2. Apruébanse las nóminas de postulantes seleccionados al llamado en condiciones especiales dispuesto en el número 1 de la resolución exenta Nº 4.524, de este Ministerio, de 2017, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS Nº 52 (V. y U.), de 2013, y en particular según lo establecido en su artículo 27, nóminas que se entenderán formar parte integrante de esta resolución exenta, y fíjase en 1.860 el número de postulantes seleccionados, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
 
-.
+Región N° de Beneficiarios
+
+Arica y Parinacota 92
+
+Tarapacá 66
+
+Antofagasta 43
+
+Atacama 22
+
+Coquimbo 68
+
+Valparaíso 378
+
+L. B. O'Higgins 73
+
+Maule 123
+
+Biobío 215
+
+La Araucanía 145
+
+Los Ríos 58
+
+Los Lagos 101
+
+Aysén 25
+
+Magallanes 15
+
+Metropolitana 436
+
+Total general 1.860
 
 3. El monto de recursos comprometidos en la selección de postulantes que por este acto se aprueba, del total destinado al financiamiento del llamado en condiciones especiales dispuesto en el número 1 de la resolución exenta Nº 4.524, de este Ministerio, de 2017, del Programa de Subsidio de Arriendo de Vivienda, es de 362.550 Unidades de Fomento, no quedando remanente de los recursos dispuestos en la resolución exenta antes indicada.
 
