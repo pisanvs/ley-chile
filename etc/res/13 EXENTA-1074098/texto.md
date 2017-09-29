@@ -66,6 +66,10 @@ Para los efectos del presente Programa, se entenderá por:
 
 3.16 Uso extraetiqueta: Uso de un producto farmacológico de manera distinta a la indicada en el Registro de Productos Farmacéuticos de Uso exclusivamente Veterinario.
 
+3.17 Diagnóstico General por Jaula Anual (DGJA): Proceso anual en que todas las jaulas de cada centro de cultivo marino, incluidos los estuarios, que contenga peces de especies salmónidas son muestreadas a fin de contabilizar el número de Caligus presentes en tales peces.
+
+3.18 Diagnóstico General por Jaula de Ingreso (DGJI): Este proceso corresponde al mismo realizado en el DGJA, el que deberá ser ejecutado una vez cumplidos treinta (30) días del término de la siembra.
+
 Abreviaturas
 
 Servicio: Servicio Nacional de Pesca y Acuicultura.
@@ -166,6 +170,12 @@ Aquellos centros que a la fecha de publicación del presente programa, hubieren 
 
 6.2.8 Los titulares de los centros de cultivo y de centros de acopio deberán reportar semanal y mensualmente, según corresponda, las cargas parasitarias monitoreadas. Dicha información deberá remitirse al Servicio el primer día hábil de la semana siguiente a la muestreada, en el formato disponible en el Sistema de Información para la Fiscalización de Acuicultura (SIFA) o el que la Institución determine.
 
+6.2.9 Todo centro de cultivo de la Región de Magallanes y Antártica Chilena deberá realizar un Diagnóstico General por Jaula Anual (DGJA) por centro de cultivo, a fin de conocer el estatus de la región, fijándose como fecha límite de entrega de la información el día 30 de septiembre de 2017. Posteriormente a esta fecha, los centros que finalicen sus siembras deberán realizar el Diagnóstico General por Jaula de Ingreso (DGJI).
+
+6.2.10 Todos los titulares de centros de cultivo de la Región de Magallanes y Antártica Chilena deberán enviar muestras de ejemplares de Caligus rogercresseyi al laboratorio de referencia de Caligus correspondiente al Centro Interdisciplinario de Investigación en Acuicultura, INCAR, para evaluar aspectos morfológicos y genéticos de los parásitos.
+
+6.2.11 Ante la detección de cargas parasitarias > 0 caligus, en cualquier estadio, los titulares de los referidos centros deberán enviar al Servicio la encuesta epidemiológica disponible en la página web.
+
 7. CONTROL DE LA CALIGIDOSIS
 
 7.1 Generalidades
@@ -250,6 +260,8 @@ La aplicación de la referida medida, estará sujeta a un análisis de la evoluc
 
 7.4.5 Los centros de cultivo podrán realizar limpieza in situ de redes aun habiéndose constatado la presencia de Caligus rogercresseyi, o encontrarse en alguna de las categorías establecidas por el presente Programa.
 
+7.4.6 Los centros de cultivo de la Región de Magallanes y Antártica Chilena serán categorizados semanalmente de acuerdo a las cargas parasitarias informadas, por un periodo de 6 meses desde la publicación de la presente resolución.
+
 7.5 Consideraciones en el uso de acopios
 
 7,5.1 Los centros de cultivo de alta vigilancia, que se encuentren en proceso de cosecha, estén categorizados como centros de alta diseminación y cuyo destino sea algún centro de acopio, deberán adoptar medidas de reducción de cargas parasitarias a fin de evitar la diseminación del parásito.
@@ -267,6 +279,8 @@ La aplicación de la referida medida, estará sujeta a un análisis de la evoluc
 7.6.3 Los tratamientos no farmacológicos deberán ser previamente informados al Servicio, con una anticipación de al menos tres (3) días hábiles previos a la fecha de realización, al correo electrónico tratamientocaligus©sernapesca.cl.
 
 8. Cualquier Agrupación de Concesiones podrá acordar, por la unanimidad de sus integrantes, medidas específicas de control de Caligidosis, fuera del marco del presente PSEVC Caligidosis, mediante el otorgamiento de un Plan de Manejo Sanitario, conforme a lo establecido en el artículo 58 I del DS Nº 319, citado en Visto, las cuales serán sometidas a una evaluación técnica y jurídica por parte del Servicio, quien tendrá amplias facultades para acogerlas o rechazarlas por resolución.
+
+> **Nota.** El literal b) del Artículo primero de la Resolución 4151 Exenta, Economía, publicada el 29.09.2017, modifica la presente norma en el sentido de incorporar en el numeral 5.1 como centro de Alta Vigilancia a la Región de Magallanes y la Antártica Chilena. Asimismo, el lietral c) dispone eliminar en la letra b) del numeral 5.2 como centro de baja vigilancia al centro cultivado con las especies Salmón del Atlántico (Salmo salar) o Trucha arcoíris (Oncorhynchus mykiss), ubicado en alguna de las agrupaciones de concesiones de la Región de Magallanes y la Antártica Chilena.
 
 #### Artículo segundo
 
