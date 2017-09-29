@@ -42,23 +42,7 @@ E 43°10'28,52" 73°31'21,33"
 
 F 43°10'19,08" 73°31'33,33"
 
-2) En el sector denominado Isla Cochinos, un área inscrita en la figura irregular, entre la línea de la costa y sus vértices, cuyas coordenadas geográficas son las siguientes:
-
-(CARTA SHOA Nº 7210; ESC 1:50.000; 5º ED. 1993)
-
-Vértice Latitud S Longitud W
-
-A 41°50'43,78" 73°48'14,73"
-
-B 41°51'00,81" 73°48'14,73"
-
-C 41°51'00,81" 73°49'00,64"
-
-D 41°50'03,24" 73°49'00,64"
-
-E 41°50'08,92" 73°48'14,73"
-
-F 41°50'27,08" 73°48'14,73"
+2) Derogado.
 
 3) En el sector denominado Mehuín, un área inscrita en la figura irregular, entre la línea de la costa y sus vértices, cuyas coordenadas geográficas son las siguientes:
 
