@@ -1,0 +1,7 @@
+DERECHOS DE AGUA EN COMUNA DE MOLINA
+
+Servicio Agrícola y Ganadero mediante resolución exenta N° 4.917, del 3 de agosto de 2017, conforme artículo 5° Transitorio del Código de Aguas, complementó la resolución exenta N° 1.500, de fecha 12 de agosto de 1987, modificada por resolución exenta N° 666, de 3 de mayo de 1991, ambas del Servicio Agrícola y Ganadero, que aprobó el Estudio Técnico de División de Derechos de Aprovechamiento de Aguas de los predios "Hijuela Primera o Las Casas del Yacal", "Hijuela Tercera o San Rafael del Yacal" e "Hijuela Sexta o El Patagual", por el predio "Hijuela Quinta o La Compañía" y por los predios "Parte Fundo Alupenhue antes Hijuela Quinta o La Compañía, Hijuela El Durazno Oriente y Fundo El Cortijo Exhijuela El Durazno Poniente", hoy conocido como "Fundo Alupenhue" y del Proyecto de Parcelación "Alupenhue", ubicado en la comuna de Molina, Provincia de Talca hoy Curicó, Región del Maule, en el sentido de establecer que los derechos de aprovechamiento de aguas indicados en las resoluciones antes mencionadas, son de carácter consuntivo, de ejercicio permanente y continuo y además establecer que las aguas son superficiales y corrientes, que se captan del álveo Río Lontué, que se conducen por el Canal Yacal ubicado en la provincia Talca hoy Curicó, Región del Maule.
+
+Publicación hecha conforme artículo 13° ley N° 18.377.-
+
+Director Nacional.
