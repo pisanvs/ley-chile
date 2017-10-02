@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1064 de 5 de septiembre de 2017, se dejó sin efecto los numerales 3°, 4°, 5° y 6° del Decreto MOP (Exento) N° 564 de 27 de julio de 2015, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N° 22, expropiado con motivo de la obra: "Mejoramiento Camino Básico Intermedio Q-754 Yumbel - Río Claro". Consígnese judicialmente el monto provisional de la indemnización, fijado por la Comisión de Peritos Tasadores mediante informe de tasación de fecha 8 de abril de 2014, complementada por acta de 4 de mayo de 2017, en la suma de $786.728.- Dicha Comisión fue nombrada por Resolución (Exenta) S.R.M. VIII Región N° 189 de 20 de marzo de 2014, modificada por Resolución S.R.M. (Exenta) VIII Región N° 297 de 25 de abril de 2017. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186 de 1978.
+
+.
