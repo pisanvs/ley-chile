@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 609 EXENTA, DE 6 DE SEPTIEMBRE DE 2017
+
+Por resolución exenta Nº 609, de fecha 6 de septiembre de 2017, de la Secretaría Regional Ministerial de Transportes de la Región de Coquimbo, se Aprueba el Programa de Enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Sociedad de Conductores Certificados Limitada" o "Conducert Limitada", RUT 76.517.666-2. La escuela de conductores representada por don Jaime Rodrigo Parada Enero, tendrá como director a don Alejandro Hernán Ojeda Huerta, y su sede estará ubicada en calle Santiago Nº 380, comuna de Ovalle. Las horas pedagógicas autorizadas a la escuela son 12 horas teóricas, 12 horas prácticas, con un total de 24 horas pedagógicas.-
+
+Óscar Pereira Peralta, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Coquimbo.
