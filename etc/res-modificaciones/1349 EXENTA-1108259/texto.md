@@ -34,7 +34,7 @@ II.- Autorízase la extracción del recurso Loco en el área de manejo conocida 
 
 . Punto E : 41° 34' 20.58" S y 73° 46' 40.92" W (Datum WGS-84)
 
-III.- Téngase presente que el recurso Loco del área individualizada en el numeral I de esta resolución no da cumplimiento al artículo 333 del Reglamento Sanitario de los Alimentos y por lo cual existe restricción para el uso Industrial, autorizándose solo la elaboración de Conservas.
+III.- Téngase presente que el recurso Loco del área individualizada en el numeral II de esta resolución da cumplimiento al artículo 333 del Reglamento Sanitario de los Alimentos y por lo cual no existe restricción de uso en cualquier proceso industrial.
 
 IV.- Téngase presente la obligatoriedad por parte de la planta elaboradora efectuar el análisis toxicológico del recurso Loco como producto final previo a su comercialización de acuerdo a los Procedimientos actualmente vigentes, dichos resultados deberán ser comunicados a esta Secretaría Regional Ministerial de Salud
 
