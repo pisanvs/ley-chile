@@ -18,9 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados en calle Violeta Parra, entre San Francisco y Almirante Latorre, comuna de La Pintana, a partir del día 15 de mayo de 2017 y hasta el 26 de septiembre de 2017.
-
-Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia, los destinados a cumplir funciones en las obras relacionadas con la construcción del proyecto antes mencionado y, aquellos vehículos que requieran ingresar o egresar hacia o desde su lugar de residencia o estacionamiento habitual.
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 27 de septiembre de 2017 y hasta el 30 de octubre de 2017, por calle Violeta Parra (Ex Francisco Franco) entre calle San Francisco y calle Almirante Latorre, en la comuna de La Pintana.
 
 2.- Dese estricto cumplimiento a las especificaciones establecidas en el Ord. SM/AGD/Nº 3483, de 21 de abril de 2017, de esta Secretaría Regional Ministerial.
 
