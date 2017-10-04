@@ -30,7 +30,15 @@ Resolución:
 
 .
 
-4. El presente Llamado Especial contará con un proceso de selección, en el cual podrán postular sólo los proyectos de la comuna de Punta Arenas, de la Región de Magallanes y Antártica Chilena, que cuenten con la correspondiente calificación otorgada por el Serviu XII Región, antes del 30 de septiembre de 2017. Se aceptará la postulación individual y colectiva.
+4. El presente Llamado Especial contará con tres procesos de selección, en el cual podrán postular sólo los proyectos de la comuna de Punta Arenas, de la Región de Magallanes y Antártica Chilena, que cuenten con la correspondiente calificación otorgada por el Serviu XII Región.
+
+Primer proceso de selección : Hasta el 30 de septiembre de 2017.
+
+Segundo proceso de selección : Hasta el 31 de octubre de 2017.
+
+Tercer proceso de selección : Hasta el 30 de noviembre de 2017.
+
+En todos estos procesos se aceptará la postulación individual y colectiva.
 
 5. Como Viviendas Objeto del Programa para este llamado se considerarán aquellas que cumplan con las siguientes condiciones:
 
@@ -48,7 +56,7 @@ d. Las viviendas que pertenezcan a alguno de los polígonos de los barrios inter
 
 6.2 Permitirá que los profesionales del área técnica constructiva de las PSAT participantes de este llamado puedan atender simultáneamente a un número superior a 80 viviendas, a pesar de lo indicado en la resolución N° 533 (V. y U.), de 1997.
 
-6.3 Se permitirá la participación de viviendas de autoconstrucción que estén en proceso de regularización, lo que se certificará presentando copia del ingreso a la Dirección de Obras Municipales correspondiente, del expediente de la vivienda y de la solicitud de Permiso y Recepción de edificación. Para financiar la realización de esta labor se incrementará la Asistencia Técnica a pagar al PSAT a la cantidad señalada en la columna 4 del resuelvo 3 de esta resolución, esto es aumentando en 3 UF el monto del cupón 1, de Organización de la Demanda y Postulación de Proyectos, y en 6 UF el monto del cupón 2, de Gestión de Proyecto e Inspección Técnica de Obras, ambos del Título II, a que se refiere el número 55 de la resolución N° 533 (V. y U.), de 1997. Para esto, se podrá aplicar la ley N° 20.898. Que Establece un Procedimiento Simplificado para la Regularización de Viviendas de Autoconstrucción, u otra normativa vigente. No obstante lo anterior, alternativamente en reemplazo de la copia del ingreso a la Dirección de Obras Municipales se permitirá presentar una declaración simple del PSAT, en la cual se comprometa a iniciar el trámite de ingreso del expediente a la DOM antes del inicio de las obras. En tal circunstancia, el pago del cupón 2 se condicionará al cumplimiento de este compromiso, además de lo establecido en el numeral siguiente.
+6.3 Se permitirá la participación de viviendas de autoconstrucción que estén en proceso de regularización, lo que se certificará presentando copia del ingreso a la Dirección de Obras Municipales correspondiente, del expediente de la vivienda y de la solicitud de Permiso y Recepción de edificación. Para financiar la realización de esta labor se incrementará la Asistencia Técnica a pagar al PSAT con la cantidad señalada en la columna 4 del resuelvo 3 de esta resolución, esto es, aumentando en 4 UF el monto del cupón 1, de Organización de la Demanda y Postulación de Proyectos, y en 7 UF el monto del cupón 2, de Gestión de Proyecto e Inspección Técnica de Obras, ambos del Título II, a que se refiere el número 55 de la resolución Nº 533 (V. y U.), de 1997. Para esto, se podrá aplicar la ley N° 20.898. Que Establece un Procedimiento Simplificado para la Regularización de Viviendas de Autoconstrucción, u otra normativa vigente. No obstante lo anterior, alternativamente en reemplazo de la copia del ingreso a la Dirección de Obras Municipales se permitirá presentar una declaración simple del PSAT, en la cual se comprometa a iniciar el trámite de ingreso del expediente a la DOM antes del inicio de las obras. En tal circunstancia, el pago del cupón 2 se condicionará al cumplimiento de este compromiso, además de lo establecido en el numeral siguiente.
 
 En el caso de las viviendas no regularizadas, cuya participación también será permitida, se incrementará el subsidio en 40 UF para realizar las obras que implican sanear esta situación, permitiéndose un gasto máximo de 50 UF del subsidio total, y los valores de Asistencia Técnica para dicha labor, serán los ya descritos en este punto. Cuando las obras de regularización requieran además la construcción de muros cortafuegos y/o cuando en un mismo predio exista más de una edificación, el monto del subsidio se incrementará en otras 40 UF adicionales a las señaladas.
 
