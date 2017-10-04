@@ -24,31 +24,13 @@ b) Las personas que postulen en forma individual vía internet, a través de los
 
 4. Los recursos involucrados para la selección de postulantes, por región del país, son los siguientes:
 
-REGIÓN / PROVINCIA RECURSOS LLAMADO (UF)
-
-Atacama 33.242
-
-Valparaíso 264.305
-
-Los Ríos 72.875
-
-Aysén 33.963
-
-Magallanes 34.360
-
-Santiago y Cordillera 328.004
-
-Metropolitana
-
-Talagante, Maipo, Chacabuco 328.003
-
-y Melipilla
-
-TOTAL 1.094.752
+.
 
 5. Los postulantes al presente llamado, al momento de la postulación deberán identificar la región del país en la cual posteriormente aplicarán su subsidio, dentro de las que están convocadas en el presente llamado, la que podrá ser distinta de la región donde están postulando.
 
 6. Establécese que los integrantes hábiles de grupos sin proyecto de las regiones convocadas en este llamado, que fueron migrados al Sistema Minvu Conecta, que hayan contado con Certificado de Grupo Organizado Hábil en el Banco de Grupos del Fondo Solidario de Elección de Vivienda, podrán postular al presente llamado, quedando exentos de pertenecer al 40% más vulnerable de la población según Registro Social de Hogares, siéndoles exigibles 10 Unidades de Fomento como ahorro mínimo.
+
+En caso que los postulantes en estado hábil de grupos sin proyecto, referidos precedentemente, no resulten seleccionados, mantendrán su condición de hábil en su grupo de origen y en el sistema Minvu Conecta.
 
 7. Establécese para efectos de acreditar el ahorro, en los casos en que la entidad captadora de ahorro tenga convenio de traspaso electrónico con el Minvu, que sólo será necesario que el postulante presente algún documento que acredite que es el titular de la cuenta y en el cual pueda visualizarse su número respectivo. Esta acreditación podrá ser con la cartola obtenida directamente de la página de internet de la entidad bancaria o del dispensador automático que la misma entidad disponga La información respecto el saldo existente será obtenida y verificada directamente por el sistema informático de postulación.
 
