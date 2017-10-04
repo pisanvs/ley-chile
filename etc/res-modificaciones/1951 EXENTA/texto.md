@@ -18,9 +18,9 @@ Considerando:
 
 Resolución:
 
-1.- Modifíquese la resolución exenta Nº 1.900/01.09.2017, en el sentido de reemplazar el numeral 6., del Resuelvo, quedando este de la siguiente manera:
+1. Modifíquese la resolución exenta Nº 1.900/01.09.2017, en el sentido de reemplazar el numeral 6 del resuelvo, quedando éste de la siguiente manera:
 
-6. Podrán postular a este llamado familias cuyo expediente de postulación se encuentre aprobado en el Banco de Postulaciones hasta el 29 de septiembre de 2017.
+6. Podrán postular a este llamado las familias que cuenten con Expediente de Postulación aprobado, hasta el 20 de octubre del año en curso. En tal sentido, el proceso de selección se efectuará con los expedientes aprobados hasta la fecha indicada.
 
 2.- Modifíquese, asimismo, el numeral 12., del resuelvo de la referida resolución, de la siguiente forma:
 

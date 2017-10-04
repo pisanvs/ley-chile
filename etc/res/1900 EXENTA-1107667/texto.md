@@ -18,7 +18,7 @@ Vistos:
 
 7. La resolución exenta Nº 8.315 (V. y U.), de fecha 23 de diciembre de 2016, y sus modificaciones, que autoriza efectuar llamados a postulación y/o comprometer recursos durante el año 2017 en el otorgamiento de subsidios habitacionales y señala el monto de los recursos destinados, entre otros, a la atención a través del programa habitacional regulado por el DS Nº 10 (V. y U.), de 2015 y sus modificaciones;
 
-8. La resolución exenta Nº 1.089, de fecha 17 de mayo de 2017, del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Los Lagos, que define territorios para la alternativa de postulación correspondiente al Título I del Programa de Habitabilidad Rural;
+8. La resolución exenta Nº 1.089, de fecha 17 de mayo de 2017 y sus respectivas modificaciones posteriores, si las hubiere, del Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Los Lagos, que define territorios para la alternativa de postulación correspondiente al Título I del Programa de Habitabilidad Rural;
 
 9. La resolución exenta Nº 8.584 (V. y U.), de fecha 14 de julio de 2017, mediante la cual la Ministra de Vivienda y Urbanismo autoriza al Secretario Regional Ministerial de Vivienda y Urbanismo de la Región de Los Lagos, para la realización de Llamado Regional a Proceso de Selección en Condiciones Especiales para el otorgamiento de Subsidios Habitacionales del Título I, Proyectos de Asociación Territorial, del Programa de Habitabilidad Rural DS Nº 10 (V. y U.), de 2015.
 
@@ -30,7 +30,7 @@ Resolución:
 
 1. Llámese a proceso de selección en Condiciones Especiales para el otorgamiento de subsidios del Programa de Habitabilidad Rural, a través del Título I Proyectos de Asociación Territorial, del Capítulo IV del DS Nº 10 (V. y U.), de 2015, para el desarrollo de proyectos en las tipologías "Construcción en Sitio del Residente", "Mejoramiento de la Vivienda", "Ampliación de la Vivienda", "Mejoramiento del Entorno Inmediato" y "Construcción y/o Mejoramiento de Equipamiento y Entorno Comunitario".
 
-2. El período de postulación al presente llamado será entre los días 20 y 29 de septiembre de 2017, el cual se realizará de manera presencial. Durante el período señalado, el Serviu recibirá las solicitudes de inscripción e ingreso al sistema computacional respectivo, junto a la documentación que deberá acompañar la postulación, en los lugares de atención que éste disponga para tales efectos.
+2. La postulación al presente llamado se realizará de manera presencial. Serviu recibirá las solicitudes de inscripción e ingreso al sistema computacional respectivo, junto a la documentación que deberá acompañar cada postulación, en los lugares de atención que éste disponga para tales efectos.
 
 3. Podrán participar en el presente llamado, familias que residan en localidades rurales, en localidades urbanas con una población menor a 5 mil habitantes según Censo de Población y Vivienda del año 2002, o en áreas rurales acreditadas como tales por la Dirección de Obras Municipales, a través del correspondiente certificado vigente de informaciones previas, siempre que cuenten con asesoría de Entidades de Gestión Rural (EGR) con convenio Regional de Asistencia Técnica vigente y que sus proyectos se emplacen en alguno de los territorios definidos en la resolución citada en el numeral 8 del vistos que preceden, de la presente resolución. Para todos los efectos, la residencia se verificará a partir del domicilio acreditado en el Registro Social de Hogares. En el caso de postulaciones a la tipología "Construcción en Sitio del Residente", él o los postulantes podrán residir en cualquier comuna de la región. En el caso de postulaciones a las tipologías "Mejoramiento de la Vivienda" y/o "Ampliación de la Vivienda", la residencia deberá corresponder al domicilio consignado en el Registro Social de Hogares.
 
@@ -42,15 +42,7 @@ Resolución:
 
 ### Párrafo 3º — Operatoria.
 
-6. Podrán postular a este llamado familias cuyo expediente de postulación se encuentre aprobado en el Banco de Postulaciones hasta el 29 de septiembre de 2017.
-
-7. La totalidad de las familias que integran un determinado expediente de postulación deberá encontrarse inscrita en una de las modalidades o tipologías indicadas a continuación, según las condiciones técnicas y socio-familiares que se acrediten:
-
-a) Construcción en Sitio del Residente.
-
-b) Mejoramiento y Ampliación de Viviendas Existentes.
-
-c) Mejoramiento del Entorno y Equipamiento Comunitario.
+6. Podrán postular a este llamado las familias que cuenten con Expediente de Postulación aprobado, hasta el 20 de octubre del año en curso. En tal sentido, el proceso de selección se efectuará con los expedientes aprobados hasta la fecha indicada.
 
 ### Párrafo 4º — Factores de puntaje y selección.
 
