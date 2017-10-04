@@ -216,9 +216,9 @@ Las resoluciones que ejecuten los Acuerdos relacionados con estos proyectos, ser
 
 EJECUCIÓN DE LOS PROYECTOS
 
-Aprobado el proyecto, con o sin condiciones, el Agente Operador Intermediario, en un plazo que no deberá superar los 30 días, deberá informar a la Gerencia de Inversión y Financiamiento el nombre de la persona que actuará como su Jefe de Proyecto, para su aprobación o rechazo. Para el caso de que dicha Gerencia rechace en dos oportunidades la designación del Jefe de Proyecto, se dará término anticipado al proyecto.
+Aprobado el proyecto, con o sin condiciones, el Agente Operador Intermediario, en un plazo que no deberá superar los 30 días corridos, deberá informar a la Gerencia de Desarrollo Competitivo el nombre de la persona que actuará como su Jefe de Proyecto, la que se pronunciará sobre su aprobación o rechazo, previa conformidad de la Gerencia de Inversión y Financiamiento. Para el caso de que la Gerencia de Desarrollo Competitivo rechace en dos oportunidades la designación del Jefe de Proyecto, se dará término anticipado al proyecto.
 
-La modificación del Jefe de Proyecto deberá ser solicitada por el Agente Operador Intermediario, en forma previa y por escrito, correspondiéndole a la Gerencia de Inversión y Financiamiento pronunciarse al respecto.
+La modificación del Jefe de Proyecto deberá ser solicitada por el Agente Operador Intermediario, en forma previa y por escrito, correspondiéndole a la Gerencia de Desarrollo Competitivo su aprobación o rechazo, previa conformidad de la Gerencia de Inversión y Financiamiento.
 
 Los requisitos para ser Jefe de Proyecto son los siguientes:
 
