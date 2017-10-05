@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº 89, de 29 de septiembre de 2017, que autoriza a las instituciones sin fines de lucro, Fundación Vocación de Servicio, RUT N° 65115934-2; Club Deportivo Cultural General Carrera, RUT Nº 65382570-6; Acción Solidaria, RUT Nº 53325685-6; ONG María Madre, RUT Nº 75941820-4; Centro Cultural y Artístico Grupo Scout Santa Isabel de Hungría, RUT Nº 65147887-1, Fundación Corazón Social, RUT Nº 65102811-6; Junta de Vecinos Santo Tomás 20-3, RUT Nº 65064820-K; Junta de Vecinos 10-1 Raúl del Canto, RUT Nº 71979100-K y Agrupación Solidaria Entregando Alegría de Calle Larga, RUT N° 65147611-9 como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de septiembre de 2017.
