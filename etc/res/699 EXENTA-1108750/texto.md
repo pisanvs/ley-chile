@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 699 EXENTA, DE 13 DE SEPTIEMBRE DE 2017
+
+Por resolución exenta N° 699, de 13 de septiembre de 2017, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, aprobó los planes y programas del curso B, de "Escuela de Conducción Interlagos", conducente a la obtención de Licencias de Conductor No Profesionales Clase B. La Escuela de Conductores, de propiedad de Benito Omar del Carmen Huerta León, representada legalmente por Benito Omar del Carmen Huerta León quien actuará también como Director. Su sede estará ubicada en Pasaje Las Hortensias Nº 30, Villa Jardines de la Estación, comuna de Chimbarongo. Las horas pedagógicas autorizadas a la referida Escuela son 9 horas teóricas, 12 horas prácticas, con un total de 21 horas pedagógicas.-
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
