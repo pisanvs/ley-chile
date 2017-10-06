@@ -284,8 +284,6 @@ Puerto Varas Ltda.
 
 . Banco Central.
 
-> **Nota.** El artículo único de la Resolución 148 Exenta, Economía, publicada el 21.08.2019, modifica la presente norma en el sentido de excluir a la empresa Colbún S.A. de la nómina que el mismo acto contempla. Ello, motivado en el cumplimiento que debe darse de la sentencia dictada por la Corte de Apelaciones de Santiago, el 12 de marzo de 2019, en los autos caratulados "Reclamación artículo 402 del Código del Trabajo - Sindicato de Empresa Nº 2 Trabajadores Colbún S.A./Krauss", Rol Reforma Laboral Nº 1.738-2017.
-
 Anótese, regístrese y publíquese.- Luis Felipe Céspedes Cifuentes, Ministro de Economía, Fomento y Turismo.- José Antonio Gómez Urrutia, Ministro de Defensa Nacional.- Alejandra Krauss Valle, Ministra del Trabajo y Previsión Social.
 
 Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Natalia Piergentili Domenech, Subsecretaria de Economía y Empresas de Menor Tamaño.
