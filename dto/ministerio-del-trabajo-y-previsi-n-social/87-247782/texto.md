@@ -28,9 +28,9 @@ Del Consejo Administrativo
 
 1.- El Subsecretario de Transportes y el Subsecretario de Telecomunicaciones, que lo integrarán y presidirán en períodos alternados, o las personas que se designen, de conformidad al artículo 18, inciso quinto del "Reglamento General".
 
-2.- El Encargado de Personal de la Subsecretaría de Transportes o su subrogante legal.
+2.- La jefatura del área de Personas de la Subsecretaría de Transportes o quien la reemplace.
 
-3.- El Jefe de Recursos Humanos de la Subsecretaría de Telecomunicaciones o su subrogante legal.
+3.- La jefatura del área Personas de la Subsecretaría de Telecomunicaciones o quien la reemplace.
 
 4.- Cuatro representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios cuando proceda, de acuerdo con lo dispuesto en el inciso tercero del artículo 18 del Reglamento General. También deberán designar el suplente correspondiente.
 
@@ -44,6 +44,8 @@ Los suplentes reemplazarán a los titulares de acuerdo al orden que resulte de l
 
 El Jefe del Servicio de Bienestar, quien actuará como Secretario del Consejo, teniendo en él derecho a voz pero no a voto.
 
+En el caso de que uno o más de los Servicios (Subsecretaría de Transportes, Subsecretaría de Telecomunicaciones o Junta de Aeronáutica Civil), quedará sin representante titular y/o suplente con posterioridad a las elecciones, se procederá a una nueva elección exclusivamente por dicha representatividad y por el período que resta en sus funciones.
+
 #### Artículo 3º
 
 Para ser elegido representante de los afiliados se requiere, además de los requisitos indicados en el artículo 20 del "Reglamento General", ser socio del Servicio con una antigüedad no inferior a dos años.
@@ -52,9 +54,7 @@ Los representantes durarán dos años en sus funciones y podrán ser reelegidos 
 
 #### Artículo 4º
 
-El Consejo Administrativo sesionará ordinariamente cada dos meses, en el día y hora que fijen sus miembros en la primera sesión del año y citará por escrito el Presidente del referido Consejo. Las sesiones extraordinarias se citarán de la misma manera, cuando sea necesario, de acuerdo a lo dispuesto en el artículo 23º del Reglamento General.
-
-Las citaciones, tanto para las sesiones ordinarias como extraordinarias, se harán por escrito y las practicará el Presidente del Consejo, según lo dispuesto en el art. 23, del Reglamento General, con una antelación de tres y un día, respectivamente.
+El Consejo Administrativo sesionará ordinariamente cada dos meses, en el día y hora que fijen sus miembros y citará por escrito quien lo preside. Las sesiones extraordinarias se citarán de la misma manera, cuando sea necesario, de acuerdo a lo dispuesto en el artículo 23º del Reglamento General.
 
 ## Título III
 
@@ -72,7 +72,13 @@ c) Con el aporte anual institucional consultado en la Ley de Presupuestos.
 
 d) Con el aporte mensual de sus afiliados jubilados de hasta el 1% (uno por ciento) de sus pensiones, que fijará anualmente el Consejo Administrativo, más la cantidad correspondiente al aporte institucional que será de cargo del afiliado.
 
+Cabe señalar que en los casos de los/as socios/as jubilados/as, cualquier excepción en las formas y periodicidad de pago será acordada por el Consejo Administrativo de Bienestar. Entiéndase que en ningún caso se eximirá a la persona del pago de la deuda y su morosidad no podrá superar los tres meses. Ante la eventualidad del no pago, se descontará a los avales, según corresponda.
+
 e) Con los demás ingresos detallados en el artículo 32º del Reglamento General.
+
+Cabe señalar que en aquellos casos en que el/la socio/a no perciba remuneraciones (permiso sin goce de remuneraciones, entre otros), deberá saldar anticipadamente su aporte correspondiente a dicho periodo. Ante cualquier eventualidad, podrá acordar con el Servicio de Bienestar, cualquier excepción en las formas de pago y periodicidad, la que será aprobada por el Consejo Administrativo de Bienestar.
+
+En ningún caso se eximirá a la persona del pago de la deuda, la que deberá estar saldada dentro del año calendario. Ante la eventualidad del no pago, se descontará a los avales, según corresponda.
 
 #### Artículo 6º
 
@@ -94,7 +100,7 @@ Los beneficios médicos serán los establecidos en el artículo 15 del Reglament
 
 Sin cargo de restitución, se otorgarán a los afiliados, por las causales y bajo las modalidades que se indican, los siguientes subsidios, según disponibilidad presupuestaria y cuando el socio haya cumplido 3 meses de antigüedad en el servicio.
 
-a) Asignación por matrimonio: Se concederá al afiliado que contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la asignación se pagará a cada uno de ellos en forma independiente. El derecho a este beneficio se acreditará mediante el correspondiente certificado. El monto de esta asignación se fijará anualmente por el Consejo Administrativo.
+a) Asignación por matrimonio o acuerdo de unión civil: se concederá al afiliado/a que contraiga matrimonio o celebre un acuerdo de unión civil. Si ambos/as contrayentes estuviesen afiliados/as al Servicio, la asignación se pagará a cada uno de ellos/as en forma independiente. El derecho a este beneficio se acreditará mediante el correspondiente certificado. El monto de esta asignación se fijará anualmente por el Consejo Administrativo.
 
 b) Asignación por nacimiento: Se concederá al afiliado cuando éste compruebe, con el certificado correspondiente, el nacimiento de su hijo, si ambos padres fuesen afiliados, la asignación se cancelará en forma independiente a cada uno de ellos. En caso de nacimientos múltiples, como única cifra, se duplicará el monto del subsidio, pero no se aumentará el monto asignado. El monto de la asignación por nacimiento se fijará anualmente por el Consejo Administrativo.
 
@@ -110,9 +116,11 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará atendiendo al sig
 
 d) Ayuda médica: En caso de enfermedad grave y tratamiento médico de alto costo, calificado como tal por el médico tratante y aprobado por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria a las prestaciones a que se alude en el artículo 7º, punto 1 de este Reglamento, siempre que exista disponibilidad presupuestaria.
 
-e) Asignación de Escolaridad: Se concederá al afiliado por cada hijo acreditado como carga familiar, que curse kínder, enseñanza básica, media, técnica, universitaria o profesional, en establecimientos estatales o reconocidos por el Estado. A este beneficio, que se concederá una vez al año, también tendrá derecho el afiliado que se encuentre estudiando en algún establecimiento educacional de los niveles antes mencionados, según disponibilidad presupuestaria y normas que fijará el Consejo Administrativo.
+e) Asignación de Escolaridad: se concederá al afiliado por cada carga de entre 4 y 24 años de edad, que curse pre-kinder, kinder, enseñanza básica, media, técnica, universitaria o profesional, en establecimientos estatales o reconocidos por el Estado. También tendrá derecho el afiliado que se encuentre estudiando en algún establecimiento educacional de los niveles antes mencionados. Este beneficio se concederá una vez al año, según disponibilidad presupuestaria y normas (exigencias, plazos, etc.), que fijará el Consejo Administrativo.
 
 f) Becas de estudio: Se concederá a los socios que se encuentren cursando estudios de Educación superior y de formación técnica y sus cargas familiares, como estímulo a la excelencia académica, según las disponibilidades presupuestarias y por el monto que se fijará anualmente por el Consejo Administrativo.
+
+g) Desgravamen: al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tenga pendiente en el Servicio de Bienestar por concepto de cuota de afiliación y préstamos que éste le hubiese otorgado.
 
 3. De los préstamos:
 
@@ -122,7 +130,9 @@ a) Préstamos médicos: Se otorgarán a los afiliados, como complementos de las 
 
 Estos préstamos se podrán otorgar a partir del segundo mes de afiliación al Servicio.
 
-b) Préstamos de auxilio: Se otorgarán ante problemas económicos y otras causales justificadas, por una sola vez en el año. El Consejo Administrativo podrá revisar aquellos casos que por motivos justificados, según informe social correspondiente, deba incurrir en la solicitud de un segundo préstamo en el año, según disponibilidad presupuestaria y siempre que el socio haya pagado el 50% del préstamo anterior.
+b) Préstamos de auxilio: se otorgarán ante problemas económicos y otras causales justificadas una vez en el año, previa entrega de los documentos y/o antecedentes que los respalden.
+
+Por motivos justificados, según informe técnico del área social y previa aprobación del Consejo Administrativo se podrá entregar un segundo préstamo en el año, según disponibilidad presupuestaria y siempre que el socio haya pagado el 50% del préstamo anterior.
 
 c) Préstamos escolares: Se otorgarán una vez al año y estarán orientados a solventar gastos de matrícula, útiles y vestuario escolar de los hijos estudiantes, que sean causantes de asignación familiar o bien para los propios afiliados.
 
@@ -134,9 +144,9 @@ El Servicio podrá otorgar los préstamos indicados en las letras b, c y d, a lo
 
 Se podrá conceder un préstamo en el año, siempre que se haya descontado el 50% del préstamo anterior. Tendrán prioridad los socios que soliciten su primer préstamo anual.
 
-El reintegro de los préstamos señalados deberá hacerse en 10 cuotas mensuales, iguales y sucesivas, las que serán descontadas a partir del mes siguiente al de su otorgamiento.
+El reintegro de los préstamos señalados en letra a y b, podrá pactarse considerando un máximo de 10 cuotas y mínimo 6 cuotas mensuales, iguales y sucesivas, las que serán descontadas a partir del mes siguiente al de su otorgamiento. En aquellos casos que el socio desee pagar cuotas por anticipado, podrá realizarlo una vez que tenga pagado el 50% del préstamo.
 
-La tasa de interés que devengarán estos préstamos, será determinada anualmente por el Consejo Administrativo, antes del inicio de cada ejercicio, en conformidad a las disposiciones de la Ley Nº 18.010.
+La tasa de interés anual que devengarán estos préstamos serán determinadas por el Consejo Administrativo, antes del inicio de cada ejercicio, en conformidad a las disposiciones de la ley Nº 18.010.
 
 4. Asistencia social:
 
@@ -161,6 +171,10 @@ c) Celebración de Navidad.
 d) Celebración de aniversario.
 
 e) Celebración de fiestas patrias.
+
+f) Ayudas excepcionales: dice relación con aquellas/os casos de situación económica catastrófica, detectadas mediante la intervención que realicen los profesionales del área social e informadas por dichos profesionales con esta calificación y aprobadas por el Consejo Administrativo
+
+g) Celebración de Cumpleaños.
 
 #### Artículo 8º
 
@@ -196,9 +210,11 @@ Los afiliados al Bienestar tendrán derecho a percibir los beneficios médicos q
 
 #### Artículo 13º
 
-El porcentaje máximo de descuento mensual que se haga al afiliado, por concepto de préstamos, créditos en casas comerciales u otro compromiso económico de cualquier índole, no podrá exceder, en caso alguno, del 30% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
+El porcentaje máximo de descuento mensual que se haga al afiliado por concepto de préstamos, créditos en casas comerciales u otro compromiso económico de cualquier índole, no podrá exceder, del 15% de la remuneración imponible para pensiones, de acuerdo con lo dispuesto en el artículo 96, del Estatuto Administrativo
 
-Para solicitar el otorgamiento de cualquier tipo de préstamos, como asimismo, la concesión de créditos para casas comerciales, el afiliado deberá constituir dos codeudores afiliados al Servicio de Bienestar. Dicha garantía deberá renovarse en caso de que el aval deje de pertenecer al Servicio de Bienestar del Ministerio de Transportes y Telecomunicaciones.
+Para solicitar el otorgamiento de cualquier tipo de préstamos, la concesión de créditos para casas comerciales, y otro beneficios que determine el Consejo, el afiliado deberá constituir dos codeudores afiliados al Servicio de Bienestar, quienes deberán cumplir con las exigencias establecidas por el Consejo para ser codeudor. En caso del no pago del afiliado, serán los responsables de pagar lo adeudado.
+
+Asimismo, en el caso que la persona titular de la deuda (socio/a), deje de tener la calidad de afiliado, deberá efectuar el pago inmediato de las deudas pendientes. Frente a cualquier excepcionalidad, deberá acordar con el Servicio de Bienestar el pago de ésta o en su defecto se procederá a descontar a los avales. Dicha garantía deberá renovarse en caso de que el aval deje de pertenecer al Servicio de Bienestar del Ministerio de Transportes y Telecomunicaciones y Junta de Aeronáutica Civil.
 
 Toda otra normativa referente a los codeudores será fijada por el Consejo Administrativo.
 
