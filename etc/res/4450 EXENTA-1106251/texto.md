@@ -36,7 +36,7 @@ Resuelvo:
 
 #### Artículo 1º
 
-Determínense para el año 2018 los siguientes alumnos y alumnas en calidad de prioritarios, para todas las regiones del país, que serán beneficiarios de la subvención escolar preferencial, de acuerdo a lo dispuesto en el artículo 2º de la ley Nº 20.248, y que se encuentran individualizados en el listado contenido en el archivo con firma electrónica avanzada del CD folio Nº 01/2018, refrendado por el Jefe de la División de Educación General, que se acompaña en anexo y que forma parte integrante de la presente resolución, para todos los efectos legales.
+Determínese para el año 2018 los siguientes alumnos y alumnas en calidad de prioritarios, para todas las regiones del país, que serán beneficiarios de la subvención escolar preferencial, de acuerdo a lo dispuesto en el artículo 2º de la ley Nº 20.248, y que se encuentran individualizados en los listados contenidos en los archivos con firma electrónica avanzada de los CDs. folios Nos 1/2018 y 2/2018, refrendado por el Jefe de la División de Educación General, que se acompañan en anexo y que forman parte integrante de la presente resolución, para todos los efectos legales.
 
 #### Artículo 2º
 
