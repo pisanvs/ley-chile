@@ -1,0 +1,5 @@
+PLAN NACIONAL DE ACCIÓN CONTRA LA VIOLENCIA HACIA LAS MUJERES, 2014-2018
+
+Con fecha 13 de septiembre de 2017, el Ministerio de la Mujer y la Equidad de Género dicta resolución exenta 1.288, que "Aprueba Plan Nacional de Acción en Contra de la Violencia hacia las Mujeres 2014-2018", que contiene: Enfoques Transversales del Plan Nacional de Acción en VCM; Estrategias Transversales del Plan Nacional de Acción en VCM; Objetivo General del Plan Nacional de Acción en VCM; Líneas Estratégicas de Acción; Organigrama del Plan Nacional de Acción en VCM; y Seguimiento Operativo, evaluación y rendición de cuentas. La resolución antedicha estará disponible para la comunidad en la página web institucional http://www.minmujeryeg.cl/.
+
+Santiago, 13 de septiembre de 2017.- Claudia Pascual Grau, Ministra de la Mujer y la Equidad de Género.
