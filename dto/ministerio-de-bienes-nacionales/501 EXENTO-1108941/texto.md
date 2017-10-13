@@ -1,0 +1,7 @@
+ADJUDICA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE TARAPACÁ, A "VIENTO FUERTE SOCIEDAD ANÓNIMA"
+
+Mediante decreto exento Nº E-501, de 27 de septiembre de 2017, el Ministerio de Bienes Nacionales adjudica en Concesión Onerosa Directa, a "Viento Fuerte Sociedad Anónima", RUT Nº 76.080.491-6, el inmueble fiscal formado por los Lotes "a", "b", "c", "d", y "e", ubicados en Ruta 5, Km. 1.955,157 a 1.957,900 Sector Quebrada de Chiza, comuna de Huara, provincia del Tamarugal, Región de Tarapacá; roles del Servicio de Impuestos Internos Nº 455-35, 36, 37, 38 y 39 respectivamente; inscrito en mayor cabida a nombre del Fisco a fojas 78 Nº 77 del Registro de Propiedad del Conservador de Bienes Raíces de Pozo Almonte, correspondiente al año 1985; de una superficie total de 25,37 hectáreas; singularizado en el plano Nº 1404-2.715-C.R.. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será de UF 126,85.
+
+La concesión se otorga para ejecutar en el inmueble un proyecto de Energía Renovable No Convencional. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Magdalena Badilla Rodríguez, Jefa División Jurídica.
