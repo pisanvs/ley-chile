@@ -38,11 +38,17 @@ o) Resolución exenta N° 1.504 de 29 de octubre 2010, que aprueba Enmienda 1 Te
 
 p) Oficio Depto. Jurídico (O) N° 05/0/1066 del 22 de noviembre de 2016, que emite informe sobre modificaciones a la DAN 17 02.
 
+n) Resolución exenta Nº 811, de 2016, que aprueba la DAN 17 02 Servicios de Seguridad Privada en los Recintos Aeronáuticos.
+
+o) Resolución exenta Nº 729, de 2017, que aprueba la primera enmienda a la segunda edición de la DAN 17 02 Servicios de Seguridad Privada en los Recintos Aeronáuticos.
+
 Considerando:
 
 La necesidad de mantener actualizadas las normas que regulan el funcionamiento de los servicios de seguridad privada en los aeropuertos y en otros espacios sometidos al control de la autoridad aeronáutica,
 
 Resuelvo:
+
+> **Nota.** La Resolución 778 Exenta, Defensa, publicada el 13.10.2017, dispone incorporar los literales n) y o), sin embargo, tales letras ya existen en el texto de la presente norma, razón por la cual han sido incorporadas a continuación de la letra p.
 
 1. Apruébase la segunda edición del DAN 17 02 Servicios de Seguridad Privada en los Recintos Aeronáuticos.
 
@@ -126,7 +132,7 @@ III. MATERIA CAPÍTULO 1 GENERALIDADES 1.1 Conforme al artículo 1° del DL 3.60
 
 - **a)** Idoneidad Cívica 1. Presentar fotocopia autorizada de la cédula nacional de identidad por ambos lados. 2. Certificado de antecedentes para fines especiales. No haber sido condenado por crimen, simple delito o cuasidelito.
 
-- **b)** Idoneidad Profesional. Acreditar tarjeta OS-10 vigente de Carabineros de Chile para la actividad a la cual requiera ser autorizado (la cual será reconocida como instrucción inicial según el título 5.2). Se exceptúa de este requisito: 1. El jefe de seguridad que acredite experiencia laboral por más de 10 años en un aeródromo y demuestre antecedentes académicos con un mínimo de 400 horas en materias de seguridad privada o aeroportuaria. 2. El técnico en mantenimiento de equipos de rayos X. 3. El operador de equipos de rayos X. 4. El encargado de seguridad.
+- **b)** Idoneidad Profesional. Acreditar tarjeta OS-10 vigente de Carabineros de Chile para la actividad a la cual requiera ser autorizado (la cual será reconocida como instrucción inicial según el título 5.2). Se exceptúa de este requisito: 1. El jefe de seguridad que acredite experiencia laboral por más de 10 años en un aeródromo o en las Fuerzas Armadas o en las Fuerzas de Orden y Seguridad Pública, y que demuestre antecedentes académicos con un mínimo de 400 horas en materias de seguridad ciudadana, pública, nacional, privada, aeroportuaria o similar. 2. El técnico en mantenimiento de equipos de rayos X. 3. El operador de equipos de rayos X. 4. El encargado de seguridad.
 
 - **c)** Idoneidad Profesional. Acreditar tarjeta OS-10 vigente de Carabineros de Chile para la actividad a la cual requiera ser autorizado (la cual será reconocida como instrucción inicial según el título 5.2). Se exceptúa de este requisito al técnico en mantenimiento u operación de equipos de rayos X, y los jefes de seguridad que acrediten experiencia laboral por más de 10 años en aeródromos y antecedentes académicos con un mínimo de 400 horas académicas en materias de seguridad privada o aeroportuaria.
 
@@ -213,3 +219,5 @@ III. MATERIA CAPÍTULO 1 GENERALIDADES 1.1 Conforme al artículo 1° del DL 3.60
 > **Nota.** NOTA 2 El numeral 1 de la Resolución 729 Exenta, Defensa, publicada el 13.09.2017, eliminó en el Ítem IV Vigencia la oración "en el Diario Oficial", sin embargo el cambio fue realizado en el Ítem V. VIGENCIA.
 
 > **Nota.** NOTA 3 El numeral 1 de la Resolución 729 Exenta, Defensa, publicada el 13.09.2017, reemplaza los anexos C, D, E, F, G, incorporando ademas los anexos H e I, los que no han podido ser reemplazados, tampoco incorporados por no haber sido publicados.
+
+> **Nota.** NOTA 4 La Resolución 778 Exenta, Defensa, publicada el 13.10.2017, dispone reemplazar el numeral 1 de la letra c) del párrafo 4.2.3, sin embargo, el numeral 1 aludido se encuentra en la letra b de la presente norma.
