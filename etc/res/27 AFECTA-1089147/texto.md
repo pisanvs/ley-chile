@@ -52,7 +52,7 @@ Serán "beneficiarias finales", en adelante también "subprestatarios" del Progr
 
 No serán financiables con el Programa de Crédito ERNC las operaciones de crédito dirigidas a personas naturales o jurídicas relacionadas en propiedad o gestión, en los términos establecidos en el artículo 100 de la Ley N°18.045 sobre Mercado de Valores, con el Intermediario Financiero, con sus sociedades filiales o coligadas o relacionadas con altos ejecutivos o apoderados legales, judiciales o convencionales de éstas o aquél.
 
-De la misma forma, no serán financiables las operaciones de crédito dirigidas a empresas relacionadas en propiedad o gestión, con empresas eléctricas que sean propietarias de proyectos de generación eléctrica operando en sistemas eléctricos de tamaño superior a 1.500 kilovatios o kilowatts, en los términos establecidos precedentemente.
+Inciso Eliminado
 
 ### 3. Créditos elegibles y monto máximo de los créditos
 
