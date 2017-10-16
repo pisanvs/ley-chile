@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Decreto MOP Exento Nº 1155 de 27 de septiembre de 2017, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió los lotes de terreno 14 y 17, Rol de avalúo 177-84, Comuna de San Clemente, superficie 377 y 827 m2. respectivamente, para la obra MEJORAMIENTO RUTA K-635/573, SECTOR: DUAO - SAN DIEGO - CRUCE RUTA 115-CH, COMUNAS DE SAN CLEMENTE Y MAULE, PROVINCIA DE TALCA, VII REGIÓN DEL MAULE. La comisión de peritos, integrada por Patricio Ulises Durán Marcos, Paula Soledad González Ortega y Rodrigo Antonio Silva Lazo, fijó el valor de tasación con fecha 13 de octubre de 2015 complementado por acta de 15 de noviembre de 2016, acordándose la indemnización con su propietaria SOCIEDAD DE CONSTRUCCIONES SPA, en la cantidad de $12.072.643.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
