@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1.079, de 06 de septiembre de 2017, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP Nº 206 de 1960, se expropiaron los lotes de terreno N°s. 109 y 113, para la obra: REPOSICION RUTA A-27, SECTOR LOTEO MONTALVO - SAN MIGUEL DE AZAPA, que figura a nombre de DUNSTAN PAVEZ ROXANA DEL CARMEN y SANTELICES QUELOPANA HUGO, roles de avalúo 3410-167 y 3410-112, Comuna de ARICA, XV REGION, superficies 877 y 701 m2 respectivamente. La Comisión de Peritos integrada por LUIS BERNARDO AGUILERA CABRERA, ANGELICA YANETT SEURA ROJAS y CLAUDIO ANDRES CONCHA GROSSI, mediante informe de tasación de 30 de octubre de 2013, fijó el monto de la indemnización provisional en la cantidad de $30.156.000 para el lote Nº109, y $17.611.000 para el lote Nº113. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+.
