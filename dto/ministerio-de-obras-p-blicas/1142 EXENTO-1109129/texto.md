@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Decreto MOP Exento Nº 1142 de 27 de septiembre de 2017, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 65, Rol de avalúo 1157-264, Comuna de Bulnes, superficie 337 m2., para la obra REPOSICION RUTA 148, SECTOR: CRUCE RUTA 5 - PUENTE QUEIME, COMUNA DE BULNES, PROVINCIA DE ÑUBLE, REGION DEL BIO BIO. La comisión de peritos, integrada por Valeska Carolina Alé Goñi, María Pamela Mac-Guire Acevedo y Valeria del Carmen Mardonez Lema, fijó el valor de tasación con fecha 20 de octubre de 2016, acordándose la indemnización con su propietario LUIS EDELBERTO ASENJO SOTO, en la cantidad de $2.789.854.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
