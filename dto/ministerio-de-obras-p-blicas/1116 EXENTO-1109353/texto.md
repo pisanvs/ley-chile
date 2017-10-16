@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP. N° 1015, de 29 de agosto de 2017, complementado por Decreto MOP N°1116, de 15 de septiembre de 2017, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°514, de 23 de julio de 2015, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°4, expropiado con motivo de la obra: "Construcción Sendas Peatonales/Ciclovias Ruta DVRM II Etapa Ruta G-490, Comuna de Buin, Provincia de Maipo, Región Metropolitana. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 17 de agosto de 2014, rectificada por acta de fecha 1 de marzo de 2017, ascendente a la cantidad $5.823.343.-para el lote N°4, que figura a nombre de "Lopez Crispin Luis Abraham y otros", según rol de avalúo 4250-3, de la comuna de Buin.
+
+Fiscal MOP.
