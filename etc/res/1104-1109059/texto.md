@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 1.104 de 04/10/2017, conforme al artículo 51 ley 16.391, DL 2186, de 1978 y DL 1305, de 1976 de Vivienda y Urbanismo, el Serviu XIV Región se expropió el lote Nº 22-S, ubicado en General Lagos 891 BD 1, de 140,8 m2 de superficie de terreno, Rol de avalúo 167-51, que forma parte de un terreno de mayor extensión, comuna de Valdivia, de aparente dominio de Patricio Alejandro Walker Mesina para destinarlo al Proyecto "Habilitación Sector Cabezal (Estribo) Oriente Pte. Cochrane, Valdivia". La Comisión de peritos nombrada por resolución exenta Nº 1.030 de 15/09/2017 del Serviu XIV Región, integrada por las señoras María Soledad Núñez Arroyo, doña Yaschala Maribel Yañez Riffo, y por doña María Isabel de Jesús Ríos Marcuello, según informe de fecha 27/09/17 fijó un monto de indemnización provisional en la cantidad de $94.565.301.- La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del DL 2186, de 1978.
+
+.
