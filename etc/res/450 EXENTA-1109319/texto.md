@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL Nº 0504-0315-0120005622, DEL BANCO BILBAO VIZCAYA ARGENTARIA (CHILE), SUCURSAL LOS ÁNGELES, DEL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL IPS LOS ÁNGELES
+
+Por resolución exenta Nº 450, de 14 de septiembre de 2017, del Director Nacional del Instituto de Previsión Social, se delega en funcionarios del Centro de Atención Previsional Integral IPS Los Ángeles, la facultad de operar la cuenta corriente denominada Giradora Local Nº 0504-0315-0120005622, del Banco Bilbao Vizcaya Argentaria (Chile), destinada al pago de beneficios previsionales y gastos del Instituto de Previsión Social, que este organismo abrió en la Oficina Principal del Banco Bilbao Vizcaya Argentaria (Chile).
+
+Santiago, 10 de octubre de 2017.- Patricio Coronado Rojo, Director Nacional.
