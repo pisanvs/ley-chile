@@ -16,7 +16,7 @@ Decreto:
 
 #### Artículo único
 
-Declárase zona seca la comuna de Andacollo, provincia de Elqui, Región de Coquimbo, los días domingo 8 de octubre y martes 26 de diciembre del año 2017, entre las 00 horas y las 24 horas.
+Declárase zona seca la comuna de Andacollo, provincia de Elqui, Región de Coquimbo, los días domingo 1 de octubre y martes 26 de diciembre del año 2017, entre las 00 horas y las 24 horas.
 
 Anótese, tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.
 
