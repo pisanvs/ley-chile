@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 719 EXENTA, DE 26 DE SEPTIEMBRE DE 2017
+
+Por resolución exenta N° 719, de 26 de septiembre de 2017, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, aprobó el programa de enseñanza de la "Escuela de Conducir Colchagua Limitada", conducente a la obtención de Licencias de Conductor No Profesionales Clase B. La Escuela de Conductores representada legalmente por doña Paz Leonor Acuña Contreras y don Fernando Salomón Piñeiro Ulloa, tendrá como Director a don Fernando Salomón Piñeiro Ulloa, y su sede estará ubicada en Avenida Errázuriz N° 471-D, piso 2, comuna de Santa Cruz. Las horas pedagógicas autorizadas a la referida Escuela son 10 horas teóricas, 13 hora prácticas, con un total de 23 horas pedagógicas.-
+
+Francisco Javier Lara Acevedo, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
