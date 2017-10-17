@@ -20,11 +20,11 @@ La necesidad de atender a las familias que requieren acondicionar térmicamente 
 
 Resolución:
 
-1. Llámase a postulación regional, para el otorgamiento de subsidios del Título II del Programa de Protección del Patrimonio Familiar, destinados al acondicionamiento térmico de la vivienda, conforme a lo indicado en el Artículo 6 bis del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente proyectos, que cuenten con Certificado de Calificación hasta el último día hábil de cada mes, a partir del mes de abril y hasta el mes de diciembre del año 2017.
+1. Llámase a postulación regional, para el otorgamiento de subsidios del Título II del Programa de Protección del Patrimonio Familiar, destinados al acondicionamiento térmico de la vivienda, conforme a lo indicado en el artículo 6 bis del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente proyectos, que cuenten con Certificado de Calificación hasta el último día hábil de cada mes, a partir del mes de abril y hasta el mes de noviembre del año 2017.
 
 2. Los proyectos que se encuentren previamente ya calificados y cumplan con las condiciones de este llamado, podrán ser postulados y seleccionados a partir de la fecha de esta resolución.
 
-3. Los recursos asignados para la selección de los proyectos postulantes en este llamado corresponden a 56.000 UF.
+3. Los recursos asignados para la selección de los proyectos postulantes en este llamado corresponden a 32.000 UF.
 
 4. Conforme a lo indicado en el Artículo 6º bis del DS Nº 255 (V. y U.), de 2006, el proyecto presentado debe considerar que la vivienda, una vez intervenida, cumpla con las exigencias de Acondicionamiento Térmico establecidas en el artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, para la zona térmica 7, definida en la resolución N° 482 (V. y U.), de 1999. Para acreditar el cumplimiento de la señalada exigencia de acondicionamiento térmico, los proyectos presentados deben incluir el detalle de la vivienda sin intervenir y de la vivienda una vez intervenida, señalando la forma en que se da cumplimiento a la misma, según formato adjunto para tal efecto.
 
