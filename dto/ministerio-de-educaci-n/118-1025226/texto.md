@@ -32,31 +32,19 @@ CONCURSO DE PROYECTOS EN ZONAS RURALES QUE PERMITAN EL TRANSPORTE DE ALUMNOS ENT
 
 El Ministerio de Educación destinará recursos financieros a concursos de proyectos en zonas rurales que permitan el transporte de alumnos y alumnas, matriculados en establecimientos educacionales regidos por el DFL de Educación Nº 2 de 1998 y por el DL Nº 3.166 de 1980 entre su hogar y tales establecimientos, para lo cual se aprobarán las bases especiales que regularán el o los concursos respectivos.
 
-Se entenderá por zonas rurales para los efectos del presente reglamento a aquellas que comprendan a establecimientos educacionales que tengan domicilio en comunas con índice de ruralidad igual o superior a un 25% según el "Sistema Nacional de Información Municipal", administrado por la Subsecretaria de Desarrollo Regional, dependiente del Ministerio del Interior, y a las comunas consideradas por el Ministerio de Educación en situación de aislamiento crítico.
+Se entenderá por zonas rurales para los efectos del presente reglamento a aquellas comunas que comprendan a establecimientos educacionales que hayan recibido la subvención de ruralidad o la subvención mínima, a las que se refiere el artículo 12 del DFL de Educación Nº 2 de 1998, el año anterior a su postulación y que además tengan un porcentaje de matrícula rural, que es aquella matrícula correspondiente a establecimientos rurales, mayor o igual a un 14% en relación a su matrícula urbana; y las comunas consideradas por el Ministerio de Educación en situación de aislamiento crítico.
 
 Se entenderá por comunas consideradas en situación de aislamiento crítico para los efectos del presente reglamento, aquellas con aislamiento geográfico en términos de lejanía, accesibilidad y agresividad del medio.
 
 #### Artículo 5º
 
-Constitúyese una Comisión de Preselección encargada de presentar al Ministro de Educación una propuesta de adjudicación de los proyectos presentados en el o los concursos, la que estará integrada por el Subsecretario de Educación o a quien éste designe para estos efectos, quien la presidirá; el Jefe de la División de Planificación y Presupuesto del Ministerio de Educación o a quien éste designe para estos efectos; y por dos funcionarios designados por el Jefe de la División de Planificación y Presupuestos del Ministerio de Educación y por un funcionario designado por el Jefe de la División de Educación General del Ministerio de Educación.
+Constitúyese una Comisión de Preselección encargada de presentar al Subsecretario de Educación una propuesta de adjudicación de los proyectos presentados en el o los concursos, la que estará integrada por quien el Subsecretario designe para estos efectos, quien la presidirá; el Jefe de la División de Planificación y Presupuesto de la Subsecretaría de Educación o a quien este designe para estos efectos; por dos funcionarios designados por el Jefe de la División de Planificación y Presupuesto; y por un funcionario designado por el Jefe de la División de Educación General la Subsecretaría de Educación.
 
 El Subsecretario de Educación podrá resolver situaciones especiales de asignación de proyectos.
 
 #### Artículo 6º
 
-Para asegurar la objetividad de la selección, los proyectos serán evaluados considerando los siguientes criterios: pertinencia, focalización, evaluabilidad, relación costo - beneficio, presupuesto y sustentabilidad. Para estos efectos se entenderá por:
-
-a) Pertinencia: La relación existente entre los objetivos y metas propuestas, que sean congruentes, adecuadas y efectivas para solucionar las necesidades y problemas descritos en los diagnósticos, los cuales deben adecuarse a los objetivos del programa.
-
-b) Focalización: La centralización de las acciones y recursos en las poblaciones más vulnerables y de menores recursos, entendiendo por poblaciones vulnerables aquellas que por su situación socioeconómica y su lugar geográfico de residencia tienen mayor riesgo de exclusión, o están excluidos del sistema formal educacional, y específicamente en este caso por las problemáticas relacionadas con el transporte escolar.
-
-c) Evaluabilidad: Se considerarán las metas propuestas en relación a la asistencia de los alumnos beneficiarios y evaluación del logro de sus objetivos y el cumplimiento de las actividades que el proyecto se haya propuesto, indicando las formas, metodologías y/o instrumentos a través de los cuales éstas se monitorearán y evaluarán.
-
-d) Relación Costo-Beneficio: Que las acciones o actividades irradien sus efectos positivos sobre la mayor cantidad de beneficiarios posibles, cautelando los costos de las mismas.
-
-e) Presupuesto: La previsión del costo de la implementación del mismo. El presupuesto total se calcula mediante la suma de los ítems que componen la propuesta, es decir, recursos humanos, gastos operacionales y equipamiento, los cuales deben estar debidamente justificados, como asimismo, los valores deben encontrarse consignados de acuerdo a los valores del mercado.
-
-f) Sustentabilidad: La capacidad de los proyectos de ser sustentables en el tiempo, para lo cual deben contener en la formulación del diseño los elementos que permitan asegurar la continuidad del proyecto.
+En lo que dice relación con la selección y evaluación de los proyectos presentados, estos serán evaluados considerando los siguientes criterios: pertinencia, focalización, evaluabilidad, relación costo-beneficio, presupuesto y sustentabilidad. Tanto la jerarquización como la ponderación de los criterios señalados serán establecidos en las bases del respectivo concurso
 
 #### Artículo 7º
 
@@ -64,7 +52,7 @@ Podrán participar en el o los concursos los establecimientos educacionales a tr
 
 Para estos efectos podrán postular los establecimientos educacionales ya mencionados, que cumplan con al menos uno de los siguientes requisitos:
 
-a) Establecimientos educacionales ubicados en comunas con un porcentaje de población rural igual o superior a un 25% según el Sistema Nacional de Información Municipal.
+a) Establecimientos educacionales que hayan recibido, indistintamente, la subvención de ruralidad o la subvención mínima, a las que se refiere el artículo 12 del DFL de Educación Nº 2, de 1998, el año antes de su postulación.
 
 b) Establecimientos educacionales ubicados en las comunas consideradas en situación de aislamiento crítico por el Ministerio de Educación, esto es: General Lagos, Putre, Isla de Pascua, Juan Fernández, Hualaihué, Futaleufú, Chaitén, Palena, Guaitecas, Lago Verde, Río Ibáñez, Tortel, O'Higgins, Cabo de Hornos, Timaukel, Chile Chico, Cochrane, Puerto Natales y Ollagüe.
 
@@ -78,11 +66,11 @@ La determinación de la naturaleza y monto de las garantías será fijado en con
 
 #### Artículo 9º
 
-Efectuada la selección por la Comisión del artículo 5º atendiendo los criterios del artículo 6º y las ponderaciones establecidas en las bases del o los concursos, ella presentará su propuesta de selección de los proyectos al Ministro de Educación, quien decidirá fundadamente acerca de la adjudicación de los mismos, dictando para ello la respectiva resolución administrativa.
+Efectuada la selección por la Comisión atendiendo los criterios del artículo 6º y las ponderaciones establecidas en las bases del o los concursos, ella presentará su propuesta de selección de los proyectos al Subsecretario de Educación, quien decidirá fundadamente acerca de la adjudicación de los mismos, dictando para ello la respectiva resolución administrativa.
 
 #### Artículo 10
 
-Las Secretarías Regionales Ministeriales de Educación tendrán la facultad de suscribir y aprobar administrativamente los convenios celebrados con los sostenedores, representantes legales y/o administradores de los establecimientos educacionales adjudicatarios, cuyos proyectos hayan sido seleccionados en el marco de la ejecución del Programa que trata este decreto por un monto de hasta 320 U.T.M.
+Las Secretarías Regionales Ministeriales de Educación tendrán la facultad de suscribir y aprobar administrativamente los convenios celebrados con los sostenedores, representantes legales y/o administradores de los establecimientos educacionales adjudicatarios, cuyos proyectos hayan sido seleccionados en el marco de la ejecución del Programa que trata este decreto por un monto de hasta 720 U.T.M.
 
 Los convenios suscritos deberán considerar entre otros aspectos:
 
@@ -102,15 +90,11 @@ g) La facultad del Ministerio de Educación de poner término anticipado al conv
 
 h) La obligación de devolución de los recursos no empleados o no comprometidos en el proyecto.
 
-#### Artículo 11
+#### Artículo 11º
 
-El Ministerio de Educación, a través de las Secretarías Regionales Ministeriales, transferirá los recursos financieros, en los siguientes términos:
+El Ministerio de Educación, a través de las Secretarías Regionales Ministeriales, transferirá los recursos financieros según los montos y sujeto a la modalidad que se establezca a través de las bases del respectivo concurso.
 
-- la primera cuota, equivalente a un 70% del valor total del monto adjudicado, dentro de los diez días siguientes a la fecha de total tramitación del acto administrativo que apruebe el convenio, siempre que se hayan entregado las garantías respectivas.
-
-- la segunda cuota, equivalente al saldo del aporte se entregará previo informe de avance y rendición de cuentas, de las actividades realizadas a esa fecha aprobado por la Sección de Planificación y Presupuesto respectiva y dentro de los cinco días siguientes a tal aprobación.
-
-Lo anterior es sin perjuicio que, en casos fundados calificados así por el Ministerio de Educación, por la propia naturaleza del proyecto, se determine la entrega de recursos en una cuota, una vez totalmente tramitado el acto administrativo que apruebe el convenio, y entregadas las garantías respectivas.
+En casos fundados calificados así por el Ministerio de Educación, por la propia naturaleza del proyecto, se podrá realizar la entrega de recursos en una sola cuota, una vez totalmente tramitado el último acto administrativo que apruebe el convenio y entregadas las garantías respectivas en caso de que procedan.
 
 #### Artículo 12
 
@@ -120,23 +104,17 @@ a) Número de Establecimientos: Cantidad de establecimientos que hayan sido invo
 
 b) Cobertura Estudiantil: Cantidad de alumnos beneficiados a través de la ejecución del proyecto presentado.
 
-El monto máximo a financiar será de 320 U.T.M. para cada proyecto presentado de forma individual.
+El monto máximo a financiar se fijará a través de las bases del respectivo concurso, según disponibilidad presupuestaria del año de que se trate.
 
-Los proyectos tendrán una duración máxima de nueve meses, a contar de la fecha de total tramitación del acto administrativo que apruebe el convenio y se cumplirá dentro del año lectivo.
+La duración máxima de los proyectos, así como los plazos de ejecución y vigencia de los mismos, serán fijados a través de las bases del respectivo concurso.
 
 #### Artículo 13
 
-Los establecimientos educacionales adjudicatarios o beneficiarios, a través de sus sostenedores, representantes legales o administradores, rendirán cuenta de los fondos aportados por el Ministerio de Educación, de acuerdo con las normas establecidas en la resolución Nº 759, de 23 de diciembre de 2003, emanada de la Contraloría General de la República, dentro de los 30 días siguientes al término de vigencia del proyecto adjudicado, directamente a la Secretaría Regional Ministerial de Educación respectiva.
+Los sostenedores beneficiarios del concurso, rendirán cuenta de los fondos aportados por el Ministerio de Educación, de acuerdo con las normas establecidas en la resolución Nº 30, de 2015, de la Contraloría General de la República.
 
 #### Artículo 14
 
 La ejecución de las actividades del Programa comprende la celebración de contratos de prestación de servicios y la ejecución de los actos jurídicos necesarios para la implementación de las actividades señaladas en el presente reglamento, mediante la celebración de acuerdos de voluntades con personas naturales y/o jurídicas.
-
-#### Artículo 15
-
-El Ministerio de Educación financiará los gastos que demanden la aplicación y ejecución de las actividades del Programa de Transporte Rural con cargo a los recursos que anualmente se determinen en la Ley de Presupuestos del Sector Público.
-
-Para el año 2011 los gastos que genere la ejecución del presente decreto, se imputarán a la Partida 09, Capítulo 01, Programa 03, Subtítulo 24, Ítem 03, Asignación 614, Glosa Nº 10, de la Ley Nº 20.481, de Presupuestos del Sector Público para el año 2011.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Joaquín Lavín Infante, Ministro de Educación.
 
