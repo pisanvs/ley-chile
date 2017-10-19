@@ -590,7 +590,7 @@ Los Consejeros del Servicio Exterior deberán aprobar en la Academia un curso o 
 
 Cada Consejero deberá haber sido convocado al referido curso o seminario al cumplir cuatro años en el grado conforme a lo dispuesto en el artículo 25° del D.F.L. N°33 de 1979, del Ministerio de Relaciones Exteriores.
 
-Los cursos o seminarios incluirán una tesis escrita que será defendida por el alumno en el examen final.
+Los cursos o seminarios incluirán una evaluación final.
 
 Los Consejeros que no aprueben la exigencia académica a que se refiere este artículo serán convocados nuevamente antes de cumplir diez años en el grado y siempre que se encuentren en Chile.
 
