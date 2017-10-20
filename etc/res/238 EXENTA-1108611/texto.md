@@ -24,6 +24,8 @@ Resuelvo:
 
 1. Prohíbase la circulación de todo tipo de vehículos motorizados en la provincia del Huasco, en las rutas y sectores que se detallan a continuación:
 
+.
+
 2. Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
 3. Los vehículos motorizados, que en su trayecto tengan como vía de circulación las señaladas en el resuelvo Nº 1, deberán adoptar vías alternativas para el tránsito por el sector, mientras que los vehículos de transporte público de pasajeros, no serán afectados con la medida.
