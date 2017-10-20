@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados en calzada completa poniente de Avenida Volcán Doña Inés, en el tramo comprendido entre calles Carmen Vilchez y Pan de Azúcar, de la comuna de Copiapó, desde el día 1 de agosto de 2017 hasta el día 1 de octubre 2017, para la ejecución de las obras "Conexión Alcantarillado Público por calzada poniente de Av. Volcán Doña Inés Altura sector calle Pan de Azúcar".
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados en calzada completa poniente de Avenida Volcán Doña Inés, en el tramo comprendido entre calles Carmen Vilchez y Pan de Azúcar, de la comuna de Copiapó, desde el día 1 de agosto de 2017 hasta el día 31 de octubre de 2017, para la ejecución de las obras "Conexión Alcantarillado Público por calzada poniente de Av. Volcán Doña Inés Altura sector calle Pan de Azúcar".
 
 2.- Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
