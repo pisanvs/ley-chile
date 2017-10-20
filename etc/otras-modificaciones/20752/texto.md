@@ -310,7 +310,7 @@ DISPOSICIONES TRANSITORIAS
 
 #### Artículo primero
 
-La modificación de las plantas de los Tribunales Tributarios y Aduaneros dispuesta por la letra b) del número 1) del artículo 1º de la presente ley, respecto de los cargos que a la fecha de su publicación se encontraren siendo servidos, se producirá una vez que el cargo respectivo quedare vacante por las causales legales correspondientes.
+Derogado.
 
 #### Artículo segundo
 
