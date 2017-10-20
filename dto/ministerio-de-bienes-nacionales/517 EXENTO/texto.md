@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DEL BIOBÍO, AL "CLUB DEPORTIVO ATLAS"
+
+Mediante decreto exento Nº E-517, de 18 de octubre de 2017, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, al "Club Deportivo Atlas", RUT Nº 65.141.850-4, el inmueble fiscal que corresponde al Lote B, ubicado en Avenida Las Industrias Pedro Stark Troncoso Nº 5705, Campamento Vialidad-El Avellano, comuna de Los Ángeles, provincia y Región del Biobío; Rol Servicio de Impuestos Internos Nº 1503-48; inscrito en mayor cabida a nombre del Fisco a fojas 338 Nº 409, del Registro de Propiedad del Conservador de Bienes Raíces de Los Ángeles, correspondiente al año 1964; individualizado en el Plano Nº VIII-4-16856-C.U.; de una superficie total de 9.812,75 metros cuadrados. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble al desarrollo del proyecto deportivo denominado "Complejo Deportivo", comuna de Los Ángeles. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza Extracto.-
+
+Magdalena Badilla Rodríguez, Jefa de División Jurídica.
