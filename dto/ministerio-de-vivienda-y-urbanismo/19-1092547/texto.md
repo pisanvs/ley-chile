@@ -276,15 +276,15 @@ Además, el Minvu podrá entregar a las Entidades Desarrolladoras que hayan susc
 
 Inicio de Obras y Recepción Municipal.
 
-El plazo máximo para iniciar obras no podrá exceder de 60 días corridos, contados desde la fecha de la resolución que aprueba el convenio suscrito entre el Serviu y la Entidad Desarrolladora. En todo caso, las obras no se entenderán iniciadas mientras no se cuente con el permiso de edificación del proyecto, entregado por la DOM.
+El plazo máximo para iniciar obras no podrá exceder de 90 días corridos, contados desde la fecha de la resolución que aprueba el convenio suscrito entre el Serviu y la Entidad Desarrolladora. En todo caso, las obras no se entenderán iniciadas mientras no se cuente con el permiso de edificación del proyecto, entregado por la DOM.
 
 El plazo para el inicio de las obras podrá prorrogarse, por razones fundadas calificadas por el Director del Serviu, por una sola vez, por un máximo de hasta 60 días corridos. La Entidad Desarrolladora deberá comunicar el inicio de las obras al Serviu, lo que deberá ser verificado por este.
 
-También por razones fundadas, calificadas por el Director Serviu, se podrá otorgar un nuevo plazo a la Entidad Desarrolladora para iniciar obras, por una sola vez, el que en todo caso no podrá exceder de 150 días, contados desde la fecha de la resolución que aprueba el convenio a que se refiere el inciso primero precedente.
+También por razones fundadas, calificadas por el Director Serviu, se podrá otorgar un nuevo plazo a la Entidad Desarrolladora para iniciar obras, por una sola vez, el que en todo caso no podrá exceder de 180 días, contados desde la fecha de la resolución que aprueba el convenio a que se refiere el inciso primero precedente.
 
 El plazo para la recepción municipal del total de las viviendas del proyecto, será de hasta 18 meses a contar del primer día del mes siguiente al de la fecha del inicio de las obras, y sólo podrá prorrogarse en una sola oportunidad y hasta por 180 días, mediante resoluciones fundadas del Secretario Regional Ministerial de Vivienda y Urbanismo. La prórroga de este plazo solo podrá autorizarse con anterioridad a su vencimiento.
 
-El Serviu deberá verificar el inicio de las obras y de forma mensual, su avance conforme a lo programado y el cumplimiento del proyecto aprobado y sus especificaciones técnicas, en relación a las exigencias técnicas del presente decreto y las características del proyecto, registrando en el libro de obras y en el sistema informático dispuesto por el Minvu, la visita y cualquier modificación al proyecto que altere las condiciones de aprobación, la que deberá ser informada al Serviu, el que deberá analizar la pertinencia y evaluar la modificación propuesta, que en ningún caso deberá ir en desmedro del proyecto aprobado.
+El Serviu deberá verificar el inicio de las obras y de forma mensual, su avance conforme a lo programado y el cumplimiento del proyecto aprobado y sus especificaciones técnicas, en relación a las exigencias técnicas del presente decreto y las características del proyecto, registrando en el libro de obras y en el sistema informático dispuesto por el Minvu, la visita y cualquier modificaci�n al proyecto que altere las condiciones de aprobación, la que deberá ser informada al Serviu, el que deberá analizar la pertinencia y evaluar la modificación propuesta, que en ningún caso deberá ir en desmedro del proyecto aprobado.
 
 ### Párrafo V — De la Postulación al Subsidio, los Llamados, la Incorporación de Beneficiarios y la Asignación de Subsidios.
 
@@ -338,7 +338,7 @@ Los beneficiarios de estos llamados especiales podrán aplicar los subsidios sol
 
 Incorporación de Familias.
 
-Una vez seleccionado el proyecto y suscrito el convenio señalado en el artículo 14°, la Entidad Desarrolladora podrá efectuar la incorporación de familias beneficiarias de un subsidio habitacional obtenido en alguno de los programas de vivienda del Minvu mencionados en el artículo 2° del presente Reglamento, y la reserva de subsidios para su asignación solo para familias de sectores medios, las que deberán cumplir con lo señalado en el artículo 16° de este decreto, a excepción de lo establecido en el número 2 de su letra b), pudiendo operar al efecto mediante los sistemas electrónicos que disponga el Minvu para tales fines.
+Una vez seleccionado el proyecto y suscrito el convenio señalado en el artículo 14°, la Entidad Desarrolladora podrá efectuar la incorporación de familias beneficiarias de un subsidio habitacional obtenido en alguno de los programas de vivienda del Minvu mencionados en el artículo 2° del presente Reglamento, y la reserva de subsidios para su asignación solo para familias de sectores medios, las que deberán cumplir con lo señalado en el artículo 16° de este decreto, pudiendo operar al efecto mediante los sistemas electrónicos que disponga el Minvu para tales fines.
 
 En caso de la asignación de subsidios a familias de sectores medios, en la respectiva escritura de compraventa deberá quedar consignado el ahorro que destinará a la adquisición de la vivienda, debiendo ser como mínimo el señalado en la tabla de la letra b) del artículo 3° de este decreto, siendo de responsabilidad de la entidad desarrolladora el cumplimiento del requisito de ahorro.
 
