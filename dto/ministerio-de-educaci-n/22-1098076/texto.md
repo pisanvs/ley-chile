@@ -36,7 +36,7 @@ b) Fondo: Fondo de Garantía de Infraestructura Escolar creado en virtud del art
 
 c) Comisión tasadora: Instancia constituida por tres peritos de reconocida experiencia en el rubro, encargada de conocer la impugnación que haga el sostenedor y/o Corfo, de la tasación realizada por la empresa bancaria.
 
-d) Perito: Profesional del área de la construcción, debidamente inscritos en la Primera y Segunda Categoría del Registro Nacional de Consultores establecido en el decreto supremo N° 135, de 1978, del Ministerio de Vivienda y Urbanismo.
+d) Perito: Persona Natural o Jurídica de la subespecialidad de tasaciones, debidamente inscrito en la Primera y Segunda Categoría del Registro Nacional de Consultores establecido en el decreto supremo N° 135, de 1978, del Ministerio de Vivienda y Urbanismo. Tratándose de Personas Jurídicas, éstas deberán designar a un profesional que las represente.
 
 e) Días hábiles: Días de la semana, con excepción de los sábados, domingos y festivos, de acuerdo a lo establecido en el artículo 25 de la ley N° 19.880.
 
@@ -68,9 +68,11 @@ h) Cálculo actualizado de la capacidad máxima autorizada del establecimiento e
 
 i) Informe de la matrícula promedio, de los últimos tres años previos al de la solicitud de la garantía determinada de acuerdo al artículo 12 del decreto supremo N° 8.144, de 1980, del Ministerio de Educación, que será entregado por el Ministerio de Educación, mediante una comunicación escrita.
 
-j) Estado financiero de acuerdo a la ley N° 20.529.
+j) Estado financiero de acuerdo a la ley N° 20.529, junto con el detalle la de rendición de cuentas del establecimiento educacional de los últimos 3 años anteriores a la solicitud de la Garantía de Infraestructura Escolar.
 
-k) Otros que la Comisión pueda solicitar fundadamente para efectos de determinar el valor de tasación de los establecimientos educacionales.
+k) Documento que contenga la información de los ingresos indicados en el inciso segundo del artículo duodécimo transitorio de la ley, de los últimos tres años previos a la solicitud de la Garantía de Infraestructura Escolar.
+
+l) Otros que la Comisión pueda solicitar fundadamente para efectos de determinar el valor de tasación de los establecimientos educacionales.
 
 Sin perjuicio de lo anterior, la Comisión Tasadora podrá eximir la presentación de algunos de los documentos señalados precedentemente en casos calificados por ésta. Por otra parte, Corfo deberá proporcionar a la comisión tasadora los documentos pertinentes a la tasación, presentados por el sostenedor en la solicitud de garantía de infraestructura educacional.
 
@@ -108,9 +110,9 @@ De los mecanismos de notificación, reclamos e impugnación de la tasación
 
 #### Artículo 6°
 
-Presentada la solicitud de garantía, en los términos señalados en el decreto supremo N° 526, de 2015, del Ministerio de Educación, el sostenedor podrá impugnar la tasación bancaria, dentro del plazo de diez días hábiles contados desde la notificación que le realice Corfo de dicha presentación, debiendo aquel informar a éste de tal impugnación mediante carta certificada con copia a la respectiva institución bancaria, indicando además, el perito y su suplente que propone para integrar la comisión tasadora.
+Presentada la solicitud de garantía, en los términos señalados en el decreto supremo N° 526, de 2015, del Ministerio de Educación, el sostenedor podrá impugnar la tasación bancaria, dentro del plazo de 20 días hábiles contados desde la notificación que le realice Corfo de dicha presentación, debiendo aquel informar a éste de tal impugnación mediante carta certificada con copia a la respectiva institución bancaria, indicando además, el perito y su suplente que propone para integrar la comisión tasadora.
 
-En caso que sea Corfo quien impugne la tasación bancaria, deberá hacerlo dentro de los 10 días hábiles siguientes contados desde la solicitud de garantía mediante resolución, la que deberá notificar al sostenedor, con copia a la empresa bancaria. Habiéndose notificado la impugnación al sostenedor, éste deberá proponer a Corfo su perito y suplente respectivo, dentro del plazo de cinco días hábiles, contados desde la notificación de la respectiva resolución.
+En caso que sea Corfo quien impugne la tasación bancaria, deberá hacerlo dentro de los 20 días hábiles siguientes contados desde la notificación al sostenedor de la presentación indicada en el inciso anterior mediante resolución, la que deberá notificar al sostenedor, con copia a la empresa bancaria. Habiéndose notificado la impugnación al sostenedor, éste deberá proponer a Corfo su perito y suplente respectivo, dentro del plazo de cinco días hábiles, contados desde la notificación de la respectiva resolución.
 
 En caso que el sostenedor y/o Corfo manifiesten su voluntad de impugnar, se deberá constituir la Comisión Tasadora, dentro del plazo de diez días hábiles contados desde la última notificación de la impugnación. Para tales efectos, sostenedor, Corfo, o ambos según corresponda, deberán remitir por carta certificada a la empresa bancaria que hubiere efectuado la tasación, con copia a la otra parte, una comunicación informando que se procederá a designar la Comisión Tasadora.
 
@@ -150,7 +152,7 @@ Si, por una causa sobreviniente, el perito se encontrare imposibilitado de conti
 
 #### Artículo 11
 
-El perito independiente será el presidente de la Comisión Tasadora y tendrá cinco días hábiles desde la notificación de su nombramiento para convocarla. La comisión tasadora deberá constituirse dentro del plazo máximo de diez días hábiles contados desde la convocatoria realizada por el tasador independiente, debiendo posteriormente reunirse en días y horas que ella misma determine en el acto de su constitución. En dicha instancia acordarán, además, las demás normas de funcionamiento, debiendo siempre encontrarse 3 peritos para tomar acuerdos, y aquellas necesarias para llevar a cabo el encargo, incluyendo la aprobación tanto por unanimidad o por mayoría del informe de tasación, según corresponda, todo lo cual se deberá dejar constancia en un acta suscrita por todos sus miembros.
+El perito independiente será el presidente de la Comisión Tasadora y tendrá cinco días hábiles desde la notificación de su nombramiento para convocarla. La comisión tasadora deberá constituirse dentro del plazo máximo de diez días hábiles contados desde la convocatoria realizada por el tasador independiente, debiendo posteriormente reunirse en días y horas que ella misma determine en el acto de su constitución. El acto de constitución deberá informarse tanto a Corfo como al sostenedor, indicando fecha de dicho acto. En dicha instancia acordarán, además, las demás normas de funcionamiento, debiendo siempre encontrarse 3 peritos para tomar acuerdos, y aquellas necesarias para llevar a cabo el encargo, incluyendo la aprobación tanto por unanimidad o por mayoría del informe de tasación, según corresponda, todo lo cual se deberá dejar constancia en un acta suscrita por todos sus miembros.
 
 La comisión tasadora deberá realizar sus labores en un plazo máximo de treinta días hábiles contados desde su constitución.
 
