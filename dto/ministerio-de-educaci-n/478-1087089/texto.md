@@ -118,6 +118,8 @@ iv) Subvención anual de apoyo al mantenimiento, a que se refiere el artículo 3
 
 Se entenderá por ingreso por subvenciones e incrementos, calculado en promedio mensual por alumno, aquel que resulte de dividir el monto total anual de estas subvenciones e incrementos por el número de meses en que haya impetrado la subvención, de acuerdo al artículo 13 de la Ley de Subvenciones, y por la asistencia promedio anual, en cada establecimiento, monto que será expresado en unidades de fomento, considerando el valor de ésta al 31 de agosto de cada año calendario en el que fueron pagadas las subvenciones indicadas en este artículo.
 
+Para la realización del cálculo establecido en el inciso anterior no se considerarán los incrementos de subvención establecidos en el artículo 3, numerales 1) y 2), y en el artículo cuadragésimo octavo transitorio, todos de la ley N° 20.903.
+
 Durante el mes de enero de cada año y a objeto de determinar el aumento del ingreso por subvenciones e incrementos para el año escolar siguiente, se restará el monto por subvenciones e incrementos calculado para el año calendario anterior, del monto de subvenciones e incrementos calculados para el año calendario precedente al anterior. En caso que al aplicar este cálculo, el valor obtenido sea negativo, no habrá modificación del cobro mensual máximo por alumno.
 
 Para obtener el monto de cobro mensual máximo por alumno del año escolar respectivo, se debe restar al Límite Máximo de Cobro Mensual del año escolar anterior, el aumento del ingreso por subvenciones e incrementos, calculado de acuerdo al inciso precedente.

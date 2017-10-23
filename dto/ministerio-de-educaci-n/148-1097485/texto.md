@@ -86,17 +86,21 @@ El cómputo de los plazos del presente reglamento deberá realizarse en días h�
 
 Las instituciones educativas que soliciten conjuntamente el Reconocimiento Oficial y el beneficio de la subvención estatal, según lo establecido en el decreto Nº 315, de 2010, del Ministerio de Educación, deberán presentar la solicitud a más tardar el último día hábil del mes de mayo del año anterior a aquel en que se espera que inicie su funcionamiento reconocido oficialmente.
 
+Los establecimientos educacionales subvencionados gratuitos o bajo régimen de financiamiento compartido que soliciten autorización para crear un nuevo nivel, una modalidad educativa distinta a la impartida, o una nueva especialidad en el caso de los establecimientos técnico-profesionales, percibiendo por primera vez subvención por éstos, deberán así solicitarlo, a más tardar el último día hábil del mes de junio del año anterior a aquel en que se espera impetrar el beneficio. En igual plazo, estos establecimientos deberán presentar la solicitud de ampliación de capacidad, sin perjuicio de lo señalado en el inciso final del artículo 7° de este reglamento.
+
 #### Artículo 5°
 
-Los establecimientos que, contando con Reconocimiento Oficial, quisieran impetrar por primera vez el beneficio de la subvención estatal, deberán presentar la solicitud a más tardar el último día hábil del mes de mayo del año anterior a aquel en que se espera impetrar el beneficio.
+Los establecimientos particulares pagados que deseen impetrar por primera vez el beneficio de la subvención estatal para los niveles, modalidades o especialidades que tengan reconocidas oficialmente, deberán presentar la solicitud a más tardar el último día hábil del mes de mayo del año anterior a aquel en que se espera impetrar el beneficio.
+
+Por su parte, los establecimientos educacionales que deseen impetrar por primera vez el beneficio de la subvención estatal para los niveles, modalidades o especialidades que tengan reconocidas oficialmente, solicitando conjuntamente la autorización para crear un nuevo nivel, modalidad, especialidad en el caso de los establecimientos técnico-profesionales, o aumento de capacidad máxima de atención del local escolar o anexo, deberán presentar la o las solicitudes conjuntamente, a más tardar el último día hábil del mes de mayo del año anterior a aquél en que espera impetrar el beneficio de la subvención estatal.
 
 #### Artículo 6º
 
-Los establecimientos que, contando con Reconocimiento Oficial, deseen solicitar por primera vez el beneficio de la subvención de manera conjunta con la creación de un nivel, una modalidad educativa distinta a la impartida, o una nueva especialidad en el caso de los establecimientos técnico-profesionales, deberán presentar la solicitud a más tardar el último día hábil del mes de junio del año anterior a aquel en que se espera impetrar el beneficio.
+Los establecimientos que deseen solicitar el cambio del régimen de subvención de financiamiento compartido al de subvención para la educación gratuita, deberán presentar la respectiva solicitud hasta el último día hábil del mes de diciembre del año anterior a aquel en que se espera impetrar el beneficio.
 
-Los establecimientos que deseen solicitar por primera vez el beneficio de la subvención de manera conjunta con el aumento en la capacidad máxima de atención del local escolar o anexo, como también, aquellos establecimientos que deseen solicitar el cambio del régimen de subvención de financiamiento compartido al de subvención para la educación gratuita, deberán presentar la respectiva solicitud en el mismo plazo establecido en el inciso anterior.
+El sostenedor que opte por dejar de percibir la subvención de un establecimiento educacional, según lo dispuesto en el artículo decimoséptimo transitorio de la ley Nº 20.845, deberá comunicar de esta decisión por escrito a los padres, madres o apoderados y a la comunidad educativa del establecimiento dentro del mes de marzo del año escolar anterior a aquel en que dejará de percibir subvención, señalando expresamente en ella, si dará o no continuidad al servicio educativo y las medidas que se adoptarán al efecto. Asimismo y en igual mes, deberá presentar esta solicitud al Ministerio de Educación, acreditando que se encuentra al día con el pago de la remuneración y cotizaciones previsionales de su personal docente y asistente de la educación, ambos elementos de admisibilidad respecto de los cuales el Secretario Regional Ministerial respectivo deberá pronunciarse en un plazo máximo de 90 días, pudiendo pronunciarse en definitiva sobre la solicitud cuando el solicitante acredite el pago de la remuneración y cotizaciones previsionales de su personal docente y asistente de la educación, hasta el término del año escolar en que se solicita el retiro del sistema de financiamiento.
 
-El sostenedor que opte por dejar de percibir la subvención de un establecimiento educacional, según lo dispuesto en el artículo decimoséptimo transitorio de la ley Nº 20.845, deberá comunicar de esta decisión por escrito a los padres, madres o apoderados y a la comunidad educativa del establecimiento dentro del mes de marzo del año escolar anterior a aquel en que dejará de percibir subvención, señalando expresamente en ella, si dará o no continuidad al servicio educativo y las medidas que se adoptarán al efecto. Asimismo y en igual mes, deberá presentar esta solicitud al Ministerio de Educación, acreditando que se encuentra al día con el pago de la remuneración y cotizaciones previsionales de su personal docente y asistente de la educación, ambos elementos de admisibilidad respecto de los cuales el Secretario Regional Ministerial respectivo deberá pronunciarse en un plazo máximo de 90 días, pudiendo pronunciarse en definitiva sobre la solicitud cuando el solicitante acredite el pago de la remuneración y cotizaciones previsionales de su personal docente y asistente de la educación, hasta el término del año escolar en que se solicita el retiro del sistema de financiamiento. Sin perjuicio de lo señalado en el inciso anterior, el sostenedor deberá cumplir con la obligación establecida en el Párrafo 3º del Título III de la ley Nº 20.529 y, en su caso, devolver los recursos obtenidos por aporte de capital, así como de otros beneficios que tenga pendientes con el Ministerio de Educación.
+Sin perjuicio de lo señalado en el inciso anterior, el sostenedor deberá cumplir con la obligación establecida en el Párrafo 3º del Título III de la ley Nº 20.529 y, en su caso, devolver los recursos obtenidos por aporte de capital, así como de otros beneficios que tenga pendientes con el Ministerio de Educación.
 
 En caso de no dar continuidad al servicio educativo, el plazo para formalizar la renuncia al Reconocimiento Oficial del establecimiento, se regirá por lo dispuesto en los artículos 26 y 27 del decreto Nº 315, de 2010, del Ministerio de Educación y las demás normas pertinentes.
 
@@ -108,7 +112,9 @@ La solicitud se presentará ante la Secretaría Regional Ministerial de Educaci�
 
 La comisión estará compuesta por tres integrantes que deberán ser funcionarios de la Secretaría Regional Ministerial de Educación correspondiente, nombrados por el Secretario Regional Ministerial para estos fines. Integrarán dicha comisión, al menos, un profesional del departamento de educación y un profesional del departamento de planificación de la Secretaría Regional Ministerial de Educación respectiva.
 
-Esta comisión examinará las solicitudes según orden de ingreso, que se determinará por la fecha y hora que se estampa en ella al momento de su ingreso a la Oficina de Partes de la Secretaría Regional Ministerial de Educación.
+Esta comisión que deberá constituirse dentro de tercero día a la admisión de la o las solicitudes presentadas examinará las solicitudes según orden de ingreso, que se determinará por la fecha y hora que se estampa en ella al momento de su ingreso a la Oficina de Partes de la Secretaría Regional Ministerial de Educación.
+
+Sin perjuicio de los incisos anteriores, sólo las solicitudes de cambio de financiamiento establecidas en el artículo precedente; las de aumento de capacidad de los establecimientos subvencionados por sus niveles, modalidades y/o especialidades que cuenten con reconocimiento oficial; y aquellas que versan sobre estructura de cursos reguladas en el artículo 22 del decreto N° 315, de 2010, del Ministerio de Educación, no se someterán a los requisitos establecidos en el artículo 8° del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación, como tampoco al procedimiento regulado en este reglamento, por no percibir por estas solicitudes, subvención por primera vez.
 
 #### Artículo 8º
 
@@ -118,21 +124,25 @@ De presentarse dos o más solicitudes para el mismo territorio justificadas en l
 
 Si la solicitud no reuniera todos los requisitos exigidos por la normativa educacional, se requerirá al solicitante para que en el plazo de cinco días subsane las faltas o acompañe los documentos y antecedentes respectivos, con indicación de que si así no lo hiciere se tendrá por no presentada.
 
+El Subsecretario de Educación podrá, excepcionalmente y por resolución fundada, aumentar los plazos de las solicitudes reguladas por este reglamento.
+
 #### Artículo 10
 
-Examinada por la comisión la solicitud a que se refieren los artículos precedentes, deberá evacuar informe de aprobación o rechazo en un plazo no superior a 20 días contados desde su ingreso a la Secretaría Regional Ministerial. Vencido dicho plazo, y a falta de pronunciamiento de la comisión, el Secretario Regional Ministerial de Educación respectivo, deberá pronunciarse sin más trámite.
+Examinada por la comisión la solicitud a que se refieren los artículos precedentes, deberá evacuar informe de aprobación o rechazo en un plazo no superior a 30 días contados desde el día siguiente hábil a su examinación. Vencido dicho plazo, el Secretario Regional Ministerial de Educación respectivo, deberá pronunciarse sin más aun cuando la comisión no haya evacuado dicho informe.
 
-La resolución que apruebe la solicitud, deberá remitirse al Consejo Nacional de Educación, el cual ratificará o no, por la mayoría absoluta de sus miembros en ejercicio, la decisión adoptada por la Secretaría Regional Ministerial respectiva.
+La resolución que apruebe la solicitud, deberá remitirse al Consejo Nacional de Educación, el que ratificará o no, por la mayoría absoluta de sus miembros en ejercicio, la decisión adoptada por la Secretaría Regional Ministerial respectiva.
 
 En caso contrario, si la solicitud fuera rechazada por la Secretaría Regional Ministerial el solicitante podrá presentar recurso jerárquico en el plazo de 5 días desde su notificación ante la Subsecretaría de Educación, en contra de la resolución respectiva, para que éste se pronuncie en última instancia.
 
-De acogerse el recurso señalado en el inciso anterior, la resolución que la ordene cumplir aprobando la solicitud, deberá ser ratificada por la mayoría absoluta de los miembros en ejercicio del Consejo Nacional de Educación.
+De acogerse el recurso señalado en el inciso anterior, la resolución que la ordene cumplir aprobando la solicitud, deberá ser remitida, para los efectos señalados en el inciso segundo precedente, al Consejo Nacional de Educación.
 
 #### Artículo 11
 
-Recibido el acuerdo que ratifica o no la resolución que aprueba la solicitud, la Secretaría Regional Ministerial de Educación respectiva dictará la resolución final que establezca o rechace el derecho a impetrar subvención estatal. Asimismo, se pronunciará respecto de la solicitud de Reconocimiento Oficial en el mismo acto, o mediante uno diverso, si correspondiere.
+Recibida la resolución que ejecuta el acuerdo que ratifica el acto administrativo que aprueba la solicitud de subvención, ésta se entenderá aceptada para todos los efectos legales, debiendo notificarse ambas resoluciones al interesado. La resolución que ejecute un acuerdo del Consejo que no ratifique, deberá igualmente ser notificada al interesado.
 
-La tramitación total de la solicitud, no podrá superar los noventa días contados desde su ingreso. Vencido dicho plazo, se estará a lo dispuesto en el artículo 65 de la ley N° 19.880.
+Respecto de la solicitud de nuevo Reconocimiento Oficial o modificación del mismo, la Secretaría Regional Ministerial que corresponda, deberá pronunciarse en un acto posterior, sin perjuicio de la facultad del requirente de desistirse de dicha solicitud, en caso de no serle otorgado el derecho a impetrar el beneficio de la subvención estatal.
+
+Las solicitudes reguladas por el presente reglamento, serán resueltas por el Ministerio de Educación en un plazo máximo de 90 días hábiles contados desde la fecha de su ingreso, sin perjuicio de los plazos establecidos para la tramitación de los recursos administrativos en caso de que la solicitud sea rechazada. Vencido dicho plazo, se estará a lo dispuesto en el artículo 65 de la ley N° 19.880. Por su parte, el Consejo Nacional de Educación, tendrá un plazo máximo de 30 días hábiles contados desde la remisión de la resolución aprobatoria acompañada de los antecedentes, para pronunciarse sobre la solicitud.
 
 #### Artículo 12
 
@@ -169,6 +179,8 @@ En el caso de la modalidad de educación de adultos y educación especial o dife
 Con todo, se considerará que una solicitud cumple con la condición de demanda insatisfecha, si la matrícula total proyectada en ella es igual o inferior a la suma de las demandas insatisfechas de cada curso, nivel y modalidad considerada en la misma.
 
 La información utilizada en el proceso de estimación deberá ser especificada a lo menos en cuanto a período de referencia y fuente, permitiendo la verificación y aprobación, por parte del Ministerio de Educación, de los cálculos realizados.
+
+No obstante lo anterior, se entenderá acreditada la demanda insatisfecha a que se refiere este artículo y el precedente, cuando el solicitante acompañe a la petición de creación de nuevo nivel o nueva especialidad, la aceptación al proyecto educativo y de la matrícula de los alumnos en el primer curso del nuevo nivel o modalidad por el cual se solicita reconocimiento y subvención por primera vez, de a lo menos un 70% de los padres o apoderados del curso inmediatamente inferior.
 
 #### Artículo 16
 

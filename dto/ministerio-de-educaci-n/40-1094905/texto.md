@@ -40,9 +40,9 @@ El presente Reglamento, regula el cumplimiento del requisito establecido en la l
 
 Para que la entidad sostenedora pueda impetrar el beneficio de la subvención por un establecimiento educacional, será indispensable, entre otros requisitos, que acredite que el inmueble en que funciona dicho establecimiento, es de su propiedad y que se encuentra libre de gravámenes, o bien, que lo uso a título de comodato.
 
-Los sostenedores organizados como personas jurídicas sin fines de lucro constituidas con anterioridad al 8 de junio de 2015, tendrán, para dar cumplimiento al requisito señalado en el inciso anterior, el plazo de 3 años, contados desde el 1 de marzo de 2016.
+Los sostenedores organizados como personas jurídicas sin fines de lucro constituidas con anterioridad al 8 de junio de 2015, tendrán, para dar cumplimiento al requisito señalado en el inciso anterior, el plazo de 6 años, contados desde el 30 de junio de 2017.
 
-Por su parte, las personas jurídicas sin fines de lucro de derecho privado constituidas con el fin de adquirir la calidad de sostenedor, según lo dispuesto en el artículo segundo transitorio de lo ley N° 20.845, tendrán, para dar cumplimiento al requisito señalado en el inciso primero, el plazo de 3 años, contados desde que goce de personalidad jurídica. Este plazo no podrá exceder en ningún caso, del 31 de diciembre del año 2020.
+Por su parte, las personas jurídicas sin fines de lucro de derecho privado constituidas con el fin de adquirir la calidad de sostenedor, según lo dispuesto en el artículo segundo transitorio de lo ley N° 20.845, tendrán, para dar cumplimiento al requisito señalado en el inciso primero, el plazo de 6 años, contados desde el 30 de junio de 2017.
 
 Aquellas personas jurídicas sin fines de lucro de derecho privado que hayan adquirido la calidad de sostenedor en cumplimiento a lo dispuesto en el artículo segundo transitorio de la ley N° 20.845, y que mantengan establecimientos educacionales con una matrícula no superior a 400 estudiantes considerando el total de establecimientos de su dependencia, deberán dar cumplimiento al requisito establecido en el inciso primero de este artículo, en el plazo de 2 años, contados desde que el Ministerio de Educación les notifique que su matrícula total, durante 2 años consecutivos, ha superado los 400 estudiantes. Sin perjuicio de lo anterior, estos sostenedores deberán dar cumplimiento al requisito señalado en el inciso primero, al momento del vencimiento del plazo del contrato de arriendo a que se refiere el párrafo 4° Título IV de este reglamento, salvo que opten por celebrar el contrato de uso de infraestructura para fines educacionales.
 
@@ -122,7 +122,7 @@ Asimismo, los sostenedores que impetren por primera vez la subvención escolar, 
 
 Los sostenedores educacionales señalados en el artículo séptimo transitorio de la ley N° 20.845, podrán además, contraer créditos con las mismas instituciones financieras públicas o privadas mencionadas en el artículo anterior, para la adquisición del inmueble en que funciona el establecimiento educacional, con cargo a la subvención que perciban y garantizarlos con el Fondo de Infraestructura Escolar administrado por la Corporación de Fomento de la Producción.
 
-Sólo podrán contar con la garantía del Fondo de Infraestructura Escolar, aquellos sostenedores que se encuentren constituidos como persona jurídica sin fines de lucro al 8 de junio de 2015, o bien aquellos a los que se les haya transferido la calidad de tal conforme al artículo segundo transitorio de la ley N° 20.845. El contrato de crédito sólo podrá celebrarse hasta el 8 de junio del año 2021, y por un periodo no superior a 25 años.
+Sólo podrán contar con la garantía del Fondo de Infraestructura Escolar, aquellos sostenedores que se encuentren constituidos como persona jurídica sin fines de lucro al 8 de junio de 2015, o bien aquellos a los que se les haya transferido la calidad de tal conforme al artículo segundo transitorio de la ley N° 20.845. El contrato de crédito sólo podrá celebrarse hasta el 30 de junio de 2023, y por un periodo no superior a 25 años. Los sostenedores que se encuentren en la situación descrita en el inciso tercero del artículo 17 de este reglamento, podrán celebrar dicho contrato durante la extensión de plazo allí señalado.
 
 En todo lo demás, este crédito se regirá por las reglas establecidas en el decreto N° 526, de 2015, del Ministerio de Educación.
 
@@ -152,7 +152,19 @@ c) En caso que el sostenedor haya sido beneficiario del aporte suplementario por
 
 d) El monto que se impute mensualmente de conformidad a la letra a) de este artículo, deberá ser razonablemente proporcionado en consideración a los ingresos del establecimiento educacional por concepto de subvención y aportes del Estado, con el objeto de asegurar una adecuada prestación del servicio educativo. La Superintendencia de Educación, en uso de sus atribuciones, fiscalizará el cumplimiento de lo dispuesto anteriormente.
 
+El pago de lo dispuesto en este artículo se considerará una operación que cumple con los fines educacionales, de conformidad a lo dispuesto en el artículo 3° del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
+
 El sostenedor deberá remitir copia del o los contratos que corresponda por la aplicación del presente artículo a la Superintendencia de Educación.
+
+Con todo, aquellos sostenedores que se acojan a lo dispuesto en el inciso tercero, del artículo 17 de este reglamento, podrán celebrar el contrato señalado en este artículo durante la extensión de plazo indicada en el mismo artículo.
+
+#### Artículo 13 bis
+
+Sin perjuicio de lo dispuesto en este Título, y para el cumplimiento de lo señalado en el artículo 2° de este reglamento, los sostenedores organizados como personas jurídicas sin fines de lucro a quienes se les haya transferido la calidad de sostenedor, podrán además adquirir, a través de un contrato de compraventa, el inmueble en que funciona el establecimiento educacional, el que podrá ser hipotecado para los efectos de caucionar la operación.
+
+El pago del precio de esta compraventa, podrá imputarse mensualmente con cargo a la subvención hasta por una doceava parte del 11% del avalúo fiscal, según el valor de la unidad de fomento a la fecha de celebración del contrato, hasta por el término de veinticinco años, y se considerará como una operación que cumple con los fines educacionales, de conformidad a lo dispuesto en el artículo 3° del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
+
+Este contrato estará exceptuado de las restricciones respecto de las personas relacionadas a que se refiere la letra a) del inciso quinto del artículo 3° y el artículo 3° bis del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
 
 ## Título IV
 
@@ -178,21 +190,25 @@ Para los efectos de este Título, se entenderá por inicio del año escolar 2014
 
 #### Artículo 16
 
-Los sostenedores que tengan contratos de arrendamiento vigentes al inicio del año escolar 2014, podrán continuar con éstos en las mismas condiciones pactadas, por los siguientes plazos:
+Los siguientes sostenedores que tengan contratos de arrendamiento vigentes al inicio del año escolar 2014, podrán continuar con éstos en las mismas condiciones pactadas, hasta por un plazo que no excederá del 30 de junio de 2023:
 
-a) Para el caso de los sostenedores que al 8 de junio de 2015, estén constituidas como personas jurídicas sin fines de lucro, sus respectivos contratos seguirán vigentes por el plazo de 3 años contados desde el 1 de marzo de 2016;
+a) En el caso de los sostenedores que al 8 de junio de 2015, estén constituidas como personas jurídicas sin fines de lucro.
 
-b) Para el caso de los sostenedores que hayan adquirido la calidad de tal de acuerdo al artículo segundo transitorio de la ley N° 20.845, el contrato seguirá vigente por el plazo de 3 años desde la fecha en que adquirió la personalidad jurídica. Este plazo no podrá exceder en ningún caso, del 31 de diciembre del año 2020.
+b) En el caso de los sostenedores que hayan adquirido la calidad de tal de acuerdo al artículo segundo transitorio de la ley N° 20.845.
 
 #### Artículo 17
 
-En caso que dichos contratos expiren con anterioridad a alguno de los plazos a que se refiere el artículo anterior, éstos podrán ser renovados por el lapso que reste para el cumplimiento de esos plazos, bajo una renta que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades.
+En caso que dichos contratos expiren con anterioridad al plazo a que se refiere el artículo anterior, éstos podrán ser renovados por el lapso que reste para el cumplimiento de ese plazo, bajo una renta que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades.
+
+La norma establecida en el inciso anterior, también se aplicará a aquellos sostenedores que hubieren celebrado contratos de arrendamiento con posterioridad al inicio del año escolar de 2014 y con anterioridad al 8 de junio de 2015.
+
+Solamente los sostenedores organizados como personas jurídicas sin fines de lucro al 8 de junio de 2015, así como aquellos organizados como tales en virtud del artículo segundo transitorio de la ley N° 20.845, antes del 1° de julio de 2017, podrán extender dichos contratos hasta por 4 años adicionales al plazo establecido en el artículo 16 de este Reglamento. Vencido el plazo anterior, les será exigible el cumplimiento de lo dispuesto en el literal a) quáter del artículo 6° del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
 
 Estos contratos de arrendamiento, estarán exceptuados de las restricciones respecto de personas relacionadas a que se refiere la letra a) del inciso sexto del artículo 3° y el artículo 3° bis de la Ley de Subvenciones.
 
 #### Artículo 18
 
-Vencidos los plazos a que se refiere los literales a) y b) según corresponda, del artículo 16 precedente, estos sostenedores podrán celebrar nuevos contratos de arrendamiento, los que deberán sujetarse a las siguientes reglas:
+Vencido el plazo a que se refiere el inciso primero del artículo 16 precedente, estos sostenedores podrán celebrar nuevos contratos de arrendamiento, los que deberán sujetarse a las siguientes reglas:
 
 a) No podrán celebrarse con personas relacionadas, de acuerdo a las reglas establecidas en la letra a) del inciso sexto del artículo 3° y en el artículo 3° bis de la Ley de Subvenciones, salvo que el arrendador sea una persona jurídica sin fines de lucro o una persona jurídica de derecho público.
 
@@ -218,25 +234,25 @@ La Superintendencia de Educación, en uso de sus atribuciones, fiscalizará el c
 
 Los sostenedores que, para el otorgamiento del Reconocimiento Oficial hayan acreditado la mera tenencia del inmueble donde funciona el establecimiento educacional, mediante un título de comodatario, usufructuario, o titular de otro derecho sobre éste distinto al de arrendamiento, y que se encuentre vigente, deberán dar cumplimiento al requisito establecido en el inciso primero del artículo 2° del presente Reglamento.
 
-Sin perjuicio lo anterior, podrán celebrar un contrato de comodato sobre el inmueble en los términos de los artículos 4° y 5° de este Reglamento, o suscribir un contrato de arrendamiento bajo las reglas de renovación establecidas en el artículo 17 precedente, o bien, vencido los plazos a que se refieren los incisos segundo o tercero del artículo 2°, según corresponda, del presente Reglamento, celebrar nuevos contratos de arrendamiento según las normas del artículo 18 de este acto administrativo. Lo anterior sin perjuicio de aquellos sostenedores que cumplan las condiciones para regirse por el párrafo 4° de este Título.
+Sin perjuicio lo anterior, podrán celebrar un contrato de comodato sobre el inmueble en los términos de los artículos 4° y 5° de este Reglamento, o suscribir un contrato de arrendamiento bajo las reglas de renovación establecidas en el artículo 17 precedente y por el mismo plazo que ahí se señala, o bien, vencido los plazos a que se refieren los incisos segundo o tercero del artículo 2°, según corresponda, del presente Reglamento, celebrar nuevos contratos de arrendamiento según las normas del artículo 18 de este acto administrativo. Lo anterior sin perjuicio de aquellos sostenedores que cumplan las condiciones para regirse por el párrafo 4° de este Título.
 
 § 4. Del contrato de arrendamiento vigente al inicio del año escolar 2014, de aquellos sostenedores que gestionen establecimientos educacionales con una matrícula total de su o sus establecimientos no superior a los 400 alumnos.
 
 #### Artículo 21
 
-Los sostenedores que, con anterioridad al 1 de marzo de 2016, se encontrasen constituidos como personas jurídicas con fines de lucro y que, al inicio del año escolar 2014 mantuvieran contratos de arrendamiento vigentes, por sus establecimientos educacionales, con personas relacionadas, podrán continuar con aquellos, en las mismas condiciones en las que fueron celebrados, siempre que cumplan los siguientes requisitos:
+Los sostenedores que, con anterioridad al 1 de marzo de 2016, se encontrasen constituidos como personas jurídicas con fines de lucro y que, al inicio del año escolar 2014 mantuvieran contratos de arrendamiento vigentes, por sus establecimientos educacionales, podrán continuar con aquellos, en las mismas condiciones en las que fueron celebrados, siempre que cumplan los siguientes requisitos:
 
 a) Que se encuentren regidos por las normas de la Ley de Subvenciones:
 
 b) Que al inicio del año escolar 2014, gestionen establecimientos educacionales con una matrícula no superior a 400 estudiantes considerado el total de establecimientos de su dependencia;
 
-El plazo de vigencia del contrato señalado en el inciso anterior, será de hasta 6 años, contado desde que se dé cumplimiento a lo dispuesto en el artículo 2° transitorio de la ley N° 20.845.
+El plazo de vigencia del contrato señalado en el inciso anterior, será de hasta 6 años, contado desde el 30 de junio de 2017.
 
-Tratándose de aquellos sostenedores que al 1 de marzo de 2016, se encontrasen constituidos como personas jurídicas sin fines de lucro, se les aplicarán las reglas señaladas en el artículo 16 y siguientes, del párrafo 2° del Título IV de este Reglamento.
+Tratándose de aquellos sostenedores que al 1 de marzo de 2016, se encontrasen constituidos como personas jurídicas sin fines de lucro, o bien, constituidos como tales antes del 1° de julio de 2017 en virtud de lo establecido en el artículo segundo transitorio de la ley N° 20.845, se les aplicarán las reglas señaladas en el artículo 16 y siguientes, del párrafo 2° del Título IV de este Reglamento.
 
 #### Artículo 22
 
-En caso que dichos contratos expiren durante el plazo señalado en el inciso segundo del artículo precedente, sólo podrán ser renovados por el tiempo que reste para el cumplimento de aquel, con una renta que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades.
+En caso que dichos contratos expiren durante el plazo señalado en el inciso segundo del artículo precedente, sólo podrán ser renovados por el tiempo que reste para el cumplimento de aquel, con una renta que no podrá exceder del 11% del avalúo fiscal del inmueble dividido en doce mensualidades. Esta norma se aplicará también a los sostenedores que se encuentren en la situación descrita en el inciso segundo del artículo 17 precedente.
 
 Dicho contrato estará exceptuado de las restricciones respecto de personas relacionadas a que se refiere la letra a) del inciso quinto del artículo 3° y del artículo 3° bis de la Ley de Subvenciones.
 
@@ -244,7 +260,7 @@ Dicho contrato estará exceptuado de las restricciones respecto de personas rela
 
 #### Artículo 23
 
-Finalizado el plazo de 6 años a que se refiere el artículo 21 precedente, los sostenedores podrán celebrar un "contrato de uso de infraestructura para fines educacionales" del bien inmueble en que funciona el establecimiento educacional. Este contrato deberá cumplir con los siguientes requisitos copulativos:
+Finalizado el plazo a que se refiere el artículo 17; artículo 21 inciso segundo, y; del artículo 22 precedentes, los sostenedores podrán celebrar un "contrato de uso de infraestructura para fines educacionales" del bien inmueble en que funciona el establecimiento educacional. Este contrato deberá cumplir con los siguientes requisitos copulativos:
 
 a) El propietario del bien inmueble se obligará a entregar el uso de éste al sostenedor sin fines de lucro y a solventar los gastos relativos a mejoras útiles o necesarias de dicho inmueble. En ningún caso, ni directa o indirectamente, dichos gastos podrán ser solventados por el sostenedor con cargo a la subvención escolar u otros aportes que reciba en su calidad de tal;
 
@@ -253,6 +269,8 @@ b) El sostenedor se obligará a compensar la depreciación de la propiedad pagan
 c) El contrato se mantendrá vigente durante el tiempo que se preste el servicio educacional por parte del sostenedor. Con todo, el propietario podrá, unilateralmente, poner término a dicho contrato informando al sostenedor con una anticipación de 5 años;
 
 d) El contrato se inscribirá en el Conservador de Bienes Raíces correspondiente, y e) El propietario se obligará al poner término al contrato, a ofrecer el inmueble para su adquisición, de forma preferente, y en orden sucesivo, al sostenedor que lo está usando y al Estado.
+
+Este contrato estará exceptuado de las restricciones respecto de las personas relacionadas a que se refiere la letra a) del inciso quinto del artículo 3° y el artículo 3° bis del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
 
 #### Artículo 24
 
@@ -270,7 +288,73 @@ En caso que el Ministerio de Educación determine que, durante 2 años consecuti
 
 El propietario podrá solicitar al Servicio de Impuestos Internos la revisión del actual avalúo fiscal del inmueble en donde funciona el establecimiento educacional.
 
-Para efectos de este párrafo, se entenderán personas relacionadas las que define la letra a) del inciso sexto del artículo 3° y lo dispuesto en el artículo 3° bis de la Ley de Subvenciones.
+## Título V
+
+RÉGIMEN AL QUE SE SOMETERÁN LOS APORTES, DONACIONES O VENTAS DE LOS BIENES INMUEBLES DE LOS ESTABLECIMIENTOS EDUCACIONALES
+
+#### Artículo 27
+
+Al presente Título quedarán sujetos los aportes, donaciones o ventas de los bienes inmuebles donde funcionan los establecimientos educacionales que se hagan a los sostenedores a quienes se les haya transferido tal calidad en virtud del artículo segundo transitorio de la ley N° 20.845 o que, al 8 de junio de 2015, se hayan encontrado organizados como personas jurídicas sin fines de lucro, para efectos de cumplir con lo establecido en el literal a) quáter del artículo 6° del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
+
+### 1. Tratamiento tributario de los aportes o donaciones
+
+#### Artículo 28
+
+Los aportes o donaciones tendrán la calidad de gasto necesario para producir la renta para los efectos de lo establecido en la Ley sobre Impuesto a la Renta, contenida en el artículo 1° del decreto ley N° 824, de 1974, siempre y cuando el aportante o donante se someta a las siguientes reglas. Con todo, no dará derecho a considerar como pago provisional el impuesto de primera categoría pagado sobre las utilidades que resulten absorbidas por la pérdida tributaria originada en la deducción como gasto a que se refiere este párrafo:
+
+a) El aporte o donación, no deberá sujetarse al trámite de la insinuación, y estará exento del impuesto a las donaciones establecido en la ley N° 16.271 y del impuesto al valor agregado establecido en el decreto ley N° 825, de 1974.
+
+b) El aporte o donación referido deberá constar por escritura pública otorgada al efecto, la que será considerada título suficiente para realizar las modificaciones de inscripciones o registros que sean necesarios ante todo tipo de organismos, tales como el Servicio de Impuestos Internos o el Conservador de Bienes Raíces.
+
+c) La donación o aporte de los bienes deberá efectuarse a su valor tributario y registrase al mismo valor en la contabilidad del sostenedor, quien no podrá continuar depreciando los referidos bienes recibidos a título de aporte o donación. Dicho valor tributario deberá constar en la escritura pública otorgada al efecto, respecto de cada bien aportado o donado. Los aportes o donaciones de bienes aportados o donados a un valor distinto al tributario, no podrán acogerse a las disposiciones de este artículo.
+
+d) La escritura pública de donación o aporte deberá otorgarse hasta el 30 de junio de 2023, sin perjuicio que las inscripciones o registros que sean necesarios puedan verificarse con posterioridad al vencimiento del referido plazo.
+
+### 2. Tratamiento tributario de las ventas
+
+#### Artículo 29
+
+Para efectos de determinar el mayor valor respecto de la venta de bienes inmuebles donde funcionan los establecimientos educacionales o de derechos o cuotas respecto de tales bienes inmuebles poseídos en comunidad, donde funcionan los establecimientos educacionales, según lo dispuesto en la Ley sobre Impuesto a la Renta, el enajenante podrá considerar como valor de adquisición, cualquiera de los siguientes:
+
+1) El valor de adquisición, reajustado en el porcentaje de variación experimentado por el Índice de Precios al Consumidor entre el último día del mes anterior a la adquisición y el mes anterior al de la enajenación. En este caso formarán parte del valor de adquisición, los desembolsos incurridos en mejoras que hayan aumentado el valor del bien, efectuadas, antes del 31 de diciembre de 2017, por el enajenante o un tercero, siempre que hayan pasado a formar parte de la propiedad del enajenante y sean declaradas en la oportunidad que corresponda ante el Servicio de Impuestos Internos, en la forma que este establezca mediante resolución, para ser incorporadas en la determinación del avalúo fiscal de la respectiva propiedad para los fines del impuesto territorial, con anterioridad a la enajenación.
+
+2) Valor de Tasación:
+
+a) Valor de tasación para inmuebles adquiridos de acuerdo al artículo sexto transitorio de la ley N° 20.845.
+
+El valor comercial, acreditado al 1° de enero del año en que se efectúe la venta, tratándose de inmuebles adquiridos de acuerdo a las disposiciones del artículo sexto transitorio de la ley N° 20.845, determinado por un perito tasador, ingeniero civil o ingeniero comercial, con, a lo menos, diez años de título profesional, valor que deberá reajustarse de acuerdo a la variación del Índice de Precios al Consumidor entre el mes de diciembre del año anterior a la venta y el mes anterior a la venta. Dicho valor deberá ser aprobado y certificado por una firma auditora registrada en la Superintendencia de Bancos e Instituciones Financieras o por una sociedad tasadora de activos.
+
+Las firmas auditoras o tasadoras y los profesionales referidos en este literal, serán solidariamente responsables con los contribuyentes respectivos por las diferencias de impuestos, reajustes, intereses y multas, que se determinen en contra de aquellos en razón de valorizaciones hechas en forma dolosa o negligente. Para estos efectos, las citaciones o liquidaciones que se practiquen al contribuyente deberán notificarse, además, a la firma auditora o tasadora y al profesional respectivo.
+
+Los profesionales referidos en el primer párrafo de este literal, deberán estar inscritos en el registro que al efecto llevará el Servicio de Impuestos Internos. Dicho Servicio dictará las instrucciones necesarias al efecto.
+
+b) Valor de tasación para inmuebles adquiridos de acuerdo a las disposiciones del párrafo segundo transitorio de la ley N° 20.845:
+
+El valor de tasación, acreditado al 1° de enero del año en que se efectúe la venta, determinado conforme a las reglas establecidas en el artículo octavo transitorio y siguientes del párrafo segundo de la ley N° 20.845, tratándose de los inmuebles vendidos con créditos garantizados por la Corporación de Fomento de la Producción.
+
+c) Reglas comunes a la venta de inmuebles donde funcionan los establecimientos educacionales:
+
+Los sostenedores a que se refiere el inciso primero, no podrán adquirir los inmuebles donde funciona el establecimiento educacional a través de contratos de arriendo con opción de compra.
+
+Las ventas de inmuebles que se hagan en virtud de esta ley estarán exentas del Impuesto al Valor Agregado establecido en el decreto ley N° 825 de 1974.
+
+Las tasaciones a que hacen referencia los literales a) y b) anteriores deberán ser comunicadas al Servicio de Impuestos Internos en la oportunidad y forma en que dicho organismo establezca por resolución. El Servicio de Impuestos Internos no podrá impugnar las tasaciones realizadas en conformidad con las disposiciones de este párrafo.
+
+#### Artículo 30
+
+Con todo, para los casos de los literales a) y b), del numeral 2), del artículo anterior, el contribuyente podrá optar por considerar como valor de adquisición, el mayor entre los que se señalan a continuación, y el valor indicado en la numeral 1) del artículo precedente:
+
+1) La totalidad del valor de tasación informado, en caso que la venta se verifique antes del 31 de diciembre de 2020.
+
+2) El resultado de la suma entre el valor de adquisición determinado según el numeral 1) del artículo anterior y el 70% de la diferencia entre el valor de tasación informado y el valor de adquisición indicado precedentemente, en caso que la venta se verifique después del 31 de diciembre de 2020, pero antes del 31 de diciembre de 2021.
+
+3) El resultado de la suma entre el valor de adquisición determinado según el numeral 1) del artículo anterior y el 40% de la diferencia entre el valor de tasación informado y el valor de adquisición indicado precedentemente, en caso que la venta se verifique después del 31 de diciembre de 2021, pero antes del 31 de diciembre de 2022.
+
+4) El resultado de la suma entre el valor de adquisición determinado según la letra A) anterior y el 10% de la diferencia entre el valor de tasación informado y el valor de adquisición indicado precedentemente, en caso que la venta se verifique después del 31 de diciembre de 2022, pero antes del 31 de diciembre de 2023.
+
+#### Artículo transitorio
+
+Los sostenedores que estén organizados como personas jurídicas sin fines de lucro al 8 de junio de 2015, así como aquellos a quienes se les haya transferido su calidad de tal en virtud del artículo segundo transitorio de la ley N° 20.845, podrán adquirir el inmueble donde funciona el establecimiento educacional bajo las reglas de los párrafos 1° y 2° transitorios de dicha ley, sin esperar los plazos establecidos en los incisos segundo y tercero del artículo 2° de este Reglamento.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Valentina Karina Quiroga Canahuate, Ministra de Educación (S).- Jorge Burgos Varela, Ministro de Hacienda (S).
 
