@@ -48,6 +48,8 @@ Las sanciones de inhabilidad aplicadas por infracciones cometidas por la entidad
 
 Todo establecimiento educacional deberá contar con un Proyecto Educativo que será establecido y ejercido autónomamente por cada sostenedor.
 
+Se entenderá por Proyecto Educativo institucional, todos aquellos valores y principios distintivos de una comunidad escolar que se declaran en forma explícita en un documento y enmarcan su acción educativa otorgándole carácter, dirección, sentido e integración. El Proyecto Educativo define ciertos sellos de la comunidad escolar que se expresan en la visión, misión y en el perfil del estudiante que se quiere formar. Por experiencia educativa se entenderá, en tanto, los acontecimientos o situaciones planificados por el establecimiento, dedicadas a la enseñanza y aprendizaje de los y las estudiantes, incluyendo a su entorno familiar.
+
 Todo proyecto educativo y reglamento interno deberán resguardar el principio de no discriminación arbitraria, no pudiendo incluir condiciones o normas que afecten la dignidad de la persona, ni que sean contrarios a los derechos humanos garantizados por la Constitución y los tratados internacionales ratificados por Chile y que se encuentren vigentes, en especial aquellos que versen sobre los derechos de los niños.
 
 Una copia del proyecto educativo, en soporte papel y/o electrónico, deberá acompañarse a la solicitud de reconocimiento oficial. El Proyecto Educativo y sus modificaciones deberán cumplir con la normativa educacional vigente.
@@ -130,7 +132,7 @@ El sostenedor deberá comprometerse en su solicitud a cumplir los estándares na
 
 El sostenedor deberá acompañar a la solicitud de reconocimiento oficial una copia del reglamento interno. Dicho reglamento deberá regular las relaciones entre el establecimiento y los distintos actores de la comunidad educativa y garantizar un justo procedimiento en el caso que se contemplen sanciones. Este reglamento deberá respetar los derechos garantizados por la Constitución Política de la República y no podrá contravenir la normativa educacional vigente.
 
-El reglamento deberá señalar las normas de convivencia en el establecimiento, las sanciones y reconocimientos que origina su infracción o destacado cumplimiento, los procedimientos por los cuales se determinarán las conductas que las ameritan y las instancias de revisión correspondientes.
+El reglamento deberá señalar las normas de convivencia en el establecimiento, los protocolos de actuación en casos de abuso sexual, acoso, maltrato y violencia escolar; embarazo adolescente e incluir un Plan Integral de Seguridad y accidentes escolares, las sanciones y reconocimientos que origina su infracción o destacado cumplimiento, los procedimientos por los cuales se determinarán las conductas que las ameritan y las instancias de revisión correspondientes.
 
 El reglamento y sus modificaciones deberá estar publicado en el sitio web del establecimiento educacional o estar disponible en dicho recinto para los estudiantes, padres y apoderados.
 
@@ -324,7 +326,7 @@ Con todo, los sostenedores que impetren subvención deberán cumplir los requisi
 
 #### Artículo 17
 
-El solicitante deberá acreditar que dispone de mobiliario, equipamiento, elementos de enseñanza y material didáctico mínimo, adecuados al nivel y modalidad de educación que imparte, considerando la cantidad de personal y el número de alumnos y alumnas que puede matricular y atender en el establecimiento educacional. Para estos efectos deberá acompañar una relación de estos elementos, que podrá ser verificada por el Ministerio de Educación.
+El solicitante deberá acreditar que dispone de mobiliario, equipamiento, elementos de enseñanza y material didáctico mínimo, adecuados al nivel y modalidad de educación que imparte, considerando la cantidad de personal y el número de alumnos y alumnas que puede matricular y atender en el establecimiento educacional, en atención a lo dispuesto en el decreto Nº 53, de 2011, del Ministerio de Educación. Para estos efectos deberá acompañar una relación de estos elementos, que podrá ser verificada por el Ministerio de Educación.
 
 En el caso de la educación técnico profesional, el equipamiento y maquinarias de enseñanza que se utilicen deberán estar debidamente adecuados a los niveles de desarrollo del área productiva o de servicios de que se trate.
 
@@ -348,13 +350,15 @@ Cualquier cambio o alteración de los antecedentes o documentos que sirven de ba
 
 Sin perjuicio de lo anterior, la forma y plazos para presentar cualquiera de las solicitudes a que se refiere este Reglamento, que realicen los establecimientos educacionales regidos por el decreto ley Nº 3.166, de 1980; los regidos por el decreto con fuerza de ley Nº 2, 1998, del Ministerio de Educación, y por aquellos que soliciten por primera vez percibir el beneficio de la subvención estatal, se regularán por el decreto supremo Nº 148, de 2016, del Ministerio de Educación. Las solicitudes a que se refiere este inciso, deberán considerar un número proyectado de los cupos que se originarán en todo el establecimiento educacional tomando en cuenta los solicitados, de aprobarse la presentación realizada, para efectos de ser incorporados al sistema de admisión que los rige.
 
-Cuando las solicitudes comprendidas en este reglamento, puedan otorgar por primera vez subvención estatal, las Secretarías Regionales Ministeriales de Educación deberán abocarse, al inicio del procedimiento, a la revisión y cumplimiento de los requisitos señalados en el inciso segundo del artículo 8º del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación. Aceptada y ratificada la solicitud por el Consejo Nacional de Educación, se continuará con el procedimiento de reconocimiento oficial a efectos de determinar su aprobación o rechazo.
+Cuando las solicitudes comprendidas en este reglamento, puedan otorgar por primera vez subvención estatal, las Secretarías Regionales Ministeriales de Educación deberán abocarse, al inicio del procedimiento, a la revisión y cumplimiento de los requisitos señalados en el inciso segundo del artículo 8º del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación. Finalizado lo anterior, o paralelamente si fuera posible, se continuará con el procedimiento de reconocimiento oficial a efectos de determinar su aprobación o rechazo.
 
 #### Artículo 19
 
 La solicitud de reconocimiento oficial para un establecimiento educacional nuevo deberá presentarse a más tardar el último día hábil del mes de agosto del año anterior a aquel en que dicho establecimiento iniciará su funcionamiento, conjuntamente con la totalidad de la documentación requerida para estos efectos.
 
 INCISO ELIMINADO.
+
+Tratándose de establecimientos educacionales que impartan exclusivamente el nivel educativo de parvularia, la solicitud señalada en el inciso precedente, podrá ser presentada en cualquier época del año siempre que no sea de aquellas contempladas en los incisos cuarto y quinto del artículo anterior. Con todo, les será aplicable lo dispuesto en el inciso segundo del artículo 2º del presente reglamento.
 
 #### Artículo 20
 
@@ -378,7 +382,7 @@ El Secretario Regional Ministerial de Educación respectivo, a solicitud del int
 
 #### Artículo 22
 
-Los establecimientos educacionales podrán ser reconocidos oficialmente con uno o más cursos del nivel de educación que indiquen, pero deberán crear en los años sucesivos los cursos necesarios para completar el nivel que aquél comprende. Sin perjuicio de lo anterior y hasta la entrada en vigencia de lo dispuesto en el artículo 25 del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, podrán ser reconocidos oficialmente aquellos establecimientos educacionales que inicien sus cursos a partir de séptimo año de enseñanza básica debiendo en lo sucesivo llegar a completar el nivel de enseñanza media. Asimismo, aquellos establecimientos educacionales que posean el nivel de enseñanza básica completa a fecha de vigencia establecida en el artículo 8º transitorio del decreto con fuerza de ley citado, podrán solicitar el reconocimiento del nivel de enseñanza de educación media sin necesidad de completarlo, siempre que impartan, a lo menos, los dos primeros años de su formación general.
+Los establecimientos educacionales podrán ser reconocidos oficialmente con uno o más cursos del nivel de educación que indiquen, pero deberán crear en los años sucesivos los cursos necesarios para completar el nivel que aquél comprende. Sin perjuicio de lo anterior y hasta la entrada en vigencia de lo dispuesto en el artículo 25 del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, podrán ser reconocidos oficialmente aquellos establecimientos educacionales que inicien sus cursos a partir de séptimo año de enseñanza básica debiendo en lo sucesivo llegar a completar el nivel de enseñanza media. Asimismo, aquellos establecimientos educacionales que posean el nivel de enseñanza básica completa a fecha de vigencia establecida en el artículo 8º transitorio del decreto con fuerza de ley citado, podrán solicitar el reconocimiento del nivel de enseñanza de educación media sin necesidad de completarlo, siempre que impartan los dos primeros años de su formación general.
 
 La creación de nuevos cursos del nivel reconocido, ya sea para completarlo o tengan la naturaleza de paralelos, se informará al Secretario Regional Ministerial de Educación respectivo durante el mes de enero del año escolar en que comiencen sus actividades, acreditando documentalmente que se cuenta con capacidad suficiente autorizada -la cual se probará mediante la resolución que otorga el reconocimiento oficial o sus modificaciones posteriores-, capital mínimo pagado, suficientes aulas, personal docente y personal asistente de la educación, mobiliario adecuado, material didáctico y elementos de enseñanza, atendidas las normas legales y reglamentarias correspondientes. Sin perjuicio de lo anterior, el plazo para entregar esta información, se regirá por el decreto supremo Nº 152, de 2016, del Ministerio de Educación para los establecimientos educacionales a que refiere el inciso cuarto del artículo 18 del presente reglamento.
 
@@ -408,7 +412,49 @@ El Subsecretario de Educación podrá, de manera excepcional y por resolución f
 
 Párrafo Segundo
 
-Del receso y renuncia del Reconocimiento Oficial
+De la fusión, receso y renuncia del Reconocimiento Oficial
+
+#### Artículo 24 ter
+
+Una misma entidad sostenedora que mantenga dos o más establecimientos educacionales reconocidos oficialmente y bajo iguales regímenes de financiamiento, podrá solicitar, ante la Secretaría Regional Ministerial respectiva, la fusión de éstos, siempre que impartan niveles educativos o educacionales diferentes y se encuentren en una misma comuna o comunas colindantes. Sin perjuicio de lo anterior, se podrá solicitar la fusión de establecimientos educacionales que simultáneamente impartan cursos de 7º y 8º de nivel educacional básica, siempre que éstos hayan sido creados en uno de los establecimientos, en atención a lo dispuesto en el inciso primero del artículo 22 de este reglamento, quedando bajo la naturaleza de cursos paralelos. Con todo, podrán fusionarse establecimientos educacionales con niveles educativos o educacionales idénticos, siempre que éstos se encuentren dentro de una misma comuna; o bien, en comunas distintas cuya distancia entre los locales escolares no supere los 200 metros contados en línea recta desde cada uno de sus accesos principales.
+
+La solicitud a que se refiere este artículo, deberá ser presentada hasta el último día hábil del mes de septiembre del año anterior a aquel en que dicha fusión de establecimientos educacionales comience su funcionamiento, y respecto de los establecimientos educacionales que reciban subvención estatal regulada por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, podrán solicitar su fusión, hasta el último día hábil del mes de junio del año anterior a aquel en que dicha fusión comience su funcionamiento debiendo informar además, la nueva estructura de cursos y de los cupos disponibles que dicha fusión genere, en la forma y plazos establecidos en el decreto Nº 152, de 2016, del Ministerio de Educación.
+
+La Secretaría Regional Ministerial de Educación que corresponda deberá tramitar esta solicitud en el plazo de 60 días hábiles, contados desde la presentación de la solicitud. En caso de rechazo de la solicitud, el solicitante podrá interponer los recursos establecidos en la ley Nº 19.880.
+
+#### Artículo 24 quáter
+
+Para efectos de solicitar la fusión, la entidad sostenedora deberá individualizar claramente uno de los establecimientos educacionales como principal, el que mantendrá el reconocimiento oficial otorgado y el Rol Base de Datos (RBD) único para el establecimiento educacional fusionado, estableciéndose para el o los demás establecimientos que se fusionan, la calidad de local anexo o complementario del principal y debiendo acompañar, además, los siguientes antecedentes:
+
+a) Un Proyecto Educativo Institucional y un reglamento interno, en la forma establecida en el artículo 4º de este reglamento. Asimismo deberá presentar un reglamento de evaluación y promoción. Estos instrumentos deberán contemplar las características de la nueva estructura de los niveles a fusionar;
+
+b) Un nuevo plan y programas de estudio propios, los que serán aprobados por la Secretaría Regional Ministerial de Educación respectiva. De no ser presentados por el sostenedor, se entenderá que los actuales planes y programas continúan vigentes en lo que no sea contrario a la naturaleza de la nueva estructura del establecimiento educacional fusionado;
+
+c) En el caso de la fusión de establecimientos educacionales administrados directamente por las municipalidades, se estará a lo dispuesto en el artículo 22 del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación.
+
+Respecto al capital mínimo, se estará a lo dispuesto en el artículo 14 de este reglamento, debiendo actualizarlo si correspondiera.
+
+Acogida la solicitud por parte del Secretario Regional Ministerial respectivo, quedando vigente sólo el reconocimiento oficial y el RBD del establecimiento principal, no obstante, los registros, evaluaciones e información histórica relacionada a los RBD de los establecimientos educacionales que desaparecen, pasarán a formar parte del registro histórico del RBD del establecimiento educacional principal.
+
+La autorización de la fusión, no implicará en ningún caso una causal del término de la relación laboral del personal administrativo de la institución sostenedora, como tampoco del personal docente y/o asistente de la educación de los establecimientos fusionados, los que seguirán prestando los respectivos servicios educacionales en los cursos y niveles educativos o educacionales según corresponda, en la misma forma y características ejecutadas hasta antes de la solicitud de fusión de los establecimientos educacionales. Lo anterior, sin perjuicio de las causales establecidas en el decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación o el Código del Trabajo y sus leyes complementarias según corresponda, para la terminación de la relación laboral.
+
+#### Artículo 24
+
+quinquies.- La entidad sostenedora que solicite la fusión, deberá ingresar al régimen de Jornada Escolar Completa Diurna, los niveles educacionales superiores siempre y cuando el nivel educacional inferior se encuentre adscrito a dicho régimen. Lo anterior, en atención a lo establecido en el inciso tercero del artículo 27 del decreto Nº 755, de 1997, del Ministerio de Educación.
+
+No se considerará cambio de destino, para los efectos de la ley Nº 19.532, el hecho de que los establecimientos educacionales pasen a formar parte del establecimiento principal en calidad de locales anexos a consecuencia de la fusión, siempre y cuando continúen prestando el servicio educacional por el tiempo establecido en el convenio respectivo.
+
+Asimismo, en caso de que uno de los establecimientos objeto de la fusión se encuentre adscrito al régimen de Subvención Escolar Preferencial establecida en la ley Nº 20.248, la nueva estructura educativa con que cuente el establecimiento educacional principal, deberá mantener a todos sus niveles bajo dicho régimen. Para lo anterior, deberá postular a dicho régimen en los plazos a que se refiere el artículo 12 de la mencionada ley.
+
+Las rendiciones del establecimiento educacional principal y sus locales anexos, se sujetarán a lo establecido en el Párrafo 3º del Título III de la ley Nº 20.529, realizándose en la forma y plazos que la Superintendencia de Educación establezca al efecto mediante instrucciones.
+
+#### Artículo 24
+
+sexies.- Con todo, los sostenedores que solicitan la fusión de establecimientos educacionales, deberán observar siempre el principio de continuidad del servicio educativo, debiendo garantizar que los alumnos promovidos a los cursos del nivel educacional superior tengan cupos disponibles, debiendo a su vez notificar personalmente a padres y/o apoderados, de dicha solicitud, con anterioridad a la fecha de presentación de la misma.
+
+La Secretaría Regional Ministerial de Educación respectiva deberá dar especial atención a este principio en el curso de estas solicitudes.
+
+El establecimiento educacional principal y los locales anexos que se crean en atención a la solicitud de fusión aprobada, se considerará como un único establecimiento educacional para todos los efectos legales y reglamentarios, y deberá dar cumplimiento a la normativa educacional vigente. Cualquier incumplimiento de lo señalado en este artículo por parte del sostenedor, estará afecto al procedimiento dispuesto en el Párrafo 5º del Título III de la ley Nº 20.529.
 
 #### Artículo 25
 
