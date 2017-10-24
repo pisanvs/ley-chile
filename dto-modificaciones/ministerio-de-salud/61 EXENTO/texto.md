@@ -22,45 +22,7 @@ Decreto:
 
 Reemplázase en el numeral primero del decreto exento Nº 608, de 2014, la tabla en la que se individualizan los vehículos cuya circulación se autoriza por la siguiente:
 
-Patente Vehículo Marca Modelo Año
-
-GCLY64-4 Camioneta Nissan Terrano DXS 4x4 D/C 2.5 Diésel 2014
-
-HLRS96-8 Camioneta Chevrolet Di Max 4x4 D/C Diésel 2016
-
-HLRS99-2 Camioneta Chevrolet Di Max 4x4 D/C Diésel 2016
-
-GCLC43-3 Camioneta Nissan Terrano DXS 4x4 D/C 2.5 Diésel 2014
-
-BFYK80-5 Camioneta Nissan Terrano DX 2.4 D/C 4x4 2008
-
-BPPD86-0 Automóvil Nissan Platina Sedán 1.6 L 5MT 2009
-
-GBWS12-9 Camioneta Nissan Terrano DXS 4x4 D/C 2.5 Diésel 2014
-
-CDCF71-7 Camioneta Nissan Terrano AXS 4x4 D/C 2009
-
-CGHR99-5 Automóvil Nissan Sentra V16 STD B31001 2010
-
-CXFZ19-K Camioneta Mazda BT50 4x4 D/CAB 2011
-
-CXFZ20-3 Camioneta Mazda BT50 4x4 D/CAB 2011
-
-CXFZ33-5 Camioneta Mazda BT50 4x2 D/CAB 2011
-
-CXFZ34-3 Camioneta Mazda BT50 4x2 D/CAB 2011
-
-DDVY84 Station
-
-Wagon Mahindra Scorpio SUV 4x2 2011
-
-FJBP44-4 Camioneta Nissan Terrano DXS D/C 2.5 Diésel mecánica 2013
-
-FJBP49-4 Camioneta Nissan Terrano DXS D/C 2.5 Diésel mecánica 2013
-
-DSFP72-4 Camioneta Mazda BT50 4x2 D/CAB 2012
-
-DSFP77-5 Camioneta Mazda BT50 4x2 D/CAB 2012
+..
 
 Anótese, comuníquese y publíquese.- Carmen Castillo Taucher, Ministra de Salud.- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.
 
