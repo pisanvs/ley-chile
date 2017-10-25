@@ -22,11 +22,11 @@ Los fabricantes, armadores, importadores o sus representantes legales en Chile, 
 
 En un plazo no superior a 30 días contados desde la fecha de recepción de la solicitud anterior, el Centro comunicará por escrito al interesado la fecha de presentación en las instalaciones del Centro, del vehículo representativo y sus representados, para la verificación de las condiciones de seguridad de su carrocería, susceptibles de ser verificadas.
 
-A más tardar, diez días antes de la fecha programada para la presentación del o los vehículos a que se refiere el inciso anterior, el interesado deberá proporcionar al Centro los antecedentes que se definen en los Anexos B y C, cuyos formatos se acompañan y que forman parte de la presente Resolución.
+A más tardar, diez días antes de la fecha programada para la presentación del o los vehículos a que se refiere el inciso anterior, el interesado deberá proporcionar al Centro los antecedentes que se definen en los Anexos B y C, cuyos formatos se acompañan y que forman parte de la presente Resolución; adicionalmente, tratándose de buses con los que se presten servicios interurbanos de transporte público de pasajeros, cuya longitud exceda los 14,00m de largo sin superar los 15,00m, se deberán incluir los antecedentes descritos en el Anexo F adjunto.
 
 #### Artículo 4°
 
-Los vehículos deberán presentarse en el Centro en la fecha indicada de acuerdo a la programación definida por éste, para la verificación de cumplimiento de los requisitos señalados en los decretos supremos Nº 175/2006 y Nº 158/2013 y la validación, cuando corresponda de los datos indicados en los antecedentes presentados en los Anexos B y C.
+Los vehículos deberán presentarse en el Centro en la fecha indicada de acuerdo a la programación definida por éste, para la verificación de cumplimiento de los requisitos señalados en los decretos supremos Nº 175/2006 y Nº 158/2013 y la validación, cuando corresponda de los datos indicados en los antecedentes presentados en los Anexos B, C y F.
 
 El Centro, en un plazo máximo de 7 días contados desde la presentación de los vehículos, emitirá un pronunciamiento respecto del cumplimiento de los requisitos antes mencionados.
 
@@ -51,3 +51,5 @@ VER DIARIO OFICIAL DE 20.04.2007, PAGINA 5
 > **Nota.** El numeral 6º de la Resolución 1913 Exenta, Transportes, publicada 26.08.2013, modifica la presente norma en el sentido de reemplazar anexos A, B, C Y E, los cuales no fueron publicados en el Diario Oficial.
 
 > **Nota.** NOTA 1 El numeral 6º del artículo 1° de la Resolución 2398 Exenta, Transportes, publicada 07.10.2014, modifica la presente norma en el sentido de reemplazar anexos A, B, D Y E, los cuales no fueron publicados en el Diario Oficial.
+
+> **Nota.** NOTA 2 Las letras c y d del artículo primero de la Resolución 2799 Exenta, Transportes, publicada el 25.10.2017, modifican la presente norma en el sentido de reemplazar el anexo D y agregar un anexo F, de la manera que la citada norma indica.
