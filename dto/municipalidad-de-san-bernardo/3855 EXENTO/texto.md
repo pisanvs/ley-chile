@@ -2252,23 +2252,43 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 b.1 Superficie Predial Mínima: 600 m²
 
-b.2 Coeficiente Constructibilidad: 5
+b.2 Coeficiente Constructibilidad: 3.5
 
 b.3 Coeficiente Ocupación de Suelo: 0,8
 
-b.4 Sistema de Agrupamiento: Continua hasta el cuarto piso incluyéndolo (equivalente a 12 metros) y aislada en pisos superiores.
+b.4 Sistema de Agrupamiento: Continua hasta el cuarto piso
+
+incluyéndolo (equivalente a 12 metros) y aislada en
+
+pisos superiores.
 
 b.5 Altura máxima de edificación: Libre según rasante.
 
-b.6 Rasantes y distanciamiento: La rasante se aplicará desde la altura de adosamiento a partir de los 12 metros, sobre la edificación continua.
+b.6 Rasantes y distanciamiento: El ángulo de las rasantes
 
-En los pisos superiores a los 12 metros de altura (cuarto piso):
+con respecto al plano horizontal, expresado en grados
 
-* Retranqueo en los niveles superiores al cuarto piso (12 metros) de 2, 5 metros.
+sexagesimales, será de 60º. La rasante se aplicará desde
 
-* Distanciamiento mínimo del deslinde posterior será de 6 metros.
+la altura de adosamiento a partir de los 12 metros,
 
-* Distanciamiento mínimo a los deslindes laterales será de 4 metros.
+sobre la edificación continua.
+
+En los pisos superiores a los 12 metros de altura
+
+(cuarto piso):
+
+. Retranqueo en los niveles superiores al cuarto piso
+
+(12 metros) de 2,5 metros.
+
+. Distanciamiento mínimo del deslinde posterior será de
+
+6 metros.
+
+. Distanciamiento mínimo a los deslindes laterales será
+
+de 4 metros.
 
 b.7 Antejardín Mínimo: A la línea.
 
@@ -2276,7 +2296,7 @@ b.8 Estacionamiento: Según Artículo 7.1.2.9. del PRMS y Cuadro del Artículo 3
 
 b.9 Densidad Bruta Mínima: 150 Hab./Há.
 
-b.10 Densidad Bruta Máxima: 2000 Hab./Há.
+b.10 Densidad Bruta Máxima: 1600 Hab./Há.
 
 b.11 Cierros: Según Artículo 13 de la presente Ordenanza Local.
 
@@ -2324,9 +2344,9 @@ b.1 Superficie Predial Mínima: 1000 m²
 
 b.2 Coeficiente Constructibilidad:
 
-Residencial: 3,0
+Residencial: 2,1
 
-Equipamiento: 2,1
+Equipamiento: 1,47
 
 b.3 Coeficiente Ocupación de Suelo:
 
@@ -2338,7 +2358,11 @@ b.4 Sistema de Agrupamiento: Aislada.
 
 b.5 Altura máxima de edificación: Libre según rasante.
 
-b.6 Rasantes y distanciamiento: Según OGUC.
+b.6 Rasantes y distanciamiento: El ángulo de las
+
+rasantes con respecto al plano horizontal,
+
+expresado en grados sexagesimales, será de 60º.
 
 b.7 Antejardín Mínimo: 3 metros, excepto en las calles Freire, Eyzaguirre y San José, en las cuales se exige a la línea.
 
@@ -2348,7 +2372,7 @@ Según Artículo 7.1.2.9. del PRMS y Cuadro del Artículo 36 de la presente Orde
 
 b.9 Densidad Bruta Mínima: 150 Hab./Há.
 
-b.10 Densidad Bruta Máxima: 1400 Hab./Há.
+b.10 Densidad Bruta Máxima: 1.120 Hab/Ha.
 
 b.11 Cierros: Según Artículo 13 de la presente Ordenanza.
 
@@ -2400,9 +2424,9 @@ Equipamiento: 500 m²
 
 b.2 Coeficiente Constructibilidad:
 
-Residencial y equipamiento menor: 1,6
+Residencial y equipamiento menor: 1,12
 
-Equipamiento: 1,8
+Equipamiento: 1,26
 
 b.3 Coeficiente Ocupación de Suelo:
 
@@ -2420,7 +2444,11 @@ b.5 Altura máxima de edificación:
 
 Residencial y equipamiento: Libre según rasante
 
-b.6 Rasantes y distanciamiento: Según OGUC.
+b.6 Rasantes y distanciamiento: El ángulo de las rasantes
+
+con respecto al plano horizontal, expresado en grados
+
+sexagesimales, será de 60º.
 
 b.7 Antejardín Mínimo: 3 metros, sin perjuicio de lo establecido en el Artículo 10 de la presente Ordenanza.
 
@@ -2428,7 +2456,7 @@ b.9 Estacionamiento:
 
 Según Artículo 7.1.2.9. del PRMS y Cuadro del Artículo 36 de la presente Ordenanza.
 
-b.10 Densidad Bruta Mínima: 150 Hab./Há.
+b.10 Densidad Bruta Máxima: 480 Hab./Há.
 
 b.11 Densidad Bruta Máxima: 600 Hab./Há.
 
