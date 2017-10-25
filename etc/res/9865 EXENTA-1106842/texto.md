@@ -110,19 +110,19 @@ En que "año devolución": entre 5 y 20 años.
 
 El porcentaje de restitución se calculará con 2 decimales.
 
-13. No se aplicará a las entidades que resulten beneficiadas conforme a lo dispuesto en la presente resolución lo establecido en el Título III del DS Nº 1, que regula los créditos hipotecarios complementarios para el financiamiento del precio de adquisición o de construcción de la vivienda, salvo lo dispuesto en el inciso final del artículo 69 del DS Nº 1.
+13. No se aplicará a las entidades que resulten beneficiadas conforme a lo dispuesto en la presente resolución lo establecido en el Título III del DS Nº1, que regula los créditos hipotecarios complementarios para el financiamiento del precio de adquisición o de construcción de la vivienda, salvo lo dispuesto en el inciso final del artículo 69 y en el artículo 74 del DS Nº 1.
 
-14. Respecto de los proyectos de construcción de viviendas con inicio de obras cuyo estado de avance no supere el 50%, lo que deberá ser verificado por el Serviu, éste podrá otorgar, por una sola vez, un préstamo de enlace hasta por un plazo máximo de 2 años a partir de la fecha de la escritura que formalice el préstamo, en las condiciones que señala la presente resolución, a la persona jurídica beneficiada conforme al presente llamado o a la entidad que tenga a su cargo la construcción del proyecto.
+14. Respecto de los proyectos de construcción de viviendas con inicio de obras cuyo estado de avance no supere el 50%, lo que deberá ser verificado por el Serviu, o de adquisición de viviendas que cuenten con recepción municipal, éste podrá otorgar, por una sola vez, un préstamo de enlace hasta por un plazo máximo de 3 años a partir de la fecha de la escritura que formalice el préstamo, en las condiciones que señala la presente resolución, a la persona jurídica beneficiada conforme al presente llamado o a la entidad que tenga a su cargo la construcción del proyecto.
 
-14.1. Este préstamo no podrá exceder de 300 Unidades de Fomento por cada vivienda que integre el proyecto. Tanto su otorgamiento como su restitución se expresarán en Unidades de Fomento. Una misma vivienda o proyecto no podrá ser objeto de más de un préstamo.
+14.1. Este préstamo no podrá exceder de 300 Unidades de Fomento por cada vivienda que integre el proyecto en caso que sea de construcción y del 10% del valor de la vivienda en caso que se trate de adquisición. Tanto su otorgamiento como su restitución se expresarán en Unidades de Fomento. Una misma vivienda o proyecto no podrá ser objeto de más de un préstamo.
 
-14.2. La entidad prestataria deberá caucionar la correcta inversión y oportuna y total devolución del préstamo mediante boleta bancaria de garantía, por un monto igual al del préstamo que garantiza, expresada en Unidades de Fomento, extendida a favor del Serviu respectivo, a la vista, de plazo indefinido o que exceda a lo menos en 60 días el plazo de los 2 años señalado.
+14.2. La entidad prestataria deberá caucionar la correcta inversión y oportuna y total devolución del préstamo mediante boleta bancaria de garantía, por un monto igual al del préstamo que garantiza, expresada en Unidades de Fomento, extendida a favor del Serviu respectivo, a la vista, de plazo indefinido o que exceda a lo menos en 60 días el plazo de los 3 años señalado.
 
 14.3. Estos préstamos se otorgarán mediante resoluciones del Director del Serviu respectivo y se formalizarán mediante la correspondiente escritura, siendo de cargo del prestatario los gastos que ello irrogue.
 
-14.4. El préstamo podrá restituirse contra el pago del subsidio habitacional, siempre que dicho pago se efectúe dentro del plazo máximo de 2 años señalado anteriormente, descontado el monto del subsidio a pagar.
+14.4. El préstamo podrá restituirse contra el pago del subsidio habitacional, siempre que dicho pago se efectúe dentro del plazo máximo de 3 años señalado anteriormente, descontado el monto del subsidio a pagar.
 
-14.5. Si encontrándose próxima la expiración de la vigencia de la boleta bancaria de garantía que cauciona el préstamo, la restitución no se hubiere efectuado, el prestatario deberá renovar la vigencia de la boleta o reemplazarla por otra, por el monto adeudado del préstamo; de no hacerlo, se hará efectiva dicha boleta bancaria de garantía. En todo caso, se hará efectiva dicha boleta transcurrido el plazo de 2 años desde el otorgamiento del préstamo, en caso que éste no se haya restituido en su totalidad.
+14.5. Si encontrándose próxima la expiración de la vigencia de la boleta bancaria de garantía que cauciona el préstamo, la restitución no se hubiere efectuado, el prestatario deberá renovar la vigencia de la boleta o reemplazarla por otra, por el monto adeudado del préstamo; de no hacerlo, se hará efectiva dicha boleta bancaria de garantía. En todo caso, se hará efectiva dicha boleta transcurrido el plazo de 3 años desde el otorgamiento del préstamo, en caso que éste no se haya restituido en su totalidad.
 
 15. Se establece que el monto de los recursos que se destinarán para el subsidio directo en el presente llamado, conforme a las disposiciones del DS Nº 1, será de 45.000 UF.
 
