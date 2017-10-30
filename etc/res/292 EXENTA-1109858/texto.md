@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "MEJORA DEL DESEMPEÑO AMBIENTAL Y AMPLIACIÓN PLANTEL DE CERDOS SANTA JOSEFINA"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta Nº 292, el Director Regional del Servicio de Evaluación Ambiental de la Región del Biobío, con fecha 16 de octubre de 2017, ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles de acuerdo a lo establecido en el artículo 30 bis de la ley Nº 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Mejora del Desempeño Ambiental y Ampliación Plantel de Cerdos Santa Josefina", cuyo titular es Agrícola Veneto Ltda.
+
+El proyecto, ubicado en la comuna de Coihueco, consiste en otorgar una mejora ambiental al plantel de cerdos Santa Josefina, mediante la implementación de un sistema de tratamiento de residuos líquidos en una primera etapa. Adicionalmente en una segunda etapa se considera incrementar la cantidad de hembras reproductoras de 600 a 1000; y por consiguiente la ampliación de la infraestructura necesaria para llevar a cabo dicho aumento.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS Nº 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental de 20 días hábiles, contados a partir de la fecha de la presente, publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío ubicada en calle Lincoyán 145, Concepción, así como también podrá acceder a ella a través del sitio web www.sea.gob.cl.-
+
+Christian Andrés Cifuentes Bastías, Director Regional del Servicio de Evaluación Ambiental Región del Biobío.
