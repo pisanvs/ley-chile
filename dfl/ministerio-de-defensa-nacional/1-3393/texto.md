@@ -400,19 +400,15 @@ Ascensos
 
 El sistema de Ascensos del personal de Policía de Investigaciones de Chile, se regirá por las normas del presente estatuto y por las disposiciones reglamentarias correspondientes.
 
-Los Prefectos Inspectores sólo ascenderán por antigüedad; los Prefectos y Subprefectos, sólo por mérito, y los demás Oficiales y personal de las Plantas de Apoyo Científico-Técnico y de Apoyo General, por mérito y por antigüedad.
+Los Prefectos Inspectores sólo ascenderán por
+
+antigüedad; los Prefectos y Subprefectos, sólo por mérito, y los demás Oficiales y personal de las Plantas de Apoyo Científico-Técnico y de Apoyo General, por mérito y por antigüedad.
 
 No obstante, los funcionarios de las Plantas de Apoyo Científico-Técnico y de Apoyo General ascenderán al grado más alto de sus respectivos escalafones sólo por mérito.
 
 Los ascensos sólo por mérito y por antigüedad se efectuarán de conformidad con lo prescrito en el reglamento respectivo.
 
 Sin perjuicio de lo dispuesto en el inciso segundo, en casos calificados y mediante resolución fundada en razones de mejor servicio, el Director General podrá dispensar a los Prefectos del requisito de tiempo en el grado para ascender al grado de Prefecto Inspector. No obstante, no podrá ejercer esta facultad más de tres veces en el año.
-
-El Director General podrá disponer ascensos extraordinarios del personal del escalafón de Asistentes Policiales de la planta de Apoyo General, para premiar acciones de excepcional abnegación o como reconocimiento póstumo. En los casos de fallecimiento de personal del grado 12 del escalafón de Asistentes Policiales de la planta de Apoyo General, y de aquellos cuyo deceso ocurra con ocasión de un procedimiento estrictamente policial en que participe en el cumplimiento de su deber, podrá ordenarse la promoción póstuma hasta el grado 11 del referido escalafón.
-
-Tratándose del personal del escalafón de Oficiales Policiales, esta promoción extraordinaria podrá disponerse como reconocimiento póstumo mediante decreto supremo expedido por intermedio del Ministerio del Interior y Seguridad Pública, a proposición del Director General, al grado inmediatamente superior al del empleo que se encontraba sirviendo el causante. En caso de que un oficial del personal del escalafón de Oficiales Policiales resulte muerto o inválido con ocasión de un procedimiento estrictamente policial en el que haya participado en el cumplimiento de su deber, el ascenso extraordinario podrá disponerse hasta en dos grados inmediatamente superiores al grado en que se encontraba sirviendo el causante.
-
-El ascenso extraordinario de los Oficiales Policiales conforme a lo dispuesto en el inciso precedente, sólo se podrá cursar hasta el grado de Prefecto Inspector.
 
 #### Artículo 31º
 

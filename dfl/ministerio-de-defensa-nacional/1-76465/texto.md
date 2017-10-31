@@ -1968,11 +1968,13 @@ Las infracciones en que incurra el personal podrán establecerse, cuando corresp
 
 La responsabilidad administrativa se extingue por la muerte o el retiro del personal, por cumplimiento de la sanción y por la prescripción de la acción disciplinaria.
 
-En el caso del personal que a la fecha de su retiro se encuentre sometido a investigación sumaria administrativa, el procedimiento deberá continuarse hastasu normal término, anotándose en su hoja de vida la sanción que el resultado del sumario determine.
+En el caso del personal que a la fecha de su retiro se encuentre sometido a investigación sumaria administrativa, ésta deberá continuarse hasta su normal término, anotándose en su hoja de vida la sanción que el resultado de ella determine.
 
-La acción disciplinaria contra el personal prescribirá en dos años contados desde el día en que éste hubiere incurrido en la acción u omisión que le da origen. No obstante, si hubieren hechos constitutivos de delito, la acción disciplinaria prescribirá conjuntamente con la acción penal.
+La acción disciplinaria contra el personal prescribirá en cuatro años contados desde el día en que éste hubiere incurrido en la acción u omisión que le da origen. No obstante, si hubieren hechos constitutivos de delito, la acción disciplinaria prescribirá conjuntamente con la acción penal.
 
-La prescripción de la acción disciplinaria se suspende desde la fecha de la resolución que ordene la instrucción de la investigación sumaria administrativa correspondiente.
+La prescripción de la acción disciplinaria se interrumpe, perdiéndose el tiempo transcurrido, si el personal incurre nuevamente en falta administrativa, y se suspende desde la fecha de la resolución que ordene la instrucción de la investigación sumaria administrativa correspondiente.
+
+Si el proceso administrativo se paraliza por más de dos años, o transcurren dos calificaciones funcionarias sin que haya sido sancionado, continuará corriendo el plazo de prescripción como si no se hubiese suspendido.
 
 ### Párrafo 5º
 
