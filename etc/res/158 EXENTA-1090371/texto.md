@@ -54,7 +54,7 @@ Deberá poseer las capacidades técnicas suficientes de acuerdo al objeto del in
 
 De resultar adjudicado, antes de la transferencia de los recursos, el/la Beneficiario/a Ejecutor/a deberá acreditar el cumplimiento de las normas laborales y tributarias aplicables a Corfo para la entrega de subsidios.
 
-El Comité podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el/la Beneficiario/a Ejecutor/a consiente en ello por el solo hecho de la postulación al instrumento.
+Sercotec podrá verificar esta información directamente con los organismos pertinentes, entendiendo que el/la Beneficiario/a Ejecutor/a consiente en ello por el sólo hecho de la postulación al instrumento.
 
 BENEFICIARIOS/AS ATENDIDOS/AS
 
@@ -76,19 +76,67 @@ Es una o más personas naturales o jurídicas que concurren cofinanciando el pro
 
 ### 3. CRITERIOS DE EVALUACIÓN
 
-La evaluación del proyecto se realizará por el Comité Regional de Desarrollo Productivo, para cuyos efectos podrá contar con la colaboración de entidades externas.
-
 Las evaluaciones se realizarán de conformidad con los criterios que se indicarán, a los que se les asignará una nota de 1 a 10, donde 1 es la más baja y 10 la más alta. La evaluación se realizará en base a números enteros.
 
 No podrán ser recomendados para su aprobación aquellos que obtengan una evaluación total inferior a 7 o que en uno de sus criterios obtengan una calificación inferior a 5.
 
-Los criterios de evaluación serán los siguientes:
+Los criterios de evaluación y su ponderación serán los siguientes:
+
+Criterios de evaluación Ponderación
+
+Calidad de la formulación y coherencia
+
+del proyecto:
+
+Se evaluará la congruencia y calidad en la
+
+formulación del proyecto, en relación a
+
+los objetivos de generar espacios de 40%
+
+formación empresarial orientados a
+
+mejorar sus niveles de competitividad,
+
+productividad, rentabilidad, entre otros.
+
+Cumple con el Foco Estratégico de
+
+Desarrollo Regional:
+
+Se evaluará la justificación del proyecto
+
+y si la propuesta contribuye territorialmente 20%
+
+o se alínea a los sectores productivos
+
+priorizados regionalmente.
+
+Capacidades, fortalezas y experiencia
+
+del/ de la Beneficiario/a Ejecutor/a:
+
+Se evaluará las capacidades técnicas
+
+en generar espacios de formación
+
+empresarial orientados a mejorar sus 25%
+
+niveles de competitividad, productividad,
+
+rentabilidad, entre otros.
+
+Propuesta económica:
+
+Se evaluará la coherencia entre el
+
+presupuesto y el Plan de Actividades 15%
+
+presentado.
 
 ### 4. MODELO DE ADMINISTRACIÓN
 
-La administración de este instrumento se encuentra externalizada, a través de entidades públicas o privadas, denominadas Agentes Operadores Intermediarios (AOI) de Corfo y/o Sercotec. Ellos, en conformidad a este Reglamento, son los habilitados para postular y administrar los proyectos de empresas interesadas, además, son los responsables de velar por el cumplimiento de las obligaciones financieras, de las actividades y objetivos del instrumento.
-
-Cuando circunstancias excepcionales así lo ameriten, el Consejo Directivo del Comité de Desarrollo Productivo Regional podrá resolver que uno o más de estos proyectos sean evaluados, supervisados y administrados directamente por él mismo, determinando los procedimientos respectivos.
+La administración de los Formación Empresarial será, por regla general, mediante la modalidad agenciada.
 
 La operación de los Proyectos deberá ajustarse a las instrucciones que imparta el Consejo Directivo del Comité de Desarrollo Productivo Regional en relación a los procedimientos.
 
@@ -106,21 +154,27 @@ Todo gasto deberá detallarse y guardar relación con el Plan de Trabajo y los r
 
 ### 6. COSTO DE ADMINISTRACIÓN
 
-El Comité de Desarrollo Productivo Regional pagará además a los Agentes Operadores Intermediarios, por la evaluación, supervisión, seguimiento y administración del proyecto, hasta un 15% del monto del cofinanciamiento.
+Con los recursos otorgados por el Comité de Desarrollo Productivo Regional, Sercotec podrá pagar a los Agentes Operadores Intermediarios, por la evaluación, supervisión, seguimiento y administración del proyecto, hasta un 15% del monto del cofinanciamiento.
 
 Si un proyecto termina anticipadamente o el Agente Operador Intermediario incumpliere sus obligaciones, el Director Ejecutivo del Comité de Desarrollo Productivo Regional deberá determinar fundadamente el monto o porcentaje de pago por este concepto.
 
-### 7. PROCEDIMIENTO Y TRANSFERENCIA DE FONDOS
+### 7. ASIGNACIÓN Y TRANSFERENCIA DE FONDOS
 
 Este instrumento operará mediante alguno de los mecanismos que se describen a continuación:
 
 a) Ventanilla abierta: permite postular en cualquier día del año durante la vigencia del instrumento.
 
-b) Concurso: permite postular durante un plazo fijo, situación que será comunicada mediante un aviso a través de la página web del Comité, el que deberá contener la fecha y hora de cierre de las postulaciones, un correo electrónico al cual dirigir las consultas y el sistema o medio disponible para realizar las postulaciones.
+b) Concurso: permite postular durante un plazo fijo, situación que será comunicada mediante un aviso a través de la página web del Comité, el que deberá contener la fecha y hora del cierre de las postulaciones, un correo electrónico del Comité al cual dirigir las consultas y el sistema o medio disponible para realizar las postulaciones.
 
-El mecanismo de postulación será determinado por el Director Ejecutivo del Comité, al poner en ejecución el presente acuerdo, y para años posteriores, deberá decidir el mecanismo de postulación en el mes de diciembre del año anterior, decisión que deberá ser comunicada por medio de un aviso en la página web del Comité.
+El mecanismo de postulación será determinado por el Director Ejecutivo del Comité.
+
+Hasta el mes de diciembre del presente año el mecanismo de postulación será el de Ventanilla Abierta.
+
+Para los años posteriores la decisión sobre el mecanismo de postulación será adoptada en el mes de diciembre del año anterior, decisión que deberá ser comunicada por medio de un aviso en la página web del Comité.
 
 Postulación del Proyecto.
+
+En el marco del Plan de Acción Anual del Comité, aprobado por su Consejo Directivo, las postulaciones se harán a través de un Agente Operador Intermediario, quien determinará si el/la Beneficiario/a Ejecutor/a es elegible.
 
 El proyecto deberá contener, al menos, la siguiente información:
 
@@ -140,9 +194,13 @@ El proyecto deberá contener, al menos, la siguiente información:
 
 - Duración de la Fase de Selección de Beneficiarios/as Atendidos/as e Implementación.
 
+El AOI informará por escrito a Sercotec sobre la elegibilidad de las/los postulantes y la evaluación de su proyecto.
+
+Sercotec revisará que las/los postulantes cumplan con los requisitos de elegibilidad y emitirá su recomendación técnica para que el proyecto sea presentado al Consejo del Comité de Desarrollo Productivo Regional para su conocimiento y decisión.
+
 El conocimiento y decisión sobre la asignación de recursos para la ejecución del proyecto corresponde al Consejo Directivo del Comité de Desarrollo Productivo Regional, actuando en pleno o subcomités, según corresponda, el que podrá aprobar estos proyectos y asignar el cofinanciamiento para su ejecución o rechazarlos.
 
-El Director Ejecutivo dictará el o los actos administrativos que ejecuten los Acuerdos adoptados y ordene la transferencia de los fondos a los AOI.
+El Director Ejecutivo dictará el o los actos administrativos que ejecuten los Acuerdos adoptados.
 
 Ejecución del Proyecto.
 
@@ -158,15 +216,15 @@ No se podrá modificar el objetivo general de un proyecto.
 
 El Director Ejecutivo del Comité tendrá facultades para modificar los proyectos en todos aquellos aspectos que no sean sustanciales.
 
-Para estos efectos se considerarán aspectos sustanciales el aumento del monto o porcentaje de cofinanciamiento asignado al Proyecto, el cambio del/la Beneficiario/a Ejecutor/a, cualquier aumento de sus gastos de operación, el término anticipado del proyecto, el cambio de Agente Operador Intermediario y la modificación de sus objetivos específicos.
+Para estos efectos se considerarán aspectos sustanciales el aumento del monto o porcentaje de cofinanciamiento asignado al Proyecto, el cambio del/la Beneficiario/a Ejecutor/a, cualquier aumento de sus gastos de operación, el término anticipado del proyecto, el cambio de agente operador intermediario y la modificación de sus objetivos específicos.
 
 La aprobación de estos proyectos, la asignación de recursos y su ejecución deberán ajustarse a las disposiciones del presente Reglamento y a las instrucciones que imparta el Comité de Desarrollo Productivo Regional, en relación a los procedimientos.
 
 ### 8. ANTICIPOS, GARANTÍAS Y RENDICIONES
 
-El Director Ejecutivo del Comité podrá autorizar anticipos a los Agentes Operadores Intermediarios para la ejecución y administración de los proyectos aprobados, previa entrega de una boleta de garantía bancaria pagadera a la vista o una póliza de seguro de ejecución inmediata o a primer requerimiento, por el total de los fondos anticipados.
+Sercotec podrá autorizar anticipos a los Agentes Operadores Intermediarios para la ejecución y administración de los Proyectos. Los anticipos a los Agentes Operadores Intermediarios sólo podrán autorizarse previa entrega de una boleta de garantía bancaria pagadera a la vista o una póliza de seguro de ejecución inmediata o a primer requerimiento, por el total de los fondos anticipados.
 
-El Agente Operador Intermediario deberá preparar oportuna y periódicamente los correspondientes informes y rendiciones de cuentas, conforme las instrucciones establecidas por el Consejo Directivo del Comité de Desarrollo Productivo Regional, y sin perjuicio de aquellas que imparta la Contraloría General de la República.
+El Agente Operador Intermediario deberá presentar oportuna y periódicamente los correspondientes informes y rendiciones de cuentas a Sercotec, conforme las instrucciones establecidas por el Comité de Desarrollo Productivo Regional, y sin perjuicio de aquellas que imparta la Contraloría General de la República.
 
 ### 9. MANUALES DE INSTRUMENTOS
 
