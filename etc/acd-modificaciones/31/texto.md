@@ -20,7 +20,9 @@ Fondos: a los Fondos de Inversión y Fondos Mutuos, regulados por el Capítulo I
 
 Administradoras: a las Sociedades Administradoras de Fondos, contempladas en el Capítulo II de la Ley Nº 20.712.
 
-AFP: Administradoras de Fondos de Pensiones. Clasificadoras: Entidades clasificadoras de riesgo a que se refiere el artículo 71 de la Ley Nº 18.045.
+AFP: Administradoras de Fondos de Pensiones y a la Administradora de Fondos de Cesantía.
+
+Clasificadoras: Entidades clasificadoras de riesgo a que se refiere el artículo 71 de la Ley Nº 18.045.
 
 Reglamento: Reglamento Interno del Fondo.
 
@@ -144,11 +146,11 @@ j. La política y procedimientos de valoración de las inversiones establecidas 
 
 #### Artículo 9
 
-El Fondo deberá contar con un monto mínimo de activos por el equivalente a US$20 millones, descontados de esta cifra los aportes efectuados por su Administradora o sus entidades relacionadas. Para estos efectos, se considerarán los últimos estados financieros disponibles que el Fondo haya presentado a la Superintendencia de Valores y Seguros y el tipo de cambio dólar observado vigente a la fecha de los estados financieros.
+El Fondo deberá contar con un monto mínimo de activos por el equivalente a US$ 20 millones, descontados de esta cifra los aportes efectuados por su Administradora, sus personas relacionadas y los fondos administrados por ella o por sociedades administradoras relacionadas. Para estos efectos, en el caso de los fondos de inversión se considerará el último estado financiero trimestral disponible, en tanto para los fondos mutuos se considerará la información disponible de cierre del último mes; ambos antecedentes publicados por la Superintendencia de Valores y Seguros. Asimismo, para el cálculo del monto mínimo requerido, cuando corresponda, se considerarán los valores de tipos de cambios publicados por el Banco Central a la fecha respectiva.
 
 #### Artículo 10
 
-El Fondo deberá contar con, al menos, 5 aportantes no relacionados entre sí ni con la Administradora. El número de aportantes se determinará según el último informe disponible que el Fondo haya presentado a la Superintendencia de Valores y Seguros.
+El Fondo deberá contar con, al menos, 5 aportantes no relacionados entre sí ni con la Administradora, ni tampoco corresponder a fondos administrados por ella o por sociedades administradoras relacionadas. El número de aportantes se determinará según el último informe disponible que el Fondo haya presentado a la Superintendencia de Valores y Seguros.
 
 #### Artículo 10 bis
 
@@ -162,7 +164,7 @@ La Comisión, en atención a las características del Fondo y del incumplimiento
 
 Los factores adicionales serán una combinación de elementos cualitativos y cuantitativos que proporcionen información adicional a la contenida en los informes de clasificación de riesgo de las cuotas.
 
-Los factores adicionales se considerarán adversos cuando se cuente con antecedentes que permitan concluir que existe una gran incertidumbre respecto del Fondo o de sus cuotas.
+Los factores adicionales se considerarán adversos cuando se cuente con antecedentes que permitan concluir que existen elementos negativos, actuales o potenciales, respecto del Fondo o de sus cuotas.
 
 5.- Aprobación de las Cuotas
 
