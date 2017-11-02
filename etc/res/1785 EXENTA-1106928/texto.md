@@ -30,6 +30,8 @@ Resolución:
 
 .
 
+Los recursos excedentes, ascendentes a 3.700 UF, quedan disponibles de acuerdo a lo establecido en el último inciso del artículo 22 del DS Nº 1/2011.
+
 2. El número de familias seleccionadas por cada provincia alcanzará hasta la cantidad de subsidios posibles de financiar con los recursos destinados para este llamado según tabla precedente, que incluyen 10 UF por familia para Gastos Operacionales.
 
 3. Para los efectos de determinar el número de subsidios posibles de financiar, tratándose de postulaciones al Título I, Tramo 1, se contemplarán los valores de subsidio por familia indicados en la tabla precedente para cada provincia.
