@@ -90,39 +90,7 @@ c) Construcción o Mejoramiento del Equipamiento Comunitario
 
 21. Los recursos involucrados para la selección ascienden a un total de 1.880.947 UF y su distribución territorial será la siguiente:
 
-REGIÓN MONTO - UF
-
-Arica y Parinacota 17.460
-
-Tarapacá 48.015
-
-Antofagasta 116.400
-
-Atacama 71.594
-
-Coquimbo 162.416
-
-Valparaíso 122.111
-
-O'Higgins 112.859
-
-Maule 214.602
-
-Biobío 164.997
-
-Araucanía 179.093
-
-Los Ríos 40.171
-
-Los Lagos 246.073
-
-Aysén 87.300
-
-Magallanes 17.460
-
-Metropolitana 104.760
-
-Total 1.705.311
+.
 
 22. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponden.
 
