@@ -60,7 +60,7 @@ f) Dos representantes de los directores de cine de las principales asociaciones 
 
 g) Dos académicos designados por aquellas universidades privadas autónomas que no formen parte del Consejo de Rectores de las Universidades Chilenas.
 
-h) Un representante del Consejo Nacional de la Cultura y las Artes.
+h) Un representante del Ministerio de las Culturas, las Artes y el Patrimonio.
 
 Los miembros del Consejo, excepto el Subsecretario o su representante, durarán cuatro años en sus funciones, podrán ser designados sólo para un nuevo período y se renovarán por mitades, cada dos años.
 

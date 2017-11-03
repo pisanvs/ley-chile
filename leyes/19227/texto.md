@@ -10,7 +10,7 @@ Del Fondo Nacional de Fomento del Libro y la Lectura
 
 El Estado de Chile reconoce en el libro y en la creación literaria instrumentos eficaces e indispensables para el incremento y la transmisión de la cultura, el desarrollo de la identidad nacional y la formación de la juventud.
 
-El Consejo Nacional de la Cultura y las Artes adoptará las medidas necesarias para el cumplimiento de las orientaciones que se señalan en la presente ley, reconociendo el aporte de los escritores chilenos y promoviendo la participación de todos los agentes culturales y de los medios de comunicación social.
+El Ministerio de las Culturas, las Artes y el Patrimonio adoptará las medidas necesarias para el cumplimiento de las orientaciones que se señalan en la presente ley, reconociendo el aporte de los escritores chilenos y promoviendo la participación de todos los agentes culturales y de los medios de comunicación social.
 
 #### Artículo 2°
 
@@ -28,11 +28,13 @@ e) Editor: La persona natural o jurídica responsable de la publicación y edici
 
 #### Artículo 3°
 
-Créase el Fondo Nacional de Fomento del Libro y la Lectura, administrado por el Consejo Nacional de la Cultura y las Artes, destinado a financiar proyectos, programas y acciones de fomento del libro y la lectura que emanen de esta ley y cuyo patrimonio estará integrado por:
+Créase el Fondo Nacional de Fomento del Libro y la Lectura, administrado por el Ministerio de las Culturas, las Artes y el Patrimonio, destinado a financiar proyectos, programas y acciones de fomento del libro y la lectura que emanen de esta ley y cuyo patrimonio estará integrado por:
 
 a) Los recursos que para este objeto deberán consultarse anualmente en la Ley de Presupuestos de la Nación;
 
-b) Los recursos que el Gobierno reciba por concepto de asistencia técnica o cooperación internacional, y c) Las donaciones, herencias y legados que reciba. Estas donaciones estarán exentas del trámite de insinuación, a que se refiere el artículo 1.401 del Código Civil.
+b) Los recursos que el Gobierno reciba por concepto de asistencia técnica o cooperación internacional, y
+
+c) Las donaciones, herencias y legados que reciba. Estas donaciones estarán exentas del trámite de insinuación, a que se refiere el artículo 1.401 del Código Civil.
 
 La distribución de los recursos del Fondo se hará en forma descentralizada, conforme lo establezca anualmente la Ley de Presupuestos.
 
@@ -66,59 +68,29 @@ l) El desarrollo de la crítica literaria y actividades conexas, en los medios d
 
 #### Artículo 5°
 
-Créase, en el Ministerio de Educación, el Consejo Nacional del Libro y la Lectura, en adelante el Consejo. El Consejo estará formado por: a) El Presidente del Consejo Nacional de la Cultura y
+Créase, en el Ministerio de las Culturas, las Artes y el Patrimonio, el Consejo Nacional del Libro y la Lectura, en adelante el Consejo. El Consejo estará formado por:
 
-las Artes, o su representante, quien lo presidirá;
+a) El Subsecretario de las Culturas y las Artes, quien lo presidirá;
 
 b) Un representante del Presidente de la República;
 
 c) Un representante del Ministro de Educación;
 
-d) El Director de la Dirección de Bibliotecas,
+d) El Director Nacional del Servicio Nacional del Patrimonio Cultural, o su representante;
 
-Archivos y Museos, o su representante;
+e) Dos académicos de reconocido prestigio designados por el Consejo de Rectores, uno de los cuales deberá pertenecer a alguna Universidad con sede en las Regiones Primera a Decimosegunda;
 
-e) Dos académicos de reconocido prestigio designados
+f) Dos escritores designados por la asociación de carácter nacional más representativa que los agrupe. Estos escritores no deberán ser necesariamente socios activos de dicha entidad o de otra de igual naturaleza;
 
-por el Consejo de Rectores, uno de los cuales deberá
+g) Dos representantes de las asociaciones de carácter nacional más representativas de los editores y de los distribuidores y libreros, debiendo uno estar vinculado a la edición y el otro a la comercialización;
 
-pertenecer a alguna Universidad con sede en las Regiones
+h) Un profesional de la educación de reconocida experiencia en la promoción de la lectura, designado por la asociación profesional de educadores de carácter nacional más representativa, y
 
-Primera a Decimosegunda;
-
-f) Dos escritores designados por la asociación de
-
-carácter nacional más representativa que los agrupe.
-
-Estos escritores no deberán ser necesariamente socios
-
-activos de dicha entidad o de otra de igual naturaleza;
-
-g) Dos representantes de las asociaciones de
-
-carácter nacional más representativas de los editores y
-
-de los distribuidores y libreros, debiendo uno estar
-
-vinculado a la edición y el otro a la comercialización;
-
-h) Un profesional de la educación de reconocida
-
-experiencia en la promoción de la lectura, designado por
-
-la asociación profesional de educadores de carácter
-
-nacional más representativa, y
-
-i) Un profesional de la bibliotecología con
-
-reconocida experiencia en bibliotecas públicas o
-
-escolares, designado por la asociación profesional de
+i) Un profesional de la bibliotecología con reconocida experiencia en bibliotecas públicas o escolares, designado por la asociación profesional de
 
 bibliotecólogos de carácter nacional más representativa.
 
-En el ejercicio de sus funciones y atribuciones, el Consejo gozará de plena autonomía y capacidad de decisión, pudiendo vincularse con otros organismos del área cultural. Las funciones de secretaría del Consejo serán ejercidas por un representante del Consejo Nacional de la Cultura y las Artes, quien sólo tendrá derecho a voz. Los integrantes señalados en las letras d), e), f), g) y h) durarán dos años en el cargo, pudiendo ser designados para el período siguiente. Si vacare alguno de los cargos señalados en el inciso anterior, el reemplazante será designado por quien corresponda, por el tiempo que faltare para completar el período para el cual fue designado su antecesor. Para sesionar, el Consejo requerirá la mayoría absoluta de sus miembros y sus acuerdos se adoptarán por la mayoría absoluta de los presentes.
+En el ejercicio de sus funciones y atribuciones, el Consejo gozará de plena autonomía y capacidad de decisión, pudiendo vincularse con otros organismos del área cultural. Las funciones de secretaría del Consejo serán ejercidas por un representante del Ministerio de las Culturas, las Artes y el Patrimonio, quien sólo tendrá derecho a voz. Los integrantes señalados en las letras e), f), g) y h) durarán dos años en el cargo, pudiendo ser designados para el período siguiente. Si vacare alguno de los cargos señalados en el inciso anterior, el reemplazante será designado por quien corresponda, por el tiempo que faltare para completar el período para el cual fue designado su antecesor. Para sesionar, el Consejo requerirá la mayoría absoluta de sus miembros y sus acuerdos se adoptarán por la mayoría absoluta de los presentes.
 
 #### Artículo 6°
 
@@ -130,7 +102,7 @@ b) Seleccionar cada año las mejores obras literarias de autores nacionales, en 
 
 El premio consistirá en una suma de dinero para el autor, cuyo monto fijará anualmente el Consejo, además de la adquisición, que este mismo organismo acuerde, del número de ejemplares de la primera edición de las obras que fueren publicadas, los que se destinarán a los fines culturales y promocionales a que se refiere el artículo 4°;
 
-c) Asesorar al Presidente del Consejo Nacional de la Cultura y las Artes en la formulación de la política nacional del libro y la lectura;
+c) Asesorar al Ministro de las Culturas, las Artes y el Patrimonio en la formulación de la política nacional del libro y la lectura;
 
 d) Supervisar en forma periódica el desarrollo de los proyectos y las acciones aprobados;
 

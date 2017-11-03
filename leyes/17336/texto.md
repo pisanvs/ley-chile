@@ -852,7 +852,7 @@ La inscripción en el Registro de la Propiedad Intelectual se hará previo pago 
 
 3.- Cualquier otra inscripción de las contempladas en esta ley, 10%.
 
-Todos estos derechos serán depositados en la cuenta corriente única de la Dirección de Bibliotecas, Archivos y Museos, bajo la responsabilidad y custodia del funcionario que dicha Dirección designe, quien los destinará a la administración del Departamento de Derechos Intelectuales creado por el artículo 90 de esta ley.
+Todos estos derechos serán depositados en la cuenta corriente única del Servicio Nacional del Patrimonio Cultural, bajo la responsabilidad y custodia del funcionario que dicho Servicio designe, quien los destinará a la administración del Departamento de Derechos Intelectuales creado por el artículo 90 de esta ley.
 
 #### Artículo 77
 
@@ -1188,33 +1188,7 @@ DEPARTAMENTO DE DERECHOS INTELECTUALES
 
 #### Artículo 90
 
-Créase el Departamento de Derechos Intelectuales, que tendrá a su cargo el Registro de Propiedad Intelectual y las demás funciones que le encomiende el Reglamento. Este organismo dependerá de la Dirección de Bibliotecas, Archivos y
-
-Museos y tendrá la siguiente Planta:
-
-Planta Directiva, Profesional y Técnica
-
-1 Conservador de Derechos Intelectuales, Abogado,
-
-3a. Categoría.
-
-1 Jefe de Sección, Abogado, 5a. Categoría.
-
-Planta Administrativa 1 Oficial, 5a. Categoría.
-
-1 Oficial, 6a. Categoría.
-
-1 Oficial, 7a. Categoría.
-
-2 Oficiales, Grado 1°.
-
-Planta Auxiliar
-
-1 Mayordomo, Grado 6°.
-
-1 Auxiliar, Grado 8°.
-
-Los gastos que demande esta planta por el presente año se imputarán al Presupuesto de Gastos Corrientes de la Secretaría y Administración General del Ministerio de Educación Pública.
+Créase el Departamento de Derechos Intelectuales, que tendrá a su cargo el Registro de Propiedad Intelectual y las demás funciones que le encomiende el reglamento. Este organismo dependerá del Servicio Nacional del Patrimonio Cultural.
 
 ## Título V
 
@@ -1248,11 +1222,11 @@ d) El destino del patrimonio, en el supuesto de liquidación de la entidad, y de
 
 #### Artículo 94
 
-Las entidades de gestión colectiva, para dar inicio a cualquiera de las actividades señaladas en el artículo 92 requerirán de una autorización previa del Ministro de Educación, la que se otorgará mediante resolución publicada en el Diario Oficial.
+Las entidades de gestión colectiva, para dar inicio a cualquiera de las actividades señaladas en el artículo 92 requerirán de una autorización previa del Ministro de las Culturas, las Artes y el Patrimonio, la que se otorgará mediante resolución publicada en el Diario Oficial.
 
 #### Artículo 95
 
-El Ministro de Educación otorgará la autorización prevista en el artículo anterior dentro de los 180 días siguientes a la presentación de la solicitud, si concurren las siguientes condiciones:
+El Ministro de las Culturas, las Artes y el Patrimonio otorgará la autorización prevista en el artículo anterior dentro de los 180 días siguientes a la presentación de la solicitud, si concurren las siguientes condiciones:
 
 a) Que los estatutos de la entidad solicitante cumplan los requisitos establecidos en este Título.
 
@@ -1264,9 +1238,9 @@ Si el Ministro no se pronunciare dentro del plazo señalado en el inciso anterio
 
 #### Artículo 96
 
-La autorización podrá ser revocada por el Ministro de Educación si sobreviniere o se pusiere de manifiesto algún hecho que pudiera haber originado la denegación de la autorización, o si la entidad de gestión dejase de cumplir gravemente las obligaciones establecidas en este Título. En estos casos, el Ministerio de Educación, en forma previa a la revocación, apercibirá a la entidad de gestión respectiva para que en el plazo que determine, que no podrá ser inferior a 90 días, subsane o corrija los hechos observados.
+La autorización podrá ser revocada por el Ministro de las Culturas, las Artes y el Patrimonio si sobreviniere o se pusiere de manifiesto algún hecho que pudiera haber originado la denegación de la autorización, o si la entidad de gestión dejase de cumplir gravemente las obligaciones establecidas en este Título. En estos casos, el Ministerio de las Culturas, las Artes y el Patrimonio, en forma previa a la revocación, apercibirá a la entidad de gestión respectiva para que en el plazo que determine, que no podrá ser inferior a 90 días, subsane o corrija los hechos observados.
 
-La revocación producirá sus efectos a los 90 días de la publicación de la resolución respectiva en el Diario Oficial, salvo que el Ministro de Educación fijare un plazo inferior en casos graves y calificados.
+La revocación producirá sus efectos a los 90 días de la publicación de la resolución respectiva en el Diario Oficial, salvo que el Ministro de las Culturas, las Artes y el Patrimonio fijare un plazo inferior en casos graves y calificados.
 
 #### Artículo 97
 
@@ -1308,7 +1282,7 @@ Lo dispuesto en este artículo no regirá respecto de la gestión de las obras l
 
 No obstante lo establecido en el inciso tercero del artículo anterior, las asociaciones con personalidad jurídica que representen a usuarios de derechos de autor o conexos, que no hubiesen alcanzado un acuerdo con una entidad de gestión colectiva sobre el monto de la tarifa, deberán someter la controversia a mediación, la que será obligatoria para ambas partes.
 
-La mediación será un procedimiento no adversarial y tendrá por objeto propender a que, mediante la comunicación directa entre las partes y con intervención de un mediador, éstas lleguen a una solución extrajudicial de la controversia. Los mediadores deberán inscribirse en un Registro Público de Mediadores y Árbitros de Propiedad Intelectual que llevará el Consejo Nacional de la Cultura y las Artes. Los mediadores y árbitros a que alude el artículo siguiente deberán contar con un título profesional, con al menos cinco años de ejercicio profesional y con experiencia calificada en el ámbito de propiedad intelectual o en el área de la actividad económica. Los procedimientos de inscripción en el Registro, la forma y características de éste, y los honorarios que mediadores y árbitros deberán percibir serán determinados por un reglamento dictado, dentro de los seis meses siguientes a la publicación de esta ley en el Diario Oficial, por el Ministerio de Educación y firmado, además, por el Ministro de Economía, Fomento y Turismo. La publicación del aviso a que alude el inciso cuarto de este artículo será solventado por la parte que impugna la tarifa.
+La mediación será un procedimiento no adversarial y tendrá por objeto propender a que, mediante la comunicación directa entre las partes y con intervención de un mediador, éstas lleguen a una solución extrajudicial de la controversia. Los mediadores deberán inscribirse en un Registro Público de Mediadores y Árbitros de Propiedad Intelectual que llevará el Ministerio de las Culturas, las Artes y el Patrimonio. Los mediadores y árbitros a que alude el artículo siguiente deberán contar con un título profesional, con al menos cinco años de ejercicio profesional y con experiencia calificada en el ámbito de propiedad intelectual o en el área de la actividad económica. Los procedimientos de inscripción en el Registro, la forma y características de éste, y los honorarios que mediadores y árbitros deberán percibir serán determinados por un reglamento dictado, dentro de los seis meses siguientes a la publicación de esta ley en el Diario Oficial, por el Ministerio de las Culturas, las Artes y el Patrimonio y firmado, además, por el Ministro de Economía, Fomento y Turismo. La publicación del aviso a que alude el inciso cuarto de este artículo será solventado por la parte que impugna la tarifa.
 
 El mediador será nombrado de común acuerdo por las partes, y a falta de acuerdo, la designación será realizada por el juez de letras en lo civil del domicilio de la entidad de gestión respectiva, a requerimiento de la asociación de usuarios o de la entidad de gestión, de entre los inscritos en el Registro Público de Mediadores y Árbitros de Propiedad Intelectual, sujetándose al procedimiento de designación de peritos establecido en el Código de Procedimiento Civil. La designación efectuada por el tribunal no será susceptible de recurso alguno. Para efectuar esta designación el juez deberá verificar, mediante los antecedentes aportados por las partes, que no se trata de una tarifa vigente determinada convencionalmente o por sentencia arbitral ejecutoriada, dictada dentro de los tres años anteriores a la fecha de presentación y que el asunto controvertido no se encuentre sometido a mediación o arbitraje, ni haya sido sometido a mediación o arbitraje en igual plazo. De verificar alguna de estas circunstancias, el juez rechazará de plano la solicitud de mediación.
 
@@ -1344,7 +1318,7 @@ Para resolver el arbitraje deberán considerarse, entre otros criterios, la cate
 
 En el curso del procedimiento el tribunal podrá llamar a las partes a conciliación. Asimismo, las partes podrán llegar a acuerdo, poniéndose término al procedimiento por la sola presentación del convenio de tarifas alcanzado. En este último caso, dicho convenio tendrá el valor de sentencia ejecutoriada.
 
-El tribunal, al dictar sentencia, deberá limitarse a optar exclusivamente por una de las propuestas de las partes entregadas en sobre cerrado. La sentencia del tribunal tendrá valor de sentencia ejecutoriada y constituirá un plan tarifario alternativo, pudiendo acogerse a estas tarifas especiales cualquier usuario que así lo solicite. Para estos efectos, la entidad de gestión colectiva deberá poner a disposición del público el laudo o, en su caso, el acuerdo. Igualmente, el tribunal remitirá copia al Consejo de la Cultura y las Artes, que llevará un registro público de los laudos y acuerdos.
+El tribunal, al dictar sentencia, deberá limitarse a optar exclusivamente por una de las propuestas de las partes entregadas en sobre cerrado. La sentencia del tribunal tendrá valor de sentencia ejecutoriada y constituirá un plan tarifario alternativo, pudiendo acogerse a estas tarifas especiales cualquier usuario que así lo solicite. Para estos efectos, la entidad de gestión colectiva deberá poner a disposición del público el laudo o, en su caso, el acuerdo. Igualmente, el tribunal remitirá copia a la Subsecretaría de las Culturas y las Artes, que llevará un registro público de los laudos y acuerdos.
 
 La tarifa adoptada bajo este procedimiento no podrá ser modificada por la entidad de gestión respectiva, ni someterse a una nueva mediación o a un nuevo arbitraje, en un plazo de tres años.
 
@@ -1366,7 +1340,7 @@ Las entidades de gestión autorizadas representarán legalmente a sus socios y r
 
 Para los efectos de este artículo, cada entidad de gestión llevará un registro público de sus asociados y representados extranjeros, el que podrá ser computarizado, con indicación de la entidad a que pertenecen y de la categoría de derecho que administra, de acuerdo al género de obras respectivo.
 
-Cada entidad de gestión enviará al Ministerio de Educación, copia de los contratos de representación, legalizados y protocolizados, celebrados con las entidades de gestión extranjeras del mismo género o géneros de obras, los cuales también deberán mantenerse en el domicilio de la entidad de gestión a disposición de cualquier interesado.
+Cada entidad de gestión enviará al Ministerio de las Culturas, las Artes y el Patrimonio, copia de los contratos de representación, legalizados y protocolizados, celebrados con las entidades de gestión extranjeras del mismo género o géneros de obras, los cuales también deberán mantenerse en el domicilio de la entidad de gestión a disposición de cualquier interesado.
 
 ## Título VI
 

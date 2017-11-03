@@ -96,8 +96,6 @@ En el mes de Marzo de cada año, los Subsecretarios de Estado, los Intendentes, 
 
 No obstante, la documentación del Ministerio de Defensa Nacional, de las Fuerzas Armadas, de Orden y Seguridad Pública, y de los demás organismos dependientes de esa Secretaría de Estado o que se relacionen con el Supremo Gobierno por su intermedio, se archivará y eliminará conforme a lo que disponga la reglamentación ministerial e institucional respectiva. No será aplicable a dicho Ministerio ni a las Instituciones u Organismos referidos en este inciso, el artículo 18 de esta ley.
 
-Los documentos generados electrónicamente, así como los documentos creados en soporte electrónico a partir de originales digitalizados, de acuerdo a lo establecido en la ley Nº 18.845, deberán ser enviados por los órganos señalados en este artículo y almacenados por el Archivo Nacional, en formato electrónico, lo cual podrá ser realizado incluso con anterioridad a los plazos establecidos en el inciso primero, esto último previa autorización del Archivo Nacional.
-
 #### Artículo 15
 
 El Servicio Nacional del Patrimonio Cultural adquirirá todos aquellos documentos, impresos y objetos que se encuentren en poder de particulares y que tengan interés para la historia patria y para las colecciones de los establecimientos a su cargo.

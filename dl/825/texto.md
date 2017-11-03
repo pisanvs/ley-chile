@@ -338,7 +338,7 @@ E.- Las siguientes remuneraciones y servicios:
 
 1.- Los ingresos percibidos por concepto de entradas a los siguientes espectáculos y reuniones:
 
-a) Artísticos, científicos o culturales, teatrales, musicales, poéticos, de danza y canto, que por su calidad artística y cultural cuenten con el auspicio del Ministerio de Educación Pública.
+a) Artísticos, científicos o culturales, teatrales, musicales, poéticos, de danza y canto, que por su calidad artística y cultural cuenten con el auspicio otorgado por el Subsecretario de las Culturas, quien podrá delegar esta atribución en los secretarios regionales ministeriales del ramo. En el ejercicio de esta atribución, los secretarios regionales ministeriales deberán considerar los criterios que establezca el Subsecretario referido, mediante resolución dictada para estos efectos. Dicho Subsecretario emitirá un reporte anual sobre los auspicios otorgados, el que deberá remitir al Ministro del ramo, al Subsecretario de Hacienda, a las Comisiones de Hacienda y de Educación y Cultura del Senado y a las Comisiones de Hacienda y de Educación de la Cámara de Diputados.
 
 b) De carácter deportivo;
 

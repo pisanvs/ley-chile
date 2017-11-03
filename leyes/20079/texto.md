@@ -260,7 +260,7 @@ Agrégase en el inciso segundo del artículo 1° transitorio de la ley N° 20.05
 
 #### Artículo 35
 
-El Presidente del Consejo Nacional de la Cultura y las Artes podrá contratar, según las normas del Código del Trabajo y sus disposiciones complementarias, al personal que se desempeña en la Orquesta de Cámara de Chile y el Ballet Folclórico Nacional, hasta el máximo de trabajadores que autorice la Ley de Presupuestos.
+El Subsecretario de las Culturas y las Artes podrá contratar, según las normas del Código del Trabajo y sus disposiciones complementarias, al personal que se desempeña en la Orquesta de Cámara de Chile y el Ballet Folclórico Nacional, hasta el máximo de trabajadores que autorice la Ley de Presupuestos.
 
 Para los efectos de lo dispuesto en este artículo, durante el año 2006 el Consejo Nacional de la Cultura y las Artes podrá contratar hasta 87 trabajadores cuyo gasto será imputado al ítem 09-16-01-24-03.098, de la Partida Presupuestaria del Ministerio de Educación.
 

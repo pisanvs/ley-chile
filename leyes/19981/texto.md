@@ -54,13 +54,13 @@ Del Consejo del Arte y la Industria Audiovisual
 
 #### Artículo 4º
 
-Créase, en el Consejo Nacional de la Cultura y las Artes, el Consejo del Arte y la Industria Audiovisual, en adelante el Consejo.
+Créase, en el Ministerio de las Culturas, las Artes y el Patrimonio, el Consejo del Arte y la Industria Audiovisual, en adelante el Consejo.
 
 #### Artículo 5º
 
 El Consejo se reunirá periódicamente, y estará integrado por:
 
-a) El Presidente del Consejo Nacional de la Cultura y las Artes, o su representante, quien lo presidirá;
+a) El Subsecretario de las Culturas y las Artes, o su representante, quien lo presidirá;
 
 b) Un representante del Ministerio de Relaciones Exteriores;
 
@@ -72,33 +72,33 @@ d) Un representante de la Corporación de Fomento de la Producción;
 
 e) Un representante del Consejo Nacional de Televisión;
 
-f) Un representante de los directores de largometraje de ficción, designado por la entidad de carácter nacional más representativa que los agrupe, en la forma que determine el reglamento, el cual será nombrado mediante resolución firmada por el Presidente del Consejo Nacional de la Cultura y las Artes;
+f) Un representante de los directores de largometraje de ficción, designado por la entidad de carácter nacional más representativa que los agrupe, en la forma que determine el reglamento, el cual será nombrado mediante resolución firmada por el Subsecretario de las Culturas y las Artes;
 
-g) Un representante de los directores de otros formatos audiovisuales, designado por la entidad de carácter nacional más representativa que los agrupe, en la forma que determine el reglamento, el cual será nombrado mediante resolución firmada por el Presidente del Consejo Nacional de la Cultura y las Artes;
+g) Un representante de los directores de otros formatos audiovisuales, designado por la entidad de carácter nacional más representativa que los agrupe, en la forma que determine el reglamento, el cual será nombrado mediante resolución firmada por el Subsecretario de las Culturas y las Artes;
 
-h) Un representante de los directores y productores de documentales, designado por la entidad de carácter nacional más representativa que los agrupe, en la forma que determine el reglamento, el cual será nombrado mediante resolución firmada por el Presidente del Consejo Nacional de la Cultura y las Artes;
+h) Un representante de los directores y productores de documentales, designado por la entidad de carácter nacional más representativa que los agrupe, en la forma que determine el reglamento, el cual será nombrado mediante resolución firmada por el Subsecretario de las Culturas y las Artes;
 
-i) Un representante de los productores de audiovisuales, designado por la entidad de carácter nacional más representativa que los agrupe, en la forma que determine el reglamento, el cual será nombrado mediante resolución firmada por el Presidente del Consejo Nacional de la Cultura y las Artes;
+i) Un representante de los productores de audiovisuales, designado por la entidad de carácter nacional más representativa que los agrupe, en la forma que determine el reglamento, el cual será nombrado mediante resolución firmada por el Subsecretario de las Culturas y las Artes;
 
-j) Un representante de los actores o actrices de audiovisuales, designado por la entidad de carácter nacional más representativa que los agrupe, en la forma que determine el reglamento, el cual será nombrado mediante resolución firmada por el Presidente del Consejo Nacional de la Cultura y las Artes;
+j) Un representante de los actores o actrices de audiovisuales, designado por la entidad de carácter nacional más representativa que los agrupe, en la forma que determine el reglamento, el cual será nombrado mediante resolución firmada por el Subsecretario de las Culturas y las Artes;
 
-k) Un representante de los técnicos de la producción audiovisual, designado por la entidad de carácter nacional más representativa que los agrupe, en la forma que determine el reglamento, el cual será nombrado mediante resolución firmada por el Presidente del Consejo Nacional de la Cultura y las Artes;
+k) Un representante de los técnicos de la producción audiovisual, designado por la entidad de carácter nacional más representativa que los agrupe, en la forma que determine el reglamento, el cual será nombrado mediante resolución firmada por el Subsecretario de las Culturas y las Artes;
 
-l) Tres representantes de la actividad audiovisual regional, los que deberán desarrollarla y residir en Regiones distintas a la Metropolitana, designados por las organizaciones regionales más representativas, en la forma que determine el reglamento, los cuales serán nombrados mediante resolución firmada por el Presidente del Consejo Nacional de la Cultura y las Artes;
+l) Tres representantes de la actividad audiovisual regional, los que deberán desarrollarla y residir en Regiones distintas a la Metropolitana, designados por las organizaciones regionales más representativas, en la forma que determine el reglamento, los cuales serán nombrados mediante resolución firmada por el Subsecretario de las Culturas y las Artes;
 
-m) Un representante de los guionistas, designado por el Presidente del Consejo Nacional de la Cultura y las Artes, en la forma que determine el reglamento, y n) Dos académicos de reconocido prestigio profesional en materias audiovisuales, propuestos por entidades de educación superior que gocen de autonomía y que impartan formación profesional audiovisual, designados por el Presidente del Consejo Nacional de la Cultura y las Artes, debiendo uno de ellos pertenecer a una entidad de una región distinta a la Metropolitana.
+m) Un representante de los guionistas, designado por el Subsecretario de las Culturas y las Artes, en la forma que determine el reglamento, y n) Dos académicos de reconocido prestigio profesional en materias audiovisuales, propuestos por entidades de educación superior que gocen de autonomía y que impartan formación profesional audiovisual, designados por el Subsecretario de las Culturas y las Artes, debiendo uno de ellos pertenecer a una entidad de una región distinta a la Metropolitana.
 
-Los integrantes del Consejo señalados en las letras f), g), h), i), j), k), l), m) y n) durarán dos años en sus funciones, pudiendo ser designados hasta por un nuevo período consecutivo y no percibirán remuneración por el ejercicio de sus funciones.
+Los integrantes del Consejo señalados en las letras f), g), h), i), j), k), l), m) y n) durarán dos años en sus funciones, pudiendo ser designados hasta por un nuevo período consecutivo.
 
 #### Artículo 6º
 
-El Consejo sesionará, a lo menos, tres veces en el año a citación del Presidente del Consejo Nacional de la Cultura y las Artes y cada vez que así lo soliciten la mitad de sus miembros. El Consejo Nacional de la Cultura y las Artes será el encargado de ejecutar los acuerdos del Consejo del Arte y la Industria Audiovisual.
+El Consejo sesionará, a lo menos, tres veces en el año a citación del Subsecretario de las Culturas y las Artes y cada vez que así lo soliciten la mitad de sus miembros. El Ministerio de las Culturas, las Artes y el Patrimonio será el encargado de ejecutar los acuerdos del Consejo del Arte y la Industria Audiovisual.
 
 #### Artículo 7°
 
 Serán facultades del Consejo, las siguientes:
 
-1) Asesorar al Consejo Nacional de la Cultura y las Artes en la formulación y elaboración de la política de desarrollo estratégico nacional del audiovisual.
+1) Asesorar al Ministerio de las Culturas, las Artes y el Patrimonio en la formulación y elaboración de la política de desarrollo estratégico nacional del audiovisual.
 
 Para tal efecto, el Consejo podrá solicitar información de datos y estadísticas de la actividad audiovisual que realicen tanto personas naturales como jurídicas, públicas o privadas;
 
@@ -110,7 +110,7 @@ Para tal efecto, el Consejo podrá solicitar información de datos y estadístic
 
 5) Estimular, a través de becas, pasantías, tutorías y residencias con cargo a los recursos del Fondo, acciones orientadas al desarrollo de la educación artística y profesional audiovisual, al perfeccionamiento docente, a la producción de obras de interés académico, así como al desarrollo de programas de investigación y difusión de las nuevas tendencias creativas y de innovación tecnológica;
 
-6) Proponer, a través de programas y subvenciones, con cargo a los recursos del Fondo, el desarrollo de acciones orientadas a participar y a colaborar en la preservaci�n y difusión del patrimonio audiovisual, así como a fomentar la difusión cultural audiovisual, tales como cine clubes, cine arte y salas culturales audiovisuales, en todo el país, y, especialmente en zonas rurales, populares y localidades de población mediana y pequeña;
+6) Proponer, a través de programas y subvenciones, con cargo a los recursos del Fondo, el desarrollo de acciones orientadas a participar y a colaborar en la preservación y difusión del patrimonio audiovisual, así como a fomentar la difusión cultural audiovisual, tales como cine clubes, cine arte y salas culturales audiovisuales, en todo el país, y, especialmente en zonas rurales, populares y localidades de población mediana y pequeña;
 
 7) Proponer medidas de fomento tendientes a desarrollar la producción audiovisual chilena, atendiendo a la especificidad de cada tipo de producción, en sus aspectos culturales, artísticos, técnicos, industriales y comerciales, así como la realización de festivales y muestras cinematográficas;
 
@@ -142,7 +142,7 @@ Del Fondo de Fomento Audiovisual
 
 #### Artículo 8º
 
-Créase el Fondo de Fomento Audiovisual, en adelante el Fondo, administrado por el Consejo Nacional de la Cultura y las Artes, destinado a otorgar ayudas para el financiamiento de proyectos, programas y acciones de fomento de la actividad audiovisual nacional.
+Créase el Fondo de Fomento Audiovisual, en adelante el Fondo, administrado por el Ministerio de las Culturas, las Artes y el Patrimonio, destinado a otorgar ayudas para el financiamiento de proyectos, programas y acciones de fomento de la actividad audiovisual nacional.
 
 El patrimonio del Fondo estará integrado por:
 
@@ -194,7 +194,7 @@ Anualmente, el Consejo definirá un porcentaje de óperas primas nacionales a co
 
 #### Artículo 10
 
-Un reglamento suscrito por el Ministro de Educación y el Ministro de Hacienda regulará el Fondo, el que deberá incluir, entre otras normas, los criterios de evaluación; elegibilidad; selección; estructura de financiamiento; viabilidad técnica y financiera; impacto social, artístico y cultural; la forma de selección y designación de los comités de especialistas para la evaluación de los proyectos presentados al Fondo, y los compromisos y garantías de resguardo para el Fisco.
+Un reglamento suscrito por el Ministro de las Culturas, las Artes y el Patrimonio y el Ministro de Hacienda regulará el Fondo, el que deberá incluir, entre otras normas, los criterios de evaluación; elegibilidad; selección; estructura de financiamiento; viabilidad técnica y financiera; impacto social, artístico y cultural; la forma de selección y designación de los comités de especialistas para la evaluación de los proyectos presentados al Fondo, y los compromisos y garantías de resguardo para el Fisco.
 
 Asimismo, el reglamento determinará las fechas y plazos de convocatoria a concursos, las modalidades de información pública que aseguren un amplio conocimiento de la ciudadanía sobre su realización y resultados, los mecanismos de control y evaluación de la ejecución de las iniciativas, proyectos, actividades y programas que aseguren el correcto empleo de los recursos del Fondo destinados de acuerdo a lo dispuesto en el artículo anterior, así como la información que los productores y exhibidores deberán proporcionar acerca de costos definidos de producción e ingresos obtenidos por la exhibición y comercialización de la respectiva película.
 

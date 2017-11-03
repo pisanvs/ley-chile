@@ -174,7 +174,7 @@ El Fondo se desglosará, a lo menos, en las siguientes líneas específicas de f
 
 1) Fomento de las Artes.
 
-Destinada a financiar proyectos de creación, producción y difusión artística en artes visuales y otras disciplinas artísticas. Los recursos se otorgarán mediante concurso público.
+Destinada a financiar proyectos de creación, producción y difusión artística en teatro, danza, artes visuales y otras disciplinas artísticas. Los recursos se otorgarán mediante concurso público.
 
 2) Desarrollo Cultural Regional.
 

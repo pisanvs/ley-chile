@@ -12,11 +12,11 @@ Créanse los Premios Nacionales de Literatura; Periodismo; Ciencias Exactas; Cie
 
 En forma excepcional, igual galardón podrá ser otorgado a una personalidad extranjera de larga residencia en Chile y cuya obra científica o creativa se haya desarrollado en el país y signifique un aporte de excelencia y relevancia a la ciencia, la cultura o el arte nacionales.
 
-Estos premios se otorgarán en forma indivisible, cada dos años, con excepción del Premio Nacional de Literatura, que se otorgará anualmente. No obstante, el jurado, por la unanimidad de sus miembros, en casos calificados, podrá asignar el premio conjuntamente a dos o más personas que hayan constituido un equipo de trabajo en forma tal que sea difícil o injusto atribuirlo a sólo uno de ellos por ser de mérito colectivo, o excluirlo de él, por haber realizado en conjunto una obra excepcional. En tal caso corresponderá al jurado, por la misma unanimidad, determinar la proporción o forma en que cada premiado participará de los beneficios económicos que el galardón contempla.
+Estos premios se otorgarán cada dos años y en forma indivisible. No obstante, el jurado, por la unanimidad de sus miembros, en casos calificados, podrá asignar el premio conjuntamente a dos o más personas que hayan constituido un equipo de trabajo en forma tal que sea difícil o injusto atribuirlo a sólo uno de ellos por ser de mérito colectivo, o excluirlo de él, por haber realizado en conjunto una obra excepcional. En tal caso corresponderá al jurado, por la misma unanimidad, determinar la proporción o forma en que cada premiado participará de los beneficios económicos que el galardón contempla.
 
 #### Artículo 2°
 
-El Premio Nacional de Literatura se concederá al escritor cuya obra lo haga acreedor de dicha distinción.
+El Premio Nacional de Literatura se concederá al escritor cuya obra, en cualquier género literario, lo haga acreedor de dicha distinción.
 
 #### Artículo 3°
 
@@ -68,7 +68,7 @@ Un académico designado por el Consejo de Rectores, elegido entre el resto de la
 
 e) Ciencias Aplicadas y Tecnológicas:
 
-Un académico designado por el Consejo de Rectores, elegido entre el resto de las universidades que lo integran, y un representante del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación;
+Un académico designado por el Consejo de Rectores, elegido entre el resto de las universidades que lo integran, y el Presidente de la Comisión Nacional de Investigaciones Científicas y Tecnológicas;
 
 f) Historia:
 
@@ -124,7 +124,7 @@ III.- DEL PROCEDIMIENTO
 
 #### Artículo 12
 
-Los premios nacionales se otorgarán en número de cinco y siete cada año, respectivamente, según la siguiente alternancia: en los años pares, los Premios de Literatura - narrativa, de Ciencias Naturales, de Ciencias Aplicadas y Tecnológicas, de Historia y de Artes Musicales; en los años impares, los Premios de Literatura - poesía, de Periodismo, de Ciencias Exactas, de Ciencias de la Educación, de Artes Plásticas, de Artes de la Representación y Audiovisuales y de Humanidades y Ciencias Sociales.
+Los premios nacionales se otorgarán en número de cinco y seis cada año, respectivamente, según la siguiente alternancia: en los años pares, los Premios de Literatura, de Ciencias Naturales, de Ciencias Aplicadas y Tecnológicas, de Historia y de Artes Musicales; en los años impares, los Premios de Periodismo, de Ciencias Exactas, de Ciencias de la Educación, de Artes Plásticas, de Artes de la Representación y Audiovisuales y de Humanidades y Ciencias Sociales.
 
 #### Artículo 13
 

@@ -52,13 +52,15 @@ El Presidente de la República ejercerá el gobierno y administración del Estad
 
 18° Bienes Nacionales;
 
-19º Energía, y
+19º Energía;
 
-20º Medio Ambiente.
+20º Medio Ambiente; y
+
+21° Las Culturas, las Artes y el Patrimonio.
 
 El orden de precedencia de los Ministerios será el asignado en el presente decreto.
 
-En los casos de ausencia, enfermedad o renuncia de alguno de los Ministros, lo reemplazará, siempre que el Presidente de la República no hiciere designación expresa, aquel que le suceda en el orden de precedencia establecido.
+En los casos de ausencia, enfermedad o renuncia de alguno de los Ministros, lo reemplazará, siempre que el |residente de la República no hiciere designación expresa, aquel que le suceda en el orden de precedencia establecido.
 
 > **Nota.** NOTA: 1 - El D.F.L. 4.770 de 1929 creó el Ministerio de la Propiedad Austral y señaló fecha de su disolución. - El DL 3274, de 1980, fijó la Ley Orgánica del Ministerio de Bienes Nacionales. - El DFL 294 de 1960, estableció funciones, atribuciones y organización del Ministerio de Agricultura. - La Ley 7.200, art. 12, aprobó la creación del Ministerio de Comercio y Abastecimiento. Posteriormente el D.F.L. 88, de 1953, reestructuró el Ministerio de Economía y Comercio el que pasó a denominarse Ministerio de Economía. Finalmente, el art. 1° de la Ley 14.171 dispuso que el Ministerio de Economía se denominará Ministerio de Economía, Fomento y Reconstrucción y le fijó nuevas atribuciones. El DL 1626 de 1976, creó la Subsecretaría de Pesca, dependiente del Ministerio de Economía, Fomento y Reconstrucción. - El D.F.L. 302, de 1960, fijó la Ley Orgánica del Ministerio de Minería. - El DL 557, de 1974, creó el Ministerio de Transportes. Posteriormente el DL 1762, de 1977, dispuso que el Ministerio de Transportes se denominará "Ministerio de Transportes y Telecomunicaciones" y creó la Subsecretaría de Telecomunicaciones. - La Ley 15.266 fijó el Estatuto Orgánico del Ministerio de Relaciones Exteriores. - El DL 1.385, de 1976, otorgó la calidad de Ministerio a la Secretaría General de Gobierno. - La Ley 16.391, creó el Ministerio de la Vivienda y Urbanismo, el que posteriormente fue reestructurado por el DL 1.305, de 1976.
 

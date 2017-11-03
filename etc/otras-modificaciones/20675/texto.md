@@ -316,7 +316,7 @@ El Reglamento mencionado en el N° 5), del artículo 1°, de la Ley sobre Donaci
 
 #### Artículo tercero
 
-Durante el primer trimestre del año 2017, el Consejo Nacional de la Cultura y las Artes deberá encargar a expertos independientes la realización de una evaluación de la presente ley en cuanto instrumento de fomento para la realización de actividades culturales.
+Durante el primer trimestre del año 2017, el Ministerio de las Culturas, las Artes y el Patrimonio deberá encargar a expertos independientes la realización de una evaluación de la presente ley en cuanto instrumento de fomento para la realización de actividades culturales.
 
 Adicionalmente, el Servicio de Impuestos Internos deberá confeccionar un informe completo acerca del uso de la franquicia para donaciones culturales, incluyendo todos los donantes y donatarios, los montos involucrados y una reseña sobre todos los procesos de fiscalización efectuados, incluyendo citaciones, liquidaciones y eventuales juicios tributarios. Este informe deberá ser enviado a las Comisiones de Hacienda y de Educación, Deportes y Recreación de la Cámara de Diputados, y de Hacienda y de Educación, Cultura, Ciencia y Tecnología del Senado.
 

@@ -18,11 +18,11 @@ De los monumentos nacionales.
 
 #### Artículo 2°
 
-El Consejo de Monumentos Nacionales es un organismo técnico que depende directamente del Ministerio de Educación Pública y que se compone de los siguientes miembros:
+El Consejo de Monumentos Nacionales es un organismo técnico que depende directamente del Ministerio de las Culturas, las Artes y el Patrimonio y que se compone de los siguientes miembros:
 
-a) Del Ministro de Educación Pública, que lo presidirá;
+a) Del Subsecretario del Patrimonio Cultural, quien lo presidirá;
 
-b) Del Director de Bibliotecas, Archivos y Museos, que será su Vicepresidente Ejecutivo;
+b) Del Director del Servicio Nacional del Patrimonio Cultural, quien será su Vicepresidente Ejecutivo y subrogará al Subsecretario cuando éste se encuentre impedido de asistir por cualquier causa;
 
 c) Del Conservador del Museo Histórico Nacional;
 
@@ -54,19 +54,23 @@ p) De un escultor que represente a la Sociedad Nacional de Bellas Artes y a la A
 
 q) De un representante del Instituto de Conmemoración Histórica de Chile;
 
-r) De un representante de la Sociedad Chilena de Arqueología, y
+r) De un representante de la Sociedad Chilena de Arqueología;
 
 s) De un miembro del Instituto de Historia de la Arquitectura de la Facultad de Arquitectura y Urbanismo de la Universidad de Chile.
 
-El Presidente de la República designará, cada tres años, a los miembros del Consejo que no lo sean por derecho propio, a propuesta de las respectivas instituciones, a excepción del cargo de la letra o), que será propuesto por el Ministerio de Educación Pública, y del de la letra p), que será designado a propuesta en terna de las dos entidades que allí se mencionan.
+El Presidente de la República designará, cada tres años, a los miembros del Consejo que no lo sean por derecho propio, a propuesta de las respectivas instituciones, a excepción del cargo de la letra o), que será propuesto por el Ministerio de las Culturas, las Artes y el Patrimonio, y del de la letra p), que será designado a propuesta en terna de las dos entidades que allí se mencionan.
 
-t)Un representante del Consejo Nacional de la Cultura y las Artes, y
+t) De un representante de asociaciones de barrios y zonas patrimoniales, nombrado de conformidad al reglamento;
 
-u) Un representante del Servicio Nacional de Turismo.
+u) De un representante del Colegio de Arqueólogos de Chile, y
+
+v) Un representante del Servicio Nacional de Turismo.
+
+Los consejeros que no sean funcionarios públicos tendrán derecho a percibir una dieta mensual equivalente a ocho unidades de fomento, siempre que asistan a lo menos a una sesión mensual, considerando tanto las sesiones ordinarias como las extraordinarias. Esta dieta será compatible con otros ingresos que perciba el consejero.
 
 #### Artículo 3
 
-°- El Consejo tendrá un Secretario encargado de extender las Actas, tramitar sus acuerdos y desempeñar las comisiones que se le encomienden y cuya remuneración se consultará anualmente en el Presupuesto del Ministerio de Educación Pública. El Secretario tendrá el carácter de ministro de fe para todos los efectos legales.
+°- El Consejo tendrá un Secretario encargado de extender las Actas, tramitar sus acuerdos y desempeñar las comisiones que se le encomienden y cuya remuneración se consultará anualmente en el Presupuesto del Servicio Nacional del Patrimonio Cultural. El Secretario tendrá el carácter de ministro de fe para todos los efectos legales.
 
 #### Artículo 4
 
@@ -84,7 +88,7 @@ El Consejo podrá hacerse asesorar por otros especialistas cuando lo estime conv
 
 1.- Pronunciarse sobre la conveniencia de declarar Monumentos Nacionales los lugares, ruinas, construcciones u objetos que estime del caso y solicitar de la autoridad competente la dictación del decreto supremo correspondiente.
 
-2.- Formar el Registro de Monumentos Nacionales y Museos.
+2.- Eliminado.
 
 3.- Elaborar los proyectos o normas de restauración, reparación, conservación y señalización de los Monumentos Nacionales y entregar los antecedentes a la Dirección de Arquitectura del Ministerio de Obras Públicas y Transportes para la ejecución, de común acuerdo, de los trabajos correspondientes, sin perjuicio de las obras que el Consejo pudiera realizar por sí mismo o por intermedio de otro organismo y para cuyo financiamiento se consultaren o se recibieren fondos especiales del Presupuesto de la Nación o de otras fuentes.
 
@@ -126,7 +130,7 @@ Los Monumentos Históricos quedan bajo el control y la supervigilancia del Conse
 
 Los objetos que formen parte o pertenezcan a un Monumento Histórico no podrán ser removidos sin autorización del Consejo, el cual indicará la forma en que se debe proceder en cada caso.
 
-Estarán exentos de esta autorización los préstamos de colecciones o piezas museológicas entre museos o entidades del Estado dependientes de la Dirección de Bibliotecas, Archivos y Museos del Ministerio de Educación Pública.
+Estarán exentos de esta autorización los préstamos de colecciones o piezas museológicas entre museos o entidades del Estado dependientes del Servicio Nacional del Patrimonio Cultural.
 
 #### Artículo 12°
 
@@ -284,11 +288,11 @@ De los canjes y préstamos entre Museos
 
 #### Artículo 33°
 
-Los Museos del Estado dependientes de la Dirección de Bibliotecas, Archivos y Museos podrán efectuar entre ellos canjes y préstamos de colecciones u objetos repetidos, previa autorización del Director de Bibliotecas, Archivos y Museos, otorgada mediante resolución fundada.
+Los Museos del Estado dependientes del Servicio Nacional del Patrimonio Cultural podrán efectuar entre ellos canjes y préstamos de colecciones u objetos repetidos, previa autorización del Director Nacional del Servicio Nacional del Patrimonio Cultural, otorgada mediante resolución fundada.
 
 #### Artículo 34°
 
-Los Museos del Estado podrán efectuar canjes y préstamos con Museos o instituciones científicas de carácter privado, siempre que su solvencia garantice el retorno de las especies o colecciones dadas en préstamo, lo que será calificado por el Director de Bibliotecas, Archivos y Museos, previo informe del Conservador del Museo respectivo. El reglamento determinará las condiciones y modalidades de estos canjes y préstamos.
+Los Museos del Estado podrán efectuar canjes y préstamos con Museos o instituciones científicas de carácter privado, siempre que su solvencia garantice el retorno de las especies o colecciones dadas en préstamo, lo que será calificado por el Director Nacional del Servicio Nacional del Patrimonio Cultural, previo informe del Conservador del Museo respectivo. El reglamento determinará las condiciones y modalidades de estos canjes y préstamos.
 
 Igualmente, podrán efectuar préstamos o comodato al Congreso Nacional y a la Excma. Corte Suprema de Justicia, a petición de los Presidentes de la H. Cámara de Diputados, del H. Senado o de la Excma. Corte Suprema, en su caso.
 
@@ -308,9 +312,9 @@ Del Registro e Inscripciones
 
 #### Artículo 37°
 
-Los Museos del Estado y los que pertenezcan a establecimientos de enseñanza particular, universidades, municipalidades, corporaciones e institutos científicos o a particulares, estén o no abiertos al público, deberán ser inscritos en el Registro que para este efecto llevará el Consejo de Monumentos Nacionales, en la forma que establezca el Reglamento.
+Los Museos del Estado y los que pertenezcan a establecimientos de enseñanza particular, universidades, municipalidades, corporaciones e institutos científicos o a particulares, estén o no abiertos al público, deberán ser inscritos en el Registro que para este efecto llevará el Servicio Nacional del Patrimonio Cultural, en la forma que establezca el Reglamento.
 
-Deberán, además, confeccionar un catálogo completo de las piezas o colecciones que posean, el que deberá ser remitido en duplicado al Consejo.
+Deberán, además, confeccionar un catálogo completo de las piezas o colecciones que posean, el que deberá ser remitido en duplicado al Consejo de Monumentos Nacionales.
 
 Anualmente, los Museos de los servicios y establecimientos indicados en el inciso primero deberán comunicar al Consejo de Monumentos Nacionales las nuevas adquisiciones que hubieren hecho durante el año y las piezas o colecciones que hayan sido dadas de baja, facilitadas en préstamo o enviadas en canje a otros establecimientos similares.
 

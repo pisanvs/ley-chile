@@ -1102,7 +1102,7 @@ En caso de que la solicitud establecida en este artículo involucre torres sopor
 
 - **g)** y
 
-- **h)** anteriores. A este mismo régimen estarán sometidas aquellas torres soporte de antenas y sistemas radiantes financiadas por la respectiva concesionaria que constituyan una contribución a la arquitectura y al entorno urbano por tratarse de un objeto de arte para la ciudad certificado por un Comité de Expertos convocado por el Consejo Nacional de la Cultura y las Artes integrado por dos miembros del Colegio de Arquitectos designados por éste, dos artistas de reconocida trayectoria en el ámbito artístico pertinente nombrados por el Consejo y un representante de este último organismo nominado por su Presidente, quien tendrá voto dirimente.
+- **h)** anteriores. A este mismo régimen estarán sometidas aquellas torres soporte de antenas y sistemas radiantes financiadas por la respectiva concesionaria que constituyan una contribución a la arquitectura y al entorno urbano por tratarse de un objeto de arte para la ciudad certificado por un Comité de Expertos convocado por el Ministerio de las Culturas, las Artes y el Patrimonio integrado por dos miembros del Colegio de Arquitectos designados por éste, dos artistas de reconocida trayectoria en el ámbito artístico pertinente nombrados por el Ministerio y un representante de este último organismo nominado por el Ministro, quien tendrá voto dirimente.
 
 Las torres que estén instaladas y las que se pretenda emplazar en zonas declaradas de interés turístico a que se refiere el Nº 7) del artículo 8º de la ley Nº 20.423 deberán reunir las condiciones de diseño y construcción establecidas en la letra
 

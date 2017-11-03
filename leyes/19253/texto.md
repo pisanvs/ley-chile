@@ -366,9 +366,9 @@ d) La sustitución de topónimos indígenas.
 
 #### Artículo 30
 
-Créase, dependiente del Archivo Nacional de la Dirección de Bibliotecas, Archivos y Museos, un departamento denominado Archivo General de Asuntos Indígenas, con sede en la ciudad de Temuco, que reunirá y conservará tanto los documentos oficiales que se vayan generando sobre materias indígenas, cuanto los instrumentos, piezas, datos, fotos, audiciones y demás antecedentes que constituyen el patrimonio histórico de los indígenas de Chile. Esta sección, para todos los efectos, pasará a ser la sucesora legal del Archivo General de Asuntos Indígenas a que se refiere el artículo 58 de la ley N° 17.729.
+Créase, dependiente del Archivo Nacional de el Servicio Nacional del Patrimonio Cultural, un departamento denominado Archivo General de Asuntos Indígenas, con sede en la ciudad de Temuco, que reunirá y conservará tanto los documentos oficiales que se vayan generando sobre materias indígenas, cuanto los instrumentos, piezas, datos, fotos, audiciones y demás antecedentes que constituyen el patrimonio histórico de los indígenas de Chile. Esta sección, para todos los efectos, pasará a ser la sucesora legal del Archivo General de Asuntos Indígenas a que se refiere el artículo 58 de la ley N° 17.729.
 
-La Dirección de Bibliotecas, Archivos y Museos podrá organizar, a proposición del Director Nacional de la Corporación y con acuerdo del Consejo, secciones de este Archivo en otras regiones del país referidas a agrupaciones y culturas indígenas particulares.
+El Servicio Nacional del Patrimonio Cultural podrá organizar, a proposición del Director Nacional de la Corporación y con acuerdo del Consejo, secciones de este Archivo en otras regiones del país referidas a agrupaciones y culturas indígenas particulares.
 
 Este Archivo estará a cargo de un Archivero General de Asuntos Indígenas que tendrá carácter de Ministro de Fe en sus actuaciones como funcionario.
 
@@ -1126,7 +1126,7 @@ El traspaso de personal a que se refiere el inciso anterior, se dispondrá sin s
 
 Mientras no se construya o habilite en la ciudad de Temuco un edificio para alojar el Archivo General de Asuntos Indígenas y no exista un presupuesto especial para estos efectos, circunstancia que calificará el Director Nacional de la Corporación, se suspenderá la entrada en vigencia del artículo 30 de esta ley y dicho Archivo dependerá de la Corporación Nacional de Desarrollo Indígena, quien cumplirá las funciones del inciso tercero del artículo 15 en la forma ahí señalada.
 
-El presupuesto de la Dirección de Bibliotecas, Archivos y Museos, para 1994 contemplará los recursos para la construcción y habilitación del Archivo General de Asuntos Indígenas, a que se refiere el artículo 30 de esta ley.
+El presupuesto del Servicio Nacional del Patrimonio Cultural, para 1994 contemplará los recursos para la construcción y habilitación del Archivo General de Asuntos Indígenas, a que se refiere el artículo 30 de esta ley.
 
 #### Artículo 9°
 

@@ -176,9 +176,9 @@ Suprímense el Departamento del Pequeño Derecho de Autor de la Universidad de C
 
 Derógase el artículo 3° de la ley N° 19.072.
 
-#### Artículo 4°
+#### Artículo 4
 
-Los fondos recaudados por las entidades de gestión colectiva de derechos intelectuales, que no sean distribuidos o no sean cobrados por sus titulares, dentro del plazo de tres años contado desde su percepción, incrementarán los recursos que anualmente destine el Ministerio de Educación para financiar los proyectos de desarrollo artístico y cultural que se encuentran reglamentados en la forma establecida en la glosa 09 de la Subsecretaría de dicho Ministerio de la Ley de Presupuestos del Sector Público del presente año, y en el Decreto Supremo N° 125, de Educación, de 1992.
+Los fondos recaudados por las entidades de gestión colectiva de derechos intelectuales, que no sean distribuidos o no sean cobrados por sus titulares, dentro del plazo de tres años contado desde su percepción, incrementarán los recursos que anualmente destine el Ministerio de las Culturas, las Artes y el Patrimonio para financiar los Fondos Culturales y Artísticos.
 
 #### Artículo 5°
 

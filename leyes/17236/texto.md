@@ -12,9 +12,9 @@ DEROGADO.-
 
 #### Artículo 2°
 
-La salida del territorio nacional de obras de artistas chilenos o extranjeros deberá ser autorizada previamente por la Dirección de Bibliotecas, Archivos y Museos.
+La salida del territorio nacional de obras de artistas chilenos o extranjeros deberá ser autorizada previamente por el Servicio Nacional del Patrimonio Cultural.
 
-Si la salida de dichas obras lesiona el patrimonio artístico nacional, le corresponderá a dicha Dirección determinar la forma de garantizar su retorno y señalar el plazo en que éste deba realizarse, el que no podrá exceder de dos años.
+Si la salida de dichas obras lesiona el patrimonio artístico nacional, le corresponderá a dicho Servicio determinar la forma de garantizar su retorno y señalar el plazo en que éste deba realizarse, el que no podrá exceder de dos años.
 
 En todo caso, regirá el régimen de franquicias señalado en el artículo 1° para el reingreso de estas obras.
 
@@ -22,21 +22,21 @@ En todo caso, regirá el régimen de franquicias señalado en el artículo 1° p
 
 No estará sometida a las exigencias establecidas en el artículo anterior, la salida del territorio nacional de aquellas obras de arte que formen parte de exposiciones oficiales o que se envíen como aportes artísticos a exposiciones o a museos extranjeros. En este último caso será necesario que tal aporte sea solicitado oficialmente por Gobiernos extranjeros acreditados en Chile o por organismos internacionales.
 
-Toda exposición enviada al país con fines educacionales, culturales o artísticos podrá ingresar y salir libremente, sin otro trámite que comprobar ante la Aduana respectiva su finalidad. Para este efecto, bastará un certificado otorgado por la Dirección de Bibliotecas, Archivos y Museos que acredite tal circunstancia.
+Toda exposición enviada al país con fines educacionales, culturales o artísticos podrá ingresar y salir libremente, sin otro trámite que comprobar ante la Aduana respectiva su finalidad. Para este efecto, bastará un certificado otorgado por el Servicio Nacional del Patrimonio Cultural que acredite tal circunstancia.
 
 #### Artículo 4°
 
-Las personas naturales y jurídicas deberán declarar a la Dirección de Bibliotecas, Archivos y Museos las obras de arte de que sean poseedoras, las que se anotarán en un Registro Especial, con indicación de su naturaleza y características.
+Las personas naturales y jurídicas deberán declarar a el Servicio Nacional del Patrimonio Cultural las obras de arte de que sean poseedoras, las que se anotarán en un Registro Especial, con indicación de su naturaleza y características.
 
 #### Artículo 5°
 
-Se autoriza a los Bancos Comerciales del país para invertir hasta un 5% de sus fondos de reserva en la realización o adquisición de obras de arte. De este porcentaje, podrán utilizar hasta un 30% para el alhajamiento de sus locales y oficinas; y el 70% restante deberán destinarlo a la adquisición de obras de arte para ser exhibidas en los museos del Estado que determine la Dirección de Bibliotecas, Archivos y Museos, con las garantías que establezca el reglamento. La adquisición de estas obras estará exenta del impuesto a las compraventas.
+Se autoriza a los Bancos Comerciales del país para invertir hasta un 5% de sus fondos de reserva en la realización o adquisición de obras de arte. De este porcentaje, podrán utilizar hasta un 30% para el alhajamiento de sus locales y oficinas; y el 70% restante deberán destinarlo a la adquisición de obras de arte para ser exhibidas en los museos del Estado que determine el Servicio Nacional del Patrimonio Cultural, con las garantías que establezca el reglamento. La adquisición de estas obras estará exenta del impuesto a las compraventas.
 
 #### Artículo 6°
 
 Los edificios públicos de las principales ciudades del país, donde concurra habitualmente gran número de personas en razón de los servicios que prestan, tales como Ministerios, Universidades, Municipalidades, establecimientos de enseñanza, de las Fuerzas Armadas, hospitalarios o carcelarios, deberán ornamentarse gradualmente, exterior o interiormente, con obras de arte.
 
-El Ministerio de Educación Pública decidirá los lugares y edificios que deban cumplir esta obligación y calificará las obras de arte propuestas, aceptándolas o rechazándolas, previo informe de una Comisión integrada por el Director de Arquitectura del Ministerio de Obras Públicas y Transportes, el Director del Museo de Bellas Artes, el Vicepresidente Ejecutivo de la Corporación de Mejoramiento Urbano, un representante de la Asociación Chilena de Pintores y Escultores y un representante de la Sociedad Nacional de Bellas Artes.
+El Ministerio de las Culturas, las Artes y el Patrimonio decidirá los lugares y edificios que deban cumplir esta obligación y calificará las obras de arte propuestas, aceptándolas o rechazándolas, previo informe de una Comisión integrada por el Director de Arquitectura del Ministerio de Obras Públicas y Transportes, el Director del Museo de Bellas Artes, el Vicepresidente Ejecutivo de la Corporación de Mejoramiento Urbano, un representante de la Asociación Chilena de Pintores y Escultores y un representante de la Sociedad Nacional de Bellas Artes.
 
 En la proyección de futuros edificios públicos de importancia deberán consultarse ornamentos artísticos incorporados a ellos o complementarios del conjunto arquitectónico. La ejecución de estos trabajos corresponderá al artista nacional que determine la Comisión señalada en el inciso anterior.
 
@@ -46,7 +46,7 @@ Las instituciones fiscales, semifiscales o de administración autónoma podrán 
 
 #### Artículo 7°
 
-En el cumplimiento de las funciones que le encomienda la presente ley, el Director de Bibliotecas, Archivos y Museos será asesorado por una Comisión compuesta por dos representantes de cada una de las Facultades de la Universidad de Chile en que se imparta enseñanza de artes plásticas, de artes musicales y de teatro, por el Conservador del Museo Nacional de Bellas Artes y por el Secretario-Abogado de la Dirección de Bibliotecas, Archivos y Museos.
+En el cumplimiento de las funciones que le encomienda la presente ley, el Director Nacional del Servicio Nacional del Patrimonio Cultural será asesorado por una Comisión compuesta por dos representantes de cada una de las Facultades de la Universidad de Chile en que se imparta enseñanza de artes plásticas, de artes musicales y de teatro, por el Conservador del Museo Nacional de Bellas Artes y por el Subsecretario del Patrimonio.
 
 #### Artículo 8°
 
@@ -56,13 +56,13 @@ De la misma exención gozarán las donaciones de obras de arte y las de dinero o
 
 #### Artículo 9°
 
-Hasta la décima parte del impuesto que grave una asignación hereditaria podrá ser pagado mediante la transferencia de obras de arte a los Museos del Estado. Corresponderá a la Dirección de Bibliotecas, Archivos y Museos aceptar la respectiva oferta de dación en pago, previa verificación de la autenticidad de las obras, y determinar el Museo a que deben destinarse.
+Hasta la décima parte del impuesto que grave una asignación hereditaria podrá ser pagado mediante la transferencia de obras de arte a los Museos del Estado. Corresponderá a el Servicio Nacional del Patrimonio Cultural aceptar la respectiva oferta de dación en pago, previa verificación de la autenticidad de las obras, y determinar el Museo a que deben destinarse.
 
-Corresponderá también a dicha Dirección tasar tales obras para los efectos señalados en la letra c) del artículo 46° de la ley 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones. Con todo, si los asignatarios no aceptaren la tasación podrán desistirse de su oferta.
+Corresponderá también a dicho Servicio tasar tales obras para los efectos señalados en la letra c) del artículo 46° de la ley 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones. Con todo, si los asignatarios no aceptaren la tasación podrán desistirse de su oferta.
 
 #### Artículo 10°
 
-Créase el Museo del Mar, dependiente de la Dirección de Bibliotecas, Archivos y Museos, que funcionará en el inmueble denominado "Casa de Lord Cochrane", en Valparaíso.
+Créase el Museo del Mar, dependiente de el Servicio Nacional del Patrimonio Cultural, que funcionará en el inmueble denominado "Casa de Lord Cochrane", en Valparaíso.
 
 La Ley de Presupuesto de la Nación consultará los recursos necesarios para el funcionamiento de dicho Museo.
 

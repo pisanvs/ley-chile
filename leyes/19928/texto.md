@@ -46,9 +46,9 @@ Para los efectos de la presente ley, se aplicarán, en lo que no sean contrarias
 
 #### Artículo 3º
 
-Créase, en el Consejo Nacional de la Cultura y las Artes, el Consejo de Fomento de la Música Nacional, en adelante "el Consejo", cuyas funciones y atribuciones serán:
+Créase, en el Ministerio de las Culturas, las Artes y el Patrimonio, el Consejo de Fomento de la Música Nacional, en adelante "el Consejo", cuyas funciones y atribuciones serán:
 
-1) Asesorar al Presidente del Consejo Nacional de la Cultura y las Artes en la definición de las políticas culturales orientadas al fomento de la música nacional;
+1) Asesorar al Subsecretario de las Culturas y las Artes en la definición de las políticas culturales orientadas al fomento de la música nacional;
 
 2) Convocar anualmente a los concursos públicos, en conformidad al artículo 5º, para asignar los recursos del Fondo para el Fomento de la Música Nacional en la forma que determine el reglamento;
 
@@ -82,29 +82,29 @@ El Consejo, en el cumplimiento de las funciones y atribuciones precedentes, prop
 
 El Consejo estará integrado por las siguientes personas:
 
-1) El Presidente del Consejo Nacional de la Cultura y las Artes, o su representante, quien lo presidirá;
+1) El Subsecretario de las Culturas y las Artes, o su representante, quien lo presidirá;
 
 2) Un representante del Presidente de la República;
 
-3) Dos académicos de reconocido prestigio en el ámbito de la música, designados por los rectores de universidades chilenas que gocen de plena autonomía y que serán convocados para estos efectos por el Presidente del Consejo Nacional de la Cultura y las Artes. Uno de esos académicos deberá pertenecer a una universidad de una región distinta a la Región Metropolitana;
+3) Dos académicos de reconocido prestigio en el ámbito de la música, designados por los rectores de universidades chilenas que gocen de plena autonomía y que serán convocados para estos efectos por el Subsecretario de las Culturas y las Artes. Uno de esos académicos deberá pertenecer a una universidad de una región distinta a la Región Metropolitana;
 
-4) Un autor o compositor y un intérprete o ejecutante de reconocida trayectoria en el género de la música popular, designados por la entidad de carácter nacional más representativa que los agrupe, los cuales serán nombrados mediante una resolución firmada por el Presidente del Consejo Nacional de la Cultura y las Artes;
+4) Un autor o compositor y un intérprete o ejecutante de reconocida trayectoria en el género de la música popular, designados por la entidad de carácter nacional más representativa que los agrupe, los cuales serán nombrados mediante una resolución firmada por el Subsecretario de las Culturas y las Artes;
 
-5) Un autor o compositor y un intérprete o ejecutante de reconocida trayectoria en el género de la música de raíz folclórica o de tradición oral, designados por la entidad de carácter nacional más representativa que los agrupe, los cuales serán nombrados mediante una resolución firmada por el Presidente del Consejo Nacional de la Cultura y las Artes;
+5) Un autor o compositor y un intérprete o ejecutante de reconocida trayectoria en el género de la música de raíz folclórica o de tradición oral, designados por la entidad de carácter nacional más representativa que los agrupe, los cuales serán nombrados mediante una resolución firmada por el Subsecretario de las Culturas y las Artes;
 
-6) Un autor o compositor y un intérprete o ejecutante de reconocida trayectoria en el género de la música clásica o selecta, designados por la entidad de carácter nacional más representativa que los agrupe, los cuales serán nombrados mediante una resolución firmada por el Presidente del Consejo Nacional de la Cultura y las Artes;
+6) Un autor o compositor y un intérprete o ejecutante de reconocida trayectoria en el género de la música clásica o selecta, designados por la entidad de carácter nacional más representativa que los agrupe, los cuales serán nombrados mediante una resolución firmada por el Subsecretario de las Culturas y las Artes;
 
-7) Un profesional de la musicología o investigador de reconocida experiencia y prestigio, designado por el Presidente del Consejo Nacional de la Cultura y las Artes a propuesta de la entidad de carácter nacional más representativa que los agrupe;
+7) Un profesional de la musicología o investigador de reconocida experiencia y prestigio, designado por el Subsecretario de las Culturas y las Artes a propuesta de la entidad de carácter nacional más representativa que los agrupe;
 
-8) Un representante de los productores de fonogramas, designado por el Presidente del Consejo Nacional de la Cultura y las Artes a propuesta de la entidad de carácter nacional más representativa que los agrupe;
+8) Un representante de los productores de fonogramas, designado por el Subsecretario de las Culturas y las Artes a propuesta de la entidad de carácter nacional más representativa que los agrupe;
 
-9) Un representante de los editores de música, designado por el Presidente del Consejo Nacional de la Cultura y las Artes a propuesta de la entidad de carácter nacional más representativa que los agrupe;
+9) Un representante de los editores de música, designado por el Subsecretario de las Culturas y las Artes a propuesta de la entidad de carácter nacional más representativa que los agrupe;
 
-10) Un representante del ámbito de la radiodifusión, designado por el Presidente del Consejo Nacional de la Cultura y las Artes a propuesta de la entidad de carácter nacional más representativa que los agrupe;
+10) Un representante del ámbito de la radiodifusión, designado por el Subsecretario de las Culturas y las Artes a propuesta de la entidad de carácter nacional más representativa que los agrupe;
 
-11) Un representante del ámbito de la televisión, designado por el Presidente del Consejo Nacional de la Cultura y las Artes a propuesta de la entidad de carácter nacional más representativa que los agrupe;
+11) Un representante del ámbito de la televisión, designado por el Subsecretario de las Culturas y las Artes a propuesta de la entidad de carácter nacional más representativa que los agrupe;
 
-12) Un representante de una corporación o fundación cultural privada que realice programas o desarrolle proyectos musicales de carácter permanente, designado por el Presidente del Consejo Nacional de la Cultura y las Artes, y
+12) Un representante de una corporación o fundación cultural privada que realice programas o desarrolle proyectos musicales de carácter permanente, designado por el Subsecretario de las Culturas y las Artes, y
 
 13) Un representante de una corporación cultural municipal, designado por la Asociación Chilena de Municipalidades.
 
@@ -124,7 +124,7 @@ Del Fondo para el Fomento de la Música Nacional
 
 #### Artículo 5º
 
-Créase el Fondo para el Fomento de la Música Nacional, que será administrado por el Consejo Nacional de la Cultura y las Artes, cuya finalidad será el financiamiento de las actividades y objetivos del Consejo de Fomento de la Música Nacional, señalados en el artículo 3º. Su patrimonio estará integrado por los recursos que para este objeto deberán consultarse anualmente en la Ley de Presupuestos de la Nación y por los aportes, donaciones, herencias y legados que reciba. Estas donaciones estarán exentas del trámite de la insinuación, a que se refiere el artículo 1401 del Código Civil.
+Créase el Fondo para el Fomento de la Música Nacional, que será administrado por el Ministerio de las Culturas, las Artes y el Patrimonio, cuya finalidad será el financiamiento de las actividades y objetivos del Consejo de Fomento de la Música Nacional, señalados en el artículo 3º. Su patrimonio estará integrado por los recursos que para este objeto deberán consultarse anualmente en la Ley de Presupuestos de la Nación y por los aportes, donaciones, herencias y legados que reciba. Estas donaciones estarán exentas del trámite de la insinuación, a que se refiere el artículo 1401 del Código Civil.
 
 Las funciones señaladas en los números 4), 5), 6), 8) y 12) del artículo 3º, se cumplirán mediante llamados a concursos públicos, por medio de una amplia difusión, a través de medios nacionales y regionales, sobre bases objetivas señaladas previamente para asignar los recursos del Fondo y resolverlos. Las funciones indicadas en los números 7) y 10) del mismo artículo, se cumplirán mediante licitación de acuerdo a normas objetivas y públicas que contemplen la materia, contenidos y demás características definidos por el Consejo. La función señalada en el número 11) del referido artículo 3º, se cumplirá mediante aportes de recursos del presupuesto de la Nación a municipalidades, corporaciones o fundaciones sin fines de lucro, que desarrollen las actividades que allí se indican, que incluyan becas de estudios musicales para niños y jóvenes, que conformen las orquestas y coros que en dicho número se señalan de acuerdo al reglamento. Todo ello en la forma que se establezca en los convenios de colaboración que para estos efectos se suscriban.
 
