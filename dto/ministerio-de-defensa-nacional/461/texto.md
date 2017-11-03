@@ -1242,6 +1242,14 @@ b. Cruz de Servicios Operativos en Unidades de Buceo Táctico de Primera Clase.
 
 c. Cruz de Servicios Operativos en Unidades de Buceo Táctico de Segunda Clase.".
 
+11. Cruz de Servicio Autoridad Marítima.
+
+a. Gran Cruz de Servicio Autoridad Marítima.
+
+b. Cruz de Servicio Autoridad Marítima de Primera Clase.
+
+c. Cruz de Servicio Autoridad Marítima de Segunda Clase.
+
 C. Condecoraciones Fuerza Aérea de Chile.
 
 1. Condecoración Cruz al Mérito Aeronáutico de Chile.
@@ -2511,6 +2519,120 @@ Dicha cinta en la parte superior termina en un broche constituido por dos barras
 El distintivo será de 40 mm. de largo por 10 mm. de alto, forrado en género de raso con 5 franjas y el vivo de igual ubicación, color y dimensiones de la cinta de la cual pende la condecoración. Llevará en el centro de la franja de color rojo el distintivo de la especialidad de Buceo táctico.
 
 Detalle de la Condecoración conforme a la Figura Nº 53.
+
+#### Artículo 49 Bis
+
+Condecoración "Servicio Autoridad Marítima".
+
+A. "Gran Cruz de Servicio Autoridad Marítima":
+
+1. Otorgamiento:
+
+Se otorgará mediante resolución dictada por el Comandante en Jefe de la Armada, como una distinción profesional y meritoria, para ser concedida al Personal de Oficiales y Gente de Mar de la Armada de Chile, pertenecientes al Escalafón del Litoral, que hayan acreditado una permanencia de catorce años de servicios efectivos como dotación, ya sea en Alcaldías de Mar, Capitanías de Puerto y Gobernaciones Marítimas de la Armada de Chile, o acumulativamente en una o más de tales reparticiones.
+
+El diploma correspondiente se atenderá al formato establecido en el Anexo N° 56 A.
+
+2. Entrega:
+
+La entrega de esta distinción y el diploma correspondiente, se efectuará anualmente, durante la ceremonia que realicen las Unidades y Reparticiones Marítimas, en conmemoración del aniversario de la Dirección General del Territorio Marítimo y de Marina Mercante y día de la especialidad Litoral.
+
+3. Descripción:
+
+Será de mesing con baño de oro de 24 quilates.
+
+Consiste en una presea de pecho en forma de cruz de malta, de 4 puntas dobles, de color blanco brillante, circunscrita en un círculo imaginario de 53 mm de diámetro, terminando sus ocho extremos en esferas de 1 mm de diámetro.
+
+En forma centrada y sobre relieve lleva una circunferencia de color negro y ribete dorado de 17 mm de diámetro, en cuyo interior, de color dorado, está la figura de la piocha de la especialidad Litoral.
+
+Entre los brazos de la cruz de malta, van insertas 4 anclas antiguas, de idéntica configuración a la del Escudo de Armas de la Armada de Chile, con sus brazos hacia fuera.
+
+Las cuatro anclas van hechas firmes por un cepo y sus uñas, a los costados de los brazos de la cruz de malta.
+
+La condecoración pende a través de un cinta de 40 mm de ancho, con cinco franjas en forma de rectángulos verticales de los siguientes colores y dimensiones, vista de frente: dos franjas azules exteriores de 5,7 mm de ancho cada una, dos franjas blancas que le siguen hacia el centro de 5,7 mm de ancho y una franja de color rojo, centrada, de 17,2 mm de ancho.
+
+Dicha cinta, en la parte superior, termina en un broche constituido por dos barras de mesing con baño de oro de 24 quilates, en forma de pasador, las cuales tienen hecho firme un alfiler de gancho.
+
+En la parte inferior, va una argolla dorada de 20 mm de diámetro, la cual se une con la condecoración, a través de un eslabón - grillete de entalingar - eslabón.
+
+4. Distintivo:
+
+Será de 40 mm de largo, por 10 mm de alto, forrado en género de raso, con 5 franjas de igual ubicación, color y dimensiones de la cinta de la cual pende la condecoración.
+
+Llevará tres anclas doradas cruzadas horizontalmente por una lancha, tal como la insignia de la especialidad Litoral, una en cada franja blanca y una al centro de la franja central de color rojo.
+
+Solo se deberá usar la condecoración que reconoce mayor tiempo de dotación en Alcaldías de Mar, Capitanías de Puerto y Gobernaciones Marítimas de la Armada de Chile.
+
+Detalle de la Condecoración conforme a la Figura N° 53 A.
+
+B. "Cruz de Servicio Autoridad Marítima de Primera Clase":
+
+1. Otorgamiento:
+
+Se otorgará mediante resolución dictada por el Comandante en Jefe de la Armada, como una distinción profesional y meritoria, para ser concedida al Personal de Oficiales y Gente de Mar de la Armada de Chile, pertenecientes al Escalafón del Litoral, que hayan acreditado una permanencia de diez años de servicios efectivos como dotación, ya sea en Alcaldías de Mar, Capitanías de Puerto y Gobernaciones Marítimas de la Armada de Chile, o acumulativamente en una o más de tales reparticiones.
+
+El diploma correspondiente se atenderá al formato establecido en el Anexo N° 56 B.
+
+2. Entrega:
+
+La entrega de esta distinción y el diploma correspondiente, se efectuará anualmente, durante la ceremonia que realicen las Unidades y Reparticiones Marítimas, en conmemoración del aniversario de la Dirección General del Territorio Marítimo y de Marina Mercante y día de la especialidad Litoral.
+
+3. Descripción:
+
+Será de mesing con baño de oro de 24 quilates.
+
+Consiste en una presea de pecho en forma de cruz de malta, de 4 puntas dobles, de color blanco brillante, circunscrita en un círculo imaginario de 53 mm de diámetro, terminando sus ocho extremos en esferas de 1 mm de diámetro.
+
+En forma centrada y sobre relieve lleva una circunferencia de color negro y ribete dorado de 17 mm de diámetro, en cuyo interior de color dorado, está la figura de la piocha de la especialidad Litoral.
+
+La condecoración pende a través de una cinta de 40 mm de ancho, con cinco franjas en forma de rectángulos verticales de los siguientes colores y dimensiones, vista de frente: dos franjas azules exteriores de 5,7 mm cada una, dos franjas blancas que le siguen hacia el centro de 5,7 mm de ancho y una franja de color rojo, centrada, de 17,2 mm de ancho.
+
+Dicha cinta, en la parte superior, termina en un broche constituido por dos barras de mesing con baño de oro de 24 quilates, en forma de pasador, las cuales tienen hecho firme un alfiler de gancho.
+
+En la parte inferior, va una argolla dorada de 20 mm de diámetro, la cual se une con la condecoración, a través de un eslabón - grillete de entalingar - eslabón.
+
+4. Distintivo:
+
+Será de 40 mm de largo, por 10 mm de alto, forrado en género de raso, con 5 franjas de igual ubicación, color y dimensiones de la cinta de la cual pende la condecoración.
+
+Llevará dos anclas doradas cruzadas por una lancha, tal como la insignia de la especialidad Litoral, las cuales irán ubicadas en el centro de las franjas blancas.
+
+Solo se deberá usar la condecoración que reconoce mayor tiempo de dotación en Alcaldías de Mar, Capitanías de Puerto y Gobernaciones Marítimas de la Armada de Chile.
+
+Detalle de la Condecoración conforme a la Figura N° 53 B.
+
+C. "Cruz de Servicio Autoridad Marítima de Segunda Clase":
+
+1. Otorgamiento:
+
+Se otorgará mediante resolución dictada por el Comandante en Jefe de la Armada, como una distinción profesional y meritoria, para ser concedida al Personal de Oficiales y Gente de Mar de la Armada de Chile, pertenecientes al Escalafón del Litoral, que hayan acreditado una permanencia de siete años de servicios efectivos como dotación, ya sea en Alcaldías de Mar, Capitanías de Puerto y Gobernaciones Marítimas de la Armada de Chile, o acumulativamente en una o más de tales reparticiones.
+
+El diploma correspondiente se atenderá al formato establecido en el Anexo N° 56 C.
+
+2. Entrega:
+
+La entrega de esta distinción y el diploma correspondiente, se efectuará anualmente, durante la ceremonia que realicen las Unidades y Reparticiones Marítimas, en conmemoración del aniversario de la Dirección General del Territorio Marítimo y de Marina Mercante y día de la especialidad Litoral.
+
+3. Descripción:
+
+Será de mesing cromada.
+
+Consiste en una presea de pecho en forma de cruz de malta, de 4 puntas dobles, de color blanco brillante, circunscrita en un círculo imaginario de 53 mm de diámetro, terminando sus ocho extremos en esferas de 1 mm de diámetro.
+
+En forma centrada y sobre relieve lleva una circunferencia de color negro y ribete plateado de 17 mm de diámetro, en cuyo interior, de color plateado, está la figura de la piocha de la especialidad Litoral.
+
+La condecoración pende a través de una cinta de 40 mm, de ancho, con cinco franjas en forma de rectángulos verticales de los siguientes colores y dimensiones, vista de frente: dos franjas azules exteriores de 5,7 mm de ancho cada una, dos franjas blancas que le siguen hacia el centro de 5,7 mm de ancho cada una y una franja de color rojo, centrada, de 17,2 mm de ancho.
+
+Dicha cinta, en la parte superior, termina en un broche constituido por dos barras de mesing cromado en forma de pasador, las cuales tienen hecho firme un alfiler de gancho.
+
+En la parte inferior, va una argolla cromada de 20 mm de diámetro, la cual se une con la condecoración, a través de un eslabón - grillete de entalingar - eslabón.
+
+4. Distintivo:
+
+Será de 40 mm de largo, por 10 mm de alto, forrado en género de raso, con 5 franjas de igual ubicación, color y dimensiones de la cinta de la cual pende la condecoración.
+
+Llevará un ancla dorada cruzada por una lancha, tal como la insignia de la especialidad Litoral, la cual irá ubicada en el centro de la franja roja.
+
+Detalle de la Condecoración conforme a la Figura N° 53 C.
 
 #### Artículo 50º
 
