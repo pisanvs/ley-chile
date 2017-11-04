@@ -96,7 +96,7 @@ Los factores para determinar el puntaje que definirá la prelación entre los po
 
 ### Párrafo 5° — Recursos disponibles
 
-23. Los recursos involucrados para la selección ascienden a un total de 161.061 UF y su distribución territorial será la siguiente:
+23. Los recursos involucrados para la selección ascienden a un total de 13.066,45 UF y su distribución regional será la indicada a continuación:
 
 .
 
