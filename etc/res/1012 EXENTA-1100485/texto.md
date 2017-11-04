@@ -282,7 +282,7 @@ El postulante debe ser postulante individual o bien encontrarse inserto en un gr
 
 12.3 En esta línea sólo podrán postular proyectos de Habitabilidad que contemplen cambio de cubierta en viviendas que tengan planchas de asbesto. Para los otros tipos de proyectos de cambio de cubierta se postulará con los montos y condiciones de un proyecto normal de Habitabilidad del Título II de Mejoramiento.
 
-12.4 La obtención de un subsidio destinado al cambio de una cubierta con asbesto cemento a través de este llamado no será impedimento para obtener otros subsidios siempre que no se trate del mismo tipo de obra del Título II del Programa de Protección del Patrimonio Familiar. Además, las personas que hayan sido beneficiadas anteriormente con un subsidio de Mejoramiento de la Vivienda, del Título II del Programa de Protección del Patrimonio Familiar, no tendrán impedimento para concursar y ser beneficiado en este llamado con un subsidio de Mejoramiento para cambio de una cubierta con asbesto cemento, siempre que no se trate del mismo tipo de obras.
+12.4 La obtención de un subsidio destinado al cambio de una cubierta con asbesto cemento a través de este llamado o de llamados anteriores no será impedimento para obtener otros subsidios siempre que no se trate del mismo tipo de obra del Título II del Programa de Protección del Patrimonio Familiar. Además, las personas que hayan sido beneficiadas anteriormente con un subsidio de Mejoramiento de la Vivienda, del Título II del Programa de Protección del Patrimonio Familiar, no tendrán impedimento para concursar y ser beneficiado en este llamado con un subsidio de Mejoramiento para cambio de una cubierta con asbesto cemento, siempre que no se trate del mismo tipo de obras.
 
 13. En caso de Proyectos de Habitabilidad del Título II de Mejoramiento de Vivienda, que tengan como fin cumplir con los requisitos indicados en el Artículo 6° bis del DS N° 255 (V. y U.), de 2006, para el Acondicionamiento Térmico de la Vivienda, se tendrán las siguientes consideraciones especiales:
 
@@ -290,15 +290,15 @@ El postulante debe ser postulante individual o bien encontrarse inserto en un gr
 
 13.2 El monto del subsidio solicitado deberá destinarse en un 100% a obras de acondicionamiento térmico de la vivienda, en cumplimiento del artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, y a mejorar por sobre los estándares fijados por dicho artículo. Se deberá considerar como parte del proyecto la instalación de ventilación mecánica controlada en baño y cocina.
 
-Excepcionalmente y en los proyectos que presenten un presupuesto detallado que justifique que el monto del subsidio entregado no fuese suficiente para dar íntegro cumplimiento a lo establecido en el párrafo anterior, el Serviu respectivo podrá aprobar proyectos que den cumplimiento parcial a las exigencias establecidas por el citado artículo 4.1.10. En estos casos se deberá considerar la siguiente priorización de intervención por tipo de elemento:
+Excepcionalmente y en los proyectos que presenten un presupuesto detallado que justifique que el monto del subsidio entregado no fuese suficiente para dar íntegro cumplimiento a lo establecido en el párrafo anterior, o que presenten otros antecedentes que justifiquen que el proyecto no puede desarrollarse completamente, el Serviu respectivo podrá aprobar adecuaciones al proyecto que permitan dar cumplimiento parcial a las exigencias establecidas en la norma térmica. En estos casos se deberá considerar la siguiente priorización de intervención por tipo de elemento:
 
-1° Complejo techumbre,
+1º Complejo techumbre,
 
-2° Complejo muro,
+2º Complejo muro,
 
-3° Complejo piso ventilado (en caso que exista),
+3º Complejo piso ventilado (en caso que exista),
 
-4° Ventana.
+4º Ventana.
 
 Las situaciones de excepción deben asegurar a lo menos la intervención del complejo de techumbre de toda la vivienda y de los muros exteriores que conforman los recintos habitables de la vivienda: dormitorios y living comedor.
 
