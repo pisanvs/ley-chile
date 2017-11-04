@@ -20,27 +20,29 @@ Resuelvo:
 
 1° Desígnase a los representantes de la Sociedad Civil, del Ministerio Secretaría General de Gobierno, en la forma que se indica:
 
-1. Isabel Cejas Rodríguez, cédula de identidad Nº 5.855.629-7, Unión Comunal de Juntas de Vecinos Morro de Arica, de la comuna de Arica.
+a) Isabel Cejas Rodríguez, cédula de identidad N° 5.855.629-7 Unión Comunal de Juntas de Vecinos Morro de Arica, de la comuna de Arica.
 
-2. Moisés Pinilla Díaz, cédula de identidad Nº 6.646.491-1, Unión Comunal de Juntas de Vecinos Quilpué, de la comuna de Quilpué.
+b) Moisés Pinilla Díaz, cédula de identidad N° 6.646.491-1, Unión Comunal de Juntas de Vecinos Quilpué, de la comuna de Quilpué.
 
-3. Liliana González González, cédula de identidad N° 11.502.213-K, Junta de Vecinos Pablo Neruda, de la comuna de Padre Las Casas.
+c) Liliana González González, cédula de identidad N° 11.502.213-k, Junta de Vecinos Pablo Neruda, de la comuna de Padre Las Casas.
 
-4. Luis Burgos Norambuena, cédula de identidad N° 12.743.275-9, Comité de Apicultores de la comuna de Pucón, de la comuna de Pucón.
+d) Luis Burgos Norambuena, cédula de identidad N° 12.743.275-9, Comité de Apicultores de la Comuna de Pucón, de la comuna de Pucón.
 
-5. Daniel Huenchullanca Santana, cédula de identidad N° 10.833.489-4, Agrupación Artística Cultural y Academia de Música, de la comuna de Puerto Varas.
+e) Daniel Huenchullanca Santana, cédula de identidad N° 10.833.489-4, Agrupación Artística Cultural y Academia de Música, de la comuna de Puerto Varas.
 
-6. Felipe Venegas Martínez, cédula de identidad N° 14.165.019-K, Centro Cultural Asociación de ex-alumnos, Santiago.
+f) Felipe Venegas Martínez, cédula de identidad N° 14.165.019-k, Centro Cultural Asociación de Exalumnos, Santiago.
 
-7. Nicolás Cruz Correa, cédula de identidad N° 16.430.601-1, Fundación Base Pública, Santiago.
+g) Nicolás Cruz Correa, cédula de identidad N° 16.430.601-1, Fundación Base Pública, Santiago.
 
-8. Eliana Acuña Gómez, cédula de identidad N° 10.800.116-K, Fundación CEQUA, de la comuna de Punta Arenas.
+h) Eliana Acuña Gómez, cédula de identidad N° 10.800.116-k, Fundación CEQUA, de la comuna de Punta Arenas.
 
-9. Humberto Briones Villena, cédula de identidad N° 10.872.398-K, Agrupación de Discapacitados La Esperanza de Coñaripe, comuna de Panguipulli.
+i) Humberto Briones Villena, cédula de identidad N° 10.872.398-k, Agrupación de Discapacitados La Esperanza de Coñaripe, comuna de Panguipulli.
 
-10. Rodrigo Carrera Carrera, cédula de identidad N° 10.242.181-7, Asociación "Weche Pepiukelen", comuna de Punta Arenas.
+j) Rodrigo Carrera Carrera, cédula de identidad N° 10.242.181-7, Asociación "Weche Pepiukelen", comuna de Punta Arenas.
 
-11. Nina Consuegra Donado, cédula de identidad N° 21.465 865-8, Agrupación Social y Cultural y Deportiva Colonia Colombiana en Arica, comuna de Arica.
+k) Nina Consuegra Donado, cédula de identidad N° 21.465.865-8, Agrupación Social y Cultural y Deportiva Colonia Colombiana en Arica, comuna de Arica.
+
+1) René Alejandro Cumplido Cáceres, cédula de identidad N° 10.996.751-1, Radio on-line Corporación de Quintero, de la comuna de Quintero.
 
 2° Déjese sin efecto todo acto administrativo contrario a la presente resolución.
 
