@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL "PLANTA BIOENERGÍA ÑUBLE"
+
+De conformidad a lo dispuesto en el inciso final del artículo 91 del DS (MA) Nº 40/2012 (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Planta Bioenergía Ñuble", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Planta Bioenergía Ñuble SpA, que por resolución exenta Nº 270, de fecha 22 de septiembre de 2017, la Comisión de Evaluación de la Región del Biobío calificó favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad al artículo 29 de la ley Nº 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA de Biobío, ubicada en Lincoyán Nº 145, Concepción en horarios de oficina. Además podrá accederse a la resolución a través del sitio web www.sea.gob.cl.
+
+Rodrigo Martínez Mora, Secretario (S) Comisión de Evaluación Región del Biobío.
