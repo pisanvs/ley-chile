@@ -66,9 +66,9 @@ La aprobación de los Proyectos PAR, la asignación de recursos y su ejecución 
 
 Podrán postular como beneficiarios del Programa de Apoyo a la Reactivación:
 
-1. Las Empresas, sean personas naturales o personas jurídicas, con iniciación de actividades, que demuestren rentas líquidas imponibles o ventas netas anuales, en ambos casos de entre UF 600 (seiscientas Unidades de Fomento) hasta UF 5.000 (cinco mil Unidades de Fomento).
+1. Las Empresas, sean personas naturales o personas jurídicas, con iniciación de actividades, que demuestren rentas líquidas imponibles o ventas netas anuales, en ambos casos, de entre UF 200 (doscientas Unidades de Fomento) y hasta UF 5.000.- (cinco mil Unidades de Fomento).
 
-Podrán, además, acceder a este Programa aquellas empresas con un tiempo de operación inferior a un año, las que deberán presentar su proyección de rentas o ventas que permita establecer el cumplimiento de lo señalado en este numeral.
+Podrán acceder a este Programa, además, aquellas empresas con un tiempo de operación inferior a un año, las que deberán presentar su proyección de rentas o ventas que permita establecer el cumplimiento de lo señalado en el párrafo precedente.
 
 Para los efectos de este Programa, se entenderá por empresa a la(s) persona(s) natural(es) o jurídica(s) que desarrolle(n) actividades lucrativas gravadas con el Impuesto a la Renta o al Valor Agregado, de conformidad con la información disponible en el sitio Web del Servicio de Impuestos Internos (SIl).
 
