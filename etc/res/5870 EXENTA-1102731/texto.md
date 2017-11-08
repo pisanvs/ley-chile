@@ -22,7 +22,7 @@ La asignación de subsidio se efectuará en forma mensual, con los inscritos has
 
 Las nóminas de los seleccionados serán publicadas en el sitio web del Minvu, o del Serviu y/o de la Seremi de Vivienda y Urbanismo de la Región del Maule, y/o en los medios que el Minvu disponga al efecto, las que deberán contener, a lo menos, el nombre del beneficiario y su número de cédula de identidad.
 
-La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será de 204.600 Unidades de Fomento.
+La cantidad de recursos dispuestos para el financiamiento del subsidio directo para la atención de los damnificados será de 301.035 Unidades de Fomento.
 
 Podrán inscribirse en este llamado los damnificados cuyas viviendas hubieren resultado totalmente destruidas o irreparables por los daños causados por la catástrofe, calificadas con "Daño Total" de acuerdo a la información contenida en el Registro de Damnificados del Ministerio de Vivienda y Urbanismo.
 
@@ -44,7 +44,7 @@ b) Dar cumplimiento a lo dispuesto en la letra d2) de su artículo 16, con relac
 
 c) Contar con el instrumento de caracterización socioeconómica vigente, de acuerdo a lo señalado en la letra j) de su artículo 16.
 
-d) Acreditaci�n de ingreso familiar bajo los máximos permitidos, de acuerdo a lo establecido en la letra m) de su artículo 16.
+d) Acreditación de ingreso familiar bajo los máximos permitidos, de acuerdo a lo establecido en la letra m) de su artículo 16.
 
 e) Haber obtenido algún beneficio habitacional anterior del Serviu, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, o lo hubiere obtenido o aplicado su cónyuge o conviviente civil de acuerdo a lo señalado en la letra e) de su artículo 17.
 
