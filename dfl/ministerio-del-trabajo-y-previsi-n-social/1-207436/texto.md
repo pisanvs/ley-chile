@@ -2950,11 +2950,11 @@ Las acciones y derechos provenientes de este título se extinguirán en el térm
 
 #### Artículo 207 bis
 
-En el caso de contraer matrimonio, todo trabajador tendrá derecho a cinco días hábiles continuos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
+En el caso de contraer matrimonio o celebrar un acuerdo de unión civil, de conformidad con lo previsto en la ley Nº 20.830, todo trabajador tendrá derecho a cinco días hábiles continuos de permiso pagado, adicional al feriado anual, independientemente del tiempo de servicio.
 
-Este permiso se podrá utilizar, a elección del trabajador, en el día del matrimonio y en los días inmediatamente anteriores o posteriores al de su celebración.
+Este permiso se podrá utilizar, a elección del trabajador, en el día del matrimonio o del acuerdo de unión civil y en los días inmediatamente anteriores o posteriores al de su celebración.
 
-El trabajador deberá dar aviso a su empleador con treinta días de anticipación y presentar dentro de los treinta días siguientes a la celebración el respectivo certificado de matrimonio del Servicio de Registro Civil e Identificación.
+El trabajador deberá dar aviso a su empleador con treinta días de anticipación y presentar dentro de los treinta días siguientes a la celebración el respectivo certificado de matrimonio o de acuerdo de unión civil del Servicio de Registro Civil e Identificación.
 
 #### Artículo 208
 
@@ -3032,7 +3032,7 @@ Asimismo, el empleador procurará que el trabajador que se ocupe en la manipulac
 
 #### Artículo 211
 
-H.- Si la manipulación manual es inevitable y las ayudas mecánicas no pueden usarse, no se permitirá que se opere con cargas superiores a 50 kilogramos.
+H.- Si la manipulación manual es inevitable y las ayudas mecánicas no pueden usarse, no se permitirá que se opere con cargas superiores a 25 kilogramos. Esta carga será modificada en la medida que existan otros factores agravantes, caso en el cual, la manipulación deberá efectuarse en conformidad a lo dispuesto en el decreto supremo Nº 63, del Ministerio del Trabajo y Previsión Social, del año 2005, que aprueba reglamento para la aplicación de la ley Nº 20.001, que regula el peso máximo de carga humana, y en la Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga.
 
 #### Artículo 211
 
@@ -3040,7 +3040,7 @@ I.- Se prohíbe las operaciones de carga y descarga manual para la mujer embaraz
 
 #### Artículo 211
 
-J.- Los menores de 18 años y mujeres no podrán llevar, transportar, cargar, arrastrar o empujar manualmente, y sin ayuda mecánica, cargas superiores a los 20 kilogramos.
+J.- Los menores de 18 años y las mujeres no podrán llevar, transportar, cargar, arrastrar ni empujar manualmente, y sin ayuda mecánica, cargas superiores a 20 kilogramos. Para estos trabajadores, el empleador deberá implementar medidas de seguridad y mitigación, tales como rotación de trabajadores, disminución de las alturas de levantamiento o aumento de la frecuencia con que se manipula la carga. El detalle de la implementación de dichas medidas estará contenido en la Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga.
 
 # Libro III
 
