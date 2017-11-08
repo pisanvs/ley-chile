@@ -44,395 +44,241 @@ DERECHOS GIRADOS POR EL DEPARTAMENTO DE ADMINISTRACIÓN Y FINANZAS
 
 A) Permisos ramadas, Peñas Folclóricas, Fiestas Patrias, Vendimias, Día de la Raza, Aniversario Comunal, Año Nuevo, Kermesse, Platos Únicos, Bingos. Sin expendio de bebidas alcohólicas, diario.
 
-1. Organizaciones comunitarias y deportivas sin personalidad
+1. Organizaciones comunitarias y deportivas sin personalidad jurídica y establecimientos educacionales particulares o subvencionados.... 50% UTM
 
-jurídica y establecimientos educacionales particulares o
+2. Establecimientos educacionales gratuitos y municipalizados.... exentos.
 
-subvencionados 50% UTM
+3. Particulares con fines de lucro....... 1 UTM
 
-2. Establecimientos educacionales gratuitos y municipalizados exentos.
+4. Particulares con fines benéficos (salud, siniestros), situación de excepción debidamente acreditado con informe social..... 1% UTM
 
-3. Particulares con fines de lucro 1 UTM
-
-4. Particulares con fines benéficos (salud, siniestros),
-
-situación de excepción debidamente acreditado con informe
-
-social 1% UTM
-
-5. Org. comunitarias y deportivas con personalidad jurídica exento.
+5. Org. comunitarias y deportivas con personalidad jurídica.... exento.
 
 B) Venta de bebidas alcohólicas en Fiestas Patrias, Navidad, Año Nuevo y otras solemnidades de carácter general, diario:
 
-1. Instituciones comunitarias y deportivas
+1. Instituciones comunitarias y deportivas con personalidad jurídica, establecimientos educacionales.... 50% U.T.M. Las organizaciones comunitarias que hayan obtenido personalidad jurídica en virtud de lo dispuesto en la Ley 19.418, estarán exentas del pago de este derecho.
 
-con personalidad jurídica,
-
-establecimientos educacionales 50% U.T.M.
-
-Las organizaciones comunitarias que
-
-hayan obtenido personalidad
-
-jurídica en virtud de lo dispuesto
-
-en la Ley 19.418, estarán exentas
-
-del pago de este derecho.
-
-2. Particulares 2 UTM
+2. Particulares................ 2 UTM
 
 C) Permisos comercio ambulante, zonas periféricas:
 
-1. Comercio ambulante en vehículo motorizado,
+1. Comercio ambulante en vehículo motorizado, mensual.... 25% U.T.M.
 
-mensual 25% U.T.M.
+2. Comercio ambulante en vehículo motorizado, semanal........ 10% U.T.M.
 
-2. Comercio ambulante en vehículo motorizado,
+3. Comercio ambulante, mensual. No motorizado..................... 10% U.T.M.
 
-semanal 10% U.T.M.
+4. Comercio ambulante, semanal. No motorizado..................... 4% U.T.M.
 
-3. Comercio ambulante, mensual. No motorizado 10% U.T.M.
+5. Comercio ambulante, diario. No motorizado........................ 2% U.T.M.
 
-4. Comercio ambulante, semanal. No motorizado 4% U.T.M.
+6. Vendedores comisionistas a domicilio, mensual.................. 20% U.T.M.
 
-5. Comercio ambulante, diario. No motorizado 2% U.T.M.
+7. Venta de tarjetas, papel navidad y cintas, diciembre........... 1% U.T.M.
 
-6. Vendedores comisionistas a domicilio, mensual 20% U.T.M.
+8.- Venta de volantines periodos fiestas patrias
 
-7. Venta de tarjetas, papel navidad y cintas,
+Diario......... 1% de UTM
 
-diciembre 1% U.T.M.
+Semanal....... 4% de UTM
+
+Mensual....... 10% de UTM
 
 D) Derechos de kiosco por ocupación de bien nacional de uso público por M2, debidamente medido por la Dirección de Obras Municipales:
 
-1. Sector céntrico, semestral, solo los autorizados hasta el
+1. Sector céntrico, semestral, solo los autorizados hasta el 30 de septiembre del año 2010......................... 25% UTM
 
-30 de septiembre del año 2010 25% UTM
+2. Sector área urbana periférica, semestral................... 25% UTM
 
-2. Sector área urbana periférica, semestral 25% UTM
+Kiosco o stand venta de artesanías y otros, Mensual...... 20% UTM
 
-Kiosco o stand venta de artesanías y otros,
+Kiosco o stand venta de artesanías y otros, quincenal.... 15% UTM
 
-Mensual 20% UTM
+Kiosco o stand venta de artesanías y otros, diario......... 5% UTM
 
-Kiosco o stand venta de artesanías y otros, quincenal
-
-15% UTM
-
-Kiosco o stand venta de artesanías y otros, diario 5% UTM
-
-Kiosco o stand venta de artesanías, semestral 50% UTM
+Kiosco o stand venta de artesanías, semestral.............. 50% UTM
 
 E) Funcionamiento de ferias libres:
 
 1. Ferias artesanales y otros, por puesto:
 
-En bienes municipales y nacionales de uso público, se
-
-incluyen las ferias hortofrutícolas, cuyos derechos
-
-estarán contemplados en la Ordenanza
-
-respectiva 25 % UTM mensual.
+En bienes municipales y nacionales de uso público, se incluyen las ferias hortofrutícolas, cuyos derechos estarán contemplados en la Ordenanza respectiva....... 25 % UTM mensual.
 
 2. Estacionados:
 
-Baratillos de instituciones sin fines de lucro y
+Baratillos de instituciones sin fines de lucro y establecimientos educaciones, en recintos particulares solamente........... Exento.
 
-establecimientos educaciones, en recintos particulares
-
-solamente Exento.
-
-3. Permiso temporal para venta de sandías y melones, período
-
-desde el 1 de diciembre al 31 de marzo, solamente en
-
-recintos particulares 2 UTM
+3. Permiso temporal para venta de sandías y melones, período desde el 1 de diciembre al 31 de marzo, solamente en recintos particulares.... 2 UTM
 
 F) Funcionamiento circos, parques de entretenciones en recintos privados, en bienes nacionales de uso público o municipales, diario:
 
-Sectores periféricos 40% UTM
+Sectores periféricos..... 40% UTM
 
-Sectores céntricos 1 UTM
+Sectores céntricos....... 1 UTM
 
 Los circos chilenos pagarán el 50% de la tarifa antes indicada.
 
 G) Derechos instalación feria navideña, mensual, por puesto:
 
-1. Derecho feria navideña 50% UTM
+1. Derecho feria navideña...... 50% UTM o proporcional por día
 
-o proporcional por día
+2. Derechos de artesanías navideñas para organizaciones comunitarias, educacionales y de servicio.... exento.
 
-2. Derechos de artesanías navideñas para organizaciones
+3. Derechos de Aseo............ 10% UTM
 
-comunitarias, educacionales y de servicio exento.
+H) Entretenciones varias, en recintos privados, BNUP y municipales, diario......................................... 5% UTM
 
-3. Derechos de Aseo 10% UTM
+I) Perifoneo, en vehículo, diario............. 3% U.T.M. por hora.
 
-H) Entretenciones varias, en recintos privados, BNUP y
+J) Permiso red de amplificación en área centro comercial entre Avenida Valparaíso, Buenos Aires, Blanco y Progreso, hasta doce parlantes semestral........................................................... 1 UTM
 
-municipales, diario 5% UTM
-
-I) Perifoneo, en vehículo, diario 3% U.T.M.
-
-por hora.
-
-J) Permiso red de amplificación en área centro comercial
-
-entre Avenida Valparaíso, Buenos Aires, Blanco
-
-y Progreso, hasta doce parlantes semestral 1 UTM
-
-K) Altoparlantes en sectores periféricos, para fines
-
-comerciales, diario 1 UTM
+K) Altoparlantes en sectores periféricos, para fines comerciales, diario............ 1 UTM
 
 L) Derechos varios:
 
-1. Certificados de cualquier naturaleza, con
+1. Certificados de cualquier naturaleza, con excepción de los que la ley o reglamento declaren exentos............ $ 500.
 
-excepción de los que la ley o reglamento declaren
+2. Derechos por venta de guías de libre tránsito para animales c/u..... 2% UTM
 
-exentos $ 500.
+3. Lustrabotas, semestral.................. 10% UTM
 
-2. Derechos por venta de guías de libre tránsito para
+4. Venta de pinos navideños mes de diciembre, sector céntrico........ 1 UTM
 
-animales c/u 2% UTM
+5. Venta de pinos navideños mes de diciembre, sector periférico.... 70% UTM
 
-3. Lustrabotas, semestral 10% UTM
+6. Venta de tarjetas navideñas, instituciones, sin fines de lucro.... exento.
 
-4. Venta de pinos navideños mes de diciembre,
+7. Instituciones comunitarias inscritas (artículo Nº29 ley Nº 19.418)....................... exento.
 
-sector céntrico 1 UTM
+8. Remates efectuados en establecimientos educacionales particulares........................ 1 UTM
 
-5. Venta de pinos navideños mes de diciembre, sector
+9. Actividades culturales, musicales y afines callejeras, diario..... 3% UTM
 
-periférico 70% UTM
+10. Paisajista, pintores, artistas plásticos, fotógrafos y actividades afines callejeras, diario.............. 3% UTM
 
-6. Venta de tarjetas navideñas, instituciones,
+11. Otros derechos no contemplados en este artículo...... 50% UTM
 
-sin fines de lucro exento.
-
-7. Instituciones comunitarias inscritas (artículo
-
-Nº29 ley Nº 19.418) exento.
-
-8. Remates efectuados en establecimientos educacionales
-
-particulares 1 UTM
-
-9. Actividades culturales, musicales y afines callejeras,
-
-diario 3% UTM
-
-10. Paisajista, pintores, artistas plásticos, fotógrafos y
-
-actividades afines callejeras, diario 3% UTM
-
-11. Otros derechos no contemplados en este
-
-#### Artículo 50
-
-% UTM
-
-12. Derecho por venta de carteles Ley de
-
-Alcoholes 10% UTM
+12. Derecho por venta de carteles Ley de Alcoholes........ 10% UTM
 
 13. Copia total o parcial del archivo de patentes comerciales, incluyendo, solamente, razón social, Rut, domicilio y giro
 
-a) En papel 50% UTM
+a) En papel............. 50% UTM
 
-b) Digital 25% UTM
+b) Digital................ 25% UTM
 
-M) Fotocopia de documentos solicitados por contribuyentes
+M) Fotocopia de documentos solicitados por contribuyentes en la Oficina de Partes............... $ 20 por fotocopia.
 
-en la Oficina de Partes $ 20 por fotocopia.
+- Fotocopia de documentos en caso de aplicación de la Ley Nº 20.285 Sobre Acceso a la Información Pública.... $ 20.- por hoja.
 
-- Fotocopia de documentos en caso de aplicación de la Ley
-
-Nº 20.285 Sobre Acceso a la Información
-
-Pública $ 20.- por hoja.
-
-N) Derechos informados por el Departamento de Operaciones.
+N) Derechos informados por la Unidad de Inspección.
 
 I. Los servicios de bodegaje de los vehículos abandonados en la vía pública o retenidos por cualquier causa, pagarán el siguiente derecho diariamente:
 
-1. Motos, motocicletas 1% UTM
+1. Motos, motocicletas............................... 1% UTM
 
-2. Vehículos tracción humana y animal 2% UTM
+2. Vehículos tracción humana y animal............ 2% UTM
 
-3. Automóviles, furgones y camionetas de hasta
+3. Automóviles, furgones y camionetas de hasta 750 Kg....... 3,5% UTM
 
-750 Kg. 3,5% UTM
+4. Camionetas superior a 750 Kg., camiones, buses y maquinaria pesada........ 5% UTM
 
-4. Camionetas superior a 750 Kg., camiones, buses y
+5. Otros no clasificados sean vehículos u otros elementos de cualquier naturaleza en bodegaje municipal..... 3% UTM
 
-maquinaria pesada 5% UTM
+6. Bicicletas...................... 1% UTM
 
-5. Otros no clasificados sean vehículos u otros elementos
+II. Mantención de perros en caniles municipales (alimentación y medidas sanitarias), diario por animal.......... 2% U.T.M.
 
-de cualquier naturaleza en bodegaje municipal 3% UTM
-
-6. Bicicletas 1% UTM
-
-### II. Mantención de perros en caniles
-
-municipales (alimentación y medidas
-
-sanitarias), diario por animal 2% U.T.M.
-
-### III. Registro de Perros y otorgamiento de número y placa
-
-Identificadora exento.
+III. Registro de Perros y otorgamiento de número y placa identificadora................ exento.
 
 IV. El traslado con grúa a corrales municipales, deberá ser pagado directamente a los prestadores del servicio por parte del dueño del vehículo que se retira.
 
-### V. La retención de animales de
-
-cualquier especie por procedimientos
-
-policiales u otros, que deban permanecer
-
-en corrales, por concepto de alimentación
-
-y cuidados médicos si fueren necesarios,
-
-diario por animal 10% U.T.M.
+V. La retención de animales de cualquier especie por procedimientos policiales u otros, que deban permanecer en corrales, por concepto de alimentación y cuidados médicos si fueren necesarios, diario por animal............. 10% U.T.M.
 
 ### VI. OTROS DERECHOS
 
-1. Reparación de luminarias apagadas en condominios
+1. Reparación de luminarias apagadas en condominios privados....... 0.4 UTM
 
-privados 0.4 UTM
+2. Apoyo en postes Municipales.............. 0.1 UTM anual.
 
-2. Apoyo en postes Municipales 0.1 UTM anual.
+3. Retiro de escombros y desechos, no incluidos en la extracción M3....... 0.50 UTM
 
-3. Retiro de escombros y desechos, no incluidos en la
+4. Retiro de ramas, hojas y otros provenientes de jardines M3............. 0.30 UTM
 
-extracción M3 0.50 UTM
+5. Retiro de enseres de hogares, no incluidos en operativos M3............ 0.25 UTM
 
-4. Retiro de ramas, hojas y otros provenientes de jardines
+6. Desmalezamiento de sitios.............. 0.30 UTM M2.
 
-M3 0.30 UTM
+7. Poda y retiro de árboles propiedad privada hasta 4 mts. de altura Unidad..... 1 UTM
 
-5. Retiro de enseres de hogares, no incluidos en
+8. Borrado de grafitis y rayados.............. 0.01 UTM M2.
 
-operativos M3 0.25 UTM
+9. Retiro de propaganda Unidad................ 0.50 UTM
 
-6. Desmalezamiento de sitios 0.30 UTM M2.
+10. Retiro de cables no autorizados y/o en desuso 100 mts...... 0.50 UTM
 
-7. Poda y retiro de árboles propiedad privada
+11. Solicitud de motoniveladora sitios particulares 1 hora...... 1 UTM
 
-hasta 4 mts. de altura Unidad 1 UTM
+12. Solicitud retroexcavadora sitios particulares 1 hora........... 1 UTM
 
-8. Borrado de grafitis y rayados 0.01 UTM M2.
+13. Solicitud de mini cargador frontal sitios particulares 1 hora.... 1 UTM
 
-9. Retiro de propaganda Unidad 0.50 UTM
+14. Solicitud Camión Pluma 1 hora........ 1 UTM
 
-10. Retiro de cables no autorizados y/o en desuso
+15. Solicitud de camión tolva 1 hora..... 1 UTM
 
-100 mts. 0.50 UTM
+16. Aprovisionamiento de agua en camión aljibe 10 m3..... 1,5 UTM
 
-11. Solicitud de motoniveladora sitios particulares
+17. Instalación y retiro de lienzos Unidad..... 0.50 UTM
 
-1 hora 1 UTM
+18. Retiro de basura en eventos especiales(espectáculos deportivos, artísticos, culturales, etc)Evento...... 0.50 UTM
 
-12. Solicitud retroexcavadora sitios particulares
+19. Limpieza sitios eriazos M2....... 1.20 UTM
 
-1 hora 1 UTM
+20. Solicitud generador 115 KVA 1 hora..... 0.60 UTM
 
-13. Solicitud de mini cargador frontal sitios
+21. Amplificación básica eventos particulares..... 0.50 UTM
 
-particulares 1 hora 1 UTM
+22. Instalación de escenarios (básico eventos particulares) M2.......... 0.80 UTM
 
-14. Solicitud Camión Pluma 1 hora 1 UTM
+23. Arriendo / Instalación y retiro de sillas (eventos particulares) 100 Unidad...... 1 UTM
 
-15. Solicitud de camión tolva 1 hora 1 UTM
-
-16. Aprovisionamiento de agua en camión
-
-aljibe 10 m3 1,5 UTM
-
-17. Instalación y retiro de lienzos Unidad 0.50 UTM
-
-18. Retiro de basura en eventos especiales
-
-(espectáculos deportivos, artísticos, culturales, etc)
-
-Evento 0.50 UTM
-
-19. Limpieza sitios eriazos M2 1.20 UTM
-
-20. Solicitud generador 115 KVA 1 hora 0.60 UTM
-
-21. Amplificación básica eventos
-
-particulares 0.50 UTM
-
-22. Instalación de escenarios (básico eventos
-
-particulares) M2 0.80 UTM
-
-23. Arriendo / Instalación y retiro de sillas
-
-(eventos particulares) 100 Unidad 1 UTM
-
-24. Instalación de cierros para sitios eriazos (malla
-
-biscocho, postes y alambre de púa) M/L 0.50 UTM.
+24. Instalación de cierros para sitios eriazos (malla biscocho, postes y alambre de púa) M/L..... 0.50 UTM.
 
 #### Artículo 5º
 
 DERECHOS GIRADOS POR LA DIRECCION DE OBRAS
 
-1. Anteproyectos de loteo y/o edificación 10% de los derechos que correspondiere pagar por la aprobación definitiva del proyecto.
+1. Anteproyectos de loteo y/o edificación....... 10% de los derechos que correspondiere pagar por la aprobación definitiva del proyecto.
 
-2. Obra nueva y ampliación 1,5% del presupuesto
+2. Obra nueva y ampliación......... 1,5% del presupuesto
 
-3. Subdivisión y loteo 2% Avaluó fiscal del terreno.
+3. Subdivisión y loteo............. 2% Avaluó fiscal del terreno.
 
-4. Fusión 1 cuota de ahorro Corvi.
+4. Fusión............ 1 cuota de ahorro Corvi.
 
-5. Alteraciones, reparaciones, obras provisorias y obras
+5. Alteraciones, reparaciones, obras provisorias y obras menores que no consideren ampliaciones........... 1 % del presupuesto.
 
-menores que no consideren
+6. Reconstrucción........... 1% del presupuesto
 
-ampliaciones % del presupuesto.
+7. Modificación de proyectos...... 0,75% del presupuesto
 
-6. Reconstrucción 1% del presupuesto
+8. Demoliciones............. 0,5% del presupuesto
 
-7. Modificación de proyectos 0,75% del presupuesto
+9. Aprobación de plano Ley de Copropiedad Inmobiliaria...... 2 cuotas de ahorro para la vivienda, por unidad a enajenar
 
-8. Demoliciones 0,5% del presupuesto
+10. Certificado Ley de Copropiedad Inmobiliaria, de numeración domiciliaria y de línea....... 1 cuota de ahorro para la vivienda
 
-9. Aprobación de plano Ley de Copropiedad
+11. Certificado de informes previos........ 30% UTM
 
-Inmobiliaria 2 cuotas de ahorro para la vivienda, por
-
-unidad a enajenar
-
-10. Certificado Ley de Copropiedad Inmobiliaria, de
-
-numeración domiciliaria y de línea 1 cuota de ahorro
-
-para la vivienda
-
-11. Certificado de informes previos 30% UTM
-
-12. Certificado sobre Declaratoria de Utilidad Pública
-
-10% UTM
+12. Certificado sobre Declaratoria de Utilidad Pública.......... 10% UTM
 
 13. Cambio de destino de la edificación 2% UTM por mt.2. La solicitud deberá venir acompañada del proyecto que origina el cambio de destino.
 
 14. Ocupación de vía pública, calzadas, aceras, paseos y/o áreas verdes con mantención de materiales de construcción: (se considera una constante mínima de ancho de faja de 3,2 Mt.2, salvo especificación expresa de contenciones que permitan su reducción):
 
-a) Calzada y/o acera, paseo y/o plaza y áreas verdes pavimentadas 5% UTM por mt.2 hasta los 10 primeros días corridos.
+a) Calzada y/o acera, paseo y/o plaza y áreas verdes pavimentadas..... 5% UTM por mt.2 hasta los 10 primeros días corridos.
 
-b) Calzada y/o acera, paseo y/o área verde en tierra 2,5% UTM por mt.2 hasta los 10 primeros días hábiles.
+b) Calzada y/o acera, paseo y/o área verde en tierra............ 2,5% UTM por mt.2 hasta los 10 primeros días hábiles.
 
 - Los derechos enunciados precedentemente, se aumentarán en 5% UTM el mt.2 por cada período adicional, por los mt.2 restantes no realizados.
 
@@ -440,7 +286,7 @@ b) Calzada y/o acera, paseo y/o área verde en tierra 2,5% UTM por mt.2 hasta lo
 
 - Quedarán exentos del cobro de derechos municipales por ocupación de vía pública, aquellas obras de pavimentación que se ejecuten como aporte por sobre las obras de urbanización exigidas por la Ley General de Urbanismo y Construcción como también aquellas obras ejecutadas por Serviu V Región, la Municipalidad u otro organismo del Estado.
 
-5. Construcción de arranque domiciliario:
+15. Construcción de arranque domiciliario:
 
 a) De agua potable y/o alcantarillado, sólo en el caso de viviendas preexistentes, 5% UTM por mt.2 por 5 días máximo.
 
@@ -450,311 +296,129 @@ b) Conexión a red de gas natural sólo en el caso de viviendas preexistentes, 5
 
 - Ocupación de vía pública con andamios y cierros 2% UTM por mt.2 por los 10 primeros días de ocupación y 3% UTM por mt.2 por cada fracción de hasta 10 días adicionales.
 
-- Instalación de faenas con maquinaria pesada, diario 50% UTM
+- Instalación de faenas con maquinaria pesada, diario..... 50% UTM
 
-- Ocupación de Bien Nacional para ejecución de trabajos en la vía pública 5% UTM por mt.2 diario.
+- Ocupación de Bien Nacional para ejecución de trabajos en la vía pública...... 5% UTM por mt.2 diario.
 
 17. Remoción o ruptura de pavimento de hormigón o asfalto, se considera una faja mínima de 0,60 mt. de ancho 5% UTM por mt.2 por períodos iguales al número 14.
 
 18. Derechos relativos a permisos de construcciones e instalaciones en bien nacional de uso público:
 
-a) Mesas y/o stand para atención de público anexo a
+a) Mesas y/o stand para atención de público anexo a establecimientos comerciales de expendio de alimentos, fríos o calientes, directamente al público, tales como: fuentes de soda, salones de té, restaurantes y otros similares........ 50 % UTM por mt.2 semestral.
 
-establecimientos comerciales de expendio de alimentos,
+b) Mesas y/o stand para atención de público anexo a establecimientos comerciales de expendio de alimentos, fríos o calientes, directamente al público, tales como: fuentes de soda, salones de té, restaurantes y otros similares, que se ubiquen en el Paseo Latorre e incorporen el toldo de diseño Municipal................ 25% UTM por mt.2 semestral.
 
-fríos o calientes, directamente al público, tales como:
+c) Stands rurales camineros (toldos, techos).......... 2,5% UTM por mt.2 semestral.
 
-fuentes de soda, salones de té, restaurantes y otros
+d) Postes y/o elementos sustentadores de letreros...... 2 UTM anual.
 
-similares 50 % UTM por mt.2 semestral.
-
-b) Mesas y/o stand para atención de público anexo a
-
-establecimientos comerciales de expendio de alimentos,
-
-fríos o calientes, directamente al público, tales como:
-
-fuentes de soda, salones de té, restaurantes y otros
-
-similares, que se ubiquen en el Paseo Latorre e
-
-incorporen el toldo de diseño Municipal
-
-25% UTM por mt.2 semestral.
-
-c) Stands rurales camineros
-
-(toldos, techos) 2,5% UTM por mt.2 semestral.
-
-d) Postes y/o elementos sustentadores de letreros
-
-2 UTM anual.
-
-e) Mesas y/o Stands para promociones sin venta
-
-35% UTM el mt.2 mensual.
+e) Mesas y/o Stands para promociones sin venta........ 35% UTM el mt.2 mensual.
 
 La autorización del punto de promoción sin venta se realizará de acuerdo a plano de distribución que comprende las calles Av. Valparaíso veredas norte y sur, calles Blanco y Progreso que forma parte de la presente Ordenanza. La asignación del punto de promoción se realizará por orden de petición y pago de derechos.
 
-f) Concesión de pasajes públicos, sólo con fines de
-
-seguridad 0,1% UTM el mt.2 anual.
+f) Concesión de pasajes públicos, sólo con fines de seguridad.......... 0,1% UTM el mt.2 anual.
 
 g) Permiso de paso por tendido subterráneo en BNUP de redes de distribución domiciliaria, comercial y/o industrial, excepto agua potable, alcantarillado, energía eléctrica y gas natural $50 el metro lineal. Se exime de este cobro el tendido subterráneo en el perímetro central.
 
-h) Exhibición de mercadería frente a local comercial en
+h) Exhibición de mercadería frente a local comercial en acera y/o colgante previa autorización del Depto. de tránsito y Transporte Público......... 2 UTM por mt.2, semanal.
 
-acera y/o colgante previa autorización del Depto. de
-
-tránsito y Transporte Público 2 UTM por mt.2, semanal.
-
-i) Exhibición de mercadería en acera, frente a su local
-
-comercial, del 21 de febrero al 7 de marzo, del 1 de
-
-septiembre al 18 de septiembre y del 1 de diciembre al
-
-31 de diciembre de cada año, previo informe favorable
-
-de la Dirección de Tránsito y Transporte Público y de
-
-la Dirección de Obras . ... 10% UTM por mt.2.
+i) Exhibición de mercadería en acera, frente a su local comercial, del 21 de febrero al 7 de marzo, del 1 de septiembre al 18 de septiembre y del 1 de diciembre al 31 de diciembre de cada año, previo informe favorable de la Dirección de Tránsito y Transporte Público y de la Dirección de Obras........... 10% UTM por mt.2.
 
 19.- Otros Informes y Certificaciones:
 
-a) Certificados que impliquen inspecciones en terreno a
+a) Certificados que impliquen inspecciones en terreno a petición de particulares........ 50% UTM
 
-petición de particulares 50% UTM
+b) Copia autorizada de documentos emitidos por esta Dirección...................... 10% UTM
 
-b) Copia autorizada de documentos emitidos por esta
+c) Certificados de urbanización y otros, solicitados por particulares.......... 20% UTM
 
-Dirección 10% UTM
+d) Certificado de vivienda social.............. 20% UTM
 
-c) Certificados de urbanización y otros, solicitados por
+e) Resoluciones y rectificaciones calificadas por la DOM........... Exento.
 
-particulares 20% UTM
+f) Información digitalizada de Permisos de Edificación..... 1 UTM por año.
 
-d) Certificado de vivienda social 20% UTM
+g) Desarchivo de expediente tramitado en esta Dirección para consulta...... 10% UTM por expediente.
 
-e) Resoluciones y rectificaciones calificadas
+h) Certificaciones solicitadas en virtud de resoluciones municipales como por ejemplo: cambio de nombre de calles, pasajes o caminos o por reordenamiento de la numeración domiciliaria durante los primeros seis meses de su vigencia..... Exento.
 
-por la DOM Exento.
+i) Derecho por certificados para proyectos a postular a Programa de Protección al Patrimonio Familiar y otros similares de Serviu V Región.................. 1 cuota ahorro Corvi.
 
-f) Información digitalizada de Permisos de Edificación
+j) Copias autorizadas de planos archivados en esta dirección......... 10% UTM
 
-1 UTM por año.
+k) Certificado de zonificación (urbano o rural)............ 10% UTM
 
-g) Desarchivo de expediente tramitado en esta Dirección
+l) Certificado sobre calidad de Bien Nacional de Uso Público y perfil de tipo de calle o pasaje....... 30% UTM
 
-para consulta 10% UTM por expediente.
+m) Certificado de localización para predios que requieran acreditar distanciamiento a equipamiento de salud, educación, vialidad estructurante, locomoción colectiva u otro con fines particulares o para postular a subsidio diferenciado a la localización de programas de vivienda del Serviu................... 20%UTM
 
-h) Certificaciones solicitadas en virtud de resoluciones
+n) Certificado de usos de suelos para determinar usos permitidos asociados a actividad comercial conforme a zonificación en el Plan Regulador Comunal y normativa vigente......... 20%UTM
 
-municipales como por ejemplo: cambio de nombre de
+20.- Copia de plano de la comuna impreso.............. 25% UTM
 
-calles, pasajes o caminos o por reordenamiento de la
+- Copia de plano de la comuna digitalizado:....... 12,5% UTM
 
-numeración domiciliaria durante los primeros seis meses
+- Copia Plano Regulador Comunal con Memoria y Ordenanza correspondiente impreso........... 1 UTM
 
-de su vigencia Exento.
-
-i) Derecho por certificados para proyectos a postular a
-
-Programa de Protección al Patrimonio Familiar y otros
-
-similares de Serviu V Región 1 cuota ahorro Corvi.
-
-j) Copias autorizadas de planos archivados en esta
-
-dirección 10% UTM
-
-k) Certificado de zonificación (urbano o rural) 10% UTM
-
-l) Certificado sobre calidad de Bien Nacional de Uso
-
-Público y perfil de tipo de calle o pasaje 30% UTM
-
-m) Certificado de localización para predios que requieran
-
-acreditar distanciamiento a equipamiento de salud,
-
-educación, vialidad estructurante, locomoción colectiva
-
-u otro con fines particulares o para postular a
-
-subsidio diferenciado a la localización de programas de
-
-vivienda del Serviu 20%UTM
-
-n) Certificado de usos de suelos para determinar usos
-
-permitidos asociados a actividad comercial conforme a
-
-zonificación en el Plan Regulador Comunal y normativa
-
-vigente 20%UTM
-
-20.- Copia de plano de la comuna impreso 25% UTM
-
-- Copia de plano de la comuna digitalizado: 12,5% UTM
-
-- Copia Plano Regulador Comunal con Memoria y Ordenanza
-
-correspondiente impreso 1 UTM
-
-- Copia Plano Regulador Comunal con Memoria y Ordenanza
-
-correspondiente digitalizado 50% UTM
+- Copia Plano Regulador Comunal con Memoria y Ordenanza correspondiente digitalizado...... 50% UTM
 
 21.- Permisos para la instalación de publicidad que sea vista desde la vía pública, por mt.2 anual con excepción de la expresión del giro que se encuentre adosada a la o las edificaciones donde se realiza la actividad propia del giro.
 
-a) Aviso luminoso (excluido neón) 10% UTM
+a) Aviso luminoso (excluido neón)........... 10% UTM
 
-b) Aviso con neón 5% UTM
+b) Aviso con neón...................... 5% UTM
 
-c) Aviso iluminado 20% UTM
+c) Aviso iluminado................... 20% UTM
 
-d) Aviso no iluminado 30% UTM
+d) Aviso no iluminado............. 30% UTM
 
 e) Reparto de volantes u otros elementos publicitarios en espacios públicos:
 
-1.- Comercio con patente vigente en la comuna
+1.- Comercio con patente vigente en la comuna......... 35% de UTM diario
 
-35% de UTM diario
+2.- Comercio establecido en otras comunas............... 1 UTM diario
 
-2.- Comercio establecido en otras comunas 1 UTM diario
+f) Aviso en ruta caminera, fuera del radio urbano, cualquier tamaño............... 3 UTM
 
-f) Aviso en ruta caminera, fuera del radio urbano,
+g) Permisos de instalación de propagandas vistas de espacios públicos. Se gravará en este concepto, en especial, toda aquella que exceda una superficie de 8 m2......................... 12 UTM
 
-cualquier tamaño 3 UTM
-
-g) Permisos de instalación de propagandas vistas de
-
-espacios públicos. Se gravará en este concepto, en
-
-especial, toda aquella que exceda una superficie de 8
-
-m2 12 UTM
-
-h) Permisos de avisos en general en establecimientos
-
-comerciales de carácter turístico, debidamente
-
-calificados por el Departamento de Turismo
-
-50% de los derechos indicados anteriormente.
+h) Permisos de avisos en general en establecimientos comerciales de carácter turístico, debidamente calificados por el Departamento de Turismo................ 50% de los derechos indicados anteriormente.
 
 i) Permisos de propaganda mixta (neón y no luminoso) el promedio de ambas. La propaganda efectuada por períodos inferiores a la anual, cancelará el derecho correspondiente en forma proporcional por períodos, considerando un mínimo de 15 días.
 
-j) Permisos de letreros en la acera o frente a local
-
-comercial, fuera del sector céntrico, previa
-
-autorización del Depto. Tránsito y Transporte Público
-
-20% UTM semestral, por ocupación de BNUP; más la
-
-publicidad.
+j) Permisos de letreros en la acera o frente a local comercial, fuera del sector céntrico, previa autorización del Depto. Tránsito y Transporte Público............ 20% UTM semestral, por ocupación de BNUP; más la publicidad.
 
 Los derechos anuales podrán ser cancelados con un mínimo de un mes, debiendo cancelar los derechos proporcionales que correspondan.
 
 22.- Otros derechos:
 
-a) Inscripción, Registro de Contratistas DOM (Reglamento
+a) Inscripción, Registro de Contratistas DOM (Reglamento de registro especial de contratistas y consultores)........ 50% UTM
 
-de registro especial de contratistas y consultores)
+b) Derechos de participación en Propuestas Públicas.............. 30% UTM
 
-50% UTM
+c) Extracción artesanal de arena, ripio u otro material en bien nacional de uso público, o municipal diario........ 2% UTM
 
-b) Derechos de participación en Propuestas
+d) Extracción de áridos por planta mecanizada en bien nacional de uso público o municipales 2% UTM por mt.3 extraído.
 
-Públicas 30% UTM
+e) Las construcciones destinadas a sedes de juntas de vecinos, centros de madres, cuerpo de bomberos, personas jurídicas sin fines de lucro, regidos por la ley 19.418............. Exento.
 
-c) Extracción artesanal de arena, ripio u otro
+f) Inmuebles municipales, corporación de educación o salud, construcciones, mejoramiento o ampliaciones de vivienda correspondientes a los programas de vivienda para postular a subsidios Serviu Región de Valparaíso, pagarán por concepto de derechos de construcción (obra nueva o ampliación), y certificados, el 0,1% del presupuesto y el 1% de la UTM respectivamente. Para optar a esta rebaja se deberá adjuntar al momento de solicitar el Permiso de Obras de edificación y/o loteo, la escritura o promesa de compraventa del predio con el comité, objeto de la postulación a cualquiera de los programas habitacionales señalados. Para la aprobación de anteproyecto sólo bastará con carta compromiso entre el propietario y el comité respectivo.
 
-material en bien nacional de uso público, o
+g) Los anteproyectos y proyectos de construcción, subdivisión o loteo con fines municipales emplazados en predios de propiedad municipal, o en que el municipio sea titular de algún derecho de uso, goce o servidumbre............... Exento.
 
-municipal diario 2% UTM
+h) Las subdivisiones o loteos que se originen exclusivamente para generar lotes a ser donados al municipio del avalúo del predio a subdividir o lotear.......... Exento.
 
-d) Extracción de áridos por planta mecanizada en bien
+i) Las obras que se ejecuten para la instalación de mobiliario urbano donado al municipio...... Exento.
 
-nacional de uso público o municipales
+j) Nomenclator.................. 1 U.F.
 
-2% UTM por mt.3 extraído.
+k) Revisión, análisis y aprobación de proyectos paisajísticos, por proyecto............ 0,8 UTM
 
-e) Las construcciones destinadas a sedes de juntas de
+l) Informes que se efectúan con motivo de denuncias realizadas por contribuyentes ante incumplimiento a la Ley General de Urbanismo y Construcciones y su respectiva Ordenanza........ Exento
 
-vecinos, centros de madres, cuerpo de bomberos,
+23.- Otros derechos no contemplados en los anteriores......... 20% UTM
 
-personas jurídicas sin fines de lucro, regidos por la
-
-ley 19.418 Exento.
-
-f) Inmuebles municipales, corporación de educación o
-
-salud, construcciones, mejoramiento o ampliaciones de
-
-vivienda correspondientes a los programas de vivienda
-
-para postular a subsidios Serviu Región de Valparaíso,
-
-pagarán por concepto de derechos de construcción (obra
-
-nueva o ampliación), y certificados, el 0,1% del
-
-presupuesto y el 1% de la UTM respectivamente. Para
-
-optar a esta rebaja se deberá adjuntar al momento de
-
-solicitar el Permiso de Obras de edificación y/o loteo,
-
-la escritura o promesa de compraventa del predio con el
-
-comité, objeto de la postulación a cualquiera de los
-
-programas habitacionales señalados. Para la aprobación
-
-de anteproyecto sólo bastará con carta compromiso entre
-
-el propietario y el comité respectivo.
-
-g) Los anteproyectos y proyectos de construcción,
-
-subdivisión o loteo con fines municipales emplazados en
-
-predios de propiedad municipal, o en que el municipio
-
-sea titular de algún derecho de uso, goce o servidumbre
-
-Exento.
-
-h) Las subdivisiones o loteos que se originen
-
-exclusivamente para generar lotes a ser donados al
-
-municipio del avalúo del predio a subdividir o lotear
-
-Exento.
-
-i) Las obras que se ejecuten para la instalación de
-
-mobiliario urbano donado al municipio Exento.
-
-j) Nomenclator 1 U.F.
-
-k) Revisión, análisis y aprobación de proyectos
-
-paisajísticos, por proyecto 0,8 UTM
-
-l) Informes que se efectúan con motivo de denuncias
-
-realizadas por contribuyentes ante incumplimiento a la
-
-Ley General de Urbanismo y Construcciones y su
-
-respectiva Ordenanza Exento
-
-23.- Otros derechos no contemplados en los anteriores 20% UTM
+Certificados sobre faja de terreno afecta a declaratoria de Utilidad Pública en un predio.......... 55% UTM.
 
 Para todos los derechos girados por la Dirección de Obras, la forma de determinar los montos de los presupuestos, compensaciones de derechos de edificación, facilidades de pago, rebajas por unidades repetidas, etc., se regirán por lo dispuesto en la Ley General de Urbanismo y Construcciones.
 
@@ -764,157 +428,95 @@ Los derechos determinados en este artículo son sin perjuicio de las exenciones 
 
 DERECHOS GIRADOS POR LA DIRECCIÓN DE TRÁNSITO Y TRANSPORTE PÚBLICO
 
-A) Estacionamiento reservado, desde uno a tres cupos:
+A. Estacionamientos reservados.
 
-1. Vehículos livianos. Anual (proporcional) 4 UTM
+1. Estacionamiento reservado para taxis colectivos o taxis básicos en el radio central de la comuna por cupo mensual...... 0.50 UTM.
 
-2. Vehículos de carga. Anual (proporcional) 6 UTM
+2. Estacionamiento reservado fuera del radio central de la comuna, mensual por cupo previa evaluación de la Dirección de Tránsito...... 0.22 UTM.
 
-3. Buses interprovinciales. Anual (proporcional) 6 UTM
+3. Estacionamiento reservado en el radio central de la comuna, mensual por cupo, previa evaluación de la Dirección de Tránsito...... 4,3 UTM.
 
-El pago debe hacerse hasta el 30 de abril de cada
+4. Solo en jornada diurna. Estacionamiento autorizado para Carga y Descarga, en el radio central de la comuna, previa evaluación de la Dirección de Tránsito. Por cupo por hora. Cada cupo considera una extensión máxima de 12 mts. Lineales. Los vehículos que excedan este metraje deberán pagar un nuevo cupo hora....... 0.80 UTM.
 
-año.
+Nota 1: Cupo, queda definido por el espacio destinado a estacionamiento vehicular cuyas dimensiones son 2.50 mt de ancho por 5.00 mts de largo.
+
+Nota 2: El radio central de la comuna queda definido por el perímetro determinado por las siguientes calles: Norte, calle Buenos Aires; Sur, calle Díaz; Oriente, calle Patricio Lynch y Poniente calles Progreso-Cumming.
 
 B) Duplicados:
 
-1. Duplicados de permiso de circulación (duplicado o
+1. Duplicados de permiso de circulación (duplicado o transferencia)....... 10% UTM
 
-transferencia) 10% UTM
+2. Duplicado de permiso de circulación por error en confección............ Exento.
 
-2. Duplicado de permiso de circulación por error en
-
-confección Exento.
-
-C) Permiso práctica de manejo diario, conforme
-
-Ley de Tránsito 3% UTM
+C) Permiso práctica de manejo diario, conforme Ley de Tránsito................ 3% UTM
 
 D) Certificaciones Varias:
 
-1. Certificados de vehículos 10% UTM
+1. Certificados de vehículos....... 10% UTM
 
-2. Inspección ocular en las dependencias
+2. Inspección ocular en las dependencias Municipales...... 10% UTM
 
-Municipales 10% UTM
+3. Inspección ocular fuera de las dependencias municipales (dentro de la comuna)..... 15% UTM
 
-3. Inspección ocular fuera de las dependencias
+E) Revisión de taxímetros, sólo en caso de cambio de tarifas y de equipos:...... 15% UTM
 
-municipales (dentro de la comuna) 15% UTM
+F) Licencias de conducir si coinciden dos controles o más, en una licencia, se cobrará un control por una licencia, más un adicional por cada una de ellas de un..... 20% UTM
 
-E) Revisión de taxímetros, sólo en caso de cambio de tarifas
+1.- Primeras licencias de conducir clases B, C, D, F conforme a las leyes 18.290 y 19.495............. 60% UTM
 
-y de equipos: 15% UTM
+2.- Primera licencia de conducir clase E y control general cada 6 años................................ 20% UTM
 
-F) Licencias de conducir si coinciden dos controles o más,
+3.- Control 6 años por licencias de conducir clases B, C, D, F (por tipo de licencia) Ley 18.290...... 50% UTM
 
-en una licencia, se cobrará un control por una licencia, más un
+4.- Control 4 años por licencias de conducir clases A-1, A-2 Ley 18.290 y Clases A-1, A-2, A-3, A-4 y A-5.... 50 % UTM
 
-adicional por cada una de ellas de un 20% UTM
+5.- Controles médicos, psicométricos, sensométricos para todo tipo de licencias....................... 10% UTM
 
-1.- Primeras licencias de conducir clases B, C, D, F
+6.- Cambio de clase de licencia y extensión a otra clase (por tipo de licencia)........................ 60% UTM
 
-conforme a las leyes 18.290 y 19.495 60% UTM
+7.- Cambio de domicilio...... 10% UTM.
 
-2.- Primera licencia de conducir clase E y control
-
-general cada 6 años 20% UTM
-
-3.- Control 6 años por licencias de conducir clases
-
-B, C, D, F (por tipo de licencia) Ley 18.290 50% UTM
-
-4.- Control 4 años por licencias de conducir clases A-1,
-
-A-2 Ley 18.290 y Clases A-1, A-2, A-3, A-4
-
-y A-5 50 % UTM
-
-5.- Controles médicos, psicométricos, sensométricos para
-
-todo tipo de licencias 10% UTM
-
-6.- Cambio de clase de licencia y extensión a otra clase
-
-(por tipo de licencia) 60% UTM
-
-7.- Cambio de domicilio 10% UTM.
-
-8.- Certificado sobre trámite de licencia de conducir
-
-10% UTM
+8.- Certificado sobre trámite de licencia de conducir......... 10% UTM
 
 9.- Duplicado de licencia de conducir vigentes:
 
-Por error en la confección Exento
+Por error en la confección...... Exento
 
-Licencias de la misma comuna 15% UTM
+Licencias de la misma comuna..... 15% UTM
 
-Licencias de la misma comuna con cambio de
+Licencias de la misma comuna con cambio de domicilio...... 20% UTM
 
-domicilio 20% UTM
+Licencias de otras comunas incluye el cambio de domicilio..... 25% UTM
 
-Licencias de otras comunas incluye el cambio de
+10.- Cambio de nombres o apellidos, judicialmente aprobados, en licencias de conducir vigentes:
 
-domicilio 25% UTM
+Licencia de la comuna..... 5% UTM
 
-10.- Cambio de nombres o apellidos, judicialmente
+Licencia de otras comunas incluye el cambio de domicilio...... 10% UTM
 
-aprobados, en licencias de conducir vigentes:
+11.- Examen teórico, médico, práctico, cuando no se trate de otorgamiento de Licencias de Conducir:
 
-Licencia de la comuna 5% UTM
+Solicitado por juzgado u otra entidad afín..... 10% UTM
 
-Licencia de otras comunas incluye el cambio
+Solicitado por empresa....... 20% UTM
 
-de domicilio 10% UTM
+12.- Examen de reglamento práctico (por tipo de licencia) Ley 18.290............. 15% UTM
 
-11.- Examen teórico, médico, práctico, cuando no se trate
+13.- Cuestionario base, clases D, E, A-1, A-2, Ley 18.290, A-1, A-2, A-3, A-4, A-5 Ley 19.495.......... 4% UTM
 
-de otorgamiento de Licencias de Conducir:
+14.- Control de antecedentes. (Idoneidad)....... 10% UTM
 
-Solicitado por juzgado u otra entidad afín 10% UTM
+15.- Fotos para licencias de conducir digital..... $1.000.-
 
-Solicitado por empresa 20% UTM
+16.- Certificado de antecedentes del conductor (fijado anualmente por DS del Ministerio de Justicia), para obtener licencia de conducir o duplicado.
 
-12.- Examen de reglamento práctico (por tipo de licencia)
+17.- Otorgamiento de licencia de conducir a personas con licencias extranjeras por canje, según convenio...... 60 % UTM.
 
-Ley 18.290 15% UTM
+18.- Desistimiento de Clase........ 10% UTM.
 
-13.- Cuestionario base, clases D, E, A-1, A-2, Ley 18.290,
+19.- Si la licencia fue cancelada y denegada en este Municipio, en algún examen, no volverá a cancelar nuevamente el valor total de la licencia, sólo cancelará el....... 10% UTM
 
-A-1, A-2, A-3, A-4, A-5 Ley 19.495 4% UTM
-
-14.- Control de antecedentes. (Idoneidad) 10% UTM
-
-15.- Fotos para licencias de conducir digital $1.000.-
-
-16.- Certificado de antecedentes del conductor (fijado
-
-anualmente por DS del Ministerio de Justicia), para
-
-obtener licencia de conducir o duplicado.
-
-17.- Otorgamiento de licencia de conducir a personas con
-
-licencias extranjeras por canje, según
-
-convenio 60 % UTM.
-
-18.- Desistimiento de Clase 10% UTM.
-
-19.- Si la licencia fue cancelada y denegada en este
-
-Municipio, en algún examen, no volverá a cancelar
-
-nuevamente el valor total de la licencia, sólo
-
-cancelará el 10% UTM
-
-20.- En caso de denegación de licencia por 6 meses en
-
-Examen Teórico, Psicométrico, Sensométrico y/o
-
-Práctico, se cobrará según el trámite a realizar.
+20.- En caso de denegación de licencia por 6 meses en Examen Teórico, Psicométrico, Sensométrico y/o Práctico, se cobrará según el trámite a realizar.
 
 Si coinciden dos controles o más, en una licencia, se cobrará un control por una licencia, más un adicional por cada una de ellas de un 20% UTM.
 
@@ -924,41 +526,21 @@ Si la licencia viene de otro municipio y fue otorgada con menor tiempo al reglam
 
 G) Carros y Remolques.
 
-1.- Certificado de empadronamiento, por inscripción en
+1.- Certificado de empadronamiento, por inscripción en Registro de Carros y Remolques. (Incluye placa patente y padrón)..... 25% UTM.
 
-Registro de Carros y Remolques. (Incluye placa patente
+2.- Duplicado de certificado de empadronamiento.... 5% UTM
 
-y padrón) 25% UTM.
+3.- Certificado de modificación en el Registro de Carros y Remolques..... 10% UTM
 
-2.- Duplicado de certificado de empadronamiento 5% UTM
+4.- Placa Provisoria (incluido Duplicado Placa), de Carros y Remolques.... 20% UTM
 
-3.- Certificado de modificación en el Registro de
+H) Permiso provisorio de traslado, desde la comuna de Villa Alemana a la Planta de Revisión Técnica autorizada más cercana (diario)...... 20% UTM
 
-Carros y Remolques 10% UTM
+I) Duplicados Autoadhesivos DS 211/91, DS 54 y DS 55/94 (Sello Verde, Amarillo, Rojo)..... 10% UTM
 
-4.- Placa Provisoria (incluido Duplicado Placa),
+J) Otros derechos no contemplados en los anteriores..... 20% UTM
 
-de Carros y Remolques 20% UTM
-
-H) Permiso provisorio de traslado, desde la comuna de
-
-Villa Alemana a la Planta de Revisión Técnica
-
-autorizada más cercana (diario) 20% UTM
-
-I) Duplicados Autoadhesivos DS 211/91, DS 54 y DS 55/94
-
-(Sello Verde, Amarillo, Rojo) 10% UTM
-
-J) Otros derechos no contemplados en los
-
-anteriores 20% UTM
-
-K) Autorización para prueba de vehículos
-
-(casas vendedoras y talleres de reparación),
-
-mensual 10% UTM
+K) Autorización para prueba de vehículos (casas vendedoras y talleres de reparación), mensual....... 10% UTM
 
 #### Artículo 7º
 
@@ -974,69 +556,39 @@ B) Servicio de extracción y disposición final de residuos sólidos de establec
 
 - Producción de residuos superior a 60 litros e inferior a 200 litros diarios:
 
-1) Retiro dos veces por semana 20% UTM mensual.
+1) Retiro dos veces por semana.... 20% UTM mensual.
 
-2) Con extracción diaria 34% UTM mensual.
+2) Con extracción diaria.... 34% UTM mensual.
 
 - Producción de residuos entre 200 litros y 1.000 litros:
 
-1) Retiro dos veces por semana 1,15 UTM mensual.
+1) Retiro dos veces por semana.... 1,15 UTM mensual.
 
-2) Con extracción diaria 1,29 UTM mensual.
+2) Con extracción diaria......... 1,29 UTM mensual.
 
-- Producción de residuos superior a 1.000 litros o
+- Producción de residuos superior a 1.000 litros o fracción diarios:
 
-fracción diarios:
+1) Retiro dos veces por semana.... 1,29* X M3 UTM mensual.
 
-1) Retiro dos veces por semana 1,29* X M3 UTM mensual.
+2) Con extracción diaria.... 1,5* X M3 UTM mensual.
 
-2) Con extracción diaria 1,5* X M3 UTM mensual.
+Donde dice X M3 corresponde a la cantidad de M3 y fracción producida
 
-Donde dice X M3 corresponde a la cantidad de M3 y
+C) A las viviendas y locales comerciales sin sobreproducción de residuos, que tengan frecuencia de retiro diaria...... 14% UTM mensual adicional a la tarifa base (letra A).
 
-fracción producida
+D) Retiro de líneas, cables aéreos, lienzos no autorizados.... 1 UTM
 
-C) A las viviendas y locales comerciales sin sobreproducción
+E) Servicio de extracción de basura de kiosco, semestral....... 5% UTM
 
-de residuos, que tengan frecuencia de retiro diaria
+F) Certificados varios.... 25% UTM
 
-14% UTM mensual adicional a la tarifa base (letra A).
+G) Ingreso por camión con desechos de construcción o escombros, a vertedero municipal, mientras se mantengan vigentes los permisos de explotación..... 20% U.T.M. x M3
 
-D) Retiro de líneas, cables aéreos, lienzos no autorizados
+H) Otros derechos no contemplados en los anteriores.... 20% UTM
 
-1 UTM
+I) Ingreso por camioneta con desechos de construcción o escombros a vertedero municipal (primer ingreso mensual exento).... 10% U.T.M. por cada nuevo ingreso.
 
-E) Servicio de extracción de basura de kiosco,
-
-semestral 5% UTM
-
-F) Certificados varios 25% UTM
-
-G) Ingreso por camión con desechos
-
-de construcción o escombros, a
-
-vertedero municipal, mientras se
-
-mantengan vigentes los permisos de
-
-explotación 20% U.T.M. x M3
-
-H) Otros derechos no contemplados en los
-
-anteriores 20% UTM
-
-I) Ingreso por camioneta con desechos
-
-de construcción o escombros a
-
-vertedero municipal (primer ingreso
-
-mensual exento) 10% U.T.M. por
-
-cada nuevo
-
-ingreso.
+Los valores estarán vigentes hasta que el Vertedero esté funcionando con autorización sanitaria.
 
 #### Artículo 8º
 
@@ -1100,441 +652,177 @@ A) Derechos por ocupación de Estadio Municipal Ítalo Composto Scarpati:
 
 1.- Uso de cancha de pasto sintético:
 
-a) Instituciones particulares o personas naturales,
+a) Instituciones particulares o personas naturales, cancha completa de pasto sintético profesional, Horario Nocturno..... $80.000.- pesos.
 
-cancha completa de pasto sintético profesional,
+b) Instituciones particulares o personas naturales, cancha completa pasto sintético profesional, Horario Diurno...... $60.000.- pesos.
 
-Horario Nocturno $80.000.- pesos.
+c) Instituciones particulares o personas naturales, cancha pasto sintético mitad de cancha, Horario Nocturno......... $40.000.- pesos.
 
-b) Instituciones particulares o personas naturales,
+d) Instituciones particulares o personas naturales, cancha pasto sintético mitad de cancha, Horario Diurno........... $30.000.- pesos.
 
-cancha completa pasto sintético profesional,
+e) Instituciones particulares o personas naturales, cancha pasto sintético 1/4 de cancha, Horario Nocturno........... $20.000.- pesos.
 
-Horario Diurno $60.000.- pesos.
+f) Instituciones particulares o personas naturales, cancha pasto sintético 1/4 de cancha, Horario Diurno............. $15.000.- pesos.
 
-c) Instituciones particulares o personas naturales,
+g) Organizaciones comunitarias inscritas en el registro público municipal (Artículo 6º Ley Nº19.418)................. Exenta.
 
-cancha pasto sintético mitad de cancha, Horario
+h) Organizaciones deportivas, clubes deportivos (Ley del Deporte Nº 19.712) inscritas en el registro público municipal... Exenta.
 
-Nocturno $40.000.- pesos.
+i) Organizaciones comunitarias No inscritas en el registro público municipal (Artículo 6º Ley Nº 19.418)................ 50% UTM.
 
-d) Instituciones particulares o personas naturales,
+j) Organizaciones deportivas, clubes deportivos (Ley del Deporte Nº 19.712) No inscritas en el registro público municipal... 50% UTM.
 
-cancha pasto sintético mitad de cancha, Horario
+k) Organizaciones comunitarias inscritas en registro público municipal (Artículo 6º Ley Nº 19.418) con venta de entradas. 10% de la recaudación bruta teniendo como tope mínimo......... 40% UTM.
 
-Diurno $30.000.- pesos.
+l) Organizaciones deportivas, clubes deportivos (Ley del Deporte Nº 19.712) inscritas en el registro público municipal con venta de entradas. 10% de la recaudación bruta teniendo como tope mínimo......... 40% UTM.
 
-e) Instituciones particulares o personas naturales,
+m) Partidos programados por Asociación o Liga deportiva de la Comuna, ANFA, con pago de entradas. Por partido. 10% de la recaudación bruta teniendo como tope mínimo................... 1 UTM.
 
-cancha pasto sintético 1/4 de cancha, Horario
+n) Partidos programados por ANFP nivel profesional, con pago de entradas. Por partido.................... $1.500.000.-
 
-Nocturno $20.000.- pesos.
+o) Establecimientos municipalizados.... Exento.
 
-f) Instituciones particulares o personas naturales,
+p) Establecimientos educacionales subvencionados y particulares....... 50% UTM.
 
-cancha pasto sintético 1/4 de cancha, Horario
+q) Establecimientos educacionales municipalizados, con venta de entrada:........ 10% de la recaudación bruta teniendo como tope mínimo el 40% UTM.
 
-Diurno $15.000.- pesos.
+r) Establecimientos educacionales subvencionados, con venta de entrada:..... 15% de la recaudación bruta teniendo como tope mínimo el 40% UTM.
 
-g) Organizaciones comunitarias inscritas en el
+s) Establecimientos educacionales particulares, con venta de entrada:....... 20% de la recaudación bruta teniendo como tope mínimo de 50% UTM.
 
-registro público municipal (Artículo 6º Ley Nº
+t) Ocupación Estadio Municipal por escuela deportiva particular con fines de lucro, con una duración mínima de un mes:.... 20% de la recaudación.
 
-19.418) Exenta.
+u) Espectáculos no deportivos tales como recitales, cantatas, festivales, obras de teatro o afines, con pago de entradas:.... 20% de la recaudación bruta con un mínimo de 10 UTM.
 
-h) Organizaciones deportivas, clubes deportivos (Ley
+v) Carteles, letreros o avisos interior Estadio Municipal el m2 anual:..... 1 UTM.
 
-del Deporte Nº 19.712) inscritas en el registro
+w) Otros, sin ventas de entradas....... 50% UTM.
 
-público municipal Exenta.
-
-i) Organizaciones comunitarias No inscritas en el
-
-registro público municipal (Artículo 6º Ley Nº
-
-19.418) 50% UTM.
-
-j) Organizaciones deportivas, clubes deportivos (Ley
-
-del Deporte Nº 19.712) No inscritas en el registro
-
-público municipal 50% UTM.
-
-k) Organizaciones comunitarias inscritas en registro
-
-público municipal (Artículo 6º Ley Nº 19.418) con
-
-venta de entradas. 10% de la recaudación bruta
-
-teniendo como tope mínimo 40% UTM.
-
-l) Organizaciones deportivas, clubes deportivos (Ley
-
-del Deporte Nº 19.712) inscritas en el registro
-
-público municipal con venta de entradas. 10% de la
-
-recaudación bruta teniendo como tope
-
-mínimo 40% UTM.
-
-m) Partidos programados por Asociación o Liga
-
-deportiva de la Comuna, ANFA, con pago de entradas.
-
-Por partido. 10% de la recaudación bruta teniendo
-
-como tope mínimo 1 UTM.
-
-n) Partidos programados por ANFP nivel profesional,
-
-con pago de entradas. Por partido $1.500.000.-
-
-o) Establecimientos municipalizados Exento.
-
-p) Establecimientos educacionales subvencionados y
-
-particulares 50% UTM.
-
-q) Establecimientos educacionales municipalizados, con
-
-venta de entrada: 10% de la recaudación bruta
-
-teniendo como tope mínimo el 40% UTM.
-
-r) Establecimientos educacionales subvencionados, con
-
-venta de entrada: 15% de la recaudación bruta
-
-teniendo como tope mínimo el 40% UTM.
-
-s) Establecimientos educacionales particulares, con
-
-venta de entrada: 20% de la recaudación bruta
-
-teniendo como tope mínimo de 50% UTM.
-
-t) Ocupación Estadio Municipal por escuela deportiva
-
-particular con fines de lucro, con una duración
-
-mínima de un mes: 20% de la recaudación.
-
-u) Espectáculos no deportivos tales como recitales,
-
-cantatas, festivales, obras de teatro o afines, con
-
-pago de entradas: 20% de la recaudación bruta con
-
-un mínimo de 10 UTM.
-
-v) Carteles, letreros o avisos interior Estadio
-
-Municipal el m2 anual: 1 UTM.
-
-w) Otros, sin ventas de entradas 50% UTM.
-
-x) Otros, con ventas de entradas: 15% de la
-
-recaudación bruta con un tope mínimo de 50% de UTM.
+x) Otros, con ventas de entradas:...... 15% de la recaudación bruta con un tope mínimo de 50% de UTM.
 
 2.- Uso de canchas de tenis de arcilla, por hora:
 
-a) Lunes a jueves horario Diurno $ 2.000.-
+a) Lunes a jueves horario Diurno......... $ 2.000.-
 
-b) Viernes, sábados y domingos (Diurno) $ 2.500.-
+b) Viernes, sábados y domingos (Diurno)... $ 2.500.-
 
-c) Lunes a jueves en horario diurno $ 3.000.-
+c) Lunes a jueves en horario diurno....... $ 3.000.- con uso de camarín y agua caliente.
 
-con uso de camarín y agua caliente.
+d) Viernes, sábados y domingos en horario diurno.... $ 3.500.- con uso de camarín y agua caliente.
 
-d) Viernes, sábados y domingos en horario
+e) Lunes a jueves horario nocturno........ $ 2.500.-
 
-diurno $ 3.500.-
+f) Viernes, sábados y domingos (nocturno).... $ 3.000.-
 
-con uso de camarín y agua caliente.
+g) Lunes a jueves en horario diurno....... $ 3.500.- con uso de camarín y agua caliente
 
-e) Lunes a jueves horario nocturno $ 2.500.-
-
-f) Viernes, sábados y domingos (nocturno) $ 3.000.-
-
-g) Lunes a jueves en horario diurno $ 3.500.-
-
-con uso de camarín y agua caliente
-
-h) Viernes, sábados y domingos en horario
-
-diurno $ 4.000.-
-
-con uso de camarín y agua caliente
+h) Viernes, sábados y domingos en horario diurno.... $ 4.000.- con uso de camarín y agua caliente
 
 B) Derechos por ocupación de Gimnasio Luis Cruz Martínez:
 
 1.- Uso de cancha (poliuretano):
 
-a) Instituciones particulares o personas naturales,
+a) Instituciones particulares o personas naturales, uso cancha y camarines. Horario nocturno de lunes a jueves........... $ 20.000.-pesos.
 
-uso cancha y camarines. Horario nocturno de lunes a
+b) Instituciones particulares o personas naturales, uso cancha y camarines. Horario diurno de lunes a jueves............. $ 15.000. pesos.
 
-jueves $ 20.000.- pesos.
+c) Instituciones particulares o personas naturales, uso cancha y camarines. Horario nocturno de viernes, sábados, y domingos...... $ 25.000.- pesos.
 
-b) Instituciones particulares o personas naturales,
+d) Instituciones particulares o personas naturales, Uso cancha y camarines. Horario diurno de viernes, sábados, y domingos...... $ 20.000.- pesos.
 
-uso cancha y camarines. Horario diurno de lunes a
+e) Organizaciones comunitarias inscritas en el registro público municipal (Articulo 6 Ley Nº 19.418), por hora.......... Exenta.
 
-jueves $ 15.000.- pesos.
+f) Organizaciones deportivas, clubes deportivos (Ley del Deporte Nº 19.712) inscritas en el registro público municipal, por hora...... Exenta.
 
-c) Instituciones particulares o personas naturales,
+g) Organizaciones comunitarias No inscritas en el registro público municipal (artículo 6 Ley Nº 19.418), por hora...... 50% UTM.
 
-uso cancha y camarines. Horario nocturno de
+h) Organizaciones deportivas, clubes deportivos (Ley del Deporte Nº 19.712) No inscritas en el registro municipal, por hora..... 50% UTM.
 
-viernes, sábados, y domingos $ 25.000.- pesos.
+i) Organizaciones comunitarias inscritas en registro público municipal (Artículo 6º Ley Nº 19.418) con venta de entradas:....... 10% de la recaudación bruta teniendo como tope mínimo 40% UTM.
 
-d) Instituciones particulares o personas naturales,
+j) Organizaciones deportivas, clubes deportivos (Ley del Deporte Nº 19.712) inscritas en el registro público municipal con venta de entradas:..... 10% de la recaudación bruta teniendo como tope mínimo 40% UTM.
 
-Uso cancha y camarines. Horario diurno de viernes,
+k) Partidos programados por Asociación o Liga deportiva de la Comuna, con pago de entradas:.... 10% de la recaudación bruta teniendo como tope mínimo 40% UTM.
 
-sábados, y domingos $ 20.000.- pesos.
+l) Establecimientos municipalizados.... Exento.
 
-e) Organizaciones comunitarias inscritas en el
+m) Establecimientos educacionales subvencionados y particulares.... 50% UTM.
 
-registro público municipal (Articulo 6 Ley Nº
+n) Establecimientos educacionales municipalizados, con venta de entradas:.... 10% de la recaudación bruta teniendo como tope mínimo el 40% UTM.
 
-19.418), por hora Exenta.
+o) Establecimientos educacionales subvencionados, con venta de entradas:.... 15 % de la recaudación bruta. Teniendo como tope mínimo el 40% UTM.
 
-f) Organizaciones deportivas, clubes deportivos (Ley
+p) Establecimientos educacionales particulares, con venta de entradas:.... 20 % de la recaudación bruta teniendo como tope mínimo el 50% UTM.
 
-del Deporte Nº 19.712) inscritas en el registro
+q) Ocupación Gimnasio Municipal por escuela deportiva particular con fines de lucro, con una duración mínima de un mes... 10% de UTM por hora.
 
-público municipal, por hora Exenta.
+r) Ocupación Gimnasio Municipal por escuela deportiva, organizaciones deportivas, clubes deportivos (Ley del Deporte Nº 19.712) inscritas en el registro público municipal, con una duración mínima de un mes..... 10% de UTM por sesión.
 
-g) Organizaciones comunitarias No inscritas en el
+s) Espectáculos no deportivos tales como recitales, cantatas, festivales, obras de teatro o afines, con pago de entradas: .... 15% de la recaudación bruta con un mínimo de 10 UTM.
 
-registro público municipal (artículo 6 Ley Nº
+t) Carteles, letreros o avisos interior Gimnasio, el m2 anual..... 0,5 UTM.
 
-19.418), por hora 50% UTM.
-
-h) Organizaciones deportivas, clubes deportivos (Ley
-
-del Deporte Nº 19.712) No inscritas en el registro
-
-municipal, por hora 50% UTM.
-
-i) Organizaciones comunitarias inscritas en registro
-
-público municipal (Artículo 6º Ley Nº 19.418) con
-
-venta de entradas: 10% de la recaudación bruta
-
-teniendo como tope mínimo 40% UTM.
-
-j) Organizaciones deportivas, clubes deportivos (Ley
-
-del Deporte Nº 19.712) inscritas en el registro
-
-público municipal con venta de entradas: 10% de
-
-la recaudación bruta teniendo como tope mínimo
-
-40% UTM.
-
-k) Partidos programados por Asociación o Liga
-
-deportiva de la Comuna, con pago de entradas: 10%
-
-de la recaudación bruta teniendo como tope mínimo
-
-40% UTM.
-
-l) Establecimientos municipalizados Exento.
-
-m) Establecimientos educacionales subvencionados y
-
-particulares 50% UTM.
-
-n) Establecimientos educacionales municipalizados, con
-
-venta de entradas: 10% de la recaudación bruta
-
-teniendo como tope mínimo el 40% UTM.
-
-o) Establecimientos educacionales subvencionados, con
-
-venta de entradas: 15 % de la recaudación bruta.
-
-Teniendo como tope mínimo el 40% UTM.
-
-p) Establecimientos educacionales particulares, con
-
-venta de entradas: 20 % de la recaudación bruta
-
-teniendo como tope mínimo el 50% UTM.
-
-q) Ocupación Gimnasio Municipal por escuela deportiva
-
-particular con fines de lucro, con una duración
-
-mínima de un mes 10% de UTM por hora.
-
-r) Ocupación Gimnasio Municipal por escuela deportiva,
-
-organizaciones deportivas, clubes deportivos (Ley
-
-del Deporte Nº 19.712) inscritas en el registro
-
-público municipal, con una duración mínima de un
-
-mes 10% de UTM por sesión.
-
-s) Espectáculos no deportivos tales como recitales,
-
-cantatas, festivales, obras de teatro o afines, con
-
-pago de entradas: 15% de la recaudación bruta con
-
-un mínimo de 10 UTM.
-
-t) Carteles, letreros o avisos interior Gimnasio, el
-
-m2 anual 0,5 UTM.
-
-u) Otros 50% UTM.
+u) Otros..... 50% UTM.
 
 2.- Uso de Salones Multiuso:
 
-a) Lunes a jueves horario diurno $ 8.000.-
+a) Lunes a jueves horario diurno..... $ 8.000.-
 
-b) Viernes, sábados y domingos (Diurno) $ 10.000-
+b) Viernes, sábados y domingos (Diurno).... $ 10.000-
 
-c) Lunes a jueves en horario diurno $ 16.000.-
+c) Lunes a jueves en horario diurno..... $ 16.000.- con uso de camarín y agua caliente.
 
-con uso de camarín y agua caliente.
+d) Viernes, sábados y domingos en horario diurno.... $ 20.000.- con uso de camarín y agua caliente.
 
-d) Viernes, sábados y domingos en horario
+e) Lunes a jueves horario Nocturno......... $ 16.000.-
 
-diurno $ 20.000.-
+f) Viernes, sábados y domingos (Nocturno).... $ 20.000.-
 
-con uso de camarín y agua caliente.
+g) Lunes a jueves en horario Diurno........ $ 20.000.- con uso de camarín y agua caliente.
 
-e) Lunes a jueves horario Nocturno $ 16.000.-
-
-f) Viernes, sábados y domingos (Nocturno) $ 20.000.-
-
-g) Lunes a jueves en horario Diurno $ 20.000.-
-
-con uso de camarín y agua caliente.
-
-h) Viernes, sábados y domingos en horario
-
-diurno $ 24.000.-
-
-con uso de camarín y agua caliente.
+h) Viernes, sábados y domingos en horario diurno.... $ 24.000.- con uso de camarín y agua caliente.
 
 C) Derechos de uso Teatro Municipal Pompeya:
 
 ### I. Establecimientos educacionales:
 
-1. Colegios municipalizados de la comuna Exento.
+1. Colegios municipalizados de la comuna.... Exento.
 
-2. Colegios municipalizados de otras comunas 20% UTM
+2. Colegios municipalizados de otras comunas.... 30% UTM por hora (mínimo 2 horas).
 
-por hora (mínimo 2 horas)
+3. Colegios particulares subvencionados de la comuna.... 40% UTM por hora (mínimo 2 horas).
 
-3. Colegios particulares subvencionados de la comuna
+4. Colegios particulares subvencionados de otras comunas.... 50% UTM por hora (mínimo 2 horas).
 
-30% UTM por hora (mínimo 2 horas)
+5. Colegios particulares de cualquier comuna.... 60% UTM por hora (mínimo 2 horas).
 
-4. Colegios particulares subvencionados de otras
+6. Jardines infantiles de JUNJI u otras instituciones similares sin fines de lucro.... Exento.
 
-comunas 40% UTM por hora (mínimo 2 horas)
-
-5. Colegios particulares de cualquier comuna
-
-50% UTM por hora (mínimo 2 horas)
-
-6. Jardines infantiles de JUNJI u otras instituciones
-
-similares sin fines de lucro Exento.
-
-7. Jardines infantiles particulares
-
-40% UTM por hora (mínimo 2 horas)
+7. Jardines infantiles particulares...... 50% UTM por hora (mínimo 2 horas).
 
 ### II. A otras instituciones y personas naturales o jurídicas diversas:
 
-1. Organizaciones comunitarias inscritas en el
+1. Organizaciones comunitarias inscritas en el registro público municipal de la I. Municipalidad de Villa Alemana sin pago de entrada.... exento.
 
-registro público municipal de la I. Municipalidad
+2. Organizaciones comunitarias inscritas en el registro público municipal de la I. Municipalidad de Villa Alemana con pago de entrada o donaciones 30% recaudación bruta con un valor tope mínimo de 40% UTM por hora (mínimo 2 horas).
 
-de Villa Alemana sin pago de entrada exento.
+3. Organizaciones comunitarias no inscritas en el registro público municipal de la I. Municipalidad de Villa Alemana........ 60 % de una UTM por hora (mínimo 2 horas).
 
-2. Organizaciones comunitarias inscritas en el
+4. Eventos artísticos-culturales, artísticos-deportivos con pago de entradas o donaciones.... 30% recaudación bruta con un valor tope mínimo de 40% UTM por hora (mínimo 2 horas)
 
-registro público municipal de la I. Municipalidad
+5. Eventos artístico-culturales de instituciones con personalidad jurídica cualquiera sin fines de lucro, para fines institucionales sin venta de entradas.... Exento.
 
-de Villa Alemana con pago de entrada o donaciones
+6. Eventos artístico-culturales de instituciones con personalidad jurídica cualquiera sin fines de lucro para fines institucionales con venta de entradas o donaciones.... 30% recaudación bruta con un valor tope mínimo de 40% UTM por hora (mínimo 2 horas).
 
-20% recaudación bruta con un valor tope mínimo de
+7. Eventos artístico-culturales auspiciados o patrocinados por el municipio, sin venta de entradas..... Exento.
 
-30% UTM por hora (mínimo 2 horas)
+8. Eventos artístico-culturales auspiciados o patrocinados por el municipio, con venta de entradas o donaciones..... Exento.
 
-3. Organizaciones comunitarias no inscritas en el
+9.- Otros, previa calificación del Alcalde, sin fines de lucro.... exento.
 
-registro público municipal de la I. Municipalidad
+10. Eventos artístico-culturales, exposiciones y charlas de empresas privadas con fines de lucro, por hora (mínimo 2 horas)... 100% UTM.
 
-de Villa Alemana 50% UTM por hora (mínimo 2 horas)
-
-4. Eventos artístico-culturales, artístico-deportivos
-
-con pago de entradas o donaciones 20% recaudación
-
-bruta con un valor tope mínimo de
-
-30% UTM por hora (mínimo 2 horas).
-
-5. Eventos artístico-culturales de instituciones con
-
-personalidad jurídica cualquiera sin fines de
-
-lucro, para fines institucionales sin venta de
-
-entradas Exento.
-
-6. Eventos artístico-culturales de instituciones con
-
-personalidad jurídica cualquiera sin fines de lucro
-
-para fines institucionales con venta de entradas o
-
-donaciones 20% de recaudación bruta con valor
-
-tope mínimo de 30% UTM por hora (mínimo 2 horas).
-
-7. Eventos artístico-culturales auspiciados o
-
-patrocinados por el municipio, sin venta de
-
-entradas Exento.
-
-8. Eventos artístico-culturales auspiciados o
-
-patrocinados por el municipio, con venta de
-
-entradas o donaciones Exento.
-
-9.- Otros, previa calificación del Alcalde, sin fines
-
-de lucro exento.
-
-10.- Eventos artístico-culturales, exposiciones y
-
-charlas de empresas privadas con fines de lucro,
-
-por hora (mínimo dos horas) 50% UTM
-
-### III. Derechos uso de sala de exposiciones a otras instituciones y personas naturales o jurídicas diversas:
-
-Exposiciones culturales y de información a la comunidad auspiciados o patrocinados por el municipio de cualquier naturaleza sin venta de artículos Exento.
+### III. Eliminado
 
 D) Derechos de uso Polideportivo Nicolás Massú Fried.
 
@@ -1542,83 +830,83 @@ D) Derechos de uso Polideportivo Nicolás Massú Fried.
 
 a) Organizaciones comunitarias regidas por la ley Nº 19.418:
 
-Jornada diurna, lunes a viernes Exento
+Jornada diurna, lunes a viernes..... Exento
 
-Jornada nocturna, lunes a viernes Exento
+Jornada nocturna, lunes a viernes... Exento
 
-Jornada diurna, sábado y domingo Exento
+Jornada diurna, sábado y domingo.... Exento
 
-Jornada nocturna, sábado y domingo Exento
+Jornada nocturna, sábado y domingo... Exento
 
 b) Organizaciones deportivas regidas por la ley Nº 19.712:
 
-Jornada diurna, lunes a viernes Exento
+Jornada diurna, lunes a viernes..... Exento
 
-Jornada nocturna, lunes a viernes Exento
+Jornada nocturna, lunes a viernes... Exento
 
-Jornada diurna, sábado y domingo Exento
+Jornada diurna, sábado y domingo.... Exento
 
-Jornada nocturna, sábado y domingo Exento
+Jornada nocturna, sábado y domingo... Exento
 
 c) Colegios municipalizados:
 
-Jornada diurna, lunes a viernes Exento
+Jornada diurna, lunes a viernes..... Exento
 
-Jornada nocturna, lunes a viernes Exento
+Jornada nocturna, lunes a viernes... Exento
 
-Jornada diurna, sábado y domingo Exento
+Jornada diurna, sábado y domingo.... Exento
 
-Jornada nocturna, sábado y domingo Exento
+Jornada nocturna, sábado y domingo... Exento
 
 d) Colegios particulares subvencionados:
 
-Jornada diurna, lunes a viernes 0.5
+Jornada diurna, lunes a viernes...... 0.5
 
-Jornada nocturna, lunes a viernes 0.8
+Jornada nocturna, lunes a viernes.... 0.8
 
-Jornada diurna, sábado y domingo 0.7
+Jornada diurna, sábado y domingo..... 0.7
 
-Jornada nocturna, sábado y domingo 1.0
+Jornada nocturna, sábado y domingo... 1.0
 
 e) Colegios particulares:
 
-Jornada diurna, lunes a viernes 0.6
+Jornada diurna, lunes a viernes...... 0.6
 
-Jornada nocturna, lunes a viernes 0.9
+Jornada nocturna, lunes a viernes.... 0.9
 
-Jornada diurna, sábado y domingo 0.8
+Jornada diurna, sábado y domingo..... 0.8
 
-Jornada nocturna, sábado y domingo 1.1
+Jornada nocturna, sábado y domingo... 1.1
 
 f) Otras instituciones no regidas por la ley Nº 19.418 o ley Nº 19.712:
 
-Jornada diurna, lunes a viernes 0.5
+Jornada diurna, lunes a viernes.... 0.5
 
-Jornada nocturna, lunes a viernes 1
+Jornada nocturna, lunes a viernes... 1
 
-Jornada diurna, sábado y domingo 1
+Jornada diurna, sábado y domingo.... 1
 
-Jornada nocturna, sábado y domingo 1.5
+Jornada nocturna, sábado y domingo... 1.5
 
 g) Empresas:
 
-Jornada diurna, lunes a viernes 1
+Jornada diurna, lunes a viernes..... 1
 
-Jornada nocturna, lunes a viernes 1.4
+Jornada nocturna, lunes a viernes... 1.4
 
-Jornada diurna, sábado y domingo 1.5
+Jornada diurna, sábado y domingo.... 1.5
 
-Jornada nocturna, sábado y domingo 1.9
+Jornada nocturna, sábado y domingo... 1.9
 
 h) Personas naturales:
 
-Jornada diurna, lunes a viernes 1
+Jornada diurna, lunes a viernes..... 1
 
-Jornada nocturna, lunes a viernes 1.4
+Jornada nocturna, lunes a viernes... 1.4
 
-Jornada diurna, sábado y domingo 1.5
+Jornada diurna, sábado y domingo.... 1.5
 
-Jornada nocturna, sábado y domingo 1.9
+Jornada nocturna, sábado y domingo... 1.9
 
 2. Uso deportivo por partido. Cancha y Camarines. Con venta de entradas. Valor Hora UTM
 
@@ -1626,83 +914,83 @@ Las instituciones públicas y privadas y las personas naturales deberán pagar 1
 
 a) Organizaciones comunitarias regidas por la ley Nº 19.418:
 
-Jornada diurna, lunes a viernes 0.5
+Jornada diurna, lunes a viernes.... 0.5
 
-Jornada nocturna, lunes a viernes 1
+Jornada nocturna, lunes a viernes... 1
 
-Jornada diurna, sábado y domingo 1
+Jornada diurna, sábado y domingo.... 1
 
-Jornada nocturna, sábado y domingo 1.5
+Jornada nocturna, sábado y domingo... 1.5
 
 b) Organizaciones deportivas regidas por la ley Nº 19.712:
 
-Jornada diurna, lunes a viernes 0.5
+Jornada diurna, lunes a viernes..... 0.5
 
-Jornada nocturna, lunes a viernes 1
+Jornada nocturna, lunes a viernes... 1
 
-Jornada diurna, sábado y domingo 1
+Jornada diurna, sábado y domingo.... 1
 
-Jornada nocturna, sábado y domingo 1.5
+Jornada nocturna, sábado y domingo... 1.5
 
 c) Colegios municipalizados:
 
-Jornada diurna, lunes a viernes 0.5
+Jornada diurna, lunes a viernes.... 0.5
 
-Jornada nocturna, lunes a viernes 1
+Jornada nocturna, lunes a viernes... 1
 
-Jornada diurna, sábado y domingo 1
+Jornada diurna, sábado y domingo.... 1
 
-Jornada nocturna, sábado y domingo 1.5
+Jornada nocturna, sábado y domingo... 1.5
 
 d) Colegios particulares subvencionados:
 
-Jornada diurna, lunes a viernes 1
+Jornada diurna, lunes a viernes..... 1
 
-Jornada nocturna, lunes a viernes 3
+Jornada nocturna, lunes a viernes... 3
 
-Jornada diurna, sábado y domingo 5
+Jornada diurna, sábado y domingo.... 5
 
-Jornada nocturna, sábado y domingo 7
+Jornada nocturna, sábado y domingo... 7
 
 e) Colegios particulares:
 
-Jornada diurna, lunes a viernes 3
+Jornada diurna, lunes a viernes...... 3
 
-Jornada nocturna, lunes a viernes 5
+Jornada nocturna, lunes a viernes.... 5
 
-Jornada diurna, sábado y domingo 7
+Jornada diurna, sábado y domingo..... 7
 
-Jornada nocturna, sábado y domingo 9
+Jornada nocturna, sábado y domingo... 9
 
 f) Otras instituciones no regidas por la ley Nº 19.418 o ley Nº 19.712:
 
-Jornada diurna, lunes a viernes 0.5
+Jornada diurna, lunes a viernes..... 0.5
 
-Jornada nocturna, lunes a viernes 1
+Jornada nocturna, lunes a viernes.... 1
 
-Jornada diurna, sábado y domingo 1
+Jornada diurna, sábado y domingo..... 1
 
-Jornada nocturna, sábado y domingo 1.5
+Jornada nocturna, sábado y domingo... 1.5
 
 g) Empresas:
 
-Jornada diurna, lunes a viernes 3
+Jornada diurna, lunes a viernes..... 3
 
-Jornada nocturna, lunes a viernes 5
+Jornada nocturna, lunes a viernes... 5
 
-Jornada diurna, sábado y domingo 7
+Jornada diurna, sábado y domingo.... 7
 
-Jornada nocturna, sábado y domingo 9
+Jornada nocturna, sábado y domingo...9
 
 h) Personas naturales:
 
-Jornada diurna, lunes a viernes 3
+Jornada diurna, lunes a viernes..... 3
 
-Jornada nocturna, lunes a viernes 5
+Jornada nocturna, lunes a viernes... 5
 
-Jornada diurna, sábado y domingo 7
+Jornada diurna, sábado y domingo.... 7
 
-Jornada nocturna, sábado y domingo 9
+Jornada nocturna, sábado y domingo... 9
 
 3. Uso artístico - cultural. Cancha y Camarines. Con venta de entradas. Valor Hora UTM
 
@@ -1710,83 +998,83 @@ Las instituciones públicas y privadas y las personas naturales deberán pagar 1
 
 a) Organizaciones comunitarias regidas por la ley Nº 19.418:
 
-Jornada diurna, lunes a viernes 4
+Jornada diurna, lunes a viernes..... 4
 
-Jornada nocturna, lunes a viernes 8
+Jornada nocturna, lunes a viernes... 8
 
-Jornada diurna, sábado y domingo 6
+Jornada diurna, sábado y domingo.... 6
 
-Jornada nocturna, sábado y domingo 10
+Jornada nocturna, sábado y domingo... 10
 
 b) Organizaciones deportivas regidas por la ley Nº 19.712:
 
-Jornada diurna, lunes a viernes 4
+Jornada diurna, lunes a viernes..... 4
 
-Jornada nocturna, lunes a viernes 8
+Jornada nocturna, lunes a viernes... 8
 
-Jornada diurna, sábado y domingo 6
+Jornada diurna, sábado y domingo.... 6
 
-Jornada nocturna, sábado y domingo 10
+Jornada nocturna, sábado y domingo... 10
 
 c) Colegios municipalizados:
 
-Jornada diurna, lunes a viernes Exento
+Jornada diurna, lunes a viernes...... Exento
 
-Jornada nocturna, lunes a viernes Exento
+Jornada nocturna, lunes a viernes.... Exento
 
-Jornada diurna, sábado y domingo Exento
+Jornada diurna, sábado y domingo..... Exento
 
-Jornada nocturna, sábado y domingo Exento
+Jornada nocturna, sábado y domingo... Exento
 
 d) Colegios particulares subvencionados:
 
-Jornada diurna, lunes a viernes 4
+Jornada diurna, lunes a viernes...... 4
 
-Jornada nocturna, lunes a viernes 8
+Jornada nocturna, lunes a viernes.... 8
 
-Jornada diurna, sábado y domingo 6
+Jornada diurna, sábado y domingo..... 6
 
-Jornada nocturna, sábado y domingo 10
+Jornada nocturna, sábado y domingo... 10
 
 e) Colegios particulares:
 
-Jornada diurna, lunes a viernes 8
+Jornada diurna, lunes a viernes....... 8
 
-Jornada nocturna, lunes a viernes 15
+Jornada nocturna, lunes a viernes..... 15
 
-Jornada diurna, sábado y domingo 30
+Jornada diurna, sábado y domingo...... 30
 
-Jornada nocturna, sábado y domingo 40
+Jornada nocturna, sábado y domingo.... 40
 
 f) Otras instituciones no regidas por la ley Nº 19.418 o ley Nº 19.712:
 
-Jornada diurna, lunes a viernes 4
+Jornada diurna, lunes a viernes...... 4
 
-Jornada nocturna, lunes a viernes 8
+Jornada nocturna, lunes a viernes.... 8
 
-Jornada diurna, sábado y domingo 6
+Jornada diurna, sábado y domingo..... 6
 
-Jornada nocturna, sábado y domingo 10
+Jornada nocturna, sábado y domingo... 10
 
 g) Empresas:
 
-Jornada diurna, lunes a viernes 8
+Jornada diurna, lunes a viernes...... 8
 
-Jornada nocturna, lunes a viernes 15
+Jornada nocturna, lunes a viernes.... 15
 
-Jornada diurna, sábado y domingo 30
+Jornada diurna, sábado y domingo..... 30
 
-Jornada nocturna, sábado y domingo 40
+Jornada nocturna, sábado y domingo... 40
 
 h) Personas naturales:
 
-Jornada diurna, lunes a viernes 8
+Jornada diurna, lunes a viernes...... 8
 
-Jornada nocturna, lunes a viernes 15
+Jornada nocturna, lunes a viernes.... 15
 
-Jornada diurna, sábado y domingo 30
+Jornada diurna, sábado y domingo..... 30
 
-Jornada nocturna, sábado y domingo 40
+Jornada nocturna, sábado y domingo... 40
 
 Las organizaciones comunitarias regidas por la ley Nº 19.418, quedarán exentas del pago de derechos cuando se trate de eventos artístico- culturales de carácter gratuito.
 
@@ -1840,99 +1128,41 @@ Derechos de uso del Centro Cultural Gabriela Mistral:
 
 I. - Derechos de uso del Auditorio a establecimientos educacionales:
 
-1. Colegios municipales de la comuna Exento.
+1. Colegios municipales de la comuna................... Exento.
 
-2. Colegios municipalizados de otras comunas 20% UTM.
+2. Colegios municipales de otras comunas................. 30% UTM por hora (mínimo 2 horas).
 
-Por hora (mínimo 2 horas).
+3. Colegios particulares subvencionados de la comuna.......... 30% UTM por hora (mínimo 2 horas).
 
-3. Colegios particulares subvencionados de la
+4. Colegios particulares subvencionados de otras comunas...... 40% UTM por hora (mínimo 2 horas).
 
-comuna 20% UTM.
+5. Colegios particulares de cualquier comuna.................. 50% de una UTM por hora (mínimo 2 horas).
 
-por hora (mínimo 2 horas).
+6. Jardines infantiles de JUNJI u otras instituciones similares sin fines de lucro....... exento.
 
-4. Colegios particulares subvencionados de otras
-
-comunas 30% UTM.
-
-por hora (mínimo 2 horas).
-
-5. Colegios particulares de cualquier comuna 40% UTM.
-
-por hora (mínimo 2 horas).
-
-6. Jardines infantiles de JUNJI u otras instituciones
-
-similares sin fines de lucro exento.
-
-7. Jardines infantiles particulares 40% UTM por
-
-hora (mínimo 2 horas).
+7. Jardines infantiles particulares........................... 50% de una UTM por hora (mínimo 2 horas).
 
 II.- Derechos de uso del Auditorio a otras instituciones y personas naturales o jurídicas diversas:
 
-1. Organizaciones comunitarias inscritas en el registro
+1. Organizaciones comunitarias inscritas en el registro público municipal de la I. Municipalidad de Villa Alemana sin pago de entrada............. Exento.
 
-público municipal de la I. Municipalidad de Villa
+2. Organizaciones comunitarias inscritas en el registro público municipal de la I. Municipalidad de Villa Alemana con pago de entrada o donaciones 30% recaudación bruta con un valor tope mínimo de 40% de una UTM por hora (mínimo 2 horas).
 
-Alemana sin pago de entrada Exento.
+3. Organizaciones no inscritas en el registro público municipal de la Ilustre Municipalidad de Villa Alemana........ 60% de una UTM por hora (mínimo 2 horas).
 
-2. Organizaciones comunitarias inscritas en el registro
+4. Eventos artísticos-culturales, artísticos-deportivos con pago de entradas o donaciones 30% recaudación bruta con un valor tope mínimo de 40% UTM por hora (mínimo 2 horas)
 
-público municipal de la I. Municipalidad de Villa
+5. Eventos artístico-culturales de instituciones con personalidad jurídica cualquiera sin fines de lucro para fines institucionales con venta de entradas o donaciones...... 30% recaudación bruta con un valor tope mínimo de 40% UTM por hora (mínimo 2 horas)
 
-Alemana con pago de entrada o donaciones 20%
+6. Eventos de empresas privadas con fines de lucro...... 100% UTM (mínimo 2 horas).
 
-recaudación bruta con un valor tope mínimo de 30% UTM
+7. Eventos artístico-culturales auspiciados o patrocinados por el municipio, con venta de entrada o donaciones....... Exento.
 
-por hora (mínimo 2 horas).
-
-3. Organizaciones no inscritas en el registro público
-
-municipal de la I. Municipalidad de Villa Alemana
-
-50% UTM.
-
-por hora (mínimo 2 horas).
-
-4. Eventos artístico-culturales, artístico-deportivos con pago de entrada o donaciones 20% recaudación bruta con un valor
-
-tope mínimo de 30% UTM. por hora (mínimo 2 horas)
-
-5. Eventos artístico-culturales de instituciones con
-
-personalidad jurídica cualquiera sin fines de lucro,
-
-para fines institucionales con venta de entrada o
-
-donaciones 20% de recaudación bruta con un valor tope
-
-mínimo de 30% UTM. por hora (mínimo 2 horas).
-
-6. Eventos de empresas privadas con fines de lucro
-
-40% UTM.
-
-por hora (mínimo 2 horas).
-
-7. Eventos artístico-culturales auspiciados o patrocinados
-
-por el municipio, con venta de entrada o donaciones
-
-Exento.
-
-8. Otros, previa calificación del Alcalde, sin fines de
-
-lucro Exento.
+8. Otros, previa calificación del Alcalde, sin fines de lucro....... Exento.
 
 III.- Derechos uso de sala de exposiciones a otras instituciones y personas naturales o jurídicas diversas:
 
-1. Exposiciones culturales y de información a la comunidad
-
-auspiciados o patrocinados por el municipio de
-
-cualquier naturaleza sin venta de artículos Exento.
+1. Exposiciones culturales y de información a la comunidad auspiciados o patrocinados por el municipio de cualquier naturaleza sin venta de artículos.............. Exento.
 
 #### Artículo 12º
 
