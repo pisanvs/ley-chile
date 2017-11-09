@@ -34,8 +34,6 @@ h) Que, a este respecto, la presente resolución viene en establecer los plazos,
 
 Resuelvo:
 
-> **Nota.** El Artículo primero de la Resolución 12 Exenta, Energía, publicada el 18.01.2018, dispone la prórroga de vigencia de la presente norma a partir del 21 de enero de 2018 y hasta que el Reglamento de la Coordinación y Operación del Sistema Eléctrico Nacional entre en vigencia, en conformidad a lo dispuesto en el artículo vigésimo transitorio de la ley Nº 20.936.
-
 #### Artículo primero
 
 Establécense los siguientes plazos, requisitos y condiciones para la interconexión y modificación relevante de instalaciones eléctricas a que se refiere la Ley General de Servicios Eléctricos.
