@@ -22,6 +22,8 @@ A. Magdalena Sofía Fernández Bolaños, abogada, contrata Grado 7º de la EUS, 
 
 B) MARÍA JESÚS SAN MARTÍN RODRÍGUEZ, abogada, contrata grado 7° de la EUS, de la Subsecretaría de Educación.
 
+C) Carolina Andrea Rojas Caro, abogada, contrata grado 6º de la EUS, de la Subsecretaría de Educación
+
 2. Por razones impostergables de buen servicio se hará efectiva esta subrogación en forma inmediata, sin esperar su total tramitación.
 
 3. Déjase sin efecto la resolución exenta Nº 4.463, de 9 de julio de 2014, del Ministerio de Educación.
