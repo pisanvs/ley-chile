@@ -786,7 +786,7 @@ B. Títulos de crédito de renta fija emitidos por empresas bancarias consistent
 
 1. Letras de crédito cuyo emisor sea una empresa bancaria distinta del garante (LC), de conformidad con el Título XIII de la Ley General de Bancos.
 
-2. "Bonos Hipotecarios" (BH), correspondientes a bonos sin garantía especial emitidos por empresas bancarias, en pesos o en Unidades de Fomento y pagaderos en moneda corriente nacional, a que se refiere el numeral 2 del artículo 69 de la Ley General de Bancos.
+2. "Bonos Hipotecarios" cuyo emisor sea una empresa bancaria distinta del garante (BH), correspondientes a bonos sin garantía especial emitidos por empresas bancarias, en pesos o en Unidades de Fomento y pagaderos en moneda corriente nacional, a que se refiere el numeral 2 del artículo 69 de la Ley General de Bancos.
 
 3. Pagarés o certificados de depósito a plazo fijo emitidos por empresas bancarias, en pesos o en Unidades de Fomento y a la orden de su beneficiario, representativos de títulos de crédito de renta fija, para documentar captaciones de fondos del público a que se refiere el artículo 69 Nº 1 de la Ley General de Bancos (DP), cuyo titular sea la empresa bancaria garante y con exclusión de los DP de propia emisión.".
 
@@ -1070,7 +1070,7 @@ En todo caso, también se considera la posibilidad de aplicación anticipada de 
 
 7. Conforme a lo establecido en Acuerdo N° 2010E-01-161013, reemplazar en la Primera Parte del CNMF lo siguiente:
 
-7.1. Las menciones al cargo "Gerente de División Operaciones Financieras" por "Gerente de División Mercados Financieros".
+7.1. Las menciones al cargo "Gerente de División Operaciones Financieras" por "Gerente de División Mercados Financieros" y las referidas al cargo de "Gerente de Servicios Financieros" por "Gerente de Operaciones y Sistemas de Pagos".
 
 7.2. La denominación del "Departamento de Registro y Control de Operaciones" por "Departamento de Operaciones"; y la del "Departamento de Pagos" por "Departamento de Sistemas de Pagos y Liquidación".
 
