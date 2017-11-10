@@ -68,6 +68,8 @@ ENTIDAD CONSULTORA
 
 Personas naturales o jurídicas, seleccionadas para realizar cada una de las etapas del Nodo, con experiencia y capacidades técnicas suficientes y un giro u objeto idóneo, conforme el objetivo del instrumento y las características específicas de cada etapa del Proyecto.
 
+El proceso de selección y contratación de la Entidad Consultora deberá ser realizado por el AOI una vez aprobado el proyecto por el órgano colegiado competente. para lo cual tendrá un plazo de un mes, prorrogable por dos semanas, plazo que incluye el proceso de selección y la firma del contrato entre el Agente Operador y la Entidad Consultora seleccionada. Incumpliéndose dicho plazo, el proyecto terminará anticipadamente.
+
 BENEFICIARIOS/AS
 
 Los Beneficiarios/as deberán cumplir los siguientes requisitos:
@@ -75,6 +77,8 @@ Los Beneficiarios/as deberán cumplir los siguientes requisitos:
 1.- Ser persona(s) natural(es) o jurídica(s) contribuyentes del impuesto de Primera Categoría de la Ley de Impuesto a la Renta o del Impuesto al Valor Agregado, según la información disponible en el sitio web del Servicio de Impuestos Internos (SII).
 
 2.- Registrar ventas anuales entre 2.400 y 100.000 Unidades de Fomento.
+
+Proyectos con empresas con menores ventas.
 
 En cada Proyecto se podrán incorporar empresas de un menor nivel de ventas al señalado, las que, en conjunto, no deberán exceder el 30% del número total de empresas participantes.
 
@@ -156,31 +160,47 @@ Criterios de Evaluación Ponderación
 
 Aptitud del grupo de empresas:
 
-Se evaluarán las características productivas y de gestión de las 30%
+Se evaluarán las características 30%
 
-empresas, la conformación del grupo en cuanto a su potencial
+productivas y de gestión de las
 
-de trabajo colaborativo en relación a los objetivos del programa.
+empresas, la conformación del
+
+grupo en cuanto a su potencial
+
+de trabajo colaborativo en relación
+
+a los objetivos del programa.
 
 Plan de Actividades:
 
-Se evaluará la congruencia y calidad en la formulación del Plan 30%
+Se evaluará la congruencia y 30%
 
-de Actividades, en relación a los Beneficiarios y al propósito
+calidad en la formulación del
+
+Plan de Actividades, en relación
+
+a los Beneficiarios y al propósito
 
 de la Etapa.
 
 Propuesta económica:
 
-Se evaluará la coherencia entre el presupuesto y el Plan de 15%
+Se evaluará la coherencia entre 15%
+
+el presupuesto y el Plan de
 
 Actividades presentado.
 
 Justificación Estratégica:
 
-Se evaluará la pertinencia del Proyecto respecto de su 25%
+Se evaluará la pertinencia 25%
 
-contribución a los lineamientos estratégicos, según su foco
+del Proyecto respecto de su
+
+contribución a los lineamientos
+
+estratégicos, según su foco
 
 (Sector - Territorio).
 
@@ -190,27 +210,45 @@ Criterios de Evaluación Ponderación
 
 Plan de Actividades:
 
-Se evaluará la coherencia del Plan de Actividades, sus plazos, 35%
+Se evaluará la coherencia 35%
 
-indicadores y resultados esperados, con relación a las brechas
+del Plan de Actividades,
 
-y oportunidades detectadas en el Diagnóstico, su objetivo general
+sus plazos, indicadores y
 
-y objetivos específicos del Proyecto.
+resultados esperados, con
+
+relación a las brechas
+
+y oportunidades detectadas
+
+en el Diagnóstico, su objetivo
+
+generaly objetivos específicos
+
+del Proyecto.
 
 Propuesta económica:
 
-Se evaluará la coherencia entre el Plan de Actividades y el 15%
+Se evaluará la coherencia 15%
 
-presupuesto presentado.
+entre el Plan de Actividades
+
+y el presupuesto presentado.
 
 Resultados esperados:
 
-Se evaluará el impacto potencial del Proyecto, en relación con 30%
+Se evaluará el impacto 30%
 
-las mejoras en productividad y competitividad de las empresas a
+potencial del Proyecto,
 
-través de:
+en relación con las mejoras
+
+en productividad y
+
+competitividad de las
+
+empresas a través de:
 
 . La incorporación de capacidades y conocimientos para
 
@@ -224,9 +262,13 @@ productivas, administrativas y comerciales.
 
 Justificación Estratégica:
 
-Se evaluará la pertinencia del Proyecto respecto de su 20%
+Se evaluará la pertinencia 20%
 
-contribución a los lineamientos estratégicos, según su foco
+del Proyecto respecto de su
+
+contribución a los lineamientos
+
+estratégicos, según su foco
 
 (Sector - Territorio).
 
@@ -234,37 +276,61 @@ Los criterios de evaluación para la renovación de la Etapa de Desarrollo, ser�
 
 Criterios de Evaluación Ponderación
 
-Ejecución técnica y presupuestaria del primer año:
+Ejecución técnica y presupuestaria
 
-Se evaluará los resultados obtenidos, particularmente en el 25%
+del primer año:
 
-cumplimiento de los indicadores, y la oportuna y correcta
+Se evaluará los resultados 25%
 
-inversión de los recursos otorgados para la ejecución del
+obtenidos, particularmente
 
-Proyecto en el período anterior.
+en el cumplimiento de los
+
+indicadores, y la oportuna
+
+y correcta inversión de los
+
+recursos otorgados para la
+
+ejecución del Proyecto en el
+
+período anterior.
 
 Plan de actividades:
 
-Se evaluará la coherencia del Plan de Actividades, sus plazos, 35%
+Se evaluará la coherencia
 
-indicadores y resultados esperados, con relación a las brechas y
+del Plan de Actividades, sus plazos, 35%
 
-oportunidades detectadas en el Diagnóstico, su objetivo general
+indicadores y resultados
+
+esperados, con relación a
+
+las brechas y oportunidades detectadas
+
+en el Diagnóstico, su objetivo general
 
 y objetivos específicos del proyecto.
 
 Propuesta económica:
 
-Se evaluará la coherencia entre el Plan de Actividades y el 15%
+Se evaluará la coherencia 15%
+
+entre el Plan de Actividades y el
 
 presupuesto presentado.
 
 Resultados esperados:
 
-Se evaluará el impacto potencial del Proyecto, en relación con 25%
+Se evaluará el impacto 25%
 
-las mejoras en productividad y competitividad de las empresas a
+potencial del Proyecto,
+
+en relación con
+
+las mejoras en productividad y
+
+competitividad de las empresas a
 
 través de:
 
@@ -280,13 +346,13 @@ productivas.
 
 9.- ASIGNACIÓN Y TRANSFERENCIA DE FONDOS
 
-Aprobación y fecha de inicio de los Proyectos:
+El Comité de Asignación de Fondos - CAF podrá aprobar los proyectos Nodos para la Competitividad de Ejecución Nacional y aquellos Proyectos que quedan comprendidos en la excepción contenida en el párrafo 2° del numeral 4.- Participantes; asignar su financiamiento y/o cofinanciamiento, aprobarlos con condiciones de adjudicación, enviarlos a reformulación o rechazarlos.
 
-El Comité de Asignación de Fondos - CAF, los Comités de Asignación Zonal de Fondos - CAZ o los Consejos Directivos de los Comités de Desarrollo Productivo Regional a los que se les haya entregado la competencia, podrán aprobar los Nodos para la Competitividad de Ejecución Nacional o Regional, según corresponda, y asignar su financiamiento y/o cofinanciamiento, aprobarlos con condiciones de adjudicación, enviarlos a reformulación o rechazarlos.
+El Comité de Asignación Zonal de Fondos - CAZ o los Consejos Directivos de los Comités de Desarrollo Productivo Regional a los que se les haya entregado la competencia, en virtud de lo señalado en el Acuerdo de Consejo de Corfo N° 2.868, de 2015; podrán aprobar los Nodos para la Competitividad de Ejecución Regional y asignar su financiamiento y/o cofinanciamiento, aprobarlos con condiciones de adjudicación, enviarlos a reformulación o rechazarlos.
 
-Se considerará como fecha de inicio aquella de total tramitación de la resolución que dispone la transferencia de fondos al Agente Operador Intermediario.
+Se considerará como fecha de inicio aquella en que se firme el contrato entre el Agente Operador Intermediario, según corresponda, y la Entidad Consultora que llevará a cabo una o ambas etapas.
 
-Para aquellos proyectos que sean administrados directamente, la fecha de inicio será la de total tramitación de la resolución que ejecuta el acuerdo del Comité que aprobó el proyecto y le asignó recursos.
+Para aquellos proyectos que sean administrados directamente, la fecha de inicio será la de total tramitación de la resolución que aprueba el contrato suscrito entre Corfo y la Entidad Consultora.
 
 Anticipos y garantías:
 
