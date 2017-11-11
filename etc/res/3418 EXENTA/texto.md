@@ -486,6 +486,26 @@ fragariae y Ditylenchus
 
 dipsaci.
 
+Los rizomas de Ranunculus
+
+repens proceden de plantas
+
+madres que fueron
+
+inspeccionadas y analizadas
+
+mediante (especificar
+
+técnica de diagnóstico)
+
+en el momento óptimo para
+
+la detección de la plaga,
+
+y encontradas libres de
+
+Xylella fastidiosa.
+
 Scilla spp. La partida se encuentra
 
 libre de Ditylenchus
