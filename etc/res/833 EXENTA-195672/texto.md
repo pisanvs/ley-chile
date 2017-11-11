@@ -120,7 +120,9 @@ Las carnes que provienen de países o zonas reconocidos por Chile como libres de
 
 2.4.2 La carne para exportar a Chile, proviene de canales que han sido sometidas a un proceso de maduración a temperaturas entre 2º C y 7º C, a lo menos por 24 horas previas al desosado y alcanzaron un pH igual o inferior a 5.8 en el músculo longisimus dorsi al concluir el período de maduración. La carne de las canales que no alcancen este pH, no se podrá exportar a Chile.
 
-2.4.3 Después de la maduración, la carne refrigerada será mantenida a temperaturas entre 0° y 4°C, y a temperaturas inferiores a -12°C, las congeladas 2.4.4 Sólo podrá importarse carnes en cortes sin hueso y desprovista de ganglios, y carnes molidas, picadas y hamburguesas.
+2.4.3 Después de la maduración, la carne refrigerada será mantenida a temperaturas entre 0° y 4°C, y a temperaturas inferiores a -12°C, las congeladas
+
+2.4.4 Sólo podrán importarse carnes en cortes sin hueso, carnes molidas, picadas, trimming y hamburguesas, todas desprovistas de ganglios.
 
 2.4.5 Las carnes han permanecido almacenadas en cámaras separadas de otras carnes destinadas a países que tengan exigencias sanitarias inferiores a las de Chile.
 
@@ -176,7 +178,7 @@ Cumple las condiciones del párrafo 2.3
 
 Las carnes congeladas deberán ser mantenidas a temperaturas inferiores a -12ºC
 
-3.4.4 Sólo podrá importarse carnes en cortes sin hueso, excluyéndose carne picada, hamburguesas y carne molida en todas sus formas y despostes.
+3.4.4. Sólo podrán importarse carnes en cortes sin hueso, excluyéndose carne picada, trimming, hamburguesas y carne molida en todas sus formas y despostes.
 
 3.4.5 Las carnes deben estar desprovistas de ganglios y grasa de cobertura, aceptándose un máximo de 3% de grasa visible recortable con una tolerancia de 2%. Sólo en el lomo liso y lomo vetado (músculo longisimus dorsi porción toráxica y lumbar) se aceptará un 5% de grasa visible recortable con una tolerancia de un 3%.
 
