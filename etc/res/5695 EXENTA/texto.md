@@ -84,6 +84,16 @@ sensu stricto, de acuerdo con el resultado
 
 de un análisis oficial de laboratorio.
 
+1.6. El material vegetal procede de plantas madres que
+
+fueron inspeccionadas y analizadas mediante
+
+(especificar técnica de diagnóstico) en el momento
+
+óptimo para la detección de la plaga, y encontradas
+
+libres de Xylella fastidiosa.
+
 2. El material debe haber sido sometido a un tratamiento de desinfectación por inmersión contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, tiempo de exposición y dosis utilizada.
 
 3. Adicionalmente, el material deberá cumplir con los siguientes requisitos sanitarios que serán verificados en la inspección Fitosanitaria en el Puerto de ingreso:
