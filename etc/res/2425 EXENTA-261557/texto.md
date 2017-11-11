@@ -74,6 +74,20 @@ encontradas libres de los nemátodos
 
 Heterodera mediterranea y Xiphinema italiae.
 
+1.6 Las plantas, proceden de un Estado Miembro
+
+(indicar país) que ha llevado a cabo
+
+inspecciones anuales para la detección de
+
+Xylella fastidiosa y se encuentra libre de esta
+
+plaga mediante análisis (especificar método
+
+de diagnóstico) a plantas madres en el momento
+
+óptimo de detección de la plaga
+
 2. El material debe haber sido sometido a un tratamiento de desinfestación por inmersión contra insectos y ácaros, con productos efectivos para estas plagas, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el ingrediente activo del producto, tiempo de exposición y dosis utilizada.
 
 3. Adicionalmente, el material deberá cumplir con los siguientes requisitos fitosanitarios que serán verificados en la inspección en el Punto de Ingreso:
