@@ -28,7 +28,11 @@ Resuelvo:
 
 2. Toda persona que sospeche o compruebe la existencia de Lobesia botrana, deberá dar aviso de inmediato al SAG, en forma verbal o por escrito.
 
-3. Todos los huertos de la especie vid, o de otras especies reglamentadas, ubicados dentro las medidas fitosanitarias antes señaladas, estarán sujetos a las medidads fitosanitarias antes señaladas, específicamente de acuerdo a lo establecido en el Plan Operacional de Trabajo aprobado por el SAG y deberán ser inscritos en la Oficina Sectorial SAG correspondiente, o a través de otro sistema que el Servicio determine, señalando una estimación de su producción por especie, variedad y uso a la que se destinará. Esta información será protegida conforme lo establecido en la normativa vigente.
+3. Los productores afectados deberán presentar al SAG un Plan Operacional de Trabajo (POT), el cual contendrá el programa de control para Lobesia botrana, un catastro de las especies y variedades presentes en el huerto o predio, el destino final de la producción de Vitis vinifera, o de alguna otra especie vegetal sobre la cual se haya establecido una resolución para el control de la plaga, y el manejo de los desechos, cuando corresponda. Este POT deberá ser revisado por esta autoridad para verificar si establece medidas fitosanitarias, plazo y condiciones de cumplimiento que garanticen la contención, erradicación y supresión según corresponda, de la plaga, el cual deberá ser autorizado mediante resolución del Director Regional o Jefe de Oficina correspondiente que esté a cargo del control oficial de Lobesia botrana.
+
+De igual modo, todos aquellos que utilicen frutos, plantas, partes de plantas o cualquier otro artículo reglamentado que sea susceptible de transportar o dispersar la plaga en sus procesos de producción, o comercialización o prestación de servicios, tales como Plantas Frigoríficas o Exportadoras; embaladoras de fruta fresca (packing); elaboradoras de vino; elaboradoras de pisco; elaboradoras de jugo; elaboradoras de fruta en conserva; deshidratadoras; secaderos de frutas; empresas de congelados; comercializadores o intermediarios; centros de acopio; viveros de vides o especies reglamentadas o que comercialicen vides o especies reglamentadas; empresas prestadoras de servicios o arriendo de maquinaria agrícola, que operen al interior de áreas reglamentadas o con plantas o productos regulados por esta resolución u otra generada al amparo de ésta y que sean provenientes de un área reglamentada, deberán presentar un POT para funcionar de un modo que asegure los objetivos del Control Obligatorio de Lobesia botrana.
+
+El Plan Operacional de Trabajo aprobado por el Servicio tendrá carácter obligatorio y será fiscalizado y sancionado por esta autoridad conforme a lo establecido en el DL N° 3.557, sobre Protección Agrícola.
 
 4. En caso de detectarse un brote, fíjase como área reglamentada la zona definida por un radio de 3 km y dentro de ésta un área de control de 500 mts. determinadas ambas desde cada brote de la plaga Lobesia botrana dentro de la cual se ejecutan las labores de control propiamente tal.
 
@@ -92,7 +96,9 @@ n) Entendida la dinámica de la plaga, antecedentes adicionales sobre medidas o 
 
 ñ) Manejo y descarga de la fruta remanente y de los desechos de vides y/o de otras especies reglamentadas, de acuerdo a lo establecido por el SAG.
 
-12. Los productores de las especies afectas al control obligatorio deberán dar aviso al SAG del inicio de sus procesos de cosecha de la fruta con destino mercado interno, de acuerdo a lo establecido en la Estrategia del Programa Nacional de Lobesia botrana vigente.
+12. Todos los huertos de la especie vid, o de otras especies reglamentadas, ubicados dentro del área reglamentada, estarán sujetos a las medidas fitosanitarias antes señaladas, específicamente de acuerdo a lo establecido en el Plan Operacional de Trabajo aprobado por el SAG y deberán ser inscritos en la Oficina Sectorial SAG correspondiente, o a través de otro sistema que el Servicio determine, señalando una estimación de su producción por especie, variedad y uso a la que se destinará. Esta información será protegida conforme lo establecido en la normativa vigente.
+
+Los productores de las especies afectas al control obligatorio deberán dar aviso al SAG del inicio de sus procesos de cosecha de la fruta con destino mercado interno, de acuerdo a lo establecido en la Estrategia del Programa Nacional de Lobesia botrana vigente.
 
 13. Los propietarios, arrendatarios o tenedores de los predios ubicados en el área de control podrán acceder al control de plaga mediante confusores sexuales conforme lo determine el Servicio, lo cual quedará establecido en la Estrategia Programa Nacional de Lobesia botrana que se apruebe anualmente.
 
