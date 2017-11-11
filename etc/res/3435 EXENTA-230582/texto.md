@@ -614,6 +614,26 @@ stricto"
 
 . Longidorus elongatus
 
+. Almendro (Prunus dulcis)
+
+. Cerezo agrio (Prunus cerasus)
+
+. Cerezo dulce (Prunus avium)
+
+. Cerezo mahaleb (Prunus mahaleb)
+
+. Ciruelo myrobalan (Prunus cerasifera)
+
+. Ciruelo europeo (Prunus domestica)
+
+. Ciruelo japonés (Prunus salicina)
+
+. Damasco (Prunus armeniaca)
+
+. Duraznero (Prunus pérsica)
+
+. Nectarino (Prunus persica var. nucipersica).
+
 3. Las plantas, estacas y ramillas deben haber sido sometidas a un tratamiento de desinfestación contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, tipo de aplicación y dosis utilizada.
 
 4. Para la certificación de las declaraciones adicionales de las plagas señaladas a continuación, se requiere utilizar las siguientes técnicas analíticas:

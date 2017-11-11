@@ -436,15 +436,27 @@ virus, indicando la técnica analítica
 
 utilizada en el diagnóstico de la plaga.
 
+. El material vegetal procede de plantas
+
+madres que fueron inspeccionadas y
+
+analizadas mediante (especificar
+
+técnica de diagnóstico) en el momento
+
+óptimo para la detección de la plaga,
+
+y encontradas libres de Xylella
+
+fastidiosa.
+
 * El material procede de plantas madres que
 
 han sido inspeccionadas durante el último
 
 período de crecimiento activo y
 
-encontradas libres de Guignardia bidwellii
-
-yXylella fastidiosa.
+encontradas libres de Guignardia bidwellii.
 
 * El lugar de producción fue oficialmente
 
@@ -502,6 +514,42 @@ Tetranychus turkestani (Ac. Tetranychidae)
 
 Zeuzera pyrina (Lep. Cosiidae)
 
+- Si el material proviene de un lugar de
+
+producción y empaque dentro de un área no
+
+reglamentada por USDA/APHIS, para Lobesia
+
+botrana (Lep: Tortricidae), la declaración
+
+adicional indicará dicha condición,
+
+identificando el nombre del Condado y
+
+Estado de Estados Unidos; o
+
+- Si el material proviene de un lugar de
+
+producción y empaque dentro de un área
+
+reglamentada por USDA/APHIS para Lobesia
+
+botrana (Lep: Tortricidae), la declaración
+
+adicional indicará dicha condición,
+
+identificando el nombre del Condado y
+
+Estado de Estados Unidos y además indicará
+
+que el envío se encuentra libre de Lobesia
+
+botrana (Lep: Tortricidae).
+
+. Arándano (Vaccinium corymbosum)
+
+. Palto (Persea americana).
+
 2. El material debe haber sido sometido a un tratamiento de desinfestación por inmersión contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, tipo de aplicación y dosis utilizadas.
 
 3. Adicionalmente, el material deberá cumplir con los siguientes requisitos sanitarios que se verificarán en la inspección fitosanitaria en el Puerto de ingreso:
@@ -516,6 +564,8 @@ Zeuzera pyrina (Lep. Cosiidae)
 
 * El material de acomodación, no deberá incluir material vegetal capaz de transportar plagas, tales como pajas de gramínea, viruta o aserrín de madera, entre otras.
 
+- Si el material de Vitis vinifera proviene de un lugar de producción dentro de un área reglamentada por USDA/APHIS, para Lobesia botrana ((Lep: Tortricidae), debe venir sin desprendimiento de ritidoma.
+
 4. La totalidad del material deberá cumplir con régimen de Cuarentena de Post-Entrada, instancia en que se realizarán los controles oficiales tendientes a la verificación de ausencia de Plagas Reglamentadas. Para tal efecto el importador deberá contar con la autorización del lugar de Cuarentena, ya sea Predial o Absoluta, previo del arribo de la mercadería al país, de acuerdo a lo establecido en las resoluciones Nºs. 3.280 de 1999 y 2.863 de 2001.
 
 5. Si el material proviene de Centros Reconocidos Oficialmente por el Servicio Agrícola y Ganadero, conforme a lo establecido en la resolución Nº 2.863 de 2001 y Nº 2.878 de 2004, deberá indicarse además, en la sección correspondiente del Certificado Fitosanitario la siguiente declaración adicional:
@@ -527,5 +577,7 @@ Zeuzera pyrina (Lep. Cosiidae)
 7. Cada partida será inspeccionada por el Servicio en el puerto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos. Si durante la inspección se detectan plagas distintas a las mencionadas en esta resolución, se evaluará mediante un Análisis de Riesgo de Plagas, si las mismas cumplen con el criterio de Plaga Reglamentada, aplicándose las medidas fitosanitarias de manejo de riesgo, acordes con el riesgo involucrado.
 
 > **Nota.** El Nº 1 de la Resolución 1423 Exenta, Agricultura, publicada el 17.03.2010, complementa la presente norma con relación a los requisitos fitosanitarios de importación, para las plantas y/o partes de plantas (frutos, estacas, ramillas, púas y esquejes), de las especies hospederas de Epiphyas postvittana (Lep.:Tortricidae), procedentes de los Estados de California y Hawaii de los Estados Unidos de Norteamérica, que en dicha norma se individualizan.
+
+> **Nota.** NOTA 1 El N° 1 de la Resolución 1512 Exenta, Agricultura, publicada el 26.03.2014, modifica la presente norma, en el sentido de eliminar en su numeral 1.2, especie Punica granatum (granado) la declaración adicional a certificar correspondiente al hongo Coniella granati, quedando como la citada resolución indica.
 
 Comuníquese, anótese y publíquese.- Francisco Bahamonde Medina, Director Nacional.
