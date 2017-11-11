@@ -34,7 +34,15 @@ pentagona y Parlatoria oleae (Hem.
 
 Diaspididae).
 
-1.3 ELIMINADO.
+1.3 El material vegetal procede de plantas madres que
+
+fueron inspeccionadas y analizadas (especificar
+
+técnica de diagnóstico) en el momento óptimo para
+
+la detección de la plaga y encontrado libre de
+
+Xylella fastidiosa.
 
 2. Además, el material deberá venir libre de suelo y haber sido sometido a un tratamiento de desinfectación contra insectos y ácaros, con productos efectivos para estas plagas, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, tipo de aplicación y dosis utilizada.
 
