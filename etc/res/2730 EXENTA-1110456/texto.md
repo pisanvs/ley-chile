@@ -1,0 +1,5 @@
+OTORGA EXCEPCIÓN DE CAMBIO DE SUJETO DEL IVA EN LA VENTA DE BERRIES Y OTORGA LA CALIDAD DE RETENEDOR DEL IVA RESPECTO DE LAS COMPRAS DE BERRIES QUE A SU VEZ EFECTÚE A TERCEROS VENDEDORES
+
+La XV Dirección Regional Metropolitana Santiago Oriente del SII por resolución ex. N° 2.730, de fecha 03/11/2017, concede, al contribuyente Agrícola e Inversiones Alto Los Olmos Limitada, RUT Nº 76.636.190-0, a contar del día primero del mes siguiente, de la fecha de esta publicación, la Excepción del régimen de cambio de sujeto de derecho del Impuesto al Valor Agregado en la Venta de Berries y además se otorga la calidad de Agente Retenedor del Impuesto al Valor Agregado, respecto de las compras de berries que, a su vez, efectúe a terceros vendedores, de acuerdo a la facultad establecida en el dispositivo Nº 12 de la resolución exenta Nº 55, del 02/06/2005, modificada por la resolución exenta N° 58, del 19/05/2006, de la Dirección Nacional.-
+
+Zoila Orellana González, Directora Regional (S), resolución SII Pers. Ex. Nº 971, de 16.01.2017.
