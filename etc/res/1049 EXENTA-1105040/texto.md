@@ -30,7 +30,7 @@ a. Promover la creación de marcos y la debida coordinación intersectorial para
 
 b. Identificar, comunicar y difundir las actividades que cada una de las instituciones integrantes desarrolla en los territorios a fin de favorecer espacios de acción común, conjunto y estratégicamente alineados.
 
-c. Trabajar en la elaboración de estándares comunes de acción en el reconocimiento de los derechos y deberes de los distintos actores en torno a las actividades económicas, respecto a la participación, aportes al desarrollo local y respeto de los derechos de las comunidades y los pueblos indígenas.
+c. Trabajar en el estudio de estándares comunes de acción en el reconocimiento de los derechos y deberes de los distintos actores en torno a las actividades económicas, respecto a la participación, aportes al desarrollo local y respeto de los derechos de las comunidades y los pueblos indígenas.
 
 d. Generar convenios de colaboración, herramientas tecnológicas y otros instrumentos que permitan mejorar la coordinación intersectorial y compartir información institucional atingente al cumplimiento de estos objetivos.
 
@@ -75,6 +75,8 @@ p. Sin perjuicio de lo anterior, la comisión podrá invitar a participar de sus
 6.- La mesa de trabajo fijará las normas que regulen su funcionamiento a través de un reglamento interno.
 
 7.- La actividad de la mesa de trabajo no implicará gasto extraordinario alguno y los integrantes desempeñarán sus labores ad honorem. Sin perjuicio de lo anterior, si se requiriese la ejecución de actividades que importen gasto, se procederá conforme a las reglas generales.
+
+> **Nota.** La letra a) del numeral 1° de la Resolución 1920 Exenta, Secretaria General de Gobierno, publicada el 13.11.2017, modifica la presente norma en el sentido de agregar un o una representante del Ministerio de Agricultura, un o una representante del Ministerio de Vivienda, Urbanismo y Reconstrucción, un o una representante del Ministerio de Obras Públicas y un o una representante de la Unidad de Participación Ciudadana del Ministerio Secretaría General de Gobierno.
 
 Anótese, regístrese, comuníquese y publíquese - Omar Jara Aravena, Subsecretario General de Gobierno.
 
