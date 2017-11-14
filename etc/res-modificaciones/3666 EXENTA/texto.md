@@ -36,7 +36,9 @@ Resolución:
 
 1.1 Reemplácese la tabla del punto resolutivo 2. por la siguiente
 
-.
+REGIÓN SUBSIDIOS TÍTULO II $
+
+Coquimbo 27.500.000
 
 1.2 Reemplácese, en el punto resolutivo 4, la locución "10 de octubre de 2015 ($25.404,7)" por "30 de enero de 2016 ($25.629,09)".
 
@@ -44,19 +46,25 @@ Resolución:
 
 3.- Apruébese la nómina de postulantes seleccionados con un subsidio habitacional, correspondientes a 15 de abril de 2016, de acuerdo a lo dispuesto por la resolución citada en el visto g), nómina que se adjunta y se entenderá forma parte integrante de esta resolución, correspondiente a la Región de Coquimbo, de acuerdo a lo señalado en la siguiente tabla:
 
-.
+REGIÓN INDIVIDUAL
+
+Coquimbo 256
 
 4.- Fíjese el monto de recursos comprometidos para el financiamiento de subsidios de reparación del Programa de Protección al Patrimonio Familiar, Título II, para la atención de los postulantes seleccionados a que se refiere el resuelvo 3, según la siguiente tabla:
 
-.
+REGIÓN SUBSIDIOS TÍTULO II $
+
+Coquimbo 320.000.000
 
 5.- Comprométanse los recursos disponibles en la región, para la selección correspondiente al 15 de abril de 2016, del llamado extraordinario para damnificados ya citado, de conformidad a los montos asignados y los saldos disponibles, según la distribución señalada en el siguiente cuadro:
 
 .
 
-6.- Para los efectos de rebajar los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la UF correspondiente al 30 de enero de 2016 ($25.629,09), según lo establecido en el resolutivo 15 de la resolución citada en el visto g). En consecuencia, se debe imputar a la resolución exenta Nº 333 (V. y U.), de 2016, un total de 12.534,5 UF, los que corresponden al subsidio directo.
+6.- Para los efectos de rebajar los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la UF correspondiente al 30 de enero de 2016 ($25.629,09), según lo establecido en el resolutivo 15 de la resolución citada en el visto g). En consecuencia, se debe imputar a la resolución exenta Nº 333 (V. y U.), de 2016, un total de 12.485,5 UF, los que corresponden al subsidio directo.
 
 7.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados, conforme al número 3 de esta resolución, la que deberá contener a lo menos, la comuna y el nombre de cada postulante con su respectiva Cédula Nacional de Identidad.
+
+> **Nota.** El 4.4 del numeral 4° de la Resolución 13044 Exenta, Vivienda, publicada el 14.11.2017, modifica la presente norma en el sentido de reemplazar la columna "U.F. Selección al 15 de abril", el guarismo "12.534,5" por "12.485,5" y en la columna "U.F Saldo", el guarismo "22.393,22" por "22.442,22".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
