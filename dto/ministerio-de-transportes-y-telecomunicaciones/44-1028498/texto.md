@@ -94,7 +94,7 @@ b. Contar con inscripción vigente del vehículo, propiedad del postulante, en e
 
 c. Tener una capacidad en número de pasajeros, igual o superior al 50% respecto del vehículo saliente, de acuerdo a la fórmula que el Ministerio establezca por resolución para tal efecto.
 
-d. Tener una antigüedad inferior a la del vehículo saliente no menor a sesenta meses.
+d. Tener una antigüedad inferior a la del vehículo saliente no menor a ochenta y cuatro meses.
 
 e. Si el vehículo saliente es un bus, trolebús o taxibús, el vehículo entrante no podrá ser un minibús.
 
@@ -108,47 +108,23 @@ El Ministerio pondrá a disposición de los gobiernos regionales el listado de l
 
 La fórmula de cálculo del valor de compra a que se refiere la letra j) del artículo 3 del presente reglamento será la siguiente:
 
-VC = [(Máximo (DE*PP; MM) + IVN) * (1 + IA) ] + ICT
+VC= [(Máximo (DE*PP; MM) + IVN) * (1 + IA)] + b*VRB + IAU
 
 Donde:
 
 VC = Valor de Compra
 
-DE = Diferencia de las
+DE = Diferencia de las Externalidades negativas. Esta
 
-Externalidades
+se obtiene de la resta entre las externalidades
 
-negativas. Esta
+que generaría el vehículo saliente y las que
 
-se obtiene de la
+generará el vehículo entrante, durante el período
 
-resta entre las
+que reste al vehículo saliente para operar en
 
-externalidades
-
-que generaría el
-
-vehículo saliente
-
-y las que generará
-
-el vehículo
-
-entrante, durante
-
-el período
-
-que reste al
-
-vehículo saliente
-
-para operar en
-
-servicios de
-
-transporte público
-
-remunerado de
+servicios de transporte público remunerado de
 
 pasajeros.
 
@@ -166,123 +142,49 @@ En donde:
 
 Esta serie puede representarse de la siguiente forma reducida, para periodos anuales:
 
-PP = Ponderador de Plazas. Este
+PP = Ponderador de Plazas. Este ponderador se utiliza
 
-ponderador se utiliza
+para ajustar el cálculo de diferencial de
 
-para ajustar el cálculo
+externalidades, de acuerdo a los siguientes
 
-de diferencial de
+valores, según la capacidad del vehículo saliente:
 
-externalidades, de
+MM = Monto Mínimo. Corresponde al valor de compra
 
-acuerdo a los siguientes
+mínimo que se otorga por la renovación de un
 
-valores, según la
+vehículo, de acuerdo a los siguientes valores,
 
-capacidad del
+según la capacidad del vehículo saliente:
 
-vehículo saliente:
+IVN = Incentivo Vehículo Entrante Nuevo. Corresponde al
 
-MM = Monto Mínimo.
+incentivo adicional si el vehículo es nuevo, de
 
-Corresponde al
+acuerdo a los siguientes valores, según la
 
-valor de compra
+capacidad del vehículo entrante:
 
-mínimo que se
+IA = Incentivo Adicional por Antigüedad. Corresponde al
 
-otorga por la
+incentivo adicional, de acuerdo a los siguientes
 
-renovación de un
-
-vehículo, de
-
-acuerdo a los
-
-siguientes valores,
-
-según la capacidad
-
-del vehículo saliente:
-
-IVN = Incentivo Vehículo
-
-Entrante Nuevo.
-
-Corresponde al
-
-incentivo adicional
-
-si el vehículo es
-
-nuevo, de acuerdo
-
-a los siguientes
-
-valores, según la
-
-capacidad del
-
-vehículo entrante:
-
-IA = Incentivo Adicional
-
-por Antigüedad.
-
-Corresponde al
-
-incentivo adicional,
-
-de acuerdo a los
-
-siguientes valores,
-
-según el tipo y
-
-antigüedad del
-
-vehículo
+valores, según el tipo y antigüedad del vehículo
 
 saliente:
 
-ICT = Incentivo Cambio
+VRB = Valor de Reposición del Bus, corresponde al incentivo adicional que tiene por finalidad ajustar la brecha entre el Valor de Compra y el precio de mercado promedio del bus.
 
-Tecnología. Corresponde
+.
 
-al incentivo adicional
+b = Corresponde al factor de aplicación del Valor de Reposición del Bus (VRB), el que varía de acuerdo a la antigüedad del vehículo saliente y del vehículo entrante, de la siguiente forma:
 
-si el vehículo entrante
+.
 
-funciona con tecnologías
+IAU = Incentivo de Acceso Universal, corresponde al incentivo adicional que se otorga si el vehículo entrante tiene las características que lo hagan utilizable por todas las personas en condiciones de seguridad y comodidad, de la forma más autónoma y natural posible, según lo establezca mediante resolución el Ministerio de Transportes y Telecomunicaciones, el cual corresponderá a un monto único de $10.000.000.
 
-más eficientes y menos
-
-contaminantes, tales
-
-como vehículos con
-
-propulsión a gas,
-
-electricidad, híbrida,
-
-o diesel de estándar
-
-Euro IV o superior,
-
-entre otras, de
-
-acuerdo a los
-
-siguientes valores,
-
-según la capacidad
-
-del vehículo
-
-saliente:
-
-El Ministerio de Transportes y Telecomunicaciones, en conformidad a lo previsto en el artículo 2 del presente Reglamento, asesorará a los gobiernos regionales para efectos de la determinación de los montos anuales del valor de compra por parte de éstos, para cada una de las combinaciones de antigüedad de vehículo saliente y entrante, obtenidos a partir de la fórmula antes señalada, los que serán publicados en el Diario Oficial previo a la convocatoria a que se refiere el mismo artículo, y se reajustarán anualmente dentro de los primeros cinco días de cada año, según la variación que en el período anterior haya experimentado el Índice de Precios al Consumidor, publicado por el Instituto Nacional de Estadísticas. Dichos montos serán aproximados al entero de diez mil más cercano.
+El Ministerio de Transportes y Telecomunicaciones, en conformidad a lo previsto en el artículo 2 del presente Reglamento, asesorará a los gobiernos regionales para efectos de la determinación de los montos anuales del valor de compra por parte de éstos, para cada una de las combinaciones de antigüedad de vehículo saliente y entrante, obtenidos a partir de la fórmula antes señalada, los que serán publicados en el Diario Oficial previo a la convocatoria a que se refiere el mismo artículo, y se reajustarán anualmente dentro de los primeros cinco días de cada año, según la variación que en el periodo anterior haya experimentado el Índice de Inversión Adicional Regional (INVA Regional), reportado por el Instituto Nacional de Estadísticas o el organismo que lo reemplace. Dichos montos serán aproximados al entero de diez mil más cercano.
 
 ## Título Tercero
 
@@ -386,7 +288,7 @@ Podrán ingresar al presente Programa de Modernización, como vehículos salient
 
 a. Contar o haber contado con inscripción vigente a nombre del postulante en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, al momento de la postulación o al momento de la cancelación en el Registro, si el remplazo en este último se hubiese efectuado con anterioridad a la fecha de postulación. En todo caso, si se postulare al Bono de Incentivo a la Chatarrización, la referida inscripción en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación deberá estar vigente a nombre del postulante al momento de la postulación.
 
-b. Tener una antig&uuml;edad mínima de 4 años al momento de la postulación o de la cancelación en el Registro, si el reemplazo se hubiese efectuado con anterioridad a la fecha de postulación. Excepcionalmente podrán participar del presente programa, vehículos con una antig&uuml;edad menor a 4 años que estén imposibilitados de prestar servicios de transporte público, por pérdida total, ya sea como consecuencia de un siniestro, robo o hurto, lo que se acreditará de acuerdo a lo dispuesto en el artículo 73 bis del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones.
+b. Tener una antigüedad mínima de 4 años al momento de la postulación o de la cancelación en el Registro, si el reemplazo se hubiese efectuado con anterioridad a la fecha de postulación. Excepcionalmente podrán participar del presente programa, vehículos con una antigüedad menor a 4 años que estén imposibilitados de prestar servicios de transporte público, por pérdida total, ya sea como consecuencia de un siniestro, robo o hurto, lo que se acreditará de acuerdo a lo dispuesto en el artículo 73 bis del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones. Tratándose de taxis colectivos que presten servicios en la Región de Arica y Parinacota, en la Región de Tarapacá, en la Región de Aysén del General Carlos Ibáñez del Campo y en la Región de Magallanes y de la Antártica Chilena y cuyos propietarios, en conformidad con el artículo 18 bis del Reglamento, sólo opten por el bono de incentivo a la chatarrización establecido en el artículo 20 del presente reglamento, la antigüedad mínima para participar del presente Programa de Modernización será de 8 años al momento de la postulación o de la cancelación en el Registro, si el reemplazo se hubiese efectuado con anterioridad a la fecha de postulación.
 
 c. Contar o haber contado con inscripción vigente el vehículo, propiedad del postulante, en el Registro, en una oportunidad al menos, dentro de los últimos 18 meses contados desde la fecha de postulación. Lo anterior es sin perjuicio del cumplimiento de los plazos y requisitos que en materia de reemplazo contempla el decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones.
 
@@ -402,9 +304,15 @@ a. Contar con inscripción vigente, a nombre del postulante, en el Registro de V
 
 b. Contar con inscripción vigente del vehículo, propiedad del postulante, en el Registro, salvo que se trate de un arrendatario con opción de compra, en cuyo caso para la inscripción del vehículo deberá presentar un mandato, de conformidad a lo establecido en el literal precedente. Dicha inscripción deberá practicarse en un servicio de transporte público de pasajeros de la misma región y modalidad al que pertenecía el vehículo saliente.
 
-c. Tratarse de vehículos nuevos, esto es, tener un año de fabricación o modelo del vehículo anotado en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, correspondiente al año de postulación o siguiente, y cuya inscripción corresponda al primer propietario.
+c. Tratarse de vehículos nuevos, esto es, tener un año de fabricación o modelo del vehículo anotado en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, correspondiente al año de postulación o siguiente, y cuya inscripción corresponda al primer propietario. Tratándose de vehículos adquiridos en la Región de Aysén del General Carlos Ibáñez del Campo, la inscripción podrá, excepcionalmente, corresponder al segundo propietario, siempre que el primer propietario corresponda a una persona jurídica cuyo giro de actividad económica comprenda la venta de vehículos automotores.
 
 d. Incorporar tecnologías menos contaminantes y mejoras en aspectos de seguridad o calidad y eficiencia en beneficio de los usuarios, de acuerdo con lo establecido en el presente reglamento.
+
+#### Artículo 18 bis
+
+Alternativamente, los propietarios de los vehículos entrantes que se destinen a prestar servicios en la Región de Arica y Parinacota, en la Región de Tarapacá, en la Región de Aysén del General Carlos Ibáñez del Campo y en la Región de Magallanes y de la Antártica Chilena, podrán optar sólo por el bono de incentivo a la chatarrización establecido en el artículo 20 del presente reglamento, excluido el beneficio por renovación. Para ello, junto con el cumplimiento de los requisitos establecidos en las letras a. y b. del artículo precedente, en la oportunidad señalada en el artículo 22 de este Reglamento, deberán cumplir con el siguiente requisito:
+
+- Incorporar mejoras en aspectos de calidad y eficiencia de acuerdo a lo establecido en el presente reglamento.
 
 #### Artículo 19
 
@@ -418,7 +326,9 @@ Asimismo, se entenderá que un vehículo destinado a prestar servicios de taxi c
 
 Adicionalmente, se entenderá que un vehículo destinado a prestar servicios de taxi colectivo incorpora mejoras en eficiencia, cuando su rendimiento urbano sea igual o superior a 10,5 o 13 kilómetros por litro, conforme a la información obtenida en el proceso de homologación efectuado de acuerdo a lo dispuesto en el decreto supremo Nº 54, de 1997, del Ministerio de Transportes y Telecomunicaciones, dependiendo del tipo de combustible utilizado. En caso que dicha información no sea incluida en el proceso de homologación, se considerará la información entregada por el fabricante.
 
-Finalmente, se entenderá que un vehículo destinado a prestar servicio de taxi colectivo incorpora mejoras en calidad, cuando su área entre ejes y trocha sea igual o superior a 4 m2, conforme a la información obtenida en el proceso de homologación efectuado de acuerdo a lo dispuesto en el decreto supremo Nº 54, de 1997, del Ministerio de Transportes y Telecomunicaciones.
+En el caso de vehículos entrantes que se destinen a prestar servicios en la Región de Arica y Parinacota, en la Región de Tarapacá, en la Región de Aysén del General Carlos Ibáñez del Campo y en la Región de Magallanes y de la Antártica Chilena, y cuyos propietarios sólo opten por el bono de incentivo a la chatarrización establecido en el artículo 20 del presente reglamento, se entenderá que incorporan mejoras en eficiencia cuando se trate de vehículos cuyo año de fabricación o modelo del vehículo anotado en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, no exceda de 2 años contados desde la oportunidad señalada en el artículo 22 de este Reglamento.
+
+Finalmente, se entenderá que un vehículo destinado a prestar servicio de taxi colectivo incorpora mejoras en calidad, cuando su área entre ejes y trocha sea igual o superior a 4 m2, conforme a la información obtenida en el proceso de homologación efectuado de acuerdo a lo dispuesto en el decreto supremo Nº 54, de 1997, del Ministerio de Transportes y Telecomunicaciones. En el caso de vehículos entrantes que se destinen a prestar servicios en la Región de Arica y Parinacota, en la Región de Tarapacá, en la Región de Aysén del General Carlos Ibáñez del Campo y en la Región de Magallanes y de la Antártica Chilena, y cuyos propietarios sólo opten por el bono de incentivo a la chatarrización establecido en el artículo 20 del presente reglamento, la referida área entre eje y trocha, igual o superior a 4m2, deberá ser obtenida en una Planta de Revisión Técnica.
 
 #### Artículo 20
 
@@ -452,7 +362,7 @@ Transcurrido el plazo señalado en el inciso precedente, sin que el postulante h
 
 #### Artículo 22
 
-En la segunda etapa el postulante deberá presentar al Gobierno Regional correspondiente, el certificado a que se refiere el artículo anterior, los antecedentes que acrediten el cumplimiento de los requisitos establecidos en el artículo 18 del presente Reglamento y un certificado de cancelación del vehículo saliente de la inscripción en el Registro. Asimismo, deberá presentar el documento emitido por el chatarrizador a que se refiere el inciso segundo del artículo 8, en caso que se acceda al bono de incentivo a la Chatarrización, señalado en el artículo 20, ambos del presente Reglamento.
+En la segunda etapa el postulante deberá presentar al Gobierno Regional correspondiente, el certificado a que se refiere el artículo anterior, los antecedentes que acrediten el cumplimiento de los requisitos establecidos en el artículo 18 y en el artículo 18 bis, en este último caso cuando se postule solo al bono de incentivo a la chatarrización, del presente Reglamento y un certificado de cancelación del vehículo saliente de la inscripción en el Registro. Asimismo, deberá presentar el documento emitido por el chatarrizador a que se refiere el inciso segundo del artículo 8, en caso que se acceda al bono de incentivo a la Chatarrización, señalado en el artículo 20, ambos del presente Reglamento.
 
 #### Artículo 23
 
@@ -470,13 +380,19 @@ c) No podrá cambiar de modalidad ni de región dentro del período indicado en 
 
 Disposiciones Transitorias
 
-#### Artículo Primero
+#### Artículo primero
 
-Transitorio: Los postulantes cuyos vehículos salientes han debido ser retirados de circulación por antigüedad de acuerdo a la normativa vigente, en el año 2010 o durante el año 2011, y que satisfagan a la fecha de cancelación de la inscripción en el Registro los requisitos establecidos en el artículo 4 del presente Reglamento, en lo que corresponda, con excepción del indicado en su letra c), sólo podrán postular al Programa Especial durante los 24 meses siguientes, contados desde la fecha en que el respectivo Gobierno Regional haya realizado la primera convocatoria al Programa, en conformidad a lo indicado en el artículo 2 de este Reglamento.
+transitorio: Excepcionalmente, durante las convocatorias al Programa Especial de Renovación de Buses, Minibuses, Trolebuses y Taxibuses, que se realicen durante los años 2017 y 2018, en conformidad a lo indicado en el artículo 2.- de este Reglamento, podrán postular vehículos entrantes que tengan una antigüedad inferior a la del vehículo saliente no menor a sesenta meses y que hayan sido adquiridos por el postulante durante los últimos veinticuatro meses contados desde la fecha de inicio de la segunda etapa de postulación, conforme lo establezcan los respectivos Gobiernos Regionales al inicio de la convocatoria.
 
-#### Artículo Segundo
+Tratándose de convocatorias al Programa Especial que se encuentren en ejecución a la fecha de publicación del decreto supremo N° 142, de 2016, del Ministerio de Transportes y Telecomunicaciones y respecto de las cuales no se haya emitido el certificado a que se refiere el inciso cuarto del artículo 11 del decreto supremo N° 44, de 2011, del Ministerio de Transportes y Telecomunicaciones, los Gobiernos Regionales podrán, a su elección, aplicar en ellas los montos a que se refiere su artículo 7°, modificado por los números 2 y 3 del citado decreto supremo N° 142, de 2016, o bien los montos vigentes al momento de la respectiva convocatoria.
 
-Transitorio: Excepcionalmente, durante las convocatorias al Programa de Modernización para la Renovación de Taxis Colectivos que se realicen durante el año 2016, en conformidad a lo indicado en el artículo 2.- de este Reglamento, podrán postular como vehículos entrantes aquéllos inscritos en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, hasta 24 meses anteriores al 1 de enero de 2016, siempre que dicha inscripción corresponda al primer propietario y en la medida que cumplan con todos los demás requisitos establecidos en el artículo 18 del mismo a la fecha de inscripción del vehículo entrante en el Registro. De la misma forma, el plazo establecido en los literales c., d., y e., del artículo 17, para el vehículo saliente, se contará desde la señalada inscripción.
+#### Artículo segundo
+
+transitorio: Excepcionalmente, durante las convocatorias al Programa de Modernización para la Renovación de Taxis colectivos que se realicen durante el año 2017 y 2018, en conformidad a lo indicado en el artículo 2.- de este Reglamento, podrán postular como vehículos entrantes aquellos inscritos en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, hasta 24 meses anteriores al 1 de septiembre de 2017. En la Región de Aysén del General Carlos Ibáñez del Campo podrán postular como vehículos entrantes, además, aquellos inscritos en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación, hasta 24 meses anteriores al 1 de enero de 2016. Las referidas postulaciones serán admisibles en la medida que las inscripciones correspondan al primer propietario, o, en la indicada Región de Aysén, al primer o segundo propietario, y siempre que cumplan con todos los demás requisitos establecidos en el artículo 18 o artículo 18 bis a la fecha de inscripción del vehículo entrante en el Registro. De la misma forma, el plazo establecido en los literales c., d. y e., del artículo 17, para el vehículo saliente, se contará desde la señalada inscripción.
+
+#### Artículo tercero
+
+transitorio: Excepcionalmente, durante las convocatorias al Programa de Modernización para la Renovación de Taxis Colectivos que se realicen durante los primeros 6 meses contados desde la publicación del decreto que incorpora el presente artículo transitorio, en conformidad a lo indicado en el artículo 2.- de este Reglamento, los vehículos entrantes que se destinen a prestar servicios en la Región de Magallanes y de la Antártica Chilena o en la Región de Arica y Parinacota, y cuyos propietarios sólo opten por el bono de incentivo a la chatarrización establecido en el artículo 20, no podrán exceder de 4 años de antigüedad, contados desde la oportunidad señalada en el artículo 22, ambos de este Reglamento. Por su parte, en las convocatorias que se realicen durante los 12 meses contados desde que finalice el período de 6 meses antes referido, los vehículos entrantes no podrán exceder de 3 años de antigüedad, contados desde la oportunidad señalada en el artículo 22 de este Reglamento. La antigüedad de los vehículos se contará desde el año de fabricación o modelo del vehículo anotado en el Registro de Vehículos Motorizados que lleva el Servicio de Registro Civil e Identificación. Lo anterior será aplicable también a los vehículos entrantes que se destinen a prestar servicios en la Región de Tarapacá y en la Región de Aysén del General Carlos Ibáñez del Campo.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.- Rodrigo Hinzpeter Kirberg, Ministro del Interior.- Rodrigo Álvarez Zenteno, Ministro de Hacienda (S).
 
