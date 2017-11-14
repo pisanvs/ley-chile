@@ -34,19 +34,27 @@ Resolución:
 
 2.- Apruébase la nómina de postulantes seleccionados con un subsidio habitacional, correspondientes a la segunda quincena del mes de noviembre de 2015, de acuerdo a lo dispuesto por la resolución citada en el Visto g) de la presente resolución, nómina que se adjunta y se entenderá forma parte integrante de esta resolución, correspondiente a la Región de Coquimbo, de acuerdo a lo señalado en la siguiente tabla:
 
-.
+REGION INDIVIDUAL
+
+Coquimbo 265
 
 3.- Fíjase el monto de recursos comprometidos para el financiamiento de subsidios de reparación del Programa de Protección al Patrimonio Familiar, Título II, para la atención de los postulantes seleccionados a que se refiere el Resuelvo 2, según la siguiente tabla:
 
-.
+REGION SUBSIDIOS
+
+## Título II — $
+
+Coquimbo 331.250.000
 
 4.- Comprométanse los recursos disponibles por región, para la selección correspondiente al 30 de octubre de 2015, del llamado extraordinario para damnificados ya citado, de conformidad a los montos asignados y los saldos disponibles, según la distribución señalada en el siguiente cuadro:
 
 .
 
-5.- Para los efectos de rebajar los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la UF correspondiente al 10 de octubre de 2015 ($25.404,7), según lo establecido en el Resolutivo 14 de la resolución citada en el Visto g). En consecuencia, se debe imputar a la resolución exenta Nº 7.763 (V. y U.), de 2015, un total de 13.433 UF, los que corresponden al subsidio directo.
+5.- Para los efectos de rebajar los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la UF correspondiente al 10 de octubre de 2015 ($25.404,7), según lo establecido en el Resolutivo 14 de la resolución citada en el Visto g). En consecuencia, se debe imputar a la resolución exenta Nº 7.763 (V. y U.), de 2015, un total de 13.039 UF, los que corresponden al subsidio directo.
 
 6.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados, conforme al número 2 de esta resolución, la que deberá contener a lo menos, la comuna y el nombre de cada postulante con su respectiva Cédula Nacional de Identidad.
+
+> **Nota.** El 1.4 del numeral 1° de la Resolución 13044 Exenta, Vivienda, publicada el 14.11.2017, modifica la presente norma en el sentido de reemplazar en la columna "U.F. Selección 2º quincena Noviembre", el guarismo "13.433" por "13.039" y en la columna "U. F. Saldo a Asignar", eL guarismo "40.764" por "41.158".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 

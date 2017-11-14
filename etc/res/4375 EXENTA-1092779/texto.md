@@ -30,23 +30,27 @@ Resolución:
 
 Región Individual
 
-Coquimbo 18
+Coquimbo 17
 
-2.- Fíjese el monto de recursos comprometidos para el financiamiento de subsidios de reparaci�n, del Programa de Protección al Patrimonio Familiar, Título II, Mejoramiento de la Vivienda, para la atención de los postulantes seleccionados a que se refiere el Resuelvo 1, según la siguiente tabla:
+2.- Fíjese el monto de recursos comprometidos para el financiamiento de subsidios de reparación, del Programa de Protección al Patrimonio Familiar, Título II, Mejoramiento de la Vivienda, para la atención de los postulantes seleccionados a que se refiere el Resuelvo 1, según la siguiente tabla:
 
 Región Subsidios
 
 ## Título II — $
 
-Coquimbo 22.500.000
+Coquimbo 21.250.000
 
 3.- Comprométense los recursos disponibles, para la selección correspondiente a la primera quincena de junio de 2016, del llamado extraordinario para los damnificados ya citados, de conformidad a los montos asignados y los saldos disponibles, según la distribución señalada en el siguiente cuadro:
 
 .
 
-4.- Para los efectos de rebajar los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la UF correspondiente al 30 de enero de 2016 ($25.629,09), según lo establecido en el resolutivo 15 de la resolución citada en el Visto g). En consecuencia, se debe imputar a la resolución exenta Nº 333 (V. y U.), de 2016, un total de 877,9 UF, correspondientes al subsidio directo.
+4.- Para los efectos de rebajar los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la UF correspondiente al 30 de enero de 2016 ($25.629,09), según lo establecido en el resolutivo 15 de la resolución citada en el Visto g). En consecuencia, se debe imputar a la resolución exenta Nº 333 (V. y U.), de 2016, un total de 828,9 UF, correspondientes al subsidio directo.
 
-5.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados, conforme al número 1 de esta resolución, la que deberá contener a lo menos, la comuna y el nombre de cada postulante con su respectiva Cédula de Identidad.
+5.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados, conforme al número 1 de esta resolución, la que deberá contener a lo menos, la comuna y el nombre de cada postulante con su respectiva Cédula de Identidad la columna "U.F. Selección al 15 de junio", el guarismo "877,9" por "828,9" y en la columna "U.F. Saldo", el guarismo "16.784,45" por "16.833,45".
+
+6.5 Reemplázase en el resuelvo 4 el guarismo "877,9" por "828,9".
+
+> **Nota.** El 2.4 del numeral 2° de la Resolución 13044 Exenta, Vivienda, publicada el 14.11.2017, modifica la presente norma en el sentido de reemplazar la columna "U.F. Selección al 15 de junio", el guarismo "877,9" por "828,9" y en la columna "U.F. Saldo", el guarismo "16.784,45" por "16.833,45".
 
 Anótese, publíquese en el Diario Oficial y archívese, Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
