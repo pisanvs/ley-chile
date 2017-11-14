@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 3.163 EXENTA, DE 8 DE NOVIEMBRE DE 2017
+
+Por resolución exenta N° 3.163, de 8 de noviembre de 2017, del Ministerio de Transportes y Telecomunicaciones, se modificó párrafo segundo de artículo 6.- de resolución exenta N° 2.127, de 3 de agosto de 2017, del mismo origen, que estableció Perímetro de Exclusión para servicios de taxi colectivo urbano, en área geográfica correspondiente a la Provincia de Santiago y las comunas de Puente Alto y San Bernardo, de las Provincias Cordillera y Maipo, respectivamente, reemplazando frase "20 días hábiles" por "35 días hábiles". Texto íntegro de la resolución extractada y sus Anexos se publicarán en la página web del Ministerio de Transportes y Telecomunicaciones, www.mtt.gob.cl.
+
+Paola Tapia Salas, Ministra de Transportes y Telecomunicaciones.
