@@ -102,175 +102,193 @@ del motor diámetro tubo escape de ensayo
 
 Los vehículos que no alcancen la potencia de ensayo se entenderá que no cumplen con la norma de emisión.
 
-b.2) La opacidad en flujo parcial medida en los vehículos Diesel, en el ensayo de aceleración libre, deberá ser inferior o igual al valor que, para cada región y tipo de vehículo, se indica:
+b.2) La opacidad en flujo parcial medida en los vehículos Diésel, en el ensayo de aceleración libre, en todo el territorio nacional, deberá ser inferior o igual al valor que, en la tabla siguiente se indica:
 
-b.2.1) Regiones I a la IV y VII a la XII:
+TIPO DE VEHÍCULO Coeficiente
 
-TIPO DE VEHICULO Coeficiente de
-
-Extinción
+de Extinción
 
 K en m-1
 
 Máximo
 
-Buses, camiones y tractocamiones cuyo
+Buses, camiones y tracto-camiones cuyo motor
 
-motor esté afecto al cumplimiento de
+está afecto al cumplimiento de la norma de
 
-la norma de emisión establecida en el
+emisión establecida en el DS Nº 55 de 1994,
 
-D.S. Nº 82 de 1993 o al D.S. Nº 55 de
+del Ministerio de Transportes y Telecomunicaciones 2.1
 
-1994, ambos del Ministerio de
+cuya primera inscripción en el Registro de
 
-Transportes y Telecomunicaciones. 2.1
+Vehículos Motorizados se haya solicitado hasta
 
-Buses, camiones y tractocamiones cuyo
+el 30 de septiembre de 2006.
 
-motor no esté afecto al cumplimiento
+Buses, camiones y tracto-camiones cuyo motor está
 
-de la norma de emisión establecida en
+afecto al cumplimiento de la norma de emisión
 
-el D.S. Nº 82 de 1993 o al D.S. Nº 55
+establecida en el DS Nº 55, de 1994, del
 
-de 1994, ambos del Ministerio de
+Ministerio de Transportes y Telecomunicaciones
 
-Transportes y Telecomunicaciones. 3.6
+y cuya primera inscripción en el Registro de
 
-Buses, camiones y tractocamiones dotados
+Vehículos Motorizados se haya solicitado a contar 1.6
 
-de motor con turboalimentador y sin
+del 1º de octubre del 2006 y hasta el 23 de
 
-limitador de humo; que no esté afecto
+mayo del 2012, en el caso de camiones y
 
-al cumplimiento de la norma de emisión
+tracto-camiones; y hasta el 31 de agosto de
 
-establecida en el D.S. Nº 82 de 1993
+2013, en el caso de buses.
 
-o al D.S. Nº 55 de 1994, ambos del
+Camiones y tracto-camiones cuyo motor está
 
-Ministerio de Transportes y
+afecto al cumplimiento de la norma de emisión
 
-Telecomunicaciones. 4.2
+establecida en el DS Nº 55, de 1994, del
+
+Ministerio de Transportes y Telecomunicaciones 1.0
+
+y cuya primera inscripción en el Registro de
+
+Vehículos Motorizados se haya solicitado a
+
+contar del 24 de mayo del 2012.
+
+Buses cuyo motor está afecto al cumplimiento de
+
+la norma de emisión establecida en el DS Nº 55,
+
+de 1994, del Ministerio de Transportes y
+
+Telecomunicaciones y cuya primera inscripción 1.0
+
+en el Registro de Vehículos Motorizados se
+
+haya solicitado a contar del 1 de septiembre
+
+del 2013.
+
+Buses, camiones y tracto-camiones cuyo motor
+
+no esté afecto al cumplimiento de la norma
+
+de emisión establecida en el DS Nº 55, de 2.8
+
+1994, del Ministerio de Transportes y
+
+Telecomunicaciones.
+
+Buses destinados a la prestación de servicios
+
+de locomoción colectiva urbana en la provincia
+
+de Santiago y/o comunas de San Bernardo y
+
+Puente Alto, cuyo motor esté afecto al
+
+cumplimiento de la norma de emisión
+
+establecida en el DS Nº 130/2001, del
+
+Ministerio de Transportes y Telecomunicaciones 1.0
+
+y cuya primera inscripción en el Registro
+
+de Servicio de Transporte de Pasajeros de
+
+Santiago se haya solicitado a contar del 1
+
+de septiembre del 2002 y hasta el 23 de
+
+enero de 2010.
+
+Buses destinados a la prestación de servicios
+
+de locomoción colectiva urbana en la provincia
+
+de Santiago y/o comunas de San Bernardo y
+
+Puente Alto, cuyo motor esté afecto al
+
+cumplimiento de la norma de emisión
+
+establecida en el DS Nº 130/2001 del 0,24
+
+Ministerio de Transportes y Telecomunicaciones,
+
+que cuenten con filtro de partículas y cuya
+
+primera inscripción en el Registro de Servicio
+
+de Transporte de Pasajeros de Santiago se haya
+
+solicitado a contar del 24 de enero de 2010.
+
+Buses, camiones y tracto-camiones dotados de
+
+motor con turboalimentador y sin limitador de
+
+humo; que no esté afecto al cumplimiento de la 4.2
+
+norma de emisión establecida en DS Nº 55,
+
+de 1994, del Ministerio de Transportes y
+
+Telecomunicaciones.
+
+Vehículos motorizados livianos y medianos
+
+afectos al cumplimiento de la norma de emisión
+
+establecida en el DS Nº 211, de 1991, o al DS
+
+Nº 54, de 1994, ambos del Ministerio de 2.5
+
+Transportes y Telecomunicaciones y cuya
+
+primera inscripción en el Registro de
+
+Vehículos Motorizados se haya solicitado
+
+hasta el 28 de marzo de 2013.
+
+Vehículos motorizados livianos y medianos no
+
+afectos al cumplimiento de la norma de emisión
+
+establecida en el DS Nº 211, de 1991, o al DS 2.8
+
+Nº 54, de 1994, ambos del Ministerio de
+
+Transportes y Telecomunicaciones.
 
 Vehículos motorizados livianos y medianos
 
 afectos al cumplimiento de la norma de
 
-emisión establecida en el D.S. Nº 211 de
+emisión establecida en el DS Nº 211, de
 
-1991 o al D.S. Nº 54 de 1994, ambos del
-
-Ministerio de Transportes y
-
-Telecomunicaciones. 2.5
-
-Vehículos motorizados livianos y medianos
-
-no afectos al cumplimiento de la norma de
-
-emisión establecida en el D.S. Nº 211 de
-
-1991 o al D.S. Nº 54 de 1994, ambos del
+1991, o al DS Nº 54, de 1994, ambos del 0,7
 
 Ministerio de Transportes y
 
-Telecomunicaciones. 2.8
+Telecomunicaciones inscritos y cuya primera
 
-b.2.2) Regiones Metropolitana, V y VI:
+inscripción en el Registro de Vehículos
 
-TIPO DE VEHICULO Coeficiente de
+Motorizados se haya solicitado a partir
 
-Extinción
-
-K en m-1
-
-Máximo
-
-Buses, camiones y tractocamiones cuyo
-
-motor esté afecto al cumplimiento de
-
-la norma de emisión establecida en el
-
-D.S. Nº 82 de 1993 o al D.S. Nº 55 de
-
-1994, ambos del Ministerio de
-
-Transportes y Telecomunicaciones. 1.6
-
-Buses, camiones y tractocamiones cuyo
-
-motor no esté afecto al cumplimiento
-
-de la norma de emisión establecida en
-
-el D.S. Nº 82 de 1993 o al D.S. Nº 55
-
-de 1994, ambos del Ministerio de
-
-Transportes y Telecomunicaciones. 2.8
-
-Buses, camiones y tractocamiones dotados
-
-de motor con turboalimentador y sin
-
-limitador de humo; que no esté afecto
-
-al cumplimiento de la norma de emisión
-
-establecida en el D.S. Nº 82 de 1993
-
-o al D.S. Nº 55 de 1994, ambos del
-
-Ministerio de Transportes y
-
-Telecomunicaciones. 4.2
-
-Vehículos motorizados livianos y
-
-medianos afectos al cumplimiento de
-
-la norma de emisión establecida en
-
-el D.S. Nº 211 de 1991 o al D.S.
-
-Nº 54 de 1994, ambos del Ministerio
-
-de Transportes y Telecomunicaciones. 2.5
-
-Vehículos motorizados livianos y
-
-medianos no afectos al cumplimiento
-
-de la norma de emisión establecida
-
-en el D.S Nº 211 de 1991 o al D.S.
-
-Nº 54 de 1994, ambos del Ministerio
-
-de Transportes y Telecomunicaciones. 2.8
-
-Buses de locomoción colectiva urbana y 1.9
-
-rural en la Región Metropolitana cuyo
-
-motor no esté afecto al cumplimiento de
-
-la norma de emisión establecida en el
-
-D.S. Nº82 de 1993, en el D.S. Nº130 de
-
-2001 o en el D.S.Nº55 de 1994, todos del
-
-Ministerio de Transportes y
-
-Telecomunicaciones
+del 29 de marzo de 2013.
 
 La medición de la opacidad en flujo parcial medida en el ensayo de aceleración libre y/o la opacidad en flujo parcial medida en el ensayo en carga sobre dinamómetro, aplicándose para esta última el equivalente técnico correspondiente a los valores establecidos en la letra b.2) de este mismo artículo, serán obligatorias para los buses que presten servicios de locomoción colectiva en la Provincia de Santiago y las comunas de Puente Alto y San Bernardo, de las Provincias de Cordillera y Maipo, respectivamente, o para aquellos cuyos servicios tengan origen o destino en dicha área geográfica.
 
-La medición de opacidad en flujo parcial medida en el ensayo de aceleración libre, será obligatorio para los vehículos con motor diesel que presten servicio o circulen en la Región Metropolitana. En regiones distintas a la Metropolitana, la medición de opacidad en flujo parcial en el ensayo de aceleración libre, será obligatoria para los vehículos con motor Diesel, a partir de la fecha en que las plantas de revisión técnica deban contar con el instrumento para hacer dicha medición.
+La medición de opacidad en flujo parcial medida en el ensayo de aceleración libre, será obligatoria para los vehículos con motor Diésel que circulen en todo el país.
 
 #### Artículo 4°
 
