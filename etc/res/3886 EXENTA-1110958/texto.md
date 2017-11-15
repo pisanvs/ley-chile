@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3886 de fecha 12/09/2017, conforme al artículo 48 y 62 Ley 19.880, de Serviu Región de la Araucanía, se prescribió la rectificación de la resolución ex. N° 5.767 de fecha 06 de octubre de 2016 de Serviu Araucanía, que ordenó la expropiación del Lote 2-0, en el sentido que por un error involuntario se señaló en su Resuelvo N° 1, lo siguiente: "Deslindes especiales Lote a expropiar: Norte: en línea recta de 5,74 metros con lote vecino; Sur: en línea recta de 5,74 metros con lote vecino; Este: en línea recta de 19,82 metros con calle Pedro Aguirre Cerda, y Oeste: en línea recta de 19,55 metros con lote saldo retazo exterior Raimundo Nazal", correspondiendo decir, en definitiva, que: "Norte: en línea recta de 5,74 metros con lote vecino; Sur: en línea recta de 5,65 metros con lote vecino; Este: en línea recta de 18,18 metros con calle Pedro Aguirre Cerda, y Oeste: en línea recta de 18,56 metros con lote saldo Susana Nazal y otros".-
+
+Director (S) Serviu Región de la Araucanía.
