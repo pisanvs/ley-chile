@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 1213, de 03 de octubre de 2017, se modificó el numeral segundo del Decreto Exento MOP. Nº 1223, de 10 de noviembre de 2015, quedando de la siguiente forma: lotes Nºs 40-30, 40-31 y 40-32, ubicados en la comuna de Huasco, figuran a nombre de CALLEJAS MOLINA ALBERTO ARTURO, según rol de avalúo 148-44, superficies 425 m2. 425 m2. y 369 m2. Compleméntese el informe de tasación de los lotes emitido el 20 de noviembre de 2014, mediante acta emanada de la misma comisión de 01 de diciembre de 2016.
