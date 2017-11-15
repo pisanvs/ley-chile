@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3887 de fecha 12/09/2017, conforme al artículo 48 y 62 Ley 19.880, de Serviu Región de la Araucanía, se prescribió la rectificación de la Resolución ex. N° 5768 de fecha 06 de octubre de 2016 de Serviu Araucanía, que ordenó la expropiación del Lote 04-0, en el sentido que por un error involuntario se señaló en su Resuelvo N° 1, lo siguiente: "Deslindes especiales Lote a expropiar: Norte: en línea recta de 5,63 metros con lote vecino; Sur: en línea recta de 5,55 metros con lote vecino; Este: en línea recta de 20,08 metros con calle Pedro Aguirre Cerda, y Oeste: en línea recta de 20,16 metros con lote PDI", correspondiendo decir, en definitiva, que: "Norte: en línea recta de 5,63 metros con lote vecino; Sur: en línea recta de 5,55 metros con calle Tucapel; Este: en línea recta de 20,02 metros con calle Pedro Aguirre Cerda, y Oeste: en línea recta de 20,16 metros con lote saldo".-
+
+Director (S) Serviu Región de la Araucanía.
