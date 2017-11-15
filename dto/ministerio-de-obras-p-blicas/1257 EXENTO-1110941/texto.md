@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 1257, de 12 de octubre de 2017, se desistió de la expropiación del lote Nº40-37, el cual fue expropiado mediante Decreto MOP. (Exento) Nº1.226, de 10 de noviembre de 2015, debido a la adecuación del proyecto, el cual no considera la utilización del lote mencionado de la obra "Mejoramiento Ruta C-46 Vallenar Huasco" (Tramo Freirina - Huasco), Comuna de Huasco, III Región".
