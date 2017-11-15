@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución N° 4.429 de fecha 06/11/2017, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 49-0, Inmueble ubicado en calle Pedro de Valdivia número 0673 de la ciudad y comuna de Temuco, Rol de avalúo 1307-8. La superficie a expropiar aproximada es de 111,08 metros cuadrados, de aparente dominio de Sociedad Inmobiliaria Agrifor Limitada. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto, y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $30.580.315 según Informe N° 49-0 de fecha 03/11/2017, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
