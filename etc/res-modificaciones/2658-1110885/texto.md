@@ -1,0 +1,7 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.658, del 4 de octubre de 2017, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Modifícase, la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución N° 756, de fecha 31 de marzo de 1995, modificada y transferida por resolución N° 1.349, de fecha 31 de mayo de 1999, modificada por resolución N° 2.140, de fecha 18 de diciembre de 2001, modificada por resolución exenta N° 1.783, de fecha 31 de diciembre de 2008, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, a nombre de su actual titular Productos del Mar Ventisqueros S.A., sociedad chilena, RUT N° 96.545.040-8, con domicilio en Avenida Juan Soler Manfredini N° 11, oficina 1501, Puerto Montt, en el sentido que la concesionaria debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta N° 2.006, de fecha 18 de julio de 2012, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el N° 4 de la parte resolutiva del acto administrativo que otorgó la concesión de acuicultura.
+
+Santiago, 17 de octubre de 2017.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
