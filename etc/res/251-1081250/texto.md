@@ -234,7 +234,7 @@ III) En el orden financiero, presupuestario y patrimonial
 
 1.- Elaborar del proyecto de presupuesto de los respectivos Hospitales, para ser sometido a la aprobación de la Dirección del Servicio de Salud Atacama.
 
-2.- Ejecutar y celebrar toda clase de actos y contratos sobre bienes muebles e inmuebles y sobre cosas corporales e incorporales, hasta el monto máximo de 10.000 Unidades Tributarias Mensuales (UTM).
+2.- Ejecutar y celebrar toda clase de actos y contratos sobre bienes muebles e inmuebles y sobre cosas corporales e incorporales.
 
 En la presente delegación se entenderán incluidas las materias que se encuentran reguladas por la Ley Nº 19.886 de Bases de Contratos Administrativos y Prestación de Servicios, como también su reglamento.
 
