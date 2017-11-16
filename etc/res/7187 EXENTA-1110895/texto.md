@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 7.187 EXENTA, DE 30 DE OCTUBRE DE 2017
+
+Por resolución exenta N° 7.187, de 30 de octubre de 2017, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modificó la resolución exenta N° 1.416, de 28 de marzo de 2013, de esta Secretaría Regional Ministerial, que aprueba programa de enseñanza de escuela de conductores clase B "Escuela de Conductores Ruta Sol Limitada", RUT N° 76.235.091-2, en el sentido de aprobar el cambio de Director de la Escuela, siendo esta la señora Joscelyne Grace Reffer Bugueño. En lo no modificado se mantienen íntegramente las demás estipulaciones aprobadas por la resolución exenta N° 1.416, de 28 de marzo de 2013, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.-
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
