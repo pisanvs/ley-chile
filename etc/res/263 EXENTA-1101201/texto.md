@@ -30,7 +30,7 @@ Si por razones inimputables a los PSAT, los expedientes presentados al Llamado E
 
 .
 
-En caso de existir saldos de recursos no utilizados durante el 1° o 2° proceso de selección, éstos serán sumados al proceso de selección siguiente.
+En caso de existir excedentes del 2° proceso de selección, deberán ser incorporados en el 3° proceso, conforme a la línea de financiamiento que corresponda.
 
 3.- Defínanse los siguientes factores regionales de prelación, de acuerdo a lo dispuesto en el resuelvo N° 17 de la resolución exenta N° 1.538 (V. y U.), de 2017:
 
