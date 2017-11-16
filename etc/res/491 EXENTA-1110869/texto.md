@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LAS ACTIVIDADES "AYUDANTE PERFORISTA RAJO SUBTERRÁNEO" Y "OPERADOR CAMIÓN PLUMA", DESARROLLADAS PARA LOS EMPLEADORES "COMPAÑÍA MINERA TERESITA" Y "OLAZO HNOS. Y CÍA. LTDA.", RESPECTIVAMENTE
+
+Por resolución exenta Nº 491, de 12 de octubre de 2017, del Director Nacional del Instituto de Previsión Social, se aprueba la solicitud presentada por don Gonzalo Alejandro Lemus Peña, para calificar como trabajo pesado las labores de "Ayudante Perforista Rajo Subterráneo" y "Operador Camión Pluma", desempeñadas para los empleadores "Compañía Minera Teresita" y "Olazo Hnos. y Cía. Ltda.", e incorpórese al Listado Oficial de Actividades e Industrias Diversas calificadas como trabajo pesado, correspondiendo aplicar una rebaja de edad de 2x5 (dos años por cada cinco años de labores pesadas), respecto de la labor signada con la letra a, y de 1x5 (un año por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez, con rebaja en la edad.
+
+Santiago, 8 de noviembre de 2017.- Patricio Coronado Rojo, Director Nacional.
