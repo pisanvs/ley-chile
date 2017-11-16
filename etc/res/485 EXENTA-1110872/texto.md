@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO DE COLABORACIÓN PARA EL USO DE LOS SERVICIOS DEL CASINO INSTITUCIONAL, ENTRE EL SERVICIO NACIONAL DE LA DISCAPACIDAD Y EL INSTITUTO DE PREVISIÓN SOCIAL
+
+Por resolución exenta Nº 485, de 10 de octubre de 2017, del Director Nacional del Instituto de Previsión Social, se aprueba el "Convenio de Colaboración para el Uso de los Servicios del Casino Institucional", suscrito con fecha 26 de septiembre de 2017, entre el Servicio Nacional de la Discapacidad y el Instituto de Previsión Social, por el cual este Instituto se compromete a otorgar a todos los socios y socias del Servicio de Bienestar del mencionado Servicio que así lo deseen, el beneficio de uso de sus Casinos Institucionales, proporcionando un servicio de alimentación saludable y equilibrada nutricionalmente.
+
+Santiago, 8 de noviembre de 2017.- Patricio Coronado Rojo, Director Nacional.
