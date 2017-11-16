@@ -1,0 +1,5 @@
+APRUEBA MODIFICACIÓN DE CONTRATO DE COMODATO SUSCRITO CON FECHA 23.07.2012, ENTRE EL INSTITUTO DE SEGURIDAD LABORAL Y EL INSTITUTO DE PREVISIÓN SOCIAL, RESPECTO DEL INMUEBLE DE SU PROPIEDAD UBICADO EN CALLE NICOLÁS PALACIOS N° 85, DE LA COMUNA Y CIUDAD DE SANTA CRUZ, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
+
+Por resolución exenta Nº 518, de 26 de octubre de 2017, del Director Nacional del Instituto de Previsión Social, se aprueba la "Modificación de Contrato de Comodato", suscrito con fecha 13 de octubre de 2017, entre el Instituto de Previsión Social y el Instituto de Seguridad Laboral, respecto del inmueble de su propiedad ubicado en calle Nicolás Palacios Nº 85, de la comuna y ciudad de Santa Cruz, Región del Libertador General Bernardo O'Higgins.
+
+Santiago, 8 de noviembre de 2017.- Patricio Coronado Rojo, Director Nacional.
