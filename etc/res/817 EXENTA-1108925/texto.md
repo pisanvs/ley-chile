@@ -74,7 +74,9 @@ Todos los tramos de las redes, al interior de la vivienda, deberán ser embutido
 
 3.5. En el diseño de los conjuntos habitacionales y de sus viviendas podrán incluirse, además, elementos de pertinencia geográfica y/o de eficiencia energética, así como también equipamientos básicos de uso comercial o de servicios, según la Ordenanza General de Urbanismo y Construcciones (OGUC). Las unidades que se destinen al equipamiento señalado anteriormente deberán quedar consignadas en el respectivo permiso de edificación.
 
-3.6. En caso de incluir elementos de eficiencia energética, éstos deberán ser evaluados de acuerdo a la siguiente Tabla:
+3.6. En caso de incluir elementos de eficiencia energética deberán ser evaluados de acuerdo a la siguiente tabla:
+
+.
 
 3.7. En caso que el proyecto incluya unidades de vivienda acondicionadas para recibir a personas con discapacidad, asociada a movilidad reducida, estas deberán:
 
