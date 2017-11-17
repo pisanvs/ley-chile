@@ -422,6 +422,20 @@ todo tipo de operaciones
 
 aduaneras.
 
+23. Puerto Andino Personas, tripulantes,
+
+23º 05' 4.16" S Permanente importaciones
+
+70º 24' 26.86" W y exportaciones de
+
+graneles,
+
+transporte, rancho de
+
+naves y traslado de
+
+desperdicios.
+
 E. SUJETOS A LA JURISDICCION DE LA ADUANA DE CHAÑARAL:
 
 Punto Habilitado Habilitación Operaciones aduaneras
