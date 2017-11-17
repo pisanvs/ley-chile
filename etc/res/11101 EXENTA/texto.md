@@ -66,7 +66,7 @@ Resolución:
 
 1. Autorízase la aplicación del Programa de Integración Social y Territorial, regulado por el DS Nº 19 (V. y U.), de 2016, en los terrenos de propiedad del Serviu IV Región de Coquimbo, ubicados en la comuna de Coquimbo, que se singularizan a continuación:
 
-2. Llámase, a partir de la fecha de publicación de la presente resolución en el Diario Oficial y hasta las 14:00 horas de 10 de noviembre de 2017 a postulación regional al Programa de Integración Social y Territorial, regulado por el DS Nº 19 (V. y U.), de 2016, en adelante el DS Nº 19, en terrenos de propiedad del Serviu IV Región de Coquimbo, singularizados en el Resuelvo 1. del presente instrumento, período en que Serviu IV Región de Coquimbo procederá directamente a la recepción de proyectos habitacionales con la documentación y antecedentes exigidos en el artículo 9º del DS Nº 19 (V. y U.), de 2016 y por esta resolución. Previamente, las Entidades Desarrolladoras deberán ingresar los datos del proyecto, a través de los medios electrónicos que el Ministerio de Vivienda y Urbanismo (Minvu) disponga para estos efectos.
+2. Llámase, a partir de la fecha de publicación de la presente resolución en el Diario Oficial y hasta las 14:00 horas de 11 de diciembre de 2017 a postulación regional al Programa de Integración Social y Territorial, regulado por el DS Nº 19 (V. y U.), de 2016, en adelante el DS Nº 19, en terrenos de propiedad del Serviu IV Región de Coquimbo, singularizados en el Resuelvo 1. del presente instrumento, período en que Serviu IV Región de Coquimbo procederá directamente a la recepción de proyectos habitacionales con la documentación y antecedentes exigidos en el artículo 9º del DS Nº 19 (V. y U.), de 2016 y por esta resolución. Previamente, las Entidades Desarrolladoras deberán ingresar los datos del proyecto, a través de los medios electrónicos que el Ministerio de Vivienda y Urbanismo (Minvu) disponga para estos efectos.
 
 2.1. La presentación se debe realizar en un solo proyecto, considerando los requisitos y condiciones establecidos en el DS Nº 19 referido y en esta resolución.
 
@@ -80,11 +80,15 @@ Resolución:
 
 2.3. El puntaje final de cada oferente se calculará de acuerdo a la siguiente tabla:
 
+.
+
 2.4. En caso de que, habiendo aplicado lo indicado en el inciso tercero del artículo 13º del DS Nº 19, persista el empate, el orden de prelación se definirá dando prioridad a aquel proyecto cuya propuesta presente el porcentaje más alto de viviendas en el tramo de precios intermedio, de 1.300 UF a 1.500 UF. En caso de continuar el empate, se procederá a definir mediante votación de los integrantes de la Comisión Evaluadora definida en la letra a) del artículo 2º del DS Nº 19.
+
+2.5. Si una vez cumplido el plazo para la presentación de proyectos no se dispone de al menos dos ofertas y/o ninguna de las ofertas cumple a cabalidad los requisitos establecidos por la región, la comisión evaluadora podrá desestimarlas todas.
 
 ### Párrafo 2 — De las características del terreno
 
-3. Las características de los terrenos de propiedad de Serviu IV Región Coquimbo, singularizados en el resuelvo 1. de la presente resolución y los proyectos que se desarrollen en el lote resultante de la fusión de éstos, deberán considerar la información en base a la documentación técnica que será proporcionada por Serviu IV Región de Coquimbo, la que deberá ser retirada por las Entidades interesadas en el Departamento de Operaciones Habitacionales de Serviu IV Región de Coquimbo, ubicado en calle Almagro 372, La Serena, en horario de oficina, hasta las 13:30 horas; a partir del 25 de septiembre de 2017 hasta el 10 de noviembre de 2017.
+3. Las características de los terrenos de propiedad de Serviu IV Región Coquimbo, singularizados en el resuelvo 1. de la presente resolución y los proyectos que se desarrollen en el lote resultante de la fusión de éstos, deberán considerar la información en base a la documentación técnica que será proporcionada por Serviu IV Región de Coquimbo, la que deberá ser retirada por las Entidades interesadas en el Departamento de Operaciones Habitacionales de Serviu IV Región de Coquimbo, ubicado en calle Almagro 372, La Serena, en horario de oficina, hasta las 13:30 horas; a partir del 25 de septiembre de 2017 hasta el 11 de diciembre de 2017 de 2017.
 
 ### Párrafo 3 — De los proyectos, requisitos y antecedentes a presentar
 
@@ -94,13 +98,17 @@ Resolución:
 
 4.1.1. Conforme al numeral 5 del artículo 10º del DS Nº 19, todas las viviendas de los proyectos deberán cumplir con las exigencias mínimas establecidas para el Título I del DS Nº 1 (V. y U.), de 2011; en la resolución exenta Nº 4.832 (V. y U.), de 2012, que aprueba la Tabla de Espacios y Usos Mínimos Para Mobiliario del DS Nº 1, incluyendo los requisitos mínimos de habitabilidad y las partidas generales de dicho Itemizado. Adicionalmente, los proyectos deberán cumplir con lo siguiente:
 
-4.1.1.1. Los departamentos destinados a familias de sectores medios que consideren solo un dormitorio podrán eximirse del recinto logia, en cuyo caso deberán contemplar el espacio para un artefacto lavadora en los recintos cocina o baño, así como también las correspondientes conexiones de agua fría-caliente y evacuación de aguas servidas.
+4.1.1.1. Los departamentos destinados a familias de sectores medios deberán considerar una superficie edificada igual o superior a 52 m2.
 
-4.1.1.2. Todos los recintos conformados deben considerar puertas. 4.1.1.3. En escaleras interiores se debe considerar pasamanos, con desarrollo a lo largo de toda la escalera.
+4.1.1.2. Los departamentos destinados a familias de sectores medios que consideren solo un dormitorio podrán eximirse del recinto logia, en cuyo caso deberán contemplar el espacio para un artefacto lavadora en los recintos cocina o baño, así como también las correspondientes conexiones de agua fría-caliente y evacuación de aguas servidas.
 
-4.1.1.4. Todos los tramos de las redes, al interior de la vivienda, deberán ser embutidos o dispuestos dentro de vigas falsas, nunca a la vista.
+4.1.1.3. Todos los recintos conformados deben considerar puertas.
 
-4.1.1.5. Todas las viviendas de los proyectos deberán considerar pavimento de terminación, detallando el producto específico, el que deberá corresponder a un revestimiento.
+4.1.1.4. En escaleras interiores se debe considerar pasamanos, con desarrollo a lo largo de toda la escalera.
+
+4.1.1.5. Todos los tramos de las redes, al interior de la vivienda, deberán ser embutidos o dispuestos dentro de vigas falsas, nunca a la vista.
+
+4.1.1.6. Todas las viviendas de los proyectos deberán considerar pavimento de terminación, detallando el producto específico, el que deberá corresponder a un revestimiento.
 
 4.1.2. En el diseño de los conjuntos habitacionales y sus viviendas podrán incluirse además, elementos de pertinencia geográfica y/o de eficiencia energética, así como también equipamientos básicos de uso comercial o de servicios, según la Ordenanza General de Urbanismo y Construcciones (OGUC). Las unidades que se destinen al equipamiento señalado anteriormente deberán quedar consignadas en el respectivo permiso de edificación.
 
@@ -128,7 +136,11 @@ Esta modalidad de condominio deberá otorgar una respuesta arquitectónica y urb
 
 4.1.6. El proyecto de equipamiento y áreas verdes deberá considerar el diseño y ejecución de la totalidad de la superficie destinada a ello. No podrá haber espacios sin tratamiento de pavimentos peatonales, pavimentos blandos, vegetación o paisajismo.
 
+4.1.7. La cuota mínima de estacionamientos a considerar para el desarrollo del proyecto será de 1 cada 2 viviendas, los que deberán asignarse aplicando esta cuota sobre el total de las viviendas, destinadas tanto a familias vulnerables como a familias de sectores medios. Las viviendas destinadas a familias vulnerables deberán incorporar el estacionamiento dentro del precio de la vivienda, el que no deberá superar las 1.100 UF.
+
 5. Requisitos Regionales. Los criterios especiales que deberán cumplir los proyectos que se presenten en cada uno de los terrenos singularizados en el Resuelvo 1, serán los dispuestos en la siguiente tabla:
+
+.
 
 ### 6. Antecedentes a presentar
 
