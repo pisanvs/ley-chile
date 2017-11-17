@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A LA "FUNDACIÓN EDUCACIONAL PARA EL DESARROLLO DEL MENOR"
+
+Mediante decreto exento Nº E-558, de 7 de noviembre de 2017, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Fundación Educacional para el Desarrollo del Menor", RUT Nº 70.574.900-0, el inmueble fiscal ubicado en pasaje La Unión Nº 1105, Población O'Higgins, comuna y provincia de Antofagasta, Región de Antofagasta; rol Servicio de Impuestos Internos Nº 1790-5; inscrito a nombre del Fisco, a fojas 1729 vta. Nº 2711 del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, correspondiente al año 1990; singularizado en el plano N° 02101-8912-C.U.; con una superficie de 827,4 metros cuadrados. La Concesión se otorga por un plazo de 10 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para utilizarlo en el funcionamiento del Jardín Infantil Gabriela Mistral. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Magdalena Badilla Rodríguez, Jefa de División Jurídica.
