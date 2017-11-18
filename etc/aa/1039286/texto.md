@@ -386,13 +386,7 @@ En el caso de las apelaciones señaladas en el numeral 13° letra f) se deberá,
 
 <!-- parte:9250806 -->
 
-17° Plazo de comparecencia. Las partes tendrán el plazo de cinco hábiles días, para comparecer a seguir el recurso, contados desde el ingreso de los autos en secretaría.
-
-Para los casos del numeral 13° letra c), si los autos son enviados desde un tribunal que funciona fuera de la comuna asiento del Tribunal Calificador de Elecciones, se aumentará el plazo en la misma forma que el de emplazamiento para contestar demandas, según lo dispuesto en los artículos 258 y 259 del Código de Procedimiento Civil.
-
-En los casos de solicitudes de nulidad y rectificación de escrutinios de las elecciones municipales y de las de Consejeros Regionales, el plazo para comparecer a la instancia será de dos días corridos, contados desde el ingreso de los autos en secretaría. El último día del plazo, la secretaría del Tribunal permanecerá abierta hasta las veinticuatro horas.
-
-En el caso de las apelaciones señaladas en el numeral 13° letras a) y d), admitido a tramitación el recurso, se podrá fallar en cuenta, sin esperar la comparecencia de las partes en esta instancia.
+Derogado 17° Derogado-.
 
 #### Artículo 18
 
@@ -406,11 +400,7 @@ Del fallo que, en estas materias, dicte el Tribunal de alzada, respecto de las a
 
 <!-- parte:9250808 -->
 
-19° Deserción del recurso. Si el apelante no comparece a la instancia dentro de plazo, el Tribunal declarará, de oficio o a petición de parte, la deserción del recurso, previa certificación del Secretario Relator.
-
-Si no comparece el apelado, se seguirá el recurso en su rebeldía por el solo ministerio de la ley y no será necesario notificarle las resoluciones que se dicten, las cuales producirán sus efectos respecto del apelado rebelde desde que se pronuncien.
-
-El rebelde podrá comparecer en cualquier estado del recurso, representado en la forma establecida en el numeral 7°.
+19° Derogado.-
 
 #### Artículo 20
 
