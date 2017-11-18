@@ -51,7 +51,3 @@ NÓMINA DE PROYECTOS SELECCIONADOS LLAMADO 2017 DS N° 19 (V. Y U.), DE 2016 ORD
 > **Nota.** El numeral 3° de la Resolución 13131 Exenta, Vivienda, publicado el 18.11.2017, modifica la presente norma en el sentido de eliminar de la lista de proyectos seleccionados los que la citada norma indica.
 
 > **Nota.** NOTA 1 El numeral 6.2 del numero 6 de la Resolución 13131 Exenta, Vivienda, publicado el 18.11.2017, modifica las menciones y datos de la nómina de proyectos seleccionados por región, correspondiente al proyecto código 138004, que figura con el número 114 en dicha nómina, reemplazando en la columna del nombre de la Entidad Desarrolladora la denominación "Sociedad Inmobiliaria Cerro y Posta Limitada", por "Inmobiliaria Eleva Limitada".
-
-> **Nota.** NOTA 2 El numeral 1 de la Resolución 13223 Exenta, Vivienda, publicada el 21.11.2017, modifica la presente norma en el sentido de eliminar de la lista de proyectos seleccionados, el proyecto Condominio Estación Central, debiendo fijarse una nueva cantidad y número de cupos de subsidios para la Región Metropolitana en reemplazo del proyecto que por esta resolución se elimina.
-
-> **Nota.** NOTA 3 El numeral 2 de la Resolución 14874 Exenta, Vivienda, publicada el 05.01.2018, modifica la presente norma en el sentido de eliminar de la lista de proyectos seleccionados, por renuncia de sus Entidades Desarrolladoras, los que la citada norma indica.
