@@ -1,0 +1,5 @@
+OTORGA EXCEPCIÓN DE CAMBIO DE SUJETO DEL IVA EN LA VENTA DE BERRIES Y OTORGA LA CALIDAD DE RETENEDOR DEL IVA RESPECTO DE LAS COMPRAS DE BERRIES QUE A SU VEZ EFECTÚE A TERCEROS VENDEDORES
+
+La VII Dirección Regional Talca del SII, por resolución Ex Nº 77317078256, de fecha 31-10-2017, concede al contribuyente Sergio Antonio Toledo Mora, RUT Nº 10.311.042-4, a contar del día primero del mes siguiente, de la fecha de esta publicación, la Excepción del régimen de cambio de sujeto de derecho del impuesto al Valor Agregado en la Venta de Berries y además se otorga la calidad de Agente Retenedor del Impuesto al Valor Agregado, respecto de las compras de berries que, a su vez, efectúe a terceros vendedores, de acuerdo a la facultad establecida en el dispositivo Nº 12 de la resolución exenta SII Nº 55, del 02.06.2005, modificada por la resolución exenta SII Nº 58, del 19.05.2006, de la Dirección Nacional.
+
+Talca, 31 de octubre de 2017.- Sergio Flores Gutiérrez, Director Regional.
