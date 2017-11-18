@@ -114,9 +114,9 @@ El fallo debe ser fundado y debe indicar con precisión el estado en que queda e
 
 19º Recurso de reposición. En contra de las resoluciones del Tribunal procederá el recurso de reposición, el que deberá interponerse dentro de cinco días hábiles contados desde la notificación, el que deberá resolverse de plano sin previo traslado a la contraparte.
 
-20º Recurso de apelación. Contra las resoluciones del Tribunal procederá el recurso de apelación para ante el Tribunal Calificador de Elecciones, el que deberá interponerse, en subsidio del recurso de reposición, dentro de cinco días hábiles contados de la respectiva notificación.
+20° Recurso de apelación. Contra las resoluciones del Tribunal procederá el recurso de apelación para ante el Tribunal Calificador de Elecciones, el que podrá interponerse, en subsidio del recurso de reposición, dentro de cinco días hábiles contados de la respectiva notificación. En todo caso, interpuesta la apelación, precluye la posibilidad de interponer la reposición.
 
-El escrito de apelación deberá ser someramente fundado, indicar la resolución que motiva el recurso y contener peticiones concretas. El Tribunal examinará la admisibilidad del recurso y, si procediere, lo concederá y elevará al Tribunal Calificador de Elecciones, conjuntamente con todos sus cuadernos y piezas.
+Los escritos de reposición y apelación deberán ser someramente fundados, indicar la resolución que motiva el recurso y contener peticiones concretas. El Tribunal examinará la admisibilidad del recurso y, si procediere, lo concederá y elevará al Tribunal Calificador de Elecciones, conjuntamente con todos sus cuadernos y piezas.
 
 Respecto a la resolución que se pronuncia acerca de la concesión o denegación del recurso de apelación se podrá interponer recurso de hecho ante el Tribunal Calificador de Elecciones, en la forma prevista en el Auto Acordado de este Tribunal, publicado el veinte de abril de dos mil doce.
 
@@ -266,7 +266,7 @@ De los requerimientos de cese de funciones de Alcaldes o Concejales.
 
 47º Tramitación, notificaciones y vista de la causa. La tramitación, notificaciones y vista de la causa de los requerimientos referidos se regirán por lo dispuesto en el Título II del presente Auto Acordado.
 
-48º Recursos. Contra las resoluciones del Tribunal procederá el recurso de apelación para ante el Tribunal Calificador de Elecciones, el que deberá ser interpuesto, en subsidio del recurso de reposición, dentro de cinco días hábiles contados desde la notificación de la resolución.
+48° Recursos. Contra las resoluciones dictadas en los procedimientos a que se refiere el Párrafo 3° del Capítulo I, procederá el recurso de apelación para ante el Tribunal Calificador de Elecciones, el que deberá ser interpuesto dentro de cinco días hábiles, contados desde la notificación de la resolución.
 
 49º Cumplimiento. Una vez ejecutoriada la sentencia el Alcalde removido, por las causales de notable abandono de sus deberes o por contravención grave a las normas de la probidad administrativa, quedará inhabilitado para el ejercicio de cualquier cargo público por el término de cinco años, contados desde la fecha de ejecutoria de la sentencia.
 
