@@ -44,11 +44,17 @@ Resolución:
 
 a.) Copropiedades ubicadas dentro de polígonos del Programa Quiero Mi Barrio y que cuentan con un financiamiento especial diferenciado que asciende a la suma de 85.016 UF, de conformidad a Resuelvo 17 de la resolución exenta Nº 1.538, de fecha 23 de febrero del año 2017; y lo establecido en el Directorio Regional del Programa de Mejoramiento de Condominios Sociales, sancionado mediante resolución exenta Nº 823, de fecha 22 de marzo del año 2017:
 
+.
+
 b.) Copropiedades seleccionadas de acuerdo al presupuesto regional para la asignación de subsidios, correspondientes a la postulación modalidad Subsidio a la comunidad de Copropietarios.
 
 c.) Copropiedades seleccionadas de acuerdo al presupuesto regional para la asignación de subsidios, correspondientes a la postulación modalidad Subsidio a la Familia.
 
+.
+
 d.) Establece tabla de resumen de asignación de recursos para este primer llamado.
+
+.
 
 2. Fíjese el pago de honorarios por concepto de Asistencia Técnica, de acuerdo a lo indicado en los resuelvos 30 y 31 de la Res. Ex. Nº 1.538 (V. y U.), de 23 de febrero de 2017, según la distribución que se señala a continuación:
 
@@ -57,5 +63,7 @@ d.) Establece tabla de resumen de asignación de recursos para este primer llama
 4. Fíjese el número de postulantes seleccionados en la Región de Valparaíso de acuerdo a la distribución regional de recursos consignada en el resuelvo número 16º de la resolución exenta Nº 1.538, de fecha 23 de febrero de 2017, para los proyectos que se financiarán conforme lo dispone el resuelvo 17 de la Resolución ya indicada, según se indica en la tabla que a continuación se inserta:
 
 5. Publíquese la presente resolución en el Diario Oficial, y ordénese a Serviu Región de Valparaíso para publicar, a lo menos en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes seleccionados y los respectivos proyectos, conforme al cuadro inserto en el resuelvo Nº 3 precedente, las que deberán contener a lo menos, la comuna, el Título y la modalidad de proyecto del cual se trate, nombre de cada postulante con su respectiva Cédula de Identidad y puntaje obtenido por el grupo o persona.
+
+> **Nota.** El numeral 4 de la Resolución 3291 Exenta, Vivienda, publicada el 20.11.2017, rectifica el cuadro inserto en el resuelvo N° 4 de la presente norma sólo en lo que dice relación con las copropiedades Condominio San Enrique N° 963, 971 y 989, Título I, y total, y la sumatoria de beneficiarios para Título I y total indicadas en la última fila del cuadro, de la manera que la citada norma indica.
 
 Anótese, comuníquese y publíquese.- Rodrigo Uribe Barahona, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Valparaíso.
