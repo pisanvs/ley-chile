@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 5 de junio de 2017 hasta el 29 de septiembre de 2017, por calzada poniente de Av. Los Pajaritos, entre Chacabuco y Av. 5 de Abril, comuna de Maipú.
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 5 de junio de 2017 hasta el 15 de diciembre del 2017, por calzada poniente de Av. Los Pajaritos, entre Chacabuco y Av. 5 de Abril, comuna de Maipú.
 
 2.- Establécese como medida de gestión de tránsito, en forma excepcional, en el mismo período anterior, que las calzadas que se indican a continuación, según sus sentidos de tránsito habitual, sean destinadas como vía exclusiva para el uso de buses de transporte público urbano de pasajeros, de la forma que se indica en el cuadro siguiente:
 
