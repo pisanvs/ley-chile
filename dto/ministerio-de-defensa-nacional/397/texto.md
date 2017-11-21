@@ -302,7 +302,7 @@ No será obligatorio el empleo de
 
 práctico de canales en los siguientes casos:
 
-1.- Naves mercantes y especiales al mando de capitanes de alta mar, oficiales de cubierta o puente u oficiales de pesca, que se encuentren debidamente habilitados para el efecto, conforme a los requisitos que fije la Dirección General para cada ruta, de acuerdo a las atribuciones de mando que le corresponda de conformidad con lo previsto por el Reglamento sobre Formación, Titulación y Carrera Profesional del Personal Embarcado, y en el Reglamento de Títulos Profesionales y Permisos de Embarco de Oficiales de la Marina Mercante y de Naves Especiales, para el caso de los oficiales de pesca.
+1.- Naves mercantes y especiales de pabellón chileno al mando de capitanes de alta mar, oficiales de cubierta o puente u oficiales de pesca, que se encuentren debidamente habilitados para el efecto, conforme a los requisitos que fije la Dirección General para cada ruta, de acuerdo a las atribuciones de mando que le corresponda de conformidad con lo previsto por el Reglamento sobre Formación, Titulación y Carrera Profesional del Personal Embarcado, y en el Reglamento de Títulos Profesionales y Permisos de Embarco de Oficiales de la Marina Mercante y de Naves Especiales, para el caso de los oficiales de pesca.
 
 Tales autorizaciones serán otorgadas, para los tramos correspondientes, una vez que los interesados acrediten haber navegado por aguas interiores ejerciendo funciones como capitán, patrón o de primer oficial de puente a bordo, cumpliendo las siguientes travesías, cuya descripción se señala en el artículo 45º:
 
