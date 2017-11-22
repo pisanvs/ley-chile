@@ -1,0 +1,7 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.607, de 28 de septiembre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+Modifícase la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.784, de 30 de septiembre de 1999, transferida a su actual titular Toralla S.A., sociedad chilena, RUT Nº 96.854.180-3, con domicilio en Ruta W 853, kilómetro 6.0, Camino a Queilén, Chonchi, por resolución 1.908, de 15 de diciembre de 2000, modificada por resolución 1.626, del 28 de octubre de 2002 y por resolución 1.729, de 3 de septiembre de 2009, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, en el sentido que la concesionaria debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 2.461, de 11 de agosto de 2016, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado en el N° 4 de la parte resolutiva del acto administrativo que otorgó la concesión de acuicultura.
+
+Santiago, 31 de octubre de 2017.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
