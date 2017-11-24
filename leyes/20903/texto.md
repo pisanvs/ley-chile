@@ -1626,7 +1626,7 @@ Los mentores reconocidos por el Centro, de acuerdo al decreto supremo Nº96, de 
 
 <!-- parte:9690891 -->
 
-El Presidente de la República enviará dentro del plazo de dos años a partir de la promulgación de la presente ley, un proyecto de ley que establezca un estatuto para los asistentes de la educación.
+Derogado.
 
 #### Artículo quincuagésimo segundo
 
