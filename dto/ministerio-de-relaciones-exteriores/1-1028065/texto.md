@@ -70,6 +70,8 @@ Dicho Consejo estará integrado por:
 
 7) Un representante del Instituto Nacional de Propiedad Industrial (INAPI)
 
+8) Un representante del Consejo Nacional de la Cultura y las Artes.
+
 Los miembros representantes del sector privado, quienes actuarán ad honorem, se renovarán anualmente, siendo su período prorrogable.
 
 En caso de ausencia o impedimento de los representantes de organismos públicos, éstos serán reemplazados por las personas designadas al efecto por las respectivas autoridades, en el orden que éstas determinen, mediante el acto administrativo que corresponda.
@@ -92,7 +94,7 @@ d) Ejercer las demás funciones que el Consejo le delegue.
 
 Secretario Ejecutivo del Consejo:
 
-El (La) Jefe(a) del Departamento Subdirección de Marcas Sectoriales de ProChile se desempeñará como Secretario(a) Ejecutivo(a) del Consejo, correspondiéndole asistirlo en el cumplimiento de sus funciones y actuar como coordinador del Consejo ante otros organismos públicos.
+El (La) Jefe(a) del Departamento Subdirección de Marcas Sectoriales de ProChile o la Unidad que lo reemplace se desempeñará como Secretario(a) Ejecutivo(a) del Consejo, correspondiéndole asistirlo en el cumplimiento de sus funciones y actuar como coordinador del Consejo ante otros organismos públicos.
 
 El (La) Secretario(a) Ejecutivo(a) será el (la) encargado(a) de convocar, por instrucción del Presidente del Consejo, las sesiones de Consejo, debiendo preparar toda la información de apoyo necesaria para que la sesión se lleve a cabo. Para tal efecto, preparará una tabla de sesión con los contenidos a tratar en la misma, que previamente hará llegar a los Consejeros y que será aprobada por consenso al inicio de la sesión.
 
