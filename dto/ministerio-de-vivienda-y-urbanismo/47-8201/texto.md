@@ -732,13 +732,15 @@ No podrá rechazarse el ingreso de una solicitud, si ésta cuenta con informe fa
 
 #### Artículo 1
 
-4.4. La Dirección de Obras Municipales, a petición del interesado, emitirá, en un plazo máximo de 7 días, un Certificado de Informaciones Previas, que contenga las condiciones aplicables al predio de que se trate, de acuerdo con las normas urbanísticas derivadas del Instrumento de Planificación Territorial respectivo.
+4.4. La Dirección de Obras Municipales, a petición de cualquier interesado, emitirá, en un plazo máximo de 7 días, un Certificado de Informaciones Previas, que contenga las condiciones aplicables al predio de que se trate, de acuerdo con las normas urbanísticas derivadas del Instrumento de Planificación Territorial respectivo. En caso que la citada Dirección no contare con información catastral sobre el predio, el plazo máximo para emitir el certificado será de 15 días.
 
-En caso que la citada Dirección no cuente con información catastral sobre el predio, el plazo máximo para emitir el certificado será de 15 días.
+El predio o lote sobre el cual se solicita la emisión de un Certificado de Informaciones Previas, debe corresponder a un predio inscrito en el Conservador de Bienes Raíces o en condiciones de ser enajenado por estar recibidas o garantizadas las obras de urbanización que le corresponden.
 
-El Certificado mantendrá su validez y vigencia mientras no se publiquen en el Diario Oficial las modificaciones a las normas urbanísticas, legales o reglamentarias pertinentes, que afecten la zona en que esté emplazado el predio.
+El Certificado mantendrá su validez mientras no entren en vigencia modificaciones al correspondiente instrumento de planificación territorial o a las disposiciones legales o reglamentarias pertinentes, que afecten las normas urbanísticas aplicables al predio. Asimismo, el Certificado de Informaciones Previas que se emita para un lote resultante de un proyecto de loteo o subdivisión afecta a declaratoria de utilidad pública, que cuente con el certificado de urbanización garantizada conforme a lo establecido en el inciso octavo del artículo 116 de la Ley General de Urbanismo y Construcciones, mantendrá su vigencia, mientras no se alteren las condiciones aplicables al lote por modificaciones a los planos del referido proyecto, o las normas urbanísticas legales o reglamentarias. En este último caso, la información que debe proporcionarse conforme al inciso sexto de este artículo, será la contenida en el proyecto aprobado de loteo o subdivisión afecta a declaratoria de utilidad pública, en lo que corresponda.
 
-En la solicitud de Certificado de Informaciones Previas se identificará el predio de que se trata, su superficie aproximada, y se deberá incluir un croquis con su ubicación, indicando las calles circundantes y las medidas aproximadas de cada uno de los deslindes.
+En la solicitud de Certificado de Informaciones Previas se identificará el predio de que se trata, su superficie aproximada, incluyendo un croquis que grafique su ubicación, las calles circundantes y las medidas aproximadas de cada uno de los deslindes.
+
+El Certificado de Informaciones Previas deberá estar fechado y numerado correlativamente, además de indicar el número de rol de la propiedad que lo identificará para todos los efectos y, en caso que corresponda, informar que el predio forma parte de un proyecto de loteo o subdivisión afecta, cuyas obras de urbanización se encuentran garantizadas, debiendo señalar, además en este caso, la resolución y fecha de aprobación o modificación de dicho proyecto. El original se entregará al interesado y una copia se archivará en la Dirección de Obras Municipales.
 
 El Certificado de Informaciones Previas deberá estar fechado y numerado correlativamente, además de indicar el número de rol de la propiedad que lo identificará para todos los efectos. El original se entregará al interesado y una copia se archivará en la Dirección de Obras Municipales.
 
@@ -770,13 +772,13 @@ g) Superficie de subdivisión predial mínima.
 
 h) Densidades.
 
-i) Alturas de cierros.
+i) Alturas de cierros hacia el espacio público, y porcentajes de transparencia de los mismos, cuando corresponda.
 
-j) Exigencias de estacionamientos para cada uno de los usos permitidos.
+j) Exigencias de estacionamientos, para cada uno de los usos permitidos o zonas o subzonas del instrumento de planificación territorial, incluidos los estacionamientos de visitas, cuando corresponda.
 
 k) Areas de riesgo o de protección que pudieren afectarlo, contempladas en el Instrumento de Planificación Territorial, señalando las condiciones o prevenciones que se deberán cumplir en cada caso.
 
-l) Zonas o Construcciones de Conservación Histórica o Zonas Típicas y Monumentos Nacionales, con sus respectivas reglas urbanísticas especiales.
+l) Zonas o Inmuebles de Conservación Histórica o Zonas Típicas y Monumentos Nacionales, con sus respectivas reglas urbanísticas especiales.
 
 m) Exigencias de plantaciones y obras de ornato en las áreas afectas a utilidad pública.
 
@@ -2088,7 +2090,7 @@ Cuando se trate de "loteos con construcción simultánea", se seguirán las mism
 
 En estos casos, el propietario estará obligado a urbanizar y ceder, únicamente, la superficie del predio afecta a utilidad pública indicada en el citado instrumento.
 
-3. Cuando se trate de la división de un predio que está afecto a utilidad pública por el Instrumento de Planificación Territorial y que no contemple aperturas de nuevas vías públicas por iniciativa del propietario; en caso contrario corresponderá a loteo.
+3. Cuando se trate de la subdivisión afecta a declaratoria de utilidad pública por el Instrumento de Planificación Territorial y que no contemple aperturas de nuevas vías públicas por iniciativa del propietario; en caso contrario corresponderá a loteo.
 
 En tal caso, con anterioridad a que el Director de Obras Municipales autorice la enajenación de los sitios resultantes, el propietario deberá urbanizar y ceder, únicamente, la superficie del predio afecta a utilidad pública indicada en el citado instrumento, con un máximo del 30% de la superficie de éste.
 
@@ -3656,7 +3658,7 @@ De igual forma, al emitirse el certificado aludido en el inciso primero de este 
 
 4.6. Los Notarios no autorizarán escrituras de transferencias de dominio de todo o parte de un terreno loteado, ni los Conservadores de Bienes Raíces inscribirán transferencias de dominio de los lotes si en el plano general de loteo aprobado no figura la autorización expresa del Director de Obras Municipales para transferir el dominio de los lotes resultantes por encontrarse ejecutadas o garantizadas las obras de urbanización correspondientes.
 
-En caso de recepción definitiva parcial, la autorización para transferir sólo podrá recaer sobre la parte cuyas obras de urbanización se han ejecutado o garantizado.
+En caso de recepción definitiva parcial, la autorización para transferir sólo podrá recaer sobre la parte cuyas obras de urbanización se han ejecutado.
 
 La restricción indicada en el inciso primero de este artículo no afectará el archivo de planos de loteo o subdivisión. Tampoco afectará la inscripción de transferencias de dominio de lotes resultantes de subdivisiones, siempre que el plano aprobado especifique que se trata de una subdivisión y no de un loteo.
 
