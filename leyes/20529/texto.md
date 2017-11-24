@@ -18,7 +18,9 @@ El Sistema tendrá por objeto, asimismo, propender a asegurar la equidad, entend
 
 Se entenderá por educación el proceso de aprendizaje permanente que abarca las distintas etapas de la vida de las personas y que tiene como finalidad alcanzar su desarrollo espiritual, ético, moral, afectivo, intelectual, artístico y físico, mediante la transmisión y el cultivo de valores, conocimientos y destrezas.
 
-La educación se enmarca en el respeto y valoración de los derechos humanos y de las libertades fundamentales, de la diversidad multicultural y de la paz, y de la identidad nacional, capacitando a las personas para conducir su vida en forma plena, para convivir y participar en forma responsable, tolerante, solidaria, democrática y activa en la comunidad, y para trabajar y contribuir al desarrollo del país y se manifiesta por medio de la enseñanza formal o regular, de la enseñanza no formal y de la educación informal.
+La educación se enmarca en el respeto y valoración de los derechos humanos y de las libertades fundamentales, de la diversidad multicultural y de la paz, y de la identidad nacional y local, capacitando a las personas para conducir su vida en forma plena, para convivir y participar en forma responsable, tolerante, solidaria, democrática y activa en la comunidad, y para trabajar y contribuir al desarrollo del país y se manifiesta por medio de la enseñanza formal o regular, de la enseñanza no formal y de la educación informal.
+
+Una educación de calidad siempre comprenderá los principios educativos de carácter integral.
 
 #### Artículo 2º
 
@@ -582,21 +584,23 @@ Para el cumplimiento de sus funciones, la Superintendencia tendrá las siguiente
 
 a) Fiscalizar que los establecimientos educacionales y sus sostenedores reconocidos oficialmente cumplan con la normativa educacional.
 
-b) Fiscalizar la rendición de la cuenta pública del uso de todos los recursos, públicos y privados, de acuerdo al Párrafo 3º de este Título, a través de procedimientos contables simples generalmente aceptados. Dichas rendiciones consistirán en un estado anual de resultados que contemple, de manera desagregada, todos los ingresos y gastos de cada establecimiento. Dichos antecedentes estarán, también, a disposición de la comunidad educativa a través del Consejo Escolar.
+b) Fiscalizar la rendición de la cuenta pública del uso de todos los recursos, públicos y privados, de acuerdo al Párrafo 3º de este Título, conforme a los principios de contabilidad generalmente aceptados. Dichos antecedentes estarán, también, a disposición de la comunidad educativa a través del Consejo Escolar.
 
-c) Realizar y ordenar auditorías al estado anual de resultados mencionado en la letra anterior.
+c) Realizar auditorías o autorizar a instituciones externas para que las efectúen a solicitud del sostenedor, siempre que existan, en ambos casos, sospechas fundadas respecto a la veracidad y exactitud de la información que se le haya proporcionado a la Superintendencia. Cuando las auditorías sean realizadas por instituciones externas, el financiamiento de éstas lo asumirá el propio sostenedor y será la Superintendencia quien las designe de entre una terna propuesta por el sostenedor que, en todo caso, deberá estar compuesta solo de aquellas instituciones registradas para tales efectos en la Superintendencia de Valores y Seguros, de conformidad al Título XXVIII de la ley Nº 18.045.
 
 d) Ingresar a los establecimientos educacionales y dependencias del sostenedor que tengan relación con la administración del establecimiento educacional, a objeto de realizar las funciones que le son propias. En el ejercicio de esta atribución, los funcionarios de la Superintendencia no podrán impedir el normal desarrollo de las actividades pedagógicas del establecimiento educacional.
 
-Respecto de los establecimientos educacionales particulares pagados, el ejercicio de esta atribución exigirá la existencia de una denuncia o reclamo conforme al Párrafo 4º de este Título, salvo que se trate de la verificación del cumplimiento de los requisitos exigidos para mantener el reconocimiento oficial del Estado. En este último caso, la Superintendencia no podrá examinar los libros y cuentas de la entidad fiscalizada.
+Respecto de los establecimientos educacionales particulares pagados, el ejercicio de esta atribución exigirá la existencia de una denuncia o reclamo conforme al Párrafo 4º de este Título, salvo que se trate de la verificación del cumplimiento de los requisitos exigidos para mantener el reconocimiento oficial del Estado o del título preliminar del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación. En este último caso, la Superintendencia no podrá examinar los libros y cuentas de la entidad fiscalizada.
 
-e) Acceder a cualquier documento, libro o antecedente que sea necesario para fines de fiscalización, sin impedir el normal desarrollo de las actividades pedagógicas del establecimiento educacional, y examinar, por los medios que estime del caso, todas las operaciones, bienes, libros, cuentas, archivos y documentos de las personas o entidades fiscalizadas, y disponer de todos los antecedentes que juzgue necesarios para la mejor fiscalización. La Superintendencia, mediante resolución, determinará aquellos libros, archivos y documentos que deberán estar permanentemente disponibles para su examen en el propio establecimiento educacional. Las mismas facultades, y en los mismos términos, tendrá la Superintendencia respecto de los terceros que administren los establecimientos educacionales.
+e) Acceder y solicitar cualquier documento, libro o antecedente que sea necesario para fines de fiscalización, sin impedir el normal desarrollo de las actividades pedagógicas del establecimiento educacional, y examinar, por los medios que estime del caso, todas las operaciones, bienes, libros, cuentas, archivos y documentos de las personas o entidades fiscalizadas, y disponer de todos los antecedentes que juzgue necesarios para la mejor fiscalización. La Superintendencia, mediante resolución, determinará aquellos libros, archivos y documentos que deberán estar permanentemente disponibles para su examen en el propio establecimiento educacional. Las mismas facultades, y en los mismos términos, tendrá la Superintendencia respecto de los terceros que administren los establecimientos educacionales.
+
+La Superintendencia deberá mantener un registro de todas las cuentas bancarias en el que consten los ingresos que se destinen al cumplimiento de los fines educativos del establecimiento, de conformidad al artículo 3º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, pudiendo requerir, mediante resolución fundada, los movimientos de estas operaciones en dichas cuentas bancarias y los antecedentes que los respalden. En relación a esta última facultad, ante la negativa del titular de la cuenta, la Superintendencia podrá solicitar al juez competente la entrega de dicha información.
 
 Respecto de los establecimientos educacionales particulares pagados, el ejercicio de esta atribución exigirá la existencia de una denuncia o reclamo conforme al Párrafo 4º de este Título.
 
 f) Citar a declarar a los representantes legales, administradores y dependientes de las instituciones fiscalizadas respecto de algún hecho que estime necesario para resolver alguna denuncia que esté conociendo o cuando de oficio, en un procedimiento administrativo, lo determine en cumplimiento de sus funciones. Las mismas facultades, y en los mismos términos, tendrá la Superintendencia respecto de los terceros que administren establecimientos educacionales. La citación deberá considerar los horarios internos que posea la institución fiscalizada.
 
-Respecto de los establecimientos educacionales particulares pagados, el ejercicio de esta atribución exigirá la existencia de una denuncia o reclamo conforme al Párrafo 4º de este Título, salvo que se trate de la verificación del cumplimiento de los requisitos exigidos para mantener el reconocimiento oficial del Estado.
+Respecto de los establecimientos educacionales particulares pagados, el ejercicio de esta atribución exigirá la existencia de una denuncia o reclamo conforme al Párrafo 4º de este Título, salvo que se trate de la verificación del cumplimiento de los requisitos exigidos para mantener el reconocimiento oficial del Estado o del título preliminar del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación.
 
 g) Absolver consultas, investigar y resolver denuncias que los distintos miembros de la comunidad escolar presenten.
 
@@ -632,7 +636,7 @@ s) Realizar las demás funciones que le encomienden las leyes o los reglamentos.
 
 #### Artículo 50
 
-Las facultades señaladas en el artículo anterior no obstarán a aquellas facultades generales de fiscalización que le correspondan a la Contraloría General de la República, en el ámbito de su competencia.
+Las facultades señaladas en el artículo anterior no obstarán a aquellas facultades generales de fiscalización que le correspondan a la Contraloría General de la República y al Servicio de Impuestos Internos, en el ámbito de su competencia.
 
 ### Párrafo 2º
 
@@ -670,17 +674,33 @@ De la rendición de cuenta pública del uso de los recursos
 
 #### Artículo 54
 
-Los sostenedores de establecimientos educacionales subvencionados o que reciban aportes del Estado deberán rendir cuenta pública del uso de todos los recursos mediante procedimientos contables simples, generalmente aceptados, respecto de cada uno de sus establecimientos educacionales, de acuerdo a los instrumentos y formatos estandarizados que fije la Superintendencia. Adicionalmente, los sostenedores que posean más de un establecimiento educacional subvencionado o que reciba aportes del Estado, deberán entregar un informe consolidado del uso de los recursos respecto de la totalidad de sus establecimientos. El análisis de la rendición de cuentas sólo implicará un juicio de legalidad del uso de los recursos y no podrá extenderse al mérito del uso de los mismos.
+Los sostenedores de establecimientos educacionales subvencionados o que reciban aportes regulares del Estado deberán rendir, anualmente, cuenta pública del uso de todos sus recursos, conforme a los principios de contabilidad generalmente aceptados, respecto de la entidad sostenedora y de cada uno de sus establecimientos educacionales.
 
-Además, previa resolución que señale la existencia de sospechas fundadas respecto a la veracidad y exactitud de la información que le hayan proporcionado, la Superintendencia podrá realizar auditorías o requerir, a petición del sostenedor del establecimiento educacional, que instituciones externas las efectúen, en cuyo caso su financiamiento corresponderá al sostenedor. Si estas auditorías fueran realizadas por instituciones externas, la elección de la institución será realizada por el sostenedor de entre aquellas que se encuentren contenidas en el registro que para tales efectos lleva la Superintendencia de Valores y Seguros.
+Los recursos recibidos durante el año calendario anterior, se rendirán hasta el 31 de marzo del año siguiente.
+
+Asimismo, como parte del proceso de rendición de cuentas, los sostenedores de establecimientos educacionales subvencionados o que reciban aportes regulares del Estado, deberán administrar todos los recursos destinados al cumplimiento de los fines educativos del establecimiento, de conformidad al artículo 3º del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, en cuentas bancarias exclusivas, informadas a la Superintendencia de Educación.
+
+#### Artículo 54 bis
+
+Los establecimientos educacionales que reciben aportes del Estado deberán, además, presentar una declaración con la información que requiera el Servicio de Impuestos Internos, en la forma y plazo que éste establezca mediante resolución. En dicha declaración, el Servicio podrá solicitar, entre otros antecedentes, un desglose de los ingresos tributables, rentas exentas e ingresos no constitutivos de renta obtenidos por estas entidades, así como también de todos los costos, gastos y desembolsos asociados a cada una de las categorías de rentas e ingresos antes mencionados.
+
+El retardo u omisión en la presentación de la referida declaración jurada se sancionará conforme a lo dispuesto en el inciso primero del Nº 1 del artículo 97 del Código Tributario. Si la declaración presentada conforme a este número fuere maliciosamente falsa, se sancionará conforme a lo dispuesto por el inciso primero, del Nº4, del artículo 97 del Código Tributario.
 
 #### Artículo 55
 
-Si en las auditorías a que se refiere el artículo anterior se detectaren infracciones que pudieran ser objeto de sanción, la Superintendencia deberá realizar las observaciones y abrir el procedimiento sancionatorio correspondiente y formular los cargos que procedieren.
+Las rendiciones de cuenta consistirán en estados financieros que contengan la información de manera desagregada, según las formas y procedimientos que establezca la Superintendencia de Educación, con especial consideración de las características de cada establecimiento educacional, y exigiendo, según sea el caso, procedimientos que sean eficientes y proporcionados a la gestión de cada sostenedor y sus respectivos establecimientos. Para tal efecto, la Superintendencia deberá tener en consideración factores tales como la ruralidad, número de estudiantes matriculados y nivel socioeconómico de cada establecimiento y sostenedor.
+
+Adicionalmente, los sostenedores que posean más de un establecimiento educacional subvencionado o que reciba aportes del Estado, deberán entregar un informe consolidado del uso de los recursos respecto de la totalidad de sus establecimientos.
+
+La Superintendencia pondrá a disposición de los sostenedores formatos estandarizados e instrumentos que sean necesarios para llevar a cabo de forma eficiente los procesos de rendición de cuentas. Se procurará, asimismo, facilitar programas computacionales u otros mecanismos que apoyen a los sostenedores en el registro de sus operaciones y la confección de los libros que se les exijan.
+
+El análisis de la rendición de cuentas sólo implicará un juicio de legalidad del uso de los recursos y no podrá extenderse al mérito del uso de los mismos.
 
 #### Artículo 56
 
-La Superintendencia, en conjunto con el Ministerio de Educación, establecerá un mecanismo común de rendición de cuenta pública del uso de los recursos, a fin de simplificar y facilitar el cumplimiento de dicha obligación establecida en ésta o en otras leyes por parte de los sostenedores. Las características, modalidades y condiciones de este mecanismo serán establecidas en un reglamento expedido por el Ministerio de Educación.
+Dentro del marco de sus atribuciones, y con el objeto de dar cumplimiento a los fines que la ley impone a cada uno de estos organismos, la Superintendencia de Educación, el Ministerio de Educación y el Servicio de Impuestos Internos, actuarán coordinadamente y se remitirán recíprocamente la información que sea necesaria para el correcto ejercicio de sus funciones de fiscalización. El contenido, plazo y forma en que se enviará esta información, se determinará en un reglamento que deberá dictarse conjuntamente por los Ministerios de Hacienda y Educación.
+
+Para los efectos de lo dispuesto en este artículo, el Servicio de Impuestos Internos se encontrará eximido del secreto tributario establecido en el inciso segundo del artículo 35 del decreto ley Nº830, del Ministerio de Hacienda que fija el texto del Código Tributario. La información que entregue el Servicio de Impuestos Internos a partir del presente artículo podrá ser utilizada únicamente para los fines propios de las instituciones que la reciban y bajo estrictos deberes de reserva y confidencialidad.
 
 ### Párrafo 4º
 
@@ -838,6 +858,8 @@ g) Hacer obligatorio el pago de matrícula u otros cobros que tengan carácter v
 
 h) Toda otra que haya sido expresamente calificada como grave por la ley, especialmente las contempladas en el artículo 50 del decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998 y en el artículo 34 de la ley N° 20.248.
 
+i) Incumplir las normas señaladas en los artículos 3º, 3º bis y 6º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº2, de 1996, sobre subvención del Estado a Establecimientos Educacionales.
+
 #### Artículo 77
 
 Son infracciones menos graves:
@@ -850,7 +872,9 @@ c) Infringir los deberes y derechos establecidos en la normativa educacional que
 
 d) Cobrar indebidamente valores superiores a los establecidos.
 
-e) Toda otra infracción que sea expresamente calificada como tal por la ley.
+e) Tratándose de los establecimientos que reciben subvención o aportes del Estado, realizar maliciosamente publicidad que induzca a error respecto de la naturaleza del proyecto educativo del establecimiento, o que inhiba arbitrariamente la postulación de determinados estudiantes al establecimiento educacional de que se trate.
+
+f) Toda otra infracción que sea expresamente calificada como tal por la ley.
 
 En caso de infracciones que tengan el carácter de menos graves, sólo podrán aplicarse las sanciones de amonestación y multa establecidas en esta ley.
 
@@ -1002,7 +1026,7 @@ El administrador provisional asumirá las facultades que competen al sostenedor 
 
 Sin perjuicio de lo dispuesto en el inciso anterior, el administrador provisional tendrá, especialmente, las siguientes facultades:
 
-a) Asumir la representación legal del establecimiento, sea particular subvencionado, municipal o cuyo sostenedor sea otra entidad creada por ley.
+a) Asumir la representación legal del establecimiento. Esta representación legal lo faculta, expresamente, para ejercer la titularidad de las acciones administrativas, civiles y/o penales para perseguir la responsabilidad, en su caso, de los administradores y/o sostenedores.
 
 b) Asegurar la continuidad escolar y procurar la disponibilidad de matrícula para los alumnos del establecimiento, de conformidad a lo establecido en esta ley.
 
@@ -1016,7 +1040,7 @@ f) Constituir prenda sobre los bienes del establecimiento, cuando sea estrictame
 
 g) Devolver la administración de los bienes al sostenedor al término de su gestión.
 
-h) Coordinar, en caso de pérdida definitiva del reconocimiento oficial del Estado por parte del establecimiento educacional, por renuncia o revocación, la reubicación de los y las estudiantes en conjunto con la Secretaría Regional Ministerial de Educación correspondiente, y adoptar todas las medidas necesarias para asegurar su derecho a la educación.
+h) Coordinar, en caso de pérdida definitiva del reconocimiento oficial del Estado por parte del establecimiento educacional, la reubicación de los y las estudiantes en conjunto con la Secretaría Regional Ministerial de Educación correspondiente, y adoptar todas las medidas necesarias para asegurar su derecho a la educación.
 
 Las facultades del administrador provisional serán indelegables.
 

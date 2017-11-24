@@ -1614,7 +1614,7 @@ Para efectos de lo establecido en la letra a) del artículo 18 Q se reconocerán
 
 Los mentores reconocidos por el Centro, de acuerdo al decreto supremo Nº96, de 2009, del Ministerio de Educación, mantendrán vigente esta calidad y deberán ser inscritos en el registro establecido en el artículo 18 Q, sin perjuicio que al 31 de julio de 2017 deberán acreditar que cumplen con la exigencia de encontrarse reconocidos, a lo menos, en el tramo profesional avanzado. En caso contrario se procederá a la cancelación de su inscripción en el registro.
 
-Artículo quincuagésimo primero.- El Presidente de la República enviará dentro del plazo de dos años a partir de la promulgación de la presente ley, un proyecto de ley que establezca un estatuto para los asistentes de la educación.
+Artículo quincuagésimo primero.- Derogado.
 
 Artículo quincuagésimo segundo.- El Presidente de la República enviará uno o más proyectos de ley que regulen la educación superior, los que incluirán normas particulares para la formación inicial docente.
 

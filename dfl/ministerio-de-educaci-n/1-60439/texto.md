@@ -816,9 +816,7 @@ Del ingreso a la Carrera Docente
 
 #### Artículo 20
 
-El ingreso de los profesionales de la educación a la carrera docente del sector municipal se realizará mediante la incorporación a su dotación docente.
-
-Se entiende por dotación docente el número total de profesionales de la educación que sirven funciones de docencia, docencia directiva y técnico-pedagógica, que requiere el funcionamiento de los establecimientos educacionales del sector municipal de una comuna, expresada en horas cronológicas de trabajo semanales, incluyendo a quienes desempeñen funciones directivas y técnico- pedagógicas en los organismos de administración educacional de dicho sector.
+Se entiende por dotación docente el número total de profesionales de la educación que sirven funciones de docencia, docencia directiva y técnico-pedagógica, que requiere el funcionamiento de los establecimientos educacionales dependientes de un Servicio Local en su respectivo ámbito territorial, expresada en horas cronológicas de trabajo semanales.
 
 #### Artículo 21
 
@@ -946,13 +944,11 @@ El secretario municipal de la respectiva comuna actuará como ministro de fe.
 
 Establécese el siguiente mecanismo de selección directiva para proveer las vacantes de los cargos de director de establecimientos educacionales:
 
-Existirá una comisión calificadora integrada por el Jefe del Departamento de Administración de Educación Municipal o de la Corporación Municipal, según corresponda; un miembro del Consejo de Alta Dirección Pública, creado en la ley Nº 19.882, o un representante de este Consejo elegido de una lista de profesionales de reconocido prestigio en el ámbito educacional aprobada por el propio Consejo; y un docente perteneciente a la misma dotación municipal que se desempeñe en otro establecimiento educacional elegido por sorteo. En este último caso, el docente deberá cumplir con alguno de los siguientes requisitos: Pertenecer a la red de Maestros de Maestros o estar acreditado como Profesor de Excelencia Pedagógica, según lo dispuesto en la ley N° 19.715, o haber sido evaluado como profesor de desempeño destacado, de acuerdo a la evaluación dispuesta en el artículo 70 de esta ley.
-
-Para efectos de conformar la comisión calificadora, en el caso que el municipio tenga un solo establecimiento educacional o que ningún docente de la dotación cumpla con los requisitos establecidos en el inciso anterior, el Jefe del Departamento de Administración de Educación Municipal o de la Corporación Municipal lo elegirá por sorteo entre los pertenecientes a la dotación respectiva.
+Existirá una comisión calificadora integrada por un representante del Director Ejecutivo del Servicio Local; un miembro del Consejo de Alta Dirección Pública, creado en la ley Nº 19.882, o un representante de este Consejo elegido de una lista de profesionales de reconocido prestigio en el ámbito educacional aprobada por el propio Consejo, quien la presidirá; y un director de establecimiento educacional de dependencia del Servicio Local que haya sido electo por el sistema establecido en esta ley, el cual será elegido por sorteo.
 
 Estarán inhabilitados para formar parte de las comisiones calificadoras a que hace referencia el presente artículo quienes tengan, con cualquiera de los postulantes, una relación de parentesco hasta el segundo grado de consanguinidad y tercero por afinidad.
 
-Los concursos a los cuales convocarán las respectivas municipalidades serán administrados por su Departamento de Administración de Educación Municipal o por la Corporación Municipal, según corresponda. Dichos organismos pondrán todos los antecedentes a disposición de la comisión calificadora.
+Los concursos a los que hace referencia este artículo serán convocados y administrados por los respectivos Servicios Locales, los cuales pondrán todos los antecedentes a disposición de la comisión calificadora.
 
 Un reglamento establecerá las normas de constitución y funcionamiento de estas comisiones.
 
@@ -1184,7 +1180,7 @@ docente
 
 #### Artículo 47
 
-Los profesionales de la educación del sector municipal gozarán de las siguientes asignaciones:
+Los profesionales de la educación de los Servicios Locales de Educación Pública gozarán de las siguientes asignaciones:
 
 a) Asignación de Experiencia.
 
@@ -1198,7 +1194,7 @@ e) Bonificación de Reconocimiento Profesional.
 
 f) Bonificación de Excelencia Académica.
 
-Los sostenedores podrán establecer asignaciones especiales de incentivo profesional, las que se otorgarán por razones fundadas en el mérito, tendrán el carácter de temporal o permanente y se establecerán para algunos o la totalidad de los profesionales de la educación, de uno o más de los establecimientos de la respectiva municipalidad.
+Los sostenedores podrán establecer asignaciones especiales de incentivo profesional, las que se otorgarán por razones fundadas en el mérito, tendrán el carácter de temporal o permanente y se establecerán para algunos o la totalidad de los profesionales de la educación, de uno o más de los establecimientos del Servicio Local respectivo.
 
 #### Artículo 48
 
@@ -1350,7 +1346,7 @@ El monto establecido en la letra a) se reajustará en la misma oportunidad y por
 
 #### Artículo 64
 
-Los profesionales de la educación de los establecimientos dependientes del sector municipal y los de los establecimientos del sector particular subvencionado que tengan una remuneración total inferior a las cantidades señaladas en los incisos primero y segundo del artículo 62, tendrán derecho a percibir la diferencia como planilla complementaria para alcanzar las cantidades indicadas. Dicha planilla complementaria tendrá el carácter de imponible y tributable y será absorbida con futuros reajustes y otros incrementos de remuneraciones.
+Los profesionales de la educación de los establecimientos dependientes de los Servicios locales y los de los establecimientos del sector particular subvencionado que tengan una remuneración total inferior a las cantidades señaladas en los incisos primero y segundo del artículo 62, tendrán derecho a percibir la diferencia como planilla complementaria para alcanzar las cantidades indicadas. Dicha planilla complementaria tendrá el carácter de imponible y tributable y será absorbida con futuros reajustes y otros incrementos de remuneraciones.
 
 #### Artículo 65
 
