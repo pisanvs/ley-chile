@@ -96,6 +96,26 @@ Cuando entren en operación las concesiones de Plantas de Revisión Técnica en 
 
 Quinquies.- Cuando entren en operación las concesiones de Plantas de Revisión Técnica en la Región Metropolitana posteriores a la publicación en el Diario Oficial del DS Nº 2 de 26 de enero de 2012, del Ministerio del Medio Ambiente o a más tardar el día 1º de abril de 2015, los límites máximos permitidos en la Región Metropolitana, de los vehículos cuyos datos de marca y modelo no se encuentren en la nómina con los datos de la Inercia Equivalente por marca y modelo para la correcta aplicación de la norma, establecida por el Ministerio de Transportes y Telecomunicaciones, serán los siguientes:
 
+#### Artículo 5°
+
+sexies.- A contar de 12 meses de publicado en el Diario Oficial el DS N°31, de 2016, del Ministerio del Medio Ambiente, los límites máximos de emisión permitidos en la Región Metropolitana de Santiago, serán los siguientes:
+
+Tabla 15: Límites de emisión vehículos livianos de pasajeros con sello verde o sello amarillo
+
+.
+
+Tabla 16: Límites de emisión vehículos comerciales livianos y medianos año 1999 y posteriores con sello verde o sello amarillo
+
+.
+
+Tabla 17: Límites de emisión vehículos comerciales livianos y medianos año 1998 y anteriores con sello verde
+
+Para la correcta aplicación de la norma, los vehículos cuya marca y modelo no se encuentren en la nómina con los datos de la Inercia Equivalente por marca y modelo establecida por el Ministerio de Transportes y Telecomunicaciones, deberán cumplir los límites siguientes:
+
+Tabla 18: Límites de emisión por cilindrada.
+
+.
+
 ## Título Tercero
 
 Procedimientos de Medición y Control de los

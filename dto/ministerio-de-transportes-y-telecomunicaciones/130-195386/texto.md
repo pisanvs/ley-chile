@@ -250,6 +250,42 @@ Las mediciones se efectuarán conforme al ciclo ETC (Ciclo Europeo de Transició
 
 En la verificación de emisiones contaminantes de estos vehículos que se efectúe en la vía pública o en las plantas revisoras, la opacidad en flujo parcial en carga y en el ensayo de aceleración libre deberá ser de 0,24 m-1, como máximo. En ambos casos, las mediciones se efectuarán conforme al método indicado en la letra d) del artículo 4°.
 
+#### Artículo 3°
+
+quinquies.- Los buses destinados a la prestación de servicios de locomoción colectiva urbana en la Provincia de Santiago y en las comunas de San Bernardo y Puente Alto, respecto de los cuales se solicite su primera inscripción en el Registro de Servicios de Transporte de Pasajeros de Santiago, a partir de 24 meses contados desde la entrada en vigencia del DS N°31, de 2016, del Ministerio del Medio Ambiente, deberán contar con un motor cuyas emisiones contaminantes no superen los niveles máximos de emisiones señalados en los literales a.1) o a.2):
+
+a.1) Emisiones provenientes del sistema de escape, en gramos/caballos de fuerza al freno-hora (g/ bHp-h):
+
+Tabla 1: Motores Encendidos por Compresión
+
+.
+
+Las mediciones se efectuarán conforme a los métodos normalizados definidos por la Agencia de Protección Ambiental de los Estados Unidos de América (US-EPA), indicados en el CFR-40 Part 1065 procedures (Code of Federal Regulations), Diesel Engines.
+
+Tabla 2: Motores Ciclo Otto
+
+.
+
+(1) Solo para motores con gas natural
+
+(2) 5,0 (g/bHp-h), para motores con gas natural
+
+Las mediciones se efectuarán conforme a los métodos normalizados definidos por la Agencia de Protección Ambiental de los Estados Unidos de América (US-EPA), indicados en el CFR-40 Part 1065 procedures (Code of Federal Regulations), Otto-Cycle Engines.
+
+a.2) Emisiones provenientes del sistema de escape, en miligramos/kiloWatt-hora (mg/kW-h). Deberán cumplir con los niveles de emisión señalados en la Tabla 3.
+
+Tabla 3. Emisiones del sistema de escape
+
+.
+
+PI= Encendido por chispa
+
+CI= Encendido por compresión
+
+Las mediciones se efectuarán mediante los ciclos de pruebas de conducción armonizadas a escala mundial de condiciones transitorias (ciclo mundial transitorio o WHTC) o de condiciones estacionarias (ciclo mundial estacionario o WHSC), en conformidad al Reglamento (CE) N° 595/2009 del Parlamento Europeo y del Consejo.
+
+Los buses cuyos motores sean mecánicamente aptos para cumplir con niveles máximos de emisión de un estándar superior a los exigidos por las normas de emisión vigentes, siempre que estén dadas las condiciones técnicas para ello y en conformidad con las condiciones normalizadas de medición, homologación y/o certificación, estipuladas por la Agencia Ambiental de Estados Unidos de Norteamérica (US-EPA), en el llamado "Code of Federal Regulation", o por las directivas de la Comunidad Europea, o por el Estado de California, en el llamado "California Code of Regulation", que en adelante se denominará como la legislación internacional, podrán solicitar al momento y adicionalmente a la homologación y/o certificación de los estándares vigentes en conformidad con lo dispuesto en el presente decreto, el reconocimiento del estándar superior, en correspondencia con dicha legislación internacional. Para ello deberán cumplir con los mismos procesos de análisis técnicos establecidos para la homologación de los estándares vigentes.
+
 ## Título III
 
 Procedimiento de medición
