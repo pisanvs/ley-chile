@@ -1,0 +1,9 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.601, de 28 de septiembre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1. Modifícase la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 2.272, del 30 de diciembre de 1999, modificada por resolución 1.602, del 31 de julio de 2009, ambas del Ministerio de Defensa Nacional, Subsecretaría de Marina, otorgada a la sucesión del Sr. José Nelson Avendaño Barrientos (Q.E.P.D.), RUT 53.319.843-0, domicilio en Casilla Postal 97, Correos de Chile, Quellón, por resolución 3.524, del 12 de octubre de 2011, modificada por resolución 2.403, del 28 de agosto de 2015, ambas del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, en el sentido que la concesionaria debe dar cabal cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 2.542, del 30 de septiembre de 2011, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca, modificada por resolución exenta 779, del 1 de marzo de 2017, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el N° 4 de la parte resolutiva del acto administrativo que otorgó la concesión de acuicultura.
+
+2. Esta concesión de acuicultura tiene por objeto único la realización de actividades de cultivo en el área concedida y deberá amparar la instalación y operación del cultivo del grupo de especies mitílidos.
+
+Santiago, 17 de octubre de 2017.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
