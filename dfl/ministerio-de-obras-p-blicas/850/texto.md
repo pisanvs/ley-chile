@@ -212,7 +212,7 @@ e) Proponer al Ministerio las expropiaciones necesarias para la ejecución de la
 
 f) Con acuerdo del Ministro de Obras Públicas destinar, comisionar y encomendar cometidos al personal de la Dirección General de Obras Públicas y Servicios dependientes, cuando éstos deban llevarse a cabo en distintos Servicios de aquel en que se encuentra nombrado el funcionario;
 
-g) Someter a la aprobación del Presidente de la República, con la anuencia del Ministro de Obras Públicas e informe del Ministerio de Hacienda, la ejecución, reparación o conservación de obras públicas fiscales por el sistema regulado en el art. 87;
+g) Eliminado.
 
 h) Fijar las normas sobre la información estadística que corresponde llevar a la Dirección de Planeamiento de acuerdo con la letra f) del artículo 15º e informar mensualmente al Ministro de Obras Públicas y a la Dirección Presupuestos del Ministerio de Hacienda las necesidades mensuales de fondos para la atención de la Dirección General de Obras Públicas;
 
@@ -429,6 +429,62 @@ ll) Proporcionar a la Dirección General de Obras Públicas y a la Dirección de
 m) Celebrar los actos y contratos y adoptar las resoluciones que sean necesarias para el cumplimiento de los fines de su Servicio, de acuerdo con sus atribuciones y delegar éstas en los funcionarios de su dependencia con la aprobación del Director General, y
 
 n) Atender los demás asuntos de su incumbencia que les encomiende el Director General.
+
+#### Artículo 22 bis
+
+Créase la Dirección General de Concesiones de Obras Públicas, dependiente del Ministerio de Obras Públicas, que tendrá como objeto la ejecución, reparación, mantención, conservación y explotación de obras públicas fiscales conforme al artículo 87, y la provisión de equipamiento o la prestación de servicios asociados conforme a lo establecido en el decreto supremo N° 900, de 1996, del Ministerio de Obras Públicas, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 164, de 1991, del Ministerio de Obras Públicas, Ley de Concesiones de Obras Públicas, como también la fiscalización del debido cumplimiento de las normas legales y administrativas aplicables a los contratos de concesión, sin perjuicio de las demás funciones que le encomienden las leyes.
+
+La Dirección General de Concesiones de Obras Públicas será un servicio que estará afecto al Sistema de Alta Dirección Pública establecido en el Título VI de la ley N° 19.882.
+
+La Dirección General de Concesiones de Obras Públicas estará a cargo de un Director General, que tendrá la calidad de alto directivo público, de conformidad a las normas contenidas en el Título VI de la ley N° 19.882, y estará bajo la dependencia del Ministro de Obras Públicas.
+
+El personal de la Dirección General de Concesiones de Obras Públicas se regirá por las disposiciones de la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, y en materia de remuneraciones, por las normas del decreto ley N° 249, de 1974, y su legislación complementaria.
+
+#### Artículo 22 ter
+
+Para el cumplimiento de su objeto, corresponderán al Director General de Concesiones de Obras Públicas las siguientes funciones y atribuciones:
+
+a) Someter a la aprobación del Ministro de Obras Públicas la propuesta de ejecución, reparación, mantención, conservación o explotación de obras públicas fiscales por el sistema regulado en el artículo 87 y en la Ley de Concesiones de Obras Públicas. El Ministro de Obras Públicas someterá a la aprobación del Presidente de la República la propuesta, la que deberá contar con informe del Ministerio de Hacienda.
+
+Para el ejercicio de esta facultad podrá requerir a las demás direcciones operativas del Ministerio de Obras Públicas la asesoría técnica de las obras que sean sometidas al sistema de concesiones de obras públicas.
+
+b) Dirigir y coordinar la Dirección General de Concesiones de Obras Públicas y de sus divisiones y la organización interna de ésta.
+
+c) Representar para todos los efectos legales a la Dirección General de Concesiones de Obras Públicas, tanto en el ámbito judicial como extrajudicial.
+
+d) Contratar estudios, proyectos, ejecución de obras y asesorías en la forma que determine la ley. Asimismo, podrá celebrar los actos y contratos que sean necesarios para el cumplimiento de las funciones que le corresponden a la Dirección General de Concesiones de Obras Públicas.
+
+e) Velar por el adecuado y correcto cumplimiento de los contratos de concesión en sus diferentes etapas, en virtud de lo dispuesto en la Ley de Concesiones de Obras Públicas, su reglamento, el contrato de concesión, las bases de licitación y los actos administrativos que conforman el contrato de concesión, como también en las demás leyes y reglamentos que le fueren aplicables.
+
+f) Fomentar, promover y difundir ante inversionistas públicos o privados, nacionales o extranjeros, la asociación público-privada en materia de infraestructura, en coordinación con las demás instituciones competentes en esta materia.
+
+g) Presentar al Ministro de Obras Públicas, para su aprobación, dentro del primer trimestre de cada año, el plan de concesiones, con una proyección de cinco años de plazo. Este plan deberá ser previamente sometido a la consulta del Consejo de Concesiones y posteriormente enviado al Congreso Nacional para su conocimiento.
+
+Dicho plan contendrá una visión territorial, para lo cual sus proyectos contemplarán infraestructura en diferentes zonas del país, procurando un desarrollo armónico entre ellas.
+
+h) Presentar al Ministro de Obras Públicas, dentro del primer trimestre de cada año, un informe de monitoreo y evaluación de la labor fiscalizadora en las etapas de ejecución, reparación, mantención, conservación o explotación de obras públicas, con su correspondiente plan de fortalecimiento.
+
+i) Estudiar, analizar y proponer al Ministro de Obras Públicas proyectos que puedan ser promovidos y ejecutados por el ministerio mediante el sistema de concesiones regulado por el artículo 87, sean éstos de iniciativa propia, de otros ministerios u organismos de la administración pública o de iniciativas privadas presentadas ante el Ministerio de Obras Públicas, de conformidad a la ley.
+
+j) Evaluar, analizar y estructurar financieramente los proyectos en desarrollo, y contratar la asesoría de expertos en estructuración financiera, contractual y de garantías para las obras concesionadas.
+
+k) Proponer al Ministro de Obras Públicas las expropiaciones necesarias para la ejecución de las obras públicas fiscales y no fiscales por el sistema regulado a través del artículo 87.
+
+l) Destinar, comisionar y encomendar cometidos al personal de la Dirección General a su cargo, cuando deban llevarse a cabo en servicios distintos de aquel en que se encuentra nombrado el funcionario.
+
+m) Aplicar las multas que procedan en conformidad a la Ley de Concesiones de Obras Públicas y su reglamento, al contrato de concesión, y a las demás leyes y reglamentos que le fueren aplicables.
+
+n) Delegar en funcionarios de su dependencia, previa aprobación del Ministro de Obras Públicas, atribuciones específicas para una o más regiones o localidades, cuando circunstancias calificadas, tanto de operación como de proyectos en estudio y en etapa de construcción, lo hagan necesario, pudiendo poner término a la delegación en cualquier momento.
+
+En el acto de la delegación, el Director General de Concesiones de Obras Públicas determinará las facultades específicas que delega en el funcionario, el plazo de su desempeño y el ámbito territorial en que ejercerá su competencia.
+
+ñ) Todas las demás funciones y atribuciones que le encomienden las leyes.
+
+#### Artículo 22 quáter
+
+El Director General de Concesiones de Obras Públicas, en el mes de abril de cada año, en audiencia pública, rendirá cuenta de su gestión en la Dirección General.
+
+En dicha cuenta se referirá a los resultados obtenidos en las actividades realizadas durante el período, incluyendo las estadísticas básicas que las reflejen, el uso de los recursos otorgados y las dificultades que se hubieren presentado, y dará a conocer las actuaciones de la Dirección General que se realizarán durante el período siguiente, incluido el grado de avance del plan a cinco años señalado en la letra g) del artículo 22 ter.
 
 #### Artículo 23º
 

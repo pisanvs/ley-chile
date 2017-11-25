@@ -20,15 +20,17 @@ La ejecución, reparación, conservación o explotación de obras públicas fisc
 
 Las concesiones que se otorguen contemplarán la obligación del concesionario de cumplir, durante toda la vigencia de la concesión, con los niveles de servicio, estándares técnicos o ambos, establecidos en las respectivas bases de licitación, para las diferentes etapas y condiciones de la concesión.
 
-#### Artículo 1º bis
+#### Artículo 1 bis
 
 Habrá un Consejo de Concesiones, de carácter consultivo, integrado por:
 
-1) El Ministro de Obras Públicas, quien lo presidirá;
+1.- Un consejero de libre designación y remoción conjunta por parte de los Ministros de Obras Públicas y de Hacienda, quien lo presidirá.
 
-2) Un consejero de libre designación y remoción por parte del Ministro de Obras Públicas;
+2.- Dos consejeros designados por el Ministro de Hacienda. El primero será un académico perteneciente a una facultad de Economía o de Economía y Administración, y el segundo pertenecerá a una facultad de Ciencias Jurídicas o de Ciencias Jurídicas y/o Sociales. Uno de ellos deberá pertenecer a una universidad con sede principal en una región distinta de la Región Metropolitana.
 
-3) Cuatro consejeros. El primero será un académico perteneciente a una Facultad de Ingeniería Civil; un segundo, perteneciente a una Facultad de Economía o Economía y Administración, un tercero, perteneciente a una Facultad de Ciencias Jurídicas, y un cuarto, perteneciente a una Facultad de Arquitectura, que tenga estudios o especialización en urbanismo. Todos ellos de alguna de las universidades que hayan obtenido su acreditación institucional por un período de a lo menos cuatro años, de conformidad con lo dispuesto en la ley Nº 20.129. Al menos dos de los académicos deberán pertenecer a universidades con sede principal en regiones distintas de la Metropolitana. Su designación y remoción será libremente efectuada por el Ministro de Obras Públicas.
+3.- Dos consejeros designados por el Ministro de Obras Públicas. El primero será un académico perteneciente a una facultad de Ingeniería Civil, y el segundo pertenecerá a una facultad de Arquitectura. Uno de ellos deberá pertenecer a una universidad con sede principal en una región distinta de la Región Metropolitana.
+
+4.- El Ministro de Obras Públicas.
 
 Este Consejo estará encargado de informar acerca del tipo de infraestructura que se desarrollará al amparo de esta ley, de los proyectos y de las modalidades de régimen concesional, teniendo en cuenta, entre otros antecedentes, y en caso de que ellos existan, los planes regionales de desarrollo urbano y los planes reguladores comunales, intercomunales y metropolitanos, y la evaluación social aprobada por el organismo de planificación competente.
 
@@ -42,17 +44,21 @@ Salvo el Ministro de Obras Públicas, los integrantes permanentes del Consejo te
 
 El Ministerio de Obras Públicas deberá requerir informe previo del Consejo de Concesiones, en los siguientes casos:
 
-a) Declarar de interés público los proyectos de iniciativa privada;
+a) Declarar de interés público los proyectos de iniciativa privada.
 
-b) Determinar que un proyecto de iniciativa privada sea ejecutado con un mecanismo distinto al de concesiones, de acuerdo al artículo 2º;
+b) Determinar que un proyecto de iniciativa privada sea ejecutado con un mecanismo distinto al de concesiones, de acuerdo al artículo 2º.
 
-c) Analizar los proyectos de iniciativa pública que se considerará ejecutar mediante el sistema de concesión regulado en esta ley;
+c) Analizar los proyectos de iniciativa pública que se considerará ejecutar mediante el sistema de concesión regulado en esta ley.
 
-d) Establecer la excepción contenida en el artículo 19 inciso quinto, parte final;
+d) Establecer la excepción contenida en el artículo 19 inciso quinto, parte final.
 
-e) Contratar las nuevas inversiones y obras bajo las condiciones excepcionales que dispone el artículo 20 bis, y
+e) Contratar las nuevas inversiones y obras bajo las condiciones excepcionales que dispone el artículo 20 bis.
 
 f) Analizar las modalidades del régimen concesional de los proyectos que se someterán a licitación pública, debiendo considerar la evaluación social aprobada por el organismo de planificación competente.
+
+g) Modificar las características de las obras y servicios contratados, a objeto de incrementar los niveles de servicio y estándares técnicos establecidos en las bases de licitación, mediante la suscripción de un convenio complementario al contrato de concesión, cuando, separada o conjuntamente, dichas modificaciones superen el 10% del presupuesto oficial de la obra, ya sea durante la etapa de construcción o de explotación.
+
+h) Establecer la política de peajes aplicables a todas las rutas y carreteras cuya explotación se regule al amparo de esta ley.
 
 Sin perjuicio de lo dispuesto en el inciso precedente, el Ministerio de Obras Públicas podrá solicitar informe al Consejo de Concesiones respecto a las siguientes materias:
 
@@ -174,7 +180,7 @@ Por su parte, en las licitaciones que tengan su origen en una iniciativa privada
 
 Las tarifas ofrecidas, con su correspondiente reajuste, serán entendidas como tarifas máximas, por lo que el concesionario podrá reducirlas.
 
-El Director General de Obras Públicas, con visto bueno del Ministro de Obras Públicas, podrá solicitar a los oferentes, hasta antes de la apertura de la oferta económica, aclaraciones, rectificaciones por errores de forma u omisiones, y la entrega de antecedentes, con el objeto de clarificar y precisar el correcto sentido y alcance de la oferta, evitando que alguna sea descalificada por aspectos formales en su evaluación técnica.
+El Director General de Concesiones de Obras Públicas, con visto bueno del Ministro de Obras Públicas, podrá solicitar a los oferentes, hasta antes de la apertura de la oferta económica, aclaraciones, rectificaciones por errores de forma u omisiones, y la entrega de antecedentes, con el objeto de clarificar y precisar el correcto sentido y alcance de la oferta, evitando que alguna sea descalificada por aspectos formales en su evaluación técnica.
 
 #### Artículo 8°
 
@@ -188,7 +194,7 @@ El adjudicatario quedará obligado a:
 
 a) Constituir, en el plazo y con los requisitos que el Reglamento o las Bases Administrativas establezcan, una sociedad de nacionalidad chilena o agencia de la extranjera, con quien se entenderá celebrado el contrato y cuyo objeto será la ejecución, reparación, conservación y explotación de obras públicas fiscales por el sistema establecido en el artículo 87° del decreto supremo N° 294, de 1984, del Ministerio de Obras Públicas.
 
-b) Suscribir ante notario tres transcripciones del decreto supremo de adjudicación de la concesión, en señal de aceptación de su contenido, debiendo protocolizarse ante el mismo notario uno de sus ejemplares, dentro del plazo que fijen las bases de licitación, contados siempre desde su publicación en el Diario Oficial. Una de las transcripciones referidas precedentemente será entregada para su archivo al Departamento de Concesiones de la Dirección General de Obras Públicas, y la otra a la Fiscalía del Ministerio de Obras Públicas. Las transcripciones suscritas en la forma señalada harán fe respecto de toda persona y tendrán mérito ejecutivo sin necesidad de reconocimiento previo.
+b) Suscribir ante notario tres transcripciones del decreto supremo de adjudicación de la concesión, en señal de aceptación de su contenido, debiendo protocolizarse ante el mismo notario uno de sus ejemplares, dentro del plazo que fijen las bases de licitación, contados siempre desde su publicación en el Diario Oficial. Una de las transcripciones referidas precedentemente será entregada para su archivo al Departamento de Concesiones de la Dirección General de Concesiones de Obras Públicas, y la otra a la Fiscalía del Ministerio de Obras Públicas. Las transcripciones suscritas en la forma señalada harán fe respecto de toda persona y tendrán mérito ejecutivo sin necesidad de reconocimiento previo.
 
 Dichos plazos serán fatales y no podrán ser inferiores a sesenta días. El incumplimiento de las obligaciones señaladas en las letras a) y b) será declarado mediante decreto supremo del Ministerio de Obras Públicas, en el cual se dejará sin efecto dicha asignación. En este caso, el Ministerio podrá llamar a una nueva licitación pública o, mediante el mecanismo de licitación privada, llamar a los demás oferentes presentados en la licitación ya realizada a mejorar sus ofertas en el plazo de 15 días.
 
@@ -277,6 +283,8 @@ El Ministerio de Obras Públicas y el concesionario podrán acordar la modificac
 Las bases de licitación establecerán el monto máximo de la inversión que el Ministerio de Obras Públicas y el concesionario podrán establecer de común acuerdo, así como el plazo máximo dentro del cual se podrán realizar modificaciones de las obras en concesión. En todo caso, el monto máximo de estas nuevas inversiones, en la etapa de construcción, no podrá exceder el veinticinco por ciento del presupuesto oficial de la obra. Con todo, durante la etapa de explotación, cuando el valor de estas inversiones exceda el cinco por ciento del presupuesto oficial de la obra o correspondiere a una suma superior a cincuenta mil unidades de fomento, su ejecución se efectuará de conformidad a lo dispuesto en los incisos tercero y siguientes del artículo precedente. Esta restricción no se aplicará para nuevas inversiones que sean financiadas íntegramente por el concesionario y que no den lugar a compensaciones.
 
 Las compensaciones que se acordaren en favor del concesionario se regirán íntegramente por lo dispuesto en los incisos sexto y séptimo del artículo 19.
+
+Cuando las modificaciones a que se refiere este artículo, separada o conjuntamente, superen el 10% del presupuesto oficial de la obra, ya sea durante la etapa de construcción o explotación, deberán ponerse los antecedentes a disposición del Consejo de Concesiones para que informe al Ministerio de Obras Públicas sobre la conveniencia de dichas modificaciones.
 
 La aprobación del respectivo convenio complementario se hará mediante decreto supremo fundado del Ministerio de Obras Públicas, que deberá llevar, además, la firma del Ministro de Hacienda, previo informe de la respectiva Dirección sobre el impacto de la modificación en los niveles de servicio originalmente comprometidos, en la valoración de las inversiones a realizar, y en el respeto de la proporcionalidad de las prestaciones económicas mutuas y de las estructuras y niveles tarifarios previstos en el contrato de concesión.
 
@@ -502,13 +510,13 @@ El concesionario responderá de los daños, de cualquier naturaleza, que con mot
 
 #### Artículo 36
 
-Las discrepancias de carácter técnico o económico que se produzcan entre las partes durante la ejecución del contrato de concesión, podrán someterse a la consideración de un Panel Técnico a solicitud de cualquiera de ellas.
+Las discrepancias de carácter técnico o económico que se produzcan entre las partes durante la ejecución del contrato de concesión, podrán someterse a la consideración de un Panel Técnico a solicitud de cualquiera de ellas. Asimismo, el Ministerio de Obras Públicas y una o más sociedades concesionarias, en forma conjunta o separada, podrán realizar consultas al Panel Técnico sobre las materias mencionadas anteriormente.
 
 El Panel Técnico, que no ejercerá jurisdicción, deberá emitir, de acuerdo con el procedimiento público establecido en el reglamento, una recomendación técnica, debidamente fundada, dentro del plazo de 30 días corridos, prorrogable por una vez, contado desde la presentación de la discrepancia. La recomendación será notificada a las partes y no tendrá carácter vinculante para ellas.
 
 La recomendación del Panel no obstará a la facultad del concesionario para accionar posteriormente ante la Comisión Arbitral o la Corte de Apelaciones de Santiago, aunque la controversia recaiga sobre los mismos hechos. En tal caso, la recomendación podrá ser considerada por la Comisión Arbitral o la Corte de Apelaciones como un antecedente para la dictación de su sentencia.
 
-Podrán someterse a la consideración del Panel Técnico las discrepancias que se produzcan en relación con:
+Podrán someterse a la consideración del Panel Técnico las discrepancias y consultas que se produzcan en relación con:
 
 1.- La evaluación técnica y económica de las inversiones realizadas por el concesionario, de su estado de avance, de sus costos y plazos, conforme a los niveles de servicios y estándares técnicos establecidos para la respectiva concesión.
 
@@ -576,7 +584,7 @@ En caso que se optare por recurrir ante la Corte de Apelaciones, según lo dispu
 
 1.- No será exigible boleta de consignación.
 
-2.- El traslado del recurso se dará al Director General de Obras Públicas.
+2.- El traslado del recurso se dará al Director General de Concesiones de Obras Públicas.
 
 Lo dispuesto en este artículo es sin perjuicio de las atribuciones del Poder Judicial y de la Contraloría General de la República.
 
