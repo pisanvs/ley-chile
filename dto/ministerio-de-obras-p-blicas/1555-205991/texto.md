@@ -176,6 +176,12 @@ CAÑETE
 
 . El sistema vial que conecta la Ruta P-60-R con la Ruta P-500, a través de las calles Ignacio Carrera Pinto, Saavedra y su par vial Villagrán, Sargento Aldea, Arturo Pérez Canto y su par vial Séptimo de Línea, O'Higgins, Manuel Rodríguez y Bajada Tucapel.
 
+Coronel - Lota
+
+. El tramo urbano de la Ruta O-852, desde la Ruta O-846 hasta la Ruta 156, a través de Ruta Patagual.
+
+. El tramo urbano de la Ruta O-846, desde la Ruta 160 hasta la Ruta O-852, a través de Ruta Patagual Sur.
+
 6º Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
 > **Nota.** El DTO 678, Obras Públicas, publicado el 06.09.2004, modifica la presente norma, en el sentido de eliminar como camino público en la VIII Región del Bío-Bío al tramo Urbano de la Ruta 160, Concepción-Tres Pinos-Lebu, comprendido entre el Puente Bío Bío Antiguo y el Acceso a Michaihue, en el área urbana de San Pedro de la Paz. Por otra parte, se agrega y declara como como caminos públicos, las siguientes calles o avenidas:. El tramo urbano de la Ruta O-274, en el área urbana de Tomé, conocido como Acceso a la Caleta Cocholgüe; desde intersección Enrique Molina hasta Caleta Cocholgüe.. El tramo urbano de la Ruta O-480, en el área urbana de Talcahuano, conocido como Acceso a la Caleta Tumbes; desde intersección Fuerte Borgoño hasta Caleta Tumbes.
