@@ -8,7 +8,7 @@ Decreto:
 
 Decláranse como Normas Oficiales de la República de Chile, las siguientes normas chilenas con sus respectivos códigos y títulos de identificación:
 
-NCh 1721-2012 Sistemas de tuberías plásticas de Poli (cloruro de vinilo) no plastificado (PVC-U) para el suministro de agua bajo presión, enterrado o superficial-Accesorios-Requisitos.
+NCh 1721-2012 Derogada.
 
 NCh 407-2012 Artefactos sanitarios de loza vítrea-Requisitos y método de ensayo.
 
