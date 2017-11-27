@@ -94,7 +94,7 @@ Resolución:
 
 17. Corresponderá a Serviu Región del Libertador General Bernardo O'Higgins generar un procedimiento que permita cautelar el cumplimiento de las disposiciones establecidas en los vistos señalados en la presente resolución, en especial en relación a las restricciones y requisitos establecidos en los artículos 6, 23, 24, 25, 26, 27, 34 del DS Nº10 (V. y U.) de 2015, debiendo poner especial atención a lo digitado en el módulo de ingreso de Expedientes en Sistema Rukan, información que debe corresponder fielmente a lo acreditado por la Entidad de Gestión Rural en el expediente físico de postulación.
 
-18. Los recursos involucrados para la selección ascienden a un total de 202.114 UF.
+18. Los recursos involucrados para la selección ascienden a un total de 172.236,87 UF, y su distribución territorial será la siguiente:
 
 19. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponden.
 
