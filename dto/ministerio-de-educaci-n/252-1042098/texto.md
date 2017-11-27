@@ -1,4 +1,4 @@
-DECLARA MONUMENTO NACIONAL EN LA CATEGORÍA DE MONUMENTO HISTÓRICO A LA CASA DE ADMINISTRACIÓN DEL EX RECINTO DE DETENCIÓN TRES Y CUATRO ÁLAMOS, UBICADA EN LA COMUNA DE SAN JOAQUÍN, PROVINCIA DE SANTIAGO, REGIÓN METROPOLITANA
+DECLARA MONUMENTO NACIONAL EN LA CATEGORÍA DE MONUMENTO HISTÓRICO AL CAMPO DE PRISIONEROS POLÍTICOS TRES Y CUATRO ÁLAMOS, UBICADO EN LA COMUNA DE SAN JOAQUÍN, PROVINCIA DE SANTIAGO, REGIÓN METROPOLITANA
 
 Núm. 252.- Santiago, 27 de junio de 2012.- Considerando:
 
@@ -16,9 +16,9 @@ Decreto:
 
 #### Artículo único
 
-Declárase Monumento Nacional en la categoría de Monumento Histórico la Casa de Administración del ex Recinto de Detención Tres y Cuatro Álamos, ubicada en calle Canadá N° 5351, Comuna de San Joaquín, Provincia de Santiago, Región Metropolitana.
+Declárase Monumento Nacional en la categoría de Monumento Histórico al Campo de Prisioneros Políticos Tres y Cuatro Álamos, ubicado en calle Canadá N° 5351, Comuna de San Joaquín, Provincia de Santiago, Región Metropolitana.
 
-El área protegida tiene una superficie aproximada de 1.454,29 mts.2, según se delimita por el polígono A-B-C-D-E-F-G-H-A del plano adjunto que forma parte del presente decreto.
+El área protegida tiene una superficie de 6.968,97 m2, como se grafica en el polígono con las letras A - B - C - D - E - F - G - H - I - J - A, de los planos adjuntos Nº 047-1-2017 y Nº 047-2-2017, ambos de 06/10/2017, visados por el Consejo de Monumentos Nacionales, que forman parte del presente decreto cuyos límites son los siguientes:
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Harald Beyer Burgos, Ministro de Educación.
 
