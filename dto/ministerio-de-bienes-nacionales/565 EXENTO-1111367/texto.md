@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "COMPAÑÍA DE PETRÓLEOS DE CHILE COPEC S.A."
+
+Mediante decreto exento N° E-565, de 15 de noviembre de 2017, el Ministerio de Bienes Nacionales otorgó en Concesión Onerosa Directa, a "Compañía de Petróleos de Chile Copec S.A.", RUT N° 99.520.000-7, el inmueble fiscal ubicado en la Ruta 27-CH, Intersección Ruta B-241, comuna de San Pedro de Atacama, provincia de El Loa, Región de Antofagasta; enrolado en el Servicio de Impuestos Internos con el N° 6000-1; amparado por inscripción global a nombre del Fisco, que rola a fojas 34 N° 28, del Registro de Propiedad del Conservador de Bienes Raíces de Calama, correspondiente al año 1933; de una superficie total aproximada de 5.395,96 m2; singularizado en el Plano N° 02203-7.162-C.U. archivado bajo el N° 2067, al final del Registro de Propiedades del año 2015, del Conservador de Bienes Raíces antes citado. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 269.
+
+La Concesión se otorga para destinar el inmueble a la construcción de una Estación de venta y expendio de combustible. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Magdalena Badilla Rodríguez, Jefa División Jurídica.
