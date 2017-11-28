@@ -62,7 +62,7 @@ Sobre 20% 1749,49
 
 #### Artículo tercero
 
-Comunícase nuevo valor del CFCD para el SEN, producto de la indexación del valor base establecido en el artículo primero de la presente resolución, por el valor de 11,90 [US$/kWh].
+Comunícase nuevo valor del CFCD para el SEN, producto de la indexación del valor base establecido en el artículo primero de la presente resolución, por el valor de 12,41 [US$/kWh].
 
 #### Artículo cuarto
 
@@ -72,13 +72,13 @@ SEN
 
 Profundidad [US$/MWh]
 
-0-5% 665,30
+0-5% 687,24
 
-5-10% 967,95
+5-10% 999,88
 
-10-20% 1397,84
+10-20% 1443,94
 
-Sobre 20% 1906,12
+Sobre 20% 1968,99
 
 #### Artículo quinto
 
@@ -99,6 +99,8 @@ Infórmase que los valores base para la fórmula de ajuste que indexa el CFLD y 
 Asimismo, infórmase que en la determinación de los valores indicados en los artículos tercero y cuarto de la presente resolución se han utilizado los siguientes índices:
 
 .
+
+> **Nota.** El artículo primero de la Resolución 665 Exenta, Energía, publicada el 28.11.2017, modifica la presente norma en el sentido de reemplazar el valor del índice denominado "Índ Salt", correspondiente al mes de marzo de 2017, que informa y comunica nuevos valores del costo de falla de corta y larga duración del Sistema Eléctrico Nacional.
 
 #### Artículo séptimo
 
