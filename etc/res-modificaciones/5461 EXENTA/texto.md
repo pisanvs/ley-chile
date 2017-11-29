@@ -1,40 +1,42 @@
-APRUEBA PROGRAMA DE VIGILANCIA, DETECCIÓN Y CONTROL DE PLAGA QUE INDICA
+MODIFICA RESOLUCIÓN N° 529 EXENTA, DE FECHA 26 DE FEBRERO DE 2009, DE ESTE SERVICIO, PROGRAMA DE VIGILANCIA, DETECCIÓN Y CONTROL DE LA PLAGA ALEXANDRIUM CATENELLA
 
-Núm. 529.- Valparaíso, 5 de febrero de 2009.- Visto: Lo informado por los integrantes del Comité Consultivo; lo dispuesto en el DFL Nº 5, de 1983, y sus modificaciones; el D.S. Nº 430, de 1991, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.892 y sus modificaciones, Ley General de Pesca y Acuicultura; y el D.S. Nº 345, de 2005, que aprueba el Reglamento sobre Plagas Hidrobiológicas, todos del Ministerio de Economía, Fomento y Reconstrucción; la resolución exenta Nº 177, de 15 de enero de 2009, de la Subsecretaría de Pesca, publicada en el Diario Oficial de 23 de enero de 2009, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República;
+Núm. 5.461 exenta.- Valparaíso, 17 de noviembre de 2017.
+
+Visto:
+
+La Hoja de Envío/DAG/Nº 117018 de fecha 24 de octubre de mayo de 2017, que remite el Informe Técnico con los antecedentes para modificar el Programa de vigilancia, detección y control de Alexandrium catenella, resolución exenta Nº 529 de fecha 26 de febrero de 2009, de este Servicio; lo dispuesto en la Ley Nº 18.892, Ley General de Pesca y Acuicultura; la Ley Nº 19.880, que establece las Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; el DFL Nº 5 y sus modificaciones; el DS Nº 345, de 2005, Reglamento sobre Plagas Hidrobiológicas, del actual Ministerio de Economía, Fomento y Turismo; la resolución exenta Nº 177, de 15 de enero de 2009, de la Subsecretaría de Pesca y Acuicultura, publicada en el Diario Oficial de 23 de enero de 2009; la resolución exenta Nº 529, de fecha 26 de febrero de 2009 y sus modificaciones, del Servicio Nacional de Pesca y Acuicultura que aprobó el Programa de Vigilancia, Detección y Control de Alexandrium catenella; y la resolución Nº 1.600, de 30 de octubre 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
 
 Considerando:
 
-Que mediante resolución exenta Nº 177, de 2009, de la Subsecretaría de Pesca, citada en Vistos, se declaró como Área Florecimiento Algal Nocivo (en adelante Área FAN) de Alexandrium catenella la macrozona que se extiende desde el sur de la isla Grande de Chiloé hasta el extremo sur de la Región de Magallanes.
+1. Que, el artículo Nº 86 de la Ley General de Pesca y Acuicultura, dispone que el Ministerio de Economía, Fomento y Reconstrucción, hoy Ministerio de Economía, Fomento y Turismo, mediante decreto supremo establecerá las medidas de protección y control para evitar la introducción de especies que constituyan plagas, aislar su presencia en caso que éstas ocurran, evitar su propagación y propender a su erradicación.
 
-Que, el artículo 9 del Reglamento sobre Plagas Hidrobiológicas, citado en Vistos, encargó al Servicio Nacional de Pesca el establecimiento de programas de vigilancia, detección, control y/o erradicación de plagas.
+2. Que, el DS Nº 345, Reglamento de Plagas Hidrobiológicas, citado en Visto, tiene por objeto establecer las medidas de protección y control para evitar la introducción de especies que constituyan plagas hidrobiológicas, aislar su presencia, evitar su propagación y propender a su erradicación.
 
-Que la especie de microalga Alexandrium catenella constituye una plaga del tipo de Floración Algal Nociva (FAN), la cual debe ser vigilada y controlada para evitar su dispersión a otras zonas no declaradas o libres de esta plaga.
+3. Que, de conformidad con el artículo Nº 4 del reglamento señalado en el considerando anterior, la Subsecretaría de Pesca y Acuicultura declarara determinados sectores o zonas geográficas en alguna categoría de área no libre, previo informe técnico y consulta del Comité Consultivo.
 
-Que se ha consultado a los integrantes del Comité Consultivo a que se refiere el Título VI del Reglamento sobre Plagas Hidrobiológicas respecto de este programa.
+4. Que, desde el año 2009, la Subsecretaría de Pesca y Acuicultura, ha declarado y renovado en forma sucesiva el área de florecimiento algal nocivo (FAN) de Alexandrium catenella, estando vigente a la fecha su resolución exenta número 3.575 de 2014, que declara como área de plaga la macrozona que se extiende desde el sur de la Isla Grande de Chiloé hasta el extremo sur de la Región de Magallanes.
+
+5. Que, conforme el artículo Nº 9 del Reglamento sobre Plagas Hidrobiológicas, citado en Visto, se le encargó al Servicio Nacional de Pesca y Acuicultura, de manera posterior a la declaración de "Área no Libre" efectuada por la Subsecretaría de Pesca y Acuicultura, el establecimiento del "Programa de Vigilancia, Detección, Control y /o Erradicación" de la plaga declarada.
+
+6. Que, con fecha 26 de febrero de 2009 se publicó en el Diario Oficial la resolución exenta Nº 529 del Servicio Nacional de Pesca y Acuicultura que aprobó el Programa de Vigilancia, Detección y Control de Alexandrium catenella, especie declarada plaga por la Subsecretaría de Pesca y Acuicultura, conforme lo indicado en el considerando cuarto de esta resolución.
+
+7. Que, de manera posterior a la resolución exenta Nº 529, y en atención a que las medidas preventivas consideradas inicialmente en ella se tornaron insuficientes, el día 7 de mayo del 2016 se publicó en el Diario Oficial la resolución exenta Nº 3.154, mediante la cual se modificó la antedicha resolución exenta Nº 529 y se estableció la obligación de monitorear las bodegas de todos los wellboats que no tengan implementado un sistema de inactivación de Alexandrium catenella y que traspasen la línea FAN (43º 22' 00) de sur a norte, con el objetivo de verificar la presencia de este especie.
+
+8. Que, específicamente en lo que atañe a la implementación de las medidas indicadas en el considerando precedente, se estableció su instauración en dos etapas, primeramente respecto de las naves que descarguen en la bahía de Quellón y luego, en una segunda etapa, respecto del resto de la Región de Los Lagos.
+
+9. Que, teniendo presente lo anterior, a través de la resolución exenta 2.004, de fecha 8 de mayo de 2017, se modificó la resolución exenta Nº 529 citada en visto, en el sentido de establecer que la implementación de la segunda etapa de las medidas antes señaladas sería a contar del día 31 de octubre de 2017.
+
+10. Que, no obstante la completa implementación del Programa de Vigilancia, Detección y Control de Alexandrium catenella para la Región de Los Lagos, actualmente se hace necesaria una modificación del programa vigente, para efectos de especificar en él las reglas de decisión y los nuevos procedimientos que serán utilizados para controlar la plaga, en este sentido, el Departamento de Gestión Ambiental de este Servicio, a través de su informe técnico "Antecedentes para modificar el "Programa de vigilancia, detección y control de Alexandrium catenella resolución exenta Nº 529 y sus modificaciones", señala la necesidad de "modificaciones para incorporar nuevos procedimientos y reglas de decisión en la vigilancia y control de esta plaga".
+
+11. Que, atendida la necesidad de modificar el programa vigilancia, se procede con fecha 15 de septiembre de 2017 a hacer envío del informe técnico aludido anteriormente al Comité del Reglamento de Plagas Hidrobiológicas, recibiendo e incorporando a la propuesta de modificación las observaciones sugeridas en dicha instancia.
+
+12. Que, atendido a todo lo precedentemente expuesto, se estima necesario modificar la R.E. Nº 529 citada en Visto.
 
 Resuelvo:
 
-#### Artículo Primero
+1. Modifícase la resolución exenta N° 529, citada en Visto, que aprobó el Programa de Vigilancia, Detección y Control de la Plaga Alexandrium catenella, en el siguiente sentido:
 
-Apruébese el siguiente "Programa de Vigilancia, Detección y Control de la plaga Alexandrium catenella"
-
-PROGRAMA DE VIGILANCIA, DETECCIÓN Y CONTROL DE PLAGA FAN Alexandrium catenella
-
-1. Objetivo del Programa
-
-El objetivo del programa es controlar la presencia del dinoflagelado Alexandrium catenella y disminuir, al máximo, la probabilidad de su dispersión, protegiendo, de esta manera, la actividad económica pesquera y acuícola, relacionada con la extracción y cultivo de recursos susceptibles de ser afectados por toxinas marinas.
-
-2. Ámbito de Aplicación
-
-Las disposiciones establecidas en el presente programa se aplicarán a todas las actividades de traslado de organismos hidrobiológicos, estructuras de cultivo, uso de carnada, eliminación de desechos líquidos y demás actividades reguladas en el D.S. Nº 345, de 2005, que se realicen dentro y desde áreas FAN.
-
-Se exceptúa el traslado de peces y crustáceos sólo cuando éstas sean usadas como carnada para faenas de pesca realizadas fuera del Mar Territorial.
-
-3.- Definiciones
-
-Para efectos de este programa se aplicarán las definiciones contenidas en el artículo 3 del D.S. Nº 345, de 2005, Reglamento sobre Plagas Hidrobiológicas.
-
-4. Seguimiento y Vigilancia
+I. Elimínase, el actual punto 4.1 Monitoreo de Bodegas. y sustitúyasele por lo siguiente:
 
 Se establece un programa de seguimiento y vigilancia de Alexandrium catenella en las zonas contiguas al límite norte del área declarada FAN (43º22S), según resolución Nº 177 de la Subsecretaría de Pesca y Acuicultura, del 15 de enero de 2009 y sus modificaciones, que va desde el Golfo Corcovado por el norte (43º22'S), Golfo Elefantes (45º59'S) por el sur y Bahía Anna Pink (45º45'S) al occidente; luego se extiende desde el Canal Baker (47º50'S) hasta el límite sur de la XII Región (paralelo 55ºS), el sector comprendido entre la Península de Taitao y el Golfo de Penas es considerado área no declarada.
 
@@ -48,7 +50,9 @@ Esta vigilancia se realizará principalmente mediante dos líneas de acción, lo
 
 Sin perjuicio de lo anterior, el Servicio podrá considerar los resultados obtenidos por otras instituciones, siempre y cuando se aplique una metodología de muestreo e identificación estandarizada.
 
-5. Monitoreo de Bodegas de embarcaciones que transportan cosecha viva.
+II. Elimínase, el punto 4.2 Monitoreo de agua en la ruta de navegación. y sustitúyasele por lo siguiente:
+
+### 5. Monitoreo de Bodegas de embarcaciones que transportan cosecha viva
 
 El Servicio realizará el monitoreo mediante un análisis de las aguas de las bodegas de las embarcaciones que transportan cosecha viva desde el área FAN, a las plantas ubicadas fuera del área de plaga, según lo señalado en el punto 8.2.
 
@@ -62,7 +66,9 @@ Por su parte, el laboratorio de referencia será una institución universitaria 
 
 Para efectos de este programa el laboratorio de referencia será el Centro Regional de Análisis de Recursos y Medio Ambiente (Ceram) de la Universidad Austral de Chile.
 
-6. Traslados.
+III. Elimínanse los actuales numerales 5. Traslado. y 6. Solicitud de traslado. y sustitúyaseles por lo siguiente:
+
+### 6. Traslados
 
 Se regula el traslado de todo organismo hidrobiológico, en cualquier estado, proveniente de un área no libre, que se realice utilizando agua del lugar de origen o que se incorpore durante el traslado. Asimismo, se regula el traslado de fomites, artefactos y estructuras de cultivo, desde las áreas no libres.
 
@@ -76,9 +82,11 @@ b. En el caso que exista presencia de toxinas marinas en los recursos y esto gen
 
 Los traslados deberán cumplir las disposiciones generales y específicas del Reglamento sobre Plagas Hidrobiológicas (DS Minecon Nº 345/2005) Título IV, artículos 15 al 23 y demás normas vigentes, además de las condiciones generales y específicas que se detallan a continuación.
 
-7. Traslados sin reingreso al medio natural.
+IV. Elimínase, el actual numeral 7. Protocolo de Traslado. y sustitúyasele por lo siguiente:
 
-Deben someterse a estas exigencias aquellos traslados provenientes del área no libre de Alexandrium catenella, que tengan un destino distinto a su reingreso al medio natural, tales como comercialización directa o procesamiento en planta proceso.
+### 7. Traslados sin reingreso al medio natural
+
+Deben someterse a estas exigencias aquellos traslados provenientes del \ufffdrea no libre de Alexandrium catenella, que tengan un destino distinto a su reingreso al medio natural, tales como comercialización directa o procesamiento en planta proceso.
 
 Adicionalmente, se consideran en esta categoría aquellos traslados hacia fuentes potenciales dispersoras de plagas, las que deberán contar con un sistema de retención o inactivación del organismo que constituye plaga.
 
@@ -88,7 +96,7 @@ Adicionalmente, se consideran en esta categoría aquellos traslados hacia fuente
 
 7.3 En caso de utilizarse agua de mar durante el traslado o en la mantención en destino de los recursos hidrobiológicos, como por ejemplo, desarenado, depuración, entre otros, el agua debe ser tratada con un sistema de retención o inactivación de Alexandrium catenella autorizado por el Servicio.
 
-8. Traslado con reingreso al medio natural.
+### 8. Traslado con reingreso al medio natural
 
 Solo se autorizará el traslado de organismos hidrobiológicos con fines de reingreso al medio natural, en los cuales se acredite que el medio acuoso que acompaña los recursos no contiene células de Alexandrium catenella. Lo anterior, se efectuará conforme los procedimientos indicados en el punto 5 de este programa.
 
@@ -150,7 +158,9 @@ Si la embarcación se dirige al norte de Quellón, deberá navegar en todo momen
 
 El traslado de fomites, estructuras o artefactos utilizados acuicultura que procedan del área FAN, solo podrá realizarse en sistemas cerrados que aseguren su aislamiento, evitando contacto con el medio natural. Estos artefactos deberán ser lavados y desinfectados de manera previa a su reingreso al medio y posteriormente, el agua utilizada para su limpieza deberá ser tratada con algún sistema de retención o inactivación autorizado por el Servicio.
 
-9. Traslado a través de áreas no declaradas o libres de plaga FAN.
+### V. Incorpóranse los siguientes nuevos numerales:
+
+### 9. Traslado a través de áreas no declaradas o libres de plaga FAN
 
 Se entenderá como traslado por área libre o no declarada de FAN, a aquellos movimientos de recursos hidrobiológicos y/o fomites que pasen a través de una zona geográfica que no ha sido declarada área FAN, área de plaga o área de riesgo de plaga habiendo pasado previamente por un área de distinta categoría.
 
@@ -160,11 +170,11 @@ Si se transita a través de un área libre o no declarada ubicada entre áreas d
 
 9.2 Las embarcaciones afectas al presente programa, que transiten por estos sectores, deberán tomar muestras en estaciones centinelas establecidas por el Servicio en el área no declarada o libre, con una periodicidad que se establecerá de acuerdo a la evolución de la plaga, a modo de verificar permanentemente el avance de esta microalga. Estas muestras serán analizadas en el marco del Programa de monitoreo de marea roja de la Subsecretaría de Pesca y Acuicultura.
 
-10. Traslado de mortalidades.
+### 10. Traslado de mortalidades
 
 El traslado de mortalidades deberá siempre cumplir con los requisitos y condiciones dispuestas en el Reglamento Sanitario para la Acuicultura, DS Nº 319/2001, del actual Ministerio de Economía Fomento y Turismo y con lo dispuesto en el Programa Sanitario General de Manejo de Mortalidades y su Sistema de Clasificación Estandarizado Conforme a Categorías Preestablecidas, R.E. Nº 1.468 de 2012, del Servicio Nacional de Pesca y Acuicultura.
 
-11. Sistemas de retención o inactivación de Alexandrium catenella.
+### 11. Sistemas de retención o inactivación de Alexandrium catenella
 
 Toda instalación, situada en un área libre o no declarada, que reciba organismos o fómites provenientes del área Fan, en los cuales no se ha acreditado la ausencia de la plaga mediante el análisis descrito en el punto 5, deberá contar con un sistema que asegure la retención o inactivación de Alexandrium catenella, autorizado por el Servicio. La forma para autorizar los sistemas de retención o inactivación por parte del Servicio, se encuentra establecida en un procedimiento elaborado por Sernapesca.
 
@@ -186,13 +196,13 @@ Sernapesca fiscalizará regularmente el funcionamiento de los sistemas, dosis y 
 
 En caso de utilizarse sistemas de retención, los lodos y residuos deberán depositarse en lugares autorizados por la autoridad sanitaria y en ningún caso, su destino final podrá ser el borde costero o medio marino.
 
-12. Descarga directa:
+### 12. Descarga directa:
 
 En aquellos casos en que se requiera la descarga directa de peces, la embarcación deberá contar con un sistema de acople hermético con la instalación en tierra. Del mismo modo, la instalación en tierra deberá contar con un sistema de retención o inactivación de la plaga, autorizado por el Servicio, que asegure que todo el contenido de las bodegas, exceptuados los peces, sean tratados.
 
 Tanto el acople como sistema de inactivación o retención de Alexandrium catenella deberá encontrarse debidamente autorizado por el Servicio.
 
-13. Aspectos generales:
+### 13. Aspectos generales:
 
 No obstante lo antes dispuesto, el Servicio, de acuerdo al estado de avance y evolución de la plaga, podrá modificar lo establecido en la presente resolución, con el objeto de prevenir la dispersión de la misma.
 
@@ -202,26 +212,8 @@ La infracción a las disposiciones del presente programa, así como los actos ad
 
 Las disposiciones establecidas en el presente programa serán aplicables, sin perjuicio de aquellas otras disposiciones legales y actos de aplicación sobre aguas de lastre y normas de emisión que corresponda ejecutar a otros órganos de la Administración del Estado.
 
-#### Artículo Segundo
+2. Déjase establecido que la resolución exenta Nº 529 citada en Visto, mantiene plena vigencia en todo lo que no ha sido modificado por la presente resolución.
 
-Las medidas, obligaciones y prohibiciones contenidas en el Programa que aprueba la presente resolución son sin perjuicio de las demás que impongan las leyes y reglamentos, como asimismo de aquellas que corresponda establecer a otras autoridades competentes.
+3. La presente resolución podrá ser impugnada por la interposición de los recursos de reposición y jerárquico, contemplados en el artículo Nº 59 de la ley Nº 19.880, ante este mismo Servicio y dentro del plazo de 5 días hábiles contados desde la respectiva publicación, sin perjuicio de la aclaración del acto dispuesta en el artículo Nº 62 del citado cuerpo legal y de las demás acciones y recursos que procedan de conformidad con la normativa vigente.
 
-#### Artículo Tercero
-
-El cumplimiento de las medidas, obligaciones y prohibiciones establecidas en el Programa que se aprueba por esta resolución se sujetará a lo dispuesto en el inciso 3º del artículo 11 del Reglamento sobre Plagas Hidrobiológicas citado en Vistos.
-
-#### Artículo Cuarto
-
-La infracción de las prohibiciones e incumplimiento de las obligaciones y medidas establecidas en el Programa que aprueba la presente resolución se sancionará conforme a las disposiciones de los títulos IX y X de la Ley General de Pesca y Acuicultura, en relación al artículo 35 del aludido Reglamento.
-
-#### Artículo transitorio
-
-Las medidas contenidas en los numerales 4.1 y letra B.2.2., referida a "Condiciones específicas", acápite concerniente al "Traslado de peces", del Artículo Primero, numeral 7, denominado "Protocolo de Traslado", se harán exigibles de manera progresiva, en dos etapas:
-
-- En una primera etapa que se extenderá hasta el 31 de octubre de 2017, sólo será aplicable a los wellboats que descarguen en la Bahía de Quellón.
-
-Sin perjuicio de lo anterior, durante igual período, las embarcaciones que transporten peces cuyo destino sean acopios o plantas de proceso que se ubiquen al norte de Quellón, deberán cerrar las compuertas en la línea FAN hasta Isla Tranqui (43º3'), pudiendo el Servicio muestrear, en forma aleatoria, las bodegas y hacer aplicables las citadas medidas.
-
-- La segunda etapa, inmediatamente concluida la primera, será aplicable a toda la Región de Los Lagos, sin excepción.
-
-Anótese, comuníquese y publíquese.- Alejandro Covarrubias Pérez, Director Nacional de Pesca (S).
+Anótese, comuníquese y publíquese.- José Miguel Burgos González, Director Nacional, Servicio Nacional de Pesca y Acuicultura.
