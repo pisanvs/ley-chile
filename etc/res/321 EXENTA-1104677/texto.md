@@ -28,8 +28,6 @@ f) Que, en consecuencia, la presente resolución viene en establecer las normas 
 
 Resuelvo:
 
-> **Nota.** El artículo primero de la Resolución 563 Exenta, Energía, publicada el 08.08.2018, prorroga la entrada en vigencia de la presente norma, a partir del 09.08.2018 y hasta la entrada en vigencia de la modificación del DS N° 67, de 2004, aún en proceso de elaboración, en cumplimiento de lo establecido en el inciso segundo del artículo decimosexto transitorio de la ley N° 20.999.
-
 #### Artículo primero
 
 Fíjense las siguientes normas procedimentales para el cambio de empresa distribuidora de gas, a que se refiere el artículo 29 bis y siguientes de la Ley de Servicios de Gas, D.F.L. Nº 323, de 1931.
