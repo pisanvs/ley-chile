@@ -26,19 +26,25 @@ Establécense, para el año 2017, los montos anuales del valor de compra, para l
 
 a) Vehículo Saliente: Minibús con capacidad mayor a 0 plazas. (Montos expresados en millones de pesos)
 
+.
+
 A los montos previamente indicados deberá sumarse un incentivo adicional por cambio de tecnología de $870.000, en caso que el vehículo entrante funcione con tecnologías más eficientes y menos contaminantes, tales como vehículos con propulsión a gas, electricidad, híbrida, o diésel de estándar Euro IV o superior, entre otras.
 
 b) Vehículo Saliente: Buses, Trolebuses y Taxibuses, con capacidad entre 0 y 38 plazas inclusive. (Montos expresados en millones de pesos)
+
+.
 
 A los montos previamente indicados deberá sumarse un incentivo adicional por cambio de tecnología de $1.550.000, en caso que el vehículo entrante funcione con tecnologías más eficientes y menos contaminantes, tales como vehículos con propulsión a gas, electricidad, híbrida, o diésel de estándar Euro IV o superior, entre otras.
 
 c) Vehículo Saliente: Buses, Trolebuses y Taxibuses, con capacidad entre 39 y 67 plazas inclusive. (Montos expresados en millones de pesos)
 
+.
+
 A los montos previamente indicados deberá sumarse un incentivo adicional por cambio de tecnologia de $2.210.000, en caso que el vehículo entrante funcione con tecnologías más eficientes y menos contaminantes, tales como vehículos con propulsión a gas, electricidad, híbrida, o diésel de estándar Euro IV o superior, entre otras.
 
 d) Vehículo Saliente: Buses, Trolebuses y Taxibuses, con capacidad mayor o igual a 68 plazas. (Montos expresados en millones de pesos)
 
-A los montos previamente indicados deberá sumarse un incentivo adicional por cambio de tecnología de $2.860.000, en caso que el vehículo entrante funcione con tecnologías más eficientes y menos contaminantes, tales como vehículos con propulsión a gas, electricidad, híbrida, o diésel de estándar Euro IV o superior, entre otras.
+A los montos de valor de compra señalados en los literales a), b), c) y d), se les otorgará un incentivo adicional de $10.000.000 si el vehículo entrante tiene las características que lo hagan utilizable por todas las personas en condiciones de seguridad y comodidad, de la forma más autónoma y natural posible, según lo establezca mediante resolución el Ministerio de Transportes y Telecomunicaciones.
 
 Anótese, comuníquese y publíquese.- Andrés Gómez-Lobo Echenique, Ministro de Transportes y Telecomunicaciones.
 
