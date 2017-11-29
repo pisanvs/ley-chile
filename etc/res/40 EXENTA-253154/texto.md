@@ -42,9 +42,9 @@ Herramientas eléctricas manuales
 
 - Martillo IEC 60745-2-6
 
-- Orilladora IEC 60745-2-15
+- Orilladora Derogado
 
-- Cortadora de césped IEC 60745-2-15
+- Cortadora de césped Derogado
 
 Herramientas calefactoras móviles y
 
