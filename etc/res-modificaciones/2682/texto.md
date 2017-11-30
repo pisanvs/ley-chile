@@ -1,0 +1,9 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.682, de 10 de octubre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Fiordo Blanco S.A., sociedad chilena, RUT 96.540.710-3, con domicilio en Avenida Diego Portales 2000, piso 13, Puerto Montt, para incorporar al cultivo los recursos hidrobiológicos pertenecientes al grupo de especies salmónidos, requerida mediante solicitud 211103016, del 22 de febrero de 2011, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por DS 464, del 24 de julio de 1992, modificado por resolución 1.658, de 5 de octubre de 1994, cuya ampliación de plazo de paralización de actividades fue autorizada por resolución 913, de 1 de agosto de 2008, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, modificada por resolución 1.540, del 10 de agosto de 2010, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, para el Sector 3, ubicado en Ensenada Reñihué, al noreste de Islas Las Nieves, comuna de Chaitén, provincia de Palena, X Región de Los Lagos.
+
+2.- Modifícase la concesión de acuicultura de porción de agua y fondo de mar, señalada en el párrafo precedente, consistente en la incorporación de los recursos hidrobiológicos pertenecientes al grupo de especies salmónidos, aumento de producción y un cambio de estructuras, para lo cual la concesionaria debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 2.009, del 18 de julio de 2012, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca, entendiéndose modificado el N° 2 de la parte resolutiva de la resolución 1.658, de 5 de octubre de 1994, del Ministerio de Defensa Nacional, Subsecretaría de Marina.
+
+Santiago, 31 de octubre de 2017.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
