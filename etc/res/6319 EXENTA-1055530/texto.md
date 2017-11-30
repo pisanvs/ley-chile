@@ -22,13 +22,13 @@ Resuelvo:
 
 1. Todos los productos que han presentado intercepciones de Halyomorpha halys que se detallan en el siguiente Cuadro, que ingresen o transiten por el territorio nacional, provenientes de los orígenes señalados o que hayan sido desconsolidados o consolidados en estos países, deberán ingresar con alguno de los tratamientos establecidos en el Resuelvo 3 de la presente resolución.
 
-* Vehículos usados, incluye: partes y piezas de vehículos usados autos, buses, camiones, tracto camión, thermo king, rampas, semirremolques, carros de arrastre, motor home, casas rodantes, entre otros.
+* Vehículos usados, incluye: partes y piezas de vehículos usados partes y piezas de vehículos usados autos, buses, camiones, tracto camión, thermo king, rampas, semirremolques, carros de arrastre, motor home, casas rodantes, entre otros.
 
-2. Los tratamientos detallados en el resuelvo N° 3 de esta resolución, podrán ser efectuados en el país de origen, cuando estos sean realizados por empresas autorizadas por el Departamento de Agricultura de Estados Unidos, Servicio de Inspección de Plantas y Animales (USDA/APHIS), lo que se expresará en el visado de los certificados de tratamiento. El certificado de tratamiento debe contener al menos la siguiente información:
+2. Los tratamientos detallados en el resuelvo Nº 3 de esta resolución, podrán ser efectuados en el país de origen, cuando estos sean realizados por empresas autorizadas por el Departamento de Agricultura de Estados Unidos, Servicio de Inspección de Plantas y Animales (USDA/APHIS), lo que se expresará en el visado de los certificados de tratamiento. El certificado de tratamiento debe contener al menos la siguiente información:
 
-### 1. Nombre y Dirección de la empresa que realizó el tratamiento
+### 1. Nombre y dirección de la empresa que realizó el tratamiento
 
-### 2. Nombre y Dirección del Exportador
+### 2. Nombre y dirección del exportador
 
 ### 3. Fecha en que se realizó el tratamiento
 
@@ -38,11 +38,13 @@ Resuelvo:
 
 En forma alternativa se aceptará la habilitación de instalaciones de tratamiento en el extranjero, previa auditoría por profesionales del Servicio, y firma de un Acuerdo Operacional que estipule las obligaciones de las partes. La visita de habilitación y las visitas de auditoría serán de cargo de los importadores interesados en habilitar determinadas instalaciones en el país de origen.
 
-El Servicio podrá autorizar que los vehículos usados, partes y piezas de vehículos usados, ropa usada, juguetes usados y zapatos usados procedentes de Estados Unidos de Norteamérica, que arriben al país, sean sometidos en el territorio nacional a uno de los tratamientos detallados en el resuelvo 3 de esta resolución.
+El Servicio podrá autorizar que los vehículos usados, partes y piezas de vehículos usados, ropa usada, juguetes usados y zapatos usados procedentes de Estados Unidos de Norteamérica, que arriben al país sean sometidos en el territorio nacional a uno de los tratamientos detallados en el resuelvo 3 de esta resolución.
 
 El tratamiento fitosanitario deberá ser realizado en el punto de ingreso, en recintos considerados como zona primaria o bien otros lugares autorizados por el Ministerio de Salud. El traslado a estos lugares deberá contar con la autorización del Servicio Nacional de Aduanas. Estas aplicaciones deben ser realizadas por empresas de tratamiento registradas bajo el Sistema Nacional de Autorización de Terceros en la ejecución de tratamientos fitosanitarios, dando cumplimiento a los procedimientos establecidos en la normativa vigente y entregando un Certificado de Tratamiento al término del tratamiento.
 
-Además, los tratamientos fitosanitarios ordenados por el Servicio, en lugares donde no existan Terceros Autorizados, podrán ser realizados por empresas de la zona que estén autorizadas por el Ministerio de Salud u otro organismo competente, que cuenten con las condiciones, infraestructura, equipamiento y materiales necesarios para realizar el tratamiento solicitado por el SAG. El Servicio determinará los tipos de tratamientos que podrán ejecutar estas empresas bajo supervisión presencial permanente de un inspector SAG, todo a costo del importador. La empresa debe hacer entrega de un Certificado de Tratamiento al término del tratamiento, en cumplimiento con lo establecido por el Ministerio de Salud y el SAG.
+Además, los tratamientos fitosanitarios ordenados por el Servicio, en lugares donde no existan Terceros Autorizados, podrán ser realizados por empresas de la zona que estén autorizadas por el Ministerio de Salud u otro organismo competente, que cuenten con las condiciones, infraestructura, equipamiento y materiales necesarios para realizar el tratamiento solicitado por el SAG.
+
+El Servicio determinará los tipos de tratamientos que podrán ejecutar estas empresas bajo supervisión presencial permanente de un inspector SAG, todo a costo del importador. La empresa debe hacer entrega de un Certificado de Tratamiento al término del tratamiento, en cumplimiento con lo establecido por el Ministerio de Salud y el SAG.
 
 Ante la imposibilidad de aplicar un tratamiento fitosanitario en Chile o por negativa del importador a la ejecución del tratamiento, la mercadería deberá ser rechazada y reembarcada al país de origen o redestinada a otro mercado, en cumplimiento con los plazos definidos por el Servicio.
 
@@ -56,7 +58,7 @@ b) Tratamientos de fumigación con bromuro de metilo y fosfina.
 
 Estos tratamientos se encuentran autorizados para vehículos usados (incluidas las partes y piezas de vehículos usados), ropa usada, calzado usado y juguetes usados.
 
-b.1. Fumigación con Bromuro de metilo
+b. l. Fumigación con bromuro de metilo
 
 .
 
