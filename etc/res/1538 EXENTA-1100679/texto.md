@@ -110,6 +110,8 @@ Los expedientes deberán presentarse con la totalidad de los documentos señalad
 
 Asimismo, serán inadmisibles los expedientes de las copropiedades que mantengan subsidios vigentes no pagados, otorgados en virtud de las resoluciones exentas Nº 3.239 (V. y U.), de 2011; Nº 3.448 (V. y U.), de 2012; Nº 739 (V. y U.), de 2013; Nº 955 (V. y U.), de 2014; Nº 923 (V. y U.), de 2015 y N° 1.290 (V. y U.), de 2016, correspondientes a los Llamados Extraordinarios del Programa de Protección del Patrimonio Familiar para la atención de Condominios Sociales entre los años 2011 y 2016; así como aquellos otorgados en virtud de las resoluciones exentas Nº 544, del 3 de octubre de 2014 y Nº 72, del 30 de enero de 2015, ambas del Seremi (V. y U.) de Tarapacá, correspondientes a los Llamados Extraordinarios para la atención de Condominios Sociales afectados por Sismo.
 
+Las copropiedades intervenidas mediante proyectos amparados en la resolución exenta N° 1.386 (V. y U.), de 2017, que reglamenta las iniciativas de inversión destinadas a financiar obras de Conservación de Bienes Comunes en Condominios de Viviendas Sociales de la Región Metropolitana, solo podrán postular a partidas de obra distintas a las financiadas mediante dichas inversiones, siempre que no afecten los elementos reparados o mejorados a través del Plan de Conservación.
+
 9. Las comunidades de copropietarios que cumplan con los requisitos y antecedentes enunciados en los resuelvos 4 y 7 de la presente resolución exenta, serán certificadas por la Seremi como copropiedades objeto del presente llamado, mediante resolución, habilitándolas para la postulación al subsidio y la presentación de proyectos al Serviu correspondiente. Excepcionalmente, la Seremi podrá certificar copropiedades que no cumplan con los requisitos señalados en las letras d) y/o g) del resuelvo 7 de la presente resolución exenta.
 
 Las copropiedades certificadas durante 2015 o 2016, podrán postular al presente llamado sin necesidad de presentar un nuevo Expediente. No obstante, las copropiedades certificadas durante 2015 deberán presentar una versión actualizada del Diagnóstico Socio-jurídico señalado en la letra c) del resuelvo 7 de la presente resolución, al momento de ingresar a Serviu los antecedentes para la postulación. Por su parte, los casos que no correspondan a una de las situaciones anteriormente descritas deberán presentar un nuevo Expediente.
@@ -155,8 +157,6 @@ En el caso de los proyectos que ingresen a Serviu en la modalidad de Subsidio a 
 15. La ejecución de los proyectos seleccionados; los gastos de asistencia técnica correspondientes, las obras de acondicionamiento térmico y eficiencia energética, así como los incrementos de subsidio, serán financiados con los recursos disponibles para este llamado, conforme a lo establecido en el resuelvo 16 de la presente resolución exenta.
 
 16. Los recursos disponibles para efectuar la selección de proyectos en Condominios Sociales que resulten certificados como Copropiedades Objeto del Programa, serán los siguientes:
-
-.
 
 A partir del mes de julio de 2017, la Subsecretaría de Vivienda y Urbanismo, mediante resoluciones exentas, podrá reasignar estos recursos entre regiones a fin de garantizar la completa asignación de los subsidios del presente llamado.
 
