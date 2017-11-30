@@ -34,27 +34,39 @@ El sistema educativo chileno se construye sobre la base de los derechos garantiz
 
 a) Universalidad y educación permanente. La educación debe estar al alcance de todas las personas a lo largo de toda la vida.
 
-b) Calidad de la educación. La educación debe propender a asegurar que todos los alumnos y alumnas, independientemente de sus condiciones y circunstancias, alcancen los objetivos generales y los estándares de aprendizaje que se definan en la forma que establezca la ley.
+b) Gratuidad. El Estado implantará progresivamente la enseñanza gratuita en los establecimientos subvencionados o que reciben aportes permanentes del Estado, de conformidad a la ley.
 
-c) Equidad del sistema educativo. El sistema propenderá a asegurar que todos los estudiantes tengan las mismas oportunidades de recibir una educación de calidad, con especial atención en aquellas personas o grupos que requieran apoyo especial.
+c) Calidad de la educación. La educación debe propender a asegurar que todos los alumnos y alumnas, independientemente de sus condiciones y circunstancias, alcancen los objetivos generales y los estándares de aprendizaje que se definan en la forma que establezca la ley.
 
-d) Autonomía. El sistema se basa en el respeto y fomento de la autonomía de los establecimientos educativos. Consiste en la definición y desarrollo de sus proyectos educativos, en el marco de las leyes que los rijan.
+d) Equidad del sistema educativo. El sistema propenderá a asegurar que todos los estudiantes tengan las mismas oportunidades de recibir una educación de calidad, con especial atención en aquellas personas o grupos que requieran apoyo especial.
 
-e) Diversidad. El sistema debe promover y respetar la diversidad de procesos y proyectos educativos institucionales, así como la diversidad cultural, religiosa y social de las poblaciones que son atendidas por él.
+e) Autonomía. El sistema se basa en el respeto y fomento de la autonomía de los establecimientos educativos. Consiste en la definición y desarrollo de sus proyectos educativos, en el marco de las leyes que los rijan.
 
-f) Responsabilidad. Todos los actores del proceso educativo deben cumplir sus deberes y rendir cuenta pública cuando corresponda.
+f) Diversidad. El sistema debe promover y respetar la diversidad de procesos y proyectos educativos institucionales, así como la diversidad cultural, religiosa y social de las familias que han elegido un proyecto diverso y determinado, y que son atendidas por él, en conformidad a la Constitución y las leyes.
 
-g) Participación. Los miembros de la comunidad educativa tienen derecho a ser informados y a participar en el proceso educativo en conformidad a la normativa vigente.
+En los establecimientos educacionales de propiedad o administración del Estado se promoverá la formación laica, esto es, respetuosa de toda expresión religiosa, y la formación ciudadana de los estudiantes, a fin de fomentar su participación en la sociedad.
 
-h) Flexibilidad. El sistema debe permitir la adecuación del proceso a la diversidad de realidades y proyectos educativos institucionales.
+g) Responsabilidad. Todos los actores del proceso educativo deben cumplir sus deberes y rendir cuenta pública cuando corresponda.
 
-i) Transparencia. La información desagregada del conjunto del sistema educativo, incluyendo los ingresos y gastos y los resultados académicos, debe estar a disposición de los ciudadanos, a nivel de establecimiento, comuna, provincia, región y país.
+Asimismo, el sistema educativo deberá promover el principio de la responsabilidad de los alumnos, especialmente en relación con el ejercicio de sus derechos y el cumplimiento de sus deberes escolares, cívicos, ciudadanos y sociales. Este principio se hará extensivo a los padres y apoderados, en relación con la educación de sus hijos o pupilos.
 
-j) Integración. El sistema propiciará la incorporación de alumnos de diversas condiciones sociales, étnicas, religiosas, económicas y culturales.
+h) Participación. Los miembros de la comunidad educativa tienen derecho a ser informados y a participar en el proceso educativo en conformidad a la normativa vigente.
 
-k) Sustentabilidad. El sistema fomentará el respeto al medio ambiente y el uso racional de los recursos naturales, como expresión concreta de la solidaridad con las futuras generaciones.
+i) Flexibilidad. El sistema debe permitir la adecuación del proceso a la diversidad de realidades, asegurando la libertad de enseñanza y la posibilidad de existencia de proyectos educativos institucionales diversos.
 
-l) Interculturalidad. El sistema debe reconocer y valorar al individuo en su especificidad cultural y de origen, considerando su lengua, cosmovisión e historia.
+j) Transparencia. La información desagregada del conjunto del sistema educativo, incluyendo los ingresos y gastos y los resultados académicos, debe estar a disposición de los ciudadanos, a nivel de establecimiento, comuna, provincia, región y país.
+
+k) Integración e inclusión. El sistema propenderá a eliminar todas las formas de discriminación arbitraria que impidan el aprendizaje y la participación de los y las estudiantes.
+
+Asimismo, el sistema propiciará que los establecimientos educativos sean un lugar de encuentro entre los y las estudiantes de distintas condiciones socioeconómicas, culturales, étnicas, de género, de nacionalidad o de religión.
+
+l) Sustentabilidad. El sistema incluirá y fomentará el respeto al medio ambiente natural y cultural, la buena relación y el uso racional de los recursos naturales y su sostenibilidad, como expresión concreta de la solidaridad con las actuales y futuras generaciones.
+
+m) Interculturalidad. El sistema debe reconocer y valorar al individuo en su especificidad cultural y de origen, considerando su lengua, cosmovisión e historia.
+
+n) Dignidad del ser humano. El sistema debe orientarse hacia el pleno desarrollo de la personalidad humana y del sentido de su dignidad, y debe fortalecer el respeto, protección y promoción de los derechos humanos y las libertades fundamentales consagradas en la Constitución Política de la República, así como en los tratados internacionales ratificados por Chile y que se encuentren vigentes.
+
+ñ) Educación integral. El sistema educativo buscará desarrollar puntos de vista alternativos en la evolución de la realidad y de las formas múltiples del conocer, considerando además, los aspectos físico, social, moral, estético, creativo y espiritual, con atención especial a la integración de todas las ciencias, artes y disciplinas del saber.
 
 ### Párrafo 2º
 
@@ -64,13 +76,15 @@ Derechos y deberes
 
 La educación es un derecho de todas las personas. Corresponde preferentemente a los padres el derecho y el deber de educar a sus hijos; al Estado, el deber de otorgar especial protección al ejercicio de este derecho y, en general, a la comunidad, el deber de contribuir al desarrollo y perfeccionamiento de la educación.
 
+Es deber del Estado propender a asegurar a todas las personas una educación inclusiva de calidad. Asimismo, es deber del Estado promover que se generen las condiciones necesarias para el acceso y permanencia de los estudiantes con necesidades educativas especiales en establecimientos de educación regular o especial, según sea el interés superior del niño o pupilo.
+
 Es deber del Estado promover la educación parvularia en todos sus niveles y garantizar el acceso gratuito y el financiamiento fiscal para el primer y segundo nivel de transición, sin que éstos constituyan requisitos para el ingreso a la educación básica.
 
-La educación básica y la educación media son obligatorias, debiendo el Estado financiar un sistema gratuito destinado a asegurar el acceso a ellas de toda la población, así como generar las condiciones para la permanencia en el mismo de conformidad a la ley.
+La educación básica y la educación media son obligatorias, debiendo el Estado financiar un sistema gratuito destinado a asegurar el acceso equitativo, inclusivo y sin discriminaciones arbitrarias a ellas de toda la población, así como generar las condiciones para la permanencia en el mismo de conformidad a la ley.
 
 El sistema de educación será de naturaleza mixta, incluyendo una de propiedad y administración del Estado o sus órganos, y otra particular, sea ésta subvencionada o pagada, asegurándole a los padres y apoderados la libertad de elegir el establecimiento educativo para sus hijos.
 
-Sin perjuicio de sus demás deberes, es deber del Estado que el sistema integrado por los establecimientos educacionales de su propiedad provea una educación gratuita y de calidad, fundada en un proyecto educativo público, laico, esto es, respetuoso de toda expresión religiosa, y pluralista, que permita el acceso a él a toda la población y que promueva la inclusión social y la equidad.
+Sin perjuicio de sus demás deberes, es deber del Estado que el sistema integrado por los establecimientos educacionales de su propiedad provea una educación gratuita y de calidad, fundada en un proyecto educativo público, laico, esto es, respetuoso de toda expresión religiosa, y pluralista, que permita el acceso a él a toda la población y que promueva la inclusión social, la equidad, la libertad y la tolerancia.
 
 Es deber del Estado promover políticas educacionales que reconozcan y fortalezcan las culturas originarias.
 
@@ -84,7 +98,7 @@ Es deber del Estado velar por la igualdad de oportunidades y la inclusión educa
 
 #### Artículo 5º
 
-Corresponderá al Estado, asimismo, fomentar la probidad, el desarrollo de la educación en todos los niveles y modalidades y promover el estudio y conocimiento de los derechos esenciales que emanan de la naturaleza humana; fomentar una cultura de la paz y de la no discriminación arbitraria; estimular la investigación científica, tecnológica y la innovación, la creación artística, la práctica del deporte, la protección y conservación del patrimonio cultural y medio ambiental, y la diversidad cultural de la Nación.
+Corresponderá al Estado, asimismo, fomentar la probidad, el desarrollo de una educación inclusiva en todos los niveles y modalidades y promover el estudio y conocimiento de los derechos esenciales que emanan de la naturaleza humana; fomentar una cultura de la paz y de la no discriminación arbitraria; fomentar el desarrollo de una cultura cívica y laica, esto es, respetuosa de toda expresión religiosa; y que promueva la participación activa, ética y solidaria de las personas en la sociedad, con fundamento en los tratados internacionales sobre derechos humanos ratificados por Chile y que se encuentran vigentes; estimular la investigación científica, tecnológica y la innovación, la creación artística, la práctica del deporte, la protección y conservación del patrimonio cultural y medio ambiental, y la diversidad cultural de la Nación.
 
 #### Artículo 6º
 
@@ -122,13 +136,13 @@ La comunidad educativa está integrada por alumnos, alumnas, padres, madres y ap
 
 Sin perjuicio de los derechos y deberes que establecen las leyes y reglamentos, los integrantes de la comunidad educativa gozarán de los siguientes derechos y estarán sujetos a los siguientes deberes:
 
-a) Los alumnos y alumnas tienen derecho a recibir una educación que les ofrezca oportunidades para su formación y desarrollo integral; a recibir una atención adecuada y oportuna, en el caso de tener necesidades educativas especiales; a no ser discriminados arbitrariamente; a estudiar en un ambiente tolerante y de respeto mutuo, a expresar su opinión y a que se respete su integridad física y moral, no pudiendo ser objeto de tratos vejatorios o degradantes y de maltratos psicológicos. Tienen derecho, además, a que se respeten su libertad personal y de conciencia, sus convicciones religiosas e ideológicas y culturales, conforme al reglamento interno del establecimiento. De igual modo, tienen derecho a ser informados de las pautas evaluativas; a ser evaluados y promovidos de acuerdo a un sistema objetivo y transparente, de acuerdo al reglamento de cada establecimiento; a participar en la vida cultural, deportiva y recreativa del establecimiento, y a asociarse entre ellos.
+a) Los alumnos y alumnas tienen derecho a recibir una educación que les ofrezca oportunidades para su formación y desarrollo integral; a recibir una atención y educación adecuada, oportuna e inclusiva, en el caso de tener necesidades educativas especiales; a no ser discriminados arbitrariamente; a estudiar en un ambiente tolerante y de respeto mutuo, a expresar su opinión y a que se respete su integridad física y moral, no pudiendo ser objeto de tratos vejatorios o degradantes y de maltratos psicológicos. Tienen derecho, además, a que se respeten su libertad personal y de conciencia, sus convicciones religiosas e ideológicas y culturales. Asimismo, tienen derecho a que se respeten las tradiciones y costumbres de los lugares en los que residen, conforme al proyecto educativo institucional y al reglamento interno del establecimiento. De igual modo, tienen derecho a ser informados de las pautas evaluativas; a ser evaluados y promovidos de acuerdo a un sistema objetivo y transparente, de acuerdo al reglamento de cada establecimiento; a participar en la vida cultural, deportiva y recreativa del establecimiento, y a asociarse entre ellos.
 
 Son deberes de los alumnos y alumnas brindar un trato digno, respetuoso y no discriminatorio a todos los integrantes de la comunidad educativa; asistir a clases; estudiar y esforzarse por alcanzar el máximo de desarrollo de sus capacidades; colaborar y cooperar en mejorar la convivencia escolar, cuidar la infraestructura educacional y respetar el proyecto educativo y el reglamento interno del establecimiento.
 
-b) Los padres, madres y apoderados tienen derecho a ser informados por los directivos y docentes a cargo de la educación de sus hijos respecto de los rendimientos académicos y del proceso educativo de éstos, así como del funcionamiento del establecimiento, y a ser escuchados y a participar del proceso educativo en los ámbitos que les corresponda, aportando al desarrollo del proyecto educativo en conformidad a la normativa interna del establecimiento. El ejercicio de estos derechos se realizará, entre otras instancias, a través del Centro de Padres y Apoderados.
+b) Los padres, madres y apoderados tienen derecho a asociarse libremente, con la finalidad de lograr una mejor educación para sus hijos, a ser informados por el sostenedor y los directivos y docentes a cargo de la educación de sus hijos o pupilos respecto de los rendimientos académicos, de la convivencia escolar y del proceso educativo de éstos, así como del funcionamiento del establecimiento, y a ser escuchados y a participar del proceso educativo en los ámbitos que les corresponda, aportando al desarrollo del proyecto educativo en conformidad a la normativa interna del establecimiento. El ejercicio de estos derechos se realizará, entre otras instancias, a través del Centro de Padres y Apoderados.
 
-Por su parte, son deberes de los padres, madres y apoderados educar a sus hijos e informarse sobre el proyecto educativo y normas de funcionamiento del establecimiento que elijan para éstos; apoyar su proceso educativo; cumplir con los compromisos asumidos con el establecimiento educacional; respetar su normativa interna, y brindar un trato respetuoso a los integrantes de la comunidad educativa.
+Por su parte, son deberes de los padres, madres y apoderados educar a sus hijos, informarse, respetar y contribuir a dar cumplimiento al proyecto educativo, a las normas de convivencia y a las de funcionamiento del establecimiento que elijan para éstos; apoyar sus procesos educativos; cumplir con los compromisos asumidos con el establecimiento educacional; respetar su normativa interna y brindar un trato respetuoso a los integrantes de la comunidad educativa.
 
 c) Los profesionales de la educación tienen derecho a trabajar en un ambiente tolerante y de respeto mutuo; del mismo modo, tienen derecho a que se respete su integridad física, psicológica y moral, no pudiendo ser objeto de tratos vejatorios, degradantes o maltratos psicológicos por parte de los demás integrantes de la comunidad educativa. Además, tienen derecho a proponer las iniciativas que estimaren útiles para el progreso del establecimiento, en los términos previstos por la normativa interna, procurando, además, disponer de los espacios adecuados para realizar en mejor forma su trabajo.
 
@@ -154,15 +168,15 @@ Son deberes de los sostenedores cumplir con los requisitos para mantener el reco
 
 El embarazo y la maternidad en ningún caso constituirán impedimento para ingresar y permanecer en los establecimientos de educación de cualquier nivel, debiendo estos últimos otorgar las facilidades académicas y administrativas que permitan el cumplimiento de ambos objetivos.
 
-En los establecimientos que reciben aporte estatal, el cambio del estado civil de los padres y apoderados, no será motivo de impedimento para la continuidad del alumno o alumna dentro del establecimiento.
+En los establecimientos educacionales reconocidos oficialmente por el Estado, el cambio del estado civil de los padres y apoderados, no será motivo de impedimento para la continuidad del alumno o alumna dentro del establecimiento.
 
 Del mismo modo, durante la vigencia del respectivo año escolar o académico, no se podrá cancelar la matrícula, ni suspender o expulsar alumnos por causales que se deriven del no pago de obligaciones contraídas por los padres o del rendimiento de los alumnos.
 
 El no pago de los compromisos contraídos por el alumno o por el padre o apoderado no podrá servir de fundamento para la aplicación de ningún tipo de sanción a los alumnos durante el año escolar y nunca podrá servir de fundamento para la retención de su documentación académica, sin perjuicio del ejercicio de otros derechos por parte del sostenedor o de la institución educacional, en particular, los referidos al cobro de arancel o matrícula, o ambos, que el padre o apoderado hubiere comprometido.
 
-En los establecimientos subvencionados, el rendimiento escolar del alumno, entre el primer nivel de transición de la educación parvularia y hasta sexto año de educación general básica, no será obstáculo para la renovación de su matrícula.
+En los establecimientos reconocidos oficialmente por el Estado, el rendimiento escolar del alumno, no será obstáculo para la renovación de su matrícula.
 
-Asimismo, en los establecimientos subvencionados, los alumnos tendrán derecho a repetir curso en un mismo establecimiento a lo menos en una oportunidad en la educación básica y en una oportunidad en la educación media, sin que por esa causal les sea cancelada o no renovada su matrícula.
+Sin embargo, en los establecimientos reconocidos oficialmente por el Estado, los alumnos tendrán derecho a repetir curso en un mismo establecimiento a lo menos en una oportunidad en la educación básica y en una oportunidad en la educación media, sin que por esa causal les sea cancelada o no renovada su matrícula.
 
 En el caso que en la misma comuna o localidad no exista otro establecimiento de igual nivel o modalidad, lo señalado en el inciso anterior no podrá afectar de manera alguna el derecho a la educación.
 
@@ -170,13 +184,17 @@ Ni el Estado, ni los establecimientos educacionales podrán discriminar arbitrar
 
 #### Artículo 12
 
-En los procesos de admisión de los establecimientos subvencionados o que reciban aportes regulares del Estado, que posean oferta educativa entre el primer nivel de transición y sexto año de la educación general básica, en ningún caso se podrá considerar en cada uno de estos cursos el rendimiento escolar pasado o potencial del postulante. Asimismo, en dichos procesos no será requisito la presentación de antecedentes socioeconómicos de la familia del postulante.
+En los procesos de admisión de los establecimientos subvencionados o que reciban aportes regulares del Estado, en ningún caso se podrá considerar el rendimiento escolar pasado o potencial del postulante. Asimismo, en dichos procesos no será requisito la presentación de antecedentes socioeconómicos de la familia del postulante, tales como nivel de escolaridad, estado civil y situación patrimonial de los padres, madres o apoderados.
+
+Los procesos de admisión de estudiantes a los establecimientos educacionales se realizarán por medio de un sistema que garantice la transparencia, equidad e igualdad de oportunidades, y que vele por el derecho preferente de los padres, madres o apoderados de elegir el establecimiento educacional para sus hijos.
+
+Lo señalado en los incisos anteriores es sin perjuicio de lo dispuesto en el decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
 
 #### Artículo 13
 
-Sin perjuicio de lo señalado en el artículo anterior, los procesos de admisión de alumnos deberán ser objetivos y transparentes, asegurando el respeto a la dignidad de los alumnos, alumnas y sus familias, de conformidad con las garantías establecidas en la Constitución y en los tratados suscritos y ratificados por Chile.
+Sin perjuicio de lo señalado en el artículo anterior, los procesos de admisión de alumnos y alumnas deberán ser objetivos y transparentes, publicados en medios electrónicos, en folletos o murales públicos. En ningún caso se podrán implementar procesos que impliquen discriminaciones arbitrarias, debiendo asegurarse el respeto a la dignidad de los alumnos, alumnas y sus familias, de conformidad con las garantías reconocidas en la Constitución y en los tratados internacionales sobre derechos humanos ratificados por Chile, en especial aquellos que versen sobre derechos de los niños y que se encuentren vigentes.
 
-Al momento de la convocatoria, el sostenedor del establecimiento deberá informar:
+Al momento de la convocatoria, el sostenedor del establecimiento deberá informar, en los casos que corresponda y de conformidad a la ley:
 
 a) Número de vacantes ofrecidas en cada nivel;
 
@@ -191,6 +209,8 @@ e) Tipos de pruebas a las que serán sometidos los postulantes;
 f) Monto y condiciones de cobro por participar en el proceso, y
 
 g) Proyecto educativo del establecimiento.
+
+Los directamente afectados por una acción u omisión que importe discriminación arbitraria en el ámbito educacional podrán interponer la acción de no discriminación arbitraria establecida en la ley Nº20.609, sin perjuicio de lo establecido en la Convención Relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza.
 
 #### Artículo 14
 
@@ -446,6 +466,8 @@ En el caso de los establecimientos educacionales que ofrezcan la formación dife
 
 Corresponderá al Presidente de la República, mediante decreto supremo dictado a través del Ministerio de Educación, previa aprobación del Consejo Nacional de Educación, establecer las bases curriculares para la educación parvularia, básica y media. Éstas definirán, por ciclos o años, respectivamente, los objetivos de aprendizaje que permitan el logro de los objetivos generales para cada uno de los niveles establecidos en esta ley. Las bases curriculares aprobadas deberán publicarse íntegramente en el Diario Oficial.
 
+Las bases curriculares tendrán una vigencia mínima de seis años. Sus modificaciones y actualizaciones deberán incorporar, a lo menos, procesos de diagnóstico, consulta, evaluación y retroalimentación. Con todo, en casos fundados, podrán introducirse actualizaciones o ajustes a asignaturas, o a especialidades de la modalidad técnico-profesional, en un período inferior al señalado anteriormente.
+
 El Consejo Nacional de Educación aprobará las bases curriculares de acuerdo al procedimiento del artículo 86, velando por que los objetivos de aprendizaje contemplados en éstas sean relevantes, actuales y coherentes con los objetivos generales establecidos en la ley. Asimismo, deberá constatar que los objetivos de aprendizaje que se le presentan sean adecuados a la edad de los estudiantes, estén debidamente secuenciados y sean abordables en el tiempo escolar disponible en cada nivel y modalidad, y se adecuen al tiempo de libre disposición señalado en el inciso final de este articulo.
 
 El Consejo Nacional de Educación tendrá un plazo de sesenta días para aprobar, rechazar o hacer observaciones a la propuesta del Ministerio de Educación. En caso de que formule observaciones, el Ministerio de Educación tendrá un plazo de treinta días para dar respuesta a éstas, tras lo cual el Consejo deberá aprobar o rechazar la propuesta en un plazo de cuarenta y cinco días.
@@ -463,6 +485,8 @@ No obstante, dicho ministerio podrá objetar los respectivos planes y programas 
 En todo caso, procederá el reclamo de los afectados por la decisión del Ministerio de Educación, en única instancia, ante el Consejo Nacional de Educación, en el plazo de quince días contados desde la fecha de la notificación del rechazo, disponiendo dicho Consejo de cuarenta y cinco días para pronunciarse sobre el reclamo.
 
 Para los establecimientos que operen en el régimen de jornada escolar completa, las bases curriculares para la educación parvularia, básica y media deberán asegurar una proporción equivalente al 30% de tiempo de trabajo escolar de libre disposición. En ese mismo régimen, los planes y programas de estudios para los niveles de educación básica y media que elabore el Ministerio de Educación deberán asegurar, a lo menos, una proporción equivalente al 15% de tiempo de trabajo escolar de libre disposición.
+
+> **Nota.** El artículo 11 transitorio de la presente norma dispone que el inciso segundo entrará en vigencia al inicio del año escolar 2026.
 
 #### Artículo 32
 
@@ -580,21 +604,25 @@ La solicitud precedente será sometida al procedimiento administrativo que se es
 
 Una vez reconocidos, estos establecimientos educacionales deberán cumplir los objetivos generales establecidos en esta ley, así como los estándares nacionales de aprendizaje que se exigen al conjunto del sistema escolar. De esta manera, podrán certificar estudios conforme a sus propuestas educativas, debiendo en enseñanza media cumplir al menos las exigencias que permitan a sus alumnos acceder a la licencia de educación media.
 
+Un establecimiento educacional que haya comenzado el proceso de reconocimiento oficial sólo podrá iniciar actividades una vez concluido plenamente el acto administrativo de reconocimiento oficial referido en el inciso primero del presente artículo.
+
+El incumplimiento del requisito descrito en el inciso anterior se considerará una infracción grave, según lo dispuesto en el artículo 76 de la ley Nº 20.529.
+
 #### Artículo 46
 
 El Ministerio de Educación reconocerá oficialmente a los establecimientos educacionales que impartan enseñanza en los niveles de educación parvularia, básica y media, cuando así lo soliciten y cumplan con los siguientes requisitos:
 
-a) Tener un sostenedor. Serán sostenedores las personas jurídicas de derecho público, tales como municipalidades y otras entidades creadas por ley, y las personas jurídicas de derecho privado cuyo objeto social único sea la educación. El sostenedor será responsable del funcionamiento del establecimiento educacional.
+a) Tener un sostenedor. Serán sostenedores las personas jurídicas de derecho público, tales como municipalidades y otras entidades creadas o reconocidas por ley, y las personas jurídicas de derecho privado cuyo objeto social único sea la educación. El sostenedor será responsable del funcionamiento del establecimiento educacional.
 
-Todos los sostenedores que reciban recursos estatales deberán rendir cuenta pública respecto del uso de los recursos y estarán sujetos a la fiscalización y auditoría de los mismos que realizará la Superintendencia de Educación.
+Todos los sostenedores que reciban subvenciones o aportes regulares del Estado no podrán perseguir fines de lucro, y deberán destinar de manera íntegra y exclusiva esos aportes y cualesquiera otros ingresos a fines educativos. Asimismo, deberán rendir cuenta pública respecto de su uso y estarán sujetos a la fiscalización y auditoría de la Superintendencia de Educación.
 
-El representante legal y el administrador de entidades sostenedoras de establecimientos educacionales deberán cumplir con los siguientes requisitos: Estar en posesión de un título profesional o licenciatura de al menos ocho semestres, otorgado por una universidad o instituto profesional del Estado o reconocido por éste; no haber sido sancionado con las inhabilidades para ser sostenedor por haber cometido alguna de las infracciones graves señaladas en el artículo 50 del decreto con fuerza de ley Nº 2, de 1998, de Educación; no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes, u otros que establezca la ley.
+El representante legal y el administrador de entidades sostenedoras de establecimientos educacionales deberán cumplir con los siguientes requisitos: estar en posesión de un título profesional o licenciatura de al menos ocho semestres, otorgado por una universidad o instituto profesional del Estado o reconocido por éste; no haber sido sancionado con las inhabilidades para ser sostenedor por haber cometido alguna de las infracciones graves señaladas en el artículo 50 del decreto con fuerza de ley Nº 2, de 1998, de Educación; no haber sido condenado, en más de una ocasión dentro de los últimos cinco años, por un tribunal de la República por haber ejercido prácticas antisindicales, por haber incumplido la ley Nº19.631 en cuanto al pago de las cotizaciones previsionales de sus trabajadores, o en virtud de acciones de tutela laboral por vulneración de derechos fundamentales de los trabajadores; no haber sido condenado, como autor, cómplice o encubridor, por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes, u otros que establezca la ley, y no haber sido condenado con la pena de inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad a que se refiere el artículo 39 bis del Código Penal.
 
 Las sanciones de inhabilidad aplicadas por infracciones cometidas por la entidad sostenedora se entenderán aplicadas a su representante legal y administrador.
 
 La calidad de sostenedor no podrá transferirse ni transmitirse en caso alguno y bajo ningún título. No obstante, podrán transferirse y transmitirse los bienes muebles o inmuebles que componen el establecimiento.
 
-b) Contar con un proyecto educativo.
+b) Contar con un proyecto educativo, el que, en todo caso, deberá resguardar el principio de no discriminación arbitraria, no pudiendo incluir condiciones o normas que afecten la dignidad de la persona, ni que sean contrarios a los derechos humanos garantizados por la Constitución y los tratados internacionales ratificados por Chile y que se encuentren vigentes, en especial aquellos que versen sobre los derechos de los niños.
 
 c) Ceñirse, en los programas de estudio que apliquen, a las bases curriculares elaboradas por el Ministerio de Educación de acuerdo a lo señalado en los artículos 31 o 32 de esta ley.
 
@@ -608,7 +636,7 @@ g) Tener el personal docente idóneo que sea necesario y el personal asistente d
 
 Tratándose de la educación parvularia y básica, se entenderá por docente idóneo al que cuente con el título de profesional de la educación del respectivo nivel y especialidad cuando corresponda, o esté habilitado para ejercer la función docente según las normas legales vigentes. En la educación media, se entenderá por docente idóneo al que cuente con el título de profesional de la educación del respectivo nivel y especialidad cuando corresponda, o esté habilitado para ejercer la función docente según las normas legales vigentes, o esté en posesión de un título profesional o licenciatura de al menos ocho semestres, de una universidad acreditada, en un área afín a la especialidad que imparta, para lo cual estará autorizado a ejercer la docencia por un período máximo de tres años renovables por otros dos, de manera continua o discontinua y a la sola petición del director del establecimiento. Después de los cinco años, para continuar ejerciendo la docencia deberá poseer el título profesional de la educación respectivo, o estar cursando estudios conducentes a dicho grado o acreditar competencias docentes de acuerdo a lo que establezca el reglamento. Este reglamento sólo podrá establecer los instrumentos de evaluación de conocimientos disciplinarios y prácticas pedagógicas como el medio idóneo para acreditar competencias docentes.
 
-Los docentes, habilitados conforme a la ley y el personal asistente de la educación deberán, además, poseer idoneidad moral, entendiéndose por tal no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes, o la ley Nº 20.066, que sanciona la violencia intrafamiliar.
+Los docentes, habilitados conforme a la ley y el personal asistente de la educación deberán, además, poseer idoneidad moral, entendiéndose por tal no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes, o la ley Nº 20.066, que sanciona la violencia intrafamiliar, ni a la pena de inhabilitación establecida en el artículo 39 bis del Código Penal.
 
 h) Acreditar un capital mínimo pagado, en proporción a la matrícula proyectada para el siguiente, según la tabla que se establece a continuación:
 
@@ -1502,7 +1530,7 @@ Mientras no se efectúen los nombramientos de todos los integrantes del Consejo 
 
 #### Artículo 8º
 
-La estructura curricular establecida en el artículo 25 comenzará a regir a partir del año escolar que se inicie ocho años después de la entrada en vigencia de la ley Nº 20.370.
+La estructura curricular establecida en el artículo 25 comenzará a regir a partir del año escolar 2026.
 
 A contar de dicho año escolar, los cursos de séptimo y octavo año de la enseñanza básica y primero, segundo, tercero y cuarto año de la enseñanza media pasarán a denominarse primero, segundo, tercero, cuarto, quinto y sexto año de la educación media, respectivamente.
 
@@ -1517,6 +1545,10 @@ Tratándose de establecimientos educacionales que impartan exclusivamente enseñ
 #### Artículo 10
 
 En tanto no entren en vigencia las normas que crean la Superintendencia de Educación y la Agencia de Calidad de la Educación, las facultades que la presente ley les otorga serán ejercidas por el Ministerio de Educación.
+
+#### Artículo 11
+
+Lo dispuesto en el inciso segundo del artículo 31 de esta ley entrará en vigencia al inicio del año escolar 2026.
 
 Tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.- Francisco Vidal Salinas, Ministro de Defensa Nacional.- Andrés Velasco Brañes, Ministro de Hacienda.- Paula Quintana Meléndez, Ministra de Planificación.
 
