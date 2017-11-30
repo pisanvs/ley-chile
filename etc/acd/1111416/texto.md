@@ -22,7 +22,7 @@ A. EMISORES NACIONALES:
 
 4. Informar que Fondo Mutuo BICE Manager cambió su nombre por Fondo Mutuo BICE Tesorería.
 
-5. Aprobar las acciones emitidas por empresas extranjeras que se encuentren inscritas y puedan ser transadas en la Bolsa de Valores de Lima (BVL) y que estén incluidas en el Índice "S&P/BVL Perú Select Index".
+5. En virtud de lo establecido en el artículo 105 del DL Nº 3.500, de 1980, solicitar a Securitizadora Security S.A. una tercera clasificación de riesgo de las Series B1 Subordinada, C1 Subordinada y D1 Subordinada de su 14º Patrimonio Separado.
 
 B. EMISORES EXTRANJEROS:
 
