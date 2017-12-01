@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 1416, de 09 de noviembre de 2017, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y del DFL MOP N°206, de 1960, se expropió el lote de terreno N° 54, para la obra "Mejoramiento Ruta F-50, Sector Lo Orozco - Quilpue, Tramo 1: Km. 0,00000 a Km. 11,90000", que figura a nombre de CUADROS ALLENDE NORMA DEL C, rol de avalúo 117-13, Comuna de Casablanca, Región de Valparaíso, superficie 4.091 m2. La Comisión de Peritos integrada por PATRICIO RIVERA CASTRO, PATRICIA ZAVALA CONTRERAS y CLAUDIA ARELLANO GOMEZ, mediante informe de tasación de 09 de junio de 2015, complementada por acta de fecha 26 de diciembre de 2016, fijaron el monto de la indemnización provisional en la cantidad de $25.876.700.- para el lote N° 54. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
