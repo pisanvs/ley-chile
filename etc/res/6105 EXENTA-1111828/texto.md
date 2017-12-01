@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6.105 de 21 de noviembre de 2017, Serviu Región de Valparaíso, reemplácese el resuelvo N° 1 de la resolución exenta N° 5.781 de fecha 6 de noviembre de 2017 por el siguiente "Procédase a expropiar parcialmente el inmueble Signado como lote 12, en el plano de expropiación DRSP 10189, ubicado en Pasaje El Trébol s/n, Manzana M, Sitio 1, Población Las Gaviotas, comuna de Concón, rol de Avalúo 3396-19, presunto dominio de Rosalba Arancibia Moraga, en una superficie de 143,17 m2. Y de acuerdo a los siguientes deslindes especiales: Al Noroeste: en tramo C-D de 13,97 metros con calle El Trébol Poniente; Al Oeste: en tramo D-E de 10,8 metros con calle Proyectada; Al Sur: tramo E-F de 13,87 metros con parte del lote 12; Al Este de 10,82 metros con parte del lote 13".-
+
+Director.
