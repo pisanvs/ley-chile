@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.689, del 17 de noviembre de 2017, Serviu Región del Libertador General Bernardo O'Higgins, ordenó modificar parte de la resolución exenta Nº 3.456 de fecha 25 de octubre de 2016, del inmueble expropiado de aparente dominio de Mirian Gloria Velis Pinto, ubicado en Calle Nevada Nº 1974, Dpto. Nº 403, Etapa 6 Torres 1974 del Conjunto Habitacional Villa Cordillera, comuna de Rancagua. Quedando de esta manera sin efecto parte de la correspondiente resolución en su visto y considerando letra f) Nº 10, en su parte resolutiva numeral 1º Nº 10 y en su tabla del numeral 2 a doña Mirian Gloria Velis Pinto aquí dispuesto. En lo no modificado rige su totalidad la resolución Nº 3.456 de fecha de 25 de octubre 2016.-
+
+Director Serviu Región Libertador Bernardo O'Higgins.
