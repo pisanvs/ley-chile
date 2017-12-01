@@ -1,0 +1,13 @@
+AMPLIACIÓN DE LAS CONCESIONES DE PRODUCCIÓN Y DISTRIBUCIÓN DE AGUA POTABLE Y DE RECOLECCIÓN Y DISPOSICIÓN DE AGUAS SERVIDAS PARA ATENDER EL ÁREA DENOMINADA "SECTOR PEDRO DE VALDIVIA, ÁREAS A-B-C-D", COMUNA DE TEMUCO, IX REGIÓN DE LA ARAUCANÍA
+
+Por decreto número 113, del Ministerio de Obras Públicas, de fecha 10 de octubre de 2017, íntegramente tramitado el 2 de noviembre de 2017, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A.), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el área denominada "Sector Pedro de Valdivia, Áreas A-B-C-D", Comuna de Temuco, IX Región de la Araucanía.
+
+El área de concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas se encuentra identificada y delimitada en el plano denominado "Ampliación Territorio Operacional Sector Ampliación Pedro de Valdivia Áreas A, B, C, D Temuco Contenido: Sector de Ampliación Territorio Operacional Planta General", que forma parte integrante del presente decreto. En el primer establecimiento (año 2022), contar con 710 arranques de agua potable y 710 uniones domiciliarias de alcantarillado, situación que se mantendrá hacia el final del período (año 2032).
+
+El servicio público de producción de agua potable del sector que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1 letra a) de la respectiva Ficha de Antecedentes Técnicos (FAT), sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26 del DS MOP Nº 1.199/04, y se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (FAT) Nº SC-09-29-E, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 10 de noviembre de 2017, ante el Notario de la 34ª Notaría de Santiago, don Eduardo Javier Diez Morello, y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº SC-09-29-E.
+
+Santiago, noviembre de 2017.- Ronaldo Bruna Villena, Superintendente de Servicios Sanitarios.
