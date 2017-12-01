@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6.236, de fecha 13 de noviembre de 2017, de la Dirección del Serviu Metropolitano, se rectifica resolución exenta N° 7.861, de fecha 28 de diciembre de 2015, de la Dirección del Serviu Metropolitano, la cual dispuso la expropiación del inmueble ubicado en Antupirén 9900 PC 4 Barrio Ecológico, de la Comuna de Peñalolén, individualizado en el Plano de Expropiación como Lote 1, necesario para la ejecución del Programa denominado "Terreno Antupirén 9.900 Campamento Toma Peñalolén", de aparente dominio de Conejeros Oliva Ilcia. Se modifican los deslindes de la superficie a expropiar por los siguientes: Nororiente: En 109,38 metros con pasaje y otros propietarios; Norponiente: En 50,56 metros con otros propietarios; Suroriente: En 49,97 metros con calle Antupirén; Surponiente: En 107,88 metros con otros propietarios.-
+
+Director Serviu Metropolitano.
