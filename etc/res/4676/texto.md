@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 4.676 de fecha 23/11/2017, conforme al artículo 51 ley 16.391, DL. 2.186/1978 y DS. 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 60-0, consistente en Retazo de terreno ubicado en esta ciudad con frente al antiguo camino a Chol Chol, hoy Avenida Pero de Valdivia número 0726, ubicada en esta ciudad, comuna de Temuco, Rol de avalúo 1348-11. La superficie a expropiar aproximada es de 58,71 metros cuadrados, de aparente dominio de Angélica Pamela Flores Soto y Manuel Javier Flores Soto. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $22.120.684 según Informe N° 60-0 de fecha 17/11/2017, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
