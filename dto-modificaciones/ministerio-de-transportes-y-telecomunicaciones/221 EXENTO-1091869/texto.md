@@ -52,7 +52,7 @@ ESTUDIO ALTERNATIVO Y PLANTA TRANSMISORA:
 
 IV Región.
 
-- Coordenadas Geográficas : 30°35'32"Latitud Sur; 71°11'22"
+- Coordenadas Geográficas : 30°35'0.7" Latitud Sur; 71°11'10,5"
 
 Longitud Oeste.
 
