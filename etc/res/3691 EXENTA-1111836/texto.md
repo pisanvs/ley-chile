@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.691 del 17 de noviembre de 2017, Serviu Región del Libertador General Bernardo O'Higgins, ordenó modificar parte de la resolución exenta Nº 3.457 de fecha 25 de octubre de 2016, del inmueble expropiado de aparente dominio de Isabel del Carmen Pavez Pontigo, ubicado en Avenida Uruguay Nº 900, Dpto. Nº 504, Etapa 26 del Conjunto Habitacional Villa Cordillera, comuna de Rancagua. Quedando de esta manera sin efecto parte de la correspondiente resolución en su visto y considerando letra f) Nº 15, en su parte Resolutiva Numeral 1º Nº 15 y en su tabla del Numeral 2 a doña Isabel del Carmen Pavez Pontigo aquí dispuesto. En lo no modificado rige su totalidad la resolución Nº 3.457 de fecha 25 de octubre 2016.-
+
+Director Serviu Región Libertador Bernardo O'Higgins.
