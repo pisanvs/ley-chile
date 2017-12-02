@@ -50,7 +50,121 @@ La estación terrena de transmisión (Tierra-espacio) operará en la banda 17,3 
 
 En el caso de solución satelital, el equipamiento adicional deberá cumplir con lo siguiente:
 
-.
+- Banda de frecuencias de recepción: 12,2 - 12,7 GHz;
+
+- Antena parabólica y amplificador LNB, compatible con la banda de frecuencias de operación;
+
+- Sintonizador y demodulador compatible con DVB-S2, Estándar ETSI EN 302 307;
+
+- Tasa de símbolos : 2 - 45 Mbaudios/s;
+
+- Codificación de video : - H.264 (MPEG4
+
+Parte
+
+10 AVC), SD MP@L3
+
+y HD HP@L4,
+
+1920x1080i
+
+mínimo;
+
+- H.265 (HEVC),
+
+SD Main
+
+10@L3
+
+y HD
+
+Main 10 @L4,
+
+1920x1080i
+
+mínimo;
+
+- Codificación de audio : MPEG-1 Layer II,
+
+MPEG-4 AAC;
+
+- Salidas de señal : - HDMI;
+
+- Video compuesto
+
+NTSC (CVBS),
+
+audio
+
+analógico,
+
+canales L y R
+
+con conectores
+
+RCA;
+
+- Control remoto (con baterías o pilas);
+
+- Certificación de la Superintendencia de Electricidad y Combustibles (SEC)
+
+Además, los receptores y control remoto deberán cumplir, a lo menos, con lo siguiente:
+
+FUNCIONALIDADES DEL RECEPTOR
+
+- Acceso Condicional único.
+
+- Finger Print (o equivalente): Capacidad de desplegar el número de serie del STB en una esquina de la imagen.
+
+- SRESET: Comando Reset Remoto del sistema de encriptación.
+
+- SSVCID: Comando remoto del sistema de encriptación para sintonizar un canal de servicio definido como de emergencia.
+
+- EPG: Guía de programación electrónica.
+
+- Ajuste Horario.
+
+- Closed Caption: Soporte para discapacidad auditiva.
+
+- Teletexto.
+
+- HDCP: Protección de contenido.
+
+- Upgrade por OTA: Actualización de software por enlace satelital.
+
+- Menú en Español.
+
+- Sistema de apoyo al apuntamiento: Beep de búsqueda, gráfica en pantalla u otro.
+
+- Conexión Loop RF.
+
+COMPORTAMIENTO EN USO
+
+- Funcionamiento en 24 horas sin interrupciones.
+
+- Cambio de 10 canales consecutivos sin producir congelamiento de imagen.
+
+- Sin pixelamiento en una ventana de tiempo de 30 min.
+
+- Sin macroblocking en una ventana de tiempo de 30 min.
+
+- Sin retardo de grupo (estela) en una ventana de tiempo de 30 min.
+
+- Sin distorsión de sonido, esto es, sin problemas de cuantización en una ventana de 30 min.
+
+- Estabilidad Lipsync no mayor a 100 milisegundos a las 24 horas de funcionamiento.
+
+CONTROL REMOTO
+
+Además de las funciones básicas (teclado numérico, selector de funciones y canales, volumen, encendido, menú), deberá tener lo siguiente:
+
+- EPG (Guía de programación).
+
+- Closed Caption.
+
+- Menú.
+
+- Exit.
 
 En el caso de televisores que incorporen receptores satelitales, éstos deberán ser compatibles con las características técnicas señaladas, a excepción de las salidas de señal, que serán opcionales.
 
@@ -70,7 +184,33 @@ La entrega de los citados kit se realizará de conformidad a un procedimiento qu
 
 Segunda.- En el caso de solución satelital, el kit autoinstalable a que hace referencia la disposición anterior deberá cumplir con las características y condiciones de operación establecidas en el articulado permanente de la presente normativa y contener, a lo menos, los elementos que a continuación se indican:
 
-.
+- Antena parabólica y amplificador LNB compatible con la banda de frecuencias de operación;
+
+- Sintonizador y demodulador compatible con DVB-S2, Estándar ETSI EN 302 307;
+
+- Tasa de símbolos: 2 - 45 Mbaudios/s;
+
+- Cable coaxial compatible con la banda de frecuencias de salida del LNB (al menos 15 metros);
+
+- Salidas de señal : - HDMI;
+
+- Video compuesto
+
+NTSC (CVBS), audio
+
+analógico, canales
+
+L y R con conectores
+
+RCA;
+
+- Elementos de sujeción;
+
+- Control remoto (con baterías o pilas);
+
+- Una brújula;
+
+- Manual detallado de autoinstalación del kit.
 
 Tercera.- En forma previa a la distribución del referido kit, la concesionaria deberá remitir, para la aprobación de la Subsecretaría, una propuesta señalando la composición detallada del kit autoinstalable, incluido el manual y video de instalación correspondiente el que después quedará disponible en el sitio internet de las respectivas concesionarias.
 
