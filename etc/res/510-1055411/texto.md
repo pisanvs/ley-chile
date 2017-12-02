@@ -48,7 +48,9 @@ El plazo de sustanciación no podrá exceder el contemplado en la Ley Orgánica 
 
 #### Artículo 7º
 
-Al expediente se añadirán, sucesivamente, los documentos o piezas que sirvan de fundamento o prueba de los hechos, sin perjuicio de su registro en los medios electrónicos que al efecto se establezcan. Se levantará un acta que señale los medios probatorios que por su naturaleza no puedan incorporarse al expediente, los que permanecerán, de ser posible, en poder del fiscal instructor. En caso contrario, se precisará su ubicación, las medidas de resguardo adoptadas y el funcionario responsable de su custodia.
+Todo sumario administrativo instruido por la Contraloría General deberá constar en un expediente electrónico.
+
+Al expediente se añadirán, sucesivamente, los documentos o piezas que sirvan de fundamento o prueba de los hechos. Se levantará un acta que señale los medios probatorios que por su naturaleza no puedan incorporarse al expediente, los que permanecerán, de ser posible, en poder del fiscal instructor. En caso contrario, se precisará su ubicación, las medidas de resguardo adoptadas y el funcionario responsable de su custodia.
 
 Toda actuación deberá llevar la firma del fiscal instructor y del actuario, si lo hubiere.
 
@@ -56,7 +58,7 @@ Toda actuación deberá llevar la firma del fiscal instructor y del actuario, si
 
 En estos sumarios se designará un actuario cuando el fiscal instructor lo considere necesario.
 
-Todos los documentos se agregarán por orden del fiscal instructor, quien estampará la fecha en que se incorporen al proceso. Cada foja deberá estar foliada en números.
+Todos los documentos se agregarán por orden del fiscal instructor, en los que deberá constar fecha y folio.
 
 Sin perjuicio de lo anterior, cuando sea necesario, el fiscal instructor podrá formar cuadernos separados con la realización de determinadas diligencias o agregación de documentos. Lo anterior será ordenado por resolución, consignada en el cuaderno principal.
 
@@ -78,7 +80,9 @@ Podrá el fiscal instructor, durante la sustanciación del procedimiento, suspen
 
 Los plazos que se establecen en el presente reglamento son de días hábiles, entendiéndose que son inhábiles los días sábados, los domingos y los festivos.
 
-Los escritos que se presenten el día en que expire el plazo señalado para determinada actuación, podrán ser remitidos por correo electrónico hasta la medianoche de su vencimiento a la dirección que se establezca para tales efectos, por resolución del fiscal. En estos casos, los documentos que se hubieren ofrecido en la presentación deberán acompañarse al día hábil siguiente.
+Los escritos que se presenten el día en que expire el plazo señalado para determinada actuación, deberán ser remitidos por correo electrónico hasta la medianoche de su vencimiento a la casilla de correo electrónico que se establezca para tales efectos, por resolución del fiscal instructor.
+
+En casos de circunstancias excepcionales fundadas en aspectos geográficos, caso fortuito o fuerza mayor o se trate de una persona que carezca de los medios tecnológicos necesarios, el Fiscal Instructor podrá autorizar mediante resolución, que los escritos se presenten materialmente y en soporte papel, los que serán digitalizados e ingresados al expediente electrónico.
 
 #### Artículo 13º
 
@@ -100,7 +104,7 @@ En la etapa indagatoria, el fiscal instructor podrá solicitar la ratificación 
 
 #### Artículo 16º
 
-Los funcionarios citados a declarar ante el fiscal deberán fijar, en su primera comparecencia, un domicilio dentro del radio urbano del lugar en que la fiscalía ejerza sus funciones. Recaerá en ellos la obligación de comunicar a la brevedad cualquier cambio del mismo. Si no dieren cumplimiento a estas obligaciones, se practicarán las notificaciones por carta certificada al domicilio registrado en la institución y, en caso de no contarse con tal información, en la oficina del involucrado.
+Los funcionarios citados a declarar ante el fiscal instructor deberán fijar, en su primera comparecencia, un domicilio dentro del radio urbano del lugar en que la Fiscalía de la Contraloría ejerza sus funciones, y una casilla de correo electrónico, en caso que cuenten con ésta. Recaerá en ellos la obligación de comunicar a la brevedad cualquier cambio de los mismos. Si no dieren cumplimiento a estas obligaciones, se practicarán las notificaciones por carta certificada al domicilio registrado en la institución y, en caso de no contarse con tal información, en la oficina del involucrado.
 
 Las resoluciones podrán ser notificadas por correo electrónico a la dirección que indicare el involucrado, si éste hubiese accedido a ello, o lo hubiese solicitado, lo cual deberá constar en el expediente.
 
@@ -166,9 +170,11 @@ La prescripción de la acción disciplinaria podrá ser declarada por la autorid
 
 #### Artículo 25º
 
-Si el fiscal instructor encontrare mérito suficiente, procederá a formular cargos a los inculpados, quienes podrán tomar conocimiento del proceso e intervenir, una vez notificados, personalmente o a través de su abogado, y solicitar copias de los documentos o fojas del mismo que estimen pertinentes para su defensa, a su costa.
+Si el fiscal instructor encontrare mérito suficiente, procederá a formular cargos a los inculpados, quienes podrán tomar conocimiento del proceso e intervenir, una vez notificados, personalmente o a través de su abogado, y solicitar copia del expediente electrónico o fojas del mismo que estime pertinentes para su defensa, a su costa.
 
-La solicitud de copia de los antecedentes deberá formularse por escrito o por correo electrónico ante el fiscal del sumario, por el interesado o su abogado, petición que deberá ser agregada al proceso, dejándose constancia en el expediente de los antecedentes o fojas del mismo de los que se entregó copia.
+La solicitud de copia de los antecedentes deberá formularse por correo electrónico o excepcionalmente por escrito ante el fiscal instructor del sumario administrativo, por el interesado o su abogado, petición que deberá ser agregada al expediente electrónico, dejándose constancia en el mismo, de los antecedentes o fojas de los que se entregó copia.
+
+La entrega de documentos electrónicos se efectuará preferentemente mediante medios de almacenamiento electrónico.
 
 #### Artículo 26º
 
@@ -212,9 +218,11 @@ La Vista Fiscal constará de exposición, análisis y conclusiones. En la exposi
 
 La Vista Fiscal se elevará al Jefe de la Unidad de Sumarios de la Fiscalía o al Jefe de la Unidad Jurídica, quienes la aprobarán y emitirán su juicio respecto de las medidas que corresponda adoptar, o bien, podrán disponer fundadamente la reapertura del sumario, ordenando diligencias y fijando un plazo para tal efecto.
 
+En aquellas Contralorías Regionales en que exista una Unidad de Personal y Responsabilidad Administrativa (UPRA), las funciones que este reglamento le asigna al Jefe de la Unidad Jurídica, serán cumplidas por la Jefatura de la UPRA.
+
 #### Artículo 35º
 
-La Vista Fiscal aprobada por el Jefe de la Unidad de Sumarios o por el Jefe de la Unidad Jurídica, en su caso, se elevará al Contralor General o al Contralor Regional según corresponda.
+La Vista Fiscal aprobada por la respectiva jefatura de la unidad a cargo de la instrucción de procedimientos disciplinarios, se elevará al Contralor General o al Contralor Regional, según corresponda.
 
 #### Artículo 36º
 
