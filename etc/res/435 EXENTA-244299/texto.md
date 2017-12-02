@@ -12,21 +12,19 @@ Considerando:
 
 Resuelvo:
 
-1. Autorízase el funcionamiento del Terminal de Taxis colectivos urbanos ubicada en la ciudad de Talca, en Calle 26 1/2 Sur Nº 0180, propiedad del Sr. Osvaldo Salgado Gutiérrez, RUT Nº 5.356.563-8, recinto clasificado en categoría "A2", con una capacidad máxima de 154 taxis colectivos, conforme las Tablas 1 y 2 establecidas en el texto del DS Nº 270/04, del Ministerio de Vivienda y Urbanismo, vigentes a la fecha de la recepción definitiva del mencionado terminal.
+1. Autorízase el funcionamiento del Terminal Urbano para los servicios de locomoción colectiva prestado mediante Taxis Colectivos, ubicado en 26 ½ Sur Nº 0180, de la comuna de Talca, Región del Maule, de responsabilidad de la sociedad comercial de responsabilidad limitada Transportes Santa Raquel Limitada, RUT: 77.562.290-3, representada por su presidente Sr. Jorge Álvarez Sandoval, cédula de identidad Nº 8.973.246-8 y por doña Odet Cavieres Ibarra, RUT: 5.598.346-1 y don Luis Ramírez Cavieres, RUT: 14.436.184-9. El recinto fue clasificado en la categoría "A2", con una capacidad máxima de 154 Taxis Colectivos, conforme a las Tablas 1 y 2 establecidas en el texto DS Nº 270, de 2004, que modifica la Ordenanza General de Urbanismo y Construcciones, del Ministerio de Vivienda y Urbanismo, en materia de Terminales de servicios de locomoción colectiva urbana, vigentes a la fecha de recepción definitiva del mencionado terminal.
 
 2. El Tipo de Terminal es un Terminal de Vehículos, de acuerdo al artículo único establecido en el texto del DS Nº 270/04, del Ministerio de Vivienda y Urbanismo.
 
 3. Déjase constancia que la presente autorización se mantendrá en tanto se cumplan las siguientes condiciones:
 
-A) Hará uso de este terminal la siguiente línea con sus servicios variantes:
+A) Hará uso de este terminal el servicio de locomoción colectiva prestado mediante Taxis Colectivos de responsabilidad de la sociedad comercial de responsabilidad limitada Transportes Santa Raquel Limitada, RUT: 77.562.290-3, con sus servicios troncal y variante:
 
-Línea de Taxis Colectivos Nº 31 de Talca, con el siguiente servicio prestado con Taxis colectivos:
+Trazado Troncal (T): Doña Florencia - Mall Plaza Maule.
 
-Troncal: 23 Poniente - Plaza Maule.
+Trazado Variante (V-1): Doña Florencia - Bicentenario.
 
-B) El responsable de las línea que utiliza el terminal corresponde al representante del servicio, Sra.
-
-Odet Cavieres Ibarra, RUT Nº 5.598.346-1.
+B) El responsable del servicio es doña Odet Cavieres Ibarra, RUT: 5.598.346-1 y don Luis Ramírez Cavieres, RUT: 14.436.184-9, quienes pueden actuar conjunta o separadamente.
 
 C) El terminal podrá ser utilizado por una cantidad máxima de 154 taxis colectivos, conforme a las Tablas 8 y 9 establecidas en el texto del DS Nº 270/04, del Ministerio de Vivienda y Urbanismo.
 
