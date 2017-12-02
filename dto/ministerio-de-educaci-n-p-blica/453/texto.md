@@ -396,33 +396,31 @@ Se entiende por "año lectivo" el período comprendido dentro del año escolar e
 
 ### Párrafo III
 
-Formación
+Formación Derogado.-
 
 #### Artículo 24°
 
 <!-- parte:8968494 -->
 
-La formación de los profesionales de la educación corresponde a las Universidades e Institutos Profesionales de acuerdo a lo establecido en la decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación.
-
-> **Nota.** El numeral 7 del Artículo Único del Decreto 215, Educación, publicado el 05.01.2012, modifica el artículo 24 de la presente norma, en el sentido de reemplazar la denominación "Ley Nº 18.962, Orgánica Constitucional de Enseñanza", por la siguiente "decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación", no obstante, no suprime la palabra "la", razón por la cual aparece de esta manera en el texto.
+Derogado.
 
 #### Artículo 25°
 
 <!-- parte:8968496 -->
 
-El título profesional es el que de conformidad con la legislación vigente se otorga a un egresado de un Instituto Profesional o de una Universidad que ha aprobado un programa de estudios cuyo nivel y contenido le confieren una formación general y científica necesaria para un adecuado desempeño profesional.
+Derogado.
 
 #### Artículo 26°
 
 <!-- parte:8968497 -->
 
-Los grados académicos de Licenciado, Magister y Doctor son los que de conformidad con la legislación vigente, se otorga al alumno de una Universidad que ha cumplido los requisitos establecidos.
+Derogado.
 
 #### Artículo 27°
 
 <!-- parte:8968498 -->
 
-Los títulos que otorguen las Universidades e Institutos Profesionales a los profesionales de la educación pueden tener menciones o especialidades.
+Derogado.
 
 ### Párrafo IV
 
