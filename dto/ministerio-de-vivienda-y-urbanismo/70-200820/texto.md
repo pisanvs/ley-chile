@@ -648,71 +648,93 @@ Los límites de las zonas son los graficados en el Plano. Cuando Una zona corres
 
 Los usos de suelo, condiciones de subdivisión predial y edificación para las zonas indicadas en el Artículo 22 de la presente Ordenanza, son los siguientes:
 
-ZONA RM 1
+Zona RM1
 
-USOS PERMITIDOS:
+VIVIENDA Y EQUIPAMIENTO PERMITIDO
 
-- Vivienda.
+Superficie de subdivisión predial mínima : 120 m2
 
-- Equipamiento, con las excepciones que se indican en usos prohibidos.
+Porcentaje de ocupación máximo de suelo : 70%
 
-- Almacenamiento inofensivo.
+Sistema de agrupamiento : Aislado, pareado,
 
-USOS PROHIBIDOS:
+continuo.
 
-- Talleres artesanales molestos, insalubres y
+Rasantes y distanciamientos : Según el artículo
 
-peligrosos.
-
-- Almacenamiento molesto, insalubre y peligroso.
-
-- Industria de todo tipo.
-
-- Terminales de transporte rodoviario.
-
-- Depósito de tres o más buses y/o camiones.
-
-CONDICIONES DE SUBDIVISION PREDIAL Y DE EDIFICACION.
-
-- Para vivienda y equipamiento permitido:
-
-Superficie predial mínima : 120 m2
-
-Frente predial mínimo: : 7 m
-
-Porcentaje de ocupación máximo de
-
-suelo: : 70%
-
-Sistemas de agrupamiento: : aislado, pareado
-
-y continuo
-
-Rasantes y distanciamientos: : según Art. 479 de
-
-la Ordenanza Ge-
-
-neral de
-
-Construcciones y
-
-Urbanización
+2.6.3 de la O.G.U.C.
 
 Altura máxima de edificación
 
-aislada y pareada : según Art. 479 de
+aislada pareada : 2 pisos más mansarda
 
-la Ordenanza
+Altura máxima de construcción continua : 2 pisos
 
-General de
+Antejardín mínimo : Optativo y según
 
-Construcciones y
+#### Artículo 13
 
-Urbanización
+de la
 
-continua : 8 m
+presente ordenanza
 
-Antejardín mínimo: : optativo y según
+Estacionamiento : Según Art. 17 de la
+
+presente ordenanza
+
+Coeficiente de Constructibilidad : 1,2
+
+Densidad Bruta Máxima : 400 Hab/Ha
+
+La altura máxima de zona para uso residencial son 2 pisos más mansarda, para cualquier combinación de agrupamiento.
+
+GRANDES DEPÓSITOS, BODEGAS INDUSTRIALES INOFENSIVOS
+
+Superficie de subdivisión predial mínima : 1500 m2
+
+Porcentaje de ocupación máximo de suelo : 50%
+
+Sistema de agrupamiento : Aislado
+
+Rasantes y distanciamientos : Según el artículo
+
+2.6.3 de la O.G.U.C
+
+Altura máxima de edificación : 2 pisos
+
+Antejardín mínimo : 5 M
+
+Coeficiente de constructibilidad: : 1.2
+
+Estacionamiento : Según Art. 17 de
+
+la presente ordenanza
+
+La altura máxima de zona industria inofensiva y talleres inofensivos es de 2 pisos para cualquier combinación de agrupamiento.
+
+Zona RM2
+
+PARA VIVIENDAS Y EQUIPAMIENTO PERMITIDO
+
+Superficie de subdivisión predial mínima : 120 m2
+
+Porcentaje de ocupación máximo de suelo : 70%
+
+Sistema de agrupamiento : Aislado, pareado
+
+contínuo
+
+Rasantes y distanciamientos : Según el artículo
+
+2.6.3 de la O.G.U.C.
+
+Altura máxima de edificación aislada
+
+y pareada : 5 pisos
+
+Altura máxima de edificación contínua : 2 pisos
+
+Antejardín Mínimo : Optativo y según
 
 #### Artículo 13
 
@@ -720,191 +742,67 @@ de la
 
 presente
 
-Ordenanza
+ordenanza
 
-Estacionamientos: : según Art. 17 de
+Estacionamiento : Según Art. 17 de
 
-la presente
+la presente ordenanza
 
-Ordenanza
+Coeficiente de constructibilidad : 1.2
 
-Para almacenamiento inofensivo:
+Densidad bruta máxima : 600
 
-Superficie predial mínima : 1.500 m2
+GRANDES DEPÓSITOS, BODEGAS INDUSTRIALES INOFENSIVOS
 
-Frente predial mínimo : 25 m
+Superficie de subdivisión predial mínima : 500 m2
 
-Porcentaje, de ocupación
+Porcentaje de ocupación máximo de suelo : 70%
 
-máximode suelo : 70%
+Sistema de agrupamiento : Aislado
 
-Sistema de agrupamiento : aislado
+Rasantes y distanciamientos : Según el artículo
 
-Rasantes, distanciamientos y altura
+2.6.3 de la O.G.U.C.
 
-máxima de edificación: : según Art. 479 de
+Altura máxima de edificación aislada
 
-la Ordenanza Ge-
-
-neral de
-
-Construcciones y
-
-Urbanización
-
-Antejardin mínimo : 5 m
-
-Estacionamientos : según Art. 17 de
-
-la presente
-
-Ordenanza
-
-ZONA RM 2
-
-USOS PERMITIDOS:
-
-- Vivienda.
-
-- Equipamiento, con las excepciones que se indican en usos prohibidos.
-
-- Almacenamiento e industria inofensivos.
-
-USOS PROHIBIDOS:
-
-- Talleres artesanales molestos, insalubres y peligrosos.
-
-- Almacenamiento e industria molestos, insalubres y peligrosos.
-
-- Terminales de transporte redoviario.
-
-- Depósitos de tres o más buses y/o camiones.
-
-CONDICIONES DE SUBDIVISION PREDIAL Y DE EDIFICACION.
-
-Para vivienda y equipamiento permitido:
-
-Superficie predial mínima : 120 m2.
-
-Frente predial mínimo : 7 m
-
-Porcentaje de ocupación máximo de
-
-suelo: : 70%
-
-Sistemas de agrupamiento : aislado, pareado
-
-y continuo
-
-Rasantes y distanciamientos : según Art. 479 de
-
-la Ordenanza Ge
-
-neral de
-
-Construcciones y
-
-Urbanización
-
-Altura máxima de edificación
-
-aislada y pareada : según Art. 479
-
-de la Ordenanza
-
-General de
-
-Construcciones y
-
-Urbanización
-
-continua : 8 m
-
-Antejardin mínimo : optativo y según
-
-#### Artículo 13
-
-presente
-
-Ordenanza
-
-Estacionamientos : según Art. 17 de
-
-la presente Orde-
-
-nanza
-
-- Para almacenamiento inofensivo:
-
-Superficie predial mínima : 500 m2
-
-Frente predial mínimo : 15 m
-
-Porcentaje de ocupación máximo de
-
-suelo : 70%
-
-Sistema de agrupamiento : aislado
-
-Rasantes, distanciamientos y altura
-
-máxima de edificación : según Art. 479 de
-
-la Ordenanza Ge-
-
-neral de
-
-Construcciones y
-
-Urbanización
+y pareada : 3 pisos
 
 Antejardín mínimo : 5 m
 
-Estacionamientos: : según Art. 17 de
+Estacionamiento : Según Art. 17 de
 
 la presente
 
-Ordenanza
+ordenanza
 
-- Para industria inofensiva:
+Coeficiente de constructibilidad : 1.2
 
-Trat ndose de obras nuevas no será aplicable al Artículo 7 de la presente Ordenanza.
+PARA INDUSTRIA INOFENSIVA Y TALLERES INOFENSIVOS
 
-Superficie predial mínima: 2.000 m2
+Superficie de subdivisión predial mínima : 2000 m2
 
-Frente predial mínimo : 30 m
+Porcentaje de ocupación máximo de suelo : 50%
 
-Porcentaje de ocupación máximode
+Sistema de agrupamiento : Aislado
 
-suelo : 50%
+Rasantes y distanciamientos : Según el artículo
 
-Sistema de agrupamiento : aislado
+2.6.3 de la
 
-Rasantes, distanciamientos y altura
+O.G.U.C.
 
-máxima de la edificación : según Art. 479 de
+Altura máxima de edificación aislada
 
-la Ordenanza Ge-
-
-neral de
-
-Construcciones y
-
-Urbanización
-
-Adosamientos : según Art. 14 de
-
-la presente
-
-Ordenanza
+y pareada : 3 pisos
 
 Antejardín mínimo : 10 m
 
-Estacionamientos : según Art. 17 de
+Estacionamiento : Según Art. 17 de
 
-la presente Orde-
+la presente ordenanza
 
-nanza
+Coeficiente de constructibilidad : 1.2
 
 ZONA SM
 
