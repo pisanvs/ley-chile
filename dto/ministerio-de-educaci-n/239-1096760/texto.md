@@ -58,7 +58,9 @@ i. Que los estudiantes que cursen las carreras y programas de pedagogía, hayan 
 
 ii. Admitir y matricular alumnos en dichas carreras y programas, que cumplan al menos, con alguna de las condiciones de admisión señaladas en la letra b) del artículo 27 bis de la Ley Nº 20.129, y regulada en el Título III del presente reglamento.
 
-Sin perjuicio de lo anterior, para otorgar la acreditación de las carreras y programas de pedagogía, la Comisión Nacional de Acreditación verificará que, además, se cumplan los criterios y orientaciones mínimas establecidas en el artículo 27 ter de la Ley Nº 20.129.
+Las universidades acreditadas que creen nuevas carreras o programas de pedagogía, tendrán el plazo de 3 años para obtener su acreditación, contados desde el inicio de las respectivas actividades académicas. Respecto de las universidades que creen nuevos programas de prosecución de estudios, el plazo para la acreditación de éstos, será de un año, contado desde el mismo evento.
+
+Sin perjuicio de lo anterior, para otorgar la acreditación de las carreras y programas de pedagogía, la Comisión Nacional de Acreditación verificará que, además, se cumplan los criterios y orientaciones mínimas establecidas en el artículo 27 ter de la Ley Nº 20.129. Asimismo, le corresponderá adecuar los criterios antes señalados, para su aplicación a los programas de prosecución de estudios a que se refiere el artículo 25 de este reglamento, con el propósito de promover su calidad.
 
 #### Artículo 4º
 
@@ -90,7 +92,7 @@ Anualmente, el Ministerio de Educación, entregará a la Comisión Nacional de A
 
 #### Artículo 7º
 
-De la segunda evaluación diagnóstica. Los estudiantes que se encuentren cursando los doce meses que anteceden al último año de la carrera de pedagogía, deberán rendir, como requisito para la obtención del Título Profesional, la segunda evaluación diagnóstica sobre formación inicial en pedagogía, la que será aplicada anualmente por el Ministerio de Educación, a través del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, en adelante "el Centro". Esta evaluación, medirá los estándares pedagógicos y disciplinarios definidos por el Ministerio de Educación, y aprobados por el Consejo Nacional de Educación.
+De la segunda evaluación diagnóstica. Los estudiantes que se encuentren cursando los doce meses que anteceden al último año de la carrera de pedagogía, deberán rendir, como requisito para la obtención del Título Profesional, la segunda evaluación diagnóstica sobre formación inicial en pedagogía, la que será aplicada anualmente por el Ministerio de Educación, a través del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, en adelante "el Centro". Esta evaluación, medirá los estándares pedagógicos y disciplinarios definidos por el Ministerio de Educación, y aprobados por el Consejo Nacional de Educación. Se entenderá rendida la segunda evaluación diagnóstica, una vez que se ejecuten todos los instrumentos que la componen.
 
 Los estudiantes de los programas de prosecución de estudios que se encuentren cursando los doce meses que anteceden al egreso del mismo, deberán rendir también esta evaluación diagnóstica, como requisito para la obtención del Título Profesional.
 
@@ -102,9 +104,11 @@ La Subsecretaría de Educación, a través del Centro, dictará una resolución 
 
 #### Artículo 8º
 
-Fuerza mayor o caso fortuito. Aquellos estudiantes que por fuerza mayor o caso fortuito hayan estado imposibilitados de rendir las evaluaciones diagnósticas, a que se refieren los artículos 6º y 7º precedentes, podrán rendirlas en una segunda fecha que, para estos efectos, deberán fijar la universidad o el Centro, según corresponda. Tratándose de la segunda evaluación diagnóstica, el Centro deberá fijar una nueva fecha dentro del plazo de dos meses contados desde la fecha en que se efectuó su primera aplicación.
+Fuerza mayor, caso fortuito u otro impedimento debidamente acreditado. Aquellos estudiantes que por fuerza mayor, caso fortuito u otro impedimento debidamente acreditado hayan estado imposibilitados de rendir las evaluaciones diagnósticas, a que se refieren los artículos 6º y 7º precedentes, podrán rendirlas en una segunda fecha que, para estos efectos, deberán fijar la universidad o el Centro, según corresponda. Tratándose de la segunda evaluación diagnóstica, el Centro deberá fijar una nueva fecha dentro del plazo de dos meses contados desde la fecha en que se efectuó su primera aplicación.
 
 Quienes se encuentren en tal situación, deberán acreditar a la universidad, el impedimento en un plazo de siete días hábiles, contados desde la fecha de aplicación de la evaluación diagnóstica de que se trate. Cada universidad deberá enviar al Centro, en el caso de la segunda evaluación, la nómina de estos estudiantes, junto con los antecedentes acompañados por aquellos, y que fundamentaron la solicitud, dentro de los quince días siguientes al término del plazo antes indicado.
+
+Con todo, si el impedimento por el que no pudo rendir la segunda evaluación diagnóstica se mantiene más allá del plazo para rendirla por segunda vez, dentro de los 7 días hábiles siguientes al término de dicho impedimento deberá el estudiante acreditar, con todos los antecedentes que correspondan, que aquel ha sido continuo y ajeno a su voluntad.
 
 #### Artículo 9º
 
@@ -318,6 +322,8 @@ Para las carreras y programas de pedagogía que se encuentren acreditados al 1°
 
 Las universidades que no hayan acreditado las carreras y programas de pedagogía impartidas al 1° de abril de 2016, tendrán un plazo de tres años para obtener tanto la acreditación institucional, como la de la carrera y programa, contado desde dicha fecha.
 
+Asimismo, las universidades que al 4 de abril de 2017 impartan programas de prosecución de estudios que no se encuentren acreditados, tendrán el plazo de un año para obtener la acreditación de estos programas, contados desde dicha fecha.
+
 Si la carrera y programa no obtuviere la acreditación a que se refiere el inciso precedente, la universidad no podrá admitir nuevos estudiantes, pero deberá seguir impartiéndolas hasta la titulación o egreso de los estudiantes matriculados.
 
 Sin perjuicio de lo dispuesto en el artículo 10 del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación, tendrán la calidad de profesionales de la educación las personas que estén en posesión de un título de profesor o educador concedido por universidades de conformidad a las normas vigentes al momento de su otorgamiento.
@@ -366,7 +372,13 @@ A contar del proceso de admisión universitaria del año 2018, y a fin de obtene
 
 #### Artículo sexto
 
-Los Programas de Acompañamiento y Acceso Efectivo a la Educación Superior (PACE) celebrados y aprobados durante el año 2016, se considerarán, reconocidos automáticamente por el Ministerio de Educación y por tanto se excluyen del procedimiento establecido en este reglamento. Por su parte, aquellos PACE, que sean suscritos y aprobados para el año 2017, no se someterán al procedimiento regulado en párrafo 3º del Título 2º del presente reglamento, cuando sus respectivos convenios cumplan con los requisitos establecidos en el artículo 10 numeral IV de este reglamento, lo que será certificado por el Ministerio, mediante el acto administrativo correspondiente. En todos los casos, la universidad que esté implementando el PACE y que presente un Programa de acceso incluyendo otras estrategias, para ser reconocido por el Ministerio de Educación, deberá contener mecanismos de coordinación con el PACE.
+Los Programas de Acompañamiento y Acceso Efectivo a la Educación Superior (PACE) celebrados y aprobados durante el año 2016, se considerarán, reconocidos automáticamente por el Ministerio de Educación y por tanto se excluyen del procedimiento establecido en este reglamento. Por su parte, aquellos PACE, que sean suscritos y aprobados entre los años 2017 y 2020, no se someterán al procedimiento regulado en párrafo 3º del Título 2º del presente reglamento, cuando sus respectivos convenios cumplan con los requisitos establecidos en el artículo 10 numeral IV de este reglamento, lo que será certificado por el Ministerio, mediante el acto administrativo correspondiente. En todos los casos, la universidad que esté implementando el PACE y que presente un Programa de acceso incluyendo otras estrategias, para ser reconocido por el Ministerio de Educación, deberá contener mecanismos de coordinación con el PACE.
+
+#### Artículo séptimo
+
+Las universidades que al 1º de abril de 2016, fueren autónomas y deseen impartir carreras o programas de pedagogía, deberán cumplir con los requisitos señalados en el artículo 10 del presente reglamento, y tendrán un plazo de tres años, para obtener tanto la acreditación institucional como la de la carrera o programa de pedagogía, contado desde el inicio de las actividades académicas de la respectiva carrera o programa.
+
+Con todo, a dichas universidades les serán aplicables los plazos y requisitos establecidos en el artículo tercero transitorio del presente reglamento.
 
 #### Artículo segundo
 
