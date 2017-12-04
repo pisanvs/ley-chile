@@ -66,37 +66,11 @@ Tanto las empresas certificadoras, terminales e importadores podrán ser fiscali
 
 2.1 Las empresas certificadoras (Surveyor), debidamente habilitadas por la Aduana, que efectúen mediciones de gráneles líquidos almacenados, tanto en los estanques calibrados de almacenamiento particular, como de los almacenistas ubicados dentro y/o fuera de la zona primaria, deberán someterse a los siguientes procedimientos de medición.
 
-2.1.1 Medición Inicial es la que debe realizarse
+2.1.1 Medición Inicial es la que debe realizarse antes de que el estanque reciba líquido y sirve para determinar el contenido del estanque, previo a la recepción.
 
-antes de que el estanque reciba líquido y sirve
+2.1.2 Medición Final es la que debe realizarse al término de la recepción del líquido y sirve para determinar el contenido total del estanque.
 
-para determinar el contenido del estanque,
-
-previo a la recepción.
-
-2.1.2 Medición Final es la que debe realizarse al
-
-término de la recepción del líquido y sirve
-
-para determinar el contenido total del
-
-estanque.
-
-2.1.3 La diferencia entre ambas mediciones
-
-corresponderá a lo recibido en el estanque.
-
-Tratándose de petróleo crudo o derivados de
-
-petróleo, se establecerá su volumen y para los
-
-demás líquidos se establecerá su peso en
-
-kilogramos, considerando en ambos casos las
-
-tablas de calibración y los factores de
-
-corrección preestablecida.
+2.1.3 La diferencia entre ambas mediciones corresponderá a lo recibido en el estanque. Tratándose de petróleo crudo o derivados de petróleo, se establecerá su volumen y para los demás líquidos se establecerá su peso en kilogramos, considerando en ambos casos las tablas de calibración y los factores de corrección preestablecida.
 
 2.2 El procedimiento a seguir comprenderá las siguientes fases:
 
@@ -104,9 +78,7 @@ corrección preestablecida.
 
 - Medición del nivel del agua, si procede.
 
-- Medición representativa de la temperatura del
-
-líquido contenido en el estanque.
+- Medición representativa de la temperatura del líquido contenido en el estanque.
 
 - Medición de la densidad del líquido.
 
@@ -116,121 +88,37 @@ líquido contenido en el estanque.
 
 3.1 Medición Inicial
 
-3.1.1 Cerrar y sellar válvulas de entrada y salida a
+3.1.1 Cerrar y sellar válvulas de entrada y salida a fin de aislar el estanque.
 
-fin de aislar el estanque.
-
-3.1.2 Medir el nivel del líquido usando cinta
-
-milimétrica, hasta la coincidencia de dos
-
-mediciones a lo menos.
+3.1.2 Medir el nivel del líquido usando cinta milimétrica, hasta la coincidencia de dos mediciones a lo menos.
 
 3.1.3 Medir el nivel del agua si procede.
 
-3.1.4 Medir la temperatura representativa del líquido
+3.1.4 Medir la temperatura representativa del líquido del estanque. Cuando el nivel del líquido sea inferior a 350 cms., se hará sólo una determinación. Cuando el nivel esté entre 350 cms. y 500 cms. se hará una medición del primer medio y otra del segundo medio.
 
-del estanque. Cuando el nivel del líquido sea
-
-inferior a 350 cms., se hará sólo una
-
-determinación. Cuando el nivel esté entre 350
-
-cms. y 500 cms. se hará una medición del primer
-
-medio y otra del segundo medio.
-
-Si el nivel es superior a 500 cms. las
-
-mediciones de temperatura serán tres: Una del
-
-1º tercio, otra del 2º tercio y la última del
-
-3º tercio. En los dos últimos casos la
-
-temperatura a consignar en la Hoja de Medida
-
-será la promedio obtenido en las lecturas.
+Si el nivel es superior a 500 cms. las mediciones de temperatura serán tres: Una del 1º tercio, otra del 2º tercio y la última del 3º tercio. En los dos últimos casos la temperatura a consignar en la Hoja de Medida será la promedio obtenido en las lecturas.
 
 Las temperaturas se expresarán en grados ºF.
 
 3.1.5 Determinación de la Gravedad Específica
 
-Se extraerá una muestra del líquido por el
+Se extraerá una muestra del líquido por el método de "muestra corrida", es decir, se introduce hasta el nivel inferior del líquido un depósito provisto de tapa. Llegado a ese punto, se retira el tapón y se eleva el depósito de manera tal que se vaya recibiendo líquido de diversas alturas, hasta 3/4 de la altura del depósito toma-muestra. Podrá usarse otro método normalizado para extraer la muestra, previo conocimiento y autorización del Servicio de Aduanas.
 
-método de "muestra corrida", es decir, se
+La muestra extraída servirá para hacer la determinación de la gravedad API a 60 ºF, según numeral 3.3.2.
 
-introduce hasta el nivel inferior del líquido
+3.1.6 Los datos obtenidos se estampan en el recuadro Medición Inicial de la Hoja de Medida.
 
-un depósito provisto de tapa. Llegado a ese
-
-punto, se retira el tapón y se eleva el
-
-depósito de manera tal que se vaya recibiendo
-
-líquido de diversas alturas, hasta 3/4 de la
-
-altura del depósito toma-muestra. Podrá usarse
-
-otro método normalizado para extraer la
-
-muestra, previo conocimiento y autorización del
-
-Servicio de Aduanas.
-
-La muestra extraída servirá para hacer la
-
-determinación de la gravedad API a 60 ºF, según
-
-numeral 3.3.2.
-
-3.1.6 Los datos obtenidos se estampan en el recuadro
-
-Medición Inicial de la Hoja de Medida.
-
-3.1.7 Calcular el volumen inicial corregido (real)
-
-contenido en el estanque, de acuerdo a los
-
-datos y factores de corrección pertinentes.
+3.1.7 Calcular el volumen inicial corregido (real) contenido en el estanque, de acuerdo a los datos y factores de corrección pertinentes.
 
 3.2 Medición Final:
 
-3.2.1 Verificar la identidad y estado del sello de la
+3.2.1 Verificar la identidad y estado del sello de la válvula de salida.
 
-válvula de salida.
+3.2.2 Continuar según el procedimiento señalado en 3.1.2 a 3.1.7.
 
-3.2.2 Continuar según el procedimiento señalado en
+3.2.3 Consignar los datos obtenidos en los lugares correspondientes del recuadro Medición Final de la Hoja de Medidas.
 
-3.1.2 a 3.1.7.
-
-3.2.3 Consignar los datos obtenidos en los lugares
-
-correspondientes del recuadro Medición Final de
-
-la Hoja de Medidas.
-
-3.2.4 Calcular el volumen final corregido (real) a la
-
-temperatura estándar. La diferencia del volumen
-
-inicial corregido (real) V1 y el volumen final
-
-corregido (real) V2 corresponderá al líquido
-
-entrado, expresado a la temperatura estándar
-
-(V2-V1). Para los petróleos crudos y destilados
-
-limpios de petróleo, la temperatura estándar
-
-será 60 ºF (15.5 ºC), salvo que por
-
-características particulares de algún producto
-
-deba usarse otra propuesta por el interesado y
-
-autorizada por el Servicio.
+3.2.4 Calcular el volumen final corregido (real) a la temperatura estándar. La diferencia del volumen inicial corregido (real) V1 y el volumen final corregido (real) V2 corresponderá al líquido entrado, expresado a la temperatura estándar (V2-V1). Para los petróleos crudos y destilados limpios de petróleo, la temperatura estándar será 60 ºF (15.5 ºC), salvo que por características particulares de algún producto deba usarse otra propuesta por el interesado y autorizada por el Servicio.
 
 3.3 Cálculo de los volúmenes corregidos (reales) a la temperatura estándar.
 
@@ -238,53 +126,11 @@ El volumen de los líquidos depende de la temperatura, de tal manera que, para t
 
 Para unificar el método de cálculo, se procederá como sigue:
 
-3.3.1 El volumen del líquido a la temperatura de
+3.3.1 El volumen del líquido a la temperatura de medición, se determinará conforme a los valores que figuran en la Tabla de Calibración aceptada por la Aduana, que corresponda al estanque de recepción.
 
-medición, se determinará conforme a los valores
+3.3.2 La gravedad API determinada a la temperatura a la que se encuentra la muestra, deberá expresarse en gravedad API a 60 ºF. La corrección a 60 ºF se hará usando las Tablas ASTM 5A (D 1250) de la American Society for Testing & Materials (o American Petroleum Institute API STD 2540) para los petróleos crudos y derivados de petróleo, respectivamente.
 
-que figuran en la Tabla de Calibración aceptada
-
-por la Aduana, que corresponda al estanque de
-
-recepción.
-
-3.3.2 La gravedad API determinada a la temperatura a
-
-la que se encuentra la muestra, deberá
-
-expresarse en gravedad API a 60 ºF. La
-
-corrección a 60 ºF se hará usando las Tablas
-
-ASTM 5A (D 1250) de la American Society for
-
-Testing & Materials (o American Petroleum
-
-Institute API STD 2540) para los petróleos
-
-crudos y derivados de petróleo,
-
-respectivamente.
-
-3.3.3 Para la corrección del volumen a 60 ºF, se
-
-busca el factor de corrección en la Tabla ASTM
-
-6A o 6B (D 1.250) de la American Society for
-
-Testing & Materials para los petróleos
-
-crudos y destilados limpios, respectivamente.
-
-La temperatura que debe usarse es la del
-
-líquido contenido en el estanque, obtenida
-
-conforme al numeral 3.1.4. No se usará, por
-
-motivo alguno, la temperatura de la muestra
-
-para realizar este cálculo.
+3.3.3 Para la corrección del volumen a 60 ºF, se busca el factor de corrección en la Tabla ASTM 6A o 6B (D 1.250) de la American Society for Testing & Materials para los petróleos crudos y destilados limpios, respectivamente. La temperatura que debe usarse es la del líquido contenido en el estanque, obtenida conforme al numeral 3.1.4. No se usará, por motivo alguno, la temperatura de la muestra para realizar este cálculo.
 
 3.4 El volumen recepcionado corregido a 60 ºF, será igual a la diferencia del volumen corregido final y el volumen corregido inicial del estanque.
 
@@ -294,57 +140,27 @@ para realizar este cálculo.
 
 4.1 Medición Inicial:
 
-4.1.1 Se cierran y sellan las válvulas de entrada y
+4.1.1 Se cierran y sellan las válvulas de entrada y salida del estanque.
 
-salida del estanque.
+4.1.2 Se mide el nivel del líquido contenido en el estanque.
 
-4.1.2 Se mide el nivel del líquido contenido en el
+4.1.3 Se mide la temperatura del líquido contenido en el estanque.
 
-estanque.
+4.1.4 Se extrae la muestra del líquido y se efectúa la determinación de la densidad por el método del picnómetro. El ensayo se efectuará a la temperatura a que se encontraba el líquido contenido en el estanque.
 
-4.1.3 Se mide la temperatura del líquido contenido en
+4.1.5 Consignar los datos obtenidos en los lugares que correspondan en el recuadro Medición Inicial de la Hoja de Medida.
 
-el estanque.
-
-4.1.4 Se extrae la muestra del líquido y se efectúa
-
-la determinación de la densidad por el método
-
-del picnómetro. El ensayo se efectuará a la
-
-temperatura a que se encontraba el líquido
-
-contenido en el estanque.
-
-4.1.5 Consignar los datos obtenidos en los lugares
-
-que correspondan en el recuadro Medición
-
-Inicial de la Hoja de Medida.
-
-4.1.6 Calcular, conforme a los datos, la cantidad en
-
-kilogramos del líquido contenido, la que
-
-corresponde a la Medida Inicial.
+4.1.6 Calcular, conforme a los datos, la cantidad en kilogramos del líquido contenido, la que corresponde a la Medida Inicial.
 
 4.2 Medición Final:
 
-4.2.1 Verificar identidad y estado del sello de
-
-válvula de salida.
+4.2.1 Verificar identidad y estado del sello de válvula de salida.
 
 4.2.2 Continuar el procedimiento según 4.1.2 - 4.1.4.
 
-4.2.3 Consignar los datos obtenidos en los lugares
+4.2.3 Consignar los datos obtenidos en los lugares que correspondan al recuadro Medición Final de la Hoja de Medida.
 
-que correspondan al recuadro Medición Final de
-
-la Hoja de Medida.
-
-4.2.4 Calcular la cantidad de líquido recibido
-
-expresado en kilogramos (Ver Anexo Nº 1).
+4.2.4 Calcular la cantidad de líquido recibido expresado en kilogramos (Ver Anexo Nº 1).
 
 5. Los datos contenidos en las Hojas de Medida se considerarán oficiales para los efectos del cálculo de derechos, tasas y demás gravámenes que afecten a los gráneles líquidos de que se trate. Asimismo, serán documentos probatorios para determinar errores por defecto o exceso en las respectivas Declaraciones de destinación aduanera.
 
@@ -358,111 +174,19 @@ Si no se entregaren dichos resultados en el plazo señalado, se considerarán de
 
 8.1 En aquellos casos en que la cantidad de gráneles líquidos descargados, determinada en la Hoja de Medida, difiera de lo consignado en el Conocimiento de Embarque respectivo, se deberá seguir el procedimiento que se señala a continuación:
 
-8.1.1 Cuando la cantidad total descargada,
+8.1.1 Cuando la cantidad total descargada, determinada conforme a las disposiciones de la presente resolución, resulte ser inferior a la señalada en la Declaración de Ingreso, el despachador podrá requerir la devolución de lo pagado en exceso, conforme al procedimiento contemplado en el Manual de Pago, mediante la tramitación de una SMDA.
 
-determinada conforme a las disposiciones de la
+8.1.2 Cuando la cantidad descargada sea superior a la señalada en la Declaración de Ingreso, se distinguirán dos situaciones:
 
-presente resolución, resulte ser inferior a la
+a) Que el exceso sea de hasta 5% de lo amparado en el respectivo Conocimiento de Embarque. En esta contingencia, el despachador que interviene deberá tramitar ante la respectiva Aduana, una SMDA que permita modificar la DIN, conforme a lo dispuesto en el Manual de Pago. La diferencia de derechos e impuestos deberá pagarse mediante un Aviso de Recibo emitido por el Servicio de Tesorerías. En esta situación no se formulará denuncia por infracción al artículo 174 de la Ordenanza de Aduanas, por cuanto se ha estimado razonable conceder ese margen de tolerancia con el objeto de salvar diferencias que se producen en el manejo de grandes cantidades de líquidos.
 
-señalada en la Declaración de Ingreso, el
+b) Que la cantidad excedida sea superior al 5% de la amparada en el Conocimiento de Embarque. En este caso el despachador que interviene deberá proceder conforme a la letra a) precedente. No obstante, la Aduana formulará denuncia por infracción al artículo 174 de la Ordenanza de Aduanas, sobre el total excedido, por haberse sobrepasado el margen de tolerancia.
 
-despachador podrá requerir la devolución de lo
-
-pagado en exceso, conforme al procedimiento
-
-contemplado en el Manual de Pago, mediante la
-
-tramitación de una SMDA.
-
-8.1.2 Cuando la cantidad descargada sea superior a la
-
-señalada en la Declaración de Ingreso, se
-
-distinguirán dos situaciones:
-
-a) Que el exceso sea de hasta 5% de lo amparado en
-
-el respectivo Conocimiento de Embarque. En esta
-
-contingencia, el despachador que interviene
-
-deberá tramitar ante la respectiva Aduana, una
-
-SMDA que permita modificar la DIN,
-
-conforme a lo dispuesto en el Manual de Pago. La
-
-diferencia de derechos e impuestos deberá pagarse
-
-mediante un Aviso de Recibo emitido por el
-
-Servicio de Tesorerías. En esta situación no se
-
-formulará denuncia por infracción al artículo 174
-
-de la Ordenanza de Aduanas, por cuanto se ha
-
-estimado razonable conceder ese margen de
-
-tolerancia con el objeto de salvar diferencias
-
-que se producen en el manejo de grandes
-
-cantidades de líquidos.
-
-b) Que la cantidad excedida sea superior al 5% de la
-
-amparada en el Conocimiento de Embarque. En este
-
-caso el despachador que interviene deberá
-
-proceder conforme a la letra a) precedente. No
-
-obstante, la Aduana formulará denuncia por
-
-infracción al artículo 174 de la Ordenanza de
-
-Aduanas, sobre el total excedido, por haberse
-
-sobrepasado el margen de tolerancia.
-
-c) No obstante lo anterior, cuando se trate de
-
-combustibles líquidos a granel, se podrá
-
-invocar el régimen preferencial aun cuando
-
-exista una diferencia entre la cantidad
-
-certificada como originaria y la cantidad
-
-resultante recepcionada según la Hoja de
-
-Medida. Para estos efectos se podrá acceder
-
-a la preferencia arancelaria hasta un 0,4%
-
-sobre el monto total consignado en el
-
-respectivo certificado de origen. El resto
-
-del exceso se deberá importar bajo régimen
-
-general.
+c) No obstante lo anterior, cuando se trate decombustibles líquidos a granel, se podrá invocar el régimen preferencial aun cuando exista una diferencia entre la cantidad certificada como originaria y la cantidad resultante recepcionada según la Hoja de Medida. Para estos efectos se podrá acceder a la preferencia arancelaria hasta un 0,4% sobre el monto total consignado en el respectivo certificado de origen. El resto del exceso se deberá importar bajo régimen general.
 
 De igual forma, se deberá proceder para !a hulla bituminosa y ácido sulfúrico concentrado, presentados a gráneles sólidos, pero con una tolerancia del 0,3% sobre el monto total consignado en el respectivo certificado de origen, el resto del exceso se deberá importar bajo régimen general.
 
-8.1.3 La SMDA a que se alude en las letras a) y b),
-
-deberá presentarse dentro del plazo de tres
-
-días hábiles contados de la fecha de medición
-
-final. Si el producto es petróleo crudo, el
-
-plazo de tres días se contará a partir de la
-
-entrega del resultado del análisis.
+8.1.3 La SMDA a que se alude en las letras a) y b), deberá presentarse dentro del plazo de tres días hábiles contados de la fecha de medición final. Si el producto es petróleo crudo, el plazo de tres días se contará a partir de la entrega del resultado del análisis.
 
 8.2 Declaraciones de Almacén Particular y Solicitudes de Traslado a Zona Franca (Z) de Trámite Anticipado, confeccionadas por el total del Conocimiento de Embarque.
 
@@ -470,185 +194,39 @@ A partir de la puesta en aplicación del nuevo sistema de control de los regíme
 
 Estas diferencias, entre la DAPI y la DIN, generalmente se deben a variaciones en la cantidad de mercancías recepcionadas o bien por existencias de valores provisorios en los documentos de destinación aduanera.
 
-8.2.1 Tratándose de gráneles líquidos, los
+8.2.1 Tratándose de gráneles líquidos, losdespachadores de aduana deberán corregir los valores del DAPI, conforme al resultado de la medición de las Hojas de Medida o Papeleta de Recepción, según corresponda, ya sea que éstas contemplen mercancías en exceso o en defecto, de manera que esta destinación aduanera de régimen suspensivo ampare la cantidad de mercancía que efectivamente fueron recibidas. Esta modificación se deberá efectuar con la debida antelación a la tramitación de la declaración que cancela el DAPI, mediante la tramitación electrónica de una SMDA. Para estos efectos el despachador deberá contar como documento de base en la carpeta de despacho, para futuras fiscalizaciones, la Hoja de Medida Final o Papeleta de Recepción, además del Conocimiento de Embarque. Esta SMDA no estará sujeta a denuncia por infracción reglamentaria en la medida que las diferencias en la cantidad de mercancías no sobrepasen la tolerancia del 5%.
 
-despachadores de aduana deberán
+8.2.2 Respecto a las operaciones con valores provisorios contemplados en la letra c) del numeral 10.1 del Capítulo III del Compendio de Normas Aduaneras, referidos a las importaciones de los productos allí señalados se instruye que, una vez obtenida la factura definitiva, se deberá modificar el valor del respectivo DAPI. Esta operación de aclaración se deberá realizar por cada uno de los abonos en que se haya realizado un ajuste del valor del producto, ya sea que aumenten o disminuyan el valor CIF del ítem. Estas aclaraciones al DAPI no estarán sujetas a infracción reglamentaria.
 
-corregir los valores del DAPI, conforme
-
-al resultado de la medición de las Hojas de
-
-Medida o Papeleta de Recepción, según
-
-corresponda, ya sea que éstas contemplen
-
-mercancías en exceso o en defecto, de manera
-
-que esta destinación aduanera de régimen
-
-suspensivo ampare la cantidad de mercancía
-
-que efectivamente fueron recibidas. Esta
-
-modificación se deberá efectuar con la debida
-
-antelación a la tramitación de la declaración
-
-que cancela el DAPI, mediante la tramitación
-
-electrónica de una SMDA. Para estos efectos
-
-el despachador deberá contar como documento
-
-de base en la carpeta de despacho, para
-
-futuras fiscalizaciones, la Hoja de Medida
-
-Final o Papeleta de Recepción, además del
-
-Conocimiento de Embarque. Esta SMDA no estará
-
-sujeta a denuncia por infracción reglamentaria
-
-en la medida que las diferencias en la
-
-cantidad de mercancías no sobrepase la
-
-tolerancia del 5%.
-
-8.2.2 Respecto a las operaciones con valores
-
-provisorios contemplados en la letra c) del
-
-numeral 10.1 del Capítulo III del Compendio de
-
-Normas Aduaneras, referidos a las importaciones
-
-de los productos allí señalados se instruye
-
-que, una vez obtenida la factura definitiva, se
-
-deberá modificar el valor del respectivo DAPI.
-
-Esta operación de aclaración se deberá realizar
-
-por cada uno de los abonos en que se haya
-
-realizado un ajuste del valor del producto, ya
-
-sea que aumenten o disminuyan el valor CIF del
-
-ítem. Estas aclaraciones al DAPI no estarán
-
-sujetas a infracción reglamentaria.
-
-8.2.3 No obstante lo anterior, para ambas situaciones
-
-anteriores, sólo procederá formular denuncia
-
-conforme al artículo 174, cuando la cantidad de
-
-mercancías efectivamente recepcionadas mediante
-
-las distintas Hojas de Medida arrojen un exceso
-
-en la descarga superior en un 5% del total de
-
-mercancías consignado en el Conocimiento de
-
-Embarque, y por lo tanto no procede formular
-
-denuncia, cuando la diferencia resultante de la
-
-aclaración a la DAPI mediante SMDA, sea
-
-superior al 5% entre la cantidad y el valor
-
-declarado primitivamente en el régimen
-
-suspensivo bajo una factura provisoria respecto
-
-a la cantidad y el valor de mercancías
-
-resultante de la aclaración por la vía de la
-
-SMDA, y como producto del valor provisorio
-
-autorizado por la Aduana.
+8.2.3 No obstante lo anterior, para ambas situaciones anteriores, sólo procederá formular denuncia conforme al artículo 174, cuando la cantidad de mercancías efectivamente recepcionadas mediante las distintas Hojas de Medida arrojen un exceso en la descarga superior en un 5% del total de mercancías consignado en el Conocimiento de Embarque, y por lo tanto no procede formular denuncia, cuando la diferencia resultante de la aclaración a la DAPI mediante SMDA, sea superior al 5% entre la cantidad y el valor declarado primitivamente en el régimen suspensivo bajo una factura provisoria respecto a la cantidad y el valor de mercancías resultante de la aclaración por la vía de la SMDA, y como producto del valor provisorio autorizado por la Aduana.
 
 8.3 Estanques habilitados como Almacén Particular para más de un consignatario
 
-8.3.1 Para los efectos de determinar los volúmenes
+8.3.1 Para los efectos de determinar los volúmenes descargados se usarán los procedimientos descritos anteriormente, en lo pertinente.
 
-descargados se usarán los procedimientos
+8.3.2 El Almacenista deberá hacer un detalle de mermas y/o de excesos a fin de prorratearlos entre los consignatarios.
 
-descritos anteriormente, en lo pertinente.
+No obstante lo anterior, tratándose decombustibles descargados desde una misma nave para varios consignatarios, el Almacenista no considerará para efectos del prorrateo de mermas y/o excesos a las mercancías consignadas a las FF.AA., Carabineros de Chile y Policía de Investigaciones, es decir, entregará el total del volumen, consignado en el respectivo conocimiento de embarque, a dichos consignatarios.
 
-8.3.2 El Almacenista deberá hacer un detalle de
-
-mermas y/o de excesos a fin de prorratearlos
-
-entre los consignatarios.
-
-No obstante lo anterior, tratándose de
-
-combustibles descargados desde una misma
-
-nave para varios consignatarios, el
-
-Almacenista no considerará para efectos
-
-del prorrateo de mermas y/o excesos a las
-
-mercancías consignadas a las FF.AA.,
-
-Carabineros de Chile y Policía de
-
-Investigaciones, es decir, entregará el
-
-total del volumen, consignado en el
-
-respectivo conocimiento de embarque, a
-
-dichos consignatarios.
-
-8.3.3 Este tipo de almacenamiento es usado por
-
-importadores de aceites comestibles para
-
-refinar, particularmente. El retiro de la
-
-mercancía se verifica en camiones, de modo tal
-
-que el control se basará en los datos que
-
-arroje el romaneo, los que servirán para la
-
-cancelación de docu-mentos.
+8.3.3 Este tipo de almacenamiento es usado por importadores de aceites comestibles para refinar, particularmente. El retiro de la mercancía se verifica en camiones, de modo tal que el control se basará en los datos que arroje el romaneo, los que servirán para la cancelación de documentos.
 
 ### 9. CALIBRACIÓN DE ESTANQUES
 
 9.1 Cabe señalar que la literatura y las normas API y ASTM no establecen la periodicidad de las calibraciones de estanques, pero sí contemplan disposiciones acerca de las recalibraciones, las cuales deben efectuarse obligatoriamente en los siguientes casos:
 
-9.1.1 Cuando un Estanque, después de permanecer fuera
-
-de uso por un largo período, entre nuevamente
-
-en servicio.
+9.1.1 Cuando un Estanque, después de permanecer fuera de uso por un largo período, entre nuevamente en servicio.
 
 9.1.2 Cuando el Estanque sea cambiado de lugar.
 
-9.1.3 Cuando se modifique la obra muerta o el fondo
+9.1.3 Cuando se modifique la obra muerta o el fondo del Estanque.
 
-del Estanque.
+9.1.4 Cuando el Estanque se someta a cualquiera modificación que pueda afectar su capacidad, por ejemplo: cambio de planchas.
 
-9.1.4 Cuando el Estanque se someta a cualquiera
+9.2 En consecuencia, se ha determinado que, si no se presenta ninguna de las circunstancias señaladas en los puntos 9.1.1 a 9.1.4, las Tablas de Calibración de los estanques destinados al depósito de graneles líquidos tendrán un período de vigencia de 10 años. No obstante, una vez cumplido el plazo de 5 años, contabilizados desde la fecha de habilitación del estanque, se deberá presentar a la Aduana de jurisdicción un documento emitido por un organismo registrado ante el Servicio de Aduanas para calibrar estanques, que certifique que éste no ha variado las condiciones iniciales que dieron origen a las Tablas de Calibración. Este documento deberá ser presentado anualmente, desde el año 5 hasta el año 10, dentro de los 15 días corridos siguientes a la fecha en que se cumpla un año más de la correspondiente habilitación.
 
-modificación que pueda afectar su capacidad,
+9.3 Las empresas debidamente habilitadas por el Servicio Nacional de Aduanas para prestar servicios de calibración de estanques, podrán utilizar para dicho efecto el método electro-óptico interno/externo de determinación de distancia, mediante el uso de un instrumento de medición escáner laser 3D, según el manual API MPMS 2.2D o según la Norma ISO 7507, Partes 4 y 5 (Electro-Optical Distance Ranging-EODR).
 
-por ejemplo: cambio de planchas.
-
-9.2 En consecuencia, se ha determinado que, si no se presenta ninguna de las circunstancias señaladas en los puntos 9.1.1 a 9.1.4, un período de 10 años es perfectamente aceptable para las Tablas de Calibración de los Estanques destinados al depósito de gráneles líquidos.
+9.4 Las Tablas de Calibración obtenidas mediante este método tendrán una validez de diez años, debiendo darse cumplimiento a las dos condiciones señaladas en el numeral 9.2 anterior.
 
 II.- Estas instrucciones comenzarán a regir a contar de la fecha de publicación en el Diario Oficial.
 
