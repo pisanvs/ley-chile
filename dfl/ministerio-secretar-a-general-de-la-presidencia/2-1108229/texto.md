@@ -410,7 +410,7 @@ Las juntas electorales a que se refiere el título XII de la presente ley, desig
 
 #### Artículo 45
 
-No podrán ser vocales de mesas las personas que sean candidatos en la elección de que se trate, sus cónyuges y sus parientes consanguíneos o afines en toda la línea recta y en la colateral hasta el segundo grado inclusive; las personas que desempeñen cargos de representación popular; las personas a cargo de los trabajos electorales que señala el artículo 10 de esta ley; los ministros de Estado, subsecretarios, delegados presidenciales regionales, delegados presidenciales provinciales, gobernadores regionales y consejeros regionales; los embajadores y cónsules de Chile; los magistrados de los tribunales superiores de justicia, los jueces que forman parte del Poder Judicial y los de Policía Local; los fiscales del Ministerio Público; los jefes superiores de servicio y secretarios regionales ministeriales; el Contralor General de la República ni los miembros de las Fuerzas Armadas y de Orden y Seguridad Pública en servicio activo. Tampoco podrán serlo los extranjeros, los no videntes, los analfabetos y aquellos que hayan sufrido condena por delitos contemplados en cualquiera de las leyes que regulan el sistema electoral público.
+No podrán ser vocales de mesas las personas que sean candidatos en la elección de que se trate, sus cónyuges y sus parientes consanguíneos o afines en toda la línea recta y en la colateral hasta el segundo grado inclusive; las personas que desempeñen cargos de representación popular; las personas a cargo de los trabajos electorales que señala el artículo 10 de esta ley; los ministros de Estado, subsecretarios, intendentes, gobernadores y consejeros regionales; los embajadores y cónsules de Chile; los magistrados de los tribunales superiores de justicia, los jueces que forman parte del Poder Judicial y los de Policía Local; los fiscales del Ministerio Público; los jefes superiores de servicio y secretarios regionales ministeriales; el Contralor General de la República ni los miembros de las Fuerzas Armadas y de Orden y Seguridad Pública en servicio activo. Tampoco podrán serlo los extranjeros, los no videntes, los analfabetos y aquellos que hayan sufrido condena por delitos contemplados en cualquiera de las leyes que regulan el sistema electoral público.
 
 Si por las causales anteriores no fuere posible integrar la mesa, se constituirá con ciudadanos que figuren en los padrones de mesas correspondientes a mesas contiguas.
 
@@ -532,7 +532,7 @@ Determinados los locales de votación, estos no podrán reconsiderarse ni altera
 
 Los locales de votación, con el detalle de las mesas receptoras de sufragios que funcionarán en cada uno de ellos, serán informados a las juntas electorales correspondientes antes del trigésimo día anterior a la fecha de la elección o plebiscito. La junta electoral publicará la nómina de locales de votación en la misma forma y oportunidad señaladas en el artículo 48. En la misma audiencia pública en que las juntas electorales designen los vocales de las mesas receptoras de sufragios se procederá, a continuación, a designar para cada local de votación los delegados a que se refiere el artículo 60.
 
-El Servicio Electoral comunicará al delegado presidencial provincial y al municipio respectivo, con a lo menos cincuenta días de anticipación a la fecha de la elección o plebiscito, la lista de los locales que hubiere designado a fin de que los encargados de los mismos procuren los medios de atender a la debida instalación de cada mesa. Igualmente, se hará la respectiva comunicación a los propietarios o responsables de los locales que se hubieren designado.
+El Servicio Electoral comunicará al gobernador provincial y al municipio respectivo, con a lo menos cincuenta días de anticipación a la fecha de la elección o plebiscito, la lista de los locales que hubiere designado a fin de que los encargados de los mismos procuren los medios de atender a la debida instalación de cada mesa. Igualmente, se hará la respectiva comunicación a los propietarios o responsables de los locales que se hubieren designado.
 
 #### Artículo 59
 
@@ -740,9 +740,7 @@ Se presume fraudulento el escrutinio de una mesa que se practicare en un lugar d
 
 #### Artículo 76
 
-Si hubiere que practicar más de un escrutinio, primero se realizará el de plebiscito, luego el de Presidente de la República, posteriormente el de senadores y, por último, el de diputados.
-
-En el caso de las elecciones territoriales, primero se realizará el escrutinio de gobernador regional, posteriormente el de consejeros regionales, a continuación el del alcalde y, por último, el de concejales.
+Si hubiere que practicarse más de un escrutinio, primero se realizará el de plebiscito, luego el de Presidente de la República, posteriormente el de senadores, el de diputados y, por último, el de consejeros regionales.
 
 En tal caso, las cédulas se separarán de acuerdo con los comicios a que se refieren y mientras se procede al escrutinio de un tipo, las restantes se guardarán en la urna.
 
@@ -1556,7 +1554,7 @@ Las organizaciones a que hace referencia el inciso anterior podrán realizar la 
 
 Para ser designado apoderado se requiere ser ciudadano con derecho a sufragio y no haber sido condenado por delitos sancionados por esta ley o por cualquiera de las leyes que regulan el sistema electoral público. Esta última condición se presumirá siempre existente mientras no se pruebe lo contrario ante el presidente de la respectiva junta, mesa o colegio.
 
-Con todo, no podrán ser designados apoderados los ministros de Estado, subsecretarios, delegados presidenciales regionales, delegados presidenciales provinciales, gobernadores regionales, consejeros regionales y alcaldes, los magistrados de los tribunales superiores de justicia, los jueces que forman parte del Poder Judicial y los de Policía Local, los jefes superiores de servicio y secretarios regionales ministeriales, el Contralor General de la República ni los miembros de las Fuerzas Armadas y de Orden y Seguridad Pública en servicio activo. Tampoco podrán serlo los no videntes y los analfabetos.
+Con todo, no podrán ser designados apoderados los ministros de Estado, subsecretarios, intendentes, consejeros regionales, gobernadores y alcaldes, los magistrados de los tribunales superiores de justicia, los jueces que forman parte del Poder Judicial y los de Policía Local, los jefes superiores de servicio y secretarios regionales ministeriales, el Contralor General de la República ni los miembros de las Fuerzas Armadas y de Orden y Seguridad Pública en servicio activo. Tampoco podrán serlo los no videntes y los analfabetos.
 
 #### Artículo 172
 
@@ -1748,11 +1746,11 @@ Los distritos electorales serán los siguientes:
 
 18º distrito, constituido por las comunas de Linares, Colbún, San Javier, Villa Alegre, Yerbas Buenas, Longaví, Retiro, Parral, Cauquenes, Pelluhue y Chanco, que elegirá 4 diputados.
 
-19º distrito, constituido por las comunas de Chillán, Coihueco, Pinto, San Ignacio, El Carmen, Pemuco, Yungay, Chillán Viejo, San Fabián, Ñiquén, San Carlos, San Nicolás, Ninhue, Quirihue, Cobquecura, Treguaco, Portezuelo, Coelemu, Ránquil, Quillón y Bulnes, que elegirá 5 diputados.
+19º distrito, constituido por las comunas de Chillán, Coihueco, Pinto, San Ignacio, El Carmen, Pemuco, Yungay, Chillán Viejo, San Fabián, Ñiquén, San Carlos, San Nicolás, Ninhue, Quirihue, Cobquecura, Treguaco, Portezuelo, Coelemu, Ránquil, Quillón, Bulnes, Cabrero y Yumbel, que elegirá 5 diputados.
 
 20º distrito, constituido por las comunas de Talcahuano, Hualpén, Concepción, San Pedro de la Paz, Chiguayante, Tomé, Penco, Florida, Hualqui, Coronel y Santa Juana, que elegirá 8 diputados.
 
-21° distrito, constituido por las comunas de Lota, Lebu, Arauco, Curanilahue, Los Álamos, Cañete, Contulmo, Tirúa, Los Ángeles, Tucapel, Antuco, Quilleco, Alto Biobío, Santa Bárbara, Quilaco, Mulchén, Negrete, Nacimiento, San Rosendo, Laja, Cabrero y Yumbel, que elegirá 5 diputados.
+21° distrito, constituido por las comunas de Lota, Lebu, Arauco, Curanilahue, Los Álamos, Cañete, Contulmo, Tirúa, Los Ángeles, Tucapel, Antuco, Quilleco, Alto Biobío, Santa Bárbara, Quilaco, Mulchén, Negrete, Nacimiento, San Rosendo y Laja, que elegirá 5 diputados.
 
 22º distrito, constituido por las comunas de Angol, Renaico, Collipulli, Ercilla, Los Sauces, Purén, Lumaco, Traiguén, Victoria, Curacautín, Lonquimay, Melipeuco, Vilcún, Lautaro, Perquenco y Galvarino, que elegirá 4 diputados.
 
@@ -1769,8 +1767,6 @@ Los distritos electorales serán los siguientes:
 28º distrito, constituido por las comunas de Natales, Torres del Paine, Punta Arenas, Río Verde, Laguna Blanca, San Gregorio, Porvenir, Primavera, Timaukel, Cabo de Hornos y Antártica, que elegirá 3 diputados.
 
 El número de diputados que se elegirá por distrito se actualizará en los plazos y en la forma que prescribe el artículo 189.
-
-> **Nota.** El N° 1 del artículo 5 de la ley 21.033, publicada el 05.09.2017, modificó el Art. 179 de la ley 18.700, que en este texto refundido corresponde al presente Art. 188, según consta en su nota al margen. La modificación señalada no se encuentra en el texto refundido publicado, por lo que se ha incorporado en esta actualización. En conformidad a su Art. 16, la ley 21.033 entrará en vigencia un año después del día de su publicación.
 
 #### Artículo 189
 
@@ -1816,7 +1812,7 @@ Cada circunscripción elegirá el número de senadores que se indica a continuac
 
 9° circunscripción, constituida por la VII región del Maule, 5 senadores.
 
-10° circunscripción, constituida por la VIII región del Bío Bío, 3 senadores.
+10° circunscripción, constituida por la VIII región del Bío Bío, 5 senadores.
 
 11° circunscripción, constituida por la IX región de La Araucanía, 5 senadores.
 
@@ -1827,10 +1823,6 @@ Cada circunscripción elegirá el número de senadores que se indica a continuac
 14° circunscripción, constituida por la XI región de Aysén del General Carlos Ibáñez del Campo, 2 senadores.
 
 15° circunscripción, constituida por la XII región de Magallanes y de la Antártica Chilena, 2 senadores.
-
-16° circunscripción, constituida por la XVI Región de Ñuble, 2 senadores.
-
-> **Nota.** El N° 2 del artículo 5 de la ley 21.033, publicada el 05.09.2017, modificó el Art. 180 de la ley 18.700, que en este texto refundido corresponde al presente Art. 190, según consta en la primera de sus notas al margen. La modificación señalada no se encuentra en el texto refundido publicado, por lo que se ha incorporado en esta actualización. En conformidad a su Art. 16, la ley 21.033 entrará en vigencia un año después del día de su publicación.
 
 ## Título XII
 
@@ -2125,44 +2117,6 @@ En los casos en que un funcionario del Servicio Exterior o perteneciente a la pl
 Los miembros de las juntas electorales y de las mesas receptoras de sufragios en el extranjero que tomen conocimiento de hechos que puedan ser constitutivos de faltas o delitos previstos en esta ley, ocurridos en los procesos electorales que tengan lugar en el extranjero, deberán dejar constancia de éstos en las actas correspondiente.
 
 Los presidentes de las juntas y de las mesas deberán comunicar tales hechos al Servicio Electoral, para que los ponga en conocimiento del tribunal competente.
-
-#### Artículo transitorio
-
-Toda vez que las leyes hagan referencia a regiones pares, se entenderá por tales las siguientes:
-
-Región de Antofagasta.
-
-Región de Coquimbo.
-
-Región del Libertador General Bernardo O'Higgins.
-
-Región de Ñuble.
-
-Región del Biobío.
-
-Región de Los Ríos.
-
-Región de Los Lagos.
-
-Región de Magallanes y de la Antártica Chilena, y
-
-Región Metropolitana de Santiago.
-
-Asimismo, toda vez que las leyes hagan referencia a regiones impares, se entenderá por tales las siguientes:
-
-Región de Arica y Parinacota.
-
-Región de Tarapacá.
-
-Región de Atacama.
-
-Región de Valparaíso.
-
-Región del Maule.
-
-Región de la Araucanía, y
-
-Región de Aysén del General Carlos Ibáñez del Campo.
 
 Tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Nicolás Eyzaguirre Guzmán, Ministro Secretario General de la Presidencia.- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.
 
