@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN N° 5.586 EXENTA, DE 23 DE NOVIEMBRE DE 2017
+
+Por resolución exenta Nº 5.586, de 23 de noviembre de 2017, de este Servicio, se modifica el resuelvo primero y segundo de la resolución exenta Nº 2.966, de 2017, del Servicio Nacional de Pesca y Acuicultura, retirando del listado a cuatro inscripciones de pescador artesanal y su respectiva embarcación, ya que se acreditó respecto de tres de ellas, mediante el pago de la patente pesquera artesanal, que no se daba cumplimiento con el supuesto de caducidad establecido en la letra e) del artículo 55 de la Ley de Pesca y respecto de una de ellas se acreditó que su titular acreditaba el dominio de su embarcación, no dándose cumplimiento al supuesto de caducidad establecido en la letra d) parte final del artículo 55º de la Ley de Pesca, en relación con el artículo 52º de la misma ley, lo que produce como consecuencia que la caducidad declarada debe ser retrotraída.
+
+El texto íntegro de la resolución indicada se encuentra publicado con esta fecha en el sitio de dominio electrónico del Servicio Nacional de Pesca y Acuicultura y en el de la Subsecretaría de Pesca y Acuicultura.
+
+En Valparaíso, 23 de noviembre de 2017.- Germán Iglesias Veloso, Director Nacional (S), Servicio Nacional de Pesca y Acuicultura.
