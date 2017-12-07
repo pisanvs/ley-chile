@@ -94,7 +94,7 @@ Personas 5 33 1
 
 Director de Atención Primaria 6 33 1
 
-Jefe Servicio Clínico 8 33 6
+Jefe Servicio Clínico 8 33 3
 
 Jefe Unidad de Apoyo 8 33 7
 
@@ -238,7 +238,7 @@ Horas
 
 Semanales
 
-PROFESIONALES FUNCIONARIOS 3.003
+PROFESIONALES FUNCIONARIOS 3.102
 
 > **Nota.** El Art. único del DFL 14, Salud, publicado el 17.07.2000 establece que la presente modificación regirá a partir del 01 de agosto del 2000.
 

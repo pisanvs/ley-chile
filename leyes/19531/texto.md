@@ -50,7 +50,7 @@ La asignación de que trata este artículo no corresponderá a las autoridades d
 
 #### Artículo 2º bis
 
-Establécese, a contar del 1º de abril de 2007, un bono de nivelación para los funcionarios de la Corte Suprema, pertenecientes a los grados I y II de la Escala del Personal Superior del Poder Judicial, equivalente a montos que les permitan alcanzar la remuneración bruta mensualizada de carácter permanente de un Ministro de Estado. Las cantidades a pagar mensualmente por concepto de dicho bono se fijarán por decreto que dictará anualmente el Ministerio de Justicia, expedido bajo la fórmula "por orden del Presidente de la República", el que también será suscrito por el Ministro de Hacienda.
+Establécese un bono de nivelación para los funcionarios de la Corte Suprema, pertenecientes a los grados I y II de la Escala del Personal Superior del Poder Judicial. El monto del bono será de $1.606.016 para el grado I y de $2.002.363 para el grado II, y se pagará mensualmente.
 
 Los montos que se perciban por concepto del bono de nivelación no tendrán el carácter de imponibles ni servirán de base de cálculo de ninguna otra remuneración.
 
@@ -102,7 +102,7 @@ VII 7.623 30.492 83.852 152.458
 
 #### Artículo 4º
 
-Establécese, a contar del 1º de enero de 2008, un bono de modernización para el personal perteneciente a los grados III al XI del Escalafón del Personal Superior del Poder Judicial, a los Escalafones de Consejeros Técnicos y de empleados del Poder Judicial, a la Academia Judicial y a la Corporación Administrativa del Poder Judicial, con los incrementos, modalidades y porcentajes que se indican en los artículos siguientes.
+Establécese, a contar del 1º de enero de 2008, un bono de modernización para el personal perteneciente a los grados III al XI del Escalafón del Personal Superior del Poder Judicial, a los Escalafones de Consejeros Técnicos y de empleados del Poder Judicial, a la Academia Judicial y a la Corporación Administrativa del Poder Judicial, con los incrementos, modalidades y porcentajes que se indican en los artículos siguientes. Además, el personal perteneciente a los grados I y II del Escalafón del Personal Superior del Poder Judicial tendrá derecho al componente base y al incremento por desempeño institucional de las letras a) y b) del inciso segundo, respectivamente.
 
 El bono de modernización contendrá los siguientes elementos:
 
@@ -176,7 +176,7 @@ Existirá una entidad evaluadora de origen externo que tendrá como función efe
 
 Excepcionalmente, y para el evento que no existieren entidades oferentes para efectuar el proceso de evaluación, éste podrá desarrollarse por una persona natural designada conforme al procedimiento previsto en el inciso cuarto del presente artículo.
 
-De dicha evaluación se podrá reclamar ante la Comisión Resolutiva Interinstitucional, y apelar ante la Corte Suprema en caso de rechazo de esta última, todo ello de conformidad al procedimiento que al efecto regulen los reglamentos a que se refieren los artículos 4º bis y 4º ter.
+De dicha evaluación se podrá reclamar ante la Comisión Resolutiva Interinstitucional, y apelar ante la Corte Suprema en caso de rechazo de esta última, todo ello de conformidad al procedimiento que al efecto regulen los reglamentos a que se refieren los artículos 4º bis y 4º ter. Con todo, no procederá dicha apelación respecto de la evaluación de las metas anuales de eficiencia institucional de las unidades organizacionales del Poder Judicial a que se refiere el artículo 4 bis, en cuyo caso sólo será procedente el recurso de reposición ante la Comisión Resolutiva, de conformidad al procedimiento que al efecto regule el reglamento a que se refiere el artículo 4 bis.
 
 Dicha entidad evaluadora será seleccionada, previa licitación pública convocada por el Consejo Superior de la Corporación Administrativa del Poder Judicial, por la Comisión Resolutiva Interinstitucional. Para estos efectos, se incorporarán los fondos respectivos en el presupuesto anual de la Corporación Administrativa del Poder Judicial.
 

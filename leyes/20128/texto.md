@@ -14,65 +14,9 @@ PRESUPUESTARIA
 
 ### 1. De la Política Fiscal
 
-#### Artículo 1
+#### Artículo 1°
 
-El Presidente o la Presidenta de la República, dentro de los noventa días siguientes a la fecha en que asuma sus funciones, mediante decreto supremo expedido por intermedio del Ministerio de Hacienda, establecerá las bases de la política fiscal que se aplicará durante su administración. Este decreto de política fiscal deberá contener un pronunciamiento explícito sobre las implicancias y efectos que tendrá su política fiscal sobre el Balance Estructural, por cada año de gobierno y un ancla de deuda de mediano plazo, medido a través de la deuda bruta del Gobierno Central total como porcentaje del Producto Interno Bruto (PIB) para, al menos, el período de su administración. El Consejo Fiscal Autónomo, en el marco de sus potestades legales, deberá emitir una opinión fundada acerca de la idoneidad de las metas formuladas para la sostenibilidad fiscal, dentro de los sesenta días corridos siguientes a la publicación en el Diario Oficial del referido decreto.
-
-En el Informe de Finanzas Públicas inmediatamente posterior a la dictación del decreto a que se refiere este artículo, la Dirección de Presupuestos del Ministerio de Hacienda deberá publicar un apartado metodológico que especifique de qué modo los resultados de Balance Estructural comprometidos durante esa administración resultan compatibles con el ancla de deuda bruta del Gobierno Central total establecida para dicho período. Adicionalmente, en dicho informe se deberá incorporar un capítulo sobre el rol de la política de activos del Tesoro Público durante su período.
-
-Tras el cierre definitivo de cada año fiscal y con ocasión de la publicación del Informe de Finanzas Públicas respectivo, el Ministro o la Ministra de Hacienda deberá informar sobre el cumplimiento de la trayectoria de Balance Estructural y deuda bruta establecida en el decreto a que se refiere este artículo. Asimismo, en el informe de finanzas públicas del segundo trimestre, que se publique luego de cumplidos dos años desde el inicio del período presidencial y antes de su término, deberá informar a las Comisiones de Hacienda del Senado y de la Cámara de Diputados del Congreso Nacional, y al Consejo Fiscal Autónomo acerca del cumplimiento de las metas formuladas en el decreto establecido en este artículo, incluyendo un nuevo apartado metodológico de las mismas características que el señalado en el inciso segundo.
-
-La sustitución del decreto a que se refiere el inciso primero será excepcional y procederá exclusivamente cuando la administración active una Cláusula de Escape de conformidad con el artículo 1 ter, o bien invoque otras causales extraordinarias que hagan necesario adecuar la meta de Balance Estructural, y/o el ancla de deuda bruta del Gobierno Central. En tal caso, el nuevo decreto de política fiscal deberá dictarse de conformidad al mismo procedimiento establecido en este artículo para el decreto original, e incluir una justificación detallada de las razones de su dictación. El Consejo Fiscal Autónomo deberá emitir una opinión fundada de acuerdo con lo establecido en el inciso primero, en un plazo de treinta días. Además, el Ministro o la Ministra de Hacienda deberá comparecer ante las Comisiones de Hacienda del Senado y de la Cámara de Diputados del Congreso Nacional y explicar las razones que hicieron necesaria la elaboración de un nuevo decreto y sobre las medidas a adoptar para restaurar una trayectoria sostenible de las finanzas públicas, de lo cual deberá informar también al Consejo Fiscal Autónomo.
-
-Deberá remitirse copia de los decretos dictados de conformidad a este artículo, así como de las modificaciones que se le introduzcan, a las Comisiones de Hacienda del Senado y de la Cámara de Diputados, y a la Comisión Especial Mixta de Presupuestos a que se refiere el artículo 19 de la Ley N° 18.918, Orgánica Constitucional del Congreso Nacional.
-
-Cuando, al cierre definitivo del año fiscal, la política fiscal se desvíe de las metas establecidas en el decreto de política fiscal vigente sin que se cumplan las condiciones para activar la cláusula de escape definidas en el artículo 1 ter, el Ministerio de Hacienda deberá establecer en el informe de finanzas públicas inmediatamente posterior las acciones correctivas necesarias para retornar a una situación fiscal sostenible, las que deberán ser informadas a las Comisiones de Hacienda de ambas Cámaras del Congreso Nacional, y al Consejo Fiscal Autónomo. Este último tendrá treinta días desde la publicación del informe antedicho, para emitir una opinión fundada respecto de las acciones correctivas.
-
-Mediante un reglamento dictado por intermedio del Ministerio de Hacienda, se establecerán los mecanismos, procedimientos, modalidades y demás normas necesarias para la aplicación de este artículo.
-
-#### Artículo 1 bis
-
-La Dirección de Presupuestos deberá elaborar los informes financieros de los proyectos de ley y convenios internacionales que el Presidente de la República presente a tramitación legislativa en el Congreso Nacional. Estos informes financieros deberán contener una exposición precisa y clara acerca de los gastos o disminución de ingresos fiscales que pudiere importar la aplicación de las normas del proyecto que acompaña durante el primer año presupuestario de vigencia y por todo el período comprendido en el Programa Financiero, y la fuente de los recursos que la iniciativa demande, cuando corresponda. Sumado a lo anterior, se deberá presentar un análisis de largo plazo para los proyectos cuya implementación tenga un impacto significativo en la proyección de los ingresos y/o gastos. Asimismo, cada indicación presentada por el Presidente de la República durante la tramitación de los proyectos de ley, que implique un nuevo gasto, una disminución de ingresos fiscales o alguna variación sobre lo informado con anterioridad, deberá ser acompañada de un nuevo informe financiero, o bien de un informe financiero complementario o sustitutivo, según corresponda.
-
-Los informes financieros a que se refiere el inciso anterior deberán ser presentados antes de la cuenta del proyecto de ley o del convenio internacional ante la Cámara respectiva del Congreso Nacional. Si se trata de indicaciones, dicho informe deberá acompañar el respectivo mensaje, a su ingreso a tramitación.
-
-Los informes financieros, y las fuentes de información que se defina en virtud del inciso siguiente, deberán estar disponibles en el sitio web de la Dirección de Presupuestos a más tardar el día hábil siguiente a la cuenta del proyecto de ley o al ingreso de la indicación de que se trate en el Congreso Nacional.
-
-Una vez publicada una ley en el Diario Oficial, la Dirección de Presupuestos deberá publicar un informe financiero consolidado que dé cuenta de todos los efectos netos de ingresos y/o gastos que pueda importar la aplicación de las normas de la legislación, y consolidar el conjunto de informes financieros que se acompañaron al proyecto de ley respectivo en su tramitación. Este informe deberá estar disponible en el sitio web de la Dirección de Presupuestos dentro de los treinta días siguientes a la publicación de la ley.
-
-En los casos que sea posible estimar, se deberá realizar un seguimiento del impacto en ingresos y gastos de la implementación de las leyes que tengan un significativo impacto fiscal, con el objeto de contrastarlos con las proyecciones contenidas en sus respectivos informes financieros. Esta comparación se deberá publicar anualmente en el informe de finanzas públicas en el que se publique el cierre definitivo del año.
-
-El Ministro de Hacienda, por medio de un decreto supremo expedido por intermedio del Ministerio de Hacienda bajo la fórmula "Por orden del Presidente de la República", determinará los contenidos esenciales y mínimos de los informes financieros, así como de las fuentes de información para su elaboración.
-
-#### Artículo 1 ter
-
-Sin perjuicio de lo establecido en el artículo 1, un mecanismo denominado "cláusula de escape" permitirá al Gobierno desviarse por hasta dos años de las metas fiscales de Balance Estructural, hacia resultados más deficitarios, con mayores niveles de endeudamiento medido como porcentaje del Producto Interno Bruto. Este mecanismo sólo será procedente ante eventos extraordinarios y transitorios, ajenos al accionar propio de la administración y que ocasionen un deterioro significativo en la actividad económica, el empleo o perjudiquen considerablemente la situación financiera o sostenibilidad económica y/o social del país y que deban ser enfrentadas con un desembolso de recursos fiscales más allá del que permitan los objetivos de Balance Estructural y endeudamiento. Con todo, podrán considerarse como causales de activación de una cláusula de escape las siguientes situaciones, siempre que además cumplan las condiciones antes mencionadas:
-
-a) La ocurrencia de uno o varios desastres naturales.
-
-b) Eventos nacionales o internacionales que ocasionen un deterioro significativo de las condiciones macroeconómicas.
-
-El Presidente o la Presidenta de la República, por intermedio del Ministro o Ministra de Hacienda, deberá activar la cláusula de escape a través de un nuevo decreto de política fiscal, de acuerdo con las reglas del artículo 1, el que deberá incluir una justificación fundada del cumplimiento de las condiciones establecidas en el inciso primero de este artículo, el plazo máximo y acotado por el cual se desviará de las metas originales que, en todo caso, no podrá superar los dos años, así como los mecanismos de corrección y convergencia que serán utilizados para alcanzar una situación fiscal sostenible, y de acuerdo con la regla del Balance Estructural.
-
-En el informe de finanzas públicas inmediatamente posterior a la publicación del nuevo decreto señalado, la Dirección de Presupuestos del Ministerio de Hacienda deberá publicar un apartado metodológico que especifique de qué modo los resultados del Balance Estructural comprometidos bajo los mecanismos de corrección y convergencia permitirán alcanzar un nivel sostenible de deuda bruta del Gobierno Central total en el plazo determinado, así como su estimación para un plazo de, al menos, cuatro años desde su dictación.
-
-El Consejo Fiscal Autónomo deberá emitir su opinión respecto al cumplimiento de los criterios de activación de la cláusula de escape que ameriten la modificación del decreto de política fiscal, en un plazo máximo de treinta días luego de la publicación del nuevo decreto.
-
-Vencido el plazo establecido en el decreto sin que los mecanismos de corrección hubieren permitido alcanzar los resultados especificados, el Ministro o la Ministra de Hacienda deberá comparecer ante las Comisiones de Hacienda del Senado y de la Cámara de Diputados del Congreso Nacional, para dar cuenta de las razones de su incumplimiento y las medidas a adoptar para restaurar una trayectoria sostenible de las finanzas públicas, debiendo también informar al Consejo Fiscal Autónomo. El Consejo Fiscal Autónomo tendrá un plazo máximo de treinta días desde que es informado para emitir su opinión respecto a dicho incumplimiento.
-
-#### Artículo 1 quáter
-
-Sin perjuicio de las obligaciones establecidas en los artículos 1 a 1 ter y en otras disposiciones legales, la Dirección de Presupuestos del Ministerio de Hacienda deberá informar anualmente a las Comisiones de Hacienda de la Cámara de Diputados y del Senado sobre las siguientes materias referidas a la eficiencia del gasto público:
-
-a) Resultados de las evaluaciones de programas terminadas en el período, de acuerdo con lo establecido en el artículo 52 del decreto ley Nº 1.263, de 1975, del Ministerio de Hacienda, orgánico de Administración Financiera del Estado y al reglamento correspondiente.
-
-b) Antecedentes relativos a la planificación estratégica de los organismos de la Administración del Estado.
-
-Dichos informes deberán, además, ser publicados en su página web institucional.
-
-#### Artículo 1
-
-quinquies.- Sin perjuicio del informe sobre finanzas públicas establecido en el número 22 del artículo 2° del decreto con fuerza de ley N° 106, de 1960, del Ministerio de Hacienda, la Dirección de Presupuestos deberá publicar un informe trimestral con la actualización del escenario fiscal que considere una proyección de ingresos y gastos, junto a la correspondiente proyección del balance efectivo y cíclicamente ajustado, la proyección de deuda y la posición financiera neta para el año en curso, el siguiente y para el programa financiero en cada caso.
+El Presidente de la República, dentro de los 90 días siguientes a la fecha en que asuma sus funciones, mediante decreto supremo expedido por intermedio del Ministerio de Hacienda, establecerá las bases de la política fiscal que se aplicará durante su administración, que deberá incluir un pronunciamiento explícito acerca de las implicancias y efectos que tendrá su política sobre el Balance Estructural correspondiente al período de su administración. Copia de este decreto, así como de las modificaciones que se le introduzcan durante su vigencia, deberán ser remitidas a las Comisiones de Hacienda del Senado y de la Cámara de Diputados, y a la Comisión Especial de Presupuestos a que se refiere el artículo 19 de la ley N° 18.918, Orgánica Constitucional del Congreso Nacional.
 
 ### 2. Del Programa de Contingencia contra el Desempleo
 
@@ -98,13 +42,15 @@ La Ley de Presupuestos deberá incluir anualmente el ítem correspondiente al Pr
 
 #### Artículo 5°
 
-Créase un Fondo de Reserva de Pensiones, en adelante "el Fondo de Reserva", destinado a complementar el financiamiento de obligaciones fiscales derivadas de la Pensión Garantizada Universal, la pensión básica solidaria de invalidez y el aporte previsional solidario de invalidez.
+Créase un Fondo de Reserva de Pensiones, en adelante "el Fondo de Reserva", destinado a complementar el financiamiento de obligaciones fiscales derivadas de la pensión básica solidaria de vejez, la pensión básica solidaria de invalidez, el aporte previsional solidario de vejez y el aporte previsional solidario de invalidez.
 
 #### Artículo 6°
 
 El Fondo de Reserva estará constituido y se incrementará con los siguientes aportes:
 
 a) Con un aporte equivalente al superávit efectivo con un tope del 0,5% del Producto Interno Bruto del año anterior.
+
+Si el monto resultante del aporte anual señalado en el párrafo anterior fuese inferior al 0,2% del Producto Interno Bruto del año anterior, deberá enterarse un aporte anual que permita alcanzar un aporte total anual del 0,2% del Producto Interno Bruto del año anterior.
 
 El aporte a que se refiere esta letra deberá quedar enterado al Fondo de Reserva dentro del primer semestre de cada año, mediante uno o más depósitos hasta enterar el total del aporte;
 
@@ -114,27 +60,21 @@ c) Con los demás aportes que establezca la ley.
 
 Tratándose del aporte a que se refiere la letra a), éste deberá efectuarse sólo hasta el año en que los recursos acumulados en el Fondo de Reserva alcancen una cantidad equivalente a 900.000.000 de unidades de fomento. Una vez alcanzada esa cantidad se entenderá cumplida la obligación señalada, por lo que no procederá efectuar ningún aporte por concepto de esta letra.
 
-> **Nota.** El artículo cuarto de la Ley 21225, publicada el 02.04.2020, suspende la aplicación de lo dispuesto en la letra a) del presente artículo durante los años 2020 y 2021.
-
 #### Artículo 7°
 
 Sin perjuicio de lo dispuesto en el artículo 9°, los recursos del Fondo de Reserva tendrán por objeto exclusivo complementar el pago de las obligaciones a que se refiere el artículo 5° y sólo podrán ser utilizados para este objeto una vez transcurridos diez años desde la fecha de entrada en vigencia de esta ley.
 
-El Fondo de Reserva se extinguirá de pleno derecho si, habiendo transcurrido quince años a contar del año de entrada en vigencia de esta ley, el valor total de los activos del Fondo valorizados a julio del año respectivo no superen el 0,5% del Producto Interno Bruto del año anterior.
+El Fondo de Reserva se extinguirá de pleno derecho si, habiendo transcurrido quince años a contar del año de entrada en vigencia de esta ley, los giros a efectuarse en un año calendario no superen el cinco por ciento de la suma del gasto en pensión básica solidaria de vejez, pensión básica solidaria de invalidez, aporte previsional solidario de vejez y aporte previsional solidario de invalidez consultado en la Ley de Presupuestos de dicho año.
 
 Habiéndose extinguido el Fondo de Reserva en el caso indicado en el inciso anterior, deberá girarse en tal oportunidad el saldo existente en éste para el cumplimiento de su finalidad. Cualquier excedente que resulte luego de haber dado cumplimiento a lo dispuesto en este inciso, deberá enterarse al Fondo a que se refiere el artículo 10, mediante decreto supremo expedido por el Ministerio de Hacienda.
 
-Mediante reglamento dictado por el Ministerio de Hacienda, se establecerán los mecanismos, procedimientos, modalidades y demás normas necesarias para la aplicación de los recursos, ingresos y egresos, del Fondo de Reserva.
+Mediante reglamento dictado por el Ministerio de Hacienda, se establecerán los mecanismos, procedimientos, modalidades y demás normas necesarias para la aplicación de los recursos del Fondo de Reserva.
 
-El Ministerio de Hacienda deberá encargar cada tres años, a personas naturales o jurídicas u organismos públicos, la realización de un estudio actuarial que permita evaluar la sustentabilidad del Fondo de Reserva. Asimismo, este estudio deberá realizarse cada vez que se proponga una modificación al monto correspondiente a la Pensión Garantizada Universal, pensión básica solidaria de invalidez y aporte previsional solidario de invalidez, exceptuando los reajustes automáticos a que estos beneficios estén sujetos de conformidad a las normas que los rigen. El resultado de estos estudios deberá formar parte de los antecedentes a que se refiere el artículo 14 de la ley N° 18.918, Orgánica Constitucional del Congreso Nacional.
-
-> **Nota.** El artículo 39 de la Ley 21640, publicada el 18.12.2023, declara que la vigencia del fondo establecido en el presente artículo se extiende hasta el 31 de diciembre del 2024.
+El Ministerio de Hacienda deberá encargar cada tres años, a personas naturales o jurídicas u organismos públicos, la realización de un estudio actuarial que permita evaluar la sustentabilidad del Fondo de Reserva. Asimismo, este estudio deberá realizarse cada vez que se proponga una modificación al monto correspondiente a la pensión básica solidaria de vejez, pensión básica solidaria de invalidez, aporte previsional solidario de vejez y aporte previsional solidario de invalidez, exceptuando los reajustes automáticos a que estos beneficios estén sujetos de conformidad a las normas que los rigen. El resultado de estos estudios deberá formar parte de los antecedentes a que se refiere el artículo 14 de la ley N° 18.918, Orgánica Constitucional del Congreso Nacional.
 
 #### Artículo 8°
 
-El monto de los recursos del Fondo de Reserva que podrá ser utilizado anualmente será determinado a partir de una regla de retiro, definida por el Ministro de Hacienda, la cual deberá cumplir con dos objetivos: i) que el monto anual de los retiros desde el Fondo de Reserva sea estable y predecible, y ii) que se mantenga el valor del Fondo y de los aportes en el largo plazo, descontando la inflación.
-
-> **Nota.** El numeral segundo del inciso primero del artículo transitorio de la ley 21683, dispone que los retiros contemplados en la presente disposición no podrán realizarse hasta después de transcurrido un año desde la entrada en vigencia de la citada ley.
+El monto de los recursos del Fondo de Reserva que podrá ser utilizado anualmente, no deberá ser superior a un tercio de la diferencia producida entre el gasto total que corresponda efectuar en el año respectivo por concepto del pago de las obligaciones a que se refiere el artículo 5° y el gasto total efectuado por dicho concepto en el año 2008, debiendo este último actualizarse anualmente, de acuerdo a la variación que experimente el Indice de Precios al Consumidor.
 
 #### Artículo 9°
 
@@ -164,11 +104,9 @@ Procederá hacer efectivas las responsabilidades civiles, penales y administrati
 
 Facúltase al Presidente de la República para que, mediante uno o más decretos con fuerza de ley expedidos por intermedio del Ministerio de Hacienda, refunda en un Fondo los recursos adicionales de estabilización de los ingresos fiscales a que se refiere el decreto ley N° 3.653, de 1981, y los del Fondo de Compensación para los Ingresos del Cobre constituido conforme al Convenio de Préstamo BIRF N° 2625 CH, y, asimismo, fije la normativa para su operación. Dicho nuevo Fondo se denominará "Fondo de Estabilización Económica y Social".
 
-En uso de esta facultad, el Presidente de la República establecerá normas de definición y determinación de los recursos que ingresarán a este Fondo, que deberá incluir, en todo caso, el saldo que resulte de restar al superávit efectivo, el aporte a que se refiere la letra a) del artículo 6° y el aporte efectuado en uso de la facultad señalada en el artículo 11, siempre que este saldo sea positivo. Con todo, en aquellos casos en que el superávit efectivo sea menor al Balance Estructural, el aporte del saldo mencionado anteriormente será meramente facultativo. Además, dictará, respecto del nuevo Fondo a que se refiere el inciso primero, las normas de su administración, inversión, destino de los recursos que acumule y las demás disposiciones necesarias para su funcionamiento, supervisión y control.
+En uso de esta facultad, el Presidente de la República establecerá normas de definición y determinación de los recursos que ingresarán a este Fondo, que deberá incluir, en todo caso, el saldo que resulte de restar al superávit efectivo, el aporte a que se refiere la letra a) del artículo 6° y el aporte efectuado en uso de la facultad señalada en el artículo 11, siempre que este saldo sea positivo. Además, dictará, respecto del nuevo Fondo a que se refiere el inciso primero, las normas de su administración, inversión, destino de los recursos que acumule y las demás disposiciones necesarias para su funcionamiento, supervisión y control.
 
 Los recursos que a la fecha de entrada en vigencia del decreto con fuerza de ley que regule el nuevo Fondo, se encontraren depositados en las cuentas correspondientes a los Fondos referidos en el inciso primero del presente artículo, se traspasarán a dicho Fondo, al que se efectuarán, además, los integros que procedan por aplicación del artículo 2° transitorio de la ley N° 19.030.
-
-Sin perjuicio de lo establecido en el inciso segundo, el Fondo de Estabilización Económica y Social tendrá como principal objeto la estabilidad de las finanzas públicas y la provisión de bienes y servicios públicos a través del tiempo, ante cambios abruptos en el ciclo económico y eventos extraordinarios. Con tal fin, deberá ceñirse a las reglas de acumulación y usos que se encuentran establecidas en los artículos 2° y 4° del decreto con fuerza de ley N° 1, de 2006, del Ministerio de Hacienda, sin perjuicio de los demás aportes y destinos que establezcan otras leyes.
 
 ### 5. De los Aportes de Capital al Banco Central de Chile
 
@@ -301,20 +239,6 @@ Agrégase, en el artículo 2°, del decreto con fuerza de ley N° 164, de 1991, 
 #### Artículo 24
 
 Créase, en la planta de personal de la Dirección de Presupuestos, establecida en el decreto con fuerza de ley N° 2, de 2004, del Ministerio de Hacienda, un cargo de Jefe de Departamento, grado 3 EUS.
-
-#### Artículo 25
-
-Autorízase al Presidente o a la Presidenta de la República para contraer obligaciones, emitir y colocar bonos u otros valores representativos de deuda pública, en moneda nacional o extranjera, con el objeto de que sean parte de intercambios temporales de valores, en el contexto de un programa de formadores de mercado que disponga e implemente el Ministerio de Hacienda, en los términos señalados por el presente artículo. El monto nominal máximo por serie de los bonos u otros valores representativos de deuda pública que se emita para el objeto mencionado precedentemente no podrá ser mayor al 10% del monto nominal colocado de la misma serie, que no esté en condición de intercambio temporal. Los bonos y valores colocados durante el respectivo año presupuestario en virtud de esta autorización no serán incluidos en el cómputo del margen de endeudamiento fijado en la respectiva Ley de Presupuestos del Sector Público.
-
-Conforme a lo anterior, el Fisco, a través del Ministerio de Hacienda, podrá intercambiar temporalmente bonos u otros valores representativos de deuda pública con las personas jurídicas que sean designadas por el Ministerio de Hacienda como formadores de mercado mediante el procedimiento establecido en el decreto señalado en el inciso cuarto. El Fisco tendrá derecho a percibir una retribución por esos intercambios temporales y, para garantizar el cumplimiento de la devolución de el o los títulos intercambiados temporalmente, recibirá por parte del formador de mercado otros bonos o valores representativos de deuda pública emitidos por el Fisco, por un valor de mercado que sea, al menos, equivalente al de los valores entregados en intercambio temporal durante todo el período que éste se extienda. El plazo máximo de duración de cada uno de los intercambios temporales no podrá ser mayor a sesenta días corridos contados desde la realización efectiva del intercambio respectivo.
-
-La autorización indicada en el inciso primero que se otorga al Presidente o a la Presidenta de la República será ejercida mediante decretos supremos expedidos por intermedio del Ministro o Ministra de Hacienda, bajo la fórmula "Por orden del Presidente de la República". Copias de estos decretos serán remitidas en formato electrónico a las Comisiones de Hacienda del Senado y de la Cámara de Diputados dentro de los quince días siguientes al de su total tramitación.
-
-Las características del programa de formadores de mercado, los requisitos, mecanismos de control, criterios de selección de las entidades participantes, la forma de designación de éstos, así como los procedimientos necesarios para implementar los intercambios temporales de valores y toda otra norma necesaria para su funcionamiento, serán establecidos mediante decreto supremo expedido por intermedio del Ministro o Ministra de Hacienda, bajo la fórmula "Por orden del Presidente de la República". Asimismo, dicho decreto deberá indicar las causales de exclusión de las personas jurídicas que puedan postular para ser designadas como formadores de mercado, y podrá disponer restricciones en la conformación de consorcios o grupos de personas jurídicas, tendientes a favorecer la competencia en el proceso de selección. Con todo, para la selección de éstos se deberá considerar su clasificación de riesgo nacional o internacional emitida por entidades clasificadoras de reconocido prestigio, así como su probada experiencia y actividad en el mercado primario y secundario con los instrumentos financieros emitidos por el Fisco.
-
-El Ministerio de Hacienda emitirá informes trimestrales sobre el estado del programa de formadores de mercado y de los intercambios temporales de valores señalados anteriormente, y deberá remitir en formato electrónico copia de ellos a las Comisiones de Hacienda del Senado y de la Cámara de Diputados, dentro de los noventa días siguientes al término del respectivo trimestre.
-
-El mayor gasto fiscal que represente la aplicación de este artículo durante su primer año de vigencia se financiará con cargo a la Partida Presupuestaria del Tesoro Público de la Ley de Presupuestos del Sector Público.
 
 TÍTULO FINAL
 

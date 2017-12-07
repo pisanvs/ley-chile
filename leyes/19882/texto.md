@@ -168,27 +168,31 @@ De la Administración
 
 #### Artículo DÉCIMO
 
-TERCERO.- La administración del fondo estará a cargo de una persona jurídica de derecho privado, constituida en la República de Chile, que tendrá por objeto exclusivo su administración, la inversión de los recursos y los giros que se dispongan de conformidad con la ley.
+TERCERO.- La administración del fondo estará a cargo de una persona jurídica de derecho privado constituida en Chile, que tendrá por objeto exclusivo prestar el servicio de administración, la inversión de los recursos financieros y los giros que se dispongan de conformidad con la ley.
+
+La entidad administradora podrá celebrar contratos de prestación de servicios con entidades externas, de conformidad a lo establecido en el artículo décimo noveno.
 
 La entidad administradora tendrá derecho a una retribución.
 
+El Ministro de Hacienda determinará si la administración del fondo se realizará conforme a los incisos anteriores o por el Servicio de Tesorerías, en virtud de lo que disponga mediante decreto dictado bajo la fórmula "Por Orden del Presidente de la República". En caso que la administración corresponda al Servicio de Tesorerías, la inversión de los recursos financieros se realizará de acuerdo a lo señalado en el artículo 12 de la ley N° 20.128.
+
+Los costos de administración del Fondo, en que incurra el Servicio de Tesorerías, serán descontados de los recursos del mismo y no podrán, en cada año calendario, exceder de un 0,2% del monto promedio de los recursos del fondo en el año anterior. El decreto señalado en el inciso anterior, establecerá las normas para la realización de los descuentos antes indicados, como también aquellas necesarias para la administración que realice el Servicio de Tesorerías.
+
 #### Artículo DÉCIMO
 
-CUARTO.- El servicio de administración del fondo será adjudicado mediante una licitación pública. La licitación y la adjudicación del servicio se regirán por las normas establecidas en la presente ley y las respectivas bases de licitación que el Ministerio de Hacienda, aprobará mediante decreto supremo. Dichas bases se entenderán incorporadas a los respectivos contratos.
+CUARTO.- El servicio de administración del fondo será adjudicado mediante una licitación pública. La licitación y la adjudicación del servicio se regirán por las normas establecidas en la presente ley y las respectivas bases de licitación que el Ministerio de Hacienda disponga mediante resolución. Dichas bases se entenderán incorporadas a los respectivos contratos.
 
 Las bases de licitación contendrán, a lo menos, los requisitos de postulación, las garantías que deberán otorgar los oferentes, los criterios para la adjudicación, los servicios susceptibles de ser externalizados, la forma de determinación de la retribución por la administración del fondo y la duración del contrato de servicios, que en ningún caso podrá ser superior a diez años.
 
 Están facultadas para postular a la licitación mencionada en el inciso primero de este artículo, concurrir a la constitución de la sociedad referida en el artículo anterior y prestar los servicios propios de su giro, las cajas de compensación de asignación familiar, las administradoras de fondos fiscalizados por la Superintendencia de Valores y Seguros, las entidades bancarias fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras, las compañías de seguros, las administradoras de fondos de pensiones y demás personas jurídicas públicas o privadas, nacionales o extranjeras, que cumplan con lo establecido en las bases de licitación.
 
-El Ministerio de Hacienda, efectuará un proceso de precalificación de los postulantes a la licitación con el fin de asegurar su idoneidad técnica, económica y financiera.
-
-La licitación se resolverá evaluando las ofertas aprobadas en la etapa de precalificación, atendiendo, a lo menos, al costo de la administración y a la calificación técnica de los postulantes para la prestación del servicio. La definición de estos factores y su forma de aplicación para adjudicar la prestación del servicio serán establecidas en las respectivas bases de licitación.
+La licitación se resolverá evaluando las ofertas y atendiendo, a lo menos, el costo de la administración y la calificación técnica de los postulantes para la prestación del servicio. La definición de estos factores y su forma de aplicación para adjudicar la prestación del servicio serán establecidas en las respectivas bases de licitación.
 
 Si no hubiere interesados en la licitación o ésta fuere declarada desierta, deberá llamarse, dentro del plazo de treinta días, a una nueva licitación pública. Dicho plazo se contará desde la fecha del decreto que declara desierta la licitación. En este caso, el Ministerio de Hacienda resolverá la administración transitoria del fondo.
 
 #### Artículo DÉCIMO
 
-QUINTO.- La adjudicación del servicio de administración del fondo se efectuará mediante decreto supremo del Ministerio de Hacienda, el que será publicado en el Diario Oficial.
+QUINTO.- La adjudicación del servicio de administración del fondo se efectuará mediante resolución del Ministerio de Hacienda, el que será publicado en el Diario Oficial.
 
 Una vez adjudicada la licitación del servicio de administración del fondo, la sociedad adjudicataria, quedará obligada a constituir, en el plazo de sesenta días contado desde la publicación en el Diario Oficial del decreto supremo mencionado en el inciso anterior, y con los requisitos que las bases de licitación establezcan, una sociedad anónima de nacionalidad chilena o agencia de la extranjera constituida en Chile, con quien se celebrará el contrato y su objeto exclusivo será el mencionado en el artículo décimotercero. El inicio de las operaciones de la sociedad administradora deberá ser autorizado por Superintendencia de Valores y Seguros, previa constatación que aquélla se ajusta a la calificación técnica aprobada. La sociedad administradora será de duración indefinida y subsistirá hasta el cumplimiento del plazo de vigencia del contrato de administración. Disuelta aquélla, se aplicará lo dispuesto en los artículos 109 y siguientes de la ley N°18.046. Con todo, para dar término al proceso de liquidación de la sociedad administradora, se requerirá la aprobación de la cuenta de la liquidación por la referida superintendencia.
 
@@ -208,9 +212,7 @@ Las acciones que se encuentren en la situación prevista en el inciso anterior, 
 
 #### Artículo DÉCIMO
 
-NOVENO.- Durante la vigencia del contrato, la entidad administradora deberá asegurar la continuidad de la prestación del servicio en condiciones de absoluta normalidad y en forma ininterrumpida. El incumplimiento de esta obligación constituirá infracción grave de las obligaciones de la administradora.
-
-La entidad administradora podrá celebrar contratos de prestación de servicios con entidades externas, según lo que al respecto establezcan las bases de licitación y el contrato de administración del fondo.
+NOVENO.- Durante la vigencia del contrato y durante el período que medie entre la fecha de expiración del mismo y la de entrada en vigencia del nuevo contrato o la administración que realice el Servicio de Tesorerías, la entidad administradora deberá asegurar la continuidad de la prestación del servicio ininterrumpidamente y en condiciones de absoluta normalidad hasta el total traspaso a la nueva entidad administradora de las obligaciones definidas en esta ley. El incumplimiento de esta obligación constituirá infracción grave de las obligaciones de la administradora.
 
 ARTÍCULO VIGÉSIMO.- El contrato de administración se extinguirá por las siguientes causales:
 

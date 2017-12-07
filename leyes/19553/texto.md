@@ -12,8 +12,6 @@ La asignación será pagada a los funcionarios en servicio a la fecha de pago, e
 
 La asignación será tributable e imponible para efectos de salud y pensiones. Para determinar las imposiciones e impuestos a que se encuentra afecta, se distribuirá su monto en proporción a los meses que comprenda el período que corresponda y los cuocientes se sumarán a las respectivas remuneraciones mensuales. Con todo, las imposiciones se deducirán de la parte que, sumada a las respectivas remuneraciones mensuales, no exceda del límite máximo de imponibilidad.
 
-> **Nota.** El artículo 57 de la ley 21806, publicada el 05.02.2026, declara interpretado el inciso segundo del presente artículo, en el sentido que respecto de los funcionarios que se hayan desempeñado parcialmente en el año de ejecución de las metas colectivas a que se refiere el artículo 7° de esta ley, el incremento por desempeño colectivo de la asignación de modernización les será pagado de conformidad a lo señalado en este inciso segundo y cada cuota deberá considerar la proporción de todo el tiempo trabajado durante el año de ejecución de las metas.
-
 #### Artículo 2º
 
 La asignación establecida en el artículo anterior, corresponderá a los trabajadores de las instituciones regidas por las normas remuneracionales del decreto ley Nº 249, de 1974, incluyendo a las autoridades ubicadas en los niveles A, B y C; del Servicio de Impuestos Internos; y de la Dirección del Trabajo.
@@ -72,8 +70,6 @@ El componente base a que se refiere la letra a) del artículo 3° será, a conta
 
 > **Nota.** El artículo segundo transitorio de la LEY 19882, publicada el 23.06.2003, establece que el componente base a que se refiere la presente norma, será a contar del 1 de octubre y hasta el 31 de diciembre de 2002 de un 7,67% y durante el año 2003, de un 8%.
 
-> **Nota.** NOTA 1 El artículo 21 de la ley 21806, publicada el 05.02.2026, dispone que a contar del 1 de enero de 2026, el componente base a que se refiere el presente artículo será del 14% para el personal perteneciente a la Junta Nacional de Jardines Infantiles de los estamentos profesionales, técnicos, administrativos y auxiliares o asimilados a ellos.
-
 #### Artículo 6º
 
 El incremento por desempeño institucional se concederá en relación a la ejecución eficiente y eficaz por parte de los servicios, de los programas de mejoramiento de la gestión. Dichos programas incluirán objetivos específicos a cumplir cada año, cuyo grado de cumplimiento será medido mediante indicadores de gestión u otros instrumentos de similar naturaleza.
@@ -82,9 +78,9 @@ El cumplimiento de los objetivos de gestión del año precedente, dará derecho 
 
 Un reglamento, que será aprobado por decreto supremo emanado del Ministerio de Hacienda, el que será suscrito además por los Ministros del Interior y Secretario General de la Presidencia, establecerá los mecanismos de control y evaluación de los objetivos de gestión; la forma de medir y ponderar los distintos elementos o indicadores a considerar; la manera de determinar los distintos porcentajes de este incremento; los procedimientos y el calendario de elaboración, fijación y evaluación de los objetivos de gestión a alcanzar; los mecanismos de participación de los funcionarios y de sus asociaciones, y toda otra norma necesaria para el adecuado otorgamiento de este beneficio. En este reglamento se dispondrá, además, la creación, composición y forma de funcionamiento de un Comité Técnico de las Secretarías de Estado antes mencionadas, que efectuará los análisis y proposiciones necesarios para una adecuada aplicación de las normas que establezca, para estos efectos, el reglamento. Para la dictación de este reglamento, la autoridad tomará conocimiento de la opinión de la entidad nacional que agrupe a las asociaciones de funcionarios que, según su número de afiliados, posea mayor representatividad.
 
-El Jefe Superior de cada Servicio propondrá anualmente al Ministro del que dependa o con el que se relacione, un programa de mejoramiento de la gestión del Servicio, el cual especificará los objetivos de gestión, de eficiencia institucional y de calidad de los servicios proporcionados a los usuarios. Dicho Ministerio, conjuntamente con el Ministerio de Hacienda, mediante decreto supremo, fijarán, usando como antecedente el referido programa de mejoramiento, los objetivos de gestión a alcanzar en cada año.
+El Jefe Superior de cada Servicio propondrá anualmente al Ministro del que dependa o con el que se relacione, un programa de mejoramiento de la gestión del Servicio, el cual especificará los objetivos de gestión, de eficiencia institucional y de calidad de los servicios proporcionados a los usuarios. Dicho Ministerio, conjuntamente con los de Hacienda, del Interior y de la Secretaría General de la Presidencia, mediante decreto supremo, fijarán, usando como antecedente el referido programa de mejoramiento, los objetivos de gestión a alcanzar en cada año.
 
-Un decreto supremo del Ministerio del ramo, suscrito, además, por el Ministro de Hacienda señalará el grado de cumplimiento de los objetivos de gestión que se haya alcanzado anualmente.
+Un decreto supremo del Ministerio del ramo, suscrito, además, por los Ministros de Hacienda, del Interior y de la Secretaría General de la Presidencia, señalará el grado de cumplimiento de los objetivos de gestión que se haya alcanzado anualmente.
 
 El incremento por desempeño institucional, según los porcentajes que corresponda, beneficiará a todo el personal de los servicios que hayan alcanzado los objetivos de gestión, conforme al grado de cumplimiento de ellos.
 

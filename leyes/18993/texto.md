@@ -18,7 +18,7 @@ Corresponderá especialmente al Ministerio Secretaría General de la Presidencia
 
 a) Prestar asesoría al Presidente de la República, al Ministro del Interior y a cada uno de los Ministros, en materias políticas, jurídicas y administrativas, como asimismo, asesorar al Presidente de la República y al Ministro del Interior y demás Ministros, cuando así lo requieran, en lo que se refiera a las relaciones del Gobierno con el Congreso Nacional; como también con los Partidos Políticos y otras organizaciones sociales e instituciones de la vida nacional, en coordinación con el Ministerio Secretaría General de Gobierno:
 
-b) Propender al logro de una efectiva coordinación de la gestión legislativa de Gobierno;
+b) Propender al logro de una efectiva coordinación programática general de la gestión de Gobierno;
 
 c) Actuar, "Por orden del Presidente de la República", mancomunadamente con otros Ministerios, y a través de ellos, con los Servicios y Organismos de la Administración del Estado;
 
@@ -26,7 +26,7 @@ d) Efectuar estudios y análisis de corto y de mediano plazo relevantes para las
 
 e) Informar al Ministro del Interior respecto de la necesidad de introducir innovaciones a la organización y procedimientos de la Administración del Estado.
 
-f) Eliminado.
+f) coordinar y asesorar intersectorialmente a los órganos de la Administración del Estado en el uso estratégico de las tecnologías digitales.
 
 ## Título II
 
@@ -40,7 +40,7 @@ a) Ministro;
 
 b) Subsecretario, y
 
-c) División Jurídico-Legislativa, División de Relaciones Políticas e Institucionales, y División de Administración General.
+c) División Jurídico-Legislativa, División de Coordinación Interministerial, División de Relaciones Políticas e Institucionales, División de Estudios, División de Gobierno Digital y División de Administración General.
 
 Las atribuciones que la presente Ley confiere a las Divisiones referidas en el inciso anterior se ejercerán en todo caso, por delegación y de acuerdo a las instrucciones del Ministro.
 
@@ -66,7 +66,9 @@ Asesorar jurídicamente al Presidente de la República, cuando así lo solicite,
 
 #### Artículo 7°
 
-Eliminado.
+La División de Coordinación Interministerial se encargará:
+
+De actuar como instancia de coordinación y seguimiento programático de la gestión del Ejecutivo, especialmente en la preparación de decisiones en materias que afecten a más de un Ministerio; de servir de apoyo técnico a los Comités Interministeriales que se establezcan y de informar al Ministro del Interior respecto de la necesidad de introducir innovaciones a la organización y procedimientos de la Administración del Estado.
 
 #### Artículo 8°
 
@@ -74,7 +76,11 @@ La División de Relaciones Políticas e Institucionales tendrá como función la
 
 #### Artículo 9°
 
-Eliminado.
+La División de Estudios se encargará de efectuar análisis de la realidad nacional tanto generales como de problemas específicos, a requerimiento del Presidente de la República o del Ministro del Interior, formulando propuestas de acción. Asimismo, se encargará de evacuar informes periódicos respecto de tales materias como también acerca de publicaciones y estudios de relevancia política.
+
+#### Artículo 9
+
+A.- A la División de Gobierno Digital le corresponderá proponer al Ministro la estrategia de Gobierno Digital y coordinar su implementación, velando por mantener un enfoque integrado de Gobierno. Además, a la División le corresponderá coordinar, asesorar y apoyar en el uso estratégico de tecnologías digitales, datos e información pública para mejorar la gestión de los órganos de la Administración del Estado y la entrega de servicios.
 
 #### Artículo 10
 
@@ -102,7 +108,7 @@ ___
 
 A.- Planta de Directivos
 
-_ Jefes de División 2° 5
+_ Jefes de División 2° 6
 
 _ Subdirectores 4° 20
 
@@ -191,8 +197,6 @@ ____
 _______________________________________________________
 
 Cargos de Planta 121
-
-> **Nota.** El artículo 3 de la ley 21658 publicada el 09.02.2024 ordena suprimir un cargo de jefe de división, grado 2 de la planta de directivos del Ministerio de la Secretaría General de la Presidencia de la República por lo que el total de cargos de dicho escalafón corresponde a 40.
 
 ## Título IV
 

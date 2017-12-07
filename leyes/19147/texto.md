@@ -236,11 +236,9 @@ ___
 
 > **Nota.** El Decreto con Fuerza de Ley N° 1, del Ministerio de Agricultura, publicado en el "Diario Oficial" de 3 de septiembre de 1992, encasilló al Personal que indica en las Plantas de la Subsecretaría del Ministerio de Agricultura.
 
-> **Nota.** NOTA 1: El artículo primero, Nº 1 del DFL 3, Hacienda, publicado el 02.10.2007, crea un cargo de Secretario Regional Ministerial, grado 4, en la Planta de personal de Directivos de la Subsecretaría del Ministerio de Agricultura.
+> **Nota.** NOTA 1: El artículo primero, Nº 1 del DFL 3, Hacienda, publicado el 02.10.2007, crea un cargo de Secretario Regional Ministerial, grado 4, en la Planta de personal de Directivos del Ministerio de la Subsecretaría del Ministerio de Agricultura.
 
-> **Nota.** NOTA 2: El artículo primero, Nº 1 del DFL 6, Hacienda, publicado el 02.10.2007, crea un cargo de Secretario Regional Ministerial, grado 5, en la Planta de personal de Directivos de la Subsecretaría del Ministerio de Agricultura.
-
-> **Nota.** NOTA 3 El artículo primero, Nº 1 del DFL 17, Hacienda, publicado el 09.07.2018, crea un cargo de Secretario Regional Ministerial, grado 4°, en la Planta de personal de Directivos de la Subsecretaría del Ministerio de Agricultura.
+> **Nota.** NOTA 2: El artículo primero, Nº 1 del DFL 6, Hacienda, publicado el 02.10.2007, crea un cargo de Secretario Regional Ministerial, grado 5, en la Planta de personal de Directivos del Ministerio de la Subsecretaría del Ministerio de Agricultura.
 
 #### Artículo 7°
 

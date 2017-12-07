@@ -532,13 +532,15 @@ A contar del 1 de diciembre de 2016, el reajuste previsto en el artículo 1 de e
 
 #### Artículo 43
 
-Facúltase, durante los años 2017 y 2018, al Director Nacional del Instituto Nacional de Propiedad Industrial, para eximir del control horario de jornada de trabajo hasta el 10% de la dotación máxima del personal del Servicio, con excepción de aquellos pertenecientes a la planta Directiva o que desempeñen funciones de jefatura, quienes podrán realizar sus labores fuera de las dependencias institucionales, mediante la utilización de medios informáticos dispuestos por el Servicio.
+Facúltase, durante los años 2017, 2018 y 2019, al Director Nacional del Instituto Nacional de Propiedad Industrial, para eximir del control horario de jornada de trabajo hasta el 10% de la dotación máxima del personal del Servicio, con excepción de aquellos pertenecientes a la planta Directiva o que desempeñen funciones de jefatura, quienes podrán realizar sus labores fuera de las dependencias institucionales, mediante la utilización de medios informáticos dispuestos por el Servicio.
 
 Por resolución del Director Nacional se regularán, a lo menos, los criterios de selección del personal que voluntariamente desee sujetarse a la modalidad dispuesta en el inciso anterior; las áreas o funciones de la institución que podrán sujetarse a dicha modalidad; los mecanismos y la periodicidad en que se asignarán las tareas, las que deberán ser acordes en cantidad y calidad a la jornada de trabajo que tuviera el funcionario; los mecanismos y periodicidad para la rendición de cuentas de las labores encomendadas; los protocolos de seguridad, y medidas de control jerárquico que aseguren el correcto desempeño de la función pública.
 
 Los funcionarios sujetos a este artículo deberán suscribir un convenio con el Servicio, mediante el cual se obligan a ejercer sus funciones bajo la modalidad dispuesta en él; a concurrir a la Institución de así requerirlo su jefatura o ejecutar cometidos funcionarios o comisiones de servicio; y, cumplir con los protocolos de seguridad. A dichos funcionarios no les será aplicable el artículo 66 del decreto con fuerza de ley N° 29, de 16 de junio de 2004, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo. El Director Nacional podrá poner término anticipado al convenio por razones de buen servicio.
 
 El Instituto Nacional de Propiedad Industrial informará mediante oficio, durante el mes de marzo del año 2018, a la Comisión Especial Mixta de Presupuestos del Congreso Nacional, al Ministro de Economía, Fomento y Turismo y a la Dirección de Presupuestos, la evaluación de la aplicación de la modalidad dispuesta en este artículo.
+
+Una vez que el Instituto Nacional de Propiedad Industrial envíe el oficio señalado en el inciso anterior, la Dirección de Presupuestos podrá fijar el porcentaje señalado en el inciso primero hasta en un máximo de 35% para los años 2018 y 2019.
 
 #### Artículo 44
 

@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1°
 
-Otórgase, por una sola vez, una bonificación por retiro voluntario al personal asistente de la educación que se desempeñe en establecimientos educacionales administrados directamente por las municipalidades o por corporaciones privadas sin fines de lucro creadas por éstas para administrar la educación municipal; en los establecimientos regidos por el decreto ley N° 3.166, del Ministerio de Educación Pública, del año 1980, y, asimismo, a los trabajadores regidos por el Código del Trabajo que se desempeñen en los Departamentos de Administración de Educación Municipal (DAEM), en las Direcciones de Educación Municipal (DEM) y al personal que cumple funciones relacionadas con la administración del servicio educacional en las referidas corporaciones municipales, quienes, para los efectos de esta ley, se someterán a las mismas disposiciones que los asistentes de la educación, y que, en el período comprendido entre el 1 de julio de 2014 y el 30 de junio de 2022, ambas fechas inclusive, hayan cumplido o cumplan 60 años de edad, en el caso de las mujeres, o 65 años de edad, si son hombres, siempre que comuniquen su decisión de renunciar voluntariamente al total de horas que sirven en los organismos antes señalados, en los plazos y según las normas contenidas en esta ley y en el reglamento.
+Otórgase, por una sola vez, una bonificación por retiro voluntario al personal asistente de la educación que se desempeñe en establecimientos educacionales administrados directamente por las municipalidades o por corporaciones privadas sin fines de lucro creadas por éstas para administrar la educación municipal; en los establecimientos regidos por el decreto ley N° 3.166, del Ministerio de Educación Pública, del año 1980, y, asimismo, a los trabajadores regidos por el Código del Trabajo que se desempeñen en los Departamentos de Administración de Educación Municipal (DAEM), en las Direcciones de Educación Municipal (DEM) y al personal que cumple funciones relacionadas con la administración del servicio educacional en las referidas corporaciones municipales, quienes, para los efectos de esta ley, se someterán a las mismas disposiciones que los asistentes de la educación, y que, en el período comprendido entre el 1 de julio de 2014 y el 31 de diciembre de 2025, ambas fechas inclusive, hayan cumplido o cumplan 60 años de edad, en el caso de las mujeres, o 65 años de edad, si son hombres, siempre que comuniquen su decisión de renunciar voluntariamente al total de horas que sirven en los organismos antes señalados, en los plazos y según las normas contenidas en esta ley y en el reglamento.
 
 La bonificación por retiro voluntario será de cargo del empleador y ascenderá a un mes de remuneración imponible por cada año de servicio prestado en las entidades mencionadas en el inciso anterior, con un máximo de once meses.
 
@@ -28,17 +28,19 @@ Los trabajadores a que se refiere este artículo también podrán acceder a los 
 
 #### Artículo 3º
 
-Podrán acceder a la bonificación por retiro voluntario hasta un total de 9.000 asistentes de la educación. Para los años 2016 y 2017 se consultarán 878 para cada año. Para el año 2018 existirán 1000 cupos. Para los años 2019 al 2022, inclusive, se contemplarán 1.561 cupos para cada anualidad. Los cupos que no hubieren sido utilizados en los años 2016 al 2018, inclusive, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
+Podrán acceder a la bonificación por retiro voluntario hasta un total de 12.000 asistentes de la educación. Para los años 2016 y 2017 se consultarán 878 para cada año. Para el año 2018 existirán 1000 cupos. Para los años 2019 al 2022, inclusive, se contemplarán 1.561 cupos para cada anualidad. Para los años 2023 al 2025, inclusive, se dispondrán 1.000 cupos para cada año. Los cupos que no hubieren sido utilizados en los años 2016 al 2018, inclusive, incrementarán los cupos del año 2019. A partir de este último año, los cupos que no sean utilizados en cada anualidad incrementarán los cupos del año inmediatamente siguiente.
 
 Para que los trabajadores accedan a la bonificación por retiro voluntario, deberán postular en su respectiva institución empleadora, comunicando su decisión de renunciar voluntariamente en los plazos y formas que fije el reglamento. Las instituciones señaladas en el inciso primero del artículo 1° deberán remitir las postulaciones a la Subsecretaría de Educación, la cual mediante resolución fundada determinará los beneficiarios del correspondiente año.
 
 En caso de haber un mayor número de postulantes que cupos disponibles para un año, la Subsecretaría de Educación procederá a adjudicarlos de acuerdo a los siguientes criterios de prioridad:
 
-a) En primer término, aquellos de mayor edad.
+a) En primer término, los trabajadores regidos por el Código del Trabajo que se desempeñen en los Departamentos de Administración de Educación Municipal (DAEM), en las Direcciones de Educación Municipal (DEM) y el personal que cumple funciones relacionadas con la administración del servicio educacional en las corporaciones municipales señaladas en el artículo 1, siempre que se desempeñen en comunas en que el servicio educacional deba ser traspasado a un Servicio Local de Educación Pública en el año siguiente al respectivo proceso de postulación.
 
-b) En igualdad de condiciones de edad, se priorizarán aquellos con mayor número de años de servicio en la institución empleadora.
+b) En segundo lugar, aquellos de mayor edad.
 
-c) De persistir la igualdad, se priorizarán aquellos que hayan tenido un mayor número de días de licencias médicas cursadas durante los trescientos sesenta y cinco días inmediatamente anteriores al inicio del período de postulación. Para estos efectos, la institución empleadora deberá informar a la Subsecretaría de Educación el número de días de licencias médicas.
+c) En igualdad de condiciones de edad, se priorizarán aquellos con mayor número de años de servicio en la institución empleadora.
+
+d) De persistir la igualdad, se priorizarán aquellos que hayan tenido un mayor número de días de licencias médicas cursadas durante los trescientos sesenta y cinco días inmediatamente anteriores al inicio del período de postulación. Para estos efectos, la institución empleadora deberá informar a la Subsecretaría de Educación el número de días de licencias médicas.
 
 Si aplicados todos los criterios de prioridad anteriores no fuere posible asignar un cupo, resolverá el Subsecretario de Educación.
 
@@ -47,6 +49,8 @@ La resolución a la cual se refiere el inciso segundo deberá contener el listad
 Una vez dictada la resolución a que se refiere el inciso segundo, la Subsecretaría de Educación la remitirá mediante los mecanismos que defina el reglamento a cada una de las instituciones señaladas en el inciso primero del artículo 1º, y dichas entidades la difundirán de inmediato a través de medios de amplio acceso. Dentro de los 5 días hábiles siguientes a la fecha de la dictación de la resolución antes indicada, la institución empleadora deberá notificar personalmente, por carta certificada dirigida al domicilio que el trabajador tenga registrado en el servicio o mediante correo electrónico a cada uno de los trabajadores que participaron en el proceso de postulación del resultado del mismo.
 
 Los trabajadores que resulten beneficiarios de cupos en la bonificación por retiro voluntario deberán informar por escrito al Departamento de Recursos Humanos o a quien cumpla la función en su institución empleadora, a más tardar el último día del mes siguiente a la dictación de la resolución a que se refiere el inciso segundo de este artículo, la fecha en que dejarán definitivamente el cargo y el total de horas que sirvan. Con todo, la renuncia voluntaria deberá hacerse efectiva a más tardar en los plazos que establece la presente ley.
+
+Sin perjuicio de lo establecido en el artículo siguiente, los trabajadores que se encuentren en la situación establecida en el literal a) de este artículo y que resulten beneficiarios de un cupo, no podrán desistirse de su renuncia voluntaria.
 
 #### Artículo 4º
 
@@ -138,7 +142,9 @@ Respecto de los trabajadores y trabajadoras que no postulen en alguno de los per
 
 - **b)** y c), según corresponda.
 
-En el caso de las trabajadoras que cumplan entre 60 años y 65 años de edad, entre el 1 de enero y el 30 de junio de 2022, podrán postular en el proceso correspondiente para ese año según lo fije el reglamento y, de ser seleccionadas, deberán hacer efectiva su renuncia voluntaria, a más tardar, hasta el 1 de marzo del año siguiente a aquel en que cumplan 65 años de edad, conservando los cupos obtenidos durante dicho período.
+En el caso de las trabajadoras que cumplan entre 60 años y 65 años de edad, entre el 1 de enero y el 31 de diciembre de 2025, podrán postular en el proceso correspondiente para ese año según lo fije el reglamento y, de ser seleccionadas, deberán hacer efectiva su renuncia voluntaria, a más tardar, hasta el 1 de marzo del año siguiente a aquel en que cumplan 65 años de edad, conservando los cupos obtenidos durante dicho período.
+
+En el caso de los trabajadores y trabajadoras cuya función se relacione directamente con la administración del servicio educacional, cuando éste deba ser traspasado a un Servicio Local de Educación Pública, éstos podrán postular sólo hasta el proceso correspondiente al año anterior a aquel en que deba realizarse el traspaso y recibirán los beneficios que correspondan de acuerdo a los incisos anteriores.
 
 #### Artículo 9º
 

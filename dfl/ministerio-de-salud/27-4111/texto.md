@@ -290,8 +290,6 @@ PROFESIONALES FUNCIONARIOS 5.555
 
 > **Nota.** NOTA 1 El artículo único del Decreto con Fuerza de Ley 19, Salud, publicado el 30.05.2009, incrementa en 22 cargos de Médicos Cirujanos, la planta de cargos afectos a la ley Nº 15.076 del Servicio de Salud Metropolitano Sur-Oriente, fijada en la presente norma.
 
-> **Nota.** NOTA 2 El artículo 1° del Decreto con Fuerza de Ley N° 1, Salud, publicado el 28.08.2019, modifican la presente norma en el sentido de crear un total de 785 cargos, de acuerdo a la distribución que la citada norma indica.
-
 Anótese, tómese razón, regístrese, comuníquese y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Carlos Massad A., Ministro de Salud.- Eduardo Aninat Ureta, Ministro de Hacienda.
 
 Lo que transcribo para su conocimiento.- Saluda a Ud., Dr. Alfredo Avendaño Bertolo, Subsecretario de Salud (S).

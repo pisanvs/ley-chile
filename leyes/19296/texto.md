@@ -126,7 +126,7 @@ No obstante, cesará dicho fuero si no se efectuare el depósito del acta consti
 
 #### Artículo 12
 
-El directorio de la asociación comunicará por escrito, a la jefatura superior de la respectiva repartición, la celebración de la asamblea de constitución y la nómina del directorio, en el día hábil laboral siguiente al de su celebración.
+El directorio de la asociación comunicará por escrito, a la jefatura superior de la respectiva repartición, la celebración de la asamblea de constitución y la nómina del directorio, dentro de los tres días hábiles siguientes al de su celebración.
 
 Igualmente, dicha nómina deberá ser comunicada, en la forma y plazo establecidos en el inciso anterior, cada vez que se elija al directorio de la asociación.
 
@@ -233,6 +233,8 @@ Sin embargo, cada funcionario tendrá derecho a un voto en la elección de presi
 #### Artículo 24
 
 Los directores permanecerán dos años en sus cargos, pudiendo ser reelegidos.
+
+Los estatutos podrán establecer un período de hasta noventa días, previo al vencimiento del plazo de duración del mandato de los directores en ejercicio, en los que se deberá desarrollar la renovación de su directorio. La fecha precisa de la elección deberá designarse en la forma que definan los estatutos, y si éstos nada dicen, se deberá fijar por acuerdo mayoritario de la asamblea.
 
 Los acuerdos del directorio deberán adoptarse por la mayoría absoluta de sus integrantes.
 
@@ -402,7 +404,7 @@ El acuerdo a que se refiere el inciso anterior significará que la institución 
 
 #### Artículo 45
 
-La jefatura superior de la respectiva repartición, cuando mediaren las situaciones descritas en el artículo anterior, a simple requerimiento del presidente o tesorero de la directiva de la asociación respectiva, o cuando el afiliado lo autorice por escrito, estará obligada a instruir a quien corresponda con objeto de deducir de las remuneraciones de los funcionarios afiliados las cuotas mencionadas en los artículos 43 y 44 y depositarlas en la cuenta corriente o de ahorro de la o de las asociaciones beneficiarias, cuando correspondiere.
+La jefatura superior de la respectiva repartición, cuando mediaren las situaciones descritas en el artículo anterior, a simple requerimiento del presidente o tesorero de la directiva de la asociación respectiva, del presidente de la federación o confederación, o cuando el afiliado lo autorice por escrito, estará obligada a instruir a quien corresponda con objeto de deducir de las remuneraciones de los funcionarios afiliados las cuotas mencionadas en los artículos 43 y 44 y depositarlas en la cuenta corriente o de ahorro de la o de las asociaciones, federaciones y confederaciones beneficiarias, cuando correspondiere.
 
 Las cuotas se pagarán dentro del mismo plazo fijado para enterar las imposiciones o aportes previsionales.
 
@@ -490,6 +492,12 @@ Las federaciones y confederaciones se regirán, además, en cuanto les sean apli
 
 El número de directores de las federaciones y confederaciones, y las funciones asignadas a los respectivos cargos, se establecerán en los estatutos.
 
+Las confederaciones nacionales de asociaciones de funcionarios, podrán elegir en las regiones, con excepción de la región metropolitana, consejeros regionales para ejercer la representación de la confederación en la respectiva región. Podrán elegir un consejero regional en las regiones en que tengan entre 200 a 999 afiliados; 3 en las regiones en que tengan 1000 a 1999 afiliados; 5 en las regiones en que tengan 2000 a 3999; y 7 en las regiones en que tengan 4000 o más afiliados. Asimismo, podrán elegir un consejero provincial en cada provincia que no sea asiento de la capital regional respectiva y en que tengan 100 o más afiliados, para la representación de la confederación en la respectiva provincia. Para ser electo consejero regional o provincial, se requerirá estar en posesión del cargo de director de alguna de las asociaciones afiliadas o de consejero regional o provincial. A los consejeros regionales y provinciales se les aplicará lo dispuesto en los incisos primero, segundo y cuarto del artículo 25; los incisos tercero y cuarto de este artículo; y, tendrán derecho a los permisos necesarios para ausentarse de sus labores con objeto de cumplir sus funciones de representación fuera del lugar de trabajo, los que no podrán ser inferiores a 11 horas semanales, adicionales a los que puedan detentar en conformidad a lo dispuesto en el inciso primero del artículo 31. El tiempo de los permisos será acumulable por cada consejero dentro del mes calendario correspondiente y en el caso de los consejeros regionales, podrán ceder a otros consejeros regionales de la misma región, la totalidad o parte del tiempo que les correspondiere, previo aviso escrito a la jefatura superior de la respectiva repartición.
+
+Los directores de confederaciones y federaciones permanecerán en sus cargos el tiempo que señalen sus estatutos, el que no podrá ser inferior a dos ni superior a cuatro años, pudiendo ser reelegidos.
+
+A las federaciones y confederaciones le será aplicable lo dispuesto en el inciso segundo del artículo 24, y en este caso la elección deberá realizarse dentro de los 180 días previos al vencimiento del mandato de los directores en ejercicio.
+
 #### Artículo 56
 
 Para ser elegido director de una federación o confederación, se requerirá estar en posesión del cargo de director de alguna de las organizaciones afiliadas o de la federación o confederación respectiva.
@@ -524,13 +532,7 @@ De la disolución de las asociaciones de funcionarios
 
 #### Artículo 61
 
-La disolución de una asociación podrá ser solicitada por cualquiera de sus socios; por la Dirección del Trabajo, en el caso de las letras c),
-
-- **d)** y
-
-- **e)** de este artículo; y por la repartición o servicio, en el caso de la letra
-
-- **c)** de este artículo, y se producirá:
+La disolución de una asociación podrá ser solicitada por cualquiera de sus socios en virtud de una o más de las causales y por la Dirección del Trabajo, en el caso de las letras c), d) y e) de este artículo:
 
 a) Por acuerdo adoptado por la mayoría absoluta de sus afiliados, en asamblea efectuada con las formalidades establecidas por el artículo 36;
 

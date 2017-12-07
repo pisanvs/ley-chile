@@ -1244,6 +1244,8 @@ El alcalde podrá considerar como salud incompatible con el desempeño del cargo
 
 No se considerarán para el cómputo de los seis meses señalado en el inciso anterior, las licencias otorgadas en los casos a que se refiere el artículo 114 de este Estatuto y el Título II, del Libro II, del Código del Trabajo.
 
+El alcalde, para ejercer la facultad señalada en el inciso primero, deberá requerir previamente a la Comisión de Medicina Preventiva e Invalidez la evaluación del funcionario respecto a la condición de irrecuperabilidad de su salud y que no le permite desempeñar el cargo.
+
 #### Artículo 149
 
 Si se hubiere declarado irrecuperable la salud de un funcionario éste deberá retirarse de la municipalidad dentro del plazo de seis meses, contado desde la fecha en que se le notifique la resolución por la cual se declare su irrecuperabilidad. Si transcurrido este plazo el empleado no se retirare, procederá la declaración de vacancia del cargo.
