@@ -1548,6 +1548,8 @@ El alcalde podrá considerar como salud incompatible con el desempeño del cargo
 
 No se considerarán para el cómputo de los seis meses señalado en el inciso anterior, las licencias otorgadas en los casos a que se refiere el artículo 114 de este Estatuto y el Título II, del Libro II, del Código del Trabajo.
 
+El alcalde, para ejercer la facultad señalada en el inciso primero, deberá requerir previamente a la Comisión de Medicina Preventiva e Invalidez la evaluación del funcionario respecto a la condición de irrecuperabilidad de su salud y que no le permite desempeñar el cargo.
+
 #### Artículo 149
 
 <!-- parte:8639002 -->

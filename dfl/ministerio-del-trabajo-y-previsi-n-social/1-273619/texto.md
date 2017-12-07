@@ -76,7 +76,7 @@ experiencia profesional, como mínimo, o
 
 ii) título profesional de una carrera de, a lo
 
-menos, 9 semestres de duración y 8 años de
+menos, 8 semestres de duración y 6 años de
 
 experiencia profesional, como mínimo.
 
@@ -84,13 +84,13 @@ Jefes de departamento, alternativamente:
 
 i) título profesional de una carrera de, a lo
 
-menos, 10 semestres de duración y 5 años de
+menos, 10 semestres de duración y 4 años de
 
 experiencia profesional, como mínimo, o
 
 ii) título profesional de una carrera de, a lo
 
-menos, 9 semestres de duración y 7 años de
+menos, 8 semestres de duración y 5 años de
 
 experiencia profesional, como mínimo.
 
@@ -100,13 +100,13 @@ Grado 4° , alternativamente:
 
 i) título profesional de una carrera de, a lo
 
-menos, 10 semestres de duración y 5 años de
+menos, 10 semestres de duración y 4 años de
 
 experiencia profesional, como mínimo, o
 
 ii) título profesional de una carrera de, a lo
 
-menos, 9 semestres de duración y 8 años de
+menos, 8 semestres de duración y 5 años de
 
 experiencia profesional, como mínimo.
 
@@ -120,7 +120,7 @@ experiencia profesional, como mínimo, o
 
 ii) título profesional de una carrera de, a lo
 
-menos, 9 semestres de duración y 6 años de
+menos, 8 semestres de duración y 5 años de
 
 experiencia profesional, como mínimo.
 

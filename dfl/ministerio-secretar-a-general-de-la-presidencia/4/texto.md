@@ -120,8 +120,6 @@ TOTAL PLANTA PERSONAL MINISTERIO
 
 DEL MEDIO AMBIENTE 52 cargos
 
-> **Nota.** El artículo primero, Nº 1, del DFL 21, Hacienda, publicado el 09.07.2018, crea un cargo de Secretario Regional Ministerial, grado 5°, en la Planta de personal de Directivos Exclusiva Confianza del Ministerio de Medio Ambiente.
-
 #### Artículo 2°
 
 <!-- parte:8946645 -->
@@ -379,8 +377,6 @@ TOTAL PLANTA AUXILIARES 1
 TOTAL PLANTA PERSONAL
 
 SERVICIO EVALUACIÓN AMBIENTAL 46 cargos
-
-> **Nota.** NOTA 1 El artículo primero, Nº 2, del DFL 21, Hacienda, publicado el 09.07.2018, crea un cargo de Director Regional, grado 6°, en la Planta de personal de Directivos del Servicio de Evaluación Ambiental.
 
 #### Artículo 12
 
