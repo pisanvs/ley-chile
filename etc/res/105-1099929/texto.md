@@ -36,9 +36,11 @@ Resuelvo:
 
 2. Otorgamiento, modificación o terminación de concesiones marítimas y acuícolas.
 
-### 3. Expulsión de extranjeros
+### 3. Expulsi�n de extranjeros
 
 4. Oficios que se abstienen de revisar la legalidad de los actos administrativos por tratarse de materias exentas de torna de razón.
+
+5. Autorización para la entrada de tropas extranjeras en el territorio de la República y para la salida de tropas nacionales fuera del mismo, regulados en los artículos 2º y 5º de la ley Nº 19.067.
 
 3.- Delégase en los Jefes de Comité de la División Jurídica la facultad de firmar "Por orden del Contralor General", los oficios que a continuación se indican:
 
