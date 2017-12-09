@@ -46,6 +46,126 @@ Decreto:
 
 3.- Facúltase a la concesionaria para instalar, operar y explotar la estación de radiodifusión comunitaria ciudadana, señal distintiva XQK-256, cuyos elementos de la esencia de la concesión, características técnicas y ubicación de las instalaciones de la radioemisora serán los que a continuación se indican:
 
+ELEMENTOS DE LA ESENCIA DE LA CONCESIÓN
+
+- Tipo de servicio : Radiodifusión Comunitaria Ciudadana.
+
+- Zona de servicio : Comuna de Talcahuano, VIII Región.
+
+Superficie delimitada por una
+
+intensidad de campo mayor o
+
+igual que 74 dB (µV/m), referida
+
+al punto de emisión de la señal.
+
+- Período de la concesión : 10 años.
+
+- Plazo inicio de obras : 5 días.
+
+- Plazo término de obras : 13 días.
+
+- Plazo inicio de
+
+transmisiones : 59 días.
+
+- Potencia máxima radiada : 25 W.
+
+- Frecuencia : 107,3 MHz.
+
+CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
+
+- Tipo de emisión : 180KF8EHF.
+
+- Desviación máxima : ±75 kHz.
+
+- Diagrama de Radiación : Omnidireccional.
+
+- Ganancia : 2,2 dBd de ganancia máxima.
+
+- Polarización : Vertical.
+
+- Tipo de antenas : Dipolo.
+
+- Nº Antenas : 1.
+
+- Altura del centro de
+
+radiación : 18 m.
+
+- Pérdidas en cables,
+
+conectores y otros : 0,81 dB.
+
+- Diagrama de radiación horizontal de acuerdo a la siguiente tabla:
+
+.
+
+Sin perjuicio de la potencia máxima radiada de 25 W autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en el artículo 4º de la ley Nº 20.433, la concesionaria deberá operar con una potencia máxima en el transmisor de 1 W, atendidas la actual ubicación de su planta transmisora y demás instalaciones y el conjunto de las restantes características técnicas del sistema radiante autorizadas en el presente decreto.
+
+UBICACIÓN DE LAS INSTALACIONES
+
+- Ubicación del Estudio : Aníbal Pinto Nº 332, comuna de
+
+Talcahuano, VIII Región.
+
+- Coordenadas Geográficas : 36º 42' 55" Latitud Sur.
+
+73º 06' 44" Longitud Oeste.
+
+Datum WGS84.
+
+- Ubicación de la Planta
+
+Transmisora y Sistema
+
+radiante : Patricio Lynch s/n, Cerro David
+
+Fuentes, comuna de Talcahuano,
+
+VIII Región.
+
+- Coordenadas Geográficas : 36º 42' 59" Latitud Sur.
+
+73º 06' 45"Longitud Oeste.
+
+Datum WGS84.
+
+CARACTERÍSTICAS TÉCNICAS DEL RADIOENLACE ESTUDIO - PLANTA
+
+TRANSMISORA
+
+- Frecuencia : 309,1 MHz.
+
+- Potencia : 5 W.
+
+- Ganancia : 10 dBd.
+
+- Polarización : Horizontal.
+
+- Tipo emisión : 180KF8EHF.
+
+- Antena : Yagi 6 elementos, abertura lóbulo
+
+principal 55º.
+
+- Coordenadas etapa
+
+transmisora : 36º 42' 55"
+
+73º 06' 44" Longitud Oeste.
+
+Datum: WGS84.
+
+- Coordenadas etapa
+
+receptora : 36º 42' 59" Latitud Sur.
+
+73º 06' 45" Longitud Oeste.
+
+Datum: WGS84.
+
 4.- Los plazos de inicio y término de obras, de inicio de servicio, se contarán a partir de la publicación en el Diario Oficial del presente decreto.
 
 5.- El presente decreto de otorgamiento deberá publicarse en el Diario Oficial dentro del plazo de 30 días hábiles, contados desde que la Subsecretaría le notifique a la concesionaria que el decreto fue totalmente tramitado por el Ministerio de Transportes y Telecomunicaciones. La no publicación de éste dentro del plazo indicado, producirá la extinción de la concesión por el solo ministerio de la ley.
