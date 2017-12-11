@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, en calzada completa de calle JJ Vallejos, desde Av. Los Carrera hasta sector Colegio Catunar de la comuna de Copiapó, desde la publicación de la presente resolución en Diario Oficial hasta el día 30 de noviembre de 2017, para la ejecución de las obras "Conservación de calles y vías urbanas, Copiapó L20".
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, en calzada completa de calle JJ Vallejos, desde Av. Los Carrera hasta sector Colegio Catunar de la comuna de Copiapó, desde la publicación de la presente resolución en Diario Oficial hasta el día 02 de febrero de 2018, para la ejecución de las obras "Conservación de calles y vías urbanas, Copiapó L20".
 
 2.- Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
