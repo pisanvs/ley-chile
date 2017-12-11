@@ -34,7 +34,7 @@ Resolución:
 
 1.1. Reemplázase el resuelvo 1., por el siguiente:
 
-"1. Llámase a postulación regional, para el otorgamiento de subsidios del Título II del Programa de Protección del Patrimonio Familiar, destinados al acondicionamiento térmico de la vivienda, conforme a lo indicado en el artículo 6 bis del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente proyectos, que cuenten con Certificado de Calificación hasta el último día hábil de cada mes, a partir del mes de abril y hasta el mes de noviembre del año 2017.".
+"1. Llámase a postulación regional, para el otorgamiento de subsidios del Título II del Programa de Protección del Patrimonio Familiar, destinados al acondicionamiento térmico de la vivienda, conforme a lo indicado en el artículo 6 bis del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente proyectos, que cuenten con Certificado de Calificación, a partir del mes de abril y hasta el día 13 de diciembre del año 2017.".
 
 1.2. Reemplázase el resuelvo 3., por el siguiente:
 
