@@ -84,9 +84,17 @@ Resolución:
 
 ### Párrafo 5º — Recursos disponibles
 
-24. Los recursos involucrados para la selección ascienden a un total de 100.000 UF y su distribución regional será la siguiente:
+24. Los recursos involucrados para la selección ascienden a un total de 197.156,59 UF y su distribución territorial será la siguiente:
 
-.
+REGIÓN MONTO UF
+
+ARAUCANIA 132.218,73
+
+LOS RÍOS 43.725,31
+
+LOS LAGOS 21.212,55
+
+TOTAL 197.156,59
 
 25. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, fiscalización técnica de obras y los subsidios complementarios, si corresponden.
 
