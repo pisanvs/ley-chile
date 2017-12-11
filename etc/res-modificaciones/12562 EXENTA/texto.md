@@ -60,4 +60,4 @@ Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretari
 
 ..
 
-> **Nota.** NOTA 1 La letra c) del N° 1 de la Resolución 14024 Exenta, publicada el 11.12.2017, reemplaza en la tabla inserta en el presente Anexo, la fila correspondiente al proyecto Villa San Sebastián, de la Región del Biobío, en los términos señalados en el cuadro de la citada letra de la resolución modificatoria.
+> **Nota.** NOTA 1 L a letra c) del N° 1 de la Resolución 14024 Exenta, publicada el 11.12.2017, reemplaza en la tabla inserta en el presente Anexo, la fila correspondiente al proyecto Villa San Sebastián, de la Región del Biobío, en los términos señalados en el cuadro de la citada letra de la resolución modificatoria.
