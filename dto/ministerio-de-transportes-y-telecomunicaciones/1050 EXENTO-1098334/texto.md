@@ -120,9 +120,15 @@ Transmisora y Sistema Radiante : comuna de Malloa, VI
 
 Región.
 
-- Coordenadas Geográficas : 34º 26' 58" Latitud Sur.
+- Coordenadas Geográficas : 34º 26' 47" Latitud Sur.
 
-70º 56' 49" Longitud
+70º 56' 47" Longitud
+
+Oeste.
+
+34º 26' 49" Latitud Sur.
+
+70º 56' 43" Longitud
 
 Oeste.
 
