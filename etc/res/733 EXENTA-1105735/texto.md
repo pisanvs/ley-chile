@@ -40,13 +40,9 @@ Resolución:
 
 ### Párrafo 4° — Recursos disponibles
 
-10. Los recursos involucrados para la selección ascienden a un total de 309.150 U.F. y para efectos de la prelación por tipo de expediente se considerará la siguiente distribución por modalidad, la cual podrá ser modificada en función de las postulaciones efectivas que se produzcan:
+10.- Los recursos involucrados para la selección ascienden a un total de 285.025,17 U.F. y su distribución territorial será la siguiente:
 
-Construcción de Vivienda Mejoramiento y Ampliación de
-
-Nueva Viviendas Existentes
-
-212.625 UF 96.525 UF
+.
 
 11. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluido su respectivo servicio de asistencia técnica, fiscalización técnica de obras y subsidios complementarios, si corresponden.
 
