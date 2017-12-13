@@ -56,7 +56,7 @@ Resolución:
 
 ### Párrafo 5º — Recursos disponibles.
 
-12. Los recursos involucrados para la selección ascienden a un total de 176.148,76 UF y para efectos de la prelación por tipo de expediente se considerará la siguiente distribución por territorio, modalidad y/o tipología, la cual podrá ser modificada en función de las postulaciones efectivas que se produzcan:
+12. Los recursos involucrados para la selección ascienden a un total de 68.073,06 UF, y su distribución por territorio será la siguiente:
 
 .
 
