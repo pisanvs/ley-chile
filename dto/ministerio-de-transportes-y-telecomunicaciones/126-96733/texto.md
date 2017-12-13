@@ -328,6 +328,12 @@ e) las características técnicas del sistema radiante; y f) el radioenlace estu
 
 La concesión podrá contemplar la instalación de uno o más dispositivos con características radiantes que permitan atender áreas no cubiertas por la planta transmisora dentro de la zona de servicio autorizada.
 
+En el caso del servicio de radiodifusión sonora en frecuencia modulada, la concesión también podrá contemplar la instalación de un transmisor y sistema radiante adicionales, en el lugar donde se ubican los estudios, siempre que éstos se encuentren al interior de la zona de servicio, los que se podrán operar sólo cuando no pueda utilizarse el transmisor principal en casos de emergencia o por causas ajenas a la voluntad de la concesionaria. Lo anterior, por un plazo máximo de seis meses, el que podrá ser prorrogado en la medida que se mantenga la situación de emergencia o causa ajena a la voluntad de la concesionaria. La potencia máxima que se podrá autorizar no deberá exceder la potencia del transmisor principal. Además las respectivas emisiones deberán estar dentro de la zona de servicio de la concesión y se deberá cumplir con los límites de radiaciones establecidos en la resolución exenta Nº 3.103 de 2012, de la Subsecretaría de Telecomunicaciones, y sus modificaciones.
+
+Para efectos de la autorización del referido transmisor y sistema radiante adicionales, la interesada deberá incluirlo en el proyecto técnico que acompañe a su solicitud de otorgamiento de concesión o presentar una solicitud de modificación de concesión, la que será autorizada de conformidad a las disposiciones de la Ley y del presente Reglamento.
+
+La concesionaria cuando emplee el sistema radiante adicional, que se encuentre autorizado, deberá informarlo por escrito a la Subsecretaría, dentro de los primeros 3 días de ocurrido el evento, señalando el tiempo máximo estimado de operación con dicho sistema.
+
 ## Título V
 
 De las modificaciones de concesión
