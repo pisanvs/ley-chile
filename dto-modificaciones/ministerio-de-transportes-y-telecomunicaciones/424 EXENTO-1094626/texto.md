@@ -36,7 +36,55 @@ Decreto:
 
 3. Autorízase a la concesionaria para cambiar de ubicación el estudio, la planta transmisora, cambiar características técnicas del sistema radiante e incorporar radioenlace estudio - planta, en los términos que a continuación se señalan:
 
+Estudio.
+
+- Dirección: Guangualí Sur Nº 232, Rengo, VI Región.
+
+- Coordenadas Geográficas: 34º 24' 23" Latitud Sur; 70º 51' 22" Longitud Oeste. Datum WGS 84.
+
+Planta Transmisora.
+
+- Dirección: Carlos Condell Nº 524 B, Rengo, VI Región.
+
+- Coordenadas Geográficas: 34°24'47,260" Latitud Sur; 70°51'46,686" Longitud Oeste, datum WGS 84.
+
+Sistema Radiante:
+
+- Polarización: Vertical.
+
+- Tipo de antena: Dipolo Vertical.
+
+- Ganancia antena: 8,52 dBd.
+
+- Nº antenas: 4.
+
+- Altura centro de radiación: 31,5 metros.
+
+- Pérdidas (cables, conectores): 1,21 dB.
+
+- Pérdidas (divisor potencia): 0,05 dB.
+
+- Acimut: 0º.
+
+- Diagrama de radiación horizontal, de acuerdo a la siguiente tabla:
+
 .
+
+Radioenlace Estudio-Planta:
+
+- Frecuencia: 321,4 MHz.
+
+- Potencia: 10 Watts.
+
+- Tipo de emisión: 180KF8EHF.
+
+- Tipo de antena: Yagi 5 elementos, abertura lóbulo principal de 45º, con 10 dBd. de ganancia
+
+máxima y polarización vertical.
+
+- Coordenadas Transmisor: 34º 24' 23" Latitud Sur; 70º 51' 22" Longitud Oeste. Datum WGS 84.
+
+- Coordenadas Receptor: 34º 24' 30" Latitud Sur; 70º 51' 45" Longitud Oeste. Datum PSAD 56.
 
 4. El presente decreto de modificación deberá publicarse en el Diario Oficial, dentro del plazo de 30 días hábiles, contados desde su notificación a la concesionaria. La no publicación de éste dentro del plazo indicado, producirá la extinción de dicho acto administrativo por el solo ministerio de la ley sin necesidad de declaración alguna, de conformidad a lo previsto en el inciso final del artículo 23º de la ley.
 
@@ -46,7 +94,7 @@ Decreto:
 
 - Término de obras : 60 días.
 
-- Inicio de servicio: 90 días.
+- Inicio de servicio : 90 días.
 
 Todos estos plazos se contarán a partir de la fecha de publicación en el Diario Oficial del presente decreto.
 
