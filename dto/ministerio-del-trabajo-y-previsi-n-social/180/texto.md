@@ -14,7 +14,7 @@ Del Servicio de Bienestar
 
 El Servicio de Bienestar del Servicio de Salud Metropolitano Central, en adelante "el Servicio", tiene por objeto contribuir al bienestar del afiliado y sus causantes de asignación familiar, cooperando a su adaptación al medio y a la elevación de sus condiciones de vida.
 
-El referido Servicio se regirá por el artículo 134 de la Ley Nº 11.764, la Ley Nº 17.538, el artículo 24 de la Ley Nº 16.395, por el Decreto Supremo Nº 28, de 1994, del Ministerio del Trabajo y Previsión Social, en adelante "el Reglamento General", y por el presente Reglamento.
+Inciso Eliminado.
 
 T I T U L O II
 
@@ -60,7 +60,7 @@ Los representantes de los afiliados, titulares y suplentes, durarán dos años e
 
 El Consejo Administrativo sesionará ordinariamente cada dos meses, en el día y hora que fijen sus miembros en la primera sesión del año y se citará por escrito por el Jefe del Servicio.
 
-Las sesiones extraordinarias se efectuarán cuando proceda en conformidad al artículo 23 del Reglamento General y se les citará por escrito, vía fax o teléfono, cuando sea necesario, por el jefe del Servicio de Bienestar con una anticipación de 24 horas.
+Las sesiones extraordinarias se efectuarán cuando proceda en conformidad al artículo 23 del Reglamento General y se les citará por escrito vía correo o teléfono, cuando sea necesario, por el Jefe del Servicio de Bienestar con una anticipación de 24 horas.
 
 T I T U L O III
 
@@ -82,13 +82,23 @@ e) con los intereses de los préstamos que otorgue el Servicio a sus afiliados;
 
 f) con las bonificaciones, comisiones o porcentajes provenientes de los convenios que el Servicio suscriba con terceros para el otorgamiento de beneficios a sus afiliados;
 
-g) con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias en su favor; y h) con los demás bienes o recursos que el Servicio obtenga a cualquier título.
+g) con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias en su favor; y
+
+h) con los demás bienes o recursos que el Servicio obtenga a cualquier título.
+
+i) Con aquellos dineros que se generen de los fondos provenientes de las operaciones del artículo 7.
+
+j) Con los excedentes que se generen de la administración de los recintos de veraneo u otros recintos o establecimientos, ejemplo, casinos, kioscos, piscinas, cabañas entre otros, determinando el Consejo administrativo anualmente el porcentaje de excedentes que pasa al presupuesto del Servicio de Bienestar.
+
+Parte de los fondos de Bienestar podrán ser invertidos en instrumentos que otorguen rentabilidad, en conformidad con lo dispuesto en el Artículo 3 del decreto ley Nº 1.056 de 1975 y sus modificaciones posteriores, previa autorización del Ministerio de Hacienda y solo respecto de los recursos provenientes de ventas de activos o excedentes estacionales de Caja, conforme lo dispone el artículo 2º del decreto ley Nº 1.263 de 1975. Lo anterior, con la finalidad de obtener mayores recursos que permitan aumentar los fondos que se invertirán en beneficio de los afiliados y sus cargas familiares reconocidas.
+
+El monto de los fondos y la forma en que serán depositados será determinado por el Consejo Administrativo anualmente
 
 #### Artículo 7º
 
-Los fondos del Servicio serán depositados en una cuenta corriente bancaria, subsidiaria de la Cuenta Unica Fiscal, y contra ella sólo podrán girar conjuntamente el Jefe de Bienestar y el funcionario que designe el Jefe Superior de la Institución.
+Los fondos del Servicio serán depositados en una cuenta corriente bancaria, subsidiaria de la cuenta única fiscal.
 
-En caso de ausencia o impedimento de estos giradores, serán reemplazados para estos efectos, el primero por el Director del Servicio de Salud o quien éste designe, y el segundo por el Jefe del Departamento de Recursos Humanos del Servicio de Salud y, a falta de éste, por el funcionario que el Consejo designe.
+Los giradores de la cuenta corriente serán el Jefe del Servicio de Bienestar y un funcionario designado por Director del Servicio, no pudiendo dicha designación recaer en el Contador de Bienestar.
 
 T I T U L O IV
 
@@ -138,9 +148,7 @@ a) Matrimonio: cuando el afiliado contraiga matrimonio.
 
 Si ambos contrayentes fueren afiliados, la ayuda se pagará a cada uno de ellos en forma independiente.
 
-b) Nacimiento: cuando el afiliado compruebe, con el instrumento público correspondiente, el nacimiento de un hijo suyo, legítimo o natural.
-
-Si ambos padres fuesen afiliados, el beneficio lo percibirán ambos. En caso de nacimientos múltiples, se duplicará el monto de la ayuda.
+b) Nacimiento: Se concederá una ayuda cuando el afiliado compruebe con instrumento público el nacimiento de un hijo o hija, o la adopción de un niño o niña. Si ambos padres estuviesen afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
 
 c) Fallecimiento: se concederá una ayuda por el fallecimiento del afiliado y de sus cargas familiares reconocidas, incluido el mortinato a partir del 5º mes de gestación, y el del recién nacido que no hubiere sido aún reconocido como carga familiar.
 
@@ -150,21 +158,25 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente o
 
 2º) al cónyuge sobreviviente;
 
-3º) a los hijos legítimos;
+3º) a los hijos;
 
-4º) a los hijos naturales;
+4º) a los padres;
 
-5º) a los padres legítimos;
-
-6º) a la persona que acredite haber solventado los gastos del funeral.
+5º) a la persona que acredite haber solventado los gastos del funeral.
 
 También se otorgará, una vez ocurrido el fallecimiento del afiliado o de sus cargas familiares reconocidas, una ayuda para adquisición de nicho-bóveda, en caso que careciere de él.
 
-d) Educación: el Servicio de Bienestar concederá una asignación de escolaridad, una vez al año, al afiliado y cargas familiares reconocidas que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste.
+d) Educación: Se concederá una asignación de educación, siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y causantes de asignación familiar que se encuentren cursando estudios regulares en los niveles de enseñanza pre-básica, básica, media, técnica, especializada y superior, en algún establecimiento del Estado o reconocido por éste. (Ministerio de Educación).
+
+Se entenderá por niveles pre-básicos: primer nivel de transición (pre-kínder) y segundo nivel de transición (kínder)
 
 e) Becas de Estudio: el Servicio de Bienestar podrá otorgar, en casos de extrema necesidad económica, calificada como tal por el Consejo, becas de estudio destinadas a complementar los gastos derivados de la educación superior de un afiliado o de sus hijos cargas familiares reconocidas.
 
 f) Catástrofe: se concederá una ayuda a cada afiliado que sufra daños a consecuencia de incendios, terremotos, inundaciones u otras catástrofes que afecten los enseres y/o vivienda del afiliado. Se considerará como requisito la comprobación de los hechos por parte del Asistente Social del Personal del establecimiento al que pertenece el afiliado. El monto de las ayudas a que se refiere este artículo, será fijado por el Consejo, no pudiendo exceder de dos ingresos mínimos mensuales por ayuda, por cada año calendario.
+
+g) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
+
+h) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuvieren pendientes con el Servicio por concepto de préstamos que éste le hubiera otorgado.
 
 #### Artículo 10º
 
@@ -200,19 +212,25 @@ La solicitud de cualquier tipo de préstamo será suscrita además del afiliado,
 
 #### Artículo 13º
 
-Las sumas que el afiliado deba cancelar mensualmente al Servicio de Bienestar no podrán, en ningún caso, exceder del 40% de su renta mensual imponible para pensiones o de su pensión, según corresponda.
+Las sumas que el afiliado deba cancelar mensualmente al Servicio de Bienestar, no podrán en ningún caso, exceder el 15% de su renta mensual imponible para pensiones o de su pensión, según corresponda.
+
+Las cuotas que el afiliado adeude al Servicio de Bienestar por préstamos o por concepto de créditos de casas comerciales no podrán exceder del 15% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
 
 #### Artículo 14º
 
-El Servicio propenderá al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y sus causantes de asignación familiar, utilizando al máximo los recursos y facilidades que otras entidades, personas o la comunidad puedan proporcionarle.
+El Servicio de Bienestar propenderá al progreso social, cultural, recreativo, educacional y deportivo de sus beneficiarios. Con este objeto, siempre que sus recursos lo permitan, podrá:
 
-Con este objeto, podrá conceder ayudas a las salas cunas, jardines infantiles, colonias de vacaciones, hogares sociales, casinos del personal, clubes deportivos u otros, y, en general, a otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados y sus causantes de asignación familiar.
+a) Celebrar y financiar la Navidad para sus afiliados y cargas familiares; como asimismo celebrar y financiar el Día aniversario de los establecimientos del Servicio de Salud con actividades recreativas y deportivas en las cuales participen sus afiliados, acorde a disponibilidad presupuestaria.
 
-Asimismo, podrá celebrar y financiar la festividad de Navidad para sus afiliados y sus causantes de asignación familiar, de acuerdo con sus recursos financieros.
+b) Financiar o ayudar a financiar eventos culturales, deportivos, recreativos, festividades navideñas, Fiestas Patrias, actividades vacacionales, encuentros folclóricos, festivales musicales y programas de información a los afiliados.
 
-Para los efectos señalados en el presente artículo, el Consejo Administrativo fijará anualmente el porcentaje del presupuesto que podrá destinarse a dichos fines.
+c) Conceder ayudas a los Servicios de Cuidados Infantiles (salas cuna, jardines infantiles, clubes escolares), colonias de veraneo y de vacaciones, hogares sociales, casinos del personal, o Unidades de Salud del personal, clubes deportivos y, en general, otras actividades que propendan a los fines señalados anteriormente y que beneficien directamente a sus afiliados.
 
-El Servicio podrá, además, administrar colonias, refugios, casas de huéspedes u otras instalaciones que le sean asignadas para el uso de sus beneficiarios, quedando expresamente excluidas de dicha facultad la de contratar personal, la que corresponderá a la respectiva institución. Los excedentes que se generen con motivo u ocasión de la administración de estos recintos, ingresarán al presupuesto del Servicio.
+d) Asesorar, otorgar ayuda y firmar, a través de la autoridad superior de la institución, convenios de cooperación con organizaciones que sean de carácter social, deportivo, recreativo, educacional, cultural y/o jurídico, que beneficien directamente a sus afiliados y en general utilizar el máximo de los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
+
+e) Administrar colonias de veraneo, jardines infantiles, refugios, casa de huéspedes, sedes sociales, complejos deportivos, economatos y otros inmuebles para el uso de sus beneficiarios, quedando expresamente excluidas de dicha facultad la de contratar personal, la que corresponderá a la institución. Asimismo, podrá celebrar convenios con otros Servicios de Bienestar con el objeto de que sus afiliados puedan hacer uso de los inmuebles que éstos administren, y
+
+f) Otorgar a sus afiliados/as acorde a disponibilidad presupuestaria, regalos en: cumpleaños, fiestas patrias, día del padre, día de la madre, día del niño, día de la secretaria, día de la mujer, día de las profesiones por su labor en el Servicio, en reconocimiento al afiliado jubilado que apruebe el Consejo Administrativo.
 
 T I T U L O V
 
@@ -225,6 +243,8 @@ Los afiliados podrán impetrar los beneficios médicos que otorgue el Servicio d
 #### Artículo 16º
 
 Corresponderá al Consejo determinar los procedimientos y documentos que los afiliados deberán presentar para la obtención de cualquier beneficio establecido en el presente Reglamento.
+
+El Consejo Administrativo podrá invitar a sus sesiones a personas que, por la naturaleza de sus funciones, expertiz, pudiesen hacer un aporte a la gestión del Consejo en determinadas materias.
 
 #### Artículo 17º
 
