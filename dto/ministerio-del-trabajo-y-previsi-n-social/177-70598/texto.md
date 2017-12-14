@@ -32,7 +32,9 @@ c) Tres representantes de los afiliados, uno de los cuales será designado por l
 
 Asimismo el Servicio de Bienestar podrá otorgar las siguientes ayudas como beneficios adicionales siempre que las disponibilidades presupuestarias lo permitan:
 
-a) Matrimonio: Se concederá cuando el afiliado contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos;
+a) Matrimonio o celebración de Acuerdo de Unión Civil: Se concederá cuando el afiliado contraiga matrimonio o celebre un Acuerdo de Unión Civil.
+
+Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos;
 
 b) Nacimiento: Se concederá cuando el afiliado compruebe con instrumento público el nacimiento de un hijo o la adopción de un menor. Si los padres fuesen afiliados, el beneficio lo recibirán ambos. En caso de nacimiento múltiple se otorgarán tantas ayudas como hijos nazcan;
 
@@ -44,11 +46,13 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el orden de pr
 
 2.- Al cónyuge sobreviviente.
 
-3.- A los hijos.
+3.- Al que se encuentre ligado por un Acuerdo de Unión Civil.
 
-4.- A los padres.
+4.- A los hijos.
 
-5.- A la persona que acredite haber efectuado los gastos de funeral.
+5.- A los padres.
+
+6.- A la persona que acredite haber efectuado los gastos de funeral.
 
 También en caso de fallecimiento y si el funcionario afiliado y sus beneficiarios carecieren de nicho bóveda se concederá una ayuda para este efecto.
 
@@ -58,13 +62,13 @@ e) Becas: Asimismo, el Servicio de Bienestar podrá otorgar becas a los afiliado
 
 f) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes naturales que afecten su casa habitación y/o bienes muebles que lo guarnecen, previa comprobación de los hechos por parte del Servicio de Bienestar a través de los siguientes antecedentes:
 
-· Informe de Asistente Social de la Institución.
+.Informe de Asistente Social de la Institución.
 
-· Informe de Bomberos o Carabineros.
+.Informe de Bomberos o Carabineros.
 
-· Otros antecedentes probatorios si existieren.
+.Otros antecedentes probatorios si existieren.
 
-g).- Ayuda Médica complementaria: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificada por una Comisión designada por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria a las prestaciones contempladas en el artículo Nº 11.
+g) Ayuda Médica complementaria: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificada por una Comisión designada por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria a las prestaciones contempladas en el artículo Nº 11.
 
 #### Artículo 13 bis
 
