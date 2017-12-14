@@ -1,8 +1,8 @@
-DECLARA MONUMENTO NACIONAL EN LA CATEGORÍA DE ZONA TÍPICA O PINTORESCA A LA POBLACIÓN ERRÁZURIZ DE COYA, COMUNA DE MACHALÍ, PROVINCIA DE CACHAPOAL, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
+DECLARA MONUMENTO NACIONAL EN LA CATEGORÍA DE ZONA TÍPICA O PINTORESCA AL CAMPAMENTO DE COYA, COMUNA DE MACHALÍ, PROVINCIA DE CACHAPOAL, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
 
 Núm. 253.- Santiago, 27 de junio de 2012.- Considerando:
 
-Que el Consejo de Monumentos Nacionales recibió la solicitud de parte del anterior y del actual alcalde de la comuna de Machalí, señores Juan Humberto Abud Figueroa y José Miguel Urrutia Celis, respectivamente, de declarar como Zona Típica o Pintoresca a la Población Errázuriz de Coya, ubicada en la comuna de Machalí, provincia de Cachapoal, Región del Libertador General Bernardo O'Higgins, debido a los valores contenidos en ella y que a continuación se detallan:
+Que el Consejo de Monumentos Nacionales recibió la solicitud de parte del anterior y del actual alcalde de la comuna de Machalí, señores Juan Humberto Abud Figueroa y José Miguel Urrutia Celis, respectivamente, de declarar como Zona Típica o Pintoresca al Campamento de Coya, ubicada en la comuna de Machalí, provincia de Cachapoal, Región del Libertador General Bernardo O'Higgins, debido a los valores contenidos en ella y que a continuación se detallan:
 
 ### I. Valor Histórico:
 
@@ -44,9 +44,13 @@ Decreto:
 
 #### Artículo único
 
-Declárase Monumento Nacional en la categoría de Zona Típica o Pintoresca a la Población Errázuriz de Coya, ubicada en la comuna de Machalí, provincia de Cachapoal, Región del Libertador General Bernardo O'Higgins, cuyos límites se señalan a continuación, sobre la base del polígono propuesto:
+Declárase Monumento Nacional en la categoría de Zona Típica o Pintoresca al "Campamento de Coya", que comprende la Población Errázuriz de Coya y la Población Central, ubicada en la comuna de Machalí, Provincia de Cachapoal, Región del Libertador General Bernardo O'Higgins.
 
-El área protegida comprende una superficie de 9.52 hectáreas, según se delimita por el polígono 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-1 del plano adjunto, que forma parte del presente decreto.
+El área protegida tiene una superficie de 253.944,66 mts.2, como se grafica en el polígono con los números 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 -19 - 20 - 21 - 22 - 1, del plano adjunto Nº 50 - 2017, de 04/10/2017, visado por el Consejo de Monumentos Nacionales y que forma parte del presente decreto y cuyos límites son los siguientes:
+
+.
+
+..
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Harald Beyer Burgos, Ministro de Educación.
 
