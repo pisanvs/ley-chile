@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1631, de 21 de noviembre de 2017, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 34, 35 y 36, para la obra: MEJORAMIENTO CBI RUTA V-155, FRUTILLAR BAJO (F.PAV)-QUILANTO, FRUTILLAR, que figura a nombre de KOENEKAMP WALLEM INGE CHRISTIE, rol de avalúo 242-81, Comuna de FRUTILLAR, X REGION, superficies 934, 1.082 y 364 m2 respectivamente. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERON PONTIGGIA, SONIA CATALINA GALLEGOS BLANCH y CHRISTIAN EMIL RAUCH YAÑEZ, mediante informe de tasación de 21 de julio de 2016, fijó el monto de la indemnización provisional en la cantidad de $5.604.000 para el lote Nº 34, $6.492.000 para el lote Nº 35 y $2.205.840 para el lote Nº 36. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
