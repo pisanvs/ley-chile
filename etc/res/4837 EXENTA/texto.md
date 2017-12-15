@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 4.837 de fecha 06/12/2017, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación del Lote N°65-0, propiedad consistente en parte de "Inmueble ubicado en calle Hochstetter número 24 de la comuna de Temuco, Provincia de Cautín, Región de la Araucanía, que tiene una superficie aproximada de 267,52 metros cuadrados", Rol de avalúo 1348-997, comuna de Temuco. La superficie a expropiar aproximada es de 170,05 metros cuadrados, de aparente dominio de Rumaldo Antonio Soto Escobar. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto, y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $62.874.140, según Informe N°65-0 de fecha 17/11/2017, pagadero contado.
+
+Director (S) Serviu Región de la Araucanía.
