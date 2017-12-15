@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.931 del 1 de Diciembre de 2017, Serviu Región del Libertador General Bernardo O'Higgins, ordenó la Modifica parte de la resolución exenta Nº 3.893 de fecha 7 de Diciembre de 2015, del inmueble expropiado de aparente dominio de Ada Basaure Valenzuela, ubicado en Avenida República de Chile Nº 2139, Dpto. Nº 404, Etapa 9 del Conjunto Habitacional Villa Cordillera, comuna de Rancagua. Quedando de ésta manera sin efecto parte de la correspondiente resolución en su visto y considerando letra f) Nº 1, en su parte resolutiva numeral 1º Nº 1 y en su tabla del numeral 2 a doña Ada Basaure Valenzuela aquí dispuesto. En lo no modificado rige su totalidad la resolución Nº 3.893 de fecha de 7 de Diciembre 2015.-
+
+Director Serviu Región Libertador Bernardo O'Higgins.
