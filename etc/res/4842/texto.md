@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 4.842 de fecha 06/12/2017, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, y en cumplimiento de sentencia firme y ejecutoriada de fecha 15 de enero del año 2016 en causa rol C-7483-2014 del Segundo Juzgado Civil de Temuco, Serviu Región de la Araucanía ordenó la expropiación del Lote N°11-0 A, Inmueble rural ubicado en Licanco de esta comuna y departamento, de la comuna de Padre las Casas, Rol de avalúo 3209-392. La superficie a expropiar aproximada es de 1625,03 metros cuadrados, de aparente dominio de Inmobiliaria Cristian Andrés Andersen Pino E.I.R.L. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto, y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $199.336.735, según Informe N° 11-0 A de fecha 17/11/2017, pagadero contado.
+
+Director (S) Serviu Región de la Araucanía.
