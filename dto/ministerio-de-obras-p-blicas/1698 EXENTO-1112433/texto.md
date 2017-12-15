@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1698, de 23 de noviembre de 2017, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.24 y 34, para la obra: MEJORAMIENTO RUTA W-175 SECTOR: LINAO - QUEMCHI, que figura a nombre de BARRIA BARRIA LUIS ORESTE y ALTANER GARCIA HANS ALEXANDER, roles de avalúo 165-34 y 168-57, Comuna de QUEMCHI, X REGION, superficies 2.364 y 311 m2 respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, OMAR IGNACIO GÓMEZ FIGUEROA y INGRID BEATRIZ CONTRERAS NEIRA, mediante informe de tasación de 29 de agosto de 2016, fijó el monto de la indemnización provisional en la cantidad de $7.424.550 para el lote Nº 24 y $1.021.250 para el lote Nº 34. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
