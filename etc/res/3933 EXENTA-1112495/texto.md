@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.933, de 1 de diciembre de 2017, Serviu Región del Libertador General Bernardo O'Higgins ordenó la modificación de parte de la resolución exenta Nº 3.980, de fecha 11 de diciembre de 2015, del inmueble expropiado de aparente dominio de Luis Pozo Vergara, ubicado en Avenida República de Chile Nº 2119, Dpto. Nº 303, Etapa 10 del Conjunto Habitacional Villa Cordillera, comuna de Rancagua. Quedando de esta manera sin efecto parte de la correspondiente resolución en su visto y considerando letra f) Nº 15, en su parte resolutiva Numeral 1º Nº 15 y en su tabla del Numeral 2 a don Luis Pozo Vergara aquí dispuesto. En lo no modificado rige su totalidad la Resolución Nº 3.980, de fecha 11 de diciembre de 2015.-
+
+Director Serviu Región Libertador Bernardo O'Higgins.
