@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Nº 4.850 de fecha 06/12/2017, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Factibilización de terrenos de propiedad Serviu con fines habitacionales", Serviu Región de la Araucanía ordenó expropiación del Lote N° 03-0, denominado Hijuela de 7 hectáreas cincuenta áreas, ubicada en el lugar Conquil de la comuna de Villarrica, Rol de Avalúo N° 314-32, superficie total aproximada a expropiar de 155.05 metros cuadrados, de aparente dominio de Mario Sergio Arroyo Salinas. Comisión de Peritos integrada por la Ingeniero Constructor Constanza Mihoevic González; Arquitectos Arturo Osvaldo Cantos Oyarzún y Claudio Alejandro Romo Sanhueza, fijó monto Indemnización Provisional en $2.209.067, según Informe N° 03-0/2017 de fecha 05/12/2017, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
