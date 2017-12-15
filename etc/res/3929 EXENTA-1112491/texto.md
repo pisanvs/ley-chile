@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.929, del 1 de diciembre de 2017, Serviu Región del Libertador General Bernardo O'Higgins, ordenó la modificación de parte de la resolución exenta Nº 3.889, de fecha 7 de diciembre de 2015, del inmueble expropiado de aparente dominio de Juan Pablo González Abarca, ubicado en Pasaje Júpiter Nº 2046, Dpto. Nº 102, Etapa 14 del Conjunto Habitacional Villa Cordillera, comuna de Rancagua. Quedando de esta manera sin efecto parte de la correspondiente Resolución en su visto y considerando letra f) Nº 20, en su parte Resolutiva Numeral 1º Nº 20 y en su tabla del Numeral 2 a don Juan Pablo González Abarca aquí dispuesto. En lo no modificado rige en su totalidad la resolución Nº 3.889 de fecha de 7 de diciembre 2015.-
+
+Director Serviu Región Libertador Bernardo O'Higgins.
