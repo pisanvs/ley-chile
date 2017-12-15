@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 4.845 de fecha 06/12/2017, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 70-1, consistente en Sitio número de diecisiete de loteo Kolossa, ubicado en Avenida Pedro de Valdivia, de esta ciudad, comuna de Temuco, Rol de avalúo 1311-22. La superficie a expropiar aproximada es de 17,00 metros cuadrados, de aparente dominio de don Carlos Segundo Fontenelle Osses. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $6.069.355, según Informe N° 70-1 de fecha 17/11/2017, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
