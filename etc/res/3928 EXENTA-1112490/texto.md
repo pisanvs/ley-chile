@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.928 de 1 de diciembre de 2017, Serviu Región del Libertador General Bernardo O'Higgins, ordenó la modificación de parte de la resolución exenta N° 3.892 de fecha 7 de diciembre de 2015, del inmueble expropiado de aparente dominio de Francisco Becerra Pino, ubicado en Avenida República Chile N° 2247, Dpto. N° 302, Etapa 8 del Conjunto Habitacional Villa Cordillera, comuna de Rancagua. Quedando de esta manera sin efecto parte de la correspondiente resolución en su visto y considerando letra f) N° 18, en su parte Resolutiva Numeral 1° N° 18 y en su tabla del Numeral 2 a don Francisco Becerra Pino aquí dispuesto. En lo no modificado rige en su totalidad la resolución N° 3.892 de fecha 7 de diciembre de 2015.-
+
+Director Serviu Región Libertador Bernardo O'Higgins.
