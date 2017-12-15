@@ -1,0 +1,7 @@
+NOTIFICACIÓN
+
+Resolución Nº 3.370, de 5 de diciembre de 2017 del Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº 40 para la ejecución Proyecto "Mejoramiento calle Regimiento, Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Alvarado Vivar Teresa del C., rol de avalúo según SII Nº 2196-96, comuna de Puerto Montt, superficie 31,80 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Raúl Palma Larrea y Juan Samuel Barrientos Bahamonde designados por resolución exenta Nº 2.971 de 30 de octubre de 2017, fijó con fecha 20 de noviembre de 2017, el valor provisional de la indemnización en la suma de $1.586.680. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.-
+
+> **Nota.** La Resolución 1280 Exenta, Vivienda, publicada el 01.09.2021, dispone rectificar donde dice: "Rol de avalúo según el Servicio de Impuestos Internos Nº 3010-50, de la comuna de Puerto Montt", por "Rol de avalúo según el Servicio de Impuestos Internos Nº 3010-56, de la comuna de Puerto Montt", sin embargo, no se encuentra en el texto de la presente norma la referida frase para reemplazar.
+
+Directora (S) Serviu Los Lagos.
