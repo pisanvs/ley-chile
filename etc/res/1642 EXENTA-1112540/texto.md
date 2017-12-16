@@ -1,26 +1,30 @@
-EJECUTA ACUERDO DEL COMITÉ DE ASIGNACIÓN DE FONDOS - CAF QUE COMPLEMENTA ACUERDO DE CONSEJO Nº 2.682, DE 2011, CON SUS MODIFICACIONES POSTERIORES, QUE REGULA SISTEMA DE FOMENTO A LA CALIDAD Y A LA PRODUCTIVIDAD; DEJA SIN EFECTO RESOLUCIÓN QUE INDICA Y APRUEBA NUEVO TEXTO DEL REGLAMENTO PARA EL INSTRUMENTO "FOMENTO A LA CALIDAD - FOCAL"
+EJECUTA ACUERDO DEL COMITÉ DE ASIGNACIÓN DE FONDOS - CAF, QUE MODIFICA ACUERDO DEL MISMO COMITÉ, ADOPTADO EN SESIÓN N° 12/2015, Y ESTABLECE NUEVAS REGULACIONES PARA EL INSTRUMENTO "FOMENTO A LA CALIDAD - FOCAL"; MODIFICA RESOLUCIÓN QUE INDICA Y APRUEBA NUEVO REGLAMENTO DEL PROGRAMA "FOMENTO A LA CALIDAD - FOCAL"
 
-Núm. 1.294 exenta.- Santiago, 30 de julio de 2015.
+Núm. 1.642 exenta.- Santiago, 7 de diciembre de 2017.
 
 Visto:
 
-1. Los Acuerdos del H. Consejo Nº 2.682, de 2011, modificado por el Acuerdo Nº 2.769, de 2013, que regulan el Sistema de Fomento a la Calidad y a la Productividad, ejecutados por las resoluciones afectas Nº 30, de 2013, y Nº42, de 2014, ambas del Vicepresidente Ejecutivo de CORFO.
+1. La resolución (A) N° 91, de 2015, de Corfo, que "Ejecuta parcialmente Acuerdo de Consejo N° 2.874, de 2015, que deja sin efecto Acuerdo de Consejo N° 2.681, de 2011 y dicta nuevo texto que consolida disposiciones para el Comité de Asignación de Fondos - CAF y Comités de Asignación Zonales de Fondos - CAZ", en cuya letra A.13 delega en el CAF la facultad de "Aprobar la creación de los instrumentos de financiamiento, programas o concursos; establecer sus objetivos generales, montos y porcentajes máximos de cofinanciamiento, plazos máximos de ejecución, definición de potenciales beneficiarios y criterios de evaluación, así como la modificación de alguno de estos elementos; previa propuesta del Gerente respectivo, a quien le corresponderá dictar el acto administrativo aprobatorio del texto definitivo del correspondiente Reglamento o Bases".
 
-2. El Acuerdo del H. Consejo Nº 2.770, de 2013, que consolida las normas que regulan al Comité de Asignación de Fondos - CAF y a los Comités de Asignación Zonal de Fondos - CAZ, puesto en ejecución por la resolución (A) Nº 28, de 2013, del Vicepresidente Ejecutivo, en cuya letra A.21 se señala que se ha delegado en el CAF el conocimiento y la resolución de: "Modificar y poner término a los Instrumentos y Programas creados por el Consejo de CORFO, cuya administración se encuentre entregada a la actual Gerencia de Competitividad. Las modificaciones podrán decir relación con cualquiera de los elementos, condiciones y requisito establecidos en el acto de creación".
+2. El Acuerdo alcanzado por el Comité de Asignación de Fondos - CAF, en su Sesión N° 12/2015, de 24 de junio de 2015, ejecutado por resolución (E) N° 1.294, de 2015, de Corfo, que aprueba normas para el instrumento Fomento a la Calidad - Focal, aprobando además su Reglamento.
 
-3. La resolución (E) Nº 174, de 2015, del Gerente de Desarrollo Competitivo, que aprobó la nueva normativa para el Instrumento Fomento a la Calidad - Focal.
+3. La resolución (E) N° 1.237, de 2017, de Corfo, que modificó el listado de documentos normativos -Normas y Protocolos- que serán cofinanciados por el Instrumento "Programa de Fomento a la Calidad - Focal".
 
-4. El Acuerdo alcanzado por el Comité de Asignación de Fondos - CAF, en su sesión Nº 12/2015, de 24 de junio de 2015, que estableció nuevas regulaciones para el instrumento Fomento a la Calidad - Focal.
+4. La resolución (E) N° 2.342, de 2015, de Corfo, que ejecutó parcialmente Acuerdo de Consejo N° 2.868, de 2015, e individualizó proyectos y programas que deben ser de competencia de los Comités de Desarrollo Productivo Regional de las Regiones de Antofagasta, Biobío y Los Ríos, entre los cuales se encuentra el instrumento "Fomento a la Calidad - Focal".
 
-5. Lo dispuesto en el artículo 3º de la ley Nº 19.880, que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado, en orden a que las decisiones de los órganos administrativos pluripersonales se llevarán a efecto por medio de resoluciones de la autoridad ejecutiva correspondiente.
+5. El Acuerdo alcanzado por el Comité de Asignación de Fondos - CAF, en su Sesión N° 26/2017, de 24 de octubre de 2017, que modifica Acuerdo del mismo Comité, adoptado en Sesión N° 12/2015, de 24 de junio de 2015 y establece nuevas regulaciones para el Instrumento "Fomento a la Calidad -Focal".
 
-6. Las facultades que me confiere la resolución (A) Nº 28, de 2013, del Vicepresidente Ejecutivo de CORFO, que aprueba el Reglamento del Comité de Asignación de Fondos - CAF y Comités de Asignación Zonal de Fondos - CAZ; la resolución (E) de Personal Nº 143, de 2014, que me designó como Gerente de Desarrollo Competitivo, y lo dispuesto en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón.
+6. Lo dispuesto en el artículo 3° de la ley N° 19.880, que establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado, en orden a que las decisiones de los órganos administrativos pluripersonales se llevarán a efecto por medio de resoluciones de la autoridad ejecutiva correspondiente.
+
+7. Que, las asignaciones para la ejecución de los proyectos que se adjudiquen son inferiores a 5.000 Unidades Tributarias Mensuales.
+
+8. Las facultades que me confiere la resolución (A) N° 91, de 2015, ya citada; la resolución (E) de Personal N° 129, de 2016, del Vicepresidente Ejecutivo de Corfo, que establece el orden de subrogación de la Gerencia de Desarrollo Competitivo; las facultades que me otorga el Reglamento General de la Corporación, aprobado por decreto N° 360, de 1945 del Ministerio de Economía, y lo establecido en la resolución N° 1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención del trámite de toma de razón,
 
 Resuelvo:
 
-I.- Ejecútase el Acuerdo adoptado por el Comité de Asignación de Fondos - CAF, en su sesión Nº 12, de 24 de junio de 2015, que resolvió lo siguiente:
+I.- Ejecútase el Acuerdo adoptado por el Comité de Asignación de Fondos - CAF, en su Sesión N° 26-2017, de 24 de octubre de 2017, que modifica el Acuerdo del Comité de Asignación de Fondos - CAF, adoptado en Sesión N° 12/2015, de 24 de junio de 2015 y establece nuevas regulaciones para el Instrumento "Fomento a la Calidad - Focal".
 
-1º Compleméntanse los Acuerdos del H. Consejo Nº 2.682, de 2011, modificado por el Acuerdo Nº 2.769, de 2013, que regulan el Sistema de Fomento a la Calidad y a la Productividad, ejecutados por las resoluciones (A) Nº 30, de 2013 y (A) Nº 42, de 2014, ambas del Vicepresidente Ejecutivo de CORFO, estableciendo nuevas regulaciones para el instrumento denominado "Fomento a la Calidad - Focal", en los siguientes términos:
+II.- Reemplázase el Reglamento aprobado en el numeral III de la parte resolutiva de la Resolución (E) N° 1.294, de 2015, de Corfo, por el siguiente:
 
 "REGLAMENTO DEL PROGRAMA FOMENTO LA CALIDAD - FOCAL"
 
@@ -198,4 +202,4 @@ Los proyectos actualmente en ejecución se regirán por este Reglamento, salvo q
 
 Continuarán rigiéndose por la normativa anterior los proyectos que soliciten re-certificación y que se encuentren ingresados al Sistema de Gestión de Proyectos hasta las 12:00 horas del día 22 de diciembre de 2017.
 
-Anótese, comuníquese y publíquese en el Diario Oficial.- Claudio Maggi Campos, Gerente de Desarrollo Competitivo.
+Anótese, comuníquese y publíquese en el Diario Oficial.- Carlos Ladrix Oses, Gerente de Desarrollo Competitivo (S).
