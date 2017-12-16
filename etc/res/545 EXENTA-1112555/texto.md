@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL "PROCEDIMIENTO DE GESTIÓN DE RIESGOS, INCIDENCIAS Y OPORTUNIDADES", APLICABLE A LAS ÁREAS Y FUNCIONARIOS QUE SE INDICAN
+
+Por resolución exenta N° 545, de 9 de noviembre de 2017, del Director Nacional del Instituto de Previsión Social, se aprueba el Procedimiento indicado en el rubro, con la finalidad de establecer las normas para la identificación de riesgos, incidencias y oportunidades en los proyectos asociados al Plan Director, así como también, realizar un análisis y valoración del riesgo reputacional asociado a dichos proyectos, seguimiento a planes de mitigación acordados, aplicables a todos los funcionarios responsables de las diferentes áreas de la Institución.
+
+Santiago, 7 de diciembre de 2017.- Patricio Coronado Rojo, Director Nacional.
