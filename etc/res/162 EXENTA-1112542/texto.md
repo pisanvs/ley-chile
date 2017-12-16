@@ -1,0 +1,5 @@
+APRUEBA FACTORES DE PONDERACIÓN DE SALARIO Y FACTORES DE PONDERACIÓN ESPECIAL DEL RÉGIMEN DE PREVISIÓN DE LA SECCIÓN DE TRIPULANTES DE NAVES Y OPERARIOS MARÍTIMOS - TRIOMAR DE LA EX CAJA DE PREVISIÓN DE LA MARINA MERCANTE NACIONAL
+
+Por resolución exenta N° 162, de 25 de agosto de 2017, del Director Regional del Instituto de Previsión Social, Región de Valparaíso, aprueba los factores de ponderación de salarios del Régimen de Previsión de la Sección de Tripulantes de Naves y Operarios Marítimos (Triomar), de la ex Caja de Previsión de la Marina Mercante Nacional, válidos para la determinación de las pensiones cuyos siniestros ocurrieron el año 2017 y el factor de ponderación especial válido para la determinación de las pensiones de vejez, de invalidez y de viudez de activos del mismo régimen de previsión solicitadas o siniestradas durante el año 2016 y decretadas durante el año 2017.
+
+Santiago, 7 de diciembre de 2017.- Patricio Coronado Rojo, Director Nacional.
