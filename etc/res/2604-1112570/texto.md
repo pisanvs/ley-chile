@@ -1,0 +1,9 @@
+AUTORIZA INCORPORACIÓN DE ESPECIES Y MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.604, del 28 de septiembre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1. Autorízase a Cermaq Chile S.A., sociedad chilena, RUT 79.784.980-4, con domicilio en Avenida Diego Portales 2000, piso 10, Puerto Montt, para incorporar el cultivo del grupo de especies salmónidos, solicitud 211101137, del 26 de diciembre de 2011, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.044, del 14 de mayo de 1997, cuya transferencia fue autorizada por resolución 08, del 6 de enero de 1999, modificada y transferida por resolución 1.524, del 24 de noviembre de 2008, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, e inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría de Pesca y Acuicultura, bajo el N° 836, del 27 de enero de 2015, ubicada en Estero Comau, Caleta Soledad, comuna de Chaitén, provincia de Palena, X Región de Los Lagos.
+
+2. Modifícase la concesión de acuicultura de porción de agua y fondo de mar, señalada en el párrafo precedente, para lo cual la concesionaria deberá dar cabal cumplimiento al nuevo proyecto técnico y cronograma de actividades, aprobado por resolución exenta 2.722, del 3 de octubre de 2013, modificada por resolución exenta 4.245, del 30 de diciembre de 2016, ambas del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el N° 4 de la parte resolutiva del acto administrativo que otorgó la concesión de acuicultura.
+
+Santiago, 31 de octubre de 2017.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
