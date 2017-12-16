@@ -1,0 +1,7 @@
+DELEGA FACULTADES QUE INDICA RELATIVAS A HORAS EXTRAORDINARIAS, Y REVOCA LAS FACULTADES QUE SE SEÑALAN, CONFERIDAS MEDIANTE LA RESOLUCIÓN N° 343, DE 2000, DE ESTA DIRECCIÓN NACIONAL, A LAS JEFATURAS QUE SE INDICAN
+
+Extracto de resolución SII N° 74, del 23 de agosto de 2017, que establece:
+
+Revoca facultades que indica, conferidas al Jefe del Departamento de Finanzas de la Subdirección de Administración y al Subdirector de Informática mediante la resolución Nº 343, de 2000, relativas a horas extraordinarias, y delega en el Jefe del Departamento de Finanzas de la Subdirección de Administración, respecto de los funcionarios de la Dirección Nacional, la facultad de autorizar la ejecución, rectificación y pago de las horas extraordinarias, previo informe de los Subdirectores respectivos y en los Directores Regionales y el Director de Grandes Contribuyentes, respecto de los funcionarios de sus respectivas dependencias, la facultad de aprobar el pago de horas extraordinarias efectivamente trabajadas.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de diciembre de 2017.
