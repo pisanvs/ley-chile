@@ -32,6 +32,8 @@ Resolución:
 
 3. Publíquese la presente resolución en el Diario Oficial y en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 2. de esta resolución, las que deberán contener a lo menos, la comuna, el Título del cual se trate, el nombre de cada postulante con su respectiva Cédula de Identidad y el puntaje obtenido por el grupo o persona.
 
+> **Nota.** Los numerales 2.2, 2.3 del numero 2 de la resolución 14183 Exenta, Vivienda, publicada el 19.12.2017, modifica la presente norma en el sentido de sustituir en la tabla las filas correspondientes a la Región de Biobío, y reemplazar la fila total general, por las que indica la citada norma.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.
