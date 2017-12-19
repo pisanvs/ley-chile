@@ -1,0 +1,9 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.665, del 5 de octubre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Aquacultivos S.A., sociedad chilena, RUT 87.829.000-3, con domicilio en Avenida Diego Portales 2000, piso 10, Puerto Montt, para incorporar al cultivo el grupo de especies salmónidos, requerido mediante solicitud 211141002, del 29 de abril de 2011, en la concesión de acuicultura de porción de agua y fondo de lago, otorgada por decreto supremo 804, del 16 de agosto de 1989, modificado por resolución 1.037, del 13 de junio de 1995, cuya transferencia fue autorizada por resolución 1.703, del 29 de septiembre de 2000 y por resolución 1.061, del 7 de junio de 2005, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, ubicada en la Ribera Norte del Lago Puyehue, comuna de Río Bueno, provincia del Ranco, XIV Región de Los Ríos.
+
+2.- Modifícase la concesión de acuicultura de porción de agua y fondo de lago, señalada en el párrafo precedente, en el sentido que la concesionaria debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 2.185, del 11 de agosto de 2015, modificada por la resolución exenta 1.076, del 28 de marzo de 2017, ambas del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el Nº 4 de la parte resolutiva de la resolución 1.061, del 7 de junio de 2005, del Ministerio de Defensa Nacional, Subsecretaría de Marina.
+
+Santiago, 31 de octubre de 2017.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
