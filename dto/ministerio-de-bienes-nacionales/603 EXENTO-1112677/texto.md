@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE LA ARAUCANÍA, A LA "AGRUPACIÓN FAMILIARES Y AMIGOS DERECHOS HUMANOS"
+
+Mediante decreto exento Nº E-603, de 27 de noviembre de 2017, modificado por el decreto exento Nº E-617 de 4 de diciembre de 2017, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Agrupación Familiares y Amigos Derechos Humanos", RUT Nº 65.202.260-K, el inmueble fiscal correspondiente al Sitio 4-A, ubicado en Pasaje Huelén Nº 045, de la ciudad y comuna de Temuco, provincia de Cautín, Región de La Araucanía, enrolado en el Servicio de Impuestos Internos con el Nº 1341-52, inscrito a nombre del Fisco a fs. 1.500 Nº 1.600 del Registro de Propiedad del Conservador de Bienes Raíces de Temuco, correspondiente al año 1978, singularizado en el Plano Nº 09101-16.547-C.U., con una superficie de 291,18 m2. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para que el inmueble sea usado como sede y centro de reunión, recreación, encuentro fraternal y centro de acogida a los integrantes de su agrupación, provenientes de otras comunas, efectuando las mantenciones y mejoras de sus instalaciones. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación, en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Magdalena Badilla Rodríguez, Jefa de División Jurídica.
