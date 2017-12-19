@@ -1,0 +1,9 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución N° 2.656, del 4 de octubre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Cermaq Chile S.A., sociedad chilena, RUT 79.784.980-4, con domicilio en Avenida Diego Portales 2000, piso 10, Puerto Montt, para incorporar el cultivo del grupo de especies salmónidos, solicitud 212103058, del 2 de marzo de 2012, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.375, del 3 de agosto de 1998, modificada por resolución 705, del 26 de marzo de 2009, ambas del Ministerio de Defensa Nacional, Subsecretaría de Marina, modificada por resolución exenta 5.127, del 26 de julio de 2011, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas e inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría de Pesca y Acuicultura, bajo el N° 3372014, ubicada en Puerto Voigue, Isla Cheniao, comuna de Quemchi, provincia de Chiloé, X Región de Los Lagos.
+
+2.- Modifícase, la concesión de acuicultura de porción de agua y fondo de mar, señalada en el párrafo precedente, para lo cual la concesionaria deberá dar cabal cumplimiento al nuevo proyecto técnico y cronograma de actividades, aprobado por resolución exenta 3.621, del 20 de diciembre de 2013, modificada por resolución exenta 2.682, del 30 de agosto de 2016, ambas del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el párrafo N° 4, de la parte resolutiva del acto administrativo que otorgó la concesión de acuicultura.
+
+Santiago, 31 de octubre de 2017.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
