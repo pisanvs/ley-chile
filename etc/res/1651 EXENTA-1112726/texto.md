@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN N° 1.651 EXENTA, DE 16 DE NOVIEMBRE DE 2017
+
+Por resolución exenta N° 1.651, de 16 de noviembre de 2017, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, se ha prorrogado el contrato de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región de Los Lagos, celebrados con el concesionario TÜV Rheinland Andino S.A., hasta el día 31 de diciembre de 2018, o hasta que comiencen a operar todas o parte de las nuevas plantas de revisión técnica, concesionadas en virtud del llamado licitación pública efectuado por el Ministerio de Transportes y Telecomunicaciones para esta Región.
+
+Anótese y publíquese en extracto en el Diario Oficial.- César Oyarzún Almonacid, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos.
