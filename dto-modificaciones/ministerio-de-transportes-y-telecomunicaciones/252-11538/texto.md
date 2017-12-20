@@ -602,27 +602,17 @@ ELIMINADO
 
 185,080 Simón Bolívar Línea Yungay/Puerto
 
-0,182 San Pedro R. San Pedro/
+0,182 San Pedro R. San Pedro/Ventanas
 
-Ventanas
+1,040 Troncal R. San Pedro/Ventanas
 
-1,040 Troncal R. San Pedro/
+2,170 Morandé R. Llay Llay/Los Andes
 
-Ventanas
-
-2,170 Morandé R. Llay Llay/
-
-Los Andes
-
-26,760 Nuevo Palomar R. Llay Llay/
-
-Los Andes
+26,760 Nuevo Palomar R. Llay Llay/Los Andes
 
 43,704 El Laberinto Ramal Llay Llay- Los Andes
 
-5,560 El Sauce R. Los Andes/
-
-Río Blanco
+5,560 El Sauce R. Los Andes/Río Blanco
 
 3,380 ELIMINADO
 
@@ -1220,65 +1210,33 @@ Montt L.C.S.
 
 23,678 Con Con San Pedro/Ventanas
 
-37,510 Ritoque San Pedro/Ventanas
+ELIMINADO
 
-38,925 Viña del Mar San Pedro/Ventanas
+6,914 Chagres Ramal Llay Llay/Los Andes
 
-39,150 Estrella
+19,464 Panquehue Ramal Llay Llay/Los Andes
 
-de Chile San Pedro/Ventanas
+30,815 El Puente Ramal Llay Llay/Los Andes
 
-6,914 Chagres Ramal Llay Llay/
+31,618 Dardignac Ramal Llay Llay/Los Andes
 
-Los Andes
+32,023 12 Febrero Ramal Llay Llay/Los Andes
 
-19,464 Panquehue Ramal Llay Llay/
+37,000 Curimón Ramal Llay Llay/Los Andes
 
-Los Andes
+40,510 El Bosque Ramal Llay Llay/Los Andes
 
-30,815 El Puente Ramal Llay Llay/
+41,795 San Rafael Ramal Llay Llay/Los Andes
 
-Los Andes
+42,000 La Tortilla Ramal Llay Llay/Los Andes
 
-31,618 Dardignac Ramal Llay Llay/
+44,980 La Junta Ramal Llay Llay/Los Andes
 
-Los Andes
+45,900 Cementerio Ramal Llay Llay/Los Andes
 
-32,023 12 Febrero Ramal Llay Llay/
+1,100 Hnos. Clark Ramal Los Andes/Río Blanco
 
-Los Andes
-
-37,000 Curimón Ramal Llay Llay/
-
-Los Andes
-
-40,510 El Bosque Ramal Llay Llay/
-
-Los Andes
-
-41,795 San Rafael Ramal Llay Llay/
-
-Los Andes
-
-42,000 La Tortilla Ramal Llay Llay/
-
-Los Andes
-
-44,980 La Junta Ramal Llay Llay/
-
-Los Andes
-
-45,900 Cementerio Ramal Llay Llay/
-
-Los Andes
-
-1,100 Hnos. Clark Ramal Los Andes/
-
-Río Blanco
-
-37,500 Guardia Vieja Ramal Los Andes/
-
-Río Blanco
+ELIMINADO
 
 0,500 Eliminado
 
@@ -1306,33 +1264,19 @@ Río Blanco
 
 108,200 Llolleo Ramal a Barrancas
 
-4,350 Victoria Ramal Paine/
+4,350 Victoria Ramal Paine/Talagante
 
-Talagante
+5,950 Viluco Ramal Paine/Talagante
 
-5,950 Viluco Ramal Paine/
+8,010 Campusano Ramal Paine/Talagante
 
-Talagante
+9,110 Estancillla Ramal Paine/Talagante
 
-8,010 Campusano Ramal Paine/
+15,650 Sin Nombre Ramal Paine/Talagante
 
-Talagante
+15,860 Sin Nombre Ramal Paine/Talagante
 
-9,110 Estancillla Ramal Paine/
-
-Talagante
-
-15,650 Sin Nombre Ramal Paine/
-
-Talagante
-
-15,860 Sin Nombre Ramal Paine/
-
-Talagante
-
-19,460 Sin Nombre Ramal Paine/
-
-Talagante
+19,460 Sin Nombre Ramal Paine/Talagante
 
 0,240 Centinela Ramal a Pichilemu
 
@@ -1368,73 +1312,39 @@ Talagante
 
 ELIMINADO
 
-1,915 El Mirador Ramal Talca/
+1,915 El Mirador Ramal Talca/Constitución
 
-Constitución
+8,535 Unihue Ramal Talca/Constitución
 
-8,535 Unihue Ramal Talca/
+12,890 Colín Ramal Talca/Constitución
 
-Constitución
+14,900 Perales Ramal Talca/Constitución
 
-12,890 Colín Ramal Talca/
+27,280 Sin Nombre Ramal Talca/Constitución
 
-Constitución
+33,850 Sin Nombre Ramal Talca/Constitución
 
-14,900 Perales Ramal Talca/
+87,580 Sin Nombre Ramal Talca/Constitución
 
-Constitución
+87,950 Sin Nombre Ramal Talca/Constitución
 
-27,280 Sin Nombre Ramal Talca/
+88,400 Constitución Ramal Talca/Constitución
 
-Constitución
+1,030 Sin Nombre R. Rucapequén/Concepción
 
-33,850 Sin Nombre Ramal Talca/
+2,110 Sin Nombre R. Rucapequén/Concepción
 
-Constitución
+9,790 Colliguay R. Rucapequén/Concepción
 
-87,580 Sin Nombre Ramal Talca/
+11,680 Sin Nombre R. Rucapequén/Concepción
 
-Constitución
+12,905 Sin Nombre R. Rucapequén/Concepción
 
-87,950 Sin Nombre Ramal Talca/
+15,170 Sin Nombre R. Rucapequén/Concepción
 
-Constitución
+16,950 Sin Nombre R. Rucapequén/Concepción
 
-88,400 Constitución Ramal Talca/
-
-Constitución
-
-1,030 Sin Nombre R. Rucapequén/
-
-Concepción
-
-2,110 Sin Nombre R. Rucapequén/
-
-Concepción
-
-9,790 Colliguay R. Rucapequén/
-
-Concepción
-
-11,680 Sin Nombre R. Rucapequén/
-
-Concepción
-
-12,905 Sin Nombre R. Rucapequén/
-
-Concepción
-
-15,170 Sin Nombre R. Rucapequén/
-
-Concepción
-
-16,950 Sin Nombre R. Rucapequén/
-
-Concepción
-
-19,100 Nueva Aldea R. Rucapequén/
-
-Concepción
+19,100 Nueva Aldea R. Rucapequén/Concepción
 
 28,370 ELIMINADO
 
@@ -1474,29 +1384,17 @@ Concepción
 
 99,300 ELIMINADO
 
-112,130 Sin Nombre R. Rucapequén/
+112,130 Sin Nombre R. Rucapequén/Concepción
 
-Concepción
+113,690 Sin Nombre R. Rucapequén/Concepción
 
-113,690 Sin Nombre R. Rucapequén/
+114,590 Sin Nombre R. Rucapequén/Concepción
 
-Concepción
+114,825 Sin Nombre R. Rucapequén/Concepción
 
-114,590 Sin Nombre R. Rucapequén/
+115,435 Sin Nombre R. Rucapequén/Concepción
 
-Concepción
-
-114,825 Sin Nombre R. Rucapequén/
-
-Concepción
-
-115,435 Sin Nombre R. Rucapequén/
-
-Concepción
-
-128,040 Tucapel R. Rucapequén/
-
-Concepción
+128,040 Tucapel R. Rucapequén/Concepción
 
 ELIMINADO
 
@@ -1554,9 +1452,11 @@ Talcahuano
 
 Curanilahue
 
-5,270 Bío Bío L. Ramal Concepción/
+5,270 Bío Bío L.
 
-Coloradas Curanilahue
+Coloradas Ramal Concepción/
+
+Curanilahue
 
 6,680 Bío Bío
 
@@ -1678,17 +1578,27 @@ Sta. Bárbara
 
 ELIMINADO
 
-59,690 Santa Bárbara R. Sta. Fe/Sta. Bárbara
+59,690 Santa Bárbara R. Sta. Fe/
 
-0,230 Sin Nombre R. Coigüe/Nacimiento
+Sta. Bárbara
 
-2,060 Sin Nombre R. Coigüe/Nacimiento
+0,230 Sin Nombre R. Coigüe/
 
-5,040 Sin Nombre R. Coigüe/Nacimiento
+Nacimiento
+
+2,060 Sin Nombre R. Coigüe/
+
+Nacimiento
+
+5,040 Sin Nombre R. Coigüe/
+
+Nacimiento
 
 6,600 Est. Coigüe
 
-Norte Ramal Coigüe/Mulchén
+Norte Ramal Coigüe/
+
+Mulchén
 
 ELIMINADO
 
@@ -1866,30 +1776,6 @@ Pehuén Ramal Los Sauces/Lebu
 
 ELIMINADO
 
-0,330 Cajón Ramal Cajón/Vilcún
-
-8,650 Cajón Gral.
-
-López Ramal Cajón/Vilcún
-
-15,000 General
-
-López Pte. Ramal Cajón/Vilcún
-
-15,800 Gral. López
-
-Oriente Ramal Cajón/Vilcún
-
-25,200 Gral.
-
-López Vilcún Ramal Cajón/Vilcún
-
-26,900 Vilcún Ramal Cajón/Vilcún
-
-27,710 Vilcún Oriente Ramal Cajón/Vilcún
-
-ELIMINADO
-
 55,800 Carahue Ramal Temuco/Carahue
 
 ELIMINADO
@@ -1897,48 +1783,6 @@ ELIMINADO
 57,040 Cunco Oriente Ramal a Cunco
 
 ELIMINADO
-
-0,652 Lanco Ramal a Panguipulli
-
-1,412 Lanco y Aylin Ramal a Panguipulli
-
-4,892 Lanco y Aylin Ramal a Panguipulli
-
-8,438 Lanco y Aylin Ramal a Panguipulli
-
-10,419 Purulón Pte. Ramal a Panguipulli
-
-11,046 Purulón Oriente Ramal a Panguipulli
-
-18,405 Aylin Pte. Ramal a Panguipulli
-
-19,002 Aylin Oriente Ramal a Panguipulli
-
-25,505 Malalhue Pte. Ramal a Panguipulli
-
-26,224 Malalhue
-
-Oriente Ramal a Panguipulli
-
-27,675 Sin Nombre Ramal a Panguipulli
-
-32,534 Melefquén Ramal a Panguipulli
-
-33,231 Melefquén
-
-Oriente Ramal a Panguipulli
-
-39,623 Calafquén Pte. Ramal a Panguipulli
-
-40,440 Calafquén
-
-Oriente Ramal a Panguipulli
-
-45,082 Sin Nombre Ramal a Panguipulli
-
-45,538 Sin Nombre Ramal a Panguipulli
-
-45,731 Sin Nombre Ramal a Panguipulli
 
 52,897 Panguipulli Ramal a Panguipulli
 
