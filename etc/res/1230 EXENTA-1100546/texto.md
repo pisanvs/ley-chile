@@ -110,7 +110,17 @@ La Seremi dispondrá, mediante resolución, los plazos para efectuar la presenta
 
 12. La ejecución de los proyectos seleccionados, los gastos de asistencia técnica, las obras correspondientes, así como los incrementos de subsidio, en los casos que proceda, serán financiados por las regiones con los recursos disponibles para este llamado, conforme a lo establecido en el siguiente cuadro:
 
-.
+Región Monto Total (UF)
+
+Tarapacá 5.000
+
+Valparaíso 49.822
+
+Maule 2.508
+
+Metropolitana 44.990
+
+Total 102.320
 
 A partir del mes de julio de 2017, la Subsecretaría de Vivienda y Urbanismo podrá, mediante resoluciones, reasignar estos recursos entre las regiones de este llamado, a fin de garantizar la completa asignación de los recursos destinados a este llamado.
 
