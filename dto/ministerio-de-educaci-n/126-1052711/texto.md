@@ -46,7 +46,7 @@ El área protegida relativa al Templo Luterano de Frutillar tiene una superficie
 
 Declárase Monumento Nacional en la categoría de Zona Típica a "Frutillar Bajo", localidad ubicada en la comuna de Frutillar, provincia de Llanquihue, Región de Los Lagos.
 
-El área protegida del polígono de la Zona Típica tiene una superficie aproximada de 1.057.511,48 mts.2 o 105,7511 hectáreas, como se grafica en el plano adjunto, que forma parte del presente decreto y cuyos límites son los siguientes:
+El área protegida de la zona típica tiene una superficie de 960.148 mts2, como se grafica en el polígono 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23-24-25-26-27-28-29- 30-31-32-33-34-1, del plano adjunto Nº 007-2017, visado por el Consejo de Monumentos Nacionales y que forma parte del presente decreto y cuyos límites son los siguientes:
 
 .
 
