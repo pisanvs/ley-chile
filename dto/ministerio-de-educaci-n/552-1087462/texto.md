@@ -164,33 +164,9 @@ D 766.932,34 5.689.801,92
 
 Declárase Monumento Nacional en la categoría de Zona Típica o Pintoresca a la "Villa García", ubicada en la comuna de Cunco, Provincia de Cautín, Región de la Araucanía.
 
-El área protegida tiene una superficie aproximada de 272.953,16 mts.2 (27,29 ha), como se grafica en el polígono de protección con los números 1-2-3-4-1, del plano adjunto, que forma parte del presente decreto y cuyos límites son los siguientes:
+El área del polígono tiene una superficie aproximada de 250.377 mts.² (25,03 hectáreas), según se delimita por el polígono 1-2-3-4-5-6-7-8-9-10-11-1 del plano adjunto N° 028-2017, de 14/09/2017, visado por el Consejo de Monumentos Nacionales, que forma parte del presente decreto y cuyos límites son los siguientes:
 
-Tramo Descripción
-
-1-2 Límite Nororiente, línea de fondo de predio.
-
-2-3 Límite Suroriente, línea de fondo de predio.
-
-3-4 Límite Surponiente, línea de fondo de predio.
-
-4-1 Límite Poniente, línea de fondo de predio.
-
-Polígono de Protección
-
-Coordenadas UTM
-
-Datum WGS 84, Huso 19 S
-
-Punto Este (x) Norte (y)
-
-1 766.760,11 5.690.133,75
-
-2 767.344,17 5.689.771,10
-
-3 767.189,67 5.689.520,56
-
-4 766.692,05 5.689.666,74
+.
 
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Adriana Delpiano Puelma, Ministra de Educación.
 
