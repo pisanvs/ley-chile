@@ -158,6 +158,8 @@ En el caso de los proyectos que ingresen a Serviu en la modalidad de Subsidio a 
 
 16. Los recursos disponibles para efectuar la selección de proyectos en Condominios Sociales que resulten certificados como Copropiedades Objeto del Programa, serán los siguientes:
 
+.
+
 A partir del mes de julio de 2017, la Subsecretaría de Vivienda y Urbanismo, mediante resoluciones exentas, podrá reasignar estos recursos entre regiones a fin de garantizar la completa asignación de los subsidios del presente llamado.
 
 17. Considerando los recursos establecidos en el resuelvo 16 de la presente resolución, las Seremi Minvu deberán identificar separadamente, mediante resolución exenta, los montos que serán destinados a la selección de a) Condominios Sociales que conforman la demanda general del programa y de b) Condominios Sociales insertos en conjuntos habitacionales que, en virtud de las resoluciones exentas citadas en el Visto 3 de la presente resolución, se encuentran en los barrios seleccionados por el Programa de Recuperación de Barrios. De igual modo, las Seremi Minvu deberán establecer el monto correspondiente a cada proceso de selección, no pudiendo destinar más de un 20% de los recursos al tercer proceso de selección.
