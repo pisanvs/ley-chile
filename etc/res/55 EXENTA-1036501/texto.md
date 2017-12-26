@@ -1136,7 +1136,7 @@ Ciudad : Panguipulli
 
 Jurisdicción : Panguipulli
 
-Mod. atención : Intermitente
+Mod. atención : Permanente
 
 XV REGIÓN DE ARICA Y PARINACOTA
 
