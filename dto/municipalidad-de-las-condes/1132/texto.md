@@ -10,17 +10,31 @@ Decreto:
 
 1. Elimínase en el artículo 45, de la Ordenanza Local del Plan Regulador Comunal, cuadro de "Vialidad Comunal", la afectación a utilidad pública, para la siguiente nómina de vías y/o tramos de vías clasificadas como colectoras de servicio y locales, que a continuación se detallan:
 
-.
+. Calle Alcántara, entre calle Vaticano y calle Isabel La Católica.
 
-La presente nómina de vías y calles en las que se elimina la franja afecta a utilidad pública se complementa con el plano MPRCLC-NA-2015, que las grafica. El incremento de antejardines establecido en el artículo 38 de la Ordenanza Local del Plan Regulador Comunal, coincidente con el área afecta a utilidad pública en las distintas vías, no se aplica a las vías contenidas en el presente decreto.
+. Calle Alcántara, entre calle Vaticano y Avda. Francisco Bilbao.
+
+. Calle Bocaccio, entre calle Padre Errázuriz y Av. Chesterton.
+
+. Calle Fray León, en el tramo entre calle La Cabaña y calle Camino San Antonio.
+
+. Calle Fray Jorge, en el tramo entre Avda. Las Condes y el límite norte del lote individualizado en el plano S-6481.
+
+. Juan de Austria, en el tramo entre calle Vaticano y calle Fernando de Aragón.
+
+. La Piedad, en el tramo entre calle Nuestra Señora del Rosario y calle Los Militares.
+
+. Av. Presidente Errázuriz, en el tramo entre Av. Mariano Sánchez Fontecilla y calle San Crescente.
+
+. Calle Valle Alegre, entre Avda. Paul Harris y calle Camino La Viña.
+
+Inciso Derogado
 
 2. Rectifícase el error de clasificación contenido en el Capítulo V, artículo 45 de la Ordenanza Local del Plan Regulador Comunal de Las Condes, para la Avenida Las Condes, en el tramo avenida Presidente Kennedy y Camino a Farellones nominada como vía Troncal, clasificándola como vía Expresa en concordancia con lo establecido en la Ordenanza del Plan Regulador Metropolitano de Santiago.
 
 3. Publíquese el presente decreto en un diario de circulación comunal, como también en la página web municipal.
 
 4. Archívese copia del presente decreto y su publicación en el Conservador de Bienes Raíces de Santiago, la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo y en la Secretaría Regional Ministerial Metropolitana de Vivienda y Urbanismo.
-
-> **Nota.** El numeral 1° del Decreto 1755, M. de las Condes, publicado el 26.05.2016 modifica la presente norma en el sentido de rectificar la calle Fray Jorge, en el tramo entre Avda. Camino La Posada y calle Camino La Viña, en los cuadros titulados "Donde dice" y "Debe decir", la "Distancia eje a L.O.", de 5 metros al Oriente y 5 metros al Poniente, a 7,5 metros al Oriente y 7,5 metros al Poniente, respectivamente, resultando en consecuencia un "Ancho Min. L.O.", de 15 metros.
 
 Anótese, comuníquese, publíquese y archívese.- Francisco de la Maza Chadwick, Alcalde.- Jorge Vergara Gómez, Secretario Municipal.
 
