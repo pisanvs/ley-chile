@@ -46,15 +46,17 @@ Febrero 59
 
 Marzo 39
 
-Abril 82
+Abril 75
 
-TOTAL 207
+TOTAL 200
 
 3. Apruébase el monto de los recursos asignados en la selección del mes de abril y modifícase el monto asignado en el mes de febrero, del llamado dispuesto por la resolución exenta Nº 360 (V. y U.), de 2016, conforme al cuadro siguiente:
 
 .
 
 4. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al Resuelvo Nº 2 de esta resolución.
+
+> **Nota.** El numeral 2.3 del numero 2 de la Resolución 14454 Exenta, Vivienda, publicación 27.12.2017, modifica la presente norma en el sentido de reemplazar, en la columna "UF selección Abril", el guarismo "14.577" por "13.394" y en la columna "Saldo en UF", el guarismo "963.825" por "965.008".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
