@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de todo tipo de vehículos motorizados calzada completa de calle Yerbas Buenas, en el tramo comprendido entre Freire y Chañarcillo; entre Chañarcillo y Atacama; entre Atacama y O'Higgins; entre O'Higgins y Los Carrera; entre Los Carrera y Rodríguez; y entre Rodríguez y Av. Circunvalación todas de la comuna de Copiapó, desde la publicación en el Diario Oficial hasta el día 30 de noviembre de 2017, para la ejecución de las obras "Trabajos de Reposición Pavimentación en calzada de calle Yerbas Buenas.
+1. Prohíbase la circulación de todo tipo de vehículos motorizados calzada completa de calle Yerbas Buenas, en el tramo comprendido entre Freire y Chañarcillo; entre Chañarcillo y Atacama; entre Atacama y O'Higgins; entre O'Higgins y Los Carrera; entre Los Carrera y Rodríguez; y entre Rodríguez y Av. Circunvalación todas de la comuna de Copiapó, desde la publicación en el Diario Oficial hasta el día 28 de febrero de 2018, para la ejecución de las obras "Trabajos de Reposición Pavimentación en calzada de calle Yerbas Buenas.
 
 2. Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
