@@ -226,7 +226,7 @@ La Vista Fiscal aprobada por la respectiva jefatura de la unidad a cargo de la i
 
 #### Artículo 36º
 
-La resolución pronunciada por el Contralor General o el Contralor Regional, en su caso, que aprueba el sumario determinará si existe responsabilidad administrativa, y propondrá a la autoridad competente las sanciones que se estimen procedentes aplicar respecto de los inculpados, su absolución, el sobreseimiento de éstos, o del sumario administrativo, notificándose al efecto. Una vez firme, será comunicada a la autoridad que corresponda.
+La resolución pronunciada por el Contralor General o el Contralor Regional, en su caso, que aprueba el sumario determinará si existe responsabilidad administrativa, y propondrá a la autoridad competente las sanciones que se estimen procedentes aplicar respecto de los inculpados, su absolución, el sobreseimiento de éstos, o del sumario administrativo, notificándose al efecto. Asimismo, la mencionada resolución, será comunicada a la autoridad que corresponda.
 
 Esta resolución constará de una parte expositiva, en la cual se señalarán los antecedentes que se han tenido presentes al momento de su dictación, una parte considerativa, en la que se expondrán, someramente, los hechos que se han establecido en el sumario y los fundamentos de derecho. Se analizarán, en su caso, los cargos formulados, las defensas planteadas y la prueba que obre en el proceso, además, se dejará constancia de la concurrencia de circunstancias modificatorias de responsabilidad, concluirá con la parte resolutiva, la que aprobará la Vista Fiscal, proponiendo la aplicación de medidas disciplinarias, la absolución, el sobreseimiento del involucrado o del sumario. Asimismo, se señalará la existencia de una eventual responsabilidad civil, y en caso de aparecer hechos que puedan constituir un ilícito penal, se dispondrá la remisión de los antecedentes a la autoridad competente.
 
@@ -238,7 +238,7 @@ En caso que el Contralor General o Contralor Regional, en su caso, estime que la
 
 #### Artículo 38º
 
-La resolución del Contralor General, que aprueba el sumario administrativo, será susceptible de recurso de reposición dentro de quinto día. Tratándose de la resolución del Contralor Regional, aquélla podrá ser objeto de recurso jerárquico, que se deducirá ante el primero dentro del plazo antes señalado.
+Derogado.
 
 #### Artículo 39º
 
