@@ -30,6 +30,30 @@ Resolución:
 
 1 Apruébase la nómina de postulantes seleccionados para el otorgamiento de subsidios habitacionales correspondiente a la selección del mes de septiembre de 2016, del llamado extraordinario del Programa de Protección del Patrimonio Familiar Título II, dispuesto en el Resuelvo N° 3.2 de la resolución exenta N° 360 (V. y U.), de 2016 y sus modificaciones, la que se adjunta y se entenderá formar parte integrante de esta resolución. Fíjase además el número de postulantes seleccionados, correspondientes a dicho mes y año, de acuerdo a la distribución de recursos efectuada en el Resuelvo número 2 de la presente resolución, para la Región de Coquimbo, según se indica en la siguiente tabla, que resume el número de seleccionados a partir del mes de enero de 2016:
 
+MES Daño Moderado/mayor
+
+constructora
+
+Enero 27
+
+Febrero 59
+
+Marzo 39
+
+Abril 82
+
+Mayo 133
+
+Junio 156
+
+Julio 91
+
+Agosto 94
+
+Septiembre 108
+
+TOTAL 789
+
 .
 
 2 Apruébase el monto de los recursos asignados en la selección del mes de septiembre de 2016, del llamado dispuesto por la resolución exenta N° 360 (V. y U.) de 2016 y sus modificaciones, conforme al cuadro siguiente:
@@ -37,6 +61,8 @@ Resolución:
 .
 
 3 Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al Resuelvo N° 1 de esta resolución.
+
+> **Nota.** El numeral 4.3 del número 4 de la Resolución 14454 Exenta, Vivienda, publicado el 27.12.2017, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el resuelvo 2, en la columna "UF Selección Septiembre", el guarismo "24.404" por "24.305" y en la columna "Total Asignado", el guarismo "154.869" por "154.770".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 

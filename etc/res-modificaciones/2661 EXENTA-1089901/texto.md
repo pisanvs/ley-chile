@@ -126,7 +126,7 @@ Será responsabilidad de las EP que participen de este llamado, la realización 
 
 a) Visto bueno en el sistema informático del Minvu en un módulo especialmente habilitado para ello.
 
-b) Preparar un Informe Técnico, el cual deberá incorporar al final del proceso un anexo firmado por la EP que certifique que los materiales adquiridos por el beneficiario fueron utilizados en la obra y que �stas se desarrollaron de acuerdo al apoyo técnico que él proporcionó.
+b) Preparar un Informe Técnico, el cual deberá incorporar al final del proceso un anexo firmado por la EP que certifique que los materiales adquiridos por el beneficiario fueron utilizados en la obra y que éstas se desarrollaron de acuerdo al apoyo técnico que él proporcionó.
 
 c) Acompañar un documento suscrito por el beneficiario que indique su conformidad con el trabajo realizado, según documento tipo proporcionado por el Serviu para estos efectos.
 
@@ -134,11 +134,23 @@ En caso de no contar con el documento a que se refiere el literal c) precedente 
 
 2. Apruébase la nómina de postulantes seleccionados para el otorgamiento de subsidios habitacionales correspondiente a la selección del mes de marzo del llamado extraordinario del Programa de Protección del Patrimonio Familiar Título II, dispuesto en el Resuelvo Nº 1 de la resolución exenta Nº 360 (V y U.), de 2016 y sus modificaciones, la que se adjunta y se entenderá formar parte integrante de esta resolución. Fíjase además el número de postulantes seleccionados, de acuerdo a la distribución de recursos efectuada en el Resuelvo número 3 de la presente resolución, para la Región de Coquimbo, según se indica en la siguiente tabla:
 
-.
+Nº Beneficiarios seleccionados
+
+Enero 27
+
+Febrero 59
+
+Marzo 36
+
+TOTAL 122
 
 3. Apruébase el monto de los recursos asignados en la selección del mes de marzo del llamado dispuesto por la resolución exenta Nº 360 (V. y U.), de 2016, conforme al cuadro siguiente:
 
-.
+U.F del U.F selección U.F selección U.F selección Saldo en
+
+llamado Enero Febrero Marzo U.F
+
+1.000.000 5.263 9.581 6.261 978.895
 
 4. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al Resuelvo Nº 4 de esta resolución.
 
