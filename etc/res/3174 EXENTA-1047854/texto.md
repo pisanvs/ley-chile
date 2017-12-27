@@ -564,6 +564,30 @@ referido informe deberá adjuntarse al
 
 formulario de solicitud de siembra.
 
+Sólo podrán trasladarse a la Región de
+
+Magallanes y Antártica Chilena aquellos
+
+peces que en dicho muestreo acrediten,
+
+por un certificador de la condición
+
+sanitaria, que están libres de P.
+
+salmonis. Los smolts que serán
+
+destinados a su cultivo en la Región
+
+de Magallanes, deberán hallarse vacunados
+
+para la prevención de Piscirickettsiosis.
+
+Esta medida deberá aplicarse transcurridos
+
+cuatro meses desde la publicación de la
+
+presente resolución en el Diario Oficial
+
 b) Una vez cumplido el plazo de 30 días a
 
 partir del término de la siembra, todo
@@ -1007,6 +1031,40 @@ las empresas de cultivo u otros, al correo
 diagnosticoSRS@sernapesca.cl, o por la vía que
 
 el Servicio determine.
+
+10. Medidas Preventivas para la Región de Magallanes y
+
+Antártica Chilena:
+
+a) Para prevenir el ingreso de patógenos a
+
+través de las carnadas, se restringe el
+
+ingreso y uso en la región de productos
+
+derivados de especies salmónidas para su
+
+empleo como carnada. Asimismo, se restringe
+
+el uso de carnadas de salmónidos generadas
+
+en la misma región.
+
+b) Sólo se permitirá el uso de redes nuevas, o
+
+en su defecto, aquellas que, habiendo sido
+
+usadas previamente en la misma región, hayan
+
+sido sometidas a los procedimientos de limpieza
+
+y desinfección establecidos por el Servicio, l
+
+o cual deberá ser verificable por un código de
+
+trazabilidad que permita identificarlas
+
+individualmente y realizar su seguimiento.
 
 #### Artículo segundo
 
