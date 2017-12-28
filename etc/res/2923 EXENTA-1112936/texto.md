@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 2.923 EXENTA, DE 29 DE NOVIEMBRE DE 2017
+
+Resolución exenta Nº 2.923, 29 de noviembre de 2017, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, aprueba Contrato Ad-Referéndum de Concesión 9 para operar una planta revisora clase AB en la comuna de Quillota y una planta revisora clase B en la comuna de Concón, en la Región de Valparaíso, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso y el concesionario "Revisiones Técnicas Aconcagua SpA", con vigencia de ocho años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Mauricio Candia Llancas, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
