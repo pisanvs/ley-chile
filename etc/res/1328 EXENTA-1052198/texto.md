@@ -74,4 +74,6 @@ h) Título o contrato, otorgado ante Notario Público, en que se otorgue la tene
 
 5. Las infracciones a lo dispuesto en la presente resolución serán sancionadas en conformidad a lo establecido en la ley N° 18.892, Ley General de Pesca y Acuicultura, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, actualmente Ministerio de Economía, Fomento y Turismo.
 
+6. Delégase en los Directores Regionales de Pesca y Acuicultura de las Regiones de Los Lagos, de Aysén del General Carlos Ibáñez del Campo y de Magallanes y la Antártica Chilena, o en quien los subrogue, el ejercicio de la función de firmar ‘por orden del Director Nacional de Pesca y Acuicultura' ", las resoluciones que rechacen y aquellas que acogen total o parcialmente las solicitudes de inscripción en el Registro Especial de Embarcaciones Transportadoras, así como las solicitudes de modificación, renuncia, cancelación y desistimiento; con el objeto de desconcentrar, agilizar y hacer más efectiva y eficiente la resolución de dichos trámites.
+
 Anótese, notifíquese, publíquese en el Diario Oficial y archívese.- Juan Luis Ansoleaga Bengoechea, Director Nacional.
