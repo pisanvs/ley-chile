@@ -14,7 +14,7 @@ Decreto:
 
 Amplíase en los siguientes profesionales, la lista de peritos de la región que se indica, de entre los cuales la entidad expropiante designará a los miembros de la Comisión encargada de determinar el monto provisional de la indemnización en un proceso expropiatorio, de conformidad al artículo 4º del decreto ley Nº 2.186, de 1978:
 
-REGIÓN DE LA ARAUCANÍA
+REGIÓN DEL BIOBÍO
 
 Ingenieros Agrónomos:
 
