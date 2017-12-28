@@ -92,6 +92,8 @@ Comuna Tocopilla:
 
 . Punta Atala
 
+. Caleta Indígena
+
 Comuna Mejillones:
 
 . Muelle Mejillones
@@ -101,6 +103,8 @@ Comuna Mejillones:
 . Bahía Corpesca
 
 . Caleta Michilla
+
+. Caleta Gualaguala
 
 Comuna Antofagasta:
 
@@ -122,6 +126,10 @@ Comuna Antofagasta:
 
 . El Cobre
 
+. Caleta Bolfin
+
+. Caleta Botija
+
 Comuna Taltal:
 
 . Muelle Taltal
@@ -129,6 +137,12 @@ Comuna Taltal:
 . Caleta Cifuncho
 
 . Caleta Paposo
+
+. La Colorada
+
+. Punta Plata
+
+. Huanillo
 
 REGIÓN DE ATACAMA
 
@@ -570,7 +584,7 @@ Comuna Tomé:
 
 . Cocholgue Caleta Grande
 
-. Coliumo
+. Muelle Artesanal de Coliumo
 
 . Dichato
 
@@ -1060,23 +1074,17 @@ Comuna Aysén:
 
 . Caleta Andrade
 
-. Puerto Aguirre
-
-. Puerto Aysén
-
 . Puerto Chacabuco
 
-. Playa Blanca
+. Muelle Aguas Quietas Puerto Aysén
 
-. Isla Costa
+. Muelle Emporcha Puerto Chacabuco
 
-. Muelle Oxxean
+. Muelle Oxxean Puerto Chacabuco
 
 Comuna Cisnes:
 
 . Caleta Puerto Gala
-
-. Estero Gato
 
 . Puerto Raúl Marín Balmaceda
 
@@ -1090,11 +1098,17 @@ Comuna Guaitecas:
 
 . Puerto Melinka
 
-. Repollal
+. Repollal Bajo
+
+. Repollal Alto
 
 Comuna Tortel:
 
-. Tortel
+. Muelle Tortel
+
+. Muelle Aeropuerto
+
+. Puerto Yungay
 
 REGIÓN DE MAGALLANES Y LA ANTÁRTIDA CHILENA
 
@@ -1102,15 +1116,11 @@ Comuna Cabo de Hornos:
 
 . Puerto Williams
 
-. Navarino
+. Terminal Pesquero Puerto Williams
 
 Comuna Porvenir
 
 . Bahía Chilota
-
-. Porvenir
-
-. Terminal Pesquero Corpesgo
 
 . Santa María
 
@@ -1118,19 +1128,17 @@ Comuna Porvenir
 
 . Dalmacia
 
+. Terminal Pesquero Porvenir
+
 Comuna Puerto Natales:
-
-. Puerto Natales (Terminal Pesquero)
-
-. Puerto Natales
 
 . Puerto Edén
 
 . Muelle EPA
 
-Comuna Punta Arenas:
+. Terminal Pesquero de Puerto Natales
 
-. Punta Arenas
+Comuna Punta Arenas:
 
 . Bahía Mansa (Punta Arenas)
 
@@ -1146,19 +1154,15 @@ Comuna Punta Arenas:
 
 . Punta Carrera
 
-. Río Canelo
-
 . Agua fresca
+
+. Muelle de Puerto Edén
 
 Comuna Río Verde:
 
 . Río Canelo
 
 . Muelle cruce canal Fitz Roy
-
-Comuna de Puerto Edén:
-
-. Muelle de Puerto Edén
 
 2. Asimismo a las embarcaciones de transporte autorizadas por la Ley General de Pesca y Acuicultura, se les reconocerá como puntos de desembarques de las capturas que se les entreguen, las que deberán cumplir con todas las medidas de administración establecidas para el efecto.
 
