@@ -1228,6 +1228,8 @@ Respecto a las menciones de sus estatutos, deberán incorporar, además de las r
 
 Será aplicable a estas entidades, en lo pertinente, lo dispuesto en los artículos 8º, 9º, 10 y 12 de la ley Nº19.857, que autoriza el establecimiento de empresas individuales de responsabilidad limitada. En todo lo demás se aplicarán las normas reguladas en este Título y, supletoriamente, las normas del Título XXXIII del Libro I del Código Civil, que resulten aplicables a las corporaciones, con las adecuaciones o excepciones derivadas de su naturaleza unipersonal.
 
+No obstante lo anterior, en caso de muerte del constituyente de la entidad, el secretario regional ministerial de Educación correspondiente, a solicitud de cualquier interesado, podrá autorizar que la entidad individual educacional continúe con la función educativa, con uno de sus sucesores como titular, o con otro interesado persona natural en caso de que ninguno de éstos lo desee, siempre que los estatutos no determinen una persona natural para estos efectos.
+
 ## Título VI
 
 Disposiciones Finales

@@ -874,7 +874,7 @@ De la prohibición del lucro en los establecimientos educacionales que reciben a
 
 #### Artículo segundo
 
-Hasta el 31 de diciembre de 2017, los sostenedores particulares que no estén organizados como una persona jurídica sin fines de lucro y que estén percibiendo la subvención del Estado que regula el decreto con fuerza de ley Nº2, del año 1998, del Ministerio de Educación, podrán transferir la calidad de sostenedor a una persona jurídica de derecho privado sin fines de lucro, sin que les sea aplicable lo señalado en el artículo 46, letra a), párrafo quinto, del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación.
+Hasta el 31 de diciembre de 2017, los sostenedores particulares que no estén organizados como una persona jurídica sin fines de lucro y que estén percibiendo la subvención del Estado que regula el decreto con fuerza de ley Nº2, del año 1998, del Ministerio de Educación, podrán transferir la calidad de sostenedor a una persona jurídica de derecho privado sin fines de lucro, sin que les sea aplicable lo señalado en el artículo 46, letra a), párrafo quinto, del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación. Para verificar el cumplimiento de lo anterior, se considerará la fecha en que se presente al Ministerio de Educación el instrumento mediante el que se realizó dicha transferencia.
 
 El sostenedor que haya adquirido su calidad de tal en conformidad al inciso anterior será el sucesor legal de todos los derechos y obligaciones que la persona transferente haya adquirido o contraído, con ocasión de la prestación del servicio educativo, manteniendo los establecimientos educacionales respecto de los cuales se traspasa la condición de sostenedor, el reconocimiento oficial con que contaren.
 
@@ -906,11 +906,11 @@ Los demás sostenedores podrán celebrar o continuar con sus contratos de arrend
 
 Solamente los sostenedores organizados como personas jurídicas sin fines de lucro a la fecha de publicación de esta ley, así como aquellos organizados como tales en virtud del artículo segundo transitorio, antes del 1 de julio de 2017, podrán extender dichos contratos hasta por cuatro años adicionales al plazo establecido en los incisos primero y segundo del artículo tercero transitorio, según corresponda. Vencido el plazo anterior, les será exigible el cumplimiento de lo dispuesto en el literal a) quáter del artículo 6 del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
 
-Los contratos de arrendamiento a que se refieren los incisos anteriores estarán exceptuados de las restricciones respecto de personas relacionadas a que se refiere la letra a) del inciso sexto del artículo 3º y el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+Los contratos de arrendamiento a que se refiere este artículo estarán exceptuados de las restricciones respecto de personas relacionadas a que se refiere la letra a) del inciso sexto del artículo 3º y el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
 
 Vencidos los plazos anteriormente señalados, dichos sostenedores podrán celebrar nuevos contratos de arrendamiento, los que deberán sujetarse a las siguientes reglas:
 
-1º No podrán celebrarse con personas relacionadas, de acuerdo a las reglas establecidas en la letra a) del inciso sexto del artículo 3º y en el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, salvo que el arrendador sea una persona jurídica sin fines de lucro o una persona jurídica de derecho público.
+1° En caso de pactarse entre personas relacionadas, estos contratos podrán extenderse hasta que el sostenedor adquiera la propiedad del inmueble o lo use en calidad de comodatario, de acuerdo a lo señalado en el literal a) quáter del artículo 6 del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
 
 2º Deberán estar inscritos en el Conservador de Bienes Raíces correspondiente.
 
@@ -924,7 +924,15 @@ El pago de rentas de los contratos de arrendamiento a que se refiere este artíc
 
 El propietario podrá solicitar al Servicio de Impuestos Internos la revisión del actual avalúo fiscal del inmueble en donde funciona el establecimiento educacional.
 
-La Superintendencia de Educación, en uso de sus atribuciones, fiscalizará el cumplimiento de lo dispuesto en este artículo.
+El sostenedor podrá pactar un canon de arrendamiento superior a los definidos en los incisos anteriores, siempre que el contrato que lo contemple tenga por único fin la prestación del servicio educativo y que se ajuste a los términos y condiciones que habitualmente prevalecen en el mercado para este tipo de operaciones en el lugar y tiempo de celebración. Para que dicho acuerdo sea procedente, el sostenedor deberá presentar el contrato respectivo a la Superintendencia de Educación en conjunto con una tasación bancaria que incorpore tanto el valor comercial del inmueble, como su correspondiente valor de arrendamiento.
+
+Dentro de los noventa días siguientes a la presentación de la tasación, la Superintendencia de Educación, basada en los antecedentes de que disponga que haya obtenido en el marco de sus atribuciones, podrá aceptar la tasación y el canon propuesto o definir uno alternativo. El canon aceptado deberá ser razonablemente proporcionado en consideración a los ingresos del establecimiento educacional por concepto de subvención y aportes del Estado, con el objeto de asegurar una adecuada prestación del servicio educativo. Si transcurrido el plazo ya referido la Superintendencia de Educación no se hubiere pronunciado, se aplicará lo establecido en el artículo 64 de la ley N° 19.880.
+
+El sostenedor podrá impugnar la decisión de la Superintendencia de Educación de acuerdo a lo establecido en el artículo noveno transitorio, reemplazándose para estos efectos la Superintendencia de Educación en el rol de la Corporación de Fomento de la Producción. El canon de arrendamiento autorizado por la comisión tasadora será el definitivo.
+
+La Superintendencia de Educación, en uso de sus atribuciones, fiscalizará el cumplimiento de lo dispuesto en este artículo y controlará el cumplimiento permanente de los requisitos establecidos en los incisos anteriores.
+
+Los contratos de arrendamiento celebrados o renovados bajo las normas del presente párrafo, respecto de inmuebles que estén sometidos a leyes especiales, no requerirán dar cumplimiento a aquellos requisitos establecidos en este artículo que sean incompatibles con las normas especiales que los regulan.
 
 #### Artículo quinto
 
@@ -962,13 +970,13 @@ El sostenedor a quien se le haya transferido tal calidad de acuerdo a lo dispues
 
 Para efectos de la adquisición a que hace referencia el inciso anterior, la nueva entidad sostenedora sin fines de lucro podrá contraer obligaciones con instituciones financieras públicas o privadas, de aquellas sujetas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras de conformidad al decreto con fuerza de ley Nº3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y otros cuerpos legales que se indican. En el caso de que dichas obligaciones se encuentren caucionadas con hipotecas, deberá estarse a lo dispuesto en el inciso final del artículo tercero transitorio.
 
-La entidad sostenedora sin fines de lucro podrá adquirir el inmueble en el que funciona el establecimiento educacional imputando mensualmente, con cargo a la subvención, hasta una doceava parte del 11% del avalúo fiscal, según el valor de la unidad de fomento a la fecha de celebración del contrato, hasta el término de veinticinco años, contado desde el plazo a que se refiere el inciso primero del presente artículo.
+La entidad sostenedora sin fines de lucro podrá adquirir el inmueble en el que funciona el establecimiento educacional imputando mensualmente, con cargo a la subvención, hasta una doceava parte del 11% del avalúo fiscal, según el valor de la unidad de fomento a la fecha de celebración del contrato, hasta el término de veinticinco años, contado desde el plazo a que se refiere el inciso primero del presente artículo. La Superintendencia de Educación podrá autorizar límites de imputación mensual y plazo superiores a los definidos en este inciso. Para ello, el solicitante deberá acompañar una resolución de la Corporación de Fomento de la Producción que apruebe una tasación comercial según lo dispuesto en la letra a) del artículo octavo transitorio. Por su parte, la Superintendencia tendrá a la vista las tasas de interés vigente de los bonos soberanos en unidades de fomento, para el mismo plazo, del Banco Central de Chile y la Tesorería General de la República y realizará el cálculo para verificar que el valor presente de la suma de las cuotas que se establezcan en el contrato de compraventa no supere al valor comercial del inmueble y que se celebre bajo los términos y condiciones que habitualmente prevalecen en el mercado en el lugar y tiempo de su celebración para este tipo de operaciones.
 
 En caso que el sostenedor haya sido beneficiario del aporte suplementario por costo de capital adicional establecido en la ley Nº19.532, que crea el régimen de jornada escolar completa diurna, el precio de la compraventa no podrá exceder el monto que resulte de restar al valor del inmueble, lo que el sostenedor deberá devolver al Fisco conforme a lo dispuesto en el artículo décimo transitorio.
 
-El monto que se impute mensualmente de conformidad al inciso anterior, deberá ser razonablemente proporcionado en consideración a los ingresos del establecimiento educacional por concepto de subvención y aportes del Estado, con el objeto de asegurar una adecuada prestación del servicio educativo. La Superintendencia de Educación, en uso de sus atribuciones, fiscalizará el cumplimiento de lo dispuesto anteriormente.
+El monto que se impute mensualmente de conformidad a los incisos anteriores, deberá ser razonablemente proporcionado en consideración a los ingresos del establecimiento educacional por concepto de subvención y aportes del Estado, con el objeto de asegurar una adecuada prestación del servicio educativo. La Superintendencia de Educación, en uso de sus atribuciones, fiscalizará el cumplimiento de lo dispuesto anteriormente.
 
-Para efectos de lo dispuesto en el inciso segundo, no se aplicará la prohibición de celebrar actos o contratos con personas relacionadas en los términos de la letra a) del inciso sexto del artículo 3º y el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+Para efectos de lo dispuesto en este artículo, no se aplicará la prohibición de celebrar actos o contratos con personas relacionadas en los términos de la letra a) del inciso sexto del artículo 3º y el artículo 3º bis del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
 
 El pago de lo dispuesto en este artículo se considerará una operación que cumple con los fines educacionales, de conformidad a lo dispuesto en el artículo 3º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
 
