@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.292 EXENTA, DE 6 DE DICIEMBRE DE 2017
+
+Por resolución exenta N° 1.292, de 6 de diciembre del 2017, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de la Araucanía, se autorizó el funcionamiento del terminal urbano para servicios de locomoción colectiva urbana prestado mediante Taxis Colectivos, ubicado en calle Pedro Montt N° 1271, en la comuna de Loncoche, Región de la Araucanía, de propiedad del Sr. Roberto Rebolledo Jara. El terminal de vehículos es clasificado en categoría "A-2" conforme a la tabla establecida en el artículo 4.13.6 del DS 47/92 del Ministerio de Vivienda y Urbanismo. La flota de diseño del terminal corresponde a 40 vehículos, el cual podrá ser utilizado hasta por una cantidad máxima diaria de 40 vehículos. Déjese constancia de lo siguiente: a) Hará uso del Terminal de Vehículos el servicio de la Línea 11 de Taxis Colectivos Urbanos de Loncoche. b) El Representante Legal del terminal es el Sr. Roberto Rebolledo Jara.-
+
+Ulises Asenjo Ramírez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía.
