@@ -30,7 +30,7 @@ a) Sistema de certificación: conjunto de reglas o principios que establecen la 
 
 b) Certificación: proceso en virtud del cual se reconoce que un prestador individual domina un cuerpo de conocimientos y/o experiencias relevantes en un determinado ámbito del trabajo asistencial, para el otorgamiento del correspondiente certificado.
 
-c) Especialidad: rama de las ciencias de la salud cuyo objeto es una parte limitada de las mismas, sobre la cual quienes la cultivan o ejercen poseen conocimientos, habilidades y destrezas definidas. Existen especialidades básicas o primarias, y especialidades derivadas de aquellas (también llamadas subespecialidades), las que serán certificadas conforme a los requisitos establecidos en los programas de formación y en las normas técnicas operativas indicadas en el inciso final del artículo 2º.
+c) Especialidad: rama de las ciencias de la salud cuyo objeto es una parte limitada de las mismas, sobre la cual quienes la cultivan o ejercen poseen conocimientos, habilidades y destrezas definidas. Existen especialidades y subespecialidades, las que serán certificadas conforme a los requisitos establecidos en los programas de formación y en las normas técnicas operativas indicadas en el inciso final del artículo 2º.
 
 d) Prestadores individuales de salud: las personas naturales que, de manera autónoma, dependiente de un prestador institucional o a través de un convenio con éste, se encuentran habilitadas legalmente para otorgar acciones de salud.
 
@@ -40,9 +40,9 @@ f) Entidades certificadoras: son aquellas autorizadas por el Ministerio de Salud
 
 #### Artículo 2°
 
-El Sistema de Certificación será aplicable a los prestadores individuales que otorguen acciones de salud, titulados en el país o cuyo título otorgado en el extranjero haya sido legalmente reconocido para su ejercicio en Chile, y comprenderá las especialidades médicas y odontológicas que a continuación se señalan y son materia de este Reglamento:
+El Sistema de Certificación será aplicable a los prestadores individuales que otorguen acciones de salud, titulados en el país o cuyo título otorgado en el extranjero haya sido legalmente reconocido para su ejercicio en Chile, y comprenderá las especialidades de los prestadores individuales de salud que a continuación se señalan y son materia de este Reglamento:
 
-A. Especialidades Médicas Primarias y Derivadas (Subespecialidades)
+A. Especialidades y Subespecialidades Médicas
 
 1. Anatomía patológica.
 
@@ -70,29 +70,29 @@ A. Especialidades Médicas Primarias y Derivadas (Subespecialidades)
 
 13. Diabetología.
 
-14. Endocrinología adulto
+14. Endocrinología adulto.
 
 15. Endocrinología pediátrica.
 
-16. Enfermedades respiratorias adulto
+16. Enfermedades respiratorias adulto.
 
 17. Enfermedades respiratorias pediátricas.
 
-18. Gastroenterología adulto
+18. Gastroenterología adulto.
 
-19. Gastroenterología pediátrico.
+19. Gastroenterología pediátrica.
 
 20. Genética clínica.
 
 21. Geriatría.
 
-22. Ginecología Pediátrica
+22. Ginecología Pediátrica.
 
 y de la Adolescencia
 
 23. Hematología.
 
-24. Imageneología.
+24. Imagenología.
 
 25. Infectología.
 
@@ -106,13 +106,13 @@ y de la Adolescencia
 
 30. Medicina interna.
 
-31. Medicina intensiva adulto
+31. Medicina intensiva adulto.
 
-32. Medicina intensiva pediátrico.
+32. Medicina intensiva pediátrica.
 
 33. Medicina legal.
 
-34. Medicina Materno Fetal
+34. Medicina Materno Fetal.
 
 35. Medicina nuclear.
 
@@ -120,13 +120,13 @@ y de la Adolescencia
 
 37. Nefrología adulto.
 
-38. Nefrología pediátrico.
+38. Nefrología pediátrica.
 
 39. Neonatología.
 
 40. Neurocirugía.
 
-41. Neurología adultos.
+41. Neurología adulto.
 
 42. Neurología pediátrica.
 
@@ -140,7 +140,7 @@ y de la Adolescencia
 
 47. Pediatría.
 
-48. Psiquiatría adultos.
+48. Psiquiatría adulto.
 
 49. Psiquiatría pediátrica y de la adolescencia.
 
@@ -154,11 +154,11 @@ y de la Adolescencia
 
 54. Urología.
 
-B. Especialidades Odontológicas Primarias y Derivadas (Subespecialidades)
+B. Especialidades y Subespecialidades Odontológicas
 
 1. Cirugía y traumatología buco maxilofacial.
 
-2. Cirugía Bucal
+2. Cirugía Bucal.
 
 3. Endodoncia.
 
@@ -172,7 +172,7 @@ B. Especialidades Odontológicas Primarias y Derivadas (Subespecialidades)
 
 8. Ortodoncia y ortopedia dento maxilofacial.
 
-9. Patología oral.
+9. Patología oral maxilofacial.
 
 1O. Periodoncia.
 
@@ -183,6 +183,26 @@ B. Especialidades Odontológicas Primarias y Derivadas (Subespecialidades)
 13. Somato-Prótesis.
 
 14. Trastornos temporomandibulares y dolor orofacial.
+
+C. Especialidades y Subespecialidades Farmacéuticas o Químico-Farmacéuticas
+
+1. Farmacia Clínica
+
+2. Farmacia Hospitalaria
+
+3. Laboratorio Clínico
+
+4. Salud Pública
+
+5. Laboratorio Forense
+
+D. Especialidades y Subespecialidades Bioquímicas
+
+1. Laboratorio Clínico
+
+2. Laboratorio Forense
+
+3. Salud Pública
 
 Dentro del marco reglamentario que el presente decreto establece, corresponderá al Ministerio de Salud dictar las normas técnicas operativas necesarias para uniformar y homologar los mecanismos y procedimientos que, de acuerdo a lo establecido en el Nº 13 del artículo 4°, del DFL Nº 1, de 2005, del Ministerio de Salud, deberán dar a conocer las entidades certificadoras autorizadas por el Ministerio de Salud para otorgar la certificación de las especialidades que este Reglamento dispone, normas que incluirán las siguientes materias:
 
@@ -206,6 +226,8 @@ prácticas, o documentación auténtica que permita
 
 la correspondiente certificación.
 
+. Especialidades y Subespecialidades Farmacéuticas o Químico-Farmacéuticas
+
 #### Artículo 3°
 
 Corresponderá al Ministerio de Salud verificar el cumplimiento de los requisitos exigidos en el artículo siguiente para que las entidades públicas y privadas, nacionales o extranjeras, que deseen certificar todas o alguna de las especialidades señaladas, sean autorizadas como entidades certificadoras y para su registro en la Superintendencia de Salud, conforme a lo dispuesto en el artículo 9°.
@@ -220,9 +242,9 @@ Las entidades certificadoras deberán acreditar o dar a conocer al Ministerio de
 
 1. Su existencia y capacidad legal.
 
-2. Las especialidades médicas y/u odontológicas del
+2. Las especialidades del listado oficial
 
-listado oficial que pretenden certificar.
+que pretenden certificar.
 
 3. La instancia o cuerpo directivo responsable de
 
@@ -308,7 +330,7 @@ Las entidades certificadoras fijarán y darán a conocer el período de vigencia
 
 #### Artículo 7°
 
-La Superintendencia de Salud, a través de su Intendencia de Prestadores de Salud, mantendrá un registro de las certificaciones de las especialidades médicas y odontológicas que tuvieren los prestadores individuales. Dicho registro deberá ser público y será llevado mediante sistemas informáticos, disponible en la página web institucional, será de carácter nacional y regional, estará debidamente actualizado y contendrá las menciones que permitan una adecuada información al público respecto de las características de las certificaciones.
+La Superintendencia de Salud, a través de su Intendencia de Prestadores de Salud, mantendrá un registro de las certificaciones de las especialidades que tuvieren los prestadores individuales. Dicho registro deberá ser público y será llevado mediante sistemas informáticos, disponible en la página web institucional, será de carácter nacional y regional, estará debidamente actualizado y contendrá las menciones que permitan una adecuada información al público respecto de las características de las certificaciones.
 
 Los profesionales que hubieren obtenido la certificación de su especialidad en conformidad con las normas del presente Reglamento, deberán mantener copia de la inscripción vigente en el registro señalado en el inciso anterior, visible a todo público que concurra a obtener sus servicios en el o los lugares donde habitualmente ejerzan sus labores.
 
@@ -392,7 +414,7 @@ Si como resultado del conocimiento de estos reclamos por parte de la Intendencia
 
 #### Artículo 12
 
-La Superintendencia de Salud podrá, en cualquier tiempo, proponer fundadamente al Ministerio de Salud la incorporación o la revocación del reconocimiento otorgado a una entidad certificadora de especialidades médicas y/u odontológicas autorizada para funcionar por dicho Ministerio, en este último caso, tras la instrucción del correspondiente procedimiento de fiscalización administrativa.
+La Superintendencia de Salud podrá, en cualquier tiempo, proponer fundadamente al Ministerio de Salud la incorporación o la revocación del reconocimiento otorgado a una entidad certificadora de especialidades autorizada para funcionar por dicho Ministerio, en este último caso, tras la instrucción del correspondiente procedimiento de fiscalización administrativa.
 
 #### Artículo 13
 
@@ -414,17 +436,9 @@ Para los efectos de facilitar la implementación del Sistema de Certificación e
 
 #### Artículo segundo
 
-Durante el plazo que para cada caso se indica, se reconocerán como certificadas las especialidades referidas en este Reglamento, respecto de aquellos profesionales que desde el 1º de enero de 2013 y hasta el 31 de diciembre de 2014, se encuentren en alguna de las situaciones siguientes:
+Derogado.
 
-1. Quienes posean un título o grado académico relativo a dichas especialidades otorgado por una Universidad del Estado o reconocida por éste. En este caso la certificación tendrá una vigencia de diez años contados desde la obtención del título o grado.
-
-2. Quienes posean un certificado extendido por las corporaciones de derecho privado denominadas Corporación Nacional Autónoma de Certificación de Especialidades Médicas (CONACEM), o por la Corporación Nacional Autónoma de Certificación de Especialidades Odontológicas (CONACEO) u otras cuyos estatutos contemplen entre sus objetivos emitir certificaciones o acreditaciones de especialización y que se encuentren realizando tales actividades a la fecha de publicación de este Reglamento. La vigencia en este caso será de siete años y se inicia el día en que la entidad otorga el certificado respectivo.
-
-3. Se reconocerán como certificadas por siete años, las especialidades de aquellos profesionales que se hayan desempeñado como especialistas durante a lo menos cinco años en establecimientos asistenciales del Sistema Nacional de Servicios de Salud, en establecimientos dependientes de alguna de la instituciones pertenecientes a la Defensa Nacional, a Carabineros de Chile o a su Dirección de Previsión, o en el Servicio Médico Legal.
-
-El desempeño invocado por el profesional deberá ser certificado por, según corresponda, el Director del Servicio de Salud en el cual preste sus servicios, el Director de Sanidad del Ejército o la Armada, el Jefe de la División de Sanidad de la Fuerza Aérea, el Director de Salud o el Director de Previsión de Carabineros de Chile, o el Director del Servicio Médico Legal, y la fecha de emisión de tal acto determinará el día en que principia el plazo de siete años a que hace mención el inciso precedente.
-
-Para que los profesionales indicados en los numerales anteriores se acojan a lo establecido en el inciso primero, deberán solicitar a la Superintendencia su incorporación en el registro de especialidades, presentando los originales o copias autorizadas de los documentos que demuestren dichas situaciones, o autorizándole a solicitar dicha información a las instituciones mencionadas. La Superintendencia deberá dejar expresa constancia en el mencionado registro del origen de este reconocimiento de certificación.
+> **Nota.** El numeral 6° del artículo único del Decreto 17, Salud, publicado el 29.12.2017, dejo sin efecto el presente artículo, sin perjuicio de lo anterior, las certificaciones que se hubieren obtenido en virtud de lo dispuesto en dicha norma conservarán su validez por los plazos de vigencia que dicha norma estableció para cada caso. Dicho plazo de vigencia, en todo caso, no podrá expirar antes del 31 de diciembre de 2019.
 
 #### Artículo tercero
 
@@ -432,9 +446,9 @@ Los reconocimientos de certificaciones de especialidades otorgados en virtud de 
 
 #### Artículo cuarto
 
-Entre el 1 de enero de 2015 y el 31 de diciembre de 2019, quienes posean un título universitario, otorgado por una universidad reconocida oficialmente en Chile, relativo a alguna de las especialidades referidas en el artículo 2º de este Reglamento, tras cumplir un programa de formación y entrenamiento que no se encontrare acreditado de conformidad con la normativa vigente, podrán solicitar a la Superintendencia su inscripción en el registro de especialidades. Desde su inscripción en el antedicho registro, se tendrán por certificadas tales especialidades por el plazo de cinco años.
+Entre el 1 de enero de 2015 y el 31 de diciembre de 2019, quienes posean un título o grado académico de magíster o doctorado universitario, otorgado por una universidad reconocida oficialmente en Chile, relativo a alguna de las especialidades referidas en el artículo 2º de este Reglamento, tras cumplir un programa de formación y entrenamiento que no se encontrare acreditado de conformidad con la normativa vigente, podrán solicitar a la Superintendencia su inscripción en el registro de especialidades. Desde su inscripción en el antedicho registro, se tendrán por certificadas tales especialidades por el plazo de cinco años.
 
-En la tramitación de las solicitudes de inscripción precedentemente señaladas se estará a lo dispuesto en el inciso final del artículo primero transitorio.
+Para que los profesionales indicados se acojan a lo establecido en el inciso anterior, deberán solicitar a la Superintendencia su incorporación en el registro de especialidades, presentando el original o copia autorizada del título o grado académico obtenido, o autorizándole a solicitar dicha información a la Universidad que corresponda. La Superintendencia deberá dejar expresa constancia en el mencionado registro del origen de este.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Jaime Mañalich Muxi, Ministro de Salud.- Harald Beyer Burgos, Ministro de Educación.
 
