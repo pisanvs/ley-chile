@@ -1542,9 +1542,11 @@ regiones Metropolitana y de Valparaíso;
 
 G) EN LA JEFATURA DEL DEPARTAMENTO DE CIUDADANÍA CULTURAL
 
-Otorgar autorizaciones, respecto de las interpretaciones y ejecuciones de la Orquesta de Cámara de Chile y del Ballet Folclórico Nacional, para su grabación, reproducción, transmisión o retransmisión, sin fines de lucro, por medio de organismos de radiodifusión o televisión, o el uso por cualquier otro medio, de tales interpretaciones o ejecuciones.
+1) Otorgar autorizaciones, respecto de las interpretaciones y ejecuciones de la Orquesta de Cámara de Chile y del Ballet Folclórico Nacional, para su grabación, reproducción, transmisión o retransmisión, sin fines de lucro, por medio de organismos de radiodifusión o televisión, o el uso por cualquier otro medio, de tales interpretaciones o ejecuciones.
 
 En ningún caso podrá autorizarse la distribución al público mediante venta, o cualquier otra transferencia de propiedad del original o de los ejemplares de su interpretación o ejecución.
+
+2) Suscribir y modificar acuerdos de cooperación sin transferencia de recursos, con personas naturales y/o jurídicas públicas o privadas para la realización de actividades sin fines de lucro en el espacio que ocupa el Centro de Extensión.
 
 #### Artículo segundo
 
