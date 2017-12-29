@@ -32,8 +32,6 @@ Considerando:
 
 Resuelvo:
 
-> **Nota.** El Artículo primero de la Resolución 14 Exenta, Energía, publicada el 18.01.2018, dispone la prórroga de vigencia de la presente norma a partir del 21 de enero y hasta que el Reglamento de Valorización de la Transmisión entre en vigencia, en conformidad a lo dispuesto en el artículo vigésimo transitorio de la ley N° 20.936.
-
 #### Artículo primero
 
 <!-- parte:9819290 -->
