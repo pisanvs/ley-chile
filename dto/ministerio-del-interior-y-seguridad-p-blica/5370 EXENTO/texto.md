@@ -316,209 +316,49 @@ Patente: GWBG.37
 
 15.- Fiscalía Regional Región del Libertador Bernardo O'Higgins Riquelme
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE- 2 MT
-
-Año: 2014
-
-Motor: YD25874583B
-
-Chassis: MNTVCGD40E6601131
-
-Color: Blanco
-
-I.N.R.V.M.: GWBG.41
-
-Patente: GWBG.41
+Deja sin Efecto
 
 16.- Eliminado.
 
 17.- Fiscalía Local de Rancagua
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE 2.5
-
-Año: 2014
-
-Motor: YD25872273B
-
-Chassis: MNTVCGD40E6600963
-
-Color: Blanco
-
-I.N.R.V.M.: GVGK.69-7
-
-Patente: GVGK.69
+Deja sin Efecto
 
 18.- Fiscalía Local de Santa Cruz
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara
-
-Año: 2014
-
-Motor: YD25872802B
-
-Chassis: MNTVCGD40E6601085
-
-Color: Blanco
-
-I.N.R.V.M.: GVZW.32-7
-
-Patente: GVZW.32
+Deja sin Efecto
 
 19.- Fiscalía Local de San Vicente de Tagua-Tagua
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE- 2 MT
-
-Año: 2014
-
-Motor: YD25873526B
-
-Chassis: MNTVCGD40E6601128
-
-Color: Blanco
-
-I.N.R.V.M.: GWBG 42-9
-
-Patente: GWBG.42
+Deja sin Efecto
 
 20.- Fiscalía Local de San Fernando
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE- 2 MT
-
-Año: 2014
-
-Motor: YD25873059B
-
-Chassis: MNTVCGD40E6601074
-
-Color: Blanco
-
-I.N.R.V.M.: GWBG.40-2
-
-Patente: GWBG.40
+Deja sin Efecto
 
 21.- Fiscalía Local de Rengo
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE- 2.5
-
-Año: 2014
-
-Motor: YD25866798B
-
-Chassis: MNTVCGD40E6601049
-
-Color: Blanco
-
-I.N.R.V.M.: GVGK.67-0
-
-Patente: GVGK.67
+Deja sin Efecto
 
 22.- Fiscalía Local de Pichilemu
 
-DEJA SIN EFECTO
+Deja sin Efecto
 
 23.- Fiscalía Local de Graneros
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE- 2.5
-
-Año: 2014
-
-Motor: YD25866108B
-
-Chassis: MNTVCGD40E6601051
-
-Color: Blanco
-
-I.N.R.V.M.: GVGK.68-9
-
-Patente: GVGK.68
+Deja sin Efecto
 
 24.- Fiscalía Regional Metropolitana Centro Norte
 
-Vehículo: Furgón
-
-Marca: Fiat
-
-Modelo: Doblo Cargo 1.2
-
-Año: 2014
-
-Motor: 5181178
-
-Chassis: ZFA263000E6122241
-
-Color: Blanco banchisa
-
-I.N.R.V.M.: GWCT.84-3
-
-Patente: GWCT.84
+Deja sin Efecto
 
 25.- Fiscalías Locales Región Metropolitana Centro Norte
 
-Vehículo: Automóvil
-
-Marca: Nissan
-
-Modelo: Versa Sence 1.6
-
-Año: 2014
-
-Motor: HR16763228J
-
-Chassis: 3N1CN7ADOFK398422
-
-Color: Plateado
-
-I.N.R.V.M.: GWCS.63-4
-
-Patente: GWCS.63
+Deja sin Efecto
 
 26.- Fiscalía Regional Metropolitana Centro Norte (Unidad Regional de Atención de Víctimas y Testigos)
 
-Vehículo: Automóvil
-
-Marca: Peugeot
-
-Modelo: 301 Allure HDI 1.6
-
-Año: 2014
-
-Motor: 10JBFM0035836
-
-Chassis: VF3DD9HPOEJ521061
-
-Color: Gris aluminium
-
-I.N.R.V.M.: GWCT.91-6
-
-Patente: GWCT.91
+Deja sin Efecto
 
 27.- Fiscalía Regional Metropolitana Oriente
 
@@ -624,243 +464,51 @@ Patente: GVZW.28
 
 33.- Fiscalía Local de Delitos Flagrantes y Primeras Diligencias (Fiscalía Metropolitana Oriente)
 
-Vehículo: Automóvil
-
-Marca: Peugeot
-
-Modelo: 301 Allure HDI 1.6
-
-Año: 2014
-
-Motor: 10JBFM0035677
-
-Chassis: VF3DD9HPOEJ521063
-
-Color: Gris aluminium
-
-I.N.R.V.M.: GWCT.87-8
-
-Patente: GWCT.87
+Deja sin Efecto
 
 34.- Fiscalía Local de Delitos Flagrantes y Primeras Diligencias (Fiscalía Metropolitana Oriente)
 
-Vehículo: Automóvil
-
-Marca: Peugeot
-
-Modelo: 301 Allure HDI 1.6
-
-Año: 2014
-
-Motor: 10JBFM0032085
-
-Chassis: VF3DD9HPOEJ5201498
-
-Color: Gris aluminium
-
-I.N.R.V.M.: GWCT.89-4
-
-Patente: GWCT.89
+Deja sin Efecto
 
 35.- Fiscalía Regional Metropolitana Sur y Fiscalía Local de Puente Alto
 
-Vehículo: Camioneta
-
-Marca: Mitsubishi
-
-Modelo: L200 KATANA CR
-
-Año: 2014
-
-Motor: 4D56UCFA1298
-
-Chassis: MMBJNKA40FD012532
-
-Color: Blanco fairy
-
-I.N.R.V.M.: GPHC.18-7
-
-Patente: GPHC.18
+Deja sin Efecto
 
 36.- Fiscalía Regional Metropolitana Sur y Fiscalías Especializadas de San Miguel
 
-Vehículo: Minibús
-
-Marca: Peugeot
-
-Modelo: Expert Active HDI 2.0
-
-Año: 2014
-
-Motor: 10DYZF4020868
-
-Chassis: VF3XDRHH4DZ059889
-
-Color: Gris aster
-
-I.N.R.V.M.: GWCT.86-K
-
-Patente: GWCT.86
+Deja sin Efecto
 
 37.- Fiscalía Local de Flagrancia (Fiscalía Regional Metropolitana Oriente)
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara
-
-Año: 2014
-
-Motor: YD25872900B
-
-Chassis: MNTVCGD40E6601151
-
-Color: Blanco
-
-I.N.R.V.M.: GVZW.33-5
-
-Patente: GVZW.33
+Deja sin Efecto
 
 38.- Fiscalía Local de San Bernardo
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE 2.5
-
-Año: 2014
-
-Motor: YD25872611B
-
-Chassis: MNTVCGD40E6601075
-
-Color: Blanco
-
-I.N.R.V.M.: GVGK.64-6
-
-Patente: GVGK.64
+Deja sin Efecto
 
 39.- Fiscalía Local de Maipú
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE 2.5
-
-Año: 2014
-
-Motor: YD258730051B
-
-Chassis: MNTVCGD40E6601072
-
-Color: Blanco
-
-I.N.R.V.M.: GVGK.71-9
-
-Patente: GVGK.71
+Deja sin Efecto
 
 40.- Fiscalía Local de Talagante
 
-Vehículo: Camioneta
-
-Marca: Mitsubishi
-
-Modelo: L200KATANAD CAB CRT 4X4 2.5
-
-Año: 2014
-
-Motor: 4D56 UCFG 5601
-
-Chassis: MMBJMKB40FD028277
-
-Color: Gris grafito
-
-I.N.R.V.M.: GWCT.78-9
-
-Patente: GWCT.78
+Deja sin Efecto
 
 41.- Fiscalía Local de Melipilla
 
-Vehículo: Camioneta
-
-Marca: Mitsubishi
-
-Modelo: L200 KATANA D CAB CRT 4X4 2.5
-
-Año: 2014
-
-Motor: 4D56 UCFG 4968
-
-Chassis: MMBJNKB40FD028267
-
-Color: Gris grafito
-
-I.N.R.V.M.: GWCT.83-5
-
-Patente: GWCT.83
+Deja sin Efecto
 
 42.- Fiscalía Local de Curacaví
 
-Vehículo: Camioneta
-
-Marca: Mitsubishi
-
-Modelo: L200 KATANA D CAB CRT 4X4 2.5
-
-Año: 2014
-
-Motor: 4D56 UCFG5644
-
-Chassis: MMBJNKB40FD028304
-
-Color: Gris grafito
-
-I.N.R.V.M.: GWCT.79-7
-
-Patente: GWCT.79
+Deja sin Efecto
 
 43.- Fiscalía Regional Metropolitana Occidente (Unidad Regional de Atención a Víctimas y Testigos)
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara
-
-Año: 2014
-
-Motor: YD25872900B
-
-Chassis: MNTVCGD40E6601151
-
-Color: Blanco
-
-I.N.R.V.M.: GVZW.33-5
-
-Patente: GVZW.33
+Deja sin Efecto
 
 44.- Fiscalía Regional Metropolitana Occidente (Unidad Regional de Atención a Víctimas y aTestigos)
 
-Vehículo: Automóvil
-
-Marca: Peugeot
-
-Modelo: 301 ALLURE HDI 1.6
-
-Año: 2014
-
-Motor: 10JBFM0035831
-
-Chassis: VF3DD9HP0EJ521060
-
-Color: Gris aluminium
-
-I.N.R.V.M.: GWCT.88-6
-
-Patente: GWCT.88
+Deja sin Efecto
 
 #### Artículo tercero
 
