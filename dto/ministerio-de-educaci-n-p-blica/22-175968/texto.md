@@ -86,11 +86,7 @@ c/u 0,03 UTM
 
 23.- Copia de autorizaciones que se otorgan a personas que solicitan exención de idioma extranjero u otra disciplina del Plan de Estudio: c/u 0,05 UTM
 
-24.- Autorización para ejercer docencia en establecimientos educacionales:
-
-* Sin título: c/u 0,10 UTM
-
-* Con título extranjero: c/u 0,30 UTM
+24.- Eliminado.
 
 25.- Copia de Certificado de Títulos o de estudios realizados en Centros de Formación Técnica, autorizados por el Ministerio de Educación pública, que extiende el Departamento de Exámenes y Colegios Particulares: c/u 0,10 UTM
 
@@ -110,7 +106,7 @@ c/u 0,03 UTM
 
 33.- Hoja de listado con información estadística generada por proceso computacional 0,006 UTM.
 
-34.- Compendio de Información Estadística del sector educación y cultura. 0,12 UTM
+34.- Compendio de Información Estadística del sector educación y cultura. 0,12 UTM.
 
 #### Artículo 2°
 
