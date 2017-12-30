@@ -1,0 +1,31 @@
+AUTORÍZASE CAMBIO DE REPRESENTANTE LEGAL Y DE DOMICILIO DE ENTIDAD QUE INDICA
+
+Santiago, 22 de diciembre de 2017.- Hoy se decretó lo que sigue:
+
+Núm. 2.680 exento.
+
+Vistos:
+
+Estos antecedentes, y lo dispuesto en la ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el decreto con fuerza de ley N° 3, de 2016, que fija el texto refundido, coordinado y sistematizado de la Ley Orgánica del Ministerio de Justicia y Derechos Humanos; en el decreto supremo de Justicia N° 1.597, de 1980, Reglamento Orgánico del Ministerio de Justicia; en el artículo 34 del decreto supremo de Justicia N° 110, de 1979; en el decreto supremo de Justicia N° 924, de 1981, sobre materias que serán suscritas por las autoridades que se indican con la fórmula "Por Orden del Presidente de la República"; en la resolución N° 1.600, de 2008, de la Contraloría General de la República; y lo informado por el Consejo de Defensa del Estado; y,
+
+Considerando:
+
+1.- Que, mediante decreto supremo de Justicia N° 840, de 25 de octubre de 1999, se autorizó a la entidad extranjera denominada "International Copper Association Ltd", con sede en la ciudad de Nueva York, Estados Unidos de América, para que desarrolle actividades en Chile, de acuerdo a los objetivos señalados en sus estatutos, siempre que éstos se ajusten a las leyes chilenas, no contravengan las buenas costumbres y el orden público.
+
+2.- Que, el numeral 3 del citado decreto, establece que "El domicilio de la citada entidad será la ciudad y comuna de Santiago, Región Metropolitana, calle Santo Domingo N° 550, oficina 1.-". A su turno, el numeral 4 del mismo decreto, señala, en lo que interesa, que "El representante de la entidad en Chile será don Pablo Botteselle de la Fuente, con domicilio en Chile, calle Santo Domingo 550, oficina 1, comuna de Santiago...".
+
+3.- Que, mediante presentación de fecha 30 de septiembre de 2015, la entidad denominada "International Copper Association Ltd", junto con indicar que su domicilio en Chile y el del nuevo mandatario será el ubicado en Avenida Vitacura N° 2909, oficina 303, comuna de Las Condes, Región Metropolitana de Santiago, acompañó copia autorizada de escritura pública de fecha 21 de abril de 2004, otorgada ante el notario público de la Cuadragésima Tercera Notaría de Santiago, don Juan Ricardo San Martín Urrejola, bajo el Repertorio N° 4740, donde constan la revocación de los poderes conferidos con fecha 14 de junio de 2000 -protocolizados en la notaría pública de don Sergio Carmona Barrales, con fecha 22 del mismo mes y año- y el nombramiento de don Miguel Riquelme Alarcón como representante legal de la entidad en Chile.
+
+4.- Que, al tenor de los reparos formulados por el Consejo de Defensa del Estado y de la ponderación que de los mismos ha efectuado esta secretaría de Estado, la entidad en examen ingresó tres nuevas presentaciones, con fechas 21 de marzo, 12 y 28 de septiembre de 2017, adjuntado a la primera de ellas copia autorizada de escritura pública de fecha 12 de septiembre de 2016, otorgada ante el notario público de la Décima Novena Notaría de Santiago, don Pedro Ricardo Reveco Hormazábal, bajo el Repertorio N° 17.891, mediante la cual se realizó lo siguiente: a) En relación a la precitada escritura pública de fecha 21 de abril de 2004, la ratificación tanto del representante en Chile de la entidad en referencia, en favor de don Miguel Ángel Riquelme Alarcón, como de la revocación de poderes que consta en la cláusula tercera de dicha escritura, además de la modificación de los poderes bancarios, en los términos que indica; y b) En relación al mandato y revocaciones que constan en instrumento otorgado en la ciudad de Nueva York, con fecha 30 de julio de 2012, anotado en el Libro de Repertorios N° 8, bajo el N° 37, del Consulado General de Chile en Nueva York, la revocación total de los mismos.
+
+5.- Que, por tanto, los antecedentes del rubro cumplen -en la parte que les resultan aplicables- los requisitos señalados en el citado decreto N° 110, de 1979, de tal manera que se estima procedente autorizar el cambio de representante y de domicilio solicitado.
+
+Decreto:
+
+1.- Autorízase cambio de representante legal y de domicilio de la entidad denominada "International Copper Association Ltd", persona jurídica extranjera autorizada para realizar actividades en Chile mediante decreto supremo de Justicia N° 840, de 25 de octubre de 1999, con sede en la ciudad de Nueva York, Estados Unidos de América, en el sentido de establecer que, en lo sucesivo, su domicilio en Chile será el ubicado en Avenida Vitacura N° 2909, oficina 303, comuna de Las Condes, Región Metropolitana de Santiago, y que su representante, también en Chile, será don Miguel Ángel Riquelme Alarcón, con idéntico domicilio que la entidad, persona que en su carácter de mandatario de la organización tendrá su administración y representación con las más amplias facultades y atribuciones, en la forma en que se acredita en escritura pública de fecha 21 de abril de 2004, otorgada ante el notario público de la Cuadragésima Tercera Notaría de Santiago, don Juan Ricardo San Martín Urrejola, bajo el Repertorio N° 4.740, la cual fue ratificada y corregida mediante escritura pública de fecha 12 de septiembre de 2016, otorgada ante el notario público de la Décima Novena Notaría de Santiago, don Pedro Ricardo Reveco Hormazábal, bajo el Repertorio N° 17.891, en los términos que se indican en el considerando 3 del presente decreto.
+
+2.- El mandatario de la mencionada entidad deberá poner en conocimiento del Presidente de la República toda modificación que en ella opere, especialmente, aquellas relacionadas con sus actividades en el país, como asimismo, el cambio de representante o cualquier alteración en sus facultades o cambio de su sede.
+
+Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Jaime Campos Quiroga, Ministro de Justicia y Derechos Humanos.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Nicolás Mena Letelier, Subsecretario de Justicia.
