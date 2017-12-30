@@ -130,13 +130,11 @@ Gordo s/Nº, comuna de
 
 Arica, I Región.
 
-- Coordenadas geográficas : 18º 29' 20" Latitud Sur
+- Coordenadas geográficas : 18º 29' 11" Latitud Sur
 
-70º 19' 10" Longitud Oeste
+70º 19' 03" Longitud Oeste
 
-Datum: Provisorio
-
-Sudamericano 1956.
+Datum: WGS 84
 
 4.- Los plazos de inicio y término de obras, de inicio de servicio, se contarán a partir de la publicación en el Diario Oficial del presente decreto.
 
