@@ -14,7 +14,7 @@ Considerando:
 
 Resuelvo:
 
-I.- Dispónese el siguiente modelo de cálculo, aplicable para la determinación de la renta en los trámites de concesiones marítimas.
+### I. Dispónese el siguiente modelo de cálculo, aplicable para la determinación de la renta en los trámites de concesiones marítimas
 
 El presente modelo se aplicará sobre la base de los criterios, variables y ponderaciones que a continuación se señalan:
 
@@ -22,7 +22,13 @@ El presente modelo se aplicará sobre la base de los criterios, variables y pond
 
 La sumatoria de las ponderaciones de cada uno de los criterios antes indicados dará como resultado un factor, que determinará el porcentaje de renta a pagar, conforme a la siguiente tabla:
 
-II.- Dispónese, en relación al cálculo de renta referido a las renovaciones de concesiones marítimas, en el evento en que producto de la aplicación de este nuevo modelo el porcentaje de renta resultante exceda al doble de aquel fijado en el acto cuya renovación se solicita, por esta única renovación y sólo durante los primeros cinco años, se aplicará el porcentaje de renta que resulte de la aplicación del modelo reducido a la mitad. Transcurrido dicho plazo, se aplicará la renta resultante del modelo en su totalidad.
+II. Dispónese, en relación al cálculo de renta referido a las renovaciones de concesiones marítimas, en el evento que producto de la aplicación de este nuevo modelo el porcentaje de renta resultante exceda al doble de aquel fijado en el acto cuya renovación se solicita o que producto de la multiplicación del porcentaje de renta por el valor de tasación de los terrenos aumente a más del doble el valor de la renta por metro cuadrado de concesión marítima, que por esta única renovación se aplicará el porcentaje de renta que resulte de la aplicación del modelo del numeral precedente, reducido a la mitad
+
+III. En el caso de personas jurídicas con fines de lucro que se clasifiquen en microempresas, pequeñas empresas o medianas empresas, de acuerdo a lo establecido en la ley N° 20.416, el porcentaje de renta resultante de lo establecido en el numeral I se disminuirá en un tercio, un cuarto o un quinto respectivamente.
+
+Las personas jurídicas sin fines de lucro que acrediten recibir subsidios o aportes directos del Estado o se comprometan con un plan de actividades en beneficio de la comunidad que cuente con la opinión favorable del respectivo consejo comunal de organizaciones de la sociedad civil, contemplado en la ley N° 20.500, deberán pagar la renta establecida en el numeral I de esta resolución reducida a la mitad.
+
+Estos beneficios serán incompatibles con lo dispuesto en el numeral II de la presente resolución y no podrán significar un pago inferior al señalado en el decreto con fuerza de ley N° 340, de 1960, sobre concesiones marítimas.
 
 > **Nota.** El numeral 1 de la Resolución 7301 Exenta, Defensa Nacional, publicada el 29.09.2014, modifica la tabla inserta en el punto 4 del numeral I de la presente norma, en el sentido de reemplazar donde dice: Tasa de pobreza comunal por: Tasa de pobreza comunal Alta 1 Media 2 Baja 3.
 
