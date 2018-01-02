@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1736, de 14 de diciembre de 2017, se complementó el numeral primero del Decreto (E) MOP N° 1363, de 26 de octubre de 2017, en el sentido que los lotes de terrenos expropiados N°s. 11, 12, 13, 14, y 15, lo fueron para la obra "Mejoramiento R.Y-71, PORVENIR - ONAISSIN, TRAMO I, PROV. T. DEL FUEGO". Asimismo, modificó el numeral sexto del Decreto (E) MOP N° 1444, de 9 de noviembre de 2017, en el sentido que el gasto ascendente a $37.267.500, se debe realizar con cargo al Certificado del Servicio Gobierno Regional de Magallanes y Antártica Chilena, División de Análisis y Control de Gestión, Código BIP: 30354173-0, de fecha 25 de julio de 2017.
