@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 1735, de 11 de diciembre de 2017, se modificó el Decreto MOP. Exento Nº 283, de 28 de abril de 2017, que ordenó la expropiación del lote 51-C1, en los siguientes aspectos: deja sin efecto el Convenio Ad-Referéndum de Indemnización Definitiva de Expropiación de 31 de enero de 2017, modifica numerales 2º, 3º y 6º, esto es: superficie lote 51-c1: 429,34; autoriza nuevo Convenio Ad-Referéndum de Indemnización Definitiva de Expropiación, de 31 de octubre de 2017, que fija la indemnización: en $16.493.366.- e Imputa el gasto ascendente a dicha cantidad a la Asignación Presupuestaria 3102003, Sub-Asignación 30114721-0, respectivamente. En lo no modificado permanece plenamente vigente el Decreto MOP. Exento Nº 283, de 28 de abril de 2017. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
