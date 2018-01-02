@@ -1,0 +1,7 @@
+DERECHOS DE AGUA EN COMUNA DE RÍO CLARO
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 7.734, del 6 de diciembre de 2017, conforme artículo 5º Transitorio del Código de Aguas, ratificó, aclaró y complementó la resolución exenta del Servicio Agrícola y Ganadero Nº 583 de 28 de octubre de 1981, que aprobó el Proyecto de Distribución de Aguas del Proyecto de Parcelación "Viena", formado por la totalidad de los predios "Santa Inés" y "Fundo Los Robles" y la parte efectivamente expropiada del "Fundo Viena", todos ubicados en la Comuna de Río Claro, Provincia de Talca, Región del Maule, en el sentido de expresar en unidad de volumen por unidad de tiempo los derechos de aprovechamiento de aguas, señalados en acciones en dicha resolución, aguas superficiales y corrientes que derivan del Río Maule, conducidas por el Canal Ramal Maule Norte y Canal Pelarco-Buena - Unión, derivados del Canal Maule Norte captadas en la bocatoma denominada Armerillo, que se ubica en las coordenadas UTM: 309808 E, 6047209 N, PSAD 1956 19 H Sur, y además establecer que los derechos de aprovechamiento de aguas son de uso consuntivo, de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13º ley Nº 18.377.-
+
+Director Nacional.
