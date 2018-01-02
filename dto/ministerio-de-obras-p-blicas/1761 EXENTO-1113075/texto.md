@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento Nº 1761, de 15 de diciembre de 2017, y de conformidad con la facultad otorgada en el art.3º letra a), 10º letra c), 14º letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno Nº 13, superficie 357 m2, Rol Nº 546-348, Comuna La Unión, para la obra "REPOSICIÓN PUENTE RÍO BUENO EN RUTA T-71". La comisión de peritos, integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YÁÑEZ RIFFO y MARÍA SOLEDAD NÚÑEZ ARROYO, fijó el valor de tasación con fecha 31 de mayo de 2013, complementada por Acta de 22 de agosto de 2016, acordándose la indemnización con su propietario NICASIO IRENIO SOLIS RUDOLPH en la cantidad de $2.861.908.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
