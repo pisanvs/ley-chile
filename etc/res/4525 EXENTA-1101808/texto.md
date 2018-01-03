@@ -32,6 +32,8 @@ Este llamado contempla 3 selecciones, en las cuales podrán postular los proyect
 
 2. Los recursos totales comprometidos por cada región para este Llamado Especial se detallan en el cuadro siguiente, e incluyen el monto del subsidio más la asistencia técnica respectiva.
 
+.
+
 ### 3. El proceso del llamado comprenderá las siguientes etapas:
 
 a. Gestión de la demanda con municipios, organizaciones comunitarias y vecinos. Esta tarea estará a cargo de la Seremi respectiva.
