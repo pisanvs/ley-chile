@@ -1,4 +1,4 @@
-FIJA NORMA TÉCNICA PARA EL USO DE LA BANDA DE FRECUENCIAS 380 - 395 MHz POR SERVICIOS LIMITADOS DE TELECOMUNICACIONES
+FIJA NORMA TÉCNICA PARA EL USO DE LAS BANDAS DE FRECUENCIAS 380 - 395 MHz y 2.300 - 2.325 MHz POR SERVICIOS LIMITADOS DE TELECOMUNICACIONES
 
 Santiago, 10 de julio de 2017.- Con esta fecha se ha resuelto lo que sigue:
 
@@ -22,13 +22,13 @@ b) La necesidad de administrar eficientemente la utilización del espectro radio
 
 Resuelvo:
 
-Fíjese la siguiente norma técnica para el uso de la banda de frecuencias 380 - 395 MHz por servicios limitados de telecomunicaciones.
+Fíjese la siguiente norma técnica para el uso de la las bandas de frecuencias 380 - 395 MHz y 2.300 - 2.325 MHz por servicios limitados de telecomunicaciones.
 
 #### Artículo 1°
 
 <!-- parte:9815317 -->
 
-Destínese la banda de frecuencias 380 - 395 MHz para ser empleada, en forma compartida, por aplicaciones de telecomunicaciones industriales, la que será autorizada mediante permiso de servicio limitado de telecomunicaciones.
+Destínese las bandas de frecuencias 380 - 395 MHz y 2.300 - 2.325 MHz para ser empleada, en forma compartida, por aplicaciones de telecomunicaciones industriales, la que será autorizada mediante permiso de servicio limitado de telecomunicaciones.
 
 #### Artículo 2°
 
@@ -41,6 +41,10 @@ El servicio será operado mediante el empleo de una plataforma multiservicios de
 <!-- parte:9815319 -->
 
 La canalización a emplear en la banda 380 - 395 MHz será la siguiente:
+
+.
+
+La canalización a emplear en la banda 2.300 - 2.325 MHz será la siguiente:
 
 .
 
