@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A LA "EMPRESA PORTUARIA ANTOFAGASTA"
+
+Mediante decreto exento Nº E-650, de 20 de diciembre de 2017, el Ministerio de Bienes Nacionales otorgó en concesión gratuita, a la "Empresa Portuaria Antofagasta", RUT Nº 73.968.300-9, el inmueble fiscal ubicado aprox. a 5 Kms. al Norte del Nudo Uribe, sector La Negra, comuna, provincia y Región de Antofagasta; Rol Servicio de Impuestos Internos Nº 6748-1; amparado por inscripción global a nombre del Fisco a fojas 3.497 vta. Nº 3.775, del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, correspondiente al año 2014; singularizado en el Plano Nº 02101-8.856-C.U.; de una superficie aproximada de 10.006,3 m². La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinarlo al proyecto "Desarrollo Plataforma Logística Área Respaldo Portuario La Negra". El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Magdalena Badilla Rodríguez, Jefa de División Jurídica.
