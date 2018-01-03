@@ -58,7 +58,7 @@ Resolución:
 
 7. Adicionalmente a los montos antes indicados, los postulantes seleccionados, tendrán 1 Unidad de Fomento destinada al pago de gastos operacionales a que se refiere el artículo 50 bis, del DS N° 52 (V. y U.), de 2013.
 
-8. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS N° 52 (V. y U.), de 2013, será de 362.550 Unidades de Fomento correspondientes a 1.860 subsidios.
+8. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS N° 52 (V. y U.), de 2013, será de 364.487 Unidades de Fomento correspondientes a 1.871 subsidios.
 
 9. Exímese al presente llamado del cumplimiento de la condición establecida en la letra b. del artículo 15 del DS N° 52 (V. y U.), de 2013, relativa a la necesidad de distribuir regionalmente el número de personas que se podrán seleccionar.
 
