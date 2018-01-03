@@ -1,4 +1,4 @@
-FIJA NORMA TÉCNICA PARA EL USO DE LA BANDA DE FRECUENCIAS 2.300 - 2.400 MHz
+FIJA NORMA TÉCNICA PARA EL USO DE LA BANDA DE FRECUENCIAS 2.330 - 2.400 MHz
 
 Santiago, 24 de marzo de 2008.- Con esta fecha se ha resuelto lo que sigue:
 
@@ -16,11 +16,11 @@ Considerando: La necesidad de administrar eficientemente la utilización del esp
 
 Resuelvo:
 
-Fíjase la siguiente norma técnica para el uso de la banda de frecuencias 2.300 - 2.400 MHz.
+Fíjase la siguiente norma técnica para el uso de la banda de frecuencias 2.330 - 2.400 MHz.
 
 #### Artículo 1º
 
-Se destina la banda 2.300 - 2.390 MHz para la operación de equipos digitales de transmisión de datos, del servicio fijo o móvil, que se autorice mediante la correspondiente concesión de servicio intermedio de telecomunicaciones.
+Se destina la banda 2.330 - 2.390 MHz para la operación de equipos digitales de transmisión de datos, del servicio fijo o móvil, que se autorice mediante la correspondiente concesión de servicio intermedio de telecomunicaciones.
 
 #### Artículo 2º
 
@@ -28,11 +28,9 @@ La distribución de bloques de frecuencias es la siguiente:
 
 Bloque Banda de frecuencias (MHz)
 
-A 2.300 - 2.330 B 2.330 - 2.360 C 2.360 - 2.390
+A 2.330 - 2.360
 
-Nota: La banda 2.390 - 2.400 MHz es una banda de guarda respecto del servicio que opera en la banda 2.400 -
-
-2.483,5 MHz.
+B 2.360 - 2.390
 
 #### Artículo 3º
 
@@ -42,7 +40,7 @@ En caso de eventuales interferencias, las respectivas concesionarias deberán co
 
 #### Artículo 4º
 
-Las respectivas concesiones serán otorgadas por concurso público. La zona de servicio podrá ser nacional o regional según lo dispongan las bases del respectivo concurso. En una misma zona geográfica el servicio podrá ser suministrado hasta por 3 concesionarias.
+Las respectivas concesiones serán otorgadas por concurso público. La zona de servicio podrá ser nacional o regional según lo dispongan las bases del respectivo concurso. En una misma zona geográfica el servicio podrá ser suministrado hasta por 2 concesionarias.
 
 #### Artículo 5º
 
@@ -50,9 +48,9 @@ Las radioestaciones de servicio fijo se podrán ubicar en cualquier parte dentro
 
 #### Artículo 6º
 
-En la banda 2.300 - 2.400 MHz, los enlaces fijos de las instituciones a que se refiere el artículo 11º de la Ley General de Telecomunicaciones coordinados con anterioridad al 25 de enero de 2008, y los enlances subsidiados mediante el Fondo de Desarrollo de las Telecomunicaciones, hasta la misma fecha, continuarán en operación de acuerdo a los plazos que coordine la Subsecretaría de Telecomunicaciones.
+En la banda 2.330 - 2.400 MHz, los enlaces fijos de las instituciones a que se refiere el artículo 11º de la Ley General de Telecomunicaciones coordinados con anterioridad al 25 de enero de 2008, y los enlances subsidiados mediante el Fondo de Desarrollo de las Telecomunicaciones, hasta la misma fecha, continuarán en operación de acuerdo a los plazos que coordine la Subsecretaría de Telecomunicaciones.
 
-Los enlaces fijos, distintos de los especificados en el párrafo anterior, en caso que interfieran a un servicio normado en la banda 2.300 - 2.400 MHz, ante requerimiento de la Subsecretaría de Telecomunicaciones, estarán obligados a interrumpir sus transmisiones dentro del plazo que fije para tal efecto, el que en ningún caso podrá ser inferior a seis ni superior a dieciocho meses.
+Los enlaces fijos, distintos de los especificados en el párrafo anterior, en caso que interfieran a un servicio normado en la banda 2.330 - 2.400 MHz, ante requerimiento de la Subsecretaría de Telecomunicaciones, estarán obligados a interrumpir sus transmisiones dentro del plazo que fije para tal efecto, el que en ningún caso podrá ser inferior a seis ni superior a dieciocho meses.
 
 Anótese y publíquese en el Diario Oficial.- Pablo Bello Arellano, Subsecretario de Telecomunicaciones.
 
