@@ -68,17 +68,15 @@ Esta misma condición aplicará cuando el postulante o su cónyuge, cuenten con 
 
 .
 
-*Las familias que hayan sido beneficiadas con un subsidio de acondicionamiento térmico el año 2008 o 2009, sólo podrán postular a:
+* En casos de Viviendas con Pisos Ventilados se podrá aumentar en 40 UF estos montos.
 
-- El subsidio base para alcanzar el estándar que se define en el respectivo PDA, lo cual se aplicará completando la solución constructiva existente.
+** Al monto de subsidio de regularización se le podrán adicionar hasta 50 UF en casos de viviendas que
 
-- Al Incremento por Regularización que se indica en la tabla precedente.
+no tengan ningún recinto con recepción final.
 
-* En casos de Viviendas con Pisos Ventilados, estos montos se podrán aumentar en 40 UF.
+*** Este monto puede duplicarse cuando el elemento de la cubierta contenga asbesto, para realizar el
 
-** Al monto de subsidio de regularización se le podrán adicionar hasta 50 UF en casos de viviendas que no tengan ningún recinto con recepción final.
-
-*** Este monto puede duplicarse cuando el elemento de la cubierta contenga asbesto, para realizar el recambio completo de este.
+recambio completo de este.
 
 4.2.2 Para efectos de una correcta interpretación de la tabla precedente, deberán tenerse en consideración las definiciones que a continuación se indican:
 
@@ -122,7 +120,7 @@ Todos los proyectos que se apliquen en viviendas sociales aplicarán el crédito
 
 5.1.3 Deberán contar con el ahorro mínimo al que se refiere el punto 4.1 de la presente resolución.
 
-5.1.4 Podrán postular al presente llamado familias que hayan resultado beneficiadas anteriormente con un subsidio del Título II, del Programa de Protección del Patrimonio Familiar. Además, podrán postular familias que hayan sido beneficiadas con un subsidio de Acondicionamiento Térmico, hasta el año 2009 inclusive, siempre y cuando ese subsidio no haya permitido el acondicionamiento completo de la vivienda.
+5.1.4 Podrán postular al presente llamado familias que hayan resultado beneficiadas anteriormente con un subsidio del Título II, del Programa de Protección del Patrimonio Familiar. Además, podrán postular familias que hayan sido beneficiadas con un subsidio de Acondicionamiento Térmico, hasta el año 2010 inclusive.
 
 5.1.5 No se exigirá a las familias postulantes contar con el instrumento de Caracterización Socioeconómica. No obstante, sólo podrán postular al Incremento por Complejidad Técnica de este llamado, las familias hasta el 70% de la población más vulnerable del país de conformidad a la información provista por el Registro Social de Hogares.
 
