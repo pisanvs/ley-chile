@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 7.786 EXENTA, DE 6 DE DICIEMBRE DE 2017
+
+Por resolución exenta Nº 7.786, de fecha 6 de diciembre de 2017, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana, se modificó resolución exenta Nº 5.108, de 5 de octubre de 2015, de misma Secretaría Regional Ministerial, que aprueba nueva sede de Escuela de Conductores No Profesionales o Clase B "Automóvil Club de Chile Limitada", RUT Nº 77.323.230-K, ubicada en Manquehue Sur Nº 659, comuna de Las Condes, sólo en sentido de aprobar cambio de Director de dicha sede, siendo éste el señor José Luis Alfonso Palma Rodríguez, RUT Nº 6.694.017-9. En todo lo no modificado, se mantienen íntegramente vigentes las demás estipulaciones aprobadas por resolución exenta Nº 5.108, de 05.10.2015, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.-
+
+Matías Salazar Zegers, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
