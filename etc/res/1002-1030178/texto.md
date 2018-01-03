@@ -110,6 +110,8 @@ n) Instruir y resolver los sumarios administrativos e investigaciones sumarias q
 
 En el caso de investigaciones sumarias del decreto ley Nº 799, de 1974, la resolución que ordene la aplicación de una medida disciplinaria, podrá ser objeto de recurso de reposición y/o jerárquico, para ante el Contralor Regional o el Contralor General, respectivamente, dentro del plazo de 5 días contados desde su notificación
 
+Asimismo, instruir y resolver los procedimientos sancionatorios que disponga el Contralor Regional, establecidos en la ley Nº 20.880, sobre Probidad de la Función y Prevención de los Conflictos de Intereses, los que se sustanciarán en conformidad a esta. La resolución que ordene la aplicación de una sanción, podrá ser objeto de recurso de reposición y/o jerárquico, para ante el Contralor Regional o el Contralor General, según corresponda, dentro del plazo señalado en el párrafo anterior.
+
 ñ) Autorizar la apertura y cierre de las cuentas corrientes bancarias para el manejo de los recursos del sector público. Igualmente, autorizar a los giradores de dichas cuentas.
 
 o) Suscribir convenios con municipalidades que se encuentren dentro de su cobertura, para la revisión previa de juridicidad de los actos que dicten, conforme a las orientaciones que imparta el Contralor General y a lo que se pacte en dichos convenios; y aprobar mediante resolución tales convenios.
