@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE TARAPACÁ, A LA "JUNTA NACIONAL DE JARDINES INFANTILES"
+
+Mediante decreto exento Nº E-649, de 20 de diciembre de 2017, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Junta Nacional de Jardines Infantiles", RUT Nº 70.072.600-2, el inmueble fiscal ubicado en calle 12 de Febrero Nº 431-435, comuna y provincia de Iquique, Región de Tarapacá; Rol Servicio de Impuestos Internos Nº 237-6; amparado por inscripción a nombre del Fisco a fojas 298 vta. Nº 391, del Registro de Propiedad del Conservador de Bienes Raíces de Iquique, correspondiente al año 1981; singularizado en el Plano Nº I-2-3.222-C.R.; de una superficie aproximada de 300,3 m². La concesión se otorga por un plazo de 8 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para destinar el inmueble a dar continuidad a la operación y funcionamiento del Jardín Infantil y Sala Cuna denominado "Jardín Infantil Rayito de Luz". El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Magdalena Badilla Rodríguez, Jefa de División Jurídica.
