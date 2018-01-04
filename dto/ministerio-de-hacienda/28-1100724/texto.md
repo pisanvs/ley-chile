@@ -70,6 +70,8 @@ iii. Las edades antes indicadas deben cumplirse dentro de los tres años siguien
 
 iv. Reunir los demás requisitos que establece la ley para percibir la bonificación adicional.
 
+e) Los funcionarios y funcionarias que cumplan los requisitos establecidos en los literales ii), iii), y iv) de la letra d) del artículo 2° del presente reglamento, siempre que hayan obtenido u obtengan pensión de invalidez regulada en el decreto ley N° 3.500, de 1980, a contar del 1° de abril de 2017
+
 Los funcionarios y funcionarias señalados en las letras a) y b) del inciso anterior que postulen en el proceso 2018 y que cesen en su cargo o terminen su contrato de trabajo, sea por renuncia voluntaria o por aplicación del inciso primero del artículo 161 del Código del Trabajo, en el plazo que establece el artículo 11 de este reglamento, tendrán derecho a la totalidad de la bonificación adicional y a los bonos de Antigüedad y de Trabajo Pesado, según corresponda. Lo anterior será sin perjuicio de los beneficios a que tengan derecho de acuerdo al título II de la ley Nº 19.882, cuando proceda.
 
 Los funcionarios y funcionarias señalados en la letra c) del inciso primero que postulen en el proceso 2018 y que cesen en su cargo o terminen su contrato de trabajo, sea por renuncia voluntaria o por aplicación del inciso primero del artículo 161 del Código del Trabajo, en el plazo que establece el artículo 11 de este reglamento, sólo tendrán derecho al 50% de la bonificación adicional, al 50% de los bonos de Antigüedad y de Trabajo Pesado, según corresponda. Lo anterior será sin perjuicio de los beneficios a que tengan derecho de acuerdo al título II de la ley Nº 19.882, cuando proceda.
