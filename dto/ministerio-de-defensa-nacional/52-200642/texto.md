@@ -118,10 +118,6 @@ AUTORIDAD AERONÁUTICA.
 
 La Dirección General de Aeronáutica Civil (DGAC).
 
-AUTORIZACIÓN TÉCNICA OPERATIVA (ATO).
-
-Permiso que otorga la DGAC. a la empresa aérea que acredite cumplir con los requisitos operativos, técnicos y administrativos para efectuar servicios de transporte aéreo, sean de cabotaje o internacional y toda otra clase de servicios de aeronavegación comercial.
-
 AVIÓN (AEROPLANO).
 
 Aerodino propulsado por motor, que debe su sustentación en vuelo principalmente a reacciones aerodinámicas ejercidas sobre superficies que permanecen fijas en determinadas condiciones de vuelo.
@@ -337,32 +333,6 @@ Operación de aproximación y aterrizaje que no es de precisión: Aproximación 
 Operación de aproximación y aterrizaje de precisión: Aproximación y aterrizaje por instrumentos que utiliza guía de precisión en azimut y de trayectoria de planeo con mínimos determinados por la categoría de la operación.
 
 CATEGORÍAS DE LAS OPERACIONES DE APROXIMACIÓN Y ATERRIZAJE DE PRECISIÓN:
-
-Operación de Categoría I (CAT I).
-
-Aproximación y aterrizaje de precisión por instrumentos con una altura de decisión no inferior a 60 m (200 ft) y con una visibilidad no inferior a 800 metros, o un alcance visual en la pista no inferior a 550 m.
-
-Operación de Categoría II (CAT II).
-
-Aproximación y aterrizaje de precisión por instrumentos con una altura de decisión inferior a 60 m (200 ft), pero no inferior a 30 m (100 ft), y un alcance visual en la pista no inferior a 350m.
-
-Operación de Categoría IIIA (CAT IIIA).
-
-Aproximación y aterrizaje de precisión por instrumentos:
-
-a) hasta una altura de decisión inferior a 30 m (100 ft) o sin limitación de altura de decisión; y
-
-b) con un alcance visual en la pista no inferior a 200 m Operación de Categoría IIIB (CAT IIIB) Aproximación y aterrizaje de precisión por instrumentos:
-
-a) hasta una altura de decisión inferior a 15 m (50 ft) o sin limitación de altura de decisión; y
-
-b) con un alcance visual en la pista inferior a 200 m pero no inferior a 50 m.
-
-Operación de Categoría IIIC (CAT IIIC).
-
-Aproximación y aterrizaje de precisión por instrumentos sin altura de decisión ni limitaciones en cuanto al alcance visual en la pista.
-
-Cuando los valores de altura de decisión (DH) y de alcance visual en la pista (RVR) corresponden a categorías de operación diferentes, las operaciones de aproximación y aterrizaje por instrumentos han de efectuarse de acuerdo con los requisitos de la categoría más exigente (ej., una operación con una DH correspondiente a la CAT IIIA, pero con un RVR de la CAT IIIB, se considerará operación de la CAT IIIB, y una operación con una DH correspondiente a la CAT II, pero con un RVR de la CAT I, se considerará operación de la CAT II).
 
 PERFORMANCE DE NAVEGACIÓN REQUERIDA (RNP).
 
@@ -606,143 +576,57 @@ de sus respectivas funciones en la
 
 operación de los aviones.
 
-2.1.3 Las Empresas aéreas deberán solicitar a la
+2.1.3 Ningún operador realizará operaciones
 
-DGAC la aprobación de las "Especificaciones
+de transporte aéreo comercial a menos
 
-Operativas", en los siguientes casos:
+que sea titular de un certificado de
 
-a) Cuando deseen iniciar las actividades
+operador aéreo (AOC), otorgado por la
 
-aéreas inherentes a su explotación
+DGAC. El otorgamiento del certificado
 
-comercial;
+AOC dependerá de que el operador demuestre
 
-b) Cuando habiendo obtenido la aprobación
+que cuenta con una organización adecuada,
 
-de determinadas Especificaciones
+un método de control y supervisión de las
 
-Operativas, quisieren extender o
+operaciones de vuelo, un programa de
 
-modificar rutas o bien variar la
+instrucción y arreglos de servicios de
 
-marca y/o modelo del material de
+escala y de mantenimiento acordes con la
 
-vuelo que utilizan;
+naturaleza y la amplitud de las operaciones
 
-c) Cuando deseen comenzar una serie de
+especificadas.
 
-vuelos que pueda considerarse un
+2.1.4 El certificado AOC de operador aéreo, autorizará
 
-Servicio de Transporte Aéreo no
+al operador a realizar operaciones de transporte
 
-regular o eventual;
+aéreo comercial de conformidad con las
 
-d) Cuando hubiere transcurrido más de un año
+especificaciones relativas a las operaciones.
 
-contado desde la fecha de aprobación de
+2.1.5 El contenido del AOC y de las especificaciones
 
-sus Especificaciones Operativas.
+relativas a las operaciones correspondientes
 
-2.1.4 Las Especificaciones Operativas deben ser
+al certificado de operador aéreo, como mínimo,
 
-firmadas por el representante legal de la
+será aquel establecido en la normativa vigente
 
-Empresa Aérea y entregadas a la DGAC con 60
+establecida por la DGAC.
 
-días de anticipación a la fecha propuesta
+2.1.6 Suprimido.
 
-para iniciar actividades, comenzar
+2.1.7 Suprimido.
 
-operaciones en nueva ruta u operar con
+2.1.8 Suprimido.
 
-distinto material de vuelo; para su
-
-aprobación según corresponda. Cuando se
-
-trate de Especificaciones relativas a la
-
-letra c) del párrafo anterior, ellas
-
-deberán presentarse con 15 días de
-
-anticipación.
-
-2.1.5 Las Especificaciones Operativas contendrán
-
-toda la información que sobre las
-
-operaciones de la Empresa aérea exija
-
-la DGAC y en particular la relativa a:
-
-organización operativa, personal
-
-aeronáutico, material aéreo y de apoyo,
-
-aeronavegabilidad y mantenimiento,
-
-utilización de infraestructura propia
-
-y pública y sobre otras materias
-
-relacionadas con seguridad aeronáutica.
-
-2.1.6 Las Especificaciones Operativas serán
-
-aprobadas cuando la DGAC estime comprobada
-
-la capacidad técnica de la Empresa y de
-
-sus medios, para efectuar en forma segura
-
-las operaciones aéreas respectivas.
-
-2.1.7 La aprobación de las Especificaciones
-
-Operativas constará en un certificado
-
-denominado "Autorización Técnica Operativa"
-
-(ATO), expedido por la DGAC. Este documento
-
-deberá ser exhibido permanentemente en la
-
-dependencia de la Empresa aérea que se
-
-encuentre encargada de las operaciones
-
-aéreas de la misma.
-
-2.1.8 Las Empresas aéreas deberán atenerse y
-
-mantener en vigor en todo momento, todas
-
-y cada una de las modalidades y condiciones
-
-de operación que se encuentran incorporadas
-
-en sus Especificaciones Operativas
-
-aprobadas, pudiendo las empresas aéreas,
-
-en cualquier oportunidad, solicitar a la
-
-DGAC, con anticipación, la aprobación de
-
-enmiendas de sus Especificaciones
-
-Operativas.
-
-2.1.9 La DGAC establecerá los requisitos que deben
-
-cumplir las empresas aéreas, para obtener la
-
-Autorización Técnica Operativa, mediante la
-
-dictación de los procedimientos
-
-correspondientes.
+2.1.9 Suprimido.
 
 2.2 INFRACCIONES OBLIGADAS
 
@@ -1606,17 +1490,7 @@ programa de prevención de accidentes y de
 
 seguridad de vuelo.
 
-2.19 USO PROBLEMÁTICO DE SUSTANCIAS PSICOACTIVAS
-
-Los miembros de las tripulaciones de vuelo
-
-y auxiliar no desempeñarán sus funciones
-
-mientras estén bajo la influencia de
-
-sustancias psicoactivas que perjudiquen la
-
-actuación humana.
+2.19 Suprimido.
 
 CAPITULO 3.- OPERACIONES DE VUELO
 
@@ -1768,93 +1642,19 @@ de operación de vuelo, que deberá ser
 
 previamente aprobado por la DGAC.
 
-3.4 CERTIFICACIÓN Y SUPERVISIÓN DE OPERACIONES.
+3.4 Suprimido.
 
-3.4.1 Autorización Técnica Operativa (ATO).
+3.4.1 Suprimido.
 
-3.4.1.1 La Autorización Técnica Operativa permite
+3.4.1.1 Suprimido.
 
-a las empresas aéreas efectuar operaciones
+3.4.1.2 Suprimido.
 
-de transporte aéreo y trabajos aéreos, en
+3.4.1.3 Suprimido.
 
-conformidad a las condiciones y limitaciones
+3.4.1.4 Suprimido.
 
-establecidas por la autoridad aeronáutica.
-
-Por tanto, toda empresa aérea deberá ser
-
-titular de una Autorización Técnica
-
-Operativa para efectuar operaciones de
-
-servicio de transporte aéreo, sean de
-
-cabotaje o internacionales y toda otra
-
-clase de servicios de aeronavegación
-
-comercial.
-
-3.4.1.2 El otorgamiento de la Autorización Técnica
-
-Operativa, dependerá de que la Empresa Aérea
-
-demuestre que cuenta con una organización
-
-adecuada, situación financiera, un método
-
-de control y supervisión de las operaciones
-
-de vuelo, un programa de instrucción y
-
-arreglos de mantenimiento acordes con la
-
-naturaleza y la amplitud de las operaciones
-
-especificadas.
-
-3.4.1.3 La DGAC podrá revocar la Autorización
-
-Técnica Operativa cuando la empresa aérea
-
-deje de cumplir los requisitos que la
-
-hicieron merecedora a dicha Autorización.
-
-3.4.1.4 En la Autorización Técnica Operativa se
-
-deberá incluir lo siguiente:
-
-a) Identificación de la Empresa Aérea
-
-(nombre y razón social);
-
-b) Lugar, fecha de expedición y período de
-
-validez;
-
-c) Descripción de los tipos de operaciones
-
-autorizados;
-
-d) Tipos de aeronaves cuyo uso está
-
-autorizado; y
-
-e) Zonas de operación o rutas autorizadas.
-
-3.4.1.5 La DGAC establecerá un procedimiento
-
-específico para la obtención de la ATO y
-
-un sistema tanto para la certificación
-
-como para la supervisión permanente de
-
-las operaciones aéreas realizadas por las
-
-empresas aéreas.
+3.4.1.5 Suprimido.
 
 3.5 MANUAL DE OPERACIONES.
 
@@ -2852,299 +2652,89 @@ de mantener el avión en condiciones de
 
 aeronavegabilidad antes del despegue.
 
-3.14.6 Reservas de combustible y aceite.
+3.14.6 Reservas y Gestión de combustible.
 
-3.14.6.1 En todos los vuelos se deberá llevar,
+3.14.6.1 Todo avión llevará una cantidad de combustible
 
-considerando las condiciones meteorológicas
+utilizable suficiente para completar el vuelo
 
-y todo retraso que se prevea en vuelo,
+planificado de manera segura y permitir
 
-suficiente combustible y aceite para poder
+desviaciones respecto de la operación prevista.
 
-completar éste sin peligro. Además, se
+3.14.6.2 La cantidad de combustible utilizable que se
 
-llevará una reserva para prever otras
+debe llevar, incluirá:
 
-contingencias.
+a) combustible para el rodaje;
 
-3.14.6.2 Al calcular el combustible y aceite
+b) combustible para el trayecto;
 
-requeridos en el párrafo anterior se tendrá
+c) combustible para contingencias;
 
-en cuenta, por lo menos, lo siguiente:
+d) combustible para alternativa de destino;
 
-a) Las condiciones meteorológicas
+e) combustible de reserva final;
 
-pronosticadas;
+f) combustible adicional; y
 
-b) las autorizaciones del control de
+g) combustible discrecional.
 
-tránsito aéreo y las posibles demoras;
+3.14.6.3 Gestión del combustible en vuelo.
 
-c) en caso de vuelos IFR, una aproximación
+3.14.6.3.1 El operador establecerá en su manual de
 
-por instrumentos en el aeródromo de
+operaciones criterios y procedimientos para
 
-destino, incluso una aproximación
+garantizar que se efectúen verificaciones del
 
-frustrada;
+combustible y gestión del combustible en vuelo.
 
-d) los procedimientos prescritos en el
+3.14.6.3.2 El piloto al mando de acuerdo con la normativa
 
-Manual de Operaciones, respecto a
+vigente emitida por la DGAC deberá:
 
-pérdidas de presión en la cabina, cuando
+a) verificar continuamente la cantidad de
 
-corresponda, o detención de uno de los
+combustible utilizable remanente a bordo.
 
-motores mientras vuele en ruta; y
+b) pedirá al ATC información sobre demoras
 
-e) cualesquier otras condiciones que puedan
+cuando ante circunstancias imprevistas,
 
-demorar el aterrizaje del avión o
+estas puedan dar como resultado un aterrizaje
 
-aumentar el consumo de combustible y/o
+en el aeródromo de destino con menos del
 
-aceite.
+combustible de reserva final más el
 
-3.14.6.3 Aviones propulsados por hélices. La cantidad
+combustible necesario para proceder a un
 
-de combustible y aceite que deben llevar los
+aeródromo de alternativa o hacia un aeródromo
 
-aviones propulsados por hélices, será por lo
+aislado.
 
-menos la suficiente para que el avión pueda:
+c) notificará al ATC "COMBUSTIBLE MÍNIMO" ante
 
-a) Cuando se requiera un aeródromo de
+cualquier cambio en la autorización existente
 
-alternativa de destino, ya sea:
+para el aeródromo de aterrizaje previsto que
 
-1. Volar hasta el aeródromo respecto al
+pueda resultar en un aterrizaje con menos del
 
-cual se proyecta el vuelo, de ahí al
+combustible de reserva final previsto.
 
-aeródromo de alternativa más crítico
+d) declarará "MAYDAY MAYDAY MAYDAY COMBUSTIBLE"
 
-(en términos de consumo de
+ante una cantidad de combustible utilizable a
 
-combustible), especificado en el Plan
+bordo de la aeronave, inferior a la cantidad
 
-Operacional de Vuelo y en el Plan de
+de combustible de reserva final prevista.
 
-Vuelo ATS, y después por un período
+3.14.6.4 Suprimido.
 
-de 45 minutos; o bien,
-
-2. Volar hasta el aeródromo de
-
-alternativa pasando por un punto
-
-previamente determinado y luego
-
-45 minutos más, con tal que las
-
-cantidades de combustible y de aceite
-
-así determinadas no sean menores que
-
-las necesarias para volar hasta el
-
-aeródromo al cual se ha proyectado
-
-el vuelo y, después volar durante:
-
-- 45 minutos más el 15% del tiempo de
-
-vuelo que se proyecta emplear al
-
-nivel o niveles de crucero; o bien,
-
-dos horas de ambos tiempos de vuelo,
-
-el menor.
-
-b) Cuando no se requiera un aeródromo de
-
-alternativa de destino:
-
-1. En virtud de lo expuesto en el párrafo
-
-3.14.4.3 a), volar hasta el aeródromo
-
-al cual se proyecta el vuelo y después
-
-por un período de 45 minutos; o bien,
-
-2. En virtud de lo expuesto en el párrafo
-
-3.14.4.3., volar durante:
-
-- 45 minutos más el 15% del tiempo de
-
-vuelo que se proyecta emplear al
-
-nivel o niveles de crucero; o bien,
-
-dos horas, de ambos tiempos de
-
-vuelo, el menor.
-
-3.14.6.4 Aviones equipados con turborreactores. La
-
-cantidad de combustible y aceite que se
-
-lleve para cumplir con el párrafo 3.14.6
-
-será, en el caso de aviones de turbo-
-
-reacción, por lo menos la suficiente para
-
-que el avión pueda:
-
-a) Cuando se requiera un aeródromo de
-
-alternativa de destino:
-
-1. Volar hasta el aeródromo hasta el cual
-
-se proyecta el vuelo, efectuar una
-
-aproximación y una aproximación
-
-frustrada, y desde allí:
-
-- volar hasta el aeródromo de
-
-alternativa especificado en el Plan
-
-Operacional de Vuelo y en el Plan de
-
-Vuelo ATS; y luego
-
-- volar durante 30 minutos a la
-
-velocidad de espera a 450 metros
-
-(1 500 pies) por encima del
-
-aeródromo de alternativa, en
-
-condiciones normales de temperatura,
-
-efectuar la aproximación y
-
-aterrizar; y
-
-- disponer de una cantidad adicional
-
-de combustible suficiente para
-
-compensar el aumento de consumo que
-
-se produciría si surgiese alguna de
-
-las contingencias especificadas por
-
-el explotador, a satisfacción de la
-
-DGAC; o bien,
-
-2. Volar hasta un aeródromo de
-
-alternativa, pasando por un punto
-
-previamente determinado y luego 30
-
-minutos más, a 450 metros (1 500
-
-pies) por encima del aeródromo de
-
-alternativa, teniendo debidamente
-
-en cuenta disponer de una cantidad
-
-adicional de combustible suficiente
-
-para compensar el aumento de consumo
-
-que se produciría si surgiesen algunas
-
-de las contingencias especificadas por
-
-la Empresa Aérea a satisfacción de la
-
-DGAC, siempre que la cantidad de
-
-combustible no sea inferior a la que
-
-se requiere para volar hasta el
-
-aeródromo al cual se proyecta el vuelo
-
-y, desde allí, volar durante dos (2)
-
-horas al consumo de crucero normal.
-
-b) Cuando no se requiera un aeródromo de
-
-alternativa de destino:
-
-1. En virtud de lo expuesto en el párrafo
-
-3.14.4.3, volar hasta el aeródromo al
-
-cual se proyecta el vuelo y, además:
-
-- volar durante treinta (30) minutos a
-
-la velocidad de espera a 450 metros
-
-(1 500 pies) por encima del
-
-aeródromo al cual se proyecta el
-
-vuelo en condiciones normales de
-
-temperatura; y
-
-- disponer de una cantidad adicional
-
-de combustible, suficiente para
-
-compensar el aumento de consumo que
-
-se produciría si surgiesen algunas
-
-de las contingencias especificadas
-
-por la Empresa Aérea, a satisfacción
-
-de la DGAC;
-
-2. En virtud de lo expuesto en el párrafo
-
-3.14.4.3, volar hasta el aeródromo
-
-hasta el cual se proyecta el vuelo y,
-
-desde allí, volar durante dos horas al
-
-régimen normal de consumo en vuelo de
-
-crucero.
-
-3.14.6.5 Lo dispuesto en 3.14.6 no impide la
-
-modificación de un Plan de Vuelo, durante su
-
-ejecución debiendo en tal condición hacer un
-
-nuevo plan hasta otro aeródromo, siempre que
-
-desde el punto en que cambie el Plan de
-
-Vuelo puedan cumplirse estos requisitos.
+3.14.6.5 Suprimido.
 
 3.14.7 Provisión y uso de oxígeno.
 
@@ -5362,613 +4952,7 @@ o de navegación.
 
 MANTENIMIENTO DEL AVIÓN
 
-7.1 RESPONSABILIDAD DE MANTENIMIENTO.
-
-7.1.1 La empresa aérea se asegurará que, en
-
-conformidad con procedimientos aceptables
-
-para la DGAC, se cumpla lo siguiente:
-
-a) Cada avión explotado por ella se mantenga
-
-en condiciones de aeronavegabilidad.
-
-b) El equipo operacional y de emergencia
-
-necesario para el vuelo se encuentre en
-
-correcto estado de funcionamiento.
-
-c) El certificado de aeronavegabilidad de
-
-cada avión explotado por la empresa aérea
-
-sea válido al iniciar el vuelo.
-
-d) Su personal de operaciones esté en
-
-conocimiento que los permisos especiales
-
-de vuelos no son válidos en espacio aéreo
-
-extranjero, a menos que éstos sean
-
-comunicados y aceptados por los Estados
-
-que sobrevuele la aeronave.
-
-7.1.1.1 La empresa aérea no efectuará vuelos a menos
-
-que el mantenimiento efectuado al avión, en
-
-un Centro de Mantenimiento Autorizado, esté
-
-al día y tenga la certificación de vuelta al
-
-servicio cuando corresponda.
-
-7.1.2 La DGAC podrá autorizar trabajos de
-
-mantenimiento ocasionales específicos, para
-
-los cuales la empresa aérea debe demostrar
-
-que posee, además de las licencias de
-
-mantenimiento correspondientes, las
-
-capacidades técnicas y administrativas
-
-requeridas.
-
-7.1.3 Cuando se acepte un método alternativo
-
-o equivalente al estipulado en un
-
-procedimiento aprobado o instrucciones
-
-técnicas dispuestas por la DGAC la persona
-
-que firme la Conformidad de Mantenimiento
-
-deberá estar habilitada conforme a lo
-
-establecido en el Reglamento "Licencias
-
-al personal aeronáutico", DAR 01.
-
-7.1.4 La empresa aérea empleará a una persona o
-
-grupo de personas para asegurar que todo
-
-el mantenimiento se realice de conformidad
-
-con el Manual de control de Mantenimiento.
-
-La empresa Aérea debe considerar que a lo
-
-menos una de estas personas posea Licencia
-
-de Ingeniero Aeronáutico y el nivel de
-
-decisión técnica adecuado.
-
-7.1.5 La empresa aérea se asegurará que el
-
-mantenimiento de cada uno de sus aeronaves
-
-se realice de conformidad con el respectivo
-
-programa de mantenimiento aprobado.
-
-7.2 MANUAL DE CONTROL DE MANTENIMIENTO (MCM).
-
-7.2.1 La empresa aérea proporcionará, para uso y
-
-orientación del personal de mantenimiento
-
-y de operaciones, un Manual de Control de
-
-Mantenimiento (MCM) el que debe ser
-
-aceptable para la DGAC, conforme a los
-
-requisitos indicados en párrafo 10.3 de
-
-este Volumen.
-
-7.2.2 La empresa aérea se asegurará que el manual
-
-citado en el párrafo anterior sea enmendado
-
-según sea necesario, para mantener
-
-actualizada la información que contiene.
-
-7.2.3 La empresa aérea establecerá un sistema que
-
-proporcione con prontitud, copias de las
-
-revisiones y enmiendas al Manual de Control
-
-de Mantenimiento, a todas las organizaciones
-
-y personas a que hayan recibido este manual.
-
-7.2.4 La empresa aérea proporcionará a la
-
-DGAC copia del Manual de Control de
-
-Mantenimiento, e incorporará en él
-
-los textos obligatorios que la DGAC
-
-establezca en la Reglamentación
-
-respectiva.
-
-7.3 PROGRAMA DE MANTENIMIENTO.
-
-7.3.1 La empresa aérea dispondrá, para uso y
-
-orientación del personal de mantenimiento
-
-y operacional en cuestión, de un Programa
-
-de Mantenimiento aprobado por la DGAC,
-
-que contenga la información requerida en
-
-10.4. En el diseño del Programa de
-
-Mantenimiento se considerarán los principios
-
-relativos a Factores Humanos.
-
-7.3.2 Todas las enmiendas al Programa de
-
-Mantenimiento deberán, una vez aprobadas
-
-por la DGAC, ser remitidas a todos los
-
-organismos o personas que hayan recibido
-
-dicho programa, en el más breve plazo
-
-posible.
-
-7.4 REGISTROS DE MANTENIMIENTO.
-
-7.4.1 La empresa aérea conservará los siguientes
-
-registros durante los plazos indicados en
-
-7.4.2:
-
-a) Tiempo total de servicio (horas, tiempo
-
-calendario y ciclos, según corresponda)
-
-del avión, motor(s) y hélice(s).
-
-b) Situación de cumplimiento de todas las
-
-disposiciones obligatorias para el
-
-mantenimiento de la aeronavegabilidad.
-
-Modificaciones e Inspecciones
-
-Mandatorias. (MIM).
-
-c) Información técnica y autorizaciones
-
-relativas a las modificaciones y
-
-reparaciones efectuadas en las aeronaves
-
-y sus componentes.
-
-d) Tiempo de servicio (horas, tiempo
-
-calendario y ciclos, según corresponda)
-
-de la aeronave desde su última revisión
-
-general (overhaul), de los componentes
-
-sujetos a overhaul obligatorio y de los
-
-componentes de duración limitada (tiempo
-
-de vida útil).
-
-e) Registro actualizado de cumplimiento del
-
-programa de mantenimiento aprobado para
-
-el avión.
-
-f) Registro detallado de cada trabajo de
-
-mantenimiento efectuado, con las
-
-correspondientes firmas de Conformidad
-
-de mantenimiento.
-
-g) Libro de a bordo (Diario de a abordo).
-
-h) Peso y Balance actualizado del avión.
-
-7.4.2 Los registros enumerados en 7.4.1, se
-
-conservarán durante un período mínimo de
-
-180 días después de retirado definitivamente
-
-del servicio el componente a que se
-
-refieren, con excepción del registros
-
-indicados en 7.4.1 literal f), el que se
-
-conservará durante por lo menos dos años,
-
-a partir de la firma de la conformidad de
-
-mantenimiento. Sin embargo, los registros
-
-de trabajos de revisión general (overhaul ),
-
-deberán conservarse hasta una nueva revisión
-
-general y para alteraciones y reparaciones
-
-mayores, los registros deberán mantenerse
-
-permanentemente.
-
-7.4.3 En el caso de cambio temporal del
-
-explotador, los registros se pondrán a
-
-disposición de quién asuma este rol. En
-
-el caso que el cambio sea permanente,
-
-los registros se transferirán al nuevo
-
-explotador.
-
-7.5 INFORMACIÓN SOBRE EL MANTENIMIENTO DE LA
-
-AERONAVEGABILIDAD.
-
-7.5.1 La empresa aérea que posea un avión cuyo
-
-peso máximo de despegue sea superior a 5 700
-
-kg., supervisará y evaluará la experiencia
-
-de mantenimiento y operacional con respecto
-
-al mantenimiento de la aeronavegabilidad,
-
-y hará las notificaciones pertinentes de
-
-acuerdo a lo establecido por la DGAC.
-
-7.5.2 La empresa aérea que posea un avión cuyo
-
-peso máximo de despegue sea superior a
-
-5 700 kg. debe obtener y evaluar la
-
-información relativa al mantenimiento de
-
-la aeronavegabilidad de acuerdo a las
-
-recomendaciones de la entidad responsable
-
-del diseño de tipo y de la Autoridad
-
-Aeronáutica que otorgó el Certificado Tipo,
-
-para aplicar las medidas necesarias de
-
-conformidad con el procedimiento aceptable
-
-para la DGAC.
-
-7.6 MODIFICACIONES Y REPARACIONES.
-
-Todas las modificaciones y reparaciones que
-
-se efectúen al avión y sus componentes,
-
-deben cumplir con los requisitos de
-
-aceptación establecidos por la DGAC. Se
-
-aplicarán procedimientos que garanticen la
-
-idoneidad de las acciones pertinentes y
-
-la conservación de los antecedentes que
-
-demuestren que se ha cumplido con los
-
-requisitos de aeronavegabilidad.
-
-7.7 CENTRO DE MANTENIMIENTO.
-
-7.7.1 Aprobación de un Centro de Mantenimiento.
-
-7.7.1.1 La aprobación por parte de la DGAC de un
-
-Centro de Mantenimiento dependerá de que
-
-el solicitante demuestre que cumple con
-
-los requisitos establecidos.
-
-7.7.1.2 La aprobación o el Reconocimiento (cuando
-
-es extranjero) se materializará en un
-
-Certificado que contendrá lo siguiente:
-
-a) Nombre del Centro de Mantenimiento y
-
-lugar donde está ubicado;
-
-b) Fecha de expedición y período de validez;
-
-c) Términos en que se otorga la aprobación;
-
-y
-
-d) Hoja(s) de limitaciones.
-
-7.7.1.3 La validez de la aprobación o el
-
-reconocimiento, dependerá que el Centro de
-
-Mantenimiento dé cumplimiento permanente a
-
-los requisitos establecidos para su
-
-aprobación.
-
-7.7.2 Manual de Procedimientos de Mantenimiento
-
-(MPM).
-
-7.7.2.1 El Centro de Mantenimiento proporcionará,
-
-para uso y orientación de su personal, un
-
-Manual de Procedimientos que contenga la
-
-información especificada en párrafo 10.5
-
-de este Reglamento. Este Manual debe ser
-
-aceptable para la DGAC previo a su
-
-distribución.
-
-7.7.2.2 El Centro de Mantenimiento se asegurará que
-
-el Manual de Procedimientos sea enmendado
-
-según lo necesario, con el fin de disponer
-
-que la información que contiene se mantenga
-
-debidamente actualizada.
-
-7.7.2.3 Se remitirá en el más breve plazo, copia de
-
-todas las enmiendas introducidas al Manual
-
-de Procedimientos a la DGAC y a todos los
-
-Organismos o personas que lo hayan recibido.
-
-7.7.3 Procedimientos de mantenimiento y sistema de
-
-garantía de calidad.
-
-7.7.3.1 El Centro de Mantenimiento establecerá
-
-procedimientos aceptables para la DGAC, que
-
-aseguren buenas prácticas de mantenimiento
-
-y el cumplimiento de todos los requisitos
-
-relacionados con este capítulo.
-
-7.7.3.2 El Centro de Mantenimiento se asegurará del
-
-cumplimiento de lo prescrito en el párrafo
-
-anterior, ya sea estableciendo un sistema
-
-de garantía de calidad independiente para
-
-supervisar el cumplimiento e idoneidad de
-
-los procedimientos, o mediante un sistema
-
-de inspección que asegure que todo el
-
-mantenimiento se realice en forma apropiada.
-
-7.7.4 Instalaciones.
-
-7.7.4.1 Las instalaciones y el entorno de trabajo
-
-serán apropiados para las tareas que deban
-
-realizarse.
-
-7.7.4.2 El Centro de Mantenimiento dispondrá de la
-
-información técnica, equipos, herramientas
-
-y materiales necesarios para realizar los
-
-trabajos autorizados por la DGAC y
-
-consignados en el Certificado respectivo.
-
-7.7.4.3 Se dispondrá de instalaciones de
-
-almacenamiento para repuestos, equipos,
-
-herramientas y material. Las condiciones
-
-de almacenamiento serán tales que
-
-proporcionen seguridad y eviten el
-
-deterioro y/o daños a lo almacenado.
-
-7.7.5 Personal.
-
-7.7.5.1 El Centro de Mantenimiento designará a una
-
-persona o grupo de personas entre cuyas
-
-responsabilidades se incluirá la de asegurar
-
-que el organismo de mantenimiento cumpla con
-
-los requisitos aplicables a una entidad de
-
-este tipo, según lo establecido en este
-
-párrafo.
-
-7.7.5.2 El Centro de Mantenimiento empleará al
-
-personal necesario para planificar,
-
-efectuar, supervisar, inspeccionar y dar la
-
-Conformidad a los trabajos que se realicen.
-
-7.7.5.3 La competencia del personal de mantenimiento
-
-se definirá conforme a los niveles
-
-establecidos por la DGAC y de los
-
-procedimientos aceptables para esta
-
-autoridad. La persona que firme la
-
-Conformidad de Mantenimiento estará
-
-habilitada según lo dispuesto en el
-
-Reglamento de Licencias al Personal
-
-Aeronáutico, (DAR 01).
-
-7.7.5.4 El Centro de Mantenimiento se asegurará
-
-que todo el personal reciba instrucción
-
-inicial y entrenamiento apropiado a las
-
-tareas y responsabilidades que les han
-
-sido asignadas. En el Programa de
-
-Instrucción se incluirán los conceptos
-
-conducentes a obtener conocimientos y
-
-habilidades relacionados con los Factores
-
-Humanos.
-
-7.7.6 Registros.
-
-7.7.6.1 El Centro de Mantenimiento conservará
-
-registros detallados de los trabajos de
-
-mantenimiento ejecutados, para demostrar
-
-que se han satisfecho todos los requisitos
-
-relativos a la Conformidad de Mantenimiento.
-
-7.7.6.2 El Centro de Mantenimiento conservará los
-
-registros exigidos en el párrafo anterior
-
-por un período mínimo de dos (2) años a
-
-partir de la firma de la Conformidad de
-
-Mantenimiento. Para los trabajos de revisión
-
-general (overhaul) de motores y otros
-
-componentes, alteraciones y reparaciones
-
-mayores este período mínimo será de cinco
-
-(5) años.
-
-7.7.7 Conformidad de Mantenimiento.
-
-7.7.7.1 La Conformidad de Mantenimiento se
-
-completará y firmará para certificar que
-
-el trabajo de mantenimiento se realizó
-
-satisfactoriamente y según los
-
-procedimientos descritos en el Manual de
-
-Procedimientos de Mantenimiento aprobado.
-
-7.7.7.2 La Conformidad de Mantenimiento contendrá
-
-como mínimo lo siguiente:
-
-a) Individualización del Centro de
-
-Mantenimiento;
-
-b) descripción del mantenimiento realizado;
-
-c) declaración de que el avión o el
-
-componente afectado ha quedado en
-
-condición técnica satisfactoria para
-
-volver al servicio;
-
-d) la fecha en que se completó dicho
-
-mantenimiento, y
-
-e) la individualización de la persona o
-
-personas firmantes de la Conformidad
-
-de Mantenimiento.
+Suprimido.
 
 ## Capítulo 8
 
@@ -6230,45 +5214,27 @@ vuelo.
 
 8.4 CALIFICACIONES.
 
-8.4.1 Experiencia reciente. Piloto al Mando
+8.4.1 EXPERIENCIA RECIENTE. PILOTO AL MANDO Y COPILOTO.
 
-La Empresa aérea no asignará a un piloto
+El operador no asignará a un piloto al mando o a
 
-para que actúe como piloto al mando de un
+un copiloto para que se haga cargo de los mandos
 
-avión, a menos que en los sesenta (60)
+de vuelo de un tipo o variante de un tipo de un
 
-días precedentes haya hecho, por lo menos,
+avión durante el despegue y el aterrizaje, a
 
-tres despegues y tres aterrizajes en el
+menos que dicho piloto haya estado a cargo de
 
-mismo tipo de avión.
+los mandos de vuelo como mínimo en tres despegues
 
-8.4.2 Experiencia reciente - Copiloto.
+y aterrizajes, en los noventa (90) días
 
-Las Empresas aéreas no asignarán a un
+precedentes y en el mismo tipo de avión o en un
 
-copiloto para que se haga cargo de los
+simulador de vuelo aprobado a tal efecto.
 
-mandos de vuelo de un avión durante el
-
-despegue y aterrizaje, a menos que en los
-
-sesenta (60) días precedentes y en el
-
-mismo tipo de avión, haya estado a cargo
-
-como piloto al mando o como copiloto de
-
-los mandos de vuelo en tres despegues y
-
-aterrizajes, o haya demostrado de otro
-
-modo competencia para actuar como copiloto
-
-en un simulador de vuelo aprobado a tal
-
-efecto.
+8.4.2 Suprimido.
 
 8.4.3 Piloto al mando - Capacitación de ruta y
 
@@ -7058,101 +6024,7 @@ u Organismo responsable del diseño, se
 
 identificarán como tales.
 
-10.5 MANUAL DE PROCEDIMIENTOS DEL CENTRO DE
-
-MANTENIMIENTO (MPM).
-
-El Manual de Procedimientos de mantenimiento
-
-proporcionado según 7.7.2, contendrá además
-
-de la identificación del Centro de
-
-Mantenimiento y su organización, la
-
-siguiente información:
-
-a) Una descripción general del alcance de
-
-los trabajos autorizados según los
-
-términos de la aprobación que se otorgó
-
-al Centro de Mantenimiento;
-
-b) una descripción de los procedimientos y
-
-del sistema de calidad o inspección del
-
-Centro de Mantenimiento, según lo
-
-establecido en 7.7.3;
-
-c) una descripción de las instalaciones del
-
-Centro de Mantenimiento;
-
-d) los nombres y responsabilidades de la
-
-persona o personas requeridas en 7.7.5.1;
-
-e) una descripción de los procedimientos
-
-utilizados para determinar la competencia
-
-del personal de mantenimiento, según lo
-
-requerido en 7.7.5.3;
-
-f) una descripción del método utilizado
-
-para llenar y conservar los registros
-
-de mantenimiento requerido en 7.7.6;
-
-g) una descripción de los procedimientos
-
-para otorgar la Conformidad de
-
-Mantenimiento y las circunstancias en
-
-que se firmará dicha conformidad;
-
-h) el personal autorizado a firmar la
-
-Conformidad de Mantenimiento;
-
-i) una descripción, cuando corresponda,
-
-de los procedimientos adicionales para
-
-cumplir requisitos de mantenimiento de
-
-la Empresa aérea;
-
-j) una descripción de los procedimientos
-
-para cumplir los requisitos de
-
-notificación de información sobre el
-
-servicio de mantenimiento, según lo
-
-establecido por la DGAC; y
-
-k) una descripción del procedimiento para
-
-recibir, enmendar y distribuir dentro
-
-del Centro de Mantenimiento, toda la
-
-información de aeronavegabilidad
-
-procedentes del titular del certificado
-
-de tipo o del organismo de diseño de
-
-tipo.
+10.5 Suprimido.
 
 10.6 BITÁCORA (DIARIO DE A BORDO).
 
@@ -7386,25 +6258,25 @@ auxiliar (tripulación de cabina) requerido
 
 para cada avión, sobre la base del número de
 
-asientos de pasajeros, a fin de efectuar la
+asientos habilitados de pasajeros, a fin de
 
-evacuación segura y rápida del avión y las
+efectuar la evacuación segura y rápida
 
-funciones necesarias que han de realizarse
+del avión y las funciones necesarias
 
-en caso de emergencia o de una situación que
+que han de realizarse en caso de emergencia o
 
-requiera una evacuación de emergencia. Las
+de una situación que requiera una evacuación
 
-empresas aéreas asignarán estas funciones
+de emergencia. Las empresas aéreas asignarán
 
-para cada tipo de avión. La cantidad de
+estas funciones para cada tipo de avión. La
 
-tripulación auxiliar aprobada se dispondrá
+cantidad de tripulación auxiliar aprobada se
 
-en las Especificaciones Operativas del
+dispondrá en las Especificaciones Operativas
 
-titular de la Autorización Técnica
+del titular de la Autorización Técnica
 
 Operativa.
 
@@ -8814,7 +7686,7 @@ combustible requerido, incluido una
 
 reserva que le permita volar 30 minutos
 
-adicionales, los NOTAMS publicados, las
+adicionales, los MS publicados, las
 
 radioayudas y las características de
 
@@ -9578,75 +8450,27 @@ abierta.
 
 3.17 OPERACIONES DE VUELO VFR NOCTURNO.
 
-De acuerdo a lo establecido en Capítulo 4,
+De acuerdo a lo establecido en Capítulo C del
 
-### Párrafo 4 — .4 del Reglamento del Aire, DAR-02,
+decreto supremo N° 128 de 2006 del Ministerio
 
-y de conformidad a la normativa de detalle
+de Defensa Nacional, Reglas de vuelo y operación
 
-establecida en los Procedimientos de la
+general, DAR 91, sección 91.201 se autorizarán
 
-DGAC, se autorizarán vuelos VFR, entre el
+en los siguientes casos, vuelos VFR, entre el
 
-fin del Crepúsculo Civil Vespertino y el
+fin del Crepúsculo Civil Vespertino y el comienzo
 
-comienzo del Crepúsculo Civil Matutino,
+del Crepúsculo Civil Matutino:
 
-en los siguientes casos:
-
-a) Vuelos de Instrucción o Práctica.
-
-Para aeronaves de peso máximo inferior
-
-a 5 700 kg y circunscritos a un radio
-
-de ocho (8) km (5 NM) del aeródromo en
-
-que opere, utilizando el mismo aeródromo
-
-para despegar y aterrizar.
+a) Vuelos de Instrucción o Práctica; y
 
 b) Vuelos para entrar o salir de aeródromos
 
-controlados o no controlados.
+controlados o no controlados dentro de una
 
-Dichos aeródromos deberán estar dentro
-
-de una Zona de Control (CTR).
-
-1. Salidas
-
-El avión deberá dirigirse a un punto
-
-autorizado para continuar su vuelo
-
-bajo las reglas de vuelo por
-
-instrumento (IFR).
-
-2. Llegadas.
-
-Se autoriza la cancelación del Plan
-
-de Vuelo IFR, dentro de las áreas
-
-terminales, para aeronaves que
-
-teniendo a la vista el aeródromo de
-
-destino pueden dirigirse a aterrizar
-
-en condiciones meteorológicas
-
-visuales.
-
-3. Vuelos VFR Nocturnos entre dos
-
-Aeródromos ubicados dentro de una
-
-misma zona de control debiendo ser
-
-controlado uno de ellos.
+zona de control.
 
 3.18 OPERACIÓN IFR EN AERONAVES MONOMOTORES.
 
@@ -10830,177 +9654,39 @@ GENERALIDADES
 
 2.1 CLASIFICACIÓN DE LOS TRABAJOS AÉREOS.
 
-Los trabajos aéreos se clasifican según el
+Los trabajos aéreos se clasifican según el tipo
 
-tipo de actividad que realiza.
+de actividad que realiza.
 
-2.1.1 Aplicaciones aéreas.
+2.1.1 Agrícolas.
 
-a) Agrícolas:
+2.1.2 Prospección Pesquera.
 
-- Destrucción de insectos perjudiciales
+2.1.3 Instrucción de Vuelo.
 
-a la agricultura y lucha contra
+2.1.4 Publicidad y Propaganda.
 
-animales dañinos;
-
-- lucha contra las enfermedades de las
-
-plantas;
-
-- destrucción de malezas y matorrales;
-
-- aplicación de fertilizantes y elementos
-
-regeneradores;
-
-- defoliación, siembra, conservación y
-
-protección;
-
-- disecación de frutas y secamento de
-
-campos, y
-
-- otros tratamientos agrícolas por
-
-aspersión o lanzamiento.
-
-b) Extinción de incendios,
-
-c) tratamiento de nubes,
-
-d) prevención de heladas.
-
-e) producción de aire turbulento, y
-
-f) repoblación de peces, aves y animales.
-
-2.1.2 Observación, investigación, fotografía aérea
-
-y aerofotogrametría.
-
-a) Elaboración de mapas;
-
-b) exploración geológica;
-
-c) exploraciones polares;
-
-d) conservación y utilización de suelos
-
-y aguas;
-
-e) planificación y desarrollo de centros
-
-urbanos;
-
-f) ingeniería civil;
-
-g) arqueología;
-
-h) estudios hidrológicos;
-
-i) inspección de cultivos, rebaños y tierras
-
-de labor;
-
-j) inspección y control de áreas inundadas
-
-y devastadas;
-
-k) observación meteorológica;
-
-l) estudio de la radiación cósmica;
-
-m) agricultura, silvicultura y forestación;
-
-y
-
-n) otros trabajos de observaciones e
-
-investigaciones desde el aire.
-
-2.1.3 Prospección y patrullaje aéreo.
-
-a) Prospección pesquera;
-
-b) estudios de la fauna;
-
-c) patrullaje:
-
-- de oleoductos,
-
-- de fronteras,
-
-- de guardacosta, y
-
-- forestal
-
-d) control del tráfico vehicular y actos
-
-públicos;
-
-e) prospección magnética, y
-
-f) otras actividades de mediciones y
-
-búsqueda desde el aire.
-
-2.1.4 Construcción.
-
-a) Construcción de líneas de alta tensión
-
-y teleféricos;
-
-b) montaje y traslado aéreo de torres;
-
-c) construcción de vallas;
-
-d) construcción, instalación y traslado de
-
-elementos pesados en edificaciones;
-
-e) construcción de puentes y oleoductos;
-
-f) supervisión de trabajos de construcción,
-
-y
-
-g) otras actividades relacionadas con
-
-traslado, montaje, instalaciones y apoyo
-
-en obras terrestres y marítimas.
-
-2.1.5 Publicidad.
-
-a) Remolque de letreros;
-
-b) lanzamiento de volantes y objetos
-
-livianos de publicidad;
-
-c) anuncios por amplificador de voz;
-
-d) trazados fumígenos;
-
-e) emisiones de radio y televisión;
-
-f) televisión y rodaje de películas;
-
-g) avisos luminosos; y
-
-h) otras actividades relacionadas con
-
-publicidad y propaganda aérea.
+2.1.5 Extinción de Incendios Forestales.
 
 2.1.6 Ambulancia y traslado de heridos.
 
-2.1.7 Instrucción de vuelo remunerada a bordo
+2.1.7 Instrucción de vuelo remunerada a bordo de
 
-de aeronaves
+aeronaves.
 
-2.1.8 Otros trabajos aéreos.
+2.1.8 Fotogrametría, Prospección Magnética u otros
+
+Sensores, Fotografía, Fílmicos de Televisión
+
+o Película Cinematográfica.
+
+2.1.9 Operación de Helicópteros con carga externa.
+
+2.1.10 Producción de Aire Turbulento (Control de
+
+Heladas).
+
+2.1.11 Otros.
 
 2.2 OPERACIONES COMERCIALES Y NO COMERCIALES.
 
@@ -11016,49 +9702,47 @@ que se ejecutan sin fines de lucro en
 
 aeronaves privadas.
 
-2.3 AUTORIZACIÓN TÉCNICA OPERATIVA Y CERTIFICADO
+2.3 CERTIFICADO DE OPERADOR AÉREO.
 
-ESPECIAL DE OPERACIÓN.
+2.3.1 Ningún operador realizará operaciones de trabajo
 
-2.3.1 Para efectuar operaciones de trabajos
+aéreo a menos que sea titular de un certificado
 
-aéreos, las empresas aéreas deberán contar
+de operador aéreo (AOC), otorgado por la DGAC."
 
-previamente con una Autorización Técnica
+El otorgamiento del certificado AOC dependerá
 
-Operativa otorgada por la DGAC.
+de que el operador demuestre que cuenta con
 
-La aviación no comercial que se proponga
+una organización adecuada, un método de control
 
-realizar trabajos aéreos remunerados deberá
+y supervisión de las operaciones de vuelo, un
 
-contar con la autorización de la Junta de
+programa de instrucción y arreglos de servicios
 
-Aeronáutica Civil, para estos efectos la
+de escala y de mantenimiento acordes con la
 
-DGAC otorgará a continuación un Certificado
+naturaleza y la amplitud de las operaciones
 
-especial de operación.
+especificadas.
 
-2.3.2 La Autorización Técnica Operativa será
+2.3.2 El certificado AOC de operador aéreo, autorizará
 
-otorgada por un período determinado por
+al operador a realizar operaciones de trabajo
 
-la DGAC, que no será inferior a un año.
+aéreo de conformidad con las especificaciones
 
-El Certificado Especial de Operación será
+relativas a las operaciones.
 
-otorgado por un período establecido por la
+2.3.3 El contenido del AOC y de las especificaciones
 
-DGAC.
+relativas a las operaciones correspondientes
 
-2.3.3 La DGAC establecerá los procedimientos que
+al certificado de operador aéreo, como mínimo,
 
-deben cumplir los interesados para obtener
+será aquel señalado en la normativa vigente
 
-la ATO o los Certificados especiales de
-
-operación.
+establecida por la DGAC.
 
 2.3.4 Las Empresas Aéreas o la aviación no
 
