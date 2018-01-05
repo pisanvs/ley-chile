@@ -116,11 +116,11 @@ Principal : Independencia N° 129, piso
 
 Región Metropolitana.
 
-- Coordenadas Geográficas : 33º25'49" Latitud Sur.
+- Coordenadas Geográficas : 33º 25' 50" Latitud Sur.
 
-70º39'09" Longitud Oeste.
+70º 39' 10" Longitud Oeste.
 
-Datum: PSAD56.
+Datum: WGS 84.
 
 - Ubicación de la Planta Transmisora
 
@@ -128,9 +128,9 @@ y Sistema Radiante : Cerro Las Tórtolas, comuna
 
 de Combarbalá, IV Región.
 
-- Coordenadas Geográficas : 31º10'29" Latitud Sur.
+- Coordenadas Geográficas : 31º 09' 05,2" Latitud Sur.
 
-71º01'17" Longitud Oeste.
+70º 58' 40,3" Longitud Oeste.
 
 Datum: WGS84.
 
