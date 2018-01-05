@@ -90,7 +90,7 @@ Una vez concluido el proceso de evaluación de proyectos, la Comisión Evaluador
 
 ### Párrafo 5° — Recursos disponibles
 
-23. Los recursos involucrados para la selección ascienden a un total de 370.640 UF y su distribución territorial será la siguiente:
+23. Los recursos involucrados para la selección ascienden a un total de 252.975,74 UF y su distribución territorial será la siguiente:
 
 .
 
