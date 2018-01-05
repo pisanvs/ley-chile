@@ -134,7 +134,7 @@ Las Empresas podrán efectuar observaciones a las Bases preliminares dentro de l
 
 La Comisión acogerá o rechazará fundadamente las observaciones de las Empresas y comunicará las Bases Definitivas, las que en todo caso deberán ser aprobadas por ésta antes de once meses del término de vigencia de los precios vigentes, haciéndolas públicas a través del sitio de dominio electrónico de la Comisión.
 
-En caso de mantener discrepancias respecto de las Bases definitivas, las Empresas deberán presentarlas en el plazo de 5 días al Panel de Expertos, el que deberá resolver en un plazo máximo de 15 días.
+Si se mantuviesen controversias, las Empresas podrán presentar sus discrepancias al Panel de Expertos, dentro de los 10 días siguientes contados desde la recepción de las bases técnicas definitivas, debiendo el Panel de Expertos emitir su dictamen dentro de los 30 días siguientes contados desde la celebración de la audiencia señalada en el artículo 211º de la Ley.
 
 #### Artículo 15
 
@@ -438,7 +438,7 @@ Antes de seis meses del término de la vigencia de las tarifas, las Empresas pre
 
 Recibidos los Estudios, la Comisión dispondrá de un plazo de tres meses para remitir a las Empresas un informe técnico que contenga las observaciones y correcciones al Estudio y las fórmulas tarifarias respectivas. Durante todo el período señalado, la Consultora seleccionada deberá estar disponible para atender las consultas de la Comisión.
 
-Las Empresas dispondrán de quince días para formalizar su acuerdo o desacuerdo con la Comisión. En caso de no alcanzar acuerdo, la Comisión enviará los antecedentes al panel de expertos, el que resolverá en el plazo de quince días.
+Las Empresas dispondrán de quince días para formalizar su acuerdo o desacuerdo con la Comisión. En caso de no alcanzar acuerdo, la Comisión enviará los antecedentes al panel de expertos, el que resolverá en el plazo de quince días contado desde la celebración de la audiencia referida en el artículo 211º de la Ley.
 
 CAPITULO 4: DE LA FIJACION DE LOS PRECIOS REGULADOS
 

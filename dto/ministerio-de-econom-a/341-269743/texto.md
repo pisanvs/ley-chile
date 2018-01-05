@@ -104,11 +104,11 @@ De las Discrepancias
 
 #### Artículo 16
 
-En consistencia con el numeral 7 del artículo 208º de la ley, y lo señalado en el Título II del decreto supremo Nº181, del Ministerio de Economía, Fomento y Reconstrucción, de 2004, Reglamento del Panel de Expertos, las discrepancias respecto de los precios de los servicios no consistentes en suministro de energía que sean sujeto de fijación tarifaria de acuerdo a lo estipulado por el Tribunal de Defensa de la Libre Competencia, serán sometidas al dictamen del Panel de Expertos.
+De conformidad a lo dispuesto en el artículo 184º de la ley, las discrepancias que se produzcan en relación a la fijación de los precios de los servicios no consistentes en suministro de energía, podrán ser sometidas al dictamen del Panel de Expertos conforme al procedimiento establecido en el artículo 211º de la misma ley.
 
 #### Artículo 17
 
-A partir del aviso de publicación del informe técnico referido al capítulo del estudio correspondiente a los servicios no consistentes en suministro de energía, y en consistencia con la letra i) del artículo 33 del Reglamento del Panel de Expertos, las empresas distribuidoras tendrán un plazo de diez días para notificar sus discrepancias a la Comisión. Contado desde dicha notificación, tendrán un plazo de quince días para presentar sus discrepancias al Panel de Expertos, el cual deberá evacuar su dictamen dentro del plazo legal. Las discrepancias que presenten las empresas distribuidoras respecto del informe técnico, podrán estar basadas en los resultados del estudio realizado por ellas.
+A partir del aviso de publicación del informe técnico referido al capítulo del estudio correspondiente a los servicios no consistentes en suministro de energía, las empresas distribuidoras tendrán un plazo de diez días para notificar sus discrepancias a la Comisión. Contado desde dicha notificación, tendrán un plazo de quince días para presentar sus discrepancias al Panel de Expertos, el cual deberá evacuar su dictamen dentro del plazo legal. Las discrepancias que presenten las empresas distribuidoras respecto del informe técnico, podrán estar basadas en los resultados del estudio realizado por ellas.
 
 ## Capítulo V
 
