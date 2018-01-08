@@ -288,6 +288,36 @@ En caso que se sorprenda a un consumidor en la comisión flagrante de un delito 
 
 Cuando la contravención a lo dispuesto en los incisos anteriores no fuere constitutiva de delito, ella será sancionada en conformidad al artículo 24.
 
+#### Artículo 15
+
+A.- Los proveedores que ofrezcan servicios de estacionamiento de acceso al público general, cualquiera sea el medio de pago utilizado, se regirán por las siguientes reglas:
+
+1. El cobro de uso del servicio de estacionamiento por períodos inferiores a veinticuatro horas, se podrá efectuar optando por alguna de las siguientes modalidades:
+
+a) Cobro por minuto efectivo de uso del servicio, quedando prohibido el cargo por períodos, rangos o tramos de tiempo.
+
+b) Cobro por tramo de tiempo vencido, no pudiendo establecer un período inicial inferior a media hora. Los siguientes tramos o períodos no podrán ser inferiores a diez minutos cada uno.
+
+2. Cualquiera sea la modalidad de cobro que utilice el proveedor del servicio de estacionamientos, no podrá, bajo circunstancia alguna, redondear o aproximar la tarifa al alza.
+
+3. Los proveedores de servicio de estacionamiento podrán fijar un periodo de uso del servicio sin cobro, de acuerdo a sus políticas comerciales o a las condiciones de uso de dicho servicio.
+
+4. En caso de pérdida del comprobante de ingreso por parte del consumidor, corresponderá al proveedor consultar sus registros con el fin de determinar de manera fehaciente el tiempo efectivo de utilización del servicio, debiendo cobrar, en tal caso, el precio o tarifa correspondiente a éste, quedando prohibido cobrar una tarifa prefijada, multas o recargos. En este caso, el proveedor deberá solicitar al consumidor cualquier antecedente que permita acreditar o identificar al propietario del vehículo.
+
+5. Si, con ocasión del servicio y como consecuencia de la falta de medidas de seguridad adecuadas en la prestación de éste, se producen hurtos o robos de vehículos, o daño en éstos, el proveedor del servicio será civilmente responsable de los perjuicios causados al consumidor, no obstante la responsabilidad infraccional que corresponda de acuerdo a las reglas generales de esta ley.
+
+Cualquier declaración del proveedor en orden a eximir o a limitar su responsabilidad por hurtos, robos o daños ocurridos con ocasión del servicio no producirá efecto alguno y se considerará como inexistente.
+
+6. El proveedor deberá exhibir de forma visible y clara, en los puntos donde se realice el pago del estacionamiento, y en los ingresos del recinto, el listado de los derechos y obligaciones establecidos en la ley, haciendo mención del derecho del consumidor de acudir al Servicio Nacional del Consumidor o al juzgado de policía local competente, en caso de infracción.
+
+#### Artículo 15
+
+B.- Los prestadores institucionales de salud, sean éstos de carácter público o privado, no podrán realizar cobro alguno por los servicios de estacionamiento cuando éstos sean utilizados con ocasión de servicios de urgencia o emergencia, y durante el tiempo que duren éstas, o por pacientes que presenten dificultad física permanente o transitoria para su desplazamiento, circunstancia que deberá ser acreditada por el profesional a cargo del tratamiento o atención de salud.
+
+#### Artículo 15
+
+C.- A quien administre el servicio de estacionamiento en la vía pública sólo le será aplicable lo dispuesto en los números 1, 2 y 3 del artículo 15 A.
+
 ### Párrafo 4º
 
 Normas de equidad en las estipulaciones y en el cumplimiento de los contratos de adhesión
@@ -658,6 +688,8 @@ e) El monto total a pagar por el consumidor en cada alternativa de crédito, cor
 
 f) La tasa de interés moratorio en caso de incumplimiento y el sistema de cálculo de los gastos que genere la cobranza extrajudicial de los créditos impagos, incluidos los honorarios que correspondan, y las modalidades y procedimientos de dicha cobranza.".
 
+g) Los efectos del incumplimiento del crédito concedido y los efectos procesales del ejercicio de la acción ejecutiva en los casos que corresponda, tales como el embargo, el retiro y remate de bienes, entre otros, de conformidad al reglamento.
+
 No podrá cobrarse, por concepto de gastos de cobranza extrajudicial, cualesquiera sean la naturaleza de las gestiones, el número, frecuencia y costos en que efectivamente se haya incurrido, incluidos honorarios de profesionales, cantidades que excedan de los porcentajes que a continuación se indican, aplicados sobre el monto de la deuda vencida a la fecha del atraso a cuyo cobro se procede, conforme a la siguiente escala progresiva: en obligaciones de hasta 10 unidades de fomento, 9%; por la parte que exceda de 10 y hasta 50 unidades de fomento, 6%, y por la parte que exceda de 50 unidades de fomento, 3%. Los porcentajes indicados se aplicarán transcurridos los primeros veinte días de atraso, y no corresponderá su imputación respecto de saldos de capital insoluto del monto moroso o de cuotas vencidas que ya hubieren sido objeto de la aplicación de los referidos porcentajes. En ningún caso los gastos de cobranza extrajudicial podrán devengar un interés superior al corriente ni se podrán capitalizar para los efectos de aumentar la cantidad permitida de gastos de cobranza.
 
 El proveedor del crédito deberá realizar siempre a lo menos una gestión útil, sin cargo para el deudor, cuyo fin sea el debido y oportuno conocimiento del deudor sobre la mora o retraso en el cumplimiento de sus obligaciones, dentro de los primeros quince días siguientes a cada vencimiento impago. Si el proveedor no realizara oportunamente dicha gestión, la cantidad máxima que podrá cobrar por los gastos de cobranza extrajudicial efectivamente incurridos indicados en el inciso anterior, se reducirá en 0,2 unidades de fomento.
@@ -665,6 +697,26 @@ El proveedor del crédito deberá realizar siempre a lo menos una gestión útil
 Entre las modalidades y procedimientos de la cobranza extrajudicial se indicará si el proveedor la realizará directamente o por medio de terceros y, en este último caso, se identificarán los encargados; los horarios en que se efectuará, y la eventual información sobre ella que podrá proporcionarse a terceros de conformidad a la ley Nº 19.628, sobre protección de los datos de carácter personal.
 
 Se informará, asimismo, que tales modalidades y procedimientos de cobranza extrajudicial pueden ser cambiados anualmente en el caso de operaciones de consumo cuyo plazo de pago exceda de un año, en términos de que no resulte más gravoso ni oneroso para los consumidores ni se discrimine entre ellos, y siempre que de tales cambios se avise con una anticipación mínima de dos períodos de pago.
+
+Las empresas que realicen cobranza extrajudicial, así como también los proveedores de créditos que efectúen procesos de cobro, al iniciar cualquier gestión destinada a la obtención del pago de la deuda, deberán informar al deudor lo siguiente:
+
+1) Individualización de la persona, empresa mandante o proveedor del crédito, según corresponda;
+
+2) Mención precisa del o de los contratos, de su fecha de suscripción, de la fecha en que debió pagarse la obligación adeudada o de aquella en que se incurrió en mora y del monto adeudado;
+
+3) En el caso que se cobren intereses, la liquidación de los mismos, con mención expresa, clara y precisa de las tasas aplicadas, del tipo de interés y del período sobre el cual aquéllos recaen;
+
+4) En el caso que sean aplicables costos o gastos de cobranza, la mención expresa de éstos, su monto, causa y origen de conformidad a la ley, así como también de los impuestos, de los gastos notariales, si los hubiere, y de cualquier otro importe permitido por la ley;
+
+5) La posibilidad de pagar la obligación adeudada o las modalidades de pago que se ofrezcan, y
+
+6) Los derechos que le asisten en conformidad a esta ley en materia de cobranza extrajudicial, en especial el requerir el envío por escrito de la información señalada en los numerales precedentes. En caso que el consumidor guarde silencio al respecto, y una vez transcurridos quince días desde que la información fue entregada, la empresa deberá enviársela por escrito.
+
+En ningún caso la comunicación entregada podrá contener menciones a eventuales consecuencias de procedimientos judiciales que no se hayan iniciado o relacionadas a registros o bancos de datos de información de carácter económico, financiero o comercial, debiendo indicar expresamente que no se trata de un procedimiento que persiga la ejecución de los bienes del deudor.
+
+El proveedor del crédito o la empresa de cobranza deberán resguardar que la información dispuesta en cumplimiento de los numerales precedentes sólo sea de conocimiento del deudor, evitando cualquier acción que haga pública esta información.
+
+Un reglamento determinará la forma, condiciones y requisitos que deberá reunir el cumplimiento de las obligaciones señaladas en los incisos precedentes.
 
 Las actuaciones de cobranza extrajudicial no podrán considerar el envío al consumidor de documentos que aparenten ser escritos judiciales; comunicaciones a terceros ajenos a la obligación en las que se dé cuenta de la morosidad; visitas o llamados telefónicos a la morada del deudor durante días y horas que no sean los que declara hábiles el artículo 59 del Código de Procedimiento Civil, y, en general, conductas que afecten la privacidad del hogar, la convivencia normal de sus miembros ni la situación laboral del deudor.
 
