@@ -70,8 +70,6 @@ Resuelvo:
 
 5.- La presente resolución entrará en vigencia a partir de la fecha de su total tramitación.
 
-> **Nota.** El artículo 4° de la Resolución 82 Exenta, Contraloría, publicada el 18.01.2025, indica que la presente norma mantendrá su vigencia hasta el 28 de febrero de 2025, en todo lo que no resulte incompatible con lo establecido en la citada norma.
-
 Anótese, tómese razón y publíquese.- Jorge Bermúdez Soto, Contralor General de la República.
 
 Lo que transcribo a Ud. para su conocimiento.- Manuel Cortés Sarmiento, Secretario General Subrogante, Contraloría General de la República.
