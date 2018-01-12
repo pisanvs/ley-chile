@@ -1,0 +1,11 @@
+Certifico: Que por escritura pública de 28 de septiembre de 2017, otorgada en la Vigésimo Séptima Notaría de Santiago de don Eduardo Avello Concha, domiciliado en Orrego Luco Nº 153, comuna de Providencia, ciudad de Santiago, se redujo el acta de la junta extraordinaria de accionistas de Aurus Capital S.A. Administradora General de Fondos, celebrada el 21 de septiembre de 2017, ante el notario ya individualizado.
+
+Que por resolución exenta Nº 6.039, de fecha 11 de diciembre de 2017, de esta Superintendencia de Valores y Seguros, se aprobó la reforma de estatutos de Aurus Capital S.A. Administradora General de Fondos, consistente en:
+
+a) Modificar el artículo primero del estatuto reemplazándolo por el siguiente: Se constituye una sociedad anónima cerrada denominada "Aurus Capital S.A.", en adelante también "la Sociedad", la cual se regirá por las disposiciones de la ley 18.046 y su reglamento, el artículo 7º y demás pertinentes de la ley Nº 18.045, por el artículo 90 y demás pertinentes de la ley Nº 20.712, y por norma de carácter general Nº 364, de la Superintendencia de Valores y Seguros.
+
+b) Modificar el artículo cuarto del estatuto relativo al objeto social, pasando a ser la administración de recursos de terceros, entre ellos, la administración de fondos de inversión privados y desarrollar cualquier otra actividad en las áreas de administración de inversiones y/o activos de terceros. La sociedad también tendrá como objeto la distribución o representación de productos de inversión de terceros, la inversión y compra y venta de toda clase de bienes corporales e incorporales muebles e inmuebles, formar sociedades de inversión tanto en Chile como en el extranjero e invertir en toda clase de bienes muebles e inmuebles, corporales e incorporales, celebrar en calidad de asociado contratos de asociación en participación en negocios inmobiliarios tanto en Chile como en el extranjero y en general realizar cualquier clase de negocios o actividades que los accionistas de común acuerdo determinen.
+
+Otras modificaciones constan en la escritura extractada.
+
+Santiago, 11 de diciembre de 2017.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
