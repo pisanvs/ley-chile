@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1762 de 15 de diciembre de 2017, se modificó el numeral segundo del Decreto MOP (Exento) N°806 de 30 de septiembre de 2014, que ordenó la expropiación, entre otros, del Lote N°26, en la parte que se refiere al nombre del propietario y rol de avalúo, según certificado de avalúo emitido por el Servicio de Impuestos Internos, quedando como a continuación se indica: LOTE 26, ARCE RUIZ SALVADOR Y OTRO, superficie 258 m2., rol de avalúo 614-39, Comuna de MOLINA. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
