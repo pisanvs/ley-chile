@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1774, de 22 de diciembre de 2017, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 19A y 19B, para la obra: CONSTRUCCION EMBALSE LAS PALMAS, que figuran a nombre de TAPIA ABALLAY GINES DEL ROSARIO y TAPIA VARAS MARIA ANGELICA Y OTROS, roles de avalúo 160-734 y 160-004, Comuna de PETORCA, V REGION DE VALPARAÍSO, superficies 36.000 y 6.326 m2 respectivamente. La Comisión de Peritos integrada por NICOLAS ALEJANDRO ALARCON SANCHEZ, PAULINA LORENA JADUE ZAROR y LORETO ISABEL HERNANDEZ RIOS, mediante informe de tasación de 27 de noviembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $186.674.800, para el lote N° 19A y $9.566.950, para el lote N° 19B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
