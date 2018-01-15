@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1734 de 11 de diciembre de 2017, se modificó el numeral segundo del Decreto MOP (Exento) N° 149 de 27 de marzo de 2015, que ordenó la expropiación del Lote N° 45, en la parte que se refiere al nombre del propietario y rol de avalúo, según certificado de avalúo emitido por el Servicio de Impuestos Internos, quedando como a continuación se indica: LOTE 45, VERGARA RETAMAL RICHARD, superficie 68 m2., rol de avalúo 466-222, Comuna de CONSTITUCIÓN. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
