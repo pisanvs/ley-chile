@@ -1,0 +1,3 @@
+NOTIFICACIONES
+
+Mediante resolución N° 3.530, de 29 de diciembre de 2017, la Dirección Regional Serviu Los Lagos rectificó la resolución exenta N° 1.342, de 22 de mayo de 2015, que dispuso la expropiación del lote N° 41 del Proyecto "Mejoramiento Av. Juan Mackenna en Osorno", provincia de Osorno, Región de Los Lagos, que figura a nombre de Tarzijan Arbuch Pedro, rol de avalúo según SII N° 129-37, comuna de Osorno, en el sentido de rectificar el deslinde Este, el cual queda de la siguiente manera: "B-C en 10,24 mt. con rol 129-70".
