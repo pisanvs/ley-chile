@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 1739, de 15 de diciembre de 2017, y de conformidad con la facultad otorgada en el art. 3° letra a), 10° letra c), 14° letra e) y 105 del DFL MOP N° 850 de 1997, lo prescrito en el Decreto Ley N° 2186, de 1978; se expropió para ESSBÍO S.A. el lote de terreno N° 1, superficie 561,35 m2, Rol N° 90196-6, Comuna Arauco, para la obra "INSTALACIÓN RED BÁSICA ALCANTARILLADO AGUAS SERVIDAS CARAMPANGUE, PROVINCIA DE ARAUCO, VIII REGIÓN DEL BIOBÍO. La comisión de peritos, integrada por FELIPE TOLEDO QUIJADA, ÁLVARO BERRÍOS SAN MARTÍN y ANDRÉS TOBAR BELUZAN, fijó el valor de tasación con fecha 11 de febrero de 2013, acordándose el monto provisional de la indemnización con su propietaria EMPRESA DE FERROCARRILES DEL ESTADO, en la cantidad de $7.272.790.-, suma incrementada de común acuerdo por las partes en $8.727.210.- siendo la cantidad total a pagar de $16.000.000.- sin reajuste, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
