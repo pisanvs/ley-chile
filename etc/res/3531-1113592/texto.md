@@ -1,0 +1,3 @@
+NOTIFICACIONES
+
+Mediante resolución N° 3.531, de 29 de diciembre de 2017, la Dirección Regional Serviu Los Lagos rectificó la resolución exenta N° 2.474, de 17 de agosto de 2016, que dispuso la expropiación del lote N° 18 del Proyecto "Mejoramiento Av. Juan Mackenna en Osorno", provincia de Osorno, Región de Los Lagos, que figura a nombre de Inversiones Real Plus Limitada, rol de avalúo según SII N° 169-3, comuna de Osorno, en el sentido de rectificar el deslinde Sur, el cual queda de la siguiente manera: "C-D en 22,39 mt. con rol 169-12 y D-E en 1,32 mt. con rol 169-11".
