@@ -1,0 +1,3 @@
+NOTIFICACIONES
+
+Mediante resolución N° 3.532, de 29 de diciembre de 2017, la Dirección Regional Serviu Los Lagos rectificó la resolución exenta N° 2.472, de 17 de agosto de 2016, que dispuso la expropiación del lote N° 15 del Proyecto "Mejoramiento Av. Juan Mackenna en Osorno", provincia de Osorno, Región de Los Lagos, que figura a nombre del Banco de Chile, rol de avalúo según SII N° 169-7, comuna de Osorno, en el sentido de rectificar el deslinde Este, el cual queda de la siguiente manera: "C-D en 14,70 mt. con rol 169-2".
