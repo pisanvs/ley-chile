@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto M.O.P. (EXENTO) N° 1775 de 22 de diciembre de 2017, se desistió de la expropiación del lote N°112, ordenada por el Decreto MOP (Exento) N°860 de 3 de octubre de 2016, para la obra. "Reposición Pav. Ruta M-50", Sector "Chanco - Constitución", Tramo III Pellines - Cruce Viñales, kilómetro 78,36200 a km. 100,90000", debido a que el lote fue eliminado mediante Resuelvo S.R.M. (Exenta) VII Región N°1153 de 20 de junio de 2017. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° y 32° del Decreto Ley N° 2186, de 1978.
