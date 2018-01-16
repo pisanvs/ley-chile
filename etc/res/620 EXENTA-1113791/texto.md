@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL "PROCEDIMIENTO PARA LA ELIMINACIÓN SEGURA DE LOS EQUIPOS Y LOS MEDIOS", EN MATERIA DE SEGURIDAD DE LA INFORMACIÓN
+
+Por resolución exenta Nº 620, de 18 de diciembre de 2017, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Procedimiento para la "Eliminación Segura de los Equipos y los Medios", cuyo objetivo es instruir sobre dicho proceso de eliminación y de los funcionarios y áreas responsables para generar la "autorización de medios con información sensible" por cese de funcionarios o cambio de tecnología, respaldo de la información que sea pertinente de respaldar, formateo en Disco Duro, emisión de informes, validación de informes y planillas, en participa esencialmente la jefatura del Departamento de Seguridad de la Información y la Mesa de Ayuda de la División Informática.
+
+Santiago, 8 de enero de 2018.- Patricio Coronado Rojo, Director Nacional.
