@@ -1,0 +1,5 @@
+APRUEBA CONTRATO DE ARRENDAMIENTO ENTRE SOCIEDAD INMOBILIARIA Y DE INVERSIONES LOS GATOS S.A., Y EL INSTITUTO DE PREVISIÓN SOCIAL, POR INMUEBLE DENOMINADO LOCAL N° 19, LOTE A, CALLE BAQUEDANO, DE LA COMUNA DE LAMPA, REGIÓN METROPOLITANA
+
+Por resolución exenta Nº 623, de 18 de diciembre de 2017, el Director Nacional del Instituto de Previsión Social, aprueba Contrato de Arrendamiento entre Sociedad Inmobiliaria y de Inversiones Los Gatos S.A. y el IPS, de fecha 15 de noviembre de 2017, por medio del cual la mencionada Sociedad Inmobiliaria entrega en arrendamiento a este Instituto el Local Nº 19, del inmueble denominado Lote A, producto de la subdivisión de la propiedad ubicada en calle Baquedano, de la comuna de Lampa, Región Metropolitana.
+
+Santiago, 8 de enero de 2018.- Patricio Coronado Rojo, Director Nacional.
