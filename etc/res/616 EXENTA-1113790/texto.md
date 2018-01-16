@@ -1,0 +1,5 @@
+APRUEBA MODIFICACIÓN DE CONTRATO DE COMODATO ENTRE LA I. MUNICIPALIDAD DE LO PRADO Y EL INSTITUTO DE PREVISIÓN SOCIAL, RESPECTO DEL INMUEBLE MUNICIPAL "EDIFICIO DE SERVICIOS PÚBLICOS", UBICADO EN CALLE SAN PABLO N° 5849, DE LA COMUNA DE LO PRADO, CIUDAD DE SANTIAGO
+
+Por resolución exenta Nº 616, de 18 de diciembre de 2017, del Director Nacional del Instituto de Previsión Social, se aprueba la "Modificación de Contrato de Comodato" y su anexo "Plano", suscrito con fecha 24 de noviembre de 2017, entre el Instituto de Previsión Social y la Ilustre Municipalidad de Lo Prado, respecto del inmueble correspondiente al "Edificio de Servicios Públicos", de calle San Pablo Nº 5849, de la comuna de Lo Prado, ciudad de Santiago.
+
+Santiago, 8 de enero de 2018.- Patricio Coronado Rojo, Director Nacional.
