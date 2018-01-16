@@ -1,0 +1,5 @@
+APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL INSTRUCTIVO DENOMINADO "ACTUACIÓN ANTE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES", PARA SU APLICACIÓN A NIVEL NACIONAL
+
+Por resolución exenta Nº 663, de 28 de diciembre de 2017, el Director Nacional del Instituto de Previsión Social, aprueba el instructivo institucional denominado "Actuación ante Accidentes del Trabajo Enfermedades Profesionales", cuyo objetivo es describir las actuaciones que se deben ejecutar en la Institución, desde el momento en que acaece un accidente del trabajo (laboral o trayecto) o se presenta la posibilidad de una enfermedad profesional y hasta su conclusión o seguimiento de todas las medidas correctivas que resulten como consecuencia de los respectivos análisis e investigaciones que se produzcan, a partir de su ocurrencia.
+
+Santiago, 8 de enero de 2018.- Patricio Coronado Rojo, Director Nacional.
