@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL PROCEDIMIENTO DENOMINADO "BENEFICIOS CONVENIOS INTERNACIONALES", EN RELACIÓN CON LOS BENEFICIOS QUE OTORGAN LOS CONVENIOS DE SEGURIDAD SOCIAL SUSCRITOS POR CHILE CON DIFERENTES PAÍSES
+
+Por resolución exenta Nº 584, de 1 de diciembre de 2017, el Director Nacional del Instituto de Previsión Social, aprueba para el Instituto de Previsión Social, el Procedimiento denominado "Beneficios Convenios Internacionales", cuyo objetivo es entregar la información relativa a los beneficios que otorgan los Convenios de Seguridad Social que ha suscrito Chile con diferentes países, en cuanto a sus requisitos, proceso de la tramitación, áreas que intervienen y modalidad de cálculo utilizada en las pensiones, de manera de regular el actuar de aquellas áreas que intervienen en la tramitación de los beneficios solicitados en el marco de las citadas convenciones, con alcance en el nivel central y regional.
+
+Santiago, 8 de enero de 2018.- Patricio Coronado Rojo, Director Nacional.
