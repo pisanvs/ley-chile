@@ -1,0 +1,5 @@
+APRUEBA TÉRMINO DE CONTRATO DE COMODATO ENTRE LA I. MUNICIPALIDAD DE CHIMBARONGO Y EL INSTITUTO DE PREVISIÓN SOCIAL, RESPECTO DEL INMUEBLE DE DICHA ENTIDAD EDILICIA, UBICADO EN CALLE BLANCO ENCALADA N° 97, DE LA COMUNA DE CHIMBARONGO, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, SUSCRITO EL 10.06.2014
+
+Por resolución exenta Nº 624, de 18 de diciembre de 2017, el Director Nacional del Instituto de Previsión Social, aprueba Término de Contrato de Comodato entre el Instituto de Previsión Social y la Ilustre Municipalidad de Chimbarongo, mediante el cual la citada entidad edilicia entregó en comodato al Instituto, parte del inmueble municipal ubicado en Blanco Encalada Nº 97, de la ciudad y comuna de Chimbarongo, Región del Libertador General Bernardo O'Higgins, suscrito el 10 de junio de 2014.
+
+Santiago, 8 de enero de 2018.- Patricio Coronado Rojo, Director Nacional.
