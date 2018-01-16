@@ -1,0 +1,5 @@
+APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL EL DOCUMENTO DENOMINADO "POLÍTICA DE RELACIONES CON EL PROVEEDOR CÓDIGO: POL-04", EN RELACIÓN A LA SEGURIDAD DE LA INFORMACIÓN DE LA INSTITUCIÓN
+
+Por resolución exenta Nº 635, de 22 de diciembre de 2017, el Director Nacional del Instituto de Previsión Social, aprueba el documento "Política de Relaciones con el Proveedor Código: Pol-04", cuyo objetivo es establecer el marco normativo para la contratación de servicios externos, en relación a la seguridad de la información para los proveedores del Instituto de Previsión Social, para todo el personal externo que trabaja para el IPS, y que en el desarrollo de sus funciones pueda tener acceso a la información, sistemas de información o recursos IPS en general, con el fin de proteger la confidencialidad, integridad y disponibilidad de la información y sistemas manejados por el Instituto de Previsión Social.
+
+Santiago, 8 de enero de 2018.- Patricio Coronado Rojo, Director Nacional.
