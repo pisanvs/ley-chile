@@ -11716,7 +11716,7 @@ iii. Enmarcarse dentro de un régimen periódico de validación, seguimiento y c
 
 iv. Las definiciones, criterios, supuestos, metodologías, modelos y fuentes de información que sustentan la estimación de flujos de efectivo deben estar documentadas, de manera que sea posible replicar y trazar los cálculos de las mismas.
 
-### 3. Indicadores de monitoreo
+### 3. Indicadores de monitoreo y razón de liquidez sujeta a límite normativo
 
 3.1 Seguimiento de los activos líquidos
 
@@ -11734,9 +11734,7 @@ ii. El superávit de activos líquidos mantenido por una filial bancaria podrá 
 
 iii. En el caso de que un instrumento deje de calificar como ALAC, éste no podrá contabilizarse como tal, a partir de la fecha en que pierda esa condición.
 
-Conforme dispone el numeral 9.2 del capítulo III.B.2.1 del Compendio de Normas Financieras del Banco Central de Chile, el banco podrá considerar como "Otros Activos Líquidos" a los instrumentos financieros que no clasifiquen como N1 o N2 y que puedan ser liquidados en mercados secundarios, enajenados a otras instituciones o cedidos en pacto en el plazo de 30 días. Adicionalmente, el banco podrá considerar en esta categoría de activos la cartera de créditos con pagos al día y con clasificación de riesgo mayor o igual a A3, según lo dispuesto en el numeral
-
-2.1.1 del Capítulo B-1 del Compendio de Normas Contables de esta Superintendencia; y las garantías recibidas en instrumentos financieros que no clasifiquen como N1 o N2 y que, contractualmente, el banco pueda enajenar o ceder.
+Conforme dispone el numeral 9.2 del capítulo III.B.2.1 del Compendio de Normas Financieras del Banco Central de Chile, el banco podrá considerar como "Otros Activos Líquidos" a los instrumentos financieros que no clasifiquen como N1 o N2 y que puedan ser liquidados en mercados secundarios, enajenados a otras instituciones o cedidos en pacto en el plazo de 30 días. Adicionalmente, el banco podrá considerar en esta categoría de activos la cartera de créditos con pagos al día y con clasificación de riesgo mayor o igual a A3, según lo dispuesto en el numeral 2.1.1 del Capítulo B-1 del Compendio de Normas Contables de esta Superintendencia; y las garantías recibidas en instrumentos financieros que no clasifiquen como N1 o N2 y que, contractualmente, el banco pueda enajenar o ceder.
 
 Para las filiales bancarias establecidas en el extranjero, también podrán incluirse en la categoría "Otros Activos Líquidos" la cartera de créditos en cumplimiento total de pagos y cuya clasificación sea asimilable a las categorías mencionadas en el párrafo precedente; e instrumentos financieros recibidos en garantía que no clasifiquen como N1 o N2 y que, contractualmente, el banco pueda a enajenar o ceder en pacto. El banco y sus filiales, locales o extranjeras, también podrán incluir en esta categoría los instrumentos financieros no derivados utilizados con fines de negociación y los mantenidos hasta el vencimiento.
 
@@ -11744,81 +11742,111 @@ Para las filiales bancarias establecidas en el extranjero, también podrán incl
 
 El banco deberá hacer un seguimiento de sus pasivos de manera de asegurar una matriz de financiamiento suficientemente diversificada, en términos de plazos, instrumentos y contrapartes, acorde con su perfil de negocios y su tolerancia al riesgo. Esos niveles de diversificación deben formar parte de los planes de financiamiento de mediano y largo plazo, y estar integrado con otras actividades de planificación.
 
+Para efectos del cálculo de los indicadores de concentración, se deberá considerar el monto contable de los pasivos. En el caso de los instrumentos derivados, deberán computarse únicamente aquellas operaciones con valores razonables negativos, independientemente del mecanismo de pago y la naturaleza de los contratos que lo originan.
+
 En el seguimiento de sus pasivos, el banco deberá calcular a lo menos los siguientes indicadores:
 
 3.2.1 Concentración por tipo de contraparte
 
-Los bancos deberán calcular un índice de concentración para cada una de sus fuentes de financiamiento significativas, conforme se define en el numeral 1 anterior (clasificación de contrapartes).
+Los bancos deberán calcular un índice de concentración para cada una de sus fuentes de financiamiento.
 
-Este índice de concentración deberá ser calculado como la fracción del total de pasivos con terceros que representa cada grupo de contrapartes significativas:
+Este índice de concentración deberá ser calculado como la fracción del total de pasivos con terceros que representa cada grupo de contrapartes:
 
 .
 
+donde:
+
+z: tipo de contraparte, según clasificación de la Tabla 85 del Manual del Sistema de Información de esta Superintendencia (MSI).
+
+i: operación con el tipo de contraparte z.
+
 3.2.2 Tasa de renovación por tipo de contraparte
 
-Los bancos deberán calcular un factor de renovación para sus obligaciones en vencimiento, para cada uno de los tipos de contrapartes significativas. Para el cómputo de los montos vencidos y renovados, se considerará solo el capital inicial de las obligaciones.
+Los bancos deberán calcular un factor de renovación para sus obligaciones en vencimiento, para cada uno de los tipos de contrapartes significativas, conforme se define en el numeral 1 anterior (clasificación de contrapartes). Para el cómputo de los montos vencidos y renovados, se considerará solo el capital inicial de las obligaciones.
 
 El factor deberá ser calculado de acuerdo con la siguiente fórmula:
 
 .
 
+donde:
+
+z: tipo de contraparte, según clasificación de la Tabla 85 del MSI.
+
+i: operaciones con vencimiento en el día de reporte de la información con el tipo de contraparte z.
+
+j: operación con vencimiento en el día de reporte de la información con el tipo de contraparte z.
+
 3.2.3 Concentración por tipo de instrumento de captación
 
-Los bancos deberán calcular índices de concentración para cada uno de los instrumentos de captación significativos, definidos como aquellos tipos de instrumentos que representen más del 1% del total de pasivos con terceros del banco.
+Los bancos deberán calcular índices de concentración para cada uno de los instrumentos de captación.
 
 El índice de concentración deberá ser calculado como la fracción de los pasivos con terceros que representa cada tipo de instrumento captación:
 
 .
 
+donde:
+
+p: tipo de instrumento de captación, según clasificación de la tabla 86 del MSI.
+
+i: operación con el tipo de instrumento de captación p.
+
 3.2.4 Plazo residual ponderado por instrumento de captación
 
-Los bancos deberán calcular el plazo residual ponderado, en días, para cada uno de los instrumentos de captación significativos.
+Los bancos deberán calcular el plazo residual ponderado, en días, para cada uno de los instrumentos de captación.
 
 El indicador deberá ser calculado de acuerdo a la siguiente fórmula:
 
 .
 
+donde:
+
+p: tipo de instrumento de captación, según clasificación de la Tabla 86 del MSI.
+
+i: operación con el tipo de instrumento de captación p
+
+j: operación con el tipo de instrumento de captación p.
+
 3.3 Criterios generales para la determinación de flujos de efectivo
 
-Para fines de lo que se establece en los números 10 a 12 del Capítulo III.B.2.1 del Compendio de Normas Financieras del Banco Central de Chile, el banco deberá determinar los flujos de efectivo asociados a sus posiciones activas y pasivas dentro y fuera de balance, observando lo que se indica en los numerales 1 y 2.2 anteriores y en el Anexo de este Capítulo.
+Para fines de lo que se establece en los números 11 a 12 del Capítulo III.B.2.1 del Compendio de Normas Financieras del Banco Central de Chile, el banco deberá determinar los flujos de efectivo asociados a sus posiciones activas y pasivas dentro y fuera de balance, observando lo que se indica en los numerales 1 y 2.2 anteriores y en el Anexo de este Capítulo.
 
-3.4 Razón de cobertura de liquidez (RCL)
+3.4 Razón de cobertura de liquidez (LCR) sujeta a límite normativo
 
-Para dar cumplimiento a lo dispuesto en el número 11 del Capítulo III.B.2.1, los bancos deberán utilizar las tasas de renovación o permanencia de sus fuentes de financiamiento, las tasas de renovación de colocaciones, las tasas de uso aplicables a líneas de crédito y liquidez, y los ponderadores aplicables al valor ajustado de los instrumentos líquidos que se indican en las Tablas 87 y 88 del MSI.
+Para dar cumplimiento a lo dispuesto en los números 11 y 11 bis del Capítulo III.B.2.1, los bancos deberán utilizar las categorías y los ponderadores definidos en las Tablas 87 y 88 del MSI, respectivamente, para los flujos de ingresos y egresos.
 
 El banco deberá computar sus ALAC, para cada moneda significativa, de acuerdo con lo indicado en el numeral 3.1 precedente, utilizando la siguiente fórmula:
 
 .
 
+Corresponde asignar el monto de ALAC en la primera banda temporal. Sólo se asignarán estos montos en otras bandas temporales cuando medie alguna operación que involucre intercambios futuros de ALAC, como por ejemplo, operaciones de pactos. En este último caso, los instrumentos serán asignados a valor razonable en la banda correspondiente al vencimiento de la operación, con valor positivo cuando el banco reciba instrumentos y negativo cuando los entregue. Cualquiera sea el caso, los ALAC deberán ser computados a valor corriente de mercado.
+
 El banco deberá computar sus flujos de efectivo de acuerdo con lo indicado en el numeral 3.3 precedente, exceptuando lo referido al ajuste de líneas de crédito y de liquidez, las que deberán ser computadas por el monto contractualmente disponible, correspondiente a la porción no utilizada de las líneas. El cálculo de los egresos netos estresados deberá efectuarse utilizando la siguiente fórmula:
 
 .
 
-El banco deberá calcular el RCL para moneda nacional y extranjera, expresado en moneda nacional al tipo de cambio de representación contable vigente a la fecha de medición, utilizando la fórmula que se indica a continuación:
+El banco deberá calcular un LCR para moneda nacional y para cada moneda extranjera, estas últimas expresadas en moneda nacional al tipo de cambio de representación contable vigente a la fecha de medición, utilizando la fórmula que se indica a continuación:
 
 .
 
-Para calcular el RCL global, el banco deberá agregar los , utilizando la siguiente relación:
+Asimismo, deberá determinar el LCR global, es decir, calculado para la suma de moneda nacional y extranjera, utilizando las fórmulas de ALAC, Egresos Netos y Razón de cobertura de liquidez anteriores, sin distinción por tipo de moneda "m", tal como lo indica el numeral 4 del Anexo.
 
-.
+Los bancos deben observar en todo momento, y para los niveles de consolidación previstos en el numeral 7.5 del Capítulo III.B.2.1, un LCR global superior a 1, medido de acuerdo a lo establecido en el párrafo anterior. Conforme a ello, el LCR determinado aisladamente en moneda extranjera, no estará sujeto al límite normativo.
 
-3.5 Razón de financiamiento estable neto (RFEN)
+3.5 Razón de financiamiento estable neto (NSFR)
 
 Para dar cumplimiento a lo dispuesto en el número 12 del Capítulo III.B.2.1, los bancos deberán utilizar las tasas de estabilidad de activos, pasivos, ALAC y posiciones fuera de balance que se indican en las tablas 87 y 88 del MSI.
 
-Para el cálculo de las fuentes de financiamiento estable disponible y de financiamiento estable requerido, el banco deberá computar su ALAC y flujos de efectivo, para cada moneda significativa, de acuerdo con lo indicado en los numerales 3.1 y 3.3 precedentes, exceptuando el ajuste a líneas de crédito y liquidez, las que deberán ser computadas de acuerdo con la porción contractualmente disponible y no utilizada. Las porciones estables, para cada ítem del activo y pasivo, se determinarán aplicando las siguientes fórmulas:
+Para el cálculo de las fuentes de financiamiento estable disponible y de financiamiento estable requerido, el banco deberá determinar su ALAC y flujos de capital e intereses devengados, para cada moneda significativa, de acuerdo con lo indicado en los numerales 3.1 y 3.3 precedentes, exceptuando el ajuste a líneas de crédito y liquidez, las que deberán ser computadas de acuerdo con la porción contractualmente disponible y no utilizada. Las porciones estables, para cada ítem del activo y pasivo, se determinarán aplicando las siguientes fórmulas:
 
 .
 
 Los factores γi y γj son los que se indican en las tablas 87 y 88 del MSI.
 
-Para calcular la RFEN para moneda nacional y extranjera, expresado en moneda nacional al tipo de cambio de representación contable vigente a la fecha de medición, se utilizará la siguiente fórmula:
+Para calcular el NSFR para moneda nacional y extranjera, expresado en moneda nacional al tipo de cambio de representación contable vigente a la fecha de medición, se utilizará la siguiente fórmula:
 
 .
 
-Para calcular el RFEN global, el banco deberá agregar los por moneda, utilizando la siguiente relación:
-
-.
+Asimismo, deberá determinar el NSFR global, es decir, calculado para la suma de moneda nacional y extranjera, utilizando las fórmulas de FED, FER y Razón de Financiamiento Estable Neto anteriores, sin distinción por tipo de moneda "m", tal como se indica en el numeral 4 del Anexo.
 
 ### IV. INFORMACIÓN A LA SUPERINTENDENCIA
 
