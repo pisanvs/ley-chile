@@ -1,0 +1,5 @@
+AUTORIZA A DERIS S.A. PARA OPERAR NAVES QUE INDICA EN ÁREAS SEÑALADAS, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 12 TRANSITORIO DE LA LEY GENERAL DE PESCA Y ACUICULTURA, AÑO 2018
+
+Por resolución exenta N° 4.491, de 29 de diciembre de 2017, de esta Subsecretaría, autorízase a Deris S.A. para realizar operaciones pesqueras a contar del 1° de enero de 2018 y hasta el 31 de diciembre del mismo año, ambas fechas inclusive, con los barcos fábrica "Puerto Ballena", "Cabo de Hornos", "Puerto Toro" en el área marítima comprendida entre los paralelos 44° 30' L.S. y 57° L.S.; con el barco fábrica "Diego Ramírez", en el área marítima comprendida entre los paralelos 44° 30' L.S. y 47° L.S. y con los barcos fabrica "Puerto Williams" y "Antarctic Endeavour", en el área marítima comprendida entre los paralelos 47° L.S. y 57° L.S., sobre los recursos y con las obligaciones establecidas en sus respectivas autorizaciones.
+
+Valparaíso, 29 de diciembre de 2017.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
