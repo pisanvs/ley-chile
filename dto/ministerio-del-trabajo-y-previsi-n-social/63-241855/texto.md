@@ -18,17 +18,19 @@ Ambito de aplicación y prohibiciones
 
 Este Reglamento tiene por objeto regular la normativa sobre:
 
-a) Las manipulaciones manuales de carga que impliquen riesgos a la salud o a las condiciones físicas de los trabajadores regidos por el Código del Trabajo, y
+a) La exposición a los riesgos a la salud o a las condiciones físicas de los trabajadores, regidos por el Código del Trabajo, que efectúen manipulación manual inevitable de carga y descarga, y
 
-b) Las obligaciones del empleador, para la protección de los trabajadores que realizan estas labores.
+b) Las obligaciones del empleador, en la prevención, control, reducción y protección de los riesgos a los trabajadores que realizan estas labores.
 
-#### Artículo 2º
+#### Artículo 2°
 
-En caso que el manejo o manipulación manual de carga sea inevitable y las ayudas mecánicas no puedan usarse, no se permitirá que se opere con cargas superiores a 50 kilogramos.
+En los casos que el manejo o manipulación manual de carga sea inevitable y las ayudas mecánicas no puedan usarse, no se permitirá que se opere con cargas superiores a 25 kilogramos, para hombres mayores de edad.
 
-#### Artículo 3º
+#### Artículo 3°
 
-En el caso de menores de 18 años y de mujeres, la carga máxima de manejo o manipulación manual será de 20 kilogramos.
+Los menores de 18 años y las mujeres no podrán llevar, levantar, transportar, cargar, arrastrar ni empujar manualmente, y sin ayuda mecánica, cargas de manipulación inevitable superiores a 20 kilogramos.
+
+En todo caso, el empleador deberá adoptar medidas especiales de seguridad y mitigación, tales como rotación de trabajadores, disminución de las alturas de levantamiento o aumento de la frecuencia con la que se manipula la carga, pudiendo establecer o adecuar respecto de esta última medida, los tiempos máximos para la manipulación manual de carga, así como las pausas de trabajo que procedan, de conformidad a las disposiciones de este Reglamento y la Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga.
 
 #### Artículo 4º
 
@@ -78,11 +80,11 @@ m) "Colocación de carga": corresponde al posicionamiento de la carga en un luga
 
 n) "Sostén de carga": es aquella tarea de mantener sujeta una carga, sin asistencia mecánica;
 
-o) "Medios adecuados": corresponde a aquellos elementos o condiciones que permiten realizar un esfuerzo físico, con mínima probabilidad de producir daño, principalmente a nivel dorso-lumbar;
+o) "Medios adecuados": corresponde a aquellos elementos o condiciones que permiten realizar un esfuerzo físico, con mínima probabilidad de producir daño, principalmente a nivel dorso-lumbar de conformidad con la Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga.;
 
 p) "Medios o ayudas mecánicas": corresponde a aquellos elementos mecanizados que reemplazan o reducen el esfuerzo físico asociado al manejo o manipulación manual de carga;
 
-q) "Manejo o manipulación manual inevitable de carga": es aquella labor en que las características del proceso no permiten utilizar medios o ayudas mecánicas;
+q) "Manejo o manipulación manual inevitable de carga": es aquella labor en que las características del proceso productivo no permiten al empleador, utilizar medios o ayudas mecánicas que impidan la exposición del trabajador al riesgo de manejo o manipulación manual de carga;
 
 r) "Formación satisfactoria en los métodos de trabajo": corresponde a la capacitación en los riesgos a la salud o a las condiciones físicas del trabajador, asociados al manejo o manipulación manual de carga, y en los procedimientos que permitan prevenir principalmente el daño osteomuscular.
 
@@ -92,9 +94,9 @@ s) "Evaluación de riesgos a la salud o a las condiciones físicas de los trabaj
 
 Obligaciones del empleador
 
-#### Artículo 7º
+#### Artículo 7°
 
-Para efectos de lo dispuesto en el inciso primero del artículo 211-G del Código del Trabajo, el empleador velará para que en la organización de sus faenas se utilicen medios técnicos tales como la automatización de procesos o el empleo de ayudas mecánicas, entre las que se pueden indicar:
+El empleador es responsable de la gestión de los riesgos a que se refiere el presente Reglamento, para lo cual deberá procurar que en la organización de la faena se utilicen los medios adecuados, a fin de evitar el manejo o manipulación manual de carga por el trabajador, como lo son la automatización o cambios de los procesos productivos, así como el uso de ayudas mecánicas. Para estos efectos se considerarán ayudas mecánicas las siguientes:
 
 a) Grúas, montacargas, tecles, carretillas elevadoras, sistemas transportadores;
 
@@ -126,7 +128,7 @@ Será obligación del trabajador cumplir con los procedimientos de trabajo para 
 
 #### Artículo 10º
 
-Con el objeto de determinar los riesgos a la salud o a las condiciones físicas de los trabajadores, derivados del manejo o manipulación manual de carga, a que se refiere el artículo 211-F del Código del Trabajo, y sin perjuicio de las normas de la ley Nº 16.744, el empleador evaluará los referidos riesgos, conforme a los criterios indicados en el presente Reglamento.
+Con el objeto de prevenir daños a la salud o a las condiciones físicas de los trabajadores, derivados del manejo o manipulación manual de carga cuando éste ha sido inevitable, así como para dar cumplimiento a los límites de carga humana establecidos en los artículos 2 y 3 de este Reglamento, el empleador deberá evaluar los riesgos a los que expone a los trabajadores durante la faena, conforme a los criterios establecidos en el presente Reglamento y en su Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga.
 
 La evaluación de los riesgos a que se refiere el inciso precedente, deberá efectuarla el empleador por intermedio de alguna de las siguientes personas o entidades:
 
@@ -134,15 +136,21 @@ a) El Departamento de Prevención de Riesgos a que se refiere la Ley Nº 16.744,
 
 b) Con la asistencia técnica del Organismo Administrador de la Ley Nº 16.744, al que se encuentre afiliado o adherido;
 
-c) Con la asesoría de un profesional competente, y d) El Comité Paritario de Higiene y Seguridad.
+c) Con la asesoría de un profesional competente, conforme a las características que determine la Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga, y
+
+d) El Comité Paritario de Higiene y Seguridad.
+
+A partir de esta evaluación, y de acuerdo a los criterios y Guía antes individualizados, los límites máximos de carga humana deberán ser disminuidos de conformidad con el artículo 15 de este Reglamento, en la medida que existan otros factores que agraven o hagan intolerable el riesgo de exposición.
 
 #### Artículo 11º
 
 La evaluación de riesgos prescrita en el presente Reglamento, contendrá al menos la identificación de los puestos de trabajo, los trabajadores involucrados, el resultado de las evaluaciones, las medidas preventivas correspondientes y las correcciones al procedimiento de trabajo evaluado.
 
-Dicha evaluación se actualizará cada vez que cambien las condiciones de trabajo o cuando se hayan detectado daños a la salud de los trabajadores. Asimismo, siempre que lo indique el Organismo Administrador y/o las entidades fiscalizadoras se deberá reevaluar el riesgo.
+Dicha evaluación se actualizará al menos cada 4 años y, cada vez que cambien las condiciones de trabajo o cuando se hayan detectado daños a la salud de los trabajadores. Asimismo, siempre que lo indique el Organismo Administrador y/o las entidades fiscalizadoras se deberá reevaluar el riesgo.
 
-No obstante lo anterior, los riesgos derivados del manejo o manipulación manual de carga podrán ser evaluados con la periodicidad acordada entre el empleador y los representantes de los trabajadores, por indicaciones del Comité Paritario de Higiene y Seguridad o del Departamento de Prevención de Riesgos.
+No obstante lo anterior, los riesgos derivados del manejo o manipulación manual de carga podrán ser evaluados con una periodicidad inferior acordada entre el empleador y los representantes de los trabajadores, por indicaciones del Comité Paritario de Higiene y Seguridad o del Departamento de Prevención de Riesgos.
+
+Sin perjuicio de lo indicado en las normas precedentes, será aplicable al manejo manual de carga lo dispuesto en los artículos 71 y 72 del decreto supremo N° 101, de 1968, del Ministerio del Trabajo y Previsión Social, tanto respecto de las obligaciones del empleador como de los Organismos Administradores de la ley N° 16.744.
 
 #### Artículo 12º
 
@@ -196,7 +204,7 @@ b) Si el esfuerzo físico debe ser realizado sólo por movimientos de torsión o
 
 c) Si el esfuerzo físico implica movimientos bruscos de la carga;
 
-d) Si el esfuerzo físico se realiza con el cuerpo en posición inestable, y
+d) Si el esfuerzo físico se realiza con el cuerpo en posición inestable o postura forzada, y
 
 e) Si el esfuerzo físico requiere levantar o descender la carga modificando el tipo de agarre.
 
@@ -210,15 +218,15 @@ c) Si el ritmo impuesto por un proceso no puede ser controlado por el trabajador
 
 ## Título IV
 
-Guía Técnica para la evaluación y control de los riesgos derivados del manejo o manipulación manual de carga
+Guía Técnica para la evaluación y control de los riesgos asociados al manejo o manipulación manual de carga
 
 #### Artículo 14º
 
-El procedimiento de evaluación de los riesgos que contempla el artículo 13º del presente Reglamento, se regirá por una Guía Técnica de Evaluación de Riesgos de Manejo o Manipulación Manual de Carga, que será dictada mediante resolución del Ministerio del Trabajo y Previsión Social, el que podrá solicitar informe a la Comisión Ergonómica Nacional.
+El procedimiento de evaluación de los riesgos que contempla el artículo 13º del presente Reglamento, se regirá por una Guía Técnica para la Evaluación y Control de los Riesgos Asociados al Manejo o Manipulación Manual de Carga, que será dictada mediante resolución del Ministerio del Trabajo y Previsión Social, el que podrá solicitar informe a la Comisión Ergonómica Nacional.
 
 #### Artículo 15º
 
-Si los resultados de la evaluación determinan que existe un riesgo no tolerable, el empleador procurará reorganizar los procesos o utilizar los medios apropiados para reducir los riesgos a un nivel tolerable. Para ello podrá optar por alguna de las siguientes medidas o por varias de ellas combinadas:
+Si los resultados de la evaluación determinan que existe un riesgo no tolerable, el empleador procurará reorganizar los procesos o utilizar los medios adecuados para reducir los riesgos a un nivel tolerable. Para ello deberá optar por alguna de las siguientes medidas o por varias de ellas combinadas:
 
 a) Utilizar ayudas mecánicas;
 
@@ -237,6 +245,10 @@ La fiscalización del cumplimiento de las normas del presente Reglamento corresp
 #### Artículo Transitorio
 
 En tanto no se dicte la Guía Técnica a que se refiere el artículo 14º, deberán utilizarse otras metodologías que permitan evaluar los riesgos a la salud o a las condiciones físicas de los trabajadores considerando, a lo menos, los criterios indicados en el artículo 13º del presente Reglamento.
+
+#### Artículo segundo
+
+transitorio.- Sin perjuicio de la aplicación de lo dispuesto en el artículo 211-H del Código del Trabajo, modificado por la ley N° 20.949, mientras no se actualice la Guía Técnica dictada en virtud del artículo 14º de este Reglamento, continuará aplicándose en lo que corresponda, la Guía aprobada mediante resolución N° 195, de 9 de abril de 2008, publicada en el Diario Oficial con fecha 28 de abril de 2008, de la Subsecretaría de Previsión Social.
 
 Tómese razón, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.
 
