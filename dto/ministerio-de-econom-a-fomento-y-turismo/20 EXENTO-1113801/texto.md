@@ -1,0 +1,7 @@
+ESTABLECE CUOTA ANUAL DE CAPTURA PARA LOS RECURSOS HUIRO NEGRO, HUIRO PALO Y HUIRO FLOTADOR EN LA III REGIÓN DE ATACAMA Y HUIRO FLOTADOR EN EL SECTOR BAHÍA CHASCO, AÑO 2018
+
+Por decreto exento N° 20, de 12 de enero de 2018, de este Ministerio, fíjase una cuota de captura de 57.978 toneladas del recurso Huiro negro Lessonia berteroana o spicata, 14.419 toneladas del recurso Huiro palo Lessonia trabeculata, 2.284 toneladas del recurso Huiro flotador Macrocystis pyrifera, a ser extraída en el área marítima de la III Región de Atacama, cuyo Plan de Manejo fue aprobado a través de la resolución exenta N° 2.672, de 2013; y de 7.761 toneladas del recurso Huiro flotador Macrocystis pyrifera, a ser extraídas en el sector denominado Bahía Chasco, cuyo Plan de Manejo fue aprobado por resolución exenta N° 2.187, de 2010, ambas resoluciones de la Subsecretaría de Pesca y Acuicultura, las que se harán efectivas entre el 1 de enero y 31 de diciembre de 2018, ambas fechas inclusive, y serán distribuidas de la siguiente manera:
+
+El texto íntegro del presente decreto se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 12 de enero de 2018.- Pablo Berazaluce Maturana, Subsecretario de Pesca y Acuicultura.
