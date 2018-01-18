@@ -26,11 +26,11 @@ Que, de conformidad a la facultad legal expresamente conferida al efecto, es nec
 
 Decreto:
 
-I. Desígnese, a doña Alejandra Cortázar Valdés, sicóloga, RUT N° 13.436.278-2, a contar de la fecha del presente decreto, de conformidad a lo dispuesto en el artículo 33 de la ley N° 20.529, en calidad de consejera de la Agencia de la Calidad de la Educación, con reconocido prestigio, conocimiento y experiencia en la educación parvularia.
+I. Desígnese, a doña Alejandra Cortázar Valdés, sicóloga, RUT N° 13.436.278-2, a contar de la fecha del presente decreto, de conformidad a lo dispuesto en el artículo 33 de la ley N° 20.529, en calidad de consejera de la Agencia de la Calidad de la Educación, con reconocido prestigio, conocimiento y experiencia en la educación parvularia. Lo anterior, en reemplazo de doña Trinidad Montes Silva.
 
 II. Por razones impostergables de buen servicio, la persona antes individualizada, deberá asumir sus funciones en la fecha señalada, sin esperar la total tramitación del presente decreto.
 
-III. Déjese establecido, que de acuerdo al artículo 34 de la ley N° 20.529, los miembros del consejo serán nombrados por un periodo de seis años, pudiendo ser designados por un nuevo periodo, los cuales se renovarán por parcialidades de tres y dos consejeros cada tres años, respectivamente, lo cual será determinado mediante el reglamento interno a que hace referencia el artículo 39 de la norma citada.
+III. Déjese establecido que el presente nombramiento no se podrá extender más allá del 19 de octubre de 2021, en orden a resguardar el régimen de renovación parcial del Consejo de la Agencia de Calidad de la Educación, dispuesto en el artículo 34 de la ley N° 20.529.
 
 Anótese, tómese razón, comuníquese y publíquese.- Adriana Delpiano Puelma, Ministra de Educación.
 
