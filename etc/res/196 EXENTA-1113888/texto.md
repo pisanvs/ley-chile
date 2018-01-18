@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 196 EXENTA, DE 14 DE MARZO DE 2016
+
+Por resolución exenta N° 196, de 14 de marzo de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Magallanes y Antártica Chilena, se aprobaron los Planes y Programas de la Escuela de Conductores no Profesionales "Capacitaciones Avansur Limitada", cuyo nombre de fantasía es "Avansur Ltda.", representada legalmente por doña Rosa Celinda Paillán Cheuquepil, cédula nacional de identidad N° 7.560.579-K, para impartir cursos conducentes a la obtención de la licencia de conductor Clase B, en su sede ubicada en calle Croacia N° 1198, comuna de Punta Arenas. La Escuela de Conductores tendrá como Director a doña Elena Elizabeth Oyarzún Millán, RUN N° 6.609.910-5. Las horas pedagógicas autorizadas a la referida Escuela son 9 teóricas, 19 prácticas, con un total de 28 horas pedagógicas. Asimismo se dejó sin efecto la resolución exenta N°130/2016, de esa Secretaría Regional Ministerial de Transportes y Telecomunicaciones.-
+
+Gabriel Muñoz Obando, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Magallanes y Antártica Chilena.
