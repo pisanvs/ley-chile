@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos, Nº 3 de 15 de enero de 2018, que autoriza a las Instituciones sin fines de lucro, Soc. de Rehabilitación del Niño y Adolescente Lisiado, RUT Nº 71.023.700-K; Fundación Viña en Acción, RUT Nº 65.096.231-1; Fundación Jean-Jacques Dessalines, RUT Nº 65.149.868-6; Fundación Mater Filius Chile, RUT Nº 65.134.442-5; Fundación Mano Amiga, RUT Nº 71.596.800-2; Centro de Estudios y Atención del Niño y la Mujer, RUT Nº 70.879.400-7; Fundación Vivir con Dignidad es Vivir Feliz, RUT Nº 65.142.495-K; Junta de Vecinos Villa Santa Rosa de la U.V. Nº 23, RUT Nº 65.051.085-2; Fundación Bonhomia, RUT Nº 65.096.609-0; Junta de Vecinos Nº 9 Rural Michaihue, RUT Nº 71.709.900-1 y Junta de Vecinos Riviera del Bío Bío, RUT Nº 72.206.200-0 como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de enero de 2018.
