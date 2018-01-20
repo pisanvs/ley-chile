@@ -152,8 +152,6 @@ El ejercicio transitorio de actividades lucrativas, estará grabado por los sigu
 
 .
 
-> **Nota.** El Decreto 1100 exento, Municipalidad de Vallenar, publicado el 17.04.2018, dispone modificar el cuadro inserto en los términos que la citada norma indica.
-
 #### Artículo 12
 
 <!-- parte:9803527 -->
@@ -259,8 +257,6 @@ Los derechos a pagar por el arriendo mensual de los locales del Mercado Municipa
 .
 
 Gastos generales: 10% sobre canon de arriendo.
-
-> **Nota.** El Decreto 525 Exento, M. de Vallenar, publicada el 29.06.2018, modifica los derechos a pagar por el arriendo mensual de los locales del mercado municipal contenidos en la tabla inserta en el articulo 19 de este Decreto.
 
 ### Párrafo 4º
 
