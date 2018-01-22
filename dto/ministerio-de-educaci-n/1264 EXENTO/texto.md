@@ -58,6 +58,8 @@ Apruébanse los siguientes programas de estudio para 1º año de Educación Medi
 
 9. Música.
 
+10. Tecnología.
+
 #### Artículo 2º ter
 
 Apruébanse los siguientes programas de estudio para 2º año de Educación Media, correspondientes a las siguientes asignaturas:
@@ -73,6 +75,10 @@ Apruébanse los siguientes programas de estudio para 2º año de Educación Medi
 5. Educación Física y Salud.
 
 6. Orientación.
+
+7. Lengua y Literatura.
+
+8. Artes Visuales.
 
 #### Artículo 3º
 
