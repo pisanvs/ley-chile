@@ -8,7 +8,7 @@ Decreto:
 
 1.- Concédese personalidad jurídica a la entidad denominada "Fundación Proyecto B", con domicilio en la provincia de Santiago, Región Metropolitana de Santiago.
 
-2.- Apruébanse los estatutos por los cuales se ha de regir la citada entidad, en los términos que dan testimonio las escrituras públicas de fechas 7 de octubre de 2010, 22 de febrero y 27 de julio, ambas de 2011, otorgadas ante el Notario Público de Santiago, don Iván Torrealba Acevedo.
+2.- Apruébanse los estatutos por los cuales se ha de regir la citada entidad, en los términos que dan testimonio las escrituras públicas de fechas 7 de octubre de 2010, 22 de febrero y 26 de julio, ambas de 2011, otorgadas ante el Notario Público de Santiago, don Iván Torrealba Acevedo.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Teodoro Ribera Neumann, Ministro de Justicia.
 
