@@ -68,6 +68,8 @@ f.- Unidad de Auditoría de Obras.
 
 Además, formarán parte de las Contralorías Regionales Metropolitanas, la Unidad Técnica de Control Externo, la Unidad de Apoyo al Cumplimiento, la Unidad de Análisis Contable y la Oficina de Partes, las que dependerán directamente, en cada una de ellas, del respectivo Contralor Regional. Asimismo, contarán con un administrador regional y un coordinador informático.
 
+Cada una de las unidades señaladas precedentemente se encontrará a cargo de un jefe. La Unidad Jurídica contará, además, con un encargado de Control de Legalidad, y la Unidad de Personal y Responsabilidad Administrativa, por su parte, contará con un Encargado de Control de Legalidad y un Encargado de Registro.
+
 #### Artículo 6º
 
 <!-- parte:9760376 -->
