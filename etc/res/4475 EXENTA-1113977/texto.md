@@ -1,0 +1,5 @@
+AUTORIZA A PESCA CISNE S.A. PARA OPERAR NAVES QUE INDICA EN ÁREA SEÑALADA, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 12 TRANSITORIO DE LA LEY GENERAL DE PESCA Y ACUICULTURA
+
+Por resolución exenta N° 4.475, de 27 de diciembre de 2017, de esta Subsecretaría, autorízase a Pesca Cisne S.A. para realizar operaciones pesqueras, a contar del 1 de enero del año 2018 y hasta el 31 de diciembre del mismo año, ambas fechas inclusive, con el barco fábrica "Cisne Blanco", en aguas exteriores, por fuera de las líneas de base rectas, al sur del paralelo 44°30' LS, y con el barco fábrica "Cisne Verde", en aguas exteriores, por fuera de las líneas de base rectas, al sur del paralelo 47°00' LS, respecto de los recursos y con las obligaciones establecidas en sus respectivas autorizaciones.
+
+Valparaíso, 27 de diciembre de 2017.- Pablo Berazaluce Maturana, Subsecretario de Pesca y Acuicultura.
