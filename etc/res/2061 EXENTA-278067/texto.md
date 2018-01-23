@@ -18,6 +18,8 @@ Resuelvo:
 
 Podrán también excepcionalmente circular en las referidas pistas los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control; y aquellos vehículos municipales destinados a cumplir funciones de apoyo a la función policial, que se encuentren debidamente identificados.
 
+Asimismo, podrán circular por dichas pistas de uso exclusivo los buses de servicio de transporte público rural de pasajeros. Sin perjuicio de lo anterior, si estos buses circulan por Av. Pedro Aguirre Cerda, con dirección sur-norte, deberán hacer abandono de dichas pistas en el egreso situado entre calle Piloto Acevedo y Antonio Escobar Williams.
+
 2.- Las señaladas pistas se encontrarán debidamente segregadas del resto de la vía y señalizadas de conformidad con el Manual de
 
 Señalización de Tránsito.
