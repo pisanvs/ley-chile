@@ -30,7 +30,7 @@ Resolución:
 
 2. En tal sentido, se efectuarán procesos de selección los días 15 y 30 noviembre de 2017, para los proyectos ubicados total o parcialmente en los territorios de las comunas de Santiago, Estación Central, Independencia, Pedro Aguirre Cerda, Quinta Normal, Recoleta, San Joaquín, San Miguel, Macul, Ñuñoa y Providencia.
 
-3. Los recursos destinados para la selección de proyectos postulantes a este llamado alcanzarán las 100.000 Unidades de Fomento, sin perjuicio de efectuarse ajustes en función de la demanda presentada y los recursos disponibles del programa 2017.
+3. Los recursos destinados para la selección de proyectos postulantes a este llamado alcanzarán las 56.427,1 Unidades de Fomento, sin perjuicio de efectuarse ajustes en función de la demanda presentada y los recursos disponibles del programa 2017.
 
 4. El número de proyectos seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos señalados en el resuelvo 3, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
 
