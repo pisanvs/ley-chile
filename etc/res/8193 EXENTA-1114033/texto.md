@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 8.193 EXENTA, DE 26 DE DICIEMBRE DE 2017
+
+Por resolución exenta Nº 8.193, de fecha 26 de diciembre de 2017, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Jorge Hazin E.I.R.L.", nombre de fantasía "Autoescuela Drive Club E.I.R.L.", RUT Nº 76.721.741-2, representada legalmente por el señor Jorge Bichara Hazin Chávez, RUT Nº 13.553.632-6, y directora, la señora Ximena Chávez Veliz, RUT Nº 8.395.194-K, ubicada en Avenida Domingo Santa María Nº 4190, comuna de Renca. Horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y trece horas prácticas, con un total de veintiún horas pedagógicas.-
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
