@@ -1796,6 +1796,8 @@ En este contexto resultará de interés para la evaluación que sobre el referid
 
 Dicha estrategia, atendida la importancia relativa y el volumen de operaciones de la entidad, debe contemplar una definición clara de lo que considerará como riesgo operacional y establecer los principios para su identificación, evaluación, control y mitigación. En este sentido, si la exposición al riesgo es significativa, cobra relevancia la existencia de definiciones precisas de lo que se entenderá por pérdidas operacionales, ya sean esperadas o inesperadas, por cuanto los tratamientos de mitigación son diferentes en uno y otro caso.
 
+Asimismo, es esencial que las instituciones cuenten con una clara definición, caracterización e identificación de los principales activos de información y de la infraestructura física que soporta y resguarda la seguridad de los mismos. En este ámbito, las entidades también deben gestionar la seguridad de sus activos de información expuestos a riesgos en el ciberespacio, entendido este como el entorno que permite la interacción lógica, es decir, no física, mediante la conexión de redes tecnológicas.
+
 En la evaluación que hará este Organismo, interesa observar la compatibilidad entre las políticas y procedimientos aprobados por el Directorio, con respecto al volumen, sofisticación y naturaleza de sus actividades. Asimismo, se examinará la manera en que se han establecido las políticas y la forma en que el Directorio de la empresa participa en su aprobación y supervisa su cumplimiento.
 
 Será también materia de examen comprobar si la posición independiente de la función de auditoría interna permite una adecuada cobertura y profundidad de las revisiones y la adopción oportuna de medidas correctivas por parte de las áreas auditadas.
@@ -1824,7 +1826,7 @@ En ese sentido, revelan una buena gestión, por ejemplo, situaciones o hechos ta
 
 - El banco cuenta con una adecuada planificación a largo plazo para la infraestructura tecnológica y dispone de los recursos necesarios para el desarrollo normal de sus actividades y para que los nuevos proyectos previstos se concreten oportunamente.
 
-- El banco cuenta con una estructura que permite administrar la seguridad de la información en términos de resguardar su confidencialidad, integridad y disponibilidad.
+- El banco cuenta con una estructura dedicada que permite administrar la seguridad de la información en general y de Ciberseguridad en particular, en términos de resguardar su confidencialidad, integridad y disponibilidad. Respecto a la gestión de la Ciberseguridad, la entidad al menos contempla los aspectos descritos en el Anexo N° 3 de este Capítulo y en el numeral 2 del Capítulo 20-8 de esta Recopilación.
 
 - El banco considera en sus planes de continuidad del negocio y contingencia, diversos escenarios y supuestos que pudieran impedir que cumpla toda o parte de sus obligaciones y en ese sentido ha desarrollado una metodología formal que considera en sus etapas, la evaluación de impacto y criticidad de sus servicios y productos, la definición de estrategias de prevención, contención y recuperación, así como pruebas periódicas de tales estrategias.
 
@@ -2091,6 +2093,32 @@ o Modelos para determinar riesgos de mercado en opciones.
 - Análisis del riesgo de mercado asociado al lanzamiento de nuevos productos.
 
 - Rol de la función de auditoría interna.
+
+ANEXO N° 3
+
+GESTIÓN DE LA CIBERSEGURIDAD
+
+Para efectos de lo dispuesto a continuación, se entiende que la Ciberseguridad es un concepto que comprende al conjunto de acciones para la protección de la información presente en el ciberespacio, así como de la infraestructura que la soporta, que tiene por objeto evitar o mitigar los efectos adversos de sus riesgos y amenazas inherentes, sobre la seguridad de la información y la continuidad del negocio de la institución.
+
+### I. GESTIÓN DE LA INFRAESTRUCTURA CRÍTICA DE CIBERSEGURIDAD
+
+Una adecuada gestión de la infraestructura crítica en materias de Ciberseguridad requiere de un marco de gestión establecido por el Directorio, que contemple la estrategia de administración específica de este riesgo, el nivel de tolerancia admitido, roles y responsabilidades de los participantes, los procesos y las metodologías a utilizar para su gestión en consideración a las mejores prácticas, al volumen y complejidad de sus actividad de negocio y a los estándares internacionales existentes para este efecto.
+
+La gestión de la infraestructura crítica de Ciberseguridad es fundamental para el adecuado funcionamiento del sistema financiero, en el caso de eventuales ataques. Con este fin, se evaluará que las instituciones gestionen esta infraestructura considerando al menos los siguientes elementos:
+
+a) La institución ha identificado la infraestructura crítica en términos de Ciberseguridad, esto es, aquellos activos de información lógicos que son considerados críticos para el funcionamiento del negocio y del sistema financiero en su conjunto. Asimismo, son parte de esta infraestructura los componentes físicos tales como, hardware y sistemas tecnológicos que almacenan, administran y soportan estos activos y que de no operar adecuadamente, exponen a la entidad a riesgos de integridad, disponibilidad y confidencialidad de la información.
+
+b) La institución cuenta con un inventario de activos de la información críticos clasificado de acuerdo a las condiciones de seguridad (confidencialidad, integridad y disponibilidad).
+
+c) La institución ha desarrollado e implementado los resguardos necesarios para proteger la infraestructura definida como crítica. La institución ha establecido las medidas de seguridad adecuadas para prever, detectar y gestionar oportunamente los eventos e incidencias que puedan afectar la Ciberseguridad de la infraestructura crítica.
+
+d) La institución revisa regularmente sus políticas y procedimientos para prever la adopción oportuna de medidas ante escenarios de amenazas de Ciberseguridad.
+
+e) La institución dispone de planes de recuperación de operaciones o procesos críticos en forma oportuna y eficaz.
+
+f) La institución promueve una cultura de riesgos en materia de Ciberseguridad, a través de procesos formales de difusión, capacitación y concientización de todos los empleados, de acuerdo a sus funciones y tiempo de permanencia en la institución; con una periodicidad establecida y oportuna.
+
+g) La institución realiza regularmente pruebas para detectar las amenazas y vulnerabilidades que pudieran existir sobre su sistema de gestión de seguridad de la información en el ciberespacio, tales como pentesting y/o ethical hacking. Estos análisis deberán ser periódicos y su resultado gestionado por las áreas de seguridad de la información y comunicado al Directorio, al menos semestralmente, quedando evidencia en las actas de los análisis y acuerdos adoptados.
 
 ## Capítulo 1-14
 
@@ -20156,7 +20184,15 @@ Sin perjuicio de lo señalado, para estas actividades la entidad deberá velar p
 
 ## Capítulo 20-8
 
-COMUNICACIÓN INMEDIATA DE INCIDENTES OPERACIONALES RELEVANTES.
+INFORMACIÓN DE INCIDENTES OPERACIONALES RELEVANTES Y BASE DE DATOS DE INCIDENTES DE CIBERSEGURIDAD.
+
+La evolución de la industria financiera, particularmente la incorporación de la tecnología en la forma de generar, procesar y administrar sus activos de información, involucran riesgos operacionales que afectan a los procesos del negocio de la institución.
+
+Al respecto, resulta relevante que las entidades dispongan de sistemas, procedimientos y mecanismos de gestión que permitan identificar, registrar, evaluar, controlar, mitigar, monitorear y reportar incidentes operacionales, y en especial aquellos incidentes relacionados con la Ciberseguridad. Estos sistemas deben permitir al banco tener una visión oportuna de los incidentes y, a la vez, asegurar la existencia de herramientas para hacer el seguimiento y correlacionar eventos, a objeto de detectar otros incidentes, identificar vulnerabilidades de la infraestructura física y virtual comprometida, modus operandi de los eventuales ataques, entre otros.
+
+En virtud de lo anterior, este Capítulo establece requisitos relativos a la información que se debe enviar a esta Superintendencia cuando ocurran incidentes operacionales relevantes, así como la generación y mantención de una base de incidentes relacionados con la Ciberseguridad.
+
+### 1. COMUNICACIÓN DE INCIDENTES OPERACIONALES RELEVANTES
 
 Los bancos deberán comunicar de inmediato a esta Superintendencia, para el solo efecto de mantenerla informada, los incidentes operacionales relevantes.
 
@@ -20177,6 +20213,82 @@ La información se enviará tan pronto se identifique el incidente, mediante un 
 - Estimación de tipo y número de clientes afectados, cuando corresponda.
 
 El encargado de enviar la información, o quien lo reemplace, deberá ser una persona de nivel ejecutivo, designado por la institución tanto para ese efecto como para responder eventuales consultas de esta Superintendencia.
+
+### 2. BASE DE INCIDENTES DE CIBERSEGURIDAD
+
+2.1 Condiciones mínimas para el desarrollo y mantención de una Base de Incidentes
+
+La Ciberseguridad en las instituciones financieras es esencial para evitar los efectos adversos sobre su continuidad operacional, así como la seguridad de los activos que administran.
+
+Al respecto, resulta relevante que las entidades dispongan de sistemas, procedimientos y mecanismos de gestión que permitan identificar, registrar, evaluar, controlar, mitigar, monitorear y reportar incidentes operacionales relacionados con la Ciberseguridad.
+
+A continuación se detallan algunos de los elementos que serán parte de la evaluación de gestión, en los términos del Capítulo 1-13 de la RAN, respecto a la generación de la base de incidentes:
+
+a) El Directorio de la institución toma regularmente conocimiento de estos incidentes y se pronuncia sobre ellos al menos una vez al año, con el fin de mejorar su gestión y prevención.
+
+b) La entidad cuenta con una base de incidentes de Ciberseguridad, donde registra los eventos no planificados por la institución que ponen en riesgo la seguridad de los activos de información presentes en el ciberespacio e identificando de manera individual cada uno de estos incidentes.
+
+c) La institución gestiona sus incidentes de Ciberseguridad, con el fin de detectar, investigar y generar acciones de mitigación del impacto de estos eventos, resguarda la confidencialidad, disponibilidad e integridad de sus activos de información.
+
+d) La base de incidentes completa deberá mantenerse a disposición de esta Superintendencia para cuando sea requerida. La suficiencia de la base de incidentes es parte de las revisiones de la función de auditoría interna.
+
+e) La institución considera la base de incidentes como un insumo para la realización de pruebas que permiten detectar las amenazas y vulnerabilidades que pudieran existir sobre su sistema de gestión de seguridad de la información en el ciberespacio, las cuales están indicadas en la letra g del Título I del Anexo N° 3 del Capítulo 1-13 de esta Recopilación.
+
+2.2 Variables mínimas a considerar para la elaboración de la base de incidentes de Ciberseguridad
+
+a) Identificación única del incidente: Se entenderá como incidente, aquel evento que afecte negativamente a la institución. La base de incidentes debe reportar no solo los eventos materializados, sino también aquellos que la institución logró detectar en una fase temprana y no produjeron daños efectivos.
+
+b) Especificar si se trató de un incidente materializado o no.
+
+c) Fecha del evento: fecha y hora del inicio del incidente.
+
+d) Fecha del reporte: fecha y hora en la que el incidente es detectado.
+
+e) Fecha de la mitigación: fecha y hora en la que el incidente se mitigó, cuando corresponda.
+
+f) Tipo de vulnerabilidad: determinar la causa del incidente, materializado o no, a partir del tipo de vulnerabilidad que pone en riesgo a los activos de información de acuerdo a la clasificación presentada a continuación:
+
+### 1. Incumplimiento de las políticas establecidas para el control del
+
+riesgo de Ciberseguridad.
+
+### 2. Inadecuada definición, instalación o mantención de la estructura
+
+física que soporta los activos de información lógicos.
+
+### 3. Inadecuada definición o control de los accesos físicos
+
+### 4. Inadecuada definición o control de los accesos lógicos
+
+### 5. Inadecuada definición de los servicios provistos por agentes
+
+externos.
+
+### 6. Inadecuada definición o control de la arquitectura tecnológica
+
+### 7. Prácticas inadecuadas de los usuarios internos de la organización
+
+### 8. Prácticas inadecuadas de los usuarios externos de la organización
+
+### 9. Otro (especificar)
+
+g) Descripción del incidente: breve descripción del incidente que permita entender sus causas externas, especificando el tipo de amenazas, ataques físicos como robo o hurto de dispositivos, vandalismo, acceso físico de personal no autorizado, entre otros; interrupciones producto de huelgas, servicio de red, energía o falta de recursos, etcétera; actividades ilegales como robo de identidad, virus, certificados maliciosos, malware, denegación de servicio, ingeniería social, entre otros; desastres naturales o medioambientales; fallas o mal funcionamiento, accidentes, amenazas legales, secuestros, daños o pérdidas de activos de información tecnológicos, etcétera. Se sugiere utilizar las definiciones asociadas a estándares internacionales sobre la materia.
+
+h) Activos involucrados: especificación de los activos afectados, distinguiendo aquellos efectivamente vulnerados de los potencialmente en riesgo.
+
+i) Tipo de productos o servicios involucrados: detallar, cuando corresponda, aquellos productos o servicios prestados por la institución que fueron afectados por el incidente, ya sea en su disponibilidad o funcionamiento.
+
+j) Número de clientes directamente afectados (cuando corresponda).
+
+k) Identificación de los proveedores (cuando corresponda, esto es, cuando exista un proveedor externo involucrado en la vulnerabilidad detectada).
+
+l) Costos de incidentes: costos asociados al incidente, entendidos como el valor presente de las pérdidas reales, cuando corresponda.
+
+m) Costos de mitigación y reparación: costos de eventuales medidas de mitigación y reparación asociados al incidente, sea que este se haya o no materializado.
+
+n) Descripción de las acciones realizadas y áreas responsables de su implementación (cuando corresponda).
+
+o) Estado del incidente: indicar para cada evento si los planes de acción para su corrección definitiva se encuentran implementados.
 
 ## Capítulo 20-9
 
