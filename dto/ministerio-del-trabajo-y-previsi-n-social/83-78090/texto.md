@@ -24,15 +24,15 @@ Composición del Consejo Administrativo del Servicio de
 
 Bienestar
 
-#### Artículo 2º
+#### Artículo 2°
 
 El Consejo Administrativo del Servicio de Bienestar, estará integrado por:
 
 a) El Rector de la Universidad o la persona que él designe en su reemplazo, quien lo presidirá.
 
-b) El Director del Departamento de Recursos Humanos y Bienestar del Personal.
+b) El Director de la Dirección de Administración y Finanzas o el Director que el Rector designe en su reemplazo.
 
-c) El Director del Departamento de Administración y Finanzas.
+c) El Director de la Dirección de Logística, Obras y Operaciones o el director que el Rector designe en su reemplazo.
 
 d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda de acuerdo con lo dispuesto en el inciso tercero del artículo 18º del Reglamento General.
 
@@ -112,7 +112,7 @@ c) Bono de fallecimiento: Se concederá una ayuda por el fallecimiento del afili
 
 2° A la persona designada expresamente para tales efectos por el afiliado;
 
-3° Al cónyuge sobreviviente;
+3° Al cónyuge sobreviviente; O al Conviviente por Contrato de Acuerdo de Unión Civil sobreviviente
 
 4° A los descendientes;
 
