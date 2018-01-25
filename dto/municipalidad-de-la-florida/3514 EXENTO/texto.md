@@ -28,7 +28,7 @@ Excepcionalmente en el sector definido entre Av. Diego Portales por el norte, l�
 
 *: Coeficiente de constructibilidad 2,028.
 
-**: Altura de edificación máxima (mt) 12,6.
+**: Altura de edificación máxima (mt) 12.6 y Densidad Bruta Máxima (viv/ha) 156
 
 ***: Antejardín (mt) 0.
 
