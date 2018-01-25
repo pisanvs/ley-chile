@@ -298,13 +298,13 @@ Además, el Minvu podrá entregar a las entidades desarrolladoras que hayan susc
 
 Si se excediere el plazo antes fijado para la recepción municipal de las obras, se producirá la caducidad automática de la reserva de los subsidios correspondientes que se hubiere efectuado, se dejará sin efecto el bono de integración social y se hará efectiva la boleta bancaria de garantía que cauciona el crédito de enlace, si lo hubiere.
 
-Si con posterioridad a la fecha de recepción municipal, quedasen viviendas disponibles en los proyectos a que se refiere este Reglamento, podrán incorporarse familias de sectores vulnerables y de sectores medios, y beneficiarios de subsidio de alguno de los programas citados en las letras b) y c) del artículo 2º de este decreto, manteniendo los beneficios de este Reglamento, hasta 12 meses después de la fecha de recepción municipal; o ser vendidas sin la aplicación de un subsidio.
+Si con posterioridad a la fecha de recepción municipal, quedasen viviendas disponibles en los proyectos a que se refiere este Reglamento, podrán incorporarse familias de sectores vulnerables y de sectores medios, y beneficiarios de subsidio de alguno de los programas citados en las letras b) y c) del artículo 2º de este decreto, manteniendo los beneficios de este Reglamento, hasta 18 meses después de la fecha de recepción municipal; o ser vendidas sin la aplicación de un subsidio.
 
-Si con posterioridad a la fecha de recepción municipal se produce la renuncia de uno o más beneficiarios de subsidio y consecuencia de esas renuncias no se cumple el porcentaje de familias vulnerables y/o se disminuye el porcentaje de captación de subsidios determinados, la entidad desarrolladora podrá efectuar reemplazos hasta 12 meses después de la fecha de recepción municipal, siempre que el reemplazante sea un beneficiario de subsidio.
+Si con posterioridad a la fecha de recepción municipal se produce la renuncia de uno o más beneficiarios de subsidio y consecuencia de esas renuncias no se cumple el porcentaje de familias vulnerables y/o se disminuye el porcentaje de captación de subsidios determinados, la entidad desarrolladora podrá efectuar reemplazos hasta 18 meses después de la fecha de recepción municipal, siempre que el reemplazante sea un beneficiario de subsidio.
 
 Si una familia a las que se refieren las letra b) y c) del artículo 2º de este reglamento renuncia o se desiste de la reserva de una vivienda después de la fecha de recepción municipal del proyecto, quedará impedida de reservar y adquirir una vivienda en altos proyectos seleccionados en el marco de este reglamento y se producirá la caducidad automática del subsidio.
 
-Si transcurrido el plazo de 12 meses señalado no se cumple con los porcentajes de familias vulnerables y/o con los porcentajes de captación de subsidios determinados, será la entidad desarrolladora la que deberá restituir el monto equivalente al bono de integración social y/o al bono de captación de subsidios en el monto que corresponda, en un plazo máximo de 60 días corridos luego de vencido dicho plazo. En ningún caso la restitución de los bonos se les cobrará a las familias beneficiarias, por no ser de responsabilidad de éstas el no cumplimiento de los porcentajes mínimos exigidos en el presente reglamento.
+Si transcurrido el plazo de 18 meses señalado no se cumple con los porcentajes de familias vulnerables y/o con los porcentajes de captación de subsidios determinados, será la entidad desarrolladora la que deberá restituir el monto equivalente al bono de integración social y/o al bono de captación de subsidios en el monto que corresponda, en un plazo máximo de 60 días corridos luego de vencido dicho plazo. En ningún caso la restitución de los bonos se les cobrará a las familias beneficiarias, por no ser de responsabilidad de éstas el no cumplimiento de los porcentajes mínimos exigidos en el presente reglamento.
 
 #### Artículo 11º
 
@@ -320,9 +320,9 @@ Estos préstamos se otorgarán mediante resoluciones del Director del Serviu res
 
 El préstamo deberá restituirse una vez practicada la inscripción en el Conservador de Bienes Raíces del dominio de la vivienda a favor del adquirente beneficiario de subsidio y de la prohibición de enajenar.
 
-Si encontrándose próxima la expiración de la vigencia de la boleta bancaria de garantía que caucione el préstamo la restitución no se hubiera efectuado, el prestatario deberá renovar la vigencia de la boleta bancaria o reemplazarla por otra, por el monto adeudado del préstamo de acuerdo a los plazos señalados en el inciso tercero del presente artículo; de no hacerlo, se hará efectiva dicha boleta bancaria de garantía. En todo caso, se hará efectiva dicha boleta transcurrido el plazo de dos años desde el otorgamiento del préstamo, en caso que este no se haya restituido en su totalidad.
+Si encontrándose próxima la expiración de la vigencia de la boleta bancaria de garantía que caucione el préstamo la restitución no se hubiera efectuado, el prestatario deberá renovar la vigencia de la boleta bancaria o reemplazarla por otra, por el monto adeudado del préstamo de acuerdo a los plazos señalados en el inciso tercero del presente artículo; de no hacerlo, se hará efectiva dicha boleta bancaria de garantía.
 
-El préstamo podrá restituirse contra el pago del subsidio habitacional, siempre que dicho pago se efectúe dentro del plazo máximo de los dos años señalados anteriormente, descontado el monto de la restitución del subsidio a pagar. Esta opción sólo podrá ser ejercida por quien de conformidad al convenio está facultado para percibir el pago de los subsidios.
+El préstamo podrá restituirse con cargo a subsidios ya presentados a cobro, siempre que el Serviu hubiese autorizado su pago y el prestatario, a su vez, hubiese autorizado efectuar el descuento del monto de la restitución contra el pago del subsidio habitacional, o al momento del pago efectivo del subsidio, descontando el monto adeudado del subsidio a pagar. Lo anterior deberá efectuarse dentro del plazo máximo de los dos años señalados en el presente artículo, de lo contrario se hará efectiva la boleta de garantía. Estas opciones solo podrán ser ejercidas por quien de conformidad al convenio esté facultado para percibir el pago de los subsidios.
 
 #### Artículo 12º
 
@@ -434,7 +434,7 @@ Para obtener la subvención a que se refiere este artículo, el deudor y su grup
 
 Pago de Subsidio.
 
-El Serviu pagará el subsidio en pesos, moneda nacional, al valor que tenga la Unidad de Fomento a la fecha de su pago efectivo, a quien se indique en el convenio a que se refiere el artículo 9º del presente decreto, dentro del plazo de doce meses contados desde la fecha de recepción municipal del proyecto, de acuerdo al procedimiento establecido en el artículo 32 y a las letras a), b), c) y d) del artículo 33, ambos del DS Nº 1 (V, y U.), de 2011, en lo que fuera procedente.
+El Serviu pagará el subsidio en pesos, moneda nacional, al valor que tenga la Unidad de Fomento a la fecha de su pago efectivo, a quien se indique en el convenio a que se refiere el artículo 9º del presente decreto, dentro del plazo de dieciocho meses contados desde la fecha de recepción municipal del proyecto, de acuerdo al procedimiento establecido en el artículo 32 y a las letras a), b), c) y d) del artículo 33, ambos del DS Nº 1 (V, y U.), de 2011, en lo que fuera procedente.
 
 Por resolución fundada, el Director del Serviu podrá, por una sola vez, prorrogar u otorgar un nuevo plazo por hasta 180 días para presentar a cobro los subsidios.
 
