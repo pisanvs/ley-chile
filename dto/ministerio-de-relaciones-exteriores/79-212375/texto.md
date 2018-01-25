@@ -52,7 +52,7 @@ a) "Gobierno", al Gobierno de la República de Chile;
 
 b) "Organización", a la Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura;
 
-c) "Oficina Técnica", a la Oficina Técnica de Programas de la Organización;
+c) "Oficina Nacional", a la Oficina Nacional de la Organización en Santiago, Chile, que comprende al Instituto Iberoamericano de Primera Infancia;
 
 d) "autoridades competentes", a las autoridades de la República de Chile de conformidad a sus leyes;
 
@@ -62,9 +62,9 @@ f) "bienes", a los inmuebles, vehículos, derechos, fondos en cualquier moneda, 
 
 g) "archivos" a la correspondencia, manuscritos, fotografías, diapositivas, películas cinematográficas, grabaciones sonoras; disketes, así como todos los documentos de cualquier naturaleza que sean de propiedad o estén en poder de la Organización;
 
-h) "director", al Jefe de la Oficina Técnica de Programas en la ciudad de Santiago, designado por el Secretario General de la Organización;
+h) "director", al Jefe de la Oficina Nacional en la ciudad de Santiago, designado por el Secretario General de la Organización;
 
-i) "miembros del personal", a los funcionarios de la Organización;
+i) "miembros del personal", a los funcionarios de la Organización, asignados por el Secretario General para prestar sus servicios en la Oficina Nacional.
 
 j) "expertos", a las personas contratadas por la Organización sometidas a la autoridad del Director ante el cual son responsables, que están sujetos al Reglamento y Estatutos de la Organización como los funcionarios de la misma;
 
@@ -72,13 +72,15 @@ k) "miembros de la familia", a todo familiar que dependa económicamente y esté
 
 l) "personal local", a las personas contratadas localmente por la Oficina Técnica para tareas administrativas o de servicios.
 
+m) "Instituto o IIPI", al Instituto Iberoamericano de Primera Infancia, establecido mediante Resolución del Secretario General de la Organización, N° 04/2016, de fecha 28 de enero de 2016.
+
 #### Artículo 2
 
-El Gobierno acepta la instalación en la ciudad de Santiago de una Oficina Técnica de Programas.
+El Gobierno acepta la instalación en la ciudad de Santiago de una Oficina Nacional, que representará a la Organización en el territorio de la República de Chile de Programas.
 
 #### Artículo 3
 
-El Gobierno reconoce la personalidad jurídica de la Organización, en virtud de la cual la Oficina Técnica gozará en el territorio de la República de Chile de capacidad legal para cumplir sus fines y, en consecuencia, está facultada para:
+El Gobierno reconoce la personalidad jurídica de la Organización, en virtud de la cual la Oficina Nacional gozará en el territorio de la República de Chile de capacidad legal para cumplir sus fines y, en consecuencia, está facultada para:
 
 a) contratar;
 
@@ -146,7 +148,7 @@ La Oficina Técnica estará exenta de toda clase de derechos de aduana, impuesto
 
 #### Artículo 13
 
-El Director y los funcionarios de la Oficina Técnica que no sean ciudadanos chilenos o que no tengan residencia permanente en la República de Chile, cuando deban permanecer en el país en razón de sus funciones por un período no menos de un (1) año y que hayan sido acreditados ante el Gobierno en la forma prescrita en el artículo 31, podrán importar dentro de los seis (6) meses de su llegada libre de derechos de aduana, impuestos y gravámenes, sus bienes y efectos personales, que no podrán ser comercializados en el país sin autorización del Gobierno. Este mismo derecho lo tendrán para exportar sus bienes y efectos personales a la terminación del ejercicio de sus cargos en la Oficina Técnica y abandonar el país.
+El Director y los funcionarios de la Oficina Nacional que no sean ciudadanos chilenos o que no tengan residencia permanente en la República de Chile, cuando deban permanecer en el país en razón de sus funciones por un período no menos de un (1) año y que hayan sido acreditados ante el Gobierno en la forma prescrita en el artículo 31, podrán importar dentro de los seis (6) meses de su llegada libre de derechos de aduana, impuestos y gravámenes, sus bienes y efectos personales, que no podrán ser comercializados en el país sin autorización del Gobierno. Este mismo derecho lo tendrán para exportar sus bienes y efectos personales a la terminación del ejercicio de sus cargos en la Oficina Nacional y abandonar el país.
 
 #### Artículo 14
 
@@ -156,7 +158,7 @@ Asimismo, los ciudadanos chilenos o las personas que hayan tenido residencia per
 
 #### Artículo 15
 
-Las personas que sin ser funcionarios de la Organización, están cumpliendo misiones encomendadas por ella o son invitadas por la Organización a la sede de la Oficina Técnica para asuntos oficiales, gozarán de las prerrogativas e inmunidades especificadas en el artículo 21 con excepción en el caso de las personas de nacionalidad chilena, de lo establecido en las letras b) y e).
+Las personas que sin ser funcionarios de la Organización, están cumpliendo misiones encomendadas por ella o son invitadas por la Organización a la sede de la Oficina Nacional para asuntos oficiales, gozarán de las prerrogativas e inmunidades especificadas en el artículo 21 con excepción en el caso de las personas de nacionalidad chilena, de lo establecido en las letras b) y e).
 
 #### Artículo 16
 
@@ -242,15 +244,15 @@ Si el Gobierno considera que ha habido abuso de un privilegio o inmunidad conced
 
 #### Artículo 27
 
-El número de miembros del personal y de expertos no excederá los límites de lo que sea razonable y normal, habida cuenta de las funciones de la Oficina Técnica en la República de Chile.
+El número de miembros del personal y de expertos no excederá los límites de lo que sea razonable y normal, habida cuenta de las funciones de la Oficina Nacional en la República de Chile.
 
 #### Artículo 28
 
-La Oficina Técnica tendrá derecho a hacer uso de claves y despachar su correspondencia ya sea por correos o en valijas selladas que gozarán de las mismas inmunidades y privilegios que le conceden a los correos y valijas de otros organismos internacionales.
+La Oficina Nacional tendrá derecho a hacer uso de claves y despachar su correspondencia ya sea por correos o en valijas selladas que gozarán de las mismas inmunidades y privilegios que le conceden a los correos y valijas de otros organismos internacionales.
 
 #### Artículo 29
 
-La Oficina Técnica gozará para sus comunicaciones oficiales en el territorio de la República de Chile de un trato no menos favorable que el otorgado por el Gobierno de Chile a cualquier otro organismo internacional, en lo que respecta a prioridades, tarifas e impuestos aplicables a la correspondencia, cablegramas, telegramas, comunicaciones telefónicas y otras comunicaciones, como así también a las tarifas de prensa para las informaciones destinadas a la prensa, radio o televisión.
+La Oficina Nacional gozará para sus comunicaciones oficiales en el territorio de la República de Chile de un trato no menos favorable que el otorgado por el Gobierno de Chile a cualquier otro organismo internacional, en lo que respecta a prioridades, tarifas e impuestos aplicables a la correspondencia, cablegramas, telegramas, comunicaciones telefónicas y otras comunicaciones, como así también a las tarifas de prensa para las informaciones destinadas a la prensa, radio o televisión.
 
 #### Artículo 30
 
@@ -288,7 +290,7 @@ Las partes por mutuo consentimiento, podrán introducir modificaciones al presen
 
 #### Artículo 37
 
-Para el cumplimiento de los fines del presente Acuerdo, el Gobierno y la Organización concertarán protocolos adicionales referidos al mantenimiento de la sede y al personal local, con la finalidad de asegurar el objetivo fundamental de la Oficina Técnica que es hacer posible el ejercicio eficiente de sus funciones y el logro pleno de sus propósitos.
+Para el cumplimiento de los fines del presente Acuerdo, el Gobierno y la Organización concertarán protocolos adicionales referidos a la instalación y al mantenimiento de la sede y al personal local, con la finalidad de asegurar el objetivo fundamental de la Oficina Nacional que es hacer posible el ejercicio eficiente de sus funciones y el logro pleno de sus propósitos.
 
 Hecho en la ciudad de Santiago, a los 26 días del mes de septiembre del año mil novecientos noventa y uno, en dos ejemplares originales, ambos igualmente auténticos.- Por la Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura, José Torreblanca Prieto, Secretario General.- Por el Gobierno de la República de Chile, Edmundo Vargas Carreño, Ministro de Relaciones Exteriores Subrogante.
 
