@@ -1,0 +1,127 @@
+APRUEBA CONDICIONES PARA EL AÑO 2018 PARA EL OTORGAMIENTO POR LOS SERVIU DE PRÉSTAMOS PARA LA ADQUISICIÓN DEL TERRENO O PARA LA EJECUCIÓN DE PROYECTOS DE CONSTRUCCIÓN
+
+Santiago, 10 de enero de 2018.- Hoy se resolvió lo que sigue:
+
+Núm. 95 exenta.
+
+Visto:
+
+La Ley N° 21.053, de Presupuestos para el Sector Público para el año 2018; el DL N° 1.305, de 1976; la ley N° 16.391; la resolución N° 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+a) Que la Ley N° 21.053 de Presupuestos del Sector Público para el año 2018, en su Glosa 09, asociada al Subtítulo 32 (Préstamos) contempla la posibilidad de que los Servicios de Vivienda y Urbanización (Serviu) puedan otorgar préstamos en dinero para la adquisición de terrenos y para la ejecución de proyectos de construcción, destinados a las familias beneficiarias de algunos de los subsidios habitacionales vigentes otorgados por el Minvu.
+
+b) Que la Glosa 09 dispone que el otorgamiento de los referidos préstamos se regulará por resolución exenta del Ministerio de Vivienda y Urbanismo, visada por la Dirección de Presupuestos del Ministerio de Hacienda, dicto la siguiente
+
+Resolución:
+
+1. El otorgamiento de préstamos por parte de los Serviu a las empresas constructoras o a las Entidades Desarrolladoras, en adelante también mutuario -con cargo al Subtítulo 32 (Préstamos), Glosa 09, de la Ley N° 21.053 de Presupuestos del Sector Público para el año 2018- para adquirir terrenos o para la ejecución de proyectos de construcción en general con alguno de los subsidios habitacionales vigentes, estará sujeto a las condiciones que pasan a señalarse.
+
+2. Para concretar el otorgamiento del préstamo, el Serviu y la empresa constructora o la Entidad Desarrolladora deberán suscribir un contrato de mutuo, en el que deberá constar al menos la siguiente información:
+
+a) Identificación de la empresa constructora que ejecutará las obras del proyecto y la singularización del contrato de construcción.
+
+b) Identificación del proyecto con constancia de su aprobación o calificación por el Serviu y sus características básicas.
+
+c) El monto del préstamo expresado en unidades de fomento. La equivalencia en pesos, moneda nacional, se determinará al valor que dicha unidad tenga a la fecha de su giro efectivo, para los efectos de su otorgamiento, y a la fecha de su pago para los efectos de su restitución.
+
+d) Contener la declaración de que el mutuo es gratuito.
+
+e) El plazo para la restitución del préstamo, el que no podrá ser superior a tres años. Este plazo podrá ser prorrogado por acuerdo de las partes, fundado en razones de caso fortuito o fuerza mayor y hasta por un año.
+
+f) La forma de otorgamiento y restitución del préstamo.
+
+g) La garantía que caucione el préstamo.
+
+h) El mutuo deberá consignar expresamente que la obligación de restitución del préstamo tendrá el carácter de indivisible para todos los efectos legales, incluso en caso de disolución de la sociedad deudora.
+
+3. Condiciones para el otorgamiento de préstamos para la adquisición del terreno para construcción de viviendas:
+
+a) El Serviu podrá otorgar préstamos para proyectos aprobados o calificados que acrediten disponibilidad de terreno mediante promesa de compraventa, debiendo en todo caso verificar que la propiedad cumple todas las condiciones legales y técnicas para su adquisición con destino habitacional.
+
+b) El monto de este préstamo no podrá superar la parte del subsidio que se desglosa para la adquisición del terreno.
+
+c) Para garantizar el préstamo por la adquisición del terreno donde se ejecutará el proyecto, su dominio deberá quedar inscrito a nombre del Serviu, en el Conservador de Bienes Raíces respectivo.
+
+d) Tratándose de construcción en nuevos terrenos, si estos se encuentran inscritos a nombre del respectivo Comité, la inscripción a nombre del Serviu se reemplazará por la constitución de una prohibición de enajenar y gravar en favor de Serviu, la que se levantará una vez restituido el préstamo.
+
+4. Condiciones para el otorgamiento de préstamos para la ejecución de proyectos de construcción con algunos de los programas habitacionales vigentes otorgados por el Minvu:
+
+a) El proyecto debe contar con aprobación o calificación del Serviu.
+
+b) El préstamo será otorgado a la Empresa Constructora o la Entidad Desarrolladora, según corresponda, que tiene a cargo la ejecución del proyecto.
+
+c) El monto del préstamo no podrá ser superior a aquella parte del valor de las obras, expresado en el contrato de construcción, que será cubierto con subsidio del Estado.
+
+d) El préstamo podrá ser girado en cuotas, en los montos y oportunidades establecidos en el contrato. Al girarse la primera cuota, debe ingresarse una garantía cuyo valor, a lo menos, debe ser equivalente al monto de dicha cuota. Esta garantía deberá ser una boleta bancaria de garantía, una póliza de garantía de ejecución inmediata o un Certificado de Fianza Recíproca.
+
+Para el giro de la siguiente cuota, el mutuario podrá garantizarla con la misma garantía de la cuota ya girada, siempre que su glosa y vigencia lo permitan y que se cuente con la autorización del Serviu y que en reemplazo de la garantía por la primera cuota entregue un Pagaré suscrito ante Notario, y así sucesivamente.
+
+En casos excepcionales, el mutuario podrá garantizar la primera cuota con un Pagaré suscrito ante Notario, lo que será autorizado por Serviu, siempre y cuando la obra registre un avance igual o superior al monto solicitado.
+
+En cualquier circunstancia, los montos que se hayan entregado al mutuario deberán estar siempre íntegramente garantizados por éste.
+
+e) El otorgamiento de estos préstanos limita en igual monto los giros por anticipo que se efectúen con cargo al subsidio.
+
+f) El préstamo deberá ser garantizado en la forma que se señala en el literal d) anterior y en el resuelvo 8. Tratándose de construcción en nuevos terrenos, se exigirá que el terreno se encuentre inscrito a nombre del Serviu respectivo en el Conservador de Bienes Raíces, debiendo en este caso el mutuario presentar, además, las garantías pecuniarias por la diferencia entre el valor del terreno y el monto del préstamo. Si estos se encuentran inscritos a nombre del respectivo Comité, la inscripción a nombre del Serviu se reemplazará por la constitución de una prohibición de enajenar y gravar en favor de Serviu, la que se levantará una vez restituido el préstamo.
+
+5. Procederá también el otorgamiento de préstamos por parte de los Serviu, a las empresas constructoras o a las Entidades Desarrolladoras, tratándose de proyectos de construcción que a la fecha de la presente resolución ya hayan recibido anticipos, siempre que estos se encuentren debidamente garantizados, mediante una boleta bancaria, una póliza o un certificado de fianza recíproca.
+
+En estos casos se deberán cumplir las mismas condiciones señaladas en el resuelvo 4. anterior, salvo en lo siguiente:
+
+a) El monto del préstamo no podrá ser superior a aquella parte del valor de las obras, expresado en el contrato de construcción, que será cubierto con subsidio del Estado, deducida la suma que ya haya sido entregada en forma de anticipo.
+
+b) Todas las cuotas de estos préstamos, incluso la primera, podrán ser garantizadas con pagaré autorizado por Notario. Sin perjuicio de lo anterior, el monto de cada cuota del préstamo no podrá sobrepasar la garantía entregada para caucionar el anticipo otorgado al proyecto, salvo que la diferencia sea garantizada de acuerdo a lo indicado en la letra d) del resuelvo 4.
+
+6. Para proceder al giro del préstamo se deberá acreditar el cumplimiento de los siguientes requisitos:
+
+a) Acompañar original o copia protocolizada en Notaría del contrato de mutuo.
+
+b) Acompañar copia del contrato de construcción, cuando corresponda.
+
+c) En los casos que corresponda, acompañar Certificado de dominio del terreno a nombre de Serviu, o acreditar que el terreno en el que se emplazará la construcción de las viviendas está afecto a prohibición de enajenar y gravar a favor del Serviu, inscrita en el Conservador de Bienes Raíces.
+
+d) Tratándose de préstamos para la ejecución de proyectos de construcción, también deberá haber ingresado al Serviu el instrumento de garantía que cauciona la restitución del préstamo. Las características y condiciones de esta garantía del préstamo se detallan en los resuelvos 4.d) y 8., del presente instrumento.
+
+### 7. Condiciones para la restitución del préstamo:
+
+a) El préstamo podrá restituirse contra el pago de los subsidios habitacionales, siempre que se efectúe dentro del plazo establecido en el contrato de mutuo.
+
+b) La restitución del préstamo será exigible al cumplirse el plazo convenido para ello. Vencido este plazo, el mutuario tendrá un plazo de 10 días corridos siguientes a aquel en que este se hubiera hecho exigible para su restitución. Si ese día fuera inhábil, dicho plazo se entenderá prorrogado hasta el día hábil siguiente.
+
+c) En caso de mora o simple retardo, el importe del mutuo se pagará al valor de la Unidad de Fomento vigente a la fecha de su pago efectivo y devengará desde el día inmediatamente siguiente a aquel en que debió haberse pagado un interés penal igual al interés máximo convencional para operaciones reajustables, hasta el momento de su pago efectivo.
+
+d) Estando pendiente el plazo fijado para la restitución, el deudor podrá reembolsar anticipadamente todo el capital adeudado, o una parte de este. En el caso de efectuarse amortizaciones extraordinarias, se harán en moneda corriente por el equivalente del valor de la Unidad de Fomento a la fecha de efectuarse la amortización. En caso de restitución parcial del valor de la cuota, la garantía respectiva podrá ajustarse al monto adeudado.
+
+e) El importe del mutuo será exigible anticipadamente y en forma inmediata en cualquiera de los siguientes casos:
+
+i. Si por cualquier razón o circunstancia quedare sin efecto, se resciliare o declarase resuelto, nulo, terminado o finiquitado el contrato de construcción que dé origen al contrato de mutuo.
+
+ii. Si el deudor cae en insolvencia o ha iniciado un procedimiento de renegociación o de liquidación o de reorganización de sus deudas.
+
+f) Si encontrándose próxima la expiración de la vigencia de la garantía que cauciona el préstamo, sin que este se haya restituido íntegramente, el mutuario deberá renovar la vigencia de la garantía o reemplazarla por otra. En caso de incumplimiento de lo anterior, se hará efectiva dicha garantía.
+
+8. Las garantías pecuniarias para caucionar la total y oportuna restitución del préstamo para la ejecución de proyectos de construcción, deberán cumplir con las siguientes características y condiciones:
+
+a) La garantía puede entregarse mediante una boleta bancaria de garantía, una póliza de garantía de ejecución inmediata o un Certificado de Fianza Recíproca, o un pagaré autorizado por Notario en los casos en que esta resolución lo autoriza.
+
+b) La garantía debe ser extendida a favor del Serviu, nominativa, y pagadera a la vista, cuando corresponda.
+
+c) El plazo de vigencia que se establezca en el contrato de mutuo para la garantía deberá exceder a lo menos en 60 días el plazo definido para la restitución del préstamo.
+
+d) La garantía debe ser extendida en Unidades de Fomento.
+
+e) El Serviu hará efectivas las garantías unilateralmente, en caso que el deudor incurra en incumplimiento del contrato de mutuo.
+
+f) En el caso que el Serviu haga efectivo el documento de garantía que cauciona el préstamo, notificará por escrito al deudor de esta circunstancia, especialmente para los efectos de que el deudor entere cualquier diferencia que se produzca, por ejemplo por intereses moratorios impagos, si los hubiere.
+
+g) En caso de entregarse como garantía un Certificado de Fianza, este deberá ser emitido por una Institución de Garantía Recíproca regida por la ley N° 20.179, clasificada en categoría A en el Registro respectivo que lleva la Superintendencia de Bancos e Instituciones Financieras.
+
+h) Las garantías se devolverán una vez que se haga efectiva la restitución del préstamo.
+
+9. El préstamo se formalizará mediante el correspondiente contrato de mutuo, protocolizado de conformidad al artículo N° 61 de la ley N° 16.391, siendo de cargo del mutuario todos los gastos que ello irrogue, sin perjuicio de su posterior aprobación mediante resoluciones del Director del Serviu respectivo.
+
+Anótese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.
