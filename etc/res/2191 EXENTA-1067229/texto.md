@@ -158,6 +158,8 @@ Delégase en el Jefe de la División de Empresas de Menor Tamaño, la facultad d
 
 9) Anotar la cancelación de la inscripción de los martilleros, cuando ésta fuere judicialmente declarada;
 
+En caso de ausencia del Jefe o Jefa de la División de Empresas de Menor Tamaño, ejercerá las respectivas funciones, el funcionario de la misma unidad que siga en el orden jerárquico que reúna los requisitos para el desempeño del cargo. En ausencia de este funcionario, ejercerá las aludidas funciones, sucesivamente, el Jefe de la División Jurídica, y en ausencia de éste, el Jefe de la División de Política Comercial e Industrial.
+
 #### Artículo séptimo
 
 <!-- parte:9509427 -->
