@@ -32,6 +32,8 @@ Considerando:
 
 Resuelvo:
 
+> **Nota.** El Artículo primero de la Resolución 14 Exenta, Energía, publicada el 18.01.2018, dispone la prórroga de vigencia de la presente norma a partir del 21 de enero y hasta que el Reglamento de Valorización de la Transmisión entre en vigencia, en conformidad a lo dispuesto en el artículo vigésimo transitorio de la ley N° 20.936.
+
 #### Artículo primero
 
 Establécense los plazos, requisitos y condiciones aplicables al proceso de valorización de las instalaciones de los sistemas de transmisión nacional, zonal, para polos de desarrollo, y de las instalaciones de sistemas de transmisión dedicada utilizadas por usuarios sometidos a regulación de precios.
@@ -364,15 +366,15 @@ La designación del representante del Ministerio se realizará directamente por 
 
 La designación de los demás integrantes, en sus respectivos segmentos, se realizará de común acuerdo y éste deberá constar en una declaración firmada por los gerentes generales o representantes legales de las empresas de transmisión nacional, transmisión zonal y de los clientes libres, respectivamente, que deberá enviarse a la Comisión.
 
-Si las empresas participantes no lograran acuerdo para la designación de los respectivos representantes al Comité en la forma señalada en el párrafo precedente, éstos serán designados por la Comisión, que en tal caso elegirá a los representantes de las empresas participantes que obtengan el más alto número de patrocinios en cada uno de los segmentos definidos. En caso de empate decidirá la Comisión.
+Si las empresas del respectivo segmento no lograran acuerdo para la designación de los respectivos representantes al Comité en la forma señalada en el párrafo precedente, éstos serán designados por la Comisión, que en tal caso elegirá a los representantes de las empresas que obtengan el más alto número de patrocinios en cada uno de los segmentos definidos. En caso de empate decidirá la Comisión.
 
 El patrocinio respectivo se deberá formalizar por escrito, en una declaración dirigida a la Comisión, firmada por el gerente general o el representante legal, donde se exprese claramente la empresa que representa y la identidad de la persona que propone o respalda.
 
 La declaración a que se refiere el inciso segundo y cuarto del presente artículo, podrá ser un documento único que contenga las firmas e individualizaciones de todos los representantes de las empresas del respectivo segmento que otorguen el patrocinio, o bien, podrán ser declaraciones separadas de cada representante debidamente individualizado.
 
-Cada empresa participante podrá otorgar uno o dos patrocinios, según el número de representantes que corresponda elegir, y éste deberá corresponder a su propio segmento.
+Cada empresa podrá otorgar uno o dos patrocinios, según el número de representantes que corresponda elegir, y éste deberá corresponder a su propio segmento.
 
-Si a través de este mecanismo no se recibieran patrocinios de alguno de los segmentos de las empresas participantes en número y forma, se procederá de forma supletoria a realizar la designación por el Secretario Ejecutivo de la Comisión.
+Si a través de este mecanismo no se recibieran patrocinios de alguno de los segmentos de las empresas en número y forma, se procederá de forma supletoria a realizar la designación por el Secretario Ejecutivo de la Comisión.
 
 #### Artículo 27º
 
@@ -430,19 +432,19 @@ El Comité cesará en sus funciones una vez terminado el o los estudios, esto es
 
 Las empresas de los sistemas de transmisión nacional, zonal y de sistemas de transmisión para polos de desarrollo, deberán concurrir al pago del o los estudios de valorización de instalaciones en la proporción que le corresponda a cada uno en función de la suma de los V.A.T.T. de sus instalaciones, actualizados al tercer mes anterior a la publicación de las bases técnicas y administrativas preliminares.
 
-Las proporciones serán determinadas e informadas a la Comisión por el Coordinador, dentro de un plazo de quince días, a partir de la publicación de las bases técnicas y administrativas preliminares en el sitio web de la Comisión, de acuerdo a lo establecido en el artículo 18º de la presente resolución.
+Las proporciones serán determinadas e informadas a la Comisión por el Coordinador, dentro de un plazo de quince días, contados a partir de la aprobación por parte de la Comisión del informe técnico definitivo de calificación de instalaciones a que se refiere el artículo 101° de la Ley.
 
 #### Artículo 34º
 
 La Comisión, dentro del plazo de quince días contados desde la fecha de recepción de la información señalada en el artículo anterior, dictará una resolución exenta que contendrá la proporción en que las empresas señaladas en el artículo 33º deben concurrir al financiamiento del o los Estudios.
 
-La referida resolución deberá ser comunicada a los participantes y usuarios e instituciones interesadas, y deberá publicarse en el sitio web de la Comisión dentro del plazo de cinco días contados desde la fecha de su dictación.
+La referida resolución deberá ser comunicada a las empresas de los sistemas de transmisión nacional, zonal y de sistemas de transmisión para polos de desarrollo, y deberá publicarse en el sitio web de la Comisión dentro del plazo de cinco días contados desde la fecha de su dictación.
 
 #### Artículo 35º
 
 Dentro de los 10 días siguientes a la resolución de adjudicación del o los estudios, la Comisión deberá establecer por resolución exenta el monto exacto a pagar por cada una de las empresa referidas en el artículo 33º, conforme a los porcentajes establecidos en la resolución a que se refiere el artículo anterior y el valor resultante del proceso de adjudicación del estudio o los estudios.
 
-La referida resolución deberá ser comunicada a los participantes y usuarios e instituciones interesadas, y deberá publicarse en el sitio web de la Comisión dentro del plazo de cinco días contados desde la fecha de su dictación.
+La referida resolución deberá ser comunicada a las empresas de los sistemas de transmisión nacional, zonal y de sistemas de transmisión para polos de desarrollo, y deberá publicarse en el sitio web de la Comisión dentro del plazo de cinco días contados desde la fecha de su dictación.
 
 #### Artículo 36º
 
