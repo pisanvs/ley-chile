@@ -88,35 +88,35 @@ C.- Función de Dirección de Establecimientos de Educación Parvularia:
 
 Grado 6º:
 
-Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 14 años en funciones de dirección de establecimientos de educación parvularia en la Junta Nacional de Jardines Infantiles.
+Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 14 años en funciones de dirección de establecimientos de educación parvularia en la Junta Nacional de Jardines Infantiles o, título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por este o aquellos validados en Chile de acuerdo a la Legislación vigente y acreditar una experiencia profesional no inferior a 12 años en funciones de dirección de establecimientos de educación parvularia en la Junta Nacional de Jardines Infantiles y estar reconocido a lo menos en el tramo profesional avanzado.
 
 Grado 7º:
 
-Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 13 años en funciones de dirección de establecimientos de educación parvularia en la Junta Nacional de Jardines Infantiles.
+Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 13 años en funciones de dirección de establecimientos de educación parvularia en la Junta Nacional de Jardines Infantiles o, título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la Legislación vigente y acreditar una experiencia profesional no inferior a 11 años en funciones de dirección de establecimientos de educación parvularia en la Junta Nacional de Jardines Infantiles y estar reconocido a lo menos en el tramo profesional avanzado.
 
 Grado 8º:
 
-Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 12 años en funciones de dirección de establecimientos de educación parvularia en la Junta Nacional de Jardines Infantiles.
+Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 12 años en funciones de dirección de establecimientos de educación parvularia en la Junta Nacional de Jardines Infantiles o, título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 8 años en funciones de dirección de establecimientos de educación parvularia en la Junta Nacional de Jardines Infantiles y estar reconocido a lo menos en el tramo profesional avanzado.
 
 Grado 9º:
 
-Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 10 años en .funciones de dirección de establecimientos de educación parvularia en la Junta Nacional de Jardines Infantiles.
+Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 10 años en .funciones de dirección de establecimientos de educación parvularia en la Junta Nacional de Jardines Infantiles o, título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 6 años en funciones de dirección de establecimientos de educación parvularia en la Junta Nacional de Jardines Infantiles y estar reconocido a lo menos en el tramo profesional avanzado.
 
 Grados 10º y 11º:
 
-Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 7 años en funciones en el área educacional en la Junta Nacional de Jardines Infantiles o de dirección de establecimientos de educación parvularia.
+Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 7 años en funciones en el área educacional en la Junta Nacional de Jardines Infantiles o de dirección de establecimientos de educación parvularia o, título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por este o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 5 años en funciones en el área educacional en la Junta Nacional de Jardines Infantiles o de dirección de establecimientos de educación parvularia y estar reconocido a lo menos en el tramo profesional avanzado.
 
 Grado 12º:
 
-Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 6 años en funciones en el área educacional en la Junta Nacional de Jardines Infantiles o de dirección de establecimientos de educación parvularia.
+Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 6 años en funciones en el área educacional en la Junta Nacional de Jardines Infantiles o de dirección de establecimientos de educación parvularia o, título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y estar reconocido a lo menos en el tramo profesional avanzado.
 
 Grado 13º:
 
-Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 5 años en funciones en el área educacional en la Junta Nacional de Jardines infantiles o de dirección de establecimientos de educación parvularia.
+Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 5 años en funciones en el área educacional en la Junta Nacional de Jardines infantiles o de dirección de establecimientos de educación parvularia o, título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y estar reconocido a lo menos en el tramo profesional temprano.
 
 Grado 14º:
 
-Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 4 años en funciones en el área educacional en establecimientos de educación parvularia.
+Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 4 años en funciones en el área educacional en establecimientos de educación parvularia o, título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y estar reconocido a lo menos en el tramo profesional temprano.
 
 Grado 15º:
 
@@ -126,39 +126,43 @@ Grado 16º:
 
 Título profesional de Educadora de Párvulos otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 2 años en funciones en el área educacional en establecimientos de educación parvularia.
 
+Los tramos profesionales referidos anteriormente corresponderán a los señalados en el decreto con fuerza de ley dictado en virtud de lo dispuesto por el artículo cuadragésimo quinto transitorio de la ley N° 20.903.
+
+Sin perjuicio de los requisitos que para cada grado antes se indican, será requisito de ingreso a la función de dirección de establecimientos de educación parvularia, el no haber sido desvinculado producto de los resultados de las evaluaciones que contempla el Sistema de Desarrollo Profesional Docente, del artículo 19 S.- del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, y las adecuaciones que se le efectúen en cumplimiento del artículo cuadragésimo quinto transitorio de la ley N° 20.903.
+
 D.- Función Pedagógica en Establecimientos de Educación Parvularia:
 
 Grado 6º:
 
-Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 14 años en el área educacional en la Junta Nacional de Jardines Infantiles.
+Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 14 años en el área educacional en la Junta Nacional de Jardines Infantiles o, título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 12 años en el área educacional en la Junta Nacional de Jardines Infantiles, y estar reconocido a lo menos en el tramo profesional avanzado.
 
 Grado 7º:
 
-Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 13 años en el área educacional en la Junta Nacional de Jardines Infantiles.
+Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 13 años en el área educacional en la Junta Nacional de Jardines Infantiles o, título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 11 años en el área educacional en la Junta Nacional de Jardines Infantiles, y estar reconocido a lo menos en el tramo profesional avanzado.
 
 Grado 8º:
 
-Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 12 años en el área educacional en la Junta Nacional de Jardines Infantiles.
+Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 12 años en el área educacional en la Junta Nacional de Jardines Infantiles o, título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 8 años en el área educacional en la Junta Nacional de Jardines Infantiles, y estar reconocido a lo menos en el tramo profesional avanzado.
 
 Grado 9º:
 
-Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 10 años en el área educacional en la Junta Nacional de Jardines Infantiles.
+Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 10 años en el área educacional en la Junta Nacional de Jardines Infantiles o, título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 6 años en el área educacional en la Junta Nacional de Jardines Infantiles, y estar reconocido a lo menos en el tramo profesional avanzado.
 
 Grados 10º y 11º:
 
-Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 7 años en el área educacional en la Junta Nacional de Jardines Infantiles o de, a lo menos, 9 años en el área educacional en establecimientos de educación parvularia.
+Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 7 años en el área educacional en la Junta Nacional de Jardines Infantiles o de, a lo menos, 9 años en el área educacional en establecimientos de educación parvularia o, título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 5 años en el área educacional en la Junta Nacional de Jardines Infantiles y estar reconocido a lo menos en el tramo profesional avanzado.
 
 Grado 12º:
 
-Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 6 años en el área educacional en la Junta Nacional de Jardines Infantiles o de, a lo menos, 8 años en el área educacional en establecimientos de educación parvularia.
+Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 6 años en el área educacional en la Junta Nacional de Jardines Infantiles o de, a lo menos, 8 años en el área educacional en establecimientos de educación parvularia o, título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y estar reconocido a lo menos en el tramo profesional avanzado.
 
 Grado 13º:
 
-Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 5 años en el área educacional en la Junta Nacional de Jardines Infantiles o de, a lo menos, 7 años en el área educacional en establecimientos de educación parvularia.
+Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 5 años en el área educacional en la Junta Nacional de Jardines Infantiles o de, a lo menos, 7 años en el área educacional en establecimientos de educación parvularia o, título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y estar reconocido a lo menos en el tramo profesional temprano.
 
 Grado 14º:
 
-Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 4 años en el área educacional en establecimientos de educación parvularia.
+Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a 4 años en el área educacional en establecimientos de educación parvularia o, título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente y estar reconocido a lo menos en el tramo profesional temprano.
 
 Grado 15º:
 
@@ -171,6 +175,10 @@ Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorg
 Grados 17º y 18º:
 
 Título profesional de Educadora de Párvulos y/o de Educadora Diferencial otorgado por una universidad o instituto profesional del Estado o reconocido por éste o aquellos validados en Chile de acuerdo a la legislación vigente.
+
+Los tramos profesionales referidos anteriormente corresponderán a los señalados en el decreto con fuerza de ley dictado en virtud de lo dispuesto por el artículo cuadragésimo quinto transitorio de la ley N° 20.903.
+
+Sin perjuicio de los requisitos que para cada grado antes se indican, será requisito de ingreso a la función pedagógica de establecimientos de educación parvularia, el no haber sido desvinculado producto de los resultados de las evaluaciones que contempla el Sistema de Desarrollo Profesional Docente, del artículo 19 S.- del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, y las adecuaciones que se le efectúen en cumplimiento del artículo cuadragésimo quinto transitorio de la ley N° 20.903.
 
 II.- PLANTA DE TÉCNICOS.
 
