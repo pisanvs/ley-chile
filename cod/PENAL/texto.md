@@ -3952,9 +3952,9 @@ Cuando, en los casos del inciso primero del artículo anterior, el hecho se llev
 
 #### Artículo 459
 
-Sufrirán las penas de presidio menor en su grado mínimo y multa de once a veinte unidades tributarias mensuales, los que sin título legítimo e invadiendo derechos ajenos:
+Sufrirán las penas de presidio menor en su grado mínimo a medio y multa de veinte a cinco mil unidades tributarias mensuales, los que sin título legítimo e invadiendo derechos ajenos:
 
-1.° Sacaren aguas de represas, estanques u otros depósitos; de ríos, arroyos o fuentes; de canales o acueductos, redes de agua potable e instalaciones domiciliarias de éstas, y se las apropiaren para hacer de ellas un uso cualquiera.
+1.° Sacaren aguas de represas, estanques u otros depósitos; de ríos, arroyos o fuentes, sean superficiales o subterráneas; de canales o acueductos, redes de agua potable e instalaciones domiciliarias de éstas, y se las apropiaren para hacer de ellas un uso cualquiera.
 
 2.° Rompieren o alteraren con igual fin diques, esclusas, compuertas, marcos u otras obras semejantes existentes en los ríos, arroyos, fuentes, depósitos, canales o acueductos.
 
@@ -3964,7 +3964,11 @@ Sufrirán las penas de presidio menor en su grado mínimo y multa de once a vein
 
 #### Artículo 460
 
-Cuando los simples delitos a que se refiere el artículo anterior se ejecutaren con violencia en las personas, si el culpable no mereciere mayor pena por la violencia que causare, sufrirá la de presidio menor en sus grados mínimo a medio y multa de once a veinte unidades tributarias mensuales.
+Cuando los simples delitos a que se refiere el artículo anterior se ejecutaren con violencia o intimidación en las personas, si el culpable no mereciere mayor pena por la violencia o intimidación que causare, sufrirá la de presidio menor en cualquiera de sus grados y multa de cincuenta a cinco mil unidades tributarias mensuales.
+
+#### Artículo 460 bis
+
+El que a sabiendas duplique la inscripción de su derecho en el Registro de Propiedad de Aguas del Conservador de Bienes Raíces sufrirá las penas de presidio menor en su grado mínimo, multa de once a veinte unidades tributarias mensuales, la revocación del título duplicado y la cancelación de la inscripción duplicada.
 
 #### Artículo 461
 

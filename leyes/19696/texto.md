@@ -1376,6 +1376,8 @@ Cuando el ministerio público tomare conocimiento de la existencia de un hecho q
 
 Tratándose de delitos de acción pública previa instancia particular, no podrá procederse sin que, a lo menos, se hubiere denunciado el hecho con arreglo al artículo 54, salvo para realizar los actos urgentes de investigación o los absolutamente necesarios para impedir o interrumpir la comisión del delito.
 
+En los delitos previstos en los artículos 459 y 460 del Código Penal, recibida la denuncia el fiscal comunicará los hechos a la Dirección General de Aguas del Ministerio de Obras Públicas.
+
 #### Artículo 167
 
 Archivo provisional. En tanto no se hubiere producido la intervención del juez de garantía en el procedimiento, el ministerio público podrá archivar provisionalmente aquellas investigaciones en las que no aparecieren antecedentes que permitieren desarrollar actividades conducentes al esclarecimiento de los hechos.
