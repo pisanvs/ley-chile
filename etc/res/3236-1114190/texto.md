@@ -1,0 +1,9 @@
+AUTORIZA INCORPORACIÓN DE ESPECIES Y MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 3.236, del 21 de diciembre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Marine Harvest Chile S.A., sociedad chilena, RUT 96.633.780-K, con domicilio en Ruta 226, Kilómetro 8, Casilla 56-D, Puerto Montt, para incorporar el cultivo del grupo de especies salmónidos, solicitud 210104040, del 31 de diciembre de 2010, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por DS 1.009, del 26 de agosto de 1986, modificada por DS 886, del 21 de septiembre de 1987, renovada por DS 152, del 31 de mayo de 1994, modificado por resolución 1.281, del 5 de marzo de 2001, todos del Ministerio de Defensa Nacional, Subsecretaría de Marina, modificada por resolución 1.403, del 27 de julio de 2010, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, ubicada en Ensenada Codihué, al Norte de Punta Peuque, comuna de Calbuco, provincia de Llanquihue, X Región de Los Lagos.
+
+2.- Modifícase, a contar de la fecha del presente acto administrativo, la concesión de acuicultura de porción de agua y fondo de mar, señalada en el párrafo precedente, en el sentido que la concesionaria debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 3.791, del 14 de diciembre de 2016, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+
+Santiago, 9 de enero de 2018.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
