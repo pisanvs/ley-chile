@@ -30,6 +30,8 @@ Decreto:
 
 Determínase que la especialidad de medicina familiar dará derecho, durante el año 2017, a recibir la asignación de estímulo por competencias profesionales que concede el artículo 8° de la ley N° 20.816. Las entidades administradoras de salud municipal que se indican a continuación, concederán dicha asignación a los médicos cirujanos que cuenten con esta especialidad, para lo que contarán con los siguientes recursos para ello, en atención al número de profesionales y de horas semanales contratadas, conforme a continuación se indica:
 
+..
+
 .
 
 #### Artículo 2°
