@@ -1,0 +1,7 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 3.251, del 28 de diciembre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+Modifícase la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 3.390, del 16 de septiembre de 2011, modificada por resolución 2.776, del 17 de agosto de 2012, ambas del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría para las Fuerzas Armadas, a fojas 303 vta., N° 606, del 10 de diciembre de 2012, a nombre de su actual titular Salmones Pacific Star S.A., sociedad chilena, RUT 79.559.220-2, con domicilio en Avenida Juan Soler Manfredini 41, piso 12, Puerto Montt, en el sentido que la concesionaria debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 3.431, del 21 de diciembre de 2012, modificada por resolución exenta 2.454, del 27 de julio de 2017, ambas del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el N° 4 de la parte resolutiva del acto administrativo que otorgó la concesión de acuicultura.
+
+Santiago, 12 de enero de 2018.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
