@@ -444,10 +444,6 @@ En las postulaciones colectivas se aceptará que el 60% de los integrantes cumpl
 
 28. Las nóminas de los postulantes seleccionados y sus respectivos proyectos se aprobarán mediante resoluciones exentas de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial. La difusión de dichas nóminas se realizará por el Serviu respectivo en los términos previstos en el DS N° 255 (V. y U.), de 2006.
 
-> **Nota.** El numeral 1, 1.5 de la Resolución 6643 Exenta, Vivienda, publicada el 29.05.2017, modifica la presente norma, en el sentido de insertar dentro de la tabla de su resuelvo 4 una nueva columna, que indica los montos destinados para proyectos de Mantención en dicho llamado. La referida modificación, señala que dichos montos deberán ser descontados de aquellos señalados para cada región en la columna "Total Regular Títulos I, II y III", en los términos indicados en la tabla que se inserta por medio de esta modificación.
-
-> **Nota.** NOTA 1 El numeral 1, 1.2 de la Resolución 10783 Exenta, Vivienda, publicada el 08.09.2017, modifica el resuelvo 4 de la presente norma, en el sentido de complementar los recursos consignados en su tabla para las regiones de Valparaíso por 20.000 UF y del Biobío por 20.000 UF.
-
 Anótese, publíquese en el Diario oficial y archívese.- Iván Leonhardt Cárdenas, Ministro de Vivienda y Urbanismo Subrogante.
 
 Lo que transcribo para su conocimiento.- Jocelyn Figueroa Yousef, Subsecretaria de Vivienda y Urbanismo (S).
