@@ -1,0 +1,5 @@
+OTORGA EXCEPCIÓN DE CAMBIO DE SUJETO DEL IVA EN LA VENTA DE BERRIES Y OTORGA LA CALIDAD DE AGENTE RETENEDOR DEL IVA, RESPECTO DE LAS COMPRAS DE BERRIES QUE A SU VEZ EFECTÚE A TERCEROS VENDEDORES
+
+La VII Dirección Regional Talca del SII, por resolución exenta Nº 34, de 24 de enero de 2018, otorga a Sara del Carmen Ortiz Abarca, RUT Nº 12.366.951-7, a contar del día primero del mes siguiente al de esta publicación, la excepción del régimen de cambio de sujeto de derecho del Impuesto al Valor Agregado en la venta de berries y además otorga la calidad de Agente Retenedor del Impuesto, respecto de las compras de berries que, a su vez, efectúa a terceros vendedores, de acuerdo a la facultad establecida en el dispositivo Nº 12 de la resolución Ex. Nº 55/2005, modificada por la Res. Ex. Nº 58, del 19.05.2006, de la Dirección Nacional, publicada en el Diario Oficial del día 25.05.2006.
+
+Linares, 24 de enero de 2018.- Sergio Flores Gutiérrez, Director Regional.
