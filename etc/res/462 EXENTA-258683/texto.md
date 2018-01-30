@@ -80,15 +80,23 @@ Independencia Dr. Asenjo Av. Américo Sentido S-N
 
 Vespucio
 
-Eje Gran
+Gran Avenida
 
-Avenida -
+Jose Miguel
 
-Av. José
+Carrera Balmaceda Riquelme S-N
 
-Miguel Placer Balmaceda Ambos
+Gran Avenida
 
-Carrera sentidos
+Jose Miguel
+
+Carrera Goycolea Placer S-N
+
+Gran Avenida
+
+Jose Miguel
+
+Carrera Placer Balmaceda S-N
 
 ELIMINADA
 
@@ -309,6 +317,8 @@ Matucana Av. Libertador
 Bernardo O'Higgins Santo Domingo S-N
 
 (Alameda)
+
+No obstante lo anterior, en el eje Gran Avenida José Miguel Carrera, entre calle Riquelme y Goycolea, se establecerá adicionalmente una pista de uso exclusivo para buses de transporte público, en el costado izquierdo de la calzada, con sentido sur-norte
 
 2.- También podrán circular por estas pistas exclusivas, los siguientes vehículos:
 
