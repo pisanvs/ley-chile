@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 8.052 EXENTA, DE 19 DE DICIEMBRE DE 2017
+
+Por resolución exenta N° 8.052, de fecha 19 de diciembre de 2017, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Sociedad de Gestión y Administración Madriaza y Madriaza Limitada", nombre de fantasía "Nora Tres Ltda.", RUT N° 76.539.215-2, representada legalmente por señor Mauricio Manuel Madriaza del Campo. La Escuela de Conductores tendrá como Director al señor Juan Manuel Benítez Alarcón, y su sede estará ubicada en calle José Luis Coo N° 0247, comuna de Puente Alto. Horas pedagógicas autorizadas a la referida Escuela son doce teóricas y doce prácticas, con total de veinticuatro horas pedagógicas.-
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
