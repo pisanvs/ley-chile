@@ -38,7 +38,7 @@ Resuelvo:
 
 En forma alternativa se aceptará la habilitación de instalaciones de tratamiento en el extranjero, previa auditoría por profesionales del Servicio, y firma de un Acuerdo Operacional que estipule las obligaciones de las partes. La visita de habilitación y las visitas de auditoría serán de cargo de los importadores interesados en habilitar determinadas instalaciones en el país de origen.
 
-El Servicio podrá autorizar que los vehículos usados, partes y piezas de vehículos usados, ropa usada, juguetes usados y zapatos usados procedentes de Estados Unidos de Norteamérica, que arriben al país sean sometidos en el territorio nacional a uno de los tratamientos detallados en el resuelvo 3 de esta resolución.
+El Servicio podrá autorizar que los vehículos usados, partes y piezas de vehículos usados, ropa usada, juguetes usados y zapatos usados procedentes de Estados Unidos de Norteamérica, que arriben al país sean sometidos en el territorio nacional a uno de los tratamientos detallados en el resuelvo 3 de esta resolución, siempre y cuando existan las condiciones para realizar el tratamiento.
 
 El tratamiento fitosanitario deberá ser realizado en el punto de ingreso, en recintos considerados como zona primaria o bien otros lugares autorizados por el Ministerio de Salud. El traslado a estos lugares deberá contar con la autorización del Servicio Nacional de Aduanas. Estas aplicaciones deben ser realizadas por empresas de tratamiento registradas bajo el Sistema Nacional de Autorización de Terceros en la ejecución de tratamientos fitosanitarios, dando cumplimiento a los procedimientos establecidos en la normativa vigente y entregando un Certificado de Tratamiento al término del tratamiento.
 
