@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 18, de fecha 3 de enero de 2018, de la Dirección del Serviu Metropolitano, se rectifica resolución exenta N° 7.844, de fecha 28 de diciembre de 2015, de la Dirección del Serviu Metropolitano, la cual dispuso la expropiación del inmueble ubicado en Parcela 1 Hijuela 4 Lo Hermida Alta, de la comuna de Peñalolén, individualizado en el Plano de Expropiación como Lote 4 A 1, necesario para la ejecución del Programa denominado "Terreno Las Perdices N° 2120 y N° 2301, comuna de Peñalolén", de aparente dominio de Suc. Sánchez Olivos Alfonso René. Se modifican los deslindes de la superficie a expropiar por los siguientes: Nor-Oriente: En 114,50 metros con Av. Las Perdices; Nor-Poniente: En 211,00 metros con parte de propiedad rol 9066-49 y otros propietarios; Sur-Oriente: En 187,90 metros con otros propietarios; Sur-Poniente: En 116,74 metros con otros propietarios.-
+
+Director Serviu Metropolitano.
