@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 63, de fecha 16 de enero de 2018, del Serviu IV Región de Coquimbo, se modificó resolución exenta Nº 624 de fecha 23/05/2017 del Serviu Región de Coquimbo, que ordenó expropiación de Lote 88, del plano de expropiación, en el sentido de señalar en visto letra h), y en resuelvo Nº 1 de dicha resolución que el rol de avalúo correcto del lote expropiado, es el Nº 681-11 de la Comuna de Coquimbo, propietario aparente don Juan Guillermo Fredes Guerra y su inscripción aparente de dominio corresponde a fojas 4.065 Nº 2.687 del Conservador de Bienes Raíces de Coquimbo correspondiente al año 2006, y no como se indicó en dicho acto. En todo lo demás no modificado se entiende plenamente vigente resolución rectificada.
+
+- Ángelo Montaño Espejo, Director Serviu Región de Coquimbo.
