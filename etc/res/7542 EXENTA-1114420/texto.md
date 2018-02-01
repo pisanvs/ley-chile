@@ -1,0 +1,5 @@
+NOTIFICACION
+
+Por resolución exenta N° 7.542, de fecha 20 de diciembre de 2017, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 9036-12, correspondiente al inmueble ubicado en PJ EST San Gabriel 0748 DP 34 A Volcán San José 2, Rol de Avalúo N° 9036-12, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de López Riquelme Elizabeth del C, con una superficie aproximada de 46,07 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación de Terrenos Población Volcán San José II". La Comisión de Peritos integrada por los señores Armando Pinochet Landeros, Constructor Civil; Fresia Mora Lepe, Arquitecto y Victoria Blanco Costa, Arquitecto, mediante informe de fecha 13 de diciembre de 2017, fijó la indemnización provisional por causa de la referida expropiación en la suma de $18.371.817, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
