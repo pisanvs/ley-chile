@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 1.722, de fecha 28 de diciembre de 2017, del Serviu IV Región de Coquimbo, se ordenó expropiar totalmente, por causa de utilidad pública, según la estrategia de erradicación y desarrollo de proyecto habitacional para una parte de las familias del sector de Baquedano, ciudad de Coquimbo, afectadas por el sismo y posterior tsunami de fecha 16 de septiembre de 2015, conforme al artículo 51 Ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 16, en plano de expropiación, ubicado en Chacabuco 417 Baquedano, de la comuna de Coquimbo, Rol de Avalúo Nº 672-09 de la comuna de Coquimbo, de aparente dominio de Sandra Arenas Araya, superficie aprox. de 188,43 m2. Comisión de Peritos conformada por profesionales Marcia Aqueveque Martínez, Alfredo Prieto Parra y Miguel Rubio Vega, según informe de fecha 8 de noviembre de 2016, fijó indemnización provisional en 1.108,10 UF, pagadero al contado.-
+
+Ángelo Montaño Espejo, Director Serviu Región de Coquimbo.
