@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.723, de fecha 28 de diciembre de 2017, del Serviu IV Región de Coquimbo, se ordenó expropiar totalmente, por causa de utilidad pública, según la estrategia de erradicación y desarrollo de proyecto habitacional para una parte de las familias del sector de Baquedano, ciudad de Coquimbo, afectadas por el sismo y posterior tsunami de fecha 16 de septiembre de 2015, conforme al artículo 51 Ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 691-27, en plano de expropiación, ubicado en Francisco de Aguirre N° 191, de la comuna de Coquimbo, Rol de Avalúo N° 691-27 de la comuna de Coquimbo, de aparente dominio de Iris Violeta Cortés Rivera, superficie aprox. de 207 m2. Comisión de Peritos conformada por profesionales Marcia Aqueveque Martínez, Alfredo Prieto y Miguel Rubio Vega, según informe de fecha 28 de marzo de 2017, fijó indemnización provisional en 992,89 UF, pagadero al contado.-
+
+Ángelo Montaño Espejo, Director Serviu Región de Coquimbo.
