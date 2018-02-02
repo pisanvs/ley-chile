@@ -494,8 +494,6 @@ jefatura, las que serán asignadas, en cada caso, por el Tesorero General de la 
 
 > **Nota.** NOTA 2: El artículo primero, Nº 2, del DFL 11, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional Tesorero, grado 6, en la Planta de personal de Directivos del Servicio de Tesorería.
 
-> **Nota.** NOTA 3 El artículo primero, Nº 1, del DFL 19, Hacienda, publicado el 09.07.2018, crea un cargo de Director Regional Tesorero, grado 6°, en la Planta de personal de Directivos del Servicio de Tesorería.
-
 #### Artículo 15°
 
 Conforme lo dispuesto en el artículo 13 de la ley 19.269, los requisitos generales y específicos para el ingreso y promoción en las plantas y cargos del Servicio de Tesorerías, serán los siguientes:
