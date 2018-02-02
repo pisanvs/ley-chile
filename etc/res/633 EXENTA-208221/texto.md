@@ -314,6 +314,14 @@ Prunus serotina Cherry leaf roll virus (CLRV)
 
 (Cerezo oriental) Plum pox virus (PPV)
 
+Prunus spinosa Candidatus Phytoplasma prunorum
+
+Xylella fastidiosa
+
+Little cherry virus
+
+plum pox virus
+
 Prunus virginiana Peach X disease phytoplasma
 
 Plum pox virus (PPV)
@@ -626,6 +634,10 @@ Cynara scolymus Sin Declaración Adicional
 
 (Alcachofa)
 
+Duboisia myoporoides Sin Declaración Adicional
+
+Duboisia leichhardtii Sin Declaración Adicional
+
 Humulus lupulus Sin Declaración Adicional
 
 (Lúpulo)
@@ -786,6 +798,10 @@ Dendrobium spp.
 
 Disa spp. (Orquídea) Phychopsis spp. (Orquídea)
 
+Dionaea muscipula Sin declaración adicional
+
+Echinacea spp. Sin declaración adicional
+
 Epidendrum spp.
 
 (Orquídea) Phragmipedium spp. (Orquídea)
@@ -793,6 +809,8 @@ Epidendrum spp.
 Epipactis spp. (Orquidea) Primula spp. (Prímula) Eulophia spp. (Orquídea) Rhododendron spp.
 
 (Rododendro, Azalea)
+
+Eucomis spp. Sin declaración adicional
 
 Fuchsia spp. (Fucsia) Saintpaulia spp. (Violeta
 
@@ -990,6 +1008,8 @@ la arena) phytoplasma
 
 Plumpox virus (PPV).
 
+Scilla spp Sin declaración adicional
+
 5. En caso de envíos que procedan de países que se encuentren libres de alguna de las plagas establecida para la especie, no será necesario cumplir con el número 4.3 para esa plaga y bastará como Declaración Adicional, que la autoridad fitosanitaria competente del país de origen indique en el Certificado Fitosanitario, que dicha plaga no tiene reporte en el país.
 
 6. El ingreso de aquellas especies no incluidas en la presente resolución requerirá, a solicitud del interesado, de la emisión de un permiso de importación, el que se otorgará mediante una resolución exenta específica para el envío. Este ingreso quedará sujeto en lo general, a todo lo establecido en la presente resolución y, en lo específico, a lo que determine el Análisis de Riesgo de Plagas.
@@ -1177,5 +1197,7 @@ Si el material corresponde a especies del género Prunus afectas al control obli
 > **Nota.** NOTA 4 El Numeral 3º de la Resolución 5622 Exenta, Agricultura, publicada 30.11.2013, modifico la presente norma en el sentido de reemplazar en todo el texto de la resolución el término Depósito Particular por Cuarentena In Vitro.
 
 > **Nota.** NOTA 5 El N° 1 de la Resolución 3576 Exenta, Agricultura, publicada el 23.05.2014, interpreta la resolución Nº 1.960, de fecha 7 de abril de 2014, modificatoria de la presente norma en el sentido de postergar su entrada en vigencia en 60 días a partir de su publicación.
+
+> **Nota.** NOTA 6 El N° 1, 1.1, 1.2, 1.3 y 1.4 de la resolución 6724 Exenta, Agricultura, publicada el 11.11.2017, modifica la presente norma en el sentido de agregar en su resuelvo 4.3, en su apartado para "Frutales", "Cultivos y Hortalizas", "Forestales" y "Ornamentales", las declaraciones adicionales en los términos y con las especificaciones que en la referida resolución se señalan.
 
 Anótese, comuníquese y publíquese.- Carlos Parra Merino, Director Nacional.
