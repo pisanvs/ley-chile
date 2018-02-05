@@ -1,4 +1,4 @@
-ESTABLECE NORMAS PROCEDIMENTALES ESTRICTAMENTE NECESARIAS PARA EL PRIMER PROCESO DE PLANIFICACIÓN ANUAL DE LA TRANSMISIÓN A REALIZARSE CONFORME A LO DISPUESTO EN LA LEY Nº 20.936, CORRESPONDIENTE AL AÑO 2017
+ESTABLECE NORMAS PROCEDIMENTALES ESTRICTAMENTE NECESARIAS PARA EL PROCESO DE PLANIFICACIÓN ANUAL DE LA TRANSMISIÓN A REALIZARSE CONFORME A LO DISPUESTO EN LA LEY Nº 20.936
 
 Núm. 18 exenta.- Santiago, 10 de enero de 2017.
 
@@ -64,7 +64,7 @@ El Coordinador deberá presentar todos los antecedentes que respalden su propues
 
 La Comisión, dentro de los cinco días hábiles contados desde la recepción de la propuesta de expansión anual del Coordinador, deberá publicarla en su sitio web.
 
-Conjuntamente con la publicación de la propuesta del Coordinador, la Comisión deberá convocar a una etapa de presentación de propuestas de proyectos de expansión de la transmisión. La convocatoria se llevará a cabo mediante la publicación de un aviso en el sitio web de la Comisión y en el del Coordinador, el que deberá permanecer disponible por, al menos, quince días.
+Dentro de los cinco días siguientes a la publicación de la propuesta del Coordinador, la Comisión deberá convocar a una etapa de presentación de propuestas de proyectos de expansión de la transmisión. La convocatoria se llevará a cabo mediante la publicación de un aviso en el sitio web de la Comisión y en el del Coordinador, el que deberá permanecer disponible por, al menos, quince días.
 
 Asimismo, la convocatoria deberá publicarse por una sola vez en el Diario Oficial dentro de los cinco días siguientes a su publicación en el sitio web de la Comisión.
 
@@ -84,45 +84,61 @@ a) Identificación completa de los promotores del o los proyectos;
 
 b) Descripción general del o los proyectos de expansión en generación;
 
-c) Antecedentes técnicos del o los proyectos de transmisión, tales como capacidad, características técnicas, emplazamiento, trazados tentativos cuando corresponda, valorización y todo otro antecedente que permita la evaluación y validación técnico-económica del proyecto;
+c) Antecedentes técnicos del o los proyectos de transmisión, tales como capacidad, características técnicas, emplazamiento, diagramas unilineales del proyecto, diagramas de planta, trazados tentativos cuando corresponda, valorización y todo otro antecedente que permita la evaluación y validación técnico-económica del proyecto;
 
 d) Justificación de la necesidad del proyecto y evaluación económica del mismo cuando corresponda.
 
+e) Análisis del impacto del o los proyectos en el sistema eléctrico.
+
 La inclusión en el Informe Técnico Definitivo de los proyectos que hayan sido presentados ante el Coordinador o ante la Comisión, no exime de la obligación de licitar que rige para todas las obras de expansión.
 
-#### Artículo 5º
+#### Artículo 5°
 
-La Comisión podrá solicitar a los promotores de proyectos, antecedentes complementarios o aclaraciones respecto de las propuestas presentadas. Los promotores deberán dar respuesta por escrito a la Comisión, dentro del plazo que ésta señale en su solicitud. En caso de no entregar la información requerida en plazo o en forma, la Comisión podrá considerar la propuesta como no presentada.
+La Comisión podrá solicitar a los promotores de proyectos, dentro de los 60 días siguientes a la expiración del plazo de presentación de propuestas, antecedentes complementarios o aclaraciones respecto de las propuestas presentadas.
 
 La Comisión podrá desechar proyectos incompletos o que no cumplan con los requisitos mínimos necesarios para una evaluación técnico-económica. Asimismo, podrá introducir cambios a los proyectos presentados por los promotores.
 
 #### Artículo 6°
 
-El Coordinador podrá actualizar, complementar o corregir su propuesta de expansión anual de la transmisión hasta el vencimiento de la etapa de presentación de propuestas de transmisión a que hace referencia el artículo 4º de la presente resolución. Todo complemento o actualización deberá cumplir con los contenidos mínimos señalados en el artículo 2º.
+El Coordinador podrá actualizar, complementar o corregir su propuesta de expansión anual de la transmisión, dentro del plazo de 30 días siguientes al vencimiento de la etapa de presentación de propuestas de transmisión a que hace referencia el artículo 4° de la presente resolución. Todo complemento o actualización deberá cumplir con los contenidos mínimos señalados en el artículo 2°.
 
-#### Artículo 7º
+#### Artículo 7°
 
-A más tardar el 29 de diciembre de 2017, la Comisión emitirá el Informe Técnico Preliminar con el plan de expansión anual de la transmisión, el cual deberá ser publicado en su sitio web en la misma oportunidad.
+Dentro del primer trimestre de cada año el Ministerio deberá remitir a la Comisión un informe que contenga criterios y variables ambientales y territoriales, incluyendo objetivos de eficiencia energética, de acuerdo a la información que se encuentre disponible al momento de iniciarse el proceso de planificación de la transmisión.
 
-Posteriormente, dentro del plazo de diez días a contar de la recepción del Informe Técnico Preliminar mencionado previamente, los participantes y usuarios e instituciones interesadas podrán presentar sus observaciones a la Comisión, en la forma y con los requisitos que se establezcan para efectos del cumplimiento de los artículos 90º y 91º de la ley. En el caso que no se cumpla con los requisitos y forma para efectuar las observaciones, se entenderá que la observación no ha sido presentada.
+#### Artículo 8°
+
+Anualmente, el Ministerio podrá actualizar la proyección de la demanda, los escenarios macroeconómicos, y los demás antecedentes considerados en los escenarios definidos en el decreto de planificación energética a que hace referencia el artículo 86° de la ley.
+
+Asimismo, la Comisión podrá solicitar al Ministerio la actualización de los antecedentes mencionados en el inciso anterior, a fin de considerarlos en el proceso de planificación de la transmisión.
+
+#### Artículo 9°
+
+Tanto el informe señalado en el artículo 7° de la presente resolución, como la planificación energética referida en el artículo 86° de la ley o su actualización, según corresponda, deberán ser considerados por la Comisión en la planificación de la transmisión, en particular, al elaborar los informes técnicos a que se refieren los artículos siguientes de esta resolución.
+
+#### Artículo 10°
+
+A más tardar el último día hábil de octubre de cada año, la Comisión emitirá el Informe Técnico Preliminar con el plan de expansión anual de la transmisión, el cual deberá ser publicado en su sitio web en la misma oportunidad. La Comisión podrá disponer la realización de instancias de difusión de los principales resultados obtenidos en el proceso, en forma previa o posterior a la emisión del Informe Técnico Preliminar a que se refiere el presente artículo.
+
+Posteriormente, dentro del plazo de diez días a contar de la recepción del Informe Técnico Preliminar mencionado previamente, los participantes y usuarios e instituciones interesadas debidamente inscritos de acuerdo a lo establecido en el artículo 90° de la ley, podrán presentar sus observaciones a la Comisión, las que deberán ser fundadas y presentadas de acuerdo al formato que al efecto se establezca. En el caso que no se cumpla con los requisitos y forma para efectuar las observaciones, se entenderá que la observación no ha sido presentada.
 
 Adicionalmente, la Comisión podrá solicitar a quienes hayan formulado observaciones, antecedentes complementarios o aclaraciones respecto a las mismas, los que deberán dar respuesta por escrito a la Comisión, dentro del plazo que ésta señale en su solicitud. En caso de no entregar la información requerida en plazo o en forma, la Comisión podrá tener la observación por no presentada.
 
-#### Artículo 8º
+#### Artículo 11º
 
 Dentro de los treinta días siguientes al vencimiento del plazo para presentar observaciones, la Comisión emitirá y comunicará el Informe Técnico Final del plan de expansión anual, aceptando o rechazando fundadamente las observaciones planteadas conforme lo señalado en los artículos precedentes, el que deberá ser publicado en su sitio web.
 
-#### Artículo 9º
+#### Artículo 12º
 
 Dentro de los quince días contados desde la comunicación del Informe Técnico Final referido en el artículo anterior, los participantes y usuarios e instituciones interesadas podrán presentar sus discrepancias al Panel de Expertos, el que emitirá su dictamen en un plazo máximo de cincuenta días corridos, contados desde la respectiva audiencia a que hace referencia el artículo 211º de la ley.
 
 Para los efectos anteriores, se entenderá que existe discrepancia susceptible de ser sometida al dictamen del Panel, si quien hubiere formulado observaciones al Informe Técnico Preliminar, persevere en ellas, con posterioridad al rechazo de las mismas por parte de la Comisión, como también, si quien no hubiere formulado observaciones al Informe Técnico Preliminar, considere que se debe mantener su contenido, en caso de haberse modificado en el Informe Técnico Final.
 
-#### Artículo 10º
+#### Artículo 13º
 
 Si no se presentaren discrepancias, dentro de los tres días siguientes al vencimiento del plazo para presentarlas, la Comisión deberá remitir al Ministerio de Energía el Informe Técnico Definitivo con el plan de expansión anual de la transmisión. En el caso que se hubiesen presentado discrepancias, la Comisión dispondrá de quince días desde la comunicación del dictamen del Panel, para emitir al Ministerio de Energía el Informe Técnico Definitivo con el plan de expansión anual de la transmisión, incorporando lo resuelto por el Panel.
 
-#### Artículo 11º
+#### Artículo 14º
 
 Las notificaciones y comunicaciones dirigidas al Coordinador y a los promotores que se efectúen en el proceso de Planificación de la Transmisión, se efectuarán a través de medios electrónicos.
 
