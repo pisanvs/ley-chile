@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, en calzada completa de calle Costanera Sur, entre Ruta 5 acceso puente Kennedy y Ruta 5 acceso puente La Paz de la comuna de Copiapó, desde el día 2 de enero de 2018 hasta el día 2 de febrero de 2018, para la ejecución de las obras "Conservación y Reposición Parque Kaukari".
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, en calzada completa de calle Costanera Sur, entre Ruta 5 acceso puente Kennedy y Ruta 5 acceso puente La Paz de la comuna de Copiapó, desde el día 2 de enero de 2018 hasta el día 23 de febrero de 2018, para la ejecución de las obras "Conservación y Reposición Parque Kaukari".
 
 2.- Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
