@@ -1,0 +1,5 @@
+AUTORIZA A PACIFICBLU SPA PARA CONTINUAR DESARROLLANDO ACTIVIDADES EXTRACTIVAS QUE INDICA
+
+Por resolución exenta Nº 249, de 22 de enero de 2018, de esta Subsecretaría, autorízase a Pacificblu SpA, para continuar desarrollando las actividades pesqueras autorizadas a Pesca Fina SpA., según se indica, en virtud de las escrituras públicas y disposiciones legales citadas en Visto de la resolución extractada, Permisos Extraordinarios de Pesca: Resoluciones exentas Nº 358, Nº 359, Nº 360, Nº 361, Nº 362, Nº 363, Nº 365, Nº 366, Nº 367, Nº 368, Nº 369, Nº 370, Nº 371, Nº 373, Nº 374, Nº 375, Nº 376, Nº 377, Nº 379, Nº 380, Nº 381, Nº 384, Nº 385, Nº 386, Nº 387, Nº 388, Nº 389, Nº 390, Nº 391, Nº 392, Nº 393, Nº 394, Nº 1.745, Nº 3.351, Nº 3.352 y Nº 3.353, todas de 2017 y de esta Subsecretaría.
+
+Valparaíso, 22 de enero de 2018.- Paolo Trejo Carmona, Subsecretario de Pesca y Acuicultura (S).
