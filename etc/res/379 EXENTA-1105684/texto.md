@@ -100,17 +100,19 @@ El Coordinador deberá consolidar la información recibida y emitir las facturas
 
 El retraso en los pagos por parte de las empresas distribuidoras y suministradoras, de acuerdo a lo establecido en el artículo anterior, deberá ser informado por el Coordinador a la Superintendencia, con copia al Ministerio y a la Comisión, dentro de los tres días siguientes de verificado el incumplimiento por parte de dichas empresas.
 
+En caso que existieren diferencias entre el monto informado por las empresas distribuidoras y suministradoras con la información de las ventas a usuarios finales, libres y sujetos a fijación de precios que resulte del balance de transferencias emitido por el Coordinador, éste informará a las empresas involucradas la reliquidación que corresponda considerar en la información que deba remitirse por parte de estas en el mes siguiente.
+
 #### Artículo 8°
 
 El Coordinador deberá repartir los ingresos recaudados mensualmente, a prorrata de los respectivos presupuestos anuales de dicho organismo, del Panel de Expertos y el elaborado por la Subsecretaría de Energía para el Estudio de Franja, según corresponda.
 
-Para dar cumplimiento a lo señalado en el inciso precedente, el Coordinador deberá traspasar los montos correspondientes al Panel y a la Subsecretaría de Energía dentro de los cinco días siguientes a la recaudación de los mismos, de acuerdo a lo indicado en el inciso final del artículo 6° anterior.
+Para dar cumplimiento a lo señalado en el inciso precedente, el Coordinador deberá traspasar los montos correspondientes al Panel y a la Subsecretaría de Energía dentro de los cinco días siguientes a la recaudación de los mismos, de acuerdo a lo indicado en el inciso final del artículo 6° anterior. Para ello el Coordinador traspasará un doceavo de cada uno de los respectivos presupuestos, hasta completar durante el año calendario que se encuentre en curso la respectiva prorrata del monto efectivamente recaudado.
 
 Los saldos a favor o en contra que se registren deberán imputarse al ejercicio de cálculo del presupuesto correspondiente del año siguiente.
 
 #### Artículo 9°
 
-El Coordinador deberá abrir una cuenta corriente especial para efectos de recaudar y traspasar al Panel y a la Subsecretaría de Energía los montos que le correspondan por concepto de Cargo por Servicio Público.
+Eliminado.
 
 #### Artículo TRANSITORIO
 
