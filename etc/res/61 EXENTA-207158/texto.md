@@ -40,9 +40,9 @@ d) No venden ovas o peces a centros que no reúnen las características establec
 
 Para los efectos del presente Programa, se entenderá por:
 
-1. EAR: Enfermedades de alto riesgo.
+1. Caso sospechoso: centro de cultivo en que, con arreglo a lo dispuesto en el presente programa, se presume la presencia de una EAR Lista 1.
 
-2. INF/PSEV: Informe del Programa Sanitario de Vigilancia Específico para las enfermedades de alto riesgo Lista 1 y aquellas de Lista 2 objeto de un Programa Sanitario de Vigilancia o Control específicos. Este informe es emitido por un laboratorio de diagnóstico y su contenido se describe en el PSG de Registro de Datos y Entrega de Información de Laboratorios.
+2. Caso confirmado: centro de cultivo en que, con arreglo a lo dispuesto en el presente programa, se confirma la presencia de una EAR Lista 1. Los actuales numerales uno y dos pasan a ser numerales 3 y 4 y así sucesivamente hasta el numeral 8 que pasa a ser el numeral 9.
 
 3. Laboratorio de diagnóstico o Laboratorio: laboratorio que realiza el diagnóstico de enfermedades de especies hidrobiológicas, acreditado por el Servicio conforme a las normas del Reglamento de Medidas de Protección, Control y Erradicación de Enfermedades de Alto Riesgo para las Especies Hidrobiológicas.
 
@@ -60,13 +60,27 @@ Para los efectos del presente Programa, se entenderá por:
 
 1. Aspectos Generales
 
-a) Todos los centros de cultivo de peces serán objeto de 2 (dos) visitas sanitarias anuales en las que se deberá confirmar la ausencia de EAR Lista 1 y evaluar la condición respecto de EAR Lista 2. Junto con la evaluación de la signología clínica se deberán tomar muestras para realizar exámenes en laboratorio para las EAR Lista 1 y para las siguientes EAR Lista 2: Anemia Infecciosa del Salmón / ''Síndrome Ictérico'', Síndrome producido por organismos tipo cocáceas Gram positivas y Furunculosis atípica.
+a) Todos los centros de cultivo de peces serán objeto de 2 (dos) visitas sanitarias anuales en las que se deberá confirmar la ausencia de EAR Lista 1, de acuerdo a la lista señalada en la resolución exenta número 1.741/13 de la Subsecretaría de Pesca y Acuicultura. Lo anterior en base a la evaluación de la signología clínica y la toma de muestras para realizar exámenes en laboratorio de diagnóstico.
 
-Se excluyen del grupo de enfermedades respecto de las cuales deberán efectuarse exámenes de laboratorio ECONOMIA a partir de muestras obtenidas en las dos visitas anuales previstas en el Programa, a las siguientes: Síndrome producido por Cocáceas Gram positivas, Furunculosis atípica y la entidad denominada Anemia Infecciosa del Salmón/Síndrome Ictérico en su presentación con ictericia.
+b) Para la vigilancia de las enfermedades virales EAR lista 1, los laboratorios de diagnóstico deberán utilizar como técnica diagnóstica de elección, el RT-PCR en tiempo real específico para cada enfermedad según la LABD-NT2 2 vigente. En el caso de obtener resultados positivos, la confirmación deberá ser realizada por el Laboratorio de Referencia según lo establece la resolución exenta Nº 1.448/11, de Sernapesca.
 
-b) La presentación clásica de la enfermedad Anemia Infecciosa del Salmón, incorporada en la entidad Anemia Infecciosa del Salmón/Síndrome Ictérico, cuya descripción se reseña en el Manual de Técnicas Diagnósticas de la oficina Internacional de Epizootias, deberá ser vigilada activamente.
+c) Criterios para clasificación de centro de cultivo sospechoso y confirmado:
 
-c) Respecto de las enfermedades Síndrome por Cocáceas Gram positivas y Furinculosis atípica, así como la presentación con ictericia de la entidad denominada Anemia Infeccciosa del Salmón/Síndrome Ictérico, sus diagnósticos deberán informarse, a través del sistema de información INF/PVP, descrito en el programa Sanitario General de Registros de Datos y Entrega de Información de Laboratorios (PSGDL), siendo obligatorio que respecto de esas tres enfermedades los diagnósticos realizados se identifiquen por centro de cultivo y no por zona
+Caso sospechoso: la presencia de enfermedades virales EAR Lista 1 debe sospecharse si al menos una de las siguientes condiciones se cumple:
+
+a) La presencia de hallazgos en la necropsia compatibles con alguna de las enfermedades virales EAR Lista 1, con o sin signos clínicos característicos en uno o más peces de cualquiera de sus unidades de cultivo.
+
+b) Presenten resultado positivo al RT-qPCR en muestras provenientes de uno más peces de confirmado o sospechoso.
+
+c) Si una investigación revele relaciones epidemiológicas con algún centro de cultivo cualquiera de sus unidades de cultivo.
+
+Caso confirmado: la presencia de enfermedades virales EAR Lista 1 se considera confirmada cuando se cumple con la condición c) más la condición a) y/o b):
+
+a) La presencia de hallazgos en la necropsia compatibles con alguna de las enfermedades virales EAR Lista 1, con o sin signos clínicos característicos en uno o más peces de cualquiera de sus unidades de cultivo.
+
+b) Presenten resultado positivo al RT-qPCR en muestras provenientes de uno más peces de cualquiera de sus unidades de cultivo.
+
+c) Presenta, en los cultivos celulares, efecto citopático característico de la enfermedad, seguido por una secuenciación.
 
 d) Los análisis sólo deberán desarrollarse en aquellas especies descritas como susceptibles para cada EAR.
 
@@ -86,7 +100,7 @@ j) Los centros de cultivo deberán utilizar el informe INF/PSEV como respaldo pa
 
 k) El Servicio podrá negar la visación de las facturas, guías de despacho y guías de libre tránsito así como la aplicación del Sistema de Visación Documental para la Acuicultura (SIVA), en caso que no se dé cumplimiento a los procedimientos indicados en el presente Programa.
 
-l) Se tendrá por ficha técnica de cada una de las EAR a que alude el presente Programa, aquellas que figuran en el Código Sanitario Internacional para Animales Acuáticos y en el Manual de Técnicas Diagnósticas para Enfermedades de Animales Acuáticos, ambos de la Oficina Internacional de Epizootias (OIE).
+l) Se tendrá por ficha técnica de cada una de las EAR a que alude el presente Programa, aquellas que figuran en el Código Sanitario Internacional para Animales Acuáticos y en el Manual de Técnicas Diagnósticas para Enfermedades de Animales Acuáticos, ambos de la Organización Mundial de Sanidad Animal (OIE). En los casos en que las EAR lista 1 no se encuentren listadas por la OIE, el Servicio desarrollará dicha ficha técnica.
 
 2. Procedimientos de inspección y muestreo
 
@@ -106,7 +120,7 @@ c) Los peces que se tomen como muestra se seleccionarán de acuerdo a lo siguien
 
 5. El criterio de proporcionalidad indicado previamente, podrá ser alterado si al momento de la inspección y muestreo se sospecha de la existencia de una EAR de la lista 1, en cuyo caso podrá tomarse una proporción mayor de muestras correspondiente a aquella especie más susceptible.
 
-d) El número de muestras a tomar en cada oportunidad de inspección, se establecerá de acuerdo a lo señalado por la Oficina Internacional de Epizootias en el Manual de Diagnóstico para Enfermedades de Animales Acuáticos, considerando como norma general una prevalencia asumida del 5% con un límite de confianza del 95%, salvo en el caso de peces planos, en que la prevalencia asumida será del 10%. El número de muestras por tipo de centro se indica en el Anexo.
+d) El número de muestras a tomar en cada oportunidad de inspección, se establecerá de acuerdo a lo señalado en Anexo. considerando como norma general una prevalencia asumida del 5% con un límite de confianza del 95%, salvo en el caso de peces planos, en que la prevalencia asumida será del 10%.
 
 e) Una vez establecida la condición sanitaria del país, luego de dos años de aplicación del presente programa se podrá reducir el número de muestras.
 
@@ -116,13 +130,13 @@ f) Se deberá enviar preferentemente peces vivos o enteros. Si esto no es posibl
 
 . Peces de 4-6 cm: todas las vísceras, incluyendo el riñón. Una porción de encéfalo puede ser obtenida después de separar la cabeza a nivel del margen posterior del opérculo y presionando éste lateral-mente.
 
-. Peces de más de 6 cm: riñón, bazo y encéfalo.
+. Peces de más de 6 cm: riñón, bazo y corazón.
 
-. Reproductores: riñón, bazo y encéfalo.
+. Reproductores: riñón, bazo y corazón.
 
-g) El transporte de las muestras deberá realizarse en condiciones que garanticen su integridad, embalados de modo que cualquier contaminación exterior resulte imposible (recipientes sólidos y perfectamente sellados, cajas o contenedores protectores sólidos y perfectamente cerrados), sustancia absorbente en cantidad suficiente y etiquetados con al menos la siguiente información: código del centro de cultivo, fecha de muestreo y números o códigos que identifiquen los grupos muestreados. Asimismo, se deberá cuidar la temperatura agregando una cantidad suficiente de hielo o de bloques de enfriamiento para garantizar la refrigeración durante su traslado al laboratorio. Se deberá evitar la congelación.
+g) El transporte de las muestras deberá realizarse en condiciones que garanticen su integridad, embalados de modo que cualquier contaminación exterior resulte imposible (recipientes sólidos y perfectamente sellados, cajas o contenedores protectores sólidos y perfectamente cerrados), sustancia absorbente en cantidad suficiente y etiquetados con al menos la siguiente información: código del centro de cultivo, fecha de muestreo y números o códigos que identifiquen los grupos muestreados. Asimismo, las muestras deberán ser mantenidas en condiciones de refrigeración (4 - 10ºC ± 0.5ºC), agregando una cantidad suficiente de hielo o de bloques refrigerantes en contenedores adecuados que cuenten con un sistema de registro de temperatura, que permita garantizar la mantención de la cadena de frío. Se deberá evitar la congelación.
 
-h) Las muestras deben ser procesadas tan pronto como sea posible.
+h) El procedimiento de muestreo deberá efectuarse según lo descrito en la Norma Técnica número 1 (LABD-NT1), que establece los procedimientos para el muestreo de animales acuáticos.
 
 3. Procedimientos específicos para enfermedades virales
 
@@ -172,15 +186,19 @@ VER DIARIO OFICIAL DE 30.01.2003, PAGINA 6
 
 > **Nota.** El Nº 3 de la RES 392 Exenta, Economía, publicada el 13.04.2004, sustituye el presente anexo. La sustitución correspondiente no se ha efectuado por razones técnicas temporales.
 
-#### Artículo segundo
+#### Artículo Segundo
 
-El cumplimiento de las medidas, obligaciones y prohibiciones establecidas en el Programa que por esta resolución se aprueba, se sujetará a lo dispuesto en el inciso final del artículo 11 del Reglamento sobre Medidas de Protección, Control y Erradicación de Enfermedades de Alto Riesgo para las Especies Hidrobiológicas.
+La utilización de RT-PCR en tiempo real específico para cada enfermedad como técnica diagnóstica para la vigilancia de las enfermedades virales EAR lista 1 comenzará a regir a partir del sexto (6º) mes desde la publicación de la presente resolución en el Diario Oficial, a excepción de la técnica RT-PCR en tiempo real para EHN, la que comenzará a regir a partir de 1 año desde publicada la presente resolución en el Diario Oficial.
 
 #### Artículo tercero
 
-La infracción de las prohibiciones e incumplimiento de las obligaciones y medidas establecidas en el Programa que por esta resolución se aprueba, será sancionado conforme a las normas de los Títulos IX y X de la Ley General de Pesca y Acuicultura.
+El cumplimiento de las medidas, obligaciones y prohibiciones establecidas en el Programa que por esta resolución se aprueba, se sujetará a lo dispuesto en el inciso final del artículo 11 del Reglamento sobre Medidas de Protección, Control y Erradicación de Enfermedades de Alto Riesgo para las Especies Hidrobiológicas.
 
 #### Artículo cuarto
+
+La infracción de las prohibiciones e incumplimiento de las obligaciones y medidas establecidas en el Programa que por esta resolución se aprueba, será sancionado conforme a las normas de los Títulos IX y X de la Ley General de Pesca y Acuicultura.
+
+#### Artículo quinto
 
 Las medidas, obligaciones y prohibiciones contenidas en el Programa que por esta resolución se aprueban, son sin perjuicio de las demás que impongan las leyes y reglamentos.
 
