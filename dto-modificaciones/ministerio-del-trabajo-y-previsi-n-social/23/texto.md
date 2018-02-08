@@ -88,9 +88,7 @@ g) Con los excedentes que genere la administración que efectúe de servicios de
 
 #### Artículo 7º
 
-Los fondos del Servicio serán depositados en una cuenta corriente subsidiaria de la Cuenta Unica Fiscal del Banco Estado, y contra ella podrán girar en calidad de titulares, el Jefe del Servicio de Bienestar y el funcionario del Departamento de Recursos Humanos que se designe para estos efectos.
-
-En caso de ausencia de los anteriores firmarían los subrogantes de los funcionarios indicados.
+Los fondos del Servicio de Bienestar serán depositados en una cuenta corriente subsidiaria de la Cuenta Única Fiscal del Banco Estado, y contra ella podrán girar en calidad de titulares, el Jefe del Servicio de Bienestar y los funcionarios autorizados que rinden caución (que poseen póliza de fidelidad funcionaria por valores fiscales ante la Contraloría General de la República) y que se encuentren debidamente habilitados para ello.
 
 T I T U L O IV
 
@@ -138,7 +136,7 @@ e) Becas de Estudio: En caso de extrema necesidad económica, así calificada po
 
 asignación familiar;
 
-f) Ayuda Médica: En caso de enfermedad o accidentes graves, o tratamiento médico prolongado de alto costo, así calificados por el Consejo;
+f) Ayuda médica: Beneficio que se otorga en casos de enfermedades catastróficas o tratamientos prolongados, enfermedades graves o enfermedades sin diagnóstico definido, así calificados por el profesional del Servicio de Bienestar previa comprobación de todos los antecedentes que debe presentar el afiliado. Cabe señalar que a este beneficio se podrá acceder después de que el afiliado agote las posibilidades de préstamo médico, haga uso de su sistema de salud y posterior reembolso del seguro complementario. Beneficio para el afiliado y sus cargas acreditadas, una vez por año y por enfermedad, no pudiendo ser complementaria entre categoría. Será la Jefa del Servicio de Bienestar quien estará facultada de aprobar o rechazar la solicitud a través del Informe Social, para luego informar al Consejo, con todos los antecedentes que fundamentan su resolución.
 
 g) ) Catástrofe: Se concederá ayuda en dinero o en especies al afiliado que sufriere daños graves por situaciones imprevistas y fortuitas derivadas de accidentes, catástrofes, fenómenos naturales, incendios, movimientos telúricos, inundaciones o cualquier otro siniestro.
 
@@ -147,6 +145,10 @@ Para acceder a este beneficio se requerirá la evidencia y veracidad de los efec
 h) Bono Habitacional: De acuerdo a los programas habitacionales, aprobados por el Consejo, se podrá otorgar una ayuda económica cuyo fin sea la adquisición o pago de una vivienda para el afiliado, e
 
 i) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio por concepto de préstamos que éste le hubiese otorgado.
+
+j) Acuerdo de Unión Civil: Se concederá una ayuda cuando el afiliado contraiga Acuerdo de Unión Civil. Si ambos contrayentes fueren afiliados, cada uno de ellos tendrá derecho a solicitar dicha ayuda.
+
+k) Adopción: Se concederá una ayuda en caso de adopción de cada hijo. Este beneficio se otorgará también en caso que ambos padres estén afiliados al Servicio, debiendo cada uno de ellos solicitar dicha ayuda.
 
 El monto de las ayudas contempladas en las letras a), b), c), d), e), f),
 
@@ -174,9 +176,9 @@ El Servicio podrá financiar gastos con ocasión de saludos de nacimiento de hij
 
 Este artículo es compatible con los beneficios establecidos en las letras a, b y c del artículo 10.
 
-#### Artículo 14
+#### Artículo 14º
 
-Siempre que sus recursos presupuestarios lo permitan, el Servicio podrá financiar celebraciones, otorgar aguinaldos y entregar regalos para Fiestas Patrias y Navidad; para sus afiliados y cargas familiares.
+Siempre y cuando los recursos presupuestarios así lo permitan, el Servicio de Bienestar podrá financiar actividades educativas, culturales y sociales, actividades artísticas, recreativas, vacacionales, cultura física y deportiva, celebraciones del Día Internacional de la Mujer, Día de la Madre, Día del Padre, Día del Niño, Día de la Secretaria, celebración del Año Nuevo, aniversario de la Institución, aniversario Servicio de Bienestar, otorgar aguinaldos y entregar regalos para Fiestas Patrias y Navidad; para sus afiliados y sus cargas familiares.
 
 T I T U L O VI
 
