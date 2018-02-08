@@ -124,7 +124,7 @@ El porcentaje de restitución se calculará con 2 decimales.
 
 14.5. Si encontrándose próxima la expiración de la vigencia de la boleta bancaria de garantía que cauciona el préstamo, la restitución no se hubiere efectuado, el prestatario deberá renovar la vigencia de la boleta o reemplazarla por otra, por el monto adeudado del préstamo; de no hacerlo, se hará efectiva dicha boleta bancaria de garantía. En todo caso, se hará efectiva dicha boleta transcurrido el plazo de 3 años desde el otorgamiento del préstamo, en caso que éste no se haya restituido en su totalidad.
 
-15. Se establece que el monto de los recursos que se destinarán para el subsidio directo en el presente llamado, conforme a las disposiciones del DS Nº 1, será de 45.000 UF.
+15. Se establece que el monto de los recursos que se destinarán para el subsidio directo en el presente llamado, conforme a las disposiciones del DS Nº 1, será de 44.764 UF.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
