@@ -90,21 +90,23 @@ A) AYUDAS MEDICAS: Los beneficios médicos serán los establecidos en el artícu
 
 B) SUBSIDIOS DE CARACTER SOCIAL: Sin cargo de restitución, se otorgarán a los afiliados, por las causales y bajo las modalidades que se indican, los siguientes subsidios, según disponibilidad presupuestaria y cuando el socio haya cumplido 3 meses de antigüedad en el Servicio.
 
-b.1. Asignación por matrimonio: Se concederá al
+b.1. Asignación por matrimonio o por acuerdo
 
-afiliado que contraiga matrimonio. Si ambos
+de Unión Civil: Se concederá un bono al afiliado(a)
 
-contrayentes fuesen afiliados, la asignación
+que contraiga matrimonio o celebre un acuerdo de
 
-se pagará a cada uno de ellos en forma
+unión civil. Si ambos contrayentes o celebrantes
 
-independiente. El derecho a este beneficio se
+fuesen afiliados(as), las asignaciones se pagarán
 
-acreditará mediante el correspondiente
+a cada uno de ellos en forma independiente. El
 
-certificado. El monto de esta asignación se
+derecho a este beneficio se acreditará mediante
 
-fijará anualmente por el Consejo
+el correspondiente certificado. El monto de esta
+
+asignación se fijará anualmente por el Consejo
 
 Administrativo.
 
@@ -156,7 +158,7 @@ atendiendo al siguiente orden de precedencia:
 
 tales efectos por el afiliado;
 
-2) Al cónyuge sobreviviente;
+2) Al cónyuge o conviviente civil sobreviviente;
 
 3) A la persona que acredite haber efectuado
 
