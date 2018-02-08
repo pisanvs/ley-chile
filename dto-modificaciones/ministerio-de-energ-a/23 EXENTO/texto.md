@@ -1,0 +1,31 @@
+MODIFICA DECRETO N° 422 EXENTO, DE 2017, DEL MINISTERIO DE ENERGÍA, QUE FIJA PLAN DE EXPANSIÓN DEL SISTEMA DE TRANSMISIÓN NACIONAL PARA LOS DOCE MESES SIGUIENTES
+
+Núm. 23 exento.- Santiago, 1 de febrero de 2018.
+
+Visto:
+
+Lo dispuesto en el artículo 35 de la Constitución Política de la República; en el decreto ley N° 2.224, de 1978, que crea el Ministerio de Energía y la Comisión Nacional de Energía; en el decreto con fuerza de ley N° 4/20.018, de 2006, del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 1, de Minería, de 1982, Ley General de Servicios Eléctricos, en materia de energía eléctrica, en adelante e indistintamente, la "Ley", y sus modificaciones posteriores; en la Ley N° 20.936, que Establece un Nuevo Sistema de Transmisión Eléctrica y Crea un Organismo Coordinador Independiente del Sistema Eléctrico Nacional, en adelante e indistintamente "Ley N° 20.936"; en la ley N° 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado; en el decreto supremo N° 48, de 2009, del Ministerio de Economía, Fomento y Reconstrucción, que aprueba reglamento que fija el procedimiento para la realización del Estudio de Transmisión Troncal; en el decreto exento N° 422, de 2017, del Ministerio de Energía, que fija plan de expansión del sistema de transmisión nacional para los doce meses siguientes, en adelante e indistintamente, "decreto exento N° 422"; en las presentaciones conjuntas de las empresas Compañía General de Electricidad S.A., en adelante CGE, y de Empresa de Transmisión Eléctrica Transemel S.A., en adelante Transemel, de fechas 26 de septiembre de 2017 y 3 de enero de 2017, ambas al Ministerio de Energía; en las presentaciones conjuntas de las empresas CGE y Transemel, de fechas 26 de septiembre de 2017, a la Comisión Nacional de Energía y a la Superintendencia de Electricidad y Combustibles; en la escritura pública de compraventa de la Subestación Duqueco 220 kV, de fecha 5 de septiembre de 2017; en el contrato de cesión y transferencia de derechos entre CGE y Transemel, de fecha 30 de noviembre de 2017; y en la resolución N° 1.600, de 2008, de la Contraloría General de la República;
+
+Considerando:
+
+1. Que, de acuerdo a lo dispuesto en el artículo 99º de la Ley, en su texto vigente antes de la dictación de la Ley N° 20.936, el Ministerio de Energía, mediante decreto expedido bajo la fórmula "por orden del Presidente de la República" y sobre la base de la recomendación de la Comisión Nacional de Energía o del dictamen del Panel de Expertos, según corresponda, debe fijar las expansiones del Sistema de Transmisión Nacional para los doce meses siguientes;
+
+2. Que, el decreto exento N° 422 contempló dentro de las obras de ampliación del plan de expansión del Sistema de Transmisión Nacional del Sistema Interconectado Central correspondientes al período 2016 - 2017, al proyecto "Ampliación S/E Duqueco 220 kV" estableciendo a CGE como responsable del derecho a ejecutar y explotar las obras e instalaciones correspondientes a la ampliación referida anteriormente;
+
+3. Que, mediante carta de fecha 26 de septiembre de 2017, las empresas CGE y Transemel informaron a esta Cartera de Estado de la suscripción, mediante escritura pública otorgada en la Notaría de Santiago de don Juan Ricardo San Martín Urrejola, de un contrato de compraventa de fecha 5 de septiembre de 2017 a través del cual CGE vendió a Transemel las instalaciones, equipos e inmueble que forman parte de la Subestación Duqueco 220 kV;
+
+4. Que, en la misma fecha señalada en el considerando anterior, las empresas CGE y Transemel pusieron en conocimiento de la Comisión Nacional de Energía y de la Superintendencia de Electricidad y Combustibles el hecho de haberse suscrito el día 5 de septiembre de 2017 un contrato de compraventa entre CGE y Transemel respecto a las instalaciones, equipos e inmueble que forman parte de la Subestación Duqueco 220 kV, dándose así cumplimiento a lo dispuesto en el inciso tercero del artículo 94° de la Ley, en su texto vigente antes de la dictación de la Ley Nº 20.936;
+
+5. Que, por medio de instrumento privado de fecha 30 de noviembre de 2017, CGE cedió y transfirió a Transemel los derechos a ejecutar y explotar las obras e instalaciones correspondientes al proyecto "Ampliación S/E Duqueco 220 kV", conforme a los plazos, especificaciones y demás obligaciones establecidos en el decreto exento Nº 422. Asimismo, el referido instrumento privado en su cláusula tercera deja constancia de que en caso de incumplimiento de alguna de las obligaciones de Transemel, CGE será subsidiariamente responsable de todas las indemnizaciones a que diere lugar, de acuerdo a lo establecido en el artículo 94 de la Ley, en su texto vigente antes de la dictación de la Ley Nº 20.936;
+
+6. Que, posteriormente y mediante carta de fecha 3 de enero de 2017, las empresas CGE y Transemel solicitaron a esta Cartera de Estado la modificación del decreto exento Nº 422 con el objeto de modificar la responsabilidad del derecho a ejecutar y explotar las obras e instalaciones correspondientes al proyecto "Ampliación S/E Duqueco 220 kV", reemplazando a CGE por Transemel;
+
+7. Que, Transemel reúne los requisitos establecidos en el artículo 7° de la Ley para una empresa de transmisión nacional, siendo por tanto procedente la modificación del decreto exento Nº 422;
+
+Decreto:
+
+#### Artículo único
+
+Reemplázase en el número 5 de la Tabla 1: "Plan de Expansión Sistema de Transmisión Nacional SIC - Obras de ampliación", del numeral 1. "Obras de Ampliación del Sistema de Transmisión Nacional del Sistema Interconectado Central para los doce meses siguientes", del artículo primero del decreto exento N° 422, de 2017, del Ministerio de Energía, que fija el plan de expansión del sistema de transmisión nacional para los doce meses siguientes, la expresión "CGE S.A.", por "Transemel S.A.".
+
+Anótese, publíquese y archívese.- Por orden de la Presidenta de la República, Andrés Rebolledo Smitmans, Ministro de Energía. Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
