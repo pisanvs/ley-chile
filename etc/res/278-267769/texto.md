@@ -36,23 +36,45 @@ También podrán postular al Fondo aquellos alumnos egresados de enseñanza medi
 
 Sin perjuicio de lo anterior, la cantidad de alumnos que se encuentren en alguna de las situaciones descritas en los dos párrafos anteriores no podrá exceder de veinte en total por período académico y deberán cumplir con todos los procesos y requisitos comunes exigibles a los postulantes.
 
-B.- Total de Subsidios al Semestre
+B.- TOTAL DE SUBSIDIOS AL SEMESTRE
 
-Con cargo al Fondo de Subsidios de Becas, Corfo financiará hasta 400 subsidios semestralmente, que beneficiarán tanto a alumnos nuevos como alumnos regulares.
+Con cargo al Fondo de Subsidios de Becas, Corfo financiará hasta 400 subsidios semestrales, que beneficiarán tanto a alumnos nuevos como alumnos regulares.
 
-Para el caso en que la demanda no permitiere asignar el número de subsidios señalados, el saldo disponible de recursos podrá ser destinado a financiar un último semestre de titulación o un quinto semestre para cursar asignaturas pendientes, previa autorización del Director Ejecutivo del "Comité de Desarrollo Productivo Regional de la Región del Bío-Bío".
+A partir del año 2018 y hasta el año 2021, Corfo sólo financiará los subsidios que se indican a continuación, y que beneficiarán tanto a alumnos nuevos como a alumnos regulares, con el tope establecido al porcentaje señalado sobre el número de alumnos correspondiente a la matrícula total del Centro de Formación Técnica:
 
-En ningún caso el número de subsidios otorgados podrá ser inferior a 300. Si la demanda no permitiere asignar este número, sólo podrá utilizarse para los fines señalados en el párrafo anterior, el saldo de recursos que exceda el cálculo del financiamiento de las 300 becas, o la matrícula real si ésta fuere superior a ese número, y los 400 subsidios contemplados, más los recursos derivados de deserciones u otra causa.
+AÑO NÚMERO DE SUBSIDIOS SEMESTRALES Y PORCENTAJE SOBRE
 
-C.- Tipo de Subsidios
+LA MATRÍCULA:
 
-SUBSIDIOS PARA BECAS DE EXCELENCIA ACADÉMICA
+2018 Hasta 300 subsidios semestrales, siempre que no exceda el
 
-Se financiarán hasta 200 subsidios por semestre académico, equivalentes hasta al 100% del arancel fijado por el Centro de Formación Técnica, que beneficiarán a alumnos cuya excelencia académica lo amerite.
+50% del total de los alumnos matriculados.
 
-SUBSIDIOS PARA BECAS POR SITUACIÓN SOCIO-ECONÓMICA
+2019 Hasta 200 subsidios semestrales, siempre que no exceda el
 
-Se financiarán hasta 200 subsidios por semestre académico, equivalentes hasta al 85% del arancel fijado por el Centro de Formación Técnica, que beneficiarán a alumnos cuya situación socioeconómica lo amerite.
+30% del total de los alumnos matriculados.
+
+2020 Hasta 100 subsidios semestrales, siempre que no exceda el
+
+15% del total de los alumnos matriculados.
+
+2021 Hasta 100 subsidios semestrales, siempre que no exceda el
+
+15% del total de los alumnos matriculados
+
+En caso que la demanda no permitiere asignar el número de subsidios señalados, considerando el tope de alumnos, el saldo disponible de recursos podrá ser destinado a financiar un último semestre de titulación o un quinto semestre para cursar asignaturas pendientes, previa autorización del Director Ejecutivo del "Comité de Desarrollo Productivo Regional del Biobío".
+
+C.- TIPOS DE SUBSIDIO
+
+- Subsidio para Becas de Excelencia Académica: Se financiará hasta la mitad del número de subsidios considerados para el año correspondiente, por semestre académico, equivalente hasta el 100% del arancel fijado por el Centro de Formación Técnica, que beneficiará a alumnos cuya excelencia académica lo amerite.
+
+Para mantener el subsidio otorgado, el alumno deberá mantener un rendimiento académico de excelencia.
+
+- Subsidio para Becas por Situación Socioeconómica: Se financiará hasta la mitad del número de subsidios considerados para el año correspondiente, por semestre académico, equivalente hasta el 85% del arancel fijado por el Centro de Formación Técnica, que beneficiará a alumnos cuya situación socioeconómica lo amerite.
+
+Para mantener el subsidio otorgado, el alumno deberá acreditar que se mantiene la situación socioeconómica que lo justifica, y deberá mantener el rendimiento académico que el respectivo reglamento determine como suficiente.
+
+Un mismo alumno no podrá ser beneficiado por ambos subsidios, en forma simultánea.
 
 I.2 Condiciones Generales
 
@@ -234,7 +256,7 @@ Al Director Ejecutivo del "Comité de Desarrollo Productivo Regional del Bío-B�
 
 ### VII. DURACIÓN DEL PROGRAMA
 
-El Programa tendrá una vigencia de 10 años a partir de la total tramitación del presente Reglamento. Esto implica que no deberá haber ingreso de nuevos alumnos a partir del año 9. Durante su sexto año de ejecución CORFO someterá el Programa a una evaluación externa de sus resultados e impactos, para los efectos de efectuar adecuaciones y/o resolver acerca de la continuidad del mismo.
+El Programa tendrá vigencia desde la fecha de total tramitación de la resolución que reglamente el "Fondo de Subsidios para Becas de Alumnos del CFT de Lebu", y hasta el 31 de diciembre de 2021, sujeto a la condición de que el Centro de Formación Técnica se mantenga acreditado por la Comisión Nacional de Acreditación y/o la entidad que la sustituya y/o reemplace. Corfo someterá a una evaluación externa el desempeño del Centro de Formación Técnica para determinar sus resultados e impactos, la cual permitirá decidir acerca de la continuidad del Programa.
 
 Anótese, tómese razón por la Contraloría General de la República, comuníquese y publíquese en el Diario Oficial.- Carlos Álvarez Voullieme, Vicepresidente Ejecutivo.- Jaime Arellano Quintana, Fiscal.- Yerko Koscina Peralta, Secretario General.
 
