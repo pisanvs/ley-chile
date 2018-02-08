@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 73 EXENTA, DE 24 DE ENERO DE 2018
+
+Mediante resolución exenta N° 73, de fecha 24 de enero de 2018, de esta Secretaría Regional, se aprobaron los Planes y Programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, de la Escuela de Conductores propiedad de la "Sociedad Comercial Río Donguil Limitada", RUT 76.788.023-5. La Escuela de Conductores tendrá como Director a Rolando Juan San Martín Saavedra, RUT 6.521.213-8, y su sede estará ubicada en calle Andrés Bello N° 860, comuna de Gorbea. Las horas autorizadas a la referida Escuela son 12 horas pedagógicas teóricas, 12 horas prácticas, con un total de 24 horas pedagógicas.-
+
+Ulises A. Asenjo Ramírez, Secretario Regional Ministerial de Transportesy Telecomunicaciones Región de la Araucanía.
