@@ -40,9 +40,9 @@ El Consejo Administrativo del Servicio de Bienestar estará constituido por seis
 
 a) El Director del Servicio o la persona que éste designe en su reemplazo, quien lo presidirá;
 
-b) El Sub-Director Administrativo;
+b) Jefe del Departamento Subdirección de Recursos Físicos y Financieros o quien lo subrogue.
 
-c) El Jefe del Departamento de Recursos Humanos, y
+c) Jefe del Departamento Subdirección de Recursos Humanos o quien lo subrogue.
 
 d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso tercero del artículo 18 del Reglamento General.
 
@@ -130,15 +130,13 @@ En caso de fallecimiento del afiliado esta ayuda se otorgará en el siguiente or
 
 1) A la persona designada expresamente para tales efectos por el afiliado;
 
-2) Al cónyuge sobreviviente;
+2) Al cónyuge sobreviviente o al conviviente, en caso de ser convivientes civiles;
 
-3) A los hijos legítimos;
+3) A los hijos;
 
-4) A los hijos naturales;
+4) A los padres;
 
-5) A los padres legítimos;
-
-6) A la persona que acredite haber efectuado los gastos del funeral.
+5) A la persona que acredite haber efectuado los gastos del funeral.
 
 En casos calificados por el Consejo Administrativo se otorgará una ayuda para adquisición de nicho-bóveda, una vez ocurrido el deceso del funcionario afiliado o de alguna de sus cargas familiares reconocidas, que carecieren de él;
 
@@ -151,6 +149,10 @@ f) Incendio: Cuando el afiliado haya sufrido un grave perjuicio en su vivienda p
 g) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de terremotos, inundaciones u otras catástrofes, cuya gravedad será verificada y cuantificada por el Consejo Administrativo.
 
 h) Seguros: El Servicio de Bienestar podrá bonificar o subsidiar parcialmente el valor de la prima que el afiliado contrate voluntariamente con una compañía de seguros, con la cual se haya suscrito un convenio, por concepto de seguro de vida, por enfermedades catastróficas y de incendio.
+
+i) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieren afiliados al servicio, cada uno de ellos tendrá derecho a este beneficio;
+
+j) Enfermedad grave o catastrófica: Se hará entrega de una ayuda económica complementaria a las prestaciones médicas, contempladas en el artículo 15° del Reglamento General para los Servicios de Bienestar, en caso de enfermedad grave o catastrófica y/o tratamientos prolongados y de alto costo, clasificados por el medico contralor y/o Consejo Administrativo de Bienestar y cuando los recursos financieros lo permitan.
 
 El monto de las ayudas a que se refiere este artículo será fijado por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Servicio de Bienestar.
 
@@ -192,7 +194,31 @@ Las cuotas que el afiliado adeude al Servicio de Bienestar por préstamos o por 
 
 #### Artículo 14º
 
-El Servicio de Bienestar propenderá al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y familiares, utilizando al máximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
+El Servicio de Bienestar propenderá al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y familiares, utilizando al máximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle, contemplando en ellas las siguientes actividades:
+
+1) Proyectos concursables presentados por afiliados del bienestar destinados a fortalecer la recreación de sus afiliados;
+
+2) Ceremonia de entregas de becas;
+
+3) Actividades de desvinculación con afiliados que se acogerán a jubilación;
+
+4) Reconocimiento a los afiliados en el día de sus cumpleaños;
+
+5) Actividades y talleres con afiliados;
+
+6) Conmemoración día del trabajo;
+
+7) Conmemoración día de la mujer;
+
+8) Viajes recreativos y culturales para afiliados y sus cargas familiares;
+
+9) Actividades artísticas: asesorías folclóricas, talleres musicales y festivales;
+
+10) Actividades deportivas: olimpiadas, campeonatos deportivos;
+
+11) Actividades vacacionales: cursos de natación, vacaciones entretenidas, campamentos y escuelas de verano;
+
+12) Aniversario de la Institución; Día del Hospital: Día de la dirección de Servicio.
 
 Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los jardines infantiles, colonias de vacaciones, hogares sociales, casinos del personal, clubes deportivos, grupos musicales, clubes escolares, clubes de lectores y, en general, cualquier otra actividad que propenda a los fines señalados en el inciso anterior y que beneficien directamente a los afiliados.
 
@@ -240,7 +266,7 @@ Disposiciones Generales
 
 #### Artículo 19º
 
-Los afiliados tendrán derecho a percibir los beneficios médicos que otorgue el Servicio de Bienestar a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio de Bienestar o dentro de los plazos especiales establecidos en el presente Reglamento.
+Los afiliados tendrán derecho a percibir los beneficios médicos que otorgue el Servicio de Bienestar a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva, y efectuado el primer descuento. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio de Bienestar o dentro de los plazos especiales establecidos en el presente Reglamento.
 
 El derecho a solicitar los beneficios que concede el Servicio de Bienestar caducará a los seis meses de transcurrido el hecho constitutivo de la causal que se invoque para solicitarlos.
 
