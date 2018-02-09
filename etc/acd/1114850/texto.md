@@ -1,0 +1,67 @@
+FIJA VALOR DE LA UNIDAD DE FOMENTO Y DEL ÍNDICE VALOR PROMEDIO PARA LOS DÍAS COMPRENDIDOS ENTRE EL 10 DE FEBRERO DE 2018 Y 9 DE MARZO DE 2018
+
+El Banco Central de Chile, para los efectos previstos en el Capítulo II.B.3 "Sistemas de Reajustabilidad autorizados por el Banco Central de Chile (Acuerdo Nº 05-07-900105)" del Compendio de Normas Financieras, fija el valor de la "Unidad de Fomento" y del "Índice Valor Promedio" para los días comprendidos entre el 10 de febrero de 2018 y 9 de marzo de 2018, en las cantidades que a continuación se indican.
+
+Valores de U.F. E I.V.P.
+
+PERÍODO DEL 10 DE FEBRERO DE 2018 AL 9 DE MARZO DE 2018
+
+FECHA UF I.V.P.
+
+10-02-2018 26.837,51 27.979,46
+
+11-02-2018 26.842,29 27.981,49
+
+12-02-2018 26.847,07 27.983,51
+
+13-02-2018 26.851,86 27.985,54
+
+14-02-2018 26.856,64 27.987,57
+
+15-02-2018 26.861,42 27.989,60
+
+16-02-2018 26.866,21 27.991,63
+
+17-02-2018 26.870,99 27.993,66
+
+18-02-2018 26.875,78 27.995,69
+
+19-02-2018 26.880,57 27.997,72
+
+20-02-2018 26.885,36 27.999,74
+
+21-02-2018 26.890,15 28.001,77
+
+22-02-2018 26.894,94 28.003,80
+
+23-02-2018 26.899,73 28.005,83
+
+24-02-2018 26.904,52 28.007,86
+
+25-02-2018 26.909,31 28.009,89
+
+26-02-2018 26.914,11 28.011,92
+
+27-02-2018 26.918,90 28.013,95
+
+28-02-2018 26.923,70 28.015,99
+
+01-03-2018 26.928,49 28.018,02
+
+02-03-2018 26.933,29 28.020,05
+
+03-03-2018 26.938,09 28.022,08
+
+04-03-2018 26.942,89 28.024,11
+
+05-03-2018 26.947,69 28.026,14
+
+06-03-2018 26.952,49 28.028,17
+
+07-03-2018 26.957,29 28.030,20
+
+08-03-2018 26.962,09 28.032,23
+
+09-03-2018 26.966,89 28.034,27
+
+Santiago, 8 de febrero de 2018.- Juan Pablo Araya Marco, Ministro de Fe.
