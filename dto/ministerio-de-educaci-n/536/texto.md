@@ -6,6 +6,6 @@ Decreto:
 
 #### Artículo único
 
-Determínase que la declaración de Monumento Histórico de las Oficinas Salitreras "Santa Laura" y "Humberstone" de la provincia de Iquique, I Región de Tarapacá y "Chacabuco" de la provincia de Antofagasta, II Región de Antofagasta, incluyen las "tortas de ripio" respectivas.
+Determínase que la declaración de Monumento Histórico de las Oficinas Salitreras "Santa Laura" y "Humberstone" de la provincia de Iquique, I Región de Tarapacá y "Oficina Salitrera y Campo de Prisioneros Chacabuco" de la provincia de Antofagasta, II Región de Antofagasta, incluyen las "tortas de ripio" respectivas.
 
 Anótese, tómese razón y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- René Salamé Martin, Ministro de Educación Pública. Lo que transcribo a usted para su conocimiento.- Saluda a usted.- María Sixtina Barriga Guzmán, Subsecretaria de Educación Pública.
