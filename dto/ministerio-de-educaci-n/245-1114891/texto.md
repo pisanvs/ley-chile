@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETO N° 245, DE 28 DE SEPTIEMBRE DE 2017
+
+Por decreto de Educación Nº 245, de fecha 28 de septiembre de 2017, y de conformidad con lo dispuesto en el DL Nº 3.166, de 1980, y su Reglamento fijado por DS Nº 5.077, del mismo año, se ha aprobado la modificación de convenio celebrada con fecha 12 de septiembre de 2017, entre el Ministerio de Educación y la Fundación Nacional del Comercio para la Educación, Comeduc, referida a la administración delegada del establecimiento educacional "Liceo Técnico Felisa Clara Tolup Zeiman", RBD 2442, de la comuna de San Fernando.
+
+La modificación de convenio tuvo por objeto dejar establecido que, como consecuencia de haber ingresado el establecimiento al Régimen de Jornada Escolar Completa y de acuerdo a lo dispuesto por el artículo 3º de la ley Nº 19.532, el monto anual de los recursos que el Ministerio de Educación asigna con el objeto de financiar la operación y funcionamiento del "Liceo Técnico Felisa Clara Tolup Zeiman", conforme al artículo 4º del DL Nº 3.166, de 1980, será reemplazado por el que resulte de multiplicar el número de alumnos del establecimiento por el valor unitario de la subvención correspondiente a la modalidad "Educación Media Técnico-Profesional Comercial y Técnica", señalada en el inciso 9º del artículo 9º del DFL Nº 2, de 1998, de Educación, multiplicado por doce (12).-
+
+Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
