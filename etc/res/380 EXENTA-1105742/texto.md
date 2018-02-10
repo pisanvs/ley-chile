@@ -114,9 +114,9 @@ Por su parte, se entenderá por tramo de transporte como aquel compuesto por el 
 
 #### Artículo 5º
 
-Cada tramo del sistema de transmisión a valorizar estará compuesto por un conjunto mínimo de instalaciones económicamente identificables, agrupadas de acuerdo a la siguiente categorización:
+Artículo 5º.- Cada tramo del sistema de transmisión a valorizar estará compuesto por un conjunto mínimo de instalaciones económicamente identificables, agrupadas de acuerdo a la siguiente categorización, sin perjuicio de las subcategorías que pueda determinar el Consultor de los Estudios de Valorización:
 
-a) Derechos relacionados con el uso de suelo;
+a) Derechos relacionados con el uso de suelo y medio ambiente;
 
 b) Obras civiles;
 
@@ -126,25 +126,27 @@ d) Elementos de sujeción y aislación;
 
 e) Equipamiento electromecánico y electromagnético;
 
-f) Conductores;
+f) Conductores y cable de guardia;
 
 g) Protecciones electromecánicas o electromagnéticas;
 
 h) Protecciones digitales;
 
-i) Equipos de control y telecomando;
+i) Equipos de control, telecomando, medición y comunicaciones;
 
-j) Bienes inmuebles distintos a los terrenos;
+j) Otros elementos secundarios de subestaciones o radioestaciones;
 
-k) Equipamiento de operación y mantenimiento no fungible;
+k) Bienes inmuebles distintos a los terrenos;
 
-l) Equipamiento de oficina no fungible;
+l) Equipamiento de operación y mantenimiento no fungible;
 
-m) Equipamiento computacional; y
+m) Equipamiento de oficina no fungible;
 
-n) Vehículos.
+n) Equipamiento computacional; y
 
-Sin perjuicio de lo anterior, si en caso que por avances tecnológicos, o para una mayor precisión del conjunto de instalaciones que serán objeto de valorización, las bases podrán definir nuevas categorías distintas a las definidas en el inciso precedente.
+o) Vehículos.
+
+No obstante lo anterior, si en caso que por avances tecnológicos, o para una mayor precisión del conjunto de instalaciones que serán objeto de valorización, las Bases podrán definir nuevas categorías distintas a las referidas en el inciso precedente.
 
 #### Artículo 6º
 
@@ -270,7 +272,7 @@ Para la determinación de las vidas útiles, la Comisión podrá considerar aspe
 
 A más tardar seis meses antes del envío de las bases preliminares del proceso tarifario inmediatamente posterior al término de los tres períodos tarifarios en que se aplicaron las vidas útiles establecidas mediante resolución, la Comisión comunicará a los participantes y usuarios e instituciones interesadas, definidos en el artículo 90º de la ley, un informe técnico preliminar, "Informe de Vidas Útiles", que contendrá las vidas útiles de las instalaciones económicamente identificables, el que además deberá ser publicado en su sitio web.
 
-El Informe de Vidas Útiles preliminar deberá distinguir, al menos, las vidas útiles del conjunto mínimo de instalaciones económicamente identificables a que hace referencia el artículo 5º.
+Inciso Eliminado.
 
 #### Artículo 14º
 
@@ -612,6 +614,8 @@ b) Análisis de Instalaciones Enmalladas; y
 
 c) Análisis de Continuidad de Instalaciones Nacionales, Zonales y Dedicadas.
 
+La Comisión deberá realizar el proceso de calificación en consistencia con las expansiones de transmisión fijadas a través de los respectivos decretos.
+
 § 1
 
 #### Artículo 59
@@ -634,7 +638,7 @@ Por su parte, si la instalación analizada es utilizada exclusivamente para el a
 
 Calificación de instalaciones radiales de uso mixto. En aquellos casos en que una misma instalación de transmisión sea utilizada para el suministro de energía eléctrica a usuarios no sometidos a regulación de precios y/o para el suministro de clientes regulados y/o para la inyección de centrales generadoras, la respectiva instalación de transmisión será calificada como perteneciente a los sistemas de transmisión dedicada o zonal de acuerdo a la proporción existente entre la capacidad instalada y las demandas máximas, según corresponda.
 
-Para efectos de lo establecido en el inciso anterior, se entenderá que la instalación de transmisión analizada es dedicada en caso que la capacidad instalada de las respectivas centrales de generación más la demanda máxima de los usuarios no sometidos a regulación de precios, en caso que corresponda, sea mayor a un 50% respecto a la demanda máxima de clientes regulados. En caso contrario, la instalación será calificada como perteneciente al sistema de transmisión zonal.
+Considerando lo establecido en el inciso anterior, y para efectos de determinar si las instalaciones radiales de uso mixto están esencialmente dispuestas para el suministro de usuarios finales o para la inyección de centrales generadoras, el informe técnico deberá precisar la relación entre los distintos tipos de uso que presenta la instalación analizada, en un determinado horizonte de tiempo, y a partir de esta relación determinar su calificación, según los porcentajes o guarismos que se definan para tales efectos.
 
 La información sobre la capacidad de las centrales de generación y demandas máximas será obtenida conforme a los antecedentes indicados en los artículos 55 y 56 literales b), c), d) y e) de la presente resolución.
 
@@ -670,7 +674,9 @@ Calificación de líneas entre subestaciones frontera. La Comisión identificar�
 
 Calificación de instalaciones de transmisión zonal enmalladas en nivel de tensión inferior a 220 kV. Los conjuntos de instalaciones enmalladas, interconectadas entre sí, hacia las subestaciones frontera, adoptarán, para efectos de la presente resolución, la denominación de "malla de análisis".
 
-Respecto a el o los circuitos que se identifiquen dentro de las mallas de análisis, la Comisión efectuará ejercicios de simulación sucesivos de manera de verificar el impacto y modificaciones significativas que éstos generan en la operación del resto del sistema. Para tales efectos, considerará pares de subestaciones contiguas a partir de cada subestación frontera prescindiendo, para efectos de la simulación, de los circuitos de transmisión que las interconectan.
+En el caso que el tramo de transporte analizado sea utilizado esencialmente por clientes regulados, de acuerdo al porcentaje o guarismo respectivo que se obtenga a partir de la aplicación de lo dispuesto en el artículo 61 de la presente resolución, la respectiva instalación será calificada como perteneciente al sistema de transmisión zonal. Por su parte, si el tramo analizado es utilizado esencialmente por clientes libres, de acuerdo al porcentaje que se precise en el Informe Técnico, se entenderá que la respectiva instalación no produce impactos o modificaciones significativas en la operación del resto del sistema, siendo calificada como perteneciente al sistema de transmisión dedicada.
+
+Respecto a los restantes circuitos que no sean calificadas en conformidad a lo dispuesto en el inciso precedente, la Comisión efectuará ejercicios de simulación sucesivos de manera de verificar el impacto y modificaciones significativas que éstos generan en la operación del resto del sistema. Para tales efectos, considerará pares de subestaciones contiguas a partir de cada subestación frontera prescindiendo, para efectos de la simulación, de los circuitos de transmisión que las interconectan.
 
 Para efectos de determinar si la o las instalaciones analizadas, resultan esenciales para el abastecimiento de clientes regulados, se verificará si dicha prescindencia produce energía no suministrada de clientes regulados, respecto de un caso base. En caso que se produzca la hipótesis señalada, la o las líneas respectivas serán calificadas como pertenecientes al sistema de transmisión zonal.
 
@@ -738,7 +744,7 @@ Las líneas restantes no calificadas en conformidad a lo dispuesto en el present
 
 #### Artículo 72
 
-Calificación de subestaciones restantes. La calificación de las subestaciones que no se encuentren contenidas en las hipótesis reguladas en los artículos precedentes, se realizará determinando un guarismo relacionado a la capacidad instalada de las líneas que se encuentran conectadas a la subestación que es objeto de análisis. En el caso que la proporción de la capacidad de las líneas calificadas como parte del sistema de transmisión zonal, para dicha subestación, sea mayor a un 50% respecto a la capacidad total de las líneas que se conectan a la respectiva subestación, ésta será calificada como perteneciente al sistema de transmisión zonal, en conformidad a lo dispuesto en el artículo 77º de la Ley.
+Calificación de subestaciones restantes. La calificación de las subestaciones que no se encuentren contenidas en las hipótesis reguladas en los artículos precedentes, se realizará determinando la proporción de la capacidad instalada de las líneas de los distintos segmentos que se encuentran conectadas a la subestación que es objeto de análisis. En el caso que la proporción de la capacidad de las líneas calificadas como parte del sistema de transmisión zonal, para dicha subestación, sea mayor a un 50% respecto a la capacidad total de las líneas que se conectan a la respectiva subestación, ésta será calificada como perteneciente al sistema de transmisión zonal, en conformidad a lo dispuesto en el artículo 77º de la ley.
 
 Por su parte, en el caso que la proporción de la capacidad de las líneas calificadas como parte del sistema de transmisión dedicado, para dicha subestación, sea mayor a un 50% respecto a la capacidad total de las líneas que se conectan a la subestación respectiva, ésta será calificada como perteneciente al sistema de transmisión dedicado, en conformidad a lo dispuesto en el artículo 76º de la Ley.
 
@@ -772,11 +778,15 @@ Capítulo 4 Calificación de Instalaciones de Interconexión Internacional
 
 #### Artículo 77
 
+Calificación de instalaciones modificadas o reemplazas. Aquellas instalaciones que a la fecha indicada en el inciso segundo del artículo 57 de la presente resolución, hubiesen dejado de encontrarse en servicio, serán calificadas de acuerdo al mismo segmento al cual hayan sido adscritas las instalaciones que las reemplazaron o modificaron. En el caso de que no se cumpla la hipótesis anterior, presentarán una calificación tal que no genere discontinuidades en los sistemas de transmisión nacional o zonal, según corresponda.
+
+#### Artículo 78
+
 Sistemas de Interconexión Internacional. En la resolución a que se refiere el artículo 51 de la presente resolución, la Comisión identificará las instalaciones pertenecientes a los sistemas de interconexión internacional.
 
 Para tales efectos, los sistemas de interconexión internacional estarán constituidos por las líneas y subestaciones eléctricas destinadas a transportar la energía eléctrica con el objeto de posibilitar su exportación o importación, desde y hacia los sistemas eléctricos ubicados en el territorio nacional.
 
-#### Artículo 78
+#### Artículo 79
 
 Interconexión Internacional de Servicio Público e Interconexión Internacional de Interés Privado. La calificación de las instalaciones de interconexión internacional identificará aquellas de servicio público, entendiéndose por éstas aquellas instalaciones que facilitan la conformación o desarrollo de un mercado eléctrico internacional y complementan el abastecimiento de la demanda del sistema eléctrico en territorio nacional, frente a diferentes escenarios de disponibilidad de las instalaciones de generación, incluyendo situaciones de contingencia y falla, considerando las exigencias de seguridad y calidad de servicio.
 
@@ -786,15 +796,15 @@ De igual forma, la resolución de calificación de instalaciones identificará l
 
 Capítulo 5 Informe Técnico de calificación de instalaciones
 
-#### Artículo 79
+#### Artículo 80
 
 Informe técnico preliminar y observaciones. Dentro de los 90 días corridos siguientes a la recepción de la información indicada en el artículo 55 de la presente resolución, la Comisión deberá emitir un informe técnico preliminar con la calificación de todas las líneas y subestaciones del sistema de transmisión. Los participantes y usuarios e instituciones interesadas a que se refiere el artículo 90º de la Ley, dispondrán de un plazo de 15 días hábiles para presentar sus observaciones a dicho informe.
 
-#### Artículo 80
+#### Artículo 81
 
 Informe técnico final. Dentro de los quince días siguientes al vencimiento del plazo para presentar observaciones, la Comisión emitirá y comunicará el informe técnico final de calificación de líneas y subestaciones de transmisión, aceptando o rechazando fundadamente las observaciones planteadas.
 
-#### Artículo 81
+#### Artículo 82
 
 Discrepancias e Informe técnico definitivo. Dentro de los 10 días hábiles siguientes a la comunicación del informe técnico final, los participantes y usuarios e instituciones interesadas podrán presentar sus discrepancias al Panel de Expertos.
 
