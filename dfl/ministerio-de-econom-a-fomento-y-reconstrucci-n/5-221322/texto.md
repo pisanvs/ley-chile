@@ -594,7 +594,7 @@ Increméntase hasta el 25% el límite de descuentos voluntarios por planilla est
 
 #### Artículo 54 bis
 
-Tratándose de funcionarios del sector público, el límite para los descuentos voluntarios por planilla establecido en el artículo 96 de la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 29, del Ministerio de Hacienda, de 2004, será del 25% cuando los descuentos adicionales sean a favor de cooperativas de las que el funcionario sea socio.
+Tratándose de funcionarios del sector público, el límite para los descuentos voluntarios por planilla establecido en el artículo 96 de la ley N° 18.834, sobre Estatuto Administrativo, o bien el límite contemplado en el artículo 95 de la ley N° 18.883, que aprueba Estatuto Administrativo para Funcionarios Municipales, será del 25% cuando los descuentos adicionales sean a favor de cooperativas de las que el funcionario sea socio.
 
 Los pensionados beneficiarios de pensiones de vejez, sobrevivencia u orfandad, sea que estén afiliados al sistema público o privado de pensiones, podrán solicitar a las instituciones pagadoras el descuento de hasta el 25% del valor de sus pensiones, incluidos los créditos de auxilio social de las cajas de compensación de asignación familiar, siempre que los descuentos adicionales sean a favor de cooperativas de las que el pensionado sea socio.
 
