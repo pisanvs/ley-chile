@@ -1,0 +1,9 @@
+AUTORIZA INCORPORACIÓN DE ESPECIES Y MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 3.249, del 22 de diciembre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Productos del Mar Ventisqueros S.A., sociedad chilena, RUT 96.545.040-8, con domicilio en Avenida Juan Soler Manfredini 11, oficina 1501, Puerto Montt, para incorporar el cultivo del grupo de especies salmónidos, solicitud 211101012, del 16 de febrero de 2011, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por DS 303, del 20 de abril de 1991, del Ministerio de Defensa Nacional, Subsecretaría de Marina, modificada por resolución exenta 7.772, del 17 de septiembre de 2014, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, e inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría de Pesca y Acuicultura, bajo el N° 11542014, ubicada en Canal Cholgo, Sector Pichanco, comuna de Hualaihué, provincia de Palena, X Región de Los Lagos.
+
+2.- Modifícase, a contar de la fecha del presente acto administrativo, la concesión de acuicultura de porción de agua y fondo de mar, señalada en el párrafo precedente, para lo cual la concesionaria deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 926, del 5 de abril de 2013, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+
+Santiago, 12 de enero de 2018.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
