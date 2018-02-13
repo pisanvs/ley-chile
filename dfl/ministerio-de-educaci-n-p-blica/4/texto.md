@@ -60,37 +60,11 @@ e) número de publicaciones incorporadas a revistas científicas de reconocimien
 
 > **Nota.** NOTA 10 El artículo 17 de la LEY 20642, publicada el 11.12.2012, incrementó en $3.365.000 miles, el aporte que establece este artículo para el año 2012. Dicho aporte incluye los recursos para otorgar los beneficios a que se refieren los artículos 13 y 14, al personal académico y no académico de las universidades estatales. La distribución de estos recursos entre las universidades estatales se efectuará, en primer término, en función de las necesidades acreditadas para el pago de los beneficios referidos en el inciso anterior, y el remanente, se hará en la misma proporción que corresponda al aporte inicial correspondiente al año 2012.
 
+> **Nota.** NOTA 11 El artículo 17 de la Ley 21050, publicada el 07.12.2017, incrementa en $4.115.204.- miles, el aporte que establece el presente artículo, para el año 2017. Dicho aporte incluye los recursos para otorgar los beneficios a que se refieren los artículos 13 y 14, al personal académico y no académico de las universidades estatales. La distribución de estos recursos entre las universidades estatales se efectuará, en primer término, en función de las necesidades acreditadas para el pago de los beneficios referidos en el inciso anterior, y el remanente, se hará en la misma proporción que corresponda al aporte inicial correspondiente al año 2017.
+
 #### Artículo 3°
 
-Sin perjuicio del aporte referido en el artículo anterior, el Estado otorgará a todas las universidades, institutos profesionales y centros de formación técnica, reconocidos por aquel como instituciones de educación superior, anualmente un aporte fiscal indirecto, el que será distribuido de la siguiente forma:
-
-1. El Ministerio de Educación Pública elaborará un listado con los primeros 27.500 puntajes de los alumnos matriculados en el primer año de estudios, en el año inmediatamente anterior, en las instituciones de educación superior, ordenado de menor a mayor de acuerdo con los puntajes obtenidos en la Prueba de Aptitud Académica, partes verbal y matemática.
-
-2. Dicho listado será dividido en cinco tramos de similar número de alumnos cada uno, con factores de ponderación 1, 3, 6, 9 y 12, respectivamente, para los tramos 1, 2, 3, 4 y 5.
-
-El tramo 1 corresponderá a los puntajes más bajos y el tramo 5 a los puntajes más altos.
-
-Los alumnos que hayan obtenido igual puntaje en la Prueba de Aptitud Académica deberán figurar en un mismo tramo. Al efecto se aumentará el número de alumnos del tramo en que figure la mayor cantidad del mismo puntaje y se disminuirá en la misma cantidad el otro tramo.
-
-3. El número de alumnos de cada tramo será multiplicado por los factores correspondientes, establecidos en el punto anterior.
-
-4. El monto base de recursos que se entregarán por cada alumno, se determinará dividiendo la cantidad asignada para estos efectos en la ley de Presupuestos por la suma del producto de las multiplicaciones obtenidas en el punto anterior.
-
-5. A dicho monto base se le aplicará el factor de ponderación que corresponda a cada alumno, según sea el tramo en que se ubique de acuerdo con su puntaje en la Prueba de Aptitud Académica, determinándose de esta manera el monto de recursos que se asignarán por cada alumno ubicado en los tramos 1 al 5.
-
-6. Para determinar el monto de aporte fiscal que por este concepto corresponde a cada institución de educación superior, se procederá de la siguiente forma:
-
-a) Los alumnos matriculados en el año inmediatamente anterior en el primer año de estudios de cada institución de educación superior, se ubicarán en el tramo que les corresponda, de acuerdo con el puntaje obtenido en la Prueba de Aptitud Académica.
-
-b) El número de alumnos que de esta forma resulte en cada tramo, se multiplicará por el monto de recursos determinado por cada tramo en el punto 5.
-
-c) La suma de los valores así obtenidos determinará el monto total para el año respectivo, que corresponderá a cada institución de educación superior.
-
-7. En el listado de alumnos señalado en el número 1, no se considerarán los alumnos que ingresen por segunda vez a una misma institución de educación superior. Tampoco se considerarán los alumnos que ingresen por tercera vez, a una misma o a otra institución de educación superior.
-
-8. El monto determinado para cada institución, será sancionado por decreto supremo expedido por intermedio del Ministerio de Educación Pública, el que deberá ser suscrito también por el Ministro de Hacienda, y se entregará mensualmente a cada una de ellas un duodécimo de dicha cantidad.
-
-> **Nota.** El Artículo 51 de la LEY 18768, publicada el 29.12.1988, dispuso que la modificación introducida al presente artículo, regirá a contar del 1° de enero de 1990.
+Derogado.
 
 #### Artículo cuarto
 
