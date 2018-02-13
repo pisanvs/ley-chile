@@ -1,0 +1,7 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 3.250, del 28 de diciembre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Modifícase, la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 86, del 31 de enero de 2008, del Ministerio de Defensa Nacional, Subsecretaría de Marina, modificada por resolución exenta 5.804, del 10 de agosto de 2011, cuya ampliación de plazo para iniciar actividades fue ampliada por resolución exenta 11.456, del 26 de noviembre de 2012, modificada por resolución exenta 2.554, del 29 de abril de 2014, todas del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, a Salmones Camanchaca S.A., sociedad chilena, RUT 76.065.596-1, con domicilio en avenida Diego Portales 2000, piso 13, Puerto Montt, en el sentido que el concesionario debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 1.824, del 4 de julio de 2012, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca, modificado por resolución exenta 2.300, del 14 de julio de 2017, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el Nº 4 de la parte resolutiva del acto administrativo que otorgó la concesión de acuicultura.
+
+Santiago, 12 de enero de 2018.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
