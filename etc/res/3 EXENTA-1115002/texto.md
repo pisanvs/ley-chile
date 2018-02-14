@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LA ACTIVIDAD DE "MOTORISTA 1°" DESARROLLADA PARA LOS EMPLEADORES "PESQUERA QUINTERO S.A.", "PESQUERA BRAVAMAR Y COMPAÑÍA" Y "PESQUERA NACIONAL" Y LA LABOR DE "MOTORISTA 2°" DESEMPEÑADA PARA LOS EMPLEADORES "PESQUERA KON-TIKI LIMITADA", "PESQUERA KUNDE ULRICH Y COMPAÑÍA LIMITADA" Y "PESQUERA QUINTERO S.A."
+
+Por resolución exenta N° 3, de 5 de enero de 2018, el Director Nacional del Instituto de Previsión Social califica como Trabajo Pesado la actividad de "Motorista 1°" desarrollada para los empleadores "Pesquera Quintero S.A.", "Pesquera Bravamar y Compañía" y "Pesquera Nacional", y la labor de "Motorista 2°" desempeñada para los empleadores "Pesquera Kon-Tiki Limitada", "Pesquera Kunde Ulrich y Compañía Limitada" y "Pesquera Quintero S.A.".
+
+Santiago, 7 de febrero de 2018.- María Eugenia Elizalde Soto, Directora Nacional (S).
