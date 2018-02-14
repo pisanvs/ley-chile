@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN N° 583 EXENTA, DE 01.12.2017, DEL INSTITUTO DE PREVISIÓN SOCIAL, QUE APRUEBA CONVENIO DE COOPERACIÓN ENTRE EL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA Y EL INSTITUTO DE PREVISIÓN SOCIAL, EN EL SENTIDO QUE INDICA
+
+Por resolución exenta N° 17, de 9 de enero de 2018, el Director Nacional del Instituto de Previsión Social modifica la resolución exenta N° 583, de 01.12.2017, respecto de la Cláusula Cuarta del Convenio que aprueba, y respecto del Resuelvo N° 2) de la misma, en el sentido de reemplazar el nombramiento como Contraparte Técnica y/o Coordinador del Convenio señalado, por la Jefa de la División Atención a Clientes, dependiente de la Subdirección de Atención a Clientes del Instituto.
+
+Santiago, 7 de febrero de 2018.- María Eugenia Elizalde Soto, Directora Nacional (S).
