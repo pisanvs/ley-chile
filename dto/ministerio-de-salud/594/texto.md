@@ -44,7 +44,7 @@ La construcción, reconstrucción, alteración, modificación y reparación de l
 
 Los pavimentos y revestimientos de los pisos serán, en general, sólidos y no resbaladizos. En aquellos lugares de trabajo donde se almacenen, fabriquen o manipulen productos tóxicos o corrosivos, de cualquier naturaleza, los pisos deberán ser de material resistente a éstos, impermeables y no porosos, de tal manera que faciliten una limpieza oportuna y completa. Cuando las operaciones o el proceso expongan a la humedad del piso, existirán sistemas de drenaje u otros dispositivos que protejan a las personas contra la humedad.
 
-Para efectos del presente reglamento se entenderá por sustancias tóxicas, corrosivas, peligrosas, infecciosas, radiactivas, venenosas, explosivas o inflamables aquellas definidas en la Norma Oficial NCh 382.of 98.
+Para efectos del presente reglamento se entenderá por sustancias tóxicas, corrosivas, peligrosas, infecciosas, radiactivas, venenosas, explosivas o inflamables aquellas definidas en la Norma Oficial NCh 382:2013.
 
 #### Artículo 6°
 
@@ -58,13 +58,17 @@ Los pisos de los lugares de trabajo, así como los pasillos de tránsito, se man
 
 Los pasillos de circulación serán lo suficientemente amplios de modo que permitan el movimiento seguro del personal, tanto en sus desplazamientos habituales como para el movimiento de material, sin exponerlos a accidentes. Así también, los espacios entre máquinas por donde circulen personas no deberán ser inferiores a 150 cm.
 
-#### Artículo 9°
+#### Artículo 9
 
-En aquellas faenas en que por su naturaleza los trabajadores estén obligados a pernoctar en campamentos de la empresa, el empleador deberá proveer dormitorios dotados de una fuente de energía eléctrica, con pisos, paredes y techos que aíslen de condiciones climáticas externas.
+En aquellas faenas en que por su naturaleza los trabajadores, estén obligados a pernoctar en campamentos de la empresa, el empleador deberá proveer dormitorios separados para hombres y mujeres, dotados de una fuente de energía eléctrica, con pisos, paredes y techos que aíslen de condiciones climáticas externas.
 
-En las horas en que los trabajadores ocupen los dormitorios, la temperatura interior, en cualquier instante, no deberá ser menor de 10 °C ni mayor de 30 °C. Además, dichos dormitorios deberán cumplir con las condiciones de ventilación señaladas en el Párrafo I del Título III del presente reglamento.
+En las horas en que los trabajadores ocupen los dormitorios, la temperatura interior, en cualquier instante, no deberá ser menor de 10 ºC ni mayor de 30 ºC. Además, dichos dormitorios deberán tener la amplitud necesaria que evite el hacinamiento, para cuyos efectos se diseñarán considerando, por cada trabajador, un volumen de 10 m³, sin perjuicio de cumplir los criterios de ventilación establecidos en el artículo 32 del presente reglamento.
 
-Cada dormitorio deberá estar dotado de camas o camarotes confeccionados de material resistente, complementados con colchón y almohada en buenas condiciones. El empleador deberá adoptar las medidas necesarias para que los dormitorios se mantengan limpios.
+Los dormitorios deberán estar dotados de una cama o camarote para cada trabajador confeccionado de material resistente, complementado con colchón y almohada en buenas condiciones. El empleador deberá adoptar las medidas necesarias para que los dormitorios se mantengan limpios.
+
+Los campamentos deberán contar con cuartos de baño, los que deberán disponer de excusado, lavatorio y ducha con agua fría y caliente. Con todo, los dormitorios y baños deberán cumplir con las condiciones de habitabilidad dispuestas en la Ordenanza General de Urbanismo y Construcciones.
+
+No podrán emplazarse campamentos en lugares próximos a cauces de agua o sus afluentes, o en áreas con factibilidad de derrumbes o aluviones
 
 #### Artículo 10
 
@@ -358,9 +362,19 @@ Toda empresa o lugar de trabajo que cuente con equipos generadores de vapor debe
 
 El almacenamiento de materiales deberá realizarse por procedimientos y en lugares apropiados y seguros para los trabajadores.
 
-Las sustancias peligrosas deberán almacenarse sólo en recintos específicos destinados para tales efectos, en las condiciones adecuadas a las características de cada sustancia y estar identificadas de acuerdo a las normas chilenas oficiales en la materia. El empleador mantendrá disponible permanentemente en el recinto de trabajo, un plan detallado de acción para enfrentar emergencias, y una hoja de seguridad donde se incluyan, a lo menos, los siguientes antecedentes de las sustancias peligrosas: nombre comercial, fórmula química, compuesto activo, cantidad almacenada, características físico químicas, tipo de riesgo más probable ante una emergencia, croquis de ubicación dentro del recinto donde se señalen las vías de acceso y elementos existentes para prevenir y controlar las emergencias. Con todo, las sustancias inflamables deberán almacenarse en forma independiente y separada del resto de las sustancias peligrosas, en bodegas construidas con resistencia al fuego de acuerdo a lo establecido en la Ordenanza General de Urbanismo y Construcción.
+Todo lo referente al almacenamiento de sustancias peligrosas se regirá por lo dispuesto en el decreto supremo N° 43 de 2015 del Ministerio de Salud, que aprueba el Reglamento de Almacenamiento de Sustancias Peligrosas. No obstante lo anterior, para aquellas exclusiones establecidas en el artículo 3 de dicha norma, los recintos que almacenen sustancias peligrosas clasificadas según NCh 382:2013, sin perjuicio de la normativa específica que les aplique, deberán dar cumplimiento a lo siguiente:
 
-Los estanques de almacenamiento de combustibles líquidos deberán cumplir las exigencias dispuestas en el decreto Nº 90 de 1996, del Ministerio de Economía, Fomento y Reconstrucción.
+a) Construirse según lo establecido en la Ordenanza General de Urbanismo y Construcción, de acuerdo al estudio de carga combustible, y ser destinados específicamente para tal efecto. Para el caso de sustancias inflamables envasadas, sobre 10 toneladas, deberán almacenarse en una bodega exclusiva para ellas.
+
+b) Contar con las hojas de datos de seguridad, según lo establecido en NCh 2245 of. 2003.
+
+c) Disponer de un plan de emergencias que incorpore todas las posibles emergencias que puedan producirse, con sus respectivos procedimientos, cadena de mando, plano que incluya todas las instalaciones, zonas de seguridad, vías de acceso y de salida, lista actualizada de sustancias peligrosas, equipos y elementos para combatir la emergencia.
+
+d) El personal que manipule las sustancias peligrosas deberá estar debidamente capacitado sobre los peligros y riesgos asociados a su manipulación.
+
+e) Las sustancias peligrosas deberán estar etiquetadas de acuerdo a lo establecido en el Título XII, del decreto supremo N° 43, de 2015, del Ministerio de Salud, con excepción de los plaguicidas que deberán ajustarse a la normativa específica para ellos.
+
+Los estanques de almacenamiento de combustibles líquidos deberán cumplir las exigencias dispuestas en el decreto supremo Nº 160, de 2008, del Ministerio de Economía, Fomento y Reconstrucción, que aprueba el Reglamento de Seguridad para las Instalaciones y Operaciones de Producción y Refinación, Transporte, Almacenamiento, Distribución y Abastecimiento de Combustibles Líquidos.
 
 #### Artículo 43
 
@@ -448,11 +462,11 @@ De los Equipos de Protección Personal
 
 #### Artículo 53
 
-El empleador deberá proporcionar a sus trabajadores, libres de costo, los elementos de protección personal adecuados al riesgo a cubrir y el adiestramiento necesario para su correcto empleo, debiendo, además, mantenerlos en perfecto estado de funcionamiento. Por su parte, el trabajador deberá usarlos en forma permanente mientras se encuentre expuesto al riesgo.
+El empleador deberá proporcionar a sus trabajadores, libres de todo costo y cualquiera sea la función que éstos desempeñen en la empresa, los elementos de protección personal que cumplan con los requisitos, características y tipos que exige el riesgo a cubrir y la capacitación teórica y práctica necesaria para su correcto empleo debiendo, además, mantenerlos en perfecto estado de funcionamiento. Por su parte el trabajador deberá usarlos en forma permanente mientras se encuentre expuesto al riesgo.
 
 #### Artículo 54
 
-Los elementos de protección personal usados en los lugares de trabajo, sean éstos de procedencia nacional o extranjera, deberán cumplir con las normas y exigencias de calidad que rijan a tales artículos según su naturaleza, de conformidad a lo establecido en el decreto N°18, de 1982, del Ministerio de Salud.
+Los elementos de protección personal usados en los lugares de trabajo, sean éstos de procedencia nacional o extranjera, deberán cumplir con las normas y exigencias de calidad que rijan a tales artículos según su naturaleza, de conformidad a lo establecido en el decreto Nº 18, de 1982, del Ministerio de Salud, sobre Certificación de Calidad de Elementos de Protección Personal contra Riesgos Ocupacionales. Sin embargo, si no fuese posible aplicar dicho procedimiento, por la inexistencia de entidades certificadoras, el Instituto de Salud Pública de Chile podrá, transitoriamente, validar la certificación de origen.
 
 T I T U L O IV
 
@@ -466,17 +480,27 @@ Disposiciones Generales
 
 Los límites permisibles de aquellos agentes químicos y físicos capaces de provocar efectos adversos en el trabajador serán, en todo lugar de trabajo, los que resulten de la aplicación de los artículos siguientes.
 
+Los límites de tolerancia biológica así como los límites permisibles para agentes químicos y físicos deberán ser revisados cada 5 años.
+
 #### Artículo 56
 
 Los límites permisibles para sustancias químicas y agentes físicos son índices de referencia del riesgo ocupacional.
 
 #### Artículo 57
 
-En el caso en que una medición representativa de las concentraciones de sustancias contaminantes existentes en el ambiente de trabajo o de la exposición a agentes físicos, demuestre que han sido sobrepasados los valores que se establecen como límites permisibles, el empleador deberá iniciar de inmediato las acciones necesarias para controlar el riesgo, sea en su origen, o bien, proporcionando protección adecuada al trabajador expuesto. En cualquier caso el empleador será responsable de evitar que los trabajadores realicen su trabajo en condiciones de riesgo para su salud.
+En el caso en que una medición representativa de las concentraciones de sustancias contaminantes existentes en el ambiente de trabajo o de la exposición a agentes físicos, demuestre que han sido sobrepasados los valores que se establecen como límites permisibles, el empleador deberá iniciar de inmediato las acciones necesarias para controlar el riesgo en su origen.
+
+Si no es factible implementar la o las medidas preventivas en su totalidad, el empleador deberá proteger al trabajador del riesgo residual entregándole la protección personal de acuerdo a lo establecido en el artículo 53 del presente reglamento.
+
+En cualquier caso, el empleador será responsable de evitar que los trabajadores realicen su trabajo en condiciones de riesgo para su salud.
 
 #### Artículo 58
 
-Se prohíbe la realización de trabajos, sin la protección personal correspondiente, en ambientes en que la atmósfera contenga menos de 18% de oxígeno.
+Se prohíbe la realización de trabajos, sin la protección personal correspondiente, en ambientes en que la atmósfera contenga menos de 18% de oxígeno. Sin embargo, deberá considerarse que la disponibilidad real de oxígeno depende de la presión parcial de esta sustancia.
+
+#### Artículo 58 bis
+
+Toda actividad que implique corte, desbaste, torneado, pulido, perforación, tallado y, en general, fracturamiento de materiales, productos o elementos que contengan sílice, deberá realizarse aplicando humedad a la operación u otro método de control si no es factible la humectación.
 
 ### Párrafo II
 
@@ -500,7 +524,7 @@ durante la jornada normal de 8
 
 horas diarias, con un total de
 
-48 horas semanales.
+45 horas semanales.
 
 b) Límite Permisible: Valor máximo permitido para el
 
@@ -542,63 +566,17 @@ Tanto los excesos de los límites permisibles ponderados, como la exposición a 
 
 Las concentraciones ambientales de las sustancias capaces de causar rápidamente efectos narcóticos, cáusticos o tóxicos, de carácter grave o fatal, no podrán exceder en ningún momento los límites permisibles absolutos siguientes:
 
-Sustancia Límite Permisible
-
-Absoluto Observaciones
-
-p.p.m mg/m3
-
-Acido Bromhídrico 3 9,9 --
-
-Acido Cianhídrico
-
-(expresado como CN) 4,7 5 Piel
-
-Acido Clorhídrico 5 6 --
-
-Acido Fluorhídrico
-
-(expresado como F) 3 2,3 --
-
-Alcohol n-Butílico 50 152 Piel
-
-Cianuros (expresado
-
-como CN) 4,7 5 Piel
-
-Etilenglicol,
-
-Aerosol de 40 100 A.4
-
-Formaldehido 0,3 0,37 A.2
-
-Glutaraldehido 0,05 0,2 A.4
-
-Hidróxido de Potasio -- 2 --
-
-Hidróxido de Sodio -- 2 --
-
-Isoforona 5 28 A.3
-
-Peróxido de metil
-
-etil cetona 0,2 1,5 --
-
-Triclorofluorometano
-
-(FREON 11) 1000 5620 --
-
-Yodo 0,1 1 --
+.
 
 #### Artículo 62
 
-Cuando la jornada de trabajo habitual sobrepase las 48 horas semanales, el efecto de la mayor dosis de tóxico que recibe el trabajador unida a la reducción del período de recuperación durante el descanso, se compensará multiplicando los límites permisibles ponderados del artículo 66 por el factor de reducción ''Fj'' que resulte de la aplicación de la fórmula siguiente, en que ''h'' será el número de horas trabajadas semanalmente:
+Cuando la jornada de trabajo sobrepase las 8 horas diarias, el efecto de mayor dosis de tóxico que recibe el trabajador unida a la reducción del período de recuperación durante el descanso, se compensará multiplicando los límites permisibles ponderados del artículo 66 por el factor de reducción "Fj" que resulte de la aplicación de la fórmula siguiente, en que "h" será el número de horas trabajadas diarias:
 
-Fj = 48 168 - h
+.
 
------ X -----------
+Para una jornada de 8 horas diarias, con un total superior a 45 horas semanales y hasta 48 horas semanales, se utilizará Fj = 0,90
 
-h 120
+El factor "Fj" deberá expresarse con dos decimales, elevando el segundo de éstos al valor superior si el tercer decimal es igual o superior a cinco y despreciando el tercer decimal si fuere inferior a cinco. No deberán efectuarse aproximaciones parciales.
 
 #### Artículo 63
 
@@ -610,9 +588,11 @@ Fa = P
 
 760
 
+El factor "Fa" deberá expresarse con dos decimales, elevando el segundo de éstos al valor superior si el tercer decimal es igual o superior a cinco y despreciando el tercer decimal si fuere inferior a cinco.
+
 #### Artículo 64
 
-En lugares de trabajo en altura y con jornada mayor de 48 horas semanales se corregirá el límite permisible ponderado multiplicándolo sucesivamente por cada uno de los factores definidos en los artículos 62 y 63, respectivamente. Los límites permisibles temporales y absolutos se ajustarán aplicando solamente el factor ''Fa'' del artículo 63.
+En lugares de trabajo en altura y con jornada diaria mayor a 8 horas se corregirá el límite permisible ponderado multiplicándolo sucesivamente por cada uno de los factores definidos en los artículos 62 y 63, respectivamente. Se utilizará un Fj = 0,90 para la condición establecida en el inciso segundo del artículo 62 precedente. Los límites permisibles temporales y absolutos se ajustarán aplicando solamente el factor "Fa" del artículo 63.
 
 #### Artículo 65
 
@@ -656,21 +636,75 @@ motores respectivos.
 
 > **Nota.** El Nº 2 del DTO 57, Salud, publicado el 07.11.2003, dispone que la norma que introduce, entrará en vigencia 90 días después de su publicación.
 
+#### Artículo 65 bis
+
+Prohíbase el uso de chorro de arena en seco como método de limpieza abrasiva.
+
+Para efectos de esta prohibición, se entenderá por:
+
+a) Arena: Conjunto de partículas generadas por la disgregación natural de las rocas, que contienen sílice o cuarzo, provenientes de ríos, cantos rodados, minas o depósitos en el interior de tierra formando capas y playas, y que presentan forma angular y de color azul, gris o rosa.
+
+b) Sílice Libre Cristalizada o Sílice Cristalina: Dióxido de silicios cristalizados (Si02), siendo las formas más comunes de encontrarse el cuarzo, además de la cristobalita y la tridimita, como compuestos derivados de procesos de altas temperaturas.
+
+c) Limpieza Abrasiva con Chorro de Arena: Proyección de arena a alta presión contra una determinada superficie, que puede ser metal, concreto, telas, vidrio u otra, con el objeto de pulir, limpiar, retirar óxidos o pinturas, desgaste de materiales, tallado, etc.
+
+#### Artículo 65 ter
+
+Sin perjuicio de lo establecido en el artículo anterior, y siempre que no se trate de faenas que se ejecutan a más de 3.000 metros sobre el nivel del mar, la autoridad sanitaria podrá autorizar el uso del proceso de limpieza abrasiva con chorro de arena en seco cuando el interesado acredite, mediante los antecedentes que se indican a continuación, que no existe factibilidad técnica para remplazarlo inmediatamente por otro sistema o material:
+
+a) Justificación técnica, con evidencia objetiva y demostrable, de la imposibilidad de sustituir la arena como material abrasivo.
+
+b) Memoria técnica del proceso productivo, con la siguiente información:
+
+- Descripción del proceso.
+
+- Nómina de trabajadores expuestos a sílice cristalina, indicando su nombre completo, cédula de identidad, fecha de nacimiento, labores que desempeña, jornada de trabajo, fecha de ingreso a la empresa y nivel de riesgo de exposición, según lo establecido en el Manual sobre Normas Mínimas para el Desarrollo de Programas de Vigilancia de la Silicosis del Ministerio de Salud.
+
+- Altura geográfica sobre el nivel del mar donde se realice la actividad de arenado, expresado en metros sobre el nivel del mar (msnm).
+
+- Características técnicas del equipo de limpieza abrasiva con chorro de arena, incluyendo el manual del usuario.
+
+- Plano específico de la empresa y sus empresas colindantes, identificando el o los puntos donde se ejecuta el proceso de arenado.
+
+- Sistema o equipo fabricado y certificado para dicho proceso.
+
+c) El plan de gestión del riesgo de exposición a sílice implementado, con un cronograma de actividades, que deberá contener:
+
+- Objetivos.
+
+- Campo de aplicación.
+
+- Responsables.
+
+- Vigilancia de los ambientes de trabajo y de la salud de los trabajadores expuestos, según lo establecido en el Manual sobre Normas Mínimas para el Desarrollo de Programas de Vigilancia de la Silicosis, del Ministerio de Salud, coordinado con el organismo administrador de la ley Nº 16.744, sobre Accidentes del Trabajo y Enfermedades Profesionales.
+
+- Descripción de los métodos de control ingenieril implementados en el proceso de limpieza abrasiva con chorro de arena, elaborado por un especialista acreditado en ventilación industrial.
+
+- El programa de protección respiratoria, según lo indicado en la Guía Técnica de Selección y Control de la Protección Respiratoria del Instituto de Salud Pública de Chile.
+
+- Descripción de los métodos de control administrativo implementados, los procedimientos de trabajo seguro (escrito), el programa de mantención preventiva del proceso de limpieza abrasiva con chorro de arena y el programa de capacitación y difusión a los trabajadores sobre los riesgos, efectos en la salud y medidas preventivas.
+
+El Ministerio de Salud, mediante acto administrativo que se publicará en el Diario Oficial, determinará el contenido y características del programa de capacitación referido.
+
+El interesado deberá dejar constancia documentada de las actividades que se efectúen para la difusión del plan de gestión del riesgo de exposición a sílice.
+
+d) Cuando corresponda, copia del contrato celebrado entre la empresa mandante y la entidad contratista que ejecuta labores de limpieza abrasiva con chorro arena en seco.
+
+e) Certificado de adhesión o afiliación al organismo administrador del seguro de la ley Nº 16.744, sobre Accidentes del Trabajo y Enfermedades Profesionales.
+
+La autorización de que trata el presente artículo tendrá una vigencia máxima de un año, prorrogable por una sola vez y por igual período de tiempo. Un ejemplar de la resolución que la otorga deberá mantenerse en el lugar donde se ejecutan las labores de limpieza con chorro de arena a disposición de las autoridades fiscalizadoras competentes.
+
+La autoridad sanitaria deberá remitir a la Inspección del Trabajo respectiva una copia de la resolución aludida en el inciso anterior.
+
+Vencido el plazo de autorización, el interesado deberá implementar un proceso de trabajo o método de limpieza alternativo, que excluya el uso del chorro de arena en seco.
+
 #### Artículo 66
 
 Los límites permisibles ponderados y temporales para las concentraciones ambientales de las sustancias que se indican, serán los siguientes:
 
-(1) = Muestras exentas de fibras tomadas con elutriador vertical.
+.
 
-(2) = Recuento mediante Microscopio de Contraste en Fase con 400 - 450 diámetros de aumento, en muestras tomadas en filtro de membrana, contando fibras de longitud mayor a 5 µm y de una relación largo a diámetro igual o mayor de 3:1.
-
-(3) = Polvo total exento de asbesto y con menos de 1 % de sílice cristalizada libre.
-
-(4) = Fracción respirable
-
-(5) = Solamente en ausencia de elementos tóxicos en el metal base y los electrodos y en condiciones en que no haya acumulación o producción de gases tóxicos.
-
-(6) = Recuento según (2), pero no deberá existir más de 1,6 mg/m3 de polvo respirable
+> **Nota.** Las letras a, b, c, d, e, f y g del numeral 3° del Decreto 30, Salud, publicado el 14.02.2018, modifican la tabla de límites permisibles contenida en el presente artículo de la manera que la citada norma indica, la que no se pudo incorporar al presente texto actualizado por tratarse de una imagen.
 
 #### Artículo 67
 
@@ -1270,6 +1304,150 @@ a.3: El empleador deberá informar a sus trabajadores sobre los factores a los q
 
 La información a los trabajadores deberá constar por escrito y contemplar los contenidos mínimos establecidos en la referida Norma Técnica del Ministerio de Salud, dejando constancia de su realización.
 
+10.- De la Hipobaria Intermitente Crónica por Gran Altitud
+
+#### Artículo 110
+
+b.- Las disposiciones de este punto 10 regulan el trabajo a gran altitud, en que los trabajadores son expuestos a hipobaria intermitente crónica y no se aplican al trabajo en extrema altitud.
+
+Sólo podrán efectuarse trabajos sobre los 5.500 metros sobre el nivel del mar, en adelante msnm, previa evaluación y autorización expresa y fundada de la Autoridad Sanitaria, otorgada en conformidad con la Guía Técnica sobre Exposición Ocupacional a Hipobaria Intermitente Crónica por Gran Altitud, aprobada mediante decreto del Ministerio de Salud, emitido bajo la fórmula "Por orden del Presidente de la República".
+
+#### Artículo 110
+
+b.1.- Para los efectos de hipobaria intermitente crónica por gran altitud, las siguientes expresiones tendrán el significado que se indica:
+
+Aclimatación en altitud: procesos fisiológicos que se inician cuando una persona se expone a una disminución de la presión atmosférica, cuya principal acción es la disminución de la disponibilidad de oxígeno inspirado, lo que puede durar semanas o meses, ellos tienen la finalidad de mitigar el efecto de la caída del aporte del oxígeno a nivel celular y mejorar la capacidad del organismo a tolerar la gran altitud, y comprenden:
+
+* Acomodación, como la primera fase de respuesta del organismo en forma inmediata frente a la hipoxia, que podrá ser leve o marcada dependiendo del grado y causa de la hipoxia. Los mecanismos son: la hiperventilación y un aumento de la frecuencia cardíaca.
+
+* Aclimatación adquirida, la que ocurre en personas que habitan a baja altitud y trabajan sobre los 3.000 metros sobre el nivel del mar y pasan semanas o meses en la altura. Es la forma más común de aclimatación.
+
+* Aclimatación natural o adaptación, es la alcanzada por personas que nacen y/o se desarrollan en la infancia y adolescencia en altitud, como resultado de una exposición prolongada, permitiéndole la sobrevida y la mantención de la actividad fisiológica en el medio en que habita.
+
+Altitud: altura geográfica expresada en metros sobre el nivel del mar (msnm); distinguiéndose:
+
+. Gran altitud: Altura geográfica igual o superior a los 3.000 msnm e inferior a 5.500 msnm, en donde la mayoría de los individuos tiene cambios fisiológicos, anatómicos y bioquímicos reversibles; y
+
+. Extrema altitud: Altura geográfica igual o superior a 5.500 msnm, en donde el ser humano no es capaz de aclimatarse, pero puede permanecer períodos cortos de tiempo con riesgo elevado para su salud.
+
+Exposición a hipobaria intermitente crónica: Exposición discontinua de los trabajadores a gran altitud por motivos laborales por más de 6 meses, con una permanencia mínima del 30% de ese tiempo en sistemas de turnos rotativos en gran altitud y descanso a baja altitud.
+
+Hipobaria: Disminución de la presión barométrica con respecto al nivel del mar.
+
+#### Artículo 110
+
+b.2.- Las empresas o faenas que tengan trabajadores expuestos a hipobaria intermitente crónica por gran altitud, deberán realizar prevención del riesgo, adoptando las siguientes medidas:
+
+a) Informar a los trabajadores sobre los riesgos específicos de exposición laboral a altitud e hipobaria y sus medidas de control en los siguientes términos: "La exposición a hipobaria intermitente crónica por gran altitud puede producir algún tipo de enfermedades reversibles a corto y/o a largo plazo, principalmente neurológicas y cardiopulmonares que van desde el mal agudo de montaña en sus diferentes variedades, policitemia, hipertensión pulmonar y/o trastornos del sueño -el que se podría agravar en sujetos con apnea obstructiva del sueño previa-, entre otras patologías".
+
+b) Incorporar este riesgo en su sistema de gestión de seguridad y salud en el trabajo.
+
+c) Contar con un programa preventivo de trabajadores expuestos ocupacionalmente a hipobaria intermitente crónica, por escrito, actualizado en forma anual, elaborado en conformidad con lo establecido en la Guía Técnica señalada en esta normativa.
+
+d) Impartir anualmente a los trabajadores instrucción teórico-práctica sobre el riesgo y consecuencias para la salud de la exposición ocupacional a hipobaria intermitente crónica por gran altitud y las medidas preventivas a considerar, el cual tendrá una duración mínima de 3 horas cronológicas y será impartido por un profesional de la salud, con título otorgado por una entidad de educación superior reconocida por el Estado, con un mínimo de 8 semestres de estudio y formación en los temas a tratar. Este programa deberá constar por escrito.
+
+#### Artículo 110
+
+b.3.- La aptitud de los trabajadores para laborar en forma intermitente a gran altitud, antes de su ingreso, se determinará mediante exámenes, encuestas de salud, evaluaciones y contraindicaciones, efectuadas en conformidad con lo señalado en la Guía Técnica referida en este reglamento. Dichos procedimientos serán de cargo de la empresa contratante.
+
+#### Artículo 110
+
+b.4.- Para la prevención, vigilancia y diagnóstico precoz de los efectos en la salud provocados por la exposición a hipobaria intermitente crónica, los trabajadores expuestos deberán ser incorporados al Programa de Vigilancia Ocupacional, realizándose las evaluaciones de salud ocupacional de vigilancia periódica y de preegreso, según lo indicado en la Guía Técnica sobre la materia. Estas evaluaciones de salud deben ser realizadas por los respectivos organismos administradores del seguro de la ley N° 16.744 y de su cargo, con la finalidad de determinar si el estado de salud del trabajador le permite trabajar bajo estas condiciones.
+
+Adicionalmente a lo anterior, los trabajadores que se desempeñen en gran altitud deben realizarse anualmente el chequeo preventivo de salud común y el seguimiento de sus patologías crónicas, de conformidad con su sistema previsional de salud, y presentarlos al momento de efectuarse el examen de salud ocupacional, debiendo mantener el trabajador en su poder los resultados de dichos exámenes.
+
+El médico examinador del programa de vigilancia extenderá un certificado de aptitud o no aptitud del trabajador, considerando el resultado de la evaluación ocupacional y del examen de medicina preventiva.
+
+Aquellos trabajadores considerados no aptos, deberán ser reubicados en otra tarea que no entrañe riesgo para su salud.
+
+Dichas evaluaciones de salud deben ser realizadas por médicos que posean capacitación en salud ocupacional y medicina de montaña.
+
+#### Artículo 110
+
+b.5.- Los trabajadores que no cumplan con la definición de expuestos del presente reglamento, pero que realizan labores a más de 3.000 msnm, en forma esporádica o puntual, deben realizarse una evaluación de salud anual, la que se efectuará en conformidad con lo señalado en la Guía Técnica referida en los artículos anteriores. Estas evaluaciones anuales serán de cargo del empleador.
+
+#### Artículo 110
+
+b.6.- Todos los campamentos que estén ubicados a más de 3.000 msnm deberán disponer de medidas para la mitigación de la hipobaria, de oxigenación, humidificación, o las disponibles por los avances científicos y tecnológicos, que simulen las condiciones ambientales bajo los 3.000 msnm, las que deberán ser aplicadas a todos los trabajadores que presenten alguna alteración fisiológica aguda o crónica. La administración de oxígeno para un trabajador deberá ser aplicada por personal de salud, de acuerdo al procedimiento establecido en la Guía Técnica señalada en esta normativa.
+
+#### Artículo 110
+
+b.7.- Toda faena o lugar de trabajo situado a más de 3.000 msnm que emplee más de 50 trabajadores en total, cualquiera sea su empleador o calidad de contratación, debe contar con un policlínico con disponibilidad de atención diurna y nocturna, dotado del personal de salud, según resulte de la aplicación de las siguientes tablas:
+
+El número y calidad profesional del personal del policlínico debe reajustarse cada vez que exista una modificación de más de un 10% de alguna de las variables de la tabla tenidas en consideración para la fijación del mismo.
+
+Los paramédicos del policlínico deberán poseer conocimientos de salud ocupacional, medicina de montaña y emergencias médicas.
+
+Las enfermeras/os deberán tener formación en salud ocupacional y urgencia médica, además de conocimientos en medicina de montaña.
+
+Los médicos deben poseer capacitación en salud ocupacional y medicina de urgencia y conocimientos de medicina de montaña.
+
+La capacitación específica indicada para el personal de enfermería y paramédico puede ser impartida por el médico.
+
+Adicionalmente, aquellos lugares de trabajo que se encuentren a más de cincuenta kilómetros de un hospital o policlínico y tengan un puntaje total igual o mayor de 8, de acuerdo con la tabla de este artículo, deben tener acceso al uso de, a lo menos, una ambulancia básica M1 disponible las 24 horas del día, todos los días en que se desarrollen labores o haya personas en el lugar.
+
+#### Artículo 110
+
+b.8.- Los policlínicos en los lugares de trabajo en altitud deben poseer la correspondiente autorización sanitaria otorgada por la Secretaría Regional Ministerial de Salud correspondiente al lugar en que se encuentra ubicado y contar con los siguientes elementos, diseñados de acuerdo con la Guía Técnica referida anteriormente:
+
+. Un protocolo de procedimientos de policlínico que se refiera a la vigilancia y monitorización y seguimiento de la aclimatación a la gran altitud de los trabajadores; seguimiento y compensación de patologías crónicas; evaluación inicial al llegar a la faena o lugar de trabajo por primera vez y luego de 6 meses sin haber subido a gran altitud, y seguimiento a las 24 y 48 horas posteriores a la llegada y reevaluación anual.
+
+. Arsenal terapéutico.
+
+#### Artículo 110
+
+b.9.- Los lugares de trabajo o faenas deben contar con una brigada de emergencia, cuyo número será determinado por la Administración de acuerdo con la extensión de las faenas y el número de trabajadores, a la cual le corresponderá actuar sólo en caso de emergencia para atender al accidentado hasta que obtenga atención profesional. Sus integrantes deben recibir instrucción en forma anual, de dos horas cronológicas de duración, en las siguientes materias:
+
+. Atención de accidentados, primeros auxilios, manejos básicos de politraumatizados y extricación.
+
+. Precauciones estándares en la atención de salud, como protección de patógenos en la sangre.
+
+. Conceptos básicos de alteraciones fisiológicas y patologías producidas y relacionadas a la altura.
+
+. Conceptos básicos de espacio confinado, fugas químicas, incendio y derrames.
+
+Estos trabajadores/as deberán actuar sólo en caso de emergencia para atender al accidentado hasta que éste reciba atención profesional.
+
+#### Artículo 110
+
+b.10.- Los administradores del seguro de la ley N° 16.744 deberán notificar a la Autoridad Sanitaria Regional y al Departamento de Salud Ocupacional de la División de Políticas Públicas Saludables y Promoción del Ministerio de Salud, sobre los casos de enfermedad y accidentes relacionados al trabajo en gran altitud.
+
+La información recogida debe ser enviada el último día hábil del mes de abril de cada año, por medios electrónicos o manuales, en el formato que establezca el Ministerio de Salud. Dicha información debe contener:
+
+- Accidentes del trabajo leves, medianos, graves y fatales detallando:
+
+. Sexo
+
+. Edad
+
+. Tipo y agente accidente
+
+. Hora
+
+. Día de la semana (N° de día del turno)
+
+. Esquema de turno
+
+. Parte del cuerpo afectada
+
+. Región del país y
+
+. Actividad económica.
+
+- Enfermedades profesionales detallando:
+
+. Diagnósticos
+
+. Agentes
+
+. Edad
+
+. Sexo
+
+. Región del país y
+
+. Actividad económica
+
 ## Título V
 
 De los Límites de Tolerancia Biológica
@@ -1292,9 +1470,11 @@ c. Límite de Tolerancia Biológica: cantidad máxima permisible en el trabajado
 
 Los límites de tolerancia biológica son los que se indican en el siguiente listado:
 
-> **Nota.** El Nº 17 del Decreto 201, Salud, publicado el 05.07.2001, modificó el presente listado, respecto de los agentes químicos que se indican en la presente tabla, sustituyéndose el indicador biológico y el límite de tolerancia biológica, respectivamente, en los términos indicados en el Cuadro 1.
+.
 
-> **Nota.** NOTA 1 El Nº 2 del Decreto 4, Salud, publicado el 22.02.2011, agregó al presente listado, entre los agentes químicos Benceno y Cadmio, lo siguiente, según lo indicado en el Cuadro 2.
+*Previo a la toma de muestra debe hacerse una encuesta sobre ingesta del trabajador de alimentos o fármacos que puedan incidir en el resultado de la misma.
+
+> **Nota.** NOTA 1 El numeral 4° del Decreto 30, Salud, publicado el 14.02.2018, modifica la tabla de límites de tolerancia biológica, contenida en el presente artículo, en el sentido de agregar a continuación del renglón existente para "cianuro", el siguiente:Ciclofosfamida Ciclofosfamida Orina 2,3 ug/L Al término del tercer día de la semana laboral. En el caso de sistema de turnos la muestra se debe tomar al final de la jornada laboral.
 
 #### Artículo 114
 
@@ -1356,9 +1536,11 @@ b) Tener pisos, paredes y techos con aislación suficiente y contar con una vent
 
 c) Tener una cama o camarote para cada trabajador, confeccionados de material resistente y dotados de colchón y almohada en buenas condiciones.
 
-d) Tener la amplitud necesaria que evite el hacinamiento.
+d) Disponer de la amplitud necesaria que evite el hacinamiento procurando, por cada trabajador, un volumen mínimo de 10 m³.
 
-Será responsabilidad del empleador adoptar las medidas necesarias para que los dormitorios se mantengan limpios. Los campamentos deberán contar con duchas.
+Los campamentos, respecto de los baños y de su emplazamiento, deberán cumplir con lo dispuesto en los incisos cuarto y quinto del artículo 9 del presente reglamento.
+
+Será responsabilidad del empleador adoptar las medidas necesarias para que los dormitorios se mantengan limpios.
 
 > **Nota.** El Nº 2 del DTO 57, Salud, publicado el 07.11.2003, dispone que la norma que introduce, entrará en vigencia 90 días después de su publicación.
 
