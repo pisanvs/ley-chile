@@ -60,7 +60,7 @@ Para determinar las tarifas que establece este Título, se calculará separadame
 
 Las tarifas se calcularán considerando los costos de los sistemas correspondientes a las diversas etapas del servicio sanitario, optimizando el uso de los recursos.
 
-Se entenderá por sistema a aquellas instalaciones, fuentes o cuerpos receptores y demás elementos, factibles de interactuar, asociados a las diversas etapas del servicio sanitario, que debe considerarse como un todo para minimizar los costos de largo plazo de proveer el servicio sanitario.
+Se entenderá por sistema a aquellas instalaciones, fuentes o cuerpos receptores y demás elementos, factibles de interactuar, asociados a las diversas etapas del servicio sanitario, que debe considerarse como un todo para minimizar los costos de largo plazo de proveer el servicio sanitario. Deberá considerarse el menor costo que exista en cada etapa producto de la recolección, tratamiento y disposición separada de las aguas grises, para lo cual los procesos de fijación de tarifas deberán determinar un factor de descuento que dé cuenta del menor uso de las redes y sistemas de recolección, tratamiento y disposición de aguas servidas.
 
 #### Artículo 7
 
