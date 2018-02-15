@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE ATACAMA, A LA "I. MUNICIPALIDAD DE HUASCO"
+
+Mediante decreto exento Nº E-48, de 10 de enero de 2018, el Ministerio de Bienes Nacionales otorgó en concesión gratuita, a la "I. Municipalidad de Huasco", RUT Nº 69.030.700-6, el inmueble fiscal ubicado en calle Independencia Proyectada S/Nº, sector Carrizal Bajo, comuna y provincia de Huasco, Región de Atacama; Rol Servicio de Impuestos Internos Nº 320-3; amparado por inscripción global a nombre del Fisco a fs. 336 vta. Nº 257 del Registro de Propiedad del Conservador de Bienes Raíces de Copiapó, correspondiente al año 1940; a fs. 73 vta. Nº 58 del Registro de Propiedad del Conservador de Bienes Raíces de Freirina, correspondiente al año 1940 y a fs. 192 Nº 178 del Registro de Propiedad del Conservador de Bienes Raíces de Vallenar, correspondiente al año 1940; singularizado en el Plano Nº 03304-2406-C.U.; con una superficie aproximada de 3.500,43 m2. La concesión se otorga por un plazo de 10 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para el funcionamiento de una Planta de Tratamiento de aguas servidas para el sector de Carrizal Bajo, que contempla un completo sistema de recolección y disposición final de aguas servidas. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Magdalena Badilla Rodríguez, Jefa de División Jurídica.
