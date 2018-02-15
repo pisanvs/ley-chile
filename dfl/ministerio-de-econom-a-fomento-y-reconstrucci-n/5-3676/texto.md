@@ -164,9 +164,13 @@ h) Elaborar y difundir información sobre el sector pesquero;
 
 i) Promover y coordinar la capacitación profesional de los medios humanos del sector pesquero;
 
-j) Regular las actividades de pesca deportiva o recreativa y caza submarina, y
+j) Regular las actividades de pesca deportiva o recreativa y caza submarina;
 
-k) Las demás que le confieren las leyes.
+k) Promover y fomentar la investigación y restauración de hábitat para especies hidrobiológicas de importancia para la pesca recreativa, así como la implementación y ejecución de proyectos de promoción, difusión, administración, vigilancia y fiscalización para esta actividad;
+
+l) Promover y fomentar el consumo de recursos hidrobiológicos, pudiendo impulsar el desarrollo, implementación y ejecución de proyectos de promoción de éste, y
+
+m) Las demás que le confieren las leyes.
 
 > **Nota.** El artículo 122 de la LEY 18892, publicada el 23.12.1989, dispuso la derogación de las letras d) y g) de este artículo, a partir del 06.09.1991. El artículo 1° N° 151 de la LEY 19079, publicada el 06.09.1991 modificó el citado artículo 122 eliminando la referencia a estas letras.
 
