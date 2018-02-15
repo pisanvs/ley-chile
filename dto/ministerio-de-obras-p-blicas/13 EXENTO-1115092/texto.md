@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 13 de 24 de enero de 2018, se modificó el numeral segundo del Decreto MOP (Exento) N° 745 de 15 de septiembre de 2014, que ordenó la expropiación del Lote N° 1, en la parte que se refiere al nombre del propietario y rol de avalúo, según certificado de avalúo emitido por el Servicio de Impuestos Internos, quedando como a continuación se indica: LOTE 1, GAJARDO SANTANDER MARTA ROSA Y OTRO, superficie 60 m2., rol de avalúo 604-20, Comuna de Molina. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
