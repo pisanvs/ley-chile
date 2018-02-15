@@ -674,7 +674,15 @@ Título no serán aplicables a los órganos
 
 del Estado señalados en el inciso
 
-segundo del artículo 21 de esta ley.
+segundo del artículo 21 de esta ley, con
+
+excepción de los gobiernos regionales,
+
+los que deberán constituir consejos
+
+de la sociedad civil según las normas
+
+de este Título.
 
 Dichos órganos podrán establecer
 

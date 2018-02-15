@@ -278,7 +278,11 @@ Para dar cumplimiento a las acciones señaladas en el inciso precedente, la Dire
 
 Sin perjuicio de las facultades de la Dirección, ésta se coordinará con las municipalidades respectivas y los propietarios colindantes, para los efectos del cuidado y mantención de la faja y su vegetación.
 
-No obstante lo establecido en este artículo esta Dirección tendrá a su cargo la construcción de puentes urbanos, cuando se lo encomienden las respectivas Municipalidades, conviniendo con éstas el financiamiento correspondiente.
+No obstante lo establecido en este artículo esta Dirección tendrá a su cargo la construcción de puentes urbanos, cuando se lo encomienden las respectivas Municipalidades o Gobiernos
+
+Regionales, conviniendo con éstas
+
+el financiamiento correspondiente.
 
 Le corresponderá también la aprobación y fiscalización del estudio, proyección y construcción de puentes y badenes urbanos en los cauces naturales de corrientes de uso público.
 

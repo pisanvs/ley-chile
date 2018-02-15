@@ -42,7 +42,69 @@ d) Aplicar las disposiciones sobre transporte y tránsito públicos, dentro de l
 
 e) Aplicar las disposiciones sobre construcción y urbanización, en la forma que determinen las leyes, sujetándose a las normas técnicas de carácter general que dicte el ministerio respectivo, y
 
-f) El aseo y ornato de la comuna.
+f) El aseo y ornato de la
+
+comuna. Respecto a los residuos
+
+domiciliarios, su recolección,
+
+transporte y/o disposición
+
+final corresponderá a las
+
+municipalidades, con excepción de
+
+las que estén situadas en un área
+
+metropolitana y convengan con el
+
+respectivo gobierno regional que
+
+asuma total o parcialmente estas
+
+tareas. Este último deberá contar
+
+con las respectivas autorizaciones
+
+de las Secretarías Regionales
+
+Ministeriales de Vivienda y
+
+Urbanismo, de Medio Ambiente
+
+y de Salud.
+
+En estos casos, la
+
+municipalidad transferirá
+
+al gobierno regional el total o
+
+la parte proporcional de los
+
+derechos de aseo cobrados que
+
+correspondan a las tareas asumidas
+
+por éste, según se determine en el
+
+acuerdo respectivo. El alcalde que
+
+no cumpla con este deber podrá ser
+
+sancionado por el tribunal electoral
+
+regional competente por notable
+
+abandono de deberes o mediante la
+
+aplicación de alguna de las medidas
+
+disciplinarias dispuestas en las
+
+letras a), b) o c) del artículo 120
+
+de la ley N° 18.883.
 
 #### Artículo 4º
 
@@ -160,6 +222,140 @@ El alcalde informará al concejo sobre la adjudicación de las concesiones, de l
 
 Con todo, lo dispuesto en los incisos anteriores no será aplicable a los permisos municipales, los cuales se regirán por lo establecido en los artículos 36 y 63, letra g), de esta ley.
 
+#### Artículo 8º bis
+
+Los gobiernos
+
+regionales podrán celebrar
+
+convenios formales
+
+anuales o plurianuales
+
+de programación de inversión
+
+pública con municipalidades, cuyo
+
+cumplimiento será obligatorio.
+
+La ley orgánica constitucional
+
+sobre gobierno y administración regional
+
+establecerá las normas generales que
+
+regularán la suscripción, ejecución y
+
+exigibilidad de los referidos convenios.
+
+Dichos convenios de programación
+
+definirán las acciones relacionadas con
+
+los proyectos de inversión que se
+
+disponen a realizar dentro de un plazo
+
+determinado. Para lo anterior, deberán
+
+especificar el o los proyectos sobre los
+
+cuales se aplicarán, las responsabilidades
+
+y obligaciones de las partes, las metas
+
+por cumplir, los procedimientos de
+
+evaluación y las normas de
+
+revocabilidad. Asimismo, deberán
+
+incluir, cuando corresponda, cláusulas
+
+que permitan reasignar recursos
+
+entre proyectos.
+
+A los convenios de programación se
+
+podrán incorporar otras entidades públicas
+
+o privadas, nacionales, regionales o
+
+locales, cuyo concurso o aporte se
+
+estime necesario para la mayor
+
+eficiencia en su ejecución.
+
+En caso de tener carácter
+
+plurianual, las municipalidades
+
+deberán contemplar en sus
+
+respectivos presupuestos la
+
+estimación de los recursos
+
+correspondientes al año pertinente
+
+según las obligaciones adquiridas
+
+al momento de la suscripción.
+
+Los convenios a que se refiere
+
+este artículo deberán ser sancionados
+
+mediante decreto supremo expedido bajo
+
+la fórmula establecida en el artículo
+
+70 del decreto ley Nº 1.263, del
+
+Ministerio de Hacienda, de 1975. Los
+
+proyectos que se incluyan en dichos
+
+convenios deberán cumplir con lo
+
+dispuesto en el artículo 19 bis
+
+del mencionado decreto ley.
+
+#### Artículo 8º ter
+
+Los
+
+gobiernos regionales podrán
+
+suscribir convenios de
+
+programación territorial,
+
+con una o más municipalidades,
+
+de carácter anual o plurianual,
+
+destinados a formalizar los acuerdos
+
+para la ejecución de proyectos
+
+de impacto comunal o intercomunal
+
+en los plazos y con los aportes
+
+financieros de las partes que en
+
+cada caso se acuerden. Estos
+
+convenios deberán ser sancionados
+
+mediante resolución del gobierno
+
+regional respectivo.
+
 #### Artículo 9º
 
 Las municipalidades deberán actuar, en todo caso, dentro del marco de los planes nacionales y regionales que regulen la respectiva actividad.
@@ -230,15 +426,13 @@ Para garantizar el cumplimiento de los fines de las municipalidades y su adecuad
 
 4.- Un cincuenta por ciento del derecho establecido en el Nº7 del artículo 41 del Decreto Ley Nº 3.063, de 1979, Ley de Rentas Municipales, en la transferencia de vehículos con permisos de circulación;
 
-5.- El monto total del impuesto territorial que paguen los inmuebles fiscales afectos a dicho impuesto, conforme lo establece la Ley Nº 17.235; y por un aporte fiscal que se considerará anualmente en la Ley de Presupuestos, cuyo monto será equivalente en pesos a 218.000 unidades tributarias mensuales, a su valor del mes de agosto del año precedente, y
+5.- El monto total del impuesto territorial que paguen los inmuebles fiscales afectos a dicho impuesto, conforme lo establece la Ley Nº 17.235; y por un aporte fiscal que se considerará anualmente en la Ley de Presupuestos, cuyo monto será equivalente en pesos a 1.052.000 unidades tributarias mensuales, a su valor del mes de agosto del año precedente, y
 
 6.- El cien por ciento de lo recaudado por multas impuestas por los Juzgados de Policía Local, por infracciones o contravenciones a las normas de tránsito, detectadas por medio de equipos de registro de infracciones.
 
 No obstante, tratándose de multas por infracciones o contravenciones al artículo 118 bis de la ley Nº 18.290, sólo el 70% de ellas pasarán a integrar el Fondo Común Municipal, quedando el porcentaje restante a beneficio de la municipalidad en que se hubiere aplicado la multa respectiva. Con todo, tratándose de las multas impuestas por infracción a la prohibición establecida en el inciso primero del artículo 114 del decreto con fuerza de ley N° 1, del Ministerio de Justicia, de 2007, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.290, sólo el cincuenta por ciento de lo recaudado ingresará al Fondo Común Municipal, pasando el cincuenta por ciento restante a beneficio municipal.
 
 La distribución de este Fondo se sujetará a los criterios y normas establecidos en la Ley de Rentas Municipales.
-
-> **Nota.** La referencia efectuada en el inciso tercero, número 6 al artículo 118 bis de la Ley N° 18.290, debe entenderse efectuada al artículo 114 del decreto con fuerza de ley N° 1, del Ministerio de Justicia, de 2007, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.290, en razón de su contenido.
 
 ### Párrafo 4º
 
@@ -964,7 +1158,15 @@ h) Otorgar subvenciones y aportes, para financiar actividades comprendidas entre
 
 i) Transigir judicial y extrajudicialmente;
 
-j) Celebrar los convenios y contratos que involucren montos iguales o superiores al equivalente a 500 unidades tributarias mensuales, y que requerirán el acuerdo de la mayoría absoluta del concejo; no obstante, aquellos que comprometan al municipio por un plazo que exceda el período alcaldicio, requerirán el acuerdo de los dos tercios de dicho concejo. Asimismo, suscribir los convenios sobre aportes urbanos reembolsables que regula la Ley General de Urbanismo y Con
+j) Suscribir los convenios de
+
+programación a que se refieren los
+
+artículos 8º bis y 8º ter y
+
+celebrar los convenios y
+
+contratos que involucren montos iguales o superiores al equivalente a 500 unidades tributarias mensuales, y que requerirán el acuerdo de la mayoría absoluta del concejo; no obstante, aquellos que comprometan al municipio por un plazo que exceda el período alcaldicio, requerirán el acuerdo de los dos tercios de dicho concejo. Asimismo, suscribir los convenios sobre aportes urbanos reembolsables que regula la Ley General de Urbanismo y Construcciones;
 
 k) Otorgar concesiones municipales, renovarlas y ponerles término. En todo caso, las renovaciones sólo podrán acordarse dentro de los seis meses que precedan a su expiración, aún cuando se trate de concesiones reguladas en leyes especiales;
 
@@ -1142,15 +1344,15 @@ Tampoco podrán ser candidatos a alcalde o a concejal las personas que se hallen
 
 #### Artículo 75
 
-Los cargos de concejales serán incompatibles con los de miembro de los consejos económicos y sociales provinciales y consejos comunales de
-
-organizaciones de la sociedad civil, así como con las funciones públicas señaladas en las letras a) y b) del artículo anterior. También lo serán con todo empleo, función o comisión que se desempeñe en la misma municipalidad y en las corporaciones o fundaciones en que ella participe, con excepción de los cargos profesionales no directivos en educación, salud o servicios municipalizados. En el caso de que estos últimos profesionales desempeñen a su vez el cargo de concejal, el alcalde deberá respetar la autonomía en el ejercicio de las funciones de los concejales, especialmente la facultad de fiscalización.
+Los cargos de concejales serán incompatibles con los de miembro de los consejos comunales de organizaciones de la sociedad civil, así como con las funciones públicas señaladas en las letras a) y b) del artículo anterior. También lo serán con todo empleo, función o comisión que se desempeñe en la misma municipalidad y en las corporaciones o fundaciones en que ella participe.
 
 Tampoco podrán desempeñar el cargo de concejal:
 
-a) Los que durante el ejercicio de tal cargo incurran en alguno de los supuestos a que alude la letra c) del artículo 74, y
+a) Los que durante el ejercicio de tal cargo incurran en alguno de los supuestos a que alude la letra c) del artículo 74;
 
-b) Los que durante su desempeño actuaren como abogados o mandatarios en cualquier clase de juicio contra la respectiva municipalidad.
+b) Los que durante su desempeño actuaren como abogados o mandatarios en cualquier clase de juicio contra la respectiva municipalidad; y
+
+c) Los que tengan, respecto del alcalde de la misma municipalidad, la calidad de cónyuge, hijos, adoptados o parientes hasta el segundo grado de consanguinidad o de afinidad inclusive.
 
 Sin perjuicio de lo establecido en la presente ley, a los concejales no les será aplicable la incompatibilidad establecida en el inciso primero del artículo 86 de la Ley Nº 18.834.
 

@@ -3556,11 +3556,11 @@ Tratándose de la situación contemplada en el inciso tercero del mismo artícul
 
 Pluralidad de sujetos. Si aparecieren implicados individuos que no gozaren de fuero, se seguirá adelante el procedimiento en relación con ellos.
 
-### Párrafo 2º — Intendentes , Gobernadores y Presidentes de Consejos Regionales
+### Párrafo 2º — Gobernadores regionales, delegados presidenciales regionales o delegados presidenciales provinciales
 
 #### Artículo 423
 
-Remisión a normas del Párrafo 1º. El procedimiento establecido en el Párrafo 1º de este Título es aplicable a los casos de desafuero de un intendente, de un gobernador o de un presidente de consejo regional, en lo que fuere pertinente.
+Remisión a normas del Párrafo 1º. El procedimiento establecido en el Párrafo 1º de este Título es aplicable a los casos de desafuero de gobernadores regionales, delegados presidenciales regionales o delegados presidenciales provinciales, en lo que fuere pertinente.
 
 ## Título V
 

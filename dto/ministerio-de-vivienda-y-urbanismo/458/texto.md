@@ -40,8 +40,6 @@ Le corresponderá, igualmente, estudiar las modificaciones que requiera la Orden
 
 Para los efectos indicados, podrá oir a los respectivos Colegios Profesionales y asesorarse por los técnicos que estime conveniente.
 
-Le corresponderá, asimismo, aprobar por decreto supremo los Planes Regionales de Desarrollo Urbano y los Planes Reguladores Intercomunales.
-
 Le corresponderá, también, aprobar por decreto supremo las Normas Técnicas que confeccionare el Instituto Nacional de Normalización y los Reglamentos de Instalaciones Sanitarias de Agua Potable y Alcantarillado, y de Pavimentación.
 
 Los decretos supremos mencionados en los dos últimos incisos precedentes, se dictarán por el Ministerio de Vivienda y Urbanismo, por orden del Presidente de la República.
@@ -274,7 +272,7 @@ De la Planificación Urbana en particular
 
 #### Artículo 28°
 
-La planificación urbana se efectuará en cuatro niveles de acción, que corresponden a cuatro tipos de áreas: nacional, regional, intercomunal y comunal.
+La planificación urbana se efectuará en tres niveles de acción, que corresponden a tres tipos de áreas: nacional, intercomunal y comunal.
 
 Cada instrumento de planificación urbana tendrá un ámbito de competencia propio en atención al área geográfica que abarca y a las materias que puede regular, en el cual prevalecerá sobre los demás.
 
@@ -308,23 +306,23 @@ Corresponderá al Ministerio de la Vivienda y Urbanismo la Planificación del de
 
 Estos instrumentos, sancionados por la autoridad correspondiente, tendrán fuerza legal en su aplicación, incluso para las reparticiones públicas.
 
-### Párrafo 2° — .- De la Planificación Urbana Regional
+### Párrafo 2° — .- De la Planificación Urbana Regional Derogado.
 
 #### Artículo 30°
 
-Se entenderá por Planificación Urbana Regional aquella que orienta el desarrollo de los centros urbanos de las regiones.
+Derogado.
 
 #### Artículo 31°
 
-La Planificación Urbana Regional se realizará por medio de un Plan Regional de Desarrollo Urbano, que fijará los roles de los centros urbanos, sus áreas de influencia recíproca, relaciones gravitacionales, metas de crecimiento, etc.
+Derogado.
 
 #### Artículo 32°
 
-El Plan Regional de Desarrollo Urbano será confeccionado por las Secretarías Regionales del Ministerio de la Vivienda y Urbanismo, de acuerdo con las políticas regionales de desarrollo socio-económico.
+Derogado.
 
-#### Artículo 33
+#### Artículo 33°
 
-Los planes regionales de desarrollo urbano serán aprobados por el consejo regional y promulgados por el intendente respectivo, debiendo sus disposiciones incorporarse en los planes reguladores metropolitanos, intercomunales y comunales.
+Derogado.
 
 ### Párrafo 3° — .- De la Planificación Urbana Intercomunal
 
@@ -360,7 +358,7 @@ Previa autorización de la Secretaría Regional correspondiente, un grupo de Mun
 
 #### Artículo 37
 
-Los Planes Reguladores Intercomunales serán aprobados por decreto supremo del Ministerio de Vivienda y Urbanismo, dictado por orden del Presidente de la República, previa autorización del Intendente respectivo, y sus disposiciones serán obligatorias en la elaboración de los Planes Reguladores Comunales.
+Los Planes Reguladores Intercomunales o Metropolitanos serán aprobados por el consejo regional y promulgados por resolución del gobernador regional, y sus disposiciones serán obligatorias en la elaboración de los Planes Reguladores Comunales.
 
 #### Artículo 38°
 
@@ -476,7 +474,7 @@ En las comunas en que no exista Plan Regulador podrán estudiarse Planes Seccion
 
 Deberán contar con el Plan Regulador Comunal:
 
-a) las comunas que estén sujetas a Planificación Urbana-Regional o Urbana-Intercomunal;
+a) las comunas que estén sujetas a Planificación urbana intercomunal;
 
 b) todos aquellos centros poblados de una comuna que tengan una población de 7.000 habitantes o más;
 
@@ -528,7 +526,7 @@ Cuando se amplíe el límite urbano de un Plan Regulador, se definirá simultán
 
 Fuera de los límites urbanos establecidos en los Planes Reguladores no será permitido abrir calles, subdividir para formar poblaciones, ni levantar construcciones, salvo aquellas que fueren necesarias para la explotación agrícola del inmueble, o para las viviendas del propietario del mismo y sus trabajadores, o para la construcción de conjuntos habitacionales de viviendas sociales o de viviendas de hasta un valor de 1.000 unidades de fomento, que cuenten con los requisitos para obtener el subsidio del Estado.
 
-Corresponderá a la Secretaría Regional de Vivienda y Urbanismo respectiva cautelar que las subdivisiones y construcciones en terrenos rurales, con fines ajenos a la agricultura, no originen nuevos núcleos urbanos al margen de la Planificación urbana-regional.
+Corresponderá a la Secretaría Regional de Vivienda y Urbanismo respectiva cautelar que las subdivisiones y construcciones en terrenos rurales, con fines ajenos a la agricultura, no originen nuevos núcleos urbanos al margen de la Planificación urbana intercomunal.
 
 Con dicho objeto, cuando sea necesario subdividir y urbanizar terrenos rurales para complementar alguna actividad industrial con viviendas, dotar de equipamiento a algún sector rural, o habilitar un balneario o campamento turístico, o para la construcción de conjuntos habitacionales de viviendas sociales o de viviendas de hasta un valor de 1.000 unidades de fomento, que cuenten con los requisitos para obtener el subsidio del Estado, la autorización que otorgue la Secretaría Regional del Ministerio de Agricultura requerirá del informe previo favorable de la Secretaría Regional del Ministerio de Vivienda y Urbanismo. Este informe señalará el grado de urbanización que deberá tener esa división predial, conforme a lo que establezca la Ordenanza General de Urbanismo y Construcciones.
 
