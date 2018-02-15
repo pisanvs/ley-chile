@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A LA "I. MUNICIPALIDAD DE SAN FELIPE"
+
+Mediante decreto exento Nº E-46, de 10 de enero de 2018, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "I. Municipalidad de San Felipe", RUT Nº 69.050.600-9, los inmuebles fiscales que corresponden al Lote 1-B y Lote 2-B, ubicados en Curimón, Fundo La Peña, Camino Público S/Nº, comuna de San Felipe, provincia de San Felipe de Aconcagua, Región de Valparaíso; Rol Servicio de Impuestos Internos N os 400-9 y 400-13; amparados por inscripción en mayor cabida a nombre del Fisco a fs. 239 vta. Nº 222 del Registro de Propiedad del Conservador de Bienes Raíces de San Felipe, correspondiente al año 1973; singularizados en el Plano N° 05701-1974-C.R.; con una superficie aproximada de 19,54 hás. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para desarrollar un Proyecto Deportivo Recreativo al aire libre, donde se cultiven disciplinas deportivas tradicionales tales como el atletismo, treking y actividades deportivas criollas y/o rurales, generando ambientes naturales a través de la creación de viveros, huertos familiares y comunitarios. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Magdalena Badilla Rodríguez, Jefa de División Jurídica.
