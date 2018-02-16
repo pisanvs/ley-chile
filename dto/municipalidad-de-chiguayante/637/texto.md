@@ -34,7 +34,7 @@ La presente Ordenanza tiene por objeto establecer las normas referentes a límit
 
 #### Artículo 2
 
-Para efectos del ordenamiento territorial comunal en el territorio de la Comuna de Chiguayante se distingue dos tipos de áreas: área urbana y área rural. El área urbana distingue a su vez, tres tipos de áreas, el área urbana consolidada, el área de extensión urbana y el área especial.
+Para los efectos del ordenamiento territorial en el área urbana de este instrumento, se distinguirán cuatro tipos de áreas: Área Urbana Consolidada, Área de Crecimiento Urbano, Áreas Especiales y Áreas Restringidas al Desarrollo Urbano.
 
 El área urbana queda determinada por el límite urbano, constituido por una línea poligonal cerrada identificada por los puntos 1, 2, 3, 4, 5, 6 y 7 de acuerdo a la descripción de puntos y tramos descrita en el artículo 6 de esta Ordenanza.
 
@@ -42,23 +42,11 @@ El área rural está conformada por el resto del territorio comunal, no incluido
 
 En atención a la facultad que le otorga al Municipio la letra b) del Artículo 3 y el Artículo 24 de la Ley Orgánica Constitucional de Municipalidades, la aprobación definitiva de proyectos con destino diferente al agrícola, corresponderá a la Municipalidad, sin perjuicio de las aprobaciones que le corresponda ejercer a otros órganos de la administración del Estado.
 
-#### Artículo 3
-
-Todas las materias atingentes al desarrollo urbano se encuentren o no regladas por la presente Ordenanza, se regirán por las disposiciones de la Ley General de Urbanismo y Construcciones, de la Ordenanza General de Urbanismo y Construcciones, del Plan Regulador Metropolitano de Concepción, Ley de Bases del Medio Ambiente, Plan Maestro de Aguas Lluvia y demás disposiciones legales y reglamentarias vigentes sobre la materia, según corresponda.
-
-#### Artículo 4
-
-De acuerdo a lo dispuesto en la Ley General de Urbanismo y Construcciones, corresponderá a la Dirección de Obras Municipales de Chiguayante la responsabilidad en la aplicación de las normas de la presente Ordenanza y a la Secretaría Regional Ministerial de Vivienda y Urbanismo la supervigilancia de su cumplimiento y la interpretación técnica de sus disposiciones.
-
-#### Artículo 5
-
-La inobservancia de las disposiciones de esta Ordenanza será sancionada de acuerdo a lo previsto en los artículos 20 al 25 de la Ley General de Urbanismo y Construcciones.
-
 ## Capítulo II
 
 Descripción del Límite Urbano
 
-#### Artículo 6
+#### Artículo 3
 
 El límite urbano enunciado en el Artículo 2 de esta Ordenanza queda definido por los puntos y tramos que se describen a continuación:
 
@@ -170,57 +158,11 @@ Definiciones y Normas Generales
 
 Para la definición de los siguientes términos utilizados en esta ordenanza: Coeficiente de ocupación de suelo, coeficiente de constructibilidad, densidad, edificación aislada, edificación pareada, edificación continua, y antejardín, se estará a lo establecido en la Ordenanza General de Urbanismo y Construcciones.
 
-#### Artículo 8
-
-Rasantes y distanciamientos: Para la aplicación de rasantes y distanciamientos se estará a lo establecido en cada una de las zonas definidas de la presente ordenanza y a lo dispuesto en el artículo 2.6.3. de la Ordenanza General de Urbanismo y Construcciones, según corresponda.
-
 #### Artículo 9
 
 Adosamientos: Los adosamientos se ajustarán a los contenidos indicados en el Artículo 2.6.2 de la Ordenanza General de Urbanismo y Construcciones y a las condiciones específicas expuestas para cada zona, según el Artículo 26 de la presente Ordenanza Local.
 
-#### Artículo 10
-
-Cierros exteriores e interiores: Todos los sitios emplazados dentro del área territorial normada deberán disponer de cierros de carácter definitivo, con una altura máxima de 2,00 metros, levantados en los deslindes que enfrenten espacios públicos y/o privados, a excepción de norma explícita de esta ordenanza que lo prescinda o lo prohíba. La medición se realizará desde la cota nivel de acera o del terreno natural, según corresponda. Para el caso de terrenos con pendiente superior a 15%, la altura máxima establecida podrá incrementarse un 25%.
-
-La Dirección de Obras Municipales podrá establecer las características técnicas mínimas de estos cierros, siendo de responsabilidad de los propietarios mantenerlos en buen estado de conservación.
-
-Cuando se consulten nuevos cierros para edificaciones que enfrentan a espacios públicos configurados, éstos deberán adoptar la altura y características predominantes del sector o cuadra, según sea el caso, no pudiendo superar la altura de 2,00 metros, medidos desde el nivel natural del terreno. Su transparencia no podrá ser inferior al 50% de su superficie total, pudiéndose aumentar este porcentaje de acuerdo a las exigencias que se establecen en el artículo 26 de esta ordenanza para cada zona.
-
-En los sitios esquina, los cierros deberán formar ochavos: no inferiores a 2 metros, para intersecciones entre pasajes y de pasajes con calles; y no inferiores a 4 metros, para intersecciones entre calles. Estas longitudes podrán ser aumentadas hasta 8,00 metros, según lo disponga la Dirección de Obras Municipales en virtud a la intensidad del tránsito y al ángulo y ancho de las calles en las intersecciones.
-
-En los nuevos loteos y edificaciones que consideren antejardines, los cierros laterales de esta faja deberán ser transparentes en un 100%. La conformación de los cierros sobre líneas oficiales podrán ser obligatorios cuando enfrenten a las calles existentes y/o propuestas del conjunto, según lo determine la Dirección de Obras Municipales, a excepción de norma explícita de esta ordenanza que la prescinda o prohíba.
-
-#### Artículo 11
-
-Antejardines: Los antejardines y sus dimensiones serán los establecidos en el artículo 26 de la presente ordenanza. Los cierros laterales de la faja de antejardín deberán ser siempre transparentes en un 100%. Su profundidad no deberá ser inferior a 2,00 metros. En los sitios esquina afectados por antejardines en dos de sus lados, el Director de Obras Municipales podrá reducir las exigencias que lo afecten hasta en un 100% en la calle o pasaje de menor jerarquía, para la franja que exceda los 2,00 metros mínimo, según corresponda. Desde el segundo piso se permitirán cuerpos salientes sobre el antejardín, desde el plano vertical de la línea de edificación hasta un metro y distanciados de los deslindes, según artículo 2.6.3. de la Ordenanza General de Urbanismo y Construcciones para las edificaciones aisladas.
-
-Los predios que enfrenten áreas verdes públicas deberán respetar por estos costados, la faja de antejardín mínimo exigida, según la zona en que se emplacen.
-
-Sin perjuicio de lo anterior, la Dirección de Obras podrá excepcionalmente y por una vez disminuir hasta en un 100% la exigencia de antejardines en proyectos de obra nueva, obras menores y remodelaciones, cuando se trata de edificaciones que se vean afectadas por la ejecución de proyectos de infraestructura vial.
-
-#### Artículo 12
-
-Uso del Suelo: Los usos del suelo dentro del territorio comunal son los que se definen en cada una de las zonas descritas en el artículo 26 de la presente ordenanza, de acuerdo a la tipología establecida en el artículo 2.1.24 de la Ordenanza General de Urbanismo y Construcciones. Sin perjuicio de lo anterior, los tipos de uso de suelo de espacios públicos y de áreas verdes se entenderán siempre permitidos.
-
-En el caso de usos de suelo no definidos en el artículo 2.1.24 de la Ordenanza General de Urbanismo y Construcciones, o complementarios a éstos, será facultad de la Dirección de Obras Municipales asimilarlos a alguno de ellos.
-
-El uso de suelo infraestructura se entenderá siempre permitido con las excepciones que se indican en cada zona del artículo 26 de la presente ordenanza.
-
-Las antenas de telecomunicaciones cuya altura supere los 5,00 metros requerirán un distanciamiento hacia los deslindes equivalente a su altura total más 1/4 de ésta y deberán ser autorizadas por el Director de Obras Municipales previo a que se acredite que no producirán molestias al vecindario por los organismos competentes que correspondan.
-
-#### Artículo 13
-
-Los usos de suelo con destino equipamiento se ceñirán a lo establecido en la Ordenanza General de Urbanismo y Construcciones. Su clase será la que se permita o prohíba en cada una de las zonas descritas en el artículo 26 de la presente ordenanza. Su escala será la que corresponda según lo establecido en el artículo 2.1.36 de la Ordenanza General de Urbanismo y Construcciones.
-
-#### Artículo 14
-
-Los usos de suelo con destino actividades productivas, son los establecidos en la Ordenanza General de Urbanismo y Construcciones y serán los que se permitan o prohíban en cada una de las zonas descritas en el artículo 26 de la presente ordenanza. Para su calificación, se estará a lo dispuesto en los artículos 4.14.1 y 4.14.2 de la Ordenanza General de Urbanismo y Construcciones. Dicha clasificación deberá incluirse entre los antecedentes necesarios para obtener permisos municipales de edificación, destinados a cualquiera de los usos citados, o para solicitudes de cambio de destino de edificaciones existentes.
-
-#### Artículo 15
-
-Las actividades productivas calificadas como inofensivas o molestas con impactos mitigados, podrán emplazarse en el área urbana en concordancia con las disposiciones sobre usos de suelo y zonificación establecidas en el artículo 26 de la presente ordenanza. Se entenderá por "impactos mitigados" a las alteraciones del medio ambiente provocadas directa o indirectamente por un proyecto o actividad, que podrían causar daños a la salud y/o a la propiedad, cuyos niveles de contaminación cumplan con la normativa aplicable, de acuerdo a informes de los organismos competentes, efectuados sobre la base del análisis de riesgo y al cumplimiento de prácticas, normas o estándares recomendados.
-
-#### Artículo 16
+#### Artículo 4
 
 Normas sobre Riesgo de Incendios Forestales: Las normas sobre riesgo de incendios forestales se aplicarán a las zonas del territorio comunal que, por su condición de contacto entre las áreas habitadas y el bosque, presenten un alto riesgo de incendio forestal. Para tal efecto, se definen las siguientes normas mínimas de construcción, urbanización, vialidad y prevención de incendios forestales:
 
@@ -236,7 +178,7 @@ En el área silvícola de interfase, que corresponde a los primeros 4.000 metros
 
 En cuanto a los requerimientos para la protección sobre los costados de las calzadas de vías estructurantes de nivel metropolitano colindante en área de bosques, se estará a lo establecido en el Art. 8.3.4. del Plan Regulador Metropolitano de Concepción.
 
-#### Artículo 17
+#### Artículo 5
 
 Estacionamientos: Todos los proyectos de urbanización y edificación deberán cumplir con las normas de estacionamiento que establece la Ordenanza General de Urbanismo y Construcciones. Sin perjuicio de lo anterior, los proyectos correspondientes a los destinos señalados a continuación, deberán cumplir con los siguientes estándares mínimos de estacionamientos de vehículos motorizados:
 
@@ -488,75 +430,23 @@ Cuando se establezcan destinos mixtos, se atenderá la condición más restricti
 
 Todo edificio público y todo edificio sobre los 50 m² sin importar su carga de ocupación, que preste un servicio a la comunidad, deberá contemplar un área destinada al aparcamiento de bicicletas a razón de uno por cada 50 m² construidos, con un mínimo de 2 y un máximo de 50
 
-#### Artículo 18
-
-Las estaciones de servicio automotor y venta minorista de combustibles líquidos constituyen destino de equipamiento de comercio y deberán cumplir con las siguientes normas, las que prevalecerán por sobre las estipuladas en las condiciones de subdivisión, urbanización y edificación de las zonas en que este destino se permite, según el artículo 26 de la presente ordenanza.:
-
-Superficie predial mínima:
-
-Centros y estaciones de servicio automotor sin venta de combustibles líquidos : 500 m². Para Estaciones de servicio automotor, con venta de combustibles líquidos y asociación a locales comerciales y/o
-
-cafeterías. : 1.000 m².
-
-Sistema de Agrupamiento:
-
-Centros y estaciones de servicio automotor sin venta de combustibles líquidos : Aislado. Para Estaciones de servicio automotor, con venta de combustibles líquidos y asociación a locales comerciales
-
-y/o cafeterías. : Aislado.
-
-Sólo se permitirá el adosamiento, para aquellas instalaciones correspondientes a oficinas y/o salas de ventas.
-
-Distanciamientos:
-
-El distanciamiento mínimo entre los deslindes de las propiedades vecinas y las instalaciones o edificaciones deberá ser de 3,00 m., sin perjuicio de cumplir con las superficies de rasantes previstas en la Ordenanza General de Urbanismo y Construcciones.
-
-La faja resultante de este distanciamiento deberá mantenerse con vegetación arbórea o arbustiva.
-
-Sin perjuicio de lo anterior, las instalaciones y edificaciones que contemplen recintos de lavado y lubricación, deberán disponer además, de los elementos y dispositivos de aislamiento y protección que sean necesarios para evitar la propagación de chorros de agua, líquidos y/o aceites sucios o contaminados, vapores, olores y gases, hacia los predios vecinos y hacia el espacio público.
-
-Accesos:
-
-El diseño geométrico de los accesos y su emplazamiento se ajustará al Manual de Vialidad Urbana, Volumen 3 "Redevu", aprobado por D.S. Nº 12 ( V. y U.) de 1984, publicado en el Diario Oficial de fecha 3 de marzo de 1984.
-
-#### Artículo 19
-
-Terminales de servicio de locomoción colectiva urbana: Constituyen el uso del tipo infraestructura de transporte y deberán cumplir con lo establecido en la Ordenanza General de Urbanismo y Construcciones y demás normas vigentes sobre la materia. Su localización en el territorio urbano se condicionará a los usos definidos para cada zona en el Artículo 26 de la presente Ordenanza.
-
-INCISO ELIMINADO
-
-#### Artículo 20
-
-Bienes Nacionales de uso público: Las condiciones de edificación para las construcciones con destino equipamiento y mobiliario urbano, complementarias a los bienes nacionales de uso público, estarán determinadas en los proyectos específicos, los cuales serán aprobados por la Dirección de Obras Municipales y en atención a lo señalado en el artículo 2.1.30. de la Ordenanza General de Urbanismo y Construcciones.
-
-#### Artículo 21
-
-Urbanización: La aprobación de proyectos de urbanización, como asimismo la ejecución y recepción de obras de alcantarillado, aguas servidas y aguas lluvias; agua potable; redes de electrificación, alumbrado público, telecomunicacionesgas, pavimentación, defensa de terrenos y ornato y otras de carácter específico, se regirán por las disposiciones de la Ley General de Urbanismo y Construcciones, su Ordenanza, las normas técnicas emanadas del Instituto Nacional de Normalización y las exigencias de los servicios respectivos.
-
-#### Artículo 22
-
-Edificaciones en predios existentes: En los predios existentes y aprobados con anterioridad a la fecha de promulgación del Decreto que aprueba el presente Plan Regulador Comunal, se podrá construir, reconstruir, reparar, alterar, ampliar y/o ejecutar obras menores, sin que éstos cumplan con las superficies prediales mínimas establecidas en la presente Ordenanza.
-
-#### Artículo 23
-
-Mansardas: Las mansardas se contabilizarán como pisos, salvo mención expresa en contrario, de lo dispuesto en el artículo 26 de esta Ordenanza.
-
 ## Capítulo IV
 
 Definición de la Zonificación
 
 Usos de Suelo y Normas Específicas
 
-#### Artículo 24
+#### Artículo 6
 
-Para los efectos de la aplicación de la presente Ordenanza, el área territorial del Plan Regulador Comunal de Chiguayante se divide en 29 zonas, graficadas en el Plano PRCH 1, a escala 1:10.000.
+Para los efectos de la aplicación de la presente Ordenanza, el territorio urbano comunal de Chiguayante se dividirá en zonas, según se grafica en el (los) plano(s) respectivo(s) que forma parte de Plan Regulador Comunal.
 
-#### Artículo 25
+#### Artículo 7
 
-Los límites de las zonas son los graficados en el Plano PRCH-2. Cuando el límite de una zona considere una franja que enfrenta una vía, se entenderá que ella se conforma por los predios que enfrentan dicha vía, hasta sus respectivos fondos de sitio, con un máximo de 50 m. de profundidad. En este último caso, cuando el exceso de terreno sea menor o igual a 10 metros de longitud, éste podrá adquirir las condicionantes de la zona en cuestión, debiendo en el resto de los casos, ceñirse a las disposiciones de la zona adyacente.
+Cuando el límite de una zona considere una franja que enfrenta una vía, se entenderá que ella se conforma por los predios que enfrentan dicha vía, hasta sus respectivos fondos de sitio, con un máximo de 50,00 metros de profundidad.
 
-#### Artículo 26
+#### Artículo 8
 
-Los usos de suelo permitidos y prohibidos en cada zona; las condiciones de subdivisión predial y normas de edificación que le son aplicables, son las que se describen a continuación y cuentan con las siguientes indicaciones generales:
+Los Usos de Suelo Permitidos, junto con la determinación de las Condicionantes de Subdivisión, Urbanización y Edificación aplicables a cada una de las zonas definidas por el Plan, son las que a continuación de señalan.
 
 a) Los usos de suelo del tipo Espacio Público y Área Verde, se entenderán como siempre permitidos y sujetos a las condiciones normativas establecidas en los artículos 2.1.30. y 2.1.31. de la Ordenanza General de Urbanismo y Construcciones.
 
@@ -4137,6 +4027,10 @@ Usos Prohibidos:
 Los loteos con construcción simultánea de vivienda unifamiliar DFL 2 de 1959 o conjuntos de vivienda económicas colectivas en extensión acogidos o no a la Ley 19.537 de Copropiedad Inmobiliaria, que sean presentados con el objetivo de solucionar problemas habitacionales de quienes acrediten tener la calidad de afectados por sismos o catástrofes declarados por decreto supremo en el marco del artículo 1º de la ley 16.282, podrán incrementar hasta en un 20% la densidad habitacional definida, según corresponda, en las zonificaciones del presente artículo. El presente incremento se aplicará a los proyectos mencionados por un lapso de 3 años contados desde la publicación del respectivo decreto supremo que declare zona afectada por sismo o catástrofe.
 
 > **Nota.** El Nº 2 del Decreto 179, Municipalidad de Chiguayante, publicado el 04.02.2010, modifica la presente norma en el sentido de prorrogar por 5 años a partir de la fecha de caducidad establecida en la ley Nº20.331, de fecha 12.02.2009, las declaratorias de utilidad pública correspondientes a los terrenos destinados a vías estructurantes colectoras propuestas y a los parques comunales propuestos, emplazados en el Área Urbana del Plan Regulador Comunal de Chiguayante y que se establecen en el artículo 26 "Zona Especial por Parque Ribereño ZPR".
+
+> **Nota.** NOTA 2 El Nº 1 del Decreto 864, Municipalidad de Chiguayante, publicado el 14.04.2015, modifica la presente norma en el sentido de dejar sin efecto las declaratorias de utilidad pública de los terrenos que fueron destinados a circulaciones, plazas y parques, incluidos sus ensanches.
+
+> **Nota.** NOTA 3 El numeral 5° de la Decreto 333, Municipalidad de Chiguayante, publicada el 16.02.2018, dispone modificar el presente artículo, en los términos que el citado Decreto indica.
 
 ## Capítulo V
 
