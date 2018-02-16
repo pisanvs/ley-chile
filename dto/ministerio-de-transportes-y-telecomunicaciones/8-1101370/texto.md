@@ -20,23 +20,23 @@ Considerando:
 
 Decreto:
 
-1.- Transfiérase a la Empresa de los Ferrocarriles del Estado la suma de $23.539.041.000 (veintitrés mil quinientos treinta y nueve millones cuarenta y un mil pesos) con el objeto de solventar los gastos que se originen como producto de las obligaciones indicadas en el considerando N° 1.
+1.- Transfiérase a la Empresa de los Ferrocarriles del Estado la suma de $24.582.520.000 (veinticuatro mil quinientos ochenta y dos millones quinientos veinte mil pesos) con el objeto de solventar los gastos que se originen como producto de las obligaciones indicadas en el considerando N° 1.
 
 2.- Dicha suma será transferida conforme al siguiente calendario:
 
 Mes Monto [$] Mes Monto [$]
 
-Enero $ 1.397.707.000 Julio $ 2.211.204.000
+Enero $1.397.707.000 Julio $2.211.204.000
 
-Febrero $ 1.491.599.000 Agosto $ 1.115.799.000
+Febrero $1.491.599.000 Agosto $1.115.799.000
 
-Marzo $ 1.591.640.000 Septiembre $ 1.426.982.000
+Marzo $1.591.640.000 Septiembre $1.426.982.000
 
-Abril $ 3.088.111.000 Octubre $ 2.155.243.000
+Abril $3.088.111.000 Octubre $2.155.243.000
 
-Mayo $ 1.232.331.000 Noviembre $ 3.858.043.000
+Mayo $1.232.331.000 Noviembre $3.858.043.000
 
-Junio $ 1.739.247.000 Diciembre $ 2.231.135.000
+Junio $1.739.247.000 Diciembre $3.274.614.000
 
 3.- La Empresa de los Ferrocarriles del Estado deberá remitir a este Ministerio el comprobante de ingreso respectivo, en el que se especificará el origen del aporte, y el resumen de los pagos que se efectúen.
 
