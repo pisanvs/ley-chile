@@ -28,7 +28,7 @@ Asígnase para uso de la Subsecretaria de Economía y Empresas de Menor Tamaño,
 
 #### Artículo tercero
 
-El vehículo previamente indicado será conducido por los señores Jorge Fuenzalida Berríos, cédula de identidad Nº 10.837.675-9; Juan Luis Muñoz López, cédula de identidad Nº 9.204.737-7; Valerio Silva González, cédula de identidad Nº 9.902.826-2; Mauricio Chanalet Jeria, cédula de identidad Nº 15.360.165-8; Mario Matamala Molina, cédula de identidad Nº 7.629.680-4; y César Piña Magñin, cédula de identidad Nº 13.484.894-4; quienes deberán rendir caución, de acuerdo a lo establecido en el artículo 7º del decreto ley Nº 799, de 1974, del Ministerio del Interior.
+El vehículo previamente indicado será conducido por los señores Jorge Fuenzalida Berríos, cédula de identidad Nº 10.837.675-9; Mauricio Chanalet Jeria, cédula de identidad Nº 15.360.165-8; Valerio Silva González, cédula de identidad Nº 9.902.826-2; Mario Matamala Molina, cédula de identidad Nº 7.629.680-4, y César Piña Magñin, cédula de identidad Nº 13.484.894-4, quienes deberán rendir caución, de acuerdo a lo establecido en el artículo 7º del decreto ley Nº 799, de 1974, del Ministerio del Interior.
 
 #### Artículo cuarto
 
@@ -38,7 +38,7 @@ El vehículo antes individualizado deberá ser guardado en los siguientes recint
 
 2. Domicilio conductor Jorge Fuenzalida Berríos, ubicado en pasaje Curalaba Nº 488, Villa Ciudad Jardín, comuna de Maipú, ciudad de Santiago.
 
-3. Domicilio conductor Juan Luis Muñoz López, ubicado en pasaje Cerro Chena Nº 1321, El Mirador de Maipo, comuna de Puente Alto, ciudad de Santiago.
+3. Domicilio conductor César Piña Magñin, ubicado en John Kennedy Nº 168, comuna de La Florida, ciudad de Santiago.
 
 4. Domicilio conductor Valerio Silva González, ubicado en calle Lo Encalada Nº 1961, Villa Canadá, comuna de Ñuñoa, ciudad de Santiago.
 
