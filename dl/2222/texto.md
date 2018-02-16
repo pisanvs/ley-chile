@@ -112,6 +112,8 @@ Al solicitar la inscripción de una nave en el respectivo Registro de Matrícula
 
 Cuando se solicite la incorporación al Registro de Matrícula de una nave que ha estado matriculada en un país extranjero, deberá acompañarse, además, un certificado debidamente visado por el Cónsul chileno, en el que conste que la nave ha sido dada de baja de su anterior matrícula, o lo será el día en que tenga lugar su nuevo registro.
 
+Lo dispuesto en el inciso anterior no será exigible para matricular aquellas naves o artefactos navales que hayan sido objeto de comiso o enajenadas de conformidad con la ley N° 20.000, que sustituye la ley Nº 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, o que hayan sido abandonadas y pasado al dominio del Estado, de conformidad con los artículos 132, 132 bis, 132 ter o 135 de la presente ley.
+
 #### Artículo 13
 
 Inscrita la nave, será chilena y se entenderá nacionalizada para los efectos aduaneros, y podrá desde ese momento enarbolar el pabellón nacional, siempre que se cumpla con las exigencias que señala el artículo siguiente.
@@ -866,19 +868,33 @@ Las Cortes Marítimas se constituirán y ejercerán sus funciones en la forma qu
 
 #### Artículo 132
 
-Cuando dentro de las aguas sometidas a la jurisdicción nacional o en ríos y lagos navegables se hundiere o varare una nave, aeronave o artefacto que, a juicio de la Autoridad Marítima, constituya un peligo o un obstáculo para la navegación, la pesca, la preservación del medio ambiente u otras actividades marítimas o ribereñas, dicha Autoridad ordenará al propietario, armador u operador que tome las medidas apropiadas para iniciar, a su costa, su inmediata señalización y su remoción o extracción, hasta concluirla dentro del plazo que se le fije. Estas faenas incluirán la carga, cuyos propietarios serán notificados por dos avisos que se publicarán, en días distintos, en el diario que indique la Autoridad Marítima respectiva.
+Cuando dentro de las aguas sometidas a la jurisdicción nacional o en ríos y lagos navegables se hundiere o varare una nave, aeronave o artefacto que, a juicio de la Autoridad Marítima, constituya un peligo o un obstáculo para la navegación, la pesca, la preservación del medio ambiente u otras actividades marítimas o ribereñas, dicha Autoridad ordenará al propietario, armador u operador que tome las medidas apropiadas para iniciar, a su costa, su inmediata señalización y su remoción o extracción, incluyendo su carga, hasta concluirla dentro del plazo que se le fije. Los propietarios de la carga serán notificados por dos avisos que se publicarán, en días distintos, en el diario que indique la Autoridad Marítima respectiva.
 
-Si el propietario, armador u operador no iniciare o concluyere la faena en el plazo prescrito, se entenderán abandonadas las especies y a aquéllos se les aplicará una multa de hasta 2.000 pesos oro por cada tonelada de registro grueso de la nave o de hasta 50.000 pesos oro en los demás casos. La Autoridad Marítima estará además facultada para proceder a la operación de remoción o para vender la nave, aeronave o artefacto, su carga y los restos, por medio de propuestas públicas o privadas.
+Si el propietario, armador u operador no iniciare o concluyere la faena en el plazo prescrito, se entenderán abandonadas las especies y a aquéllos se les aplicará una multa de hasta 2.000 pesos oro por cada tonelada de registro grueso de la nave o de hasta 50.000 pesos oro en los demás casos. La Autoridad Marítima estará además facultada para proceder a la operación de remoción o para enajenar la nave, aeronave o artefacto, su carga y los restos, por medio de propuestas públicas o privadas.
 
 Lo anterior es sin perjuicio de otros apremios, arraigos o embargos, respecto de la persona o de los bienes del propietario, armador u operador, para obtener el cabal cumplimiento de la resolución de la Autoridad Marítima que ordena el retiro, extracción, despeje o limpieza del área.
 
 Las obligaciones que conforme a este párrafo correspondan al propietario, armador u operador, serán siempre solidarias entre ellos.
 
-Lo dispuesto en los incisos anteriores se aplicará a las naves o artefactos que se encontraren a la deriva, o bien, sin tripulación a bordo y en malas condiciones de flotabilidad o haciendo agua. En ambos casos, la Autoridad Marítima estará facultada, adicionalmente, para disponer su hundimiento si fuere necesario, una vez que se haya cumplido con el procedimiento establecido en este artículo.
+Inciso Eliminado.
+
+#### Artículo 132 bis
+
+Si una nave o artefacto naval se encontrare a la deriva, en malas condiciones de flotabilidad o haciendo agua, la Autoridad Marítima requerirá a su propietario, armador u operador para que adopte, de inmediato, las medidas correctivas que ella determine, bajo apercibimiento de considerar a la nave o artefacto naval como abandonada y pasar a dominio del Estado. Declarado el abandono de la nave o artefacto naval a favor del Fisco, la Autoridad Marítima podrá proceder a su remoción o enajenación por medio de propuestas públicas o privadas. En casos de extrema urgencia, como el inminente hundimiento de la nave o artefacto naval en el lugar en que se encuentra, la Autoridad Marítima estará facultada para autorizar o disponer su vertimiento.
+
+Se entenderá que la nave o artefacto naval se encuentra a la deriva si, a raíz de la insuficiencia de su equipamiento, armamento o dotación, no pudiere mantenerse fondeada de manera segura o zarpar de su lugar de fondeo tan pronto como la Autoridad Marítima se lo requiera.
+
+#### Artículo 132 ter
+
+Las naves o artefactos que estén a flote sin dotación reglamentaria a bordo se entenderán abandonadas y pasarán al dominio del Estado cuando a su propietario, armador u operador no cumpla con la respectiva dotación de seguridad, habiendo sido apercibido para ello. El apercibimiento se practicará por medio de dos avisos entre los cuales deberá mediar un lapso de a lo menos cinco días, notificados personalmente o mediante carta certificada dirigida al domicilio que el propietario, armador u operador de la nave o artefacto naval haya registrado ante la Autoridad Marítima o, en su defecto, publicados en un diario de circulación nacional. Los gastos derivados de las notificaciones serán de costa del propietario, armador u operador de la nave. Declarado el abandono de la nave o artefacto naval a favor del Fisco, la Autoridad Marítima podrá proceder a su remoción o enajenación por medio de propuestas públicas o privadas.
+
+Lo dispuesto en el inciso precedente también será aplicable a las naves o artefactos navales carentes de dotación que hayan debido ser varados por la Autoridad Marítima por cuenta y cargo de su propietario, armador u operador, habiéndose apercibido a éste para retirar la nave o artefacto del lugar en que se encontrare varada, en la forma descrita en dicho inciso.
+
+En los casos descritos en el presente artículo, la Autoridad Marítima estará facultada para disponer el hundimiento de la nave o artefacto una vez que se haya cumplido con el procedimiento establecido en este artículo, siempre que ello fuere procedente de acuerdo a la regulación aplicable en materia de vertimiento.
 
 #### Artículo 133
 
-Si el producto de la venta no es suficiente para cubrir todos los gastos de la operación efectuados por la Autoridad Marítima, el propietario, armador u operador tendrán la obligación de pagar al Estado la diferencia.
+Si el valor obtenido por la enajenación de la nave, aeronave o artefacto no es suficiente para cubrir todos los gastos de la operación efectuados por la Autoridad Marítima, el propietario, armador u operador tendrán la obligación de pagar al Estado la diferencia.
 
 #### Artículo 134
 
@@ -886,7 +902,7 @@ En caso de urgencia, la Autoridad Marítima está facultada para proceder, por c
 
 #### Artículo 135
 
-Cuando la especie no esté en el caso previsto en el artículo 132, el propietario dispondrá del plazo de un año, a contar de la fecha del siniestro, para iniciar la remoción, dando aviso a la Autoridad Marítima. La remoción deberá efectuarse en los términos que señale el Director y en el plazo máximo de un año, a contar de la fecha en que se indique que deban iniciarse las faenas. Expirado este último plazo, la nave se entenderá abandonada y pasará al dominio del Estado. La Dirección podrá conceder el derecho a cualquier particular que se interese en extraer los restos, en las condiciones que señale el reglamento.
+Cuando, a juicio de la Autoridad Marítima, la nave, aeronave o artefacto naval, incluyendo su carga, no constituya un peligro o un obstáculo para la navegación, la pesca, la preservación del medio ambiente u otras actividades marítimas o ribereñas, el propietario dispondrá del plazo de un año, a contar desde la fecha del siniestro, para iniciar la remoción, dando aviso a la Autoridad Marítima. La remoción deberá efectuarse en los términos que señale el Director y en el plazo máximo de un año, contado desde la fecha en que se indique que deban iniciarse las faenas. Expirado este último plazo, la especie se entenderá abandonada y pasará al dominio del Estado. La Autoridad Marítima estará, además, facultada para proceder a la operación de remoción o para enajenar la nave, aeronave o artefacto, su carga y los restos, por medio de propuestas públicas o privadas.
 
 #### Artículo 136
 
@@ -907,6 +923,10 @@ Las normas que anteceden se entenderán sin perjuicio de las obligaciones que de
 #### Artículo 140
 
 Los particulares que, sin el expreso consentimiento del capitán, armadores, aseguradores o sus representantes, entraren a una nave después que le ocurra un siniestro, so pretexto de auxiliarla o emprender el salvamento de sus restos o de la carga, incurrirán en la pena de prisión en cualquiera de sus grados.
+
+#### Artículo 140 bis
+
+Si no se presentan oferentes a las propuestas indicadas en los artículos 132, 132 bis, 132 ter y 135 o éstas son declaradas desiertas por algún otro motivo, el costo de la operación tendiente a remover o extraer la nave, aeronave o artefacto naval hundido, varado, a la deriva o sin dotación reglamentaria a bordo, incluyendo su carga, será de cargo del propietario, armador u operador de la nave, aeronave o artefacto naval a la fecha de ocurrencia de su hundimiento, varamiento, deriva o carencia de dotación. En estos supuestos, la Autoridad Marítima podrá, además, solicitar a costa de dicho propietario, armador u operador, un estudio cuyo objeto sea determinar la presencia de hidrocarburos u otras sustancias nocivas y evaluar la posibilidad de derrame de dichas sustancias. De establecerse tanto la presencia de hidrocarburos u otras sustancias nocivas como la posibilidad de su derrame, la Autoridad Marítima podrá, también a costa del señalado propietario, armador u operador, proceder a su extracción, por medio de propuestas públicas o privadas.
 
 #### Artículo 141
 
