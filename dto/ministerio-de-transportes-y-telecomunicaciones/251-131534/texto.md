@@ -112,6 +112,8 @@ b) Informe favorable de la Dirección de Tránsito y Transporte Público Municip
 
 c) Resolución de autorización del Secretario Regional.
 
+d) Tratándose del Curso Especial con Simuladores de Inmersión Total, documento otorgado por el Ministerio de Transportes y Telecomunicaciones a que se refiere el artículo 4º del decreto supremo Nº 126, de 2012, del Ministerio de Transportes y Telecomunicaciones, que certifique el cumplimiento de lo dispuesto en el numeral 7., del artículo 3º del mismo cuerpo normativo.
+
 #### Artículo 8º
 
 Cuando una escuela no diere cumplimiento a los planes, programas, docencia e infraestructura que determinaron su reconocimiento, el Secretario Regional Ministerial de Transportes y Telecomunicaciones podrá revocar dicho reconocimiento mediante resolución fundada.

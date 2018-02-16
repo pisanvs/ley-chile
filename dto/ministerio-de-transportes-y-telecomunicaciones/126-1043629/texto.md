@@ -32,7 +32,7 @@ Para efectos del presente reglamento, se entenderá por:
 
 #### Artículo 3º
 
-El SIT deberá contar a lo menos con los subsistemas, componentes funcionales y los requisitos técnicos que a continuación se indican:
+El SIT deberá contar a lo menos con los subsistemas, componentes funcionales y los requisitos técnicos y demás características que a continuación se indican:
 
 1. Puesto de Conducción:
 
@@ -453,6 +453,8 @@ entre la imagen, el sonido y movimiento.
 5. El SIT podrá contemplar como máximo 2 Puestos de Conducción con su respectivo Sistema de Visualización, y ambos gestionados desde un Puesto de Instrucción. El Puesto de Instrucción puede tener el control y administración de, a lo más, dos Puestos de Conducción en forma simultánea.
 
 6. Las fijaciones, montaje y demás elementos para unir, fijar y/o adherir los distintos componentes del SIT deberán cumplir con las normas de seguridad y ambiente laboral vigentes en el país.
+
+7. En los casos en que se desee utilizar el SIT en la forma establecida en el artículo 7º del decreto supremo Nº 251, de 1998, del Ministerio de Transportes y Telecomunicaciones, la factibilidad de trasladar y operar el equipo en recintos móviles.
 
 #### Artículo 4º
 
