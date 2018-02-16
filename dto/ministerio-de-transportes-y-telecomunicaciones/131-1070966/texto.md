@@ -56,8 +56,6 @@ Sin perjuicio de lo anterior, el pago podrá ser requerido a través de los medi
 
 > **Nota.** El Decreto 293, Transportes, publicado el 21.03.2015, ordena sustituir en la tabla inserta en la presente norma las expresiones "hasta el último día hábil de 2014" por las siguientes: "hasta el 31 de marzo de 2015".
 
-> **Nota.** NOTA 1 El numeral 1 del Decreto 34, Transportes, publicado el 04.02.2020, ordena sustituir en la tabla inserta en el presente artículo las expresiones las frases "... hasta el último día hábil de cada año", por las expresiones "hasta el último día hábil del mes de septiembre de cada año".
-
 #### Artículo 5º
 
 Junto a la solicitud de bono señalada en el artículo anterior, los propietarios, arrendatarios, mandatarios o representantes deberán exhibir los documentos que se señalan a continuación, de los cuales deberán dejar una copia simple que acompañe la solicitud respectiva.
