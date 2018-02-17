@@ -18,7 +18,7 @@ Decreto:
 
 #### Artículo único
 
-Otórgase la Orden al Mérito Docente y Cultural "Gabriela Mistral", en el grado de Lazo de Dama, a doña Gloria Garafulich-Brabois, actualmente radicada en Estados Unidos, en reconocimiento a su brillante trayectoria profesional reconocida nacional e internacional.
+Otórgase la Orden al Mérito Docente y Cultural "Gabriela Mistral", en el grado de Lazo de Dama, a doña Gloria Garafulich-Grabois, actualmente radicada en Estados Unidos, en reconocimiento a su brillante trayectoria profesional reconocida nacional e internacional.
 
 Anótese, comuníquese y publíquese.- Adriana Delpiano Puelma, Ministra de Educación.
 
