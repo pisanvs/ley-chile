@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 374 EXENTA, DE 25 DE ENERO DE 2018
+
+Por resolución exenta N° 374, de 25 de enero de 2018, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana, se deja sin efecto resolución exenta N° 2.174, de 4 de junio de 2012, que otorgó reconocimiento oficial a Escuela de Conductores Profesionales "Boris Ernesto Muñoz Toloza - Escuela de Conductores Santa Rosa", RUT N° 10.992.634-5, cuyo propietario es el señor Boris Ernesto Muñoz Toloza, ubicada en Avenida Santa Rosa N° 8731, oficinas 1, 3 y 4, comuna de San Ramón, y resolución exenta N° 2.175, de 4 de junio de 2012, de la misma Secretaría Regional, que aprobó planes y programas de la misma Escuela.-
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
