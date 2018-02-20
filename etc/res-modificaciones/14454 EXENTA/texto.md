@@ -52,7 +52,7 @@ y la fila "Totales" por la siguiente:
 
 2.- Modifícase la resolución exenta N° 3.489 (V. y U.), de 2016, en el sentido de:
 
-2.1 Eliminar de la nómina de beneficiados aprobados por esta resolución, las filas que se detallan a continuaci\ufffdn:
+2.1 Eliminar de la nómina de beneficiados aprobados por esta resolución, las filas que se detallan a continuación:
 
 .
 
@@ -184,7 +184,7 @@ Y la fila "Total" por la siguiente:
 
 .
 
-10.3 Reemplazar en la tabla inserta en el resuelvo 2, en la columna "UF selección 2º quincena mayo" el guarismo "8.421" por "8.184" y en la columna "Total", el guarismo "8.421" por "8.184".
+10.3 Reemplazar en la tabla inserta en el Resuelvo 2, en la columna "U.F. selección 2° quincena mayo" el guarismo "8.421" por "8.141" y en la columna "TOTAL", el guarismo "8.421" por "8.141".
 
 11.- Establécese que las resoluciones exentas citadas en los resuelvos precedentes se mantendrán vigentes en todo aquello que no ha sido modificado por la presente resolución.
 
