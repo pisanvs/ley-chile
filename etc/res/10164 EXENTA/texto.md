@@ -20,11 +20,11 @@ b) Que se ejecutó el proceso de selección con las familias que efectuaron vál
 
 Resolución:
 
-1. Apruébanse las nóminas de postulantes seleccionados correspondientes al mes de julio de 2017, del llamado nacional dispuesto en el número 1 de la resolución exenta N° 1.555, de este Ministerio, de 2017, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS N° 52 (V. y U.), de 2013, y, en particular, según lo establecido en su artículo 27, nóminas que se entenderán formar parte integrante de esta resolución, y fíjase en 1.000 el número de postulantes seleccionados de todo el país, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
+1. Apruébanse las nóminas de postulantes seleccionados correspondientes al mes de julio de 2017, del llamado nacional dispuesto en el número 1 de la resolución exenta N° 1.555, de este Ministerio, de 2017, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS N° 52 (V. y U.), de 2013, y, en particular, según lo establecido en su artículo 27, nóminas que se entenderán formar parte integrante de esta resolución, y fíjase en 1.009 el número de postulantes seleccionados de todo el país, los que se distribuyen regionalmente de acuerdo a la siguiente tabla:
 
 .
 
-2. El monto de recursos comprometidos en la selección de postulantes, que por este acto se aprueba, del total destinado al financiamiento del llamado nacional dispuesto en el número 1 de la resolución exenta N° 1.555, de este Ministerio, del Programa de Subsidio de Arriendo de Vivienda, es de 170.000 Unidades de Fomento y el remanente para los siguientes seleccionados es de 517.310 Unidades de Fomento, conforme lo indica en la siguiente tabla:
+2. El monto de recursos comprometidos en la selección de postulantes, que por este acto se aprueba, del total destinado al financiamiento del llamado nacional dispuesto en el número 1 de la resolución exenta N° 1.555, de este Ministerio, del Programa de Subsidio de Arriendo de Vivienda, es de 171.530 Unidades de Fomento y el remanente para los siguientes seleccionados es de 517.310 Unidades de Fomento, conforme lo indica en la siguiente tabla:
 
 .
 
