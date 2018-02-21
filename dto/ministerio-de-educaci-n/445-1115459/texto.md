@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO DE EDUCACIÓN N° 445, DE 14 DE DICIEMBRE DE 2017
+
+Por decreto de Educación Nº 445, de fecha 14 de diciembre de 2017, y de conformidad con lo dispuesto en el DL Nº 3.166, de 1980, y su reglamento fijado por DS Nº 5.077, del mismo año, ley Nº 20.903 y DFL Nº 2, de Educación, de 1998, se ha aprobado la modificación de convenio celebrada con fecha 9 de noviembre 2017 entre el Ministerio de Educación y la Corporación Educacional de la Sociedad Nacional de Agricultura FG-SNA Educa, con el objeto de aprobar e incorporar al respectivo convenio de administración, un Anexo denominado "Aumento del aporte establecido por la ley Nº 20.903" que permita que el establecimiento educacional regido por el decreto ley Nº 3.166, de 1980, que administra esa entidad, sea beneficiado con dicho aumento.-
+
+Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
