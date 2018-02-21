@@ -22,6 +22,8 @@ Resuelvo:
 
 - Para camiones que acceden por el sur de la Ruta 5 - Bypass - Ruta A 65 al oriente o Ruta 5 al norte.
 
+- Quedan excluido de esta prohibición los camiones que se utilicen para realizar mantenciones periódicas y de emergencia de las instalaciones de la red de agua potable y alcantarillado de la Localidad de Pozo Almonte.
+
 2.- La Dirección Regional de Vialidad de Tarapacá deberá instalar la señalización de tránsito que corresponda conforme al Manual de Señalización del Ministerio de Transportes y Telecomunicaciones.
 
 3.- Carabineros de Chile, Inspectores Municipales e Inspectores del Ministerio de Transportes y Telecomunicaciones son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la ley N°18.290.
