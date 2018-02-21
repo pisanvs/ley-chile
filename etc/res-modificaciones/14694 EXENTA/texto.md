@@ -32,7 +32,7 @@ Resolución:
 
 .
 
-3. El monto de recursos comprometidos en la selección de los postulantes que por este acto se aprueba, del total destinado al financiamiento llamado en condiciones especiales dispuesto en el número 1 de la resolución exenta N° 4.524, de este Ministerio, de 2017, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS N° 52 (V. y U.), de 2013, es de 1.937 unidades de fomento, no quedando remanente de los recursos dispuestos en la resolución exenta antes indicada.
+3. El monto de recursos comprometidos en la selección de los postulantes que por este acto se aprueba, del total destinado al financiamiento llamado en condiciones especiales dispuesto en el número 1 de la resolución exenta N° 4.524, de este Ministerio, de 2017, del Programa de Subsidio de Arriendo de Vivienda regulado por el DS N° 52 (V. y U.), de 2013, es de 2.132 unidades de fomento, no quedando remanente de los recursos dispuestos en la resolución exenta antes indicada.
 
 4. Publíquense en el sitio web de este Ministerio, las nóminas de postulantes seleccionados conforme al número 2 de esta resolución, las que deberán contener a lo menos el puntaje y el nombre de cada postulante beneficiado con su respectiva Cédula de Identidad.
 
