@@ -374,6 +374,8 @@ Departamento "Jurídico"
 
 Función básica: Asesorar e informar sobre asuntos jurídicos relacionados con la aeronáutica y actividades del Servicio, a requerimiento del Director General y de las Unidades orgánicas de la Institución. Le corresponderá asimismo llevar el Registro Nacional de Aeronaves, a través del Conservador de Aeronaves, el que practicará las inscripciones, subinscripciones, anotaciones y cancelaciones que procedan, y otorgará las copias y certificados que se le soliciten.
 
+Además, tramitará los procedimientos administrativos por infracciones al Código Aeronáutico, a leyes y reglamentos sobre aeronáutica y a las instrucciones que la Dirección General de Aeronáutica Civil dicte en el ejercicio de sus atribuciones, conforme a los artículos 184 y siguientes del Código Aeronáutico.
+
 #### Artículo 21
 
 Denominación del cargo: La persona a cargo del "Departamento Jurídico" se denominará "Fiscal".
@@ -404,6 +406,8 @@ j.- Administrar los recursos humanos, materiales, financieros e informáticos ba
 
 k.- Determinar los requerimientos de capacitación de su personal, considerando las necesidades del servicio y de desarrollo profesional.
 
+l.- Tramitar los procedimientos administrativos por infracciones al Código Aeronáutico, a leyes y reglamentos sobre aeronáutica y a las instrucciones que la Dirección General de Aeronáutica Civil dicte en el ejercicio de sus atribuciones; elaborar los cargos y proponer las sanciones correspondientes para resolución del Director General.
+
 #### Artículo 23
 
 Organización: Para el cumplimiento de su cometido el "Departamento Jurídico" se organizará de acuerdo a lo establecido en los documentos rectores destinados a establecer las disposiciones del funcionamiento interno.
@@ -416,7 +420,7 @@ Función básica:
 
 a.- Contribuir a la prevención de los accidentes e incidentes del ámbito aeronáutico y ante la ocurrencia de ellos, investigarlos administrativamente a fin de establecer sus causas y disponer las medidas tendientes a evitar su repetición.
 
-b.- Investigar las infracciones a las leyes, reglamentos y demás disposiciones relacionadas con la navegación aérea, cuya aplicación y control le corresponde a la DGAC.
+b.- Suprimida.
 
 #### Artículo 25
 
@@ -444,7 +448,7 @@ h.- Investigar los accidentes e incidentes de aeronaves destinadas a los servici
 
 i.- Cooperar cuando así se solicite, en la investigación de accidentes de aeronaves civiles chilenas que realicen otros Estados por corresponderle.
 
-j.- Investigar las infracciones al Código Aeronáutico y a las leyes y demás disposiciones relacionadas con la navegación aérea y proponer la sanción correspondiente para conocimiento y resolución del Director General.
+j.- Suprimida.
 
 k.- Mantener un registro estadístico de accidentes, incidentes e infracciones a fin de contar con una base de datos que permita proporcionar información tanto para la prevención de accidentes como para evitar la trasgresión a la normativa aeronáutica.
 
@@ -466,6 +470,8 @@ Departamento "Planificación"
 
 Función básica: Elaborar y proponer la planificación estratégica y operativa institucional, controlando su materialización. Además, evaluar y supervisar el desarrollo de los proyectos de inversión y de desarrollo aeroportuario, elaborar la normativa aeronáutica nacional, supervisar los aspectos organizacionales, las relaciones internacionales de la Institución y coordinar el accionar de las organizaciones del Servicio para lograr que las actividades se realicen conforme a los objetivos y políticas institucionales.
 
+Certificar los aeropuertos y aeródromos públicos conforme al Decreto Supremo Nº 173 de 2005, del Ministerio de Defensa Nacional, DAR 14.
+
 #### Artículo 29
 
 Denominación del cargo: La persona a cargo del Departamento "Planificación" se denominará "Director (a) de Planificación".
@@ -482,11 +488,13 @@ c.- Elaborar y proponer objetivos y políticas institucionales que permitan orie
 
 d.- Verificar que el Plan de Desarrollo institucional sea coherente con las políticas y planes nacionales que dicen relación con el poder aéreo y el control y vigilancia del espacio aéreo.
 
+dd.- Certificar los aeropuertos y aeródromos públicos conforme al Decreto Supremo Nº 173 de 2005, del Ministerio de Defensa Nacional, DAR 14.
+
 e.- Elaborar planes y programas institucionales, y controlar el cumplimiento de las tareas asignadas en la Directiva Anual de Actividades.
 
 f.- Determinar las necesidades de instrucción institucional en coordinación con las distintas áreas funcionales de la DGAC visando la directiva de instrucción anual.
 
-g.- Determinar e incorporar a la planificación las necesidades de recursos humanos, materiales, financieros y de información que requieren las unidades subordinadas para cumplir los objetivos institucionales.
+g.- Determinar e incorporar a la planificación las necesidades de recursos humanos, materiales, financieros y de información que requiera la DGAC. para cumplir los objetivos institucionales.
 
 h.- Determinar la asignación de recursos para la elaboración del Anteproyecto de Presupuesto Anual Institucional y controlar su cumplimiento, conforme a los objetivos de la Institución.
 
@@ -550,6 +558,8 @@ Subdepartamento "Planes y Proyectos"
 
 Función básica: Elaborar y controlar el cumplimiento de las políticas, directivas, planes y programas conducentes al cumplimiento de la misión y al desarrollo institucional, de acuerdo con el análisis de las variables de carácter técnico, económica y medio ambiental que influyen en las actividades aeronáuticas. Además, evaluar, controlar y coordinar los proyectos de inversión institucional y de desarrollo de la infraestructura aeroportuaria.
 
+Proponer la certificación de los aeropuertos y aeródromos públicos conforme al Decreto Supremo Nº 173 de 2005, del Ministerio de Defensa Nacional, DAR 14.
+
 #### Artículo 33
 
 Denominación del cargo: La persona a cargo del Subdepartamento "Planes y Proyectos" se denominará Jefe (a) del Subdepartamento "Planes y Proyectos".
@@ -578,11 +588,15 @@ Departamento "Seguridad Operacional"
 
 #### Artículo 38
 
-Función básica: Fiscalizar y aplicar las normas para regular las actividades que realizan las empresas de transporte público, clubes aéreos, empresas de trabajos aéreos, aviación general y deportiva, la aeronavegabilidad de las aeronaves, las condiciones sicofísicas y técnicas de personal aeronáutico, los centros de mantenimiento, diseño y fabricación de productos y partes aeronáuticas,
+Función Básica: Elaborar normas respecto a las materias relacionadas con las áreas de Aeronavegabilidad, Licencias y Operaciones, en concordancia con lo establecido en el Anexo 1, Anexo 6 y Anexo 8 del Convenio de Aviación Civil Internacional, así como con otros documentos que contengan métodos recomendados por la Organización de Aviación Civil Internacional (OACI), relacionados con la seguridad operacional.
 
-Lo anterior incluye a empresas que operan en Chile (nacionales y extranjeras), aeronaves que operan en el territorio nacional, aeronaves de matrícula chilena que operan en el extranjero y centros de mantenimiento en el territorio nacional y en el extranjero a aquellos que le dan servicio a aeronaves de matrícula chilena.
+Certificar al personal aeronáutico, las empresas aéreas, las aeronaves, los Centros de Instrucción Aeronáutico, las Organizaciones de Mantenimiento Aeronáutico y entrenadores sintéticos de vuelo.
 
-Además otorgar certificaciones de aeronaves y centros de mantenimiento, autorizaciones, licencias y habilitaciones a personal aeronáutico de vuelo y tierra.
+Fiscalizar, verificando el cumplimiento de la normativa aeronáutica: las actividades que realizan las empresas de transporte aéreo comercial, trabajos aéreos, aviación general y deportiva; la aeronavegabilidad de las aeronaves; las condiciones sicofísicas y técnicas del personal aeronáutico; los Centros de Instrucción Aeronáuticos; entrenadores sintéticos de vuelo; las Organizaciones de Mantenimiento Aeronáutico; el diseño y fabricación de productos y partes aeronáuticas; los servicios de tránsito aéreo y los aeropuertos y aeródromos públicos de dominio fiscal.
+
+Lo anterior, incluye a empresas, nacionales y extranjeras, que operan aeronaves en Chile; a aeronaves de matrícula chilena que operan en el extranjero y a Organizaciones de Mantenimiento Aeronáutico.
+
+Gestionar el programa estatal de seguridad operacional (SSP) en conformidad al Documento Nº 9856 de la Organización de Aviación Civil Internacional, Manual de gestión de la seguridad operacional (SSM).
 
 #### Artículo 39
 
@@ -598,11 +612,11 @@ b.- Gestionar en materias de su competencia, y en concordancia con los objetivos
 
 c.- Proponer políticas, definir objetivos funcionales, y elaborar procedimientos e informes de su ámbito de acción, para contribuir a la planificación, toma de decisiones y control de las actividades institucionales.
 
-d.- Proponer la dictación de normas para la operación de las aeronaves, licencias al personal aeronáutico, y aeronavegabilidad.
+d.- Proponer la dictación de normas y procedimientos para la operación de las aeronaves, licencias al personal aeronáutico, y aeronavegabilidad e ingeniería.
 
 e.- Fiscalizar a la aviación civil respecto a operación de aeronaves, empresas aéreas, licencias al personal aeronáutico, aeronavegabilidad, y centros de mantenimiento.
 
-f.- Otorgar, suspender y cancelar los Certificados de Operador Aéreo.
+f.- Proponer el otorgamiento y suspensión de los Certificados de Operador Aéreo.
 
 g.- Otorgar, renovar, suspender, convalidar o cancelar licencias, habilitaciones y autorizaciones al personal aeronáutico, según corresponda.
 
@@ -610,13 +624,13 @@ h.- Proponer la dictación de procedimientos y fiscalizar el cumplimiento de la 
 
 i.- Autorizar provisionalmente a las aeronaves que se construyan o adquieran en el extranjero para volar con distintivo chileno desde el lugar de construcción o adquisición, hasta un punto determinado en el territorio nacional.
 
-j.- Certificar la aeronavegabilidad de las aeronaves, los centros de mantenimiento aeronáuticos y los productos aeronáuticos, sus partes y piezas, definiendo para ello, las características, requisitos y condiciones para otorgar, convalidar o caducar los certificados correspondientes.
+j.- Otorgar la certificación de aeronavegabilidad de las aeronaves,as Organizaciones de Mantenimiento Aeronáutico y los productos aeronáuticos, sus partes y piezas, definiendo para ello, las características, requisitos y condiciones para otorgar, convalidar o caducar los certificados correspondientes.
 
 k.- Proponer la dictación de normas técnicas para la fabricación de aeronaves, sus partes y piezas, fiscalizar su cumplimiento y llevar el registro de las industrias dedicadas a ello, así como a la armaduría y reparación de los mismos elementos.
 
 l.- Informar al Departamento "Prevención de Accidentes" las áreas, actividades, condiciones o acciones que representen riesgos a la seguridad.
 
-m.- Participar en la investigación administrativa de accidentes e incidentes de aviación, cuando le sea requerido, mediante la realización de estudios, peritajes de carácter técnico y operativo, u otras actividades relacionadas con su ámbito de acción.
+m.- Autorizar la participación de funcionarios de su dependencia en la investigación de accidentes e incidentes de aviación u otros trabajos técnicos específicos, cuando le sea requerido.
 
 n.- Contribuir con el conocimiento e información técnica a la elaboración de la reglamentación aeronáutica en su ámbito de acción.
 
@@ -625,6 +639,12 @@ n.- Contribuir con el conocimiento e información técnica a la elaboración de 
 o.- Administrar los recursos humanos, materiales, financieros e informáticos bajo su responsabilidad, velando por su empleo eficiente y oportuno.
 
 p.- Determinar los requerimientos de capacitación de su personal, considerando las necesidades del Servicio y de desarrollo profesional.
+
+q.- Fiscalizar los Servicios de Tránsito Aéreo y de los aeropuertos y aeródromos públicos de dominio fiscal.
+
+r.- Gestionar el programa estatal de seguridad operacional (SSP).
+
+s.- Otorgar los certificados a organizaciones de mantenimiento aeronáutico, centros de instrucción aeronáutico y entrenadores sintéticos de vuelo.
 
 #### Artículo 41
 
@@ -662,13 +682,9 @@ Subdepartamento "Operaciones"
 
 #### Artículo 44
 
-Función Básica.
+Función Básica: Certificar y fiscalizar a las empresas aéreas que realizan operaciones de transporte aéreo con aeronaves que tengan una capacidad de hasta 19 pasajeros; a todas las que realizan trabajos aéreos y a las operaciones de la aeronáutica no comercial.
 
-Certificar y fiscalizar mediante un proceso de
-
-vigilancia continua a: Las empresas que realizan operaciones de transporte aéreo en aeronaves que tengan una capacidad de hasta 19 pasajeros o un peso máximo de despegue de 5.700 Kg. o menos; a todas las que realizan trabajos aéreos y a las operaciones de la aviación general. Asimismo, asesorar a los clubes aéreos y a otras entidades aeronáuticas correspondientes a su ámbito de acción.
-
-Lo anterior incluye a empresas que operan en Chile (nacionales y extranjeras); todas las aeronaves que operan en el territorio nacional (independiente de su matrícula); empresas chilenas y aeronaves de matrícula chilena que operan en el extranjero.
+Lo anterior, incluye a empresas aéreas que operan en Chile, nacionales o extranjeras; a todas las aeronaves que operan en el territorio nacional, independiente de su matrícula y a empresas aéreas chilenas y aeronaves de matrícula chilena que operan en el extranjero.
 
 #### Artículo 45
 
@@ -678,9 +694,11 @@ Subdepartamento "Licencias"
 
 #### Artículo 46
 
-Función básica: Otorgar, renovar, suspender, convalidar o cancelar licencias y habilitaciones al personal aeronáutico, efectuando las evaluaciones teóricas y de pericia a los postulantes y titulares de licencias y habilitaciones aeronáuticas.
+Función Básica: Otorgar, renovar y convalidar licencias y habilitaciones al personal aeronáutico, efectuando las evaluaciones teóricas y de pericia a los postulantes y titulares de licencias y habilitaciones aeronáuticas.
 
-Además fiscalizar el cumplimiento de la normativa en el ámbito de las licencias al personal aeronáutico.
+Fiscalizar el cumplimiento de la normativa en el ámbito de las licencias del personal aeronáutico.
+
+Certificar los Centros de Instrucción Aeronáutica y los entrenadores sintéticos de vuelo.
 
 #### Artículo 47
 
@@ -690,9 +708,13 @@ Subdepartamento "Aeronavegabilidad"
 
 #### Artículo 48
 
-Función Básica Certificar y fiscalizar en el ámbito de la Aeronavegabilidad mediante un proceso de vigilancia continua a: Las empresas que realizan operaciones de transporte aéreo en aeronaves que tengan una capacidad de hasta 19 pasajeros o un peso máximo de despegue de 5.700 Kg. o menos; a todas las que realizan trabajos aéreos; a la aviación general y a los centros de mantenimiento asociados. Además, certificar y fiscalizar a los organismos nacionales de diseño y fabricación de productos aeronáuticos, sus partes y componentes, aplicándose en cada una de estas áreas la normativa vigente.
+Función Básica: Certificar y fiscalizar la aeronavegabilidad de las aeronaves con matrícula chilena que tengan una capacidad de hasta 19 pasajeros.
 
-Lo anterior incluye a empresas que operan en Chile (nacionales y extranjeras); todas las aeronaves que operan en el territorio nacional (independiente de su matrícula); empresas chilenas y aeronaves de matrícula chilena que operan en el extranjero; centros de mantenimiento en el territorio nacional y en el extranjero a aquellos que le dan servicio a aeronaves de matrícula chilena.
+Fiscalizar la aeronavegabilidad de las aeronaves con matrícula extranjera que operan en Chile.
+
+Certificar y fiscalizar a los organismos nacionales de diseño y fabricación de productos aeronáuticos, sus partes y componentes, aplicándose en cada una de estas áreas la normativa vigente.
+
+Certificar a las Organizaciones de Mantenimiento Aeronáutico que dan servicios a aeronaves con matrícula chilena de hasta 19 pasajeros.
 
 #### Artículo 49
 
@@ -702,11 +724,11 @@ Subdepartamento Transporte Público
 
 #### Artículo 50
 
-Función Básica
+Función Básica: Certificar y fiscalizar a las empresas aéreas que realizan operaciones de transporte aéreo con aeronaves que tengan una capacidad sobre 19 pasajeros.
 
-Certificar y fiscalizar mediante un proceso de vigilancia continua a: Las empresas que realizan operaciones de transporte aéreo en aeronaves que tengan una capacidad sobre 19 pasajeros y un peso máximo de despegue sobre 5.700 Kg.; la aeronavegabilidad de sus aeronaves y los centros de mantenimiento asociados.
+Certificar y fiscalizar la aeronavegabilidad de sus aeronaves y las Organizaciones de Mantenimiento Aeronáutico.
 
-Lo anterior incluye a empresas que operan en Chile (nacionales y extranjeras); todas las aeronaves que operan en el territorio nacional (independiente de su matrícula); empresas chilenas y aeronaves de matrícula chilena que operan en el extranjero; centros de mantenimiento en el territorio nacional y en el extranjero a aquellos que le dan servicio a aeronaves de matrícula chilena.
+Lo anterior, incluye a empresas aéreas que operan en Chile, nacionales o extranjeras; a todas las aeronaves que operan en el territorio nacional, independiente de su matrícula; a empresas aéreas chilenas y aeronaves de matrícula chilena que operan en el extranjero y a Organizaciones de Mantenimiento Aeronáutico.
 
 #### Artículo 51
 
@@ -718,11 +740,13 @@ Departamento "Aeródromos y Servicios Aeronáuticos"
 
 Función básica:
 
-a.- Administrar los aeródromos públicos de dominio fiscal y autorizar, certificar y fiscalizar los aeródromos públicos y privados del país, velando por el funcionamiento eficaz de los servicios aeronáuticos.
+a.- Proponer la autorización y habilitación de los aeródromos del país. Fiscalizar los aeródromos privados y los aeródromos públicos de dominio particular. Administrar los aeródromos públicos de dominio fiscal del país.
 
 b.- Proporcionar Servicios de Navegación Aérea en el espacio aéreo controlado por Chile y determinar las necesidades de infraestructura, instalaciones, equipos y servicios destinados a la ayuda y protección de la navegación aérea.
 
 c.- Verificar y certificar las ayudas a la navegación aérea y las instalaciones aeronáuticas que corresponda y que estén destinados a la ayuda y protección de la navegación aérea.
+
+d.- Gestionar el riesgo en los aeropuertos, en los aeródromos y en las instalaciones aeronáuticas.
 
 #### Artículo 53
 
@@ -738,7 +762,7 @@ b.- Gestionar en materias de su competencia, y en concordancia con los objetivos
 
 c.- Proponer políticas, definir objetivos funcionales y elaborar procedimientos e informes de su ámbito de acción, para contribuir a la planificación, toma de decisiones y control de las actividades institucionales.
 
-d.- Prestar asesoría para controlar y fiscalizar los aeródromos públicos y privados, y mantener operativos los aeródromos públicos de dominio fiscal; proponiendo proyectos y programas de mantención de las instalaciones aeroportuarias y el mejoramiento de infraestructura de servicios a los pasajeros.
+d.- Mantener operativos los aeródromos públicos de dominio fiscal, proponiendo proyectos y programas de mantención de las instalaciones aeroportuarias y el mejoramiento de infraestructura de servicios a los pasajeros.
 
 e.- Operar y mantener las instalaciones ubicadas dentro o fuera de los aeródromos o estaciones aeronáuticas, destinadas a servir de ayuda y protección a la navegación aérea, como también autorizar su construcción, operación o mantenimiento por terceros.
 
@@ -776,15 +800,17 @@ s.- Participar en la investigación administrativa de accidentes e incidentes de
 
 t.- Contribuir con el conocimiento e información técnica a la elaboración de la reglamentación aeronáutica en su ámbito de acción.
 
-u.- Elaborar la normativa subsidiaria en relación con el reglamento del aire, las carta aeronáuticas, tránsito aéreo, servicio de búsqueda y salvamento, seguridad de aviación y transporte sin riesgo de mercancías peligrosas.
+u.- Proponer cambios a la normativa y procedimientos relacionados.
 
-v.- Ejercer las atribuciones legales delegadas por el Director General de Aeronáutica Civil.
+v.- Fiscalizar los aeródromos privados y los aeródromos públicos de dominio particular.
 
 w.- Administrar los recursos humanos, materiales, financieros e informáticos bajo su responsabilidad, velando por su empleo eficiente y oportuno.
 
 x.- Determinar los requerimientos de capacitación de su personal, considerando las necesidades del servicio y de desarrollo profesional.
 
 y.- Verificar y certificar el correcto funcionamiento de las ayudas a la navegación aérea e inspeccionar el funcionamiento técnico operativo de aeródromos, de las rutas y de las instalaciones terrestres aeronáuticas asociadas.
+
+z.- Difundir la normativa elaborada por el Subdepartamento Normativa Aeronáutica.
 
 #### Artículo 55
 
@@ -806,11 +832,19 @@ g.- Subdepartamento Zona Aeroportuaria "Sur"
 
 h.- Subdepartamento Zona Aeroportuaria "Austral"
 
+i.- Subdepartamento "Inspección en Vuelo.
+
 Subdepartamento "Servicios de Aeródromos"
 
 #### Artículo 58
 
-Función básica: Materializar el control y la fiscalización de los aeródromos públicos y privados. Administrar los aeródromos públicos de dominio fiscal; revisar y aprobar los antecedentes necesarios para la autorización y certificación de los aeródromos públicos y privados del país y fiscalizar las instalaciones que puedan afectar a la navegación aérea, velando por el funcionamiento eficaz de los servicios aeroportuarios.
+Función Básica: Autorizar y habilitar los aeródromos del país.
+
+Fiscalizar los aeródromos privados y los aeródromos públicos de dominio particular.
+
+Administrar los aeródromos públicos de dominio fiscal.
+
+Fiscalizar las instalaciones aeronáuticas y los obstáculos a la navegación aérea.
 
 #### Artículo 59
 
