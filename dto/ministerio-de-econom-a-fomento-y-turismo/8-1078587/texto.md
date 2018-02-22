@@ -20,6 +20,8 @@ Delégase en el Subsecretario de Pesca y Acuicultura, en su calidad de President
 
 2. Suscribir y aprobar los contratos de evaluadores externos de proyectos licitados por el Consejo de Investigación Pesquera y de Acuicultura.
 
+3. Dictar, modificar y derogar bases administrativas tipo y contratos tipo, en conformidad a lo dispuesto en la resolución Nº 1.600, de 2008, de Contraloría General de la República, y sus modificaciones.
+
 #### Artículo 2º
 
 Reemplázase el artículo 1º, letra V, numeral 6 DS Nº19, de 2001, de la Secretaría General de la Presidencia por el siguiente:
