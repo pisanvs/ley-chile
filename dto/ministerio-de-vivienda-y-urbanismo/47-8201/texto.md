@@ -28,6 +28,8 @@ NORMAS DE COMPETENCIA Y DEFINICIONES
 
 1.1. La presente Ordenanza reglamenta la Ley General de Urbanismo y Construcciones, y regula el procedimiento administrativo, el proceso de planificación urbana, el proceso de urbanización, el proceso de construcción, y los estándares técnicos de diseño y de construcción exigibles en los dos últimos.
 
+Los plazos de días contenidos en la Ley General de Urbanismo y Construcciones y en esta Ordenanza, en que no se indique expresamente que se trata de plazos de días hábiles, son de días corridos. Con todo, siempre que el último día de un plazo sea inhábil se entenderá prorrogado al primer día hábil siguiente.
+
 Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones que la presente Ordenanza requiera. Para este fin podrá consultar a las asociaciones gremiales e instituciones ligadas al ámbito del urbanismo y la construcción, llevando un registro de su participación en esta materia.
 
 #### Artículo 1
@@ -3219,6 +3221,48 @@ La propaganda y publicidad electoral se regirá por la Ley Nº 18.700, Orgánica
 #### Artículo 2
 
 7.11. Los Planes Reguladores Comunales podrán establecer disposiciones que rijan los cuerpos salientes que sobresalgan del plano vertical de la línea de edificación sobre el antejardín.
+
+## Capítulo 8
+
+DE LOS PLANES DE INVERSIONES EN INFRAESTRUCTURA DE MOVILIDAD Y ESPACIO PÚBLICO.
+
+De los Planes Comunales de Inversiones en Infraestructura de Movilidad y Espacio Público
+
+#### Artículo 2
+
+8.1. Cada municipio, de conformidad al artículo 176 de la Ley General de Urbanismo y Construcciones, deberá elaborar un plan comunal de inversiones en infraestructura de movilidad y espacio público, con los siguientes contenidos:
+
+1. Cartera priorizada de proyectos, obras y medidas, incluidas en los instrumentos de planificación territorial existentes o asociadas a éstos, debidamente priorizadas, para mejorar sus condiciones de conectividad, accesibilidad, operación y movilidad, así como la calidad de sus espacios públicos y la cohesión social y sustentabilidad urbana, referidas a áreas verdes, aceras y circulaciones peatonales, pasos para peatones, calzadas, ciclovías, luminarias y alumbrado público, soterramiento de redes, paraderos de buses, señalética, áreas de juegos infantiles, baños públicos, mobiliario urbano tales como bancos o escaños, basureros o contenedores de basura, estacionamientos de bicicletas, kioscos, pérgolas, entre otros.
+
+Cuando las iniciativas requieran de expropiaciones para su materialización deberá indicarse esta circunstancia.
+
+2. Plano, que grafique con precisión la ubicación, los tramos de los proyectos, obras y medidas que hayan sido incorporados en la Cartera.
+
+Los Aportes al Espacio Público a que se refiere el artículo 180 de la Ley General estarán destinados a la ejecución de las obras identificadas en el Plan, su actualización, la elaboración de los proyectos, el pago de las expropiaciones que sean necesarias para su materialización, entre otras determinadas por dicha disposición.
+
+El plan comunal de inversiones en infraestructura de movilidad y espacio público, será aprobado por el Concejo Municipal respectivo y promulgado mediante decreto emitido por el Alcalde, quien remitirá copia al Gobierno Regional. El mismo procedimiento se utilizará para sus modificaciones y actualizaciones. La cartera priorizada y el acto administrativo que apruebe el plan y sus modificaciones deberán publicarse en el Diario Oficial.
+
+El plan comunal de inversiones en infraestructura de movilidad y espacio público, deberá actualizarse periódicamente en un plazo no mayor a diez años, y cada vez que se apruebe un nuevo instrumento de planificación comunal.
+
+De los Planes Intercomunales de Inversiones en Infraestructura de Movilidad y Espacio Público
+
+#### Artículo 2
+
+8.2. En las áreas metropolitanas o que estén incluidas en un plan regulador metropolitano o intercomunal, las Secretarías Regionales Ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones, con consulta a las municipalidades respectivas, elaborarán un proyecto de plan intercomunal de inversiones en infraestructura de movilidad y espacio público, que tendrá los siguientes contenidos:
+
+1. Cartera priorizada de proyectos, obras y medidas, incluidas en los instrumentos de planificación de nivel intercomunal existentes o asociadas a éstos, debidamente priorizadas, para mejorar sus condiciones de conectividad, accesibilidad, operación y movilidad, así como la calidad de sus espacios públicos y la cohesión social y sustentabilidad urbana, referidas a áreas verdes, aceras y circulaciones peatonales, pasos para peatones, calzadas, ciclovías, luminarias y alumbrado público, soterramiento de redes, paraderos de buses, señalética, áreas de juegos infantiles, baños públicos, mobiliario urbano tales como bancos o escaños, basureros o contenedores de basura, estacionamientos de bicicletas, kioscos, pérgolas, entre otros.
+
+Cuando las iniciativas requieran de expropiaciones para su materialización deberá indicarse esta circunstancia.
+
+2. Plano, que grafique con precisión la ubicación, los tramos de los proyectos, obras y medidas que hayan sido incorporados en la Cartera.
+
+Al menos el 40% de los Aportes al Espacio Público a que se refiere el inciso cuarto del artículo 180 de la Ley General deberán destinarse a la ejecución de las obras incluidas en el Plan Intercomunal de Inversiones en Infraestructura de Movilidad y Espacio Público, conforme al procedimiento establecido en dicha disposición.
+
+El plan intercomunal de inversiones en infraestructura de movilidad y espacio público, será sometido por el Intendente respectivo a aprobación de los Alcaldes de las comunas incluidas en el área que abarque. Obtenida la conformidad de la mayoría absoluta de aquellos, el plan será presentado a aprobación del Consejo Regional y promulgado por resolución del intendente, debiendo remitir copia del Plan a las municipalidades respectivas.
+
+El mismo procedimiento se utilizará para sus modificaciones y actualizaciones. La cartera priorizada y el acto administrativo que apruebe el plan y sus modificaciones deberán publicarse en el Diario Oficial.
+
+El plan intercomunal de inversiones en infraestructura de movilidad y espacio público, deberá actualizarse periódicamente en un plazo no mayor a diez años, y cada vez que se apruebe un nuevo instrumento de planificación intercomunal.
 
 ## Título 3
 
