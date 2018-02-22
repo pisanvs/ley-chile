@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO DE EDUCACIÓN N° 488, DE 21 DE DICIEMBRE DE 2017
+
+Por decreto de Educación N° 488, de fecha 21 de diciembre de 2017, y de conformidad con lo dispuesto en el DL N° 3.166, de 1980, y su Reglamento fijado por DS N° 5.077, del mismo año, ley N° 20.903 y DFL N° 2, de Educación, de 1998, se ha aprobado la modificación de convenio celebrada con fecha 6 de noviembre 2017 entre el Ministerio de Educación y la Corporación de Estudio, Capacitación y Empleo de la Cámara de la Producción y del Comercio de Concepción, con el objeto de aprobar e incorporar al respectivo convenio de administración, un Anexo denominado "Aumento del aporte establecido por la ley N° 20.903", que permita que el establecimiento educacional regido por el decreto ley N° 3.166, de 1980, que administra esa entidad, sea beneficiado con dicho aumento.-
+
+Francisco Jeria León, Subsecretario de Educación (S).
