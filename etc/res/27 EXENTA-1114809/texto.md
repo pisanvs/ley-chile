@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de todo tipo de vehículos motorizados a calzada completa, en la Ruta C-350, en el tramo comprendido entre el kilómetro 57.425 y kilómetro 57.990, comuna de Tierra Amarilla, hasta el 3 de febrero de 2018.
+1. Prohíbase la circulación de todo tipo de vehículos motorizados a calzada completa, en la Ruta C-350, en el tramo comprendido entre el kilómetro 57.425 y kilómetro 57.990, comuna de Tierra Amarilla, hasta el 17 de febrero de 2018.
 
 2. Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
