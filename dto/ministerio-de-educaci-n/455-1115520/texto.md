@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO DE EDUCACIÓN N° 455, DE 14 DE DICIEMBRE DE 2017
+
+Por Decreto de Educación Nº 455, de fecha 14 de diciembre de 2017, y de conformidad con lo dispuesto en el DL Nº 3.166, de 1980, y su Reglamento fijado por DS Nº 5.077, del mismo año, ley Nº 20.903 y DFL Nº 2, de Educación, de 1998, se ha aprobado la modificación de convenio celebrada con fecha 7 de noviembre 2017 entre el Ministerio de Educación y la Fundación Nacional del Comercio para la Educación - Comeduc, con el objeto de aprobar e incorporar al respectivo convenio de administración, un Anexo denominado "Aumento del Aporte establecido por la ley Nº 20.903" que permita que el establecimiento educacional regido por el decreto ley Nº 3.166, de 1980, que administra esa entidad, sea beneficiado con dicho aumento.-
+
+Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
