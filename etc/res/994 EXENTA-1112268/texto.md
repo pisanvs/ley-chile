@@ -38,4 +38,6 @@ Resuelvo:
 
 1. Selecciónase a los siguientes condominios como beneficiarios del Programa de Protección al Patrimonio Familiar en su línea destinada a la atención de Condominios de Viviendas Sociales regulado por la resolución exenta Nº 1.538/2017 (V. y U.), y sus modificaciones, que a continuación se detallan:
 
+.
+
 Anótese, comuníquese y publíquese.- Verónica Guajardo Contreras, Secretaria Ministerial de Vivienda y Urbanismo (S) Región de Tarapacá.
