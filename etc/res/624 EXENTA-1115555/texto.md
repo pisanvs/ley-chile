@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 624 EXENTA, DE FEBRERO DE 2018
+
+Por resolución exenta N° 624, de fecha 7 de febrero de 2018, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana, se modificó resolución exenta N° 413, de 16 de noviembre de 2001, de misma Secretaría Regional Ministerial de Transportes y Telecomunicaciones, que aprueba el Programa de Enseñanza a la Escuela de Conductores No Profesionales o Clase B "ABC Escuela de Conductores Limitada", RUT N° 77.651.130-7, ubicada en Blas Cañas N° 477, comuna de Santiago, en sentido de reemplazar el domicilio de la Escuela por el ubicado en Marcoleta N° 532, comuna de Santiago. En todo lo no modificado, se mantienen íntegramente vigentes las demás estipulaciones aprobadas por resolución exenta N° 413, de 16.11.2001, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana (S).
