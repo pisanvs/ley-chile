@@ -1,0 +1,7 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.660, de 4 de octubre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+Modifícase la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.196, del 19 de julio de 1995, cuya transferencia fue autorizada por resolución 1.957, del 27 de septiembre de 2001, modificada por resolución 1.109, del 25 de mayo de 2009, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, a nombre de Salmones Multiexport S.A., sociedad chilena, RUT 79.891.160-0, con domicilio en Avenida Cardonal 2501, Puerto Montt, en el sentido que la concesionaria debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 1.424, del 24 de mayo de 2011, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca, modificada por resolución exenta 770, del 28 de febrero de 2017, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el N° 4 de la parte resolutiva del acto administrativo que otorgó la concesión de acuicultura.
+
+Santiago, 5 de febrero de 2018.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
