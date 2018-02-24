@@ -1,0 +1,17 @@
+ESTABLECE PERIODO DE CONSULTA PARA ADOPTAR LA MEDIDA DE AUTORIZACIÓN TRANSITORIA EN LA PRIMERA MILLA DEL ÁREA DE RESERVA ARTESANAL DE LAS REGIONES DE ÑUBLE Y DEL BIOBÍO
+
+Por resolución exenta Nº 632, de 16 de febrero de 2018, de esta Subsecretaría, establécense los días martes 20, miércoles 21 y jueves 22 de febrero de 2018, como periodo único de consulta para que los armadores de la XVI Región del Ñuble y VIII Región del Biobío, inscritos y activos en las pesquerías de sardina común y anchoveta con embarcaciones menores a 12 metros de eslora y que registren desembarques efectivos (no consideran las imputaciones de captura efectuadas en virtud de cesiones o traspasos de las cuotas asignadas) durante cada uno de los años 2015, 2016 y 2017, emitan su conformidad o disconformidad respecto de la propuesta de acuerdo de ingreso a la primera milla por parte de embarcaciones artesanales de eslora igual o superior a 12 metros, que consiste en:
+
+a) Autorizar el ingreso a la primera milla marina del área de reserva artesanal de las Regiones XVI del Ñuble y VIII del Biobío para realizar actividades pesqueras a las embarcaciones artesanales de una eslora igual o superior a 12 metros.
+
+b) No obstante lo anterior, el área marítima comprendida en la primera milla marina medida desde la línea de base normal de las áreas de Bahía de Coliumo, desde "Piedra La Peluda" hasta "Punta Chapehue"; Bahía de Concepción, desde Punta "El Arco" hasta Punta "Tumbes"; Bahía de San Vicente, desde Punta "Piedra Blanca" hasta Punta "Longaví Chico", y en el Golfo de Arauco, desde el Faro Puchoco hasta Río Tubul, quedará prohibida a la actividad pesquera artesanal de embarcaciones de eslora igual o superior a 12 metros.
+
+c) Sin perjuicio de la prohibición anterior, podrán realizar actividades pesqueras extractivas, los primeros 20 días habilitados para la pesca, contados desde el término de la veda de reclutamiento, un número máximo de 31 embarcaciones de eslora igual o superior a 12 metros e inferior a 15 metros, en las áreas de pesca ubicadas al interior de la primera milla marina correspondientes a) entre el Faro Puchoco y el Río Laraquete, en el Golfo de Arauco; y b) en la Bahía de Concepción. Será requisito acreditar que las embarcaciones registren desembarque efectivo (no consideran las imputaciones de captura efectuadas en virtud de cesiones o traspasos de las cuotas asignadas) durante el año 2017.
+
+d) Las embarcaciones que realicen actividad extractiva dentro de la primera milla, no deberán operar dentro los límites establecidos para las áreas de manejo y explotación de recursos bentónicos (AMERB) ni concesiones de acuicultura vigentes o que establezcan u otorguen durante la vigencia de la medida propuesta.
+
+e) El acuerdo propuesto en las letras a), b), c) y d) durará por un plazo de 5 años, renovables conforme el procedimiento establecido en el artículo 47 bis de la Ley General de Pesca y Acuicultura y en el "Procedimiento Acuerdo (1a Milla)" contenido en el "Plan de Manejo para las Pesquerías de Sardina común y Anchoveta V a X Regiones".
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 16 de febrero de 2018.- Pablo Berazaluce Maturana, Subsecretario de Pesca y Acuicultura.
