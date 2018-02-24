@@ -326,9 +326,7 @@ Las rampas de acceso y salida de estacionamientos situados a distintos nivel que
 
 Con frente a las vías estructurantes establecidas en el artículo N°25 de la presente Ordenanza, cuyos flujos vehiculares sean iguales o superiores a 300 vehículos hora por pista, el emplazamiento de proyectos que generan la obligación de 50 o más unidades de estacionamiento, sólo se autorizará si junto con la respectiva solicitud de aprobación se acompaña un estudio que justifique y resuelva los accesos y salidas de vehículos con sus respectivos flujos, debidamente dimensionados y compatibilizados con los flujos de la red estructurante en que se inserten. Para los efectos de la medición de los flujos se estará a lo dispuesto en la descripción contenida en la Sección 3.404 del Manual de Vialidad Urbana, aprobado por D.S. N° 12, del MINVU, de 1984.
 
-Tratándose de departamentos ubicados en primer piso, los estacionamientos que se emplacen en ese mismo nivel no podrán adosarse a las ventanas, debiendo mantener una distancia mínima de 5 m de aquellas.
-
-Además, en los edificios de apartamentos y de oficinas que requieren más de 20 estacionamientos, deberá contemplarse un 15% adicional para visitas, los que podrán ubicarse en el antejardín siempre que no ocupe más del 30% del mismo.
+Tratándose de departamentos ubicados en primer piso, los estacionamientos que se emplacen en ese mismo nivel no podrán adosarse a las ventanas, debiendo mantener una distancia mínima de 5 m de aquellas. Además, en los edificios de apartamentos y de oficinas que requieren más de 20 estacionamientos, deberá contemplarse un 15% adicional para visitas, los que podrán ubicarse en el antejardín siempre que no ocupe más del 30% del mismo.
 
 Los estándares de estacionamiento serán los que se indican en el cuadro siguiente, según el destino de las edificaciones. Las cifras con decimales se aproximarán al entero superior.
 
@@ -338,19 +336,23 @@ Destino de la edificación Número de estacionamientos
 
 exigidos
 
-VIVIENDAS COLECTIVAS O ACOGIDAS A
+VIVIENDAS COLECTIVAS O ACOGIDAS A LA LEY DE COPROPIEDAD INMOBILIARIA
 
-LA LEY DE COPROPIEDAD INMOBILIARIA
+- Sociales Se exige lo establecido en
 
-- Sociales no se exige
+la ley N° 19.537 de
 
-- De 0 Hasta 50 m2 1 por cada 5 viviendas
+Copropiedad Inmobiliaria
 
-- De más de 50 hasta 100 m2 1 por cada 4 viviendas
+1 por cada 2 viviendas
 
-- De más de 100 hasta 150 m2 1 por cada vivienda
+- De 0 hasta 50 m2 3 por cada vivienda
 
-- Sobre 150 m2 2 por cada vivienda
+- De más de 50 hasta 100 m2 3 por cada vivienda
+
+- De más de 100 hasta 150 m2 3 por cada vivienda
+
+- Sobre 150 m2 3 por cada vivienda
 
 EQUIPAMIENTO DE SALUD
 
@@ -402,9 +404,7 @@ espectadores
 
 piscina
 
-EQUIPAMIENTO TURISTICO Y DE
-
-ESPARCIMIENTO
+EQUIPAMIENTO TURISTICO Y DE ESPARCIMIENTO
 
 - Cines, teatros, auditorios 1 por cada 50
 
@@ -466,9 +466,7 @@ recinto con un mínimo
 
 de 3.
 
-SERVICIOS PUBLICOS, PROFESIONALES
-
-Y ARTESANALES
+SERVICIOS PUBLICOS, PROFESIONALES Y ARTESANALES
 
 - Oficinas en general 1 por cada 50 m2 útiles
 
@@ -614,9 +612,7 @@ Los talleres de reparación de vehículos y garajes mecánicos deberán, adicion
 
 #### Artículo 17°
 
-Establecimientos de Venta Minorista de Combustibles Líquidos y Centros de Servicio Automotriz.
-
-Las normas para el funcionamiento de estos establecimientos serán las establecidas en el artículo 7.1.3 de la Ordenanza del P.R.M.S.
+Establecimientos de Venta Minorista de Combustibles Líquidos y Centros de Servicio Automotriz. Las normas para el funcionamiento de estos establecimientos serán las establecidas en el artículo 7.1.3 de la Ordenanza del P.R.M.S.
 
 Se entiende por Establecimientos de Venta Minorista de Combustibles Líquidos a los locales destinados principalmente al expendio de bencina, petróleo diesel, parafinas, lubricantes y otros productos de similar naturaleza y que generan desplazamiento de vehículos.
 
@@ -716,27 +712,15 @@ B. USOS DE SUELO PROHIBIDOS.
 
 ° Deporte: Estadios, medialunas, coliseos
 
-° Esparcimiento: Hipódromos, circos, parques de
+° Esparcimiento: Hipódromos, circos, parques de entretenciones, casinos
 
-entretenciones, casinos
-
-° Comercio: Grandes tiendas, terminales de
-
-distribución, venta minorista combustible
-
-líquido y centros de servicio automotriz.
+° Comercio: Grandes tiendas, terminales de distribución, venta minorista combustible líquido y centros de servicio automotriz.
 
 ° Seguridad
 
-- Actividades productivas y de servicio de carácter
+- Actividades productivas y de servicio de carácter similar al industrial inofensivas, molestas o peligrosas
 
-similar al industrial inofensivas, molestas o
-
-peligrosas
-
-- Infraestructura: De transporte, sanitaria y
-
-energética.
+- Infraestructura: De transporte, sanitaria y energética.
 
 C. CUADRO DE NORMAS URBANISTICAS Y DE EDIFICACION:
 
@@ -744,29 +728,15 @@ VER DIARIO OFICIAL DE 07.08.2004, PÁGINA 7.
 
 A: aislado
 
-O.G.U.C : Ordenanza General de Urbanismo y
-
-Construcciones.
+O.G.U.C : Ordenanza General de Urbanismo y Construcciones.
 
 D. DISPOSICIONES COMPLEMENTARIAS:
 
-- El desarrollo del centro cívico será supervisado
+- El desarrollo del centro cívico será supervisado por el Municipio y evaluado de acuerdo a las normas antes señaladas.
 
-por el Municipio y evaluado de acuerdo a las
+- En los predios que enfrentan a Gran Avenida José Miguel Carrera no se exigirá antejardín.
 
-normas antes señaladas.
-
-- En los predios que enfrentan a Gran Avenida José
-
-Miguel Carrera no se exigirá antejardín.
-
-- En relación con la ocupación del suelo, el área
-
-libre resultante de la aplicación del porcentaje
-
-respectivo, podrá usarse para estacionamiento en
-
-un 50%.
+- En relación con la ocupación del suelo, el área libre resultante de la aplicación del porcentaje respectivo, podrá usarse para estacionamiento en un 50%.
 
 ZONA ZU - 2 Preferentemente Comercial
 
@@ -808,21 +778,13 @@ B. USOS DE SUELO PROHIBIDOS
 
 ° Deporte: Estadios, medialunas, coliseos
 
-° Esparcimiento: Hipódromos, circos, parques
-
-de entretenciones, casinos
+° Esparcimiento: Hipódromos, circos, parques de entretenciones, casinos
 
 ° Seguridad: Bases militares, cuarteles, cárceles
 
-- Actividades productivas y de servicio de carácter
+- Actividades productivas y de servicio de carácter similar al industrial inofensivas, molestas o peligrosas
 
-similar al industrial inofensivas, molestas o
-
-peligrosas
-
-- Infraestructura: De transporte, sanitaria y
-
-energética.
+- Infraestructura: De transporte, sanitaria y energética.
 
 C. CUADRO DE NORMAS URBANISTICAS Y DE EDIFICACION:
 
@@ -830,35 +792,21 @@ VER DIARIO OFICIAL DE 07.08.2004, PÁGINA 7.
 
 A: aislado P: pareado C: continuo
 
-O.G.U.C. : Ordenanza General de Urbanismo y
-
-Construcciones.
+O.G.U.C. : Ordenanza General de Urbanismo y Construcciones.
 
 D.- DISPOSICIONES COMPLEMENTARIAS:
 
 - Densidad mínima: 200 Hab/has.
 
-- Sobre los 9 m. de altura el sistema de
+- Sobre los 9 m. de altura el sistema de agrupamiento será aislado.
 
-agrupamiento será aislado.
+- La profundidad de la continuidad puede ser hasta de un 70% del fondo del predio.
 
-- La profundidad de la continuidad puede ser hasta
+- El porcentaje correspondiente a área libre podrá utilizarse para estacionamiento.
 
-de un 70% del fondo del predio.
+- Las propiedades que enfrenten la gran Avda. J.M. Carrera están exentas de cumplir con la normativa de antejardín.
 
-- El porcentaje correspondiente a área libre podrá
-
-utilizarse para estacionamiento.
-
-- Las propiedades que enfrenten la gran Avda.
-
-J.M. Carrera están exentas de cumplir con la
-
-normativa de antejardín.
-
-- Las construcciones pareadas no podrán sobrepasar
-
-los 3 pisos.
+- Las construcciones pareadas no podrán sobrepasar los 3 pisos.
 
 ZONA ZU - 3 RenovaciOn Mixta.
 
@@ -900,21 +848,13 @@ B. USOS DE SUELO PROHIBIDOS
 
 ° Deporte: Estadios, medialunas, coliseos
 
-° Esparcimiento: Hipódromos, circos, parques
-
-de entretenciones, casinos
+° Esparcimiento: Hipódromos, circos, parques de entretenciones, casinos
 
 ° Seguridad: Bases militares, cuarteles, cárceles
 
-- Actividades productivas y de servicio de carácter
+- Actividades productivas y de servicio de carácter similar al industrial inofensivas, molestas o peligrosas
 
-similar al industrial inofensivas, molestas o
-
-peligrosas
-
-- Infraestructura: de transporte, sanitaria y
-
-energética.
+- Infraestructura: de transporte, sanitaria y energética.
 
 C. CUADRO DE NORMAS URBANISTICAS Y DE EDIFICACION:
 
@@ -922,21 +862,13 @@ VER DIARIO OFICIAL DE 07.08.2004, PÁGINA 8.
 
 A: aislado P: pareado
 
-O.G.U.C. : Ordenanza General de Urbanismo y
-
-Construcciones.
+O.G.U.C. : Ordenanza General de Urbanismo y Construcciones.
 
 D. DISPOSICIONES COMPLEMENTARIAS:
 
 - Densidad mínima: 300 Hab/ há.
 
-- Los estacionamientos a nivel de 1º piso sólo
-
-podrán usar el 50 % del área libre y no podrán
-
-acercarse a menos de 5 metros de las fachadas
-
-de los edificios de apartamentos.
+- Los estacionamientos a nivel de 1º piso sólo podrán usar el 50 % del área libre y no podrán acercarse a menos de 5 metros de las fachadas de los edificios de apartamentos.
 
 ZONA ZU - 4 Renovación Residencial.
 
@@ -972,31 +904,11 @@ B. USOS DE SUELO PROHIBIDOS
 
 ° Educación: Universidades
 
-° Culto y Cultura: Catedrales, santuarios,
+° Culto y Cultura: Catedrales, santuarios, museos, salas de concierto, teatros, auditoriums
 
-museos, salas de concierto, teatros,
+° Deporte: Estadios, centros deportivos, medialunas, coliseos, gimnasios, piscinas
 
-auditoriums
-
-° Deporte: Estadios, centros deportivos,
-
-medialunas, coliseos, gimnasios, piscinas
-
-° Comercio: Centros comerciales, supermercados,
-
-grandes tiendas, terminales de distribución,
-
-mercados, servicentros, playas y edificios
-
-de estacionamiento, teatros, restaurants,
-
-discotecas, hoteles, moteles, quintas de
-
-recreo, cabarets, juegos electrónicos, ventas
-
-minoristas de combustibles líquidos y centro
-
-de servicio automotriz.
+° Comercio: Centros comerciales, supermercados, grandes tiendas, terminales de distribución, mercados, servicentros, playas y edificios de estacionamiento, teatros, restaurants, discotecas, hoteles, moteles, quintas de recreo, cabarets, juegos electrónicos, ventas minoristas de combustibles líquidos y centro de servicio automotriz.
 
 ° Seguridad: Bases militares, cuarteles, cárceles
 
@@ -1006,15 +918,9 @@ de servicio automotriz.
 
 ° Científico
 
-- Actividades productivas y de servicio de carácter
+- Actividades productivas y de servicio de carácter similar al industrial inofensivas, molestas o peligrosas
 
-similar al industrial inofensivas, molestas o
-
-peligrosas
-
-- Infraestructura: De transporte, sanitaria, y
-
-energética.
+- Infraestructura: De transporte, sanitaria, y energética.
 
 C. CUADRO DE NORMAS URBANISTICAS Y DE EDIFICACION:
 
@@ -1022,43 +928,21 @@ VER DIARIO OFICIAL DE 07.08.2004, PÁGINA 8.
 
 A: aislado P: pareado C: Continuo
 
-O.G.U.C.: Ordenanza General de Urbanismo y
-
-Construcciones.
+O.G.U.C.: Ordenanza General de Urbanismo y Construcciones.
 
 D. DISPOSICIONES COMPLEMENTARIAS:
 
 - Densidad mínima: 500 hab/há.
 
-- Los antejardines no pueden utilizarse para
+- Los antejardines no pueden utilizarse para estacionamientos de vehículos.
 
-estacionamientos de vehículos.
+- Los estacionamientos a nivel de terreno no podrán ocupar más del 20% del área libre.
 
-- Los estacionamientos a nivel de terreno no podrán
-
-ocupar más del 20% del área libre.
-
-- Los sitios en que se instale equipamiento
-
-comercial deberán tener una superficie mínima de
-
-500 m2 y cumplir la norma de estacionamiento
-
-señalada en el Art. 12.
+- Los sitios en que se instale equipamiento comercial deberán tener una superficie mínima de 500 m2 y cumplir la norma de estacionamiento señalada en el Art. 12.
 
 SUBSECTOR A
 
-- En este subsector, son aplicables, además, las
-
-normas de restricción aérea para las áreas "b" y
-
-"f", según el señalado D.S.N. Nº 146, el plano
-
-D.G.A.C. PP91-01 y lo dispuesto en el artículo
-
-8.4.1.3 del P.R.M.S indicados en la letra c) del
-
-presente artículo.
+- En este subsector, son aplicables, además, las normas de restricción aérea para las áreas "b" y "f", según el señalado D.S.N. Nº 146, el plano D.G.A.C. PP91-01 y lo dispuesto en el artículo 8.4.1.3 del P.R.M.S indicados en la letra c) del presente artículo.
 
 ZONA ZU - 5 Residencial, Baja Densidad.
 
@@ -1098,51 +982,23 @@ B. USOS DE SUELO PROHIBIDOS
 
 ° Educación: Universidades
 
-° Culto y Cultura: Catedrales, santuarios,
+° Culto y Cultura: Catedrales, santuarios, museos, salas de concierto, teatros, auditoriums
 
-museos, salas de concierto, teatros,
+° Deporte: Estadios, centros deportivos, medialunas, coliseos
 
-auditoriums
+° Comercio: Centros comerciales, supermercados, grandes tiendas, terminales de distribución, mercados, servicentros, hoteles, moteles, quintas de recreo, discotecas, cabarets, ventas minoristas de combustibles líquidos y centro de servicio automotriz.
 
-° Deporte: Estadios, centros deportivos,
-
-medialunas, coliseos
-
-° Comercio: Centros comerciales, supermercados,
-
-grandes tiendas, terminales de distribución,
-
-mercados, servicentros, hoteles, moteles,
-
-quintas de recreo, discotecas, cabarets, ventas
-
-minoristas de combustibles líquidos y centro
-
-de servicio automotriz.
-
-° Esparcimiento: Hipódromos, circos, parques de
-
-entretenciones, casinos.
+° Esparcimiento: Hipódromos, circos, parques de entretenciones, casinos.
 
 ° Seguridad: Bases militares, cuarteles, cárceles
 
-° Servicios: Ministerios, intendencias, cortes
-
-de justicia, servicios artesanales, garajes,
-
-talleres.
+° Servicios: Ministerios, intendencias, cortes de justicia, servicios artesanales, garajes, talleres.
 
 ° Científico
 
-- Actividades productivas y de servicio de carácter
+- Actividades productivas y de servicio de carácter similar al industrial inofensivas, molestas o peligrosas
 
-similar al industrial inofensivas, molestas o
-
-peligrosas
-
-- Infraestructura: De transporte, sanitaria y
-
-energética.
+- Infraestructura: De transporte, sanitaria y energética.
 
 C. CUADRO DE NORMAS URBANISTICAS Y DE EDIFICACION:
 
@@ -1150,47 +1006,21 @@ VER DIARIO OFICIAL DE 07.08.2004, PÁGINA 8.
 
 A: aislado P: pareado C: continuo
 
-O.G.U.C : Ordenanza General de Urbanismo y
-
-Construcciones.
+O.G.U.C : Ordenanza General de Urbanismo y Construcciones.
 
 D. DISPOSICIONES COMPLEMENTARIAS:
 
 - Densidad mínima en general: 160 Hab/Há.
 
-- Densidad máxima en el sector afectado por el área
+- Densidad máxima en el sector afectado por el área de restricción aérea graficada en plano P.R.C. -3 del aeródromo El Bosque (entre Inés Rivas y Trinidad Ramírez): 100 Hab/Há.
 
-de restricción aérea graficada en plano
+- Los terrenos para equipamiento comercial deberán disponer de un patio mínimo de 100 m2 para carga y descarga de los camiones proveedores.
 
-P.R.C. -3 del aeródromo El Bosque (entre Inés
-
-Rivas y Trinidad Ramírez): 100 Hab/Há.
-
-- Los terrenos para equipamiento comercial deberán
-
-disponer de un patio mínimo de 100 m2 para carga
-
-y descarga de los camiones proveedores.
-
-- Los sitios en que se instale equipamiento,
-
-tendrán una superficie mínima de 500 m2 y deberán
-
-enfrentar calles de un ancho mínimo de 15 mts.
+- Los sitios en que se instale equipamiento, tendrán una superficie mínima de 500 m2 y deberán enfrentar calles de un ancho mínimo de 15 mts.
 
 SUBSECTOR A
 
-- En este subsector, son aplicables, además, las
-
-normas de restricción aérea para las áreas "b"
-
-y "f", según el señalado D.S.N. Nº 146, el plano
-
-D.G.A.C. PP91-01 y lo dispuesto en el artículo
-
-8.4.1.3 del P.R.M.S indicados en la letra c) del
-
-presente artículo.
+- En este subsector, son aplicables, además, las normas de restricción aérea para las áreas "b" y "f", según el señalado D.S.N. Nº 146, el plano D.G.A.C. PP91-01 y lo dispuesto en el artículo 8.4.1.3 del P.R.M.S indicados en la letra c) del presente artículo.
 
 ZONA ZU - 6 Industria INOFENSIVA.
 
@@ -1198,9 +1028,7 @@ A. USOS DE SUELO PERMITIDOS
 
 - Vivienda.
 
-- Actividades productivas y servicio de carácter
-
-similar al industrial inofensivas.
+- Actividades productivas y servicio de carácter similar al industrial inofensivas.
 
 - Equipamiento de:
 
@@ -1228,29 +1056,21 @@ B. USOS DE SUELO PROHIBIDOS
 
 ° Culto y Cultura
 
-° Servicios: Servicios profesionales, públicos
-
-o privados
+° Servicios: Servicios profesionales, públicos o privados
 
 ° Deporte: Estadios, medialunas, coliseos
 
-° Comercio: Terminales de distribución, playas
-
-y edificios de estacionamiento
+° Comercio: Terminales de distribución, playas y edificios de estacionamiento
 
 ° Esparcimiento
 
 ° Seguridad: Bases militares, cuarteles, cárceles
 
-- Actividades productivas y de servicio de carácter
-
-similar al industrial molestas o peligrosas
+- Actividades productivas y de servicio de carácter similar al industrial molestas o peligrosas
 
 - Guarderías o depósito de camiones
 
-- Infraestructura: De transporte, sanitaria y
-
-energética.
+- Infraestructura: De transporte, sanitaria y energética.
 
 C. CUADRO DE NORMAS URBANISTICAS Y DE EDIFICACION:
 
@@ -1258,9 +1078,7 @@ VER DIARIO OFICIAL DE 07.08.2004, PÁGINA 9.
 
 A: aislado
 
-O.G.U.C. : Ordenanza General de Urbanismo y
-
-Construcciones.
+O.G.U.C. : Ordenanza General de Urbanismo y Construcciones.
 
 ZONA ZU - 7 mixta de talleres y viviendas.
 
@@ -1292,53 +1110,35 @@ A. USOS DE SUELO PERMITIDOS
 
 - Espacios Públicos
 
-- Actividades productivas y servicios de carácter
-
-similar al industrial inofensivas.
+- Actividades productivas y servicios de carácter similar al industrial inofensivas.
 
 B. USOS DE SUELO PROHIBIDOS
 
 - Equipamiento de:
 
-° Salud: Cementerios, crematorios, hospitales,
-
-clínicas
+° Salud: Cementerios, crematorios, hospitales, clínicas
 
 ° Educación: Universidades, liceos, institutos
 
-° Culto y Cultura: Catedrales, santuarios,
+° Culto y Cultura: Catedrales, santuarios, museos, salas de concierto, teatros, auditóriums
 
-museos, salas de concierto, teatros,
-
-auditóriums
-
-° Servicios: Ministerios, intendencias, cortes
-
-de justicia, juzgados, municipios
+° Servicios: Ministerios, intendencias, cortes de justicia, juzgados, municipios
 
 ° Deporte: Estadios, medialunas, coliseos
 
-° Comercio: Venta minorista combustibles líquidos
+° Comercio: Venta minorista combustibles líquidos y centros de servicio automotriz.
 
-y centros de servicio automotriz.
-
-° Esparcimiento: Hipódromos, circos, parques
-
-de entretenciones
+° Esparcimiento: Hipódromos, circos, parques de entretenciones
 
 ° Seguridad: Bases militares, cuarteles, cárceles
 
 ° Científico
 
-- Actividades productivas y de servicio de carácter
-
-similar al industrial molestas o peligrosas
+- Actividades productivas y de servicio de carácter similar al industrial molestas o peligrosas
 
 - Guarderías o depósito de camiones
 
-- Infraestructura: De transporte, sanitaria y
-
-energética.
+- Infraestructura: De transporte, sanitaria y energética.
 
 C. CUADRO DE NORMAS URBANISTICAS Y DE EDIFICACION:
 
@@ -1346,47 +1146,19 @@ VER DIARIO OFICIAL DE 07.08.2004, PÁGINA 9.
 
 A: aislado
 
-O.G.U.C. : Ordenanza General de Urbanismo y
-
-Construcciones.
+O.G.U.C. : Ordenanza General de Urbanismo y Construcciones.
 
 D. DISPOSICIONES COMPLEMENTARIAS:
 
-- Las guarderías o depósitos de vehículos sólo
+- Las guarderías o depósitos de vehículos sólo podrán instalarse en predios superiores a 1000 m2 y frente a calles de 20 o más metros de ancho.
 
-podrán instalarse en predios superiores a 1000
+En caso de enfrentar dos calles deberán acceder y salir por aquella de 20 m.
 
-m2 y frente a calles de 20 o más metros de ancho.
-
-En caso de enfrentar dos calles deberán acceder
-
-y salir por aquella de 20 m.
-
-- El sistema de agrupamiento de las viviendas será
-
-siempre el aislado. Los talleres deberán
-
-mantenerse aislados de las viviendas colindantes,
-
-pero podrán construirse pareados o continuos
-
-entre ellos siempre que cumplan con las normas
-
-de prevención contra incendios.
+- El sistema de agrupamiento de las viviendas será siempre el aislado. Los talleres deberán mantenerse aislados de las viviendas colindantes, pero podrán construirse pareados o continuos entre ellos siempre que cumplan con las normas de prevención contra incendios.
 
 SUBSECTOR A
 
-- En este subsector, son aplicables, además, las
-
-normas de restricción aérea para las áreas "b"
-
-y "f", según el señalado D.S.N. Nº 146, el plano
-
-D.G.A.C. PP91-01 y lo dispuesto en el artículo
-
-8.4.1.3 del P.R.M.S indicados en la letra c)
-
-del presente artículo.
+- En este subsector, son aplicables, además, las normas de restricción aérea para las áreas "b" y "f", según el señalado D.S.N. Nº 146, el plano D.G.A.C. PP91-01 y lo dispuesto en el artículo 8.4.1.3 del P.R.M.S indicados en la letra c) del presente artículo.
 
 ZONA ZU - 8 ZONA DEPORTIVA Y RECREATIVA.
 
@@ -1412,41 +1184,23 @@ VER DIARIO OFICIAL DE 07.08.2004, PÁGINA 9.
 
 A: aislado
 
-O.G.U.C.: Ordenanza General de Urbanismo y
-
-Construcciones.
+O.G.U.C.: Ordenanza General de Urbanismo y Construcciones.
 
 D. DISPOSICIONES COMPLEMENTARIAS:
 
-- Las canchas deportivas, piscinas y graderías de
-
-público no se contabilizan para el cálculo de la
-
-ocupación del suelo.
+- Las canchas deportivas, piscinas y graderías de público no se contabilizan para el cálculo de la ocupación del suelo.
 
 ZONA ZU - 9 INDUSTRIAL EXCLUSIVA.
 
 A. USOS DE SUELO PERMITIDOS.
 
-- Industrias, talleres, almacenamiento y
-
-actividades de servicio de carácter similar al
-
-Industrial molestas existentes acogidas a lo
-
-dispuesto en el artículo 6.1.3.4 de la Ordenanza
-
-del Plan Regulador Metropolitano de Santiago
-
-(PRMS) o inofensivas.
+- Industrias, talleres, almacenamiento y actividades de servicio de carácter similar al Industrial molestas existentes acogidas a lo dispuesto en el artículo 6.1.3.4 de la Ordenanza del Plan Regulador Metropolitano de Santiago (PRMS) o inofensivas.
 
 - Equipamiento de:
 
 ° Servicios de salud de atención ambulatoria
 
-° Educación de formación técnico - profesional
-
-y jardines infantiles
+° Educación de formación técnico - profesional y jardines infantiles
 
 ° Culto
 
@@ -1462,13 +1216,7 @@ y jardines infantiles
 
 ° Científico
 
-- Actividades Complementarias al transporte
-
-molestas existentes acogidas a lo dispuesto
-
-en el articulo 6.1.3.4 de la Ordenanza del
-
-P.R.M.S. o inofensivas.
+- Actividades Complementarias al transporte molestas existentes acogidas a lo dispuesto en el articulo 6.1.3.4 de la Ordenanza del P.R.M.S. o inofensivas.
 
 - Vivienda de cuidador
 
@@ -1492,9 +1240,7 @@ B. USOS PROHIBIDOS.
 
 - Vivienda, salvo la señalada como permitida.
 
-- Infraestructura de transporte, sanitaria y
-
-energética.
+- Infraestructura de transporte, sanitaria y energética.
 
 CONDICIONES DE EDIFICACION Y URBANIZACION.
 
@@ -1561,3 +1307,5 @@ VER DIARIO OFICIAL DE 07.08.2004, PÁGINA 11.
 VER DIARIO OFICIAL DE 07.08.2004, PÁGINA 11.
 
 Municipalidad de La Cisterna, Asesoría Urbana.
+
+> **Nota.** Por publicación del Diario Oficial de 09.09.2004, se rectificó el presente cuadro en la forma que la citada publicación indica.
