@@ -1,0 +1,53 @@
+DELEGA FACULTADES A FUNCIONARIO QUE SE INDICA DE LA UNIDAD DE PROMOCIÓN Y RESGUARDO DE DERECHOS EDUCACIONALES DE LA DIRECCIÓN REGIONAL METROPOLITANA DE LA SUPERINTENDENCIA DE EDUCACIÓN
+
+Núm. 62 exenta.- Santiago, 19 de febrero de 2018.
+
+Visto:
+
+Lo dispuesto en el DFL Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; la Ley Nº 20.529, que Establece el Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media y su Fiscalización; la Ley Nº 19.880, que Establece las Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado; en el decreto con fuerza de ley Nº 5, de 2012, del Ministerio de Educación; la resolución Nº 1.600, de 2008, de la Contraloría General de la República; resolución exenta Nº 630, de fecha 24 de junio de 2014, del Ministerio de Educación que Delega Facultades del Superintendente de Educación en los Directores Regionales de esta Superintendencia; en la resolución exenta Nº 714, de 9 de mayo de 2016, que Aprueba Instructivo de Modelamiento que precisa criterios y lineamientos en la tramitación de denuncias; ordinario 8CRD Nº 2331, del 28 de diciembre de 2017, que actualiza Modelamiento Procedimiento de Gestión de Casos Críticos; resolución exenta Nº 264, del 28 de julio de 2015, que nombra en calidad de titular el cargo de Director Regional de la Región Metropolitana;
+
+Considerando:
+
+1. Que, el objeto de la Superintendencia de Educación será fiscalizar, de conformidad a la ley, que los sostenedores de establecimientos educacionales reconocidos oficialmente por el Estado se ajusten a las leyes, reglamentos e instrucciones que dicte la Superintendencia, en adelante la normativa educacional. Asimismo, fiscalizará la legalidad del uso de los recursos por los sostenedores de los establecimientos subvencionados y que reciben aporte estatal y, respecto de los sostenedores de los establecimientos particulares pagados, fiscalizará la referida legalidad sólo en caso de denuncia. Además, proporcionará información, en el ámbito de su competencia, a las comunidades educativas y otros usuarios e interesados, y atenderá las denuncias y reclamos de éstos, aplicando las sanciones que en cada caso corresponda.
+
+2. Que, conforme a lo dispuesto en el artículo 49 de las letras g) y h) de la Ley Nº 20.529, la Superintendencia de Educación tendrá la atribución de absolver consultas, investigar y resolver denuncias que los distintos miembros de la comunidad escolar presenten, y de recibir reclamos y actuar como mediador respecto de ellos.
+
+3. Que, de acuerdo al artículo 61 de la ya citada ley, admitida una denuncia o reclamo a tramitación, el Director Regional ordenará la apertura de un expediente y designará al funcionario encargado de su tramitación, quien notificará al denunciado o reclamado.
+
+4. Que, mediante resolución exenta Nº 630, de 24 de junio de 2014, el Superintendente de Educación delegó facultades en los Directores Regionales de la Superintendencia, dentro de las cuales se menciona en el Nº 1 letra h) la siguiente: Asignar funciones al personal de la Dirección Regional respectiva y dictar el correspondiente acto administrativo, previo visto bueno de la respectiva jefatura de División.
+
+5. Que, atendido el modelamiento que precisan los criterios y lineamientos de la tramitación de denuncias y reclamos ante la Unidad de Promoción y Resguardo de Derechos Educacionales de las respectivas Direcciones Regionales de la Superintendencia de Educación, según Instructivo Aprobado mediante resolución exenta Nº 714, de fecha 9 de mayo de 2016, y resolución exenta Nº 346, de mayo de 2017, resulta necesario que le sean asignadas funciones directivas o de jefatura a quien desempeña el cargo de Encargado(a) de la Unidad de Promoción y Resguardo de Derechos Educacionales de la Región Metropolitana, con el propósito de permitir una gestión más eficiente y efectiva en el flujo y resolución de las denuncias y reclamos presentados por los usuarios contra establecimientos educacionales reconocidos oficialmente por el Estado.
+
+6. Que, la delegación de facultades es una institución contemplada en la ley, cuya finalidad es permitir una gestión eficiente y eficaz de los órganos de la Administración del Estado, en virtud de la cual es posible delegar el ejercicio de las atribuciones y facultades propias, en razón de su cargo, mecanismo que deberá efectuarse en forma parcial, sobre materias específicas y en funcionarios de su dependencia.
+
+7. Que, mediante resolución exenta Nº 57, del 10 de enero de 2017, del Superintendente de Educación, se asignan funciones de carácter directivo al o la jefatura que se desempeñe en el cargo de Encargado(a) de la Unidad de Promoción y Resguardo de Derechos Educacionales de la Dirección Regional de la Superintendencia de Educación Región Metropolitana o a quien temporalmente tenga la calidad de subrogante.
+
+Resuelvo:
+
+1- Deléguense las siguientes facultades para firmar por orden del Director Regional de la Superintendencia de Educación a quien desempeñe el cargo de Encargado(a) de la Unidad de Promoción y Resguardo de Derechos Educacionales de la Dirección Regional Metropolitana de la Superintendencia de Educación o a quien, temporalmente, tenga la calidad de subrogante; y que se detallan a continuación:
+
+a) Ordenar la apertura de un expediente una vez presentada una denuncia o iniciada una investigación por denuncia (de oficio o reclamo) por la Unidad de Promoción y Resguardo de Derechos Educacionales.
+
+b) Designar a un funcionario de la Unidad de Promoción y Resguardo de Derechos Educacionales como encargado de su tramitación, quien notificará al denunciado o reclamado.
+
+c) Suscribir los actos, ordinarios, oficios, informes o remitir las comunicaciones escritas o por correo electrónico, mediante las cuales: i) se requiera información a los Directores(as) de establecimientos educacionales reconocidos oficialmente o a sus sostenedores, una vez presentada una denuncia o iniciada una investigación por denuncia (de oficio o reclamo); ii) se disponga el apercibimiento cuando éstos no envíen la información solicitada destinada a resolver la denuncia investigada; iii) se ordene el cumplimiento de una gestión a éstos para la subsanación de una eventual conducta infractora o falta al interior del establecimiento educacional; iv) se derive una denuncia a la Unidad de Fiscalización, mediante la suscripción de informes técnicos, memos internos u oficios, al encargado de fiscalización o quien lo represente debidamente, ante una eventual infracción a la normativa educacional.
+
+d) Determinar poner término a la tramitación de una denuncia por parte de la Unidad de Promoción y Resguardo de Derechos Educacionales cuando: (i) no exista infracción a la normativa educacional, (ii) los hechos denunciados no sean parte de las competencias de la Superintendencia de Educación, (iii) los hechos denunciados se encuentren prescritos, (iv) la información entregada por el denunciante sea inexacta, errada o incompleta, de modo tal que impida su tramitación y análisis, (v) y en toda otra situación que contemple el Manual vigente de Modelamiento de la División de Promoción y Resguardo de Derechos Educacionales. En todas estas situaciones, el Encargado de Promoción y Resguardo de Derechos Educacionales deberá velar para que estas actuaciones sean fundamentadas y oportunamente notificadas a los interesados.
+
+e) Disponer las medidas necesarias para gestión pertinente de un reclamo, entre otras, derivar a mediadores externos o internos para iniciar proceso de mediación e informar el término del mismo, de conformidad a los criterios dispuestos en los instructivos que se encuentren vigentes.
+
+f) Resolver las solicitudes de incorporación de los interesados en el Registro Regional de Mediadores y realizar las gestiones administrativas para proceder al pago de los mediadores externos, en los casos que corresponda, de conformidad a lo dispuesto en los instructivos que se encuentren vigentes.
+
+g) Resolver las presentaciones o los recursos de reposición interpuestos por los denunciantes o entidades sostenedoras en contra de los actos administrativos que ponen término a la tramitación de una denuncia o reclamo por parte de la Unidad de Promoción y Resguardo de Derechos Educacionales.
+
+h) Revisar y tramitar los expedientes de las medidas disciplinarias de expulsión y/o cancelación de matrícula y/o no renovación de matrícula que son informadas a la Unidad de Promoción y Resguardo de Derechos Educacionales por las autoridades de los establecimientos educacionales, en conformidad al artículo 6º, letra d), del DFL Nº 2, de 1998, del Ministerio de Educación, modificado por la Ley de Inclusión Escolar, ley Nº 20.845.
+
+i) Coordinar la derivación a los organismos competentes de aquellas denuncias o reclamos que no se encuentren dentro de las competencias que correspondan ejercer a la Dirección Regional Metropolitana de la Superintendencia de Educación en conformidad a la normativa sectorial vigente.
+
+2- Téngase presente que lo dispuesto en la presente resolución regirá una vez que se encuentre totalmente tramitado el presente acto administrativo, otorgando plena validez y eficacia a toda aquella actuación formal relacionada con las facultades que se delegan por este acto, y que hubiere sido suscrita por el Encargado Regional de la Unidad de Promoción y Resguardo de Derechos Educacionales en cumplimiento de las funciones que corresponda supervigilar, dirigir, controlar o ejecutar según instrucciones elaboradas por la División pertinente. Todo ello, en conformidad al artículo 28 de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado y el artículo 13, inciso tercero, de la ley Nº 19.880.
+
+3- Establézcase la responsabilidad por las decisiones administrativas que se adopten o por las actuaciones que se ejecuten, se ajustarán a lo dispuesto en el Art. 41 letra d) del DFL Nº 1/19.653, que fija Texto Refundido, Coordinado y Sistematizado de la Ley Nº 18.575, Orgánica Constitucional de las Bases de la Administración del Estado y en todo lo no previsto, por la ley 19.880, sobre Bases de los Procedimientos Administrativos.
+
+4- Notifíquese la presente resolución exenta al Encargado Regional de la Unidad de Promoción y Resguardo de Derechos Educacionales de la Región Metropolitana, dejando constancia por escrito del trámite realizado.
+
+Anótese, notifíquese y comuníquese.- Blanca Reyes Saavedra, Directora Regional, Superintendencia de Educación Región Metropolitana.
