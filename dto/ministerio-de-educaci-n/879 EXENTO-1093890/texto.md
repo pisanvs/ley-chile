@@ -38,7 +38,7 @@ Apruébanse los programas de estudio de 7° año de educación básica para la a
 
 <!-- parte:9867011 -->
 
-Apruébanse los programas de estudio de 8° año de educación básica para la asignatura de Lengua Indígena correspondiente a Aymara, Rapa Nui y Mapuzugun.
+Apruébanse los programas de estudio de 8° año de educación básica para la asignatura de Lengua Indígena correspondiente a Aymara, Quechua, Rapa Nui y Mapuzugun.
 
 #### Artículo 2°
 
