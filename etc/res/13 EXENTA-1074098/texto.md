@@ -260,7 +260,19 @@ La aplicación de la referida medida, estará sujeta a un análisis de la evoluc
 
 7.4.5 Los centros de cultivo podrán realizar limpieza in situ de redes aun habiéndose constatado la presencia de Caligus rogercresseyi, o encontrarse en alguna de las categorías establecidas por el presente Programa.
 
-7.4.6 Los centros de cultivo de la Región de Magallanes y Antártica Chilena serán categorizados semanalmente de acuerdo a las cargas parasitarias informadas, por un periodo de 6 meses desde la publicación de la presente resolución.
+7.4.6 Los centros de cultivo de la Región de Magallanes y Antártica Chilena serán categorizados semanalmente de acuerdo a las cargas parasitarias informadas.
+
+7.4.7 En base a lo anterior se establecen las siguientes definiciones de caso, para los centros de cultivo emplazados en la Región de Magallanes:
+
+a) Caso sospechoso: toda jaula de centro de alta vigilancia (S. salar u O. mykiss), que durante el muestreo semanal de carga parasitaria, presente cargas promedio > 0 Caligus, en cualquier estadio.
+
+b) Caso Confirmado: toda jaula de centros de alta vigilancia (S. salar u O. mykiss), que durante el muestreo semanal de cargas parasitarias, presente carga promedio > 1,5 hembra ovígera (H.O).
+
+Control:
+
+a) Caso sospechoso: El titular del centro debe completar y enviar al Servicio una encuesta epidemiológica (disponible en página web del Servicio).
+
+b) Caso confirmado: Todo centro confirmado deberá presentar un plan de acción por jaula para disminuir las cargas parasitarias, esta contará con un seguimiento de 4 semanas consecutivas posterior a la cual quedará afecto a la medida de cosecha inmediata de las jaulas involucradas. Una vez cosechadas el 50% de las jaulas (acumulativamente) deberá realizar la cosecha total del resto del centro.
 
 7.5 Consideraciones en el uso de acopios
 
@@ -280,7 +292,7 @@ La aplicación de la referida medida, estará sujeta a un análisis de la evoluc
 
 8. Cualquier Agrupación de Concesiones podrá acordar, por la unanimidad de sus integrantes, medidas específicas de control de Caligidosis, fuera del marco del presente PSEVC Caligidosis, mediante el otorgamiento de un Plan de Manejo Sanitario, conforme a lo establecido en el artículo 58 I del DS Nº 319, citado en Visto, las cuales serán sometidas a una evaluación técnica y jurídica por parte del Servicio, quien tendrá amplias facultades para acogerlas o rechazarlas por resolución.
 
-> **Nota.** El literal b) del Artículo primero de la Resolución 4151 Exenta, Economía, publicada el 29.09.2017, modifica la presente norma en el sentido de incorporar en el numeral 5.1 como centro de Alta Vigilancia a la Región de Magallanes y la Antártica Chilena. Asimismo, el lietral c) dispone eliminar en la letra b) del numeral 5.2 como centro de baja vigilancia al centro cultivado con las especies Salmón del Atlántico (Salmo salar) o Trucha arcoíris (Oncorhynchus mykiss), ubicado en alguna de las agrupaciones de concesiones de la Región de Magallanes y la Antártica Chilena.
+> **Nota.** El literal b) del Artículo primero de la Resolución 4151 Exenta, Economía, publicada el 29.09.2017, modifica la presente norma en el sentido de incorporar en el numeral 5.1 como centro de Alta Vigilancia a la Región de Magallanes y la Antártica Chilena. Asimismo, el lietral c) dispone eliminar en la letra b) del numeral 5.2 como centro de baja vigilancia al centro cultivado con las especies Salmón del Atlántico (Salmo salar) o Trucha arcoíris (Oncorhynchus mykiss), ubicado en alguna de las agrupaciones de concesiones de la Región de Magallanes y la Antártica Chilen
 
 #### Artículo segundo
 

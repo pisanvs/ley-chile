@@ -544,6 +544,28 @@ plan aprobado, el centro será notificado como
 
 Centro en Alerta.
 
+5.4 En Magallanes:
+
+Caso sospechoso: Jaula que presenta detección del
+
+agente, signología de la enfermedad o mortalidad asociada
+
+a Piscirickettsiosis. Ante la detección de una jaula
+
+sospechosa, el titular del centro debe completar y
+
+enviar al Servicio una encuesta epidemiológica
+
+(disponible en página web del Servicio).
+
+Caso confirmado: Jaula que presente, al menos en
+
+conjunto dos de las siguientes condiciones, detección
+
+del agente, signología de la enfermedad o mortalidad
+
+semanal por piscirickettsiosis > 0,1%.
+
 6. VIGILANCIA DE LA PISCIRICKETTSIOSIS
 
 6.1. Vigilancia regular
@@ -620,15 +642,37 @@ moribundos, de mala condición y/o con
 
 mortalidad sin causa aparente.
 
-d) Los centros emplazados en la Región de
+Para los centros de cultivo emplazados
 
-Magallanes y de la Antártica Chilena,
+en la Región de Magallanes:
 
-deberán realizar los referidos muestreos y
+Deberá realizar el primer muestreo post
 
-análisis cada 4 meses.
+siembra considerando 30 peces, con un máximo
 
-e) Los centros de cultivo que hayan realizado
+de 1 pool por jaula.
+
+Ante la detección del agente se establece un
+
+incremento de la frecuencia de muestreo, cada
+
+15 días (3 muestreos) considerando un n=15
+
+(máximo 1 pool por jaula).
+
+Si alguno de los muestreos sale positivo, el
+
+centro deberá continuar con muestreos
+
+mensuales o, si en 3 muestreos quincenales
+
+consecutivos el centro obtiene resultados
+
+negativos, el centro vuelve a vigilancia
+
+regular.
+
+d) Los centros de cultivo que hayan realizado
 
 muestreos con una frecuencia superior a la
 
@@ -644,7 +688,7 @@ realizado según lo establecido en la letra
 
 f) del punto 6.1.
 
-f) Para efectos de la realización del muestreo
+e) Para efectos de la realización del muestreo
 
 y análisis, el tamaño muestreal deberá
 
@@ -871,6 +915,48 @@ cosecha o eliminación parcial o total de la(s)
 jaula(s) afectada(s) y tratamientos
 
 farmacológicos.
+
+Los titulares de los centros de cultivo emplazados
+
+en la Región de Magallanes, tratándose de jaulas
+
+confirmadas con Piscirickettsiosis deberán:
+
+. Notificar dentro de 24 horas al correo
+
+srs@sernapesca.cl.
+
+. Entregar un plan de acción por jaula que contemple
+
+y describa a lo menos alguna de las siguientes
+
+acciones: extracción de peces moribundos,
+
+desdobles con fines sanitarios, cosecha o
+
+eliminación parcial o total de las jaulas
+
+afectadas y tratamientos farmacológicos.
+
+. Este plan contará con un seguimiento por 6 semanas,
+
+al final de las cuales, si presenta mortalidad
+
+total > 0,15%, deberá cosechar la(s) jaula(s)
+
+afectada(s), dentro de un plazo no superior a 7
+
+días corridos.
+
+. Los centros con mortalidades por piscirickettsiosis
+
+inferior a 0,1% se mantendrán en vigilancia hasta
+
+que no se detecten resultados positivos o
+
+mortalidad por piscirickettsiosis, y deberán
+
+continuar con las medidas del plan de acción.
 
 7.2. Todo centro de cultivo que realice tratamientos
 
