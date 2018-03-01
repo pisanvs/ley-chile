@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto M.O.P. (EXENTO) Nº 7 de 22 de enero de 2018, se desistió de la expropiación del lote Nº1, ordenada por el Decreto MOP (Exento) Nº81 de 15 de marzo de 2016, para la obra "REGULARIZACION INFRAESTRUCTURA EXISTENTE Y EN OPERACIÓN EN TERRENOS DE PARTICULARES", Comuna de Florida, VIII Región del Biobío. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
