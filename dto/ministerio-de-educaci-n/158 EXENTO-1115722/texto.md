@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO DE EDUCACIÓN N° 158 EXENTO, DE 26 DE FEBRERO DE 2018
+
+Por el presente decreto exento del Ministerio de Educación se aprueba la resciliación del convenio de 20 de junio de 1986, celebrado entre el Ministerio de Educación y la Ilustre Municipalidad de Santiago, sobre Traspaso del Servicio Educacional y sus Bases, que presta la Escuela Básica de Adultos D - N° 101 de Santiago, aprobado por decreto supremo N° 409, de 1986, del Ministerio de Educación, que incide en la cláusula sexta, relativa al bien raíz. Lo anterior, con el objeto de practicar en el Registro de Propiedad del Conservador de Bienes Raíces de Santiago, las inscripciones, anotaciones, cancelaciones y subinscripciones que en derecho fueren procedentes.-
+
+Valentina Karina Quiroga Canahuate, Subsecretaría de Educación.
