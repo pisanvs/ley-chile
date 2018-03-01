@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 35 de 16 de febrero de 2018, se desistió parcialmente la expropiación del lote de terreno N° 86L3, reduciéndose la superficie del lote expropiado, quedando como a continuación se indica: LOTE 86L3, UNIVERSIDAD DE CHILE, rol de avalúo 1348-11, comuna de Independencia, superficie 387,61. La publicación se efectúa en cumplimiento a losdispuesto en el artículo 7° del Decreto Ley N° 2186 de 1978.
