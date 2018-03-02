@@ -160,6 +160,20 @@ urbano norte hasta el límite urbano sur, a
 
 través de Camino Longitudinal Antiguo.
 
+REQUÍNOA
+
+. El sistema vial urbano que interconecta
+
+la Ruta 5 con la Ruta H-410
+
+(Rol propuesto), a través de: Calle
+
+sin nombre (conocida como Los Lirios),
+
+Manuel Rodríguez (H-406) y Conexión
+
+Propuesta (calle sin nombre).
+
 5º Las calles o avenidas declaradas caminos públicos en el presente decreto sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Sergio Bitar Chacra, Ministro de Obras Públicas.
