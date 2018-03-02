@@ -40,55 +40,59 @@ Serán consideradas carentes de aptitudes para conducir vehículos motorizados l
 
 I.- PARA TODO TIPO DE LICENCIAS
 
-1.- Todas aquellas enfermedades que produzcan crisis de compromiso de conciencia, cualquiera que sea su causa;
+1.- Todas aquellas enfermedades que produzcan crisis de compromiso de conciencia, cualquiera que sea su causa sin perjuicio de lo dispuesto en el número 9.- de este título y 4 del Título II, siguiente;
 
-2.- Todas aquellas enfermedades que produzcan una incapacidad de efectuar movimientos voluntarios que impidan actuar con la rapidez y precisión que la conducción, manejo o control físico de un vehículo requiera;
+2.- Todas aquellas enfermedades que produzcan movimientos involuntarios o una incapacidad de efectuar movimientos voluntarios que impidan actuar con la rapidez y precisión que la conducción, manejo o control físico de un vehículo requiera sin perjuicio de lo dispuesto en el número 6.- del Título II, siguiente;
 
-3.- Todas aquellas enfermedades que se caractericen por movimientos involuntarios detectados, que interfieran seriamente con la habilidad de conducir;
+3.- Personas con defectos de tipo anatómico o funcional, que con la mejor corrección les imposibiliten la conducción, manejo o control físico de un vehículo, aunque sea especialmente adaptado a tales defectos.
 
-4.- Personas con defectos de tipo anatómico o funcional, que con la mejor corrección les imposibiliten la conducción, manejo o control físico de un vehículo, aunque sea especialmente adaptado a tales defectos.
+4.- Insuficiencia respiratoria que haga requerir oxígeno en forma habitual;
 
-5.- Capacidad ventilatoria funcional igual o menor de 40%;
+5.- Insuficiencia cardíaca permanente grados III y IV;
 
-6.- Insuficiencia cardíaca permanente grados III y IV;
+6.- Angina inestable, de reposo o a esfuerzos mínimos;
 
-7.- Insuficiencia coronaria crónica con capacidad de esfuerzo menor de 6 METS o su equivalente;
+7.- Hipertensión arterial mayor de 180 mmHg (sistólica) o mayor de 110 mmHg (diastólica), medida después de 5 minutos de reposo, en posición sentada con la extremidad superior apoyada en una mesa, a la altura del corazón; con un aparato calibrado, y usando un manguito acorde con las condiciones morfológicas del examinado;
 
-8.- Hipertensión arterial maligna;
+8.- Cardiopatías congénitas que condicionan insuficiencia cardíaca con capacidad funcional III o IV, hipertensión pulmonar o arritmias que puedan producir compromiso de conciencia;;
 
-9.- Cardiopatías congénitas que condicionan insuficiencia cardíaca o respiratoria;
+9.- Alzheimer u otras demencias moderadas o severas;
 
-10.- Prótesis cardíacas valvulares, mitrales o aórticas;
+10.- Cáncer, con performance status mayor o igual a 2, según el East Cooperative Oncology Group (Ecog);
 
-11.- Diabetes Mellitus tipo I;
+11.- Diplopia no corregida;
 
-12.- Insuficiencia renal crónica grado IV;
+12.- Toxicómanos (a drogas, alcohol o ambos) sin tratamiento, y aquellos que estándolo, no cuenten con la autorización del médico del Gabinete; y
 
-13.- Diplopia no corregida;
-
-14.- Toxicómanos (a drogas, alcohol o ambos) sin tratamiento, y aquellos que estándolo, no cuenten con la autorización del médico del Gabinete; y
-
-15.- Personas que estén bajo los efectos de sustancias que produzcan uno o varios de los siguientes efectos: alteraciones en el nivel de conciencia, en la percepción, en la habilidad motriz, en la estabilidad emocional y en el juicio.
+13.- Personas que estén bajo los efectos de sustancias que produzcan uno o varios de los siguientes efectos: alteraciones en el nivel de conciencia, en la percepción, en la habilidad motriz, en la estabilidad emocional y en el juicio.
 
 No obstante lo señalado precedentemente, se podrá otorgar licencia de conductor restringida, conforme al Art. 21° de la Ley de Tránsito, en el caso de postulantes a licencias no profesional Clase B y C que presenten el correspondiente informe del médico tratante, en que se certifique bajo su responsabilidad y acompañando los exámenes atinentes, que la deficiencia está compensada y que el postulante se encuentra en condiciones de salud normal y en control periódico.
 
 II.- PARA LICENCIAS CLASE A1 y A2 OBTENIDAS ANTES DEL 8 DE MARZO DE 1997; PARA LICENCIA PROFESIONAL CLASE A1, A2, A3, A4 Y A5; Y LICENCIA NO PROFESIONAL CLASE C:
 
-1.- Capacidad ventilatoria funcional igual o menor de 66%;
+1.- Arritmias ventriculares o síncope cardioinhibitorio;
 
-2.- Insuficiencia cardíaca permanente grados I y II;
+2.- Pacientes portadores de un desfibrilador cardíaco implantado;
 
-3.- Insuficiencia coronaria crónica estable con capacidad de esfuerzo mayor de 6 METS o su equivalente:
+3.- Diabetes mellitus tipo I;
 
-4.- Hipertensión arterial sistemática mayor de 95 mm. HG (diastólica) y 160 mm HG (sistólica);
+4.- Alzheimer u otra demencia de cualquier severidad;
 
-5.- Arritmias;
+5.- Trastornos neuromusculares tales como: Esclerosis múltiple, Enfermedad de Parkinson y Distrofia Muscular Progresiva;
 
-6.- Pacientes portadores de marcapaso;
+6.- Paresia de extremidad superior y/o inferior, o disfunción permanente del sistema musculoesquelético cuya gravedad impida la conducción segura;
 
-7.- Diabetes mellitus tipo II; e
+7.- Amputaciones o ausencia congénita de una extremidad que limiten en forma permanente la prensión gruesa o la ejecución segura de maniobras de conducción;
 
-8.- Insuficiencia renal crónica grado III.
+8.- Anquilosis o movilidad dolorosa que limiten el rango de movimiento de tronco, cabeza o extremidades;
+
+9.- Traumatismo Encéfalo-Craneano (TEC) secuelado con alteraciones funcionales crónicas, y
+
+10.- Diplopia con o sin corrección.
+
+#### Artículo 3° bis
+
+El Ministerio de Transportes y Telecomunicaciones, en conjunto con el Ministerio de Salud, emitirán los instructivos técnicos para el apoyo a la gestión del médico del Gabinete Técnico Municipal y para el adecuado proceso de examinación de los postulantes a licencia de conductor.
 
 #### Artículo 4°
 
