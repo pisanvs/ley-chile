@@ -240,7 +240,7 @@ El Ministerio de Educación, a través de la División de Educación Superior, p
 
 Las propuestas deberán ser presentadas conforme a los formularios y/o contenidos mínimos, que proporcionará el Ministerio de Educación a través de la División de Educación Superior, acompañando la información que en ellos se solicite, con el objeto de permitir un adecuado análisis y evaluación de las mismas.
 
-Cada propuesta deberá ser presentada por el Rector de las Instituciones participantes o por el representante legal en caso de instituciones cuya autoridad máxima no sea el Rector, señalando explícitamente el compromiso de llevarla a buen término, los recursos que solicitará y aportará para potenciar los resultados esperados y lograr una mayor viabilidad de implementación, y la forma en que la institución asumirá los gastos de continuidad para su futura sustentabilidad.
+Cada propuesta deberá ser presentada por el Rector de las Instituciones participantes o por el representante legal en caso de instituciones cuya autoridad máxima no sea el Rector, señalando explícitamente el compromiso de llevarla a buen término, los recursos que solicitará y aportará para potenciar los resultados esperados y lograr una mayor viabilidad de implementación, y la forma en que la institución asumirá los gastos de continuidad para su futura sustentabilidad, cuando corresponda.
 
 El Ministerio de Educación comunicará a las instituciones participantes el resultado de los diferentes concursos.
 
@@ -274,7 +274,7 @@ Las bases respectivas establecerán los montos mínimos y/o máximos de recursos
 
 Instituciones postulantes.
 
-Podrán postular al(los) concurso(s) de propuestas las Instituciones de Educación Superior referidas en el artículo 1º del DFL (Ed.) Nº 4 de 1981, que hayan obtenido la acreditación institucional en conformidad a lo establecido en la ley Nº 20.129, y las instituciones de educación superior señaladas en el artículo 52 del DFL (Ed.) Nº 2, de 2010, que no se encuentren incluidas en el artículo 1º del DFL (Ed.) Nº 4, de 1981, y que cuenten con acreditación institucional vigente, en conformidad a lo establecido en la Ley Nº 20.129. Asimismo, será requisito para postular a la línea de convenios de desempeño en formación inicial de profesores, la acreditación de la carrera.
+Podrán postular al(los) concurso(s) de propuestas las Instituciones de Educación Superior referidas en el artículo 1º del DFL (Ed.) Nº 4 de 1981, que hayan obtenido la acreditación institucional en conformidad a lo establecido en la ley Nº 20.129, y las instituciones de educación superior señaladas en el artículo 52 del DFL (Ed.) Nº 2, de 2010, que no se encuentren incluidas en el artículo 1º del DFL (Ed.) Nº 4, de 1981, y que cuenten con acreditación institucional vigente, en conformidad a lo establecido en la Ley Nº 20.129. Asimismo, será requisito para postular a la línea de convenios de desempeño en formación inicial de profesores, la acreditación de las carreras presentadas en la postulación.
 
 Sin perjuicio de lo anterior, las instituciones del primer inciso que hayan sido adjudicatarias de propuestas en formación inicial de profesores, innovación académica o fortalecimiento técnico profesional no podrán adjudicarse nuevas propuestas en la respectiva línea mientras éstas se encuentren en ejecución.
 
@@ -356,19 +356,19 @@ Los Comités de Evaluación serán los encargados de evaluar las propuestas, det
 
 El Comité de Pre - Selección será el encargado de entregar al Subsecretario de Educación una recomendación de pre - selección de las propuestas presentadas teniendo en consideración todos los antecedentes de evaluación entregados por los Comités de Evaluación, y los criterios adicionales, señalados en el artículo 15º, que podrá incluir un análisis conjunto de las propuestas.
 
-Los Comités de Evaluación serán presididos por los Directores de Convenios de Desempeño de Formación Inicial de Profesores, Innovación Académica y Fortalecimiento Técnico Profesional de la División de Educación Superior, respectivamente, y estarán integrados, además, por un mínimo de cinco (5) profesionales de indiscutible prestigio, provenientes de los diversos ámbitos de la educación superior, que cuenten con experiencia comprobada en cada línea, invitados por el Jefe de la División de Educación Superior del Ministerio de Educación. Los Comités podrán invitar a consultores externos nacionales y/o extranjeros para aportar evidencia adicional de calidad de las propuestas.
+Los Comités de Evaluación serán presididos por la Unidad Académica del Departamento de Financiamiento Institucional de la División de Educación Superior y estarán integrados, además, por un mínimo de cinco (5) profesionales de indiscutible prestigio, provenientes de los diversos ámbitos de la educación superior, que cuenten con experiencia comprobada en cada línea, invitados por el Jefe de la División de Educación Superior del Ministerio de Educación. Los Comités podrán invitar a consultores externos nacionales y/o extranjeros para aportar evidencia adicional de calidad de las propuestas.
 
 El Comité de Pre - Selección será presidido por el Jefe de la División de Educación Superior y estará integrado, además, por los siguientes funcionarios y profesionales:
 
 . Un (1) profesional invitado por el Subsecretario de Educación.
 
-. El Coordinador del Programa de Convenios de Desempeño de la División de Educación Superior.
+. El jefe del Departamento de Financiamiento Institucional de la División de Educación Superior.
 
 . Al menos tres (3) profesionales de indiscutible prestigio y experiencia comprobada en gestión de instituciones de Educación Superior, invitados por el Jefe de la División de Educación Superior.
 
 El Comité de Pre - Selección podrá invitar a consultores externos nacionales y/o extranjeros para aportar evidencia adicional de calidad de las propuestas.
 
-Los Comités serán asistidos en sus funciones por el Programa de Convenios de Desempeño de la División de Educación Superior, que será responsable de apoyar la convocatoria, evaluación y resolución de los concursos, asistir la preparación de los Convenios de Desempeño y realizar el seguimiento de la implementación de los Planes de Mejoramiento Institucional adjudicados.
+Los Comités serán asistidos en sus funciones por el Departamento de Financiamiento Institucional de la División de Educación Superior, que será responsable de apoyar la convocatoria, evaluación y resolución de los concursos, asistir la preparación de los Convenios de Desempeño y realizar el seguimiento de la implementación de los Planes de Mejoramiento Institucional adjudicados.
 
 #### Artículo 15º
 
@@ -490,7 +490,7 @@ La continuidad de las transferencias, en los casos que correspondan, estará sup
 
 Supervisión de la ejecución del Convenio de Desempeño en Formación Inicial de Profesores, Innovación Académica y Fortalecimiento Técnico Profesional.
 
-Las labores de supervisión de la ejecución de los "Convenios de Desempeño" que deba realizar el Ministerio de Educación las efectuará la División de Educación Superior a través del Programa de Convenios de Desempeño de la División de Educación Superior.
+Las labores de supervisión de la ejecución de los "Convenios de Desempeño" que deba realizar el Ministerio de Educación las efectuará la División de Educación Superior a través del Departamento de Financiamiento Institucional de la División de Educación Superior.
 
 #### Artículo 22º
 
@@ -514,7 +514,7 @@ En las respectivas bases de concurso se señalarán las causales de suspensión 
 
 Informes.
 
-Las instituciones beneficiarias deberán presentar al Ministerio de Educación, a través del Coordinador del Programa de Convenios de Desempeño de la División de Educación Superior, Informes de Logro de Objetivos de cada Convenio de Desempeño.
+Las instituciones beneficiarias deberán presentar al Ministerio de Educación, a través del Departamento de Financiamiento Institucional de la División de Educación Superior, Informes de Logro de Objetivos de cada Convenio de Desempeño.
 
 Estos informes serán revisados y catalogados en las siguientes categorías de cumplimiento: Satisfactorio, Satisfactorio con Alerta e Insatisfactorio.
 
@@ -554,7 +554,7 @@ Las bases respectivas establecerán los montos mínimos y/o máximos de recursos
 
 Comisión de Preselección.
 
-Para los temas a), b) y c) del artículo 27º precedente, el Ministerio de Educación conformará una Comisión de Preselección encargada de presentar al Subsecretario de Educación una propuesta de adjudicación de los proyectos presentados en los concursos de Proyectos de Carácter General. Esta Comisión de Preselección será presidida por el Jefe de la División de Educación Superior del Ministerio de Educación e integrada además por los siguientes funcionarios y especialistas:
+Para los temas a), b) y c) del artículo 27º precedente, el Ministerio de Educación conformará una Comisión de Preselección encargada de presentar al Subsecretario de Educación una propuesta de adjudicación de los proyectos presentados en los concursos de Proyectos de Carácter General. Esta Comisión de Preselección será presidida por el Jefe de la División de Educación Superior del Ministerio de Educación, o quien éste designe, e integrada además por los siguientes funcionarios y especialistas:
 
 - Un (1) profesional invitado por el Jefe de la División de Educación Superior del Ministerio de Educación.
 
@@ -566,31 +566,59 @@ La función principal de la Comisión de Preselección, será entregar al Subsec
 
 #### Artículo 29º
 
-Criterios de evaluación.
+Criterios de Evaluación.
 
-Como criterios para la evaluación, jerarquización y adjudicación de los proyectos que se presenten al concurso de Proyectos de Carácter General en los temas a) y b) y c), del artículo 27º, se considerarán los siguientes aspectos:
+Como criterios para la evaluación, jerarquización y adjudicación de los proyectos que se presenten al concurso de Proyectos de Carácter General, en los temas de los literales b) y c) del artículo 27º del presente reglamento, se considerarán los siguientes aspectos:
 
-a) La calidad y pertinencia del proyecto y la rigurosidad de su fundamentación.
+a) La calidad y rigurosidad en la presentación.
 
-b) El impacto y beneficios esperados del proyecto en el mejoramiento de la eficiencia y calidad del sistema de educación superior (ejemplo: disminuir las tasas de deserción, aumentar las titulaciones oportunas, etc.).
+b) La coherencia entre el diagnóstico y estrategias.
 
-c) La optimización de la gestión de la institución.
+c) La pertinencia, en tanto, vinculación con las políticas públicas en la materia y/o necesidades de desarrollo nacional o regional.
 
-d) Su vinculación con las necesidades del desarrollo nacional y regional.
+d) El impacto y beneficios esperados en el mejoramiento de la eficiencia y calidad del sistema de educación superior (por ejemplo: disminuir las tasas de deserción, aumentar las titulaciones oportunas, etc.).
 
-e) El carácter innovador del proyecto.
+e) La optimización de la gestión institucional.
 
-f) La coherencia entre diagnóstico y estrategias, así como entre fines y medios.
+f) El carácter innovador.
 
-g) El compromiso de la institución con el desarrollo y resultados del proyecto, y su relación con la respectiva política y plan de desarrollo institucional.
+g) El compromiso institucional con el desarrollo y resultados de la iniciativa.
 
-h) La viabilidad del proyecto con relación al cumplimiento de metas y objetivos.
+h) La relación con la respectiva política y plan de desarrollo institucional.
 
-i) Monto de los recursos solicitados y la equivalencia entre los costos de los ítemes que comprende el proyecto con los costos de mercado de los mismos.
+i) La viabilidad con relación al cumplimiento de metas y objetivos.
 
-j) Propiciar actividades que impliquen coordinación o articulación intrainstitucional o interinstitucional, o que puedan ser replicadas en el resto del sistema de educación superior, procurando evitar la superposición de esfuerzos institucionales.
+j) La pertinencia del monto de los recursos solicitados.
 
-Las bases del concurso respectivo indicarán la jerarquización y ponderación de los criterios antedichos, según la modalidad de proyecto a cuya postulación se convoque conforme al artículo 27º precedente.
+k) La equivalencia entre los costos de los ítemes que comprende el proyecto, con los costos de mercado de los mismos.
+
+l) La articulación intrainstitucional o interinstitucional procurando evitar la superposición de esfuerzos institucionales.
+
+En relación a las iniciativas que presenten al concurso de Proyectos de Carácter General en el tema del literal a) del artículo 27º del presente reglamento, se considerarán los siguientes criterios de evaluación:
+
+a) La calidad y rigurosidad en la presentación.
+
+b) La coherencia entre diagnóstico y estrategias.
+
+c) El carácter innovador.
+
+d) El compromiso institucional con el desarrollo y resultados de la iniciativa.
+
+e) La viabilidad con relación al cumplimiento de metas y objetivos.
+
+f) La pertinencia del monto de los recursos solicitados.
+
+g) La equivalencia entre los costos de los ítemes que comprende el proyecto con los costos de mercado de los mismos.
+
+h) El mejoramiento de la convivencia entre los distintos estamentos institucionales.
+
+i) La concordancia con políticas públicas impulsadas por el Ministerio de Educación.
+
+j) La contribución al desarrollo académico de los estudiantes participantes.
+
+k) El fortalecimiento del vínculo con actores locales.
+
+Las bases del concurso respectivo indicarán la jerarquización y ponderación de los criterios antedichos, según la modalidad de proyecto cuya postulación se convoque conforme al artículo 27º precedente.
 
 #### Artículo 30º
 
@@ -610,9 +638,9 @@ Los aportes que deba hacer el Ministerio de Educación a las instituciones adjud
 
 A su vez, previo a la entrega de cada uno de los aportes, sean realizados en una o dos cuotas, las Instituciones privadas deberán entregar garantías por cada uno de los aportes y por el fiel cumplimiento del Convenio, según condiciones que se indiquen en las bases respectivas. En todo caso, los anticipos deberán ser garantizados en un cien por ciento de su valor. Las Instituciones públicas quedarán eximidas de esta exigencia.
 
-El plazo máximo de ejecución de dichos proyectos será de un año contado desde la total tramitación del acto administrativo que apruebe el convenio correspondiente. El Ministerio de Educación, sin embargo, a petición fundada de las instituciones adjudicatarias y según las bases respectivas, podrá prorrogar hasta por un año adicional el plazo de ejecución del proyecto contado desde la fecha de término de la duración establecida en el respectivo convenio suscrito entre el Ministerio de Educación y la institución de educación superior beneficiada.
+El plazo máximo de ejecución de dichos proyectos será de hasta dos años contados desde la total tramitación del acto administrativo que apruebe el convenio correspondiente. El Ministerio de Educación, sin embargo, a petición fundada de las instituciones adjudicatarias y según las bases respectivas, podrá prorrogar hasta por un año adicional el plazo de ejecución del proyecto contado desde la fecha de término de la duración establecida en el respectivo convenio suscrito entre el Ministerio de Educación y la institución de educación superior beneficiada.
 
-En las bases del concurso respectivo se indicarán los contenidos mínimos del Convenio.
+En las bases del concurso respectivo se indicarán los contenidos mínimos del Convenio y la duración máxima de los proyectos, la que no podrá ser mayor a dos años, de acuerdo a lo señalado en el inciso anterior.
 
 #### Artículo 32º
 
