@@ -120,17 +120,15 @@ Para estos efectos podrá otorgarse autorización para ejercer la docencia de au
 
 A.- En Educación Parvularia, se debe considerar el siguiente orden de prioridad:
 
-1.- Ser egresado de la carrera de Educación Parvularia de alguna universidad o instituto profesional estatal o particular reconocida oficialmente;
+1.- Ser egresado de la carrera de Educación Parvularia de alguna universidad o instituto profesional estatal o particular reconocido oficialmente y acreditar encontrarse con el título en trámite;
 
-2.- Ser profesor titulado de Enseñanza Básica;
+2.- Ser egresado de la carrera de Educación Parvularia de alguna universidad o instituto profesional estatal o particular reconocido oficialmente;
 
-3.- Ser Profesor de Educación Especial o Diferencial;
+3.- Ser profesor titulado de Educación Especial o Diferencial de alguna universidad o instituto profesional estatal o privado reconocido oficialmente;
 
-4.- Ser egresado de pedagogía en Enseñanza Básica;
+4.- Ser profesor titulado de Enseñanza Básica de alguna universidad o instituto profesional estatal o privado reconocido oficialmente, sólo para desempeñarse en Segundo Nivel de Transición;
 
-5.- Estar cursando estudios regulares de Educación Parvularia en universidades o institutos profesionales estatales o particulares reconocidos oficialmente, con cuatro semestres aprobados a lo menos;
-
-6.- Ser profesor titulado de Enseñanza Media.
+5.- Estar cursando estudios regulares de Educación Parvularia en universidades o institutos profesionales estatales o particulares reconocidos oficialmente, con seis semestres aprobados a lo menos y con formación práctica.
 
 B.- En Enseñanza Básica, se debe considerar el siguiente orden de prioridad:
 
@@ -262,7 +260,7 @@ Las personas mencionadas en la letra a) del artículo 8º de este reglamento pre
 
 Sin perjuicio de lo señalado en los incisos precedentes, en el caso a que se refiere el inciso 5º del artículo 9º anterior deberá acompañarse la documentación que acredite la existencia de la ausencia o vacancia por la cual se solicita autorización.
 
-En general, constituirá instancia de apelación la División de Educación General del Ministerio de Educación, salvo en el caso descrito en la letra a) del artículo 8º del presente decreto que lo será el Subsecretario de Educación.
+En general, constituirá instancia de apelación la División de Educación General del Ministerio de Educación, salvo en el caso descrito en la letra a) del artículo 8º del presente decreto que lo será el Subsecretario de Educación. No obstante lo señalado precedentemente, en materias relativas a solicitudes de autorización fundadas en alguna de las situaciones contempladas en la letra A.- del artículo 11 del presente decreto, constituirá instancia de apelación la Subsecretaría de Educación Parvularia.
 
 #### Artículo 15
 
@@ -298,7 +296,7 @@ La inscripción correspondiente deberá contener, a lo menos, los siguientes dat
 
 #### Artículo 17
 
-La División de Educación General llevará un Registro General de todas las personas autorizadas para ejercer docencia de aula en el país, que será un consolidado de todos los Registros Regionales, más las autorizaciones que concede dicha División directamente.
+La División de Educación General llevará un Registro General de todas las personas autorizadas para ejercer docencia de aula en el país, que será un consolidado de todos los Registros Regionales, más las autorizaciones que concede dicha División directamente y las que por la vía de la apelación conceda la Subsecretaría de Educación Parvularia.
 
 Para estos efectos, las Secretarías Regionales Ministeriales de Educación deberán enviar mensualmente la nómina de las personas autorizadas y una copia de la resolución respectiva.
 
@@ -316,11 +314,13 @@ En el ejercicio de esta facultad deberá a lo menos:
 
 a) Impartir instrucciones para la adecuada aplicación de las normas legales y reglamentarias que rigen el ejercicio de la función docente;
 
-b) Ejercer la supervigilancia y coordinación de las autorizaciones para ejercer docencia;
+b) Ejercer la supervigilancia y coordinación de las autorizaciones para ejercer docencia; Sin perjuicio de las facultades que correspondan a la Subsecretaría de Educación Parvularia.
 
 c) Resolver los casos particulares que se presenten en la práctica y que no sea posible resolverlos de acuerdo a las reglas generales establecidas;
 
-d) Proponer o adoptar según el caso, las medidas correctivas que procedan incluso la invalidación de la respectiva autorización cuando vulnere las disposiciones legales y reglamentarias; y e) Actuar como instancia de apelación en estas materias, cuando corresponda.
+d) Proponer o adoptar según el caso, las medidas correctivas que procedan incluso la invalidación de la respectiva autorización cuando vulnere las disposiciones legales y reglamentarias; y
+
+e) Actuar como instancia de apelación en estas materias, cuando corresponda.
 
 #### Artículo 19
 
@@ -328,7 +328,7 @@ Deróganse, a contar de la fecha de publicación del presente decreto en el Diar
 
 #### Artículo transitorio
 
-Las personas que a la fecha de publicación del presente decreto contaban con autorización docente para impartir clases de religión y no cumplan con la formación mínima en pedagogía exigida en el artículo 11 de este reglamento, tendrán plazo hasta el 31 de diciembre de 2013 para completar dichos estudios. Durante este período, el Secretario Regional Ministerial de Educación respectivo podrá renovarles anualmente dicha autorización si acreditan el cumplimiento de los demás requisitos para acceder a ella.
+Las personas que a la fecha de publicación del presente decreto contaban con autorización docente para impartir clases de religión y no cumplan con la formación mínima en pedagogía exigida en el artículo 11 de este reglamento, tendrán plazo hasta el 31 de Diciembre de 2018 para completar dichos estudios. Durante este período, el Secretario Regional Ministerial de Educación respectivo podrá renovarles anualmente dicha autorización si acreditan el cumplimiento de los demás requisitos para acceder a ella.
 
 Anótese, tómese razón, publíquese e insértese en la Recopilación Oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Sergio Bitar Chacra, Ministro de Educación.
 
