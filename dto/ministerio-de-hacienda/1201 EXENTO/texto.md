@@ -72,23 +72,7 @@ I.R.N.V.M. : BVKY.43-5
 
 Destinación : Procuraduría Fiscal de Temuco
 
-4.- Vehículo : Camioneta
-
-Marca : Nissan
-
-Modelo : Terrano DX CD 2.5
-
-Año : 2009
-
-Color : Plateado Metálico
-
-Nº Motor : YD25257859A
-
-Chasis Nº : JN1CPUD22Z0091676
-
-I.R.N.V.M. : BVKY.42-7
-
-Destinación : Procuraduría Fiscal de Puerto Montt
+4.- Eliminado
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Andrés Velasco Brañes, Ministro de Hacienda.- Edmundo Pérez Yoma, Ministro del Interior.
 
