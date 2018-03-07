@@ -26,23 +26,7 @@ I.R.N.V.M. : ZW.7253-1
 
 Destinación : Procuraduría Fiscal de Chillán.
 
-2.- Vehículo : Automóvil.
-
-Marca : Hyundai.
-
-Modelo : Elantra HD GLS, 1600 CC.
-
-Año : 2007.
-
-Color : Gris.
-
-N° Motor : G4FC6U060421.
-
-Chasis N° : KMHDU41BP7U072164.
-
-I.R.N.V.M. : ZW.7254-K.
-
-Destinación : Procuraduría Fiscal de Concepción.
+2.- Eliminado.
 
 3.- Vehículo : Camioneta.
 
