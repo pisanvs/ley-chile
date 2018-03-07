@@ -1,0 +1,5 @@
+APRUEBA LA MEDIDA DE CONSERVACIÓN Y ORDENAMIENTO MCO 01-2018 ADOPTADA POR LA COMISIÓN DE LA CONVENCIÓN SOBRE LA CONSERVACIÓN Y ORDENAMIENTO DE LOS RECURSOS PESQUEROS EN ALTA MAR EN EL OCÉANO PACÍFICO SUR EN SU SEXTA REUNIÓN DE 2018
+
+Por resolución exenta Nº 730, de 28 de febrero de 2018, de esta Subsecretaría, apruébase la Medida de Conservación y Ordenamiento MCO Nº 01-2018 para Trachurus Murphyi, adoptada por Comisión de la Convención sobre la Conservación y Ordenamiento de los Recursos Pesqueros en Alta Mar en el Océano Pacífico Sur, en su Sexta Reunión, celebrada desde el 30 de enero al 3 de febrero de 2018, en Lima, Perú. El texto íntegro de las medidas antes señalas se encuentra disponible en el sitio de dominio electrónico de la Subsecretaría de Pesca y Acuicultura, www.subpesca.cl.
+
+Valparaíso, 28 de febrero de 2018.- Pablo Berazaluce Maturana, Subsecretario de Pesca y Acuicultura.
