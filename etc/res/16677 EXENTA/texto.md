@@ -20,6 +20,8 @@ Resuelvo:
 
 1° Apruébase el protocolo de análisis y/o ensayos que a continuación se indica, para la certificación del producto eléctrico que se señala en la Tabla siguiente:
 
+.
+
 2° El texto íntegro del protocolo individualizado en la presente resolución, se encuentra en esta Superintendencia a disposición de los interesados, y puede ser consultado en el sitio web www.sec.cl.
 
 3° Los fabricantes nacionales, importadores y comercializadores del producto eléctrico señalado en la presente resolución; previo a su comercialización en el país, deberán contar con el respectivo Certificado de Aprobación de Seguridad, a partir de la fecha de aplicación, según lo indicado en el resuelvo 1° de la presente resolución.
