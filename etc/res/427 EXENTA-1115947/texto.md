@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 427 EXENTA, DE 2018, DICTADA POR EL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES
+
+Por resolución exenta N° 427, de 2 de febrero de 2018, se modifica la metodología para la implementación de un programa especial piloto de apoyo a la incorporación de tecnologías en el transporte público regional, establecido mediante resolución exenta N° 33,2 de 2016, del Ministerio de Transportes y Telecomunicaciones, en el siguiente sentido: a) Suprimir bajo el subtítulo "Alcance", en el primer párrafo, la frase "en conjunto con el responsable del servicio que se indique en el Registro Nacional de Transporte Público de Pasajeros"; b) Suprimir bajo el subtítulo "Normas Generales que deberán aplicarse a la convocatoria", en el segundo párrafo, la frase ", que posea convenios con uno más operadores de transportes para la implementación de tecnología". Texto íntegro de la resolución se encuentra en la página web www.dtpr.cl.
+
+Paola Tapia Salas, Ministra de Transportes y Telecomunicaciones
