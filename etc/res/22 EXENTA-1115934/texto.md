@@ -1,0 +1,5 @@
+DELEGA FACULTAD QUE INDICA EN FUNCIONARIO QUE SE INDIVIDUALIZA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos N° 22, de 5 de marzo de 2018, que delega la facultad de absolver posiciones en representación del Servicio de Impuestos Internos y de este Director a María Marcela Muñoz Foglia, RUT N° 9.339.012-1, funcionario grado 6° Directivo, Abogado Jefe del Departamento de Defensa Judicial Civil de la Subdirección Jurídica del Servicio de Impuestos Internos, a efecto que concurra al juicio substanciado ante el 2° Juzgado de Letras en lo Civil, RIT C-6261-2017, caratulado "Contac Ingenieros Limitada".
+
+El texto íntegro de este instructivo está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de marzo de 2018.
