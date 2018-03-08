@@ -1,0 +1,5 @@
+DELEGA FACULTAD QUE INDICA EN FUNCIONARIO QUE SE INDIVIDUALIZA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 23, de 5 de marzo de 2018, que delega la facultad de absolver posiciones en representación del Servicio de Impuestos Internos y de este Director a doña María Yolanda Carvallo Núñez, RUT Nº 15.405.253-4, funcionario grado 12º EUS, abogado del Departamento de Asesoría Jurídica, y en don Luis Mauricio Carrasco Campos, RUT Nº 16.429.264-9, funcionario grado 12º EUS, abogado del Departamento de Adquisiciones, a efecto que concurran al juicio substanciado ante el 20º Juzgado de Letras Civil de Santiago, Rol 28.271-2016, caratulado "Ada Optima Outsourcing Servicios e Integración Tecn / Servicio de Impuestos Internos Dirección".
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de marzo de 2018.
