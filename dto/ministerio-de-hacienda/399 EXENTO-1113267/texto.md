@@ -32,16 +32,6 @@ B) Bienes de capital que pueden acogerse al sistema de pago previsto en la letra
 
 > **Nota.** El artículo 2° del Decreto 9 Exento, Hacienda, publicado 09.03.2018, modifica las observaciones de los bienes de capital de la presente norma de la manera que la citada norma indica.
 
-> **Nota.** NOTA 1 El Decreto 377 Exento, Hacienda, publicado el 05.01.2019, modifica la lista de bienes de capital contenida en la presente norma, en el sentido de eliminar la observación del ítem arancelario 9406.9090.
-
-> **Nota.** NOTA 2 El Decreto 547 Exento, Hacienda, publicado el 21.01.2021, modifica la lista de bienes de capital contenida en la presente norma, en el sentido de eliminar la observación del ítem arancelario 8481.8099.
-
-> **Nota.** NOTA 3 El Decreto 29 Exento, Hacienda, publicado el 24.03.2021, modifica la lista de bienes de capital contenida en la presente norma, en el sentido de incorporar en el Listado de Bienes de Capital, el ítem arancelario 7308.1000 del Arancel Aduanero Nacional, únicamente en lo que se refiere a "puentes", incorporando como observación la expresión "Excepto partes".
-
-> **Nota.** NOTA 4 El artículo único del Decreto 637 Exento, Hacienda, publicado el 07.01.2022, sustituye la lista de bienes de capital establecida en la presente norma, de acuerdo al anexo del citado decreto.
-
-> **Nota.** NOTA 5 El Decreto 226 Exento, Hacienda, publicado el 03.08.2023, modifica la lista de bienes de capital contenida en la presente norma, sustituyendo los ítems arancelarios 8806.2100, 8806.2200, 8806.2300, 8806.2400, 8806.2900, 8806.9100, 8806.9200, 8806.9300, 8806.9400 y 8806.9900, su descripción y observaciones por los que la citada norma.
-
 Anótese y publíquese.- Por orden de la Presidenta de la República, Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Turismo.
 
 Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Macarena Lobos Palacios, Subsecretaria de Hacienda.
