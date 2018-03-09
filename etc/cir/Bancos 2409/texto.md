@@ -10418,6 +10418,8 @@ Categoría Porcentaje
 
 5 100 %
 
+Adicionalmente, los instrumentos derivados que se indican en el numeral 2.6 siguiente se clasificarán en una categoría intermedia, con un porcentaje de ponderación por riesgo de 2%.
+
 Para la clasificación de que se trata y según lo indicado en el N° 1 anterior, se incluirán en las categorías que correspondan los activos del balance netos de sus respectivas provisiones incluidas en el activo según lo indicado en el Compendio de Normas Contables; los equivalentes de crédito de derivados y las exposiciones de créditos contingentes netos de sus provisiones.
 
 Las provisiones que cubran operaciones que deban separarse en categorías distintas se distribuirán proporcionalmente.
@@ -10460,19 +10462,25 @@ c) Exposiciones de créditos contingentes netas de provisiones, con excepción d
 
 En esta categoría deben computarse todos los demás activos no incluidos en las categorías anteriores, con excepción del activo correspondiente a "Documentos a cargo de otros bancos (canje)", el que se asignará a la Categoría 1. El importe clasificado en esta categoría corresponderá, en consecuencia, al activo total a que se refiere el N° 1 de este título II, menos los montos del activo que deben deducirse para determinar el patrimonio efectivo según lo previsto en las letras c) y d) del numeral 3.1 del título I de este Capítulo y menos los importes de los activos clasificados en las categorías anteriores.
 
+2.6. Categoría intermedia.
+
+Esta categoría incluye las operaciones sobre instrumentos derivados compensados y liquidados a través de una Entidad de Contraparte Central (en adelante ECC), cuando esta última se constituya irrevocablemente en acreedora y deudora de los derechos y obligaciones que deriven de dichas operaciones, siendo legalmente vinculantes para las partes las obligaciones que resulten de dichos actos.
+
+La exposición a computar corresponderá al equivalente de crédito de los instrumentos derivados que resulte de la compensación de las operaciones que se liquiden, en cada uno de los sistemas administrados por las referidas entidades, según el tipo de vínculo contractual que exista con las respectivas contrapartes, de acuerdo a lo establecido en el numeral 3.3 de este título.
+
 3.- Equivalente de crédito de los instrumentos derivados.
 
-Para los efectos de que trata este título, se considerará como activo el "equivalente de crédito" de un instrumento derivado con valor razonable positivo. Por consiguiente, en las categorías de riesgo se incluirán, para efectos de su ponderación y según quien sea la contraparte, ese "equivalente de crédito" en vez del valor contable.
+3.1. Regla general.
 
-El "equivalente de crédito" de que se trata corresponderá a la suma del valor razonable más un monto adicional que se obtiene aplicando sobre el monto nocional un factor de conversión que depende del subyacente y del plazo de vencimiento residual del derivado.
+Para los efectos de que trata este título, se considerará como activo el "equivalente de crédito" del instrumento derivado, el cual se incluirá para efectos de ponderación en la categoría de riesgo que le corresponda, según quien sea la contraparte.
 
-Para el cálculo del equivalente de crédito se podrá descontar el valor razonable (neto de costos de liquidación) de depósitos en efectivo que hayan sido constituidos con el fin exclusivo de garantizar el cumplimiento de los contratos, siempre que esos depósitos sean en moneda nacional o bien en moneda extranjera de países calificados en la más alta categoría por una empresa calificadora internacional que figure en la nómina incluida en el capítulo 1-12 de esta Recopilación.
+El "equivalente de crédito" de que se trata corresponderá al valor razonable del instrumento derivado, más un monto adicional que se obtiene aplicando sobre el monto nocional un factor de conversión que depende del subyacente y del plazo de vencimiento residual del derivado. Para los instrumentos derivados con valor razonable negativo o cero, el "equivalente de crédito" corresponderá sólo al monto adicional.
 
-Del mismo modo, se podrá deducir también el valor razonable (neto de costos de liquidación) de garantías en títulos de deuda emitidos por el Estado chileno o por el Banco Central de Chile, o en títulos de deuda emitidos por gobiernos extranjeros calificados en la más alta categoría por una empresa calificadora internacional que figure en la nómina incluida en el capítulo 1-12 de esta Recopilación. Estas garantías, que deben estar constituidas con el fin exclusivo de amparar el cumplimiento de contratos derivados, no podrán utilizarse para efectos de ampliar los límites de crédito del artículo 84 de la Ley General de Bancos.
+El monto adicional referido en el párrafo anterior, se calculará aplicando el factor que corresponda, según lo indicado en las tablas siguientes:
 
 El monto adicional antes mencionado se calculará aplicando el factor que corresponda, según lo indicado en las tablas siguientes:
 
-Contratos sobre tasas de interés
+Contratos sobre tasas de interés o inflación
 
 Vencimiento Residual
 
@@ -10492,9 +10500,11 @@ Más de un año hasta cinco años 7.0% 20.0%
 
 Más de cinco años 13.0% 30.0%
 
-Canasta 1: Contiene las monedas emitidas por países cuya deuda externa de largo plazo se encuentre clasificada a lo menos en AAA, o su equivalente, por algunas de las clasificadoras de riesgo señaladas en el Capítulo 1-12 de esta Recopilación. Incluye, además, el euro y el oro. Al tratarse de contratos sobre Unidades de Fomento, ella también se considera como moneda en esta canasta.
+Canasta 1: Contiene las monedas emitidas por países cuya deuda externa de largo plazo se encuentre clasificada a lo menos en AAA, o su equivalente, por algunas de las clasificadoras de riesgo señaladas en el Capítulo 1-12 de esta Recopilación. Incluye, además, el euro y el oro.
 
-Canasta 2: Contiene las demás monedas, no incluidas en la canasta 1.
+Canasta 2: Contiene las demás monedas extranjeras, no incluidas en la canasta 1.
+
+En caso de contratos sobre monedas en distintas canastas, utilizar el factor asociado a la canasta de mayor riesgo.
 
 Contratos sobre acciones
 
@@ -10506,33 +10516,89 @@ Más de un año hasta cinco años 8.0%
 
 Más de cinco años 10.0%
 
-Un contrato derivado que establezca la obligación de liquidar en ciertas fechas el ajuste de valor razonable que se haya acumulado durante un período determinado, puede considerarse como un contrato que vence en la próxima fecha de liquidación, por lo que el factor de conversión que debe aplicarse corresponderá a ese vencimiento. Por ejemplo, un contrato derivado pactado a dos años que establezca que los ajustes de valor razonable se liquiden completamente cada tres meses, puede considerarse (suponiendo que se esté en la fecha de inicio) como un contrato que tiene un vencimiento de tres meses; por lo tanto, el factor de conversión que se aplicaría será aquel que corresponda a un vencimiento residual de hasta un año.
+Hoja 8
 
-Un contrato que obligue a liquidar diariamente los ajustes de valor razonable, puede considerarse como un contrato con vencimiento a un día, por lo que su equivalente de crédito corresponderá sólo al valor razonable que deba liquidarse.
+Esta Superintendencia, eventualmente, modificará esos factores en función de cambios persistentes en las volatilidades subyacentes.
 
-Un contrato que contenga una cláusula que le otorgue al banco la opción de terminarlo en un fecha específica y el derecho a recibir o a pagar integralmente el ajuste de valor razonable acumulado hasta esa fecha, puede considerarse como un contrato que tiene un vencimiento igual al período que resta hasta la próxima fecha en que se pueda ejercer ese derecho, por lo que el factor de conversión que debe aplicarse es aquel que corresponde a ese período.
+Los contratos de derivados sobre tasas de interés o inflación incluyen swaps de tasas de interés en una misma moneda, acuerdos de tasa forward, futuros sobre tasas de interés, opciones compradas sobre tasas de interés, seguros de inflación e instrumentos similares.
 
-Al tratarse de derivados negociados en bolsa que estén sujetos diariamente a la liquidación en efectivo de las variaciones del margen, su equivalente de crédito será igual a cero.
+Los contratos sobre monedas extranjeras incluyen cross currency swaps, swaps sobre monedas, futuros sobre monedas, forward sobre monedas, opciones compradas sobre monedas e instrumentos similares.
 
-Los contratos de derivados sobre tasas de interés incluyen swaps sobre tasas de interés en una misma moneda, acuerdos de tasa forward, futuros sobre tasas de interés, opciones compradas sobre tasas de interés e instrumentos similares.
-
-Los contratos de derivados sobre monedas incluyen cross currency swaps, swaps sobre monedas, futuros sobre monedas, forward sobre monedas, opciones compradas sobre monedas e instrumentos similares.
-
-Los contratos de derivados sobre acciones que puedan pactar las filiales, incluyen futuros, forward, opciones compradas e instrumentos similares que tengan como subyacente el precio de acciones individuales o índices de acciones.
-
-Para aquellos contratos derivados que tengan múltiples intercambios del monto nocional, los factores deberán ser multiplicados por el número de pagos que resten hasta su vencimiento.
+Los contratos sobre acciones que puedan pactar las filiales, incluyen futuros, forward, opciones compradas e instrumentos similares que tengan como subyacente el precio de acciones individuales o índices de acciones.
 
 Los swaps sobre dos tasas de interés fluctuantes en una misma moneda tendrán un equivalente de crédito igual a su valor razonable (el monto adicional será igual a cero).
 
-### III. DISPOSICIONES TRANSITORIAS
+En aquellos contratos derivados en que se establezca la obligación de liquidar o pagar el valor razonable acumulado entre las fechas establecidas contractualmente, se deberá considerar un horizonte temporal de acuerdo al periodo de liquidación contractual para la asignación del factor de conversión que corresponda al tipo de instrumento. No obstante, en el caso de contratos sobre tasas de interés o inflación con vencimientos residuales superiores a un año que satisfagan los anteriores criterios, el factor de conversión está sujeto a un mínimo de 0,5%. Por su parte, las cláusulas que le den al banco el derecho de acelerar o terminar operaciones, por concepto de incumplimiento o deterioro crediticio, no serán consideradas en la determinación del equivalente de crédito.
 
-### 1. Deducción de "goodwill"
+Para aquellos contratos derivados que tengan múltiples intercambios del monto nocional, los factores deberán ser multiplicados por el número de pagos que resten hasta su vencimiento. En tanto, para aquellos que contengan amortización de capital en determinados periodos, el monto adicional corresponderá a la suma de cada monto de amortización ponderado por el respectivo factor de conversión correspondiente al plazo residual de cada una de esas amortizaciones.
 
-Los activos que se identifiquen como "goodwill" que provengan de años anteriores a 2009, podrán seguir deduciéndose, hasta su extinción, sólo por aquella parte originalmente establecida según las normas vigentes a la fecha en que se originaron.
+La eventual existencia de cláusulas no incluidas en los párrafos anteriores, obliga a las entidades a aplicar criterios orientados a una correcta determinación del monto adicional, así como a mantener todos los respaldos e información pertinentes que permitan su posterior evaluación por parte de esta Superintendencia.
 
-### 2. Cómputo de provisiones como patrimonio efectivo
+3.2. Acuerdos de compensación bilateral.
 
-Hasta el 31 de diciembre de 2011, podrá sumarse a las provisiones adicionales a que se refiere la letra b) del numeral 3.1 del título I de este Capítulo, dentro del límite del 1,25 % allí señalado, un monto de hasta el 15% de las garantías que amparan los activos ponderados por riesgo, cuando dichas garantías correspondan a avales o reafianzamientos otorgados por el Fisco de Chile, CORFO y el FOGAPE. A partir del 31 de enero de 2012, aquel porcentaje disminuirá linealmente el último día de cada mes, en 12 mensualidades iguales y sucesivas.
+En caso de que un conjunto de contratos derivados haya sido celebrado con una contraparte bajo el amparo de un contrato marco de compensación bilateral según lo indicado en los Acuerdos N°s. 1385-04-080117, 1427-02-080807, 1457-02- 090122 y 1457-03-090122 del Consejo del Banco Central de Chile, el efecto mitigador del riesgo de contraparte atribuible a la compensación podrá aplicarse en el cálculo del "equivalente de crédito" para ese conjunto de instrumentos derivados.
+
+Hoja 9
+
+El "equivalente de crédito" con una misma contraparte corresponderá a lo siguiente:
+
+- Si el valor razonable neto de las posiciones compensadas es positivo:
+
+.
+
+- Si el valor razonable neto de las posiciones compensadas es negativo o cero:
+
+.
+
+Donde:
+
+EC : Equivalente de crédito de los instrumentos derivados incluidos en un acuerdo de compensación.
+
+∑ : Operador sumatoria.
+
+Max : Operador máximo valor.
+
+VR : Valor razonable de los instrumentos derivados incluidos en el acuerdo de compensación. Corresponde al monto no liquidado que cada banco determine de acuerdo a sus propios modelos y metodologías, según lo establecido en el Capítulo 7-12 de esta Recopilación de Normas.
+
+Noc : Monto Nocional de los instrumentos derivados incluidos en el acuerdo de compensación.
+
+Fc : Factor de conversión aplicable a cada contrato incluido en el acuerdo de compensación.
+
+El banco deberá mantener a disposición de esta Superintendencia toda la documentación que respalde la determinación del "equivalente de crédito" al amparo de las presentes normas, incluyendo todos los antecedentes de los respectivos acuerdos de compensación y contratos de derivados.
+
+3.3. Compensación de instrumentos derivados mediante una Entidad de Contraparte Central.
+
+Para la determinación del equivalente de crédito de instrumentos derivados compensados y liquidados en una ECC se deben considerar las instrucciones que se indican a continuación, según el tipo de vínculo que exista entre el banco y dicha contraparte:
+
+3.3.1 Banco como participante directo de una ECC
+
+Se entiende que un banco es participante directo de una ECC cuando existe un vínculo contractual que lo faculta y a la vez obliga a responsabilizarse de las operaciones realizadas tanto a nombre propio como por cuenta de un tercero.
+
+Hoja 10
+
+En estos casos el cómputo del equivalente de crédito se debe determinar aplicando la fórmula de compensación bilateral señalada en el numeral 3.2 anterior, considerando aquellas operaciones efectuadas que comparten las mismas garantías y resguardos, según las normas que rijan a cada sistema de compensación y liquidación en particular, por lo que su equivalente de crédito final será la suma de las exposiciones compensadas en cada categoría o grupo de derivados que administre dicha entidad.
+
+3.3.2 Banco como cliente de un participante directo
+
+Cuando un banco actúe como cliente de un participante directo de una ECC, también podrá aplicar a sus exposiciones con la respectiva contraparte el ponderador intermedio establecido en el numeral 2.6, cuando la ECC identifica las operaciones presentadas para su compensación y posterior liquidación como transacciones del banco que actúa como cliente, al igual que las garantías que la ECC o el participante directo mantienen para respaldar dichas operaciones.
+
+Para el cómputo del equivalente de crédito de las operaciones que cumplan con las condiciones antes señaladas, se considerará un horizonte temporal de acuerdo a lo indicado en el noveno párrafo del numeral 3.1.
+
+3.4 Banco como contraparte de sus clientes
+
+El equivalente de crédito de las exposiciones que resulten de las operaciones entre un banco y sus clientes, que luego sean compensadas y liquidadas en una ECC, será determinado en los mismos términos que una operación bilateral y considerando lo indicado en el noveno párrafo del numeral 3.1 para efectos de la determinación del factor de conversión.
+
+Las garantías otorgadas por el cliente que sean constituidas o transferidas a la ECC o al banco, podrán ser descontadas de la exposición en este caso, de acuerdo a lo indicado en el numeral 3.5 siguiente.
+
+3.5 Cómputo de garantías.
+
+Al equivalente de crédito, determinado de acuerdo a lo indicado en los numerales previos y según el tipo de operación que corresponda, se le podrá descontar el valor razonable de los depósitos en efectivo, netos de costos de liquidación, que hayan sido constituidos exclusivamente a favor del banco y con el único fin de garantizar el cumplimiento de los contratos, siempre que esos depósitos sean en moneda nacional o bien en moneda extranjera de países calificados en la más alta categoría por una empresa calificadora internacional que figure en la nómina incluida en el Capítulo 1-12 de esta Recopilación. Esta condición es atribuible, por ejemplo, a la existencia de cláusulas con umbrales predefinidos (threshold), que obligan a la contraparte a constituir garantías por el ajuste del valor razonable acumulado.
+
+Del mismo modo, se podrá deducir también el valor razonable (neto de costos de liquidación) de garantías en títulos de deuda emitidos por el Estado chileno o por el Banco Central de Chile, o en títulos de deuda emitidos por gobiernos extranjeros calificados en la más alta categoría por una empresa calificadora internacional que figure en la nómina incluida en el capítulo 1-12 de esta Recopilación.
+
+Hoja 11
+
+En el caso de instrumentos derivados compensados y liquidados a través de una ECC, no corresponde descontar de la exposición las garantías individuales o cualquier otro tipo de caución equivalente, enteradas por las instituciones participantes; así como tampoco aquellas aportadas a uno o más fondos de garantía de carácter solidario, destinadas a asegurar el cumplimiento de las obligaciones de los participantes, cuando las garantías otorgadas individualmente resulten insuficientes.
 
 ## Capítulo 12-3
 
@@ -10584,7 +10650,7 @@ Los créditos que un banco otorgue a otro banco regido por la Ley General de Ban
 
 Este margen especial dispuesto por la ley es aplicable sólo en el caso de que el deudor sea un banco o una sucursal de un banco extranjero establecido en Chile, pero no se aplica a los bancos establecidos en el exterior, aunque la entidad financiera tenga sucursales en el país o cuando se trate de una sucursal o filial de un banco chileno en el extranjero.
 
-Este límite de un 30 % del patrimonio efectivo debe entenderse referido al conjunto de todos los créditos directos o indirectos, como pueden ser, por ejemplo préstamos otorgados, compras con pacto de retroventa de instrumentos financieros, compras con responsabilidad de valores mobiliarios o efectos de comercio, adquisición de títulos de crédito aceptados o suscritos por el banco deudor, etc.
+Sin perjuicio de lo anterior, este límite también resulta aplicable a las operaciones con instrumentos derivados negociados con bancos o sucursales de bancos extranjeros establecidos en Chile, que posteriormente sean compensados y liquidados a través de una Entidad de Contraparte Central, además del valor razonable del fondo de garantía, de acuerdo con lo indicado en el Capítulo 7-12 de esta Recopilación, y otras exposiciones crediticias, ya sean efectivas o contingentes.
 
 ### 4. Aplicación de otros márgenes de crédito
 
