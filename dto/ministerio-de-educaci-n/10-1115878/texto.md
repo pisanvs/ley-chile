@@ -1,6 +1,6 @@
 DELEGA EN EL DIRECTOR DE EDUCACIÓN PÚBLICA, LA FACULTAD PARA REPRESENTAR EXTRAJUDICIALMENTE AL FISCO
 
-Núm. 8.- Santiago, 17 de enero de 2018.
+Núm. 10.- Santiago, 17 de enero de 2018.
 
 Considerando:
 
