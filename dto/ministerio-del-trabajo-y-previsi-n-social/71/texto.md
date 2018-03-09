@@ -16,7 +16,7 @@ Se entenderá que constituyen trabajos pesados aquellos cuya realización aceler
 
 #### Artículo 2°
 
-Para los efectos de calificar como trabajo pesado una labor, que se ejecuta en uno o más puestos de trabajo de una determinada entidad empleadora, las Comisiones a que se refiere el presente Reglamento, deberán establecer un instrumento guía de conocimiento público, uso obligatorio y revisión permanente, considerando a lo menos, y con independencia de las características individuales de quien la realiza, los siguientes factores:
+Para los efectos de calificar como trabajo pesado una labor, que se ejecuta en uno o más puestos de trabajo, ya sea que se desempeñe por trabajadores contratados directamente por la entidad empleadora respectiva o bajo régimen de subcontratación o puestos a disposición por empresas de servicios transitorios, las Comisiones a que se refiere el presente Reglamento, deberán establecer un instrumento guía de conocimiento público, uso obligatorio y revisión permanente, considerando a lo menos, y con independencia de las características individuales de quien la realiza, los siguientes factores:
 
 a) Factor físico: constituido por las exigencias del puesto de trabajo que demandan un esfuerzo adaptativo fisiológico, reflejado en mayor gasto energético y con modificaciones del metabolismo.
 
@@ -26,13 +26,29 @@ c) Factor mental: es la exigencia del puesto de trabajo que demanda esfuerzos ad
 
 d) Factor organizacional: son las exigencias del puesto de trabajo derivadas de la organización y diseño de la labor y su entorno psicosocial.
 
-Para los efectos de lo dispuesto en la Ley N° 19.404 y en el presente Reglamento, se entiende por puesto de trabajo el conjunto de tareas, deberes y responsabilidades que, en el marco de las condiciones de trabajo definidas por la empresa, constituyen la labor regular de una persona y que pueden ser descritas con prescindencia del trabajador que lo ocupa.
+Para los efectos de lo dispuesto en la Ley N° 19.404 y en el presente Reglamento, se entiende por puesto de trabajo el conjunto de tareas, deberes y responsabilidades que, en el marco de las condiciones de trabajo definidas por la empresa, sea ésta un empleador directo, o una empresa bajo régimen de subcontratación o usuaria, constituyen la labor regular de una persona y que pueden ser descritas con prescindencia del trabajador que lo ocupa.
 
 #### Artículo 3°
 
 La definición de trabajo pesado y los factores de carga global de trabajo señalados en los artículos anteriores, serán aplicados y ponderados, en su totalidad, por la Comisión Ergonómica Nacional para la calificación por puesto de trabajo de las labores desarrolladas por los afiliados al Sistema de Pensiones del D.L. N° 3.500, de 1980, y por los imponentes de los regímenes previsionales administrados por el Instituto de Normalización Previsional a que se refieren los artículos 1° y 2° de la Ley N° 19.404.
 
 El menor desgaste relativo producido por un trabajo calificado como pesado, será determinado según la ponderación asignada a cada uno de los factores señalados en el artículo anterior, conforme lo establecido en el instrumento guía a que se refiere el artículo 2° de este Reglamento.
+
+#### Artículo 3 bis
+
+Sin perjuicio de lo dispuesto en los artículos precedentes, la calificación de trabajo pesado de un determinado puesto de trabajo, producirá iguales efectos ya sea que tal puesto se desempeñe por trabajadores contratados directamente por la entidad empleadora respectiva o bajo régimen de subcontratación o puestos a disposición por empresas de servicios transitorios.
+
+A las obligaciones derivadas de la aplicación del inciso sexto del artículo 3º de la ley Nº 19.404, les será aplicable, en lo que corresponda, los artículos 183-A, 183-B, 183-C, 183-D y 183-AB, del Código del Trabajo.
+
+La empresa principal o la usuaria según corresponda, para efectos del inciso sexto del artículo 3º de la ley Nº 19.404, deberá mantener en la faena, obra o servicio, o lugar donde se presten los servicios un registro actualizado en papel y/o soporte digital de a lo menos los siguientes antecedentes:
+
+a) Copia del o los dictámenes ejecutoriados de la Comisión Ergonómica Nacional, que califican uno o más puestos de trabajo de la empresa como pesado, y
+
+b) Una relación detallada de los trabajadores que sirven esos puestos, sean directamente para la entidad empleadora o bien para una empresa contratista, subcontratista o de servicios transitorios.
+
+Este registro deberá estar disponible cuando sea requerido por la Inspección del Trabajo, de conformidad con el artículo 31 del DFL Nº 2, de 1967, del Ministerio del Trabajo y Previsión Social. El incumplimiento de esta obligación será sancionado conforme dispone ese mismo cuerpo legal.
+
+Las modificaciones totales o parciales relativas al dominio, posesión o mera tenencia de la empresa, no alterarán la calificación efectuada sobre el puesto de trabajo como pesado, salvo que se acredite que han variado los factores considerados en su evaluación.
 
 ## Título II
 
@@ -72,7 +88,7 @@ Los miembros de la Comisión Ergonómica Nacional señalados en las letras
 
 - **a)** y su respectivo suplente, su designación será efectuada, por decreto, por el Ministro del Trabajo y Previsión Social, a proposición del Superintendente de Pensiones. Corresponderá, asimismo, al citado Superintendente efectuar la proposición para la designación de profesionales que actuarán como suplentes de los miembros titulares de la Comisión, en caso de ausencia o impedimento de éstos.
 
-Los miembros titulares y suplentes de la Comisión Ergonómica Nacional designados por el Superintendente, serán seleccionados a partir de un Registro Público que administrará la Superintendencia, según lo dispuesto en el inciso sexto del artículo 3º de la Ley Nº 19.404.
+Los miembros titulares y suplentes de la Comisión Ergonómica Nacional designados por el Superintendente, serán seleccionados a partir de un Registro Público que administrará la Superintendencia, según lo dispuesto en el inciso octavo del artículo 3º de la Ley Nº 19.404.
 
 Para ser incluido en el Registro Público a que se refiere el inciso anterior, los interesados deberán presentar una solicitud en tal sentido ante la Superintendencia, a la que deberán proporcionar toda la documentación que permita certificar la calidad de profesional habilitado.
 
@@ -102,7 +118,7 @@ c) Rebajar a un 1% la cotización y el aporte legal del 2% fijados en el artícu
 
 La cotización y el aporte indicados se suprimirán durante los períodos en que el trabajador se encuentre en goce de licencia médica.
 
-d) Confeccionar una lista de las labores que se ejecuten en uno o más puestos de trabajo calificados como pesados de la empresa individualizada; otra con aquellas a las que se ha rechazado tal calidad y una con aquellas que han dejado de serlo, las que deberán ser actualizadas mensualmente.
+d) Confeccionar, de acuerdo a los criterios generales que determine la Superintendencia de Pensiones, una lista de las labores que se ejecuten en uno o más puestos de trabajo calificados como pesados por empresa, indicando la actividad económica a la que pertenece, los factores de carga global considerados para la calificación, y si se trata de una empresa principal, contratista o subcontratista, usuaria o de servicios transitorios; otra con aquellas a las que se ha rechazado tal calidad y una con aquellas que han dejado de serlo, las que deberán ser actualizadas mensualmente.
 
 La Comisión deberá mantener un registro público actualizado mensualmente de las listas a que se refiere el presente artículo.
 
@@ -206,7 +222,9 @@ La Comisión Ergonómica Nacional confeccionará los formularios de solicitud de
 
 Junto con la solicitud deberán proporcionarse los siguientes antecedentes:
 
-a) un certificado del respectivo empleador en el que se señale el tipo de labor y el puesto de trabajo, detallando sus características, la empresa y el lugar de desempeño. Deberá mencionar también el horario, condiciones ambientales del trabajo, y toda otra información que sea de utilidad para la calificación.
+a) un certificado del respectivo empleador en el que se señale el tipo de labor y el puesto de trabajo, detallando sus características, la empresa y el lugar de desempeño. Deberá mencionar también el horario, condiciones ambientales del trabajo, el organismo administrador de la ley Nº 16.744 al que se encuentra afiliado o, en su caso, la calidad de empresa con administración delegada que detenta y toda otra información que sea de utilidad para la calificación.
+
+Asimismo, se deberá informar si el puesto de trabajo a calificar en la empresa, es desempeñado por trabajadores contratados ya sea directamente por la entidad empleadora respectiva, o por una empresa bajo régimen de subcontratación o puestos a disposición por empresas de servicios transitorios, en cuyo caso tales empresas deberán ser individualizadas.
 
 b) A falta del certificado aludido en la letra anterior, el interesado deberá efectuar una declaración escrita ante la Inspección del Trabajo competente la que deberá contener los antecedentes requeridos en la letra a) anterior.
 
@@ -250,9 +268,11 @@ La notificación del mismo se hará por carta certificada, la que se entenderá 
 
 El dictamen de la Comisión Ergonómica Nacional quedará ejecutoriado al vencimiento del plazo para interponer el reclamo o, en su defecto, una vez notificada la resolución de la Comisión de Apelaciones.
 
+Una copia de la resolución que califica un trabajo como pesado, deberá ser remitida por la Comisión Ergonómica Nacional al organismo administrador de la ley Nº 16.744 a la que esté afiliada la entidad empleadora respectiva o, en su caso, a la empresa con administración delegada a la que pertenece el referido puesto, dentro de los cinco días siguientes a aquel en que quede ejecutoriada, con el objeto que dichos organismos o empresas incorporen especialmente a los trabajadores que sirven los puestos de trabajos pesados en sus programas de vigilancia de la salud, los que deberán confeccionarse considerando los factores de carga global evaluados por la Comisión en su calificación, y de acuerdo a los protocolos que se encuentren vigentes. La Superintendencia de Seguridad Social podrá impartir las instrucciones necesarias para este fin.
+
 #### Artículo 29
 
-La Comisión de Apelaciones conocerá de las reclamaciones que formulen el empleador o los trabajadores afectados por los dictámenes que emita la Comisión Ergonómica Nacional. El reclamo deberá interponerse ante el Superintendente de Pensiones o el Secretario Regional Ministerial del Trabajo y Previsión Social que corresponda al domicilio del recurrente, dentro del plazo de 30 días hábiles contado desde la notificación del dictamen respectivo.
+La Comisión de Apelaciones conocerá de las reclamaciones que formulen el empleador o los trabajadores afectados o el sindicato por los dictámenes que emita la Comisión Ergonómica Nacional. El reclamo deberá interponerse ante el Superintendente de Pensiones o el Secretario Regional Ministerial del Trabajo y Previsión Social que corresponda al domicilio del recurrente, dentro del plazo de 30 días hábiles contado desde la notificación del dictamen respectivo.
 
 Esta Secretaría o Superintendencia deberán certificar la fecha de recepción del reclamo y remitirlo dentro de los cinco días hábiles siguientes a la Comisión Ergonómica Nacional.
 
@@ -295,6 +315,12 @@ Las Comisiones Ergonómica Nacional y de Apelaciones entrarán en funciones dent
 Constituida la Comisión Ergonómica Nacional, tendrá un plazo de seis meses, prorrogable previa autorización del Subsecretario de Previsión Social, para confeccionar una lista que contenga las labores que, habiendo sido calificadas como pesadas conforme al D.S. N° 681, de 1963, del Ministerio del Trabajo y Previsión Social, mantengan dicha calidad para los efectos de la Ley N° 19.404, sin perjuicio de las calificaciones que se le requieran de acuerdo a lo dispuesto en el artículo 22 de este Reglamento.
 
 Las resoluciones que adopte en ejercicio de esta facultad, para todos los efectos legales, deberán ser publicadas en el Diario Oficial y en un periódico de circulación nacional.
+
+#### Artículo 6º
+
+Para dar cumplimiento a lo establecido en el inciso final del artículo 28 de este Reglamento, las empresas que cuenten con puestos calificados como pesados con anterioridad a la vigencia de la ley Nº 20.984, deberán solicitar su incorporación a los programas de vigilancia de la salud de sus trabajadores ante el respectivo organismo administrador de la ley Nº 16.744 o empresa con administración delegada, dentro del plazo de sesenta días siguientes a la publicación de este decreto, conforme a las instrucciones que al efecto imparta la Superintendencia de Seguridad Social.
+
+En el mismo plazo indicado en el inciso precedente, las empresas que cuenten con puestos calificados como pesados con anterioridad a la vigencia de la ley Nº 20.984, deberán remitir a la Comisión Ergonómica Nacional una relación detallada de éstos, cuando sean desempeñados por trabajadores contratados bajo régimen de subcontratación o puestos a disposición por empresas de servicios transitorios.
 
 Tómese razón, comuníquese, publíquese e insértese en la recopilación que corresponda de la Contraloría General de la República.- CARLOS FIGUEROA SERRANO, Vicepresidente de la República.- Jorge Arrate Mac Niven, Ministro del Trabajo y Previsión Social.
 
