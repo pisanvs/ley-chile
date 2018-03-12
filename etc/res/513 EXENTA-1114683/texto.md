@@ -242,8 +242,6 @@ La restitución podrá hacerse directamente desde el patrimonio del beneficiario
 
 9. Una vez que se cumpla el plazo comprometido por el beneficiario para mantener la prohibición de enajenar, el Serviu podrá alzar la prohibición, a solicitud del interesado, quien a su vez podrá disponer libremente del inmueble.
 
-> **Nota.** El numeral 1° de la Resolución 2710 Exenta, Vivienda, publicada el 11.05.2018, modifica la presente norma en el sentido de eliminar las letras b) y c) de su resuelvo 1°; sin embargo, no se ha podido crear su texto actualizado por no encontrarse las letras citadas.
-
 Anótese, comuníquese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.
