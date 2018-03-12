@@ -110,6 +110,36 @@ Las motocicletas de cilindrada inferior o igual a 50 centímetros cúbicos y con
 
 Por su parte, las motocicletas de dos ruedas, cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite seis meses después de la fecha de publicación en el Diario Oficial del DS. N° 26, de 18 de mayo de 2015, del Ministerio del Medio Ambiente, sólo podrán circular por el territorio nacional si son mecánicamente aptas para cumplir indistintamente, en condiciones normalizadas de medición, con los niveles máximos de emisión que se indican en la Tabla 1, Tabla 2 o Tabla 3 del presente artículo.
 
+#### Artículo 3º ter
+
+Las motocicletas de dos ruedas, dotadas de motor de encendido por chispa, cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite después de transcurridos (12) meses contados desde la fecha de publicación del DS Nº 32, de 1 de agosto 2017, del Ministerio del Medio Ambiente, sólo podrán circular por el territorio nacional, si son mecánicamente aptas para cumplir, con los niveles máximos de emisión que se indican en la Tabla 1 siguiente:
+
+Tabla 1 Motocicletas de dos ruedas
+
+Motor 4 y 2 Tiempos CO (g/km) HC (g/km) NOx (g/km)
+
+2 ruedas < 150 cc 2,0 0,8 0,15
+
+2 ruedas >= 150 cc 2,0 0,3 0,15
+
+Las mediciones se efectuarán conforme a lo indicado en la letra b), del artículo 4.
+
+Asimismo, las motocicletas de tres o cuatro ruedas, con motor de encendido por chispa, respecto de las cuales se solicite su primera inscripción en el Registro de Vehículos Motorizados citado, en el mismo plazo señalado en el inciso anterior, deberán cumplir con los siguientes niveles máximos de emisión: CO: 7,00 g/km, HC: 1,5 g/km y NOx: 0,4 g/km. Las mismas motocicletas, dotadas de motor de encendido por compresión, deberán cumplir con los siguientes niveles máximos de emisión CO: 2.0 g/km, HC: 1.0 g/km y NOx: 0.65 g/km; en ambos casos las mediciones se efectuarán conforme a lo indicado en la letra b) del artículo 4º.
+
+A solicitud del fabricante, armador, importador o sus representantes, al momento de la homologación podrá utilizarse el procedimiento de ensayo previsto en el Reglamento Técnico Mundial (RTM) CEPE/ONU Nº 2 (Reglamento Técnico Mundial CEPE / ONU Nº 2 "Método de medición para motocicletas de dos ruedas equipadas con un motor de encendido por chispa o por compresión en lo que concierne a la emisión de agentes contaminantes gaseosos, emisiones de CO2 y consumo de carburante" (ECE/TRANS/180/Add2, de 30 agosto de 2005) como alternativo al procedimiento de ensayo señalado en la Directiva 97/24/EC de la Comunidad Europea. En el caso que se utilice el procedimiento descrito en el RTM Nº 2, la motocicleta deberá cumplir los límites de emisión que se señalan en la Tabla 2 siguiente:
+
+Tabla 2
+
+Velocidad máxima Límites de emisiones
+
+(km/h)
+
+CO (g/km) HC (g/km) NOx (g/km)
+
+< 130 2.62 0.75 0.17
+
+>= 130 2.62 0.33 0.22
+
 #### Artículo 4º
 
 Para los efectos de acreditar o verificar el cumplimiento de la presente norma de emisión, las condiciones normalizadas de medición serán:
@@ -125,6 +155,10 @@ La Superintendencia del Medio Ambiente fiscalizará la presente norma de emisió
 #### Artículo 6º
 
 Los fabricantes, importadores, armadores o distribuidores de motocicletas deberán acreditar ante el Ministerio de Transportes y Telecomunicaciones, conforme a las pautas dictadas, que el modelo de que se trata cumple con los niveles máximos de emisión que le corresponden de acuerdo a lo señalado en el presente Decreto.
+
+#### Artículo 6º bis
+
+Respecto de las motocicletas cuyos motores sean mecánicamente aptos para cumplir con los niveles máximos de emisión, provenientes del tubo de escape que sean de un estándar superior a los exigidos por las normas vigentes, se podrá solicitar al momento y adicionalmente a la homologación y/o certificación de los estándares vigentes, el reconocimiento del estándar superior en conformidad con las condiciones normalizadas de medición, homologación y/o certificación, estipulada por las Directivas de la Comunidad Europea, que en adelante se denominará como la legislación internacional, para ello deberán cumplir con los mismos procesos de análisis técnicos establecidos para la homologación de los estándares vigentes, en correspondencia con la legislación internacional que aplique.
 
 #### Artículo 7º
 
