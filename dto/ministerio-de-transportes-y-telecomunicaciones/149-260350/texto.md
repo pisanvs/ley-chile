@@ -184,7 +184,7 @@ Vigencia
 
 La presente norma de emisión entrará en vigencia en la Región Metropolitana, a partir del día 1º de septiembre de 2007.
 
-En las Regiones V, VI, VIII y IX la presente norma entrará en vigencia doce meses después que las plantas de revisión técnica que operen en las regiones respectivas cuenten con los equipos necesarios para controlar dicha norma. Cada una de las respectivas Secretarías Regionales Ministeriales de Transportes y Telecomunicaciones dictará una resolución en que dejará constancia del cumplimiento de la condición mencionada y expresará la fecha en que se cumpla el plazo aludido. Dicha resolución deberá publicarse en el Diario Oficial.
+En las regiones V, VI VIII y IX , los límites de emisión descritos en el artículo 5° del presente decreto, serán exigibles en la medición de emisiones contaminantes efectuada en las Plantas Revisoras de las concesiones, cuyas Bases de Licitación contemplen entre sus requerimientos, disponer del equipo e instrumentos necesarios para realizar dicha medición, a contar de la fecha en que inicien su operación, total o parcialmente la totalidad de las concesiones licitadas en la región de que se trate.
 
 #### Artículo 11
 
