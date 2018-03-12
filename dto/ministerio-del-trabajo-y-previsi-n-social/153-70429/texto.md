@@ -120,7 +120,7 @@ Otras Prestaciones
 
 El Servicio de Bienestar, dependiendo de sus disponibilidades presupuestarias podrá otorgar las siguientes ayudas y de acuerdo con las modalidades que a continuación se indican:
 
-a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente.
+a) Matrimonio o Acuerdo de Unión Civil: cuando el afiliado/a contraiga matrimonio o acuerdo de unión civil. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente.
 
 b) Nacimiento: Cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento de un hijo.
 
@@ -130,17 +130,15 @@ c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de
 
 En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
-1. A la persona designada expresamente para tales efectos por el afiliado;
+1. A la persona designada expresamente para tales efectos por el afiliado.
 
-2. Al cónyuge sobreviviente;
+2. Al cónyuge o conviviente civil, sobreviviente.
 
-3. A los hijos legítimos;
+3. A los hijos/as.
 
-4. A los hijos naturales;
+4. A los padres y
 
-5. A los padres legítimos, y
-
-6. A la persona que acredite haber efectuado los gastos del funeral.
+5. A la persona que acredite haber efectuado los gastos del funeral
 
 d) Nicho-Bóveda-Terreno: Se otorgará una ayuda por una sola vez para adquisición de nicho-bóveda o terreno al funcionario afiliado que careciere de él.
 
@@ -236,7 +234,7 @@ b) Los aportes que anualmente se consulten el presupuesto de la Institución, co
 
 c) Con el aporte mensual de los afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones;
 
-d) Con el aporte mensual de los afiliados jubilados de hasta el 1% de sus pensiones, más la cantidad correspondiente al 50% del aporte Institucional;
+d) Con el aporte mensual de los afiliados jubilados del 1.1% de sus pensiones.
 
 e) Con los intereses de los préstamos que otorgue el Servicio de Bienestar a sus afiliados;
 
