@@ -136,6 +136,10 @@ Barros Arana:
 
 . El tramo urbano de la Ruta S-488, desde Calle 4 Sur hasta el límite urbano norte, a través de calle 3 Oriente.
 
+Cajón
+
+. El Sistema Vial que interconecta las rutas 5, S-215 y S-31, a través de: Acceso Sur, viaducto sobre el Río Cautín, nuevo puente y sus accesos.
+
 Capitán Pastene:
 
 . El tramo urbano de la Ruta R-90-P, desde el límite urbano Sur hasta el límite urbano Oriente; a través de: Camino a Tirúa, Av. Circunvalación, Manuel Rodríguez y Camino a Lumaco.
@@ -198,7 +202,7 @@ Labranza:
 
 Las Hortensias:
 
-. El tramo urbano de la Ruta S-61, desde el límite urbano Poniente hasta el límite urbano Oriente; a través de Av. Freire.
+. El tramo urbano de la Ruta S-61, desde el límite rbano Poniente hasta el límite urbano Oriente; a través de Av. Freire.
 
 Lautaro:
 
