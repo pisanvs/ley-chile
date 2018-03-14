@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO DE COLABORACIÓN, ENTRE EL MINISTERIO DEL INTERIOR Y SEGURIDAD PÚBLICA Y EL INSTITUTO DE PREVISIÓN SOCIAL, EN MATERIAS DE EXTRANJERÍA Y MIGRACIÓN, EN LOS TÉRMINOS QUE INDICA
+
+Por resolución exenta N° 65, de 14 de febrero de 2018, de la Directora Nacional (S) del Instituto de Previsión Social, se aprueba el Convenio de Colaboración, suscrito con fecha 30 de noviembre de 2017, entre el Ministerio del Interior y Seguridad Pública y el Instituto de Previsión Social, por el cual las partes acuerdan generar una alianza para coordinar acciones de cooperación mutua en el cumplimiento de los fines institucionales, que contribuyan al mejoramiento de las condiciones de cobertura, información y prestación de servicios del Estado para sus usuarios.
+
+Santiago, 8 de marzo de 2018.- Patricio Coronado Rojo, Director Nacional.
