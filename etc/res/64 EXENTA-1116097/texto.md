@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO ARCHIVO EXPEDIENTES PILAR SOLIDARIO Y BONO POR HIJO"
+
+Resolución exenta N° 64, de 14 de febrero de 2018, de la Directora Nacional (S) del Instituto de Previsión Social, se aprueba para este Instituto, el procedimiento denominado "Archivo Expedientes Pilar Solidario y Bonificación por Hijo", cuyo objetivo es establecer los procedimientos para el archivo y resguardo de los expedientes de Sistema del Pilar Solidario y Bonificación por Hijo que se tramitan a través de los Centros de Atención Previsional Integral del IPS, municipios en convenio, administradoras de fondos de pensiones y compañías de seguro, con el propósito de homologar y disponibilizar los expedientes de manera más efectiva en caso de auditorías por parte de los organismos fiscalizadores.
+
+Santiago, 8 de marzo de 2018.- Patricio Coronado Rojo, Director Nacional.
