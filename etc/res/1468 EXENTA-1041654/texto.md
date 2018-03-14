@@ -1056,9 +1056,9 @@ mantiene.
 
 2. Dicha información deberá remitirse
 
-al Servicio como máximo el tercer
+al Servicio como máximo el primer día
 
-día hábil de la semana siguiente,
+hábil de la semana siguiente,
 
 en el formato disponible en el
 
