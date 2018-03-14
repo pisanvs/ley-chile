@@ -1,0 +1,5 @@
+SE MODIFICAN LAS RESOLUCIONES EXENTAS N° 177, DE 28 DE MARZO DE 2017, Y N° 279, DE 9 DE JUNIO DE 2017, DEL INSTITUTO DE PREVISIÓN SOCIAL, EN EL SENTIDO DE ACTUALIZAR LOS GESTORES ENERGÉTICOS DE LAS DIRECCIONES REGIONALES IPS Y CENTROS DE ATENCIÓN PREVISIONAL INTEGRAL QUE SE INDICA
+
+Por resolución exenta N° 68, de 16 de febrero de 2018, de la Directora Nacional (S) del Instituto de Previsión Social, se modifica la Resolución Exenta N° 177, de 28 de marzo de 2017, y resolución exenta N° 279, de 9 de junio de 2017, del Instituto de Previsión Social, en el sentido de eliminar del monitoreo de consumo energético, a los Centros de Atención Previsional Integral, CAPRI IPS, que indica, dependientes de la Dirección Regional Metropolitana IPS, por cuanto no cumplen con los requerimientos establecidos por el Ministerio de Energía para tal efecto, dejando sin efecto asimismo, las designaciones de los Gestores Energéticos correspondientes.
+
+Santiago, 8 de marzo de 2018.- Patricio Coronado Rojo, Director Nacional.
