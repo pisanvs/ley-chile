@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DEL BIOBÍO, AL "CUERPO DE BOMBEROS DE CONCEPCIÓN"
+
+Mediante decreto exento Nº E-84, de 5 de marzo de 2018, el Ministerio de Bienes Nacionales otorgó en concesión gratuita, al "Cuerpo de Bomberos de Concepción", RUT Nº 81.891.700-7, el inmueble fiscal ubicado en calle Serrano Nº 1312, comuna y provincia de Concepción, Región del Biobío; Rol Servicio de Impuestos Internos Nº 590-13; amparado por inscripción global a nombre del Fisco a fs. 11 Nº 20 del Registro de Propiedad del Conservador de Bienes Raíces de Concepción, correspondiente al año 1911; singularizado en el Plano Nº 08101-15.663-C.U.; con una superficie aproximada de 2.141,24 m2. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para el funcionamiento y operación del Cuartel de la Tercera Compañía de Bomberos de Concepción. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Magdalena Badilla Rodríguez, Jefa de División Jurídica.
