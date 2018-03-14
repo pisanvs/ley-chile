@@ -1,0 +1,11 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.681, de 10 de octubre de 2017, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Granja Marina Tornagaleones S.A., sociedad chilena, RUT 87.752.000-5, con domicilio en Diego Portales 2000, piso 9, Puerto Montt, para incorporar al cultivo los grupos de especies salmónidos y mitílidos, requerido mediante solicitud 212103145, del 12 de octubre de 2012, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por decreto supremo 940, del 22 de agosto de 1988, renovado por decreto supremo 797, del 26 de octubre de 1993, modificado por resolución 1.547, del 26 de julio de 1996, modificado y transferido por resolución 1.288, del 5 de marzo de 2001, cuya transferencia fue autorizada por resolución 995, del 22 de septiembre de 2006, todos del Ministerio de Defensa Nacional, Subsecretaría de Marina, modificado por resolución exenta 2.143, del 15 de marzo de 2012, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, ubicada en Ensenada Detico, al noreste de Islote Chagualín, comuna de Queilén, provincia de Chiloé, X Región de Los Lagos.
+
+2.- Modifícase la concesión de acuicultura de porción de agua y fondo de mar, señalada en el párrafo precedente, en el sentido que la concesionaria debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta Nº 1.140, de fecha 28 de abril de 2015, modificada por resolución exenta Nº 3.466, de fecha 18 de noviembre de 2016, ambas del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el Nº 3 de la parte resolutiva de la resolución Nº 995, de fecha 22 de septiembre de 2006, del Ministerio de Defensa Nacional, Subsecretaría de Marina.
+
+3.- Esta concesión de acuicultura tiene por objeto único la realización de actividades de cultivo en el área concedida y deberá amparar la instalación y operación del cultivo de los recursos hidrobiológicos pertenecientes a los grupos de especies salmónidos y mitílidos.
+
+Santiago, 5 de febrero de 2018.- Por orden de la Subsecretaria para las Fuerzas Armadas, José Miguel Poblete East, Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
