@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 47 de 22 de febrero de 2018, y de conformidad a la facultad otorgada en el artículo 3° letra a), 10° letra c), 14° letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y el DFL MOP N° 206, de 1960, artículo 15 inciso 2° y 22° N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote de N° 5-5, Rol de Avalúo N° 3505-26, Comuna de Lo Barnechea, superficie 102 m2, para la obra CONCESIÓN INTERNACIONAL SISTEMA ORIENTE - PONIENTE, COMUNA DE LO BARNECHEA, PROVINCIA DE SANTIAGO, REGIÓN METROPOLITANA DE SANTIAGO. La Comisión de Peritos integrada por Raúl Antonio Benítez Urrutia, Itsang Lu Chen y Gustavo Eduardo Picero García, fijó el valor de tasación con fecha 27 de julio de 2017, acordándose la indemnización con su propietario PORSCHE CHILE SpA, en la cantidad de $109.509.944.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.-
+
+Fiscalía MOP.
