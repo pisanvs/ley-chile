@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 45 de 22 de febrero de 2018, y de conformidad a la facultad otorgada en el artículo 3° letra a), 10° letra c), 14° letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y el DFL MOP N° 206, de 1960, artículo 15 inciso 2° y 22° N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropiaron los lotes de N°s. 10 y 11, Rol de Avalúo N° 170-9, Comuna de Nogales, superficies 109 y 49 m2, respectivamente, para la obra CAMINO RUTA 5 NORTE. TRAMO SANTIAGO - LOS VILOS SECTOR KM. 114.700,00 AL KM. 115.900,00 ENLACE NOGALES, COMUNA DE NOGALES, PROVINCIA DE QUILLOTA, V REGIÓN DE VALPARAÍSO. La Comisión de Peritos integrada por Marcelo Gabriel Oyarzo Saldías, Gabriel Antonio Pantoja Rivera y María Cristina Camus Palacios, fijó el valor de tasación con fecha 11 de septiembre de 2017, acordándose la indemnización con su propietario JUAN FRANCISCO HERRERA SÁNCHEZ, en la cantidad de $3.134.017.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
