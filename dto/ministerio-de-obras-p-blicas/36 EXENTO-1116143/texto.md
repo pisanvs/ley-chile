@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 36 de 16 de febrero de 2018, se tuvo por desistida la expropiación del lote N° 23, para la obra: PROYECTO SISTEMA AMÉRICO VESPUCIO NORTE. RUTA 78 - AV. EL SALTO. SECTOR 3: AVENIDA CONDELL - RUTA 5, ordenada por Decreto Exento MOP N° 2045 de 31 de octubre de 2002. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7° y 32° del Decreto Ley N° 2186, de 1978.
