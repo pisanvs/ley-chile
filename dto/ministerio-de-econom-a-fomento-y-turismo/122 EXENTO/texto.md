@@ -1,0 +1,137 @@
+APRUEBA CONTRATO DE PRESTACIÓN DE SERVICIOS
+
+Núm. 122 exento.- Santiago, 9 de marzo de 2018.
+
+Visto:
+
+Lo dispuesto en el decreto supremo N° 161, de 2013, del Ministerio de Economía, Fomento y Turismo; en el decreto N° 183, de 2008, del Ministerio de Economía, Fomento y Turismo; en la resolución ministerial (E) N° 225, de 2017, y la resolución ministerial (E) N° 19, de 2018, ambas del Ministerio de Economía, Fomento y Turismo, y en la resolución N° 1.600, de 2008, de la Contraloría General de la República.
+
+Considerando:
+
+1. Que, mediante decreto supremo N° 161, de 2013, del Ministerio de Economía, Fomento y Turismo, se creó a partir del año 2014 el Premio Nacional de Innovación, con objeto de conceder reconocimiento público a aquellas personas que se destacan por su excelencia, creatividad y aporte en el ámbito de la innovación.
+
+2. Que, el decreto referido confirió la facultad para mandatar, mediante concurso público, la gestión y organización de la premiación a un organismo público o privado sin fines de lucro, el que será designado por el Ministerio de Economía, Fomento y Turismo mediante resolución fundada.
+
+3. Que, en consecuencia, mediante resolución ministerial (E) N° 225, de 2017, del Ministerio de Economía, Fomento y Turismo, se llamó a concurso para la gestión, administración y organización del Premio Nacional de Innovación y su evento de premiación para su versión 2018, y se aprobaron las Bases del concurso convocado.
+
+4. Que, mediante resolución ministerial (E) N° 19, de 2018, del Ministerio de Economía, Fomento y Turismo, se adjudicó el concurso referido a la Fundación Pro Innovación, RUT N° 65.938.610-0, para el año 2018.
+
+5. Que, mediante instrumento privado de fecha 20 de febrero de 2018, el Ministerio de Economía, Fomento y Turismo suscribió un contrato de prestación de servicios con la Fundación Pro Innovación para la gestión, administración y organización del Premio Nacional de Innovación, y su evento de premiación para el año 2018.
+
+Decreto:
+
+#### Artículo único
+
+Apruébase el contrato de prestación de servicios para la gestión, administración y organización del Premio Nacional de Innovación, y su evento de premiación para el año 2018, celebrado entre el Ministerio de Economía, Fomento y Turismo y la Fundación Pro Innovación, Rol Único Tributario N° 65.938.610-0, por instrumento privado de fecha 20 de febrero de 2018, cuya transcripción íntegra y fiel es la siguiente:
+
+"CONTRATO DE PRESTACIÓN DE SERVICIOS MINISTERIO DE ECONOMÍA, FOMENTO Y TURISMO Y FUNDACIÓN PRO INNOVACIÓN
+
+En Santiago, a 20 de febrero de 2018, el Ministerio de Economía, Fomento y Turismo, en adelante "el Ministerio", representado por la Ministra de Economía, Fomento y Turismo (S), doña Natalia Piergentili Domenech, ambos domiciliados en la Avda. Libertador Bernardo O'Higgins N° 1449, Torre N° 2, piso N° 12, comuna de Santiago, de esta ciudad, por una parte, y, por la otra, Fundación Pro Innovación, en adelante indistintamente "la Fundación", Rol Único Tributario N° 65.938.610-0, representada por don Raúl José Rivera Andueza, cédula de identidad N° 6.460.793-6, domiciliados para estos efectos en Rosario Norte N° 555, oficina 703, comuna de Las Condes, ciudad de Santiago, han acordado suscribir el siguiente contrato:
+
+Primero: Antecedentes:
+
+Mediante decreto supremo N° 161, de 2013, del Ministerio de Economía, Fomento y Turismo, se creó a partir del año 2014 el Premio Nacional de Innovación, con objeto de conceder reconocimiento público a aquellas personas que se destacan por su excelencia, creatividad y aporte en el ámbito de la innovación.
+
+Luego, mediante resolución ministerial exenta N° 225, de 2017, del Ministerio de Economía, Fomento y Turismo, se llamó a concurso público y se aprobaron las bases administrativas y técnicas para la gestión, administración y organización del Premio Nacional de Innovación y su evento de premiación para su versión 2018.
+
+El concurso señalado fue adjudicado a la Fundación Pro Innovación, mediante resolución ministerial exenta N° 19, de 2018, del Ministerio de Economía, Fomento y Turismo.
+
+Segundo: Por el presente contrato, el Ministerio le encomienda a la Fundación, la que acepta, la gestión, administración y organización del Premio Nacional de Innovación, y su evento de premiación para el año 2018.
+
+Tercero: El objetivo general del presente contrato es asignar a la Fundación la responsabilidad de desarrollar el proceso de premiación en el área de la innovación, el cual debe generar un alto impacto en la sociedad, contribuyendo a la gestación de una transformación cultural pro innovación, en concordancia con los objetivos del Premio.
+
+Las tareas específicas de la Fundación son las siguientes:
+
+. Gestionar y organizar el proceso de selección de candidatos al Premio entre aquellas personas/instituciones que se han destacado por su excelencia, creatividad y aporte en el ámbito de la innovación.
+
+. Organizar el evento de premiación para el año 2018, en noviembre de cada año.
+
+. Difusión tanto del proceso de llamado a convocatoria, como de la selección del ganador del Premio y el evento de premiación mismo.
+
+Cuarto: La Fundación se compromete a realizar todas las actividades necesarias para gestionar y organizar el proceso de selección de candidatos, evento de premiación y difusión del Premio, respetando las características de éste y contemplando, al menos, lo siguiente:
+
+. Gestionar convocatoria, postulación, evaluación y selección del(los) ganador(es) del Premio, en una o más categorías.
+
+. Coordinar actividades que impliquen la participación de actores del ecosistema de innovación del país en la selección y definición de los ganadores del Premio.
+
+. Definir mecanismo de selección de los ganadores del Premio y criterios de evaluación.
+
+. Verificar la novedad y mérito innovador de los seleccionados, entregando antecedentes del mismo.
+
+. Proponer al Ministerio integrantes del jurado del Premio, a ser presidido por el Ministro de Economía, Fomento y Turismo. Los integrantes serán determinados por dicha autoridad.
+
+. Asegurar presencia de un público mínimo de 100 personas al evento de premiación.
+
+. Realizar difusión de la premiación y resultados del Premio en medios escritos, radiales y televisivos de alcance nacional.
+
+. Informar mensualmente a la Contraparte Técnica del Ministerio de los avances y estado de desarrollo del Premio y la premiación, dentro de los primeros cinco días hábiles del mes.
+
+. Entregar un informe final de actividades en el que se describan los hitos de la convocatoria y selección, la ceremonia de premiación, el total de personas que participaron de las distintas actividades y cualquier otro tipo de información relevante.
+
+El informe final de actividades deberá ser entregado en 2 copias (1 en papel y 1 en formato digital), conteniendo un resumen ejecutivo, en la Oficina de Partes del Ministerio, hasta las 16:00 horas del décimo día hábil contado desde la premiación. Una vez entregado el informe, la Contraparte Técnica dispondrá de un plazo de 10 días hábiles para su revisión, en la que podrá aprobar o levantar observaciones. En este último caso, la Fundación tendrá un plazo de 10 días hábiles para dar respuesta a las observaciones. En caso de existir observaciones, éstas serán expuestas por la Contraparte Técnica vía correo electrónico.
+
+Toda la entrega de antecedentes e informes de la Fundación a la Subsecretaría, se deberá efectuar a través de la Oficina de Partes, ubicada en Avda. Libertador Bernardo O'Higgins N° 1449, torre II, piso 1, local 7.
+
+Quinto: El presente contrato comenzará a regir a contar de la notificación por escrito, personal o por carta certificada, de la total tramitación del acto administrativo que lo apruebe y tendrá vigencia hasta 1 mes posterior a la entrega del informe final de las actividades del evento de premiación.
+
+Sin perjuicio de lo anterior, los servicios deberán encontrarse totalmente ejecutados dentro del plazo de 12 meses, contados desde el inicio de vigencia del presente contrato.
+
+El presente contrato podrá ser renovado, solo por una vez, por un periodo de 12 meses, salvo que cualquiera de las partes comunique a la otra su intención de no renovar el contrato, con al menos sesenta días corridos de anticipación. Para que se renueve el contrato será necesario que la Contraparte Técnica emita un informe en el que conste que se encuentre conforme con los servicios prestados y de que exista disponibilidad presupuestaria. En caso de renovarse la contratación, se solicitará una nueva disponibilidad presupuestaria que será cargada al año fiscal que corresponda, y se formalizará mediante un acuerdo escrito, el cual deberá ser aprobado mediante el acto administrativo correspondiente.
+
+La renovación se justifica en atención a que resulta necesaria la continuidad del administrador del Premio dadas las capacidades de gestión ya adquiridas y la experiencia en la administración del galardón, las que, para la correcta ejecución del servicio, se pueden consolidar de forma idónea en un plazo que excede la vigencia del contrato; así como también la relevancia de que exista coherencia entre un año y otro del Premio.
+
+Sexto: Sólo se efectuarán modificaciones al contrato cuando exista mutuo acuerdo entre las partes contratantes y que no signifiquen una alteración de fondo en lo convenido que comprometa la fe pública involucrada en el llamado a Concurso Público y respetando siempre el principio de igualdad de los oferentes.
+
+Cualquier modificación que se acuerde introducir estará sujeta al mismo trámite de aprobación que el presente contrato.
+
+Séptimo: La Contraparte Técnica que supervisará la ejecución del contrato será el Encargado del Programa Fondo de Innovación para la Competitividad o la(s) persona(s) designada(s) por la Subsecretaría en su reemplazo.
+
+El contrato será supervisado por la Contraparte Técnica, la que controlará y evaluará los servicios contratados, debiendo, asimismo, verificar el cumplimiento de las instrucciones que se hayan impartido al efecto.
+
+A su vez, la Fundación deberá designar y comunicar por correo electrónico a la Contraparte Técnica del Ministerio, a contar de la suscripción del contrato, a un Encargado de Contrato, quien será su representante permanente ante la Subsecretaría y al que le corresponderá, principalmente, coordinar las acciones que sean pertinentes para la prestación del servicio contratado. Con ese objeto, deberá estar fácilmente disponible para una comunicación rápida con la Contraparte Técnica de la Subsecretaría.
+
+Todo cambio relativo a esta designación deberá ser informado por correo electrónico o carta certificada a la Subsecretaría, con al menos, 48 horas de antelación.
+
+Octavo: La Fundación tendrá una labor de gestión del proceso, por la cual no se contemplan traspasos económicos destinados a financiar ningún tipo de gasto en el que ésta incurra. No obstante, la producción del evento de premiación para la versión del Premio para el año 2018, será financiada por el Ministerio en base a los criterios de Convenio Marco, no pudiendo estos costos exceder de la suma de $40.000.000 (cuarenta millones de pesos) anuales.
+
+Noveno: En caso que la Fundación no diera cumplimiento oportuno, sin causa justificada, al contrato, ya sea en cuanto a plazos establecidos en las bases, en la propuesta, o aquellos derivados de la ejecución de trabajos o alcance de las labores contratadas, o las instrucciones escritas que para su correcta ejecución imparta la Contraparte Técnica, ésta propondrá al Ministerio, la aplicación de las multas que se señalan a continuación:
+
+- 0.2% del presupuesto total máximo aprobado según lo señalado en la cláusula octava del presente contrato, por cada día de atraso en el cumplimiento de los servicios contratados, en las instrucciones sugeridas por la Contraparte Técnica y la entrega de informes o de su corrección.
+
+Si los perjuicios que el incumplimiento de las obligaciones de la Fundación ocasiona al Ministerio exceden el monto de las sanciones aplicadas, éste podrá perseguir judicialmente la indemnización de los perjuicios respectivos.
+
+El Ministerio se pronunciará respecto de la proposición de multa por medio de resolución fundada. Para estos efectos, el Ministerio notificará a la Fundación la infracción en la que se estima incurrió, a través de correo electrónico. La Subsecretaría dictará una resolución en la que se expondrán las circunstancias de hecho en que se funda, para que dentro del plazo de tres días hábiles, a contar de su notificación, la Fundación efectúe sus descargos. Transcurrido el plazo señalado, y habiéndose o no habiéndose evacuado los descargos, el Ministerio resolverá sobre la aplicación de la multa a través de una resolución fundada, la que se notificará a través de correo electrónico a la Fundación.
+
+Décimo: La Fundación no podrá ceder ni transferir en forma alguna, sea total o parcialmente, los derechos y obligaciones que nacen con ocasión del presente contrato.
+
+Undécimo: Toda información, datos, documentos, registros, estadísticas y archivos de todo tipo que la Fundación o los integrantes de su equipo de trabajo, sus dependientes, contratistas u otras personas vinculadas a ella, conozcan o llegaren a conocer con ocasión o a propósito del contrato y sus actividades complementarias, se tratarán como información confidencial y propiedad intelectual del Fisco de Chile (Minecon). La Fundación no podrá hacer uso de la información a menos que esté expresamente autorizada por el Ministerio, y ajustándose en todo caso a las disposiciones de la ley N° 19.628, sobre protección de la vida privada o protección de datos de carácter personal. El incumplimiento de esta obligación autorizará al Ministerio para poner término anticipado al contrato, y podrá dar lugar a la interposición de las acciones judiciales que correspondan.
+
+Duodécimo: La Fundación libera de toda responsabilidad al Ministerio de acciones entabladas por terceros en razón de transgresiones al derecho de autor, de marcas, de propiedad intelectual y otros, utilizadas indebidamente por la empresa. En caso de que estas acciones se interpongan, el proveedor estará obligado a asumir la defensa judicial y extrajudicial del Ministerio, y a indemnizar a éste por todos los costos. daños o perjuicios directos o indirectos que se deriven de estas acciones.
+
+Décimo tercero: La Fundación, en su calidad de empleador, será responsable exclusiva del cumplimiento íntegro y oportuno de las normas del Código del Trabajo y leyes complementarias, leyes sociales, de previsión, de seguros, de enfermedades profesionales, de accidentes del trabajo y demás pertinentes respecto de los integrantes de sus respectivos equipos de trabajo.
+
+En consecuencia, la Fundación será responsable, en forma exclusiva, del pago oportuno de las remuneraciones, honorarios, indemnizaciones, desahucios, beneficios y, en general, de toda suma de dinero que, por cualquier concepto, deba pagarse a los integrantes de su Equipo de Trabajo. Lo anterior, sin perjuicio de las normas que sobre la materia establece el Código del Trabajo.
+
+Décimo cuarto: Las eventuales diferencias que existieren durante la vigencia del presente contrato, que no puedan ser resueltas de común acuerdo por las partes, serán conocidas por los Tribunales Ordinarios de Justicia con sede en la comuna de Santiago, prorrogándose competencia para ante sus tribunales.
+
+Décimo quinto: La Fundación deberá facilitar al Ministerio la supervisión, control, revisión, inspección, y evaluación del avance y calidad de los servicios, trabajos y productos contratados.
+
+Décimo sexto: La propiedad intelectual del trabajo desarrollado por la Fundación pertenecerá a la Fundación y, conjuntamente, se entenderá transferida de pleno derecho al Ministerio, el que quedará totalmente facultado para publicar, citar, utilizar de cualquier forma, completar, ampliar o modificar el trabajo desarrollado, sin pago alguno al oferente, y a cederla gratuitamente a cualquier otro Órgano de la Administración del Estado y/o persona natural o jurídica de derecho privado.
+
+Asimismo, la Fundación deberá guardar absoluta confidencialidad sobre los antecedentes que, con motivo de la prestación del servicio, le proporcione el Ministerio.
+
+Toda la información y/o cualquier antecedente general que el Ministerio entregue o facilite a la Fundación es de propiedad exclusiva de este organismo, y no podrá ser usado para ningún otro fin que no sea el contemplado en el contrato.
+
+La infracción a estas disposiciones podrá significar para el proveedor el término anticipado del contrato, sin perjuicio de las demás sanciones y acciones legales que el Ministerio decida iniciar.
+
+Décimo séptimo: La personería de doña Natalia Piergentili Domenech para representar al Ministerio, consta los decretos N° 121, de 2014 y N° 19, de 2016, ambos del Ministerio de Economía, Fomento y Turismo.
+
+La personería de don Raúl José Rivera Andueza, para representar a la Fundación Pro Innovación, consta en los Estatutos de la Fundación, los cuales se encuentran en las escrituras públicas de fecha 17 de abril de 2007 y 15 de noviembre de 2007, otorgadas ante los Notarios Públicos de Santiago, doña Antonieta Mendoza Escalas, la primera; y don Fernando Alzate Claro, suplente de la titular doña Antonieta Mendoza Escalas, la segunda; y en el acta de la Primera Sesión de Directorio de la Fundación, celebrada el día 20 de agosto de 2008, reducida a escritura pública de fecha 4 de diciembre de 2008, otorgada ante la Notario Público de Santiago, doña Nancy de la Fuente Hernández.
+
+Se firma el presente contrato en 2 ejemplares de un solo tenor, quedando uno de ellos en poder de cada una de las partes.
+
+Para constancia firman: Raúl José Rivera Andueza, Fundación Pro Innovación; Natalia Piergentili Domenech, Ministerio de Economía, Fomento y Turismo."
+
+Anótese, notifíquese y publíquese.- Por orden de la Presidenta de la República, Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Turismo.
+
+Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Natalia Piergentili Domenech, Subsecretaria de Economía y Empresas de Menor Tamaño.
