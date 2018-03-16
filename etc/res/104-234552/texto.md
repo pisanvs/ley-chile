@@ -174,7 +174,7 @@ Disposiciones generales
 
 #### Artículo 1
 
-2.- Las disposiciones contenidas en esta Ordenanza se refieren a las siguientes materias: Límite Urbano, Zonificación, Usos de Suelo, Condiciones de Subdivisión Predial, de Edificación, de Urbanización y Vialidad, las que regirán dentro del área territorial del Plan, graficada en los Planos PRR-01, PRR-02, PRR-03, PRR-04, PRR-01-M1 y PRR-02-M1.
+2.- Las disposiciones contenidas en esta Ordenanza se refieren a las siguientes materias: Límite Urbano, Zonificación, Usos de Suelo, Condiciones de Subdivisión Predial, de Edificación, de Urbanización y Vialidad, las que regirán dentro del área territorial del Plan, graficada en los Planos PRR-01, PRR-02, PRR-03, PRR-04, PRR-01-M1, PRR-02-M1, PRR-01-M2 y PRR-02-M2.
 
 #### Artículo 1
 
@@ -376,25 +376,15 @@ Normas generales sobre loteamientos y urbanizaciones
 
 #### Artículo 3
 
-1.1.- Cesiones y obras de urbanización. Según corresponda a cada proyecto, se deberán efectuar las cesiones u obras de urbanización necesarias, que resulten de lo dispuesto por la LGU y C, la OGU y C y la Ley Nº19.537 sobre Copropiedad Inmobiliaria.
+1.1.- Derogado.
 
 #### Artículo 3
 
-1.2.- Normas especiales de edificación en relación a cesiones de terreno y obras de urbanización.
-
-Los nuevos proyectos que opten por incrementar su coeficiente de constructibilidad, altura y densidades, de acuerdo al artículo 3.3.6 de esta Ordenanza, con el objeto de hacer sustentable la mayor construcción, deberán contemplar en el proyecto la cesión o provisión de terreno para vialidad y áreas verdes. Las superficies de terreno para vialidad y área verde se determinarán en base al Art. 2.2.5 de la OGU y C.
-
-En los casos en que el predio se encuentre afecto a utilidad pública, el porcentaje de terreno a destinar a vialidad o área verde se radicará en la parte afecta a utilidad pública. Cuando dicha superficie resulte inferior o el predio no se encuentre afecto a utilidad pública, las superficies de terrenos destinadas a estos fines quedarán dentro del dominio privado.
-
-Si el propietario del predio lo solicita, el municipio podrá autorizar la radicación de estas superficies, en terrenos determinados en el PRC a vialidad o áreas verdes, ubicadas dentro de la misma área de edificación en que se emplaza el proyecto, o alternativamente en su equivalente en obras de materialización de la vialidad y áreas verdes proyectadas.
+1.2.- Derogado.
 
 #### Artículo 3
 
-1.3.- Evacuación de aguas lluvias.
-
-En el sector norte de la comuna, desde las calles Av. Dorsal - Pedro Donoso al norte, donde de acuerdo al estudio de Factibilidad de Aguas Lluvias de este PRC, no existe un sistema público de evacuación de aguas lluvias, hasta que éste no se implemente, el proyecto deberá considerar una solución de absorción de las aguas al interior del predio. Para ello deberá considerarse como mínimo un 30% de terreno permeable y en los casos de proyectos ubicados en predios de superficie mayor a 1000 m², presentar un proyecto de absorción, el cual podrá basarse en el Manual "Técnicas Alternativas para Soluciones de Aguas Lluvias en Sectores Urbanos. Guía de Diseño.", Ministerio de Vivienda y Urbanismo, 1996.
-
-Sin perjuicio de lo anterior, la evacuación de aguas lluvias en toda la comuna deberá ceñirse a lo establecido en el artículo 4.1.6 de la 0.G. U. y C.
+1.3.- Derogado.
 
 #### Artículo 3
 
@@ -408,93 +398,55 @@ Normas generales sobre usos de suelo
 
 #### Artículo 3
 
-2.1.- Concordancia entre Patentes Municipales y Usos de suelo.
-
-Al emitir el informe a que se refiere el artículo 58 de la Ley General de Urbanismo y Construcciones, para el otorgamiento de patentes municipales, el Director de Obras tendrá en consideración los usos de suelo fijados para cada zona y las condiciones que se establecen en particular para servicios artesanales, actividades productivas, almacenamiento y transporte en la presente Ordenanza, como pueden ser anchos de calles, dimensiones mínimas de terreno, u otras.
+2.1.- Derogado.
 
 #### Artículo 3
 
-2.2.- Usos de suelo condicionados al ancho de la vía.
-
-Cuando un predio enfrente dos calles de distinto ancho y opte por el uso de suelo que le permita sólo una de ellas, deberá tener en ésta última todos sus accesos peatonales principales y vehiculares. Se exceptúan aquellos proyectos que se emplacen en vías estructurantes que justifiquen técnicamente a través de un estudio de tránsito la conveniencia de redistribuir sus accesos hacia vías secundarias, que no obstante no podrán ser pasajes de uso exclusivo de vivienda.
-
-Para efecto de establecer el ancho de la vía a que se condiciona un uso, el ancho a considerar será el predominante en la longitud total de la vía. No se consideran en este caso ensanchamientos parciales de vías secundarias, que tienen como objeto la formación de áreas verdes.
-
-En el caso de que el predio que opta por un uso de suelo condicionado al ancho de la vía se encuentra afecto a expropiación, para autorizar dicho uso el proyecto deberá contemplar la materialización de la vialidad proyectada.
+2.2.- Derogado.
 
 #### Artículo 3
 
-2.3.- Uso preferente de vivienda en pasajes.
-
-En los predios que enfrentan vías de ancho menor a 8 m. entre líneas oficiales, ubicadas en cualquiera de las zonas de uso de suelo definidas en esta Ordenanza, el uso de suelo será exclusivamente de vivienda, cuando más de un 50% de los predios de la cuadra tengan este mismo destino. Esta condición prevalece en el caso de fusiones y/o predios que enfrentan además otra vía.
+2.3.- Derogado.
 
 #### Artículo 3
 
-2.4.- Usos Prohibidos. No podrán localizarse al interior del territorio comunal:
-
-1. Industrias, talleres, almacenamiento y actividades de servicios o transporte calificados como molestos, insalubres o contaminantes y peligrosos.
-
-2. Relleno sanitario, depósitos de residuos de la construcción y/o demoliciones y estaciones de transferencia y/o plantas de reciclaje que consideren el tratamiento de residuos de origen distinto a la propia comuna.
+2.4.- Derogado.
 
 #### Artículo 3
 
-2.5.- Clasificación de las actividades.
-
-Los tipos básicos en que se clasifican las actividades, para efecto de la aplicación de esta O.L. son:
-
-a. Vivienda.
-
-b. Equipamiento.
-
-c. Actividades productivas y/o almacenamiento, calificados como inofensivos.
-
-d. Vialidad y transporte.
-
-El detalle de estos tipos básicos se indican en los Cuadros Nº1, Nº2 y Nº9 que se incluyen más adelante. Según el tipo y escala los usos de equipamiento se clasificarán de acuerdo a lo señalado en el siguiente cuadro:
-
-Cuadro Nº1 Equipamiento según tipo y escala.
-
-VER DIARIO OFICIAL DE 08.01.2005, PÁGINA 15.
+2.5.- Derogado.
 
 #### Artículo 3
 
-2.6.- Servicios artesanales.
-
-Para efecto de su localización en las distintas zonas se clasificarán como servicios artesanales de escala vecinal, básicamente las actividades señaladas en el Cuadro Nº1, realizadas mediante un proceso predominantemente manual, por un máximo de tres personas y cuando se desarrollan en un recinto máximo de 50m2 construidos, que puede ser complementario a la vivienda o un local comercial.
-
-Las actividades que no respondan a las características antes señaladas para los Servicios Artesanales, se clasificarán como talleres, garajes, industrias o almacenamiento, según corresponda, debiendo cumplir con las condiciones que se establecen para dichos usos.
+2.6.- Derogado.
 
 #### Artículo 3
 
-2.7.- Actividades Productivas, Servicios de Carácter Industrial y Almacenamiento.
+2.7.- Actividades Productivas, Servicios de Carácter Industrial, Almacenamiento e Infraestructura.
 
-Para efecto de la aplicación de la presente Ordenanza, las actividades productivas, de servicios de carácter industrial y almacenamiento se clasifican en tipos de acuerdo a las características y condiciones definidas en el siguiente cuadro:
+Para efecto de la aplicación de la presente Ordenanza, las actividades productivas, de servicios de carácter industrial y almacenamiento se clasifican en tipos de acuerdo a las características y condiciones definidas en los cuadros N° 2.A. Actividades Productivas y Servicios de Carácter Industrial, Cuadro N° 2.B. Almacenamiento y Cuadro N° 2.C. Infraestructura:
 
-Cuadro Nº2 Actividades Productivas, Servicios de Carácter Industrial y Almacenamiento.
+Cuadro N° 2.A. Actividades Productivas y Servicios de Carácter Industrial.
 
-VER DIARIO OFICIAL DE 08.01.2005, PÁGINA 15.
+.
 
-(1) Se entenderá bodega complementaria cuando el 50% máximo del total de la superficie construida esté destinada a almacenamiento, quedando el resto destinado a Oficina, Comercio o Vivienda. Para efecto de la aplicación del máximo de 200 o 500 m² construido se considera sólo la superficie destinada al uso de bodega.
+Cuadro N° 2.B. Almacenamiento
 
-(2) No será aplicable esta disposición a los recintos destinados a actividades distintas o complementarias a éstas, como salas de venta u oficinas administrativas; comercio, oficinas o vivienda en general.
+.
 
-(3) Servicios de carácter industrial se consideran los establecidos en el Art. 6.1.1.2 del P.R. M.S.
+Cuadro N° 2.C. Infraestructura
 
-En general para las Actividades Productivas, Servicios de Carácter Industrial y Almacenamiento regirán las siguientes condiciones:
+.
 
-1. Deberán presentar Calificación SESMA como actividad inofensiva.
+----------------------------------------------------------------
 
-2. Deberán contar con estacionamientos para vehículos y de carga y descarga de acuerdo al Cuadro Nº9 de esta Ordenanza.
+(1) Tipología se refiere al tipo de actividad y a la calificación que requiere.
 
-3. No se permitirá actividades productivas ni almacenamiento en los recintos que enfrenten fachadas a la calle en primero y segundo nivel. En estos recintos podrán localizarse actividades distintas o complementarias a las ya descritas, como salas de venta u oficinas administrativas, comercio, oficinas o vivienda en general.
+En general para las Actividades Productivas, Servicios de Carácter Industrial, Almacenamiento e Infraestructura.
 
 #### Artículo 3
 
-2.8.- Impacto acústico y aplicación de los niveles de presión sonora por zonas de usos de suelo.
-
-Para efecto de la aplicación de los niveles de presión sonora por zonas de usos de suelo, fijados en el Decreto Supremo Nº146197 del Ministerio Secretaría General de la República, CONAMA, u otros que se decrete, se atendrá a la concordancia de zonas de usos de suelo establecidas en la Ordenanza Municipal correspondiente, y en su falta al informe de Asesoría Urbana.
-
-Para la instalación de actividades que generan un impacto acústico en el entorno, como discotecas, cabarets, salas de espectáculos y eventos, se deberán adoptar las medidas de control acústico necesarias para el cumplimiento de la norma señalada en el inciso anterior, lo cual será certificado por un profesional competente.
+2.8.- Derogado.
 
 ### Párrafo 3 — .3
 
@@ -502,39 +454,29 @@ Normas generales sobre subdivisión, ocupación de suelo y edificación
 
 #### Artículo 3
 
-3.1.- Predios Existentes.
-
-Los proyectos de construcción, reconstrucción, reparación, alteración y ampliación que se emplacen en predios existentes que no cumplan con las superficies y frentes prediales mínimos establecidos en esta Ordenanza, se aprobarán dándose cumplimiento a las demás normas que se establecen en ella.
+3.1.- Derogado.
 
 #### Artículo 3
 
-3.2.- Jardines y Arborización Antejardines.
+3.2.- Antejardines.
 
-Se exigirán antejardines de acuerdo a lo establecido en el Capítulo IV de la presente Ordenanza, cuando ellos ya existan en el mismo costado de la cuadra y en una longitud superior al 50% de ella.
+Se exigirán antejardines de acuerdo a lo establecido en el Capítulo IV de la presente Ordenanza y serán obligatorios.
 
-Antejardines en Sitios Esquinas.
+Se podrá emplazar en ellos estacionamientos para vehículos livianos y bicicletas, hasta en un tercio de la longitud del frente principal o de acceso vehicular.
 
-En sitios esquinas de superficie menor a 300m2 y frente menor a 10m, se permitirá la supresión del antejardín hasta en un 50% de la longitud de los frentes.
-
-Area libre en edificios de vivienda.
-
-En edificios destinados total o parcialmente a la vivienda se exigirá la provisión de 1 m² de área libre común por cada 5m2 de superficie construida. Para efectos de dicho cálculo se considerarán las siguientes áreas: los jardines en 1er piso, las terrazas, balcones y jardineras a cualquier nivel y el 50% de la superficie destinada a estacionamientos abiertos.
-
-El área libre así determinada deberá tener al menos un 50% de arborización.
-
-Arboles valiosos existentes.
-
-Los árboles valiosos existentes (así calificados por la Dirección de Aseo y Ornato), en el espacio público, deberán ser respetados por las nuevas edificaciones. La Dirección de Obras podrá exigir las modificaciones pertinentes en un proyecto a fin de cumplir éste objetivo. Los anteproyectos de edificios deberán contemplar el catastro de los árboles y especies vegetales de importancia existentes en el predio, y aceras que lo enfrentan.
-
-Arborización en nuevos proyectos.
-
-Cuando de acuerdo a la presente Ordenanza, se deba considerar arborización o provisión de áreas verdes, se deberá utilizar especies que posean como mínimo 8 diámetro y con las condiciones detalladas en la Ordenanza Municipal Ornato y Jardines.
+En el antejardín queda prohibida toda edificación, permitiéndose sólo lo establecido en la OGUC.
 
 #### Artículo 3
 
-3.3.- Continuidad y pareo en predios de frentes menores a 15 m.
+3.3.- Continuidad.
 
-El Director de Obras podrá autorizar la edificación continua o pareada, construida simultáneamente o diferida en el tiempo, por ambos costados, en sitios de frente igual o menor a 10m; y por un costado en sitios de 15m o menos de frente. Dicha continuidad o pareo, podrá autorizarse hasta dos pisos, con una altura máxima de 6 m, considerando se obtenga una correcta armonía y asoleamiento para las edificaciones colindantes involucradas. La extensión y profundidad de esta edificación se determinará teniendo en cuenta las características de las edificaciones colindantes, considerando conjuntamente un máximo del 60% del deslinde común y una profundidad máxima de 15 m. a la línea de edificación, prevaleciendo la condición más restrictiva.
+Excepciones a la continuidad:
+
+Las edificaciones continuas podrán generar excepciones al plano de continuidad en hasta un tercio del plano de fachada, medidos en forma horizontal, desde uno de los deslindes prediales. La altura de la edificación continua será la definida por cada una de las zonas de edificación descritas en el presente instrumento de planificación territorial.
+
+. Posibilidades de retranqueos:
+
+Se podrán generar hasta un máximo de tres (3) retranqueos a partir de la línea de edificación y desde la altura máxima de continuidad, definida para la zona de edificación.
 
 #### Artículo 3
 
@@ -542,15 +484,19 @@ El Director de Obras podrá autorizar la edificación continua o pareada, constr
 
 En conformidad con lo dispuesto en la OGU y C, se permitirán adosamientos a partir de la línea de edificación correspondiente y conforme a lo indicado en el Art. 2.6.2 de dicha Ordenanza.
 
+Los adosamientos se regirán de acuerdo a lo señalado en las normas de edificación para cada zona, en tanto se permita el agrupamiento aislado a nivel de suelo natural.
+
+Quedan prohibidos los adosamientos en inmuebles destinados a Actividades Productivas, Almacenamiento y/o Infraestructura, salvo que se trate de recintos complementarios destinados a oficinas, servicios higiénicos, estacionamientos u otros que no provoquen impactos o molestias en el predio contiguo.
+
 #### Artículo 3
 
 3.5.- Rasantes, Alturas y Distanciamiento.
 
-Para la aplicación de normas sobre superficie de rasantes y distanciamiento, regirá lo dispuesto en el artículo 2.6.3 de la Ordenanza General de Urbanismo y Construcciones, sin perjuicio de lo establecido sobre esta materia en el Capítulo IV de la presente Ordenanza.
+Para la aplicación de normas sobre rasantes y distanciamiento, regirá lo dispuesto en el artículo 2.6.3 de la Ordenanza General de Urbanismo y Construcciones, sin perjuicio de lo establecido sobre esta materia en el Capítulo IV de la presente Ordenanza.
 
 En las zonas que se permita la construcción continua hasta una altura determinada, las rasantes dentro de las cuales deberán inscribirse la construcción aislada se aplicarán a partir de la altura máxima fijada para la continuidad y serán de 70º para los deslindes y de 60º para el eje de la calle.
 
-En las edificaciones determinadas por rasantes no se aceptarán planos inclinados de fachada.
+En las edificaciones determinadas por rasantes se prohíben los planos inclinados de techumbre y fachada en un ángulo superior a 45°..
 
 Cuando dos predios contiguos pertenezcan a zonas diferentes, en las fachadas que enfrenten el deslinde común se aplicará en ambos predios las normas más restrictivas en lo referente a la altura de la edificación aislada, continua o pareada y respecto a la aplicación de rasantes.
 
@@ -562,67 +508,17 @@ Cuando la altura máxima permitida establezca que el último piso deberá ser re
 
 #### Artículo 3
 
-3.6.- Normas de excepción.
-
-En los casos en que se cumpla con las condiciones detalladas a continuación, en las distintas áreas E del Plan Regulador se podrá incrementar hasta en un 40 % el coeficiente de constructibilidad máximo establecido para la respectiva Zona y la altura máxima de edificación, conforme a lo indicado en el Cuadro Nº4.
-
-Estas condiciones no se podrán aplicar en las Zonas Z-S3, Z-S4, Z-S5 y E-M3, descritas en el Capítulo IV de la presente Ordenanza.
-
-El % de incremento señalado no podrá sumarse a otros beneficios similares por concepto de fusión, conjunto armónico u otro, sino que se entiende como el máximo de incremento a aplicar por predio.
-
-Cuadro Nº4 Condiciones de excepción para mayor altura de la edificación.
-
-Areas de Edificación Altura máxima aplicando las
-
-Normas de Excepción
-
-Areas de Edificación Hasta una altura máxima de
-
-Baja E-B 7 pisos.
-
-Areas de Edificación Hasta una altura máxima
-
-Media E-M de 14 pisos.
-
-Areas de Edificación Según rasante (Art. 2.6.3
-
-Alta E-A de O.G.U.C.)
-
-Podrán acogerse a este artículo los proyectos que cumplan con las siguientes condiciones:
-
-1. Condición de Dimensión del Predio:
-
-a. El terreno en que se emplace el edificio deberá tener una superficie mínima de 1200 m².
-
-b. El terreno en que se emplace el edificio deberá enfrentar al menos una calle de ancho mínimo entre líneas oficiales de 20 m.
-
-2. Condiciones de Edificación:
-
-a. La parte de la edificación que exceda la alturA
-
-máxima establecida para la respectiva área, deberá quedar inscrita en rasantes de 70º y respetar un distanciamiento mínimo a los divisorios de 5m.
-
-3. Condiciones de la Urbanización y los Espacios Públicos:
-
-a. Contemplar cesiones u obras de urbanización de acuerdo al artículo 3.1.2 de esta Ordenanza.
-
-b. Los edificios deberán consultar espacios libres a nivel de acera y adyacentes a ella, equivalentes al 5% de la superficie de terreno.
+3.6.- Derogado.
 
 #### Artículo 3
 
-3.7.- Alturas máximas en calles de menos de 15 mt. y pasajes de ancho menor o igual a 8 mt.
-
-En calles de un ancho menor o igual a 15 m. entre líneas oficiales, se permitirá una altura máxima de continuidad igual al ancho de la calle. En los pasajes de ancho menor a 8 m. entre líneas oficiales, se permitirá una altura máxima de continuidad de 7 m.
-
-Para los casos de pasajes ya constituidos la altura máxima de continuidad será la predominante.
-
-En los casos anteriores, donde de acuerdo a la zona E correspondiente, se permite una mayor altura de edificación, ésta deberá quedar inscrita en las rasantes, aplicadas a partir de la altura máxima de continuidad y con un distanciamiento de mínimo 4 m. a la línea de edificación.
+3.7.- Derogado
 
 #### Artículo 3
 
 3.8.- Cierros.
 
-Cuando se consulten cierros en los sitios ya edificados o por edificarse, éstos deberán ser de una altura máxima de 2,50 m y transparentes en un mínimo de 50% del frente de las propiedades a la calle y a espacios de uso público en general. Sólo se admitirá en el porcentaje transparente, la colocación de rejas o cercos vivos, sin zócalos. No estará permitido adherir a las rejas elemento alguno que impida la transparencia de estos cierros.
+Cuando se consulten cierros en los sitios ya edificados o por edificarse, éstos deberán ser de una altura máxima de 2,50 m y transparentes en un mínimo de 50% del frente de las propiedades a la calle y a espacios de uso público en general. Sólo se admitirá en el porcentaje transparente, la colocación de rejas o cercos vivos,. No estará permitido adherir a las rejas elemento alguno que impida la transparencia de estos cierros.
 
 Los cierros en esquinas deberán formar ochavos, según lo previsto en la Ordenanza General de Urbanismo y Construcciones y conforme a las Líneas Oficiales fijadas en el Capítulo V de la presente Ordenanza, y en los respectivos planos de loteo cuando corresponda.
 
@@ -630,7 +526,9 @@ Los cierros en esquinas deberán formar ochavos, según lo previsto en la Ordena
 
 3.9.- Cierros en Sitios Eriazos y Playas de Estacionamiento.
 
-Los sitios eriazos y playas de estacionamiento deberán disponer de un cierro transparente, que no sea de carácter provisorio, de altura mínima de 2.00 m. y con una altura máxima de 2,50 m.
+Los sitios eriazos y playas de estacionamiento deberán disponer de un cierro transparente de un 60% hacia el espacio público, que no sea de carácter provisorio, de altura mínima de 2.00 m. y con una altura máxima de 2,50 m.
+
+Los cierros relativos a terminales de vehículos y depósito de vehículos de locomoción colectiva deberán disponer de un cierro transparente de un 80% hacia el espacio público.
 
 #### Artículo 3
 
@@ -649,6 +547,12 @@ No se permitirá la construcción de subterráneos bajo las franjas de antejard�
 Respecto de la instalación de torres y antenas en todas las zonas definidas en este PRR se atendrá a lo dispuesto en el Art. 2.6.3 de la OGU y C.
 
 No se autorizará la instalación de torres y antenas en los edificios o áreas patrimoniales a que se refiere el Párrafo 3.4 de esta Ordenanza.
+
+#### Artículo 3
+
+3.12.- Cuerpos Salientes, Marquesinas y Toldos.
+
+Los cuerpos salientes, marquesinas y toldos deberán respetar las normas contenidas en el Capítulo 7 Título II de la OGUC, y se permitirán cuando no se indique lo contrario.
 
 ### Párrafo 3 — .4
 
@@ -684,27 +588,29 @@ Los permisos para su rehabilitación, reconstrucción o modificación de cualqui
 
 4.5.- Condiciones de Uso de Suelo.
 
-En los Monumentos Nacionales, Inmuebles de Conservación Histórica y Sectores Especiales señalados en el Capítulo IV de la presente Ordenanza, los usos de suelo permitidos y prohibidos serán los siguientes:
+En los Monumentos Nacionales, Inmuebles o Zonas de Conservación Histórica y Sectores Especiales señalados en el Capítulo IV de la presente Ordenanza, los usos de suelo permitidos y prohibidos serán los siguientes:
 
-a. Usos permitidos:
+c) Usos Permitidos.
 
-- Vivienda.
+. Residencial: Residencial: Vivienda, Hospedaje.
 
-- Equipamiento de escala intercomunal,
+. Equipamiento: De todas las clases y escalas establecidas con excepción de los prohibidos.
 
-comunal y vecinal, con excepción de
+. Espacio Público.
 
-Servicios Artesanales.
+. Área Verde.
 
-b. Usos Prohibidos:
+. Infraestructura: sanitaria
 
-- Actividades productivas, almacenamiento y
+d) Usos Prohibidos.
 
-transporte de cualquier tipo.
+. Equipamiento: clase comercio, actividades de estaciones o centros de servicio automotor; clase servicios, actividad de estacionamiento comercial o playa de estacionamientos.
 
-Se prohíbe además todos los usos de suelo
+. Actividades Productivas.
 
-que no están expresamente permitidos.
+. Infraestructura: Energética y de Transportes.
+
+Se prohíbe además todos los usos de suelo que no están expresamente permitidos.
 
 En los casos de cambios de destino, las obras a realizar deberán preservar las características patrimoniales o particulares del inmueble y contar con la autorización del organismo competente según su clasificación.
 
@@ -726,7 +632,7 @@ Los proyectos que se realicen en predios colindantes a monumentos nacionales o i
 
 4.8.- Estacionamientos.
 
-Los proyectos a que se refiere éste párrafo deberán cumplir con los estándares de estacionamientos determinados de acuerdo al Capítulo V de la presente Ordenanza, los que podrán autorizarse en otro predio de acuerdo al Art. 2.4.2 de la OGU y C. Cuando la aplicación de los estándares genere una exigencia de hasta 10 estacionamientos, no será obligatoria la provisión de estos.
+Los proyectos a que se refiere éste párrafo deberán cumplir con los estándares de estacionamientos determinados de acuerdo al Capítulo V de la presente Ordenanza, los que podrán autorizarse en otro predio de acuerdo al Art. 2.4.2 de la OGU y C. Cuando la aplicación de los estándares genere una exigencia de hasta 10 estacionamientos, no será obligatoria la provisión de estos. No obstante lo anterior, deberá cumplir con un mínimo de estacionamientos destinados a Bicicletas, según lo establecido en el Cuadro N°9 del Art. 5.2.4.
 
 #### Artículo 3
 
@@ -740,7 +646,7 @@ Normas generales sobre áreas de restricción
 
 #### Artículo 3
 
-5.1.- Zonas de restricción de ladera Cerro San Cristóbal.
+5.1.- Zonas de riesgo de ladera Cerro San Cristóbal.
 
 Estas zonas se regirán según lo establecido en el Capítulo IV de la presente Ordenanza.
 
