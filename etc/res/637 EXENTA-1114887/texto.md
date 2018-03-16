@@ -1,4 +1,4 @@
-LLAMADO EXTRAORDINARIO 2018 A POSTULACIÓN PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR EN LA MODALIDAD REGULADA POR SU CAPÍTULO SEGUNDO, DE LA ATENCIÓN A CONDOMINIOS DE VIVIENDAS SOCIALES, PARA LAS REGIONES DE VALPARAÍSO, DEL LIBERTADOR BERNARDO O'HIGGINS, DEL MAULE, DEL BIOBÍO, DE LA ARAUCANÍA, DE LOS RÍOS, DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO Y METROPOLITANA DE SANTIAGO. FIJA CONDICIONES PARA SU APLICACIÓN, EL MONTO DE RECURSOS DISPONIBLES Y SU FORMA DE DISTRIBUCIÓN PARA CADA REGIÓN
+LLAMADO EXTRAORDINARIO 2018 A POSTULACIÓN PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR EN LA MODALIDAD REGULADA POR SU CAPÍTULO SEGUNDO, DE LA ATENCIÓN A CONDOMINIOS DE VIVIENDAS SOCIALES, PARA LAS REGIONES DE VALPARAÍSO, DEL LIBERTADOR BERNARDO O'HIGGINS, DEL MAULE, DEL BIOBÍO, DE LOS RÍOS, DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO Y METROPOLITANA DE SANTIAGO. FIJA CONDICIONES PARA SU APLICACIÓN, EL MONTO DE RECURSOS DISPONIBLES Y SU FORMA DE DISTRIBUCIÓN PARA CADA REGIÓN
 
 Santiago, 6 de febrero de 2018.- Hoy se resolvió lo que sigue:
 
@@ -24,7 +24,7 @@ b) Que las intervenciones a realizar en los condominios configuran situaciones d
 
 Resolución:
 
-1. Llámese a postulación a los Condominios de Viviendas Sociales emplazados en las regiones de Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Biobío, de La Araucanía, de Los Ríos, de Aysén del General Carlos Ibáñez del Campo y Metropolitana de Santiago, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y las áreas comunes de la copropiedad; del Título II Mejoramiento de la Vivienda, letras b.4) y b.5) del artículo 5° del DS N° 255 (V. y U.), de 2006, destinados al desarrollo de proyectos de Mejoramiento de Bienes Comunes Edificados y Obras de Innovaciones de Eficiencia Energética y Acondicionamiento Térmico, incluyendo las redes de servicio, y del Título III correspondientes a Ampliación de la Vivienda.
+1. Llámese a postulación a los Condominios de Viviendas Sociales emplazados en las regiones de Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Biobío, de Los Ríos, de Aysén del General Carlos Ibáñez del Campo y Metropolitana de Santiago, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y las áreas comunes de la copropiedad; del Título II Mejoramiento de la Vivienda, letras b.4) y b.5) del artículo 5° del DS N° 255 (V. y U.), de 2006, destinados al desarrollo de proyectos de Mejoramiento de Bienes Comunes Edificados y Obras de Innovaciones de Eficiencia Energética y Acondicionamiento Térmico, incluyendo las redes de servicio, y del Título III correspondientes a Ampliación de la Vivienda.
 
 2. Los postulantes podrán ser seleccionados por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo (Seremi), mediante resoluciones exentas, de acuerdo a los siguientes plazos:
 
@@ -118,7 +118,23 @@ En el caso de los proyectos correspondientes a la modalidad de Subsidio a la Fam
 
 13. Los recursos disponibles para efectuar la selección de proyectos en Condominios Sociales que se encuentren certificados como Copropiedades Objeto del Programa, de acuerdo a lo establecido en el resuelvo 6, letra a), de la presente resolución, serán los siguientes:
 
-.
+Regiones CVS
+
+Valparaíso 300.000
+
+Región Metropolitana 350.000
+
+O'Higgins 19.016
+
+Maule 27.160
+
+Biobío 150.000
+
+Los Ríos 78.152
+
+Aysén 25.058
+
+Total 949.386
 
 14. De no haber recursos suficientes para seleccionar a la totalidad de los proyectos postulados, se deberá realizar un proceso de prelación, por parte de una Comisión Evaluadora que convocará el Secretario Regional Ministerial, integrada por a lo menos 2 profesionales representantes de la Seremi y Serviu respectivo hasta enterar el total de los recursos disponibles.
 
@@ -204,7 +220,7 @@ Por su parte, en los casos en que una PSAT inicie la tramitación de la prórrog
 
 20. El inicio de las obras se realizará en un plazo máximo de 60 días corridos desde la fecha de la resolución exenta de selección de beneficiarios emitida por la Seremi. La empresa constructora en conjunto con el PSAT deberá realizar, dentro de los 15 días corridos desde la fecha de dicha resolución exenta, una Asamblea de Copropietarios y Residentes, donde se informen las características técnicas del proyecto, el plazo de su ejecución, la planificación general del proyecto y sus partidas, los encargados de la obra y de la inspección técnica de obras, las características, objetivos y planificación general del PHS y sus encargados.
 
-Excepcionalmente, en las regiones de Biobío, Araucanía, Los Ríos y Aysén, la Seremi podrá establecer, mediante la resolución exenta de selección correspondiente, un plazo máximo de hasta 240 días para el inicio de las obras de los proyectos seleccionados en este llamado, a fin de cautelar la buena ejecución de las obras en relación a las condiciones climáticas.
+Excepcionalmente, en las regiones de Biobío, Los Ríos y Aysén, la Seremi podrá establecer, mediante la resolución exenta de selección correspondiente, un plazo máximo de hasta 240 días para el inicio de las obras de los proyectos seleccionados en este llamado, a fin de cautelar la buena ejecución de las obras en relación a las condiciones climáticas.
 
 21. El monto de ahorro mínimo exigido, dependiendo del tipo de proyecto y postulación, será el siguiente:
 
