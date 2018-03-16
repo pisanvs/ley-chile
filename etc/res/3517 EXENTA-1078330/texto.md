@@ -42,17 +42,13 @@ Transcurrido dicho periodo de cinco años, quedará sin efecto la mencionada res
 
 #### Artículo 4º
 
-A quien se hubiere otorgado una concesión de televisión digital deberá solicitar por escrito a la Subsecretaría la asignación de un número virtual del canal, señalando el número de su preferencia entre los posibles números a asignar y que se encuentren disponibles. La solicitud deberá ser firmada por el representante legal de la concesionaria y señalar el número y fecha de la resolución del Consejo Nacional de Televisión, que autoriza el respectivo canal físico. La concesionaria podrá solicitar su número virtual del canal, con una antelación no superior a 6 meses del inicio del servicio de su concesión, el cual quedará nuevamente disponible, de no iniciarse los servicios en el plazo señalado.
-
-La Subsecretaría, una vez recibida la solicitud a que se refiere el inciso precedente, publicará un extracto de la misma en su página de internet, el que para tales fines, mantendrá un direccionamiento para acceso directo a todas las solicitudes presentadas, a lo menos, en el mes anterior, a fin de que, quien tenga interés en ello y se encuentre en similares condiciones que la solicitante, pueda oponerse a ella, solicitando el mismo número, dentro del plazo de 10 días contado desde la publicación del citado extracto.
+A quien se hubiere otorgado una concesión de televisión digital deberá solicitar por escrito a la Subsecretaría la asignación de un número virtual de canal, señalando el número de su preferencia entre los posibles números a asignar y que se encuentren disponibles. La solicitud deberá ser firmada por el representante legal de la concesionaria y señalar el número y fecha de la resolución del Consejo Nacional de Televisión, que autoriza el respectivo canal físico. La concesionaria podrá solicitar su número virtual de canal, con una antelación no superior a 6 meses del inicio del servicio de su concesión, el cual quedará nuevamente disponible, de no iniciarse los servicios en el plazo señalado.
 
 #### Artículo 5º
 
-Transcurrido el plazo de 10 días señalado precedentemente, la Subsecretaría, mediante resolución, procederá a la asignación de la numeración virtual de canal o, de existir oposiciones de otras interesadas en asignarse el mismo número virtual y que se encuentren en similares condiciones, llamará a sorteo público entre éstas para resolver aquélla. Además de las oposiciones recibidas en el plazo de 10 días a que se refiere el artículo anterior, se considerarán en el sorteo aquellas presentaciones solicitando la asignación del mismo número virtual de canal que se hubieren efectuado con posterioridad a la primera solicitud recibida para asignarse dicho número y antes de la publicación del extracto de la misma.
+En caso de encontrarse disponible el número solicitado, la Subsecretaría, mediante resolución, asignará a la concesionaria el número virtual de canal solicitado, remitiendo copia al Consejo. De lo contrario, rechazará fundadamente la solicitud. En este último caso, la concesionaria podrá volver a solicitar uno nuevo.
 
-Resultará asignataria del número virtual de canal la concesionaria que hubiere obtenido el mayor número en el sorteo. Las restantes participantes en el sorteo que no hubieran sido favorecidas en el mismo deberán presentar una nueva solicitud, sin perjuicio de la posibilidad de oponerse, dentro de plazo, a una en curso.
-
-La Subsecretaría notificará a la concesionaria favorecida la resolución de asignación de numeración virtual de canal, copia de la cual se remitirá al Consejo.
+En caso de solicitudes incompatibles entre sí, se resolverán las mismas según orden de presentación conforme al respectivo número de Ingreso en Oficina de Partes de la Subsecretaría.
 
 A quien se hubiere asignado un número virtual de canal no podrá solicitar el cambio de dicho número en el plazo de 5 años contado desde el inicio de las transmisiones con el mismo.
 
