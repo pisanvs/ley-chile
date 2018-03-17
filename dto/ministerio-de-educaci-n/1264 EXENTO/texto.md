@@ -80,6 +80,10 @@ Apruébanse los siguientes programas de estudio para 2º año de Educación Medi
 
 8. Artes Visuales.
 
+9. Música.
+
+10. Tecnología.
+
 #### Artículo 3º
 
 Declárase oficial la versión del plan de estudio para 1º y 2º año de Educación Media correspondiente a las asignaturas indicadas en los artículos 1º y 2º del presente decreto, y que el Ministerio de Educación pondrá a disposición de todos los establecimientos educacionales del país a través de su página web (www.mineduc.cl).
