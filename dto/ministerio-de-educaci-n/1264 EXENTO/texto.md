@@ -88,6 +88,10 @@ Apruébanse los siguientes programas de estudio para 2º año de Educación Medi
 
 8. Artes Visuales.
 
+9. Música.
+
+10. Tecnología.
+
 #### Artículo 3º
 
 <!-- parte:9745460 -->
