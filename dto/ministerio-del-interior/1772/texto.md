@@ -20,7 +20,7 @@ El informe que corresponda a Carabineros de Chile para la confección del decret
 
 #### Artículo 4°
 
-La notificación del decreto supremo antes referido, la hará Carabineros de Chile de acuerdo con el procedimiento señalado en el inciso 2° del artículo 3° de la Ley N° 19.303, levantando el acta correspondiente.
+La notificación del decreto supremo antes referido, se realizará por conducto de la Intendencia Regional respectiva.
 
 #### Artículo 5°
 
@@ -33,6 +33,8 @@ Se entenderá por Medidas de Seguridad, toda acción que involucre la implementa
 #### Artículo 7°
 
 Las medidas de seguridad que decidan adoptar las entidades obligadas, serán presentadas a las Prefecturas de Carabineros o a la autoridad institucional comprendida en el artículo 13 de la Ley N° 19.303 y contendrán la información necesaria dispuesta por la autoridad policial.
+
+Las medidas de seguridad presentadas, serán objeto de revisión y comprobación por parte de Carabineros de Chile o de la autoridad que corresponda de conformidad al artículo 13 de la ley N° 19.303, quienes emitirán la opinión que al respecto le merezcan. En el evento que la opinión de Carabineros de Chile o de la autoridad que corresponda, sea desfavorable, las medidas de seguridad propuestas serán devueltas a la entidad obligada, con las observaciones que le merecieron, para que en el plazo de 30 días proceda a su corrección.
 
 #### Artículo 8°
 

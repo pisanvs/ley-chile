@@ -56,11 +56,9 @@ Recibido que sea el informe favorable de la Prefectura de Carabineros, la Intend
 
 #### Artículo 5°
 
-El Presidente de la República concederá la autorización si a su juicio los motivos aducidos la justifican, y, en tal caso, dictará el correspondiente decreto supremo, que firmarán los Ministros del Interior y de Defensa Nacional con la fórmula "Por orden del Presidente de la República".
+El Presidente de la República concederá la autorización si a su juicio los motivos aducidos la justifican, y, en tal caso, dictará el correspondiente decreto supremo, que firmará el Ministro del Interior y Seguridad Pública, con la fórmula "Por orden del Presidente de la República".
 
-La autorización podrá ser concedida por períodos no superiores a dos años, renovables.
-
-El referido decreto supremo deberá indicar:
+La autorización podrá ser concedida por períodos no superiores a dos años, renovables. El referido decreto supremo deberá indicar:
 
 a) nombre de la entidad autorizada y su domicilio;
 
@@ -132,19 +130,33 @@ Sin perjuicio de las normas generales consultadas en este reglamento, habida con
 
 #### Artículo 11
 
-Sólo podrán desempeñarse como vigilantes privados las personas que reúnan los siguientes requisitos:
+Solo podrán desempeñarse como vigilantes privados las personas que reúnan los siguientes requisitos:
 
-a) ser chileno;
+a) Tener 21 años, a lo menos;
 
-b) tener 21 años, a lo menos;
+b) Haber cursado la educación media o su equivalente;
 
-c) tener, a lo menos, octavo año de educación básica rendido y aprobado;
+c) No encontrarse actualmente acusado o haber sido condenado por crimen o simple delito o sancionado por actos de violencia intrafamiliar, de acuerdo con la ley N° 20.066;
 
-d) haber cumplido en forma efectiva con el servicio militar o ser funcionario en retiro de las Fuerzas Armadas, de Carabineros de Chile, del Servicio de Investigaciones o de Gendarmería. En casos calificados, las Prefecturas de Carabineros respectivas podrán exceptuar del cumplimiento de este requisito, en especial tratándose de postulantes del sexo femenino;
+d) No encontrarse formalizado por alguna de las conductas punibles establecidas en el decreto supremo N° 400, del Ministerio de Defensa, de 1977, que fija texto refundido, coordinado y sistematizado de la ley N° 17.798, sobre control de armas; en la ley N° 20.000, que sustituye la ley N° 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas; en la ley N° 18.314, que determina conductas terroristas y fija su penalidad; en la ley N° 19.913, que crea la unidad de análisis financiero y modifica diversas disposiciones en materia de lavado y blanqueo de activos; en el decreto supremo N° 890, de 1975, del entonces Ministerio del Interior, que fija texto actualizado y refundido de la ley 12.927, sobre seguridad del Estado; en la ley N° 20.066, que establece ley de violencia intrafamiliar; u otras asociadas al crimen organizado que se encuentren tipificadas en otros cuerpos legales.
 
-e) no haber sido condenado ni estar sometido a proceso por crimen o simple delito, y
+e) Tener condiciones físicas y psíquicas compatibles con las labores por desempeñar, especialmente en lo relativo al control de impulsos. Mediante certificado emitido por el facultativo correspondiente, se acreditará que los servicios de seguridad prestados por la persona no pondrán en riesgo su integridad física o la de terceros, aun potencialmente.
 
-f) tener salud y condiciones físicas y psíquicas compatibles con la función que se va a desempeñar, especialmente en lo relativo a la aptitud para portar armas de fuego, las que deberán ser comprobadas mediante certificado médico y psicológico, respectivamente.
+f) No haber dejado de pertenecer a las Fuerzas Armadas, de Orden y Seguridad Pública y Gendarmería de Chile, producto de la aplicación de una medida disciplinaria,
+
+g) Haber aprobado los cursos de capacitación que señale Carabineros de Chile, incluyéndose un curso sobre manipulación de armas.
+
+h) No haber sido sancionado conforme a la ley N° 19.327, de derechos y deberes en los espectáculos de fútbol profesional, y su reglamento.
+
+Las personas naturales que presten servicios de seguridad privada deberán acreditar el cumplimiento de los requisitos establecidos en el literal c) del inciso precedente mediante el correspondiente certificado de antecedentes expedido por el Servicio de Registro Civil e Identificación, y el requisito establecido en el literal d), a través de declaración jurada simple, la que deberá actualizarse anualmente.
+
+En el caso de los funcionarios en retiro de las Fuerzas Armadas, de Carabineros de Chile, de la Policía de Investigaciones o de Gendarmería de Chile, no será necesaria la aprobación del curso de capacitación sobre manipulación de armas.
+
+Los requisitos comprendidos en los literales a), b) y f), deberán ser acreditados por los vigilantes privados, cada vez que sea requerido por el empleador y ante el requerimiento de la Prefectura de Carabineros correspondiente, mediante los documentos idóneos para tales efectos.
+
+Las personas naturales o jurídicas que cuenten con vigilantes privados, deberán a su costo, realizar todas las gestiones necesarias para que los vigilantes privados, de manera anual, se sometan a exámenes médicos físicos y psicológicos, con el objeto de acreditar el cumplimiento de los requisitos indicados en el literal e). El control del cumplimiento de esta disposición lo efectuará Carabineros de Chile, a través de las Prefecturas correspondientes.
+
+Se faculta a la Prefectura de Carabineros respectiva, para requerir a los vigilantes privados, cualquier otro antecedente que le permita formarse convicción acerca de la idoneidad cívica, moral y profesional de la persona jurídica que solicita su acreditación, la de sus socios y sus representantes legales.
 
 #### Artículo 12
 
@@ -226,7 +238,7 @@ Sin perjuicio de lo dispuesto con anterioridad, la Prefectura de Carabineros com
 
 Esta capacitación sólo podrá impartirse a aquellas personas que, debidamente autorizadas por la Prefectura de Carabineros, se desempeñen como vigilantes privados. Del mismo modo, podrá hacerse extensiva en materias básicas de seguridad, previa autorización, al resto del personal de la entidad.
 
-Dicha capacitación podrá efectuarla la entidad con sus propios medios o encomendándola, total o parcialmente, a alguna de las empresas autorizadas a este respecto, conforme lo dispuesto en el artículo 5° bis del D.L. 3.607.
+Inciso Derogado.
 
 El curso de capacitación finalizará con un examen ante la autoridad fiscalizadora, que entregará a quienes lo aprueben un certificado de haber cumplido con los requisitos correspondientes, no necesitando a futuro rendir este curso cuando cambien de entidad y sigan cumpliendo funciones de vigilantes privados.
 
