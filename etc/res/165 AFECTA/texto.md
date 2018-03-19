@@ -36,35 +36,39 @@ El "Comité de Desarrollo y Fomento Indígena" tendrá por objeto contribuir al 
 
 ### Párrafo 1° — "Del Consejo Directivo"
 
-#### Artículo 3º
+#### Artículo 3°
 
 El "Comité de Desarrollo y Fomento Indígena" tendrá un Consejo Directivo, integrado de la siguiente manera:
 
-1. El Ministro de Desarrollo Social, o quien lo sustituya a futuro en la dirección de la política indígena, quien lo presidirá.
+1) El Ministro de Desarrollo Social, o quien lo sustituya a futuro en la dirección de la política indígena, quien lo presidirá, o un representante de éstos.
 
-2. El Vicepresidente Ejecutivo de la Corporación o un representante de éste, designado por él.
+2) El Vicepresidente Ejecutivo de la Corporación o un representante de éste, designado por él.
 
-3. Un representante del Ministerio de Economía, Fomento y Turismo, designado por el Ministro de Economía, Fomento y Turismo, previa solicitud de Corfo.
+3) Un representante del Ministerio de Economía, Fomento y Turismo, designado por el Ministro de Economía, Fomento y Turismo, previa solicitud de Corfo.
 
-4. Un representante del Ministerio del Interior y Seguridad Pública, designado por el Ministro del Interior y Seguridad Pública, previa solicitud de Corfo.
+4) Un representante del Ministerio del Interior y Seguridad Pública, designado por el Ministro del Interior y Seguridad Pública, previa solicitud de Corfo.
 
-5. Un representante del Ministerio de Energía, designado por el Ministro de Energía, previa solicitud de Corfo.
+5) Un representante del Ministerio de Energía, designado por el Ministro de Energía, previa solicitud de Corfo.
 
-6. El Director Ejecutivo de la Corporación Nacional Forestal - Conaf, o quien éste designe, previa solicitud de Corfo.
+6) El Director Ejecutivo de la Corporación Nacional Forestal - Conaf, o quien éste designe, previa solicitud de Corfo.
 
-7. Un representante de Corfo, designado por su Vicepresidente Ejecutivo.
+7) Un representante de Corfo, designado por su Vicepresidente Ejecutivo.
 
-8. El Director Nacional del Instituto de Desarrollo Agropecuario - Indap, o quien éste designe, previa solicitud de Corfo.
+8) El Director Nacional del Instituto de Desarrollo Agropecuario - Indap, o quien éste designe, previa solicitud de Corfo.
 
-9. El Director Nacional de la Corporación Nacional de Desarrollo Indígena - Conadi, o quien éste designe, previa solicitud de Corfo.
+9) El Director Nacional de la Corporación Nacional de Desarrollo Indígena - Conadi, o quien éste designe, previa solicitud de Corfo.
 
-10. Un representante del Consejo de la Corporación Nacional de Desarrollo Indígena - Conadi, designado por el Consejo Nacional de esa Corporación, previa solicitud de Corfo.
+10) Un representante del Consejo de la Corporación Nacional de Desarrollo Indígena - Conadi, designado por el Consejo Nacional de esa Corporación, previa solicitud de Corfo.
 
-11. El Gerente General del Servicio de Cooperación Técnica - Sercotec, o quien éste designe, previa solicitud de Corfo.
+11) El Gerente General del Servicio de Cooperación Técnica - Sercotec, o quien éste designe, previa solicitud de Corfo.
+
+12) El Subsecretario de Pesca y Acuicultura o quien éste designe, previa solicitud de Corfo.
+
+13) El Director General de la Dirección de Promoción de Exportaciones - Prochile, o quien éste designe, previa solicitud de Corfo.
 
 Los integrantes mencionados en los numerales 3, 4, 5, 7 y 10 anteriores serán reemplazados, en caso de ausencia o impedimento, por las personas designadas por la autoridad que hubiere designado al titular.
 
-Los Consejeros deberán dar cumplimiento al principio de probidad administrativa y al deber de abstención que derivan del ejercicio de una función pública. Asimismo, les resultarán aplicables las normas sobre inhabilidades de ingreso contenidas en el Título III de la ley Nº 18.575, en atención a que ejercerán un cargo o función pública en la Administración del Estado.
+Los Consejeros deberán dar cumplimiento al principio de probidad administrativa y al deber de abstención que derivan del ejercicio de una función pública. Asimismo, les resultarán aplicables las normas sobre inhabilidades de ingreso contenidas en el Título III de la ley N° 18.575, en atención a que ejercerán un cargo o función pública en la Administración del Estado.
 
 #### Artículo 4°
 
@@ -82,27 +86,31 @@ Serán atribuciones del Consejo Directivo:
 
 a. Fijar los criterios de los protocolos socio-culturales y técnico-económicos para que un proyecto sea calificado como de desarrollo productivo indígena.
 
-b. Aprobar o rechazar la asignación de recursos para la ejecución de los "Protocolos de Apertura y Diálogo Multicultural", "Protocolo de Propuesta de Valor" y "Anteproyecto de Inversión'', de cada uno de los proyectos presentados, para permitir a las comunidades, asociaciones y organizaciones indígenas aprobadas proseguir con la postulación a un Fondo de Cobertura de Corfo.
+b. Aprobar los procedimientos de asignación de recursos para la ejecución de los "Protocolos de Apertura y Diálogo Multicultural", "Protocolo de Propuesta de Valor" y "Anteproyecto de Inversión", de cada uno de los proyectos presentados, para permitir a las comunidades, asociaciones y organizaciones indígenas aprobadas proseguir con la postulación a un Fondo de Cobertura de Corfo; así como la aprobación o rechazo de las solicitudes que se postulen, pudiendo, en el primer caso, establecer condiciones de adjudicación y/o formalización para el otorgamiento del financiamiento.
 
 c. Calificar un proyecto como de desarrollo productivo indígena, previa validación del cumplimiento de los protocolos señalados en el literal anterior, para ser presentado a las entidades que Corfo defina y que financien este tipo de proyectos.
 
-d. Liderar el proceso de implementación del Programa de Desarrollo y Fomento Indígena de Corfo y su respectivo Fondo de Coberturas (COBIN), en coordinación con los servicios públicos que corresponda.
+d. Aprobar la creación, el objetivo general, los resultados esperados, y los montos y porcentajes máximos financiables de instrumentos de financiamiento que tengan como finalidad la asistencia, acompañamiento y asesoramiento técnicos de las iniciativas mencionadas en el artículo 2°, del Título I, previa propuesta del Vicepresidente Ejecutivo de Corfo. Asimismo le corresponderá aprobar las modificaciones a los elementos anteriormente señalados.
 
-e. Convocar a entidades estratégicas, tanto públicas como privadas, para lograr una visión común respecto de los alcances del fomento productivo indígena.
+e. Aprobar o rechazar, previa evaluación técnica, el financiamiento de proyectos, a propuesta del Director Ejecutivo del Comité. Asimismo, podrá establecer condiciones de adjudicación y/o formalización a los proyectos cuyo financiamiento fuere aprobado.
 
-f. Apoyar y desplegar el proceso de implementación del Programa señalado en la letra d), a nivel regional en las instituciones desconcentradas o los servicios descentralizados territorialmente.
+f. Liderar el proceso de implementación del Programa de Desarrollo y Fomento Indígena de Corfo y su respectivo Fondo de Coberturas (COBIN), en coordinación con los servicios públicos que corresponda.
 
-g. Conocer, emitir opiniones y gestionar, cuando corresponda, acciones y proyectos complementarios.
+g. Convocar a entidades estratégicas, tanto públicas como privadas, para lograr una visión común respecto de los alcances del fomento productivo indígena.
 
-h. Apoyar con metodología de apertura cultural la entrega de terrenos de la Conadi a programas indígenas comunitarios, en el marco de la nueva política de entrega de tierras.
+h. Apoyar y desplegar el proceso de implementación del Programa señalado en la letra d), a nivel regional en las instituciones desconcentradas o los servicios descentralizados territorialmente.
 
-i. Mantener y sistematizar la información sobre el conjunto de programas, proyectos e iniciativas financiadas y/o ejecutadas por distintos Ministerios y servicios públicos en el ámbito del desarrollo productivo indígena, de conformidad con sus atribuciones.
+i. Conocer, emitir opiniones y gestionar, cuando corresponda, acciones y proyectos complementarios.
+
+j. Apoyar con metodología de apertura cultural la entrega de terrenos de la Conadi a programas indígenas comunitarios, en el marco de la nueva política de entrega de tierras.
+
+k. Mantener y sistematizar la información sobre el conjunto de programas, proyectos e iniciativas financiadas y/o ejecutadas por distintos Ministerios y servicios públicos en el ámbito del desarrollo productivo indígena, de conformidad con sus atribuciones.
 
 #### Artículo 6°
 
 El Consejo Directivo tendrá un Presidente, el que tendrá las siguientes facultades:
 
-a. Presidir las sesiones. A falta del Presidente, presidirá las reuniones el Consejero que se designe al efecto en esa instancia.
+a. Presidir las sesiones. A falta del Ministro de Desarrollo Social, o quien lo sustituya a futuro en la dirección de la política indígena, presidirá las reuniones el Vicepresidente Ejecutivo de Corfo. A falta de ambos, presidirá la sesión el Consejero que se designe al efecto en esa instancia.
 
 b. Convocar a sesiones del Consejo Directivo por iniciativa propia, cuando lo juzgue necesario, o cada vez que se lo soliciten, a lo menos, tres de sus miembros titulares.
 
@@ -129,6 +137,8 @@ Podrá subrogar al Secretario para el desempeño de las funciones indicadas, el 
 El Comité tendrá un Director Ejecutivo, quien será designado por el Consejo Directivo, previa selección de candidatos por concurso público.
 
 Los actos para la contratación, sus modificaciones y desvinculación del Director Ejecutivo del Comité, los celebrará o dictará el Vicepresidente Ejecutivo de Corfo.
+
+El Vicepresidente Ejecutivo de la Corporación, podrá designar uno o más subrogantes del Director Ejecutivo, quienes actuarán en su ausencia, con todas sus facultades, lo que no será necesario acreditar ante terceros.
 
 #### Artículo 10°
 
@@ -167,6 +177,14 @@ o. Cautelar los recursos y bienes del Comité, y confeccionar y mantener al día
 p. Rectificar los errores de hecho de que puedan adolecer los Acuerdos del Consejo Directivo.
 
 q. Ejercer las demás funciones y cumplir los otros deberes que el Consejo Directivo del Comité o el Consejo de la Corporación o el Vicepresidente Ejecutivo de Corfo estimen conveniente asignarle.
+
+r. Aprobar el texto definitivo, modificaciones y textos refundidos, coordinados y/o sistematizados, de los instrumentos de financiamiento creados por el Consejo Directivo del Comité, en virtud de la facultad señalada en la letra d) del artículo 5°.
+
+s. Proponer al Consejo Directivo, previa evaluación técnica, la aprobación o rechazo de las solicitudes presentadas para optar al financiamiento del Comité en virtud de los instrumentos de que dispone.
+
+t. Aprobar, o ratificar en su caso, la reasignación de recursos entre y dentro de las cuentas del presupuesto de las iniciativas adjudicadas, de acuerdo con los antecedentes que lo justifiquen y siempre que no contravenga lo dispuesto en el instrumento de financiamiento, previa solicitud del beneficiario o intermediario.
+
+u. Aprobar la prórroga del plazo de ejecución de las actividades de las iniciativas adjudicadas. Asimismo, aprobar la modificación de los calendarios de entrega de informes de avance y final, y de entrega de los recursos asociados a éstos, de conformidad con el instrumento de financiamiento del Comité, de oficio o previa solicitud fundada. Las prórrogas concedidas y los fundamentos de la decisión, deberán ser informadas al Consejo Directivo en una sesión posterior.
 
 El Vicepresidente Ejecutivo de Corfo podrá contratar por el Comité o designar a un funcionario de la Corporación, en calidad de Director Ejecutivo Interino, para que ejerza y cumpla las funciones señaladas en este artículo, en tanto el Consejo Directivo no designe al Director Ejecutivo en conformidad con lo dispuesto en el artículo anterior.
 
