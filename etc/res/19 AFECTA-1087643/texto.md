@@ -86,11 +86,13 @@ k) Un representante proveniente de la Comisión Chilena del Cobre - Cochilco, de
 
 l) Dos miembros que tengan, respectivamente, las calidades de profesional y académico destacados en minería no metálica, designados por el Vicepresidente Ejecutivo de la Corporación, con acuerdo del Ministro de Minería.
 
+m) Dos representantes de comunidades indígenas, constituidas en conformidad con lo dispuesto en la ley N° 19.253, que "Establece Normas sobre Protección, Fomento y Desarrollo de los Indígenas, y Crea la Corporación Nacional de Desarrollo Indígena", designados por el Vicepresidente Ejecutivo de Corfo.
+
 El Comité podrá invitar a personas o instituciones, tanto del sector público como privado, de manera permanente o a sesiones específicas, cuando el Consejo así lo estime conveniente.
 
 En caso de ausencia o impedimento de los miembros del Comité, serán subrogados por su subrogante legal, o por subrogante(s) especialmente designado(s) al efecto.
 
-Se deja expresa constancia que los consejeros deberán dar estricto cumplimiento al principio de probidad en todas sus actuaciones y a las normas que lo regulan.
+Los Consejeros deberán dar cumplimiento al principio de probidad administrativa y al deber de abstención que derivan del ejercicio de una función pública. Asimismo, les resultarán aplicables las normas sobre inhabilidades de ingreso contenidas en el Título III de la ley N° 18.575, en atención a que ejercerán un cargo o función pública en la Administración del Estado.
 
 4º Son atribuciones del Presidente del Consejo Directivo:
 
@@ -104,7 +106,7 @@ d) Dirimir, con su voto, los empates que se produzcan en las sesiones de Consejo
 
 5º El Consejo tendrá un Secretario, función que será desempeñada por un funcionario designado por el Vicepresidente Ejecutivo de la Corporación, el que efectuará las citaciones a los miembros del Consejo.
 
-6º El Consejo se reunirá las veces y en la forma que el mismo determine. Convocado el Consejo por el Presidente, las citaciones las hará el Secretario. El quórum para que sesione el Consejo será de seis miembros. Los Acuerdos se adoptarán por la simple mayoría de los miembros presentes.
+6º El Consejo se reunirá las veces y en la forma que el mismo determine. Convocado el Consejo por el Presidente, las citaciones las hará el Secretario. El quórum para que sesione el Consejo será de siete miembros. Los Acuerdos se adoptarán por la simple mayoría de los miembros presentes. Los Acuerdos se adoptarán por la simple mayoría de los miembros presentes.
 
 Se entenderá que participan en las sesiones del Comité aquellos miembros que, a pesar de no encontrarse presentes, estén comunicados simultánea y permanentemente a través de conferencia telefónica o de video conferencia, debiendo dejarse constancia de dicha forma de participación en el acta correspondiente.
 
