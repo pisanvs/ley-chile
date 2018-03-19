@@ -66,9 +66,11 @@ m) Un representante del Ministerio de Hacienda, designado por el Ministro de Hac
 
 n) Dos profesionales o académicos destacados, que posean experiencia en estrategia y desarrollo productivo en ámbitos tales como la innovación, el desarrollo tecnológico y el financiamiento, designados por el Vicepresidente Ejecutivo de CORFO.
 
+ñ) Un representante de una entidad gremial, sindicato o agrupación de trabajadores dependientes o independientes, constituido en conformidad a la ley, designado por el Vicepresidente Ejecutivo de Co
+
 Los representantes de los miembros individualizados en los literales b) a la m) serán designados por el mismo miembro o la autoridad superior que corresponda.
 
-En caso de ausencia o impedimento de las personas a que se refieren las letras b) a n) precedentes, serán reemplazadas por aquellas designadas al efecto por las autoridades respectivas, en el orden que éstas determinen en su acto administrativo.
+En caso de ausencia o impedimento de las personas a que se refieren las letras b) a ñ) precedentes, serán reemplazadas por aquellas designadas al efecto por las autoridades respectivas, en el orden que éstas determinen en su acto administrativo.
 
 Los Consejeros deberán dar cumplimiento al principio de probidad administrativa y al deber de abstención que derivan del ejercicio de una función pública. Asimismo, les resultarán aplicables las normas sobre inhabilidades de ingreso contenidas en el Título III de la ley N° 18.575, en atención a que ejercerán un cargo o función pública en la Administración del Estado.
 
