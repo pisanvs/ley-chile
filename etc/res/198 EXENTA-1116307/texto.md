@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 198 EXENTA, DE 9 DE MARZO DE 2018
+
+Con fecha 9 de marzo de 2018, la Superintendencia de Educación dicta resolución exenta N° 198 que "Deja sin efecto en circulares de la Superintendencia de Educación las instrucciones de general aplicación que se indican", la cual deja sin efecto en las circulares N° 1, 2, y 3 de este servicio, todo lo referido a las materias relacionadas con alumnas embarazadas, madres y padres estudiantes, así como lo concerniente a textos y útiles escolares, instrucciones aprobadas mediante resolución exenta N° 193 y N° 194, ambas de 8 de marzo de 2017, del Superintendente de Educación, respectivamente; las demás materias que regulan las circulares N° 1, 2 y 3, de esta Superintendencia, mantendrán su vigencia como instrucciones de carácter general para los respectivos establecimientos educacionales y sostenedores. Dicha resolución estará disponible íntegramente para la comunidad en la página web institucional www.supereduc.cl.
+
+Daniella Maureira, Jefa de Unidad de Procesos Administrativos y Judiciales.
