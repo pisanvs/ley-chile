@@ -1626,15 +1626,17 @@ Para efectos del presente Capítulo, se entenderá que el gobierno corporativo e
 
 El Directorio es el principal articulador de su gobierno corporativo y de una gestión prudente de los riesgos que enfrenta la entidad. En ese contexto, resulta fundamental que la labor estratégica del Directorio, orientada a la fijación de políticas y evaluación de su cumplimiento, se mantenga separada de las funciones propias de los gerentes u otras instancias en las que delega su implementación definitiva.
 
-Respecto de las instituciones bancarias que no mantengan Directorio en Chile, como sucede con las sucursales de bancos extranjeros, el cumplimiento de los lineamientos constitutivos de un buen gobierno corporativo señalados en este Capítulo alcanza a las instancias que hagan sus veces en la sucursal o en la casa matriz, según corresponda a su estructura organizacional. En estos casos, los aspectos de buen gobierno corporativo se verifican a través de las políticas, prácticas y procedimientos determinados por la sociedad matriz a nivel global o regional, según corresponda.
+Respecto de las instituciones bancarias que no mantengan Directorio en Chile, como sucede con las sucursales de bancos extranjeros, el cumplimiento de los lineamientos constitutivos de un buen gobierno corporativo señalados en este Capítulo alcanza a las instancias que hagan sus veces en la sucursal o en la casa matriz, según corresponda a su estructura organizacional. En estos casos, los aspectos de buen gobierno corporativo se verifican a través de las políticas, prácticas y procedimientos determinados y aprobados por la sociedad matriz a nivel global o regional, según corresponda.
 
 3.1.1 Elementos de un buen gobierno corporativo.
 
 Las siguientes materias son consideradas inherentes a un buen gobierno corporativo y repercuten en una buena gestión de las materias que son objeto de evaluación, según lo indicado en el numeral 3.2 siguiente, por lo que serán vistas y ponderadas de acuerdo a las características propias de cada banco:
 
-a) Establecimiento de objetivos estratégicos, valores corporativos, líneas de responsabilidad, monitoreo y rendición de cuentas.
+a) Establecimiento de lineamientos estratégicos, valores corporativos, líneas de responsabilidad, monitoreo y rendición de cuentas.
 
 Esta Superintendencia considera que el Directorio, de acuerdo al mandato legal que establece su competencia, debe definir y aprobar tanto los objetivos como el plan estratégico de la institución, promoviendo una gestión del capital de mediano y largo plazo acorde con el perfil de riesgo que haya definido, considerando a su vez una debida protección a los intereses de los accionistas y del público en general.
+
+Hoja 6
 
 Para cumplir con tales responsabilidades, el Directorio debe ser capaz de establecer y sancionar los valores corporativos que identifican al banco y complementan sus objetivos estratégicos, considerando también las líneas de responsabilidad necesarias para asegurar su adecuada implementación.
 
@@ -1642,15 +1644,21 @@ En la evaluación de las distintas dimensiones que abarcan las materias menciona
 
 - La entidad mantiene políticas formalmente establecidas para la administración de los distintos riesgos que se tratan en el numeral 3.2 siguiente. Dichas políticas son aprobadas por el Directorio, procurando que sean consistentes con el plan estratégico y los valores institucionales.
 
-- Los valores corporativos están recogidos en un código o manual, que abordan aspectos tales como los principios institucionales, los imperativos de conducta para sus empleados, las reglas sobre posibles conflictos de interés y la manera como son prevenidos y solucionados, entre otros.
+- El Directorio define y aprueba el marco de apetito de riesgo al cual están alineadas las políticas de administración de los diversos riesgos que deba soportar la entidad, considerando los riesgos que se pueden presentar cuando el banco forma parte de un grupo empresarial.
+
+- El banco mantiene un marco de Gobierno Corporativo aprobado por el Directorio, que incluye los valores corporativos y los principios institucionales. Asimismo, cuenta con códigos, reglamentos o manuales que abordan aspectos tales como los imperativos de conducta que guíen la actuación de los empleados al interior de la entidad, la interacción con el público en general u otros grupos de interés, las reglas sobre posibles conflictos de interés, y la manera como estos son prevenidos y solucionados.
 
 - La implementación del plan estratégico y los valores corporativos es realizada por personal designado para dichos efectos, quienes a su vez informan y rinden cuenta al Directorio de manera periódica, con el objeto de monitorearlos y evaluar posibles cambios.
 
-- El Directorio establece líneas claras de responsabilidad, para asegurar que los objetivos estratégicos y valores corporativos sean divulgados mediante mecanismos formales, establecidos por él mismo o por la instancia a la cual delega tal responsabilidad, de manera de lograr su oportuno y cabal entendimiento y aplicación al interior de la institución.
+- El Directorio establece líneas claras de responsabilidad, para asegurar que los objetivos estratégicos, valores corporativos y cultura de riesgo, sean divulgados mediante mecanismos formales, establecidos por él mismo o por la instancia a la cual delega tal responsabilidad, de manera de lograr su oportuno y cabal entendimiento y aplicación al interior de la institución.
+
+- El Directorio establece la existencia de canales de comunicación, para que las personas que trabajan en la entidad puedan informar reservadamente comportamientos que no se ajusten a los códigos de ética o conducta.
 
 - Las actas levantadas en cada sesión del Directorio reflejan con claridad todos los asuntos tratados en cada reunión, tales como los acuerdos o compromisos tomados y el seguimiento de los mismos; los planes de acción y asignación de responsabilidades; así como el estado de avance de proyectos estratégicos, entre otros.
 
 - El Directorio cuenta con el apoyo de diversos comités, acordes a la naturaleza y complejidad de las actividades del Banco, en los que participan uno o más integrantes del mismo y que le permiten tratar y monitorear aspectos específicos de su competencia.
+
+Hoja 7
 
 b) Verificación del desempeño de la alta administración y cumplimiento con las políticas establecidas por el Directorio.
 
@@ -1664,23 +1672,29 @@ La existencia de elementos como los que se describen a continuación, dan cuenta
 
 - El Directorio cuenta con mecanismos de autoevaluación periódica, que le permiten identificar oportunidades de mejoramiento en su propia gestión.
 
+- El Directorio establece políticas de retribución y mecanismos de compensación de los altos ejecutivos, consistentes con un comportamiento prudente en las actividades de negocio y una sana cultura de riesgo.
+
+- El Directorio vela porque el banco cuente con mecanismos adecuados y dedicados para dar cumplimiento a la legislación, regulación y políticas internas que les sean aplicables.
+
 - Existe una clara designación de responsabilidades y segregación de funciones al interior de la entidad, que permite una adecuada contraposición de intereses.
 
 - Se promueve una cultura de rendición de cuentas, a través de canales que son conocidos y aprobados por el Directorio para tales efectos. Dichos canales permiten el flujo y respaldo de la información, de manera segura y fidedigna.
 
 - Los sistemas de información habilitados para transparentar el funcionamiento de la entidad, especialmente en lo que respecta a la gestión de riesgos y la efectividad de sus mecanismos de control, consideran la presentación completa, periódica y oportuna de informes al Directorio.
 
+Hoja 8
+
 c) Promoción de controles internos sólidos y de una auditoría efectiva.
 
 Para garantizar una gestión prudente de la institución y de los riesgos sujetos a esta evaluación, el Directorio debe impulsar el establecimiento de procedimientos y sistemas de control interno, acordes con la naturaleza de las actividades desarrolladas por el banco y la complejidad de la estructura organizacional que las sustenta.
 
-Para que la función de auditoría interna se desarrolle eficazmente y con la debida independencia, es indispensable que el compromiso del Directorio se plasme a través de la entrega de un marco de acción general, la definición de una estructura jerárquica adecuada y de una apropiada validación, tanto de las observaciones levantadas como de las acciones propuestas para superarlas.
+Para que la función de auditoría interna se desarrolle eficazmente y con la debida independencia, es indispensable que el compromiso del Directorio se plasme a través de la entrega de un marco de acción general, que contemple la definición de una estructura, la asignación de recursos necesarios y de una apropiada validación, tanto de las observaciones levantadas como de las acciones propuestas para superarlas.
 
 Dicho nivel de compromiso también debe manifestarse a través del Comité de Auditoría, instancia responsable de entregar apoyo al Directorio en la evaluación constante de la calidad de los sistemas de control interno, el reforzamiento de la función de auditoría interna y la vinculación y coordinación con los auditores externos.
 
 A continuación se describen algunos elementos que entregan indicios de una buena gestión y un adecuado involucramiento del Directorio en las materias antes descritas:
 
-- El Directorio ha definido y utiliza indicadores de gestión, que le permiten hacer seguimiento de los asuntos claves de la institución, en ámbitos tales como el financiero, operacional, regulatorio y de capital humano.
+- El Directorio ha dispuesto mecanismos formales para informarse periódica y adecuadamente sobre aspectos claves de la institución tales como el financiero, operacional, regulatorio y de capital humano.
 
 - El Directorio del banco ha definido formalmente lo que constituye el rol de la función de auditoría interna, explicitando sus objetivos y alcances, su posición dentro de la entidad, su organización, atribuciones, responsabilidades y relaciones con otras áreas de control. En este contexto, el Directorio promueve la suficiencia y calidad de los recursos materiales y humanos disponibles para ejercer su función.
 
@@ -1691,6 +1705,8 @@ d) Mecanismo de divulgación de información
 La disponibilidad de información completa, fidedigna y oportuna es una condición indispensable para la adecuada gestión del banco, por lo que el Directorio debe establecer los contenidos mínimos que considere adecuados y tomar las medidas que estime necesarias para su divulgación en las instancias pertinentes, tanto al interior como exterior de la entidad, ejerciendo el control de su cumplimiento.
 
 Parte de la información a divulgar deberá comprender aspectos de interés público, tales como los definidos en el Título V del Capítulo 1-4 de esta Recopilación, que permitan a los accionistas y a las demás partes interesadas tener un conocimiento adecuado de la entidad, de sus políticas y de los principios que la rigen, definidos por el mismo Directorio.
+
+Hoja 9
 
 3.2. Administración y control de los riesgos y otras materias sujetas a evaluación.
 
@@ -1732,6 +1748,8 @@ En la evaluación interesa, en primer lugar, la compatibilidad entre las políti
 
 Serán también materia de examen la suficiencia y eficacia de las segregaciones funcionales, especialmente las que deben existir entre las áreas comerciales y aquellas encargadas de la función de administración del riesgo y de auditoría interna. En esto es esencial, por una parte, que la administración del riesgo de crédito sea una contraparte efectiva de las áreas tomadoras de riesgo y, por otra, que la posición independiente de la función de auditoría interna permita una adecuada cobertura y profundidad de las revisiones y la adopción oportuna de medidas correctivas por parte de las áreas auditadas.
 
+Hoja 10
+
 En lo que toca a la administración del riesgo de crédito, se evaluarán los mecanismos y técnicas de detección, acotamiento y reconocimiento oportuno de los riesgos que asume la entidad en el desarrollo de sus actividades de crédito. En este ámbito, es clave la capacidad de la entidad para mantener permanentemente bien clasificada su cartera, su dominio sobre los factores de riesgo asociados a sus operaciones y su disposición para reconocer en forma oportuna en sus resultados los riesgos individuales de crédito a que está expuesta, como también su capacidad para limitar los riesgos de concentración de la cartera en general.
 
 Asociado a lo anterior, constituye también un aspecto relevante de la evaluación, el examen de la cobertura y profundidad de la información acerca de los deudores, tanto aquella referida a su comportamiento de pago, incluyendo la adecuada administración de su cuenta corriente en el banco, como a sus condiciones financieras generales.
@@ -1756,7 +1774,9 @@ En relación con lo descrito precedentemente, una buena gestión puede manifesta
 
 - Las auditorías internas cubren con una adecuada identificación, cuantificación y priorización, los distintos riesgos relacionados con las colocaciones.
 
-- La entidad mantiene sanas prácticas de administración financiera que comprenden a plena identificación, medición y control de todos los riesgos de sus clientes y de los productos que estos contratan y de aquellos que unilateralmente entrega el banco como, por ejemplo, en el caso de la aprobación de sobregiros no pactados. Estos se documentan adecuadamente, se constituyen los resguardos necesarios y se evalúa la continuidad del contrato de cuenta corriente cuando un cliente los ocasiona en forma reiterada.
+Hoja 11
+
+- La entidad mantiene sanas prácticas de administración financiera que comprenden la plena identificación, medición y control de todos los riesgos de sus clientes y de los productos que estos contratan y de aquellos que unilateralmente entrega el banco como, por ejemplo, en el caso de la aprobación de sobregiros no pactados. Estos se documentan adecuadamente, se constituyen los resguardos necesarios y se evalúa la continuidad del contrato de cuenta corriente cuando un cliente los ocasiona en forma reiterada.
 
 B) Gestión del riesgo financiero y operaciones de tesorería.
 
@@ -1774,6 +1794,8 @@ A efectos ilustrativos, una buena gestión en relación con esta materia puede m
 
 - La responsabilidad de la administración de activos y pasivos depende de alguna de las instancias que conforman la alta administración, cuya función permite acotar el riesgo a niveles razonables, manteniendo políticas y estrategias financieras consecuentes con los lineamientos de exposición al riesgo sancionados por el Directorio y con las estrategias comerciales del banco.
 
+Hoja 12
+
 - Los nuevos productos, en forma previa a su lanzamiento, son sometidos a un riguroso análisis de los riesgos involucrados.
 
 - La evaluación y control de los riesgos se desarrolla con suficiente independencia de las áreas tomadoras de riesgo, contándose con personal especializado y soportes acordes con el alcance, tamaño y complejidad de las actividades del banco y con los riesgos que ésta asume.
@@ -1786,7 +1808,7 @@ A efectos ilustrativos, una buena gestión en relación con esta materia puede m
 
 - La extensión y profundidad de las auditorías es proporcional al nivel de riesgo y al volumen de actividad. La función de auditoría está en posición de evaluar el cumplimiento de las políticas, la eficacia de los procedimientos (de operación, control de riesgos, contables y legales) y los sistemas de información.
 
-- En todo caso, los criterios de evaluación de la política de administración de liquidez se basan en el cumplimiento de lo dispuesto en el Capítulo III.B.2.1 del Compendio de Normas Financieras del Banco Central de Chile y del Capítulo 12-20 de esta Recopilación. En lo que respecta a los riesgos de mercado tratados en el Capítulo III.B.2.2 de ese Compendio de Normas Financieras y en el Capítulo 12-21 de esta Recopilación, se entenderá que la política de administración de estos riesgos concuerda con los criterios mínimos de evaluación, cuando dicha política considere todos los aspectos señalados en el Anexo N° 2 de las presentes normas.
+En todo caso, los criterios de evaluación de la política de administración de liquidez se basan en el cumplimiento de lo dispuesto en el Capítulo III.B.2.1 del Compendio de Normas Financieras del Banco Central de Chile y del Capítulo 12-20 de esta Recopilación. En lo que respecta a los riesgos de mercado tratados en el Capítulo III.B.2.2 de ese Compendio de Normas Financieras y en el Capítulo 12-21 de esta Recopilación, se entenderá que la política de administración de estos riesgos concuerda con los criterios mínimos de evaluación, cuando dicha política considere todos los aspectos señalados en el Anexo N° 2 de las presentes normas.
 
 C) Administración del riesgo operacional.
 
