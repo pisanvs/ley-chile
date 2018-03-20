@@ -286,9 +286,7 @@ Las operaciones del Fondo y su patrimonio estarán exentos de todo impuesto, dir
 
 ## Título III
 
-De la Agencia de Cooperación Internacional de
-
-Chile
+Agencia Chilena de Cooperación Internacional para el Desarrollo
 
 ### Párrafo I
 
@@ -296,15 +294,17 @@ Naturaleza, Domicilio y Objetivos
 
 #### Artículo 17
 
-La Agencia de Cooperación Internacional de Chile es un servicio público, funcionalmente descentralizado, con personalidad jurídica y patrimonio propio, cuya finalidad es apoyar los planes, programas, proyectos y actividades de desarrollo que impulse el Gobierno, mediante la captación, prestación y administración de recursos de cooperación internacional. En aquellos casos en que la cooperación internacional requiera de una contraparte financiera nacional, ésta deberá ser aprobada por el Ministro de Hacienda.
+La Agencia Chilena de Cooperación Internacional para el Desarrollo es un servicio público funcionalmente descentralizado, con personalidad jurídica y patrimonio propio.
 
-Además, la agencia tiene la finalidad de implementar, realizar, y ejecutar la cooperación internacional para y entre países en desarrollo.
+En aquellos casos en que la cooperación internacional a cargo de la Agencia requiera de una contraparte financiera nacional, ésta deberá ser aprobada por el Ministro de Hacienda.
+
+El Servicio estará afecto al Sistema de Alta Dirección Pública, establecido en el título VI de la ley Nº 19.882.
 
 La Agencia está sometida a la supervigilancia del Presidente de la República, por intermedio del Ministerio de Relaciones Exteriores.
 
 #### Artículo 18
 
-La Agencia de Cooperación Internacional de Chile podrá usar la sigla "AGCI" para identificarse en todos sus actos y contratos.
+La Agencia Chilena de Cooperación Internacional para el Desarrollo podrá usar la sigla "AGCID" para identificarse en todos sus actos, contratos y actuaciones.
 
 Su domicilio está en la ciudad de Santiago, sin perjuicio de los que establezca en el país o en el exterior.
 
@@ -312,19 +312,31 @@ Serán aplicables a la Agencia las disposiciones contenidas en el decreto ley N�
 
 #### Artículo 19
 
-En cumplimiento de su finalidad, la Agencia tendrá, en especial, las siguientes funciones:
+Corresponderá a la Agencia, sin perjuicio de las atribuciones que competan a otros órganos de la Administración del Estado, ejecutar las políticas, de acuerdo a las directrices impartidas por el Ministerio de Relaciones Exteriores, en materias relativas a la cooperación internacional para el desarrollo de Chile y, en especial, las siguientes funciones:
 
-a) Determinar los planes y programas de cooperación internacional que se requieran para dar cumplimiento a las políticas de desarrollo del Gobierno, y aprobar y coordinar los proyectos correspondientes;
+1. Asesorar al Ministro de Relaciones Exteriores en materias de cooperación internacional para el desarrollo.
 
-b) Apoyar la transferencia, desde el exterior, de conocimientos que refuercen el sistema científico, la capacidad tecnológica, el proceso productivo, el comercio exterior y el desarrollo social del país;
+2. Elaborar planes o programas de acción estratégicos plurianuales.
 
-c) Coordinar el cumplimiento de los acuerdos internacionales destinados a proyectar la capacidad científica, tecnológica, industrial y comercial de Chile, con el propósito de lograr una efectiva presencia internacional del país y de promover los procesos de integración que impulse el Gobierno;
+3. Determinar, negociar, gestionar, administrar y ejecutar los planes, programas, proyectos, acciones y actividades de cooperación internacional para el desarrollo, provenientes del exterior y aquellas que Chile otorga a terceros países, en concordancia con la política chilena de cooperación.
 
-d) Posibilitar un creciente flujo de recursos financieros y técnicos que contribuyan al logro de los objetivos anteriores, y
+4. Coordinar y administrar el Sistema Nacional de Cooperación Internacional, incluyendo las acciones de cooperación internacional para el desarrollo, realizadas por los organismos del Estado y otros actores.
 
-e) Promover, patrocinar, administrar o coordinar convenios de estudios y programas de becas de formación, capacitación o perfeccionamiento en los niveles de pregrado, posgrado y postítulo impartidos en el país a estudiantes y becarios extranjeros, y
+5. Negociar, implementar, realizar y ejecutar los planes, programas, proyectos y actividades de cooperación internacional para el desarrollo que Chile otorga, para lo cual podrá asociarse con los diversos socios o fuentes de cooperación nacionales e internacionales, sean de carácter bilateral, multilateral, organismos regionales, internacionales y/o extranjeros, la sociedad civil, el sector privado y centros de estudio, promoviendo la obtención de recursos humanos y financieros nacionales y/o extranjeros para tales fines.
 
-f) Administrar o ejecutar programas, proyectos y actividades específicos de cooperación internacional.
+6. Estudiar, proponer, coordinar y prestar apoyo a los programas de ayuda o asistencia humanitaria a terceros países que guarden concordancia con las directrices de la política exterior chilena, coordinando con las direcciones o unidades del Ministerio de Relaciones Exteriores, que correspondan, los proyectos y actividades para su implementación.
+
+7. Apoyar y promover los planes, programas, proyectos y actividades de cooperación internacional para el desarrollo nacional en los ámbitos científicos, capacidad tecnológica, procesos productivos, comercio exterior, desarrollo social, así como negociar, administrar y ejecutar planes, programas, proyectos o actividades de cooperación en todas aquellas áreas de desarrollo consideradas prioritarias o deficitarias por el Gobierno de Chile.
+
+8. Coordinar el cumplimiento de los acuerdos de cooperación internacional destinados a proyectar la capacidad científica, tecnológica, industrial y comercial de Chile, con el propósito de lograr una efectiva presencia internacional del país y de promover los procesos de integración y de desarrollo social que impulse el Gobierno.
+
+9. Posibilitar y promover el flujo de recursos financieros, técnicos y humanos que contribuyan al logro de los objetivos establecidos en los numerales precedentes.
+
+10. Promover, negociar, patrocinar, administrar o coordinar convenios de estudios y programas de becas de formación, capacitación y perfeccionamiento en los niveles de pregrado, postgrado y postítulo impartidos en el país a estudiantes y becarios extranjeros, con cargo a los recursos que legalmente le hayan sido asignados.
+
+11. Requerir del sector público, privado, sociedad civil, centros de estudio y organismos internacionales y extranjeros, información de orden técnico en materias de cooperación internacional para el desarrollo relacionada con el cumplimiento de las finalidades de la Agencia.
+
+12. Desempeñar las demás atribuciones que le sean asignadas por ley.
 
 #### Artículo 20
 
@@ -336,67 +348,51 @@ Organización
 
 #### Artículo 21
 
-La dirección de la Agencia corresponderá a un Consejo que será la autoridad superior del Servicio.
-
-El Consejo estará integrado por:
-
-a) El Ministro de Relaciones Exteriores, quien lo presidirá;
-
-b) Un representante del Ministro de Planificación;
-
-c) Un representante del Ministro de Hacienda, y
-
-d) Cuatro consejeros designados por el Presidente de la República, debiendo ser a lo menos uno de ellos, representante de alguna universidad reconocida por el Estado.
-
-Los Consejeros no percibirán remuneración alguna en sus funciones de tales. El Consejo designará un primer y un segundo Vicepresidentes. Además, designará uno o más funcionarios de la agencia para que desempeñen la función de Secretarios del Consejo en caso de impedimento o ausencia del Fiscal y de sus subrogantes.
-
-Corresponderá al Consejo:
-
-a) Ejercer las atribuciones y cumplir o hacer cumplir las funciones enunciadas en el artículo 19 de esta ley y las demás que requiera el cumplimiento del objeto de la Agencia;
-
-b) Aprobar el programa anual de acción y el proyecto de presupuesto de la Agencia y sus modificaciones;
-
-c) Delegar parte de sus funciones y atribuciones en el Director Ejecutivo, en los demás funcionarios de la Agencia y, para efectos específicos, en comités que al efecto constituya con consejeros, funcionarios o incluso personas ajenas al Consejo;
-
-d) Aprobar la organización interna de la Agencia y sus modificaciones;
-
-e) Designar personal directivo y profesional hasta el grado 8° de la Escala Unica de Remuneraciones del Sector Público, y
-
-f) Adoptar todos los acuerdos que sean necesarios para el buen funcionamiento del Servicio.
+Derogado.
 
 #### Artículo 22
 
-La administración de la Agencia corresponderá al Director Ejecutivo, quien será el Jefe Superior del Servicio y tendrá su representación legal, judicial y extrajudicial. El cargo de Director Ejecutivo será de la exclusiva confianza del Presidente de la República, tendrá el rango de Embajador y será provisto a proposición del Consejo.
+La dirección de la Agencia corresponderá al Director Ejecutivo, quien será la autoridad superior del Servicio, y tendrá rango de Embajador.
 
-Corresponderá al Director Ejecutivo;
+El Director Ejecutivo tendrá todas las funciones y atribuciones necesarias para la dirección superior y la administración de la Agencia, y en especial:
 
-a) Cumplir y hacer cumplir los acuerdos e instrucciones del Consejo, y realizar los actos y funciones que éste le delegue en el ejercicio de sus atribuciones;
+1.- Dirigir la Agencia en concordancia con las directrices de la política exterior y sus prioridades temáticas y geográficas, y ejecutar la cooperación internacional para el desarrollo, en el marco de las directrices de política exterior.
 
-b) Proponer al Consejo el programa anual de acción del Servicio, así como cualesquiera otras materias que requieran de su estudio o resolución;
+2.- Ejercer las atribuciones y cumplir o hacer cumplir las funciones enunciadas en el artículo 19 y las demás que requiera el cumplimiento de las finalidades de la Agencia.
 
-c) Preparar el proyecto de Presupuesto de la Agencia para someterlo al Consejo, ejecutar el que definitivamente se apruebe, y proponer las modificaciones que se requieren durante su ejecución.
+3.- Asesorar al Ministro de Relaciones Exteriores, a propuesta de éste, en materias de cooperación internacional para el desarrollo, sin perjuicio de las funciones del Consejo de Cooperación Internacional para el Desarrollo.
 
-d) Proponer al Consejo la organización interna del Servicio y sus modificaciones, sancionando mediante resolución los acuerdos que aquél adopte relativos a la creación de divisiones, departamentos, comités u otras unidades o grupos de trabajo que se creen, modifiquen, fusionen o supriman para el mejor cumplimiento de las funciones de la Agencia;
+4.- Aprobar planes o programas estratégicos en materias de cooperación internacional para el desarrollo.
 
-e) Dirigir técnica y administrativamente la Agencia, sujetándose a los acuerdos e instrucciones que al efecto adopte el Consejo;
+5.- Aprobar el programa de acción de la AGCID.
 
-f) Asistir, con derecho a voz, a las sesiones del Consejo y adoptar las providencias y medidas que requiera su funcionamiento;
+6.- Aprobar el proyecto de presupuesto de la Agencia y su distribución, de acuerdo a lo establecido en la Ley de Presupuestos y sus modificaciones.
 
-g) Informar periódicamente al Consejo acerca de la marcha de la institución y del cumplimiento de sus acuerdos e instrucciones;
+7.- Celebrar y aprobar los acuerdos, convenios y contratos de cualquier naturaleza necesarios para el cumplimiento de los fines específicos del Servicio, con personas naturales o jurídicas, nacionales o extranjeras, públicas o privadas, con cargo a los recursos que legalmente le hayan sido asignados y aquellos derivados de los recursos, aportes y donaciones, de conformidad con lo establecido en los artículos 19 y 25, y dictar los actos administrativos que fueren necesarios para el ejercicio de estas atribuciones.
 
-h) Sin perjuicio de las facultades del Consejo, designar y contratar personal, asignarle funciones y poner término a sus servicios, dando cuenta de todo ello al Consejo;
+8.- Contratar, en Chile o en el exterior, personas o entidades nacionales o extranjeras, para el cumplimiento de trabajos específicos o labores de asesoramiento en materias de su especialidad, remuneradas en moneda nacional o extranjera, con cargo a los recursos que legalmente le hayan sido asignados.
 
-i) Adquirir, enajenar, gravar y administrar toda clase de bienes, y ejecutar o celebrar cualquier acto o contrato tendiente directa o indirectamente al cumplimiento de su objeto y funciones, sujetándose a los acuerdos e instrucciones del Consejo;
+9.- Informar al Ministerio de Relaciones Exteriores, a través de la Subsecretaría de Relaciones Exteriores, sobre los estudios, proposición y ejecución de acciones concernientes a la participación de Chile en los asuntos de cooperación internacional para el desarrollo y ayuda humanitaria, que preste nuestro país en función de la política exterior.
 
-j) Conferir poder a abogados habilitados para el ejercicio de la profesión, aun cuando no sean funcionarios del Servicio, y, delegarles las facultades de ambos incisos del artículo 7° del Código de Procedimiento Civil;
+10.- Designar y contratar personal, asignarle funciones y poner término a sus servicios.
 
-k) Delegar parte de sus funciones y atribuciones en funcionarios del Servicio, y
+11.- De conformidad a lo establecido en la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, con sujeción a la planta y a la dotación máxima de personal, establecerá la organización interna de la Agencia y determinará las denominaciones y funciones que correspondan a cada una de las unidades para el cumplimiento de las funciones que le sean asignadas.
 
-l) En general, dictar las resoluciones y ejercer las demás facultades que sean necesarias para la buena marcha del Servicio.
+12.- Constituir comités consultivos y de expertos, comisiones asesoras y grupos de trabajo, con el carácter de entidades funcionales y no permanentes de apoyo a la Dirección Ejecutiva, con la finalidad de convocarlos para asesorar en materias o temas específicos, en las oportunidades y plazos que se determinen.
+
+13.- Dictar los actos administrativos que dispongan las comisiones de servicio o los cometidos funcionarios dentro del territorio nacional.
+
+14.- Intervenir en todos los asuntos relativos a grupos de trabajo, negociaciones y foros, bilaterales, multilaterales y regionales, organizaciones multilaterales y demás comisiones internacionales en las que Chile participe, en el ámbito de la cooperación internacional para el desarrollo, en coordinación con el Ministerio de Relaciones Exteriores, cuando corresponda.
+
+15.- Adquirir, enajenar, gravar y administrar toda clase de bienes y ejecutar o celebrar cualquier acto o contrato tendiente directa o indirectamente al cumplimiento del objeto y funciones de la Agencia.
+
+16.- Representar judicial y extrajudicialmente a la Agencia y conferir poder a abogados habilitados para el ejercicio de la profesión, aun cuando no sean funcionarios de la Agencia, con las facultades de ambos incisos del artículo 7 del Código de Procedimiento Civil, de conformidad con las normas vigentes.
+
+17.- Desempeñar las demás atribuciones que le sean asignadas por ley.
 
 #### Artículo 23
 
-Habrá un Fiscal, que velará por la legalidad de los actos de la institución, informará en derecho al Consejo y al Director Ejecutivo, y será el ministro de fe del Servicio. El Fiscal participará con derecho a voz en las sesiones del Consejo, del cual se desempeñará como secretario.
+Habrá un Fiscal, que velará por la legalidad de los actos de la institución, informará en derecho al Director Ejecutivo, y será el ministro de fe del Servicio.
 
 Para ser Fiscal se requerirá tener título de abogado.
 
@@ -477,6 +473,14 @@ Auxiliares 21 2
 4
 
 TOTAL PLANTA 30
+
+#### Artículo 24 bis
+
+El personal de planta o a contrata que sea designado como agregado dentro de los cupos del artículo 5 del decreto con fuerza de ley N° 33, de 1979, del Ministerio de Relaciones Exteriores, será asimilado a la 4ta. Categoría Exterior y podrá acceder a los beneficios que a dicha categoría corresponden, de conformidad con las normas establecidas en el decreto con fuerza de ley N° 33, de 1979, del Ministerio de Relaciones Exteriores y su normativa complementaria.
+
+#### Artículo 24 ter
+
+El personal a contrata de la Agencia podrá desempeñar funciones de carácter directivo, las que serán asignadas, en cada caso, por resolución del Director Ejecutivo, según lo disponga anualmente la Ley de Presupuestos.
 
 ### Párrafo IV
 

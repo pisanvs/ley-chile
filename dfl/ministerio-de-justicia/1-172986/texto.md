@@ -1464,7 +1464,7 @@ j) Cualquier otro antecedente que sea relevante atendido el interés superior de
 
 Podrá el juez, en el caso de inhabilidad física o moral de ambos padres, confiar el cuidado personal de los hijos a otra persona o personas competentes, velando primordialmente por el interés superior del niño conforme a los criterios establecidos en el artículo 225-2.
 
-En la elección de estas personas se preferirá a los consanguíneos más próximos y, en especial, a los ascendientes.
+En la elección de estas personas se preferirá a los consanguíneos más próximos y, en especial, a los ascendientes, al cónyuge o al conviviente civil del padre o madre, según corresponda.
 
 #### Artículo 227
 
@@ -9070,9 +9070,9 @@ Esta regla no se aplica a los plazos que tienen el valor de condiciones.
 
 El pago de la obligación no puede exigirse antes de expirar el plazo, si no es:
 
-1º. Al deudor constituido en quiebra o que se halla en notoria insolvencia;
+1º Al deudor que tenga dicha calidad en un procedimiento concursal de liquidación, o se encuentre en notoria insolvencia y no tenga la calidad de deudor en un procedimiento concursal de reorganización;
 
-2º. Al deudor cuyas cauciones, por hecho o culpa suya, se han extinguido o han disminuido considerablemente de valor. Pero en este caso el deudor podrá reclamar el beneficio del plazo, renovando o mejorando las cauciones.
+2º Al deudor cuyas cauciones, por hecho o culpa suya, se han extinguido o han disminuido considerablemente de valor. Pero en este caso el deudor podrá reclamar el beneficio del plazo, renovando o mejorando las cauciones.
 
 #### Artículo 1497
 
@@ -9838,15 +9838,15 @@ Para obtener la cesión, incumbe al deudor probar su inculpabilidad en el mal es
 
 Los acreedores serán obligados a aceptar la cesión, excepto en los casos siguientes:
 
-1º. Si el deudor ha enajenado, empeñado o hipotecado, como propios, bienes ajenos a sabiendas;
+1.º Si el deudor ha enajenado, empeñado o hipotecado, como propios, bienes ajenos a sabiendas;
 
-2º. Si ha sido condenado por hurto o robo, falsificación o quiebra fraudulenta;
+2.º Si ha sido condenado por hurto o robo, falsificación o cualquiera de los delitos señalados en el Párrafo 7 del Título IX del Libro Segundo del Código Penal;
 
-3º. Si ha obtenido quitas o esperas de sus acreedores;
+3.º Si ha obtenido quitas o esperas de sus acreedores;
 
-4º. Si ha dilapidado sus bienes;
+4.º Si ha dilapidado sus bienes;
 
-5º. Si no ha hecho una exposición circunstanciada y verídica del estado de sus negocios, o se ha valido de cualquier otro medio fraudulento para perjudicar a sus acreedores.
+5.º Si no ha hecho una exposición circunstanciada y verídica del estado de sus negocios, o se ha valido de cualquier otro medio fraudulento para perjudicar a sus acreedores.
 
 #### Artículo 1618
 
@@ -13316,23 +13316,21 @@ Podrá el mandatario retener los efectos que se le hayan entregado por cuenta de
 
 El mandato termina:
 
-1º. Por el desempeño del negocio para que fue constituido;
+1.º Por el desempeño del negocio para que fue constituido;
 
-2º. Por la expiración del término o por el evento de la condición prefijados para la terminación del mandato;
+2.º Por la expiración del término o por el evento de la condición prefijados para la terminación del mandato;
 
-3º. Por la revocación del mandante;
+3.º Por la revocación del mandante;
 
-4º. Por la renuncia del mandatario;
+4.º Por la renuncia del mandatario;
 
-5º. Por la muerte del mandante o del mandatario;
+5.º Por la muerte del mandante o del mandatario;
 
-6º. Por la quiebra o insolvencia del uno o del otro;
+6.º Por tener la calidad de deudor en un procedimiento concursal de liquidación, el mandante o el mandatario;
 
-7º. Por la interdicción del uno o del otro;
+7.º Por la interdicción del uno o del otro;
 
-8º. Derogado.
-
-9º. Por la cesación de las funciones del mandante, si el mandato ha sido dado en ejercicio de ellas.
+8.º Derogado. 9.º Por la cesación de las funciones del mandante, si el mandato ha sido dado en ejercicio de ellas.
 
 #### Artículo 2164
 
@@ -15084,15 +15082,19 @@ La primera clase de créditos comprende los que nacen de las causas que en segui
 
 Si la enfermedad hubiere durado más de seis meses, fijará el juez, según las circunstancias, la cantidad hasta la cual se extienda la preferencia;
 
-4. Los gastos en que se incurra para poner a disposición de la masa los bienes del fallido, los gastos de administración de la quiebra, de realización del activo y los préstamos contratados por el síndico para los efectos mencionados;
+4. Los gastos en que se incurra para poner a disposición de la masa los bienes del deudor, los gastos de administración del procedimiento concursal de liquidación, de realización del activo y los préstamos contratados por el liquidador para los efectos mencionados.
 
-5. Las remuneraciones de los trabajadores y las asignaciones familiares;
+5. Las remuneraciones de los trabajadores, las asignaciones familiares, la indemnización establecida en el número 2 del artículo 163 bis del Código del Trabajo con un límite de noventa unidades de fomento al valor correspondiente al último día del mes anterior a su pago, considerándose valista el exceso si lo hubiere, y las cotizaciones adeudadas a las instituciones de seguridad social o que se recauden por su intermedio, para ser destinadas a ese fin;
 
-6. Las cotizaciones adeudadas a organismos de Seguridad Social o que se recauden por su intermedio, para ser destinadas a ese fin, como asimismo, los créditos del fisco en contra de las entidades administradoras de fondos de pensiones por los aportes que aquél hubiere efectuado de acuerdo con el inciso tercero del artículo 42 del decreto ley N.º 3.500, de 1980;
+6. Los créditos del fisco en contra de las entidades administradoras de fondos de pensiones por los aportes que aquél hubiere efectuado de acuerdo con el inciso cuarto del artículo 42 del decreto ley Nº 3.500, de 1980;
 
 7. Los artículos necesarios de subsistencia suministrados al deudor y su familia durante los últimos tres meses;
 
-8. Las indemnizaciones legales y convencionales de origen laboral que les correspondan a los trabajadores, que estén devengadas a la fecha en que se hagan valer y hasta un límite de tres ingresos mínimos mensuales por cada año de servicio y fracción superior a seis meses por cada trabajador con un límite de diez años. Por el exceso, si lo hubiere, se considerarán valistas;
+8. Las indemnizaciones legales y convencionales de origen laboral que les correspondan a los trabajadores, que estén devengadas a la fecha en que se hagan valer y hasta un límite de tres ingresos mínimos mensuales remuneracionales por cada año de servicio y fracción superior a seis meses por cada trabajador, con un límite de once años. Por el exceso, si lo hubiere, se considerarán valistas.
+
+Asimismo, la indemnización establecida en el párrafo segundo del número 4 del artículo 163 bis del Código del Trabajo estará sujeta a los mismos límites precedentemente señalados.
+
+Para efectos del cálculo del pago de la preferencia establecida en este número, los límites máximos indicados en los párrafos primero y segundo serán determinados de forma independiente;
 
 9. Los créditos del fisco por los impuestos de retención y de recargo.
 
@@ -16416,6 +16418,10 @@ Expirado el plazo a que se refiere el inciso anterior sin que el menor, injustif
 
 En los demás casos para que un menor se ausente del país requerirá la autorización del juzgado de letras de menores de su residencia.
 
+Sin perjuicio de lo establecido en los incisos anteriores, tratándose de menores de edad hijos de extranjeros residentes oficiales, el permiso o autorización a que se refiere este artículo, también podrá otorgarse por el Cónsul del país de la nacionalidad del padre, o madre, o de ambos padres, que lo soliciten, según corresponda. Este permiso o autorización deberá indicar el o los lugares de destino del menor de edad, debiendo además remitir copia del mismo, por la vía más expedita, al Ministerio de Relaciones Exteriores de Chile.
+
+Con todo, lo establecido en el inciso anterior no será aplicable si el menor de edad o alguno de sus padres tuviere la nacionalidad chilena.
+
 #### Artículo 49 bis
 
 En la sentencia el juez podrá decretar que la autorización a que se refiere el inciso sexto del artículo anterior habilita al padre o madre que la haya requerido y que tenga al menor a su cuidado para salir del país con él en distintas ocasiones dentro de los dos años siguientes, siempre que se acredite que el otro progenitor, injustificadamente, ha dejado de cumplir el deber, regulado judicial o convencionalmente, de mantener una relación directa y regular con su hijo. El plazo de permanencia del menor de edad en el extranjero no podrá ser superior a quince días en cada ocasión.
@@ -16850,7 +16856,7 @@ La cantidad que resulte del párrafo inmediatamente anterior sobre las asignacio
 
 La cantidad que resulte del párrafo inmediatamente anterior sobre las asignaciones de mil doscientas unidades tributarias anuales, y por la cantidad que exceda de esta suma, 25%.
 
-Las asignaciones por causa de muerte que correspondan al cónyuge y a cada ascendiente, o adoptante, o a cada hijo, o adoptado, o a la descendencia de ellos, estarán exentas de este impuesto en la parte que no exceda de cincuenta unidades tributarias anuales. Las donaciones que se efectúen a las personas señaladas estarán exentas de este impuesto en la parte que no exceda de cinco unidades tributarias anuales. En consecuencia, la escala a que se refiere el inciso primero de este artículo, se aplicará desde su primer tramo a las cantidades que excedan de los mínimos exentos.
+Las asignaciones por causa de muerte que correspondan al cónyuge y a cada ascendiente, o adoptante, o a cada hijo, o adoptado, o a la descendencia de ellos, o conviviente civil sobreviviente, estarán exentas de este impuesto en la parte que no exceda de cincuenta unidades tributarias anuales. Las donaciones que se efectúen a las personas señaladas estarán exentas de este impuesto en la parte que no exceda de cinco unidades tributarias anuales. En consecuencia, la escala a que se refiere el inciso primero de este artículo, se aplicará desde su primer tramo a las cantidades que excedan de los mínimos exentos.
 
 La unidad tributaria a que se refiere este artículo será la que rija al momento de la delación de la herencia o de la insinuación de la donación según el caso.
 
@@ -16972,7 +16978,7 @@ En estos casos, al efectuarse el pago de la cosa debida, deberá acreditarse el 
 
 #### Artículo 14
 
-Las asignaciones o donaciones de crédito contra personas declaradas en quiebra o concurso o de notoria insolvencia, no estarán sujetas al pago de este impuesto; pero, en caso de pago total o parcial de la deuda, el asignatario o donatario deberá pagar el impuesto correspondiente.
+Las asignaciones o donaciones de crédito contra personas que tengan la calidad de deudoras en un procedimiento concursal de reorganización o de liquidación vigente o de notoria insolvencia, no estarán sujetas al pago de este impuesto; pero, en caso de pago total o parcial de la deuda, el asignatario o donatario deberá pagar el impuesto correspondiente.
 
 #### Artículo 15
 
@@ -17074,7 +17080,7 @@ Para los efectos de esta ley el heredero no podrá disponer de los bienes de la 
 
 #### Artículo 26
 
-Lo expuesto en el artículo precedente no regirá para el cónyuge, ni para los padres e hijos cuando deban percibir, de las Cajas de Previsión o de los empleados o patrones, de acuerdo con las leyes o contratos de trabajo, sumas no superiores a cinco unidades tributarias anuales.
+Lo expuesto en el artículo precedente no regirá para el cónyuge o conviviente civil, ni para los padres e hijos cuando deban percibir, de las Cajas de Previsión o de los empleados o patrones, de acuerdo con las leyes o contratos de trabajo, sumas no superiores a cinco unidades tributarias anuales.
 
 En caso de fallecimiento del titular de una cuenta de ahorro en un Banco o Institución Financiera, sus herederos podrán retirar estos depósitos hasta concurrencia de cinco unidades tributarias anuales o su equivalente en moneda extranjera.
 

@@ -534,7 +534,11 @@ El Cónsul deberá dar recibo al interesado por el cobro percibido, haciendo con
 
 #### Artículo 10°
 
-El pago de los derechos consulares se acreditarán mediante la aposición de estampillas consulares, de idéntico valor al de los derechos percibidos, las que se adherirán a los respectivos documentos y recibos que se otorguen y serán inutilizadas en la forma prescrita en el Reglamento Consular. El 10% que se establece en el artículo 8° del presente Arancel no se considerará para la aposición de estampillas.
+El pago de los derechos consulares fijados en este Arancel, incluido el 10% establecido en el artículo 8, deberá ser realizado por el interesado en la institución financiera en la que la respectiva Oficina Consular mantenga sus cuentas. Una vez acreditado el pago en el Consulado, éste le extenderá al interesado un comprobante del pago de los derechos fijados en este Arancel.
+
+En el caso de aquellas Oficinas Consulares a las que, atendidas las condiciones del régimen bancario existentes en el país receptor, no se les permita implementar el referido sistema, el interesado efectuará el pago de los derechos consulares que procedan, incluido el 10% establecido en el artículo 8, en la Oficina Consular correspondiente, la cual le otorgará el respectivo comprobante de pago.
+
+En ambos casos el referido 10% deberá constar en los comprobantes correspondientes.
 
 #### Artículo 11°
 

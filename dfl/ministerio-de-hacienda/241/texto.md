@@ -34,7 +34,7 @@ a) El Ministro de Transportes y Telecomunicaciones;
 
 b) El Director General de Aeronáutica Civil;
 
-c) El Subsecretario del Ministerio de Relaciones Exteriores;
+c) El Subsecretario de Relaciones Económicas Internacionales del Ministerio de Relaciones Exteriores;
 
 d) El Subdirector de la Oficina de Planificación Nacional; y
 

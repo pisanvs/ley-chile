@@ -24,7 +24,11 @@ Además, INACH tendrá como misión publicar y difundir los trabajos científico
 
 b) El Instituto asesorará al Ministerio de Relaciones Exteriores, en el cumplimiento de las obligaciones asumidas por el Gobierno de Chile en el artículo 3º del Tratado Antártico, del 1º de Diciembre de 1959, en materia de cooperación internacional en la investigación científica.
 
-c) INACH, además, asesorará a los organismos del Estado, Universidades e instituciones científicas nacionales y atenderá las consultas que le formulen en todos aquellos aspectos relacionados con la investigación antártica.
+c) INACH asesorará y prestará servicios dentro del ámbito de sus competencias a los organismos del Estado, del sector privado, universidades e instituciones científicas nacionales y extranjeras.
+
+Podrá percibir ingresos por bienes y servicios que preste, y atender las consultas que le formulen en todos aquellos aspectos relacionados con la investigación antártica.
+
+Los valores de los cobros por los bienes y servicios que el INACH prestará, se determinarán mediante decreto expedido "Por orden del Presidente de la República" del Ministerio de Relaciones Exteriores y suscrito por el Ministro de Hacienda. Dichos recursos ingresarán a rentas generales de la nación.
 
 d) INACH, para el cumplimiento de sus funciones específicas, mantendrá relaciones e intercambiará informaciones científicas y técnicas con otros organismos afines nacionales y extranjeros interesados en la investigación científica antártica.
 
@@ -36,7 +40,7 @@ Antártico Chileno
 
 #### Artículo 3º
 
-INACH estará estructurado en una Dirección, una Subdirección Técnico - Administrativa, una Subdirección Científica, la Asesoría Jurídica y el Relacionador Público.
+De conformidad con lo establecido en la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, el Director del Instituto Antártico Chileno, mediante resolución, con sujeción a la planta y a la dotación máxima de personal, establecerá la organización interna del Servicio y determinará las denominaciones y funciones que correspondan a cada una de las unidades para el cumplimiento de las funciones que le sean asignadas.
 
 #### Artículo 4º
 
@@ -126,85 +130,23 @@ por la ley a otras autoridades.
 
 #### Artículo 5º
 
-El Asesor Jurídico será un funcionario dependiente de la Dirección, cuyas atribuciones principales son:
-
-a) Emitir los informes que le sean solicitados por el Director o Subdirectores.
-
-b) Mantener una permanente información para la Dirección sobre las disposiciones legales y reglamentarias que se dicten y en especial sobre tratados internacionales relacionados con el Continente Antártico.
-
-c) Informar al Director sobre aquellos planes e iniciativas que signifiquen una alteración de la legislación vigente o que se traduzcan en proyectos de ley o normas reglamentarias que incidan en la labor científica o técnica realizadas por el Instituto.
-
-d) Confeccionar los proyectos de decretos o resoluciones del Instituto que no sean de mero trámite.
-
-e) Informar sus decretos o resoluciones representando aquellos que no se ajusten a la legislación vigente.
+Derogado.
 
 #### Artículo 6º
 
-El Relacionador Público será un funcionario dependiente del Director cuyas principales atribuciones son:
-
-a) La divulgación permanente de las actividades del INACH en los medios de comunicación, prensa, radio y televisión.
-
-b) Difundir el conocimiento de la labor que el Instituto desarrolla en el Territorio Antártico.
+Derogado.
 
 #### Artículo 7º
 
-El Subdirector Técnico-Administrativo será un funcionario que dependerá del Director cuyas atribuciones principales son: a) Coordinar los estudios técnicos y el apoyo
-
-logístico de los programas a realizarse en las
-
-comisiones antárticas anuales que debe efectuar INACH,
-
-e informar al Director para su aprobación.
-
-b) Supervisar la marcha administrativa del
-
-Instituto e impartir instrucciones a seguir en esta
-
-materia.
-
-c) Proponer al Director las adquisiciones de
-
-elementos técnicos y generales necesarios para la
-
-conservación de los bienes del Instituto, ya sea que
-
-estos elementos deban adquirirse en el país o en el
-
-extranjero.
-
-d) Recopilar los antecedentes proporcionados por
-
-los distintos departamentos del Instituto para la
-
-memoria anual que debe presentar el Director del
-
-Instituto al Ministro de Relaciones Exteriores.
+Derogado.
 
 #### Artículo 8º
 
-El Subdirector Científico será un funcionario dependiente del Director cuyas atribuciones principales son:
-
-a) La elaboración de programas y preparación de proyectos de investigación científica del Instituto, los cuales presentará a conocimiento del Director.
-
-b) Dirigir y supervisar los estudios especializados sobre las diversas materias científicas vinculadas con las regiones antárticas, solicitando la colaboración que estime necesaria de los organismos del Estado, Universidades y centros científicos.
-
-c) Dirigir y supervigilar el análisis de los proyectos científicos que organizaciones del Estado o particulares remitan a la consideración del Instituto.
-
-d) Coordinar las actividades científicas del Instituto con las Universidades chilenas y otros organismos con el objeto de aunar esfuerzos en la investigación científica antártica.
-
-e) Proponer al Director los intercambios de informaciones y estudios científicos antárticos que interese mantener con otros organismos similares, centros de investigación y Universidades, tanto nacionales como extranjeras.
-
-f) Colaborar en la selección de postulantes a becas que instituciones u organismos nacionales o extranjeros ofrezcan a INACH para ciudadanos chilenos.
-
-g) Dirigir y controlar la edición de la Serie Científica y Serie de Difusión.
+Derogado.
 
 #### Artículo 9º
 
-El personal de INACH se regirá por el Estatuto Administrativo. No obstante lo anterior les serán aplicables las siguientes normas.
-
-En ausencia del Director le subrogará el Subdirector Técnico-Administrativo en todas sus facultades. En ausencia de ambos, subrogará el Subdirector Científico.
-
-El personal que INACH comisione al extranjero se regirá para todos los efectos legales por las disposiciones vigentes señaladas en el Estatuto Orgánico del Ministerio de Relaciones Exteriores para sus funcionarios.
+El personal del INACH, de planta y a contrata, estará afecto a la ley N° 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda; al régimen de remuneraciones del decreto ley N° 249, de 1973, del Ministerio de Hacienda, y su legislación complementaria; y, en materia de destinaciones al extranjero, a las normas sobre destinaciones contenidas en el decreto con fuerza de ley N° 33, de 1979, del Ministerio de Relaciones Exteriores y su normativa complementaria.
 
 Regístrese, tómese razón, comuníquese y publíquese en el Diario Oficial de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Hernán Cubillos Sallato, Ministro de Relaciones Exteriores.
 

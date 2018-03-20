@@ -20,7 +20,9 @@ FRONTERAS Y LIMITES DEL ESTADO
 
 #### Artículo 1°
 
-El Servicio Técnico creado por ley N° 16.592, de 1966, se denominará en lo sucesivo "Dirección Nacional de Fronteras y Límites del Estado" (DIFROL) y su misión consistirá en asesorar al Supremo Gobierno a través del Ministerio de Relaciones Exteriores e intervenir en todo lo que se refiere a los límites internacionales de Chile y sus fronteras, el cual se regirá por las disposiciones del presente decreto y el Reglamento que se dicte.
+La Dirección Nacional de Fronteras y Límites del Estado es un servicio público centralizado, sometido a la dependencia del Presidente de la República a través del Ministerio de Relaciones Exteriores, cuya misión es asesorar al Gobierno e intervenir en todo lo que se refiere a los límites internacionales de Chile y sus fronteras.
+
+Para el ejercicio de sus funciones, este Servicio deberá coordinarse con las dependencias correspondientes de la Subsecretaría de Relaciones Exteriores y con la unidad que indica el artículo 8 del Estatuto Orgánico del Ministerio de Relaciones Exteriores, en todas las materias que digan relación con la política exterior vecinal, considerando sus áreas de competencia referidas a las zonas declaradas fronterizas, integración física, límites, recursos hídricos compartidos y aquellas encomendadas por tratados internacionales.
 
 #### Artículo 2°
 
@@ -48,7 +50,7 @@ h) Organizar y conservar un archivo de libros, mapas, documentos, recortes de pu
 
 La Dirección Nacional de Fronteras y Límites del Estado estará constituida por la Dirección Nacional, la Dirección de Fronteras y la Dirección de Límites.
 
-El Reglamento establecerá los departamentos de que estarán constituidas y sus funciones.
+De conformidad con lo establecido en la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, el Director Nacional de Fronteras y Límites del Estado, mediante resolución, con sujeción a la planta y a la dotación máxima de personal, establecerá la organización interna del Servicio y determinará las denominaciones y funciones que correspondan a cada una de las unidades para el cumplimiento de las funciones que le sean asignadas.
 
 #### Artículo 4°
 

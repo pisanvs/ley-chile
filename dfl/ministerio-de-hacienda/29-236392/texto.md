@@ -1440,19 +1440,19 @@ Los derechos de los funcionarios consagrados por este Estatuto prescribirán en 
 
 #### Artículo 162
 
-Los funcionarios que ejerzan las profesiones y actividades que, conforme al inciso segundo del artículo 43 de la ley Nº
-
-18.575, se regirán por estatutos de carácter especial, serán los siguientes:
+Los funcionarios que ejerzan las profesiones y actividades que, conforme al inciso segundo del artículo 43 de la ley Nº 18.575, se regirán por estatutos de carácter especial, serán los siguientes:
 
 a) Académicos de las instituciones de Educación Superior;
 
-b) Personal afecto a la ley Nº 15.076;
+b) Personal afecto a la ley Nº15.076;
 
-c) Personal del Servicio Exterior del Ministerio de Relaciones Exteriores. Asimismo el personal de la planta de Secretaría y Administración General del Ministerio de Relaciones Exteriores y de los Servicios Públicos sometidos a la dependencia del Presidente de la República, a través de este Ministerio, cuando cumplan funciones en el extranjero;
+c) Personal del Servicio Exterior del Ministerio de Relaciones Exteriores. Asimismo el personal de la planta de Secretaría y Administración General del Ministerio de Relaciones Exteriores y de los Servicios Públicos sometidos a la dependencia o supervigilancia del Presidente de la República, a través de este Ministerio, cuando cumplan funciones en el extranjero;
 
 d) Personal de la planta de oficiales y vigilantes penitenciarios de Gendarmería de Chile;
 
-e) Personal que cumpla funciones fiscalizadoras en la Fiscalía Nacional Económica, el Servicio Nacional de Aduanas, el Servicio de Impuestos Internos, la Superintendencia de Bancos e Instituciones Financieras, la Superintendencia de Valores y Seguros, la Superintendencia de Seguridad Social, la Superintendencia de Administradoras de Fondos de Pensiones y la Dirección del Trabajo, y
+e) Personal que cumpla funciones fiscalizadoras en la Fiscalía Nacional Económica, el Servicio Nacional de Aduanas, el Servicio de Impuestos Internos, la Superintendencia de Bancos e Instituciones Financieras, la Superintendencia de Valores y Seguros, la Superintendencia de Seguridad Social, la Superintendencia de Administradoras de Fondos de Pensiones y la Dirección del Trabajo,
+
+y
 
 f) El personal que desempeña actividades directamente vinculadas a la actividad televisiva en la Corporación de Televisión de la Universidad de Chile.
 
