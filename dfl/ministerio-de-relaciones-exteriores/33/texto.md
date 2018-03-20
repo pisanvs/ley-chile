@@ -968,7 +968,7 @@ Clase___________________ 15 13
 
 7a. Exterior Terceros Secretarios de
 
-Segunda Clase___________ 30 14
+Segunda Clase___________ 30 16
 
 -----
 
@@ -988,21 +988,17 @@ Categoría Descripción N° de cargos
 
 Asimilado a
 
-3a. Exterior Directivos, Profesionales
-
-y Técnicos ________ 5
+3a. Exterior Directivos Técnicos________ 3
 
 Asimilado a
 
-4a. Exterior Directivos, Profesionales
-
-y Técnicos __________ 8
+4a. Exterior Asesores Técnicos__________ 6
 
 Asimilado a
 
-5a. Exterior Directivos, Profesionales
+6a. Exterior Operadores de centrales de
 
-y Técnicos_________________ 2
+télex______________________ 2
 
 ----
 
@@ -1160,7 +1156,7 @@ Categoría Descripción N° de Cargos
 
 ------------------------------------------------------
 
-Asimilados Administrativos_________ 17
+Asimilados Administrativos_________ 15
 
 a 6a.
 
@@ -1216,7 +1212,7 @@ Categoría Descripción N° de cargos
 
 Asimilados Auxiliares y otros cargos__ 8
 
-a 100% de la
+a 80% de la
 
 6a. Exterior ---
 
