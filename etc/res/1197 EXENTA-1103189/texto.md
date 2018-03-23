@@ -76,7 +76,7 @@ a) Productos Nuevos.
 
 b) Registros Farmacéuticos.
 
-c) Productos Cosméticos.
+c) Autorizaciones de Establecimientos.
 
 d) Estudios Clínicos.
 
@@ -88,13 +88,11 @@ f) Biofarmacia.
 
 a) Buenas Prácticas.
 
-b) Autorizaciones de Establecimientos.
+b) Control Sanitario.
 
-c) Inspecciones Sanitarias.
+c) Validación de Procesos.
 
-d) Validación de Procesos.
-
-e) Farmacia y Recetario Magistral.
+d) Farmacia y Recetario Magistral.
 
 9. Subdepartamento Laboratorio Nacional de Control, compuesto por las siguientes secciones:
 
@@ -104,7 +102,7 @@ b) Pruebas Biológicas.
 
 c) Microbiología Farmacéutica.
 
-d) Física Médica.
+d) Calidad Farmacéutica.
 
 e) Calidad Farmacéutica.
 
@@ -123,6 +121,8 @@ a) Comercio Exterior
 b) Estupefacientes y Psicotrópicos.
 
 c) Vigilancia y Coordinación.
+
+### 12. Subdepartamento Productos Cosméticos
 
 IV.- El Departamento Laboratorio Biomédico Nacional y de Referencia será dirigido por una Jefatura de Departamento y tendrá los siguientes Coordinadores y Subdepartamentos:
 
