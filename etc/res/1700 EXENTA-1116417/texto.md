@@ -1,0 +1,5 @@
+DEJA SIN EFECTO RESOLUTIVO N° 1 DE LA RESOLUCIÓN N° 90 EXENTA, DE 2004, SOBRE LA FACULTAD DE DELEGAR EN EL JEFE DE DEPARTAMENTO DE ASISTENCIA AL CONTRIBUYENTE, LOS FUNCIONARIOS INDIVIDUALIZADOS PERTENECIENTES AL MISMO, Y LOS JEFES DE UNIDAD, LA EMISIÓN DE CERTIFICADOS SOLICITADOS EN LA TRAMITACIÓN DE POSESIONES EFECTIVAS DE HERENCIAS INTESTADAS
+
+Mediante resolución exenta SII Nº 1.700, de 15 de marzo de 2018, el Director Regional, perteneciente a la XVI Dirección Regional Metropolitana Santiago Sur, dejó sin efecto el resolutivo Nº 1 de la resolución exenta Nº 90, de 2004, sobre delegación en los Jefes de Departamento de Asistencia al Contribuyente y de Unidad, y los funcionarios pertenecientes al Departamento de Asistencia al Contribuyente individualizados en el número 3 de la resolución exenta Nº 1.700, de 2018.
+
+El texto íntegro de la resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl).
