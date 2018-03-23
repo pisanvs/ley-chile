@@ -54,7 +54,83 @@ Decreto:
 
 3.- Facúltase a la concesionaria para instalar, operar y explotar la estación de radiodifusión comunitaria ciudadana, señal distintiva XQK-263, cuyos elementos de la esencia de la concesión, características técnicas y ubicación de las instalaciones de la radioemisora serán los que a continuación se indican:
 
+ELEMENTOS DE LA ESENCIA DE LA CONCESIÓN
+
+- Tipo de servicio : Radiodifusión Comunitaria
+
+Ciudadana.
+
+- Zona de servicio : Comuna de San Carlos,
+
+VIII Región. Superficie
+
+delimitada por una
+
+intensidad de campo
+
+mayor o igual que 66
+
+dB (µV/m), referida al
+
+punto de emisión de
+
+la señal
+
+- Período de la concesión : 10 años.
+
+- Plazo inicio de obras : 5 días.
+
+- Plazo término de obras : 13 días.
+
+- Plazo inicio de transmisiones : 59 días.
+
+- Potencia máxima radiada : 25 W.
+
+- Frecuencia : 107,5 MHz.
+
+CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
+
+- Tipo de emisión : 180KF8EHF
+
+- Desviación máxima : ±75 kHz
+
+- Diagrama de Radiación : Omnidireccional.
+
+- Ganancia : 2,2 dBd de ganancia máxima.
+
+- Polarización : Vertical.
+
+- Tipo de antenas : Dipolo.
+
+- Nº Antenas : 1
+
+- Altura del centro de
+
+radiación : 18 m.
+
+- Pérdidas en cables,
+
+conectores y otros : 0,81 dB.
+
+- Diagrama de radiación horizontal de acuerdo a la siguiente tabla:
+
+.
+
 Sin perjuicio de la potencia máxima radiada de 25 W autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en el artículo 4º de la ley 20.433, la concesionaria deberá operar con una potencia máxima en el transmisor de 18 W, atendidas la actual ubicación de su planta transmisora y demás instalaciones y el conjunto de las restantes características técnicas del sistema radiante autorizadas en el presente decreto.
+
+UBICACIÓN DE LAS INSTALACIONES
+
+- Ubicación del Estudio, : Sargento Aldea N° 841,
+
+Planta Transmisora comuna de San Carlos,
+
+y Sistema Radiante VIII Región.
+
+- Coordenadas Geográficas : 36º 25' 17" Latitud Sur.
+
+71º 58' 00" Longitud Oeste.
+
+Datum WGS84.
 
 4.- Los plazos de inicio y término de obras, de inicio de servicio, se contarán a partir de la publicación en el Diario Oficial del presente decreto.
 
