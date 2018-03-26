@@ -272,23 +272,31 @@ b) Los emprendedores que, para los efectos de estos instrumentos, serán toda pe
 
 C. AGENTES OPERADORES INTERMEDIARIOS, UNIDADES COORDINADORAS EMPRESARIALES Y OPERADORES DE FOMENTO DE MICROEMPRESA O EMPRESARIALES
 
-1) Agentes Operadores Intermediarios
+1) AGENTES OPERADORES INTERMEDIARIOS
 
 Los Agentes Operadores Intermediarios son
 
-personas jurídicas de derecho público o
+personas jurídicas de derecho público o privado,
 
-privadas, en adelante Agentes, habilitadas para
+denominados "Agentes", habilitados para suscribir
 
-suscribir convenios de asignación de fondos del
+convenios de asignación de fondos del presupuesto
 
-presupuesto de CORFO, para la ejecución de
+de Corfo o sus Comités, para la ejecución de
 
-Programas y Proyectos de Fomento, en el marco de
+programas y proyectos, en el marco de los
 
-los instrumentos cuyos reglamentos admitan su
+instrumentos cuyos Reglamentos admitan su
 
 operación externalizada.
+
+Se requerirá, además, que su función u objeto les
+
+permita el desarrollo de actividades compatibles
+
+con recibir y administrar recursos públicos
+
+y privados.
 
 2) Unidades Coordinadoras Empresariales
 
@@ -332,15 +340,17 @@ D. DELEGACIÓN DE FACULTADES
 
 El Gerente de Desarrollo Competitivo estará facultado para suscribir los Convenios Marco Nacionales con los Agentes Operadores Intermediarios, así como para dictar las resoluciones que los aprueben.
 
-Por su parte, los Directores Regionales de la Corporación y los Directores Ejecutivos de los Comités de Desarrollo Productivo Regional, según corresponda, estarán facultados en el marco de esta normativa y de su región, para:
+Por su parte, los Directores Regionales de la Corporación y los Directores Ejecutivos de los "Comités de Desarrollo Productivo Regional", según corresponda, en el territorio de su competencia, y los demás Comités de Corfo que estén autorizados para transferir recursos a los Agentes Operadores Intermediarios, estarán facultados, en el marco de esta normativa, para:
 
 1. Suscribir Convenios de Desempeño con los Agentes Operadores Intermediarios y dictar las resoluciones que los aprueben;
 
-2. Transferir fondos a los Agentes Operadores Intermediarios y a las Unidades Coordinadoras Empresariales para la ejecución de Programas y Proyectos aprobados por el CAZ, CAF o Comités de Desarrollo Productivo Regional, según corresponda, sin perjuicio de sus facultades para ejecutar directamente los Programas o Proyectos, cuando circunstancias excepcionales así lo ameriten, previa aprobación del CAF o Comités de Desarrollo Productivo Regional;
+2. Transferir fondos a los Agentes Operadores Intermediarios para la ejecución de programas y proyectos aprobados por el Comité de Asignación de Fondos, los Comités de Asignación Zonal de Fondos o los Consejos Directivos de los "Comités de Desarrollo Productivo Regional", según corresponda.
 
-3. Velar por el cumplimiento de las disposiciones que regulan los instrumentos y su correcta ejecución presupuestaria y técnica;
+Lo anterior, es sin perjuicio de la facultad del Comité de Asignación de Fondos y de los Consejos Directivos de los "Comités de Desarrollo Productivo Regional", de decidir, cuando circunstancias excepcionales así lo ameriten, que Corfo o los "Comités de Desarrollo Productivo Regional" ejecuten directamente los programas o proyectos, respectivamente.
 
-4. En general, celebrar y ejecutar los actos que sean necesarios para la ejecución de los Programas y Proyectos
+3. Velar por el cumplimiento de las disposiciones que regulan los instrumentos y su correcta ejecución presupuestaria y técnica.
+
+4. En general, celebrar y ejecutar los actos que sean necesarios para la ejecución de los programas y proyectos.
 
 4º Disposiciones transitorias
 
