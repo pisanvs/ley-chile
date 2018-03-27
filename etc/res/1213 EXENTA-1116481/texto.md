@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN EXENTA SOBRE REVOCACIÓN Y DELEGACIÓN DE FACULTADES RESPECTO A LOS FUNCIONARIOS QUE EN ELLA SE INDICAN
+
+Resolución exenta SII Nº 1.213, del 21 de marzo de 2018, del Director de la VI Dirección Regional Rancagua del SII, según facultades contenidas en el artículo 6º Nº 7 letra B) del Código Tributario y el artículo 20 de la Ley Orgánica del Servicio y autorización contenida en la resolución exenta SII Nº 11, del 23 de enero de 2013, revoca delegación de facultades contenidas en la resolución exenta Nº 564, de 01.02.2013, respecto de doña María Isabel Oñatt Chible y delega en los funcionarios que en ella se designa, las facultades que en ella se establecen respecto a las labores pertenecientes a la Oficina de Procedimientos Administrativos y Tributarios, cuyo texto íntegro se encuentra publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl).
+
+Claudio Ambiado Araya, Director Regional.
