@@ -81,3 +81,25 @@ La remisión de los restantes compendios se ceñirá a lo dispuesto en el artíc
 Tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.
 
 Lo que transcribo a Ud. para su conocimiento.- Atentamente, Mahmud Aleuy Peña y Lillo, Subsecretario del Interior.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance decreto N° 262, de 2018, del Ministerio del Interior y Seguridad Pública
+
+N° 6.887.- Santiago, 9 de marzo de 2018.
+
+Esta Entidad de Control ha dado curso al documento del epígrafe, que modifica el reglamento de documentación Nº 22, de Carabineros de Chile, aprobado por el decreto Nº 3.612, de 1961, del Ministerio del Interior, por encontrarse ajustado a derecho.
+
+No obstante, cumple con hacer presente que lo dispuesto en su Artículo Primero, literal a), que agrega un nuevo inciso segundo al artículo 20 del decreto que modifica, es sin perjuicio de lo dispuesto en el artículo 48, letra a), de la ley Nº 19.880, en cuya virtud deberán publicarse en el Diario Oficial los actos administrativos que contengan normas de general aplicación o que miren al interés general.
+
+Con el alcance que antecede, se ha tomado razón del instrumento de la suma.
+
+Saluda atentamente a Ud., Jorge Bermúdez Soto, Contralor General de la República.
+
+Al señor
+
+Ministro del Interior y Seguridad Pública
+
+Presente.
