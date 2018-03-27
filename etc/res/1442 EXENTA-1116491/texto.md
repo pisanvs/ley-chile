@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.442 EXENTA, DE 8 DE MARZO DE 2018
+
+Por resolución exenta Nº 1.442, de 8 de marzo de 2018, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana, se aprueba procedimiento para solicitar aumento de flota por demanda para servicios de taxis colectivos urbanos, de conformidad a lo dispuesto en el punto 4.4.2 del artículo 5.-, de la resolución exenta Nº 2.127, de 3 de agosto de 2017, del Ministerio de Transportes y Telecomunicaciones, que aprueba condiciones de operación, requisitos y exigencia de Perímetro de Exclusión para Taxis Colectivos, de la Provincia de Santiago y Comunas de Puente Alto y San Bernardo. Resolución rige a partir del 1 de junio de 2018. Texto íntregro de la resolución extractada se publicará en la página web del Ministerio de Transportes y Telecomunicaciones www.mtt.gob.cl.
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
