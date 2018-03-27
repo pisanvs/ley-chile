@@ -150,11 +150,11 @@ lóbulo principal 45º.
 
 - Coordenadas etapa
 
-transmisora : 45º34'15" Latitud Sur.
+transmisora : 45º34'17,2" Latitud Sur.
 
-72º03'54" Longitud Oeste.
+72º03'07" Longitud Oeste.
 
-Datum: WGS84.
+Datum: PSAD 56.
 
 - Coordenadas etapa
 
