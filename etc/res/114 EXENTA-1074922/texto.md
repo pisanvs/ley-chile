@@ -20,13 +20,13 @@ Resuelvo:
 
 2. Se establece como vías alternativas las siguientes: Ruta 5 - Ruta B 400 - Ruta 1 fuera del límite urbano.
 
-3. Se dispone excepcionalmente que los camiones articulados que tengan como destino cargar o descargar en la ciudad de Antofagasta y aquellos que requieran ingresar o egresar desde su lugar de residencia, ingresen al radio urbano por la Ruta 28 y Ruta 1 de Sur a Norte, y por la Ruta 1 de Norte a Sur, lo hagan en el siguiente horario:
+3.1 Se dispone excepcionalmente que los camiones articulados que tengan como destino cargar o descargar en la ciudad de Antofagasta y aquellos que requieran ingresar o egresar desde su lugar de residencia, ingresen al radio urbano por la Ruta 28 y Ruta 1 de Sur a Norte, y por la Ruta 1 de Norte a Sur los días de lunes a viernes en el siguiente horario:
 
-09:00 a 12:00 horas.
+09:00 a 18:00 horas.
 
-14:00 a 18:00 horas.
+20:00 a 07:00 horas.
 
-21:00 a 07:00 horas.
+3.2 Los días sábados, domingos y festivos, los vehículos antes descritos, podrán ingresar a la ciudad, sin restricción horaria, sin perjuicio de las actividades autorizadas por esta Secretaría Regional Ministerial, en los tramos y horarios coordinados para el evento
 
 4. Los camiones exceptuados de la prohibición deberán acreditar su destino, con instrumentos tales como, en el caso de vehículos que realizan transporte local, mediante la exhibición de la Guía de Despacho, y en el caso de los vehículos que realizan transporte internacional, mediante la exhibición del respectivo Manifiesto Internacional de Carga (MIC/DTA); u otro documento. Estos vehículos deberán además dar estricto cumpliendo la normativa aplicable sobre las condiciones para el transporte de carga.
 
