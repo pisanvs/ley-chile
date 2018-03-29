@@ -78,11 +78,11 @@ Desígnanse como integrantes del Consejo Fiscal Asesor a las siguientes personas
 
 3.- Sr. Juan Pablo Medina Guzmán, RUT: 10.524.743-5, hasta el 31 de mayo de 2018.
 
-4.- Sr. Hermann González Bravo, RUT Nº 13.565.713-1, por cuatro años.
+4.- Sr. Aldo Lema Navarro, RUT 14.582.352-8, hasta el 31 de mayo de 2018.
 
 5.- Sr. Gonzalo Sanhueza Dueñas, RUT Nº 8.813.539-3, por cuatro años.
 
-Asimismo, desígnase como Presidenta y Vicepresidente del Consejo Fiscal Asesor a doña Andrea Repetto Lisboa y a don Hermann González Bravo, respectivamente.
+Asimismo, desígnase como Presidenta y Vicepresidente del Consejo Fiscal Asesor a doña Andrea Repetto Lisboa y a don Gonzalo Sanhueza Dueñas, respectivamente.
 
 Anótese, tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Felipe Larraín Bascuñán, Ministro de Hacienda.
 
