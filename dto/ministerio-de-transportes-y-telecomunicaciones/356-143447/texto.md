@@ -98,23 +98,19 @@ centro de radiación : 37,67 metros.
 
 -Altura torre : 42 metros
 
-Ubicación de la radioemisora
+Estudio y Planta Transmisora:
 
--Dirección del
+- Dirección : Julio Sepúlveda Nº 1193, Angol,
 
-Estudio, Planta
+X Región.
 
-Transmisora y
+- Coordenadas
 
-Sistema Radiante : Sector Bélgica, Renaico, IX
+Geográficas : 37º 47' 20" Latitud Sur;
 
-Región.
+72º 42' 30" Longitud Oeste.
 
--Coordenadas
-
-Geográficas : 37°45'15" Latitud Sur
-
-72°35'00" Longitud Oeste
+Datum WGS 84.
 
 4.- Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones de la ley, reglamentos, normas técnicas y sus modificaciones, en lo que le sean aplicables.
 
