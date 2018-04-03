@@ -1,0 +1,7 @@
+MODIFICA DELEGACIÓN DE FACULTADES QUE INDICA
+
+En virtud de lo dispuesto en las resoluciones exentas Nº 90, de 21-09-2004 y Nº 24, de 05-03-2018, ambas del Director del Servicio de Impuestos Internos, la suscrita ha dictado la resolución Ex. Nº 193 de 23/03/2018, por la cual deroga las resoluciones exentas Nº 2.762 de 19/05/2014, Nº 207 de 19/05/2015 y Nº 908 de 24/09/2015, todas emitidas por la IX Dirección Regional del Servicio de Impuestos Internos, y ha delegado en los funcionarios indicados en lo resolutivo las facultades de emitir a petición de los solicitantes, única y exclusivamente en lo que a herencias testadas se refieran los "Certificado exención impuesto de herencia", "Certificado exención parcial del impuesto a las herencias", "Certificado de pago total del impuesto de herencias'', "Certificado de haber transcurrido los plazos que tiene el Servicio para revisar, liquidar y girar el impuesto a las herencias". Asimismo, ha delegado en el Jefe del Departamento Jurídico de la Dirección Regional, la facultad para otorgar "Certificado exención impuesto a las donaciones" y "Certificado de pago impuesto a las donaciones".
+
+El texto íntegro de esta resolución se ha publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl).
+
+Lidia Castillo Alarcón, Directora Regional.
