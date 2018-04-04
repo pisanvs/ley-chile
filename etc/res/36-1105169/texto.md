@@ -32,31 +32,37 @@ Beneficiarios.
 
 Los recursos considerados se asignarán a Instituciones de Educación Superior estatales y privadas respectivamente, referidas en el artículo 1° del DFL (Ed.) N° 4, de 1981, que se encuentren acreditadas en conformidad a la ley N° 20.129 y cuya casa central esté localizada fuera de la Región Metropolitana.
 
+Dentro de las Instituciones de Educación Superior estatales beneficiarias, se incluyen aquellas creadas mediante la ley N° 20.910, cuya casa central esté localizada fuera de la Región Metropolitana.
+
 #### Artículo 3°
 
 Distribución de los Recursos.
 
 La distribución de los recursos contemplados en las asignaciones respectivas, se determinará de la siguiente manera:
 
-a) El 25% de los recursos totales de las asignaciones, se distribuirá en partes iguales a las instituciones incluidas en el artículo 2° que correspondan.
+1. Se destinarán M$50.000 a cada Centro de Formación Técnica Estatal, creado por la ley N° 20.910, que cuente con oferta académica el año anterior al cálculo.
 
-b) El 25% de los recursos totales de las asignaciones, se distribuirá en partes iguales entre las instituciones incluidas en el artículo 2° que correspondan y que al 31 de diciembre del año anterior al cálculo, se encuentren acreditadas en el área "Vinculación con el Medio", de acuerdo al inciso segundo del artículo 17 de la ley N° 20.129. Dicha información, se obtendrá desde la página web de la Comisión Nacional de Acreditación (CNA).
+2. Al monto establecido según Ley de Presupuesto del año respectivo para la asignación presupuestaria de Educación Superior Regional, se le restará el monto obtenido al aplicar lo indicado en el numeral anterior, determinándose su distribución de la siguiente manera:
+
+a) El 25% de los recursos totales de las asignaciones, se distribuirá en partes iguales a las universidades incluidas en el artículo 2° que correspondan.
+
+b) El 25% de los recursos totales de las asignaciones, se distribuirá en partes iguales entre las universidades incluidas en el artículo 2° que correspondan y que al 31 de diciembre del año anterior al cálculo, se encuentren acreditadas en el área "Vinculación con el Medio", de acuerdo al inciso segundo del artículo 17 de la ley N° 20.129. Dicha información, se obtendrá desde la página web de la Comisión Nacional de Acreditación (CNA).
 
 c) El 30% de los recursos totales de las asignaciones, se distribuirá de la siguiente manera:
 
-1. En primer lugar, se dividirá la Matrícula proveniente de establecimientos escolares subvencionados de cada institución incluida en el artículo 2° por el total de la Matrícula regular de pregrado, con información del establecimiento secundario (Matrícula TES), ambos datos obtenidos desde la base de datos de la página web del Sistema de Instituciones de Educación Superior (SIES) disponible al 31 de diciembre del año anterior al cálculo.
+1. En primer lugar, se dividirá la Matrícula proveniente de establecimientos escolares subvencionados de cada universidad incluida en el artículo 2° por el total de la Matrícula regular de pregrado, con información del establecimiento secundario (Matrícula TES), ambos datos obtenidos desde la base de datos de la página web del Sistema de Universidades de Educación Superior (SIES) disponible al 31 de diciembre del año anterior al cálculo.
 
-2. Posteriormente, se sumarán todos los valores obtenidos de acuerdo al numeral anterior por las instituciones beneficiarias que correspondan.
+2. Posteriormente, se sumarán todos los valores obtenidos de acuerdo al numeral anterior por las universidades beneficiarias que correspondan.
 
-3. Finalmente, para obtener el monto que corresponderá a cada una de las instituciones beneficiarias, se calculará la proporción del valor obtenido de acuerdo al numeral 1, dentro de la suma del numeral 2, multiplicándose el porcentaje resultante por el monto total a distribuir por el presente literal, según el tipo de institución.
+3. Finalmente, para obtener el monto que corresponderá a cada una de las universidades beneficiarias, se calculará la proporción del valor obtenido de acuerdo al numeral 1, dentro de la suma del numeral 2, multiplicándose el porcentaje resultante por el monto total a distribuir por el presente literal, según el tipo de institución.
 
 d) El 20% de los recursos totales de las asignaciones, se distribuirá de la siguiente forma:
 
-1. En primer lugar, se tomará la distancia en kilómetros entre la ciudad de Santiago de Chile y la ciudad a la que pertenece la institución incluida en el artículo 2°, entendiendo como tal la ciudad en la que se localiza la Casa Central de la misma. Dichas distancias, se obtendrán desde la página web de la Dirección de Vialidad del Ministerio de Obras Públicas.
+1. En primer lugar, se tomará la distancia en kilómetros entre la ciudad de Santiago de Chile y la ciudad a la que pertenece la universidad incluida en el artículo 2°, entendiendo como tal la ciudad en la que se localiza la Casa Central de la misma. Dichas distancias, se obtendrán desde la página web de la Dirección de Vialidad del Ministerio de Obras Públicas.
 
-2. Posteriormente, se sumarán todos los valores obtenidos de acuerdo al numeral anterior por las instituciones beneficiarias que correspondan.
+2. Posteriormente, se sumarán todos los valores obtenidos de acuerdo al numeral anterior por las universidades beneficiarias que correspondan.
 
-3. Finalmente, para obtener el monto que corresponderá a cada una de las instituciones beneficiarias, se calculará la proporción del valor obtenido de acuerdo al numeral 1, dentro de la suma del numeral 2, multiplicándose el porcentaje resultante por el monto total a distribuir por el presente literal, según el tipo de institución.
+3. Finalmente, para obtener el monto que corresponderá a cada una de las universidades beneficiarias, se calculará la proporción del valor obtenido de acuerdo al numeral 1, dentro de la suma del numeral 2, multiplicándose el porcentaje resultante por el monto total a distribuir por el presente literal, según el tipo de institución.
 
 El monto a distribuir se determinará en miles de pesos (M$), procediendo a su aproximación al entero, en el caso que el resultado sea en decimales.
 
@@ -87,6 +93,8 @@ f. Causales de suspensión y de término anticipado del convenio.
 g. Obligación de devolución de los recursos observados, no ejecutados y/o no rendidos, al término del plazo de ejecución del convenio de desempeño.
 
 h. Plazos de ejecución y vigencia.
+
+i. Garantías, para el caso de las Instituciones de Educación Superior privadas.
 
 Anótese, tómese razón y publíquese.- Adriana Delpiano Puelma, Ministra de Educación.
 
