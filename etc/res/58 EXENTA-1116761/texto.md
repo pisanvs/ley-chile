@@ -1,0 +1,5 @@
+REVOCA DELEGACIÓN DE FACULTAD PARA OTORGAR CERTIFICADOS RELATIVOS AL IMPUESTO A LAS HERENCIAS, ASIGNACIONES Y DONACIONES CONTENIDA EN LA RESOLUCIÓN N° 157 EXENTA, DE 2016
+
+El Director Regional de la Dirección Regional Arica ha dictado la resolución ex. N° 58/2018, del 14 de marzo de 2018, en que revoca la delegación de facultades que realizó por resolución ex. N° 157 del 16 de agosto de 2016, en el Jefe de Grupo de Atención de Contribuyentes N°1 del Departamento de Asistencia de esta Dirección Regional para emitir certificados de exención de impuesto a la herencia, certificado de exención parcial de impuesto a la herencia, certificado de pago total del impuesto a la herencia, y certificado de haber transcurrido los plazos que tiene el Servicio para revisar, liquidar y girar el impuesto a la herencia.-
+
+Mauricio Leiva Avilés, Director Regional de la Dirección Regional Arica.
