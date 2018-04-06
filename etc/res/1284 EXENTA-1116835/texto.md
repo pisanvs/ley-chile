@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.284 EXENTA, DE 5 DE MARZO DE 2018
+
+Mediante resolución exenta N° 1.284, de fecha 5 de marzo de 2018, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se otorgó Reconocimiento Oficial a la Escuela de Conductores Profesionales "Academia de Conductores Santa María Limitada", cuyo nombre de fantasía es "Santa María Ltda.", RUT N° 76.444.411-6, representada legalmente por la señora Maricel del Pilar Romero Pérez, para impartir los cursos conducentes a la obtención de las licencias de conductor profesional clases A-2, A-3, A-4 y A-5, en sede ubicada en calle Maipú N° 084 y taller mecánico ubicado Primera Transversal N° 1009, ambos en la comuna de Maipú.-
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
