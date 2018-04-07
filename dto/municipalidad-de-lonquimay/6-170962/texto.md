@@ -10,7 +10,7 @@ Núm. 6.- Vistos:
 
 Decreto:
 
-### 01. Fíjase doble tránsito en todas las calles de la ciudad
+01. Que, se mantiene el doble tránsito de las calles de la ciudad, a excepción de la elipse de la calle Bernardo O'Higgins comprendida desde la unión sur de dicha arteria, hasta la unión norte de la ya referida; a su vez, los tramos de las calles Caupolicán y Teniente Merino, entre Bernardo O'Higgins oriente y poniente
 
 02. Prohíbese la circulación de camiones por calle Ignacio Carrera Pinto - Este, desde Baquedano hasta Bernardo O'Higgins y calle O'Higins- Este, entre José Miguel Carrera y Balmaceda; sin embargo podrán hacerlo para los trabajos de carga y descarga, pero solamente por el tiempo imprescindible para efectuar estas faenas.
 
@@ -38,7 +38,7 @@ Decreto:
 
 06. El Departamento de Tránsito, colocará la señalización correspondiente, para hacer saber a los conductores las disposiciones de la presente Ordenanza.
 
-07. Corresponderá a Carabineros de Chile e Inspectores Municipales la Fiscalización y cumplimiento de la presente Ordenanza y denunciar al Juzgado de Polic�a Local a los infractores.
+07. Corresponderá a Carabineros de Chile e Inspectores Municipales la Fiscalización y cumplimiento de la presente Ordenanza y denunciar al Juzgado de Policía Local a los infractores.
 
 ### 08. Esta Ordenanza regirá a partir del día 01 de Enero de 1987
 
