@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.241 EXENTA, DE 7 DE MARZO DE 2018
+
+Por el presente acto administrativo se han modificado las resoluciones exentas Nos 3.306, de 2009, 6.273 y 16.279, ambas de 2001, todas del Ministerio de Educación, que aprobaron planes y programas especiales de estudio de 1° a 4° año de educación media, al Liceo Experimental Artístico, RBD 8511-1, de la comuna de Quinta Normal, Región Metropolitana; en el sentido de sustituir sus planes de estudio de 1° a 4° año de educación media por los que se indican en dicha resolución exenta y aprobar los programas especiales de estudio para las asignaturas complementarias de las áreas de Artes Musicales, Artes Visuales y para 1° y 2° año de educación media, y para las asignaturas del Plan de Formación Diferenciada Artística de 3° y 4° año de educación media.
+
+Santiago, 7 de marzo de 2018.- Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
