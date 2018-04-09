@@ -754,4 +754,8 @@ Reaction (PCR).
 
 > **Nota.** NOTA 2 El Nº 1 de la Resolución 1423 Exenta, Agricultura, publicada el 17.03.2010, complementa la presente norma con relación a los requisitos fitosanitarios de importación, para las plantas y/o partes de plantas (frutos, estacas, ramillas, púas y esquejes), de las especies hospederas de Epiphyas postvittana (Lep.:Tortricidae), procedentes de los Estados de California y Hawaii de los Estados Unidos de Norteamérica, que en dicha norma se individualizan.
 
+Disposición transitoria:
+
+En relación a la declaración adicional sobre la plaga Xylella fastidiosa establecida en el Resuelvo 2, numeral 2.3, para las especies Prunus dulcis, Prunus cerasus, Prunus avium, Prunus mahaleb, Prunus cerasifera, Prunus domestica, Prunus salicina, Prunus armeniaca, Prunus persica y Prunus persica var. nucipersica, esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
+
 Comuníquese, anótese y publíquese.- Carlos Parra Merino, Director Nacional.

@@ -46,4 +46,8 @@ Asimismo, deberá cumplir con las normativas vigentes del Servicio Agrícola y G
 
 > **Nota.** NOTA 1 El 1.2 del numeral 1 de la Resolución 6753 Exenta, Agricultura, publicada el 11.11.2017, modifica la presente norma en el sentido de agregar para la especie Chinese wild peach (Prunus davidiana) la siguiente declaración adicional "Las plantas, proceden de un Estado Miembro (indicar país) que ha llevado a cabo inspecciones anuales para la detección de Xylella fastidiosa y se encuentra libre de esta plaga mediante análisis (especificar método de diagnóstico) a plantas madres en el momento óptimo de detección de la plaga".
 
+Disposición transitoria:
+
+En relación a la declaración adicional sobre la plaga Xylella fastidiosa establecida en el Resuelvo 1, numeral 1.2, para la especie Prunus davidiana, esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
+
 Anótese, comuníquese y publíquese.- Víctor Venegas Venegas, Director Nacional.

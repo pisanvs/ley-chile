@@ -60,4 +60,8 @@ Para tal efecto el importador deberá contar con la autorización del lugar de C
 
 7. Además de lo dispuesto en la presente resolución, en la importación del material deberá cumplirse con las normas establecidas en las siguientes resoluciones del Servicio Agrícola y Ganadero: Nº 3.080 de 2003; Nº 3.815 de 2003; Nº 2.878 de 2004; Nº 3.280 de 1999 y Nº 2.863 de 2001.
 
+Disposición transitoria:
+
+En relación a la declaración adicional sobre la plaga Xylella fastidiosa establecida en el Resuelvo 1, numeral 1.3, para la especie Juglans regia, esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
+
 Comuníquese, anótese y publíquese.- Dionisio Faulbaum Mayorga, Director Nacional.
