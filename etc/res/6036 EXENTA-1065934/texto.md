@@ -48,4 +48,8 @@ Resuelvo:
 
 9. Derógase la resolución exenta del Servicio Agrícola y Ganadero Nº 93, de 2014.
 
+Disposición transitoria:
+
+En relación a la declaración adicional sobre la plaga Xylella fastidiosa establecida en el Resuelvo 2, numeral 2.2, para la especie Juglans hindsii, esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
+
 Anótese, comuníquese y publíquese.- Ángel Sartori Arellano, Director Nacional (TyP).

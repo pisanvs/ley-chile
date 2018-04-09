@@ -136,4 +136,8 @@ a lo establecido en la resolución Nº 3.280 de
 
 7. Para los Materiales Modificados Genéticamente el importador deberá declarar su condición genética y cumplir con las normativas del Servicio Agrícola y Ganadero, que establecen los requisitos para la internación e introducción al medio ambiente de estos materiales.
 
+Disposición transitoria:
+
+En relación a la declaración adicional sobre la plaga Xylella fastidiosa establecida en el Resuelvo 1, numeral 1.6, para la especie Olea europea subsp. europea, esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
+
 Anótese, comuníquese y publíquese.- Oscar Enrique Concha Díaz, Director Nacional (S).

@@ -670,4 +670,8 @@ VER DIARIO OFICIAL DE 11.11.2002, PAGINA 4
 
 12. La presente resolución entrará en vigencia 60 días después de su publicación en el Diario Oficial
 
+Disposición transitoria:
+
+En relación a la declaración adicional sobre la plaga Xylella fastidiosa, para la especie Ranunculus repens, esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
+
 Anótese, comuníquese y publíquese.- Carlos Parra Merino, Director Nacional

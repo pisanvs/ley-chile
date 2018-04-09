@@ -580,4 +580,8 @@ botrana (Lep: Tortricidae).
 
 > **Nota.** NOTA 1 El N° 1 de la Resolución 1512 Exenta, Agricultura, publicada el 26.03.2014, modifica la presente norma, en el sentido de eliminar en su numeral 1.2, especie Punica granatum (granado) la declaración adicional a certificar correspondiente al hongo Coniella granati, quedando como la citada resolución indica.
 
+Disposición transitoria:
+
+En relación a la declaración adicional sobre la plaga Xylella fastidiosa establecida en el Resuelvo 1, numeral 1.2, para las especies Vaccinium corymbosum y Persea americana, esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
+
 Comuníquese, anótese y publíquese.- Francisco Bahamonde Medina, Director Nacional.

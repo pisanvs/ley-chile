@@ -48,8 +48,6 @@ Resuelvo:
 
 > **Nota.** NOTA 1 El N° 1 de la resolución 6726 Exenta, Agricultura, publicada el 11.11.2017, modifica la presente norma en el sentido de agregar en su resuelvo 2, en en el punto 2.2., para la especie Cerezo (Prunun avium), plantas, estacas y ramillas, una nueva viñeta en la declaración adicional: "El material vegetal procede de plantas madres que fueron inspeccionadas y analizadas mediante (especificar técnica de diagnóstico) en el momento óptimo para la detección de la plaga, y encontradas libres de Xylella fastidiosa."
 
-> **Nota.** NOTA 2 El numeral N° 10 de la Resolución 7501 Exenta, Agricultura, publicada el 17.11.2020, modifica los requisitos fitosanitarios de importación para plantas, estacas y ramillas de Cerezo (Prunus avium), procedentes de Canadá, la segunda viñeta por la siguiente frase: "Las plantas, estacas o ramillas derivan de plantas madres que fueron inspeccionadas y analizadas por (especificar los protocolos o métodos de diagnóstico para cada caso) en el momento óptimo para la detección de las plagas y encontradas libres de Cherry leaf roll virus, Cherry rasp leaf virus, Little cherry virus, Raspberry ringspot virus, Tomatobushy stunt virus, Peach X-disease phytoplasma, Pseudomonas syringae pv. morsprunorum y Xanthomonas arboricola pv . pruni".
-
 Disposición transitoria:
 
 En relación a la declaración adicional sobre la plaga Xylella fastidiosa establecida en el Resuelvo 2, numeral 2.2 para la especie Prunus avium esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
