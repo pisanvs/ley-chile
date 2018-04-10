@@ -128,13 +128,11 @@ comuna de Villarrica, IX
 
 Región.
 
-- Coordenadas Geográficas : 39° 27' 15" Latitud Sur
+- Coordenadas Geográficas : 39° 27' 25'' Latitud Sur
 
-72° 10' 22" Longitud
+72° 10' 25'' Longitud Oeste
 
-Oeste
-
-Datum: Provisorio
+Datum: WGS 84
 
 Sudamericano 1956.
 
