@@ -322,6 +322,18 @@ requieran de otras autoridades.
 
 que afecten el interés fiscal.
 
+3.6.- Abonos de años de servicios para los efectos
+
+del retiro, por accidente en acto propio de sus funciones,
+
+al personal de Gendarmería de Chile.
+
+3.7.- Suscripción de convenios de colaboración y
+
+cooperación con organismos públicos y privados, nacionales
+
+o internacionales, dentro del ámbito de sus competencias.
+
 #### Artículo 2º
 
 Derogáse a contar de la fecha de publicación en el Diario Oficial del presente decreto, el decreto supremo Nº 1.723 de 1978, del Ministerio de Justicia, y sus modificaciones.
