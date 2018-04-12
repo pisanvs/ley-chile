@@ -12,15 +12,11 @@ Decreto:
 
 #### Artículo único
 
-Declárase Zona Típica la Plaza de Armas, el Congreso Nacional y su entorno, en la comuna de Santiago, provincia de Santiago, Región Metropolitana. El sector se encuentra incluido dentro de los límites siguientes:
+Declárase Zona Típica la Plaza de Armas, el Congreso Nacional y su entorno, en la comuna y provincia de Santiago, Región Metropolitana, de acuerdo al polígono de protección 1- 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 19 - 20 - 21 - 22 - 23 - 24 - 25 - 26 - 27 - 28 - 29 - 30 - 31 - 32 - 33 - 34 - 35 - 36 - 37 - 38 - 39 - 40 - 41 - 42 - 43 - 44 - 45 - 46 - 47 - 48 - 49 - 50 - 51 - 52 - 53 - 54 - 55 - 56 - 57 - 58 - 59 - 60 - 61 - 62 - 1, que a continuación se indica como consta en el plano adjunto N° 026-2017, de 13/12/2017, visado por el Consejo de Monumentos Nacionales y que forma parte del presente decreto:
 
-Norte: Eje de calle Rosas desde esquina 21 de Mayo al Pomente 130 m. aprox. hasta eje calle Puente, siguiendo al Sur por ésta aprox. 80 m.; luego al Poniente por deslinde de propiedad 45 m. aprox., siguiendo al Sur por deslindes 120 m. aprox., al Poniente por deslindes en línea quebrada 165 m., luego al Norte hasta eje calle Santo Domingo 60 m., siguiendo por ésta al Poniente hasta eje calle Morandé.
+.
 
-Sur: Eje calle Los Serenos hacia el Oriente por deslinde Sur de edificio El Mercurio hasta eje calle Morandé, al Sur por ésta 20 m. aprox., siguiendo al Oriente por deslinde Sur del edificio de los Tribunales de Justicia hasta eje calle Bandera, al Norte por ésta 20 m., y al Oriente por deslinde Sur del Museo de Arte Precolombino hasta eje calle Ahumada, siguiendo al Oriente en línea quebrada por deslinde Sur del edificio Portal Fernández Concha, edificio Comercial Edwards y Casa Colorada.
-
-Oriente: Eje calle 21 de Mayo desde eje calle Rosas al Sur 260 m. aprox. hasta eje calle Monjitas, siguiendo por éste al Oriente 60 m. aprox, luego al Sur en línea recta por deslindes de propiedades 195 m. aprox. hasta límite Sur Oriente de Casa Colorada.
-
-Poniente: Eje calle Morandé con Santo Domingo al Sur 60 m., siguiendo al Poniente por deslindes 38 m. aprox. y al Sur en línea quebrada 130 m., luego al Poniente en línea recta por deslindes 55 m., bajando al Sur por límite predial hasta eje calle Compañía, luego al Oriente hasta eje calle Los Serenos y por éste al Sur 65 m. aprox.
+El área del polígono de protección tiene una superficie de 156.166 mts.2".
 
 Anótese, tómese razón y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- René Salamé Martin, Ministro de Educación Pública subrogante.
 
