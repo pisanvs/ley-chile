@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO PENSIÓN BÁSICA SOLIDARIA DE VEJEZ (PBSV)"
+
+Por resolución exenta N° 122, de 19 de marzo de 2018, el Director Nacional del Instituto de Previsión Social, aprobó el "Procedimiento Pensión Básica Solidaria de Vejez (PBSV)", cuyo objetivo es constituir material de apoyo a los Centros de Atención Previsional Integral (Capri) y Canal de Atención no Presencial (Call Center) del IPS, para la tramitación del Beneficio Pensión Básica Solidaria de Vejez, al que pueden acceder las personas que no tengan derecho a pensión en algún régimen previsional y que cumplan con los requisitos de edad, focalización y residencia, establecidos por la ley 20.255.
+
+Santiago, 5 de abril de 2018.- Patricio Coronado Rojo, Director Nacional.
