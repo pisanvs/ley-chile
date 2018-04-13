@@ -1,0 +1,5 @@
+APRUEBA CONVENIO DE COLABORACIÓN DE TRANSFERENCIA DE INFORMACIÓN EN EL MARCO DE LA LEY N° 21.015, QUE INCENTIVA LA INCLUSIÓN DE PERSONAS CON DISCAPACIDAD AL MUNDO LABORAL, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL
+
+Por resolución exenta N° 120, de 15 de marzo de 2018, el Director Nacional del Instituto de Previsión Social, aprobó el Convenio de Colaboración de Transferencia de Información en el Marco de la ley 21.015, que incentiva la Inclusión de Personas con Discapacidad al Mundo Laboral, que tiene por objeto establecer el procedimiento de transferencia a la Suseso de la información administrada por el IPS, respecto de las personas que sean asignatarias de una pensión de invalidez, en cumplimiento de lo dispuesto en el N° 1 del artículo 6° de la ley N° 21.015.
+
+Santiago, 5 de abril de 2018.- Patricio Coronado Rojo, Director Nacional.
