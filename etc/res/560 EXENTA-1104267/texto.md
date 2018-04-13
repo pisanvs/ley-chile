@@ -30,7 +30,7 @@ Resolución:
 
 1º. Desígnase como Jefe del Departamento de Planificación y Control de Gestión a doña Ivonne Negrete Cuevas, profesional a contrata, asimilado a grado 4º de la planta de personal de la Superintendencia del Medio Ambiente.
 
-2º. Establécese que durante la ausencia, impedimento o vacancia del cargo de jefe del Departamento de Planificación y Control de Gestión, la subrogancia será ejercida por don Cristian Garay Vergara, profesional a contrata, asimilado a grado 10 de la planta de personal de la Superintendencia del Medio Ambiente.
+2°. Establécese que durante la ausencia, impedimento o vacancia del cargo de jefe del Departamento de Planificación y Control de Gestión, la subrogancia será ejercida por don Javier Alfonso Sáez Rojas, profesional a contrata, asimilado a grado 11 de la planta de personal de la Superintendencia del Medio Ambiente
 
 3º. Asígnanse funciones directivas a la funcionaria individualizada en el punto resolutivo primero de este acto administrativo, a fin que ejerza las funciones que corresponden al Departamento de Planificación y Control de Gestión, consignadas en la resolución exenta Nº 424, de 2017, que fija la organización interna de la Superintendencia del Medio Ambiente, así como todas aquellas que expresamente le corresponde desarrollar en su calidad de jefatura, de acuerdo a la legislación vigente y las demás que le encomiende o delegue el jefe superior del Servicio.
 
