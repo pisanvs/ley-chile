@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.578 EXENTA, DE 12 DE MARZO DE 2018
+
+Por resolución exenta Nº 1.578, de fecha de 12 de marzo de 2018, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Fórmula Uno", RUT Nº 15.584.240-7, cuyo propietario y director es el señor Gerardo Javier Maldonado Carmona, RUT Nº 15.584.240-7, ubicada en El Tranque Nº 832, comuna de Pudahuel. Horas pedagógicas autorizadas a la referida Escuela son diez horas teóricas y doce horas prácticas, con un total de veintidós horas pedagógicas.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago (S).
