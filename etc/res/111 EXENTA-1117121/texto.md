@@ -1,0 +1,5 @@
+SE FORMALIZA EL TÉRMINO DE CONTRATO DE COMODATO ENTRE EL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN Y EL INSTITUTO DE PREVISIÓN SOCIAL, RESPECTO DEL INMUEBLE DE PROPIEDAD DE ESTE INSTITUTO UBICADO EN CALLE AVENIDA JOSÉ MIGUEL CARRERA N° 4610, DE LA COMUNA DE SAN MIGUEL, CIUDAD DE SANTIAGO, SUSCRITO EL 14.10.1987
+
+Por resolución exenta N° 111, de fecha 12 de marzo de 2018, el Director Nacional del Instituto de Previsión Social, formaliza a contar del 5 de diciembre de 2016 el término del Contrato de Comodato suscrito entre el Servicio de Registro Civil e Identificación y el ex Instituto de Normalización Previsional, aprobado mediante resolución exenta N° 287, de 02.12.1987 y modificado por resolución exenta N° 61, de 12.03.1991.
+
+Santiago, 5 de abril de 2018.- Patricio Coronado Rojo, Director Nacional.
