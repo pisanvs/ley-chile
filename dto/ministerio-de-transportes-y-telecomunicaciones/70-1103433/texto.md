@@ -50,6 +50,126 @@ Decreto:
 
 3.- Facúltase a la concesionaria para instalar, operar y explotar la estación de radiodifusión sonora en frecuencia modulada, señal distintiva XQC-655, cuyos elementos de la esencia de la concesión, características técnicas y ubicación de las instalaciones de la radioemisora serán los que a continuación se indican:
 
+ELEMENTOS DE LA ESENCIA DE LA CONCESIÓN
+
+- Tipo de servicio : Radiodifusión Sonora en
+
+Frecuencia Modulada.
+
+- Zona de servicio : Localidad de Navidad,
+
+VI Región.
+
+Superficie delimitada por
+
+una intensidad de campo
+
+mayor o igual que 54 dB
+
+(µV/m), referida al punto
+
+de emisión de la señal.
+
+- Período de la concesión : 25 años.
+
+- Plazo inicio de obras : 15 días.
+
+- Plazo término de obras : 30 días.
+
+- Plazo inicio de transmisiones : 60 días.
+
+- Potencia : 150 W.
+
+- Frecuencia : 91,9 MHz.
+
+CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
+
+- Tipo de emisión : 180KF8EHF
+
+- Desviación máxima : ±75 kHz
+
+- Diagrama de Radiación : Direccional.
+
+- Ganancia : 9,41 dBd de ganancia máxima.
+
+- Polarización : Vertical.
+
+- Tipo de antenas : Log Periódica de 5 elementos.
+
+- Nº Antenas : 4.
+
+- Altura del centro de
+
+radiación : 25 m.
+
+- Pérdidas en cables,
+
+conectores y otros : 3,27 dB.
+
+- Diagrama de radiación horizontal de acuerdo a la siguiente tabla:
+
+.
+
+UBICACIÓN DE LAS INSTALACIONES
+
+- Ubicación del Estudio :Ruta G-888, km 1, Cuesta
+
+El Cristo, comuna de
+
+Navidad, VI Región.
+
+- Coordenadas Geográficas :33º 57' 29" Latitud Sur.
+
+71º 49' 56" Longitud Oeste.
+
+Datum WGS84.
+
+- Ubicación de la Planta
+
+Transmisora y Sistema Radiante :Cerro Centinela S/Nº,
+
+comuna de Navidad,
+
+VI Región.
+
+- Coordenadas Geográficas :33º 57' 21" Latitud Sur.
+
+71º 51' 00" Longitud Oeste.
+
+Datum WGS84.
+
+CARACTERÍSTICAS TÉCNICAS DEL RADIOENLACE ESTUDIO - PLANTA
+
+TRANSMISORA
+
+- Frecuencia :325,0 MHz.
+
+- Potencia :10 W.
+
+- Ganancia :8 dBd.
+
+- Polarización :Horizontal.
+
+- Tipo emisión :180KF8EHF.
+
+- Antena :Yagi de 4 elementos,
+
+abertura lóbulo
+
+principal 70º.
+
+- Coordenadas etapa transmisora :33º 57' 29" Latitud Sur.
+
+71º 49' 56" Longitud Oeste.
+
+Datum: WGS84.
+
+- Coordenadas etapa receptora :33º 57' 21" Latitud Sur.
+
+71º 50' 42" Longitud Oeste.
+
+Datum: WGS84.
+
 4.- Los plazos de inicio y término de obras, de inicio de servicio, se contarán a partir de la publicación en el Diario Oficial del presente decreto.
 
 5.- El presente decreto de otorgamiento deberá publicarse en el Diario Oficial dentro del plazo de 30 días hábiles, contados desde que la Subsecretaría le notifique a la concesionaria que el decreto fue totalmente tramitado por la Contraloría General de la República. La no publicación de éste dentro del plazo indicado, producirá la extinción de la concesión por el solo ministerio de la Ley.
