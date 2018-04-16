@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº15, de 26 de enero de 2018, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, lo señalado en el artículo 12º de la Ley Nº 18.777, se expropió para ECONSSA CHILE S.A. el lote de terreno Nº 1-A, para la obra: CONSTRUCCIÓN PTAS Y RED BÁSICA, que figura a nombre de SÁNCHEZ ROJAS JOSÉ MANUEL, rol de avalúo 46-11, Comuna de LICANTEN, REGIÓN DEL MAULE, superficie 398,06 m2. La Comisión de Peritos integrada por CLAUDIA VERÓNICA POBLETE RAMÍREZ, ALVARO HERNÁN VERGARA MEJÍAS y MARÍA CAROLINA LETELIER BOPP, mediante informe de tasación de 19 de diciembre de 2016, fijó el monto de la indemnización provisional en la cantidad de $30.250.000 para el lote Nº1-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
