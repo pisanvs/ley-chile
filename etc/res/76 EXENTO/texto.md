@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (E) N° 76 de 26 de marzo de 2018 y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 14° letra e) del D.F.L. M.O.P. N° 850, de 1997 que fijó el texto actualizado de la Ley N° 15.840 y D.F.L. MOP N° 206 de 1960; artículo 10 de la Ley N° 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A., el lote de terreno N° 28EL2 necesario para la obra: PROYECTO EXTENSION LINEA 2, SECTOR: AV. PADRE ALBERTO HURTADO, que figura a nombre de INVERSIONES SANTA FIDELMIRA S A, rol de avalúo 44-15, comuna de LA CISTERNA, Región Metropolitana de Santiago, superficie 863,93 m2. La comisión de peritos, integrada por los señores RICARDO ANTONIO STRICKLER ARELLANO, PATRICIA VERÓNICA ZAVALA CONTRERAS y JAIME ROLANDO JURGENS BITTNER, con fecha 26 de diciembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $513.188.990.- para el lote N° 28EL2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
