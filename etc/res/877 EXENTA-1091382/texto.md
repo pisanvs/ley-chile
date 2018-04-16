@@ -30,11 +30,11 @@ Resuelvo:
 
 1.- Establécese que la dirección del Proyecto "Modernización de los Procesos de Fiscalización y Gestión de los Servicios a los Usuarios de la Dirección del Trabajo", estará a cargo del Subdirector del Trabajo, a quien en su calidad de Director del Proyecto, le corresponderá:
 
-a.- Informar al Director del Trabajo, los procedimientos, desarrollos y avances del equipo responsable del Proyecto Hacienda-Banco Interamericano de Desarrollo, de "Modernización de los Procesos de Fiscalización y Gestión de los Servicios a los Usuarios de la Dirección del Trabajo".
+a.- Liderar y supervisar los procedimientos, desarrollos y avances del equipo responsable del proyecto Hacienda-Banco Interamericano del Desarrollo, de "Modernización de los Procesos de Fiscalización y Gestión de los Servicios a los Usuarios de la Dirección del Trabajo".
 
-b.- Orientar y coordinar en materias de información, normas y procedimientos al equipo interno denominado "Equipo Directivo del Proyecto" y "Comité de Expertos Externos".
+b.- Conducir y coordinar en materias de información, normas y procedimientos al equipo interno denominado "Equipo Directivo del Proyecto" y "Comité de Expertos Externos".
 
-c.- Gestionar y coordinar las actividades realizadas por la Unidad Coordinadora del Proyecto, en la instalación del sistema de gestión de los servicios a los/as usuarios/as; rediseño del modelo y procesos de trabajo de fiscalización y conciliación; consolidación y aumento de las capacidades de la plataforma tecnológica de la Dirección del Trabajo y fortalecimiento de la capacidad de gestión estratégica de la Dirección del Trabajo.
+c.- Supervisar las actividades realizadas por la Unidad Coordinadora del Proyecto, en la instalación del sistema de gestión de los servicios a los/as usuarios/as; rediseño del modelo y procesos de trabajo de fiscalización y conciliación; consolidación y aumento de las capacidades de la plataforma tecnológica de la Dirección del Trabajo y fortalecimiento de la capacidad de gestión estratégica de la Dirección del Trabajo.
 
 d.- Coordinar todas las acciones que sean necesarias para subsanar situaciones que atenten contra la más eficiente ejecución del Proyecto.
 
