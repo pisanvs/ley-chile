@@ -1,6 +1,6 @@
 DELEGA FACULTADES EN JEFATURA DE DIVISIÓN DE CONCESIONES
 
-Núm. 4.555 exenta.- Santiago, 11 de diciembre de 2018.
+Núm. 4.555 exenta.- Santiago, 11 de diciembre de 2017.
 
 Vistos:
 
