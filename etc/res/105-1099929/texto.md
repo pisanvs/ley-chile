@@ -36,11 +36,15 @@ Resuelvo:
 
 2. Otorgamiento, modificación o terminación de concesiones marítimas y acuícolas.
 
-### 3. Expulsi�n de extranjeros
+### 3. Expulsión de extranjeros
 
 4. Oficios que se abstienen de revisar la legalidad de los actos administrativos por tratarse de materias exentas de torna de razón.
 
 5. Autorización para la entrada de tropas extranjeras en el territorio de la República y para la salida de tropas nacionales fuera del mismo, regulados en los artículos 2º y 5º de la ley Nº 19.067.
+
+6. Aprobación y modificación de aportes o transferencias de recursos, con o sin convenio, del Ministerio de Educación al sector privado o a entidades públicas, incluyendo universidades, fundaciones, institutos, y establecimientos educaciones de enseñanza básica, media y técnica.
+
+7. Delegaciones de firma y de facultades, en materias de competencia de la División Jurídica, en la medida que no se encuentren suscritas por el Presidente de la República.
 
 3.- Delégase en los Jefes de Comité de la División Jurídica la facultad de firmar "Por orden del Contralor General", los oficios que a continuación se indican:
 
