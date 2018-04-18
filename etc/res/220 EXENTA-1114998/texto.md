@@ -150,7 +150,7 @@ Carlos Melo Riquelme, Subsecretario de Transportes; Omar Jara Aravena, Subsecret
 
 Existen firmas ilegibles de don Carlos Melo Riquelme y don Omar Jara Aravena al pie del convenio.".
 
-2.- Impútese el gasto que irrogue el pago referido al presupuesto vigente de este Ministerio para el año 2017, de acuerdo al siguiente detalle: Subtítulo 22: Bienes y Servicios de Consumo, Ítem 09; Asignación 002: Arriendo de Edificios.
+2.- Impútese el gasto que irrogue el pago referido a los fondos transferidos por la Subsecretaría de Transportes, por el concepto de "Administración de Fondos".
 
 Anótese, comuníquese y publíquese.- Cristián Arancibia Santibáñez, Subsecretario General de Gobierno (S).
 
