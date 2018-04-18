@@ -16,13 +16,15 @@ Objetivos, Funciones y Atribuciones
 
 Créase el Ministerio de Desarrollo Social como la Secretaría de Estado encargada de colaborar con el Presidente de la República en el diseño y aplicación de políticas, planes, y programas en materia de equidad y/o desarrollo social, especialmente aquellas destinadas a erradicar la pobreza y brindar protección social a las personas o grupos vulnerables, promoviendo la movilidad e integración social y la participación con igualdad de oportunidades en la vida nacional.
 
+Asimismo, el Ministerio de Desarrollo Social velará por los derechos de los niños con el fin de promover y proteger su ejercicio de acuerdo con el Sistema de Garantías de Derechos de la Niñez y en conformidad con la Constitución Política de la República y las leyes.
+
 El Ministerio de Desarrollo Social velará por la coordinación, consistencia y coherencia de las políticas, planes y programas en materia de equidad y/o desarrollo social, a nivel nacional y regional. Asimismo, el Ministerio de Desarrollo Social velará por que dichos planes y programas se implementen en forma descentralizada o desconcentrada, en su caso.
 
 El Ministerio de Desarrollo Social tendrá a su cargo la administración, coordinación, supervisión y evaluación de la implementación del Sistema Intersectorial de Protección Social creado por la ley N° 20.379, velando por que las prestaciones de acceso preferente o garantizadas que contemplen los subsistemas propendan a brindar mayor equidad y desarrollo social a la población en el marco de las políticas, planes y programas establecidos.
 
 Corresponderá también a este Ministerio evaluar las iniciativas de inversión que solicitan financiamiento del Estado, para determinar su rentabilidad social, velando por la eficacia y eficiencia del uso de los fondos públicos, de manera que respondan a las estrategias y políticas de crecimiento y desarrollo económico y social que se determinen para el país.
 
-Asimismo, el Ministerio de Desarrollo Social velará por la participación de la sociedad civil en las materias de su competencia, en especial, aquellas dirigidas a personas o grupos vulnerables.
+Asimismo, el Ministerio de Desarrollo Social velará por la participación de la sociedad civil en las materias de su competencia, en especial, aquellas dirigidas a personas o grupos vulnerables, y niños.
 
 El Ministerio de Desarrollo Social procurará mantener información a disposición de la sociedad respecto al acceso y mantención de los programas sociales a que se refiere esta ley.
 
@@ -138,6 +140,32 @@ x) Las demás funciones y atribuciones que la ley le encomiende.
 
 Lo dispuesto en las letras a), o), p), q) y r) precedentes no será aplicable al Servicio Nacional de la Mujer.
 
+#### Artículo 3° bis
+
+El Ministerio velará por los derechos de los niños, para cuyo efecto tendrá las siguientes funciones y atribuciones:
+
+a) Asesorar al Presidente de la República en las materias relativas a la promoción y protección integral de los derechos de los niños.
+
+b) Proponer al Presidente de la República la Política Nacional de la Niñez y su Plan de Acción, informar sobre su ejecución y recomendar las medidas correctivas que resulten pertinentes, según lo dispuesto en la letra a) del artículo 16 bis.
+
+c) Administrar, coordinar y supervisar los sistemas o subsistemas de gestión intersectorial que tengan por objetivo procurar la prevención de la vulneración de los derechos de los niños y su protección integral, en especial, la ejecución o la coordinación de acciones, prestaciones o servicios especializados orientados a resguardar los derechos de los niños y de las acciones de apoyo destinadas a los niños, a sus familias y a quienes componen su hogar, definidas en la Política Nacional de la Niñez y su Plan de Acción, el que deberá contener los programas, planes y acciones que incluirá en su ejecución, sin perjuicio de las competencias que tengan otros organismos públicos.
+
+d) Impulsar acciones de difusión, capacitación o sensibilización destinadas a la prevención de la vulneración de los derechos de los niños y a su promoción o protección integral.
+
+e) Promover el fortalecimiento de la participación de los niños en todo tipo de ámbitos de su interés, respetando el derecho preferente de sus padres de orientación y guía, considerando, además, su edad y madurez.
+
+f) Colaborar en las funciones señaladas en las letras e); s), párrafo primero; t), y w) del artículo 3° a fin de incorporar las adaptaciones necesarias para la medición y seguimiento de las condiciones de vida de los niños.
+
+g) Desarrollar estudios e investigaciones sobre la niñez, entre otros. Adicionalmente, elaborar un informe anual sobre el estado general de la niñez a nivel nacional y regional. En dicho informe deberá realizar, si corresponde, recomendaciones para avanzar en la implementación efectiva de un sistema de protección integral de los derechos de los niños.
+
+h) Colaborar con el Ministerio de Relaciones Exteriores, dentro del ámbito o esfera de sus competencias respectivas, en la elaboración de los informes vinculados a los derechos de los niños y sus familias, que el Estado de Chile deba presentar a los órganos y comités especializados de la Organización de las Naciones Unidas y de la Organización de Estados Americanos, en especial, al Comité de los Derechos del Niño.".
+
+#### Artículo 3° ter
+
+Un reglamento dictado por el Ministerio de Desarrollo Social y suscrito, además, por los Ministros de Hacienda y de Justicia y Derechos Humanos fijará estándares para los organismos colaboradores y los programas de las líneas de acción contempladas en el numeral 3) del artículo 4° de la ley N° 20.032, sea que dichos programas se ejecuten por los mencionados organismos colaboradores o directamente por órganos del Estado. Para tales efectos, la Subsecretaría de la Niñez será la encargada de proponer los mencionados estándares.
+
+Este reglamento no será aplicable para los programas de reinserción para adolescentes infractores de la ley penal.
+
 ### Párrafo 2°
 
 De la Organización
@@ -152,7 +180,9 @@ b) La Subsecretaría de Evaluación Social.
 
 c) La Subsecretaría de Servicios Sociales.
 
-d) Las Secretarías Regionales Ministeriales de Desarrollo Social.
+d) La Subsecretaría de la Niñez.
+
+e) Las Secretarías Regionales Ministeriales de Desarrollo Social.
 
 Un reglamento expedido por el Ministerio de Desarrollo Social determinará la estructura organizativa interna del Ministerio, de conformidad a lo dispuesto en la ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
 
@@ -164,13 +194,21 @@ La Subsecretaría de Evaluación Social estará a cargo del Subsecretario de Eva
 
 #### Artículo 6°
 
-La Subsecretaría de Servicios Sociales estará a cargo del Subsecretario de Servicios Sociales, quien será su jefe superior. En particular le corresponderá colaborar especialmente con el Ministro en el ejercicio de las funciones establecidas en las letras ñ), o), p), q), r), s) y u) del artículo 3°. Le corresponderá, además, la coordinación de los servicios públicos dependientes y de los sometidos a la supervigilancia del Presidente de la República por medio del Ministerio de Desarrollo Social.
+La Subsecretaría de Servicios Sociales estará a cargo del Subsecretario de Servicios Sociales, quien será su jefe superior. En particular le corresponderá colaborar especialmente con el Ministro en el ejercicio de las funciones establecidas en las letras ñ) a excepción del Subsistema de Protección Integral a la Infancia "Chile Crece Contigo", establecido en el Título II de la ley N° 20.379, o), p), q), r), s) y u) del artículo 3°. Le corresponderá, además, la coordinación de los servicios públicos dependientes y de los sometidos a la supervigilancia del Presidente de la República por medio del Ministerio de Desarrollo Social.
 
 La Subsecretaría de Servicios Sociales tendrá también a su cargo la dirección administrativa de las Secretarías Regionales Ministeriales de Desarrollo Social y la administración y servicio interno del Ministerio.
 
+#### Artículo 6° bis
+
+La Subsecretaría de la Niñez estará a cargo del Subsecretario de la Niñez, quien será su jefe superior. En particular, le corresponderá colaborar con el Ministro en el ejercicio de las funciones contenidas en las letras a) y ñ), especialmente en lo relacionado con el Subsistema de Protección Integral a la Infancia "Chile Crece Contigo", y en las letras e), t), u) y w), todas del artículo 3°, sólo en las materias vinculadas a la niñez. Le corresponderá, además, colaborar con el Ministro en el ejercicio de las funciones establecidas en el artículo 3º bis.
+
 #### Artículo 7°
 
-El Ministro de Desarrollo Social será subrogado, en primer orden, por el Subsecretario de Evaluación Social. En caso de ausencia o impedimento de éste, el Ministro será subrogado por el Subsecretario de Servicios Sociales. Lo anterior, sin perjuicio de la facultad del Presidente de la República para nombrar como subrogante a otro Secretario de Estado.
+El Ministro de Desarrollo Social será subrogado, en primer orden, por el Subsecretario de Evaluación Social. En caso de ausencia o impedimento de éste, el Ministro será subrogado por el Subsecretario de Servicios Sociales. En caso de ausencia o impedimento del Subsecretario de Servicios Sociales, subrogará al Ministro de Desarrollo Social el Subsecretario de la Niñez.
+
+Sin embargo, en caso de ausencia o impedimento del Ministro de Desarrollo Social para presidir el Comité Interministerial de Desarrollo Social de la Niñez en los casos del artículo 16 bis, lo subrogará el Subsecretario de la Niñez.
+
+Lo anterior, sin perjuicio de la facultad del Presidente de la República para nombrar como subrogante a otro Secretario de Estado.
 
 #### Artículo 8°
 
@@ -199,6 +237,8 @@ i) Colaborar, a solicitud de las municipalidades, en la evaluación de las inici
 j) Colaborar, a solicitud de las municipalidades, en la capacitación de sus funcionarios en el diseño y formulación de proyectos de inversión y programas sociales.
 
 k) Colaborar, a petición de las municipalidades, dentro de sus posibilidades y en las materias que competen al Ministerio de Desarrollo Social, en la elaboración y armonización del Plan Comunal de Desarrollo que exige la letra a) del artículo 3° del decreto con fuerza de ley N° 1, del Ministerio del Interior, de 2006, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.695, Orgánica Constitucional de Municipalidades.
+
+l) Colaborar con la Subsecretaría de la Niñez en la coordinación de la implementación a nivel regional de la Política Nacional de la Niñez y su Plan de Acción, del Subsistema de Protección Integral a la Infancia "Chile Crece Contigo", creado por la ley N° 20.379, y en las demás funciones que le corresponden conforme con la presente ley..
 
 ### Párrafo 3°
 
@@ -282,7 +322,33 @@ El Comité Interministerial de Desarrollo Social podrá sesionar en las dependen
 
 Los acuerdos del Comité Interministerial de Desarrollo Social que deban materializarse mediante actos administrativos que, conforme al ordenamiento jurídico, deben dictarse por una Secretaría de Estado, serán expedidos por el Ministerio de Desarrollo Social.
 
+#### Artículo 16 bis
+
+El Comité Interministerial de Desarrollo Social pasará a denominarse "Comité Interministerial de Desarrollo Social de la Niñez" cuando le corresponda conocer de las materias establecidas en el artículo 1°, relacionadas con los derechos de los niños, y en el artículo 3° bis. Sin perjuicio de las atribuciones que de conformidad a esta ley le correspondan, el Comité tendrá las siguientes funciones:
+
+a) Aprobar la propuesta de Política Nacional de la Niñez y su Plan de Acción, y sus actualizaciones, presentadas por la Subsecretaría de la Niñez.
+
+b) Acordar mecanismos de coordinación y articulación de las acciones de los órganos de la Administración del Estado, en sus diferentes niveles, en materia de infancia, velando por su pertinencia e integridad de acuerdo a la Política Nacional de la Niñez y su Plan de Acción.
+
+c) Aprobar las directrices, orientaciones e instrumentos necesarios para garantizar la protección integral de los derechos de la niñez en conformidad con la Constitución y las leyes.
+
+d) Conocer los informes anuales elaborados por la Subsecretaría de la Niñez sobre el estado general de la niñez a nivel nacional y regional.
+
+El Comité Interministerial de Desarrollo Social, para efectos de constituirse en Comité Interministerial de Desarrollo Social de la Niñez, se conformará por los Ministros señalados en el artículo 12 de la presente ley, incorporándose, además, los Ministros de Justicia y Derechos Humanos y del Deporte.
+
+El Comité así constituido requerirá un quórum de cinco miembros para sesionar. Los acuerdos serán vinculantes y se adoptarán por la mayoría absoluta de los asistentes. En caso de empate decidirá el voto del ministro presidente, o de quien lo reemplace.
+
 ## Título III
+
+Del Consejo de la Sociedad Civil de la Niñez
+
+#### Artículo 16 ter
+
+De conformidad a lo establecido en la ley N° 20.500, sobre asociaciones y participación ciudadana en la gestión pública, existirá un Consejo de la Sociedad Civil de la Niñez que será especialmente oído en las materias establecidas en las letras b) y g) del artículo 3° bis de esta ley.
+
+Los miembros del Consejo señalado en este artículo ejercerán sus funciones ad honorem.
+
+## Título IV
 
 DISPOSICIONES FINALES
 
