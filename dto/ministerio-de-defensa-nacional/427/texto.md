@@ -72,7 +72,7 @@ Las letras bancarias y los vales vistas dados en pago de tarifas o derechos debe
 
 <!-- parte:9050178 -->
 
-Toda orden de ingreso girada por la Autoridad Marítima deberá ser pagada dentro del plazo que en ella se indique, el que no podrá exceder de 5 días hábiles a contar de su emisión. En caso de mora, el usuario estará afecto a un interés del 0,5 por ciento por cada día de atraso y hasta la fecha de pago efectivo.
+Toda orden de ingreso girada por la Autoridad Marítima deberá ser pagada dentro del plazo en que ella se indique, el que no podrá exceder de 10 días hábiles a contar de su emisión. En caso de mora, el usuario estará afecto a un interés penal del 0.05 por ciento por cada día de atraso y hasta la fecha del pago efectivo.
 
 Transcurrido 30 días contados desde el vencimiento del pago sin que éste se hubiere efectuado, el Director podrá proceder a su cobro ejecutivo, y si así lo determinare, se aplicará el procedimiento indicado en el Título V del Libro III del Código Tributario.
 
@@ -792,6 +792,10 @@ f) Atraso en la presentación de la solicitud: Se pagará US$ 36 por cada hora d
 
 La antelación mínima para la presentación de la solicitud de pilotaje será de 72 horas, salvo que el puerto de embarco se ubique en la V Región o se trate de un pilotaje local, en que se reducirá a 48 horas.
 
+g) Extensión de la permanencia a bordo: Se pagará a cada Práctico nominado US$46,72 por cada hora transcurrida, cuando a petición expresa del agente de la nave o por disposición de la Autoridad Marítima, por seguridad de la nave, el o los Prácticos deban permanecer a bordo, luego de haber prestado íntegramente el servicio de pilotaje.
+
+Para efectos de la aplicación de los montos y tiempos mencionados en este artículo se considerará cada hora transcurrida o fracción superior a treinta minutos de cada caso o evento.
+
 #### Artículo 312
 
 <!-- parte:9050211 -->
@@ -834,7 +838,7 @@ c) El 80% de la Tarifa Global del tramo Ancud/Laitec/Puerto Montt - Puertos en C
 
 <!-- parte:9050215 -->
 
-Del resultado de la aplicación del artículo 311, cada práctico nominado percibirá un tercio de los ingresos indicados, con excepción de la letra f).
+Del resultado de la aplicación del artículo 311, cada práctico nominado percibirá un tercio de los ingresos indicados, con excepción de la letra f) en que no recibirán ingresos, mientras que en el caso de la letra g), el monto íntegro resultante será percibido por los prácticos.
 
 Los Prácticos Oficiales quedarán excluidos además de los ingresos citados en la letra e).
 
