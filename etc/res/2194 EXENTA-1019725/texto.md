@@ -8,19 +8,13 @@ Resolución:
 
 1.- Delégase en la Jefatura del Departamento de Administración y Finanzas las siguientes facultades:
 
-a) Dictar las resoluciones que aprueben adquisiciones o contraten servicios, y aprobar las órdenes de compra secuenciales a tales resoluciones, siempre que aquellas y éstas no tengan un monto superior a 200 unidades de fomento, se financien con cargo al Subtítulo presupuestario de Bienes y Servicios de Consumo, todo ello con excepción de la contratación de estudios e investigaciones.
+a) Resolver, previo informe de la Comisión Única de Bajas, la exclusión, declaración de estar fuera de uso y la baja sin enajenación de los bienes muebles, con sujeción a los procedimientos legales.
 
-b) Resolver, previo informe de la Comisión Única de Bajas, la exclusión, declaración de estar fuera de uso y la baja sin enajenación de los bienes muebles, con sujeción a los procedimientos legales.
+b) Informar semestralmente a esta Dirección los valores ingresados por concepto de enajenación de bienes dados de baja y trimestralmente los valores recibidos por concepto de multas por aplicación del Código Sanitario, especificando los procesos respectivos.
 
-c) Informar semestralmente a esta Dirección los valores ingresados por concepto de enajenación de bienes dados de baja y trimestralmente los valores recibidos por concepto de multas por aplicación del Código Sanitario, especificando los procesos respectivos.
+c) Firmar oficios y documentos dirigidos a los Servicios Públicos en las materias delegadas, salvo al Ministerio de Hacienda, al Ministerio de Salud y a la Contraloría General de la República y suscribir las certificaciones de responsabilidad patrimonial respecto de los funcionarios que manejen o administren fondos o bienes del Instituto.
 
-d) Certificar el cumplimiento de las obligaciones que hubieren contraído los proveedores o contratistas, en virtud de contratos y convenios celebrados con el Instituto y autorizar la devolución de las correspondientes garantías.
-
-e) Firmar oficios y documentos dirigidos a los Servicios Públicos en las materias delegadas, salvo al Ministerio de Hacienda, al Ministerio de Salud y a la Contraloría General de la República y suscribir las certificaciones de responsabilidad patrimonial respecto de los funcionarios que manejen o administren fondos o bienes del Instituto.
-
-f) Firmar oficios y comunicaciones dirigidos a las personas naturales o jurídicas que han contratado con el Instituto. No obstante, se excluyen aquellos oficios o comunicaciones que impliquen el término de los servicios, liberación de obligaciones o disminución de garantías.
-
-g) Informar trimestralmente a esta Dirección de las prórrogas de plazos concedidas a proveedores.
+d) Firmar oficios y comunicaciones dirigidos a las personas naturales o jurídicas que han contratado con el Instituto. No obstante, se excluyen aquellos oficios o comunicaciones que impliquen el término de los servicios, liberación de obligaciones o disminución de garantías.
 
 2.- Para la ejecución de los procedimientos de administración del presupuesto corriente institucional, se asignan las siguientes responsabilidades, dentro de su respectiva competencia, a la Jefatura del Departamento de Administración y Finanzas:
 
