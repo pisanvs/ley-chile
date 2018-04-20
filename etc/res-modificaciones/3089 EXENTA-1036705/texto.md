@@ -12,9 +12,9 @@ Teniendo presente: Las facultades que me confieren los artículos 59, 60 y 61 de
 
 Resolución:
 
-1. Agrégase en la Jefatura del Departamento de Administración y Finanzas de este Instituto, según corresponda, la facultad de autorizar el aumento de obra, que no involucre aumento de costos monetarios.
+### 1. Suprimido
 
-2. Modifícase en el párrafo primero del punto 4.-, de la resolución exenta núm. 2.194, de 12 de noviembre de 2010, de la Dirección de este Instituto, en la parte que dice "200 UF", debiendo decir "200 UTM".
+### 2. Suprimido
 
 3. Agrégase en todas las Jefaturas de Departamentos de este Instituto, la facultad de elaborar y solicitar a la Dirección, las comisiones de servicio que estimen pertinentes.
 
