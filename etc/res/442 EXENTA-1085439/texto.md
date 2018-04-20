@@ -44,13 +44,15 @@ I) Jefe/a del Departamento de Tecnología y Procesos o su equivalente; y
 
 J) Jefe/a del Departamento de Sistemas de Información Social o su equivalente;
 
-2º Regístrese, a contar de la total tramitación de la presente resolución, en los Registros de Agenda Pública señalados en la ley del Lobby, la información pertinente a los sujetos pasivos establecidos a través de la presente resolución.
+2º Establézcase también como sujeto pasivo, según lo establecido en el artículo 3° en lo relativo a quienes, en relación a su función o cargo, tengan atribuciones decisorias relevantes o influyan decisivamente en quienes tengan dichas atribuciones, a doña Carol Bown Sepúlveda en su calidad de asesora del Ministro de Desarrollo Social en temas de Infancia.
 
-3º Publíquese, el presente acto en el Diario Oficial de la República, en conformidad con lo dispuesto en el artículo 48 letra b) de la ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que rigen a los actos de los Órganos de la Administración del Estado; asimismo, publíquese en el sitio electrónico de transparencia activa de la Subsecretaría de Evaluación Social, conforme al artículo 4º inciso segundo de la ley del Lobby.
+3° Regístrese, a contar de la total tramitación de la presente resolución, en los Registros de Agenda Pública señalados en la ley del Lobby, la información pertinente a los sujetos pasivos establecidos a través de la presente resolución.
 
-4º Notifíquese el presente acto a los funcionarios que actualmente sirven los cargos indicados, para poner en su conocimiento su inclusión en la nómina precitada.
+4º Publíquese, el presente acto en el Diario Oficial de la República, en conformidad con lo dispuesto en el artículo 48 letra b) de la ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que rigen a los actos de los Órganos de la Administración del Estado; asimismo, publíquese en el sitio electrónico de transparencia activa de la Subsecretaría de Evaluación Social, conforme al artículo 4º inciso segundo de la ley del Lobby.
 
-4º Remítase copia del presente acto al Gabinete del Ministro de Desarrollo Social, al Gabinete de esta Subsecretaría, a la Fiscalía, a la División de Evaluación Social de Inversiones, la División de Cooperación Público Privada; la División de Administración y Finanzas, la División de Información Social, y Oficina de Partes.
+5º Notifíquese el presente acto a los funcionarios que actualmente sirven los cargos indicados, para poner en su conocimiento su inclusión en la nómina precitada.
+
+6º Remítase copia del presente acto al Gabinete del Ministro de Desarrollo Social, al Gabinete de esta Subsecretaría, a la Fiscalía, a la División de Evaluación Social de Inversiones, la División de Cooperación Público Privada; la División de Administración y Finanzas, la División de Información Social, y Oficina de Partes.
 
 Anótese, publíquese y archívese.- Heidi Berner Herrera, Subsecretaria de Evaluación Social.
 
