@@ -48,13 +48,25 @@ Decreto:
 
 ELEMENTOS DE LA ESENCIA DE LA CONCESIÓN
 
-- Tipo de servicio : Radiodifusión Comunitaria Ciudadana.
+- Tipo de servicio : Radiodifusión Comunitaria
 
-- Zona de servicio : Comuna de Río Negro, X Región.
+Ciudadana.
 
-Superficie delimitada por una intensidad de campo mayor o igual
+- Zona de servicio : Comuna de Río Negro,
 
-que 66 dB (µV/m), referida al punto de emisión de la señal.
+X Región.
+
+Superficie delimitada
+
+por una intensidad de
+
+campo mayor o igual
+
+que 66 dB (µV/m),
+
+referida al punto de
+
+emisión de la señal.
 
 - Período de la concesión : 10 años.
 
@@ -90,17 +102,23 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 radiación : 18 m.
 
-- Restricción : La altura del terreno sobre el nivel del mar,
+- Restricción : La altura del terreno
 
-donde se ubicará el sistema radiante,
+sobre el nivel del mar,
 
-no debe ser mayor a 160 m.
+donde se ubicará el
+
+sistema radiante, no debe
+
+ser mayor a 160 m.
 
 - Pérdidas en cables,
 
 conectores y otros : 1 dB.
 
-- Diagrama de radiación horizontal de acuerdo a la siguiente tabla:
+- Diagrama de radiación horizontal de acuerdo a la
+
+siguiente tabla:
 
 Sin perjuicio de la potencia máxima radiada de 25 W autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en el artículo 4º de la ley 20.433, la concesionaria deberá operar con una potencia máxima en el transmisor de 25 W, atendidas la actual ubicación de su planta transmisora y demás instalaciones y el conjunto de las restantes características técnicas del sistema radiante autorizadas en el presente decreto.
 
@@ -110,13 +128,19 @@ UBICACIÓN DE LAS INSTALACIONES
 
 Planta Transmisora y
 
-Sistema Radiante : Sector 3 Esteros s/n Km 24, comuna de Río Negro, X Región.
+Sistema Radiante : Sector 3 Esteros s/n
 
-- Coordenadas Geográficas : 40º 44' 09'' Latitud Sur.
+Km 24, comuna de Río
 
-73º 16' 05'' Longitud Oeste.
+Negro, X Región.
 
-Datum WGS84.
+- Coordenadas Geográficas : 40º 44' 55'' Latitud Sur;
+
+73º 15' 55'' Longitud
+
+Oeste,
+
+datum WGS 84
 
 4.- Los plazos de inicio y término de obras, de inicio de servicio, se contarán a partir de la publicación en el Diario Oficial del presente decreto.
 
