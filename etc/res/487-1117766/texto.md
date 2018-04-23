@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN N° 487, DE 9 DE ABRIL DE 2018
+
+Revoca delegación de facultades para otorgar certificados en materia de herencias intestadas tramitadas a contar del 11.04.2004 y delega facultades para otorgar certificados en materia de herencias testadas y en materia de donaciones:
+
+Mediante resolución exenta Nº 487, del 09.04.2018, de la VIII Dirección Regional Concepción del Servicio de Impuestos Internos, en virtud de lo dispuesto en los artículos 1º, 4º bis, 7º y 20 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del decreto con fuerza de ley Nº 7, de 1980, del Ministerio de Hacienda; en el artículo 6º, letra B), Nº 7 del Código Tributario, contenido en el DL Nº 830, de 1974; el artículo 41 de la ley Nº 18.575, Orgánica Constitucional sobre Bases Generales de la Administración del Estado; la ley Nº 16.271, sobre Impuesto a las Herencias, Asignaciones y Donaciones; la resolución exenta Nº 90, del 21.09.2004 y la resolución exenta Nº 24, de 05.03.2018, se revocan las delegaciones de facultades efectuadas conforme a la resolución Ex. Nº 554 de 03.11.2004 y resolución Ex. Nº 4.322 de 16.05.2012, delegándose por este mismo acto facultades para otorgar certificados en materia de herencias testadas y en materia de donaciones, según se expresa en la resolución cuyo extracto se publica.-
+
+Jorge Lara Arriagada, Director Regional.
