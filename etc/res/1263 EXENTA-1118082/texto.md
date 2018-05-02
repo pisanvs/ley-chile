@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.263, de fecha 17 de abril de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Avda. Presidente Ibáñez F 2 100, Rol Nº 536-139, comuna Linares, superficie 181,21 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Comercial Flores Ltda., comisión integrada por peritos María Carolina Letelier Bopp, por el ingeniero agrónomo Ramón Lira Montecino y por la arquitecto doña Claudia Poblete Ramírez, según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $29.058.493, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186 de 1978 fue reajustado a la suma de $29.610.604 (veintinueve millones seiscientos diez mil seiscientos cuatro pesos) pagados al contado.
+
+- Eduardo Vásquez Araya, Director (S) Serviu Región del Maule.
