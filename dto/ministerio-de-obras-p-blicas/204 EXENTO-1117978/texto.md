@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 204, de 9 de abril de 2018, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 332 y 333, para la obra: "Mejoramiento Ruta K-705, sector Cr. Ruta K-715 - Vilches Alto", que figuran a nombre de AYALA AYALA AMANDA y HERRERA UMANZOR SANDRA MARCELA, roles de avalúo 167-8 y 230-65, Comuna de San Clemente, Región del Maule, superficies 25 m2 y 60 m2. respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURÁN MARCOS, RODRIGO ANTONIO SILVA LAZO y PAULA SOLEDAD GONZÁLEZ ORTEGA, mediante informe de tasación de 25 de mayo de 2016, fijaron el monto de la indemnización provisional en la cantidad de $1.247.225.-, para el lote Nº332 y $1.195.940.-, para el lote Nº333. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
