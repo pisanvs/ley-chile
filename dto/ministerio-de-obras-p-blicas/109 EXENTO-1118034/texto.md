@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 109 de 26 de marzo de 2018, modificado por Decreto MOP Exento N° 239 de 13 de abril de 2018 y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno N°s. 81 y 81-A, Rol de avalúo 146-26, Comuna de Monte Patria, superficie 155 y 55 m2. respectivamente, para la obra MEJORAMIENTO RUTA 597, SECTOR: CARÉN - TULAHUÉN, COMUNA DE MONTE PATRIA, PROVINCIA DE LIMARÍ, REGIÓN DE COQUIMBO. La comisión de peritos, integrada por Patricio Fernando Casagrande Ulloa, Miguel Ángel Ruiz Valenzuela y Pablo Javier Flores Salinas, fijó el valor de tasación con fecha 22 de julio de 2016 el lote 81 y la comisión de peritos, integrada por Miguel Ángel Ruiz Valenzuela, Pablo Javier Flores Salinas y Mauricio Andrés Andueza Pérez con fecha 12 de julio de 2017 el lote 81-A, acordándose la indemnización con su propietario CARLOS ARTURO MICHEA CARVAJAL, en la cantidad de $5.251.134.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.
+
+- Fiscalía MOP.
