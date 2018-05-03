@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 86 EXENTA, DE 5 DE ABRIL DE 2018
+
+Resolución Ex. RCO3.00 Nº 86, de 5 de abril de 2018, de la Dirección Regional de Copiapó del Servicio Impuestos Internos, en virtud de lo dispuesto en el artículo 6º, letra B), Nº 7 del Código Tributario; en el artículo 20º de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1º del DFL Nº 7, del Ministerio de Hacienda, de 1980; en al artículo 41 de la ley Nº 18.575, de 1986, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, y resolución exenta SII Nº 48, de fecha 28 de abril de 2006, del Sr. Director, delega en los funcionarios que indica nominativamente la facultad de autorizar a los contribuyentes que lo soliciten, el pago diferido de los impuestos de la Ley de la Renta.-
+
+Alejandro Saldívar Alarcón, Director Regional.
