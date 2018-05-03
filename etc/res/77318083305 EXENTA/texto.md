@@ -1,0 +1,5 @@
+OTORGA EXCEPCIÓN DE CAMBIO DE SUJETO DEL IVA EN LA VENTA PAPELES Y CARTONES PARA RECICLAR Y OTORGA LA CALIDAD DE RETENEDOR DEL IVA RESPECTO DE LAS COMPRAS DE PAPELES Y CARTONES PARA RECICLAR QUE A SU VEZ EFECTÚE A TERCEROS VENDEDORES
+
+La VIII Dirección Regional Concepción del SII, por resolución Ex. Nº 77318083305, de fecha 16-04-2018, concede al contribuyente Comercializadora Unión Ltda., RUT Nº 77.639.920-5, a contar del día primero del mes siguiente, de la fecha de esta publicación, la excepción del régimen de cambio de sujeto de derecho del Impuesto al Valor Agregado en la Venta de Papeles y Cartones para Reciclar y además se otorga la calidad de Agente Retenedor del Impuesto al Valor Agregado, respecto de las compras de Papeles y Cartones para Reciclar que, a su vez, efectúe a terceros vendedores, de acuerdo a la facultad establecida en el dispositivo Nº 10 de la resolución exenta SII Nº 29, de 11.03.2005.
+
+Concepción, 16 de abril de 2018.- Jorge Lara Arriagada, Director Regional.
