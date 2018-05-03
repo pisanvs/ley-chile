@@ -54,11 +54,13 @@ Resolución:
 
 Sólo podrán participar de estas selecciones las familias con proyectos calificados hasta el último día hábil del mes correspondiente al cierre de postulación.
 
+En el caso de Proyectos de Acondicionamiento Térmico de Viviendas para viviendas ubicadas en zonas con Planes de Descontaminación Atmosférica, se define una fecha especial de postulación en el mes de julio, pudiendo participar proyectos de este tipo que estén calificados antes del último día hábil de dicho mes.
+
 3. Los montos por tipo de proyecto para cada región serán los que se indican en la tabla inserta a continuación:
 
-.
+Primera selección llamado
 
-. En el caso de Proyectos de Acondicionamiento Térmico para el Plan de Descontaminación de las comunas de la Región del L.B. O'Higgins, sólo podrán participar las zonas o comunas emplazadas en Zona Térmica 3 definida en el Artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, vale decir, bajo los 1.000 msnm.
+En el caso de Proyectos de Acondicionamiento Térmico para el Plan de Descontaminación de las comunas de la Región del L.B. O'Higgins, sólo podrán participar las zonas o comunas emplazadas en Zona Térmica 3 definida en el Artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, vale decir, bajo los 1.000 msnm.
 
 El número de proyectos seleccionados por cada región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos destinados para este llamado según tabla precedente, incluidos los servicios de Asistencia Técnica que correspondan.
 
@@ -70,9 +72,7 @@ No obstante lo anterior, al cierre de los llamados realizados para atender obras
 
 4.2. El monto del subsidio obtenido deberá destinarse en un 100% a la ejecución de obras de sistemas solares térmicos en la vivienda. Se deberá considerar como parte del proyecto la instalación del colector y todas las obras necesarias para el buen funcionamiento del sistema en la vivienda beneficiada.
 
-4.3. Apruébese el Itemizado Técnico denominado "Itemizado Técnico para Sistemas Solares Térmicos - Minvu, Sistemas Individuales para Viviendas", adjunto a la presente resolución, el que se entenderá forma parte integrante de ésta.
-
-Los proyectos de Innovación de Eficiencia Energética presentados a este llamado deberán dar cumplimiento a dicho itemizado en todos aquellos ítems relacionados con los elementos a instalar y al funcionamiento de los equipos. Este Itemizado contiene las especificaciones técnicas mínimas que la División Técnica de Estudio y Fomento Habitacional del Minvu ha definido para el buen desempeño de estos sistemas.
+4.3. Apruébase el Itemizado Técnico denominado "Itemizado Técnico para Sistemas Solares Térmicos - Minvu, Sistemas Individuales para Viviendas", adjunto a la presente resolución, el que se entenderá forma parte integrante de ésta, no obstante, durante la primera selección de este llamado, se permitirá que los Serviu definan si exigirán o no lo señalado en su punto B.1.16, referido a las restricciones de uso de Sistemas Solares Térmicos de Tubos al Vacío, del tipo "Heat Pipe".
 
 4.4. El contratista ejecutor de las obras deberá presentar una boleta bancaria de garantía de acuerdo a lo señalado en el artículo 35, del DS 255 (V. y U.), de 2006, que deberá garantizar como mínimo por dos años la instalación, ejecución y buen funcionamiento de las obras.
 
@@ -308,15 +308,11 @@ b) Elaborar una Carpeta Técnica que deberá contener los siguientes antecedente
 
 7.4.3. Los honorarios de Asistencia Técnica que se otorgarán a este tipo de proyecto, serán los indicados en la tabla a continuación:
 
-.
-
 7.4.4. En los casos en que la vivienda se encuentre en proceso de regularización, y el proyecto considere el incremento a que se refiere la tabla inserta en el punto 7.1.2 de la presente resolución, a los montos de asistencia técnica a que se refiere la tabla
 
 .
 
 7.4.4. En los casos en que la vivienda se encuentre en proceso de regularización, y el proyecto considere el incremento a que se refiere la tabla inserta en el punto 7.1.2 de la presente resolución, a los montos de asistencia técnica a que se refiere la tabla precedente se adicionarán, según corresponda, los honorarios que se detallan a continuación:
-
-.
 
 En el caso de que la casa ya cuente con una recepción final y lo que se esté regularizando sean nuevos recintos o ampliaciones, se pagará como máximo 5 UF por este concepto.
 
@@ -332,9 +328,9 @@ Se pagará una vez que el subsidio haya sido ejecutado en su totalidad a conform
 
 En aquellos casos en que la vivienda haya debido ser regularizada con el subsidio, se deberá adjuntar la recepción definitiva otorgada por la DOM respectiva. En estos casos, al monto de subsidio a que se refiere la tabla inserta en el punto 7.4.3, se le adicionarán los incrementos por concepto de regularización descritos en la tabla inserta en el resuelvo 7.4.4 precedente, según corresponda. En estos casos, sólo se pagará el 2° y el 3° pago de la Asistencia Técnica cuando se haya obtenido la recepción definitiva de la vivienda.
 
-3° Pago: Plan de Habilitación Social.
+3° Pago: Plan de Habilitación Social
 
-Se realizará en conformidad a lo dispuesto en la reglamentación vigente. No obstante lo anterior, en atención a las particularidades climático-ambientales de cada región, se autorizará a que cada Serviu regional, si lo estimase conveniente, incorpore al Plan de Habilitación Social requisitos específicos en materia de difusión, capacitación u otro que pudiese contribuir al buen desempeño de las viviendas.
+Se realizará en conformidad a lo dispuesto en la reglamentación vigente. No obstante lo anterior, el Plan de Habilitación Social se deberá aplicar a todos los beneficiarios, ya sean individuales o grupales, para que conozcan, a lo menos, las temáticas de uso, cuidado y mantención de la vivienda acondicionada, dado que en atención a las particularidades climático-ambientales de estas zonas, estas temáticas son relevantes para evitar la aparición de humedad y hongos. Además se autoriza a cada Serviu regional, si lo estimase conveniente, a que incorpore a este Plan requisitos específicos en materia de difusión, capacitación u otro que pudiese contribuir al buen funcionamiento de estos proyectos.
 
 En todo aquello que no se contraponga con lo dispuesto en la presente resolución, regirá lo establecido en la resolución exenta Nº 533 (V. y U.), de 1997.
 
@@ -389,6 +385,8 @@ No obstante lo anterior, en aquellos casos en que el costo de la intervención d
 8. Exímese al presente llamado del cumplimiento de lo señalado en el inciso tercero del artículo 13, del DS N° 255 (V. y U.), de 2006, referido a su publicación en el Diario Oficial con 30 días de anterioridad a lo menos, a la fecha del inicio del proceso de selección.
 
 9. Establécese que en todo aquello que no encuentre regido por el presente llamado, prevalecerá lo dispuesto en el DS N° 255 (V. y U.), de 2006, y sus modificaciones, que regula el Programa de Protección del Patrimonio Familiar.
+
+> **Nota.** La Resolución 2492 Exenta, del Ministerio de Vivienda y Urbanismo, publicada el 03.05.2018, modifica la presente norma en el sentido de incorporar en el cuadro del punto 7.1.2, del resuelvo 7, la comuna de Chimbarongo en el grupo de comunas de la Región del Libertador General Bernardo O'Higgins.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
