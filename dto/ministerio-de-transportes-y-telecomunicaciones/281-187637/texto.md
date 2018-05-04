@@ -286,7 +286,7 @@ El ancho de banda de los sistemas multiacceso que empleen técnicas de espectro 
 
 #### Artículo 24
 
-El derecho a pagar por los sistemas multiacceso que empleen bandas compartidas será el 10% del valor que resulte al aplicar las tablas del artículo 22º, sin embargo, el valor mínimo del derecho a pagar anualmente por cada centro multiacceso, en estos casos, será de 0,5 UTM.
+Los sistemas multiacceso que empleen bandas compartidas, pagarán un derecho equivalente al 10% del valor que resulte al aplicar la tabla del artículo 22º, pero considerando el valor de potencia en watts autorizado en cada caso, y sin que aplique el mínimo anual por centro multiacceso establecido en el mismo artículo.
 
 #### Artículo 25
 
