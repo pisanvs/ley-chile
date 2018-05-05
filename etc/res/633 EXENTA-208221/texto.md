@@ -424,6 +424,12 @@ Plum pox virus (PPV)
 
 Xylella fastidiosa
 
+Prunus pseudocerasus Xanthomonas arboricola pv.pruni
+
+Xylella fastidiosa
+
+Plum Pox Virus
+
 Pyrus communis Apple stem grooving virus
 
 (Peral eurpopeo) (ASGV)
