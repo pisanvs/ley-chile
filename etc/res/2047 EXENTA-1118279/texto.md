@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 2.047 EXENTA, DE 12 DE ABRIL DE 2018
+
+Por resolución exenta N° 2.047, de 12 de abril de 2018, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Edc San Luis 2", de propiedad de la sociedad "Edc San Luis 2 SpA", RUT N° 76.773.259-7, cuyo representante legal es la señora Alexandra Veas Araya. La Escuela de Conductores tendrá como Director a Luis Veas Araya, y está ubicada en Avenida Apoquindo N° 4900, local 143, piso 3, comuna de Las Condes. Horas pedagógicas autorizadas a la referida Escuela son nueve horas teóricas y doce horas prácticas, con un total de veintiuna horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
