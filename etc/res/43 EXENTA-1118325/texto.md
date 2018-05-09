@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº 43, de 4 de mayo de 2018, que autoriza a las Instituciones sin fines de lucro Club Deportivo Florida Chile, RUT Nº 65.127.320-K; Junta de Vecinos Nº 34-J Los Litres, RUT Nº 65.094.725-8; ONG Sirviendo a Chile y el Mundo, RUT Nº 65.158.802-2; Junta de Vecinos 31-B Sector 9 Villa Los Navíos, RUT Nº 71.950.600-3; Junta de Vecinos 7-1 Pablo de Rokha, RUT Nº 65.105.980-1; Iglesia Evangélica Bautista Renacer, RUT Nº 65.156.316-K; Fundación Río Montaña de Chile, RUT Nº 65.158.157-5; Agrupación Social Cultural Manantiales, RUT Nº 65.160.587-3, y Organización No Gubernamental de Desarrollo Emprendamos Juntos, RUT Nº 65.072.257-4; Centro Cultural y Social de Superación La Esperanza, RUT Nº 75.947.530-5, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de mayo de 2018.
