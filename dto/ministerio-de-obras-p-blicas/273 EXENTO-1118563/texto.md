@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 273 de 27 de abril de 2018, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno N°s. 25-A y 26, Rol de avalúo 203-15, Comuna de Quemchi, superficies 450 y 160 m2. respectivamente, para la obra MEJORAMIENTO RUTA W-195 SECTOR: QUEMCHI - PUCHAURAN TRAMO: KM. 0,00000 A KM. 28,63090, Comunas de QUEMCHI, Provincia de CHILOÉ, Región DE LOS LAGOS. La comisión de peritos, integrada por Sonia Catalina Gallegos Blanch, Norman Estanislao Calderón Pontiggia y Patricio Fernando Casagrande Ulloa, fijó el valor de tasación con fecha 9 de septiembre de 2013 el lote 25-A y con fecha 16 de julio de 2012 el lote 26 complementados por actas de 5 de mayo de 2017, acordándose la indemnización con su propietario JOSÉ ARTURO QUINAN Y OTROS, en la cantidad de $3.083.755.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.-
+
+Fiscalía MOP.
