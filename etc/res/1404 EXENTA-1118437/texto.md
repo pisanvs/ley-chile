@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 1.404 de fecha 26 de abril de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en La Travesía 995, Frontera del Inca, Rol N° 929-27, Comuna Linares, superficie 25,55 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Marianela del Carmen Gamonal Toro. Comisión integrada por peritos María Carolina Letelier Bopp, por el ingeniero agrónomo Ramón Lira Montecino y por la arquitecto doña Claudia Poblete Ramírez, según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $7.227.689, monto que conforme a lo dispuesto en el artículo 5° del DL 2.186 de 1978 fue reajustado a la suma de $7.365.015 (siete millones trescientos sesenta y cinco mil quince pesos), pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
