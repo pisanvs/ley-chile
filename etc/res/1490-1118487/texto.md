@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.490 de fecha 07/05/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 83-0, consistente en Propiedad ubicada en calle Chimbarongo número cero ciento treinta, que corresponde al lote número 115 de la Población Villa Alegre, de esta comuna, Rol de avalúo 2554-20. La superficie a expropiar aproximada es de 175,00 metros cuadrados, de aparente dominio de doña Nayadet Palma Acuña. Comisión de Peritos integrada señores Marcela Melo, Arquitecto; Constanza Mihovic, Constructor Civil y Alberto Arenas, Arquitecto, fijó monto de Indemnización Provisional en $64.797.696 según Informe N° 83-0 de fecha 07/05/2018, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
