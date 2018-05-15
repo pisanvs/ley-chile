@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.491 de fecha 07/05/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 33-1, consistente en inmueble consistente en un retazo ubicado en Avenida Pedro de Valdivia de Temuco, comuna de Temuco, Rol de avalúo 1304-11. La superficie a expropiar aproximada es de 131,36 metros cuadrados, de aparente dominio de Inmobiliaria Terramart S.A. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto; Arturo Osvaldo Cantos Oyarzún, Arquitecto y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $50.142.914 según Informe N° 33-1 de fecha 07/05/2018, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
