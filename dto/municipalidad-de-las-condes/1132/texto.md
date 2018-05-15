@@ -12,13 +12,15 @@ Decreto:
 
 . Calle Alcántara, entre calle Vaticano y calle Isabel La Católica.
 
-. Calle Alcántara, entre calle Vaticano y Avda. Francisco Bilbao.
+. Calle Alcántara entre Isabel la Católica y Avda. Francisco Bilbao.
 
 . Calle Bocaccio, entre calle Padre Errázuriz y Av. Chesterton.
 
 . Calle Fray León, en el tramo entre calle La Cabaña y calle Camino San Antonio.
 
 . Calle Fray Jorge, en el tramo entre Avda. Las Condes y el límite norte del lote individualizado en el plano S-6481.
+
+. Calle Fray Jorge entre Avda. Camino La Posada y calle Camino La Viña.
 
 . Juan de Austria, en el tramo entre calle Vaticano y calle Fernando de Aragón.
 
