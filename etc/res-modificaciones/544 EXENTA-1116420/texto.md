@@ -34,7 +34,7 @@ B) Elimínase en el número 8 del apartado III, relativo al Subdepartamento de F
 
 C) Reemplázase en el número 8 del apartado III, relativo al Subdepartamento de Fiscalización del Depto. Agencia Nacional de Medicamentos, la nueva letra b) correspondiente a Inspecciones sanitarias por "b) Control sanitario".
 
-D) Reemplázase en el número 9 del apartado III, relativo al Subdepartamento Laboratorio Nacional de Control del Depto. Agencia Nacional de Medicamentos, la letra d) correspondiente a Física Médica por "Calidad Farmacéutica".
+D) Elíminase en el número 9 del apartado III, relativo al Subdepartamento Laboratorio Nacional de Control del Depto. Agencia Nacional de Medicamentos, la letra d) correspondiente a la Sección Física Médica, pasando la actual letra e) del mismo número a ser la letra d).
 
 E) Créase un nuevo número 12 en el apartado III, relativo al Departamento Agencia Nacional de Medicamentos, del siguiente tenor: "12. Subdepartamento Productos Cosméticos".
 

@@ -82,15 +82,13 @@ d) Estudios Clínicos.
 
 e) Productos Biológicos.
 
-f) Biofarmacia.
-
 8. Subdepartamento de Fiscalización, constituido por las siguientes Secciones:
 
 a) Buenas Prácticas.
 
 b) Control Sanitario.
 
-c) Validación de Procesos.
+c) Eliminado.
 
 d) Farmacia y Recetario Magistral.
 
@@ -123,6 +121,14 @@ b) Estupefacientes y Psicotrópicos.
 c) Vigilancia y Coordinación.
 
 ### 12. Subdepartamento Productos Cosméticos
+
+13. Subdepartamento Biofarmacia y Equivalencia terapéutica, compuesto por las siguientes Secciones:
+
+a) Equivalencia terapéutica.
+
+b) Validación y trazabilidad de proceso productivo.
+
+c) Calidad y equivalencia farmacéutica.
 
 IV.- El Departamento Laboratorio Biomédico Nacional y de Referencia será dirigido por una Jefatura de Departamento y tendrá los siguientes Coordinadores y Subdepartamentos:
 
@@ -345,5 +351,7 @@ IX.- El Departamento Dispositivos Médicos será dirigido por una Jefatura de De
 ### 5. Subdepartamento Tecnovigilancia
 
 2.- Déjase sin efecto la resolución exenta Nº 48, de 2016, y sus modificaciones, a contar de la fecha de publicación de la presente resolución en el Diario Oficial.
+
+> **Nota.** La letra C del numeral 1° de la Resolución 1145 Exenta, Salud, publicada el 16.05.2018, modifica la presente norma en el sentido de eliminar la letra d), correspondiente a la Sección Validación de Procesos; sin embargo, esta sección había pasado a ser letra c) tras la modificación introducida por la resolución 544 exenta, Salud, publicada el 23.03.2018. La citada Resolución 1145 Exenta dispone que la letra e) pase a ser letra d), cambio que no se pudo efectuar, por haber sido ya dispuesto por la señalada resolución 544 exenta.
 
 Anótese, comuníquese y publíquese su texto completo en la página web institucional y en el Diario Oficial.- Alex Figueroa Muñoz, Director, Instituto de Salud Pública de Chile.
