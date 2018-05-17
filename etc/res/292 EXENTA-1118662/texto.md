@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 292 EXENTA, DE 24 DE ABRIL DE 2018
+
+Por resolución exenta Nº 292, de 24 de abril de 2018, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador Bernardo O'Higgins, se otorgó reconocimiento oficial a la Escuela de Conductores Profesionales "Saint Paul, Christian Favio Duque Romero E.I.R.L.", cuyo nombre de fantasía es "Activa Conducción, Escuela de Conductores Profesionales E.I.R.L.", de propiedad de la empresa individual del mismo nombre, RUT: Nº 11.365.113-K, representada legalmente por don Christian Favio Duque Romero, cédula de identidad Nº 11.365.113-K, para impartir curso conducente a la obtención de licencia de conducción profesional clase A2, en su sede ubicada en Avenida Bernardo O'Higgins Nº 505, piso 2º, y taller mecánico en calle Manso de Velasco Nº 858, ambos de la comuna de San Fernando.-
+
+Hans González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
