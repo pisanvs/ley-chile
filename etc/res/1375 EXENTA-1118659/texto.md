@@ -1,0 +1,7 @@
+CERTIFICADO N° 247
+
+Certifico: Que por escritura pública de fecha 1 de marzo de 2018, otorgada ante la Notario Suplente doña María Loreto Zaldívar Grass de la Décimo Octava Notaría de Santiago de don Patricio Zaldívar Mackenna, domiciliada en Santiago, Bandera 341, oficina 857, se redujo el acta de la junta extraordinaria de accionistas de Patagon Land Administradora General de Fondos S.A., celebrada con fecha 27 de febrero de 2018, en la cual se acordó por la unanimidad de las acciones emitidas el saneamiento de la nulidad del vicio formal incurrido en la publicación extemporánea del certificado de la Superintendencia de Valores y Seguros, hoy Comisión para el Mercado Financiero emitido con fecha 8 de noviembre de 2017, inscrito en el Registro de Comercio del Conservador de Bienes Raíces de Santiago con fecha 27 de diciembre de 2017, a fojas 98.015, número 52.757 y publicado en el Diario Oficial con fecha 8 de enero de 2018.
+
+Que por resolución exenta N° 1.375, de fecha 13 de abril de 2018, de esta Comisión para el Mercado Financiero, se aprobó el referido saneamiento de la nulidad respecto del citado certificado que acredita la aprobación por este mismo Servicio de la disolución anticipada de Patagon Land Administradora General de Fondos S.A. mediante la resolución exenta N° 5.406, de fecha 8 de noviembre de 2017.
+
+Santiago, 13 de abril de 2018.- Gerardo Bravo Riquelme, Jefe División Jurídica y Secretaría General.
