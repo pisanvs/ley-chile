@@ -28,8 +28,6 @@ III. Los subsidios se pagarán con cargo al Subtítulo 24, Ítem 03, Asignación
 
 IV. Remítase copia digital del presente decreto a la Fiscalía del Ministerio de Desarrollo Social; al Gabinete, a la División de Promoción y Protección Social; a la División de Administración y Finanzas; a todas las Secretarías Regionales Ministeriales de Desarrollo Social y copia impresa a la Oficina de Partes.
 
-> **Nota.** El numeral 1 del artículo primero de la Resolución 777 Exenta, Desarrollo Social, publicada el 06.11.2018, modifica el cuadro inserto en el numéro I de la presente norma en el sentido de intercalar entre la Región del Maule y la Región del Biobío, la siguiente nueva fila: Región de Ñuble 1210 $381.047.184. Asimismo, el numeral 2, ordena reemplazar en la fila correspondiente a la Región del Biobío, el guarismo de la columna "Nº de Estipendios", "4.375" por "3.165", y el guarismo de la columna "Presupuesto", "1.381.291.944" por "1.000.244.760.
-
 Anótese, comuníquese y publíquese.- Iván Castro Díaz, Subsecretario de Servicios Sociales (S).
 
 Lo que comunico a Ud. para su conocimiento.- Rodolfo Pavez Olave, Jefe Oficina de Partes y Archivos.
