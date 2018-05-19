@@ -38,11 +38,11 @@ Tercer Orden de Subrogancia: Facuse Cáceres Karen Elizabeth, RUT: 12.801.418-7,
 
 Dirección Regional de Atacama:
 
-Primer Orden de Subrogancia: Castro Villalobos Félix Omar, RUT: 11.383.258-4, Contrata, Fiscalizador, Grado 11° EOF.
+Primer orden de subrogación: Castro Villalobos, Félix Omar, RUT 11.383.258-4, Contrata, Fiscalizador, grado 11° EOF.
 
-Segundo Orden de Subrogancia: Yáñez Camblor Mauricio Eduardo, RUT: 13.872.900-1, Contrata, Profesional, Grado 11° EOF.
+Segundo orden de subrogación: Yáñez Camblor, Mauricio Eduardo, RUT 13.872.900-1, Contrata, Profesional, grado 11° EOF.
 
-Tercer Orden de Subrogancia: Galleguillos Foix Jorge Luis, RUT: 8.709.622-K, Contrata, Profesional Grado 11° EOF.
+Tercer orden de subrogación: Cabello Gómez, Mónica Pamela, RUT 11.822.490-6, Contrata, Profesional, grado 12° EOF.
 
 Dirección Regional de Coquimbo:
 
