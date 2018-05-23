@@ -20,8 +20,6 @@ Resuelvo:
 
 1. Establécese pista de uso exclusivo para el transporte público urbano de pasajeros, en la modalidad de Bus Urbano y Taxis Colectivo, en el costado derecho de la calzada en sentido Sur-Norte de la vía y ejes viales que más adelante se indican. Los tramos y sentidos de circulación de las vías y ejes viales en que se establecen estas pistas de uso exclusivo, son los siguientes:
 
-.
-
 2. También podrán circular por estas pistas exclusivas, los siguientes vehículos:
 
 . Los vehículos de emergencia, del programa de Fiscalización de la Subsecretaría de Transportes y de los municipios, destinados a cumplir funciones de seguridad ciudadana, debidamente identificados como tales;
