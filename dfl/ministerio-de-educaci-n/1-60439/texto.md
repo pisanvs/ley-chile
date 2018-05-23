@@ -1462,9 +1462,7 @@ f) Por fallecimiento;
 
 g) Por aplicación del inciso séptimo del artículo 70.
 
-h) Por salud irrecuperable o incompatible con el desempeño de su función en conformidad a lo dispuesto en la ley Nº 18.883.
-
-Se entenderá por salud incompatible, haber hecho uso de licencia médica en un lapso continuo o discontinuo superior a seis meses en los últimos dos años, exceptuando las licencias por accidentes del trabajo, enfermedades profesionales o por maternidad;
+h) Por salud irrecuperable o incompatible con el desempeño de su función en conformidad a lo dispuesto en los artículos 72 bis y 72 ter.
 
 i) Por pérdida sobreviniente de algunos de los requisitos de incorporación a una dotación docente, e
 
@@ -1481,6 +1479,22 @@ A los profesionales de la educación que terminen una relación laboral por las 
 Tratándose de los casos establecidos en las letras b) y c) precedentes, se aplicará lo establecido en el artículo 134 de la ley N° 18.883.
 
 > **Nota.** El artículo 1º transitorio de la LEY 19961, publicada el 14.08.2004, dispone que la modificación del presente artículo, rige a contar del 01.01.2006.
+
+#### Artículo 72 bis
+
+El alcalde podrá considerar como salud incompatible con el desempeño del cargo, a que se refiere la letra h) del artículo 72, haber hecho uso de licencia médica en un lapso continuo o discontinuo superior a seis meses en los últimos dos años, sin mediar declaración de salud irrecuperable.
+
+No se considerarán para el cómputo de los seis meses señalados en el inciso anterior las licencias otorgadas en los casos a que se refiere el artículo 114 de la ley N° 18.883 y el Título II del Libro II del Código del Trabajo.
+
+El alcalde, para ejercer la facultad señalada en el inciso primero, deberá requerir previamente a la Comisión de Medicina Preventiva e Invalidez la evaluación del profesional docente respecto a la condición de irrecuperabilidad de su salud y que no le permite desempeñar el cargo.
+
+La facultad señalada en este artículo será ejercida por el Director Ejecutivo del Servicio Local de Educación Pública a partir de la fecha en que sea traspasado el respectivo servicio educacional de conformidad a la ley N° 21.040.
+
+#### Artículo 72 ter
+
+Si se hubiere declarado irrecuperable la salud de un profesional de la educación, éste deberá retirarse de la municipalidad o del Servicio Local de Educación Pública, según corresponda, dentro del plazo de seis meses, contado desde la fecha en que se le notifique la resolución por la cual se declare su irrecuperabilidad. Si transcurrido este plazo el empleado no se retirare, procederá la declaración de vacancia del cargo.
+
+A contar de la fecha de la notificación y durante el referido plazo de seis meses, el profesional de la educación no estará obligado a trabajar y gozará de todas las remuneraciones correspondientes a su empleo, las que serán de cargo del sostenedor.
 
 #### Artículo 73
 
