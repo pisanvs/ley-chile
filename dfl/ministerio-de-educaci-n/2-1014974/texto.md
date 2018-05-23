@@ -458,6 +458,8 @@ k) Conocer los principales hitos y procesos de la historia de la humanidad y en 
 
 l) Tener un sentido estético informado y expresarlo utilizando recursos artísticos de acuerdo a sus intereses y aptitudes.
 
+m) Conocer y aplicar conceptos y técnicas financieras básicas, así como desarrollar actitudes, conductas y prácticas que favorezcan la toma de decisiones ciudadanas y le permitan ejercer acciones eficaces para mejorar su bienestar económico, personal y familiar.
+
 En el caso de los establecimientos educacionales con alto porcentaje de alumnos indígenas se considerará, además, como objetivo general, que los alumnos y alumnas desarrollen los aprendizajes que les permitan mantener su dominio de la lengua indígena y el conocimiento de la historia y la cultura de su pueblo.
 
 En el caso de los establecimientos educacionales que ofrezcan la formación diferenciada técnico-profesional y artística, se consideran, además, como objetivos generales, los aprendizajes requeridos por el perfil de egreso de las respectivas especialidades que impartan.
