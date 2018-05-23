@@ -248,11 +248,13 @@ Las bibliotecas de acceso público deberán contar con material, infraestructura
 
 Todo edificio de uso público y todo aquel que, sin importar su carga de ocupación, preste un servicio a la comunidad, así como toda nueva edificación colectiva, deberán ser accesibles y utilizables en forma autovalente y sin dificultad por personas con discapacidad, especialmente por aquellas con movilidad reducida. Asimismo, estarán sometidas a esta exigencia las obras que el Estado o los particulares ejecuten en el espacio público al interior de los límites urbanos, y los accesos a los medios de transporte público de pasajeros y a los bienes nacionales de uso público. Si las edificaciones y obras señaladas en este inciso contaren con ascensores, estos deberán tener capacidad suficiente para transportar a las personas con discapacidad de conformidad a la normativa vigente.
 
+Los parques, plazas o áreas verdes, públicos y privados de uso público, que contemplen juegos infantiles no mecanizados, deberán construirse a partir de un diseño universal que permita su utilización de forma autónoma por todos los niños, incluidos aquellos con discapacidad, garantizando, a su vez, las condiciones de accesibilidad universal para que puedan ingresar de manera segura desde la calle al área común de juegos y circular por las distintas dependencias a través de rutas que hagan posible su continuidad en el desplazamiento. Las juntas de vecinos del respectivo sector podrán solicitar la adecuación de los referidos juegos, en los términos señalados en el presente inciso.
+
 Las edificaciones anteriores a la entrada en vigencia de la ley N° 19.284 quedarán sometidas a las exigencias de accesibilidad contenidas en el artículo 21 de dicha ley y sus normas complementarias. Del mismo modo, las edificaciones colectivas destinadas exclusivamente a vivienda, cuyos permisos de construcción fueron solicitados entre la entrada en vigencia de la ley Nº19.284 y la entrada en vigencia del presente cuerpo legal, continuarán siendo regidas por el artículo 21 de la ley N° 19.284 y sus normas complementarias.
 
 Para el cumplimiento de lo dispuesto en el inciso primero de este artículo, corresponderá al Ministerio de Vivienda y Urbanismo establecer las normas a las que deberán sujetarse las nuevas obras y edificaciones, así como las normas y condiciones para que las obras y edificaciones existentes se ajusten gradualmente a las nuevas exigencias de accesibilidad.
 
-La fiscalización del cumplimiento de la normativa establecida en los incisos precedentes será de responsabilidad de las direcciones de obras municipales que deberán denunciar su incumplimiento ante el juzgado de policía local, aplicándose al efecto las disposiciones del Título VI de esta ley. Para el mejor cumplimiento de la fiscalización, las municipalidades, a requerimiento de las direcciones de obras, podrán celebrar convenios con personas naturales o jurídicas, con o sin fines de lucro, para que colaboren con aquéllas en el ejercicio de esta facultad.
+La fiscalización del cumplimiento de la normativa establecida en los incisos precedentes, tanto en el momento de otorgar un permiso de edificación y su recepción, como durante el uso de las referidas obras, edificaciones, parques, plazas o áreas verdes, públicos y privados de uso público, y sus instalaciones, será de responsabilidad de las direcciones de obras municipales que deberán denunciar su incumplimiento ante el juzgado de policía local, aplicándose al efecto las disposiciones del Título VI de esta ley. Para el mejor cumplimiento de la fiscalización, las municipalidades, a requerimiento de las direcciones de obras, podrán celebrar convenios con personas naturales o jurídicas, con o sin fines de lucro, para que colaboren con aquéllas en el ejercicio de esta facultad.
 
 La denuncia por incumplimiento podrá ser realizada por cualquier persona, ante el juzgado de policía local, en conformidad a lo establecido en el inciso precedente.
 
@@ -346,7 +348,7 @@ Los establecimientos educacionales deberán, progresivamente, adoptar medidas pa
 
 ### Párrafo 3°
 
-De la capacitación e inserción laboral
+De la inclusión laboral y de la capacitación
 
 #### Artículo 43
 
@@ -366,11 +368,17 @@ El Estado creará condiciones y velará por la inserción laboral y el acceso a 
 
 #### Artículo 45
 
-En los procesos de selección de personal, la Administración del Estado y sus organismos, las municipalidades, el Congreso Nacional, los órganos de la administración de justicia y el Ministerio Público seleccionarán preferentemente, en igualdad de condiciones de mérito, a personas con discapacidad.
+En los procesos de selección de personal, los órganos de la Administración del Estado señalados en el artículo 1 de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, el Congreso Nacional, el Poder Judicial, el Ministerio Público, el Tribunal Constitucional, el Servicio Electoral, la Justicia Electoral y demás tribunales especiales creados por ley, seleccionarán preferentemente, en igualdad de condiciones de mérito, a personas con discapacidad.
 
-Un reglamento suscrito por los Ministros de Planificación y de Hacienda determinará la forma en que los organismos de la Administración del Estado darán cumplimiento a esta disposición.
+En las instituciones a que se refiere el inciso anterior, que tengan una dotación anual de 100 o más funcionarios o trabajadores, a lo menos el 1% de la dotación anual deberán ser personas con discapacidad o asignatarias de una pensión de invalidez de cualquier régimen previsional. Las personas con discapacidad deberán contar con la calificación y certificación que establece esta ley.
 
-En el caso del Poder Judicial, el Poder Legislativo y el Ministerio Público, serán sus propios órganos quienes deberán determinar la forma de dar cumplimiento a esta obligación.
+En el caso de las Fuerzas Armadas, de las Fuerzas de Orden y Seguridad Pública y de Gendarmería de Chile, la obligación establecida en el inciso anterior considerará sólo a su personal civil.
+
+El jefe superior o jefatura máxima del órgano, servicio o institución correspondiente deberá adoptar las medidas necesarias para el cumplimiento de la obligación a que se refiere el inciso segundo. En caso que no sea posible su cumplimiento total o parcial, las entidades antes señaladas deberán remitir un informe fundado a la Dirección Nacional del Servicio Civil y al Servicio Nacional de la Discapacidad, explicando las razones para ello. Sólo se considerarán razones fundadas aquellas relativas a la naturaleza de las funciones que desarrolla el órgano, servicio o institución, no contar con cupos disponibles en la dotación de personal y la falta de postulantes que cumplan con los requisitos respectivos.
+
+Un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscrito por los ministros de Hacienda y de Desarrollo Social, establecerá para los órganos de la Administración del Estado indicados en el inciso primero, los parámetros, procedimientos y demás elementos necesarios para dar cumplimiento a las obligaciones consignadas en este artículo o para justificar su excusa.
+
+En el caso del Congreso Nacional, el Poder Judicial, el Ministerio Público, la Contraloría General de la República, el Banco Central, el Tribunal Constitucional, las Fuerzas Armadas, las Fuerzas de Orden y Seguridad Pública, el Servicio Electoral, la Justicia Electoral y demás tribunales especiales creados por ley, serán sus propios órganos quienes deberán dictar las normas necesarias para dar cumplimiento a las disposiciones de este artículo. En estas instituciones, cuando la dotación máxima de personal se consulte en la Ley de Presupuestos del Sector Público o en alguna otra norma en particular, se estará a la dotación máxima fijada en ella.
 
 #### Artículo 46
 
@@ -378,7 +386,7 @@ La capacitación laboral de las personas con discapacidad comprenderá, además 
 
 #### Artículo 47
 
-Las personas con discapacidad podrán celebrar el contrato de aprendizaje contemplado en el Código del Trabajo, sin limitación de edad.
+Las personas con discapacidad podrán celebrar el contrato de aprendizaje contemplado en el Código del Trabajo, hasta los 26 años de edad.
 
 ### Párrafo 4°
 
@@ -388,17 +396,15 @@ De las exenciones arancelarias
 
 Los vehículos importados por personas con discapacidad, sea que actúen por sí o por medio de sus guardadores, cuidadores o representantes legales o contractuales, accederán al beneficio para la importación de vehículos establecido en el artículo 6º de la ley Nº17.238.
 
-Los vehículos a que se refiere el inciso primero no podrán tener un valor FOB superior a US$ 29.629,85.-, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para personas con discapacidad que se señalen en los certificados que, para los efectos de esta ley, debe emitir la Comisión de Medicina Preventiva e Invalidez, cuando resulte pertinente. En el caso de vehículos de transporte de mercancías, estos no podrán tener un valor FOB superior a US$ 35.018,53.- Dichas cantidades se actualizarán anualmente.
+Los vehículos a que serefiere el inciso primero no podrán tener un valor FOB superior a US$ 30.903,93.-, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para personas con discapacidad que se señalen en los certificados que, para los efectos de esta ley, debe emitir la Comisión de Medicina Preventiva e Invalidez, cuando resulte pertinente. En el caso de vehículos de transporte de mercancías, estos no podrán tener un valor FOB superior a US$ 36.524,32.- Dichas cantidades se actualizarán anualmente.
 
-Los beneficios establecidos en este artículo serán aplicables también a la importación de vehículos destinados exclusivamente al transporte colectivo de personas con discapacidad. El valor FOB de dichos vehículos no podrá exceder de US$ 51.180,86.-, sin considerar los elementos opcionales constitutivos del equipo especial para personas con discapacidad que señale el reglamento.
+Los beneficios establecidos en este artículo serán aplicables también a la importación de vehículos destinados exclusivamente al transporte colectivo de personas con discapacidad. El valor FOB de dichos vehículos no podrá exceder de US$ 53.381,63.-, sin considerar los elementos opcionales constitutivos del equipo especial para personas con discapacidad que señale el reglamento.
 
 Los vehículos que se importen mediante la franquicia establecida en este artículo deberán permanecer por un lapso no inferior a 3 años afectos al uso y transporte de personas con discapacidad.
 
 Las cantidades en dólares establecidas en el presente artículo se actualizarán anualmente a contar del 1 de enero de cada año mediante decreto supremo expedido por el Ministerio de Hacienda, conforme a la variación experimentada por el Índice Oficial de Precios al por Mayor de los Estados Unidos de América en el período de doce meses comprendido entre el 1 de noviembre del año que antecede al de la dictación del decreto supremo y el 30 de octubre del año anterior a la vigencia de dicho decreto. Si el factor de actualización resultare negativo, se mantendrá el valor vigente anterior.
 
 Las personas jurídicas sin fines de lucro, que tengan por objeto la asistencia, cuidado o apoyo de personas con discapacidad podrán impetrar los beneficios establecidos en este artículo, para importar vehículos destinados exclusivamente al transporte de personas con discapacidad que ellas atiendan en el cumplimiento de sus fines.
-
-Inciso Eliminado.
 
 #### Artículo 49
 
