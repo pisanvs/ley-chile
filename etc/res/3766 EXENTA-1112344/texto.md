@@ -20,6 +20,8 @@ Resolución:
 
 1. Apruébase el siguiente Reglamento Orgánico del Fondo Nacional de Salud, que establece su estructura y organización y organización interna.
 
+> **Nota.** El numeral 1° de la Resolución 5846 Exenta, Salud, publicada el 24.05.2018, modifica la estructura orgánica del Fondo Nacional de Salud establecido en la presente norma en los términos que la citada norma indica.
+
 ## Título I
 
 Naturaleza, Objeto y Funciones
@@ -644,19 +646,19 @@ i) Realizar todas las otras funciones que disponga la Dirección.
 
 #### Artículo 30º
 
-A la División de Comercialización le corresponderá asegurar el acceso a los servicios sanitarios contenidos en plan de salud de nuestros beneficiarios, mediante la detección de necesidades, organizando la oferta y demanda con enfoque sanitario, de equidad y eficiencia en el uso de los recursos.
+A la División de Comercialización le corresponderá asegurar el acceso a los servicios sanitarios contenidos en plan de salud de nuestros asegurados, mediante la detección de necesidades, gestionando la oferta y demanda con enfoque sanitario, de equidad y eficiencia en el uso de los recursos.
 
 #### Artículo 31º
 
 Son funciones de la División de Comercialización las siguientes:
 
-a) Diseñar planes, programas y acciones para asegurar la entrega de servicios sanitarios a los afiliados y beneficiarios en el marco de las prioridades sanitarias.
+a) Diseñar planes, programas y acciones para asegurar la entrega de servicios sanitarios a los asegurados (afiliados y beneficiarios) en el marco de las prioridades sanitarias.
 
-b) Identificar la oferta pública y privada de prestaciones y organizar redes de oferta de acuerdo a la demanda y las definiciones del Ministerio de Salud.
+b) Identificar la oferta pública y privada de prestaciones, organizar y gestionar redes de oferta de acuerdo a la demanda y las definiciones del Ministerio de Salud.
 
-c) Identificar brechas de atención de los beneficiarios del Fondo y proponer programas y acciones a fin de diseñar planes de cierre de brechas.
+c) Identificar brechas de atención de los asegurados del Fondo y proponer programas y acciones a fin de diseñar planes de cierre de brechas.
 
-d) Diseñar, proponer, administrar y evaluar distintos mecanismos de pago a proveedores públicos y privados.
+d) Proponer al Director, en conjunto con la División de Planificación, administrar y evaluar distintos mecanismos de pago a proveedores públicos y privados.
 
 e) Definir términos de referencia de contratos de compra sanitaria.
 
@@ -666,129 +668,231 @@ g) Definir los mecanismos de referencia y contrarreferencia entre la red de pres
 
 h) Definir y supervisar, cuando corresponda, el proceso de visación técnica para el pago a los prestadores públicos y privados, en el marco de los convenios suscritos.
 
-i) Asesorar a las Direcciones Regionales y Divisiones y unidades del Fondo Nacional en materias de competencia de la División y dar cumplimiento a las demás tareas que le encomiende el Director del Fondo.
+i) Asesorar a las Direcciones Zonales, Divisiones y Unidades del Fondo Nacional en materias de competencia de la División y dar cumplimiento a las demás tareas que le encomiende el Director del Fondo.
 
 #### Artículo 32°
 
-La División de Comercialización estará compuesta por:
+La División de Comercialización estará compuesta por los siguientes Departamentos y Unidad:
 
-### I. Departamento de Gestión Comercial
+### I. Unidad asesora de Monitoreo y Análisis Comercial
 
-### II. Departamento de Monitoreo y Análisis Comercial
+### II. Departamento de Gestión Comercial
 
-### III. Subdepartamento Grupos Relacionados por el Diagnóstico (GRD)
+### III. Departamento de Compra Sanitaria a Públicos
+
+### IV. Departamento de Grupos Relacionados a Diagnósticos GRD
 
 #### Artículo 33º
 
-Serán funciones del Departamento de Gestión Comercial, las siguientes:
+Serán funciones de la Unidad Asesora de Monitoreo y Análisis Comercial, las siguientes:
 
-a) Elaborar planes, programas y acciones para asegurar la entrega de servicios sanitarios a nuestros beneficiarios a través de los prestadores públicos y privados.
+a) Preparar informes de evaluación de acuerdo a las prioridades establecidas por la Jefatura de la División.
 
-b) Definir mecanismos de compra a prestadores públicos y privados.
+b) Elaborar la solicitud presupuestaria anual de la División.
 
-c) Elaborar contenidos técnicos de convenios de compra a prestadores públicos o privados
+c) Elaborar y seguir el plan de compra aprobado para la División.
 
-d) Identificar la oferta pública y privada de prestaciones a nivel regional y macroregional.
+d) Dar respuesta a las solicitudes de transparencia, en temas de competencia de la División.
 
-e) Diseñar, proponer, administrar y evaluar distintos mecanismos de pago a proveedores públicos y privados.
+e) Dar respuesta a requerimientos de información de Parlamentarios.
 
-f) Participar en los Directorios de Compra.
+f) Monitorear, evaluar e informar la ejecución de los indicadores de gestión de la División.
 
-g) Proponer, diseñar, administrar los convenios de compra, compromisos de gestión y cualquier otro instrumento de compra de servicios sanitarios con los prestadores públicos y/o privados.
+g) Elaborar los informes de glosa presupuestaria solicitados por la Dipres.
 
-h) Definir los mecanismos de referencia y contrarreferencia entre la red de prestadores públicos y privados en el marco de los convenios de compra que suscriba.
+h) Mantener actualizado el repositorio de datos de los distintos programas y convenios de la División.
 
-i) Definir y supervisar el proceso de visación técnica para el pago a los prestadores públicos y privados, en el marco de los convenios suscritos.
+i) Estandarizar la información producida en la División.
 
 #### Artículo 34°
 
-Del Departamento de Gestión Comercial dependerán dos Subdepartamentos: Tratamientos de Alto Costo y Territorio.
+Serán Funciones del Departamento de Gestión Comercial, las siguientes:
 
-1.- Subdepartamento Tratamientos de Alto Costo. Serán funciones de este Subdepartamento, las siguientes:
+a) Elaborar planes, programas y acciones para asegurar la entrega de servicios sanitarios a nuestros asegurados a través de la complementariedad público-privada.
 
-a. Participar en estudios de evaluación económica, análisis de evidencia clínica, análisis crítico de la literatura relacionada.
+b) Implementar y gestionar mecanismos de compra a prestadores privados.
 
-b. Participar en estudios de costo, análisis de precios de mercado e impacto presupuestario de medicamentos.
+c) Administrar y evaluar distintos mecanismos de compra a prestadores privados.
 
-c. Realizar el diseño y/o implementación de programas de Farmacovigilancia en conjunto con ISP y Minsal para beneficiarios de la ley 20.850.
+d) Elaborar contenidos técnicos de convenios de compra a prestadores privados.
 
-d. Colaborar con la Autoridad Sanitaria u otras instituciones relacionadas, en la gestión de los medicamentos y diagnóstico de alto costo definidos en la ley 20.850.
+e) Proponer, diseñar, administrar los convenios de compra, con los prestadores privados.
 
-e. Elaborar informes de gestión global para el cumplimiento de la ley 20.850.
+f) Ser contraparte de Direcciones Zonales de Fonasa en materias de su competencia.
 
-f. Monitorear el cumplimiento de las garantías de la ley 20.850.
+g) Identificar la oferta privada de prestaciones según necesidades detectadas a nivel regional, macro regional y nacional.
 
-g. Gestionar las solicitudes de consultas relacionadas con la entrega de beneficios, de acuerdo a los plazos y normativas vigentes.
+h) Participar en los Directorios de Compra con Servicios de Salud, en el ámbito de su competencia.
 
-h. Generar insumos técnicos para que se formalice la compra y distribución de tratamientos y diagnósticos de alto costo de la ley 20.850.
+i) Monitorear con los Servicios de Salud las garantías GES.
 
-i. Monitorear la actualización de convenios con prestadores ley 20.850.
+j) Resolver atenciones que requieren segundo prestador y segunda opinión GES.
 
-j. Monitorear, gestionar y controlar el cumplimiento de los términos de los convenios para el otorgamiento de las prestaciones ley 20.850.
-
-k. Supervisar la adecuada aplicación del mecanismo de facturación y pago de las prestaciones convenidas ley 20.850.
-
-l. Programación Anual de los programas especiales: Trasplante, Fertilización Asistida, Cirugía Bariátrica y otros de alto costo.
-
-m. Solicitud, monitoreo y seguimiento de la distribución de medicamentos programas alto costo.
-
-n. Programación y evaluación de compra de medicamentos de alto costo.
-
-o. Validación de programación anual de la compra centralizada de medicamentos GES y No GES.
-
-p. Asesorar a jefaturas, otros Departamentos y Direcciones Zonales en materia de tratamientos de alto costo.
-
-q. Participar en el diseño e implementación del Proyecto informático para Ley 20.850.
-
-2.- Subdepartamento Territorio. Serán funciones de este Subdepartamento, las siguientes:
-
-a. Elaborar planes, programas y acciones para asegurar la entrega de servicios sanitarios a nuestros asegurados a través de los prestadores públicos;
-
-b. Definir mecanismos de compra a prestadores públicos;
-
-c. Elaborar contenidos técnicos de convenios de compra a prestadores públicos;
-
-d. Identificar la oferta pública de prestaciones a nivel regional y macrorregional;
-
-e. Diseñar, proponer, administrar y evaluar distintos mecanismos de pago a proveedores públicos;
-
-f. Participar en Directorios de Compra;
-
-g. Proponer, diseñar y administrar los convenios de compra, compromisos de gestión y cualquier otro instrumento de compra de servicios sanitarios con prestadores públicos.
-
-h. Diseñar y monitorear indicadores de gestión con prestadores públicos.
+k) Información a otros departamentos o divisiones en el ámbito de su competencia.
 
 #### Artículo 35º
 
-Serán funciones del Departamento de Monitoreo y Análisis Comercial, las siguientes:
+Del Departamento de Gestión Comercial dependerán tres Subdepartamentos:
 
-a) Elaborar la solicitud presupuestaria anual de la División.
+1.- Subdepartamento Tratamientos de Alto Costo.
 
-b) Analizar la ejecución presupuestaria de los convenios de la División.
+2.- Subdepartamento Enfermedad Renal Crónica.
 
-c) Dar respuesta, en temas de competencia de la División, a las solicitudes de transparencia.
+3.- Subdepartamento Gestión de Convenios con privados.
 
-d) Analizar la red de atención sanitaria pública y privada y establecer brechas regionales.
+1) Subdepartamento Tratamientos de Alto Costo: Serán funciones de este Subdepartamento, las siguientes:
 
-e) Monitorear, evaluar e informar la ejecución de los indicadores de gestión de la División.
+a) Participar junto al Subdepto. de Plan de Beneficios en estudios de evaluación económica, análisis de evidencia clínica, análisis crítico de la literatura relacionada.
 
-f) Monitorear, evaluar y controlar la ejecución de los convenios vigentes.
+b) Participar junto al Subdepto. de Plan de Beneficios en estudios de costo, análisis de precios de mercado e impacto presupuestario de medicamentos.
 
-g) Elaborar la memoria anual de la División.
+c) Realizar junto al Subdepto. de Plan de Beneficios el diseño y/o implementación de programas de Farmacovigilancia en conjunto con ISP y Minsal para beneficiarios de la ley 20.850.
 
-h) Elaborar informes de precios de prestaciones de salud del sector público y privado.
+d) Colaborar con la Autoridad Sanitaria u otras Instituciones relacionadas, en la gestión de los medicamentos y diagnóstico de alto costo definidos en la ley 20.850.
 
-i) Elaborar los informes de glosa presupuestaria solicitados por la DIPRES.
+e) Elaborar informes de gestión global para el cumplimiento de la ley 20.850.
 
-j) Preparar informes de evaluación de acuerdo a las prioridades establecidas por la División.
+f) Monitorear el cumplimiento de las garantías de la ley 20.850.
 
-k) Mantener actualizado el repositorio de datos de los distintos programas y convenios de la División.
+g) Gestionar las solicitudes de consultas relacionadas con la entrega de beneficios, de acuerdo a los plazos y normativas vigentes.
 
-l) Mantener un observatorio de la División, de acuerdo a los temas priorizados por la División.
+h) Generar insumos técnicos para que se formalice la compra y distribución de tratamientos y diagnósticos de alto costo de la ley 20.850.
 
-m) Contribuir al conocimiento general, que permita a la organización mejorar la toma de decisiones.
+i) Monitorear la actualización de convenios con prestadores ley 20.850.
 
-n) Estandarizar la información producida.
+j) Monitorear, gestionar y controlar el cumplimiento de los términos de los convenios para el otorgamiento de las prestaciones ley 20.850.
+
+k) Supervisar la adecuada aplicación del mecanismo de facturación y pago de las prestaciones convenidas ley 20.850.
+
+l) Programación Anual de los programas especiales: Trasplante, Fertilización Asistida, Cirugía Bariátrica y otros de alto costo.
+
+m) Solicitud, monitoreo y seguimiento de la distribución de medicamentos programas alto costo.
+
+n) Programación y evaluación de compra de medicamentos de alto costo.
+
+o) Validación de programación anual de la compra centralizada de medicamentos GES y No GES.
+
+p) Asesorar a jefaturas, otros Departamentos y Direcciones Zonales en materia de tratamientos de alto costo.
+
+q) Participar en el diseño e implementación del Proyecto informático para ley 20.850.
+
+2) Subdepartamento Enfermedad Renal Crónica: Serán funciones de este Subdepartamento, las siguientes:
+
+a) Realizar gestión y monitoreo de las derivaciones de los beneficiarios con Enfermedad Renal Crónica GES a los Centros Privados en convenio, ajustándose a las bases del mismo.
+
+b) Gestionar, ejecutar y realizar seguimiento a nivel Nacional, del pago de las prestaciones de diálisis.
+
+c) Seguimiento y monitoreo del marco presupuestario asignado al Programa de Enfermedad Renal Crónica etapa 4 y 5. d) Relación comercial con prestadores de diálisis, en el marco de los contratos y/o convenios.
+
+d) Relación comercial con prestadores de diálisis en el marco de los contratos y/o convenios.
+
+e) Entregar lineamientos generales de los Modelos de Compra de Diálisis (Convenio Marco, Convenios de Colaboración Municipales y Tratos Directos) a Direcciones Zonales.
+
+f) Diseño y Ejecución de Convenios de compra sanitaria de Diálisis, implicando coordinación con otras Divisiones de Fonasa (Finanzas, Fiscalía, Control, Compras), con Instituciones Públicas externas (Ministerio de Salud, Servicios de Salud, Redes y otros) y con prestadores privados.
+
+3) Subdepartamento Gestión de convenios con privados: Serán funciones de este Subdepartamento, las siguientes:
+
+a) Gestionar administrativamente los Contratos de la División de Comercialización en coordinación con los encargados de las líneas programáticas.
+
+b) Mantener actualizada la información administrativa de los contratos de la División.
+
+c) Proporcionar a las Jefaturas de la División información oportuna y actualizada para la toma de decisiones.
+
+d) Coordinar procesos licitatorios de la División, siendo contraparte con las áreas involucradas.
+
+e) Asegurar la consistencia de los instrumentos de compra y los procesos y procedimientos de la División de Comercialización.
+
+f) Visación del pago y condiciones de los contratos y/o convenios relacionados a la compra sanitaria a privados.
+
+#### Artículo 35
+
+A. Serán Funciones del Departamento de Compra Sanitaria Públicos:
+
+a) Elaborar planes, programas y acciones para asegurar la entrega de servicios sanitarios a nuestros beneficiarios a través de los prestadores públicos.
+
+b) Implementar y gestionar mecanismos de compra a prestadores públicos.
+
+c) Administrar y evaluar distintos mecanismos de compra a prestadores públicos.
+
+d) Elaborar contenidos técnicos de convenios de compra a prestadores públicos.
+
+e) Proponer, diseñar, administrar los convenios de compra, compromisos de gestión y cualquier otro instrumento de compra de servicios sanitarios con los prestadores públicos.
+
+f) Ser contraparte de Direcciones Zonales de Fonasa en el ámbito de la División de Comercialización.
+
+g) Identificar la oferta pública de prestaciones a nivel regional, macro regional y nacional.
+
+h) Organizar y dirigir los Directorios de Compra con Servicios de Salud.
+
+i) Determinar brechas de oferta pública a nivel regional, macro regional y nacional.
+
+j) Monitorear con los Servicios de Salud el modelo de cumplimiento de listas de espera.
+
+k) Información a otros departamentos o divisiones en el ámbito de la compra sanitaria pública.
+
+#### Artículo 35
+
+B. Del Departamento de Compra Sanitaria Públicos dependerán 2 Subdepartamentos:
+
+1) Gestión de la compra en la red pública.
+
+2) Apoyo a la gestión de la compra pública.
+
+1) Subdepartamento Gestión de la compra en la red pública: Serán funciones de este Subdepartamento, las siguientes:
+
+a) Implementar y gestionar distintos mecanismos de compra a prestadores públicos,
+
+b) Relación comercial con los Servicios de Salud de la Región Metropolitana.
+
+c) Contraparte con unidades comerciales de las direcciones zonales del país.
+
+d) Organización de los Directorios de Compra de la Región Metropolitana.
+
+e) Entregar lineamientos, supervisar y controlar los directorios de compra de las Direcciones Zonales.
+
+f) Monitoreo de listas de espera y actividad GES con los Servicios de Salud.
+
+g) Identificar la oferta pública de prestaciones a nivel regional, macro regional y nacional.
+
+2) Subdepartamento Apoyo a la gestión de la compra pública: Serán Funciones de este Subdepartamento, las siguientes:
+
+a) Elaborar planes, programas y acciones para asegurar la entrega de servicios sanitarios a nuestros beneficiarios a través de los prestadores públicos.
+
+b) Evaluar distintos mecanismos de compra a prestadores públicos junto con el Subdepartamento de Territorio.
+
+c) Elaborar contenidos técnicos de convenios de compra a prestadores públicos.
+
+d) Determinar brechas de oferta pública a nivel regional, macro regional y nacional.
+
+e) Monitorear los procesos de las cuentas médicas y ejecución de transferencia de los recursos a los Servicios de Salud a través de los distintos mecanismos de compra pública.
+
+f) Elaborar las distintas solicitudes de los decretos presupuestarios asociados a los distintos mecanismos de compra.
+
+#### Artículo 35
+
+C. Serán funciones del Departamento GRD, las siguientes:
+
+a) Diseñar mecanismos de compra y pago basados en GRD para prestadores públicos y privados y otros mecanismos de compra asociados al proyecto GRD.
+
+b) Implementar y gestionar el mecanismo de compra y pago por GRD en redes públicas y privadas.
+
+c) Monitoreo, análisis y evaluación del funcionamiento y desempeño del mecanismo de compra y pago por GRD en redes públicas y privadas.
+
+d) Definir aspectos técnicos y comerciales de la compra sanitaria pública y privada asociada a GRD.
+
+e) Liderar la capacitación de los equipos profesionales de Fondo en materias relativas a GRD en el ámbito clínico y financiero.
+
+f) Liderar la difusión e información respecto a la implementación y sus resultados, respecto del mecanismo de compra y pago por GRD.
+
+g) Dar apoyo técnico a otras Divisiones, Departamentos, Subdepartamentos, y Direcciones Zonales en materias relativas a la implementación del mecanismo de compra y pago por GRD.
+
+h) Elaborar reportes e informes requeridos en materia GRD.
+
+i) Asesorar a Jefaturas, otras Divisiones, Departamentos y Direcciones Zonales del Fondo Nacional de Salud, en materias de GRD.
+
+j) Dar cumplimiento a otras tareas asignadas por la jefatura de la División, en materias de compra sanitaria.
+
+k) Participación activa en mesas de trabajo y comisiones Interinstitucionales formadas en el marco de materias clínico y financieras de Salud.
 
 #### Artículo 35 bis
 
