@@ -64,471 +64,187 @@ b) Illapel, cuyo límite está definido por la
 
 comuna del mismo nombre.
 
-3.- Región Vitícola de Aconcagua: Comprende a la V Región Administrativa de Valparaíso, que corresponde para estos efectos las siguientes Subregiones: Valle del Aconcagua, Valle de Casablanca, Valle de San Antonio, Área del Valle del Marga-Marga, cuyo límite está definido por la comuna de Quilpué, y el Área de Zapallar, cuyo límite está definido por la comuna del mismo nombre.
+3.- REGIÓN VITÍCOLA DE ACONCAGUA: Comprende a la V Región Administrativa de Valparaíso, que corresponde para estos efectos a las siguientes Subregiones: Valle del Aconcagua, Valle de Casablanca, Valle de San Antonio, Área del Valle del Marga-Marga, cuyo límite está definido por la comuna de Quilpué, y el Área de Zapallar, cuyo límite está definido por la comuna del mismo nombre.
 
-A) Valle del Aconcagua comprende a las provincias de
+A) Valle del Aconcagua comprende a las provincias de San Felipe de Aconcagua, Los Andes y Quillota y en él se encuentran las siguientes Áreas:
 
-San Felipe de Aconcagua, Los Andes y Quillota, y en
+a) Panquehue, cuyo límite está definido por la comuna del mismo nombre.
 
-él se encuentran las siguientes áreas:
+b) Quillota, cuyo límite está definido por la comuna del mismo nombre.
 
-a) Panquehue, cuyo límite está definido por la
+c) Hijuelas, cuyo límite está definido por la comuna del mismo nombre.
 
-comuna del mismo nombre.
+d) Catemu, cuyo límite está definido por la comuna del mismo nombre.
 
-b) Quillota, cuyo límite está definido por la
+e) Llaillay, cuyo límite está definido por la comuna del mismo nombre.
 
-comuna del mismo nombre.
+f) San Felipe, cuyo límite está definido por la comuna del mismo nombre.
 
-c) Hijuelas, cuyo límite está definido por la
+g) Santa María, cuyo límite está definido por la comuna del mismo nombre.
 
-comuna del mismo nombre.
+h) Calle Larga, cuyo límite está definido por la comuna del mismo nombre.
 
-d) Catemu, cuyo límite está definido por la
+i) San Esteban, cuyo límite está definido por la comuna del mismo nombre.
 
-comuna del mismo nombre.
+B) Valle de Casablanca, cuyo límite se extiende a la comuna del mismo nombre.
 
-e) Llaillay, cuyo límite está definido por la
+C) Valle de San Antonio, comprende a la provincia de igual nombre y en él se encuentran la Zona Valle de Leyda, el Área de Lo Abarca, cuyo límite es la localidad rural del mismo nombre en la comuna de Cartagena, y las Áreas de Cartagena y Algarrobo, cuyos límites están definidos por las comunas del mismo nombre.
 
-comuna del mismo nombre.
+Valle de Leyda, cuyo límite está definido por las comunas de San Antonio y Santo Domingo y en él se encuentran las siguientes Áreas:
 
-f) San Felipe, cuyo límite está definido por la
+a) San Juan, cuyo límite está definido por la comuna de San Antonio.
 
-comuna del mismo nombre.
+b) Santo Domingo, cuyo límite está definido por la comuna del mismo nombre.
 
-g) Santa María, cuyo límite está definido por la
+4.- REGIÓN VITÍCOLA DEL VALLE CENTRAL: Comprende desde la provincia de Chacabuco de la Región Administrativa Metropolitana de Santiago hasta las provincias de Cauquenes y Linares de la VII Región Administrativa del Maule, que corresponde para estos efectos a las siguientes Subregiones: Valle del Maipo, Valle del Rapel, Valle de Curicó y Valle del Maule.
 
-comuna del mismo nombre.
+A) Valle del Maipo: Comprende todas las provincias de la Región Administrativa Metropolitana de Santiago y en él se encuentran las siguientes Áreas:
 
-h) Calle Larga, cuyo límite está definido por la
+a) Santiago, cuyo límite está definido por las comunas de Peñalolén y La Florida.
 
-comuna del mismo nombre.
+b) Pirque, cuyo límite está definido por la comuna del mismo nombre.
 
-i) San Esteban, cuyo límite está definido por la
+c) Puente Alto, cuyo límite está definido por la comuna del mismo nombre y la comuna de La Pintana.
 
-comuna del mismo nombre.
+d) Buin, cuyo límite está definido por la comuna del mismo nombre y las comunas de Paine y San Bernardo.
 
-B) Valle de Casablanca, cuyo límite se extiende a la
+e) Isla de Maipo, cuyo límite está definido por la comuna del mismo nombre.
 
-comuna del mismo nombre.
+f) Talagante, cuyo límite está definido por la comuna del mismo nombre y las comunas de Peñaflor, El Monte y Padre Hurtado.
 
-C) Valle de San Antonio, comprende a la provincia de
+g) Melipilla, cuyo límite está definido por la comuna del mismo nombre y la comuna de San Pedro.
 
-igual nombre, y en él se encuentran la Zona Valle
+h) Alhué, cuyo límite está definido por la comuna del mismo nombre.
 
-de Leyda y las Áreas de Cartagena y Algarrobo,
+i) María Pinto, cuyo límite está definido por la comuna del mismo nombre.
 
-cuyos límites están definidos por las comunas del
+j) Colina, cuyo límite está definido por la comuna del mismo nombre.
 
-mismo nombre.
+k) Calera de Tango, cuyo límite está definido por la comuna del mismo nombre.
 
-Valle de Leyda, cuyo límite está definido por las
+l) Til Til, cuyo límite está definido por la comuna del mismo nombre.
 
-comunas de San Antonio y Santo Domingo, y en él se
+m) Lampa, cuyo límite está definido por la comuna del mismo nombre.
 
-encuentran las siguientes Áreas:
+B) Valle del Rapel: Comprende las provincias de Cachapoal, Colchagua y Cardenal Caro de la VI Región Administrativa del Libertador General Bernardo O'Higgins y en él se encuentran las siguientes Zonas: Valle del Cachapoal y Valle de Colchagua.
 
-a) San Juan, cuyo límite está definido por la
+Valle del Cachapoal comprende la provincia de igual nombre y en él se encuentran las siguientes áreas:
 
-comuna de San Antonio.
+a) Rancagua, cuyo límite está definido por la comuna del mismo nombre y las comunas de Graneros, Mostazal, Codegua y Olivar.
 
-b) Santo Domingo, cuyo límite está definido por
+b) Requínoa, cuyo límite está definido por la comuna del mismo nombre.
 
-la comuna del mismo nombre.
+c) Rengo, cuyo límite está definido por la comuna del mismo nombre y las comunas de Malloa y Quinta de Tilcoco.
 
-4.- Región Vitícola del Valle Central: Comprende desde la provincia de Chacabuco, de la Región Administrativa Metropolitana de Santiago, hasta las provincias de Cauquenes y Linares de la VII Región Administrativa del Maule, que corresponde para estos efectos las siguientes Subregiones: Valle del Maipo, Valle del Rapel, Valle de Curicó y Valle del Maule.
+d) Peumo, cuyo límite está definido por la comuna del mismo nombre y las comunas de Pichidegua, Las Cabras y San Vicente.
 
-A) Valle del Maipo: Comprende todas las provincias de
+e) Machalí, cuyo límite está definido por la comuna del mismo nombre.
 
-la Región Administrativa Metropolitana de Santiago,
+f) Coltauco, cuyo límite está definido por la comuna del mismo nombre.
 
-y en él se encuentran las siguientes Áreas:
+El Valle de Colchagua comprende las provincias de Colchagua y Cardenal Caro y en él se encuentran las siguientes áreas:
 
-a) Santiago, cuyo límite está definido por las
+a) San Fernando, cuyo límite está definido por la comuna del mismo nombre.
 
-comunas de Peñalolén y La Florida.
+b) Chimbarongo, cuyo límite está definido por la comuna del mismo nombre.
 
-b) Pirque, cuyo límite está definido por la
+c) Nancagua, cuyo límite está definido por la comuna del mismo nombre y la comuna de Placilla.
 
-comuna del mismo nombre.
+d) Santa Cruz, cuyo límite está definido por la comuna del mismo nombre y la comuna de Chépica.
 
-c) Puente Alto, cuyo límite está definido por la
+e) Palmilla, cuyo límite está definido por la comuna del mismo nombre.
 
-comuna del mismo nombre y la comuna de La
+f) Peralillo, cuyo límite está definido por la comuna del mismo nombre.
 
-Pintana.
+g) Lolol, cuyo límite está definido por la comuna del mismo nombre.
 
-d) Buin, cuyo límite está definido por la comuna
+h) Marchigüe, cuyo límite está definido por la comuna del mismo nombre.
 
-del mismo nombre y las comunas de Paine y San
+i) Litueche, cuyo límite está definido por la comuna del mismo nombre.
 
-Bernardo.
+j) La Estrella, cuyo límite está definido por la comuna del mismo nombre.
 
-e) Isla de Maipo, cuyo límite está definido por
+k) Paredones, cuyo límite está definido por la comuna del mismo nombre.
 
-la comuna del mismo nombre.
+l) Pumanque, cuyo límite está definido por la comuna del mismo nombre.
 
-f) Talagante, cuyo límite está definido por la
+m) Los Lingues, cuyo límite está definido por la localidad rural del mismo nombre en la comuna de San Fernando.
 
-comuna del mismo nombre y las comunas de
+n) Apalta, cuyo límite está definido por la localidad rural del mismo nombre en la comuna de Santa Cruz.
 
-Peñaflor, El Monte y Padre Hurtado.
+C) Valle de Curicó: Comprende la provincia de Curicó y la comuna de Río Claro de la provincia de Talca de la VII Región Administrativa del Maule y en él se encuentran las siguientes Zonas: Valle del Teno y Valle del Lontué.
 
-g) Melipilla, cuyo límite está definido por la
+El Valle del Teno comprende las comunas de Teno, Romeral, Rauco, Hualañé y Vichuquén de la provincia de Curicó y en él se encuentran las siguientes áreas:
 
-comuna del mismo nombre y la comuna de San
+a) Rauco, cuyo límite está definido por la comuna del mismo nombre y la comuna de Hualañé.
 
-Pedro.
+b) Romeral, cuyo límite está definido por la comuna del mismo nombre y la comuna de Teno.
 
-h) Alhué, cuyo límite está definido por la comuna
+c) Vichuquén, cuyo límite está definido por la comuna del mismo nombre.
 
-del mismo nombre.
+d) Licantén, cuyo límite está definido por la comuna del mismo nombre.
 
-i) María Pinto, cuyo límite está definido por la
+El Valle del Lontué comprende las comunas de Curicó, Molina y Sagrada Familia de la provincia de Curicó y la comuna de Río Claro de la provincia de Talca y en él se encuentran las siguientes áreas:
 
-comuna del mismo nombre.
+a) Molina, cuyo límite está definido por la comuna del mismo nombre y las comunas de Río Claro y Curicó.
 
-j) Colina, cuyo límite está definido por la
+b) Sagrada Familia, cuyo límite está definido por la comuna del mismo nombre.
 
-comuna del mismo nombre.
+D) Valle del Maule: Comprende la provincia de Talca, con excepción de la comuna de Río Claro, la provincia de Linares y la comuna de Cauquenes de la provincia del mismo nombre de la VII Región Administrativa del Maule y en él se encuentran las siguientes Zonas: Valle del Claro, Valle del Loncomilla y Valle del Tutuvén.
 
-k) Calera de Tango, cuyo límite está definido por
+El Valle del Claro comprende las comunas de Talca, San Clemente, Pencahue, Maule, Pelarco, San Rafael, Empedrado y Curepto de la provincia de Talca y en él se encuentran las siguientes áreas:
 
-la comuna del mismo nombre.
+a) Talca, cuyo límite está definido por la comuna del mismo nombre y las comunas de Maule y Pelarco.
 
-l) Til Til, cuyo límite está definido por la
+b) Pencahue, cuyo límite está definido por la comuna del mismo nombre.
 
-comuna del mismo nombre.
+c) San Clemente, cuyo límite está definido por la comuna del mismo nombre.
 
-m) Lampa, cuyo límite está definido por la comuna
+d) San Rafael, cuyo límite está definido por la comuna del mismo nombre.
 
-del mismo nombre.
+e) Empedrado, cuyo límite está definido por la comuna del mismo nombre.
 
-B) Valle del Rapel: Comprende las provincias de
+f) Curepto, cuyo límite está definido por la comuna del mismo nombre.
 
-Cachapoal, Colchagua y Cardenal Caro de la VI
+El Valle del Loncomilla comprende las comunas de San Javier, Villa Alegre, Retiro, Parral, Linares, Yerbas Buenas, Colbún y Longaví de la provincia de Linares y en él se encuentran las siguientes áreas:
 
-Región Administrativa del Libertador General
+a) San Javier, cuyo límite está definido por la comuna del mismo nombre.
 
-Bernardo O'Higgins, y en él se encuentran las
+b) Villa Alegre, cuyo límite está definido por la comuna del mismo nombre.
 
-siguientes Zonas: Valle del Cachapoal y Valle de
+c) Parral, cuyo límite está definido por la comuna del mismo nombre.
 
-Colchagua.
+d) Linares, cuyo límite está definido por la comuna del mismo nombre y la comuna de Yerbas Buenas.
 
-Valle del Cachapoal comprende la provincia de igual
+e) Colbún, cuyo límite está definido por la comuna del mismo nombre.
 
-nombre, y en él se encuentran las siguientes Áreas:
+f) Longaví, cuyo límite está definido por la comuna del mismo nombre.
 
-a) Rancagua, cuyo límite está definido por la
+g) Retiro, cuyo límite está definido por la comuna del mismo nombre.
 
-comuna del mismo nombre y las comunas de
+El Valle del Tutuvén comprende la comuna de Cauquenes de la provincia del mismo nombre y en él se encuentra el área de Cauquenes, cuyo límite está definido por la comuna del mismo nombre.
 
-Graneros, Mostazal, Codegua y Olivar.
+5. REGIÓN VITÍCOLA DEL SUR: Comprende desde las provincias del Valle del Itata, Punilla y Diguillín de la XVI Región Administrativa del Ñuble, hasta la provincia de Malleco de la IX Región Administrativa de la Araucanía, que corresponde para estos efectos a las siguientes Subregiones: Valle del Itata, Valle del Biobío y Valle del Malleco.
 
-b) Requínoa, cuyo límite está definido por la
+A) Valle del Itata: Comprende las comunas de Chillán, Coelemu, Ránquil, Quillón, Portezuelo, Ninhue, Treguaco, Quirihue, San Nicolás, Bulnes y San Carlos de la Región de Ñuble y la comuna de Florida de la provincia de Concepción de la VIII Región Administrativa de Biobío y en él se encuentran las siguientes áreas:
 
-comuna del mismo nombre.
+a) Chillán, cuyo límite está definido por la comuna del mismo nombre y las comunas de Bulnes, San Carlos, Chillán Viejo y Ñiquén.
 
-c) Rengo, cuyo límite está definido por la comuna
+b) Quillón, cuyo límite está definido por la comuna del mismo nombre y las comunas de Ránquil y Florida.
 
-del mismo nombre y las comunas de Malloa y
+c) Portezuelo, cuyo límite está definido por la comuna del mismo nombre y las comunas de Ninhue, Quirihue y San Nicolás.
 
-Quinta de Tilcoco.
+d) Coelemu, cuyo límite está definido por la comuna del mismo nombre y la comuna de Treguaco.
 
-d) Peumo, cuyo límite está definido por la comuna
+B) Valle del Biobío: Comprende las comunas de Yumbel, Nacimiento, Mulchén, Negrete y Laja de la provincia de Biobío de la VIII Región Administrativa del Biobío, y en él se encuentran las siguientes áreas:
 
-del mismo nombre y las comunas de Pichidegua,
+a) Yumbel, cuyo límite está definido por la comuna del mismo nombre y la comuna de Laja.
 
-Las Cabras y San Vicente.
+b) Mulchén, cuyo límite está definido por la comuna del mismo nombre y las comunas de Nacimiento y Negrete.
 
-e) Machalí, cuyo límite está definido por la
+C) Valle del Malleco: Comprende las comunas de Angol, Collipulli, Ercilla, Los Sauces, Lumaco, Purén, Renaico, Traiguén y Victoria de la provincia de Malleco de la IX Región Administrativa de la Araucanía y en él se encuentra el área de Traiguén, cuyo límite está definido por la comuna del mismo nombre.
 
-comuna del mismo nombre.
-
-f) Coltauco, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-El Valle de Colchagua comprende las provincias de
-
-Colchagua y Cardenal Caro, y en él se encuentran
-
-las siguientes Áreas:
-
-a) San Fernando, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-b) Chimbarongo, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-c) Nancagua, cuyo límite está definido por la
-
-comuna del mismo nombre y la comuna de
-
-Placilla.
-
-d) Santa Cruz, cuyo límite está definido por la
-
-comuna del mismo nombre y la comuna de
-
-Chépica.
-
-e) Palmilla, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-f) Peralillo, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-g) Lolol, cuyo límite está definido por la comuna
-
-del mismo nombre.
-
-h) Marchigüe, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-i) Litueche, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-j) La Estrella, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-k) Paredones, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-l) Pumanque, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-C) Valle de Curicó: Comprende la provincia de Curicó y
-
-la comuna de Río Claro, de la provincia de Talca,
-
-de la VII Región Administrativa del Maule, y en él
-
-se encuentran las siguientes Zonas: Valle del Teno
-
-y Valle del Lontué.
-
-El Valle del Teno comprende las comunas de Teno,
-
-Romeral, Rauco, Hualañé y Vichuquén, de la
-
-provincia de Curicó, y en él se encuentran las
-
-siguientes Áreas:
-
-a) Rauco, cuyo límite está definido por la comuna
-
-del mismo nombre y la comuna de Hualañé.
-
-b) Romeral, cuyo límite está definido por la
-
-comuna del mismo nombre y la comuna de Teno.
-
-c) Vichuquén, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-El Valle del Lontué comprende las comunas de
-
-Curicó, Molina y Sagrada Familia, de la provincia
-
-de Curicó, y la comuna de Río Claro, de la
-
-provincia de Talca, y en él se encuentran las
-
-siguientes Áreas:
-
-a) Molina, cuyo límite está definido por la
-
-comuna del mismo nombre y las comunas de Río
-
-Claro y Curicó.
-
-b) Sagrada Familia, cuyo límite está definido por
-
-la comuna del mismo nombre.
-
-D) Valle del Maule: Comprende la provincia de Talca,
-
-con excepción de la comuna de Río Claro, la
-
-provincia de Linares y la comuna de Cauquenes, de
-
-la provincia del mismo nombre, de la VII Región
-
-Administrativa del Maule, y en él se encuentran las
-
-siguientes Zonas: Valle del Claro, Valle del
-
-Loncomilla y Valle del Tutuvén.
-
-El Valle del Claro comprende las comunas de Talca,
-
-San Clemente, Pencahue, Maule, Pelarco, San Rafael,
-
-Empedrado y Curepto, de la provincia de Talca, y en
-
-él se encuentran las siguientes Áreas:
-
-a) Talca, cuyo límite está definido por la comuna
-
-del mismo nombre y las comunas de Maule y
-
-Pelarco.
-
-b) Pencahue, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-c) San Clemente, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-d) San Rafael, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-e) Empedrado, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-f) Curepto, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-El Valle del Loncomilla comprende las comunas de
-
-San Javier, Villa Alegre, Retiro, Parral, Linares,
-
-Yerbas Buenas, Colbún y Longaví, de la provincia de
-
-Linares, y en él se encuentran las siguientes
-
-Áreas:
-
-a) San Javier, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-b) Villa Alegre, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-c) Parral, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-d) Linares, cuyo límite está definido por la
-
-comuna del mismo nombre y la comuna de Yerbas
-
-Buenas.
-
-e) Colbún, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-f) Longaví, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-g) Retiro, cuyo límite está definido por la
-
-comuna del mismo nombre.
-
-El Valle del Tutuvén comprende la comuna de
-
-Cauquenes, de la provincia del mismo nombre, y en
-
-él se encuentra el Área de Cauquenes, cuyo límite
-
-está definido por la comuna del mismo nombre.
-
-5. Región Vitícola del Sur: Comprende desde la provincia de Ñuble, de la VIII Región Administrativa del Bíobío, hasta la provincia de Malleco, de la IX Región Administrativa de la Araucanía, que corresponde para estos efectos, las siguientes Subregiones: Valle del Itata, Valle del Biobío y Valle del Malleco.
-
-A) Valle del Itata: Comprende las comunas de Chillán,
-
-Coelemu, Ránquil, Quillón, Portezuelo, Ninhue,
-
-Treguaco, Quirihue, San Nicolás, Bulnes y San
-
-Carlos, de la provincia de Ñuble, y la comuna de
-
-Florida, de la provincia de Concepción, de la VIII
-
-Región Administrativa de Biobío, y en él se
-
-encuentran las siguientes Áreas:
-
-a) Chillán, cuyo límite está definido por
-
-la comuna del mismo nombre y las comunas
-
-de Bulnes, San Carlos, Chillan Viejo
-
-y Ñiquén.
-
-b) Quillón, cuyo límite está definido por la
-
-comuna del mismo nombre y las comunas de
-
-Ranquil y Florida.
-
-c) Portezuelo, cuyo límite está definido por la
-
-comuna del mismo nombre y las comunas de
-
-Ninhue, Quirihue y San Nicolás.
-
-d) Coelemu, cuyo límite está definido por la
-
-comuna del mismo nombre y la comuna de
-
-Treguaco.
-
-B) Valle del Biobío: Que comprende las comunas de
-
-Yumbel, Nacimiento, Mulchén, Negrete y Laja, de la
-
-provincia de Biobío, de la VIII Región
-
-Administrativa del Biobío, y en él se encuentran
-
-las siguientes Áreas:
-
-a) Yumbel, cuyo límite está definido por la
-
-comuna del mismo nombre y la comuna de Laja.
-
-b) Mulchén, cuyo límite está definido por la
-
-comuna del mismo nombre y las comunas de
-
-Nacimiento y Negrete.
-
-C) Valle del Malleco: Que comprende las comunas de
-
-Angol, Collipulli, Ercilla, Los Sauces, Lumaco,
-
-Purén, Renaico, Traiguén y Victoria, de la
-
-provincia de Malleco, de la IX Región
-
-Administrativa de la Araucanía, y en él se
-
-encuentra el Área de Traiguén, cuyo límite está
-
-definido por la comuna del mismo nombre.
+En las etiquetas de los envases de los vinos se podrán señalar las Regiones, Subregiones, Zonas y Áreas que se presentan en el siguiente cuadro:
 
 6. Región Vitícola Austral: Comprende desde la provincia de Cautín, de la IX Región Administrativa de la Araucanía, hasta donde las condiciones edafoclimáticas permitan el desarrollo de la vid y que corresponde para estos efectos las siguientes Subregiones: Valle del Cautín y Valle de Osorno.
 
@@ -582,13 +298,13 @@ Marsanne
 
 Moscatel de Alejandría Blanca Italia
 
+Moscatel de Austria
+
 Moscatel Rosada
 
 Pedro Jiménez Pedro Ximénez
 
-Pinot blanc Pinot blanco, Burgunder
-
-Weisser
+Pinot blanc Pinot blanco, Burgunder Weisser
 
 Pinot gris Pinot grigio
 
@@ -604,17 +320,21 @@ Sauvignon vert Friulano
 
 Semillón
 
-Torontel
+Torontel Torrontés, Torrontés Riojano
 
 Verdejo
 
-Vermentino B Malvasia B
+Vermentino Malvasia
 
 Viognier
 
 Xarello
 
 Variedades Tintas Sinónimos
+
+Alicante Henri Bouschet Alicante Bouschet, Alicante
+
+Bouchet
 
 Barbera
 
@@ -628,7 +348,7 @@ Carignan Carignane, Cariñena
 
 Carmenère Grande Vidure, Carmener,
 
-Carménère, Carmenere
+carménère, Carmenere
 
 Cot Cot rouge, Malbec, Malbek,
 
@@ -652,6 +372,8 @@ Pinot noir Pinot negro
 
 Portugais bleu
 
+Romano Cesar, Cesar Noir
+
 Sangiovese Nielluccio
 
 Syrah Sirah, Shiraz
@@ -660,7 +382,7 @@ Tannat
 
 Tempranillo
 
-Touriga nacional N Azal
+Touriga nacional Azal
 
 Verdot
 
@@ -674,9 +396,9 @@ e) El vino con denominación de origen deberá ser envasado en el territorio nac
 
 #### Artículo 3º Bis
 
-La denominación de origen especial "Secano Interior", podrá señalarse en la etiqueta seguido de la respectiva Sub región, Zona o Área vitivinícola, siempre que corresponda a vinos de los cepajes País o Cinsault y que éstos provengan exclusivamente de las áreas de secano de Rauco, Romeral, Molina, Sagrada Familia, Talca, Pencahue, San Clemente, San Rafael, San Javier, Villa Alegre, Parral, Linares, Cauquenes, Chillán, Quillón, Portezuelo, Coelemu o Yumbel. Los límites geográficos de cada una de las áreas indicadas serán los que para cada una de ellas se indican en el artículo 1º precedente. Podrán usar también esta denominación especial, seguido del nombre de las comunas de Bulnes, Curepto, Florida, Ninhue, Ñiquén, Quirihue, Ránquil, San Nicolás, San Carlos o Treguaco, los vinos provenientes de las cepas indicadas, obtenidos en las áreas de secano de dichas divisiones administrativas.
+La denominación de origen especial "Secano Interior" o su correspondiente Subregión, Zona o Área vitivinícola, podrá señalarse en la etiqueta, siempre que corresponda a vinos de los cepajes País o Cinsault y que éstos provengan exclusivamente de las áreas de secano de Rauco, Romeral, Molina, Sagrada Familia, Talca, Pencahue, San Clemente, San Rafael, San Javier, Villa Alegre, Parral, Linares, Cauquenes, Chillán, Quillón, Portezuelo, Coelemu o Yumbel. Los límites geográficos de cada una de las áreas indicadas serán los que para cada una de ellas se indican en el artículo 1° precedente. Podrán usar también esta denominación especial, seguido del nombre de las comunas de Bulnes, Curepto, Florida, Ninhue, Ñiquén, Quirihue, Ránquil, San Nicolás, San Carlos o Treguaco, los vinos provenientes de las cepas indicadas, obtenidos en las áreas de secano de dichas divisiones administrativas.
 
-El cepaje País tiene como sinónimos internacionalmente aceptados, los de Mission y Criolla.
+El cepaje País tiene como sinónimos internacionalmente aceptados los de Mission y Criolla.
 
 #### Artículo 3º Ter
 
@@ -814,13 +536,11 @@ d) Cuando se haga mención del año de cosecha, los vinos del año indicado debe
 
 e) Los requisitos indicados en las letras precedentes deberán ser verificados por el Servicio Agrícola y Ganadero o por una empresa certificadora autorizada por éste.
 
-#### Artículo 10 ter
+#### Artículo 10º ter
 
-Los envases en que se expenda vino de mesa deberán contener en la etiqueta principal, en forma visible y perfectamente identificable por el consumidor con colores contrastantes que no dificulten su lectura, la expresión "Vino de mesa", con caracteres no inferiores al 4% de la altura total de la etiqueta, los que en ningún caso podrán tener una altura inferior a 10 milímetros.
+Los envases en que se expenda vino elaborado con uva de mesa deberán contener en la etiqueta principal, en forma visible y perfectamente identificable por el consumidor con colores contrastantes que no dificulten su lectura, la expresión "Vino elaborado con uva de mesa" con caracteres no inferiores al 4% de la altura total de la etiqueta, los que en ningún caso podrán tener una altura inferior a 10 milímetros. Las demás menciones que se contengan en las etiquetas, se ceñirán a las normas generales establecidas por la legislación vigente.
 
-Los envases en que se expenda vino de mesa deberán indicar la dirección o el nombre de la ciudad o localidad en donde se envasó el producto, así como la mención: "Vino obtenido de uva de mesa", empleando caracteres tipográficos que no deberán ser de un tamaño mayor que la mitad del utilizado para señalar que se trata de vino de mesa. Las demás menciones que se contengan en las etiquetas se ceñirán a las normas generales establecidas por la legislación vigente
-
-Los vinos de mesa sólo podrán expresar en su rotulación la marca comercial y recomendaciones a los consumidores, y no podrán contener menciones de cepaje, de calidad, ni año de cosecha.
+Los vinos elaborados con uva de mesa, sólo podrán expresar en su rotulación la marca comercial y recomendaciones a los consumidores, y no podrán contener menciones de cepaje, de calidad, ni año de cosecha.
 
 #### Artículo 11°
 
