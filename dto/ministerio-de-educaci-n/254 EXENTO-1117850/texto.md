@@ -26,6 +26,10 @@ Desígnase, como representante del Ministerio de Educación en el Directorio del
 
 El representante antes individualizado, por razones impostergables de buen servicio, asumirá sus funciones inmediatamente, sin esperar la total tramitación del presente decreto.
 
+A contar de la fecha del presente acto, se deja sin efecto el decreto exento Nº 254, de 2018, del Ministerio de Educación, que contiene la designación de don Francisco Prieto Henríquez, como representante del Ministerio de Educación en el Directorio del Centro de Formación Técnica de la Región de Tarapacá.
+
+> **Nota.** El artículo 1 del Decreto 287 Exento, Educación, publicado el 26.05.2018, dispone agregar un segundo inciso nuevo al artículo 2, ordenando por consiguiente dejar sin efecto el presente Decreto 254 Exento. Sin embargo, según lo señala el considerando cuarto de la citada norma, la designación de don Francisco Prieto Henríquez, como representante del Ministerio de Educación en el Directorio del Centro de Formación Técnica de la Región de Tarapacá se efectuó mediante el Decreto 3, Educación, publicado el 24.01.2018.
+
 #### Artículo 3
 
 Se deja constancia que el representante designado servirá su cargo ad honorem y no le reportará ingreso alguno.
