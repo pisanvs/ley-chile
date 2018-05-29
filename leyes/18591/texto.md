@@ -504,23 +504,23 @@ Decláranse válidos el pago y la percepción de la subvención otorgada hasta e
 
 #### Artículo 29
 
-Los contribuyentes de los impuestos establecidos en el Título II y en los artículos 40 y 42 del decreto ley N° 825, de 1974, que se encuentren al día en el pago de dichos tributos, podrán utilizar como crédito fiscal el monto de los referidos impuestos que hayan recargado separadamente en facturas pendientes de pago emitidas a otros contribuyentes de estos mismos impuestos que hubieren sido declarados en quiebra, siempre que los tributos respectivos hayan sido declarados y enterados en arcas fiscales oportunamente.
+Los contribuyentes de los impuestos establecidos en el Título II y en los artículos 40 y 42 del decreto ley N° 825, de 1974, que se encuentren al día en el pago de dichos tributos, podrán utilizar como crédito fiscal el monto de los referidos impuestos que hayan recargado separadamente en facturas pendientes de pago emitidas a otros contribuyentes de estos mismos impuestos que tengan actualmente la calidad de deudor en un procedimiento concursal de liquidación, siempre que los tributos respectivos hayan sido declarados y enterados en arcas fiscales oportunamente.
 
 En el caso de que se hayan efectuado abonos a las deudas contenidas en las facturas a que se refiere el inciso anterior, éstos se imputarán primero a los impuestos recargados en ellas, y el derecho a utilizar como crédito fiscal los referidos impuestos sólo podrán hacerse valer sobre la parte no cubierta por los abonos, si la hubiera.
 
-Los requisitos establecidos en el inciso primero, de encontrarse el contribuyente al día en el pago de los impuestos y de haber enterado oportunamente en arcas fiscales los tributos que desea emplear como crédito fiscal, se acreditarán ante el Síndico exhibiéndole los tres últimos recibos de pago de los impuestos referidos y los recibos de pago de los impuestos devengados en los meses a que correspondan las facturas que presente para obtener los beneficios de este artículo.
+Los requisitos establecidos en el inciso primero, de encontrarse el contribuyente al día en el pago de los impuestos y de haber enterado oportunamente en arcas fiscales los tributos que desea emplear como crédito fiscal, se acreditarán ante el liquidador exhibiéndole los tres últimos recibos de pago de los impuestos referidos y los recibos de pago de los impuestos devengados en los meses a que correspondan las facturas que presente para obtener los beneficios de este artículo.
 
-Para estos efectos, en la verificación de créditos deberá individualizarse por su número y fecha de emisión las facturas en las cuales se recargaron los impuestos e indicarse en forma separada el monto de la operación, el de los tributos recargados y el de los abonos que según el inciso segundo corresponda imputar y descontar de dichos tributos. Una vez reconocida la deuda, el Síndico en representación del fallido, emitirá una nota de débito por el monto correspondiente a los impuestos recargados y el de sus abonos si los hubiere, y que, por la parte que proceda, el Síndico contabilizará como un débito fiscal del fallido y el acreedor como un crédito fiscal que podrá utilizar en forma normal como correspondiente al período en que se emita la respectiva nota de débito. Esta nota de débito deberá cumplir con los requisitos legales y reglamentarios propios de dichos documentos y en ella se individualizarán las facturas verificadas por su número y fecha de emisión.
+Para estos efectos, en la verificación de créditos deberá individualizarse por su número y fecha de emisión las facturas en las cuales se recargaron los impuestos e indicarse en forma separada el monto de la operación, el de los tributos recargados y el de los abonos que según el inciso segundo corresponda imputar y descontar de dichos tributos. Una vez reconocida la deuda, el liquidador en representación del deudor sometido a un procedimiento concursal de liquidación, emitirá una nota de débito por el monto correspondiente a los impuestos recargados y el de sus abonos si los hubiere, y que, por la parte que proceda, el liquidador contabilizará como un débito fiscal del fallido y el acreedor como un crédito fiscal que podrá utilizar en forma normal como correspondiente al período en que se emita la respectiva nota de débito. Esta nota de débito deberá cumplir con los requisitos legales y reglamentarios propios de dichos documentos y en ella se individualizarán las facturas verificadas por su número y fecha de emisión.
 
-Reconocido el crédito por los impuestos señalados y emitida la nota de débito por el Síndico, el Fisco, representado por el Servicio de Tesorerías, se subrogará en los derechos del acreedor para recuperar del deudor el importe del impuesto respectivo. El referido crédito gozará, de pleno derecho y sin más trámite, de la preferencia para su pago establecida en el N° 9 del artículo 2472 del Código Civil.
+Reconocido el crédito por los impuestos señalados y emitida la nota de débito por el liquidador, el Fisco, representado por el Servicio de Tesorerías, se subrogará en los derechos del acreedor para recuperar del deudor el importe del impuesto respectivo. El referido crédito gozará, de pleno derecho y sin más trámite, de la preferencia para su pago establecida en el N° 9 del artículo 2472 del Código Civil.
 
 Los créditos reconocidos serán reajustables, y para estos efectos se convertirán en unidades tributarias mensuales según su valor vigente al momento de la emisión de la nota de débito, y se convertirán en pesos según el valor vigente de dichas unidades a la fecha del pago de los referidos créditos.
 
-Los Síndicos deberán efectuar en el Servicio de Tesorerías los pagos correspondientes a los créditos constituidos por los impuestos referidos, dentro de los plazos fijados para el pago del Impuesto al Valor Agregado devengado en el mes en que el Síndico disponga de fondos de acuerdo con la Ley de Quiebras.
+Los liquidadores deberán efectuar en el Servicio de Tesorerías los pagos correspondientes a los créditos constituidos por los impuestos referidos, dentro de los plazos fijados para el pago del Impuesto al Valor Agregado devengado en el mes en que el liquidador disponga de fondos de acuerdo con la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
-Para poder hacer uso del derecho que se establece en este artículo, el acreedor deberá verificar sus créditos dentro del plazo que señala el artículo 131 de la Ley de Quiebras.
+Para poder hacer uso del derecho que se establece en este artículo, el acreedor deberá verificar sus créditos dentro del plazo que señala el artículo 170 de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
 
-Los Síndicos deberán informar al Servicio de Impuestos Internos y al Servicio de Tesorerías, en la forma y plazo que aquél determine, de las notas de débito que hayan emitido en cada período tributario.
+Los liquidadores deberán informar al Servicio de Impuestos Internos y al Servicio de Tesorerías, en la forma y plazo que aquél determine, de las notas de débito que hayan emitido en cada período tributario.
 
 Lo dispuesto en este artículo regirá a contar desde la publicación de esta ley en el Diario Oficial y, en consecuencia, se aplicará a las verificaciones de créditos que se efectúen a contar de esa fecha.
 
@@ -1064,15 +1064,15 @@ Las instituciones de educación superior podrán vender, total o parcialmente, l
 
 No obstante, en caso de que se venda, total o parcialmente, la cartera de deudores, la institución no podrá garantizar de ninguna manera las deudas incluidas en dicha venta.
 
-Los únicos gastos de administración que podrán cargarse a los fondos serán las comisiones por la adquisición de instrumentos financieros, si los hubiere, los de publicaciones obligatorias generales y los de similar naturaleza que autorice la Superintendencia de Valores y Seguros. Los restantes gastos de administración serán de cargo de la Institución de Educación Superior.
+Los únicos gastos de administración que podrán cargarse a los fondos serán las comisiones por la adquisición de instrumentos financieros, si los hubiere, los de publicaciones obligatorias generales y los de similar naturaleza que autorice la Superintendencia de Educación Superior. Los restantes gastos de administración serán de cargo de la Institución de Educación Superior.
 
 #### Artículo 80
 
-La Superintendencia de Valores y Seguros supervigilará la administración de los fondos solidarios de crédito universitario de las Instituciones de Educación Superior, velará porque la inversión de sus recursos y la valoración anual de éstos se efectué conforme a lo dispuesto en esta ley y fiscalizará la gestión de los administradores generales que deberán designar las mencionadas instituciones.
+La Superintendencia de Educación Superior supervigilará la administración de los fondos solidarios de crédito universitario de las Instituciones de Educación Superior, velará porque la inversión de sus recursos y la valoración anual de éstos se efectué conforme a lo dispuesto en esta ley y fiscalizará la gestión de los administradores generales que deberán designar las mencionadas instituciones.
 
 #### Artículo 80 bis
 
-La Superintendencia de Valores y Seguros reglamentará un sistema de provisiones que refleje el riesgo de no recuperación de los créditos otorgados por los fondos.
+La Superintendencia de Educación Superior reglamentará un sistema de provisiones que refleje el riesgo de no recuperación de los créditos otorgados por los fondos.
 
 El administrador general del fondo de cada institución le dará a conocer anualmente los resultados de la recuperación de los créditos por carrera, los que serán públicos.
 

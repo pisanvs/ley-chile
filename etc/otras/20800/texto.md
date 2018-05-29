@@ -24,7 +24,7 @@ Las disposiciones de la presente ley serán aplicables a las Instituciones de Ed
 
 #### Artículo 3º
 
-La Superintendencia de Educación Superior (en adelante "la Superintendencia"), de oficio o por denuncia, y por resolución fundada, dará inicio a un período de investigación en aquellos casos que, en uso de las facultades que le confiere la ley, tome conocimiento de antecedentes graves que, en su conjunto o por sí solos, hagan presuponer que una institución de educación superior se encuentra en peligro de:
+El Ministerio de Educación, de oficio o por denuncia, y por resolución fundada, dará inicio a un período de investigación preliminar, de carácter indagatorio, en aquellos casos que, en uso de las facultades que le confiere la ley, tome conocimiento de antecedentes graves que, en su conjunto o por sí solos, hagan presuponer que una institución de educación superior se encuentra en peligro de:
 
 a) Incumplimiento de sus compromisos financieros, administrativos o laborales.
 
@@ -32,35 +32,35 @@ b) Incumplimiento de los compromisos académicos asumidos con sus estudiantes.
 
 c) Infracción grave de sus estatutos o escritura social, según corresponda, o de las normas que la regulan, en especial aquellas derivadas de su naturaleza jurídica en el caso de las universidades, de conformidad con lo dispuesto en el artículo 53 del decreto con fuerza de ley Nº 2, en relación con los artículos 64, 74 y 81 del mismo cuerpo legal.
 
-La Superintendencia podrá, para los fines de esta investigación, ingresar a la institución, acceder y recopilar toda la información que estime necesaria, sin impedir el normal funcionamiento de las actividades académicas de la misma.
+El Ministerio de Educación podrá, para los fines de esta investigación, ingresar a la institución, acceder y recopilar toda la información que estime necesaria, sin impedir el normal funcionamiento de las actividades académicas de la misma. Para estos efectos podrá, además, solicitar a cualquier órgano de la Administración del Estado los antecedentes que consten en su poder y que sean pertinentes a los fines de la investigación, con la sola limitación de aquellos que, por disposición de la ley, tengan carácter de secreto o reservado.
 
-Una vez cerrada la investigación, la Superintendencia elaborará un informe que dará cuenta de los resultados de la misma. Este informe, junto con la formulación de cargos, serán notificados a la institución investigada, la que tendrá un plazo de quince días para realizar sus descargos y solicitar que se abra un período de prueba no superior a igual término.
+Una vez cerrada la investigación, el Ministerio de Educación elaborará un informe que dará cuenta de los resultados de la misma. Este informe, junto con la formulación de cargos, serán notificados a la institución investigada, la que tendrá un plazo de quince días para realizar sus descargos y solicitar que se abra un período de prueba no superior a igual término.
 
-De acogerse los descargos o no constatarse las circunstancias a que hacen referencia los literales del inciso primero, se dictará resolución de término dando por finalizada la investigación, sin perjuicio de lo cual la Superintendencia podrá formular recomendaciones para el mejor funcionamiento de la institución.
+De acogerse los descargos o no constatarse las circunstancias a que hacen referencia los literales del inciso primero, se dictará resolución de término dando por finalizada la investigación, sin perjuicio de lo cual el Ministerio de Educación podrá formular recomendaciones para el mejor funcionamiento de la institución.
 
-Expirado el plazo para los descargos o rechazados éstos, la Superintendencia dictará resolución de término en conformidad al artículo siguiente.
+Expirado el plazo para los descargos o rechazados éstos, el Ministerio de Educación dictará resolución de término en conformidad al artículo siguiente.
 
 #### Artículo 4º
 
-En la resolución de término de la investigación la Superintendencia podrá, fundadamente y atendida las características de la institución y la naturaleza y gravedad de los problemas constatados, adoptar una de las siguientes medidas:
+En la resolución de término de la investigación preliminar, el Ministerio de Educación podrá, fundadamente y atendida las características de la institución y la naturaleza y gravedad de los problemas constatados, adoptar una de las siguientes medidas:
 
 a) Ordenar la elaboración de un plan de recuperación, si se verifican incumplimientos graves de los compromisos financieros, administrativos, laborales o académicos asumidos por la institución.
 
 b) Nombrar un administrador provisional si se constatan problemas que pudieren configurar alguna de las causales previstas en el inciso primero del artículo 6º.
 
-c) Proponer al Ministerio de Educación que dé inicio al procedimiento de revocación del reconocimiento oficial, en caso de que se constaten problemas de entidad tal que pudieren ser constitutivos de causales de aquella. De decretarse la revocación, el Ministerio procederá al nombramiento de un administrador de cierre.
+c) Dar inicio al procedimiento de revocación del reconocimiento oficial en caso de que se constaten problemas de entidad tal que pudieren ser constitutivos de causales de aquella. De decretarse la revocación, se procederá al nombramiento de un administrador de cierre.
 
-En lo no previsto en esta ley, el procedimiento se regirá por las disposiciones de la ley de Educación Superior.
+En lo no previsto en esta ley, el procedimiento se regirá por las disposiciones de la ley Nº 19.880.
 
 #### Artículo 5º
 
-De aplicarse la medida del literal a) del inciso primero del artículo anterior, la institución tendrá un término de sesenta días para elaborar y presentar a la Superintendencia un plan de recuperación que tendrá por objeto que ella adopte las medidas necesarias para subsanar los problemas identificados. Dicho plan podrá considerar, entre otras medidas, la suspensión de ingreso de nuevos estudiantes durante uno o más períodos y el cierre de sedes, carreras o programas. El plazo de implementación del plan no podrá ser mayor a dos años.
+De aplicarse la medida del literal a) del inciso primero del artículo anterior, la institución tendrá un término de sesenta días para elaborar y presentar al Ministerio de Educación un plan de recuperación que tendrá por objeto que ella adopte las medidas necesarias para subsanar los problemas identificados. Dicho plan podrá considerar, entre otras medidas, la suspensión de ingreso de nuevos estudiantes durante uno o más períodos y el cierre de sedes, carreras o programas. El plazo de implementación del plan no podrá ser mayor a dos años.
 
-La Superintendencia deberá pronunciarse dentro del plazo de diez días, sea aprobando el plan, previo informe favorable del Ministerio de Educación, o formulándole observaciones, las que deberán ser subsanadas por la institución dentro del plazo de quince días, contado desde la notificación de las mismas. Presentadas las enmiendas, la Superintendencia deberá resolver sobre ellas en un plazo de cinco días.
+El Ministerio de Educación deberá pronunciarse dentro del plazo de diez días, sea aprobando el plan o formulándole observaciones, las que deberán ser subsanadas por la institución dentro del plazo de quince días, contado desde la notificación de las mismas. Presentadas las enmiendas, el Ministerio deberá resolver sobre ellas en un plazo de cinco días.
 
-Una vez aprobado el plan, corresponderá a la Superintendencia supervigilar su cabal cumplimiento. Para estos efectos, la institución deberá remitir a la Superintendencia informes trimestrales del estado de su implementación. Sin perjuicio de lo anterior, en cualquier momento, la Superintendencia podrá requerir antecedentes al respecto. Asimismo, podrá designar un delegado para supervigilar la ejecución del plan, pudiendo al efecto ejercer las facultades señaladas en el inciso segundo del artículo 3º.
+Una vez aprobado el plan, corresponderá al Ministerio de Educación supervigilar su cabal cumplimiento. Para estos efectos, la institución deberá remitir al Ministerio de Educación informes trimestrales del estado de su implementación. Sin perjuicio de lo anterior, en cualquier momento, el Ministerio podrá requerir antecedentes al respecto. Asimismo, podrá designar un delegado ministerial para supervigilar la ejecución del plan, pudiendo al efecto ejercer las facultades señaladas en el inciso segundo del artículo 3º.
 
-Al término del plazo de implementación del plan, la Superintendencia resolverá el alzamiento de la medida, salvo que proceda lo dispuesto en el literal e) del inciso primero del artículo siguiente.
+Al término del plazo de implementación del plan, el Ministerio de Educación decretará el alzamiento de la medida, salvo que proceda lo dispuesto en el literal e) del inciso primero del artículo siguiente.
 
 ### Párrafo 2º
 
@@ -70,7 +70,7 @@ Del administrador provisional
 
 #### Artículo 6º
 
-La medida de nombramiento de administrador provisional podrá ser adoptada por la Superintendencia, cuando se constate la concurrencia de una o más de las siguientes circunstancias:
+La medida de nombramiento de administrador provisional podrá ser adoptada por el Ministerio de Educación, previo acuerdo del Consejo Nacional de Educación, cuando se constate la concurrencia de una o más de las siguientes circunstancias:
 
 a) Riesgo serio de no garantizar la viabilidad administrativa o financiera de la institución, afectando la continuidad de estudios de los y las estudiantes.
 
@@ -78,13 +78,19 @@ b) Incumplimientos graves y reiterados de los compromisos académicos asumidos p
 
 c) Imposibilidad de mantener las funciones académicas de la institución, a consecuencia de sanciones, medidas precautorias, embargos, ejecuciones o retiros de especies que la afecten, a sus sedes o a sus bienes muebles o inmuebles.
 
-d) Cuando se haya dictado resolución de reorganización de la institución de educación superior o de la entidad organizadora de ésta en conformidad a la ley Nº 20.720, en cuyo caso la Superintendencia de Insolvencia y Reemprendimiento deberá comunicar dicha circunstancia a la Superintendencia de Educación Superior.
+d) Cuando se haya dictado resolución de reorganización de la institución de educación superior o de la entidad organizadora de ésta en conformidad a la ley Nº 20.720.
 
 e) Cuando el plan de recuperación regulado en el artículo 5º no fuere presentado oportunamente o, habiéndolo sido, fuere rechazado o, siendo aprobado, posteriormente se incurriere en su incumplimiento.
 
-f) Cuando una institución de educación superior constituida como persona jurídica sin fines de lucro no cumpla con su obligación de destinar sus recursos y de reinvertir los excedentes o ganancias que genere, según sea el caso, en la consecución de sus fines y en la mejora de la calidad de la educación que brinda, sin perjuicio de lo establecido en el inciso primero del artículo 65 de la Ley de Educación Superior.
-
 No procederá la adopción de esta medida cuando la concurrencia de la o las causales a que se refiere el inciso anterior sea atribuible a un caso fortuito o fuerza mayor, o a circunstancias que no sean imputables a culpa o negligencia de las autoridades responsables del gobierno o administración de la institución.
+
+El acuerdo previo del Consejo Nacional de Educación, a que se refiere el inciso primero, deberá ser adoptado por la mayoría de sus miembros en ejercicio, en sesión convocada para ese solo efecto.
+
+La institución objeto de la medida a que se refiere este artículo tendrá un plazo de cinco días para presentar sus alegaciones y antecedentes ante el Consejo, previo a su pronunciamiento.
+
+Si el Consejo estima pertinente recabar mayor información, podrá solicitar antecedentes a la institución afectada y a otros órganos de la Administración del Estado.
+
+Con todo, el Consejo deberá resolver dentro del plazo de quince días desde que recibe los antecedentes para su pronunciamiento. Aprobada la medida, el Ministerio de Educación, dentro del plazo de cinco días, procederá a nombrar al administrador provisional.
 
 #### Artículo 7º
 
@@ -118,9 +124,9 @@ Sin perjuicio de lo anterior, regirán respecto de estas personas las inhabilida
 
 La institución de educación superior afectada por la medida de nombramiento de administrador provisional podrá reclamar la legalidad de la misma, a través de sus representantes, dentro del plazo de diez días hábiles, contado desde la notificación de la respectiva resolución, ante la Corte de Apelaciones correspondiente a su domicilio.
 
-La Corte de Apelaciones dará traslado de la reclamación a la Superintendencia, notificándolo por oficio. Ésta dispondrá del plazo de diez días hábiles contado desde que se notifique la reclamación interpuesta, para formular observaciones.
+La Corte de Apelaciones dará traslado de la reclamación al Ministerio de Educación, notificándolo por oficio. Éste dispondrá del plazo de diez días hábiles contado desde que se notifique la reclamación interpuesta, para formular observaciones.
 
-Evacuado el traslado por la Superintendencia o vencido el plazo de que dispone para formular observaciones, el tribunal ordenará traer los autos en relación y la causa se agregará extraordinariamente a la tabla de la audiencia más próxima, previo sorteo de la Sala. La Corte podrá, si lo estima pertinente, abrir un término probatorio que no podrá exceder de siete días, y escuchar los alegatos de las partes.
+Evacuado el traslado por el Ministerio o vencido el plazo de que dispone para formular observaciones, el tribunal ordenará traer los autos en relación y la causa se agregará extraordinariamente a la tabla de la audiencia más próxima, previo sorteo de la Sala. La Corte podrá, si lo estima pertinente, abrir un término probatorio que no podrá exceder de siete días, y escuchar los alegatos de las partes.
 
 La Corte dictará sentencia dentro del término de quince días, la que será inapelable.
 
@@ -128,13 +134,13 @@ La Corte dictará sentencia dentro del término de quince días, la que será in
 
 El administrador provisional, dentro de los treinta días siguientes a su nombramiento, deberá levantar un acta que dé cuenta del estado administrativo y financiero en que recibe la institución de educación superior. Asimismo, dentro de los sesenta días siguientes a su nombramiento deberá realizar un informe respecto de la situación financiera y patrimonial en que se encuentra la institución. Este informe comprenderá, a lo menos, la gestión de la institución de educación superior realizada durante los sesenta días anteriores a que haya asumido sus funciones.
 
-Dentro del mismo plazo de sesenta días a que se refiere el inciso anterior, el administrador provisional deberá presentar, previa consulta con las autoridades de la institución de educación superior vigentes al momento de su designación, un plan de administración provisional tendiente a garantizar la adecuada gestión de la institución de educación superior afectada por la medida, el que deberá ser aprobado por la Superintendencia. En dicho plan se deberán señalar las acciones para subsanar las deficiencias que motivan el nombramiento del administrador provisional, pudiendo considerar incluso la reestructuración de la respectiva institución.
+Dentro del mismo plazo de treinta días a que se refiere el inciso anterior, el administrador provisional deberá presentar, previa consulta con las autoridades de la institución de educación superior vigentes al momento de su designación, un plan de administración provisional tendiente a garantizar la adecuada gestión de la institución de educación superior afectada por la medida, el que deberá ser aprobado por el Ministerio de Educación. En dicho plan se deberán señalar las acciones para subsanar las deficiencias que motivan el nombramiento del administrador provisional, pudiendo considerar incluso la reestructuración de la respectiva institución.
 
-El administrador provisional deberá presentar informes trimestrales del avance de su gestión a la Superintendencia, así como también dar cuenta documentada de ella al término de su cometido.
+El administrador provisional deberá presentar informes trimestrales del avance de su gestión al Ministerio de Educación y al Consejo Nacional de Educación, así como también dar cuenta documentada de ella al término de su cometido.
 
-Sin perjuicio de lo anterior, a la Superintendencia podrá solicitar, cuando lo estime pertinente, informes parciales del estado de avance de la gestión desempeñada por el administrador provisional.
+Sin perjuicio de lo anterior, el Ministerio de Educación podrá solicitar, cuando lo estime pertinente, informes parciales del estado de avance de la gestión desempeñada por el administrador provisional.
 
-Una vez que dichos informes hayan sido aprobados por la Superintendencia, éstos serán incorporados a un registro de carácter público que para tal efecto deberá llevar la misma.
+Una vez que dichos informes hayan sido aprobados por el Ministerio de Educación, éstos serán incorporados a un registro de carácter público que para tal efecto deberá llevar la División de Educación Superior del Ministerio de Educación.
 
 El administrador provisional, en el desempeño de su cargo, deberá establecer mecanismos de consulta e información con los representantes, elegidos democráticamente, de cada uno de los estamentos de la institución educativa.
 
@@ -146,19 +152,19 @@ En el caso de que el administrador provisional decida que debe procederse a la e
 
 La adopción de la medida de reestructuración deberá ser aprobada por la máxima autoridad colegiada de la respectiva institución, vigente a la fecha del nombramiento del administrador provisional, si la hubiere, o, de no existir aquella, por la máxima autoridad unipersonal existente a igual fecha. La aprobación deberá verificarse dentro del plazo de quince días contado desde la comunicación de la medida que realice el administrador provisional a dichas autoridades.
 
-Rechazada la solicitud, o si dentro del plazo señalado en el inciso anterior la institución no ha dado respuesta a ella, el administrador podrá requerir, dentro del plazo de cinco días, la autorización de la misma a la Superintendencia, mediante una solicitud fundada, acompañada de todos los antecedentes que la justifiquen.
+Rechazada la solicitud, o si dentro del plazo señalado en el inciso anterior la institución no ha dado respuesta a ella, el administrador podrá requerir, dentro del plazo de cinco días, la autorización de la misma al Consejo Nacional de Educación, mediante una solicitud fundada, acompañada de todos los antecedentes que la justifiquen.
 
-Dentro del plazo de diez días, contado desde la presentación de la solicitud a la Superintendencia, la institución, a través de la autoridad que se haya opuesto a la medida, podrá hacer presente sus alegaciones y acompañar los antecedentes justificativos.
+Dentro del plazo de diez días, contado desde la presentación de la solicitud al Consejo, la institución, a través de la autoridad que se haya opuesto a la medida, podrá hacer presente sus alegaciones y acompañar los antecedentes justificativos.
 
-La Superintendencia resolverá dentro de los veinte días siguientes a la presentación de la solicitud o de las alegaciones de la institución, según corresponda.
+El Consejo resolverá dentro de los veinte días siguientes a la presentación de la solicitud o de las alegaciones de la institución, según corresponda.
 
 #### Artículo 12
 
-El administrador provisional durará en su cargo por un plazo de hasta dos años, prorrogable hasta por un año más cuando ello sea necesario, según disponga la Superintendencia.
+El administrador provisional durará en su cargo un año, plazo prorrogable por una sola vez hasta por igual período, cuando ello sea necesario, según disponga el Ministerio de Educación, previo acuerdo del Consejo Nacional de Educación adoptado por mayoría de sus miembros en ejercicio.
 
 En la resolución que nombra al administrador provisional se consignarán la o las causales que justifican dicha designación, siendo la solución de aquellas la función específica del administrador.
 
-La Superintendencia mediante resolución fundada, podrá remover al administrador provisional cuando:
+El Ministro de Educación, mediante resolución fundada, previo acuerdo del Consejo Nacional de Educación, adoptado por la mayoría de sus miembros en ejercicio, en sesión convocada para ese solo efecto, podrá remover al administrador provisional cuando:
 
 a) Incumpla gravemente el plan de administración provisional a que se refiere el inciso segundo del artículo 10;
 
@@ -184,7 +190,7 @@ e) Poner en conocimiento de las autoridades competentes cualquier hecho que pued
 
 f) Ejercer las acciones que correspondan para la recuperación de los recursos que, en vulneración de la ley, no hayan sido reinvertidos en las instituciones de educación superior, así como aquéllas destinadas a perseguir la responsabilidad de quienes incurrieron en dichos actos.
 
-g) Suscribir convenios con alguna de las universidades o instituciones de educación superior que cuenten con acreditación vigente por un período de a lo menos cuatro años, conforme a lo previsto en la ley Nº20.129, con el objeto de delegar, parcialmente, las facultades que le otorga la presente ley. Dichos convenios deberán ser aprobados por el Ministerio de Educación, previo acuerdo del Consejo Nacional de Educación adoptado por la mayoría de sus miembros en ejercicio, en sesión especialmente convocada para ese efecto.
+g) Suscribir convenios con alguna de las universidades o instituciones de educación superior que cuenten con acreditación vigente por un período de a lo menos tres años, conforme a lo previsto en la ley Nº20.129, con el objeto de delegar, parcialmente, las facultades que le otorga la presente ley. Dichos convenios deberán ser aprobados por el Ministerio de Educación, previo acuerdo del Consejo Nacional de Educación adoptado por la mayoría de sus miembros en ejercicio, en sesión especialmente convocada para ese efecto.
 
 Con todo, el administrador provisional no podrá alterar el modelo educativo ni los planes y programas de la institución de educación superior sujeta a la medida.
 
@@ -214,7 +220,7 @@ La acción revocatoria a que se refiere el artículo anterior se tramitará conf
 
 #### Artículo 16
 
-Si, con motivo del desempeño de sus funciones, el administrador provisional toma conocimiento de algún hecho que pudiese ser constitutivo de alguna de las causales señaladas en los artículos 64, 74 y 81 del decreto con fuerza de ley Nº 2, deberá informar a la Superintendencia, para que ésta proceda de conformidad a lo establecido en el artículo 4 letra c) de la presente ley.
+Si, con motivo del desempeño de sus funciones, el administrador provisional toma conocimiento de algún hecho que pudiese ser constitutivo de alguna de las causales señaladas en los artículos 64, 74 y 81 del decreto con fuerza de ley Nº 2, deberá informar al Ministerio de Educación.
 
 #### Artículo 17
 
@@ -228,7 +234,7 @@ Con todo, las personas señaladas en el inciso primero serán responsables de to
 
 Corresponderá al administrador provisional, una vez finalizada su gestión, la elaboración de un informe final que dé cuenta del resultado de ésta y del estado general de la institución de educación superior, en el cual deberá hacer mención expresa de la circunstancia de haberse o no subsanado los problemas detectados antes o durante su gestión.
 
-El informe señalado en el inciso anterior deberá ser entregado a más tardar un mes después del término de la gestión del Administrador Provisional y deberá ser aprobado por la Superintendencia. Sin perjuicio de lo establecido en el artículo 12, la designación del Administrador Provisional será alzada por la Superintendencia, una vez aprobado el referido informe y habiéndose subsanado los problemas y deficiencias que dieron origen a la medida, circunstancia que deberá ser debidamente acreditada por el Administrador Provisional.
+El informe señalado en el inciso anterior deberá ser entregado a más tardar un mes después del término de la gestión del administrador provisional, el cual deberá ser aprobado por la mayoría de los miembros en ejercicio del Consejo Nacional de Educación. La designación del administrador provisional será alzada por el Ministerio de Educación, mediante resolución fundada, y previo acuerdo del Consejo Nacional de Educación, adoptado por la mayoría de sus miembros en ejercicio, en sesión especialmente convocada para ese efecto, una vez aprobado el referido informe y habiéndose subsanado los problemas y deficiencias que dieron origen a la medida, circunstancia que deberá ser debidamente acreditada por el administrador provisional.
 
 En la resolución que levante la medida, se consignará que la administración y gobierno de la institución de educación superior sea asumida por las autoridades y directivos que correspondan de acuerdo a sus estatutos o escritura social, según sea el caso.
 
@@ -236,7 +242,7 @@ La referida resolución podrá establecer que la institución de educación supe
 
 #### Artículo 19
 
-Sin perjuicio de lo señalado en el artículo anterior, si la Superintendencia determina que las circunstancias que dieron origen a la medida de administración provisional son imputables, en todo o parte, a algunas de las personas señaladas en el inciso primero del artículo 13, podrá declarar en la misma resolución la inhabilidad de éstas para continuar ejerciendo en aquélla los cargos o funciones de que se trate. Siempre habrá audiencia del afectado y podrá abrirse término probatorio por al menos diez días. Si, por aplicación de lo señalado precedentemente, se hace imposible la continuidad del servicio educativo, la administración provisional subsistirá hasta la designación de nuevas autoridades, según lo dispuesto en los estatutos o en la escritura social, según sea el caso
+Sin perjuicio de lo señalado en el artículo anterior, si el Ministerio de Educación determina que las circunstancias que dieron origen a la medida de administración provisional son imputables, en todo o parte, a algunas de las personas señaladas en el inciso primero del artículo 13, podrá declarar en la misma resolución la inhabilidad de éstas para continuar ejerciendo en aquélla los cargos o funciones de que se trate. Siempre habrá audiencia del afectado y podrá abrirse término probatorio por al menos diez días. Si, por aplicación de lo señalado precedentemente, se hace imposible la continuidad del servicio educativo, la administración provisional subsistirá hasta la designación de nuevas autoridades, según lo dispuesto en los estatutos o en la escritura social, según sea el caso
 
 ### Párrafo 3º
 
@@ -244,13 +250,13 @@ Del Administrador de Cierre y disposiciones especiales para la revocación del r
 
 #### Artículo 20
 
-En aquellos casos en que, terminada la gestión del administrador provisional, no haya sido posible subsanar los problemas o deficiencias que dieron origen a su nombramiento por causas no imputables a su gestión , o se haya dictado resolución de liquidación de la respectiva institución o de su entidad organizadora en conformidad a la ley Nº 20.720, o se tome conocimiento de hechos que pudiesen constituir alguna de las causales que señalan los artículos 64, 74 y 81 del decreto con fuerza de ley Nº2, la Superintendencia enviará los antecedentes al Ministerio de Educación para que, de estimarlo procedente, dé inicio al procedimiento de revocación del reconocimiento oficial de la institución de educación superior.
+En aquellos casos en que, terminada la gestión del administrador provisional, no haya sido posible subsanar los problemas o deficiencias que dieron origen a su nombramiento por causas no imputables a su gestión , o se haya dictado resolución de liquidación de la respectiva institución o de su entidad organizadora en conformidad a la ley Nº 20.720, o se tome conocimiento de hechos que pudiesen constituir alguna de las causales que señalan los artículos 64, 74 y 81 del decreto con fuerza de ley Nº2, el Ministerio de Educación dará inicio al procedimiento de revocación del reconocimiento oficial de la institución de educación superior.
 
 Cuando se decrete la medida de revocación del reconocimiento oficial de una institución de educación superior, el Ministerio de Educación deberá nombrar un administrador de cierre, lo que requerirá el acuerdo previo del Consejo Nacional de Educación, adoptado por la mayoría de sus miembros en ejercicio, en sesión especialmente convocada al efecto.
 
 Quien sea designado como administrador de cierre deberá cumplir con los mismos requisitos establecidos para el administrador provisional, y tendrá las facultades que se enumeran en el artículo 13 y aquellas que se indican en los artículos siguientes.
 
-Sin perjuicio de lo anterior, el administrador provisional podrá, en cualquier momento durante su gestión, informar a la Superintendencia respecto de la inviabilidad de subsanar los problemas o deficiencias que originaron su designación para que ésta adopte las medidas que corresponda. La Superintendencia, si lo estima pertinente y mediante resolución fundada, podrá proceder en conformidad a lo establecido en el artículo 4 letra c) de la presente ley.
+Sin perjuicio de lo anterior, el administrador provisional podrá, en cualquier momento durante su gestión, informar al Ministerio de Educación respecto de la inviabilidad de subsanar los problemas o deficiencias que originaron su designación para que éste adopte las medidas que corresponda. El Ministerio de Educación, si lo estima pertinente, podrá dar inicio al procedimiento de revocación del reconocimiento oficial de la institución de educación superior.
 
 Para el caso que se decrete la revocación del reconocimiento oficial de acuerdo al inciso anterior, el Ministerio de Educación podrá nombrar administrador de cierre a quien haya sido designado administrador provisional.
 
@@ -258,13 +264,11 @@ La resolución que decrete la revocación del reconocimiento oficial de conformi
 
 Por el ministerio de la ley, la personalidad jurídica de la institución de educación superior cuyo reconocimiento oficial haya sido revocado se mantendrá para el solo efecto de la implementación del plan de administración establecido en el artículo 23, y en especial, para que las instituciones receptoras de estudiantes que hayan celebrado convenios puedan otorgar, a nombre de aquélla, los títulos y grados académicos que correspondan a los y las estudiantes reubicados, incluso una vez cerrada definitivamente la institución de origen, según lo prevé el artículo 24.
 
-Para efectos de lo señalado en el inciso primero, la Superintendencia de Insolvencia y Reemprendimiento deberá comunicar a la Superintendencia de Educación Superior la circunstancia de haberse dictado una resolución de liquidación de la respectiva institución o de su entidad organizadora en conformidad a la ley N° 20.720.
-
 #### Artículo 21
 
 Las facultades del administrador provisional o del administrador de cierre, nombrados a causa de una resolución de reorganización o de liquidación, según corresponda, prevalecerán sobre las del liquidador o veedor, según sea el caso, únicamente respecto a los bienes muebles e inmuebles esenciales para asegurar la continuidad de estudios de los y las estudiantes.
 
-Todo conflicto que pudiere suscitarse entre el liquidador o veedor y el administrador provisional o de cierre será resuelto por el juez que dictó la respectiva resolución de reorganización o liquidación, según sea el caso, oyendo previamente al Ministerio de Educación, a la Superintendencia de Educación Superior y a la Superintendencia de Insolvencia y Reemprendimiento, y propendiendo a la preeminencia del interés público asociado a la continuidad de estudios de los y las estudiantes de la institución afectada.
+Todo conflicto que pudiere suscitarse entre el liquidador o veedor y el administrador provisional o de cierre será resuelto por el juez que dictó la respectiva resolución de reorganización o liquidación, según sea el caso, oyendo previamente al Ministerio de Educación y al Superintendente de Insolvencia y Reemprendimiento, y propendiendo a la preeminencia del interés público asociado a la continuidad de estudios de los y las estudiantes de la institución afectada.
 
 Un reglamento del Ministerio de Educación, que deberá ser firmado además por los Ministros de Hacienda y de Economía, Fomento y Turismo, determinará los mecanismos de coordinación entre ambos procesos. Dicho reglamento deberá dictarse en el plazo de un año contado desde la publicación de esta ley.
 
@@ -288,7 +292,7 @@ Si se determina la necesidad de contar con programas de nivelación académica u
 
 Los y las estudiantes reubicados, respecto al plantel que los acoja, mantendrán plenamente vigentes los beneficios o ayudas estudiantiles otorgados por el Estado, tales como becas y créditos, como si no hubiesen cambiado de institución de educación superior.
 
-Para efectos de lo señalado en el presente artículo, el administrador de cierre podrá suscribir convenios con alguna de las instituciones de educación superior que cuenten con acreditación institucional vigente de al menos cuatro años, conforme a lo previsto en la ley Nº20.129, preferentemente una universidad del Estado.
+Para efectos de lo señalado en el presente artículo, el administrador de cierre podrá suscribir convenios con alguna de las instituciones de educación superior que cuenten con acreditación institucional vigente de al menos tres años, conforme a lo previsto en la ley Nº20.129.
 
 Dichos convenios tendrán por objeto posibilitar la continuidad y término de los estudios de los y las estudiantes reubicados, incluyendo sus procesos de titulación. Se podrá exceptuar a dichos estudiantes en la ponderación de los indicadores utilizados para evaluar a las instituciones, facultades y carreras receptoras, para efectos de la acreditación de las mismas, así como de aquellas evaluaciones que incidan en la obtención de financiamiento y cumplimiento de metas.
 
@@ -302,7 +306,7 @@ Disposiciones finales
 
 #### Artículo 25
 
-Corresponderá al Ministerio de Educación, a través de la Subsecretaría de Educación Superior, administrar los procesos asociados a las tareas del administrador de cierre.
+Corresponderá al Ministerio de Educación, a través de la División de Educación Superior, administrar los procesos asociados a las tareas del administrador provisional o de cierre.
 
 #### Artículo 26
 
@@ -381,10 +385,6 @@ Asimismo, se podrán aplicar estas disposiciones a aquellas instituciones respec
 Sin perjuicio de lo establecido en el artículo 97 de la ley Nº20.529, cuando no sea posible el nombramiento de un administrador provisional incluido en el respectivo registro, en casos excepcionales y por motivos de urgencia, el Superintendente de Educación podrá, mediante resolución fundada, en los casos contemplados en el artículo 89 de la citada ley, designar un funcionario de su dependencia para que administre un establecimiento educacional y arbitre las medidas que permitan mantener su funcionamiento normal, y que aseguren la continuidad de su servicio y el derecho a la educación de los y las estudiantes.
 
 Lo dispuesto en este artículo regirá por el plazo de dos años contado desde la entrada en vigencia de la presente ley.".
-
-#### Artículo cuarto
-
-Para efectos de lo dispuesto en los artículos 13 letra g) y 24 de la presente ley, también podrán suscribirse convenios con instituciones de educación superior que cuenten con al menos cuatro años de acreditación conforme a lo previsto en la ley Nº 20.129 y sus modificaciones.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

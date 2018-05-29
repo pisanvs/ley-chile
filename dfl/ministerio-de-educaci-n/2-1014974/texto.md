@@ -744,7 +744,9 @@ b) Institutos profesionales;
 
 c) Centros de formación técnica, y
 
-d) Academia Nacional de Estudios Políticos y Estratágicos; Academias de Guerra y Politécnicas; Escuelas de Armas y Especialidades de las Fuerzas Armadas; Escuela Técnica Aeronáutica de la Dirección General de Aeronáutica Civil; Academia de Ciencias Policiales de Carabineros de Chile; Escuelas Matrices de Oficiales de las Fuerzas Armadas; Escuela de Carabineros y Escuela de Suboficiales de Carabineros de Chile, y Escuela de Investigaciones Policiales e Instituto Superior de la Policía de Investigaciones de Chile.
+d) Academia Nacional de Estudios Políticos y Estratégicos; Academias de Guerra y Politécnicas; Escuelas de Armas y Especialidades de las Fuerzas Armadas; Escuela Técnica Aeronáutica de la Dirección General de Aeronáutica Civil; Academia de Ciencias Policiales de Carabineros de Chile; Escuelas Matrices de Oficiales de las Fuerzas Armadas; Escuela de Carabineros y Escuela de Suboficiales de Carabineros de Chile, la Escuela de Gendarmería de Chile; y Escuela de Investigaciones Policiales e Instituto Superior de la Policía de Investigaciones de Chile.
+
+> **Nota.** NOTA 1 El artículo 7 N° 1 letras a) y b) de la Ley 21.427, publicada el 16.02.2022, agrega a la "Escuela de Formación de Carabineros" y al "Centro de Capacitación Profesional de la Policía de Investigaciones de Chile", entre los organismos que el Estado reconoce oficialmente como institución de educación superior, lo que regirá, de acuerdo al artículo cuarto transitorio, a contar de la adecuación sus requisitos de ingreso, estatutos, planes y programas a las normativas de educación superior, requisito que se verificará, en cada caso, fundadamente a través de un informe favorable de la Subsecretaría de Educación Superior, el cual será sancionado mediante el acto administrativo correspondiente, lo que en el caso de Carabineros de Chile fue aprobado por Resolución 5831 Exenta, Educación, publicada el 25.11.2023.
 
 #### Artículo 53
 
@@ -752,7 +754,9 @@ Las universidades, los institutos profesionales y los centros de formación téc
 
 Los institutos profesionales y centros de formación técnica de carácter privado podrán ser creados por cualquier persona natural o jurídica en conformidad a esta ley, debiendo organizarse siempre como personas jurídicas de derecho privado para el efecto de tener reconocimiento oficial. Estas entidades no podrán tener otro objeto que la creación, organización y mantención de un instituto profesional o un centro de formación técnica, según el caso; todo ello sin perjuicio de la realización de otras actividades que contribuyan a la consecución de su objeto.
 
-Los establecimientos de educación superior a que se refiere la letra d) del artículo precedente, se regirán en cuanto a su creación, funcionamiento y planes de estudios, por sus respectivos reglamentos orgánicos y de funcionamiento y se relacionarán con el Estado a través del Ministerio de Defensa Nacional.
+Los establecimientos de educación superior a que se refiere la letra d) del artículo precedente, se regirán en cuanto a su creación, funcionamiento y planes de estudios, por sus respectivos reglamentos orgánicos y de funcionamiento y se relacionarán con el Estado a través del Ministerio de Defensa Nacional, excepto la Escuela de Gendarmería de Chile, la que se relacionará con el Estado a través del Ministerio de Justicia y Derechos Humanos.
+
+> **Nota.** NOTA 2 El artículo 7 N° 2 de la Ley 21.427, publicada el 16.02.2022, agrega en el inciso final del presente artículo la frase "y los establecimientos de educación superior pertenecientes a Carabineros de Chile y a la Policía de Investigaciones de Chile, las que se relacionarán con el Estado a través del Ministerio del Interior y Seguridad Pública", lo que regirá, de acuerdo al artículo cuarto transitorio, a contar de la adecuación sus requisitos de ingreso, estatutos, planes y programas a las normativas de educación superior, requisito que se verificará, en cada caso, fundadamente a través de un informe favorable de la Subsecretaría de Educación Superior, el cual será sancionado mediante el acto administrativo correspondiente, lo que en el caso de Carabineros de Chile fue aprobado por Resolución 5831 Exenta, Educación, publicada el 25.11.2023.
 
 #### Artículo 54
 
@@ -770,7 +774,7 @@ No obstante, el otorgamiento del título profesional de abogado corresponde a la
 
 Para los efectos de lo dispuesto en este artículo se entiende que:
 
-a) El título de técnico de nivel superior es el que se otorga a un egresado de un centro de formación técnica o de un instituto profesional que ha aprobado un programa de estudios de una duración mínima de mil seiscientas clases, que le confiere la capacidad y conocimientos necesarios para desempeñarse en una especialidad de apoyo al nivel profesional.
+a) El título de técnico de nivel superior es el que se otorga a un egresado de un centro de formación técnica o de un instituto profesional que ha aprobado un programa de estudios de una duración mínima de mil seiscientas clases o cuatro semestres, que le confiere la capacidad y conocimientos necesarios para desempeñarse en una especialidad de apoyo al nivel profesional.
 
 b) El título profesional es el que se otorga a un egresado de un instituto profesional o de una universidad que ha aprobado un programa de estudios cuyo nivel y contenido le confieren una formación general y científica necesaria para un adecuado desempeño profesional.
 
@@ -1086,9 +1090,7 @@ En los casos en que la causal respectiva se verifique sólo respecto de una o m�
 
 Los centros de formación técnica se disolverán en la forma establecida en sus estatutos, sin perjuicio de lo establecido precedentemente.
 
-### Párrafo 5º
-
-Del Reconocimiento Oficial de los títulos y grados que otorgan los establecimientos de educación superior de las Fuerzas dependientes del Ministerio de Defensa Nacional
+### Párrafo 5° — Del Reconocimiento Oficial de los títulos que otorgan los establecimientos de educación superior dependientes de Ministerios".
 
 #### Artículo 82
 
@@ -1113,6 +1115,14 @@ Las Escuelas de Armas y Especialidades de las Fuerzas Armadas, la Escuela Técni
 Estos títulos técnicos de nivel superior de los establecimientos de educación superior, referidos en el inciso anterior, serán equivalentes a los de similar carácter conferidos por los demás establecimientos de educación superior y reconocidos como tales para todos los efectos legales.
 
 > **Nota.** NOTA 3 El artículo 7 N° 3 de la Ley 21.427, publicada el 16.02.2022, agrega en el inciso primero del presente artículo entre la palabra "Civil" y la expresión "y la Escuela de Suboficiales", la frase ", la Escuela de Formación de Carabineros, el Centro de Capacitación Profesional de la Policía de Investigaciones de Chile", lo que regirá, de acuerdo al artículo cuarto transitorio, a contar de la adecuación sus requisitos de ingreso, estatutos, planes y programas a las normativas de educación superior, requisito que se verificará, en cada caso, fundadamente a través de un informe favorable de la Subsecretaría de Educación Superior, el cual será sancionado mediante el acto administrativo correspondiente, lo que en el caso de Carabineros de Chile fue aprobado por Resolución 5831 Exenta, Educación, publicada el 25.11.2023.
+
+#### Artículo 84 bis
+
+La Escuela de Gendarmería de Chile desarrolla actividades docentes, de investigación y extensión de nivel superior, cuyo objetivo fundamental es formar profesionales y técnicos con los conocimientos necesarios para el cumplimiento de las funciones institucionales que les encomienda la ley.
+
+En ese sentido, podrá otorgar títulos profesionales y técnicos de nivel superior propios de su quehacer, de acuerdo con la naturaleza de la enseñanza impartida y en el ámbito de su competencia.
+
+Los títulos técnicos de nivel superior y profesionales referidos en el inciso anterior serán equivalentes a los de similar carácter conferidos por los demás establecimientos de educación superior y reconocidos como tales para todos los efectos legales.
 
 ## Título IV
 
@@ -1382,7 +1392,9 @@ Cuando el incumplimiento reiterado de las observaciones formuladas por el Consej
 
 Las universidades, institutos profesionales y centros de formación técnica que, al cabo de seis años de licenciamiento hubieren desarrollado su proyecto satisfactoriamente a juicio del Consejo, alcanzarán su plena autonomía y podrán otorgar toda clase de títulos y grados académicos en forma independiente, lo que deberá ser certificado por éste.
 
-En caso contrario, podrá ampliar el período de verificación hasta por cinco años. Si transcurrido el nuevo plazo, la entidad de educación superior no diere cumplimiento a los requerimientos del Consejo, éste deberá solicitar fundadamente al Ministerio de Educación la revocación del reconocimiento oficial.
+En caso contrario, el Consejo deberá solicitar fundadamente al Ministerio de Educación la revocación del reconocimiento oficial de dicha institución.
+
+Con todo, el Consejo Nacional de Educación podrá ampliar el período de verificación hasta por tres años. Si transcurrido el nuevo plazo, la entidad de educación superior no diere cumplimiento a los requerimientos del Consejo, éste deberá solicitar fundadamente al Ministerio de Educación la revocación del reconocimiento oficial.
 
 #### Artículo 101
 
@@ -1468,9 +1480,7 @@ Las adecuaciones necesarias para el cumplimiento de lo dispuesto en el inciso pr
 
 #### Artículo 114
 
-Las instituciones de enseñanza superior que reciban aporte fiscal deberán enviar, anualmente, al Ministerio de Educación la memoria explicativa de sus actividades y su balance.
-
-Las instituciones de educación superior de carácter privado que cuenten con aporte fiscal deberán rendir cuenta al Ministerio de Educación sólo respecto de los fondos fiscales que hubieren recibido.
+Derogado.
 
 ## Artículos transitorios
 

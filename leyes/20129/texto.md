@@ -16,47 +16,63 @@ la Educación Superior
 
 Normas Generales
 
-#### Artículo 1º
+#### Artículo 1
 
-Establécese el Sistema Nacional de Aseguramiento de la Calidad de la Educación Superior, que comprenderá las siguientes funciones:
+Establécese el Sistema Nacional de Aseguramiento de la Calidad de la Educación Superior (en adelante también "el Sistema") que estará integrado por el Ministerio de Educación, a través de la Subsecretaría de Educación Superior, el Consejo Nacional de Educación, la Comisión Nacional de Acreditación y la Superintendencia de Educación Superior. Asimismo, en el ámbito de su quehacer, son también parte de este Sistema las instituciones de educación superior.
 
-a) De información, que tendrá por objeto la identificación, recolección y difusión de los antecedentes necesarios para la gestión del sistema, y la información pública.
+A los organismos públicos mencionados en el inciso anterior, les corresponderá:
 
-b) De licenciamiento de instituciones nuevas de educación superior que se realizará en conformidad a lo dispuesto en la ley Nº 18.962, Orgánica Constitucional de Enseñanza.
+a) El desarrollo de políticas que promuevan la calidad, pertinencia, articulación, inclusión y equidad en el desarrollo de las funciones de las instituciones de educación superior.
 
-c) De acreditación institucional, que consistirá en el proceso de análisis de los mecanismos existentes al interior de las instituciones autónomas de educación superior para asegurar su calidad, considerando tanto la existencia de dichos mecanismos, como su aplicación y resultados.
+b) La identificación, recolección y difusión de los antecedentes necesarios para la gestión del Sistema, y la información pública.
 
-d) De acreditación de carreras o programas, que consistirá en el proceso de verificación de la calidad de las carreras o programas ofrecidos por las instituciones autónomas de educación superior, en función de sus propósitos declarados y de los criterios establecidos por las respectivas comunidades académicas y profesionales.
+c) El licenciamiento de instituciones nuevas de educación superior, que corresponde al Consejo Nacional de Educación, en conformidad a lo dispuesto en el decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación.
+
+d) La acreditación institucional de las instituciones de educación superior autónomas de conformidad a lo establecido en el título II del capítulo II, y la acreditación de carreras o programas de pregrado y postgrado de conformidad a lo dispuesto en el título III y IV del capítulo II.
+
+e) La fiscalización del cumplimiento, por parte de las instituciones de educación superior, de las normas aplicables a dicho sector, en especial a la consecución de los fines que les son propios; así como del cumplimiento de sus compromisos financieros, administrativos y académicos.
 
 #### Artículo 2º
 
-El licenciamiento de instituciones nuevas de educación superior, corresponde al Consejo Superior de Educación o al Ministerio de Educación, si procediere, en conformidad con las normas de la Ley Orgánica Constitucional de Enseñanza.
+Eliminado.
 
 ## Título II
 
 Del Comité de Coordinación
 
-#### Artículo 3º
+#### Artículo 3
 
 El Sistema Nacional de Aseguramiento de la Calidad de la Educación Superior será coordinado por un comité integrado por:
 
-a) El Vicepresidente del Consejo Superior de Educación;
+a) El Subsecretario de Educación Superior, quien lo presidirá.
 
-b) El Presidente de la Comisión Nacional de Acreditación, y
+b) El Presidente de la Comisión Nacional de Acreditación.
 
-c) El Jefe de la División de Educación Superior del Ministerio de Educación.
+c) El Superintendente de Educación Superior.
 
-Corresponderá al Secretario Ejecutivo del Consejo Superior de Educación actuar como secretario de este comité.
+d) El Presidente del Consejo Nacional de Educación.
 
-#### Artículo 4º
+Corresponderá a la Subsecretaría de Educación Superior brindar soporte técnico para el funcionamiento del Comité de Coordinación. Los miembros del Comité deberán designar a un secretario, quien llevará las actas y desempeñará las demás funciones que se le asignen.
 
-Corresponderá al Comité Coordinador velar por la adecuada coordinación de las actividades de los distintos organismos que integran este sistema, sin perjuicio de las atribuciones que las demás leyes concedan a cada uno de los organismos que lo componen.
+#### Artículo 4
+
+Corresponderá al Comité de Coordinación:
+
+a) Velar por la coordinación de los organismos que lo integran en lo relativo a su relación con las instituciones de educación superior.
+
+b) Interactuar con la Comisión Nacional de Acreditación en las materias propias de sus funciones, incluida la elaboración de los criterios y estándares de calidad.
+
+c) Establecer y coordinar mecanismos para el intercambio de información entre los órganos que componen el Sistema y las instituciones de educación superior.
+
+d) Establecer un Plan de Coordinación para el Mejoramiento de la Calidad de la Educación Superior, el cual contemplará, a lo menos, los compromisos y objetivos del Sistema, las acciones necesarias para alcanzarlos, y la identificación de las áreas que requieran de especial coordinación.
+
+e) Promover la coherencia entre los criterios y estándares definidos para los procesos de acreditación, con la normativa que rige el licenciamiento, así como toda otra del sector de educación superior.
 
 #### Artículo 5º
 
-El Comité Coordinador sesionará, a lo menos, tres veces en el año, pudiendo reunirse extraordinariamente a petición de cualquiera de sus miembros o por solicitud fundada de alguno de los integrantes de los órganos que componen el Sistema Nacional de Aseguramiento de la Calidad de la Educación Superior.
+El Comité de Coordinación sesionará, a lo menos, seis veces en el año, pudiendo reunirse extraordinariamente a petición de cualquiera de sus miembros o por solicitud fundada de alguno de los integrantes de los órganos que componen el Sistema Nacional de Aseguramiento de la Calidad de la Educación Superior.
 
-Un Reglamento definirá la forma de funcionamiento del Comité Coordinador.
+Un Reglamento definirá la forma de funcionamiento del Comité de Coordinación.
 
 ## Capítulo II
 
@@ -72,105 +88,111 @@ De la Comisión
 
 #### Artículo 6º
 
-Créase la Comisión Nacional de Acreditación, en adelante la Comisión, organismo autónomo que gozará de personalidad jurídica y patrimonio propio cuya función será verificar y promover la calidad de las Universidades, Institutos Profesionales y Centros de Formación Técnica autónomos, y de las carreras y programas que ellos ofrecen.
+Créase la Comisión Nacional de Acreditación, en adelante la Comisión, organismo autónomo que gozará de personalidad jurídica y patrimonio propio cuya función será evaluar, acreditar y promover la calidad de las Universidades, Institutos Profesionales y Centros de Formación Técnica autónomos, y de las carreras y programas que ellos ofrecen.
 
 La Comisión Nacional de Acreditación, en el desempeño de sus funciones, gozará de autonomía y se relacionará con el Presidente de la República a través del Ministerio de Educación.
 
-#### Artículo 7º
+#### Artículo 7
 
 La Comisión Nacional de Acreditación estará integrada de la siguiente forma:
 
-a) Un académico de reconocida trayectoria designado por el Presidente de la República, quien la presidirá;
+a) Cuatro académicos universitarios de reconocido prestigio y amplia trayectoria en gestión institucional, docencia de pregrado o formación de postgrado. De éstos, al menos dos deberán estar o haber estado vinculados a alguna universidad cuyo domicilio esté localizado en una región distinta de la Región Metropolitana.
 
-b) Tres académicos universitarios, que en su conjunto y de acuerdo a su experiencia y grados académicos, sean representativos de los ámbitos de gestión institucional, docencia de pregrado y formación de postgrado, incluyendo, en este último caso, al nivel de doctorado, designados por el Consejo de Rectores de las Universidades Chilenas. De ellos, a lo menos uno deberá estar vinculado a alguna universidad de una región distinta a la Metropolitana;
+b) Cuatro docentes o profesionales de reconocido prestigio y amplia trayectoria en formación técnico profesional o en gestión institucional en centros de formación técnica o institutos profesionales. De ellos, al menos dos deberán estar o haber estado vinculados a alguna institución de educación superior cuyo domicilio esté localizado en una región distinta de la Región Metropolitana.
 
-c) Dos académicos universitarios con amplia trayectoria en gestión institucional o en formación de pregrado y/o postgrado, designados por los rectores de las universidades privadas autónomas que no reciben el aporte fiscal establecido en el artículo 1º, del decreto con fuerza de ley Nº 4, de 1981, del Ministerio de Educación, en reunión convocada por el Jefe de la División de Educación Superior del Ministerio de Educación;
+c) Un docente o profesional de reconocido prestigio y amplia trayectoria en el área de la innovación, seleccionado por la Corporación de Fomento de la Producción, a partir de una terna propuesta por el Consejo de Alta Dirección Pública de conformidad al procedimiento establecido en el párrafo 3° del título VI de la ley N° 19.882.
 
-d) Un docente con amplia trayectoria en gestión institucional o en formación profesional no universitaria, designado por los rectores de los institutos profesionales que gocen de plena autonomía, en reunión convocada por el Jefe de la División de Educación Superior del Ministerio de Educación;
+d) Un académico universitario de reconocido prestigio y amplia trayectoria en investigación científica o tecnológica seleccionado por la Comisión Nacional de Investigación Científica y Tecnológica, o su sucesor, a partir de una terna propuesta por el Consejo de Alta Dirección Pública de conformidad al procedimiento establecido en el párrafo 3° del título VI de la ley N° 19.882.
 
-e) Un docente con amplia trayectoria en gestión de instituciones de nivel técnico o en formación técnica, designado por los rectores de los centros de formación técnica autónomos, en reunión convocada por el Jefe de la División de Educación Superior del Ministerio de Educación;
+e) Dos representantes estudiantiles de instituciones de educación superior autónomas acreditadas, debiendo uno de ellos pertenecer a una institución cuyo domicilio esté localizado en una región distinta de la Región Metropolitana. Los representantes de los estudiantes deberán tener aprobada al menos la mitad del plan de estudios de la carrera en la que estén inscritos y encontrarse dentro del 10% de los estudiantes de mejor rendimiento de su generación, y durarán dos años en sus cargos. Los representantes de los estudiantes serán elegidos de acuerdo al procedimiento que establezca el reglamento y deberán ser representativos de cada subsistema, resguardando la participación de las Federaciones de Estudiantes, en su caso.
 
-f) Dos académicos con amplia trayectoria en investigación científica o tecnológica, designados por la Comisión Nacional de Investigación Científica y Tecnológica, CONICYT;
+Tres de los comisionados señalados en la letra
 
-g) El Jefe de la División de Educación Superior del Ministerio de Educación;
+- **a)** y tres de los señalados en la letra
 
-h) Dos figuras destacadas, una del sector productivo nacional y, la otra, miembro de una asociación profesional o disciplinaria del país, que serán designados por los miembros de la Comisión señalados en las letras precedentes;
+- **b)** anteriores, serán designados por el Presidente de la República con acuerdo de tres quintos del Senado, a partir de una terna propuesta para cada cargo por el Consejo de Alta Dirección Pública, de conformidad al procedimiento establecido en el párrafo 3º del título VI de la ley N° 19.882. Los demás comisionados de las letras
 
-i) Dos representantes estudiantiles de instituciones de educación superior autónomas acreditadas, debiendo uno de ellos pertenecer a una institución regional y el otro a una institución metropolitana. Los representantes de los estudiantes deberán tener aprobados al menos tres años o seis semestres, en su caso, de la carrera en que estén inscritos y encontrarse dentro del 5% de los alumnos de mejor rendimiento de su generación, y durarán dos años en sus cargos. Los representantes de los estudiantes serán elegidos por los Presidentes de las Federaciones de Estudiantes de acuerdo a un procedimiento que establezca el Reglamento que deberá dictarse antes que se constituya la Comisión, y
+- **a)** y
 
-j) El Secretario Ejecutivo, que tendrá sólo derecho a voz.
+- **b)** serán designados por el Presidente de la República, a partir de una terna propuesta para cada cargo por el Consejo de Alta Dirección Pública, de conformidad al procedimiento establecido en el párrafo 3º del título VI de la ley N° 19.882, uno de los cuales será designado por el Presidente de la República como el Presidente de la Comisión. Asimismo, uno de estos últimos comisionados deberá tener trayectoria en gestión financiera y organizacional.
 
-Los integrantes de la Comisión señalados en las letras a), b), c), d), e), f) y h), durarán cuatro años en sus cargos, y podrán ser designados nuevamente por una sola vez. La renovación de tales integrantes se realizará cada dos años, de acuerdo al mecanismo de alternancia que se defina en el reglamento de la ley.
+Corresponderá al Presidente citar y presidir las sesiones de la Comisión, establecer la tabla de materias a ser tratadas en cada sesión, dirigir sus deliberaciones, dirimir sus empates, y participar en el Comité de Coordinación en conformidad con lo establecido en el artículo 3. Asimismo, le corresponderá la representación de la Comisión en eventos protocolares nacionales e internacionales, así como en las gestiones que se desarrollen ante cualquier entidad extranjera.
 
-Los miembros de la Comisión no actuarán en representación de las entidades que concurrieron a su designación.
+El Presidente se relacionará con el Secretario Ejecutivo para la coordinación de las funciones y atribuciones de la Comisión.
 
-Las vacantes que se produzcan serán llenadas dentro de los 30 días siguientes de producida la vacancia, siguiendo el mismo procedimiento indicado precedentemente. El reemplazante durará en funciones por el tiempo que reste para completar el período del miembro reemplazado. Son inhábiles para integrar la Comisión aquellas personas que desempeñen funciones directivas superiores en alguna institución de educación superior.
+Los comisionados señalados en las letras a), b), c) y d) anteriores durarán seis años en sus cargos, no podrán ser designados nuevamente para un período consecutivo, y se renovarán por parcialidades cada tres años. En caso que no se efectuare el nombramiento del nuevo comisionado antes de la expiración del plazo de duración en el cargo del comisionado saliente, éste podrá permanecer en el desempeño de sus funciones hasta el nombramiento de su reemplazante, por un máximo de tres meses adicionales. Si su nombramiento requiere de acuerdo del Senado y éste no se hubiere pronunciado en los términos señalados una vez vencido dicho plazo, se nombrará al candidato propuesto por el Presidente de la República, sin más trámite.
 
-La Comisión designará de entre los integrantes señalados en las letras b), c), d), e), f) y h) un Vicepresidente que subrogará al Presidente en caso de ausencia y que permanecerá dos años en esa calidad, pudiendo ser reelegido.
+La Comisión designará de entre los integrantes señalados en las letras a), b), c) y d) a un Vicepresidente, que subrogará al Presidente en caso de ausencia y que permanecerá dos años en esa calidad, pudiendo ser reelegido.
 
-Para sesionar, la Comisión requerirá de la mayoría absoluta de sus miembros y sus acuerdos se adoptarán por mayoría absoluta de los integrantes presentes. En caso de producirse un empate, se tomará una segunda votación. De persistir el empate, corresponderá al Presidente el voto dirimente para resolver la materia. La Comisión deberá celebrar, como mínimo, dos sesiones al mes.
+La Comisión Nacional de Acreditación podrá funcionar en pleno o en salas. En este último caso, la primera sala estará integrada por dos de los comisionados a que se refiere la letra
 
-Los miembros de la Comisión que se encuentren vinculados con alguna institución de educación superior, ya sea en cuanto a su propiedad, intereses patrimoniales o desarrollen labores remuneradas en ella, se encontrarán inhabilitados para participar en las discusiones y votaciones que se refieran a la respectiva institución.
+- **a)** y dos de la letra b), el comisionado de la letra c), y por uno de los representantes de los estudiantes a que se refiere la letra e). La segunda sala se integrará por los restantes comisionados. La sala en que no participe el Presidente de la Comisión será presidida por el Vicepresidente. Sin perjuicio de lo anterior, será la Comisión en pleno la que deberá adoptar acuerdos respecto de la acreditación institucional de las instituciones de educación superior y sobre las materias señaladas en las letras
 
-Asimismo, serán incompatibles aquellas actividades de los miembros de la Comisión que impliquen una relación laboral o la participación en juntas directivas o consultivas, cualquiera sea su denominación, de las Instituciones de Educación Superior sujetas a los procesos de Acreditación regulados en la presente ley. Esta incompatibilidad subsistirá hasta seis meses después de haber cesado en sus funciones en la Comisión.
+- **a)** y
 
-Del mismo modo, será incompatible el cargo de miembro de la Comisión con la participación en una agencia acreditadora, ya sea en cuanto a su propiedad, intereses patrimoniales o desarrollen labores remuneradas en ella.
+- **b)** del artículo 8. En contra de las decisiones que adopte cada una de las salas sólo se podrá interponer el recurso de reposición, sin perjuicio de la apelación regulada en la presente ley.
 
-Todo miembro de la Comisión respecto del cual se configure algún tipo de inhabilidad o se produzca algún hecho que le reste imparcialidad deberá informarlo de inmediato al Secretario de la Comisión, quien procederá a dejar constancia en actas de las inhabilidades cuando éstas concurran. Deberá, asimismo, comunicarlo a los demás integrantes de la Comisión, absteniéndose en el acto de conocer del asunto.
+La Comisión, tanto para su funcionamiento en sala como en pleno, requerirá de la mayoría de sus integrantes para sesionar y sus acuerdos se adoptarán por mayoría absoluta de sus miembros en ejercicio. En caso de producirse un empate, corresponderá al Presidente o Vicepresidente, cuando corresponda, el voto dirimente para resolver la materia. La Comisión deberá celebrar, como mínimo, cuatro sesiones al mes. Con todo, los acuerdos relativos a los procesos de acreditación institucional deberán contar con los votos de al menos tres de los comisionados señalados en las letras
 
-Anualmente, los miembros de la Comisión deberán hacer una declaración de intereses, sin perjuicio de la obligación de informar en cualquier momento de todo cambio de circunstancias que puedan restarles imparcialidad.
+- **b)** o
 
-Toda decisión o pronunciamiento que la Comisión adopte con participación de un miembro respecto del cual existía alguna causal de inhabilidad deberá ser revisado por la Comisión, pudiendo además ser impugnado dentro de un plazo de 6 meses contados desde que éste fue emitido.
+- **c)** en el caso del subsistema técnico profesional, y al menos tres de los comisionados señalados en las letras
 
-Los miembros de la Comisión respecto de los cuales se haya verificado alguna de las incompatibilidades antes descritas sin que se hubieren inhabilitado como corresponda serán suspendidos en su cargo y no podrán cumplir funciones similares en la Comisión por un período de 5 años.
+- **a)** o
 
-Las inhabilidades descritas en los incisos precedentes serán aplicables también a los miembros de la Secretaría Ejecutiva de la Comisión, a los integrantes de los Comités Consultivos y a los pares evaluadores.
+- **d)** en el caso del subsistema universitario.
 
-Los miembros de la Comisión, así como los miembros de la Secretaría Ejecutiva o de los Comités Consultivos, deberán guardar reserva de toda la información obtenida directa o indirectamente en virtud de sus cargos, la que sólo podrá ser divulgada de acuerdo a los procedimientos y fines contemplados en la presente ley.
+Los integrantes de la Comisión tendrán derecho a gozar de una dieta por sesión a la que asistan, la que podrá ascender hasta 10 unidades tributarias mensuales con un máximo de 90 unidades tributarias mensuales por mes, conforme a las normas del reglamento interno de la Comisión. Esta asignación será incompatible con toda otra remuneración de carácter público para el personal regido por la ley N° 18.834.
 
-Los integrantes de la Comisión tendrán derecho a gozar de una dieta por sesión que asistan, que podrá ascender hasta 4 unidades tributarias mensuales con un máximo de 25 unidades tributarias mensuales por mes, conforme a las normas del reglamento interno de la Comisión. Esta asignación será incompatible con toda otra remuneración de carácter público para el personal regido por la ley Nº 18.834.
+A los integrantes de la Comisión, salvo el caso del Presidente, no les serán aplicables las normas de la ley N° 19.882, salvo en lo relativo a su nombramiento, de conformidad a lo señalado en los incisos anteriores.
 
-#### Artículo 8º
+Los comisionados deberán declarar intereses y patrimonio conforme a lo establecido en el capítulo 1° del título II de la ley N° 20.880.
+
+#### Artículo 8
 
 Corresponderán a la Comisión las siguientes funciones:
 
-a) Pronunciarse sobre la acreditación institucional de las universidades, institutos profesionales y centros de formación técnica autónomos;
+a) Administrar y resolver los procesos de acreditación institucional de las instituciones de educación superior autónomas, y de las carreras y programas de estudio de pre y postgrado que éstas impartan.
 
-b) Pronunciarse acerca de las solicitudes de autorización que le presenten las agencias encargadas de la acreditación de carreras y programas de pregrado, programas de Magíster y programas de especialidad en el área de la salud, y supervigilar su funcionamiento;
+b) Elaborar y establecer los criterios y estándares de calidad para la acreditación institucional, y de las carreras y programas de pregrado y postgrado, de acuerdo al tipo de institución, sea ésta del subsistema técnico profesional o universitario, previa consulta al Comité Coordinador del Sistema Nacional de Aseguramiento de la Calidad de la Educación Superior.
 
-c) Pronunciarse sobre la acreditación de los programas de postgrado de las universidades autónomas, en el caso previsto en el artículo 46;
+c) Ejecutar y promover acciones para el mejoramiento continuo de la calidad de las instituciones de educación superior, en particular, identificar, promover y difundir entre las instituciones de educación superior buenas prácticas en materia de aseguramiento de la calidad de la educación superior.
 
-d) Pronunciarse sobre la acreditación de los programas de pregrado de las instituciones autónomas, en el caso previsto en el artículo 31;
+d) Mantener sistemas de información pública que contengan las decisiones relevantes relativas a los procesos de acreditación y autorización a su cargo, y proporcionar al Sistema Nacional de Información de la Educación Superior los antecedentes correspondientes.
 
-e) Mantener sistemas de información pública que contengan las decisiones relevantes relativas a los procesos de acreditación y autorización a su cargo;
+e) Desarrollar toda otra actividad necesaria para el cumplimiento de sus funciones.
 
-f) Dar respuesta a los requerimientos efectuados por el Ministerio de Educación, y
-
-g) Desarrollar toda otra actividad necesaria para el cumplimiento de sus funciones.
+La Comisión deberá revisar y evaluar la calidad de sus mecanismos y procedimientos de acuerdo a orientaciones, criterios y estándares aceptados internacionalmente, y someterse, al menos cada cinco años, a una evaluación externa por parte de instituciones extranjeras de reconocido prestigio en las áreas de su competencia. En este sentido, deberá poner especial énfasis en la diversidad institucional del sistema de educación superior chileno, en la definición y actualización de los criterios y estándares de calidad acorde a tal diversidad, y en los mecanismos, prácticas y resultados de evaluación interna y externa adecuados y pertinentes a los propósitos institucionales.
 
 #### Artículo 9º
 
 Serán atribuciones de la Comisión:
 
-a) Designar al Secretario Ejecutivo, el que permanecerá en su cargo mientras cuente con la confianza de la Comisión;
+a) Designar al Secretario Ejecutivo, previa selección conforme al Sistema de Alta Dirección Pública de conformidad a lo establecido en el título VI de la ley N° 19.882 el que permanecerá en su cargo mientras cuente con la confianza de la Comisión;
 
 b) Disponer la creación de comités consultivos en todos aquellos casos en que sea necesaria la asesoría de expertos para el adecuado cumplimiento de sus funciones y designar sus integrantes, determinando su organización y condiciones de funcionamiento;
 
-c) Conocer de los reclamos que presenten las instituciones de educación superior respecto de los pronunciamientos de las agencias de acreditación de carreras y programas de pregrado y postgrado;
+c) Encomendar la ejecución de acciones o servicios a personas o instituciones públicas o privadas, para el debido cumplimiento de sus funciones;
 
-d) Encomendar la ejecución de acciones o servicios a personas o instituciones públicas o privadas, para el debido cumplimiento de sus funciones;
+d) Dictar normas de carácter general en materias de su competencia, en especial respecto de la forma, condiciones y requisitos para el desarrollo de los procesos de acreditación, tanto institucional como de carreras y programas de estudio de pre y postgrado;
 
-e) Impartir instrucciones de carácter general a las instituciones de educación superior, sobre la forma y oportunidad en que deberán informar al público respecto de las distintas acreditaciones que le hayan sido otorgadas, que no detenten o que le hayan sido dejadas sin efecto;
+e) Disponer la incorporación de pares evaluadores al registro establecido en el artículo 19, designar a los que actuarán en un determinado proceso de acreditación y resolver las impugnaciones que presenten las instituciones de educación superior a la designación de los mismos, de conformidad con lo establecido en el referido artículo;
 
-f) Percibir los montos de los aranceles que se cobrarán en conformidad con el artículo 14;
+f) Solicitar información a las instituciones de educación superior respecto a los avances de los Planes de Mejora, conforme a lo resuelto en la resolución de acreditación respectiva, pudiendo efectuar recomendaciones para propiciar su mejoramiento continuo;
 
-g) Celebrar contratos, con personas naturales o jurídicas, para el desempeño de las tareas o funciones, que le encomiende la ley;
+g) Solicitar información y disponer la realización de visitas de seguimiento a las instituciones de educación superior, teniendo en consideración su misión y su proyecto de desarrollo institucional, para verificar y resguardar el cumplimiento de los criterios y estándares de calidad pertinentes si, a su juicio y en base a nuevos antecedentes, las condiciones que justificaron la acreditación de un programa o institución se han visto alteradas significativamente. Los antecedentes recabados en las visitas de seguimiento se tendrán en consideración al momento del nuevo proceso de acreditación
 
-h) Establecer su reglamento interno de funcionamiento;
+h) Impartir instrucciones de carácter general a las instituciones de educación superior, sobre la forma y oportunidad en que deberán informar al público respecto de las distintas acreditaciones que le hayan sido otorgadas, que no detenten o que le hayan sido dejadas sin efecto, sin perjuicio de lo establecido en el artículo 54 de la Ley de Educación Superior;
 
-i) Aplicar las sanciones que establece la ley, y
+i) Percibir los montos de los aranceles que se cobrarán en conformidad con el artículo 14;
 
-j) Desarrollar toda otra actividad que diga relación con sus objetivos.
+j) Celebrar contratos, con personas naturales o jurídicas, para el desempeño de las tareas o funciones, que le encomiende la ley;
+
+k) Establecer su reglamento interno de funcionamiento;
+
+l) Aplicar las sanciones que establece la ley, y
+
+m) Desarrollar toda otra actividad que diga relación con sus objetivos.
 
 ### Párrafo 2º
 
@@ -178,33 +200,111 @@ De la estructura interna y funcionamiento de la Comisión
 
 #### Artículo 10
 
-Existirá un Secretario Ejecutivo, que será el ministro de fe de la Comisión, correspondiéndole, además, desempeñar las siguientes funciones:
+La Comisión nombrará, a partir de una terna que le será propuesta por el Consejo de Alta Dirección Pública de conformidad al procedimiento establecido en el párrafo 3° del título VI de la ley N° 19.882, a un Secretario Ejecutivo a quien le corresponderán las siguientes funciones:
 
 a) Ejercer las funciones de administración del personal de la Secretaría Ejecutiva de la Comisión;
 
 b) Coordinar el trabajo de los comités consultivos;
 
-c) Ejecutar los acuerdos que la Comisión adopte pudiendo, para estos efectos, celebrar los actos y contratos que sean necesarios, y
+c) Ejecutar los acuerdos que la Comisión adopte pudiendo, para estos efectos, celebrar los actos y contratos que sean necesarios
 
-d) Contratar personal para la Secretaría Ejecutiva, a honorarios o a contrata, cuando el cumplimiento de las funciones de la Comisión así lo requiera.
+d) Contratar personal para la Secretaría Ejecutiva, a honorarios o a contrata, cuando el cumplimiento de las funciones de la Comisión así lo requiera, y
+
+e) Participar en las sesiones de la Comisión, con derecho a voz.
 
 #### Artículo 11
 
-La Comisión contará con una Secretaría Ejecutiva, dirigida por el Secretario Ejecutivo, cuya función será apoyar el desarrollo de los procesos que la ley encomienda a la Comisión.
+La Comisión contará con una Secretaría Ejecutiva, dirigida por el Secretario Ejecutivo, cuya función será apoyar el desarrollo de los procesos que la ley encomienda a la Comisión. En el ejercicio de esta función, la Secretaría deberá implementar las acciones requeridas por la Comisión para la formulación y actualización de criterios y estándares de calidad, elaborar propuestas de instrumentos y materiales para el desarrollo de los procesos de autoevaluación y evaluación externa y capacitar a los pares evaluadores, entre otras labores.
 
 El personal de la Secretaría Ejecutiva de la Comisión, incluido su Secretario Ejecutivo, se regirá por la legislación común.
 
 #### Artículo 12
 
-La Comisión dispondrá la creación de a lo menos 3 comités consultivos que la asesorarán en la implementación y desarrollo de los procesos de evaluación previstos en esta ley y, especialmente, en la definición y revisión de criterios de evaluación y procedimientos específicos, así como en las demás materias en que ésta lo estime necesario. Deberá constituirse, a lo menos, un comité para la acreditación institucional, uno para la acreditación de carreras y programas de pregrado y uno para la acreditación de carreras y programas de postgrado.
+La Comisión dispondrá la creación de a lo menos 4 comités consultivos que la asesorarán en la implementación y desarrollo de los procesos de evaluación previstos en esta ley y, especialmente, en la definición y revisión de criterios de evaluación y procedimientos específicos, así como en las demás materias en que ésta lo estime necesario. Deberá constituirse, a lo menos, un comité para la acreditación institucional universitaria, uno para la acreditación institucional técnico profesional, uno para la acreditación de carreras y programas de pregrado y uno para la acreditación de programas de postgrado.
 
 Tales comités consultivos serán grupos de expertos, nacionales o extranjeros, a quienes les corresponderá analizar la información que se les proporcione en el ámbito de sus competencias y presentar a la Comisión propuestas fundadas para su pronunciamiento. Las proposiciones y recomendaciones que formulen los comités consultivos no serán vinculantes para la Comisión, aunque constituirán un antecedente importante que ésta considerará especialmente al tiempo de adoptar sus acuerdos.
 
-Cada comité consultivo estará integrado por un número de miembros no inferior a cinco ni superior a quince, debiendo sus integrantes ser designados por medio de un concurso público de antecedentes. Los miembros designados deberán cumplir con los mismos requisitos que fija esta ley para los pares evaluadores y durarán cuatro años en esta función, pudiendo ser removidos de manera anticipada, mediante resolución fundada de la Comisión.
+Cada comité consultivo estará integrado por un número de miembros no inferior a cinco ni superior a diez, debiendo sus integrantes ser designados por medio de un concurso público de antecedentes. Los miembros designados deberán cumplir con los mismos requisitos que fija esta ley para los pares evaluadores y durarán cuatro años en esta función, pudiendo ser removidos de manera anticipada, mediante resolución fundada de la Comisión.
 
-Los integrantes de los comités consultivos tendrán derecho a gozar de una dieta por sesión que asistan, que podrá ascender hasta 2 unidades tributarias mensuales con un máximo de 16 unidades tributarias mensuales por mes. Esta asignación será incompatible con toda otra remuneración de carácter público para el personal regido por la ley Nº 18.834.
+Inciso Eliminado.
 
 Corresponderá a la Comisión reglamentar la forma y condiciones de funcionamiento de cada comité consultivo. En todo caso, los comités funcionarán sólo por el período que sea necesario para el adecuado cumplimiento de las tareas encomendadas por la Comisión, y sus actas serán públicas.
+
+### Párrafo 2° — bis
+
+De las inhabilidades e incompatibilidades
+
+#### Artículo 12 bis
+
+No podrán ser comisionados:
+
+a) Quienes ejerzan funciones directivas en una institución de educación superior, de conformidad con lo establecido en el artículo 72 de la Ley de Educación Superior.
+
+b) Los miembros o asociados, socios o propietarios de una institución de educación superior, o quienes lo hayan sido dentro de los doce meses anteriores a la postulación al cargo.
+
+c) Los cónyuges, convivientes civiles y parientes hasta el segundo grado de consanguinidad o afinidad de las personas señaladas en las letras anteriores.
+
+d) Quienes ejerzan el cargo de Ministro de Estado o Subsecretario; Senador o Diputado; ministro del Tribunal Constitucional, ministro de la Corte Suprema, consejero del Banco Central, Fiscal Nacional del Ministerio Público, Contralor General de la República y cargos del alto mando de las Fuerzas Armadas y de las Fuerzas de Orden y Seguridad Pública; Intendente, Gobernador o Consejero Regional; Secretarios Regionales Ministeriales o Jefe del Departamento Provincial de Educación, Alcalde o Concejal; los que sean miembros del Escalafón Primario del Poder Judicial; Secretario o Relator del Tribunal Constitucional; Fiscal del Ministerio Público; miembro del Tribunal Calificador de Elecciones o su Secretario-Relator; los miembros de los Tribunales Electorales Regionales, Suplente o Secretario-Relator, y los miembros de los demás Tribunales creados por ley; funcionario de la Administración del Estado, salvo que desempeñe funciones en instituciones de educación superior estatales, y miembro de los órganos de dirección de los partidos políticos, candidatos a cargos de elección popular, y dirigentes de asociaciones gremiales o sindicales.
+
+Asimismo, no podrán ser nombrados como comisionado quienes hubieren sido removidos de su cargo de conformidad a lo establecido en las letras e) y f) del artículo 12 quáter.
+
+Las inhabilidades contempladas en este artículo serán también aplicables a quienes ejerzan funciones directivas en la Secretaría Ejecutiva, a los integrantes de los Comités Consultivos y a los pares evaluadores.
+
+#### Artículo 12 ter
+
+Los comisionados deberán informar inmediatamente al Presidente de la Comisión de todo hecho, cualquiera sea su naturaleza, que les reste imparcialidad en sus acuerdos o decisiones, absteniéndose, en el acto, de conocer del asunto respecto del cual se configure la causal.
+
+En particular, los comisionados deberán abstenerse de intervenir en aquellos asuntos que afecten a las instituciones de educación superior con que tengan una relación contractual.
+
+Los comisionados que, debiendo abstenerse, actúen en tales asuntos, serán removidos de su cargo por el Presidente de la República y quedarán impedidos de ejercerlo nuevamente, sin perjuicio de la responsabilidad administrativa, civil o penal que pudiere configurarse.
+
+Toda decisión o pronunciamiento que la Comisión adopte con participación de un miembro respecto del cual existía alguna causal de abstención deberá ser revisado por la Comisión, pudiendo además ser impugnado dentro de un plazo de un año, contado desde que éste fue emitido.
+
+#### Artículo 12 quáter
+
+Serán causales de cesación en el cargo de comisionado, las siguientes:
+
+a) Expiración del plazo por el que fueron designados.
+
+b) Renuncia voluntaria aceptada por el Presidente de la República.
+
+c) Incapacidad legal sobreviniente para el desempeño de su cargo.
+
+d) Inhabilidad o incompatibilidad sobreviniente.
+
+e) Haber sido condenado por sentencia firme o ejecutoriada, por delitos que merezcan pena aflictiva.
+
+f) Falta grave al cumplimiento de las obligaciones como comisionado. Para estos efectos, se considerará falta grave:
+
+i. Inasistencia injustificada a dos sesiones consecutivas o a cuatro sesiones en un semestre calendario.
+
+ii. No guardar la debida reserva respecto de la información recibida en el ejercicio de su cargo que no haya sido divulgada oficialmente.
+
+iii. Dar por acreditados hechos a sabiendas de que son falsos u omitir información relevante para el proceso.
+
+El comisionado respecto del cual se verificare alguna causal de incapacidad sobreviniente o que se encontrare en una situación que lo inhabilite para desempeñar el cargo, o alguna causal de incompatibilidad con el mismo, deberá comunicar de inmediato dicha circunstancia a la Comisión. En caso de constatarse por la Comisión alguna de dichas causales, el comisionado cesará automáticamente en su cargo. De igual forma, cesará en su cargo el comisionado cuya renuncia hubiere sido aceptada por el Presidente de la República.
+
+El comisionado que incurra en alguna de las situaciones descritas en la letra
+
+- **f)** de este artículo será destituido por el Presidente de la República, a requerimiento del Ministerio de Educación, previo procedimiento administrativo, aplicándose supletoriamente las normas del Título V de la ley N° 18.834 sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fijó el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda. Mientras se lleva a cabo este proceso, el comisionado quedará inhabilitado temporalmente para ejercer su cargo, perdiendo en tal caso su derecho a percibir la dieta establecida en la presente ley. El acto administrativo en virtud del cual se haga efectiva la destitución deberá señalar los hechos en que se funda y los antecedentes tenidos a la vista para acreditarlos. El comisionado que hubiere sido destituido de conformidad a lo dispuesto en este inciso no podrá ser designado nuevamente en el cargo. Tampoco podrá ocupar algún cargo directivo o administrativo en ninguna Institución de Educación Superior por el lapso de tres años, tratándose de la letra
+
+- **e)** o del ordinal iii) de la letra
+
+- **f)** de este artículo.
+
+La destitución establecida en el inciso anterior procederá sin perjuicio de la responsabilidad administrativa, civil o penal que pudiere configurarse.
+
+Si quedare vacante el cargo de comisionado, deberá procederse al nombramiento de uno nuevo de conformidad al procedimiento establecido en el artículo 7. El comisionado nombrado en reemplazo durará en el cargo sólo por el tiempo que restare para completar el período del comisionado reemplazado. Si quedare menos de la mitad del período de duración del cargo, dicho comisionado podrá ser reelecto.
+
+Una vez que los comisionados hayan cesado en su cargo por cualquier motivo, no podrán ejercer funciones directivas de una institución de educación superior, ni podrán tener participación en su propiedad, o ser miembros o asociados de éstas, hasta doce meses después de haber expirado en sus funciones.
+
+#### Artículo 12
+
+quinquies.- Los comisionados, el personal de la Secretaría Ejecutiva, los integrantes de los Comités Consultivos y el personal que preste servicios a la Comisión, deberán guardar absoluta reserva y secreto de las informaciones de las cuales tomen conocimiento en el cumplimiento de sus labores, sin perjuicio de las informaciones y certificaciones que deban proporcionar de conformidad a la ley.
+
+Asimismo, los comisionados, el personal de la Secretaría Ejecutiva y el personal que preste servicios a la Comisión tendrán prohibición absoluta de prestar a las entidades sujetas a su evaluación otros servicios, sean éstos remunerados o gratuitos, ya sea en forma directa o a través de terceros, salvo labores docentes, académicas o administrativas, en cuyo caso deberá darse cumplimiento a lo establecido en el artículo 12 ter.
+
+Las infracciones a esta norma serán consideradas faltas graves para efectos de lo dispuesto en el artículo anterior y para perseguir la responsabilidad administrativa, que se exigirá sin perjuicio de la responsabilidad civil o penal que pudiera configurarse.
 
 ### Párrafo 3º
 
@@ -226,7 +326,7 @@ La Comisión tendrá uso, goce y disposición de los bienes muebles e inmuebles 
 
 Anualmente, la Dirección de Presupuestos del Ministerio de Hacienda fijará los montos de los aranceles que se cobrarán por el desarrollo de los procesos establecidos en esta ley. Dichos aranceles podrán pagarse hasta en diez mensualidades y constituirán ingresos propios de la Comisión.
 
-En el caso de los procesos de acreditación institucional que sean realizados a través de pares evaluadores personas jurídicas, el mencionado arancel estará compuesto por el valor del honorario de dicha persona jurídica, más un monto fijo por gastos de administración que se determinará anualmente, mediante resolución de la Comisión, la que se publicará en un diario de circulación nacional.
+Inciso Eliminado.
 
 ## Título II
 
@@ -262,39 +362,41 @@ Adicionalmente, las instituciones podrán optar por la acreditación de otras á
 
 Un reglamento de la Comisión de Acreditación determinará el contenido de cada una de las áreas y los elementos que serán objeto de evaluación en cada una de ellas.
 
+#### Artículo 17 bis
+
+Para efectos de lo establecido en esta ley, se entenderá por:
+
+a) Dimensión de evaluación: área en que las instituciones de educación superior son evaluadas en la acreditación institucional, conforme a criterios y estándares de calidad.
+
+b) Criterio: elementos o aspectos específicos vinculados a una dimensión que enuncian principios generales de calidad aplicables a las instituciones en función de su misión. La definición de estos criterios deberá considerar las particularidades del subsistema universitario y del técnico profesional.
+
+c) Estándar: descriptor que expresa el nivel de desempeño o de logro progresivo de un criterio. Dicho nivel será determinado de manera objetiva para cada institución en base a evidencia obtenida en las distintas etapas del proceso de acreditación institucional.
+
 #### Artículo 18
 
-Corresponderá a la Comisión fijar y revisar periódicamente las pautas de evaluación para el desarrollo de los procesos de acreditación institucional, a propuesta de un comité consultivo de acreditación institucional.
+Los criterios y estándares de calidad se revisarán por la Comisión cada cinco años, previa consulta al Comité de Coordinación.
 
-Dichas pautas deben considerar los siguientes aspectos:
+La Comisión elaborará los criterios y estándares de calidad, los que deberán considerar las especificidades de los subsistemas técnico profesional y universitario y los niveles de programas formativos que las instituciones de educación superior impartan. Para estos efectos, la Comisión deberá consultar la opinión técnica de las instituciones de educación superior, así como también la de comités consultivos compuestos por expertos chilenos o extranjeros y representantes del sector productivo.
 
-1.- La institución debe contar con políticas y mecanismos de aseguramiento de la calidad referidos a las funciones que le son propias, implementarlas sistemáticamente y aplicar los resultados en su desarrollo institucional. Para estos efectos:
+La Comisión deberá remitir los criterios y estándares al Comité de Coordinación antes de seis meses de la fecha en que deban entrar en vigencia.
 
-a) Debe contar con propósitos y fines institucionales claros que orienten adecuadamente su desarrollo y con políticas y mecanismos formales y eficientes que velen por el cumplimiento de los propósitos declarados en su misión institucional.
+Se establecerán criterios y estándares de calidad para los procesos de acreditación institucional, de acreditación de carreras y programas y de acreditación de programas de magíster, doctorados y especialidades médicas y odontológicas.
 
-b) Debe demostrar que sus políticas y mecanismos de aseguramiento de la calidad se aplican sistemáticamente en los diversos niveles institucionales de manera eficiente y eficaz.
+Con todo, los criterios y estándares de calidad para los procesos de acreditación institucional deberán considerar, al menos, los siguientes aspectos de cada una de las dimensiones de evaluación:
 
-c) Debe evidenciar resultados concordantes con los propósitos institucionales declarados y cautelados mediante las políticas y mecanismos de autorregulación.
+1.- Docencia y resultados del proceso de formación. Debe considerar las políticas y mecanismos institucionales orientados al desarrollo de una función formativa de calidad, los que se deberán recoger en la formulación del modelo educativo.
 
-d) Debe demostrar que tiene capacidad para efectuar los ajustes y cambios necesarios para mejorar su calidad y avanzar consistentemente hacia el logro de sus propósitos declarados.
+2.- Gestión estratégica y recursos institucionales. Debe contemplar políticas de desarrollo y objetivos estratégicos, y la existencia de una estructura organizacional e instancias de toma de decisiones adecuadas para el cumplimiento de los fines institucionales.
 
-2.- La gestión estratégica institucional debe realizarse sobre la base de la misión declarada, de modo tal de resguardar el cumplimiento de los propósitos institucionales. Para ello, la institución debe contar con adecuados mecanismos de evaluación, planificación y seguimiento de las acciones planificadas. La gestión estratégica debe considerar, a lo menos, los siguientes aspectos:
+3.- Aseguramiento interno de la calidad. El sistema interno de aseguramiento y gestión de la calidad institucional debe abarcar la totalidad de las funciones que la institución desarrolla, así como las sedes que la integran y deberá aplicarse sistemáticamente en todos los niveles y programas de la institución de educación superior. Los mecanismos aplicados deberán orientarse al mejoramiento continuo, resguardando el desarrollo integral y armónico del proyecto institucional.
 
-a) Diagnóstico estratégico de la institución, tomando en consideración elementos internos y externos.
+4.- Vinculación con el medio. La institución de educación superior debe contar con políticas y mecanismos sistemáticos de vinculación bidireccional con su entorno significativo local, nacional e internacional, y con otras instituciones de educación superior, que aseguren resultados de calidad. Asimismo, deberán incorporarse mecanismos de evaluación de la pertinencia e impacto de las acciones ejecutadas, e indicadores que reflejen los aportes de la institución al desarrollo sustentable de la región y del país.
 
-b) Establecimiento de prioridades institucionales a mediano y largo plazo.
+5.- Investigación, creación y/o innovación.
 
-c) Traducción de esas prioridades a la formulación y puesta en práctica de planes de desarrollo.
+a) Las universidades deberán, de acuerdo con su proyecto institucional, desarrollar actividades de generación de conocimiento, tales como investigaciones en distintas disciplinas del saber, creación artística, transferencia y difusión del conocimiento y tecnología o innovación. Esto debe expresarse en políticas y actividades sistemáticas con impacto en el desarrollo disciplinario, en la docencia de pre y postgrado, en el sector productivo, en el medio cultural o en la sociedad.
 
-d) Verificación del grado de avance hacia las metas establecidas.
-
-e) Utilización de los resultados de la verificación para ajustar metas, acciones y recursos.
-
-f) Capacidad de análisis institucional y de manejo de información para la gestión.
-
-3.- La gestión de la docencia de pregrado debe realizarse mediante políticas y mecanismos que resguarden un nivel satisfactorio de la docencia impartida. Estos deben referirse, al menos, al diseño y provisión de carreras y programas, en todas las sedes de la institución, al proceso de enseñanza, a las calificaciones y dedicación del personal docente, a los recursos materiales, instalaciones e infraestructura, a la progresión de los estudiantes y al seguimiento de egresados.
-
-Adicionalmente, la institución podrá acreditar también que cuenta con políticas y mecanismos para asegurar el cumplimiento de sus propósitos en otras funciones institucionales, tales como la investigación, el postgrado, la vinculación con el medio o la infraestructura y recursos, entre otras. Para tales efectos, debe garantizar que cuenta con políticas institucionales claramente definidas, una organización apropiada para llevarlas a cabo, personal debidamente calificado y con dedicación académica suficiente, recursos materiales, de infraestructura e instalaciones apropiados y, finalmente, demostrar que el desarrollo de las funciones sometidas a la acreditación conducen a resultados de calidad.
+b) Los institutos profesionales y centros de formación técnica, de acuerdo con su proyecto institucional, deberán desarrollar políticas y participar en actividades sistemáticas que contribuyan al desarrollo, transferencia y difusión de conocimiento y tecnologías, así como a la innovación, con el objetivo de aportar a solución de problemas productivos o desafíos sociales en su entorno relevante. Estas actividades deberán vincularse adecuadamente con la formación de estudiantes.
 
 #### Artículo 19
 
@@ -314,6 +416,10 @@ En todo caso, los pares evaluadores no podrán realizar evaluaciones en aquellas
 
 Tratándose de pares evaluadores personas jurídicas, éstas no podrán tener con las instituciones de educación superior a ser evaluada, ninguna de las relaciones descritas en los artículos 96, 97, 98, 99 y 100 de la ley Nº 18.045. Para estos efectos serán aplicables dichas normas también a las corporaciones universitarias.
 
+#### Artículo 19 bis
+
+En el caso que la Comisión rechazare el informe presentado por los pares evaluadores, la institución podrá solicitar, dentro del plazo de 30 días contado desde la fecha de notificación del primer informe, la realización de una nueva evaluación por pares evaluadores distintos, designados en conformidad con lo establecido en el artículo anterior.
+
 #### Artículo 20
 
 La acreditación institucional se otorgará por un plazo de siete años a la institución de educación superior evaluada que, considerando el informe emitido por los pares evaluadores, cumpla íntegramente con los criterios de evaluación.
@@ -324,7 +430,9 @@ En los casos indicados en el inciso anterior, la Comisión formulará las observ
 
 #### Artículo 21
 
-En el caso que la Comisión rechazare el informe presentado por los pares evaluadores, la institución podrá solicitar, dentro del plazo de 30 días contado desde la fecha de notificación del primer informe, la realización de una nueva evaluación por pares evaluadores distintos, designados en conformidad con lo establecido en el artículo 19. Si el informe emanado de esta segunda revisión recomendare la acreditación de la institución, éste deberá ser acogido por la Comisión.
+Eliminado.
+
+> **Nota.** El N° 22 del Art. 81 de la ley 21091, publicada el 29.05.2018, sustituyó el presente artículo 21 por un artículo 19 bis, el que en este texto actualizado ha sido ubicado en el lugar que le corresponde conforme a su nueva numeración, esto es, a continuación del artículo 19.
 
 #### Artículo 22
 
@@ -334,15 +442,15 @@ En todo caso, y sin perjuicio de lo señalado en el artículo 21, la institució
 
 #### Artículo 23
 
-La institución de educación superior afectada por las decisiones que la Comisión adopte en conformidad con lo establecido en los dos artículos precedentes, podrá apelar ante el Consejo Superior de Educación, dentro del plazo de quince días hábiles. Lo anterior, no obstará a la interposición del correspondiente reclamo ante la misma Comisión.
+La institución de educación superior afectada por las decisiones que la Comisión adopte en conformidad con lo establecido en los dos artículos precedentes, podrá apelar ante el Consejo Nacional de Educación, dentro del plazo de quince días hábiles, salvo que se trate de una institución que se encuentre en supervisión por el mismo. Lo anterior, no obstará a la interposición del correspondiente reclamo ante la misma Comisión.
 
 Admitida la apelación a tramitación, el Consejo solicitará informe a la Comisión la que deberá evacuarlo en un plazo de 10 días hábiles.
 
-El Consejo Superior de Educación se pronunciará por resolución fundada sobre la apelación dentro del plazo de treinta días hábiles, contado desde la presentación del recurso.
+El Consejo Nacional de Educación se pronunciará por resolución fundada sobre la apelación dentro del plazo de treinta días hábiles, contado desde la presentación del recurso.
 
 #### Artículo 24
 
-Si como resultado del proceso de acreditación, la Comisión toma conocimiento de que la institución evaluada ha incurrido en alguna de las situaciones con templadas en los artículos 57, 67 ó 74 de la Ley Orgánica Constitucional de Enseñanza, según corresponda, deberá poner los antecedentes en conocimiento del Ministerio de Educación a fin de que este organismo proceda en conformidad con lo dispuesto en dichas normas.
+Si en el ejercicio de sus funciones la Comisión toma conocimiento de que la institución evaluada ha incurrido en alguna de las situaciones con templadas en los artículos 64, 74 u 81 del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación, según corresponda, deberá poner los antecedentes en conocimiento del Ministerio de Educación a fin de que este organismo proceda en conformidad con lo dispuesto en dichas normas.
 
 #### Artículo 25
 
@@ -350,39 +458,35 @@ Durante la vigencia de la acreditación, las instituciones deberán informar a l
 
 ## Título III
 
-De la autorización y supervisión de las agencias de
-
-acreditación de carreras y programas de pregrado
+De la acreditación de carreras y programas de pregrado
 
 ### Párrafo 1º
 
-Del objeto de la acreditación
+De la acreditación obligatoria de carreras y programas de pregrado
 
 #### Artículo 26
 
-La acreditación de carreras profesionales y técnicas y programas de pregrado será realizada por instituciones nacionales, extranjeras o internacionales, que se denominarán agencias acreditadoras, autorizadas en conformidad con las normas del presente título.
-
-Dicha acreditación tendrá por objeto certificar la calidad de las carreras y los programas ofrecidos por las instituciones autónomas de educación superior, en función de los propósitos declarados por la institución que los imparte y los estándares nacionales e internacionales de cada profesión o disciplina y en función del respectivo proyecto de desarrollo académico.
-
-La opción por los procesos de acreditación de carreras y programas de pregrado será voluntaria y, en el desarrollo de los mismos, las agencias autorizadas y la Comisión deberán cautelar la autonomía de cada institución.
-
-La acreditación de carreras y programas de pregrado se extenderá hasta por un plazo de siete años, según el grado de cumplimiento de los criterios de evaluación.
+Eliminado.
 
 #### Artículo 27
 
-Sin perjuicio de lo anterior, las carreras y programas de estudio conducentes a los títulos profesionales de Médico Cirujano, deberán someterse obligatoriamente al proceso de acreditación establecido en este párrafo. En el caso de las carreras y programas indicados, la acreditación se aplicará siempre desde el primer año de funcionamiento de la respectiva carrera o programa.
+Las carreras y programas de estudio conducentes a los títulos profesionales de Médico Cirujano, Cirujano Dentista, Profesor de Educación Básica, Profesor de Educación Media, Profesor de Educación Diferencial o Especial y Educador de Párvulos deberán someterse obligatoriamente al proceso de acreditación establecido en este párrafo.
 
-Las carreras y programas actualmente vigentes deberán someterse al proceso de acreditación en un plazo no superior a dos años contados desde la fecha de publicación de esta ley.
+La acreditación de estas carreras y programas consistirá en la evaluación y verificación del cumplimiento de criterios y estándares de calidad, y tendrá por objeto certificar la calidad de las carreras y los programas ofrecidos por las instituciones autónomas de educación superior, en función de los propósitos declarados por la institución que los imparte y la normativa vigente que rige su ejercicio.
 
-Las carreras y programas de los señalados en el inciso primero que no cumplan con lo dispuesto en este artículo, sea porque no se presentan al proceso de acreditación o porque no logran ser acreditadas, no podrán acceder a ningún tipo de recursos otorgados directamente por el Estado o que cuenten con su garantía, para el financiamiento de los estudios de sus nuevos alumnos.
+Esta acreditación se extenderá hasta por un plazo de siete años, según el grado de cumplimiento de los criterios y estándares de calidad. Con todo, a la carrera o programa que no presente un cumplimiento aceptable de los estándares de calidad, no se le otorgará la acreditación.
+
+Un reglamento de la Comisión establecerá la forma, condiciones y requisitos para el desarrollo de los procesos de acreditación de estas carreras y programas, los que, en todo caso, deberán considerar las etapas de autoevaluación, evaluación externa y pronunciamiento de la Comisión.
+
+Sólo las universidades acreditadas podrán impartir las carreras y programas referidos en este artículo, siempre que dichas carreras y programas hayan obtenido acreditación.
+
+Asimismo, las universidades que se encuentren en proceso de licenciamiento y bajo la supervisión del Consejo Nacional de Educación, y que cuenten con la autorización de ese organismo, podrán impartir las carreras referidas en este artículo hasta que dichas instituciones logren la plena autonomía. Dentro del plazo de dos años, contado desde la obtención de la plena autonomía, las instituciones de educación superior deberán iniciar el proceso de acreditación de sus respectivas carreras.
+
+Las universidades acreditadas que creen nuevas carreras o programas referidas en el inciso primero de este artículo tendrán un plazo de tres años para obtener su acreditación, contados desde el inicio de las respectivas actividades académicas.
 
 #### Artículo 27 bis
 
-Sólo las universidades acreditadas podrán impartir carreras y programas de estudio conducentes a los títulos profesionales de Profesor de Educación Básica, Profesor de Educación Media, Profesor de Educación Técnico Profesional, Profesor de Educación Diferencial y Educador de Párvulos, siempre que dichas carreras y programas hayan obtenido acreditación.
-
-Asimismo, las universidades que se encuentren en proceso de licenciamiento y bajo la supervisión del Consejo Nacional de Educación y que cuenten con la autorización de ese organismo, podrán impartir carreras de pedagogía hasta que dichas instituciones logren la plena autonomía, momento en el cual deberán acreditarse y acreditar la o las respectivas carreras, dentro de un plazo que no podrá ser superior a dos años contados desde que la institución haya logrado la plena autonomía.
-
-Sin perjuicio de lo establecido en la presente ley, para obtener la acreditación de carreras y programas, o la autorización del Consejo Nacional de Educación, según corresponda, se deberá cumplir con los siguientes requisitos:
+Sin perjuicio de lo establecido en la presente ley, para obtener la acreditación de carreras y programas de pedagogía, o la autorización del Consejo Nacional de Educación, según corresponda, se deberá cumplir con los siguientes requisitos:
 
 a) Que la universidad aplique a los estudiantes de las carreras de pedagogía que imparta, las evaluaciones diagnósticas sobre formación inicial en pedagogía que determine el Ministerio de Educación. Una de estas evaluaciones deberá ser realizada al inicio de la carrera por la universidad y la otra, basada en estándares pedagógicos y disciplinarios, que será aplicada directamente por el Ministerio de Educación, a través del Centro, durante los doce meses que anteceden al último año de carrera.
 
@@ -402,13 +506,11 @@ Los resultados de las evaluaciones diagnósticas señaladas en literal a) serán
 
 La segunda evaluación diagnóstica deberá ser rendida por los estudiantes como requisito para obtener el título profesional correspondiente, y medirá los estándares pedagógicos y disciplinarios definidos por el Ministerio de Educación, aprobados por el Consejo Nacional de Educación. Corresponderá a la institución de educación superior adoptar las medidas necesarias para que los estudiantes cumplan con lo dispuesto en el presente inciso. Los resultados de esta evaluación, agregados y por institución, deberán ser publicados.
 
-El Ministerio de Educación, anualmente, deberá entregar a la Comisión Nacional de Acreditación información sobre la aplicación y resultados de las evaluaciones diagnósticas señaladas.
-
-Las universidades acreditadas que creen nuevas carreras o programas de pedagogía tendrán un plazo de tres años para obtener su acreditación, contados desde el inicio de las respectivas actividades académicas.
-
 #### Artículo 27 ter
 
-Para efectos de otorgar la acreditación de las carreras de pedagogía, la Comisión Nacional de Acreditación deberá establecer criterios y orientaciones relativos, a lo menos, a:
+Para efectos de otorgar la acreditación de las carreras y programas referidos en el artículo 27, la Comisión Nacional de Acreditación deberá establecer criterios y estándares de calidad, de conformidad a lo establecido en el artículo 18 de esta ley.
+
+Para efectos de otorgar la acreditación de las carreras de pedagogía, la Comisión Nacional de Acreditación deberá establecer criterios y estándares de calidad relativos, a lo menos, a:
 
 i. Procesos formativos, los que deberán ser coherentes con el perfil de egreso definido por la universidad y los estándares pedagógicos y disciplinarios definidos por el Ministerio de Educación y aprobados por el Consejo Nacional de Educación.
 
@@ -418,21 +520,21 @@ iii. Cuerpo académico idóneo e infraestructura y equipamiento necesarios, para
 
 iv. Programas orientados a la mejora de resultados, en base a la información que entreguen las evaluaciones diagnósticas establecidas en el literal a) del artículo 27 bis.
 
-Con el propósito de promover la calidad de los programas de prosecución de estudios a que hace referencia el artículo 27 sexies, corresponderá a la Comisión Nacional de Acreditación adecuar los criterios de evaluación señalados en este artículo respecto de aquellos que se apliquen a dichos programas.
+Con el propósito de promover la calidad de los programas de prosecución de estudios a que hace referencia el artículo 27 sexies, corresponderá a la Comisión Nacional de Acreditación adecuar los criterios y estándares de calidad señalados en este artículo respecto de aquellos que se apliquen a dichos programas.
 
 #### Artículo 27 quáter
 
-La acreditación de las carreras de pedagogía solo podrá ser otorgada por la Comisión Nacional de Acreditación. Con todo, para efectos del financiamiento de dichas acreditaciones, se procederá de conformidad a lo dispuesto en el artículo 14 de la ley N° 20.129.
+La acreditación de las carreras y programas referidos en el artículo 27 será otorgada por la Comisión Nacional de Acreditación. Con todo, para efectos del financiamiento de dichas acreditaciones, se procederá de conformidad a lo dispuesto en el artículo 14.
 
 #### Artículo 27
 
-quinquies.- En caso de que la carrera o programa no obtuviera o perdiese la acreditación a que se refiere este artículo, corresponderá al Consejo Nacional de Educación iniciar un proceso de supervisión de la carrera o programa de que se trate, por un periodo de tiempo equivalente al número de años de duración teórica de la misma. De no someter la universidad la carrera o programa respectivo a este proceso de supervisión, operará el mecanismo dispuesto en el inciso tercero del artículo 64 del decreto con fuerza de ley N°2, de 2010, del Ministerio de Educación.
+quinquies.- En caso que alguna carrera o programa referidos en el artículo 27 no obtuviera o perdiese la acreditación, corresponderá al Consejo Nacional de Educación iniciar un proceso de supervisión de la carrera o programa de que se trate, por un periodo de tiempo equivalente al número de años de duración teórica de la misma. De no someter la universidad la carrera o programa respectivo a este proceso de supervisión o, si sometiéndose, no obtiene un resultado satisfactorio ante el Consejo Nacional de Educación, operará el mecanismo dispuesto en el inciso tercero del artículo 64 del decreto con fuerza de ley N°2, de 2010, del Ministerio de Educación.
 
-Finalizado satisfactoriamente el proceso ante el Consejo Nacional de Educación, la carrera o programa deberá ser presentado inmediatamente a acreditación por la universidad respectiva. Si así no lo hiciere, o presentándose, no obtuviere la acreditación o un resultado satisfactorio ante el Consejo Nacional de Educación, operará el mecanismo a que se refiere el inciso anterior.
+Finalizado satisfactoriamente el proceso ante el Consejo Nacional de Educación, la carrera o programa deberá ser presentado inmediatamente a acreditación por la universidad respectiva. Si así no lo hiciere, o presentándose, no obtuviere la acreditación, operará el mecanismo a que se refiere el inciso anterior.
 
 #### Artículo 27
 
-sexies.- En el caso de los programas de prosecución de estudios, cada universidad definirá los requisitos de ingreso, debiendo considerar, a lo menos, i) contar con un grado de académico o un título profesional; o, ii) poseer un título técnico de nivel superior. Estos programas deberán ser impartidos por universidades acreditadas, conforme lo establece el inciso primero del artículo 27 bis, y los artículos 27 ter y 27 quáter.
+sexies.- En el caso de los programas de prosecución de estudios de las carreras de pedagogía, cada universidad definirá los requisitos de ingreso, debiendo considerar, a lo menos, i) contar con un grado de académico o un título profesional; o, ii) poseer un título técnico de nivel superior. Estos programas deberán ser impartidos por universidades acreditadas, conforme lo establece el inciso primero del artículo 27 bis, y los artículos 27 ter y 27 quáter.
 
 En caso de que una universidad acreditada cree un programa de prosecución de estudios nuevo, contará con el plazo de un año para obtener su acreditación, contado desde el inicio de las respectivas actividades académicas.
 
@@ -450,7 +552,7 @@ b) El conjunto de recursos y procesos mínimos que permiten asegurar el cumplimi
 
 #### Artículo 29
 
-Las agencias acreditadoras que, en el cumplimiento de sus funciones, tomen conocimiento de que en determinadas carreras y programas de pregrado se han producido situaciones que pueden ser constitutivas de alguna de las causales señaladas en los artículos 57, 67 y 74 de la Ley Orgánica Constitucional de Enseñanza, deberán poner los antecedentes respectivos en conocimiento del Ministerio de Educación, a fin de que dicho organismo proceda de acuerdo con lo dispuesto en dichas normas.
+Si en el ejercicio de sus funciones, la Comisión toma conocimiento de que en determinadas carreras y programas de pregrado se han producido situaciones que pueden ser constitutivas de alguna de las causales señaladas en los artículos 64, 74 u 81 del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación, deberán poner los antecedentes respectivos en conocimiento del Ministerio de Educación, a fin de que dicho organismo proceda de acuerdo con lo dispuesto en dichas normas.
 
 #### Artículo 30
 
@@ -458,125 +560,65 @@ Las instituciones de educación superior podrán apelar a la Comisión de las de
 
 #### Artículo 31
 
-En los casos en que no exista ninguna agencia autorizada para acreditar carreras profesionales o técnicas o programas de pregrado en una determinada área del conocimiento, a solicitud de una institución de educación superior, corresponderá a la Comisión desarrollar directamente tales procesos de acreditación, conforme al reglamento que dictará para ese efecto. El reglamento incluirá los respectivos criterios de evaluación.
-
-En este caso particular, la institución podrá apelar de las decisiones de acreditación de la Comisión ante el Consejo Superior de Educación, dentro del plazo de treinta días.
+Derogado.
 
 #### Artículo 32
 
-La acreditación de programas o carreras de pregrado y postgrado estará precedida de una autoevaluación que la institución solicitante pondrá a disposición de la agencia acreditadora antes de que ésta inicie su labor.
+Derogado.
 
 #### Artículo 33
 
-La acreditación en la que no tenga participación la Comisión, no comprometerá la responsabilidad de la misma.
+Derogado.
 
 ### Párrafo 2º
 
 De la autorización y supervisión de las agencias de
 
-acreditación
+acreditación. Derogado
 
-#### Artículo 34
+#### Artículo 34°
 
-Corresponderá a la Comisión autorizar y supervisar el adecuado funcionamiento de las agencias de acreditación de carreras de pregrado y programas de magíster y especialidades en el área de la salud, sobre la base de los requisitos y condiciones de operación que fije, a propuesta de un comité consultivo de acreditación de pregrado y postgrado. Tales requisitos y condiciones de operación considerarán, al menos, los siguientes elementos:
+Derogado.
 
-a) La definición explícita por parte de la agencia de sus objetivos, en consideración al contexto cultural e histórico en que se desempeña. El aseguramiento de la calidad debe ser una actividad central de la agencia, y sus propósitos deben expresarse en políticas claras y en un plan de gestión definido.
+#### Artículo 35°
 
-b) La existencia y aplicación de mecanismos apropiados para garantizar la independencia de sus juicios y la de los evaluadores con los que trabaja.
+Derogado.
 
-c) La idoneidad de sus recursos, tanto humanos como financieros, de acuerdo a las tareas que realiza.
+#### Artículo 36°
 
-d) La existencia y aplicación de criterios de evaluación que sean equivalentes, en lo sustancial, a los que defina la Comisión.
+Derogado.
 
-e) La existencia y aplicación de procedimientos que sean replicables y verificables, y que contemplen, a lo menos, una instancia de auto evaluación y otra de evaluación externa.
+#### Artículo 37°
 
-f) Mecanismos de publicidad y transparencia de los criterios y procedimientos de evaluación, los cuales deberán ser conocidos por las instituciones y garantizar un trato no discriminatorio.
+Derogado.
 
-g) La existencia y aplicación de mecanismos tendientes a garantizar que los evaluadores externos que contrata se constituyan en equipos de evaluación apropiados a los requerimientos de las carreras evaluadas, que no presentan conflictos de interés, que han sido apropiadamente capacitados y que actuarán con independencia.
+#### Artículo 38°
 
-h) La existencia y aplicación de adecuados mecanismos de difusión de sus decisiones.
-
-i) La existencia de mecanismos de revisión periódica de su funcionamiento.
-
-j) La existencia de mecanismos de colaboración con otras agencias de aseguramiento de la calidad y de actualización de sus funciones, considerando el medio nacional e internacional.
-
-#### Artículo 35
-
-El proceso de evaluación de solicitudes de autorización considerará el cumplimiento de los requisitos establecidos en el artículo anterior. La evaluación considerará, además, el conjunto de observaciones, recomendaciones o indicaciones que la Comisión haya formulado a la agencia, en el marco de anteriores procesos de autorización o supervisión, si estos existieran.
-
-Un reglamento de la Comisión establecerá la forma, condiciones y requisitos para el desarrollo de los procesos de autorización de agencias de acreditación de carreras de pregrado y programas de magíster y especialidades en el área de la salud.
-
-#### Artículo 36
-
-La Comisión autorizará a la agencia de acreditación de carreras y programas de pregrado y de programas de maestrías y de especialidad en el área de la salud que cumpla íntegramente con los requisitos y condiciones de operación respectivos. La autorización se extenderá por un plazo de 7 años.
-
-En los casos en que la agencia de acreditación no cumpla íntegramente con los requisitos y condiciones de operación, la Comisión formulará las observaciones que deberán ser subsanadas por la entidad de manera previa a su autorización.
-
-#### Artículo 37
-
-La autorización que se otorgue a las agencias de acreditación de carreras de pregrado y de programas de magíster y especialidades en el área de la salud se extenderá exclusivamente a aquellas áreas disciplinarias que la Comisión señale en cada caso, conforme al contenido de cada solicitud y los antecedentes de la evaluación.
-
-#### Artículo 38
-
-Para efectos de la supervisión de las agencias acreditadoras, la Comisión realizará evaluaciones selectivas, determinadas aleatoriamente, y requerirá las informaciones pertinentes.
-
-Las agencias acreditadoras deberán presentar a la Comisión una memoria anual acerca de sus actividades, entregar los informes que den cuenta de los procesos de acreditación realizados e informar de todos aquellos cambios significativos que se produzcan en su estructura y funcionamiento, los que serán evaluados conforme a los requisitos y condiciones de operación.
+Derogado.
 
 ### Párrafo 3º
 
-De las obligaciones y sanciones
+De las obligaciones y sanciones. Derogado
 
-#### Artículo 39
+#### Artículo 39°
 
-Las agencias acreditadoras, una vez obtenido el reconocimiento de la Comisión, estarán sujetas a las siguientes obligaciones:
+Derogado.
 
-a) Dar cumplimiento a los requisitos y condiciones de operación que defina la Comisión, conforme a lo prevenido en el artículo 34;
+#### Artículo 40°
 
-b) Desarrollar los procesos de acreditación de las carreras de pregrado y programas de maestría y de especialidades del área de la salud que así se los soliciten, conforme a los criterios y procedimientos de evaluación que se les autoricen;
+Derogado.
 
-c) Proporcionar a la Comisión los antecedentes que ésta les solicite, en el marco del proceso de supervisión;
+#### Artículo 41°
 
-d) Subsanar las observaciones que les formule la Comisión;
+Derogado.
 
-e) Informar a la Comisión de todos aquellos cambios significativos que se produzcan en su estructura y funcionamiento, los que serán evaluados conforme a los requisitos y condiciones de operación, y
+#### Artículo 42°
 
-f) Presentar a la Comisión una memoria anual acerca de sus actividades.
+Derogado.
 
-#### Artículo 40
+#### Artículo 43°
 
-Las infracciones al artículo precedente serán sancionadas por la Comisión con alguna de las siguientes medidas:
-
-a) Amonestación por escrito;
-
-b) Multa a beneficio fiscal por un monto equivalente en moneda de curso legal, al momento del pago efectivo, de hasta 100 unidades tributarias mensuales;
-
-c) Suspensión de la autorización, y
-
-d) Término anticipado de la autorización.
-
-#### Artículo 41
-
-Para los efectos de la aplicación de las sanciones indicadas en el artículo anterior, la Comisión considerará especialmente los requisitos y condiciones de operación establecidos, así como de las obligaciones establecidas en el artículo 39.
-
-Se aplicará la medida de amonestación por escrito en los casos en que las agencias de acreditación no proporcionen oportunamente a la Comisión la información señalada en las letras c), e) y f) del artículo 39.
-
-Se aplicará la medida de multa a las agencias de acreditación que incurran reiteradamente en la causal de amonestación por escrito, que no den cumplimiento a los requisitos o condiciones de operación que sustentan su autorización, o no apliquen a cabalidad los procedimientos y criterios de evaluación que le han sido aprobados para el desarrollo de los procesos de acreditación de carreras y programas. En este caso, la Comisión formulará las observaciones que deben ser subsanadas por la agencia, indicando los plazos establecidos para ello.
-
-Se aplicará la medida de suspensión de la autorización a las agencias de acreditación que incurran reiteradamente en alguna de las causales precedentes, o que no hayan subsanado adecuadamente y a satisfacción de la Comisión las observaciones que les hayan sido formuladas. En este caso, la entidad afectada deberá adoptar las medidas que sean necesarias para dar adecuada solución a las observaciones dispuestas por la Comisión al momento de suspender la autorización, dentro de los plazos que ésta determine, como condición para levantar la suspensión aplicada. Subsanados los problemas que la causaron, la suspensión será levantada de inmediato por la Comisión.
-
-Se aplicará la medida de término anticipado de la autorización en los casos en que las agencias no hayan adoptado las medidas necesarias para solucionar oportunamente las observaciones de la Comisión al momento de suspender la autorización o cuando las medidas implementadas no sean conducentes a dicho fin o no produzcan los efectos perseguidos. Además, procederá la aplicación de la medida de término anticipado de la autorización en aquellos casos en que la Comisión constate que la agencia ha incurrido en grave y manifiesto incumplimiento de los requisitos y condiciones de operación establecidos.
-
-#### Artículo 42
-
-En forma previa a la aplicación de la sanción, se notificará a la afectada de los cargos que se formulan en su contra, para que presente sus descargos a la Comisión dentro del plazo de diez días hábiles, contados desde la notificación de los cargos.
-
-De la resolución que imponga una sanción, se podrá apelar ante el Consejo Superior de Educación dentro del plazo de diez días hábiles contados desde la notificación de dicha resolución. El referido Consejo tendrá un plazo de treinta días para resolver. La parte afectada podrá siempre recurrir de protección contra la resolución del Consejo Superior de Educación ante los tribunales ordinarios de justicia.
-
-Aplicada una multa ésta deberá ser pagada, en la Tesorería Regional del domicilio de la sancionada, dentro del término de diez días contado desde la notificación de la resolución respectiva.
-
-#### Artículo 43
-
-Las notificaciones se harán personalmente o por carta certificada enviada al domicilio que el notificado tenga registrado en la Comisión. Las notificaciones por carta certificada se entenderán practicadas al quinto día hábil de aquel en que sean expedidas, lo que deberá constar en un libro que llevará la Comisión.
+Derogado.
 
 ## Título IV
 
@@ -584,25 +626,23 @@ De la acreditación de programas de postgrado
 
 #### Artículo 44
 
-La acreditación de programas de postgrado correspondientes a magíster, doctorado y especialidades en el área de la salud y de otros niveles equivalentes que obedezcan a otra denominación, tendrá por objeto certificar la calidad de los programas ofrecidos por las instituciones autónomas de educación superior, en función de los propósitos declarados por la institución que los imparta y los criterios o estándares establecidos para este fin por la comunidad científica o disciplinaria correspondiente.
+La acreditación de programas de postgrado correspondientes a magíster, doctorado y especialidades en el área de la salud tendrá por objeto certificar la calidad de los programas ofrecidos por las instituciones autónomas de educación superior, en función de los propósitos declarados por la institución que los imparta, los criterios y estándares de calidad correspondientes, la normativa vigente aplicable al respectivo programa y los criterios o estándares establecidos para este fin por la comunidad científica o disciplinaria correspondiente.
 
-La acreditación de programas de postgrado será voluntaria.
+Las universidades deberán someter sus programas de doctorado a los procesos de acreditación, siendo ello voluntario para los demás programas a que se refiere el inciso anterior. Se podrá exigir, como requisito para acceder a financiamiento público o para contar con la garantía del Estado, que el programa de postgrado respectivo se encuentre acreditado de conformidad a lo establecido en esta ley.
 
 Un reglamento de la Comisión establecerá la forma, condiciones y requisitos para el desarrollo de los procesos de acreditación de programas de postgrado.
 
 #### Artículo 45
 
-Corresponderá a la Comisión fijar y revisar periódicamente los criterios de evaluación para la acreditación de programas de postgrado, a propuesta de un comité consultivo de acreditación de postgrado.
+Derogado.
 
 #### Artículo 46
 
-La acreditación de programas de pregrado y magíster y especialidades en el área de la salud será realizada por instituciones nacionales, extranjeras o internacionales, que se denominarán agencias acreditadoras, autorizadas en conformidad con las normas del Título III.
+La acreditación de programas de postgrado y especialidades en el área de la salud será otorgada por la Comisión Nacional de Acreditación.
 
-En todo caso, si no existieran agencias acreditadoras para un determinado programa de pregrado y magíster y especialidades en el área de la salud, o si la institución lo prefiere, la Comisión podrá realizar dicha acreditación.
+En el caso en que un programa de los referidos en el inciso anterior no cumpla íntegramente con los criterios y estándares de calidad, pero presente, a juicio de la Comisión, según sea el caso, un nivel de cumplimiento aceptable de los mismos, podrá acreditársele bajo condición de que dé cumplimiento a las observaciones que surjan del proceso, dentro de los plazos que la Comisión fije. Si el nivel de cumplimiento de los criterios de evaluación no es aceptable, la Comisión no acreditará el respectivo programa.
 
-En el caso en que un programa de postgrado no cumpla íntegramente con los criterios de evaluación, pero presente, a juicio de la agencia o Comisión, según sea el caso, un nivel de cumplimiento aceptable de los mismos, podrá acreditársele bajo condición de que dé cumplimiento a las observaciones que surjan del proceso, dentro de los plazos que la agencia o Comisión fije. Si el nivel de cumplimiento de los criterios de evaluación no es aceptable, la agencia o Comisión no acreditará el respectivo programa.
-
-La acreditación de programas de postgrado se extenderá por un plazo de hasta 10 años, según el grado de cumplimiento de los criterios de evaluación. Las instituciones de educación superior podrán, en caso de rechazo de una solicitud de acreditación de un programa de postgrado, apelar ante el Consejo Superior de Educación, dentro del plazo de quince días hábiles a contar de la fecha de la notificación de la decisión recurrida. El Consejo tendrá un plazo de 30 días hábiles para resolver. Lo anterior, será sin perjuicio de la interposición del recurso de reposición ante la misma Comisión.
+La acreditación de programas de postgrado se extenderá por un plazo de hasta 10 años, según el grado de cumplimiento de los criterios y estándares de calidad. Las instituciones de educación superior podrán, en caso de rechazo de una solicitud de acreditación de un programa de postgrado, apelar ante el Consejo Nacional de Educación, dentro del plazo de quince días hábiles a contar de la fecha de la notificación de la decisión recurrida. El Consejo tendrá un plazo de 30 días hábiles para resolver. Lo anterior, será sin perjuicio de la interposición del recurso de reposición ante la misma Comisión.
 
 ## Título V
 
@@ -610,11 +650,11 @@ De las medidas de publicidad de las decisiones
 
 #### Artículo 47
 
-Corresponderá a la Comisión mantener un sistema de información pública que contenga las decisiones que adopte en relación con la acreditación institucional de las universidades, institutos profesionales y centros de formación técnica autónomos; la autorización y supervisión de las agencias de acreditación de carreras y programas de pregrado y postgrado; y la acreditación de programas de postgrado.
+Corresponderá a la Comisión mantener un sistema de información pública que contenga las decisiones que adopte en relación con la acreditación institucional de las universidades, institutos profesionales y centros de formación técnica autónomos; y la acreditación de programas de postgrado.
 
-Deberá la Comisión, además, hacer públicos y mantener el acceso público a los informes, actas y estudios que realicen las agencias acreditadoras y los pares evaluadores en el ejercicio de sus funciones.
+Deberá la Comisión, además, hacer públicos y mantener el acceso público a los informes, actas y estudios que realicen los pares evaluadores en el ejercicio de sus funciones.
 
-Asimismo, deberá mantener un registro público con las carreras profesionales y técnicas y programas de pregrado y postgrado y los programas de especialidad en el área de salud, acreditados en conformidad con esta ley.
+Asimismo, deberá mantener un registro público con las carreras y programas de pregrado y postgrado y los programas de especialidad en el área de salud, acreditados en conformidad con esta ley.
 
 #### Artículo 48
 
@@ -622,9 +662,9 @@ Todas las instituciones de educación superior estarán obligadas a incorporar e
 
 a) Si se encuentran participando en el proceso de acreditación.
 
-b) Areas en las que postuló a la acreditación.
+b) Resultado del proceso de acreditación. Las instituciones de educación superior deberán hacer referencia sólo al nivel de acreditación obtenido. Asimismo, siempre deberán señalar si cuentan o no con acreditación en la dimensión de investigación, creación y/o innovación referida en el inciso cuarto del artículo 17.
 
-c) Resultado del proceso de acreditación.
+En el caso de la información referida a las carreras o programas de estudio, deberá señalarse el estado de la acreditación institucional, según se establece en el inciso anterior. Además, deberá informarse si se les ha otorgado la acreditación a la carrera o programa respectivo, y si se encontraren en proceso de acreditación, cuando corresponda.
 
 La Comisión Nacional de Acreditación emitirá el instructivo que regulará la forma en que debe entregarse esta información.
 

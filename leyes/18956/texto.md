@@ -54,7 +54,7 @@ g) Desarrollar estadísticas, indicadores y estudios del sistema educativo, en e
 
 h) Establecer y administrar los registros públicos que determine la ley.
 
-i) Ejecutar las sanciones que disponga la Superintendencia de Educación o, en su caso, aplicar las sanciones en los ámbitos que determinen las leyes.
+i) Ejecutar las sanciones que disponga la Superintendencia de Educación o la Superintendencia de Educación Superior, en su caso, aplicar las sanciones en los ámbitos que determinen las leyes.
 
 #### Artículo 2º ter
 
@@ -74,11 +74,13 @@ b) La Subsecretaría de Educación, con las Divisiones de Educación General, de
 
 c) La Subsecretaría de Educación Parvularia.
 
-d) Las Secretarías Regionales Ministeriales y sus respectivos Departamentos funcionales y territoriales que correspondan.
+d) La Subsecretaría de Educación Superior.
+
+e) Las Secretarías Regionales Ministeriales y sus respectivos Departamentos funcionales y territoriales que correspondan.
 
 Las demás unidades de nivel jerárquico inferior serán establecidas en conformidad a lo dispuesto en el artículo 17.
 
-El Ministro de Educación será subrogado por el Subsecretario de Educación y, en caso de ausencia o impedimento de éste, por el Subsecretario de Educación Parvularia. Lo anterior se aplicará sin perjuicio de la facultad del Presidente de la República para nombrar como subrogante a otro Secretario de Estado.
+El Ministro de Educación será subrogado, en primer orden, por el Subsecretario de Educación, y a falta de éste, sucesivamente por el Subsecretario de Educación Parvularia y por el Subsecretario de Educación Superior, sin perjuicio de la facultad del Presidente de la República para nombrar como subrogante a otro Secretario de Estado.
 
 ## Título II
 
@@ -94,7 +96,9 @@ La Subsecretaría de Educación es el órgano de colaboración directa del Minis
 
 #### Artículo 6°
 
-El Subsecretario es el colaborador inmediato del Ministro y el Jefe Administrativo del Ministerio. Tendrá a su cargo la coordinación y el control interno de las unidades integrantes de la Subsecretaría; actuará como ministro de fe del Ministerio, y le corresponderán las atribuciones y obligaciones establecidas en la ley.
+El Subsecretario es el colaborador inmediato del Ministro y el Jefe Administrativo del Ministerio. Tendrá a su cargo la coordinación de las Subsecretarías que componen el Ministerio, y el control interno de las unidades integrantes de la Subsecretaría; actuará como ministro de fe del Ministerio, y le corresponderán las atribuciones y obligaciones establecidas en la ley.
+
+Asimismo, contará con una unidad de formación técnico profesional, encargada de la coordinación de las iniciativas relacionadas con la modalidad formativa técnico profesional a nivel sectorial, entre la Subsecretaría de Educación y la Subsecretaría de Educación Superior del Ministerio de Educación, asegurando que las políticas de formación técnico profesional de cada subsecretaría se articulen en pos del desarrollo de trayectorias educativo-laborales. Además, le corresponderá apoyar técnicamente al Consejo Asesor de Formación Técnico Profesional, para la elaboración de la Estrategia Nacional de Formación Técnico Profesional.
 
 #### Artículo 7°
 
@@ -117,6 +121,8 @@ La labor de apoyo que realice esta unidad deberá tener especial focalización e
 #### Artículo 8°
 
 La División de Educación Superior es la unidad encargada de velar por el cumplimiento de las normas legales y reglamentarias que regulan la educación superior en el ámbito de competencia del Ministerio; de asesorar en la proposición de la política de este nivel de enseñanza y de establecer las relaciones institucionales con las entidades de educación superior reconocidas oficialmente. En especial deberá proponer la asignación presupuestaria estatal a las instituciones de educación superior, de acuerdo a la normativa vigente. Estará a cargo del Jefe de la División, a quien le corresponderá dirigir, coordinar y hacer cumplir las funciones de esta unidad.
+
+> **Nota.** El numeral 6 del artículo sexto transitorio de la ley 21091, publicada el 29.05.2018, faculta al Presidente de la República para que, dentro del plazo de un año contado desde la fecha de publicación de esta ley, establezca mediante decretos con fuerza de ley las normas necesarias para fijar la fecha en que entrará en funcionamiento la Subsecretaría de Educación Superior. En esta misma fecha será derogado el presente artículo 8, según lo dispone el numeral 4 del artículo 118 de la citada ley.
 
 #### Artículo 9
 
@@ -151,6 +157,8 @@ Habrá una Secretaría Regional Ministerial en cada una de las regiones en que s
 Corresponderá a las Secretarías Regionales Ministeriales planificar, normar y supervisar el apoyo pedagógico que se preste, cuando corresponda, en los establecimientos ubicados en su territorio jurisdiccional, cautelando el cumplimiento de los objetivos y políticas educacionales y su correcta adecuación a las necesidades e intereses regionales.
 
 Les corresponderán, además, todas las funciones y atribuciones que las normas legales les otorgan, especialmente en materias técnico-pedagógicas y las vinculadas a la inspección del pago de las subvenciones
+
+Asimismo, deberán otorgar apostillas en conformidad a lo establecido en la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros, en los certificados de estudios básicos, medios o superiores y documentos que acreditan puntajes obtenidos en evaluaciones de selección universitaria, de su competencia.
 
 #### Artículo 16
 
