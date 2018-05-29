@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 702 EXENTA, DE 2018
+
+Por resolución exenta N° 702, de 2 de mayo de 2018, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Antofagasta, se aprobaron los planes y programas del curso A-3 con Simulador de Inmersión total de la Escuela de Conductores Profesionales Automóvil Club de Chile Limitada, Rut 77.323.230-K, representada legalmente por don José Manuel Martínez Vásquez, para impartir curso conducente a la obtención de licencia de conductor profesional Clase A-3, en sus sedes ubicadas en calle Baquedano N° 730, comuna de Antofagasta y avenida Ecuador N° 1869, comuna de Calama, modificándose las resoluciones exentas N° 145 y N° 149, ambas de 8 de septiembre de 2000, de esta Secretaría Regional Ministerial.-
+
+Álvaro Francisco Ormeño Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Antofagasta.
