@@ -24,9 +24,7 @@ A) Rol de avalúo Nº 3503-21, correspondiente al Lote Nº 28; cuya dirección, 
 
 El bien raíz objeto en parte de la expropiación, se encuentra inscrito a fojas 7701 número 3784 del Registro de Propiedad del año 2014, a cargo del Conservador de Bienes Raíces de Quilpué; constando como propietario del bien raíz don Miguel Ángel Alvarado Donoso.
 
-B) Rol de avalúo Nº 3503-23, correspondiente al Lote Nº 24; cuya dirección, según el Servicio de Impuestos Internos, es calle Las Palmas Nº 2441, Población Los Pinos, Quilpué; con una porción afecta a expropiación de 259,45 metros cuadrados.
-
-El bien raíz objeto en parte a expropiación, se encuentra inscrito a fojas 1.291 número 1.164 del Registro de Propiedad del año 2001, a cargo del Conservador de Bienes Raíces de Quilpué; constando como propietaria del bien raíz doña Luisa Soto Muñoz.
+B) Rol de avalúo Nº 3503-23, correspondiente al Lote Nº 24; cuya dirección, según el Servicio de Impuestos Internos, es calle Las Palmas Nº 2441, Población Los Pinos, Quilpué; con una porción afecta a expropiación de 259,45 metros cuadrados. El bien raíz objeto en parte a expropiación, se encuentra inscrito a fojas 4679 número 2199 del Registro de Propiedad del año 2004, a cargo del Conservador de Bienes Raíces de Quilpué; constando como propietarios don Eduardo Andrés Fuentes Zúñiga y doña Marcela Rosalía Calderón Dupre.
 
 C) Rol de avalúo Nº 3503-9, correspondiente al Lote Nº 23; cuya dirección, según el Servicio de Impuestos Internos, es calle Las Palmas Nº 2507, Población Los Pinos, Quilpué; con una porción afecta a expropiación de 255,89 metros cuadrados.
 
@@ -54,7 +52,7 @@ El bien raíz objeto en parte a expropiación, se encuentra inscrito a fojas 497
 
 A) Propiedad rol de avalúo Nº 3503-21, inmueble inscrito a fojas 7.701 número 3.784 del Registro de Propiedad del año 2014, a cargo del Conservador de Bienes Raíces de Quilpué: La suma de $22.432.850 correspondiente a $22.422.850 por el terreno y $10.000 a otros.
 
-B) Propiedad rol de avalúo Nº 3503-23, inmueble inscrito a fojas 1.291 número 1.164 del Registro de Propiedad del año 2001, a cargo del Conservador de Bienes Raíces de Quilpué: La suma de $24.657.750, correspondiente a $24.647.750 por el terreno y $10.000 a otros.
+B) Propiedad Rol de avalúo Nº 3503-23, inmueble inscrito a fojas 4679 número 2199 del Registro de Propiedad del año 2004, a cargo del Conservador de Bienes Raíces de Quilpué: La suma de $24.657.750, correspondiente a $24.647.750 por el terreno y $10.000 a otros.
 
 C) Propiedad rol de avalúo Nº 3503-9, inmueble inscrito a fojas 1.329 número 686 del Registro de Propiedad del año 2002, a cargo del Conservador de Bienes Raíces de Quilpué: La suma de $28.065.125, correspondiente a $24.309.550 por el terreno, $475.000 a plantaciones y $3.280.575 a otros.
 
