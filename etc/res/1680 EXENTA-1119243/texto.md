@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.680 EXENTA, DE 2018, DICTADA POR EL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES
+
+Por resolución exenta N° 1.680, de 17 de mayo de 2018, se renovó el plazo de vigencia de las Condiciones Específicas de Operación y de Utilización de Vías para la Prestación de Servicios de Transporte Público Urbano Remunerado de Pasajeros mediante Buses de la Unidad de Negocio N° 7 del Sistema de Transporte Público de Santiago, aprobadas por resoluciones exentas N° 1.219 y N° 1.248, de 2015, modificadas por resoluciones exentas N° 2.907, de 2015; N°1.355, de 2016; N° 2.280, de 2016; N° 3.256, de 2016; N° 366, de 2017, y N° 899, de 2018, todas del Ministerio de Transportes y Telecomunicaciones; y se reemplazó la Ficha Técnica que regula la prestación de los servicios. Texto íntegro de la Resolución se encuentra en la página web www.dtpm.cl.
+
+José Luis Domínguez Covarrubias, Ministro de Transportes y Telecomunicaciones (S).
