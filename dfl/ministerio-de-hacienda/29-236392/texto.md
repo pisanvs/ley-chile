@@ -82,7 +82,9 @@ b) En los Ministerios, los Secretarios Regionales Ministeriales y los Jefes de D
 
 c) En los servicios públicos, los jefes superiores de los servicios, los subdirectores, los directores regionales o jefaturas de niveles jerárquicos equivalentes o superiores a dichas jefaturas, existentes en la estructura del servicio, cualquiera sea su denominación.
 
-Se exceptúan los rectores de las Instituciones de Educación Superior de carácter estatal, los que se regirán por la Ley Orgánica Constitucional de Enseñanza y los estatutos orgánicos propios de cada Institución.
+Se exceptúan los rectores de las Instituciones de Educación Superior de carácter estatal, los que se regirán por la Ley Orgánica Constitucional de Enseñanza, la Ley sobre Universidades
+
+del Estado y los estatutos orgánicos propios de cada Institución.
 
 #### Artículo 8º
 
@@ -212,7 +214,7 @@ El ingreso a los cargos de carrera en calidad de titular se hará por concurso p
 
 Todas las personas que cumplan con los requisitos correspondientes tendrán el derecho a postular en igualdad de condiciones.
 
-Prohíbese todo acto de discriminación que se traduzca en exclusiones o preferencias basadas en motivos de raza, color, sexo, edad, estado civil, sindicación, religión, opinión política, ascendencia nacional u origen social que tengan por objeto anular o alterar la igualdad de oportunidades o trato en el empleo.
+Prohíbese todo acto de discriminación arbitraria que se traduzca en exclusiones o restricciones, tales como aquellas basadas en motivos de raza o etnia, situación socioeconómica, idioma, ideología u opinión política, discapacidad, religión o creencia, sindicación o participación en organizaciones gremiales o la falta de ellas, sexo, orientación sexual, identidad de género, estado civil, edad, filiación, apariencia personal o enfermedad, que tengan por objeto anular o alterar la igualdad de oportunidades o trato en el empleo.
 
 Las distinciones, exclusiones o preferencias basadas en las calificaciones exigidas para un empleo determinado no serán consideradas discriminación.
 

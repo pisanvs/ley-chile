@@ -292,7 +292,7 @@ Si se determina la necesidad de contar con programas de nivelación académica u
 
 Los y las estudiantes reubicados, respecto al plantel que los acoja, mantendrán plenamente vigentes los beneficios o ayudas estudiantiles otorgados por el Estado, tales como becas y créditos, como si no hubiesen cambiado de institución de educación superior.
 
-Para efectos de lo señalado en el presente artículo, el administrador de cierre podrá suscribir convenios con alguna de las instituciones de educación superior que cuenten con acreditación institucional vigente de al menos tres años, conforme a lo previsto en la ley Nº20.129.
+Para efectos de lo señalado en el presente artículo, el administrador de cierre podrá suscribir convenios con alguna de las instituciones de educación superior que cuenten con acreditación institucional vigente de al menos tres años, conforme a lo previsto en la ley Nº 20.129, preferentemente una universidad del Estado.
 
 Dichos convenios tendrán por objeto posibilitar la continuidad y término de los estudios de los y las estudiantes reubicados, incluyendo sus procesos de titulación. Se podrá exceptuar a dichos estudiantes en la ponderación de los indicadores utilizados para evaluar a las instituciones, facultades y carreras receptoras, para efectos de la acreditación de las mismas, así como de aquellas evaluaciones que incidan en la obtención de financiamiento y cumplimiento de metas.
 
