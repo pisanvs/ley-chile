@@ -14,21 +14,11 @@ Decreto:
 
 Autorízase el funcionamiento del Centro de Formación Técnica que se indica, organizado por la persona jurídica que se señala, cuyo fin es la docencia a nivel técnico para egresados de enseñanza media:
 
-Nombre de la Institución : Centro de Formación Técnica
+Nombre de la Institución: Centro de Formación Técnica Centro Tecnológico Superior Infomed.
 
-Centro Tecnológico Superior
+Organizador: Sociedad Centro Tecnológico Superior Infomed SpA o Infomed SpA o CFT Infomed.
 
-INFOMED.
-
-Domicilio : Santiago.
-
-Organizador : Sociedad Centro de Formación
-
-Técnica Centro Tecnológico
-
-Superior INFOMED Limitada o
-
-INFOMED Ltda.
+Representante Legal: Isabel Corina Pereira Venegas.
 
 Anótese, publíquese en el Diario Oficial con cargo al interesado, e inscribirse en el Registro de Centro de Formación Técnica del Ministerio de Educación Pública.- Rigoberto Cruz Johnson, contraalmirante, Ministro de Educación Pública.
 
