@@ -60,7 +60,7 @@ el 4,75%.
 
 i) Plazo de
 
-Colocación : Hasta el 31 de marzo del año 2018.
+Colocación : Hasta el 30 de junio del año 2018.
 
 j) Garantía : República de Chile.
 
@@ -76,7 +76,7 @@ pasivos de la compañía.
 
 4. El Servicio de la deuda y otros gastos que se originen por la emisión de bonos que se autoriza por el presente decreto, se hará con recursos propios de la citada Empresa consignados en su presupuesto anual respectivo.
 
-5. El plazo de validez de la presente autorización vence el 31 de marzo de 2018.
+5. El plazo de validez de la presente autorización vence el 30 de junio del año 2018.
 
 6. Autorízase al Tesorero General de la República para que otorgue la garantía estatal a la presente emisión de bonos, conforme a lo establecido en el artículo 16° de la ley N° 20.981, de 2016.
 
