@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.742 EXENTA, DE 2018, DICTADA POR EL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES
+
+Por resolución exenta Nº 1.742, de 28 de mayo de 2018, se renovó el plazo de vigencia de las Condiciones Específicas de Operación y de Utilización de Vías para la Prestación de Servicios de Transporte Público Urbano Remunerado de Pasajeros mediante Buses de la Unidad de Negocio Nº 6 del Sistema de Transporte Público de Santiago, aprobadas por resoluciones exentas Nº 1.218 y Nº 1.249, de 2015, modificadas por resoluciones exentas Nº 2.908, de 2015; Nº 3.230, de 2016 y Nº 3.257, de 2016, todas del Ministerio de Transportes y Telecomunicaciones; y se reemplazó la Ficha Técnica que regula la prestación de los servicios. Texto íntegro de la resolución se encuentra en la página web www.dtpm.cl.
+
+Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
