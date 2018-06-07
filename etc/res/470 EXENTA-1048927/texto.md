@@ -18,7 +18,13 @@ Resuelvo:
 
 Primero: Delégase en los Jefes de División respectivos la facultad de transcribir los decretos y resoluciones ministeriales que preparen en el desempeño de sus funciones.
 
-Segundo: Delégase en el Jefe de la División Política Regulatoria y Estudios, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los oficios dirigidos a empresas, entidades o personas naturales solicitando información técnica, contable y financiera respecto de los procesos de fijación tarifaria.
+Segundo: Delégase en el Jefe de la División Política Regulatoria y Estudios, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones" los documentos relativos a las materias que a continuación se señalan:
+
+1. Oficios dirigidos a empresas, entidades o personas naturales solicitando o enviando información técnica, contable y financiera respecto de los procesos de fijación tarifaria.
+
+2. Oficios circulares dirigidos a empresas de telecomunicaciones en materias de competencia de dicha División.
+
+3. Los Fax dirigidos al Ministerio de Relaciones Exteriores por asignación de frecuencias temporales a las autoridades de otros países que visitan Chile.
 
 Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
@@ -52,6 +58,40 @@ Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscri
 
 15. Oficios que formulen reparos, observaciones, soliciten antecedentes adicionales, a peticionarios, concesionarios y permisionarios de servicios de telecomunicaciones, salvo en el contexto de procedimientos concursales establecidos en el artículo 13 c) de la Ley General de Telecomunicaciones.
 
+16. Oficios que den respuesta a la solicitud de información pública que se presenten en el marco de la ley Nº 20.285, sobre transparencia y acceso a la información de la Administración del Estado, que digan relación a materias de su competencia.
+
+17. Resoluciones de otorgamiento o modificación de permisos limitados de Televisión Satelital.
+
+18. Resoluciones de otorgamiento o modificación de permisos experimentales provisorios de Televisión Digital.
+
+19. Resoluciones de autorización previa de transferencia, arriendo o cesión de concesiones de servicios de radiodifusión.
+
+20. Resoluciones que aprueban o modifican bases de concursos para el servicio de radiodifusión sonora.
+
+21. Resoluciones que excluyen solicitudes presentadas en el marco de concursos de radiodifusión sonora.
+
+22. Resoluciones que rechazan solicitudes de modificación de concesiones de radiodifusión sonora, conforme lo dispuesto en el inciso tercero del artículo 16 de la Ley N° 18.168, General de Telecomunicaciones.
+
+23. Resoluciones que otorgan o renuevan permisos experimentales de servicios limitados de telecomunicaciones.
+
+24. Informes relativos a los reclamos de oposición deducidos en contra de la solicitud de otorgamiento o modificación de concesiones de radiodifusión sonora.
+
+### 25. Oficios que informan la evaluación obtenida en concursos de Televisión
+
+26. Oficios que informan la evaluación obtenida por una solicitud de migración de Televisión Digital.
+
+27. Oficios que informan factibilidad de bases técnicas de concursos de Televisión al Consejo Nacional de Televisión.
+
+28. Resoluciones de modificación de concesiones de servicios públicos e intermedios de telecomunicaciones.
+
+29. Resoluciones de autorización previa de transferencia, arriendo o cesión de concesiones de servicios públicos o intermedios de telecomunicaciones.
+
+30. Resoluciones de autorizaciones experimentales en materias de servicios públicos o su modificación.
+
+31. Oficios que confieren traslado respecto de la oposición a las solicitudes de concesiones de servicios públicos o intermedios de telecomunicaciones.
+
+### 32. Resoluciones de autorizaciones temporales en servicios públicos
+
 Cuarto: Delégase en los Jefes de Departamentos de la División Concesiones, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los oficios de devolución de solicitudes y antecedentes relativos a concesiones o permisos o modificación de éstos, referentes a servicios públicos, intermedios, de radiodifusión sonora y limitados de telecomunicaciones, según corresponda.
 
 Quinto: Delégase en el Jefe del Departamento Servicios Públicos, la facultad de transcribir las resoluciones dictadas por el Jefe de la División Concesiones y de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
@@ -73,6 +113,10 @@ Séptimo: Delégase en el Jefe de la División Fiscalización, la facultad de su
 3. Oficios que autorizan la suspensión de un servicio de telecomunicaciones de libre recepción o de radiodifusión sonora o servicio limitado de televisión, a requerimiento expreso de su titular.
 
 ### 4. Oficios de homologación de equipos de telecomunicaciones
+
+### 5. Oficios que requieran de adecuación a nivel Industrial
+
+6. Oficios circulares de instrucciones sobre materias de competencia de la División Fiscalización.
 
 Octavo: Delégase en el Jefe del Departamento Gestión de Reclamos, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos que se señalan a continuación:
 
@@ -102,49 +146,57 @@ Décimo primero: Delégase en el Jefe de la División Jurídica, la facultad de 
 
 5. Oficios dirigidos al Servicio Nacional del Consumidor, a fin de solicitarle que informe todos aquellos procesos infraccionales que impongan sanciones, ya firmes y/o ejecutoriados, en que pueda verse involucrado la protección de intereses de los consumidores, de conformidad con lo dispuesto en oficio circular Nº 4, de 23 de febrero de 2012, del mencionado Servicio.
 
+6. Oficios de respuesta a requerimientos de personas naturales o jurídicas por los cuales se solicitan pronunciamientos respecto de la interpretación y/o aplicación de las normas legales y reglamentarias que regulan los servicios de telecomunicaciones.
+
+7. Oficios de formulación de cargos por contravención a la Ley N° 18.168, General de Telecomunicaciones, y su normativa complementaria, y sus modificaciones.
+
 Décimo segundo: Delégase en el Jefe de la División Gerencia del Fondo de Desarrollo de las Telecomunicaciones, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
-### 1. ELIMINADO
+1. Oficios atingentes a proyectos en estudio, en desarrollo y asignados en el marco del Fondo de Desarrollo de las Telecomunicaciones.
 
 2. Oficios que den cuenta de los estados de avance de los concursos asignados en el marco del Fondo de Desarrollo de las Telecomunicaciones.
 
 3. Oficios que aprueben la pertinencia técnica de las rendiciones por transferencias efectuadas en el marco del Fondo de Desarrollo de las Telecomunicaciones.
 
+### 4. Eliminado
+
+5. Oficios conductores de los certificados de pago de subsidio asociados a concursos públicos o licitaciones realizadas al amparo del Fondo de Desarrollo de las Telecomunicaciones.
+
 Décimo tercero: Delégase en el Jefe de la División Administración y Finanzas, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
 1. Resoluciones que autorizan financiamiento y asistencia a cursos y/o talleres de capacitación de los funcionarios y del personal a honorarios de la Subtel, en atención al Plan Anual de Capacitación y/o a requerimiento del Jefe de la División respectiva. Lo anterior se resolverá en función del presupuesto asignado a cada División y con conocimiento del Jefe del Departamento de Gestión de Personas y del Jefe del Departamento de Finanzas.
 
-### 2. ELIMINADO
+2. Oficios que solicitan la inscripción, ante la Dirección de Presupuestos del Ministerio de Hacienda, de los funcionarios responsables de efectuar la tramitación de la solicitud bono post laboral.
 
-3. Permisos sin goce de remuneraciones según lo preceptuado por el artículo 110 del DFL (H) Nº 29 de 2004 que fija texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo, que hayan sido autorizados por la jefatura correspondiente y otros permisos otorgados en virtud de leyes especiales.
+3. "Certificado de expertise para los efectos establecidos en el artículo 11 de la ley N° 18.834, sobre Estatuto Administrativo.
 
 4. Resoluciones que autorizan la realización de trabajos extraordinarios con derecho a descanso o pago, siempre que hayan sido debidamente autorizados por la jefatura pertinente y que exista disponibilidad presupuestaria.
 
-5. Resoluciones que autorizan la devolución de horas compensatorias por trabajos extraordinarios y las que disponen su compensación en dinero.
+5. "Resoluciones que otorgan el beneficio de co-financiamiento y sus modificaciones.
 
 6. Resoluciones que aprueban, modifican o dejan sin efecto las Políticas de Seguridad de la Información y procedimientos relacionados.
 
-### 7. ELIMINADO
+7. Resoluciones que establecen dependencia de los funcionarios de la Subsecretaría y las que la modifiquen.
 
-### 8. ELIMINADO
+8. Resoluciones que autoricen o modifiquen la acumulación de feriados a funcionarios de la Subsecretaría, debidamente autorizados por la jefatura pertinente en el sistema de personal.
 
 9. Resoluciones que determinen descuentos por atrasos e inasistencias de los funcionarios de la Subsecretaría. Lo anterior se resolverá sobre la base de la información proporcionada por el Departamento de Gestión de Personas y el Departamento de Finanzas.
 
 10. Oficios de tramitación y/o término de fianzas de fidelidad funcionaria, respecto de los funcionarios y los contratados a honorarios de la Subsecretaría que hayan sido requeridos por la División respectiva.
 
-11. Resoluciones exentas de llamado a licitación pública y aprobación de bases, para el suministro de bienes muebles y/o la contratación de servicios, cuyo monto sea igual o superior a 50 unidades tributarias mensuales y con un tope de 100 unidades tributarias mensuales; resoluciones exentas que designen los integrantes de la Comisión Evaluadora de ofertas en las licitaciones descritas; resoluciones exentas que adjudiquen o declaren desiertas las licitaciones públicas señaladas; órdenes de compras y resoluciones exentas que autoricen el gasto en bienes muebles y/o prestación de servicios, por montos iguales o superiores a 50 y con tope de 100 unidades tributarias mensuales, sin fraccionar las partidas que se adquieran en uso de esta delegación y las resoluciones exentas que modifiquen a las anteriores.
+11. Resoluciones exentas de llamado a licitación pública y aprobación de Bases, para el suministro de bienes muebles y/o la contratación de servicios, cuyo monto sea igual o superior a 50 unidades tributarias mensuales y con un tope de 100 unidades tributarias mensuales; aprueben las respuestas a las consultas realizadas por los oferentes en las licitaciones descritas; Resoluciones exentas que adjudiquen o declaren desierta las licitaciones públicas señaladas; Órdenes de compras y Resoluciones exentas que autoricen el gasto en bienes muebles y/o prestación de servicios, por montos iguales o superiores a 50 y con tope de 100 unidades tributarias mensuales, sin fraccionar las partidas que se adquieran en uso de esta delegación y las Resoluciones exentas que modifiquen a las anteriores.
 
 12. Resoluciones fundadas que autoricen la procedencia de licitación privada o del trato o contratación directa, junto con sus respectivos Términos de Referencia, para el suministro de bienes muebles y/o la prestación de servicios, cuyo monto sea igual o superior a 50 unidades tributarias mensuales y con un tope de 100 unidades tributarias mensuales y las resoluciones que modifiquen a las anteriores.
 
-### 13. ELIMINADO
+13. Resoluciones que disponen el pago de la bonificación por retiro contemplada en el Título II de la ley Nº 19.882 y de la bonificación adicional prevista en la ley N° 20.948 y sus modificaciones.
 
-14. Resoluciones fundadas que autorizan el pago por prestaciones de servicios, asociados a gastos de representación, por un valor igual o superior a 50 unidades tributarias mensuales y con un tope de 100 unidades tributarias mensuales, sin fraccionar las partidas que se adquieran en uso de esta delegación que hayan sido debidamente autorizadas.
+### 14. Oficios que informan ejecución en avisaje y publicaciones
 
 15. Resoluciones fundadas que autoricen la baja de bienes muebles, con y sin enajenación.
 
 ### 16. Resoluciones exentas que dispongan las destinaciones, según corresponda
 
-17. Cartas de notificación de término anticipado de convenios a honorarios de personas naturales, que no sean asimilados a grado, y bajo cualquier otra modalidad de pago y monto.
+17. Resoluciones que autorizan el pago de sala cuna a funcionarias de la Subsecretaría y/o contratadas a honorarios que gocen de ese derecho y las que las modifiquen o dejen sin efecto.
 
 18. Oficios conductores que remitan al Archivo Nacional los documentos de que trata el artículo 14 del decreto con fuerza de ley Nº 5.200, de 1929, del Ministerio de Educación Pública.
 
@@ -155,6 +207,8 @@ Décimo tercero: Delégase en el Jefe de la División Administración y Finanzas
 21. Resolución exenta que disponga la inhabilitación de la numeración de resoluciones y decretos no utilizados de acuerdo al correlativo único de dichos actos administrativos, según sea procedente.
 
 22. Oficios de retiro y reingreso a la Contraloría General de la República de aquellos actos administrativos y demás documentos relativos a materias de personal y contratación administrativa de suministro de bienes y prestación de servicios, en los que tenga interés la Subsecretaría.
+
+23. Aprobar las solicitudes del personal del Gabinete de la Subsecretaría de Telecomunicaciones, sean planta, contratas u honorarios, derivadas a través del Sistema de Personal y Remuneraciones, consistentes en Solicitud de Feriados; Solicitud de Permisos Administrativos Con Goce; Solicitud de Justificación Horaria; Solicitud de Uso de Horas a Compensar; Solicitud de Comisión de Servicio Nacional; Solicitud de Trabajo Extraordinario; Solicitud Informe Mensual Honorarios; Solicitud de Permiso Interferiado; Solicitud de Permiso Fallecimiento Hijos o Cónyuges; Solicitud de Permiso Fallecimiento Hijos en Gestación o Padres; Solicitud de Permiso Por Nacimiento Hijo(a).
 
 Décimo tercero bis: Delégase en el Jefe de la División Administración y Finanzas la facultad de comparecer y absolver posiciones en nombre y representación de la Subsecretaría de Telecomunicaciones en los procedimientos que se sigan ante la jurisdicción laboral.
 
@@ -190,6 +244,14 @@ Décimo cuarto: Delégase en el Jefe del Departamento Gestión de Personas, la f
 
 15. Notificación al personal a contrata, a través de cualquier medio de comunicación escrito, sobre la prórroga de la contratación, conforme al artículo 10 DFL (H) Nº 29 de 2004.
 
+16. Otorgar certificados de antigüedad a solicitud de los funcionarios y personas contratadas a honorarios.
+
+17. Resoluciones que otorguen permisos sin goce de remuneraciones según lo preceptuado por el artículo 110 del DFL (H) N°29, de 2004, que fija texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo, que hayan sido autorizados por la jefatura correspondiente y otros permisos otorgados en virtud de leyes especiales, y las que las modifiquen o dejen sin efecto.
+
+18. Resoluciones que autorizan la devolución de horas compensatorias por trabajos extraordinarios y las que disponen su compensación en dinero y las que las modifiquen o dejen sin efecto.
+
+19. Cartas de notificación de término anticipado de convenios a honorarios de personas naturales, que no sean asimilados a grados, y bajo cualquier otra modalidad de pago y monto.
+
 Décimo quinto: Deléganse en el Jefe del Departamento Gestión de Personas, las siguientes facultades:
 
 1. Denunciar y suscribir, a nombre del Servicio, el Formulario de Declaración Individual de Accidentes del Trabajo, cuando corresponda.
@@ -200,11 +262,11 @@ Décimo quinto: Deléganse en el Jefe del Departamento Gestión de Personas, las
 
 Décimo sexto: Delégase en el Jefe del Departamento de Finanzas, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
-1. Resoluciones exentas de llamado a licitación pública y aprobación de bases, para el suministro de bienes muebles y/o la contratación de servicios, cuyo monto sea inferior a 50 unidades tributarias mensuales; resoluciones exentas que designen los integrantes de la Comisión Evaluadora de ofertas en las licitaciones descritas; resoluciones exentas que adjudiquen o declaren desiertas las licitaciones públicas señaladas; órdenes de compras y resoluciones exentas que autoricen el gasto en bienes muebles y/o prestación de servicios, por montos inferiores a 50 unidades tributarias mensuales, sin fraccionar las partidas que se adquieran en uso de esta delegación y resoluciones exentas que modifiquen a las mismas.
+1. Resoluciones exentas de llamado a licitación pública y aprobación de Bases, para el suministro de bienes muebles y/o la contratación de servicios, cuyo monto sea inferior a 50 unidades tributarias mensuales; Resoluciones exentas que aprueben las respuestas a las consultas realizadas por los oferentes en las licitaciones descritas; Resoluciones exentas que adjudiquen o declaren desierta las licitaciones públicas señaladas; Órdenes de compras y resoluciones exentas que autoricen el gasto en bienes muebles y/o prestación de servicios, por montos inferiores a 50 unidades tributarias mensuales, sin fraccionar las partidas que se adquieran en uso de esta delegación y resoluciones exentas que modifiquen a las mismas.".
 
-2. Resoluciones fundadas que autoricen la procedencia de licitación privada o del trato o contratación directa, junto con sus respectivos Términos de Referencia, para el suministro de bienes muebles y/o la prestación de servicios, cuyo monto sea inferior a 50 unidades tributarias mensuales y resoluciones que modifiquen a las mismas.
+2. Resoluciones fundadas que autoricen la procedencia de licitación privada o del trato o contratación directa, junto con sus respectivos Términos de Referencia, para el suministro de bienes muebles y/o la prestación de servicios, cuyo monto sea inferior a 50 unidades tributarias mensuales y Resoluciones que modifiquen a las mismas.
 
-### 3. ELIMINADO
+### 3. Eliminado
 
 4. Resoluciones que autorizan el pago de facturas producto de la compra de pasajes aéreos por viajes no realizados.
 
@@ -240,7 +302,7 @@ Décimo séptimo: Deléganse en el Jefe del Departamento de Finanzas, las siguie
 
 6. Requerir del Servicio de Impuestos Internos (SII) el timbraje de documentos mercantiles, la suscripción de planillas y formularios y, en particular, el Nº 29, sobre declaraciones y pago simultáneo mensual y las declaraciones y ajustes impositivos.
 
-7. Otorgar certificados de renta y antigüedad a solicitud de los funcionarios y personas contratadas a honorarios.
+7. Otorgar certificados de renta a solicitud de los funcionarios y personas contratadas a honorarios.
 
 8. Informar sobre cotizaciones y remuneraciones en los formularios de licencia médica.
 
