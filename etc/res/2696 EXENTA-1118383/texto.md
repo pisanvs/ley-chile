@@ -38,7 +38,7 @@ La cantidad de cupos de subsidio que se dispondrá para este llamado, es la que 
 
 3.1. Oferta de viviendas del tramo intermedio:
 
-En caso de viviendas cuyo rango de precio va entre las 1.200 y las 1.400 UF o 1.300 a 1.500 UF (según zona de emplazamiento de la vivienda), su programa arquitectónico debe considerar al menos dos dormitorios. Esta tipología de viviendas solo podrá ser adquirida por familias que cuenten con un subsidio habitacional del DS Nº 1 (V. y U.), de 2011, obtenido con anterioridad.
+En caso de viviendas cuyo rango de precio va entre las 1.200 y las 1.400 UF o 1.300 a 1.500 UF (según zona de emplazamiento de la vivienda), su programa arquitectónico debe considerar al menos dos dormitorios. Esta tipología de viviendas solo podrá ser adquirida por familias que cuenten con un subsidio habitacional del DS Nº 1 (V. y U.), de 2011, obtenido con anterioridad a la incorporación de la familia al Proyecto de Integración Social o por familias que cuenten con 2 o más integrantes en su núcleo familiar, de acuerdo a la información contenida en el Registro Social de Hogares, a excepción de postulantes con inscripción en el Registro Nacional de la Discapacidad a que se refiere el artículo 55 de la ley N° 20.422, que Establece Normas sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad, y/o personas de 60 años o más, quienes podrán incorporarse al proyecto de manera unipersonal.
 
 3.2. Coherencia con el Entorno Urbano:
 
@@ -60,7 +60,7 @@ d) Todos los tramos de las redes, al interior de la vivienda, deberán ser embut
 
 e) Todas las viviendas de los proyectos deberán considerar pavimento de terminación detallando el producto específico, el que deberá corresponder a un revestimiento.
 
-f) Los proyectos deben contemplar un abastecimiento eficiente de agua en las áreas de equipamiento y áreas verdes, considerando a lo menos paisajismo con especies nativas y riego eficiente por goteo; también deben considerar un abastecimiento interno eficiente de agua en todas las viviendas, incluyendo a lo menos sanitarios de doble descarga y griferías eficientes con aireadores.
+f) Los proyectos deben contemplar un abastecimiento eficiente de agua en las zonas de equipamiento y áreas verdes, considerando a lo menos paisajismo con especies acondicionadas a la geografía y zona climática en que se emplaza el proyecto; y riego eficiente (por goteo u otras alternativas). También deben considerar un abastecimiento interno eficiente de agua en todas las viviendas, incluyendo a lo menos sanitarios de doble descarga y griferías eficientes con aireadores.
 
 Además de lo anterior, deben incluir la infraestructura necesaria para la gestión eficiente de residuos, en áreas comunes o de equipamiento, según corresponda, considerando al menos contenedores separados por tipo de residuo.
 
