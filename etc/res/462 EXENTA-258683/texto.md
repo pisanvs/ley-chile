@@ -108,7 +108,9 @@ sentidos
 
 Av. Los
 
-Pajaritos Anunciación 5 de Abril Ambos
+Pajaritos Av. Américo
+
+Vespucio 5 de Abril Ambos
 
 sentidos
 
