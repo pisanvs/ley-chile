@@ -34,7 +34,7 @@ Del ámbito de aplicación
 
 #### Artículo 1º
 
-El presente plan regula la estructura de la numeración y los procedimientos de marcación de las comunicaciones que se utiliza en la red pública telefónica del país.
+El presente plan regula la estructura de la numeración, su procedimiento de asignación y reasignación y los procedimientos de marcación de las comunicaciones que se utiliza en la red pública telefónica del país.
 
 #### Artículo 2º
 
@@ -42,7 +42,7 @@ Corresponde al Ministerio de Transportes y Telecomunicaciones, a través de la S
 
 #### Artículo 3º
 
-Se rigen por las disposiciones del presente plan las compañías telefónicas locales, las compañías telefónicas móviles, los portadores, las concesionarias de servicios públicos del mismo tipo cuyas redes se interconecten con la red pública telefónica y los suministradores de servicios complementarios.
+Se rigen por las disposiciones del presente plan las concesionarias de servicio público telefónico, los portadores, otras concesionarias de servicios públicos que requieran de numeración para su funcionamiento y los suministradores de servicios complementarios.
 
 #### Artículo 4º
 
@@ -54,7 +54,7 @@ Mediante decreto supremo el Ministerio de Transportes y Telecomunicaciones podr�
 
 #### Artículo 6º
 
-Los servicios públicos del mismo tipo cuyas redes se interconecten con la red pública telefónica, podrán utilizar numeración de la red local o móvil, según resuelva la Subsecretaría, de acuerdo a las características técnicas de los servicios.
+Derogado.
 
 ## Título II
 
@@ -70,19 +70,13 @@ Número que identifica a un suscriptor o usuario del servicio telefónico de otr
 
 - Código de país Dígito o combinación de dígitos asignado por el UIT-T que identifica a un país determinado.
 
-- Código de área
+- Numeración de suscriptor
 
-Dígito o combinación de dígitos que identifica una zona primaria.
+Numeración asociada a un suscriptor que le permite cursar y recibir llamadas o tráfico a través de la red pública de telecomunicaciones.
 
-- Código de Área Virtual Móvil
+- Numeración especial
 
-Dígito o combinación de dígitos que identifica a la red móvil y que corresponde a los números 9 y 44. El número 44 será destinado a los casos en que se estime necesario identificar redes de servicios públicos del mismo tipo que el servicio público telefónico móvil.
-
-- ELIMINADO - Número de suscriptor local Número telefónico asociado a un suscriptor local.
-
-- Número de móvil
-
-Número telefónico asociado a un teléfono del servicio público telefónico móvil o del mismo tipo.
+Numeración con una longitud inferior a la de suscriptor, que podrá incluir los caracteres #, * u otros caracteres no numéricos. Mediante esta numeración podrán prestarse servicios de emergencia y servicios complementarios al interior de la red de una concesionaria o que se interconecten con las redes de las distintas concesionarias.
 
 - Número de servicio de emergencia
 
@@ -90,7 +84,7 @@ Numeración especial asociada a un servicio que se presta a la comunidad, sin fi
 
 #### Artículo 8º
 
-El significado de los términos empleados en este plan y no definidos en él o en la ley será el que le asignan el Reglamento del Servicio Público Telefónico, el Reglamento para el Sistema de Multiportador Discado y Contratado del Servicio Telefónico de Larga Distancia Nacional e Internacional y, en su defecto, los convenios internacionales sobre telecomunicaciones vigentes en el país.
+El significado de los términos empleados en este plan y no definidos en él o en la ley será el que le asignan el Reglamento de Servicios de Telecomunicaciones, el Reglamento para el Sistema de Multiportador Discado y Contratado del Servicio Telefónico de Larga Distancia y, en su defecto, los convenios internacionales sobre telecomunicaciones vigentes en el país.
 
 ## Título III
 
@@ -98,37 +92,27 @@ De la estructura de la numeración
 
 #### Artículo 9º
 
-La estructura de la numeración para la red telefónica local, en adelante red local, para la red telefónica móvil, en adelante red móvil, y para los servicios complementarios será la siguiente: a) Red local:
+La estructura de la numeración de suscriptor y de servicios complementarios será la siguiente:
 
-Código de área + número de suscriptor local
+a) Numeración de suscriptor:
 
-b) Red móvil:
+Será de 9 dígitos, donde el primer dígito no podrá ser "0" ni "1".
 
-Código de área
+b) Numeración de servicios complementarios:
 
-virtual móvil + número de móvil
+Los servicios complementarios podrán emplear numeración especial, acorde a lo señalado en los artículos 7º y 14º bis del presente plan.
 
-c) Servicios complementarios:
-
-N0X + número de servicio complementario
-
-donde N0X, según determine la Subsecretaría,
-
-es la categoría de servicios complementarios,
-
-pudiendo N ser cualquier dígito del 2 al 9,
-
-y X cualquier dígito entre 0 y 9, ambos
-
-inclusive.
+En el caso de servicios complementarios que requieran de bloques de numeración para su funcionamiento, la estructura de la numeración comenzará con N0X y podrá contar con una longitud máxima de 10 dígitos, donde N0X, según determine la Subsecretaría, es la categoría de servicios complementarios, pudiendo N ser cualquier dígito del 2 al 9 y X cualquier dígito entre 0 y 9, ambos inclusive.
 
 #### Artículo 10º
 
-La Subsecretaría deberá atender las solicitudes de numeración telefónica cuya estructura se encuentre de acuerdo con la normativa vigente, dentro de un plazo de 30 días.
+Las solicitudes de asignación de numeración deberán ajustarse a la estructura establecida en el presente Plan, ser justificadas y presentarse ante la Subsecretaría de Telecomunicaciones, quien las resolverá dentro del plazo de 30 días. Con todo, la Subsecretaría, velando por la eficiente asignación de numeración, podrá fundadamente rechazar la solicitud u otorgar una cantidad menor de numeración.
+
+Las asignatarias de numeración deberán adoptar las medidas adecuadas para su eficiente utilización. La Subsecretaría podrá condicionar la entrega y conservación de numeración a la adopción, por parte de las interesadas, de determinadas medidas para asegurar una eficiente administración de la numeración asignada.
 
 #### Artículo 11º
 
-La Subsecretaría, dependiendo de las condiciones tecnológicas y la demanda de numeración telefónica, mediante resolución fundada, establecerá la cantidad de dígitos de la numeración de suscriptor o usuario y podrá modificar los códigos de área.
+Derogado.
 
 ## Título IV
 
@@ -140,9 +124,9 @@ Las compañías telefónicas locales, y móviles en su caso, para proveer los se
 
 Dichas compañías, para el acceso a los servicios de reparaciones, atención de reclamos y atención comercial desde las redes de otras compañías telefónicas, deberán destinar numeración de suscriptor o de servicio complementario, según corresponda.
 
-Además, en los servicios de reparaciones, atención de reclamos y atención comercial, deberán informar, a requerimiento de los usuarios, el número de suscriptor o de servicio complementario que las demás compañías telefónicas locales, de la misma zona primaria, y compañías móviles en su caso, destinen para esos mismos servicios a sus usuarios.
+Además, en los servicios de reparaciones, atención de reclamos y atención comercial, deberán informar, a requerimiento de los usuarios, el número de suscriptor o de servicio complementario que las demás compañías telefónicas locales y compañías móviles en su caso, destinen para esos mismos servicios a sus usuarios.
 
-Sin perjuicio de lo dispuesto en el presente artículo y en los artículos 13º, 14º bis y 22º, sólo se utilizará numeración especial de tres dígitos en la red pública telefónica para los servicios de emergencia.
+Para acceder a servicios de información y orientación de la ciudadanía por parte del Estado se empleará el número 101.
 
 #### Artículo 13º
 
@@ -156,15 +140,7 @@ Sin perjuicio de las obligaciones establecidas en la ley, reglamentos y normativ
 
 #### Artículo 14º bis
 
-Sólo se podrán utilizar secuencias de numeración distintas de las reguladas en este Plan Técnico Fundamental, pudiendo incluirse en ellas los caracteres #, * u otros de tipo no numérico, para las comunicaciones internas que requieran las concesionarias; para la provisión de los servicios que se presten por ellas o por terceros a los suscriptores o usuarios desde el nodo de la red local, móvil, de servicios públicos del mismo tipo o de larga distancia al que éstos se encuentren conectados o se comuniquen; y para la programación de los parámetros de estos servicios.
-
-La prestación de dichos servicios deberá realizarse conforme con los principios de no discriminación, subsidiariedad, portabilidad, eficiencia en la utilización de los recursos de numeración, óptima calidad y transparencia para los usuarios de los mismos.
-
-La Subsecretaría establecerá las normas técnicas y los procedimientos para la asignación y uso de las secuencias señaladas en el inciso primero de este artículo relativas a la prestación de servicios a suscriptores y usuarios, de conformidad con los principios ya individualizados.
-
-En todo caso, el usuario de estos servicios tendrá todos los derechos que le correspondan en su calidad de suscriptor o usuario del servicio público telefónico, en especial los contemplados en los artículos 29º y siguientes del Reglamento del Servicio Público Telefónico, decreto supremo Nº 425 de 27 de diciembre de 1996.
-
-La prestación de estos servicios no podrá afectar en ningún momento y de modo alguno la correcta prestación del servicio público telefónico.
+La Subsecretaría, mediante resolución, establecerá la normativa técnica que regule el uso de numeración especial para los servicios complementarios y el correspondiente procedimiento de asignación y reasignación, conforme con los principios de no discriminación, subsidiariedad, portabilidad, eficiencia en la utilización de los recursos de numeración, óptima calidad y transparencia para los usuarios de los mismos.
 
 ## Título V
 
@@ -180,77 +156,45 @@ a) Multiportador discado : 1 + YZ + 0 + número internacional
 
 b) Multiportador contratado: 00 + número internacional donde YZ = Indicativo de portador
 
-2. Llamada de larga distancia nacional desde la red local, se debe marcar:
+2. Llamadas entre suscriptores dentro de la red pública telefónica nacional, se debe marcar:
 
-a) Multiportador discado : 1 + YZ + código de área + número de suscriptor local
+Número de suscriptor
 
-b) Multiportador contratado : 0 + código de área + número de suscriptor local donde YZ = Indicativo de portador
+3. Red local o red móvil a servicio de emergencia, sólo se debe marcar el código del servicio de emergencia 1XX, o bien 1XXX para los servicios de emergencia de cobertura restringida.
 
-3. Red local a la misma red local, se debe marcar: Número de suscriptor local
+4. Red local o red móvil a suministradores de servicios complementarios conectados a una compañía telefónica, se debe marcar:
 
-4. Red local a red móvil, se debe marcar:
-
-0 + código de área virtual móvil 5. Red móvil a red local, se debe marcar:
-
-0 + código de área + número de suscriptor local
-
-6. Red móvil a red móvil con igual código de área virtual móvil, se debe marcar:
-
-Número de suscriptor móvil
-
-Red móvil a red móvil con distinto código de área virtual móvil, se debe marcar:
-
-0 + Código de Área Virtual Móvil + número de móvil
-
-7. Red local o red móvil a servicio de emergencia, sólo se debe marcar el código del servicio de emergencia 1XX, o bien 1XXX para los servicios de emergencia de cobertura restringida.
-
-8. Red local o red móvil a suministradores de servicios complementarios conectados a una compañía telefónica, se debe marcar:
-
-N0X + número de servicio complementario; y
+número de servicio complementario; y
 
 Red local o red móvil a suministrador de servicios complementarios conectados a un portador, se debe marcar:
 
-1 + YZ + N0X + número de servicio complementario.
+1 + YZ + número de servicio complementario.
 
-donde N0X es la categoría de servicios complementarios, e YZ corresponde al indicativo de portador.
+donde YZ corresponde al indicativo de portador.
 
-9. Red local, o red móvil en su caso, a servicio de informaciones del servicio telefónico, se marcará el número 103. Para reparaciones, atención de reclamos y atención comercial de la propia compañía telefónica, se marcará 104, 105 ó 107, según corresponda. También podrá accederse a dichos servicios mediante la marcación de números de suscriptor o de servicio complementario que las compañías telefónicas destinen para esos fines, de conformidad a lo prescrito en el artículo 12º del presente Plan.
+5. Red local, o red móvil en su caso, a servicio de informaciones del servicio telefónico, se marcará el número 103. Para reparaciones, atención de reclamos y atención comercial de la propia compañía telefónica, se marcará 104, 105 ó 107, según corresponda. También podrá accederse a dichos servicios mediante la marcación de números de suscriptor o de servicio complementario que las compañías telefónicas destinen para esos fines, de conformidad a lo prescrito en el artículo 12º del presente Plan.
 
 #### Artículo 16º
 
-Sólo se podrán utilizar los caracteres # y * u otros caracteres no numéricos para los efectos señalados en el artículo 14º bis de este Plan Técnico Fundamental.
+Derogado.
 
-## Título VI
-
-De la información en la guía telefónica
+## Título VI — Derogado.
 
 #### Artículo 17º
 
-Las compañías telefónicas locales deberán publicar en su guía telefónica, sin perjuicio de lo establecido en otros reglamentos, a lo menos, lo siguiente: - Una nómina con los códigos de países con los que exista servicio de discado directo internacional.
+Derogado.
 
-- Los códigos de área en uso dentro del país.
+## Título VII — Derogado.
 
-- Los números destinados al servicio de reparaciones de todas las compañías telefónicas locales del país.
+#### Artículo 18°
 
-- El procedimiento de marcación para las comunicaciones en la red pública tefefónica señalado en el presente plan.
+Derogado.
 
-## Título VII
+## Título VIII — Derogado.
 
-De la portabilidad de los servicios complementarios
+#### Artículo 19°
 
-#### Artículo 18º
-
-La Subsecretaría establecerá mediante resolución las regulaciones aplicables a los servicios complementarios y las regulaciones adicionales que permitan a los suministradores de servicios complementarios cambiarse de la red de la concesionaria a la que esté conectado, manteniendo su número. Lo anterior se denominará portabilidad de la numeración de servicios complementarios.
-
-## Título VIII
-
-De la portabilidad de la numeración de suscriptor
-
-#### Artículo 19º
-
-La Subsecretaría establecerá mediante resolución las regulaciones adicionales que permitan a los suscriptores locales, al interior de una zona primaria, cambiarse de ubicación geográfica dentro de la red de una misma compañía telefónica local o cambiarse de compañía telefónica local, manteniendo su número de suscriptor local. Lo anterior se denominará portabilidad de la numeración de suscriptor local.
-
-Además, la Subsecretaría establecerá mediante resolución las regulaciones adicionales que permitan a los suscriptores y usuarios del servicio público de telefonía móvil y servicios del mismo tipo cambiarse de concesionaria que le provee el servicio, manteniendo su número telefónico. Lo anterior se denominará portabilidad de la numeración de móvil.
+Derogado.
 
 ## Título IX
 
@@ -266,7 +210,7 @@ Otras disposiciones
 
 #### Artículo 21º
 
-Las compañías telefónicas deben informar a la Subsecretaría cada año durante el mes de enero, la numeración en uso a diciembre del año anterior por nodo y código de área según corresponda, sin perjuicio de lo establecido en el artículo 37º de la Ley.
+Derogado.
 
 #### Artículo 22º
 
