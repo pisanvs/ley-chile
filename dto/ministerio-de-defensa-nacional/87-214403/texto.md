@@ -148,7 +148,7 @@ b. Fiscalía Militar Letrada de Concepción
 
 - Territorio Jurisdiccional: Provincias de
 
-Concepción, Arauco, Diguillín, Punilla e Itata.
+Concepción y Arauco.
 
 c. Suprimida.
 
