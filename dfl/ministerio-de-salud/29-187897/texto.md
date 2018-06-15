@@ -178,6 +178,8 @@ Los médicos-cirujanos, farmacéuticos o químicos-farmacéuticos, bioquímicos 
 
 Para efectos del cómputo del plazo de veinte años a que se refiere el inciso anterior, se considerará todo lapso servido, sea en calidad de reemplazante, suplente, a contrata o interino desempeñado conforme a la ley Nº 15.076 o a las modalidades de contratación establecidas en los artículos 14 y 15 del presente decreto con fuerza de ley.
 
+Para efectos de este artículo, se considerarán también los tiempos que el becario haya prestado durante la realización de la beca en guardias nocturnas y en días festivos, en términos análogos a los dispuestos en el inciso final del artículo 44 del decreto con fuerza de ley Nº 1, de 2001, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado de la ley Nº 15.076.
+
 La liberación de guardia a que se refiere este artículo será incompatible con el beneficio consultado en el artículo 44 del decreto con fuerza de ley Nº 1, de 2001, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado de la ley Nº15.076.
 
 #### Artículo 13 ter
