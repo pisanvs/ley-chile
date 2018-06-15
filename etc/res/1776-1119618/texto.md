@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 1.776 de fecha 06/06/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinado al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación del Lote Nº 86-0, consistente en Inmueble ubicado en calle Pedro de Valdivia número 01175 que corresponde al lote 118 del plano de la Población Villa Alegre de la comuna de Temuco, comuna de Temuco, Rol de avalúo 2554-031. La superficie a expropiar aproximada es de 204 metros cuadrados, de aparente dominio de don René Rodolfo Risco Rivas. Comisión de Peritos integrada por señores Alberto Arenas Pizarro, Arquitecto, Constanza Mihoevic González, Ingeniero Constructor y Marcela Melo Rodríguez, Arquitecto, fijó monto de Indemnización Provisional en $56.854.380 según informe Nº 86-0 de fecha 02/06/2018, pagadero Contado.
+
+Director (S) Serviu Región de la Araucanía.
