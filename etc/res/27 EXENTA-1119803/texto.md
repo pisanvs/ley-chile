@@ -1,0 +1,11 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DE LA DECLARACIÓN DE IMPACTO AMBIENTAL DEL PROYECTO "PLANTA GENERADORA TAPIHUE II"
+
+De conformidad a lo dispuesto en el artículo 95 del decreto supremo Nº 40, de 2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se informa a las personas -naturales y jurídicas- que presentaron observaciones durante el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental (DIA) del proyecto "Planta Generadora Tapihue II", cuyo titular es Tecnored S.A., que éste ha sido calificado favorablemente por la Comisión de Evaluación de la Región de Valparaíso, mediante la resolución exenta Nº 27/2018 (RCA), de fecha 15 de mayo de 2018, de la Dirección Regional de Valparaíso del Servicio de Evaluación Ambiental (SEA).
+
+De igual modo, se informa a todas las personas -naturales y jurídicas- que hayan realizado observaciones ciudadanas a la DIA "Planta Generadora Tapihue II" y que estimen que éstas no han sido debidamente consideradas en los fundamentos de la citada RCA, que disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar un recurso de reclamación ante el Director Ejecutivo, de conformidad al artículo 30 bis de la ley Nº 19.300, sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la RCA citada puede ser conocido en la oficina del Servicio de Evaluación Ambiental de la Región de Valparaíso, ubicada en Prat 827, oficina 301, Valparaíso, con horario de atención de lunes a viernes de 9:00 a 13:00 horas; en las oficinas del Gobierno Regional, ubicadas en calle Melgarejo 669, pisos 7 y 10, Valparaíso, con horario de atención de lunes a viernes de 9:00 a 14:00 horas, y en las oficinas de la Ilustre Municipalidad de Llay Llay, ubicadas en calle Balmaceda 174, Llay Llay, con horario de atención de lunes a jueves de 8:00 a 14:00 horas y de 15:00 a 17:00 horas, y viernes de 8:00 a 14:00 horas y de 15:00 a 16:00 horas. Además, se podrá acceder a la RCA y su expediente de evaluación, a través del sitio web www.sea.gob.cl o directamente a través del siguiente enlace:
+
+http://seia.sea.gob.cl/archivos/2018/05/23/RCA_027-2018.pdf
+
+Esther Parodi Muñoz, Directora Regional (S), Servicio de Evaluación Ambiental Región de Valparaíso.
