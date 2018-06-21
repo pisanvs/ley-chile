@@ -938,9 +938,13 @@ ZH3
 
 ZH3A
 
+ZH3B
+
 ZSH3
 
 ZSH3A
+
+ZSH3B
 
 ZH4 Seccional Costa Dorada
 
@@ -1414,6 +1418,14 @@ G. Densidad máxima bruta 200 viv/há o 450 hab/há.
 
 H. Estacionamientos mínimos 1.5/viv.
 
+Zona ZH3B
+
+Esta zona se encuentra delimitada por el siguiente polígono:
+
+Polígono Modificación ZH3B, sector Aguas Marinas
+
+Las condiciones de usos de suelo y normas urbanísticas son:
+
 Zona ZSH3 Zona de programas de desarrollo
 
 Usos permitidos: Vivienda, comercio de escala comunal, equipamiento de salud, esparcimiento y recreación, turismo, hoteles de escala nacional e internacional, áreas verdes.
@@ -1443,6 +1455,16 @@ Zona borde mar La zona ZRC, de restricción costera, tendrá un ancho mínimo de
 Zona ZSH3A Es igual a lo descrito para ZSH3 con el siguiente cambio:
 
 Altura máx. de edificación 36 metros/14 pisos
+
+Zona ZSH3B
+
+Esta zona se encuentra delimitada por el siguiente polígono:
+
+Polígono Modificación SH3B, sector Deportivo Mirasol
+
+Las condiciones de usos de suelo y normas urbanísticas son:
+
+Estacionamientos mínimos:
 
 Zona ZH4 Zona habitacional 4
 
