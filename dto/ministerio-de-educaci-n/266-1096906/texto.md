@@ -30,11 +30,11 @@ Que, de conformidad a la facultad legal expresamente conferida al efecto, es nec
 
 Decreto:
 
-I. Desígnese, a don Rafael Agustín Carrasco Hoecker, Ingeniero Civil Industrial, RUT Nº 10.810.764-2, a contar de la fecha del presente decreto, de conformidad a lo dispuesto en el artículo 33 de la ley Nº 20.529, en calidad de consejero de la Agencia de la Calidad de la Educación.
+I. Desígnese, a don Rafael Agustín Carrasco Hoecker, Ingeniero Civil Industrial, RUT Nº 10.810.764-2, a contar de la fecha del presente decreto, de conformidad a lo dispuesto en el artículo 33 de la ley Nº 20.529, en calidad de consejero de la Agencia de la Calidad de la Educación. Lo anterior, en reemplazo de don Miguel Nussbaum Voehl.
 
 II. Por razones impostergables de buen servicio, la persona antes individualizada, deberá asumir sus funciones en la fecha señalada, sin esperar la total tramitación del presente acto administrativo.
 
-III. Déjese establecido, que de acuerdo al artículo 34 de la ley Nº 20.529, los miembros del consejo será nombrados por un periodo de seis años, pudiendo ser designados por un nuevo periodo, los cuales se renovarán por parcialidades de tres y dos consejeros cada tres años, respectivamente, lo cual será determinado mediante el reglamento interno a que hace referencia el artículo 39 de la norma citada.
+III. Déjese establecido, que el presente nombramiento no se podrá extender más allá del 19 de octubre de 2021, en orden a resguardar el régimen de renovación parcial del Consejo de la Agencia de Calidad de la Educación, dispuesto en el artículo 34 de la ley Nº 20.529.
 
 Anótese, tómese razón, comuníquese y publíquese.- Adriana Delpiano Puelma, Ministra de Educación.
 
