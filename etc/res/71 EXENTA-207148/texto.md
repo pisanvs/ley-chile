@@ -40,11 +40,9 @@ Las medidas establecidas en el presente Programa se aplican en los centros de cu
 
 1. Cada centro de cultivo deberá mantener un Manual de Calidad y Manejo del Alimento, el cual deberá incluir, al menos, el manejo del alimento, en particular el medicado, su forma de almacenaje, registros, responsables, procedimientos de monitoreo, verificación y acciones correctivas, y capacitación del personal. Deberá estar claramente definida la persona que será responsable de la correcta aplicación de los contenidos de este Manual.
 
-2. El uso de alimento medicado en un centro de cultivo deberá estar respaldado por prescripción médico veterinaria extendida de conformidad a la ley.
+2. El uso de alimento medicado en un centro de cultivo deberá estar respaldado por prescripción médico veterinaria extendida de conformidad a la ley. Esta prescripción deberá ser emitida a través del sistema que el Servicio determine.
 
-3. La empresa deberá llevar un registro que contenga la información del tratamiento que se especifica en el Anexo 1 del Programa Sanitario General del Manejo de Enfermedades.
-
-En el caso de tratamientos con antibióticos en fase de agua dulce y de todo tratamiento en fase de cultivo en mar, deberá, además, remitirse esa misma información al Servicio, por escrito o por medios electrónicos, dentro de los primeros 5 días hábiles del mes siguiente al de término del tratamiento.
+3. En el caso de tratamientos con antibióticos en fase de agua dulce y de todo tratamiento en fase de cultivo en mar, deberá, además, emitirse esa misma información a través del sistema que el Servicio determine, el día 12 del mes siguiente al período informado o el día hábil siguiente, si el día 12 del mes es inhábil.
 
 4. Los alimentos medicados sólo podrán contener elementos terapéuticos cuya comercialización como producto farmacéutico de uso veterinario esté autorizada en el país.
 

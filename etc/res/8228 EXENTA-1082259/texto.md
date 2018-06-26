@@ -82,7 +82,7 @@ b. Podrán elaborar y mantener stock de alimento medicado, siempre que cumplan c
 
 a. Solo se podrán usar productos farmacéuticos antimicrobianos debidamente registrados o autorizados conforme la normativa vigente.
 
-b. El uso de productos farmacéuticos antimicrobianos deberá ser prescrito por un médico veterinario.
+b. El uso de productos farmacéuticos antimicrobianos deberá ser prescrito por un médico veterinario. A través del sistema que el Servicio determine.
 
 c. Se prohíbe la aplicación de antimicrobianos en forma preventiva y todo uso que resulte perjudicial para la salud humana y animal;
 
