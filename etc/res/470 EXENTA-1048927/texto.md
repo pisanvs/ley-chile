@@ -92,6 +92,14 @@ Tercero: Delégase en el Jefe de la División Concesiones, la facultad de suscri
 
 ### 32. Resoluciones de autorizaciones temporales en servicios públicos
 
+33. Resoluciones que designa Comisión de Apertura de Sobres en Concurso de Radiodifusión Sonora.
+
+34. Resoluciones que designa Comisión de Sorteo de los Concursos de Radiodifusión Sonora.
+
+35. Resoluciones que Rechazan las solicitudes de autorizaciones previas de transferencia, arriendo, cesión u otro derecho de concesión de servicio de radiodifusión.
+
+36. Las resoluciones que modifiquen o dejen sin efecto cualquiera de las resoluciones de los numerales anteriores del presente artículo.
+
 Cuarto: Delégase en los Jefes de Departamentos de la División Concesiones, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los oficios de devolución de solicitudes y antecedentes relativos a concesiones o permisos o modificación de éstos, referentes a servicios públicos, intermedios, de radiodifusión sonora y limitados de telecomunicaciones, según corresponda.
 
 Quinto: Delégase en el Jefe del Departamento Servicios Públicos, la facultad de transcribir las resoluciones dictadas por el Jefe de la División Concesiones y de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
@@ -142,7 +150,7 @@ Décimo primero: Delégase en el Jefe de la División Jurídica, la facultad de 
 
 3. Oficios de respuesta a los requerimientos de los Tribunales Ordinarios y Especiales del Poder Judicial, Fiscalía del Ministerio Público, Carabineros de Chile y Policía de Investigaciones relativos a información asociada a numeración telefónica, a autorizaciones de telecomunicaciones otorgadas a personas naturales y/o jurídicas y sus características, y a procesos infraccionales regulados en el Título VII, de la Ley Nº 18.168, General de Telecomunicaciones, en su calidad de Ministro de fe.
 
-4. Resoluciones de mero trámite y los oficios que procedan en el marco de procedimientos de reclamos que se formulen por, entre o en contra de las concesionarias y los ISP, y particulares que no tengan la calidad de usuarios, en virtud de lo dispuesto en el Título III del Reglamento sobre Tramitación y Resolución de Reclamos de Servicios de Telecomunicaciones.
+4. Oficios, resoluciones de mero trámite y resoluciones que resuelvan en definitiva, en el marco de procedimientos de reclamos que se formulen por, entre o en contra de las concesionarias y los ISP, y particulares que no tengan la calidad de usuarios, en virtud de lo dispuesto en el Título III del Reglamento sobre Tramitación y resolución de Reclamos de Servicios de Telecomunicaciones.
 
 5. Oficios dirigidos al Servicio Nacional del Consumidor, a fin de solicitarle que informe todos aquellos procesos infraccionales que impongan sanciones, ya firmes y/o ejecutoriados, en que pueda verse involucrado la protección de intereses de los consumidores, de conformidad con lo dispuesto en oficio circular Nº 4, de 23 de febrero de 2012, del mencionado Servicio.
 
@@ -216,7 +224,7 @@ Décimo cuarto: Delégase en el Jefe del Departamento Gestión de Personas, la f
 
 1. Resoluciones de reconocimiento a las funcionarias del derecho de disponer de al menos una hora al día, para dar alimento a sus hijos menores de dos años, de acuerdo a lo contemplado en el artículo 206 del Código del Trabajo.
 
-### 2. Resoluciones que conceden el derecho de asignación de antigüedad
+2. Resoluciones que conceden, modifican y regularizan el derecho de asignación de antigüedad para los funcionarios de la Subsecretaría.
 
 ### 3. Resoluciones que reconocen el derecho de asignación familiar o maternal
 
@@ -287,6 +295,10 @@ Décimo sexto: Delégase en el Jefe del Departamento de Finanzas, la facultad de
 12. Oficios dirigidos a la Tesorería General de la República, remitiendo los certificados de pago de subsidios del Fondo de Desarrollo de las Telecomunicaciones.
 
 13. Resoluciones exentas que autorizan pago por concepto de servicios prestados por receptores judiciales requeridos para el cumplimiento de las funciones del Servicio.
+
+14. Oficios dirigidos a las Cajas de Compensación solicitando bonificación a retiro.
+
+15. Oficios que den respuesta a requerimientos de información en materia de SIGFE.
 
 Décimo séptimo: Deléganse en el Jefe del Departamento de Finanzas, las siguientes facultades:
 
