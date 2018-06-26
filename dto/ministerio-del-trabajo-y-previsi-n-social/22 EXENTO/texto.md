@@ -86,7 +86,7 @@ Un abogado designado por la Fiscalía de Indap, con funciones de Asesor Legal de
 
 #### Artículo 6º
 
-El Consejo Administrativo sesionará en forma ordinaria cada dos meses y en forma extraordinaria toda vez que proceda en conformidad a lo dispuesto en el artículo 23º del Reglamento General.
+El Consejo Administrativo sesionará en forma ordinaria con una periodicidad no mayor a 3 meses y en forma extraordinaria toda vez que proceda en conformidad a lo dispuesto en el artículo 23º del Reglamento General.
 
 El Secretario del Consejo Administrativo de Bienestar enviará la citación por escrito o vía correo electrónico a cada uno de los integrantes, con cinco días hábiles de anticipación, respecto de las sesiones ordinarias y hasta con dos días hábiles para las extraordinarias. En caso de imposibilidad de concurrencia directa y personal de los consejeros -titular y/o suplente- al lugar de realización de la sesión, éstas podrán celebrarse vía teleconferencia, con envío posterior del acta para correspondiente firma de los consejeros participantes.
 
@@ -112,7 +112,9 @@ f) Las comisiones que perciba en virtud de los convenios que celebre con tercero
 
 g) Las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias en su favor, y
 
-h) Los demás recursos que obtenga por explotación de bienes y/o servicios a su cargo y otros a cualquier título.
+h) Eventualmente y previa aprobación del Consejo Administrativo, parte de los fondos del Servicio de Bienestar podrán ser invertidos en instrumentos que otorguen rentabilidad, en conformidad con lo dispuesto en el artículo 3º del decreto ley Nº 1.056, de 1975, y sus modificaciones posteriores, previa autorización del Ministerio de Hacienda y sólo respecto de los recursos provenientes de venta de activos o excedentes estaciones de caja, según lo dispuesto en el artículo 2º del decreto ley Nº 1.263, de 1975. Lo anterior con la finalidad de obtener mayores recursos que permitan aumentar los fondos en beneficios de los afiliados.
+
+El monto de los fondos y la forma en que serán depositados será determinado por el Consejo anualmente.
 
 #### Artículo 8º
 
@@ -212,7 +214,7 @@ Los afiliados pagarán los préstamos en cuotas iguales y sucesivas, incluidos l
 
 Será requisito indispensable la constitución de la garantía de un codeudor solidario, afiliado al Servicio de Bienestar.
 
-Para solicitar nuevos préstamos será necesario haber servido el total de la deuda anterior por el mismo concepto.
+Para solicitar nuevos préstamos será necesario haber servido el total de la deuda anterior por el mismo concepto. La deuda puede ser servida en un nuevo préstamo.
 
 #### Artículo 16º
 
