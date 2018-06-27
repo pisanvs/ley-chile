@@ -60,16 +60,22 @@ Resolución:
 
 - **v)** Emisión de ordinarios que comuniquen observaciones, o emplacen a efectuar diligencias de cargo del interesado, respecto de las solicitudes de autorización señaladas en este numeral;
 
-- **w)** La dictación de los actos administrativos necesarios para aclarar los puntos dudosos u obscuros y rectificar los errores de copia, de referencia, de cálculos numéricos y, en general, los puramente materiales o de hecho que aparecieren de manifiesto en las resoluciones o actos cuya firma se delega en los literales precedentes de este acto administrativo.
+- **w)** La dictación de los actos administrativos necesarios para aclarar los puntos dudosos u obscuros y rectificar los errores de copia, de referencia, de cálculos numéricos y, en general, los puramente materiales o de hecho que aparecieren de manifiesto en las resoluciones o actos cuya firma se delega en este numeral.
 
-- **x)** Resolver los recursos administrativos que se presenten en contra de las resoluciones dictadas en uso de la delegación indicada en los literales precedentes.
+- **x)** Resolver los recursos administrativos que se presenten en contra de las resoluciones dictadas en uso de la delegación indicada en este numeral.
 
-3. Déjase establecido que en caso de ausencia o impedimento del delegado éste será subrogado como a continuación se indica: don Víctor Peña Ahumada, RUN Nº 8.309.579-2, será subrogado en primer orden por don Luis Yávar Riffo, RUN Nº 8.863.733- K y en segundo orden, por don Claudio Lobos Ceballos, RUN Nº 13.640.189-0. Los subrogantes obrarán con todas y cada una de las facultades otorgadas al delegado.
+- **y)** Resolver las solicitudes de desistimiento, el abandono del procedimiento y la imposibilidad material de continuarlo por causas sobrevinientes, que se presenten o configuren en los procedimientos administrativos individualizados en este numeral.
+
+- **z)** Resoluciones de registros de expertos en prevención de riesgos y credenciales que acrediten dicha inscripción. z.1) Ordinarios que comuniquen inscripción de calderas y autoclaves y de certificados de operador calificado de autoclave, caldera de calefacción, caldera de fluido térmico y caldera de vapor. z.2) Autorización de operación y cierre temporal o definitivo de instalaciones radiactivas de segunda categoría y autorización de operación de instalaciones radiactivas de tercera categoría. z.3) Autorización de personas que desarrollen actividades relacionadas directamente con el uso, manejo o manipulación de sustancias radiactivas u operen equipos generadores de radiaciones ionizantes y renovación de la misma.
+
+3. Déjese establecido que en caso de ausencia o impedimento del delegado, éste será subrogado en primer orden por doña Bárbara Andrea Rosas Vargas, RUN Nº 13.720.609-9 y, en segundo orden, por doña Cecilia Iris Guíñez Candia, RUN Nº 12.734.019-6. Los subrogantes obrarán con todas y cada una de las facultades otorgadas al delegado.
 
 4. Déjase establecido que los documentos que suscriban el delegado y, en su caso, los subrogantes, en virtud de las atribuciones que se les confieren por la presente resolución, deberán llevar antes de sus firmas la glosa "Por orden del Secretario Regional Ministerial de Salud de la Región del Libertador General Bernardo O'Higgins", y expresar, además, que se dictan en virtud de la presente resolución delegatoria, individualizandola en su parte considerativa.
 
 > **Nota.** El numeral 1º de la Resolución 2349 exenta, Salud, publicada el 03.05.2014, modifica la presente norma en el siguiente sentido, 1.1 Revoca la delegación de firma para las materias contempladas en la letra s) de la presente norma y en 1.2 revoca las facultades concedidas a don Luis Yávar Riffo, RUN Nº 8.863.733-K, delegándose las mismas facultades a don Nelson Guillermo Adrián Flores, RUN Nº 6.330.389-5.
 
 > **Nota.** NOTA 2 El numeral 1º de la Resolución 6160 exenta, Salud, publicada el 01.07.2017, modifica la presente norma en el siguiente sentido, 1.1 Revoca la delegación de firma y en 1.2 Deléguese en don Víctor Peña Ahumada, RUN Nº 8.309.579-2, la facultad de suscribir bajo la fórmula: "Por orden del Secretario Regional Ministerial de Salud de la Región del Libertador General Bernardo O'Higgins", las resoluciones y actos administrativos consignados en el numeral 2 de la presente norma.
+
+> **Nota.** NOTA 3 El número 1.1 del numeral 1º de la Resolución 5672 Exenta, Salud, publicada el 27.06.2018, ordena revocar la delegación de firma contenida en la presente norma, asimismo, el número 1.2 dispone delegar en don Nelson Guillermo Adrián Flores, RUN Nº 6.330.389-5, la facultad de suscribir bajo la fórmula: "Por orden del Secretario Regional Ministerial de Salud de la Región del Libertador General Bernardo O'Higgins" las resoluciones y actos administrativos consignados en el numeral 2 de la presente norma.
 
 Anótese, publíquese y notifíquese. Nelson Adrián Flores, Secretario Regional Ministerial de Salud, Región del Libertador Bernardo O'Higgins.
