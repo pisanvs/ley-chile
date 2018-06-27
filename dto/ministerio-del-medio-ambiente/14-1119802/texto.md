@@ -33,3 +33,27 @@ Apruébese la Estrategia Nacional de Biodiversidad 2017 - 2030, adjunta al prese
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Marcelo Mena Carrasco, Ministro del Medio Ambiente.
 
 Lo que transcribo a Ud. para los fines que estime pertinentes.- Rodrigo Benítez Ureta, Subsecretario del Medio Ambiente.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance el decreto N° 14, de 2018, del Ministerio del Medio Ambiente
+
+N° 14.199.- Santiago, 7 de junio de 2018.
+
+Esta Contraloría General ha tomado razón del decreto del rubro, que aprueba la Estrategia Nacional de Biodiversidad 2017-2030, por cuanto se ajusta a derecho.
+
+No obstante, cabe hacer presente que el texto que se aprueba en la especie no forma parte integrante del acto administrativo en estudio -como se indica en su artículo único-, toda vez que no se incluye en el cuerpo de éste, acompañándose como un documento independiente del mismo, y que una copia de aquel -el que consta de 107 páginas- se mantendrá en este Organismo Contralor (aplica criterio contenido en los oficios Nos 44.463, de 2017, y 9.967, de 2018).
+
+Con el alcance que antecede se ha tomado razón del decreto de la suma.
+
+Saluda atentamente a Ud., Jorge Bermúdez Soto, Contralor General de la República.
+
+A la señora
+
+Ministra del Medio Ambiente
+
+Presente.
+
+El Ministerio del Medio Ambiente informa que el texto de la Estrategia Nacional de Biodiversidad 2017-2030 está disponible en el siguiente enlace: http://portal.mma.gob.cl/wp- content/uploads/2018/03/Estrategia_Nac_Biodiv_2017_30.pdf
