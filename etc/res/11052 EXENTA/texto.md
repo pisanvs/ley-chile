@@ -20,7 +20,7 @@ Resolución:
 
 3º.- Fíjase el monto de Unidades de Fomento comprometidas para el financiamiento del subsidio para la atención de los damnificados a que se refieren los numerales anteriores, en la Región de Coquimbo, según se indica en la siguiente tabla:
 
-4º.- Los montos asignados mediante la presente resolución, ascendentes a 92.650 Unidades de Fomento, se imputarán a los recursos autorizados para el año 2017 en la Región de Coquimbo para el Sistema Integrado de Subsidio Habitacional.
+4º.- Los montos asignados mediante la presente resolución, ascendentes a 91.800 Unidades de Fomento, se imputarán a los recursos autorizados para el año 2017 en la Región de Coquimbo para el Sistema Integrado de Subsidio Habitacional.
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
