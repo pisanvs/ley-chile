@@ -32,7 +32,7 @@ Resolución:
 
 2. Las postulaciones se recibirán a partir del 1° de febrero y hasta el 23 de abril de 2018, ambas fechas inclusive, período en que los Servicios de Vivienda y Urbanización (Serviu) de todas las regiones procederán directamente, a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deban acompañarlas.
 
-3. Se realizarán 2 procesos de selección, el primero al 28 de febrero y el segundo al 16 de abril de 2018, con las personas que hubieren efectuado válidamente su postulación dentro de las fechas indicadas en el número precedente. Las personas que no sean consideradas en la primera selección, continuarán postulando y serán contempladas en la siguiente.
+3. Se realizarán 2 procesos de selección, el primero al 28 de febrero y el segundo al al 23 de abril de 2018, con las personas que hubieren efectuado válidamente su postulación dentro de las fechas indicadas en el número precedente. Las personas que no sean consideradas en la primera selección, continuarán postulando y serán contempladas en la siguiente.
 
 4. Para postular al llamado a que se refiere el número 1 de esta resolución exenta, los postulantes deberán cumplir las siguientes condiciones especiales:
 
