@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "MODIFICACIÓN RCA 120/2010 AMPLIACIÓN PRODUCTIVA PLANTA AQUAPROTEIN S.A."
+
+De conformidad con lo dispuesto mediante resolución exenta N° 216/2018, de la Dirección Regional de Servicio de Evaluación Ambiental, de la Región de Magallanes y Antártica Chilena, de fecha 18 de junio de 2018, se ha resuelto dar inicio a un proceso de Participación Ciudadana, por un plazo de 20 días hábiles de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental, del Proyecto: "Modificación RCA 120/2010 Ampliación Productiva Planta Aquaprotein S.A.", cuyo titular es Aquaprotein S.A.
+
+El proyecto consiste en el aumento de la capacidad productiva de planta, de 20.300 ton/año (56 toneladas/día) de materia prima; aquello será modificado por un aumento en la producción, elevándose a 54.750 toneladas/año (150 toneladas/día). Considera de igual forma: ampliación de galpones, patios y salas; construcción de sala de generadores, de zona de abatimiento de olores, comedor y caminos.
+
+Cualquier persona natural o jurídica, podrá realizar observaciones al proyecto, según lo dispuesto en el artículo 95 del DS N° 40/2012, y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental de 20 días hábiles, a contar del día hábil siguiente, a la última publicación, a la que se refiere el inciso 4° del artículo 94 del Reglamento del Sistema de Evaluación de Impacto Ambiental. Dicho articulado indica, que debe ser publicado el presente extracto en el Diario Oficial y en un diario de circulación de la capital de la región.
+
+El texto íntegro de la resolución antes individualizada, puede ser conocido en las oficinas de la Dirección Regional del SEA, ubicada en calle Lautaro Navarro 363, Punta Arenas. Además, puede accederse a ella a través del sitio web www.sea.gob.cl.
+
+José Luis Riffo Fideli, Director Regional, Servicio de Evaluación Ambiental Región de Magallanes y Antártica Chilena.
