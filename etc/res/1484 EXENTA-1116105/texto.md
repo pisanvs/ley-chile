@@ -148,6 +148,8 @@ Excepcionalmente y en los proyectos que presenten un presupuesto detallado que j
 
 Las situaciones de excepción deben asegurar a lo menos la intervención del complejo de techumbre de toda la vivienda y de los muros exteriores que conforman los recintos habitables de la vivienda: dormitorios y living comedor.
 
+En el caso de Adultos Mayores, se deberá acondicionar térmicamente la totalidad de la vivienda, pudiendo en casos autorizados por Serviu aumentar el monto de subsidio en hasta un 40%
+
 6.3. Se definen los siguientes puntajes adicionales que se sumarán a los puntajes definidos para el Título II, y que serán aplicados a los proyectos presentados a este llamado:
 
 6.3.1. Puntajes adicionales por condiciones de la vivienda original:
@@ -196,6 +198,12 @@ Para estas familias se debe considerar la postulación para el Acondicionamiento
 
 . Cuidado y mantención de la vivienda.
 
+6.8 En el caso de familias con Adultos Mayores, se otorgará un incremento de 5 UF al monto correspondiente a la Gestión de Proyectos e I.T.O., definido en la resolución N° 533 (V. y U.), de 1997, del Subsidio de Asistencia Técnica, para financiar la regularización de sus viviendas.
+
+6.9 Podrán postular a este llamado, en forma individual o colectiva, Adultos Mayores que estén hasta en el tramo del 90% de Clasificación Socioeconómica según el Registro Social de Hogares.
+
+6.10 Los Adultos Mayores podrán postular con viviendas calificadas como viviendas objeto del llamado, según los parámetros establecidos en el inciso final de la letra a) y en las letras b) y c), del resuelvo 7.2.2.
+
 7. En caso de Proyectos de Habitabilidad del Título II de Mejoramiento de Vivienda, que tengan como fin cumplir con los requisitos indicados en el artículo 6° bis del D.S. N° 255 (V. y U.), de 2006, para el Acondicionamiento Térmico de la Vivienda de viviendas ubicadas en zonas con Planes de Descontaminación Atmosférica, se tendrán las siguientes consideraciones especiales:
 
 7.1. El financiamiento de los proyectos de las familias postulantes al presente tipo de proyecto de este llamado, estará compuesto por los recursos provenientes de distintas fuentes en conformidad a lo dispuesto en el presente párrafo. Estas fuentes de financiamiento se aplicarán supletoriamente y comprenderán el ahorro del postulante, el monto de subsidio y el financiamiento adicional para aquellos casos que se especifiquen a continuación.
@@ -216,11 +224,13 @@ a) De las comunas involucradas y de los montos de subsidio según tipo de proyec
 
 .
 
-* En casos de Viviendas con Pisos Ventilados estos montos se podrán aumentar en 40 UF
+* En casos de Viviendas con Pisos Ventilados, estos montos se podrán aumentar en 40 UF.
 
-** Al monto de subsidio de regularización se le podrán adicionar hasta 50 UF en casos de viviendas que no tengan ningún recinto con recepción final.
+** En casos de Viviendas de Postulantes Adultos Mayores, siempre podrá aplicarse el monto máximo de Incremento por Complejidad Técnica, previo informe y autorización del Serviu.
 
-*** Este monto puede duplicarse cuando el elemento de la cubierta contenga asbesto, para realizar el recambio completo de este.
+*** Al monto de subsidio de regularización se le podrán adicionar hasta 50 UF en casos de viviendas que no tengan ningún recinto con recepción final.
+
+**** Este monto puede duplicarse cuando el elemento de la cubierta contenga asbesto, para realizar el recambio completo de este.
 
 b) Para efectos de una correcta interpretación de la tabla precedente, deberán tenerse en consideración las definiciones que a continuación se indican:
 
@@ -384,9 +394,9 @@ No obstante lo anterior, en aquellos casos en que el costo de la intervención d
 
 8. Exímese al presente llamado del cumplimiento de lo señalado en el inciso tercero del artículo 13, del DS N° 255 (V. y U.), de 2006, referido a su publicación en el Diario Oficial con 30 días de anterioridad a lo menos, a la fecha del inicio del proceso de selección.
 
-9. Establécese que en todo aquello que no encuentre regido por el presente llamado, prevalecerá lo dispuesto en el DS N° 255 (V. y U.), de 2006, y sus modificaciones, que regula el Programa de Protección del Patrimonio Familiar.
+9. Podrán postular a todos los procesos de selección de este llamado, las Viviendas Objeto del Programa, señaladas en el artículo 3° del DS N° 255 (V. y U.), de 2006, acreditadas conforme a los procedimientos establecidos en la letra e) del artículo 21, del reglamento ya señalado. También se considerarán viviendas objeto del programa aquellas en que el avalúo fiscal de sus construcciones, excluido el valor del terreno, sea igual o inferior a 350 Unidades de Fomento a la fecha de la presente resolución, lo que acreditarán presentando el Certificado de Avalúo Fiscal Detallado de la propiedad, o el Certificado de Avalúo Fiscal Simple si el inmueble tiene destino habitacional y el monto total es inferior a 350 UF, y las viviendas cuyo avalúo fiscal total sea igual o inferior a 950 Unidades de Fomento, a la fecha de la presente resolución, se acreditarán presentando el Certificado de Avalúo Fiscal Simple.
 
-> **Nota.** La Resolución 2492 Exenta, del Ministerio de Vivienda y Urbanismo, publicada el 03.05.2018, modifica la presente norma en el sentido de incorporar en el cuadro del punto 7.1.2, del resuelvo 7, la comuna de Chimbarongo en el grupo de comunas de la Región del Libertador General Bernardo O'Higgins.
+10. Establécese que en todo aquello que no encuentre regido por el presente llamado, prevalecerá lo dispuesto en el DS N° 255 (V. y U.), de 2006, y sus modificaciones, que regula el Programa de Protección del Patrimonio Familiar.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
