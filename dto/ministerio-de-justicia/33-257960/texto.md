@@ -26,7 +26,7 @@ o- Corresponderá a los Directores Regionales de Gendarmería de Chile:
 
 5.- Disponer los cometidos que deban realizar los funcionarios y delegar, cuando fuere necesario, las atribuciones que hagan posible su cumplimiento dentro del territorio regional;
 
-6.- Disponer las comisiones de servicios, con consulta al Secretario Regional Ministerial;
+6.- Eliminado;
 
 7.- Realizar los actos y celebrar los contratos que sean necesarios para el cumplimiento de las funciones del Servicio, de acuerdo a las facultades que les deleguen los Intendentes Regionales o los Jefes Superiores;
 
@@ -102,7 +102,7 @@ o- Se delegan en los Directores Regionales las siguientes atribuciones específi
 
 9.- Llevar el control de las planillas de rancho de todos los establecimientos y dependencias regionales;
 
-10.- Responsabilizarse de que se lleve, con la asesoría pertinente, la contabilidad general del Servicio en la región y el control contable de los establecimientos de su dependencia, solicitando a la Contraloría Regional la apertura de Cuentas Corrientes Bancarias Fiscales, efectuando el registro de fianzas, la revisión de estados mensuales bancarios, la preparación de balances, memorias contables y otros trabajos de información y control de la especialidad;
+10.- Responsabilizarse de que se lleve, con la asesoría pertinente, la contabilidad general del Servicio en la región y el control contable de los establecimientos de su dependencia, efectuando el registro de fianzas, la revisión de estados mensuales bancarios, la preparación de balances, memorias contables y otros trabajos de información y control de la especialidad;
 
 11.- Arbitrar las medidas de higiene, de sanidad ambiental, médicas y paramédicas que deben aplicarse de acuerdo a las necesidades de la región, dando a conocer éstas al Departamento Sanitario del Servicio y actuando de acuerdo a sus instrucciones y orientación, controlando su debido cumplimiento por los Alcaldes y Jefes de establecimientos;
 
@@ -150,7 +150,7 @@ Deléganse en los Directores Regionales, dentro de sus respectivas jurisdiccione
 
 11.- Preocuparse especialmente del cumplimiento del régimen y sistemas de tratamiento aplicables a las mujeres reclusas y a los menores;
 
-12.- Velar por el cumplimiento de las finalidades de los Patronatos Locales de Reos y Tribunales de Conducta en el ámbito regional, coordinando su funcionamiento, y
+12.- Supervisar y controlar los programas y proyectos de reinserción social en establecimientos penitenciarios de administración directa, concesionados y aquellos del medio libre, y
 
 13.- Canalizar y procurar hacer efectivo todo tipo de ayuda material, moral, religiosa, cultural, artística, deportiva y social en beneficio directo de la población penal.
 
