@@ -98,13 +98,11 @@ Para Título III:
 
 No obstante que los proyectos de Mantención no son parte de los tipos de proyectos que se pueden postular en este llamado, según lo señalado en el punto 1 de esta resolución, los grupos que presenten algunos de los proyectos focalizados, señalados en el punto precedente, podrán incluir proyectos de esa tipología. Además, en este llamado se permitirá la postulación de proyectos de Mantención de la Vivienda en el caso que estos hayan resultado hábiles no seleccionados en procesos de cierre de selección verificados durante el año 2017.
 
-2.6 En el caso de Proyectos Focalizados del Título III Ampliación de la Vivienda, ubicados en Zonas con Planes de Descontaminación Atmosférica vigentes, el monto del subsidio se incrementará en un máximo de 50 UF adicionales para asumir las mayores exigencias de acondicionamiento higrotérmico de sus elementos; el estándar de este acondicionamiento será el que se define para estas zonas en la Res. Ex. N° 1.484 (V. y U.) de 2018, donde se llama a postulación entre otras líneas, a proyectos de Acondicionamiento Térmico para comunas con este tipo de Planes.
-
 3. Este llamado contará con 2 procesos de selección, en los cuales podrán participar los proyectos que se encuentren Calificados antes de las siguientes fechas:
 
 1° Proceso de Selección 31 de mayo de 2018.
 
-2° Proceso de Selección 31 de octubre de 2018.
+2° Proceso de Selección 4 de octubre de 2018.
 
 4. Los recursos involucrados para la primera selección de los proyectos postulantes se distribuirán regionalmente según el siguiente cuadro:
 
@@ -113,12 +111,6 @@ No obstante que los proyectos de Mantención no son parte de los tipos de proyec
 Nota.
 
 *De los recursos asignados a la Región del Biobío en cuadro precedente, se deberá destinar en las selecciones de este llamado como mínimo un 20%, para atender a la provincia de Arauco.
-
-CUADRO DE RECURSOS PARA ÚLTIMA SELECCIÓN(*)
-
-.
-
-(*) Estos montos pueden variar producto de ajustes de recursos para atender otros requerimientos ya sean regionales o nacionales.
 
 5. El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a este llamado, según la tabla precedente, incluidos los Servicios de Asistencia Técnica que correspondan.
 
@@ -224,8 +216,6 @@ Mejoramiento de la Vivienda, del Título II del Programa de Protección del Patr
 
 12.1.3 Si el Adulto Mayor tuviera algún grado de discapacidad, el recinto que lo acoja y el baño deberán contar con las facilidades que le permitan utilizarlo adecuadamente. En estos casos, Serviu deberá verificar que la solución propuesta contemple las medidas necesarias para su uso según el tipo de discapacidad.
 
-12.1.4 Se permitirá que el Adulto Mayor que sea acogido en la ampliación de la vivienda del postulante, sea propietario de una vivienda, pero ella deberá ser ofertada para arriendo bajo las condiciones del subsidio regulado por el DS N° 52 (V. y U.), de 2013.
-
 12.2 En caso de proyectos en que el postulante sea un Adulto Mayor propietario de la vivienda a intervenir, y que la propuesta contemple una ampliación que tenga como destino acoger a un familiar que pueda ayudarlo y cuidarlo, se deberá cumplir con las siguientes condiciones:
 
 12.2.1 Carta compromiso que indique que el proyecto de ampliación está destinado a acoger voluntariamente a uno o más familiares en su vivienda.
@@ -236,7 +226,7 @@ Mejoramiento de la Vivienda, del Título II del Programa de Protección del Patr
 
 13. En aquellos Proyectos de Ampliación de la Vivienda, Título III, que consulten proyecto de dormitorio, que tengan como finalidad atender a las familias que están en Condición de Hacinamiento, se tendrán las siguientes consideraciones:
 
-13.1 Esta condición corresponde a la relación entre el número de personas residentes en la vivienda y el número de dormitorios de la misma. Se entenderá por familia en condición de hacinamiento cuando haya en promedio 2,5 personas o más por recinto dormitorio en la vivienda. Este factor se verificará en base a la información contenida en el Registro Social de Hogares.
+13.1 Esta condición corresponde a la relación entre el número de personas residentes en la vivienda y el número de dormitorios de la misma. Se entenderá por familia en condición de hacinamiento cuando haya en promedio más de 2,5 personas por recinto dormitorio en la vivienda. Este factor se verificará en base a la información contenida en el Registro Social de Hogares.
 
 13.2 El objetivo de la intervención con este tipo de proyectos, es atender y/o mejorar la calidad de vida de las familias que se encuentran viviendo en condición de hacinamiento, para evitar los problemas de convivencia, precariedad y/o falta de privacidad.
 
@@ -252,11 +242,11 @@ Además, estos montos podrán incrementarse en 45 Unidades de Fomento en el caso
 
 14. Cualquier vivienda a intervenir con un Título III, Ampliación de la Vivienda de este Programa, debe lograr que su superficie edificada tras ser ampliada sea igual o superior a 48 m2, en especial en los casos cuya construcción regularizada sea igual o menor a 40 metros cuadrados. Con este fin, el monto del subsidio se aumenta respecto de lo señalado en el artículo 6° del DS N° 255 (V. y U.), de 2006, para cualquiera de los tipos de proyectos que se indican en la letra c) del artículo 5° del mismo reglamento, pudiendo en casos de viviendas de menor tamaño construirse uno o más de los recintos descritos en estos proyectos para llegar a esta superficie. En todos los casos que se opte a este subsidio incrementado, el proyecto de ampliación deberá cumplir con el cuadro normativo de la letra r) del artículo 16 del reglamento e incluir un espacio adicional que permita incluir dos módulos de clósets de 50x60 cm en cada recinto. En el caso de las viviendas de menos de 30 m2, el proyecto deberá contemplar a lo menos la construcción de uno o más dormitorios. Para todos los casos que cumplan las características antes señaladas el monto se incrementará aplicando para su cálculo los valores señalados en la siguiente tabla, y el tamaño del recinto mínimo a construir con la ampliación será de 10 m2 en el caso de dormitorio. Si un proyecto no logra esa superficie final (48 m2) o ese tamaño mínimo de recinto, no podrá aplicar estos montos incrementados, y deberá mantener los montos indicados en el DS N° 255 (V. y U.), de 2006:
 
-Para ampliar viviendas de un piso con una superficie inferior a 40 m2 se contemplan los siguientes montos de subsidio:
+Para ampliaciones en primer piso contarán con los siguientes montos de subsidio:
 
 .
 
-Para ampliar viviendas de más de un piso con una superficie inferior a 40 m2 se contemplan los siguientes montos de subsidio:
+Para ampliaciones en segundo piso contarán con los siguientes montos de subsidio:
 
 .
 
@@ -284,21 +274,13 @@ En las postulaciones colectivas se aceptará que el 60% de los integrantes cumpl
 
 21. Para el pago de los subsidios de obras que requieran permiso de edificación, se permitirá pagar un 70% del monto del contrato al momento en que el contratista o constructor acredite haber terminado las obras, y que éstas hayan sido recibidas por Serviu y el PSAT, dejando el 30% restante para cuando acredite haber obtenido la recepción final de las obras. En los demás casos, se pagará según se indica en el DS N° 255 (V. y U.), de 2006.
 
-22. En caso de proyectos emplazados en barrios que estén siendo o hayan sido intervenidos por el Programa Quiero Mi Barrio, o en localidades que estén siendo o hayan sido intervenidas por el Programa de Pequeñas Localidades, éstos obtendrán 100 puntos adicionales. Además, en el caso de haber sido beneficiados en llamados anteriores del Programa de Protección del Patrimonio Familiar para viviendas ubicadas en barrios del programa Quiero Mi Barrio, esto no será impedimento para obtener otros subsidios del mismo Título de este programa, siempre que no se trate del mismo tipo de obra por el cual la familia ya fue beneficiada.
+22. En caso de proyectos emplazados en barrios que estén siendo o hayan sido intervenidos por el Programa Quiero Mi Barrio, éstos obtendrán 100 puntos adicionales, y el hecho de haber participado de llamados anteriores del Quiero Mi Barrio no será impedimento para obtener otros subsidios, siempre que no se trate del mismo tipo de obra por el cual la familia ya fue beneficiada del Programa de Protección del Patrimonio Familiar.
 
 23. Exímese al presente llamado del cumplimiento de lo señalado en el inciso tercero del artículo 13 del DS N° 255 (V. y U.), de 2006, referido a su publicación en el Diario Oficial con 30 días de anterioridad, a lo menos, a la fecha del inicio del proceso de selección.
 
 24. Los proyectos se deberán ingresar en las Oficinas de Partes del Serviu correspondiente a la Región en la que se postula, en sus Delegaciones Provinciales, o en otro lugar que el Serviu respectivo disponga, el que deberá ser debidamente informado por correo electrónico a los PSAT.
 
 25. Las nóminas de los postulantes seleccionados y sus respectivos proyectos se aprobarán mediante resoluciones exentas de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial. La difusión de dichas nóminas se realizará por el Serviu respectivo en los términos previstos en el DS N° 255 (V. y U.), de 2006.
-
-> **Nota.** El numeral 1° de la Resolución 8413 Exenta, Vivienda, publicado el 07.11.2018, modifica la presente norma en el sentido de prorrogar la fecha de cierre del 2° proceso de selección del llamado Nacional del Programa de Protección del Patrimonio Familiar 2018, hasta el día 9 de noviembre de 2018.
-
-> **Nota.** NOTA 1 El numeral 1 de la Resolución 598 Exenta, Vivienda, publicada el 21.02.2019 aprueba un nuevo monto de recursos y una nueva distribución regional para el segundo proceso de selección del llamado dispuesto por la presente norma que incluye un incremento de 405.279 UF.
-
-> **Nota.** NOTA 2 El numeral 1° de la Resolución 962 Exenta, Vivienda, publicada el 24.04.2019, modifica la presente norma en el sentido de aprobar una nomina complementaria de beneficiarios, además, fíjase el número de postulantes seleccionados por Región en dicha nómina, la que se sumarán a los beneficiarios originalmente seleccionados, según se indica en la citada norma.
-
-> **Nota.** NOTA 3 El numeral 1° de la Resolución 156 Exenta, Vivienda, publicada el 25.04.2019, modifica la presente norma en el sentido de aprobar una nomina complementaria de beneficiarios, además, fíjase el número de postulantes seleccionados por Región en dicha nómina, la que se sumarán a los beneficiarios originalmente seleccionados, según se indica en la citada norma.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
