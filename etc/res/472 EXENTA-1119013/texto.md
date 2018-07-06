@@ -58,6 +58,10 @@ Línea 28 Troncal
 
 Regreso: Recorrido habitual - Manuel Rodríguez - Inglaterra - Trizano - Pedro de Valdivia -Recorrido habitual.
 
+TRANSPORTES RURALES E INTERURBANOS
+
+Egreso del Terminal: Recorrido habitual - Manuel Rodríguez - Trizano - Pedro de Valdivia -Recorrido habitual.
+
 3. Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia, los destinados a cumplir funciones en las obras relacionadas con los trabajos de repavimentación y, aquellos vehículos que requieran ingresar o egresar hacia o desde su lugar de residencia o estacionamiento.
 
 4. La presente resolución de prohibición de circulación de vehículos, deberá darse a conocer por medio de avisos, que se deberán difundir a través de los diferentes medios de comunicación audiovisual, tales como radios, periódicos u otros de mayor circulación o sintonía en la comuna. También es necesario realizar una comunicación a la comunidad directamente cercana, a través de información entregada en sus domicilios.
