@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 485 EXENTA, DE 26 DE JUNIO DE 2018
+
+Con fecha 26 de junio de 2018, la Superintendencia de Educación dicta resolución exenta N° 485, que "Aprueba las bases del programa de fiscalización de educación parvularia sin reconocimiento oficial o autorización de funcionamiento - año 2018", la cual contiene detalles del objetivo, alcance, normativa a aplicar, derechos y bienes jurídicos que se resguardan, documentos que se solicitarán, estructura y ejecución del programa de fiscalización, en virtud del objeto de la Superintendencia de Educación de fiscalizar a los sostenedores de establecimientos educacionales en los términos indicados en el artículo 48 de la Ley N° 20.529, de 2011, Sobre el Sistema Nacional de Aseguramiento de la Calidad de la Educación Parvularia, Básica y Media y su Fiscalización, y las atribuciones dispuestas en las letras a) y b) del artículo 49 de la misma ley. La resolución antedicha estará disponible para la comunidad en la página web institucional www.supereduc.cl.
+
+Daniella Maureira, Jefa Unidad de Procesos Administrativos y Judiciales.
