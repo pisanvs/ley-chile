@@ -256,7 +256,7 @@ b) Con las sumas que anualmente se consulten en el presupuesto del Servicio de I
 
 c) Con el aporte mensual de sus afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones, porcentaje que fijará anualmente el Consejo Administrativo;
 
-d) Con el aporte mensual de sus afiliados jubilados de hasta el 1% de sus pensiones, más el 50% de la cantidad correspondiente al Aporte Institucional, que será de su cargo;
+d) Con el aporte mensual de sus afiliados jubilados de hasta el 2% de sus pensiones, más el 50% de una cantidad correspondiente al Aporte Institucional, que será de su cargo;
 
 e) Con los intereses de los préstamos que otorga el Servicio de Bienestar a sus afiliados;
 
