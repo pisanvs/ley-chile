@@ -38,9 +38,11 @@ Estudio:
 
 Lonquimay, IX Región.
 
-- Coordenadas geográficas: 38°27'14" Latitud Sur.
+- Coordenadas geográficas: 38º27'14" Latitud Sur.
 
-71°22'25" Longitud Oeste.
+71º22'24,8" Longitud Oeste.
+
+datum WGS 84.
 
 Planta Transmisora:
 
@@ -50,9 +52,11 @@ Naranjo, Lonquimay, IX
 
 Región.
 
-- Coordenadas geográficas: 38°26'28" Latitud Sur.
+- Coordenadas geográficas: 38º26'28,3" Latitud Sur.
 
-71°22'52" Longitud Oeste.
+71º22'51,4" Longitud Oeste.
+
+datum WGS 84.
 
 Sistema Radiante:
 
