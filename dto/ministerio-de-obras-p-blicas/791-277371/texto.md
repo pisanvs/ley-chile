@@ -42,6 +42,8 @@ Ruta H-10, Cruce ex Ruta 5 - Rancagua.
 
 Ruta H-210, Cruce H-10 - Cruce H-30.
 
+Ruta H-27, Carretera Presidente Eduardo Frei Montalva (Carretera El Cobre), Cruce Ruta 5 - H-263.
+
 3º Declárense caminos públicos en las áreas urbanas de las siguientes capitales de provincia, dando continuidad a las rutas antes indicadas, a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 RANCAGUA:
