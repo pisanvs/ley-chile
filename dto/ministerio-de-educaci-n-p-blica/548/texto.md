@@ -32,29 +32,21 @@ INCISO ELIMINADO.
 
 Cuando se produzca una modificación, ampliación o disminución de la infraestructura del local escolar, local complementario, hogar estudiantil o internado y, por consiguiente, un cambio en las condiciones iniciales que sirvieron de base para aprobar su funcionamiento, se deberán actualizar los siguientes antecedentes:
 
-. Certificado de Recepción Definitiva o Parcial
+. Certificado de Recepción Definitiva o Parcial extendido por la Dirección General de Obras Municipales de la comuna en que se ubica el establecimiento educacional, o por la autoridad que corresponda en las comunas que no cuenten con dicha Dirección.
 
-extendido por la Dirección General de Obras
-
-Municipales de la comuna en que se ubica el
-
-establecimiento educacional, o por la autoridad
-
-que corresponda en las comunas que no cuenten
-
-con dicha Dirección.
-
-. Informe que acredite que el local reúne las
-
-condiciones sanitarias mínimas exigidas por el
-
-Ministerio de Salud, otorgado por el organismo
-
-competente.
+. Informe que acredite que el local reúne las condiciones sanitarias mínimas exigidas por el Ministerio de Salud, otorgado por el organismo competente.
 
 En todo momento la Superintendencia de Educación podrá fiscalizar el cumplimiento de las disposiciones del presente decreto, sin perjuicio de la fiscalización que ejerza el Ministerio de Salud en el ámbito de su competencia. En todo caso, deberá estarse a lo dispuesto en el artículo 10º transitorio de la ley Nº 20.370.
 
 En todo caso, si la Secretaría Regional Ministerial de Educación correspondiente, previa visita inspectiva, constata que el local escolar o internado, o su entorno, presentan algún elemento que pongan en riesgo la seguridad de los alumnos y demás usuarios, aún en el caso que exista recepción definitiva de obras, no se emitirá la aprobación correspondiente, para efectos de obtener el reconocimiento oficial del estado de que trata el inciso primero del presente artículo, aprobación que sólo se otorgará una vez que se subsane la situación detectada. Dicha medida deberá ser siempre fundada.
+
+La Secretaría Regional Ministerial de Educación respectiva determinará la capacidad máxima de atención de los establecimientos educacionales en función del índice más desfavorable entre:
+
+- **a)** Superficie y volumen de aire por aula o sala de actividades,
+
+- **b)** Superficie de patio, y
+
+- **c)** Capacidad sanitaria establecida mediante resolución o informe emitido por el Ministerio de Salud, o en su defecto, conforme a la cantidad de artefactos sanitarios. Lo anterior, según lo dispuesto en el Título 4, Capítulo 5 sobre Locales escolares y hogares estudiantiles de la O.G.U.C.
 
 #### Artículo 3°
 
@@ -74,7 +66,9 @@ f) Otras situaciones que pongan en peligro la seguridad de los alumnos, docentes
 
 Ante la imposibilidad de eliminar los elementos peligrosos el Secretario Regional Ministerial de Educación podrá, excepcionalmente, autorizar el funcionamiento del local educacional, previa aislación de dichos elementos de manera que se garantice la seguridad de los usuarios. Las medidas de mitigación que se adopten deberán fundarse en informes técnicos de entidades competentes en la materia de que se trate.
 
-El terreno deberá contar con cierros exteriores diseñados de manera tal que, sin presentar riesgos para los usuarios, permitan controlar el ingreso de éstos al local escolar local complementario, hogar estudiantil o internado, resguardar la privacidad de los alumnos y garantizar su seguridad.
+Cuando existan edificaciones con destino distinto al educacional dentro del mismo predio, se deberá garantizar que éstas cuenten con accesos independientes desde la vía pública y se encuentren físicamente separadas del local escolar, resguardando de este modo la privacidad de los alumnos al interior del local escolar, o, en su defecto, contar con autorización del Secretario Regional Ministerial de Educación respectivo, otorgada mediante resolución fundada, debiendo garantizarse siempre la seguridad de los usuarios al interior del establecimiento.
+
+El terreno deberá contar con cierros exteriores diseñados de manera tal que, sin presentar riesgos para los usuarios, permitan controlar el ingreso de éstos al local escolar local complementario, hogar estudiantil o internado, resguardar la privacidad de los alumnos y garantizar su seguridad. Sin perjuicio de lo señalado, y en atención al resguardo de la privacidad de los alumnos, aquellos tramos de cierre que se ubiquen adyacentes a superficies que no correspondan a recintos docentes, quedarán excluidos de dicha exigencia.
 
 #### Artículo 4°
 
@@ -104,9 +98,7 @@ a) Área Administrativa.
 
 - Oficina.
 
-- Una sala que funcione como lugar de
-
-amamantamiento y de control de salud.
+- Sala de amamantamiento.
 
 b) Área Docente
 
@@ -118,51 +110,21 @@ b) Área Docente
 
 c) Área de Servicios.
 
-- Cocinas, de conformidad a los decretos del
+- Cocinas, de conformidad a los decretos del Ministerio de Salud, a que se refiere el artículo segundo de este Reglamento.
 
-Ministerio de Salud, a que se refiere el
+- Recinto o bodega que sirva como despensa, de conformidad a los decretos del Ministerio de Salud a que se refiere el artículo segundo de este Reglamento.
 
-#### Artículo segundo
+- Servicios higiénicos, de conformidad a los decretos del Ministerio de Salud, a que se refiere el artículo segundo de este Reglamento, para uso de:
 
-de este Reglamento.
+. Personal docente y administrativo. Cuando su accesibilidad lo permita, podrá de igual modo, adecuarse como servicio higiénico para personas con discapacidad.
 
-- Recinto o bodega que sirva como despensa,
+. Personal de servicio y manipuladores.
 
-el cual podrá estar ubicado dentro de
+Sin perjuicio de lo anterior, los establecimientos que cuenten con hasta cinco aulas podrán tener servicios higiénicos comunes para personal docente, administrativo, de servicio y manipuladores.
 
-la cocina.
+- Bodega, closet o gabinete para material didáctico.
 
-- Servicios higiénicos, de conformidad a los
-
-decretos del Ministerio de Salud, a que se
-
-refiere el artículo segundo de este
-
-Reglamento, para uso de:
-
-. Personal docente y administrativo
-
-. Personal de servicio y manipuladores
-
-Sin perjuicio de lo anterior, los
-
-establecimientos que cuenten con hasta cinco
-
-aulas podrán tener servicios higiénicos
-
-comunes para personal docente,
-
-administrativo, de servicio
-
-y manipuladores.
-
-- Bodega, closet o gabinete para
-
-material didáctico.
-
-- Bodega, closet o gabinete para
-
-artículos de aseo.
+- Bodega, closet o gabinete para artículos de aseo.
 
 1.2. Jardín Infantil.
 
@@ -170,9 +132,7 @@ a) Area Administrativa.
 
 - Oficina
 
-- Al menos una sala que funcione como
-
-sala multiuso y primeros auxilios.
+- Al menos una sala que funcione como sala multiuso y primeros auxilios.
 
 b) Area Docente.
 
@@ -184,191 +144,85 @@ b) Area Docente.
 
 c) Área de Servicios.
 
-- Cocina general, en los casos en que se
+- Cocina general o recinto, de conformidad a los decretos del Ministerio de Salud, a que se refiere el artículo segundo de este Reglamento.
 
-proporcione alimentación. Aquellos Jardines
+- Recinto o bodega que sirva como despensa, en los casos en que se proporcione alimentación, de conformidad a los decretos del Ministerio de Salud a que se refiere el artículo segundo de este Reglamento.
 
-Infantiles que no entreguen alimentación,
+- Servicios higiénicos, de conformidad a los decretos del Ministerio de Salud, a que se refiere el artículo segundo de este Reglamento, para uso de:
 
-deberán disponer a lo menos de un recinto
-
-exclusivo destinado a la instalación de una
-
-cocinilla y un lavaplatos, de conformidad a
-
-los decretos del Ministerio de Salud, a que
-
-se refiere el artículo segundo de este
-
-Reglamento.
-
-- Recinto o bodega que sirva como despensa,
-
-en los casos en que se proporcione
-
-alimentación, el cual podrá estar
-
-ubicado dentro de la cocina.
-
-- Servicios higiénicos, de conformidad
-
-a los decretos del Ministerio de
-
-Salud, a que se refiere el artículo
-
-segundo de este Reglamento,para
-
-uso de:
-
-. Personal docente y administrativo
+. Personal docente y administrativo. Cuando su accesibilidad lo permita, podrá de igual modo, adecuarse como servicio higiénico para personas con discapacidad.
 
 . Personal de servicio y manipuladores
 
-Sin perjuicio de lo anterior, los
+Sin perjuicio de lo anterior, los establecimientos que cuenten con hasta cinco aulas podrán tener servicios higiénicos comunes para personal docente, administrativo, de servicio y manipuladores.
 
-establecimientos que cuenten con
+- Bodega, closet o gabinete para material didáctico,
 
-hasta cinco aulas podrán tener
+- Bodega, closet o gabinete para artículos de aseo.
 
-servicios higiénicos comunes para
+Cuando el local atienda sala cuna y jardín infantil, podrá tener en común el área de servicios y los siguientes recintos del área administrativa y docente: oficina, sala multiuso y patio, respectivamente.
 
-personal docente, administrativo,
+En los casos en que se tenga en común el patio, los alumnos de ambos niveles no deberán hacer uso de éste de manera simultánea.
 
-de servicio y manipuladores.
+Cuando el jardín infantil tenga una capacidad inferior a 135 párvulos y la sala de primeros auxilios no pueda habilitarse en los términos señalados, dicho recinto podrá implementarse dentro de otro recinto del área administrativa, siempre que éste disponga del espacio suficiente para el correcto uso de un gabinete y una camilla, la cual podrá ser rígida, portátil o plegable. No obstante lo anterior, cuando la capacidad de atención sea igual o superior a 135 párvulos y el jardín infantil se ubique cerca de un centro asistencial de salud, el Secretario Regional Ministerial de Educación respectivo podrá, mediante resolución fundada, autorizar la habilitación de la sala de primeros auxilios del mismo modo permitido para capacidades inferiores.
 
-- Bodega, closet o gabinete para
+Cuando el local escolar cuente con patio de servicio y/o área de estacionamientos, estos se deberán separar del área de uso y tránsito de lactantes y párvulos, mediante un límite físico no escalable.
 
-material didáctico,
+Se debe considerar agua fría y caliente en todas las bañeras y tinetas. Los lavamanos de uso de
 
-- Bodega, closet o gabinete para
+lactantes y párvulos que consideren agua caliente deberán estar provistos de un sistema de regulación de temperatura que permita evitar posibles quemaduras.
 
-artículos de aseo.
-
-Cuando el local atienda sala cuna y jardín
-
-infantil, podrá tener en común el área de
-
-servicios y los siguientes recintos del
-
-área administrativa y docente: oficina,
-
-sala multiuso y patio, respectivamente.
-
-En los casos en que se tenga en común el
-
-patio, los alumnos de ambos niveles no
-
-deberán hacer uso de éste de manera
-
-simultánea.
-
-En caso que el Jardín Infantil o Sala Cuna
-
-cuente con estacionamientos, éstos
-
-deberán separarse físicamente del área
-
-de patio de los párvulos, impidiendo el
-
-libre tránsito entre ambos. Se deberá
-
-considerar agua fría y caliente en todas
-
-las bañeras y en al menos un lavamanos.
+Tratándose de salas cunas y jardines infantiles que funcionen dentro de establecimientos penitenciarios y hospitalarios, podrá compartirse el uso de los recintos del área administrativa con otras dependencias del edificio destinadas para los mismos fines.
 
 2.- NIVEL DE EDUCACIÓN BÁSICA.
 
 a) Área Administrativa.
 
-- Oficina cuando el local escolar
-
-tenga más de tres aulas.
+- Oficina cuando el local escolar tenga más de tres aulas.
 
 - Sala de profesores.
 
 b) Área Docente.
 
-- Aulas, en número igual a la cantidad de grupos
+- Aulas, en número igual a la cantidad de grupos cursos que asisten en cada turno.
 
-cursos que asisten en cada turno.
+- Biblioteca o Centro de Recursos para el Aprendizaje (CRA) con una capacidad mínima de 30 alumnos, en locales con más de seis aulas.
 
-- Biblioteca o Centro de Recursos para el
+- Taller o multitaller en locales con más de tres aulas.
 
-Aprendizaje (CRA) con una capacidad mínima de
-
-30 alumnos, en locales con más de seis aulas.
-
-- Taller o multitaller en locales con más de
-
-tres aulas.
-
-- Sala para la Unidad Técnico Pedagógica (UTP)
-
-en locales con más de tres aulas.
+- Sala para la Unidad Técnico Pedagógica (UTP) en locales con más de tres aulas.
 
 - Patio
 
 c) Área de Servicios.
 
-- Servicios higiénicos independientes para uso
+- Servicios higiénicos independientes para uso de los alumnos y para uso de las a alumnas.
 
-de los alumnos y para uso de las a alumnas.
+- Servicios higiénicos, de conformidad a los decretos del Ministerio de Salud, a que se refiere el artículo segundo de este Reglamento, para uso de:
 
-- Servicios higiénicos, de conformidad a los
-
-decretos del Ministerio de Salud, a que se
-
-refiere el artículo segundo de este Reglamento,
-
-para uso de:
-
-. Personal docente y administrativo
+. Personal docente y administrativo. Cuando su accesibilidad lo permita, podrá de igual modo, adecuarse como servicio higiénico para personas con discapacidad.
 
 . Personal de servicio y manipuladores
 
-Sin perjuicio de lo anterior, los
-
-establecimientos que cuenten con
-
-hasta cinco aulas podrán tener
-
-servicios higiénicos comunes para
-
-personal docente, administrativo,
-
-de servicio y manipuladores.
+Sin perjuicio de lo anterior, los establecimientos que cuenten con hasta cinco aulas podrán tener servicios higiénicos comunes para personal docente, administrativo, de servicio y manipuladores.
 
 - Bodega.
 
 - Patio de servicio.
 
-- Cuando se considere entrega del
+- Cuando se considere entrega del servicio de alimentación se deberán exigir los siguientes recintos:
 
-servicio de alimentación se
-
-deberán exigir los
-
-siguientes recintos:
-
-. Comedor, en locales que cuenten
-
-con más de 4 aulas.
+. Comedor, en locales que cuenten con más de 4 aulas.
 
 . Cocina.
 
-. Recinto o bodega que sirva
-
-como despensa, el cual
-
-podrá estar ubicado
-
-dentro de la cocina.
+. Recinto o bodega que sirva como despensa, de conformidad a los decretos del Ministerio de Salud a que se refiere el artículo segundo de este Reglamento.
 
 - Sala de primeros auxilios.
 
 INCISO ELIMINADO.
 
-Cuando en el local se atienda alumnos de Jardín Infantil y del Nivel de Educación Básica, podrá tener comunes los siguientes recintos: oficina, cocina general -en los casos en que se proporcione alimentación-, despensa, bodega, servicios higiénicos para el uso del personal docente y administrativo, servicios higiénicos para el personal de servicio y servicios higiénicos para manipulador(es) y patio de servicio.
+Cuando en el local se atienda alumnos de Jardín Infantil y del Nivel de Educación Básica, podrá tener comunes los siguientes recintos: oficina, cocina general -en los casos en que se proporcione alimentación-, despensa, bodega, servicios higiénicos para el uso del personal docente y administrativo, servicios higiénicos para el personal de servicio y servicios higiénicos para manipulador(es), sala de primeros auxilios y patio de servicio.
 
 Cuando el local atienda alumnos de Sala Cuna, Jardín Infantil y Nivel de Educación Básica, podrá compartir todos los recintos descritos en el inciso anterior.
 
@@ -388,23 +242,13 @@ con más de 3 aulas.
 
 b) Area Docente.
 
-- Aulas en número igual a la cantidad de grupos
+- Aulas en número igual a la cantidad de grupos cursos que asistan en cada turno.
 
-cursos que asistan en cada turno.
-
-- Aula de educación sicomotriz y/o Educación
-
-Física (para gimnasia o actividades
-
-específicas según las necesidades educativas
-
-especiales que presenten las o los alumnos).
+- Aula de educación sicomotriz y/o Educación Física (para gimnasia o actividades específicas según las necesidades educativas especiales que presenten las o los alumnos).
 
 - ELIMINADO
 
-- Gabinete para profesionales, en locales con
-
-más de 3 aulas.
+- Gabinete para profesionales, en locales con más de 3 aulas.
 
 - ELIMINADO
 
@@ -412,113 +256,39 @@ más de 3 aulas.
 
 c) Área de Servicios.
 
-- Servicios higiénicos independientes para uso de
+- Servicios higiénicos independientes para uso de los alumnos y alumnas. En el recinto donde se instalen tazas, a la derecha de ellos, debe ir una barra de apoyo para el usuario.
 
-los alumnos y alumnas. En el recinto donde se
+- Servicios higiénicos, de conformidad a los decretos del Ministerio de Salud, a que se refiere el artículo segundo de este Reglamento, para uso de:
 
-instalen tazas, a la derecha de ellos, debe ir
-
-una barra de apoyo para el usuario.
-
-- Servicios higiénicos, de conformidad a los
-
-decretos del Ministerio de Salud, a que
-
-se refiere el artículo segundo de este
-
-Reglamento, para uso de:
-
-. Personal docente y administrativo
+. Personal docente y administrativo. Cuando su accesibilidad lo permita, podrá de igual modo, adecuarse como servicio higiénico para personas con discapacidad.
 
 . Personal de servicio y manipuladores
 
-Sin perjuicio de lo anterior, los establecimientos
-
-que cuenten con hasta cinco aulas podrán tener
-
-servicios higiénicos comunes para personal docente,
-
-administrativo, de servicio y manipuladores.
+Sin perjuicio de lo anterior, los establecimientos que cuenten con hasta cinco aulas podrán tener servicios higiénicos comunes para personal docente, administrativo, de servicio y manipuladores.
 
 - Bodega.
 
 - Patio de servicio.
 
-- Cuando se considere entrega del servicio de
+- Cuando se considere entrega del servicio de alimentación se deberán exigir los siguientes recintos:
 
-alimentación se deberán exigir los siguientes
-
-recintos:
-
-. Comedor, en locales que cuenten con más
-
-de 4 aulas.
+. Comedor, en locales que cuenten con más de 4 aulas.
 
 . Cocina.
 
-. Recinto o bodega que sirva como despensa, el
-
-cual podrá estar ubicado dentro de la cocina.
+. Recinto o bodega que sirva como despensa, de conformidad a los decretos del Ministerio de Salud a que se refiere el artículo segundo de este Reglamento.
 
 Disposiciones Generales:
 
-- Los alumnos que asisten a la modalidad de
+- Los alumnos que asisten a la modalidad de Educación Especial, ya sea en una escuela especial o en un establecimiento con programa de integración escolar, y que experimenten dificultades en su movilidad y desplazamiento, deberán contar con las medidas de accesibilidad necesarias para que puedan participar en las diferentes actividades curriculares.
 
-Educación Especial, ya sea en una escuela
+- En las escuelas que atiendan alumnos con discapacidad física o ceguera, las circulaciones, puertas y servicios higiénicos deberán permitir el desplazamiento expedito de personas con aparatos ortopédicos, sillas de ruedas y otros.
 
-especial o en un establecimiento con
+- Cuando se atienda a estudiantes entre 15 a 21 años de edad, la infraestructura o planta física deberá permitir el desarrollo del programa de formación laboral que imparta el establecimiento, aprobado, para estos efectos, por el Secretario Regional Ministerial de Educación respectivo.
 
-programa de integración escolar, y que
+- Los sistemas de evacuación para casos de emergencia deberán considerar la discapacidad que atienda el establecimiento.
 
-experimenten dificultades en su movilidad
-
-y desplazamiento, deberán contar con las
-
-medidas de accesibilidad necesarias para
-
-que puedan participar en las
-
-diferentes actividades curriculares.
-
-- En las escuelas que atiendan alumnos
-
-con discapacidad física o ceguera, las
-
-circulaciones, puertas y servicios
-
-higiénicos deberán permitir el
-
-desplazamiento expedito de personas
-
-con aparatos ortopédicos, sillas de
-
-ruedas y otros.
-
-- Cuando se atienda a estudiantes entre
-
-15 a 21 años de edad, la infraestructura
-
-o planta física deberá permitir el
-
-desarrollo del programa de formación
-
-laboral que imparta el establecimiento,
-
-aprobado, para estos efectos,
-
-por el Secretario Regional Ministerial
-
-de Educación respectivo.
-
-- Los sistemas de evacuación para casos de
-
-emergencia deberán considerar la
-
-discapacidad que atienda el establecimiento.
-
-- Las terminaciones no podrán tener cantos
-
-vivos.
+- Las terminaciones no podrán tener cantos vivos.
 
 4. NIVEL DE EDUCACION MEDIA.
 
@@ -536,97 +306,47 @@ de 7 aulas.
 
 b) Área Docente.
 
-- Aulas, en número igual a la cantidad de
+- Aulas, en número igual a la cantidad de grupos cursos que asisten en cada turno.
 
-grupos cursos que asisten en cada turno.
+- Laboratorio taller, en locales de hasta cuatro aulas.
 
-- Laboratorio taller, en locales de hasta
+- Laboratorio con gabinete o closet en locales con más de cuatro aulas.
 
-cuatro aulas.
+- Biblioteca o centro de recursos para el aprendizaje (CRA), con una capacidad mínima de 30 alumnos.
 
-- Laboratorio con gabinete o closet en locales
-
-con más de cuatro aulas.
-
-- Biblioteca o centro de recursos para el
-
-aprendizaje (CRA), con una capacidad mínima
-
-de 30 alumnos.
-
-- Taller o multitaller en locales con más
-
-de cuatro aulas.
+- Taller o multitaller en locales con más de cuatro aulas.
 
 - Patio.
 
 c) Área de Servicios.
 
-- Servicios higiénicos independientes para uso
+- Servicios higiénicos independientes para uso de los alumnos y para uso de las alumnas.
 
-de los alumnos y para uso de las alumnas.
+- Servicios higiénicos, de conformidad a los decretos del Ministerio de Salud, a que se refiere el artículo segundo de este Reglamento, para uso de:
 
-- Servicios higiénicos, de conformidad a los
+. Personal docente y administrativo. Cuando su
 
-decretos del Ministerio de Salud, a que se
-
-refiere el artículo segundo de este Reglamento,
-
-para uso de:
-
-. Personal docente y administrativo
+accesibilidad lo permita, podrá de igual modo, adecuarse como servicio higiénico para personas con discapacidad.
 
 . Personal de servicio y manipuladores
 
-Sin perjuicio de lo anterior, los establecimientos
-
-que cuenten con hasta cinco aulas podrán
-
-tener servicios higiénicos comunes para
-
-personal docente, administrativo, de servicio
-
-y manipuladores.
+Sin perjuicio de lo anterior, los establecimientos que cuenten con hasta cinco aulas podrán tener servicios higiénicos comunes para personal docente, administrativo, de servicio y manipuladores.
 
 - Bodega.
 
 - Patio de servicio.
 
-- Cuando se considere entrega del servicio de
+- Cuando se considere entrega del servicio de alimentación se deberán exigir los siguientes recintos:
 
-alimentación se deberán exigir los siguientes
-
-recintos:
-
-. Comedor, en locales que cuenten
-
-con más de 4 aulas.
+. Comedor, en locales que cuenten con más de 4 aulas.
 
 . Cocina.
 
-. Recinto o bodega que sirva como despensa,
-
-el cual podrá estar ubicado dentro
-
-de la cocina.
+. Recinto o bodega que sirva como despensa, de conformidad a los decretos del Ministerio de Salud a que se refiere el artículo segundo de este Reglamento.
 
 - Sala de primeros auxilios.
 
-Cuando en el local se atienda alumnos de los niveles
-
-de educación básica y media podrá tener comunes las
-
-áreas administrativas, de servicio y los siguientes
-
-recintos: del Area Docente: Centro de Recursos para el Aprendizaje o Biblioteca, Unidad Técnico Pedagógica,
-
-patio y taller o multitaller. En todo caso,
-
-las áreas administrativas y de servicio serán las
-
-correspondientes al nivel de educación media
-
-considerando el total de las aulas de ambos niveles.
+Cuando en el local se atienda alumnos de los niveles de educación básica y media podrá tener comunes las áreas administrativas, de servicio y los siguientes recintos: del Area Docente: Centro de Recursos para el Aprendizaje o Biblioteca, Unidad Técnico Pedagógica, patio y taller o multitaller. En todo caso, las áreas administrativas y de servicio serán las correspondientes al nivel de educación media considerando el total de las aulas de ambos niveles.
 
 5. HOGARES ESTUDIANTILES O INTERNADOS.
 
@@ -636,27 +356,19 @@ a) Area Administrativa.
 
 - Oficina.
 
-- Vivienda para el director en el caso
+- Vivienda para el director en el caso que lo amerite.
 
-que lo amerite.
-
-b) Area Dormitorios, se exigen los siguientes
-
-recintos por sexo:
+b) Area Dormitorios, se exigen los siguientes recintos por sexo:
 
 - Dormitorios para alumnos.
 
-- Servicios higiénicos para el uso de los
-
-alumnos.
+- Servicios higiénicos para el uso de los alumnos.
 
 - Dormitorio(s) con servicios higiénicos para
 
 uso del o de los inspectores
 
-- Enfermería que deberá ubicarse contigua
-
-al dormitorio del o de los inspectores.
+- Enfermería que deberá ubicarse contigua al dormitorio del o de los inspectores.
 
 - Ropería.
 
@@ -670,45 +382,21 @@ d) Área de Servicios.
 
 - Cocina.
 
-- Recinto o bodega que sirva como despensa,
-
-el cual podrá estar ubicado dentro de la cocina.
+- Recinto o bodega que sirva como despensa, de conformidad a los decretos del Ministerio de Salud a que se refiere el artículo segundo de este Reglamento.
 
 - Recinto para lavados de ropa.
 
-- Servicios higiénicos, de conformidad a los
+- Servicios higiénicos, de conformidad a los decretos de Ministerio de Salud, a que se refiere el artículo segundo de este Reglamento, para uso de:
 
-decretos de Ministerio de Salud, a que se
-
-refiere el artículo segundo de este
-
-Reglamento, para uso de:
-
-. Personal docente y administrativo
+. Personal docente y administrativo. Cuando su accesibilidad lo permita, podrá de igual modo, adecuarse como servicio higiénico para personas con discapacidad.
 
 . Personal de servicio y manipuladores
 
-Sin perjuicio de lo anterior, los establecimientos
-
-que cuenten con hasta cinco aulas podrán tener
-
-servicios higiénicos comunes para personal docente,
-
-administrativo, de servicio y manipuladores.
+Sin perjuicio de lo anterior, los establecimientos que cuenten con hasta cinco aulas podrán tener servicios higiénicos comunes para personal docente, administrativo, de servicio y manipuladores.
 
 - Patio de servicio.
 
-Cuando el hogar estudiantil funcione contíguo a un
-
-local escolar, de Educación Básica y/o de Educación
-
-Media, y dependan de un mismo sostenedor, podrán
-
-compartir el uso de los siguientes recintos: patio,
-
-cocina, despensa, bodega, servicios higiénicos para el personal de servicio, servicios higiénicos para manipulador(es), patio de servicio y comedor. En este último caso el comedor deberá estar situado en el hogar
-
-estudiantil y deberá ser independiente del recinto estar-estudio. En caso que el hogar estudiantil y el local escolar dependan de distintos, sostenedores podrán compartir los recintos antes mencionados, con excepción del patio. Dicha medida deberá establecerse por escrito, su duración no podrá ser inferior a un año escolar y deberá contar con la aprobación de la Secretaría Regional Ministerial respectiva.
+Cuando el hogar estudiantil funcione contíguo a un local escolar, de Educación Básica y/o de Educación Media, y dependan de un mismo sostenedor, podrán compartir el uso de los siguientes recintos: patio, cocina, despensa, bodega, servicios higiénicos para el personal de servicio, servicios higiénicos para manipulador(es), patio de servicio y comedor. En este último caso el comedor deberá estar situado en el hogar estudiantil y deberá ser independiente del recinto estar-estudio. En caso que el hogar estudiantil y el local escolar dependan de distintos, sostenedores podrán compartir los recintos antes mencionados, con excepción del patio. Dicha medida deberá establecerse por escrito, su duración no podrá ser inferior a un año escolar y deberá contar con la aprobación de la Secretaría Regional Ministerial respectiva.
 
 #### Artículo 6º
 
@@ -742,19 +430,7 @@ A) Locales escolares y locales complementarios:
 
 . Sala cuna: cuarto piso.
 
-. Jardín infantil: primer piso. Sin embargo,
-
-se podrá utilizar el segundo piso siempre
-
-que se disponga de una rampa con las
-
-protecciones adecuadas y, en caso de existir
-
-una escalera, ésta deberá contar con elementos
-
-para impedir su uso por los párvulos en la
-
-llegada a los pisos.
+. Jardín infantil: primer piso. Sin embargo, se podrá utilizar el segundo piso siempre que se disponga de una rampa con las protecciones adecuadas y, en caso de existir una escalera, ésta deberá contar con elementos para impedir su uso por los párvulos en la llegada a los pisos.
 
 - Nivel de educación básica: tercer piso.
 
@@ -772,6 +448,12 @@ Del mismo modo, los recintos docentes de todos los niveles de educación no podr
 
 Las salas cunas emplazadas en pisos superiores al terreno natural, deberán contar con una vía de evacuación alternativa para casos de emergencia que conduzca a un área de seguridad ubicada en el nivel de terreno natural.
 
+La vía de evacuación alternativa señalada en el inciso anterior, deberá ser garantizado por medio de certificado emitido por profesional prevencionista de riesgos, o por la Asociación Chilena de Seguridad o la Mutual de Seguridad.
+
+Las salas cunas emplazadas en subterráneos, deberán contar con una rampa o escalera como vía de evacuación alternativa para casos de emergencia, que conduzca a un área de seguridad ubicada en el nivel de terreno natural.
+
+Los jardines infantiles emplazados en subterráneos, deberán contar con una rampa de acceso con las protecciones adecuadas y, en caso de existir una escalera, ésta deberá contar con elementos para impedir su uso por los párvulos en la llegada a los pisos.
+
 6. Las circulaciones horizontales y verticales deberán cumplir los siguientes requisitos:
 
 a. Estar cubiertas en el lado de acceso a los recintos de uso de los alumnos.
@@ -784,7 +466,11 @@ d. Tener una iluminación mínima equivalente a 30 lux. Si la cantidad de luz m�
 
 e. Cuando exista escalera en los edificios para los niveles de Educación Parvularia con más de 30 alumnos, Educación Básica y Educación Media, ésta deberá tener un descanso en su tercio medio, y la longitud mínima de éste será de 1,00 m.
 
-7. Los locales escolares y complementarios deberán mantener en los recintos de uso de los párvulos y alumnos, excluidos los servicios higiénicos y patios, las siguientes temperaturas mínimas, en las zonas del país que se indican (NCh 1079), durante el tiempo de permanencia de los párvulos y alumnos, las que deberán lograrse idealmente mediante estrategias pasivas, o en su defecto con sistemas de refrigeración y/o calefacción, con ductos de evacuación de gases al exterior y provisto de elementos de protección contra las quemaduras:
+f. Todos los recintos deberán contar con accesos directos desde los pasillos de circulaciones y/o espacios de circulación. No se permitirán accesos a través de otros recintos, a excepción del tránsito entre salas de actividades hacia salas de muda y hábitos higiénicos y salas de hábitos higiénicos, así como también sala de amamantamiento y bodegas de material didáctico, cuando sirvan directa y exclusivamente a dicha sala de actividades.
+
+g. Todos los cambios de nivel deberán estar destacados con color que contraste con el pavimento.
+
+7. Los locales escolares y complementarios deberán mantener en los recintos de uso de los párvulos y alumnos, excluidos los servicios higiénicos y patios, las siguientes temperaturas mínimas, en las zonas del país que se indican (NCh 1079), durante el tiempo de permanencia de los párvulos y alumnos, las que deberán lograrse idealmente mediante estrategias pasivas, o en su defecto con sistemas de refrigeración y/o calefacción, con ductos de evacuación de gases al exterior, o lo que establezcan los organismos competentes en la materia y provisto de elementos de protección contra las quemaduras:
 
 a. Educación Parvularia, una temperatura de 15º C en las zonas: andina, central interior del río Maipo al sur, sur litoral, sur interior y sur extrema.
 
@@ -800,9 +486,11 @@ b. En el Jardín Infantil, la sala de hábitos higiénicos deberá ubicarse adya
 
 c. Las cerraduras de las puertas de la sala de mudas y de la sala de hábitos higiénicos deberán ser de libre paso y sin seguros.
 
-d. Las puertas de las salas de actividades del nivel de Educación Parvularia deberán contar con un sistema de sujeción, ubicado desde una altura de 1,3 m. sobre el nivel de piso terminado, que permita mantenerlas abiertas en situaciones de evacuación y otras.
+d. Las puertas de los recintos docentes del nivel de Educación Parvularia deberán contar con un sistema de sujeción, ubicado desde una altura de 1,3 m. sobre el nivel de piso terminado, que permita mantenerlas abiertas en situaciones de evacuación y otras.
 
 e. En el Hogar Estudiantil, el recinto para lavar ropa deberá disponer de un lavarropa y una tabla de planchado hasta 40 alumnos. Por cada 40 alumnos de incremento, se deberá contar con un lavarropa y una tabla de planchado adicionales, con un máximo exigible de cuatro.
+
+f. Aquellos recintos donde se atienda o trabaje con lactantes y párvulos, deberán contar con ventanas o mirillas en puertas que permitan visualizar su interior desde circulaciones adyacentes o a través de otros recintos docentes.
 
 9. Las aulas, laboratorios y talleres de los locales escolares deberán contar con un pizarrón de superficie mínima de 3 m2 y una cartelera de superficie mínima de 0,80 m2. La ubicación del pizarrón deberá cumplir las siguientes exigencias:
 
@@ -812,15 +500,17 @@ b. El ángulo de visión del alumno sentado frente al pizarrón deberá ser de 3
 
 c. El pizarrón deberá ubicarse en un muro donde no exista ventana.
 
-Las salas de actividades de los Jardines Infantiles deberán contar con un pizarrón de una superficie mínima de 3 m2.
+Inciso eliminado.
 
 10. En los locales educacionales los recintos que se indican, de uso de párvulos y alumnos, deberán cumplir los siguientes requisitos de luminosidad y ventilación :
 
 a. La cantidad mínima de luz deberá ser equivalente a 180 lux, medida en la cubierta de la mesa de trabajo ubicada en el sector menos iluminado del recinto, con excepción de los recintos destinados a servicios higiénicos, comedor o dormitorio. Si la cantidad de luz indicada no se puede lograr por medio de la luz natural, se deberá cumplir el mínimo establecido complementándola con luz artificial.
 
-b. La cantidad mínima de luz en comedores, dormitorios y servicios higiénicos será de 120 lux.
+b. La cantidad mínima de luz en comedores, dormitorios y servicios higiénicos será de 120 lux. Cuando la cantidad de luz indicada para las salas de mudas y hábitos higiénicos de uso de lactantes y salas de hábitos higiénicos de uso de párvulos, no pueda lograrse por medio de luz natural, se podrá cumplir con el mínimo exigido con luz artificial. Del mismo modo, cuando la ventilación natural de dichos recintos no sea posible, se deberá disponer de un sistema mecánico de ventilación que garantice la renovación total del cubo de aire, equivalente a 2 veces por hora.
 
-c. Todos los recintos del hogar estudiantil deberán disponer de luz artificial. Si la ventilación natural no se puede lograr por los vanos, aun cuando se cumpla con la tabla de ventilación del artículo 117, del Capítulo IX, de la Ordenanza General de Urbanismo y Construcciones, se deberá recurrir a un sistema mecánico que permita obtener una renovación total del cubo del aire, equivalente a dos veces por hora
+c. Todos los recintos del hogar estudiantil deberán disponer de luz artificial. Si la ventilación natural no se puede lograr por los vanos, aun cuando se cumpla con la tabla de ventilación del artículo 117, del Capítulo IX, de la Ordenanza General de Urbanismo y Construcciones, se deberá recurrir a un sistema mecánico que permita obtener una renovación total del cubo del aire, equivalente a dos veces por hora.
+
+11. Para sala cuna y jardín infantil podrán implementarse antepechos vidriados, siempre y cuando dicho material cuente con la resistencia exigida de conformidad a la normativa vigente.
 
 #### Artículo 10º
 
