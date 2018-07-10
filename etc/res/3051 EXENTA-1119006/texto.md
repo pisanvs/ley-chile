@@ -82,7 +82,7 @@ Por su parte, las Seremi podrán autorizar la postulación de proyectos del Tít
 
 7. Las comunidades de copropietarios que cumplan con los requisitos y antecedentes enunciados en los resuelvos 2 y 5 de la presente resolución exenta, serán certificadas por la Seremi como copropiedades objeto del presente llamado, mediante resolución, habilitándolas para la postulación al subsidio. Excepcionalmente, la Seremi podrá certificar copropiedades que no cumplan con los requisitos señalados en las letras d) y/o g) del resuelvo 5 de la presente resolución exenta.
 
-Las copropiedades certificadas durante 2017, que no hubiesen resultado seleccionadas en virtud de los Llamados regulados por las resoluciones exentas N° 1.538 (V. y U.), de 2017, y sus modificaciones, y N° 637 (V. y U.), de 2018, y sus modificaciones, podrán postular al presente llamado sin necesidad de presentar un nuevo Expediente.
+Las copropiedades certificadas en los años 2016 y 2017, que no hubiesen resultado seleccionadas en virtud de los llamados regulados por las resoluciones exentas Nº 1.538 (V. y U.), de 2017, y sus modificaciones, y Nº 637 (V. y U.), de 2018, y sus modificaciones, podrán postular al presente llamado sin necesidad de presentar un nuevo Expediente.
 
 8. Delégase en los respectivos Secretarios Regionales Ministeriales de Vivienda y Urbanismo la facultad de seleccionar los proyectos que postulen al presente llamado, mediante resoluciones, a partir del proceso dispuesto para ese fin.
 
@@ -196,7 +196,7 @@ c) Para plagas: Se podrá adicionar hasta 5 UF por beneficiario, para el control
 
 d) Para situaciones de riesgo: En casos de extrema necesidad, relativos a fallas graves en redes de servicios u otras situaciones que representen un riesgo manifiesto para las familias, la Seremi podrá autorizar al Serviu, en virtud de un informe técnico que lo fundamente, a incrementar el subsidio en hasta 50 UF por beneficiario, para la intervención de redes de servicios, tratamiento de suelos, reparaciones estructurales, muros de contención y refuerzo de taludes, entre otros.
 
-e) Para Eficiencia Energética: Se podrá adicionar hasta 50 UF por beneficiario, cuando se incluyan partidas de eficiencia energética y/o de acondicionamiento térmico. Únicamente podrán optar a este incremento las copropiedades certificadas durante 2017 que hayan sido autorizadas expresamente en la respectiva resolución que declara a la copropiedad objeto del llamado.
+e) Para Eficiencia Energética: Se podrán adicionar hasta 50 UF por beneficiario, cuando se incluyan partidas de eficiencia energética y/o de acondicionamiento térmico. Únicamente podrán optar a este incremento las copropiedades certificadas previo a la publicación de este llamado a postulación, que hayan sido autorizadas expresamente en la respectiva resolución que declara a la copropiedad objeto del llamado.
 
 f) Para Regularización: En copropiedades cuyas unidades de vivienda posean ampliaciones sin permiso de edificación ni recepción definitiva, el subsidio se podrá incrementar en hasta 25 UF con el fin de realizar obras de adecuación, tales como muros cortafuegos, normalización de la red eléctrica y sanitaria, y/o para la demolición de ampliaciones irregulares, dirigidas a dar cumplimiento a la normativa vigente. El financiamiento se aplicará solo a las viviendas que deban ser regularizadas y dichas obras deberán ser consideradas dentro del proyecto de ampliación postulado colectivamente.
 
