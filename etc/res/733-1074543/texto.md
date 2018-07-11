@@ -18,7 +18,7 @@ Delégase en el Jefe/a de la División de Planificación y Presupuesto la facult
 
 a. Los convenios que celebre esta Cartera de Estado con instituciones en el marco del Fondo de Investigación Educativa, con la participación de expertos del Fondo de Desarrollo de Capacidades para el Estudio e Investigaciones Pedagógicas.
 
-b. Los convenios que celebre esta Cartera de Estado con sostenedores municipales en el marco del Fondo de Apoyo a la Educación Pública.
+b. Eliminada.
 
 #### Artículo segundo
 
