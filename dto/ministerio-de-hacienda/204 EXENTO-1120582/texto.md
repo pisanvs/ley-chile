@@ -22,8 +22,6 @@ Decreto:
 
 Que, para la semana que comienza el día jueves 12 de julio de 2018, determínanse las referidas tasas de conformidad a los siguientes valores:
 
-.
-
 4° Publíquese en la web institucional del Ministerio de Hacienda, a través de un informe técnico lo decretado a través de este acto, de conformidad a lo dispuesto en el artículo 5° de la Ley N° 20.765.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Felipe Larraín Bascuñán, Ministro de Hacienda.
