@@ -502,19 +502,17 @@ de la Dirección de Servicio.
 
 d) DEROGADO.
 
-e) Visar los certificados de competencia
+e) Visar los certificados de idoneidad psicológica
 
-laboral de las personas que postulan
+de las personas que postulan por primera vez al
 
-por primera vez al cargo de asistente
+cargo de asistente de la educación, con el fin
 
-de educación, con el fin de acreditar
+de acreditar esa idoneidad en conformidad al
 
-la idoneidad psicológica de conformidad
+#### Artículo 1
 
-a la ley 20.244/(art. 1º Nº3 letra
-
-c).
+Nº 3 letra c) de la ley 20.244.
 
 f) Contratar reemplazos por periodos
 
@@ -652,7 +650,7 @@ atingentes al personal de la
 
 Dirección de Servicio.
 
-8º JEFA DEL DEPARTAMENTO DE FORMACIÓN Y CAPACITACIÓN
+8º Jefe (a) del Departamento de Formación y Capacitación
 
 a) En base a los procedimientos
 
