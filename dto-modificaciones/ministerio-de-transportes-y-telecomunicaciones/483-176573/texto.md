@@ -84,9 +84,11 @@ Planta Transmisora.
 
 Villarrica, IX Región.
 
-- Coordenadas Geográficas : 39°17'24" Latitud Sur;
+- Coordenadas Geográficas : 39º18'03,7" Latitud Sur;
 
-72°13'22" Longitud Oeste.
+72º13'51,1" Longitud Oeste.
+
+datum WGS 84
 
 4.- La publicación del presente decreto de modificación en el Diario Oficial, deberá efectuarse dentro del plazo de 30 días hábiles, contados desde la notificación del decreto a la concesionaria. La no publicación de éste dentro del plazo indicado, producirá la extinción de dicho acto administrativo por el solo ministerio de la ley sin necesidad de declaración alguna.
 
