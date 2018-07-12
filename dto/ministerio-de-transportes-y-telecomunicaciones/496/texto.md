@@ -98,9 +98,11 @@ radiante : Calle Ecuador Nº 173, Huépil,
 
 comuna de Tucapel, VIII Región.
 
-- Coordenadas geográficas : 37°14'13" Latitud Sur
+- Coordenadas geográficas : 37º 14' 27'' Latitud Sur
 
-71°56'30" Longitud Oeste.
+71º 56' 40'' Longitud Oeste.
+
+datum WGS 84
 
 4.- Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones de la ley, reglamentos, normas técnicas y sus modificaciones, en lo que le sean aplicables.
 
