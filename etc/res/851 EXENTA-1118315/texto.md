@@ -30,17 +30,19 @@ Considerando:
 
 Resuelvo:
 
+> **Nota.** El numeral 6 de la Resolución 1543 Exenta, Agricultura, publicada el 13.07.2018, deroga la presente norma a partir de la tercera generación de la temporada 2017-2018.
+
 1. Reemplácese el área reglamentada por Lobesia botrana en la Región Metropolitana, dispuesta mediante resolución exenta N° 185, de 2018, del Director Regional Metropolitano, por la siguiente.
 
 2. Establézcase como área reglamentada de supresión y contención para Lobesia botrana en la Región Metropolitana, el área definida por 4 polígonos:
 
-El polígono N° 1 incorpora parcial o totalmente a las comunas de Santiago, Cerrillos, Cerro Navia, Conchalí, El Bosque, Estación Central, La Cisterna, La Florida, La Granja, La Pintana, La Reina, Lo Espejo, Lo Prado, Macul, Ñuñoa, Pedro Aguirre Cerda, Peñalolén, Providencia, Quinta Normal, Recoleta, Renca, San Joaquín, San Miguel, San Ramón, Independencia, Puente Alto, Las Condes, Vitacura, Quilicura, Huechuraba, Maipú, Pudahuel, San Bernardo, Tiltil, Lampa, Colina, Lo Barnechea, San José de Maipo, Pirque, Paine, Buin, Melipilla, San Pedro, María Pinto, Curacaví, Peñaflor, Calera de Tango, Padre Hurtado, El Monte, Talagante e Isla de Maipo. El polígono está determinado por 300 vértices.
+El Polígono Nº 1 incorpora parcial o totalmente a las comunas de Santiago, Cerrillos, Cerro Navia, Conchalí, El Bosque, Estación Central, La Cisterna, La Florida, La Granja, La Pintana, La Reina, Lo Espejo, Lo Prado, Macul, Ñuñoa, Pedro Aguirre Cerda, Peñalolén, Providencia, Quinta Normal, Recoleta, Renca, San Joaquín, San Miguel, San Ramón, Independencia, Puente Alto, Las Condes, Vitacura, Quilicura, Huechuraba, Maipú, Pudahuel, San Bernardo, Til Til, Lampa, Colina, Lo Barnechea, San José de Maipo, Pirque, Paine, Buin, Melipilla, San Pedro, María Pinto, Curacaví, Peñaflor, Calera de Tango, Padre Hurtado, El Monte, Talagante e Isla de Maipo. El polígono está determinado por 336 vértices.
 
-El polígono N° 2 incorpora parcialmente a la comuna de Melipilla. El polígono está determinado por 14 vértices.
+El Polígono Nº 2 incorpora parcialmente a la comuna de Melipilla. El poligono está determinado por 14 vértices.
 
-El polígono N° 3 incorpora parcialmente a la comuna de San Pedro. El polígono está determinado por 44 vértices.
+El Polígono Nº 3 incorpora parcialmente a la comuna de San Pedro. El polígono está determinado por 44 vértices.
 
-El polígono N° 4 incorpora parcialmente a las comunas de Alhué y San Pedro. El polígono está determinado por 39 vértices.
+El Polígono Nº 4 incorpora parcialmente a la comuna de Alhué y San Pedro. El polígono está determinado por 39 vértices.
 
 3. Establézcanse como coordenadas de los polígonos indicados los dispuestos mediante resolución exenta N° 786, de 19 de abril de 2018, que señala las coordenadas UTM de cada uno de los polígonos de la presente resolución.
 
