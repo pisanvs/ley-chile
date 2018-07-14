@@ -18,15 +18,19 @@ El Art. 2°, N° 2, letra
 
 Resolución:
 
-Asígnase a contar de la fecha que se indica al siguiente ahogado, para que ejerza la función de Abogado del Servicio de Tesorerías, con jurisdicción en las localidades que se indican:
+Asígnase a contar de la fecha que se indica al siguiente abogado, para que ejerza la función de Abogado del Servicio de Tesorerías, con jurisdicción en las localidades que se indican:
 
 Nombre : Gissela Escilda Cáceres Contreras
 
 RUT : 13.029.485-5
 
-Ubicación : Tercera Región - Provincial de Vallenar -Sección Unidades
+Ubicación : Tercera Región - Provincial de
 
-de Cobro l - Unidad Operativa de Cobro 1
+Vallenar -Sección Unidades
+
+de Cobro l - Unidad Operativa de
+
+Cobro 1
 
 Calidad Jurídica : Contrata
 
@@ -40,9 +44,11 @@ Función : Abogado
 
 Fecha inicio : 11/06/2018
 
-Jurisdicción : Todas las comunas de la Región de Atacama, con asiento en
+Jurisdicción : Todas las comunas de la Región de
 
-la Tesorería Provincial de Vallenar
+Atacama, con asiento en la Tesorería
+
+Provincial de Vallenar
 
 Establécese la subrogancia recíproca en caso de ausencia o impedimento, por cualquier causa, entre los Abogados del Servicio de Tesorerías, dependientes de la Tesorería Provincial de Vallenar.
 
