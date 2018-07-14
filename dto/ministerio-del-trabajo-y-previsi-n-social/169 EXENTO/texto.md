@@ -38,7 +38,7 @@ d) Un representante de los afiliados designado por la Asociación de Funcionario
 
 e) Dos representantes de los afiliados de acuerdo al art. 4º de este Reglamento.
 
-El Jefe de Servicio actuará como secretario del Consejo, teniendo derecho a voz, pero no a voto.
+El Jefe de Servicio actuará como secretario del Consejo, teniendo derecho a voz, pero no a voto. El Consejo tendrá la facultad para convocar a las sesiones, a aquellos asesores que sean necesarios para ilustrarlo en materias específicas que sean sometidas a su conocimiento.
 
 #### Artículo 3º
 
@@ -54,7 +54,7 @@ Los representantes titulares y suplentes de los afiliados en el Consejo Administ
 
 #### Artículo 5º
 
-El Consejo Administrativo sesionará en forma ordinaria, mensualmente, en el día y hora que fijen sus miembros en la primera sesión del año, y se citará por escrito por el Jefe del Servicio, a lo menos con 10 días hábiles de anticipación.
+El Consejo Administrativo sesionará en forma ordinaria, mensualmente, en el día y hora que fijen sus miembros en la primera sesión del año, y se citará por escrito por el Jefe del Servicio, a lo menos con 5 días hábiles de anticipación.
 
 El Consejo Administrativo sesionará en forma extraordinaria cada vez que lo convoque el Presidente, de oficio o a petición escrita de la mayoría de sus miembros o por acuerdo del Consejo. La citación a esta reunión extraordinaria se hará a lo menos con 10 días hábiles de anticipación.
 
@@ -66,13 +66,13 @@ Del financiamiento
 
 El Servicio de Bienestar obtendrá su financiamiento a través de los siguientes recursos:
 
-a) Con una cuota de incorporación, que deberán pagar los afiliados por una sola vez descontada por planilla, de hasta el 2% de su remuneración mensual imponible para pensiones o de su pensión de jubilación, porcentaje que fijará anualmente el Consejo Administrativo;
+a) Con una cuota de incorporación, que deberán pagar los afiliados por una sola vez descontada por planilla, de hasta el 3% de su remuneración mensual imponible para pensiones o de su pensión de jubilación, porcentaje que fijará anualmente el Consejo Administrativo;
 
 b) Con los aportes que anualmente se consulten en el presupuesto de la Dirección General de Movilización Nacional y que ésta aportará conforme a las normas legales, reglamentarias y estatutarias vigentes;
 
-c) Con el aporte mensual de sus afiliados en servicio activo de hasta el 1.5% de sus remuneraciones imponibles para pensiones, descontadas por planilla, porcentaje que fijará anualmente el Consejo Administrativo;
+c) Con el aporte mensual de sus afiliados en servicio activo de hasta el 3% de sus remuneraciones imponibles para pensiones, descontadas por planilla, porcentaje que fijará anualmente el Consejo Administrativo;
 
-d) Con el aporte mensual de sus afiliados jubilados de hasta el 1.5% de sus pensiones, porcentaje que fijará anualmente el Consejo Administrativo;
+d) Con el aporte mensual de sus afiliados jubilados de hasta el 3% de sus pensiones, porcentaje que fijará anualmente el Consejo Administrativo;
 
 e) Con los intereses de los préstamos que otorgue el Servicio a sus afiliados;
 
@@ -84,7 +84,7 @@ h) Los demás bienes o recursos que obtengan a cualquier título.
 
 #### Artículo 7º
 
-Los fondos del Servicio serán depositados en cuentas corrientes subsidiarias de la cuenta única fiscal del BancoEstado y contra ellas podrán girar conjuntamente el Jefe del Servicio de Bienestar y el Jefe del Departamento de Recursos Humanos.
+Los fondos del Servicio serán depositados en cuenta única fiscal del Servicio de Bienestar y contra ellas podrán girar conjuntamente el Jefe del Servicio de Bienestar y el Jefe del Departamento de Recursos Humanos.
 
 En caso de ausencia o impedimento de los giradores mencionados en el inciso anterior, éstos serán reemplazados por los funcionarios que el Consejo Administrativo haya designado en calidad de suplente.
 
@@ -98,7 +98,7 @@ De los Beneficios Médicos
 
 #### Artículo 8º
 
-El Servicio podrá otorgar beneficios de carácter médico y odontológico a sus afiliados y causantes de asignación familiar, en la medida que sus recursos lo permitan. Toda solicitud de beneficio deberá hacerse por escrito dentro del plazo de 6 meses de brindada la prestación. Los beneficios se otorgarán por los siguientes conceptos:
+El Servicio podrá otorgar beneficios de carácter médico y odontológico a sus afiliados y causantes de asignación familiar, en la medida que sus recursos lo permitan. Toda solicitud de beneficio deberá hacerse por escrito dentro del plazo de 3 meses de brindada la prestación. Los beneficios se otorgarán por los siguientes conceptos:
 
 a) Atenciones médicas en consultas y a domicilio, interconsultas, juntas médicas y atenciones ambulatorias de urgencia;
 
@@ -130,7 +130,7 @@ a) Nacimiento:
 
 Se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuvieren afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
 
-b) Matrimonio:
+b) Matrimonio y acuerdo de unión civil:
 
 Se concederá una ayuda por matrimonio de los afiliados. Si ambos contrayentes estuvieran afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
 
@@ -140,11 +140,11 @@ Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus c
 
 En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
-- A la persona designada expresamente para tales efectos por el afiliado;
-
-- Al cónyuge;
+- A la persona designada expresamente para tales efectos por el afiliado en la solicitud de incorporación respectiva. En caso de cambio de beneficiario designado, el afiliado deberá solicitarlo por escrito, a través del formulario del Servicio de Bienestar;
 
 - A los hijos matrimoniales y no matrimoniales;
+
+- Al cónyuge o conviviente civil sobreviviente;
 
 - A los padres;
 
@@ -178,11 +178,11 @@ El monto de las ayudas contempladas en las letras a), b), c), d), e), f), g), e 
 
 #### Artículo 10º
 
-Para solicitar los beneficios señalados en las letras a), b), c), e), g) y h) del artículo anterior, el afiliado deberá presentar una solicitud de ayuda acompañada del certificado respectivo emitido por el Registro Civil o el establecimiento educacional, según corresponda, de acuerdo a formato establecido para el efecto; bastando en el caso del beneficio contemplado en la letra g), el solo mérito del Informe del Servicio de Bienestar Social.
+Para solicitar los beneficios señalados en el artículo anterior, deberán acompañarse documentos originales o fotocopias autorizadas por el Servicio de Bienestar, extendidos a nombre del afiliado o de sus cargas familiares, en los cuales se acredite el gasto incurrido.
 
 #### Artículo 11º
 
-El Servicio podrá financiar y celebrar la Navidad para los afiliados y sus cargas familiares, siempre que sus recursos presupuestarios lo permitan.
+El Servicio podrá financiar y celebrar la Navidad y las Fiestas Patrias para los afiliados y sus cargas familiares, siempre que sus recursos presupuestarios lo permitan.
 
 ### Párrafo III
 
@@ -200,7 +200,7 @@ c) Préstamos escolares: Se otorgarán una vez al año y estarán orientados a s
 
 d) Préstamos habitacionales: Destinados a la reparación o ampliación de la casa habitación de propiedad del afiliado y aporte a la adquisición de un bien raíz.
 
-El monto máximo de los préstamos antes señalados será determinado anualmente por el Consejo Administrativo y su reintegro deberá efectuarse en un plazo no superior a 16 meses.
+El monto máximo de los préstamos antes señalados será determinado anualmente por el Consejo Administrativo y su reintegro deberá efectuarse en un plazo no superior a 12 meses.
 
 Los plazos indicados en el inciso anterior podrán ser reducidos por el Consejo Administrativo a solicitud del afiliado, en cuyo caso los intereses correspondientes se devengarán hasta la fecha de los pagos respectivos.
 
@@ -208,9 +208,9 @@ Los plazos indicados en el inciso anterior podrán ser reducidos por el Consejo 
 
 Para conceder un préstamo el Consejo Administrativo deberá considerar, especialmente, las posibilidades de recuperación de los dineros prestados. Además, será requisito indispensable la constitución de la garantía de dos codeudores solidarios, que sean funcionarios de planta o a contrata de la Dirección General de Movilización Nacional y su solvencia será calificada por dicho Consejo Administrativo.
 
-En el caso de los afiliados del sector pasivo, los codeudores solidarios podrán ser afiliados al servicio de bienestar con una antigüedad no inferior a seis meses.
+En el caso de los afiliados del sector pasivo, los codeudores solidarios podrán ser afiliados al servicio de bienestar con una antigüedad no inferior a 3 meses.
 
-Para solicitar cualquier tipo de préstamo, el afiliado deberá tener por lo menos seis meses de afiliación ininterrumpida en el Servicio.
+Para solicitar cualquier tipo de préstamo, el afiliado deberá tener por lo menos 3 meses de afiliación ininterrumpida en el Servicio, salvo casos debidamente acreditados ante el Consejo.
 
 #### Artículo 14º
 
@@ -228,7 +228,7 @@ Disposiciones Generales
 
 #### Artículo 16º
 
-Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio o dentro de los plazos especiales establecidos en el presente Reglamento.
+Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva.
 
 #### Artículo 17º
 
@@ -238,7 +238,7 @@ Corresponderá al Consejo Administrativo determinar los procedimientos o los doc
 
 El derecho a solicitar los beneficios que concede el Servicio caducará luego de transcurridos diez meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos, salvo en el caso de los beneficios médicos.
 
-En el caso de los funcionarios que se acogen a jubilación, este plazo comenzará a regir desde la fecha en que se declare la calidad de tal, para los beneficios causados en el período comprendido entre esta fecha y la del cese de sus funciones.
+Inciso eliminado.
 
 ## Artículos transitorios
 
