@@ -200,13 +200,13 @@ Aquellos centros que a la fecha de publicación del presente programa, hubieren 
 
 . Se prohíbe el uso extra etiqueta de antiparasitarios administrados por inmersión.
 
-7.2.3 Los tratamientos antiparasitarios por inmersión deberán realizarse en sistemas cerrados (lona/compartimento estanco) y dentro de las ventanas de tratamiento oficial, las que serán establecidas por el Servicio y publicadas en su página web.
+7.2.3 Los tratamientos antiparasitarios por inmersión deberán realizarse en sistemas cerrados (lona/compartimento estanco) y dentro de las ventanas de tratamiento oficial, las que serán establecidas por el Servicio y publicadas en su página web. Los tratamientos antiparasitarios por inmersión realizados con peróxido de hidrógeno podrán ser ejecutados tanto dentro como fuera de una ventana de tratamiento oficial.
 
 7.2.4 La duración de los tratamientos antiparasitarios por inmersión en centros de cultivo no deberá superar los siete (7) días.
 
 7.2.5 Las ventanas de tratamientos antiparasitarios serán establecidas por el Servicio por AC y/o macrozona y diferenciadas por región y temporada.
 
-7.2.6 El Servicio podrá modificar las ventanas de tratamientos, frente a acuerdos sostenidos en reuniones de coordinación de las AC, en consideración a factores ambientales, logísticos u otro que pudiese afectar el resultado de la terapia.
+7.2.6 El Servicio podrá modificar las ventanas de tratamientos, frente a acuerdos sostenidos por la totalidad de los titulares de una Agrupación de Concesiones de Salmónidos o extender una ventana en curso frente a solicitudes de un centro de cultivo, en consideración a factores ambientales, logísticos u otro que pudiese afectar el resultado de la terapia.
 
 7.2.7 Con el objeto de evitar alzas predecibles de la carga parasitaria, el Servicio, previo informe técnico, evaluando las condiciones ambientales y epidemiológicas, podrá fijar la realización de tratamientos coordinados extraordinarios, en los que se determinarán las zonas, los centros y las condiciones del tratamiento.
 
@@ -252,11 +252,11 @@ e) Esquema de rotación de principios activos.
 
 . Un Informe de Fallas realizado por el Médico Veterinario de la empresa en el cual se indique la situación sanitaria del centro, las medidas de control implementadas y un análisis crítico de las eficacias obtenidas, según formato disponible en la página web del Servicio.
 
-7.4.3 Todo centro de cultivo de alta diseminación que sea categorizado como tal, tres (3) veces consecutivas, quedará afecto a la medida de cosecha inmediata de la totalidad de la biomasa presente en el centro de cultivo.
+7.4.3 Todo centro de cultivo de alta diseminación que sea categorizado como tal, tres (3) veces consecutivas, quedará afecto a la medida de cosecha inmediata de la totalidad de la biomasa presente en el centro de cultivo, debiendo enviar al Servicio su plan de cosecha en un plazo máximo de 48 horas posterior a la notificación.
 
 La aplicación de la referida medida, estará sujeta a un análisis de la evolución de la condición sanitaria del centro de cultivo.
 
-7.4.4 Aquellos centros de cultivo que durante un período máximo de 6 evaluaciones consecutivas, presenten 3 categorizaciones como centro de alta diseminación, quedarán sujetos a la medida de cosecha anticipada de un porcentaje de la biomasa infestada. La aplicación de la referida medida estará sujeta a un análisis de la evolución de la condición sanitaria del centro de cultivo.
+7.4.4 Aquellos centros de cultivo que durante un período máximo de 6 evaluaciones consecutivas, presenten 3 categorizaciones como centro de alta diseminación, quedarán sujetos a la medida de cosecha anticipada de un porcentaje de la biomasa infestada, debiendo enviar al Servicio su plan de cosecha en un plazo máximo de 48 horas posterior a la notificación. La aplicación de la referida medida estará sujeta a un análisis de la evolución de la condición sanitaria del centro de cultivo.
 
 7.4.5 Los centros de cultivo podrán realizar limpieza in situ de redes aun habiéndose constatado la presencia de Caligus rogercresseyi, o encontrarse en alguna de las categorías establecidas por el presente Programa.
 
@@ -276,7 +276,7 @@ b) Caso confirmado: Todo centro confirmado deberá presentar un plan de acción 
 
 7.5 Consideraciones en el uso de acopios
 
-7,5.1 Los centros de cultivo de alta vigilancia, que se encuentren en proceso de cosecha, estén categorizados como centros de alta diseminación y cuyo destino sea algún centro de acopio, deberán adoptar medidas de reducción de cargas parasitarias a fin de evitar la diseminación del parásito.
+7.5.1 Los centros de cultivo de alta vigilancia, que se encuentren en proceso de cosecha, estén categorizados como centros de alta diseminación y cuyo destino sea algún centro de acopio, deberán adoptar medidas de reducción de cargas parasitarias a fin de evitar la diseminación del parásito.
 
 7.5.2 Las medidas de reducción de cargas parasitarias deberán ser informadas a través del envío de un correo electrónico a tratamientocaligus@sernapesca.cl.
 
@@ -288,11 +288,13 @@ b) Caso confirmado: Todo centro confirmado deberá presentar un plan de acción 
 
 7.6.2 Los centros de cultivo que realicen tratamientos no farmacológicos podrán ser excluidos de la notificación como centro de alta diseminación en la siguiente evaluación, dependiendo de la eficacia obtenida en el tratamiento.
 
-7.6.3 Los tratamientos no farmacológicos deberán ser previamente informados al Servicio, con una anticipación de al menos tres (3) días hábiles previos a la fecha de realización, al correo electrónico tratamientocaligus©sernapesca.cl.
+7.6.3 Para la rotación de principios activos, podrán ser considerados tratamientos no farmacológicos, previa evaluación y autorización del Servicio.
+
+7.6.4 Los tratamientos no farmacológicos deberán ser previamente informados al Servicio, con una anticipación de al menos tres (3) días hábiles previos a la fecha de realización, al correo electrónico tratamientocaligus©sernapesca.cl.
 
 8. Cualquier Agrupación de Concesiones podrá acordar, por la unanimidad de sus integrantes, medidas específicas de control de Caligidosis, fuera del marco del presente PSEVC Caligidosis, mediante el otorgamiento de un Plan de Manejo Sanitario, conforme a lo establecido en el artículo 58 I del DS Nº 319, citado en Visto, las cuales serán sometidas a una evaluación técnica y jurídica por parte del Servicio, quien tendrá amplias facultades para acogerlas o rechazarlas por resolución.
 
-> **Nota.** El literal b) del Artículo primero de la Resolución 4151 Exenta, Economía, publicada el 29.09.2017, modifica la presente norma en el sentido de incorporar en el numeral 5.1 como centro de Alta Vigilancia a la Región de Magallanes y la Antártica Chilena. Asimismo, el lietral c) dispone eliminar en la letra b) del numeral 5.2 como centro de baja vigilancia al centro cultivado con las especies Salmón del Atlántico (Salmo salar) o Trucha arcoíris (Oncorhynchus mykiss), ubicado en alguna de las agrupaciones de concesiones de la Región de Magallanes y la Antártica Chilen
+> **Nota.** El literal b) del Artículo primero de la Resolución 4151 Exenta, Economía, publicada el 29.09.2017, modifica la presente norma en el sentido de incorporar en el numeral 5.1 como centro de Alta Vigilancia a la Región de Magallanes y la Antártica Chilena. Asimismo, el literal c), dispone eliminar en la letra b) del numeral 5.2 como centro de baja vigilancia al centro cultivado con las especies Salmón del Atlántico (Salmo salar) o Trucha arcoíris (Oncorhynchus mykiss), ubicado en alguna de las agrupaciones de concesiones de la Región de Magallanes y la Antártica.
 
 #### Artículo segundo
 
