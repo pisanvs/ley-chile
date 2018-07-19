@@ -32,8 +32,6 @@ Resolución:
 
 2. Complementa resolución exenta Nº 13.827 (V. y U.), de 2017, en el sentido de asignar recursos por concepto de aporte GORE a los siguientes proyectos de la Región de Atacama, seleccionados en su resuelvo 2., según el siguiente detalle:
 
-.
-
 3. Apruébase la nómina de proyectos seleccionados con su respectivo financiamiento total, para el otorgamiento de subsidios del programa habitacional Fondo Solidario de Elección de Vivienda en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos, en las Regiones de Antofagasta, Coquimbo, O'Higgins y Biobío, correspondiente al proceso de selección cuyo cierre de postulación se efectuó el día 23 de noviembre de 2017, del llamado efectuado por resolución exenta Nº 10.166 (V. y U.), de 2017. El desglose de este monto, se detalla en los resuelvos 4. y 5. subsiguientes:
 
 .
