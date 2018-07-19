@@ -1,0 +1,5 @@
+IMPARTE INSTRUCCIONES RELATIVAS AL ARTÍCULO 8 DE LA CONVENCIÓN PARA COMBATIR EL COHECHO DE FUNCIONARIOS PÚBLICOS EXTRANJEROS EN TRANSACCIONES COMERCIALES INTERNACIONALES DE LA ORGANIZACIÓN PARA LA COOPERACIÓN Y EL DESARROLLO ECONÓMICO
+
+Extracto de Circular del Servicio de Impuestos Internos N° 38, del 9 de julio de 2018, que Imparte instrucciones relativas al artículo 8 de la Convención para Combatir el Cohecho de Funcionarios Públicos Extranjeros en Transacciones Comerciales Internacionales de la Organización para la Cooperación y el Desarrollo Económico. Deroga circular N° 56, de 08.11.2007, y su modificación efectuada mediante circular 28, de 25.04.2014.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en julio de 2018.
