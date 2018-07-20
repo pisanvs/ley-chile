@@ -1,0 +1,5 @@
+COMPLEMENTA CIRCULAR N° 54, DEL 2 DE OCTUBRE DE 2009, EXTENDIENDO EL TRATAMIENTO TRIBUTARIO CONTENIDO EN ELLA, A LOS PAÑALES QUE PRESENTEN FALLAS O DETERIORO QUE DIFICULTEN O HAGAN IMPOSIBLE SU COMERCIALIZACIÓN
+
+Extracto de circular del Servicio de Impuestos Internos N° 39, de fecha 13 de julio de 2018, que complementa circular N° 54, del 2 de octubre de 2009, extendiendo el tratamiento tributario contenido en ella, a la entrega gratuita de pañales defectuosos para personas, que hayan perdido su valor comercial cuando la institución sin fines de lucro que los recibe los destine a la utilización y consumo por personas de escasos recursos o en situación de vulnerabilidad.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en julio de 2018.
