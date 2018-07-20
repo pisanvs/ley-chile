@@ -12,7 +12,9 @@ Compleméntanse en la forma que se señala las materias que pueden ser suscritas
 
 a) Fijación del Calendario Escolar Nacional;
 
-b) Denominación de Establecimientos Educacionales y de Bibliotecas Públicas con nombres de personas. c) Fijación de derechos de matrícula y derechos de escolaridad en establecimientos educacionales fiscales y particulares subvencionados de educación media;
+b) Denominación de Establecimientos Educacionales y de Bibliotecas Públicas con nombres de personas.
+
+c) Fijación de derechos de matrícula y derechos de escolaridad en establecimientos educacionales fiscales y particulares subvencionados de educación media;
 
 d) Fijación del monto de alimentación e internado para establecimientos educacionales subvencionados;
 
@@ -22,7 +24,7 @@ f) Designación de integrantes del Consejo Superior de Ciencias y el Consejo Sup
 
 g) Designación de directores de la Sociedad Constructora de Establecimientos Educacionales;
 
-h) Designación de representantes ante el Consejo de Monumentos Nacionales;
+h) Derogado;
 
 i) Aprobación de convenios en que se designan Consejos Asesores en establecimientos educacionales técnico-profesionales;
 

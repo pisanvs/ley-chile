@@ -322,7 +322,7 @@ a los Comandantes en Jefe de las Fuerzas Armadas, de conformidad al artículo 22
 
 3. Autorización y revocación del reconocimiento oficial y eliminación del Registro de Centros de Formación Técnica e Institutos Profesionales y Universidades.
 
-4. Declaración de Monumentos Nacionales de conformidad con la ley Nº 17.288.
+4. Derogado.
 
 ### XI. MINISTERIO DEL TRABAJO Y PREVISION SOCIAL
 
@@ -409,6 +409,12 @@ a los Comandantes en Jefe de las Fuerzas Armadas, de conformidad al artículo 22
 ### XVI. MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES
 
 1. Los que fijen los montos de los ingresos adicionales que podrán percibir los directores de cada empresa portuaria, de conformidad con lo previsto en el artículo 52 de la ley Nº 19.542, y las condiciones que deben cumplirse para su pago, así como las metas establecidas para ello.
+
+### XVII. MINISTERIO DE LAS CULTURAS, LAS ARTES Y EL PATRIMONIO
+
+1. Declaración de Monumentos Nacionales de conformidad con la ley Nº 17.288.
+
+2. Designación de representantes ante el Consejo de Monumentos Nacionales.
 
 > **Nota.** Los Nos. 1 y 3 del DTO 217, Bienes Nacionales, publicado el 05.12.2001, modificaron errónemante el numeral XV de la presente norma, debiendo referirse al numeral XIV.
 
