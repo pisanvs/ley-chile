@@ -1,0 +1,3 @@
+DESIGNA SECRETARIOS TITULAR Y SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA SERIE CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE SANTIAGO
+
+Por resolución Ex. SII N° 2.896, de 17 de julio de 2018, se designó a don Carlos Humberto Bascur Palacios, fiscalizador tasador, RUT Nº 8.748.290-1, en la calidad de Secretario Titular y a doña Camila Fernanda Morales Pulgar, fiscalizador tasador, RUT Nº 16.361.250-K, en la calidad de Secretario Suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Santiago.
