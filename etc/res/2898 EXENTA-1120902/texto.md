@@ -1,0 +1,3 @@
+DESIGNA SECRETARIOS TITULAR Y SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE CONCEPCIÓN
+
+Por resolución Ex. SII N° 2.898, de 17 de julio de 2018, se designó a doña Loren Andrea Carolina Ugalde Jaque, RUT Nº 13.507.336-9, en la calidad de Secretario Titular y a doña Alejandra Betsabé Faúndez Contreras, RUT Nº 13.306.211-4, en la calidad de Secretario Suplente, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Concepción.
