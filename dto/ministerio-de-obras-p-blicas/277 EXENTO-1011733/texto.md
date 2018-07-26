@@ -136,6 +136,8 @@ TALCA:
 
 . El tramo urbano de la Ruta K-511, desde la Ruta 5 a la Ruta K-55, a través de: Av. Batalla de Lircay y Av. San Valentín.
 
+El tramo urbano de la Ruta K-45, desde Ruta 5 hasta el límite urbano oriente.
+
 CAUQUENES:
 
 . El sistema vial urbano que interconecta la Ruta 128 y la Ruta M-50, desde el límite urbano Oriente hasta el límite urbano Norte, a través de Camino a Parral, Maipú, Avenida Sótero del Río Gundián, Bombero Venegas, Luis Manríquez y Camino a Chanco.
@@ -146,7 +148,19 @@ CURICÓ:
 
 . El tramo urbano de la Ruta J-615, desde la Ruta 5 hasta el límite urbano oriente, a través de: Camino a Zapallar.
 
-ELIMINADO
+LINARES:
+
+- El Sistema Vial que interconecta la Ruta L-32 con la Ruta L-11, a través de: Ruta L-32, Avenida Aníbal León Bustos, Avenida Exterior Norte (Circunvalación Norte a Linares) y Avenida Arturo Prat (Ruta L-11), desde el límite urbano poniente hasta el límite urbano nororiente.
+
+- El Sistema Vial que interconecta las Rutas L-469, L-45, L-415 y L-419, a través de:
+
+. El tramo Urbano Ruta L-469 y Camino San Antonio, desde el límite urbano sur al límite urbano oriente.
+
+. El tramo urbano de la Ruta L-415 desde límite urbano norte hasta su intersección con Camino a San Antonio.
+
+. El tramo urbano de la Ruta L-419 a través de Camino a San Víctor Álamos, Camino Santa María, desde el límite urbano nororiente hasta su intersección con Camino a San Antonio.
+
+- El tramo urbano de la Ruta L-240, desde el límite urbano nor-poniente hasta el límite urbano poniente.
 
 4º Declárense Caminos Públicos en las áreas urbanas de las siguientes Ciudades, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
