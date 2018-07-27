@@ -22,7 +22,7 @@ Fíjase la siguiente norma técnica para el uso de la banda de frecuencias 5.725
 
 #### Artículo 1º
 
-Destínase la banda de frecuencias 5.725 - 5.850 MHz para la operación de equipos de radiocomunicación del servicio fijo, que se autorice mediante concesiones de servicios públicos o intermedios de telecomunicaciones, según sea solicitado.
+Destínase la banda de frecuencias 5.725 - 5.850 MHz para la operación de equipos de radiocomunicación del servicio fijo, que se autorice mediante concesiones de servicios públicos o intermedios de telecomunicaciones y permisos de servicios limitados de telecomunicaciones, según sea solicitado.
 
 #### Artículo 2º
 
@@ -54,9 +54,11 @@ Sin perjuicio de lo señalado en la letra a) del artículo precedente, las trans
 
 Las concesionarias que utilicen la banda de frecuencias 5.725 - 5.850 MHz, la compartirán sin reclamar protección contra interferencia que produzcan otros usuarios de esta banda, debidamente autorizados, y las aplicaciones industriales, científicas y médicas.
 
+> **Nota.** El numeral 2° del artículo único de la Resolución 1387 Exenta, Transportes, publicada el 27.07.2018, modifica la presente norma en el sentido de reemplazar donde dice "concesiones", por "concesiones y permisos". Sin embargo no fue posible realizar esta modificación, por no encontrarse la palabra "concesiones" en el texto.
+
 #### Artículo 5º
 
-En caso de eventuales interferencias entre equipos de radiocomunicación autorizados al amparo de la presente resolución, las respectivas concesionarias deberán coordinarse, directamente entre ellas, para efectos de eliminarlas, informando del resultado a la Subsecretaría de Telecomunicaciones.
+En caso de eventuales interferencias entre equipos de radiocomunicación autorizados al amparo de la presente resolución, las respectivas concesionarias y permisionarias deberán coordinarse, directamente entre ellas, para efectos de eliminarlas, informando del resultado a la Subsecretaría de Telecomunicaciones.
 
 #### Artículo 6º
 
@@ -68,7 +70,7 @@ También podrá emplearse la banda 5.725-5.850 MHz para la operación de equipos
 
 #### Artículo 8º
 
-Lo dispuesto en la presente norma técnica es sin perjuicio de las disposiciones contenidas en la resolución exenta Nº 144, de 1979, modificada por resolución exenta Nº 575, de 2000, ambas de la Subsecretaría de Telecomunicaciones, que regula el uso de aparatos de telecomunicaciones de corto alcance.
+Lo dispuesto en la presente norma técnica es sin perjuicio de las disposiciones contenidas en la resolución exenta N° 1.985, de 2017, que regula el uso de equipos de alcance reducido.
 
 Anótese y publíquese en el Diario Oficial.- Christian Nicolai Orellana, Subsecretario de Telecomunicaciones.
 
