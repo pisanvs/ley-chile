@@ -1748,11 +1748,11 @@ Derogado.
 
 #### Artículo 29
 
-Los usos de suelo permitidos y/o restringidos en el territorio comunal, y su reglamentación, son los indicados en el Capítulo IV de la presente Ordenanza.
+Los usos de suelo permitidos o prohibidos en el territorio comunal, son los indicados en el Capítulo IV de la presente Ordenanza.
 
 #### Artículo 30
 
-La ubicación, el emplazamiento, los controles de molestia y peligrosidad, así como las demás características de los locales en que se desarrollan las actividades de los usos permitidos y/o restringidos, se regirán por lo dispuesto en la Ley General de Urbanismo y Construcciones y su Ordenanza General y por las normas contenidas en la presente Ordenanza.
+La ubicación, el emplazamiento, los controles de molestia y peligrosidad de los locales en que se desarrollan las actividades de los usos permitidos, se regirán por lo dispuesto en la Ley General de Urbanismo y Construcciones y su Ordenanza General y por las normas contenidas en la presente Ordenanza.
 
 #### Artículo 31
 
@@ -1762,11 +1762,11 @@ Dicha verificación, se practicará atendiendo a los usos de suelo, que para cad
 
 #### Artículo 32
 
-La clasificación de la vía y/o el ancho de calle que se fija como condición para autorizar los Usos de Suelo, debe cumplirse en todo el largo de la cuadra en que se emplace el predio. Esta calle deberá estar materializada y conectada con otra vía existente cuyo ancho de calzada sea igual o superior.
+Derogado.
 
 #### Artículo 33
 
-Cuando un predio enfrente dos calles de distinto ancho, y opte por el uso de suelo no residencial que le permita sólo una de las calles, deberá tener todos sus accesos peatonales principales y vehiculares, sólo por la calle que le permita dicho uso de suelo. Se exceptúan aquellos proyectos que se emplacen en vías estructurantes o intersecciones jerárquicas de la malla vial comunal, que justifiquen técnicamente mediante un estudio de tránsito, la conveniencia de relocalizar sus accesos.
+Derogado.
 
 #### Artículo 34
 
@@ -1808,7 +1808,7 @@ f) Los recintos destinados exclusivamente a celebración de culto, deberán disp
 
 g) Los recintos destinados a la educación pre-escolar, básica y media de más de 100 alumnos, deberán disponer, adicionalmente, de un recinto de estacionamiento para uso de los vehículos de transporte escolar, con una capacidad de 1 estacionamiento por cada 30 alumnos.
 
-h) Los estacionamientos para visitas, minusválidos y los estacionamientos adicionales exigidos por esta Ordenanza, no podrán venderse ni asignarse y deberán mantenerse disponibles para el uso público. Estos estacionamientos deberán tener fácil acceso desde la vía pública y podrán ubicarse ocupando hasta el 20% de la superficie de antejardín.
+h) La dotación mínima de estacionamientos para visitas, tanto estándar como para discapacitados, exigidos por esta ordenanza y por la Ordenanza General de Urbanismo y Construcciones, no podrán venderse ni asignarse y deberán mantenerse disponibles para el uso público. Estos estacionamientos podrán ubicarse en el antejardín hasta en un tercio de su frente.
 
 i) Los proyectos deberán contar con la aprobación de un Estudio de Impacto sobre el Sistema de Transporte Urbano (EISTU), si corresponde, en conformidad con lo dispuesto por la Ley General de Urbanismo y Construcciones. Al efecto, se deberá utilizar la metodología aprobada por Resolución Exenta Nº 2.379, del Ministerio de Vivienda y Urbanismo, de fecha 10 de julio de 2003, publicada en el Diario Oficial del 08 de septiembre de 2003, previo a la obtención del permiso de obras y al inicio de la construcción.(1)
 
@@ -1905,8 +1905,6 @@ Cuadro 7: Áreas de Edificación
 NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 15
 
 Cuadro 8: Zonas de Usos de Suelo
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 15
 
 #### Artículo 37
 
@@ -3498,11 +3496,11 @@ _______________________________
 
 3/886, D.O. 26.04.04. (Modificación Nº 1)
 
-4.- USOS DEL SUELO PERMITIDOS POR ZONAS
+4.- USOS DE SUELO POR ZONAS Y SUBZONAS
 
 #### Artículo 43
 
-Para los efectos de determinar los usos de suelo que se establecen en esta Ordenanza, la Comuna de Vitacura se divide en 10 Zonas de Usos de Suelo, signadas con las siglas:
+Para los efectos de determinar los usos de suelo que se establecen en esta Ordenanza, la Comuna de Vitacura se divide en 10 Zonas de Usos de Suelo y 3 subzonas, signadas con las siglas:
 
 U-V (uso vivienda),
 
@@ -3510,457 +3508,71 @@ U-PVEV (uso preferente vivienda y equipamiento vecinal),
 
 U-PVO (uso preferente vivienda y oficina),
 
+U-PVOsz (subzona uso preferente vivienda y oficina),
+
 U-POC (uso preferente oficina y comercio),
+
+U-POCsz (subzona uso preferente oficina y comercio),
 
 U-PC (uso preferente comercio),
 
-U-Ee1 (uso equipamiento especial Nº 1),
+U-PCsz (subzona uso preferente comercio),
 
-U-Ee2 (uso equipamiento especial Nº 2),
+U-Ee1 (uso equipamiento especial N° 1),
 
-U-Ee3 (uso equipamiento especial Nº 3),
+U-Ee2 (uso equipamiento especial N° 2),
 
-U-Ee4 (uso equipamiento especial Nº 4),
+U-Ee3 (uso equipamiento especial N° 3),
+
+U-Ee4 (uso equipamiento especial N° 4),
 
 U-AVPC (uso área verde pública comunal).
 
-Cada una de estas zonas están delimitadas en el plano PRCV-93 lámina 2 sobre Usos de Suelo, el que se complementa con la presente Ordenanza.
+Cada una de estas zonas está delimitada en el plano de Usos de Suelo (lámina 2) del Plan Regulador Comunal, el que se complementa con la presente Ordenanza.
 
-La actividad a la que se destine cualquier propiedad en la comuna deberá estarse a lo dispuesto en el Art. 2.1.36. de la Ordenanza General y ajustarse a las normas de Usos de Suelo correspondientes a la Zona donde se encuentre emplazada, de acuerdo a las Zonas de Usos de Suelo que establece la presente Ordenanza.
+La actividad a la que se destine cualquier propiedad en la comuna deberá ajustarse a las normas de Usos de Suelo correspondientes a la Zona o subzona donde se encuentre emplazada, de acuerdo a aquellas que establece la presente Ordenanza y atenerse a lo dispuesto en el Art. 2.1.36. de la Ordenanza General de Urbanismo y Construcciones. Sin perjuicio de lo cual, conforme a las facultades delegadas por el mismo Artículo, se establecen las siguientes excepciones:
 
-a) Sin perjuicio de lo cual, en el Subsector 3 de la Modificación Sector Colegio Saint George, se permite expresamente Equipamiento Mayor (1).
+a) En el predio con Uso de Suelo Equipamiento especial N°1 Comunal, de Educación, que enfrenta calle Las Hualtatas entre Av. Tabancura y calle Barbastro, se permite expresamente Equipamiento Mediano.
 
-b) En el predio con Uso de Suelo Equipamiento especial N° 1 Comunal, de Educación, que enfrenta calle Las Hualtatas entre Av. Tabancura y calle Barbastro, se permite expresamente Equipamiento Mediano. (2)
+b) En la zona U-POC ubicada al sur de Costanera Sur entre Av. Tabancura y calle La Aurora, se permite expresamente Equipamiento Mediano.
 
-c) En el predio con Uso de Suelo Equipamiento especial Nº 1 Comunal, de Educación, ubicado en Lo Beltrán 8751, Las Tranqueras 1851, se permite expresamente Equipamiento Menor.
+Para efecto de las actividades complementarias a la vivienda, a las que se refiere el Artículo 2.1.26. de la Ordenanza General de Urbanismo y Construcciones, el porcentaje máximo de superficie destinable a ellas en las Zonas U-V, U-PVEV y U-PVO será del 20% para actividades de servicios profesionales y del 10% para pequeños comercios e industrias artesanales. Si ambos tipos de actividades se implantan simultáneamente en una misma vivienda, la superficie total ocupada no deberá exceder en ningún caso el 20%. En el caso de viviendas económicas acogidas al DFL 2 de 1959, las actividades complementarias a la vivienda se atendrán a lo dispuesto en el inciso 5° del Art. 162 de la Ley General de Urbanismo y Construcciones, con usos que deben tener carácter inofensivo.
 
-Para efecto de las actividades complementarias a la vivienda, a las que se refiere el Artículo 2.1.26. de la Ordenanza General de Urbanismo y Construcciones, el porcentaje máximo de superficie destinable a ellas en las Zonas U-V, U-PVEV y U-PVO será, para actividades de servicios profesionales, del 20 %, con un máximo de 70 m2., y para pequeños comercios e industrias artesanales, del 10 %, con un máximo de 35 m2. Si ambos tipos de actividades se implantan simultáneamente en una misma vivienda la superficie total ocupada no deberá exceder en ningún caso el 20 %. En el caso de viviendas económicas acogidas al D.F.L. 2 de 1959, las actividades complementarias a la vivienda se atendrán a lo dispuesto en el inciso 5º del Art. 162 de la Ley General de Urbanismo y Construcciones, con usos que deben tener carácter inofensivo, no provocar ruidos ni olores molestos, ni implicar actividades con atención masiva de público.
+Las Estaciones y Centros de servicio automotor, deberán regirse por el Artículo 7.1.3. de la Ordenanza del Plan Regulador Metropolitano de Santiago.
 
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/200, D.O. 30.01.06. (Modificación Nº 11)
-
-(2) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/3.084, D.O. 22.12.07. (Modificación Nº 19)
-
-Las actividades que se permiten, se limitan o prohíben son las señaladas en los Cuadros referentes a cada una de las Zonas de Usos de Suelo. Las indicaciones que figuran en estos Cuadros como Restricciones de Usos de Suelo (RUS) corresponden a las siguientes limitaciones o restricciones (1):
-
-RUS 1 En las zonas U-V y U-PVEV, las actividades de
-
-equipamiento que se permiten sólo en algunas
-
-de sus calles están referidas sólo a las
-
-propiedades que enfrentan la calle que se
-
-indica y no a los predios con frente a otras
-
-calles que hubiesen sido fusionados a dichas
-
-propiedades con posterioridad al 30/12/99.
-
-Salvo en el caso de Av. Presidente Kennedy, y
-
-Av. Vitacura (2), donde en terrenos producto
-
-de fusiones realizadas antes o después de esa
-
-fecha las actividades permitidas podrán
-
-extenderse hasta una profundidad de 50 m.
-
-siempre que ellas no se manifiesten hacia
-
-calles interiores del sector que estén en
-
-zona U-V o U-PVEV.
-
-RUS 2 La actividad de Hogares de acogida u
-
-hospedaje, así como las actividades de Salud,
-
-se entienden referidas a personas, no a
-
-mascotas.
-
-RUS 3 Para la actividad de Hogares de acogida, la
-
-vivienda deberá ser aislada, con una
-
-superficie predial de 500 m2. o más.
-
-RUS 4 Para la actividad de Venta de Maquinaria o
-
-Vehículos, el local deberá estar en
-
-edificación aislada y programado de modo que
-
-sus funciones se realicen al interior de
-
-recintos edificados y cerrados.
-
-RUS 5 Las actividades de Culto y Cultura, Deporte,
-
-Educación, Esparcimiento, Salud, Seguridad y
-
-Social, deberán emplazarse en edificación
-
-aislada.
-
-RUS 6 Derogado.
-
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/1691, D.O. 02.08.03. (Enmienda Nº 3)
-
-(2) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/763, D.O. 31.03.06. (Modificación Nº 5)
-
-RUS 7 Los establecimientos de Educación Básica,
-
-Media o Superior deberán situarse en calles
-
-de al menos dos pistas por sentido de
-
-tránsito.
-
-RUS 8 Los establecimientos de Educación Básica
-
-destinados a recibir más de 240 alumnos
-
-deberán disponer de una pista caletera propia
-
-en su acceso principal.
-
-RUS 9 Los establecimientos de Educación Media
-
-destinados a recibir más de 600 alumnos
-
-deberán disponer de una pista caletera propia
-
-en su acceso principal.
-
-RUS 10 Los establecimientos de Educación Prebásica,
-
-Básica y Media deberán emplazarse en terreno
-
-de 500 m2 mínimo, con ocupación de suelo de
-
-30 % máximo, y en calles de 15 m. o más.
-
-RUS 11 Derogado.
-
-RUS 12 Derogado.
-
-RUS 13 La actividad 'Oficinas de Profesionales' se
-
-entiende referida a lugares destinados al
-
-ejercicio de profesiones liberales, tales
-
-como arquitectos, ingenieros, contadores,
-
-abogados, etc., excluyendo funciones que
-
-impliquen compraventa de productos o atención
-
-masiva de público y sin publicidad exterior,
-
-admitiéndose en Predios Remanentes Aislados
-
-esta actividad como alternativa al uso
-
-residencial en edificaciones existentes o
-
-nuevas no acogidas a los cuadros de
-
-densificación definidos del Artículo 41 de
-
-esta Ordenanza (1).
-
-RUS 14 Las actividades de atención sanitaria,
-
-estética o de bienestar de mascotas o de
-
-cualquier tipo de animales, se entenderán
-
-comprendidas en la clase 'Servicios' y
-
-tendrán como requisito general el que el
-
-local esté en edificación aislada, debiendo
-
-controlar todo efecto que pueda resultar
-
-molesto a sus vecinos.
-
-RUS 15 Las obras de Infraestructura en espacios
-
-públicos deberán disponer sus instalaciones
-
-en subterráneo, ajustadas a la reglamentación
-
-técnica pertinente y a las normas municipales
-
-específicas que las regulen, si las hubiere.
-
-RUS 16 Las obras de Infraestructura en sitios
-
-particulares sólo podrán emplazarse en sitios
-
-de 500 m2. o más, en edificación aislada, y
-
-siempre que sus características no produzcan
-
-daños ni molestias a la comunidad, personas o
-
-entorno, controlando y neutralizando los
-
-efectos propios de su operación, siempre
-
-dentro del predio, resultando ellos inocuos.
-
-RUS 17 En las áreas verdes públicas en que la
-
-Municipalidad autorice la instalación de
-
-partes o elementos de obras de
-
-infraestructura, ellos deberán situarse en el
-
-subsuelo.
-
-RUS 18 Las actividades en general, y en particular
-
-las de Comercio, Culto, Deporte, Educación,
-
-Esparcimiento, Servicios y Actividades
-
-Productivas, deberán controlar todo efecto
-
-que pueda resultar molesto a sus vecinos,
-
-especialmente en materia de transmisión de
-
-sonidos y contaminación acústica.
-
-RUS 19 Los hoteles u otros locales destinados al
-
-hospedaje que por tener servicios comerciales
-
-adjuntos sean clasificados como equipamiento
-
-comercial, podrán destinar hasta un 20 % de
-
-su superficie edificada a usos
-
-complementarios tales como restaurante, bar y
-
-otros (salvo discoteca), los que para este
-
-efecto se entenderán permitidos.
-
-RUS 20 En los locales comunitarios se permite, como
-
-actividad complementaria, la actividad
-
-deportiva.
-
-RUS 21 Para optar por el uso de Equipamiento en una
-
-edificación pareada se requerirá contar con
-
-autorización notarial del o los vecinos
-
-contiguos cuyas propiedades mantengan el uso
-
-residencial (2).
-
-RUS 22 Los Establecimientos de venta minorista de
-
-combustibles líquidos y Centros de servicio
-
-automotriz, deberán regirse por el Artículo
-
-7.1.3. de la Ordenanza del Plan Regulador
-
-Metropolitano de Santiago.
-
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/427, D.O. 17.03.06. (Modificación Nº 14)
-
-(2) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/450, D.O. 13.03.06. (Modificación Nº 12)
+Los Tipos de Usos de Suelo que se permiten o prohíben son los señalados en los siguientes Cuadros referentes a cada una de las zonas y subzonas de Uso de Suelo establecidos para la Comuna de Vitacura:
 
 1. Zona U-V: Usos de Suelo Vivienda (1)
 
 Cuadro 48: Zona U-V, Uso Vivienda
 
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINAS 22-23
-
-Notas:
-
-1. Las cantidades máximas de estacionamientos
-
-que se permite generar a determinadas
-
-actividades de Equipamiento no son sumables
-
-unas a otras. Así, en el caso de proyectos
-
-que contemplen dos o más actividades sujetas
-
-a limitación de no generar más de 50
-
-estacionamientos, esta cantidad deberá
-
-distribuirse entre ellas; si, además,
-
-concurre una actividad a la que se permite
-
-generar hasta 250 estacionamientos, ella
-
-deberá limitarse en este caso a ocupar la
-
-cantidad remanente de la anterior, de manera
-
-que en conjunto no se superen los 250
-
-estacionamientos.
-
-2. Para todos los efectos se entenderá que la
-
-zona U-V ubicada al al norte de la autopista
-
-Costanera Norte, al oriente del puente
-
-Tabancura, limita con dicha avenida (3).
-
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/1691, D.O. 02.08.03. (Enmienda Nº 3)
-
-(2) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/2215, D.O. 20.09.05. (Enmienda Nº 4)
-
-(3) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/3.084, D.O. 22.12.07. (Modificación Nº 19)
-
 2. Zona U-PVEV: Usos de Suelo Preferente Vivienda y Equipamiento Vecinal (1)
 
 Cuadro 49: Zona U-PVEV, Uso Preferente Vivienda y Equipamiento Vecinal
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 23
-
-Nota: Las cantidades máximas de estacionamientos que se permite generar a determinadas actividades de Equipamiento no son sumables unas a otras. Así, en el caso de proyectos que contemplen dos o más actividades sujetas a limitación de no generar más de 50 estacionamientos, esta cantidad deberá distribuirse entre ellas; si, además, concurre una actividad a la que se permite generar hasta 250 estacionamientos, ella deberá limitarse en este caso a ocupar la cantidad remanente de la anterior, de manera que en conjunto no se superen los 250 estacionamientos.
-
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/1691, D.O. 02.08.03. (Enmienda Nº 3)
-
-(2) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/763, D.O. 31.03.06. (Modificación Nº 5)
-
-(3) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/2215, D.O. 20.09.05. (Enmienda Nº 4)
-
-(4) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/1447, D.O. 07.06.06. (Modificación. Nº 15)
 
 3. Zona U-PVO: Usos de Suelo Preferente Vivienda y Oficina (1 )
 
 Cuadro 50: Zona U-PVO, Uso Preferente Vivienda y Oficinas
 
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 24
+Cuadro 50, subzona: Zona U-PVOsz, Uso Preferente Vivienda y Oficinas subzona
 
-Nota: Las cantidades máximas de estacionamientos que se permite generar a determinadas actividades de Equipamiento no son sumables unas a otras. Así, en el caso de proyectos que contemplen dos o más actividades sujetas a limitación de no generar más de 50 estacionamientos, esta cantidad deberá distribuirse entre ellas; si, además, concurre una actividad a la que se permite generar hasta 250 estacionamientos, ella deberá limitarse en este caso a ocupar la cantidad remanente de la anterior, de manera que en conjunto no se superen los 250 estacionamientos.
-
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/1691, D.O. 02.08.03. (Enmienda Nº 3)
-
-(2) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/1447, D.O. 07.06.06. (Modificación Nº 15)
-
-(3) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/201, D.O. 30.01.06. (Modificación Nº 13)
+En esta subzona aplica el Cuadro 50: Uso de Suelo U-PVO, excepto en la Clase Comercio, donde se aplica lo siguiente:
 
 4. Zona U-POC: Usos de Suelo Preferente Oficina y Comercio (1)
 
 Cuadro 51: Zona U-POC, Uso Preferente Oficinas y Comercio
 
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINAS 24-25
+Cuadro 51 subzona: Zona U-POCsz, Uso Preferente Oficinas y Comercio subzona
 
-Notas: 1. Las cantidades máximas de estacionamientos que se permite generar a determinadas actividades de Equipamiento no son sumables unas a otras. Así, en el caso de proyectos que contemplen dos o más actividades sujetas a limitación de no generar más de 50 estacionamientos, esta cantidad deberá distribuirse entre ellas; si, además, concurre una actividad a la que se permite generar hasta 250 estacionamientos, ella deberá limitarse en este caso a ocupar la cantidad remanente de la anterior, de manera que en conjunto no se superen los 250 estacionamientos.
-
-2. Para todos los efectos se entenderá que la zona U- POC ubicada al sur de Costanera Sur, entre Av. Tabancura y calle La Aurora, limita con dicha avenida (7).
-
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/1691, D.O. 02.08.03. (Enmienda Nº 3)
-
-(2) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/763, D.O. 31.03.06. (Modificación Nº 5)
-
-(3) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/1447, D.O. 07.06.06. (Modificación Nº 15)
-
-(4) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/450, D.O. 13.03.06. (Modificación Nº 12)
-
-(5) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/201, D.O. 30.01.06. (Modificación Nº 13)
-
-(6) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/2215, D.O. 20.09.05. (Enmienda Nº 4)
-
-(7) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/3.084, D.O. 22.12.07. (Modificación Nº 19)
+En esta subzona aplica el Cuadro 51: Uso de Suelo U-POC, excepto en la Clase Comercio, donde se aplica lo siguiente:
 
 5. Zona U-PC: Usos de Suelo Preferente Comercio (1)
 
 Cuadro 52: Zona U-PC, Uso Preferente Comercio
 
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 25
+Cuadro 52 subzona: Zona U-PC, Uso Preferente Comercio subzona
 
-Nota: Las cantidades máximas de estacionamientos que se permite generar a determinadas actividades de Equipamiento no son sumables unas a otras. Así, en el caso de proyectos que contemplen dos o más actividades sujetas a limitación de no generar más de 50 estacionamientos, esta cantidad deberá distribuirse entre ellas; si, además, concurre una actividad a la que se permite generar hasta 250 estacionamientos, ella deberá limitarse en este caso a ocupar la cantidad remanente de la anterior, de manera que en conjunto no se superen los 250 estacionamientos.
-
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/1691, D.O. 02.08.03. (Enmienda Nº 3)
+En esta subzona aplica el cuadro 52: Uso de Suelo U-PC, excepto en la Clase Comercio, donde se aplica lo siguiente:
 
 6. Zona U-Ee1: Uso de Suelo Equipamiento especial N° 1: Comunal (1)
 
@@ -4070,123 +3682,11 @@ c) Equipamiento de Educación
 
 Cuadro 55: Zona U-Ee1, Uso Equipamiento Especial Nº 1, Educación
 
-1. Av. Luis Pasteur 5418 Establecimiento
-
-educacional
-
-2. Av. Luis Pasteur 5790 Establecimiento
-
-educacional
-
-3. Av. Luis Pasteur 6076 Establecimiento
-
-educacional
-
-4. Av. Luis Pasteur 6335 Establecimiento
-
-educacional
-
-5. Av. Luis Pasteur 6700 Establecimiento
-
-educacional
-
-6. Av. Nueva Costanera
-
-4190 Establecimiento
-
-educacional
-
-7. Av. Padre Hurtado 1150 Establecimiento
-
-educacional
-
-8. Av. Presidente Kennedy
-
-5850 Establecimiento
-
-educacional
-
-9. Av. Vitacura 10.15(1) Establecimiento
-
-educacional
-
-10. Costanera Norte Establecimiento
-
-Av. Santa María 6.400 Educacional
-
-11. Costanera Norte Av.
-
-Santa María 6480 Establecimiento
-
-educacional
-
-12. El Litre 1410 Establecimiento
-
-educacional
-
-13. Las Hualtatas 7440 Establecimiento
-
-educacional
-
-14. Las Hualtatas
-
-10500 (*) Establecimiento
-
-educacional
-
-15. Las Tranqueras 1180 Establecimiento
-
-educacional
-
-16. Lo Arcaya 1970 Establecimiento
-
-educacional
-
-17. Lo Beltrán 8751,
-
-Las Tranqueras 1851 Establecimiento
-
-Educacional
-
-18. Padre Damián de
-
-Veuster 2215 Establecimiento
-
-educacional
-
-19. Parque Antonio
-
-Rabat 6150 Establecimiento
-
-educacional
-
-20. San Damián 0100 Establecimiento
-
-educacional
-
-21. Vía Morada 5.400 Establecimiento
-
-educacional
-
 (*) Para todos los efectos se entenderá que este Equipamiento limita con Costanera Sur Av. San Josemaría Escrivá de Balaguer. (1)
 
 d) Equipamiento de Salud (2)
 
 Cuadro 56: Zona U-Ee1, Uso Equipamiento Especial Nº 1, Salud
-
-1. Av. Luis Pasteur 5292 Atenciones de salud
-
-1. Av. Presidente Kennedy 3210 Atenciones de salud
-
-2. Av. Tabancura 1141 y 1185 Atenciones de salud
-
-3. Av. Vitacura 5951 Atenciones de salud
-
-4. Costanera Norte Av. Santa
-
-María 5950 Atenciones de salud
-
-5. Indiana 1195 (3) Atenciones de salud
 
 _______________________________
 
@@ -4212,11 +3712,13 @@ f) Equipamiento Social y Deportivo
 
 Cuadro 58: Zona U-Ee1, Uso Equipamiento Especial Nº 1, Social y Deportivo
 
-1. Cleveland N° 8038 Centro Comunitario
-
 g) Equipamiento en general
 
 Cuadro 59: Zona U-Ee1, Uso Equipamiento Especial Nº 1
+
+h) Equipamiento Científico
+
+Cuadro 59bis: Zona U-Ee1, Uso Equipamiento Especial N° 1, Científico.
 
 1. Las Hualtatas 7380, 7384 y 7390 (*)
 
@@ -4307,6 +3809,8 @@ Nacional Av. Nueva Costanera 4270
 9 Estadio Manquehue Av. Vitacura 5841
 
 10 Estadio Sirio Av. Vitacura 8751
+
+> **Nota.** El numeral 1 del Decreto 3, Municipalidad de Vitacura, publicado el 03.04.2018, modifica las condiciones de uso de suelo y edificación aplicables al polígono A-B-C-D-E-F-G-H-I-A otorgando la condición de edificación Especial N° 2 Parques Metropolitanos (E-e2) en la Lámina 1 de Edificación y la zona de uso de suelo Equipamiento Especial N° 2 Parques Metropolitanos (U-Ee2) en la Lámina 2 de Usos de Suelo establecido en el presente Decreto, de acuerdo a la Memoria Explicativa y según lo graficado en los planos MR-32-01 de Edificación y MR-32-02 de Usos de Suelo, escala 1:2.000, que constituyen un solo cuerpo legal y que se aprueban por la citada norma.
 
 CAPÍTULO V: Vialidad
 
