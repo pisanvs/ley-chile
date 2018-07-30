@@ -134,7 +134,7 @@ Bandas de frecuencias Intensidad de campo eléctrico
 
 2.400 a 2.483,5 MHz 50 mV/m a 3 metros
 
-Excepcionalmente, para aplicaciones que operen sólo al interior de recintos cerrados (casas, edificios, oficinas, fábricas, bodegas, almacenes, etc.), podrá emplearse la banda 915 a 928 MHz con potencia máxima radiada de 200 mW.
+Además de las bandas de frecuencias antes señaladas, los equipos RFID podrán operar en la banda 915 a 928 MHz, si cumplen con lo establecido en la letra j.3), y en las bandas 913 a 919 MHz y/o 925 a 928 MHz, si cumplen con lo dispuesto en la letra j.4) del presente artículo.
 
 f) Radioalarmas que operen en alguna de las siguientes frecuencias: 915; 2.450; 5.800; 10.525 y 24.125 MHz y que cumplan con los requisitos que se indican a continuación:
 
@@ -186,9 +186,11 @@ i) Equipos empleados como sistemas de radar en vehículos que operen en la banda
 
 j) Otros equipos que cumplan con lo que se establece a continuación:
 
-j.1) Operen en las bandas de frecuencias 2.400 a 2.483,5; 5.150 a 5.250; 5.250 a 5.350 y 5.470 a 5.725 MHz, con una potencia máxima radiada de 150 mW y con técnicas de espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 10 MHz y permitan la compartición de frecuencias. También podrán operar en la banda 5.725 a 5.850 MHz, con una potencia máxima radiada de 150 mW al interior de inmuebles o 50 mW al exterior, siempre que, además, los equipos empleen alguna de las técnicas de compartición de frecuencias, antes señaladas.
+j.1) Operen en las bandas de frecuencias 2.400 a 2.483,5 MHz; 5.250 a 5.350 MHz; 5.470 a 5.725 MHz y 5.725 a 5.850 MHz, con una potencia máxima radiada de 1 W y con técnicas de espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 10 MHz y permitan la compartición de frecuencias.
 
-En la banda de frecuencias 5.150 a 5.250 MHz, la operación de los equipos estará restringida al interior de recintos cerrados (casas, edificios, oficinas, fábricas, almacenes, etc.). Además, la densidad de potencia máxima radiada no deberá exceder 7,5 mW/MHz en cualquier banda de 1 MHz o su valor equivalente de 0,1875 mW/25 kHz en cualquier banda de 25 kHz.
+También podrán operar en la banda de frecuencias 5.150 a 5.250 MHz, con una potencia máxima radiada de 200 mW y una densidad de potencia máxima radiada que no exceda 10 mW/MHz en cualquier banda de 1 MHz. Además, los equipos deberán emplear alguna de las técnicas de compartición de frecuencias antes señaladas. La operación de los equipos estará restringida al interior de recintos cerrados (casas, edificios, oficinas, fábricas, almacenes, etc.).
+
+Los equipos que cumplan con las características señaladas en el presente literal, también podrán ser empleados para la provisión de conectividad a internet con fines no comerciales. No obstante lo anterior, los equipos de radiocomunicaciones empleados para los mismos fines antes señalados que no cumplan con lo establecido en este literal, deberán contar con la autorización correspondiente, conforme a lo establecido en las normas técnicas que regulan el uso de las respectivas bandas de frecuencias.
 
 j.2) Operen en las siguientes frecuencias o bandas de frecuencias con una intensidad de campo eléctrico o potencia máxima radiada que no exceda los valores que se indican a continuación:
 
@@ -238,9 +240,9 @@ La banda de 17,1 a 17,3 GHz estará destinada para aplicaciones de monitoreo rem
 
 También podrá emplearse, para aplicaciones inductivas, la banda 7.400 a 8.800 kHz con una intensidad de campo que no exceda 9 DbµA/m a 10 metros.
 
-j.3) Operen, al interior de inmuebles, en la banda de 915 a 928 MHz con una potencia máxima radiada de 100 mW y, al exterior de inmuebles con 20 mW, en ambos casos con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 5 MHz y permitan compartir frecuencias.
+j.3) Operen, en la banda de 915 a 928 MHz, con una potencia máxima radiada de 500 mW con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que permitan compartir frecuencias.
 
-j.4) Operen, en la banda de 925 a 928 MHz, con una potencia máxima radiada de 1 W con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que permitan compartir frecuencias.
+j.4) Operen, en las bandas de 913 a 919 MHz y 925 a 928 MHz, con una potencia máxima radiada de 1 W con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que permitan compartir frecuencias.
 
 j.5) Operen en la banda de frecuencias de 57 a 64 GHz, en aplicaciones de servicio fijo, con las siguientes características técnicas:
 
@@ -248,7 +250,9 @@ j.5) Operen en la banda de frecuencias de 57 a 64 GHz, en aplicaciones de servic
 
 - Ganancia mínima de antena: 30 dBi.
 
-- Potencia máxima radiada: 50 dBm.
+- Potencia máxima radiada: 55 dBm.
+
+También podrán operar equipos en la banda de 57 a 66 GHz, con una PIRE máxima de 40 dBm y densidad máxima de potencia espectral de 13 dBm/MHz.
 
 j.6) Equipos de banda ultra-ancha (conocidos por la sigla en inglés UWB), entendiéndose como tales los que operen con un ancho de banda fraccional igual o superior a 0,20 o un ancho de banda a -10 dB (B-10) igual o superior a 500 MHz, independientemente del ancho de banda fraccional.
 
@@ -260,15 +264,25 @@ Los equipos UWB, dependiendo del tipo de aplicación, deberán cumplir con las d
 
 j.7) Operen en la banda de frecuencias de 71 a 76 GHz y 81 a 86 GHz, en aplicaciones de servicio fijo, al interior de inmuebles, con una potencia máxima radiada de 50 dBm.
 
-j.8) Operen, al interior de inmuebles, en la banda de frecuencias de 57 a 64 GHz, con las siguientes características técnicas:
+j.8) Operen en la banda de frecuencias de 57 a 71 GHz, con las siguientes características:
 
-- Potencia máxima de salida del transmisor: 500 mW.
+- En el caso transmisores empleados para enlaces del servicio fijo punto a punto, que operen al exterior de inmuebles, la PIRE máxima no deberá exceder 85 dBm, la que deberá ser reducida en 2 dB por cada dB de la ganancia de antena que sea menor que 51 dBi.
 
-- Potencia máxima radiada: 43 dBm.
+- Para sensores por perturbación de campo para operación fija con un ancho de banda igual o menor a 500 MHz, que operen dentro del segmento 61 a 61,5 GHz, la PIRE máxima no deberá exceder 43 dBm y, para los que operen fuera de dicho segmento, pero dentro de la banda 57 a 71 GHz, la PIRE máxima no deberá exceder los 13 dBm.
 
-Estos equipos no podrán emplearse en aeronaves, satélites y sensores de perturbaciones de campo, incluidos sistemas de radar en vehículo, salvo que los sensores sean empleados para operación fija.
+- Para sensores por perturbación de campo para operación fija, que empleen características distintas a las anteriormente señaladas, y para sensores de movimiento interactivo, la potencia máxima del transmisor no deberá exceder de -10 dBm y la PIRE máxima no deberá exceder los 10 dBm.
+
+- Para el caso de equipos distintos a los señalados anteriormente, la PIRE máxima no deberá exceder los 43 dBm.
+
+- La potencia de transmisión de los equipos que utilicen un ancho de banda de emisión igual o mayor a 100 MHz, no deberá exceder los 500 mW.
+
+- Los equipos que utilicen un ancho de banda de emisión menor a 100 MHz deberán limitar la potencia máxima de salida del transmisor al valor resultante de multiplicar 500 mW por su ancho de emisión en MHz, dividido entre 100 MHz.
+
+En la banda 57 a 71 GHz no se permite la operación de equipos utilizados en aeronaves, satélites y sensores por perturbación de campo, incluidos sistemas de radar en vehículo, salvo que los sensores sean empleados para operación fija o para detección de movimiento interactivo.
 
 j.9) Operen en aplicaciones de sistemas de radar sensor de nivel, en ubicaciones fijas, en la banda de frecuencias de 24,05 a 29 GHz, con una PIRE máxima, medida en un ancho de banda de 50 MHz, que no exceda de 20 dBm.
+
+j.10) Operen en aplicaciones de telemetría, monitoreo y/o control, en la banda 169,4 a 169,475 MHz, con una potencia máxima radiada de 500 mW.
 
 #### Artículo 2°
 
