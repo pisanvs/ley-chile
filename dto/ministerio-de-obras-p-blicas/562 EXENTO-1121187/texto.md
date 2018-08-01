@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 562, de 28 de junio de 2018, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno N°s. 1 y 2, Rol de avalúo 2119-101, Comuna de Puerto Montt, superficies 427 y 225, para la obra: "REPOSICIÓN PUENTE GÓMEZ N° 3 EN RUTA V-86 COMUNA DE PUERTO MONTT", COMUNA DE PUERTO MONTT Y MAULLÍN, PROVINCIA DE LLANQUIHUE, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por Enrique Edgardo Hoelck Altmann, Nelson Bernardo Turra Turra y Juan Celestino Giovannini Mansilla, fijó el valor de tasación con fecha 10 de agosto de 2015, acordándose la indemnización con su propietaria MIGUELINA TOLEDO MANSILLA, en la cantidad total de $601.951.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
