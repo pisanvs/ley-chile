@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento Nº 537 de 28 de junio de 2018, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno Nºs. 52, 53 y 54, Rol de Avalúo 466-215, Comuna de Constitución, superficies 221, 306 y 316 m2. respectivamente, para la obra "Reposición Pav. Ruta M-50, sector Chanco - Constitución"; tramo III Pellines - Cruce Viñales, kilómetro 78,36200 a km. 100,90000; comuna de Constitución, provincia de Talca, Región del Maule. La comisión de peritos, integrada por Paula Soledad González Ortega, Rodrigo Antonio Silva Lazo y Patricio Ulises Durán Marcos, fijó los valores de tasación con fecha 13 de noviembre de 2013, complementados por acta de 24 de marzo de 2017 acordándose la indemnización con su propietaria INMOBILIARIA MARINA OLFOS HERMANOS LIMITADA, en la cantidad de $16.803.630.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.-
+
+Fiscalía MOP.
