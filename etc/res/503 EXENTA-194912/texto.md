@@ -14,6 +14,8 @@ Declárase región libre de la enfermedad ovina, bovina y caprina denominada Fie
 
 Sólo podrán ingresar a la región libre reproductores ovinos, caprinos y bovinos que hayan resultado negativos a la prueba serológica a Fiebre Q, realizada con una antelación no mayor de 30 días, todo lo cual deberá constar en un certificado otorgado por el Servicio.
 
+En el caso de dictarse una resolución por especie que fije requisitos sanitarios específicos para el ingreso a la Región de Magallanes, prevalecerá esta por sobre los requisitos generales anteriormente mencionados.
+
 #### Artículo 3º
 
 Los ovinos, caprinos y bovinos en pie con destino directo a matadero no requerirán la certificación señalada en el artículo anterior.
