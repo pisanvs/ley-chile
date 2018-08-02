@@ -3518,31 +3518,27 @@ U-PC (uso preferente comercio),
 
 U-PCsz (subzona uso preferente comercio),
 
-U-Ee1 (uso equipamiento especial N° 1),
+U-Ee1 (uso equipamiento especial Nº 1),
 
-U-Ee2 (uso equipamiento especial N° 2),
+U-Ee2 (uso equipamiento especial Nº 2),
 
-U-Ee3 (uso equipamiento especial N° 3),
+U-Ee3 (uso equipamiento especial Nº 3),
 
-U-Ee4 (uso equipamiento especial N° 4),
+U-Ee4 (uso equipamiento especial Nº 4),
 
 U-AVPC (uso área verde pública comunal).
 
 Cada una de estas zonas está delimitada en el plano de Usos de Suelo (lámina 2) del Plan Regulador Comunal, el que se complementa con la presente Ordenanza.
 
-La actividad a la que se destine cualquier propiedad en la comuna deberá ajustarse a las normas de Usos de Suelo correspondientes a la Zona o subzona donde se encuentre emplazada, de acuerdo a aquellas que establece la presente Ordenanza y atenerse a lo dispuesto en el Art. 2.1.36. de la Ordenanza General de Urbanismo y Construcciones. Sin perjuicio de lo cual, conforme a las facultades delegadas por el mismo Artículo, se establecen las siguientes excepciones:
+La actividad a la que se destine cualquier propiedad en la comuna deberá ajustarse a las normas de Usos de Suelo correspondientes a la Zona o subzona donde se encuentre emplazada, de acuerdo a aquellas que establece la presente Ordenanza y estarse a lo dispuesto en el artículo 2.1.36. de la Ordenanza General de Urbanismo y Construcciones.
 
-a) En el predio con Uso de Suelo Equipamiento especial N°1 Comunal, de Educación, que enfrenta calle Las Hualtatas entre Av. Tabancura y calle Barbastro, se permite expresamente Equipamiento Mediano.
+Para efecto de las actividades complementarias a la vivienda, a las que se refiere el artículo 2.1.26. de la Ordenanza General de Urbanismo y Construcciones, el porcentaje máximo de superficie destinable a ellas en las Zonas U-V, U-PVEV y U-PVO será del 20% para actividades de servicios profesionales y del 10% para pequeños comercios e industrias artesanales. Si ambos tipos de actividades se implantan simultáneamente en una misma vivienda, la superficie total ocupada no deberá exceder en ningún caso el 20%. En el caso de viviendas económicas acogidas al DFL 2, de 1959, las actividades complementarias a la vivienda se atendrán a lo dispuesto en el inciso 5º del Art. 162 de la Ley General de Urbanismo y Construcciones, con usos que deben tener carácter inofensivo.
 
-b) En la zona U-POC ubicada al sur de Costanera Sur entre Av. Tabancura y calle La Aurora, se permite expresamente Equipamiento Mediano.
-
-Para efecto de las actividades complementarias a la vivienda, a las que se refiere el Artículo 2.1.26. de la Ordenanza General de Urbanismo y Construcciones, el porcentaje máximo de superficie destinable a ellas en las Zonas U-V, U-PVEV y U-PVO será del 20% para actividades de servicios profesionales y del 10% para pequeños comercios e industrias artesanales. Si ambos tipos de actividades se implantan simultáneamente en una misma vivienda, la superficie total ocupada no deberá exceder en ningún caso el 20%. En el caso de viviendas económicas acogidas al DFL 2 de 1959, las actividades complementarias a la vivienda se atendrán a lo dispuesto en el inciso 5° del Art. 162 de la Ley General de Urbanismo y Construcciones, con usos que deben tener carácter inofensivo.
-
-Las Estaciones y Centros de servicio automotor, deberán regirse por el Artículo 7.1.3. de la Ordenanza del Plan Regulador Metropolitano de Santiago.
+Las Estaciones y Centros de servicio automotor, deberán regirse por la normativa pertinente del Plan Regulador Metropolitano de Santiago.
 
 Los Tipos de Usos de Suelo que se permiten o prohíben son los señalados en los siguientes Cuadros referentes a cada una de las zonas y subzonas de Uso de Suelo establecidos para la Comuna de Vitacura:
 
-1. Zona U-V: Usos de Suelo Vivienda (1)
+1. Zona U-V: Uso de Suelo Vivienda
 
 Cuadro 48: Zona U-V, Uso Vivienda
 
