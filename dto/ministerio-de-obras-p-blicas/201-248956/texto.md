@@ -210,6 +210,10 @@ F-840-G, Cruce F-718 (Paso Hondo) - Las Dichas - Cruce G-986 (Mirasol).
 
 G-966, Cruce G-948 - Lo Abarca - Cruce G-988.
 
+Ruta G-820, Cruce G-986 (Mirasol) - Cruce G-812 (San José).
+
+Ruta F-528, Cruce Ruta 64 (Colmo) - Fuerte Aguayo - Cruce Ruta 64 (Reñaca Alto).
+
 3º Declárese Caminos Públicos en las áreas urbanas de las siguientes Capitales de provincia, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Valparaíso:
@@ -378,6 +382,10 @@ Viña del Mar:
 
 . Calle Larga: El tramo urbano de la Ruta 57 CH, desde el límite urbano norte, hasta el límite urbano sur; a través de Calle Larga.
 
+Viña del Mar - Concón
+
+. El tramo urbano de la Ruta F-528, a través de Vía Troncal 9v y la Vía Expresa 2v del PREMVAL.
+
 VILLA ALEMANA
 
 . El tramo urbano de la Ruta F-560, desde Ruta 60-CH hasta el límite urbano sur; a través de calle Marga Marga.
@@ -385,6 +393,10 @@ VILLA ALEMANA
 ALGARROBO
 
 . El tramo urbano de la Ruta F-840-G, a través de la vía colectora VC-S.05 y la vía troncal VT-S.01.
+
+Satélite Borde Costero Sur - Mirasol
+
+. El tramo urbano de la Ruta G-820, a través de Vía Colectora S.04.
 
 CARTAGENA
 
