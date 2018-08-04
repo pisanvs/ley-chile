@@ -90,7 +90,7 @@ No obstante lo anterior, el Proyecto tendrá todas las otras características t�
 
 ### 2. Fecha de Entrada en Operación
 
-De acuerdo a lo establecido en el decreto exento Nº 82, el Proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 42 meses siguientes, contados desde la publicación en el Diario Oficial del presente decreto.
+De acuerdo a lo establecido en el decreto exento Nº 82, el Proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 44 meses siguientes, contados desde la publicación en el Diario Oficial del presente decreto.
 
 En el caso que el día de entrada en operación del Proyecto sea un día sábado, domingo o festivo, éste podrá ser prorrogado al primer día hábil siguiente.
 
@@ -176,7 +176,7 @@ e) Hito Relevante Nº 5: Entrada en Operación del Proyecto.
 
 Corresponde a la finalización de la puesta en servicio de la correspondiente línea de transmisión. El presente hito se comprobará mediante la inspección en terreno por parte del personal de la Auditoría e Inspección Técnica a que hace referencia el numeral 11.2.1 de las Bases de Licitación, y en cuya virtud se comprobará la correcta puesta en servicio del Proyecto, de acuerdo a lo indicado por la Empresa Adjudicataria en su Oferta Técnica, a lo señalado en el Plan de Expansión y en las Bases de Licitación y su proceso.
 
-Este hito deberá cumplirse dentro de los 42 meses siguientes, contados desde la publicación del presente decreto en el Diario Oficial.
+Este hito deberá cumplirse dentro de los 44 meses siguientes, contados desde la publicación del presente decreto en el Diario Oficial.
 
 ### 2. Auditoría Técnica de los Proyectos
 
