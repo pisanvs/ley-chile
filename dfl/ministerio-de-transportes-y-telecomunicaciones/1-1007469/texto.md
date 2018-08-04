@@ -144,19 +144,23 @@ Las Municipalidades, en caso alguno, podrán dictar normas destinadas a modifica
 
 Carabineros de Chile y los Inspectores Fiscales y Municipales serán los encargados de supervigilar el cumplimiento de las disposiciones a que se refiere la presente ley, sus reglamentos y las de transporte y tránsito terrestre que dicte el Ministerio de Transportes y Telecomunicaciones o las Municipalidades, debiendo denunciar, al Juzgado que corresponda, las infracciones o contravenciones que se cometan. Asimismo, fiscalizarán el cumplimiento de las normas sobre jornada de trabajo de los conductores de vehículos destinados al servicio público de pasajeros o de carga, contenidas en el Código del Trabajo, y denunciarán su incumplimiento a la Inspección del Trabajo correspondiente al domicilio del empleador.
 
-Para los efectos del inciso anterior, podrán utilizarse equipos de registro y de detección de infracciones, en la forma que determine el Ministerio de Transportes y Telecomunicaciones.
+Con la finalidad de hacer más eficaces las labores de supervigilancia de las disposiciones de transporte y tránsito, las personas señaladas en el inciso anterior podrán cumplir dichas labores manteniendo en reserva su identificación. Con todo, para efectuar el control, cursar la infracción y efectuar la denuncia ante el juzgado competente y solicitar la documentación respectiva al infractor, deberán identificarse en su calidad funcionaria.
+
+Para los efectos de lo dispuesto en los incisos precedentes, podrán utilizarse equipos de registro y de detección de infracciones, en la forma que determine el Ministerio de Transportes y Telecomunicaciones.
 
 Los equipos de registro de infracciones podrán consistir en películas cinematográficas, fotográficas, fonográficas u otras formas de reproducción de la imagen y del sonido y, en general, en medios aptos para producir fe.
 
 Las normas de tránsito cuyo cumplimiento se fiscalice mediante el uso de los equipos antes mencionados deberán estar señalizadas de conformidad a las disposiciones del Manual de Señalización de Tránsito, cuando corresponda.
 
-El reglamento, que se expedirá por intermedio del Ministerio de Transportes y Telecomunicaciones, contemplará los estándares técnicos que tales equipos deberán cumplir en resguardo de su confiabilidad y certeza, y establecerá las condiciones en que han de ser usados para que las imágenes u otros elementos de prueba que de ellos se obtengan puedan servir de base para denunciar infracciones o contravenciones. Entre estas últimas, dispondrá especialmente la existencia de señales de tránsito que adviertan con claridad y en forma oportuna a los conductores los sectores en que se usan estos equipos; y adoptará medidas tendientes a asegurar el respeto y protección a la vida privada, tal como la prohibición de que las imágenes permitan individualizar a los ocupantes del vehículo.
+El reglamento, que se expedirá por intermedio del Ministerio de Transportes y Telecomunicaciones, contemplará los estándares técnicos que tales equipos deberán cumplir en resguardo de su confiabilidad y certeza, y establecerá las condiciones en que han de ser usados para que las imágenes u otros elementos de prueba que de ellos se obtengan puedan servir de base para denunciar infracciones o contravenciones. Entre estas últimas, dispondrá especialmente la existencia de señales de tránsito que adviertan con claridad y en forma oportuna a los conductores o pasajeros los sectores o vehículos en que se usan estos equipos. Cuando éstos se utilicen para controlar vehículos, se adoptarán las medidas necesarias para asegurar el respeto y protección a la vida privada, tales como la prohibición de que las imágenes permitan individualizar a los ocupantes de los vehículos.
+
+Los equipos que se utilicen para registrar y detectar las infracciones de evasión contenidas en el número 4 del artículo 199 y en el número 42 del artículo 200 permitirán la individualización de los pasajeros infractores. El Ministerio de Transportes y Telecomunicaciones estará facultado para tratar la información que obtenga mediante el uso de estos equipos con la finalidad de cursar las respectivas infracciones y efectuar las citaciones al juzgado de policía local competente. Asimismo, podrá emplear la información recogida para mejorar la calidad de los servicios de transporte público, incrementar la eficiencia y eficacia de los controles de fiscalización, y efectuar el levantamiento, clasificación, comparación y análisis de información estadística agregada.
 
 Los equipos de registro y detección de infracciones relativas a velocidad y luz roja sólo podrán ser operados por Carabineros de Chile, y por los inspectores fiscales designados por el Ministerio de Obras Públicas, en el caso de las plazas de peaje, operación de túneles y en los tramos en que se estén realizando obras de reparación y mantención de caminos públicos construidos y explotados al amparo del decreto supremo Nº 900, del Ministerio de Obras Públicas, de 1996, que fijó el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 164, del Ministerio de Obras Públicas, de 1991, Ley de Concesiones de Obras Públicas.
 
-El juez de policía local sólo admitirá a tramitación la denuncia basada en los señalados medios probatorios luego de cerciorarse de que éstos se obtuvieron por los respectivos carabineros o inspectores fiscales usando un equipo de registro de infracciones con sujeción al reglamento. Al efecto, podrá estimar suficiente comprobación el certificado que expida el jefe de la correspondiente unidad policial o el Director del Tránsito y se acompañe a la denuncia.
+El juez de policía local sólo admitirá a tramitación la denuncia basada en los señalados medios probatorios luego de cerciorarse de que éstos se obtuvieron por los respectivos carabineros o inspectores fiscales usando un equipo de registro de infracciones con sujeción al reglamento. Al efecto, podrá estimar suficiente comprobación el certificado que expida el jefe de la correspondiente unidad policial, el director del tránsito o el inspector fiscal del Ministerio de Transportes y Telecomunicaciones y se acompañe a la denuncia.
 
-En todo caso, si la denuncia por supuesta infracción o contravención a las normas de tránsito se funda únicamente en alguno de dichos medios de prueba y, entre la fecha en que se habría cometido y aquélla en que se notificó la citación al juzgado de policía local a la persona a cuyo nombre esté inscrito el vehículo transcurrieren más de cuarenta y cinco días, no podrá continuar el procedimiento y el juez ordenará el archivo de los antecedentes.
+En todo caso, si la denuncia por supuesta infracción o contravención a las normas de tránsito se funda únicamente en alguno de dichos medios de prueba y, entre la fecha en que se habría cometido y aquélla en que se notificó la citación al juzgado de policía local a la persona a cuyo nombre esté inscrito el vehículo o al pasajero infractor, según corresponda, transcurrieren más de cuarenta y cinco días, no podrá continuar el procedimiento y el juez ordenará el archivo de los antecedentes.
 
 ## Título I
 
@@ -932,7 +936,7 @@ El uso de cinturón de seguridad será obligatorio para los ocupantes de los asi
 
 Se prohíbe el traslado de menores de doce años en los asientos delanteros en automóviles, camionetas, camiones y similares, excepto en aquellos de cabina simple.
 
-Los conductores, serán responsables del uso obligatorio de sillas para niños menores de cuatro años que viajen en los asientos traseros de los vehículos livianos, de acuerdo a las exigencias y el calendario que fijará el reglamento. Se exceptúan de esta obligación, los servicios de transporte de pasajeros en taxis, en cualquiera de sus modalidades.
+Los conductores serán responsables del uso obligatorio de sistema de retención infantil para niños de hasta 8 años, inclusive, o estatura de 135 centímetros y 33 kilogramos de peso que viajen en los asientos traseros de los vehículos livianos, de acuerdo a las exigencias y el calendario que fijará el reglamento. Asimismo, este reglamento establecerá las categorías de los sistemas de retención infantil, de acuerdo a la edad, peso y estatura de los menores. Se exceptúan de esta obligación, los servicios de transporte de pasajeros en taxis, en cualquiera de sus modalidades.
 
 Los vehículos de transporte escolar deberán estar equipados con cinturón de seguridad para todos sus pasajeros y su uso será obligatorio en todos los vehículos cuyo año de fabricación sea 2007 en adelante.
 
@@ -988,7 +992,7 @@ Los demás vehículos que por su función requieran de una identificación espec
 
 ## Título VI
 
-DEL TRANSPORTE PÚBLICO DE PASAJEROS Y DE LOS PASAJEROS DE VEHÍCULOS DE LOCOMOCIÓN COLECTIVA
+DEL TRANSPORTE PÚBLICO DE PASAJEROS
 
 (ARTS. 84-88)
 
@@ -1042,11 +1046,53 @@ e) Los conductores del transporte urbano de pasajeros no podrán negarse al ejer
 
 f) El conductor podrá exigir la exhibición de la copia de la respectiva iniciación de actividades o su certificado para permitir el ingreso de un vendedor.
 
-§2. DE LOS PASAJEROS DE VEHÍCULOS DE LOCOMOCIÓN COLECTIVA
+§2. DE LAS OBLIGACIONES DE LOS PASAJEROS
 
 #### Artículo 88
 
 Los pasajeros tienen la obligación de pagar la tarifa, respetar las normas de comportamiento que determinan la ley, la moral y las buenas costumbres y abstenerse de ejecutar cualquier acto que impida el normal desempeño del conductor. Este último tendrá la facultad de no admitir a personas que puedan causar problemas o desórdenes al interior del vehículo o que se encuentren en manifiesto estado de ebriedad. Asimismo, les estará estrictamente prohibido fumar.
+
+§3. DEL ACCESO AL TRANSPORTE PÚBLICO REMUNERADO DE PASAJEROS Y SU CONTROL
+
+#### Artículo 88 bis
+
+Al Ministerio de Transportes y Telecomunicaciones le corresponde definir y regular la confección, entrega, condiciones y procedimiento de uso, supervisión, vigencia, caducidad, retiro y reposición de cualquier instrumento o mecanismo que permita el uso del transporte público remunerado de pasajeros. Cuando se trate de instrumentos o mecanismos destinados a estudiantes, tales como el pase escolar o pase de educación superior, dicha reglamentación corresponderá conjuntamente a los Ministerios de Transportes y Telecomunicaciones y de Educación.
+
+Para estos efectos, el o los Ministerios, según corresponda, podrán, por sí o a través de terceros, emitir instrumentos o mecanismos que permitan el uso del transporte público remunerado por plazos diarios, semanales, mensuales o anuales, los cuales podrán, a través de tarifas fijas o diferenciadas, incentivar su adquisición por parte de los pasajeros.
+
+Asimismo, el o los Ministerios, según corresponda, podrán celebrar todo acto o contrato orientado a proveer de los instrumentos o mecanismos que permitan el uso del transporte público remunerado a través de otros medios de común utilización, como tarjetas de crédito, prepago o débito de bancos o instituciones financieras, e instituciones no bancarias autorizadas por la ley; tarjetas o instrumentos magnéticos, electrónicos o cualquier sistema análogo emitido por privados para fines particulares, tales como proveer de transporte a los trabajadores, funcionarios o usuarios de un establecimiento, y homologarlos para su utilización como medio que permita el acceso al sistema de transporte público remunerado de pasajeros.
+
+En el momento de la entrega de un instrumento o mecanismo que permita el acceso al transporte público remunerado de pasajeros, podrá solicitarse la individualización y el domicilio del requirente, quien lo entregará de forma voluntaria, para el solo efecto de acreditar su calidad de beneficiario o usuario frecuente, por medio de la exhibición de documentos de identificación expedidos por la autoridad pública, como cédula de identidad, licencia de conducir o pasaporte. Con todo, sólo podrán acceder a los beneficios quienes estén incorporados al "Registro de Usuarios".
+
+Los antecedentes requeridos de conformidad a lo establecido en el inciso precedente serán incorporados en un "Registro de Usuarios", a cargo del Ministerio de Transportes y Telecomunicaciones, cuyas finalidades serán velar por el correcto otorgamiento de los beneficios derivados del uso del transporte público, constatar el debido uso de los referidos mecanismos o instrumentos y verificar el uso frecuente del transporte público por parte de los usuarios, así como para propósitos estadísticos y para el desarrollo de políticas públicas asociadas al transporte público remunerado de pasajeros.
+
+Los órganos del Estado podrán efectuar, en el marco de sus atribuciones, el tratamiento de los datos personales contenidos en el "Registro de Usuarios", en la medida que lo hagan de manera adecuada y pertinente con las finalidades del mismo. Con todo, la información que provenga de instrumentos como el pase escolar, o de cualquier otro instrumento o mecanismo que pertenezca a un niño, niña o adolescente, deberá ser especialmente protegida por el Ministerio de Transportes y Telecomunicaciones, extremando las medidas de seguridad adecuadas y velando por que su tratamiento sólo se efectúe atendiendo al interés superior de todas las personas menores de 18 años.
+
+La información contenida en el "Registro de Usuarios" será reservada, de conformidad con lo dispuesto en el inciso segundo del artículo 8° de la Constitución Política de la República, por afectarse con su publicidad los derechos de las personas. Sin perjuicio de ello, los titulares de los datos consignados en el Registro podrán acceder gratuitamente a éstos y ejercer los demás derechos establecidos en la ley N° 19.628, sobre Protección de la Vida Privada.
+
+Tratándose de solicitudes de información efectuadas de conformidad con lo dispuesto en la ley de transparencia de la función pública y de acceso a la información de la Administración del Estado, contenida en el artículo primero de la ley Nº 20.285, los datos de carácter personal del "Registro de Usuarios" que en ellas se requieran estarán protegidos por la causal de reserva establecida en el numeral 2 del artículo 21 de dicho cuerpo legal.
+
+Para todos los efectos legales, el pase escolar, pase de educación superior y cualquier instrumento o mecanismo que permita el uso del transporte público remunerado de pasajeros con una franquicia, exención o rebaja tarifaria, es un instrumento de carácter público, personal e intransferible. Por pase escolar o pase de educación superior se entiende aquél regulado por el decreto N° 20, del Ministerio de Transportes y Telecomunicaciones, del año 1982, y todas sus modificaciones, o la normativa que lo reemplace.
+
+#### Artículo 88 ter
+
+Carabineros de Chile, los inspectores fiscales y municipales y el personal autorizado de ferrocarriles que preste servicios de transporte de pasajeros podrán retener o solicitar la inutilización del instrumento o mecanismo que permita el acceso del transporte público, en el caso de constatarse el uso indebido de éste, debiendo efectuar la denuncia respectiva y, cuando corresponda, entregar al infractor constancia de la retención, con la individualización de quien efectúa el control y el organismo al que se remitirá la denuncia. El instrumento o mecanismo que permita el uso del transporte público remunerado de pasajeros será puesto luego a disposición del organismo que determine el Ministerio de Transportes y Telecomunicaciones, cuando se trate de la infracción establecida en el número 4 del artículo 199 de la presente ley.
+
+Para los efectos de lo dispuesto en el inciso anterior, existe uso indebido del instrumento o mecanismo que permita el acceso al transporte público remunerado de pasajeros, cuando se acceda a éste utilizando un pase escolar, pase de educación superior o cualquier instrumento o mecanismo que permita el uso del transporte público remunerado de pasajeros, sin ser su titular, de conformidad a lo dispuesto en el número 4 del artículo 199 de la presente ley.
+
+Para los efectos señalados en este artículo, Carabineros de Chile, los inspectores fiscales y municipales y el personal autorizado de ferrocarriles que preste servicios de transporte de pasajeros, debidamente identificados, deberán consignar los datos de la persona que, sin ser el titular, utilice un instrumento o mecanismo que permita el acceso al transporte público remunerado de pasajeros, requiriendo a la entidad competente la inutilización para su uso en estos servicios. Con el objeto de consignar los datos del infractor, Carabineros de Chile, los inspectores fiscales y municipales y el personal autorizado de ferrocarriles de servicio metropolitano podrán solicitar que el portador del instrumento o mecanismo de pago respectivo acredite su identidad o la titularidad del mismo o la adquisición del saldo o cuotas de transporte contenidas en ellos.
+
+Con la finalidad de obtener información de los pasajeros infractores para citarlos o para efectuar las denuncias ante los juzgados competentes, el Ministerio de Transportes y Telecomunicaciones podrá celebrar convenios con otros órganos del Estado y requerirles información, debiendo éstos dar las facilidades necesarias para su acceso. Para estos efectos podrán utilizarse medios tecnológicos que optimicen la obtención de la referida información.
+
+Todos los datos que consignen los funcionarios en cumplimiento de las obligaciones descritas en los incisos precedentes estarán protegidos por la ley N° 19.628, sobre Protección de la Vida Privada, y deberán ser tratados sólo con la finalidad de efectuar la denuncia de las respectivas infracciones cometidas por los usuarios a las autoridades competentes. Los datos consignados deberán ser destruidos dentro del plazo máximo de tres años, contado desde su consignación.
+
+#### Artículo 88 quáter
+
+Los concesionarios de uso de vías, los propietarios de buses y, en general, los prestadores de servicio de transporte público remunerado de pasajeros o quienes sean autorizados por éstos podrán constatar el cumplimiento de la obligación del pago de la tarifa por parte de los pasajeros, para lo cual podrán exigir la exhibición del instrumento o mecanismo que permita el acceso del transporte público remunerado de pasajeros.
+
+En caso que el pasajero se rehúse a exhibir el instrumento o mecanismo que permita el acceso al transporte público remunerado de pasajeros o si se constatare el uso de los servicios de transporte público remunerado de pasajeros sin el pago de la tarifa correspondiente, las personas señaladas en el inciso anterior podrán disponer que los infractores hagan abandono del vehículo de transporte público remunerado de pasajeros.
+
+Si Carabineros de Chile constatare el no pago de la tarifa por parte del pasajero, cursará las infracciones administrativas dispuestas para el caso del número 42 del artículo 200 y, cuando corresponda, la del inciso tercero del artículo 204. Para el evento de que la persona no indique su domicilio, Carabineros, dentro de sus competencias, podrá conducir al pasajero a una unidad policial, para el solo efecto de verificar su domicilio y proceder a efectuar la respectiva citación ante el juzgado de policía local.
 
 ## Título VII
 
@@ -1514,7 +1560,7 @@ Cuando no existan los riesgos o circunstancias señaladas en los artículos ante
 
 1.- En zonas urbanas:
 
-1.1.- Vehículos de menos de 3.860 kilogramos de peso bruto vehicular y motocicletas: 60 kilómetros por hora.
+1.1.- Vehículos de menos de 3.860 kilogramos de peso bruto vehicular y motocicletas: 50 kilómetros por hora.
 
 1.2.- Vehículos con más de 17 asientos, incluido el del conductor, buses, camiones de 3.860 kilogramos de peso bruto vehicular o más y vehículos de transporte escolar: 50 kilómetros por hora.
 
@@ -1551,6 +1597,8 @@ DEL ESTACIONAMIENTO Y DE LA DETENCIÓN
 #### Artículo 148
 
 Los vehículos deberán ser estacionados al lado derecho de la calzada en el sentido del tránsito. Las Municipalidades o la Dirección de Vialidad, podrán, en caso debidamente calificado y siempre que no entorpezcan la circulación, autorizar la detención o el estacionamiento al lado izquierdo, colocando para ello la correspondiente señalización, sin perjuicio de la facultad que corresponde a los Secretarios Regionales Ministeriales de Transportes y Telecomunicaciones conforme a lo dispuesto en el artículo 86.
+
+En todas las vías públicas donde esté permitido estacionar sujeto al pago de un precio o tarifa, su cobro deberá efectuarse de conformidad a lo dispuesto en los números 1, 2 y 3 del artículo 15 A de la ley N° 19.496. No se podrá exigir al usuario, bajo circunstancia alguna, el pago por rangos o tramos de tiempo superior o distinto del tiempo efectivamente utilizado.
 
 #### Artículo 149
 
@@ -2106,6 +2154,58 @@ Respecto del delito previsto en el inciso tercero del artículo 196, será aplic
 
 Con todo, no se aplicará en estas situaciones lo dispuesto en el artículo 38 de dicha ley y en ningún caso la sustitución de la pena privativa de libertad implicará la sustitución o suspensión del cumplimiento de las multas, comiso e inhabilitaciones impuestas.
 
+#### Artículo 196 quáter
+
+Será sancionado con la pena de presidio menor en cualquiera de sus grados y multa de once a quince unidades tributarias mensuales, el que falsificare cualquier instrumento o dispositivo de pago de tarifa, de acreditación de dicho pago y,o de rebaja tarifaria u otros beneficios, que permita acceder a los servicios de transporte público remunerado de pasajeros.
+
+Para estos efectos, se entenderá especialmente que comete falsificación el que:
+
+1°. Modifique o altere cualquier dato de fabricación del medio de pago.
+
+2°. Altere las fechas verdaderas.
+
+3°. Haga en un documento verdadero cualquiera alteración o intercalación que varíe su sentido.
+
+4°. Dé copia en forma fehaciente de un documento supuesto, o manifestando en ella cosa contraria o diferente de la que contenga el verdadero original.
+
+5°. Copie, parcial o totalmente, la información de los datos contenidos en el medio de acceso, sin estar debidamente facultado para ello.
+
+Al autor del delito previsto en este artículo se le impondrá el grado máximo de la pena corporal señalada, según el caso, cuando concurra alguna de las circunstancias siguientes:
+
+a) Cuando se falsifiquen instrumentos o dispositivos para uso masivo.
+
+b) Cuando se trate de un empleado público, que comete falsificación abusando de su oficio.
+
+#### Artículo 196
+
+quinquies.- Se entenderá que comete falsificación el que maliciosamente hiciere uso de un instrumento o dispositivo falsificado para acceder a los servicios de transporte público remunerado de pasajeros. El que incurra en esta conducta será sancionado con la pena establecida en el artículo precedente.
+
+#### Artículo 196
+
+sexies.- Será sancionado con la pena agravada del artículo 196 quáter el que comercialice o distribuya los referidos instrumentos o dispositivos falsificados.
+
+#### Artículo 196
+
+septies.- Será sancionado con la pena de presidio menor en su grado mínimo a medio y con multa de diez a cincuenta unidades tributarias mensuales, según las circunstancias:
+
+a) El que indebidamente se apodere, comercialice, encargue, exporte, transmita, importe o distribuya la información contenida en un medio tecnológico de acceso a los servicios de transporte público remunerado de pasajeros.
+
+b) El que indebidamente y de cualquier modo altere, modifique, dañe o destruya los datos contenidos en un medio tecnológico de acceso a los servicios de transporte público remunerado de pasajeros en perjuicio del Sistema de Transporte Público remunerado de pasajeros.
+
+Para los efectos de este artículo, se entenderá por medios tecnológicos de acceso a los servicios de transporte público remunerado de pasajeros, aquellos elementos o dispositivos tecnológicos autorizados por el Ministerio de Transportes y Telecomunicaciones o la autoridad competente, que permitan acceder a los servicios de transporte público remunerado de pasajeros y pagar la tarifa correspondiente.
+
+Las penas establecidas en este artículo se aumentarán en un grado si quien incurre en las conductas:
+
+1° Las realiza maliciosamente, siendo responsable de la información con ocasión del ejercicio de su oficio.
+
+2° Las realiza sobre datos del sistema de información relativos a medios de acceso a los servicios de transporte público remunerado de pasajeros y pago de la tarifa correspondiente, contenidos en el sistema de tratamiento de información de dichos servicios.
+
+#### Artículo 196
+
+octies.- El que lesione, en razón del ejercicio de sus funciones a un inspector fiscal del Ministerio de Transportes y Telecomunicaciones, al personal de la Empresa de los Ferrocarriles del Estado y sus filiales, o de Metro S.A., que realicen servicios de fiscalización, o a quienes sean contratados por empresas operadoras de servicios de transporte público para realizar labores de verificación de pago de tarifa, será sancionado con la pena asignada al delito correspondiente, aumentada en un grado.
+
+Asimismo, el que amenace a las personas señaladas en el inciso anterior, en los términos de los artículos 296 o 297 del Código Penal, en razón del ejercicio de sus funciones, será sancionado con la pena asignada al delito correspondiente, aumentada en un grado.
+
 #### Artículo 197
 
 Para el juzgamiento de los delitos previstos en esta ley, salvo los descritos en el artículo 198, se aplicarán, según corresponda, los procedimientos establecidos en el Código Procesal Penal, con las siguientes reglas especiales:
@@ -2150,13 +2250,15 @@ Si sólo se produjeren daños en las cosas, se aplicará la pena del inciso prim
 
 Son infracciones o contravenciones gravísimas, las siguientes:
 
-1.- No detenerse ante la luz roja de las señales luminosas del tránsito, o ante la señal "PARE", y
+1.- No detenerse ante la luz roja de las señales luminosas del tránsito, o ante la señal "PARE".
 
 2.- Conducir sin haber obtenido licencia de
 
 conductor, sin perjuicio de lo dispuesto en el artículo 194.
 
 3.- Conducir un vehículo infringiendo lo dispuesto en los incisos tercero y cuarto del artículo 75.
+
+4.- Acceder a los servicios de transporte público remunerado de pasajeros utilizando un pase escolar, pase de educación superior o cualquier instrumento o mecanismo que permita el uso del transporte público remunerado de pasajeros con beneficios, sin ser su titular, o alterándolo con el fin de aparentar la titularidad sobre éstos, para el exclusivo uso de quien efectúe tal alteración.
 
 > **Nota.** De conformidad con el Art. transitorio de la ley 20904, publicada el 16 de marzo de 2016, las obligaciones que la citada ley introduce en el inciso 4° del artículo 75 serán exigibles transcurridos 12 meses desde su publicación.
 
@@ -2246,9 +2348,11 @@ n o de frenos en condiciones deficientes;
 
 40. Toda infracción declarada por el juez como causa principal de un accidente de tránsito que origine daño o lesiones leves;
 
-41.- Infringir lo dispuesto en el inciso final del artículo 75, y
+41.- Infringir lo dispuesto en el inciso final del artículo 75;
 
-42. No pagar la tarifa en vehículos de locomoción colectiva.
+42. Usar los servicios de transporte público remunerado de pasajeros sin pagar la tarifa correspondiente, y
+
+43. Infringir lo dispuesto en el artículo 86.
 
 En los casos de las infracciones de los números 14, 16, 18, 21 y 24, si ellas fueran cometidas por un conductor de un vehículo destinado al transporte público de pasajeros o al transporte de carga y que no fuere el dueño, se le aplicará la pena correspondiente a una infracción leve y no se anotará en el Registro Nacional de Conductores, salvo en los casos establecidos en el Nº 38 de este artículo
 
@@ -2340,6 +2444,8 @@ La pena de multa se aplicará a los infractores de los preceptos de esta ley, de
 
 A los reincidentes de infracciones gravísimas o graves, cometidas en los últimos tres y dos años, respectivamente, se les impondrá el doble de la multa establecida para cada infracción, la que se elevará al triple en caso de incurrirse nuevamente en dicha conducta. Lo anterior, sin perjuicio de las suspensiones o cancelaciones de licencias de conductor que corresponda.
 
+Las personas que indiquen un domicilio falso o inexistente en un procedimiento de fiscalización donde sean citadas al juzgado de policía local serán sancionadas con multa de una a diez unidades tributarias mensuales.
+
 El adquirente de un vehículo, que no cumpla con la obligación establecida en el inciso cuarto del artículo 42, o que indique domicilio falso o inexistente, será sancionado con multa de 3 a 50 unidades tributarias mensuales. Asimismo, si no diera cumplimiento a la obligación establecida en el inciso final del mismo artículo, será sancionado con multa de 3 a 5 unidades tributarias mensuales.
 
 Al que transporte cargas peligrosas sin ajustarse a las normas reglamentarias que rigen la actividad, se le aplicará una multa de 5 a 20 unidades tributarias mensuales, respectivamente.
@@ -2420,9 +2526,11 @@ as condenas por cancelación o suspensión de la licencia de conductor;
 
 5.- Comunicar al Juzgado de Policía Local respectivo los antecedentes para la cancelación o suspensión de la licencia de conductor por reincidencia en infracciones o contravenciones a esta ley;
 
-6.- Remitir la información que les sea requerida por los Tribunales de Justicia, Carabineros de Chile o por los Departamentos de Tránsito y Transportes Público Municipal, y
+6.- Remitir la información que les sea requerida por los Tribunales de Justicia, Carabineros de Chile o por los Departamentos de Tránsito y Transportes Público Municipal;
 
-7.- Otorgar los certificados que les sean solicitados por los conductores inscritos.
+7.- Otorgar los certificados que les sean solicitados por los conductores inscritos, y
+
+8.- Registrar las anotaciones que consten en el "Registro de Pasajeros Infractores.
 
 #### Artículo 212
 
