@@ -10,7 +10,7 @@ Considerando:
 
 Resuelvo:
 
-Fíjanse al interior de la zona urbana de la comuna de Río Bueno los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural e interurbana:
+1. Fíjanse al interior de la zona urbana de la comuna de Río Bueno los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural e interurbana:
 
 Entrada a Río Bueno:
 
@@ -27,5 +27,9 @@ a) Egreso de buses rurales e interurbanos desde el terminal de buses hacia Ruta 
 b) Egreso de buses rurales e interurbanos desde el terminal de buses hacia Lago Ranco: terminal de buses, Joaquín Prieto, San Martín, Serrano, Patricio Lynch y Ruta T-85.
 
 c) Egreso de buses rurales desde el terminal de buses hacia Crucero: terminal de buses, Joaquín Prieto, Ejército Libertador, Comercio, Beauchef y Ruta T-87.
+
+2. El trazado indicado en el párrafo anterior regirá de lunes a viernes desde las 07:00 hrs. y hasta las 21:00 hrs. y los días sábados regirá desde las 07:30 hrs. hasta las 21:00 hrs.
+
+3. El trazado señalado en el numeral 1 de la presente resolución exenta no aplicará en días domingo y festivos.
 
 Anótese, comuníquese y publíquese.- Iñaki Larraza Alberdi, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Ríos.
