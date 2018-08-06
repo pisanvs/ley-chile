@@ -20,13 +20,17 @@ Decreto con fuerza de ley:
 
 #### Artículo 1°
 
-Dispóngase el año 2018, como tercer año de postulación para las siguientes regiones: XV Región de Arica y Parinacota; II Región de Antofagasta; III Región de Atacama; V Región de Valparaíso; VII Región del Maule; VIII Región del Biobío; IX Región de la Araucanía; XIV Región de Los Ríos; XI Región de Aysén del General Carlos Ibáñez del Campo, y Región Metropolitana de Santiago.
+Dispónese el año 2018, como tercer año de postulación para las siguientes regiones: Región de Arica y Parinacota; Región de Antofagasta; Región de Atacama; Región de Valparaíso; Región del Maule; Región del Biobío; Región de la Araucanía; Región de Los Ríos y Región de Aysén del General Carlos Ibáñez del Campo.
+
+Dispónese el año 2019, como cuarto año de postulación para la Región Metropolitana.
 
 #### Artículo 2°
 
-Establézcase para el año escolar 2019, la entrada en vigencia del proceso de admisión escolar dispuesto en el numeral 6) del artículo 2° de la ley N° 20.845, en las regiones señaladas en el artículo 1° precedente.
+Establécese para el año escolar 2019, la entrada en vigencia del proceso de admisión escolar dispuesto en el numeral 6) del artículo 2° de la ley N° 20.845, en las regiones señaladas en el inciso primero del artículo precedente.
 
-Dicho proceso se implementará exclusivamente para el primer curso del menor nivel de enseñanza que tenga reconocido oficialmente cada uno de los establecimientos educacionales de dichas regiones.
+Establécese para el año escolar 2020 la entrada en vigencia del proceso de admisión escolar dispuesto en el numeral 6) del artículo 2º de la ley Nº 20.845, en la Región Metropolitana.
+
+Dichos procesos se implementarán exclusivamente para el primer curso del menor nivel de enseñanza que tenga reconocido oficialmente cada uno de los establecimientos educacionales de dichas regiones.
 
 #### Artículo 3°
 
@@ -34,9 +38,11 @@ Determínase como primer curso del nivel de enseñanza de todos los establecimie
 
 #### Artículo 4°
 
-Señálase para la I Región de Tarapacá; IV Región de Coquimbo; VI Región del Libertador General Bernardo O'Higgins, y X Región de Los Lagos, que el procedimiento de postulación del año 2018 y de admisión del año 2019 de los establecimientos educacionales se extenderá a todos sus cursos o niveles reconocidos oficialmente.
+Señálase para la Región de Tarapacá; Región de Coquimbo; Región del Libertador General Bernardo O'Higgins, y Región de Los Lagos, que el procedimiento de postulación del año 2018 y de admisión del año 2019 de los establecimientos educacionales se extenderá a todos sus cursos o niveles reconocidos oficialmente.
 
-Asimismo, para la XV Región de Arica y Parinacota; II Región de Antofagasta; III Región de Atacama; V Región de Valparaíso; VII Región del Maule; VIII Región del Biobío; IX Región de la Araucanía; XIV Región de Los Ríos; XI Región de Aisén del General Carlos Ibáñez del Campo; y Región Metropolitana de Santiago, el procedimiento de postulación para el año 2019 y de admisión para el año 2020 de los establecimientos educacionales de estas regiones, se extenderá a todos sus cursos o niveles reconocidos oficialmente.
+Asimismo, para la Región de Arica y Parinacota; Región de Antofagasta; Región de Atacama; Región de Valparaíso; Región del Maule; Región del Biobío; Región de la Araucanía; Región de Los Ríos y Región de Aysén del General Carlos Ibáñez del Campo, el procedimiento de postulación para el año 2019 y de admisión para el año 2020 de los establecimientos educacionales de estas regiones, se extenderá a todos sus cursos o niveles reconocidos oficialmente.
+
+Para la Región Metropolitana, el procedimiento de postulación para el año 2020 y de admisión para el año 2021 de los establecimientos educacionales de esta región se extenderá a todos sus cursos o niveles reconocidos oficialmente.
 
 #### Artículo 5°
 

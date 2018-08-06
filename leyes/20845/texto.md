@@ -1218,9 +1218,11 @@ Para el primer año de postulación, se realizará el proceso de admisión en un
 
 Para el segundo año de postulación, se realizará dicho proceso de admisión en cuatro regiones de menos de 1.000.000 de habitantes, y exclusivamente para el menor nivel o curso que tengan los establecimientos educacionales de dichas regiones. Para el caso de la región señalada en el inciso anterior, el procedimiento de admisión se extenderá a todos los cursos o niveles.
 
-Para el tercer año de postulación, se realizará el procedimiento de admisión en todas las demás regiones del territorio nacional no consideradas en los incisos anteriores, y exclusivamente para el menor nivel o curso que tengan los establecimientos educacionales de dichas regiones. Para el caso de las cuatro regiones señaladas en el inciso anterior, el procedimiento de admisión se extenderá a todos los cursos o niveles.
+Para el tercer año de postulación, se realizará el procedimiento de admisión en todas las demás regiones del territorio nacional no consideradas en los incisos anteriores, con excepción de la Región Metropolitana, y exclusivamente para el menor nivel o curso que tengan los establecimientos educacionales de dichas regiones. Para el caso de las cuatro regiones señaladas en el inciso anterior, el procedimiento de admisión se extenderá a todos los cursos o niveles.
 
-Para el cuarto año de postulación, en todas las regiones del país se aplicará el nuevo procedimiento de admisión.
+Para el cuarto año de postulación, se realizará el procedimiento de admisión en la Región Metropolitana, y exclusivamente para el menor nivel o curso que tengan los establecimientos educacionales de dicha región. Para el caso de las regiones señaladas en el inciso anterior, el procedimiento de admisión se extenderá a todos los cursos o niveles.
+
+Para el quinto año de postulación, en todas las regiones del país se aplicará el nuevo procedimiento de admisión.
 
 Respecto de aquellos establecimientos educacionales que de acuerdo a un reglamento dictado por el Ministerio de Educación, cumplan con características históricas, de rendimiento académico destacado dentro de su región, que sean gratuitos, que presenten una demanda considerablemente mayor a sus vacantes y que hayan establecido procedimientos de selección académica a la fecha de publicación de la ley, iniciarán sus procesos de admisión, de acuerdo a la gradualidad territorial a que se refieren los incisos anteriores y de conformidad a los siguientes porcentajes.
 
