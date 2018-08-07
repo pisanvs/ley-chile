@@ -116,9 +116,9 @@ f) En el caso que Serviu haga efectivo el documento de garantía que cauciona el
 
 g) En caso de entregarse como garantía un Certificado de Fianza, éste deberá ser emitido por una Institución de Garantía Recíproca regida por la ley Nº 20.179, clasificada en categoría A en el Registro respectivo que lleva la Superintendencia de Bancos e Instituciones Financieras.
 
-h) Las garantías pecuniarias se devolverán una vez que se haga efectiva la restitución del préstamo.
+h) Las garantías se devolverán una vez que se haga efectiva la restitución del préstamo. No obstante lo anterior, habiéndose acreditado la recepción conforme por parte de Serviu de la totalidad de las obras del proyecto en cuestión, financiadas con el crédito, podrán reemplazarse las garantías consistentes en boleta bancaria de garantía, póliza de garantía de ejecución inmediata o Certificado de Fianza Recíproca, por un pagaré autorizado ante Notario, por el valor total del crédito adeudado.
 
-8. El préstamo se formalizará mediante el correspondiente contrato de mutuo, protocolizado de conformidad al artículo Nº 61 de la ley Nº 16.391, siendo de cargo del mutuario todos los gastos que ello irrogue, sin perjuicio de su posterior aprobación mediante resoluciones del Director del Serviu respectivo.
+9. El préstamo se formalizará mediante el correspondiente contrato de mutuo, protocolizado de conformidad al artículo Nº 61 de la ley Nº 16.391, siendo de cargo del mutuario todos los gastos que ello irrogue, sin perjuicio de su posterior aprobación mediante resoluciones del Director del Serviu respectivo.
 
 Anótese, publíquese y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
