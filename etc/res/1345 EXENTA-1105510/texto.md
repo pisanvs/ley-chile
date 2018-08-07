@@ -52,21 +52,27 @@ b) Que la concesión cumple con el contorno de la zona de servicio y el contorno
 
 c) Que se cumple con lo dispuesto en la resolución exenta N° 403, de 30 de abril de 2008, cuyo texto refundido fue establecido por resolución exenta N° 3.103, de 12 de junio de 2012, y sus modificaciones, todas de la Subsecretaría de Telecomunicaciones, y/o con las normas de calidad ambiental o de emisiones que en su caso dicte el Ministerio del Medio Ambiente.
 
-d) En caso que el sistema radiante se ubique en torres y/o infraestructura de telecomunicaciones nueva, deberá acompañar:
+d) En caso que el sistema radiante se ubique en torres y/o infraestructura de telecomunicaciones nueva, en territorio que no haya sido declarado como saturado de infraestructura de torres o que genere tal condición producto de su instalación, de acuerdo a la Ley General de Urbanismo y Construcciones, o en torres y/o infraestructura de telecomunicaciones ya instaladas por el concesionario o por un tercero con posterioridad a la entrada en vigencia de la ley N° 20.599, deberá acompañar:
 
-a. Documento que acredite que la instalación de la torre soporte ha cumplido con los procedimientos establecidos al efecto en la normativa contemplada en el DFL N° 458, de 1975, Ley General de Urbanismo y Construcciones, de conformidad a sus características y lugar de emplazamiento, en relación con lo dispuesto en el decreto supremo N° 22, de 2013, del Ministerio de Transportes y Telecomunicaciones, citado en la letra e) de los Vistos, o copia del acto administrativo que autorizó la instalación en caso de colocalización en infraestructura ya autorizada; y,
+a. Copia del aviso de instalación de la torre soporte de antenas y sistemas radiantes ingresado a la Dirección de Obras Municipales de la Municipalidad que corresponda, en los términos previstos en el artículo 7° del decreto N° 22, de 2013, del Ministerio de Transportes y Telecomunicaciones, citado en la letra e) de los Vistos.
 
-b. Certificado de la SEC.
+b. Certificado de la Superintendencia de Electricidad y Combustibles (SEC).
 
-e) En caso que el sistema radiante se ubique en torres y/o infraestructura de telecomunicaciones propia o de terceros ya autorizada, la interesada deberá:
+c. Certificado de la Dirección General de Aeronáutica Civil (DGAC).
 
-a. Indicar en su solicitud el decreto o el acto administrativo autorizatorio correspondiente, así como el número del oficio de la Subsecretaría en cuya virtud se recepcionaron las obras de dicha instalación o, en defecto de este último, el número de ingreso Subtel de la solicitud de recepción de obras respectiva;
+d. Cuando corresponda, copia del acuerdo que autoriza la colocalización o del contrato de arriendo, cesión, uso y goce, etc., de la torre y/o infraestructura ya autorizada, permitiéndole el uso de la misma;
 
-b. Acompañar Certificado de la SEC correspondiente, en caso que se aumente el consumo eléctrico anteriormente autorizado o, para el resto de los casos, Certificado de instalador eléctrico autorizado;
+e) En caso que el sistema radiante se ubique en torres y/o infraestructura de telecomunicaciones propia o de terceros ya autorizada con anterioridad a la entrada en vigencia de la ley N° 20.599, deberá, en lo fundamental:
 
-c. El contrato (arriendo, cesión de uso, acuerdo de colocalización, etc.) con el propietario de dicha infraestructura autorizándole el uso de la misma;
+a. Indicar en su solicitud, el decreto o el acto administrativo autorizatorio correspondiente, o el número del oficio de la Subsecretaría en cuya virtud se recepcionaron las obras de dicha instalación, o el número de Ingreso Subtel de la solicitud de recepción de obras respectiva, o en defecto de todo lo anterior, la resolución exenta N° 10, de 2016, otorgada por el Consejo Nacional de Televisión, mediante la cual se cumple acuerdo que actualiza los parámetros técnicos de los concesionarios de radiodifusión televisiva analógicos, de libre recepción, en la banda VHF y UHF, para realizar el proceso de migración de tecnología analógica a digital;
 
-d. En caso de torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones que se instalen en reemplazo de otras torres ya autorizadas, de acuerdo a lo establecido en el artículo 19 bis de la Ley General de Telecomunicaciones, o se aumente la altura de la torre para instalar la antena o sistema radiante a recepcionar, la concesionaria deberá acompañar documento que acredite que la torre soporte de antenas y sistemas radiantes han cumplido correctamente el trámite pertinente en la municipalidad que corresponda y por tanto se encuentra debidamente autorizada, de acuerdo a lo dispuesto en la ley 20.599.
+b. Si el terreno pertenece a un tercero y en la eventualidad que no se disponga del contrato o acuerdo que le permite a la concesionaria tener asentada la torre y/o la infraestructura en él, se deberá acompañar a la solicitud, una declaración jurada ante notario de la concesionaria, que indique, a lo menos, que la torre o infraestructura propia que singulariza, está ubicada en el lugar que individualiza claramente y que el derecho que se ejerce sobre el terreno en el cual se asienta la infraestructura, sea éste, vr.gr. en propiedad, arrendamiento, cesión, uso y goce, se ejerce en forma pacífica desde una fecha claramente señalada y que no presenta ningún tipo de litigio pendiente con ninguna persona que alegue derechos sobre el mismo;
+
+c. En caso que la torre y/o infraestructura pertenezca a un tercero, copia del acuerdo que autoriza la colocalización o del contrato de arriendo, cesión, uso y goce, etc., de la infraestructura autorizándole el uso de la misma;
+
+d. Certificado de la Superintendencia de Electricidad y Combustibles (SEC), en caso que se aumente el consumo eléctrico autorizado o, para el resto de los casos, un Certificado o Declaración de Instalación Eléctrica, firmado por el profesional competente, debidamente registrado en la SEC, con licencia de instalador eléctrico vigente;
+
+e. Certificado de la Dirección General de Aeronáutica Civil (DGAC).
 
 #### Artículo 2°
 
