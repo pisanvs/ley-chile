@@ -44,7 +44,7 @@ b) El monto de este préstamo no podrá superar la parte del subsidio que se des
 
 c) Para garantizar el préstamo por la adquisición del terreno donde se ejecutará el proyecto, su dominio deberá quedar inscrito a nombre del Serviu, en el Conservador de Bienes Raíces respectivo.
 
-d) Tratándose de construcción en nuevos terrenos, si estos se encuentran inscritos a nombre del respectivo Comité, la inscripción a nombre del Serviu se reemplazará por la constitución de una prohibición de enajenar y gravar en favor de Serviu, la que se levantará una vez restituido el préstamo.
+d) Eliminada.
 
 4. Condiciones para el otorgamiento de préstamos para la ejecución de proyectos de construcción con algunos de los programas habitacionales vigentes otorgados por el Minvu:
 
@@ -118,7 +118,7 @@ f) En el caso que el Serviu haga efectivo el documento de garantía que cauciona
 
 g) En caso de entregarse como garantía un Certificado de Fianza, este deberá ser emitido por una Institución de Garantía Recíproca regida por la ley N° 20.179, clasificada en categoría A en el Registro respectivo que lleva la Superintendencia de Bancos e Instituciones Financieras.
 
-h) Las garantías se devolverán una vez que se haga efectiva la restitución del préstamo.
+h) Las garantías se devolverán una vez que se haga efectiva la restitución del préstamo. No obstante lo anterior, habiéndose acreditado la recepción conforme por parte de Serviu de la totalidad de las obras del proyecto en cuestión, financiadas con el crédito, podrán reemplazarse las garantías consistentes en boleta bancaria de garantía, póliza de garantía de ejecución inmediata o Certificado de Fianza Recíproca, por un pagaré autorizado ante Notario, por el valor total del crédito adeudado.
 
 9. El préstamo se formalizará mediante el correspondiente contrato de mutuo, protocolizado de conformidad al artículo N° 61 de la ley N° 16.391, siendo de cargo del mutuario todos los gastos que ello irrogue, sin perjuicio de su posterior aprobación mediante resoluciones del Director del Serviu respectivo.
 
