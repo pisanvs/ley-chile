@@ -54,7 +54,7 @@ Resolución:
 
 Sólo podrán participar de estas selecciones las familias con proyectos calificados hasta el último día hábil del mes correspondiente al cierre de postulación.
 
-En el caso de Proyectos de Acondicionamiento Térmico de Viviendas para viviendas ubicadas en zonas con Planes de Descontaminación Atmosférica, se define una fecha especial de postulación en el mes de julio, pudiendo participar proyectos de este tipo que estén calificados antes del último día hábil de dicho mes.
+En el caso de Proyectos de Acondicionamiento Térmico de Viviendas para viviendas ubicadas en zonas con Planes de Descontaminación Atmosférica, además de las postulaciones en las fechas señaladas precedentemente, podrán postular en los meses de agosto y octubre, los proyectos de este tipo que estén calificados antes del último día hábil del mes correspondiente al cierre de la postulación.
 
 3. Los montos por tipo de proyecto para cada región serán los que se indican en la tabla inserta a continuación:
 
