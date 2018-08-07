@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DE IVA
+
+La VIII Dirección Regional Concepción del SII, por resolución Ex. Nº 1.002, de fecha 26 de julio de 2018, otorga, a contar del 1º del mes siguiente al de esta publicación, al contribuyente Comercializadora de Maderas Los Aromos Ltda., RUT 76.464.456-5, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de Madera, establecido en la resolución Ex. Nº 4.916, del 31 de octubre de 2000, de la Dirección Nacional del Servicio Impuestos Internos, publicada en el Diario Oficial el 1º de noviembre de 2000.
