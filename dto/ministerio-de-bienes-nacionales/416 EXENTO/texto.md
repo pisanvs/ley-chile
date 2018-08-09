@@ -6,11 +6,13 @@ Considerando: Que es imprescindible establecer normas para la subrogación del c
 
 Decreto:
 
-Establéscese que el Secretario Regional Ministerial de Bienes Nacionales de XI Región de Aysén, Grado 4º EUR, para el caso de ausencia o impedimento de éste, será subrogado en el siguiente orden:
+Establécese que el Secretario Regional Ministerial de Bienes Nacionales de la Región de Aysén, grado 4° EUR, para el caso de ausencia o impedimento de éste, será subrogado en el siguiente orden:
 
-1.- Secretario(a) Regional Ministerial de Economía, de la Región de Aysén.
+1°.- El funcionario de la misma Unidad que siga en el orden jerárquico en concordancia con el Art. 80 del Estatuto Administrativo, ley Nº 18.834.
 
-2.- Secretario(a) Regional Ministerial de Medio Ambiente, de la Región de Aysén.
+2°.- Secretario(a) Regional Ministerial de Economía de la Región de Aysén.
+
+3°.- Secretario(a) Regional Ministerial del Medio Ambiente de la Región de Aysén.
 
 Anótese, comuníquese, archívese y publíquese en el Diario Oficial.- Víctor Osorio Reyes, Ministro de Bienes Nacionales.- Luis Felipe Céspedes, Ministro de Economía, Fomento y Turismo.- Pablo Badenier Martínez, Ministro del Medio Ambiente.
 
