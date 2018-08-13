@@ -68,7 +68,7 @@ Un académico designado por el Consejo de Rectores, elegido entre el resto de la
 
 e) Ciencias Aplicadas y Tecnológicas:
 
-Un académico designado por el Consejo de Rectores, elegido entre el resto de las universidades que lo integran, y el Presidente de la Comisión Nacional de Investigaciones Científicas y Tecnológicas;
+Un académico designado por el Consejo de Rectores, elegido entre el resto de las universidades que lo integran, y un representante del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación;
 
 f) Historia:
 

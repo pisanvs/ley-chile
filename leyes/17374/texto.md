@@ -352,9 +352,7 @@ El decreto que fije las rentas regirá desde el 1° de Enero al 31 de Diciembre 
 
 #### Artículo 42°
 
-Las estadísticas sobre recursos científicos y tecnológicos que actualmente confecciona la Comisión Nacional de Investigación Científica y Tecnológica, deberán elaborarse en coordinación con el Instituto Nacional de Estadísticas.
-
-El Director Nacional de Estadísticas, formará parte del Consejo de Coordinación de la Comisión Nacional de Investigación Científica y Tecnológica.
+Las estadísticas sobre recursos científicos y tecnológicos que confeccione el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación, deberán elaborarse en coordinación con el Instituto Nacional de Estadísticas.
 
 Concédese un nuevo plazo de ciento ochenta días para que el Presidente de la República decrete modificaciones al Estatuto Orgánico de la Comisión Nacional de Investigación Científica y Tecnológica.
 

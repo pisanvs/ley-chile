@@ -80,7 +80,7 @@ b) un científico nombrado por el Director del Instituto de Salud Pública de Ch
 
 c) un investigador nombrado por el Presidente del Instituto de Investigaciones Agropecuarias;
 
-d) un científico nombrado por el Presidente de la Comisión Nacional de Investigación Científica y Tecnológica;
+d) un científico nombrado por el Ministro o Ministra de Ciencia, Tecnología, Conocimiento e Innovación;
 
 e) un representante de la Asociación Gremial de Médicos Veterinarios más antigua del país, y
 

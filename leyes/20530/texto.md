@@ -280,6 +280,8 @@ g) El Ministro del Trabajo y Previsión Social.
 
 h) La Ministra Directora del Servicio Nacional de la Mujer.
 
+i) El Ministro o Ministra de Ciencia, Tecnología, Conocimiento e Innovación.
+
 Sin perjuicio de lo anterior, el Ministro de Desarrollo Social podrá invitar a participar, con derecho a voz, a otros Secretarios de Estado, funcionarios de la Administración del Estado o personas de reconocida competencia en el ámbito social.
 
 En caso de ausencia o impedimento del Presidente, éste será reemplazado por el Ministro que corresponda según el orden establecido en el inciso primero.
@@ -314,7 +316,7 @@ g) Cumplir las demás funciones y tareas que ésta u otras leyes o el Presidente
 
 #### Artículo 15
 
-El Comité Interministerial de Desarrollo Social celebrará sesiones cuando lo convoque su presidente. El quórum para sesionar será de 4 miembros y los acuerdos, que serán vinculantes, se adoptarán por la mayoría absoluta de los asistentes. En caso de empate, decidirá el voto del ministro presidente o quien lo reemplace. El Comité en su primera sesión determinará las normas para su funcionamiento. El Comité deberá sesionar al menos dos veces al año.
+El Comité Interministerial de Desarrollo Social celebrará sesiones cuando lo convoque su presidente. El quórum para sesionar será de 5 miembros y los acuerdos, que serán vinculantes, se adoptarán por la mayoría absoluta de los asistentes. En caso de empate, decidirá el voto del ministro presidente o quien lo reemplace. El Comité en su primera sesión determinará las normas para su funcionamiento. El Comité deberá sesionar al menos dos veces al año.
 
 #### Artículo 16
 

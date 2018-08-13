@@ -70,7 +70,7 @@ iii) Contar con mecanismos que reflejen fiel y claramente la cuenta de aquellos 
 
 iv) Presentar una declaración jurada, firmada por el Representante, en la que éste declare que los antecedentes que se entregan a CORFO para los efectos de obtener la inscripción en el Registro del Centro de Investigación son auténticos, fidedignos, veraces y que se encuentran plenamente vigentes a la fecha de su presentación.
 
-La solicitud de inscripción en el Registro será resuelta por un órgano colegiado de CORFO, integrado por cinco miembros, dos de ellos designados por el Vicepresidente Ejecutivo de CORFO y dos por el Presidente de la Comisión Nacional de Investigación Científica y Tecnológica, y uno designado por el Ministro de Economía, Fomento y Turísmo. El quórum mínimo de funcionamiento de dicho órgano será de tres miembros, y los acuerdos se tomarán por simple mayoría de los presentes. En caso de producirse un empate, el miembro que presida el órgano tendrá voto dirimente.
+La solicitud de inscripción en el Registro será resuelta por un órgano colegiado de CORFO, integrado por cinco miembros, dos de ellos designados por el Vicepresidente Ejecutivo de CORFO y dos por el Ministro o Ministra de Ciencia, Tecnología, Conocimiento e Innovación, y uno designado por el Ministro de Economía, Fomento y Turísmo. El quórum mínimo de funcionamiento de dicho órgano será de tres miembros, y los acuerdos se tomarán por simple mayoría de los presentes. En caso de producirse un empate, el miembro que presida el órgano tendrá voto dirimente.
 
 El Reglamento del Registro de Centros para la Realización de Actividades de Investigación o Desarrollo deberá contemplar las modalidades y requisitos de funcionamiento de dicho órgano colegiado.
 
@@ -252,7 +252,7 @@ CORFO, así como el personal que actúe bajo su dependencia, y aquellos asesores
 
 #### Artículo 16
 
-Un reglamento expedido mediante decreto supremo del Ministerio de Economía, Fomento y Turismo, y firmado además por el Ministro de Hacienda, determinará los procedimientos para la presentación, revisión, certificación y revocación de los proyectos de investigación y desarrollo, así como el mecanismo de reajustabilidad, forma de pago y demás aspectos del arancel establecido en el artículo 25.
+Un reglamento expedido mediante decreto supremo del Ministerio de Economía, Fomento y Turismo, y firmado además por los Ministros o Ministras de Hacienda y de Ciencia, Tecnología, Conocimiento e Innovación, determinará los procedimientos para la presentación, revisión, certificación y revocación de los proyectos de investigación y desarrollo, así como el mecanismo de reajustabilidad, forma de pago y demás aspectos del arancel establecido en el artículo 25.
 
 En el mismo reglamento se establecerá el procedimiento mediante el cual los contribuyentes podrán acogerse a lo señalado en los artículos 4º y 9º, y requerir a CORFO para los efectos del inciso final del artículo siguiente.
 

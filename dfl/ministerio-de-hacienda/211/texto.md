@@ -24,9 +24,11 @@ Reconstrucción, que lo presidirá;
 
 5) El Ministro de Planificación y Cooperación;
 
-6) El Ministro de Relaciones Exteriores, y
+6) El Ministro de Relaciones Exteriores;
 
-7) Dos Consejeros designados por el Presidente de la República, uno de destacada trayectoria en el ámbito tecnológico y otro en el ámbito financiero. Al menos uno de ellos deberá tener además, reconocida experiencia en actividades productivas empresariales.
+7) El Ministro o Ministra de Ciencia, Tecnología, Conocimiento e Innovación, y
+
+8) Dos Consejeros designados por el Presidente de la República, uno de destacada trayectoria en el ámbito tecnológico y otro en el ámbito financiero. Al menos uno de ellos deberá tener además, reconocida experiencia en actividades productivas empresariales.
 
 Los Ministros serán reemplazados por sus subrogantes legales cuando no puedan asistir a las sesiones por cualquier causa, circunstancia que no será necesario acreditar. En caso de ausencia del Ministro de Economía, Fomento y Reconstrucción, presidirá el Consejo el Vicepresidente Ejecutivo de la Corporación.
 
