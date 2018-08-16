@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°773, de 18 de julio de 2018, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e), y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.170-C, 171-A, 171-B y 171-C, para la obra: REPOSICION RUTA G-78, SECTOR MELIPILLA-CUNCUMEN, que figura a nombre de VERA GONZALES LOURDES MARIA Y OTRO, rol de avalúo 2560-199, Comuna de MELIPILLA, REGION METROPOLITANA, superficies 183, 291, 7 y 81 m2 respectivamente. La Comisión de Peritos integrada por DOUGLAS MAXIMILIANO HERRERA FLORES, NORMAN ESTANISLAO CALDERON PONTIGGIA y KARINE ELKE ACEVEDO HINOJOSA, mediante informe de tasación de 14 de marzo de 2016, fijó el monto de la indemnización provisional en la cantidad de $3.072.400 para el lote N°170-C, $31.588.600 para el lote N°171-A, $854.600 para el lote N°171-B, y $2.763.650 para el lote N°171-C. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
