@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 2.480 de fecha 07/08/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación del Lote N° 79-0, inmueble consistente en el resto del retazo C, con frente a camino a Chol-Chol, de esta ciudad, comuna de Temuco, Rol de Avalúo 1352-4. La superficie a expropiar aproximada es de 171,01 metros cuadrados, de aparente dominio de Jorge Mariano Martínez Parra. Comisión de Peritos integrada señores Marcela Melo Rodríguez, Arquitecto, doña Constanza Victoria Mihoevic González, Ingeniero Constructor y don Alberto Larenas Pizarro, Arquitecto, fijó monto de Indemnización Provisional en $34.838.102, según Informe N° 79-0 de fecha 31/08/2018, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
