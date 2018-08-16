@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 2.483 de fecha 07/08/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación del Lote N° 77-0, inmueble consistente en sitio y casa ubicada en la ciudad de Temuco, comuna del mismo nombre, Región de la Araucanía, ubicada en calle O pasaje P. de Valdivia N° 0951, que corresponde según sus títulos al lote N° 3 de la manzana 2, conforme al plano de loteo del conjunto Habitacional denominado Villa Lonquimay, comuna de Temuco, Rol de Avalúo 1311-43. La superficie a expropiar aproximada es de 38,26 metros cuadrados, de aparente dominio de Eugenio Antonio Espinoza Yáñez. Comisión de Peritos integrada señores Marcela Melo Rodríguez, Arquitecto, doña Constanza Victoria Mihoevic González, Ingeniero Constructor y don Alberto Larenas Pizarro, Arquitecto, fijó monto de Indemnización Provisional en $55.023.354, según Informe N° 77-0 de fecha 31/08/2018, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
