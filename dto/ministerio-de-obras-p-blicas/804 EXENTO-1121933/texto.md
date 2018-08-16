@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 804 de 23 de julio de 2018, y de conformidad a la facultad otorgada en el artículo 3° letra a), 10° letra c), 14° letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y el DFL MOP N° 206, de 1960, artículo 15 inciso 2° y 22° N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote de terreno N° 3, Rol de Avalúo 152-1, Comuna de Llay Llay, superficie 748 m2. para la obra CAMINO RUTA 5 NORTE, TRAMO SANTIAGO - LOS VILOS SECTOR: KM. 84.540,00 AL KM. 86.620,00 ENLACE LLAY-LLAY, COMUNA DE LLAY LLAY, PROVINCIA DE SAN FELIPE, REGIÓN DE VALPARAÍSO. La Comisión de Peritos integrada por Cristián Andrés Cáceres Vargas, Paulina Lorena Jadue Zaror y Rayén Alejandra Guzmán Theoduloz, fijó el valor de tasación con fecha 21 de agosto de 2017, acordándose la indemnización con sus propietarios ESTEBAN ALONSO CANALES CANALES Y OTROS, en la cantidad de $14.158.115.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
