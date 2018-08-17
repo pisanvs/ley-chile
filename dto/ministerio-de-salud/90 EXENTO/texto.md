@@ -18,7 +18,7 @@ D. Manuel Alejandro Elizondo Pérez, Cédula de Identidad N° 14.325.065-2, Prof
 
 Segundo orden de subrogancia
 
-D. Nelson Guillermo Adrián Flores, Cédula de Identidad N° 6.330.389-5, Directivo, grado 2° EUS, titular.
+D. Nelson Guillermo Adrian Flores, Cédula de Identidad Nº 6.330.389-5, Profesional, grado 5º EUS, titular.
 
 Tercer orden de subrogancia
 
