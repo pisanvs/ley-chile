@@ -1,0 +1,5 @@
+COMPLEMENTA CIRCULAR N° 54, DEL 2 DE OCTUBRE DE 2009, EXTENDIENDO EL TRATAMIENTO TRIBUTARIO CONTENIDO EN ELLA, A LOS PRODUCTOS DE HIGIENE PERSONAL QUE PRESENTEN UNA PÉRDIDA DE SU VALOR COMERCIAL QUE DIFICULTE O HAGA IMPOSIBLE SU COMERCIALIZACIÓN
+
+Extracto de Circular del Servicio de Impuestos Internos N° 42, de fecha 9 de agosto de 2018, que complementa circular N° 54, del 2 de octubre de 2009, extendiendo el tratamiento tributario contenido en ella, a la entrega gratuita de productos de higiene personal que hayan perdido su valor comercial por desperfectos menores en su etiquetado, empaque, envoltorio o envase o debido a la proximidad de su fecha de expiración, cuando la institución sin fines de lucro que los recibe los destine a la utilización y/o consumo por personas de escasos recursos o en situación de vulnerabilidad.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en agosto de 2018.
