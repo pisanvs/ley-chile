@@ -180,7 +180,7 @@ Corresponderá al Ministerio de Educación, en adelante el Ministerio, a través
 
 #### Artículo 5º
 
-Para la consecución de los objetivos propuestos, el Ministerio desarrollará las siguientes líneas de perfeccionamiento:
+Para la consecución de los objetivos propuestos, el Ministerio desarrollará las siguientes líneas de acciones formativas:
 
 1.- Actualización Técnica en las especialidades y sectores económicos del currículum vigente.
 
@@ -188,47 +188,51 @@ Para la consecución de los objetivos propuestos, el Ministerio desarrollará la
 
 3.- Postítulo en Pedagogía para docentes de especialidades de Enseñanza Media Técnico Profesional con título profesional no pedagógico o técnico de nivel superior.
 
-4.- Pasantías Nacionales en Centros de Referencia y cursos con Pasantías en el Extranjero para Docentes de liceos con Educación Media Técnico Profesional.
+4.- Pasantías Nacionales en Centros de Referencia y programas de formación con Pasantías en el Extranjero para Docentes de liceos con Educación Media Técnico Profesional.
 
 #### Artículo 6º
 
-La línea de perfeccionamiento denominada Actualización Técnica en los sectores económicos y sus respectivas especialidades de la formación diferenciada de la Enseñanza Media Técnico Profesional, en adelante la Actualización, tiene como objetivo contribuir a la actualización de conocimientos, destrezas y actitudes a través de un perfeccionamiento continuo de docentes, centrado en la profundización y extensión de saberes que demanda el marco curricular.
+Las Acciones Formativas de Actualización Técnica en los sectores económicos y sus respectivas especialidades de la formación diferenciada de la Enseñanza Media Técnico Profesional, en adelante la Actualización, tienen como objetivo contribuir a la actualización de conocimientos, destrezas y actitudes a través de una formación continua de profesionales de la educación, centrada en la profundización y extensión de saberes que demanda el marco curricular.
 
 #### Artículo 7º
 
-La Actualización se impartirá a través de cursos presenciales, a distancia, o mixtos de a lo menos 40 horas pedagógicas, dictados por instituciones de educación superior reconocidas por el Estado e instituciones privadas que se encuentren relacionadas con la formación y capacitación en los sectores económicos y las especialidades del marco curricular vigente y/o consorcios de instituciones de educación superior que se encuentren relacionadas con la formación y capacitación en las áreas del conocimiento del marco curricular vigente a las cuales el Ministerio encomiende su realización.
+La Actualización se impartirá a través de programas de formación presenciales, a distancia, o mixtos de a lo menos 40 horas pedagógicas, dictados por instituciones de educación superior acreditadas e instituciones privadas que se encuentren relacionadas con la formación en los sectores económicos y las especialidades del marco curricular vigente y/o consorcios de instituciones de educación superior que se encuentren relacionadas con la formación en las áreas del conocimiento del marco curricular vigente a las cuales el Ministerio encomiende su realización.
 
 Las instituciones de educación superior que formen consorcios deberán constituirse a través de instrumento público, suscrito ante notario, en el que deberá constar la designación de la institución responsable de la ejecución del convenio, institución que se desempeñará como contraparte del Ministerio de Educación. A ella le corresponderá suscribir, en representación del consorcio, el acuerdo de voluntades que se celebre para estos efectos.
 
-Estos cursos y acciones de perfeccionamiento se realizarán en los sectores económicos y especialidades de la Formación Diferenciada Técnico Profesional de la Educación Media y se determinarán anualmente por el Centro de Perfeccionamiento, de acuerdo a la concentración de docentes por especialidad en cada región, a las prioridades de desarrollo regional y a las necesidades de perfeccionamiento docente detectadas a través de las Secretarías Ministeriales y Departamentos Provinciales y estudios de necesidades de perfeccionamiento realizados por el Programa u otros organismos ministeriales.
+Estas acciones de formación se realizarán en los sectores económicos y especialidades de la Formación Diferenciada Técnico Profesional de la Educación Media y se determinarán anualmente por el CPEIP, de acuerdo a la concentración de profesionales de la educación por especialidad en cada región, a las prioridades de desarrollo regional, a las necesidades de formación derivadas de los requerimientos que proporcione el Sistema de Desarrollo Profesional Docente establecido en el Título III del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación y los resultados del Sistema de Evaluación Docente prescrito en el artículo 70 del mismo cuerpo legal.
+
+Los programas de formación indicados en el inciso primero, deberán encontrase certificados e inscritos en el registro público, de acuerdo a lo establecido en el artículo 12 quáter del decreto con fuerza de ley Nº 1 de 1996, del Ministerio de Educación.
 
 #### Artículo 8º
 
-La línea de perfeccionamiento denominada Apropiación Curricular y Didáctica de la Formación General y Formación Diferenciada Técnico Profesional, en adelante Apropiación, tiene como objetivo contribuir al mejoramiento de la calidad de los procesos enseñanza aprendizaje, a través de la profundización y contextualización del currículo de acuerdo a la realidad de los y las estudiantes y de la realidad productiva regional, con el fin de desarrollar estrategias metodológicas y didácticas pertinentes a la enseñanza de las especialidades y de la formación general en relación con éstas.
+Las acciones de formación denominadas Apropiación Curricular y Didáctica de la Formación General y Formación Diferenciada Técnico Profesional, en adelante Apropiación, tienen como objetivo contribuir al mejoramiento de la calidad de los procesos enseñanza aprendizaje, a través de la profundización y contextualización del currículo de acuerdo a la realidad de los y las estudiantes y de la realidad productiva regional, con el fin de desarrollar estrategias metodológicas y didácticas pertinentes a la enseñanza de las especialidades y de la formación general en relación con éstas.
 
 #### Artículo 9º
 
-Los cursos de Apropiación se impartirán a través de modalidades de enseñanza presenciales, a distancia o mixta, de a lo menos 60 horas pedagógicas dictados por instituciones de educación superior acreditadas por el Estado o reconocidos por éste, consorcios de instituciones de educación superior e instituciones privadas, relacionadas con la formación en las áreas del conocimiento del marco curricular vigente.
+Los Programas de Formación de Apropiación se impartirán a través de modalidades de enseñanza presenciales, a distancia o mixta, de a lo menos 60 horas pedagógicas dictados por instituciones de educación superior acreditadas, consorcios de instituciones de educación superior e instituciones privadas, relacionadas con la formación en las áreas del conocimiento del marco curricular vigente.
+
+Los programas de formación indicados en el inciso anterior, deberán encontrarse certificados e inscritos en el registro público, de acuerdo a lo establecido en el artículo 12 quáter del decreto con fuerza de ley Nº 1 de 1996, del Ministerio de Educación.
 
 #### Artículo 10º
 
-Cada curso se constituirá con un mínimo de 15 alumnos docentes participantes y un máximo de 30. El Centro de Perfeccionamiento podrá autorizar la realización de cursos con un menor número de participantes en regiones en las que el universo de docentes sea menor al mínimo estimado, no pudiendo ser en todo caso inferior a 10 participantes.
+Cada programa de formación se constituirá con un mínimo de 15 alumnos docentes participantes y un máximo de 30. El Centro de Perfeccionamiento podrá autorizar la realización de programas de formación con un menor número de participantes en regiones en las que el universo de docentes sea menor al mínimo estimado, no pudiendo ser en todo caso inferior a 10 participantes.
 
-#### Artículo 11º
+#### Artículo 11
 
-Los sectores y subsectores de aprendizaje de formación general y los sectores económicos con sus especialidades en los cuales se desarrollarán cursos se determinarán de acuerdo a la concentración de docentes por especialidad en cada región, a las prioridades de desarrollo regional y a las necesidades de perfeccionamiento docente detectadas a través de las Secretarías Ministeriales y Departamentos provinciales, y estudios de necesidades de perfeccionamiento realizados por el Programa u otros organismos ministeriales.
+Las asignaturas de aprendizaje de formación general y los sectores económicos con sus especialidades en los cuales se desarrollarán programas de formación se determinarán de acuerdo a la concentración de profesionales de la educación por especialidad en cada región, a las prioridades de desarrollo regional, a las necesidades de formación derivadas de los requerimientos que proporcione el Sistema de Desarrollo Profesional Docente establecido en el Título III del decreto con fuerza de ley Nº 1 de 1996, del Ministerio de Educación y los resultados del Sistema de Evaluación Docente prescrito en el artículo 70 del mismo cuerpo legal.
 
 #### Artículo 12º
 
-Para la consecución de los objetivos propuestos en los artículos 6º y 8º, el Ministerio podrá celebrar convenios con Universidades e Instituciones de Educación Superior del Estado o reconocidas por éste, que se encuentren acreditadas, así como también con instituciones de educación superior organizadas en consorcios e instituciones privadas que se encuentren relacionadas con la formación y capacitación en los sectores económicos y las especialidades del marco curricular vigente.
+Para la consecución de los objetivos propuestos en los artículos 6º y 8º, el Ministerio podrá celebrar convenios con Universidades e Instituciones de Educación Superior del Estado o reconocidas por éste, que se encuentren acreditadas, así como también con instituciones de educación superior acreditadas organizadas en consorcios e instituciones privadas que se encuentren relacionadas con la formación en los sectores económicos y las especialidades del marco curricular vigente.
 
 #### Artículo 13º
 
-Excepcionalmente, para los cursos de Actualización y de Apropiación, el Ministerio podrá financiar total o parcialmente, previa evaluación de la Secretaría Ministerial de Educación, los gastos de alimentación, alojamiento y traslado de los docentes participantes que vivan en localidades alejadas al lugar del curso o perfeccionamiento, ya sea por distancia o por aislamiento geográfico.
+Excepcionalmente, para los programas de formación de Actualización y de Apropiación, el Ministerio podrá financiar total o parcialmente, previa evaluación de la Secretaría Ministerial de Educación, los gastos de alimentación, alojamiento y traslado de los docentes participantes que vivan en localidades alejadas al lugar donde se imparte el programa de formación, ya sea por distancia o por aislamiento geográfico.
 
 #### Artículo 14º
 
-La línea de perfeccionamiento denominada Postítulo en Pedagogía para docentes en especialidades de Enseñanza Media Técnico Profesional, en adelante Postítulos en Pedagogía, estará destinada a técnicos de nivel superior y a profesionales titulados de carreras no pedagógicas que ejerzan en la formación diferenciada de la Enseñanza Media Técnico Profesional y que no poseen formación pedagógica previa.
+Las acciones formativas denominadas Postítulo en Pedagogía para docentes en especialidades de Enseñanza Media Técnico Profesional, en adelante Postítulos en Pedagogía, estarán destinadas a técnicos de nivel superior y a profesionales titulados de carreras no pedagógicas que ejerzan en la formación diferenciada de la Enseñanza Media Técnico Profesional y que no poseen formación pedagógica previa.
 
 #### Artículo 15º
 
@@ -236,15 +240,15 @@ Los Postítulos en Pedagogía tienen como objetivo dotar de los conocimientos y 
 
 #### Artículo 16º
 
-El Ministerio financiará estudios de Postítulo en Pedagogía que deberán ser impartidos por universidades o instituciones de educación superior del Estado, o reconocidas por éste, que se encuentren acreditadas de acuerdo a la Ley Nº 20.129, que desarrollen programas regulares de formación inicial pedagógica que se encuentren acreditados conforme a dicha ley y que cuenten con Departamento, Instituto o Facultad de Educación.
+El Ministerio financiará estudios de Postítulo en Pedagogía que deberán ser impartidos por universidades del Estado, o reconocidas por éste, que se encuentren acreditadas de acuerdo a la Ley Nº 20.129, que desarrollen programas regulares de formación inicial pedagógica que se encuentren acreditados conforme a dicha ley y que cuenten con Departamento, Instituto o Facultad de Educación.
 
 #### Artículo 17º
 
-Este financiamiento se realizará a través de una beca que se entregará directamente a la Universidad o institución de educación superior en la que el docente se inscriba y que cumpla los estándares de calidad definidos por el Ministerio para los postítulos en pedagogía.
+Este financiamiento se realizará a través de una beca que se entregará directamente a la Universidad en la que el docente se inscriba y que cumpla los estándares de calidad definidos por el Ministerio para los postítulos en pedagogía.
 
-Anualmente, el Ministerio establecerá el valor del aporte que se traspasará a la Universidad o institución de educación superior por cada docente que realice el Postítulo. El valor a pagar tendrá como referente los valores definidos en otros Programas del CPEIP que históricamente vienen dictando postítulos de mención con Universidades acreditadas.
+Anualmente, el Ministerio establecerá el valor del aporte que se traspasará a la Universidad por cada docente que realice el Postítulo. El valor a pagar tendrá como referente los valores definidos en otros Programas del CPEIP que históricamente vienen dictando postítulos de mención con Universidades acreditadas.
 
-Los docentes que accedan a este beneficio tendrán como obligaciones principales las de finalizar el curso y obtener el postítulo, lo que deberán garantizar mediante una caución consistente en boleta de garantía bancaria o póliza de seguro, tomada a favor del Ministerio de Educación, por un monto equivalente al monto total de la beca que se le hubiere asignado con una vigencia mínima de 12 meses, que el beneficiario se compromete a entregar al momento de efectuar su matrícula. Dicho documento será devuelto al docente una vez que éste haya terminado el Postítulo.
+Los profesionales de la educación que accedan a este beneficio tendrán como obligaciones principales las de aprobar, finalizar el programa de formación y obtener el certificado del postítulo, y quedarán sujetos a lo establecido en el artículo 13 bis del decreto con fuerza de ley Nº 1 de 1996, del Ministerio de Educación.
 
 #### Artículo 18º
 
@@ -254,7 +258,7 @@ El financiamiento de estos cursos se realizará en la forma establecida en el ar
 
 #### Artículo 19º
 
-La línea de perfeccionamiento denominada Pasantías Nacionales en Centros de Referencia y cursos con Pasantías en el Extranjero para Docentes de liceos con Educación Media Técnico Profesional que se desempeñan en Formación Diferenciada Técnico Profesional, consiste en el desarrollo de experiencias formativas que incluyan un proceso de intercambio entre equipos de docentes de establecimientos de Enseñanza Media Técnico Profesional en el país o experiencias que impliquen un proceso de formación que incluya visitas a países extranjeros que signifiquen un aporte respecto a la materia del intercambio, la cual debe estar vinculada al curriculum vigente.".
+Las acciones formativas denominadas Pasantías Nacionales en Centros de Referencia y los programas de formación con Pasantías en el Extranjero para Docentes de liceos con Educación Media Técnico Profesional que se desempeñan en Formación Diferenciada Técnico Profesional, consisten en el desarrollo de experiencias formativas que incluyan un proceso de intercambio entre equipos de docentes de establecimientos de Enseñanza Media Técnico Profesional en el país o experiencias que impliquen un proceso de formación que incluya visitas a países extranjeros que signifiquen un aporte respecto a la materia del intercambio, la cual debe estar vinculada al curriculum vigente.".
 
 #### Artículo 20º
 
@@ -304,13 +308,13 @@ Al finalizar el proceso de pasantía se deberá entregar un informe que, en el c
 
 #### Artículo 21º
 
-Los cursos con Pasantías en el Extranjero serán realizados por instituciones educativas extranjeras que cuenten con experiencia reconocida en las temáticas correspondientes a la pasantía y al sector económico del grupo de pasantes definido por el Ministerio, de acuerdo a los criterios de relevancia del respectivo sector económico para el país.
+Los programas de formación con Pasantías en el Extranjero serán realizados por instituciones educativas extranjeras organizadas como personas jurídicas sin fines de lucro que cuenten con experiencia reconocida en las temáticas correspondientes a la pasantía y al sector económico del grupo de pasantes definido por el Ministerio, de acuerdo a los criterios de relevancia del respectivo sector económico para el país.
 
-Estos cursos contemplan fases de formación en Chile, trabajo a distancia y una actividad de pasantía en el extranjero. La duración total del curso con Pasantías en el Extranjero podrá ser de un mínimo de 250 horas a un máximo de 400 horas de formación, las que deberán distribuirse entre 8 a 12 meses. La pasantía en el extranjero tendrá una duración máxima que no excederá de 3 semanas.
+Estos programas de formación contemplan fases de formación en Chile, trabajo a distancia y una actividad de pasantía en el extranjero. La duración total de los programas de formación con Pasantías en el Extranjero podrá ser de un mínimo de 250 horas a un máximo de 400 horas de formación, las que deberán distribuirse entre 8 a 12 meses. La pasantía en el extranjero tendrá una duración máxima que no excederá de 3 semanas. Los programas deberán encontrarse certificados e inscritos en el registro público, de acuerdo a lo establecido en el artículo 12 quáter del decreto con fuerza de ley Nº 1 de 1996, del Ministerio de Educación.
 
 #### Artículo 22º
 
-Los docentes postularán a los cursos con Pasantías en el Extranjero en duplas por establecimiento. Los requisitos básicos para postular a esta beca serán los siguientes:
+Los docentes postularán a los programas de formación con Pasantías en el Extranjero en duplas por establecimiento. Los requisitos básicos para postular a esta beca serán los siguientes:
 
 1.- Ser chileno. Tratándose de extranjeros, éstos podrán postular en caso que cuenten con permanencia definitiva en Chile.
 
@@ -318,11 +322,11 @@ Los docentes postularán a los cursos con Pasantías en el Extranjero en duplas 
 
 3.- Encontrarse, al momento de la postulación ejerciendo, con un mínimo de veinte horas semanales en, al menos una especialidad, del sector económico en el cual se está invitando a postular, perteneciente a establecimientos de educación subvencionados regidos por el decreto con fuerza de ley Nº2 de 1998 y por el decreto ley Nº3.166, de 1980.
 
-4.- Postular a un curso correspondiente a la especialidad o sector económico en el que se desempeñan.
+4.- Postular a un programa de formación correspondiente a la especialidad o sector económico en el que se desempeñan.
 
-5.- Presentar un ante - proyecto relacionado con la temática del curso para ser aplicado en el liceo.
+5.- Presentar un ante - proyecto relacionado con la temática del programa de formación para ser aplicado en el liceo.
 
-6.- Contar con una carta de apoyo del sostenedor educacional, en que se exprese su autorización, patrocinio y compromiso con la totalidad del perfeccionamiento y con la implementación del proyecto a que se hace referencia en la letra c) del penúltimo párrafo de este artículo.
+6.- Contar con una carta de apoyo del sostenedor educacional, en que se exprese su autorización, patrocinio y compromiso con la totalidad del programa de formación y con la implementación del proyecto a que se hace referencia en la letra c) del penúltimo párrafo de este artículo.
 
 7.- No encontrase actualmente procesado o condenado por crimen o simple delito.
 
@@ -342,7 +346,7 @@ e) Calidad del ante-proyecto presentado.
 
 f) Experiencia docente o en gestión pedagógica y liderazgo.
 
-A cada docente seleccionado a los cursos de Pasantía en el extranjero se les otorgará una beca que cubrirá el costo total de la actividad de perfeccionamiento, la que incluirá los siguientes beneficios:
+A cada docente seleccionado a los programas de formación de Pasantía en el extranjero se les otorgará una beca que cubrirá el costo total de la actividad de perfeccionamiento, la que incluirá los siguientes beneficios:
 
 a) Un pasaje de ida, en clase económica, desde el aeropuerto más cercano a la ciudad de residencia del beneficiario en Chile, hasta la cuidad donde corresponda que el beneficiario inicie su programa de estudio en el país y en el país extranjero de destino, y un pasaje de retorno a Chile, en clase económica, al término de la fase pasantía de dicho programa.
 
@@ -358,21 +362,27 @@ f) Suma equivalente al costo de la obtención de la visa para el becario.
 
 Los docentes beneficiarios tendrán las siguientes obligaciones:
 
-a) Participar activamente en las distintas actividades y fases del curso de perfeccionamiento.
+a) Participar activamente en las distintas actividades y fases del programa de formación.
 
-b) Aprobar el curso de perfeccionamiento, lo que se acreditará mediante la certificación correspondiente otorgada por la institución académica extranjera ejecutora.
+b) Aprobar el programa de formación, lo que se acreditará mediante la certificación correspondiente otorgada por la institución académica extranjera ejecutora.
 
-c) Entregar al final del proceso formativo, un proyecto que defina estrategias de vinculación del liceo con el sector productivo de su comuna, provincia y/o región, o según la temática definida para el curso en el que participó. Este proyecto deberá comenzar a implementarse, con colaboración del sostenedor del establecimiento educacional de acuerdo a la carta compromiso señalada en el número 6.- de este artículo, al finalizar el curso y será monitoreado por el Centro de Perfeccionamiento, Experimentación e Investigación Pedagógicas, del Ministerio de Educación y la Secretaría Ministerial de Educación correspondiente.
+c) Entregar al final del proceso formativo, un proyecto que defina estrategias de vinculación del liceo con el sector productivo de su comuna, provincia y/o región, o según la temática definida para el programa de formación en el que participó. Este proyecto deberá comenzar a implementarse, con colaboración del sostenedor del establecimiento educacional de acuerdo a la carta compromiso señalada en el número 6.- de este artículo, al finalizar el programa de formación y será monitoreado por el Centro de Perfeccionamiento, Experimentación e Investigación Pedagógicas, del Ministerio de Educación y la Secretaría Ministerial de Educación correspondiente.
 
 El beneficiario de esta Pasantía deberá garantizar el cumplimiento de las obligaciones que contrae por el hecho de aceptar la beca, mediante una caución consistente en boleta de garantía bancaria o póliza de seguro, tomada a favor del Ministerio de Educación, por un monto equivalente al total de la beca que se le hubiere asignado, con una vigencia que, a lo menos, exceda en 90 días la duración de la pasantía. El beneficiario deberá entregar la garantía antes del inicio del viaje que contempla la pasantía. Dicho documento será devuelto al beneficiario una vez que éste haya dado total cumplimiento a las obligaciones asumidas, además de las otras obligaciones que se estipulen en las bases de postulación.
 
 Normas Generales
 
-#### Artículo 23º
+#### Artículo 23
 
-La ejecución de este Programa con sus líneas de perfeccionamiento comprende la realización de las siguientes actividades:
+El Programa comprenderá, asimismo, el desarrollo de acciones de formación de estructura modular a fin de que el profesional de la educación logre obtener una formación pedagógica, que, sumada a su experiencia docente, le permitan acreditar sus competencias ante los organismos competentes.
 
-a) Diseño, desarrollo y mantención de productos informáticos, programas computacionales y multimedia que contribuyan al mejoramiento de los procesos de enseñanza aprendizaje y sean instrumentos para el perfeccionamiento docente.
+Estas acciones deberán ser impartidas por universidades acreditadas, mediante programas certificados e inscritos en el registro público, de acuerdo con lo establecido en el artículo 12 quáter del decreto con fuerza de ley Nº 1 de 1996, del Ministerio de Educación.
+
+#### Artículo 24º
+
+La ejecución de este Programa comprende la realización de las siguientes actividades:
+
+a) Diseño, desarrollo y mantención de productos informáticos, programas computacionales y multimedia que contribuyan al mejoramiento de los procesos de enseñanza aprendizaje y sean instrumentos para la formación docente.
 
 b) Elaboración, evaluación, revisión, impresión y distribución de materiales didácticos, cuadernos de trabajo, fichas técnicas y material de difusión del Programa y de sus distintas modalidades.
 
@@ -380,13 +390,13 @@ c) Actividades de coordinación técnica y administrativa, de seguimiento y supe
 
 d) Realización de estudios diagnósticos y de evaluación para el mejoramiento y cumplimiento del Programa, mediante la contratación de servicios a personas naturales o jurídicas.
 
-e) Realización de seminarios, talleres, jornadas o acciones de intercambio, nacionales o extranjeras, con y entre docentes que imparten educación técnico profesional, con el fin de profundizar temáticas específicas, evaluar y/o detectar necesidades de perfeccionamiento.
-
-#### Artículo 24º
-
-La ejecución del Programa y de sus distintas líneas comprenderá todos los actos jurídicos necesarios para la implementación de las actividades indicadas en las normas precedentes, en particular aquellos que digan relación con la operación del referido Programa.
+e) Realización de seminarios, talleres, jornadas o acciones de intercambio, nacionales o extranjeras, con y entre docentes que imparten educación técnico profesional, con el fin de profundizar temáticas específicas, evaluar y/o detectar necesidades de formación.
 
 #### Artículo 25º
+
+La ejecución del Programa y de sus distintas acciones de formación comprenderá todos los actos jurídicos necesarios para la implementación de las actividades indicadas en las normas precedentes, en particular aquellos que digan relación con la operación del referido Programa.
+
+#### Artículo 26º
 
 El Ministerio podrá suscribir con personas naturales o jurídicas, nacionales o extranjeras, los convenios de prestación de servicios personales o no personales necesarios para la ejecución del Programa que se regula a través del presente reglamento.".
 

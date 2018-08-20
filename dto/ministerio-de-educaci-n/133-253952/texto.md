@@ -16,103 +16,107 @@ Decreto:
 
 Reglaméntase la ejecución del Programa de Becas de Especialización en la forma que a continuación se indica.
 
-Para el año 2007, los gastos que demande la ejecución del programa se imputará de la siguiente forma: 09.01.04.24.03.133, glosa 06 y a la 09.01.04.24.03.600, glosa 12, del Presupuesto de la Subsecretaría de Educación.
+Inciso Eliminado.
 
 #### Artículo 2°
 
-El objeto del Programa es propender a la progresiva especialización de los conocimientos y el mejoramiento de las prácticas de enseñanza de los profesionales de la educación que se desempeñan en enseñanza básica en establecimientos educacionales regidos por el D.F.L. N° 2, de Educación de 1998, mediante el otorgamiento de becas de especialización en universidades chilenas, en el ámbito del segundo ciclo de Educación Básica.
+El objeto del Programa es propender a la progresiva especialización de los conocimientos y el mejoramiento de las prácticas de enseñanza de los profesionales de la educación que se desempeñan en enseñanza básica en establecimientos educacionales regidos por el D.F.L. N° 2, de Educación de 1998, mediante el otorgamiento de becas de especialización en universidades chilenas acreditadas, en el ámbito del segundo ciclo de Educación Básica.
 
 #### Artículo 3°
 
 Corresponderá al Ministerio de Educación, a través del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, en adelante "CPEIP", el desarrollo y la gestión técnica y administrativa del "Programa de Becas de Especialización" que por este acto se Reglamenta.
 
-#### Artículo 4°
+#### Artículo 4º
 
-Los sectores y subsectores de aprendizaje materia del Programa, así como los contenidos de los cursos, serán determinados anualmente por el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, de acuerdo a las prioridades que establezca el Ministerio de Educación y según la disponibilidad de recursos que para estos efectos se determine en la Ley de Presupuestos.
+Las asignaturas de aprendizaje materia del programa, así como los contenidos de los programas de postítulo, serán determinados anualmente por el CPEIP, de acuerdo las necesidades de los equipos docentes de los establecimientos educacionales; a los requerimientos que proporcione el Sistema de Desarrollo Profesional Docente establecido en el Título III del decreto con fuerza de ley Nº 1 de 1996, del Ministerio de Educación, y; según la disponibilidad de recursos que para estos efectos se determine anualmente en la Ley de Presupuestos.
 
 #### Artículo 5º
 
-El Programa contemplará la realización de cursos destinados a profesionales de la educación básica que se desempeñan en establecimientos educacionales subvencionados, preferentemente de alta vulnerabilidad socioeducativa, y que se desempeñen en la misma región donde se ubica la Universidad encargada del perfeccionamiento, o en una región próxima.
+El Programa contemplará la realización de acciones formativas consistentes en programas de postítulo, destinados a profesionales de la educación básica que se desempeñan en establecimientos educacionales subvencionados en la misma región donde se ubica la Universidad encargada del perfeccionamiento, o en una región próxima.
 
-#### Artículo 6°
+#### Artículo 6º
 
-Para el desarrollo de esta modalidad de perfeccionamiento, el Ministerio de Educación celebrará convenios con Universidades Chilenas, que otorgan formación inicial pedagógica en programas regulares, que cuenten con Departamento, Instituto o Facultad en el sector o subsector convocado, que hayan desarrollado experiencias de perfeccionamiento en el Programa de Formación para la Apropiación Curricular en dicho sector y tengan una sede con funcionamiento permanente en el lugar donde se desarrollará el curso, debiendo contar, además con la infraestructura y el equipamiento técnico necesario para el desarrollo de la mención.
+Para el desarrollo de esta modalidad de formación, el Ministerio de Educación, celebrará convenios con universidades chilenas acreditadas, que impartan formación inicial pedagógica en programas regulares acreditados conforme lo establece el artículo 27 bis de la ley Nº 20.129, que cuenten con departamento, instituto o facultad en la asignatura convocada, y tengan una sede con funcionamiento permanente en el lugar donde se desarrollará el programa de postítulo, debiendo contar además, con la infraestructura y el equipamiento técnico necesario para el desarrollo de la mención.
+
+Sin perjuicio de lo anterior, y con el objeto de propender a la igualdad de acceso de los profesores a los programas de postítulo de mención, el CPEIP podrá solicitar a una universidad acreditada, que cumpla con los requisitos señalados en el inciso precedente, que desarrolle el proceso de formación en otra región en la que no se cuente con oferta o ésta no sea de calidad.
 
 #### Artículo 7°
 
-Para la selección de los participantes de los cursos de Perfeccionamiento, el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, a través de las Universidades, extenderá una invitación a todos los profesores de educación básica del país, que cumplan con los requisitos señalados en el artículo anterior a que se inscriban en la Universidad con todos los antecedentes solicitados.
+Para la selección de los participantes de los cursos de Perfeccionamiento, el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, a través de las Universidades acreditadas, extenderá una invitación a todos los profesores de educación básica del país, que cumplan con los requisitos señalados en el artículo 2 a que se inscriban en la Universidad con todos los antecedentes solicitados.
 
 #### Artículo 8º
 
-Los criterios que se deberán considerar para seleccionar a los docentes que postulen para la realización del programa son los siguientes:
+Los profesionales de la educación, para ser seleccionados deberán cumplir con los siguientes requisitos:
 
-1. Que tenga título de profesor de educación básica.
+1. Poseer el título de profesor de educación básica.
 
-2. Que el docente se desempeñe actualmente en establecimiento municipal o particular subvencionado, de mayor vulnerabilidad.
+2. Ejercer la función docente en el segundo ciclo básico.
 
-3. Que ejerza docencia en el segundo ciclo básico, esto es, de 5° a 8° básico.
+3. Tener un mínimo de seis años de experiencia profesional.
 
-4. Que cuente con un mínimo de dos años de experiencia profesional.
+4. No contar con una mención.
 
-5. Que no cuente con mención en el subsector del Programa.
+5. Contar con el patrocinio del sostenedor o administrador del establecimiento donde se desempeña, conforme a lo establecido en el literal b) del inciso primero del artículo 13 del decreto con fuerza de ley Nº 1 de 1996, del Ministerio de Educación.
 
 #### Artículo 9º
 
-El Ministerio de Educación otorgará una beca consistente en un monto en dinero, por cada docente participante del curso, a través de transferencia directa a la Universidad. El monto de los recursos a transferir será determinado anualmente por el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, de acuerdo a la disponibilidad que para estos efectos se establezca en la Ley de Presupuesto y comprenderá además, si correspondiere, alojamiento, traslado y alimentación. Sin perjuicio de lo anterior, la Universidad deberá fijar un arancel de hasta un 25% del monto de la beca a los profesores participantes. Será responsabilidad de la Universidad definir las formas de pago y efectuar los cobros correspondientes.
+El Ministerio de Educación otorgará una beca consistente en un monto en dinero, por cada docente participante del programa de postítulo, a través de transferencia directa a la Universidad. El monto de los recursos a transferir será determinado anualmente por el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, de acuerdo a la disponibilidad que para estos efectos se establezca en la Ley de Presupuesto y comprenderá además, si correspondiere, alojamiento, traslado y alimentación, sumas que se transferirán a través de las Secretarías Regionales Ministeriales de Educación.
 
-El curso de Especialización se podrá realizar con un mínimo de 25 docentes participantes y un máximo de 35.
+Inciso Eliminado.
 
-#### Artículo 10º
+#### Artículo 10
 
-El curso de Perfeccionamiento tendrá una duración de 875 horas pedagógicas y se desarrollará bajo la modalidad presencial.
+En el caso que la demanda de matrícula exceda la cantidad de vacantes, se deberán considerar los siguientes criterios de prioridad para seleccionar a los postulantes:
+
+1. Trabajar en un establecimiento con alta concentración de alumnos prioritarios, o en establecimientos rurales uni, bi o tri docentes o en multigrados o en situación de aislamiento, o con alta concentración de estudiantes de ascendencia indígena o multicultural, o con alta concentración de estudiantes con necesidades educativas especiales.
+
+Se entenderá por alumnos prioritarios aquellos definidos en el artículo 2º de la ley Nº 20.248, y por establecimientos de alta concentración de alumnos prioritarios, aquéllos cuya concentración sea igual o superior al 60%, calculada de acuerdo a lo establecido en el decreto Nº 208, de 2011, del Ministerio de Educación, o aquel que en el futuro lo reemplace.
+
+Se entenderá que un establecimiento educacional tiene alta concentración de estudiantes con necesidades educativas especiales, cuando dicho establecimiento imparta la modalidad de educación especial o desarrolle un Proyecto de Integración Escolar; por su parte se considerarán de alta concentración de alumnos con ascendencia indígena o multicultural, aquellos establecimientos educacionales que tengan una matrícula con al menos un 20% de alumnos con dicha calidad.
+
+2. Desempeñarse en un establecimiento que se encuentre bajo el promedio nacional del sistema de evaluación regulado en los párrafos 2º y 3º del título II de la ley Nº 20.529.
 
 #### Artículo 11º
 
-El desarrollo del Curso de Perfeccionamiento contará con las etapas o fases que a continuación se señalan:
+El programa de postítulo tendrá una duración de, a lo menos, 700 horas de clases y se desarrollará bajo la modalidad presencial.
 
-Clases Presenciales: Contempla la realización de cursos de 700 horas pedagógicas de duración para todos los docentes participantes, de las cuales 100 horas pedagógicas se dedicarán a un Seminario que formará parte integral del Plan de Estudio. Las horas presenciales deberán estar distribuidas en un promedio de 12 horas pedagógicas semanales, pudiendo considerar periodos intensivos a fin de completar el número de horas señaladas.
-
-Aplicación o Transferencia al aula (no presenciales): Contempla la realización de cursos de 175 horas pedagógicas para todos los profesores participantes, las que se destinarán fundamentalmente a actividades de aplicación al aula y/o de reforzamiento específico a profesores que pudieran estar evidenciando deficiencias en sus procesos de aprendizaje.
-
-Considerando esta distribución horaria para el curso, la universidad deberá elaborar un cronograma de actividades que desarrollará con los profesores participantes, tales como clases presenciales, asesoría individual, asesoría por grupos, trabajo a través de la web, asesoría para el seminario u otros.
+Sin perjuicio de lo señalado en el inciso anterior, el CPEIP podrá determinar que los programas de postítulo contemplen horas adicionales y determinar el número de éstas.
 
 #### Artículo 12º
 
-El Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas deberá llevar a cabo los procesos de difusión, postulación, inscripción y selección de las y los docentes participantes, e informarles sobre su aceptación o rechazo en el curso. Todo lo anterior, sin perjuicio de la difusión de carácter general que podrá realizar el Ministerio de Educación.
+Las universidades en coordinación con el CPEIP, deberán llevar a cabo los procesos de difusión, postulación, inscripción y selección de los profesores participantes, e informarles sobre su aceptación o rechazo en el programa de postítulo. Todo lo anterior, sin perjuicio de la difusión de carácter general que podrá realizar el Ministerio de Educación.
 
 #### Artículo 13º
 
-En el caso que la demanda de matrícula exceda la cantidad de vacantes, podrá el Ministerio de Educación, siempre que exista disponibilidad presupuestaria, realizar un segundo proceso de selección.
-
-Este proceso de selección se realizará por el Ministerio de Educación, a través de la Secretaría Regional Ministerial de Educación respectiva.
+Derogado.
 
 #### Artículo 14º
 
-El curso de Especialización deberá estar inscrito por la Universidad en el Registro Público Nacional de Perfeccionamiento (RPNP) que lleva el CPEIP, de acuerdo a la normativa vigente, dentro de los plazos reglamentarios.
+El programa de Postítulo de Especialización deberá estar inscrito por la universidad en el Registro Público de Menciones que lleva el CPEIP, de acuerdo a la normativa vigente, dentro de los plazos reglamentarios, y contar con la certificación establecida en el artículo 12 quáter del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación.
 
-Además, deberá otorgar la certificación a las y los profesores participantes que hayan aprobado el curso, de acuerdo a los requisitos de evaluación estipulados. Esta certificación deberá ser entregada a los profesores participantes de acuerdo a los plazos que establece la normativa vigente. La certificación deberá ser entregada personalmente o en el domicilio del docente a través de correo certificado.
+Además, la universidad deberá otorgar la certificación a las y los profesores participantes que hayan aprobado el programa de postítulo, de acuerdo a los requisitos de evaluación estipulados. Esta certificación deberá ser entregada a los profesores participantes de acuerdo a los plazos que establece la normativa vigente. La certificación deberá ser entregada personalmente o en el domicilio del docente a través de correo certificado.
 
 #### Artículo 15º
 
-Para el desarrollo de esta modalidad de perfeccionamiento, el Ministerio de Educación celebrará convenios con Universidades Chilenas, que otorgan formación inicial pedagógica en programas regulares, que cuenten con Departamento, Instituto o Facultad en el subsector convocado, que hayan desarrollado experiencias de perfeccionamiento en el Programa de Formación para la Apropiación Curricular en dicho subsector y tengan una sede con funcionamiento permanente en el lugar donde se desarrollará el curso, debiendo contar, además, con la infraestructura y el equipamiento técnico necesario para el desarrollo de la mención.
+Derogado.
 
 #### Artículo 16°
 
-El Ministerio de Educación podrá celebrar convenios con consorcios formados por Universidades de distintas regiones para responder a las necesidades de perfeccionamiento de los docentes a que se refiere el presente Reglamento.
+El Ministerio de Educación podrá celebrar convenios con consorcios formados por Universidades acreditadas de distintas regiones para responder a las necesidades de perfeccionamiento de los docentes a que se refiere el presente Reglamento.
+
+Las universidades que integren el consorcio, deberán encontrarse acreditadas y contar con la acreditación de las carreras y programas, a través de los cuales impartirán el postítulo, conforme lo dispone el artículo 27 bis de la ley Nº 20.129.
 
 #### Artículo 17º
 
 La ejecución del presente Programa de Perfeccionamiento comprenderá todos los actos jurídicos necesarios para la implementación de las actividades indicadas en este reglamento.
 
-#### Artículo 18º
+#### Artículo 18
 
-El Ministerio de Educación financiará los gastos que demande la ejecución y desarrollo del Programa de Becas de Especialización con cargo a los recursos financieros que anualmente se determinen en la Ley de Presupuestos del Sector Público.
-
-Para el año 2007, los gastos que demande la ejecución del programa se imputará de la siguiente forma: 09.01.04.24.03.133, glosa 06 y a la 09.01.04.24.03.600, glosa 12, del Presupuesto de la Subsecretaría de Educación.
+Los gastos que demande la ejecución del Programa de Becas de Especialización, se imputarán a la Ley de Presupuesto del Sector Público para el año correspondiente.
 
 #### Artículo 19º
 
-Anualmente el Ministerio de Educación determinará las líneas de perfeccionamiento que se ejecutarán de acuerdo a las prioridades que establezca la Ley de Presupuestos del Sector Público para estos efectos.
+Derogado.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Sergio Bitar Chacra, Ministro de Educación.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 

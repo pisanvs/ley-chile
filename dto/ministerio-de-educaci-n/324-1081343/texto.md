@@ -26,7 +26,7 @@ Reglaméntense los contenidos y la ejecución del Programa de Perfeccionamiento 
 
 #### Artículo 2º
 
-El objeto del Programa es fortalecer y actualizar competencias en el ámbito pedagógico y disciplinario en los profesionales de la educación que se desempeñan en el Primer Ciclo de Enseñanza Básica en establecimientos educacionales regidos por el DFL Nº 2, de 1998, mediante el otorgamiento de becas de especialización en universidades chilenas acreditadas.
+El objeto del Programa es fortalecer y actualizar saberes y competencias en el ámbito pedagógico, didáctico y disciplinario en los profesionales de la educación que se desempeñan en el Primer Ciclo de Enseñanza Básica en establecimientos educacionales regidos por el DFL Nº 2, de 1998, mediante el otorgamiento de becas de especialización en universidades chilenas acreditadas.
 
 #### Artículo 3º
 
@@ -34,55 +34,65 @@ Corresponderá al Ministerio de Educación, a través del Centro de Perfeccionam
 
 #### Artículo 4º
 
-La definición de los enfoques, cobertura curricular y de áreas de conocimiento, así como los contenidos de los cursos, serán determinados por el CPEIP, según las prioridades que se establezcan en el Ministerio de Educación, siguiendo para ello criterios técnicos de calidad y de equidad, y según la disponibilidad de recursos que para estos efectos se determine en la Ley de Presupuestos.
+La definición de los enfoques, cobertura curricular y de áreas de conocimiento, así como los contenidos de las acciones formativas, serán determinadas por el Ministerio de Educación, a través del CPEIP, según las prioridades que se establezcan en el Ministerio de Educación, considerando para ello tanto las necesidades de los equipos docentes de los establecimientos educacionales, como aquellos requerimientos que proporcione el Sistema de Desarrollo Profesional Docente establecido en el Título III, del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación, y según la disponibilidad de recursos que para estos efectos se determine en la Ley de Presupuestos para el Sector Público del año que corresponda.
 
 #### Artículo 5º
 
-El contenido del Programa contemplará la realización de cursos destinados a profesionales de la educación de Primer Ciclo de enseñanza básica que se desempeñan en establecimientos educacionales subvencionados, preferentemente de alta vulnerabilidad socioeducativa, y que se desempeñen en la misma región en que se impartirá la especialización, o en una región próxima a aquella.
+El contenido del Programa contemplará la realización de acciones formativas consistentes en programas de postítulo destinados a profesionales de la educación de Primer Ciclo de enseñanza básica que se desempeñan en establecimientos educacionales subvencionados, de la misma región en que se impartirá la especialización, o en una región próxima a aquella.
 
 #### Artículo 6º
 
-Para el desarrollo de esta modalidad de perfeccionamiento, el Ministerio de Educación celebrará convenios con universidades chilenas acreditadas, que desarrollen programas regulares de formación inicial pedagógica que se encuentren acreditadas conforme a la ley Nº 20.129 y que cuenten con departamento, instituto o facultad de la disciplina del subsector y/o formen pedagogía específica del subsector del postítulo en programas regulares. La universidad deberá contar con sede en la región en que se realizará el curso.
+Para el desarrollo de esta modalidad de formación, el Ministerio de Educación celebrará convenios con universidades chilenas acreditadas, que desarrollen programas regulares de formación inicial pedagógica que se encuentren acreditados conforme a la ley Nº 20.129, y que cuenten con departamento, instituto o facultad de la disciplina de la asignatura y/o formen en la pedagogía específica de la asignatura del postítulo en programas regulares. La universidad deberá contar con sede en la región en que se realizará el programa de postítulo.
 
-Sin perjuicio de lo anterior, y con el objeto de propender a la igualdad de acceso de los docentes a postítulos de mención, el CPEIP podrá solicitar a una Universidad, que cumpla con los requisitos señalados en el inciso precedente, que desarrolle el proceso de formación en otra región en la que no se cuente con oferta o esta no sea de calidad.
+Sin perjuicio de lo anterior, y con el objeto de propender a la igualdad de acceso de los profesores a programas de postítulo de mención, el CPEIP podrá solicitar a una Universidad, que cumpla con los requisitos señalados en el inciso precedente, que desarrolle el proceso de formación en otra región en la que no se cuente con oferta o esta no sea de calidad.
 
 #### Artículo 7º
 
-Para la selección de los participantes, el CPEIP extenderá invitación a los profesores de educación básica del país.
+Para la selección de los participantes, el Ministerio de Educación, a través del CPEIP extenderá invitación a los profesores de educación básica del país.
 
 #### Artículo 8º
 
-Los criterios que se deberán considerar para seleccionar a los docentes que postulen para la realización del programa son los siguientes:
+Los profesores, para ser seleccionados deberán cumplir con los siguientes requisitos:
 
-1. Que tenga título de profesor de educación básica.
+1. Tener el título de Profesor de Educación Básica.
 
-2. Que el docente se desempeñe actualmente en establecimientos educacionales regidos por DFL Nº 2, de 1998.
+2. Desempeñarse en establecimientos educacionales regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
 
-3. Que ejerzan la docencia en el Primer Ciclo de Enseñanza Básica.
+3. Ejercer la función docente en el Primer Ciclo de Enseñanza Básica.
 
-4. Que cuenten con un mínimo de dos años de experiencia profesional.
+4. Tener un mínimo de seis años de experiencia profesional.
+
+5. Contar con el patrocinio del sostenedor, o administrador del establecimiento donde se desempeña, conforme a lo establecido en el literal b) del inciso primero del artículo 13 del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación.
+
+6. No contar con una mención.
 
 #### Artículo 9º
 
-El Ministerio de Educación otorgará una beca consistente en un monto de dinero por docente participante que cumpla los requisitos y podrá incluir el financiamiento de alojamiento, traslado y alimentación. El monto de los recursos a transferir será determinado anualmente por el CPEIP de acuerdo a la disponibilidad que para estos efectos se establezca en la Ley de Presupuesto de cada año.
+El Ministerio de Educación otorgará una beca consistente en un monto de dinero por cada profesor participante en el programa de postítulo, el que se transferirá directamente a la universidad. El monto de los recursos a transferir será determinado anualmente por el Ministerio de Educación, a través del CPEIP, de acuerdo a la disponibilidad que para estos efectos se establezca en la Ley de Presupuesto de cada año, y comprenderá además, si procediere, alojamiento, traslado y alimentación, sumas que se transferirán a través de las Secretarías Regionales Ministeriales de Educación.
 
-Sin perjuicio de lo anterior, la universidad podrá fijar un arancel que no podrá exceder de un 25% del monto de la beca por docente beneficiado. Será responsabilidad de la universidad definir las formas de pago y de efectuar los cobros correspondientes a los becarios.
+rtículo 10: En el caso que la demanda de matrícula exceda la cantidad de vacantes, se deberán considerar los siguientes criterios de prioridad para seleccionar a los postulantes:
 
-Cada curso podrá realizarse con un máximo de 35 docentes. El Ministerio otorgará un máximo de 30 becas por cada curso de especialización.
+1. Trabajar en un establecimiento con alta concentración de alumnos prioritarios, o en establecimientos rurales uni, bi o tri docentes o en multigrados o en situación de aislamiento, o con alta concentración de estudiantes de ascendencia indígena o multicultural, o con alta concentración de estudiantes con necesidades educativas especiales. Se entenderá por alumnos prioritarios aquellos definidos en el artículo 2º de la ley Nº 20.248, y por establecimientos de alta concentración de alumnos prioritarios, aquéllos cuya concentración sea igual o superior al 60%, calculada de acuerdo a lo establecido en el decreto Nº 208, de 2011, del Ministerio de Educación, o aquel que en el futuro lo reemplace.
 
-#### Artículo 10º
+Se entenderá que un establecimiento educacional tiene alta concentración de estudiantes con necesidades educativas especiales, cuando dicho establecimiento imparta la modalidad de educación especial o desarrolle un Proyecto de Integración Escolar; por su parte se considerarán de alta concentración de alumnos con ascendencia indígena o multicultural, aquellos establecimientos educacionales que tengan una matrícula con al menos un 20% de alumnos con dicha calidad.
 
-En el caso que la demanda de matrícula exceda la cantidad de vacantes, el Ministerio de Educación podrá, sujeto a disponibilidad presupuestaria, aprobar la realización de un nuevo postítulo en la misma universidad.
+2. Desempeñarse en un establecimiento que se encuentre bajo el promedio nacional del sistema de evaluación regulado en los párrafos 2º y 3º del título II de la ley Nº 20.529.
 
-#### Artículo 11º
+#### Artículo 11
 
-El Postítulo deberá tener una duración de, al menos, 700 horas pedagógicas presenciales. El Ministerio podrá determinar que, adicionalmente, se contemplen horas no presenciales y fijar el número de éstas.
+El postítulo tendrá una duración de, a los menos, 700 horas de clases y se desarrollará bajo la modalidad presencial.
+
+Sin perjuicio de lo señalado en el inciso anterior, el Ministerio de Educación, a través del CPEIP, podrá determinar que los programas de postítulos contemplen horas adicionales y fijar el número de éstas.
 
 #### Artículo 12º
 
-Los Postítulos de Mención en Primer Ciclo se deberán inscribir por la universidad en el Registro de Menciones para la Bonificación de Reconocimiento Profesional que mantiene el Ministerio de Educación, según los procedimientos existentes para estos efectos.
+Los Programas de Postítulo de Mención en Primer Ciclo deberán estar certificados de acuerdo a lo establecido en el artículo 12 quáter del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación, e inscritos en el Registro de Menciones para la Bonificación de Reconocimiento Profesional que mantiene el Ministerio de Educación, según los procedimientos existentes para estos efectos.
 
-Asimismo, las universidades participantes deberán otorgar una certificación a las y los profesores que hayan aprobado el curso.
+Asimismo, las universidades participantes deberán otorgar una certificación a las y los profesores que hayan aprobado el programa de postítulo.
+
+#### Artículo 12 bis
+
+Las universidades en coordinación con el CPEIP, deberán llevar a cabo los procesos de difusión, postulación, inscripción y selección de las y los profesores participantes, e informarles sobre su aceptación o rechazo en el programa de postítulo. Todo lo anterior, sin perjuicio de la difusión de carácter general que podrá realizar el Ministerio de Educación.
 
 #### Artículo 13º
 
@@ -104,13 +114,15 @@ La ejecución de este Programa de Becas comprenderá todos los actos jurídicos 
 
 El Ministerio podrá suscribir con personas naturales o jurídicas, nacionales o extranjeras, los convenios de prestación de servicios necesarios para la ejecución del Programa que se regula a través del presente Reglamento.
 
-Asimismo, podrá celebrar convenios con consorcios formados por universidades de distintas regiones para responder a las necesidades de perfeccionamiento de los docentes a que se refiere el presente Reglamento.
+Asimismo, podrá celebrar convenios con consorcios formados por universidades de distintas regiones para responder a las necesidades de formación de los profesores a que se refiere el presente Reglamento.
+
+Las universidades que integren el consorcio, deberán encontrarse acreditadas y contar con la acreditación de las carreras y programas, a través de los que impartirán el postítulo, conforme lo dispone el artículo 27 bis de la ley Nº 20.129.
 
 #### Artículo 16º
 
-El Ministerio de Educación financiará los gastos que demande la ejecución y desarrollo del Programa de Becas de Especialización de Primer Ciclo de Enseñanza Básica con cargo a los recursos financieros que anualmente se determinen en la Ley de Presupuestos del Sector Público.
+El Ministerio de Educación financiará los gastos que demande la ejecución y desarrollo del Programa de Becas de Especialización de Primer Ciclo de Enseñanza Básica, imputándolos con cargo a los recursos financieros que anualmente se determinen en la Ley de Presupuestos del Sector Público para la Subsecretaría de Educación.
 
-Para el año 2008 los gastos que demande la ejecución del Programa se imputarán al ítem 09.01.04.24.03.133, glosa 06, del presupuesto de la Subsecretaría de Educación.
+Inciso Eliminado
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.
 

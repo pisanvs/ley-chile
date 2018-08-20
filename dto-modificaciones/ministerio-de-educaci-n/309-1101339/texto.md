@@ -170,7 +170,7 @@ c. Reemplázase en el literal i), la oración "las instituciones de educación s
 
 #### Artículo transitorio
 
-Las derogaciones dispuestas en los numerales 13, 14 b y 15 del artículo único del presente decreto regirán, a partir de la entrada en vigencia del reglamento que regule el Título II del decreto con fuerza de ley Nº 1 de 1996, del Ministerio de Educación.
+Las derogaciones dispuestas en los numerales 13, 14 b y c, y 15 del artículo único del presente decreto regirán, a partir de la entrada en vigencia del reglamento que regule el Título II del decreto con fuerza de ley Nº 1 de 1996, del Ministerio de Educación.
 
 Anótese, tómese razón y publíquese.- MARIO FERNÁNDEZ BAEZA, Vicepresidente de la República.- Adriana Delpiano Puelma, Ministra de Educación.
 
