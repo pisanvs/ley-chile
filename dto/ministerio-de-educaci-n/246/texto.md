@@ -24,77 +24,95 @@ Decreto:
 
 #### Artículo 1º
 
-Reglaméntese la ejecución del Programa Liderazgo Educativo, en adelante el Programa, destinado al mejoramiento de las competencias de gestión y del liderazgo de los docentes directivos, docentes con responsabilidad técnico pedagógica y sostenedores, de los establecimientos educacionales regidos por el decreto con fuerza de ley (Ed.) Nº 2, de 1998, y por decreto ley Nº 3.166, de 1980.
+Reglaméntese la ejecución del Programa Liderazgo Educativo, en adelante el Programa, destinado al mejoramiento de la gestión educativa y de liderazgo de los docentes directivos, docentes con responsabilidad técnico pedagógica, profesionales asistentes de la educación y sostenedores, de los establecimientos educacionales regidos por el decreto con fuerza de ley (Ed.) Nº 2, de 1998, y por decreto ley Nº 3.166, de 1980.
 
 #### Artículo 2º
 
-El Ministerio de Educación, a través del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, desarrollará el Programa mediante el cual entregará una adecuada formación a los docentes directivos, docentes con responsabilidad técnico pedagógica y sostenedores de establecimientos educacionales que les permita desarrollar, articular y potenciar estrategias de desempeño eficiente, impulsando el desarrollo de competencias facilitadoras destinadas a una eficiente gestión escolar.
+El Ministerio de Educación, a través del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, desarrollará el Programa mediante el cual entregará una adecuada formación a los docentes directivos, docentes con responsabilidad técnico pedagógica, profesionales asistentes de la educación y sostenedores de establecimientos educacionales que les permita desarrollar, articular y potenciar capacidades para abordar el mejoramiento continuo de la dirección y liderazgo educativo y para fortalecer las capacidades de gestión.
 
 #### Artículo 3º
 
-El Programa será desarrollado a través de las siguientes áreas temáticas:
+El Programa será desarrollado a través de las siguientes dimensiones:
 
-1. Fortalecimiento de las Competencias de los docentes directivos, docentes con responsabilidad técnico pedagógica y sostenedores de establecimientos educacionales para la Gestión de Establecimientos Educacionales: área destinada a formar y desarrollar conocimientos, habilidades cognitivas, actitudinales y conductuales para el correcto desempeño del ejercicio del rol directivo.
+1. Fortalecimiento de las Competencias de los docentes directivos, docentes con responsabilidad técnico pedagógica y sostenedores de establecimientos educacionales para la dirección, liderazgo educacional y liderazgo pedagógico.
 
-2. Calidad de la Gestión Educativa Comunal: área destinada a formar y desarrollar conocimientos, habilidades cognitivas, actitudinales y conductuales para el ejercicio de un liderazgo pedagógico en los profesionales y respectivos equipos que cumplen el rol de sostenedores de establecimientos educacionales.
+2. Formación para el desarrollo del liderazgo en el territorio escolar, tendrá como propósito la actualización en el uso de capacidades y herramientas de coordinación y colaboración entre establecimientos para la mejora continua y liderar el acompañamiento de las capacidades territoriales.
 
-3. Redes Locales para la Gestión Escolar y el Liderazgo Pedagógico: área destinada a favorecer la interacción entre las organizaciones escolares desde sus necesidades y potenciar el establecimiento educacional de vínculos entre los actores responsables de la gestión escolar.
+3. La cooperación técnica para el desarrollo de capacidades de gestión y liderazgo escolar, tendrá como propósito generar acciones de apoyo y colaboración entre distintas instituciones expertas, entre éstas y el Ministerio de Educación, en materias de calidad de la gestión escolar y el liderazgo pedagógico de los equipos directivos, docentes con responsabilidad técnico pedagógica y sostenedores.
 
-4. Cooperación Técnica para el desarrollo de competencias para la Gestión Escolar y el Liderazgo Pedagógico: área destinada a favorecer la colaboración entre distintas instituciones y entre éstas con el Ministerio de Educación en torno a los sistemas de formación de competencias.
+4. Liderazgo y gestión de los profesionales asistentes de la educación, para favorecer la interacción entre las organizaciones escolares desde sus necesidades y potenciar en el establecimiento educacional vínculos entre los actores responsables del liderazgo y gestión, en ámbitos tales como, integración escolar, convivencia e inclusión.
 
-### I. DEL FORTALECIMIENTO DE LAS COMPETENCIAS PARA LA GESTIÓN DE ESTABLECIMIENTOS EDUCACIONALES
+### I. DEL FORTALECIMIENTO DE LAS COMPETENCIAS PARA LA DIRECCION Y LIDERAZGO EDUCACIONAL Y LIDERAZGO PEDAGOGICO
 
 #### Artículo 4º
 
-El área denominada Fortalecimiento de las Competencias para la Gestión de Establecimientos Educacionales busca desarrollar, en los docentes directivos y docentes con responsabilidad técnico pedagógica, los conocimientos, habilidades y aptitudes necesarias para mejorar la gestión en los establecimientos educacionales en que se desempeñan y fortalecer el liderazgo pedagógico, a través de cursos presenciales, a distancia o mixtos, seminarios, talleres, pasantías o intercambios y asesorías técnicas en gestión y liderazgo, nacionales o internacionales, como también a través de procesos de evaluación de desempeño directivo.
+El Fortalecimiento de las competencias para la dirección y liderazgo educacional y pedagógico, busca desarrollar, en los docentes directivos, sostenedores y docentes con responsabilidad técnico pedagógica los conocimientos, capacidades y actitudes, para mejorar su liderazgo educacional y pedagógico y la gestión de los procesos en los establecimientos educacionales en que se desempeñan, a través de acciones formativas presenciales, a distancia o mixtos, seminarios, talleres, pasantías o intercambios y asesorías técnicas, nacionales o internacionales.
 
-### II. DE LA CALIDAD DE LA GESTIÓN EDUCATIVA COMUNAL
+### II. DE LA FORMACION PARA EL DESARROLLO DEL LIDERAZGO EN EL TERRITORIO ESCOLAR
 
 #### Artículo 5º
 
-El área temática denominada Calidad de la Gestión Educativa Comunal busca establecer un marco de actuación para el desarrollo de competencias para la gestión escolar, dirigida a sostenedores de los establecimientos educacionales y sus equipos directivos con responsabilidad técnico pedagógica, a nivel de su administración, sea municipal o particular subvencionada dentro de cada comuna, reconociendo el contexto comunal, además de desarrollar y consolidar competencias a través de cursos presenciales, a distancia o mixtos, seminarios, talleres, pasantías o intercambios, desarrolladas por instituciones públicas o privadas, nacionales o extranjeras.
+La formación para el desarrollo del liderazgo en el territorio escolar, se focalizará en el diseño, ejecución y seguimiento de acciones pertinentes de formación dirigida a sostenedores de los establecimientos educacionales y sus equipos directivos y docentes con responsabilidad técnico pedagógica, abordando aspectos significativos del contexto territorial y necesidades de las comunidades, a través de acciones formativas presenciales, a distancia o mixtas, seminarios, talleres, pasantías o intercambios, que impartan instituciones públicas o privadas, nacionales o extranjeras, conforme a lo establecido en el artículo 3 numeral 2, del presente reglamento.
 
-### III. DE LAS REDES LOCALES PARA LA GESTIÓN ESCOLAR Y EL
-
-LIDERAZGO PEDAGÓGICO.
+### III. DE LA COOPERACIÓN TECNICA PARA EL DESARROLLO DE CAPACIDADES DE GESTIÓN Y LIDERAZGO ESCOLAR
 
 #### Artículo 6º
 
-El área denominada Redes Locales para la Gestión Escolar y el Liderazgo Pedagógico busca desarrollar, potenciar y consolidar competencias dirigidas a los docentes directivos, docentes con responsabilidad técnico pedagógica y sostenedores de los establecimientos educacionales, de manera de promover instancias de asociatividad entre las distintas unidades educativas, con el fin de mejorar el desarrollo del liderazgo educativo.
+La cooperación técnica para el desarrollo de capacidades de gestión y liderazgo escolar, comprenderá acciones destinadas a establecer apoyo y colaboración entre distintas instituciones públicas o privadas, entre éstas y el Ministerio de Educación, en torno a innovaciones y transferencias de prácticas de gestión y liderazgo educativo para desarrollar habilidades en estos ámbitos en los sostenedores, docentes directivos y aquellos docentes con responsabilidades técnico pedagógicas.
 
-### IV. DE LA COOPERACIÓN TÉCNICA PARA EL DESARROLLO DE
-
-COMPETENCIAS PARA LA GESTIÓN ESCOLAR Y EL LIDERAZGO
-
-PEDAGÓGICO.
+### IV. LIDERAZGO Y GESTION DE LOS PROFESIONALES ASISTENTES DE LA EDUCACION
 
 #### Artículo 7º
 
-El área temática denominada de la cooperación técnica para el desarrollo de competencias para la gestión escolar y el liderazgo pedagógico tiene como propósito establecer una relación de cooperación técnica y la instalación de mesas de transferencia recíproca, tanto entre distintas instituciones de carácter público o privado, como entre éstas y el Ministerio de Educación en torno a procesos formativos por competencias para la gestión escolar y el liderazgo educativo en los docentes directivos, docentes con responsabilidad técnico pedagógicas y sostenedores de los establecimientos educacionales de la oferta pública subvencionada.
+El liderazgo y gestión de los profesionales asistentes de la educación señalados en el literal a) del artículo 2º de la ley Nº 19.464, comprenderá el desarrollo de conocimientos y habilidades en los profesionales no docentes, para articular un trabajo intra e inter escuelas, desde sus necesidades y contexto, con el objeto de potenciar en el establecimiento vínculos entre los actores responsables del liderazgo y gestión, en ámbitos tales como integración escolar, convivencia e inclusión, entre otros. Estas acciones formativas deberán estar dirigidas a los siguientes profesionales:
+
+a) Asistentes de la educación que participen del equipo de los Programas de Integración Escolar.
+
+b) Asistentes de la educación que se desempeñen en funciones relacionadas directamente con las acciones relativas a convivencia escolar en los establecimientos educacionales.
+
+c) Asistentes de la educación que coordinen acciones de inclusión dentro del establecimiento educacional.
+
+d) Asistentes de la educación que tengan funciones de coordinación intra e inter institucionales para la formación integral y el acompañamiento sicosocial de los alumnos.
 
 ### V. NORMAS COMUNES
 
 #### Artículo 8º
 
-La ejecución de las distintas áreas temáticas que abarca el Programa podrá comprender, entre otras, la realización de las siguientes actividades:
+La ejecución de las distintas dimensiones que abarca el Programa podrá comprender, entre otras, la realización de las siguientes actividades:
 
 a) Diseño, desarrollo y mantención de productos informáticos, programas computacionales y multimedia, elaboración, impresión, evaluación, revisión y distribución de materiales didácticos, cuadernos de trabajo, fichas técnicas y material de difusión del Programa. Para estos efectos el Ministerio de Educación celebrará los contratos de prestación de servicios respectivos.
 
-b) Actividades de coordinación técnica y
-
-administrativa, de seguimiento y supervisión del Programa.
+b) Actividades de coordinación técnica y administrativa, de seguimiento y supervisión del Programa.
 
 c) Realización de estudios para la evaluación del Programa, mediante la contratación de servicios con personas naturales o jurídicas.
 
-d) Realización de seminarios, talleres, jornadas o acciones de intercambio, nacionales o extranjeras, entre docentes directivos, docentes con responsabilidad técnico pedagógica y sostenedores de los establecimientos educacionales.
+d) Realización de seminarios, talleres, jornadas o acciones de intercambio, nacionales o extranjeras, entre docentes directivos, docentes con responsabilidad técnico pedagógica, profesionales asistentes de la educación y sostenedores de los establecimientos educacionales.
 
 #### Artículo 9º
 
 La ejecución del Programa comprenderá todos aquellos actos jurídicos necesarios para la implementación y desarrollo de las actividades indicadas en el presente reglamento, pudiendo, el Ministerio de Educación, suscribir, con personas naturales o jurídicas, los convenios que sean necesarios para el cumplimiento de los objetivos propuestos.
 
+Para efectos, de la implementación de acciones formativas destinadas a las dimensiones establecidas en los numerales 1. y 2. del Artículo 3º, solo podrán colaborar con el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, aquellas instituciones que cumplan con la certificación establecida en el artículo 12 quáter, del decreto con fuerza de ley Nº 1 de 1996, del Ministerio de Educación y que cumplan con los siguientes requisitos:
+
+a) Que la institución solicitante acredite contar con los profesionales y recursos materiales necesarios para impartir el curso o programa que propone.
+
+b) Que cuente con una metodología adecuada y objetivos consistentes y pertinentes para la formación profesional docente.
+
+Si la certificación es solicitada por una institución distinta de una universidad acreditada, ésta deberá demostrar, además:
+
+i. Que cuenta con experiencia en la formación de profesionales de la educación.
+
+ii. Que cuenta con la debida experticia en la o las disciplinas relacionadas con los cursos o programas que se propone impartir.
+
+iii. Que se trate de entidades organizadas como personas jurídicas sin fines de lucro.
+
+En caso de las instituciones de educación superior, solo podrán certificarse cursos o programas impartidos por universidades acreditadas, o centros de formación técnica o institutos profesionales organizados por personas jurídicas sin fines de lucro.
+
+En el caso de las acciones establecidas en el numeral 4. del Artículo 3º, el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, podrá determinar que dichas acciones cumplan con requisito señalado en el inciso segundo del presente artículo.
+
 #### Artículo 10º
 
-El gasto que demande la ejecución desarrollo del Programa para el año 2007 se imputará al ítem: 09.01.04.24.03.603, del Presupuesto de la Subsecretaría de Educación.
+El gasto que demande la ejecución del Programa de Liderazgo Educativo, se imputará a los recursos que consigne la Ley de Presupuesto del Sector Público para el año correspondiente.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Yasna Provoste Campillay, Ministra de Educación.
 
