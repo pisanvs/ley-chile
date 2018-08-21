@@ -802,37 +802,39 @@ Cuando la delegación de facultades recaiga en personal a contrata, la responsab
 
 #### Artículo 75º
 
-Para su correcta individualización, la denominación completa del Serviu de cada región será la siguiente:
+Para su correcta individualización y todos los efectos legales procedentes, la denominación completa del Serviu de cada región será la siguiente:
 
-Servicio de Vivienda y Urbanización I Región de Tarapacá.
+Servicio de Vivienda y Urbanización Región de Arica y Parinacota.
 
-Servicio de Vivienda y Urbanización II Región de Antofagasta.
+Servicio de Vivienda y Urbanización Región de Tarapacá.
 
-Servicio de Vivienda y Urbanización III Región de Atacama.
+Servicio de Vivienda y Urbanización Región de Antofagasta.
 
-Servicio de Vivienda y Urbanización IV Región de Coquimbo.
+Servicio de Vivienda y Urbanización Región de Atacama.
 
-Servicio de Vivienda y Urbanización V Región de Valparaíso.
+Servicio de Vivienda y Urbanización Región de Coquimbo.
 
-Servicio de Vivienda y Urbanización VI Región del Libertador General Bernardo O'Higgins.
-
-Servicio de Vivienda y Urbanización VII Región del Maule.
-
-Servicio de Vivienda y Urbanización VIII Región del Biobío.
-
-Servicio de Vivienda y Urbanización IX Región de la Araucanía.
-
-Servicio de Vivienda y Urbanización X Región de Los Lagos.
-
-Servicio de Vivienda y Urbanización XI Región de Aysén del General Carlos Ibáñez del Campo.
-
-Servicio de Vivienda y Urbanización XII Región de Magallanes y de la Antártica Chilena.
+Servicio de Vivienda y Urbanización Región de Valparaíso.
 
 Servicio de Vivienda y Urbanización Metropolitano.
 
-Servicio de Vivienda y Urbanización XIV Región de Los Ríos.
+Servicio de Vivienda y Urbanización Región del Libertador General Bernardo O'Higgins.
 
-Servicio de Vivienda y Urbanización XV Región de Arica y Parinacota.
+Servicio de Vivienda y Urbanización Región del Maule.
+
+Servicio de Vivienda y Urbanización Región de Ñuble.
+
+Servicio de Vivienda y Urbanización Región del Biobío.
+
+Servicio de Vivienda y Urbanización Región de La Araucanía.
+
+Servicio de Vivienda y Urbanización Región de Los Ríos.
+
+Servicio de Vivienda y Urbanización Región de Los Lagos.
+
+Servicio de Vivienda y Urbanización Región de Aysén del General Carlos Ibáñez del Campo.
+
+Servicio de Vivienda y Urbanización Región de Magallanes y de la Antártica Chilena.
 
 #### Artículo 76°
 
