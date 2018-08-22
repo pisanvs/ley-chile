@@ -16,6 +16,18 @@ El presente reglamento regula las condiciones y modalidades de acceso y permanen
 
 Para los efectos del presente reglamento se entenderá por "establecimiento" o "establecimientos" a las siguientes dependencias de los Servicios de Salud: Dirección de Servicio, Hospitales, Institutos, Centros de Diagnóstico Terapéutico, Centros de Referencia de Salud, Dirección de Atención Primaria, Consultorios y Postas Rurales.
 
+A su vez, para los efectos del siguiente reglamento, los términos que a continuación se señalan se entenderán definidos como se especifica:
+
+a) Año Académico: Período de tiempo habilitado en que los centros formadores desarrollan las actividades académicas y docente asistenciales en un programa de formación, que no necesariamente coincide con el año calendario.
+
+b) Campo Clínico: Establecimiento de salud en el cual se desarrolla parte de un programa de formación para la obtención de una especialidad.
+
+c) Centro Formador: Universidad que imparte programas de postgrado conducentes a la obtención de una especialidad.
+
+d) DFL 1, de 2001: Decreto con fuerza de ley Nº 1, de 2001, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado de la ley Nº 15.076.
+
+e) Sistema Nacional de Servicios de Salud: Organismos dependientes del Ministerio de Salud, señalados en el artículo 16 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley Nº 2.763 de 1979 y de las leyes Nº 18.933 y Nº 18.469.
+
 Asimismo, las referencias que en el presente reglamento se hagan tanto a la "ley" como a los "profesionales" o a los "profesionales funcionarios", sin especificar, se entenderán hechas, respectivamente, a la ley Nº 19.664 y a los profesionales funcionarios referidos en el artículo 1º de dicho cuerpo legal.
 
 #### Artículo 2
@@ -40,7 +52,7 @@ Del acceso a los programas de especialización
 
 #### Artículo 5
 
-Para acceder a programas de especialización el profesional funcionario deberá haberse desempeñado en forma previa, por un lapso no inferior a tres años, en el nivel primario de atención de uno o más Servicios de Salud o en establecimientos de salud municipal. Tratándose de profesionales funcionarios dependientes de los Servicios de Salud, se considerará como desempeño en atención primaria aquel realizado en Hospitales Tipo 3 y 4, consultorios, postas rurales u otras unidades semejantes de igual complejidad de atención. Con todo, respecto de los profesionales de Hospitales Tipo 3, el Subdirector Médico del respectivo Servicio de Salud certificará el tiempo durante el cual dichos servidores se hubieren desempeñado en labores de esa naturaleza.
+Para acceder a programas de especialización el profesional funcionario deberá haberse desempeñado en forma previa, por un lapso no inferior a tres años, en el nivel primario de atención de uno o más Servicios de Salud o en establecimientos de salud municipal. Tratándose de profesionales funcionarios dependientes de los Servicios de Salud, se considerará como desempeño en atención primaria aquel realizado en Hospitales de mediana complejidad y comunitarios, consultorios, postas rurales u otras unidades semejantes de igual complejidad de atención. Con todo, respecto de los profesionales de Hospitales de mediana complejidad, el Subdirector Médico del respectivo Servicio de Salud certificará el tiempo durante el cual dichos servidores se hubieren desempeñado en labores de esa naturaleza.
 
 Se considerará para el cómputo de este plazo el tiempo durante el cual el profesional funcionario haya hecho uso de feriado, de licencia médica o maternal, de permisos con goce de remuneraciones para efectuar actividades de desarrollo de sus competencias y aquellos casos en que, por decisión de la autoridad y por períodos transitorios y determinados, se le encomienden otras actividades relacionadas con la atención primaria.
 
@@ -60,7 +72,7 @@ No obstante lo prevenido en el inciso precedente, las comisiones de estudio no g
 
 #### Artículo 7
 
-Los profesionales funcionarios que cumplan programas de especialización mediante comisiones de estudio en un Servicio de Salud diferente al que pertenezcan, se regirán, en cuanto a sus derechos y obligaciones estatutarios, por las normas aplicables, en lo pertinente, a las comisiones de servicio y, en el ámbito docente dependerán de la Facultad de Medicina, de Odontología o de Ciencias Químicas y Farmacéuticas respectiva o del órgano formador que otorgue la especialización.
+Los profesionales funcionarios que cumplan programas de especialización mediante comisiones de estudio en un Servicio de Salud diferente al que pertenezcan, se regirán, en cuanto a sus derechos y obligaciones estatutarios, por las normas aplicables, en lo pertinente, a las comisiones de servicio y, en el ámbito docente dependerán del centro formador que otorgue la especialización.
 
 #### Artículo 8
 
@@ -92,15 +104,25 @@ De la permanencia
 
 Los profesionales funcionarios que cumplan un programa de especialización en los establecimientos asistenciales dependientes de los Servicios de Salud, cualquiera sea la institución responsable de dichos programas, estarán obligados a acatar las normas y disposiciones que regulan el funcionamiento de tales establecimientos.
 
-El Director del establecimiento asistencial al cual haya sido comisionado el profesional funcionario para el cumplimiento de su programa de especialización, deberá informar al Director del Servicio de Salud de los casos en que no se dé cumplimiento a las normas internas del establecimiento asistencial por parte del profesional.
+El Director del campo clínico en el cual se encuentre el profesional funcionario durante el desarrollo de su programa, deberá informar a la Subsecretaría de Redes Asistenciales, a la Dirección del Servicio de Salud correspondiente y al centro formador respectivo, de los casos en que aquél no dé cumplimiento a las normas internas del campo clínico, para que se adopten las medidas académicas o administrativas pertinentes.
 
 #### Artículo 13
 
 El incumplimiento de las obligaciones docente asistenciales o administrativas que corresponden a los profesionales que cumplen programas de especialización, que conste en antecedentes debidamente calificados por la autoridad superior correspondiente, dará lugar para que el Director del Servicio de Salud a cuya dotación pertenezcan ponga término a la comisión de estudio mediante resolución fundada.
 
+Se entenderá como parte de las obligaciones administrativas de los profesionales funcionarios, cumplir con un sistema de control horario que permita registrar y controlar su asistencia a las actividades definidas en el programa, tanto en el centro formador como en los campos clínicos donde le corresponda desempeñarse.
+
 #### Artículo 14
 
-Las Facultades de Medicina, de Odontología o de Ciencias Químicas y Farmacéuticas o los órganos formadores que otorguen la especialización, deberán informar fundadamente a los respectivos Directores de los Servicios de Salud, al término del primer semestre de inicio del programa de especialización, acerca de los profesionales que no demuestren las aptitudes requeridas para continuar el programa, para los fines previstos en el artículo 13 del presente reglamento. Los informes correspondientes, previa comunicación a los profesionales afectados, deberán ser evaluados por las respectivas comisiones locales docente asistenciales. Tales comisiones, previa audiencia de los profesionales afectados, informarán a la autoridad superior del Servicio, adjuntando todos los antecedentes del caso.
+Además de la causal prevista en el artículo anterior, el programa de formación podrá terminar anticipadamente por renuncia del profesional funcionario, por falta de aptitudes requeridas para continuar con el mismo, o por eliminación a causa de rendimiento académico. En estos casos, el profesional funcionario deberá reembolsar los gastos por concepto de matrículas y aranceles que haya efectuado el Servicio de Salud por el tiempo de permanencia en el respectivo programa.
+
+Toda renuncia al programa de especialización deberá presentarse ante la Subsecretaría de Redes Asistenciales o la Dirección del Servicio de Salud, según corresponda. A su vez, la falta de aptitudes requeridas para continuar con el programa de especialización deberá ser calificada por el Centro Formador y notificada a la Subsecretaría de Redes Asistenciales o a la Dirección de los Servicios de Salud, según corresponda, mediante un informe fundado, antes del inicio del segundo semestre del programa.
+
+El profesional funcionario que renuncie a su programa de especialización podrá volver a postular a un nuevo programa siempre que haya presentado su renuncia antes del inicio del tercer semestre de aquel. También podrá volver a postular a un nuevo programa de especialización el profesional funcionario que haya sido calificado sin aptitudes conforme al inciso anterior.
+
+En cambio, el profesional funcionario que sea eliminado del programa de especialización por rendimiento académico no podrá volver a postular a un programa de especialización que ofrezca el Servicio o el Ministerio de Salud. Tampoco quienes hayan incumplido las obligaciones docente asistenciales o administrativas conforme al artículo anterior, ni quienes sean calificados sin aptitudes conforme al inciso segundo, pero con posterioridad al inicio del segundo semestre.
+
+En el caso de renuncias al programa de especialización por situaciones de salud que afecten al profesional funcionario o a alguno de sus familiares que dependan de él que sean incompatibles con las actividades académicas de aquel, la Subsecretaría de Redes Asistenciales estará facultada para eximirlo de la obligación de reembolso a que alude el inciso primero y podrá volver a postular a un nuevo programa que ofrezca el Ministerio o los Servicios de Salud.
 
 #### Artículo 15
 
@@ -110,9 +132,9 @@ Sin perjuicio de la jornada contratada, los profesionales deberán cumplir los t
 
 #### Artículo 16
 
-En caso de licencias médicas por enfermedad o maternidad, el profesional que se encuentra en programa de especialización deberá comunicar dicha circunstancia al representante de la Facultad de Medicina, de Odontología o de Ciencias Químicas y Farmacéuticas o del órgano formador que otorgue la especialización, en su caso, y al director del establecimiento asistencial en el que realiza el programa.
+En caso de licencias médicas por enfermedad o maternidad, el profesional que se encuentra en programa de especialización deberá remitirla, dentro de los plazos legales, a la dirección del Servicio de Salud del cual dependa, y comunicar su situación al centro formador y al Director del campo clínico.
 
-La Facultad de Medicina, de Odontología o de Ciencias Químicas y Farmacéuticas o el órgano formador que otorgue la especialización, en su caso, fijará los plazos de recuperación del programa, en acuerdo con el Director del Servicio de Salud a cuya dotación pertenezca el profesional, para que se disponga la prórroga de la comisión de estudios correspondiente.
+El centro formador fijará los plazos de recuperación del programa, en acuerdo con el Director del Servicio de Salud a cuya dotación pertenezca el profesional, para que se disponga la prórroga de la comisión de estudios correspondiente.
 
 ### Párrafo 4º
 
@@ -120,25 +142,29 @@ Compromiso de desempeño obligatorio
 
 #### Artículo 17
 
-Los profesionales funcionarios ingresados a través del proceso de selección a que se refiere el artículo 8 de la ley y que accedan a programas de especialización, tendrán la obligación de desempeñarse en los organismos a que pertenecen por un tiempo similar al de la duración de los programas.
+Los profesionales funcionarios ingresados a través del proceso de selección a que se refiere el artículo 8 de la ley y que accedan y cumplan programas de especialización, tendrán la obligación de desempeñarse en los organismos a que pertenecen por un tiempo similar al de la duración de los programas.
 
 Para estos efectos será útil el tiempo que el profesional hubiere permanecido en la Etapa de Destinación y Formación del respectivo Servicio con anterioridad al acceso al programa.
 
 #### Artículo 18
 
-Los demás profesionales funcionarios de la Etapa de Destinación y Formación y los referidos en la letra a) del artículo 5 de la ley Nº19.378, que accedan a programas de especialización en calidad de becarios, tendrán la obligación de desempeñarse por un tiempo equivalente al doble del período de duración de los programas. Con todo, tratándose de los profesionales señalados en primer término, podrán hacer valer para tales efectos el 50% del tiempo de permanencia en la Etapa de Destinación y Formación del respectivo Servicio de Salud, cumplido con anterioridad al acceso a los programas.
+Los demás profesionales funcionarios de la Etapa de Destinación y Formación y los referidos en la letra a) del artículo 5 de la ley Nº19.378, que accedan y cumplan programas de especialización en calidad de becarios, tendrán la obligación de desempeñarse por un tiempo equivalente al doble del período de duración de los programas. Con todo, tratándose de los profesionales señalados en primer término, podrán hacer valer para tales efectos el 50% del tiempo de permanencia en la Etapa de Destinación y Formación del respectivo Servicio de Salud, cumplido con anterioridad al acceso a los programas.
+
+Excepcionalmente, para zonas geográficas o niveles de atención donde exista una especial necesidad de especialistas, la Subsecretaría de Redes Asistenciales, en el mismo acto que aprueba las bases de selección del concurso para el otorgamiento de las becas, podrá definir un período de devolución asistencial menor al citado en el inciso anterior. Asimismo, podrá definir un período menor para especialidades que sean declaradas en falencia. Con todo, tales períodos en ningún caso podrán ser inferiores al tiempo de formación.
 
 El compromiso de desempeño se cumplirá, en el caso de los profesionales funcionarios de la Etapa de Destinación y Formación a que se refiere este artículo, en el Servicio de Salud de origen. En cambio, aquellos profesionales funcionarios regidos por el Estatuto de Atención Primaria de Salud Municipal, cuyas becas hubiesen sido otorgadas por un Servicio de Salud, cumplirán la obligación señalada precedentemente en dicho Servicio o en el organismo de atención primaria de salud municipal, según lo defina el Director del Servicio, o en ambos organismos indistintamente, conforme a los términos establecidos en el respectivo convenio.
 
-En el caso que la beca sea financiada por el Ministerio de Salud, dicho organismo determinará el Servicio de Salud o el organismo de atención primaria de salud municipal en que el profesional deberá cumplir la obligación de desempeño, conforme a los términos establecidos en el respectivo convenio.
+En el caso que la beca sea financiada por el Ministerio de Salud, dicho organismo determinará el Servicio de Salud o el organismo de atención primaria de salud municipal en que el profesional deberá cumplir la obligación de desempeño, conforme a los términos establecidos en el respectivo convenio. Excepcionalmente, el compromiso de desempeño podrá cumplirse en jornadas de hasta 22 horas semanales, cuando el interesado asuma otro cargo público. También podrá cumplirse en jornadas de 22 horas semanales, cuando la Dirección del Servicio lo determine, a solicitud del profesional, considerando las necesidades de la red, extendiendo el periodo asistencial por el tiempo proporcional restante.
 
 Lo anterior es sin perjuicio de lo dispuesto en el inciso 2º del artículo 43 de la ley Nº 19.378, respecto de los profesionales que participen en programas de especialización financiados, mediante comisiones de servicio, por las respectivas entidades administradoras de salud municipal.
 
 #### Artículo 19
 
-Con el fin de garantizar el cumplimiento de las obligaciones de desempeño a que se refieren los artículos precedentes el profesional deberá constituir previamente, cuando corresponda, una garantía equivalente a los gastos originados con motivo de la ejecución del programa y aquellos derivados del incumplimiento, todo ello incrementado en un 50%. Para estos efectos, el Director de Servicio o el Subsecretario en su caso, hará una estimación de los gastos derivados del incumplimiento los que no podrán exceder de un tercio de los gastos ocasionados con motivo de la ejecución de los programas. La caución podrá consistir en póliza de seguro, boleta bancaria u otra garantía suficiente, a juicio exclusivo del jefe superior de la entidad beneficiaria.
+Con el fin de garantizar el cumplimiento de las obligaciones de desempeño a que se refieren los artículos precedentes el profesional deberá constituir previamente, cuando corresponda, una garantía equivalente a los gastos originados con motivo de la ejecución del programa y aquellos derivados del incumplimiento, todo ello incrementado en un 50%. Para estos efectos, el Director de Servicio o el Subsecretario en su caso, hará una estimación de los gastos derivados del incumplimiento los que no podrán exceder de un tercio de los gastos ocasionados con motivo de la ejecución de los programas. La caución podrá consistir en póliza de seguro, boleta bancaria o cláusula penal constituida mediante escritura pública. A juicio exclusivo del jefe superior de la entidad beneficiaria, se podrá aceptar otra garantía suficiente.
 
-No obstante lo señalado en el inciso anterior, el profesional respectivo será además responsable de los perjuicios que el incumplimiento irrogare al Servicio o entidad afectada. Asimismo, quedará impedido de reingresar a la Administración del Estado hasta por un lapso de 6 años.
+No obstante lo señalado en el inciso anterior, el profesional que luego de cumplir su programa de especialización incumpliere su obligación de desempeño en el organismo a que pertenece será además responsable de los perjuicios que el incumplimiento irrogare al Servicio o entidad afectada. Asimismo, quedará impedido de reingresar a la Administración del Estado hasta por un lapso de 6 años.
+
+En el caso de los profesionales funcionarios que hubieren cumplido su obligación de desempeño en los organismos a que pertenecen en virtud de lo señalado en el inciso segundo del artículo 17, la garantía a que se refiere el inciso primero deberá ser equivalente al costo de matrículas y aranceles del referido programa, incrementados en un 50%.
 
 #### Artículo 20
 
