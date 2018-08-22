@@ -92,13 +92,13 @@ Segundo Orden de Subrogancia: Aguilera Cea Fresia del Carmen, RUT: 11.915.118-K,
 
 Tercer Orden de Subrogancia: Morales Meza Sandra Beatriz, RUT: 12.986.567-9, Contrata, Profesional, Grado 12° EOF.
 
-Dirección Regional de Los Lagos:
+Dirección Regional de Los Lagos
 
-Primer Orden de Subrogancia: Rogel Lara José Ernesto, RUT: 7.453.029-K, Contrata, Fiscalizador, Grado 11° EOF.
+. Primer orden de subrogancia: Paulina Alejandra Rettig Boettcher, RUN Nº 10.777.408-4, Contrata, Profesional, grado 11º E.O.F.
 
-Segundo Orden de Subrogancia: Rettig Boettcher Paulina Alejandra, RUT: 10.777.408-4, Contrata, Profesional, Grado 11° EOF.
+. Segundo orden de subrogancia: José Ernesto Rogel Lara, RUN Nº 7.453.029-K, Contrata, Fiscalizador, grado 11º E.O.F.
 
-Tercer Orden de Subrogancia: Rojas Medina Patricia Angélica, RUT: 12.750.677-9, Contrata, Profesional, Grado 12° EOF.
+. Tercer orden de subrogancia: Pamela Carolina Celis Aburto, RUN Nº 10.968.642-5, Contrata, Profesional, grado 11º E.O.F.
 
 Dirección Regional de Aysén:
 
@@ -124,21 +124,21 @@ Segundo Orden de Subrogancia: Espinaza Díaz Isabel del Carmen, RUT: 12.545.232-
 
 Tercer Orden de Subrogancia: Farfán Garrido Álvaro Patricio, RUT: 15.939.322-4, Contrata, Profesional, Grado 11º EOF.
 
-Dirección Regional de Los Ríos:
+Dirección Regional de Los Ríos
 
-Primer Orden de Subrogancia: Cárdenas Fuentealba, Herta Elizabeth, RUT: 12.747.209-2, Contrata, Profesional, grado 11° E.O.F.
+. Primer orden de subrogancia: Marcial Edgardo Cofré Monsalve, RUN Nº 12.993.999-0, Contrata, Profesional, grado 11º E.O.F.
 
-Segundo Orden de Subrogancia: Cofré Monsalve, Marcial Edgardo, RUT: 12.993.999-0, Contrata, Profesional, grado 11° E.O.F.
+. Segundo orden de subrogancia: Alex Dieter Werkmeistar Galleguillos, RUN Nº 14.081.656-6, Contrata, Profesional, grado 11º E.O.F.
 
-Tercer Orden de Subrogancia: González Carrasco, Cruz Yoana, RUT: 11.396.375-1, Contrata, Profesional, grado 12° E.O.F.
+. Tercer orden de subrogancia: Herta Elizabeth Cárdenas Fuentealba, RUN Nº 12.747.209-2, Contrata, Profesional, grado 11º E.O.F.
 
-Dirección Regional de Arica y Parinacota:
+Dirección Regional de Arica y Parinacota
 
-Primer Orden de Subrogancia: Manzano Manzano Gloria Virginia, RUT: 13.411.506-8, Contrata, Fiscalizador, Grado 11° EOF.
+. Primer orden de subrogancia: Raúl Ignacio Díaz Valenzuela, RUN Nº 13.441.506-8, Contrata, Profesional, grado 11º E.O.F.
 
-Segundo Orden de Subrogancia: Díaz Valenzuela Raúl Ignacio, RUT: 13.441.369-7, Contrata, Profesional, Grado 11° EOF.
+. Segundo orden de subrogancia: Gloria Virginia Manzano Manzano, RUN Nº 13.411.506-8, Contrata, Fiscalizador, grado 11º E.O.F.
 
-Tercer Orden de Subrogancia: Meza Olivares Luis Marcelo, RUT: 10.760.633-5, Contrata, Profesional, Grado 12° E.O.F.
+. Tercer orden de subrogancia: Luis Marcelo Meza Olivares, RUN Nº 10.760.633-5, Contrata, Profesional, grado 12º E.O.F.
 
 2° Déjese constancia que quienes son designados en calidad de subrogantes para los cargos de Directores Regionales de esta Superintendencia, actualmente cuentan con funciones directivas, según consta en la resolución exenta N° 57, de fecha 11 de enero de 2017, de la Superintendencia de Educación, pudiendo ejercer todas las facultades propias y delegadas que correspondan al cargo y mientras dure la subrogancia.
 
