@@ -18,7 +18,9 @@ R e s u e l v o:
 
 - **e)** la autorización a que se refiere el artículo IV del Convenio de Transporte Marítimo suscrito entre Chile y Brasil, contenido en el decreto 676 de 11 de diciembre de 1974.
 
-Ante ausencia o impedimento de don Pablo Ortiz Méndez el ejercicio de las atribuciones y facultades, respecto de las materias relativas al transporte marítimo que se señalan en el inciso anterior, queda delegado en don Roberto Santana Muñoz grado 2º de la E.U.S., de la Subsecretaría de Transportes, por el tiempo que dure la ausencia o impedimento.
+Ante ausencia o impedimento de don Pablo Ortiz Méndez, el ejercicio de las atribuciones y facultades respecto de las materias relativas al transporte marítimo que se señalan en el inciso anterior quedan delegadas en doña Lorena Araya Carvajal, grado 2º de la EUS, de la Subsecretaría de Transportes, por el tiempo que dure la ausencia o impedimento.
+
+Asimismo, en el caso que no pueda asumir las funciones de delegada doña Lorena Araya Carvajal, quedará delegado el funcionario que ejerza las funciones de Jefe de la División Legal de la Subsecretaría de Transportes.
 
 2. En el ejercicio de las atribuciones y facultades que por este acto se delegan, las respectivas resoluciones podrán suscribirse "Por orden del Ministro de Transportes y Telecomunicaciones".
 
