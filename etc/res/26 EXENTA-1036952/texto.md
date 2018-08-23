@@ -16,10 +16,14 @@ Resuelvo:
 
 a) Bernardo O'Higgins con Fernando Camino y Bernardo O'Higgins.
 
-b) Padre Sigisfredo final, Bernardo O'Higgins.
+b) Padre Sigisfredo final Bernardo O'Higgins.
 
 c) Martínez de Rosas con Eduardo Bravo y Bernardo O'Higgins.
 
 d) Juan Pablo Segundo, calle Libertad final y Juan Pablo Segundo.
+
+e) Villa El Mirador del Lago, por las calles Diego Portales, Clodomiro Figueroa y Roble Huacho.
+
+f) Villa Las Terrazas, por las calles Andrés Sandoval, Violeta Parra y San Sebastián.
 
 Anótese y publíquese.- Iñaki Larraza Alberdi, Secretario Regional Ministerial Transportes y Telecomunicaciones, Región de Los Ríos.
