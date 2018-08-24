@@ -16,11 +16,13 @@ Decreto:
 
 Autorízase el funcionamiento del Instituto Profesional que se indica, organizado por la persona jurídica que se señala:
 
-Nombre de la Institución: Instituto Profesional Instituto Nacional de Capacitación Profesional INACAP o Instituto Profesional INACAP.
+Nombre de la Institución : Instituto Profesional Inacap.
 
-Domicilio: Santiago
+Organizador : Corporación Instituto Profesional
 
-Organizador: Sociedad "Instituto Profesional del Instituto Nacional de Capacitación Profesional INACAP y Compañía en Comandita por Acciones, o Instituto Profesional INACAP o I.P. INACAP".
+Inacap.
+
+Representante Legal : Presidente del Directorio.
 
 Apruébanse, asimismo el reglamento a que se refiere el artículo 6° del DFL. N° 5 de 1981 y las condiciones para el otorgamiento de los títulos profesionales y técnicos.
 
