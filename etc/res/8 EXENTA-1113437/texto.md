@@ -30,17 +30,17 @@ Suscríbanse bajo la fórmula "Por orden del Secretario Ministerial de Educació
 
 #### Artículo 6°
 
-En caso de ausencia o impedimento del Coordinador Regional de la Unidad de Subvenciones de la Secretaría Regional Ministerial de Educación de la Región Metropolitana, cuyo titular en este momento es doña María Victoria Alarcón Pereira, C.I: 9.475.576- K, Contrata, Profesional, es que las facultades enumeradas en el artículo 1° del apartado resolutivo de la presente resolución se entenderán delegadas en el(los) funcionario(s) que a continuación se indica(n), quienes para los efectos del presente artículo actuarán bajo la calidad Coordinador Regional Subrogante:
+En caso de ausencia o impedimento del Coordinador Regional de la Unidad de Subvenciones de la Secretaría Regional Ministerial de Educación de la Región Metropolitana, cuyo titular en este momento es don Gustavo Andrés Celis Contreras, C.I: 16.807.999-0, Contrata, Profesional, es que las facultades enumeradas en el artículo 1° del apartado resolutivo de la presente resolución se entenderán delegadas en el (los) funcionario(s) que a continuación se indica(n), quienes para los efectos del presente artículo actuarán bajo la calidad Coordinador Regional Subrogante:
 
 Nombre: Susana Gloria Morales Espinoza
 
-C.I: 13.942.474-3
+C.I: 13.942.474 - 3
 
 Calidad Jurídica: Contrata
 
 Escalafón: Profesional
 
-Grado: 8° EUR
+Grado: 8° EUR.
 
 Para el evento de modificarse tanto la titularidad del cargo de Coordinador Regional, así como para el de verificarse idéntica situación respecto de la subrogancia, deberá procederse a la rectificación de la presente resolución exenta, sólo respecto de lo tocante a este punto resolutivo.
 
