@@ -18,7 +18,7 @@ Subvención Preferencial
 
 #### Artículo 1º
 
-Créase una subvención educacional denominada preferencial, destinada al mejoramiento de la calidad de la educación de los establecimientos educacionales subvencionados, que se impetrará por los alumnos prioritarios que estén cursando primer o segundo nivel de transición de la educación parvularia, educación general básica y enseñanza media.
+Créase una subvención educacional denominada preferencial, destinada al mejoramiento de la calidad de la educación de los establecimientos educacionales subvencionados, que se impetrará por los alumnos prioritarios y alumnos preferentes que estén cursando primer o segundo nivel de transición de la educación parvularia, educación general básica y enseñanza media.
 
 #### Artículo 2º
 
@@ -38,13 +38,23 @@ Las familias de alumnos identificados como prioritarios, según los criterios se
 
 La determinación de la calidad de alumno prioritario, así como la pérdida de la misma, será informada anualmente por el Ministerio de Educación a la familia de dicho alumno y al sostenedor del establecimiento en que éste se encuentre matriculado.
 
+#### Artículo 2º bis
+
+Para los efectos de la aplicación de la subvención escolar preferencial se entenderá por alumnos preferentes a aquellos estudiantes que no tengan calidad de alumno prioritario y cuyas familias pertenezcan al 80% más vulnerable del total nacional, según el instrumento de caracterización social vigente.
+
+La calidad de alumno preferente será determinada anualmente por el Ministerio de Educación, directamente o a través de los organismos de su dependencia que éste determine.
+
+La determinación de la calidad de alumno preferente, así como la pérdida de la misma, será informada anualmente por el Ministerio de Educación a la familia de dicho alumno y al sostenedor del establecimiento en que éste se encuentre matriculado.
+
+Un reglamento del Ministerio de Educación, que deberá ser firmado por el Ministro de Hacienda, determinará la metodología para la identificación de los alumnos a los que se refiere este artículo.
+
 #### Artículo 3º
 
-La pérdida de los requisitos establecidos en el artículo 2° hará cesar el derecho a la subvención preferencial que trata esta ley, de acuerdo a la forma que determine el reglamento.
+La pérdida de los requisitos establecidos en los artículos 2º y 2º bis hará cesar el derecho a la subvención preferencial que trata esta ley, de acuerdo a la forma que determine el reglamento.
 
 #### Artículo 4º
 
-Tendrán derecho a la subvención escolar preferencial los establecimientos educacionales regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, en adelante .Ley de Subvenciones., que impartan enseñanza regular diurna, cuyo sostenedor haya suscrito el convenio a que se refiere el artículo 7º. Esta subvención se pagará por los alumnos prioritarios matriculados en dichos establecimientos, según lo establecido en los artículos 14 y 15.
+Tendrán derecho a la subvención escolar preferencial los establecimientos educacionales regidos por el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, en adelante .Ley de Subvenciones., que impartan enseñanza regular diurna, cuyo sostenedor haya suscrito el convenio a que se refiere el artículo 7º. Esta subvención se pagará por los alumnos prioritarios y preferentes matriculados en dichos establecimientos, según lo establecido en los artículos 14, 14 bis y 15.
 
 #### Artículo 5º
 
@@ -54,7 +64,7 @@ En todo lo no regulado expresamente en esta ley, la subvención escolar preferen
 
 Para que los sostenedores de establecimientos educacionales a que se refiere el artículo 4º puedan impetrar el beneficio de la subvención escolar preferencial, deberán cumplir con los siguientes requisitos y obligaciones:
 
-a) Eximir a los alumnos prioritarios de los cobros establecidos en el Título II de la Ley de Subvenciones, referido a financiamiento compartido. Estos alumnos no podrán ser objeto de cobro obligatorio alguno que condicione la postulación, ingreso o permanencia del alumno en ese establecimiento.
+a) Eximir a los alumnos prioritarios de todo tipo de cobro que condicione la postulación, ingreso o permanencia del alumno en ese establecimiento.
 
 b) Aceptar a los alumnos que postulen entre el primer nivel de transición y sexto básico, de acuerdo a procesos de admisión que en ningún caso podrán considerar el rendimiento escolar pasado o potencial del postulante. Asimismo, en dichos procesos no será requisito la presentación de antecedentes socioeconómicos de la familia del postulante. Además, el establecimiento deberá hacer público en estos procesos su proyecto educativo.
 
@@ -62,7 +72,7 @@ c) Informar a los postulantes al establecimiento y a los padres y apoderados sob
 
 Los padres y apoderados de los alumnos postulantes que opten por un establecimiento educacional, deberán aceptar por escrito el proyecto educativo de éste.
 
-d) Retener en el establecimiento a los alumnos, entre primer nivel de transición y sexto básico, sin que el rendimiento escolar sea obstáculo para la renovación de su matrícula. Los alumnos tendrán derecho a repetir de curso en un mismo establecimiento a lo menos en una oportunidad en cada nivel de enseñanza, sin que por esa causal les sea cancelada o no renovada su matrícula.
+d) Retener en el establecimiento a los y las estudiantes, de conformidad a lo dispuesto en el artículo 11 del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación.
 
 e) Destinar la subvención y los aportes que contempla esta ley a la implementación de las medidas comprendidas en el Plan de Mejoramiento Educativo, con especial énfasis en los alumnos prioritarios, e impulsar una asistencia técnico-pedagógica especial para mejorar el rendimiento escolar de los alumnos con bajo rendimiento académico.
 
@@ -186,45 +196,45 @@ La subvención escolar preferencial tendrá el siguiente valor unitario mensual 
 
 Valor Subvención en USE
 
-Desde 1° Desde 1°
+Desde 1º nivel 5º y 7º y Desde 1º
 
-nivel de hasta 4°
+de transición 6º año 8º hasta 4º
 
-transición 5° y 7° y año de
+hasta 4º año de básico básico año de
 
-hasta 4° 6° año 8°año enseñanza
+la educación enseñanza
 
-año de la básico básico media
+básica media
 
-educación
+A.
 
-básica
-
-A:
-
-Establecimientos 1,694 1,694 1,129 1,129
+Establecimientos
 
 educacionales
 
-autónomos
+autónomos 2,0328 2,0328 1,3548 1,3548
 
-B:
+B.
 
-Establecimientos 0,847 0,847 0,5645 0,5645
+Establecimientos
 
 educacionales
 
-emergentes.
+emergentes 1,0164 1,0164 0,6774 0,6774
+
+#### Artículo 14 bis
+
+La subvención escolar preferencial para los alumnos preferentes será equivalente a la mitad del valor unitario mensual para los alumnos prioritarios, expresado en unidades de subvención educacional, según lo señalado en el artículo 14.
 
 #### Artículo 15
 
-Los sostenedores de establecimientos educacionales clasificados como autónomos o emergentes percibirán mensualmente la subvención escolar preferencial establecida en esta ley. Su monto se determinará multiplicando el valor que corresponda conforme al artículo anterior por la asistencia media promedio de los alumnos prioritarios durante los tres meses precedentes al pago.
+Los sostenedores de establecimientos educacionales clasificados como autónomos o emergentes percibirán mensualmente la subvención escolar preferencial establecida en esta ley. Su monto se determinará multiplicando el valor que corresponda, conforme a los artículos 14 y 14 bis, por la asistencia media promedio de los alumnos prioritarios y preferentes, según corresponda, durante los tres meses precedentes al pago.
 
-En los meses no comprendidos en el año escolar y en el primer mes del año referido, se empleará el procedimiento establecido en los incisos segundo y tercero del artículo 13 de la Ley de Subvenciones, aplicado a los alumnos prioritarios. Asimismo, respecto a la suspensión de clases o actividades escolares por un mes calendario, se aplicará lo dispuesto en el inciso cuarto del artículo citado.
+En los meses no comprendidos en el año escolar y en el primer mes del año referido, se empleará el procedimiento establecido en los incisos segundo y tercero del artículo 13 de la Ley de Subvenciones, aplicado a los alumnos prioritarios y preferentes. Asimismo, respecto a la suspensión de clases o actividades escolares por un mes calendario, se aplicará lo dispuesto en el inciso cuarto del artículo citado.
 
-Durante los tres primeros meses posteriores a la incorporación de un establecimiento educacional al régimen de subvención escolar preferencial, el monto de dicha subvención se determinará multiplicando el valor que corresponda, conforme al artículo 14, por el número de alumnos prioritarios matriculados en el establecimiento multiplicado por el porcentaje de la asistencia media promedio de todos los alumnos del establecimiento, de los niveles incorporados a la subvención preferencial, durante los tres meses precedentes a cada pago. Si éstos correspondiesen a meses no comprendidos en el año escolar o al primer mes del año referido, para efectos de determinar dicha asistencia media se empleará el procedimiento establecido en el inciso segundo del artículo 13 del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
+Durante los tres primeros meses posteriores a la incorporación de un establecimiento educacional al régimen de subvención escolar preferencial, el monto de dicha subvención se determinará multiplicando el valor que corresponda, conforme a los artículos 14 y 14 bis, por el número de alumnos prioritarios y preferentes, según corresponda, matriculados en el establecimiento multiplicado por el porcentaje de la asistencia media promedio de todos los alumnos del establecimiento, de los niveles incorporados a la subvención preferencial, durante los tres meses precedentes a cada pago. Si éstos correspondiesen a meses no comprendidos en el año escolar o al primer mes del año referido, para efectos de determinar dicha asistencia media se empleará el procedimiento establecido en el inciso segundo del artículo 13 del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
 
-No obstante lo señalado en el inciso anterior, la subvención escolar preferencial de los tres primeros meses posteriores a la incorporación del establecimiento educacional al régimen de subvención escolar preferencial será reliquidada conjuntamente con el pago de la del mes siguiente, utilizando para su cálculo definitivo el promedio de las asistencias medias de los alumnos prioritarios registradas en esos tres meses. Las diferencias de subvención escolar preferencial que se produjeren del ajuste señalado serán pagadas o descontadas sin cargo alguno en el mes del año escolar antes aludido.
+No obstante lo señalado en el inciso anterior, la subvención escolar preferencial de los tres primeros meses posteriores a la incorporación del establecimiento educacional al régimen de subvención escolar preferencial será reliquidada conjuntamente con el pago de la del mes siguiente, utilizando para su cálculo definitivo el promedio de las asistencias medias de los alumnos prioritarios y preferentes registradas en esos tres meses. Las diferencias de subvención escolar preferencial que se produjeren del ajuste señalado serán pagadas o descontadas sin cargo alguno en el mes del año escolar antes aludido.
 
 El procedimiento de cálculo de la subvención a que se refieren los incisos anteriores, será aplicable para el cálculo de los aportes a establecimientos educacionales emergentes que establece esta ley.
 
@@ -288,21 +298,21 @@ Este Plan deberá contener al menos:
 
 a) Un diagnóstico de la situación inicial del establecimiento comprendiendo una evaluación respecto de los recursos humanos, técnicos y materiales con que cuenta el establecimiento.
 
-b) Un conjunto de metas de resultados educativos para el período que cubre el Plan.
+b) Un conjunto de metas de resultados educativos para el período que cubre el Plan y evaluación de los mismos.
 
 2. Coordinar y articular acciones con las instituciones y redes de servicios sociales competentes para detectar, derivar y tratar problemas sicológicos, sociales y necesidades educativas especiales de los alumnos prioritarios.
 
-3. Establecer actividades docentes complementarias a los procesos de enseñanza y aprendizaje de los alumnos prioritarios, para mejorar su rendimiento escolar.
+3. Establecer actividades docentes complementarias a los procesos de enseñanza y aprendizaje de los alumnos prioritarios y preferentes, para mejorar su rendimiento escolar.
 
 #### Artículo 20
 
-Sin perjuicio de la subvención a que se refiere la letra B del artículo 14, los establecimientos clasificados como emergentes tendrán derecho a percibir un aporte de recursos adicional para contribuir al financiamiento del diseño y ejecución del Plan de Mejoramiento Educativo a que se refiere el artículo anterior.
+Sin perjuicio de la subvención a que se refiere la letra B del artículo 14 y el artículo 14 bis, los establecimientos clasificados como emergentes tendrán derecho a percibir un aporte de recursos adicional para contribuir al financiamiento del diseño y ejecución del Plan de Mejoramiento Educativo a que se refiere el artículo anterior.
 
 INCISO SUPRIMIDO.
 
-La suma anual de los recursos que reciban los establecimientos emergentes por la aplicación de la letra B del artículo 14 y el aporte adicional a que se refiere este artículo, será equivalente a lo que le correspondería recibir al mismo establecimiento si éste estuviera en la categoría de Autónomo, por los niveles que se especifican en el inciso siguiente.
+La suma anual de los recursos que reciban los establecimientos emergentes por la aplicación de la letra B del artículo 14 y el artículo 14 bis y el aporte adicional a que se refiere este artículo, será equivalente a lo que le correspondería recibir al mismo establecimiento, por alumnos prioritarios y preferentes, si éste estuviera en la categoría de Autónomo, por los niveles que se especifican en el inciso siguiente.
 
-Este aporte adicional será de 0,847 U.S.E. por los alumnos que cursen desde el primer y segundo año de transición de la educación parvularia y hasta el 6º año de la educación general básica; de 0,5645 U.S.E. por los alumnos que cursen 7º y 8º año de la educación general básica; y de 0,5645 U.S.E. por los alumnos que cursen desde el 1º hasta 4º año de enseñanza media.
+Este aporte adicional será de 1,0164 U.S.E. por los alumnos prioritarios que cursen desde el primer y segundo año de transición de la educación parvularia y hasta el 6º año de la educación general básica; de 0,6774 U.S.E. por los alumnos prioritarios que cursen 7º y 8º año de la educación general básica; de 0,6774 U.S.E. por los alumnos prioritarios que cursen desde el 1º hasta 4º año de enseñanza media, y ascenderá a la mitad de dichos montos por los alumnos preferentes que cursen los niveles que correspondan.
 
 No obstante lo anterior, durante el primer año de vigencia del convenio se entregará a los sostenedores de los establecimientos educacionales que no cuenten con un plan, un tercio del aporte adicional mensual a que se refieren los incisos anteriores, para financiar la obligación establecida en el Nº 1 del artículo 19, recibiendo del Ministerio de Educación los dos tercios restantes una vez que presenten el Plan de Mejoramiento Educativo, pagándose este saldo con efecto retroactivo calculado desde el mes siguiente al acto de aprobación del convenio a que se refiere el artículo 7º.
 
@@ -348,7 +358,7 @@ El Ministerio de Educación apercibirá a los establecimientos educacionales ord
 
 #### Artículo 24
 
-El establecimiento educacional que habiendo sido clasificado como autónomo o emergente sea posteriormente clasificado en la categoría en recuperación, dejará de percibir la subvención preferencial a que se refiere el artículo 14, a partir del inicio del año escolar siguiente. No obstante, recibirá el aporte extraordinario a que se refiere el artículo 27, a contar de dicho año.
+El establecimiento educacional que habiendo sido clasificado como autónomo o emergente sea posteriormente clasificado en la categoría en recuperación, dejará de percibir la subvención preferencial a que se refiere los artículos 14 y 14 bis, a partir del inicio del año escolar siguiente. No obstante, recibirá el aporte extraordinario a que se refiere el artículo 27, a contar de dicho año.
 
 La resolución que clasifique al establecimiento en la categoría en recuperación será notificada en forma personal o mediante carta certificada al sostenedor.
 
@@ -384,13 +394,13 @@ Los recursos entregados en virtud de esta ley podrán ser utilizados para financ
 
 Para diseñar y llevar a cabo las actividades señaladas en el artículo anterior, el Ministerio de Educación dispondrá de un aporte económico extraordinario para los sostenedores de los establecimientos educacionales declarados en Recuperación a que se refiere el artículo 23.
 
-La suma anual de este aporte extraordinario será equivalente al monto que le correspondería al establecimiento educacional si se le aplicara la subvención establecida en la letra A del artículo 14, por el promedio de los alumnos prioritarios matriculados en los niveles correspondientes en el primer trimestre del año escolar, considerando el porcentaje de la asistencia media efectiva de los alumnos prioritarios registrada en los meses del año escolar inmediatamente anterior.
+La suma anual de este aporte extraordinario será equivalente al monto que le correspondería al establecimiento educacional si se le aplicara la subvención establecida en la letra A del artículo 14 y la subvención establecida en el artículo 14 bis, por el promedio de los alumnos prioritarios y preferentes, según corresponda, matriculados en los niveles correspondientes en el primer trimestre del año escolar, considerando el porcentaje de la asistencia media efectiva de los alumnos prioritarios y preferentes, según corresponda, registrada en los meses del año escolar inmediatamente anterior.
 
 Estos recursos deberán ser aplicados a medidas de mejoramiento contenidas en el Plan mencionado en el artículo anterior.
 
 Este aporte será entregado en cuotas mensuales, iguales y sucesivas; y se suspenderá cuando el Ministerio de Educación certifique, mediante resolución fundada, que las acciones no se han ejecutado conforme al Plan.
 
-En todo caso, un alumno prioritario que se traslade durante el año escolar de un establecimiento en Recuperación a cualquier otro, no dará derecho a impetrar la subvención escolar preferencial ni los aportes de los artículos 20 y 27 al nuevo establecimiento, durante ese año.
+En todo caso, un alumno prioritario o preferente que se traslade durante el año escolar de un establecimiento en Recuperación a cualquier otro, no dará derecho a impetrar la subvención escolar preferencial ni los aportes de los artículos 20 y 27 al nuevo establecimiento, durante ese año.
 
 INCISO ELIMINADO.
 
@@ -446,13 +456,15 @@ Estarán habilitadas para prestar apoyo técnico pedagógico a los establecimien
 
 Serán requisitos para integrar el Registro Público de Entidades Pedagógicas y Técnicas de Apoyo administrado por el Ministerio de Educación de acuerdo a lo establecido en el artículo 18, letra d), de la ley N° 18.956, a lo menos, los siguientes:
 
-a) Identificación de los objetivos, metas y áreas de especialización de la entidad o persona;
+a) Tratarse de personas naturales o estar constituidas como personas jurídicas sin fines de lucro.
 
-b) Descripción de las metodologías e instrumentos de trabajo y de evaluación y monitoreo utilizados por la entidad o persona;
+b) Identificación de los objetivos, metas y áreas de especialización de la entidad o persona;
 
-c) Descripción de la formación y experiencia de la persona, o de sus equipos de trabajo cuando se trate de entidades, y
+c) Descripción de las metodologías e instrumentos de trabajo y de evaluación y monitoreo utilizados por la entidad o persona;
 
-d) No registrar incumplimientos de obligaciones previsionales ni comerciales.
+d) Descripción de la formación y experiencia de la persona, o de sus equipos de trabajo cuando se trate de entidades, y
+
+e) No registrar incumplimientos de obligaciones previsionales ni comerciales.
 
 Para los efectos de permanecer en el registro a que se refieren los incisos anteriores, además de realizar una actualización periódica de los requisitos antes mencionados, conforme se estipule en el reglamento, se exigirán estándares de certificación en las siguientes áreas:
 
