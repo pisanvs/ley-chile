@@ -82,7 +82,7 @@ Terminología. Para los efectos del presente Reglamento, las palabras o frases q
 
 24. Suma de verificación: Concepto informático que se define como aquella función que tiene por propósito principal detectar cambios accidentales en una secuencia de datos para proteger la integridad de éstos, verificando que no haya discrepancia entre los valores.
 
-25. Tolerancia: Es el mayor rango de variación de la medición que se puede permitir en un etilómetro evidencial.
+25. Eliminado.
 
 26. Trazabilidad metrológica: Propiedad de un resultado de medición por la cual dicho resultado puede relacionarse con una referencia mediante una cadena ininterrumpida y documentada de calibraciones, cada una de las cuales contribuye a la certidumbre de medición.
 
@@ -160,7 +160,7 @@ Intervalo de escala. En el modo de medición el intervalo de escala será de al 
 
 #### Artículo 11
 
-Tolerancia. Los equipos deben tener una tolerancia máxima 0,02 g/L de alcohol en sangre, cuya equivalencia de alcohol en aire espirado es de 0,010 mg/L.
+Derogado.
 
 #### Artículo 12
 
@@ -168,7 +168,7 @@ Efecto de memoria con grandes o pequeñas diferencias en la concentración en ma
 
 #### Artículo 13
 
-Se entiende como pequeña diferencia en la concentración en masa de alcohol aquella que se presenta entre gases de prueba sucesivos de la Tabla Nº 6, y grandes diferencias a aquellas que se dan entre gases de pruebas no sucesivos de la Tabla Nº 6.
+Se entiende como pequeña diferencia en la concentración en masa de alcohol a aquella que se presenta entre gases de prueba sucesivos, y grandes diferencias a aquellas que se dan entre gases de prueba no sucesivos, de las concentraciones de los gases contenidos en la tabla del numeral 11.4.4.1 de la International Recommendation OIML R 126, Edition 2012 (E), Evidential breath analyzers, International Organization of Legal Metrology, Part 2, Metrological controls and performance tests.
 
 #### Artículo 14
 
@@ -228,7 +228,7 @@ Presentación del resultado de medición. Los resultados serán presentados tant
 
 #### Artículo 21
 
-Pantalla. Las pantallas podrán ser o no iluminadas. Si los caracteres en la pantalla no están iluminados, ésta deberá disponer de un dispositivo de iluminación para facilitar su visualización.
+Pantalla. Las pantallas podrán ser o no iluminadas. Si los caracteres en la pantalla no están iluminados, esta deberá tener un dispositivo de iluminación para facilitar su visualización.
 
 #### Artículo 22
 
@@ -320,7 +320,7 @@ a) Estará provisto con servicios de comprobación el cual verificará la presen
 
 b) La altura mínima para los caracteres de impresión es de 2 mm.
 
-c) El intervalo de escala impreso será de al menos 0,01g/L en el modo de medición.
+c) El intervalo de escala impreso será de al menos 0,01mg/L (equivalente a 0,02 g/L del alcohol en la sangre) en el modo de medición.
 
 #### Artículo 34
 
@@ -432,9 +432,7 @@ Requerimientos metrológicos para la verificación y aprobación de modelo. Los 
 
 #### Artículo 43
 
-Error máximo permitido (EMP). Los siguientes EMP, que se indican en la Tabla Nº 4, se aplicarán dentro de las condiciones nominales. El EMP, positivo o negativo, se calculará a través de la siguiente fórmula:
-
-.
+Error máximo permitido (EMP). Los siguientes EMP, que se indican en la Tabla Nº 4, se aplicarán dentro de las condiciones nominales.
 
 #### Artículo 44
 
@@ -472,13 +470,9 @@ Bajo condiciones de referencia la desviación medida a 0,400 mg/L de alcohol en 
 
 #### Artículo 47
 
-Certificación de origen o aprobación de modelo. La certificación de origen o aprobación de modelo de un etilómetro evidencial será llevada a cabo por entidades designadas por el Ministerio de Transportes y Telecomunicaciones, y que se encuentren habilitadas al efecto por la autoridad competente del país o de la región donde dichas autoridades actúan. Dicho proceso contemplará los exámenes y ensayos especificados en la "International Recommendation OIML R 126, Edition 2012 (E), Evidential breath analyzers, International Organization of Legal Metrology, Part 2, Metrological controls and performance tests", o su versión más reciente, utilizando para ello los valores de concentración en masa de alcohol indicados en la Tabla N°6.
+Certificación de origen o aprobación de modelo. La certificación de origen o aprobación de modelo de un etilómetro evidencial será llevada a cabo por entidades designadas por el Ministerio de Transportes y Telecomunicaciones, y que se encuentren habilitadas al efecto por la autoridad competente del país o de la región donde dichas autoridades actúan. Dicho proceso contemplará los exámenes y ensayos especificados en la "International Recommendation OIML R 126, Edition 2012 (E), Evidential breath analyzers, International Organization of Legal Metrology, Part 2, Metrological controls and performance tests", o su versión más reciente.
 
-Tabla N°6: Valores de concentración en masa de alcohol
-
-.
-
-Dicho procedimiento deberá acreditarse mediante informes técnicos y sus correspondientes certificados que acrediten el cumplimiento de los requisitos y especificaciones técnicas establecidas en el presente Reglamento, los que deberán ser emitidos por las entidades señaladas precedentemente, quienes deberán declarar dicha conformidad mediante la fijación de una placa en el etilómetro evidencial, la que deberá estar a la vista, ser indeleble, inalterable y no removible y que contenga la información indicada en el artículo 38.
+Dicho procedimiento deberá acreditarse mediante informes técnicos y sus correspondientes certificados que acrediten el cumplimiento de los requisitos y especificaciones técnicas establecidas en el presente Reglamento, los que deberán ser emitidos por las entidades señaladas precedentemente, quienes deberán declarar dicha conformidad mediante la fijación de una placa en el etilómetro evidencial, la que deberá estar a la vista, ser indeleble e inalterable y que contenga la información indicada en el artículo 38.
 
 #### Artículo 48
 
@@ -546,17 +540,21 @@ l. Manual de usuario o instrucciones de uso.
 
 Aprobada la inspección visual, el etilómetro evidencial será sometido a la siguiente etapa.
 
-2. Ensayos: los etilómetros evidenciales serán sometidos a los siguientes ensayos, utilizando las concentraciones en masa de alcohol indicadas en la tabla N°6, anterior, obtenidas a partir de sustancias debidamente caracterizadas en cuanto a pureza y concentración de masa con trazabilidad metrológica al Sistema Internacional de Unidades.
+2. Ensayos: los etilómetros evidenciales serán sometidos a los siguientes ensayos, utilizando las concentraciones en masa de alcohol indicadas en la tabla a que se refiere el artículo 13, anterior, obtenidas a partir de sustancias debidamente caracterizadas en cuanto a pureza y concentración de masa con trazabilidad metrológica al Sistema Internacional de Unidades.
 
 2.1) Exactitud y precisión:
 
-A lo menos se deberá realizar la determinación de los parámetros en 3 de los niveles de concentración de masa de alcohol indicadas en la tabla N°6 (incluido el gas de prueba N°1). Para cada nivel se deberán realizar 10 medidas independientes de dicho material en condiciones ambientales controladas.
+A lo menos se deberá realizar la determinación de los parámetros en 3 de los niveles de concentración de masa de alcohol indicadas en la tabla a que se refiere el artículo
+
+13, anterior (incluido el gas de prueba N°1). Para cada nivel se deberán realizar 10 medidas independientes de dicho material en condiciones ambientales controladas.
 
 Los ensayos de exactitud y precisión en condiciones de repetibilidad se aprobarán cuando los valores máximos tolerados se encuentren dentro de los rangos de EMP y desviación estándar establecida en los artículos 43 y 44 del presente Reglamento.
 
 2.2) Factores de influencia:
 
-Se deberá evaluar la exactitud del instrumento en presencia de cada una de las sustancias de interferencia que se lista en la tabla siguiente, de forma independiente, la que debe estar presente en el gas de prueba N° 4 de la tabla N°6 precedente, realizando 5 mediciones para cada sustancia. El etilómetro evidencial se considerará como aprobado si no supera los siguientes valores nominales para concentración en masa de vapor en mg/L:
+Se deberá evaluar la exactitud del instrumento en presencia de cada una de las sustancias de interferencia que se lista en la tabla siguiente, de forma independiente, la que debe estar presente en el gas de prueba N° 4 de la tabla a que se refiere el artículo
+
+13, anterior, realizando 5 mediciones para cada sustancia. El etilómetro evidencial se considerará como aprobado si no supera los siguientes valores nominales para concentración en masa de vapor en mg/L:
 
 Tabla N° 7
 
@@ -578,7 +576,7 @@ iv. Identificación del responsable de la verificación.
 
 v. Fecha próxima verificación periódica.
 
-vi. Tolerancia.
+vi. Eliminado.
 
 #### Artículo 51
 
@@ -586,13 +584,13 @@ Verificación periódica. Esta verificación será realizada por el MTT, a aquel
 
 a) Exactitud y precisión:
 
-A lo menos se deberá realizar la determinación de los parámetros en tres de los niveles de concentración de masa de alcohol indicadas en la tabla N° 6 precedente. Para cada nivel se deberán realizar 5 medidas independientes de dicho material en condiciones ambientales controladas.
+A lo menos se deberá realizar la determinación de los parámetros en tres de los niveles de concentración de masa de alcohol indicadas en la tabla a que se refiere el artículo 13.- anterior. Para cada nivel se deberán realizar 5 medidas independientes de dicho material en condiciones ambientales controladas.
 
 Se dará por aceptada la exactitud y la precisión en condiciones de repetibilidad, cuando los valores máximos tolerados se encuentren dentro de los rangos de EMP y desviación estándar establecida en los artículos 43 y 44 del presente Reglamento.
 
 b) Factores de influencia:
 
-Se deberá evaluar la exactitud del instrumento en presencia de cada una de las sustancias de interferencia que se lista en la tabla N° 7, de forma independiente, la que debe estar presente en el gas de prueba N° 4 de la tabla N°6 anterior, realizando 5 mediciones para cada sustancia. El etilómetro evidencial se considerará aprobado si no supera los valores nominales indicados en la tabla Nº 7.
+Se deberá evaluar la exactitud del instrumento en presencia de cada una de las sustancias de interferencia que se lista en la tabla N° 7, de forma independiente, la que debe estar presente en el gas de prueba N° 4 de la tabla a que se refiere el artículo 13 anterior, realizando 5 mediciones para cada sustancia. El etilómetro evidencial se considerará aprobado si no supera los valores nominales indicados en la tabla Nº 7.
 
 Superada la verificación periódica, el instrumento será declarado conforme para su cometido, mediante documento emitido por el MTT, procediéndose seguidamente al retiro del precintado anterior, y su sustitución por uno nuevo que contendrá la siguiente información:
 
@@ -606,7 +604,7 @@ iv. Identificación del responsable de la verificación.
 
 v. Fecha próxima verificación periódica.
 
-vi. Tolerancia.
+vi. Eliminado.
 
 Cuando un etilómetro evidencial no supere la verificación periódica, deberá ser puesto fuera de servicio hasta que subsane la deficiencia que ha impedido su aprobación. Se dejará constancia de esto mediante una etiqueta de inhabilitación de uso.
 
