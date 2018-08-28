@@ -666,19 +666,33 @@ ELIMINADO
 
 99,038 Eliminado
 
-127,650 Paicaví R. Rucapequén/Concepción
+127,650 Paicaví R. Rucapequén/
 
-128,415 Aníbal Pinto R. Rucapequén/Concepción
+Concepción
 
-128,675 Calle Rengo R. Rucapequén/Concepción
+128,415 Aníbal Pinto R. Rucapequén/
 
-128,930 Calle Angol R. Rucapequén/Concepción
+Concepción
 
-129,050 Calle Prat R. Rucapequén/Concepción
+128,675 Calle Rengo R. Rucapequén/
 
-129,340 Andalién R. Rucapequén/Concepción
+Concepción
 
-34,100 Sin Nombre Ramal San Rosendo/Talcahuano
+128,930 Calle Angol R. Rucapequén/
+
+Concepción
+
+129,050 Calle Prat R. Rucapequén/
+
+Concepción
+
+129,340 Andalién R. Rucapequén/
+
+Concepción
+
+34,100 Sin Nombre Ramal San Rosendo/
+
+Talcahuano
 
 39,065 Cruce Nº1 Ramal San Rosendo- Talcahuano
 
@@ -688,43 +702,59 @@ Hualqui -
 
 Quilacoya
 
-41,625 Cruce Nº2 Ramal San Rosendo- Talcahuano
+41,625 Cruce Nº2 Ramal San Rosendo-
 
-Variante
+Variante Talcahuano
 
 Hualqui -
 
 Quilacoya
 
-45,500 Hualqui Ramal San Rosendo/Talcahuano
+45,500 Hualqui Ramal San Rosendo/
 
-49,200 Periquillo R. San Rosendo/Talcahuano
+Talcahuano
 
-68,530 O'Higgins R. San Rosendo/Talcahuano
+49,200 Periquillo R. San Rosendo/
 
-72,960 Corhabit R. San Rosendo/Talcahuano
+Talcahuano
 
-76,070 Los Perales R. San Rosendo/Talcahuano
+68,530 O'Higgins R. San Rosendo/
 
-80,695 La Higuera R. San Rosendo/Talcahuano
+Talcahuano
 
-82,300 Hualpén R. San Rosendo/Talcahuano
+72,960 Corhabit R. San Rosendo/
 
-83,390 Bilbao R. San Rosendo/Talcahuano
+Talcahuano
 
-84,200 La Unión R. San Rosendo/Talcahuano
+76,070 Los Perales R. San Rosendo/
 
-85,026 Blanco R. San Rosendo/Talcahuano
+Talcahuano
 
-50,978 Forestal R. Curanilahue/Concepción
+80,695 La Higuera R. San Rosendo/
 
-20,710 O'Higgins R. Renaico/Traiguén y
+Talcahuano
 
-Traiguén/Púa
+82,300 Hualpén R. San Rosendo/
 
-0,200 Los Sauces
+Talcahuano
 
-Guadaba Ramal Los Sauces/Lebu
+83,390 Bilbao R. San Rosendo/
+
+Talcahuano
+
+84,200 La Unión R. San Rosendo/
+
+Talcahuano
+
+85,026 Blanco R. San Rosendo/
+
+Talcahuano
+
+50,978 Forestal R. Curanilahue/
+
+Concepción
+
+ELIMINADO
 
 2,821 Panamericana Ramal Temuco/Carahue
 
@@ -1212,29 +1242,53 @@ Montt L.C.S.
 
 ELIMINADO
 
-6,914 Chagres Ramal Llay Llay/Los Andes
+6,914 Chagres Ramal Llay Llay/
 
-19,464 Panquehue Ramal Llay Llay/Los Andes
+Los Andes
 
-30,815 El Puente Ramal Llay Llay/Los Andes
+19,464 Panquehue Ramal Llay Llay/
 
-31,618 Dardignac Ramal Llay Llay/Los Andes
+Los Andes
 
-32,023 12 Febrero Ramal Llay Llay/Los Andes
+30,815 El Puente Ramal Llay Llay/
 
-37,000 Curimón Ramal Llay Llay/Los Andes
+Los Andes
 
-40,510 El Bosque Ramal Llay Llay/Los Andes
+31,618 Dardignac Ramal Llay Llay/
 
-41,795 San Rafael Ramal Llay Llay/Los Andes
+Los Andes
 
-42,000 La Tortilla Ramal Llay Llay/Los Andes
+32,023 12 Febrero Ramal Llay Llay/
 
-44,980 La Junta Ramal Llay Llay/Los Andes
+Los Andes
 
-45,900 Cementerio Ramal Llay Llay/Los Andes
+37,000 Curimón Ramal Llay Llay/
 
-1,100 Hnos. Clark Ramal Los Andes/Río Blanco
+Los Andes
+
+40,510 El Bosque Ramal Llay Llay/
+
+Los Andes
+
+41,795 San Rafael Ramal Llay Llay/
+
+Los Andes
+
+42,000 La Tortilla Ramal Llay Llay/
+
+Los Andes
+
+44,980 La Junta Ramal Llay Llay/
+
+Los Andes
+
+45,900 Cementerio Ramal Llay Llay/
+
+Los Andes
+
+1,100 Hnos. Clark Ramal Los Andes/
+
+Río Blanco
 
 ELIMINADO
 
@@ -1312,39 +1366,71 @@ ELIMINADO
 
 ELIMINADO
 
-1,915 El Mirador Ramal Talca/Constitución
+1,915 El Mirador Ramal Talca/
 
-8,535 Unihue Ramal Talca/Constitución
+Constitución
 
-12,890 Colín Ramal Talca/Constitución
+8,535 Unihue Ramal Talca/
 
-14,900 Perales Ramal Talca/Constitución
+Constitución
 
-27,280 Sin Nombre Ramal Talca/Constitución
+12,890 Colín Ramal Talca/
 
-33,850 Sin Nombre Ramal Talca/Constitución
+Constitución
 
-87,580 Sin Nombre Ramal Talca/Constitución
+14,900 Perales Ramal Talca/
 
-87,950 Sin Nombre Ramal Talca/Constitución
+Constitución
+
+27,280 Sin Nombre Ramal Talca/
+
+Constitución
+
+33,850 Sin Nombre Ramal Talca/
+
+Constitución
+
+87,580 Sin Nombre Ramal Talca/
+
+Constitución
+
+87,950 Sin Nombre Ramal Talca/
+
+Constitución
 
 88,400 Constitución Ramal Talca/Constitución
 
-1,030 Sin Nombre R. Rucapequén/Concepción
+1,030 Sin Nombre R. Rucapequén/
 
-2,110 Sin Nombre R. Rucapequén/Concepción
+Concepción
 
-9,790 Colliguay R. Rucapequén/Concepción
+2,110 Sin Nombre R. Rucapequén/
 
-11,680 Sin Nombre R. Rucapequén/Concepción
+Concepción
 
-12,905 Sin Nombre R. Rucapequén/Concepción
+9,790 Colliguay R. Rucapequén/
 
-15,170 Sin Nombre R. Rucapequén/Concepción
+Concepción
 
-16,950 Sin Nombre R. Rucapequén/Concepción
+11,680 Sin Nombre R. Rucapequén/
 
-19,100 Nueva Aldea R. Rucapequén/Concepción
+Concepción
+
+12,905 Sin Nombre R. Rucapequén/
+
+Concepción
+
+15,170 Sin Nombre R. Rucapequén/
+
+Concepción
+
+16,950 Sin Nombre R. Rucapequén/
+
+Concepción
+
+19,100 Nueva Aldea R. Rucapequén/
+
+Concepción
 
 28,370 ELIMINADO
 
@@ -1384,17 +1470,29 @@ ELIMINADO
 
 99,300 ELIMINADO
 
-112,130 Sin Nombre R. Rucapequén/Concepción
+112,130 Sin Nombre R. Rucapequén/
 
-113,690 Sin Nombre R. Rucapequén/Concepción
+Concepción
 
-114,590 Sin Nombre R. Rucapequén/Concepción
+113,690 Sin Nombre R. Rucapequén/
 
-114,825 Sin Nombre R. Rucapequén/Concepción
+Concepción
 
-115,435 Sin Nombre R. Rucapequén/Concepción
+114,590 Sin Nombre R. Rucapequén/
 
-128,040 Tucapel R. Rucapequén/Concepción
+Concepción
+
+114,825 Sin Nombre R. Rucapequén/
+
+Concepción
+
+115,435 Sin Nombre R. Rucapequén/
+
+Concepción
+
+128,040 Tucapel R. Rucapequén/
+
+Concepción
 
 ELIMINADO
 
@@ -1452,17 +1550,13 @@ Talcahuano
 
 Curanilahue
 
-5,270 Bío Bío L.
+5,270 Bío Bío L. Ramal Concepción/
 
-Coloradas Ramal Concepción/
+Coloradas Curanilahue
 
-Curanilahue
+6,680 Bío Bío Ramal Concepción/
 
-6,680 Bío Bío
-
-L. Coloradas Ramal Concepción/
-
-Curanilahue
+L. Coloradas Curanilahue
 
 12,240 Portal
 
@@ -1582,195 +1676,21 @@ ELIMINADO
 
 Sta. Bárbara
 
-0,230 Sin Nombre R. Coigüe/
+0,230 Sin Nombre R. Coigüe/Nacimiento
 
-Nacimiento
+2,060 Sin Nombre R. Coigüe/Nacimiento
 
-2,060 Sin Nombre R. Coigüe/
-
-Nacimiento
-
-5,040 Sin Nombre R. Coigüe/
-
-Nacimiento
+5,040 Sin Nombre R. Coigüe/Nacimiento
 
 6,600 Est. Coigüe
 
-Norte Ramal Coigüe/
-
-Mulchén
+Norte Ramal Coigüe/Mulchén
 
 ELIMINADO
 
 41,500 Mulchén Oriente Ramal Coigüe/Mulchén
 
-0,600 Renaico R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-7,040 Tijeral R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-19,490 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-0,060 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-19,180 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-20,000 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-21,230 Est. Angol R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-33,650 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-47,600 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-52,818 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-55,407 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-40,500 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-42,000 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-92,006 Traiguén Norte R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-92,495 Traiguén Norte R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-96,840 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-66,038 Santa Rosa R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-73,902 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-78,580 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-82,064 Trigal R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-82,610 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-93,662 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-97,962 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-101,513 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-105,372 Tricauco R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-108,680 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-113,374 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-115,595 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-121,790 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-127,032 Sin Nombre R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-130,858 Púa R. Renaico/Traiguén y
-
-Traiguén/Púa
-
-0,940 Sin Nombre Ramal Los Sauces/Lebu
-
-3,540 Sin Nombre Ramal Los Sauces/Lebu
-
-10,350 Sin Nombre Ramal Los Sauces/Lebu
-
-18,830 Sin Nombre Ramal Los Sauces/Lebu
-
-22,450 Sin Nombre Ramal Los Sauces/Lebu
-
-24,400 Guadaba Purén Ramal Los Sauces/Lebu
-
-25,620 Purén Ramal Los Sauces/Lebu
-
-26,480 Sin Nombre Ramal Los Sauces/Lebu
-
-45,290 Sin Nombre Ramal Los Sauces/Lebu
-
-54,330 Sin Nombre Ramal Los Sauces/Lebu
-
-60,570 Sin Nombre Ramal Los Sauces/Lebu
-
-65,960 Sin Nombre Ramal Los Sauces/Lebu
-
-69,955 Sin Nombre Ramal Los Sauces/Lebu
-
-77,270 Lanalhue Peleco Ramal Los Sauces/Lebu
-
-77,430 Sin Nombre Ramal Los Sauces/Lebu
-
-107,120 Sin Nombre Ramal Los Sauces/Lebu
-
-109,540 Sin Nombre Ramal Los Sauces/Lebu
-
-112,180 Tres Pinos Ramal Los Sauces/Lebu
-
-120,960 Los Alamos
-
-Pehuén Ramal Los Sauces/Lebu
-
-126,650 Sin Nombre Ramal Los Sauces/Lebu
-
-138,490 Triángulo Ramal Los Sauces/Lebu
+ELIMINADO
 
 143,000 Sin Nombre Ramal Los Sauces/Lebu
 
@@ -1786,17 +1706,11 @@ ELIMINADO
 
 52,897 Panguipulli Ramal a Panguipulli
 
-0,480 Antilhue Ramal Antilhue/
+0,480 Antilhue Ramal Antilhue/Valdivia
 
-Valdivia
+1,193 Circ. Antilhue Ramal Antilhue/Valdivia
 
-1,193 Circ. Antilhue Ramal Antilhue/
-
-Valdivia
-
-4,210 Sin Nombre Ramal Antilhue/
-
-Valdivia
+4,210 Sin Nombre Ramal Antilhue/Valdivia
 
 5,230 Chincuín Ramal Antilhue -
 
