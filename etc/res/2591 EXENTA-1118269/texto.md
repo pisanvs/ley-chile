@@ -26,8 +26,6 @@ Los beneficiarios que hayan realizado su postulación vía internet, para obtene
 
 4. Los recursos dispuestos para la selección de postulantes, por Región del país, son los siguientes:
 
-.
-
 5. Establécese que, para postular al presente llamado, los postulantes deberán pertenecer al 40% más vulnerable de la población nacional, según Registro Social de Hogares. Todos los antecedentes de los postulantes, incluyendo la conformación del núcleo familiar y las condiciones de la vivienda habitada, serán consultados directamente de dicho Registro.
 
 6. Para efectos de acreditar el ahorro, en los casos en que la entidad captadora de ahorro tenga convenio de traspaso electrónico con el Minvu, sólo será necesario que el postulante presente algún documento que acredite que es el titular de la cuenta y en el cual pueda visualizarse su número respectivo. Esta acreditación podrá ser con la cartola obtenida directamente de la página de internet de la entidad bancaria o del dispensador automático que la misma entidad disponga. La información respecto al saldo existente será obtenida y verificada directamente por el sistema informático de postulación. En caso que la entidad captadora no tenga convenio de traspaso electrónico con el Minvu, certificación emitida por dicha entidad en que conste el número, el tipo de libreta o cuenta y el saldo final, según establece la letra b) del artículo 39 del DS N° 49 (V. y U.), de 2011.
