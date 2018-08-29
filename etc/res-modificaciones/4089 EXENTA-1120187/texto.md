@@ -60,17 +60,11 @@ Modifícase la resolución exenta N° 1.484 (V. y U.), de 2018, y sus modificaci
 
 2. Apruébanse las nóminas de seleccionados para el otorgamiento de subsidios habitacionales correspondientes al primer proceso de postulación del Llamado Nacional en condiciones especiales para proyectos del Título II, Mejoramiento de la Vivienda, del Programa de Protección del Patrimonio Familiar, destinados a Proyectos de Obras de Innovación de Eficiencia Energética, de Acondicionamiento Térmico de Viviendas, tanto en su línea general, como en el marco de los Planes de Descontaminación Atmosférica, efectuado por resolución exenta N° 1.484 (V. y U.), de 2018, y sus modificaciones, realizada en el mes de abril de este año. Estas nóminas se adjuntan y se entenderán formar parte integrante de esta resolución. Además, fíjase el número de postulantes seleccionados por Región, según se indica en la siguiente tabla:
 
-.
-
 3. Comprométense los recursos disponibles para el primer proceso de postulación del Llamado Nacional en condiciones especiales para proyectos del Título II, Mejoramiento de la Vivienda, del Programa de Protección del Patrimonio Familiar, del año 2018, destinados a Proyectos de Obras de Innovación de Eficiencia Energética, de Acondicionamiento Térmico de Viviendas, tanto en su línea general, como en el marco de los Planes de Descontaminación Atmosférica, los que se destinarán al financiamiento de los subsidios y al pago de los servicios de Asistencia Técnica, según la distribución por título y por región, señalada en el siguiente cuadro:
-
-.
 
 4. Publíquese la presente resolución en el Diario Oficial; y en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 2, de esta resolución, las que deberán contener, a lo menos, la comuna, el Título del cual se trate, el nombre de cada postulante con su respectiva cédula de identidad y el puntaje obtenido por el grupo o persona.
 
 5. El saldo de recursos por región para postular proyectos en los próximos procesos de selección de este llamado está reflejado en el siguiente cuadro:
-
-.
 
 Este cuadro puede sufrir modificaciones, pues se le descontarán todos los subsidios que se asignen directamente en estas líneas. Además, en este cuadro se define un monto sin regionalizar para la selección de Proyectos del Título II, de Obras de Innovación de Eficiencia Energética para instalar sistemas fotovoltaicos. Este monto sin regionalizar se distribuirá proporcionalmente, según la cantidad de proyectos de esta línea que se presenten en cada región.
 
