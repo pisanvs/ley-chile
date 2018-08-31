@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, A LA "I. MUNICIPALIDAD DE SAN ESTEBAN"
+
+Mediante decreto exento N° E-302, de 9 de agosto de 2018, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "I. Municipalidad de San Esteban", RUT N° 69.051.400-1, el inmueble fiscal ubicado en Av. Alessandri S/N°, que corresponde al Lote 69-4 A, Proyecto Camino Internacional Ruta 60 CH, de la comuna de San Esteban, provincia de Los Andes, Región de Valparaíso; enrolado en el Servicio de Impuestos Internos con el N° 107-10; inscrito a nombre del Fisco que rola a fs. 1802 vta. N° 1901, del Registro de Propiedad del Conservador de Bienes Raíces de Los Andes, correspondiente al año 2011; singularizado en el Plano Nº 05304-8428-C.R.; con una superficie de 31.097,5 m2. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para ejecutar un proyecto que consiste en la construcción de un estadio con pista de atletismo, con una capacidad de 2.000 personas y la construcción de un Polideportivo con un gimnasio techado, sala de máquinas, baños y camarines, más espacios de esparcimiento y senderos de circulación. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefa de División Jurídica.
