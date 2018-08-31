@@ -1636,8 +1636,6 @@ a) Establecimiento de lineamientos estratégicos, valores corporativos, líneas 
 
 Esta Superintendencia considera que el Directorio, de acuerdo al mandato legal que establece su competencia, debe definir y aprobar tanto los objetivos como el plan estratégico de la institución, promoviendo una gestión del capital de mediano y largo plazo acorde con el perfil de riesgo que haya definido, considerando a su vez una debida protección a los intereses de los accionistas y del público en general.
 
-Hoja 6
-
 Para cumplir con tales responsabilidades, el Directorio debe ser capaz de establecer y sancionar los valores corporativos que identifican al banco y complementan sus objetivos estratégicos, considerando también las líneas de responsabilidad necesarias para asegurar su adecuada implementación.
 
 En la evaluación de las distintas dimensiones que abarcan las materias mencionadas, se considerarán situaciones como las que se describen a continuación:
@@ -1657,8 +1655,6 @@ En la evaluación de las distintas dimensiones que abarcan las materias menciona
 - Las actas levantadas en cada sesión del Directorio reflejan con claridad todos los asuntos tratados en cada reunión, tales como los acuerdos o compromisos tomados y el seguimiento de los mismos; los planes de acción y asignación de responsabilidades; así como el estado de avance de proyectos estratégicos, entre otros.
 
 - El Directorio cuenta con el apoyo de diversos comités, acordes a la naturaleza y complejidad de las actividades del Banco, en los que participan uno o más integrantes del mismo y que le permiten tratar y monitorear aspectos específicos de su competencia.
-
-Hoja 7
 
 b) Verificación del desempeño de la alta administración y cumplimiento con las políticas establecidas por el Directorio.
 
@@ -1682,8 +1678,6 @@ La existencia de elementos como los que se describen a continuación, dan cuenta
 
 - Los sistemas de información habilitados para transparentar el funcionamiento de la entidad, especialmente en lo que respecta a la gestión de riesgos y la efectividad de sus mecanismos de control, consideran la presentación completa, periódica y oportuna de informes al Directorio.
 
-Hoja 8
-
 c) Promoción de controles internos sólidos y de una auditoría efectiva.
 
 Para garantizar una gestión prudente de la institución y de los riesgos sujetos a esta evaluación, el Directorio debe impulsar el establecimiento de procedimientos y sistemas de control interno, acordes con la naturaleza de las actividades desarrolladas por el banco y la complejidad de la estructura organizacional que las sustenta.
@@ -1705,8 +1699,6 @@ d) Mecanismo de divulgación de información
 La disponibilidad de información completa, fidedigna y oportuna es una condición indispensable para la adecuada gestión del banco, por lo que el Directorio debe establecer los contenidos mínimos que considere adecuados y tomar las medidas que estime necesarias para su divulgación en las instancias pertinentes, tanto al interior como exterior de la entidad, ejerciendo el control de su cumplimiento.
 
 Parte de la información a divulgar deberá comprender aspectos de interés público, tales como los definidos en el Título V del Capítulo 1-4 de esta Recopilación, que permitan a los accionistas y a las demás partes interesadas tener un conocimiento adecuado de la entidad, de sus políticas y de los principios que la rigen, definidos por el mismo Directorio.
-
-Hoja 9
 
 3.2. Administración y control de los riesgos y otras materias sujetas a evaluación.
 
@@ -1748,8 +1740,6 @@ En la evaluación interesa, en primer lugar, la compatibilidad entre las políti
 
 Serán también materia de examen la suficiencia y eficacia de las segregaciones funcionales, especialmente las que deben existir entre las áreas comerciales y aquellas encargadas de la función de administración del riesgo y de auditoría interna. En esto es esencial, por una parte, que la administración del riesgo de crédito sea una contraparte efectiva de las áreas tomadoras de riesgo y, por otra, que la posición independiente de la función de auditoría interna permita una adecuada cobertura y profundidad de las revisiones y la adopción oportuna de medidas correctivas por parte de las áreas auditadas.
 
-Hoja 10
-
 En lo que toca a la administración del riesgo de crédito, se evaluarán los mecanismos y técnicas de detección, acotamiento y reconocimiento oportuno de los riesgos que asume la entidad en el desarrollo de sus actividades de crédito. En este ámbito, es clave la capacidad de la entidad para mantener permanentemente bien clasificada su cartera, su dominio sobre los factores de riesgo asociados a sus operaciones y su disposición para reconocer en forma oportuna en sus resultados los riesgos individuales de crédito a que está expuesta, como también su capacidad para limitar los riesgos de concentración de la cartera en general.
 
 Asociado a lo anterior, constituye también un aspecto relevante de la evaluación, el examen de la cobertura y profundidad de la información acerca de los deudores, tanto aquella referida a su comportamiento de pago, incluyendo la adecuada administración de su cuenta corriente en el banco, como a sus condiciones financieras generales.
@@ -1774,8 +1764,6 @@ En relación con lo descrito precedentemente, una buena gestión puede manifesta
 
 - Las auditorías internas cubren con una adecuada identificación, cuantificación y priorización, los distintos riesgos relacionados con las colocaciones.
 
-Hoja 11
-
 - La entidad mantiene sanas prácticas de administración financiera que comprenden la plena identificación, medición y control de todos los riesgos de sus clientes y de los productos que estos contratan y de aquellos que unilateralmente entrega el banco como, por ejemplo, en el caso de la aprobación de sobregiros no pactados. Estos se documentan adecuadamente, se constituyen los resguardos necesarios y se evalúa la continuidad del contrato de cuenta corriente cuando un cliente los ocasiona en forma reiterada.
 
 B) Gestión del riesgo financiero y operaciones de tesorería.
@@ -1793,8 +1781,6 @@ A efectos ilustrativos, una buena gestión en relación con esta materia puede m
 - La empresa está organizada para manejar los riesgos financieros en forma integral. La planificación, administración y control constituyen procesos asentados en los distintos niveles de la organización; y la alta administración cuenta con la información necesaria para la evaluación periódica de los mismos.
 
 - La responsabilidad de la administración de activos y pasivos depende de alguna de las instancias que conforman la alta administración, cuya función permite acotar el riesgo a niveles razonables, manteniendo políticas y estrategias financieras consecuentes con los lineamientos de exposición al riesgo sancionados por el Directorio y con las estrategias comerciales del banco.
-
-Hoja 12
 
 - Los nuevos productos, en forma previa a su lanzamiento, son sometidos a un riguroso análisis de los riesgos involucrados.
 
@@ -1846,9 +1832,15 @@ En ese sentido, revelan una buena gestión, por ejemplo, situaciones o hechos ta
 
 - El banco realiza inversiones en tecnología de procesamiento y seguridad de la información, que permiten mitigar los riesgos operacionales y que son concordantes con el volumen y complejidad de las actividades y operaciones que realiza.
 
-- El banco cuenta con una adecuada planificación a largo plazo para la infraestructura tecnológica y dispone de los recursos necesarios para el desarrollo normal de sus actividades y para que los nuevos proyectos previstos se concreten oportunamente.
+- El banco cuenta con una adecuada planificación a largo plazo para la infraestructura tecnológica y dispone de los recursos necesarios para el desarrollo normal de sus actividades, entre estas las políticas de actualización y parche de software, y para que los nuevos proyectos previstos se concreten oportunamente.
 
-- El banco cuenta con una estructura dedicada que permite administrar la seguridad de la información en general y de Ciberseguridad en particular, en términos de resguardar su confidencialidad, integridad y disponibilidad. Respecto a la gestión de la Ciberseguridad, la entidad al menos contempla los aspectos descritos en el Anexo N° 3 de este Capítulo y en el numeral 2 del Capítulo 20-8 de esta Recopilación.
+- La institución gestiona sus incidentes de Ciberseguridad, con el fin de detectar, investigar y generar acciones de mitigación del impacto de estos eventos, y resguardar la confidencialidad, disponibilidad e integridad de sus activos de información. El Directorio de la institución toma conocimiento regularmente de estos incidentes, sean estos materializados o no, y se pronuncia sobre ellos al menos una vez al año, con el fin de mejorar su gestión y prevención.
+
+- La entidad cuenta con una base comprensiva de incidentes de Ciberseguridad, que registra los eventos que ponen en riesgo la seguridad de los activos de información presentes en el ciberespacio, identificados de manera individual. Esta base contempla, como mínimo, los campos solicitados mensualmente en el archivo que para este fin existe en el Manual de Sistema de Información de esta Superintendencia. La suficiencia de la base de incidentes debe ser parte de las revisiones de la función de auditoría interna.
+
+- La institución considera la base de incidentes como un insumo para la realización de pruebas que permitan detectar las amenazas y vulnerabilidades que pudieran existir sobre su sistema de gestión de seguridad de la información, las cuales están indicadas en la letra g del Anexo N° 3 de este Capítulo.
+
+- El banco cuenta con una estructura dedicada que permite administrar la seguridad de la información en general y de Ciberseguridad en particular, en términos de resguardar su confidencialidad, integridad y disponibilidad. Respecto a la gestión de la Ciberseguridad, la entidad al menos contempla los aspectos descritos en el Anexo N° 3 de este Capítulo.
 
 - El banco considera en sus planes de continuidad del negocio y contingencia, diversos escenarios y supuestos que pudieran impedir que cumpla toda o parte de sus obligaciones y en ese sentido ha desarrollado una metodología formal que considera en sus etapas, la evaluación de impacto y criticidad de sus servicios y productos, la definición de estrategias de prevención, contención y recuperación, así como pruebas periódicas de tales estrategias.
 
@@ -20314,111 +20306,97 @@ Sin perjuicio de lo señalado, para estas actividades la entidad deberá velar p
 
 ## Capítulo 20-8
 
-INFORMACIÓN DE INCIDENTES OPERACIONALES RELEVANTES Y BASE DE DATOS DE INCIDENTES DE CIBERSEGURIDAD.
+INFORMACIÓN DE INCIDENTES OPERACIONALES.
 
 La evolución de la industria financiera, particularmente la incorporación de la tecnología en la forma de generar, procesar y administrar sus activos de información, involucran riesgos operacionales que afectan a los procesos del negocio de la institución.
 
-Al respecto, resulta relevante que las entidades dispongan de sistemas, procedimientos y mecanismos de gestión que permitan identificar, registrar, evaluar, controlar, mitigar, monitorear y reportar incidentes operacionales, y en especial aquellos incidentes relacionados con la Ciberseguridad. Estos sistemas deben permitir al banco tener una visión oportuna de los incidentes y, a la vez, asegurar la existencia de herramientas para hacer el seguimiento y correlacionar eventos, a objeto de detectar otros incidentes, identificar vulnerabilidades de la infraestructura física y virtual comprometida, modus operandi de los eventuales ataques, entre otros.
+Al respecto, resulta relevante que las entidades dispongan de sistemas, procedimientos y mecanismos de gestión que permitan identificar, registrar, evaluar, controlar, mitigar, monitorear y reportar incidentes operacionales, en especial aquellos relacionados con la Ciberseguridad. Estos sistemas deben permitir al banco tener una visión oportuna de los incidentes y, a la vez, asegurar la existencia de herramientas para hacer el seguimiento y correlacionar eventos, a objeto de detectar otros incidentes, identificar vulnerabilidades de la infraestructura física y virtual comprometida, modus operandi de los eventuales ataques, entre otros.
 
-En virtud de lo anterior, este Capítulo establece requisitos relativos a la información que se debe enviar a esta Superintendencia cuando ocurran incidentes operacionales relevantes, así como la generación y mantención de una base de incidentes relacionados con la Ciberseguridad.
+En virtud de lo anterior, este Capítulo establece requisitos relativos a la información que se debe enviar a esta Superintendencia cuando ocurran incidentes operacionales, la obligación de mantener adecuadamente informados a los clientes en determinados eventos y el deber de los bancos de compartir información de ataques relacionados a Ciberseguridad.
 
-### 1. COMUNICACIÓN DE INCIDENTES OPERACIONALES RELEVANTES
+### 1. COMUNICACIÓN DE INCIDENTES OPERACIONALES
 
-Los bancos deberán comunicar de inmediato a esta Superintendencia, para el solo efecto de mantenerla informada, los incidentes operacionales relevantes.
+Las entidades deberán comunicar a esta Superintendencia los incidentes operacionales que afecten o pongan en riesgo la continuidad del negocio, los fondos o recursos de la entidad o de sus clientes, la calidad de los servicios o la imagen de la institución. El banco, en caso de incidentes, será responsable de mantener informada a esta Superintendencia de la situación en desarrollo y de las medidas o acciones de detección, respuesta y recuperación del incidente. A modo de ejemplo, y sin el objeto de ser exhaustivos ni taxativos, deberán ser reportadas las fallas en el servicio de proveedores críticos, problemas tecnológicos que afecten la seguridad de la información; la indisponibilidad o interrupción de algún servicio o producto que afecte a los clientes, en cualquier canal; pérdidas o fugas de información del banco o de clientes; los incidentes que afecten el patrimonio de la entidad producto de fraudes internos o externos, o los eventos que gatillen planes de contingencia, entre otros.
 
-Se entiende que son relevantes aquellos eventos que afecten la continuidad del negocio, la seguridad de la información o la imagen de la institución.
+Asimismo, deben ser informados los incidentes que afecten a un grupo de clientes que puedan impactar la imagen y reputación de la entidad en forma inmediata, o con posterioridad a ocurrido un determinado evento.
 
-La información se enviará tan pronto se identifique el incidente, mediante un correo electrónico dirigido a la casilla habilitada por esta Superintendencia para recibir tales comunicaciones en cualquier horario, tanto de días hábiles como inhábiles. El correo deberá incluir la siguiente información:
+Una vez comunicado el evento, la institución es responsable por establecer un canal permanente de comunicación con la Superintendencia.
 
-- Nombre de la entidad informante.
+1.1 Envío de la información a la Superintendencia
 
-- Datos de la persona encargada de enviar la información: nombre, cargo, correo electrónico y teléfono celular.
+La información deberá ser enviada mediante la casilla habilitada por esta Superintendencia a través de su Extranet, en cualquier horario, tanto en días hábiles como inhábiles, en el plazo máximo de 30 minutos luego de su ocurrencia.
 
-- Fecha y hora de inicio del evento.
+Para estos efectos, la entidad deberá definir un funcionario encargado, quien realizará los reportes y enviará la información según lo indicado en este numeral. Esta persona o quien la reemplace deberán tener un nivel ejecutivo y ser designados por la institución tanto para este efecto, como para responder eventuales consultas por parte de este Organismo.
 
-- Explicación del incidente: la situación que originó y su causa inmediata.
+La información deberá ser reportada de acuerdo al siguiente esquema:
 
-- Proveedores involucrados, señalando su participación en el proceso afectado por el incidente, cuando sea el caso.
+a) Al momento de inicio del incidente. El reporte deberá incluir, al menos, los siguientes aspectos:
 
-- Estimación de tipo y número de clientes afectados, cuando corresponda.
+. Número único identificador del incidente (asignado por la SBIF)
 
-El encargado de enviar la información, o quien lo reemplace, deberá ser una persona de nivel ejecutivo, designado por la institución tanto para ese efecto como para responder eventuales consultas de esta Superintendencia.
+. Nombre de la entidad informante
 
-### 2. BASE DE INCIDENTES DE CIBERSEGURIDAD
+. Descripción del incidente
 
-2.1 Condiciones mínimas para el desarrollo y mantención de una Base de Incidentes
+. Fecha y hora de inicio del incidente
 
-La Ciberseguridad en las instituciones financieras es esencial para evitar los efectos adversos sobre su continuidad operacional, así como la seguridad de los activos que administran.
+. Causas posibles o identificadas
 
-Al respecto, resulta relevante que las entidades dispongan de sistemas, procedimientos y mecanismos de gestión que permitan identificar, registrar, evaluar, controlar, mitigar, monitorear y reportar incidentes operacionales relacionados con la Ciberseguridad.
+. Productos o servicios afectados
 
-A continuación se detallan algunos de los elementos que serán parte de la evaluación de gestión, en los términos del Capítulo 1-13 de la RAN, respecto a la generación de la base de incidentes:
+. Tipo y nombre de proveedor o tercero involucrado (si corresponde)
 
-a) El Directorio de la institución toma regularmente conocimiento de estos incidentes y se pronuncia sobre ellos al menos una vez al año, con el fin de mejorar su gestión y prevención.
+. Tipo y número estimado de clientes afectados
 
-b) La entidad cuenta con una base de incidentes de Ciberseguridad, donde registra los eventos no planificados por la institución que ponen en riesgo la seguridad de los activos de información presentes en el ciberespacio e identificando de manera individual cada uno de estos incidentes.
+. Dependencias y/o activos afectados (si corresponde)
 
-c) La institución gestiona sus incidentes de Ciberseguridad, con el fin de detectar, investigar y generar acciones de mitigación del impacto de estos eventos, resguarda la confidencialidad, disponibilidad e integridad de sus activos de información.
+. Medidas adoptadas y en curso
 
-d) La base de incidentes completa deberá mantenerse a disposición de esta Superintendencia para cuando sea requerida. La suficiencia de la base de incidentes es parte de las revisiones de la función de auditoría interna.
+. Otros antecedentes
 
-e) La institución considera la base de incidentes como un insumo para la realización de pruebas que permiten detectar las amenazas y vulnerabilidades que pudieran existir sobre su sistema de gestión de seguridad de la información en el ciberespacio, las cuales están indicadas en la letra g del Título I del Anexo N° 3 del Capítulo 1-13 de esta Recopilación.
+El no contar con toda la información de los campos mencionados previamente no debe ser impedimento para el envío de la comunicación dentro del plazo definido en este numeral.
 
-2.2 Variables mínimas a considerar para la elaboración de la base de incidentes de Ciberseguridad
+En los casos que este Organismo lo estime necesario, se podrá requerir a las instituciones un plan de recuperación.
 
-a) Identificación única del incidente: Se entenderá como incidente, aquel evento que afecte negativamente a la institución. La base de incidentes debe reportar no solo los eventos materializados, sino también aquellos que la institución logró detectar en una fase temprana y no produjeron daños efectivos.
+b) Al momento de cierre del incidente. Una vez cerrado el incidente, se deberá informar esta situación a través de la misma casilla. Dicho reporte deberá incluir, al menos, los siguientes aspectos:
 
-b) Especificar si se trató de un incidente materializado o no.
+. Número único identificador del incidente
 
-c) Fecha del evento: fecha y hora del inicio del incidente.
+. Nombre de la entidad informante
 
-d) Fecha del reporte: fecha y hora en la que el incidente es detectado.
+. Descripción del incidente
 
-e) Fecha de la mitigación: fecha y hora en la que el incidente se mitigó, cuando corresponda.
+. Causas identificadas
 
-f) Tipo de vulnerabilidad: determinar la causa del incidente, materializado o no, a partir del tipo de vulnerabilidad que pone en riesgo a los activos de información de acuerdo a la clasificación presentada a continuación:
+. Fecha y hora de inicio del incidente
 
-### 1. Incumplimiento de las políticas establecidas para el control del
+. Fecha de cierre del incidente
 
-riesgo de Ciberseguridad.
+. Productos o servicios afectados
 
-### 2. Inadecuada definición, instalación o mantención de la estructura
+. Tipo y nombre de proveedor involucrado (si corresponde)
 
-física que soporta los activos de información lógicos.
+. Tipo y número de clientes afectados
 
-### 3. Inadecuada definición o control de los accesos físicos
+. Dependencias y/o activos afectados (si corresponde)
 
-### 4. Inadecuada definición o control de los accesos lógicos
+. Medidas adoptadas
 
-### 5. Inadecuada definición de los servicios provistos por agentes
+. Otros antecedentes
 
-externos.
+Adicionalmente, en los casos que este Organismo lo estime necesario, podrá requerir informes complementarios a la entidad (por ejemplo, informes forenses).
 
-### 6. Inadecuada definición o control de la arquitectura tecnológica
+1.2 Información a clientes o usuarios
 
-### 7. Prácticas inadecuadas de los usuarios internos de la organización
+Al tratarse de incidentes que afecten la calidad o continuidad de los servicios a los clientes o se trate de un hecho de público conocimiento, la institución será responsable de informar oportunamente a los usuarios sobre la ocurrencia de dicho evento, debiendo actualizar la información disponible hasta el momento en que el incidente sea superado.
 
-### 8. Prácticas inadecuadas de los usuarios externos de la organización
+1.3 Información a la industria
 
-### 9. Otro (especificar)
+Sin perjuicio de la información que debe ser reportada a la Superintendencia, los incidentes asociados a Ciberseguridad deben ser compartidos por los bancos con el resto de la industria, a modo de proteger a los usuarios y al sistema en su conjunto. El principal objetivo de este mecanismo para compartir información es prevenir a los participantes de la industria bancaria sobre las amenazas de Ciberseguridad, con el fin de que las demás entidades puedan tomar los resguardos pertinentes, facilitando la detección, respuesta y recuperación, y así disminuir la probabilidad de que impactos negativos se propaguen en el sistema.
 
-g) Descripción del incidente: breve descripción del incidente que permita entender sus causas externas, especificando el tipo de amenazas, ataques físicos como robo o hurto de dispositivos, vandalismo, acceso físico de personal no autorizado, entre otros; interrupciones producto de huelgas, servicio de red, energía o falta de recursos, etcétera; actividades ilegales como robo de identidad, virus, certificados maliciosos, malware, denegación de servicio, ingeniería social, entre otros; desastres naturales o medioambientales; fallas o mal funcionamiento, accidentes, amenazas legales, secuestros, daños o pérdidas de activos de información tecnológicos, etcétera. Se sugiere utilizar las definiciones asociadas a estándares internacionales sobre la materia.
+Para ello, los bancos deberán mantener un sistema de alertas de incidentes, en el cual deberán reportar como mínimo, una breve descripción del tipo de amenaza, indicando los canales o servicios afectados y, cuando la información se encuentre disponible, la caracterización o identificación del software malicioso y de cualquier mecanismo de protección que se haya identificado. La información debe ser comunicada en el más breve plazo posible.
 
-h) Activos involucrados: especificación de los activos afectados, distinguiendo aquellos efectivamente vulnerados de los potencialmente en riesgo.
-
-i) Tipo de productos o servicios involucrados: detallar, cuando corresponda, aquellos productos o servicios prestados por la institución que fueron afectados por el incidente, ya sea en su disponibilidad o funcionamiento.
-
-j) Número de clientes directamente afectados (cuando corresponda).
-
-k) Identificación de los proveedores (cuando corresponda, esto es, cuando exista un proveedor externo involucrado en la vulnerabilidad detectada).
-
-l) Costos de incidentes: costos asociados al incidente, entendidos como el valor presente de las pérdidas reales, cuando corresponda.
-
-m) Costos de mitigación y reparación: costos de eventuales medidas de mitigación y reparación asociados al incidente, sea que este se haya o no materializado.
-
-n) Descripción de las acciones realizadas y áreas responsables de su implementación (cuando corresponda).
-
-o) Estado del incidente: indicar para cada evento si los planes de acción para su corrección definitiva se encuentran implementados.
+El sistema implementado además deberá considerar el acceso por parte de esta Superintendencia a la información compartida.
 
 ## Capítulo 20-9
 
