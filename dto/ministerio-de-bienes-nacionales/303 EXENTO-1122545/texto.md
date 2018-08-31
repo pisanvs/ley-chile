@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, A LA "FUNDACIÓN EDUCACIONAL PARA EL DESARROLLO INTEGRAL DE LA NIÑEZ" (INTEGRA)
+
+Mediante decreto exento N° E-303, de 9 de agosto de 2018, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita a la "Fundación Educacional para el Desarrollo Integral de la Niñez" (Fundación Integra), RUT N° 70.574.900-0, el inmueble fiscal correspondiente al Sitio N° 5 de la Manzana 16, ubicado en calle Pedro Montt N° 157 de la localidad de Balmaceda, comuna y provincia de Coyhaique, Región de Aysén del General Carlos Ibáñez del Campo; enrolado en el Servicio de Impuestos Internos con el N° 861-11; amparado por inscripción global a nombre del Fisco que rola a fs. 194 vta. N° 162, del Registro de Propiedad del Conservador de Bienes Raíces de Coyhaique, correspondiente al año 1960; singularizado en el Plano Nº 89.196, archivado bajo el N° 73 del Conservador de Bienes Raíces antes citado, correspondiente al año 1975; con una superficie total de 1.250 m2. La Concesión se otorga por un plazo de 8 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para dar continuidad a la administración y el funcionamiento del Jardín Infantil "Alitas Voladoras de Balmaceda". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefa de División Jurídica.
