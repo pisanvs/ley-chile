@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "KOMATSU REMAN CENTER CHILE S.A."
+
+Mediante decreto exento N° 247, de 14 de agosto de 2018, del Ministerio de Bienes Nacionales, se adjudicó en propuesta pública Concesión Onerosa contraproyecto, a "Komatsu Reman Center Chile S.A.", RUT N° 76.492.400-2, del inmueble fiscal signado como Lote 6, Extensión Norte, ubicado en el Sector La Negra, comuna, provincia y Región de Antofagasta; enrolado en el Servicio de Impuestos Internos con el N° 6744-6; amparado por inscripción global a fs. 3497 vta. N° 3775, del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, correspondiente al año 2014; singularizado en el Plano N° 02101-8001-C.U., archivado al final del Registro de Propiedad bajo el N° 145, correspondiente al año 2011, del Conservador de Bienes Raíces antes citado; de una superficie de 60.001,23 m2. La Concesión se otorga por un plazo de 40 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 21.600.
+
+La Concesión se otorga para ejecutar y desarrollar el "Proyecto Mínimo Comprometido a Ejecutar", que consiste en el traslado y ampliación de los Talleres de la empresa situada en Antofagasta, al sector industrial de La Negra. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefa de División Jurídica.
