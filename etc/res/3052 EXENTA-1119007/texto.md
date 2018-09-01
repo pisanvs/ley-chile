@@ -66,8 +66,6 @@ c) Se permitirá la postulación de personas en calidad de arrendatarios u ocupa
 
 6. El presupuesto disponible para este Llamado Especial para el desarrollo de proyectos en su modalidad del Título I, Mejoramiento del Entorno; Título II, Mejoramiento de la Vivienda y Título III Ampliación de la Vivienda, del Programa de Protección del Patrimonio Familiar regulado por el DS N° 255 (V. y U.), de 2006, en los casos de las viviendas afectadas por plagas de xilófagos en la regiones de Coquimbo, Biobío y Región Metropolitana será el siguiente:
 
-.
-
 Dicho presupuesto global incluye el monto del subsidio más el monto de la Asistencia Técnica respectiva.
 
 7. Se podrá otorgar un monto mayor de subsidio respecto a lo señalado en el artículo 6° del DS N° 255 (V. y U.), 2006, dada la necesidad de financiar las reparaciones más complejas que se pueden dar en estos casos. Este mayor monto de subsidio para la intervención de la vivienda podrá incrementarse si la cubierta está constituida por asbesto cemento y debe ser reemplazado, como también si existen personas con discapacidad. Los montos de subsidios para este llamado serán los indicados según la siguiente tabla:
@@ -114,13 +112,11 @@ iii. Este subsidio solo será aplicable si la presencia del insecto o plaga comp
 
 .
 
-Para los postulantes de la Región de Coquimbo se considerará también un puntaje adicional por factor de localización de acuerdo a la siguiente tabla:
-
-.
-
 11. Los Servicios de Asistencia técnica serán definidos de acuerdo a lo señalado en la resolución N° 533 (V. y U.), de 1997, que fija el procedimiento para la prestación de servicios de asistencia técnica y los montos de las áreas de asistencia técnica e inspección de obras.
 
 12. Exímese al presente llamado del cumplimiento de lo señalado en el inciso tercero del artículo 13, del DS N° 255 (V. y U.), de 2006, referido a su publicación en el Diario Oficial con 30 días de anterioridad a lo menos, a la fecha del inicio del proceso de selección.
+
+13. Para el pago de los subsidios de obras que requieran permiso de edificación, se permitirá pagar un 70% del monto del contrato al momento en que el contratista o constructor acredite haber terminado las obras, y que éstas hayan sido recibidas por Serviu y el PSAT, dejando el 30% restante para cuando acredite haber obtenido la recepción final de las obras. En los demás casos, se pagará según se indica en el DS Nº 255 (V. y U.), de 2006.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo Subrogante.
 
