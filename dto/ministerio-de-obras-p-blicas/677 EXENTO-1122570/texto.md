@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 677 de 9 de julio de 2018, se tuvo por desistida la expropiación del lote de terreno N° 9, ordenada por Decreto MOP N° 304 de 30 de abril de 2018, para la obra "Concesión Internacional Ruta 5, Tramo: Santiago - Talca, Sector L: Km. 179.500,00 al Km. 192.900,00, comuna y provincia de Curicó, Región del Maule". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° y 32° del Decreto Ley N° 2186, de 1978.
