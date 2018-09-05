@@ -956,11 +956,11 @@ a) Diseñar, proponer e implementar modelos de monitoreo y control sistémicos, 
 
 b) Definir, proponer y sistematizar indicadores claves de alerta para el Plan de Salud, incluyendo indicadores de calidad de las prestaciones.
 
-c) Validar los requisitos para la inscripción y celebración de convenios con prestadores de salud en la MLE.
+c) Derogada.
 
-d) Administrar y gestionar los convenios MLE suscritos con los prestadores.
+d) Derogada.
 
-e) Administrar base de prestadores del seguro.
+e) Derogada.
 
 f) Gestionar reclamos MLE de los beneficiarios.
 
