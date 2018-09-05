@@ -8,13 +8,15 @@ b) Director Regional de Pesca, de la XIV Región de Los Ríos, o quien lo subrog
 
 c) Directora Regional de Turismo de la XIV Región de Los Ríos, o quien la subrogue legalmente.
 
-d) Patricio Esparza G., representante del Gobierno Regional, Jefe de la División de Planificación y Desarrollo Regional, de la IX Región de la Araucanía.
+d) Secretario Regional Ministerial de Economía, Fomento y Turismo de la Región de la Araucanía, representante del Gobierno Regional, designado mediante oficio citado en Visto, o quien lo subrogue legalmente.
 
-e) Alejandro Koffmann O'Reily, representante de los clubes de pesca, comuna de Lican-Ray.
+e) Sr. Cristian Gonzalo Bustos Iturrieta, y su suplente Sr. Víctor Manuel Pincheira Valenzuela, representantes de los guías de pesca, comuna de Villarrica.
 
-f) Jacqueline Romero Inzunza, representante de los guías de pesca, comuna de Pitrufquén.
+f) Sr. Edmundo Alejandro Schuster Stange, y su suplente Sr. Víctor Ildefonso Muñoz Curihual, representantes de los clubes de pesca, comuna de Pucón.
 
-g) Carlos Aguayo Arias, representante de las universidades, comuna de Temuco.
+g) Sr. Juan Barile Sanhueza, y su suplente Sr. Ítalo Salgado Leu, representantes de las universidades regionales, comuna de Temuco.
+
+h) Sr. Sergio Hernán González Valenzuela, y su suplente Sr. Iván Cardemil Cornejo, representantes de las organizaciones sin fines de lucro, comuna de Freire.
 
 Sin perjuicio de lo anterior, podrán ser invitados a participar en el Consejo de Pesca Recreativa de la IX Región de la Araucanía, un representante de Carabineros de Chile, de la Armada de Chile, de las asociaciones municipales de la IX Región y de las cámaras de turismo que tengan su domicilio en la IX Región.
 
