@@ -1,0 +1,5 @@
+RECTIFICA NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL "PARQUE EÓLICO TOLPÁN SUR"
+
+El Servicio de Evaluación Ambiental informa que, con fecha 28 de agosto de 2018, se notificó a través de publicación en el Diario Oficial, sección I, CVE 1452396, el extracto de la RCA N° 285, de fecha 10 de agosto de 2018, que calificó favorablemente el proyecto "Parque Eólico Tolpán Sur", donde se indicó que para presentar recurso de reclamación se debía hacer ante el Comité de Ministros del Medio Ambiente, según lo dispuesto en los artículos 20 y 30 bis de la ley N° 19.300. Al respecto, rectifícase el extracto individualizado en el sentido de indicar que el recurso de reclamación se debe presentar ante el Director Ejecutivo del Servicio de Evaluación Ambiental, en un plazo de 30 días hábiles contados desde la presente notificación, según lo dispuesto en los artículos 20 y 30 bis de la ley N° 19.300.-
+
+Andrea Flies Lara, Directora Regional del Servicio de Evaluación Ambiental Región de la Araucanía.
