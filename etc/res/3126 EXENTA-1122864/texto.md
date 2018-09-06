@@ -1,0 +1,9 @@
+ESTABLECE NÓMINA DE ESPECIE OBJETIVO Y DE FAUNA ACOMPAÑANTE SOMETIDAS A LOS ARTÍCULOS 7°A, 7°B Y 7°C DE LA LEY GENERAL DE PESCA Y ACUICULTURA PARA UNIDADES DE PESQUERÍA DE MERLUZA DE COLA, AÑO 2018
+
+Por resolución exenta N° 3.126, de 30 de agosto de 2018, de esta Subsecretaría, establécese la nómina de especie objetivo y de fauna acompañante para la pesquería industrial de Merluza de cola, en sus unidades de pesquería, comprendidas en el área marítima de la Región de Valparaíso a la Región de Los Lagos y en el área marítima de la Región de Aysén del General Carlos Ibáñez del Campo a la Región de Magallanes y La Antártica Chilena, las que se encuentran sometidas a un Plan de Reducción del Descarte y de la Captura de Pesca Incidental autorizado mediante resolución exenta N° 3.067 de 2017, de conformidad con los artículos 7° A.-, 7° B.- y 7° C.- de la ley General de Pesca y Acuicultura, año 2018.
+
+Para los efectos antes señalados, la nómina se divide en cuatro categorías de especies: objetivo (Tabla 1); fauna acompañante sujeta a cuotas globales anuales de captura (CGA) (Tabla 2); fauna acompañante no administrada bajo cuotas globales anuales de captura (Tabla 3) y pesca incidental (Tabla 4), distinguiendo en cada tabla las especies que tienen prohibición de descarte, especies cuyo descarte está autorizado y especies cuya devolución es obligatoria, según se detalla en la resolución extractada.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 30 de agosto de 2018.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura (S).
