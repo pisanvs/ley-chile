@@ -1,0 +1,7 @@
+MODIFÍCASE LA RESOLUCIÓN N°4.322, DE 30.07.2014, QUE APROBÓ EL "PROCEDIMIENTO PARA LA AUTORIZACIÓN DE AUXILIARES DE AGENTES DE ADUANA, OTORGAMIENTO, USO Y CONTROL DEL CARNÉ ADUANERO, Y REGISTRO DE DICHOS AUXILIARES"
+
+Mediante resolución N°3.341, de 1 de agosto de 2018, del Director Nacional de Aduanas, se dispuso la modificación de la resolución N°4.322, de 30.07.2014, antes modificada por resolución N°150, de 06.01.2016, ambas del Director Nacional de Aduanas –sobre "Procedimiento para la autorización de auxiliares de Agentes de Aduana, otorgamiento, uso y control del Carné Aduanero, y Registro de dichos auxiliares"– estableciendo un plazo determinado para que los Agentes de Aduana den aviso formal a las respectivas Aduanas de jurisdicción o al Departamento de Fiscalización de Agentes Especiales de la Subdirección de Fiscalización, según corresponda, de la concurrencia de alguna de las causales de pérdida de la calidad de auxiliar de Agente de Aduana que contempla el numeral 1.5 letra a) de la resolución N°4.322/2014, que afectare a alguno de sus auxiliares.
+
+El texto íntegro de la resolución N°3.341, de 01.08.2018, se encuentra publicado en el sitio web del Servicio Nacional de Aduanas, www.aduana.cl.
+
+Valparaíso, 22 de agosto de 2018.- Claudio Sepúlveda Valenzuela, Director Nacional de Aduanas.
