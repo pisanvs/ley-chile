@@ -102,6 +102,8 @@ Los animales deben venir amparados por un certificado sanitario oficial, otorgad
 
 A su arribo al país, los animales serán sometidos a una cuarentena de internación por un periodo mínimo de 21 días en la Estación Cuarentenaria Pecuaria del Complejo SAG Lo Aguirre. En caso de ser necesario, la cuarentena podrá ser prorrogable por un periodo que el Servicio determine.
 
+7 Bis. Adicionalmente a lo dispuesto en la presente resolución, se deberá cumplir con los requisitos específicos que se establecen por el Servicio para las zonas declaradas oficialmente libres de enfermedades ovinas existentes en el territorio nacional.
+
 8. Deróganse las resoluciones Nº 1.483 de 1992, que fija exigencias sanitarias para la internación de caprinos a Chile; Nº 1.260 de 1996, que fija exigencias sanitarias para la internación a Chile de caprinos desde Estados Unidos de Norteamérica y Nº 1.995 de 1997, que fija exigencias sanitarias para la internación a Chile de ovinos de reproducción, todas de este Servicio.
 
 Anótese, comuníquese y publíquese.- Aníbal Ariztía Reyes, Director Nacional.
