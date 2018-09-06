@@ -22,7 +22,7 @@ Que, analizada la referida solicitud, el Servicio ha concluido que no existe inc
 
 Resuelvo:
 
-1° Modifícase la resolución 1.666, citada en Vistos, en el siguiente sentido: al cuerpo de agua Lago Riesco le corresponde el período de descanso comprendido entre el 15 de agosto al 15 de septiembre de cada año.
+1° Modifícase la resolución 1.666, citada en Vistos, en el siguiente sentido: al cuerpo de agua Lago Riesco le corresponde el período de descanso comprendido entre el 15 de septiembre al 15 de octubre de cada año.
 
 2° En lo no modificado por la presente resolución, permanece vigente lo dispuesto en la resolución exenta número 3.128, citada en Vistos.
 
