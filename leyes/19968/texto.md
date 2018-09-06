@@ -48,11 +48,11 @@ Creación de nuevos juzgados. Créanse juzgados de familia, con asiento en cada 
 
 a) Primera Región de Tarapacá:
 
-Iquique, con siete jueces, con competencia sobre las comunas de Iquique y Alto Hospicio.
+Iquique, con siete jueces, con competencia sobre la comuna de Iquique.
 
 b) Segunda Región de Antofagasta:
 
-Antofagasta, con diez jueces, con competencia sobre las comunas de Antofagasta, Mejillones y Sierra Gorda.
+Antofagasta, con diez jueces, con competencia sobre las comunas de Antofagasta y Sierra Gorda.
 
 Calama, con cinco jueces, con competencia sobre las comunas de la provincia de El Loa.
 
@@ -116,8 +116,6 @@ Parral, con dos jueces, con competencia sobre las comunas de Parral y Retiro.
 
 h) Octava Región del Bío-Bío:
 
-Chillán, con cuatro jueces, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo.
-
 Concepción, con diez jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz y Chiguayante.
 
 Talcahuano, con seis jueces, con competencia sobre las comunas de Talcahuano y Hualpén, y que tendrá, para todos los efectos legales, la categoría de juzgado asiento de Corte.
@@ -154,7 +152,7 @@ Coihaique, con dos jueces, con competencia sobre las comunas de Coihaique y Río
 
 l) Duodécima Región de Magallanes:
 
-Punta Arenas, con cuatro jueces, con competencia sobre las comunas de la provincia de Magallanes y Antártica Chilena.
+Punta Arenas, con cuatro jueces, con competencia sobre las comunas de la provincia de Magallanes.
 
 m) Región Metropolitana de Santiago:
 
@@ -187,6 +185,10 @@ Valdivia, con cinco jueces, con competencia sobre las comunas de Valdivia y Corr
 ñ) Decimoquinta Región de Arica y Parinacota:
 
 Arica, con siete jueces, con competencia sobre las comunas de las provincias de Arica y Parinacota.
+
+o) Decimosexta Región de Ñuble:
+
+Chillán, con cuatro jueces, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo.
 
 #### Artículo 4° bis
 

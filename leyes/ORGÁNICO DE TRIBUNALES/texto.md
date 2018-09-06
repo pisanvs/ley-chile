@@ -276,12 +276,6 @@ Parral, con un juez, con competencia sobre las comunas de Parral y Retiro.
 
 Octava Región del Bío Bío:
 
-San Carlos, con un juez, con competencia sobre las comunas de San Carlos, Ñiquén y San Fabián.
-
-Chillán, con cuatro jueces, con competencia sobre las comunas de San Nicolás, Chillán, Coihueco, Pinto y Chillán Viejo.
-
-Yungay, con un juez, con competencia sobre las comunas de El Carmen, Pemuco, Yungay y Tucapel.
-
 Tomé, con un juez, con competencia sobre la misma comuna.
 
 Talcahuano, con cuatro jueces, con competencia sobre las comunas de Talcahuano y Hualpén.
@@ -398,6 +392,14 @@ Decimocuarto Juzgado de Garantía de Santiago, con nueve jueces, con competencia
 
 Decimoquinto Juzgado de Garantía de Santiago, con siete jueces, con competencia sobre las comunas de San Ramón y La Pintana.
 
+Decimosexta Región de Ñuble:
+
+San Carlos, con un juez, con competencia sobre las comunas de San Carlos, Ñiquén y San Fabián.
+
+Chillán, con cuatro jueces, con competencia sobre las comunas de San Nicolás, Chillán, Coihueco, Pinto y Chillán Viejo.
+
+Yungay, con un juez, con competencia sobre las comunas de El Carmen, Pemuco, Yungay y Tucapel.
+
 ### Párrafo 2º
 
 De los tribunales de juicio oral en lo penal
@@ -500,8 +502,6 @@ Cauquenes, con cuatro jueces, con competencia sobre las comunas de Chanco, Cauqu
 
 Octava Región del Bío Bío:
 
-Chillán, con siete jueces, con competencia sobre las comunas de Cobquecura, Quirihue, Ninhue, San Carlos, Niquén, San Fabián, San Nicolás, Treguaco, Portezuelo, Chillán, Coihueco, Coelemu, Ranquil, Pinto, Quillón, Bulnes, San Ignacio, El Carmen, Pemuco, Yungay, Tucapel y Chillán Viejo.
-
 Concepción, con veintidós jueces, con competencia sobre las comunas de Tomé, Penco, Florida, Concepción, Coronel, Hualqui, Lota, Santa Juana, Talcahuano, San Pedro de la Paz, Hualpén y Chiguayante.
 
 Los Angeles, con seis jueces, con competencia sobre las comunas de San Rosendo, Yumbel, Cabrero, Laja, Los Angeles, Antuco, Quilleco, Nacimiento, Negrete, Mulchén, Santa Bárbara, Alto Biobío y Quilaco.
@@ -567,6 +567,10 @@ Quinto Tribunal de Juicio Oral en lo Penal de Santiago, con nueve jueces, con co
 Sexto Tribunal de Juicio Oral en lo Penal de Santiago, con veintisiete jueces, con competencia sobre las comunas de Lo Espejo, Pedro Aguirre Cerda, San Miguel, San Joaquín, La Cisterna, San Ramón, La Granja, El Bosque y La Pintana.
 
 Séptimo Tribunal de Juicio Oral en lo Penal de Santiago, con trece jueces, con competencia sobre las comunas de Macul, Peñalolén y La Florida.
+
+Decimosexta Región de Ñuble:
+
+Chillán, con seis jueces, con competencia sobre las comunas de Cobquecura, Quirihue, Ninhue, San Carlos, Ñiquén, San Fabián, San Nicolás, Treguaco, Portezuelo, Chillán, Coihueco, Coelemu, Ránquil, Pinto, Quillón, Bulnes, San Ignacio, El Carmen, Pemuco, Yungay, Tucapel y Chillán Viejo.
 
 #### Artículo 21
 
@@ -816,7 +820,7 @@ Un Juzgado con asiento en la comuna de Chañaral, con dos jueces, con competenci
 
 Un Juzgado con asiento en la comuna de Diego de Almagro, con competencia sobre la misma comuna;
 
-Un Juzgado con asiento en la comuna de Caldera, con competencia sobre la misma comuna;
+Un Juzgado con asiento en la comuna de Caldera, con dos jueces, con competencia sobre la misma comuna;
 
 Un Juzgado con asiento en la comuna de Freirina, con competencia sobre las comunas de Freirina y Huasco, y
 
@@ -948,23 +952,11 @@ En la Octava Región, del Bío Bío, existirán los siguientes juzgados de letra
 
 A.- JUZGADOS CIVILES:
 
-Dos juzgados de letras en lo civil, con asiento en la comuna de Chillán, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo;
-
 Tres juzgados de letras en lo civil con asiento en la comuna de Concepción, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz y Chiguayante, y
 
 Dos juzgados de letras en lo civil con asiento en la comuna de Talcahuano, con competencia sobre las comunas de Talcahuano y Hualpén, que tendrán la categoría de juzgados de asiento de Corte para todos los efectos legales.
 
 B.- JUZGADOS CON COMPETENCIA COMUN:
-
-Un juzgado con asiento en la comuna de San Carlos, con dos jueces, con competencia sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás;
-
-Un juzgado con asiento en la comuna de Yungay, con competencia sobre las comunas de Yungay, Pemuco, El Carmen y Tucapel;
-
-Un juzgado con asiento en la comuna de Bulnes, con dos jueces, con competencia sobre las comunas de Bulnes, Quillón y San Ignacio;
-
-Un juzgado con asiento en la comuna de Coelemu, con competencia sobre las comunas de Coelemu y Ranquil;
-
-Un juzgado con asiento en la comuna de Quirihue, con competencia sobre las comunas de Quirihue, Ninhue, Portezuelo, Treguaco y Cobquecura;
 
 Dos juzgados con asiento en la comuna de Los Angeles, con competencia sobre las comunas de Los Angeles, Quilleco y Antuco;
 
@@ -1012,7 +1004,7 @@ Un juzgado con asiento en la comuna de Angol, con competencia sobre las comunas 
 
 Un juzgado con asiento en la comuna de Purén, con competencia sobre las comunas de Purén y Los Sauces;
 
-Un juzgado con asiento en la comuna de Collipulli, con competencia sobre las comunas de Collipulli y Ercilla;
+Un juzgado con asiento en la comuna de Collipulli, con dos jueces, con competencia sobre las comunas de Collipulli y Ercilla;
 
 Un juzgado con asiento en la comuna de Traiguén, con competencia sobre las comunas de Traiguén y Lumaco;
 
@@ -1034,7 +1026,7 @@ Un juzgado con asiento en la comuna de Pucón, con dos jueces, con competencia s
 
 Un juzgado con asiento en la comuna de Lautaro, con competencia sobre las comunas de lautaro, Perquenco y Galvarino, y
 
-Un juzgado con asiento en la comuna de Carahue, con competencia sobre las comunas de Carahue y Saavedra.
+Un juzgado con asiento en la comuna de Carahue, con dos jueces, con competencia sobre las comunas de Carahue y Saavedra.
 
 #### Artículo 37
 
@@ -1127,6 +1119,26 @@ En la Decimoquinta Región, de Arica y Parinacota, existirán los siguientes juz
 A.- JUZGADOS CIVILES:
 
 Tres juzgados con asiento en la comuna de Arica, con competencia sobre las comunas de las provincias de Arica y Parinacota.
+
+#### Artículo 39 quáter
+
+En la Decimosexta Región de Ñuble existirán los siguientes juzgados de letras, que tendrán competencia en los territorios que se indican:
+
+A.- JUZGADOS CIVILES:
+
+Dos juzgados de letras en lo civil, con asiento en la comuna de Chillán, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo.
+
+B.- JUZGADOS CON COMPETENCIA COMÚN:
+
+Un juzgado con asiento en la comuna de San Carlos, con dos jueces, con competencia sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás.
+
+Un juzgado con asiento en la comuna de Yungay, con competencia sobre las comunas de Yungay, Pemuco, El Carmen y Tucapel.
+
+Un juzgado con asiento en la comuna de Bulnes, con competencia sobre las comunas de Bulnes, Quillón y San Ignacio.
+
+Un juzgado con asiento en la comuna de Coelemu, con competencia sobre las comunas de Coelemu y Ránquil.
+
+Un juzgado con asiento en la comuna de Quirihue, con competencia sobre las comunas de Quirihue, Ninhue, Portezuelo, Treguaco y Cobquecura.
 
 #### Artículo 40
 
@@ -1256,7 +1268,7 @@ Un Ministro de la Corte de Apelaciones respectiva, según el turno que ella fije
 
 1°) Derogado.
 
-2°) De las causas civiles en que sean parte o tengan interés el Presidente de la República, los ex Presidentes de la República, los Ministros de Estado, Senadores, Diputados, miembros de los Tribunales Superiores de Justicia, Contralor General de la República, Comandantes en Jefe de las Fuerzas Armadas, General Director de Carabineros de Chile, Director General de la Policía de Investigaciones de Chile, los Intendentes y Gobernadores, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
+2°) De las causas civiles en que sean parte o tengan interés el Presidente de la República, los ex Presidentes de la República, los Ministros de Estado, Senadores, Diputados, miembros de los Tribunales Superiores de Justicia, Contralor General de la República, Comandantes en Jefe de las Fuerzas Armadas, General Director de Carabineros de Chile, Director General de la Policía de Investigaciones de Chile, los Delegados Presidenciales Regionales, Delegados Presidenciales Provinciales, Gobernadores Regionales, los Agentes Diplomáticos chilenos, los Embajadores y los Ministros Diplomáticos acreditados con el Gobierno de la República o en tránsito por su territorio, los Arzobispos, los Obispos, los Vicarios Generales, los Provisores y los Vicarios Capitulares.
 
 La circunstancia de ser accionista de sociedades anónimas las personas designadas en este número, no se considerará como una causa suficiente para que un Ministro de la Corte de Apelaciones conozca en primera instancia de los juicios en que aquéllas tengan parte, debiendo éstos sujetarse en su conocimiento a las reglas generales.
 
@@ -1334,13 +1346,13 @@ i) El de la Corte de Rancagua comprenderá la Sexta Región, del libertador Gene
 
 j) El de la Corte de Talca comprenderá el de la Séptima Región, del Maule;
 
-k) El de la Corte de Chillán comprenderá la provincia de Ñuble y la comuna de Tucapel, de la Provincia del Biobío de la Octava Región del Biobío;
+k) El de la Corte de Chillán comprenderá la Decimosexta Región, de Ñuble y la comuna de Tucapel, de la Provincia del Biobío de la Octava Región del Biobío;
 
 l) El de la Corte de Concepción comprenderá las provincias de Concepción, Arauco y Biobío, de la Región del Biobío, con excepción de la comuna de Tucapel;
 
 m) El de la Corte de Temuco comprenderá la Novena Región, de la Araucanía;
 
-n) El de la Corte de Valdivia comprenderá las provincias de Valdivia y Ranco, de la Décimo Cuarta Región de Los Ríos, y la provincia de Osorno, de la Décima Región de Los Lagos;
+n) El de la Corte de Valdivia comprenderá la Decimocuarta Región de Los Ríos, y la provincia de Osorno, de la Décima Región de Los Lagos;
 
 o) El de la Corte de Puerto Montt comprenderá las provincias de Llanquihue, Chiloé y Palena, de la Décima Región de Los Lagos;
 
@@ -2442,7 +2454,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 7.430 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 5.600 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 7.600 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 5.730 pesos.
 
 #### Artículo 199
 
@@ -2912,7 +2924,7 @@ Esta incapacidad no comprende a los condenados por delito contra la seguridad in
 
 #### Artículo 257
 
-Los que hubieren desempeñado los cargos de Presidente de la República, Ministros de Estado, Intendentes, Gobernadores o Secretarios de Intendencia, no podrán ser nombrados miembros de los Tribunales Superiores de Justicia, jueces letrados, fiscales judiciales, ni relatores, ya sea en propiedad, ya interinamente o como suplentes, sino un año después de haber cesado en el desempeño de sus funciones administrativas.
+Los que hubieren desempeñado los cargos de Presidente de la República, Ministros de Estado, Delegados Presidenciales Regionales, Delegados Presidenciales Provinciales o Gobernadores Regionales, no podrán ser nombrados miembros de los Tribunales Superiores de Justicia, jueces letrados, fiscales judiciales, ni relatores, ya sea en propiedad, ya interinamente o como suplentes, sino un año después de haber cesado en el desempeño de sus funciones administrativas.
 
 #### Artículo 258
 
@@ -4802,7 +4814,7 @@ El interrogado responderá: "Si juro", y el magistrado que le tome el juramento 
 
 Los Fiscales judiciales, Relatores y Secretarios de Corte, prestarán juramento ante el Presidente del Tribunal del que formen parte.
 
-Los otros funcionarios auxiliares lo harán ante el Juez respectivo o ante el juez presidente si el tribunal estuviere compuesto por más de un juez. Si el Tribunal estuviere acéfalo lo prestarán ante el Intendente o Gobernador. La autoridad administrativa que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que le habría correspondido intervenir en la diligencia, remitiéndole lo obrado.
+Los otros funcionarios auxiliares lo harán ante el Juez respectivo o ante el juez presidente si el tribunal estuviere compuesto por más de un juez. Si el Tribunal estuviere acéfalo lo prestarán ante el delegado presidencial regional o delegado presidencial provincial. La autoridad administrativa que haya recibido el juramento dará lo más pronto posible el respectivo aviso a la que le habría correspondido intervenir en la diligencia, remitiéndole lo obrado.
 
 #### Artículo 472
 
