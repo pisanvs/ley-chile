@@ -238,6 +238,14 @@ Jurisdicción : Valparaíso, Juan Fernández, Isla de Pascua
 
 Mod. atención : Permanente
 
+Inspección Provincial del Trabajo de Rapa Nui
+
+Comuna : Isla de Pascua.
+
+Jurisdicción : Sector Insular de la Región de Valparaíso.
+
+Mod. atención : Permanente.
+
 Inspección Provincial del Trabajo de San Felipe
 
 Ciudad : San Felipe
@@ -1153,6 +1161,40 @@ Inspección Comunal del Trabajo de Putre
 Ciudad : Putre
 
 Jurisdicción : Putre, General Lagos
+
+Mod. atención : Intermitente.
+
+XVI REGIÓN DE ÑUBLE
+
+Inspección Provincial del Trabajo de Ñuble
+
+Ciudad : Chillán.
+
+Jurisdicción : Chillán, Coihueco, Pinto, San Ignacio,
+
+El Carmen, Pemuco,Yungay, Bulnes, Quillón,
+
+Ránquil, Portezuelo, Treguaco, Cobquecura,
+
+Quirihue, Ninhue, Chillán Viejo y San
+
+Nicolás.
+
+Mod. atención : Permanente.
+
+Inspección Comunal del Trabajo de San Carlos
+
+Ciudad : San Carlos.
+
+Jurisdicción : San Carlos, Ñiquén, San Fabián.
+
+Mod. atención : Permanente.
+
+Inspección Comunal del Trabajo de Coelemu
+
+Ciudad : Coelemu.
+
+Jurisdicción : Coelemu.
 
 Mod. atención : Intermitente.
 
