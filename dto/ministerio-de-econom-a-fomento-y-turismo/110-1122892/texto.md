@@ -1,0 +1,13 @@
+OFICIALIZA NOMINACIÓN DE LOS MIEMBROS TITULARES Y SUPLENTES DEL CONSEJO ZONAL DE PESCA DE LAS REGIONES DE LA ARAUCANÍA Y LOS RÍOS QUE INDICA. ABRE PERÍODO EXTRAORDINARIO DE NOMINACIONES A CARGOS DECLARADOS VACANTES
+
+Por decreto supremo N°110, de 27 de junio de 2018, de este Ministerio, oficialízase como integrantes miembros titulares y suplentes del Consejo Zonal de Pesca, de las regiones de La Araucanía y de Los Ríos, el Director Zonal de Pesca con sede en la comuna de Valdivia, Región de Los Ríos o su subrogante, quien lo presidirá; el Director Regional de Pesca de la Región de Los Ríos o su subrogante; el Gobernador Marítimo de Valdivia o su subrogante; el Secretario Regional Ministerial de Planificación y Cooperación de la Región de La Araucanía o su subrogante y el Secretario Regional Ministerial de Economía, Fomento y Turismo de la Región de Los Ríos o su subrogante.
+
+En representación de las organizaciones gremiales del sector empresarial, cargo industriales de plantas procesadoras de productos pesqueros: Carlos Jainaga Mallagaray, como titular y Sergio Reyes Flores, como suplente; en representación de las organizaciones gremiales del sector pesquero empresarial, cargo armadores industriales de pesca demersal: Freddy Fernández Herrera, como titular, y Miguel Perret Paquien, como suplente; en representación de las organizaciones gremiales del sector empresarial, cargo armadores industriales de pesca pelágica: Roberto Contreras Rodríguez, como titular y Patricio Herrera Ugarte, como suplente; en representación de las organizaciones gremiales del sector laboral, cargo trabajadores de la industria: Víctor Lobos Leal, como titular, y Domingo Benavides Henríquez, como suplente.
+
+Declárense vacantes los siguientes cargos: en representación de las organizaciones gremiales del sector laboral: cargo oficiales de naves especiales y cargo tripulantes de naves especiales; en representación de las organizaciones gremiales del sector artesanal, cargo armadores artesanales, cargo pescadores artesanales y cargo mariscadores y algueros.
+
+Para efectos de proceder a la nominación de los cargos declarados vacantes, declárese abierto un periodo extraordinario de nominación de 60 días hábiles, a contar de la fecha de publicación del presente decreto.
+
+El texto íntegro del presente decreto se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 27 de junio de 2018.- Eduardo Riquelme Portilla, Subsecretario de Pesca y Acuicultura.
