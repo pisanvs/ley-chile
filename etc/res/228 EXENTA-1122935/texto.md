@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 228, de fecha 22 de agosto de 2018, de esta Secretaría Regional, se aprobó el Gabinete Técnico creado e instalado en la I. Municipalidad de Cisnes, de la provincia de Aysén. Y se autorizó a la Ilustre Municipalidad de Cisnes de la provincia de Aysén, para otorgar Licencias de Conductor de acuerdo a lo señalado en el decreto con fuerza de ley Nº 1, de 29 de octubre de 2007, que fija texto refundido, coordinado y sistematizado de la Ley de Tránsito Nº 18.290 y sus reglamentos. En todo caso, la I. Municipalidad precedentemente individualizada deberá suspender el otorgamiento de Licencias de Conductor, en el evento de faltarle alguno de los requisitos que hicieron posible la presente autorización.-
+
+Fabián Rojas Muñoz, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Aysén.
