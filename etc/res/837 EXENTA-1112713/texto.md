@@ -22,7 +22,7 @@ Resuelvo:
 
 1. Establécese, como medida de gestión de tránsito, en el costado derecho de las vías que más adelante se indican, una pista de uso exclusivo para buses y taxis en cualquiera de sus modalidades, de acuerdo a los tramos y condiciones que a continuación se indican:
 
-.
+El horario de funcionamiento de las pistas de uso exclusivo será el siguiente:
 
 2. En las pistas de uso exclusivo antes mencionadas, podrán circular los vehículos de emergencia, policiales, del Programa Nacional de Fiscalización de la Subsecretaría de Transportes, municipales y aquellos destinados a cumplir funciones de seguridad ciudadana, debidamente identificados como tales. Además, los vehículos que se aproximen a un cruce para virar a la derecha, podrán ingresar a la pista de uso exclusivo por la demarcación correspondiente a dicho cruce, o bien, desde la demarcación del cruce inmediatamente anterior.
 
@@ -37,5 +37,7 @@ ii) La salida desde la pista exclusiva podrá efectuarse en cualquiera de las de
 5. Carabineros de Chile, Inspectores Municipales e Inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en el DFL N° 1, de 2007, citado en el Vistos.
 
 6. La presente resolución entrará en vigencia a contar de su publicación en el Diario Oficial.
+
+7. En el caso de las pistas sólo bus, los taxis en cualquiera de sus modalidades, podrán hacer uso e ingresar a ellas sólo si se encuentran transportando algún pasajero.
 
 Anótese y publíquese.- Juan Carlos Cofré Reyes, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Tarapacá.
