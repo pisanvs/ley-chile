@@ -48,7 +48,7 @@ Facultad para una adecuada fiscalización: Para el cumplimiento de las funciones
 
 #### Artículo cuarto
 
-Manual Operativo en materia de Seguridad Privada: Carabineros de Chile, dentro del plazo de seis meses contado desde la publicación en el Diario Oficial del decreto supremo que aprueba este Reglamento, dictará un Manual Operativo en materia de Seguridad Privada, que deberá ser publicado en el Diario Oficial. El contenido de este Manual Operativo deberá revisarse con una periodicidad mínima de dos años, debiendo publicarse en el Diario Oficial cada vez que sea modificado.
+Manual Operativo en materia de Seguridad Privada: Carabineros de Chile, dentro del plazo de doce meses contado desde la publicación en el Diario Oficial del decreto supremo que aprueba este Reglamento, dictará un Manual Operativo en materia de Seguridad Privada, que deberá ser aprobado por Decreto Exento del Ministerio del Interior y Seguridad Pública y publicado en el Diario Oficial. El contenido de este Manual Operativo deberá revisarse con una periodicidad mínima de dos años, debiendo publicarse en el Diario Oficial cada vez que sea modificado.
 
 ## Título I
 
@@ -398,7 +398,7 @@ DIPOSICIONES TRANSITORIAS
 
 #### Artículo primero
 
-transitorio: Lo dispuesto en el artículo primero de este decreto, comenzará a regir en un plazo de seis meses, contado desde su publicación en el Diario Oficial.
+transitorio: Lo dispuesto en el artículo primero de este decreto, comenzará a regir luego del transcurso de un plazo de doce meses, contado desde su publicación en el Diario Oficial.
 
 #### Artículo segundo
 
@@ -407,6 +407,10 @@ transitorio: Los requisitos que establecen las letras a) y b) del nuevo artícul
 #### Artículo tercero
 
 transitorio: El requisito que establece el numeral 3 del artículo quinto del Título I. De las Personas Naturales que Prestan Servicios en Materia de Seguridad Privada del Reglamento que aprueba este decreto, no será exigible a aquellas personas naturales que prestan servicios en materia de seguridad privada y que a la época de su publicación, se encuentran autorizados para ejercer sus funciones.
+
+#### Artículo cuarto
+
+transitorio: Las modificaciones dispuestas en los artículos sexto y octavo del presente decreto, sólo comenzarán a regir una vez que haya entrado en vigencia el cuerpo reglamentario contenido en el artículo primero de este decreto
 
 Anótese, tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mahmud Aleuy Peña y Lillo, Ministro del Interior y Seguridad Pública (S).- José Antonio Gómez Urrutia, Ministro de Defensa Nacional.
 
