@@ -24,6 +24,8 @@ Resuelvo:
 
 1. Prohíbase la circulación de camiones de más de 2 ejes cuyo peso bruto total sea superior a los 8.000 kilos, por Avenida Costanera Arturo Prat entre acceso Puerto de Iquique hasta la Rotonda Eppido Lucano (ex Rotonda Chipana).
 
+Quedan excluidos de esta prohibición los camiones recolectores de desechos domiciliarios, camiones de tipo betoneros y camiones distribuidores de combustibles.
+
 2. Los vehículos señalados en el Resuelvo Nº 1, deberán circular por Avenida La Tirana (actual) o por la Costanera Avenida Arturo Prat hasta Avenida Ramón Pérez Opazo, luego deben dirigirse hacia el oriente y tienen opciones de circular por Avenida Salvador Allende Gossens, calle Rancagua, o calle Cerro Dragón.
 
 3. Derógase la resolución exenta Nº 16, del 13 de enero de 2017, de esta Secretaría RegionalMinisterial de Transportes y Telecomunicaciones de Tarapacá.
