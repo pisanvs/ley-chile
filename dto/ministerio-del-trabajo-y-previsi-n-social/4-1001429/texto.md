@@ -52,7 +52,15 @@ Los convenios o contratos señalados en el presente numeral precisarán la descr
 
 La resolución que recaiga en los puntos 2, 3 y 4 antes mencionados, requerirá visación previa del Subsecretario del Trabajo.
 
-6.- Independiente de los mecanismos institucionales de control propios del SENCE, habrá un Comité de Coordinación presidido por el Subsecretario del Trabajo, que será integrado, además, por un representante de la Unidad de Intermediación Laboral de la Subsecretaría del Trabajo y un representante de la Unidad de Empleo del SENCE. Este comité podrá conocer del desarrollo del Programa, requerir informes de avance y proponer mejoras en la ejecución y distribución de los beneficios materia de este reglamento.
+6.- Independiente de los mecanismos institucionales de control propios del Servicio Nacional de Capacitación y Empleo (Sence), habrá un Comité de Coordinación de Intermediación Laboral, integrado por el Subsecretario del Trabajo o por el funcionario público a quien éste designe, el que lo presidirá; por un funcionario público representante del Sence y por un funcionario público representante de la Oficina de Estudios de la Subsecretaría del Trabajo.
+
+Asimismo, el Subsecretario del Trabajo, podrá invitar a participar del Comité a representantes de otros organismos públicos; municipales o de entidades del sector privado.
+
+Este Comité tendrá por finalidad ser una instancia de coordinación en materia de intermediación laboral.
+
+En el cumplimiento de esta función, deberá elaborar un informe semestral respecto de la implementación y ejecución del Programa de Intermediación Laboral, incluyendo sugerencias de estrategias y medidas tendientes a incentivar la creación de empleos y el aumento de la empleabilidad en los sectores cubiertos por el Programa.
+
+Adicionalmente, este Comité podrá solicitar antecedentes a cualquiera de los organismos públicos, municipales o entidades privadas, que se vinculen o tengan relación con el Programa de Intermediación Laboral a que se refiere el presente decreto. El Comité deberá constituirse a más tardar dentro del segundo semestre del año 2018 y deberá reunirse en sesión ordinaria al menos dos veces al año, sin perjuicio de que su Presidente pueda convocar a sus integrantes a sesiones extraordinarias con al menos 24 horas de anticipación.
 
 7.- Existirá una Unidad de Intermediación Laboral en la Subsecretaría del Trabajo, la cual tendrá como tareas, entre otras, actuar como contraparte técnica del SENCE para la ejecución del programa y velar por la correcta aplicación de lo establecido en el presente decreto.
 
