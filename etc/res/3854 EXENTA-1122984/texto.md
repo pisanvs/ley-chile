@@ -1,0 +1,9 @@
+PROCEDIMIENTO PARA LA PRESENTACIÓN, APROBACIÓN, REGISTRO, CONTROL, COBRO, RENOVACIÓN Y DEVOLUCIÓN DE LA GARANTÍA NECESARIA PARA EFECTUAR GESTIONES, TRÁMITES Y DEMÁS OPERACIONES ADUANERAS, CON OCASIÓN DEL INGRESO O SALIDA DE MERCANCÍAS DESDE O HACIA LAS ZONAS FRANCAS
+
+Mediante resolución exenta N° 3.854, de 30 de agosto de 2018, del Director Nacional de Aduanas, se estableció el procedimiento para la presentación, aprobación, registro, control, cobro, renovación y devolución de la garantía necesaria para efectuar gestiones, trámites y demás operaciones aduaneras, con ocasión del ingreso o salida de mercancías desde o hacia las zonas francas; y se modificó la resolución N° 74, de 1984, del Director Nacional de Aduanas, que aprueba el Manual de Zonas Francas.
+
+La señalada resolución se dicta de conformidad con lo dispuesto en el artículo 9 bis del decreto con fuerza de ley N° 2, de 2001, del Ministerio de Hacienda, que aprueba el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 341, de 1977, del Ministerio de Hacienda, sobre Zonas Francas; y, el decreto N° 31, de 2018, del Ministerio de Hacienda, que fija la forma, plazos, exigencias y condiciones de las cauciones que deberán constituir, previo a su entrada en operación, las personas y por las actividades a que se refiere el artículo 9 bis, inciso primero, del decreto con fuerza de ley N° 2, de 2001, del Ministerio de Hacienda.
+
+El texto íntegro de esta resolución se encuentra publicado en el sitio web del Servicio Nacional de Aduanas (www.aduana.cl).
+
+Valparaíso, 30 de agosto de 2018.- Claudio Sepúlveda Valenzuela, Director Nacional de Aduanas.
