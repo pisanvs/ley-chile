@@ -32,7 +32,7 @@ Resuelvo:
 
 2. La prohibición señalada comenzará a regir desde la publicación en el Diario Oficial de la presente resolución hasta el 31 de diciembre de 2018 para los servicios rurales y hasta el 31 de marzo de 2019 para los servicios urbanos, y regirá de lunes a viernes, excepto festivos, desde las 7:00 am hasta las 20:00 horas, contemplando todas las vías públicas de la provincia de San Antonio.
 
-3. Exceptúense a los vehículos que circulen fuera de servicio, debiendo exhibir un letrero que así lo indique, y los vehículos que presten servicios urbanos dentro de las comunas de Algarrobo y El Quisco.
+3. Exceptúese a los vehículos que circulen fuera de servicio, debiendo exhibir un letrero que así lo indique y los vehículos que presten servicios urbanos dentro de las comunas de Algarrobo y El Quisco; además de los vehículos que circulen entre la Región del Libertador Bernardo O'Higgins y las comunas de Santo Domingo y San Antonio.
 
 4. Carabineros de Chile, inspectores fiscales y municipales velarán por el cumplimiento de la restricción de circulación impuesta a la locomoción colectiva menor, mediante la presente resolución.
 
