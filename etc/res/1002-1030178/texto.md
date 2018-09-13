@@ -116,6 +116,8 @@ Asimismo, instruir y resolver los procedimientos sancionatorios que disponga el 
 
 o) Suscribir convenios con municipalidades que se encuentren dentro de su cobertura, para la revisión previa de juridicidad de los actos que dicten, conforme a las orientaciones que imparta el Contralor General y a lo que se pacte en dichos convenios; y aprobar mediante resolución tales convenios.
 
+p) Resolver las solicitudes de establecimiento de sistemas excepcionales de distribución de jornadas de trabajo y descansos, con sujeción al artículo 38, inciso séptimo, del Código del Trabajo.
+
 ### Párrafo 2º
 
 Funciones de Control Externo
