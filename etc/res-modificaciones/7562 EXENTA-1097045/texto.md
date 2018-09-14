@@ -42,6 +42,8 @@ Resolución:
 
 > **Nota.** El número 7.3 y 7.4 del numeral 7 de la Resolución 14454 Exenta, Vivienda, publicada el 27.12.2017, modifican la tabla inserta en el resuelvo 2 y 3 de la presente Resolución de la manera que la citada norma indica.
 
+> **Nota.** NOTA 1 El numeral 12.2 del número 12 de la Resolución 6745 Exenta, Vivienda, publicada el 14.09.2018, modifica la presente norma en el sentido de reemplazar en la tabla inserta en su resuelvo 2 las filas denominadas "2° quincena octubre" y "TOTAL", por las que la citada norma indica.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.
@@ -50,4 +52,6 @@ Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretari
 
 .
 
-> **Nota.** El número 7.1 del numeral 7 de la Resolución 14454 Exenta, Vivienda, publicada el 27.12.2017, modifican la presente norma, en el sentido de eliminar de la nómina de beneficiados correspondiente a la "Primera Quincena a Octubre Banco de Materiales con Servicio de Construcción", y dispone reemplazar la fila total por aquella que la citada norma indica. Asimismo, el numeral 7.2 disponde eliminar de la nómina de beneficiados correspondiente a la "Segunda Quincena a Octubre Banco de Materiales con Servicio de Construcción", las filas que la citada norma indica.
+> **Nota.** El número 7.1 del numeral 7 de la Resolución 14454 Exenta, Vivienda, publicada el 27.12.2017, modifica la presente norma, en el sentido de eliminar de la nómina de beneficiados correspondiente a la "Primera Quincena a Octubre Banco de Materiales con Servicio de Construcción", y dispone reemplazar la fila total por aquella que la citada norma indica. Asimismo, el numeral 7.2 dispone eliminar de la nómina de beneficiados correspondiente a la "Segunda Quincena a Octubre Banco de Materiales con Servicio de Construcción", las filas que la citada norma indica.
+
+> **Nota.** NOTA 1 El numeral 12.1 del número 12 de la Resolución 6745 Exenta, Vivienda, publicada el 14.09.2018, modifica la presente norma en el sentido de eliminar de la nómina de beneficiados aprobada por esta resolución, las filas que se detallan en la citada norma.

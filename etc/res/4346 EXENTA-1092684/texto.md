@@ -30,15 +30,17 @@ Resolución:
 
 REGIÓN INDIVIDUAL
 
-Coquimbo 209
+Coquimbo 208
 
 2.- Fíjese el monto de recursos comprometidos para el financiamiento de subsidios de reparación del Programa de Protección al Patrimonio Familiar, Título II, para la atención de los postulantes seleccionados a que se refiere el Resuelvo 1, según la siguiente tabla:
 
 REGIÓN SUBSIDIOS TÍTULO II $
 
-Coquimbo 261.250.000
+Coquimbo 260.000.000
 
 3.- Comprométanse los recursos disponibles por región, para la selección correspondiente al 30 de junio de 2016, del llamado extraordinario para damnificados ya citado, de conformidad a los montos asignados y los saldos disponibles, según la distribución señalada en el siguiente cuadro:
+
+.
 
 4.- Para los efectos de rebajar los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la U.F correspondiente al 30 de enero de 2016 ($25.629,09), según lo establecido en el Resolutivo 15 de la resolución citada en el Visto g). En consecuencia, se debe imputar a la resolución exenta Nº 333 (V. y U.), de 2016, un total de 10.193,2 U.F., los que corresponden al subsidio directo.
 

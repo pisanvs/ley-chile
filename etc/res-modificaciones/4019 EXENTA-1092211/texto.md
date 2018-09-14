@@ -54,19 +54,15 @@ Marzo 39
 
 Abril 82
 
-Mayo 130
+Mayo 129
 
-TOTAL 337
+TOTAL 336
 
 3. Apruébase el monto de los recursos asignados en la selección del mes de mayo y modifícase el monto asignado en el mes de febrero, del llamado dispuesto por la resolución exenta N° 360 (V. y U.) de 2016, conforme al cuadro siguiente:
 
 .
 
 4. Publíquese en un periódico de circulación regional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al Resuelvo N° 2 de esta resolución.
-
-> **Nota.** El 1.3 del numeral 1° de la Resolución 12854 Exenta, Vivienda, publicada el 08.11.2017, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el resuelvo 3, en la columna "U.F. selección Mayo" el guarismo "25.372" por "25.032" y en la columna "Saldo UF", el guarismo "938.453" por "938.793".
-
-> **Nota.** NOTA 1 El 3.3 del numeral 3° de la Resolución 14454 Exenta, Vivienda, publicada el 27.12.2017, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el resuelvo 3 en la columna "UF Selección Mayo", el guarismo "25.032" por "24.851" y en la columna "Saldo UF", el guarismo "938.793" por "938.974".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 

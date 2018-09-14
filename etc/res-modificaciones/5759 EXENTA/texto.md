@@ -48,7 +48,7 @@ Resolución:
 
 REGIÓN Nº FAMILIAS
 
-Coquimbo 864
+Coquimbo 844
 
 3. Fíjese el monto de recursos comprometidos para el financiamiento de subsidios de reparación del Programa de Protección al Patrimonio Familiar, Título II, para la atención de los postulantes seleccionados a que se refiere el Resuelvo 2, según la siguiente tabla:
 
@@ -56,9 +56,7 @@ REGIÓN SUBSIDIOS TÍTULO II
 
 UF
 
-Coquimbo 132.967
-
-> **Nota.** El numeral 5.3 del número 5 de la Resolución 14454 Exenta, Vivienda, publicada el 27.12.2017, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el resuelvo 3, el guarismo "129.920" por "125.280", sin embargo dicha actualización no se ha podido realizar por que la Resolución 7174 Exenta, Vivienda, publicada el 14.11.2017, que modifico el guarismo 129.920 por el guarismo 132.967.
+Coquimbo 130.067
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 

@@ -26,6 +26,10 @@ Resolución:
 
 3. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al Resuelvo N° 1 de esta resolución.
 
+.
+
+> **Nota.** El numeral 16.2 de la Resolución 6745 Exenta, Vivienda, publicada el 14.09.2018, modifica el cuadro inserto en el resuelvo 2 de la presente norma en el sentido de reemplazar en las filas denominadas "Agosto" el guarismo 188 por 186, y en la fila "Total" el guarismo 539 por 537.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.

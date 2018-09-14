@@ -74,15 +74,13 @@ Complementaria Agosto 896
 
 1° quincena septiembre 54
 
-2° quincena septiembre 32
+2° quincena septiembre 52
 
-TOTAL 1.162
+TOTAL 1.182
 
 5.- Fíjase el monto de recursos comprometidos para el financiamiento de subsidios de reparación del Programa de Protección al Patrimonio Familiar, Título II, para la atención de los postulantes seleccionados a que se refiere el resuelvo 1, según la siguiente tabla:
 
 .
-
-> **Nota.** El 6.3 del número 6 de la Resolución 14454 Exenta, Vivienda, publicada el 27.12.2017, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el resuelvo 5, en la columna "U.F. Selección 2° quincena Septiembre", el guarismo "8.022" por "4.710" y en la columna "Total", el guarismo "182.342" por "179.030".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 

@@ -34,7 +34,11 @@ Resolución:
 
 4.- Fíjase el monto de recursos comprometidos para el financiamiento de subsidios de reparación del Programa de Protección al Patrimonio Familiar, Titulo II, para la atención de los postulantes seleccionados a que se refiere el resuelvo 1, y comprométanse los recursos disponibles por región, para la selección correspondiente al 30 de octubre de 2015, del llamado extraordinario para damnificados ya citado, de conformidad a los montos y a los saldos disponibles, según la distribución señalada en el siguiente cuadro:
 
+.
+
 5.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados, conforme al número 1 de esta resolución, la que deberá contener a lo menos, la comuna y el nombre de cada postulante con su respectiva Cédula Nacional de Identidad.
+
+> **Nota.** El numeral 1.2 del número 1 de la Resolución 6.745 Exenta, Vivienda, publicada el 14.09.2018, modifica la presente norma en el sentido de reemplazar el guarismo "362" inserto en la celda final de la tabla, por el guarismo "360".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 

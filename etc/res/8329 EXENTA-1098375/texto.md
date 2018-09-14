@@ -40,6 +40,8 @@ Resolución:
 
 > **Nota.** Los números 8.2 y 8.3 del numeral 8 de la Resolución 14454 Exenta, Vivienda, publicada el 27.12.2017, modifican la presente norma, en el sentido de reemplazar la tabla inserta en el resuelvo 1 y en la tabla inserta en el resuelvo 2 de la manera que la citada norma indica.
 
+> **Nota.** NOTA 1 El numeral 14.2 del número 14 de la Resolución 6745 Exenta, Vivienda, publicada el 14.09.2018, modifica el cuadro inserto en el resuelvo 1 de la presente norma, las filas denominadas "2° quincena noviembre" y "TOTAL" por aquellas que la citada norma indica.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.

@@ -28,11 +28,15 @@ Resolución:
 
 1.- Apruébase la nómina de postulantes seleccionados con un subsidio habitacional, correspondientes al 22 de diciembre de 2016, de acuerdo a lo dispuesto por la resolución citada en el Visto g), nómina que se adjunta y se entenderá forma parte integrante de esta resolución, correspondiente a la Región de Coquimbo, de acuerdo a lo señalado en la siguiente tabla:
 
-.
+REGION INDIVIDUAL
+
+COQUIMBO 23
 
 2.- Fíjase el monto de recursos comprometidos para el financiamiento de subsidios de reparación del Programa de Protección al Patrimonio Familiar, Título II, para la atención de los postulantes seleccionados a que se refiere el resuelvo 1, según la siguiente tabla:
 
-.
+REGION SUBSIDIOS TÍTULO II $
+
+COQUIMBO 28.750.000
 
 3.- Comprométense los recursos disponibles para la Región de Coquimbo, para la selección correspondiente al 22 de diciembre de 2016, del llamado extraordinario para damnificados ya citado, de conformidad a los montos asignados y los saldos disponibles, según la distribución señalada en el siguiente cuadro:
 
