@@ -58,8 +58,12 @@ Resolución:
 
 .
 
+> **Nota.** El numeral 13.2 del número 13 de la Resolución 6745 Exenta, Vivienda, publicada el 14.09.2018, modifica la presente norma en el sentido de reemplazar en la tabla inserta las filas denominadas "1° quincena noviembre" y "TOTAL".
+
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Iván Leonhardt Cárdenas, Subsecretario de Vivienda y Urbanismo.
 
 ..
+
+> **Nota.** El numeral 13.2 del numero 13 de la Resolución 6745 Exenta, Vivienda, publicada el 14.09.2018, modifica la presente norma en el sentido de eliminar de la nómina de beneficiados aprobados, la fila que se detallan la citada norma.

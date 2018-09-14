@@ -42,7 +42,7 @@ Resolución:
 
 3. Fíjese el monto de recursos comprometidos para el financiamiento de subsidios de reparación del Programa de Protección al Patrimonio Familiar, Título II, para la atención de los postulantes seleccionados a que se refiere el resuelvo 2, según la siguiente tabla:
 
-.
+> **Nota.** El numeral 10.2 del número 10 de la Resolución 6745 Exenta, Vivienda, publicada el 14.09.2018, modifica le cuadro inserto en el resuelvo 2 de la presente norma, en el sentido de reemplazar en las fila denominada "1° quincena septiembre" el guarismo 54 por 52 y en la fila "TOTAL" el guarismo 1.130 por 1.128.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
