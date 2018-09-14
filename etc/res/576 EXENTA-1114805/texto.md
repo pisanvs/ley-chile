@@ -20,6 +20,8 @@ Resolución:
 
 2. Los recursos involucrados por región, según alternativa, para la selección de postulantes son los siguientes:
 
+.
+
 3. El número de proyectos seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2., para cada alternativa señalada, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y/o ajustes de marco que serán sancionados mediante resolución.
 
 4. Establécese que se permitirá a proyectos de las tipologías Densificación Predial y Pequeño Condominio, optar a las 40 Unidades de Fomento adicionales establecidas en el segundo inciso de la letra d), del artículo 35, del DS N° 49 (V. y U.), de 2011, si cumplen con los requisitos ahí establecidos, los cuales sólo deberán ser verificados y autorizados por el Serviu correspondiente.
