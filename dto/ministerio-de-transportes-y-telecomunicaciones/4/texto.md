@@ -256,7 +256,7 @@ primera inscripción en el Registro de
 
 Vehículos Motorizados se haya solicitado
 
-hasta el 28 de marzo de 2013.
+hasta el 28 de septiembre de 2013.
 
 Vehículos motorizados livianos y medianos no
 
@@ -284,7 +284,7 @@ inscripción en el Registro de Vehículos
 
 Motorizados se haya solicitado a partir
 
-del 29 de marzo de 2013.
+del 29 de septiembre de 2013.
 
 La medición de la opacidad en flujo parcial medida en el ensayo de aceleración libre y/o la opacidad en flujo parcial medida en el ensayo en carga sobre dinamómetro, aplicándose para esta última el equivalente técnico correspondiente a los valores establecidos en la letra b.2) de este mismo artículo, serán obligatorias para los buses que presten servicios de locomoción colectiva en la Provincia de Santiago y las comunas de Puente Alto y San Bernardo, de las Provincias de Cordillera y Maipo, respectivamente, o para aquellos cuyos servicios tengan origen o destino en dicha área geográfica.
 
