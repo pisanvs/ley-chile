@@ -190,7 +190,7 @@ primera inscripción en el Registro de
 
 Vehículos Motorizados se haya solicitado
 
-hasta el 28 de marzo de 2013.
+hasta el 28 de septiembre de 2013.
 
 Vehículos motorizados livianos y medianos no
 
@@ -218,7 +218,7 @@ inscripción en el Registro de Vehículos
 
 Motorizados se haya solicitado a partir
 
-del 29 de marzo de 2013.
+del 29 de septiembre de 2013.
 
 #### Artículo segundo
 
