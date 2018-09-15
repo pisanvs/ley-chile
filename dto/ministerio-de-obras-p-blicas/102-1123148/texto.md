@@ -1,0 +1,13 @@
+AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS "SECTOR PARAPENTE ", DE LA COMUNA DE ALTO HOSPICIO, PROVINCIA DE IQUIQUE, I REGIÓN DE TARAPACÁ
+
+Por decreto número 102, del Ministerio de Obras Públicas, de fecha 14 de junio de 2018, íntegramente tramitado el 13 de agosto de 2018, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (Econssa Chile S.A), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el área denominada "Parapente", de la Comuna de Alto Hospicio, Provincia de Iquique, I Región de Tarapacá.
+
+El área de concesión o territorio operacional de los servicios de producción y distribución de agua potable y de recolección y disposición de aguas servidas, se encuentra identificada y delimitada en el plano "Obra: Convenio de Ampliación del Territorio Operacional Alto Hospicio - Provincia de Iquique - I Región Contenido: Área de Ampliación del Territorio Operacional A.T.O. Sector Parapente", que forma parte integrante del presente decreto. En el primer establecimiento (año 2023), se considera la instalación de dos arranques de agua potable e igual número de uniones domiciliarias de alcantarillado, cantidad que, en ambos casos, se mantendrá constante hacia el final del periodo (año 2033).
+
+El servicio público de producción de agua potable para la localidad de Alto Hospicio, incluido el sector que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1, letra a) de la Ficha de Antecedentes Técnicos (F.A.T.), sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el Art. 26º del DS MOP Nº 1.199/04, y se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (F.A.T.) Nº SC-01-02 E, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 22 de agosto de 2018, ante el Notario de la 34a Notaría de Santiago, don Eduardo Javier Diez Morello y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº SC-01-02 E.
+
+Santiago, agosto de 2018.- Ronaldo Bruna Villena, Superintendente de Servicios Sanitarios.
