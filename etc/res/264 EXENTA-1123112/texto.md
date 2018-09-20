@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE DEL NIVEL CENTRAL DEL INSTITUTO DE PREVISIÓN SOCIAL, ABIERTA EN LA OFICINA PRINCIPAL DEL BANCO SANTANDER, EN LOS FUNCIONARIOS DEL DEPARTAMENTO DE FINANZAS, QUE EJERCEN LOS CARGOS QUE SE INDICAN
+
+Por resolución exenta N°264, de 12 de junio de 2018, el Director Nacional del Instituto de Previsión Social, delegó la facultad de girar cheques, efectuar traspasos, retirar talonarios, dar órdenes de no pago, retirar documentos, cheques protestados, cartolas y acceder a claves secretas o password de los sistemas computacionales que ofrecen los bancos, lo que permitirá efectuar transferencias de fondos, consultas de saldos, emitir cartolas provisorias, acceder a información financiera, ordenar cierre de cuentas corrientes, retirar talonarios, documentos, cheques protestados, cartolas, y operar el Sistema de Pago Automático de Cuentas (PAC) de la cuenta corriente del Nivel Central, abierta en la Oficina Principal del Banco Santander en los funcionarios del Departamento de Finanzas que ejercen los cargos que indica.
+
+Santiago, 11 de septiembre de 2018.- Patricio Coronado Rojo, Director Nacional.
