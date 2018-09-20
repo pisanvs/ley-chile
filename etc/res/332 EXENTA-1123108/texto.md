@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LAS ACTIVIDADES DE "JORNALERO REEMPLAZANTE DE CUADRILLA EN DESCARGUE Y TRASLADO DE MATERIAS PRIMAS" EN LA SECCIÓN FUNDICIÓN Y FUNDANTES, Y DE "AYUDANTE DE FUNDICIÓN", EN LA SECCIÓN FUNDICIÓN DE PLANTA DE ÓXIDOS, AMBOS PARA EL EMPLEADOR MANTOS COOPER-MANTOS BLANCOS
+
+Por resolución exenta N°332, de 7 de agosto de 2018, el Director Nacional del Instituto de Previsión Social aprobó la solicitud presentada por don Agustín Roberto Angel Araya, para calificar como Trabajo Pesado las labores de "Jornalero Reemplazante de Cuadrilla en Descargue y Traslado de Materias Primas" en la sección Fundición y Fundantes y de "Ayudante de Fundición", en la sección Fundición de Planta de Óxidos, ambas para el empleador Mantos Cooper-Mantos Blancos, e incorpórese al Listado Oficial de Actividades e Industrias Diversas calificadas como Trabajo Pesado, correspondiendo aplicar una rebaja de edad de 2x5 (dos años por cada cinco años de labores pesadas), beneficio que le permite impetrar el cobro anticipado de su Bono de Reconocimiento.
+
+Santiago, 11 de septiembre de 2018.- Patricio Coronado Rojo, Director Nacional.
