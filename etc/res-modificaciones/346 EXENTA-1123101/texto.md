@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN EXENTA N°475, DE 19.10.2016, QUE APROBÓ EL CONVENIO DE COLABORACIÓN DE "SERVICIOS DE ENTREGA DE INFORMACIÓN NECESARIA PARA LA PROTECCIÓN SOCIAL DEL ESTADO", SUSCRITO EL 05.09.2016, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN, EN EL SENTIDO DE ACTUALIZAR A SUS COORDINADORES TITULAR Y SUPLENTE
+
+Por resolución exenta N°346, de 16 de agosto de 2018, el Director Nacional del Instituto de Previsión Social, designó como Coordinadores del Convenio de Colaboración de "Servicios de Entrega de Información Necesaria para la Protección Social del Estado", suscrito el 05.09.2016, con el Servicio de Registro Civil e Identificación y aprobado por la resolución exenta N°475, de 19.10.2016, a los funcionarios de la División Informática, don Iann Sandoval, en calidad de titular y don Luis Ladouch, como suplente, quienes tendrán las facultades y responsabilidades que se indican en la cláusula décimo quinta del mencionado convenio.
+
+Santiago, 11 de septiembre de 2018.- Patricio Coronado Rojo, Director Nacional.
