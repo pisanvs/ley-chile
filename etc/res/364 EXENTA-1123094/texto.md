@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LA ACTIVIDAD DE "CHOFER-CONDUCTOR RECAUDADOR, LOCOMOCIÓN COLECTIVA URBANA", DESARROLLADA PARA LOS EMPLEADORES "JUAN ESTEBAN HENRÍQUEZ ARAYA", "CARLOS OSSANDÓN GONZÁLEZ" Y "RITA TERESA TOBAR FERREL"
+
+Por resolución exenta N°364, de 28 de agosto de 2018, el Director Nacional del Instituto de Previsión Social, aprobó la solicitud presentada por don Luis Sepúlveda del Valle, para calificar como Trabajo Pesado la labor de "Chofer-Conductor Recaudador Locomoción Colectiva Urbana", desempeñada para los empleadores "Juan Esteban Henríquez Araya", "Carlos Ossandón González" y "Rita Teresa Tobar Ferrel", e incorpórense al Listado Oficial de Actividades e Industrias Diversas calificadas como Trabajo Pesado, correspondiendo aplicar una rebaja de edad de 1x5 (un año por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez, con rebaja en la edad.
+
+Santiago, 11 de septiembre de 2018.- Patricio Coronado Rojo, Director Nacional.
