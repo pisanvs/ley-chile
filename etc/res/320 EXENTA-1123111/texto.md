@@ -1,0 +1,11 @@
+FORMALIZA APERTURA CUENTAS CORRIENTES BANCARIAS SUBSIDIARIAS A LA CUENTA ÚNICA FISCAL, NÚMEROS 9007237, 9007245 Y 9007741, ABIERTAS EN LA OFICINA PRINCIPAL DEL BANCO DEL ESTADO DE CHILE
+
+Por resolución exenta N°320, de 31 de julio de 2018, el Director Nacional del Instituto de Previsión Social, autorizó la apertura de las cuentas corrientes bancarias bipersonales, subsidiarias de la Cuenta Única Fiscal;
+
+- **a)** Cuenta corriente número 9007237, denominada "IPS - Administración Aporte Mindes Ingreso Ético Familar", destinada a mantener los fondos transferidos por Mindes para el pago de la Bonificación al Ingreso Ético Familiar;
+
+- **b)** Cuenta corriente número 9007245, denominada "IPS - Administración Fondos Mindes Subsidio Pago Electrónico", destinada a la administración de los fondos dirigidos a cubrir una parte o la totalidad del costo derivado de la utilización por parte de los beneficiarios que deciden recibir los pagos a través del depósito en cuenta bancaria y
+
+- **c)** Cuenta corriente número 9007741, denominada "IPS - Administración Aporte Mindes Chile Solidario", destinada a la administración de los aportes de las prestaciones del sistema de protección social para familias en situación de extrema pobreza, abiertas en la Oficina Principal del Banco del Estado de Chile y delegó la facultad de girar cheques, efectuar traspasos, retirar talonarios, dar órdenes de no pago, retirar documentos, cheques protestados, cartolas y acceder a claves secretas o password de los sistemas computacionales que ofrecen los bancos, lo que permitirá efectuar transferencias de fondos, consultas de saldos, emitir cartolas provisorias, acceder a información financiera, ordenar cierre de cuentas corrientes, retirar talonarios, documentos, cheques protestados, cartolas, y operar el Sistema de Pago Automático de Cuentas (PAC) de las cuentas corrientes del Nivel Central individualizadas en el Resuelvo 1°, de la presente resolución, abiertas en la Oficina Principal del Banco del Estado de Chile en los funcionarios que indica.
+
+Santiago, 11 de septiembre de 2018.- Patricio Coronado Rojo, Director Nacional.
