@@ -392,9 +392,9 @@ Decimocuarto Juzgado de Garantía de Santiago, con nueve jueces, con competencia
 
 Decimoquinto Juzgado de Garantía de Santiago, con siete jueces, con competencia sobre las comunas de San Ramón y La Pintana.
 
-Decimosexta Región de Ñuble:
+Región de Ñuble:
 
-San Carlos, con un juez, con competencia sobre las comunas de San Carlos, Ñiquén y San Fabián.
+San Carlos, con dos jueces, con competencia sobre las comunas de San Carlos, Ñiquén y San Fabián.
 
 Chillán, con cuatro jueces, con competencia sobre las comunas de San Nicolás, Chillán, Coihueco, Pinto y Chillán Viejo.
 
@@ -568,9 +568,9 @@ Sexto Tribunal de Juicio Oral en lo Penal de Santiago, con veintisiete jueces, c
 
 Séptimo Tribunal de Juicio Oral en lo Penal de Santiago, con trece jueces, con competencia sobre las comunas de Macul, Peñalolén y La Florida.
 
-Decimosexta Región de Ñuble:
+Región de Ñuble:
 
-Chillán, con seis jueces, con competencia sobre las comunas de Cobquecura, Quirihue, Ninhue, San Carlos, Ñiquén, San Fabián, San Nicolás, Treguaco, Portezuelo, Chillán, Coihueco, Coelemu, Ránquil, Pinto, Quillón, Bulnes, San Ignacio, El Carmen, Pemuco, Yungay, Tucapel y Chillán Viejo.
+Chillán, con siete jueces, con competencia sobre las comunas de Cobquecura, Quirihue, Ninhue, San Carlos, Ñiquén, San Fabián, San Nicolás, Treguaco, Portezuelo, Chillán, Coihueco, Coelemu, Ránquil, Pinto, Quillón, Bulnes, San Ignacio, El Carmen, Pemuco, Yungay, Tucapel y Chillán Viejo.
 
 #### Artículo 21
 
@@ -1122,7 +1122,7 @@ Tres juzgados con asiento en la comuna de Arica, con competencia sobre las comun
 
 #### Artículo 39 quáter
 
-En la Decimosexta Región de Ñuble existirán los siguientes juzgados de letras, que tendrán competencia en los territorios que se indican:
+En la Región de Ñuble existirán los siguientes juzgados de letras, que tendrán competencia en los territorios que se indican:
 
 A.- JUZGADOS CIVILES:
 
@@ -1132,9 +1132,9 @@ B.- JUZGADOS CON COMPETENCIA COMÚN:
 
 Un juzgado con asiento en la comuna de San Carlos, con dos jueces, con competencia sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás.
 
-Un juzgado con asiento en la comuna de Yungay, con competencia sobre las comunas de Yungay, Pemuco, El Carmen y Tucapel.
+Un juzgado con asiento en la comuna de Yungay, con dos jueces, con competencia sobre las comunas de Yungay, Pemuco, El Carmen y Tucapel.
 
-Un juzgado con asiento en la comuna de Bulnes, con competencia sobre las comunas de Bulnes, Quillón y San Ignacio.
+Un juzgado con asiento en la comuna de Bulnes, con dos jueces, con competencia sobre las comunas de Bulnes, Quillón y San Ignacio.
 
 Un juzgado con asiento en la comuna de Coelemu, con competencia sobre las comunas de Coelemu y Ránquil.
 

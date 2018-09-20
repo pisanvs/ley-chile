@@ -206,13 +206,13 @@ a) Elimínanse, en el acápite "Octava Región del Biobío", los párrafos prime
 
 b) Agrégase, a continuación del acápite correspondiente a la "Región Metropolitana de Santiago", lo siguiente:
 
-"Decimosexta Región de Ñuble:
+"Región de Ñuble:
 
-San Carlos, con un juez, con competencia sobre las comunas de San Carlos, Ñiquén y San Fabián.
+San Carlos, con dos jueces, con competencia sobre las comunas de San Carlos, Ñiquén y San Fabián.
 
 Chillán, con cuatro jueces, con competencia sobre las comunas de San Nicolás, Chillán, Coihueco, Pinto y Chillán Viejo.
 
-Yungay, con un juez, con competencia sobre las comunas de El Carmen, Pemuco, Yungay y Tucapel.".
+Yungay, con un juez, con competencia sobre las comunas de El Carmen, Pemuco, Yungay y Tucapel.
 
 2) Modifícase el artículo 21 de la siguiente forma:
 
@@ -220,9 +220,9 @@ a) Elimínase, en el acápite "Octava Región del Biobío", el párrafo primero.
 
 b) Agrégase, a continuación del acápite correspondiente a la "Región Metropolitana de Santiago", lo siguiente:
 
-"Decimosexta Región de Ñuble:
+"Región de Ñuble:
 
-Chillán, con seis jueces, con competencia sobre las comunas de Cobquecura, Quirihue, Ninhue, San Carlos, Ñiquén, San Fabián, San Nicolás, Treguaco, Portezuelo, Chillán, Coihueco, Coelemu, Ránquil, Pinto, Quillón, Bulnes, San Ignacio, El Carmen, Pemuco, Yungay, Tucapel y Chillán Viejo.".
+Chillán, con siete jueces, con competencia sobre las comunas de Cobquecura, Quirihue, Ninhue, San Carlos, Ñiquén, San Fabián, San Nicolás, Treguaco, Portezuelo, Chillán, Coihueco, Coelemu, Ránquil, Pinto, Quillón, Bulnes, San Ignacio, El Carmen, Pemuco, Yungay, Tucapel y Chillán Viejo."
 
 3) Modifícase el artículo 35 del modo que sigue:
 
@@ -234,7 +234,7 @@ b) Elimínanse, en el acápite "B.- JUZGADOS CON COMPETENCIA COMÚN:", los párr
 
 #### Artículo 39 quáter
 
-En la Decimosexta Región de Ñuble existirán los siguientes juzgados de letras, que tendrán competencia en los territorios que se indican:
+En la Región de Ñuble existirán los siguientes juzgados de letras, que tendrán competencia en los territorios que se indican:
 
 A.- JUZGADOS CIVILES:
 
@@ -244,9 +244,9 @@ B.- JUZGADOS CON COMPETENCIA COMÚN:
 
 Un juzgado con asiento en la comuna de San Carlos, con dos jueces, con competencia sobre las comunas de San Carlos, Ñiquén, San Fabián y San Nicolás.
 
-Un juzgado con asiento en la comuna de Yungay, con competencia sobre las comunas de Yungay, Pemuco, El Carmen y Tucapel.
+Un juzgado con asiento en la comuna de Yungay, con dos jueces, con competencia sobre las comunas de Yungay, Pemuco, El Carmen y Tucapel.
 
-Un juzgado con asiento en la comuna de Bulnes, con competencia sobre las comunas de Bulnes, Quillón y San Ignacio.
+Un juzgado con asiento en la comuna de Bulnes, con dos jueces, con competencia sobre las comunas de Bulnes, Quillón y San Ignacio.
 
 Un juzgado con asiento en la comuna de Coelemu, con competencia sobre las comunas de Coelemu y Ránquil.
 
