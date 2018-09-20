@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL "PROCEDIMIENTO REBAJA DE DEUDAS, GENERADAS POR DESAFILIACIÓN LEY N° 18.225, SIENDO LA ALTERNATIVA DE PAGO EL DESCUENTO DE CUOTAS A TRAVÉS DE LA PENSIÓN" DE APLICACIÓN GENERAL Y OBLIGATORIA
+
+Por resolución exenta N°335, de 8 de agosto de 2018, aprobó para el Instituto de Previsión Social, el documento denominado "Procedimiento Rebaja de Deudas, Generadas por Desafiliación Ley N° 18.225, siendo la alternativa de pago el descuento de cuotas a través de la pensión", aprobado por la División Jurídica con fecha 5 de julio de 2018, cuyo objetivo es describir las etapas, establecer las responsabilidades y plazos a cumplir por todas las áreas involucradas en el proceso para generar un cupón de pago y rebajar del sistema la deuda generada producto de la Desafiliación de un imponente del sistema de pensiones conforme a la Ley N° 18.225, cuya alternativa de pago es el descuento de la pensión en cuotas que no excedan del 20% de la misma.
+
+Santiago, 11 de septiembre de 2018.- Patricio Coronado Rojo, Director Nacional.
