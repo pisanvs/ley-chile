@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN EXENTA N°94, DE 10.02.2015, QUE APROBÓ EL "CONVENIO DE COLABORACIÓN DE ENTREGA DE INFORMACIÓN DEL REGISTRO DE DEFUNCIÓN", SUSCRITO EL 23.10.2014, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN, EN EL SENTIDO DE ACTUALIZAR A SUS COORDINADORES TITULAR Y SUPLENTE
+
+Por resolución exenta N°349, de 20 de agosto de 2018, el Director Nacional del Instituto de Previsión Social, designó como Coordinadores del "Convenio de Colaboración de Entrega de Información del Registro de Defunción", suscrito el 23.10.2014, con el Servicio de Registro Civil e Identificación y aprobado por la resolución exenta N°94, de 10.02.2015, a los funcionarios de la División Informática, don Francisco Vargas, en calidad de titular y don Luis Sergio Almendra, como suplente, quienes tendrán las facultades y responsabilidades que se indican en la cláusula décimo cuarta del mencionado convenio.
+
+Santiago, 11 de septiembre de 2018.- Patricio Coronado Rojo, Director Nacional.
