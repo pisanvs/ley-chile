@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO ANTE SITUACIONES DE CONTINGENCIA EN LOS CANALES DE ATENCIÓN IPS"
+
+Por resolución exenta N°343, de 14 de agosto de 2018, el Director Nacional del Instituto de Previsión Social, aprobó para el Instituto de Previsión Social, el documento denominado "Procedimiento ante Situaciones de Contingencia en los Canales de Atención IPS", cuyo objetivo es establecer un procedimiento que constituya material de apoyo a los Canales de Atención IPS, para resolver situaciones de contingencia de origen natural o humano y de recuperación de desastres, para mantener y asegurar la continuidad del servicio dentro del horario definido para ello o, en su caso, mitigarlo y restablecerlo en el menor tiempo posible.
+
+Santiago, 11 de septiembre de 2018.- Patricio Coronado Rojo, Director Nacional.
