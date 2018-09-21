@@ -768,6 +768,10 @@ segundo: Las vacantes que no sean completadas mediante los procedimientos recié
 
 tercero: Las solicitudes para autorizar procedimientos especiales, para el proceso de admisión del año 2019, cuya postulación se verificará el año 2018, podrán presentarse dentro de los 60 días siguientes a la publicación del presente decreto.
 
+#### Artículo décimo
+
+cuarto: Lo dispuesto en el inciso tercero del artículo 1º del presente decreto, no será aplicable a aquellos alumnos que, a la fecha de publicación del decreto Nº 301, de 2016, del Ministerio de Educación, se encuentren matriculados en establecimientos con modalidad de educación especial y quieran continuar en el mismo establecimiento en modalidad de educación tradicional. Asimismo, tampoco será aplicable a aquellos alumnos que se encuentren matriculados durante el año escolar anterior a aquel en que el establecimiento ha ingresado en su primer año al Sistema de Admisión Escolar.
+
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Adriana Delpiano Puelma, Ministra de Educación.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a usted, Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
