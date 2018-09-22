@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.181, del 7 de agosto de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Modifícase la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 3.883, del 8 de noviembre de 2011, modificada por resolución 4.005, del 13 de diciembre de 2012, cuya ampliación de plazo para iniciar actividades fue otorgada por resolución exenta 11.997, del 20 de diciembre de 2012, inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría para las Fuerzas Armadas a Fs. 319, 637, del 23 de enero de 2013, modificada por resolución exenta 8.439, del 28 de diciembre de 2017, todas del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, a Exportadora Los Fiordos Limitada, sociedad chilena, RUT 79.872.420-7, con domicilio en Avenida Diego Portales 2000, piso 8, Edificio Empresarial, Puerto Montt, en el sentido que el concesionario debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 2.824, del 28 de agosto de 2017, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el Nº 4 de la parte resolutiva del acto administrativo que otorgó la concesión de acuicultura.
+
+Santiago, 7 de agosto de 2018.- Por orden del Subsecretario para las Fuerzas Armadas, Cristián García-Huidobro C., Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
