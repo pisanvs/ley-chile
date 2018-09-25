@@ -1,6 +1,6 @@
 RECTIFICA DECRETO Nº 4.491 SECC. 2ª EN EL SENTIDO QUE INDICA
 
-Núm. 8.107 Secc. 2ª.- Santiago, 4 de febrero de 2018.
+Núm. 8.107 Secc. 2ª.- Santiago, 4 de septiembre de 2018.
 
 Vistos:
 
