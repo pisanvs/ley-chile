@@ -58,9 +58,11 @@ El solo hecho de existir una inscripción anterior que ampare el inmueble, no si
 
 El solicitante deberá acompañar una declaración jurada, prestada ante Notario, o, en su defecto, ante el Oficial del Registro Civil en cuyo territorio jurisdiccional se encuentre el inmueble, o ante el funcionario que el Servicio determine, acerca del hecho de cumplir con el requisito contemplado en el N° 1 del artículo 2°, sobre el origen de su posesión y respecto de los antecedentes legales y de hecho de los poseedores anteriores, si los conociere, como, asimismo, sobre el conocimiento que tuviere de la existencia de inscripciones que se refieran al inmueble y de las otras personas que pudieran tener derechos sobre el predio.
 
+Adicionalmente, en las áreas urbanas y rurales, deberá acompañar un certificado de informaciones previas con fines de regularización, emitido por la dirección de obras municipales correspondiente, o por quien en subsidio cumpla esa función, que contenga las condiciones aplicables al predio respectivo. El certificado deberá tenerse en consideración al momento de aprobar o rechazar la solicitud de regularización.
+
 #### Artículo 6°
 
-El cumplimiento del requisito de no existir juicio pendiente se acreditará mediante declaración jurada que deberá prestarse conjuntamente con la que exige el artículo anterior.
+El cumplimiento del requisito de no existir juicio pendiente se acreditará mediante el correspondiente certificado expedido por el Conservador de Bienes Raíces respectivo y, además, con una declaración jurada que deberá prestarse conjuntamente con la que exige el artículo anterior.
 
 #### Artículo 7°
 
@@ -104,11 +106,11 @@ Cumplidos los trámites anteriores, o sin ellos cuando los organismos pertinente
 
 #### Artículo 11°
 
-Cumplidos los trámites a que se refiere el artículo anterior y previo informe jurídico, el Servicio deberá pronunciarse denegando o aceptando la solicitud presentada. En este último caso la resolución respectiva deberá disponer que ella se publique por dos veces en un diario o periódico de los de mayor circulación en la región que determine el Servicio y ordenará, asimismo, fijar carteles durante 15 días en los lugares públicos que él determine. Asimismo, tratándose de procedimientos de regularización cuyo objeto sean bienes raíces ubicados en zonas geográficas de difícil acceso, que el Servicio señale, dicha resolución se comunicará mediante mensaje radial en el medio que el mismo Servicio determine.
+Cumplidos los trámites a que se refiere el artículo anterior y previo informe jurídico, el Servicio deberá pronunciarse denegando o aceptando la solicitud presentada. En este último caso, la resolución respectiva deberá disponer que ella se publique por dos veces en un diario o periódico de los de mayor circulación en la región o comuna, que determine el Servicio, y ordenará, además, fijar carteles durante el proceso de saneamiento en los lugares públicos que él establezca y en el frontis de la propiedad correspondiente. Asimismo, tratándose de procedimientos de regularización cuyo objeto sean bienes raíces ubicados en zonas geográficas de difícil acceso, que el Servicio señale, dicha resolución se comunicará mediante mensaje radial en el medio que el mismo Servicio determine.
 
 Las publicaciones se harán indistintamente los días primero y quince del mes o en la edición inmediatamente siguiente si el diario o periódico no se publicare en los días indicados.
 
-Los avisos y carteles contendrán en forma extractada la resolución del Servicio, la individualización del peticionario, la ubicación y deslindes del inmueble, su denominación, si la tuviere, su superficie aproximada y la respectiva inscripción si fuere conocida, y en ellos deberá prevenirse que, si dentro del plazo de 30 días hábiles contados desde la publicación del último aviso, no se dedujere oposición por terceros, se ordenará la inscripción a nombre del solicitante.
+Los avisos y carteles contendrán en forma extractada la resolución del Servicio, la individualización del peticionario, la ubicación y deslindes del inmueble, su denominación, si la tuviere, su superficie aproximada y la respectiva inscripción si fuere conocida, y en ellos deberá prevenirse que, si dentro del plazo de sesenta días hábiles, contado desde la publicación del último aviso, no se dedujere oposición por terceros, se ordenará la inscripción a nombre del solicitante. No obstante, los terceros tendrán el derecho a oponerse desde el momento en que se acoja la solicitud a tramitación.".
 
 #### Artículo 12°
 
@@ -138,23 +140,23 @@ De los efectos de la inscripción
 
 La resolución del Servicio que acoja la solicitud se considerará como justo título. Una vez practicada su inscripción en el Registro del Conservador de Bienes Raíces, el interesado adquirirá la calidad de poseedor regular del inmueble para todos los efectos legales, aunque existieren en favor de otras personas inscripciones que no hubieran sido materialmente canceladas.
 
-Transcurrido un año completo de posesión inscrita no interrumpida, contado desde la fecha de la inscripción, el interesado se hará dueño del inmueble por prescripción, la que no se suspenderá en caso alguno.
+Transcurridos dos años completos de posesión inscrita no interrumpida, contados desde la fecha de la inscripción, el interesado se hará dueño del inmueble por prescripción, la que no se suspenderá en caso alguno.
 
 La resolución indicada en el inciso primero y la sentencia a que se refiere el artículo 25 de esta ley se subinscribirán al margen de la respectiva inscripción de dominio a la que afecte el saneamiento, si se tuviere conocimiento de ella.
 
 #### Artículo 16°
 
-Como consecuencia de lo dispuesto en el artículo precedente, expirado el plazo de un año a que esa disposición se refiere, prescribirán las acciones emanadas de los derechos reales de dominio, usufructo, uso o habitación, servidumbres activas y el de hipotecas relativos al inmueble inscrito de acuerdo con la presente ley.
+Como consecuencia de lo dispuesto en el artículo precedente, expirado el plazo de dos años a que esa disposición se refiere, prescribirán las acciones emanadas de los derechos reales de dominio, usufructo, uso o habitación, servidumbres activas y el de hipotecas relativos al inmueble inscrito de acuerdo con la presente ley.
 
-Las anteriores inscripciones de dominio sobre el inmueble, así como la de los otros derechos reales mencionados, las de los gravámenes y prohibiciones que lo afectaban, una vez transcurrido el citado plazo de un año, se entenderán canceladas por el solo ministerio de la ley, sin que por ello recobren su vigencia las inscripciones que antecedían a las que se cancelan.
+Las anteriores inscripciones de dominio sobre el inmueble, así como la de los otros derechos reales mencionados, las de los gravámenes y prohibiciones que lo afectaban, una vez transcurrido el citado plazo de dos años, se entenderán canceladas por el solo ministerio de la ley, sin que por ello recobren su vigencia las inscripciones que antecedían a las que se cancelan.
 
 Con todo, si las hipotecas y gravámenes hubiesen sido constituidas por el mismo solicitante o por alguno de los antecesores cuya posesión legal o material se hubiera agregado a la suya, dichas hipotecas y gravámenes continuarán vigentes sobre el inmueble. Subsistirán igualmente, los embargos y prohibiciones decretados en contra del solicitante o de alguno de sus antecesores; pero ello no será obstáculo para practicar las inscripciones que correspondan.
 
 #### Artículo 17°
 
-Los poseedores de inmuebles inscritos con arreglo a esta ley no podrán gravarlos ni enajenarlos durante el plazo de un año, contado desde la fecha de la inscripción.
+Los poseedores de inmuebles inscritos con arreglo a esta ley no podrán gravarlos durante el plazo de dos años, contado desde la fecha de la inscripción. Para enajenarlos, el plazo será de cinco años, contado desde la misma fecha.
 
-Los Conservadores de Bienes Raíces deberán inscribir de oficio esta prohibición, la que quedará cancelada, por el solo ministerio de la ley, una vez transcurrido el referido plazo de un año. Vencido este término, dichos funcionarios deberán alzarlas de oficio, sin necesidad de requerimiento de parte interesada.
+Los conservadores de bienes raíces deberán inscribir de oficio estas prohibiciones, las que quedarán canceladas, por el solo ministerio de la ley, una vez transcurridos los plazos a que se refiere el inciso anterior. Vencidos estos últimos, dichos funcionarios deberán alzarlas de oficio, sin necesidad de requerimiento de parte interesada.
 
 Los mencionados poseedores podrán, sin embargo, constituir en cualquier tiempo gravámenes en favor de organismos de crédito estatales o privados, servicios públicos o instituciones creadas por ley o en las cuales el Estado tenga participación o representación.
 
@@ -194,7 +196,7 @@ En este caso, el oponente deberá deducir reconvención, solicitando que se prac
 
 #### Artículo 20°
 
-La oposición deberá deducirse ante el Servicio dentro del plazo de treinta días hábiles, contado desde la última publicación a que se refiere el artículo 11° y deberá contener la individualización de él o los oponentes, sus fundamentos, los documentos y demás medios de prueba en que se apoya y las peticiones concretas que se formulen.
+La oposición deberá deducirse ante el Servicio desde el momento en que se acoja la solicitud a tramitación y hasta el plazo de sesenta días hábiles, contado desde la última publicación a que se refiere el artículo 11° y deberá contener la individualización de él o los oponentes, sus fundamentos, los documentos y demás medios de prueba en que se apoya y las peticiones concretas que se formulen.
 
 Presentada la oposición, la cual se entenderá como demanda para todos los efectos legales, el Servicio deberá abstenerse de continuar la tramitación y remitirá de inmediato los antecedentes al juez de letras en lo civil dentro de cuyo territorio jurisdiccional se encuentre el predio, lo que será notificado por carta certificada tanto al peticionario como al oponente.
 
@@ -236,7 +238,7 @@ De las acciones de dominio
 
 #### Artículo 26°
 
-Sin perjuicio de lo dispuesto en el artículo 19° los terceros podrán, dentro del plazo de un año, contado desde la fecha de la inscripción del inmueble practicada por resolución administrativa o judicial, deducir ante el tribunal señalado en el artículo 20° las acciones de dominio que estimen asistirles.
+Sin perjuicio de lo dispuesto en el artículo 19° los terceros podrán, dentro del plazo de dos años, contado desde la fecha de la inscripción del inmueble practicada por resolución administrativa o judicial, deducir ante el tribunal señalado en el artículo 20° las acciones de dominio que estimen asistirles.
 
 El procedimiento se ajustará a las reglas del juicio sumario establecido en el Título XI del Libro III, del Código de Procedimiento Civil.
 
