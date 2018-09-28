@@ -10,4 +10,16 @@ Resolución:
 
 Asígnase a los siguientes funcionarios, a contar de la fecha que se indica, para desempeñar en calidad de subrogantes, la función que señala:
 
+Cargo de Director Regional Tesorero, grado 6º, nivel 2, categoría No Aplica Categoría, especialidad de Escala Única de Sueldos, con 44 horas semanales, para desempeñar funciones de Director/a Regional Tesorero/a, de Servicio de Tesorerías, Tesorería Regional de la Araucanía.
+
+Orden de subrogación Nº 1, Claudia Andrea Guajardo Arriagada, RUN Nº 12.291.369-4, a contar del 10 de agosto de 2018, quien se desempeña como Profesional grado 9º de la planta de Profesionales en Servicio de Tesorerías.
+
+Cargo de Director Regional Tesorero, grado 6º, nivel 2, categoría No Aplica Categoría, especialidad de Escala Única de Sueldos, con 44 horas semanales, para desempeñar funciones de Director/a Regional Tesorero/a, de Servicio de Tesorerías, Tesorería Regional de la Araucanía.
+
+Orden de subrogación Nº 2, Daniela Alejandra Díaz Cerliani, RUN Nº 13.843.718-3, a contar del 10 de agosto de 2018, quien se desempeña como Profesional grado 10º de la planta de Profesionales en Servicio de Tesorerías.
+
+Cargo de Director Regional Tesorero, grado 6º, nivel 2, categoría No Aplica Categoría, especialidad de Escala Única de Sueldos, con 44 horas semanales, para desempeñar funciones de Director/a Regional Tesorero/a, de Servicio de Tesorerías, Tesorería Regional de la Araucanía.
+
+Orden de subrogación Nº 3, Viviana del Carmen López Cisternas, RUN Nº 11.185.891-8, a contar del 10 de agosto de 2018, quien se desempeña como Profesional grado 11º de la planta de Profesionales en Servicio de Tesorerías.
+
 Anótese, comuníquese y publíquese.- Hernán Frigolett Córdova, Tesorero General de la República.
