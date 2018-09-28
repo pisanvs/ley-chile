@@ -158,6 +158,12 @@ Carya spp. Sin Declaración Adicional
 
 (Pecano)
 
+Carya illinoinensis Xylella fastidiosa
+
+Catya spp. excepto Carya
+
+Illinoinensis (Pecario) Sin Declaraciones Adicionales.
+
 Castanea spp. Sin Declaración Adicional
 
 (Castaño)
@@ -184,7 +190,7 @@ Diospyros kaki Sin Declaración Adicional
 
 (Caqui - Kaki)
 
-Ficus carica Sin Declaración Adicional
+Ficus carica Xylella fastidiosa
 
 (Higuera)
 
@@ -195,6 +201,12 @@ Fragaria spp. Raspberry ringspot
 Tomato black ring
 
 virus (TBRV)
+
+Fragaria spp. excepto Raspberry ringspot virus (RpRSV)
+
+Fragaria yesca Tomato black ring virus (TBRV)
+
+(Frutilla) Xylella fastidiosa
 
 Juglans regia Cherry leaf roll
 
@@ -216,17 +228,13 @@ Manguifera indica Sin Declaración Adicional
 
 (Mango)
 
-Olea europaea Sin Declaración Adicional
-
-(Olivo)
-
 Opuntia ficus - indica Sin declaraciones
 
 Adicionales
 
-Persea americana Avocado sun blotch viroid
+Persea americana Avocado sun blotch viroid (ASBVd)
 
-(Palto) (ASBVd)
+(Palto) Xylella fastidiosa
 
 Prunus armeniaca Apricot chlorotic leaf roll
 
@@ -242,17 +250,15 @@ Xylella fastidiosa
 
 Prunus avium Cherry leaf roll virus (CLRV)
 
-(Cerezo dulce) Cherry necrotic rusty mottle
-
-disease
-
-Peach X disease phytoplasma
+(Cerezo dulce) Cherry rasp leaf virus
 
 Plum pox virus (PPV)
 
-Tomato bushy stunt virus
+Peach X disease phytoplasma
 
-(TBSV)
+Tomato bushy stunt virus (TBSV)
+
+Xylella fastidiosa
 
 Prunus cerasifera Cherry leaf roll virus (CLRV)
 
@@ -286,9 +292,13 @@ Insititia
 
 Xylella fastidiosa
 
-Prunus mahaleb Peach X disease phytoplasma
+Prunus mahaleb Cherry rasp leaf virus
 
-(Cerezo Mahaleb) Plum pox virus (PPV)
+(Cerezo Mahaleb) Peach X disease phytoplasma
+
+Plum pox virus (PPV)
+
+Xylella fastidiosa
 
 Prunus persica Peach X disease phytoplasma
 
@@ -312,7 +322,11 @@ Xylella fastidiosa
 
 Prunus serotina Cherry leaf roll virus (CLRV)
 
-(Cerezo oriental) Plum pox virus (PPV)
+(Cerezo oriental) Cherry rasp leaf virus
+
+Plum pox virus (PPV)
+
+Xylella fastidiosa
 
 Prunus spinosa Candidatus Phytoplasma prunorum
 
@@ -322,9 +336,13 @@ Little cherry virus
 
 plum pox virus
 
-Prunus virginiana Peach X disease phytoplasma
+Prunus virginiana Cherry rasp leaf virus
+
+Peach X disease phytoplasma
 
 Plum pox virus (PPV)
+
+Xylella fastidiosa
 
 Prunus armeniaca X P. Apricot chlorotic leaf roll
 
@@ -340,9 +358,7 @@ Xylella fastidiosa
 
 Prunus avium X P. Cherry leaf roll virus (CLRV)
 
-canescens X P. tomentosa Cherry necrotic rusty mottle
-
-disase
+canescens X P. tomentosa Cherry rasp leaf virus
 
 Peach X disease phytoplasma
 
@@ -351,12 +367,12 @@ Plum pox virus (PPV)
 Tomato bushy stunt virus
 
 (TBSV)
+
+Xylella fastidiosa
 
 Prunus avium X P. Cherry leaf roll virus (CLRV)
 
-canescens X P. kurilensis Cherry necrotic rusty mottle
-
-disase
+canescens X P. kurilensis Cherry rasp leaf virus
 
 Peach X disease phytoplasma
 
@@ -366,23 +382,41 @@ Tomato bushy stunt virus
 
 (TBSV)
 
-Prunus besseyi X P.
+Xylella fastidiosa
 
-salicina Apricot chlorotic leaf roll
+Prunus cerasus Cherry leaf roll virus (CLRV)
 
-phytoplasma
+Cherry rasp leaf virus
+
+Peach X disease phytoplasma
 
 Plum pox virus (PPV)
 
+Xylella fastidiosa
+
+Prunus besseyi X P.
+
+salicina
+
+Cherry rasp leaf virus
+
+Peach mosail virus
+
 Peach X disease phytoplasma
+
+Plum pox virus (PPV)
 
 Xylella fastidiosa
 
 Prunus cerasus X P. Cherry leaf roll virus (CLRV)
 
-kursar Peach X disease phytoplasma
+kursar Chery rasp leaf virus
+
+Peach X disease phytoplasma
 
 Plum pox virus (PPV)
+
+Xylella fastidiosa
 
 Prunus cerasifera X P. Cherry leaf roll virus (CLRV)
 
@@ -410,9 +444,23 @@ Plum pox virus (PPV)
 
 Xylella fastidiosa
 
-Prunus mahaleb X P. Peach X diasease phytoplasma
+Prunus cerasus x Cherry leaf roll virus (CLRV)
 
-serrulata Plum pox virus (PPV)
+Prunus canescens Chery rasp leaf virus
+
+Plum pox virus (PPV)
+
+Peach X disease phytoplasma
+
+Xylella fastidiosa
+
+Prunus mahaleb X P. Cherry rasp leaf virus
+
+serrulata Peach X diasease phytoplasma
+
+Plum pox virus (PPV)
+
+Xylella fastidiosa
 
 Prunus persica X P. Cherry leaf roll virus (CLRV)
 
@@ -436,17 +484,31 @@ Pyrus communis Apple stem grooving virus
 
 Pear decline phytoplasma
 
+Xylella fastidiosa
+
 Pyrus calleryana Pear decline phytoplasma
 
-Pyrus betulaefolia
+Xylella fastidiosa
 
-Pyrus elaeagrifolia
+Pyrus betulaefolia Pear decline phytoplasma
 
-Pyrus pyrifolia
+Xylella fastidiosa.
 
-Pyrus serotinia
+Pyrus elaeagrifolia Pear decline phytoplasma
 
-Pyrus ussuriensis
+Xylella fastidiosa
+
+Pyrus pyrifolia Pear decline phytoplasma
+
+Xylella fastidiosa
+
+Pyrus serotinia Pear decline phytoplasma
+
+Xylella fastidiosa
+
+Pyrus ussuriensis Pear decline phytoplasma
+
+Xylella fastidiosa
 
 Ribes nigrum Raspberry ringspot virus
 
@@ -460,37 +522,59 @@ Ribes rubrum
 
 (Grosellero rojo)
 
-Rubus idaeus Cherry leaf roll virus (CLRV)
+Rubus idaeus Cherry leaf roil virus (CLRV)
 
-(Frambueso rojo) Raspberry leaf curl virus
+(Frambueso rojo) Raspberry leaf curl virus (RLCV)
 
-(RLCV)
+Raspberry ring spot virus (RpRSV)
 
-Rubus procerus Raspberry ring spot virus
+Xylella fastidiosa
 
-RpRSV)
+Rubus procerus Cherry leaf roll virus (CLRV)
 
-Rubus fruticosus Cherry leaf roll virus (CLRV)
+Raspberry leaf curl virus (RLCV)
 
-(Mora europea) Raspberry leaf curl virus
+Raspberry ring spot virus (RpRSV)
 
-(RLCV)
+Xylella fastidiosa
 
-Rubus occidentalis
+Rubus fruticosus Cherry leaf roil virus
+
+(Mora europea) Raspberry leaf curl virus (RLCV)
+
+Xylella fastidiosa
+
+Rubus occidentalis Cherry leaf roll virus
+
+Raspberry leaf curl virus (RLCV)
+
+Xylella fastidiosa
 
 (Frambueso negro)
 
-Rubus ursinus
+Rubus ursinus Cherry leaf roll virus
 
-(Mora californiana)
+(Mora californiana) Raspberry leaf curl virus (RLCV)
 
-Rubus neglectus
+Xylella fastidiosa
 
-Rubus phoenicolasius
+Rubus neglectus Cherry leaf roll virus
 
-Rubus sachalinensis Cherry leaf roll virus (CLRV)
+Raspberry leaf curl virus (RLCV)
+
+Xylella fastidiosa
+
+Rubus phoenicolasius Cherry leaf roll virus
+
+Raspberry leaf curl virus (RLCV)
+
+Xylella fastidiosa
+
+Rubus sachalinensis Cherry leaf roll virus
 
 Raspberry ring spot virus (RpRSV)
+
+Xylella fastidiosa
 
 Vaccinium corymbosum Blueberry leaf mottle virus
 
@@ -502,9 +586,15 @@ Blueberry stunt phytoplasma
 
 Blueberry scorch virus
 
-Vaccinium angustifolium Blueberry leaf mottle virus
+Xylella fastidiosa
 
-(Arándano Bajo) (BLMV)
+Vaccinium angustifoliu Blueberry leaf mottle virus(BLMV)
+
+(Arándano Bajo) Blueberry shock virus
+
+Blueberry stunt phytoplasma
+
+Xylella fastidiosa
 
 Blueberry shock virus
 
@@ -512,29 +602,53 @@ Blueberry stunt phytoplasma
 
 Vaccinium altomontanum Blueberry shock virus
 
-Vaccinium amoenum Blueberry stunt phytoplasma
+Blueberry stunt phytoplasma
 
-Blueberry shock virus
+Xylella fastidiosa
+
+Vaccinium amoenum Blueberry shock virus
+
+Blueberry stunt phytoplasma
+
+Xylella fastidiosa
 
 Vaccinium atrococcum Blueberry shock virus
+
+Blueberry stunt phytoplasma
+
+Xylella fastidiosa
 
 Vaccinium ashei Reade Blueberry shock virus
 
 (Arándano Ojo de Conejo) Blueberry stunt phytoplasma
 
+Xylella fastidiosa
+
 Vaccinium elliottii Blueberry shock virus
+
+Blueberry stunt phytoplasma
+
+Xylella fastidiosa
 
 Vaccinium myrtilloides Blueberry shock virus
 
+Blueberry stunt phytoplasma
+
+Xylella fastidiosa
+
 Vaccinium stamineum Blueberry shock virus
 
-Vaccinium macrocarpon Sin Declaración Adicional
+Blueberry stunt phytoplasma
 
-(Cranberry) Blueberry shock virus
+Xylella fastidiosa
 
-Vaccinium vitis-idaea
+Vaccinium macrocarpon Blueberry shock virus
 
-(Lingonberry) Blueberry shock virus
+(Cranberry) Xylella fastidiosa
+
+Vaccinium vitis-idaea Blueberry shock virus
+
+(Lingonberry) Xylella fastidiosa
 
 Vitis spp. Grapevine flavescence
 
@@ -542,17 +656,19 @@ Vitis spp. Grapevine flavescence
 
 Xylella fastidiosa
 
-Juglans californica,
+Juglans californica,Xylella fastidiosa
 
-Juglans Sin Declaración Adicional
+Juglans cinerea Xylella fastidiosa
 
-cinerea, Juglans
+Juglans hindsii Xylella fastidiosa
 
-hindsii,
+Juglans major Xylella fastidiosa
 
-Juglans major,
+Juglans nigra Xylella fastidiosa
 
-Juglans nigra.
+Juglans regia (Nogal) Cherry leaf roll virus (CLRV)
+
+Xylella fastidiosa
 
 Prunus cerasus X
 
@@ -601,6 +717,8 @@ Peach yellows phytoplasma
 Plum pox virus (PPV)
 
 Xylella fastidiosa
+
+Olea europea (Olivo) Xylella fastidiosa
 
 CULTIVOS Y HORTALIZAS:
 
@@ -670,7 +788,7 @@ Solanum tuberosum Potato spindle tuber viroid
 
 Brassica oleracea var.
 
-botrytis Sin declaraciones adicionales
+botrytis Xylella fastidiosa
 
 Cichorium endivia Sin declaraciones adicionales
 
@@ -694,7 +812,7 @@ FORESTALES :
 
 Especie Fitopatógenos a Certificar
 
-Acer spp. Sin Declaración Adicional
+Acer spp. Xylella fastidiosa
 
 (Acer)
 
@@ -706,15 +824,23 @@ Eucalyptus spp. Sin Declaración Adicional
 
 (Eucalipto)
 
-Liquidambar spp. Sin Declaración Adicional
+Liquidambar spp. Xylella fastidiosa
 
 (Liquidambar)
+
+Liquidambar spp. excepto Sin Declaración Adicional
+
+Liquidambar styraciflua Xylella fastidiosa
 
 Paulownia spp. Sin Declaración Adicional
 
 (Paulonia)
 
-Pinus radiata Sin Declaración Adicional
+Pinus rad
+
+Pinus taeda Xytella fastidiosa
+
+iata Sin Declaración Adicional
 
 (Pino insigne)
 
@@ -730,8 +856,6 @@ Sequoia sempervirens Sin Declaración Adicional
 
 (Sequoia)
 
-Pinus taeda Sin Declaración Adicional
-
 ORNAMENTALES :
 
 A. CON DECLARACION ADICIONAL:
@@ -742,9 +866,21 @@ Dianthus spp. Carnation ringpot virus
 
 (CRSV)
 
+Magnolia grandiflora Xylella fastidiosa
+
 Miltoniopsis Cymbidium mosaic virus
 
+Morus alba, Morus nigra, Xylella fastidiosa
+
+Morus rubra
+
+Nandina domestica Xylella fastidiosa
+
 phalaenopsis Odontoglossum ringspot virus
+
+Pelargonium graveolens, Xylella fastidiosa
+
+Pelargonium hortorum
 
 Zigopelatum Cymbium mosaic virus
 
@@ -753,6 +889,10 @@ brachypetalum Odontoglossum ringspot virus
 Aronia melanocarpa Apple stem grooving virus
 
 (ASGV)
+
+Verbena lotoralis Xylella fastidiosa
+
+Vinca spp. Xylella fastidiosa
 
 B. SIN DECLARACION ADICIONAL:
 
@@ -770,11 +910,19 @@ Catasetum spp. (Orquídea) Lycaste spp. (Orquídea)
 
 Cattleya spp. (Orquídea) Magnolia spp. (Magnolia)
 
+Magnolia spp. excepto Magnolia
+
+grandiflora (Magnolia)
+
 Chrysanthemun Miscanthus x giganteus
 
 morifolium,
 
 Ch. frutescens, Morus spp. (Morera)
+
+Morus spp. excepto Morus alba,
+
+Morus nigra, Morus rubra (Morera)
 
 Ch. parthenium,
 
@@ -801,6 +949,10 @@ Dahlia spp. (Dalia) Petunia spp. (Petunia)
 Dendrobium spp.
 
 (Orquídea) Phalaenopsis spp. (Orquídea)
+
+Pelargonium spp, excepto Pelargonium
+
+graveolens, Pelargonium hortorum
 
 Disa spp. (Orquídea) Phychopsis spp. (Orquídea)
 
@@ -1016,7 +1168,23 @@ Plumpox virus (PPV).
 
 Scilla spp Sin declaración adicional
 
+Lavandula spp. excepto Lavandula Sin Declaraciones Adicionales
+
+angustifolia, Lavandula
+
+dentata, Lavandula stoechas
+
+(Lavándula)
+
+Lanadula angustifolia, Lavandula dentata, Xylella fastidiosa
+
+Lavandula stoechas
+
+Verbena spp.excepto Verbena lotoralis Sin Declaraciones Adicionales
+
 5. En caso de envíos que procedan de países que se encuentren libres de alguna de las plagas establecida para la especie, no será necesario cumplir con el número 4.3 para esa plaga y bastará como Declaración Adicional, que la autoridad fitosanitaria competente del país de origen indique en el Certificado Fitosanitario, que dicha plaga no tiene reporte en el país.
+
+5.1 En caso de envíos que procedan de países que de acuerdo a su sistema de vigilancia se encuentran libres de Xylella fastidiosa, no será necesario cumplir con el número 4.3 para esa plaga y bastará como Declaración Adicional, que la autoridad fitosanitaria competente del país de origen indique en el Certificado Fitosanitario, que "Las plantas se encuentran libres de Xylella fastidiosa, de acuerdo a los resultados de acciones de vigilancia llevadas a cabo en (indicar país)
 
 6. El ingreso de aquellas especies no incluidas en la presente resolución requerirá, a solicitud del interesado, de la emisión de un permiso de importación, el que se otorgará mediante una resolución exenta específica para el envío. Este ingreso quedará sujeto en lo general, a todo lo establecido en la presente resolución y, en lo específico, a lo que determine el Análisis de Riesgo de Plagas.
 
@@ -1027,6 +1195,12 @@ Para aquellos híbridos en que al menos una de las especies que lo constituyen n
 8. Cumplirán con Nivel de Cuarentena Posentrada para Material Vegetal como Cultivo de Tejido In Vitro aquellos envíos correspondientes a las especies vegetales que requieren Declaración Adicional como condición de ingreso, previa emisión de la resolución que autoriza Cuarentena Posentrada.
 
 Se entenderá por Cuarentena Posentrada para Material Vegetal como Cultivo de Tejido In Vitro (Cuarentena In Vitro) al Nivel de Cuarentena Posentrada aplicada a un envío correspondiente a material vegetal producido bajo técnicas de cultivo in vitro, que contemple Declaraciones Adicionales que requieran verificación fitosanitaria mediante técnicas específicas de laboratorio y que al momento del ingreso mantienen esta condición in vitro. Estos ingresarán a una Estación Cuarentenaria 2 o 3, en un lugar presentado por el Importador y autorizado por el Servicio, hasta que éste compruebe, mediante técnicas de diagnóstico oficial, la ausencia de las plagas solicitadas como Declaración Adicional.
+
+8.1 Las especies cuyo patógeno a certificar sea Xylella fastidiosa, deberán cumplir con la medida de Cuarentena Posentrada (in vitro y ex vitro), las que serán autorizadas mediante resolución caso a caso, de acuerdo a lo establecido en las resoluciones del proceso de Cuarentena de Posentrada.
+
+8.2 La duración del período de cuarentena ex vitro dependerá del tiempo necesario para que el material vegetal alcance el desarrollo vegetativo adecuado y necesario para realizar las pruebas de diagnóstico de laboratorio para la detección de Xylella fastidiosa.
+
+8.3 La medida de Cuarentena Posentrada ex vitro establecida en resuelvo N° 8.1, de la presente resolución, será exigible para los envíos que ingresen a contar del 1 de abril de 2019.
 
 9. La Cuarentena In Vitro deberá ingresar y establecerse en una Estación Cuarentenaria 3, correspondiente a un laboratorio de cultivo in vitro, o a una Estación Cuarentenaria 2, correspondiente a fase de aclimatación en invernadero, dando cumplimiento para este último caso con las condiciones descritas en la resolución que establece regulaciones para ingreso de material vegetal a Nivel de Cuarentena Posentrada Predial, con excepción al área de seguridad, aplicable, en este caso, al aislamiento requerido respecto de especies fitosanitariamente afines, de acuerdo a lo definido por el Servicio.
 
