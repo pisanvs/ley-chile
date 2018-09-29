@@ -62,9 +62,7 @@ a) Ficha de Presentación de la Copropiedad.
 
 b) Ficha de Diagnóstico Constructivo firmado por un Ingeniero Civil o Ingeniero Constructor. Este diagnóstico debe abordar la calidad de suelo salino, calidad y cumplimiento normativo de instalaciones sanitarias respecto a la Norma Chilena NCh3394/2016, antigüedad del condominio y afectación de elementos estructurales por asentamiento de suelo por disolución de sales o socavones.
 
-c) Proyecto de nuevas instalaciones sanitarias en cumplimiento a la Norma Chilena NCh3394/2016, firmadas por un instalador sanitario acorde al perfil definido en el RIDAA (Reglamento de Instalaciones Domiciliarias de Agua Potable y de Alcantarillado) y registro de la SISS (Superintendencia de Servicios Sanitarios).
-
-d) Ficha de Diagnóstico Socio jurídico, firmado por un profesional perteneciente al ámbito de las Ciencias Sociales.
+c) Eliminado.
 
 e) Plano del Conjunto Habitacional, archivado en el Conservador de Bienes Raíces respectivo. Si por caso fortuito o de fuerza mayor, debidamente justificado, dicho plano no se encontrara en el archivo, excepcionalmente se podrá acompañar un plano visado por el Director de Obras Municipales. De presentarse expedientes de copropiedades pertenecientes al mismo Conjunto Habitacional, se podrá adjuntar una sola copia de este documento, singularizando cada una de las copropiedades representadas.
 
@@ -86,7 +84,17 @@ k) Contrato o compromiso con un PSAT, firmado por el representante legal de la c
 
 7.- Los postulantes serán seleccionados por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo (Seremi), mediante resoluciones, a partir de los procesos dispuestos para ese fin, de acuerdo a los siguientes plazos:
 
-.
+Hitos del proceso Fecha
+
+Plazo máximo de calificación 5 de noviembre de 2018
+
+de proyectos Serviu
+
+Período de digitalización en 6 al 9 de noviembre de 2018
+
+Sistema Rukan
+
+Plazo máximo de selección 30 de noviembre de 2018
 
 El proceso de selección empleará las etapas que describe el Párrafo XI, del DS Nº 255 (V. y U.), de 2006, y únicamente podrán digitarse en el Sistema RUKAN los proyectos previamente calificados por Serviu.
 
