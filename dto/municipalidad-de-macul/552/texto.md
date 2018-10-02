@@ -1694,6 +1694,122 @@ aumentarse el coeficiente de ocupación del suelo
 
 hasta 0.7 en los dos primeros pisos.
 
+. ZM-6 - ZONA RESIDENCIAL MIXTA, DENSIDAD MEDIA
+
+USOS PERMITIDOS:
+
+. RESIDENCIAL
+
+.
+
+. ÁREAS VERDES - ESPACIO PÚBLICO.
+
+. EQUIPAMIENTO:
+
+TIPOS:
+
+.
+
+USOS PROHIBIDOS:
+
+. EQUIPAMIENTOS
+
+TIPOS:
+
+.
+
+. ACTIVIDADES PRODUCTIVAS:
+
+. INDUSTRIAL DE TODO TIPO, TALLERES Y ALMACENAMIENTO. . TALLERES MOLESTOS CALIFICADOS POR MINSAL.
+
+. INFRAESTRUCTURA:
+
+. TRANSPORTES
+
+. SANITARIA
+
+. ENERGÉTICA
+
+. TODOS AQUELLOS NO INDICADOS COMO PERMITIDOS.
+
+CUADRO DE NORMAS URBANÍSTICAS:
+
+Vivienda:
+
+.
+
+Equipamiento:
+
+.
+
+LOTEOS Y SUBDIVISIONES:
+
+.
+
+DISPOSICIONES COMPLEMENTARIAS:
+
+- Densidad bruta máxima: 650 hab/ha.
+
+- Todos los proyectos que se desarrollen en las proximidades de líneas de alta tensión deberán cumplir con los distanciamientos establecidos en el artículo 26º de la Ordenanza Local del P.R.C. de Macul (AR-3).
+
+ZM-7 ZONA RESIDENCIAL MIXTA, DENSIDAD MEDIA
+
+USOS PERMITIDOS:
+
+. RESIDENCIAL
+
+.
+
+. ÁREAS VERDES - ESPACIO PÚBLICO.
+
+. EQUIPAMIENTO:
+
+TIPOS:
+
+.
+
+USOS PROHIBIDOS:
+
+. EQUIPAMIENTOS
+
+TIPOS:
+
+.
+
+. ACTIVIDADES PRODUCTIVAS:
+
+. INDUSTRIAL DE TODO TIPO, TALLERES Y ALMACENAMIENTO. . TALLERES MOLESTOS CALIFICADOS POR MINSAL.
+
+. INFRAESTRUCTURA
+
+. TRANSPORTES
+
+. SANITARIA
+
+. ENERGÉTICA
+
+. TODOS AQUELLOS NO INDICADOS COMO PERMITIDOS.
+
+CUADRO DE NORMAS URBANÍSTICAS:
+
+Vivienda:
+
+.
+
+Equipamiento:
+
+.
+
+LOTEOS Y SUBDIVISIONES:
+
+.
+
+DISPOSICIONES COMPLEMENTARIAS:
+
+- Densidad bruta máxima: 450 hab/ha.
+
+- Todos los proyectos que se desarrollen en las proximidades de líneas de alta tensión deberán cumplir con los distanciamientos establecidos en el artículo 26º de la Ordenanza Local del P.R.C. de Macul (AR-3).
+
 ZR-6 - ZONA RESIDENCIAL, DENSIDAD BAJA
 
 Usos permitidos:
@@ -1887,6 +2003,60 @@ DISPOSICIONES COMPLEMENTARIAS:
 -- Todos los proyectos que se desarrollen dentro de los límites de las áreas de restricción de aeródromos graficadas en el plano PRMAC-1, deberán ceñirse además a lo dispuesto en el artículo 26º de la ordenanza local del P.R.C de Macul. (AR-2).
 
 -- Todos los proyectos que se desarrollen en las proximidades de líneas de alta tensión deberán cumplir con los distanciamientos establecidos en el artículo 26º de la ordenanza local del P.R.C. de Macul. (AR-3).
+
+ZR-8 - ZONA RESIDENCIAL, DENSIDAD BAJA
+
+USOS PERMITIDOS:
+
+. RESIDENCIAL
+
+.
+
+. ÁREAS VERDES - ESPACIO PÚBLICO.
+
+. EQUIPAMIENTO:
+
+TIPOS:
+
+.
+
+USOS PROHIBIDOS:
+
+. EQUIPAMIENTOS
+
+TIPOS:
+
+.
+
+. ACTIVIDADES PRODUCTIVAS:
+
+. INDUSTRIAL DE TODO TIPO, TALLERES Y ALMACENAMIENTO. . TALLERES MOLESTOS CALIFICADOS POR MINSAL.
+
+. INFRAESTRUCTURA:
+
+. TRANSPORTES
+
+. SANITARIA
+
+. ENERGÉTICA
+
+. TODOS AQUELLOS NO INDICADOS COMO PERMITIDOS.
+
+CUADRO DE NORMAS URBANÍSTICAS:
+
+.
+
+LOTEOS Y SUBDIVISIONES:
+
+.
+
+DISPOSICIONES COMPLEMENTARIAS:
+
+- Densidad bruta máxima: 100 hab/ha.
+
+- Los dos pisos de altura indicados, incluyen éstos más la mansarda, la que deberá corresponder a la habilitación de la techumbre, considerándose ésta como un piso más, debiendo cumplir con todo el resto de la reglamentación.
+
+- Todos los proyectos que se desarrollen en las proximidades de líneas de alta tensión deberán cumplir con los distanciamientos establecidos en el artículo 26º de la Ordenanza Local del P.R.C. de Macul (AR-3).
 
 ZI e - ZONA INDUSTRIAL EXCLUSIVA
 
@@ -2970,6 +3140,50 @@ VER CUADRO EN DIARIO OFICIAL DE 08.05.2004, PÁGINA
 
 12.
 
+ZE-C - ZONA DE EQUIPAMIENTO COMUNAL
+
+USOS PERMITIDOS:
+
+. ÁREAS VERDES - ESPACIO PÚBLICO.
+
+. EQUIPAMIENTO:
+
+TIPOS:
+
+.
+
+USOS PROHIBIDOS:
+
+. RESIDENCIA
+
+. EQUIPAMIENTOS
+
+TIPOS:
+
+.
+
+. ACTIVIDADES PRODUCTIVAS:
+
+. INDUSTRIAL DE TODO TIPO, TALLERES Y ALMACENAMIENTO. . TALLERES MOLESTOS CALIFICADOS POR MINSAL.
+
+. INFRAESTRUCTURA:
+
+.TRANSPORTES
+
+. SANITARIA
+
+. ENERGÉTICA
+
+. TODOS AQUELLOS NO INDICADOS COMO PERMITIDOS.
+
+CUADRO DE NORMAS URBANÍSTICAS:
+
+.
+
+LOTEOS Y SUBDIVISIONES:
+
+.
+
 ZE-d ZONAS DE Equipamiento ReCREACIONAL y dePORTIVO
 
 Corresponde a las siguientes:
@@ -3557,3 +3771,7 @@ ASESORIA URBANA
 > **Nota.** NOTA 5 El artículo único del N° 2 del Decreto 1111, Municipalidad de Macul, publicado el 23.07.2010, modifica la presente norma, en el sentido de incorporar en las Zonas de Equipamiento Recreacional y Deportivo Comunal, ZE-dc, diversas modificaciones, las que no fueron incorporadas por razones técnicas.
 
 > **Nota.** NOTA 6 El numeral 1 del Artículo Único del Nº 2 del Decreto 1408, Municipalidad de Macul, publicado el 28.06.2013, modifica la presente norma, en el sentido de reemplazar las características de la vía Luis Durand, en el tramo ubicado entre Av. El Líbano y Av. Macul, por los dos nuevos tramos que la citada norma indica.
+
+> **Nota.** NOTA 7 El numeral 1° del Decreto 2516, Municipalidad de Macul, publicado el 06.10.2017, modifica la presente norma en el sentido de postergar por un período de tres meses los permisos de subdivisión, loteo o urbanización predial y de construcciones, sobre 2 pisos de altura, de los predios comprendidos en el sector graficado en el Plano M-PRMAC-Sector Centro Oriente - 01/2017, dentro del área del Polígono (A-B-C-D-E-F-A). elaborado por la Asesoría Urbana del Municipio, correspondiente al sector de la Modificación, conformado por la Av. Macul, Los Olmos, Ramón Cruz Montt, Madreselvas y Av. Américo Vespucio, de las Unidades Vecinales Nos 6. 7, 8, 9, 13, 14, 15 y 16 de la comuna de Macul.
+
+> **Nota.** NOTA 8 El numeral 2.1.1 del Artículo Único del Decreto 2422, Municipalidad de Macul, publicado el 02.10.2018, modifican el presente artículo en el sentido de modificar el cuadro de Vialidad Estructurante, reemplazando las características de la vía Arturo Gozalvez, en el tramo ubicado entre Av. El Líbano y Av. Maculde de la manera que la citada norma indica.
