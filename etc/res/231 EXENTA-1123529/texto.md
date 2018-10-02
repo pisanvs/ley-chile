@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL "GALPÓN DE ENCALADO DE LODOS CABRERO"
+
+De conformidad a lo dispuesto en el artículo 95 e inciso final del artículo 91 del DS (MA) N° 40/2013 (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Galpón de Encalado de Lodos Cabrero", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Biodiversa S.A., que por resolución exenta N° 231, de fecha 20 de agosto de 2018, la Comisión de Evaluación de la Región del Biobío calificó favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Director Ejecutivo, de conformidad al artículo 20 de la ley N° 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA de Biobío, ubicadas en Lincoyán N° 145, Concepción, en la Ilustre Municipalidad de Cabrero, ubicada en calle Las Delicias N° 355, segundo piso, comuna de Cabrero, en horarios de oficina. Además podrá accederse a la resolución indicada, a través del sitio web www.sea.gob.cl.-
+
+Marcela Núñez Rodríguez, Secretaria (S) Comisión de Evaluación Región del Biobío.
