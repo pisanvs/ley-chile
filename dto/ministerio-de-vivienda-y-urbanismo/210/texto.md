@@ -10,8 +10,6 @@ Decreto:
 
 > **Nota.** NOTA 1 El Decreto 2264, Municipalidad de Renca, publicada el 29.08.2009, modifica el Plan Regulador Comunal de Renca, aprobado por la presente norma, en el sector denominado Seccional Viña La Primavera y aprueba el Plano Seccional del Plan Regulador Comunal de Renca sector calle Los Helechos y Las Margaritas loteo Hijuela 4 del loteo industrial Viña La Primavera, plano P.S.H.4-01 relativo a modificar el actual uso de suelo del predio fijado por la poligonal 1-2-3-4-1, a uso de suelo y normas urbanísticas correspondientes a zona residencial mixta (RM), contenidas en la Ordenanza Local del Plan Regulador Comunal de Renca, definidas en sus artículos 7º, 11º y 24º.
 
-> **Nota.** NOTA 2 El artículo único del Decreto 1267, Municipalidad de Renca, publicada 23.09.2021, modifica la presente norma en el sentido de disponer por un periodo de tres meses, la postergación selectiva de permisos de subdivisiones, loteo, o urbanización predial y de construcciones de las Zonas A, B, C y D, de esas 4 Zonas, divididas en 17 polígonos, del Plan Regulador Comuna de Renca, según los que indica la citada norma.
-
 #### Artículo 1°
 
 Apruébase el Plan Regulador Comunal de Renca, en conformidad a lo establecido en la Memoria Explicativa, el Estudio de Factibilidad de Agua Potabley Alcantarillado, la Ordenanza Local y el Plano PRR-82-1, denominado "Plano Regulador de Renca, confeccionado a escala 1:5.000, documentos que por el presente decreto se aprueban.
