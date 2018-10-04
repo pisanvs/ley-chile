@@ -226,7 +226,7 @@ Para el transporte de personas:
 
 Clase A-1: Para conducir taxis.
 
-Clase A-2: Para conducir indistintamente taxis, ambulancias o vehículos motorizados de transporte público y privado de personas con capacidad de diez a diecisiete asientos, excluido el conductor.
+Clase A-2: Para conducir indistintamente taxis, ambulancias o vehículos motorizados de transporte público y privado de personas con capacidad de diez a diecisiete asientos, excluido el conductor, o de hasta treinta y dos asientos, cuando se haya estado en posesión de esta licencia por, a lo menos, dos años y siempre que el largo del vehículo no exceda los nueve metros.
 
 Clase A-3: Para conducir indistintamente taxis, vehículos de transporte remunerado de escolares, ambulancias o vehículos motorizados de transporte público y privado de personas sin limitación de capacidad de asientos.
 
