@@ -20,6 +20,8 @@ Presentado el recurso, el Tribunal examinará en cuenta si ha sido interpuesto e
 
 En los casos en que el recurrido sea un organismo público, bastará la notificación al jefe local del servicio o a su representante en el territorio jurisdiccional respectivo.
 
+Asimismo, y bajo las mismas condiciones señaladas en el inciso primero, la Corte de Apelaciones podrá solicitar informe a los terceros que, en su concepto, pudieren resultar afectados por la sentencia de protección.
+
 Recibido el informe y los antecedentes requeridos, o sin ellos, el Tribunal ordenará traer los autos en relación y dispondrá agregar extraordinariamente la causa a la tabla del día subsiguiente, previo sorteo, en las Cortes de Apelaciones de más de una Sala.
 
 Los oficios que fueren necesarios para el cumplimiento de las diligencias decretadas se despacharán por comunicación directa, por correo o por cualquier medio electrónico; a través de las Oficinas del Estado o por medio de un ministro de fe. El Tribunal cuando lo juzgue conveniente para los fines del recurso, podrá decretar orden de no innovar.
