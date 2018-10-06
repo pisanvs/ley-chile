@@ -52,7 +52,7 @@ Resolución:
 
 2. Los cierres de las postulaciones de este llamado serán los meses de abril y septiembre, pudiendo cada Serviu definir en cuáles de estas selecciones participará.
 
-Sólo podrán participar de estas selecciones las familias con proyectos calificados hasta el último día hábil del mes correspondiente al cierre de postulación.
+Sólo podrán participar de estas selecciones las familias con proyectos calificados hasta el último día hábil del mes de abril y hasta el 12 de octubre.
 
 En el caso de Proyectos de Acondicionamiento Térmico de Viviendas para viviendas ubicadas en zonas con Planes de Descontaminación Atmosférica, además de las postulaciones en las fechas señaladas precedentemente, podrán postular en los meses de agosto y octubre, los proyectos de este tipo que estén calificados antes del último día hábil del mes correspondiente al cierre de la postulación.
 
