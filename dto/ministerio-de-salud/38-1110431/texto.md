@@ -88,13 +88,29 @@ Otórganse a la Subsecretaría de Salud Pública y a las Secretarías Regionales
 
 #### Artículo 5
 
+Otórgase a los Directores de los Servicios de Salud Araucanía Norte, Araucanía Sur, Valdivia, Osorno, de Reloncaví y Chiloé, facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
+
+1. Contratar personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados y capacitación del personal que se requieran desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
+
+2. Adquirir bienes en forma directa, o contratar en la misma forma servicios, equipamiento e insumos necesarios para el manejo de esta urgencia, incluyendo servicios relativos a las campañas comunicacionales que se estime pertinente realizar, adquisiciones y contratos que de acuerdo a lo establecido en el artículo 8°, letra c) de la ley N° 19.886, quedarán liberadas de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl.
+
+3. Disponer la realización de trabajos extraordinarios al personal que percibe la asignación de turno, de conformidad con el artículo 95 del decreto con fuerza de ley N°1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979, y de las leyes N° 18.933 y N° 18.469.
+
+4. Redistribuir y reasignar servicios clínicos y unidades de apoyo de la Red Asistencial de Salud de su dependencia.
+
+5. Autorizar a funcionarios de sus respectivas dependencias para que, en el cumplimiento de sus funciones, de forma temporal y sin rendir caución en los términos establecidos en el artículo 7 del decreto ley N° 799, de 1974, usen vehículos de propiedad del Servicio de Salud.
+
+Las facultades señaladas en los números 1, 2 y 3 de este artículo deberán ser ejercidas previa autorización del Subsecretario de Redes Asistenciales.
+
+#### Artículo 6
+
 Todos los servicios públicos y demás órganos de la Administración del Estado, en el ámbito de sus respectivas competencias, y otras entidades públicas o privadas deberán proporcionar la colaboración y ejecutar las acciones que les requieran las autoridades de salud, referidas en los artículos anteriores, para el cumplimiento de las facultades extraordinarias que se otorgan en virtud del presente acto y tomar las demás acciones que dichas autoridades estimen necesarias para enfrentar la emergencia.
 
 Todo lo anterior de conformidad con lo señalado en los convenios que previamente se hayan celebrado o corresponda celebrar con las entidades privadas, en los casos que la prestación de sus servicios sea necesaria.
 
-#### Artículo 6
+#### Artículo 7
 
-Los efectos del presente decreto regirán hasta el día 19 de septiembre de 2018, sin perjuicio de prorrogarlo si las condiciones sanitarias se mantienen.
+Los efectos del presente decreto regirán hasta el día 31 de mayo de 2019, sin perjuicio de prorrogarlo si las condiciones sanitarias se mantienen.
 
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Carmen Castillo Taucher, Ministra de Salud.
 
