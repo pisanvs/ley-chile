@@ -366,7 +366,7 @@ a) Elemento mixto: Para determinar el monto a recibir por cada universidad estat
 
 1.- Aporte Artículo 3° DFL (Ed) N° 4, de 1981 (AFI), 2016: Para cada universidad se considerará el mismo monto que les haya sido asignado por concepto de AFI 2016, de acuerdo al decreto N° 5, de 2016, del Ministerio de Educación, y sus modificaciones, reajustado en un 3%.
 
-2.- Nuevas Universidades Estatales Regionales, creadas por la ley N° 20.842: A cada una de las nuevas universidades regionales, creadas a través de la ley N° 20.842, se le asignarán M$150.000.
+2.- Nuevas Universidades Estatales Regionales, creadas por la ley N° 20.842: A cada una de las nuevas universidades regionales, creadas a través de la ley N° 20.842, se le asignarán M$ 800.000.
 
 3.- Universidades tutoras de nuevas universidades, creadas por la Ley N° 20.842: A las universidades que hayan sido designadas, mediante el acto administrativo correspondiente, como tutoras de una nueva universidad estatal creada por la Ley N° 20.842, se les asignarán M$200.000 por cada universidad tutelada.
 
@@ -386,7 +386,7 @@ a.4.- El monto correspondiente a cada universidad beneficiaria se obtendrá de l
 
 b. Acreditación Institucional:
 
-b.1.- En primer lugar, de acuerdo a la información proporcionada por el sitio web de la Comisión Nacional de Acreditación al 31 de diciembre del año anterior al cálculo, se determinará:
+b.1.- En primer lugar, de acuerdo a la información proporcionada por la Comisión Nacional de Acreditación al 31 de diciembre del año anterior al cálculo, se determinará:
 
 - El número de universidades beneficiarias que cuenten con acreditación en el área de Investigación, conforme a lo establecido en la Ley N° 20.129.
 
@@ -422,7 +422,7 @@ c.4.- El monto correspondiente a cada universidad beneficiaria se obtendrá medi
 
 d. Programas de Doctorado Acreditados:
 
-d.1.- En primer lugar, de acuerdo a la información proporcionada por el sitio web de la Comisión Nacional de Acreditación, se determinará el número de programas de doctorado propios de la universidad beneficiaria, acreditados en conformidad a lo establecido en la Ley N° 20.129, al 31 de diciembre del año anterior al cálculo.
+d.1.- En primer lugar, de acuerdo a la información proporcionada por la Comisión Nacional de Acreditación, se determinará el número de programas de doctorado propios de la universidad beneficiaria, acreditados en conformidad a lo establecido en la Ley N° 20.129, al 31 de diciembre del año anterior al cálculo.
 
 Para efectos de realizar el cálculo anterior, se considerarán también aquellos programas de doctorado que la universidad beneficiaria tenga en calidad de asociada con otra institución de educación superior, y que cuenten con una acreditación de cinco (5) o más años, de acuerdo a lo establecido en la Ley N° 20.129.
 
@@ -456,7 +456,7 @@ f.4.- El monto correspondiente a cada universidad beneficiaria se obtendrá medi
 
 El monto total que a cada universidad beneficiaria le corresponderá por concepto de "Complejidad Institucional", se determinará mediante la suma de los montos obtenidos por ésta en los literales a, b, c, d, e y f del presente numeral.
 
-b) Elemento Mejoramiento de las Pedagogías: El monto total a distribuir por el presente elemento será de M$8.000.000, los que se asignarán de acuerdo a los siguientes parámetros:
+b) Elemento Mejoramiento de las Pedagogías: El monto total a distribuir por el presente elemento será de M$8.400.000, los que se asignarán de acuerdo a los siguientes parámetros:
 
 1. Universidades con Oferta de Pregrado de Pedagogías:
 
@@ -470,7 +470,7 @@ Para determinar el monto a distribuir para cada universidad beneficiaria, se cal
 
 a.- Promedio de años de acreditación de Programas de pregrado de Pedagogía de las universidades beneficiarias:
 
-a.1.- En primer lugar, para cada universidad beneficiaria que cuente con programas de pregrado de pedagogía, se identificarán aquellos programas de pregrado de pedagogía que se encuentren acreditados al 31 de diciembre y que cuenten con ingreso a primer año, ambos en el año anterior al cálculo de la presente fórmula, de acuerdo a la Base de Matrícula del SIES y a la información proporcionada por el sitio web de la Comisión Nacional de Acreditación, respectivamente.
+a.1.- En primer lugar, para cada universidad beneficiaria que cuente con programas de pregrado de pedagogía, se identificarán aquellos programas de pregrado de pedagogía que se encuentren acreditados al 31 de diciembre y que cuenten con ingreso a primer año, ambos en el año anterior al cálculo de la presente fórmula, de acuerdo a la Base de Matrícula del SIES y a la información proporcionada por la Comisión Nacional de Acreditación, respectivamente.
 
 a.2.- En segundo lugar, se sumarán los años de acreditación de los programas identificados en el punto anterior, para cada universidad beneficiaria.
 
@@ -558,7 +558,7 @@ e. Postgrado en educación acreditados y no acreditados en las universidades ben
 
 e.1.- En primer lugar, para cada universidad beneficiaria que cuente con programas de postgrado de pedagogía, esto es, programas de Magíster y/o programas de Doctorado, se identificarán aquellos programas de postgrado de pedagogía que cuenten con ingreso a primer año en modalidad presencial en el año anterior al presente cálculo, de acuerdo a la Base de Matrícula del SIES.
 
-e.2.- En segundo lugar, de los programas de postgrado anteriormente mencionados, se identificarán aquellos que se encuentren acreditados al 31 de diciembre del año anterior al cálculo, de acuerdo a la información proporcionada por el sitio web de la Comisión Nacional de Acreditación.
+e.2.- En segundo lugar, de los programas de postgrado anteriormente mencionados, se identificarán aquellos que se encuentren acreditados al 31 de diciembre del año anterior al cálculo, de acuerdo a la información proporcionada por la Comisión Nacional de Acreditación.
 
 e.3.- En tercer lugar, se sumarán los programas identificados de acuerdo al punto e.2.
 
@@ -708,13 +708,13 @@ h. Plazos de ejecución y vigencia.
 
 Objeto
 
-El presente Título tiene por objeto financiar programas del Ministerio de Educación destinados a que la acreditación institucional de las Universidades del Estado alcance, mantenga o mejore los niveles a los que se refiere el párrafo segundo de la glosa 07 del Programa 09.01.29.
+El presente Título tiene por objeto financiar programas del Ministerio de Educación destinados a que la acreditación institucional de las Universidades del Estado alcance, mantenga o mejore los niveles a los que se refiere el párrafo segundo de la glosa 09 del Programa 09.01.29.
 
 #### Artículo 6°
 
 Distribución de los recursos
 
-Se distribuirán M$2.500.000, en partes iguales, entre las universidades del Estado cuya acreditación institucional, de acuerdo a la Ley N° 20.129, sea inferior a cuatro años.
+Se distribuirán M$2.565.000, en partes iguales, entre las universidades del Estado cuya acreditación institucional, de acuerdo a la Ley N° 20.129, sea inferior a cuatro años.
 
 Para efectos del presente Artículo, se considerará el nivel de acreditación institucional vigente al 30 de septiembre del año anterior al cálculo.
 
