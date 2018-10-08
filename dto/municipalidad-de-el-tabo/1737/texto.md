@@ -24,9 +24,7 @@ Considerando:
 
 Decreto:
 
-1. Apruébese la "Enmienda Zona Z3 del Plano Regulador Comunal El Tabo para el Lote A-1 Avenida Las Salinas, Las Cruces". En conformidad al Art. 45 inciso segundo numeral 3 de la Ley General de Urbanismo y Construcciones y a lo indicado en el inciso cuarto del Art. 2.1.13 de la Ordenanza General de Urbanismo y Construcciones (OGUC) en lo referido a la letra a) que indica:
-
-Incrementar o disminuir hasta en un 20% la altura y la densidad.
+1. Apruébese la Enmienda Zona Z3, del Plan Regulador Comunal El Tabo, calle Pedro Pablo González Nº 792, Las Cruces. En conformidad al Art. 45 inciso segundo numeral 3 de la Ley General de Urbanismo y Construcciones y a lo indicado en el inciso cuarto del Art. 2.1.13 de la Ordenanza General de Urbanismo y Construcciones (OGUC) en lo referido a la letra a) que indica: Incrementar o disminuir hasta en un 20% la altura y la densidad.
 
 ### 2. Dicha enmienda será parte integrante del Plano Regulador y su Ordenanza
 
