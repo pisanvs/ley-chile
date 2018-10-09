@@ -1,0 +1,39 @@
+MODIFICA DECRETO SUPREMO N° 29, DE 2013, DEL MINISTERIO DE DESARROLLO SOCIAL, QUE APRUEBA REGLAMENTO DEL ARTÍCULO 4° DE LA LEY N° 20.595, QUE CREA EL INGRESO ÉTICO FAMILIAR QUE ESTABLECE BONOS Y TRANSFERENCIAS CONDICIONADAS PARA LAS FAMILIAS DE POBREZA EXTREMA Y CREA SUBSIDIO AL EMPLEO DE LA MUJER
+
+Santiago, 10 de agosto de 2018.- Hoy se decretó lo que sigue:
+
+Núm. 61.
+
+Visto:
+
+Lo dispuesto en los artículos 32 N° 6 y 35 de la Constitución Política de la República; en el decreto con fuerza de ley N° 1/19.653, de 2000, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley N° 20.379, que Crea el Sistema Intersectorial de Protección Social e Institucionaliza el Subsistema de Protección Integral a la Infancia "Chile Crece Contigo"; en la ley N° 20.530, que crea el Ministerio de Desarrollo Social y modifica cuerpos legales que indica y sus modificaciones; en la ley N° 20.595, que Crea el Ingreso Ético Familiar que Establece Bonos y Transferencias Condicionadas para las Familias de Pobreza Extrema y Crea Subsidio al Empleo de la Mujer; en el decreto supremo N° 29, de 2013, del Ministerio de Desarrollo Social, que Aprueba Reglamento del Artículo 4° de la ley N° 20.595, sobre otros usuarios del Subsistema de Protección y Promoción Social "Seguridades y Oportunidades" modificado por el decreto supremo N° 41, de 2016, del Ministerio de Desarrollo Social, Subsecretaría de Servicios Sociales; en el decreto supremo N° 22, de 2015, del Ministerio de Desarrollo Social, que Aprueba Reglamento del Artículo 5° de la ley N° 20.379 y del Artículo 3° letra f) de la ley N° 20.530; en la resolución N° 1.600, de 2008, de la Contraloría General de la República; y en las demás normas aplicables.
+
+Considerando:
+
+Que, la ley N° 20.530 que crea el Ministerio de Desarrollo Social y modifica los cuerpos legales que indica, en su artículo 1° establece que este Ministerio es la Secretaría de Estado encargada de colaborar con el Presidente de la República en el diseño y aplicación de políticas, planes, y programas en materia de equidad y/o desarrollo social, especialmente aquellas destinadas a erradicar la pobreza y brindar protección social a las personas o grupos vulnerables, promoviendo la movilidad e integración social y la participación con igualdad de oportunidades en la vida nacional.
+
+Que, por su parte, la ley N° 20.595, que Crea el Ingreso Ético Familiar que Establece Bonos y Transferencias Condicionadas para las Familias de Pobreza Extrema y crea Subsidio al Empleo de la Mujer, creó el Subsistema de Protección y Promoción Social denominado "Seguridades y Oportunidades", en adelante "el Subsistema", destinado a personas y familias vulnerables por encontrarse en situación de pobreza extrema.
+
+Que, el artículo 4° del cuerpo legal referido, ha establecido que también podrán acceder al Subsistema las personas y sus familias, cuando corresponda, que se encuentren en situación de vulnerabilidad por cumplir con cualquiera de las siguientes condiciones: (a) Tener 65 o más años de edad, vivir solo o con una persona y estar en situación de pobreza. Para la calificación de condición de pobreza no se considerarán los beneficios que le hayan sido otorgados de conformidad a la ley N°20.255; (b) Las personas en situación de calle; y (c) Los menores de edad, cuyo adulto significativo se encuentre privado de libertad. También serán beneficiarios los cuidadores de tales menores.
+
+Que, acorde, con lo dispuesto en el inciso tercero del artículo referido, mediante decreto supremo N° 29, de 2013, del Ministerio de Desarrollo Social, Subsecretaría de Servicios Sociales, se aprobó Reglamento del Artículo 4° de la ley N° 20.595, sobre otros usuarios del Subsistema de Protección Social y Promoción "Seguridades y Oportunidades" a objeto de precisar los casos y formas en que las personas y las familias referidas en el artículo 4 de la ley N° 20.595 ingresarían al Subsistema Seguridades y Oportunidades.
+
+Que, el referido reglamento fue modificado en el inciso segundo del Artículo Único de la Disposición Transitoria Final, mediante decreto supremo N° 41, de 2016, del Ministerio de Desarrollo Social, Subsecretaría de Servicios Sociales, con el propósito de extender para los años 2016 y 2017 la posibilidad de ingresar al Subsistema niños, niñas y adolescentes en situación de calle, para ser usuarios de aquél, en la medida que el modelo de intervención que se aplique respecto de ellos tenga por finalidad proteger los derechos de dichas personas o esté destinado a prevenir, reparar o mitigar su vulneración.
+
+Que, por su parte, el Ministerio de Desarrollo Social, durante el presente año ha liderado el Acuerdo Nacional por la Infancia, el cual constituye el resultado de un espacio de diálogo entre actores pertenecientes a órganos públicos, incluyendo a integrantes del Poder Legislativo, e integrantes de organizaciones de la sociedad civil, con el propósito de relevar tareas prioritarias en la conducción y ejecución de políticas, planes y programas con miras a lograr la adecuada protección que merecen los niños, niñas y adolescentes, especialmente de aquellos que se encuentran en situaciones de vulnerabilidad.
+
+Que, en este ámbito, el Ministerio de Desarrollo Social, reconoce la necesidad de continuar con estrategias de intervención especializada respecto de los niños, niñas y adolescentes en situación de calle en el marco del Subsistema Seguridades y Oportunidades, a efectos de incorporarlos como usuarios del mismo, para que desde la mirada del Sistema Intersectorial de Promoción y Protección Social, y en particular desde el objetivo del Subsistema señalado, se realicen las acciones y otorguen las prestaciones ejecutadas y coordinadas intersectorialmente por distintos organismos del Estado que permitan a dichos niños, niñas y adolescentes mejorar sus condiciones de vida, a partir de la revalorización personal, promoción y restitución de sus derechos, la re-construcción afectiva con el vínculo familiar, así como re-sociabilización con el medio, especialmente con el escolar y el acceso a la oferta pública en materia de salud.
+
+Que, atendido lo precedentemente expuesto, además de la Minuta Técnica del Programa Calle acompañada al memorándum electrónico N° 4804/2018, del Jefe de la División de Promoción y Protección Social de la Subsecretaría de Servicios Sociales del Ministerio de Desarrollo Social, que se adjunta a este acto y que avala la continuidad en la ejecución de un modelo de intervención en el marco del Subsistema Seguridades y Oportunidades para niños, niñas y adolescentes en situación de calle en coordinación con la red intersectorial de protección social; por tanto,
+
+Decreto:
+
+1°.- Modifícase el decreto supremo N° 29, de 2013, del Ministerio de Desarrollo Social, que aprobó el Reglamento del Artículo 4° de la ley N° 20.595, sobre otros usuarios del Subsistema de Protección Social y Promoción "Seguridades y Oportunidades", en el siguiente sentido:
+
+Sustitúyase en el inciso segundo de su artículo único transitorio la frase "Durante los años 2013, 2014, 2016 y 2017", por el siguiente texto nuevo: "Durante los años 2013, 2014, 2016, 2017, 2018, 2019 y 2020".
+
+2°.- En todo lo no modificado por el presente acto, permanecerá vigente lo dispuesto en el decreto supremo N° 29, de 2013, del Ministerio de Desarrollo Social, Subsecretaría de Servicios Sociales.
+
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Alfredo Moreno Charme, Ministro de Desarrollo Social.
+
+Lo que comunico a Ud. para su conocimiento.- Sebastián Villarreal Bardet, Subsecretario de Servicios Sociales.
