@@ -20428,7 +20428,7 @@ En ese sentido, revelan una buena gestión, por ejemplo, situaciones o hechos ta
 
 - La entidad ha desarrollado una metodología formal de evaluación de impacto del negocio (BIA), que considera los criterios necesarios para identificar los procesos de mayor criticidad y determinar los tiempos de recuperación objetivo (RTO) definidos por la entidad, este último con la aprobación de su Directorio. Asimismo, efectúa un análisis de los riesgos de continuidad del negocio de aquellos procesos identificados con mayor criticidad (RIA), a fin de mitigar su impacto o disminuir su probabilidad de ocurrencia. Dichos análisis son realizados al menos con periodicidad anual.
 
-- La entidad considera como mínimo los escenarios de contingencia referidos a: la falta total y parcial de los sistemas tecnológicos; la ausencia de personal crítico; la imposibilidad de acceder y/o utilizar las instalaciones físicas y la falta de provisión de los servicios críticos contratados a proveedores. Además, de acuerdo con su propio perfil de riesgo, considera otros escenarios de contingencia que la puedan afectar. Todo lo anterior se encuentra debidamente formalizado en la respectiva política.
+- La entidad considera como mínimo los escenarios de contingencia referidos a: la falta total y parcial de los sistemas tecnológicos; ataques maliciosos que afecten la ciberseguridad; la ausencia de personal crítico; la imposibilidad de acceder y/o utilizar las instalaciones físicas y la falta de provisión de los servicios críticos contratados a proveedores. Además, de acuerdo con su propio perfil de riesgo, considera otros escenarios de contingencia que la puedan afectar. Todo lo anterior se encuentra debidamente formalizado en la respectiva política.
 
 - Para aquellos procesos críticos la entidad tiene planes documentados de contingencia operativos y de recuperación ante desastres, que le permiten responder a la materialización de los escenarios de contingencia definidos, los que se actualizan al menos anualmente. Asimismo, cuenta con adecuados procedimientos para restaurar y volver a las actividades normales del negocio después de superada la contingencia.
 
@@ -20454,7 +20454,7 @@ Uno de los aspectos relevantes que contribuyen a fortalecer la resiliencia opera
 
 - Los centros de procesamiento de datos, ya sea principal o de contingencia, se encuentran permanentemente homologados en la infraestructura tecnológica y versiones de software, y operando preferentemente en modalidad activo-activo.
 
-- El diseño y construcción de los sitios de procesamiento de datos se encuentran certificados por una entidad especializada e independiente.
+- El diseño, la construcción y la operación de los sitios de procesamiento de datos se encuentran certificados por una entidad especializada e independiente.
 
 - La infraestructura de los sitios de procesamiento de datos tienen la capacidad, en cuanto a energía, refrigeración y mantenimiento, para alcanzar una disponibilidad de operación de al menos 99,98% o downtime de 1,6 horas anuales.
 
