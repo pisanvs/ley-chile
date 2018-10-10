@@ -22,7 +22,7 @@ Resuelvo:
 
 #### Artículo 1°
 
-Declárase como de desempeño de excelencia para los años 2018 y 2019 y, en consecuencia, beneficiarios de la subvención establecida en el artículo 15 de la ley Nº 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizados en el listado contenido en el archivo con firma electrónica avanzada del CD con folio Nº 01/2018-2019, firmado por el Jefe de la División de Educación General, que se acompaña en anexo y que forma parte integrante de la presente resolución.
+Declárase como de desempeño de excelencia para los años 2018 y 2019 y, en consecuencia, beneficiarios de la subvención establecida en el artículo 15 de la ley Nº 19.410, a los siguientes establecimientos educacionales subvencionados que se individualizados en los listados contenidos en los archivos con firma electrónica avanzada del CD con folio Nº 01/2018-2019 y del CD con folio Nº 02/2018, ambos firmados por el Jefe de la División de Educación General, que se acompañan en anexo y que forman parte integrante de la presente resolución.
 
 #### Artículo 2°
 
@@ -42,6 +42,6 @@ Téngase presente que la transferencia que se devengue para el año 2019, quedar
 
 #### Artículo 6°
 
-Por razones de economía, eficiencia y de buen servicio, el anexo que contiene la nómina de establecimientos educacionales subvencionados beneficiarios de la subvención por desempeño de excelencia será distribuido en formato digital, por medio de una copia del CD con folio N° 01/2018-2019 a que refiere el artículo 1°.
+Por razones de economía, eficiencia y de buen servicio, el anexo que contiene la nómina de establecimientos educacionales subvencionados beneficiarios de la subvención por desempeño de excelencia será distribuido en formato digital, por medio de una copia de los CD con folios Nº 01/2018-2019 y Nº 02/2018 a los que se refiere el Artículo 1º del presente acto administrativo.
 
 Anótese y comuníquese.- Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
