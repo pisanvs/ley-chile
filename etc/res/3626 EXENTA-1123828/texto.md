@@ -1,0 +1,9 @@
+REQUISITOS Y OBLIGACIONES QUE DEBERÁN CUMPLIR LOS ORGANISMOS DE INSPECCIÓN Y ORGANISMOS CALIBRADORES DE ESTANQUES QUE ASISTIRÁN AL SERVICIO NACIONAL DE ADUANAS EN LOS PROCESOS DE MEDICIÓN, TOMA DE MUESTRA Y CALIBRACIÓN DE ESTANQUES DE GRANELES LÍQUIDOS
+
+Mediante resolución exenta N° 3.626, de 17 de agosto de 2018, del Director Nacional de Aduanas, se incorporó, como Apéndice XV al Capítulo III del Compendio de Normas Aduaneras, los requisitos y obligaciones que deberán cumplir los organismos de inspección y organismos calibradores de estanques que asistirán al Servicio Nacional de Aduanas en los procesos de medición, toma de muestra y calibración de estanques de graneles líquidos, y el proceso para su certificación y renovación; modificándose la resolución N° 1.300, de 2006, del Director Nacional de Aduanas, publicada en el Diario Oficial de 17.11.2008, que fijó el texto del Compendio de Normas Aduaneras.
+
+La señalada resolución se dicta de conformidad con lo dispuesto en el artículo 23 ter del decreto con fuerza de ley N° 30, de 2004, del Ministerio de Hacienda, que aprueba el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 213, de 1953, del Ministerio de Hacienda, sobre Ordenanza de Aduanas; y el decreto supremo N° 32, de 18.01.2018, del Ministerio de Hacienda, que aprueba el reglamento que establece los requisitos y obligaciones que deberán cumplir las personas que asistirán al Servicio Nacional de Aduanas en los procesos a que se refiere el artículo 23 ter de la Ordenanza de Aduanas.
+
+El texto íntegro de esta resolución se encuentra publicado en el sitio web del Servicio Nacional de Aduanas (www.aduana.cl).-
+
+Pablo Ibáñez Beltrami, Director Nacional de Aduanas (S).
