@@ -58,6 +58,4 @@ El numeral 1 de la Resolución 340 Exenta, Transportes, publicada el 11.10.2016,
 
 > **Nota.** NOTA 13 El numeral 1° de la Resolución 542 Exenta, Transportes, publicada el 11.10.2018, prorroga la vigencia de la presente norma a partir del 1º de octubre de 2018 y hasta el 30 de septiembre de 2019, ambas fechas inclusive.
 
-> **Nota.** NOTA 14 El numeral 1° de la Resolución 454 Exenta, Transportes, publicada el 18.10.2018, prorroga la vigencia de la presente norma a partir del 1° de octubre de 2019 y hasta el 30 de septiembre de 2020, ambas fechas inclusive.
-
 Anótese y publíquese.- Claudio Vásquez Fernández, Secretario Regional Ministerial Transportes y Telecomunicaciones VIII Región del Bío Bío.
