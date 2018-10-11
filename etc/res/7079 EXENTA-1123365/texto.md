@@ -42,9 +42,11 @@ b) "Observado": expedientes observados por el Serviu que se encuentren con respu
 
 c) "Aprobado": expedientes aprobados en el sistema informático al 29 de septiembre de 2017, los que podrán actualizar información y/o documentación conforme al procedimiento definido en el numeral II.5 de la circular Nº 27.
 
+Podrán participar a un tercer y último proceso de selección, aquellos postulantes con expedientes aprobados, que hayan participado hasta en dos procesos de selección considerando los Llamados realizados en los años 2016 y 2017, y no hubieren resultado seleccionados, para lo cual el Director de Serviu deberá informar mediante oficio, al día siguiente al cierre del Llamado, al Jefe de División de Política Habitacional, la nómina de expedientes que hayan dado cumplimiento a lo establecido en el inciso final del artículo 41 del DS Nº 10 (V. y U.), de 2015.
+
 La selección se efectuará con aquellos expedientes aprobados por Serviu hasta la fecha de cierre del Llamado y hasta agotar los recursos citados en el resuelvo número 21 de la presente resolución.
 
-2. El Llamado regulado por la presente resolución, se abrirá al día siguiente de su publicación en el Diario Oficial y será cerrado el 5 de octubre del año en curso.
+2. El Llamado regulado por la presente resolución, se abrirá al día siguiente de su publicación en el Diario Oficial y será cerrado el 19 de octubre del año en curso.
 
 3. Podrán participar familias residentes de localidades rurales o urbanas con menos de 5.000 habitantes, de acuerdo a los datos demográficos que consigna el Censo de Población y Vivienda del año 2002, condición que se verificará a partir del domicilio acreditado en el Registro Social de Hogares, y siempre que cuenten con asesoría otorgada por Entidades de Gestión Rural con Convenio Regional de Asistencia Técnica vigente.
 
@@ -54,7 +56,7 @@ Para todos los efectos a que haya lugar, se considerará como residencia del pos
 
 5. Los postulantes que participen en este llamado no deberán presentar Declaración de Núcleo Familiar, a que alude el artículo 23 letra f) del DS Nº 10 (V. y U.) de 2015. Para todos los efectos, se entenderá como grupo familiar del titular de la postulación, al total de integrantes individualizados en el Registro Social de Hogares.
 
-6. El ahorro mínimo exigido en el artículo 11 del DS Nº 10 (V. y U.), 2015, se deberá acreditar a más tardar el 27 de septiembre del año en curso.
+6. El ahorro exigido en el Artículo 11 del DS Nº 10 (V. y U.) de 2015, deberá ser acreditado conforme se establece en el artículo 13, calculado al valor UF de fecha 27 de septiembre de 2018.
 
 7. Para efectos de dar cumplimiento a lo establecido en el inciso primero de los numerales 2.1 relativo a la Organización de la Demanda, Acreditación del Terreno y Presentación del Expediente de Postulación y 2.4 relativo al Plan de Acompañamiento Técnico Social, ambos del artículo 2º la resolución exenta Nº 3.131 de fecha 16 de mayo de 2016, citada en el visto e) de la presente resolución, formará parte de los antecedentes que integran el Expediente de Postulación que regula el artículo 34 del DS Nº 10 (V. y U.) de 2015, el Formulario Nº 6.1 "Diagnóstico Técnico Social", versión 2017, que será proporcionado por el Serviu.
 
@@ -68,11 +70,11 @@ Para todos los efectos a que haya lugar, se considerará como residencia del pos
 
 Del monto de subsidio
 
-12. Para efectos de la asignación de recursos en este Llamado, se entenderá por subsidio, aquel que corresponde al monto de subsidio base más el monto del factor multiplicador por condición del aislamiento, definido en la resolución exenta Nº 3.130 (V. y U.) de 2016.
+12. Para efectos de la asignación de recursos en este Llamado, se entenderá por subsidio, aquel que corresponde al monto de subsidio base más el monto del factor multiplicador por condición del aislamiento, definido en la resolución exenta Nº 3.130 (V. y U.) de 2016. Al que se adicionará el subsidio complementario de discapacidad si corresponde.
 
 13. Para efectos de la postulación correspondiente a la tipología Construcción de Recintos Complementarios, independientemente del número de recintos que se desee construir, el monto máximo del subsidio base al cual se podrá acceder, será de hasta 120 UF. Respecto a la Tipología Mejoramiento del Entorno Inmediato, las familias que opten por desarrollar este tipo de proyectos no podrán destinar recursos a la construcción de cierros perimetrales, portones u obras de similares características.
 
-14. Los subsidios complementarios que podrán aplicar los postulantes al presente Llamado corresponden a los indicados en las letras a), c), d) y e) del artículo 10 del DS Nº 10 (V. y U.) de 2015 y sus modificaciones. Los subsidios complementarios, deberán ser solicitados al momento de presentar el proyecto definitivo a Serviu y serán otorgados siempre que sean debidamente justificados, en un presupuesto separado, fundamentado y detallado.
+14. Los subsidios complementarios que podrán aplicar los postulantes al presente Llamado corresponden a los indicados en las letras a), c), d) y e) del artículo 10 del DS Nº 10 (V. y U.) de 2015 y sus modificaciones. Los subsidios complementarios, deberán ser solicitados al momento de presentar el proyecto definitivo a Serviu y serán otorgados siempre que sean debidamente justificados, en un presupuesto separado, fundamentado y detallado. Sin perjuicio de lo anterior, el subsidio complementario para personas con discapacidad, debe solicitarse junto al subsidio base al momento de postulación de dichas familias.
 
 15. Para efectos del subsidio complementario mencionado en la letra c) del artículo 10 del DS Nº 10 (V. y U.), 2015, correspondiente a requerimientos arquitectónicos locales, en el caso de la tipología de proyectos de Ampliación de Vivienda Existente, podrá considerarse un valor máximo y único de hasta 30 UF, independiente del número de ampliaciones que se trate. Este subsidio complementario sólo podrá aplicarse si los elementos arquitectónicos que se pretende financiar, se encuentran presentes en la vivienda original, salvo que dicho subsidio se aplique también a la vivienda existente.
 
@@ -97,6 +99,8 @@ Recursos disponibles
 .
 
 Nota: Todas las referencias hechas a la Región de Ñuble en el presente llamado se entenderán aplicables a contar del 6 de septiembre de 2018, fecha en que entra en vigencia la ley 21.033 que Crea la Región de Ñuble y las Provincias de Diguillín, Punilla e Itata. Para efectos del presente Llamado, podrán presentar postulaciones de familias que residan en la Región de Ñuble las Entidades de Gestión Rural que tengan Convenio Marco Regional vigente con la Seremi de la Región del Biobío.
+
+Los recursos indicados en el cuadro anterior, podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2018, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por tipología de proyecto y/o por región, de acuerdo a la necesidad de cada región.
 
 23. El número de postulantes seleccionados alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
 
