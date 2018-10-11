@@ -40,9 +40,11 @@ b) "Observado": expedientes observados por el Serviu que se encuentren con respu
 
 c) "Aprobado": expedientes aprobados en el sistema informático al 29 de septiembre de 2017, los que podrán actualizar información y/o documentación conforme al procedimiento definido en el numeral II.5 de la circular N° 27.
 
+Podrán participar a un tercer y último proceso de selección, aquellos postulantes con expedientes aprobados, que hayan participado hasta en dos procesos de selección considerando los Llamados realizados en los años 2016 y 2017, y no hubieren resultado seleccionados, para lo cual el Director de Serviu deberá informar mediante oficio al Jefe de División de Política Habitacional, la nómina de expedientes que hayan dado cumplimiento a lo establecido en el inciso final del artículo 41 del DS Nº 10 (V. y U.), de 2015.
+
 La selección se efectuará con aquellos expedientes aprobados por Serviu hasta la fecha de cierre del presente Llamado y hasta agotar los recursos contemplados en el resuelvo número 22 de la presente resolución.
 
-2. El llamado regulado por la presente resolución se abrirá al día siguiente de su publicación en el Diario Oficial y será cerrado el 5 de octubre del año en curso.
+2. El llamado regulado por la presente resolución se abrirá al día siguiente de su publicación en el Diario Oficial y será cerrado el 12 de octubre del año en curso.
 
 3. Podrán participar familias residentes de localidades rurales o urbanas con menos de 5 mil habitantes, de acuerdo a los datos demográficos que consigna el Censo de Población y Vivienda del año 2002, condición que se verificará a partir del domicilio acreditado en el Registro Social de Hogares, y siempre que cuenten con asesoría otorgada por Entidades de Gestión Rural con Convenio Regional de Asistencia Técnica vigente.
 
@@ -52,7 +54,7 @@ La selección se efectuará con aquellos expedientes aprobados por Serviu hasta 
 
 Para todos los efectos a que haya lugar, se considerará como residencia del postulante, el domicilio que se consigne en el Registro Social de Hogares.
 
-6. El ahorro mínimo exigido en el artículo 11 del DS N°10 (V. y U.) 2015, se deberá acreditar de conformidad con lo establecido en el artículo 13 del citado Reglamento, a más tardar el 27 de septiembre del año en curso.
+6. El ahorro exigido en el Artículo 11 del DS Nº 10 (V. y U.) de 2015, deberá ser acreditado conforme se establece en el artículo 13, calculado al valor UF de fecha 27 de septiembre de 2018.
 
 7. Para efectos de dar cumplimiento a lo establecido en el inciso primero de los numerales 2.1, relativo a la Organización de la Demanda, Acreditación del Terreno y Presentación del Expediente de Postulación y 2.4, relativo al Plan de Acompañamiento Técnico Social, ambos del artículo 2° de la resolución exenta N° 3.131 (V. y U.), de fecha 16 de mayo de 2016, citada en el visto d) de la presente resolución, formará parte de los antecedentes que integran el Expediente de Postulación que regula el artículo 34 del DS N° 10 (V. y U.) de 2015, el Formulario N° 6.1 "Diagnóstico Técnico Social", versión 2017, que será proporcionado por el Serviu.
 
@@ -66,7 +68,7 @@ Del monto de subsidio
 
 11. Para efectos de dar cumplimiento a lo establecido en el artículo 9 del DS N° 10 (V. y U.) de 2015, en lo relativo al valor máximo de la vivienda, una vez desarrollado el proyecto definitivo podrá incluir subsidios complementarios que sumados al subsidio base y al ahorro, no podrá superar las 1.400 UF. Para las comunas de Juan Fernández, Isla de Pascua, las comunas de las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y la Antártica Chilena, las comunas de la provincia de Palena en la Región de Los Lagos, y en las localidades de Isla Mocha e Isla Santa María de la Región del Biobío, este valor no podrá superar las 1.600 UF, incluyendo los montos de subsidio base, subsidios complementarios y ahorro. Lo anterior, sin perjuicio que, tratándose de viviendas a ejecutar en el área rural deberá estarse a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones, cuando corresponda.
 
-12. Para efectos de la asignación de recursos en este Llamado, se entenderá por subsidio aquel que corresponde al monto de subsidio base ajustado según el factor multiplicador por condición de aislamiento, calculados de conformidad con lo establecido en la resolución exenta citada en el Visto c) de la presente resolución. Los subsidios complementarios indicados en el artículo 10 del DS N° 10 (V. y U.) de 2015, deberán ser solicitados al momento de presentar el proyecto definitivo a Serviu y serán otorgados siempre que sean debidamente justificados, en un presupuesto separado, fundamentado y detallado.
+12. Para efectos de la asignación de recursos en este Llamado, se entenderá por subsidio aquel que corresponde al monto de subsidio base ajustado según el factor multiplicador por condición de aislamiento, calculados de conformidad con lo establecido en la resolución exenta citada en el Visto c) de la presente resolución. Los subsidios complementarios indicados en el artículo 10 del DS N° 10 (V. y U.) de 2015, deberán ser solicitados al momento de presentar el proyecto definitivo a Serviu y serán otorgados siempre que sean debidamente justificados, en un presupuesto separado, fundamentado y detallado. Sin perjuicio de lo anterior, el subsidio complementario para personas con discapacidad, debe solicitarse junto al subsidio base al momento de postulación de dichas familias
 
 13. Para efectos de la postulación a la tipología Construcción de Recintos Complementarios, a que se refiere el artículo 4, letra b) numeral iv, se podrá acceder a un monto total máximo de 120 UF, sin perjuicio del número de recintos adicionales que se desee construir.
 
@@ -92,17 +94,19 @@ De los proyectos definitivos
 
 Recursos disponibles
 
-21. Los recursos involucrados para la selección ascienden a un total de 983.700 UF y su distribución regional, según tipología, será la siguiente:
+21. Para efectos de dar cumplimiento a lo establecido en el numeral 3.2.1 de la resolución Nº 3.129 (V. y U.) de fecha 16 de mayo de 2016, en la determinación de la capacidad de soporte del terreno requerida para proyectos de la tipología construcción en sitio del residente, se podrá usar alternativamente a la calicata de 2,5 metros de profundidad, los parámetros establecidos en el artículo 5.7.10 de la Ordenanza General de Urbanismo y Construcciones, asumiendo la naturaleza de terreno denominada "Arcilla Húmeda" y estableciendo presiones admisibles de 0,5 kg/cm2. Las condiciones descritas para el desarrollo de los proyectos deberán estar estipuladas en el correspondiente Informe de Suelo suscrito por el profesional competente.
+
+22. Los recursos involucrados para la selección ascienden a un total de 1.106.500 UF y su distribución regional según tipología, será la siguiente:
 
 .
 
-* Todas las referencias hechas a la Región de Ñuble en el presente llamado se entenderán aplicables a contar del 6 de septiembre de 2018, fecha en que entra en vigencia la Ley 21.033, que Crea la Región de Ñuble y las provincias de Diguillín, Punilla e Itata.
+-Para efectos del presente Llamado podrán presentar postulaciones de familias que residan en la Región de Ñuble las Entidades de Gestión Rural que tengan Convenio Marco Regional vigente con la Seremi de la Región del Biobío.
 
-Para efectos del presente Llamado podrán presentar postulaciones de familias que residan en la Región de Ñuble las Entidades de Gestión Rural que tengan Convenio Marco Regional vigente con la Seremi de la Región del Biobío.
+Los recursos indicados en el cuadro anterior, podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2018, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por tipología de proyecto y/o por región, de acuerdo a la necesidad de cada región.
 
-22. El número de postulantes seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos regionales previstos en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
+23. El número de postulantes seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos regionales previstos en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
 
-23. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación nacional y en el sitio web del Minvu y del Serviu o de la Seremi Minvu respectiva.
+24. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación nacional y en el sitio web del Minvu y del Serviu o de la Seremi Minvu respectiva.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
