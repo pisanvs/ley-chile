@@ -112,7 +112,7 @@ Américo Vespucio hasta el límite urbano Norte;
 
 a través de Carretera General San Martín.
 
-. El tramo urbano de la Ruta 68, desde Pajaritos hasta el límite urbano Poniente; a través de Camino a Valparaíso.
+. El tramo urbano de la Ruta 68, desde 520 metros al Poniente del nudo Pajaritos (extremo Poniente de la pasarela peatonal Pajaritos) hasta el límite urbano Poniente; a través de Camino a Valparaíso".
 
 . El tramo urbano de la Ruta 70, en toda su extensión.
 
