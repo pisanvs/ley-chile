@@ -1,0 +1,9 @@
+REQUISITOS Y OBLIGACIONES QUE DEBERÁN CUMPLIR LOS ORGANISMOS DE INSPECCIÓN Y LABORATORIOS DE ENSAYO QUE ASISTIRÁN AL SERVICIO NACIONAL DE ADUANAS EN LOS PROCESOS DE DETERMINACIÓN DE PESO HÚMEDO, PORCENTAJE DE HUMEDAD, EXTRACCIÓN Y PREPARACIÓN DE MUESTRA COMPÓSITO PARA CALIDAD Y ANÁLISIS DE LOS ELEMENTOS Y/O COMPUESTOS PARA LA EXPORTACIÓN DE CONCENTRADO DE COBRE
+
+Mediante resolución exenta N° 3.624, de 17 de agosto de 2018, del Director Nacional de Aduanas, se reemplazó el Apéndice II del Capítulo IV del Compendio de Normas Aduaneras, por lo requisitos y obligaciones que deberán cumplir los organismos de inspección y laboratorios de ensayo que asistirán al Servicio Nacional de Aduanas en los procesos de determinación de peso húmedo, porcentaje de humedad, extracción y preparación de muestra compósito para calidad y análisis de los elementos y/o compuestos para la exportación de concentrado de cobre, y el proceso para su certificación y renovación; modificándose la resolución N° 1.300, de 2006, del Director Nacional de Aduanas, publicada en el Diario Oficial de 17.11.2008, que fijó el texto del Compendio de Normas Aduaneras.
+
+La señalada resolución se dicta de conformidad con lo dispuesto en el artículo 23 ter del decreto con fuerza de ley N° 30, de 2004, del Ministerio de Hacienda, que aprueba el texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 213, de 1953, del Ministerio de Hacienda, sobre Ordenanza de Aduanas; y, el decreto supremo N° 32, de 18.01.2018, del Ministerio de Hacienda, que aprueba el reglamento que establece los requisitos y obligaciones que deberán cumplir las personas que asistirán al Servicio Nacional de Aduanas en los procesos a que se refiere el artículo 23 ter de la Ordenanza de Aduanas.
+
+El texto íntegro de esta resolución se encuentra publicado en el sitio web del Servicio Nacional de Aduanas (www.aduana.cl).-
+
+Pablo Ibáñez Beltrami, Director Nacional de Aduanas (S).
