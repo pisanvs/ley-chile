@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL N° 0504-0030-0100027422, DEL BANCO BILBAO VIZCAYA ARGENTARIA (CHILE), SUCURSAL IQUIQUE, PARA LOS CENTROS DE ATENCIÓN PREVISIONAL INTEGRAL DEL INSTITUTO DE PREVISIÓN SOCIAL DE IQUIQUE Y ALTO HOSPICIO, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta N° 375, de 12 de septiembre de 2018, aprobada por la Superintendencia de Pensiones en oficio N° 21651, de fecha 1 de octubre de 2018, el Director Nacional del Instituto de Previsión Social, delega la facultad de girar cheques, retirar talonarios, cartolas, cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, del Banco Bilbao Vizcaya Argentaria (Chile), destinada al pago de beneficios previsionales y gastos de los Centros de Atención Previsional Integral Capri IPS Iquique y Alto Hospicio.
+
+Santiago, 5 de octubre de 2018.- Patricio Coronado Rojo, Director Nacional.
