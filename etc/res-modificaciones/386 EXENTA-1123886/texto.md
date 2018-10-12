@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN N° 315 EXENTA, DE 1 DE JULIO DE 2016, QUE APROBÓ ACUERDO PROTOCOLAR DE COLABORACIÓN PARA LA IMPLEMENTACIÓN Y DESARROLLO DEL PROGRAMA DE PREVENCIÓN DEL CONSUMO DE DROGAS Y ALCOHOL EN ESPACIOS LABORALES "TRABAJAR CON CALIDAD DE VIDA", SUSCRITO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y SENDA NACIONAL Y SENDA REGIÓN METROPOLITANA, EN EL SENTIDO QUE INDICA
+
+Por resolución exenta N° 386, de 21 de septiembre de 2018, el Director Nacional del Instituto de Previsión Social, modifica la resolución exenta N° 315, de 1 de julio de 2016, que aprueba el Acuerdo Protocolar de Colaboración para la Implementación y Desarrollo del Programa de Prevención del Consumo de Drogas y Alcohol en Espacios Laborales "Trabajar con Calidad de Vida" suscrito entre el Instituto de Previsión Social y Senda Nacional y Senda Región Metropolitana, en el sentido de designar como Administrador Suplente del Acuerdo a doña Paola Neira Mella, funcionaria del Subdepartamento de Calidad de Vida, dependiente del Departamento de Gestión y Desarrollo de Personas.
+
+Santiago, 5 de octubre de 2018.- Patricio Coronado Rojo, Director Nacional.
