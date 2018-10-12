@@ -1,0 +1,5 @@
+APRUEBA CONTRATOS BANCARIOS QUE INDICA, SUSCRITOS CON EL BANCO SCOTIABANK CHILE, APERTURA DE CUENTA CORRIENTE NÚMERO 975054562 Y DELEGA FACULTAD PARA OPERAR LA CITADA CUENTA CORRIENTE DEL NIVEL CENTRAL DEL INSTITUTO DE PREVISIÓN SOCIAL, ABIERTA EN LA OFICINA PRINCIPAL DE DICHA ENTIDAD BANCARIA, EN LOS FUNCIONARIOS DEL DEPARTAMENTO DE FINANZAS, QUE EJERCEN LOS CARGOS QUE SE INDICAN
+
+Por resolución exenta N° 366, de 31 de agosto de 2018, el Director Nacional del Instituto de Previsión Social, aprobó los contratos bancarios de adhesión que se individualizan, entre el Instituto de Previsión Social y el Banco Scotiabank Chile, para formalizar la apertura y operatividad de la cuenta corriente que se indica, denominada "IPS - Recaudación Previred Scotiabank", destinada al registro de los abonos por concepto de pago electrónico de cotizaciones previsionales que sus clientes realizan a través de Previred.
+
+Santiago, 5 de octubre de 2018.- Patricio Coronado Rojo, Director Nacional.
