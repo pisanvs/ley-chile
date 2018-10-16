@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1127 de 25 de septiembre de 2018, se modificó el numeral segundo del Decreto MOP (Exento) N° 719 de 8 de septiembre de 2016, que ordenó la expropiación, entre otros, del Lote N° 124, en la parte que se refiere al nombre del propietario y rol de avalúo, según certificado de avalúo emitido por el Servicio de Impuestos Internos, quedando como a continuación se indica: LOTE 124; FLORES CALDERÓN ROBERTO SEGUNDO, superficie 12 m2., rol de avalúo 124-26, Comuna de RÍO CLARO. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
