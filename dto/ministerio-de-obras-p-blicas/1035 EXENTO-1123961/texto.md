@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decretos Exentos MOP Nos 1033, 1034, 1035, 1036, 1037, 1038, 1039 y 1040 de 6 de septiembre de 2018, se tuvo por desistida la expropiación de los lotes Nos 48EL3, 52EL3, 55EL3, 49EL3, 45EL3, 44EL3, 50EL3 y 46EL3, para la obra: "PROYECTO EXTENSIÓN LÍNEA 3 SECTOR: AV. MANUEL ANTONIO MATTA", ordenada por Decretos Exentos MOP N° 1111, de 12 de septiembre de 2017 y Nos 1749, 1756, 1751, 1747, 1746, 1742 y 1745, todos de fecha 15 de diciembre 2017. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7° y 32° del Decreto Ley N° 2186, de 1978.
