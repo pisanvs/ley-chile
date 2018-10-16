@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.013 de fecha 26/06/2018, conforme al artículo 48 y 62 ley 19.880, de Serviu Región de la Araucanía, se ordenó la rectificación de la resolución Ex. Nº 4.676 de fecha 23 de noviembre de 2017 de Serviu Araucanía, que dispuso la expropiación del Lote 60-0, en el sentido que se omitió erradamente en su Resuelvo Nº 1, lo referente a los deslindes especiales, debiendo expresar en definitiva, adicionalmente, lo siguiente: "Deslindes particulares Lote 60 A a expropiar: Norte: en línea recta de 20 metros con Avenida Pedro de Valdivia; Sur: en línea recta de 19 metros y en línea recta de 2,7 metros con lote 60B-Saldo; Oriente: En línea quebrada de 3,1 metros y 7 metros con Lote 60B- Saldo, y Poniente: En línea recta de 13,6 metros con otros propietarios".-
+
+Director Serviu Región de la Araucanía.
