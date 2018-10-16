@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento Nº 1189 de 28 de septiembre de 2018, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno Nºs. 137, 138, 139 y 140, Rol de Avalúo 164-211, Comuna de Río Claro, superficies 1.168, 3.032, 535 y 381 m2. respectivamente, para la obra MEJORAMIENTO RUTA K-275, SECTOR LAS TRANCAS-PARQUE INGLES, COMUNA DE MOLINA Y RIO CLARO, PROVINCIA DE CURICO Y TALCA, REGION DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURÁN MARCOS, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó los valores de tasación con fecha 09 de noviembre de 2017, acordándose la indemnización con su propietario VICENTE ALFREDO ERBS GARCIA, en la cantidad de $33.296.841.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
