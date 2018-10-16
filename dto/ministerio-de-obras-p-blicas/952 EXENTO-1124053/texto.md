@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 952 de 30 de agosto de 2018, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno N°s. 102 y 103, Rol de avalúo 525-236, Comuna de Tirúa, superficies 684 y 470 m2. respectivamente, para la obra MEJORAMIENTO RUTA P-721; P-722 SECTOR TIRÚA - LONCOTRIPAY - LOS MAQUIS, COMUNA DE TIRÚA, PROVINCIA DE ARAUCO, REGIÓN DEL BIOBÍO. La comisión de peritos, integrada por VALESKA CAROLINA ALÉ GOÑI, GONZALO ANDRÉS SUAZO FIGUEROA y MARÍA PAMELA MAC-GUIRE ACEVEDO, fijó el valor de tasación con fecha 04 de febrero de 2017, acordándose la indemnización con su propietaria PASCUALA DEL CARMEN HERMOSILLA ALVEAR Y OTROS, en la cantidad de $3.523.322.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
