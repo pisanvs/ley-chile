@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 3.173 de fecha 05/10/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación del Lote Nº 118-0, consistente en Propiedad ubicada en esta ciudad, calle Pedro de Valdivia número cero mil doscientos noventa y ocho, que corresponde al sitio número dos del plano de subdivisión respectivo. Rol de avalúo 1361-2. Comuna de Temuco. La superficie a expropiar aproximada es de 159,22 metros cuadrados, de aparente dominio de don Manuel Segundo Huenchul Huircapan. Comisión de Peritos integrada señores Marcela Melo, Arquitecto, Constanza Mihovic, Constructor Civil y Alberto Arenas, Arquitecto, fijó monto de Indemnización Provisional en $88.649.416 según Informe Nº 118-0 de fecha 04/10/2018, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
