@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.130 de fecha 05/07/2018, conforme al artículo 48 y 62 ley 19.880, de Serviu Región de la Araucanía, se ordenó la rectificación de la resolución Ex. Nº 4.426 de fecha 6 de noviembre de 2017 de Serviu Araucanía, que dispuso la expropiación del Lote 42-0, en el sentido que por un error de digitación en su resuelvo Nº 1, donde se indica lo siguiente: "Deslindes especiales Lote Nº 42A a expropiar: Norte: en línea recta de 16 metros con lote saldo 42 B; Sur: en línea recta de 17 metros con Avenida Pedro de Valdivia; Oriente: En línea recta de 8,8 metros con lote vecino, y Poniente: en línea recta de 9,3 metros con lote vecino", correspondiendo expresar, en definitiva: "Deslindes especiales Lote Nº 42A a expropiar: Norte: en línea recta de 17 metros con lote saldo 42 B; Sur: en línea recta de 17 metros con Avenida Pedro de Valdivia; Oriente: En línea recta de 8,8 metros con lote vecino, y Poniente: en línea recta de 9,3 metros con lote vecino".-
+
+Director Serviu Región de la Araucanía.
