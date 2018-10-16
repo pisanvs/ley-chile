@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.012 de fecha 24/09/2018, conforme al artículo 48 y 62 ley 19.880, de Serviu Región de la Araucanía, se ordenó la rectificación de la resolución Ex. Nº 4.848 de fecha 6 de diciembre de 2017 de Serviu Araucanía, que dispuso la expropiación del Lote 39-0, en el sentido que por un error de digitación en su resuelvo Nº 1, donde se indicó lo siguiente: "Lote 39 A-UNO B: Norte: en una línea recta de 4,0 metros con lote 39 B-Uno B saldo; Oriente: En un línea recta de 8,5 metros con lote 39 A-Dos A A - A expropiar; Sur: en línea recta de 4,0 metros con Av. Pedro de Valdivia, Poniente: en línea recta de 8,5 metros con lote vecino", corresponde indicar, en definitiva: "Lote 39 A-UNO B: Norte: en una línea recta de 4,0 metros con lote 39 B - Uno B saldo; Oriente: En un línea recta de 8,5 metros con lote 39 A- Dos A expropiado; Sur: en línea recta de 4,0 metros con Av. Pedro de Valdivia, Poniente: en línea recta de 8,5 metros con lote vecino".-
+
+Director Serviu Región de la Araucanía.
