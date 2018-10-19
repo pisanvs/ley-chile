@@ -1,0 +1,7 @@
+AUTORIZA AL INSTITUTO DE FOMENTO PESQUERO PARA REALIZAR PESCA DE INVESTIGACIÓN QUE INDICA
+
+Por resolución exenta Nº 3.457, de 3 de octubre de 2018, de esta Subsecretaría, autorízase al Instituto de Fomento Pesquero, para efectuar una pesca de investigación de conformidad a los Términos Técnicos de Referencia del Proyecto denominado "Seguimiento in situ de áreas de pesca de Pulpo del Sur (Enteroctopus megalocyathus) en la Bahía de Ancud, Región de Los Lagos".
+
+La pesca de investigación se efectuará por el término de 7 meses, a partir del mes de octubre de 2018, cuya zona de estudio estará circunscrita al área marítimo-geográfica de la franja de reserva artesanal de aguas interiores de la comuna de Ancud, Región de Los Lagos, donde podrá extraer 180 ejemplares de Pulpo del sur, Enteroctopus megalocyathus, conforme a la metodología señalada en la resolución extractada y participará la embarcación "Farwest Leader". El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 3 de octubre de 2018.- Eduardo Riquelme Portilla, Subsecretario de Pesca y Acuicultura.
