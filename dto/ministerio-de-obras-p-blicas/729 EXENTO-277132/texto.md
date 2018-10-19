@@ -54,7 +54,7 @@ Camino Internacional en proyecto.
 
 Ruta G-30, Los Cerrillos - Calera de Tango - Lonquén. Desde Av. Américo Vespucio.
 
-Ruta G-34, Nos - Malloco y su continuidad al Oriente por Camino Internacional en proyecto. Desde Ruta 78.
+Ruta G-34, Cruce Ruta 5 (Paso Superior) - Nos - Malloco - Cruce Ruta 78, y su continuidad al Poniente por Av. Manuel Castillo hasta la Ruta G-78 y al Oriente por Camino Internacional en proyecto.
 
 Ruta G-132, Cruce Longitudinal - Polpaico.
 
@@ -97,6 +97,12 @@ Ruta G-74-F, Ruta G-78 - Bollenar - Cuesta Ibacache.
 Ruta G-505, Cruce Ruta G-51 - Linderos - Paine - Cruce Ruta 5.
 
 Ruta G-531, Cruce Ruta G-45-H - J.M. Balmaceda - Cruce G-505.
+
+Ruta G-76, Cruce G-68 (Santa Inés) - María Pinto - Cruce G-74-F (Bollenar).
+
+Ruta G-380, Cruce G-74-F (Bollenar) - Mallarauco - Cruce G-384 (Peñaflor).
+
+Ruta G-513, Cruce G-45-H (Alto Jahuel) - G-505 (Linderos).
 
 3º Declárense Caminos Públicos en el continuo urbano de la siguiente Metrópoli, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
@@ -144,7 +150,7 @@ Américo Vespucio hasta el límite urbano Surponiente; a través de Camino Lonqu
 
 . Nuevo Acceso Sur a Santiago, desde Av. Américo Vespucio hasta el límite urbano Sur; a través de: Av. La Serena (4 Oriente), Camino Internacional y Nuevo Enlace Vial.
 
-. Sistema Oriente Poniente; el Sistema Vial Urbano que interconecta las Rutas 68 y G-21 a través de: Costanera Sur Río Mapocho, nueva conexión vial, Costanera Norte Río Mapocho, Costanera Norte, nueva conexión vial a través de un túnel en el cauce del Río Mapocho, Costanera Norte Río Mapocho Av. Santa María, Av. La Dehesa, San Antonio y Av. Las Condes. Y desde Puente Lo Saldes hasta Av. Santa María, a través de Av. Kennedy y Camino Los Trapenses Oriente - Tabancura.
+. Sistema Oriente Poniente; el Sistema Vial Urbano que interconecta las Rutas 68 y G-21 a través de: Costanera Sur Río Mapocho, nueva conexión vial (puente sobre Río Mapocho antes de calle Lanalhue), Costanera Norte Río Mapocho hasta Av. La Dehesa (incluyendo el tramo en túnel bajo Río Mapocho desde Av. Fermín Vivaceta hasta Puente Lo Saldes), Av. La Dehesa hasta Av. Las Condes y Av. Las Condes hasta la Ruta G-21. También el tramo Av. Kennedy desde Lo Saldes hasta Av. Tabancura y el tramo de Av. Tabancura desde Av. Kennedy hasta Costanera Norte Río Mapocho.
 
 El sistema vial que interconecta Costanera Norte Río Mapocho (E6O) con Avenida Las Condes (E10O), a través de: Costanera Norte Río Mapocho (E6O) desde Avenida La Dehesa hasta Dos Poniente, nuevo puente sobre río Mapocho y San José de la Sierra.
 
