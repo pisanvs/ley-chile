@@ -136,7 +136,7 @@ El reglamento deberá señalar las normas de convivencia en el establecimiento, 
 
 El reglamento y sus modificaciones deberá estar publicado en el sitio web del establecimiento educacional o estar disponible en dicho recinto para los estudiantes, padres y apoderados.
 
-Sólo podrán aplicarse sanciones o medidas disciplinarias contenidas en el reglamento interno.
+Sólo podrán aplicarse sanciones o medidas disciplinarias contenidas en el reglamento interno. No obstante lo anterior, dicho reglamento no podrá establecer sanciones a los niños y niñas que cursen niveles de educación parvularia por infracciones a la convivencia, lo que no impedirá la adopción de medidas pedagógicas o formativas orientadas a desarrollar progresivamente en éstos empatía para la resolución de conflictos y comprensión de normas.
 
 Las disposiciones de los reglamentos internos que contravengan normas legales, se tendrán por no escritas y no podrán servir de fundamento para la aplicación de medidas por parte del establecimiento a conductas de los miembros de la comunidad educativa.
 
@@ -146,109 +146,183 @@ El sostenedor acompañará a la solicitud de reconocimiento oficial una relació
 
 También se acompañará una relación del personal asistente de la educación suficiente para atender las necesidades propias del establecimiento educacional, considerando el nivel y modalidad de educación que imparta el establecimiento y la cantidad de alumnos y alumnas que atienda.
 
-Los docentes, los habilitados conforme a la ley y el personal asistente de la educación deberán, además, poseer idoneidad moral, entendiéndose por tal no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicos o por la ley Nº 20.066 que sanciona la violencia intrafamiliar ni a la pena de inhabilitación establecida en el artículo 30 bis del Código Penal.
+Los docentes, los habilitados o autorizados conforme a la ley y el personal asistente de la educación que desempeñe funciones de carácter profesional, de paradocencia o de servicios auxiliares, deberán, además, poseer idoneidad moral, entendiéndose por tal no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicos o por la ley Nº 20.066 que sanciona la violencia intrafamiliar ni a la pena de inhabilitación establecida en el artículo 30 bis del Código Penal.
 
 #### Artículo 10
 
-Tratándose de la educación parvularia, se entenderá por docente idóneo al que cuente con el título de profesional de la educación del respectivo nivel y especialidad, cuando corresponda, o esté habilitado para ejercer la función docente según las normas legales vigentes.
+Tratándose de la educación parvularia, se entenderá por docente idóneo al que cuente con el título de profesional de la educación del respectivo nivel y especialidad, cuando corresponda, o esté habilitado o autorizado para ejercer la función docente según las normas legales vigentes.
 
 Los establecimientos educacionales que impartan educación parvularia deberán contar con el personal docente directivo, profesional, técnico pedagógico, de aula y asistente de la educación de conformidad a la siguiente relación:
 
-a) Para cada establecimiento educacional se
+a) Para cada establecimiento educacional
 
-exigirá un Coordinador o Coordinadora del Nivel
+se exigirá un Coordinador o
 
-Parvulario, cargo que podrá ser desempeñado por
+Coordinadora del Nivel Parvulario,
 
-algún profesional que ejerza otras funciones en
+cargo que podrá ser desempeñado
 
-dicho establecimiento. Cuando el establecimiento
+por un Educador o Educadora
 
-educacional imparta sólo educación parvularia,
+de Párvulos, o en su defecto,
 
-sólo se exigirá un Director o Directora, cargo
+por algún profesional de la
 
-que podrá ser ejercido por una de las educadoras
+educación con experiencia
 
-de párvulos de sala.
+en el Nivel Parvulario de la
 
-b) Para el nivel de sala cuna se exigirá una
+educación con experiencia en
 
-Educadora o Educador de Párvulos hasta 42
+el Nivel Parvulario que
 
-lactantes, distribuidos en dos grupos a lo menos,
+ejerza otras funciones en dicho
 
-y una Técnica o Técnico de Educación Parvularia
+establecimiento. Cuando el
 
-hasta 7 lactantes, debiendo aumentarse el
+establecimiento educacional
 
-personal a partir del lactante que excede
+imparta sólo educación parvularia,
 
-de dichas cifras. Asimismo, deberá tener
+sólo se exigirá un Director
 
-exclusivamente para este nivel una Manipuladora
+o Directora, cargo que podrá
 
-o Manipulador de Alimentos hasta 40 lactantes,
+ser ejercido por una de las
 
-debiendo aumentarse este personal a partir del
+educadoras de párvulos de
 
-lactante que excede de dicha cifra;
+sala, cuando el establecimiento
 
-c) Para el nivel medio menor se exigirá una
+esté constituido por un solo
 
-Educadora o Educador de Párvulos hasta 32 niños
+grupo de atención.
 
-o niñas y una Técnica o Técnico de educación
+b) Para el nivel de sala cuna
 
-parvularia hasta 25 niños o niñas, debiendo
+se exigirá una Educadora o
 
-aumentarse el personal a partir del niño o niña
+Educador de Párvulos hasta
 
-que excede de dichas cifras. Cada grupo podrá
+21 lactantes, y una Técnica o
 
-estar conformado por un máximo de 32 niños o
+Técnico de Educación Parvularia
 
-niñas.
+hasta 7 lactantes, debiendo
 
-d) Para el nivel medio mayor se exigirá una
+aumentarse el personal a partir
 
-Educadora o Educador de Párvulos y una Técnica o
+del lactante que excede de
 
-Técnico de Educación Parvularia hasta 32 niños o
+dichas cifras. Asimismo, deberá
 
-niñas, debiendo aumentarse el personal a partir
+tener exclusivamente para este
 
-del niño o niña que excede de dichas cifras. Cada
+nivel una Manipuladora o
 
-grupo podrá estar conformado por un máximo de 32
+Manipulador de Alimentos hasta
 
-niños o niñas.
+40 lactantes, debiendo aumentarse
 
-e) Para el primer nivel de transición se exigirá una
+este personal a partir del
 
-Educadora o Educador de Párvulos y una Técnica o
+lactante que excede de dicha
 
-Técnico de Educación Parvularia por grupo de
+cifra. Cada grupo podrá
 
-hasta 35 niños o niñas. Si el grupo es de hasta
+estar conformado por un
 
-10 niños, se exigirá sólo una Educadora o
+máximo de 21 lactantes;
+
+c) Para el nivel medio menor
+
+se exigirá una Educadora
+
+o Educador de Párvulos hasta 28
+
+niños o niñas y una Técnica
+
+o Técnico de educación parvularia
+
+hasta 14 niños o niñas, debiendo
+
+aumentarse el personal a partir
+
+del niño o niña que excede de
+
+dichas cifras. Cada grupo podrá
+
+estar conformado por un máximo
+
+de 32 niños o niñas.
+
+d) Para el nivel medio mayor
+
+se exigirá una Educadora o
+
+Educador de Párvulos hasta
+
+28 niñas o niños y una Técnica
+
+o Técnico de Educación Parvularia
+
+hasta 14 niñas o niños, debiendo
+
+aumentarse el personal a partir
+
+del niño o niña que excede de
+
+dichas cifras. Cada grupo podrá
+
+estar conformado por un máximo
+
+de 28 niñas o niños.
+
+e) Para el primer nivel de transición
+
+se exigirá una Educadora o Educador
+
+de Párvulos y una Técnica o Técnico
+
+de Educación Parvularia por grupo
+
+de hasta 35 niños o niñas. Si el
+
+grupo es de hasta 10 niños, se
+
+exigirá sólo una Educadora o
 
 Educador de Párvulos.
 
-f) Para el segundo nivel de transición se exigirá
+f) Para el segundo nivel de transición
 
-una Educadora o Educador de Párvulos y una
+se exigirá una Educadora o Educador
 
-Técnica o Técnico de Educación Parvularia hasta
+de Párvulos y una Técnica o Técnico
 
-45 niños o niñas. Si el grupo es de hasta 15
+de Educación Parvularia hasta 45
 
-niños, se exigirá sólo una Educadora o Educador
+niños o niñas. Si el grupo es de
 
-de Párvulos.
+hasta 15 niños, se exigirá sólo una
 
-Sin perjuicio de lo señalado en las letras b) a f) del presente artículo, los establecimientos educacionales que sólo atiendan alumnos de Educación Parvularia, y que estén constituidos por un único grupo de párvulos, siempre deberán contar con al menos un Educador y un Técnico de Educación Parvularia.
+Educadora o Educador de Párvulos.
+
+g) Los establecimientos
+
+educacionales deberán tener un
+
+auxiliar de servicios menores por
+
+grupo de hasta 100 niños o niñas,
+
+debiendo aumentarse dicho personal
+
+a partir del niño o niña que
+
+excede de dicha cifra.
+
+Sin perjuicio de lo señalado en las letras e) y f) del presente artículo, los establecimientos educacionales que sólo atiendan alumnos de Educación Parvularia, y que estén constituidos por un único grupo de párvulos, siempre deberán contar con al menos un Educador y un Técnico de Educación Parvularia.
 
 Para los grupos heterogéneos de párvulos el coeficiente de Educadoras o Educadores de Párvulos y de Técnicas o Técnicos de Educación Parvularia, y el número máximo de alumnos por grupo será el que corresponda aplicar al alumno de menor edad dentro del grupo.
 
@@ -256,31 +330,27 @@ El establecimiento educacional que entregue alimentación en los niveles medios,
 
 Además, los lactantes, niños y niñas deberán siempre estar atendidos directamente por personal de aula, el que deberá velar permanentemente por su integridad física y psíquica.
 
+Lo dispuesto en el presente artículo no será exigible a aquellos establecimientos de educación parvularia durante los periodos en que no presten la atención integral a la que alude el artículo 1 de la ley Nº 20.832.
+
+> **Nota.** El artículo segundo transitorio del Decreto 241, Educación, publicado el 20.10.2018, dispone que las modificaciones introducidas mediante el número 3) letras f) y g), del artículo único del citado decreto, serán exigibles a partir del 1 de enero del año 2022. Por otra parte, las modificaciones introducidas por el número 3) letras c) y d) del artículo único del citado decreto, serán exigibles a partir del 1 de enero del año 2024.
+
 #### Artículo 11
 
-El personal que se desempeñe en establecimientos educacionales que imparta educación parvularia cumplirá con la idoneidad exigida por la ley, cuando reúna los siguientes requisitos:
+El personal que se desempeñe en establecimientos educacionales que impartan educación parvularia cumplirá con la idoneidad exigida por la ley, cuando reúna los siguientes requisitos:
 
-Director, Directora o Coordinador o Coordinadora del Nivel Parvulario:
+a) Director, Directora: Contar con un título profesional otorgado por una Escuela Normal, Universidad o Instituto Profesional de Educación Superior estatal o reconocido oficialmente por el Estado.
 
-- Contar con un título profesional otorgado por una Escuela Normal, Universidad o Instituto Profesional de Educación Superior estatal o reconocido oficialmente por el Estado.
+b) Educador o Educadora de Párvulos: Contar con un título profesional de Educador o Educadora de Párvulos otorgado por una Escuela Normal, Universidad o Instituto Profesional de Educación Superior estatal o reconocido por el Estado o encontrarse habilitado o autorizado para ejercer la función docente de conformidad con la normativa vigente.
 
-Educadora o Educador de Párvulos:
+c) Técnico o Técnica de Educación Parvularia de Nivel Superior: Contar con un título de Técnico o Técnica de Educación Parvularia otorgado por un Centro de Formación Técnica o por un Instituto Profesional estatal o reconocido por el Estado o encontrarse autorizado para ejercer la función de Técnico o Técnica de Educación Parvularia.
 
-- Contar con un título Profesional de Educador o Educadora de Párvulos otorgado por una Escuela Normal, Universidad o Instituto Profesional de Educación Superior estatal o reconocido por el Estado.
+d) Técnico o Técnica de Educación Parvularia de Nivel Medio: Contar con un título de Técnico o Técnica de Educación Parvularia otorgado por un establecimiento educacional de Educación Media Técnico Profesional estatal o reconocido por el Estado o encontrarse autorizado para ejercer la función de Técnico o Técnica de Educación Parvularia.
 
-Técnico o Técnica de Educación Parvularia de Nivel Superior:
+e) Manipulador o Manipuladora de Alimentos y Auxiliar de Servicios Menores: Haber cursado Octavo Básico como mínimo.
 
-- Contar con un título de Técnico o Técnica de Educación Parvularia otorgado por un Centro de Formación Técnica o por un Instituto Profesional estatal o reconocido por el Estado.
+Todo el personal docente y asistente de la educación, para efectos de lo establecido en la letra g) del artículo 46 del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, tendrá la calidad de idóneo cuando no hubiere incurrido en las conductas descritas en el artículo 3 de la ley Nº 19.464, y en el artículo 4 del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación.
 
-Técnico o Técnica de Educación Parvularia de Nivel Medio:
-
-- Contar con un título de Técnico o Técnica de Educación Parvularia otorgado por un establecimiento educacional de Educación Media Técnico Profesional estatal o reconocido por el Estado.
-
-Manipuladora o Manipulador de alimentos:
-
-- Haber cursado Octavo Básico como mínimo.
-
-Todo el personal docente y asistente de la educación, para efectos de lo establecido en la letra g) del artículo 46 del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, tendrá la calidad de idóneo cuando no hubiere incurrido en las conductas descritas en el artículo 3º de la ley Nº 19.464, y en el artículo 4º del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación.
+> **Nota.** El numeral 4 del artículo único del Decreto 241, Educación, publicado el 20.10.2018, dispone reemplazar íntegramente el presente artículo, el cual entra en vigencia desde la fecha de publicación de la citada norma, con excepción de su letra a), que según lo dispone su artículo tercero transitorio, rige hasta el 31 de diciembre de 2023. Por tal razón, se ha incorporado en el texto actualizado del presente artículo 11 el literal a) como se indica. El texto de la letra a) del artículo 11 a partir del 01.01.2024 será el siguiente: "a) Director o Directora: Contar con un título profesional de Educador o Educadora de Párvulos otorgado por una Escuela Normal, Universidad o Instituto Profesional de Educación Superior estatal o reconocido oficialmente por el Estado."
 
 #### Artículo 12
 
