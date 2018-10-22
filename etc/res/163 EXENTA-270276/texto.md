@@ -14,7 +14,7 @@ Resuelvo:
 
 1.- Déjese sin efecto la resolución exenta Nº 212/03 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones Región de Antofagasta, publicada en el Diario Oficial del 9 de agosto de 2003.
 
-2.- Prohíbase el ingreso a la ciudad de Antofagasta de los siguientes vehículos cargados o vacíos por la Ruta B-26 y Av. Salvador Allende:
+2.- Prohíbase el ingreso a la ciudad de Antofagasta, a partir del kilómetro 4,8 de la Ruta B-26 y a lo largo de toda la Avenida Presidente Salvador Allende en sentido Oriente - Poniente; de los siguientes vehículos cargados o vacíos:
 
 2.1.- Vehículos que transporten sustancias peligrosas, cualquiera sea su tonelaje
 
@@ -65,6 +65,8 @@ Ruta 5 - Ruta B-400 - Ruta 1 - Avda. Edmundo Pérez Zujovic - 7º de Línea - An
 7.- La Secretaría Regional Ministerial de Obras Públicas, Dirección Regional de Vialidad, dispondrá las señalizaciones de tránsito respectivas.
 
 8.- Carabineros de Chile, inspectores fiscales e inspectores municipales fiscalizarán el fiel cumplimiento de la presente resolución.
+
+En cumplimiento de sus facultades fiscalizadoras, Carabineros de Chile podrá retirar de circulación aquellos vehículos que transporten sustancias peligrosas cualquiera sea su tonelaje y camiones cuyo peso bruto vehicular sea igual o superior a 3.500 kg, de conformidad a lo dispuesto en el artículo 92 de la ley 18.290, en caso de infringir la presente resolución.
 
 9.- Esta resolución exenta entrará en vigencia a partir de su publicación en el Diario Oficial.
 
