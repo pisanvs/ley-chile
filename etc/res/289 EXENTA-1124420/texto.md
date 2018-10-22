@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL ESTUDIO DE IMPACTO AMBIENTAL "LÍNEA DE TRANSMISIÓN 1X220 KV PUNILLA – SAN FABIÁN"
+
+De conformidad a lo dispuesto en el artículo 95 e inciso final del artículo 91 del DS (MA) N° 40/2013 (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental del EIA del proyecto "Línea de transmisión 1x220 kV Punilla - San Fabián", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Astaldi Concessioni SRL Agencia en Chile, que por resolución exenta N° 289, de fecha 10 de octubre de 2018, la Comisión de Evaluación de la Región del Biobío califico favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante Comité de Ministros, de conformidad al artículo 20 de la ley N° 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en horarios de oficina, en las oficinas de la Dirección Regional del SEA de Biobío, ubicadas en Lincoyán N° 145, Concepción, en la Ilustre Municipalidad de San Fabián, ubicada en calle 21 de Mayo 312, comuna de San Fabián y en la Ilustre Municipalidad de Coihueco, ubicada en Av. Prat N° 1675, comuna de Coihueco. Además, podrá accederse a la resolución indicada directamente a través del sitio web www.sea.gob.cl.-
+
+Marcela Núñez Rodríguez, Secretaria (S), Comisión de Evaluación Región del Biobío.
