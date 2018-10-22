@@ -100,6 +100,4 @@ Todos/as los/as funcionarios/as que forman parte de este Comité deberán asisti
 
 3. Vigencia: La presente resolución exenta, regirá en cuanto se encuentre totalmente tramitada.
 
-> **Nota.** El número 4 de la Resolución 33627 Exenta, Trabajo, publicada el 04.12.2025, dispone mantener plenamente vigente en todo lo no modificado por la citada resolución, entendiéndose actualizada la presente norma únicamente en lo relativo a la denominación del "Comité de Archivo Institucional" como "Comité de Gestión Documental", y en que dicho Comité estará a cargo del Jefe/a del Departamento de Administración y Finanzas.
-
 Anótese y publíquese.- Christian Melis Valencia, Director del Trabajo.
