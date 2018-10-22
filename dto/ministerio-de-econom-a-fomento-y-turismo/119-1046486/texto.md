@@ -22,7 +22,7 @@ Decreto:
 
 Desígnense como integrantes de la Comisión Nacional de Acuicultura, en calidad de miembros provenientes de las asociaciones de acuicultores, de conformidad con la letra g) del artículo 90 B de la Ley General de Pesca y Acuicultura, las personas que se individualizan a continuación:
 
-a) Felipe Sandoval Precht, en representación de Asociación de la Industria del Salmón de Chile A.G. (SALMONCHILE).
+a) Arturo Bernardo Clement Díaz, en representación de Asociación de la Industria del Salmón de Chile A.G. (SALMONCHILE).
 
 b) Juan Cristóbal Thompson Santos, en representación de Asociación de Industriales Pesqueros y Cultivadores Marinos A.G. (ASIPEC).
 
