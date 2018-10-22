@@ -508,19 +508,7 @@ Mod. atención : Permanente
 
 Inspección Provincial del Trabajo de Ñuble
 
-Ciudad : Chillán
-
-Jurisdicción : Chillán, Coihueco, Pinto, San Ignacio, El
-
-Carmen, Pemuco, Yungay, Bulnes, Quillón,
-
-Ranquil, Portezuelo, Treguaco, Cobquecura,
-
-Quirihue, Ninhue, Chillán Viejo y San
-
-Nicolás
-
-Mod. atención : Permanente.
+Eliminado.
 
 Inspección Provincial del Trabajo de Biobío
 
@@ -552,13 +540,11 @@ Jurisdicción : Talcahuano, Hualpén
 
 Mod. atención : Permanente
 
-Inspección Comunal del Trabajo de Tomé
+Inspección
 
-Ciudad : Tomé
+Comunal del Trabajo de Tomé
 
-Jurisdicción : Tomé, Coelemu
-
-Mod. atención : Permanente
+Eliminado.
 
 Inspección Comunal del Trabajo de Coronel
 
@@ -570,11 +556,7 @@ Mod. atención : Permanente
 
 Inspección Comunal del Trabajo de San Carlos
 
-Ciudad : San Carlos
-
-Jurisdicción : San Carlos, Ñiquén, San Fabián
-
-Mod. atención : Permanente
+Eliminado.
 
 Inspección Comunal del Trabajo de Curanilahue
 
@@ -610,11 +592,7 @@ Mod. atención : Intermitente
 
 Inspección Comunal del Trabajo de Coelemu
 
-Ciudad : Coelemu
-
-Jurisdicción : Coelemu
-
-Mod. atención : Intermitente
+Eliminado.
 
 CENTRO DE CONCILIACIÓN Y MEDIACIÓN DE LA VIII REGIÓN
 
@@ -1170,7 +1148,7 @@ Inspección Provincial del Trabajo de Ñuble
 
 Ciudad : Chillán.
 
-Jurisdicción : Chillán, Coihueco, Pinto, San Ignacio,
+Jurisdicción : Chillán, Coihueco, Coelemu, Pinto, San Ignacio,
 
 El Carmen, Pemuco,Yungay, Bulnes, Quillón,
 
