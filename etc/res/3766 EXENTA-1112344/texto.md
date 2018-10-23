@@ -392,7 +392,7 @@ n) Dar cumplimiento a las demás tareas encomendadas por el Director(a).
 
 ### II. Departamento de Gestión de Cotizaciones y Protección Financiera
 
-### III. Departamento de Licencias Médicas y Subsidios por Incapacidad Laboral
+### III. Eliminado
 
 ### V. DIVISIÓN DE COMERCIALIZACIÓN
 
@@ -462,15 +462,13 @@ i) Asesorar al Director del Fondo, en la colaboración con el Ministerio de Salu
 
 j) Estudiar, diseñar, proponer y evaluar los planes, políticas, normas y procedimientos en materia económica y financiera del Fondo, en concordancia con la política económica y social del Supremo Gobierno, y realizar las demás tareas que en el ámbito financiero le encomiende el Director Nacional, asesorando a las demás unidades sobre estas materias.
 
-#### Artículo 23º
+#### Artículo 23°
 
-La División de Gestión Financiera del Seguro estará integrada por tres Departamentos:
+La División de Gestión Financiera estará integrada por dos Departamentos:
 
 ### I. Departamento de Programación Financiera
 
 ### II. Departamento de Gestión de Cotizaciones y Protección Financiera
-
-### III. Departamento de Licencias Médicas y Subsidios por Incapacidad Laboral
 
 #### Artículo 24º
 
@@ -620,29 +618,11 @@ g) Revisar, modificar y administrar el Sistema GGPF.
 
 #### Artículo 28º
 
-Al Departamento de Licencias Médicas y Subsidios por Incapacidad Laboral (SIL) le corresponderá administrar el financiamiento para el SIL por licencia médica curativa común y velar por el correcto uso de los recursos financieros asociados.
+Derogado.
 
 #### Artículo 29º
 
-Son funciones del Departamento de Licencias Médicas y Subsidios por Incapacidad Laboral, las siguientes:
-
-a) Entregar oportunamente los recursos financieros para el pago de los subsidios por Incapacidad Laboral por licencia médica curativa común y los recursos necesarios.
-
-b) Presupuestar, administrar y gestionar la obtención de recursos SIL al interior de Fonasa y disponer oportunamente dichos recursos financieros a los entes pagadores.
-
-c) Monitorear a través de medios informáticos el correcto uso de la licencia médica de los asegurados de Fonasa y el respectivo Gasto en SIL.
-
-d) Administrar el Sistema Informático de licencia médica Fonasa dispuesto en las Compin para la tramitación de las licencias médicas y el pago de los subsidios.
-
-e) Entregar a nuestros asegurados información oportuna en las materias de nuestra competencia.
-
-f) Administrar el Convenio de Intercambio de información, suscrito entre Fonasa y la Superintendencia de Seguridad Social, el 29 de septiembre de 2011, aprobado por RE Nº 2117, de 22 de abril de 2012.
-
-g) Generar información estadístico/sanitario proveniente de las licencias médicas curativa común y del gasto asociado por SIL otorgados a los asegurados Fonasa.
-
-h) Responder a requerimientos externos e internos en materias de nuestra competencia.
-
-i) Realizar todas las otras funciones que disponga la Dirección.
+Derogado.
 
 #### Artículo 30º
 
@@ -1105,6 +1085,22 @@ g) Gestionar el conocimiento y redes de difusión y almacenamiento de informaci�
 h) Realizar difusión y capacitación en las materias de gestión de competencia del Departamento a los funcionarios del Fondo.
 
 i) Determinar la población potencialmente beneficiaria para efectos del financiamiento de la Atención Primaria.
+
+j) Entregar oportunamente los recursos financieros para el pago de los subsidios por incapacidad laboral por licencia médica curativa común y los recursos necesarios.
+
+k) Presupuestar, administrar y gestionar la obtención de recursos SIL al interior de Fonasa y disponer oportunamente dichos recursos financieros a los entes pagadores.
+
+l) Monitorear el correcto uso de la licencia médica de los afiliados de Fonasa y el respectivo gasto en subsidios por incapacidad laboral.
+
+m) Administrar el Sistema Informático de Licencia Médica Fonasa dispuesto en las Compin para la tramitación de las licencias médicas y el pago de los subsidios.
+
+n) Entregar a nuestros beneficiarios información oportuna en las materias de su competencia.
+
+ñ) Administrar el Convenio de Intercambio de información, suscrito entre Fonasa y la Superintendencia de Seguridad Social, el 29 de septiembre de 2011, aprobado por RE Nº 2.117, de 22 de abril de 2012.
+
+o) Generar información estadístico/sanitaria proveniente de las licencias médicas curativa común y del gasto asociado por subsidios de incapacidad laboral otorgados a los beneficiarios Fonasa.
+
+p) Responder a requerimientos externos e internos en materias de su competencia.
 
 #### Artículo 50º
 
