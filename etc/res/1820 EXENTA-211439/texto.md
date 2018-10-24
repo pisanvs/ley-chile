@@ -548,39 +548,41 @@ El valor límite ($/m2) de los pavimentos y/o repavimentos para la comuna de Gra
 
 Para las aceras en adocreto de la comuna de Arica, su valor límite en pavimentos es de $43.500/m2 y en repavimentos es de $46.500/m2.
 
-(2) Para la comuna de Colchane, los valores límites de pavimentos y repavimentos en adocretos es $75.500/m2 y $80.000/m2, respectivamente, tanto para calles como pasajes. Los valores límites de pavimentos y repavimentos en adoquín de piedra canteada es $80.000/m2 y $85.000/m2, respectivamente, tanto para calles como pasajes.
+(2) Para la comuna de Colchane, los valores límites de pavimentos y repavimentos en adocretos es $86.500/m2 y $91.600/m2, respectivamente, tanto para calles como pasajes. Los valores límites de pavimentos y repavimentos en adoquín de piedra canteada es $92.000/m2 y $97.500/m2, respectivamente, tanto para calles como pasajes.
 
-El valor límite de aceras para la comuna de Colchane es de $44.500/m2 en pavimentos y $47.00/m2 en repavimentos.
+El valor límite de aceras para la comuna de Colchane es de $50.800/m2 en pavimentos y $53.900/m2 en repavimentos.
 
-Para la comuna de Camiña, el valor límite de pavimentos de adocretos en calles y pasajes es $65.000/m2 y en repavimentos es $68.500/m2, y en pavimentos de calles y pasajes de adoquín canteado es $67.000/m2, y en repavimentos es $71.000/m2.
+Para la comuna de Camiña, el valor límite de pavimentos de adocretos en calles y pasajes es $74.500/m2 y en repavimentos es $78.800/m2, y en pavimentos de calles y pasajes de adoquín canteado es $76.800/m2, y en repavimentos es $81.500/m2.
 
-El valor límite de aceras para la comuna de Camiña es $42.600/m2 en pavimentos y $45.100/m2 en repavimentos.
+El valor límite de aceras para la comuna de Camiña es $48.900/m2 en pavimentos y $51.900/m2 en repavimentos.
 
-En el caso de pavimentos en adocretos prefabricados para las restantes comunas de la provincia del Tamarugal, el valor límite de pavimentación es de $64.500/m2, y de $68.000/m2 en repavimentos. En pavimentos de adoquín canteado es de $63.500/m2 y $67.500/m2 en repavimentos, tanto para calles como pasajes.
+En el caso de pavimentos en adocretos prefabricados para las restantes comunas de la Provincia del Tamarugal, el valor límite de pavimentación es de $71.200/m2, y de $75.500/m2 en repavimentos. En pavimentos de adoquín canteado es de $73.000/m2 y $77.100/m2 en repavimentos, tanto para calles como pasajes.
 
 (3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, el valor límite para la comuna de San Pedro de Atacama es $130.000/m2, y para las localidades de Socaire y Toconao es de $140.000/m2, tanto para calles como para pasajes.
 
 En el caso de los pavimentos y/o repavimentos de aceras en piedra canteada, el valor límite para la comuna de San Pedro de Atacama es $163.500/m2 y para las localidades de Socaire y Toconao es $172.000/m2.
 
-(4) En las soluciones de pasajes peatonales en madera para Caleta Tortel y localidades similares de la Región de Aysén, calificadas por la respectiva Seremi, el valor límite de pavimentación es $140.000/m2 y de repavimentación $147.000/m2.
+(4) En las soluciones peatonales en madera para Caleta Tortel de la Región de Aysén, calificadas por la respectiva Seremi, el valor límite de pavimentación es $154.000/m2 en calles y $140.000/m2 en pasajes y de $140.000 para calles y pasajes del Grupo Gala. En repavimentación para estas soluciones en madera el valor límite es $176.000/m2 en calles y pasajes de Caleta Tortel y $159.000/m2 en calles y pasajes del Grupo Gala.
 
-En el caso de las islas que forman parte de la comuna de Guaitecas, el valor límite de pavimentación en adocreto para calles y pasajes es $88.000/m2, y el valor límite de repavimentación en adocreto para calles y pasajes es $112.000/m2.
+En el caso de las islas que forman parte de la comuna de Guaitecas, el valor límite de pavimentación en adocreto para calles y pasajes es $106.000/m2, y el valor límite de repavimentación en adocreto para calles y pasajes es $128.000/m2.
 
-En el caso de las islas que forman parte de la comuna de Aysén, el valor límite de pavimentación en adocreto para calles y pasajes es 107.000/m2., y el valor límite de repavimentación en adocreto para calles y pasajes es $155.500/m2.
+En el caso de las islas que forman parte de la comuna de Aysén, el valor límite de pavimentación en adocreto para calles y pasajes es 129.000/m2, y el valor límite de repavimentación en adocreto para calles y pasajes es $156.500/m2.
 
-Para la comuna de O'Higgins y las localidades de Raúl Marín, Nirehuao, Río Tranquilo y Cerro Castillo, el valor límite de pavimentación en adocreto es $120.000/m2, y para repavimentos es $134.000/m2, tanto para pasajes y calles. Para la localidad de Puerto Bertrand, el valor límite de pavimentación y de repavimentación es de $140.000/m2.
+Para la comuna de O'Higgins y la localidad de Raúl Marín, el valor límite de pavimentación en adocreto es $129.000/m2, y para repavimentos es $134.000/m2, tanto para pasajes y calles.
 
-Para la comuna de O'Higgins y las localidades de Raúl Marín, Nirehuao, Río Tranquilo y Cerro Castillo, el valor límite para pavimentos en Hormigón de Cemento Vibrado (HCV) es $81.000/m2 en pasajes y $91.000/m2 para calles.
+Para la localidad de Puerto Bertrand, el valor límite de pavimentación y de repavimentación es $174.000/m2.
 
-Para aceras en la comuna de O'Higgins y en localidades de la comuna de Aysén distintas a la ciudad de Aysén, el valor límite de los pavimentos es $41.500/m2 y de repavimentos $52.500/m2. En el caso de la comuna de Guaitecas, en aceras el valor límite de los pavimentos es $30.500/m2 y de repavimentos $44.500/m2.
+Para la comuna de O'Higgins, el valor límite para pavimentos en Hormigón de Cemento Vibrado (HCV) es $105.500/m2 en pasajes y $98.500/m2 para calles.
 
-(5) En la comuna de Cabo de Hornos, el valor límite de pavimentación en aceras es de $72.500/m2 y de repavimentación en aceras es de $74.500/m2.
+Para aceras en la comuna de O'Higgins, el valor límite de los pavimentos es $41.500/m2 y de repavimentos $57.500/m2. En el caso de las comunas Guaitecas y Lago Verde, en aceras el valor límite de los pavimentos es $35.000/m2 y de repavimentos $49.000/m2.
 
-(6) En las comunas de la Provincia de Palena, los valores límites de pavimentación son $85.000/m2 en calles, $75.000 en pasajes y $36.000/m2 en aceras, y de repavimentación son $88.000/m2 en calles, $79.000/m2 en pasajes y $39.000/m2 en aceras.
+(5) En la comuna de Cabo de Hornos, el valor límite de pavimentación en aceras es de $74.500/m2 y de repavimentación en aceras es de $76.500/m2.
 
-Para los centros poblados de la provincia de Chiloé, localizados en islas, los valores límites de pavimentación son $72.000/m2 en calles, $61.000 en pasajes y $28.000/m2 en aceras, y de repavimentación son $77.000/m2 en calles, $68.000/m2 en pasajes y $31.000/m2 en aceras.
+(6) En las comunas de la Provincia de Palena, los valores límites de pavimentación son $93.000/m2 en calles, $75.000/m2 en pasajes y $46.500/m2 en aceras, y de repavimentación son $95.000/m2 en calles, $79.000/m2 en pasajes y $49.000/m2 en aceras.
 
-(7) En las comunas de la provincia de Cardenal Caro y comunas de Lolol y Pumanque, los valores límites de pavimentación y de repavimentación son:
+Para los centros poblados de la Provincia de Chiloé, localizados en islas, los valores límites de pavimentación son $74.000/m2 en calles, $61.000/m2 en pasajes y $29.000/m2 en aceras, y de repavimentación son $77.000/m2 en calles, $68.000/m2 en pasajes y $31.500/m2 en aceras.
+
+(7) En las comunas de la Provincia de Cardenal Caro y comunas de Lolol y Pumanque, los valores límites de pavimentación y de repavimentación son:
 
 .
 
@@ -827,6 +829,16 @@ Los responsables del Programa de Pavimentación Participativa en la Secretaría 
 16º.- Durante la ejecución de las obras de pavimentación o de repavimentación del Programa, los proyectos y obras sólo podrán sufrir modificaciones o ajustes menores propios de la gestión de un contrato de obras, como disminuciones, ampliaciones u obras extraordinarias, que impliquen un aumento de monto del contrato original de hasta un 10%. Sin embargo, de existir una necesidad técnica impostergable de contratar obras adicionales por un mayor monto, para permitir la correcta construcción de las obras de pavimentación o de repavimentación, además de cumplir con los requisitos exigidos al efecto por el DS Nº 236 (V. y U.), de 2002, previamente deberá contar con visación de la Unidad Técnica de Proyectos del respectivo Serviu, de la Seremi respectiva, por las implicancias presupuestarias y programáticas que involucre, como asimismo del Comité de Pavimentación y de la Municipalidad respectivos.
 
 17º.- Derógase la resolución exenta Nº 1.930 (V. y U.), de 1997, publicada en el Diario Oficial de 4 de agosto de 1997 y sus modificaciones.
+
+18°.- Las Municipalidades deberán inscribir sus postulaciones en el sistema informático del Programa de Pavimentación Participativa, incorporando la información, antecedentes, datos y documentación de respaldo requerida, considerando las instrucciones del Ministerio de Vivienda y Urbanismo y de la respectiva Secretaría Regional Ministerial.
+
+Para estos efectos, la Seremi deberá colocar oportunamente a disposición de las Municipalidades el sistema informático con los datos y antecedentes necesarios que permitan inscribir las postulaciones.
+
+Mediante este sistema informático, las Municipalidades enviarán sus postulaciones al respectivo Servicio de Vivienda y Urbanización para su revisión, formulación de observaciones o validación técnica. El Serviu enviará por este medio a las Municipalidades las observaciones a las postulaciones o su validación técnica si corresponde.
+
+Asimismo, a través de este sistema informático las Municipalidades enviarán sus postulaciones a la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo para su revisión integral, formulación de observaciones o validación si corresponde. La Seremi enviará por este medio a las Municipalidades las observaciones a las postulaciones para su atención, utilizando este sistema informático, o dará su validación si corresponde.
+
+La Seremi, considerando las postulaciones válidas, realizará mediante el sistema informático, el proceso de selección de proyectos del Programa y obtendrá la lista de proyectos seleccionados, la lista de espera de proyectos y los resultados estadísticos asociados.
 
 > **Nota.** Por inconvenientes técnicos no se pudo realizar el texto actualizado de los numerales 2 y 3 de la Resolución 7102 Exenta, Vivienda, publicada el 22.09.2015.
 
