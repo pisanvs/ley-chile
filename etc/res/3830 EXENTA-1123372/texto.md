@@ -14,7 +14,7 @@ Duración: Indefinida.
 
 Objeto: El objeto exclusivo de la sociedad es la administración de recursos de terceros en los términos a que se refiere el artículo tres, contenido en el artículo primero de la ley Nº 20.712 y la realización de las actividades complementarias a su giro que autorice la Comisión para el Mercado Financiero.
 
-Capital: $500.000.000.-, dividido en 500.000 acciones ordinarias, nominativas, de una única serie, de igual valor cada una y sin valor nominal, el que se suscribe y paga de la siguiente forma: Inversiones VNT S.A. suscribe 499.999 acciones, que corresponden a $219.999.000.- deberán ser pagadas en un plazo de tres años, contado desde la fecha de la escritura, y don Jorge Valenzuela Raccoursier suscribe una acción, que corresponde a $1.000, que pagará en un plazo de tres años, contado desde la fecha de la escritura.
+Capital: $500.000.000.-, dividido en 500.000 acciones ordinarias, nominativas, de una única serie, de igual valor cada una y sin valor nominal, el que se suscribe y paga de la siguiente forma: Inversiones VNT S.A. suscribe 499.999 acciones de las cuales paga 280.000 acciones por un monto de $280.000.000, las restantes 219.999 acciones que corresponden a $219.999.000.- deberán ser pagadas en un plazo de tres años, contado desde la fecha de la escritura, y don Jorge Valenzuela Raccoursier suscribe una acción, que corresponde a $1.000, que pagará en un plazo de tres años, contado desde la fecha de la escritura.
 
 Demás cláusulas constan en escritura extractada.
 
