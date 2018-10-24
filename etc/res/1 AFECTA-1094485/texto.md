@@ -120,13 +120,13 @@ c.4. Cereales: 5% de subsidio adicional para aquellas pólizas, cuyo cultivo ase
 
 c.5. Zonas extremas: 5% de subsidio adicional para aquellas pólizas o contratos de cobertura cuya materia asegurada esté ubicada en una de las comunas situadas dentro de las zonas extremas determinadas por la ley N° 20.655, esto es, dentro de las Regiones I, XV, XI, XII, además de las Provincias de Chiloé y Palena.
 
-Sin perjuicio de lo anterior, el subsidio total por póliza de seguro o contrato de cobertura no podrá sobrepasar el 70% de la prima neta cobrada en el respectivo instrumento, más el subsidio fijo de UF 1.
+El subsidio total por póliza de seguro o contrato de cobertura no podrá sobrepasar el 70% de la prima neta cobrada en el respectivo instrumento, más el subsidio fijo de UF 1. Lo anterior no obsta a las condiciones especiales que, con relación al Programa Especial de Apoyo a la Contratación del Seguro Agrícola, PACSA, para beneficiarios de Indap, se prevén en el numeral 7 de las presentes Normas Reglamentarias.
 
 d. El monto total del subsidio general que cada beneficiario reciba por la contratación de pólizas de seguro agrícola de cualquier tipo y/o contratos de cobertura de precios y tipo de cambio, no podrá ser superior a UF 80 por póliza o contrato. Excepcionalmente, el monto total del subsidio del Estado para el Seguro Forestal no podrá ser superior a UF 80 por beneficiario por cada temporada agrícola.
 
 Para los efectos del presente literal se entiende que una temporada agrícola es el intervalo de tiempo de un año que comienza el 1º de mayo de un año calendario y se extiende hasta el 30 de abril del año siguiente.
 
-Lo anterior no obsta a las condiciones especiales que, según materia asegurada o cubierta, se puedan establecer como Normas Transitorias.
+Lo anterior no obsta a las condiciones especiales que, según criterio de focalización y/o materia asegurada o cubierta, se puedan establecer como Normas Transitorias.
 
 Para que el beneficiario tenga derecho al subsidio señalado precedentemente, deberá pagar, a satisfacción de la Compañía de Seguros y/o de la "I.C. C.", la parte no subsidiada de la prima neta y la totalidad del Impuesto al Valor Agregado, IVA, correspondiente a la prima de la respectiva póliza de seguro o del respectivo contrato de cobertura. En caso de incumplimiento total o parcial del pago de la prima se deberá proceder de la forma establecida en el numeral 4.
 
@@ -182,7 +182,13 @@ Agroseguros, en forma directa o a través de un tercero, podrá efectuar inspecc
 
 La utilización del subsidio general en operaciones no elegibles dará lugar a la aplicación, por parte del Consejo de Agroseguros, de una multa a la Compañía Aseguradora o a la "I.C.C." infractora de hasta (10) diez veces el valor del subsidio incorrectamente pagado. El Acuerdo de Consejo de Agroseguros que aplique la multa será puesto en ejecución por Resolución del Director Ejecutivo del Comité.
 
-### 7. Eliminado
+### 7. Normas Transitorias
+
+7.1. Adicionalmente a lo contemplado en el numeral 2, letra a y c, hasta el 31 de diciembre 2018, habrá un porcentaje adicional de subsidio para aquellos beneficiarios del Instituto de Desarrollo Agropecuario, Indap, que no cuenten con el Programa Especial de Apoyo a la Contratación del Seguro Agrícola, PACSA, de dicho Instituto.
+
+7.2. Este porcentaje adicional para los beneficiarios de Indap, antes definidos, variará conforme el porcentaje de la Prima Neta subsidiada por los conceptos del numeral 2, letra a y c, alcanzando hasta un 48,93% de la Prima Neta".
+
+- En lo demás se mantiene vigente y sin alteraciones la mencionada resolución (A) Nº 1, de 2016.
 
 3° Este Reglamento comenzará a regir a partir de la total tramitación de la presente Resolución y de su publicación en el Diario Oficial.
 
