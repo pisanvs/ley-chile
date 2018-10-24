@@ -1,4 +1,4 @@
-LLAMADO EN CONDICIONES ESPECIALES 2018 A POSTULACIÓN PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR DESTINADO A LA ATENCIÓN DE CONDOMINIOS DE VIVIENDAS ECONÓMICAS, PARA LAS REGIONES DE ARICA Y PARINACOTA, TARAPACÁ, ANTOFAGASTA, ATACAMA, VALPARAÍSO, O'HIGGINS, MAULE, BIOBÍO, LOS RÍOS, LOS LAGOS, Y METROPOLITANA. FIJA CONDICIONES PARA SU APLICACIÓN, EL MONTO DE RECURSOS DISPONIBLES Y SU FORMA DE DISTRIBUCIÓN PARA CADA REGIÓN
+LLAMADO EN CONDICIONES ESPECIALES 2018 A POSTULACIÓN PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR DESTINADO A LA ATENCIÓN DE CONDOMINIOS DE VIVIENDAS ECONÓMICAS, PARA LAS REGIONES DE TARAPACÁ, VALPARAÍSO, Y METROPOLITANA. FIJA CONDICIONES PARA SU APLICACIÓN, EL MONTO DE RECURSOS DISPONIBLES Y SU FORMA DE DISTRIBUCIÓN PARA CADA REGIÓN
 
 Santiago, 1 de junio de 2018.- Hoy se resolvió lo que sigue:
 
@@ -28,7 +28,7 @@ b) Que las intervenciones a realizar en los condominios de viviendas económicas
 
 Resolución:
 
-1. Llámase a postulación a los Condominios de Viviendas Económicas emplazados en las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Valparaíso, O'Higgins, del Maule, del Biobío, de Los Ríos, de Los Lagos y Metropolitana de Santiago para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a construir, reparar y/o mantener el equipamiento comunitario y las áreas comunes de la copropiedad; y del Título II Mejoramiento de la Vivienda, letras b.4) que correspondan a obras en bienes comunes edificados de los tipos señalados en las letras b.1), b.2) y b.3), y b.5), de conformidad a lo establecido en el artículo 5º del DS Nº 255 (V. y U.), de 2006.
+1. Llámase a postulación a los Condominios de Viviendas Económicas emplazados en las regiones de Tarapacá, Valparaíso, y Metropolitana de Santiago para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a construir, reparar y/o mantener el equipamiento comunitario y las áreas comunes de la copropiedad; y del Título II Mejoramiento de la Vivienda, letras b.4) que correspondan a obras en bienes comunes edificados de los tipos señalados en las letras b.1), b.2) y b.3), y b.5), de conformidad a lo establecido en el artículo 5º del DS Nº 255 (V. y U.), de 2006.
 
 ### 2. Podrán postular al presente llamado proyectos en:
 
@@ -113,6 +113,8 @@ g) De lo establecido en el artículo 46, letras a) y b) referido a la calidad de
 12. La ejecución de los proyectos seleccionados, los gastos de asistencia técnica, las obras de acondicionamiento térmico y eficiencia energética, así como los incrementos de subsidio, serán financiados con los recursos disponibles para este llamado, conforme a lo establecido en el resuelvo 13 de la presente resolución exenta.
 
 13. Los recursos disponibles y su distribución para efectuar la selección de proyectos en Condominios Económicos que resulten certificados como Copropiedades Objeto del Programa, serán los siguientes:
+
+.
 
 A partir del mes de septiembre de 2018, la Subsecretaría de Vivienda y Urbanismo, mediante resoluciones, podrá reasignar estos recursos entre regiones a fin de garantizar la completa asignación de los subsidios del presente llamado.
 
