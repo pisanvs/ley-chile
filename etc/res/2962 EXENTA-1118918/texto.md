@@ -20,7 +20,7 @@ Las personas que postulen como titulares vía internet a través de los medios e
 
 2. Se realizarán 3 procesos de selección, con las familias que hubieren efectuado válidamente su postulación hasta las fechas de cierre de postulación definidas para realizar cada proceso, las cuales serán los días 17 de agosto, 14 de septiembre y 22 de octubre, de 2018. Las familias que no sean consideradas en una selección, continuarán postulando y serán contempladas en la siguiente.
 
-3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS N° 52 (V. y U.), de 2013, será de 706.860 Unidades de Fomento.
+3. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS N° 52 (V. y U.), de 2013, será de 569.500 Unidades de Fomento.
 
 4. La cantidad de familias a seleccionar se distribuirán regionalmente según el cuadro que se presenta a continuación:
 
@@ -30,37 +30,37 @@ familias a
 
 seleccionar
 
-Arica y Parinacota 74
+Arica y Parinacota 43
 
-Tarapacá 125
+Tarapacá 64
 
-Antofagasta 132
+Antofagasta 76
 
-Atacama 53
+Atacama 47
 
-Coquimbo 155
+Coquimbo 114
 
-Valparaíso 462
+Valparaíso 390
 
-L.B. O'Higgins 253
+L.B. O'Higgins 215
 
-Maule 315
+Maule 203
 
-Biobío 730
+Biobío 482
 
-La Araucanía 423
+La Araucanía 236
 
-Los Ríos 156
+Los Ríos 84
 
-Los Lagos 290
+Los Lagos 197
 
-Aysén 37
+Aysén 20
 
-Magallanes 23
+Magallanes 15
 
-Metropolitana 930
+Metropolitana 1.164
 
-TOTAL PAÍS 4.158
+TOTAL PAÍS 3.350
 
 5. Se seleccionarán 1.000 familias en cada uno de los procesos de selección realizados conforme lo dispuesto por el resuelvo 2. anterior, salvo en el último en que se seleccionarán el número familias correspondientes al saldo total de los recursos disponibles.
 
