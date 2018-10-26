@@ -66,6 +66,8 @@ Modifícase la resolución exenta N° 1.484 (V. y U.), de 2018, y sus modificaci
 
 5. El saldo de recursos por región para postular proyectos en los próximos procesos de selección de este llamado está reflejado en el siguiente cuadro:
 
+.
+
 Este cuadro puede sufrir modificaciones, pues se le descontarán todos los subsidios que se asignen directamente en estas líneas. Además, en este cuadro se define un monto sin regionalizar para la selección de Proyectos del Título II, de Obras de Innovación de Eficiencia Energética para instalar sistemas fotovoltaicos. Este monto sin regionalizar se distribuirá proporcionalmente, según la cantidad de proyectos de esta línea que se presenten en cada región.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
