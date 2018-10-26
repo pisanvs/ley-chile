@@ -32,23 +32,7 @@ I.R.N.V.M. : CGDG. 14-9
 
 Ciudad : Iquique.
 
-2.-Vehículo : Station Wagon
-
-Marca : Nissan
-
-Modelo : X-Trail 4x4 2.5
-
-Año : 2010
-
-Color : Plateado Metálico
-
-Nº Motor : QR25891607A
-
-Nº Chasis : JN1TBNT30Z0146784
-
-I.R.N.V.M. : CHZJ. 26-2
-
-Ciudad : Antofagasta.
+2.-Eliminado.
 
 3.-Vehículo : Furgón
 
@@ -86,23 +70,7 @@ I.R.N.V.M. : CHGV. 63-2
 
 Ciudad : Los Andes.
 
-5.-Vehículo : Furgón
-
-Marca : Hyundai
-
-Modelo : New H1 GL TCI Turbo 2.5
-
-Año : 2011
-
-Color : Blanco Perla
-
-Nº Motor : D4BHA035309
-
-Nº Chasis : KMFWBX7HABU276495
-
-I.R.N.V.M. : CWWZ. 13-7
-
-Ciudad : Los Andes.
+5.-Eliminado.
 
 6.-Vehículo : Station Wagon
 
@@ -142,25 +110,9 @@ Ciudad : Valparaíso.
 
 8.- ELIMINADO.
 
-9.- ELIMINADO.
+9.- Eliminado.
 
-10.Vehículo : Station Wagon
-
-Marca : Nissan
-
-Modelo : X-Trail 4X4 2.5
-
-Año : 2010
-
-Color : Beige Metálico
-
-Nº Motor : QR25900243A
-
-Nº Chasis : JN1TBNT30Z0147077
-
-I.R.N.V.M. : CJBZ. 87-8
-
-Ciudad : Talcahuano.
+### 10. Eliminado
 
 11.Vehículo : Station Wagon
 
@@ -200,23 +152,7 @@ Ciudad : Coyhaique.
 
 13.Eliminado.
 
-14.Vehículo : Camioneta
-
-Marca : Nissan
-
-Modelo : Navara DCab SE 4x4 2.5
-
-Año : 2010
-
-Color : Gris Perlado Metálico
-
-Nº Motor : YD25230340T
-
-Nº Chasis : MNTCCUD40Z0007107
-
-I.R.N.V.M. : CSLP. 37-K
-
-Ciudad : Punta Arenas.
+### 14. Eliminado
 
 2.- Elimínanse los vehículos que se individualizan en los siguientes lugares de los listados que se indican, que fueran autorizados para transitar los días sábados en la tarde, domingos y festivos y exceptuados de llevar pintado el disco distintivo estatal:
 

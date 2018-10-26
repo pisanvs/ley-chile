@@ -14,7 +14,7 @@ Que, conjuntamente con lo anterior, se procede a eliminar del listado de autoriz
 
 Decreto:
 
-1º Autorízase la circulación los días sábados en la tarde, domingo y festivos, y exceptúanse de la obligación de llevar pintado el disco distintivo "Estatal", de conformidad a lo señalado en el decreto ley Nº 799, de 1974, a los vehículos de dotación del Servicio Nacional de Aduanas, que a continuación se indican:
+1º Autorízase la circulación los días sábados en la tarde, domingo y festivos, y exceptúanse de la obligación de llevar pintado el disco distintivo "Estatal", de conformidad a lo señalado en el decreto ley Nº 799, de 1974, a los veh�culos de dotación del Servicio Nacional de Aduanas, que a continuación se indican:
 
 1.
 
@@ -96,25 +96,7 @@ I.R.N.V.M. : FGVL 35-5
 
 Destinación : Dirección Regional de Aduanas Antofagasta.
 
-5.
-
-Vehículo : Camioneta
-
-Marca : Nissan
-
-Modelo : Terrano Dob/Cab (D41205)
-
-Año : 2013
-
-Color : Rojo
-
-Nº motor : YD25423387T
-
-Chassis Nº : 3N6PD23Y9ZK917330
-
-I.R.N.V.M. : DRYF 80-8
-
-Destinación : Administración de Aduanas Chañaral.
+### 5. Eliminado
 
 6.
 

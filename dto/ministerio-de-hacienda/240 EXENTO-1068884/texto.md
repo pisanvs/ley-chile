@@ -142,7 +142,23 @@ I.R.N.V.M.: GFCW 75-8
 
 Destinación: Dirección Nacional de Aduana Valparaíso
 
-### 8. Eliminado
+### 8. Vehículo: Camioneta
+
+Marca: Chevrolet
+
+Modelo: D Max E4 DCAB 4WD 2.5
+
+Año: 2014
+
+Color: Blanco
+
+Nº Motor: LA3044
+
+Chassis Nº: MPATFS86HET000581
+
+I.R.N.V.M.: FYGY 64-6
+
+Destinación: Dirección Regional Aduana de Valparaíso
 
 ### 9. Vehículo: Camioneta
 
@@ -335,8 +351,6 @@ b) Del decreto exento de Hacienda, Nº 912/2008, aquellos vehículos individuali
 c) Del decreto exento de Hacienda, Nº 943/2009, aquel vehículo individualizado en el segundo lugar, del numeral 1 del decreto.
 
 d) Del decreto exento de Hacienda, Nº 885/2011, aquellos vehículos individualizados en los numerales 8 y 9 del numeral 1 del decreto.
-
-> **Nota.** El numeral 2° del número 2 del Decreto 165 Exento, Hacienda, publicado el 14.07.2023, reitera el dejar sin efecto la autorización que señala la presente norma al Vehículo Camioneta, marca Chevrolet, año 2014, placa patente única FYGY-64-6.
 
 Anótese y publíquese.- Por orden de la Presidenta de la República, Alberto Arenas de Mesa, Ministro de Hacienda.- Rodrigo Peñailillo Briceño, Ministro del Interior y Seguridad Pública.
 
