@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 887 EXENTA, DE 2018
+
+Por resolución exenta N° 887, de fecha 9 de octubre de 2018, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de la Araucanía, se aprobó el Gabinete Técnico creado e instalado por la Ilustre Municipalidad de Cunco, de la provincia de Cautín, que tendrá su lugar de funcionamiento en calle Pedro Aguirre Cerda 580, comuna de Cunco. Y se autorizó a la Ilustre Municipalidad de Cunco, para otorgar Licencias de Conductor de acuerdo a lo señalado en el decreto con fuerza de ley N° 1, de 29 de octubre de 2007, que fija texto refundido, coordinado y sistematizado de la Ley de Tránsito N° 18.290 y sus reglamentos.-
+
+Luis Calderón Ramírez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía.
