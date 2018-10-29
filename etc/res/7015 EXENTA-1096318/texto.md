@@ -56,7 +56,7 @@ Resolución:
 
 .
 
-7. La cantidad de subsidios destinados al presente llamado será de 795 unidades, los que se distribuirán regionalmente según la tabla que se presenta a continuación:
+7. La cantidad de subsidios destinados al presente llamado será de 204 unidades, los que se distribuirán regionalmente según la tabla que se presenta a continuación:
 
 .
 
