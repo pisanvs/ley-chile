@@ -416,6 +416,8 @@ a los Comandantes en Jefe de las Fuerzas Armadas, de conformidad al artículo 22
 
 2. Designación de representantes ante el Consejo de Monumentos Nacionales.
 
+3. Otorgamiento de la autorización contenida en el artículo 43º de la ley Nº 16.441.
+
 > **Nota.** Los Nos. 1 y 3 del DTO 217, Bienes Nacionales, publicado el 05.12.2001, modificaron errónemante el numeral XV de la presente norma, debiendo referirse al numeral XIV.
 
 > **Nota.** NOTA 1: El Nº 1 del DTO 217, Bienes Nacionales, publicado el 05.12.2001, delegó en los Secretarios Regionales Ministeriales de Bienes Nacionales de las regiones que señala, la facultad de suscribir bajo la fórmula "Por Orden del Presidente de la República", los actos administrativos que indica.
