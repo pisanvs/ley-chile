@@ -28,7 +28,7 @@ Decreto:
 
 Modifícase el decreto exento Nº 254, de 5 de abril de 2018, del Ministerio de Educación, que designa representante del Ministerio de Educación en el Directorio del Centro de Formación Técnica de la Región de Tarapacá, en el sentido de agregar en el artículo 2 un segundo inciso nuevo, del siguiente tenor:
 
-"A contar de la fecha del presente acto, se deja sin efecto el decreto exento Nº 254, de 2018, del Ministerio de Educación, que contiene la designación de don Francisco Prieto Henríquez, como representante del Ministerio de Educación en el Directorio del Centro de Formación Técnica de la Región de Tarapacá.".
+"A contar de la fecha del presente acto, se deja sin efecto el decreto exento Nº 3, de 2018, del Ministerio de Educación, que contiene la designación de don Francisco Prieto Henríquez, como representante del Ministerio de Educación en el Directorio del Centro de Formación Técnica de la Región de Tarapacá.".
 
 #### Artículo 2
 
