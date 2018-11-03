@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.361 de fecha 22/10/2018, conforme al artículo 48 y 62 ley 19.880, de Serviu Región de la Araucanía, se prescribió la rectificación de la resolución Ex. N° 3.178 de fecha 5 de octubre de 2018 de Serviu Araucanía, que ordenó la expropiación del Lote 109-1, en el sentido que por un error de referencia se señaló en su Resuelvo N° 2, donde se fija el monto de la indemnización provisional por la expropiación ordenada, en la suma de $16.059.542 (dieciséis millones cincuenta y nueve mil quinientos cuarenta y dos pesos), correspondiendo expresar correctamente, lo siguiente: "$6.306.943 (seis millones trescientos seis mil novecientos cuarenta y tres pesos)". De igual modo, el Resuelvo N° 3, debe modificarse en el mismo sentido, es decir, donde indica la suma total $16.059.542 (dieciséis millones cincuenta y nueve mil quinientos cuarenta y dos pesos), debe decir, lo siguiente: "$6.306.943 (seis millones trescientos seis mil novecientos cuarenta y tres pesos)".
+
+Director Serviu Región de la Araucanía.
