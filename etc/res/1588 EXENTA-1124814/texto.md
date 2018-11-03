@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Mediante resolución exenta Nº 1.588 de fecha 19 de octubre de 2018, se rectificó resolución exenta Nº 809 de fecha 26/08/2011 que ordenó expropiar el Lote 40 del plano de expropiación, ubicado en Calle Varela Nº 1.179, de la comuna de Coquimbo, de aparente dominio de Juana Morgado Morgado, en el sentido de señalar en resuelvo Nº 1 de dicha resolución que la cabida es de 28,5 metros cuadrados, y sus deslindes particulares son los siguientes: Norte: en 6,00 metros con Lote 41, según plano de expropiación; Oriente: en 4,75 metros con calle Varela. Sur: en 6,00 metros con Lote 37, según plano de expropiación. Poniente: en 4,75 metros con Lote 39, según plano de expropiación, y no como se indicó en dicho acto. En todo lo demás no modificado se entiende plenamente vigente resolución rectificada.-
+
+Eduardo Gay Pasche, Director (S) Serviu Región de Coquimbo.
