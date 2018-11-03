@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 3.401, de 23 de octubre de 2018, el Serviu Región de Los Lagos ordenó expropiación lote terreno Nº 8 para la ejecución Proyecto "Mejoramiento Avenida República, comuna de Osorno", provincia de Osorno, Región de Los Lagos, que figura a nombre de Ruperto Peters Mora, rol de avalúo según SII Nº 793-5, comuna de Osorno, superficie 35,60 metros cuadrados. La comisión de peritos integrada por los Srs. Leopoldo Schumacher G., Nelson Igor F. y Nelson Turra T., designados por resolución exenta Nº 2.526, de 27 de julio de 2018, fijó con fecha 13 de septiembre de 2018 el valor provisional de la indemnización en la suma de $179.736.000. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7º del decreto ley Nº 2.186.-
+
+Director Serviu Región de Los Lagos.
