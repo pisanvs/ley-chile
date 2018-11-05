@@ -32,6 +32,26 @@ I.R.N.V.M. : DXYF.36-3
 
 Placa Única : DXYF.36.
 
+Fiscal Regional IX Región de La Araucanía
+
+Vehículo : Automóvil
+
+Marca : Toyota
+
+Modelo : Carmy XEI 2.5 Aut
+
+Color : Gris Oscuro Metálico
+
+Año : 2012
+
+Nº Motor : 2AR0652311
+
+Nº Chassis : JTNBF4FK9C3011486
+
+I.R.N.V.M. : DWJC.97-2
+
+Placa Única : DWJC.97.
+
 Fiscal Regional X Región de Los Lagos
 
 Vehículo : Station Wagon
@@ -51,8 +71,6 @@ Nº Chassis : 1FM5K7D86DGA12123
 I.R.N.V.M. : DXFC.55-5
 
 Placa Única : DXFC.55.
-
-> **Nota.** El artículo segundo del Decreto 668 Exento, Interior, publicado el 04.06.2019, dispone dejar sin efecto la autorización para el vehículo asignado al uso de los Fiscales Regionales de la Región de Atacama, placa patente DXYF.36, sin embargo, el Decreto 1235 Exento, Interior, publicado el 05.11.2018 modifica la asignación del automóvil marca Subaru, inscripción RNVM DXYF.36-3, patente única DXYF-36, al Fiscal Regional III Región de Atacama sustituyendo su asignación al Fiscal Regional de la Región Metropolitana Sur.Asimismo, el artículo cuarto del Decreto 668, ya individualizado, modifica la presente norma en el sentido de indicar que el vehículo asignado al uso del Fiscal Regional de la Región de Los Lagos fue redestinado al uso del Fiscal Regional Metropolitano Occidente, y que se ha consignado erróneamente, por tanto su numeración correcta de Motor DDGA12123 y Chasis es: 1FM5K7D86DGA12123.
 
 #### Artículo segundo
 
