@@ -362,105 +362,27 @@ Deja sin Efecto
 
 27.- Fiscalía Regional Metropolitana Oriente
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE 2.5
-
-Año: 2014
-
-Motor: YD25870350B
-
-Chassis: MNTVCGD40E6601063
-
-Color: Blanco
-
-I.N.R.V.M.: GVGK.72-7
-
-Patente: GVGK.72
+Dejada sin efecto.
 
 28.- Fiscalía Regional Metropolitana Oriente (Unidad Regional de Atención a Víctimas y Testigos)
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE 2.5
-
-Año: 2014
-
-Motor: YD25874351B
-
-Chassis: MNTVCGD40E6601135
-
-Color: Blanco
-
-I.N.R.V.M.: GVZW.26-2
-
-Patente: GVZW.26
+Dejada sin efecto.
 
 29.- Fiscalía Local de Las Condes
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE 2 MT
-
-Año: 2014
-
-Motor: YD25867131B
-
-Chassis: MNTVCGD40E6601056
-
-Color: Blanco
-
-I.N.R.V.M.: GWBG.35-6
-
-Patente: GWBG.35
+Dejada sin efecto.
 
 30.- Fiscalía Local de Ñuñoa
 
-Vehículo: Camioneta
-
-Marca: Nissan
-
-Modelo: Navara SE - 2 MT
-
-Año: 2014
-
-Motor: YD25864713B
-
-Chassis: MNTVCGD40E6601145
-
-Color: Blanco
-
-I.N.R.V.M.: GWBG.39-9
-
-Patente: GWBG.39
+Dejada sin efecto.
 
 31.- Fiscalía Local de La Florida
 
-Vehículo: Camioneta
+Dejada sin efecto.
 
-Marca: Nissan
+32.- Fiscalía Local de Peñalolén Macul
 
-Modelo: Navara SE 2.5
-
-Año: 2014
-
-Motor: YD25873992B
-
-Chassis: MNTVCGD40E6601127
-
-Color: Blanco
-
-I.N.R.V.M.: GVZW.28-9
-
-Patente: GVZW.28
-
-32.- Deja sin Efecto
+Dejada sin Efecto
 
 33.- Fiscalía Local de Delitos Flagrantes y Primeras Diligencias (Fiscalía Metropolitana Oriente)
 
