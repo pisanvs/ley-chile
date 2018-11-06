@@ -16,7 +16,7 @@ El cobro de la remuneración podrá efectuarse a través de la entidad de gesti�
 
 #### Artículo 2
 
-En el caso de la comunicación al público de las obras cinematográficas extranjeras que se realice en las salas de cine, a que se refiere el literal a) del artículo 3 de la ley N° 20.243, el pago de la remuneración que corresponde realizar, respectivamente, a directores y guionistas, y a los artistas intérpretes y ejecutantes, se realizará conforme a lo dispuesto en el inciso segundo del artículo 29 de la ley N° 17.336, actuando el exhibidor como retenedor.
+En el caso de la comunicación al público de las obras cinematográficas nacionales y extranjeras que se realice en las salas de cine, a que se refiere el literal a) del artículo 3 de la ley N° 20.243, el pago de la remuneración que corresponde realizar, respectivamente, a directores y guionistas, y a los artistas intérpretes y ejecutantes, será de cargo exclusivo del exhibidor.
 
 #### Artículo 3
 
