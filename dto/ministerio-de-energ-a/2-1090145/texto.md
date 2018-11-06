@@ -94,7 +94,7 @@ No obstante lo anterior, el Proyecto tendrá todas las otras características t�
 
 ### 6. Fecha de entrada en operación del Proyecto
 
-De acuerdo a lo establecido en el decreto exento Nº 158 y en las Bases de Licitación, la etapa del Proyecto asociada a la construcción de la subestación Nueva Diego de Almagro junto con sus seccionamientos y todos sus elementos, deberá entrar en operación, a más tardar, dentro de los 24 meses siguientes a la fecha de publicación en el Diario Oficial del presente decreto.
+De acuerdo a lo establecido en el decreto exento Nº 158 y en las Bases de Licitación, la etapa del Proyecto asociada a la construcción de la subestación Nueva Diego de Almagro junto con sus seccionamientos y todos sus elementos, deberá entrar en operación, a más tardar, dentro de los 30 meses siguientes a la fecha de publicación en el Diario Oficial del presente decreto.
 
 Por su parte, la etapa del Proyecto asociada a la construcción de la línea 2x220 kV Nueva Diego de Almagro - Cumbres y el banco de autotransformadores 1x750 MVA, 500/220 kV en la Subestación Cumbres, deberá ser construida y entrar en operación, a más tardar, dentro de los 42 meses siguientes a la fecha de publicación en el Diario Oficial del presente decreto.
 
@@ -174,7 +174,7 @@ ii. Construcción, montaje, puesta en servicio y energización del patio de 220 
 
 iii. Entrega para la correcta operación y coordinación.
 
-Este hito deberá cumplirse dentro de los 24 meses siguientes, contados desde la publicación del presente decreto en el Diario Oficial.
+Este hito deberá cumplirse dentro de los 30 meses siguientes, contados desde la publicación del presente decreto en el Diario Oficial.
 
 1.2. Etapa del proyecto asociada a la Nueva Línea 2x220 entre S/E Nueva Diego de Almagro - Cumbres e instalación del Banco de Autotransformadores 1x750 MVA 500/220 kV en la Subestación Cumbres.
 
