@@ -1074,11 +1074,29 @@ c) El que intercepte o capte maliciosamente o grabe sin la debida autorización,
 
 d) La difusión pública o privada de cualquier comunicación obtenida con infracción a lo establecido en la letra precedente, será sancionada con la pena de presidio menor en su grado máximo y multa de 100 a 5.000 UTM.
 
+e) El que sin la autorización del distribuidor legal, comercialice o distribuya una señal de servicios limitados de televisión adecuadamente protegida, o quien, de igual forma, importe, distribuya o comercialice dispositivos tangibles o intangibles destinados a la decodificación de tales señales, será sancionado con pena de multa de 10 a 1.000 unidades tributarias mensuales y el comiso de tales dispositivos. En caso de reincidencia, se sancionará con una multa de 20 a 2.000 unidades tributarias mensuales y, asimismo, el comiso de dichos instrumentos.
+
+El que con ánimo de lucro preste servicios de instalación de los dispositivos señalados en el inciso anterior será sancionado con pena de multa de 1 a 100 unidades tributarias mensuales, o de 2 a 200 unidades tributarias mensuales si fuese reincidente.
+
+Para determinar la cuantía de las multas señaladas en los incisos anteriores, deberán considerarse las siguientes circunstancias:
+
+i) El eventual beneficio económico obtenido con motivo de la infracción.
+
+ii) Capacidad económica del infractor.
+
+iii) La conducta anterior del infractor, salvo en caso de reincidencia.
+
+Se considerará, para estos efectos, que la señal satelital se encuentra adecuadamente protegida si es que el permisionario del servicio ha adoptado, oportunamente, medidas tecnológicas suficientes para el resguardo de sus servicios.
+
 #### Artículo 37
 
 Todo concesionario, permisionario o titular de licencia de servicios de telecomunicaciones deberá mantener, en un lugar visible dentro del local de la estación o a disposición de la autoridad, copia autorizada del decreto, permiso, o licencia correspondiente.
 
 La Subsecretaría podrá requerir de los concesionarios o permisionarios de servicios de telecomunicaciones los antecedentes e informes que sean necesarios para el cumplimiento de sus funciones, quienes estarán obligados a proporcionarlos. En situaciones de catástrofe, los concesionarios de servicios públicos e intermedios de telecomunicaciones, para efectos de lo dispuesto en el artículo 7° bis, deberán facilitar a la Subsecretaría la información sobre fallas significativas en sus sistemas de telecomunicaciones que puedan afectar el normal funcionamiento de los mismos. Dichos requerimientos podrán efectuarse por medios electrónicos y deberán entregarse en la forma y oportunidad que al efecto señale el reglamento que dicte el Ministerio. La negativa injustificada a entregar la información o antecedentes solicitados o la falsedad en la información proporcionada será castigada con las penas del artículo 210 del Código Penal, con la salvedad que la multa no podrá ser inferior a cinco ni superior a quinientas unidades tributarias mensuales.
+
+#### Artículo 37 bis
+
+Todo establecimiento en que se comercialicen dispositivos de señales de servicios limitados de televisión deberá exhibir, en lugar destacado y claramente visible al público, un cartel en el cual se indiquen de manera didáctica las prohibiciones y sanciones relacionadas a la decodificación de las referidas señales.
 
 #### Artículo 38
 
