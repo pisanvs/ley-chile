@@ -68,6 +68,16 @@ En los casos en que no exista ley que establezca una incompatibilidad entre el s
 
 Una misma empresa podrá postular más de una vez a este Programa, en la medida que se trate de proyectos de inversión diferentes.
 
+Para la Línea de Apoyo a la Inversión de los Pueblos Originarios, que se trata en los párrafos siguientes, podrán postular las empresas de base indígena y las cooperativas indígenas legalmente constituidas.
+
+Se entenderá por empresa de base indígena:
+
+- Las personas naturales que acrediten tener la calidad de indígena mediante certificado emitido por la Corporación Nacional de Desarrollo Indígena (Conadi) y que hayan iniciado actividades ante el Servicio de Impuestos Internos para el desarrollo de actividades empresariales (empresarios individuales). De no haber iniciado actividades a la fecha de postulación, y en el evento que el proyecto haya sido aprobado, deberán realizar dicho trámite hasta 6 meses de iniciado el plazo de ejecución del proyecto.
+
+- Las personas jurídicas, nacionales o extranjeras, que desarrollen proyectos de inversión productiva o de servicios, cuyos miembros sean personas que tengan la calidad de indígena, acreditado a través del certificado anteriormente indicado, ya sea en su totalidad o en un porcentaje superior al 50% de su composición, y que hayan iniciado actividades ante el Servicio de Impuestos internos. De no haber iniciado actividades a la fecha de postulación y en el evento que el proyecto haya sido aprobado, deberán realizar dicho trámite hasta 30 días después de iniciado el plazo de ejecución del proyecto.
+
+Se entenderá por cooperativas indígenas: Las cooperativas integradas en su totalidad o en un porcentaje superior al 50% de su composición por miembros que posean la calidad de indígenas, la que debe ser acreditada de acuerdo al certificado señalado en los párrafos anteriores.
+
 ### 3. LÍNEAS DE APOYO
 
 El programa contará con cuatro líneas de apoyo:
