@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, A LA "FUNDACIÓN EDUCACIONAL PARA EL DESARROLLO INTEGRAL DE LA NIÑEZ" (INTEGRA)
+
+Mediante decreto exento Nº E-415, de 11 de octubre de 2018, el Ministerio de Bienes Nacionales otorgó en concesión gratuita, a la "Fundación Educacional para el Desarrollo Integral de la Niñez" (Fundación Integra), RUT Nº 70.574.900-0, el inmueble fiscal correspondiente a la Manzana 3, del Sitio Nº 3, ubicado en calle Manuel Rodríguez Nº 346, Puerto Aguirre, comuna y provincia de Aysén, Región de Aysén del General Carlos Ibáñez del Campo; enrolado en el Servicio de Impuestos Internos con el Nº 681-15; amparado por inscripción global a nombre del Fisco a fojas 691 Nº 647, del Registro de Propiedad del Conservador de Bienes Raíces de Aysén, correspondiente al año 2014; singularizado en el Plano Nº 11201-1.173-C.U.; con una superficie de 1.553,68 m2. La concesión se otorga por un plazo de 8 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para el funcionamiento del Jardín Infantil, debiendo mantenerlo habilitado y en perfecto estado todas las dependencias necesarias para el cumplimiento de sus funciones, siendo de su cargo todos los pagos por concepto de servicios, y contribuciones si correspondiere. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefa de División Jurídica.
