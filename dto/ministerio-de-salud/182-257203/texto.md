@@ -74,6 +74,18 @@ Las personas afectadas por enfermedades mentales deberán decidir por sí, si de
 
 La circunstancia de encontrarse la persona en la situación de incapacidad de consentimiento, señalada en el inciso anterior, será evaluada y calificada por un médico-cirujano. En estos casos, la autorización será otorgada por el representante legal o tutor.
 
+#### Artículo 13º
+
+Los exámenes para detección del VIH que se realicen por medio de dispositivos diagnósticos de resultados inmediatos, tales como test visual de sangre capilar o fluido oral, fuera del ámbito de laboratorios clínicos, deberán aplicarse en sitios que cumplan adecuadamente con condiciones sanitarias y de privacidad, y bastará el requerimiento del interesado, sin necesidad de orden médica.
+
+Asimismo, deberán ser realizados por médicos, bioquímicos, químicos farmacéuticos, enfermeras, matronas, tecnólogos médicos o técnicos de enfermería o laboratorio clínico. El personal señalado deberá estar debidamente capacitado. En el caso de los técnicos, deberán ser supervisados por el respectivo profesional, el que siempre será responsable de la correcta aplicación del examen.
+
+En los casos en que en el análisis de muestra con estos métodos se obtenga un resultado reactivo, se deberá informar a la persona examinada este resultado como preliminar, indicándole la necesidad de ser confirmado.
+
+Para la confirmación se procederá a tomar la muestra sanguínea respectiva, la que será enviada al Instituto de Salud Pública de Chile, no aplicando para dichos efectos lo dispuesto en el artículo 8 del presente reglamento.
+
+El referido Instituto informará los resultados obtenidos al establecimiento que remitió las muestras, el que se deberá encargar de entregar los resultados a la persona examinada de acuerdo a lo dispuesto en el presente reglamento.
+
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Pedro García Aspillaga, Ministro de Salud.
 
 Lo que transcribo a Ud., para su conocimiento.- Saluda a Ud., Lidia Amarales Osorio, Subsecretaria de Salud Pública.
