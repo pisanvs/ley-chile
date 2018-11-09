@@ -1,0 +1,69 @@
+FIJA VALOR DE LA UNIDAD DE FOMENTO Y DEL ÍNDICE VALOR PROMEDIO PARA LOS DÍAS COMPRENDIDOS ENTRE EL 10 DE NOVIEMBRE DE 2018 Y 9 DE DICIEMBRE DE 2018
+
+El Banco Central de Chile, para los efectos previstos en el Capítulo II.B.3 "Sistemas de Reajustabilidad autorizados por el Banco Central de Chile (Acuerdo Nº 05-07-900105)" del Compendio de Normas Financieras, fija el valor de la "Unidad de Fomento" y del "Índice Valor Promedio" para los días comprendidos entre el 10 de noviembre de 2018 y 9 de diciembre de 2018, en las cantidades que a continuación se indican:
+
+Valores de U.F. e I.V.P.
+
+PERÍODO DEL 10 DE NOVIEMBRE 2018 AL 9 DE DICIEMBRE 2018
+
+FECHA UF I.V.P.
+
+10-11-2018 27.459,62 28.565,28
+
+11-11-2018 27.463,28 28.567,78
+
+12-11-2018 27.466,93 28.570,28
+
+13-11-2018 27.470,59 28.572,78
+
+14-11-2018 27.477,90 28.577,78
+
+16-11-2018 27.481,56 28.580,28
+
+17-11-2018 27.485,21 28.582,78
+
+18-11-2018 27.488,87 28.585,29
+
+19-11-2018 27.492,53 28.587,79
+
+20-11-2018 27.496,19 28.590,29
+
+21-11-2018 27.499,85 28.592,79
+
+22-11-2018 27.503,51 28.595,29
+
+23-11-2018 27.507,17 28.597,80
+
+24-11-2018 27.510,83 28.600,30
+
+25-11-2018 27.514,49 28.602,80
+
+26-11-2018 27.518,15 28.605,31
+
+27-11-2018 27.521,81 28.607,81
+
+28-11-2018 27.525,47 28.610,31
+
+29-11-2018 27.529,14 28.612,82
+
+30-11-2018 27.532,80 28.615,32
+
+01-12-2018 27.536,46 28.617,83
+
+02-12-2018 27.540,13 28.620,33
+
+03-12-2018 27.543,79 28.622,84
+
+04-12-2018 27.547,46 28.625,34
+
+05-12-2018 27.551,13 28.627,85
+
+06-12-2018 27.554,79 28.630,35
+
+07-12-2018 27.558,46 28.632,86
+
+08-12-2018 27.562,13 28.635,36
+
+09-12-2018 27.565,79 28.637,87
+
+Santiago, 8 de noviembre de 2018.- Pablo Mattar Oyarzún, Ministro de Fe (S).
