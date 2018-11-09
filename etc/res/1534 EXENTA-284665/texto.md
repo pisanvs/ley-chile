@@ -1014,4 +1014,46 @@ emergencia que ocurran en
 
 dicha comuna.
 
+1455 Fono Emergencia La recepción de llamadas
+
+Servicio Nacional para orientación a víctimas
+
+de la Mujer y la de violencia contra la mujer
+
+Equidad de Género difundido por el
+
+Servicio Nacional de la
+
+Mujer y la Equidad de
+
+Género, a nivel nacional.
+
+1456 Fono Emergencia San La recepción de llamadas
+
+Miguel atendidas por personal de
+
+la Corporación Municipal de
+
+San Miguel, respecto de
+
+situaciones de emergencia
+
+que ocurran en dicha
+
+comuna.
+
+1466 Fono Emergencia La recepción de llamadas
+
+Parque Metropolitano atendidas por personal de
+
+de Santiago la Central de Cámaras del
+
+Parque Metropolitano de
+
+Santiago, respecto de
+
+situaciones de emergencia
+
+que ocurran en dicho parque.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
