@@ -130,35 +130,19 @@ Edificación en predios existentes: Los proyectos de construcción, reconstrucci
 
 Estacionamientos: En la construcción y/o cambio de destino de todo o una parte de un edificio será obligatorio construir o habilitar, dentro del predio de emplazamiento del edificio, el número de estacionamientos que resulten de aplicar los estándares mínimos contenidos en la tabla que a continuación se inserta.
 
-EXIGENCIA MINIMA DE ESTACIONAMIENTOS DE AUTOMOVILES
+EXIGENCIA MÍNIMA DE ESTACIONAMIENTOS DE AUTOMÓVILES
 
 De acuerdo a lo establecido en el P.I.S.
 
 Destino Zona D
 
-1.- VIVIENDA
+VIVIENDA
 
 En edificios colectivos
 
 y/o acogidos a la ley de
 
-propiedad horizontal. 1 cada 7 viviendas o
-
-1 cada 450 m2 útiles
-
-construidos en
-
-vivienda
-
-No se exige
-
-estacionamientos a las
-
-viviendas sociales. Se
-
-aplica norma más
-
-exigente.
+propiedad horizontal. 1 cada vivienda.
 
 2.- EQUIPAMIENTO
 
@@ -706,7 +690,7 @@ Frente predial mínimo: 6 m.
 
 Porcentaje máximo ocupación de suelo: 80% .
 
-Coeficiente máximo de constructibilidad: 1,2.
+Coeficiente máximo de constructibilidad: 0,84.
 
 Sistema de Agrupamiento: Aislado, pareado, continuo.
 
@@ -818,7 +802,7 @@ Frente predial mínimo: 7 m.
 
 Porcentaje máximo de ocupación de suelo: 80%
 
-Coeficiente de Constructibilidad: 1,5.
+Coeficiente de Constructibilidad: 1,05.
 
 Sistema de Agrupamiento: Aislado, pareado, continuo.
 
@@ -900,7 +884,7 @@ Frente predial mínimo: 10 m.
 
 Porcentaje máximo de ocupación de suelo: 80%
 
-Coeficiente máximo de Constructibilidad: 1,5.
+Coeficiente máximo de Constructibilidad: 1,05.
 
 Sistema de Agrupamiento: Aislado, pareado, continuo.
 
