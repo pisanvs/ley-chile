@@ -138,11 +138,7 @@ Noveno: Todos los agentes involucrados deberán cumplir con las formas y condici
 
 <!-- parte:9633780 -->
 
-Décimo: El Servicio efectuará el procedimiento de acreditación de origen legal, mediante la visación de los respectivos recursos en la Oficina de Melinka, cuyo horario de atención será de lunes a jueves, entre las 9:00 y 18:00 horas y viernes de 09:00 a 17:00 horas.
-
-El procedimiento se podrá extender hasta las 22:00 horas y en caso de condiciones climatológicas adversas hasta las 24:00 horas.
-
-Excepcionalmente, podrá ampliarse el procedimiento de acreditación a días sábado, domingo y festivos en los horarios indicados precedentemente. Sin perjuicio de lo anterior, en todos los casos la extensión de días y de horarios deberá solicitarse al Servicio con al menos 12 horas de anticipación al traslado o comercialización de los recursos o productos de que se trate y quedará condicionado a la existencia de personal disponible por parte del mismo.
+Décimo: El Servicio efectuará el procedimiento de acreditación de origen legal mediante la visación de los respectivos recursos en la oficina de Melinka o el documento tributario más el comprobante AOL del sistema trazabilidad.
 
 #### Artículo décimo primero
 
@@ -154,7 +150,7 @@ Décimo primero: Las embarcaciones transportadoras que operen en el área o zona
 
 <!-- parte:9633782 -->
 
-Décimo segundo: El Servicio fiscalizará a los agentes comercializadores y a las plantas de proceso a fin de controlar la medida de administración referida a la talla mínima legal de los recursos. Para este efecto las plantas deberán respaldar sus abastecimientos acreditando el origen legal mediante los procedimientos establecidos por el Servicio.
+Décimo segundo: Eliminado.
 
 #### Artículo décimo tercero
 
