@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DEL BIOBÍO, A LA "I. MUNICIPALIDAD DE MULCHÉN"
+
+Mediante decreto exento Nº E-435 de 18 de octubre de 2018, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "I. Municipalidad de Mulchén", RUT Nº 69.170.500-5, el inmueble fiscal ubicado en calle Aníbal Pinto Nº 495, comuna de Mulchén, provincia Biobío, Región del Biobío, excluidas las porciones que se indican; enrolado en el Servicio de Impuestos Internos con el rol matriz Nº 98-4; inscrito a nombre del Fisco que rola a fs. 62 vta. Nº 49, del Registro de Propiedad del Conservador de Bienes Raíces de Mulchén, correspondiente al año 1936; singularizado en el Plano Nº VIII-4-6.817-C.U.; con una superficie de 2.303,1 m2 de terreno y 1.921,01 m2 construidos. La Concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para el funcionamiento de sus propias oficinas, manteniéndolo habilitado y en perfectas condiciones para la realización de sus actividades en beneficio de la comunidad; dando cumplimiento oportuno al pago de servicios y contribuciones que le afecten. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefa de División Jurídica.
