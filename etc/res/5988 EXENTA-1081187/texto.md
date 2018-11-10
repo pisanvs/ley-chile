@@ -98,15 +98,11 @@ Octavo: Los agentes extractores y embarcaciones de transporte que operen en la z
 
 Noveno: Todos los agentes involucrados deberán cumplir con las formas y condiciones establecidas en el DS Nº 129 del año 2013 que "Establece Reglamento para la Entrega de Información de Pesca y Acuicultura y la Acreditación de Origen", como asimismo, con los artículos 63 y 64 de la Ley General de Pesca y Acuicultura.
 
-Décimo: El Servicio efectuará el procedimiento de acreditación de origen legal, mediante la visación de los respectivos recursos en la Oficina de Melinka, cuyo horario de atención será de lunes a jueves, entre las 9:00 y 18:00 horas y viernes de 09:00 a 17:00 horas.
-
-El procedimiento se podrá extender hasta las 22:00 horas y en caso de condiciones climatológicas adversas hasta las 24:00 horas.
-
-Excepcionalmente, podrá ampliarse el procedimiento de acreditación a días sábado, domingo y festivos en los horarios indicados precedentemente. Sin perjuicio de lo anterior, en todos los casos la extensión de días y de horarios deberá solicitarse al Servicio con al menos 12 horas de anticipación al traslado o comercialización de los recursos o productos de que se trate y quedará condicionado a la existencia de personal disponible por parte del mismo.
+Décimo: El Servicio efectuará el procedimiento de acreditación de origen legal mediante la visación de los respectivos recursos en la oficina de Melinka o el documento tributario más el comprobante AOL del sistema trazabilidad.
 
 Décimo primero: Las embarcaciones transportadoras que operen en el área o zona contigua objeto de la presente resolución, también deberán dar cumplimiento al DS Nº 129 del año 2013, ya citado. Además, deberán dirigirse a la Oficina del Servicio en Melinka, con el fin de que esta última fiscalice y controle el origen legal de los recursos mediante la respectiva visación y proceda al sellado de bodegas, si la situación lo amerita. En los casos que el recurso sea transportado en la cubierta de la embarcación, la carga deberá estar de forma tal que permita un sellado efectivo consignando su peso en un acta.
 
-Décimo segundo: El Servicio fiscalizará a los agentes comercializadores y a las plantas de proceso a fin de controlar la medida de administración referida a la talla mínima legal de los recursos. Para este efecto las plantas deberán respaldar sus abastecimientos acreditando el origen legal mediante los procedimientos establecidos por el Servicio.
+Décimo segundo: Eliminado.
 
 Décimo tercero: Los agentes extractores deberán pesar su desembarque en un sistema de pesaje habilitado y vigente por el Servicio.
 

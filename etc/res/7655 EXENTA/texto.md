@@ -42,15 +42,7 @@ DE LA ACREDITACIÓN DE ORIGEN LEGAL DE LAS CAPTURAS DE MERLUZA COMÚN DURANTE EL
 
 1. Toda la captura del recurso merluza común desembarcada como fauna asociada, así como la respectiva especie objetivo, deberá ser acreditada ante el Servicio. Para ello, el armador deberá presentar su respectiva declaración de desembarque, de conformidad con las normas contenidas en el decreto supremo Nº129 del año 2013, del Ministerio de Economía, Fomento y Turismo, que "Establece Reglamento para la Entrega de Información de Pesca y Acuicultura y la Acreditación de Origen", o a las que se establezcan en el o los cuerpos normativos que lo modifiquen o reemplacen.
 
-2. Las personas naturales o jurídicas que vendan, adquieran o trasladen el recurso y/o producto derivado de merluza común, deberán acreditar el origen de éste ante el Servicio, mediante la visación presencial del documento tributario correspondiente, solicitada en forma manual o electrónica. Para ello, deberán presentar, según corresponda, los siguientes documentos:
-
-a) Solicitud de visación;
-
-b) Copia del formulario de desembarque correspondiente (Artesanal o Industrial), debidamente recepcionado por el Servicio. En los casos que corresponda, esta información deberá encontrarse certificada por la Entidad Auditora correspondiente al lugar del desembarque;
-
-c) Documentación Tributaria original que acredite la transferencia del recurso, en la cual se deberá individualizar su peso, en número y letras, y la descripción del número y tipo de envases primarios en que es contenido (cajas u otro), junto a la entrega de la declaración de abastecimiento del comercializador debidamente respaldada, según corresponda;
-
-d) Documentación Tributaria de traslado original, en la que se debe identificar cada uno de los documentos señalados en el inciso anterior, con su número y fecha, peso total del recurso o producto, en números y letras, la descripción del número y tipo de envases primarios en que es contenida la totalidad del recurso trasladado (cajas u otros), la dirección comercial del destinatario y la dirección del destino final de lo trasladado, en la medida que ellas sean diferentes; nombre del chofer y placa patente del vehículo, junto a la entrega de la declaración de abastecimiento del comercializador debidamente respaldada, según corresponda.
+2. Las personas naturales o jurídicas que deban trasladar recursos o productos derivados de Merluza común, deberán acreditar su origen legal ante el Servicio mediante el documento tributario más el comprobante AOL del sistema Trazabilidad o la visación del documento tributario correspondiente.
 
 El incumplimiento o inconsistencia respecto de uno o más de los documentos señalados precedentemente implicará el rechazo de la solicitud, eventualidad en la que el Servicio realizará la denuncia respectiva en la instancia que corresponda, en la medida que dicho rechazo sea motivado por la constatación de conductas que vulneren la normativa pesquera, tributaria o sanitaria que regulan la actividad.
 

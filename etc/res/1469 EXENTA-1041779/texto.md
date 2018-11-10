@@ -80,7 +80,7 @@ j) MC 26-01 (2009), Protección general del medio ambiente durante la pesca.
 
 Medidas de control e inspección de las capturas y productos del recurso
 
-9. Las personas naturales o jurídicas que deban trasladar recurso o productos derivados de éstos, con fines de procesamiento, comercialización u otros, deberán acreditar su origen legal ante el Servicio mediante la visación del documento tributario correspondiente.
+9. Las personas naturales o jurídicas que deban trasladar recursos o productos derivados de éstos, con fines de procesamiento, comercialización u otros, deberán acreditar su origen legal ante el Servicio mediante el documento tributario más el comprobante AOL del sistema Trazabilidad o la visación del documento tributario correspondiente.
 
 11. Los armadores, los exportadores, los comercializadores y titulares de plantas elaboradoras, frigoríficos o bodegas, en general, que mantengan o proporcionen servicios de proceso y almacenamiento para el recurso y sus productos derivados, deberán declarar el stock disponible, en los primeros cinco días de los meses de enero y junio de cada año, en la forma y condiciones que establece el "Instructivo", en su numeral 64. Lo anterior, independiente de las facultades que el Servicio tiene para pedir esta información adicional cuando lo estime pertinente y necesario.
 

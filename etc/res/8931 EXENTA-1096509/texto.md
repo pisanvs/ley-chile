@@ -40,19 +40,7 @@ De la acreditación de origen legal de los recursos merluza del sur, raya volant
 
 1. Las personas naturales o jurídicas que capturen y desembarquen los recursos merluza del sur (Merluccius australis), raya volantín (Zearaja chilensis), raya espinosa (Dipturus trachyderma), centolla (Lithodes santolla), centollón (Paralomis granulosa) y congrio dorado (Genypterus blacodes), ya sea como especie objetivo o fauna asociada, deberán acreditar su origen ante el Servicio. Para ello, el armador o titular de la embarcación deberá presentar su respectiva declaración de desembarque, de conformidad con las normas contenidas en el decreto supremo Nº 129 del año 2013, del Ministerio de Economía, Fomento y Turismo, que "Establece Reglamento para la Entrega de Información de Pesca y Acuicultura y la Acreditación de Origen", o a las que se establezcan en el o los cuerpos normativos que lo modifiquen o reemplacen.
 
-2. Las personas naturales o jurídicas que comercialicen o trasladen los recursos hidrobiológicos antes indicados, fuera de la región de donde fueron desembarcados, deberán acreditar su origen legal ante el Servicio, mediante la visación presencial del documento tributario correspondiente, solicitada en forma manual o electrónica. Para ello, deberán presentar, según corresponda, los siguientes documentos:
-
-a) Solicitud de visación.
-
-b) Copia del formulario de desembarque correspondiente (artesanal o industrial), debidamente recepcionado por el Servicio. En los casos que corresponda, esta información deberá encontrarse certificada por la Entidad Auditora correspondiente al lugar del desembarque.
-
-c) Declaración de abastecimiento; declaración de producción; declaración de destino; y/o anexo de declaraciones de producción por eventos de reproceso; si correspondiere.
-
-d) Documentación tributaria original que acredite la transferencia de los recursos y/o productos, en la cual se deberá individualizar el nombre común de la especie; su peso, en número y letras, y la descripción del número y tipo de envases primarios en que es contenido (cajas u otro), junto a la entrega de la declaración de abastecimiento del comercializador debidamente respaldada, según corresponda.
-
-e) Documentación tributaria de traslado original, en la que se debe identificar cada uno de los elementos señalados en el literal precedente, además de la dirección comercial del destinatario y la dirección del destino final de lo trasladado, en la medida que ellas sean diferentes; nombre del chofer y placa patente del vehículo o medio de transporte, junto a la entrega de la declaración de abastecimiento del comercializador debidamente respaldada, según corresponda.
-
-f) Las personas naturales o jurídicas adscritas al Sistema Trazabilidad, deberán presentar en reemplazo de las declaraciones de operación pesquera mencionadas en las letras b), c) y d) precedentes, las emitidas por dicho Sistema, y anotar en el documento tributario de traslado, el número de folio de dichas declaraciones electrónicas.
+2. Las personas naturales o jurídicas que comercialicen o trasladen los recursos antes indicados y/o sus productos derivados, incluyendo los importados, deberán acreditar su origen legal ante el Servicio mediante el documento tributario más el comprobante AOL del sistema Trazabilidad o la visación del documento tributario correspondiente.
 
 Las personas naturales o jurídicas que comercialicen o trasladen los recursos merluza del sur, raya volantín, raya espinosa, centolla, centollón y congrio dorado, dentro de la región de donde fueron desembarcados, se regirán por el procedimiento de acreditación de origen legal establecido en la resolución exenta Nº 1.319 citada en Vistos.
 
