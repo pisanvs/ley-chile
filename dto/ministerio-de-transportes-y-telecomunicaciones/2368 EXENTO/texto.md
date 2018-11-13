@@ -22,6 +22,8 @@ c) Tercer Subrogante: Jefe/a de la División de Normas y Operaciones, grado 2º 
 
 d) Cuarto Subrogante: Jefe/a de la División de Transporte Público Regional, grado 2º de la E.U.S., de la Planta de la Subsecretaría de Transportes.
 
+e) Quinto subrogante: al Jefe del Departamento de Asuntos Internacionales, grado 4º de la EUS, de la Planta de la Subsecretaría de Transportes.
+
 2º Déjase sin efecto a contar de la fecha del presente acto administrativo, el decreto exento Nº 1.242 de 2013, citado en Vistos.
 
 3º Por razones impostergables de buen servicio, la presente designación de subrogantes producirá sus efectos de inmediato, sin esperar la total tramitación de este decreto.
