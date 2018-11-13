@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN EXENTA Nº 604, DE 25 DE OCTUBRE DE 2018
+
+Por resolución exenta Nº 604 de 25 de octubre de 2018, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se dispuso el aumento de la vigencia de los certificados de inscripción en el Registro Nacional de Servicios de Transporte Público Remunerado de Pasajeros extendidos a la fecha de publicación del extracto de la resolución exenta Nº 3.215 de 2018, del Ministerio de Transportes y Telecomunicaciones, para los buses inscritos en los servicios urbanos regidos por la resolución exenta Nº 2.246 de 2005, del mismo Ministerio, hasta el 3 de mayo de 2020 o bien hasta la entrada en vigencia de un perímetro de exclusión en la zona geográfica del Gran Concepción, cualquiera de los dos hechos que ocurra primero.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
