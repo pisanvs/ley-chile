@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.048 EXENTA, DE 18 DE OCTUBRE DE 2018
+
+Por resolución exenta Nº 1.048 de 18 de octubre de 2018, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se aprobaron los planes y programas de la Escuela de Conductores Profesionales "Servicios de Capacitación Cornejo & González Limitada", cuyo nombre de fantasía es "Escuela de Conductores Seguridad Vial Limitada", de propiedad de la sociedad del mismo nombre, RUT: 76.766.457-5, representada legalmente por Pablo Andrés Cornejo Abarca, cédula de identidad Nº 13.570.515-2, para la obtención de la licencia de conductor profesional Clase A-2 y A-4 en su sede ubicada en Cancha Rayada Nº 733, comuna de San Fernando.-
+
+Hans González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
