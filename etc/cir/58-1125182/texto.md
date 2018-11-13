@@ -1,0 +1,9 @@
+INSTRUYE MEDIDAS DE DEBIDA DILIGENCIA Y CONOCIMIENTO DE CLIENTES PARA EMISORES Y OPERADORES DE TARJETAS DE PAGO CON PROVISIÓN DE FONDOS Y CUALQUIER OTRO SISTEMA SIMILAR A DICHO MEDIO DE PAGO, Y REGULA COMITÉ DE PREVENCIÓN DE LAVADO DE ACTIVOS Y FINANCIAMIENTO DEL TERRORISMO
+
+Extracto de circular de la Unidad de Análisis Financiero Nº 58, de 8 de noviembre de 2018, que señala:
+
+De acuerdo a lo establecido en la ley Nº 19.913, y en concordancia con la facultad legal expresada en la letra f) del artículo 2° del mismo cuerpo legal, en cuanto a impartir instrucciones de carácter general a las personas naturales y jurídicas que ejercen una actividad económica de aquellas que la propia ley señala en su artículo 3°, se han dictado las presentes instrucciones para ser cumplidas por los Emisores y Operadores de Tarjetas de Pago con Provisión de Fondos y Cualquier Otro Sistema Similar a dicho Medio de Pago, buscando con ello un adecuado cumplimiento de las obligaciones de prevenir e impedir la utilización del sistema financiero y de otros sectores de la actividad económica, para la comisión del delito de Lavado de Activos o de Financiamiento del Terrorismo, contempladas en el artículo 1º de la ley 19.913, instruyendo a los Emisores y Operadores de Tarjetas de Pago con Provisión de Fondos y Cualquier Otro Sistema Similar a dicho Medio de Pago, la implementación de medidas de debida diligencia y conocimiento de clientes respecto de las tarjetas de pago con provisión de fondos de carácter nominativas, que señala; la creación de un Comité de Prevención de Lavado de Activos y Financiamiento del Terrorismo, regulando, además, la relación de esta circular con otras dictadas por la Unidad de Análisis Financiero, entre otras materias.
+
+El texto íntegro de esta circular está publicado en la página web de la Unidad de Análisis Financiero (www.uaf.cl).-
+
+Javier Cruz Tamburrino, Director, Unidad de Análisis Financiero.
