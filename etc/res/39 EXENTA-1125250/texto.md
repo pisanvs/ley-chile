@@ -1,0 +1,11 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL (RCA) ESTUDIO DE IMPACTO AMBIENTAL (EIA) "TERMINAL CERROS DE VALPARAÍSO, TCVAL"
+
+De conformidad a lo dispuesto en el artículo 91 inciso tercero del decreto supremo N° 40 de 2012, del Ministerio del Medio Ambiente, que Aprueba Reglamento del Sistema de Evaluación de Impacto Ambiental, se informa a las personas -naturales y jurídicas- que presentaron observaciones durante el procedimiento de evaluación ambiental del Estudio de Impacto Ambiental (EIA) "Terminal Cerros de Valparaíso, TCVAL", cuyo titular es Terminal Cerros de Valparaíso S.A., que este ha sido calificado ambientalmente favorable por la Comisión de Evaluación de la Región de Valparaíso, mediante la resolución exenta N° 39/2018 (RCA), de fecha 2 de octubre de 2018.
+
+De igual modo, se informa a todas las personas -naturales y jurídicas- que hayan realizado observaciones ciudadanas al EIA "Terminal Cerros de Valparaíso, TCVAL" y que estimen que éstas no han sido debidamente consideradas en los fundamentos de la citada RCA, disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar un recurso de reclamación ante el Comité de Ministros, de conformidad a los artículos 20 y 29 de la Ley N° 19.300 sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la RCA citada, puede ser conocido en la oficina del Servicio de Evaluación Ambiental de la Región de Valparaíso, ubicada en Prat 827, oficina 301, Valparaíso, con horario de atención de lunes a viernes de 09:00 a 13:00 horas; en las oficinas del Gobierno Regional, ubicadas en calle Melgarejo 669, pisos 7 y 10, Valparaíso, con horario de atención de lunes a viernes de 09:00 a 14:00 horas; en las oficinas de la Ilustre Municipalidad de Valparaíso, ubicadas en Avenida Argentina 864, con horario de atención de lunes a viernes de 09:00 a 14:00 horas. Además, se puede acceder a la RCA y su expediente de evaluación, a través del sitio web www.sea.gob.cl o directamente a través del siguiente enlace:
+
+http://seia.sea.gob.cl/archivos/2018/10/25/RCA_-_TCVAL_-_final.pdf
+
+Cristián Vega Núñez, Director Regional (S) Servicio de Evaluación Ambiental Región de Valparaíso.
