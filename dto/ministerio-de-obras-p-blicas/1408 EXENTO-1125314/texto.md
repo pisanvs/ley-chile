@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 1408, de 17 de octubre de 2018, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e), y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y D.F.L. M.O.P N°206, de 1960, se expropió el lote de terreno N° 12-B, para la obra "Reposición Puente Río Bueno en Ruta T-71", que figura a nombre de SILVA SILVA MIREYA VERONICA, rol de avalúo SIN ROL, Comuna de LA UNION, Región de Los Ríos, superficie 1.371 m2. La Comisión de Peritos integrada por Patricio Fernando Casagrande Ulloa, Yaschala Maribel Yáñez Riffo y María Soledad Núñez Arroyo, mediante informe de tasación de 06 de marzo de 2017, fijó el monto de la indemnización provisional en la cantidad de $9.890.000.- para el lote N° 12-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
