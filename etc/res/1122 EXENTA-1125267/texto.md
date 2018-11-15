@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº 2018/PA/05/1.122 EXENTA, DE FECHA 29 DE AGOSTO DE 2018, QUE ORDENA INSTRUIR PROCESO ADMINISTRATIVO
+
+La Superintendencia de Educación, por resolución exenta Nº 2018/PA/05/1.122, de fecha 29 de agosto de 2018, que Ordena Instruir Proceso Administrativo al Sostenedor Entidad Individual Educacional Escuela Guillermo Tell E.I.E., representado legalmente por doña María Blanca Yuretic Hernández, RUT Nº 3.849.496-1. Resuelvo: 1. Instrúyase Proceso Administrativo al Sostenedor Entidad Individual Educacional Escuela Guillermo Tell E.I.E., por los hechos consignados en Acta de Fiscalización Nº 180501462, de fecha 14.08.2018. 2.- Desígnese Fiscal Instructor a doña Francisca Fuentes Rodríguez, correo electrónico francisca.fuentes@superedu.cl. 3.- Notifíquese la presente resolución.-
+
+Roxana Olmos Palma, Encargada Jurídica Regional (S) Superintendencia de Educación Región de Valparaíso.
