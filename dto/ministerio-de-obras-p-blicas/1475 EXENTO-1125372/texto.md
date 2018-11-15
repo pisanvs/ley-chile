@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 1475 de 24 de octubre de 2018, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 14-D1 y 15-A1, Comuna de Futaleufú, Roles de avalúo 103-165 y 103-136, superficies 2.487 y 119.041 m2. respectivamente, para la obra CONSTRUCCIÓN CONEXIÓN VIAL CR. RUTA 231-CH-ACC. NORTE LAGO ESPOLÓN, COMUNA DE FUTALEUFU, PROVINCIA DE PALENA, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, JUAN SAMUEL BARRIENTOS BAHAMONDE y CHRISTIAN EMIL RAUCH YÁÑEZ, fijó el valor de tasación con fecha 3 de mayo de 2017, acordándose la indemnización con sus propietarios GLORIA DEL CARMEN HVALIBOTA GAJARDO Y OTROS, en la cantidad de $153.628.947.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
