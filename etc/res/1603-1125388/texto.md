@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.603 de fecha 22 de octubre de 2018, del Serviu IV Región de Coquimbo, se ordenó expropiar, por causa de utilidad pública, según la estrategia de erradicación y desarrollo de proyecto habitacional denominado "Puerto Oscuro Sur" de la localidad de Puerto Oscuro, que beneficiará a 12 familias pertenecientes a familias de campamentos de la Región de Coquimbo, conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote A-1-20 B, en plano de expropiación, ubicado en Fdo. Puerto Oscuro LT A1, comuna de Canela, Rol de Avalúo N° 501-01 de la comuna de Canela, de aparente dominio de Sociedad de Inversiones Leasing y Proyectos Limitada, superficie aprox. de 3.912,82 m2. Comisión de Peritos conformada por profesionales Jaime Rolando Jurgens Bittner, Inés Elena Otárola Castillo y Pablo Javier Flores Salinas, según informe de fecha 30 de noviembre de 2017, fijó indemnización provisional en $46.857.690.-, pagadero al contado.-
+
+Eduardo Gay Pasche, Director (S) Serviu Región de Coquimbo.
