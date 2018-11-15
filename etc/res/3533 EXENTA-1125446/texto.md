@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.533, 6 de noviembre 2018, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Monte Águila, de la comuna de Cabrero, Rol de avalúo N° 1228-38, de aparente dominio de Suc. Castillo Briones Rosalba, superficie afecta a expropiación es de 110,78 m2 de terreno, enmarcado en el plano S8R-36.107, para la ejecución de las obras del proyecto denominado "Construcción Ciclovía Ruta 060, Cabrero - Monteáguila" de la comuna de Cabrero, conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por constructor civil Roxana Abarzúa Gajardo, ingeniero civil Carlos Montecinos Galleguillos y arquitecto Alberto Vallette Isla, según informe de fecha 24 de agosto de 2018, fijó monto provisional de indemnización más reajustes del artículo 5° del DL N° 2.186 en $2.726.699.-, pagadera de contado.
+
+Director (S) Serviu Región del Biobío.
