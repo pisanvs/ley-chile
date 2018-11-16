@@ -44,9 +44,9 @@ e) Recopilar, analizar y mantener actualizada la información técnica y cientí
 
 f) Promover la sustentabilidad económica de los recursos minerales no metálicos de los salares en el territorio nacional.
 
-g) Administrar los bienes muebles o inmuebles, corporales e incorporales, de propiedad de la Corporación y/o cualquier organismo público, tales como pertenencias mineras y otros, relacionados con los objetivos del Comité, cuya administración le sea delegada por el Consejo de la Corporación.
+g) Administrar los bienes muebles o inmuebles, corporales e incorporales, de propiedad de la Corporación y/o cualquier organismo público, tales como pertenencias mineras y otros, relacionados con los objetivos del Comité, cuya administración le sea delegada por el Consejo de la Corporación, con excepción de las pertenencias OMA, Rigo, Sal y Salar, ubicadas en el Salar de Atacama.
 
-h) Administrar y fiscalizar contratos vigentes que pudieran derivarse de la delegación indicada en el literal anterior, y de todos los bienes, derechos de agua, infraestructura y servidumbres, entre otros, que pudieran estar vinculados al amparo de dicha delegación.
+h) Administrar y fiscalizar contratos vigentes que pudieran derivarse de la delegación indicada en el literal anterior, y de todos los bienes, derechos de agua, infraestructura y servidumbres, entre otros, que pudieran estar vinculados al amparo de dicha delegación, salvo que digan relación con las pertenencias OMA, Rigo, Sal y Salar, ubicadas en el Salar de Atacama
 
 i) Asesorar y acompañar al Ministerio de Minería, cuando ello corresponda, en los procesos de licitación de minería no metálica, en el otorgamiento de contratos especiales de operación, de asociación público-privada, y cualquier otro mecanismo que al efecto se pudiera implementar bajo el marco de la actual normativa.
 
