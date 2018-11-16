@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.118 EXENTA, DE 2 DE OCTUBRE DE 2018
+
+Por resolución exenta N° 1.118, de 2 de octubre de 2018, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Ríos, autorizó el funcionamiento del terminal no urbano para servicios de locomoción colectiva interurbana y rural, prestado mediante buses, ubicado en calle Anfión Muñoz N° 360, comuna de Valdivia, Región de Los Ríos, de responsabilidad de la sociedad arrendataria Terrapuerto Valdivia S.A., RUT N° 76.117.995-0. El concesionario y el arrendatario responsable del recinto señalado precedentemente deberá cumplir, según corresponda, con las disposiciones contenidas en la Ordenanza Municipal de Terminales de Locomoción Colectiva No Urbana, aprobada por decreto exento N° 8.798 de 2017, de la ilustre Municipalidad de Valdivia.-
+
+Marcela Villenas Obreque, Secretaria Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Ríos.
