@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DEL BIOBÍO, A LA "I. MUNICIPALIDAD DE LEBU"
+
+Mediante decreto exento Nº E-448 de 26 de octubre de 2018, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "I. Municipalidad de Lebu", RUT Nº 69.160.300-8, el inmueble fiscal ubicado en calle José Joaquín Pérez Nº 640, comuna de Lebu, provincia de Arauco, Región del Biobío; enrolado en el Servicio de Impuestos Internos con el Nº 108-1; inscrito a nombre del Fisco que rola a fs. 17 Nº 32, del Registro de Propiedad del Conservador de Bienes Raíces de Lebu, correspondiente al año 1874; singularizado en el Plano Nº 08201-20.305-C.U.; con una superficie de 1.026,62 m2. La Concesión se otorga por un plazo de 25 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para la construcción y habilitación del Edificio Consistorial de Lebu. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefe División Jurídica.
