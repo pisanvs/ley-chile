@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL Nº 23900227094, DEL BANCO DEL ESTADO DE CHILE, SUCURSAL VALPARAÍSO, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL DEL INSTITUTO DE PREVISIÓN SOCIAL DE VALPARAÍSO, CAPRI IPS VALPARAÍSO, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta Nº 357, de 23 de agosto de 2018, el Director Nacional del Instituto de Previsión Social, delega en funcionarios del Centro de Atención Previsional Integral IPS Valparaíso, la facultad para operar la cuenta corriente "giradora local" citada en la referencia, abierta en la sucursal Valparaíso del Banco del Estado de Chile, destinada al pago de beneficios previsionales y gastos de la Institución originados en el mencionado CAPRI.
+
+Santiago, 13 de noviembre de 2018.- Patricio Coronado Rojo, Director Nacional.
