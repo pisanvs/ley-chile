@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL Nº 0504-0030-0100027422, DEL BANCO BILBAO VIZCAYA ARGENTARIA (CHILE), SUCURSAL IQUIQUE, PARA LOS CENTROS DE ATENCIÓN PREVISIONAL INTEGRAL DEL INSTITUTO DE PREVISIÓN SOCIAL DE IQUIQUE Y ALTO HOSPICIO, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta Nº 375, de 12 de septiembre de 2018, el Director Nacional del Instituto de Previsión Social, delega en funcionarios de los Centros de Atención Previsional Integral IPS Iquique y Alto Hospicio, la facultad para operar la cuenta corriente "giradora local" citada en la referencia, abierta en la sucursal Iquique del Banco Bilbao Vizcaya Argentaria (Chile), destinada al pago de beneficios previsionales y gastos de la Institución originados en los mencionados CAPRI.
+
+Santiago, 13 de noviembre de 2018.- Patricio Coronado Rojo, Director Nacional.
