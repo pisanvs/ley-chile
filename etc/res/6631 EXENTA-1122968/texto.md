@@ -68,7 +68,7 @@ Del monto de subsidio
 
 11. Para efectos de dar cumplimiento a lo establecido en el artículo 9 del DS N° 10 (V. y U.) de 2015, en lo relativo al valor máximo de la vivienda, una vez desarrollado el proyecto definitivo podrá incluir subsidios complementarios que sumados al subsidio base y al ahorro, no podrá superar las 1.400 UF. Para las comunas de Juan Fernández, Isla de Pascua, las comunas de las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y la Antártica Chilena, las comunas de la provincia de Palena en la Región de Los Lagos, y en las localidades de Isla Mocha e Isla Santa María de la Región del Biobío, este valor no podrá superar las 1.600 UF, incluyendo los montos de subsidio base, subsidios complementarios y ahorro. Lo anterior, sin perjuicio que, tratándose de viviendas a ejecutar en el área rural deberá estarse a lo dispuesto en el artículo 55 de la Ley General de Urbanismo y Construcciones, cuando corresponda.
 
-12. Para efectos de la asignación de recursos en este Llamado, se entenderá por subsidio aquel que corresponde al monto de subsidio base ajustado según el factor multiplicador por condición de aislamiento, calculados de conformidad con lo establecido en la resolución exenta citada en el Visto c) de la presente resolución. Los subsidios complementarios indicados en el artículo 10 del DS N° 10 (V. y U.) de 2015, deberán ser solicitados al momento de presentar el proyecto definitivo a Serviu y serán otorgados siempre que sean debidamente justificados, en un presupuesto separado, fundamentado y detallado. Sin perjuicio de lo anterior, el subsidio complementario para personas con discapacidad, debe solicitarse junto al subsidio base al momento de postulación de dichas familias
+12. Para efectos de la asignación de recursos en este Llamado, se entenderá por subsidio aquel que corresponde al monto de subsidio base ajustado según el factor multiplicador por condición de aislamiento, calculados de conformidad con lo establecido en la resolución exenta citada en el Visto c) de la presente resolución. Los subsidios complementarios indicados en el artículo 10 del DS N° 10 (V. y U.) de 2015, deberán ser solicitados al momento de presentar el proyecto definitivo a Serviu y serán otorgados siempre que sean debidamente justificados, en un presupuesto separado, fundamentado y detallado. Sin perjuicio de lo anterior, el subsidio complementario para personas con discapacidad, debe solicitarse junto al subsidio base al momento de postulación de dichas familias. Delégase en los respectivos Secretarios Regionales Ministeriales de Vivienda y Urbanismo, la facultad para asignar a través de una resolución, los subsidios complementarios a que se refiere el artículo 10 del DS N° 10 (V. y U.), de 2015, tomando como base la aprobación técnica, jurídica y económica de cada proyecto, proporcionada por Serviu
 
 13. Para efectos de la postulación a la tipología Construcción de Recintos Complementarios, a que se refiere el artículo 4, letra b) numeral iv, se podrá acceder a un monto total máximo de 120 UF, sin perjuicio del número de recintos adicionales que se desee construir.
 
@@ -96,7 +96,7 @@ Recursos disponibles
 
 21. Para efectos de dar cumplimiento a lo establecido en el numeral 3.2.1 de la resolución Nº 3.129 (V. y U.) de fecha 16 de mayo de 2016, en la determinación de la capacidad de soporte del terreno requerida para proyectos de la tipología construcción en sitio del residente, se podrá usar alternativamente a la calicata de 2,5 metros de profundidad, los parámetros establecidos en el artículo 5.7.10 de la Ordenanza General de Urbanismo y Construcciones, asumiendo la naturaleza de terreno denominada "Arcilla Húmeda" y estableciendo presiones admisibles de 0,5 kg/cm2. Las condiciones descritas para el desarrollo de los proyectos deberán estar estipuladas en el correspondiente Informe de Suelo suscrito por el profesional competente.
 
-22. Los recursos involucrados para la selección ascienden a un total de 1.106.500 UF y su distribución regional según tipología, será la siguiente:
+22. Los recursos involucrados para la selección ascienden a un total de 3.084.795,34 y su distribución regional según tipología, será la siguiente:
 
 .
 
@@ -107,6 +107,8 @@ Los recursos indicados en el cuadro anterior, podrán disminuir o aumentar con c
 23. El número de postulantes seleccionados en cada región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos regionales previstos en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras.
 
 24. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación nacional y en el sitio web del Minvu y del Serviu o de la Seremi Minvu respectiva.
+
+> **Nota.** La letra b) del numeral 2 de la Resolución 8971 Exenta, Vivienda, publicada el 17.11.2018 dispone modificar el resuelvo 21, sin embargo, tal modificación se refiere al numeral 22 de la presente norma.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
