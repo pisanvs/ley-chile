@@ -1,0 +1,5 @@
+APRUEBA CONTRATOS E INSTRUMENTOS BANCARIOS QUE INDICA, SUSCRITO CON EL BANCO SECURITY, APERTURA DE CUENTA CORRIENTE NÚMERO 917924360 Y DELEGA FACULTAD PARA OPERAR LA CITADA CUENTA CORRIENTE DEL NIVEL CENTRAL DEL INSTITUTO DE PREVISIÓN SOCIAL, ABIERTA EN LA OFICINA PRINCIPAL DE DICHA ENTIDAD BANCARIA, EN LOS FUNCIONARIOS DEL DEPARTAMENTO DE FINANZAS, QUE EJERCEN LOS CARGOS QUE SE INDICAN
+
+Por resolución exenta Nº 395, de 8 de octubre de 2018, el Director Nacional del Instituto de Previsión Social, aprueba los contratos e instrumentos bancarios que indica, suscritos con el Banco Security, para formalizar la apertura y operatividad de la cuenta corriente denominada "IPS - Recaudación Previred Security", citada en la referencia, abierta en su oficina principal, destinada al registro de los abonos que se realizan en ella por concepto de pago electrónico de cotizaciones previsionales y delega en los funcionarios del Departamento de Finanzas del Instituto de Previsión Social, facultad para operar dicha cuenta corriente.
+
+Santiago, 13 de noviembre de 2018.- Patricio Coronado Rojo, Director Nacional.
