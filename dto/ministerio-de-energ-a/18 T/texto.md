@@ -86,7 +86,7 @@ Los equipos, en cantidad y tipo, serán especificados de acuerdo al nivel de ais
 
 De acuerdo a lo establecido en el decreto exento Nº 201 y en las Bases de Licitación, el Proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 36 meses siguientes contados desde la publicación en el Diario Oficial del presente decreto.
 
-Sin perjuicio de lo anterior, el seccionamiento en 500 kV de las líneas entre las subestaciones Charrúa y Ancoa deberá entrar en operación, a más tardar, dentro de los 24 meses siguientes contados desde la fecha de publicación del presente en el Diario Oficial.
+Sin perjuicio de lo anterior, el seccionamiento en 500 kV de las líneas entre las subestaciones Charrúa y Ancoa deberá entrar en operación, a más tardar, dentro de los 30 meses siguientes contados desde la fecha de publicación del presente en el Diario Oficial.
 
 En el caso que el día de la fecha máxima para la entrada en operación del Proyecto, calculada de acuerdo a lo establecido en el inciso anterior, sea un día sábado, domingo o festivo, éste deberá ser prorrogado al primer día hábil siguiente.
 
@@ -154,7 +154,7 @@ e) Hito relevante Nº 5: Entrada en operación del Proyecto.
 
 Corresponde a la finalización de la puesta en servicio del Proyecto, de modo que quedan a disposición de la Dirección de Operaciones del CDEC respectivo para su operación o despacho. Se comprobará el cumplimiento de este hito mediante la inspección en terreno por parte del personal de la Auditoría e Inspección Técnica del Proyecto, a que hace referencia el numeral 11.2.1 de las Bases de Licitación, en donde se compruebe la correcta puesta en servicio del Proyecto, de acuerdo a lo indicado por la Empresa Adjudicataria en la Oferta Técnica, lo señalado en la normativa vigente, en el Plan de Expansión, en las Bases de Licitación y en su proceso.
 
-Sin perjuicio de lo anterior, el seccionamiento en 500 kV de las líneas entre las subestaciones Charrúa y Ancoa deberá entrar en operación, a más tardar, dentro de los 24 meses siguientes contados desde la fecha de publicación en el Diario Oficial del presente decreto.
+Sin perjuicio de lo anterior, el seccionamiento en 500 kV de las líneas entre las subestaciones Charrúa y Ancoa deberá entrar en operación, a más tardar, dentro de los 30 meses siguientes contados desde la fecha de publicación en el Diario Oficial del presente decreto.
 
 El cumplimiento de lo dispuesto en el párrafo anterior, se comprobará mediante la inspección en terreno por parte del personal de la Auditoría e Inspección Técnica a que hace referencia el numeral 11.2.1. de las Bases de Licitación. Para tales efectos, el personal de la Auditoría e Inspección Técnica deberá verificar lo siguiente:
 
