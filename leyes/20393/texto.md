@@ -1,6 +1,6 @@
 LEY NÚM. 20.393
 
-ESTABLECE LA RESPONSABILIDAD PENAL DE LAS PERSONAS JURÍDICAS EN LOS DELITOS QUE INDICA.
+ESTABLECE LA RESPONSABILIDAD PENAL DE LAS PERSONAS JURÍDICAS EN LOS DELITOS DE LAVADO DE ACTIVOS, FINANCIAMIENTO DEL TERRORISMO Y DELITOS DE COHECHO QUE INDICA
 
 Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
 
@@ -12,21 +12,15 @@ Apruébase la siguiente ley sobre responsabilidad penal de las personas jurídic
 
 #### Artículo 1°
 
-Contenido de la ley. La presente ley regula la responsabilidad penal de las personas jurídicas por los delitos señalados en el inciso siguiente, el procedimiento para la investigación y establecimiento de dicha responsabilidad penal, la determinación de las sanciones procedentes y su ejecución.
+Contenido de la ley. La presente ley regula la responsabilidad penal de las personas jurídicas respecto de los delitos previstos en el artículo 27 de la ley Nº19.913, en el artículo 8° de la ley Nº18.314 y en los artículos 240, 250, 251 bis, 287 bis, 287 ter, 456 bis A y 470, numerales 1° y 11, del Código Penal; el procedimiento para la investigación y establecimiento de dicha responsabilidad penal, la determinación de las sanciones procedentes y la ejecución de éstas.
 
-Los delitos por los cuales la persona jurídica responde penalmente conforme a la presente ley son los siguientes:
+En lo no previsto por esta ley serán aplicables, supletoriamente, las disposiciones contenidas en el Libro I del Código Penal y el Código Procesal Penal y en las leyes especiales señaladas en el inciso anterior, en lo que resultare pertinente.
 
-1. Los delitos a que se refieren los artículos 1, 2, 3 y 4 de la Ley de Delitos Económicos, sean o no considerados como delitos económicos por esa ley.
-
-2. Los previstos en el artículo 8 de la ley N° 18.314 que determina conductas terroristas y fija su penalidad; en el Título II de la ley Nº 17.798, sobre Control de Armas, y en los artículos 411 quáter, 448 septies y 448 octies del Código Penal.
-
-En lo no previsto por esta ley serán aplicables, supletoriamente, las disposiciones contenidas en el Libro I del Código Penal y en el Código Procesal Penal, en lo que resulte pertinente.
-
-Para los efectos de esta ley no será aplicable lo dispuesto en el inciso segundo del artículo 58 del Código Procesal Penal.
+Para los efectos de esta ley, no será aplicable lo dispuesto en el inciso segundo del artículo 58 del Código Procesal Penal.
 
 #### Artículo 2°
 
-Ámbito de aplicación personal. Serán penalmente responsables en los términos de esta ley las personas jurídicas de derecho privado, las empresas públicas creadas por ley; las empresas, sociedades y universidades del Estado; los partidos políticos y las personas jurídicas religiosas de derecho público.
+Alcances. Las disposiciones de esta ley serán aplicables a las personas jurídicas de derecho privado y a las empresas del Estado.
 
 ## Título I
 
@@ -36,31 +30,67 @@ Responsabilidad Penal de las Personas Jurídicas
 
 #### Artículo 3°
 
-Presupuestos de la responsabilidad penal. Una persona jurídica será penalmente responsable por cualquiera de los delitos señalados en el artículo 1, perpetrado en el marco de su actividad por o con la intervención de alguna persona natural que ocupe un cargo, función o posición en ella, o le preste servicios gestionando asuntos suyos ante terceros, con o sin su representación, siempre que la perpetración del hecho se vea favorecida o facilitada por la falta de implementación efectiva de un modelo adecuado de prevención de tales delitos, por parte de la persona jurídica.
+Atribución de responsabilidad penal. Las personas jurídicas serán responsables de los delitos señalados en el artículo 1° que fueren cometidos directa e inmediatamente en su interés o para su provecho, por sus dueños, controladores, responsables, ejecutivos principales, representantes o quienes realicen actividades de administración y supervisión, siempre que la comisión del delito fuere consecuencia del incumplimiento, por parte de ésta, de los deberes de dirección y supervisión.
 
-Si concurrieren los requisitos previstos en el inciso anterior, una persona jurídica también será responsable por el hecho perpetrado por o con la intervención de una persona natural relacionada en los términos previstos por dicho inciso con una persona jurídica distinta, siempre que ésta le preste servicios gestionando asuntos suyos ante terceros, con o sin su representación, o carezca de autonomía operativa a su respecto, cuando entre ellas existan relaciones de propiedad o participación.
+Bajo los mismos presupuestos del inciso anterior, serán también responsables las personas jurídicas por los delitos cometidos por personas naturales que estén bajo la dirección o supervisión directa de alguno de los sujetos mencionados en el inciso anterior.
 
-Lo dispuesto en este artículo no tendrá aplicación cuando el hecho punible se perpetre exclusivamente en contra de la propia persona jurídica.
+Se considerará que los deberes de dirección y supervisión se han cumplido cuando, con anterioridad a la comisión del delito, la persona jurídica hubiere adoptado e implementado modelos de organización, administración y supervisión para prevenir delitos como el cometido, conforme a lo dispuesto en el artículo siguiente.
+
+Las personas jurídicas no serán responsables en los casos que las personas naturales indicadas en los incisos anteriores, hubieren cometido el delito exclusivamente en ventaja propia o a favor de un tercero.
 
 #### Artículo 4°
 
-Modelo de prevención de delitos. Se entenderá que un modelo de prevención de delitos efectivamente implementado por la persona jurídica es adecuado para los efectos de eximirla de responsabilidad penal cuando, en la medida exigible a su objeto social, giro, tamaño, complejidad, recursos y a las actividades que desarrolle, considere seria y razonablemente los siguientes aspectos:
+Modelo de prevención de los delitos. Para los efectos previstos en el inciso tercero del artículo anterior, las personas jurídicas podrán adoptar el modelo de prevención a que allí se hace referencia, el que deberá contener a lo menos los siguientes elementos:
 
-1. Identificación de las actividades o procesos de la persona jurídica que impliquen riesgo de conducta delictiva.
+1) Designación de un encargado de prevención.
 
-2. Establecimiento de protocolos y procedimientos para prevenir y detectar conductas delictivas en el contexto de las actividades a que se refiere el número anterior, los que deben considerar necesariamente canales seguros de denuncia y sanciones internas para el caso de incumplimiento.
+a) La máxima autoridad administrativa de la persona jurídica, sea ésta su directorio, un socio administrador, un gerente, un ejecutivo principal, un administrador, un liquidador, sus representantes, sus dueños o socios, según corresponda a la forma de administración de la respectiva entidad, en adelante la "Administración de la Persona Jurídica", deberá designar un encargado de prevención, quien durará en su cargo hasta tres años, el que podrá prorrogarse por períodos de igual duración.
 
-Estos protocolos y procedimientos, incluyendo las sanciones internas, deberán comunicarse a todos los trabajadores. La normativa interna deberá ser incorporada expresamente en los respectivos contratos de trabajo y de prestación de servicios de todos los trabajadores, empleados y prestadores de servicios de la persona jurídica, incluidos sus máximos ejecutivos.
+b) El encargado de prevención deberá contar con autonomía respecto de la Administración de la Persona Jurídica, de sus dueños, de sus socios, de sus accionistas o de sus controladores. No obstante, podrá ejercer labores de contraloría o auditoría interna.
 
-3. Asignación de uno o más sujetos responsables de la aplicación de dichos protocolos, con la adecuada independencia, dotados de facultades efectivas de dirección y supervisión y acceso directo a la administración de la persona jurídica para informarla oportunamente de las medidas y planes implementados en el cumplimiento de su cometido, para rendir cuenta de su gestión y requerir la adopción de medidas necesarias para su cometido que pudieran ir más allá de su competencia. La persona jurídica deberá proveer al o a los responsables de los recursos y medios materiales e inmateriales necesarios para realizar adecuadamente sus labores, en consideración al tamaño y capacidad económica de la persona jurídica.
+En el caso de las personas jurídicas cuyos ingresos anuales no excedan de cien mil unidades de fomento, el dueño, el socio o el accionista controlador podrán asumir personalmente las tareas del encargado de prevención.
 
-4. Previsión de evaluaciones periódicas por terceros independientes y mecanismos de perfeccionamiento o actualización a partir de tales evaluaciones.
+2) Definición de medios y facultades del encargado de prevención.
+
+La Administración de la Persona Jurídica deberá proveer al encargado de prevención los medios y facultades suficientes para el desempeño de sus funciones, entre los que se considerarán a lo menos:
+
+a) Los recursos y medios materiales necesarios para realizar adecuadamente sus labores, en consideración al tamaño y capacidad económica de la persona jurídica.
+
+b) Acceso directo a la Administración de la Persona Jurídica para informarla oportunamente por un medio idóneo, de las medidas y planes implementados en el cumplimiento de su cometido y para rendir cuenta de su gestión y reportar a lo menos semestralmente.
+
+3) Establecimiento de un sistema de prevención de los delitos.
+
+El encargado de prevención, en conjunto con la Administración de la Persona Jurídica, deberá establecer un sistema de prevención de los delitos para la persona jurídica, que deberá contemplar a lo menos lo siguiente:
+
+a) La identificación de las actividades o procesos de la entidad, sean habituales o esporádicos, en cuyo contexto se genere o incremente el riesgo de comisión de los delitos señalados en el artículo 1°.
+
+b) El establecimiento de protocolos, reglas y procedimientos específicos que permitan a las personas que intervengan en las actividades o procesos indicados en el literal anterior, programar y ejecutar sus tareas o labores de una manera que prevenga la comisión de los mencionados delitos.
+
+c) La identificación de los procedimientos de administración y auditoría de los recursos financieros que permitan a la entidad prevenir su utilización en los delitos señalados.
+
+d) La existencia de sanciones administrativas internas, así como de procedimientos de denuncia o persecución de responsabilidades pecuniarias en contra de las personas que incumplan el sistema de prevención de delitos.
+
+Estas obligaciones, prohibiciones y sanciones internas deberán señalarse en los reglamentos que la persona jurídica dicte al efecto y deberán comunicarse a todos los trabajadores. Esta normativa interna deberá ser incorporada expresamente en los respectivos contratos de trabajo y de prestación de servicios de todos los trabajadores, empleados y prestadores de servicios de la persona jurídica, incluidos los máximos ejecutivos de la misma.
+
+4) Supervisión y certificación del sistema de prevención de los delitos.
+
+a) El encargado de prevención, en conjunto con la Administración de la Persona Jurídica, deberá establecer métodos para la aplicación efectiva del modelo de prevención de los delitos y su supervisión a fin de detectar y corregir sus fallas, así como actualizarlo de acuerdo al cambio de circunstancias de la respectiva entidad.
+
+b) Las personas jurídicas podrán obtener la certificación de la adopción e implementación de su modelo de prevención de delitos. En el certificado constará que dicho modelo contempla todos los requisitos establecidos en los numerales 1), 2) y 3) anteriores, en relación a la situación, tamaño, giro, nivel de ingresos y complejidad de la persona jurídica.
+
+Los certificados podrán ser expedidos por empresas de auditoría externa, sociedades clasificadoras de riesgo u otras entidades registradas ante la Superintendencia de Valores y Seguros que puedan cumplir esta labor, de conformidad a la normativa que, para estos efectos, establezca el mencionado organismo fiscalizador.
+
+c) Se entenderá que las personas naturales que participan en las actividades de certificación realizadas por las entidades señaladas en la letra anterior cumplen una función pública en los términos del artículo 260 del Código Penal.
 
 #### Artículo 5°
 
-Autonomía de la responsabilidad penal de la persona jurídica. No obstará a la responsabilidad penal de una persona jurídica la falta de declaración de responsabilidad penal de la persona natural que hubiere perpetrado el hecho o intervenido en su perpetración, sea porque ésta, a pesar de la ilicitud del hecho, no hubiere sido penalmente responsable, sea porque tal responsabilidad se hubiere extinguido, sea porque no se hubiere podido continuar el procedimiento en su contra no obstante la punibilidad del hecho.
+Responsabilidad penal autónoma de la persona jurídica. La responsabilidad de la persona jurídica será autónoma de la responsabilidad penal de las personas naturales y subsistirá cuando, concurriendo los demás requisitos previstos en el artículo 3°, se presente alguna de las siguientes situaciones:
 
-Asimismo, no obstará a la responsabilidad penal de la persona jurídica la falta de identificación de la o las personas naturales que hubieren perpetrado el hecho o intervenido en su perpetración, siempre que conste que el hecho no pudo sino haber sido perpetrado por o con la intervención de alguna de las personas y en las circunstancias señaladas en el artículo 3.
+1) La responsabilidad penal individual se hubiere extinguido conforme a lo dispuesto en los numerales 1° y 6° del artículo 93 del Código Penal.
+
+2) En el proceso penal seguido en contra de las personas naturales indicadas en los incisos primero y segundo del artículo 3° se decretare el sobreseimiento temporal de el o los imputados, conforme a las causales de las letras b) y c) del artículo 252 del Código Procesal Penal.
+
+También podrá perseguirse dicha responsabilidad cuando, habiéndose acreditado la existencia de alguno de los delitos del artículo 1° y concurriendo los demás requisitos previstos en el artículo 3°, no haya sido posible establecer la participación de el o los responsables individuales, siempre y cuando en el proceso respectivo se demostrare fehacientemente que el delito debió necesariamente ser cometido dentro del ámbito de funciones y atribuciones propias de las personas señaladas en el inciso primero del mencionado artículo 3°.
 
 2.- De las circunstancias que atenúan la responsabilidad penal de la persona jurídica
 
@@ -72,17 +102,13 @@ Circunstancias atenuantes. Serán circunstancias atenuantes de la responsabilida
 
 2) La prevista en el número 9° del artículo 11 del Código Penal. Se entenderá especialmente que la persona jurídica colabora sustancialmente cuando, en cualquier estado de la investigación o del procedimiento judicial, sus representantes legales hayan puesto, antes de conocer que el procedimiento judicial se dirige contra ella, el hecho punible en conocimiento de las autoridades o aportado antecedentes para establecer los hechos investigados.
 
-3) La adopción por parte de la persona jurídica, antes de la formalización de la investigación, de medidas eficaces para prevenir la reiteración de la misma clase de delitos objeto de la investigación. Se entenderá por medidas eficaces la autonomía debidamente acreditada del encargado de prevención de delitos, así como también las medidas de prevención y supervisión implementadas que sean idóneas en relación con la situación, tamaño, giro, nivel de ingresos y complejidad de la estructura organizacional de la persona jurídica.
+3) La adopción por parte de la persona jurídica, antes del comienzo del juicio, de medidas eficaces para prevenir la reiteración de la misma clase de delitos objeto de la investigación.
 
 3.- De las circunstancias que agravan la responsabilidad penal
 
 #### Artículo 7°
 
-Circunstancias agravantes. Constituyen circunstancias agravantes de la responsabilidad penal de la persona jurídica:
-
-1. La de haber sido condenada dentro de los diez años anteriores a la perpetración del hecho.
-
-2. Las que afecten a la persona natural que hubiere perpetrado o intervenido en el hecho, cuando su perpetración o intervención bajo esas circunstancias también se hubiere visto favorecida o facilitada por la falta de implementación efectiva de un modelo adecuado de prevención de delitos.
+Circunstancia agravante. Es circunstancia agravante de la responsabilidad penal de la persona jurídica, el haber sido condenada, dentro de los cinco años anteriores, por el mismo delito.
 
 ## Título II
 
@@ -92,199 +118,183 @@ Consecuencias de la Declaración de Responsabilidad Penal de la Persona Jurídic
 
 #### Artículo 8°
 
-Penas. Serán aplicables a la persona jurídica una o más de las siguientes penas:
+Penas. Serán aplicables a las personas jurídicas una o más de las siguientes penas:
 
-1. La extinción de la persona jurídica.
+1) Disolución de la persona jurídica o cancelación de la personalidad jurídica.
 
-2. La inhabilitación para contratar con el Estado.
+Esta pena no se aplicará a las empresas del Estado ni a las personas jurídicas de derecho privado que presten un servicio de utilidad pública cuya interrupción pudiere causar graves consecuencias sociales y económicas o daños serios a la comunidad, como resultado de la aplicación de dicha pena.
 
-3. La pérdida de beneficios fiscales y la prohibición de recibirlos.
+2) Prohibición temporal o perpetua de celebrar actos y contratos con el Estado.
 
-4. La supervisión de la persona jurídica.
+3) Pérdida parcial o total de beneficios fiscales o prohibición absoluta de recepción de los mismos por un período determinado.
 
-5. La multa.
+4) Multa a beneficio fiscal.
 
-6. El comiso a que se refiere el inciso tercero del artículo 14.
-
-7. La publicación de un extracto de la sentencia condenatoria.
+5) Las penas accesorias previstas en el artículo 13.
 
 #### Artículo 9°
 
-Extinción de la persona jurídica. Por la pena de extinción de la persona jurídica se dispone la pérdida definitiva de la personalidad jurídica. Para su imposición el tribunal tendrá especialmente en cuenta el peligro de reiteración delictiva que pueda representar el funcionamiento de la persona jurídica.
+Disolución de la persona jurídica o cancelación de la personalidad jurídica. La disolución o cancelación producirá la pérdida definitiva de la personalidad jurídica.
 
-Esta pena sólo se podrá imponer tratándose de crímenes, si concurre la circunstancia agravante establecida en el número 1 del artículo 7 o en caso de reiteración delictiva.
+La sentencia que declare la disolución o cancelación designará, de acuerdo a su tipo y naturaleza jurídica y a falta de disposición legal expresa que la regule, al o a los liquidadores encargados de la liquidación de la persona jurídica. Asimismo, y en iguales condiciones, les encomendará la realización de los actos o contratos necesarios para:
 
-La pena de extinción de la persona jurídica no se aplicará a las empresas públicas creadas por ley ni a las personas jurídicas que presten un servicio de utilidad pública cuya interrupción pueda causar graves consecuencias sociales y económicas o daños serios a la comunidad o sea perjudicial para el Estado.
+1) Concluir toda actividad de la persona jurídica, salvo aquellas que fueren indispensables para el éxito de la liquidación;
+
+2) Pagar los pasivos de la persona jurídica, incluidos los derivados de la comisión del delito. Los plazos de todas esas deudas se entenderán caducados de pleno derecho, haciéndolas inmediatamente exigibles, y su pago deberá realizarse respetando plenamente las preferencias y la prelación de créditos establecidas en el Título XLI del Libro IV del Código Civil, particularmente los derechos de los trabajadores de la persona jurídica, y
+
+3) Repartir los bienes remanentes entre los accionistas, socios, dueños o propietarios, a prorrata de sus respectivas participaciones. Lo anterior se entenderá sin perjuicio del derecho de los afectados para perseguir el resarcimiento de los perjuicios sufridos contra los responsables del delito. En el caso de las sociedades anónimas se aplicará lo establecido en el artículo 133 bis de la ley Nº18.046.
+
+Sin embargo, cuando así lo aconseje el interés social, el juez, mediante resolución fundada, podrá ordenar la enajenación de todo o parte del activo de la persona jurídica disuelta como un conjunto o unidad económica, en subasta pública y al mejor postor. Ésta deberá efectuarse ante el propio juez.
+
+Esta pena se podrá imponer únicamente en los casos de crímenes y simples delitos en que concurra la circunstancia agravante establecida en el artículo 7°. Asimismo, se podrá aplicar cuando se condene por crímenes cometidos en carácter de reiterados, de conformidad a lo establecido en el artículo 351 del Código Procesal Penal.
 
 #### Artículo 10
 
-Inhabilitación para contratar con el Estado. El tribunal podrá imponer a la persona jurídica la inhabilitación para contratar con el Estado, conforme a las reglas del Párrafo 5 del Título II de la Ley de Delitos Económicos.
+Prohibición de celebrar actos y contratos con el Estado. Esta pena consiste en la prohibición de contratar a cualquier título con órganos o empresas del Estado o con empresas o asociaciones en que éste tenga una participación mayoritaria; así como la prohibición de adjudicarse cualquier concesión otorgada por el Estado.
 
-La inhabilitación perpetua para contratar con el Estado sólo podrá ser impuesta respecto de crímenes, si concurre la circunstancia agravante prevista en el número 1 del artículo 7 o en caso de reiteración delictiva.
+Para determinar esta pena, el tribunal se ceñirá a la siguiente escala:
+
+1) Prohibición perpetua de celebrar actos y contratos con el Estado.
+
+2) Prohibición temporal de celebrar actos y contratos con el Estado. Su duración se graduará del siguiente modo:
+
+a) En su grado mínimo: de dos a tres años.
+
+b) En su grado medio: de tres años y un día a cuatro años.
+
+c) En su grado máximo: de cuatro años y un día a cinco años.
+
+La prohibición regirá a contar de la fecha en que la resolución se encuentre ejecutoriada. El tribunal comunicará tal circunstancia a la Dirección de Compras y Contratación Pública. Dicha Dirección mantendrá un registro actualizado de las personas jurídicas a las que se les haya impuesto esta pena.
 
 #### Artículo 11
 
-Pérdida de beneficios fiscales y prohibición de recibirlos. Por la pena de pérdida de beneficios fiscales se impone la pérdida de todos los subsidios, créditos fiscales u otros beneficios otorgados por el Estado sin prestación recíproca de bienes o servicios y, en especial, los subsidios para financiamiento de actividades específicas o programas especiales y gastos inherentes o asociados a la realización de éstos, sea que tales recursos se asignen a través de fondos concursables o en virtud de leyes permanentes o subsidios, subvenciones en áreas especiales o contraprestaciones establecidas en estatutos especiales y otras de similar naturaleza, así como la prohibición de recibir tales beneficios por un período de uno a cinco años.
+De la pérdida parcial o total de beneficios fiscales o prohibición absoluta de recepción de los mismos por un período determinado. Se entenderá, para efectos de esta ley, por beneficios fiscales aquellos que otorga el Estado o sus organismos por concepto de subvenciones sin prestación recíproca de bienes o servicios y, en especial, subsidios para financiamiento de actividades específicas o programas especiales y gastos inherentes o asociados a la realización de éstos, sea que tales recursos se asignen a través de fondos concursables o en virtud de leyes permanentes o subsidios, subvenciones en áreas especiales o contraprestaciones establecidas en estatutos especiales y otras de similar naturaleza.
 
-Si la persona jurídica no recibe tales beneficios fiscales al tiempo de la condena, se le impondrá la prohibición de recibirlos, por el mismo período.
+Esta pena se graduará del siguiente modo:
 
-#### Artículo 11 bis
+1) En su grado mínimo: pérdida del veinte al cuarenta por ciento del beneficio fiscal.
 
-Supervisión de la persona jurídica. El tribunal podrá imponer a la persona jurídica la supervisión si, debido a la inexistencia o grave insuficiencia de un sistema efectivo de prevención de delitos, ello resulta necesario para prevenir la perpetración de nuevos delitos en su seno.
+2) En su grado medio: pérdida del cuarenta y uno al setenta por ciento del beneficio fiscal.
 
-La supervisión de la persona jurídica consiste en su sujeción a un supervisor nombrado por el tribunal, encargado de asegurar que la persona jurídica elabore, implemente o mejore efectivamente un sistema adecuado de prevención de delitos y de controlar dicha elaboración, implementación o mejoramiento por un plazo mínimo de seis meses y máximo de dos años.
+3) En su grado máximo: pérdida del setenta y uno al cien por ciento del beneficio fiscal.
 
-La persona jurídica estará obligada a poner a disposición del supervisor toda la información necesaria para su desempeño.
-
-El supervisor tendrá facultades para impartir instrucciones obligatorias e imponer condiciones de funcionamiento exclusivamente en lo que concierna al sistema de prevención de delitos, sin que pueda inmiscuirse en otras dimensiones de la organización o actividad de la persona jurídica. Además, tendrá derecho a acceder a todas las instalaciones y locales pertenecientes a la persona jurídica.
-
-Para los efectos de sus deberes y responsabilidad, se considerará que el supervisor tiene la calidad de empleado público. Su remuneración será fijada por el tribunal de acuerdo con criterios de mercado, será de cargo de la persona jurídica y sólo rendirá cuentas a éste de su cometido.
+En caso que la persona jurídica no sea acreedora de tales beneficios fiscales, se podrá aplicar como sanción la prohibición absoluta de percibirlos por un período de entre dos y cinco años, el que se contará desde que la sentencia que declare su responsabilidad se encuentre ejecutoriada. El tribunal deberá comunicar que ha impuesto esta sanción a la Secretaría y Administración General del Ministerio de Hacienda y a la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior, con el fin de que sea consignada en los registros centrales de colaboradores del Estado y Municipalidades que, respectivamente, la ley Nº 19.862 les encomienda administrar.
 
 #### Artículo 12
 
-Multa. A menos que la ley disponga una forma diversa de calcular la multa, ésta se determinará mediante la multiplicación de un número de días-multa por el valor que el tribunal fije para cada día-multa en la forma prevista en el Párrafo 4 de la Ley de Delitos Económicos, cuyo producto se expresará en una suma de dinero fijada en moneda de curso legal.
+Multa a beneficio fiscal. Esta pena se graduará del siguiente modo:
 
-El valor del día-multa no podrá ser inferior a 5 ni superior a 5.000 unidades tributarias mensuales.
+1) En su grado mínimo: desde cuatrocientas a cuatro mil unidades tributarias mensuales.
 
-La pena mínima de multa es de 2 días-multa y la máxima, de 400 días-multa.
+2) En su grado medio: desde cuatro mil una a cuarenta mil unidades tributarias mensuales.
 
-Cada pena de multa que imponga el tribunal será determinada por éste en el número de días-multa que comprenda y su valor. Ni aun en caso de ser aplicables los artículos 74 del Código Penal o 351 del Código Procesal Penal podrán imponerse una o más penas de multa que en conjunto excedan de 600 días-multa.
+3) En su grado máximo: desde cuarenta mil una a trescientas mil unidades tributarias mensuales.
 
-Con todo, en los casos en que la ley así lo disponga, cuando el comiso de ganancias no pueda imponerse a la persona jurídica porque fueron distribuidas entre sus socios, accionistas o beneficiarios que no tuvieron conocimiento de su procedencia ilícita en el momento de su adquisición, el tribunal determinará el valor total de la multa a imponer hasta por una suma equivalente al treinta por ciento de las ventas de la persona jurídica correspondientes a la línea de productos o servicios asociada al hecho durante el período en el cual éste se hubiere perpetrado o hasta el doble de las ganancias obtenidas a través del hecho, siempre que dicho valor total fuere superior al monto máximo de la multa que corresponda imponer conforme a los incisos precedentes.
+El tribunal podrá autorizar que el pago de la multa se efectúe por parcialidades, dentro de un límite que no exceda de veinticuatro meses, cuando la cuantía de ella pueda poner en riesgo la continuidad del giro de la persona jurídica sancionada, o cuando así lo aconseje el interés social.
 
-No obstará a la imposición de la pena de multa la circunstancia de que el hecho dé lugar a una o más multas no constitutivas de pena conforme a otras leyes. Con todo, el monto de la pena de multa pagada será abonado a la multa no constitutiva de pena que se imponga a la persona jurídica por el mismo hecho. Si la persona jurídica hubiere pagado una multa no constitutiva de pena como consecuencia del mismo hecho, el monto pagado será abonado a la pena de multa impuesta de conformidad con esta ley.
+El tribunal, una vez ejecutoriada la sentencia condenatoria, comunicará la aplicación de la multa a la Tesorería General de la República, quien se hará cargo de su cobro y pago.
 
 #### Artículo 13
 
-Publicación de un extracto de la sentencia condenatoria. Siempre que se condene a una persona jurídica se impondrá la pena consistente en la publicación en el Diario Oficial y en otro diario de circulación nacional de un extracto que contenga una síntesis de la sentencia, que reproduzca sus fundamentos principales y la decisión de condena, a costa de la persona jurídica condenada.
+Penas accesorias. Se aplicarán, accesoriamente a las penas señaladas en los artículos anteriores, las siguientes:
+
+1) Publicación de un extracto de la sentencia. El tribunal ordenará la publicación de un extracto de la parte resolutiva de la sentencia condenatoria en el Diario Oficial u otro diario de circulación nacional.
+
+La persona jurídica sancionada asumirá los costos de esa publicación.
+
+2) Comiso. El producto del delito y demás bienes, efectos, objetos, documentos, instrumentos, dineros o valores del mismo serán decomisados. Cuando por cualquier circunstancia no sea posible decomisar estas especies, se podrá aplicar el comiso a una suma de dinero equivalente a su valor.
+
+Asimismo, en todos los casos, se decomisarán los activos patrimoniales cuyo valor correspondiere a la cuantía de las ganancias obtenidas a través de la perpetración del delito.
+
+Dichas ganancias comprenden los frutos obtenidos y las utilidades que se hubieren originado, cualquiera que sea su naturaleza jurídica.
+
+Sin embargo, no podrá imponerse el comiso respecto de las ganancias obtenidas por o para una persona jurídica y que hubieren sido distribuidas entre sus socios, accionistas o beneficiarios que no hubieren tenido conocimiento de su procedencia ilícita al momento de su adquisición.
+
+3) En los casos que el delito cometido suponga la inversión de recursos de la persona jurídica superiores a los ingresos que ella genera, se impondrá como pena accesoria el entero en arcas fiscales de una cantidad equivalente a la inversión realizada.
 
 2.- De la determinación de las penas
 
 #### Artículo 14
 
-Penas de crimen y de simple delito. Tratándose de un crimen se podrá imponer a la persona jurídica responsable una o más de las siguientes penas:
+Escala general. La pena que se imponga a la persona jurídica se determinará en relación a la prevista para el delito correspondiente señalado en el artículo 1°, de conformidad a la siguiente escala:
 
-1. La extinción de la persona jurídica en los casos previstos en el inciso segundo del artículo 9.
+Escala General de Penas para Personas Jurídicas
 
-2. La pérdida de beneficios fiscales y la prohibición de recibirlos por un período no inferior a tres años.
+1.- Penas de crímenes.
 
-3. La multa por un mínimo de 200 días-multa.
+a) Disolución de la persona jurídica o cancelación de la personalidad jurídica.
 
-Tratándose de un simple delito se podrá imponer a la persona jurídica responsable una o más de las siguientes penas:
+b) Prohibición de celebrar actos y contratos con el Estado en su grado máximo a perpetuo.
 
-1. La pérdida de beneficios fiscales y la prohibición de recibirlos por un período de hasta tres años.
+c) Pérdida de beneficios fiscales en su grado máximo o prohibición absoluta de recepción de los mismos de tres años y un día a cinco años.
 
-2. La multa por un máximo de 200 días-multa.
+d) Multa a beneficio fiscal, en su grado máximo.
 
-Tanto respecto de crímenes como de simples delitos se podrá imponer, además, las penas de inhabilitación para contratar con el Estado; de supervisión de la persona jurídica, en los términos señalados en los artículos 10 y 11 bis; y de comiso del producto del delito de que es responsable la persona jurídica, así como los demás bienes, efectos, objetos, documentos, instrumentos, dineros o valores provenientes de él. Cuando por cualquier circunstancia no sea posible decomisar estas especies, se podrá aplicar el comiso a una suma de dinero equivalente a su valor.
+En estos casos siempre se aplicarán como accesorias las penas mencionadas en el artículo 13.
 
-En todo caso se impondrá la publicación de un extracto de la sentencia condenatoria.
+2.- Penas de simples delitos.
+
+a) Prohibición temporal de celebrar actos y contratos con el Estado en su grado mínimo a medio.
+
+b) Pérdida de beneficios fiscales en su grado mínimo a medio o prohibición absoluta de recepción de los mismos de dos a tres años.
+
+c) Multa en su grado mínimo a medio.
+
+En estos casos siempre se aplicarán como accesorias las penas mencionadas en el artículo 13.
 
 #### Artículo 15
 
-Determinación del número y naturaleza de las penas. El tribunal impondrá siempre la pena de multa.
+Determinación legal de la pena aplicable al delito. A los delitos sancionados en los artículos 240, 250, incisos segundo y tercero, 287 bis, 287 ter, 456 bis A y 470, numeral 1° y párrafos primero y segundo del numeral 11 del Código Penal, y en el artículo 8° de la ley Nº 18.314, se les aplicarán las penas previstas en esta ley para los simples delitos, de conformidad a lo dispuesto en el artículo anterior.
 
-Adicionalmente, podrá imponer cualquiera otra pena que fuere procedente conforme al artículo precedente, para lo cual atenderá a los siguientes factores:
+A los delitos contemplados en el artículo 27 de la ley N° 19.913 y en los artículos 250, incisos cuarto y quinto, 251 bis y 470, numeral 11, párrafo tercero, del Código Penal, les serán aplicables las penas de crímenes, según lo dispuesto en el artículo precedente.
 
-1. La existencia o inexistencia de un modelo de prevención de delitos y su mayor o menor grado de implementación.
-
-2. El grado de sujeción y cumplimiento de la normativa legal y reglamentaria y de las reglas técnicas de obligatoria observancia en el ejercicio de su giro o actividad habitual.
-
-3. Los montos de dinero involucrados en la perpetración del delito.
-
-4. El tamaño, la naturaleza y el giro de la persona jurídica.
-
-5. La extensión del mal causado por el delito.
-
-6. La gravedad de las consecuencias sociales y económicas que pueda causar a la comunidad la imposición de la pena cuando se trate de empresas que presten un servicio de utilidad pública.
-
-7. Las circunstancias atenuantes o agravantes aplicables a la persona jurídica previstas en esta ley que concurrieren en el delito.
+Inciso suprimido.
 
 #### Artículo 16
 
-Determinación de la extensión de las penas concretas. La extensión de las penas distintas de la extinción de la persona jurídica será determinada en el punto medio de su extensión, a menos que, sobre la base de los factores mencionados en el inciso segundo del artículo anterior, corresponda imponer dentro de ese marco una pena de otra extensión.
+Circunstancias modificatorias de responsabilidad. En caso de concurrir una circunstancia atenuante y ninguna agravante, tratándose de simples delitos se aplicarán sólo dos de las penas contempladas en el artículo 14, debiendo imponerse una de ellas en su grado mínimo. Tratándose de crímenes, el tribunal aplicará sólo dos de las penas contempladas en dicho artículo en su mínimum, si procediere.
 
-Para la determinación de la pena de multa se estará, además, a lo dispuesto en el artículo 12.
+En caso de concurrir la circunstancia agravante contemplada en esta ley y ninguna atenuante, tratándose de simples delitos el tribunal aplicará todas las penas en su grado máximo o la disolución o cancelación. Tratándose de crímenes deberá aplicar las penas en su máximum, si procediere, o la disolución o cancelación.
 
-2 bis.- Ejecución de las penas
+Si concurren dos o más circunstancias atenuantes y ninguna agravante, tratándose de simples delitos el tribunal deberá aplicar sólo una pena, pudiendo recorrerla en toda su extensión. Tratándose de crímenes deberá aplicar dos penas de las contempladas para los simples delitos.
 
-#### Artículo 17
-
-Ejecución de la extinción de la persona jurídica. La sentencia que declare la extinción de la personalidad jurídica designará a una persona encargada de su liquidación, quien deberá realizar los actos o contratos necesarios para:
-
-1. Concluir toda actividad de la persona jurídica, salvo aquellas que sean indispensables para el éxito de la liquidación.
-
-2. Pagar los pasivos de la persona jurídica, incluidos los derivados de la perpetración del hecho. Los plazos de todas esas deudas se entenderán caducados de pleno derecho, haciéndolas inmediatamente exigibles y su pago se realizará con estricto respeto de las preferencias y de la prelación de créditos establecida por la ley.
-
-3. Repartir los bienes remanentes entre los accionistas, socios, dueños o propietarios a prorrata de sus respectivas participaciones, sin perjuicio de su derecho para perseguir de los responsables del delito el resarcimiento de los perjuicios sufridos por la persona jurídica a consecuencia de éste, en conformidad con las leyes aplicables en cada caso.
-
-Excepcionalmente, cuando así lo aconseje el interés social, el tribunal podrá, mediante resolución fundada, ordenar la enajenación de todo o parte del activo de la persona jurídica disuelta como un conjunto o unidad económica, en subasta pública y al mejor postor, la que deberá efectuarse ante el propio tribunal.
-
-#### Artículo 17 bis
-
-Ejecución de la inhabilitación para contratar con el Estado. La inhabilitación para contratar con el Estado regirá a contar de la fecha en que la resolución se encuentre ejecutoriada. El tribunal comunicará tal circunstancia a la Dirección de Compras y Contratación Pública. Dicha Dirección mantendrá un registro actualizado de las personas jurídicas a las que se les haya impuesto esta pena.
-
-#### Artículo 17 ter
-
-Ejecución de la pérdida de beneficios fiscales y de la prohibición de recibirlos. Una vez ejecutoriada la sentencia que impusiere la pena de pérdida de beneficios fiscales y la prohibición de recibirlos, el tribunal lo comunicará al Ministerio de Hacienda y a la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior y Seguridad Pública, con el fin de que sea consignada en los registros centrales de colaboradores del Estado y municipalidades que la ley les encomienda administrar.
-
-#### Artículo 17 quáter
-
-Ejecución de la supervisión de la persona jurídica. Ejecutoriada la sentencia condenatoria que imponga la supervisión de la persona jurídica por un período determinado, el tribunal competente para la supervisión de la ejecución de la pena designará a un supervisor y le dará instrucciones sobre el objeto preciso de su cometido, sus facultades y los límites de ellas, de lo cual será notificada la persona jurídica. Con este fin se citará a una audiencia especial, en la que deberán ser oídos todos los intervinientes.
-
-Las instrucciones obligatorias y las condiciones impuestas por el supervisor podrán ser reclamadas judicialmente.
-
-En caso de incumplimiento injustificado de las instrucciones obligatorias o de las condiciones impuestas por el supervisor el tribunal podrá imponer, a solicitud del supervisor y oyendo a la persona jurídica, la retención y prohibición de celebrar actos y contratos sobre bienes o activos de ésta hasta que cese el incumplimiento, a título de apremio.
-
-En casos de incumplimiento grave o reiterado el tribunal podrá, a solicitud del supervisor y oyendo a la persona jurídica, ordenar el reemplazo de sus órganos directivos y, en caso de no realizarse el reemplazo o de persistir el incumplimiento, la designación de un administrador provisional hasta que se verifique un cambio de circunstancias o hasta el cumplimiento íntegro de la supervisión.
-
-Un reglamento establecerá los requisitos que habiliten para ejercer como supervisor, el procedimiento para su designación y reemplazo y para la determinación de su remuneración. Los requisitos para ejercer como supervisor deberán garantizar calificación y experiencia profesional pertinente y ausencia de factores que pudieran dar lugar a conflictos de interés en el ejercicio del cargo.
+Si concurren varias atenuantes y la agravante prevista en esta ley, ésta se compensará racionalmente con alguna de las atenuantes, debiendo ajustarse las penas conforme a los incisos anteriores.
 
 #### Artículo 17
 
-quinquies.- Ejecución de la multa. La multa será ejecutada conforme a las reglas generales previstas por el Código Penal.
+Reglas de determinación judicial de la pena. Para regular la cuantía y naturaleza de las penas a imponer, el tribunal deberá atender, dejando constancia pormenorizada de sus razonamientos en su fallo, a los siguientes criterios:
 
-Excepcionalmente, cuando su pago inmediato pueda poner en riesgo la continuidad del giro de la persona jurídica condenada o cuando así lo aconseje el interés social, el tribunal podrá autorizar que el pago de la multa se efectúe por parcialidades, dentro de un plazo que no exceda de veinticuatro meses.
+1) Los montos de dinero involucrados en la comisión del delito.
+
+2) El tamaño y la naturaleza de la persona jurídica.
+
+3) La capacidad económica de la persona jurídica.
+
+4) El grado de sujeción y cumplimiento de la normativa legal y reglamentaria y de las reglas técnicas de obligatoria observancia en el ejercicio de su giro o actividad habitual.
+
+5) La extensión del mal causado por el delito.
+
+6) La gravedad de las consecuencias sociales y económicas o, en su caso, los daños serios que pudiere causar a la comunidad la imposición de la pena, cuando se trate de empresas del Estado o de empresas que presten un servicio de utilidad pública.
 
 #### Artículo 18
 
-Ejecución de la pena y las consecuencias adicionales en caso de disolución o transformación de la persona jurídica. En caso de transformación, fusión, absorción, división o disolución voluntaria de la persona jurídica responsable, sea antes o después de la condena, las penas y consecuencias adicionales se harán efectivas de acuerdo con las reglas siguientes:
+Transmisión de la responsabilidad penal de la persona jurídica. En el caso de transformación, fusión, absorción, división o disolución de común acuerdo o voluntaria de la persona jurídica responsable de uno o más de los delitos a que se refiere el artículo 1°, su responsabilidad derivada de los delitos cometidos con anterioridad a la ocurrencia de alguno de dichos actos se transmitirá a la o las personas jurídicas resultantes de los mismos, si las hubiere, de acuerdo a las reglas siguientes, todo ello sin perjuicio de los derechos de terceros de buena fe.
 
-1. Si se impusiere la pena de comiso y éste recayere en una especie, se ejecutará contra la persona jurídica resultante que la tuviere o, en caso de disolución de común acuerdo, contra el socio o partícipe en el capital que la tuviere tratándose de la disolución de una persona jurídica con fines de lucro, o contra la persona que conforme a los estatutos de la persona jurídica o a la ley la hubiere recibido tratándose de la disolución de una persona jurídica sin fines de lucro. Si el comiso recayere en cantidades de dinero, se ejecutará del modo previsto para la ejecución de la multa, de acuerdo con el número siguiente.
+1) Si se impone la pena de multa, en los casos de transformación, fusión o absorción de una persona jurídica, la persona jurídica resultante responderá por el total de la cuantía. En el caso de división, las personas jurídicas resultantes serán solidariamente responsables del pago de la misma.
 
-2. Si se impusiere la pena de multa, la persona jurídica resultante responderá de su pago. Si hubiere dos o más personas jurídicas resultantes todas ellas serán solidariamente responsables. En los casos de disolución de común acuerdo de una persona jurídica con fines de lucro, la multa se hará efectiva sobre los socios y partícipes en el capital, quienes responderán solidariamente. Tratándose de personas jurídicas sin fines de lucro, la multa se hará efectiva sobre las personas que hayan recibido las propiedades de aquéllas conforme a sus estatutos o a la ley, quienes responderán solidariamente.
+2) En los casos de disolución de común acuerdo de una persona jurídica con fines de lucro, la multa se transmitirá a los socios y partícipes en el capital, quienes responderán hasta el límite del valor de la cuota de liquidación que se les hubiere asignado.
 
-3. Si se tratare de cualquier otra pena, el tribunal decidirá si ella habrá o no de hacerse efectiva sobre las personas naturales o jurídicas a que se refieren los dos números anteriores, atendiendo a las finalidades que en cada caso se persiguieren, así como a la mayor o menor continuidad sustancial de los medios materiales y humanos de la persona jurídica inicial en la o las personas jurídicas resultantes y a la actividad desarrollada. Si por aplicación de esta regla dejare de imponerse o ejecutarse una pena, el tribunal aplicará en vez de ella una pena de multa, aun cuando ya se hubiere impuesto otra multa. En tal caso, se podrán superar hasta en un quinto los respectivos límites máximos previstos en el artículo 12.
+3) Si se trata de cualquiera otra pena, el juez valorará, atendiendo a las finalidades que en cada caso se persiguen, su conveniencia.
 
-Sólo se podrá limitar el efecto de la imposición de la solidaridad reduciendo el valor a pagar respecto de la persona natural que demostrare que el pago en ese régimen le ocasionará un perjuicio desproporcionado. Con todo, el valor por pagar no podrá ser nunca inferior al valor de la cuota de liquidación que se le hubiere asignado o de los bienes que hubiere recibido en virtud de la disolución.
+Para adoptar esta decisión deberá atender sobre todo a la continuidad sustancial de los medios materiales y humanos y a la actividad desarrollada.
 
-Todo lo anterior será sin perjuicio de los derechos de terceros de buena fe.
-
-Las reglas de este artículo serán también aplicables en caso de transferencia de bienes o activos de la persona jurídica responsable, antes o después de la condena, siempre que la transferencia abarque la mayor parte de los bienes o activos de ésta y que exista continuidad sustancial de los medios materiales y humanos y de la actividad de la persona jurídica responsable en el o los adquirentes, de modo que pueda presumirse una fusión, absorción o división encubiertas.
-
-#### Artículo 18 bis
-
-Ejecución de la pena en caso de transferencia de bienes o activos de la persona jurídica. En caso de transferencia de bienes o activos de la persona jurídica responsable, sea antes o después de la condena, el comiso de cantidades y la multa podrán hacerse efectivos contra el adquirente si los bienes de aquélla no fueren suficientes, hasta el límite del valor de lo adquirido y siempre que el adquirente hubiere podido prever la condena de la persona jurídica responsable al momento de la adquisición.
+4) Desde que se hubiere solicitado la audiencia de formalización de la investigación en contra de una persona jurídica sin fines de lucro y hasta la sentencia absolutoria o condenatoria y en tanto ésta no esté cumplida, no podrá concederse la autorización del inciso primero del artículo 559 del Código Civil.
 
 3.- Extinción de la responsabilidad penal de la persona jurídica
 
 #### Artículo 19
 
 Extinción de la responsabilidad penal. La responsabilidad penal de la persona jurídica se extingue por las mismas causales señaladas en el artículo 93 del Código Penal, salvo la prevista en su número 1°.
-
-No obstará al pronunciamiento de una condena contra una persona jurídica la circunstancia de que ésta hubiere sido objeto de disolución, transformación, absorción, fusión o división.
-
-4.- Comiso de ganancias
-
-#### Artículo 19 bis
-
-Comiso de ganancias. Las ganancias obtenidas por la persona jurídica, a través del delito de que es responsable, serán decomisadas conforme a las reglas sobre comiso de ganancias establecidas en el Código Penal, el Código Procesal Penal y el Código Orgánico de Tribunales.
-
-Cuando concurran los requisitos señalados en el artículo 41 de la Ley de Delitos Económicos, serán decomisadas las ganancias obtenidas por la persona jurídica a través de un hecho ilícito que corresponde a un delito, aun sin necesidad de condena, de acuerdo con las disposiciones del Título III bis del Libro IV del Código Procesal Penal.
-
-El comiso de ganancias será impuesto también respecto de la persona jurídica que hubiere recibido la ganancia como aporte a su patrimonio.
-
-No podrá imponerse el comiso respecto de las ganancias obtenidas por una persona jurídica y que hubieren sido distribuidas entre sus socios, accionistas o beneficiarios que no hubieren tenido conocimiento de su procedencia ilícita al momento de su adquisición. En tal caso, la ganancia distribuida podrá considerarse para la determinación de la pena de multa que correspondiere imponer a la persona jurídica de acuerdo con el artículo 12.
 
 ## Título III
 
@@ -294,17 +304,7 @@ Procedimiento
 
 #### Artículo 20
 
-Investigación de la responsabilidad penal de la persona jurídica. Si durante la investigación de un delito el Ministerio Público toma conocimiento de circunstancias que funden la responsabilidad penal de una persona jurídica en los términos de esta ley, ampliará dicha investigación con el fin de determinar tal responsabilidad.
-
-La investigación también podrá iniciarse por denuncia o por querella. En este último caso, podrá ser deducida por la víctima de conformidad con el Código Procesal Penal, así como por cualquier persona capaz de parecer en juicio domiciliada en la provincia, respecto de hechos punibles que afecten el ejercicio de la función pública o la probidad administrativa, o respecto de aquellos delitos que puedan causar graves consecuencias sociales y económicas.
-
-Lo dispuesto en los incisos precedentes se entiende sin perjuicio de las reglas especiales que la ley establezca sobre el ejercicio de la acción penal por el respectivo delito.
-
-#### Artículo 20 bis
-
-Supervisión de la persona jurídica como medida cautelar. Una vez formalizada la investigación contra una persona jurídica, el fiscal del Ministerio Público podrá solicitar que se imponga como medida cautelar durante el procedimiento la supervisión de la persona jurídica conforme a lo previsto en los artículos 11 bis y 17 quáter.
-
-El tribunal acogerá la solicitud cuando se cumplan los requisitos señalados en las letras a) y b) del artículo 140 del Código Procesal Penal respecto de una persona natural cuyo hecho pueda dar lugar a la responsabilidad penal de la persona jurídica y se acredite que la medida, atendida la inexistencia o grave insuficiencia de un sistema efectivo de prevención de delitos, es estrictamente necesaria para prevenir la perpetración de nuevos delitos en su seno. La solicitud y la ejecución de la medida cautelar se regirán, en todo lo no previsto por esta ley, por lo dispuesto en el Párrafo 4° del Título V del Libro I del Código Procesal Penal.
+Investigación de la responsabilidad penal de las personas jurídicas. Si durante la investigación de alguno de los delitos previstos en el artículo 1°, el Ministerio Público tomare conocimiento de la eventual participación de alguna de las personas indicadas en el artículo 3°, ampliará dicha investigación con el fin de determinar la responsabilidad de la persona jurídica correspondiente.
 
 #### Artículo 21
 
@@ -347,8 +347,6 @@ El juez de garantía dispondrá, según correspondiere, que durante el período 
 3) Informar periódicamente su estado financiero a la institución que se determinare.
 
 4) Implementar un programa para hacer efectivo el modelo de organización, administración y supervisión a que se refiere el artículo 4°.
-
-4 bis) Someterse a supervisión en los términos de los artículos 11 bis y 17 quáter.
 
 5) Cualquiera otra condición que resulte adecuada en consideración a las circunstancias del caso concreto y fuere propuesta, fundadamente, por el Ministerio Público.
 
