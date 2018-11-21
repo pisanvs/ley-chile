@@ -142,6 +142,4 @@ b. Que no existan cambios de estatus en las condiciones fitosanitarias, en las i
 
 > **Nota.** El numero 2 de la Resolución 7374 exenta, Agricultura, publicada el 21.11.2018, modifica la presente norma en el sentido de prorrogar SU vigencia por dos años a partir del 13 de noviembre de 2018.
 
-> **Nota.** NOTA 1 El numeral 1° de la Resolución 7112 Exenta, Agricultura, publicada el 28.10.2020, modifica la presente norma en el sentido de prorrogar la vigencia que reconoce al Centro de Producción Sklarczyk Seed Farm LLC. ubicado en Michigan, para exportar minitubérculos de papa (Solanum tuberosum) con destino a Chile, por dos años a partir del 13 de noviembre de 2020.
-
 Anótese, comuníquese y publíquese.- Óscar Humberto Camacho Inostroza, Director Nacional (S).
