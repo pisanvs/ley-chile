@@ -88,9 +88,9 @@ d. Ejecutar un programa de saneamiento, bajo la responsabilidad de un profesiona
 
 Disponer de un programa de capacitación continua de los operarios en el ámbito de prácticas higiénicas en la fabricación de ingredientes de origen animal destinados a la alimentación animal.
 
-3. Se entenderá por materias primas autorizadas las provenientes de animales que han sido sometidos a una inspección médico veterinaria oficial, exceptuando los materiales especificados de riesgo (MER) u otras que afecten la inocuidad de los ingredientes obtenidos a partir de ellas.
+3.- Se entenderá por materias primas autorizadas las provenientes de animales que han sido sometidos a una inspección médico-veterinaria, exceptuando los materiales especificados de riesgo (MER) u otras que afecten la inocuidad o sanidad de los ingredientes obtenidos a partir de ellas.
 
-4. Los establecimientos que fabriquen ingredientes de origen animal destinados a la alimentación animal, deberán utilizar materias primas autorizadas y procedentes de plantas faenadoras que cumplan con las regulaciones nacionales vigentes.
+4.- Los establecimientos que fabriquen ingredientes de origen animal destinados a la alimentación animal, deberán utilizar materias primas autorizadas y procedentes de animales que cumplan con las regulaciones nacionales vigentes de sanidad animal.
 
 5. Los establecimientos que fabriquen ingredientes de origen animal destinados a la alimentación animal, deberán funcionar bajo la responsabilidad de un Profesional idóneo, quien será la contraparte técnica del Servicio Agrícola y Ganadero.
 
