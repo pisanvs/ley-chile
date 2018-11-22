@@ -1,0 +1,3 @@
+ACEPTA RENUNCIA VOLUNTARIA DE SECRETARIO SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE SANTIAGO
+
+Por resolución Ex. SII Nº 4.522, del 19 de noviembre de 2018, se aceptó la renuncia de don Álvaro Nicolás Droguett Cornejo, RUT Nº 13.503.745-1, en el cargo de Secretario Suplente en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Santiago.
