@@ -26,7 +26,7 @@ Decreto:
 
 #### Artículo 1°
 
-Desígnase, a contar de la fecha del presente decreto, a don Juan Eduardo Vargas Duhart, RUN Nº 12.797.816-6, Jefe de la División de Educación Superior del Ministerio de Educación, como representante del Ministro de Educación ante el Consejo de la Comisión Nacional de Investigación Científica y Tecnológica.
+Derogado.
 
 #### Artículo 2°
 
