@@ -130,7 +130,7 @@ En caso de fallecimiento del afiliado, este apoyo se otorgará en el siguiente o
 
 efectos por el afiliado,
 
-2. Al cónyuge sobreviviente,
+2. Al cónyuge sobreviviente O, en su caso, al conviviente civil.
 
 3. A los hijos del afiliado,
 
@@ -148,7 +148,7 @@ e) Enfermedad catastrófica: Para los efectos de este Subsidio, una enfermedad e
 
 f) Devastación: A fin de reconstruir lo deteriorado, se otorgará este Subsidio al afiliado que sufra daños en el inmueble utilizado como residencia habitual a consecuencia de incendio terremoto e inundaciones, calificado por la autoridad competente de la Institución, en el que consten los daños y gastos en que ha incurrido el afiliado.
 
-Si los afectados fueren matrimonio y ambos estuvieran afiliados al Servicio de Bienestar al momento de ocurrir el siniestro, esta ayuda será otorgada a ambos en forma independiente, y
+Si los afectados fueren matrimonio O convivientes civiles y ambos estuvieran afiliados al Servicio de Bienestar al momento de ocurrir el siniestro, esta ayuda será otorgada a ambos en forma independiente, y
 
 g) Desgravamen: Al fallecimiento de un afiliado, se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio de Bienestar por concepto de préstamos que éste le hubiese otorgado.
 
@@ -161,6 +161,8 @@ El monto de las ayudas contempladas en las letras a),
 - **f)** será determinado por el Consejo Administrativo conforme a lo señalado en la letra
 
 - **g)** del artículo 29º, del Reglamento General.
+
+h) Acuerdo de Unión Civil: Se otorgará un subsidio por la celebración de un Acuerdo de Unión Civil del afiliado. Si ambos convivientes civiles son afiliados, cada uno de ellos tendrá derecho a este beneficio en forma independiente. En tal caso, el afiliado o afiliada deberá acompañar a la respectiva solicitud el certificado respectivo, emitido por el Servicio de Registro Civil e Identificación.
 
 Párrafo Tercero
 
@@ -187,6 +189,8 @@ Beneficios facultativos
 #### Artículo 15º
 
 El Servicio de Bienestar podrá patrocinar, asesorar y financiar, si los recursos económicos así lo permitan, actividades educativas, culturales, artísticas, deportivas y recreativas en general. Como también, podrá celebrar y financiar la Fiesta de Navidad, en beneficio de sus afiliados y sus cargas familiares.
+
+En el marco referido en el inciso precedente, el Servicio de Bienestar podrá patrocinar, asesorar y financiar, si los recursos económicos así lo permiten actividades de: Fiestas Patrias, Año Nuevo, Día de la Secretaria, Día del Padre, de la Madre y del Niño, Día Internacional de la Mujer, Aniversario de la Institución, Aniversario del Servicio de Bienestar, ayudas específicas y otros beneficios facultativos establecidos en el Reglamento Particular.
 
 #### Artículo 15 bis
 
