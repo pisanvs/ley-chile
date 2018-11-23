@@ -26,9 +26,17 @@ Decreto:
 
 Modificase el decreto supremo Nº 106, de 2015, del Ministerio del Interior y Seguridad Pública, en los siguientes términos:
 
-Establécese que el adelanto de la hora oficial de Chile Continental dispuesto en el decreto supremo Nº1.489, de 1970, modificado por el decreto supremo Nº106, de 2015, ambos del Ministerio del Interior y Seguridad Pública; y, de la hora oficial de Chile Insular Occidental dispuesto en el decreto supremo Nº1.142, de 1980, modificado por el decreto supremo Nº106, de 2015, ambos del Ministerio del Interior y Seguridad Pública, se extenderá, en lo que respecta al año 2016, hasta las 24 horas del segundo sábado del mes de mayo. Asimismo, a contar de las 24 horas del segundo sábado del mes de agosto de 2016 y hasta las 24 horas del segundo sábado del mes de mayo de 2017, la hora oficial se adelantará en 60 minutos. En el mismo sentido antes señalado, esto es, a contar de las 24 horas del segundo sábado del mes de agosto de 2017 y hasta las 24 horas del segundo sábado del mes de mayo de 2018, se adelantará la hora oficial en 60 minutos. Finalmente, a contar de las 24 horas del segundo sábado del mes de agosto de 2018 y hasta las 24 horas del segundo sábado del mes de mayo de 2019, se adelantará la hora oficial en 60 minutos.
+Establécese que el adelanto de la hora oficial de Chile Continental dispuesto en el decreto supremo N° 1.489, de 1970, modificado por el decreto supremo N° 253, de 2016, ambos del Ministerio del Interior y Seguridad Pública; y, de la hora oficial de Chile Insular Occidental dispuesto en el decreto supremo N° 1.142, de 1980, modificado por el decreto supremo N° 253, de 2016, ambos del Ministerio del Interior y Seguridad Pública, se extenderá entre las horas que se indican, en las fechas que se señalan:
 
-Sin perjuicio de lo señalado anteriormente, para la Región de Magallanes y la Antártica Chilena el adelanto de la hora oficial de Chile continental se extenderá, hasta las 24 horas del segundo sábado del mes de mayo de 2019, y corresponderá en forma permanente al huso horario tres horas al Oeste del meridiano de Greenwich (-3).
+1.- Hasta las 24 horas del primer sábado del mes de abril de 2019.
+
+2.- A contar de las 24 horas del primer sábado del mes de septiembre de 2019 y hasta las 24 horas del primer sábado del mes de abril de 2020, la hora oficial se adelantará en 60 minutos.
+
+3.- A contar de las 24 horas del primer sábado del mes de septiembre de 2020 y hasta las 24 horas del primer sábado del mes de abril 2021, se adelantará la hora oficial en 60 minutos.
+
+4.- A contar de las 24 horas del primer sábado del mes de septiembre de 2021 y hasta las 24 horas del primer sábado del mes de abril de 2022, se adelantará la hora oficial en 60 minutos.
+
+Sin perjuicio de lo señalado anteriormente, en la Región de Magallanes y la Antártica Chilena el adelanto de la Hora Oficial de Chile Continental se extenderá hasta las 24 horas del primer sábado del mes de abril de 2022, y corresponderá en forma permanente al huso horario tres horas al Oeste del meridiano de Greenwich (-3).
 
 Anótese, tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Jorge Burgos Varela, Ministro del Interior y Seguridad Pública.
 
