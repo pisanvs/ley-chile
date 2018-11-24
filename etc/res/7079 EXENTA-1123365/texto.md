@@ -70,7 +70,7 @@ Para todos los efectos a que haya lugar, se considerará como residencia del pos
 
 Del monto de subsidio
 
-12. Para efectos de la asignación de recursos en este Llamado, se entenderá por subsidio, aquel que corresponde al monto de subsidio base más el monto del factor multiplicador por condición del aislamiento, definido en la resolución exenta Nº 3.130 (V. y U.) de 2016. Al que se adicionará el subsidio complementario de discapacidad si corresponde.
+12. Para efectos de la asignación de recursos en este Llamado, se entenderá por subsidio, aquel que corresponde al monto de subsidio base más el monto del factor multiplicador por condición del aislamiento, definido en la resolución exenta Nº 3.130 (V. y U.) de 2016. Al que se adicionará el subsidio complementario de discapacidad si corresponde. Delégase en los respectivos Secretarios Regionales Ministeriales de Vivienda y Urbanismo, la facultad para asignar, mediante resolución, los subsidios complementarios a que se refiere el artículo 10 del DS Nº 10 (V. y U.), de 2015, teniendo en cuenta la aprobación, técnica, jurídica y económica de cada proyecto proporcionada por Serviu, según proceda.
 
 13. Para efectos de la postulación correspondiente a la tipología Construcción de Recintos Complementarios, independientemente del número de recintos que se desee construir, el monto máximo del subsidio base al cual se podrá acceder, será de hasta 120 UF. Respecto a la Tipología Mejoramiento del Entorno Inmediato, las familias que opten por desarrollar este tipo de proyectos no podrán destinar recursos a la construcción de cierros perimetrales, portones u obras de similares características.
 
@@ -94,9 +94,7 @@ Factores de puntaje y selección
 
 Recursos disponibles
 
-22. Los recursos involucrados para la selección ascienden a un total de 791.500 UF y su distribución territorial será la siguiente:
-
-.
+22. Los recursos involucrados para la selección ascienden a un total de 279.857,76 UF y su distribución territorial será la siguiente:
 
 Nota: Todas las referencias hechas a la Región de Ñuble en el presente llamado se entenderán aplicables a contar del 6 de septiembre de 2018, fecha en que entra en vigencia la ley 21.033 que Crea la Región de Ñuble y las Provincias de Diguillín, Punilla e Itata. Para efectos del presente Llamado, podrán presentar postulaciones de familias que residan en la Región de Ñuble las Entidades de Gestión Rural que tengan Convenio Marco Regional vigente con la Seremi de la Región del Biobío.
 
