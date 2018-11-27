@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.446 EXENTA, DE 26 DE SEPTIEMBRE DE 2018
+
+Resolución exenta N° 1.446, de 26 de septiembre de 2018, de la Secretaría Regional Ministerial de la Región de Los Lagos, aprueba Contrato Ad-Referéndum de Concesión N°2 para operar una Planta Revisora clase AB en la comuna de Osorno, una Planta Revisora clase AB en la comuna de Castro y una Unidad Móvil, todas en la Región de Los Lagos, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Los Lagos y el concesionario "Algoritmos y Mediciones Ambientales SpA", con vigencia de diez años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+Nicolás Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
