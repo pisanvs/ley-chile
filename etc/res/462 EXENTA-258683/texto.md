@@ -342,6 +342,12 @@ i) El ingreso a la pista exclusiva podrá efectuarse en cualquiera de las demarc
 
 ii) La salida desde la pista exclusiva podrá efectuarse en cualquiera de las demarcaciones correspondientes a los dos cruces posteriores a la ubicación de la residencia o estacionamiento respectivo.
 
+f) Vehículos asignados a las autoridades señaladas el inciso tercero del artículo 3º del DL Nº 799, de 1974, para ser usados en actividades propias del cargo y, aquellos vehículos que escolten a los primeros por motivos de seguridad, cuando corresponda. Para acreditar la condición de los señalados vehículos las instituciones a las cuales pertenezcan dichas autoridades deberán remitir a esta Secretaría Regional una nómina con el detalle de dichos vehículos, la que deberá renovarse cada vez que exista una modificación de la misma.
+
+g) vehículos destinados o autorizados exclusivamente por las municipalidades para realizar labores de aseo de bienes nacionales de uso público y/o extracción y transporte de residuos sólidos domiciliarios.
+
+El municipio, a través de la unidad que corresponda, para acreditar lo anterior, deberá certificar aquellos vehículos que cumplan las señaladas condiciones, enviando una nómina actualizada de los mismos a esta Secretaría Regional Ministerial, la que deberá renovarse cada vez que exista un cambio en la misma.
+
 3.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, son los encargados de fiscalizar el estricto cumplimiento de la medida precedentemente descrita, de conformidad a lo dispuesto en la Ley N°18.290.
 
 Anótese y publíquese.- Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana.
