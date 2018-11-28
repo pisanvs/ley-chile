@@ -218,7 +218,7 @@ a 100 personas.
 
 «Estudio de seguridad»: evaluación de las condiciones de seguridad que ofrece una construcción o un proyecto de construcción a sus posibles ocupantes, suscrito por un profesional competente.
 
-«Fachada»: cualquiera de los paramentos exteriores de un edificio.".
+«Fachada»: cualquiera de los paramentos exteriores de un edificio.
 
 «Fachada con vano»: paramento exterior de una edificación, desde el suelo natural hasta su punto más alto, que incluye entrantes y salientes, tales como puertas, ventanas, bow-windows, balcones, terrazas, azoteas, loggias, escaleras y pasillos exteriores, salvo que los vanos se ubiquen a una altura superior a 1,8 m con respecto al nivel interior del piso que sirven.
 
@@ -284,7 +284,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Norma oficial»: DEROGADO.
 
-«Norma técnica»: la que elabora el Instituto Nacional de Normalización (INN).".
+«Norma técnica»: la que elabora el Instituto Nacional de Normalización (INN).
 
 «Norma Técnica Oficial»: la elaborada por el Instituto Nacional de Normalización, aprobada por decreto supremo.
 
@@ -376,6 +376,8 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 "Registro de la Ley Nº 20.296": el Registro Nacional de Instaladores, Mantenedores y Certificadores de Ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, creado por la ley Nº 20.296.
 
+"Registro de Proyectos Inmobiliarios" : Registro público y electrónico, contemplado en el artículo 7° quáter de la ley N° 18.168, implementado y mantenido por la Subsecretaría de Telecomunicaciones en su página web, para efectos de la inscripción de los proyectos inmobiliarios.
+
 «Rehabilitación de un inmueble»: recuperación o puesta en valor de una construcción, mediante obras y modificaciones que, sin desvirtuar sus condiciones originales, mejoran sus cualidades funcionales, estéticas, estructurales, de habitabilidad o de confort.
 
 «Remodelación de un inmueble»: modificación interior o exterior de una construcción para adecuarla a nuevas condiciones de uso mediante transformación, sustracción o adición de elementos constructivos o estructurales, conservando los aspectos sustanciales o las fachadas del inmueble original.
@@ -418,11 +420,11 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Superficie común»: superficie edificada de uso común calculada hasta el eje de los muros o línea que la separa de la superficie útil.
 
-«Superficie edificada»: superficie de una construcción calculada horizontalmente por pisos, sin incluir los vacíos, los ductos verticales y las escaleras de evacuación, medida hasta la cara exterior de los muros perimetrales.
+«Superficie edificada»: superficie de una construcción calculada horizontalmente por pisos, sin incluir los vacíos, los ductos verticales y las escaleras de evacuación, medida hasta la cara exterior de los muros perimetrales.".
 
-«Superficie servida»: superficie útil que se sirve de los sistemas de evacuación.
+«Superficie servida»: superficie útil que se sirve de los sistemas de evacuación.".
 
-«Superficie útil»: suma de la superficie edificada de las unidades que conforman un edificio, calculada hasta el eje de los muros o líneas divisorias entre ellas y la superficie común.
+«Superficie útil»: suma de la superficie edificada de las unidades que conforman un edificio, calculada hasta el eje de los muros o líneas divisorias entre ellas y la superficie común.".
 
 «Supermercado»: edificación cerrada destinada a la venta al público de productos diversos, mediante el sistema de autoservicio generalmente en una misma sala de venta.
 
@@ -697,6 +699,8 @@ DE LAS SANCIONES
 10. La inexistencia de Libro de Obras, las adulteraciones de éste, la omisión de las firmas correspondientes en las instrucciones y observaciones, o el incumplimiento de tales instrucciones sin justificación.
 
 11. Emplear materiales o elementos industriales defectuosos que contravengan las disposiciones de esta Ordenanza.
+
+12. Ejecución de una obra en disconformidad con los planos, especificaciones y demás antecedentes del permiso aprobado.
 
 Las multas se aplicarán a quienes resulten responsables de la infracción, de acuerdo a la sentencia dictada al efecto por el Juez de Policía Local correspondiente.
 
@@ -3356,7 +3360,9 @@ El anteproyecto aprobado mantendrá su vigencia por el plazo indicado en el art�
 
 2. Plano de loteo con las características del número 5 del artículo 3.1.4.
 
-3. Planos de los proyectos de urbanización, debidamente firmados por los profesionales competentes, incluyendo, cuando el proyecto consulte tales instalaciones, los correspondientes a redes de agua potable y alcantarillado de aguas servidas y aguas lluvias, redes de electrificación, alumbrado público, gas, telecomunicaciones, pavimentación y sus obras complementarias, plantaciones y obras de ornato, y obras de defensa del terreno, todos ellos con sus respectivas especificaciones técnicas.
+3. Planos de los proyectos de urbanización, debidamente firmados por los profesionales competentes, incluyendo, cuando el proyecto consulte tales instalaciones, los correspondientes a redes de agua potable y alcantarillado de aguas servidas y aguas lluvias, redes de electrificación, alumbrado público, gas, pavimentación y sus obras complementarias, plantaciones y obras de ornato, y obras de defensa del terreno, todos ellos con sus respectivas especificaciones técnicas.
+
+Tratándose de proyectos de loteo o de loteo con construcción simultánea que deban registrarse en el Registro de Proyectos Inmobiliarios, se presentará el proyecto de telecomunicaciones junto con sus planos y respectivas especificaciones técnicas, suscritos por el proyectista de telecomunicaciones.
 
 4. Certificado de factibilidad de dación de servicios de agua potable y alcantarillado, para la densidad propuesta, emitido por la empresa de servicios sanitarios correspondiente. De no existir empresa de servicios sanitarios en el área se deberá presentar un proyecto de agua potable y alcantarillado, aprobado por la autoridad respectiva.
 
@@ -3656,7 +3662,7 @@ complementarias de electrificación y alumbrado público, emitido por la empresa
 
 5. Certificado de ejecución de las redes de gas y sus obras complementarias, emitido por la empresa de servicio público de gas, cuando proceda.
 
-6. Certificado de ejecución de las redes de telecomunicaciones y sus obras complementarias, emitido por la empresa concesionaria de servicio público de telecomunicaciones que corresponda, cuando proceda.
+6. Certificado de registro del proyecto de loteo o loteo con construcción simultánea en el Registro de Proyectos Inmobiliarios, cuando corresponda, y Certificado de la modificación de dicho registro cuando proceda, conforme establece el Reglamento al que se refiere el artículo 7° quáter de la Ley N° 18.168. En estos casos, se adjuntará, además, el Informe favorable del proyectista de telecomunicaciones señalando que las obras respectivas se ejecutaron conforme al proyecto de telecomunicaciones y cumpliendo con las especificaciones técnicas establecidas en el Reglamento al que se alude en este numeral. A este informe se adjuntará el registro de mediciones respecto de cada una uno de los puntos efectuados por el Instalador de telecomunicaciones.
 
 7. Planos y certificados de ejecución de las obras complementarias de urbanización, emitidos por las instituciones competentes, cuando se trate de modificaciones de los cursos de agua o de las redes de alta tensión, entre otras.
 
@@ -3669,6 +3675,8 @@ En caso de cumplirse los requisitos exigidos se cursará la recepción definitiv
 Los plazos dispuestos en el artículo 118 de la Ley General de Urbanismo y Construcciones serán aplicables al caso de las recepciones definitivas parciales o totales.
 
 Con todo, en los casos contemplados en el numeral 2 del artículo 2.2.4. de esta Ordenanza, cuando el permiso de ejecución de obras de urbanización de los terrenos afectos a utilidad pública, se solicite conjuntamente con el permiso de edificación acogido a las disposiciones de la ley Nº 19.537, la recepción de las obras de urbanización deberá ser requerida en forma previa o conjunta con la solicitud de recepción definitiva de las obras de edificación respectivas.
+
+Tratándose de la recepción definitiva de proyectos de loteo o de proyectos de loteo con construcción simultánea que deban registrarse en el Registro de Proyectos Inmobiliarios, el Director de Obras Municipales deberá verificar previamente la correspondencia entre los antecedentes que constan en Certificado que acredita ese registro, y en el Certificado de modificación de dicho registro cuando proceda, y los mismos antecedentes señalados en el permiso de loteo y en la solicitud de recepción definitiva. Cuando no se adjunte dicho Certificado o no haya correspondencia, la solicitud de recepción será rechazada, emitiendo el respectivo comprobante de rechazo timbrado y fechado en el que se precise la causal en que se funda este rechazo.
 
 #### Artículo 3
 
@@ -6130,23 +6138,57 @@ Los teatros y otros locales de reuniones, deberán contar con un recinto indepen
 
 #### Artículo 4
 
-7.24. Las cabinas de cinematógrafos deberán cumplir con los siguientes requisitos:
+7.24. Las salas de exhibiciones cinematográficas podrán contar con cabinas o plataformas para los equipos de proyección, sin perjuicio del cumplimiento de las siguientes disposiciones, según corresponda.
 
-1. Tendrán un cubo interior de 20 m3 a lo menos por cada aparato proyector.
+1. CABINA
 
-2. Estarán provistas de medios adecuados para extinguir el incendio de películas.
+Corresponde a un recinto cerrado, fuera o al interior de la sala, en la que se ubicarán el o los proyectores, el equipo de sonido y otras instalaciones necesarias para ambos equipos.
 
-3. Tendrán una sola puerta de acceso, que abrirá hacia afuera y que cerrará en forma hermética.
+A) CABINA DE PROYECCIÓN OPTO-MECÁNICA
 
-4. Las aperturas indispensables irán provistas de obturadores de cierre hermético.
+Recinto fuera de la sala, que contendrá los proyectores del tipo opto-mecánico, cumpliendo además los siguientes requisitos:
 
-5. El acceso debe hacerse desde el exterior de la sala.
+- Tendrán un cubo interior de 20 m3 a lo menos por cada aparato proyector.
 
-6. tendrán ventilación directa al exterior enteramente aislada de la sala.
+- Estarán provistas de medios adecuados para extinguir el incendio de películas.
 
-7. Estarán dotadas de una caja para guardar películas, de cierre hermético.
+- Tendrán una sola puerta de acceso, que abrirá hacia afuera y que cerrará en forma hermética.
 
-8. Estarán dotadas de un servicio higiénico para el o los operadores.
+- Las aperturas indispensables irán provistas de obturadores de cierre hermético.
+
+- El acceso debe hacerse desde el exterior de la sala.
+
+- Tendrán ventilación directa al exterior enteramente aislada de la sala.
+
+- Estarán dotadas de una caja para guardar películas, de cierre hermético.
+
+- Estarán dotadas de un servicio higiénico para el o los operadores.
+
+B) CABINA DE PROYECCIÓN DIGITAL
+
+Recinto, fuera o al interior de la sala, en la que se ubicarán el o los proyectores digitales. A su vez, deberán cumplirse los siguientes requisitos:
+
+- Tendrá un cubo interior de a lo menos 12 m3 por cada aparato proyector y con iluminación no inferior a 100 lux para que el personal autorizado pueda ejecutar la mantención, revisión y/o reparación de los equipos. Su altura interior no será inferior a 2 m.
+
+- Deberá contar con ventilación propia, suficiente para permitir la circulación del aire en su interior.
+
+- El acceso a la cabina estará restringido al público y podrá ser desde el exterior o desde el interior de la sala, a través de puertas, escotillas o escaleras de un ancho mínimo de 0,85 m. Desde el exterior, podrá ser directamente desde las vías de evacuación o a través de pasillos de servicio de ancho mínimo 0,90 m y de alto no inferior a 2,30 m.
+
+2. PLATAFORMA DE PROYECCIÓN DIGITAL
+
+Corresponde a una estructura horizontal descubierta, ubicada al interior de la sala y elevada del suelo de ésta, sobre la que se ubicarán el o los proyectores, el equipo de sonido y otras instalaciones necesarias para ambos equipos. A su vez, deberán cumplirse los siguientes requisitos:
+
+- Sus dimensiones serán de a lo menos 2,15 m de largo y 1,50 m de ancho por cada aparato proyector y la altura al cielo de la sala no será inferior a 2 m.
+
+- No podrán ubicarse asientos en el área bajo la plataforma de proyección ni a menos de un metro de ésta. Si se considera un pasillo abierto al público bajo esta área, éste no tendrá menos de 2 m de altura libre.
+
+- Deberá estar diseñada para soportar el peso de los equipos de proyección y de al menos dos miembros del personal autorizado. En sus costados deberá poseer barandas de una altura no inferior a 0,95 m.
+
+- El acceso a la plataforma podrá ser desde el interior de la sala a través de escaleras de un ancho mínimo de 0,85 m cuyo acceso estará restringido al público.
+
+Las cabinas y plataformas de proyección deberán contar sobre cada proyector con un extractor de aire exclusivo, que expulse directamente el aire hacia fuera de la sala y del edificio, o lo expulse indirectamente conectado a algún sistema de ventilación forzada para los mismos efectos. Asimismo, se deberá contar con un sistema de control de temperatura contactado al sistema de ventilación. Deberá existir un detector de humo conectado a un sistema central de detección y alarma contra incendios y a un equipo manual de extinción.
+
+El proyecto de cálculo estructural deberá dar cuenta de la forma de estructuración de la cabina o de la plataforma, señalando en este último caso las cargas máximas admisibles.
 
 #### Artículo 4
 
@@ -7674,11 +7716,13 @@ c) Planta de todos los pisos, debidamente
 
 acotadas, señalando el o los
 
-destinos contemplados. Las cotas deberán
+destinos contemplados. Las cotas
 
-ser suficientes para permitir calcular
+deberán ser suficientes para permitir
 
-la superficie edificada de cada planta.
+calcular la superficie edificada de
+
+cada planta.
 
 d) Cortes y elevaciones que ilustren los
 
@@ -7749,6 +7793,8 @@ c) Estudio de Ascensores, cuando corresponda.
 14. Plano de Accesibilidad en caso de edificios a los que se refiere el Artículo 4.1.7. de esta Ordenanza, a una escala adecuada, que grafique el cumplimiento de las normas de accesibilidad universal y discapacidad que correspondan, detallando en éste los datos usados para el cálculo de cada rampa del proyecto incluyendo esquemas en planta y corte, además del trazado y ancho de la ruta accesible, incorporando, según sea el caso, los accesos del edificio, los recintos y áreas del edificio que esta ruta conecta.
 
 Se incorporará además una Memoria de Accesibilidad del proyecto suscrita por el arquitecto a través de la cual se demuestre el cumplimiento de las disposiciones de accesibilidad universal y discapacidad que corresponda al proyecto y otras que se desee incorporar en éste, tendientes al mismo fin.
+
+15. Proyecto de telecomunicaciones junto con sus planos y respectivas especificaciones técnicas, suscritos por el proyectista de telecomunicaciones, cuando se trate de proyectos de edificación que deban registrarse en el Registro de Proyectos Inmobiliarios.
 
 Los niveles y superficies declaradas serán responsabilidad del profesional competente suscriptor del proyecto.
 
@@ -7949,6 +7995,8 @@ Si el o los propietarios no dieren cumplimiento a las obligaciones establecidas 
 4. Si se comprobare que no se ha dado cumplimiento a lo dispuesto en el artículo 5.1.20. en el evento de producirse un cambio de profesionales competentes o de propietario durante la ejecución de una obra.
 
 5. Si se comprobare que existe peligro inminente de daños contra terceros y no se han adoptado las medidas de seguridad correspondientes.
+
+6. Si se comprobare que la obra se ejecuta en disconformidad con los planos, especificaciones y demás antecedentes del permiso aprobado.
 
 Si se da algunas de las causales anteriores se ordenará de inmediato, mediante resolución fundada, la paralización parcial o total de la obra, fijando un plazo prudencial para que se proceda a subsanar las observaciones que se formulen.
 
@@ -8214,7 +8262,7 @@ Junto a la solicitud de recepción definitiva de la obra se acompañará el lega
 
 3. Documentos a que se refieren los artículos 5.9.2. y 5.9.3. , según se trate de instalaciones eléctricas interiores o instalaciones interiores de gas, respectivamente, cuando proceda.
 
-4. Aviso de instalación y planos correspondientes a las redes y elementos de telecomunicaciones, cuando proceda.
+4. Certificado que acredita el registro del proyecto de edificación en el Registro de Proyectos Inmobiliarios, cuando corresponda, y Certificado de la modificación de dicho registro, cuando proceda, conforme establece el Reglamento al que se refiere el artículo 7° quáter de la Ley N° 18.168. En estos casos, se adjuntará, además, el Informe favorable del proyectista de telecomunicaciones, señalando que las obras se ejecutaron conforme al respectivo proyecto y cumpliendo con las especificaciones técnicas establecidas en el Reglamento al que se alude en este numeral. A este Informe se adjuntará el registro de mediciones respecto de cada uno de los puntos efectuados por el Instalador de telecomunicaciones.
 
 5. Documentación de la instalación de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, a la que se refiere el numeral 2 del artículo 5.9.5. de esta Ordenanza.
 
@@ -8233,6 +8281,8 @@ Tratándose de proyectos de loteo con construcción simultánea, se recepcionar�
 Los antecedentes y certificaciones a que se refiere este artículo se archivarán conjuntamente con el legajo que señala el inciso primero del artículo 5.1.16. de esta Ordenanza y formarán parte del mismo.
 
 Tratándose de la recepción definitiva de una obra menor, se adjuntarán al expediente los certificados de recepción de las instalaciones contempladas en la obra construida, emitidos por la autoridad competente, cuando corresponda, y un informe del arquitecto proyectista o supervisor de la obra, que señale que fue construida de conformidad al permiso otorgado y a las normas de la Ley General de Urbanismo y Construcciones y de esta Ordenanza.
+
+Tratándose de la recepción definitiva de proyectos de edificación que deban registrarse en el Registro de Proyectos Inmobiliarios, el Director de Obras Municipales deberá verificar previamente la correspondencia entre los antecedentes que constan en el Certificado que acredita ese registro, y en el Certificado de modificación de dicho registro cuando proceda, y los mismos antecedentes señalados en el permiso de edificación y en la solicitud de recepción definitiva. Cuando no se adjunte dicho Certificado o cuando no haya correspondencia, la solicitud de recepción será rechazada, emitiendo el respectivo comprobante de rechazo timbrado y fechado en el que se precise la causal en que se funda este rechazo.
 
 #### Artículo 5
 
@@ -9872,7 +9922,7 @@ Instalaciones interiores de telecomunicaciones
 
 #### Artículo 5
 
-9.7. Los edificios que consulten instalaciones interiores tales como teléfonos o televisión por cable, deberán contemplar ductos independientes para contener los cables, cuya sección admita la prestación de dichos servicios por más de un proveedor.
+9.7. En las edificaciones que deban contar con proyecto de telecomunicaciones, conforme al Reglamento al que se refiere el artículo 7° quáter de la ley N° 18.168, las respectivas instalaciones de telecomunicaciones deberán cumplir con las especificaciones técnicas señaladas en dicho Reglamento
 
 ## Título 6
 
