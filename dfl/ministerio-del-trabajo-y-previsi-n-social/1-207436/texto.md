@@ -160,6 +160,14 @@ Cuando para la contratación de un trabajador se le haga cambiar de domicilio, d
 
 Si por la naturaleza de los servicios se precisare el desplazamiento del trabajador, se entenderá por lugar de trabajo toda la zona geográfica que comprenda la actividad de la empresa. Esta norma se aplicará especialmente a los viajantes y a los trabajadores de empresas de transportes.
 
+#### Artículo 10 bis
+
+Sin perjuicio de lo dispuesto en el número 6 del artículo 10, las partes podrán celebrar un contrato por una obra o faena determinada.
+
+El contrato por obra o faena es aquella convención por la que el trabajador se obliga con el respectivo empleador a ejecutar una obra material o intelectual específica y determinada, en su inicio y en su término, cuya vigencia se encuentra circunscrita o limitada a la duración de aquélla. Las diferentes tareas o etapas de una obra o faena no podrán por sí solas ser objeto de dos o más contratos de este tipo en forma sucesiva, caso en el cual se entenderá que el contrato es de plazo indefinido.
+
+No revestirán el carácter de contratos por obra o faena aquellos que implican la realización de labores o servicios de carácter permanente y que, como tales, no cesan o concluyen conforme a su naturaleza, lo cual se determinará en cada caso específico por la Inspección del Trabajo respectiva, sin perjuicio de las facultades de los tribunales de justicia en caso de controversia.
+
 #### Artículo 11
 
 Las modificaciones del contrato de trabajo se consignarán por escrito y serán firmadas por las partes al dorso de los ejemplares del mismo o en documento anexo.
@@ -572,7 +580,7 @@ DE LAS REMUNERACIONES
 
 Se entiende por remuneración las contraprestaciones en dinero y las adicionales en especie avaluables en dinero que debe percibir el trabajador del empleador por causa del contrato de trabajo.
 
-No constituyen remuneración las asignaciones de movilización, de pérdida de caja, de desgaste de herramientas y de colación, los viáticos, las prestaciones familiares otorgadas en conformidad a la ley, la indemnización por años de servicios establecida en el artículo 163 y las demás que proceda pagar al extinguirse la relación contractual ni, en general, las devoluciones de gastos en que se incurra por causa del trabajo.
+No constituyen remuneración las asignaciones de movilización, de pérdida de caja, de desgaste de herramientas y de colación, los viáticos, las prestaciones familiares otorgadas en conformidad a la ley, las indemnizaciones establecidas en el artículo 163 y las demás que proceda pagar al extinguirse la relación contractual ni, en general, las devoluciones de gastos en que se incurra por causa del trabajo.
 
 #### Artículo 42
 
@@ -829,6 +837,8 @@ El empleador podrá solicitar a la Comandancia de Bomberos respectiva la acredit
 #### Artículo 67
 
 Los trabajadores con más de un año de servicio tendrán derecho a un feriado anual de quince días hábiles, con remuneración íntegra que se otorgará de acuerdo con las formalidades que establezca el reglamento.
+
+Igual derecho asistirá al trabajador que preste servicios continuos al mismo empleador en virtud de dos o más contratos celebrados por obra o faena determinada y que sobrepasen el año. Con todo, y sólo para estos efectos, el trabajador podrá optar por que el pago de su feriado proporcional se difiera al momento de hacerlo efectivo en las condiciones señaladas en este inciso, debiendo dejar constancia expresa de ello en el respectivo finiquito. En caso de que los contratos no sobrepasen el año y el trabajador hubiere diferido el pago de los feriados conforme lo señala este inciso, el empleador deberá pagar en el último finiquito la totalidad de los feriados adeudados.
 
 Los trabajadores que presten servicios en la Duodécima Región de Magallanes y de la Antártica Chilena, en la Undécima Región de Aysén del General Carlos Ibáñez del Campo, y en la Provincia de Palena, tendrán derecho a un feriado anual de veinte días hábiles.
 
@@ -2154,7 +2164,7 @@ Esta comunicación se entregará o deberá enviarse, dentro de los tres días h�
 
 Deberá enviarse copia del aviso mencionado en el inciso anterior a la respectiva Inspección del Trabajo, dentro del mismo plazo. Las Inspecciones del Trabajo, tendrán un registro de las comunicaciones de terminación de contrato que se les envíen, el que se mantendrá actualizado con los avisos recibidos en los últimos treinta días hábiles.
 
-Cuando el empleador invoque la causal señalada en el inciso primero del artículo 161, el aviso deberá darse al trabajador, con copia a la Inspección del Trabajo respectiva, a lo menos con treinta días de anticipación. Sin embargo, no se requerirá esta anticipación cuando el empleador pagare al trabajador una indemnización en dinero efectivo sustitutiva del aviso previo, equivalente a la última remuneración mensual devengada. La comunicación al trabajador deberá, además, indicar, precisamente, el monto total a pagar de conformidad con lo dispuesto en el artículo siguiente.
+Cuando el empleador invoque la causal señalada en el inciso primero del artículo 161, el aviso deberá darse al trabajador, con copia a la Inspección del Trabajo respectiva, a lo menos con treinta días de anticipación. Sin embargo, no se requerirá esta anticipación cuando el empleador pagare al trabajador una indemnización en dinero efectivo sustitutiva del aviso previo, equivalente a la última remuneración mensual devengada. La comunicación al trabajador deberá, además, indicar, precisamente, el monto total a pagar de conformidad con lo dispuesto en el artículo siguiente. Igual indicación deberá contener la comunicación de la terminación del contrato celebrado para una obra o faena determinada, cuando corresponda el pago de indemnización por el tiempo servido, en conformidad a lo dispuesto en el artículo 163.
 
 Para proceder al despido de un trabajador por alguna de las causales a que se refieren los incisos precedentes o el artículo anterior, el empleador le deberá informar por escrito el estado de pago de las cotizaciones previsionales devengadas hasta el último día del mes anterior al del despido, adjuntando los comprobantes que lo justifiquen. Si el empleador no hubiere efectuado el integro de dichas cotizaciones previsionales al momento del despido, éste no producirá el efecto de poner término al contrato de trabajo.
 
@@ -2173,6 +2183,8 @@ La Inspección del Trabajo, de oficio o a petición de parte, estará especialme
 Si el contrato hubiere estado vigente un año o más y el empleador le pusiere término en conformidad al artículo 161, deberá pagar al trabajador, la indemnización por años de servicio que las partes hayan convenido individual o colectivamente, siempre que ésta fuere de un monto superior a la establecida en el inciso siguiente.
 
 A falta de esta estipulación, entendiéndose además por tal la que no cumpla con el requisito señalado en el inciso precedente, el empleador deberá pagar al trabajador una indemnización equivalente a treinta días de la última remuneración mensual devengada por cada año de servicio y fracción superior a seis meses, prestados continuamente a dicho empleador. Esta indemnización tendrá un límite máximo de trescientos treinta días de remuneración.
+
+Si el contrato celebrado para una obra o faena determinada hubiere estado vigente por un mes o más, el empleador podrá ponerle término en forma justificada en tanto pague al trabajador, en el momento de su terminación, una indemnización equivalente a dos y medio días de remuneración por cada mes trabajado y fracción superior a quince días, en la forma y modalidad señalada en el artículo 23 transitorio de este Código. Esta indemnización será calculada en conformidad a lo establecido en el artículo 172, y le será aplicable lo dispuesto en el inciso segundo del artículo 13 de la ley N° 19.728. Sólo corresponderá el pago de la prestación antes señalada, si se pusiere término al contrato por la causal contemplada en el número 5 del artículo 159. El ejercicio del derecho establecido en este inciso por parte del trabajador es incompatible con las acciones derivadas de la aplicación del inciso primero del artículo 168, sin perjuicio de las acciones señaladas en el artículo 485 de este Código.
 
 La indemnización a que se refiere este artículo será compatible con la sustitutiva del aviso previo que corresponda al trabajador, según lo establecido en el inciso segundo del artículo 161 y en el inciso cuarto del artículo 162 de este Código.
 
@@ -2284,6 +2296,8 @@ Si tales indemnizaciones no se pagaren al trabajador, éste podrá recurrir al t
 
 b) Si el trabajador estima que la aplicación de esta causal es improcedente, y no ha hecho aceptación de ella del modo previsto en la letra anterior, podrá recurrir al tribunal mencionado en el artículo precedente, en los mismos términos y con el mismo objeto allí indicado. Si el Tribunal rechazare la reclamación del trabajador, éste sólo tendrá derecho a las indemnizaciones señaladas en los artículos 162, inciso cuarto, y 163 incisos primero o segundo, según corresponda, con el reajuste indicado en el artículo 173, sin intereses.
 
+Lo dispuesto en la letra a) de este artículo se aplicará a la indemnización que el empleador está obligado a pagar al trabajador por causa de la terminación del contrato celebrado para una obra o faena determinada, de conformidad a lo establecido en el inciso tercero del artículo 163.
+
 #### Artículo 170
 
 Los trabajadores cuyos contratos terminaren en virtud de lo dispuesto en el inciso segundo del artículo 161, que tengan derecho a la indemnización señalada en los incisos primero o segundo del artículo 163, según corresponda, podrán instar por su pago y por la del aviso previo, si fuese el caso, dentro de los sesenta días hábiles contados desde la fecha de la separación, en el caso de que no se les hubiere efectuado dicho pago en la forma indicada en el párrafo segundo de la letra a) del artículo anterior. A dicho plazo le será aplicable lo dispuesto en el inciso final del artículo 168.
@@ -2304,7 +2318,7 @@ Si el trabajador hubiese invocado la causal de la letra b) o f) del número 1 de
 
 #### Artículo 172
 
-Para los efectos del pago de las indemnizaciones a que se refieren los artículos 163 bis,168, 169, 170 y 171, la última remuneración mensual comprenderá toda cantidad que estuviere percibiendo el trabajador por la prestación de sus servicios al momento de terminar el contrato, incluidas las imposiciones y cotizaciones de previsión o seguridad social de cargo del trabajador y las regalías o especies avaluadas en dinero, con exclusión de la asignación familiar legal, pagos por sobretiempo y beneficios o asignaciones que se otorguen en forma esporádica o por una sola vez al año, tales como gratificaciones y aguinaldos de navidad.
+Para los efectos del pago de las indemnizaciones a que se refieren los artículos 163, 163 bis, 168, 169, 170 y 171, la última remuneración mensual comprenderá toda cantidad que estuviere percibiendo el trabajador por la prestación de sus servicios al momento de terminar el contrato, incluidas las imposiciones y cotizaciones de previsión o seguridad social de cargo del trabajador y las regalías o especies avaluadas en dinero, con exclusión de la asignación familiar legal, pagos por sobretiempo y beneficios o asignaciones que se otorguen en forma esporádica o por una sola vez al año, tales como gratificaciones y aguinaldos de navidad.
 
 Si se tratare de remuneraciones variables, la indemnización se calculará sobre la base del promedio percibido por el trabajador en los últimos tres meses calendario.
 
@@ -2312,7 +2326,7 @@ Con todo, para los efectos de las indemnizaciones establecidas en este título, 
 
 #### Artículo 173
 
-Las indemnizaciones a que se refieren los artículos 168, 169, 170 y 171 se reajustarán conforme a la variación que experimente el Indice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que se puso término al contrato y el que antecede a aquel en que se efectúe el pago. Desde el término del contrato, la indemnización así reajustada devengará también el máximo interés permitido para operaciones reajustables.
+Las indemnizaciones a que se refieren los artículos 163, 168, 169, 170 y 171 se reajustarán conforme a la variación que experimente el Indice de Precios al Consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquel en que se puso término al contrato y el que antecede a aquel en que se efectúe el pago. Desde el término del contrato, la indemnización así reajustada devengará también el máximo interés permitido para operaciones reajustables.
 
 #### Artículo 174
 
@@ -6159,6 +6173,22 @@ La modalidad de fomento a la capacitación de jóvenes consagrada en el artícul
 #### Artículo 22
 
 No obstante lo dispuesto en el artículo 266 del Código del Trabajo, en la forma modificada por la Ley Nº 19.759, los sindicatos afiliados a confederaciones sindicales a la fecha de publicación de la referida ley, podrán mantener su afiliación a ellas.
+
+#### Artículo 23
+
+La norma señalada en el inciso tercero del artículo 163 se aplicará de la siguiente manera:
+
+a) En los contratos celebrados durante los primeros dieciocho meses de vigencia de dicha norma, los trabajadores tendrán derecho al pago de una indemnización equivalente a un día de remuneración por cada mes trabajado y fracción superior a quince días.
+
+b) En los contratos celebrados a partir del primer día del decimonoveno mes de vigencia de dicha norma y por los siguientes doce meses, los trabajadores tendrán derecho al pago de una indemnización equivalente a un día y medio de remuneración por cada mes trabajado y fracción superior a quince días.
+
+c) En los contratos celebrados a partir del primer día del trigésimo primer mes de vigencia de dicha norma y por los siguientes seis meses, los trabajadores tendrán derecho al pago de una indemnización equivalente a dos días de remuneración por cada mes trabajado y fracción superior a quince días.
+
+d) En los contratos celebrados con posterioridad al último día del tramo anterior, los trabajadores tendrán derecho al pago de la indemnización en los mismos términos que se señalan en la norma permanente.
+
+Si el contrato por obra o faena determinada es celebrado durante alguno de los períodos señalados en las letras a), b) o c), y termina durante un período distinto, el trabajador tendrá derecho al pago de la indemnización que corresponde por los meses trabajados en cada uno de dichos períodos.
+
+Con todo, si en los meses de inicio y término de un contrato por obra o faena se produce el cambio de tramo, conforme a los literales del inciso primero, la indemnización corresponderá en dichos meses al tramo vigente el primer día del mes de inicio y primer día del mes de término, respectivamente.
 
 Anótese, tómese razón, regístrese, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Ricardo Solari Saavedra, Ministro del Trabajo y Previsión Social.
 
