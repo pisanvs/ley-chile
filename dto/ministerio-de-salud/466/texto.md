@@ -420,15 +420,33 @@ Las matronas sólo podrán prescribir los medicamentos necesarios para partos no
 
 - Analgésicos no narcóticos.
 
-#### Artículo 38°
+#### Artículo 38
 
-Toda receta deberá cumplir con los siguientes requisitos:
+El expendio de medicamentos, cuya condición de venta es bajo receta simple o receta retenida se realizará contra ésta, sea gráfica o electrónica, debiendo esta última contar con firma electrónica avanzada del facultativo autorizado, conforme lo dispuesto en la ley Nº 19.799.
 
-a) Individualización del profesional que la extiende, señalando su nombre, profesión y domicilio. Estos datos deberán ser impresos o, en su defecto, escritos o reproducidos en forma perfectamente legible;
+Toda receta, gráfica o electrónica, deberá contener la siguiente información:
 
-b) Prescripción, en forma clara y completa. Cuando se trate de fórmulas magistrales los componentes deberán indicarse con su denominación química o genérica y sus dosis en forma perfectamente legible, no permitiéndose claves o abreviaturas, debiendo señalarse el nombre del paciente.
+a) Individualización del profesional que la extiende, señalando su nombre, número de la cédula de identidad, profesión, domicilio y en su caso, el Número del Registro Nacional de Prestadores Individuales de Salud, de la Superintendencia de Salud, indicado después de la siguiente sigla "REG-SIS Nº:". Estos datos deberán ser impresos o timbrados.
 
-c) Firma del profesional y fecha en que se extiende la receta.
+b) Individualización del paciente, señalando su nombre, número cédula de identidad y domicilio.
+
+c) La prescripción, escrita o reproducida, en forma clara, legible y completa, debiendo contener: nombre del producto y su denominación común internacional si fuera distinta, dosis, forma farmacéutica y vía de administración; dosificación o posología, indicando el intervalo de administración y período de tratamiento. En las recetas gráficas, estos contenidos deberán ser consignados en letra imprenta.
+
+Cuando se trate de fórmulas magistrales los componentes deberán indicarse con su denominación común internacional o química no permitiéndose claves o abreviaturas.
+
+d) Cualquier otra indicación, cuando corresponda, que permita la correcta administración y adecuado tratamiento, así como el uso racional del medicamento prescrito.
+
+e) Nombre manuscrito o por timbre, y firma del profesional.
+
+f) Fecha en que se extiende la receta.
+
+Asimismo, una norma técnica aprobada mediante decreto del Ministerio de Salud determinará los formatos obligatorios a los que debe ajustarse cada tipo de receta y establecerá las leyendas y/o símbolos que deberán contener para propender al uso racional de los medicamentos y la seguridad de la medicación.
+
+Las recetas impresas deberán estar foliadas, y previo a su uso, timbradas por las Secretarías Regionales Ministeriales de Salud o validadas mediante sistema electrónico que determine el Ministerio de Salud.
+
+En el caso de las recetas electrónicas, el profesional que prescribe o las farmacias deberán entregar una copia de la misma a solicitud del paciente a fin de que este pueda hacer correcto uso de los productos prescritos.
+
+Tratándose de prescripciones realizadas por un Médico Veterinario, éstas quedan exceptuadas de contener la información exigida en la letra b) del presente artículo, debiendo en su reemplazo indicar el nombre de la persona responsable del animal al cual están destinados los productos farmacéuticos prescritos.
 
 #### Artículo 39°
 
@@ -639,6 +657,88 @@ Sin perjuicio de lo expuesto, tratándose de aquellas farmacias que se encuentre
 Asimismo, un director técnico de un establecimiento podrá acordar con otro, encargado de un establecimiento similar, el traspaso de la obligación de realizar un turno asignado, previa autorización del Instituto.
 
 Las farmacias móviles itinerantes estarán eximidas de la realización de turnos.
+
+### Párrafo VI
+
+De la Información de precios
+
+#### Artículo 45
+
+A.- Las Farmacias deberán garantizar en materia de expendio de productos farmacéuticos, la transparencia, el acceso a la información y la veracidad de la misma. Para estos efectos, informarán los precios de los productos y las demás características relevantes que más adelante se regulan.
+
+#### Artículo 45
+
+B.- La información de los precios de los productos farmacéuticos que se encuentren disponibles para su expendio, deberá ser suministrada al público por medios que aseguren su entrega clara, oportuna, transparente, veraz y susceptible de ser comprobada. Queda prohibida cualquier expresión o forma de presentación de la información que induzca a error o engaño al adquirente, o que favorezca el uso de un producto por sobre otro; por ejemplo, distorsionando o impidiendo la comparación entre dos o más alternativas.
+
+La información de precios de los demás productos que se expendan en una Farmacia, se regirán por las normas generales que regulan esta materia.
+
+#### Artículo 45
+
+C.- Las Farmacias deberán contar con una lista de precios de productos farmacéuticos permanentemente actualizada y accesible al público de forma directa, sin restricciones, ni intervención de terceros, salvo que ésta sea requerida por el consultante.
+
+La lista de precios de productos farmacéuticos disponibles para el expendio, deberá contener la siguiente información:
+
+a) Nombre del principio activo bajo su denominación común internacional.
+
+b) Dosis por forma farmacéutica.
+
+c) Denominación de fantasía si la tuviera.
+
+d) Titular del registro del producto farmacéutico.
+
+e) Presentación, incluyendo el contenido, expresado en número de dosis o unidades para cada una de sus presentaciones disponibles.
+
+f) El precio del producto dispuesto a la venta.
+
+g) El precio por unidad de medida.
+
+h) Si el producto es bioequivalente.
+
+Asimismo, la lista deberá ordenarse agrupando los productos que contengan un mismo principio activo y dosis por forma farmacéutica y dentro de éstos, por orden alfabético.
+
+Los medicamentos de combinación o compuestos por una asociación de dos o tres principios activos deberán listarse en orden alfabético de acuerdo a la fórmula descrita en sus rótulos.
+
+En el caso de medicamentos cuya composición incorpora más de tres principios activos, la lista de precios no deberá indicar su composición, sino que agruparlos de acuerdo a su categoría terapéutica.
+
+Se entenderá como precio por unidad de medida, el precio del producto por dosis posológica. En el caso de formas farmacéuticas liquidas o similares, el precio por unidad de medida se indicará por cada cien mililitros.
+
+#### Artículo 45
+
+D.- La obligación de informar los precios podr� cumplirse a través de los siguientes medios:
+
+a) Lista impresa, o
+
+b) Dispositivos electrónicos que permitan la consulta directa del adquirente, sin intermediarios ni restricciones, mostrando la lista de precios y/o permitiendo consultas sobre la misma.
+
+Los dispositivos electrónicos deberán cumplir con las exigencias establecidas en el artículo 45 C y permitir la búsqueda por el nombre del producto o principio activo mostrando todos los resultados que contengan el mismo principio activo y dosis por forma farmacéutica, en el orden y forma establecidos en este Reglamento.
+
+Además, la lista de precios podrá publicarse en el sitio web del establecimiento, si lo hubiere.
+
+#### Artículo 45
+
+E.- Tratándose de medicamentos de venta directa, ubicados en estanterías u otros dispositivos similares de acceso directo al público, los establecimientos deberán informar además de su precio, el valor por unidad de medida, ya sea en el mismo producto o junto a él.
+
+#### Artículo 45
+
+F.- Todo medicamento disponible para su expendio deberá indicar el precio en su envase, el cual deberá ser susceptible de comprobación en las correspondientes listas de precios.
+
+La indicación del precio en los envases de los medicamentos deberá realizarse por impresión, escrituración o etiquetado. La actividad de impresión o etiquetado podrá realizarse en la misma farmacia o en otro establecimiento autorizado para el acondicionamiento, almacenamiento, distribución o expendio de productos farmacéuticos, no requiriendo de autorización especial para ello.
+
+#### Artículo 45
+
+G.- El rotulado de los precios constará en los envases, de acuerdo a las siguientes reglas:
+
+a) El precio deberá ser claro, legible y escrito con sustancias o medios de impresión indelebles.
+
+b) Los caracteres deberán ser del tipo Arial u otros tipos rectilíneos semejantes, de un tamaño mínimo de cuerpo "10". Sin perjuicio de lo anterior, en las farmacias y otros establecimientos de expendio de medicamentos al público, podrá escribirse manualmente el precio de los productos que se ofrezcan, ya sea sobre etiquetas adhesivas o directamente sobre sus envases, para lo cual la escrituración deberá realizarse con trazos rectos y simples, empleando números arábigos.
+
+c) La indicación del precio no podrá cubrir u obstaculizar la información que obligatoriamente deben contener los envases de los medicamentos, de acuerdo a su respectivo registro sanitario y a la reglamentación correspondiente.
+
+#### Artículo 45
+
+H.- No les será aplicable a los preparados magistrales y a los productos que requieran para su dispensación un proceso de fraccionamiento previo, la obligación relativa al rotulado de precios, sin perjuicio de la obligación de entrega oportuna de tal información, conforme al presente Reglamento.
+
+Asimismo, a los productos que requieran para su dispensación un proceso de fraccionamiento previo, tampoco les regirá lo dispuesto en la letra f), del artículo 45 C.
 
 ## Título III
 
@@ -952,9 +1052,7 @@ A.- Los establecimientos de asistencia médica abierta y cerrada que incorporen 
 
 ## Título VI
 
-De los Depósitos de Productos Farmacéuticos,
-
-Humanos Veterinarios y Dentales
+De los Depósitos de Productos Farmacéuticos Humanos, Veterinarios, Dentales y Cámaras de Vacunas e Inmunoglobulinas
 
 #### Artículo 80°
 
@@ -962,13 +1060,17 @@ Depósito de Productos Farmacéuticos de Uso Humano es la bodega destinada al al
 
 Deberá ser dirigido técnicamente por un químico farmacéutico, durante el horario indispensable y compatible con la complejidad del establecimiento.
 
+#### Artículo 80 bis
+
+Los depósitos de vacunas e inmunoglobulinas deberán ser dirigidos técnicamente por un químico farmacéutico o enfermera(o), durante el horario indispensable y compatible con la complejidad del establecimiento, y serán los responsables de las actividades que en ellos se realicen
+
 #### Artículo 81°
 
 Para obtener la autorización de instalación, el interesado deberá presentar al Secretaría Regional Ministerial de Salud los siguientes documentos:
 
 a) Solicitud en que deberá constar la individualización del propietario, o del representante legal según el caso, nombre del Director Técnico, ubicación del establecimiento, y
 
-b) Declaración del químico farmacéutico que asumirá la Dirección Técnica, acreditando su calidad de tal y señalando su cédula de identidad y domicilio particular.
+b) Declaración del químico farmacéutico que asumirá la Dirección Técnica, acreditando su calidad de tal y señalando su cédula de identidad y domicilio particular. Tratándose de depósitos de vacunas e inmunoglobulinas, dicha declaración será efectuada por el químico farmacéutico o enfermera(o) que asuma su Dirección Técnica
 
 #### Artículo 82°
 
@@ -1046,81 +1148,17 @@ Las farmacias, con exclusión de aquellas aludidas en el artículo 11, deberán 
 
 #### Artículo 94
 
-El presente Título contiene la nómina de productos farmacéuticos de "Venta Bajo Receta Médica" que pueden venderse en los Almacenes Farmacéuticos. La nómina se presenta con el nombre genérico, forma farmacéutica y dosificación de cada producto. No obstante, podrán mantenerse además para su expendio, los productos farmacéuticos similares con nombre registrado que contengan el mismo principio activo, igual dosis y forma farmacéutica.
+El presente Título contiene la nómina de productos farmacéuticos de "Venta Bajo Receta Médica" que pueden venderse en los Almacenes Farmacéuticos.
 
-Los productos farmacéuticos autorizados para la venta en estos Establecimientos en las formas farmacéuticas y dosis que se señalan, pudiendo venderse además todos aquellos productos que se autoricen y registren en el futuro, con condición de venta "Bajo Receta Médica" en Almacenes Farmacéuticos.
+La nómina se presenta con su nombre genérico, correspondiente a la denominación común internacional; su forma farmacéutica y la dosis contenida en la misma.
 
-- Ampicilina: cápsulas o comprimidos de 250 y 500 mg.; polvo para suspensión oral de 125, 250 y 500 mg.; polvo para solución inyectable de 500 y 1000 mg.
+Sin perjuicio de la obligación establecida en el artículo 62 de este reglamento, en el Almacén Farmacéutico podrán expenderse los medicamentos que contengan el mismo principio activo y dosis por forma farmacéutica que los indicados en la nómina, independiente de su denominación o nombre de fantasía.
 
-- Atenolol: comprimidos 50 mg.
+Los almacenes farmacéuticos pueden expender los productos farmacéuticos de "Venta Bajo Receta Médica" y mientras subsista esta condición en el respectivo registro sanitario, que se contienen en la siguiente nómina:
 
-- Bencilpenicilina polvo para solución inyectable 1.000.000 y 2.000.000 U.I.
+..
 
-- Benzatina Bencilpenicilina polvo para suspensión inyectable 600.000, 1.200.000 y 2.400.000 U.I.
-
-- Cloranfenicol: Solución oftálmica 0,5%; Ungüento oftálmico 1%.
-
-- Clorfenamina: comprimidos 4 mg.; solución inyectable 10 mg/mL.
-
-- Clorpropamida comprimidos 250 mg.
-
-- Cloxacilina: Cápsulas o comprimidos de 250 mg; y 500 mg; polvo para solución inyectable 500 mg
-
-- Cotrimoxazol: comprimidos y forte comprimidos; suspensión oral y forte suspensión oral.
-
-- Digoxina: comprimidos 0,25 mg.
-
-- Enalapril: comprimidos 5 y 20 mg.
-
-- Etinilestradiol: comprimidos 0,02 mg.
-
-- Fenitoína: comprimidos o cápsulas 100 mg.
-
-- Fenoximetil penicilina comprimidos 400.000 U.I.
-
-- Furosemida: comprimidos 40 mg.
-
-- Gluconato de potasio: el elíxir 31,2%.
-
-- Hidroclorotiazida: comprimidos 50 mg.
-
-- Imipramina: grageas 25 mg.
-
-- Insulina humana: Cristalina solución inyectable 100 Ul/mL. e Isofana (NPH) solución inyectable 100 Ul/mL.
-
-- Levonorgestrel 0,15 mg con Etinilestradiol 0,03mg comprimidos.
-
-- Lidocaína: gel oral o crema tópica 2% y 4%; solución spray tópico 10%.
-
-- Loperamida: comprimidos 2 mg. y solución oral para gotas 2 mg/mL.
-
-- Metamizol: solución inyectable 500 mg/mL.
-
-- Metidolpa: comprimidos 250 mg.
-
-- Metronidazol: comprimidos orales 250 y 500 mg.; cápsulas blandas vaginales 500 mg.
-
-- Nistatina: comprimidos orales 500.000 U.I.; comprimidos vaginales 100.000 U.I.; pomada 100.000 U.L/g.
-
-- Nitroglicerina: comprimidos 0,6 mg.
-
-- Pamoato de pirvinio: suspensión oral 50 mg/5mL.
-
-- Papaverina: solución inyectable 40 mg/mL.
-
-- Prednisona: comprimidos 5 mg.
-
-- Primidona: comprimidos 250 mg.
-
-- Progesterona: solución acuosa inyectable 12,5 mg/mL. y 25 mg/mL.
-
-- Propranolol: comprimidos 10 y 40 mg.
-
-- Salbutamol: Aerosol para inhalación 100 mcg/dosis; jarabe 2mg/5mL.; comprimidos 2 y 4 mg.
-
-- Tietilperazina: grageas 6,5 mg.; Supositorio 6,5 mg.
-
-- Tolbutamida: comprimidos 500 mg.
+.
 
 ## Título XI
 
