@@ -14,9 +14,11 @@ Decreto:
 
 .
 
-Superficie total aproximada inmuebles a expropiar: 3.289,92 metros cuadrados.
+Superficie total aproximada inmuebles a expropiar: 3.719,04 m² (tres mil setecientos diecinueve coma cero cuatro metros cuadrados).
 
 2º.- El presente decreto se publicará en el Diario Oficial y en un periódico de la provincia de Antofagasta, si lo hubiere.
+
+> **Nota.** El numeral 1 del Decreto 71 Exento, Vivienda, publicado el 30.11.2018, complementa la presente norma en el sentido de incorporar inmuebles cuyo datos se encuentran especificados en la citada norma.
 
 Anótese, notifíquese y publíquese.- Por orden de la Presidenta de la República, Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
