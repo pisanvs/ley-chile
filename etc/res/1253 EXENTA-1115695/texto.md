@@ -114,6 +114,12 @@ Nota.
 
 *De los recursos asignados a la Región del Biobío en cuadro precedente, se deberá destinar en las selecciones de este llamado como mínimo un 20%, para atender a la provincia de Arauco.
 
+CUADRO DE RECURSOS PARA ÚLTIMA SELECCIÓN(*)
+
+.
+
+(*) Estos montos pueden variar producto de ajustes de recursos para atender otros requerimientos ya sean regionales o nacionales.
+
 5. El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a este llamado, según la tabla precedente, incluidos los Servicios de Asistencia Técnica que correspondan.
 
 Se podrán disminuir los recursos del presente llamado o aumentarlos con cargo a los recursos asignados para el Programa de Protección del Patrimonio Familiar del año 2018, por resolución de la Ministra de Vivienda y Urbanismo, como también determinar la redistribución de recursos por títulos y/o por región, de acuerdo a la necesidad de cada región.
@@ -285,6 +291,8 @@ En las postulaciones colectivas se aceptará que el 60% de los integrantes cumpl
 24. Los proyectos se deberán ingresar en las Oficinas de Partes del Serviu correspondiente a la Región en la que se postula, en sus Delegaciones Provinciales, o en otro lugar que el Serviu respectivo disponga, el que deberá ser debidamente informado por correo electrónico a los PSAT.
 
 25. Las nóminas de los postulantes seleccionados y sus respectivos proyectos se aprobarán mediante resoluciones exentas de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial. La difusión de dichas nóminas se realizará por el Serviu respectivo en los términos previstos en el DS N° 255 (V. y U.), de 2006.
+
+> **Nota.** El numeral 1° de la Resolución 8413 Exenta, Vivienda, publicado el 07.11.2018, modifica la presente norma en el sentido de prorrogar la fecha de cierre del 2° proceso de selección del llamado Nacional del Programa de Protección del Patrimonio Familiar 2018, hasta el día 9 de noviembre de 2018.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
