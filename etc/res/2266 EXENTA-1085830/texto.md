@@ -88,13 +88,11 @@ El Demandante co-ejecutor deberá ser una empresa que actúe en el mismo ámbito
 
 5.- COFINANCIAMIENTO
 
-El cofinanciamiento de Corfo a un PDP no podrá exceder el 50% del costo total en cada Etapa.
+Los porcentajes y montos máximos de cofinanciamiento por cada Etapa, son los siguientes:
 
-Los montos máximos por cada Etapa son:
+. El cofinanciamiento total de Corfo para la Etapa de Diagnóstico no podrá exceder el 50% de costo total del proyecto, con un tope de $10.000.000.- (diez millones de pesos).
 
-. El cofinanciamiento total de Corfo para la Etapa de Diagnóstico no podrá exceder a $10.000.000.- (diez millones de pesos).
-
-. El cofinanciamiento anual de Corfo para la Etapa de Desarrollo no podrá exceder a $60.000.000.- (sesenta millones de pesos).
+. El cofinanciamiento anual de Corfo para la Etapa de Desarrollo no podrá exceder el 40% del costo total del proyecto, con un tope de $50.000.000.- (cincuenta millones de pesos). Para aquellos proyectos que incorporen componentes de sustentabilidad, en los términos establecidos en el "Cuestionario de Evaluación de Sustentabilidad", contenido en el "Formulario de Postulación", el cofinanciamiento anual de Corfo para la Etapa de Desarrollo no podrá exceder el 50% del costo total del proyecto, con un tope de $60.000.000.- (sesenta millones de pesos).
 
 Con estos recursos podrá cofinanciarse todas aquellas actividades necesarias para el desarrollo de cada Etapa del Programa, tales como el diagnóstico de las empresas Proveedoras y Demandante, la elaboración del Plan de Trabajo y su implementación a través de la contratación de consultorías, contratación del Coordinador, asistencia técnica, capacitación y acciones de promoción y difusión, según corresponda.
 
