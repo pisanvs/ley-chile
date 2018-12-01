@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1625 de 15 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 55 para la obra: AUTOPISTA SANTIAGO - SAN ANTONIO SECTOR: TERCERAS PISTAS SANTIAGO - TALAGANTE TRAMO: KM 19.300,00 A KM 39.100,00, Región Metropolitana de Santiago, que figura a nombre de AT AGRICOLA SPA, rol de avalúo 507-54 de la comuna de Talagante, superficie 11.175 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 457 de 17 de julio de 2018, integrada por Patricio Antonio Rivera Castro, Paola Andrea Domingo Porcella y Patricio Desiderio Aranda Rivillo, fijó con fecha 3 de septiembre de 2018, el valor provisional de las indemnizaciones en la cantidad de $202.566.162 para el lote N° 55. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
