@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.792, de fecha 23/11/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Andes entre Avenida Alemania y Valladolid, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 01-A, resto del Lote 279 que se ubica al final de la Avenida Alemania de la ciudad de Temuco, comuna de Temuco, Rol de avalúo 1428-13. La superficie a expropiar aproximada es de 400,00 metros cuadrados, de aparente dominio de Inmobiliaria Jaen S.A. Comisión de Peritos integrada señores Marcela Melo Rodríguez, Arquitecto, doña Constanza Victoria Mihoevic González, Ingeniero Constructor y don Alberto Arenas Pizarro, Arquitecto, fijó monto de Indemnización Provisional en $138.989.600 según Informe Nº 01-A, de fecha 5 de noviembre de 2018, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
