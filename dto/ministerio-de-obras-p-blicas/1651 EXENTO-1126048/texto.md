@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1651 de 20 de noviembre de 2018, se tuvo por desistida la expropiación del lote de terreno N° 7, ordenada por Decreto MOP N° 1280 de 12 de octubre de 2017, para la obra "Camino Ruta 5 Norte. Tramo Santiago - Los Vilos PID Obras de Reemplazo Plaza de Peaje Lampa", Región Metropolitana de Santiago, comuna de Colina. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
