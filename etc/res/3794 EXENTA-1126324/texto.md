@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3.794, de fecha 23/11/2018, conforme al artículo 51 ley 16.391, D. 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Andes entre Avenida Alemania y Valladolid, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 03-0, dos propiedades ubicadas al final de la Avenida Alemania y dentro de la misma Población Llaima, comuna de Temuco, Rol de avalúo 1428-4. La superficie a expropiar aproximada es de 456,31 metros cuadrados, de aparente dominio de Unión de Iglesias Evangelistas Bautistas de Chile. Comisión de Peritos integrada señores Marcela Melo Rodríguez, Arquitecto, doña Constanza Victoria Mihoevic González, Ingeniero Constructor y don Alberto Arenas Pizarro, Arquitecto, fijó monto de Indemnización Provisional en $158.562.698.-, según Informe Nº 03-0, de fecha 5 de noviembre de 2018, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
