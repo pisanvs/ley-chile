@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 3.537, del 06/11/2018, Serviu Región del Biobío ordenó desistimiento de expropiación total del inmueble ubicado en estero El Manco 3139 B, DP 48, piso 4, sector Mártires del Carbón, Rol de Avalúo Nº 4065-64, comuna de Coronel, de aparente dominio de Serviu (Óscar Miguel Sepúlveda Varela), en una superficie edificada, conforme plano S8R 36541, de 44,0625 m2, corresponde a 42,63 m2 de superficie útil y 1,4325 m2 de superficie de uso común; la superficie de terreno expropiado, sobre el total de los derechos cuotativos comunes, corresponden a 39,1889063 m2 y equivalen al 1,5625% del total de la propiedad común de 2508,09 m2 (lote 5), cuyos deslindes particulares se indican en el plano precitado anteriormente, para la ejecución del Proyecto de Ampliación y Alteración de Departamentos y Blocks de Mártires del Carbón.-
+
+Director (S) Serviu Región del Biobío.
