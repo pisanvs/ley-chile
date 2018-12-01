@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.538, de fecha 25 de octubre de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Pj. Simón Bolívar 58, Aromos 2, Rol Nº 316-3 comuna Linares, superficie 43,02 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Salazar Alfaro Armandina. Comisión integrada por peritos Patricio Ulises Durán Marcos, arquitecto; Rodrigo Antonio Silva Lazo, constructor civil y Pedro Pablo Cruz Weston, arquitecto; según informe de tasación evacuado con fecha 4 de septiembre de 2017, fijó monto provisional indemnización en $7.561.400.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186 de 1978, fue reajustado a la suma de $7.803.365.- pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
