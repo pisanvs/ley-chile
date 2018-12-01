@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.604, de fecha 25 de octubre de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Fabián Egeo 995, Frontera del Inca, Rol N° 920-23, comuna Linares, superficie 32,03 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Patino Arcos Tomás Javier. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo, y Claudia Poblete Ramírez, arquitecto, según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $6.852.075.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2.186 de 1978 fue reajustado a la suma de $7.071.340.-, pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
