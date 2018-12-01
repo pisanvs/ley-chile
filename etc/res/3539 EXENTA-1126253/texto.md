@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.539, de fecha 25 de octubre de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Pdte. Ibáñez ST 57, Rol N° 316-2, comuna Linares, superficie 35,80 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Llancacura Navarrete Carlos Seba. Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil; y Pedro Pablo Cruz Weston, Arquitecto; según informe de tasación evacuado con fecha 4 de septiembre de 2017, fijó monto provisional indemnización en $5.363.000.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2.186, de 1978, fue reajustado a la suma de $5.534.620.- pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
