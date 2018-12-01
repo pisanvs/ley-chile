@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.575, de fecha 25 de octubre de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51, ley 16.391, de inmueble ubicado en Av. Pdte. Ibáñez LT 6, Rol N° 1001-33, comuna Linares, superficie 45,66 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Fuentes Pincheira Héctor. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $9.201.254.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2.186, de 1978, fue reajustado a la suma $9.495.690.- pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
