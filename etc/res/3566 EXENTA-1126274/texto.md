@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.566, de fecha 25 de octubre de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 Ley 16.391, de inmueble ubicado en calle Pdte. Ibáñez 0804, Villa Arauco, Rol Nº 1014-6, comuna Linares, superficie 22,50 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Retamal Figueroa Milagro de las, Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $3.896.063.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186 de 1978 fue reajustado a la suma de $4.020.740.- pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
