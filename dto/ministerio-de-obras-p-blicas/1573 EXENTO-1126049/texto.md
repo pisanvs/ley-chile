@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº1573, de 13 de noviembre de 2016, y en base a la facultad otorgada por los artículos 3° letra a), 14 letra e) y 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. N°206, de 1960, se expropiaron los lotes de terreno N°s. 100 y 101, para la obra: "Mejoramiento Camino 64D305 Altovalsol - Las Rojas - Pelicana", que figuran a nombre de INVERSIONES E INMOBILIARIA AMAND y AGRICOLA SATURNO, roles de avalúo 1035-15 y 1035-17, Comuna de LA SERENA, Región de Coquimbo, superficies 500 m2 y 619 m2. respectivamente. La Comisión de Peritos integrada por PABLO FLORES SALINAS, LUIS MUÑOZ CARVAJAL y MAURICIO ANDUEZA PEREZ, mediante informe de tasación de 28 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $1.900.000.-, para el lote N°100 y $2.599.800.-, para el lote N°101. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
