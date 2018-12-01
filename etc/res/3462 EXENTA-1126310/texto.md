@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 3.462 de 30 de octubre de 2018, Serviu Región del Biobío ordenó expropiación Total de inmueble ubicado en calle Estero El Manco 3038 A Dp 07, Rol de Avalúo 4063-7 comuna de Coronel, de aparente dominio de Cruz Sánchez Marta Grecia. La superficie de edificación afecta a expropiación, conforme a plano N° S8R-37274 es de 43,189 m2, corresponde a 42,42 m2 de superficie útil y 0,769 m2 de superficie de uso común; la superficie de terreno expropiado, sobre el total de los derechos cuotativos comunes, corresponden a 37,34375 m2 y equivalen al 1,5625% del total de la propiedad común de 2.390 m2 (lote 5), para la ejecución de la obra Ampliación y Alteración de departamentos de Mártires del Carbón, comuna de Coronel, conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por el ingeniero constructor Luis Gonzalo Valenzuela Arroyo, el arquitecto Juan Carlos Jesús Riveros Bassaletti y la arquitecto Isadora Esperanza Díaz Quezada, según informe de fecha 18 de junio de 2018 que fijó monto provisional, más reajuste Art. 5° D.L. 2186, en $7.112.121.- pagadera de contado.
+
+Director Serviu Región del Biobío.
