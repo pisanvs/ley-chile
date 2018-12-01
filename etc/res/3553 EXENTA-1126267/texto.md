@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.553 de fecha 25 de octubre de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 Ley 16.391, de inmueble ubicado en R Olate 1006 Pilocoyan, Rol Nº 211-9 Comuna Linares, superficie 82,25 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Cofré Gajardo Sergio Hugo. Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil y Pedro Pablo Cruz Weston, Arquitecto; según informe de tasación evacuado con fecha 04 de septiembre de 2017, fijó monto provisional indemnización en $13.908.000.-, monto que conforme a lo dispuesto en el artículo 5° del DL. 2186 de 1978 fue reajustado a la suma de $14.353.060.- pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
