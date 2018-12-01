@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.594 de fecha 25 de octubre de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Abate Molina 1006, Rol Nº 297-20 comuna Linares, superficie 111,08 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Lara Vásquez María Cecilia. Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil y Pedro Pablo Cruz Weston, Arquitecto; según informe de tasación evacuado con fecha 4 de septiembre de 2017, fijó monto provisional indemnización en $50.313.300.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186 de 1978 fue reajustado a la suma de $51.923.330.- pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
