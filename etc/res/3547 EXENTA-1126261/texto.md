@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.547, de fecha 25 de octubre de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Argentina 1 Aromos 2, Rol Nº 315-1, comuna Linares, superficie 22,64 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Álvarez Valenzuela Carlos Albert. Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil; y Pedro Pablo Cruz Weston, Arquitecto; según informe de tasación evacuado con fecha 4 de septiembre de 2017, fijó monto provisional indemnización en $7.001.800.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186, de 1978, fue reajustado a la suma de $7.225.860.- pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
