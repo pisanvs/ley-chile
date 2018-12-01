@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1501, de 09 de noviembre de 2018, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.14, 15 y 16, para la obra: MEJORAMIENTO RUTA D-605, SECTOR PUNITAQUI - MANQUEHUA, que figuran a nombre de COMUNIDAD PUNITAQUI, rol de avalúo 52-1,Comuna de PUNITAQUI, REGION DE COQUIMBO, superficies 2.837, 1.667 y 191 m2. respectivamente. La Comisión de Peritos integrada por LUIS FELIPE MUÑOZ CARVAJAL, VIVIANA DE LOS ANGELES FRIAS GONZÁLEZ y MAURICIO ANDRES ANDUEZA PEREZ, mediante informe de tasación de 21 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $567.400, para el lote N°14, $333.400, para el lote N°15 y $38.200, para el lote N°16. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
