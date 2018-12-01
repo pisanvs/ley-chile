@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.554 de fecha 25 de octubre de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 Ley 16.391, de inmueble ubicado en Av Pdte Ibáñez 071, Rol N° 296-28 Comuna Linares, superficie 119,42 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Fernández Aravena Mónica. Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil y Pedro Pablo Cruz Weston, Arquitecto; según informe de tasación evacuado con fecha 04 de septiembre de 2017, fijó monto provisional indemnización en $21.700.850.-, monto que conforme a lo dispuesto en el artículo 5° del DL. 2186 de 1978 fue reajustado a la suma de $22.395.280.- pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
