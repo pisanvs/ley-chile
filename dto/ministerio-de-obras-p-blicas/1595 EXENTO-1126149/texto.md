@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 1595, de 13 de noviembre de 2018, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e), y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP N°206, de 1960, se expropió el lote de terreno N° 35, para la obra "Mejoramiento Rutas S-464 y S-488: Almagro - Barros Arana", que figura a nombre de TALADRIZ CANSECO JAIME ANDRES, rol de avalúo 620-27, Comuna de Nueva Imperial, Región de La Araucanía, superficie 1.843 m2. La Comisión de Peritos integrada por Evaldo Roberto Contreras Roa, Pablo Alejandro Sepulveda Gomez y Yaschala Maribel Yáñez Riffo, mediante informe de tasación de 09 de julio de 2015, complementado por acta de fecha 5 de septiembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $2.144.200.- para el lote N° 35. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
