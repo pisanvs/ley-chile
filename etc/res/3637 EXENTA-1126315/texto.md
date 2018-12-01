@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 3.637, del 14/11/2018, Serviu Región del Biobío ordenó desistimiento de expropiación Total del inmueble ubicado en Laguna Quiñenco 2699 B, DP 7, del piso 1, Rol de Avalúo 4064-39, de la comuna de Coronel, de aparente dominio de Varela González Ingrid Rebeca, con una superficie de construcción afecta a expropiación total, conforme a plano Nº S8R 37258 de marzo de 2018 de 43,5 m2, corresponde a 42,63 m2 de superficie útil y 0,87 m2 de superficie de uso común; la superficie de terreno expropiado, sobre el total de los derechos cuotativos comunes, corresponden a 35,328125 m2 y equivalen al 1,5625% sobre el total de la propiedad común de 2261 m2 (lote 4), cuyos deslindes particulares se indican en el plano precitado anteriormente, para la ejecución del Proyecto de Ampliación y Alteración de Departamentos y Blocks de Mártires del Carbón.-
+
+Director (S) Serviu Región del Biobío.
