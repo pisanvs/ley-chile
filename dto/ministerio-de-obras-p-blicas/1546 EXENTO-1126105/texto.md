@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1546 de 9 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1-9 para la obra: CONCESION RUTA 160, TRAMO TRES PINOS - ACCESO NORTE A CORONEL. TRAMO A, SECTOR II: ACCESO NORTE A LOTA - RAMADILLAS. SUBTRAMO: KM. 33.800,00 - KM. 43.800,00, Región del Biobío, que figura a nombre de JARA VALENCIA ALICIA IRENE, rol de avalúo 1270-2 de la comuna de Lota, superficie 58 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 470 de 24 de julio de 2018, integrada por Pamela Andrea Campos López, Cristián Andrés Cáceres Vargas y Dory Gisela Donoso Salgado, fijó con fecha 23 de agosto de 2018, el valor provisional de las indemnizaciones en la cantidad de $36.519.220 para el lote N° 1-9. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
