@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 3.610 de 13 de noviembre de 2018, el Serviu Región de Los Lagos ordenó expropiación lote terreno Nº 3 para la ejecución Proyecto "Mejoramiento Interconexión Alerce-Puerto Montt, Senda Central-Avda. Austral", comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Inmobiliaria Lircay S.A., rol de avalúo según SII Nº 2190-641, comuna de Puerto Montt, superficie 11.518,43 metros cuadrados. La comisión de peritos integrada por los Srs. Nelson Turra T., Nelson Igor F. y Juan Barrientos B., designados por Resolución Exenta Nº 3.100 de 24 de septiembre de 2018, fijó con fecha 19 de octubre de 2018 el valor provisional de la indemnización en la suma de $92.147.440. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del Decreto Ley Nº 2186.
+
+Directora (S) Serviu Región de Los Lagos.
