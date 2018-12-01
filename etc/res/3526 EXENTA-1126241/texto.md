@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.526, de fecha 25 de octubre de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51, ley 16.391, de inmueble ubicado en Avda. Pdte. Ibáñez 0782, Villa Arauco, Rol Nº 1015-3, comuna Linares, superficie 21,36 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Olivero Romero Rosa Celia, Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $3.968.215, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186, de 1978, fue reajustado a la suma de $4.095.200.- pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
