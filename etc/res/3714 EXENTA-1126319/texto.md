@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.714, de 21 de noviembre de 2018, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Estero El Manco 3038 A, DP 41, piso 4, Rol de avalúo Nº 4063-25, comuna de Coronel, de aparente dominio de Serviu (Nancy Elvira Belmar Villalobos), en 37,34375 m2 de superficie de terreno común y 43,736 de m2 de superficie edificada, que corresponde a 42,42 m2 de superficie útil y 1,316 m2 de superficie de uso común, dentro de linderos señalados plano de expropiación S8R-37.265, para la ejecución del Proyecto de Ampliación y Alteración de Departamentos de Mártires del Carbón, comuna de Coronel, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Carolina Contreras Tapia, arquitecto Ricardo Echeverría Hohmann y arquitecto Cecilia Carrasco Verdugo, según informe de fecha 6.06.2018, fijó monto provisional, en la suma de $10.172.764.-, más el reajuste del artículo 5º del DL 2.186, de 1978, que dan la cifra de $10.315.183.-
+
+Director (S) Serviu Región del Biobío.
