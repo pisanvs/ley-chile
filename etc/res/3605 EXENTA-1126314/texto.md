@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 3.605, de 12 de noviembre de 2018, Serviu Región del Biobío ordenó expropiación total de inmueble ubicado en calle Estero Lagunillas 2650 A DP 21 del piso 2, Rol de Avalúo 4067-5, comuna de Coronel, de aparente dominio de Guzmán Cartes Yasna Mirlene. La superficie de edificación afecta a expropiación, conforme a plano Nº S8R-37280-2 es de 43,736 m2, corresponde a 42,42 m2 de superficie útil y 1,316 m2 de superficie de uso común; la superficie de terreno expropiado, sobre el total de los derechos cuotativos comunes, corresponden a 36,7310417 m2 y equivalen al 2,0833% del total de la propiedad común de 1763,09 m2 (lote 3), para la ejecución de la obra Ampliación y Alteración de departamentos de Mártires del Carbón, comuna de Coronel, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por la constructor civil María Soledad Silva Hernández, la Claudia Eugenia Marzullo García y el ingeniero civil Orlando Javier Paredes Vásquez, según informe de fecha 24 de mayo de 2018 que fijó monto provisional, más reajuste art. 5º DL 2.186, en $9.732.653.- pagadera de contado.-
+
+Director Serviu Región del Biobío.
