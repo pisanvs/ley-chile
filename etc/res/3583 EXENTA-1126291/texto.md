@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.583 de fecha 25 de octubre de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Av. Pdte. Ibáñez LT 2, Rol N° 1001-23 Comuna Linares, superficie 130,39 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Inmobiliaria Longavi Limitada, Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $16.434.936.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2186 de 1978 fue reajustado a la suma de $16.960.850.- pagados al contado.
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
