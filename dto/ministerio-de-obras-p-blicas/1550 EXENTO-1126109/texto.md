@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1550 de 9 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 38 para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVI. SECTOR: SECTOR 1 (RUTA F-20). SUBSECTOR: FIN CUESTA - FIN CONCESIÓN ACTUAL. KM 18.900,00 AL KM 25.840,00, Región de Valparaíso, que figura a nombre de VALENZUELA MARIA Y OTROS, rol de avalúo 192-30, comuna de Puchuncaví, superficie 216 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 471 de 24 de julio de 2018, integrada por Paulina Lorena Jadue Zaror, Valeria Francisca Madariaga Tordecilla y Cristián Andrés Cáceres Vargas, fijó con fecha 11 de septiembre de 2018, el valor provisional de las indemnizaciones en la cantidad de $6.585.000 para el lote N° 38. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
