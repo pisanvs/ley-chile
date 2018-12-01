@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3582 de fecha 25 de octubre de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Av. Pdte. Ibáñez LT 3, Rol N° 1001-25 Comuna Linares, superficie 51,02 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Parada Valenzuela Germán Antonio, Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $4.089.300.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2186 de 1978 fue reajustado a la suma de $4.220.160.- pagados al contado.
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
