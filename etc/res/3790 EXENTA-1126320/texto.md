@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 3.790 de fecha 23/11/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Calle Braulio Arenas entre Pedro de Valdivia y Fundo el Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 05-0, consistente en Inmueble consistente en el Lote 1-B, de aproximadamente 0,614 hectáreas, resultante de la subdivisión del Lote 1 de 13,79 hectáreas, y éste de un inmueble mayor ubicado en el lugar Puente Chispa, comuna de Temuco. Comuna de Temuco, Rol de avalúo 3205-207. La superficie a expropiar aproximada es de 488,54 metros cuadrados, de aparente dominio de Inmobiliaria e Inversiones el Carmen Cajón S.A. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $43.751.407, según Informe Nº 05-0 de fecha 18/11/2018, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
