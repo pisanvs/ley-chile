@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1.547 de 9 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 31-1 para la obra: CONCESION VIAL PUENTE INDUSTRIAL. SECTOR D: ZONA DE AMORTIGUACIÓN, Región del Biobío, que figura a nombre de SOC INV INMOB Y CONST LA DOMI y otr, rol de avalúo 15070-8 de la comuna de San Pedro de la Paz, superficie 459 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 468 de 24 de julio de 2018, integrada por Inés Elena Otárola Castillo, Handy Ghislaine Campos Sepúlveda y Rodrigo Alexis Escobar Fernández, fijó con fecha 28 de agosto de 2018, el valor provisional de las indemnizaciones en la cantidad de $30.863.800 para el lote N° 31-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
