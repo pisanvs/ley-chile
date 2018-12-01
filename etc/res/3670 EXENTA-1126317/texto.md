@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.670, de 15 de noviembre de 2018, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Los Abedules 31, Rol de Avalúo N° 206-567, comuna de Cabrero, de aparente dominio de Ríos Peralta Victor Hugo, superficie de 101,82 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-37465-2, para la ejecución de las obras del proyecto "Construcción Ciclovía Ruta 0-60, Cabrero-Monteáguila", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Alexander Theodor Boye Trenit, por el arquitecto Gabriel Ismael Melo Guiñez y por la arquitecto Claudia Paola Rivera Salgado, según informe de fecha 24.08.2018, fijó monto provisional indemnización en $11.035.443, más una suma de $56.281, por concepto de reajuste del artículo 5° del DL 2.186, de 1978, que dan la cifra de $11.091.724.-
+
+Director Serviu Región del Biobío.
