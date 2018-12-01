@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1606 de 13 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 7 para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVI. SECTOR: SECTOR 1 (RUTA F-20). SUBSECTOR: FIN CUESTA - FIN CONCESIÓN ACTUAL. KM 18.900,00 AL KM 25.840,00, Región de Valparaíso, que figura a nombre de BERNAL FERNANDEZ ATILIO, rol de avalúo 193-2 de la comuna de Puchuncaví, superficie 6.250 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 473 de 24 de julio de 2018, integrada por María Isabel de Jesús Ríos Marcuello, Javier Alejandro Ibarra Reyes y Yazmín Mercedes Balboa Rojas, fijó con fecha 3 de septiembre de 2018, el valor provisional de las indemnizaciones en la cantidad de $26.944.000 para el lote N° 7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
