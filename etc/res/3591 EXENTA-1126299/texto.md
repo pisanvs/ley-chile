@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.591 de fecha 25 de octubre de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Carlos Ibáñez 0205 Pilocoyan, Rol Nº 212-22 comuna Linares, superficie 17,73 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Valdés Latapia Adriana del Carme, Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijo monto provisional indemnización en $2.564.292.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186 de 1978 fue reajustado a la suma de $2.646.350.- pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
