@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 1633, de 15 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N° 206, de 1960, se expropió el lote de terreno N° 84, para la obra "Mejoramiento Ruta K-705, sector Cr. Ruta K-715 - Vilches Alto", tramo kilómetro 11,70000 a Km. 27,23000, que figura a nombre de ARAYA MANRIQUEZ FRANCISCO JAVIER, rol de avalúo 167-168, Comuna de San Clemente, Región del Maule, superficie 439 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURÁN MARCOS, RODRIGO ANTONIO SILVA LAZO y PAULA SOLEDAD GONZÁLEZ ORTEGA, mediante informe de tasación de 22 de agosto de 2014, complementada por acta de 2 de marzo del 2018, fijó el monto de la indemnización provisional en la cantidad de $4.431.900.- para el lote N° 84. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
