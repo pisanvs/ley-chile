@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1568, de 13 de noviembre de 2018, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 105, para la obra: REPOSICION RUTA A-27, SECTOR LOTEO MONTALVO - SAN MIGUEL DE AZAPA, que figura a nombre de BUNEDER JORRATT JORGE RAUL, rol de avalúo 3410-37, Comuna de ARICA, REGION DE ARICA Y PARINACOTA, superficie 522 m2. La Comisión de Peritos integrada por LUIS BERNARDO AGUILERA CABRERA, ANGELICA YANETT SEURA ROJAS y CLAUDIO ANDRES CONCHA GROSSI, mediante informe de tasación de 30 de octubre de 2013, fijó el monto de la indemnización provisional en la cantidad de $22.938.500 para el lote N°105. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
