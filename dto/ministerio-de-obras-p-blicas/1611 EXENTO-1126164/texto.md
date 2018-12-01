@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1611 de 13 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 205-A para la obra: CONCESION DE LA OBRA PUBLICA, EMBALSE LA PUNILLA, Región del Biobío, actual Región de Ñuble, que figura a nombre de VALENZUELA FUENTEALBA VIVIANA Y OTR, rol de avalúo 59-258 de la comuna de San Fabián, superficie 58.452 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 454 de 17 de julio de 2018, integrada por Gabriel Antonio Pantoja Rivera, Ángel Mauricio Cáceres Barra y Andrés Rainer Schulz Villanueva, fijó con fecha 23 de agosto de 2018, el valor provisional de las indemnizaciones en la cantidad de $56.331.950 para el lote N° 205-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
