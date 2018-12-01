@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 1628 de 15 de noviembre, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno N° 56, Rol de avalúo 151-57, Comuna de Lampa, superficie 4.148 m2., para la obra REPOSICION PAVIMENTO RUTA G-150: PANAMERICANA - LAMPA, COMUNA DE LAMPA, PROVINCIA DE CHACABUCO, REGIÓN METROPOLITANA DE SANTIAGO. La comisión de peritos, integrada por DOUGLAS MAXIMILIANO HERRERA FLORES, NORMAN ESTANISLAO CALDERÓN PONTIGGIA y CAROLINA ALEJANDRA BRITO RAMOS, fijó el valor de tasación con fecha 18 de mayo de 2016, acordándose la indemnización con su propietario HUMBERTO MEZA BECERRA, en la cantidad de $48.048.700.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
