@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1536, de 09 de noviembre de 2018, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N° 206 de 1960, se expropió el lote de terreno N° 1, para la obra: SISTEMA DE AGUA POTABLE RURAL BUENA PAZ, que figura a nombre de ROMERO ROCO DANILO EDUARDO. rol de avalúo 637-201, Comuna de MOLINA, REGION DEL MAULE, superficie 288 m2. La Comisión de Peritos integrada por VICTORIA ADRIANA BLANCO COSTA, LORENA ELIZABETH GAJARDO ALARCON y PAULA SOLEDAD GONZALEZ ORTEGA, mediante informe de tasación de 12 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $1.324.800 para el lote N° 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
