@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1460, de 24 de octubre de 2018, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N° 206 de 1960, se expropiaron los lotes de terreno N°s. 91-A y 92-B, para la obra: MEJORAMIENTO RUTA 7 SECTOR: HORNOPIREN-PICHANCO, que figuran a nombre de MARIA CANDELARIA PERANCHUGUAI ALVARADO, rol de avalúo EN TRAMITE, Comuna de HUALAIHUE, REGION DE LOS LAGOS, superficies 444 y 331 m2. respectivamente. La Comisión de Peritos integrada por CARLOS EUGENIO MERA SANTIBAÑEZ, ENRIQUE EDGARDO HOELCK ALTMANN y JUAN CELESTINO GIOVANNINI MANSILLA, mediante informe de tasación de 04 de julio de 2016, fijó el monto de la indemnización provisional en la cantidad de $716.068, para el lote N° 91-A y $280.357, para el lote N° 92-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
