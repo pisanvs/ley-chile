@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.606, de fecha 25 de octubre de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Av. Pdte. Ibáñez 327, Rol N° 321-17, comuna Linares, superficie 124,30 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Morales Franchi Marioli. Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil; y Pedro Pablo Cruz Weston, Arquitecto; según informe de tasación evacuado con fecha 4 de septiembre de 2017, fijó monto provisional indemnización en $19.215.600.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2.186, de 1978, fue reajustado a la suma de $19.830.500.- pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
