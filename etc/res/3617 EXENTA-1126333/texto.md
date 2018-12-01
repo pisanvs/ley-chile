@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 3.617 de 13 de noviembre de 2018, el Serviu Región de Los Lagos ordenó expropiación lote terreno N° 9A para la ejecución Proyecto "Mejoramiento Interconexión Alerce-Puerto Montt, Senda Central-Avda. Austral", comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de González Alvarado Francisco Rigob, rol de avalúo según SII N° 2190-246, comuna de Puerto Montt, superficie 33,42 metros cuadrados. La comisión de peritos integrada por los Srs. Nelson Turra T., Nelson Igor F. y Juan Barrientos B., designados por resolución exenta N° 3.100 de 24 de septiembre de 2018, fijó con fecha 19 de octubre de 2018 el valor provisional de la indemnización en la suma de $642.750. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del decreto Ley N° 2186.-
+
+Directora (S) Serviu Región de Los Lagos.
