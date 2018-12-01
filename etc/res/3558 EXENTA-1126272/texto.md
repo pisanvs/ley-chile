@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.558, de fecha 25 de octubre de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 Ley 16.391, de inmueble ubicado en Av. Pdte. Ibáñez 117, Rol Nº 321-38, comuna Linares, superficie 61,85 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Fuentes Muñoz Blanca. Comisión integrada por peritos Patricio Ulises Durán Marcos, arquitecto; Rodrigo Antonio Silva Lazo, constructor civil y Pedro Pablo Cruz Weston, arquitecto; según informe de tasación evacuado con fecha 4 de septiembre de 2017, fijó monto provisional indemnización en $21.552.000.-, monto que conforme a lo dispuesto en el artículo 5º del DL 2.186 de 1978 fue reajustado a la suma de $22.241.660.- pagados al contado.-
+
+Juan Órdenes Daziano, Director (S) Serviu Región del Maule.
