@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1516, de 09 de noviembre de 2018, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 4-F, para la obra: CONSTRUCCION CONEXION VIAL COCHRANE - RIO TRANQUILO - E. MAYER, que figura a nombre de SOTO DE LA CRUZ ROBERTO INOCENCIO, rol de avalúo 00212-00054, Comuna de COCHRANE, REGION DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficie 30.800 m2. La Comisión de Peritos integrada por JUAN ANTONIO FUENTES MANCILLA, PATRICIO JAVIER EUSEBIO BOPP LATHAM y JAVIER ANDRES DOMINGUEZ CONCHA, mediante informe de tasación de 22 de mayo de 2018, fijó el monto de la indemnización provisional en la cantidad de $1.971.200, para el lote N°4-F. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
