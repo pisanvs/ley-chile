@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 1517, de 9 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 81, para la obra "Reposición Pav. Ruta M-50, sector Chanco - Constitución", que figura a nombre de REVECO FUENTES EUGENIO, rol de avalúo 900-33, Comuna de Constitución, Región del Maule, superficie 172 m2. La Comisión de Peritos integrada por PAULA SOLEDAD GONZÁLEZ ORTEGA, RODRIGO ANTONIO SILVA LAZO y PATRICIO ULISES DURÁN MARCOS, mediante informe de tasación de 12 de septiembre de 2014, fijó el monto de la indemnización provisional en la cantidad de $3.250.852.- para el lote N° 81. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
