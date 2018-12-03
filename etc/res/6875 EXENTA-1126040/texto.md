@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 6.875 EXENTA, DE 2018
+
+Mediante resolución exenta Nº 6.875, de fecha 7 de noviembre de 2018, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se otorgó Reconocimiento Oficial, a la Escuela de Conductores Profesionales "Ramos Chávez Limitada", cuyo nombre de fantasía es "Escuela de Conductores Profesional Chávez Véliz Limitada", RUT Nº 76.537.055-8, de propiedad de la sociedad del mismo nombre, representada legalmente por el señor Isaac Daniel Ramos Chávez, para impartir los cursos conducentes a la obtención de las licencias de conductor profesional clases A-2 y A-4, en sede ubicada en General San Martín Nº 350, local 6 y sala anexa "G", y taller mecánico ubicado en Pedro Aguirre Cerda Nº 0451, todos en la comuna de Colina.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
