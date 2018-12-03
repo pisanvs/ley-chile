@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.150 EXENTA, DE 2018
+
+Por resolución exenta Nº 1.150, de 12 de noviembre de 2018, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador Bernardo O'Higgins, otorgó reconocimiento oficial a la Escuela de Conductores Profesionales "Adolfo Baeza Limitada", cuyo nombre de fantasía es "A y B Limitada", de propiedad de la sociedad del mismo nombre, RUT N° 76.876.568-5, representada legalmente por doña María Alejandra Silva Soto, cédula de identidad Nº 10.580.354-0, para impartir curso conducente a la obtención de licencia de conducción profesional Clase A2 y A4, en su sede ubicada en calle Cáceres Nº 369, y taller mecánico en calle Balmaceda Nº 17, ambos de la comuna de Rancagua.-
+
+Hans González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
