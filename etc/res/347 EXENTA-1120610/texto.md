@@ -24,7 +24,7 @@ Resolución:
 
 2. Los proyectos que se encuentren previamente ya calificados y cumplan con las condiciones de este llamado, podrán ser postulados y seleccionados a partir de la fecha de esta resolución.
 
-3. Los recursos asignados para la selección de los proyectos postulantes en este llamado corresponden a 18.480 UF.
+3. Los recursos asignados para la selección de los proyectos postulantes en este llamado corresponden a 36.960 UF.
 
 4. Conforme a lo indicado en el artículo 6° bis del DS N° 255 (V. y U.), de 2006, el proyecto presentado debe considerar que la vivienda, una vez intervenida, cumpla con las exigencias de Acondicionamiento Térmico establecidas en el artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, para la zona térmica 7, definida en la resolución N° 482 (V. y U.), de 1999. Para acreditar el cumplimiento de la señalada exigencia de acondicionamiento térmico, los proyectos presentados deben incluir el detalle de la vivienda sin intervenir y de la vivienda una vez intervenida, señalando la forma en que se da cumplimiento a la misma, según formato adjunto para tal efecto.
 
