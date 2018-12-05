@@ -38,7 +38,7 @@ ii. Recolectores de orilla, algueros o buzos apnea, inscritos únicamente en est
 
 iii. Buzos inscritos en el Registro Pesquero Artesanal que los habilita para realizar faenas de extracción en la Región de Aysén.
 
-2.- Establézcase que la excepción referida en los términos del resuelvo anterior, se mantendrá hasta el día 30 de noviembre de 2018, sin perjuicio de que, en aquella fecha, este Director Regional puede determinar la ampliación del plazo.
+2.- Establézcase que la excepción referida en los términos del resuelvo anterior, se mantendrá hasta el día 30 de noviembre de 2019, sin perjuicio de que, en aquella fecha, este Director Regional puede determinar la ampliación del plazo.
 
 3.- Incorpórese, dentro de las actividades a realizar por las áreas regionales de Pesquerías y de Gestión de la Información, Atención de Usuarios y Estadísticas Sectoriales, una gestión particular de acercamiento a la tecnología y uso de las herramientas propias del Sistema de Trazabilidad, a objeto de propender por la disminución las brechas descritas en la parte considerativa.
 
