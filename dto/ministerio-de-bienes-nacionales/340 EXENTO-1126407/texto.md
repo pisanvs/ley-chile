@@ -1,0 +1,9 @@
+DESTINA AL MINISTERIO DE BIENES NACIONALES, INMUEBLE FISCAL DENOMINADO "ISLA DE LOS PESCADORES, RÍO CARAMPANGUE" EN LA REGIÓN DEL BIOBÍO
+
+Mediante decreto exento N° 340, de 13 de noviembre de 2018, del Ministerio de Bienes Nacionales, se destinó al Ministerio de Bienes Nacionales, el inmueble fiscal denominado "Isla de los Pescadores, Río Carampangue", compuesto por los Lotes "a", "b", "c" y "d", Sector Isla de los Pescadores, Río Carampangue, ubicado en la comuna y provincia de Arauco, Región del Biobío, enrolado en el Servicio de Impuestos Internos con el N° 164-7; inscrito en mayor cabida a nombre del Fisco a fs. 132 N° 165 del Registro de Propiedad del Conservador de Bienes Raíces de Arauco, correspondiente al año 1897; singularizado en el Plano N° VIII-3-2.027-C.R.; con una superficie de 45,00 ha.
+
+El inmueble fiscal antes singularizado, se deberá destinar para sus fines propios, procurando su conservación ambiental y la protección y/o planificación del patrimonio, además realizar una gestión y manejo sustentable de sus recursos, a fin de lograr un desarrollo sustentable de los proyectos de inversión que se ejecuten en él. Esta destinación tendrá como objetivo específico la conservación y protección de los ecosistemas y ambientes del Sector Isla de los Pescadores, Río Carampangue, teniendo como foco principal la conservación de la biodiversidad de la flora y fauna, principalmente de las especies de aves migratorias denominadas El Rayador (Rynchops niger), el Gaviotín Elegante (Sterna elegans), como así también el Ecosistema del Humedal de Arauco. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefa de División Jurídica.
