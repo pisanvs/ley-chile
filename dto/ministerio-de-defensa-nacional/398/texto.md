@@ -88,7 +88,7 @@ el Servicio de Practicaje y Pilotaje
 
 #### Artículo 12
 
-Podrán postular al nombramiento como prácticos autorizados, quienes manifiesten su intención de ingresar como tales, sea de puerto o canales, en solicitud dirigida al Director General, y cumplan con las normas de selección psicofísicas establecidas en el Título IV del presente reglamento; que acrediten a satisfacción de la Dirección General, su idoneidad profesional, la aprobación del Curso General de Practicaje y Pilotaje, y reúnan además, los siguientes requisitos: 1.- Para ejercer funciones de Practicaje: 1.1 Los ex-Prácticos Oficiales que acrediten:
+Podrán postular al nombramiento como prácticos autorizados, quienes manifiesten su intención de ingresar como tales, sea de puerto o canales, en solicitud dirigida al Director General, y cumplan con las normas de selección psicofísicas establecidas en el Título IV del presente reglamento; que acrediten a satisfacción de la Dirección General, su idoneidad profesional, y reúnan además, los siguientes requisitos: 1.- Para ejercer funciones de Practicaje: 1.1 Los ex-Prácticos Oficiales que acrediten:
 
 - **a)** Haberse desempeñado durante cinco o más años como Práctico Oficial.
 
@@ -96,15 +96,13 @@ Podrán postular al nombramiento como prácticos autorizados, quienes manifieste
 
 - **a)** Estar en posesión del título vigente de Capitán de Alta Mar.
 
-- **b)** Haber ejercido mando en naves mercantes o especiales mayores, a lo menos durante 24 meses en los últimos cinco años.
+- **b)** Que su retiro de la Marina Mercante Nacional no haya sido causado por incapacidad psicofísica.
 
-- **c)** Que su retiro de la Marina Mercante Nacional no haya sido causado por incapacidad psicofísica.
+- **c)** Que durante su permanencia en la Marina Mercante Nacional hayan observado buena conducta, lo cual deberá constar en certificado extendido por la Dirección General.
 
-- **d)** Que durante su permanencia en la Marina Mercante Nacional hayan observado buena conducta, lo cual deberá constar en certificado extendido por la Dirección General.
+- **d)** Dos o más años de mando efectivo en naves de un arqueo bruto mayor de 1.000 toneladas o mayores de 80 metros de eslora máxima.
 
-- **e)** Dos o más años de mando efectivo en naves de un arqueo bruto mayor de 1.000 toneladas o mayores de 80 metros de eslora máxima.
-
-- **f)** Haber cumplido un período de entrenamiento, en las condiciones que fije la Dirección General. 1.3 Los Oficiales Ejecutivos de la Armada, en retiro, que acrediten:
+- **e)** Haber cumplido un período de entrenamiento, en las condiciones que fije la Dirección General. 1.3 Los Oficiales Ejecutivos de la Armada, en retiro, que acrediten:
 
 a) Haber alcanzado el grado de Capitán de Fragata Ejecutivo.
 
@@ -118,11 +116,11 @@ d) Haber cumplido un período de entrenamiento, en las condiciones que fije la D
 
 - **a)** Haberse desempeñado durante cinco años o más como Prácticos Autorizados.
 
-- **b)** Que su retiro del servicio de practicaje o pilotaje no se deba a incapacidad psicofísica o sanción disciplinaria. 2.- Para ejercer las funciones de pilotaje: 2.1 Los ex-Prácticos Oficiales deberán cumplir con los requisitos exigidos en el párrafo 1.1. precedente, y realizar un viaje de entrenamiento por cada año que hayan permanecido sin navegar ruta de canales, hasta un máximo de cinco viajes. 2.2. Los Capitanes de Alta Mar deberán cumplir con los requisitos exigidos en las letras a), b),
+- **b)** Que su retiro del servicio de practicaje o pilotaje no se deba a incapacidad psicofísica o sanción disciplinaria. 2.- Para ejercer las funciones de pilotaje: 2.1 Los ex-Prácticos Oficiales deberán cumplir con los requisitos exigidos en el párrafo 1.1. precedente, y realizar un viaje de entrenamiento por cada año que hayan permanecido sin navegar ruta de canales, hasta un máximo de cinco viajes. 2.2. Los Capitanes de Alta Mar deberán cumplir con los requisitos exigidos en las letras a),
 
-- **c)** y
+- **b)** y
 
-- **d)** del párrafo 1.2 precedente y acreditar:
+- **c)** del párrafo 1.2 precedente y acreditar:
 
 a) Dos o más años de mando efectivo en naves de un arqueo bruto mayor de 1.000 toneladas o más de 80 metros de eslora máxima.
 
@@ -150,7 +148,15 @@ Tratándose de los ex-prácticos oficiales y autorizados de puerto, dicha exigen
 
 #### Artículo 14
 
-Una vez que los postulantes a prácticos autorizados hayan cumplido las exigencias indicadas en los artículos precedentes, un Consejo de Selección analizará los antecedentes personales, profesionales y la idoneidad de los postulantes. En el caso de los Capitanes de Alta Mar o ex-Prácticos Oficiales, el Consejo estará integrado por el Director General, el Subdirector, y dos Oficiales Superiores de la Dirección General. Podrá, asimismo, requerir el concurso, en calidad de asesores, de hasta dos prácticos oficiales o autorizados, sólo con derecho a voz. Tratándose de Oficiales Ejecutivos de la Armada, en retiro, el Consejo estará integrado además, por el Director General del Personal de la Armada. Determinada la nómina de los seleccionados por el Consejo, el Director General resolverá en única instancia acerca de los respectivos nombramientos, destinaciones y funciones.
+Una vez que los postulantes a prácticos autorizados hayan cumplido las exigencias indicadas en los artículos precedentes, un Consejo de Selección analizará los antecedentes personales, profesionales y la idoneidad de los postulantes. En el caso de los Capitanes de Alta Mar o ex-Prácticos Oficiales, el Consejo estará integrado por el Director General, el Subdirector, y dos Oficiales Superiores de la Dirección General.
+
+Podrá, asimismo, requerir el concurso, en calidad de asesores, de hasta dos prácticos oficiales o autorizados, sólo con derecho a voz.
+
+Tratándose de Oficiales Ejecutivos de la Armada, en retiro, el Consejo estará integrado además, por el Director General del Personal de la Armada. |
+
+Determinada la nómina de los seleccionados por el Consejo, el Director General resolverá en única instancia acerca de los respectivos nombramientos, destinaciones y funciones.
+
+Hecho lo anterior, los postulantes seleccionados deberán aprobar un Curso General de Practicaje y Pilotaje como exigencia previa para poder ejercer como prácticos o pilotos.
 
 #### Artículo 15
 
