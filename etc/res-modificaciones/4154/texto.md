@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIONES N° 2.517 Y N° 3.164 EXENTAS, AMBAS DE 2018, DE ESTA SUBSECRETARÍA DE PESCA Y ACUICULTURA
+
+Por resolución N° 4.154, de 29 de noviembre de 2018 de esta Subsecretaría, modifíquense los numerales 3° de las resoluciones exentas N° 2.517 y N° 3.164, ambas de 2018, que autorizaron a Lota Protein S.A. transferencias efectuadas de conformidad con el párrafo 9° de la Medida de Conservación y Ordenamiento para Trachurus murphyi, MCO 01-2018, adoptada por la Comisión de la Organización Regional de Pesca del Pacífico Sur y aprobada mediante resolución exenta N° 730 de 2018, de esta Subsecretaría, en el sentido de incorporar para efectos de la captura autorizada para el año 2018, las naves que se individualizan: Don Boris, Don Tito y Javier.
+
+Valparaíso, 29 de noviembre de 2018.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura (S).
