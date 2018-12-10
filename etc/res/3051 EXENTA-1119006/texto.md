@@ -90,8 +90,6 @@ Las copropiedades certificadas en los años 2016 y 2017, que no hubiesen resulta
 
 Los plazos correspondientes a cada hito del proceso de selección serán los siguientes:
 
-.
-
 Una vez terminada la fase de digitación, la Seremi realizará la selección de proyectos, en estricto orden de prioridad de acuerdo a los factores de selección establecidos en resuelvo 19 de la presente resolución, hasta enterar los recursos dispuestos para el proceso de selección.
 
 Una vez sancionada la selección correspondiente, la Seremi deberá publicar un extracto de la resolución en el Diario Oficial. En tanto, Serviu, mediante un aviso en al menos un periódico de circulación regional, pondrá en conocimiento de los postulantes el lugar y la fecha en que serán publicadas las nóminas de los proyectos y beneficiarios seleccionados, conforme al artículo 27 del DS N° 255 (V. y U.), de 2006.
@@ -157,8 +155,6 @@ En el caso de los proyectos que ingresen a Serviu en la modalidad de Subsidio a 
 16. La ejecución de los proyectos seleccionados, los gastos de asistencia técnica, las obras de acondicionamiento térmico y eficiencia energética, así como los incrementos de subsidio, serán financiados con los recursos disponibles para este llamado, conforme a lo establecido en el resuelvo 17 de la presente resolución exenta.
 
 17. Los recursos disponibles para efectuar la selección de proyectos en Condominios Sociales que resulten certificados como Copropiedades Objeto del Programa, serán los siguientes:
-
-.
 
 A partir del mes de agosto de 2018, la Subsecretaría de Vivienda y Urbanismo, mediante resoluciones, podrá reasignar estos recursos entre regiones a fin de garantizar la completa asignación de los subsidios del presente llamado.
 
