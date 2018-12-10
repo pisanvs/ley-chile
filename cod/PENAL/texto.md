@@ -4432,7 +4432,7 @@ Sufrirán la pena de multa de una a cuatro unidades tributarias mensuales:
 
 2.° El que excitare o dirigiere cencerradas u otras reuniones tumultuosas en ofensa de alguna persona o del sosiego de las poblaciones.
 
-3.° Derogado.
+3.° El que ensuciare, arrojare o abandonare basura, materiales o desechos de cualquier índole en playas, riberas de ríos o de lagos, parques nacionales, reservas nacionales, monumentos naturales o en otras áreas de conservación de la biodiversidad declaradas bajo protección oficial.
 
 4.° El que amenazare a otro con armas blancas y el que riñendo con otro las sacare, como no sea con motivo justo.
 
