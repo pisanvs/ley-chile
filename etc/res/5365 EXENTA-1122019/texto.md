@@ -22,7 +22,7 @@ La necesidad de establecer procesos de selección diferenciados según regiones,
 
 Resolución:
 
-1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos los días 30 de agosto, 30 de octubre y 29 de noviembre de 2018, o hasta agotar la totalidad de los recursos dispuestos para cada Región convocada, según corresponda.
+1. Llámase a proceso de selección en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Habitacional Fondo Solidario de Elección de Vivienda, en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos que cuenten con Certificado de Proyecto Calificado. En tal sentido, se efectuarán procesos de selección en cada cierre, con los proyectos calificados para dichos efectos los días 30 de agosto, 30 de octubre y 6 de diciembre de 2018, o hasta agotar la totalidad de los recursos dispuestos para cada Región convocada, según corresponda.
 
 2. Los recursos involucrados para la selección de postulantes por Región, son los siguientes:
 
