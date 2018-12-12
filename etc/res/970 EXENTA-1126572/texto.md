@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 970 EXENTA, DE 14 DE NOVIEMBRE DE 2018
+
+Mediante resolución exenta N° 970, de 14 noviembre de 2018, de esta Secretaría Regional, se aprobaron los Planes y Programas conducentes a la obtención de licencias de Conductor No Profesionales Clase B, a la Escuela de Conductores "Conducción y Capacitación Álvaro Ramiro Bórquez Millar E.I.R.L.", RUT 76.499.261-K, cuyo representante legal y director es el señor Álvaro Ramiro Bórquez Millar, cédula de identidad N° 11.303.456-4 y su sede estará ubicada en calle Villagrán N° 324, oficina 2, comuna de Carahue. Las horas autorizadas a la referida escuela son 10 horas pedagógicas teóricas, 12 horas prácticas, con un total de 22 horas pedagógicas.-
+
+Luis R. Calderón Ramírez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía.
