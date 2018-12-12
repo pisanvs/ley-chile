@@ -1,0 +1,45 @@
+DELEGA FACULTAD QUE INDICA, DEJA SIN EFECTO RESOLUCIONES Nº 3.798 Y Nº 11.902 EXENTAS, AMBAS DEL AÑO 2015, Y REVOCA DELEGACIÓN DE FACULTAD QUE SEÑALA
+
+Núm. 3.963 exenta.- Valparaíso, 27 de mayo de 2016.
+
+Vistos:
+
+Las resoluciones exentas Nº 3.798 de fecha 18 de junio de 2015, publicada en el D.O. el 25 de junio de la misma anualidad, Nº 4.657 de fecha 6 de julio de 2015, publicada en el D.O. el 21 de julio del mismo año, y Nº 11.902 de fecha 22 de diciembre de 2015, publicada en el D.O. el 6 de enero de 2016, todas del Servicio Nacional de Pesca y Acuicultura; lo dispuesto en el DFL Nº 5 del año 1983, y sus modificaciones, del Ministerio de Economía, Fomento y Reconstrucción, actualmente Ministerio de Economía, Fomento y Turismo; la Ley General de Pesca y Acuicultura Nº 18.892 y sus modificaciones, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo Nº 430, del año 1991, del Ministerio recién citado; el DFL Nº 1-19.653, que Fija el Texto Refundido, Coordinado y Sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; y la resolución Nº 1.600 del año 2008, de la Contraloría General de la República
+
+Considerando:
+
+Que, en el marco de lo dispuesto en el artículo 28, letra j), del DFL Nº 5, del año 1983, citado en Vistos, el Director Nacional del Servicio Nacional de Pesca y Acuicultura, delegó en los Directores Regionales del Servicio la facultad de firmar "por orden del Director Nacional de Pesca y Acuicultura", las resoluciones que rechacen las solicitudes de inscripción de pesquerías en el Registro Pesquero Artesanal, cuando dichas solicitudes recaigan exclusivamente en pesquerías que se encuentran con su inscripción transitoriamente suspendida o con su acceso cerrado, por haber sido declaradas en estado y régimen de plena explotación. Lo anterior, mediante resolución exenta Nº 3.798, de fecha 18 de junio de 2015, citada en Vistos.
+
+Que, asimismo, el Director Nacional del Servicio, haciendo uso de la atribución contemplada en el mencionado artículo 28, letra j), del DFL Nº 5 del año 1983, delegó, entre otras materias, en el Subdirector de Pesquerías del Servicio Nacional de Pesca y Acuicultura, la facultad de firmar "por orden del Director Nacional de Pesca y Acuicultura", las resoluciones que recaigan en las solicitudes de inscripción de pesquerías en el Registro Pesquero Artesanal. Lo anterior, mediante resolución exenta Nº 4.657, de fecha 6 de julio de 2015, citada en Vistos.
+
+Que, finalmente, mediante resolución exenta Nº 11.902, de fecha 22 de diciembre de 2015, citada en Vistos, el Director Nacional del Servicio, delegó en los Directores Regionales de la I Región de Tarapacá y XI Región de Aysén del General Carlos Ibáñez, la facultad de firmar "por orden del Director Nacional de Pesca y Acuicultura", las resoluciones que resuelvan las solicitudes de inscripción en el Registro Pesquero Artesanal y sus modificaciones presentadas en dichas regiones.
+
+Que, las precitadas resoluciones delegatorias, se dictaron a fin de descongestionar y hacer más expedito el despacho de las resoluciones que resuelven solicitudes de inscripción y modificación en el Registro Pesquero Artesanal, propendiendo con ello, a la agilización de dichos trámites, haciendo efectivos los principios de eficiencia y eficacia contenidos en el artículo 5º del DFL Nº 1-19.653, citado en Vistos; todo ello en pos del interés público que debe guiar la actuación de los órganos de la Administración del Estado.
+
+Que, tanto la resolución exenta Nº 3.798, del año 2015, que delegó en los Directores Regionales del Servicio sólo la facultad de firmar las resoluciones que rechazan las solicitudes de inscripción en el Registro Pesquero Artesanal, como la resolución exenta Nº 11.902, del mismo año, que delegó sólo en los Directores Regionales de la I Región de Tarapacá y XI Región de Aysén del General Carlos Ibáñez del Campo, la facultad de firmar las resoluciones que resuelvan las solicitudes de inscripción y modificación en el mencionado Registro, se dictaron con el objeto de descongestionar, en forma gradual, la tramitación de dichas solicitudes en el Nivel Central.
+
+Que, atendido lo anterior, es menester hacer extensiva al resto de las regiones del país la facultad de firmar "por orden del Director Nacional de Pesca y Acuicultura", no sólo las resoluciones que resuelven las solicitudes de inscripción y modificación en el Registro Pesquero Artesanal, sino que también, aquellas que resuelvan las solicitudes de renuncia, cancelación y desistimiento, con el objeto de agilizar la resolución de dichos trámites y dar una pronta respuesta a los pescadores artesanales.
+
+Que, atendido lo expuesto, se ha estimado indispensable refundir en un único acto administrativo, la delegación de facultades contempladas en las citadas resoluciones exentas Nº 3.798, Nº 4.657 y Nº 11.902, todas del año 2015, con la finalidad de facilitar a los Directores Regionales del Servicio Nacional de Pesca y Acuicultura, o en quien los subrogue, el ejercicio de la facultad delegada.
+
+Que, en virtud de lo dispuesto en el artículo 11º del DFL 1-19.653, citado en Vistos, y para asegurar el debido ejercicio de la facultad que por este acto se delega, el Director Nacional del Servicio Nacional de Pesca y Acuicultura deberá ejercer un control permanente, debiendo velar por el cumplimiento y debida aplicación de la normativa vigente al respecto, lo que implicará el deber de los Directores Regionales de rendir cuenta, al 31 de diciembre de cada año, a través de un oficio ordinario, del ejercicio de las mismas.
+
+Que, para finalizar, la materia que es objeto de este acto de delegación, cumple con la especificidad y parcialidad que exige la ley.
+
+Resuelvo:
+
+Primero: Delégase en los Directores Regionales del Servicio Nacional de Pesca y Acuicultura, o en quien los subrogue, la facultad de firmar "por orden del Director Nacional de Pesca y Acuicultura", las resoluciones que rechacen y aquellas que acogen total o parcialmente las solicitudes de inscripción en el Registro Pesquero Artesanal, y las solicitudes de modificación –excepto aquellas que correspondan a solicitudes de modificación de titularidad de persona jurídica a persona natural y viceversa–, renuncia, cancelación y desistimiento presentadas en las Direcciones Regionales del Servicio, en las categorías de pescador artesanal propiamente tal, buzo mariscador, recolector de orilla, alguero o buzo apnea y armador artesanal, con el objeto de desconcentrar, agilizar y hacer más efectiva y eficiente la resolución de dichos trámites.
+
+Segundo: Déjase establecido que la presente delegación de facultad, no obstará a que el Director Nacional de Pesca y Acuicultura ejerza el control jerárquico permanente del funcionamiento y actuación de los funcionarios delegados, el cual no sólo se extenderá a la legalidad, sino que también a la eficiencia, eficacia y oportunidad de sus actuaciones.
+
+Tercero: Instrúyese que en la documentación que firme el delegado en uso de la facultad delegada en esta resolución, deberá mencionar la presente resolución exenta en sus Vistos o Considerandos, y finalizar la parte resolutiva bajo la fórmula "por orden del Director Nacional de Pesca y Acuicultura".
+
+Cuarto: Déjase establecido que la presente resolución exenta, entrará en vigencia a partir de su publicación en el Diario Oficial.
+
+Quinto: Dispónese que la presente delegación de facultad, se ejercerá respecto de aquellas solicitudes que ingresen después de la entrada en vigencia de esta resolución.
+
+Sexto: Déjase sin efecto, a partir de la entrada en vigencia de la presente resolución, la resolución exenta Nº 3.798 de fecha 18 de junio de 2015, publicada en el D.O. el 25 de junio de la misma anualidad, y la resolución exenta Nº 11.902, de fecha 22 de diciembre de 2015, publicada en el D.O. el 6 de enero de 2016, ambas del Servicio Nacional de Pesca y Acuicultura.
+
+Séptimo: Revócase la facultad delegada en el Subdirector de Pesquerías del Servicio Nacional de Pesca y Acuicultura, para firmar "por orden del Director Nacional de Pesca y Acuicultura", las resoluciones que recaigan en las solicitudes de inscripción de pesquerías en el Registro Pesquero Artesanal, a que se refiere la letra a) del Resuelvo 1 de la resolución exenta Nº 4.657 del año 2015, la cual, a partir de la fecha de entrada en vigencia de la presente resolución, será asumida por parte de los Directores Regionales del Servicio Nacional de Pesca y Acuicultura, o en quien los subrogue, de conformidad con el Resuelvo Primero de esta resolución. En todo lo demás, se mantiene vigente la resolución exenta Nº 4.657, de fecha 6 de julio de 2015.
+
+Anótese, comuníquese y publíquese en el Diario Oficial.- José Miguel Burgos González, Director Nacional Servicio Nacional de Pesca y Acuicultura.
