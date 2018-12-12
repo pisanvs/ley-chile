@@ -32,6 +32,8 @@ La acreditación de origen legal tiene por objeto demostrar ante el Servicio, qu
 
 También, quedarán excluidos de cumplir con esta Resolución, las importaciones de especies hidrobiológicas ornamentales y los productos asociados a su manutención, salud y alimentación, así como los productos hidrobiológicos para la acuicultura.
 
+Se exceptúa además de la obligación de acreditar origen legal, los recursos y/o productos pesqueros a importar cuyo peso neto sea igual o menor a 20 kilogramos y que sean declarados por el exportador como muestra sin valor comercial o para consumo personal. Esta excepción no exime de la obligación de presentar la Solicitud Única de Ingreso (SUI) para su aprobación, en la oficina de Sernapesca correspondiente al punto de ingreso al país del producto pesquero, tampoco es aplicable a aquellos recursos o sus productos derivados que estén sometidos a acuerdos internacionales, tales como el bacalao de profundidad, pez espada o túnidos.
+
 #### Artículo Segundo
 
 Definiciones. Para los efectos de la presente resolución los términos que a continuación se indican tendrán el siguiente sentido:
