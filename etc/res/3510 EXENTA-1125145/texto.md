@@ -36,13 +36,13 @@ Primero: Apruébase, el siguiente procedimiento electrónico de acreditación de
 
 ## Título I
 
-Definiciones y Normas Generales de Acreditación de Origen Legal
+DEFINICIONES Y NORMAS GENERALES DE ACREDITACIÓN DE ORIGEN LEGAL
 
 #### Artículo primero (art. primero)
 
 <!-- parte:9965120 -->
 
-Sujetos Obligados. Todas las personas, naturales y jurídicas, que realicen actividades extractivas, de procesamiento, transformación, comercialización, importación, exportación o almacenamiento de recursos hidrobiológicos o de sus productos derivados y que deseen trasladarlos, deberán acreditar su origen legal portando junto a éstos el correspondiente documento tributario de traslado y, en el caso de estar adscritos al sistema de trazabilidad, deberán portar el comprobante de Acreditación de Origen Legal o "AOL" emitida por este Servicio, en conformidad a los procedimientos, requisitos y condiciones generales que se establecerán en los artículos siguientes y que en todo caso deberán dar cumplimiento a lo establecido en el decreto supremo N° 129 de 2013 del Ministerio de Economía, Fomento y Turismo y a la resolución exenta N° 2.523, 1 de junio de 2017, de este origen, y sus modificaciones.
+Sujetos Obligados. Todas las personas, naturales y jurídicas, que transformación, comercialización, realicen actividades extractivas, de procesamiento, importación, exportación o almacenamiento de recursos hidrobiológicos o de sus productos derivados y que deseen trasladarlos, deberán acreditar su origen legal portando junto a éstos el correspondiente documento tributario de traslado y, en el caso de estar adscritos al sistema de trazabilidad, deberán portar el comprobante de Acreditación de Origen Legal o "AOL" emitida por este Servicio, en conformidad a los procedimientos, requisitos y condiciones generales que se establecerán en los artículos siguientes y que en todo caso deberán dar cumplimiento a lo establecido en el decreto supremo N° 129, de 2013, del Ministerio de Economía, Fomento y Turismo, y a la resolución exenta N° 2.523, de 1 de junio de 2017, de este origen, y sus modificaciones.
 
 #### Artículo segundo (art. primero)
 
@@ -64,17 +64,17 @@ Definiciones. Para los efectos de la presente resolución los términos que a co
 
 a) Sistema Trazabilidad: Es una plataforma informática que tiene por objeto recibir las declaraciones con la información a que hace referencia el DS N° 129, de 2013, del Ministerio de Economía, Fomento y Turismo, de distintos agentes sectoriales.
 
-b) Sistema REVISA: Es una plataforma informática de uso externo e interno y diseñada para otorgar la acreditación de origen legal del tipo Visación.
+b) Sistema REVISA: Es una plataforma informática de uso externo e interno y diseñado para otorgar la acreditación de origen legal del tipo Visación.
 
 c) Traslado: Movimiento de carga desde su almacenamiento de origen a un destino determinado que implique cambio de dirección.
 
-d) Comercialización: Es aquella actividad, que, en el contexto pesquero, se refiere a la compra y venta de recursos hidrobiológicos y/o productos elaborados a partir de ellos.
+d) Comercialización: Es aquella actividad que, en el contexto pesquero, se refiere a la compra y venta de recursos hidrobiológicos y/o productos elaborados a partir de ellos.
 
-e) Módulo AOL: Sección dentro del sistema de Trazabilidad que emite el comprobante de Acreditación de Origen Legal.
+e) Módulo AOL: Sección dentro del Sistema de Trazabilidad que emite el comprobante de Acreditación de Origen Legal.
 
-f) Solicitud AOL: Trámite electrónico inicial que el usuario que declara por el Sistema de trazabilidad debe realizar ante el Servicio para obtener la acreditación del origen legal del traslado de su carga.
+f) Solicitud AOL: Trámite electrónico inicial que el usuario que declara por el Sistema de Trazabilidad debe realizar ante el Servicio para obtener la acreditación del origen legal del traslado de su carga.
 
-g) Solicitud AOL Derivada: Es la solicitud realizada en Módulo de AOL que es derivada a la oficina del Servicio asociada al origen de la carga a trasladar con la finalidad de terminar su trámite presencialmente
+g) Solicitud AOL Derivada: Es la solicitud realizada en Módulo de AOL que es derivada a la oficina del Servicio asociada al origen de la carga a trasladar con la finalidad de terminar su trámite presencialmente.
 
 h) Revalidación AOL: Es el acto mediante el cual el funcionario del Servicio extiende el periodo de vigencia de una visación, previa verificación de los antecedentes y argumentos presentados por el solicitante de la AOL.
 
@@ -82,13 +82,13 @@ i) Anulación de AOL: Es el acto mediante el cual el funcionario del Servicio an
 
 j) Visación: Es el procedimiento mediante el cual el Servicio valida o aprueba, desde el punto de vista pesquero o acuícola, el origen legal de un recurso hidrobiológico y/o de sus productos derivados.
 
-k) Comprobante AOL: Es el comprobante emitido por el sistema Trazabilidad, que se adjunta al documento tributario de traslado de la carga, y que acredita la legalidad de los recursos hidrobiológicos y/o productos derivados de acuerdo a lo señalado en el artículo primero.
+k) Comprobante AOL: Es el comprobante emitido por el Sistema Trazabilidad, que se adjunta al documento tributario de traslado de la carga, y que acredita la legalidad de los recursos hidrobiológicos y/o productos derivados de acuerdo a lo señalado en el artículo primero.
 
 #### Artículo cuarto (art. primero)
 
 <!-- parte:9965123 -->
 
-Comprobante AOL. Los agentes comercializadores o elaboradores de recursos hidrobiológicos o sus productos derivados adscritos al sistema Trazabilidad, deberán acreditar la legalidad de estos mediante el comprobante de Acreditación Legal de Origen (AOL) que emite el Módulo AOL, toda vez que traslade los recursos o productos disponibles como stock.
+Comprobante AOL. Los agentes comercializadores o elaboradores de recursos hidrobiológicos o sus productos derivados adscritos al Sistema Trazabilidad, deberán acreditar la legalidad de estos mediante el comprobante de Acreditación Legal de Origen (AOL) que emite el Módulo AOL, toda vez que traslade los recursos o productos disponibles como stock.
 
 #### Artículo quinto (art. primero)
 
@@ -120,35 +120,39 @@ Condiciones que rigen la solicitud de AOL de agentes adscritos a trazabilidad. R
 
 1. Una vez aprobada la solicitud AOL, y si el traslado no se realiza en ese momento, el usuario podrá guardar la información para la posterior emisión del comprobante de Acreditación de Origen Legal.
 
-2. La impresión del correspondiente comprobante de acreditación de origen legal podrá efectuarse sólo hasta 4 horas antes de la hora establecida para el inicio del traslado.
+2. La impresión del correspondiente comprobante de Acreditación de Origen Legal podrá efectuarse sólo hasta 4 horas antes de la hora establecida para el inicio del traslado.
 
 3. Respecto a la vigencia, el módulo efectuará el cálculo del tiempo de acuerdo con la distancia entre el origen y destino de la mercancía a trasladar.
 
 4. Todas las solicitudes AOL deberán incorporar copia digital del documento tributario de traslado de la carga, así como los que acrediten el dominio de ella.
 
-5. Las solicitudes AOL que cuenten con distintas localidades de origen de la carga y que correspondan a distintas jurisdicciones de oficinas Sernapesca, deberán formularse por separado. 6. El comprobante AOL sólo será válido por el trayecto entre el lugar de origen y el lugar de destino indicado en la solicitud y tendrá la vigencia necesaria para permitir el traslado, a partir de la fecha y hora del inicio del movimiento.
+5. Las solicitudes AOL que cuenten con distintas localidades de origen de la carga y que correspondan a distintas jurisdicciones de oficinas Sernapesca, deberán formularse por separado.
+
+6. El comprobante AOL sólo será válido por el trayecto entre el lugar de origen y el lugar de destino indicado en la solicitud y tendrá la vigencia necesaria para permitir el traslado, a partir de la fecha y hora del inicio del movimiento.
 
 7. En lo referente a la medida de administración de talla mínima, su validación quedará supeditada a las inspecciones presenciales que lleve a cabo el personal del Servicio, durante el traslado de los recursos o en su destino.
 
 8. Las solicitudes AOL derivadas, deberán terminar su trámite de manera presencial, en horario hábil y en la oficina del Servicio asignada al lugar de almacenamiento de la carga. Excepcionalmente, y previa coordinación con la oficina correspondiente, esta podrá realizarse en día inhábil.
 
-9. La acreditación de Origen Legal se podrá obtener en días hábiles e inhábiles, las 24 horas del día. No obstante, y con el objeto de verificar la veracidad de la información, el sistema en forma aleatoria podrá derivar solicitudes AOL a la oficina de Sernapesca correspondiente al origen de la carga, para el otorgamiento de la correspondiente autorización, la cual puede incluir una verificación física de la mercadería declarada a trasladar.
+9. La Acreditación de Origen Legal se podrá obtener en días hábiles e inhábiles, las 24 horas del día. No obstante, y con el objeto de verificar la veracidad de la información, el sistema en forma aleatoria podrá derivar solicitudes AOL a la oficina de Sernapesca correspondiente al origen de la carga, para el otorgamiento de la correspondiente autorización, la cual puede incluir una verificación física de la mercadería declarada a trasladar.
 
 10. Cada Dirección Regional de Sernapesca podrá establecer horarios especiales de atención para las respectivas derivaciones en horario inhábiles.
 
-11. Los agentes comercializadores y elaboradores no inscritos en el sistema Trazabilidad deberán acreditar el origen legal de sus recursos y/o productos derivados mediante el procedimiento de visación presencial.
+11. Los agentes comercializadores y elaboradores no inscritos en el Sistema Trazabilidad deberán acreditar el origen legal de sus recursos y/o productos derivados mediante el procedimiento de visación presencial.
 
 #### Artículo séptimo (art. primero)
 
 <!-- parte:9965126 -->
 
-Anulación de la solicitud de AOL. La anulación de una solicitud de acreditación de origen legal se efectuará bajo las siguientes reglas:
+Anulación de la solicitud de AOL. La anulación una solicitud de Acreditación de Origen Legal se efectuará bajo las siguientes reglas:
 
-1. El usuario, deberá solicitar por escrito dirigido al Director Regional o Encargado de Oficina Comunal o Provincial, indicando el folio de la solicitud de AOL qué es lo que se quiere anular; también podrá realizar la solicitud mediante la sección "Solicitud de Anulación" del sistema REVISA.
+1. El usuario, deberá solicitar por escrito dirigido al Director Regional o Encargado de Oficina Comunal o Provincial, indicando el folio de la solicitud de AOL qué es lo que se quiere anular; también podrá realizar la solicitud mediante la sección "solicitud de Anulación" del sistema REVISA.
 
 2. El usuario podrá también concurrir a la oficina correspondiente de Sernapesca presentando los documentos tributarios originales y comprobantes AOL (si corresponde) para su anulación.
 
-3. La Anulación deberá efectuarse antes del traslado. 4. Para volver a redestinar la carga, además de lo señalado deberá anular el detalle de la declaración de destino que generó la solicitud AOL correspondiente, volviendo a ejecutar los pasos desde la declaración de destino en adelante, para la nueva destinación.
+3. La Anulación deberá efectuarse antes del traslado
+
+4. Para volver a redestinar la carga, además de lo señalado deberá anular el detalle de la declaración de destino que generó la solicitud AOL correspondiente, volviendo a ejecutar los pasos desde la declaración de destino en adelante, para la nueva destinación.
 
 5. El usuario deberá incluir el Formulario de modificación o anulación de Declaración de destino si corresponde.
 
@@ -168,7 +172,7 @@ Revalidación de la solicitud AOL. La revalidación de una solicitud de AOL se e
 
 <!-- parte:9965128 -->
 
-De la Suspensión del Módulo AOL. En los casos de incumplimiento que se indican en este artículo, el Servicio suspenderá por un plazo de 30 días al usuario de la posibilidad de obtener el comprobante AOL a través del módulo del sistema de trazabilidad, en caso de reincidencia, el plazo podrá será de 90 días.
+De la Suspensión del Módulo AOL. En los casos de incumplimiento que se indican en este artículo, el Servicio suspenderá por un plazo de 30 días al usuario de la posibilidad de obtener el comprobante AOL a través del módulo del Sistema de Trazabilidad, en caso de reincidencia, el plazo podrá será de 90 días.
 
 Durante la suspensión el requirente deberá obtener su acreditación de origen legal en forma presencial en oficinas del Servicio.
 
@@ -206,7 +210,7 @@ b. Tipo de envase o embalaje.
 
 c. Cantidad de envases secundarios, expresado en números, si el recurso es a granel, sólo se expresará en kilogramos.
 
-d. Peso físico del total del recurso expresado en kilogramos.
+d. Peso físico del total del recurso expresado kilogramos.
 
 e. Identificación del lugar de origen y de destino de la carga.
 
@@ -214,7 +218,7 @@ e. Identificación del lugar de origen y de destino de la carga.
 
 a. Nombre común del recurso utilizado, tipo de producto y presentación.
 
-b. Tipo de envase secundario
+b. Tipo de envase secundario.
 
 c. Cantidad de envases secundario, expresado en número.
 
@@ -232,13 +236,13 @@ Digitalización de documentos en Módulo AOL. Tratándose de acreditación de or
 
 ## Título II
 
-De la Visación de Documentos y la Declaración de Stock
+DE LA VISACIÓN DE DOCUMENTOS Y LA DECLARACIÓN DE STOCK
 
 #### Artículo décimo tercero (art. primero)
 
 <!-- parte:9965133 -->
 
-De la visación de documentos con fines de Acreditación de Origen legal. Los agentes comercializadores y elaboradores no inscritos en el sistema Trazabilidad deberán acreditar el origen legal de sus recursos y/o productos derivados mediante el procedimiento de visación.
+De la visación de documentos con fines de Acreditación de Origen Legal. Los agentes comercializadores y elaboradores no inscritos en el Sistema Trazabilidad deberán acreditar el origen legal de sus recursos y/o productos derivados mediante el procedimiento de visación.
 
 Para efectos de dar cumplimiento a este trámite, el usuario podrá solicitarla de dos formas:
 
@@ -276,25 +280,25 @@ La anulación y revalidación de una visación presencial se efectuará bajo las
 
 <!-- parte:9965137 -->
 
-De las Declaraciones de Stock. Las personas que realicen actividades de transformación, almacenamiento y/o comercialización de recursos sujetos a veda, así como de sus productos derivados, o que estén en posesión o tenencia de los mismos y afectos a este artículo, deberán presentar una Declaración de Stock en la oficina del Servicio de su jurisdicción, en un plazo que establecerá cada Dirección Regional de Sernapesca, de acuerdo a su realidad operacional. Los agentes adscritos a sistema Trazabilidad, quedarán exentos de esta obligación.
+De las Declaraciones de Stock. Las personas que realicen actividades de transformación, almacenamiento y/o comercialización de recursos sujetos a veda, así como de sus productos derivados, o que estén en posesión o tenencia de los mismos y afectos a este artículo, deberán presentar una Declaración de Stock en la oficina del Servicio de su jurisdicción, en un plazo que establecerá cada Dirección Regional de Sernapesca, de acuerdo a su realidad operacional. Los agentes adscritos a Sistema Trazabilidad, quedarán exentos de esta obligación.
 
 ## Título III
 
-De las Exportaciones e Importaciones
+DE LAS EXPORTACIONES E IMPORTACIONES
 
-#### Artículo décimo séptimo (art. primero)
+#### Artículo décimo octavo (art. primero)
 
 <!-- parte:9965139 -->
 
-octavo.- De las Exportaciones. Quienes exporten recursos hidrobiológicos o sus productos derivados, deberán dar cumplimiento, además de lo indicado en la presente resolución, a los procedimientos técnicos y administrativos para la autorización y certificación de exportaciones de productos pesqueros y acuícolas establecidos por el Servicio Nacional de Pesca y Acuicultura en el Manual de Inocuidad y Certificación, Parte II, Sección III.
+De las Exportaciones. Quienes exporten recursos hidrobiológicos o sus productos derivados, deberán dar cumplimiento, además de lo indicado en la presente resolución, a los procedimientos técnicos y administrativos para la autorización y certificación de exportaciones de productos pesqueros y acuícolas establecidos por el Servicio Nacional de Pesca y Acuicultura en el Manual de Inocuidad y Certificación, Parte II, Sección III.
 
 #### Artículo décimo noveno (art. primero)
 
 <!-- parte:9965140 -->
 
-De la acreditación de origen legal de recursos o productos importados. Los Agentes Importadores de recursos hidrobiológicos, o de sus productos derivados, extranjeros o chilenos (reingresos), deberán acreditar el origen legal de éstos conforme a los procedimientos y regulaciones contenidos en la resolución exenta N° 2.796 de 24 de diciembre de 2009 de este Servicio, y sus modificaciones, tratándose de recursos hidrobiológicos para la acuicultura, se deberá dar cumplimiento a lo dispuesto en los decretos supremos N° 730 de 1995 y el N° 72 de 2011, ambos del Ministerio de Economía.
+De la acreditación de origen legal de recursos o productos importados. Los Agentes Importadores de recursos hidrobiológicos, o de sus productos derivados, extranjeros o chilenos (reingresos), deberán acreditar el origen legal de éstos conforme a los procedimientos y regulaciones contenidos en la resolución exenta N° 2.796, de 24 de diciembre de 2009, de este Servicio, y sus modificaciones, tratándose de recursos hidrobiológicos para la acuicultura, se deberá dar cumplimiento a lo dispuesto en los decretos supremos N° 730, de 1995, y el N° 72, de 2011, ambos del Ministerio de Economía.
 
-Para el transporte desde la zona primaria al lugar de almacenamiento declarado por el importador, se requerirá que la documentación tributaria, con las especificaciones indicadas anteriormente, acompañe al recurso o producto, junto al original del Certificado de Origen Legal otorgado por la Autoridad competente del país exportador (país de origen) y a la documentación exigida para las importaciones por el Servicio Nacional de Aduanas.
+Para el transporte desde la zona primaria al lugar de almacenamiento declarado por el importador, se requerirá que el recurso o producto importado sea acompañado por la Solicitud Única de Ingreso (SUI) debidamente aprobada por este Servicio, la documentación tributaria con las especificaciones indicadas anteriormente y la documentación exigida para las importaciones por el Servicio Nacional de Aduanas.
 
 El procedimiento descrito en el párrafo precedente, es aplicable a las solicitudes que se tramitan en forma presencial. Para aquellas importaciones autorizadas vía web, a través del Sistema de Ingreso de Mercancías Sernapesca (SIMS). El traslado del producto importado desde la zona primaria al primer lugar de almacenamiento deberá ser acompañado, además de la documentación indicada en el párrafo anterior, por el certificado de acreditación de origen legal, en original, el que deberá mantenerse disponible para ser requerido por el Servicio en ese primer destino nacional.
 
@@ -302,27 +306,29 @@ El procedimiento descrito en el párrafo precedente, es aplicable a las solicitu
 
 <!-- parte:9965141 -->
 
-Importación de productos derivados de especies nativas. Tratándose de productos derivados de recursos nativos (símiles), una vez ingresados estos al lugar de almacenamiento, planta o frigorífico, deberán ser declarados por el usuario ante el Servicio mediante el sistema Trazabilidad y respetando los procedimientos y plazos establecidos en el decreto supremo N° 129 del año 2013 del Ministerio de Economía, Fomento y Turismo. Cada una de estas declaraciones de eventos podrá ser verificada físicamente por funcionarios del Servicio Nacional de Pesca y Acuicultura.
+Importación de productos derivados de especies nativas. Tratándose de productos derivados de recursos nativos (símiles), una vez ingresados estos al lugar de almacenamiento, planta o frigorífico, deberán ser declarados por el usuario ante el Servicio mediante el Sistema Trazabilidad y respetando los procedimientos y plazos establecidos en el decreto supremo N° 129, de año 2013, del Ministerio de Economía, Fomento y Turismo. Cada una de estas declaraciones de eventos podrá ser verificada físicamente por funcionarios del Servicio Nacional de Pesca y Acuicultura.
 
-En los casos que la mercancía importada corresponda a productos derivados de especies o recursos hidrobiológicos a especies nativas o hayan sido materia prima para elaboración de productos, deberá obtener su correspondiente acreditación de origen legal a través del módulo AOL del Sistema de Trazabilidad, o bien la documentación tributaria deberá ser visada en la oficina del Servicio más cercana. El documento tributario deberá contener la frase "Producto importado".
+En los casos que la mercancía importada corresponda a productos derivados de especies o recursos hidrobiológicos a especies nativas o hayan sido materia prima para elaboración de productos, deberá obtener su correspondiente acreditación de origen legal a través del módulo AOL del Sistema de Trazabilidad, o bien la documentación tributaria deberá ser visada en la oficina del Servicio más cercana. El documento tributario deberá contener la frase producto importado.
 
-Para las comercializadoras mayoristas que trasladen productos derivados a especies nativas hacia centros de expendio y consumo minoristas solo deberán insertar en el documento tributario la leyenda "Producto importado" y el número de AOL con que se abasteció.
+Para traslados de productos importados símiles, en el cual el transporte se derive en terceros, se permitirá que en la solicitud AOL se escriba en el campo "Nombre Chofer": "Empresa externa" y, en el campo "Patente Vehículo": el nombre de la empresa transportista.
+
+Para las comercializadoras mayoristas que trasladen productos derivados a especies nativas hacia centros de expendio y consumo minoristas solo deberán insertar en el documento tributario la leyenda "producto importado" y el número de AOL con que se abasteció.
 
 #### Artículo vigésimo primero (art. primero)
 
 <!-- parte:9965142 -->
 
-Productos derivados de recursos de especies no nativas (exóticas). Tratándose de productos provenientes de especies exóticas (no símiles) el transporte, distribución y/o comercialización en el territorio nacional, solo requerirá la documentación tributaria que acompaña a la mercancía, la que deberá contener las especificaciones ya anteriormente indicadas, conteniendo la frase "Producto importado".
+Productos derivados de recursos de especies no nativas (exóticas). Tratándose de productos provenientes de especies exóticas (no símiles) o con línea de elaboración conserva, el transporte, distribución y/o comercialización en el territorio nacional, solo requerirá la documentación tributaria que acompaña a la mercancía, la que deberá contener las especificaciones ya anteriormente indicadas, conteniendo la frase "Producto importado" y no será obligatorio su ingreso al sistema trazabilidad.
 
 #### Artículo vigésimo segundo (art. primero)
 
 <!-- parte:9965143 -->
 
-Respecto de la autorización de Agentes Elaboradores de materia prima importada. Los Agentes Elaboradores de productos hidrobiológicos obtenidos de materia prima importada deberán contar con autorización para las líneas de elaboración específicas utilizadas, otorgadas por el Servicio Nacional de Pesca y Acuicultura y abastecerse mediante el módulo AOL.
+Respecto de la autorización de Agentes Elaboradores de materia prima importada. Los Agentes Elaboradores de productos hidrobiológicos obtenidos de materia prima importada deberán contar con autorización para las líneas de elaboración especificas utilizadas, otorgadas por el Servicio Nacional de Pesca y Acuicultura y abastecerse mediante el módulo AOL.
 
 ## Título IV
 
-Sistema Simplificado de Acreditación de Origen (SIMAOL)
+SISTEMA SIMPLIFICADO DE ACREDITACIÓN DE ORIGEN (SIMAOL)
 
 #### Artículo vigésimo tercero (art. primero)
 
@@ -330,11 +336,11 @@ Sistema Simplificado de Acreditación de Origen (SIMAOL)
 
 Sujetos que pueden optar al sistema simplificado. Esta modalidad de acreditación de origen legal, está dirigido a aquellas comercializadoras que distribuyan productos pesqueros nacionales a centros de expendio y consumo minoristas. Para acceder a este sistema simplificado de acreditación de origen legal, el agente comercializador deberá cumplir con los siguientes requisitos:
 
-1. Deberá solicitar incorporarse al sistema simplificado, completando el formulario dispuesto al efecto.
+1. Deberá solicitar incorporarse al sistema simplificado, completando el formulario disponible en el sitio de dominio electrónico del Servicio, en la sección "Proceso y comercialización/formularios". El que deberá hacer llegar a la plataforma de atención de usuarios de la oficina Sernapesca más cercana.
 
 2. Poseer sistema electrónico de emisión de documentos tributarios.
 
-3. Estar adscrito al sistema de trazabilidad de SERNAPESCA.
+3. Estar adscrito al sistema de trazabilidad de Sernapesca.
 
 4. Todos los productos deberán estar debidamente etiquetados por la planta que los originó.
 
@@ -342,31 +348,31 @@ Sujetos que pueden optar al sistema simplificado. Esta modalidad de acreditació
 
 6. Los documentos tributarios que respaldan los traslados de productos pesqueros deberán contener la mención a la autorización otorgada por el Servicio, según se indicará al momento de que esta se produzca, vía correo electrónico dirigido al titular de la Comercializadora o planta.
 
-El incumplimiento de cualquiera de los puntos indicados del 2 al 6, importará el término la autorización otorgada al agente comercializador a operar bajo este inmediato de procedimiento.
+El incumplimiento de cualquiera de los puntos indicados del 2 al 6, importará el termino la autorización otorgada al agente comercializador a operar bajo este inmediato de procedimiento.
 
 ## Título V
 
-Casos especiales
+CASOS ESPECIALES
 
 #### Artículo vigésimo cuarto (art. primero)
 
 <!-- parte:9965147 -->
 
-Casos especiales de acreditación de origen legal. Sin perjuicio de la regla general de acreditación de origen legal a través del módulo AOL y de visación presencial, el Servicio podrá establecer mecanismos alternativos a este procedimiento, como el uso de etiquetas y leyendas en los documentos tributarios, en aquellos casos donde la actividad de transferencia o traslado de recursos hidrobiológicos, o productos derivados de ellos, presente dificultades técnicas que impidan el adecuado uso de la visación tradicional, y en la medida que los riesgos de incumplimiento asociado se encuentren debidamente acotados.
+Casos especiales de acreditación de origen legal. Sin perjuicio de la regla general de acreditación de origen legal a través del módulo AOL y de visación presencial, el Servicio podrá establecer mecanismos alternativos a este procedimiento, como el uso de etiquetas y leyendas en los documentos tributarios, en aquellos casos donde la actividad de transferencia o raslado de recursos hidrobiológicos, o productos derivados de ellos, presente dificultades técnicas que impidan el adecuado uso de la visación tradicional, y en la medida que los riesgos de incumplimiento asociado se encuentren debidamente acotados.
 
 El Servicio establecerá por resolución los procedimientos alternativos a la visación, conforme al análisis y estudio de cada caso.
 
 ## Título VI
 
-Normas transitorias
+NORMAS TRANSITORIAS
 
 #### Artículo transitorio (art. primero)
 
 <!-- parte:9965149 -->
 
-Agentes pesqueros no participantes en trazabilidad. Los agentes pesqueros que aún se encuentren afectos al Art. segundo transitorio de la resolución exenta 2.523 de 2017 y su modificación, citada en visto y que no se encuentren adscritas al sistema trazabilidad, deberán someterse al procedimiento de visación en cualquiera de sus dos modalidades (presencial o vía REVISA), según se señaló en el artículo décimo tercero. A contar de la fecha de la presente resolución deberán incorporar la AOL para acreditar el origen legal de sus traslados.
+Agentes pesqueros no participantes en trazabilidad. Los agentes pesqueros que aún se encuentren afectos al Art. segundo transitorio de la resolución exenta 2.523, de 2017, y su modificación, citada en visto y que no se encuentren adscritas al sistema trazabilidad, deberán someterse al procedimiento de visación en cualquiera de sus dos modalidades (presencial o vía REVISA), según se señaló en el artículo décimo tercero. A contar de la fecha de la presente resolución deberán incorporar la AOL para acreditar el origen legal de sus traslados.
 
-Para los agentes pesqueros que se encuentren afectos a la situación descrita en el Art. tercero transitorio de la resolución exenta 2.523 de 2017, ya citada y su modificación y que no se encuentren adscritas al sistema trazabilidad, a contar de la fecha de publicación en el Diario Oficial de este acto administrativo deberán someterse al procedimiento de visación presencial, en cualquiera de sus dos modalidades, como única forma de acreditación de origen legal de sus productos.
+Para los agentes pesqueros que se encuentren afectos a la situación descrita en el Art. tercero transitorio de la resolución exenta 2.523, de 2017, ya citada y su modificación y que no se encuentren adscritas al sistema trazabilidad, a contar de la fecha de publicación en el Diario Oficial de este acto administrativo deberán someterse al procedimiento de visación presencial, en cualquiera de sus dos modalidades, como única forma de acreditación de origen legal de sus productos.
 
 #### Artículo segundo
 
@@ -418,7 +424,7 @@ Séptimo: Déjase sin efecto, a contar de la fecha de publicación en el Diario 
 
 <!-- parte:9965156 -->
 
-Octavo: Déjase sin efecto, a contar del 1 de octubre de 2018, la resolución exenta N° 1.319, de fecha 6 de mayo de 2014, del Servicio Nacional de Pesca y Acuicultura, que establece el procedimiento, las condiciones y requisitos generales que se deben cumplir para acreditar el origen legal de los recursos hidrobiológicos y sus productos derivados.
+Octavo: Déjase sin efecto, a contar del 1 de mayo de 2019, la resolución exenta N° 1.319, de fecha 6 de mayo de 2014, del Servicio Nacional de Pesca y Acuicultura, que establece el procedimiento, las condiciones y requisitos generales que se deben cumplir para acreditar el origen legal de los recursos hidrobiológicos y sus productos derivados.
 
 > **Nota.** Los numerales 1 y 2 de la Resolución 4352 Exenta, Economía, publicada el 12.10.2018, modifican la presente norma. El numeral 1, modifica el resuelvo octavo, en el sentido de establecer que la fecha en que se debe dejar sin efecto la Resolución 1319 de fecha 6 de mayo de 2014, es a partir del 1 de diciembre de 2018. Asimismo, el numeral 2 dispone rectificar la numeración de los Títulos del artículo primero de la presente norma. Tener presente que la citada Resolución 4352, ha sido publicada con anterioridad a la presente norma, razón por la cual está última tiene una única versión.
 
