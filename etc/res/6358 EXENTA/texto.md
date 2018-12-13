@@ -1,0 +1,7 @@
+EXTRACTO RESOLUCIÓN Nº 6.358 EXENTA, DE 30 DE OCTUBRE DE 2018
+
+Por la presente, se ha modificado la resolución exenta Nº 5.409, de 2005, del Ministerio de Educación, que aprobó planes y programas especiales de estudio de 1º a 4º año de Educación Media Técnico Profesional, al Liceo Intercultural Guacolda, de la comuna de Cholchol, Región de La Araucanía.
+
+Además, se aprueba el programa de estudio en la Formación General de la asignatura de Lengua Mapuche (3º y 4º año) y los programas de estudio en la Formación Diferenciada en la especialidad de Administración, mención Recursos Humanos, de las asignaturas de Cultura y Sociedad Mapuche (3º año) e Interculturalidad y Desarrollo (4º año); en la especialidad de Gastronomía, mención Cocina, de la asignatura de Cocina Mapuche y Fusión (3º año); en la especialidad de Atención de Enfermería, mención Enfermería, de las asignaturas de Sistema de Salud Mapuche (3º año) y Medicina Tradicional Mapuche (4º año); y en la especialidad Atención de Párvulos, de las asignaturas de Cultura y Sociedad Mapuche (3º año) y Actividades Musicales desde la Perspectiva Mapuche (4ºaño), cuyos programas de estudio se anexan en la presente resolución exenta.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
