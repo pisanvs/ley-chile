@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.802, 27 de noviembre 2018, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Colón 7125 ex 7123 Esmeralda, Rol de Avalúo N° 3513-11, comuna de Talcahuano, de aparente dominio de Baeza Torres Elisa Del Carmen. La parte a expropiar tiene una superficie de 359,80 m2 de terreno y de edificación: (a) de 128,46 m2 , (b) 116,22 m2 = 244,68 m2, enmarcado en el plano 32.972-3, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por constructor civil Ítalo Zerga Arancibia, por el constructor civil Luz Contreras Bravo y por el arquitecto Priscilla Encalada Rueda, según informe de fecha 10.09.2018, fijó monto provisional de indemnización más reajustes del artículo 5° del DL N° 2.186 en $74.656.820.-, pagadera de contado.
+
+Director (S) Serviu Región del Biobío.
