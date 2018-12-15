@@ -1,0 +1,7 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1690 de 21 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió los lotes de terreno Nº 1 y Nº 2 para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO: TALCA - CHILLAN. SECTOR: CALLE DE SERVICIO PONIENTE LAS TINAJAS. KM. 348.960,00 AL KM. 350.050,00, Región del Maule, que figuran a nombre de SUC. GUTIERREZ SALDANA LUIS ALBERTO en los dos casos, roles de avalúo 838-17 y 839-132 de la comuna de Parral, superficies 5.671 m2 y 15.588 m2, respectivamente. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 565 de 13 de septiembre de 2018, integrada por Eduardo Alejandro Silva Aracena, Valentina Andrea Chacaltana Sims y Maximiliano Cortés Caiozzi, fijó con fecha 2 de octubre de 2018, el valor provisional de las indemnizaciones en las cantidades de $14.873.900 para el lote Nº 1 y $38.648.400 para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+> **Nota.** El Decreto 364 Exento, Obras Públicas, publicado el 15.06.2020, se tuvo por desistida la expropiación del lote de terreno Nºs 2, para la obra "Concesión internacional Ruta 5, Tramo: Talca - Chillán. Sector: Calle de Servicio Poniente Las Tinajas. Km. 348.960,00 al Km. 350.050,00", Región del Maule, comuna de Parral
+
+.
