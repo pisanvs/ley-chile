@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1676 de 21 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 2 para la obra: AUTOPISTA SANTIAGO - SAN ANTONIO SECTOR: ISABEL RIQUELME, Región Metropolitana de Santiago, que figura a nombre de INSTITUTO DE PREVISION SOCIAL, rol de avalúo 378-2 de la comuna de Pedro Aguirre Cerda, superficie 276 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 433 de 28 de junio de 2018, modificada por Resolución Expropiaciones Fiscalía Exenta Nº 626 de 6 de noviembre de 2018, integrada por Angélica Yanett Seura Rojas, Gustavo Eduardo Picero García y Ángel Mauricio Cáceres Barra, fijó con fecha 10 de agosto de 2018, el valor provisional de las indemnizaciones en la cantidad de $110.124.000 para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
