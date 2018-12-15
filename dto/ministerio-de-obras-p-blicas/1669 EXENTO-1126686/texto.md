@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1669 de 21 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1 para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO: TALCA - CHILLAN. SECTOR: ESTACIONAMIENTO TAXIS Y PARTICULARES ENLACE VILLA ALEGRE. KM. 283.700,00 AL KM. 284.380,00, Región del Maule, que figura a nombre de GIDI HASSI NEGILE BERNARDO Y OTROS, rol de avalúo 210-27 de la comuna de Villa Alegre, superficie 260 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 479 de 24 de julio de 2018, integrada por Pablo Alex Mansilla Aravena, Camilo José Jara Bravo y Constanza Camila Vásquez Muñoz, fijó con fecha 10 de septiembre de 2018, el valor provisional de la indemnización en la cantidad de $910.000 para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
