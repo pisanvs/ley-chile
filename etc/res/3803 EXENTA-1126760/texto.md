@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.803, 27 de noviembre 2018, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Colón 7141 Esmeralda, Rol de Avalúo N° 3513-6, comuna de Talcahuano, de aparente dominio de Palma Morales Abel Andrés. La parte a expropiar tiene una superficie de 464 m2 de terreno y de edificación: (a) de 158,40 m 2, (b*2) 140,22 m 2 , (c*2) 103,24 m 2 , (d) 6,57 m 2 y (e) 62,42 m 2 = 470,85 m 2 y cuyos linderos particulares, enmarcado según plano S8R-32.974-3, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por constructor civil Ítalo Zerga Arancibia, por el constructor civil Luz Contreras Bravo y por el arquitecto Priscilla Encalada Rueda, según informe de fecha 10.09.2018, fijó monto provisional de indemnización más reajustes del artículo 5° del DL N° 2.186 en $126.678.560.-, pagadera de contado.
+
+Director (S) Serviu Región del Biobío.
