@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución ex. N° 3.944 de fecha 05/12/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote N° 60-0, inmueble consistente en el lote A guion Dos guion Dos, de una superficie aproximada de cuatro mil setecientos veintiún metros cuadrados, Rol de avalúo 4040-01, comuna de Temuco. La superficie a expropiar aproximada es de 1007,43 metros cuadrados, de aparente dominio de Inmobiliaria Altos de Pedro de Valdivia S.A. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, arquitecto; Arturo Osvaldo Cantos Oyarzún, arquitecto y Claudio Romo Sanhueza, arquitecto, fijó monto de indemnización provisional en $124.867.982 según Informe N° 60-0 de fecha 03/12/2018, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
