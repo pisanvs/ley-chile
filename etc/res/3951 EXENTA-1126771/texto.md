@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.951 de fecha 05/12/2018, conforme al artículo 51 Ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote N° 91-1, "Retazo de terreno de doce metros de frente por veinticinco metros de fondo que es parte de la hijuela número seis, de tres hectáreas un área, de la división de la comunidad Felipe Currín, de este departamento" de la comuna de Temuco, no indica Rol de avalúo. La superficie a expropiar aproximada es de 11,48 metros cuadrados, de aparente dominio de Juan Painemal Huaiquinao. Comisión de Peritos integrada señores Marcela Melo Rodríguez, Arquitecto, doña Constanza Victoria Mihoevic González, Ingeniero Constructor y don Alberto Arenas Pizarro, Arquitecto, fijó monto de Indemnización Provisional en $17.132.443.- según Informe N° 91-1, de fecha 3 de diciembre de 2018, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
