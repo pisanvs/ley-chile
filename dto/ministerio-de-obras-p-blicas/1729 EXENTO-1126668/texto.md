@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1729, de 23 de noviembre de 2018, se modificó el numeral segundo del Decreto Exento MOP N° 487, de 08 de junio de 2017, quedando de la siguiente forma: lote N° 88-A, ubicado en la comuna de Cochamo, figura a nombre de ANDRADE VILLARROEL JUAN ANDRES, según rol de avalúo 148-185, superficie 31 m2. Compleméntese el informe de tasación emitido el 15 de septiembre de 2016, mediante acta emanada de la misma comisión de 26 de junio de 2017.
