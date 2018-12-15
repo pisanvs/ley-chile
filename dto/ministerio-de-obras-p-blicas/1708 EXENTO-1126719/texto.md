@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 1708, de 21 de noviembre de 2018, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y D.F.L. M.O.P Nº206, de 1960, se expropió el lote de terreno Nº 26-B, para la obra "Mejoramiento Rutas 203-201 Ch Sector: Panguipulli - Coñaripe II", que figura a nombre de HINOJOSA QUEZADA VIVIANA MARITZA, rol de avalúo 210-360, Comuna de Panguipulli, Región de Los Ríos, superficie 1.743 m2. La Comisión de Peritos integrada por María Soledad Núñez Arroyo, María Isabel de Jesús Ríos Marcuello y Patricio Fernando Casagrande Ulloa, mediante informe de tasación de 07 de agosto de 2015, complementado por acta de 01 de septiembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $7.179.600.- para el lote Nº 26-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
