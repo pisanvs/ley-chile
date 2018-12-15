@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 1741 de 30 de noviembre de 2018, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, el Decreto Ley N° 2186, de 1978; en el art. 13 de la Ley N° 18.916 de 1990; Decreto Supremo N° 44 del Ministerio de Defensa Nacional, Subsecretaría de Aviación de fecha 11 de marzo de 1996, se expropiaron las plantaciones y especies forestales emplazadas en el lote de terreno N° 17, Rol de avalúo 2234-5, Comuna de Osorno, superficie 26.348 m2., para la obra NORMALIZACIÓN AREA LIBRE DE OBSTACULOS AD. CAÑAL BAJO DE OSORNO, COMUNA DE OSORNO, PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por DORY GISELA DONOSO SALGADO, NICOLAS ALEJANDRO ALARCON SANCHEZ y MARCELO GABRIEL OYARZO SALDIAS, fijó el valor de tasación con fecha 03 de julio de 2018, acordándose la indemnización con su propietario ENRIQUE CARLOS GUILLERMO GANTZ SCHENCKE, en la cantidad de $47.324.572.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186 de 1978.
+
+Fiscalía MOP.
