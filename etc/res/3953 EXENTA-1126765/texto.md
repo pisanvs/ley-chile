@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 3.953 de fecha 05/12/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto -Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 64-0, consistente en la propiedad ubicada en Avenida Luis Durand número cero dos mil ciento quince, y corresponde a los sitios Tres y Cuatro, resultante de la subdivisión de una hijuela de cuatro hectáreas de superficie, ubicada en el lugar Puente Chispa, comuna de Temuco. Comuna de Temuco, Rol de avalúo 1360-72. La superficie a expropiar aproximada es de 108,15 metros cuadrados, de aparente dominio de doña Mónica Adela de Lourdes Monsalve Suárez. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $15.802.414, según Informe N° 64-0 de fecha 03/12/2018, pagadero Contado.-
+
+Director Serviu Región de La Araucanía.
