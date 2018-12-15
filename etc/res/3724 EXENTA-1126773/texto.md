@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 3.724 de 23 de noviembre de 2018, el Serviu Región de Los Lagos ordenó expropiación lote terreno N° 94 para la ejecución Proyecto "Mejoramiento Avenida Presidente Ibáñez de la ciudad de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Soto Mancilla Laura, rol de avalúo según SII N° 1026-7, comuna de Puerto Montt, superficie 76,03 metros cuadrados. La comisión de peritos integrada por los Srs. Nelson Turra T., Edgardo Hoelck A. y Leopoldo Schumacher G., designados por resolución exenta N° 3.538 de 7 de noviembre de 2018, fijó con fecha 20 de noviembre de 2018 el valor provisional de la indemnización en la suma de $94.628.900. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del decreto ley N° 2.186.
+
+Director Serviu Región de Los Lagos.
