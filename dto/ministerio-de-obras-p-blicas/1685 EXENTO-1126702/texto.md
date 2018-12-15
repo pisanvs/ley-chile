@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1685 de 21 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 2 para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO: TALCA - CHILLAN. SECTOR: PARADEROS ORIENTE Y PONIENTE PAQUE NORTE. KM. 352.500,00 AL KM. 353.100,00, Región del Biobío, actual Región de Ñuble, que figura a nombre de TAPIA RETAMAL JAIME ANTONIO, rol de avalúo 19-28 de la comuna de Ñiquén, superficie 2.210 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 475 de 24 de julio de 2018, integrada por Juan Pablo Contreras Mallea, Jaime Rolando Jurgens Bittner y Carmen Gloria Gatica Villarroel, fijó con fecha 3 de septiembre de 2018, el valor provisional de la indemnización en la cantidad de $9.723.570 para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
