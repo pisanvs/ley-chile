@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.899, 5 de diciembre de 2018, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Colón 7069 Esmeralda, Rol de Avalúo N° 3513-4, comuna de Talcahuano, de aparente dominio de Oporto Mills Max E. y otros. La superficie afecta a expropiación total es de 307,24 m² de terreno y de edificación 255,7 m² y cuyos linderos particulares, enmarcado según plano S8R-32.970-3, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Victoria García Silvera, por el arquitecto Andrés Tobar Beluzán y por el arquitecto Alexander Boye Trenit, según informe de fecha 22.10.2018, fijó monto provisional de indemnización en $106.786.746.-, pagadera de contado.-
+
+Director (S) Serviu Región del Biobío.
