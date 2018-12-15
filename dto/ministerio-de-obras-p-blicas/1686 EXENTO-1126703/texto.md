@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1686 de 21 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 45 para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVI. SECTOR: SECTOR 1 (RUTA F-20). SUBSECTOR: FIN CUESTA - FIN CONCESIÓN ACTUAL. KM 18.900,00 AL KM 25.840,00, Región de Valparaíso, que figura a nombre de REISENEGGER VON OEPEN TASSILO AN Y, rol de avalúo 192-1 de la comuna de Puchuncaví, superficie 738 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 471 de 24 de julio de 2018, integrada por Paulina Lorena Jadue Zaror, Valeria Francisca Madariaga Tordecilla y Cristián Andrés Cáceres Vargas, fijó con fecha 11 de septiembre de 2018, el valor provisional de las indemnizaciones en la cantidad de $13.054.000 para el lote Nº 45. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
