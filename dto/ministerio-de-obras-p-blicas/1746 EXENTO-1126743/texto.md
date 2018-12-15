@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1746, de 30 de noviembre de 2018, y en base a la facultad otorgada por el articulo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 6-3, para la obra: "CANAL NUEVO COCINERA" CAMARA DE CONTROL 6, que figura a nombre de CORTES CORTES MERCEDES LUISA DEL Y, rol de avalúo 423-123, Comuna de ILLAPEL, REGION DE COQUIMBO, superficie 1.554 m2. La Comisión de Peritos integrada por MIGUEL ANGEL RUIZ VALENZUELA, ANGELICA YANETT SEURA ROJAS y TATIANA YASMIN GUTIERREZ ORTIZ, mediante informe de tasación de 08 de noviembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $4.662.000, para el lote N°6-3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
