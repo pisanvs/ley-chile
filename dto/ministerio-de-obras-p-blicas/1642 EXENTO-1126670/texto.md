@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 1642, de 15 de noviembre de 2018, y en base a la facultad otorgada por el artículo 3° letra a), 10 letra c), 14° letra e) y 105° del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 105, para la obra "Mejoramiento Camino 64D305 Altovalsol - Las Rojas - Pelicana", que figura a nombre de ZEPEDA HARRIS EDUARDO ENRIQUE, rol de avalúo 414-13, Comuna de VICUÑA, Región de Coquimbo, superficie 345 m2. La Comisión de Peritos integrada por PABLO FLORES SALINAS, LUIS MUÑOZ CARVAJAL y MAURICIO ANDUEZA PEREZ, mediante informe de tasación de 28 de junio de 2018, fijaron el monto de la indemnización provisional en la cantidad de $4.975.000.- para el lote N° 105. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
