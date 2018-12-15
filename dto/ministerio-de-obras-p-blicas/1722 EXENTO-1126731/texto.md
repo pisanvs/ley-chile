@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 1722, de 21 de noviembre de 2018, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105° del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N°206, de 1960, se expropió el lote de terreno N° 1, para la obra "CONSERVACION CAMINO BASICO PADRE LAS CASAS - PULMAHUE Y REPOSICION PUENTE MENOR PULMAHUE", que figura a nombre de DIAZ QUITRAL CLAUDIA TORMENTA Y OTROS, rol de avalúo 3367-103, Comuna de Padre las Casas, Región de La Araucanía, superficie 939 m2. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, ENEDINA DEL CARMEN CID RAMIREZ y PAULA ANDREA LAGOS CARRASCO, mediante informe de tasación de 26 de marzo de 2015, complementado por acta de fecha 22 de marzo de 2017, fijó el monto de la indemnización provisional en la cantidad de $17.775.500.- para el lote N° 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
