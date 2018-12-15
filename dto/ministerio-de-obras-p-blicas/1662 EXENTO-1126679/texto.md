@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1662 de 21 de noviembre de 2018, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 162 para la obra: CONCESION DE LA OBRA PUBLICA, EMBALSE LA PUNILLA, Región del Biobío, actual Región de Ñuble, que figura a nombre de CARABINEROS DE CHILE, rol de avalúo 59-56 de la comuna de San Fabián, superficie 691.177 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 377 de 19 de junio de 2018, integrada por Mufida Viola Abuawad Elías, Marcelo Gabriel Oyarzo Saldías y Nicolás Alejandro Alarcón Sánchez, fijó con fecha 10 de julio de 2018, el valor provisional de la indemnización en la cantidad de $413.442.590 para el lote Nº 162. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
