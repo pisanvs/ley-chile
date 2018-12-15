@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1734, de 23 de noviembre de 2018, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 3, para la obra: SISTEMA DE AGUA POTABLE RURAL QUEBRADA DE PAIHUANO, que figura a nombre de COM AG PAIHUANO Y SN ANDRES, rol de avalúo 27-1, Comuna de PAIHUANO, REGION DE COQUIMBO, superficie 625 m2. La Comisión de Peritos integrada por PABLO ALEX MANSILLA ARAVENA, ANA ROSA DEL CARMEN SILVA GIL y TATIANA YASMIN GUTIERREZ ORTIZ, mediante informe de tasación de 22 de enero de 2017, fijó el monto de la indemnización provisional en la cantidad de $4.000.000, para el lote N° 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
