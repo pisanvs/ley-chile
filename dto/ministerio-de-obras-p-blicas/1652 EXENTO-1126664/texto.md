@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1652 de 20 de noviembre de 2018, se tuvo por desistida la expropiación del lote de terreno N° 1, ordenada por Decreto MOP N° 24 de 10 de febrero de 2016, para la obra "Embalse Convento Viejo, Segunda Etapa, Fase 3. Sector: Sifón Nerquihue. Tramo Km. 0.000,00 a Km. 1.980,00", Región del Lib. Gral. B. O'Higgins, comuna de Lolol. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
