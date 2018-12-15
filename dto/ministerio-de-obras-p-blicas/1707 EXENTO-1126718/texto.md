@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 1707, de 21 de noviembre de 2018, y en base a la facultad otorgada por el artículo 3° letra a), 14° letra e) y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 12-A, para la obra "Camino Ruta 7 Longitudinal Austral, Sector: Puerto Puyuhuapi - Puente Queulat, Tramo km. 47,68000 a Km. 83,12674", que figura a nombre de FUENTES SALAMANCA JUAN HERIBERTO, rol de avalúo 513-247, Comuna de CISNES, Región de Aysén del General Carlos Ibañez del Campo, superficie 2.738 m2. La Comisión de Peritos integrada por JUAN FUENTES MANCILLA, CARLOS RONDANELLI ALIAGA y PATRICIO BOPP LATHAM, mediante informe de tasación de 22 de diciembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $54.760.- para el lote N° 12-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
