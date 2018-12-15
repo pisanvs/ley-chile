@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1733, de 23 de noviembre de 2018, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 2, para la obra: ESTUDIO DE DISEÑO INSTALACION SISTEMA DE AGUA POTABLE RURAL PUENTE BASAS GRANDE, que figura a nombre de INMOBILIARIA EMILIANA SPA, rol de avalúo 164-31, Comuna de CURARREHUE, REGION DE LA ARAUCANIA, superficie 7.571 m2. La Comisión de Peritos integrada por GABRIEL ANTONIO PANTOJA RIVERA, CONSTANZA CAMILA VASQUEZ MUNOZ y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 15 de mayo de 2018, fijó el monto de la indemnización provisional en la cantidad de $5.864.980 para el lote N°2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
