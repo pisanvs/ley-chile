@@ -16,7 +16,9 @@ El decreto supremo que autorice el ingreso de tropas deberá fijar el objeto, pl
 
 #### Artículo 2°
 
-Si le entrada obedece a la celebración de efemérides nacionales, actividades educacionales o viajes de instrucción, actividades logísticas, actos de cortesía internacional, cumplimiento de acuerdos de cooperación en materias de defensa, o misiones de ayuda humanitaria no derivadas de un conflicto armado, la autorizacion será dada mediante resolución del Ministro de Defensa Nacional.
+Si la entrada obedece a la celebración de efemérides nacionales, actividades educacionales o viajes de instrucción, actividades logísticas o actos de cortesía internacional, la autorización será dada mediante resolución del Comandante en Jefe o del Jefe del Estado Mayor Conjunto, según la Institución que haya efectuado la invitación. Para efectos de lo dispuesto en el artículo 18 de esta ley, los Comandantes en Jefe y el Jefe del Estado Mayor Conjunto deberán informar al Ministerio de Defensa Nacional, en el mes de enero de cada año, todas las autorizaciones de entrada de tropas extranjeras ocurridas durante el año calendario anterior.
+
+Si la entrada obedece al cumplimiento de acuerdos de cooperación en materias de defensa, o misiones de ayuda humanitaria no derivadas de un conflicto armado, la autorización será dada mediante resolución del Ministro de Defensa Nacional."
 
 #### Artículo 3°
 

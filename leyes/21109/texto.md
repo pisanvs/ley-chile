@@ -28,17 +28,7 @@ Son asistentes de la educación, para efectos de esta ley, los funcionarios que,
 
 Se considerará asimismo asistente de la educación al personal que cumpla funciones en internados escolares que dependan de los servicios locales.
 
-Los asistentes de la educación tienen derecho a trabajar en un ambiente tolerante y de respeto mutuo. Del mismo modo, tienen derecho a trabajar en espacios seguros, libres de violencia y acoso, en donde se resguarde y se respete su integridad física, sicológica y moral, no pudiendo ser objeto de tratos vejatorios, degradantes o maltratos sicológicos por parte de los demás integrantes de la comunidad educativa; a participar de las instancias colegiadas de ésta, y a proponer las iniciativas que estimaren útiles para el progreso del establecimiento en los términos previstos por la normativa interna.
-
-Para el cumplimiento de lo dispuesto en el inciso precedente el sostenedor deberá adoptar medidas de prevención, investigación y sanción de aquellas conductas de acoso sexual, laboral y de violencia en el lugar de trabajo, y deberá contar con los protocolos y procedimientos de investigación que correspondan en su calidad de empleador.
-
-En los establecimientos educacionales, el protocolo de prevención del acoso sexual, laboral y de violencia en el trabajo, para la identificación de los peligros y evaluación de los riesgos psicosociales de los asistentes de la educación, deberá contemplar, especialmente, aquellos derivados de las condiciones y modalidades educativas del establecimiento educacional y de las relaciones e interacciones sostenidas durante el trabajo, en relación a éste o como resultado de él, y con los demás integrantes de la comunidad educativa.
-
-La Superintendencia de Seguridad Social deberá dictar una norma de carácter general que entregará las directrices específicas para determinar los riesgos derivados de las condiciones y modalidades del sector, las que deberán ser consideradas por los organismos administradores de la ley N° 16.744, que establece normas sobre accidentes del trabajo y enfermedades profesionales, en la asistencia técnica para la elaboración e implementación del protocolo señalado en el inciso precedente.
-
-En ningún caso las medidas de protección que se adopten por parte del sostenedor durante la investigación de casos de acoso sexual, laboral o de violencia en el lugar del trabajo podrán implicar un menoscabo en los derechos laborales del asistente afectado. En el caso de que se contemple la destinación del asistente afectado a otro nivel, jornada o establecimiento de su dependencia, de manera temporal o definitiva, o en general, cualquier medida que modifique sus funciones, deberá contar con su acuerdo.
-
-En el caso de que el asistente sea afectado por hechos constitutivos de delitos, ejercidos por terceros, sean éstos estudiantes, padres, apoderados u otros, el sostenedor del establecimiento deberá proporcionarle apoyo y orientación para el ejercicio y protección de sus derechos, al menos, hasta la presentación de la denuncia. Asimismo, a través del director del establecimiento, deberá siempre denunciar de conformidad a lo dispuesto en el artículo 175 del Código Procesal Penal. Su obligación no se entenderá satisfecha por acciones ejercidas por terceros.
+Los asistentes de la educación tienen derecho a trabajar en un ambiente tolerante y de respeto mutuo. Del mismo modo, tienen derecho a que se respete su integridad física, sicológica y moral, no pudiendo ser objeto de tratos vejatorios, degradantes o maltratos sicológicos por parte de los demás integrantes de la comunidad educativa; a participar de las instancias colegiadas de ésta, y a proponer las iniciativas que estimaren útiles para el progreso del establecimiento en los términos previstos por la normativa interna.
 
 Revestirá especial gravedad todo tipo de violencia física o sicológica cometida por cualquier medio, incluyendo los tecnológicos y cibernéticos, en contra de los asistentes de la educación.
 
@@ -59,8 +49,6 @@ Asimismo, para desempeñarse como asistentes de la educación deberá acreditars
 El informe de idoneidad sicológica señalado en el inciso anterior deberá referirse exclusivamente a la aptitud del trabajador para relacionarse con menores de edad, y no podrá en caso alguno referirse a las competencias laborales del trabajador, las que deberán acreditarse en el correspondiente proceso de selección de personal.
 
 La idoneidad sicológica para desempeñarse como asistente de la educación deberá acreditarse en forma previa a la celebración del respectivo contrato.
-
-Las inhabilidades y prohibiciones, establecidas en los incisos precedentes, para el ejercicio de funciones propias del personal Asistente de la Educación, al tenor de sus categorías singularizadas en el Párrafo 2° del Título I de la presente ley, así como los requisitos de informe de idoneidad psicológica, y acreditación de las competencias laborales requeridas para su ejercicio, reguladas a través de los perfiles de competencias laborales elaborados de conformidad al procedimiento establecido en la ley N° 20.267 y su reglamento, se aplicarán también a los trabajadores que ejecuten dichas funciones en establecimientos educacionales dependientes de los Servicios Locales de Educación Pública, en forma continua o permanente, en régimen de subcontratación, servicios transitorios o puesta a disposición de trabajadores, en forma previa al inicio de sus funciones en dichos establecimientos.
 
 ### Párrafo 2º
 
@@ -93,8 +81,6 @@ Para acceder a esta categoría se deberá contar con licencia de educación medi
 Serán clasificados en la categoría auxiliar los asistentes de la educación que realizan labores de reparación, mantención, aseo y seguridad en los establecimientos educacionales, y otras funciones de similar naturaleza, excluidas aquellas que requieran de conocimientos técnicos específicos.
 
 Para acceder a esta categoría se deberá contar con licencia de educación media.
-
-> **Nota.** El artículo 11 de la Ley 21544, Educación, publicada el 09.02.2023, declara, interpretando el inciso primero del presente artículo, que la categoría auxiliar de los asistentes de la educación incluye a las personas que realizan labores de transporte de estudiantes y de alimentación.
 
 ### Párrafo 3º
 
@@ -160,9 +146,9 @@ a) Ser ciudadano.
 
 b) Haber cumplido con la ley de reclutamiento y movilización, cuando fuere procedente.
 
-c) Tener salud compatible con el desempeño del cargo; lo que se acreditará mediante certificación del Servicio de Salud correspondiente. El solo hecho de contar con una calificación y certificación de discapacidad de conformidad con la ley N° 20.422 y/o ser asignataria de una pensión de invalidez de cualquier régimen previsional, no podrá obstar el cumplimiento de este requisito.
+c) Tener salud compatible con el desempeño del cargo.
 
-d) Contar con licencia de educación media o poseer título profesional o técnico exigido por la presente ley para el desempeño de la función correspondiente. Para aquellos cargos regidos por esta ley en los cuales se exija tener licencia de educación media, se entenderá que cumplen dicho requisito las personas con discapacidad mayores de 18 años que acrediten haber completado sus estudios en la modalidad de educación especial, de conformidad con lo dispuesto en el decreto N° 83, de 2015, del Ministerio de Educación, que aprueba criterios y orientaciones de adecuación curricular para estudiantes con necesidades educativas especiales de educación parvularia y educación básica o la normativa que lo reemplace.
+d) Contar con licencia de educación media o poseer título profesional o técnico exigido por la presente ley para el desempeño de la función correspondiente.
 
 e) No haber cesado en un cargo público como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones.
 
@@ -238,8 +224,6 @@ Con todo, la provisión de las vacantes deberá ser ordenada mediante acto funda
 
 Los asistentes de la educación que ingresen a una dotación podrán ser contratados por un plazo fijo, que no podrá exceder de un año escolar, o uno indefinido.
 
-Sin perjuicio de lo dispuesto en el inciso anterior, los asistentes de la educación que cuenten con contrato a plazo fijo vigente al 1 de diciembre tendrán derecho a que éste se prorrogue por los meses de enero y febrero o hasta el día anterior al inicio del año escolar siguiente, siempre que se hayan desempeñado por más de seis meses y no más de dos años continuos para el mismo Servicio Local de Educación Pública.
-
 En los contratos de plazo fijo, el hecho de continuar el funcionario prestando servicios con conocimiento del servicio después de expirado el plazo, lo transforma en uno de duración indefinida. Igual efecto producirá la segunda renovación de un contrato de plazo fijo.
 
 El contrato de reemplazo es aquel en virtud del cual un asistente de la educación presta servicios en un establecimiento para suplir transitoriamente a otro con contrato vigente que no puede desempeñar su función, cualquiera que sea la causa. Este contrato deberá incluir el nombre del trabajador que se reemplaza y la causa de su ausencia, las funciones que desempeña y su perfil, y se extenderá como máximo por el período de ausencia del trabajador reemplazado.
@@ -308,22 +292,6 @@ En materia de accidentes en actos de servicio y de enfermedades contraídas en e
 
 Los servicios locales podrán afiliar al personal asistente de la educación a cajas de compensación de asignación familiar. El personal asistente podrá, además, afiliarse a los servicios de bienestar que el servicio local haya constituido o de que sea parte y en este caso se aplicará lo dispuesto en el artículo 23 del decreto ley N° 249, de 1974.
 
-#### Artículo 29 bis
-
-En las investigaciones que lleven a cabo los organismos administradores de la ley N° 16.744 para la determinación de origen común o laboral de una enfermedad de naturaleza mental que afecte a un asistente de la educación de un establecimiento educacional deberán solicitar a los organismos correspondientes, quienes estarán obligados a remitirlos, los siguientes antecedentes de los últimos veinticuatro meses previos, y los demás que determinen las leyes:
-
-a) A la Superintendencia de Educación, las denuncias contra el establecimiento que hayan derivado en la aplicación de una sanción por infracción a la normativa educacional en materia de convivencia escolar.
-
-b) A los establecimientos, los antecedentes de los procedimientos internos realizados frente a conductas de acoso, violencia física o discriminación que hayan afectado a integrantes de la comunidad, con resguardo de la información privada de las partes involucradas.
-
-c) A los establecimientos, los antecedentes que consideren necesarios para determinar el tipo de establecimiento educativo de que se trata, sus niveles, condiciones y modalidades educativas y el índice de vulnerabilidad que presenta.
-
-La Superintendencia de Seguridad Social dictará una norma de carácter general, que entregará las directrices específicas que deben considerar los organismos administradores de la ley N° 16.744, que establece normas sobre accidentes del trabajo y enfermedades profesionales, en la calificación de enfermedades profesionales de carácter mental que afecten a personas trabajadoras del sector educación.
-
-Adicionalmente, la Superintendencia de Seguridad Social dispondrá un marco referencial para la correcta identificación de los factores de riesgo, a través de un instrumento técnico para la aplicación del estudio de puestos de trabajo en profesionales de la educación sujetos a la presente ley.
-
-Los establecimientos educacionales deberán considerar, a lo menos, los antecedentes señalados precedentemente, en la evaluación de los riesgos psicosociales de su dependencia, sin perjuicio de aquellos que determinen las leyes.
-
 #### Artículo 30
 
 Se entiende por permiso la ausencia transitoria de la institución por parte de un asistente en los casos y condiciones que más adelante se indican.
@@ -368,18 +336,6 @@ Tendrán derecho a recibir prestaciones del Fondo de Cesantía Solidario estable
 
 Los asistentes de la educación podrán constituir asociaciones de funcionarios de acuerdo a las disposiciones de la ley N° 19.296. La afiliación a dichas asociaciones será siempre voluntaria, aplicándose las normas sobre fuero establecidas en dicha ley.
 
-#### Artículo 32 bis
-
-Los asistentes de la educación podrán constituir Consejos de Asistentes de la Educación, los cuales estarán conformados por representantes de las categorías establecidas en el artículo 5.
-
-Estos Consejos tendrán carácter consultivo y constituirán instancias de participación y colaboración, destinadas a recoger y sistematizar las opiniones, observaciones y propuestas de sus integrantes, respecto de materias vinculadas a la convivencia educativa, al cumplimiento de los objetivos y programas educacionales, y al fortalecimiento y desarrollo del proyecto educativo del respectivo establecimiento educacional.
-
-Asimismo, estos Consejos podrán conocer y emitir opinión sobre todas las materias que el director o la directora del establecimiento someta a su consideración, y sobre aquellas que les encomiende el reglamento interno del establecimiento educacional al que pertenezcan, dentro del ámbito de sus respectivas atribuciones.
-
-Con el propósito de fortalecer la articulación y el trabajo colaborativo dentro de la comunidad educativa, los integrantes del Consejo podrán ser invitados a las reuniones de los Centros de Cursos y de los Centros de Padres y Apoderados, cualquiera sea su denominación.
-
-Un reglamento expedido por intermedio del Ministerio de Educación establecerá la composición de los Consejos, la forma de designación de sus integrantes, los criterios de constitución conforme a las dimensiones y características del establecimiento educacional, su funcionamiento y, en general, aquellas normas que sean necesarias para la aplicación del presente artículo.
-
 ### Párrafo 4º
 
 De la terminación de la relación laboral
@@ -400,15 +356,15 @@ e) Vencimiento del plazo del contrato.
 
 f) Obtención de jubilación, renta vitalicia o pensión de un régimen previsional, en relación con la función que desempeñen en el establecimiento.
 
-g) Salud irrecuperable o incompatible con el desempeño del cargo. El solo hecho de contar con una calificación y certificación de discapacidad de conformidad con la ley Nº 20.422 y/o ser asignataria de una pensión de invalidez de cualquier régimen previsional, no configurará esta causal.
+g) Salud irrecuperable o incompatible con el desempeño del cargo.
 
-h) Inhabilidad sobreviniente para desempeñarse como asistente de la educación, de acuerdo al artículo 3 de la ley N° 19.464.
+h) Inhabilidad sobreviniente para desempeñarse como asistente de la educación, de acuerdo
+
+al artículo 3 de la ley N° 19.464.
 
 Para efectos de la aplicación de la causal establecida en la letra g) de este artículo, el Director Ejecutivo del servicio sólo podrá considerar como salud incompatible con el desempeño del cargo, haber hecho uso de licencia médica en un lapso continuo o discontinuo superior a seis meses en los últimos dos años, sin mediar declaración de salud irrecuperable. El Director Ejecutivo del servicio, para ejercer la facultad antes señalada, deberá requerir previamente a la Comisión de Medicina Preventiva e Invalidez la evaluación del funcionario respecto a la condición de irrecuperabilidad de su salud y que no le permite desempeñar el cargo.
 
 No se considerará para el cómputo de los seis meses señalado en el inciso anterior, las licencias otorgadas en los casos a que se refiere el artículo 115 del Estatuto Administrativo y el título II, del libro II, del Código del Trabajo.
-
-En caso de discapacidad sobreviniente, calificada y certificada según la ley N° 20.422, la evaluación que realice la Comisión de Medicina Preventiva e Invalidez en cumplimiento de lo establecido en el inciso segundo deberá considerar la condición de salud de la persona en relación con el cargo específico que desempeña, indicando si podrá continuar realizando las labores respectivas.
 
 Si se hubiere declarado irrecuperable la salud de un asistente, éste deberá retirarse del Servicio Local de Educación Pública, dentro del plazo de seis meses, contado desde la fecha en que se le notifique la resolución por la cual se declare su irrecuperabilidad. Si transcurrido este plazo el empleado no se retirare, procederá la declaración de vacancia del cargo.
 
@@ -454,7 +410,7 @@ Los asistentes de la educación tendrán derecho a que se respeten las funciones
 
 Asimismo, el director del establecimiento educacional podrá, excepcionalmente, encomendar labores determinadas, distintas de las estipuladas en el contrato, a uno o más asistentes de la educación para permitir la normal prestación del servicio educacional o para facilitar el desarrollo de actividades extracurriculares, siempre y cuando estas labores correspondan a la misma categoría de asistentes de la educación en la que se encuentra contratado, correspondan exclusivamente a funciones propias del servicio educacional y se deban ejecutar dentro de la jornada ordinaria de trabajo.
 
-Excepcionalmente, ante la ausencia transitoria de un docente, los asistentes de la educación profesionales preferentemente psicopedagogos podrán ser destinados a cubrir una determinada clase, con el propósito de mantener el correcto funcionamiento de los establecimientos educacionales.
+Excepcionalmente, ante la ausencia transitoria de un docente, los asistentes de la educación profesionales podrán ser destinados a cubrir una determinada clase, con el propósito de mantener el correcto funcionamiento de los establecimientos educacionales.
 
 Con todo, en ningún caso a los asistentes de la educación se les podrá encomendar labores que pongan en riesgo su integridad física. La infracción a esta norma será considerada grave para los efectos establecidos en el artículo 73 de la ley N° 20.529, sin perjuicio de la responsabilidad civil o penal que pudiera configurarse.
 
@@ -474,9 +430,9 @@ El empleador deberá proporcionar a los asistentes de la educación una infraest
 
 Los asistentes de la educación gozarán de feriado por el período de interrupción de las actividades escolares entre los meses de enero y febrero o el que medie entre el término del año escolar y el comienzo del siguiente, así como durante la interrupción de las actividades académicas en la época invernal de cada año. Durante dichas interrupciones, podrán ser convocados a cumplir actividades de capacitación, hasta por un período de tres semanas consecutivas.
 
-Sin perjuicio del inciso anterior, aquellos asistentes de la educación que desarrollen labores esenciales para asegurar la correcta prestación del servicio educacional al inicio del año escolar, las que incluirán, a lo menos, aquellas de reparación, mantención, aseo y seguridad del establecimiento educacional, así como aquellas que determine mediante acto fundado el Director Ejecutivo, podrán ser llamados a cumplir con dichas tareas, en cuyo caso se les compensará en cualquier otra época del año los días trabajados.
+Sin perjuicio del inciso anterior, aquellos asistentes de la educación que desarrollen labores esenciales para asegurar la correcta prestación del servicio educacional al inicio del año escolar, las que incluirán, a lo menos, aquellas de reparación, mantención, aseo y seguridad del establecimiento educacional, así como aquellas que determine mediante acto fundado el Director Ejecutivo, sólo tendrán derecho por cada año calendario, a un feriado de quince días hábiles para los asistentes con menos de quince años de servicio, de veinte días hábiles para los asistentes con quince o más años de servicio y menos de veinte, y de veinticinco días hábiles para los asistentes con veinte o más años de servicio. Los asistentes de la educación a que se refiere este inciso, que residan en las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Aysén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena, y en las provincias de Chiloé y Palena de la Región de Los Lagos, y en las comunas de Isla de Pascua y Juan Fernández, tendrán derecho a gozar de su feriado aumentado en cinco días hábiles.
 
-Con todo, se podrá fijar como fecha de término del feriado estival, cinco días hábiles previos al inicio del año escolar.
+Para efectos del inciso inmediatamente precedente, no se considerarán como días hábiles los días sábado y se computarán los años trabajados como dependiente, en cualquier calidad jurídica, sea en el sector público o privado.
 
 Para el caso del personal de los jardines infantiles financiados por la Junta Nacional de Jardines Infantiles vía transferencia de fondos, la capacitación se realizará preferentemente durante el mes de enero.
 
@@ -528,7 +484,7 @@ Los asistentes de la educación que se desempeñen en establecimientos educacion
 
 El monto de la asignación de experiencia se determinará calculando un 2% sobre la remuneración que se indica en el inciso siguiente, por períodos de dos años, con un límite de treinta años.
 
-La remuneración que se utilizará como base de cálculo del porcentaje señalado en el inciso anterior será la remuneración bruta mensual mínima establecida en el inciso segundo del artículo 43 para cada una de las categorías, según corresponda. En el caso de los asistentes de la educación pertenecientes a la categoría del artículo 6, dicho porcentaje se calculará sobre 3,5 veces del sueldo base del grado 23 del estamento de profesionales de la Escala Única de Sueldos del decreto ley N° 249, de 1973.
+La remuneración que se utilizará como base de cálculo del porcentaje señalado en el inciso anterior será la remuneración bruta mensual mínima establecida en el inciso segundo del artículo 43 para cada una de las categorías, según corresponda. En el caso de los asistentes de la educación pertenecientes a la categoría del artículo 6, dicho porcentaje se calculará sobre 3,5 veces del sueldo base del grado 23 del estamento de profesionales de la Escala Única Sueldo del decreto ley N° 249, de 1974.
 
 También tendrán derecho a la asignación de experiencia los asistentes de la educación de los establecimientos regidos por el decreto ley N° 3.166, de 1980. En este caso, los años de servicio se computarán en el mismo establecimiento.
 
@@ -547,8 +503,6 @@ Las remuneraciones de los asistentes de la educación que se desempeñen en los 
 a) La asignación del artículo 3 de la ley N° 20.905, en la medida que cumplan los requisitos para percibirla.
 
 b) La asignación de experiencia del artículo 48, siempre que se encuentren en las categorías técnicas, administrativas y auxiliares de los artículos 7, 8 y 9, respectivamente, y cumplan los demás requisitos.
-
-Los asistentes de la educación señalados en el inciso primero, tendrán derecho al bono de desempeño laboral del artículo 50, en la medida que cumplan los requisitos para percibirlo.
 
 ### Párrafo 3º
 
@@ -638,16 +592,6 @@ A fin de reconocer la esencial labor de los asistentes de la educación en el pr
 
 El mayor gasto fiscal que irrogue la aplicación de esta ley durante su primer año presupuestario de vigencia se financiará con cargo al presupuesto del Ministerio de Educación y, en lo que faltare, con cargo a la Partida Presupuestaria Tesoro Público. En los años siguientes los recursos se consultarán en la Ley de Presupuestos respectiva.
 
-#### Artículo 56
-
-Las disposiciones del Párrafo 1° del Título III de la presente ley se aplicarán a los asistentes de la educación que prestan servicios en educación parvularia, básica y media, en establecimientos particulares subvencionados regidos conforme al decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998.
-
-Lo dispuesto en el inciso anterior se aplicará también a los asistentes de la educación que prestan servicios en educación parvularia, básica y media, en establecimientos educacionales regidos por el decreto ley N° 3.166, del Ministerio de Educación Pública, de 1980.
-
-La facultad establecida en el inciso segundo del artículo 41, para estos casos, será ejercida por el director de cada establecimiento educacional.
-
-> **Nota.** El artículo único de la Ley 21199, publicada el 23.01.2020, interpreta éste artículo en el sentido de declarar que los artículos 38, 39, 40 y 41 de la presente ley, benefician en cuanto a sus efectos a los asistentes de la educación, entendidos como tales quienes colaboran en el desarrollo del proceso de enseñanza y aprendizaje de los estudiantes y la correcta prestación del servicio educacional, a través de funciones de carácter profesional distintas de aquellas establecidas en el artículo 5º del decreto con fuerza de ley Nº 1, del Ministerio de Educación, promulgado el año 1996 y publicado el año 1997; sean del estamento técnico, administrativo o auxiliar, realicen sus tareas en aula o fuera de ellas y que presten servicios en educación parvularia, básica y media, en establecimientos que reciban subvención por parte del Estado, cualquiera sea su forma de organización, conforme al decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998.
-
 DISPOSICIONES TRANSITORIAS
 
 #### Artículo primero
@@ -666,6 +610,8 @@ Lo dispuesto en el artículo 12 no será aplicable a los procesos de reclutamien
 
 Sin perjuicio de lo señalado en el artículo 3 de la presente ley, los asistentes de la educación que sean traspasados a un servicio local no perderán sus derechos adquiridos y tendrán derecho a conservar las cláusulas del instrumento colectivo al que se encuentren afectos, según lo dispuesto en el artículo 325 del Código del Trabajo.
 
+En el caso de los establecimientos educacionales regidos por el decreto ley Nº 3.166, de 1980, las disposiciones de la presente ley comenzarán a aplicarse al personal asistente de la educación que en ellos se desempeña, a partir de la fecha en que los establecimientos educacionales que correspondan a su territorio sean traspasados al Servicio Local de Educación Pública, con excepción de las normas señaladas en el inciso anterior, que se les aplicarán cuando correspondan, en la oportunidad que el mismo inciso señala.
+
 Con el objeto de cumplir con lo dispuesto en el inciso primero, las corporaciones municipales deberán remitir al Ministerio de Educación los instrumentos colectivos que se encontraren vigentes con una anticipación de, al menos, seis meses antes de la entrada en funcionamiento del servicio local al cual deban traspasar el servicio educacional.
 
 #### Artículo cuarto
@@ -676,15 +622,9 @@ No obstante lo señalado en el inciso anterior, a los asistentes de la educació
 
 a) Desde la publicación de la presente ley, el artículo 42 y los numerales 2) y 3) del artículo 52.
 
-b) A partir del 1 de enero del año 2019, el Párrafo 2° del Título I y los artículos 13, 14, 39 y 41. Respecto a lo establecido en el inciso segundo del artículo 41, el llamado a cumplir labores esenciales requerirá el acuerdo del trabajador.
+b) A partir del 1 de enero del año 2019, el Párrafo 2° del Título I y los artículos 13, 14, 39 y 41, inciso primero.
 
 c) A contar de la fecha señalada en el artículo séptimo transitorio de la presente ley, el artículo 50.
-
-d) A contar del 1 de marzo de 2026, el artículo 10. A partir de esa fecha el ingreso de los asistentes de la educación a una dotación se realizará mediante mecanismos de reclutamiento y selección públicos, inclusivos y transparentes, los que deberán considerar criterios objetivos de ingreso a cada uno de los cargos que se provean, conforme a los perfiles de competencias laborales previamente definidos de acuerdo con lo establecido en el artículo 10.
-
-e) A contar del 1 de marzo de 2026, los artículos 17, 38 y 40. Con todo, en la aplicación del artículo 40 no se considerará la ejecución de nuevas obras de infraestructura.
-
-En el caso de los establecimientos educacionales regidos por el decreto ley Nº 3.166, del Ministerio de Educación Pública, de 1980, las disposiciones de la presente ley comenzarán a aplicarse al personal asistente de la educación que en ellos se desempeña, a partir de la fecha en que los establecimientos educacionales que correspondan a su territorio sean traspasados al Servicio Local de Educación Pública, con excepción de las normas señaladas en el inciso anterior, que se les aplicarán cuando correspondan.
 
 #### Artículo quinto
 
@@ -704,9 +644,7 @@ El reglamento señalado en el inciso anterior deberá dictarse dentro de los cie
 
 #### Artículo octavo
 
-Transitoriedad sobre término de relación laboral. La causal de término de la relación laboral establecida en el literal f) del artículo 33 no será aplicable al personal que tenga contrato vigente con una municipalidad o corporación municipal a la fecha de entrada en vigencia de la misma y sea traspasado a un servicio local.
-
-La causal de término establecida en el literal g) del artículo 33 será aplicable a los asistentes de la educación que se desempeñen en establecimientos educacionales, dependientes de aquellas municipalidades o corporaciones municipales que continúen prestando el servicio educacional.
+Transitoriedad sobre término de relación laboral. Las causales de término de la relación laboral establecidas en los literales f) y g) del artículo 33 de esta ley no serán aplicables al personal que tenga contrato vigente con una municipalidad o corporación municipal a la fecha de entrada en vigencia de la misma y sea traspasado a un servicio local.
 
 A contar del 1 de enero del año siguiente a la aprobación del Plan de Desarrollo Educativo Municipal que se establezca después de la fecha de publicación de esta ley, no será aplicable lo dispuesto en el inciso primero del artículo 161 del Código del Trabajo a los asistentes de establecimientos educacionales administrados directamente por las municipalidades o por corporaciones privadas sin fines de lucro creadas por éstas para administrar la educación municipal. A contar de dicha fecha, el contrato de trabajo del asistente de la educación de las entidades antes indicadas también podrá terminar a consecuencia de los cambios, ajustes y redistribución que se efectúe a la dotación de asistentes de la educación de la comuna, tanto en su tamaño, composición o redistribución entre establecimientos de la misma, a causa de:
 
@@ -754,11 +692,9 @@ cuarto.- Mientras no opere el traspaso del servicio educacional, las organizacio
 
 quinto.- Si al momento de constituirse los Servicios Locales de Educación Pública existe una sobredotación de asistentes de la educación, los procesos de desvinculación contemplarán, entre otros, los siguientes criterios:
 
-a) La renuncia voluntaria del trabajador.
+a) Tener menor antigüedad en la función respectiva.
 
-b) Tener menor antigüedad en la función respectiva.
-
-c) Proceder de un establecimiento educacional dependiente de una municipalidad o corporación municipal con sobredotación.".
+b) Proceder de un establecimiento educacional dependiente de una municipalidad o corporación municipal con sobredotación.".
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

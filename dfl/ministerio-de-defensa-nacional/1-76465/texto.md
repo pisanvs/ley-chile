@@ -150,9 +150,9 @@ C. Escalafón de Intendencia.
 
 Los escalafones de Material de Guerra e Intendencia comprenderán los grados jerárquicos de Alférez a General de Brigada.
 
-D. Escalafón del Servicio Femenino Militar.
+D. Escalafón del Servicio de Personal.
 
-Este escalafón comprenderá los grados jerárquicos de Alférez a Coronel.
+Este escalafón comprenderá los grados jerárquicos de Alférez a General de Brigada.
 
 ### II. OFICIALES DE LOS SERVICIOS:
 
@@ -350,7 +350,7 @@ K. Escalafón de Servicios Generales.
 
 Este escalafón comprenderá los grados jerárquicos de Cabo a Suboficial.
 
-L. Escalafón del Servicio Femenino Militar.
+L. Escalafón del Servicio de Personal.
 
 Este escalafón comprenderá los grados jerárquicos de Cabo a Suboficial Mayor.
 
@@ -802,7 +802,7 @@ Intendencia:
 
 - Coronel 5 años
 
-3. Escalafón del Servicio Femenino Militar:
+3. Escalafón del Servicio de Personal:
 
 - Alférez 1 año
 
@@ -815,6 +815,8 @@ Intendencia:
 - Mayor 5 años
 
 - Teniente Coronel 5 años
+
+- Coronel 5 años
 
 B. OFICIALES DE LOS SERVICIOS:
 
@@ -2754,9 +2756,11 @@ Lo dispuesto en el inciso anterior, será igualmente aplicable al personal que r
 
 #### Artículo 201
 
-El personal sólo podrá ser llamado al país mediante orden ministerial y por un plazo no superior a treinta días. Si por razones de servicio fuera necesaria su permanencia en el país por un plazo mayor, el llamado o prórroga de su estada deberá efectuarse por decreto supremo. En ambos casos, tendrá derecho a pasajes y a percibir sus remuneraciones como si continuara en comisión en el extranjero. En ningún caso, la comisión de este personal en el país podrá ser superior a tres meses en el año.
+El personal sólo podrá ser llamado al país mediante orden ministerial y por un plazo no superior a treinta días. Si por razones de servicio fuera necesaria su permanencia en el país por un plazo mayor, el llamado o prórroga de su estada deberá efectuarse por decreto supremo. En ambos casos, tendrá derecho a pasajes y a percibir sus remuneraciones como si continuara en comisión en el extranjero. Durante la permanencia en territorio nacional, este personal gozará de viáticos, los cuales le serán calculados sobre sus remuneraciones que le corresponde percibir en Chile y pagados en moneda nacional.
 
-Durante la permanencia en territorio nacional, este personal gozará de viáticos, los cuales le serán calculados sobre sus remuneraciones que le corresponde percibir en Chile y pagados en moneda nacional.
+El Ministro de Defensa Nacional podrá delegar en el Comandante en Jefe o en el Jefe del Estado Mayor Conjunto, la facultad señalada en el inciso anterior, para el caso que el personal en comisión de servicio en el extranjero sea llamado al país por un plazo no superior a treinta días.
+
+En ningún caso, la comisión de este personal en el país podrá ser superior a tres meses en el año.
 
 #### Artículo 202
 
