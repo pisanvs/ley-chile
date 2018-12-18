@@ -26,7 +26,7 @@ Oriente 8 al 19 de noviembre de 2018 Km 14600 Km 15600
 
 Poniente 20 de noviembre al
 
-1 de diciembre de 2018 Km 14600 Km 15600
+13 de diciembre de 2018 Km 14600 Km 15600
 
 2.- Podrán circular excepcionalmente en los tramos de calzada señalados, los vehículos de emergencia, los destinados a cumplir funciones en las obras relacionadas con el proyecto mencionado y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicados en dicho tramo.
 
