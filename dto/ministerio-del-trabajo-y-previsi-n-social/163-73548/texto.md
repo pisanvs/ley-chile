@@ -172,7 +172,7 @@ que los recursos así lo permitan un Bono de Invierno
 
 a todos los afiliados al Servicio de Bienestar,
 
-pagadero durante el mes de julio de cada año
+pagadero durante el mes de julio de cada año.
 
 f) Acuerdo de Unión Civil. Se concederá una
 
@@ -182,7 +182,69 @@ Unión Civil. Si ambos estuvieran afiliados al
 
 Servicio, cada uno de ellos tendrá derecho a
 
-este beneficio
+este beneficio.
+
+g) Bono de Estudios. Se otorgará en la medida
+
+que los recursos así lo permitan un Bono de Estudios,
+
+los postulantes deberán cumplir los siguientes
+
+requisitos:
+
+1) El afiliado deberá tener 3 o más meses de
+
+antigüedad en el Servicio de Bienestar a la fecha de
+
+pago del Bono. Si se incorpora durante el año, debe
+
+cumplir el tiempo indicado y posteriormente realizar
+
+los trámites para su cancelación, en un plazo máximo
+
+de 6 meses, de acuerdo a lo estipulado en el artículo
+
+24º del Reglamento del Servicio de Bienestar. Para
+
+cumplir el plazo indicado se contará como inicio del
+
+año escolar el mes de marzo y en el caso de los
+
+Universitarios se puede considerar como inicio y/o
+
+matrícula no solo la del primer semestre sino que
+
+igualmente a quienes hayan comenzado su año académico
+
+el 2º Semestre.
+
+2) El afiliado o su carga familiar no podrán
+
+tener otro beneficio vigente, que consista en un Bono
+
+de Estudios.
+
+3) Presentar Certificado de Alumno regular del
+
+año en curso.
+
+4) El beneficio se concederá una vez al año si
+
+los estudiantes se encuentran cursando desde: Segundo
+
+Nivel de Transición o Kínder hasta Enseñanza Superior,
+
+incluyendo licenciaturas, magíster, doctorados y/o
+
+todo estudio que entregue un título profesional o un
+
+grado académico. Se excluyen los diplomados, cursos
+
+o similares por considerarse una capacitación.
+
+5) Tope edad máxima por hijo para entrega del
+
+beneficio es 24 años.
 
 El Consejo Administrativo fijará anualmente los
 
@@ -256,7 +318,7 @@ El Bienestar podrá organizar y financiar en beneficio de los afiliados y de sus
 
 #### Artículo 12º
 
-El Bienestar podrá organizar y financiar, según lo determine el Consejo, la celebración de la fiesta de Navidad para los afiliados y sus cargas familiares, Día del Niño, de la Madre, del Padre o de la Familia y Promoción del Servicio de Bienestar a través de actividades recreativas, saludarles, expositivas, de vinculación, según lo determine el Consejo Administrativo. Asimismo podrá colaborar en la organización y financiamiento de la celebración de las Fiestas Patrias, según lo determine el Consejo.
+El Bienestar podrá organizar y financiar, según lo determine el Consejo, la celebración de la fiesta de Navidad para los afiliados y sus cargas familiares, Día del Niño, de la Madre, del Padre o de la Familia y Promoción del Servicio de Bienestar a través de actividades recreativas, saludables, expositivas, según lo determine el Consejo Administrativo. Asimismo podrá colaborar en la organización y financiamiento de la celebración de las Fiestas Patrias, según lo determine el Consejo.
 
 ## Título IV
 
