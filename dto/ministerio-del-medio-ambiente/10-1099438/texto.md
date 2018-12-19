@@ -50,7 +50,7 @@ Decreto:
 
 #### Artículo 1
 
-Declaración Área Marina Costera Protegida de Múltiples Usos "Mar de Juan Fernández". Declárase el Área Marina Costera Protegida de Múltiples Usos denominada "Mar de Juan Fernández", que comprende una superficie aproximada de 11.027,66 km2. Dicha área se encuentra ubicada en el Archipiélago del mismo nombre, a 360 mn (670 km) al oeste de la ciudad de Valparaíso, en la comuna de Juan Fernández, en la provincia de Valparaíso, Región de Valparaíso.
+Declaración Área Marina Costera Protegida de Múltiples Usos "Mar de Juan Fernández". Declárase el Área Marina Costera Protegida de Múltiples Usos denominada "Mar de Juan Fernández", que comprende una superficie aproximada de 24.000 km2. Dicha área se encuentra ubicada en el Archipiélago del mismo nombre, a 360 mn (670 km) al oeste de la ciudad de Valparaíso, en la comuna de Juan Fernández, en la provincia de Valparaíso, Región de Valparaíso.
 
 Se excluyen de la superficie del Área Marina Costera Protegida de Múltiples Usos las áreas que en el artículo siguiente se declaran como Parques Marinos, así como las destinaciones y concesiones marítimas identificadas en oficio N° 395, de 21 de enero de 2014, de la Subsecretaría para las Fuerzas Armadas.
 
