@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 3 de septiembre de 2018 y hasta el 2 de diciembre de 2018, en Camino Cruce G-78 - La Colonia - Cruce G-384 (Ruta G-394), entre Balmaceda (Ruta G-78) y Peñaflor, comuna de Peñaflor.
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados, desde el 3 de septiembre de 2018 y hasta el 16 de enero de 2019, en Camino Cruce G-78 - La Colonia - Cruce G-384 (Ruta G-394), entre Balmaceda (Ruta G-78) y Peñaflor, comuna de Peñaflor.
 
 Podrán circular excepcionalmente en el tramo señalado los vehículos de emergencia, los destinados a cumplir funciones en obras del proyecto de conservación mencionado y aquellos vehículos que requieran ingresar o egresar hacia o desde su lugar de residencia o estacionamiento.
 
