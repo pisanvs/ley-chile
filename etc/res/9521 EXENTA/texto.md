@@ -32,11 +32,11 @@ Resolución:
 
 Disposiciones Generales
 
-1. Llámase a postulación y proceso de selección en condiciones especiales para el otorgamiento de subsidios del Programa de Habitabilidad Rural, del Título II Postulación Directa, en la alternativa de postulación individual o colectiva, para el desarrollo de proyectos en las Tipologías de Mejoramiento de Vivienda Existente, Ampliación de Vivienda Existente, Mejoramiento del Entorno Inmediato y Construcción y/o Mejoramiento del Equipamiento y Entorno Comunitario, destinado a familias que cuenten con Expediente de Postulación aprobado por el Serviu hasta la fecha de cierre del llamado y hasta agotar la totalidad de los recursos citados en el resuelvo número 25 de la presente resolución. El llamado regulado por la presente resolución se abrirá al día siguiente de la publicación en el Diario Oficial de dicha resolución y será cerrado el día viernes 21 de diciembre del año en curso.
+1. Llámase a postulación y proceso de selección en condiciones especiales para el otorgamiento de subsidios del Programa de Habitabilidad Rural, del Título II Postulación Directa, en la alternativa de postulación individual o colectiva, para el desarrollo de proyectos en las Tipologías de Mejoramiento de Vivienda Existente, Ampliación de Vivienda Existente, Mejoramiento del Entorno Inmediato y Construcción y/o Mejoramiento del Equipamiento y Entorno Comunitario, destinado a familias que cuenten con Expediente de Postulación aprobado por el Serviu hasta la fecha de cierre del llamado y hasta agotar la totalidad de los recursos citados en el resuelvo número 25 de la presente resolución. El llamado regulado por la presente resolución se abrirá al día siguiente de la publicación en el Diario Oficial de dicha resolución y será cerrado el día viernes 28 de diciembre del año en curso.
 
 2. Podrán participar familias residentes de localidades rurales o urbanas con menos de 5 mil habitantes, de acuerdo a los datos demográficos que consigna el Censo de Población y Vivienda del año 2002, condición que se verificará a partir del domicilio acreditado en el Registro Social de Hogares, y siempre que cuenten con asesoría otorgada por Entidades de Gestión Rural con Convenio Regional de Asistencia Técnica vigente. Para efectos del presente Llamado podrán presentar postulaciones de familias que residan en la Región de Ñuble las Entidades de Gestión Rural que tengan Convenio Marco Regional vigente con la Seremi de la Región del Biobío.
 
-3. No podrán presentar postulaciones al presente Llamado, Entidades de Gestión Rural que, a la fecha de publicación de esta resolución en el Diario Oficial, no hayan ingresado a Serviu los proyectos habitacionales correspondientes a llamados del año 2016 o 2017 que no cuenten con prórroga vigente, o bien que presenten dos o más prórrogas vencidas. Esta restricción rige para proyectos de cualquier modalidad y tipo de postulación individual o colectiva. Corresponderá a Serviu informar a más tardar al día 30 noviembre de 2018, mediante oficio dirigido al Jefe de la División de Política Habitacional, la nómina de Entidades de Gestión Rural que se encuentren inhabilitadas para postular por tales condiciones.
+3. No podrán presentar postulaciones al presente Llamado, Entidades de Gestión Rural que, a la fecha de publicación de esta resolución en el Diario Oficial, no hayan ingresado a Serviu los proyectos habitacionales correspondientes a llamados del año 2016 o 2017 que no cuenten con prórroga vigente, o bien que presenten dos o más prórrogas vencidas. Esta restricción rige para proyectos de cualquier modalidad y tipo de postulación individual o colectiva. Corresponderá a Serviu informar a más tardar al cierre del presente llamado, mediante oficio dirigido al Jefe de la División de Política Habitacional, la nómina de Entidades de Gestión Rural que se encuentren inhabilitadas para postular por tales condiciones.
 
 4. Los postulantes deberán encontrarse inscritos en el Registro Social de Hogares y acreditar Calificación Socioeconómica en un tramo de hasta 90%, información que deberá ser visualizada en la plataforma Rukan de este Ministerio. Para todos los efectos a que haya lugar, se considera como residencia del postulante el domicilio consignado en el Registro Social de Hogares. Sin perjuicio de lo señalado, tratándose de familias que postulen exclusivamente a la tipología "Construcción y/o Mejoramiento del Equipamiento y Entorno Comunitario" no les serán aplicables las exigencias señaladas en el presente resuelvo, pudiendo postular con calificación socioeconómica hasta el 100%.
 
@@ -76,7 +76,7 @@ Delégase en los respectivos Secretarios Regionales Ministeriales de Vivienda y 
 
 Del pago de honorarios por servicio de organización de la demanda
 
-17. Los honorarios correspondientes al servicio Organización de la Demanda, que consigna la resolución exenta Nº 3.131, (V. y U.), de fecha 16 de mayo de 2016, citada en el visto e) de la presente resolución, deberán ser pagados a la Entidad de Gestión Rural contra el ingreso a Serviu de la totalidad de los antecedentes requeridos para la evaluación del proyecto.
+17. Los honorarios correspondientes al servicio Organización de la Demanda, que consigna la resolución exenta Nº 3.131, (V. y U.), de fecha 16 de mayo de 2016, citada en el visto e) de la presente resolución, deberán ser pagados a la Entidad de Gestión Rural contra el ingreso a Serviu de la totalidad de los antecedentes requeridos para la evaluación del proyecto, de acuerdo a lo establecido en el artículo 52 del DS N° 10 (V. y U.), de 2015, situación que deberá ser verificada y validada por Serviu.
 
 Del proceso de evaluación de postulaciones
 
@@ -92,9 +92,7 @@ d) Los resultados, tales como observaciones, aprobación o rechazo que se formul
 
 e) La Entidad de Gestión Rural deberá responder las observaciones que se formulen al proyecto, en un solo acto y dentro del plazo establecido en la presente resolución.
 
-19. Instrúyanse los siguientes plazos para el desarrollo del proceso de evaluación de cada expediente:
-
-.
+19. Corresponderá a cada Serviu informar a las Entidades de Gestión Rural los plazos para el desarrollo de la evaluación de los expedientes de postulación que participen en el presente Llamado.
 
 Factores de puntaje y selección
 
