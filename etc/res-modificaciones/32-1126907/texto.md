@@ -1,32 +1,34 @@
-ESTABLECE INDICADORES ACADÉMICOS OBJETIVOS EN EL MARCO DE LA ASIGNACIÓN PRESUPUESTARIA "APORTE PARA FOMENTO DE INVESTIGACIÓN"
+MODIFICA RESOLUCIÓN Nº 67, DE 2016, DEL MINISTERIO DE EDUCACIÓN, QUE ESTABLECE INDICADORES ACADÉMICOS OBJETIVOS EN EL MARCO DE LA ASIGNACIÓN PRESUPUESTARIA "APORTE PARA FOMENTO DE INVESTIGACIÓN"
 
-Núm. 67.- Santiago, 10 de marzo de 2016.
+Núm. 32.- Santiago, 24 de mayo de 2018.
 
 Considerando:
 
-Que, la Ley N° 20.882, de Presupuestos del Sector Público para el año 2016, en su Partida 09, Capítulo 01, Programa 30, Subtítulo 24, Ítem 03, Asignación 853, consigna un Aporte para Fomento de la Investigación.
+Que, la ley Nº 21.053, de Presupuestos del Sector Público para el año 2018, en su Partida 09, Capítulo 01, Programa 30, Subtítulo 24, Ítem 03, Asignación 853, consigna un Aporte para Fomento de Investigación.
 
-Que, la Glosa 18 del Programa 30, antes mencionado, señala que estos recursos serán asignados a las universidades que no se encuentren incluidas en el Art. 1° DFL (Ed.) N° 4, de 1981, que se incorporen al Financiamiento del acceso gratuito a las Instituciones de Educación Superior 2016, establecido en la asignación 24.03.201, de la Ley de Presupuestos antes citada. Asimismo, indica que estos recursos serán asignados utilizando indicadores académicos objetivos, que serán establecidos mediante resolución del Ministerio de Educación visada por el Ministerio de Hacienda.
+Que, la glosa 15 del Programa 30, antes mencionado, señala que estos recursos se contemplan para ser asignados a las universidades que no se encuentren incluidas en el Art. 1° DFL (Ed.) N° 4 de 1981, que participen del acceso gratuito a las Universidades, establecido en la asignación 24.03.198, de la Ley de Presupuestos antes citada. Adicionalmente, establece que estos recursos serán asignados según los términos establecidos en la resolución Nº 67, de 2016, del Ministerio de Educación y sus modificaciones.
 
-Que, en virtud de lo anterior, es necesario dictar el acto administrativo correspondiente que establezca indicadores académicos objetos, en el marco de la asignación presupuestaria "Aporte para Fomento de Investigación", y
+Que, con la finalidad de adecuar los indicadores académicos de conformidad con las instituciones destinatarias del Aporte de Fomento de Investigación, y para efectos de dar cumplimiento con lo dispuesto en la Ley Nº 21.053, resulta necesario modificar la resolución precitada, razón por la cual se dicta el presente acto administrativo.
 
 Visto:
 
-Lo dispuesto en la Ley Nº 19.880 que establece las Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; en la Ley Nº 20.882, de Presupuestos del Sector Público para el año 201, en su Partida 09, Capítulo 01, Programa 30, Subtítulo 24, Ítem 03, Asignación 853, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija Normas sobre Exención del Trámite de Toma de Razón.
+Lo dispuesto en la ley Nº 19.880 que establece las Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; en la ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia; en la ley Nº 18.956, que Reestructura el Ministerio de Educación Pública; en la Ley Nº 21.053, de Presupuestos del Sector Público para el año 2018; y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija Normas sobre Exención del Trámite de Toma de Razón.
 
 Resuelvo:
 
-#### Artículo 1°
+#### Artículo único
 
-Objeto
+Modifíquese la resolución Nº 67, de 2016, del Ministerio de Educación, en el sentido que indica:
 
-La asignación "Aporte para Fomento de Investigación", tiene por objeto entregar recursos a las instituciones beneficiarias sobre la base de indicadores académicos objetivos, para fomentar la investigación, a través del desarrollo de las funciones propias de las universidades, particularmente aquellas distintas a la docencia.
+1) Reemplázase el artículo 2º por el siguiente:
 
 #### Artículo 2º
 
 Beneficiarios
 
-Los recursos se asignarán a las universidades que no se encuentren incluidas en el Art. 1º DFL (Ed.) Nº 4 de 1981, que participen del Financiamiento del acceso gratuito a las Universidades establecido en la asignación 24.03.198, del presupuesto del año correspondiente.
+Los recursos se asignarán a las universidades que no se encuentren incluidas en el Art. 1º DFL (Ed.) Nº 4 de 1981, que participen del Financiamiento del acceso gratuito a las Universidades establecido en la asignación 24.03.198, del presupuesto del año correspondiente.".
+
+2) Reemplácese el artículo 3 por el siguiente:
 
 #### Artículo 3º
 
@@ -106,30 +108,6 @@ c) En tercer lugar, se calculará para cada universidad beneficiaria, la fracci�
 
 d) El monto correspondiente a cada universidad beneficiaria se obtendrá mediante la multiplicación de la fracción obtenida en el literal anterior por un 10% del presupuesto del fondo.
 
-Anótese, tómese razón y publíquese.- Adriana Delpiano Puelma, Ministra de Educación.
+Anótese, tómese razón y publíquese.- Gerardo Varela Alfonso, Ministro de Educación.
 
-Lo que transcribo a usted para su conocimiento.- Saluda atentamente a Ud., Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
-
-CONTRALORÍA GENERAL DE LA REPÚBLICA
-
-División Jurídica
-
-Cursa con alcances la resolución N° 67, de 2016, del Ministerio de Educación
-
-Nº 31.854.- Santiago, 28 de abril de 2016.
-
-Esta Contraloría General ha dado curso a la resolución del epígrafe, que en cumplimiento de lo dispuesto por la glosa 18 del programa Educación Superior del presupuesto de la Subsecretaría de Educación vigente para este año, establece indicadores académicos objetivos para la distribución de los recursos contemplados en la asignación 24.03.853 Aporte para Fomento de Investigación, por cuanto se encuentra ajustada a derecho.
-
-No obstante, cumple con hacer presente que ese servicio, en lo sucesivo, deberá inutilizar, con la firma y timbre del ministro de fe respectivo, las páginas en blanco de los instrumentos que se remitan para toma de razón, tal como se ha manifestado, entre otros, en los dictámenes Nos 16.548 y 65.301, ambos de 2015, y 21.870, de 2016, de este Órgano Fiscalizador.
-
-Adicionalmente, se debe precisar que la ley N° 20.882 aprobó el presupuesto de ingresos y gastos del sector público para el año 2016, anualidad que aparece individualizada de manera incompleta en los vistos del documento examinado.
-
-Con los alcances que anteceden se ha tomado razón del acto administrativo del rubro.
-
-Saluda atentamente a Ud., Jorge Bermúdez Soto, Contralor General de la República.
-
-A la señora
-
-Ministra de Educación
-
-Presente.
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a Ud., Raúl Figueroa Salas, Subsecretario de Educación.
