@@ -28,11 +28,11 @@ La necesidad de establecer condiciones de postulación, selección y operaciones
 
 Resolución:
 
-1. Llámase a postulación y proceso de selección en condiciones especiales para el otorgamiento de subsidios del Programa de Habitabilidad Rural, del Título II, en la alternativa de postulación individual o colectiva, para el desarrollo de proyectos de las Tipologías de Construcción de Conjunto Habitacional o Construcción en Sitio del Residente, destinado a familias que cumplan con las condiciones del presente Llamado, cuyos expedientes se encuentren en estado hábil hasta la fecha de cierre del Llamado y hasta agotar la totalidad de los recursos citados en el resuelvo número 28 de la presente resolución. El plazo de postulación al llamado regulado por la presente resolución se abrirá al día siguiente de la publicación en el Diario Oficial de dicha resolución y será cerrado el día viernes 21 de diciembre del año en curso.
+1. Llámase a postulación y proceso de selección en condiciones especiales para el otorgamiento de subsidios del Programa de Habitabilidad Rural, del Título II, en la alternativa de postulación individual o colectiva, para el desarrollo de proyectos de las Tipologías de Construcción de Conjunto Habitacional o Construcción en Sitio del Residente, destinado a familias que cumplan con las condiciones del presente Llamado, cuyos expedientes se encuentren en estado hábil hasta la fecha de cierre del Llamado y hasta agotar la totalidad de los recursos citados en el resuelvo número 28 de la presente resolución. El plazo de postulación al llamado regulado por la presente resolución se abrirá al día siguiente de la publicación en el Diario Oficial de dicha resolución y será cerrado el día viernes 28 de diciembre del año en curso.
 
 2. Podrán participar familias residentes de localidades rurales o urbanas con menos de 5 mil habitantes, de acuerdo a los datos del Censo de Población y Vivienda del año 2002, condición que se verificará a partir del domicilio acreditado en el Registro Social de Hogares, y siempre que cuenten con asesoría otorgada por Entidades de Gestión Rural con Convenio Regional de Asistencia Técnica vigente. Para efectos del presente Llamado, podrán presentar postulaciones de familias que residan en la Región de Ñuble las Entidades de Gestión Rural que tengan Convenio Marco Regional vigente con la Seremi de la Región del Biobío.
 
-3. No podrán presentar postulaciones al presente Llamado Entidades de Gestión Rural que, a la fecha de publicación de esta resolución en el Diario Oficial, no hayan ingresado a la evaluación del Serviu los proyectos habitacionales de dos o más expedientes correspondientes a llamados del año 2016 o 2017, o bien que presenten dos o más expedientes con prórrogas vencidas. Esta restricción rige para proyectos de cualquier modalidad y tipo de postulación individual o colectiva. Corresponderá a Serviu informar a más tardar al día 30 de noviembre de 2018, mediante Oficio dirigido al Jefe de la División de Política Habitacional, la nómina de Entidades de Gestión Rural que se encuentren inhabilitadas para postular por tales condiciones.
+3. No podrán presentar postulaciones al presente Llamado Entidades de Gestión Rural que, a la fecha de publicación de esta resolución en el Diario Oficial, no hayan ingresado a la evaluación del Serviu los proyectos habitacionales de dos o más expedientes correspondientes a llamados del año 2016 o 2017, o bien que presenten dos o más expedientes con prórrogas vencidas. Esta restricción rige para proyectos de cualquier modalidad y tipo de postulación individual o colectiva. Corresponderá a Serviu informar a más tardar al cierre del presente llamado, mediante Oficio dirigido al Jefe de la División de Política Habitacional, la nómina de Entidades de Gestión Rural que se encuentren inhabilitadas para postular por tales condiciones.
 
 4. Para todos los efectos a que haya lugar, se considerará como residencia del postulante el domicilio que se consigne en el Registro Social de Hogares. Los postulantes deberán encontrarse inscritos en dicho Registro y acreditar calificación socioeconómica en un tramo de hasta el 60%, información que deberá ser visualizada en la plataforma Rukan de este Ministerio. En la tipología Conjunto Habitacional, hasta un 20% de sus integrantes podrá acreditar un máximo de 80% de Calificación Socioeconómica, debiendo dichos postulantes informar a Serviu la fuente de cofinanciamiento de su vivienda, el que no podrá originarse a partir de un prorrateo del total de subsidios habitacionales a obtener entre quienes integran el grupo.
 
@@ -76,13 +76,13 @@ Del monto de subsidio y del valor máximo de la vivienda
 
 Delégase en los respectivos Secretarios Regionales Ministeriales de Vivienda y Urbanismo, la facultad para asignar a través de una resolución, los subsidios complementarios a que se refiere el artículo 10 del DS Nº 10, V. y U., de 2015, tomando como base la evaluación técnica-económica y legal aprobada por el Serviu.
 
-17. Para efectos del subsidio complementario mencionado en la letra a) y c) del artículo 10 del DS Nº 10 (V. y U.), 2015, correspondiente a Mejoramiento de Terreno y Requerimientos Arquitectónicos Locales, solo procederá otorgar el monto correspondiente a la modalidad de Construcción de Vivienda Nueva, por un valor máximo y único de 100 UF, independiente del número de tipologías adicionales que ésta contemple.
+17. Para efectos del subsidio complementario mencionado en la letra a) y c) del artículo 10 del DS Nº 10 (V. y U.), 2015, correspondiente a Mejoramiento de Terreno y Requerimientos Arquitectónicos Locales, solo procederá otorgar el monto correspondiente a la modalidad de Construcción de Vivienda Nueva, por un valor máximo y único de 100 UF, independiente del número de tipologías adicionales que ésta contemple, de acuerdo a lo establecido en el artículo 52 del DS N° 10 (V. y U.), de 2015, situación que deberá ser verificada y validada por Serviu.
 
 18. El subsidio complementario para personas con discapacidad o movilidad reducida, contemplado en la letra d) del artículo 10 del DS Nº 10 (V. y U.), de 2015, podrá ser entregado solo una vez al postulante y su grupo familiar acreditado en el Registro Social de Hogares, independientemente de las modalidades o tipologías que contemple su proyecto, y siempre que con anterioridad a la presente selección no haya sido beneficiado con un subsidio equivalente a través de alguno de los otros programas habitacionales del Ministerio de Vivienda y Urbanismo.
 
 Del pago de honorarios por Servicio de Organización de la Demanda
 
-19. Los honorarios correspondientes al Servicio Organización de la Demanda, que consigna la resolución exenta citada en el visto d) de la presente resolución, deberán ser pagados a la Entidad de Gestión Rural contra el ingreso a Serviu de la totalidad de los antecedentes requeridos para la evaluación del proyecto.
+19. Los honorarios correspondientes al Servicio Organización de la Demanda, que consigna la resolución exenta citada en el visto d) de la presente resolución, deberán ser pagados a la Entidad de Gestión Rural contra el ingreso a Serviu de la totalidad de los antecedentes requeridos para la evaluación del proyecto, de acuerdo a lo establecido en el artículo 52 del DS N° 10 (V. y U.), de 2015, situación que deberá ser verificada y validada por Serviu.
 
 Del proceso de evaluación de postulaciones
 
@@ -98,9 +98,7 @@ d) Los resultados, tales como observaciones, aprobación o rechazo que se formul
 
 e) La Entidad de Gestión Rural deberá responder las observaciones que se formulen al proyecto, en un solo acto y dentro del plazo establecido en la presente resolución.
 
-21. Instrúyense los siguientes plazos para el desarrollo del proceso de evaluación de cada expediente:
-
-.
+21. Corresponderá a cada Serviu informar a las Entidades de Gestión Rural los plazos para el desarrollo de la evaluación de cada expediente de Postulación.
 
 Factores de puntaje y selección
 
