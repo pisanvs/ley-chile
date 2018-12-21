@@ -92,7 +92,7 @@ c) El Serviu de la región respectiva, directamente, o a través de personas nat
 
 22. El Director del Serviu de la Región respectiva estará facultado para autorizar el cambio de modalidad de aplicación del subsidio obtenido a las familias que así lo soliciten, quien podrá establecer las condiciones necesarias para ello, de acuerdo a cada caso, respetando los montos de la modalidad que corresponda según lo establecido en esta resolución, lo que deberá ser comunicado a la División de Política Habitacional del Ministerio de Vivienda y Urbanismo.
 
-23. Los recursos destinados a nivel nacional para la selección de las personas postulantes ascienden a 276.535.- Unidades de Fomento.
+23. Los recursos destinados a nivel nacional para la selección de las personas postulantes ascienden a 357.880.- Unidades de Fomento.
 
 24. El número de personas postulantes seleccionadas a nivel nacional alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en el resuelvo 23 de esta resolución exenta, estableciendo un monto promedio, sólo para los efectos de imputación, de 920 Unidades de Fomento, para la adquisición de vivienda construida, nueva o usada, en el mercado inmobiliario o la adscripción a una vivienda que sea parte de un proyecto de la Nómina de Oferta de Proyectos Habitacionales, y de 795 Unidades de Fomento para la modalidad de Construcción en Sitio Propio o en Densificación Predial.
 
