@@ -1,0 +1,45 @@
+MODIFICA CONCESIÓN DE SERVICIO INTERMEDIO DE TELECOMUNICACIONES, QUE ÚNICAMENTE PROVEA INFRAESTRUCTURA FÍSICA PARA TELECOMUNICACIONES, A LA EMPRESA TELXIUS TORRES CHILE S.A.
+
+Santiago, 5 de noviembre de 2018.- Con esta fecha se ha decretado lo que sigue:
+
+Núm. 1.000 exento.
+
+Vistos:
+
+a) El decreto ley Nº 1.762 de 1977, que creó la Subsecretaría de Telecomunicaciones, en adelante la Subsecretaría.
+
+b) La Ley Nº 18.168, General de Telecomunicaciones, en adelante la Ley.
+
+c) La resolución Nº 1.600 de 2008, de la Contraloría General de la República, que Fija Normas sobre Exención del Trámite de Toma de Razón.
+
+d) El decreto supremo Nº 103 de 2008, del Ministerio de Transportes y Telecomunicaciones.
+
+e) El decreto supremo Nº 99 de 2012, del Ministerio de Transportes y Telecomunicaciones, que fija el reglamento que establece los requisitos para obtener, instalar, operar y explotar concesiones de servicios intermedios de telecomunicaciones que únicamente provean infraestructura física para telecomunicaciones.
+
+f) El decreto supremo Nº 122 de 2017, del Ministerio de Transportes y Telecomunicaciones, que otorgó la concesión.
+
+g) La resolución exenta Nº 3.774, de 2012, de la Subsecretaría.
+
+Considerando:
+
+a) Lo solicitado por la interesada mediante ingreso Subtel Nº 38.642 de 20.03.2018, complementado mediante ingreso Subtel Nº 86.762 de 11.06.2018.
+
+b) Que la solicitud modifica elementos de la concesión no contemplados en el inciso quinto del artículo 14º de la Ley, por lo que en la especie no son aplicables las normas de los artículos 15º y 16º de la misma, es decir, no requiere de publicación del extracto de la solicitud.
+
+Decreto:
+
+Modifícase la concesión de Servicio Intermedio de Telecomunicaciones, que únicamente provea infraestructura física para telecomunicaciones, cuyo titular es la empresa Telxius Torres Chile S.A., RUT Nº 76.558.575-9, con domicilio en Avenida Providencia Nº 111, comuna de Providencia, Región Metropolitana de Santiago, en adelante la concesionaria, en el sentido que se indica en los numerandos siguientes.
+
+1. Autorízase a la concesionaria para modificar su concesión, individualizada en la letra f) de los vistos, en el sentido de incorporar infraestructura física ya autorizada, conforme a decretos que se detallan en el siguiente cuadro:
+
+.
+
+Las características técnicas de las instalaciones corresponden a torres soporte de antenas y sistemas radiantes conforme ya fue autorizada. Dado que la misma ya se encuentra instalada no existen plazos involucrados.
+
+2. Apruébase el proyecto técnico base de la solicitud presentada por la concesionaria, conforme a las disposiciones técnico-legales que rigen el servicio de telecomunicaciones concedido. La documentación respectiva quedará archivada en la Subsecretaría de Telecomunicaciones.
+
+3. Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones legales, reglamentarias y técnicas que regulan las telecomunicaciones, en lo que le sean aplicables.
+
+Anótese, notifíquese a la interesada y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Enoc Araya Castillo, Jefe División Concesiones.
