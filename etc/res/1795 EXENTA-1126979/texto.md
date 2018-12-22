@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.795 EXENTA, DE 29 DE NOVIEMBRE DE 2018
+
+Mediante resolución exenta Nº 1.795, de fecha 29 de noviembre de 2018, el Servicio Nacional de Capacitación y Empleo Región del Maule ha dispuesto aplicar al ejecutor "Sociedad de Capacitación y Desarrollo Limitada", RUT 76.740.950-8, una sanción, correspondiente a una multa administrativa de 44 UTM, por "no entregar en tiempo y forma, sin causa justificada, los componentes, subcomponentes y/o apoyos que contempla el programa", infracción grave, de acuerdo a lo establecido en el numeral 1, de la letra b) del Subtítulo 12.1 del título 12 de la resolución Nº 1.446, de fecha 20 de abril de 2016, que aprobó las Bases del Primer Concurso, modalidad cerrada, línea regular, del Programa Más Capaz, año 2016.
+
+Talca, 11 de diciembre de 2018.- Francisca Valdés Bongain, Profesional Delegada, Servicio Nacional de Capacitación y Empleo Región del Maule.
