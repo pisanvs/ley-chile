@@ -40,7 +40,7 @@ Para los servicios que hayan realizado su inscripción en el Registro Nacional d
 
 a. Lebu y Talcahuano la fecha de inicio de esta exigencia será el 31 de mayo de 2019.
 
-b. Arauco, Los Ángeles, Coronel y Tomé la fecha de inicio de esta exigencia será el 30 de noviembre de 2020.
+b. Arauco, Los Ángeles, Coronel y Tomé la fecha de inicio de esta exigencia será el 30 de noviembre de 2019.
 
 Los terminales serán al menos uno por cada servicio y del tipo "terminal de vehículos", señalado en el artículo 45 bis, del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones y reglamentado respecto de su construcción en el decreto supremo Nº 47 de 1992, del Ministerio de Vivienda y Urbanismo.
 
@@ -67,33 +67,5 @@ En todo caso, esta exigencia no será aplicable para los servicios de taxis cole
 8.- Respecto de los servicios de locomoción colectiva inscritos en esta región o que se inscriban en el futuro y que se rijan por bases de licitación o por condiciones especiales de operación, de conformidad a lo dispuesto en los artículos 1º bis o 42º del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones o de perímetros de exclusión en conformidad a ley N° 20.696, que modificó a la ley 18.696, se estará con relación a sus terminales o recintos ajenos a la vía pública a lo que dispongan las condiciones especiales de operación o las Bases de Licitaciones, en su caso.
 
 9.- Revóquese la resolución exenta Nº 23, del 26 enero de 2015, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío.
-
-> **Nota.** La Resolución 160 Exenta, Transportes, publicada el 10.07.2020, prorroga el plazo, sólo para los servicios de buses urbanos de las comunas de Los Ángeles y Coronel establecido en la presente norma, hasta el día 31 de mayo de 2021.
-
-> **Nota.** NOTA 1 El N° 1 de la Resolución 676 Exenta, Transportes, publicada el 31.05.2021, prorroga el plazo, sólo para los servicios de taxis colectivos de las comunas de Los Ángeles y Tomé, establecido en la presente norma, hasta el 30 de noviembre de 2021.
-
-> **Nota.** NOTA 2 El N° 1 de la Resolución 1609 Exenta, Transportes, publicada el 07.12.2022, prorroga el plazo, sólo para los servicios de taxis colectivos de las comunas de Los Ángeles y Tomé, establecido en la presente norma, hasta el 30 de noviembre de 2022.
-
-> **Nota.** NOTA 3 El N° 1 de la Resolución 2348 Exenta, Transportes, publicada el 15.12.2022, prorroga el plazo, sólo para los servicios de taxis colectivos de las comunas de Los Ángeles y Tomé, establecido en la presente norma, hasta el 30 de noviembre de 2023
-
-> **Nota.** NOTA 4 La Resolución 2530 Exenta, Transportes, publicada el 09.01.2023, otorga hasta el 31 de diciembre de 2023, el plazo para dar cumplimiento a la exigencia contenida en el artículo 45 del decreto supremo N° 212, de 1992, del Ministerio de Transportes y Telecomunicaciones, en lo relativo a contar con un terminal, para los servicios de transporte público remunerado de pasajeros prestados mediante buses urbanos de las comunas de Los Ángeles y Coronel, establecido en la letra a, del resuelvo N° 1 de la presente norma.
-
-> **Nota.** NOTA 5 La Resolución 2151 Exenta, Transportes, publicada el 07.02.2024, prorroga el plazo, solo para los servicios de transporte público remunerado de pasajeros que se prestan mediante buses urbanos existentes en las comunas de Los Ángeles y Coronel, establecido en la letra a) del resuelvo Nº1 de la presente norma, hasta el 31 de diciembre de 2024.
-
-> **Nota.** NOTA 6 La Resolución 2006 Exenta, Transportes, publicada el 08.02.2024, prorroga el plazo, solo para los servicios de taxis colectivos urbanos existentes en las comunas de Los Ángeles y Tomé, hasta el 30 de noviembre de 2024, establecido en la letra b), del resuelvo N° 2 de la presente norma.
-
-> **Nota.** NOTA 7 La Resolución 2242 Exenta, Transportes, publicada el 14.12.2024, prorroga el plazo solo para los servicios de taxis colectivos urbanos existentes en las comunas de Los Ángeles y Tomé, establecido en el literal b), del resuelvo Nº 2, de la presente norma hasta el 30 de mayo de 2025 para los servicios que operan en la comuna de Los Ángeles, y hasta el 31 de marzo de 2025 para los servicios que operan en la comuna de Tomé.
-
-> **Nota.** NOTA 8 La Resolución 2409 Exenta, Transportes, publicada el 02.01.2024, prorroga el plazo, solo para los servicios urbanos de transporte público remunerado de pasajeros prestados mediante buses existentes en las comunas de Los Ángeles y Coronel, establecido en la letra a), del resuelvo N° 1 de la presente norma hasta el 31 de diciembre de 2025.
-
-> **Nota.** NOTA 9 La Resolución 994 Exenta, Transportes, publicada el 16.04.2025, prorroga el plazo para los servicios de taxis colectivos urbanos existentes en la comuna de Tomé, establecido en el literal b) del resuelvo N° 2 de la presente norma hasta el 30 de junio de 2025 para los servicios que operan en la comuna de Tomé.
-
-> **Nota.** NOTA 10 La Resolución 568 Exenta, Transportes, publicada el 12.06.2025, prorroga el plazo para los servicios de taxis colectivos urbanos existentes en la comuna de Los Ángeles, establecido en el literal b) del resuelvo N° 2 de la presente norma, hasta el 31 de marzo de 2026, solo para los servicios que operan en la comuna de Los Ángeles.
-
-> **Nota.** NOTA 11 La Resolución 1237 Exenta, Transportes, publicada el 14.07.2025, prorroga el plazo, para los servicios de taxis colectivos urbanos existentes en la comuna de Tomé, establecido en el literal b) del resuelvo Nº 2 de la presente norma, hasta el 28 de septiembre de 2025, solo para los servicios que operan en la comuna de Tomé.
-
-> **Nota.** NOTA 12 La Resolución 2598 Exenta, Transportes, publicada el 30.12.2025, prorroga el plazo, solo para los servicios urbanos de transporte público remunerado de pasajeros prestados mediante buses existentes en las comunas de Los Ángeles y Coronel, establecido en la letra a), del resuelvo N° 1 de la presente norma y sus respectivas prórrogas, todas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, hasta el 31 de diciembre de 2026.
-
-> **Nota.** NOTA 13 El N° 1 de la Resolución 369 Exenta, Transportes, publicada el 25.03.2026, prorroga, para los servicios de taxis colectivos urbanos existentes en la comuna de Los Ángeles, el plazo establecido en el literal b) del resuelvo N° 2 de la presente norma, hasta el 24 de agosto de 2026, únicamente para los servicios que operan en la comuna de Los Ángeles.
 
 Anótese, comuníquese y publíquese.- César Arriagada Lira, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
