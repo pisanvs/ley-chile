@@ -312,39 +312,7 @@ Ley N° 15.076.
 
 <!-- parte:8253992 -->
 
-Fíjanse los siguientes requisitos específicos para el desempeño de los cargos que se mencionan:
-
-Planta Cargo Grado Requisitos
-
-_______________________________________________________
-
-Profesionales Profesionales 8° Dos cargos
-
-requerirán título
-
-de Arquitecto.
-
-Un cargo requerirá
-
-título de Abogado
-
-Un cargo requerirá
-
-título de Ingeniero
-
-Civil o de
-
-Ejecución, con
-
-mención en
-
-Computación.
-
-Profesionales 9° Dos cargos
-
-requerirán título
-
-de Abogado
+Eliminado.
 
 #### Artículo 5°
 
