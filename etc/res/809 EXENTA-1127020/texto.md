@@ -1,0 +1,5 @@
+DECLARA FORMALMENTE ABIERTO EL PROCESO DE OTORGAMIENTO DE PERMISO DE OPERACIÓN PARA UN CASINO DE JUEGO EN LA COMUNA DE NATALES
+
+Por resolución exenta N° 809, de 2018, Superintendencia de Casinos de Juego declara formalmente abierto el proceso de otorgamiento de un permiso de operación para un casino ubicado en la comuna de Natales. Bases técnicas podrán ser descargadas del sitio www.scj.gob.cl/otorgamiento o retiradas en las dependencias ubicadas en calle Morandé N° 360, piso 11, comuna de Santiago. Descarga y retiro de bases técnicas podrá efectuarse desde el 26.12.2018 hasta el 03.05.2019. Se fija como fecha de entrega de las ofertas técnicas y económicas el 06.05.2019, a las 10:00 hrs., en el Hotel Gran Palace, calle Huérfanos N° 1178, comuna de Santiago.
+
+Santiago, 19 de diciembre de 2018.- Vivien Villagrán Acuña, Superintendenta de Casinos de Juego.
