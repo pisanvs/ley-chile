@@ -1,0 +1,5 @@
+MODIFICA LAS RESOLUCIONES EXENTAS QUE INDICA, QUE DESIGNAN O MODIFICAN ADMINISTRADOR EN CALIDAD DE TITULARES Y SUPLENTES DE CONTRATOS DE COMODATO SOBRE INMUEBLES DE LA REGIÓN DE VALPARAÍSO, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LAS INSTITUCIONES QUE INDICA
+
+Por resolución exenta I Nº 4, de 12 de noviembre de 2018, el Jefe del Departamento de Administración e Inmobiliaria, aprobó modificaciones relacionadas a la designación de nuevos coordinadores de Contratos en calidad de Administradores Titulares y Administradores Suplentes; de los Centros de Atención Previsional Integral IPS de Viña del Mar, de la Dirección Regional de Valparaíso, del Centro de Atención Previsional Integral IPS San Felipe, del Centro de Atención Previsional Integral IPS Quillota, del Centro de Atención Previsional Integral IPS San Antonio y del Centro de Atención Previsional Integral IPS Valparaíso y deja sin efecto las resoluciones exentas 168, del 11 de abril de 2012 y Nº 419, del 11 de junio de 2014 de la Dirección Nacional del Instituto de Previsión Social.
+
+Santiago, 12 de diciembre de 2018.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
