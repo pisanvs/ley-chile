@@ -1,0 +1,5 @@
+APRUEBA "MODIFICACIÓN CONVENIO DE COLABORACIÓN PARA LA IMPLEMENTACIÓN DEL SISTEMA ANTICIPADO DE RESOLUCIÓN DE CONTROVERSIAS Y DE NOTIFICACIÓN ELECTRÓNICA" (SARC), SUSCRITO CON FECHA 24.11.2016, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL CONSEJO PARA LA TRANSPARENCIA, APROBADO MEDIANTE RESOLUCIÓN Nº 8 EXENTA, DE 4 DE ENERO DE 2017
+
+Por resolución exenta Nº 434, de 14 de noviembre de 2018, el Director Nacional del Instituto de Previsión Social, aprobó la Modificación de la cláusula quinta del Convenio de Colaboración para la Implementación del Sistema Anticipado de Resolución de Controversias y de Notificación Electrónica, "Mecanismo de Notificación Electrónica, numeral (1°)", en el sentido de establecer que, a partir de esta fecha, las notificaciones electrónicas de las actuaciones entre el Consejo y el IPS se efectúen a la casilla electrónica especialmente establecida al efecto, a saber: "transparencia.sarc@ips.gob.cl", de la que es responsable el Jefe del Subdepartamento Gestión de Transparencia, don Gustavo Tudela Castro.
+
+Santiago, 12 de diciembre de 2018.- Patricio Coronado Rojo, Director Nacional.
