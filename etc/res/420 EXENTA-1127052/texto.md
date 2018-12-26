@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO SOBRE DELEGACIÓN DE FACULTADES EN EL INSTITUTO DE PREVISIÓN SOCIAL"
+
+Por resolución exenta Nº 420, de 5 de noviembre de 2018, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Procedimiento sobre Delegación de Facultades en el Instituto de Previsión Social", cuyo objetivo es establecer una metodología de trabajo para todos los aspectos concernientes al proceso respecto de las delegaciones de facultades y/o autorizaciones de firma por parte de la Dirección Nacional del Instituto; como también explicitar las normas que regulan la delegación de facultades y de firma, y que requieren ser administradas a través de su ordenamiento y actualización de conformidad con la estructura orgánica del Servicio.
+
+Santiago, 12 de diciembre de 2018.- Patricio Coronado Rojo, Director Nacional.
