@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO DE GESTIÓN DE INCIDENTES DE SEGURIDAD DE LA INFORMACIÓN" Y DEJA SIN EFECTO RESOLUCIÓN Nº 528 EXENTA, DE 2.11.2017, DICTADA SOBRE IGUAL MATERIA
+
+Por resolución exenta Nº 430, de 13 de noviembre de 2018, el Director Nacional del Instituto de Previsión Social, aprobó el documento denominado "Procedimiento de Gestión de Incidentes de Seguridad de la Información", cuyo objetivo es asegurar una consistente y eficaz gestión de los incidentes de seguridad de la información y de los mecanismos iniciales de respuesta, generando una metodología común para la investigación, evaluación, respuesta, recolección de evidencias y acciones de mitigación, incluida la comunicación sobre eventos de seguridad y debilidades, y deja sin efecto resolución exenta Nº 528, del 2 de noviembre de 2017, dictada sobre la misma materia.
+
+Santiago, 12 de diciembre de 2018.- Patricio Coronado Rojo, Director Nacional.
