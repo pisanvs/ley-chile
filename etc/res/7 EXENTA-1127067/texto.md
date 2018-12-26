@@ -1,0 +1,5 @@
+SE DESIGNAN ADMINISTRADORES TITULAR Y SUPLENTES PARA EL CONTRATO DE COMODATO SUSCRITO CON FECHA 25.10.2017, ENTRE EL INSTITUTO DE SEGURIDAD LABORAL Y EL INSTITUTO DE PREVISIÓN SOCIAL, RESPECTO DEL INMUEBLE DE SU PROPIEDAD UBICADO EN CALLE UNO ORIENTE Nº 1288, DE LA COMUNA Y CIUDAD DE TALCA, REGIÓN DEL MAULE
+
+Por resolución exenta I Nº 7, de 27 de noviembre de 2018, el Jefe del Departamento de Administración e Inmobiliaria, designó como administradores del Contrato de Comodato suscrito con fecha 25 de octubre de 2017, por medio del cual el Instituto de Previsión Social entrega en Comodato al Instituto de Seguridad Laboral, el inmueble de su propiedad ubicado en calle Uno Oriente Nº 1288, de la comuna y ciudad de Talca, Región del Maule, aprobado por resolución exenta Nº 547, del 9 de noviembre de 2017, a los funcionarios que indica.
+
+Santiago, 12 de diciembre de 2018.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria. Alexander Suárez Olivares, Jefe (S) Departamento Secretaría General y Transparencia, Instituto de Previsión Social.
