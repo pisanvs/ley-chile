@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO CUSTODIA DE VALORES EN GARANTÍA PARA LOS CAPRI IPS CATEGORÍA A DE LAS DIRECCIONES REGIONALES COQUIMBO, AYSÉN Y MAGALLANES Y LA ANTÁRTICA CHILENA"
+
+Por resolución exenta Nº 421, de 5 de noviembre de 2018, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Procedimiento Custodia de Valores en Garantía para los Capri IPS Categoría A de las Direcciones Regionales Coquimbo, Aysén y Magallanes y la Antártica Chilena", cuyo objetivo es establecer el procedimiento operativo de custodia de documentos en garantía que debe ser aplicado por las Direcciones Regionales indicadas y los Capri IPS Categoría A de La Serena, Coyhaique, Aysén y Punta Arenas, de manera de efectuar una adecuada recepción, registro, resguardo y control de las mismas.
+
+Santiago, 12 de diciembre de 2018.- Patricio Coronado Rojo, Director Nacional.
