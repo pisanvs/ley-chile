@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL Nº 0504-0315-0100005525, DEL BANCO BILBAO VIZCAYA ARGENTARIA (CHILE) SUCURSAL MELIPILLA, PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL DEL INSTITUTO DE PREVISIÓN SOCIAL DE MELIPILLA, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta Nº 426, de 12 de noviembre de 2018, el Director Nacional del Instituto de Previsión Social, delega en funcionarios del Centro de Atención Previsional Integral IPS Melipilla, la facultad de operar la Cuenta Corriente Giradora Local, que este organismo mantiene en la Oficina Principal del Banco Vizcaya Argentaria (Chile), Centro de Atención Previsional Integral Capri IPS Melipilla, destinada al pago de beneficios previsionales y gastos de la Capri Melipilla del Instituto de Previsión Social y deja sin efecto la resolución exenta Nº 380, del 7 de agosto de 2017.
+
+Santiago, 12 de diciembre de 2018.- Patricio Coronado Rojo, Director Nacional.
