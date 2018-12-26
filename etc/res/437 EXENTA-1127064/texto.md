@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LAS ACTIVIDADES DE "AYUDANTE MANTENCIÓN MECÁNICA" Y "CHOFER DE CAMIÓN", DESARROLLADAS PARA EL EMPLEADOR "EULOGIO GORDO Y CÍA."
+
+Por resolución exenta Nº 437, de 19 de noviembre de 2018, el Director Nacional del Instituto de Previsión Social, aprobó la solicitud presentada por don Jorge Enrique Tapia Cortés, para calificar como Trabajo Pesado las labores de "Ayudante Mantención Mecánica" y "Chofer de Camión", desempeñadas para el empleador "Eulogio Gordo y Cía.", e incorpórense al Listado Oficial de Actividades e Industrias Diversas calificadas como Trabajo Pesado, correspondiendo aplicar una rebaja de edad de 1x5 (un año por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez, con rebaja en la edad.
+
+Santiago, 12 de diciembre de 2018.- Patricio Coronado Rojo, Director Nacional.
