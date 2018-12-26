@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL Nº 83800004805, DEL BANCO DEL ESTADO DE CHILE, SUCURSAL CHAITÉN, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL DEL INSTITUTO DE PREVISIÓN SOCIAL DE CHAITÉN, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta Nº 404, de 18 de octubre de 2018, el Director Nacional del Instituto de Previsión Social, delega facultad de girar cheques, retirar talonarios, cartolas, cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, para efectos de operar cuenta corriente del Banco del Estado de Chile Nº 83800004805, y que opera en la Sucursal Chaitén, destinada al pago de beneficios previsionales y gastos del Centro de Atención Previsional Integral del Instituto de Previsión Social Chaitén y deja sin efecto la resolución exenta Nº 126, del 3 de marzo de 2017.
+
+Santiago, 12 de diciembre de 2018.- Patricio Coronado Rojo, Director Nacional.
