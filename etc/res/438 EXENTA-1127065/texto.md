@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO DE SUBSIDIO PARA CONCURSO DE INNOVACIÓN ABIERTA "IMPACTA MIGRACIONES" ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL LABORATORIO DE GOBIERNO
+
+Por resolución exenta Nº 438, de 20 de noviembre de 2018, el Director Nacional del Instituto de Previsión Social, aprobó el convenio de subsidio para concurso de innovación abierta "Impacta Migraciones" entre el Instituto de Previsión Social y el Laboratorio de Gobierno, cuyo objetivo es regular la relación entre este Instituto y el Laboratorio de Gobierno en el marco del concurso "Impacta Migraciones", precisando los derechos y obligaciones de las partes en relación con el destino y regulación de los recursos comprometidos, las obligaciones de participación, el uso de gráficas, la gestión de comunicaciones, el uso de propiedad industrial y/o intelectual, entre otras materias, para la correcta realización de la actividad.
+
+Santiago, 12 de diciembre de 2018.- Patricio Coronado Rojo, Director Nacional.
