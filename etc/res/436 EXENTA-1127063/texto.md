@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO PARA EL MANEJO DE ARCHIVOS Y ELIMINACIÓN DE DOCUMENTOS"
+
+Por resolución exenta Nº 436, de 19 de noviembre de 2018, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Procedimiento para el Manejo de Archivos y Eliminación de Documentos", cuyo propósito es establecer un procedimiento que debe ser aplicado para el manejo, conservación, eliminación y enajenación de los documentos existentes dentro del Servicio a nivel central, como también, por las Direcciones Regionales y Centros de Atención Previsional Integral o Capri de su dependencia, referentes al envío a resguardo de documentos y expedientes previsionales.
+
+Santiago, 12 de diciembre de 2018.- Patricio Coronado Rojo, Director Nacional.
