@@ -1,0 +1,5 @@
+SE APRUEBA "TÉRMINO Y NUEVO CONVENIO DE COLABORACIÓN" Y "CONTRATO DE COMODATO", SUSCRITOS ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA DIRECCIÓN GENERAL DEL CRÉDITO PRENDARIO
+
+Por resolución exenta DAI Nº 173, de 12 de noviembre de 2018, Jefe Departamento Administración e Inmobiliaria, aprueba el "Término y Nuevo Convenio de Colaboración" y "Contrato de Comodato", suscrito con fecha 29 de octubre de 2018, entre el Instituto de Previsión Social y la Dirección General del Crédito Prendario, por el cual se pone término al Convenio de Colaboración de 19 de enero de 2009, aprobado por resolución exenta Nº 176, de 17 de febrero de 2009 y se suscribe un nuevo Convenio de Colaboración, cuyo objeto es concretar una alianza para coordinar acciones de cooperación mutua en el cumplimiento de sus respectivos fines, que contribuyan al mejoramiento de las condiciones de cobertura, información y realización de servicios del Estado para todas las personas.
+
+Santiago, 12 de diciembre de 2018.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
