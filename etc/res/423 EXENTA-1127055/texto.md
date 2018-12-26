@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "POLÍTICA DE GESTIÓN DE ACTIVOS DE INFORMACIÓN CÓDIGO: POL-06" Y DEJA SIN EFECTO RESOLUCIÓN EXENTA QUE SEÑALA, SOBRE IGUAL MATERIA
+
+Por resolución exenta Nº 423, de 6 de noviembre de 2018, el Director Nacional del Instituto de Previsión Social, aprobó el documento denominado "Política de Gestión de Activos de Información Código: Pol-06", cuyo objetivo es entregar los lineamientos institucionales que permitan documentar e implementar reglas para la identificación, clasificación, uso, retiro de la información contenida en los activos de información manuales y digitales, así como en las instalaciones de procesamiento de información del Instituto, y deja sin efecto resolución exenta Nº 520, del 26 de octubre de 2017, sobre igual materia.
+
+Santiago, 12 de diciembre de 2018.- Patricio Coronado Rojo, Director Nacional.
