@@ -18,7 +18,7 @@ Decreto:
 
 <!-- parte:9298898 -->
 
-Institúyese durante el mes de octubre de cada año la "Semana de las Empresas de Menor Tamaño", la que podrá incluir los últimos días de septiembre o comienzos de noviembre para efectos de su cálculo.
+Institúyase durante los meses de octubre o noviembre de cada año la "Semana de las Empresas de Menor Tamaño", la que podrá incluir los últimos días de septiembre para efectos de su cálculo.
 
 Anótese, tómese razón y publíquese.- SEBASTÍAN PIÑERA ECHENIQUE, Presidente de la República.- Pablo Longueira Montes, Ministro de Economía, Fomento y Turismo.- Rodrigo Hinzpeter Kirberg, Ministro del Interior y Seguridad Pública.
 
