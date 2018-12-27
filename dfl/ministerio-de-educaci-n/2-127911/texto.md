@@ -184,8 +184,6 @@ a) bis.- Que destinen de manera íntegra y exclusiva el financiamiento que obten
 
 a) ter.- Que al menos un 15% de los alumnos de los establecimientos sean prioritarios conforme a la ley Nº20.248, salvo que no se hayan presentado postulaciones suficientes para cubrir dicho porcentaje.
 
-El reglamento determinará la forma de medir y ponderar la vulnerabilidad debiendo considerar el nivel socioeconómico de la familia, el nivel de escolaridad de los padres o apoderados del alumno y el entorno del establecimiento.
-
 a) quáter.- Que la entidad sostenedora acredite que el inmueble en que funciona el establecimiento educacional es de su propiedad y se encuentra libre de gravámenes, o lo usa a título de comodatario en conformidad a las reglas siguientes:
 
 1º. El contrato respectivo deberá estar inscrito en el Conservador de Bienes Raíces correspondiente.
@@ -220,7 +218,9 @@ Sólo podrán aplicarse las sanciones o medidas disciplinarias contenidas en el 
 
 No podrá decretarse la medida de expulsión o la de cancelación de matrícula de un o una estudiante por motivos académicos, de carácter político, ideológicos o de cualquier otra índole, sin perjuicio de lo dispuesto en los párrafos siguientes.
 
-Las medidas de expulsión y cancelación de matrícula sólo podrán aplicarse cuando sus causales estén claramente descritas en el reglamento interno del establecimiento y, además, afecten gravemente la convivencia escolar.
+Las medidas de expulsión y cancelación de matrícula sólo podrán aplicarse cuando sus causales estén claramente descritas en el reglamento interno del establecimiento o afecten gravemente la convivencia escolar, conforme a lo dispuesto en esta ley.
+
+Siempre se entenderá que afectan gravemente la convivencia escolar los actos cometidos por cualquier miembro de la comunidad educativa, tales como profesores, padres y apoderados, alumnos, asistentes de la educación, entre otros, de un establecimiento educacional, que causen daño a la integridad física o síquica de cualquiera de los miembros de la comunidad educativa o de terceros que se encuentren en las dependencias de los establecimientos, tales como agresiones de carácter sexual, agresiones físicas que produzcan lesiones, uso, porte, posesión y tenencia de armas o artefactos incendiarios, así como también los actos que atenten contra la infraestructura esencial para la prestación del servicio educativo por parte del establecimiento.
 
 Las disposiciones de los reglamentos internos que contravengan normas legales, se tendrán por no escritas y no podrán servir de fundamento para la aplicación de medidas por parte del establecimiento a conductas de los miembros de la comunidad educativa.
 
@@ -234,7 +234,17 @@ La decisión de expulsar o cancelar la matrícula a un estudiante sólo podrá s
 
 Los sostenedores y,o directores no podrán cancelar la matrícula, expulsar o suspender a sus estudiantes por causales que se deriven de su situación socioeconómica o del rendimiento académico, o vinculadas a la presencia de necesidades educativas especiales de carácter permanente y transitorio definidas en el inciso segundo del artículo 9º, que se presenten durante sus estudios. A su vez, no podrán, ni directa ni indirectamente, ejercer cualquier forma de presión dirigida a los estudiantes que presenten dificultades de aprendizaje, o a sus padres, madres o apoderados, tendientes a que opten por otro establecimiento en razón de dichas dificultades. En caso que el o la estudiante repita de curso, deberá estarse a lo señalado en el inciso sexto del artículo 11 del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación.
 
+El director deberá iniciar un procedimiento sancionatorio en los casos en que algún miembro de la comunidad educativa incurriere en alguna conducta grave o gravísima establecida como tal en los reglamentos internos de cada establecimiento, o que afecte gravemente la convivencia escolar, conforme a lo dispuesto en esta ley.
+
+El director tendrá la facultad de suspender, como medida cautelar y mientras dure el procedimiento sancionatorio, a los alumnos y miembros de la comunidad escolar que en un establecimiento educacional hubieren incurrido en alguna de las faltas graves o gravísimas establecidas como tales en los reglamentos internos de cada establecimiento, y que conlleven como sanción en los mismos, la expulsión o cancelación de la matrícula, o afecten gravemente la convivencia escolar, conforme a lo dispuesto en esta ley.
+
+El director deberá notificar la decisión de suspender al alumno, junto a sus fundamentos, por escrito al estudiante afectado y a su madre, padre o apoderado, según corresponda. En los procedimientos sancionatorios en los que se haya utilizado la medida cautelar de suspensión, habrá un plazo máximo de diez días hábiles para resolver, desde la respectiva notificación de la medida cautelar. En dichos procedimientos se deberán respetar los principios del debido proceso, tales como la presunción de inocencia, bilateralidad, derecho a presentar pruebas, entre otros.
+
+Contra la resolución que imponga el procedimiento establecido en los párrafos anteriores se podrá pedir la reconsideración de la medida dentro del plazo de cinco días contado desde la respectiva notificación, ante la misma autoridad, quien resolverá previa consulta al Consejo de Profesores, el que deberá pronunciarse por escrito. La interposición de la referida reconsideración ampliará el plazo de suspensión del alumno hasta culminar su tramitación. La imposición de la medida cautelar de suspensión no podrá ser considerada como sanción cuando resuelto el procedimiento se imponga una sanción más gravosa a la misma, como son la expulsión o la cancelación de la matrícula.
+
 El director, una vez que haya aplicado la medida de expulsión o cancelación de matrícula, deberá informar de aquella a la Dirección Regional respectiva de la Superintendencia de Educación, dentro del plazo de cinco días hábiles, a fin de que ésta revise, en la forma, el cumplimiento del procedimiento descrito en los párrafos anteriores. Corresponderá al Ministerio de Educación velar por la reubicación del estudiante afectado por la medida y adoptar las medidas de apoyo necesarias.
+
+El Ministerio de Educación, a través de la Secretaría Regional Ministerial respectiva, velará por la reubicación del estudiante sancionado, en establecimientos que cuenten con profesionales que presten apoyo psicosocial, y adoptará las medidas para su adecuada inserción en la comunidad escolar. Además, informará de cada procedimiento sancionatorio que derive en una expulsión, a la Defensoría de los Derechos de la Niñez, cuando se trate de menores de edad.
 
 La infracción de cualquiera de las disposiciones de este literal, será sancionada como infracción grave.
 
@@ -261,6 +271,12 @@ f) bis.- Que se establezcan programas especiales de apoyo a aquellos estudiantes
 f) ter.- Que el reglamento interno a que hace referencia la letra d) de este artículo reconozca expresamente el derecho de asociación, tanto de los y las
 
 estudiantes, padres y apoderados, como también del personal docente y asistente de la educación, de conformidad a lo establecido en la Constitución y la ley. En ningún caso el sostenedor podrá obstaculizar ni afectar el ejercicio de este derecho, sin perjuicio de las normas sobre derechos y deberes de la comunidad escolar que se establecen en el decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación.
+
+f) quáter.- Que cuenten con un Consejo Escolar, de conformidad a lo dispuesto en la ley Nº19.979. Excepcionalmente, por resolución fundada del respectivo Secretario Regional Ministerial de Educación, se podrá eximir a un establecimiento educacional del cumplimiento de esta obligación para efectos del pago de la subvención educacional, cuando no sea posible su constitución.
+
+El director y, en subsidio, el sostenedor del establecimiento, velarán por el funcionamiento regular del Consejo Escolar y porque éste realice, a lo menos, cuatro sesiones en meses distintos de cada año académico. Asimismo, deberán mantener a disposición de los integrantes del Consejo, los antecedentes necesarios para que éstos puedan participar de manera informada y activa en las materias de su competencia, de conformidad a la ley Nº19.979.
+
+En ningún caso el sostenedor podrá impedir o dificultar la constitución del Consejo, ni obstaculizar, de cualquier modo, su funcionamiento regular.
 
 g) Un mínimo de 38 horas semanales de trabajo escolar para la educación general básica de 3º a 8º, y de 42 horas para la educación media humanístico- científica y técnico-profesional.
 
