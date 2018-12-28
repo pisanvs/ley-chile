@@ -86,7 +86,7 @@ h. Y otros antecedentes que sean necesarios para llevar adelante el proceso de a
 
 7. El valor máximo del subsidio destinado a cada beneficiado se definirá conforme al porcentaje de vulnerabilidad indicado en su Registro Social de Hogares, acreditado al postular, y al pago de servicios de asistencia técnica o de gastos operacionales, según corresponda. En consecuencia, los montos máximo de subsidios que se les otorgará son los definidos en la siguiente tabla:
 
-8. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS N° 52 (V. y U.), de 2013, será de hasta 426.000 UF correspondientes a 2.000 subsidios.
+8. El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS N° 52 (V. y U.), de 2013, será de hasta 427.065 UF correspondientes a 2.005 subsidios.
 
 9. Exímese al presente llamado del cumplimiento de la exigencia establecida en la letra b. del artículo 15 del DS N° 52 (V. y U.), de 2013, relativa a la necesidad de distribuir regionalmente el número de personas que se podrán seleccionar.
 
