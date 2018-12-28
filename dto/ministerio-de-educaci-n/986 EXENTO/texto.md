@@ -22,7 +22,7 @@ Decreto:
 
 #### Artículo 1
 
-Desígnase, como representante del Ministerio de Educación en el Directorio del Centro de Formación Técnica de la Región de Coquimbo, en calidad de suplente, a don Juan Ramón Cabezas Rodríguez, RUN N° 12.496.491-1, en su calidad de funcionario del Ministerio de Educación, por un período de cuatro años, pudiendo ser reelegido por el período inmediatamente siguiente.
+Desígnase, como representante del Ministerio de Educación en el Directorio del Centro de Formación Técnica de la Región de la Araucanía, en calidad de suplente, a don Juan Ramón Cabezas Rodríguez, RUN N° 12.496.491-1, en su calidad de funcionario del Ministerio de Educación, por un período de cuatro años, pudiendo ser reelegido por el período inmediatamente siguiente.
 
 #### Artículo 2
 
