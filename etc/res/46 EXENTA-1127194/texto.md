@@ -1,0 +1,11 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL (RCA) ESTUDIO DE IMPACTO AMBIENTAL (EIA) "PROYECTO HOTEL PUNTA PIQUEROS"
+
+De conformidad a lo dispuesto en el artículo 53 incisos penúltimo y último del decreto supremo Nº 95 de 2001, del Ministerio Secretaría General de la Presidencia, que Aprueba Reglamento del Sistema de Evaluación de Impacto Ambiental, se informa a las personas -naturales y jurídicas- que presentaron observaciones durante el procedimiento de evaluación de impacto ambiental, del Estudio de Impacto Ambiental (EIA) "Proyecto Hotel Punta Piqueros", cuyo titular es Inmobiliaria Punta Piqueros S.A., que este ha sido calificado ambientalmente favorable por la Comisión de Evaluación de la Región de Valparaíso, mediante la resolución exenta Nº 46/2018 (RCA), de fecha 21 de noviembre de 2018.
+
+De igual modo, se informa a todas las personas -naturales y jurídicas- que hayan realizado observaciones ciudadanas al EIA "Proyecto Hotel Punta Piqueros", y que estimen que éstas no han sido debidamente consideradas en los fundamentos de la citada RCA, que disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar un recurso de reclamación ante el Comité de Ministros, de conformidad a los artículos 20 y 29 de la ley Nº 19.300, sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la RCA citada, puede ser conocido en la oficina del Servicio de Evaluación Ambiental de la Región de Valparaíso, ubicada en Prat 827, oficina 301, Valparaíso, con horario de atención de lunes a viernes de 9:00 a 13:00 horas; en las oficinas del Gobierno Regional, ubicadas en calle Melgarejo 669, pisos 7 y 10, Valparaíso, con horario de atención de lunes a viernes de 9:00 a 14:00 horas; en las oficinas de la Ilustre Municipalidad de Concón, ubicadas en Avenida Santa Laura 567, con horario de atención de lunes a viernes de 9:00 a 14:00 horas. Además, se puede acceder a la RCA y su expediente de evaluación a través del sitio web www.sea.gob.cl o directamente a través del siguiente enlace:
+
+http://seia.sea.gob.cl/archivos/2018/12/20/RCA_046_2018.pdf
+
+Esther Parodi Muñoz, Directora (S) Regional Servicio de Evaluación Ambiental Región de Valparaíso.
