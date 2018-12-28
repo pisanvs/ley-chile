@@ -54,7 +54,11 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 .
 
-> **Nota.** La Resolución 2407 Exenta, del Ministerio de Vivienda y Urbanismo, publicada el 27.04.2018, modifica la presente norma en el sentido reemplazar la tabla inserta en el resuelvo 3. tal como lo indica la norma citada.
+> **Nota.** La Resolución 2407 Exenta, Vivienda, publicada el 27.04.2018, modifica la presente norma en el sentido reemplazar la tabla inserta en el resuelvo 3. tal como lo indica la norma citada.
+
+> **Nota.** NOTA 1 La letra a del numeral 1° La Resolución 10451 Exenta, Vivienda, publicada el 28.12.2018, modifica la presente norma en el sentido de reemplazar la tabla inserta en su Resuelvo 3., sus filas Nº 3 y Nº 5 de la manera que la citada norma indica.
+
+> **Nota.** NOTA 2 La letra b del numeral 1° La Resolución 10451 Exenta, Vivienda, publicada el 28.12.2018, modifica la presente norma en el sentido de reemplazar la tabla inserta en su Resuelvo 5., sus filas Nº 3 y Nº 5 de la manera que la citada norma indica.
 
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
@@ -67,3 +71,5 @@ NÓMINA DE PROYECTOS SELECCIONADOS - LLAMADO EFECTUADO MEDIANTE RESOLUCIÓN EXEN
 .
 
 > **Nota.** NOTA 1 La Resolución 2407 Exenta, del Ministerio de Vivienda y Urbanismo, publicada el 27.04.2018, modifica la presente norma en el sentido de reemplazar en la tabla inserta en su Anexo Único tal como lo indica la norma citada.
+
+> **Nota.** NOTA 2 La letra d y e del numeral 1° La Resolución 10451 Exenta, Vivienda, publicada el 28.12.2018, modifica la presente norma en el sentido de reemplazar en la fila Nº 3, correspondiente a la Región Metropolitana, "Lo Blanco", código 137785 de la comuna de La Pintana, y en la fila Nº 5, correspondiente a la Región Metropolitana, "El Canelo", código 139643 de la comuna de Renca, por los montos que la citada norma indica
