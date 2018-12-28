@@ -28,8 +28,6 @@ D) PLANTA DE ADMINISTRATIVOS
 
 E) PLANTA DE AUXILIARES
 
-> **Nota.** El artículo octavo transitorio de la Ley 21819, publicada el 25.05.2026, dispone crear en la planta de Directivos, Segundo Nivel Jerárquico, Título VI de la ley N° 19.882, que regula nueva política de personal a los funcionarios públicos que indica, un cargo de Jefe de Infraestructura, Mantención y Equipamiento, Grado 6 de la EUS, en el Servicio Local de Educación Pública de Costa Araucanía, cuya planta fue fijada por la presente norma.
-
 #### Artículo 2°
 
 Establécense los siguientes requisitos para el ingreso y promoción a las plantas y cargos que se indican:
