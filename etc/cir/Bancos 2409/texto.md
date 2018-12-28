@@ -2842,7 +2842,7 @@ Los bancos que adquieran créditos de otro banco, deberán procurar que éstos p
 
 4.- Subrogaciones voluntarias a personas que pasan los créditos.
 
-Las autorizaciones previas de esta Superintendencia a que se refiere la letra d) del numeral 1.2, como asimismo la información sobre créditos cedidos de que trata el N° 2, no se aplicará en el caso de las cesiones de créditos que sólo correspondan a una subrogación voluntaria efectuada por el acreedor a un tercero que lo paga.
+Las autorizaciones previas de esta Superintendencia a que se refiere la letra e) del numeral 1.2, como asimismo la información sobre créditos cedidos de que trata el N° 2, no se aplicará en el caso de las cesiones de créditos que sólo correspondan a una subrogación voluntaria efectuada por el acreedor a un tercero que lo paga.
 
 ### V. OPERACIONES POR CUENTA DE TERCEROS
 
@@ -5862,7 +5862,7 @@ Dicha compensación operará todos los días hábiles bancarios y considerará t
 
 3. Cámara de compensación de operaciones interfinancieras en moneda nacional.
 
-Esta cámara de compensación en moneda nacional se rige por las disposiciones del Capítulo III.H.2 del Compendio de Normas Financieras del Banco Central de Chile.
+Esta cámara de compensación en moneda nacional se rige por las disposiciones del Anexo Nº 3 del Capítulo III.H.2 del Compendio de Normas Financieras del Banco Central de Chile.
 
 Dicha cámara, a nivel nacional, tiene como propósito operar como sistema de apoyo para administrar las contingencias que puedan producirse en alguno de los otros sistemas de pagos en moneda chilena, para compensar las obligaciones que los bancos tengan entre sí o por cuenta de sus clientes, y cuyo pago tenga validez ese mismo día.
 
@@ -6340,17 +6340,13 @@ BANCOS
 
 041 JP MORGAN CHASE BANK, N.A.
 
-043 BANCO DE LA NACION ARGENTINA
-
-045 THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.
+045 MUFG BANK, LTD.
 
 049 BANCO SECURITY
 
 051 BANCO FALABELLA
 
 053 BANCO RIPLEY
-
-054 RABOBANK CHILE
 
 055 BANCO CONSORCIO
 
@@ -6359,8 +6355,6 @@ BANCOS
 060 CHINA CONSTRUCTION BANK, AGENCIA EN CHILE
 
 061 BANK OF CHINA, AGENCIA EN CHILE
-
-504 BANCO BILBAO VIZCAYA ARGENTARIA, CHILE
 
 018 BANCO CENTRAL DE CHILE
 
@@ -9940,6 +9934,14 @@ C) OTROS SERVICIOS
 
 - Prestación de servicios legales al banco y sus filiales.
 
+- Servicios de administración, postventa y atención a clientes, relacionados al otorgamiento, funcionamiento y mantención de los productos contratados con bancos, sus filiales y sociedades de apoyo al giro.
+
+- Servicios de promoción y distribución de productos contratados con bancos, sus filiales y sociedades de apoyo al giro.
+
+- Servicios de cobranza créditos y documentos.
+
+- Servicios de asesorías financieras.
+
 Anexo N° 3
 
 ANTECEDENTES PARA AUTORIZACIÓN DE SOCIEDADES DE APOYO AL GIRO RELACIONADAS CON SISTEMAS DE PAGOS
@@ -11784,7 +11786,7 @@ En concordancia con lo que establece el numeral 8.5 del Capítulo III.B.2.1, los
 
 ### 2. Descalces de plazos sujetos a límites normativos
 
-Conforme establece el numeral 8.2 del Capítulo III.B.2.1, los bancos deben observar en todo momento, y para los niveles de consolidación previstos en el numeral 8.12 de dicho Capítulo, los siguientes límites de descalce de plazo entre sus flujos de efectivo de egreso y sus flujos de efectivo de ingreso:
+Conforme establece el numeral 8.2 del Capítulo III.B.2.1, los bancos deben observar en todo momento, y para los niveles de consolidación previstos en el numeral 7.4 de dicho Capítulo, los siguientes límites de descalce de plazo entre sus flujos de efectivo de egreso y sus flujos de efectivo de ingreso:
 
 i. La suma de todos los descalces de plazo hasta 30 días no podrá ser superior al capital básico.
 
@@ -11796,7 +11798,7 @@ El límite mencionado en el numeral ii precedente considerará los flujos de las
 
 2.1 Criterios para la asignación de instrumentos financieros en las bandas temporales
 
-El banco podrá considerar los ingresos que se generarían por la venta o cesión en pacto de todos sus instrumentos financieros no derivados registrados a valor razonable. Esos instrumentos podrán ser incluidos en las bandas temporales que correspondan, de acuerdo con el plazo que fundadamente el banco estime tomaría venderlos o cederlos en pacto bajo la situación de mercado prevaleciente, sea esta normal o de tensión, sin considerar para esos efectos el uso de facilidades de liquidez entregadas por el Banco Central de Chile o el banco central del país donde se encuentra establecida la filial bancaria, según corresponda.
+El banco deberá considerar los ingresos que se generarían por la venta o cesión en pacto de todos sus instrumentos financieros no derivados registrados a valor razonable. Esos instrumentos deberán ser incluidos en las bandas temporales que correspondan, de acuerdo con el plazo que fundadamente el banco estime tomaría venderlos o cederlos en pacto bajo la situación de mercado prevaleciente, sea esta normal o de tensión, sin considerar para esos efectos el uso de facilidades de liquidez entregadas por el Banco Central de Chile o el banco central del país donde se encuentra establecida la filial bancaria, según corresponda.
 
 Los instrumentos financieros no derivados se computarán a su valor razonable, obtenido según se instruye en el Capítulo 7-12 de esta Recopilación, previa aplicación de tasas de ajuste de valor fundamentadas y robustas, las que deberán ser positivas y mayores que las aplicadas por el Banco de Central de Chile en sus programas de facilidades de liquidez.
 
@@ -11812,59 +11814,21 @@ iv. Debe existir una concentración prudencial de los montos que se asignen a la
 
 Para efectos del número iv anterior, se entiende que la liquidez de mercado es función de la presencia de compradores y vendedores, o de contrapartes si se trata del mercado de pactos, dispuestos a realizar transacciones, de modo que los activos que se transan en esos mercados puedan ser vendidos rápidamente, en cualquier momento y con una mínima pérdida de valor. Por otro lado, se asume que la profundidad de mercado para un activo es función del volumen transado y del número de órdenes de compra y de venta que se verifican para cada tipo de activo. Se considera que un mercado para un activo financiero es tanto más profundo cuanto mayor sea el volumen transado y el número de órdenes que se verifican diariamente.
 
-El banco podrá considerar la venta de instrumentos recibidos en garantía por operaciones con pacto, préstamo de valores y derivados, siempre que contractualmente el banco los pueda enajenar o ceder.
+El banco deberá poner especial atención en estimar la absorción futura de liquidez que pueda generarse de sus posiciones en contratos de derivados, calculándose por tanto, el deterioro potencial en el valor razonable de esta cartera, considerando estimaciones de todos los flujos de egreso de efectivo, o la entrega de monedas o de instrumentos financieros que puedan originarse en el futuro, durante la vigencia de los contratos. El banco deberá reportar esos flujos de efectivo en las bandas temporales que correspondan de acuerdo a la naturaleza de los contratos que mantenga vigentes, es decir, teniendo en cuenta los mecanismos de pagos y reposición de márgenes que hayan sido definidos, sea en contratos bilaterales, negociados en bolsa o con una Entidad de Contraparte Central (ECC).
 
-Cuando se impute la venta o cesión de instrumentos financieros, no podrán considerarse los flujos de ingresos generados por cupones, intereses, amortizaciones, reajustes, dividendos o comisiones y, en general, cualquier flujo que se compute en el cálculo del valor razonable de esos instrumentos.
+Para determinar el deterioro potencial futuro en el valor razonable el banco deberá considerar la volatilidad de tasas de interés y otras variables subyacentes que afecten el valor de los instrumentos derivados. Para las razones de liquidez, deberán ser estimadas considerando un shock en los factores de mercado en línea con un escenario de estrés sistémico con un 97.85% de confiabilidad (dos desviaciones estándar), independiente de su plazo de vencimiento, mientras que para la medición de descalce de plazos, el nivel de severidad del escenario deberá reflejar movimientos en los factores de riesgo en condiciones normales de acuerdo a criterios establecidos por el propio banco. La variación potencial futura deberá reportarse a nivel de cartera, independientemente de los mecanismos de pago establecidos.
 
-Los instrumentos financieros no derivados mantenidos a término, y aquellos que por razones de liquidez no se les pueda asignar un valor de mercado, serán computados en las bandas temporales por los montos que correspondan, según su estructura de flujos y la solvencia esperada del emisor.
+Los flujos contractuales de los instrumentos derivados, deberán ser coherentes con la estimación del valor razonable de cada contrato, de acuerdo a los criterios establecidos en el Capítulo 7-12 de esta Recopilación. Se deberán reportar estos flujos de efectivo en las bandas temporales que correspondan de acuerdo a la naturaleza de los contratos, teniendo en consideración, la agenda y moneda de pago, sus mecanismos de liquidación y la existencia de mitigantes de crédito.
 
-Por último, se debe tener presente que aquellos instrumentos indicados en el número 16 del Capítulo II.A.2 del Compendio de Normas Financieras del Banco Central de Chile, que hubiesen sido adquiridos con recursos provenientes de una colocación de bonos hipotecarios, no podrán ser computados a valor razonable. En cambio, deberán ser computados en las bandas temporales y por los valores que correspondan a los pagos del emisor.
+Así por ejemplo, cuando se trate de un contrato derivado sin entrega física, el banco reportará, en las bandas que correspondan, los flujos de ingreso o egreso por liquidación parcial o final. En el caso de tratarse de contratos de derivados celebrados al amparo de un convenio marco reconocido por el Capítulo III.D.2 del Compendio de Normas Financieras del Banco Central de Chile, que contemple cláusulas de compensación, corresponderá reportar en las bandas temporales pertinentes, los flujos netos. Si el contrato involucra transferencias en moneda extranjera, deberá reportar su equivalente en la moneda local, distinguiéndose los flujos de efectivo para efectos de medir el respectivo descalce en moneda extranjera.
 
-2.2 Criterios para la asignación de flujos de efectivo en las bandas temporales
-
-Para la determinación de los flujos de efectivo, y su asignación en las diferentes bandas temporales, deberán observarse las directrices que se indican a continuación, las que se aplicarán para el cómputo tanto de los descalces en base contractual como ajustada y cualquiera sea el tipo de contraparte (minorista o mayorista).
-
-Deberán considerarse todos los flujos previstos de efectivo que el banco desembolsará o recibirá, con la sola excepción de aquellos que no sean relevantes para determinar la posición de liquidez del banco, siempre que la exclusión de esos flujos se encuentre precisada y fundamentada en la política de administración de liquidez de la institución. Por consiguiente, además de las operaciones vigentes que se reflejan como activos y pasivos, deben considerarse los compromisos legales o contractuales ya celebrados que aún no se reflejan en el balance, como es el caso de compromisos de otorgamiento de créditos o contratos de compraventa de activos.
-
-En el cómputo de flujos de ingreso no se considerarán nuevos depósitos ni cualquier financiamiento futuro. Así, por ejemplo, cuando se trate de líneas de crédito otorgadas al banco, sólo deben considerarse los egresos previstos para el pago de los montos ya girados, pero no los ingresos por los giros que el banco pretenda realizar.
-
-Los flujos provenientes de posiciones activas contingentes deben asignarse a las bandas temporales que correspondan, según el comportamiento estimado de los flujos de efectivo. Así, por ejemplo, los flujos asociados a las líneas de crédito y de sobregiros, como asimismo los préstamos rotativos, deben asignarse a las bandas temporales que correspondan según el patrón de comportamiento de los saldos disponibles.
-
-El banco deberá poner especial atención en estimar la absorción futura de liquidez que pueda generarse de sus posiciones en contratos de derivados, debiendo contemplar estimaciones de todos los flujos de egreso de efectivo, o la entrega de monedas o de instrumentos financieros que puedan originarse en el futuro, durante la vigencia de los contratos. El banco deberá reportar esos flujos de efectivo en las bandas temporales que correspondan de acuerdo a la naturaleza de los contratos que mantenga vigentes, es decir, teniendo en cuenta los mecanismos de pagos y reposición de márgenes que hayan sido definidos, sea en contratos bilaterales, negociados en bolsa o con una Entidad de Contraparte Central (ECC); y las exposiciones futuras que el banco haya estimado a partir de la volatilidad de tasas de interés y de las variables subyacentes que determinen el valor de los instrumentos derivados.
-
-Así por ejemplo, cuando se trate de un contrato de derivado con entrega física que involucre monedas extranjeras, los montos nocionales a recibir o a entregar se registrarán en las bandas temporales que correspondan. Si el contrato involucra liquidaciones intermedias o llamadas de margen en moneda extranjera, el banco deberá estimarlas y computarlas en las bandas pertinentes. Todos esos flujos deberán reportarse en su equivalente a moneda nacional, distinguiéndose los nocionales para efectos de medir el respectivo descalce en moneda extranjera.
-
-Asimismo, cuando se trate de un contrato derivado sin entrega física, el banco reportará en las bandas que correspondan los flujos de ingreso o egreso por liquidación parcial o final. En el caso de tratarse de contratos de derivados celebrados al amparo de un contrato marco de compensación bilateral reconocido, el banco reportará en las bandas temporales pertinentes los flujos netos. Si el contrato involucra transferencias en moneda extranjera, el banco deberá reportar su equivalente en la moneda local, distinguiéndose los flujos de efectivo para efectos de medir el respectivo descalce en moneda extranjera.
-
-Para los derivados sin entrega física y compensados a través de una ECC local, el banco reportará en las bandas temporales pertinentes los flujos netos, de ingreso o egreso, que estime se generarán en el futuro a causa de reposición de márgenes, cierre o liquidación de los contratos, dadas las exposiciones futuras que el banco haya proyectado. Si estuvieren denominados en moneda extranjera, estos flujos deberán ser reportados en su equivalente en la moneda local, distinguiendo la moneda en la que se denomina el flujo de efectivo. Este tratamiento solo podrá aplicarse si la ECC cuenta con la debida autorización de funcionamiento y supervisión por parte de la SVS. En caso contrario, el banco deberá reportar los flujos de acuerdo a lo descrito en el párrafo anterior. Lo mismo podrá aplicarse a los derivados que sean compensados en una ECC extranjera que cuente con la autorización y supervisión del regulador local.
-
-Para aquellos contratos que contemplen cláusulas de ajustes para resguardar el riesgo de contraparte (por ejemplo, los que se celebren bajo alguna de las modalidades del Credit Support Annex contenidos en los acuerdo marco ISDA), el banco deberá estimar las compensaciones por la exposición futura de cada posición, asignando en las bandas temporales que correspondan los montos que debieran entregarse a la contraparte cuando los valores futuros estimados de esas exposiciones gatillen las condiciones que contractualmente se hayan previsto para esos efectos. Si involucran pagos en moneda extranjera, estos ajustes deberán ser reportados en su equivalente en la moneda local, distinguiéndose los flujos de efectivo para efectos de medir el respectivo descalce en moneda extranjera.
-
-En la consolidación con sus filiales en Chile y en el exterior, los bancos deberán seguir los mismos criterios que se indican en este numeral y el siguiente; teniendo en consideración las normas contables vigentes en Chile. En concordancia con lo indicado en el numeral 8.12 y 8.13 del capítulo III.B.2.1 del Compendio de Normas Financieras del Banco Central, la información consolidada local (banco consolidando con las filiales en la misma jurisdicción) deberá ser informada mediante la misma metodología utilizada para medir el descalce de plazos individual (ajustado/contractual), mientras que el consolidado global deberá ser informado solo en base contractual.
-
-2.3 Cálculo de los descalces de plazo en base contractual y en base ajustada
-
-La asignación de flujos de efectivo a las distintas bandas temporales en base contractual deberá observar lo indicado en el numeral 2.2 precedente, considerando en el cómputo de flujos de ingreso las tasas de renegociación y de mora que normalmente afectan a la cartera.
-
-En los flujos correspondientes a las cuentas de ahorro a plazo con giro incondicional deberán considerar los giros sin aviso previo y computarse en el cálculo de descalce de plazo a 30 días para todas las monedas, en tanto que las cuentas de ahorro a plazo con giro diferido se incluirán en los descalces de 30 y 90 días.
-
-Para el cómputo de los flujos contractuales el banco no podrá considerar ningún tipo de renovación de sus fuentes de financiamiento.
-
-Para la asignación de flujos de efectivo en base ajustada el banco deberá observar lo indicado en el numeral 2.2 precedente. Adicionalmente para los flujos de egreso con contrapartes que, de acuerdo con estas instrucciones, deban considerarse como minoristas, podrá tomarse en consideración el comportamiento esperado en las renovaciones de los depósitos a plazo o la permanencia de los saldos en las cuentas de ahorro y cuentas vistas bajo las condiciones de mercado prevaleciente, sean estás normales o de tensión. Conforme se indica en el número
-
-2.2 precedente, la estimación de esos flujos no podrá considerar nuevos depósitos ni cualquier nueva captación.
-
-La estimación de los flujos de ingreso de efectivo en base ajustada asociados a las colocaciones vigentes deberá considerar las tasas de renovación que explican el comportamiento de las mismas.
-
-Las estimaciones de los flujos de efectivo en base ajustada deberán observar lo siguiente:
-
-i. Encontrarse fundada en antecedentes objetivos y resultados razonables; utilizando como base escenarios históricos o hipotéticos relevantes para el tipo de operación y contraparte que originaría el flujo.
-
-ii. Estar adecuadamente validada, en base a un conjunto de pruebas dirigidas a evaluar su desempeño en los ámbitos de estabilidad, robustez, predictibilidad y bondad de ajuste.
+Cuando se trate de un contrato de derivado con entrega física, los montos nocionales a recibir y entregar se registrarán en las bandas temporales que correspondan en sus respectivas monedas de pago. Si el contrato involucra liquidaciones intermedias o llamadas de margen, el banco deberá estimarlas y computarlas en las bandas pertinentes. Todos esos flujos deberán medirse en su equivalente a moneda nacional. En este caso, no corresponderá computar una exposición potencial futura.
 
 iii. Enmarcarse dentro de un régimen periódico de validación, seguimiento y control que permita identificar las potenciales deficiencias o incidencias en la estimación de los flujos de efectivo; lo que será responsabilidad de una unidad independiente de la unidad funcional encargada de su diseño y desarrollo.
 
 iv. Las definiciones, criterios, supuestos, metodologías, modelos y fuentes de información que sustentan la estimación de flujos de efectivo deben estar documentadas, de manera que sea posible replicar y trazar los cálculos de las mismas.
+
+Sin perjuicio de lo anterior, al tratarse de descalce de plazos en base ajustada, se deberá asignar al menos un porcentaje de los depósitos y demás obligaciones clasificadas en categoría minorista a la banda temporal que le corresponde según su plazo de vencimiento contractual, en concordancia con lo establecido en el numeral 8.8 del capítulo III.B.2.1 del Compendio de Normas Financieras del Banco Central. Los importes asignados por las cuentas de ahorro a plazo se determinarán según su comportamiento, sin considerar los porcentajes mínimos de asignación según el plazo contractual antes referido.
 
 ### 3. Indicadores de monitoreo y razón de liquidez sujeta a límite normativo
 
@@ -11898,9 +11862,9 @@ En el seguimiento de sus pasivos, el banco deberá calcular a lo menos los sigui
 
 3.2.1 Concentración por tipo de contraparte
 
-Los bancos deberán calcular un índice de concentración para cada una de sus fuentes de financiamiento.
+Los bancos deberán calcular un índice de concentración para cada una de sus fuentes de financiamiento significativas, conforme se define en el numeral 1 anterior (clasificación de contrapartes).
 
-Este índice de concentración deberá ser calculado como la fracción del total de pasivos con terceros que representa cada grupo de contrapartes:
+Este índice de concentración deberá ser calculado como la fracción del total de pasivos con terceros que representa cada grupo de contrapartes significativas:
 
 .
 
@@ -11942,7 +11906,7 @@ i: operación con el tipo de instrumento de captación p.
 
 3.2.4 Plazo residual ponderado por instrumento de captación
 
-Los bancos deberán calcular el plazo residual ponderado, en días, para cada uno de los instrumentos de captación.
+Los bancos deberán calcular el plazo residual ponderado, en días, para cada uno de los instrumentos de captación significativos.
 
 El indicador deberá ser calculado de acuerdo a la siguiente fórmula:
 
@@ -12000,7 +11964,7 @@ Asimismo, deberá determinar el NSFR global, es decir, calculado para la suma de
 
 ### IV. INFORMACIÓN A LA SUPERINTENDENCIA
 
-Las empresas bancarias deberán informar regularmente a esta Superintendencia sobre los elementos centrales de su posición de liquidez, en particular, sus descalces de plazo, activos líquidos, razón de cobertura de liquidez (RCL), razón de financiamiento estable neto (RFEN) y los índices de concentración de sus fuentes de financiamiento.
+Las empresas bancarias deberán informar regularmente a esta Superintendencia sobre los elementos centrales de su posición de liquidez, en particular, sus descalces de plazo, activos líquidos, razón de cobertura de liquidez (LCR), razón de financiamiento estable neto (NSFR) y los índices de concentración de sus fuentes de financiamiento.
 
 Esta información se enviará a esta Superintendencia de acuerdo con las instrucciones del Manual de Sistema de Información.
 
@@ -12024,6 +11988,8 @@ b) El volumen y composición de sus activos líquidos.
 
 c) La composición de sus principales fuentes de financiamiento.
 
+d) La razón de cobertura de liquidez (LCR)
+
 Junto con lo anterior, las empresas bancarias deberán informar al público, en forma anual, sobre los aspectos centrales que conforman su proceso de gestión de riesgos. Al respecto, la información mínima deberá contener:
 
 a) Una descripción de la estructura organizacional y funcional en la que se enmarca la gestión de la liquidez.
@@ -12033,6 +11999,10 @@ b) Una reseña del proceso seguido por el banco para la generación, aprobación
 c) Una reseña de los aspectos centrales del marco de políticas y límites de riesgo de liquidez.
 
 La publicación se efectuará en un lugar destacado del sitio Web del banco o en un diario de circulación nacional.
+
+### VI. Disposición Transitoria
+
+La exigencia del LCR entrará a regir a partir del 1 de enero de 2019, a un nivel de 60%, incrementándose anualmente en 10 puntos porcentuales, acorde al calendario de aplicación gradual definido en las disposiciones transitorias del Capítulo III.B.2.1.
 
 ANEXO
 
@@ -12080,19 +12050,27 @@ Elimina inciso.
 
 Si el banco fuere contractualmente el beneficiario de los flujos de ingreso de efectivo generados por instrumentos entregados en garantía, podrá computar dichos flujos de ingreso en la categoría "Activos líquidos sin propósitos de gestión de liquidez" de la Tabla 87 del MSI. En todo caso, el banco siempre deberá considerar los requerimientos adicionales de liquidez que puedan originarse de la reposición de garantías, esto deberá quedar computado en la categoría "Requerimientos adicionales de liquidez que deban constituirse por la desvalorización futura de garantías entregadas" de la Tabla 87 del MSI.
 
-Los flujos de ingreso asociados a contratos sin una fecha de vencimiento predefinida deberán ser asignados a la última banda temporal, en tanto que los flujos de egreso de este tipo de contrato se asignarán a la primera banda. Sin perjuicio de lo anterior, el banco podrá computar en las bandas temporales correspondientes cualquier flujo contractual (por concepto de dividen- do, cuota, cupón u otro), que se origine durante la vida del contrato.
+Los flujos de ingreso asociados a contratos sin una fecha de vencimiento predefinida deberán ser asignados a la última banda temporal, en tanto que los flujos de egreso de este tipo de contrato se asignarán a la primera banda. Sin perjuicio de lo anterior, el banco podrá computar en las bandas temporales correspondientes cualquier flujo contractual (por concepto de dividendo, cuota, cupón u otro), que se origine durante la vida del contrato.
 
 La cartera en incumplimiento se determinará de acuerdo con lo establecido en el numeral 2.2 del Capítulo B-1 del Compendio de Normas Contables de esta Superintendencia.
 
+Los pactos deberán informarse considerando las variaciones que se produzcan en el stock de ALAC o instrumentos financieros no ALAC del banco, de acuerdo al tipo de pacto (compra o venta). Por otro lado, el banco reportará los flujos que se produzcan de acuerdo al tipo de pacto, en la banda temporal que corresponda al vencimiento de la operación.
+
 Cuando el banco enajene instrumentos financieros recibidos en pacto o en garantía como respaldo de operaciones con vencimiento inferior o igual a 30 días, deberá reportar como flujo de egreso el monto equivalente al valor corriente de mercado (sin considerar ningún tipo de haircut) de los instrumentos a restituir. Ese monto deberá informarse en la categoría que corresponda de la Tabla 87 del MSI.
 
-El banco deberá poner especial atención en estimar la absorción futura de liquidez que puedan generar sus posiciones en contratos de derivados, debiendo contemplar estimaciones de todos los flujos de egreso de efectivo, o la entrega de monedas o de instrumentos financieros que puedan originarse en el futuro, durante la vigencia de los contratos. Para esos efectos el banco deberá observar lo indicado en el numeral 2.2 del Título III de este Capítulo.
-
-La exposición futura de las posiciones en instrumentos derivados deberá ser estimada considerando un deterioro del valor razonable del derivado equivalente a dos desviaciones estándar, independientemente de su plazo de vencimiento. Estos montos deben ser computados en la categoría "Requerimiento adicional de liquidez para cumplir con los mecanismos de pago o reposición de márgenes, en función de la exposición futura en contratos derivados" de la Tabla 87 del MSI.
-
-Requerimientos adicionales de liquidez que deban destinarse a reposición de márgenes a causa de la desvalorización de garantías entregadas, devolución a la contraparte de garantías excedentes, restitución de garantías aún no reclamadas y sustitución de garantías ALAC por garantías no ALAC, en contratos que prevean esa permuta, deberán ser reportados en las categorías de la Tabla 87 del MSI que llevan esos mismos nombres.
+Requerimientos adicionales de liquidez que deban destinarse a reposición de márgenes a causa de la desvalorización de garantías entregadas,devolución a la contraparte de garantías excedentes, restitución de garantías aún no reclamadas y sustitución de garantías ALAC por garantías no ALAC, en contratos que prevean esa permuta, deberán ser reportados en las categorías de la Tabla 87 del MSI que llevan esos mismos nombres.
 
 Para los contratos que contengan opcionalidades o covenants en función de la clasificación de riesgo de crédito del banco, deberá suponerse una disminución en la clasificación de largo plazo de tres niveles. Cualquier otra variable que se considere para ese mismo efecto (EBITDA, apalancamiento, etc.), deberá ser tratada de manera consistente. En caso de que no se pueda precisar el monto de la opcionalidad, se deberá considerar el valor nominal total del contrato. Los montos por este concepto, deberán ser reportados como flujo contingente en la categoría "Requerimiento adicional de liquidez por contratos con opcionalidad incrustada o covenants" de la Tabla 87 del MSI. Si, por el contrario, el banco tiene contratos con opcionalidad incrustada o covenant que prevean la entrega de líneas de liquidez a la contraparte, estas líneas deberán ser informadas en las posiciones contingentes para líneas de liquidez que se indican en la Tabla 87 del MSI.
+
+### 4. Agregación a través de monedas para determinar LCR y NSFR global
+
+En el caso del LCR global (razón calculada para la suma de moneda nacional y extranjera) se deben utilizar las fórmulas de ALAC y Egresos Netos, considerando todas las monedas "m", de acuerdo a los siguientes algoritmos:
+
+.
+
+donde:
+
+.
 
 ## Capítulo 12-21
 
