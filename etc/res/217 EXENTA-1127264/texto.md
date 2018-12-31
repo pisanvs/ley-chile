@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "CRIANZA Y ENGORDA DE SALMÓNIDOS EN ESTANQUES EN TIERRA"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N°40/2012, del Ministerio de Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta N° 217 de fecha 3 de diciembre de 2018, la Directora Regional (S) del Servicio de Evaluación Ambiental de la Región del Biobío, ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Crianza y Engorda de Salmónidos en Estanques en Tierra", cuyo proponente es Bordemar-Tumbes SpA.
+
+El Proyecto se sitúa en terrenos del Fundo Lo Alfaro, camino a Tumbes (Ruta Q-480), aproximadamente en el kilómetro 2,5, comuna de Talcahuano, Región del Biobío. Consiste en la construcción, implementación y operación de una piscicultura de recirculación, basada en tierra para una producción de aproximadamente 4.000 toneladas al año de peces de la especie salmónidos y truchas, se desarrollará en una superficie predial de aproximadamente 13,77 hectáreas, donde se incorporarán obras permanentes y temporales.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto, según lo dispuesto en el artículo 95 del DS N° 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicada en calle Lincoyán 145, Concepción, en horario de atención entre las 8:30 a 13:30 horas, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web www.sea.gob.cl.-
+
+Marcela Núñez Rodríguez, Directora Regional Subrogante, Servicio de Evaluación Ambiental Región del Biobío.
