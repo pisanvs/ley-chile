@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 4.149 de fecha 20/12/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 22-0, consistente en Inmueble Lote número Uno de la Subdivisión predial de una superficie de un mil quince metros cuadrados, ubicado en Avenida O'Higgins número dos mil doscientos quince de la ciudad y comuna de Angol, Provincia de Malleco, Novena Región de la Araucanía. Comuna de Angol, Rol de avalúo 853-18. La superficie a expropiar aproximada es de 11,33 metros cuadrados, de aparente dominio de la Sucesión intestada de Vasthi Juana Barra Fuentealba, formada por su hijo Patricio Alejandro Villena Barra. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $4.860.165, según Informe Nº 22-0 de fecha 19/12/2018, pagadero Contado.
+
+Director Serviu Región de la Araucanía.
