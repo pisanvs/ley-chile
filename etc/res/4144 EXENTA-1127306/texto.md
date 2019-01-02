@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.144 de fecha 20/12/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 10-0, que corresponde a la Propiedad consistente en "Inmueble denominado Lote Cinco de una superficie de ochocientos cincuenta y cuatro coma noventa y siete metros cuadrados, ubicado en Angol Avenida O'Higgins número ochocientos ochenta y tres de esta ciudad", Comuna de Angol, Rol de avalúo 315-37. La superficie a expropiar aproximada es de 46,86 metros cuadrados, de aparente dominio de Norma del Carmen Aránguiz Arriagada. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto; Arturo Osvaldo Cantos Oyarzún, Arquitecto y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $22.191.900, según Informe Nº 10-0 de fecha 19/12/2018, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
