@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.139 de fecha 20/12/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 03-0, "Casa y sitio ubicados en avenida Bernardo O’Higgins número ciento veintitrés, que mide dieciocho metros sesenta centímetros por cuarenta metros de fondo, de la ciudad y comuna de Angol, provincia de Malleco, Novena Región", Rol de avalúo 311-1. La superficie a expropiar aproximada es de 55,45 metros cuadrados, de aparente dominio de Sociedad Comercializadora Distribuidora Clee Limitada o Distribuidora Clee Ltda. Comisión de Peritos integrada por los señores Mario Gutiérrez Truan, arquitecto, Claudio Romo Sanhueza, arquitecto y Arturo Cantos Oyarzún, arquitecto, fijó monto de Indemnización Provisional en $22.927.846.- según Informe Nº 03-0, de fecha 19 de diciembre de 2018, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
