@@ -1,0 +1,5 @@
+RESOLUCIÓN N° 901 EXENTA, DE FECHA 11 DE DICIEMBRE DE 2018, DEL SUPERINTENDENTE DE EDUCACIÓN, QUE "APRUEBA CIRCULAR NORMATIVA SOBRE LA DECLARACIÓN DE INFORMACIÓN ANUAL DEL SOSTENEDOR SUBVENCIONADO A LA SUPERINTENDENCIA DE EDUCACIÓN"
+
+Con fecha 11 de diciembre de 2018, la Superintendencia de Educación dicta resolución exenta N° 901, que "Aprueba Circular Normativa sobre la declaración de información anual del sostenedor subvencionado a la Superintendencia de Educación", la cual contiene instrucciones de carácter general dirigidas a los sostenedores de establecimientos educacionales que reciben subvención del Estado, a fin de que puedan realizar oportuna y eficazmente el proceso anual de declaración de información que solicita la Superintendencia de Educación regularmente, sobre distintos aspectos de la gestión educativa. La resolución referida comenzará a regir desde su publicación en extracto en el Diario Oficial y estará disponible íntegramente para la comunidad en la página web institucional www.supereduc.cl.
+
+Daniella Maureira, Jefe Depto. Fiscalización.
