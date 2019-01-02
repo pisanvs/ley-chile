@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Ex. N° 4.146 de fecha 20/12/2018, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y D.S. 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 06-A, que corresponde a "Inmueble ubicado en Avenida General Bernardo O'Higgins número setecientos sesenta y uno, una superficie aproximada de ochocientos cincuenta y cuatro coma doce metros cuadrados, de la ciudad y comuna de Angol, Provincia de Malleco, Novena Región de la Araucanía, según plano Individual n° IX - 1- 3399-S.U.", Comuna de Angol, Rol de avalúo 315-24. La superficie a expropiar aproximada es de 1,65 metros cuadrados, de aparente dominio de Sandra Elizabeth Rubio Arias. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $591.286, según Informe N° 06-A de fecha 19/12/2018, pagadero Contado.
+
+Director Serviu Región de la Araucanía.
