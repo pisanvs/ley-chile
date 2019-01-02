@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 4.147 de fecha 20/12/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 30-0, consistente en Lote o Sitio número ciento dieciocho del plano de subdivisión de los lotes C y C1 ubicados en Huequén comuna de Angol, comuna de Angol, Rol de avalúo 799-1/799-2. La superficie a expropiar aproximada es de 4,22 metros cuadrados, de aparente dominio de doña Norma María Morales Fuentes. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, arquitecto, Arturo Osvaldo Cantos Oyarzún, arquitecto y Claudio Romo Sanhueza, arquitecto, fijó monto de Indemnización Provisional en $3.012.259, según Informe Nº 30-0 de fecha 19/12/2018, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
