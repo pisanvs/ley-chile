@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.897, 5 de diciembre de 2018, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Colón 6871 IN Pob. Esmeralda, Rol de Avalúo N° 3508-14, comuna de Talcahuano, de aparente dominio de Hidalgo León Carmen Rosa. La superficie afecta a expropiación total es de 167,20 m 2 de terreno y cuyos linderos particulares enmarcado según plano S8R-37561, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Victoria García Silvera, por el arquitecto Andrés Tobar Beluzán y por el arquitecto Alexander Boye Trenit, según informe de fecha 22.10.2018, fijó monto provisional de indemnización en $20.113.865.-, pagadera de contado.
+
+Director (S) Serviu Región del Biobío.
