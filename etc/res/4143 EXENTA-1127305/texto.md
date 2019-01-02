@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.143 de fecha 20/12/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 07-0, que corresponde a la "Propiedad urbana ubicada en Avenida Libertador O'Higgins número setecientos ochenta y uno de esta ciudad, la que tiene una cabida de quinientos cuarenta y dos coma diez metros cuadrados", Comuna de Angol, Rol de avalúo 315-34. La superficie a expropiar aproximada es de 4,23 metros cuadrados, de aparente dominio de Eduardo Eugenio Vásquez Redoles. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Arturo Osvaldo Cantos Oyarzún, Arquitecto, y Claudio Romo Sanhueza, Arquitecto, fijó monto de indemnización provisional en $1.515.843, según Informe Nº 07-0 de fecha 19/12/2018, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
