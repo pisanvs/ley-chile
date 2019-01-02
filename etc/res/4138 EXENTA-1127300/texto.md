@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 4.138 de fecha 20/12/2018, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 04-0, "Casa y sitio ubicados en avenida Libertador O’Higgins número doscientos veintinueve de esta ciudad de Angol, que mide veinte metros de frente por dicha avenida, por cuarenta metros de fondo correspondiente", Rol de avalúo 312-2. La superficie a expropiar aproximada es de 32,79 metros cuadrados, de aparente dominio de Juan Gabriel Ruiz Palma. Comisión de Peritos integrada por los señores Mario Gutiérrez Truan, arquitecto, Claudio Romo Sanhueza, arquitecto y Arturo Cantos Oyarzún, arquitecto, fijó monto de Indemnización Provisional en $21.487.258.- según Informe Nº 04-0, de fecha 19 de diciembre de 2018, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
