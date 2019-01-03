@@ -26,7 +26,7 @@ Que vistas las facultades que me confiere la ley;
 
 Resuelvo:
 
-1° Delégase en los(las) Secretarios(as) Regionales Ministeriales de Desarrollo Social, el ejercicio de la facultad de suscribir y aprobar convenios de transferencia de recursos, con organismos ejecutores del Programa Noche Digna, contemplado en la Partida 21, Capítulo 01, Programa 01, Subtítulo 24, Ítem 03, Asignación 998, de la Ley N° 21.053 de Presupuestos del Sector Público correspondiente al año 2018, cuya cuantía sea inferior a 5.000 Unidades Tributarias Mensuales, en el ámbito de su respectiva región, así como también suscribir y aprobar los actos relacionados con la ejecución y término de dichos convenios.
+1° Delégase en los(las) Secretarios(as) Regionales Ministeriales de Desarrollo Social, el ejercicio de la facultad de suscribir y aprobar convenios de transferencia de recursos, con organismos ejecutores del Programa Noche Digna, contemplado en la Partida 21, Capítulo 01, Programa 01, Subtítulo 24, Ítem 03, Asignación 998, de la Ley N° 21.053 de Presupuestos del Sector Público correspondiente al año 2018, cuya cuantía sea inferior a 5.000 Unidades Tributarias Mensuales, en el ámbito de su respectiva región, así como también suscribir y aprobar los actos relacionados con la ejecución y término de dichos convenios y con los centros temporales para la superación denominados ‘Vivienda con Apoyo'.
 
 2° La presente resolución comenzará a regir una vez que se encuentre totalmente tramitada.
 
