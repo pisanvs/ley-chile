@@ -1,0 +1,7 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.977, de 19 de noviembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1. Modifícase la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.189, de 8 de julio de 1997, modificada por resolución 1.556, de 1 de septiembre de 2000, y por resolución 1.378, de 12 de noviembre de 2008, todas del Ministerio de Defensa Nacional, Subsecretaría de Marina, modificada por resolución exenta 4.532, de 7 de junio de 2013, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, cuya transferencia fue inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría para las Fuerzas Armadas a fs. 366, Nº 731, de 10 de junio de 2013, e inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría de Pesca y Acuicultura bajo el Nº 608, de 22 de septiembre de 2014, a nombre de su actual titular Multiexport Pacific Farms S.A., sociedad chilena, RUT 76.259.377-7, con domicilio en Cardonal 2501, Puerto Montt, en el sentido que el concesionario debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 2.253, de 25 de junio de 2018, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el Nº 4 de la parte resolutiva del acto administrativo que otorgó la concesión de acuicultura.-
+
+Por orden del Subsecretario para las Fuerzas Armadas, Cristián García-Huidobro C., Jefe División Jurídica.
