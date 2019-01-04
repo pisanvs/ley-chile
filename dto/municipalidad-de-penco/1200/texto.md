@@ -612,6 +612,8 @@ ZONA RESIDENCIAL DE DENSIDAD ALTA (ZR-1)
 
 ZONA RESIDENCIAL DE DENSIDAD MEDIA (ZR -2)
 
+.
+
 ZONA RESIDENCIAL CENTRAL DE PENCO ZR - 3
 
 Usos permitidos: Residencial
@@ -871,6 +873,8 @@ Densidad habitacional
 bruta máxima 600 hab/há
 
 ZONA RESIDENCIAL 7 (ZR-7)
+
+.
 
 ZONA DE EQUIPAMIENTO COMERCIAL PREFERENTE ZE - 1
 
@@ -3325,3 +3329,5 @@ Asimismo, en este mismo loteo, se considerará el 'Pasaje La Cancha', como 'Call
 > **Nota.** NOTA 1 El numeral 1° del Decreto 337, Municipalidad de Penco, publicado el 14.02.2015, modifica la presente norma en el sentido de dejar sin efecto las Declaratorias de Utilidad Pública en relación a las Vías Estructurantes del Plan Regulador Comunal de Penco.
 
 > **Nota.** NOTA 2 El Decreto 2272, Municipalidad de Penco, publicado el 09.04.2015, modifica la presente norma en el sentido dejar sin efecto las declaratorias de utilidad pública en relación a las vías estructurantes del Plan Regulador Comunal de Penco
+
+> **Nota.** NOTA 3 El numeral 2 del Decreto 5620, Municipalidad de Penco, publicado el 04-01-2019, modifica el trazado de la Declaratoria de Utilidad Pública de la Calle Bordemar, de acuerdo a la situación propuesta graficada en Plano M-02, asimilando las normas urbanísticas de las zonas adyacentes del trazado eliminado, según el cuadro que la citada norma indica, reemplace la última fila del cuadro de vías del artículo 6.3 correspondiente a la Calle Bordemar.
