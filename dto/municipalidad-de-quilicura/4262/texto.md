@@ -22,6 +22,8 @@ MODIFICACIÓN:
 
 En el Capítulo V, Artículo 20 de la Ordenanza Local del Plan Regulador Comunal.
 
+.
+
 En el Capítulo VI, Artículo 22 de la Ordenanza Local del Plan Regulador Comunal.
 
 Publíquese en el Diario Oficial el presente decreto y en la página web de la Municipalidad de Quilicura.
