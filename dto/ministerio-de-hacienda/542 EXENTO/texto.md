@@ -22,11 +22,13 @@ Nombre de Titular de Valor de
 
 la Obra la Obra la Obra
 
-Construcción Servicio de $952.000.000.-
+Construcción Servicio de $398.650.000.-
 
-Centro de Salud Salud Maule
+Posta de Salud Salud Maule
 
-Familiar Santa Olga Rut Nº 61.606.900-4
+Rural Santa Olga Rut Nº 61.606.900-4
+
+2.- Celébrese para la ejecución de la obra un convenio de ejecución, en los términos dispuestos en el artículo 8° bis de la Ley Nº 20.444, entre la Subsecretaría correspondiente del Ministerio de Salud y el donante.
 
 Anótese y publíquese.- Por orden de la Presidenta de la República, Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.
 
