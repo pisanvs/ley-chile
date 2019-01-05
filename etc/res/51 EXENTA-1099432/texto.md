@@ -46,9 +46,9 @@ Tercer orden de subrogación: Cabello Gómez, Mónica Pamela, RUT 11.822.490-6, 
 
 Dirección Regional de Coquimbo:
 
-Primer Orden de Subrogancia: Román Ramos Paulina Andrea, RUT: 13.945.570-3, Contrata, Profesional, Grado 11° EOF.
+Primer orden de Subrogancia: Paulina Román Ramos, RUN N° 13.945.570-3, Contrata, Profesional, grado 11° EOF.
 
-Segundo Orden de Subrogancia: Castillo Álvarez Manuel Artemio, RUT: 8.443.935-5, Contrata, Fiscalizador, Grado 11° EOF.
+Segundo orden de Subrogancia: Alfredo Villagrán Tapia, RUN N° 8.520.185-9, Contrata, Profesional, grado 11° EOF.
 
 Tercer Orden de Subrogancia: López Gómez Osvaldo Edison, RUT: 7.752.049-K, Contrata, Profesional, Grado 11° EOF.
 
