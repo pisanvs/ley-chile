@@ -718,75 +718,59 @@ Zona ZC3 Residencial Mixto (Santa Elena sur - El Salto)
 
 a. Condiciones de uso de suelo:
 
-a.1 Usos permitidos: Residencial; Equipamiento de: Comercio, Culto y Cultura, Deporte, Educación, Esparcimiento, Salud, Seguridad, Servicios, Social y Area verde. Respecto a las escalas de estos equipamientos, se encuentran señaladas en el artículo 23 de la presente Ordenanza, según lo dispuesto en el artículo 2.1.36 de la Ordenanza General.
+a.1 Usos Permitidos: Residencial; Equipamiento de la clase: científico, comercio, culto y cultura, deporte, educación, esparcimiento, salud, seguridad, servicios y social; área verde.
 
-a.2 Usos restringidos: Equipamiento de: Culto y Cultura y Esparcimiento, sólo se permiten frente a calles de perfil de 15 m. o más.
+a.2 Usos prohibidos: Discotecas, quintas de recreo, hospederías, moteles, residenciales, Locales destinados exclusivamente a la venta de bebidas alcohólicas; Juegos electrónicos, venta de combustible, lavado de autos, estaciones o centros automotriz, planta de revisión técnica, terminales de locomoción colectiva, bodegas de todo tipo, industrias y talleres molestos e inofensivos y todos los usos no mencionados como permitidos.
 
-Equipamiento de Servicios Artesanales, se permiten sólo aquellos que tienen sala de ventas y están clasificados como inofensivos y no están expresamente prohibidos.
+b. Condiciones de subdivisión y edificación:
 
-Equipamiento de Educación, Salud y centros de eventos y convenciones incluido su alojamiento como uso complementario a estas actividades, sólo se permite frente a calles de perfil de 20 m. o más.
+b.1 Superficie de subdivisión predial mínima: 500 m²
 
-Industria inofensiva: sólo se permite en aquellos predios que tengan frente a la Avenida El Guanaco, al lado oriente de la avenida Santa Rosa y en el loteo Industrial existente en calle Santa Elena Sur, entre Santa Elena Sur y El Guanaco.
+b.2 Coeficiente de constructibilidad: 1.8
 
-a.3 Usos prohibidos: Industrias y Talleres molestos; Bodegas de todo tipo; Terminales de locomoción colectiva; Quintas de Recreo, Discotecas, Hospederías, Moteles y Residenciales; locales destinados exclusivamente a la venta de bebidas alcohólicas.
-
-b. Condiciones de subdivisión y edificación para uso residencial:
-
-b.1 Superficie predial mínima: 800 metros
-
-b.2 Coeficiente máximo de constructibilidad: 2,0
-
-b.3 Porcentaje máximo de ocupación de suelo: 50%
+b.3 Coeficiente de ocupación de suelo: 0,5
 
 b.4 Sistema de Agrupamiento: Aislado
 
-b.5 Altura máxima de edificación: De acuerdo a rasantes, según O.G.U.C., salvo en el sector comprendido entre Camino La Pirámide y Rinconada El Salto, que deslinda con las zonas ZE5, ZH5 y zona ZE7, donde se permite una altura máxima de 14 metros.
+b.5 Altura máxima de edificación: 16 metros (6 pisos)
 
-b.6 Antejardín: Predios menores de 1.000 m² : 5 metros; predios entre 1.001 y 2.000 m²: 7 metros; predios mayores 2.000 m²: 10 metros.
-
-Para los predios que tengan frente a la Avenida Las Torres se consulta antejardín mínimo de 10 metros para usos de equipamiento y un mínimo de 5 metros para uso de vivienda. Para los predios que tengan frente a Av. El Guanaco se consulta antejardín mínimo de 10 metros para usos de equipamiento y un mínimo de 6 metros para uso de vivienda.
+b.6 Antejardín: 5 metros
 
 b.7 Estacionamientos: Aquellos señalados en el artículo 31 de la presente Ordenanza.
 
-b.8 Densidad mínima bruta: 150 Hab/há
+b.8 Eliminado.
 
 b.9 Densidad máxima bruta: 600 Hab/há
 
 c. Condiciones de subdivisión y edificación para uso equipamiento:
 
-c.1 Superficie predial mínima: 1.500 m2
+c.1 Eliminado.
 
-c.2 Coeficiente máximo de constructibilidad: 2,0
+c.2 Eliminado.
 
-c.3 Porcentaje máximo de ocupación de suelo: 50%
+c.3 Eliminado.
 
-c.4 Sistema de Agrupamiento: Aislado, pareado o continuo, distanciamientos según Ordenanza General.
+c.4 Eliminado.
 
-c.5 Altura máxima de edificación: De acuerdo a rasantes, según O.G.U.C., salvo en el sector comprendido entre Camino La Pirámide y Rinconada El Salto, que deslinda con las zonas Zona ZE5, ZH5 y ZE7, donde la altura será de 14 metros máximo.
+c.5 Eliminado.
 
-c.6 Antejardín: predios menores de 1.000 m²: 5 metros; predios entre 1.001 y 2.000 m²: 7 metros; predios mayores 2.000 m²: 10 metros.
-
-Para los predios con frente a Avenida Las Torres, se consulta antejardín mínimo de 10 metros.
-
-Para los predios con frente a la Avenida El Guanaco se consulta un antejardín mínimo de 15 metros.
-
-c.7 Estacionamientos: aquellos señalados en el artículo 31 de la presente Ordenanza.
+c.6 Eliminado.
 
 d. Condiciones de subdivisión y edificación para uso industria inofensiva:
 
-d.1 Superficie predial mínima: 2.500 m²
+d.1 Eliminado.
 
-d.2 Coeficiente máximo de constructibilidad: 1,2
+d.2 Eliminado.
 
-d.3 Porcentaje máximo de ocupación de suelo: 50%
+d.3 Eliminado.
 
-d.4 Sistema de Agrupamiento: Aislado
+d.4 Eliminado.
 
-d.5 Altura máxima de edificación: Libre, rasante según O.G.U.C.
+d.5 Eliminado.
 
-d.6 Antejardín: 15 metros.
+d.6 Eliminado.
 
-d.7 Estacionamientos: aquellos señalados en el artículo 31 de la presente Ordenanza.
+d.7 Eliminado.
 
 #### Artículo 43
 
@@ -958,35 +942,31 @@ Zona ZH2 Residencial (Los Libertadores)
 
 a. Condiciones de uso de suelo:
 
-a.1 Usos permitidos: Residencial; Equipamiento de: comercio, culto y cultura, deporte educación, esparcimiento, salud, servicios y social y área verde.
+a.1 Usos permitidos: Residencial; Equipamiento de la clase: Científico, comercio, culto y cultura, deporte educación, esparcimiento, salud, servicios y social; y área verde.
 
-a.2 Usos restringidos: Equipamiento de: culto y cultura, deporte, educación, esparcimiento, salud y servicio, sólo se permite frente a vías de ancho igual o superior a 15 m.
-
-Terminales de locomoción colectiva urbana, se permiten sólo en predios de tamaño igual o superior a 5000 m² y con frente a calles de ancho igual o superior a 25 metros, siempre y cuando cumplan con todas las normas establecidas específicamente para esta actividad en el capítulo 13 de la Ordenanza General y en el artículo 7.1.4 del PRMS.
-
-Industria Inofensiva: en esta zona se permite la localización de industria inofensiva, en los terrenos que cuentan con tamaño predial igual o superior a 5.000 m² , siempre y cuando la subdivisión predial se haya realizado con fines industriales y con anterioridad a la entrada en vigencia del presente Plan Regulador Comunal; además, la calle que enfrente a las instalaciones industriales debe tener un ancho mínimo de 20 metros.
-
-a.3 Usos prohibidos: Discotecas, quintas de recreo, hosterías, moteles, hoteles, hospederías y residenciales, Industrias, talleres molestos, bodegas de todo tipo. Además se prohíben todos aquellos usos de suelo que no están expresamente permitidos y los restringidos que no cumplen con las condiciones establecidas por esta Ordenanza.
+a.2 a.2 Usos prohibidos: Discotecas, quintas de recreo, hosterías, moteles, hoteles, hospederías, residenciales, locales destinados exclusivamente a la venta de bebidas alcohólicas, juegos electrónicos, venta de combustible, lavados de autos, estaciones o centros automotriz, planta de revisión técnica, terminales de locomoción colectiva, bodegas de todo tipo, industrias y talleres molestos e inofensivos, y todos los usos no mencionados como permitidos.
 
 b. Condiciones de subdivisión y edificación:
 
-b.1 Superficie predial mínima: 160 m²
+b.1 Superficie de subdivisión predial mínima: 160 m²
 
 b.2 Coeficiente máximo de constructibilidad: 1,0
 
-b.3 Porcentaje máximo de ocupación de suelo: 50%
+b.3 Coeficiente de ocupación de suelo: 0,5
 
-b.4 Sistema de Agrupamiento: aislado y pareado en la línea de edificación.
+b.4 Sistema de agrupamiento: aislado
 
-b.5 Altura máxima de edificación: 10,5 metros.
+b.5 Altura máxima de edificación: 11 metros (4 pisos)
 
-b.6 Antejardín: Según lo establecido en el artículo 18 de la presente Ordenanza. Para los predios con frente al Guanaco Norte, se consulta antejardín mínimo de 15 metros para uso de equipamiento y de 6 metros para uso de vivienda. b.7 Estacionamientos: aquellos señalados en el artículo 31 de la presente Ordenanza.
+b.6 Antejardín: 3 metros
 
-b.8 Densidad mínima bruta: 100 Hab/há
+b.7 Estacionamientos: aquellos señalados en el artículo 31 de la presente Ordenanza.
+
+b.8 Eliminado.
 
 b.9 Densidad máxima bruta: 400 Hab/há
 
-c. En aquellos predios que enfrenten la Av. El Guanaco Norte se podrá aumentar la altura de edificación hasta 14 metros, en cuyo caso el porcentaje de ocupación de suelo no podrá exceder al 40%. Todas las demás normas de edificación de esta zona permanecen sin modificación.
+c. Eliminado.
 
 #### Artículo 48
 
@@ -994,71 +974,27 @@ Zona ZH3 Residencial (Santa Rosa de Huechuraba - Santa Clara)
 
 a. Condiciones de uso de suelo:
 
-a.1 Usos permitidos: Residencial; Equipamiento de: comercio, culto y cultura, deporte, educación, esparcimiento, salud, servicios y social; área verde.
+a.1 Usos permitidos: Residencial; Equipamiento de la clase: Científico, comercio, culto y cultura, deporte, educación, esparcimiento, salud, servicios y social; área verde.
 
-a.2 Usos restringidos: Equipamiento de: Culto y cultura, deporte, educación, esparcimiento, salud, y servicios, estas actividades se permiten sólo frente a vías de ancho igual o superior a 15 m.
+a.2 Usos prohibidos: Discotecas, quintas de recreo, hosterías, moteles, hoteles, hospederías y residenciales, locales destinados exclusivamente a la venta de bebidas alcohólicas, juegos electrónicos, venta de combustible, lavados de autos, estaciones o centros automotriz, planta de revisión técnica, terminales de locomoción colectiva, bodegas de todo tipo, industrias y talleres molestos e inofensivos, y todos los usos no mencionados como permitidos.
 
-Terminales de locomoción colectiva urbana, se permite sólo en predios de superficie igual o superior a 5.000 m² y con frente a calles de ancho igual o superior a 25 m. siempre y cuando cumplan con todas las normas establecidas específicamente para esta actividad en el capítulo 13 de la Ordenanza General y en el artículo 7.1.4 del PRMS.
+b. Condiciones de subdivisión y edificación
 
-a.3 Usos prohibidos: Equipamiento de esparcimiento y turismo, se prohíbe la localización de discotecas, quintas de recreo, hosterías, moteles, hospederías y residenciales.
+b.1 Superficie de subdivisión predial mínima: 200 m²
 
-b. Condiciones de subdivisión y edificación en predios menores de 1.000 m² de superficie:
+b.2 Coeficiente de constructibilidad: 1,6
 
-b.1 Superficie predial mínima: 200 m²
+b.3 Coeficiente de ocupación de suelo: 0,6
 
-b.2 Coeficiente máximo de constructibilidad: 1,2
+b.4 Sistema de agrupamiento: Aislado
 
-b.3 Porcentaje máximo de ocupación de suelo: 60%
+b.5 Altura máxima de edificación: 11 metros (4 pisos)
 
-b.4 Sistema de Agrupamiento: aislado y pareado
+b.6 Antejardín: 5 metros
 
-b.5 Altura máxima de edificación: 10,5 metros.
+b.7 Estacionamientos: aquellos señalados en el artículo 31 de la presente Ordenanza
 
-b.6 Antejardín: Según lo establecido en el artículo 18 de la presente Ordenanza. Para los predios con frente a Av. El Carmen (Av. Las Torres), se consulta un antejardín mínimo de 10 metros para uso de equipamiento y 5 metros para uso de vivienda. Para los predios con frente a Av. Santa Clara se establece un antejardín mínimo de 10 metros. Para los predios con frente al Guanaco Norte y Av. El Guanaco se consulta antejardín mínimo de 15 metros para uso de equipamiento y 6 metros para uso de vivienda.
-
-b.7 Densidad mínima bruta: 150 Hab/há
-
-b.8 Densidad máxima bruta: 350 Hab/há
-
-c. Condiciones de subdivisión y edificación en predios de 1.000 m2 a 5.000 m2 de superficie:
-
-c.1 Superficie predial mínima: 1000 m²
-
-c.2 Coeficiente máximo de constructibilidad: 2
-
-c.3 Porcentaje máximo de ocupación de suelo: 50%
-
-c.4 Sistema de Agrupamiento: Aislado
-
-c.5 Altura máxima de edificación: según rasantes Ordenanza General, considerando la constructibilidad y la ocupación de suelo.
-
-c.6 Antejardín: según lo establecido en el artículo 18 de la presente Ordenanza. Para los predios con frente a Av. El Carmen (Av. Las Torres), se consulta un antejardín mínimo de 10 metros para uso de equipamiento y 5 metros para uso de vivienda. Para los predios con frente a Av. Santa Clara se establece un antejardín mínimo de 10 metros. Para los predios con frente al Guanaco Norte y Av. El Guanaco se consulta antejardín mínimo de 15 metros para uso de equipamiento y 6 metros para uso de vivienda.
-
-c.7 Estacionamientos: debe cumplir con las condiciones establecidas en el artículo 31 de la presente Ordenanza.
-
-c.8 Densidad mínima bruta: 150 Hab/há
-
-c.10 Densidad máxima bruta: 450 Hab/há
-
-d. Condiciones de subdivisión y edificación en predios de 5000 m2 o más superficie:
-
-d.1 Superficie predial mínima: 5.000 m²
-
-d.2 Coeficiente máximo de constructibilidad: 2,5
-
-d.3 Porcentaje máximo de ocupación de suelo: 40%
-
-d.4 Sistema de Agrupamiento: Aislado
-
-d.5 Altura máxima de edificación: Según rasantes Ordenanza General, considerando la constructibilidad y ocupación de suelo.
-
-d.6 Antejardín: Según lo establecido en el artículo 18 de la presente Ordenanza. Para los predios con frente a Av. El Carmen (Av. Las Torres), se consulta un antejardín mínimo de 10 metros para uso de equipamiento y 5 metros para uso de vivienda. Para los predios con frente a Av. Santa Clara se establece un antejardín mínimo de 10 metros. Para los predios con frente al Guanaco Norte y Av. El Guanaco se consulta antejardín mínimo de 15 metros para uso de equipamiento y 6 metros para uso de vivienda.
-
-d.7 Estacionamientos: debe cumplir con las condiciones establecidas en el artículo 31 de la presente Ordenanza.
-
-d.8 Densidad mínima bruta: 150 Hab/há
-
-d.9 Densidad máxima bruta: 600 Hab/há
+b.8 Densidad bruta máxima: 550 Hab./ha.
 
 #### Artículo 49
 
@@ -1146,45 +1082,31 @@ Zona ZH6 Residencial ( El Carmen de Huechuraba)
 
 a. Condiciones de uso de suelo:
 
-a.1 Usos permitidos: Residencial; Equipamiento de: Comercio, culto y cultura, educación, salud y servicios.
+a.1 Usos permitidos: Residencial; Equipamiento de la clase: Científico, comercio, culto y cultura, deporte educación, esparcimiento, salud, servicios y social; y área verde.
 
-a.2 Usos restringidos: Equipamiento de: Comercio, culto y cultura, educación, salud y servicios.
-
-Estas actividades se permiten sólo frente a vías de ancho igual o superior a 15 m.
-
-a.3 Usos prohibidos: Todos lo no indicados precedentemente.
+a.2 Usos prohibidos: Discotecas, quintas de recreo, hosterías, moteles, hoteles, hospederías, residenciales, locales destinados exclusivamente a la venta de bebidas alcohólicas, juegos electrónicos, venta de combustible, lavados de autos, estaciones o centros automotriz, planta de revisión técnica, terminales de locomoción colectiva, bodegas de todo tipo, Industrias y talleres molestos e inofensivos, y todos los usos no mencionados como permitidos.
 
 b. Condiciones de subdivisión y edificación:
 
-b.1 Superficie predial mínima: 500 m²
+b.1 Superficie de subdivisión predial mínima: 500 m²
 
-b.2 Coeficiente máximo de constructibilidad: 0,8
+b.2 Coeficiente de constructibilidad: 0,8
 
-b.3 Porcentaje máximo de ocupación de suelo: 50%
+b.3 Coeficiente de ocupación de suelo: 0,5
 
-b.4 Sistema de Agrupamiento: Aislado, pareado
+b.4 Sistema de Agrupamiento: aislado
 
-b.5 Altura máxima de edificación: 10,5 metros; aquellos predios que enfrenten las Avdas. El Guanaco Norte y Pedro Fontova, en una franja de hasta 60 m. de ancho, se podrá aumentar la altura de edificación hasta 14 m.
+b.5 Altura de edificación: 11 metros (4 pisos).
 
-b.6 Antejardín: Según lo establecido en el artículo 18 de esta Ordenanza. Para los predios con frente al Guanaco Norte, se consulta antejardín mínimo de 15 metros para uso de equipamiento y de 6 metros para uso de vivienda. b.7 Estacionamientos: Aquellos señalados en el artículo 31 de la presente Ordenanza.
+b.6 Antejardín: 5 metros
 
-b.8 Densidad mínima bruta: 75 Hab/há
+b.7 Estacionamientos: Aquellos señalados en el artículo 31 de la presente Ordenanza.
+
+b.8 Eliminado.
 
 b.9 Densidad máxima bruta: 300 Hab/há
 
-c. En aquellos sectores en que la pendiente es superior al 25% se podrán construir edificios con las siguientes condiciones de edificación y subdivisión.
-
-c.1 Superficie predial mínima: 2.000 m²
-
-c.2 Coeficiente máximo de constructibilidad: 1,2
-
-c.3 Porcentaje máximo de ocupación de suelo: 20%
-
-c.4 Sistema de Agrupamiento: Aislado
-
-c.5 Altura máxima de edificación: 21 metros
-
-c.6 Antejardín: Según lo establecido en el articulo 18 de esta Ordenanza. Para los predios con frente al Guanaco Norte, se consulta antejardín mínimo de 15 metros para uso de equipamiento y de 6 metros para uso vivienda. c.7 Estacionamientos: Aquellos señalados en el artículo 31 de la presente Ordenanza.
+c. Eliminado.
 
 #### Artículo 52
 
@@ -1302,6 +1224,34 @@ IV) Zonas especiales:
 
 #### Artículo 55
 
+Zona ZH10 Residencial (altura media)
+
+a. Condiciones de uso de suelo:
+
+a.1 Usos permitidos: Residencial; Equipamiento de la clase: Científico, Comercio, Culto y Cultura, Deporte, Educación, Esparcimiento, Salud, Servicios, Social, y Área verde.
+
+a.2 Usos prohibidos: Discotecas, Quintas de recreo, Hosterías, Moteles, Hospederías residenciales, Locales destinados exclusivamente a la venta de bebidas alcohólicas, Juegos electrónicos, estaciones o Centros automotriz, venta de combustible, lavados de autos, terminales de locomoción colectiva, planta de revisión técnica, bodegas de todo tipo, industrias y talleres molestos e inofensivos, y todos los no mencionados como permitidos.
+
+b. Condiciones de subdivisión y edificación:
+
+b.1 Superficie de subdivisión predial mínima: 400 m²
+
+b.2 Coeficiente de constructibilidad: 1,8
+
+b.3 Coeficiente de ocupación de suelo: 0,6
+
+b.4 Sistema de Agrupamiento: aislado
+
+b.5 Altura máxima de edificación: 16 metros (6 pisos)
+
+b.6 Antejardín: 5 metros.
+
+b.7 Estacionamientos: Aquellos señalados en el artículo 31 de la presente ordenanza.
+
+b.8 Densidad bruta máxima: 550 Hab/ha.
+
+#### Artículo 56
+
 Zona ZE1 Cementerios Parque
 
 a. Condiciones de uso de suelo:
@@ -1318,13 +1268,13 @@ Esta zona se rige por las disposiciones vigentes sobre cementerios, sin perjuici
 
 Esta zona coincide con los Cementerios Parque del Recuerdo y Parque de Santiago.
 
-#### Artículo 56
+#### Artículo 57
 
 Zona ZE2 Parque Borde del Canal El Carmen
 
 Corresponde a la franja de protección del cauce del Canal El Carmen, y tiene un ancho de 10 metros medidos desde el borde del canal situado dentro del límite urbano. Esta zona tiene como destino exclusivo la constitución de áreas verdes de uso público, y se prohíbe en ellas toda edificación, permitiéndose sólo la constitución de ciclovías y senderos. Inicio intersección del Canal El Carmen con la prolongación del Camino La Pirámide por el oriente (sector El Barrero) y el término intersección Av. Pedro Fontova con Canal El Carmen por el poniente.
 
-#### Artículo 57
+#### Artículo 58
 
 Zona ZE3 Equipamiento Intercomunal Esta zona se define en concordancia con lo establecido en el Plan Regulador Metropolitano de Santiago, el cual establece el destino de equipamiento metropolitano con la siguiente normativa.
 
@@ -1362,7 +1312,7 @@ b.7 Estacionamientos: según lo establecido en el
 
 de la presente Ordenanza.
 
-#### Artículo 58
+#### Artículo 59
 
 Zona ZE4 Equipamiento Recreacional y Deportivo
 
@@ -1406,7 +1356,7 @@ b.7 Estacionamientos: según lo establecido en el
 
 de la presente Ordenanza.
 
-#### Artículo 59
+#### Artículo 60
 
 Zona ZE5 Cerros Islas En esta zona se incluye los Cerros Islas: Rinconada y parte del cerro Punta Mocha y según lo establecido en el Plan Regulador Metropolitano de Santiago, en el artículo 5.2.3.2., en los Cerros Islas se permite desarrollar actividades que cumplan con las siguientes condiciones:
 
@@ -1436,13 +1386,13 @@ b.4 Estacionamientos: según lo establecido en el
 
 de la presente Ordenanza.
 
-#### Artículo 60
+#### Artículo 61
 
 Zona ZE6 Plazas y Areas Verdes
 
 Incluye todas las plazas públicas y parques existentes o proyectados de la comuna, las cuales conservan ese destino exclusivo. En ellas se permiten sólo los usos de suelo y edificaciones compatibles con esta definición; es decir, arborización, mobiliario y juegos infantiles.
 
-#### Artículo 61
+#### Artículo 62
 
 Zona ZE7 Area verde - Parque
 
@@ -1472,19 +1422,19 @@ b.7 Estacionamientos: según lo establecido en el
 
 de la presente Ordenanza.
 
-#### Artículo 62
+#### Artículo 63
 
 Equipamiento Deportivo Vecinal, ZE8.
 
 Esta zona incluye todas las canchas, multicanchas, gimnasios, piscinas existentes en la zona urbana consolidada y en los sectores en proceso de consolidación con el fin de resguardar a futuro el destino de estos suelos. En ellas se prohibe la subdivisión de los predios y se permiten sólo edificaciones complementarias a su uso, es decir, camarines, bodegas para elementos deportivos, luminarias, escaños, graderías, que en ningún caso deberán ocupar más del 10% de la superficie del predio.
 
-#### Artículo 63
+#### Artículo 64
 
 Zona ZE9 Monumento Histórico
 
 Esta zona forma parte como núcleo del Sub-Centro de equipamiento metropolitano e incluye la Casa Patronal, Bodegas y parque del ex-Fundo El Salto, en el se permiten los usos de suelo de la zona ZC4-1 (ciudad empresarial). Cualquier edificación, remodelación o ampliación no puede afectar las edificaciones existentes de valor histórico y deben ser aprobadas por la Dirección de Obras Municipales de acuerdo a lo que define la Ley 17.288 de Monumentos Nacionales.
 
-#### Artículo 64
+#### Artículo 65
 
 Zona ZE10 Equipamiento comunitario vecinal
 
@@ -1514,7 +1464,7 @@ b.6 Estacionamientos: según lo establecido en el
 
 de la presente Ordenanza.
 
-#### Artículo 65
+#### Artículo 66
 
 Areas de riesgo de origen natural.
 
@@ -1546,39 +1496,39 @@ c) Riesgo geofísico asociado a remoción en masa:
 
 Area montañosa quebrada La Mina - Los Maitenes se gráfica en plano PRCH-1 HUE/2003, las normas que rigen esta área son las que establece el P.R.M.S. en su artículo 8.2.1.4a .
 
-#### Artículo 66
+#### Artículo 67
 
 Parques metropolitanos.
 
 Son las áreas verdes de uso público de carácter metropolitano que pueden acoger actividades relacionadas con lo recreacional, deportivo, de culto, cultural, científico, de esparcimiento y turismo al aire libre, en el territorio comunal se localiza el Parque Metropolitano San Cristóbal y Bosque Santiago; las normas que rigen estas áreas de parques están contenidas en el artículo 5.2.2. del P.R.M.S.
 
-#### Artículo 67
+#### Artículo 68
 
 Resguardo de infraestructura energética.
 
 Los Oleoductos, Gaseoductos y Poliductos, y las sub- estaciones y líneas de transporte de energía eléctrica, en general se regirán por lo establecido en el artículo 8.4.3. de la Ordenanza del P.R.M.S.
 
-#### Artículo 68
+#### Artículo 69
 
 Restricción de aeródromos. Los Aeropuertos, aeródromos y radioayudas se regirán por lo establecido en el artículo 8.4.1.3 de la Ordenanza del P.R.M.S.
 
 CAPITULO V: VIALIDAD
 
-#### Artículo 69
+#### Artículo 70
 
 Las avenidas, calles, pasajes y, en general, todas las vías públicas del área urbana comunal, son las actualmente existentes, manteniendo sus anchos entre Líneas Oficiales, salvo aquellos casos en que expresamente se dispongan ensanches o aperturas de nuevas vías.
 
-#### Artículo 70
+#### Artículo 71
 
 Las vías comunales que están incluidas en el Sistema Vial Metropolitano e Intercomunal definido en los artículos 7.1.1.1 y 7.1.1.2 del Plan Regulador Metropolitano de Santiago, se incorporan en este Plan Regulador como parte de la Vialidad Estructurante, y se ajustan a las características físicas y operativas que en esos artículos se indican. El ancho entre líneas oficiales es el definido en el cuadro 3 de la presente Ordenanza.
 
 Las vías de Servicios y Locales, informadas en el cuadro Nº 3 de la presente Ordenanza, se entenderán como indicativas y tendrán declaratoria de utilidad pública en los términos establecidos en el Art. 33 de la Ley 18.695 Ley Orgánica Constitucional de Municipalidades
 
-#### Artículo 71
+#### Artículo 72
 
 En el caso de todas las vías que no están incorporadas en la Vialidad Estructurante Comunal, los perfiles geométricos viales, así como el ancho de sus calzadas, el diseño de sus empalmes, cruces a distinto nivel, etc., serán definidos en los respectivos proyectos de loteos, en seccionales, en estudios o proyectos de vialidad, según corresponda. De acuerdo a lo indicado por la D.O.M. y/o los Ministerios de Obras Públicas y de la Vivienda.
 
-#### Artículo 72
+#### Artículo 73
 
 La vialidad estructurante del área urbana comunal está constituida por las vías que se grafican como tales en el Plano PRCH-2 HUE/2003 y cuya identificación, ancho entre líneas oficiales, ensanches y aperturas se señalan en el cuadro número 3 que se detalla en las siguientes páginas.
 
@@ -1607,3 +1557,11 @@ Transcurrido el plazo de un año antes señalado, y de no ejecutoriarse la modif
 - María Carolina Plaza Guzmán, Alcaldesa Municipalidad de Huechuraba.
 
 > **Nota.** El Artículo 2º del Decreto 1805, Municipalidad de Huechuraba, publicado el 29.09.2009, modifica la clasificación de la vía denominada Avenida El Carmen, Avenida Las Torres y Avenida Santa Clara en todos los tramos señalados en el cuadro 3: vialidad estructurante comunal, en el Nº 3 "Vías Comunales", en la columna de "Observaciones" de esta norma, reemplazando la categoría de Vía Troncal por la de "Vía Colectora".
+
+> **Nota.** NOTA 1 El artículo 1º del Decreto 55, Vivienda, publicado el 14.11.2009, modifica la presente norma en el sentido de sustituir la normativa aplicable a la zona ZE6 por la de la zona ZH1, al terreno definido por la línea poligonal 1-B-B'-G'-H-i-2-1, de 3.646,57 m2 (tres mil seiscientos cuarenta y seis coma cincuenta y siete metros cuadrados) aproximadamente, que se ubica frente a la calle Medialuna, correspondiente a parte de la propiedad de SERVIU Metropolitano delimitada por la línea poligonal A-B-C-D-E-F-G-H-i-J-A, de conformidad a lo graficado en el plano MPRCH - 1 HUE/2007, escala 1:750, denominado "Modificación Plan Regulador Comunal de Huechuraba sector calles Medialuna y Jorge Inostroza Norte".
+
+> **Nota.** NOTA 2 El Artículo 2 del Decreto 2450 Exento, Municipalidad de Huechuraba, publicado el 30.12.2011, modifica en el artículo 72 de la presente norma, lo indicado en la columna de observaciones, del cuadro Nº3. Vialidad Estructurante Comunal 3. Vías Comunales, la clasificación de todos los tramos de las vías denominadas Avenida del Cóndor (sur y norte), Avenida del Valle (sur y norte), y Avenida Los Jardines, reemplazando sus categorías actuales de Vía de Servicio Existente por Vía Colectora
+
+> **Nota.** NOTA 3 El Decreto 3570 Exento, M. de Huechuraba, publicado el 08.01.2018, modifica la presente norma en el sentido de postergar el otorgamiento de permisos de subdivisión, loteo o urbanización predial y de edificación, por un plazo de tres meses en las zonas correspondientes a los terrenos ubicados en: ZC3, ZH2, ZH3, ZH6 y ZH1, señalados en el plano de postergación de permisos de fecha noviembre de 2017.
+
+> **Nota.** NOTA 4 El artículo 7° del Decreto 3534 Exento. Munipalidad de Huechuraba, publicado el 05.01.2019, incorporo en el cuadro 3 de Vialidad Estructurante Comunal a continuación de la vía de servicio denominada Santa Inés y antes de la vía Alberto Riesco, la nueva vía de servicio que se indica en la citada norma.
