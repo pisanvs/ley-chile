@@ -26,19 +26,19 @@ Las normas del presente reglamento regulan el otorgamiento de los beneficios del
 
 a) "Beca Bicentenario" es aquella dirigida a estudiantes de buen rendimiento académico que se matriculen como alumnos/as de primer año en carreras en cuyo ingreso se considere el puntaje obtenido en la Prueba de Selección Universitaria (PSU), en alguna de las instituciones de Educación Superior a que se refiere el artículo 1º del decreto con fuerza de ley Nº 4, de 1981, del Ministerio de Educación, que se encuentre acreditada institucionalmente de conformidad a la ley Nº 20.129 al 31 de diciembre del año anterior al proceso de asignación de becas respectivo.
 
-Asimismo, se podrá otorgar a estudiantes en situación de discapacidad con certificado vigente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, a quienes se les eximirá de rendir la PSU y en reemplazo se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
+Asimismo, se podrá otorgar a estudiantes en situación de discapacidad según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto, a quienes se les eximirá de rendir la PSU y en reemplazo se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
 
 Adicionalmente, esta beca estará destinada a aquellos estudiantes que se encuentren en cursos superiores en las instituciones precedentemente descritas, y cumplan los requisitos que se establecen en el artículo 24.
 
 b) "Beca Juan Gómez Millas". Es aquella dirigida a estudiantes de buen rendimiento académico egresados de enseñanza media y que se matriculen como alumnos en alguna de las instituciones de educación superior a que se refiere el artículo 52 del DFL (Ed.) Nº 2, de 2010, que tengan el carácter de instituciones autónomas y se encuentren acreditadas institucionalmente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, de conformidad a la ley Nº 20.129. Asimismo, podrán optar a este beneficio los estudiantes de cursos superiores, que cumplan con los requisitos establecidos para esta beca en los artículos 26 y 74, letra b) del presente reglamento.
 
-Asimismo, se podrá otorgar a estudiantes en situación de discapacidad con certificado vigente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, a quienes se les eximirá de rendir la PSU y se les exigirá en reemplazo tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
+Asimismo, se podrá otorgar a estudiantes en situación de discapacidad según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto, a quienes se les eximirá de rendir la PSU y se les exigirá en reemplazo tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
 
 Adicionalmente, se podrá otorgar a estudiantes extranjeros provenientes de América Latina y el Caribe de comprobada necesidad socioeconómica, que se matriculen en las instituciones de educación superior mencionadas anteriormente, que cumplan con los requisitos de admisión relativos a calidad académica asimilables a los puntajes de la Prueba de Selección Universitaria de las universidades chilenas.
 
 c) "Beca Nuevo Milenio". Está dirigida a estudiantes de buen rendimiento académico que se matriculen en primer año, o en cursos superiores que accedan a este beneficio por primera vez, de carreras técnicas de nivel superior y profesionales en instituciones que se encuentren acreditadas de conformidad a la ley Nº 20.129 al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. Tratándose de carreras profesionales, éstas deberán ser impartidas por institutos profesionales.
 
-Asimismo, se podrá otorgar a estudiantes en situación de discapacidad con certificado vigente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, a quienes se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
+Asimismo, se podrá otorgar a estudiantes en situación de discapacidad según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto, a quienes se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero).
 
 Adicionalmente, esta beca incluye estudiantes que habiendo egresado de enseñanza media dentro de los cuatro años previos al año de su matrícula, se encuentren dentro de los mejores promedios de notas de su promoción, considerados por establecimiento, y que obtengan los mejores resultados, ordenados estos por estricto orden de precedencia, al aplicarse los factores de selección ranking y notas de enseñanza media, por establecimiento y notas de enseñanza media (NEM), según el procedimiento determinado en el artículo 31 del presente decreto.
 
@@ -238,7 +238,7 @@ En caso que el Ministerio no cuente con las notas del postulante en sus registro
 
 #### Artículo 16
 
-Los alumnos de cursos superiores que no han sido asignatarios de los beneficios reglamentados en este decreto durante el período anterior a la matrícula respectiva, podrán postular a las Becas Bicentenario, Juan Gómez Millas, Nuevo Milenio, de Reubicación y la de Hijos de Profesionales de la Educación.
+Los alumnos de cursos superiores que no han sido asignatarios de los beneficios reglamentados en este decreto durante el período anterior a la matrícula respectiva, y aquellos que deseen optar a un beneficio distinto, podrán postular a las becas reguladas en este reglamento, con excepción de las becas de Excelencia Académica y Vocación de Profesor.
 
 En estos casos, además de lo dispuesto en el artículo 11 del presente reglamento y las condiciones establecidas respecto de cada una de las becas, deberán cumplir con los siguientes requisitos:
 
@@ -246,9 +246,7 @@ En estos casos, además de lo dispuesto en el artículo 11 del presente reglamen
 
 2. No haber obtenido con antelación dos becas de arancel del Programa de Becas de Educación Superior.
 
-3. No haber obtenido con antelación alguna beca de arancel, de aquellas comprendidas en el Programa de Becas de Educación Superior, en la carrera que se encuentra estudiando.
-
-4. Cumplir con el avance académico establecido en el artículo 74.
+3. Cumplir con el avance académico establecido en el artículo 74.
 
 Tratándose de la Beca de Reubicación de los estudiantes provenientes de la Universidad del Mar, no se aplicarán estos requisitos.
 
@@ -344,7 +342,7 @@ Sólo para efectos de este beneficio, el Ministerio de Educación validará que 
 
 3. Tener un buen rendimiento académico. Para determinar esta condición, los alumnos que por primera vez postulan a esta beca, deberán haber obtenido en la Prueba de Selección Universitaria un puntaje promedio igual o superior a 500 puntos.
 
-Se exceptuarán de rendir la PSU aquellos postulantes en situación de discapacidad, según certificado otorgado por el Servicio de Registro Civil e Identificación vigente al 31 de diciembre del año anterior al proceso de asignación de becas respectivo. En su reemplazo, se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero). Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año
+Se exceptuarán de rendir la PSU aquellos postulantes en situación de discapacidad, según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto. En su reemplazo, se les exigirá tener un promedio de notas de enseñanza media igual o superior a 5,0 (cinco coma cero). Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año.
 
 #### Artículo 25
 
@@ -364,7 +362,7 @@ Para optar a la Beca Juan Gómez Millas, además de los requisitos señalados en
 
 3. Tener un buen rendimiento académico. Para determinar esta condición, los alumnos que por primera vez postulan a esta beca, deberán haber obtenido en la Prueba de Selección Universitaria un puntaje promedio igual o superior a 500 puntos.
 
-Se exceptuarán de este requisito aquellos postulantes con discapacidad, con certificado otorgado por el Servicio de Registro Civil e Identificación al 31 de diciembre del año anterior al proceso de asignación de becas respectivo, a quienes se les exigirá en reemplazo tener un promedio de notas de enseñanza media igual o superior a 5.0. Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año.
+Se exceptuarán de este requisito aquellos postulantes con discapacidad, según lo informe el Servicio de Registro Civil e Identificación, de acuerdo con el Registro Nacional que mantiene al efecto, a quienes se les exigirá en reemplazo tener un promedio de notas de enseñanza media igual o superior a 5.0. Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año.
 
 Asimismo, no les será aplicable este requisito a aquellos estudiantes extranjeros provenientes de América Latina y el Caribe, de comprobada necesidad socioeconómica que se matriculen en alguna de las instituciones de educación superior mencionadas en el numeral 1º, y que cumplan con los requisitos de admisión relativos a calidad académica asimilable a los puntajes de la Prueba de Selección Universitaria de las universidades chilenas. Para estos efectos, se podrá otorgar el número de becas que establezca la Ley de Presupuestos de cada año.
 
@@ -546,7 +544,7 @@ a) Tener la condición de alumno regular y estar matriculado para el año de pos
 
 b) Haber obtenido a lo menos 600 puntos promedio en la Prueba de Selección Universitaria correspondiente al año de su ingreso a la licenciatura que se encuentra cursando.
 
-c) Tener un avance curricular mínimo del 70% de la carrera, considerando un plazo máximo de cuatro (4) años contados desde la fecha de ingreso a la licenciatura.
+c) Tener un avance curricular mínimo del 70% de la carrera.
 
 #### Artículo 45
 
