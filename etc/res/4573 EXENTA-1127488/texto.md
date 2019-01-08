@@ -1,0 +1,5 @@
+OTORGA EXCEPCIÓN DE CAMBIO DE SUJETO DEL IVA EN LA VENTA DE BERRIES Y OTORGA LA CALIDAD DE RETENEDOR DEL IVA RESPECTO DE LAS COMPRAS DE BERRIES QUE A SU VEZ EFECTÚE A TERCEROS VENDEDORES
+
+La XV Dirección Regional Metropolitana Santiago Oriente del SII por resolución ex. N° 4.573, de fecha 28/12/2018, concede, al contribuyente Inversiones La Estaquilla S.A., RUT N° 96.828.470-3, a contar del día primero del mes siguiente, de la fecha de esta publicación, la excepción del régimen de cambio de sujeto de derecho del Impuesto al Valor Agregado en la Venta de Berries y además se otorga la calidad de Agente Retenedor del Impuesto al Valor Agregado, respecto de las compras de berries que, a su vez, efectúe a terceros vendedores, de acuerdo a la facultad establecida en el dispositivo N° 12 de la resolución exenta N° 55 del 02/06/2005, modificada por la resolución exenta N° 58 del 19/05/2006, de la Dirección Nacional.-
+
+Ingrid Herrera Muñoz, Directora Regional (S), resolución exenta RA N° 246/826/2018 de 19/10/2018.
