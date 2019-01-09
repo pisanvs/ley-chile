@@ -44,11 +44,13 @@ Disposiciones Transitorias
 
 #### Artículo primero
 
-La inhabilitación para seguir operando en las redes móviles de todos los equipos no incluidos oportunamente en la base de datos centralizada, prevista en el Artículo 3º bis de la resolución exenta Nº1.463, de 2016, comenzará a aplicarse a partir del 8 de enero de 2019 en adelante.
+La inhabilitación para seguir operando en las redes móviles de todos los equipos no incluidos oportunamente en la base de datos centralizada, prevista en el artículo 3º bis de la resolución exenta Nº 1.463, de 2016, comenzará a aplicarse a partir del 13 de marzo de 2019 en adelante.
 
 #### Artículo segundo
 
-Para efectos de lo previsto en el artículo precedente, todos los IMEI registrados temporalmente entre el 10 de noviembre de 2018 y el 9 de diciembre de 2018, se considerarán como parte del tráfico histórico, debiendo incorporarse a la base correspondiente. Por su parte, el registro temporal se deberá iniciar desde cero a partir del 10 de diciembre de 2018.
+Para efectos de lo previsto en el Artículo precedente, todos los IMEI registrados temporalmente desde el 10 de noviembre de 2018 y hasta el 10 de febrero de 2019, se considerarán como parte del tráfico histórico, debiendo incorporarse a la base correspondiente y suspendiéndose respecto de los mismos el envío de los SMS a que se refiere el inciso segundo del Artículo 3º bis de la resolución exenta Nº 1.463, de 2016.
+
+Por su parte, el registro temporal se deberá iniciar desde cero a partir del 11 de febrero de 2019, reanudándose el envío de los SMS a contar de esa fecha. Respecto de los equipos que se incorporen en dicho registro a partir del 11 de febrero de 2019, la inhabilitación que corresponda efectuar se ejecutará en los términos previstos en el artículo 3º bis, esto es, 30 días corridos a contar de su activación en las redes móviles.
 
 #### Artículo tercero
 
