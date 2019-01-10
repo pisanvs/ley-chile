@@ -28,11 +28,11 @@ En las situaciones previstas en los incisos segundo y tercero del artículo 7º 
 
 #### Artículo 3º
 
-El monto del aporte familiar permanente se reajustará el 1 de marzo de cada año, en el 100% de la variación que haya experimentado el Índice de Precios al Consumidor determinada por el Instituto Nacional de Estadísticas o el organismo que lo reemplace, entre el 1 de enero y el 31 de diciembre del año calendario anterior al pago del aporte familiar a que se refiere esta ley.
+El monto del aporte familiar permanente se reajustará el 1 de febrero de cada año, en el 100% de la variación que haya experimentado el Índice de Precios al Consumidor determinada por el Instituto Nacional de Estadísticas o el organismo que lo reemplace, entre el 1 de enero y el 31 de diciembre del año calendario anterior al pago del aporte familiar a que se refiere esta ley.
 
-#### Artículo 4º
+#### Artículo 4
 
-El aporte familiar establecido en esta ley será de cargo fiscal y su pago se efectuará por el Instituto de Previsión Social, en una sola cuota, durante el mes de marzo de cada año.
+El aporte familiar establecido en esta ley será de cargo fiscal y su pago se efectuará por el Instituto de Previsión Social, en una sola cuota. Sin perjuicio de lo señalado en el inciso primero del artículo 1, el pago se podrá efectuar desde el día 15 de febrero de cada año.
 
 Con todo, tratándose del personal de las instituciones públicas centralizadas y descentralizadas, con excepción de aquellas a que se refiere el inciso cuarto del artículo 32 del decreto con fuerza de ley Nº 150, de 1981, del Ministerio del Trabajo y Previsión Social, que en su calidad de empleadores participen en la administración del sistema de asignación familiar, el pago del aporte familiar permanente lo efectuarán directamente a su personal, o a quien corresponda, de conformidad con lo dispuesto por la Superintendencia de Seguridad Social. El pago se realizará conjuntamente con la remuneración correspondiente al mes de marzo de cada año, recuperando los montos involucrados a través del mismo procedimiento establecido en el artículo 32 del aludido decreto con fuerza de ley Nº 150, para el caso de las asignaciones familiares.
 
