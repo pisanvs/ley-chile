@@ -176,6 +176,8 @@ c) tiene efecto técnico o funcional en el proceso, pero que está presente en e
 
 44. Materias primas no orgánicas permitidas: Sustancias naturales o sintéticas aceptadas por la normativa vigente para ser utilizadas en la producción, preparación y/o en el manejo o intermediación de productos orgánicos.
 
+44 bis. Métodos excluidos: Técnicas utilizadas para modificar genéticamente a organismos o influenciar su crecimiento y desarrollo a través de técnicas que no son posibles en condiciones naturales o procesos que no son compatibles con la producción orgánica. Estos métodos incluyen, entre otros, micro encapsulación, macro encapsulación y tecnologías de recombinación de ADN. Estos métodos no incluyen el uso tradicional de selección, conjugación, fermentación, hibridación, fertilización in vitro o cultivo de tejido.
+
 45. Mulch: Cubierta o acolchado del suelo formada por materiales tales como astillas de madera, hojas o paja, o cualquier otro material, sintético o no, como papel de periódicos o plásticos que sirvan para evitar el crecimiento de malezas, moderar la temperatura del suelo o conservar su humedad.
 
 46. Normas técnicas: Normas oficializadas mediante decreto del Ministerio de Agricultura.
@@ -200,7 +202,7 @@ Las técnicas de modificación genética conocidas son, entre otras, las siguien
 
 52. Plaguicida: Compuesto químico, orgánico o inorgánico, o sustancia natural que se utilice para combatir malezas o enfermedades o plagas, potencialmente capaces de causar perjuicios en organismos u objetos.
 
-53. Plan de Manejo Orgánico (PMO): Programa de actividades y tareas anuales que se desarrollen en la unidad de producción o procesamiento, que permitan garantizar que el producto obtenido cumple con la normativa orgánica nacional.
+53. Plan de Manejo Orgánico (PMO): Programa de actividades y tareas anuales que se desarrollen en la unidad de producción o procesamiento, que permitan garantizar que el producto obtenido cumple con la normativa orgánica nacional, dicho Plan de Manejo debe ser aprobado por la entidad certificadora..
 
 54. Preparación: Operaciones de preservación, clasificación, selección y/o procesamiento de un producto agropecuario, incluidas la matanza y cortado de carnes en productos pecuarios, el envasado de los productos resultantes y las modificaciones hechas al rotulado inicial concernientes a la presentación del producto orgánico y a los métodos de preservación como producto fresco o procesado.
 
@@ -298,11 +300,11 @@ Sólo pueden ser certificados como orgánicos, aquellos productos primarios y pr
 
 #### Artículo 6
 
-Se prohíbe, en la producción orgánica, la utilización de organismos genéticamente modificados y de productos derivados de éstos, tales como: Productos e ingredientes alimenticios (incluidos aditivos y aromas); auxiliares tecnológicos (incluidos los solventes de extracción); alimentos para animales; piensos compuestos; materias primas para la alimentación animal; aditivos en la alimentación animal; auxiliares tecnológicos en los alimentos para animales; determinados productos utilizados en la alimentación animal (tales como aminoácidos, proteínas obtenidas a partir de microorganismos, algas, subproductos de la fabricación de antibióticos obtenidos por fermentación, sales de amonio y subproductos de la fabricación de aminoácidos por fermentación); animales; plaguicidas; fertilizantes; acondicionadores del suelo; semillas y materiales de propagación vegetativa.
+Se prohíbe, en la producción orgánica, la utilización de organismos genéticamente modificados, de productos derivados de éstos y aquellos provenientes de métodos excluidos, tales como: Productos e ingredientes alimenticios (incluidos aditivos y aromas); auxiliares tecnológicos (incluidos los solventes de extracción); alimentos para animales; piensos compuestos; materias primas para la alimentación animal; aditivos en la alimentación animal; auxiliares tecnológicos en los alimentos para animales; determinados productos utilizados en la alimentación animal (tales como aminoácidos, proteínas obtenidas a partir de microorganismos, algas, subproductos de la fabricación de antibióticos obtenidos por fermentación, sales de amonio y subproductos de la fabricación de aminoácidos por fermentación); animales; plaguicidas; fertilizantes; acondicionadores del suelo; semillas y materiales de propagación vegetativa.
 
-El operador/a deberá solicitar una declaración jurada al proveedor de cualquiera de los insumos o productos señalados en el inciso anterior o algún otro que le especifique al organismo de certificación o la Autoridad Competente que indique que es libre de OGM.
+El operador/a deberá solicitar una declaración jurada al proveedor de cualquiera de los insumos o productos señalados en el inciso anterior o algún otro que le especifique al organismo de certificación o la Autoridad Competente, que indique que es libre de OGM o aquellos provenientes de métodos excluidos. Estarán excluidas de dicha obligación aquellos insumos o productos que hayan sido autorizados para su uso en agricultura orgánica por el Servicio Agrícola y Ganadero.
 
-Las entidades de certificación deberán evaluar las declaraciones juradas señaladas en el inciso precedente y podrán autorizar los insumos o productos, considerando las directrices de la Autoridad Competente. El operador/a deberá dejar constancia, en forma expresa, de la autorización del uso de los insumos o productos en el plan de manejo orgánico.
+Las entidades de certificación deberán evaluar las declaraciones juradas señaladas en el inciso precedente y podrán autorizar los insumos o productos, considerando las directrices de la Autoridad Competente. La entidad de certificación deberá dejar constancia, en forma expresa, de la autorización del uso de los insumos o productos en el plan de manejo orgánico del operador, el cual deberá estar disponible al momento de la fiscalización
 
 #### Artículo 7
 
@@ -558,7 +560,7 @@ d) Aves deben haber estado bajo condiciones de manejo orgánico continuo desde e
 
 Alimentación.
 
-1. Todos los sistemas de producción animal deben alcanzar el nivel óptimo de 100% del régimen alimentario de conformidad con esta Norma (Ver Anexo A, Listas: 4.1; 4.2; 4.3; 4.4 y 4.5). No obstante, en condiciones climáticas extremas u otras circunstancias de fuerza mayor, calificadas por la Autoridad Competente y con la autorización de esta, se podrá utilizar alimentos convencionales, en una cantidad no superior al 10% para rumiantes y 20% para no rumiantes. Se debe registrar esta circunstancia y contar con un programa de incorporación progresiva de alimentos certificados.
+1. Todos los sistemas de producción animal deben alcanzar el nivel óptimo de 100% del régimen alimentario de conformidad con esta Norma (Ver anexo A, Listas: 4.1; 4.2; 4.3; 4.4 y 4.5). No obstante, en condiciones climáticas extremas u otras circunstancias de fuerza mayor, calificadas por la Autoridad Competente y con la autorización de ésta, se podrá utilizar alimentos convencionales, en una cantidad no superior al 20% para rumiantes y 25% para no rumiantes. Se debe registrar esta circunstancia y contar con un programa de incorporación progresiva de alimentos certificados.
 
 2. Cuando la base de la alimentación la constituya el pastoreo, los potreros que se destinen a estos fines deberán cumplir los principios indicados en el Título 5º de esta Norma y cuando la constituya el forraje, éste debe provenir de unidades productivas que cumplan con estos mismos principios.
 
@@ -758,11 +760,9 @@ Origen de las abejas.
 
 Ubicación de los colmenares o apiarios.
 
-1. Los colmenares o apiarios, destinados a la producción apícola orgánica se deben emplazar en lugares con fuentes de néctar, mielatos y polen, provenientes mayoritariamente de vegetación silvestre o de cultivos tratados con métodos y productos que no afecten la calidad orgánica de la producción apícola.
+1. Los colmenares o apiarios, destinados a la producción apícola orgánica se deben emplazar en áreas de pecoreo, que cuenten mayoritariamente con vegetación silvestre o de cultivos tratados con métodos y productos que no afecten la calidad orgánica de la producción apícola.
 
-2. Su ubicación se debe hacer a una distancia mínima de 3,0 kilómetros de apiarios convencionales.
-
-3. Los colmenares o apiarios, se deben ubicar a una distancia mínima de 3,0 kilómetros de zonas expuestas al uso de métodos, productos o actividades que pueden afectar la condición orgánica de la producción apícola, tales como centros urbanos, industriales y vertederos. Este requisito también se aplica en casos de trashumancia de colmenas en la condición de producción orgánica.
+2. Los colmenares o apiarios, se deben ubicar a una distancia mínima de 3,0 kilómetros de zonas expuestas al uso de métodos, productos o actividades que pueden afectar la condición orgánica de la producción apícola, tales como centros urbanos, industriales y vertederos. Este requisito también se aplica en casos de trashumancia de colmenas en la condición de producción orgánica.
 
 #### Artículo 33
 
@@ -788,7 +788,7 @@ Profilaxis y tratamientos veterinarios.
 
 Métodos de gestión zootécnica e identificación.
 
-1. El operador/a debe registrar la o las ubicaciones de los apiarios y la identificación de las respectivas colmenas.
+1. El operador/a debe registrar la o las ubicaciones de los apiarios, con su respectiva identificación y cantidad de colmenas, con la finalidad de acreditar la trazabilidad de los productos apícolas.
 
 2. El operador/a debe informar al organismo de certificación, la fecha y el lugar del traslado o movimiento de las colmenas. El organismo de certificación comunicará de manera oportuna a la autoridad competente esta información.
 
@@ -974,7 +974,7 @@ c) No se debe incluir materias primas de origen químico sintético, así como s
 
 d) No se deben incluir materias primas contaminadas con metales pesados y/o plaguicidas.
 
-3. Cuando los ingredientes no se encuentren disponibles en cantidades suficientes en el mercado nacional, ni puedan ser desarrollados orgánicamente y sean indispensables en la formulación del producto, como excepción se podrán utilizar ingredientes agropecuarios no orgánicos hasta en un 5% del peso del producto, sin considerar agua y sal. Se deberá demostrar el cumplimiento a lo señalado en los numerales 6 y 7 del artículo 49 de la presente Norma.
+3. Cuando los ingredientes no se encuentren disponibles en cantidades suficientes en el mercado nacional, ni puedan ser desarrollados orgánicamente y sean indispensables en la formulación del producto, como excepción se podrán utilizar ingredientes agropecuarios no orgánicos hasta en un 5% del peso del producto, sin considerar agua y sal. Se deberá demostrar el cumplimiento a lo señalado en el numeral 7 del artículo 49 de la presente Norma.
 
 #### Artículo 49
 
@@ -984,7 +984,7 @@ Procesamiento.
 
 2. El agua a utilizar durante el procesamiento y que toma contacto con los alimentos sin constituirse en ingrediente del producto, debe ser de calidad potable.
 
-3. El proceso orgánico se debe efectuar por series completas. Se debe comunicar al organismo de certificación el inicio del proceso de elaboración de productos orgánicos.
+3. El proceso orgánico se debe efectuar por series completas. Se debe comunicar al organismo de certificación el inicio del proceso de elaboración de productos orgánicos, en cada temporada.
 
 4. Siempre que se realicen procesos tanto de productos orgánicos como convencionales, estos deben ser en tiempos distintos y cumplir con las condiciones de limpieza previa al inicio del proceso orgánico. Se deben tomar todas las medidas precautorias para evitar la contaminación cruzada o contaminantes de los productos orgánicos y tener disponibles los procedimientos y registros para demostrar el cumplimiento de estas medidas.
 
@@ -996,7 +996,7 @@ Procesamiento.
 
 Cuando un ingrediente orgánico se requiera para el procesamiento de un alimento y éste no se produce en cantidad suficiente de conformidad con las normas de producción orgánica o no puede importarse, se podrá utilizar un ingrediente de origen agropecuario no orgánico, cuando se cumpla lo siguiente:
 
-a) La Autoridad Competente ha autorizado su uso, previa evaluación del organismo de certificación;
+a) La solicitud de autorización de uso debe presentarse a la autoridad competente, previa evaluación favorable del organismo de certificación;
 
 b) Si la Autoridad Competente ha autorizado provisionalmente su empleo durante un período máximo de 12 meses, tras haber comprobado la no disponibilidad de los ingredientes en cuestión con las condiciones de calidad orgánica; y
 
@@ -1122,6 +1122,8 @@ Se permite la adición de anhídrido sulfuroso (SO2) 100% puro, en forma gaseosa
 
 El contenido de SO2 total (mg/l) en el producto terminado deberá ser lo más bajo posible, no debiendo exceder los límites establecidos en la siguiente tabla:
 
+.
+
 En casos de excepciones agroclimáticas, la autoridad competente podrá autorizar contenidos mayores de SO2 de los establecidos en la tabla anterior, dentro de la legislación vigente, con un límite máximo de 160mg/L en vinos tintos y de 210mg/L en vinos blancos o rosados.
 
 7. Pasteurización
@@ -1154,9 +1156,9 @@ Se prohíbe utilizar ácido sórbico y sus sales como sustancias conservantes.
 
 11. Envases y embalajes para la comercialización del producto
 
-Se debe utilizar botellas de vidrio convenientemente lavadas y reciclables.
+Los envases de los vinos orgánicos deberán ser elaborados con materiales inertes, permitidos para el contacto con el vino e impermeables al oxígeno y a los contaminantes, lo cual debe ser aprobado por la entidad de certificación. Asimismo, estos envases deberán cumplir con lo establecido en los artículos 88 y 89 de la presente Norma.
 
-Se debe utilizar tapones o tapas de material inerte o corcho natural entero. Se puede emplear tapones mixtos de corcho natural y aglomerado de corcho, con la salvedad que el corcho natural debe ser el que quede en contacto con el vino.
+En caso de botellas, se deben utilizar tapones o tapas de material inerte o corcho natural entero. Se pueden emplear tapones mixtos de corcho natural y aglomerado de corcho, con la salvedad que el corcho natural debe ser el que quede en contacto con el vino.
 
 Se autoriza el uso de corchos impresos con tintas naturales. Se puede utilizar impresión a fuego.
 
@@ -1172,7 +1174,7 @@ Está prohibido el uso de materiales adhesivos que contengan cloruro de polivini
 
 12. Etiquetado
 
-Todos aquellos vinos provenientes de uvas 100% orgánicas, vinificados y envasados bajo esta Norma, pueden ser etiquetados como Vino orgánico, en la etiqueta principal de la botella, cuando la normativa legal vigente lo permita.
+Todos aquellos vinos provenientes de uvas 100% orgánicas, vinificados y envasados bajo esta Norma, pueden ser etiquetados como Vino orgánico, en la etiqueta principal del envase, cuando la normativa legal vigente lo permita.
 
 Aquellos vinos que no provienen de mostos o uvas orgánicas, no pueden ser etiquetados como vino orgánico.
 
@@ -1244,7 +1246,7 @@ Para rotular un producto como "producido con ingredientes orgánicos", éste deb
 
 #### Artículo 67
 
-Para rotular un producto como "contiene ingredientes orgánicos en un porcentaje inferior al 70%", éste debe estar constituido por un porcentaje inferior al 70% de sus ingredientes producidos orgánicamente, expresados en peso (masa) o volumen, excluidas el agua y la sal. No se deben identificar específicamente los ingredientes orgánicos en el rótulo.
+Eliminado.
 
 #### Artículo 68
 
@@ -1503,6 +1505,8 @@ Lista 1 - Fertilizantes y acondicionadores de suelos.
 Se permiten productos que contengan únicamente las sustancias enumeradas en la siguiente lista y que se utilicen de acuerdo a las condiciones que se señalan para cada uno de ellos:
 
 .
+
+> **Nota.** La letra j del numeral 1 del Decreto 123, Agricultura, publicado el 10.01.2019, modifica la presente norma en el sentido de eliminar la expresión "Uso de agua declorada" de la "Descripción, composición y condición de utilización", que corresponde al producto o sustancia activa "Agua" de la lista 7, denominada "Insumos permitidos y sus condiciones generales de uso en la producción de vino orgánico.
 
 ANEXO B
 
