@@ -16,6 +16,8 @@ El diámetro del tubo de escape de los vehículos con motor de hasta 100 CV-DIN 
 
 ELIMINADO
 
+3.- Exceptúase de los requisitos señalados en el numeral 1.-, anterior, a los buses que presten servicios de locomoción colectiva urbana en la ciudad de Santiago, cuyos motores sean mecánicamente aptos para cumplir con los niveles máximos de emisión establecidos en el artículo 3° quinquies del decreto supremo N° 130, de 2001, o con un estándar superior, los que podrán disponer la descarga de los gases de escape hacia la calzada, siempre y cuando cuenten, en el extremo final del tubo de escape, con un difusor que forme parte del diseño de la descarga de gases.
+
 Anótese, tómese razón y publíquese.- Jorge Massa Armijo, General de Brigada Aérea, Ministro de Transportes y Telecomunicaciones.
 
 Lo que transcribo para su conocimiento.- Saluda a Ud.- Patricia Muñoz Villela, Jefe Depto. Administrativo.
