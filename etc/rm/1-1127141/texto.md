@@ -60,6 +60,14 @@ Considerando:
 
 26. El certificado de Directora de Administración y Finanzas de fecha 17.10.2018 que da cuenta del Límite de Gastos en Personal.
 
+27. El Decreto Alcaldicio N° 2.327 de fecha 29.12.2017 que Aprueba la Política de Recursos Humanos de la Municipalidad de Nacimiento.
+
+28. La Resolución Exenta N° 5.185 del 14.05.2018 del Ministerio del Interior, que deja constancia de las categorías en que se ubican las municipalidades del pais y del rango de grados de remuneraciones que corresponde asignar a los respectivos alcaldes en la correspondiente planta de personal.
+
+29. Lo establecido en los artículos 3° letra d) y 4° letra h) de la Ley 18.695 Orgánica Constitucional de Municipalidades y la necesidad de contar con personal especializado en el área de transporte público para apoyar la gestión de la unidad de tránsito a fin de dar cumplimiento a los artículos indicados.
+
+30. Lo establecido en los artículos 3° y 4° de la Ley 18.695 Orgánica Constitucional de Municipalidades y la necesidad de contar con un profesional del área de las relaciones públicas y comunicaciones, que permita un desarrollo eficiente de las comunicaciones entre la comunidad y el municipio, además, apoyar la gestión de actividades municipales.
+
 Reglamento:
 
 #### Artículo 1º
