@@ -24,7 +24,7 @@ Resuelvo:
 
 El horario de funcionamiento de las pistas de uso exclusivo será el siguiente:
 
-2. En las pistas de uso exclusivo antes mencionadas, podrán circular los vehículos de emergencia, policiales, del Programa Nacional de Fiscalización de la Subsecretaría de Transportes, municipales y aquellos destinados a cumplir funciones de seguridad ciudadana, debidamente identificados como tales. Además, los vehículos que se aproximen a un cruce para virar a la derecha, podrán ingresar a la pista de uso exclusivo por la demarcación correspondiente a dicho cruce, o bien, desde la demarcación del cruce inmediatamente anterior.
+2. En las pistas de uso exclusivo antes mencionadas, podrán circular los vehículos de emergencia, policiales, del Programa Nacional de Fiscalización de la Subsecretaría de Transportes, municipales, vehículos de transporte de valores y aquellos destinados a cumplir funciones de seguridad ciudadana, debidamente identificados como tales. Además, los vehículos que se aproximen a un cruce para virar a la derecha, podrán ingresar a la pista de uso exclusivo por la demarcación correspondiente a dicho cruce, o bien, desde la demarcación del cruce inmediatamente anterior.
 
 3. Los vehículos no descritos en los numerales anteriores, y que deban necesariamente utilizar esta pista de uso exclusivo con el único objetivo de ingresar o egresar desde sus lugares de residencia o estacionamiento habitual, podrán hacerlo restringidamente siempre y cuando acrediten dicha circunstancia. Para tal efecto, deberán ingresar y salir de la pista de uso exclusivo de que se trate, de acuerdo a la siguiente forma:
 
