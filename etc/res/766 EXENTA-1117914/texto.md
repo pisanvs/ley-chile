@@ -164,13 +164,13 @@ Cada sala deberá contar con un sistema de alumbrado que proporcione un nivel me
 
 f) Canalización troncal:
 
-Su construcción y características se sujetarán a lo previsto en el artículo 27°, letra f) del Reglamento, en función del tipo de proyecto inmobiliario, debiendo tener la capacidad necesaria para albergar el cableado de las diferentes redes de acceso.
+Su construcción y características se sujetarán a lo previsto en el artículo 27º, letra f) del Reglamento, en función del tipo de proyecto inmobiliario, debiendo tener la capacidad necesaria para albergar el cableado de las diferentes redes de acceso.
 
 Cuando por el diseño del proyecto resulte más conveniente, esta canalización troncal podrá subdividirse, debiendo partir cada subdivisión en las salas de operaciones de telecomunicaciones.
 
 En los proyectos en extensión, su despliegue deberá ser horizontal y soterrado, de preferencia a través de los espacios comunes y/o de fácil acceso.
 
-De estar constituida por ductos, éstos deberán ser de Ø 50 mm como mínimo, con paredes interiores lisas y su dimensionamiento se calculará en base al número de unidades del proyecto inmobiliario, cuyo mínimo será el siguiente:
+De estar constituida por ductos, éstos deberán ser de X 50 mm como mínimo, con paredes interiores lisas y su dimensionamiento se calculará en base al número de unidades del proyecto inmobiliario, cuyo mínimo será el siguiente:
 
 .
 
@@ -218,11 +218,11 @@ En el caso de la fibra óptica, esta canalización estará constituida por un du
 
 i) Caja de terminación de red:
 
-Su construcción y características dependerán de las necesidades particulares de cada proyecto inmobiliario, para efectos de lo previsto en el artículo 27°, letra i) del Reglamento.
+Su construcción y características dependerán de las necesidades particulares de cada proyecto inmobiliario, para efectos de lo previsto en el artículo 27º, letra i) del Reglamento.
 
-Se ubicarán, preferiblemente, cerca de la puerta de acceso principal a las unidades y sus dimensiones mínimas deberán ser 500 x 600 x 80 mm, debiendo estar equipadas con dos tomas de corriente para equipos activos.
+Se ubicarán, preferiblemente, cerca de la puerta de acceso principal a las unidades y sus dimensiones mínimas deberán ser 500 x 600 x 80 mm, debiendo contar con acceso a dos tomas de corriente para equipos activos. Sin embargo, en el caso de aquellas unidades en las que el número de conexiones de usuario sea igual o inferior a cuatro, las dimensiones mínimas de la caja podrán ser 300 x 400 x 80 mm, debiendo también contar con acceso a dos tomas de corriente para equipos activos.
 
-Tratándose de proyectos de loteo sin edificación simultánea, éstos deberán contemplar el diseño e instalación de los elementos que componen la infraestructura física de la RIT desde la cámara de acceso hasta la caja o cámara de distribución en el caso en que las unidades correspondan a macrolotes, y en caso contrario, hasta la caja de terminación de red para cada uno de los lotes resultantes.
+Tratándose de proyectos de loteo sin edificación simultánea, éstos deberán contemplar el diseño e instalación de los elementos que componen la infraestructura física de la RIT desde la cámara de acceso hasta la caja o cámara de distribución en el caso en que las unidades correspondan a macrolotes, y en caso contrario, esto es, proyectos con edificación simultánea, hasta la caja de terminación de red para cada uno de los lotes resultantes.
 
 j) Canalización interna de usuario:
 
@@ -282,9 +282,9 @@ Deberán disponer de tapa, metálica o no metálica, en función de las necesida
 
 Las cámaras deberán tener un drenaje que facilite la evacuación rápida de las aguas que eventualmente lleguen a ellas por filtración o condensación.
 
-Tratándose de las cajas, deberán contar con una rejilla de ventilación para disipar el calor generado y deberán estar rígidamente fijas a la superficie en la cual se encuentran instaladas.
+Tratándose de las cajas en las cuales se prevea la instalación de equipos activos, deberán contar con los elementos de ventilación, disipación o refrigeración apropiados para el calor generado. Las cajas y los elementos de ventilación, disipación o refrigeración deberán estar rígidamente fijos a la superficie en la cual se encuentran instalados respectivamente.
 
-Aquellas usadas como cajas de distribución, cajas de paso o cajas de terminación de red, deberán ser a prueba de polvo y humedad con grado IP 55.
+Aquellas usadas como cajas de distribución deberán ser a prueba de polvo y humedad con grado IP 55, condición que se extenderá a las SOTI, SOTU y SOTS cuando aquéllas correspondan a gabinetes. En otras cámaras, cajas o salas, el proyectista deberá definir y documentar el grado de protección IP adecuado de acuerdo a las condiciones de instalación y el riesgo ambiental proyectado.
 
 Las tuercas, contratuercas y boquillas utilizadas para fijar los ductos o cables a las entradas de las cajas o cámaras, deberán ser resistentes a la corrosión o estar protegidas contra ella, y tener la resistencia mecánica adecuada al uso que se les esté dando. Las entradas de una caja o cámara que no se usen deberán dejarse cerradas.
 
