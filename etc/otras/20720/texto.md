@@ -2396,8 +2396,6 @@ Propuesta de reparto de fondos. El Liquidador deberá proponer a los acreedores 
 
 4) Sujeción al procedimiento establecido en artículo siguiente.
 
-> **Nota.** El numeral 1° de la Resolución 2060 Exenta, Economía, publicada el 04.05.2022, interpreta el numeral 1° del presente artículo, en el sentido que dicha norma establece la obligación para el liquidador de proponer a los acreedores un reparto, cuando la disponibilidad de fondos permita abonar a los acreedores reconocidos una cantidad no inferior al cinco por ciento de sus acreencias, pero no impide la realización de repartos de fondos, cuando la distribución sea inferior al cinco por ciento de las acreencias que se contemplen en el reparto, toda vez que la finalidad del procedimiento concursal de liquidación es el pago de las obligaciones del deudor, resultando contrario a dicha finalidad, devolver fondos al deudor existiendo créditos pendientes de pago en el concurso.
-
 #### Artículo 248
 
 Procedimiento de reparto de fondos. El Liquidador observará las disposiciones siguientes:

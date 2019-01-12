@@ -120,7 +120,7 @@ Sin embargo, la condonación de intereses o sanciones podrá ser total, si el Se
 
 Sin embargo, el Director Regional no podrá resolver peticiones administrativas que contengan las mismas pretensiones planteadas previamente por el contribuyente en sede jurisdiccional.
 
-6º. Disponer el cumplimiento administrativo de las sentencias dictadas por los Tribunales Tributarios y Aduaneros, que incidan en materias de su competencia.
+6º. Disponer el cumplimiento administrativo de las sentencias dictadas por los Tribunales Tributarios y Aduaneros, que incidan en materias de su competencia. Cuando dichas sentencias sean dictadas en procesos de reclamación, la facultad de disponer el cumplimiento administrativo de las mismas comprende la potestad de girar las costas que en ellas se decreten cuando resulte vencido el contribuyente.
 
 7°. Autorizar a otros funcionarios para resolver determinadas materias, aun las de su exclusiva competencia, o para hacer uso de las facultades que le confiere el Estatuto Orgánico del Servicio, actuando por "orden del Director Regional", y encargarles, de acuerdo con las leyes y reglamentos, el cumplimiento de otras funciones u obligaciones.
 
@@ -702,7 +702,7 @@ El contribuyente estará afecto, además, a un interés penal del uno y medio po
 
 El monto de los intereses así determinados, no estará afecto a ningún recargo.
 
-No procederá el reajuste ni se devengarán los intereses penales a que se refieren los incisos precedentes, cuando el atraso en el pago se haya debido a causa imputable a los Servicios de Impuestos Internos o Tesorería, lo cual deberá ser declarado por el respectivo Director Regional o Tesorero Provincial, en su caso.
+No procederá el reajuste ni se devengarán los intereses penales a que se refieren los incisos precedentes, cuando el atraso en el pago se haya debido a causa imputable a los Servicios de Impuestos Internos o Tesorería, lo cual deberá ser declarado por el respectivo Director Regional o Tesorero Regional o Provincial, en su caso.
 
 Sin embargo, en caso de convenios de pago, cada cuota constituye un abono a los impuestos adeudados y, en consecuencia, las cuotas pagadas no seguirán devengando intereses ni serán susceptibles de reajuste.
 
@@ -894,7 +894,9 @@ A falta de autorización, el banco no podrá dar cumplimiento al requerimiento n
 
 6) El retardo u omisión total o parcial en la entrega de la información por parte del banco será sancionado de conformidad con lo dispuesto en el inciso segundo del número 1° del artículo 97.
 
-La información bancaria sometida a secreto o sujeta a reserva, obtenida por el Servicio bajo este procedimiento, tendrá el carácter de reservada de conformidad a lo establecido en el artículo 35 y sólo podrá ser utilizada por éste para verificar la veracidad e integridad de las declaraciones de impuestos, o la falta de ellas, en su caso, para el cobro de los impuestos adeudados y para la aplicación de las sanciones que procedan. El Servicio adoptará las medidas de organización interna necesarias para garantizar su reserva y controlar su uso adecuado. La información así recabada que no dé lugar a una gestión de fiscalización o cobro posterior, deberá ser eliminada, no pudiendo permanecer en las bases de datos del Servicio.
+Con todo, el Servicio, a través de su Dirección Nacional, podrá requerir a los bancos, a agencias o representaciones de bancos extranjeros, a casas de cambio, instituciones financieras y demás entidades con domicilio o residencia en Chile, que informen, antes del 15 de marzo de cada año, las operaciones que realicen, por encargo de terceros, correspondientes a remesas, pagos, traslados de fondos al exterior o ingresos de fondos al país, del año comercial inmediatamente anterior, por un monto igual o superior a los diez mil dólares de los Estados Unidos de América o su equivalente. Para estos efectos, el Servicio deberá recabar la autorización judicial a que se refiere el inciso tercero del presente artículo.
+
+La información bancaria sometida a secreto o reserva, obtenida por el Servicio bajo estos procedimientos, tendrá el carácter de reservada de conformidad a lo establecido en el artículo 35 y sólo podrá ser utilizada por éste para verificar la veracidad e integridad de las declaraciones de impuestos, o la falta de ellas, en su caso, para el cobro de los impuestos adeudados y para la aplicación de las sanciones que procedan. El Servicio adoptará las medidas de organización interna necesarias para garantizar su reserva y controlar su uso adecuado. La información así recabada que no dé lugar a una gestión de fiscalización o cobro posterior, deberá ser eliminada, no pudiendo permanecer en las bases de datos del Servicio.
 
 Las autoridades o funcionarios del Servicio que tomen conocimiento de la información bancaria secreta o reservada estarán obligados a la más estricta y completa reserva respecto de ella y, salvo los casos señalados en el inciso segundo, no podrán cederla o comunicarla a terceros. La infracción a esta obligación se castigará con la pena de reclusión menor en cualquiera de sus grados y multa de diez a treinta unidades tributarias mensuales. Asimismo, dicha infracción dará lugar a responsabilidad administrativa y se sancionará con destitución.
 
@@ -922,11 +924,35 @@ El expediente se tramitará en forma secreta en todas las instancias del juicio.
 
 Las disposiciones del artículo 62 y de este artículo no restringirán las demás facultades de fiscalización del Servicio.
 
+#### Artículo 62 ter
+
+Con el objeto de dar cumplimiento a los convenios internacionales que versen sobre intercambio de información proveniente de instituciones financieras calificadas como tales de conformidad con los referidos convenios que se encuentren vigentes en nuestro país, el Servicio de Impuestos Internos podrá requerir anualmente la información reservada que cumpla los requisitos dispuestos en este artículo. Las señaladas instituciones financieras fiscalizadas, por su parte, deberán aplicar los procedimientos de revisión e identificación establecidos en el reglamento respectivo.
+
+Para los efectos del inciso anterior, la información requerida deberá cumplir los siguientes requisitos:
+
+a) Corresponder a los titulares de cuentas financieras o controladores de dichos titulares que sean personas naturales, personas jurídicas o entidades que tengan residencia tributaria en otra jurisdicción, patrimonios quedados al fallecimiento de una persona que al momento de fallecer era residente de otra jurisdicción, o personas jurídicas o entidades que no tengan residencia tributaria en Chile y cuya administración efectiva se lleve a cabo en otra jurisdicción.
+
+b) Versar sobre el saldo o valor de las cuentas financieras pertenecientes a los titulares o controladores señalados en el literal a) anterior, al 31 de diciembre de cada año o a la fecha de cierre de las cuentas, rentas pagadas a dichos titulares o controladores, y sobre la identidad de éstos.
+
+c) Encontrarse en poder de instituciones financieras calificadas como tales de conformidad con un convenio internacional vigente que disponga el intercambio de información sobre cuentas financieras.
+
+Las instituciones financieras deberán entregar al Servicio de Impuestos Internos la información indicada en el inciso anterior a más tardar el 30 de junio de cada año, por los medios que establezca el Servicio mediante resolución.
+
+Para tal efecto, las instituciones financieras deberán llevar un registro que dé cuenta de los procedimientos de revisión realizados para identificar las cuentas financieras cuya información deba ser comunicada al Servicio. Dicho registro, junto con la información que le sirva de respaldo, deberá ser mantenido por siete años consecutivos, contados desde la fecha en que la institución financiera tomó conocimiento y registró la información requerida para dar cumplimiento a los procedimientos a que se refiere el presente artículo. En cualquier caso, el Servicio no podrá solicitar información que exceda del período anteriormente señalado.
+
+El incumplimiento de la obligación de ejecutar los procedimientos de revisión e identificación de cuentas financieras, de entregar la información al Servicio de manera oportuna y completa, y de mantener el registro señalado anteriormente por parte de una institución financiera, será sancionado con una multa equivalente a 1 unidad tributaria anual por cada una de las cuentas respecto de las cuales se infrinja cualquiera de los deberes señalados. Con todo, la multa total anual a pagar por cada institución no podrá exceder de 500 unidades tributarias anuales. La entrega de información maliciosamente falsa por parte del titular de la cuenta o sus controladores a la institución financiera será sancionada con la multa establecida en el párrafo final del número 4 del artículo 97.
+
+La información a la que accederá el Servicio con motivo de lo dispuesto en este artículo no podrá ser divulgada en forma alguna y sólo podrá ser usada para cumplir con los propósitos de intercambio de información regulados en convenios internacionales vigentes que permitan el intercambio de información entre autoridades tributarias.
+
+Las disposiciones de este artículo serán aplicadas e interpretadas siguiendo las recomendaciones de la Organización para la Cooperación y el Desarrollo Económico o de la Organización de Naciones Unidas. En ningún caso tales interpretaciones implicarán una extensión del ámbito de aplicación del presente artículo a personas naturales o jurídicas que tengan su residencia tributaria en Chile.
+
 #### Artículo 63
 
 El Servicio hará uso de todos los medios legales para comprobar la exactitud de las declaraciones presentadas por los contribuyentes y para obtener las informaciones y antecedentes relativos a los impuestos que se adeuden o pudieren adeudarse.
 
-El Jefe de la Oficina respectiva del Servicio podrá citar al contribuyente para que, dentro del plazo de un mes, presente una declaración o rectifique, aclare, amplíe o confirme la anterior. Sin embargo, dicha citación deberá practicarse en los casos en que la ley la establezca como trámite previo. A solicitud del interesado dicho funcionario podrá ampliar este plazo, por una sola vez, hasta por un mes. Esta facultad podrá ser delegada en otros jefes de las respectivas oficinas.
+El Jefe de la Oficina respectiva del Servicio podrá citar al contribuyente para que, dentro del plazo de un mes, presente una declaración o rectifique, aclare, amplíe o confirme la anterior. Sin embargo, dicha citación deberá practicarse en los casos en que la ley la establezca como trámite previo. A solicitud del interesado dicho funcionario ampliará este plazo, por una sola vez, hasta por un mes. Esta facultad podrá ser delegada en otros jefes de las respectivas oficinas.
+
+Cuando del tenor de la respuesta a la citación o de los antecedentes aportados resulte necesario solicitar al contribuyente que aclare o complemente su respuesta y,o presente antecedentes adicionales respecto de los impuestos, períodos y partidas citadas, podrá requerírsele para que así lo haga, dentro del plazo de un mes, sin que ello constituya una nueva citación. Los antecedentes requeridos en el ejercicio de esta facultad y que no fueren acompañados dentro del plazo indicado serán inadmisibles como prueba en el juicio, en los términos regulados en el inciso duodécimo del artículo 132 de este mismo Código.
 
 La citación producirá el efecto de aumentar los plazos de prescripción en los términos del inciso 4° del artículo 200 respecto de los impuestos derivados de las operaciones que se indiquen determinadamente en ella.
 
@@ -1480,6 +1506,8 @@ Derogado.
 
 Las acciones penales corporales y las penas respectivas prescribirán de acuerdo con las normas señaladas en el Código Penal.
 
+En los mismos plazos relativos a los crímenes o simples delitos prescribirá la acción para perseguir la aplicación de la pena de multa, cuando se ejerza la opción a que se refiere el inciso tercero del artículo 162 de este Código.
+
 # Libro Tercero
 
 De la competencia para conocer de los asuntos contenciosos tributarios, de los procedimientos y de la prescripción
@@ -1556,11 +1584,11 @@ Se sujetarán al procedimiento del presente Título todas las reclamaciones por 
 
 Respecto de los actos a que se refiere el artículo 124, será procedente el recurso de reposición administrativa, en conformidad a las normas del Capítulo IV de la ley Nº 19.880, con las siguientes modificaciones:
 
-a) El plazo para presentar la reposición será de quince días.
+a) El plazo para presentar la reposición será de treinta días.
 
-b) La reposición se entenderá rechazada en caso de no encontrarse notificada la resolución que se pronuncia sobre ella dentro del plazo de cincuenta días contado desde su presentación.
+b) La reposición se entenderá rechazada en caso de no encontrarse notificada la resolución que se pronuncia sobre ella dentro del plazo de noventa días contado desde su presentación.
 
-c) La presentación de la reposición no interrumpirá el plazo para la interposición de la reclamación judicial contemplada en el artículo siguiente.
+c) La presentación de la reposición suspenderá el plazo para la interposición de la reclamación judicial contemplada en el artículo siguiente.
 
 No serán procedentes en contra de las actuaciones a que se refiere el inciso primero los recursos jerárquico y extraordinario de revisión.
 
@@ -1630,7 +1658,19 @@ Las partes deberán comparecer en conformidad a la normas establecidas en la ley
 
 #### Artículo 130
 
-El Tribunal Tributario y Aduanero llevará los autos en la forma ordenada en los artículos 29 y 34 del Código de Procedimiento Civil. Durante la tramitación, sólo las partes podrán imponerse de ellos.
+Se formará el proceso, en soporte papel, con los escritos, documentos y actuaciones de toda especie que se presenten o verifiquen en el juicio.
+
+Ninguna pieza del proceso podrá retirarse sin que previamente lo decrete el tribunal que conoce de la causa.
+
+Todas las piezas que deben formar el proceso, de conformidad a lo anterior, se irán agregando sucesivamente según el orden de su presentación. Al tiempo de agregarlas, el secretario numerará cada foja en cifras y en letras. Se exceptúan las piezas que, por su naturaleza, no puedan agregarse o que por motivos fundados se manden reservar fuera del proceso.
+
+Durante la tramitación, sólo las partes podrán imponerse de los autos del proceso.
+
+Sin perjuicio de lo anterior, el Tribunal Tributario y Aduanero mantendrá registro de todos sus procedimientos, causas o actuaciones judiciales en medio digital o electrónico apto para producir fe y que permita garantizar la conservación y reproducción de su contenido. Dicho registro se denominará, para todos los efectos legales, Sistema de Administración de Causas Tributarias y Aduaneras, en adelante "el Sistema", y cada uno de los expedientes como Expediente Electrónico.
+
+Las partes, además, podrán hacer sus presentaciones al Tribunal por medio digital o electrónico, cargando sus escritos y documentos en el Sistema a través del sitio en internet de los Tribunales Tributarios y Aduaneros, el cual entregará el comprobante de recepción correspondiente cuando éstos hayan sido recibidos, debiendo el Tribunal incorporar la impresión de los escritos al expediente físico. No obstante lo anterior, el Tribunal podrá exigir que los documentos y demás pruebas que se acompañen en el proceso sean presentados en forma física.
+
+La Corte Suprema, mediante auto acordado, fijará los requisitos que estime pertinentes para el adecuado funcionamiento del Sistema, reglando, entre otras materias, el tamaño o peso máximo de los archivos que contengan los escritos y documentos que puedan ser presentados o acompañados en el Sistema.
 
 #### Artículo 131
 
@@ -1642,7 +1682,7 @@ Los plazos de días que se establecen en este Libro comprenderán sólo días h�
 
 Las resoluciones que dicte el Tribunal Tributario y Aduanero se notificarán a las partes mediante la publicación de su texto íntegro en el sitio en Internet del Tribunal.
 
-Se dejará testimonio en el expediente y en el sitio en Internet de haberse efectuado la publicación y de su fecha. Los errores u omisiones en dichos testimonios no invalidarán la notificación.
+Se dejará registro en el expediente electrónico y en el sitio en internet a que se refiere el inciso anterior de haberse efectuado la publicación y de su fecha. Los errores u omisiones en dichos registros no invalidarán la notificación.
 
 Las notificaciones al reclamante de las sentencias definitivas, de las resoluciones que reciben la causa a prueba y de aquellas que declaren inadmisible un reclamo, pongan término al juicio o hagan imposible su continuación, serán efectuadas por carta certificada. Del mismo modo, lo serán aquellas que se dirijan a terceros ajenos al juicio. En estos casos, la notificación se entenderá practicada al tercer día contado desde aquél en que la carta fue expedida por el tribunal. Sin perjuicio de lo anterior, dichas resoluciones serán igualmente publicadas del modo que se establece en el inciso primero. En todo caso, la falta de esa publicación no anulará la notificación.
 
@@ -1656,11 +1696,13 @@ La notificación al Servicio de la resolución que le confiere traslado del recl
 
 Del reclamo del contribuyente se conferirá traslado al Servicio por el término de veinte días. La contestación del Servicio deberá contener una exposición clara de los hechos y fundamentos de derecho en que se apoya, y las peticiones concretas que se someten a la decisión del Tribunal Tributario y Aduanero.
 
-Vencido el plazo a que se refiere el inciso anterior, haya o no contestado el Servicio, el Tribunal Tributario y Aduanero, de oficio o a petición de parte, deberá recibir la causa a prueba si hubiere controversia sobre algún hecho substancial y pertinente. La resolución que se dicte al efecto señalará los puntos sobre los cuales deberá recaer la prueba. En su contra, sólo procederán los recursos de reposición y de apelación, dentro del plazo de cinco días, contado desde la notificación. De interponerse apelación, deberá hacerse siempre en subsidio de la reposición y procederá en el solo efecto devolutivo. El recurso de apelación se tramitará en cuenta y en forma preferente.
+Vencido el plazo a que se refiere el inciso anterior, haya o no contestado el Servicio, el Tribunal Tributario y Aduanero, de oficio o a petición de parte, deberá llamar a las mismas a conciliación de conformidad al artículo 132 bis, citándolas para tales efectos a una audiencia oral. En dicha audiencia, el Juez Tributario y Aduanero propondrá las bases de arreglo, sin que las opiniones emitidas con tal propósito lo inhabiliten para seguir conociendo de la causa. La audiencia de conciliación se desarrollará en forma continua y podrá prolongarse en sesiones sucesivas, hasta su conclusión. Constituirán, para estos efectos, sesiones sucesivas, aquellas que tuvieran lugar en el día siguiente o subsiguiente de funcionamiento ordinario del Tribunal.
+
+Vencido el plazo a que se refiere el inciso primero, cuando la conciliación o parte de ésta fuere rechazada, el Tribunal Tributario y Aduanero, de oficio o a petición de parte, deberá recibir la causa a prueba si hubiere controversia sobre algún hecho substancial y pertinente. La resolución que se dicte al efecto señalará los puntos sobre los cuales deberá recaer la prueba. En su contra, sólo procederán los recursos de reposición y de apelación, dentro del plazo de cinco días, contado desde la notificación. De interponerse apelación, deberá hacerse siempre en subsidio de la reposición y procederá en el solo efecto devolutivo. El recurso de apelación se tramitará en cuenta y en forma preferente.
 
 El término probatorio será de veinte días y dentro de él se deberá rendir toda la prueba.
 
-En los primeros dos días del probatorio cada parte deberá acompañar una nómina de los testigos de que piensa valerse, con expresión de su nombre y apellido, domicilio y profesión u oficio. Sólo se examinarán testigos que figuren en dicha nómina. En el procedimiento no existirán testigos inhábiles, sin perjuicio de lo cual el tribunal podrá desechar de oficio a los que notoriamente aparezcan comprendidos en alguna de las situaciones del artículo 357 del Código de Procedimiento Civil. Se podrán dirigir a cualquier testigo preguntas tendientes a demostrar su credibilidad o falta de ella.
+En los primeros cinco días del probatorio cada parte deberá acompañar una nómina de los testigos de que piensa valerse, con expresión de su nombre y apellido, domicilio y profesión u oficio. Sólo se examinarán testigos que figuren en dicha nómina. En el procedimiento no existirán testigos inhábiles, sin perjuicio de lo cual el tribunal podrá desechar de oficio a los que notoriamente aparezcan comprendidos en alguna de las situaciones del artículo 357 del Código de Procedimiento Civil. Se podrán dirigir a cualquier testigo preguntas tendientes a demostrar su credibilidad o falta de ella.
 
 Se admitirá a declarar hasta un máximo de cuatro testigos por punto de prueba.
 
@@ -1684,11 +1726,29 @@ La prueba será apreciada por el Juez Tributario y Aduanero de conformidad con l
 
 No obstante lo anterior, los actos o contratos solemnes sólo podrán ser acreditados por medio de la solemnidad prevista por la ley. En aquellos casos en que la ley requiera probar mediante contabilidad fidedigna, el juez deberá ponderar preferentemente dicha contabilidad.
 
-El Tribunal Tributario y Aduanero tendrá el plazo de sesenta días para dictar sentencia, contado desde el vencimiento del término probatorio.
+Vencido el término de prueba, y dentro de los diez días siguientes, las partes podrán hacer por escrito las observaciones que el examen de la prueba les sugiera. Cumplido este plazo, se hayan o no presentado escritos, el Tribunal Tributario y Aduanero, a petición de parte, podrá llamar a las mismas a conciliación de conformidad al artículo 132 bis, citándolas para tales efectos a una audiencia en los términos del inciso segundo.
+
+Si se rechaza la conciliación, existan o no diligencias pendientes, el Tribunal deberá citar a las partes a oír sentencia.
+
+El Tribunal Tributario y Aduanero tendrá el plazo de sesenta días para dictar sentencia, contado desde que el Tribunal dicte la resolución a que se refiere el inciso anterior.
+
+#### Artículo 132 bis
+
+La conciliación a que se refiere el artículo 132 podrá ser total o parcial. Será materia de conciliación el litigio sometido al conocimiento del Tribunal Tributario y Aduanero, incluyendo la existencia de los elementos que determinan la ocurrencia del hecho gravado establecido en la ley; la cuantía o monto del o los impuestos determinados y de los reajustes, intereses o multas; la calificación jurídica de los hechos conforme a los antecedentes aportados en el procedimiento, la ponderación o valoración de las pruebas respectivas y la existencia de vicios o errores manifiestos de legalidad, ya sea de forma o fondo, siempre que todo lo anterior haya sido alegado expresamente por el contribuyente en el reclamo o se trate de casos en que el tribunal pueda pronunciarse de oficio.
+
+En ningún caso la conciliación podrá consistir en la mera disminución del monto del o los impuestos adeudados, salvo cuando ello se funde en la existencia de errores de hecho o de derecho en su determinación, o en antecedentes que permitan concluir que no concurren los elementos del hecho gravado establecido en la ley o cuando los impuestos determinados resulten ser excesivos conforme a los demás antecedentes tenidos a la vista con motivo de la conciliación. La conciliación tampoco podrá tener por objeto el saneamiento de aquellos vicios de fondo que den lugar a la nulidad del acto administrativo reclamado, ni de los vicios de forma que cumplan con los requisitos a que se refiere el párrafo segundo del numeral 8° del artículo 1° de la ley N° 20.322. En la o las audiencias de conciliación que se lleven a cabo, el Servicio, conforme a sus facultades legales, podrá proponer la condonación total o parcial de los intereses penales o multas aplicados, conforme a los criterios generales que fije mediante resolución.
+
+El llamado a conciliación no procederá en los procedimientos reglados en los artículos 4° quinquies, 100 bis, 160 bis, 161 y 165 de este Código; en aquellos que digan relación con hechos respecto de los cuales el Servicio haya ejercido la acción penal, y en los reclamos de liquidaciones, resoluciones o giros de impuesto que se relacionen con los hechos conocidos en los procedimientos a que se refiere este inciso.
+
+El juez deberá rechazar el acuerdo cuando no se cumplan los requisitos que establece este artículo o recaiga sobre materias respecto de las cuales no se admite conciliación.
+
+Sobre las bases de arreglo y la conciliación efectuada conforme a los incisos anteriores deberá pronunciarse el Director, quien podrá aceptarla o rechazarla. La decisión del Director, cuando consista en aceptar la conciliación, deberá contener los fundamentos de hecho y de derecho en que se basa, y las condiciones de dicha aceptación. El Director deberá pronunciarse sobre la conciliación dentro de los treinta días siguientes al término de la audiencia, estando facultado para aceptarla o rechazarla total o parcialmente. En caso de no pronunciarse en dicho plazo, se entenderá que rechaza las bases de arreglo y la conciliación.
+
+De la conciliación total o parcial se levantará acta que consignará las especificaciones del arreglo y los antecedentes de hecho y de derecho en que se funda, la cual suscribirán el juez y las partes. Una vez aprobada la conciliación mediante resolución fundada por el Tribunal Tributario y Aduanero, se considerará como sentencia ejecutoriada para todos los efectos legales. Contra la resolución que aprueba la conciliación solo procederá el recurso contemplado en el inciso primero del artículo 182 del Código de Procedimiento Civil.
 
 #### Artículo 133
 
-Las resoluciones que se dicten durante la tramitación del reclamo, con excepción de aquéllas a que se refieren el inciso segundo del artículo 132, inciso tercero del artículo 137 e incisos primero, segundo y final del artículo 139, sólo serán susceptibles del recurso de reposición, el cual deberá interponerse dentro del término de cinco días, contado desde la notificación correspondiente.
+Las resoluciones que se dicten durante la tramitación del reclamo, con excepción de aquéllas a que se refieren el inciso tercero del artículo 132, inciso tercero del artículo 137 e incisos primero, segundo y final del artículo 139, sólo serán susceptibles del recurso de reposición, el cual deberá interponerse dentro del término de cinco días, contado desde la notificación correspondiente.
 
 La resolución que falle la reposición no es susceptible de recurso alguno.
 
@@ -1754,7 +1814,7 @@ En las apelaciones a que se refiere este Libro no será necesaria la comparecenc
 
 #### Artículo 144
 
-Los fallos pronunciados por el tribunal tributario deberán ser fundados. La omisión de este requisito, así como de los establecidos en el inciso décimocuarto del artículo 132, será corregida de conformidad con lo dispuesto en el artículo 140.
+Los fallos pronunciados por el tribunal tributario deberán ser fundados. La omisión de este requisito, así como de los establecidos en el inciso decimoquinto del artículo 132, será corregida de conformidad con lo dispuesto en el artículo 140.
 
 #### Artículo 145
 
@@ -1840,7 +1900,7 @@ Del procedimiento especial de reclamo por vulneración de derechos
 
 #### Artículo 155
 
-Si producto de un acto u omisión del Servicio, un particular considera vulnerados sus derechos contemplados en los numerales 21º, 22º y 24º del artículo 19 de la Constitución Política de la República, podrá recurrir ante el Tribunal Tributario y Aduanero en cuya jurisdicción se haya producido tal acto u omisión, siempre que no se trate de aquellas materias que deban ser conocidas en conformidad a alguno de los procedimientos establecidos en el Título II o en los Párrafos 1º y 3º de este Título o en el Título IV, todos del Libro Tercero de este Código.
+Si producto de un acto u omisión ilegal o arbitrario del Servicio, un particular considera vulnerados sus derechos contemplados en los numerales 21º, 22º y 24º del artículo 19 de la Constitución Política de la República, podrá recurrir ante el Tribunal Tributario y Aduanero en cuya jurisdicción se haya producido tal acto u omisión ilegal o arbitrario, siempre que no se trate de aquellas materias que deban ser conocidas en conformidad a alguno de los procedimientos establecidos en el Título II o en los Párrafos 1º y 3º de este Título o en el Título IV, todos del Libro Tercero de este Código.
 
 La acción deberá presentarse por escrito, dentro del plazo fatal de quince días hábiles contado desde la ejecución del acto o la ocurrencia de la omisión, o desde que se haya tenido conocimiento cierto de los mismos, lo que se hará constar en autos.
 
@@ -1928,7 +1988,7 @@ En las causas de cuantía igual o superior a treinta y dos unidades tributarias 
 
 3° Pendiente el procedimiento, se podrán tomar las medidas conservativas necesarias para evitar que desaparezcan los antecedentes que prueben la infracción o que se consumen los hechos que la constituyen, en forma que no se impida el desenvolvimiento de las actividades del contribuyente.
 
-Contra la resolución que ordene las medidas anteriores y sin que ello obste a su cumplimiento, podrá ocurrirse ante el Juez de Letras de Mayor Cuantía en lo Civil que corresponda, quien resolverá con citación del Jefe del Servicio del lugar donde se haya cometido la infracción. El fallo que se dicte sólo será apelable en lo devolutivo. El plazo para apelar será de 15 días, contado desde la notificación de la sentencia
+Contra la resolución que ordene las medidas anteriores y sin que ello obste a su cumplimiento, podrá ocurrirse ante el Tribunal que la dictó, dentro del término de cinco días, contado desde la notificación de la resolución respectiva, quien resolverá con citación del Jefe del Servicio del lugar donde se haya cometido la infracción. El fallo que se dicte sólo será apelable en lo devolutivo. El plazo para apelar será de 15 días, contado desde la notificación de la sentencia
 
 4º. Presentados los descargos se conferirá traslado al Servicio por el término de diez días. Vencido este plazo, haya o no contestado el Servicio se ordenará recibir la prueba que se hubiere ofrecido, dentro del término que se señale.
 
@@ -1954,7 +2014,7 @@ Las medidas mencionadas en el inciso anterior podrán ordenarse para ser cumplid
 
 Para llevar a efecto las medidas de que tratan los incisos anteriores, el funcionario encargado de la diligencia podrá recurrir al auxilio de la fuerza pública, la que será concedida por el Jefe de Carabineros más inmediato sin más trámite que la exhibición de la resolución que ordena dicha medida, pudiendo procederse con allanamiento y descerrajamiento si fuere necesario.
 
-Contra la resolución que ordene dichas medidas y sin que ello obste a su cumplimiento, podrá ocurrirse ante el juez de letras en lo civil de turno del domicilio del contribuyente, quien resolverá con citación del Jefe del Servicio del lugar donde se haya cometido la infracción. El fallo que se dicte sólo será apelable en lo devolutivo. El plazo para apelar será de 15 días, contado desde la notificación de la sentencia.
+Contra la resolución que ordene dichas medidas y sin que ello obste a su cumplimiento, podrá ocurrirse ante el Juez Tributario y Aduanero competente, en el plazo de diez días contado desde la notificación de la resolución respectiva, quien resolverá con citación del Jefe del Servicio del lugar donde se haya cometido la infracción. El fallo que se dicte sólo será apelable en lo devolutivo. El plazo para apelar será de 15 días, contado desde la notificación de la sentencia.
 
 #### Artículo 162
 
@@ -2010,7 +2070,7 @@ Autorizada por el Servicio la sustitución de la multa de conformidad a lo dispu
 
 Las resoluciones dictadas en primera instancia se notificarán a las partes de conformidad con lo dispuesto en el artículo 131 bis.
 
-6º. El Juez Tributario y Aduanero resolverá el reclamo dentro del quinto día desde que los autos queden en estado de sentencia y, en contra de ésta, sólo procederá el recurso de apelación para ante la Corte de Apelaciones respectiva, el que se concederá en ambos efectos. Dicho recurso deberá entablarse dentro de décimoquinto día, contado desde la notificación de dicha resolución. Si el recurso fuere desechado por la unanimidad de los miembros del tribunal de segunda instancia, éste ordenará que el recurrente pague, a beneficio fiscal, una cantidad adicional equivalente al diez por ciento de la multa reajustada, y se condenará en las costas del recurso al recurrente, de acuerdo a las reglas generales.
+6º. El Juez Tributario y Aduanero resolverá el reclamo dentro del trigésimo día desde que los autos queden en estado de sentencia y, en contra de ésta, sólo procederá el recurso de apelación para ante la Corte de Apelaciones respectiva, el que se concederá en ambos efectos. Dicho recurso deberá entablarse dentro de décimoquinto día, contado desde la notificación de dicha resolución. Si el recurso fuere desechado por la unanimidad de los miembros del tribunal de segunda instancia, éste ordenará que el recurrente pague, a beneficio fiscal, una cantidad adicional equivalente al diez por ciento de la multa reajustada, y se condenará en las costas del recurso al recurrente, de acuerdo a las reglas generales.
 
 La Corte de Apelaciones verá la causa en forma preferente, en cuenta y sin esperar la comparecencia de las partes, salvo que estime conveniente el conocimiento de ella previa vista y en conformidad a las normas prescritas para los incidentes.
 
@@ -2050,29 +2110,29 @@ El Servicio de Tesorerías, a través de los funcionarios que designe nominativa
 
 #### Artículo 169
 
-Constituyen título ejecutivo, por el solo ministerio de la ley, las listas o nóminas de los deudores que se encuentren en mora, las que contendrán, bajo la firma del Tesorero Comunal que corresponda, la individualización completa del deudor y su domicilio, con especificación del período y la cantidad adeudada por concepto de impuesto o de sanciones en su caso y del tipo de tributo, número en el rol si lo hubiere y de la orden de ingreso, boletín o documento que haga sus veces.
+Constituyen título ejecutivo, por el solo ministerio de la ley, las listas o nóminas de los deudores que se encuentren en mora, las que contendrán, bajo la firma del Tesorero Regional o Provincial que corresponda, la individualización completa del deudor y su domicilio, con especificación del período y la cantidad adeudada por concepto de impuesto o de sanciones en su caso y del tipo de tributo, número en el rol si lo hubiere y de la orden de ingreso, boletín o documento que haga sus veces.
 
 El Tesorero General de la República determinará por medio de instrucciones internas la forma como deben prepararse las nóminas o listas de deudores morosos, como asimismo todas las actuaciones o diligencias administrativas que deban llevarse a efecto por el Servicio de Tesorerías, en cumplimiento de las disposiciones del presente Título.
 
-El Tesorero General podrá, por resolución fundada, excluir del procedimiento ejecutivo de este Título, aquellas obligaciones tributarias en que por su escaso monto o por otras circunstancias calificadas, no resulte conveniente efectuar la cobranza judicial, resolución que podrá modificar en cualquier momento.
+El Tesorero General podrá, por resolución fundada, excluir del procedimiento ejecutivo de este Título, aquellas obligaciones tributarias en que por su escaso monto o por otras circunstancias calificadas, no resulte conveniente efectuar la cobranza judicial, resolución que podrá modificar en cualquier momento. Decretada la exclusión y durante el tiempo que ésta dure, no se devengarán intereses moratorios ni multas, cuando estas últimas procedan.
 
 Sin perjuicio de lo dispuesto en el inciso anterior, el Tesorero General de la República, por resolución interna, podrá ordenar la exclusión del procedimiento ejecutivo a que se refiere este Título de los contribuyentes que, se encuentren o no demandados, tengan deudas morosas fiscales cuyo valor por cada formulario, giro u orden, no exceda de 2 UTM vigente a la fecha de la mencionada resolución.
 
 #### Artículo 170
 
-El Tesorero Comunal respectivo, actuando en el carácter de juez sustanciador, despachará el mandamiento de ejecución y embargo, mediante una providencia que estampará en la propia nómina de deudores morosos, que hará de auto cabeza del proceso.
+El Tesorero Regional o Provincial respectivo, actuando en el carácter de juez sustanciador, despachará el mandamiento de ejecución y embargo, mediante una providencia que estampará en la propia nómina de deudores morosos, que hará de auto cabeza del proceso.
 
 El mandamiento de ejecución y embargo podrá dirigirse contra todos los deudores a la vez y no será susceptible de recurso alguno.
 
-El embargo podrá recaer en la parte de las remuneraciones que perciba el ejecutado que excedan a cinco unidades tributarias mensuales del departamento respectivo.
+El embargo podrá recaer en la parte de las remuneraciones que perciba el ejecutado que excedan a cinco unidades tributarias mensuales.
 
-Los recaudadores fiscales, cuando traben el embargo en las remuneraciones de los contribuyentes morosos, procederán a notificarle por cédula a la persona natural o jurídica que por cuenta propia o ajena o en el desempeño de un empleo o cargo, deba pagar al contribuyente moroso su sueldo, salario, remuneración o cualquier otra prestación en dinero, a fin de que retenga y/o entregue la suma embargada directamente a la orden del Tesorero Comunal que lo decretó, el que las ingresará a una cuenta de depósito mientras quede a firme la ejecución, caso este último en que las cantidades embargadas ingresarán a las cuentas correspondientes a los impuestos adeudados.
+Los recaudadores fiscales, cuando traben el embargo en las remuneraciones de los contribuyentes morosos, procederán a notificarle por cédula a la persona natural o jurídica que por cuenta propia o ajena o en el desempeño de un empleo o cargo, deba pagar al contribuyente moroso su sueldo, salario, remuneración o cualquiera otra prestación en dinero, a fin de que retenga y/o entregue la suma embargada directamente a la orden del Tesorero Regional o Provincial que lo decretó, el que las ingresará a una cuenta de depósito mientras quede a firme la ejecución, caso este último en que las cantidades embargadas ingresarán a las cuentas correspondientes a los impuestos adeudados.
 
 Si para obtener el pago de la cantidad adeudada fuere necesario efectuar más de un descuento mensual en los sueldos o remuneraciones del contribuyente moroso, la notificación del embargo para la primera retención será suficiente para el pago de cada una de las próximas retenciones hasta la cancelación total del monto de lo adeudado, sin necesidad de nuevo requerimiento.
 
-En caso que la persona natural o jurídica que deba efectuar la retención y/o proceder a la entrega de las cantidades embargadas, no diere cumplimiento el embargo trabado por el recaudador fiscal, quedará solidariamente responsable del pago de las sumas que haya dejado de retener.
+En caso que la persona natural o jurídica que deba efectuar la retención y/o proceder a la entrega de las cantidades embargadas, no diere cumplimiento al embargo trabado por el recaudador fiscal, quedará solidariamente responsable del pago de las sumas que haya dejado de retener.
 
-Sin perjuicio de la ejecución, la Tesorería Comunal podrá, en forma previa, concomitante o posterior, enviar comunicaciones administrativas a los deudores morosos y efectuar las diligencias que determinen las instrucciones del Tesorero General.
+Sin perjuicio de la ejecución, la Tesorería Regional o Provincial podrá, en forma previa, concomitante o posterior, enviar comunicaciones administrativas a los deudores morosos y efectuar las diligencias que determinen las instrucciones del Tesorero General.
 
 #### Artículo 171
 
@@ -2082,13 +2142,13 @@ Practicado el requerimiento en alguna de las formas indicadas en el inciso prece
 
 En igual forma se procederá en caso de bienes embargados que deban inscribirse en registros especiales, tales como acciones, propiedad literaria o industrial, bienes muebles agrícolas o industriales.
 
-Además de los lugares indicados en el artículo 41° del Código de Procedimiento Civil, la notificación podrá hacerse, en el caso del impuesto territorial, en la propiedad raíz de cuya contribución se trate; sin perjuicio también de la facultad del Tesorero Comunal para habilitar, con respecto de determinadas personas, día, hora y lugar. Tratándose de otros tributos, podrá hacerse en el domicilio o residencia indicado por el contribuyente en su última declaración que corresponda al impuesto que se le cobra, en el último domicilio que el contribuyente haya registrado ante el Servicio de Impuestos Internos.
+Además de los lugares indicados en el artículo 41° del Código de Procedimiento Civil, la notificación podrá hacerse, en el caso del impuesto territorial, en la propiedad raíz de cuya contribución se trate; sin perjuicio también de la facultad del Tesorero Regional o Provincial para habilitar, con respecto de determinadas personas, día, hora y lugar. Tratándose de otros tributos, podrá hacerse en el domicilio o residencia indicado por el contribuyente en su última declaración que corresponda al impuesto que se le cobra, en el último domicilio que el contribuyente haya registrado ante el Servicio de Impuestos Internos.
 
-Para facilitar estas diligencias, los recaudadores fiscales podrán exigir de los deudores morosos una declaración jurada de sus bienes y éstos deberán proporcionarla. Si así no lo hicieren y su negativa hiciere impracticable o insuficiente el embargo, el Abogado Provincial solicitará de la Justicia Ordinaria apremios corporales en contra del rebelde.
+Para facilitar estas diligencias, los recaudadores fiscales podrán exigir de los deudores morosos una declaración jurada de sus bienes y éstos deberán proporcionarla. Si así no lo hicieren y su negativa hiciere impracticable o insuficiente el embargo, el Abogado del Servicio de Tesorerías solicitará de la Justicia Ordinaria apremios corporales en contra del rebelde.
 
 #### Artículo 172
 
-En los procesos a que se refiere este Código, el auxilio de la fuerza pública se prestará por el funcionario policial que corresponda a requerimiento del recaudador fiscal con la sola exhibición de la resolución del Tesorero Comunal o del Juez Ordinario en su caso, que ordene una diligencia que no haya podido efectuarse por oposición del deudor o de terceros.
+En los procesos a que se refiere este Código, el auxilio de la fuerza pública se prestará por el funcionario policial que corresponda a requerimiento del recaudador fiscal con la sola exhibición de la resolución del Tesorero Regional o Provincial o del Juez Ordinario en su caso, que ordene una diligencia que no haya podido efectuarse por oposición del deudor o de terceros.
 
 #### Artículo 173
 
@@ -2100,7 +2160,7 @@ Tratándose de bienes corporales muebles, los recaudadores fiscales, en caso de 
 
 Practicado el embargo, el recaudador confeccionará una relación circunstanciada de los bienes embargados bajo su firma y sello, la que además será firmada por el ejecutado o persona adulta de su domicilio y en caso de no querer firmar, dejará constancia de este hecho. En todo caso una copia de la relación de los bienes embargados deberá ser entregada al ejecutado o persona adulta que haya presenciado la diligencia. En todos los casos en que el embargo se haya efectuado en ausencia del ejecutado o de la persona adulta que lo represente, el recaudador fiscal remitirá la copia de la relación por carta certificada dirigida el ejecutado, de lo que dejará constancia en el expediente.
 
-Verificado el embargo, el Tesorero Comunal podrá ordenar ampliación del mismo, siempre que haya justo motivo para temer que los bienes embargados no basten para cubrir las deudas de impuestos morosos, reajustes, intereses, sanciones y multas.
+Verificado el embargo, el Tesorero Regional o Provincial podrá ordenar ampliación del mismo, siempre que haya justo motivo para temer que los bienes embargados no basten para cubrir las deudas de impuestos morosos, reajustes, intereses, sanciones y multas.
 
 #### Artículo 175
 
@@ -2108,13 +2168,13 @@ En los procesos seguidos contra varios deudores morosos, las resoluciones que no
 
 Los recaudadores fiscales podrán estampar en una sola certificación, numerando sus actuaciones y cumpliendo con lo dispuesto en el artículo 61 del Código de Procedimiento Civil, las diligencias análogas que se practiquen en un mismo día y expediente respecto de diversos ejecutados.
 
-Cada Tesorería Comunal deberá mantener los expedientes clasificados de modo de facilitar su examen o consulta por los contribuyentes morosos o sus representantes legales. La Tesorería deberá recibir todas las presentaciones que hagan valer los ejecutados o sus representantes legales, debiendo timbrar el original y las copias que se le presenten con la indicación de las fechas.
+Cada Tesorería Regional o Provincial deberá mantener los expedientes clasificados de modo de facilitar su examen o consulta por los contribuyentes morosos o sus representantes legales. La Tesorería deberá recibir todas las presentaciones que hagan valer los ejecutados o sus representantes legales, debiendo timbrar el original y las copias que se le presenten con la indicación de las fechas. En estos casos se podrá comparecer sin necesidad de ser representados por abogado habilitado para el ejercicio de la profesión.
 
 #### Artículo 176
 
-El ejecutado podrá oponerse a la ejecución ante la Tesorería Comunal respectiva, dentro del plazo de diez días hábiles contados desde la fecha del requerimiento de pago practicado conforme al artículo 171°.
+El ejecutado podrá oponerse a la ejecución ante la Tesorería Regional o Provincial respectiva, dentro del plazo de diez días hábiles contados desde la fecha del requerimiento de pago practicado conforme al artículo 171°.
 
-En los casos en que el requerimiento se practique en lugares apartados y de difícil comunicación con la Tesorería Comunal, se tendrá como interpuesta en tiempo la oposición que se efectúe por carta certificada, siempre que la recepción por el Servicio de Correos se hubiere verificado dentro del plazo a que se refiere el inciso anterior.
+En los casos en que el requerimiento se practique en lugares apartados y de difícil comunicación con la Tesorería Regional o Provincial, se tendrá como interpuesta en tiempo la oposición que se efectúe por carta certificada, siempre que la recepción por el Servicio de Correos se hubiere verificado dentro del plazo a que se refiere el inciso anterior.
 
 Se aplicarán a la oposición del ejecutado las normas contenidas en los artículos 461 y 462 del Código de Procedimiento Civil.
 
@@ -2126,17 +2186,17 @@ La oposición del ejecutado sólo será admisible cuando se funde en alguna de l
 
 2°.- Prescripción.
 
-3°.- No empecer el título al ejecutado. En virtud de esta última excepción no podrá discutirse la existencia de la obligación tributaria y para que sea sometida a tramitación deberá fundarse en algún antecedente escrito y aparecer revestida de fundamento plausible. Si no concurrieren estos requisitos el Tribunal la desechará de plano.
+3°.- No empecer el título al ejecutado. En virtud de esta última excepción no podrá discutirse la existencia de la obligación tributaria y para que sea sometida a tramitación deberá fundarse en algún antecedente escrito y aparecer revestida de fundamento plausible. Corresponderá al juez sustanciador efectuar el examen de admisibilidad y si no concurrieren estos requisitos la desechará de plano.
 
 Las demás excepciones del artículo 464° del Código de Procedimiento Civil se entenderán siempre reservadas al ejecutado para el juicio ordinario correspondiente, sin necesidad de petición ni declaración expresa.
 
-El Tesorero Comunal en cualquier estado de la causa, de oficio o a petición de parte, dictará las resoluciones que procedan para corregir los errores o vicios manifiestos de que adolezca el cobro, tales como duplicidad o modificación posterior de boletines u órdenes de ingreso que le sirven de fundamento.
+El Tesorero Regional o Provincial en cualquier estado de la causa, de oficio o a petición de parte, dictará las resoluciones que procedan para corregir los errores o vicios manifiestos de que adolezca el cobro, tales como duplicidad o modificación posterior de boletines u órdenes de ingreso que le sirven de fundamento.
 
 Sin perjuicio de las excepciones enumeradas en este artículo, el ejecutado que fuere a su vez acreedor del Fisco podrá solicitar administrativamente la compensación de las deudas respectivas extinguiéndose las obligaciones hasta la concurrencia de la de menor valor.
 
 Para solicitar esa compensación, será necesario que se haya emitido la orden de pago correspondiente.
 
-La Tesorería Comunal practicará una liquidación completa de las deudas cuya compensación se solicita. Si la deuda en favor del contribuyente fuera inferior a la del Fisco, aquél deberá depositar la diferencia.
+La Tesorería Regional o Provincial practicará una liquidación completa de las deudas cuya compensación se solicita. Si la deuda en favor del contribuyente fuera inferior a la del Fisco, aquél deberá depositar la diferencia.
 
 Si efectuada la compensación quedare un saldo a favor del ejecutado se le pagará en su oportunidad o se le abonará en cuenta según lo solicite.
 
@@ -2144,31 +2204,31 @@ Se entenderá en todo caso causal justificada para solicitar ante quien correspo
 
 #### Artículo 178
 
-Recibido el escrito de oposición del ejecutado por la Tesorería Comunal, el Tesorero examinará su contenido y sólo podrá pronunciarse sobre ella cuando fundándose en el pago de la deuda proceda acogerla íntegramente, caso en el cual emitirá una resolución en este sentido, ordenando levantar el embargo aplicado y dejar sin efecto la ejecución. La resolución que dicte deberá notificarse al ejecutado por cédula.
+Recibido el escrito de oposición del ejecutado por la Tesorería Regional o Provincial, el Tesorero examinará su contenido y sólo podrá pronunciarse sobre ella cuando fundándose en el pago de la deuda proceda acogerla íntegramente, caso en el cual emitirá una resolución en este sentido, ordenando levantar el embargo aplicado y dejar sin efecto la ejecución. La resolución que dicte deberá notificarse al ejecutado por cédula.
 
-El Tesorero Comunal podrá asimismo acoger las alegaciones y defensas que se fundamenten en errores o vicios manifiestos de que adolezca el cobro.
+El Tesorero Regional o Provincial podrá asimismo acoger las alegaciones y defensas que se fundamenten en errores o vicios manifiestos de que adolezca el cobro.
 
-En ningún caso podrá pronunciarse el Tesorero sobre un escrito de oposición sino para acogerlo; en los demás, las excepciones serán resueltas por el Abogado Provincial o la Justicia Ordinaria en subsidio.
+En ningún caso podrá pronunciarse el Tesorero sobre un escrito de oposición sino para acogerlo; en los demás, las excepciones serán resueltas por el Abogado del Servicio de Tesorerías o la Justicia Ordinaria en subsidio.
 
-El Tesorero Comunal deberá pronunciarse sobre la oposición o las alegaciones del ejecutado dentro del plazo de cinco días al cabo de los cuales si no las ha acogido se entenderán reservadas para el Abogado Provincial, a quien se le remitirán en cuaderno separado conjuntamente con el principal, una vez concluidos los trámites de competencia del Tesorero Comunal y vencidos todos los plazos de que dispongan los contribuyentes contra quienes se ha dirigido la ejecución.
+El Tesorero Regional o Provincial deberá pronunciarse sobre la oposición o las alegaciones del ejecutado dentro del plazo de cinco días al cabo de los cuales si no las ha acogido se entenderán reservadas para el Abogado del Servicio de Tesorerías, a quien se le remitirán en cuaderno separado conjuntamente con el principal, una vez concluidos los trámites de competencia del Tesorero Regional o Provincial y vencidos todos los plazos de que dispongan los contribuyentes contra quienes se ha dirigido la ejecución.
 
-Sin embargo, el ejecutado podrá solicitar la remisión inmediata de los antecedentes al Abogado Provincial cuando la mantención del embargo le causare perjuicios. En tal caso sólo se enviará el cuaderno separado, con compulsa de las piezas del cuaderno principal que sean necesarias para la resolución de la oposición.
+Sin embargo, el ejecutado podrá solicitar la remisión inmediata de los antecedentes al Abogado del Servicio de Tesorerías cuando la mantención del embargo le causare perjuicios. En tal caso sólo se enviará el cuaderno separado, con compulsa de las piezas del cuaderno principal que sean necesarias para la resolución de la oposición.
 
 #### Artículo 179
 
-Si transcurriera el plazo que el ejecutado tiene para oponerse a la ejecución sin haberla deducido a tiempo, o habiéndola deducido, ésta no fuere de la competencia del Tesorero Comunal, o no la hubiere acogido, el expediente será remitido por éste en la forma y oportunidad señaladas en el artículo anterior al Abogado Provincial con la certificación de no haberse deducido oposición dentro del plazo, o con el respectivo escrito de oposición incorporado en el expediente.
+Si transcurriera el plazo que el ejecutado tiene para oponerse a la ejecución sin haberla deducido a tiempo, o habiéndola deducido, ésta no fuere de la competencia del Tesorero Regional o Provincial, o no la hubiere acogido, el expediente será remitido por éste en la forma y oportunidad señaladas en el artículo anterior al Abogado Provincial con la certificación de no haberse deducido oposición dentro del plazo, o con el respectivo escrito de oposición incorporado en el expediente.
 
-El Abogado Provincial comprobará que el expediente se encuentre completo y, en su caso, ordenará que se corrijan por la Tesorería Comunal cualquiera deficiencia de que pudiere adolecer, y en especial deberá pronunciarse mediante resolución fundada acerca de las excepciones o alegaciones opuestas por el ejecutado, a quien se le notificará por cédula lo resuelto.
+El Abogado del Servicio de Tesorerías comprobará que el expediente se encuentre completo y, en su caso, ordenará que se corrijan por la Tesorería Regional o Provincial cualquiera deficiencia de que pudiere adolecer, y en especial deberá pronunciarse mediante resolución fundada acerca de las excepciones o alegaciones opuestas por el ejecutado, a quien se le notificará por cédula lo resuelto.
 
-El Abogado Provincial deberá evacuar los trámites señalados en el inciso anterior, en caso de ser procedentes, dentro del plazo de cinco días hábiles contados desde la recepción de los antecedentes respectivos.
+El Abogado del Servicio de Tesorerías deberá evacuar los trámites señalados en el inciso anterior, en caso de ser procedentes, dentro del plazo de quince días hábiles contados desde la recepción de los antecedentes respectivos.
 
-Subsanadas las deficiencias a que alude el inciso segundo, en su caso y no habiéndose acogido las excepciones opuestas por el ejecutado, el Abogado Provincial dentro del plazo de cinco días hábiles computados en la misma forma que en el inciso anterior deberá presentar el expediente al Tribunal Ordinario señalado en el artículo 180°, con un escrito en el que se solicitará del Tribunal que se pronuncie sobre la oposición, exponiendo lo que juzgue oportuno en relación a ella. En el caso de no existir oposición solicitará que, en mérito del proceso se ordene el retiro de especies y demás medidas de realización que correspondan.
+Subsanadas las deficiencias a que alude el inciso segundo, en su caso y no habiéndose acogido las excepciones opuestas por el ejecutado, el Abogado del Servicio de Tesorerías dentro del plazo de quince días hábiles computados en la misma forma que en el inciso anterior deberá presentar el expediente al Tribunal Ordinario señalado en el artículo 180°, con un escrito en el que se solicitará del Tribunal que se pronuncie sobre la oposición, exponiendo lo que juzgue oportuno en relación a ella, solicitud que se tramitará incidentalmente, conforme a las normas del Código de Procedimiento Civil. En el caso de no existir oposición solicitará que, en mérito del proceso se ordene el retiro de especies y demás medidas de realización que correspondan.
 
-En el caso que la Tesorería Comunal o el Abogado Provincial no cumplan con las actuaciones señaladas en el artículo 177° o los incisos anteriores, dentro del plazo, el ejecutado tendrá derecho para solicitar al Tribunal Ordinario señalado en el inciso precedente que requiera el expediente para su conocimiento y fallo.
+En el caso que la Tesorería Regional o Provincial o el Abogado del Servicio de Tesorerías no cumplan con las actuaciones señaladas en el artículo 177° o los incisos anteriores, dentro del plazo, el ejecutado tendrá derecho para solicitar al Tribunal Ordinario señalado en el inciso precedente que requiera el expediente para su conocimiento y fallo.
 
 #### Artículo 180
 
-El expediente y el escrito a que se refiere el artículo anterior se presentarán ante el Juez de Letras de Mayor Cuantía del Departamento correspondiente al domicilio del demandado al momento de practicársele el requerimiento de pago.
+El expediente y el escrito a que se refiere el artículo anterior se presentarán ante el juez ordinario civil competente correspondiente al domicilio del demandado al momento de practicársele el requerimiento de pago.
 
 Será competente para conocer en segunda instancia de estos juicios, la Corte de Apelaciones a cuya jurisdicción pertenezca el Juzgado referido en el inciso anterior.
 
@@ -2180,7 +2240,7 @@ En estos juicios, la competencia no se alterará por el fuero de que pueda gozar
 
 Serán aplicables para la tramitación y fallo de las excepciones opuestas por el ejecutado, las disposiciones de los artículos 467, 468, 469, 470, 472, 473 y 474 del Código de Procedimiento Civil, en lo que sean pertinentes.
 
-La primera resolución del Tribunal Ordinario que recaiga sobre el escrito presentado por el Abogado Provincial, deberá notificarse por cédula.
+La primera resolución del Tribunal Ordinario que recaiga sobre el escrito presentado por el Abogado del Servicio de Tesorerías, deberá notificarse por cédula.
 
 #### Artículo 182°
 
@@ -2198,23 +2258,23 @@ En los casos en que se interponga el recurso de apelación y el ejecutado no cum
 
 Si no hubiere oposición del ejecutado, o habiéndola opuesto se encontrare ejecutoriada la resolución que le niega lugar o en los casos en que no deba suspenderse la ejecución de acuerdo con los artículos 182 y 183, el Juez ordenará el retiro de las especies embargadas y el remate, tratándose de bienes corporales muebles y designará como depositario a un recaudador fiscal con el carácter de definitivo, a menos que se solicite que recaiga en el deudor o en otra persona.
 
-El recaudador fiscal procederá al retiro de las cosas muebles embargadas, debiendo otorgar al interesado un certificado en que dichas especies se individualicen bajo la firma y timbre del funcionario. Las especies retiradas serán entregadas para su inmediata subasta a la casa de martillo dependiente de la Dirección de Crédito Prendario y de Martillo que corresponda al lugar del juicio y si no hubiere oficina de dicha Dirección en la localidad, en la casa de martillo que se señale en el escrito respectivo del Abogado Provincial.
+El recaudador fiscal procederá al retiro de las cosas muebles embargadas, debiendo otorgar al interesado un certificado en que dichas especies se individualicen bajo la firma y timbre del funcionario. Las especies retiradas serán entregadas para su inmediata subasta a la casa de martillo dependiente de la Dirección de Crédito Prendario y de Martillo que corresponda al lugar del juicio y si no hubiere oficina de dicha Dirección en la localidad, o habiéndola, siempre que así lo ordene el juez civil, serán entregadas en la casa de martillo que se señale en el escrito respectivo del Abogado del Servicio de Tesorerías o en la que el tribunal designe.
 
-Con todo si el traslado resultare difícil u oneroso el Juez autorizará que las especies embargadas permanezcan en su lugar de origen y la subasta la efectúe el Tesorero Comunal, sin derecho a comisión por ello.
+Con todo si el traslado resultare difícil u oneroso el Juez autorizará que las especies embargadas permanezcan en su lugar de origen y la subasta la efectúe un funcionario de la Dirección de Crédito Prendario o el martillero que el tribunal designe.
 
 #### Artículo 185
 
-La subasta de los bienes raíces será decretada por el Juez de la causa, a solicitud del respectivo Abogado Provincial, cualesquiera que sean los embargos o prohibiciones que les afecten, decretados por otros juzgados, teniendo como única tasación la que resulte de multiplicar por 1,3 veces el avalúo fiscal que esté vigente para los efectos de la contribución de bienes raíces.
+La subasta de los bienes raíces será decretada por el Juez de la causa, a solicitud del respectivo Abogado del Servicio de Tesorerías, cualesquiera que sean los embargos o prohibiciones que les afecten, decretados por otros juzgados, teniendo como única tasación la que resulte de multiplicar por 1,3 veces el avalúo fiscal que esté vigente para los efectos de la contribución de bienes raíces.
 
 Los avisos a que se refiere el artículo 489 del Código de Procedimiento Civil se reducirán en estos juicios a dos publicaciones en un diario que tenga circulación con alcance de carácter nacional, independientemente que su soporte sea electrónico o digital, o en un periódico de los de mayor circulación de la provincia, o de la capital de la región si en aquella no lo hay. En dichos avisos deberán indicarse a lo menos los siguientes antecedentes: nombre del dueño del inmueble, su ubicación, tipo de impuesto y período, número de rol, si lo hubiere, y el Tribunal que conoce del juicio. El Servicio de Tesorerías deberá emplear todos los medios a su alcance para dar la mayor publicidad posible a la subasta.
 
-#### Artículo 186°
+#### Artículo 186
 
-En todos los asuntos de carácter judicial que se produzcan o deriven del cobro, pago o extinción de obligaciones tributarias y créditos fiscales, asumirá la representación y patrocinio del Fisco, el Abogado Provincial que corresponda; no obstante, el Fiscal de la Tesorería General podrá asumir la representación del Fisco en cualquier momento. Lo anterior, sin perjuicio de las atribuciones que sobre estas materias le competan a otros organismos del Estado.
+En todos los asuntos de carácter judicial que se produzcan o deriven del cobro, pago o extinción de obligaciones tributarias y créditos fiscales, asumirá la representación y patrocinio del Fisco, el Abogado del Servicio de Tesorerías que corresponda; no obstante, el Fiscal de la Tesorería General podrá asumir la representación del Fisco en cualquier momento. Lo anterior, sin perjuicio de las atribuciones que sobre estas materias le competan a otros organismos del Estado.
 
-El Abogado Provincial podrá designar, bajo su responsabilidad, procurador a alguno de los funcionarios de Tesorerías.
+El Abogado del Servicio de Tesorerías podrá designar, bajo su responsabilidad, procurador a alguno de los funcionarios de Tesorerías.
 
-Ni el Fiscal de la Tesorería General ni los Abogados Provinciales estarán obligados a concurrir al Tribunal para absolver posiciones y deberán prestar sus declaraciones por escrito en conformidad a lo dispuesto por el artículo 362 del Código de Procedimiento Civil.
+Ni el Fiscal de la Tesorería General ni los Abogados del Servicio de Tesorerías estarán obligados a concurrir al Tribunal para absolver posiciones y deberán prestar sus declaraciones por escrito en conformidad a lo dispuesto por el artículo 362 del Código de Procedimiento Civil.
 
 #### Artículo 187°
 
@@ -2232,13 +2292,13 @@ En estos casos el saldo que resulte después de pagadas las contribuciones y los
 
 #### Artículo 190°
 
-Las cuestiones que se susciten entre los deudores morosos de impuestos y el Fisco, que no tengan señalado un procedimiento especial, se tramitarán incidentalmente y sin forma de juicio ante el propio Tesorero Comunal con informe del Abogado Provincial el que será obligatorio para aquél.
+Las cuestiones que se susciten entre los deudores morosos de impuestos y el Fisco, que no tengan señalado un procedimiento especial, se tramitarán incidentalmente y sin forma de juicio ante el propio Tesorero Regional o Provincial con informe del Abogado del Servicio de Tesorerías el que será obligatorio para aquél.
 
 En lo que fuere compatible con el carácter administrativo de este procedimiento se aplicarán las normas contempladas en el Título I del Libro Tercero del Código de Procedimiento Civil.
 
 #### Artículo 191°
 
-Se tendrá como parte en segunda instancia al respectivo Abogado Provincial, aunque no comparezca personalmente a seguir el recurso.
+Se tendrá como parte en segunda instancia al respectivo Abogado del Servicio de Tesorerías, aunque no comparezca personalmente a seguir el recurso.
 
 #### Artículo 192
 
@@ -2258,13 +2318,13 @@ Las formalidades a que deberán someterse los mencionados convenios, serán esta
 
 #### Artículo 193°
 
-Los Abogados Provinciales deberán velar por la estricta observancia de los preceptos de este Título y por la corrección y legalidad de los procedimientos empleados por las autoridades administrativas aquí establecidas en la sustanciación de estos juicios.
+Los Abogados del Servicio de Tesorerías deberán velar por la estricta observancia de los preceptos de este Título y por la corrección y legalidad de los procedimientos empleados por las autoridades administrativas aquí establecidas en la sustanciación de estos juicios.
 
-Los contribuyentes podrán reclamar ante el Abogado Provincial que corresponda de las faltas o abusos cometidos durante el juicio por el juez sustanciador o sus auxiliares, y el Abogado Provincial deberá adoptar las resoluciones que tengan por fin poner pronto remedio al mal que motiva la reclamación, las que obligarán a dichos funcionarios, debiendo informar al Tesorero Provincial que corresponda para la adopción de las medidas administrativas y aplicación de las sanciones que procedan.
+Los contribuyentes podrán reclamar ante el Abogado del Servicio de Tesorerías que corresponda de las faltas o abusos cometidos durante el juicio por el juez sustanciador o sus auxiliares, y el Abogado del Servicio de Tesorerías deberá adoptar las resoluciones que tengan por fin poner pronto remedio al mal que motiva la reclamación, las que obligarán a dichos funcionarios, debiendo informar al Tesorero Regional o Provincial que corresponda para la adopción de las medidas administrativas y aplicación de las sanciones que procedan.
 
 #### Artículo 194°
 
-Los notarios, conservadores, archiveros y oficiales civiles estarán obligados a proporcionar preferentemente las copias, inscripciones y anotaciones que les pida la Tesorería Comunal. El valor de sus actuaciones lo percibirán a medida que los contribuyentes enteren en Tesorería, las respectivas costas de cobranza.
+Los notarios, conservadores, archiveros y oficiales civiles estarán obligados a proporcionar preferentemente las copias, inscripciones y anotaciones que les pida el Servicio de Tesorerías. El valor de sus actuaciones lo percibirán de los contribuyentes a medida que éstos obtengan el alzamiento de las medidas inscritas o anotadas.
 
 #### Artículo 195
 
@@ -2316,19 +2376,19 @@ No será aplicable el inciso segundo del artículo 197, a lo dispuesto en este n
 
 El Tesorero General de la República declarará la incobrabilidad de los impuestos y contribuciones morosos a que se refiere el artículo 196, de acuerdo con los antecedentes proporcionados por el Departamento de Cobranza del Servicio de Tesorerías, y procederá a la eliminación de los giros u órdenes respectivos. La nómina de deudores incobrables se remitirá a la Contraloría General de la República.
 
-No obstante lo dispuesto en el inciso anterior, la Tesorería Comunal podrá revalidar las deudas en caso de ser habido el deudor o de encontrarse bienes suficientes en su dominio.
+No obstante lo dispuesto en el inciso anterior, la Tesorería Regional o Provincial podrá revalidar las deudas en caso de ser habido el deudor o de encontrarse bienes suficientes en su dominio.
 
 Transcurrido el plazo de tres años a que se refieren los artículos 200 y 201, prescribirá, en todo caso, la acción del Fisco.
 
-#### Artículo 198°
+#### Artículo 198
 
-Para el efecto previsto en el N° 1 del artículo 37 de la ley N° 4.558, las obligaciones tributarias de dinero de los deudores comerciantes se considerarán como obligaciones mercantiles. Sólo el Fisco podrá invocar estos créditos.
+Para el efecto previsto en el N° 1 del artículo 117 de la Ley N° 20.720, las obligaciones tributarias de dinero de los deudores comerciantes se considerarán como obligaciones mercantiles. Sólo el Fisco podrá invocar estos créditos.
 
 #### Artículo 199°
 
-En los casos de realización de bienes raíces en que no hayan concurrido interesados a dos subastas distintas decretadas por el juez, el Abogado Provincial podrá solicitar que el bien o bienes raíces sean adjudicados al Fisco, por su avalúo fiscal, debiéndose en este caso, pagar al ejecutado el saldo que resultare a favor de éste previamente a la suscripción de la escritura de adjudicación.
+En los casos de realización de bienes raíces en que no hayan concurrido interesados a dos subastas distintas decretadas por el juez, el Abogado del Servicio de Tesorerías podrá solicitar que el bien o bienes raíces sean adjudicados al Fisco, por su avalúo fiscal, debiéndose en este caso, pagar al ejecutado el saldo que resultare a favor de éste previamente a la suscripción de la escritura de adjudicación.
 
-Los Tesoreros Comunales y recaudadores fiscales no podrán adquirir para sí, su cónyuge o para sus hijos las cosas o derechos en cuyo embargo o realización intervinieren.
+Los Tesoreros Regionales o Provinciales y recaudadores fiscales no podrán adquirir para sí, su cónyuge o para sus hijos las cosas o derechos en cuyo embargo o realización intervinieren.
 
 ## Título VI
 
@@ -2342,7 +2402,7 @@ El plazo señalado en el inciso anterior será de seis años para la revisión d
 
 En los plazos señalados en los incisos anteriores y computados en la misma forma prescribirá la acción del Servicio para perseguir las sanciones pecuniarias que accedan a los impuestos adeudados.
 
-Los plazos anteriores se entenderán aumentados por el término de tres meses desde que se cite al contribuyente, de conformidad al artículo 63 o a otras disposiciones que establezcan el trámite de la citación para determinar o reliquidar un impuesto, respecto de los impuestos derivados de las operaciones que se indiquen determinadamente en la citación. Si se prorroga el plazo conferido al contribuyente en la citación respectiva, se entenderán igualmente aumentados, en los mismos términos, los plazos señalados en este artículo.
+Los plazos anteriores se entenderán aumentados por el término de tres meses desde que se cite al contribuyente, de conformidad al artículo 63 o a otras disposiciones que establezcan el trámite de la citación para determinar o reliquidar un impuesto, respecto de los impuestos derivados de las operaciones que se indiquen determinadamente en la citación. Si se prorroga el plazo conferido al contribuyente en la citación respectiva, se entenderán igualmente aumentados, en los mismos términos, los plazos señalados en este artículo. Si se requiere al contribuyente en los términos del inciso tercero del artículo 63, los plazos señalados se aumentarán en un mes.
 
 Las acciones para perseguir las sanciones de carácter pecuniario y otras que no accedan al pago de un impuesto prescribirán en tres años contados desde la fecha en que se cometió la infracción.
 

@@ -368,7 +368,7 @@ Los representantes legales de las Administradoras de Fondos de Pensiones tendrá
 
 Serán aplicables todas las normas contenidas en los artículos 1º, 3º, 4º, 4º bis, 5º, 5º bis, 6º, 7º, 8º, 9º, 10 bis, 11, 12, 14, 18, 19, 20 y 25 bis, de la ley Nº 17.322 al cobro de las cotizaciones, reajustes e intereses adeudados a una Administradora de Fondos de Pensiones, incluso las sanciones penales establecidas en dicho cuerpo legal para los empleadores que no consignen las cotizaciones que hubieren retenido o debido retener, las que podrán hacerse extensivas, en su caso, a las entidades pagadoras de subsidios.
 
-Los reajustes e intereses serán abonados conjuntamente con el valor de las cotizaciones en la cuenta de capitalización individual del afiliado. Serán de beneficio de la Administradora las costas de cobranza y la parte del recargo de los intereses a que se refieren los incisos décimo primero y décimo segundo, equivalente a un 20% de los intereses que habría correspondido pagar de aplicarse interés simple sobre la deuda reajustada. La diferencia que resulte entre dicho monto y los intereses que efectivamente pague el empleador calculados de acuerdo a lo dispuesto en los incisos décimo primero, décimo segundo y décimo tercero, se abonará a la cuenta de capitalización del afiliado, siendo de su beneficio.
+Los reajustes e intereses, incluidos los recargos a que se refieren los incisos undécimo y duodécimo, serán abonados conjuntamente con el valor de las cotizaciones en la cuenta de capitalización individual del afiliado. Serán de beneficio de la Administradora sólo las costas de cobranza.
 
 La prescripción que extingue las acciones para el cobro de cotizaciones previsionales, multas, reajustes e intereses, será de cinco años y se contará desde el término de los respectivos servicios.
 
@@ -393,8 +393,6 @@ Los empleadores que durante los 24 meses inmediatamente anteriores a la respecti
 > **Nota.** NOTA 5: El Art. 1º Transitorio de la LEY 20023, publicada el 31.05.2005, dispuso que las modificaciones introducidas al presente artículo entrarán en vigencia conjuntamente con el inicio del funcionamiento de los Juzgados de Cobranza Laboral y Previsional, esto es, 9 meses después de la publicación de la LEY 20022, efectuada el 30 de mayo de 2005.
 
 > **Nota.** NOTA 6: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
-
-> **Nota.** NOTA 7 El Número 3 b) del Artículo 86 de la Ley 20255, publicada el 17.03.2008, introduce la misma modificación indicada por el Artículo 91 Número 11 d).
 
 2. De las Cotizaciones Voluntarias, de los Depósitos Convenidos y de los Depósitos de Ahorro Previsional Voluntario
 
@@ -1234,7 +1232,7 @@ f) Bonos de empresas públicas y privadas canjeables por acciones, a que se refi
 
 g) Acciones de sociedades anónimas abiertas;
 
-h) Cuotas de fondos de inversión a que se refiere la ley Nº 18.815 y cuotas de fondos mutuos regidos por el decreto ley Nº 1.328, de 1976;
+h) Cuotas de fondos de inversión y cuotas de fondos mutuos regidos por la ley N° 20.712;
 
 i) Efectos de comercio emitidos por empresas públicas y privadas;
 
@@ -1244,33 +1242,37 @@ k) Otros instrumentos, operaciones y contratos, que autorice la Superintendencia
 
 l) Operaciones con instrumentos derivados que cumplan con las características señaladas en el inciso duodécimo de este artículo y en el Régimen de Inversión;
 
-m) Operaciones o contratos que tengan como objeto el préstamo o mutuo de instrumentos financieros de emisores nacionales, pertenecientes al Fondo de Pensiones, y que cumplan con las características señaladas mediante norma de carácter general, que dictará la Superintendencia.
+m) Operaciones o contratos que tengan como objeto el préstamo o mutuo de instrumentos financieros de emisores nacionales, pertenecientes al Fondo de Pensiones, y que cumplan con las características señaladas mediante norma de carácter general, que dictará la Superintendencia;
+
+n) Instrumentos, operaciones y contratos representativos de activos inmobiliarios, capital privado, deuda privada, infraestructura y otro tipo de activos que pueda determinar el Régimen de Inversión. El mencionado Régimen establecerá los instrumentos, operaciones y contratos que estarán autorizados para la inversión de los recursos de los Fondos de Pensiones y las condiciones que tales inversiones deberán cumplir. Asimismo, al realizar la autorización referida, el Régimen de Inversión deberá señalar si a las inversiones directas e indirectas efectuadas en los activos a los que se refiere esta letra, se les aplicarán o no los límites a que se refiere el número 3) del inciso décimo octavo y el inciso décimo noveno de este artículo, y
+
+ñ) Bonos emitidos por fondos de inversión regulados por la ley N° 20.712. El Régimen de Inversión establecerá las condiciones que tales instrumentos deberán cumplir.
 
 INCISO ELIMINADO
 
 Para efectos de lo dispuesto en este artículo, se entenderá por instrumento garantizado, aquel en que el garante deba responder, al menos en forma subsidiaria, a la respectiva obligación en los mismos términos que el principal obligado.
 
-Los recursos de los Fondos de Pensiones Tipo A, B, C, D y E podrán invertirse en los instrumentos, efectuar las operaciones y celebrar los contratos señalados en las letras a) a la m) del inciso segundo de este artículo.
+Los recursos de los Fondos de Pensiones Tipo A, B, C, D y E podrán invertirse en los instrumentos, efectuar las operaciones y celebrar los contratos señalados en las letras a) a la ñ) del inciso segundo de este artículo.
 
-Los Fondos de Pensiones podrán adquirir títulos de las letras b), c), d), e), f), i), y de la letra
-
-- **j)** cuando se trate de instrumentos de deuda, cuando cuenten con al menos dos clasificaciones de riesgo iguales o superiores a BBB y nivel N-3, a que se refiere el artículo 105, elaboradas por diferentes clasificadoras privadas, y acciones de la letra
+Los Fondos de Pensiones podrán adquirir títulos de las letras b), c), d), e), f), i), j), y de la letra ñ), cuando se trate de instrumentos de deuda, cuando cuenten con al menos dos clasificaciones de riesgo iguales o superiores a BBB y nivel N-3, a que se refiere el artículo 105, elaboradas por diferentes clasificadoras privadas, y acciones de la letra
 
 - **g)** que cumplan con los requisitos a que se refiere el inciso siguiente. Asimismo, podrán adquirir cuotas emitidas por fondos de inversión y cuotas emitidas por fondos mutuos a que se refiere la letra
 
 - **h)** y títulos representativos de capital de la letra
 
-- **j)** que estén aprobados por la Comisión Clasificadora de Riesgo, e instrumentos de la letra k), autorizados por la Superintendencia y en caso que ésta lo requiera por la Comisión Clasificadora de Riesgo.
+- **j)** que estén aprobados por la Comisión Clasificadora de Riesgo, e instrumentos , operaciones y contratos de la letra
+
+- **k)** y aquellos a que se refiere la última oración de la letra j), autorizados por la Superintendencia y en caso que ésta lo requiera por la Comisión Clasificadora de Riesgo.
 
 Las acciones a que se refiere la letra g) podrán ser adquiridas por los Fondos de Pensiones cuando el emisor cumpla con los requisitos mínimos que serán determinados en el Régimen de Inversión. Aquellas acciones que no cumplan con los requisitos anteriores podrán ser adquiridas por los Fondos de Pensiones cuando éstas sean clasificadas en primera clase por al menos dos entidades clasificadoras de riesgo a las que se refiere la ley N° 18.045.
 
 El Régimen de Inversión regulará la especificación conceptual, metodología de cálculo y el valor límite de los requisitos mínimos, a que se refiere el inciso anterior. La Superintendencia de Valores y Seguros y la de Bancos e Instituciones Financieras, según corresponda, efectuarán el cálculo de los valores que se establezcan en el Régimen y confeccionarán una nómina de emisores de acciones de la letra g) de este artículo que cumplan con ellos. Esta nómina también incluirá aquellos emisores que no cumplan los requisitos antes señalados y será remitida a la Superintendencia a más tardar los días diez de los meses de abril, junio, octubre y diciembre de cada año, pudiendo sin embargo ser modificada o complementada en cualquier fecha.
 
-Cuando se trate de instrumentos de deuda de las letras b), c), d), e), f), i) y k), las clasificaciones de riesgo a que refiere el inciso quinto deberán ser elaboradas en conformidad a lo señalado en la ley N° 18.045. A su vez, cuando estos instrumentos se transen en mercados internacionales, las referidas clasificaciones también podrán ser efectuadas por las entidades clasificadoras indicadas en el inciso siguiente.
+Cuando se trate de instrumentos de deuda de las letras b), c), d), e), f), i), k) y ñ), las clasificaciones de riesgo a que refiere el inciso quinto deberán ser elaboradas en conformidad a lo señalado en la ley N° 18.045. A su vez, cuando estos instrumentos se transen en mercados internacionales, las referidas clasificaciones también podrán ser efectuadas por las entidades clasificadoras indicadas en el inciso siguiente.
 
 Las clasificaciones de riesgo de los instrumentos de deuda de la letra j) deberán ser efectuadas por entidades clasificadoras internacionalmente reconocidas, siempre que el Banco Central de Chile las considere para efectos de la inversión de sus propios recursos. En todo caso, cuando los instrumentos de la letra antes señalada se transen en un mercado secundario formal nacional, la referida clasificación también podrá ser efectuada por las entidades clasificadoras a que se refiere la ley N° 18.045.
 
-Para efectos de la inversión de los Fondos de Pensiones en los instrumentos de deuda señalados en las letras b), c), d), e), f), i), j) y k) y las acciones de la letra g), se deberá considerar la categoría o clasificación de mayor riesgo de entre las que les hubieren otorgado los clasificadores privados.
+Para efectos de la inversión de los Fondos de Pensiones en los instrumentos de deuda señalados en las letras b), c), d), e), f), i), j), k) y ñ) y las acciones de la letra g), se deberá considerar la categoría o clasificación de mayor riesgo de entre las que les hubieren otorgado los clasificadores privados.
 
 Las clasificadoras a que se refiere la ley N° 18.045 presentarán a la Superintendencia dentro de los cinco primeros días de cada mes, una lista de clasificación de riesgo de los instrumentos de deuda y de las acciones que les hayan sido encomendadas, con los respectivos informes públicos de acuerdo a lo que determine la Superintendencia de Valores y Seguros. Adicionalmente a la lista de clasificación de riesgo, se acompañarán los informes de actualización periódica que deban presentar a la referida Superintendencia y a la de Bancos e Instituciones Financieras, según corresponda.
 
@@ -1288,11 +1290,11 @@ Los instrumentos de las letras
 
 - **b)** y
 
-- **c)** que sean seriados y los señalados en las letras e), f), g), h), i), j), cuando corresponda y
+- **c)** que sean seriados y los señalados en las letras e), f), g), h), i), j), cuando corresponda,
 
-- **k)** deberán estar inscritos, de acuerdo con la ley N° 18.045, en el Registro que para el efecto lleven la Superintendencia de Valores y seguros o la de Bancos e Instituciones Financieras, según corresponda.
+- **k)** y ñ) deberán estar inscritos, de acuerdo con la ley N° 18.045, en el Registro que para el efecto lleven la Superintendencia de Valores y seguros o la de Bancos e Instituciones Financieras, según corresponda. Tratándose de instrumentos de emisores nacionales transados en un mercado secundario formal externo, el respectivo emisor deberá estar inscrito, de acuerdo con la ley N° 18.045, en el registro que para tal efecto lleve la Superintendencia de Valores y Seguros o la de Bancos e Instituciones Financieras, según corresponda.
 
-Los Fondos de Pensiones podrán adquirir los títulos de las letras b), c), d), e), f), g), h), i), j) que cumplan con lo establecido en el Régimen de Inversión, aunque no cumplan con los requisitos establecidos en los incisos quinto y sexto, siempre que la inversión se ajuste a los límites especiales que fije el citado Régimen para estos efectos.
+Los Fondos de Pensiones podrán adquirir los títulos de las letras b), c), d), e), f), g), h), i), j) y ñ) que cumplan con lo establecido en el Régimen de Inversión, aunque no cumplan con los requisitos establecidos en los incisos quinto y sexto, siempre que la inversión se ajuste a los límites especiales que fije el citado Régimen para estos efectos.
 
 En caso que un afiliado se pensione anticipadamente optando por la modalidad de pensión de retiro programado o renta temporal con renta vitalicia diferida, la Administradora no podrá adquirir con los recursos de los Fondos de Pensiones que administra el Bono de Reconocimiento que pertenezca a ese afiliado. Tampoco podrá en tales casos, adquirir Bonos de Reconocimiento que pertenezcan a afiliados a una Administradora que sea persona relacionada a la Administradora adquirente.
 
@@ -1300,7 +1302,7 @@ Si el afiliado opta por la modalidad de pensión de renta vitalicia o renta temp
 
 Las restricciones antes mencionadas se aplicarán para la primera transacción del Bono de Reconocimiento y la calidad de afiliado se medirá al momento de efectuarse la adquisición en el mercado secundario formal.
 
-Las inversiones con recursos de los Fondos de Pensiones en los instrumentos que se indican en los números 1 al 3siguientes, deberán ceñirse a los límites máximos de inversión que establezca el Banco Central de Chile dentro de los rangos que se señalan para cada uno de ellos:
+Las inversiones con recursos de los Fondos de Pensiones en los instrumentos que se indican en los números 1 al 4 siguientes, deberán ceñirse a los límites máximos de inversión que establezca el Banco Central de Chile dentro de los rangos que se señalan para cada uno de ellos:
 
 1) El límite máximo para la suma de las inversiones en los instrumentos mencionados en la letra a) del inciso segundo no podrá ser inferior ni superior a: 30% y 40% del Fondo, respectivamente, para los Fondos Tipos A y B; 35% y 50% del Fondo, respectivamente, para el Fondo Tipo C; 40% y 70% del Fondo, respectivamente, para el Fondo Tipo D, y 50% y 80% del Fondo, respectivamente, para el Fondo Tipo E.
 
@@ -1308,13 +1310,27 @@ Las inversiones con recursos de los Fondos de Pensiones en los instrumentos que 
 
 El Banco Central de Chile fijará el límite máximo para la suma de las inversiones de los Fondos Tipos A, B, C, D y E de una misma Administradora en el extranjero dentro de un rango que va desde un 30% a un 80% del valor de estos Fondos. Asimismo, fijará los límites máximos para la inversión en el extranjero para cada Tipo de Fondo dentro de un rango que va desde 45% a 100% del Fondo para el Fondo Tipo A; desde 40% a 90% del Fondo para el Fondo Tipo B; desde 30% a 75% del Fondo para el Fondo Tipo C; desde 20% a 45% del Fondo para el Fondo Tipo D, y desde 15% a 35% del Fondo para el Fondo Tipo E.
 
-Por inversión en el extranjero se entenderá la inversión que se efectúe en títulos extranjeros, a que se refiere la letra j) del inciso segundo, más el monto de la inversión de los Fondos de Pensiones en los instrumentos de los números 17) al 28) del artículo 5° de la ley Nº 18.815, que se efectúe a través de los fondos de inversión, más el monto de la inversión de los Fondos de Pensiones en los instrumentos 9. y 11. del artículo 13 del decreto ley Nº 1.328, de 1976, que se efectúe a través de los fondos mutuos. El Régimen de Inversión establecerá en qué casos se entenderá que la inversión que se efectúe a través de los fondos a que se refiere la letra h) del inciso segundo, se considerará en los límites señalados.
+Por inversión en el extranjero se entenderá la inversión que se efectúe en títulos extranjeros, a que se refieren las letras
+
+- **j)** y
+
+- **n)** del inciso segundo, cuando corresponda, más el monto de la inversión de los Fondos de Pensiones en instrumentos extranjeros que se efectúe a través de fondos mutuos y de inversión regulados por la ley N° 20.712. El Régimen de Inversión establecerá los casos en que se entenderá que la inversión que se efectúe a través de los fondos a que se refiere la letra
+
+- **h)** y en los instrumentos, operaciones y contratos de la letra n), todas del inciso segundo, se considerará en los límites señalados.
 
 3) El límite máximo para la suma de las inversiones en los instrumentos que se señalan en los números 1, 2, 3, 4, 6 y 7 del inciso vigésimo primero, no podrá ser inferior al diez por ciento ni superior al veinte por ciento del valor del Fondo, para cada Tipo de Fondo A, B, C y D. La Superintendencia de Pensiones podrá excluir de la determinación de porcentajes máximos de inversión contemplada en este número a los instrumentos, operaciones y contratos de cada tipo señalados en la letra k) podrá incluir otros instrumentos, operaciones y contratos de carácter financiero que aquella autorice, aludidos en la letra j) del inciso segundo de este artículo.
 
+4) El límite máximo para la suma de las inversiones contempladas en la letra
+
+- **n)** del inciso segundo, más las inversiones en cuotas de fondos de inversión de la letra
+
+- **h)** cuando sus carteras se encuentren constituidas preferentemente por las inversiones citadas en la letra n), no podrá ser inferior al 5% ni superior al 15% del valor del Fondo, para cada Tipo de Fondo A, B, C, D y E. El Régimen de Inversión establecerá los casos en que se entenderá que la cartera de los fondos de inversión de la letra
+
+- **h)** se considerará constituida preferentemente por las inversiones citadas en la letra n).
+
 El límite máximo para la suma de las inversiones en los instrumentos señalados en las letras
 
-- **g)** y h), más el monto de los aportes comprometidos mediante los contratos a que se refiere el inciso sexto del artículo 48, como también para los de las letras
+- **g)** y h), como también para los de las letras
 
 - **j)** y k), cuando se trate de instrumentos representativos de capital, será de un 80%, 60%, 40%, 20% y 5% del valor de los Fondos de Pensiones Tipos A, B, C, D y E, respectivamente. Para efectos de este límite, no se considerarán los títulos representativos de índices autorizados en virtud de la letra
 
@@ -1324,15 +1340,15 @@ El límite máximo para la suma de las inversiones en los instrumentos señalado
 
 El Régimen de Inversión podrá establecer otros límites máximos en función del valor del o los Fondos de Pensiones, según corresponda, para los instrumentos, operaciones y contratos del inciso segundo. Asimismo, deberá establecer límites máximos para la inversión en moneda extranjera sin cobertura cambiaria que podrán mantener las Administradoras respecto de cada Tipo de Fondo, así como la definición de cobertura cambiaria, debiendo contar con informe previo favorable del Banco Central de Chile. Adicionalmente, el citado Régimen podrá fijar límites mínimos sólo para la inversión de los Fondos en instrumentos representativos de capital.
 
-En todo caso, el Régimen de Inversión deberá establecer límites respecto de los instrumentos u operaciones que se señalan en los números 1 al 9 siguientes:
+En todo caso, el Régimen de Inversión deberá establecer límites respecto de los instrumentos u operaciones que se señalan en los números 1 al 10 siguientes:
 
-1) Instrumentos a que se refieren las letras b), c), d), e), f), i), j) y k), estas dos últimas cuando se trate de instrumentos de deuda, clasificados en categoría BB, B y nivel N-4 de riesgo, según corresponda, a que se refiere el artículo 105, que cuenten con sólo una clasificación de riesgo efectuada por una clasificadora privada, la cual en todo caso deberá ser igual o superior a las categorías antes señaladas, o que cuyas clasificaciones hayan sido rechazadas por la Comisión Clasificadora de Riesgo;
+1) Instrumentos a que se refieren las letras b), c), d), e), f), i), j) y k), estas dos últimas cuando se trate de instrumentos de deuda, y ñ), clasificados en categoría BB, B y nivel N-4 de riesgo, según corresponda, a que se refiere el artículo 105, que cuenten con sólo una clasificación de riesgo efectuada por una clasificadora privada, la cual en todo caso deberá ser igual o superior a las categorías antes señaladas, o que cuyas clasificaciones hayan sido rechazadas por la Comisión Clasificadora de Riesgo;
 
-2) Instrumentos a que se refieren las letras b), c), d), e), f), i), j) y k), estas dos últimas cuando se trate de instrumentos de deuda, que tengan clasificación inferiores a B y nivel N-4, según corresponda y aquellos que no cuenten con clasificación de riesgo;
+2) Instrumentos a que se refieren las letras b), c), d), e), f), i), j) y k), estas dos últimas cuando se trate de instrumentos de deuda, y ñ), que tengan clasificación inferiores a B y nivel N-4, según corresponda y aquellos que no cuenten con clasificación de riesgo;
 
 3) Acciones a que se refiere la letra g), que no cumplan con los requisitos establecidos en el inciso sexto de este artículo y cuotas de fondos de inversión y cuotas de fondos mutuos a que se refiere la letra h), no aprobadas por la Comisión Clasificadora de Riesgo;
 
-4) Acciones a que se refiere la letra g) que sean de baja liquidez; más cuotas de fondos de inversión a que se refiere la letra h) más el monto de los aportes comprometidos mediante los contratos a que se refiere el inciso sexto del artículo 48, cuando estos instrumentos sean de baja liquidez;
+4) Acciones a que se refiere la letra g) que sean de baja liquidez; más cuotas de fondos de inversión a que se refiere la letra h), cuando estos instrumentos sean de baja liquidez;
 
 5) Aportes comprometidos mediante los contratos de promesa y suscripción de pago de cuotas de fondos de inversión;
 
@@ -1344,6 +1360,8 @@ En todo caso, el Régimen de Inversión deberá establecer límites respecto de 
 
 9) Operaciones o contratos que tengan como objeto el préstamo o mutuo de instrumentos financieros, pertenecientes al Fondo de Pensiones, a que se refieren las letras j) y m).
 
+10) Bonos sin plazo fijo de vencimiento emitidos por empresas bancarias conforme al artículo 55 bis del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican. El Banco Central de Chile determinará el límite que se establezca en el Régimen de Inversión, el cual no podrá superar el 5% del valor del Fondo de Pensiones, para cada Tipo de Fondo A, B, C, D y E.
+
 A su vez, el Régimen de Inversión regulará la inversión indirecta que los Fondos de Pensiones podrán efectuar a través de los instrumentos señalados en este artículo.
 
 El Régimen de Inversión establecerá también los criterios que definirán en qué casos los instrumentos de la letra g) y las cuotas de fondos de inversión a que se refiere la letra h) se considerarán de baja liquidez. La liquidez de estos instrumentos será calculada trimestralmente por la Superintendencia de Valores y Seguros.
@@ -1352,7 +1370,7 @@ Mediante Resolución dictada por la Superintendencia de Pensiones se establecer�
 
 INCISO SUPRIMIDO.
 
-La suma de las inversiones en instrumentos específicos de cada tipo de aquellos señalados en la letra k), podrán incorporarse a los límites globales por instrumento establecidos por la ley o el Régimen de Inversión. Esta incorporación será determinada por la Superintendencia.
+La suma de las inversiones en instrumentos, operaciones y contratos específicos de cada tipo de aquellos señalados en la letra k) y en la última oración de la letra j), podrán incorporarse a los límites globales por instrumento establecidos por la ley o el Régimen de Inversión. Esta incorporación será determinada por la Superintendencia.
 
 INCISO ELIMINADO.
 
@@ -1444,11 +1462,11 @@ La suma de las inversiones de los Fondos de Pensiones de una misma Administrador
 
 INCISOS DEROGADOS
 
-La suma de las inversiones de los Fondos de Pensiones de una misma Administradora en cuotas de un fondo de inversión de aquellos a que se refiere la letra h) del inciso segundo del artículo 45, más el monto de los aportes comprometidos mediante los contratos a que se refiere el inciso sexto del artículo 48 en los casos que corresponda, no podrá exceder el treinta y cinco por ciento de la suma de las cuotas suscritas y las cuotas que se han prometido suscribir y pagar del respectivo fondo de inversión. Cuando se suscriban cuotas de una nueva emisión, el monto máximo a suscribir no podrá exceder del treinta y cinco por ciento de la emisión. Con todo, la suma de las inversiones de los Fondos de Pensiones de una misma Administradora en cuotas de un fondo mutuo referidos en la letra h) del inciso segundo del artículo 45, no podrá ser superior al treinta y cinco por ciento de las cuotas en circulación del respectivo fondo mutuo.
+La suma de las inversiones de los Fondos de Pensiones de una misma Administradora en cuotas de un fondo de inversión de aquellos a que se refiere la letra h) del inciso segundo del artículo 45, más el monto de los aportes comprometidos mediante los contratos a que se refiere el inciso sexto del artículo 48 en los casos que corresponda, no podrá exceder el cuarenta y nueve por ciento de la suma de las cuotas suscritas y las cuotas que se han prometido suscribir y pagar del respectivo fondo de inversión. Cuando se suscriban cuotas de una nueva emisión, el monto máximo a suscribir no podrá exceder del cuarenta y nueve por ciento de la emisión. Con todo, la suma de las inversiones de los Fondos de Pensiones de una misma Administradora en cuotas de un fondo mutuo referidos en la letra h) del inciso segundo del artículo 45, no podrá ser superior al treinta y cinco por ciento de las cuotas en circulación del respectivo fondo mutuo.
 
 INCISOS DEROGADOS
 
-La suma de las inversiones de los Fondos de Pensiones de una misma Administradora en acciones de la letra j) del inciso segundo del artículo 45 de un mismo emisor, que no requieran de la aprobación de la Comisión Clasificadora de Riesgo y se transen en un mercado secundario formal nacional, no podrá exceder el siete por ciento de las acciones suscritas de dicho emisor. La suma de las inversiones de los Fondos de Pensiones de una misma Administradora, en cuotas de participación emitidas por fondos mutuos y fondos de inversión de la letra j) del inciso segundo del artículo 45 de un mismo emisor, que no requieran de la aprobación de la Comisión Clasificadora de Riesgo y se transen en un mercado secundario formal nacional, no podrá exceder el treinta y cinco por ciento de las cuotas en circulación o suscritas del respectivo fondo mutuo o de inversión.
+La suma de las inversiones de los Fondos de Pensiones de una misma Administradora en acciones de la letra j) del inciso segundo del artículo 45 de un mismo emisor, que no requieran de la aprobación de la Comisión Clasificadora de Riesgo y se transen en un mercado secundario formal nacional, no podrá exceder el siete por ciento de las acciones suscritas de dicho emisor. La suma de las inversiones de los Fondos de Pensiones de una misma Administradora, en cuotas de participación emitidas por fondos mutuos y fondos de inversión de la letra j) del inciso segundo del artículo 45 de un mismo emisor, que no requieran de la aprobación de la Comisión Clasificadora de Riesgo y se transen en un mercado secundario formal nacional, no podrá exceder el treinta y cinco por ciento de las cuotas en circulación del respectivo fondo mutuo y el cuarenta y nueve por ciento de las cuotas suscritas del respectivo fondo.
 
 La suma de las inversiones con recursos de los Fondos de Pensiones de una misma Administradora, en bonos y efectos de comercio, emitidos o garantizados por una misma sociedad, no podrá exceder el doce por ciento del valor del activo de la sociedad emisora.
 
@@ -1462,7 +1480,7 @@ INCISOS DEROGADOS
 
 Para cada Fondo de Pensiones la inversión en acciones, bonos y efectos de comercio emitidos o garantizados por empresas que pertenezcan a un mismo grupo empresarial, de aquellos definidos en la letra h) del artículo 98, no podrá exceder del quince por ciento del valor del Fondo respectivo.
 
-Sin perjuicio de lo dispuesto en los incisos anteriores, el Régimen de Inversión podrá establecer límites máximos de inversión por emisor en función del valor de un Tipo de Fondo de Pensiones o de la suma de los Fondos de una misma Administradora.
+Sin perjuicio de lo dispuesto en los incisos anteriores, el Régimen de Inversión podrá establecer límites máximos de inversión por emisor en función del valor de un Tipo de Fondo de Pensiones o de la suma de los Fondos de una misma Administradora, así como también límites por emisor que eviten concentración en la propiedad y participación en el control por parte de los Fondos de Pensiones, en el caso de las inversiones a que se refieren las letras n) y ñ) del inciso segundo del artículo 45.
 
 Los límites máximos a que se refiere el inciso anterior, podrán estar diferenciados, de acuerdo a parámetros tales como la clasificación de riesgo del instrumento, la concentración de la propiedad accionaria, la liquidez bursátil, la diversificación de la cartera de inversión del título, los años de operación del emisor, los montos del instrumento objeto de cobertura y el cumplimiento o incumplimiento de los requisitos a que se refieren los incisos quinto y sexto del artículo 45, según corresponda al tipo de instrumento que se trate.
 
@@ -1472,7 +1490,7 @@ El Régimen de Inversión no podrá establecer límites mínimos para la inversi
 
 INCISO SUPRIMIDO.
 
-Los límites de inversión por emisor para los instrumentos de la letra k) del artículo 45, corresponderán a los límites que resulten de asimilar el respectivo instrumento a uno de aquellos cuyo límite ya se encuentre definido en la ley o en el Régimen de Inversión. La respectiva asimilación y el límite a aplicar serán determinados por la Superintendencia de Pensiones para cada tipo de Fondo. Asimismo, si no existiera un instrumento de las mismas características para los efectos de establecer los límites por emisor, el límite respectivo será determinado por la Superintendencia de Pensiones para cada tipo de Fondo.
+Los límites de inversión por emisor para los instrumentos , operaciones y contratos de la letra k) y de la última oración de la letra j) del artículo 45, corresponderán a los límites que resulten de asimilar el respectivo instrumento a uno de aquellos cuyo límite ya se encuentre definido en la ley o en el Régimen de Inversión. La respectiva asimilación y el límite a aplicar serán determinados por la Superintendencia de Pensiones para cada tipo de Fondo. Asimismo, si no existiera un instrumento de las mismas características para los efectos de establecer los límites por emisor, el límite respectivo será determinado por la Superintendencia de Pensiones para cada tipo de Fondo.
 
 INCISO DEROGADO
 
@@ -1526,11 +1544,11 @@ La Superintendencia de Valores y Seguros hará llegar a la Superintendencia copi
 
 Asimismo, los Fondos de Pensiones podrán participar en el rescate voluntario de bonos a que se refiere el artículo 130 de la ley N° 18.045, de acuerdo a lo que establezca la Superintendencia mediante norma de carácter general. De igual manera, los Fondos de Pensiones podrán participar en procesos de estructuración financiera de emisores a través del canje de títulos del emisor, correspondiendo a la Superintendencia determinar, mediante una norma de carácter general, los requisitos para que los Fondos participen en este tipo de operaciones.
 
-Las Administradoras podrán celebrar directamente con los emisores, a nombre propio y para los Fondos de Pensiones que corresponda, contratos de promesas de suscripción y pago de cuotas de fondos de inversión a los que se refiere la ley N° 18.815, comprometiendo el aporte de recursos correspondientes a los Fondos de Pensiones que administren. Los aportes que se realicen en virtud de estos contratos deberán efectuarse contra la entrega de las cuotas respectivas.
+Las Administradoras podrán celebrar directamente con los emisores, a nombre propio y para los Fondos de Pensiones que corresponda, contratos de promesas de suscripción y pago de cuotas de fondos de inversión a los que se refiere la ley N° 20.712, comprometiendo el aporte de recursos correspondientes a los Fondos de Pensiones que administren. Los aportes que se realicen en virtud de estos contratos deberán efectuarse contra la entrega de las cuotas respectivas.
 
 Para los efectos señalados en el inciso anterior, y sin perjuicio del cumplimiento por parte de los fondos de Inversión respecto de sus aportantes, de las normas de ejercicio de opción preferente para la suscripción de cuotas, las Administradoras podrán celebrar dichos contratos siempre que el respectivo Fondo de Inversión haya informado a todas las Administradoras la emisión de cuotas que puedan ser adquiridas con los recursos de los Fondos de Pensiones que administran. Una norma de carácter general que dictará la Superintendencia, establecerá las normas que permitan que las Administradoras gocen de igualdad de oportunidades para efectuar ofertas destinadas a celebrar los contratos de promesa de suscripción y pago de cuotas de tales Fondos de inversión.
 
-Los contratos antes referidos tendrán una duración que no podrá exceder de tres años, contados desde la inscripción de la emisión respectiva en la Superintendencia de Valores y Seguros.
+La Superintendencia de Pensiones podrá establecer, mediante norma de carácter general, la duración máxima de los contratos antes referidos.
 
 INCISO DEROGADO
 
@@ -1546,9 +1564,9 @@ instrumentos únicos emitidos por instituciones financieras nacionales que no se
 
 - **j)** del inciso segundo del artículo 45, éstas podrán ser compradas y vendidas, directamente a la entidad emisora. A su vez, las operaciones o contratos que tengan como objeto el préstamo o mutuo de instrumentos financieros de emisores nacionales o extranjeros, así como las operaciones señaladas en la letra
 
-- **l)** del inciso segundo del artículo 45 realizadas con contrapartes que cumplan con los requisitos establecidos por la Comisión Clasificadora de Riesgo y los instrumentos, operaciones y contratos de la letra
+- **l)** del inciso segundo del artículo 45 realizadas con contrapartes que cumplan con los requisitos establecidos por la Comisión Clasificadora de Riesgo y los instrumentos, operaciones y contratos de las letras k),
 
-- **k)** que la Superintendencia de Pensiones determine, se exceptuarán de la disposición establecida en el inciso primero de este artículo.
+- **n)** y de la última oración de la letra j), que la Superintendencia de Pensiones determine, se exceptuarán de la disposición establecida en el inciso primero de este artículo.
 
 Los Fondos de Pensiones podrán efectuar operaciones de compra o venta de instrumentos de la letra h) del inciso segundo del artículo 45, con cargo a la venta o compra, respectivamente, de títulos representativos de los activos subyacentes de dichos instrumentos, de acuerdo a la norma de carácter general que al efecto establezca la Superintendencia de Pensiones.
 
@@ -2670,6 +2688,8 @@ La Administradora afectada podrá reclamar contra la designación del inspector 
 
 19. Supervisar administrativamente a las Comisiones Ergonómica y de Apelaciones de la ley N° 19.404 e impartir las normas operativas que se requieran para calificar labores como trabajos pesados. Asimismo, controlar que dichas Comisiones den debido cumplimiento a las funciones que les correspondan.
 
+20. Efectuar análisis de riesgos, supervisar la apropiada gestión de los mismos respecto de las Administradoras de Fondos de Pensiones y de la Sociedad Administradora de Fondos de Cesantía e impartir las instrucciones tendientes a que éstos corrijan las deficiencias que ella observare. Para efectos de lo anterior, la Superintendencia podrá requerir todos los datos y antecedentes que le permitan tomar debido conocimiento de la gestión de riesgos de las entidades antes señaladas.
+
 > **Nota.** El Art. 2º de la LEY 18398, publicada el 24.01.1985, establece que las modificaciones introducidas por la misma, entrarán a regir 120 días después de su publicación.
 
 > **Nota.** NOTA 1: El Art. 2º de la LEY 19641, publicada el 28.10.1999, establece normas sobre vigencia de la misma.
@@ -2681,6 +2701,12 @@ La Administradora afectada podrá reclamar contra la designación del inspector 
 > **Nota.** NOTA 4: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
 
 > **Nota.** NOTA 5 El artículo vigésimo segundo transitorio de la LEY 20255, publicada el 30.01.2009, dispone que el Nº 19 de la presente norma rige a contar del día primero del duodécimo mes posterior a la publicación de la presente ley.
+
+#### Artículo 94 bis
+
+La Superintendencia de Pensiones efectuará un análisis de riesgos y evaluará la gestión de los mismos, respecto de las entidades señaladas en el número 20 del artículo 94. La calidad de la gestión de riesgos se evaluará considerando aspectos tales como la fortaleza de sus sistemas de control de riesgos y su gobierno corporativo, el conocimiento y experiencia de su administración y la eficacia de las funciones de control interno y cumplimiento. El resultado de la evaluación se notificará a la respectiva entidad, será fundado y tendrá el carácter de reservado, de manera tal que ni la Superintendencia ni las entidades fiscalizadas podrán difundirlo públicamente. También serán reservados aquellos antecedentes en los que se base la evaluación y que no sean públicos.
+
+La Superintendencia, mediante norma de carácter general, establecerá la metodología y los procedimientos específicos para la evaluación de los riesgos de las entidades fiscalizadas.
 
 #### Artículo 95
 
@@ -2754,9 +2780,15 @@ De la Comisión Clasificadora de Riesgo
 
 Créase una Comisión Clasificadora de Riesgo, en adelante Comisión Clasificadora, con personalidad jurídica y patrimonio propio, formado mediante los aportes a que se refiere el inciso final del artículo 102, la que tendrá las siguientes funciones y atribuciones:
 
-a) Aprobar o rechazar cuotas emitidas por fondos de inversión y cuotas emitidas por fondos mutuos a que se refiere la letra h); instrumentos representativos de capital de la letra j) y, a solicitud de la Superintendencia, los títulos de la letra k), todas del inciso segundo del artículo 45. Asimismo, aprobar o rechazar las contrapartes para efectos de las operaciones con instrumentos derivados de la letra l) del citado artículo;
+a) Aprobar o rechazar cuotas emitidas por fondos de inversión y cuotas emitidas por fondos mutuos a que se refiere la letra h); instrumentos representativos de capital de la letra
 
-b) Rechazar, de acuerdo a lo establecido en el artículo 105, las clasificaciones practicadas por clasificadoras de riesgo en conformidad a lo dispuesto en la ley N° 18.045, a los instrumentos de deuda señalados en las letras b), c), d), e), f), i) y k), todas del inciso segundo del artículo 45, respecto de los instrumentos cuyas dos clasificaciones de mayor riesgo sean iguales o superiores a BBB o N-3;
+- **j)** y, a solicitud de la Superintendencia, los instrumentos, operaciones y contratos de las letras k),
+
+- **n)** y aquellos señalados en la última oración de la letra j), todas del inciso segundo del artículo 45. Asimismo, aprobar o rechazar las contrapartes para efectos de las operaciones con instrumentos derivados de la letra
+
+- **l)** del citado artículo;
+
+b) Rechazar, de acuerdo a lo establecido en el artículo 105, las clasificaciones practicadas por clasificadoras de riesgo en conformidad a lo dispuesto en la ley N° 18.045, a los instrumentos de deuda señalados en las letras b), c), d), e), f), i), k) y ñ), todas del inciso segundo del artículo 45, respecto de los instrumentos cuyas dos clasificaciones de mayor riesgo sean iguales o superiores a BBB o N-3;
 
 c) Establecer los procedimientos específicos de aprobación de cuotas de fondos de inversión y de cuotas de fondos mutuos de la letra h), de instrumentos representativos de capital de la letra j), de instrumentos contemplados en la letra k) y de las entidades contrapartes de operaciones con instrumentos derivados a que se refiere la letra l), todas del inciso segundo del artículo 45;
 
@@ -2838,7 +2870,7 @@ Las cuotas de fondos de inversión y de fondos mutuos, a que se refiere la letra
 
 #### Artículo 105
 
-Establécense las siguientes categorías de riesgo para los instrumentos financieros a que se refieren las letras b), c), d), e), f), i), j) y k) del inciso segundo del artículo 45, si se tratare de instrumentos de deuda de largo plazo:
+Establécense las siguientes categorías de riesgo para los instrumentos financieros a que se refieren las letras b), c), d), e), f), i), j), k) y ñ) del inciso segundo del artículo 45, si se tratare de instrumentos de deuda de largo plazo:
 
 1. Categoría AAA;
 
@@ -2918,9 +2950,9 @@ Los miembros de la Comisión Clasificadora podrán presentar proposiciones de mo
 
 #### Artículo 109
 
-Las deliberaciones de la Comisión Clasificadora serán secretas hasta la publicación del acuerdo final, que deberá hacerse en el Diario Oficial a más tardar el primer día hábil del mes siguiente al de la adopción del acuerdo. La publicación deberá contener el rechazo de las categorías de clasificación de riesgo a que se refiere el artículo 105 respecto de los instrumentos de deuda de las letras b), c), d), e), f),
+Las deliberaciones de la Comisión Clasificadora serán secretas hasta la publicación del acuerdo final, que deberá hacerse en el Diario Oficial a más tardar el primer día hábil del mes siguiente al de la adopción del acuerdo. La publicación deberá contener el rechazo de las categorías de clasificación de riesgo a que se refiere el artículo 105 respecto de los instrumentos de deuda de las letras b), c), d), e), f), i),
 
-- **i)** y k), todas del inciso segundo del artículo 45, como también la aprobación de los instrumentos representativos de capital de las letras h),
+- **k)** y ñ), todas del inciso segundo del artículo 45, como también la aprobación de los instrumentos representativos de capital de las letras h),
 
 - **j)** y
 
@@ -3160,7 +3192,7 @@ Lo anterior es sin perjuicio de la entrega de estos valores en garantía para la
 
 #### Artículo 139
 
-Las Administradoras no podrán adquirir con recursos del Fondo de Pensiones valores afectos a gravámenes, prohibiciones o embargos.
+Las Administradoras no podrán adquirir con recursos del Fondo de Pensiones valores afectos a gravámenes, prohibiciones o embargos. No obstante lo anterior, la Superintendencia, mediante norma de carácter general, podrá exceptuar de esta prohibición a aquellas acciones de una sociedad nacional concesionaria de obras de infraestructura que se encuentren prendadas en favor de tenedores de bonos u otros acreedores de la misma sociedad.
 
 #### Artículo 140
 

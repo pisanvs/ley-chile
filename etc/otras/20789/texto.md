@@ -14,7 +14,7 @@ DEL CONSEJO DE ESTABILIDAD FINANCIERA
 
 Créase el Consejo de Estabilidad Financiera, organismo consultivo dependiente del Ministerio de Hacienda, en adelante indistintamente "Consejo" o "CEF", cuya función consistirá en facilitar la coordinación técnica y el intercambio de información entre sus participantes, en materias relativas a la prevención y al manejo de situaciones que puedan importar riesgo para el sistema financiero, con el objeto de contribuir de ese modo a cautelar la estabilidad financiera de la economía chilena.
 
-El Consejo estará integrado por el Ministro de Hacienda, quien lo presidirá, el Superintendente de Valores y Seguros, el Superintendente de Bancos e Instituciones Financieras y el Superintendente de Pensiones.
+El Consejo estará integrado por el Ministro de Hacienda, quien lo presidirá, el Presidente de la Comisión para el Mercado Financiero y el Superintendente de Pensiones.
 
 El Consejo contará con la asesoría permanente del Banco Central en todas las materias que digan relación con sus funciones. Con tal objeto, su Presidente podrá participar en todas las sesiones del CEF con derecho a voz e imponerse de toda la información y materias que se analicen en el Consejo, en conformidad a lo previsto en el artículo 4º de la ley orgánica constitucional del Banco Central de Chile, contenida en el ARTÍCULO PRIMERO de la ley Nº 18.840.
 
@@ -24,13 +24,13 @@ El Consejo funcionará en la Secretaría y Administración General del Ministeri
 
 El Consejo de Estabilidad Financiera contará con las siguientes atribuciones:
 
-1. Solicitar a la Secretaría Técnica, a las Superintendencias de Valores y Seguros, de Pensiones y de Bancos e Instituciones Financieras, en adelante conjuntamente las "Superintendencias financieras", la realización de estudios que permitan monitorear la estabilidad del sistema financiero, así como contratar dichos estudios con terceros a través de la Secretaría Técnica.
+1. Solicitar a la Secretaría Técnica, a la Comisión para el Mercado Financiero y a la Superintendencia de Pensiones, en adelante conjuntamente las "Superintendencias financieras", la realización de estudios que permitan monitorear la estabilidad del sistema financiero, así como contratar dichos estudios con terceros a través de la Secretaría Técnica.
 
 Asimismo, el Banco Central de Chile, en cumplimiento de su rol asesor, podrá efectuar análisis o estudios con dicha finalidad según lo establezca el Consejo del Banco.
 
-2. Solicitar a las Superintendencias financieras cualquier información, incluso sujeta a reserva, que pueda ser necesaria para identificar o evaluar posibles riesgos para la estabilidad financiera y que esté disponible en dichos servicios o que éstos puedan solicitar de conformidad con las leyes aplicables.
+2. Solicitar a la Comisión para el Mercado Financiero y a la Superintendencia de Pensiones cualquier información, incluso sujeta a reserva, que pueda ser necesaria para identificar o evaluar posibles riesgos para la estabilidad financiera y que esté disponible en dichos servicios o que éstos puedan solicitar de conformidad con las leyes aplicables.
 
-Las disposiciones legales, reglamentarias, contractuales o de cualquier otra índole sobre reserva no impedirán dar cumplimiento a las solicitudes del presente número. En consecuencia, la información proporcionada en conformidad con esta ley eximirá de toda responsabilidad legal a quienes la entreguen. La Superintendencia de Bancos e Instituciones Financieras dará cumplimiento a las solicitudes de entrega de información a que se refiere este numeral de conformidad a lo establecido en el artículo 14 de la ley General de Bancos, cuyo texto refundido, sistematizado y concordado fue fijado en el decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda.
+Las disposiciones legales, reglamentarias, contractuales o de cualquier otra índole sobre reserva no impedirán dar cumplimiento a las solicitudes del presente número. En consecuencia, la información proporcionada en conformidad con esta ley eximirá de toda responsabilidad legal a quienes la entreguen. La Comisión para el Mercado Financiero dará cumplimiento a las solicitudes de entrega de información a que se refiere este numeral de conformidad a lo establecido en el artículo 14 de la ley General de Bancos, cuyo texto refundido, sistematizado y concordado fue fijado en el decreto con fuerza de ley Nº 3, de 1997, del Ministerio de Hacienda.
 
 Asimismo, el CEF podrá solicitar al Banco Central de Chile información necesaria para identificar o evaluar posibles riesgos para la estabilidad financiera, el que podrá proporcionarla en los términos previstos en su legislación institucional.
 
@@ -52,11 +52,11 @@ Asimismo, con este propósito, las respectivas Superintendencias deberán inform
 
 #### Artículo 4º
 
-El Consejo sesionará con la asistencia de al menos tres de sus miembros, entre los que se deberá contar el Ministro de Hacienda o su representante, de conformidad con lo establecido en el inciso siguiente.
+El Consejo sesionará con la asistencia de al menos dos de sus miembros, entre los que se deberá contar el Ministro de Hacienda o su representante, de conformidad con lo establecido en el inciso siguiente.
 
 En caso de ausencia o impedimento de alguno de los integrantes del CEF, o del Presidente del Banco Central, en la condición prevista en el inciso tercero del artículo 1º, asistirá a la sesión el subrogante legal o la persona que ellos indiquen especialmente al Consejo o a la Secretaría Técnica. Asimismo, los participantes del CEF podrán asistir acompañados por las personas y de la forma que indique su reglamento interno.
 
-El Consejo deberá sesionar, al menos, mensualmente. Con todo, deberá hacerlo siempre que así lo soliciten el Ministro de Hacienda o tres de sus cuatro miembros.
+El Consejo deberá sesionar, al menos, mensualmente. Con todo, deberá hacerlo siempre que así lo soliciten el Ministro de Hacienda o la Comisión para el Mercado Financiero y la Superintendencia de Pensiones.
 
 #### Artículo 5º
 

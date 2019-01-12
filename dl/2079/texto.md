@@ -388,11 +388,9 @@ Podrá por sí abrir cuenta, depositar y retirar sus depósitos de ahorro en el 
 
 Los representantes legales no podrán retirar los depósitos de sus representados relativamente incapaces, sin el consentimiento de éstos.
 
-La cuenta abierta a nombre del impúber que tenga la calidad de hijo natural o simplemente ilegítimo, será administrada a título de tutor legal por la persona que abrió la cuenta a nombre del incapaz, mientras subsista su incapacidad.
+Las cuentas de ahorros para niños y niñas, regidas por esta ley, podrán ser abiertas por los ascendientes en línea recta hasta en el segundo grado de consanguinidad o por quien tuviere el cuidado personal del niño o niña por resolución judicial, con independencia de quien tenga la patria potestad.
 
-También podrá abrir y administrar cuenta de ahorro a nombre del impúber, la persona a quien se haya otorgado la tuición del menor por sentencia judicial y la madre que, por encontrarse separada de hecho del padre del menor o por simple ausencia de éste, tuviere el cuidado del hijo y lo alimentare, circunstancias que deberán acreditarse a satisfacción del Banco.
-
-Con independencia de quien tenga la patria potestad, la madre también podrá abrir cuentas de ahorro a favor de su hijo menor de edad.
+Asimismo, la administración de dichas cuentas recaerá en aquel de los mencionados en el inciso anterior que haya firmado el contrato de apertura respectivo y su titular, cuando se tratare de un menor adulto, pudiendo el contratante limitar la administración de la cuenta a su titular hasta la fecha en que éste alcance la mayoría de edad.
 
 #### Artículo 36°
 

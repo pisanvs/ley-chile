@@ -286,6 +286,8 @@ Las sociedades anónimas sólo podrán adquirir y poseer acciones de su propia e
 
 4) Permita cumplir un acuerdo de la junta extraordinaria de accionistas para la adquisición de acciones de su propia emisión, en las condiciones establecidas en los artículos 27 a 27 D.
 
+5) Se realice conforme a lo dispuesto en el artículo 55 bis del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican , sujeto a los requisitos y condiciones que señala dicho precepto legal.
+
 Mientras las acciones sean de propiedad de la sociedad, no se computarán para la constitución del quórum en las asambleas de accionistas y no tendrán derecho a voto, dividendo o preferencia en la suscripción de aumentos de capital.
 
 Las acciones adquiridas de acuerdo con lo dispuesto en los números 1) y 2) del presente artículo, deberán enajenarse en una bolsa de valores dentro del plazo máximo de un año a contar de su adquisición y si así no se hiciere, el capital quedará disminuido de pleno derecho.

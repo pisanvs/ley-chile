@@ -368,7 +368,9 @@ Las reservas técnicas y el patrimonio de riesgo de las entidades aseguradoras y
 
 a) Títulos emitidos o garantizados hasta su total extinción por el Estado o emitidos por el Banco Central de Chile;
 
-b) Depósitos a plazo, letras de crédito hipotecarias, bonos y otros títulos de deuda o crédito, emitidos por bancos e instituciones financieras;
+b) Depósitos a plazo, letras de crédito hipotecarias, bonos y otros títulos de deuda o crédito, emitidos por bancos e instituciones financieras, incluyendo los bonos sin plazo fijo de vencimiento descritos en el artículo 55 bis del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos y de otros cuerpos legales que se indican.
+
+Respecto de los instrumentos señalados en esta letra, la Comisión podrá establecer, mediante norma de carácter general, los límites, plazos, requisitos, características, reglas y procedimientos que deberán cumplir para ser representativos de reservas técnicas y patrimonio de riesgo.
 
 c) Bonos, pagarés y otros títulos de deuda o crédito, emitidos por empresas públicas o privadas;
 
@@ -474,31 +476,33 @@ La inversión en los distintos tipos de instrumentos o activos representativos d
 
 1. Límites por Instrumento.
 
-a) 5% del total, para la suma de la inversión en los instrumentos de la letra c) del Nº 1, que no se encuentren inscritos en el Registro de Valores de la Superintendencia, o que estando inscritos, no cuenten con clasificación de riesgo conforme a la ley Nº 18.045, o ésta sea inferior a BBB o N-3, según corresponda. Se exceptuarán de este límite, aquellos instrumentos emitidos por empresas nacionales, fuera del país, que cuenten con clasificación de riesgo internacional igual o superior a BBB;
+a) Entre un 5% y un 10% del total para los bonos sin plazo fijo de vencimiento contemplados en la letra b) del artículo 21;
 
-b) entre un 3% y un 5% del total, según lo establezca la Superintendencia por norma de carácter general, para la suma de la inversión en los instrumentos de la letra d) del Nº 1;
+b) 5% del total, para la suma de la inversión en los instrumentos de la letra c) del Nº 1, que no se encuentren inscritos en el Registro de Valores de la Superintendencia, o que estando inscritos, no cuenten con clasificación de riesgo conforme a la ley Nº 18.045, o ésta sea inferior a BBB o N-3, según corresponda. Se exceptuarán de este límite, aquellos instrumentos emitidos por empresas nacionales, fuera del país, que cuenten con clasificación de riesgo internacional igual o superior a BBB;
 
-c) 30% del total, en aquellos instrumentos de la letra e) del Nº 1, para compañías del segundo grupo, y 30% sólo el patrimonio de riesgo, para compañías del primer grupo;
+c) entre un 3% y un 5% del total, según lo establezca la Superintendencia por norma de carácter general, para la suma de la inversión en los instrumentos de la letra d) del Nº 1;
 
-d) entre un 1% y un 5% del total, según lo establezca la Superintendencia por norma de carácter general, para la suma de la inversión en instrumentos de la letra f) del Nº 1. En todo caso, no se podrá otorgar un crédito a una misma persona, directa o indirectamente, por una suma que exceda el 5% del límite antedicho. Con todo, este límite de concentración no podrá exceder del equivalente a 10.000 unidades de fomento. Sin perjuicio de las sanciones que correspondan, los créditos en exceso de los límites fijados en este párrafo, no serán representativos de reservas técnicas y patrimonio de riesgo;
+d) 30% del total, en aquellos instrumentos de la letra e) del Nº 1, para compañías del segundo grupo, y 30% sólo el patrimonio de riesgo, para compañías del primer grupo;
 
-e) 40% del total para la suma de la inversión en instrumentos del Nº2. La inversión total en acciones de empresas concesionarias de obras de infraestructura de uso público no podrá exceder del 5% del total;
+e) entre un 1% y un 5% del total, según lo establezca la Superintendencia por norma de carácter general, para la suma de la inversión en instrumentos de la letra f) del Nº 1. En todo caso, no se podrá otorgar un crédito a una misma persona, directa o indirectamente, por una suma que exceda el 5% del límite antedicho. Con todo, este límite de concentración no podrá exceder del equivalente a 10.000 unidades de fomento. Sin perjuicio de las sanciones que correspondan, los créditos en exceso de los límites fijados en este párrafo, no serán representativos de reservas técnicas y patrimonio de riesgo;
 
-f) 5% del total, en aquellos instrumentos de la letra a) del Nº2, que no cumplan el requisito de presencia bursátil que establezca, por norma de carácter general, la Superintendencia. Este límite no se aplicará a la inversión en acciones de empresas concesionarias de obras de infraestructura de uso público;
+f) 40% del total para la suma de la inversión en instrumentos del Nº2. La inversión total en acciones de empresas concesionarias de obras de infraestructura de uso público no podrá exceder del 5% del total;
 
-g) 10% del total, en aquellos fondos de inversión de la letra c) del Nº2;
+g) 5% del total, en aquellos instrumentos de la letra a) del Nº2, que no cumplan el requisito de presencia bursátil que establezca, por norma de carácter general, la Superintendencia. Este límite no se aplicará a la inversión en acciones de empresas concesionarias de obras de infraestructura de uso público;
 
-h) Derogado.
+h) 10% del total, en aquellos fondos de inversión de la letra c) del Nº2;
 
-i) 5% del total, para la suma de la inversión en los instrumentos de las letras a) y b) del Nº3, que presenten clasificación de riesgo internacional, inferior a BBB o N-3, o su equivalente según corresponda a instrumentos de largo y corto plazo, respectivamente;
+i) Derogado.
 
-j) Para la suma de la inversión en instrumentos de las letras c), d) y e) del Nº 3, la Superintendencia, mediante norma de carácter general, establecerá los porcentajes máximos posibles de invertir. No obstante, el porcentaje máximo de inversión para los instrumentos antes mencionados no podrá ser inferior al diez por ciento de las reservas técnicas y patrimonio de riesgo de las compañías;
+j) 5% del total, para la suma de la inversión en los instrumentos de las letras a) y b) del Nº3, que presenten clasificación de riesgo internacional, inferior a BBB o N-3, o su equivalente según corresponda a instrumentos de largo y corto plazo, respectivamente;
 
-k) 3% del total en aquellos activos de la letra f) del Nº3;
+k) Para la suma de la inversión en instrumentos de las letras c), d) y e) del Nº 3, la Superintendencia, mediante norma de carácter general, establecerá los porcentajes máximos posibles de invertir. No obstante, el porcentaje máximo de inversión para los instrumentos antes mencionados no podrá ser inferior al diez por ciento de las reservas técnicas y patrimonio de riesgo de las compañías;
 
-l) 25% del total, en aquellos activos del N° 4, para compañías del segundo grupo, y 30% sólo del patrimonio de riesgo, para compañías del primer grupo. Con todo, en el caso de bienes raíces no habitacionales sujetos a contratos de arrendamiento con o sin opción de compra que suscriban las compañías del segundo grupo con personas relacionadas, el límite corresponderá al 5% del total y al 5% sólo del patrimonio de riesgo para compañías del primer grupo. Adicionalmente, tratándose de bienes raíces habitacionales, se aplicará un límite del 5% del total para compañías del segundo grupo y del 5% sólo del patrimonio de riesgo para compañías del primer grupo, y
+l) 3% del total en aquellos activos de la letra f) del Nº3;
 
-m) 20% del total, en aquellos activos de la letra e) del Nº 5.
+m) 25% del total, en aquellos activos del N° 4, para compañías del segundo grupo, y 30% sólo del patrimonio de riesgo, para compañías del primer grupo. Con todo, en el caso de bienes raíces no habitacionales sujetos a contratos de arrendamiento con o sin opción de compra que suscriban las compañías del segundo grupo con personas relacionadas, el límite corresponderá al 5% del total y al 5% sólo del patrimonio de riesgo para compañías del primer grupo. Adicionalmente, tratándose de bienes raíces habitacionales, se aplicará un límite del 5% del total para compañías del segundo grupo y del 5% sólo del patrimonio de riesgo para compañías del primer grupo, y
+
+n) 20% del total, en aquellos activos de la letra e) del Nº 5.
 
 2. Límites conjuntos.
 
@@ -552,7 +556,7 @@ g) 1% del total, para la suma de la inversión en instrumentos de las letras
 
 - **b)** del N° 3, comprendidos en las letras
 
-- **a)** e
+- **b)** e
 
 - **i)** del N° 1 de este artículo, según corresponda, emitidos por una misma entidad o sus respectivas filiales;
 
@@ -572,7 +576,7 @@ iv) Instrumentos de la letra
 
 - **b)** del N° 3, comprendidos en las letras
 
-- **a)** e
+- **b)** e
 
 - **i)** del N° 1 de este artículo, y
 
@@ -582,7 +586,7 @@ i) 2% del total, para la suma de la inversión en acciones de empresas concesion
 
 Sin perjuicio de lo dispuesto en el artículo anterior, la Superintendencia, mediante norma de carácter general, podrá establecer límites de diversificación por emisión, a las inversiones que respaldan las reservas técnicas y el patrimonio de riesgo indicados en el artículo 21, considerando los siguientes rangos:
 
-a) entre un 10% y un 20% del total de los depósitos y captaciones y del total de letras hipotecarias emitidas por un banco o entidad financiera, en el caso de los instrumentos de la letra b) del Nº1;
+a) Entre un 10% y un 20% del total de los depósitos y captaciones y del total de letras hipotecarias emitidas por un banco o entidad financiera, y entre un 20% y un 30% para los bonos sin plazo fijo de vencimiento, en el caso de los instrumentos de la letra b) del Nº 1 del artículo 21;
 
 b) entre un 20% y un 30% de la emisión o serie, en el caso de instrumentos de la letra c) del Nº 1;
 
