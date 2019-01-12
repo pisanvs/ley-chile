@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 1.356, de fecha 7 de diciembre de 2018, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se aprobaron los programas de enseñanza conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores denominada Yasna Massiel Acuña Silva, con nombre de fantasía "Autoconductores", cuya propietaria o Representante Legal es doña Yasna Massiel Acuña Silva, Run N°17.524.913-3. La Escuela de Conductores tendrá como Director a don Manuel Patricio Aliaga Farías, Run N°10.457.425-4, y su sede estará ubicada en Ignacio Carrera Pinto N°79, Mal Paso, comuna de Pichidegua. Las horas pedagógicas autorizadas a la referida Escuela son 11 horas teóricas y 12 horas prácticas, con un total de 23 horas pedagógicas.-
+
+Hans González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Libertador General Bernardo O'Higgins.
