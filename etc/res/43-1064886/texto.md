@@ -48,7 +48,7 @@ i. Director Regional de Corfo, Región de Arica y Parinacota.
 
 ii. Director Regional de Corfo, Región de Tarapacá.
 
-iii. Director Regional de Corfo, Región de Antofagasta.
+iii. Director Regional de Corfo, Región de Antofagasta, o Director Ejecutivo del Comité de Desarrollo Productivo Regional de la Región de Antofagasta.
 
 iv. Director Regional de Corfo, Región de Atacama.
 
@@ -70,13 +70,15 @@ v. Dos miembros designados por el Vicepresidente Ejecutivo de Corfo, que tengan 
 
 c. CAR Sur:
 
-i. Director Regional de Corfo, Región del Biobío.
+i. Director Regional de Corfo, Región del Biobío, o Director Ejecutivo del Comité de Desarrollo Productivo Regional de la Región del Biobío.
 
-ii. Director Regional de Corfo, Región de La Araucanía.
+ii. Director Regional de Corfo, Región de Ñuble.
 
-iii. Director Regional de Corfo, Región de Los Ríos.
+iii. Director Regional de Corfo, Región de La Araucanía.
 
-iv. Dos miembros designados por el Vicepresidente Ejecutivo de Corfo, que tengan la calidad de Consejeros de los Comités Corfo, o de funcionarios de la Corporación, de sus Comités o de otros servicios públicos, o de empresarios, profesionales y/o académicos, de alguna de las regiones correspondiente a su ámbito de acción. Los funcionarios de otros servicios públicos, deberán ser designados por la autoridad competente.
+iv. Director Regional de Corfo, Región de Los Ríos, o Director Ejecutivo del Comité de Desarrollo Productivo Regional de la Región de Los Ríos
+
+v. Dos miembros designados por el Vicepresidente Ejecutivo de Corfo, que tengan la calidad de Consejeros de los Comités Corfo, o de funcionarios de la Corporación, de sus Comités o de otros servicios públicos, o de empresarios, profesionales y/o académicos, de alguna de las regiones correspondiente a su ámbito de acción. Los funcionarios de otros servicios públicos, deberán ser designados por la autoridad competente.
 
 d. CAR Austral:
 
@@ -88,7 +90,7 @@ iii. Director Regional de Corfo, Región de Magallanes y de la Antártica Chilen
 
 iv. Dos miembros designados por el Vicepresidente Ejecutivo de Corfo, que tengan la calidad de Consejeros de los Comités Corfo, o de funcionarios de la Corporación, de sus Comités o de otros servicios públicos, o de empresarios, profesionales y/o académicos, de alguna de las regiones correspondientes a su ámbito de acción. Los funcionarios de otros servicios públicos, deberán ser designados por la autoridad competente.
 
-Los integrantes mencionados serán reemplazados, en caso de ausencia o impedimento, por las personas designadas por el Vicepresidente Ejecutivo de Corfo para tal efecto, si se tratare de designaciones efectuadas por éste. Subrogarán a los Directores Regionales de Corfo, los Jefes de Departamento de planta que se desempeñan en las Direcciones Regionales. Los reemplazantes de funcionarios de otros órganos de la Administración del Estado, deberán ser designados por la autoridad competente.
+Los integrantes mencionados serán reemplazados, en caso de ausencia o impedimento, por las personas designadas por el Vicepresidente Ejecutivo de Corfo para tal efecto, si se tratare de designaciones efectuadas por éste. Subrogarán a los Directores Regionales de Corfo, los Jefes de Departamento de planta que se desempeñan en la respectiva Dirección Regional, y a los Directores Ejecutivos de los Comités de Desarrollo Productivo Regional, los subrogantes de éstos en el respectivo Comité. Los reemplazantes de funcionarios de otros órganos de la Administración del Estado, deberán ser designados por la autoridad competente.
 
 Con todo, si por inhabilidad de alguno de los miembros titulares y de su(s) reemplazante(s), quedare alguno de los CAR sin el número de consejeros necesario para el conocimiento y resolución de las solicitudes que les estuvieren sometidas, se integrará con algún(os) miembro(s) no inhabilitado(s) del CAR que siga en el orden establecido en el numeral 1.1 precedente.
 
@@ -180,9 +182,9 @@ Gerente.
 
 5. El CAR Norte sesionará con la asistencia de a lo menos seis de sus miembros, y se reunirá cada vez que sea convocado por su Presidente o por al menos cuatro de sus miembros, y la aprobación de los proyectos o programas deberá adoptarse con los votos de al menos seis de sus miembros.
 
-El CAR Centro sesionará con la asistencia de a lo menos cinco de sus miembros, y se reunirá cada vez que sea convocado por su Presidente o por al menos cuatro de sus miembros, y la aprobación de los proyectos o programas deberá adoptarse con los votos de al menos cinco de sus miembros.
+Los CAR Centro y Sur sesionarán con la asistencia de, a lo menos, cinco de sus miembros, y se reunirán cada vez que sean convocados por su Presidente, o por, al menos, cuatro de sus miembros, y la aprobación de los proyectos o programas deberá adoptarse con los votos de, al menos, cinco de sus miembros.
 
-Los CAR Sur y Austral sesionarán con la asistencia de a lo menos cuatro de sus miembros, y se reunirán cada vez que sean convocados por su Presidente o por al menos tres de sus miembros, y la aprobación de los proyectos o programas deberá adoptarse con los votos de al menos cuatro de sus miembros.
+El CAR Austral sesionará con la asistencia de, a lo menos, cuatro de sus miembros, y se reunirá cada vez que sea convocado por su Presidente, o por, al menos, tres de sus miembros, y la aprobación de los proyectos o programas deberá adoptarse con los votos de, al menos, cuatro de sus miembros
 
 Sin prejuicio de lo anterior, en caso de concurrir las condiciones copulativas que se señalarán, la decisión acerca de su aprobación o rechazo deberá ser adoptada por el Comité. Subcomité de Área de Negocios u órgano competente correspondientes al nivel central:
 
@@ -196,15 +198,15 @@ La aplicación de las reglas anteriores se desarrolla en la siguiente tabla:
 
 ### 6. Cada CAR tendrá un Presidente y un Secretario
 
-7. La Presidencia de cada CAR será ejercida por los Directores Regionales de Corfo que lo integren, en el orden establecido en el numeral 1., por períodos de tres meses a contar de la fecha de inicio de funciones de cada uno, reiniciándose el ciclo establecido una vez finalizada la presidencia del último de los Directores Regionales integrantes.
+7. La Presidencia de cada CAR será ejercida por los Directores Regionales de Corfo o por los Directores Ejecutivos de los Comités de Desarrollo Productivo Regional que lo integren, en el orden establecido en el numeral 1., por períodos de tres meses a contar de la fecha de inicio de funciones de cada uno, reiniciándose el ciclo establecido una vez finalizada la presidencia del último de los Directores Regionales integrantes.
 
 Será función de cada Presidente dirigir las sesiones y ejercer las demás facultades y cumplir con las obligaciones que el CAR le encomiende.
 
-El Presidente de cada CAR, será subrogado por los demás Directores Regionales de Corfo integrantes del CAR, en el orden establecido en el numeral 1, y a falta de todos ellos, presidirá la reunión el Consejero que los miembros presentes en la sesión designen al efecto.
+El Presidente de cada CAR, será subrogado por los demás Directores Regionales de Corfo o Directores Ejecutivos de los Comités de Desarrollo Productivo Regionaintegrantes del CAR, en el orden establecido en el numeral 1, y a falta de todos ellos, presidirá la reunión el Consejero que los miembros presentes en la sesión designen al efecto.
 
-8. La Secretaría será ejercida por el abogado de la Dirección Regional de Corfo, de aquella región a la cual corresponda presidir el CAR durante el período respectivo. Asimismo, le corresponderá a cada Secretario, prestar asesoría jurídica en las materias que estos Comités aborden; asistir a las sesiones; certificar la asistencia a éstas de sus miembros; levantar Actas de las mismas y certificar los Acuerdos que el CAR adopte en dichas sesiones.
+8. La Secretaría será ejercida por el abogado de la Dirección Regional de Corfo o del Comité de Desarrollo Productivo Regional, de aquella región a la cual corresponda presidir el CAR durante el período respectivo. Asimismo, le corresponderá a cada Secretario, prestar asesoría jurídica en las materias que estos Comités aborden; asistir a las sesiones; certificar la asistencia a éstas de sus miembros; levantar Actas de las mismas y certificar los Acuerdos que el CAR adopte en dichas sesiones.
 
-9. Podrá subrogar al Secretario, para el desempeño de las funciones indicadas, cualquiera de los abogados de las restantes Direcciones Regionales de Corfo integrantes del respectivo CAR, en el orden establecido en el numeral 1., y a falta de todos ellos, subrogarán, en el mismo orden señalado, los abogados de las Direcciones Regionales de Corfo que integren el siguiente CAR, reiniciándose el ciclo establecido en el caso del CAR Austral. También corresponderá a cada Secretario, la función de custodiar, si correspondiere, las Actas originales y los documentos anexados en cada sesión. Estas Actas y documentos deberán ser debidamente archivados.
+9. Podrá subrogar al Secretario, para el desempeño de las funciones indicadas, cualquiera de los abogados de las restantes Direcciones Regionales de Corfo o de los Comités de Desarrollo Productivo Regional integrantes del respectivo CAR, en el orden establecido en el numeral 1., y a falta de todos ellos, subrogarán, en el mismo orden señalado, los abogados de las Direcciones Regionales de Corfo o de los Comités de Desarrollo Productivo Regional que integren el siguiente CAR, reiniciándose el ciclo establecido en el caso del CAR Austral. También corresponderá a cada Secretario, la función de custodiar, si correspondiere, las Actas originales y los documentos anexados en cada sesión. Estas Actas y documentos deberán ser debidamente archivados.
 
 ### 10. Convocado el CAR, las citaciones se realizarán a través del Secretario
 
