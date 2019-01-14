@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 5.370 EXENTA, DE 21 DE DICIEMBRE DE 2018
+
+Mediante resolución exenta N° 5.370, de 21 de diciembre de 2018, del Servicio Nacional de Capacitación y Empleo, modifica resolución exenta N° 2.973, de 1 de julio de 2015, modificada a través de resolución N° 1.664, de 16 de abril de 2018, que "Aprueba Instructivo sobre uso del Sistema de Control E-Learning" para las acciones de capacitación que sean impartidas por los organismos técnicos de capacitación, con cargo a la Franquicia Tributaria establecida en el artículo 36 de la ley N° 19.518, y establece obligatoriedad de porcentaje mínimo de conectividad para acreditación de curso e-learning, por las razones que indica.
+
+Santiago, 21 de diciembre de 2018.- Juan Manuel Santa Cruz Campaña, Director Nacional Servicio Nacional de Capacitación y Empleo.
