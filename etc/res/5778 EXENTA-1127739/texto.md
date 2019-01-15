@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 5.778, de fecha 20 de noviembre de 2018, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186, de 1978, del denominado Lote N° 8209-19, correspondiente al inmueble ubicado en Quitalmahue 01674 DP 23, Rol de Avalúo N° 8209-19, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Betanzo Contreras José Manuel, con una superficie aproximada de 46,28 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del Sector Bajos de Mena". La Comisión de Peritos integrada por los señores Johanna Gil Vizcaíno, Arquitecto; Lorena Gajardo Alarcón, Ingeniero Constructor y Sócrates Félix Leporati Nerón, Ingeniero Civil, mediante Informe de fecha 21 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.892.566, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Director Serviu Metropolitano.
