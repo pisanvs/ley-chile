@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Exenta N° 6.154, de fecha 6 de diciembre de 2018, se ordenó la expropiación Total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote Nº3374-08, correspondiente al inmueble ubicado en Fco. Coloane 01304 DP 17 Fco. Coloane, Rol de Avalúo Nº 3374-08, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Ule Soto Ruperto, con una superficie aproximada de 42,487 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos, Poblaciones Francisco Coloane y Cerro Morado". La Comisión de Peritos integrada por los señores Douglas Herrera Flores, Constructor Civil; Angélica Seura Rojas, Arquitecto y Gastón Bravo Hurtado, Ingeniero Civil, mediante Informe de fecha 6 de julio de 2015, fijó la indemnización provisional por causa de la referida expropiación en la suma de $15.642.727, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
