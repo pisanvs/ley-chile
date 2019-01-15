@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 5.154, de fecha 19 de octubre de 2018, se ordenó la expropiación Total, conforme a las normas del decreto ley N° 2.186, de 1978, del denominado Lote Nº8209-27, correspondiente al inmueble ubicado en Quitalmahue 01682, Dp 13, rol de avalúo Nº 8209-27, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Calfuluan Curilen Marisol Adelin, con una superficie aproximada de 46,28 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del Sector Bajos de Mena". La Comisión de Peritos integrada por los señores Carmen Gloria Gatica Villarroel, Arquitecto; Nicolás Romero Morales, Ingeniero de Ejecución y Juan Armando Salas Urzúa, Ingeniero Civil Industrial, mediante Informe de fecha 30 de agosto de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.277.515, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
