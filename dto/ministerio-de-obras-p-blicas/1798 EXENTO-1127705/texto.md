@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 1798, de 26 de diciembre de 2018, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno No. 36, Rol de avalúo 167-146, Comuna de San Clemente, superficie 122 m2. para la obra MEJORAMIENTO RUTA K-705, SECTOR CR. RUTA K-715 - VILCHES ALTO, TRAMO KILÓMETRO 11,70000 A KM. 27,23000, COMUNA DE SAN CLEMENTE, PROVINCIA DE TALCA, REGIÓN DEL MAULE. La comisión de peritos. integrada por PATRICIO ULISES DURÁN MARCOS, RODRIGO ANTONIO SILVA LAZO y PAULA SOLEDAD GONZÁLEZ ORTEGA, fijó el valor de tasación con fecha 23 de julio de 2014 complementada por acta de 29 de noviembre de 2015, acordándose la indemnización con su propietario ILDEFONSO REYES OLIVARES, en la cantidad de $4.383.242.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
