@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.311 de fecha 20 de diciembre de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Cam. Vecinal LT 1 B Las Vegas, Rol N° 3001-72 comuna Linares, superficie 297,90 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Narváez Reyes Raúl Luis, Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $12.343.797.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2186 de 1978 fue reajustado a la suma de $12.788.170.- pagados al contado.
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
