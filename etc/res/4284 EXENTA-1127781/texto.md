@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.284, de fecha 20 de diciembre de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Av. Pdte. Ibáñez 0334, Rol N° 273-13 comuna Linares, superficie 23,76 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Granadino Cielock Óscar Jorge Ar. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $3.302.180.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2.186 de 1978 fue reajustado a la suma de $3.421.860.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
