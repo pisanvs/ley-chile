@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4519, de 28 de diciembre 2018, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a Departamento N° 304 ubicado en Pasaje 6½ Oriente "H", Block Nº 3385, Condominio "B", Población Las Américas IX Etapa, comuna Talca, Rol Avalúo N° 1425-24, comuna Talca, y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Ramos Fuentealba Filadelfio Anib. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto, según informe de 10 de diciembre de 2018, fijó monto provisional indemnización en $16.331.557.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
