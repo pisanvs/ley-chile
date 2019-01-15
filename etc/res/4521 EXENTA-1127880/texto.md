@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4521, de 28 de diciembre 2018, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a Departamento N° 301 ubicado en Pasaje 6½ Oriente "H", Block N° 3385, Condominio "B", Población Las Américas IX Etapa, comuna Talca, Rol Avalúo N° 1425-21, comuna Talca, y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Morales Arellano Yasna Orietta D. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto, según informe de 10 de diciembre de 2018, fijó monto provisional indemnización en $17.299.587.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
