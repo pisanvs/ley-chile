@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 1799, de 26 de diciembre de 2018, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno No. 4, Rol de avalúo 3367-133, Comuna de Padre Las Casas, superficie 713 m2., para la obra CONSERVACIÓN CAMINO BÁSICO PADRE LAS CASAS - PULMAHUE Y REPOSICIÓN PUENTE MENOR PULMAHUE, COMUNA DE PADRE LAS CASAS, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por EVALDO ROBERTO CONTRERAS ROA, ENEDINA DEL CARMEN CID RAMÍREZ Y PAULA ANDREA LAGOS CARRASCO, fijó el valor de tasación con fecha 26 de marzo de 2015, complementada por acta de 20 de marzo de 2017, acordándose la indemnización con sus propietarios YUDY DORKA PERALTA NAHUEL Y OTROS, en la cantidad de $16.959.260.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
