@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.291, de fecha 20 de diciembre de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Av. Pdte. Ibáñez 0214 Ramón Olate, Rol N° 275-12 comuna Linares, superficie 25,59 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Loyola Valenzuela Raúl Hernán. Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $3.402.512.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2.186 de 1978 fue reajustado a la suma de $3.525.000.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
