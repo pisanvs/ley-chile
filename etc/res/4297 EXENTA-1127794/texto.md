@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.297, de fecha 20 de diciembre de 2018, de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Av. Pdte. Ibáñez 98, Rol N° 298-41 comuna Linares, superficie 52,34 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Bravo Villar Iris del C. Comisión integrada por peritos don Patricio Ulises Durán Marcos, arquitecto; por don Rodrigo Antonio Silva Lazo, constructor civil, y por don Pedro Pablo Cruz Weston, arquitecto; según informe de tasación evacuado con fecha 4 de septiembre de 2017, fijó monto provisional indemnización en $8.520.325.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2.186 de 1978 fue reajustado a la suma de $8.827.060.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
