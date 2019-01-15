@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 5.158 de fecha 19 de octubre de 2018, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote N°8209-36, correspondiente al inmueble ubicado en Quitalmahue 01682 Dp 34, rol de avalúo Nº 8209-36, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Rojas Moreno Gladys de las Mercedes, con una superficie aproximada de 46,28 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del Sector Bajos de Mena". La Comisión de Peritos integrada por los señores Carmen Gloria Gatica Villarroel, arquitecto; Nicolás Romero Morales, Ingeniero de Ejecución y Juan Armando Salas Urzúa, Ingeniero Civil Industrial, mediante Informe de fecha 30 de agosto de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $23.477.515, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.
+
+Director Serviu Metropolitano.
