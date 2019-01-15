@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4495, de 28 de diciembre 2018, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a Departamento Nº 304 ubicado en Pasaje 21½ Norte "A", Block Nº 1465, Condominio "A", Población Las Américas IX Etapa, comuna Talca, Rol Avalúo N° 1424-60, comuna Talca, y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Iturra Barriga Manuel Jesús. Comisión integrada por peritos Patricio Ulises Durán Marcos, arquitecto; por don Rodrigo Antonio Silva Lazo, constructor civil, y por don Pedro Pablo Cruz Weston, arquitecto, según informe de diciembre de 2018, fijó monto provisional indemnización en $13.062.000.- pagados contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
