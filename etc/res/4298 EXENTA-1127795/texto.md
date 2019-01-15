@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.298 de fecha 20 de diciembre de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Las Vegas, Rol N° 539-185 comuna Linares, superficie 68,16 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Salazar Tapia Alejandro, Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $3.416.523.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2186 de 1978 fue reajustado a la suma de $3.539.520.- pagados al contado.
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
