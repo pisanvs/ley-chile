@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.306 de fecha 20 de diciembre de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Av. Pdte. Ibáñez 1 Tte. Merino, Rol N° 328-1 comuna Linares, superficie 37,89 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Munoz Fuentes Héctor, Comisión integrada por peritos don Patricio Ulises Durán Marcos, arquitecto; por don Rodrigo Antonio Silva Lazo, constructor civil, y por don Pedro Pablo Cruz Weston, arquitecto; según informe de tasación evacuado con fecha 22 de septiembre de 2017, fijó monto provisional indemnización en $6.281.500.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2.186 de 1978 fue reajustado a la suma de $6.507.630.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
