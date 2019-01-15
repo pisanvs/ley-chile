@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.309 de fecha 20 de diciembre de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Avda. Pdte. Ibáñez 321, Rol N° 321-15 comuna Linares, superficie 58,86 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Beroíza Caro Alicia, Comisión integrada por peritos don Patricio Ulises Durán Marcos, arquitecto; por don Rodrigo Antonio Silva Lazo, constructor civil, y por don Pedro Pablo Cruz Weston, arquitecto; según informe de tasación evacuado con fecha 4 de septiembre de 2017, fijó monto provisional indemnización en $9.859.600.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2.186 de 1978 fue reajustado a la suma de $10.214.550.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
