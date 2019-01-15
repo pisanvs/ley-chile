@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.294 de fecha 20 de diciembre de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Abate Molina 1031 Juan Tillería, Rol N° 296-13 comuna Linares, superficie 4,59 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Aravena Soto Luis Aurelio, Comisión integrada por peritos María Carolina Letelier Bopp, arquitecto; Ramón Lira Montecino, ingeniero agrónomo; y Claudia Poblete Ramírez, arquitecto; según informe de tasación evacuado con fecha 28 de septiembre de 2017, fijó monto provisional indemnización en $877.136.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2186 de 1978 fue reajustado a la suma de $908.710.- pagados al contado.
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
