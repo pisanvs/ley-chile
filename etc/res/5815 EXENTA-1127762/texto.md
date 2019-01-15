@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 5.815, de fecha 21 de noviembre de 2018, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 8210-47 correspondiente al inmueble ubicado en PJ Amasijo 01691 DP 33, Rol de Avalúo N° 8210-47, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Copeva Ltda., con una superficie aproximada de 46,28 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del Sector Bajos de Mena". La Comisión de Peritos integrada por los señores Fernando Merino de la Cerda, Arquitecto; Carmen Alarcón Montecinos, Ingeniero Constructor, y Pedro Ignacio Zegers Riesco, Ingeniero Civil, mediante Informe de fecha 1 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $20.838.905, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
