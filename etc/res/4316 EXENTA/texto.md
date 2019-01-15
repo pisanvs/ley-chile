@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.316 de fecha 20 de diciembre de 2018 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Pdte. Ibáñez 114, Rol N° 299-38 comuna Linares, superficie 73,14 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente de Morales Caballol María Cecilia. Comisión integrada por peritos don Patricio Ulises Durán Marcos, arquitecto; por don Rodrigo Antonio Silva Lazo, constructor civil, y por don Pedro Pablo Cruz Weston, arquitecto; según informe de tasación evacuado con fecha 4 de septiembre de 2017, fijó monto provisional indemnización en $22.854.800.-, monto que conforme a lo dispuesto en el artículo 5° del DL 2.186 de 1978 fue reajustado a la suma de $23.677.570.- pagados al contado.
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
