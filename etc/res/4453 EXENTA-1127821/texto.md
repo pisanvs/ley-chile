@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.453, de 28 de diciembre de 2018, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a Departamento N° 101 ubicado en Pasaje 6½ Oriente "F", Block N° 3375, Condominio "B", Población Las Américas IX Etapa, comuna Talca, Rol Avalúo N° 1425-37, comuna Talca y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Gangas Vera Leticia del Carmen. Comisión integrada por peritos Patricio Ulises Durán Marcos, arquitecto; por don Rodrigo Antonio Silva Lazo, constructor civil, y por don Pedro Pablo Cruz Weston, arquitecto, según informe de diciembre de 2018, fijó monto provisional indemnización en $17.727.000.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
