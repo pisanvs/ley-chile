@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.477, de 28 de diciembre 2018, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a Departamento N° 204 ubicado en Pasaje 6½ Oriente "E", Block N° 3373, Condominio "A", Población Las Américas IX Etapa, comuna Talca, Rol Avalúo N° 1424-20, comuna Talca y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Castro Munoz Cecilia del Carmen. Comisión integrada por peritos Patricio Ulises Durán Marcos, arquitecto; por don Rodrigo Antonio Silva Lazo, constructor civil, y por don Pedro Pablo Cruz Weston, arquitecto, según informe de diciembre de 2018, fijó monto provisional indemnización en $13.995.000.- pagados al contado.
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
