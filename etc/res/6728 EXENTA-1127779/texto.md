@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Exenta Nº 6.728, de fecha 24 de diciembre de 2018, se ordenó la expropiación Total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N°3376-17, correspondiente al inmueble ubicado en Fco. Coloane 01358 DP 30, Rol de Avalúo Nº 3376-17, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Campos Juan Sergio y otros, con una superficie aproximada de 42,118 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos, Poblaciones Francisco Coloane y Cerro Morado". La Comisión de Peritos integrada por los señores Armando Pinochet Landeros, Constructor Civil; Patricia Morales Rivera, Constructor Civil y Sonia Gallegos Blanch, Arquitecto, mediante Informe de fecha 28 de septiembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $15.739.172, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
