@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 5.809 de fecha 21 de noviembre de 2018, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 8210-28 correspondiente al inmueble ubicado en PJ Amasijo 01683 DP 14, Rol de Avalúo N° 8210-28, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Toro Lobos Mónica del Carmen, con una superficie aproximada de 46,28 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Regeneración del Conjunto Habitacional Marta Brunet del Sector Bajos de Mena". La Comisión de Peritos integrada por los señores Angélica Seura Rojas, Arquitecto; Felipe Toledo Quijada, Ingeniero Constructor y Juan Roberto Honorato Errázuriz, Ingeniero Civil, mediante Informe de fecha 12 de noviembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $20.973.058, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.
+
+Director Serviu Metropolitano.
