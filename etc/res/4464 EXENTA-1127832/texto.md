@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.464, de 28 de diciembre 2018, de Serviu Región del Maule, ordenó expropiación total, conforme artículo 51 ley 16.391, del inmueble correspondiente a departamento N° 201, ubicado en Pasaje 21½ Norte "A", Block N° 1459, Condominio "A", Población Las Américas IX Etapa, comuna Talca, Rol Avalúo N° 1424-41, comuna Talca y sus derechos cuotativos, deslindes según plano expropiaciones, propietario aparente Molina Morales Jacob Anania. Comisión integrada por peritos Patricio Ulises Durán Marcos, arquitecto; por don Rodrigo Antonio Silva Lazo, constructor civil, y por don Pedro Pablo Cruz Weston, arquitecto, según informe de diciembre de 2018, fijó monto provisional indemnización en $15.861.000.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
