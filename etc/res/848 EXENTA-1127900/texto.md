@@ -1,0 +1,3 @@
+RESOLUCIÓN N° 848 EXENTA, DE 22 DE NOVIEMBRE DE 2018, QUE "COMPLEMENTA RESOLUCIÓN N° 628 EXENTA, DE 22 DE AGOSTO DE 2018, QUE APRUEBA REGISTRO DE CORREOS ELECTRÓNICOS DE SOSTENEDORES DE LA SUPERINTENDENCIA DE EDUCACIÓN AÑO 2018"
+
+Con fecha 22 de noviembre de 2018, la Superintendencia de Educación dictó resolución exenta N° 848, que "Complementa resolución exenta N° 628, de 22 de agosto de 2018, que Aprueba registro de correos electrónicos de sostenedores de la Superintendencia de Educación año 2018". Dicho registro ha sido actualizado conforme a la siguiente nueva fuente de información: 5. Proceso Extraordinario Declaración del Sostenedor 2017. Dicha resolución estará disponible para la comunidad en la página web institucional www.supereduc.cl.
