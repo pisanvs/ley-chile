@@ -64,25 +64,31 @@ De los órganos y sus atribuciones
 
 #### Artículo 3º
 
-El Comité de Desarrollo Productivo Regional tendrá un Consejo Directivo integrado de la siguiente manera:
+Cada "Comité de Desarrollo Productivo Regional" tendrá un Consejo Directivo integrado de la siguiente manera:
 
-a) Tres representantes del Intendente Regional, los que deberán ser personas que desempeñen un cargo o función pública en un órgano de la Administración del Estado o en un organismo privado que se encuentre dentro del Sistema de Administración Financiera del Estado, designados por el Intendente o por la autoridad respectiva, si no fuere funcionario de su dependencia. Presidirá el Consejo Directivo aquel miembro que determine el Intendente.
+a) Tres representantes del Intendente Regional, los que deberán ser personas que desempeñen un cargo o función pública en un órgano de la Administración del Estado o en un organismo privado que se encuentre dentro del Sistema de Administración Financiera del Estado, designados por el Intendente o por la autoridad respectiva, si no fuere funcionario de su dependencia, previa solicitud de Corfo.
 
-b) Un(a) representante del Ministerio de Economía, Fomento y Turismo, designado por la autoridad que corresponda.
+Presidirá el Consejo Directivo aquel miembro que determine el Intendente.
 
-c) Un(a) académico(a) universitario(a) o de instituto profesional, con domicilio o que se desempeñe en la Región, designado por el Consejo Regional, de una terna propuesta por el Intendente.
+b) Un representante del Ministerio de Economía, Fomento y Turismo, designado por la autoridad que corresponda, previa solicitud de Corfo.
 
-d) Dos empresarios(as) regionales destacados(as), designados(as) por el Consejo Regional en votación única, resultando electas las personas que obtengan las dos primeras mayorías, de una quina propuesta por el Intendente.
+c) El(la) Seremi de Economía de la región correspondiente, previa solicitud de Corfo.
 
-e) El(la) Presidente de la Comisión de Trabajo del área de desarrollo productivo o su equivalente del Consejo Regional.
+d) Un(a) representante del Vicepresidente Ejecutivo de Corfo, designado por él.
 
-f) Un(a) representante del Vicepresidente Ejecutivo de Corfo, designado por él.
+e) Un(a) representante del Gerente General del Servicio de Cooperación Técnica, designado por él, previa solicitud de Corfo.
 
-g) Un(a) representante del Gerente General del Servicio de Cooperación Técnica, designado por él.
+f) Un(a) académico(a) universitario(a) o de instituto profesional, con domicilio o que se desempeñe en la Región, designado por el Consejo Regional, de una terna propuesta por el Intendente, previa solicitud de Corfo.
 
-Los integrantes mencionados en los literales anteriores, con excepción de los señalados en las letras c) y d), serán reemplazados, en caso de ausencia o impedimento, por personas que desempeñen un cargo o función pública en un órgano de la Administración del Estado o en un organismo privado que se encuentre dentro del Sistema de Administración Financiera del Estado, designadas en calidad de reemplazante por el Intendente o por la autoridad respectiva, si no fuere funcionario de su dependencia.
+g) Dos empresarios(as) regionales destacados(as), designados(as) por el Consejo Regional en votación única, resultando electas las personas que obtengan las dos primeras mayorías, de una quina propuesta por el Intendente, previa solicitud de Corfo.
 
-A todos los miembros del Comité, independiente de su calidad y por el hecho de ejercer una función pública, les serán aplicables las normas de inhabilidades establecidas en la legislación vigente para los funcionarios públicos.
+h) El(la) Presidente de la Comisión de Trabajo del área de desarrollo productivo o su equivalente del Consejo Regional, previa solicitud de Corfo.
+
+i) Un Consejero Regional, elegido por la mayoría del Consejo, previa solicitud de Corfo.
+
+Los integrantes mencionados en los literales anteriores, con excepción de los señalados en las letras f) y g), serán reemplazados, en caso de ausencia o impedimento, por personas que desempeñen un cargo o función pública en un órgano de la Administración del Estado o en un organismo privado que se encuentre dentro del Sistema de Administración Financiera del Estado, designadas en calidad de reemplazante por el órgano o autoridad que haya designado al titular o aquella que lo integra, según corresponda.
+
+Los Consejeros deberán dar cumplimiento al principio de probidad administrativa y al deber de abstención que derivan del ejercicio de una función pública. Asimismo, les resultarán aplicables las normas sobre inhabilidades de ingreso contenidas en el Título III de la ley Nº 18.575, en atención a que ejercerán un cargo o función pública en la Administración del Estado.
 
 #### Artículo 4º
 
@@ -326,7 +332,7 @@ La facultad señalada podrá ser ejercida por el Vicepresidente Ejecutivo dentro
 
 Durante los 3 primeros años contados desde la entrada en funcionamiento del Comité, el Director Ejecutivo, previa consulta al Vicepresidente Ejecutivo de Corfo, podrá designar a los Subdirectores con prescindencia del procedimiento señalado en el inciso segundo del artículo 12º.
 
-Asimismo, durante el mismo plazo, el Vicepresidente Ejecutivo de Corfo, mediante el acto administrativo correspondiente, podrá asignar la función de Subdirector de cualquiera de las Subdirecciones que existan en el Comité a la persona que ejerza, ya sea en calidad de titular o suplente, el cargo de Jefe de Departamento, Grado 5º, de la Planta de Directivos de Corfo en la región.
+Sin perjuicio de lo señalado en el párrafo anterior, el Vicepresidente Ejecutivo de Corfo, mediante el acto administrativo correspondiente, podrá asignar la función de Subdirector de cualquiera de las Subdirecciones que existan en el Comité, a la persona que ejerza, ya sea en calidad de titular o suplente, el cargo de Jefe de Departamento, grado 5°, de la Planta de Directivos de Corfo en la Región.
 
 Séptimo: Las cuentas corrientes bancarias contratadas por el Comité "Fondo de Innovación Tecnológica de la Región del Biobío" o "Comité Innova Biobío", que se encuentren vigentes a la fecha de inicio en funcionamiento de su continuador el "Comité de Desarrollo Productivo Regional de Biobío", seguirán siendo administradas por los funcionarios que hayan sido designados para tal efecto y autorizados como giradores, con todas las facultades que se les hayan conferido, mientras no sean reemplazadas por otras nuevas que el "Comité de Desarrollo Productivo Regional de Biobío" decida contratar.
 
