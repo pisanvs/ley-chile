@@ -12,9 +12,17 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase, desde el 8 de junio de 2013 hasta el 31 de diciembre de 2018, la circulación de todo tipo de vehículos motorizados por el eje San Diego-Bandera en los siguientes tramos:
+1.- 1.- Prohíbase la circulación de todo tipo de vehículos motorizados por el eje San Diego-Bandera en los tramos y períodos que se indican en el siguiente cuadro:
 
-.
+Desde Hasta Período
+
+Padre de Alonso Moneda 8 de junio de 2013 hasta el
+
+de Ovalle 31 de diciembre de 2018
+
+Compañía Santo 8 de junio de 2013 hasta el
+
+Domingo 30 de abril de 2019
 
 Podrán circular excepcionalmente en los tramos señalados, los vehículos de emergencia, los destinados a cumplir funciones en las obras relacionadas con la construcción de la línea 3 del Metro de Santiago y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicados en dichos tramos.
 
