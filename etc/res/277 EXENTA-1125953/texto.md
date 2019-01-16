@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de todo tipo de vehículos motorizados en media calzada Av. Circunvalación intersección con Av. Diego de Almagro, comuna de Copiapó, desde el día 12 de noviembre de 2018 hasta el día 21 de diciembre de 2018.
+1. Prohíbase la circulación de todo tipo de vehículos motorizados en media calzada Av. Circunvalación intersección con Av. Diego de Almagro, comuna de Copiapó, desde el día 12 de noviembre de 2018 hasta el día 14 de enero de 2019.
 
 2. Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
