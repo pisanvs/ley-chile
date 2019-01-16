@@ -38,7 +38,7 @@ C-539 0,00 - 5,9
 
 Resuelvo:
 
-1.- Prohíbase la circulación de todo tipo de vehículos motorizados en media calzada en la comuna de Copiapó de las vías que se indican a continuación hasta el día 31 de diciembre de 2018, en los siguientes tramos:
+1.- Prohíbase la circulación de todo tipo de vehículos motorizados en media calzada en la comuna de Copiapó de las vías que se indican a continuación hasta el día 30 de junio de 2019, en los siguientes tramos:
 
 Ruta Tramo (km a km)
 
