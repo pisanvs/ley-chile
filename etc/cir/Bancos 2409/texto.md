@@ -11862,9 +11862,9 @@ En el seguimiento de sus pasivos, el banco deberá calcular a lo menos los sigui
 
 3.2.1 Concentración por tipo de contraparte
 
-Los bancos deberán calcular un índice de concentración para cada una de sus fuentes de financiamiento significativas, conforme se define en el numeral 1 anterior (clasificación de contrapartes).
+Los bancos deberán calcular un índice de concentración para cada una de sus fuentes de financiamiento.
 
-Este índice de concentración deberá ser calculado como la fracción del total de pasivos con terceros que representa cada grupo de contrapartes significativas:
+Este índice de concentración deberá ser calculado como la fracción del total de pasivos con terceros que representa cada grupo de contrapartes:
 
 .
 
@@ -11906,7 +11906,7 @@ i: operación con el tipo de instrumento de captación p.
 
 3.2.4 Plazo residual ponderado por instrumento de captación
 
-Los bancos deberán calcular el plazo residual ponderado, en días, para cada uno de los instrumentos de captación significativos.
+Los bancos deberán calcular el plazo residual ponderado, en días, para cada uno de los instrumentos de captación.
 
 El indicador deberá ser calculado de acuerdo a la siguiente fórmula:
 
