@@ -864,6 +864,8 @@ No obstante lo establecido en el párrafo segundo de esta letra y en el artícul
 
 Este beneficio no se considerará remuneración para los efectos de lo dispuesto en el inciso segundo del artículo 2º de la ley Nº 18.263, en la ley N° 18.694 y en el artículo 59 de la ley Nº 18.961.
 
+w) Fuero laboral. Al personal de Carabineros de Chile le será aplicable el derecho a fuero laboral establecido en el artículo 201 del Código del Trabajo, conforme a este estatuto. Respecto de quienes sean comprendidos en retiro por contraer enfermedad declarada incurable que los imposibilite para continuar en el servicio o enfermedad curable que los imposibilite temporalmente para el servicio, les será aplicable el referido fuero. En estos casos se procederá en la forma prevista en el artículo 68 de este estatuto.
+
 > **Nota.** El DFL 2, de 1998, declara ajustadas a derecho las horas cumplidas por este concepto y bien percibidas las respectivas remuneraciones entre el 12 de marzo y la entrada en vigencia de la modificación.
 
 #### Artículo 47°
@@ -1113,6 +1115,8 @@ Disposiciones Generales
 El personal de Carabineros dejará de pertenecer a la Institución por retiro o fallecimiento.
 
 El retiro puede ser temporal o absoluto.
+
+En el caso de retiro del personal por padecer de una enfermedad declarada incurable que los imposibilite para continuar en el servicio o enfermedad curable que los imposibilite temporalmente para el servicio, y que se encuentre gozando del fuero laboral regulado en el literal w) del artículo 46 de este estatuto, dicho retiro se hará efectivo al término del respectivo fuero.
 
 Los decretos supremos y resoluciones que concedan o dispongan el retiro de Oficiales Generales, Coroneles y Suboficiales Mayores, fijarán la fecha en que se harán efectivos, la cual no podrá ser posterior en más de seis meses a la de dichos decretos o resoluciones.
 

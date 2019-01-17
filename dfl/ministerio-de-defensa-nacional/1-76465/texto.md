@@ -2812,7 +2812,11 @@ Normas generales
 
 #### Artículo 209
 
-El personal tendrá derecho a feriados, permisos y licencias; a recibir asistencia médica, en conformidad a la ley, en caso de accidentes ocurridos en acto del servicio o de enfermedad contraída a consecuencia del desempeño de sus funciones y a ocupar vivienda fiscal de acuerdo con las disposiciones del presente Estatuto. Asimismo tendrá derecho a gozar de todas las prestaciones y beneficios que contemple su sistema legal de previsión y de seguridad social, y de protección a la maternidad establecidas en la ley.
+El personal tendrá derecho a feriados, permisos y licencias; a recibir asistencia médica, en conformidad a la ley, en caso de accidentes ocurridos en acto del servicio o de enfermedad contraída a consecuencia del desempeño de sus funciones y a ocupar vivienda fiscal de acuerdo con las disposiciones del presente Estatuto.
+
+Asimismo tendrá derecho a gozar de todas las prestaciones y beneficios que contemple su sistema legal de previsión y de seguridad social, y de protección a la maternidad establecidas en la ley.
+
+Al personal de las Fuerzas Armadas le será aplicable el derecho a fuero laboral establecido en el artículo 201 del Código del Trabajo, conforme a este estatuto. Respecto de quienes sean comprendidos en retiro por contraer enfermedad declarada incurable o enfermedad curable que los imposibilite temporalmente para el servicio, les será aplicable el referido fuero. En estos casos se procederá en la forma prevista en el artículo 246 de este estatuto.
 
 #### Artículo 210
 
@@ -3076,7 +3080,7 @@ Los decretos o resoluciones de retiro deberán mencionar expresamente la causal 
 
 #### Artículo 246
 
-Los decretos o resoluciones que dispongan el retiro por causales forzosas se dictarán de oficio por la autoridad competente y a contar desde la fecha en que ellas se producen o de una posterior que determine la autoridad, cuando ello corresponda.
+Los decretos o resoluciones que dispongan el retiro por causales forzosas se dictarán de oficio por la autoridad competente y a contar desde la fecha en que ellas se producen o de una posterior que determine la autoridad, cuando ello corresponda. En el caso de retiro del personal por padecer una enfermedad declarada incurable o enfermedad curable que los imposibilite temporalmente para el servicio, y que se encuentre gozando del fuero laboral regulado en el artículo 209 de este estatuto, dicho retiro se hará efectivo al término del respectivo fuero.
 
 La solicitud de retiro absoluto por cumplimiento de años de servicios no podrá ser denegada.
 

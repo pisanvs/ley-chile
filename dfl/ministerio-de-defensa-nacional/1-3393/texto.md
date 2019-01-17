@@ -400,15 +400,19 @@ Ascensos
 
 El sistema de Ascensos del personal de Policía de Investigaciones de Chile, se regirá por las normas del presente estatuto y por las disposiciones reglamentarias correspondientes.
 
-Los Prefectos Inspectores sólo ascenderán por
-
-antigüedad; los Prefectos y Subprefectos, sólo por mérito, y los demás Oficiales y personal de las Plantas de Apoyo Científico-Técnico y de Apoyo General, por mérito y por antigüedad.
+Los Prefectos Inspectores sólo ascenderán por antigüedad; los Prefectos y Subprefectos, sólo por mérito, y los demás Oficiales y personal de las Plantas de Apoyo Científico-Técnico y de Apoyo General, por mérito y por antigüedad.
 
 No obstante, los funcionarios de las Plantas de Apoyo Científico-Técnico y de Apoyo General ascenderán al grado más alto de sus respectivos escalafones sólo por mérito.
 
 Los ascensos sólo por mérito y por antigüedad se efectuarán de conformidad con lo prescrito en el reglamento respectivo.
 
 Sin perjuicio de lo dispuesto en el inciso segundo, en casos calificados y mediante resolución fundada en razones de mejor servicio, el Director General podrá dispensar a los Prefectos del requisito de tiempo en el grado para ascender al grado de Prefecto Inspector. No obstante, no podrá ejercer esta facultad más de tres veces en el año.
+
+El Director General podrá disponer ascensos extraordinarios del personal del escalafón de Asistentes Policiales de la planta de Apoyo General, para premiar acciones de excepcional abnegación o como reconocimiento póstumo. En los casos de fallecimiento de personal del grado 12 del escalafón de Asistentes Policiales de la planta de Apoyo General, y de aquellos cuyo deceso ocurra con ocasión de un procedimiento estrictamente policial en que participe en el cumplimiento de su deber, podrá ordenarse la promoción póstuma hasta el grado 11 del referido escalafón.
+
+Tratándose del personal del escalafón de Oficiales Policiales, esta promoción extraordinaria podrá disponerse como reconocimiento póstumo mediante decreto supremo expedido por intermedio del Ministerio del Interior y Seguridad Pública, a proposición del Director General, al grado inmediatamente superior al del empleo que se encontraba sirviendo el causante. En caso de que un oficial del personal del escalafón de Oficiales Policiales resulte muerto o inválido con ocasión de un procedimiento estrictamente policial en el que haya participado en el cumplimiento de su deber, el ascenso extraordinario podrá disponerse hasta en dos grados inmediatamente superiores al grado en que se encontraba sirviendo el causante.
+
+El ascenso extraordinario de los Oficiales Policiales conforme a lo dispuesto en el inciso precedente, sólo se podrá cursar hasta el grado de Prefecto Inspector.
 
 #### Artículo 31º
 
@@ -960,6 +964,8 @@ El personal de Policía de Investigaciones de Chile deja de pertenecer a la Inst
 
 El retiro del personal puede ser temporal o absoluto.
 
+En el caso de retiro del personal por padecer de una enfermedad declarada incurable que los imposibilite para continuar en el servicio o enfermedad curable que los imposibilite temporalmente para el servicio, y que se encuentre gozando del fuero laboral regulado en el artículo 114 de este estatuto, dicho retiro se hará efectivo al término del respectivo fuero.
+
 La renuncia del empleo que haga el personal de Investigaciones, o su baja por gracia, se considerará como retiro temporal sin pensión, pero los servicios que haya prestado podrán serle computados para una jubilación o retiro posterior.
 
 #### Artículo 86°
@@ -1241,6 +1247,8 @@ Derechos Funcionarios
 #### Artículo 114°
 
 El personal tendrá derecho a todos los beneficios que le corresponda en conformidad a las disposiciones legales y reglamentarias vigentes sobre Medicina Preventiva y Curativa.
+
+Al personal de Policía de Investigaciones de Chile le será aplicable el derecho a fuero laboral establecido en el artículo 201 del Código del Trabajo, conforme a este estatuto. Respecto de quienes sean comprendidos en retiro por contraer enfermedad declarada incurable que los imposibilite para continuar en el servicio o enfermedad curable que los imposibilite temporalmente para el servicio, les será aplicable el referido fuero. En estos casos se procederá en la forma prevista en el artículo 85 de este estatuto.
 
 El reglamento complementario respectivo determinará los derechos que corresponderá a los familiares del personal.
 
