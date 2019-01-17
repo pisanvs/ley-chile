@@ -74,7 +74,7 @@ Las facultades señaladas en los números 1, 2 y 3 de este artículo deberán se
 
 #### Artículo 3°
 
-Otórganse al Director del Instituto de Salud Pública de Chile las siguientes facultades:
+Otórganse a la Directora del Instituto de Salud Pública de Chile y a la Subsecretaria de Salud Pública, las siguientes facultades:
 
 1. Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requieran desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
@@ -90,7 +90,7 @@ Lo anterior, de conformidad con lo señalado en los convenios que previamente se
 
 #### Artículo 5°
 
-Los efectos de este decreto tendrán vigencia hasta el día 31 de diciembre de 2018, sin perjuicio de la facultad de disponer su término anticipado o su prórroga, si las condiciones así lo ameritan, según corresponda. Sin perjuicio de lo anterior, dispóngase que sus efectos terminarán anticipadamente respecto de aquellas áreas, localidades o comunas que las Seremi de Salud de las regiones de Los Lagos y Aysén, mediante resolución, declaren que se encuentran libres de Marea Roja.
+Los efectos de este decreto tendrán vigencia hasta el día 30 de junio de 2019, sin perjuicio de la facultad de disponer su término anticipado o su prórroga, si las condiciones así lo ameritan, según corresponda. Sin perjuicio de lo anterior, dispóngase que sus efectos terminarán anticipadamente respecto de aquellas áreas, localidades o comunas que las Seremi de Salud de las regiones de Los Lagos y Aysén, mediante resolución, declaren que se encuentran libres de Marea Roja.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Emilio Santelices Cuevas, Ministro de Salud.
 
