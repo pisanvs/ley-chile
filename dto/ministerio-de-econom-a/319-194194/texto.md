@@ -502,7 +502,7 @@ La orientación del plan y sus medidas se fundarán en el riesgo sanitario y deb
 
 #### Artículo 8º
 
-C. La Subsecretaría deberá establecer un programa de investigación de las especies silvestres, en base al cual deberá elaborar un informe anual de los resultados obtenidos, el que tendrá carácter público. Dichos resultados podrán ser considerados por el Servicio en la zonificación que realice y en las labores de control y fiscalización que lleve adelante.
+C. La Subsecretaría deberá comprender dentro de su programa de investigación, establecido y ejecutado de conformidad con el artículo 92 de la ley, el estudio de las especies silvestres. El resultado de dichos estudios podrá ser considerado por el Servicio en la zonificación que realice y en las labores de control y fiscalización que lleve adelante.
 
 #### Artículo 9º
 
@@ -1110,11 +1110,11 @@ La clasificación de los centros será publicada en la página web del Servicio.
 
 ### Párrafo 2º
 
-De la reproducción en centros emplazados en el mar
+De la reproducción en centros emplazados en mar sin programa de mejoramiento genético
 
 #### Artículo 23
 
-Los centros de reproducción emplazados en mar que tengan por objeto el manejo genético deberán someterse a las disposiciones previstas para los centros de experimentación, de conformidad con el artículo 67 quinquies de la ley, sin perjuicio de las normas específicas de que trata este párrafo.
+Los centros de reproducción emplazados en mar que no cuenten con un programa de mejoramiento genético aprobado por la Subsecretaría de conformidad con el párrafo 3º de este Título, se someterán a las disposiciones de este párrafo.
 
 Los estudios técnicos que elabore la Subsecretaría de Pesca para la determinación de áreas apropiadas para la acuicultura en virtud del artículo 67 de la ley, deberán prever sectores que presenten características de aislamiento por distancias, oceanográficas y operativas, que permitan que los centros de reproducción operen en forma independiente del resto de los centros de cultivo en mar.
 
@@ -1134,7 +1134,7 @@ Ante la situación de requerir trasladar reproductores por motivos sanitarios de
 
 #### Artículo 23
 
-C. Podrán trasladarse ejemplares de las especies Oncorhynchus kisutch y Oncorhynchus tshawytscha desde centros de engorda a pisciculturas para ser destinados para reproducción, previa autorización del Servicio.
+C.- Eliminado
 
 #### Artículo 23
 
@@ -1142,9 +1142,79 @@ D. Los ejemplares de Salmo salar que sean trasladados desde centros de reproducc
 
 El Servicio podrá autorizar el desove de un grupo de reproductores antes de los plazos señalados precedentemente, si se acredita la maduración temprana, en forma natural o no programada, de dicho grupo mantenido en piscicultura.
 
-En ningún caso se permitirá el traslado de reproductores de la especie Salmo salar desde centros de engorda a pisciculturas.
+Se prohíbe el traslado de las especies del grupo Salmónidos desde centros de engorda emplazados en mar hacia pisciculturas, independientemente del fin. Excepcionalmente, se autorizará el traslado indicado para rescatar alguna característica fenotípica de interés, lo cual deberá ser autorizado por la Subsecretaría como una actividad de experimentación, sin que se pueda superar la cantidad de 1.000 ejemplares.
+
+Se prohíbe el desarrollo de pruebas o desafíos de campo relacionadas con materias sanitarias en centros de reproducción. Solo se autorizará la realización de ensayos que no presenten riesgos sanitarios ni ambientales sometiéndose a las exigencias de las actividades de experimentación.
+
+Cuando un centro de reproductores retome actividades de cultivo diferentes a la reproducción, antes de realizar la siembra de nuevos ejemplares, deberá cumplir con lo establecido en el artículo 23 R y someterse al descanso coordinado de la agrupación de concesiones de la que forme parte.
 
 ### Párrafo 3º
+
+De la reproducción en centros emplazados en mar sometidos al régimen de reproducción conforme a un programa de mejoramiento genético
+
+#### Artículo 23
+
+D bis. Los centros de cultivo emplazados en mar que sean sometidos al régimen de reproducción conforme a un programa de mejoramiento genético, deberán dar cumplimiento a las siguientes condiciones:
+
+a) Se deberá destinar el centro de cultivo emplazado en mar exclusivamente a la mantención de reproductores;
+
+b) El proyecto técnico del centro de cultivo deberá incluir una declaración referida a que la concesión formará parte de un programa de mejoramiento genético de reproductores. Dicho proyecto deberá indicar expresamente la mantención de reproductores de cualquiera de las especies comprendidas en el grupo de Salmónidos indicado en el artículo 21 bis del DS Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción;
+
+c) El número máximo de ejemplares a mantener en el centro de reproducción respecto de otros centros de cultivo de especies salmónidas, sean de reproductores, engorda, smoltificación o de acopio, será el que se indica en cada caso:
+
+.
+
+No podrán someterse al régimen de reproducción conforme a un programa genético, los centros que se ubiquen a menos de 0,5 millas náuticas respecto de los demás centros de especies salmónidas de reproductores, engorda, smoltificación o de acopio;
+
+d) Contar con un programa de mejoramiento genético de reproductores aprobado por resolución de la Subsecretaría;
+
+e) Previo al inicio de la operación y en el caso que previamente hubiere operado para una etapa distinta que la reproducción, el centro de cultivo deberá realizar un descanso sanitario de al menos seis meses, de conformidad con el artículo 23 R.
+
+#### Artículo 23
+
+D ter. El programa de mejoramiento genético de reproductores a que se refiere la letra d) del artículo anterior, deberá ser presentado a la Subsecretaría por el titular de la concesión, al menos seis meses antes del inicio de la operación programada. Dicho programa deberá indicar el plazo de ejecución del mismo.
+
+En el plazo de dos meses contados desde la admisión a trámite, la Subsecretaría deberá pronunciarse mediante resolución. En los casos en que la solicitud dé cumplimiento a los contenidos exigidos de acuerdo al artículo 23 D quáter, la Subsecretaría aprobará el programa y deberá establecer la frecuencia de entrega de los informes de avance de dicho programa, en atención a la metodología que este último presente. En los casos en que falten antecedentes para el pronunciamiento, la Subsecretaría remitirá carta al titular para que complete la solicitud en el plazo de 20 días hábiles. En los casos que existan inconsistencias, se rechazará la solicitud.
+
+Conforme a los resultados obtenidos, se podrá ampliar el plazo de ejecución del programa, previa solicitud del titular presentada al menos tres meses antes del vencimiento del plazo de ejecución original.
+
+#### Artículo 23
+
+D quáter. El programa de mejoramiento genético deberá dar cumplimiento a lo siguiente:
+
+a) Contar con un registro que indique las características fenotípicas que se requieren trabajar;
+
+b) Contar con un sistema de identificación por cada ejemplar que será mantenido en el mar;
+
+c) Indicar el diseño de las actividades a desarrollar, objetivos, metodología, resultados esperados, especie o especies, según corresponda, y número de ejemplares máximo que considerará el programa;
+
+d) Indicar el o los centros de cultivo que serán parte del programa, incluidas las pisciculturas, las cuales deberán considerar en su proyecto técnico la etapa de reproducción.
+
+Se podrá adicionar cualquier otra información relevante para los fines del programa propuesto.
+
+En el caso que el programa comprenda centros de cultivo de un titular distinto, deberá existir un contrato de arriendo para el uso de dichos centros en un programa genético, debidamente inscrito en el registro de concesiones que lleva la Subsecretaría, de conformidad con el artículo 81 de la ley.
+
+#### Artículo 23
+
+D quinquies. Los centros de cultivo sometidos al régimen de reproducción conforme a un programa de mejoramiento genético, no estarán sometidos al plazo para la siembra previsto en el inciso 3º del artículo 23 Ñ, ni al descanso sanitario coordinado de la agrupación en la cual se encuentre emplazado, ni estarán sometidos al procedimiento de fijación de densidad de cultivo por agrupación contemplado en el Título XIV de este reglamento. En estos casos, la densidad podrá ser fijada por la Subsecretaría, previo informe técnico. En el caso que el centro modifique su destino para ser utilizado en engorda, para el primer período productivo en que opere bajo dicha modalidad, una vez excluido del programa de mejoramiento genético, no se considerarán para los efectos del Título XIV de este reglamento la información generada bajo la modalidad de centro de reproducción y deberá someterse a la densidad de cultivo por agrupación fijada para aquella de la cual es integrante.
+
+Se podrá autorizar el traslado de ejemplares desde centros sometidos al régimen de reproducción conforme a un programa de mejoramiento genético hacia centros emplazados en tierra cuyo proyecto técnico considere la etapa de reproducción, en cualquier momento, sin someterse a un plazo de permanencia previo al desove, mientras esté vigente el programa de mejoramiento genético y el o los centros estén comprendidos en él. No obstante, el titular deberá trasladar los ejemplares a centros emplazados en tierra previo al desove.
+
+Se podrá autorizar el traslado de ejemplares entre centros sometidos al régimen de reproducción conforme a un programa de mejoramiento genético, en cualquier momento, mientras esté vigente el programa y el o los centros estén contenidos en él, respetando en todo momento el número máximo de ejemplares a mantener que corresponda.
+
+En todos los traslados a que se refieren los incisos anteriores, se deberán cumplir con las condiciones sanitarias y certificaciones que establezca el Servicio en los programas sanitarios correspondientes conforme al artículo 12.
+
+En el caso de retomar actividades diferentes a la reproducción, el centro deberá dar cumplimiento previamente a lo establecido en el inciso final del artículo 23 D.
+
+Se aplicará a los centros sometidos al régimen de reproducción conforme a un programa de mejoramiento genético el inciso 4º del artículo 23 D".
+
+#### Artículo 23
+
+D sexies. La Subsecretaría evaluará la correcta ejecución del programa de mejoramiento genético a través de los informes de avance que sean dispuestos en la resolución que aprobó dicho programa.
+
+La Subsecretaría dejará sin efecto la resolución que aprueba el programa de mejoramiento genético en los casos en que el titular no dé cumplimiento a lo comprometido en dicho programa o se constate por el Servicio dicho incumplimiento. En este caso, en el centro emplazado en mar solo podrá mantener reproductores en la medida que dicha etapa está comprendida en el proyecto técnico y cumpla con las condicionas previstas en el párrafo 2º de este Título.
+
+### Párrafo 4º
 
 De la reproducción en pisciculturas
 
@@ -1156,7 +1226,7 @@ El traslado de reproductores desde el mar hacia pisciculturas, deberá estar res
 
 Los titulares de pisciculturas que destinen un grupo o grupos de especies hidrobiológicas a reproducción, manteniéndolas todo su ciclo de vida en dichos centros, deberán informarlo al Servicio. El grupo de especies respectivo deberá ser sometido a los planes de vigilancia y control sanitario que establezca el Servicio. Se deberán garantizar los suministros de agua de acuerdo a lo indicado en el inciso 1º.
 
-### Párrafo 4º
+### Párrafo 5º
 
 De la obtención de gametos
 
@@ -1186,7 +1256,7 @@ En el caso de conservación de gametos, la información referida a su origen deb
 
 H. Derogado
 
-### Párrafo 5º
+### Párrafo 6º
 
 De la incubación de ovas
 
@@ -1224,7 +1294,7 @@ Inciso Eliminado.
 
 Cada centro de incubación de ova verde deberá mantener respaldo de los análisis de laboratorio realizados a los padres y la constancia de eliminación de gametos positivos. No se considerará necesario que esta documentación esté disponible en los centros que reciban únicamente ova ojo.
 
-### Párrafo 6º
+### Párrafo 7º
 
 De los centros emplazados en agua dulce y de las pisciculturas
 
@@ -1278,7 +1348,7 @@ Las pisciculturas que reciban ejemplares o gametos desde pisciculturas que sean 
 
 Las pisciculturas que mantengan reproductores deberán contar con tratamiento de efluentes. Exceptúase de esta exigencia a las pisciculturas que toman y descargan agua de un mismo curso o cuerpo de agua que nace, corre y muere dentro de la misma heredad.
 
-### Párrafo 7º
+### Párrafo 8º
 
 De los centros de engorda
 
@@ -1318,7 +1388,7 @@ En virtud del desdoble que se realice conforme las condiciones indicadas en el i
 
 En los casos en que el titular del centro de cultivo requiera realizar desdobles en condiciones diferentes a las indicadas en los incisos anteriores, deberá requerir la autorización del Servicio. Con todo, las eliminaciones de ejemplares que se originen en estas autorizaciones serán consideradas pérdidas conforme a las reglas generales.
 
-El plan de siembra de los ejemplares, las dimensiones de las estructuras de cultivo y el sistema de cosecha a utilizar en el centro deberán ser comunicados a la Subsecretaría, el 15 de febrero o 16 de agosto según corresponda de acuerdo al semestre fijado para la determinación de la densidad de cultivo de la agrupación, conforme al inciso 2° del artículo 58 M, indicando las especies a sembrar, el número de ejemplares, la identificación de los centros de cultivo a operar, rango de inicio de siembra, número de peces que permanecen en cultivo, meses que restan para terminar el ciclo productivo en curso y deberá adjuntarse una declaración jurada que indique la especie, centro de origen y cantidad de alevines, smolt o juveniles que serán parte del período productivo. Esta información se entregará en un formulario que pondrá a disposición la Subsecretaría a través de su página web. Una vez dictada la resolución que fija la densidad de cultivo para la agrupación respectiva y previo a realizar la siembra efectiva del centro de cultivo, el Servicio revisará el estatus sanitario del centro, agrupación o zona y verificará el cumplimiento de los requisitos exigidos para la siembra por uno o más programas sanitarios específicos, cuando corresponda y que el número ejemplares a sembrar se encuentre dentro de lo autorizado por la resolución de calificación ambiental vigente para el centro de cultivo, cuando proceda. En el evento que de la revisión de los antecedentes se derive el incumplimiento de algunas de las condiciones para proceder a la siembra en el centro de cultivo respectivo, incluyendo las establecidas en las disposiciones del Título XIV del presente reglamento, en lo que corresponda. el Servicio deberá notificar esta circunstancia dentro del plazo de un mes desde la presentación quedando prohibida dicha actividad.
+El plan de siembra de los ejemplares, las dimensiones de las estructuras de cultivo y el sistema de cosecha a utilizar en el centro deberán ser comunicados a la Subsecretaría, el 15 de febrero o 16 de agosto según corresponda de acuerdo al semestre fijado para la determinación de la densidad de cultivo de la agrupación, conforme al inciso 2° del artículo 58 M, indicando las especies a sembrar, el número de ejemplares, la identificación de los centros de cultivo a operar, rango de inicio de siembra, número de peces que permanecen en cultivo, meses que restan para terminar el ciclo productivo en curso y deberá adjuntarse una declaración jurada que indique la especie, centro de origen y cantidad de alevines, smolt o juveniles que serán parte del período productivo. Esta información se entregará en un formulario que pondrá a disposición la Subsecretaría a través de su página web. Un mes antes de realizar la siembra efectiva del centro de cultivo, el titular deberá entregar al Servicio la información relativa a dicha siembra. Conforme a dicha información el Servicio revisará el estatus sanitario del centro, agrupación o zona y verificará el cumplimiento de los requisitos exigidos para la siembra por uno o más programas sanitarios específicos, cuando corresponda y que el número ejemplares a sembrar se encuentre dentro de lo autorizado por la resolución de calificación ambiental vigente para el centro de cultivo, cuando proceda. En el evento que de la revisión de los antecedentes se derive el incumplimiento de algunas de las condiciones para proceder a la siembra en el centro de cultivo respectivo, incluyendo las establecidas en las disposiciones del Título XIV del presente reglamento, en lo que corresponda. el Servicio deberá notificar esta circunstancia dentro del plazo de un mes desde la presentación quedando prohibida dicha actividad.
 
 El titular de la concesión deberá comunicar a la Subsecretaría el momento en que se inicie el último mes de cosecha del ciclo productivo en curso, para lo cual se dispondrá de un formulario en la página web de la Subsecretaría..
 
@@ -1326,19 +1396,27 @@ En el plazo de un mes, contado desde el término de la siembra del ciclo product
 
 Las declaraciones antes señaladas deberán ser entregadas de acuerdo al formato disponible en la página web de la Subsecretaría.
 
-En el caso que la declaración de siembra efectiva no coincida con lo declarado como proyección de siembra para el período productivo respectivo, se hará la denuncia por información falsa conforme al artículo 113 de la ley, salvo que se acredite la existencia de los peces que se había proyectado sembrar.
+En el caso que la declaración de siembra efectiva no coincida con lo indicado en la resolución que hubiere fijado la densidad de cultivo de la agrupación respectiva para el período productivo respectivo, se hará la denuncia por información falsa conforme al artículo 113 de la ley, salvo que se acredite la existencia de los peces que se había proyectado sembrar. El Servicio revisará esta situación dentro del ciclo productivo en curso respectivo.
 
 #### Artículo 24
 
-A. La clasificación de bioseguridad de los centros de engorda dependerá del nivel de las pérdidas de ejemplares producidas durante el ciclo productivo inmediatamente anterior. Para tales efectos, se entenderá por pérdidas del ciclo productivo respectivo, la diferencia, expresada en porcentaje, entre el número de ejemplares ingresados al inicio del ciclo y las cosechas cuyo destino final sea una planta elaboradora de productos para consumo humano directo, contabilizadas hasta un mes antes del término del ciclo productivo, salvo aquellas que hayan sido ordenadas obligatoriamente por el Servicio por la aplicación de programas sanitarios específicos o como medida de emergencia. No se considerarán pérdidas, las cosechas que estén consideradas en el certificado sanitario de movimiento para ser efectuadas el último mes. Tampoco se considerarán las pérdidas que se originen en accidentes provocados por el choque de embarcaciones con las estructuras de cultivo, las derivadas de floraciones algales nocivas o de catástrofes naturales o las verificadas por los muestreos realizados en cumplimiento de los programas sanitarios o de medidas de emergencia, dispuestos por el Servicio. No se considerarán pérdidas, asimismo, los ejemplares que sean eliminados por el desdoble que sea realizado conforme lo indicado en el artículo 24.
+A. La clasificación de bioseguridad de los centros de engorda dependerá del nivel de las pérdidas de ejemplares producidas durante el ciclo productivo inmediatamente anterior. Para tales efectos, se entenderá por pérdidas del ciclo productivo respectivo, la diferencia, expresada en porcentaje, entre el número de ejemplares ingresados al inicio del ciclo y las cosechas cuyo destino final sea una planta elaboradora de productos para consumo humano directo, contabilizadas hasta el término del ciclo productivo, salvo aquellas que hayan sido ordenadas obligatoriamente por el Servicio por la aplicación de programas sanitarios específicos o como medida de emergencia. No se considerarán las pérdidas que se originen en accidentes provocados por el choque de embarcaciones con las estructuras de cultivo, las derivadas de floraciones algales nocivas o de catástrofes naturales o las verificadas por los muestreos realizados en cumplimiento de los programas sanitarios o de medidas de emergencia, dispuestos por el Servicio. No se considerarán pérdidas, asimismo, los ejemplares que sean eliminados por el desdoble que sea realizado conforme lo indicado en el artículo 24 ni los peces que hayan sido eliminados de conformidad con lo dispuesto en el programa sanitario específico de vigilancia y control de Piscirickettsiosis, establecido por el Servicio y siempre que se cumplan las condiciones que se señalan a continuación:
 
-Los centros de cultivo que queden clasificados en tramos considerados de bioseguridad media y baja conforme a la clasificación de bioseguridad establecida por la Subsecretaría, deberán reducir el número de ejemplares a ingresar al centro de cultivo en el ciclo productivo siguiente. El número de ejemplares a reducir se expresará en un porcentaje del número de ejemplares ingresados en el ciclo productivo que dio lugar a la clasificación.
+a) Acreditar ante el Servicio, mediante un certificador de la condición sanitaria inscrito en el registro a que se refiere el artículo 122 letra k) de la ley, la circunstancia de haber eliminado peces en cumplimiento del programa a que se refiere el inciso anterior;
 
-Los equipos contadores de peces y estimadores de biomasa serán acreditados por el fabricante del equipo y declarados ante el Servicio, en el formato que pondrá a disposición en su sitio electrónico. Sólo se podrá considerar hasta en un máximo de 2% el error en que hayan podido incurrir los equipos contadores de peces y estimadores de biomasa. Este porcentaje de error será contabilizado a favor del centro de cultivo. El porcentaje de error sólo podrá ser aplicado en los casos en que el titular del centro de cultivo no haya realizado rectificaciones ni correcciones de ninguna naturaleza a la información entregada al Servicio conforme al reglamento de entrega de información a que se refiere el artículo 63 de la ley durante todo el ciclo y período productivo respectivo.
+b) Dar cumplimiento a los indicadores de reducción de uso de antimicrobianos que sean incorporados en el programa sanitario específico de vigilancia y control de Piscirickettsiosis. Tales indicadores serán establecidos por el Servicio en el mismo programa, previo informe técnico de la Subsecretaría. No se dará lugar a la excepción en el caso que conforme a los indicadores no se constate una rebaja en el uso de antimicrobianos entre ciclos productivos para un mismo centro, conforme a dichos indicadores.
+
+En el caso que en un centro de cultivo se realicen actividades de experimentación de conformidad con el artículo 67 ter de la ley, sin exceder de un máximo de 200.000 ejemplares en un ciclo productivo destinados a la experimentación, no serán contabilizadas las pérdidas que se produzcan como consecuencia del ejercicio de dichas actividades, no siendo incluidas en la clasificación de bioseguridad individual, ni consideradas en la clasificación de bioseguridad de la agrupación de la que forme parte el centro ni para el cálculo del porcentaje de reducción de siembra a que se refiere el artículo 60. Una vez culminada la actividad de experimentación y previo a volver a operar fuera de tal régimen, se deberá cumplir con un descanso sanitario de tres meses y con las exigencias del artículo 23 R.
+
+Toda solicitud de aplicación de excepciones a las pérdidas consideradas en los incisos anteriores, o de fuerza mayor que incida en el cálculo de las pérdidas, deberá ser presentada al Servicio en el plazo de 10 días hábiles contado desde la fecha de ocurrido el evento en que se funda. Vencido el plazo señalado, no podrá invocarse la excepción a las pérdidas ni la fuerza mayor respectiva. El Servicio pondrá a disposición en su página web un formulario para la presentación de este tipo de solicitudes. El Servicio se pronunciará sobre la solicitud en el plazo de dos meses.
+
+Los centros de cultivo que queden clasificados en tramos considerados de bioseguridad media y baja conforme a la clasificación de bioseguridad establecida por la Subsecretaría, deberán reducir el número de ejemplares a ingresar al centro de cultivo en el ciclo productivo siguiente. El número de ejemplares a reducir se expresará en un porcentaje del número de ejemplares ingresados en el ciclo productivo que dio lugar a la clasificación. El Servicio comunicará al titular del centro de cultivo la clasificación de bioseguridad de este último, en el plazo de un mes contado desde el término del ciclo productivo respectivo.
+
+Inciso Eliminado
 
 Por resolución de la Subsecretaría se establecerán los tramos de la clasificación de bioseguridad de los centros de cultivo, considerando las pérdidas del ciclo productivo y el porcentaje de reducción de siembra para el ciclo productivo siguiente que corresponda a cada tramo.
 
-Un mes antes del término del ciclo productivo, el Servicio deberá comunicar al titular de la concesión, el resultado de la aplicación de la clasificación de bioseguridad de que trata este artículo y del porcentaje de reducción que corresponda aplicar, en su caso.
+Inciso Eliminado.
 
 No se aplicará la disminución de la siembra en el ciclo siguiente, en los casos en que el centro de cultivo afectado descanse voluntariamente en el período productivo inmediatamente siguiente a aquel que originó la disminución.
 
@@ -1712,6 +1790,42 @@ La aplicación de los tratamientos terapéuticos requerirá un diagnóstico clí
 
 Los productos farmacéuticos utilizados deberán administrarse según las indicaciones de la prescripción médico veterinaria, la que deberá ajustarse a la ley Nº18.755 y sus normas complementarias o la normativa que la reemplace.
 
+Las prescripciones médico-veterinarias deberán dar cumplimiento al formato establecido al efecto por el Servicio, y deberán contener, según corresponda, al menos la siguiente información:
+
+a) Código y nombre del centro de cultivo;
+
+b) Titular del centro de cultivo;
+
+c) Arrendatario u otro quien se encontrare ejerciendo la actividad de cultivo en el centro;
+
+d) Nombre, RUT y domicilio del médico veterinario que realiza la prescripción;
+
+e) Diagnóstico en que se funda;
+
+f) Producto farmacéutico prescrito (principio activo y nombre comercial);
+
+g) Posología (dosis y frecuencia de tratamiento);
+
+h) Vía de administración;
+
+i) Fecha estimada de inicio y término del tratamiento;
+
+j) Especies a tratar;
+
+k) Unidades de cultivo en las cuales se aplicará el tratamiento farmacológico y número de peces y peso promedio por unidad de cultivo;
+
+l) Total de droga pura y droga comercial a utilizar;
+
+m) Proveedor del producto farmacológico;
+
+n) Carencia requerida de atención a unidades térmicas acumuladas;
+
+ñ) Planta elaboradora del alimento con producto farmacológico;
+
+o) Total de alimento con producto farmacológico utilizado.
+
+El médico veterinario responsable de la emisión de la prescripción, deberá reportar al Servicio, al menos 48 horas antes de iniciar el tratamiento con productos farmacéuticos, la información requerida, en el formato que el Servicio disponga al efecto.
+
 Los centros de cultivo en los que se efectúen ensayos experimentales con productos terapéuticos, deberán estar autorizados por resolución del Servicio Agrícola y Ganadero y deberán llevar protocolos de aplicación y registro de datos, e informar al Servicio con al menos tres días de anticipación la fecha de aplicación e identidad de los grupos considerados en el ensayo.
 
 Prohíbese la aplicación de antimicrobianos en forma preventiva y todo uso perjudicial para la salud humana y animal.
@@ -1786,7 +1900,7 @@ a) El centro es integrante de una agrupación de concesiones que tiene descanso 
 
 b) El centro ha operado con un máximo de 600.000 peces por ciclo productivo dentro del periodo.
 
-El período productivo del grupo de especies salmónidas no podrá exceder de 24 meses, salvo en el caso de la Región de Magallanes y Antártica Chilena en que el período no podrá exceder de 33 meses dentro del cual sólo podrá operarse un ciclo productivo de Salmón del Atlántico Salmón salar o un máximo de dos ciclos productivos de cualquiera de las especies Trucha arcoiris Oncorhynchus mykiss o de Salmón coho Oncorynchus kisutch. Esta misma excepción será aplicable a las regiones de Los Lagos y de Aysén a solicitud de los titulares de los centros de cultivo integrantes de la agrupación de concesiones, siempre que se cumplan las siguientes condiciones:
+El período productivo del grupo de especies salmónidas no podrá exceder de 24 meses, salvo en el caso de la Región de Magallanes y Antártica Chilena en que el período no podrá exceder de 33 meses. En ambos casos, dentro del período productivo respectivo sólo podrá operarse un ciclo productivo de Salmón del Atlántico Salmón salar o un máximo de dos ciclos productivos de cualquiera de las especies Trucha arcoiris Oncorhynchus mykiss o de Salmón coho Oncorynchus kisutch. El Servicio no autorizará la siembra de ejemplares en la agrupación de concesiones a la que le reste menos de seis meses para iniciar el descanso sanitario coordinado. Excepcionalmente podrá aplicarse un período de 33 meses en las regiones de Los Lagos y de Aysén a solicitud de los titulares de los centros de cultivo integrantes de la agrupación de concesiones, siempre que se cumplan las siguientes condiciones:
 
 a) La agrupación no haya estado sometida a una medida de emergencia sanitaria en el último período productivo;
 
@@ -1878,6 +1992,8 @@ Podrá incorporarse además al programa de manejo individual la medida de aument
 
 El programa de manejo será suscrito por el titular mediante instrumento autorizado ante Notario y deberá ser aprobado por la Subsecretaría.
 
+El programa de manejo podrá ser presentado en el formulario que a tales efectos ponga a disposición la Subsecretaría junto a los antecedentes requeridos para su evaluación. De no presentarse en tales términos, la Subsecretaría requerirá la complementación de conformidad con el inciso 1º del artículo 31 de la ley 19.880, bajo el apercibimiento allí indicado.
+
 #### Artículo 58
 
 K. En el caso de la siembra de nuevos ejemplares a realizarse en cualquier centro de cultivo integrante de las agrupaciones, se deberá cumplir con las siguientes condiciones:
@@ -1927,6 +2043,8 @@ b) Fijación del número máximo de ejemplares a ingresar en las estructuras de 
 a) Ambiental: INFAs de los centros de cultivo integrantes de la agrupación, cuyos resultados den cuenta de una condición aeróbica;
 
 b) Sanitario: pérdidas de la agrupación, entendiendo por tales la diferencia, expresada en porcentaje, entre el número total de ejemplares ingresados al inicio del período productivo en los centros de cultivo integrantes de la agrupación y la suma de las cosechas efectivas y proyectadas, salvo las cosechas que hayan sido ordenadas obligatoriamente por el Servicio por la aplicación de programas sanitarios específicos o como medida de emergencia. Serán cosechas efectivas las contabilizadas hasta el 31 de enero o el 31 de julio, según corresponda al semestre de fijación de la densidad de cultivo de la agrupación. Serán cosechas proyectadas, el número de peces que permanecen en cultivo que haya sido informado de conformidad con el artículo 24, menos las pérdidas proyectadas. Estas últimas corresponderán a las pérdidas que resulten de multiplicar el valor promedio mensual de pérdidas obtenido hasta el 31 de enero o 31 de julio, según corresponda, por el número de meses que resten para el término del ciclo productivo en curso.
+
+Los centros integrantes de la agrupación que hayan estado sometidos al régimen de reproducción conforme a un programa de mejoramiento genético a que se refiere el párrafo 3º del Título VI, y sean excluidos del mismo para operar como centro de engorda, serán sometidos a la densidad de cultivo fijada para la agrupación de concesiones en la cual se encuentren emplazados.
 
 No se considerarán pérdidas las que se originen en accidentes provocados por el choque de embarcaciones con las estructuras, las derivadas de floraciones algales nocivas o de catástrofes naturales; o las verificadas por los muestreos realizados en cumplimiento de los programas sanitarios o de medidas de emergencia, dispuestos por el Servicio.
 
@@ -1978,7 +2096,7 @@ En la fórmula antes señalada, la letra
 
 Q. A partir de la información sobre los elementos ambiental, sanitario y productivo con que se cuente, y en el plazo de cinco días hábiles, contados desde el vencimiento del plazo para la entrega de los planes de siembra conforme al artículo 24, la Subsecretaría clasificará las agrupaciones y emitirá un informe técnico, sanitario y económico que contendrá una propuesta preliminar de densidad de cultivo para cada una de ellas, aplicando los puntajes y ponderaciones contenidas en la resolución a que se refiere el artículo 58 Ñ. Para tales efectos, la Subsecretaría utilizará la información contenida en los planes de siembra presentados al Servicio y que le hayan sido remitidos. La propuesta preliminar contendrá la densidad de cultivo para cada agrupación y centro, el número total de peces a ingresar en la agrupación en el período productivo siguiente y el número de peces a ingresar en las estructuras de cultivo de las concesiones.
 
-La propuesta antes indicada será remitida en consulta al Servicio y al Instituto de Fomento Pesquero, los que deberán entregar, sea en papel o por vía electrónica, sus observaciones en el plazo de 5 días hábiles. Una vez recibidas las observaciones e incorporadas, si corresponde, se remitirá la propuesta a los titulares de las concesiones integrantes de la agrupación. Dichos titulares tendrán el plazo de un mes para remitir sus observaciones, aportando los antecedentes que las funden.
+La propuesta antes indicada será remitida en consulta al Servicio y al Instituto de Fomento Pesquero, los que deberán entregar, sea en papel o por vía electrónica, sus observaciones en el plazo de 5 días hábiles. Una vez recibidas las observaciones e incorporadas, si corresponde, se remitirá la propuesta a los titulares de las concesiones integrantes de la agrupación. Dichos titulares tendrán el plazo de un mes para remitir sus observaciones, aportando los antecedentes que las funden. No serán consideradas las observaciones que tengan por objeto modificar el plan de siembra informada conforme al artículo 24 para cada centro de cultivo integrante de la agrupación, si ello se traduce en una nueva clasificación de bioseguridad de la agrupación en un nivel más bajo que aquella que ya ha sido informada a los titulares. En ningún caso serán consideradas nuevas proyecciones de siembra para la agrupación de concesiones que haya quedado clasificada en el nivel de bioseguridad más bajo.
 
 Vencido el plazo señalado en el inciso anterior, la Subsecretaría fijará, por resolución fundada, la densidad de cultivo definitiva. Dicha resolución se publicará en extracto en el Diario Oficial y en forma íntegra en su sitio de dominio electrónico y en el del Servicio, de conformidad con el artículo 174 de la ley.
 
@@ -1986,11 +2104,11 @@ La reclamación de la densidad fijada, así como su revisión al término del ci
 
 #### Artículo 58
 
-R. No se fijará densidad de cultivo por agrupación en el caso que las concesiones integrantes de la agrupación nunca hayan operado, cualquiera sea el motivo. En estos casos, cuando todos o algunos de los centros de cultivo integrantes de la agrupación inicien su operación, deberán hacerlo sometiéndose a la densidad de cultivo para centros de engorda, fijada por resolución vigente del Servicio. La densidad de cultivo por agrupación en estos casos, será fijada una vez cumplido el primer período productivo con operación de las concesiones integrantes de la agrupación.
+R. No se fijará densidad de cultivo por agrupación en el caso que las concesiones integrantes de la agrupación nunca hayan operado, cualquiera sea el motivo o no lo hayan hecho en un primer período productivo. En estos casos, cuando todos o algunos de los centros de cultivo integrantes de la agrupación inicien su operación, deberán hacerlo sometiéndose a la densidad de cultivo para centros de engorda, fijada por resolución vigente de la Subsecretaría. La densidad de cultivo por agrupación en estos casos, será fijada una vez cumplido el primer período productivo con operación de las concesiones integrantes de la agrupación.
 
-Las concesiones nuevas entregadas por la Autoridad Marítima antes de seis meses del inicio del descanso coordinado, fijado para la agrupación, deberán hacer entrega de su plan de siembra de conformidad con el artículo 24 y quedarán sometidas a la densidad de cultivo que sea fijada para la agrupación respectiva. Las concesiones nuevas entregadas por la Autoridad Marítima en una fecha posterior a los seis meses antes del inicio del descanso coordinado, fijado para la agrupación o en una fecha posterior, sea del descanso o del período productivo, no se someterán a la densidad de cultivo de la misma sino a la que haya fijado el Servicio para los centros de cultivo de engorda. Estas disposiciones no serán aplicables a las concesiones que hayan sido otorgadas en virtud de una relocalización.
+Las concesiones nuevas entregadas por la Autoridad Marítima antes de seis meses del inicio del descanso coordinado, fijado para la agrupación, deberán hacer entrega de su plan de siembra de conformidad con el artículo 24 y quedarán sometidas a la densidad de cultivo que sea fijada para la agrupación respectiva. Las concesiones nuevas entregadas por la Autoridad Marítima en una fecha posterior a los seis meses antes del inicio del descanso coordinado, fijado para la agrupación o en una fecha posterior, sea del descanso o del período productivo, no se someterán a la densidad de cultivo de la misma sino a la que haya fijado la Subsecretaría para los centros de cultivo de engorda. Estas disposiciones no serán aplicables a las concesiones que hayan sido otorgadas en virtud de una relocalización.
 
-A la densidad de cultivo que hubiere fijado el Servicio por resolución vigente para centros de engorda quedarán también sometidas las agrupaciones en que hayan operado menos del 10% de las concesiones integrantes de las mismas en los dos últimos períodos productivos y siempre que hayan obtenido una clasificación de bioseguridad alta, de conformidad con el artículo 24 A.
+A la densidad de cultivo que hubiere fijado la Subsecretaría por resolución vigente para centros de engorda quedarán también sometidas las agrupaciones en que hayan operado menos del 10% de las concesiones integrantes de las mismas en los dos últimos períodos productivos y siempre que hayan obtenido una clasificación de bioseguridad alta, de conformidad con el artículo 24 A.
 
 #### Artículo 58
 
@@ -1998,7 +2116,27 @@ S. En los casos en que la agrupación hubiere obtenido una clasificación en bio
 
 #### Artículo 58
 
-T. No se autorizarán siembras en los centros de cultivo integrantes de la agrupación una vez alcanzado el número máximo de peces a ingresar.
+T. No se autorizarán siembras en los centros de cultivo integrantes de la agrupación una vez alcanzado el número máximo de peces a ingresar a la misma. Excepcionalmente, en el caso que el titular del centro de cultivo invoque los resultados negativos de un INFA de un centro de su titularidad en la misma o en otra agrupación que le impide sembrar en él los ejemplares que se habían planificado, cuyo origen y existencia deberá acreditar, se podrá ingresar mayor número de ejemplares a la agrupación. En cualquier caso, estará prohibida la siembra de un número mayor de peces que aquel que estaba previsto para el centro con resultados negativos en INFA.
+
+El traslado de siembra podrá efectuarse a uno o varios centros de cultivo pertenecientes a la misma o a distintas agrupaciones de concesiones. Cuando la excepción a que se refiere el inciso anterior consista en un traslado de siembra a otra agrupación, estará sometida a las siguientes condiciones:
+
+a) El traslado de siembra solo podrá efectuarse a una agrupación de concesiones que haya obtenido una clasificación en bioseguridad alta o media en el período productivo inmediatamente anterior. En ningún caso podrán trasladarse siembras a centros de cultivo integrantes de agrupaciones de concesiones que hubieren obtenido una clasificación en bioseguridad baja;
+
+b) El centro de cultivo al que se traslade la siembra deberá ser del mismo titular al que pertenece el centro que obtuvo los resultados negativos en el informe ambiental;
+
+c) La siembra a trasladar corresponderá al número de ejemplares que resulte de la aplicación del artículo 24 A;
+
+d) El centro de cultivo al que se traslade la siembra estará sometido a la densidad de cultivo de la agrupación de concesiones a la que pertenece, al número máximo de ejemplares a ingresar por estructura de cultivo fijada para los centros de la misma y al porcentaje máximo fijado por la Subsecretaría para la agrupación respectiva de conformidad con el artículo 61 A;
+
+e) En ningún caso el traslado de la siembra podrá implicar que se supere el número máximo de ejemplares determinado para el centro de destino por aplicación del artículo 24 A;
+
+f) El número de ejemplares a ingresar al centro de cultivo al que se traslade la siembra, no podrá exceder el autorizado en la resolución de calificación ambiental de dicho centro, cuando corresponda.
+
+Una resolución de la Subsecretaría establecerá el porcentaje máximo en que se podrá sobrepasar el número máximo de peces a ingresar a las agrupaciones de concesiones por el motivo indicado en el presente artículo, el que en todo caso deberá ser inferior en las agrupaciones de concesiones que sean clasificadas en bioseguridad media.
+
+El Servicio deberá informar semestralmente a la Subsecretaría, acerca de los centros de cultivo que se hayan acogido a esta excepción.
+
+En el caso que la excepción consista en el traslado de siembra a otro centro de cultivo de la misma agrupación, serán aplicables las condiciones indicadas en las letras b), c), e) y f) del inciso 2º de este artículo.
 
 El número máximo de peces a sembrar en una agrupación de concesiones corresponderá a la suma de ejemplares que consten en todas las declaraciones informadas por los titulares de los centros de cultivo de la agrupación de concesiones de acuerdo al artículo 24 del presente reglamento, descontado el número que corresponda por la reducción de siembra que haya sido aplicada de conformidad con el artículo 24 A.
 
@@ -2014,7 +2152,7 @@ V. Las disposiciones del presente Título, no se aplicarán a la especie Salmón
 
 #### Artículo 59
 
-La densidad de cultivo no se aplicará en caso que el titular de una o más concesiones de la misma agrupación suscriba un programa de manejo para someter a la medida de porcentaje de reducción de siembra individual a los centros de cultivo de que sea titular dentro de dicha agrupación para el próximo período productivo. Tampoco se aplicará la densidad de cultivo de que trata este Título en caso que el titular de una o más concesiones de la misma agrupación ya tenga vigente un programa de manejo suscrito por más de un período productivo, que haya incluido la medida de porcentaje de reducción de siembra individual para todos los centros de cultivo de que sea titular. Con todo, aun en caso de tener vigente un programa de manejo individual suscrito por más de un período productivo, no se aplicará la medida de porcentaje de reducción de siembra individual si se verifica la condición señalada en el inciso 2° del artículo 60.
+La densidad de cultivo por agrupación no se aplicará al o a los centros de cultivo integrantes de ella cuyo titular suscriba un programa de manejo para someter a la medida de porcentaje de reducción de siembra a todos los centros de cultivo de que sea titular y que correspondan al mismo semestre de fijación de la densidad para el próximo período productivo. Tampoco se aplicará la densidad de cultivo por agrupación a una o más concesiones integrantes de ella cuyo titular ya tenga vigente un programa de manejo suscrito por más de un período productivo, que haya incluido la medida de porcentaje de reducción de siembra individual para todos los centros de cultivo de que sea titular. Con todo, aun en caso de tener vigente un programa de manejo individual suscrito por más de un período productivo, no se aplicará la medida de porcentaje de reducción de siembra individual si se verifica la condición señalada en el inciso 2° del artículo 60. La opción por el porcentaje de reducción de siembra podrá ser comunicada a la Subsecretaría por el titular a quien fue otorgada la concesión o por el controlador del grupo empresarial. En el evento que ambos titulares hubieren efectuado una comunicación a la Subsecretaría y ella fuere contradictoria, la opción por el porcentaje de reducción de siembra será rechazada.
 
 Para los efectos del porcentaje de reducción de siembra se considerará titular de las concesiones tanto a aquel a quien se haya otorgado la concesión como al controlador del grupo empresarial en el que se encuentre la persona jurídica a quien se le otorgó la concesión en los términos previstos en el artículo 96 de la ley 18.045. La calidad de controlador deberá ser acreditada a la Subsecretaría, conforme a la normativa vigente, en el mes de enero y de julio, dependiendo si la fijación de la densidad de cultivo debe realizarse para la agrupación en los meses de abril u octubre, respectivamente.
 
@@ -2031,6 +2169,8 @@ a) Pérdidas del o de los centros de cultivo del mismo titular, conforme a lo in
 b) Indicadores sanitarios de todos los centros de cultivo del mismo titular, asociados a una enfermedad o infección sometida a un programa específico de control, que se vean deteriorados en la medida en que aumentan los niveles de biomasa.
 
 Una resolución de la Subsecretaría fijará los indicadores sanitarios que deberán ser considerados en el caso de la letra b) y la ponderación de las variables indicadas en las letras a) y b). La misma resolución establecerá los porcentajes de reducción de siembra individual que sean procedentes, conforme a la clasificación de bioseguridad del o de los centros de cultivo del mismo titular, según corresponda.
+
+El porcentaje de reducción de siembra se calculará sobre los abastecimientos inmediatamente anteriores al periodo productivo para el cual deba fijarse. Si la intención de siembra informada en la oportunidad que señala el artículo 24, es menor al abastecimiento anterior, el porcentaje de reducción de siembra corresponderá a la diferencia que entre ambos números resulte, la que se expresará en el porcentaje que tal diferencia represente respecto del abastecimiento anterior. En ningún caso el número de peces a sembrar que resulte de aplicar el porcentaje de reducción de siembra puede ser mayor al número de peces que el titular declare en la oportunidad que se señala en el artículo 24.
 
 #### Artículo 61
 
@@ -2058,7 +2198,7 @@ En el evento que uno o más titulares de centros de cultivo integrantes de la ag
 
 #### Artículo 62
 
-La propuesta de porcentaje de reducción de siembra será remitida por la Subsecretaría a los titulares de las concesiones de cada agrupación conjuntamente con la propuesta correspondiente a la densidad de cultivo para la misma. Además deberá indicarse el límite máximo de crecimiento para la agrupación por recepción de peces provenientes de porcentaje de reducción de siembra y la prioridad que tiene el titular para redistribuir peces dentro de la agrupación.
+La propuesta de porcentaje de reducción de siembra será remitida por la Subsecretaría a los titulares de las concesiones de cada agrupación conjuntamente, cuya densidad deba ser fijada en el semestre respectivo, con la propuesta correspondiente a la densidad de cultivo para la misma. Además deberá indicarse el límite máximo de crecimiento para la agrupación por recepción de peces provenientes de porcentaje de reducción de siembra y la prioridad que tiene el titular para redistribuir peces dentro de la agrupación.
 
 El programa de manejo mediante el cual el titular optará por someterse al porcentaje de reducción de siembra individual, en reemplazo de la aplicación de la densidad de cultivo por agrupación al o a los centros de su titularidad, deberá ser presentado a la Subsecretaría en el plazo de 7 días hábiles contados desde la fecha de remisión de las propuestas de densidad y de porcentaje de reducción de siembra.
 
@@ -2082,7 +2222,7 @@ De verificarse algunas de las condiciones indicadas en el inciso anterior, la re
 
 En los casos en que se aplique el porcentaje de reducción de siembra individual, no se aplicará la reducción de siembra prevista en el artículo 24 A para los centros de cultivo sometidos a dicho porcentaje.
 
-Todos los centros de cultivo de un titular dentro de una misma agrupación deberán quedar sometidos a idéntico régimen, sea de densidad de cultivo o de porcentaje de reducción de siembra individual.
+Todos los centros de cultivo de un titular dentro del mismo semestre deberán quedar sometidos a idéntico régimen, sea de densidad de cultivo o de porcentaje de reducción de siembra individual.
 
 ## Título XV
 

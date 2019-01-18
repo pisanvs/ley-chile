@@ -756,6 +756,10 @@ conforme al programa sanitario
 
 específico.
 
+Solo se podrá considerar hasta un máximo de 2% el error en que hayan podido incurrir los equipos contadores de peces y estimadores de biomasa. Este porcentaje de error solo podrá ser aplicado en los casos en que el titular del centro de cultivo no haya realizado rectificaciones ni correcciones de ninguna naturaleza a la información entregada al Servicio conforme al presente reglamento, durante todo el ciclo y período productivo respectivo.
+
+Los equipos contadores de peces y estimadores de biomasa serán acreditados por el fabricante del equipo y declarados ante el Servicio, en el formato que pondrá a disposición en su sitio electrónico.
+
 #### Artículo 8º
 
 La oportunidad, condiciones y periodicidad de las declaraciones deben regirse por lo que a continuación se señala:
