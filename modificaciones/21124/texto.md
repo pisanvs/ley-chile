@@ -1,0 +1,149 @@
+LEY NÚM. 21.124
+
+MODIFICA EL DECRETO LEY N° 321, DE 1925, QUE ESTABLECE LA LIBERTAD CONDICIONAL PARA LOS PENADOS
+
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al proyecto de ley originado en una moción de los Honorables Senadores señores Pedro Araya Guerrero y Felipe Harboe Bascuñán y de los ex Senadores señores Alberto Espina Otero y Hernán Larraín Fernández,
+
+Proyecto de ley:
+
+#### Artículo primero
+
+<!-- parte:9990403 -->
+
+Introdúcense las siguientes modificaciones al Decreto-lei N° 321, de 1925, del Ministerio de Justicia, que establece la libertad condicional para los penados:
+
+Uno) Reemplázase el nombre del Decreto-Lei N° 321, de 1925, del Ministerio de Justicia, por el siguiente:
+
+"Decreto ley N° 321, que establece la Libertad Condicional para las personas condenadas a penas privativas de libertad".
+
+Dos) Sustitúyese el artículo 1° por el siguiente:
+
+"Artículo 1º.- La libertad condicional es un medio de prueba de que la persona condenada a una pena privativa de libertad y a quien se le concediere, demuestra, al momento de postular a este beneficio, avances en su proceso de reinserción social.
+
+La libertad condicional es un beneficio que no extingue ni modifica la duración de la pena, sino que es un modo particular de hacerla cumplir en libertad por la persona condenada y según las disposiciones que se regulan en este decreto ley y en su reglamento.".
+
+Tres) Sustitúyese el artículo 2° por el siguiente:
+
+"Artículo 2°.- Toda persona condenada a una pena privativa de libertad de más de un año de duración podrá postular al beneficio de libertad condicional, siempre que cumpla con los siguientes requisitos:
+
+1) Haber cumplido la mitad de la condena que se le impuso por sentencia definitiva, o los tiempos establecidos en los artículos 3º, 3° bis y 3° ter. Si la persona condenada estuviere privada de libertad cumpliendo dos o más penas, o si durante el cumplimiento de éstas se le impusiere una nueva, se sumará su duración, y el total que así resulte se considerará como la condena impuesta para estos efectos. Si hubiere obtenido, por gracia, alguna rebaja o se le hubiere fijado otra pena, se considerará ésta como condena definitiva.
+
+2) Haber observado conducta intachable durante el cumplimiento de la condena. Será calificado con esta conducta la persona condenada que tenga nota "muy buena", de conformidad al reglamento de este decreto ley, en los cuatro bimestres anteriores a su postulación. En caso que la condena impuesta no excediere de quinientos cuarenta y un días, se considerará como conducta intachable haber obtenido nota "muy buena" durante los tres bimestres anteriores a su postulación.
+
+3) Contar con un informe de postulación psicosocial elaborado por un equipo profesional del área técnica de Gendarmería de Chile, que permita orientar sobre los factores de riesgo de reincidencia, con el fin de conocer sus posibilidades para reinsertarse adecuadamente en la sociedad. Dicho informe contendrá, además, los antecedentes sociales y las características de personalidad de la persona condenada, dando cuenta de la conciencia de la gravedad del delito, del mal que éste causa y de su rechazo explícito a tales delitos.".
+
+Cuatro) Sustitúyese el artículo 3° por el siguiente:
+
+"Artículo 3°.- Las personas condenadas a presidio perpetuo calificado sólo podrán postular a la libertad condicional una vez que hubieren cumplido cuarenta años de privación de libertad efectiva. Si la solicitud del beneficio fuere rechazada, no podrá deducirse nuevamente sino después de transcurridos dos años desde su última presentación.
+
+Las personas condenadas a presidio perpetuo sólo podrán postular al beneficio de la libertad condicional una vez cumplidos veinte años de privación de libertad.
+
+Asimismo, las personas condenadas por los delitos de parricidio, femicidio, homicidio calificado, robo con homicidio, violación con homicidio, violación, infanticidio, y por los delitos contemplados en el número 2° del artículo 365 bis y en los artículos 366 bis, 366 quinquies, 367, 411 quáter, 436 y 440, todos del Código Penal, homicidio de miembros de las policías, de integrantes del Cuerpo de Bomberos de Chile y de Gendarmería de Chile, en ejercicio de sus funciones, y el de elaboración o tráfico de estupefacientes, sólo podrán postular a este beneficio cuando hubieren cumplido dos tercios de la pena.
+
+Las personas condenadas a dos o más penas, cuya suma alcance o supere los cuarenta años de privación de libertad, sólo podrán postular al beneficio de libertad condicional una vez que hayan cumplido veinte años de reclusión. En caso de concederse, el período de supervisión a que se refiere el artículo 8° se extenderá hasta cumplir cuarenta años contados desde el inicio de la condena.
+
+Las personas condenadas por los incisos tercero y cuarto del artículo 196 de la ley Nº 18.290, de Tránsito, podrán postular a este beneficio sólo una vez que hayan cumplido dos tercios de la condena.
+
+Las personas condenadas a presidio perpetuo por delitos contemplados en la ley N° 18.314, que determina conductas terroristas y fija su penalidad y, además condenadas por delitos sancionados en otros cuerpos legales, podrán postular al beneficio de la libertad condicional una vez que hayan cumplido diez años de pena, siempre que los hechos punibles hayan ocurrido entre el 1 de enero de 1989 y el 1 de enero de 1998 y suscriban, en forma previa, una declaración que contenga una renuncia inequívoca al uso de la violencia.".
+
+Cinco) Intercálanse los siguientes artículos 3° bis y 3° ter, nuevos:
+
+"Artículo 3º bis.- Las personas condenadas por delitos de homicidio, homicidio calificado, secuestro, secuestro calificado, sustracción de menores, detención ilegal, inhumación o exhumación ilegal, tormentos o rigor innecesario, y asociación ilícita, que la sentencia, en conformidad al derecho internacional, hubiere considerado como genocidio, crímenes de lesa humanidad o crímenes de guerra, cualquiera haya sido la denominación o clasificación que dichas conductas hubieren tenido al momento de su condena; o por alguno de los delitos tipificados en la ley Nº 20.357; podrán postular a este beneficio cuando, además de los requisitos del artículo 2º, hubieren cumplido dos tercios de la pena o, en caso de presidio perpetuo, los años de privación de libertad efectiva establecidos en los incisos primero y segundo del artículo 3º, según corresponda.
+
+Además de lo anterior, al momento de postular, el condenado deberá acreditar la circunstancia de haber colaborado sustancialmente al esclarecimiento del delito o confesado su participación en el mismo; o aportado antecedentes serios y efectivos de los que tenga conocimiento en otras causas criminales de similar naturaleza. Lo anterior se acreditará con la sentencia, en el caso que se hubiere considerado alguna de las atenuantes de los números 8º y 9º del artículo 11 del Código Penal, o con un certificado que así lo reconozca expedido por el tribunal competente.
+
+Con el fin de determinar si es procedente la concesión del beneficio, se valorará, además, los siguientes factores:
+
+a) Si el otorgamiento de la libertad condicional no afectare la seguridad pública por el riesgo de comisión de nuevos delitos de igual naturaleza;
+
+b) Si el condenado ha facilitado de manera espontánea la ejecución de las resoluciones durante la etapa de investigación y enjuiciamiento, en particular colaborando en la localización de los bienes sobre los que recaigan multas, comisos o de reparación que puedan usarse en beneficio de las víctimas, y
+
+c) Si con el otorgamiento de la libertad condicional pudiese presumirse que el condenado no proferirá expresiones o realizará acciones que afecten a las víctimas o a sus familiares.
+
+Artículo 3° ter.- En caso de los delitos señalados en los incisos tercero y quinto del artículo 3°, se podrá conceder la libertad condicional una vez cumplida la mitad de la pena privativa de libertad de forma efectiva a las mujeres condenadas en estado de embarazo o maternidad de hijo menor de 3 años.
+
+Para los efectos de lo dispuesto en este artículo, el informe de Gendarmería de Chile señalado en el artículo 2° deberá contener la indicación del estado de embarazo o maternidad de hijo menor de 3 años de la mujer que postula al beneficio.".
+
+Seis) Sustitúyese el artículo 4° por el siguiente:
+
+"Artículo 4°.- La postulación al beneficio de libertad condicional será conocida por una Comisión de Libertad Condicional, que funcionará en la Corte de Apelaciones respectiva, durante los primeros quince días de los meses de abril y octubre de cada año, previo informe de Gendarmería de Chile. Este informe deberá acreditar el cumplimiento de los requisitos establecidos en el artículo 2°, y de los artículos 3°, 3° bis y 3° ter, según sea el caso, en la forma que determine el reglamento respectivo.
+
+Cada Comisión de Libertad Condicional estará integrada por:
+
+a) Un Ministro de Corte de Apelaciones, quien será su presidente. Dicho Ministro será elegido por el Pleno de la respectiva Corte.
+
+b) Cuatro jueces de juzgados de garantía o de tribunales de juicio oral en lo penal, elegidos por la Corte de Apelaciones respectiva. La Comisión de Libertad Condicional correspondiente a la Corte de Apelaciones de Santiago estará integrada por diez jueces de juzgados de garantía o de tribunales de juicio oral en lo penal.
+
+Será Secretario de la Comisión de Libertad Condicional el funcionario que designe la Corte de Apelaciones respectiva.
+
+Los jueces elegidos serán subrogados, en caso de impedimento o licencia, por los otros jueces con competencia en lo criminal en orden decreciente conforme a la votación obtenida. El empate se resolverá mediante sorteo.
+
+La Comisión podrá conceder también la libertad condicional en favor de aquellas personas condenadas que cumplan el tiempo mínimo de su condena en los dos meses siguientes a los indicados en el inciso primero.".
+
+Siete) Sustitúyese el artículo 5° por el siguiente:
+
+"Artículo 5°.- Será facultad de la Comisión de Libertad Condicional conceder, rechazar y revocar, en su caso, el beneficio, mediante resolución fundada.
+
+La Comisión deberá constatar el cumplimiento de los requisitos establecidos en el artículo 2°, y de los artículos 3°, 3° bis y 3° ter, según sea el caso, para lo cual se tendrán a la vista los antecedentes emanados de Gendarmería de Chile, y todos los demás que la Comisión considere necesarios para mejor resolver.".
+
+Ocho) Sustitúyese el artículo 6° por el siguiente:
+
+"Artículo 6º.- Las personas en libertad condicional quedarán sujetas a la supervisión de un delegado de Libertad Condicional de Gendarmería de Chile.
+
+El delegado que hubiere sido designado para el control de la libertad condicional, dentro de los siguientes 45 días, deberá elaborar un plan de intervención individual, el que deberá comprender reuniones periódicas, las que durante el primer año de supervisión deberán ser a lo menos mensuales, la realización de actividades tendientes a la rehabilitación y reinserción social del condenado, tales como la nivelación escolar, la participación en actividades de capacitación o inserción laboral, o de intervención especializada de acuerdo a su perfil.
+
+El plan deberá considerar el acceso efectivo del condenado a los servicios y recursos de la red intersectorial, e indicar con claridad los objetivos perseguidos con las actividades programadas y los resultados esperados.
+
+Asimismo, la persona condenada deberá firmar un compromiso de dar cumplimiento a las condiciones de su plan, las que se deberán expresar en el citado documento.".
+
+Nueve) Sustitúyese el artículo 7° por el siguiente:
+
+"Artículo 7°.- Si la persona en libertad condicional fuere condenada por cualquier delito, o incumpliere las condiciones establecidas en su plan de intervención individual, sin justificación suficiente, Gendarmería de Chile deberá, dentro del plazo de tres días, informar de ello a la Comisión de Libertad Condicional, para que ésta se pronuncie dentro del plazo de quince días, respecto de la continuidad o revocación de la libertad condicional.
+
+En caso de revocación del beneficio, la Comisión ordenará el ingreso de la persona al establecimiento penitenciario que corresponda, con el fin de que cumpla el tiempo que le falte para completar su condena, y sólo después de haber cumplido la mitad de ese tiempo podrá volver a postular a la libertad condicional, en las mismas condiciones y con las obligaciones señaladas en este decreto ley.".
+
+Diez) Sustitúyese el artículo 8° por el siguiente:
+
+"Artículo 8°.- Las personas que se encontraren gozando del beneficio de libertad condicional que hubieren cumplido la mitad del período de ésta y las condiciones establecidas en su plan de seguimiento e intervención individual podrán ser beneficiadas con la concesión de su libertad completa, por medio de una resolución de la respectiva Comisión.
+
+Quedan exceptuados del beneficio del inciso anterior los que gozaren de libertad condicional conforme a lo dispuesto en el artículo 3° bis.".
+
+Once) Agréganse los siguientes artículos 9°, 10 y 11, nuevos:
+
+"Artículo 9º.- Para los efectos del presente decreto ley, se entenderá que los requisitos para la obtención del beneficio de la libertad condicional son aquellos que se exigen al momento de la postulación.
+
+Artículo 10.- El Estado, a través de los organismos pertinentes, promoverá y fortalecerá especialmente la formación educacional, la capacitación y la colocación laboral de los condenados que gocen de la libertad condicional, con el fin de permitir e incentivar su inserción al trabajo. Asimismo, el delegado deberá apoyar y articular el acceso del condenado a la red de protección del Estado, particularmente en las áreas de salud mental, educación, empleo y de desarrollo comunitario y familiar, según se requiera.
+
+Los organismos estatales y comunitarios que otorguen servicios pertinentes a salud, educación, capacitación profesional, empleo, vivienda, recreación y otros similares deberán considerar especialmente toda solicitud que los delegados de libertad condicional formularen para el adecuado tratamiento de las personas sometidas a su orientación y vigilancia.
+
+Artículo 11.- Un reglamento dictado por el Ministerio de Justicia y Derechos Humanos establecerá las normas relativas a:
+
+a) La organización del sistema de libertad condicional, incluyendo los programas, las características y los aspectos particulares que éstos deberán tener.
+
+b) Los informes de Gendarmería de Chile que se contemplan en los artículos 2º, 3° ter, 4°, 5°, 6° y 7° del presente decreto.
+
+c) Las características y requisitos que deberán reunir los delegados de libertad condicional.".
+
+Doce) Sustitúyese el artículo 9° por el siguiente artículo 12:
+
+"Artículo 12.- Este decreto ley regirá desde su publicación en el Diario Oficial.".
+
+#### Artículo segundo
+
+<!-- parte:9990404 -->
+
+Derógase el artículo 5° de la ley N° 19.856, que crea un sistema de reinserción social de los condenados sobre la base de la observación de buena conducta.
+
+#### Artículo transitorio
+
+<!-- parte:9990405 -->
+
+El reglamento a que alude el artículo 11 introducido por el artículo primero de la presente ley deberá dictarse dentro del plazo de cuatro meses contado desde su publicación en el Diario Oficial.
+
+Tratándose del artículo 6°, referido a los delegados de libertad condicional, entrará en vigencia transcurridos seis meses desde la publicación en el Diario Oficial del reglamento a que se refiere el inciso precedente.".
+
+Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+
+Santiago, 11 de enero de 2019.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Hernán Larraín Fernández, Ministro de Justicia y Derechos Humanos.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Juan José Ossa Santa Cruz, Subsecretario de Justicia.
