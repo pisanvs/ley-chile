@@ -32,9 +32,7 @@ De esta forma, se entenderá que se da cumplimiento a la pena una vez transcurri
 
 #### Artículo 5º
 
-Efecto de comportamiento sobresaliente en libertad condicional. La demostración de comportamiento sobresaliente durante el tiempo de cumplimiento efectivo de una pena privativa de libertad, en los términos de la presente ley, será considerada como antecedente calificado para la obtención de libertad condicional.
-
-Sin perjuicio de lo dispuesto en el artículo anterior, quienes hubieren demostrado el comportamiento a que alude el inciso precedente, estarán habilitados para postular al régimen de libertad condicional en el semestre anterior a aquel en que les hubiere correspondido hacerlo conforme al decreto ley Nº 321, de 1925, y su reglamento.
+Derogado
 
 #### Artículo 6º
 
