@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 143 EXENTA, DE 2019, DE LA SECRETARÍA REGIONAL MINISTERIAL DE TRANSPORTES Y TELECOMUNICACIONES, REGIÓN DE VALPARAÍSO
+
+Por resolución exenta Nº 143, de 9 de enero de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se aprueban los planes y programas a la Escuela de Conductores Profesionales denominada Escuela de Conductores Olivares, RUT Nº 15.905.790-9, cuyo representante legal es don Boris Alex Olivares Mejías, cédula de identidad Nº 15.905.790-9, para impartir cursos conducentes a la obtención de licencia de conductor profesional Clases A-2 y A-4, en el domicilio ubicado en Avenida República Nº 13, comuna de Limache.-
+
+Gerard Oliger Abaroa, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
