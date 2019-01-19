@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN Nº 605 EXENTA, DEL 29 DE OCTUBRE DE 2018
+
+Por resolución exenta Nº 605, del 29 de octubre de 2018, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se modificó la resolución exenta Nº 422, de 27 de noviembre de 2013, de esta Secretaria Regional Ministerial, reemplazándose el resuelvo Nº 1 por el siguiente: "Autorízase el funcionamiento del Terminal Urbano para los servicios de locomoción colectiva prestados mediante automóviles, ubicado en calle Irlanda Nº 3677, de la comuna de Hualpén, de responsabilidad de Sociedad de Transportes Vera Peña Limitada, rol único tributario: 76.434.522-3". Y la letra A del resuelvo Nº 4 por el siguiente: "A. Hará uso del terminal referido el servicio de taxis colectivos cuyo responsable es: a) Sociedad de Transportes Vera Peña Limitada, rol único tributario: 76.434.522-3, con recorridos: Troncal: Rengo - Lientur - Tucapel - Freire y Variante 1: Rengo - Chacabuco - Tucapel - Gran Bretaña".
+
+En lo no modificado por esta resolución, rige plenamente la resolución exenta Nº 422, de 27 de noviembre de 2013, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
