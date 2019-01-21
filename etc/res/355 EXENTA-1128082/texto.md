@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL "PROYECTO EÓLICO COIHUE"
+
+De conformidad a lo dispuesto en el inciso final del artículo 91 del DS (MA) Nº 40/2013 (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Proyecto Eólico Coihue", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Parque Eólico Coihue SpA, que por resolución exenta Nº 355, de fecha 18 de diciembre de 2018, la Comisión de Evaluación de la Región del Biobío calificó favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad al artículo 29 de la Ley Nº 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA de Biobío, ubicada en Lincoyán Nº 145, Concepción, en la Ilustre Municipalidad Negrete, ubicada en calle Alberto Möller Nº 293, comuna de Negrete, en horarios de oficina. Además podrá accederse a la resolución a través del sitio web www.sea.gob.cl.
+
+Angélica Riffo-Soto, Secretaria (S) Comisión de Evaluación Región del Biobío.
