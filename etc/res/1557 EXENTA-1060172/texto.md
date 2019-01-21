@@ -208,7 +208,7 @@ macroorganismos) nativos o exóticos,
 
 y extractos de fermentación microbiológica;
 
-ii . Plaguicidas naturales químicos, basados en
+ii. Plaguicidas naturales químicos, basados en
 
 extractos de origen vegetal, animal o mineral;
 
@@ -590,9 +590,9 @@ Cada plaguicida autorizado, será numerado correlativamente, debiendo el número
 
 De no cumplirse con lo dispuesto en la presente Resolución, el Servicio emitirá una resolución de rechazo, la que se notificará al solicitante.
 
-### 7. Vigencia de la autorización por Identidad
+### 7. Vigencia de la autorización de identidad
 
-El plaguicida será autorizado para una combinación específica cultivo-plaga y el período de vigencia de éste será de 5 años.
+El plaguicida será autorizado por primera vez, para las combinaciones específicas plaga-cultivo y bajo las condiciones indicadas en ésta, con una vigencia de 10 años, los que podrán ser renovables, por igual período, si cumple con las disposiciones establecidas del Servicio.
 
 ### 8. Requisitos técnicos para la evaluación de sustancias activas
 
@@ -768,21 +768,21 @@ sublima (Punto de sublimación). En
 
 caso que la sustancia activa se
 
-descomponga, señalar la temperatura a
+descomponga, señalar la temperatura
 
-la que se descompone (Punto de
+a la que se descompone (Punto de
 
 descomposición).
 
-8.2.3. Punto de ebullición (p) para líquidos a
+8.2.3. Punto de ebullición (p) para líquidos
 
-temperatura ambiente. En caso que la
+a temperatura ambiente. En caso que la
 
-sustancia activa se descomponga,
+sustancia activa se descomponga, señalar
 
-señalar la temperatura a la que se
+la temperatura a la que se descompone
 
-descompone (Punto de descomposición).
+(Punto de descomposición).
 
 8.2.4. Densidad (p y t).
 
@@ -1140,9 +1140,7 @@ b.1. Absorción dérmica.
 
 c. Explicación de las rutas metabólicas.
 
-8.7.7. Estudios de neurotoxicidad o
-
-neurotoxicidad retardada.
+8.7.7. Estudios de neurotoxicidad o neurotoxicidad retardada.
 
 Para el caso de la neurotoxicidad retardada, deberán someterse las sustancias similares o estructuras afines a las capaces de producir fenómenos de neurotoxicidad retardada.
 
@@ -1818,7 +1816,9 @@ producción.
 
 d. ELIMINADO.
 
-12.2. Criterios de equivalencia de sustancia activa grado técnico
+12.2. Criterios de equivalencia de sustancia activa
+
+grado técnico
 
 La equivalencia se determinará mediante los siguientes criterios:
 
@@ -2050,7 +2050,7 @@ a. En relación al solicitante y titular, según corresponda, la información so
 
 b. En relación a la Sustancia Activa Equivalente, la información solicitada en los numerales 14.1 y 5.1.
 
-12.4. Verificación, evaluación y autorización por equivalencia de la sustancia activa grado técnico.
+12.4 Verificación, evaluación y autorización por equivalencia de la sustancia activa grado técnico.
 
 12.4.1. Verificación documental de sustancia activa grado técnico candidata a equivalente y verificación analítica de perfil de pureza e impureza.
 
@@ -2120,9 +2120,9 @@ A cada sustancia activa grado técnico, autorizada por equivalencia, el Servicio
 
 En el caso de solicitar autorización de un producto formulado, se procede de acuerdo con el numeral 6 de la presente Resolución, en lo que respecta al producto formulado.
 
-13. Vigencia de los plaguicidas autorizados en base a la sustancia activa grado técnico equivalente.
+13. Vigencia de los plaguicidas autorizados en base a una sustancia activa grado técnico equivalente.
 
-El producto formulado en base a una sustancia activa grado técnico equivalente, será autorizado por un período de vigencia de 5 años.
+El producto formulado en base a la sustancia activa grado técnico equivalente será autorizado por primera vez, para las combinaciones plagas-cultivo específicas y bajo las condiciones indicadas en ésta, con una vigencia de 10 años, los que podrán ser renovables, por igual período, si cumple con las disposiciones del establecidas por Servicio.
 
 PÁRRAFO SUPRIMIDO
 
@@ -2488,21 +2488,19 @@ relevante(s):
 
 a. Identificación de la impureza.
 
-a.1. Nombre químico de la impureza
+a.1. Nombre químico de la impureza (aceptado o
 
-(aceptado o propuesto por UIQPA, CAS).
+propuesto por UIQPA, CAS).
 
-a.2. Fórmula estructural incluyendo
+a.2. Fórmula estructural
 
-estereoquímica de isómeros activos
+(incluyendo estereoquímica de isómeros
 
-si corresponde).
+activos si corresponde).
 
-a.3. Nº CAS y Nº CE (para cada isómero
+a.3. Nº CAS y Nº CE (para cada isómero o mezcla
 
-o mezcla de isómeros si corresponde)
-
-de la impureza.
+de isómeros si corresponde) de la impureza.
 
 a.4. Espectros de la impureza (p): UV/VIS, IR,
 
@@ -3200,27 +3198,9 @@ del Servicio.
 
 ## Título VI — RECHAZO, CANCELACIÓN, SUSPENSIÓN O PROHIBICIÓN DE LA AUTORIZACIÓN
 
-### 23. El Servicio, podrá rechazar la solicitud de
+23. El Servicio podrá rechazar la solicitud de autorización de un plaguicida, suspender, restringir, prohibir o cancelar una autorización ya otorgada, si por motivos de calidad, eficacia, toxicológicos, ecotoxicológicos o medioambientales, debidamente fundamentados, lo hacen necesario.
 
-autorización de un plaguicida, suspender, restringir,
-
-prohibir o cancelar una autorización ya otorgada, si
-
-por motivos de calidad, eficacia, toxicidad aguda o
-
-crónica, ecotoxicidad o medioambientales, debidamente
-
-fundamentados, lo hacen necesario. También, podrá
-
-someter a revisión una autorización ya otorgada, si
-
-considera que los avances tecnológicos o científicos la
-
-hacen necesario, para evaluar información adicional que
-
-se haya recibido referida al plaguicida autorizado o si
-
-razones de carácter técnico así lo ameritan.
+El Servicio podrá someter a revisión, de oficio o por solicitud, una o más autorizaciones ya otorgadas; si considera que los avances tecnológicos y/o la información técnica y científica lo hacen necesario por afectar la calidad, eficacia, seguridad y/o la salud de las personas, los animales y el medio ambiente. La revisión por solicitud tendrá que ser fundada en antecedentes técnicos de estudios, literatura científica, informes u otros, los que deberán ser presentados ante el Servicio para su evaluación. El Servicio, durante esta revisión, podrá suspender la o las autorizaciones para evaluar la información que se haya recibido referida a la sustancia activa o al producto formulado autorizado, o si por razones de carácter técnico lo hacen necesario. Finalmente, y una vez evaluado, podrá restituir la autorización, modificar la vigencia de ésta, cancelarla, o restringir o prohibir la sustancia activa o la formulación correspondiente.
 
 ### 24. El Servicio podrá rechazar, suspender o cancelar la
 
@@ -3268,27 +3248,17 @@ señalado en el numeral 5.2.a.
 
 26.1. Obligación del titular de informar nuevos antecedentes técnicos.
 
-El titular de una autorización, estará obligado a informar al Servicio, mediante carta, sobre los nuevos antecedentes técnicos, que haya tomado conocimiento y que afecten la eficacia del plaguicida autorizado o su seguridad en el uso, adjuntando el Resumen Ejecutivo actualizado y los siguientes antecedentes técnicos:
+El titular de una autorización otorgada de acuerdo a la presente resolución o normas anteriores, estará obligado a informar al Servicio, mediante carta, sobre los nuevos antecedentes técnicos, que haya tomado conocimiento o que se originen y que afecten la eficacia del plaguicida autorizado, seguridad en el uso, su calidad, o aspectos toxicológicos, ecotoxicológicos y medioambientales, que afecten la salud de las personas, los animales o el medioambiente. En caso de que el titular no presente los antecedentes correspondientes, el Servicio podrá suspender la autorización hasta que se presente, evalúe y se resuelva, cuando los motivos técnicos así lo ameriten.
 
-a. Para Sustancia Activa: Lo indicado en los
+Para esto el titular deberá adjuntar el Resumen Ejecutivo actualizado y los siguientes antecedentes técnicos:
 
-numerales, 8.4, 8.5, 8.6, 8.7, 8.8, 8.9; cuando
+a. Para Sustancia Activa: Lo indicado en los numerales, 8.4, 8.5, 8.6, 8.7, 8.8, 8.9; cuando corresponda 8.10; y lo señalado en el numeral 5.1.a.
 
-corresponda 8.10; y lo señalado en el numeral
+b. Para el Producto Formulado: Lo indicado en los numerales 9.2.2, 9.6, 9.7, 9.8, 9.9, 9.10; cuando corresponda 9.11; y lo señalado en el numeral 5.2.a.
 
-5.1.a.
+c. Para la Sustancia Activa Equivalente: Lo indicado en los numerales 14.1.3 y 5.1.a.
 
-b. Para el Producto Formulado: Lo indicado en los
-
-numerales 9.2.2, 9.6, 9.7, 9.8, 9.9, 9.10; cuando
-
-corresponda 9.11; y lo señalado en el numeral
-
-5.2.a.
-
-c. Para la Sustancia Activa Equivalente: Lo indicado
-
-en los numerales 14.1.3 y 5.1.a
+El Servicio evaluará los antecedentes, y tomará las medidas correspondientes, como la inclusión de los nuevos antecedentes en el expediente, restricciones en el uso, o la cancelación de la autorización, u otras de acuerdo al caso. En caso que se requiera, la modificación de algún aspecto de la etiqueta, el titular tendrá que solicitarlo de acuerdo a los numerales 26.2 y 27.5.1.
 
 26.2. Modificaciones a solicitud del titular
 
@@ -4008,6 +3978,16 @@ El Servicio podrá verificar en las sustancias activas grado técnico que se fab
 
 30.2 Los fabricantes de sustancias activas, productores, importadores, fabricantes de productos formulados, fraccionadores, exportadores y distribuidores de plaguicidas, deberán informar el inicio de sus actividades mediante el Formulario establecido por el Servicio, en un plazo máximo de 30 días de acontecido para la verificación del cumplimiento de las obligaciones contenidas en la presente Resolución; cualquier cambio de lo informado a través del Formulario, deberá comunicarlo al Servicio dentro de los 30 días siguientes a su ocurrencia.
 
+30.3. El plaguicida se identificará mediante un código de lote, esto es, una clave que permita individualizarlo en cualquiera de las etapas de fabricación, producción, importación, exportación, fraccionamiento, distribución y venta.
+
+Las claves estarán formadas por números o por combinaciones de letras y números, debiendo incluir, a lo menos, el mes y el año de fabricación y el número correspondiente a la partida.
+
+30.4. El proceso de fabricación o fraccionamiento de cada lote de producto formulado o fabricación o producción de una sustancia activa grado técnico, según corresponda, deberá quedar consignado en documentos foliados o archivos digitales, los que deberán mantenerse respecto de cada lote fabricado, por tres años a contar de la fecha de fabricación, producción o fraccionamiento, según corresponda.
+
+30.5. Todo local de venta de plaguicidas deberá mantener un documento foliado o archivo digital, en el que se consigne, a lo menos, el nombre comercial, número de autorización del SAG, código del lote y cantidad del producto vendido y el nombre y dirección del comprador.
+
+30.6. Los fabricantes de sustancias activas, productores, importadores, fabricantes de producto formulados, fraccionadores, exportadores y distribuidores de plaguicidas autorizados deberán mantener un documento foliado o archivo digital, en el que se consigne, a lo menos, el nombre comercial, número de autorización del SAG, código del lote y cantidad del producto vendido y el nombre y dirección del comprador.
+
 ### 31. De las responsabilidades sobre los plaguicidas autorizados
 
 31.1. Los fabricantes de sustancias activas, productores, importadores, fabricantes de productos formulados, fraccionadores y exportadores de plaguicidas autorizados, deberán asumir la responsabilidad de los resultados que el plaguicida produjera, derivados de factores atribuibles a su responsabilidad. Esta autorización, no podrá usarse como garantía de eficacia del plaguicida autorizado ni podrá hacerse al Servicio partícipe de la responsabilidad que con respecto al mismo, le cabe al titular de la autorización o al fabricante de sustancia activa, productor, importador, fabricante de producto formulado, fraccionador, exportador o distribuidor del plaguicida, según corresponda.
@@ -4044,10 +4024,10 @@ uso, si corresponde; y
 
 d. Resumen Ejecutivo debidamente actualizado.
 
-36. El titular de una autorización de plaguicida autorizado de acuerdo a la resolución Nº 3.670, de 1999, de este Servicio, estará obligado a informar al Servicio, por escrito, las novedades, debidamente fundamentadas, que se originen o conozcan, que afecten la eficacia del plaguicida autorizado o su seguridad en el uso, tanto desde el punto de vista toxicológico como ecotoxicológico, ambiental, de residuos, de metodología analítica y envases. El Servicio dispondrá las medidas restrictivas o las modificaciones que correspondan, incluyendo cambios en la etiqueta del plaguicida.
+36. El titular de una autorización de plaguicida autorizado de acuerdo a la resolución Nº 3.670, de 1999, de este Servicio, estará obligado a informar al Servicio, por escrito, las novedades, debidamente fundamentadas, que se originen o conozcan, que afecten la eficacia del plaguicida autorizado o su seguridad en el uso, tanto desde el punto de vista toxicológico como ecotoxicológico, ambiental, de residuos, de metodología analítica y/o envases. En caso de que el titular no presente los antecedentes correspondientes, el Servicio podrá suspender la autorización hasta que se presente, evalúe y se resuelva, cuando los motivos técnicos así lo ameriten. Para esto, el titular deberá adjuntar el Resumen Ejecutivo actualizado y los antecedentes técnicos de metodología analítica, residuos, seguridad, toxicología, medio ambiente, ecotoxicología y/o envases, según corresponda. El Servicio evaluará los antecedentes, y tomará las medidas correspondientes, como la inclusión de los nuevos antecedentes en el expediente, restricciones en el uso, o la cancelación de la autorización, u otras de acuerdo al caso. En caso que se requiera, la modificación de algún aspecto de la etiqueta, el titular tendrá que solicitarlo de acuerdo a los numerales 26.2 y 27.5.1.
 
 Los plaguicidas autorizados de acuerdo a la resolución antes indicada podrán solicitar su modificación, de acuerdo a los requisitos establecidos en el numeral 27 de esta resolución.
 
-> **Nota.** La letra g), 1.1 del N° 1 de la Resolución 1208 Exenta, Agricultura, publicada el 11 de marzo de 2016, modifica el numeral 2 de la presente norma en el sentido de suprimir de la tabla de acrónimos, la fila: HDST: | Hoja de Datos de Seguridad de Transporte. | MSDS.
+> **Nota.** La letra g), 1.1 del N° 1 de la Resolución 1208 Exenta, Agricultura, publicada el 11 de marzo de 2016, modifica el numeral 2 de la presente norma en el sentido de suprimir de la tabla de acrónimos, la fila: HDST: | Hoja de Datos de Seguridad de Transporte. |
 
 Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional.
