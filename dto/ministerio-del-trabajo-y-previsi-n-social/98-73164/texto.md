@@ -58,9 +58,13 @@ Los suplentes reemplazarán a los titulares de acuerdo al orden que resulte de l
 
 Los representantes titulares y suplentes de los afiliados en el Consejo Administrativo durarán dos años en sus funciones.
 
+Si en el proceso de la elección resultaren empatados los postulantes con más altas mayorías, y no permita determinar a quién corresponderá la titularidad y la suplencia, será electo titular el funcionario de mayor antigüedad como afiliado al Servicio de Bienestar. De persistir el empate, será electo el funcionario de mayor antigüedad en el Servicio de Salud de Reloncaví.
+
 #### Artículo 6º
 
 El Consejo Administrativo cesionará ordinariamente una vez cada 2 meses, en el día y hora que fije el Consejo Administrativo, en la primera sesión del año y se citará por escrito por el Jefe del Servicio.
+
+El Consejo podrá, si lo estima conveniente, invitar a sus sesiones a personas que, por la naturaleza de sus funciones, puedan hacer algún aporte al trabajo del Consejo en el tratamiento de determinadas materias.
 
 Las sesiones extraordinarias se efectuarán cuando proceda en conformidad al artículo 23º del Reglamento General y se las citará por escrito, vía Fax o teléfono, cuando sea necesario, por el Jefe del Servicio de Bienestar con una anticipación de 24 horas.
 
@@ -162,7 +166,7 @@ En caso de fallecimiento del afiliado esta ayuda se otorgará en el siguiente or
 
 1.- A la persona designada expresamente para tales efectos por el afiliado.
 
-2.- Al cónyuge sobreviviente.
+2.- cónyuge o conviviente civil sobreviviente.
 
 3.- A los hijos
 
@@ -174,6 +178,8 @@ d) Educación: Se concederá una asignación de educación, siempre que las disp
 
 Se entenderá por niveles pre-básicos: nivel medio menor, nivel medio mayor, primer nivel de transición (pre-Kinder) y segundo nivel de transición (Kinder).
 
+Se entenderá por nivel Técnico Profesional, las carreras impartidas por Centros de Formación Técnica (CFT), Instituciones o Institutos Profesionales (IP) reconocidos por el Estado.
+
 e) Becas de Estudio: El Servicio, siempre que sus disponibilidades presupuestarias lo permitan, podrá otorgar en caso de extrema necesidad económica calificada como tal por el Consejo Administrativo, becas de estudio destinadas a complementar los gastos derivados de la educación de un afiliado o de sus hijos causantes de asignación familiar.
 
 f) Ayuda Médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificado como tales por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el artículo 9º;
@@ -183,6 +189,24 @@ g) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves 
 h) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuvieren pendientes con el Servicio por concepto de préstamos que éste le hubiera otorgado.
 
 El monto de las ayudas contempladas en las letras a), b), c), d), e), f), y g) será determinado por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29º, del Reglamento General.
+
+i) Unión Civil: Cuando el afiliado o afiliada celebre acuerdo de unión civil. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente.
+
+j) Ayuda Social por emergencia: El Consejo Administrativo podrá otorgar una ayuda económica por tratarse de problemática social grave, calificada como tal a través de un informe social.
+
+k) Ayuda Social por evento: Dependiendo de los recursos disponibles podrá otorgar un estímulo para aquellos afiliados que obtengan su primera vivienda propia y para aquellos que cumplan 25 y 50 años de matrimonio o de unión civil.
+
+l) Premio Alumno Destacado: Siempre que las disponibilidades presupuestarias lo permitan, se pagará asignación de estímulo académico para estudiantes que cursaron 1º año básico a 4º año medio, como también para estudiantes de enseñanza superior de pregrado, considerando el rendimiento académico del año inmediatamente anterior.
+
+m) Premio Excelencia Académica: De acuerdo a los recursos disponibles se podrá entregar asignación de estímulo para la excelencia académica, a aquellos estudiantes egresados de enseñanza media el año inmediatamente anterior a la fecha de solicitud del beneficio, considerando como base de cálculo académico, el promedio desde 1º año medio a 4º año medio.
+
+n) Estímulo por Egreso: El Consejo Administrativo, de acuerdo a presupuesto anual, podrá disponer de una ayuda en dinero para aquellos estudiantes que obtengan Título de pregrado, Especialidad Médica, Magíster o Doctorado, otorgado por Universidad, Instituto Profesional o Centro de Formación Técnica, del Estado o reconocidos por éste.
+
+o) Asignación de Residencia: Dependiendo de los recursos disponibles, se podrá entregar un estímulo en dinero, para aquellos estudiantes que deban trasladarse fuera del lugar de residencia familiar, con ocasión de sus estudios. Se priorizará a los estudiantes de la provincia de Palena de cualquier nivel de estudios y los estudiantes de educación superior que se trasladen de región para estudiar. Será de carácter anual y compatible con Beca de Educación Superior.
+
+p) Ayuda Educacional: Dependiendo de la disponibilidad presupuestaria, se podrá otorgar una asignación en dinero por única vez, a las cargas familiares que se encuentren cursando estudios de cualquier nivel en una institución de educación reconocida por el Estado, al momento del fallecimiento del socio.
+
+El requisito monto de las ayudas contempladas en las letras a), b), c), d), e), f), g), h), i), j), k), l), m), n), o), y p), será determinado por el Consejo Administrativo conforme a lo señalado en letra g) del artículo 29 del Reglamento General.
 
 #### Artículo 11º
 
@@ -232,15 +256,7 @@ d) Préstamos Escolares: Se otorgarán una vez al año y estarán orientados a s
 
 e) Préstamos Personales: Se otorgarán una vez al año con el objeto de propender al mejoramiento de las condiciones familiares y/o de trabajo de los afiliados.
 
-El monto máximo de los préstamos antes señalados, será determinado anualmente por el Consejo Administrativo; y su reintegro deberá efectuarse en un plazo no superior a 20 meses, respecto de las letras a),
-
-- **b)** y
-
-- **c)** y 8 a 10 meses de las letras
-
-- **d)** y
-
-- **e)** respectivamente.
+Para solicitar cualquier tipo de préstamo, el afiliado y los codeudores solidarios deberán tener por lo menos seis meses de afiliación al Servicio de Bienestar.
 
 Los plazos indicados en el inciso anterior podrán ser reducidos a solicitud del afiliado, en cuyo caso los intereses correspondientes se devengarán hasta la fecha de los pagos respectivos.
 
@@ -248,19 +264,19 @@ Los plazos indicados en el inciso anterior podrán ser reducidos a solicitud del
 
 Para conceder un préstamo el Consejo Administrativo, deberá considerar, especialmente las posibilidades de recuperación de los dineros prestados. Además, será requisito indispensable la constitución de la garantía de dos codeudores solidarios, que sean funcionarios de planta o a contrata de la Institución y su solvencia será calificada por dicho Consejo Administrativo.
 
-Para solicitar cualquier tipo de préstamo el afiliado deberá tener por lo menos seis meses de afiliación ininterrumpida al Servicio.
+Para solicitar cualquier tipo de préstamo, el afiliado y los codeudores solidarios deberán tener por lo menos seis meses de afiliación al Servicio de Bienestar.
 
 #### Artículo 17º
 
-El reintegro de los préstamos señalados en el artículo 15º, deberá hacerse en cuotas iguales y sucesivas. Las referidas cuotas serán descontadas a partir del mes siguiente al de su otorgamiento.
+El reintegro de los préstamos señalados en el artículo 15º, deberá hacerse en cuotas iguales y sucesivas, la cantidad de cuotas dependerá de los montos y serán fijadas anualmente por el Consejo Administrativo. Las referidas cuotas serán descontadas a partir del mes siguiente al de su otorgamiento.
 
-La tasa de interés que devengarán estos préstamos será determinada anualmente por el Consejo Administrativo y consistirá en un porcentaje del interés corriente para operaciones no reajustables fijado por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorga el préstamo.
+La tasa de interés que devengarán estos préstamos será determinada anualmente por el Consejo Administrativo, en el inicio de cada ejercicio financiero y podrá ser de hasta la tasa de interés máxima convencional vigente, definida por la Superintendencia de Bancos e Instituciones Financieras de acuerdo con lo establecido en la ley 18.010.
 
-Para solicitar un nuevo préstamo de aquellos señalados por las letras d) y e) del artículo 15º, será necesario haber servido como mínimo el 75% de la deuda por el mismo concepto.
+Para solicitar un nuevo préstamo del artículo 15º, será necesario haber servido el total de la deuda. Solo en situaciones de excepción, calificadas como tal por el Consejo Administrativo, se autorizará al afiliado a efectuar prepago para solicitar otro, cuando exista un saldo de deuda no mayor al 30% del total del préstamo.
 
 #### Artículo 18º
 
-Las cuotas que el afiliado adeude al Servicio de Bienestar por préstamos o por concepto de créditos de casas comerciales no podrán exceder del 40% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
+Las cuotas que el afiliado adeude al Servicio de Bienestar por préstamos o por concepto de créditos de casas comerciales no podrán exceder del 15% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
 
 T I T U L O VI
 
@@ -268,7 +284,7 @@ Disposiciones generales
 
 #### Artículo 19º
 
-Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio o dentro de los plazos especiales establecidos en el presente Reglamento. Con todo y en forma excepcional, se podrá prescindir de los plazos establecidos precedentemente, si así lo autoriza el Consejo, en consideración a la situación especial del afiliado.
+Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio, a contar el mes en que se realice el primer pago del aporte de afiliación. El acceso a subsidios será al mes siguiente de haber realizado tres aportes mensuales consecutivos. El acceso a los préstamos tanto para el socio como los avales, será al mes siguiente de haber realizado seis aportes mensuales consecutivos.
 
 #### Artículo 20º
 
