@@ -126,6 +126,14 @@ procedimientos urológicos.
 
 El cumplimiento de estas condiciones será verificado por los funcionarios de la Autoridad Sanitaria en cuyo territorio de competencia se encuentre situado el establecimiento asistencial de que se trate, los que podrán actuar con la colaboración que sea necesaria de los miembros de la Comisión Nacional de Trasplante de Órganos.
 
+Para efectuar trasplantes renales de donante vivo cruzado, se requerirá adicionalmente:
+
+- Haber desarrollado un mínimo de actividad de trasplante renal de vivo, según determine una norma técnica del Ministerio de Salud.
+
+Los hospitales autorizados para trasplante renal infantil que no cumplan la actividad mínima requerida, podrán efectuar trasplantes renales de donante vivo cruzado si se presentan asociados a un hospital de adulto que realizará la nefrectomía por vía laparoscópica y que sí posea la actividad mínima requerida.
+
+- Contar con equipos quirúrgicos para realizar una nefrectomía laparoscópica.
+
 Corresponderá al Secretario Regional Ministerial de Salud competente otorgar la autorización especial que se requiera, según el caso.
 
 Los hospitales y clínicas que efectúen extracción de órganos destinados a trasplante deberán mantener un registro actualizado en el que se consignen los siguientes datos:
@@ -200,7 +208,7 @@ No podrá facilitarse ni divulgarse información que permita identificar al dona
 
 Asimismo, los familiares del donante no podrán conocer la identidad del receptor, ni el receptor o sus familiares la del donante y, en general, queda prohibida cualquier difusión de información que pueda relacionar directamente la extracción con la ulterior implantación.
 
-Esta prohibición no afectará a los directamente interesados en una donación entre personas vivas.
+Esta prohibición no afectará a los directamente interesados en una donación entre personas vivas relacionadas según los términos del artículo 9 de este Reglamento.
 
 La información relativa a donantes y receptores de órganos humanos será recogida, tratada y custodiada en la más estricta confidencialidad por la Coordinadora Nacional de Trasplante de Órganos de la Subsecretaría de Redes Asistenciales del Ministerio de Salud y se considerará un dato sensible, conforme a lo dispuesto en la Ley Nº 19.628, sobre protección de la vida privada.
 
@@ -216,6 +224,8 @@ Las donaciones de las que trata este título no estarán sujetas a las normas es
 
 Este tipo de extracción sólo se permitirá en personas capaces mayores de dieciocho años, cuando el receptor sea su pariente por adopción o por consanguinidad hasta el cuarto grado, su cónyuge o una persona que sin ser serlo, conviva con el donante.
 
+En los casos que no existan condicionas médicas favorables para el trasplante renal entre las personas mencionadas en el inciso anterior, el donante y el receptor podrán consentir a ingresar al registro mencionado en el artículo 26 bis de este reglamento a efectos de acceder a una donación cruzada.
+
 Sólo podrán trasplantarse los siguientes órganos o segmentos de ellos:
 
 - Riñón.
@@ -224,9 +234,15 @@ Sólo podrán trasplantarse los siguientes órganos o segmentos de ellos:
 
 - Hígado.
 
-- Intestinos.
+#### Artículo 9º bis
 
-- Páncreas.
+La donación en vida de un órgano para ser trasplantado a un receptor no relacionado solo se permitirá cuando el donante sea una persona capaz, mayor de dieciocho años, y se ofrezca voluntariamente y en forma altruista para la extracción y donación en vida. En este caso, el órgano extraído tendrá como destino ser trasplantado a la persona que corresponda conforme a los términos del artículo 27 ter, con el propósito de conservar su vida o mejorar su salud.
+
+Estas donaciones no estarán sujetas a las normas establecidas en los artículos 1.137 a 1.146 del Código Civil y no procederán sin la previa certificación médica de la aptitud física compatible con la extracción.
+
+Sólo podrán donarse los órganos, o parte de ellos, indicados en el inciso final del artículo anterior.
+
+El Instituto de Salud Pública llevará el registro de las personas que se ofrezcan voluntariamente y en forma altruista para la extracción y donación en vida. En cualquier momento el donante podrá desistirse de su decisión, debiendo solicitar al Instituto de Salud Pública su exclusión del registro.
 
 #### Artículo 10º
 
@@ -376,13 +392,29 @@ Corresponderá al Instituto de Salud Pública llevar el Registro Nacional de Pot
 
 Para estos efectos, cada uno de estos establecimientos mantendrá una lista de espera de los pacientes que tienen la calidad de potenciales receptores de órganos, sin que éstos puedan figurar en más de una lista.
 
+#### Artículo 26 bis
+
+Corresponderá, asimismo, al Instituto de Salud Pública llevar el Registro Nacional de Parejas Donante-Receptor para los casos que no existan condiciones médicas favorables para el trasplante renal entre las personas relacionadas referidas en el artículo 9º y tanto el donante como el receptor consientan ser parte de una donación cruzada de órganos.
+
+Una norma técnica del Ministerio de Salud determinará los criterios de inclusión o exclusión del donante a efectos de ingresar en el Registro Nacional de Parejas Donante-Receptor.
+
+Este Registro se formará con la información que deberán proporcionar los establecimientos autorizados para efectuar trasplante de órganos a que se refiere el inciso tercero del artículo 3º de este reglamento, la que deberá ser actualizada permanentemente. Para estos efectos, cada uno de los establecimientos mantendrá una lista de parejas donante-receptor que tienen la calidad de potenciales partícipes de una donación cruzada.
+
+El Registro Nacional de Parejas Donante-Receptor incluirá a parejas compuestas tanto por chilenos como por extranjeros con residencia en el país, según la información proporcionada por los establecimientos autorizados para efectuar trasplantes.
+
+Lo anterior es sin perjuicio del derecho de chilenos y extranjeros a ser trasplantados en casos de urgencia.
+
 #### Artículo 26º
 
-El Registro que lleva el Instituto contará con subregistros según el órgano cuyo trasplante se requiere, y en ellos se incluirá tanto a los chilenos como a los extranjeros con más de cinco años de residencia en el país, según la información proporcionada por los establecimientos autorizados para efectuar trasplantes.
+El Registro que lleva el Instituto contará con subregistros según el órgano cuyo trasplante se requiere, y en ellos se incluirá tanto a los chilenos como a los extranjeros con residencia en el país, según la información proporcionada por los establecimientos autorizados para efectuar trasplantes.
 
 En el caso de que la implantación del órgano no pueda realizarse en ninguna de las personas contempladas en el registro, hecho que deberá ser certificado por el Instituto de Salud Pública, éste podrá efectuarse a extranjeros que no cumplan el requisito antes indicado.
 
+Lo anterior es sin perjuicio del derecho de chilenos y extranjeros a ser trasplantados en casos de urgencia.
+
 #### Artículo 27º
+
+Los órganos provenientes de cadáveres se destinarán a alguna de las personas del Registro Nacional de Potenciales Receptores de Órganos.
 
 La priorización para la recepción de órganos provenientes de cadáveres se efectuará en estricto orden y de acuerdo a la localización del procuramiento, sin perjuicio de la valorización clínica del equipo médico que efectuará el trasplante.
 
@@ -438,7 +470,65 @@ La Lista de Espera Nacional de Receptores se priorizará en base a:
 
 - Receptor de menor edad.
 
+Pulmón:
+
+La Lista de Espera Nacional de Receptores se priorizará considerando:
+
+- Puntaje Internacional LAS (Lung Allocation System).
+
+- Fecha de inscripción en Lista de Espera.
+
+- Tipo de trasplante: unipulmonar o bipulmonar.
+
+Hígado:
+
+La Lista de Espera Nacional de Receptores se priorizará considerando:
+
+- Puntaje Internacional: MELD-Na/PELD (Model for End Stage Liver Disease and Pediatric End Liver Disease).
+
+- Fecha de inscripción en Lista de Espera.
+
+Páncreas:
+
+La Lista de Espera Nacional de Receptores se priorizará considerando:
+
+- Compatibilidad de Grupo Sanguíneo ABO entre donante y receptor.
+
+- Fecha de inscripción en Lista de Espera.
+
+- Condición de paciente hipersensibilizado.
+
+Intestino:
+
+La Lista de Espera Nacional de Receptores se priorizará considerando:
+
+- Compatibilidad de Grupo Sanguíneo ABO entre donante y receptor.
+
+- Fecha de inscripción en Lista de Espera.
+
 El Instituto de Salud Pública deberá mantener un registro complementario del referido en el artículo 25, con el orden de la selección de los receptores de cada donante cadáver y de la asignación final de dichos órganos, información que deberá remitir mensualmente a la Coordinadora Nacional de Trasplante de Órganos.
+
+#### Artículo 27 bis
+
+El Instituto de Salud Pública informará a los establecimientos de salud correspondientes si existe compatibilidad para practicar una donación recíproca entre dos o más parejas donante-receptor del registro señalado en el artículo 26 bis.
+
+Cuando una pareja donante-receptor sea compatible con más de una pareja, se preferirá aquella opción que permita combinar a más parejas donante-receptor entre sí.
+
+En caso que el número de combinaciones sea el mismo, se priorizará en base a un puntaje dado por:
+
+- Compatibilidad de grupo sanguíneo.
+
+- Probabilidad de "matching", que se entiende como la menor probabilidad de encontrar un donante compatible por la vía de comparar antígenos y anticuerpos del donante y del receptor.
+
+- Menor diferencia de edad donante-receptor.
+
+- Mayor tiempo en diálisis.
+
+- Receptores infantiles (definidos como aquellos de edad inferior a 18 años).
+
+#### Artículo 27 ter
+
+Los órganos provenientes del donante vivo a que se refiere el artículo 9 bis de este reglamento, se destinarán a alguna de las personas del Registro Nacional de Potenciales Receptores de Órganos.
 
 ## Título VII
 
