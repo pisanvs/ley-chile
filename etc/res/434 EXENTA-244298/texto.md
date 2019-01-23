@@ -12,21 +12,25 @@ Considerando:
 
 Resuelvo:
 
-1. Autorízase el funcionamiento del Terminal de Taxis colectivos urbanos ubicado en la ciudad de Talca, en Calle 8 1/2 Sur A Nº 2602, Cooperativa Los Andes, propiedad del Sr. Jorge Pérez Cabrera, RUT 4.150.692-K, recinto clasificado en categoría "A1", con una capacidad máxima de 60 taxis colectivos, conforme las Tablas 1 y 2 establecidas en el texto del DS Nº 270/04, del Ministerio de Vivienda y Urbanismo, vigentes a la fecha de la recepción definitiva del mencionado terminal.
+1. Autorízase el funcionamiento del terminal de taxis colectivos urbanos ubicado en la ciudad de Talca, en calle 8 1/2 Sur A Nº 2602, propiedad de doña María Audomilia Serafina Pérez Muñoz, cédula de identidad Nº 14.349.940-5, recinto clasificado en categoría "A1", con una capacidad máxima de 60 taxis colectivos, conforme a las Tablas 1 y 2 establecidas en el texto del DS Nº 270/04, del Ministerio de Vivienda y Urbanismo, vigentes a la fecha de recepción definitiva del mencionado terminal.
 
 2. El Tipo de Terminal es un Terminal de Vehículos, de acuerdo al artículo único establecido en el texto del DS Nº 270/04, del Ministerio de Vivienda y Urbanismo.
 
 3. Déjase constancia que la presente autorización se mantendrá en tanto se cumplan las siguientes condiciones:
 
-A) Hará uso de este terminal la siguiente línea con sus servicios variantes: Empresa de Transporte Público de Pasajeros Mondarray Limitada, de Talca, con el siguiente servicio prestado con taxis colectivos:
+A) Hará uso de este terminal la siguiente línea con su servicio Troncal:
 
-Troncal:
+Ident. de Servicio: Folio Nº 132 (Línea Nº 5).
 
-B) Los responsables de la línea que utiliza el terminal corresponde a los representantes de la empresa, Sr. Gerardo Alfredo Mondaca Riquelme, RUT 9.014.017-5 y el Sr. Héctor José Araya Miranda, RUT 6.779.776-0.
+Responsable: Sind. Trabaj. Indep. Taxis Colect. Puente Claro.
 
-C) El terminal podrá ser utilizado por una cantidad máxima de 60 taxis colectivos, conforme a las Tablas 8 y 9 establecidas en el texto del DS Nº 270/04, del Ministerio de Vivienda y Urbanismo.
+Tipo de Servicio: Taxi Colectivo Urbano - Talca.
 
-D) El funcionario encargado de la administración del terminal, será el Sr. Gerardo Alfredo Mondaca Riquelme, RUT Nº 9.014.017-5, domiciliado en Calle 19 Sur Nº 590, de la comuna de Talca.
+B) El responsable de la Línea que utiliza el terminal corresponde al presidente y representante Legal del Sindicato de Trabajadores Independientes de taxis colectivos Línea Nº 5 "Puente Claro", de Talca, Sr. Juan Manuel Rojas Pérez, cédula de identidad Nº 8.063.562-1.
+
+C) El terminal podrá ser utilizado por una cantidad máxima de 60 taxis colectivos, conforme a las Tablas 8 y 9 establecidas en el texto del DS Nº 207/04, del Ministerio de Vivienda y Urbanismo.
+
+D) El funcionario encargado de la administración del Terminal será el Sr. Juan Manuel Rojas Pérez, cédula de identidad Nº 8.063.562-1, domiciliado en calle 8 1/2 Sur A N° 2602, de la comuna de Talca.
 
 4. No podrá acceder al terminal cuyo funcionamiento se autoriza, el público usuario de los vehículos.
 
