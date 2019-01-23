@@ -42,7 +42,7 @@ Incorpórase en el número 2, numeral III Procedimientos, del artículo primero,
 
 Reemplázase el número 3, numeral III Procedimientos del artículo primero, por lo siguiente: En el caso de tratamientos con antibióticos en fase de agua dulce y de todo tratamiento en fase de cultivo en mar, deberá, además, emitirse esa misma información a través del sistema que el Servicio determine, el día 12 del mes siguiente al período informado o el día hábil siguiente, si el día 12 del mes es inhábil.
 
-II.- Lo dispuesto en la presente resolución se aplicará para los tratamientos antimicrobianos en centros de cultivo ubicados en mar desde la fecha de publicación de la misma en el Diario Oficial y para los demás tratamientos que se administren en centros de cultivo de mar y agua dulce se aplicará transcurridos seis meses desde la referida publicación.
+II.- Lo dispuesto en la presente resolución se aplicará para los tratamientos antimicrobianos en centros de cultivo ubicados en mar desde la fecha de publicación de la misma en el Diario Oficial y para los demás tratamientos que se administren en centros de cultivo de mar y agua dulce se aplicará transcurridos catorce meses desde la referida publicación.
 
 III.- La presente resolución podrá ser impugnada por la interposición de los recursos de reposición y jerárquico, contemplados en el artículo 59 de la Ley 19.880, ante este Servicio y dentro del plazo de 5 días hábiles contado desde la respectiva notificación, sin perjuicio de la aclaración del acto dispuesta en el artículo 62 del citado cuerpo legal y de las demás acciones y recursos que correspondan de acuerdo con la normativa vigente.
 
