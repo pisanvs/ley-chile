@@ -642,7 +642,7 @@ Le corresponderá, además, elaborar cuadros estadísticos del tránsito de pasa
 
 La Jefatura Jurídica cumplirá las siguientes funciones: asesorará a la Superioridad en materias propias de derecho; participará en la elaboración y modificación de la normativa institucional; evacuará las consultas e informes de carácter legal que se relacionan con la Institución y asumirá la defensa del personal ante, los tribunales de justicia, en las causas que se instruyan por hechos ocurridos en razón del cumplimiento de sus labores.
 
-Su Jefe será el Oficial de Justicia de mayor grado.
+Su Jefe será el Oficial de Justicia de mayor grado de ese mismo Escalafón. En casos excepcionales mediante resolución fundada, el Director General podrá designar en dicha calidad a un Oficial Policial de Línea con el título de Abogado y a lo menos con el grado de Prefecto.
 
 Para el cumplimiento de sus fines, la Jefatura estará organizada en base a los siguientes Departamentos:
 
