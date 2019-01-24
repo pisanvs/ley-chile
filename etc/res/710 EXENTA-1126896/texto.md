@@ -38,6 +38,8 @@ Resolución:
 
 .
 
+A.T.= Asistencia Técnica
+
 3. Comprométense los recursos disponibles en la Región de Magallanes y Antártica Chilena, para la selección del mes de noviembre de 2018, según la distribución señalada en el siguiente cuadro:
 
 .
