@@ -1,74 +1,36 @@
-ESTABLECE REGULACIONES PARA INGRESO DE MATERIAL VEGETAL A NIVEL DE CUARENTENA POSENTRADA ABSOLUTA Y DE FILTRO
+MODIFICA RESOLUCIÓN Nº 7.316 DE 2013, QUE ESTABLECE REGULACIONES PARA INGRESO DE MATERIAL VEGETAL A NIVEL DE CUARENTENA POSENTRADA ABSOLUTA Y DE FILTRO
 
-Núm. 7.316 exenta.- Santiago, 25 de noviembre de 2013.- Vistos: La ley Nº 18.755 Orgánica del Servicio Agrícola y Ganadero; el decreto ley Nº 3.557 de 1980 sobre Protección Agrícola; el decreto Nº 156 de 1998, del Ministerio de Agricultura que habilita puertos para la importación de vegetales, animales, productos y subproductos e insumos agrícolas y pecuarios, al territorio nacional; las resoluciones del Servicio Agrícola y Ganadero Nº 3.815 de 2003 y Nº 6.383 de 2013.
+Núm. 373 exenta.- Santiago, 18 de enero de 2019.
+
+Vistos:
+
+Lo dispuesto en la Ley Nº 18.755, Orgánica del Servicio Agrícola y Ganadero, el decreto ley Nº 3.557 de 1980, sobre Protección Agrícola, y el decreto Nº 510 de 2016, que habilita puertos para la importación de mercancías sujetas a revisión del Servicio Agrícola y Ganadero (SAG), el decreto Nº 112 de 2018, que nombra al Director Nacional del Servicio Agrícola y Ganadero, todos del Ministerio de Agricultura, las resoluciones N os 3.080 de 2003, 3.815 de 2003, 133 de 2005, 3.589 de 2012, 6.383 de 2013 y 7.316 de 2013, todas del Servicio Agrícola y Ganadero.
 
 Considerando:
 
-1. Que, el Servicio Agrícola y Ganadero está facultado para establecer los requisitos fitosanitarios para la importación al país de artículos reglamentados a fin de prevenir la introducción y dispersión de plagas reglamentadas.
+1. Que, el Servicio Agrícola y Ganadero (SAG) es la autoridad fitosanitaria oficial encargada de proteger el patrimonio fitosanitario del país, y que, en el ámbito de esta atribución, realiza la labor de calificar las plagas cuarentenarias para el territorio nacional.
 
-2. Que, es necesario reforzar en forma periódica la conducción de la Cuarentena Posentrada, en base a la experiencia adquirida en el manejo de los materiales que han ingresado previamente bajo esta medida fitosanitaria y con los antecedentes técnicos obtenidos por este Servicio.
+2. Que, el Servicio Agrícola y Ganadero está facultado para establecer los requisitos fitosanitarios para la importación al país de artículos reglamentados a fin de prevenir la introducción y dispersión de plagas reglamentadas.
 
-3. Que, las Estaciones Cuarentenarias, son lugares que permiten mantener envíos de plantas importados, principalmente las plantas para plantar, en confinamiento, con el fin de verificar si están o no infestadas de plagas cuarentenarias.
+3. Que, en virtud de esa facultad, el Servicio dictó la resolución Nº 7.316 de 2013, que establece regulaciones para ingreso de material vegetal a nivel de Cuarentena Posentrada Absoluta y de Filtro.
 
-4. Que, el Servicio cuenta con la Estación Cuarentenaria Agrícola, la cual dispone de personal altamente capacitado en la detección y diagnóstico de plagas cuarentenarias y proporciona, al mismo tiempo, condiciones de mayor confinamiento fitosanitario a los materiales que ingresan a Cuarentena Posentrada.
+4. Que es necesario aumentar la eficiencia en el uso de las instalaciones de la Estación Cuarentenaria Agrícola (ECA) del SAG, mediante la optimización en la forma en que se utilizan los espacios disponibles.
 
-5. Que, se requiere mejorar los niveles de confinamiento de las plagas en las plantas para plantar basado en el comportamiento, biología y naturaleza de las plagas cuarentenarias que pudieran venir asociadas a este material.
+5. Que, conforme a lo anterior, un modo de optimizar los espacios corresponde a que los materiales vegetales de orígenes con condiciones fitosanitarias similares pueden ser mantenidos de manera conjunta en un mismo lugar de cuarentena, sin poner en riesgo ni la bioseguridad fitosanitaria de la Estación Cuarentenaria, ni la trazabilidad y manejo del material vegetal.
 
-6. Que se ha evaluado la efectividad en el manejo del riesgo, en relación a diferentes intensidades de medidas dentro del proceso de Cuarentena Posentrada y se ha considerado diferenciar niveles de riesgo distinto, lo que permite segregar y organizar los procedimientos por nivel de cuarentena.
+6. Que, asimismo, los materiales vegetales de igual origen, ingresados a la cuarentena en periodos de tiempo iguales o inferiores a 60 días corridos, también pueden ser conducidos de manera conjunta sin afectar la bioseguridad fitosanitaria de la Estación Cuarentenaria, ni la trazabilidad y manejo del material vegetal.
+
+7. Que, de igual forma, se ha identificado que los tiempos de espera tanto en los ingresos como en el retiro de los materiales afectan considerablemente el funcionamiento y eficiencia del uso de las instalaciones de la ECA, perjudicando las nuevas intenciones de importación de material vegetal de propagación a nuestro país.
+
+8. Que, producto de la experiencia de los profesionales y especialistas que cumplen funciones en la Estación Cuarentenaria Agrícola, se pueden determinar las especies y el número de plantas factibles de mantener y manejar agronómicamente en régimen de cuarentena Absoluta, y como consecuencia de ello, se ha determinado incorporar a la lista de géneros y especies a Diospyros kaki y Vacciniurn spp.
+
+9. Que, históricamente no ha habido requerimientos para el ingreso de especies forestales a la Estación Cuarentenaria Agrícola del SAG por parte de los usuarios a este tipo de Cuarentena de Posentrada.
+
+10. Que, debido a las políticas Agrarias establecidas por el Ministerio de Agricultura, se ha determinado priorizar el ingreso de especies frutales a la Estación Cuarentenaria Agrícola del SAG para potenciar el recambio de variedades producidas en el país.
 
 Resuelvo:
 
-### 1. DISPOSICIONES GENERALES:
-
-1.1. Para efectos de esta resolución se entenderá por:
-
-Período de Cuarentena Absoluta o de Filtro: Corresponde al tiempo calendario efectivo y mínimo de verificación fitosanitaria al cual son sometidos los materiales de propagación conducidos bajo estos niveles de cuarentena, definido desde su establecimiento hasta el término de la inspección fitosanitaria, de acuerdo a la especie vegetal.
-
-1.2. El Servicio podrá autorizar el ingreso a Cuarentena Posentrada de material de alto nivel de riesgo fitosanitario, determinado a través de ARP o para materiales positivos a plagas cuarentenarias ausentes del país, siendo resuelta por la División técnica del Servicio, cuarentena que deberá conducirse exclusivamente en la Estación Cuarentenaria Agrícola (ECA) del Servicio (Estación Cuarentenaria 1), ya que ésta dispone de las siguientes características o condiciones:
-
-a. Sistemas para detectar e identificar las plagas
-
-cuarentenarias,
-
-b. Instalaciones y equipamiento que permiten dar
-
-condiciones de confinamiento fitosanitario apropiadas
-
-al nivel de riesgo de los materiales cuarentenados,
-
-c. Instalaciones y equipamiento que permiten realizar
-
-el acondicionamiento del material vegetal y dar las
-
-condiciones medioambientales predisponentes para
-
-realizar la verificación fitosanitaria requerida y
-
-para la expresión de síntomas y signos de las plagas,
-
-d. Instalaciones y equipamiento para realizar
-
-tratamientos, eliminación o destrucción de material
-
-vegetal infestado y otros materiales acompañantes que
-
-puedan albergar plagas,
-
-e. Personal calificado para el mantenimiento de las
-
-instalaciones de la ECA y conducción de los materiales
-
-cuarentenados,
-
-f. Personal especializado en la detección y diagnóstico
-
-de plagas cuarentenarias asociadas a los materiales
-
-cuarentenados.
-
-1.3. Si por causas fortuitas o de fuerza mayor, ajenas al funcionamiento o manejo de la ECA, los materiales mantenidos en ella resultaran deteriorados, el Servicio no asumirá responsabilidades de ningún tipo.
-
-1.4. Los procedimientos que se aplican a las cuarentenas conducidas en la ECA, se encuentran establecidos en la normativa vigente que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada, describiéndose en la presente resolución los aspectos particulares y específicos de estos niveles de cuarentena.
+1. Modifíquese la resolución N° 7.316 de 2013, que establece regulaciones para ingreso de material vegetal a nivel de Cuarentena Posentrada Absoluta y de Filtro, en el sentido de reemplazar el Resuelvo 2 por el siguiente:
 
 ### 2. DE LA CUARENTENA ABSOLUTA
 
@@ -134,48 +96,4 @@ El término de las restricciones cuarentenarias quedará establecido por medio d
 
 2.18. Aquellas cuarentenas que se hayan establecido dentro de los 60 días previos a la publicación de la presente resolución, podrán optar a todas las disposiciones establecidas en ella.
 
-### 3. DE LA CUARENTENA DE FILTRO
-
-3.1. Cumplirán Cuarentena de Filtro aquellos envíos de material vegetal, constituidos por plantas (excepto semillas y material de cultivo de tejido in vitro), de las especies descritas en la normativa vigente que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada y además aquellos que cumplan con los siguientes criterios:
-
-a. Especies u orígenes que ingresen por primera vez al
-
-país o
-
-b. Envíos que hayan presentado intercepciones de plagas
-
-cuarentenarias en envíos anteriores, considerando la
-
-misma especie, origen y proveedor.
-
-Para los envíos que cumplan con los criterios señalados precedentemente, el Servicio realizará seguimiento fitosanitario a través de la Cuarentena de Filtro por un período no menor a 2 años; el cual será renovado en caso de detectarse plagas cuarentenarias, sin desmedro de otras medidas que el Servicio pudiera adoptar en atención a salvaguardar el patrimonio nacional.
-
-3.2. El ingreso de materiales vegetales que deban cumplir con Cuarentena de Filtro será autorizado en forma previa por medio de la dictación de una resolución que autoriza Cuarentena Posentrada por la División técnica del Servicio. Para esto el importador deberá presentar la solicitud respectiva en la Oficina del Servicio y seguir con el proceso descrito en la normativa vigente que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada.
-
-Para el caso de la Cuarentena de Filtro, se podrá establecer un envío amparado por una resolución que Autoriza Cuarentena Posentrada, en más de un cubículo de la ECA, manteniéndose el resto de los criterios definidos en la normativa vigente que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada.
-
-3.3. La obtención del material destinado a cumplir Cuarentena de Filtro en la ECA será realizado por el Servicio en el Punto de Ingreso, de acuerdo a la siguiente tabla y orientado a aquellos materiales que presenten sintomatología o signos sospechosos a problemas fitosanitarios; cumpliendo paralelamente el resto del envío Cuarentena Predial.
-
-Para efecto de aplicación de la siguiente tabla, la unidad de muestreo estará referida a plantas, ramillas, estacas, entre otras.
-
-TABLA DE MUESTREO PARA CAPTACIÓN DE MATERIAL DESTINADO A CUARENTENADA DE FILTRO, POR ESPECIE Y VARIEDAD / CLON
-
-.
-
-* solo para especies de orígenes nuevos, o especies nuevas, que no hayan sido definidas como especies con cuarentena absoluta
-
-sobre 2.500 repetir tabla
-
-3.4. Para efectos del término de la cuarentena o para la aplicación de medidas fitosanitarias derivadas de posibles problemas fitosanitarios detectados, el material mantenido en Cuarentena de Filtro y en Cuarentena Predial, se manejarán como una sola unidad.
-
-3.5. Una vez que se hayan efectuado todos los análisis tendientes a la detección de plagas reglamentadas, el material que se encuentre cumpliendo Cuarentena de Filtro (Estación Cuarentenaria 1) deberá ser trasladado al lugar de Cuarentena Predial (Estación Cuarentenaria 2), donde se establecerá con el resto del envío, previa dictación de la resolución de Traslado correspondiente, por parte de la División técnica.
-
-3.6. La Contraparte Técnica será la responsable de efectuar el traslado de dicho material, dentro de un plazo máximo de 30 días a partir de la fecha de dictación de una Resolución de Traslado, bajo los procedimientos de resguardo que el Servicio establezca; previa coordinación entre la ECA y la Oficina SAG correspondiente. El Servicio no se responsabilizará del material que no haya sido retirado dentro del plazo descrito.
-
-3.7. La detección de plaga cuarentenaria durante el desarrollo de la Cuarentena Absoluta o de Filtro, esté o no asociada a la especie vegetal en la normativa vigente, podrá implicar la destrucción de todo el envío o parte de éste, incluyendo al material que se encuentre en cuarentena predial, y la adopción de otras medidas fitosanitarias necesarias para evitar el escape y dispersión al medio de la plaga detectada, medidas que serán determinadas previo análisis y evaluación de cada caso por parte del Servicio, siendo la ejecución de estas medidas de cargo del importador. La medida de destrucción deberá ser instruida mediante resolución dictada por el Servicio.
-
-3.8. En la Cuarentena Predial, todo lo concerniente al confinamiento, manejo, resguardo, período de cuarentena, término de las restricciones cuarentenarias, entre otras, deberá dar fiel cumplimiento a las disposiciones establecidas en la normativa vigente que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada y en la que establece regulaciones para ingreso de material vegetal a Nivel de Cuarentena Posentrada Predial.
-
-4. Las infracciones a la normativa y procedimientos de la presente resolución, serán sancionadas en conformidad al decreto ley Nº 3.557 de 1980, sobre Protección Agrícola, y la ley Nº 18.755, Orgánica del Servicio Agrícola y Ganadero.
-
-Anótese, comuníquese y publíquese.- Aníbal Ariztía Reyes, Director Nacional Servicio Agrícola y Ganadero.
+Anótese, comuníquese y publíquese.- Horacio Bórquez Conti, Director Nacional, Servicio Agrícola y Ganadero.
