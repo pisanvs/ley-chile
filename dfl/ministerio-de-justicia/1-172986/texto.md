@@ -70,6 +70,8 @@ La Corte Suprema de Justicia y las Cortes de Alzada, en el mes de marzo de cada 
 
 La ley no obliga sino una vez promulgada en conformidad a la Constitución Política del Estado y publicada de acuerdo con los preceptos que siguen.
 
+El decreto supremo promulgatorio de una ley iniciada en una moción deberá contener, a continuación del nombre de aquella, el de los diputados o senadores autores de la referida iniciativa.
+
 #### Artículo 7º (art. 2)
 
 <!-- parte:8717787 -->
