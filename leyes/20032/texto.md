@@ -1,6 +1,6 @@
 LEY NUM. 20.032
 
-REGULA EL RÉGIMEN DE APORTES FINANCIEROS DEL ESTADO A LOS COLABORADORES ACREDITADOS
+ESTABLECE SISTEMA DE ATENCION A LA NIÑEZ Y ADOLESCENCIA A TRAVES DE LA RED DE COLABORADORES DEL SENAME, Y SU REGIMEN DE SUBVENCION
 
 Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
 
@@ -10,23 +10,23 @@ Proyecto de ley:
 
 Normas preliminares
 
-#### Artículo 1
+#### Artículo 1º
 
-Las disposiciones de esta ley tienen por objeto establecer la forma y condiciones en que el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia, en adelante el "Servicio", se relacionará con sus colaboradores acreditados.
+Las disposiciones de esta ley tienen por objeto establecer la forma y condiciones en que el Servicio Nacional de Menores, en adelante SENAME, subvencionará a sus colaboradores acreditados.
 
-Asimismo, determinan la forma en que el Servicio velará para que la acción desarrollada por sus colaboradores acreditados respete y promueva los derechos fundamentales de los niños, niñas y adolescentes sujetos de atención y se ajuste a lo dispuesto en esta ley y en las demás disposiciones legales y reglamentarias relacionadas con la labor que ellos desempeñan.
+Asimismo, determinan la forma en que el SENAME velará para que la acción desarrollada por sus colaboradores acreditados respete y promueva los derechos fundamentales de los niños, niñas y adolescentes sujetos de atención y se ajuste a lo dispuesto en esta ley y en las demás disposiciones legales y reglamentarias relacionadas con la labor que ellos desempeñan.
 
-#### Artículo 2
+#### Artículo 2º
 
-La acción del Servicio y sus colaboradores acreditados se sujetará a los siguientes principios:
+La acción del SENAME y sus colaboradores acreditados se sujetará a los siguientes principios:
 
 1) El respeto, la promoción, la reparación y la protección de los derechos humanos de las personas menores de dieciocho años contenidos en la Constitución Política de la República, la Convención sobre los Derechos del Niño, los demás tratados internacionales en la materia ratificados por Chile y que se encuentren vigentes, y las leyes dictadas conforme a ellos, asegurando las condiciones que otorguen el necesario bienestar biopsicosocial, así como la efectividad de sus derechos y las condiciones ambientales y oportunidades que los niños, niñas y adolescentes requieren según su etapa de desarrollo, mediante una intervención oportuna y de calidad.
 
 2) La promoción de la integración familiar, escolar y comunitaria del niño, niña o adolescente y su participación social.
 
-3) La profundización de la alianza entre las organizaciones de la sociedad civil, gubernamentales, regionales y municipales, en el diseño, ejecución y evaluación de las políticas públicas dirigidas a la niñez y a la adolescencia.
+3) La profundización de la alianza entre las organizaciones de la sociedad civil, gubernamentales, regionales y municipales, en el diseño, ejecución y evaluación de las políticas públicas dirigidas a la infancia y a la adolescencia.
 
-4) La transparencia, eficiencia, eficacia e idónea administración de los recursos que conforman el régimen de aportes financieros del Estado, establecido en la presente ley, a los colaboradores acreditados por parte del Servicio, en su destinación a la atención de los niños, niñas y adolescentes. Para ello, el Servicio deberá fiscalizar y supervigilar la ejecución de las diversas líneas de acción que desarrollen los colaboradores acreditados en los ámbitos técnicos y financieros y en otros que resulten relevantes para su adecuado desempeño. Las funciones de fiscalización y supervigilancia se encontrarán separadas.
+4) La transparencia, eficiencia, eficacia e idónea administración de los recursos que conforman la subvención, en su destinación a la atención de los niños, niñas y adolescentes. Para ello, el SENAME deberá supervigilar, fiscalizar y evaluar periódicamente la ejecución y resultado de las diversas líneas de acción que desarrollen los colaboradores acreditados, en los ámbitos técnicos y financieros, y en otros que resulten relevantes para su adecuado desempeño.
 
 5) La probidad en el ejercicio de las funciones que ejecutan. Todo directivo, profesional y persona que se desempeñe en organismos colaboradores deberá observar una conducta intachable y un desempeño honesto y leal de sus funciones con preeminencia del interés general sobre el particular.
 
@@ -44,105 +44,97 @@ Sin perjuicio de ello, el Estado velará por el acceso oportuno y preferente a l
 
 9) Participación e información en cada etapa de la intervención. Se informará y se tendrá en cuenta la opinión del niño, niña y adolescente respecto a los procesos de intervención que le atañen, en función de su edad y madurez.
 
-#### Artículo 3
+#### Artículo 3º
 
-El Servicio establecerá un régimen de aportes financieros, conforme a las disposiciones de la presente ley, para los programas de protección especializada que realicen los colaboradores acreditados relativos a las siguientes líneas de acción:
+El SENAME podrá subvencionar, conforme a las disposiciones de la presente ley, las actividades desarrolladas por los colaboradores acreditados relativas a las siguientes líneas de acción:
 
-1) Diagnóstico clínico especializado y seguimiento de casos, y pericia.
+1) Oficinas de protección de los derechos del niño, niña y adolescente;
 
-2) Intervenciones ambulatorias de reparación.
+2) Centros Residenciales;
 
-3) Fortalecimiento y vinculación.
+3) Programas, y
 
-4) Cuidado alternativo.
+4) Diagnóstico.
 
-5) Adopción.
+Lo anterior, sin perjuicio de las facultades del SENAME para desarrollar estas líneas directamente, de conformidad a lo establecido en el artículo 3º, número 4, del decreto ley Nº 2.465, de 1979, que fija el texto de su ley orgánica.
 
-Un reglamento expedido por el Ministerio de Desarrollo Social y Familia, suscrito además por el Ministerio de Hacienda, establecerá los programas de protección especializada que se desarrollarán en cada línea de acción, los modelos de intervención respectivos y todas las normas necesarias para la aplicación de los artículos 29 y 30.
+La línea de acción de diagnóstico será de ejecución exclusiva, y los organismos colaboradores acreditados que la desarrollen no podrán ejecutar ninguna otra, con el objeto de resguardar la independencia e imparcialidad de los mismos respecto de las demás líneas de acción.
 
-Corresponderá al Servicio garantizar la existencia de las líneas de acción de protección especializada señaladas en la presente ley en cada una de las regiones del país, de conformidad con lo establecido en el inciso primero del artículo 18 ter de la ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia, y modifica normas legales que indica.
+#### Artículo 4º
 
-El Servicio se encargará de elaborar informes periódicos que den cuenta del nivel de cobertura pública de líneas y programas de atención, y remitirá dicho informe a los Ministerios de Desarrollo Social y Familia y de Hacienda.
+Para efectos de esta ley, se entenderá por:
 
-Este informe deberá hacer especial énfasis en cuanto a la carencia o nivel de suficiencia de la oferta pública de líneas y programas de atención.
+1) Colaboradores acreditados: las personas jurídicas sin fines de lucro que, con el objeto de cumplir el rol público de atención y cuidado de la niñez desarrollando las acciones a que se refiere el artículo anterior, sean reconocidas como tales por resolución del Director Nacional del SENAME, en la forma y condiciones exigidas por esta ley y su reglamento.
 
-#### Artículo 4
+Las personas naturales podrán ser reconocidas como colaboradores acreditados, para el solo efecto de desarrollar la línea de acción de diagnóstico, en conformidad con el procedimiento dispuesto en el inciso anterior.
 
-Para efectos de esta ley se entenderá por:
+Las instituciones públicas que ejecuten o entre cuyas funciones se encuentre desarrollar acciones relacionadas con las materias de que trata esta ley, no requerirán de dicho reconocimiento;
 
-a) Niños y niñas: todo ser humano menor de catorce años.
+2) Registro público de colaboradores acreditados y proyectos: el sistema de información acerca de la red de colaboradores acreditados del SENAME que contendrá los antecedentes a que se refiere el artículo 4º de la ley Nº 19.862 y su reglamento y adicionalmente los resultados obtenidos por cada proyecto en la evaluación de desempeño.
 
-b) Adolescentes: todo ser humano menor de dieciocho años y mayor de catorce.
+En este caso, el registro será extensivo, en lo pertinente, a las personas naturales reconocidas como colaboradores acreditados, conforme a la presente ley.
 
-c) Colaboradores acreditados: las personas jurídicas sin fines de lucro que tengan por objeto desarrollar los programas de protección especializada a que se refiere el artículo anterior, y sean acreditadas como tales por el Servicio, en la forma y condiciones que establezca la ley y demás normativa.
+El registro incluirá específicamente los colaboradores sancionados e inhabilitados, de conformidad a lo que señale el reglamento, sin perjuicio de lo dispuesto en el artículo 21 de la ley N° 19.628;
 
-Asimismo, podrán constituirse como colaboradores acreditados las instituciones públicas que ejecuten o entre cuyas funciones se encuentre desarrollar acciones relacionadas con las materias de que trata esta ley.
+3) Líneas de acción subvencionables: aquellas modalidades de atención señaladas en el artículo 3º de la presente ley. En particular se entenderá por cada una de ellas lo siguiente:
 
-d) Programas financiables: serán objeto de financiamiento por parte del Servicio conforme a la presente ley los programas de protección especializada de las líneas de acción a que se refiere el artículo 3.
+3.1) Oficinas de protección de los derechos del niño, niña o adolescente (en adelante OPD): instancias de atención ambulatoria de carácter local, destinadas a realizar acciones encaminadas a otorgar protección integral de los derechos de los niños, niñas o adolescentes, a contribuir a la generación de las condiciones que favorezcan una cultura de reconocimiento y al respeto de los derechos de la infancia.
 
-#### Artículo 5
+3.2) Programas: un conjunto de actividades, susceptibles de ser agrupadas según criterios técnicos. Existirán, a lo menos, los siguientes programas:
 
-Para los efectos del régimen de aportes financieros del Estado establecido en la presente ley, serán sujetos de atención de los programas de protección especializada los niños, niñas y adolescentes sujetos de protección del Servicio y sus familias, derivados por el tribunal competente o el órgano de protección administrativa. El Servicio proveerá prestaciones a las familias de los niños, niñas y adolescentes o a sus cuidadores, salvo que sea improcedente, en las condiciones y modalidades establecidas en las leyes y en sus respectivos reglamentos.
+a) Programa de Protección de Derechos: destinado a ofrecer al niño, niña o adolescente la atención ambulatoria necesaria para la adecuada protección, reparación o restitución de sus derechos. En los casos en que la intervención técnica lo amerite, esta línea podrá desarrollarse conjuntamente con la línea residencial, para lo cual el colaborador acreditado podrá presentar un solo proyecto al respectivo llamado a licitación.
+
+Para los efectos de lo dispuesto en el Título IV de la presente ley, dentro de este programa, se distinguirá:
+
+a.1) Programa de protección en general: destinado a la protección, reparación o restitución de los derechos del niño, niña o adolescente frente a situaciones de vulneración de los mismos que por su entidad no requieran de una intervención especializada.
+
+a.2) Programa de protección especializado: destinado a otorgar intervención reparatoria especializada frente a situaciones de graves vulneraciones de derechos, tales como: situación de calle, consumo abusivo de drogas, maltrato infantil grave, explotación sexual comercial infantil, u otras problemáticas que atenten gravemente contra el normal desarrollo del niño, niña o adolescente.
+
+a.3) Fortalecimiento familiar, aquéllos destinados a afianzar la capacidad de los padres o de quienes puedan asumir responsablemente el cuidado personal del niño, niña o adolescente que se encuentre en un centro residencial para ejercer directamente dicho cuidado, propiciando su pronto egreso y su reinserción familiar.
+
+b) Programa de Reinserción para Adolescentes Infractores a la Ley Penal: dirigido a ejecutar las acciones que la ley encomiende al SENAME respecto a la responsabilidad de un adolescente como consecuencia de la comisión de una infracción a la ley penal.
+
+Para los efectos de lo dispuesto en el Título IV de la presente ley, dentro de este programa se distinguirán el de reinserción para adolescentes infractores a la ley penal en general y el programa de libertad asistida.
+
+c) Programa de Prevención: tendiente a prevenir situaciones de vulneración a los derechos del niño, niña o adolescente que afecten su integración familiar, escolar y comunitaria.
+
+d) Programa de Promoción: destinado a promover los derechos del niño, niña o adolescente, en alguna de las formas señaladas por el artículo 16.
+
+e) Programa de Familias de Acogida: dirigido a proporcionar al niño, niña o adolescente vulnerado en sus derechos un medio familiar donde residir, mediante familias de acogida.
+
+f) Programa de Emergencia: tendiente a apoyar a los colaboradores acreditados frente a situaciones de emergencia o catástrofe que pudieran afectar la normal atención de los niños, niñas y adolescentes.
+
+3.3) Centros Residenciales: aquéllos destinados a la atención de los niños, niñas y adolescentes privados o separados de su medio familiar. Se clasificarán en centros de diagnóstico y residencias:
+
+a) Centros de Diagnóstico: aquéllos destinados a proporcionar la atención transitoria y urgente de aquellos niños, niñas y adolescentes, que requieran diagnóstico o ser separados de su medio familiar mientras se adopta una medida de protección a su favor, proporcionando alojamiento, alimentación, abrigo, apoyo afectivo y psicológico y los demás cuidados que éstos requieran.
+
+b) Residencias: aquéllas destinadas a proporcionar, de forma estable, a los niños, niñas y adolescentes separados de su medio familiar, alojamiento, alimentación, abrigo, recreación, estimulación precoz, apoyo afectivo y psicológico, asegurando su acceso a la educación, salud y a los demás servicios que sean necesarios para su bienestar y desarrollo.
+
+3.4) Diagnóstico: la labor ambulatoria de asesoría técnica en el ámbito psicosocial u otros análogos a la autoridad judicial competente u otras instancias que lo soliciten, y
+
+4) Unidad de subvención SENAME (USS): la unidad equivalente en dinero con la cual se expresan los aportes del SENAME a los colaboradores acreditados.
+
+#### Artículo 5º
+
+Para los efectos del pago de la subvención podrán ser sujetos de atención de los proyectos ejecutados por los colaboradores acreditados, dentro de las líneas de acción señaladas en el artículo 3º de la presente ley, los siguientes:
+
+1) Los niños, niñas y adolescentes vulnerados en sus derechos o en situación de exclusión social;
+
+2) Los adolescentes inculpados de haber cometido una infracción a la ley penal, sujetos a una medida decretada por el tribunal competente o a una pena como consecuencia de haberla cometido, y
+
+3) Los niños, niñas o adolescentes que no encontrándose en las situaciones previstas en los números anteriores, requieran de la acción del SENAME y sus colaboradores acreditados para la prevención de situaciones de vulneración de sus derechos y promoción de los mismos.
+
+El SENAME podrá también subvencionar las actividades relacionadas con la atención a los padres, las personas que tengan el cuidado personal de los niños, niñas y adolescentes, o a quienes les corresponda un rol protector de sus derechos cuando de ello dependa la prevención o superación de la situación que vulnera dichos derechos o el desarrollo del proceso de reinserción de los adolescentes infractores de ley penal.
 
 ## Título II
 
 De los colaboradores acreditados
 
-#### Artículo 6
+#### Artículo 6º
 
-El Servicio dictará los actos administrativos que otorguen la acreditación a los colaboradores, previa aprobación del Consejo de Expertos a que se refiere el artículo 9 de la ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia.
+Podrán ser acreditados como colaboradores las personas jurídicas a que se refiere el artículo 4º Nº 1), que dentro de sus finalidades contemplen el desarrollo de acciones acordes con los fines y objetivos de esta ley y las personas naturales que tengan idoneidad y título profesional para el desarrollo de la línea de acción de diagnóstico.
 
-Podrán ser acreditados como colaboradores las personas jurídicas a que se refiere la letra c) del artículo 4, que dentro de sus finalidades contemplen el desarrollo de acciones acordes con los fines y objetivos de esta ley.
-
-Para obtener la acreditación como colaborador del Servicio, hayan o no sido colaboradores con anterioridad a la vigencia de esta ley, deberán cumplir, entre otros, los siguientes requisitos:
-
-1. Que las personas jurídicas estén constituidas sin fines de lucro.
-
-2. Que cumplan con los requisitos señalados en la ley N° 19.862, que establece Registros de las Personas Jurídicas Receptoras de Fondos Públicos a efectos de percibir el aporte financiero del Estado de que trata esta ley.
-
-3. Que demuestren contar con altos estándares de gestión institucional y financiera.
-
-4. Que hayan adoptado e implementado modelos de organización, administración y supervisión para prevenir delitos susceptibles de ser cometidos en el ejercicio de sus funciones, en especial los que afecten a niños, niñas y adolescentes.
-
-5. Que cumplan con los estándares de acreditación que se fijen en el reglamento a que se refiere el artículo 3 ter de la ley N° 20.530, que crea el Ministerio de Desarrollo Social y Familia y modifica cuerpos legales que indica, los que incluirán, entre otros, que cuenten con la infraestructura suficiente, digna, adecuada y segura, sobre todo tratándose de la entrega de cuidados alternativos.
-
-Los estándares que fije dicho Ministerio deberán traducirse en exigencias específicas y concretas de cumplimiento estricto de los principios orientadores del Servicio establecidos en el artículo 4 de su ley orgánica.
-
-6. Que cuenten con profesionales para los diagnósticos especializados, pericias e intervenciones de reparación que, por su naturaleza, no pueden ser ejecutados por técnicos, y con el personal, al menos, de nivel técnico suficientemente idóneo para el cuidado cotidiano de los niños, niñas y adolescentes y el trato directo con ellos.
-
-Los perfiles de cargo deberán respetar estos estándares mínimos.
-
-Los títulos profesionales y técnicos deberán ser entregados y debidamente autenticados al Servicio, el que llevará un registro público actualizado de ellos en su sitio web. La institución acreditada informará de sus cambios de personal, cumpliendo con este requisito.
-
-7. Que no tengan entre sus fundadores, miembros del directorio, administradores, directores, profesionales, o trabajadores afectos a las prohibiciones e inhabilidades que señala esta ley.
-
-Los requisitos señalados en el inciso anterior se aplicarán a las personas naturales que soliciten acreditación, en tanto les sean aplicables.
-
-Sin perjuicio de lo anterior, la acreditación para ejecutar la línea de acción de adopción se regirá, además, por lo establecido en la normativa de adopción vigente.
-
-#### Artículo 6 bis
-
-Son inhabilidades e incompatibilidades para ser colaborador acreditado, las siguientes:
-
-1. Haber sido Director Nacional, Director Regional o Jefe de Unidad o fiscalizador del Servicio durante los tres últimos años de funcionamiento del Servicio.
-
-2. Los cónyuges, convivientes civiles y parientes hasta el tercer grado de consanguinidad o afinidad de las personas señaladas en el número anterior.
-
-3. Ser miembro del Consejo de Expertos del Servicio a que se refiere el artículo 9 de la ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia y modifica normas legales que indica, o haberlo sido durante los últimos doce meses anteriores a su solicitud de acreditación.
-
-4. Haber sido la persona natural o tener la persona jurídica entre sus fundadores, miembros del directorio, administradores o gerentes personas que, dentro de los doce meses anteriores a la acreditación, hayan ejercido los cargos de ministro de Estado, subsecretario, jefe de servicio, senador, diputado, ministro del Tribunal Constitucional, ministro de la Corte Suprema, Fiscal Nacional del Ministerio Público, Defensor Nacional de la Defensoría Penal Pública, Defensor de los Derechos de la Niñez, Contralor General de la República, cargos del alto mando de las Fuerzas Armadas y de las Fuerzas de Orden y Seguridad Pública, delegado presidencial regional, delegado presidencial provincial, secretarios regionales ministeriales, alcalde o miembros del escalafón primario del Poder Judicial.
-
-5. Ser la persona natural o tener la persona jurídica fundadores, miembros del directorio, administradores, gerentes o trabajadores, sin importar su calidad, inhabilitados por cualquiera de las causales establecidas en el artículo 56 de la ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia y modifica normas legales que indica.
-
-6. Ser la persona natural o tener la persona jurídica dentro de sus fundadores, miembros del directorio, administradores, gerentes o trabajadores, sin importar su calidad, a los que se les hayan aplicado sanciones administrativas, penales o civiles, por hechos constitutivos de violencia, de cualquier índole, que hayan afectado la vida o la integridad física o psíquica de los niños, niñas y adolescentes bajo su cuidado, o a los que se encontraren sujetos a alguna medida cautelar.
-
-7. Ser la persona natural o tener la persona jurídica dentro de sus fundadores, miembros del directorio, administradores, gerentes o profesionales a deudores de pensiones alimenticias.
-
-8. Ser sancionado el colaborador reiteradamente por incumplimiento de la legislación laboral y previsional.
-
-Un reglamento determinará los procesos de acreditación de los colaboradores, la forma en que se acreditará el cumplimiento de los requisitos respectivos, las causales para el rechazo y la revocación de la acreditación.
-
-Los miembros del directorio de colaboradores acreditados, su representante legal, gerentes o administradores, que hayan sido condenados por crimen o simple delito que, por su naturaleza, ponga de manifiesto la inconveniencia de encomendarles la atención directa de niños, niñas o adolescentes, o de confiarles la administración de recursos ajenos, tales como los establecidos en el artículo 56 de la ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia y modifica normas legales que indica, estarán afectos a la inhabilidad absoluta perpetua para constituir cualquier otra persona jurídica que tenga por fin trabajar con infancia y/o adolescencia; para acreditarse como colaborador con otra personalidad jurídica u otro rol único tributario; y para desempeñar funciones en el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia o en colaboradores acreditados.
+Las personas jurídicas reconocidas como colaboradores acreditados, para efectos de percibir la subvención de que trata esta ley, deberán cumplir además con los requisitos señalados en la ley Nº 19.862, que establece registros de las personas jurídicas receptoras de fondos públicos.
 
 #### Artículo 7º
 
@@ -156,7 +148,7 @@ No podrán ser reconocidos como colaboradores acreditados aquellas personas jur�
 
 4) Integrantes de los consejos técnicos de los juzgados de familia a que se refiere la ley Nº 19.968.
 
-5) Personas que se hayan desempeñado como directivo nacional o regional del Servicio, durante el año anterior a la solicitud de reconocimiento de la calidad de colaborador acreditado.
+5) Personas que se hayan desempeñado como directivo nacional o regional del SENAME, durante el año anterior a la solicitud de reconocimiento de la calidad de colaborador acreditado.
 
 6) Personas naturales que hayan sido parte de un directorio, representantes legales, gerentes o administradores de un organismo colaborador, que haya sido condenado por prácticas antisindicales, infracción de los derechos fundamentales del trabajador o delitos concursales establecidos en el Código Penal, en el año anterior a la respectiva solicitud.
 
@@ -164,13 +156,13 @@ Las incompatibilidades e inhabilidades establecidas en el inciso precedente se a
 
 La inhabilidad establecida en el numeral 1) de este artículo será aplicable a toda persona natural que desempeñe labores de trato directo con los niños, niñas y adolescentes atendidos.
 
-#### Artículo 8
+#### Artículo 8º
 
-La acreditación podrá solicitarse en cualquier momento, sin perjuicio de lo cual el Servicio realizará llamados públicos a presentar solicitudes por lo menos una vez al año, de conformidad al reglamento de la presente ley. El procedimiento de acreditación será gratuito.
+El reconocimiento como colaborador acreditado podrá solicitarse en cualquier momento, sin perjuicio de lo cual el SENAME realizará llamados públicos a presentar solicitudes, por lo menos una vez al año.
 
 #### Artículo 9º
 
-En caso de que, por causa sobreviniente, se produzca la pérdida de alguno de los requisitos señalados en el artículo 6º o se incurra en alguna de las inhabilidades o incompatibilidades establecidas en el artículo 7º, el Director Nacional del Servicio revocará el reconocimiento, de acuerdo a los siguientes criterios:
+En caso de que, por causa sobreviniente, se produzca la pérdida de alguno de los requisitos señalados en el artículo 6º o se incurra en alguna de las inhabilidades o incompatibilidades establecidas en el artículo 7º, el Director Nacional del SENAME revocará el reconocimiento, de acuerdo a los siguientes criterios:
 
 1) Si se tratare de una persona jurídica, la revocación sólo procederá en caso de pérdida no subsanable de los requisitos señalados en el artículo 6º. Si se configurare alguna inhabilidad o incompatibilidad respecto de alguna de las personas a que se refiere el inciso primero del artículo 7º, se procederá conforme al número siguiente y sólo se podrá revocar el reconocimiento de la persona jurídica cuando la circunstancia sobreviniente afectare el normal funcionamiento de la institución, y
 
@@ -180,7 +172,7 @@ En ambos casos, se entenderá que no es subsanable aquella causal que habiéndos
 
 #### Artículo 9 bis
 
-Además de las causales señaladas en el artículo anterior, el reconocimiento de colaborador acreditado podrá revocarse a través de una resolución fundada del Director Nacional del Servicio, cuando el Servicio en más de una ocasión haya puesto término anticipado a un convenio respecto de un mismo colaborador acreditado.
+Además de las causales señaladas en el artículo anterior, el reconocimiento de colaborador acreditado podrá revocarse a través de una resolución fundada del Director Nacional del Servicio, cuando el SENAME en más de una ocasión haya puesto término anticipado a un convenio respecto de un mismo colaborador acreditado.
 
 #### Artículo 10
 
@@ -188,7 +180,7 @@ La resolución que rechace o revoque el reconocimiento como colaborador acredita
 
 #### Artículo 11
 
-Los colaboradores acreditados deberán velar porque las personas que, en cualquier forma, les presten servicios en la atención de niños, niñas y adolescentes demuestren idoneidad para el trato con ellos y, en especial, que no hayan sido condenadas, se encuentren actualmente procesadas ni se haya formalizado una investigación en su contra por un crimen o simple delito que, por su naturaleza, ponga de manifiesto la inconveniencia de encomendarles la atención directa de éstos o de confiarles la administración de recursos económicos.
+Los colaboradores acreditados deberán velar porque las personas que, en cualquier forma, les presten servicios en la atención de niños, niñas y adolescentes no hayan sido condenadas, se encuentren actualmente procesadas ni se haya formalizado una investigación en su contra por un crimen o simple delito que, por su naturaleza, ponga de manifiesto la inconveniencia de encomendarles la atención directa de éstos o de confiarles la administración de recursos económicos.
 
 Sin perjuicio de lo dispuesto en el artículo 21 de la ley Nº 19.628, los colaboradores estarán obligados a solicitar a los postulantes el certificado de antecedentes para fines especiales a que se refiere el artículo 12, letra d), del decreto supremo Nº 64, de 1960, del Ministerio de Justicia, sobre prontuarios penales y certificados de antecedentes y a consultar al registro previsto en el artículo 6º bis del decreto ley Nº 645, de 1925, sobre Registro Nacional de Condenas.
 
@@ -200,93 +192,43 @@ También serán inhábiles para desempeñar labores de trato directo en organism
 
 De la ejecución de las líneas de acción
 
-#### Artículo 12
-
-El colaborador acreditado estará obligado a otorgar atención, en el más breve plazo, a todo niño, niña o adolescente que sea sujeto de protección del Servicio, a requerimiento del tribunal o del órgano de protección administrativa competente, siempre que se trate de una situación contemplada en el respectivo convenio.
-
-#### Artículo 13
-
-Los colaboradores acreditados deberán llevar un registro general, permanentemente actualizado, de las derivaciones realizadas, por un lado, por las Oficinas Locales de la Niñez y, por el otro, por los tribunales competentes; de la fecha de recepción de las derivaciones; de la o las personas responsables de asignar los casos a los profesionales competentes; de la fecha en que se realizó tal asignación y los profesionales asignados a cada caso; de la fecha de inicio de la atención al niño, niña o adolescente y a su familia; del número y fecha de las intervenciones realizadas y de las personas a quienes ellas estuvieron destinadas; del número de la carpeta del caso de cada niño, niña o adolescente atendido, la que deberá encontrarse siempre actualizada, y los demás contenidos que determine el reglamento respectivo. Este registro, así como la carpeta individual de los niños, niñas y adolescentes atendidos, será de libre acceso para los fiscalizadores del Ministerio de Desarrollo Social y Familia, para la Dirección Nacional, las direcciones regionales y los supervisores y fiscalizadores del Servicio; para la Defensoría de los Derechos de la Niñez y para el Instituto Nacional de Derechos Humanos.
-
-Los jueces de familia, los abogados patrocinantes de los niños, niñas y adolescentes y sus curadores ad litem, en las causas que tramiten respecto de los niños, niñas y adolescentes que representan, tendrán siempre acceso al registro y a las carpetas individuales antes mencionadas, pudiendo solicitar su envío al tribunal.
-
-Todas las personas que, de acuerdo con los incisos precedentes, accedan a la información en ellos referida, quedarán sujetos al deber de reserva y confidencialidad establecido en el inciso segundo del artículo 33 la ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia y modifica normas legales que indica, sancionándose su infracción del modo prescrito en el inciso cuarto de dicha norma.
-
-En el caso de los jueces de familia, éstos se regirán de conformidad con las normas de reserva establecidas en el artículo 15 de la ley N° 19.968, que crea los Tribunales de Familia.
-
-El incumplimiento de los deberes de registro y actualización, así como cualquier entorpecimiento o retardo en el acceso a ellos a las personas que tienen derecho a ello, será sancionado como falta grave de conformidad con lo prescrito en el artículo 41 de la ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia y modifica normas legales que indica.
-
-#### Artículo 13 bis
-
-Suprimido.
-
-#### Artículo 14
-
-Los directores o responsables de los proyectos de protección especializada y los profesionales que den atención directa a los niños, niñas y adolescentes en alguna de las líneas de acción señaladas por esta ley, que tengan conocimiento de una situación de vulneración a los derechos de algunos de ellos, que fuere constitutiva de delito, deberán denunciar de inmediato esta situación a las autoridades competentes, según lo establecido en los artículos 176 y 177 del Código Procesal Penal.
-
-En los casos señalados en el inciso anterior, así como en aquellas situaciones que, no siendo constitutivas de delito, vulneren sus derechos, los directores o responsables de los proyectos respectivos deberán solicitar al tribunal competente la adopción de medidas de protección a favor del niño, niña o adolescente víctima, dentro de las veinticuatro horas siguientes a la ocurrencia del o los hechos respectivos.
-
-El incumplimiento de los deberes establecidos en los incisos precedentes, además de las sanciones penales que correspondan, constituyen una falta grave sancionada de conformidad con lo prescrito en el artículo 41 de la ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia y modifica normas legales que indica.
-
-Cualquier entorpecimiento o retardo injustificado que impida el libre acceso de los profesionales, públicos o privados, que ejerzan la defensa jurídica del niño, niña o adolescente, con el fin de tener, en cualquier momento, comunicación personal, directa y reservada con aquéllos, independientemente de que cuenten con mandato judicial expreso o actúen como agentes oficiosos, será sancionado como falta grave de conformidad con lo prescrito en el artículo 41 referido en el inciso anterior.
-
-#### Artículo 15
-
-Los colaboradores acreditados que estén recibiendo aporte financiero del Estado en virtud de la presente ley deberán mantener publicada y actualizada en sus respectivas páginas web la siguiente información:
-
-1. Identificación de la entidad.
-
-2. Información de la estructura de gobierno corporativo; identificación de sus fundadores, miembros de directorio, gerentes y demás cargos directivos; estructura operacional; proyectos que ejecutan, lugares donde los ejecutan y período de duración de sus convenios; sistema de prevención de riesgo de la ocurrencia de delitos; sistema de evaluación o medición de satisfacción de los usuarios y resultados; canales on line dispuestos para recibir consultas o reclamos de las familias, cuidadores o representantes legales de los niños, niñas y adolescentes atendidos; procedimiento y plazo para su respuesta y resolución.
-
-3. Información de desempeño considerando lo siguiente: objetivos e indicadores de gestión; indicadores financieros, incluyendo los ingresos operacionales y su origen y otros indicadores relevantes; donación acogida a beneficios tributarios; gastos administrativos y remuneraciones de sus principales ejecutivos.
-
-4. Balance tributario o cuadro de ingresos y gastos.
-
-5. Identificación de los jefes de proyecto y de los equipos de profesionales a cargo de las intervenciones, personal de apoyo y, en particular, de quienes trabajan en contacto directo con los niños, niñas y adolescentes, así como de sus títulos profesionales, técnicos o cualificaciones de idoneidad, salvo que esto no sea recomendable en virtud del interés superior de los niños, niñas y adolescentes sujetos de atención, o que ponga en riesgo sus vidas y/o su integridad.
-
-6. Capacitaciones realizadas dentro de la institución.
-
-El detalle del contenido de cada uno de los numerales anteriores se establecerá en el respectivo reglamento.
-
-#### Artículo 16
-
-Suprimido.
-
-#### Artículo 17
-
-Suprimido.
-
-#### Artículo 18
-
-Suprimido.
-
-#### Artículo 19
-
-Suprimido.
-
-#### Artículo 20
-
-Suprimido.
-
-#### Artículo 21
-
-Suprimido.
-
-#### Artículo 22
-
-Suprimido.
-
-#### Artículo 23
-
-Suprimido.
-
-#### Artículo 24
-
-Suprimido.
-
 ### Párrafo 1º
 
 Reglas generales
+
+#### Artículo 12
+
+El colaborador acreditado estará obligado a otorgar atención a todo niño, niña o adolescente que lo solicite directamente o por medio de la persona encargada de su cuidado personal, a requerimiento del SENAME, del tribunal competente o de la oficina de protección de derechos respectiva, siempre que se trate de una situación para la cual sea competente, según el convenio, y cuente con plazas disponibles. Con todo, si existiere un programa o servicio más apropiado para atender a lo solicitado, será deber del colaborador requerido proponer al solicitante esa alternativa.
+
+Lo dispuesto en el inciso anterior no será aplicable a los centros residenciales ni a los programas de reinserción para adolescentes infractores de ley penal, en los cuales el colaborador acreditado sólo atenderá a los niños, niñas o adolescentes previa resolución judicial, sin perjuicio de lo dispuesto en los artículos 18 y 19 del presente Título.
+
+#### Artículo 13
+
+Los colaboradores acreditados deberán llevar un registro general de las solicitudes y atenciones realizadas y de otros hechos relevantes, que será de libre acceso para la Dirección Regional y para el supervisor del SENAME respectivos. El reglamento determinará los contenidos del mismo.
+
+#### Artículo 13 bis
+
+Los colaboradores acreditados que estén recibiendo subvención en virtud de la presente ley deberán remitir anualmente al SENAME y publicar y mantener actualizada en sus respectivas páginas web a lo menos la siguiente información:
+
+1) Identificación de la entidad.
+
+2) Información general y de contexto considerando lo siguiente: estructura de gobierno corporativo y su nómina, que incluya la información actualizada relativa a los miembros de su directorio, representantes legales, gerentes o administradores; estructura operacional, valores y principios, principales actividades y proyectos, identificación e involucramiento con grupos de interés, prácticas relacionadas con la evaluación o medición de satisfacción de los usuarios y resultados, participación en redes y procesos de coordinación con otros actores, y reclamos o incidentes.
+
+3) Información de desempeño, considerando lo siguiente: objetivos e indicadores de gestión; indicadores financieros, incluyendo los ingresos operacionales y su origen y otros indicadores relevantes; donación acogida a beneficios tributarios; gastos administrativos y remuneraciones de sus principales ejecutivos.
+
+4) Balance tributario o cuadro de ingresos y gastos. 5) Información general y de contexto relativa a las competencias técnicas y profesionales de su personal, considerando especialmente a quienes ejercen sus funciones en centros residenciales.
+
+6) Responsable de la veracidad de la información.
+
+El detalle del contenido de cada uno de los numerales anteriores se establecerá en el respectivo reglamento.
+
+Además de lo anterior, la información a que se hace referencia deberá ser sistematizada por cada organismo colaborador de forma tal que permita a las personas su fácil comprensión.
+
+#### Artículo 14
+
+Los directores o responsables de los proyectos, y los profesionales que den atención directa a los niños, niñas o adolescentes en alguna de las líneas de acción señaladas por esta ley, que tengan conocimiento de una situación de vulneración a los derechos de alguno de ellos, que fuere constitutiva de delito, deberán denunciar de inmediato esta situación a la autoridad competente en materia criminal.
+
+En los casos señalados en el inciso anterior, así como en aquellas situaciones que, no siendo constitutivas de delito, hagan necesaria una medida judicial a favor del niño, niña o adolescente, el colaborador acreditado deberá realizar la solicitud respectiva al tribunal competente.
 
 ### Párrafo 2º
 
@@ -294,25 +236,81 @@ De las oficinas de protección de derechos del niño, niña
 
 o adolescente
 
+#### Artículo 15
+
+Corresponderá, especialmente, a las oficinas de protección de derechos del niño, niña o adolescente:
+
+a) Facilitar al niño, niña o adolescente, el acceso efectivo a los programas, servicios y recursos disponibles en la comunidad, fortaleciendo el trabajo en redes y las acciones colaborativas de actores públicos y privados;
+
+b) Ofrecer directamente la protección especial que sea necesaria, cuando la derivación a un programa no sea posible o cuando dicha derivación parezca innecesaria por tratarse de una situación que admita una solución relativamente rápida con los recursos de la propia oficina, y
+
+c) Promover el fortalecimiento de las competencias parentales que corresponden a las familias, privilegiando aquellas acciones destinadas a evitar la separación del niño, niña o adolescente de su familia o de las personas encargadas de su cuidado personal.
+
 ### Párrafo 3º
 
 De los programas
+
+#### Artículo 16
+
+Los programas de promoción de los derechos del niño, niña o adolescente se dirigirán, en especial, a alguno de los siguientes objetivos:
+
+1) La formación y capacitación en materias relacionadas con el respeto y ejercicio de los derechos de los niños, niñas y adolescentes, dirigidas a éstos y a las personas que tengan trato directo con ellos;
+
+2) La difusión de los mismos derechos y de la situación de los niños, niñas y adolescentes, y
+
+3) Monitorear, evaluar y diseñar programas y proyectos por medio de estudios o investigaciones.
+
+#### Artículo 17
+
+Los programas de reinserción para infractores a la ley penal tendrán por objeto la responsabilización de los adolescentes por sus propias conductas, el resguardo de su inserción social y familiar y el respeto por los derechos y libertades de las demás personas. Para el cumplimiento de estos objetivos se contará dentro de esta línea de acción con modalidades de mayor o menor nivel de especialización considerando la complejidad de la problemática que se pretende abordar.
+
+En estos programas se deberán respetar todos aquellos derechos de los y las adolescentes, que no se vean restringidos por la naturaleza de la medida decretada por el juez.
 
 ### Párrafo 4º
 
 De los centros residenciales
 
+#### Artículo 18
+
+El ingreso a los centros de diagnóstico deberá realizarse previa resolución judicial. Con todo, cuando por razones de fuerza mayor un niño, niña o adolescente, ingrese al establecimiento, sin que exista tal medida judicial, los responsables de dicho centro asumirán como primera función, darles la debida protección a sus derechos y procurar por todos los medios reunirlos nuevamente, con sus padres o las personas encargadas legalmente de su cuidado personal. Con todo, si éstos han sido los causantes directos de la vulneración de los derechos del niño, niña o adolescente, y, en general, cuando no sea posible reunirlo con esas personas, se deberá informar en la primera audiencia al tribunal competente para que adopte una medida a su respecto.
+
+#### Artículo 19
+
+En las residencias sólo se podrán acoger a niños, niñas o adolescentes por disposición de la autoridad judicial.
+
+Sin embargo, las residencias también podrán dispensar a los niños, niñas y adolescentes separados o privados de su medio familiar la atención de urgencia cuando no se pueda recurrir a un centro de diagnóstico, quedando obligadas a solicitar a la autoridad judicial, al día siguiente hábil, que adopte una medida al respecto.
+
+#### Artículo 20
+
+Los colaboradores acreditados que administren una residencia deberán adoptar las medidas necesarias para el ejercicio del derecho de los niños, niñas o adolescentes que acojan, a mantener relaciones personales y contacto directo y regular con sus padres y con otros parientes, salvo resolución judicial en contrario.
+
+#### Artículo 21
+
+El director de la residencia asumirá el cuidado personal y la dirección de la educación de los niños, niñas y adolescentes acogidos en ella, respetando las limitaciones que la ley o la autoridad judicial impongan a sus facultades, en favor de los derechos y de la autonomía de ellos, así como de las facultades que conserven sus padres o las otras personas que la ley disponga.
+
 ### Párrafo 5º
 
 Del diagnóstico
+
+#### Artículo 22
+
+Los colaboradores acreditados que ejecuten la línea de diagnóstico deberán elaborar los respectivos informes requeridos por el tribunal u otro organismo competente, velando por el cumplimiento de los plazos y el resguardo de la información de carácter reservado de acuerdo a la legislación vigente.
+
+#### Artículo 23
+
+El diagnóstico acerca de un niño, niña o adolescente acogido en un centro residencial administrado por un colaborador acreditado será realizado, preferentemente, por un equipo de diagnóstico que no sea administrado por ese mismo colaborador.
 
 ### Párrafo 6º
 
 De la intervención simultánea de las diversas líneas de acción subvencionables
 
+#### Artículo 24
+
+Un mismo niño, niña o adolescente puede ser simultáneamente destinatario de más de una línea de acción subvencionada por el SENAME, ejecutada por distintos o un mismo colaborador acreditado si se dan las condiciones.
+
 ## Título IV
 
-Del financiamiento, la evaluación y supervisión
+Del financiamiento y las evaluaciones
 
 ### Párrafo 1º
 
@@ -320,15 +318,15 @@ Del financiamiento
 
 #### Artículo 25
 
-Para la transferencia de los aportes financieros del Estado, el Servicio llamará a concurso de proyectos relativos a las diversas líneas de acción reguladas en la presente ley. Cada concurso se regirá por las bases administrativas y técnicas que para estos efectos elabore el Servicio.
+Para la transferencia de la subvención, el SENAME llamará a concurso de proyectos relativos a las diversas líneas de acción reguladas en la presente ley. Cada concurso se regirá por las bases administrativas y técnicas que para estos efectos elabore el Servicio.
 
-Una vez seleccionados dichos proyectos, el Servicio celebrará con los respectivos colaboradores acreditados un convenio conforme al artículo siguiente.
+Una vez seleccionados dichos proyectos, el SENAME celebrará con los respectivos colaboradores acreditados un convenio conforme al artículo siguiente.
 
-Estarán excluidos del llamado a concurso los proyectos de emergencia en los casos que establezca el reglamento. Asimismo, mediante resolución fundada, podrán excepcionarse de la licitación, quedando facultado el Servicio para establecer un convenio en forma directa, en los siguientes casos:
+Estarán excluidos del llamado a concurso los proyectos de emergencia a que se refiere la letra f) del Nº 3.2) del artículo 4º. Asimismo, mediante resolución fundada, podrán excepcionarse de la licitación, quedando facultado el SENAME para establecer un convenio en forma directa, en los siguientes casos:
 
 1) Cuando habiéndose realizado el respectivo llamado a concurso, éste hubiere sido declarado desierto por no existir colaboradores interesados.
 
-2) Cuando se tratare de asegurar la continuidad de la atención a niñas, niños y adolescentes beneficiarios de algún proyecto que haya debido terminarse anticipadamente.
+2) Cuando se tratare de asegurar la continuidad de la atención a niñas, niños y adolescentes usuarios de algún proyecto que haya debido terminarse anticipadamente.
 
 Dentro de las bases para su ponderación se deberá atender:
 
@@ -344,197 +342,219 @@ Lo anterior, además, de los principios establecidos en el artículo 2.
 
 Los convenios que sean celebrados con los colaboradores acreditados deberán estipular, a lo menos:
 
-1) Los programas de las líneas de acción que sean objeto de aportes financieros del Estado conforme a la presente ley.
+1) La línea de acción subvencionada;
 
-2) Los objetivos específicos y los resultados esperados para el proyecto, así como los mecanismos que el Servicio y el colaborador acreditado emplearán para evaluar su cumplimiento.
+2) Los objetivos específicos y los resultados esperados, así como los mecanismos que el SENAME y el colaborador acreditado emplearán para evaluar su cumplimiento;
 
-3) Los aportes financieros que corresponda pagar.
+3) La subvención que corresponda pagar;
 
-4) El número de plazas con derecho a la subvención, cuando corresponda, las formas de pago acordadas y las cláusulas de revisión del número de plazas.
+4) El número de plazas con derecho a la subvención, cuando corresponda, las formas de pago acordadas y las cláusulas de revisión del número de plazas;
 
-5) El plazo de duración del convenio.
+5) El plazo de duración del convenio, y
 
 6) El proyecto presentado por el colaborador, que formará parte integrante del convenio.
-
-7) Los factores multiplicadores a los que puedan acceder, según lo dispuesto en el inciso final del artículo 29.
 
 Los convenios serán siempre públicos.
 
 Dichos convenios deberán contener idénticas condiciones, modalidades y monto de la subvención, dependiendo de cada línea de acción.
 
-#### Artículo 26 bis
-
-El colaborador acreditado como cooperador del Estado en la prestación del servicio de protección especializada gestionará los aportes financieros de todo tipo para el desarrollo de su línea de acción. Estos aportes estarán afectos al cumplimiento de los fines de protección especializada y sólo podrán destinarse a aquellos actos o contratos que tengan por objeto directo y exclusivo el cumplimiento de dichos fines.
-
-Para estos efectos se entenderá que los aportes financieros recibidos se destinan a fines de protección especializada en el caso de las siguientes operaciones:
-
-i) Pago de una remuneración a las personas naturales que ejerzan de forma efectiva funciones de administración superior que sean necesarias para la gestión del colaborador acreditado respecto del o los establecimientos de su dependencia, que se encuentren claramente precisadas en el contrato de trabajo respectivo. Dichas funciones no podrán ser delegadas, en todo o en parte, a personas jurídicas. Se entenderán comprendidas en este numeral las remuneraciones pagadas a las personas naturales que presten servicios en la administración superior del colaborador acreditado.
-
-ii) Pago de remuneraciones, honorarios y beneficios al personal que cumpla funciones de protección especializada y de operación para el cumplimiento de esas funciones en los establecimientos que pertenezcan al colaborador acreditado.
-
-iii) Gastos de las dependencias de administración del o los establecimientos donde se entreguen prestaciones de protección especializada.
-
-iv) Costos de aquellos servicios que estén asociados al funcionamiento y administración del o los establecimientos donde se entreguen prestaciones de protección especializada.
-
-v) Adquisición de toda clase de servicios, materiales e insumos para el buen desarrollo de la línea de acción de protección especializada, así como recursos e insumos complementarios que sean útiles al proceso integral de restablecimiento de los derechos de los niños, niñas y adolescentes.
-
-vi) Inversión en activos no financieros necesarios para la prestación del servicio de protección especializada.
-
-vii) Inversión en activos financieros de renta fija, siempre que los intereses o réditos sean utilizados para los fines de protección especializada dispuestos en este artículo y no se afecte de forma alguna la prestación de servicios de protección especializada.
-
-viii) Gastos asociados a la mantención y reparación de los inmuebles y muebles a que se refieren los numerales anteriores.
-
-ix) Pago de obligaciones garantizadas con hipotecas, contraídas con el solo propósito de adquirir el o los inmuebles en el cual funciona el establecimiento que entrega servicios de protección especializada de su dependencia.
-
-x) Pago de créditos bancarios o mutuos cuyo objeto único y exclusivo sea el de invertir el dinero de dicho crédito o mutuo en mejoras necesarias o útiles, sean de infraestructura, equipamiento u otros elementos que sirvan al propósito del programa de protección especializada del establecimiento respectivo. En caso de que el colaborador acreditado sea propietario de dicha infraestructura, tales créditos o mutuos podrán encontrarse garantizados mediante hipotecas.
-
-Si dichas mejoras superan las 1.000 unidades tributarias mensuales se deberá consultar por escrito al Consejo de Expertos del artículo 9 de la ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia.
-
-xi) Gastos que guarden directa relación con la mejora de la calidad del servicio de protección especializada del o los establecimientos donde se realicen estas prestaciones.
-
-xii) Gastos consistentes con la línea o programa de protección especializada o los establecimientos donde se realicen estas prestaciones.
-
-Las remuneraciones señaladas en el literal i) del inciso segundo deberán ser pagadas en virtud de un contrato de trabajo que establezca la dedicación temporal y especifique las actividades a desarrollar, y deberán ser razonablemente proporcionadas en consideración a la jornada de trabajo, el tamaño y complejidad del o los establecimientos donde se entreguen prestaciones de protección especializada, a las remuneraciones que normalmente se paguen en contratos de semejante naturaleza respecto de gestiones de protección especializada de similar entidad, y a los ingresos del colaborador acreditado por concepto de aportes financieros del Estado, con el objeto de asegurar los recursos para una adecuada prestación del servicio de protección especializada.
-
-Sin perjuicio de lo anterior, los colaboradores acreditados deberán informar al Servicio cuál o cuáles de sus directores ejercerán las funciones indicadas en el numeral i) del inciso segundo.
-
-Por su parte, el Servicio, en uso de sus atribuciones, podrá solicitar información respecto de la acreditación del cumplimiento de dichas funciones.
-
-Las operaciones que se realicen en virtud de los numerales iii), iv), v), vi), vii), viii), ix), x) y xi) del inciso segundo estarán sujetas a las siguientes restricciones:
-
-a) No podrán realizarse con personas relacionadas con los colaboradores acreditados o representantes legales del establecimiento, salvo que se trate de personas jurídicas sin fines de lucro o de derecho público que presten permanentemente servicios al o los establecimientos de protección especializada de dependencia del colaborador acreditado en materias técnico-pedagógicas, de capacitación y desarrollo de su proyecto educativo. El sostenedor deberá informar sobre dichas personas al Servicio.
-
-b) Deberán realizarse de acuerdo a las condiciones de mercado para el tipo de operación de que se trate en el momento de celebrar el acto o contrato. Tratándose de operaciones a título oneroso, el precio de la transferencia no podrá ser superior a aquél que prevalece en el mercado.
-
-Se prohíbe a los directores o representantes legales de un colaborador acreditado realizar cualquiera de las siguientes acciones:
-
-1) Inducir a los administradores o a quienes ejerzan cargos análogos a rendir cuentas irregulares, presentar informaciones falsas u ocultar información.
-
-2) Tomar en préstamo dinero o bienes de la entidad sostenedora o usar en provecho propio o a favor de personas relacionadas con ellos los bienes, servicios o créditos de la entidad colaboradora.
-
-3) Usar en beneficio propio o de personas relacionadas a ellos las oportunidades comerciales de que tuvieren conocimiento en razón de su cargo, en perjuicio de la entidad colaboradora.
-
-4) En general, practicar actos contrarios a los estatutos o al fin de protección especializada del colaborador acreditado o usar su cargo para obtener ventajas indebidas para sí o para personas relacionadas con ellos, en perjuicio de la entidad colaboradora y su fin.
-
 #### Artículo 27
 
-Sin perjuicio de lo establecido en las normas de administración financiera del Estado, los convenios podrán durar un plazo máximo de tres años.
+Sin perjuicio de lo establecido en las normas de administración financiera del Estado, los convenios podrán durar un plazo máximo de:
 
-Los proyectos con un plazo de duración superior a un año serán supervisados, a lo menos, semestralmente por el Servicio. Asimismo, el Servicio solicitará a los colaboradores acreditados un plan de trabajo para el correspondiente periodo.
+1) 3 años para OPD y diagnósticos, y
 
-Excepcionalmente, el Servicio podrá prorrogar, sólo por una vez, los convenios sin necesidad de un nuevo llamado a concurso, en caso de que las evaluaciones de avance y resultado anteriores sean positivas. Lo anterior, siempre que al colaborador no le hayan sido aplicadas algunas de las sanciones establecidas en el artículo 41 de la ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia y modifica normas legales que indica, en los últimos doce meses, y no existan antecedentes fundados contra dicho colaborador acreditado o alguno de sus fundadores, directivos o trabajadores por algún ilícito de índole civil, penal o administrativo que constituyan vulneración de derechos contra los niños, niñas y adolescentes bajo su cuidado, lo que deberá evaluar el Servicio.
+2) 5 años para centros residenciales y programas.
 
-Prorrogado una vez un convenio, el Servicio deberá realizar un nuevo llamado a concurso. A dicho proceso podrá postular el colaborador acreditado que hubiere ejecutado el proyecto respectivo, y podrá considerarse su trayectoria y desempeño a cargo de éste como un antecedente para la evaluación del nuevo proyecto.
+Los proyectos con un plazo de duración superior a un año, serán evaluados anualmente por el Servicio Nacional de Menores. Asimismo, el SENAME solicitará a los colaboradores acreditados un plan de trabajo para el correspondiente período.
 
-En dicha evaluación se considerará, particularmente, si existen antecedentes de vulneración de derechos de niños, niñas y adolescentes bajo su cuidado.
+El SENAME podrá prorrogar los convenios, sin necesidad de un nuevo llamado a concurso, si las evaluaciones arrojan resultados positivos. El Servicio, con una anticipación no inferior a 60 días a la expiración del convenio, deberá formular los reparos pertinentes a la ejecución del proyecto, si no lo hiciere, se tendrá por renovado el convenio por un período idéntico al pactado en el convenio vigente.
 
-En el caso de los programas de la línea de acción de cuidado alternativo de tipo residencial, el Servicio podrá, previo acuerdo con el colaborador acreditado respectivo, prorrogar los convenios modificando las plazas inicialmente acordadas, atendiendo a las necesidades reales de cobertura de atención.
+La facultad de prorrogar la vigencia de los convenios podrá ejercerse hasta por dos veces respecto de los convenios relativos a centros residenciales, y por una sola vez, respecto de los diagnósticos, OPD y programas, tras lo cual el Servicio deberá realizar un nuevo llamado a concurso. A dicho proceso podrá postular el colaborador acreditado que hubiere ejecutado el proyecto respectivo, debiendo considerarse su trayectoria y desempeño a cargo de éste como un antecedente para la evaluación del nuevo proyecto.
 
-La decisión del Servicio de prorrogar la vigencia de los convenios señalados en los incisos anteriores será siempre fundada.
-
-#### Artículo 27 bis
-
-El Director Regional del Servicio tendrá la facultad de gestionar la oferta de sobrecupo de los programas de su región en base al promedio de sobrecupo regional de los tres años anteriores, atendiendo a las necesidades reales de cobertura de atención de su región. En este sentido, el colaborador acreditado deberá acordar de antemano con el Director Regional respectivo el número de plazas adicionales que podrá cubrir.
-
-Se recurrirá a las plazas adicionales una vez que se encuentren cubiertas todas las plazas regulares de los programas que se encuentren en comunas accesibles para el niño, niña o adolescente, dentro de la región en la que reside.
-
-Se podrá recurrir al uso de las plazas adicionales por el plazo máximo de un año, debiendo el Director Regional encargarse de generar la oferta programática necesaria para el año siguiente.
-
-El uso de las plazas adicionales será siempre excepcional y no deberá impedir el normal funcionamiento de los programas.
+En el caso de los centros residenciales, el SENAME podrá ejercer la facultad de prórroga de los convenios modificando las plazas inicialmente acordadas, atendiendo a las necesidades reales de cobertura de atención.
 
 #### Artículo 28
 
-Los colaboradores acreditados que ejecuten más de un proyecto podrán administrarlos centralizadamente utilizando hasta un monto máximo del 10% que perciban por concepto de subvención.
+Los organismos acreditados que ejecuten más de un proyecto podrán administrarlos centralizadamente utilizando hasta un monto máximo del 10% que perciban por concepto de subvención.
 
 Estos fondos sólo se podrán destinar a gastos de administración que se efectúen para el cumplimiento de los objetivos de los proyectos.
 
-Un reglamento dictado en el plazo de doce meses por el Ministerio de Desarrollo Social y Familia, y suscrito además por el Ministro de Hacienda, establecerá el o los porcentajes por aplicar para los efectos del inciso primero, el que podrá ser diferenciado y estará sujeto al límite máximo señalado en dicho inciso. Además, regulará un sistema de rendición de cuentas al Servicio por parte de los colaboradores acreditados, que deberá incluir los gastos totales asociados a la ejecución de cada programa, así como los ingresos públicos y privados a los que hace referencia el artículo 26 bis de la presente ley.
-
-La respectiva institución deberá comunicar al Servicio de su decisión de acogerse a esta modalidad de administración.
+La respectiva institución deberá comunicar al SENAME de su decisión de acogerse a esta modalidad de administración.
 
 #### Artículo 29
 
-Para efectuar el llamado a concurso, el Servicio determinará el monto de los aportes destinados al financiamiento ofrecidos por cada línea de acción, según los siguientes criterios:
+Para efectuar el llamado a concurso, el SENAME determinará el monto de la subvención ofrecido por cada línea de acción subvencionable, según los siguientes criterios:
 
-1) La edad de los niños, niñas y adolescentes y la discapacidad que éstos pudieren presentar. Deberá acreditarse la condición de personas con discapacidad intelectual mediante la declaración de la Comisión de Medicina Preventiva e Invalidez;
+1) La edad de los niños, niñas y adolescentes y la discapacidad que éstos pudieren presentar;
 
 2) La complejidad de la situación que el proyecto pretende abordar;
 
-3) La disponibilidad y costos de los recursos humanos y materiales necesarios considerando la localidad en que se desarrollará el proyecto;
+3) La disponibilidad y costos de los recursos humanos y materiales necesarios considerando la localidad en que se desarrollará el proyecto, y
 
-4) La cobertura de la atención;
-
-5) El lugar donde estará emplazado el proyecto.
+4) La cobertura de la atención.
 
 Para la determinación del monto a pagar, el reglamento especificará el método de cálculo para cada línea de acción. En él se establecerán los parámetros objetivos que delimitarán las categorías de cada criterio y los valores de los factores asociados a dichos parámetros. Estos factores, a su vez, se aplicarán a los valores base especificados en el artículo siguiente.
 
 #### Artículo 30
 
-Los montos de los recursos ofrecidos por el Servicio por cada línea de acción se determinarán de acuerdo a lo señalado en el artículo anterior y deberán respetar los siguientes rangos expresados en unidad de fomento, calculado al valor que dicha unidad registre al 1 de enero del año correspondiente:
+La subvención ofrecida por el SENAME por cada línea de acción, se determinará de acuerdo a lo señalado en el artículo anterior y deberá respetar los siguientes rangos, expresados en unidades de subvención SENAME:
 
-.
+Línea de acción Forma de pago Valor Base
 
-Además, el colaborador acreditado deberá cumplir los siguientes requisitos para su pago:
+1) Oficinas de Por población 0,083 a 0,12 USS
 
-a) Contar con un 75 por ciento del personal conformado por profesionales y/o técnicos especializados acordes a la respectiva línea programática, incluyendo a quienes trabajen en trato directo con los niños, niñas y adolescentes.
+protección de convenida con valor mensuales.
 
-La especialización deberá acreditarse, ante el Servicio, mediante los respectivos títulos profesionales de grado y certificados de especialización o postgrado que lo avalen, con determinación específica y detallada del ámbito de su experticia. Tales antecedentes estarán disponibles para las autoridades competentes que los requieran.
+derechos del unitario.
 
-b) Comparecer sus profesionales o peritos a declarar ante el tribunal a las audiencias a las que se les cite en razón de su cargo o experticia, eximiéndose de esta obligación sólo cuando el tribunal los libere de ella, lo que será debidamente acreditado con copia autorizada de la respectiva resolución judicial que así lo señale.
+niño, niña o
 
-c) Cumplir las respectivas pericias o informes de seguimiento de avance de intervenciones con los estándares requeridos para tener valor probatorio. De no hacerlo, el tribunal deberá remitirlos al Director Nacional del Servicio, con copia al Director Regional correspondiente, a efectos de suspender los respectivos pagos al colaborador, sin perjuicio de que se apliquen las sanciones que correspondan, las cuales el juez sugerirá cuando se trate de una práctica frecuente del respectivo programa.
+adolescente.
 
-Si en la fiscalización a la que se refiere el artículo 39 de la ley que crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia se identifica el incumplimiento de alguna exigencia, el Servicio podrá retener el pago de los recursos a los que se refiere este artículo hasta en el 50 por ciento, hasta que el colaborador acreditado disponga de las medidas necesarias para cumplir con la exigencia no satisfecha. En tal caso, el Servicio deberá contar con planes de asesoría y mejoramiento para asegurar que el colaborador acreditado cumpla con las exigencias no satisfechas en la fiscalización.
+2) Diagnósticos. Por servicio 8 a 10 USS.
 
-Quedarán excluidos para presentarse a la licitación correspondiente, aquellos colaboradores acreditados que tengan como miembros de su directorio, representantes legales, gerentes, administradores o en cualquier otra calidad, función o cargo en la organización, a personas respecto de las cuales existan antecedentes fundados sobre su participación en hechos que, por su naturaleza, pongan de manifiesto la inconveniencia de encomendarles la atención directa de niños, niñas o adolescentes, o de confiarles la administración de recursos ajenos. Lo anterior, será debidamente evaluado por el Servicio.
+prestado.
 
-Un reglamento dictado por el Ministerio de Desarrollo Social y Familia, y suscrito además por el Ministerio de Hacienda, determinará la forma de pago respecto de cada línea de acción, según las características propias de cada una y los indicadores de resultados esperados. Con todo, respecto de la línea de acción de cuidado alternativo, el sistema será combinado: por plaza convenida, a todo evento en la parte fija de los costos, la que corresponderá al 50 por ciento del valor unitario, y por niño, niña y adolescente atendidos, en la parte variable de los mismos.
+3) Centros Sistema Combinado: 15 a 30 USS
 
-Adicionalmente, se podrá destinar hasta 1.200 unidades de fomento por proyecto de emergencia en programas de cuidado alternativo de tipo familiar, prefiriendo a miembros de la familia extensa por sobre familias de acogida.
+Residenciales. por plaza convenida, mensuales.
 
-Para los programas de las líneas de acción de cuidado alternativo de tipo residencial y familiar la transferencia de los recursos estará condicionada a una evaluación anual en la que se exigirá el cumplimiento de deberes por parte del colaborador acreditado, a saber:
+a todo evento en la
 
-a) Acreditar que los niños, niñas y adolescentes participen de los programas de salud establecidos por el Ministerio de Salud para su atención.
+parte fija de los
 
-b) En el caso de los niños y niñas mayores de seis años, y de los adolescentes, deberán acreditar, además, que son alumnos regulares de la enseñanza básica, media, superior u otras equivalentes, en establecimientos del Estado o reconocidos por éste, a menos que su situación de discapacidad no lo permita.
+costos, la que no
 
-Las condiciones anteriores serán exigibles para todos los niños, niñas y adolescentes con al menos un mes de antigüedad en el programa, y se medirán durante el mes de mayo de cada año.
+podrá exceder del
 
-En el caso de la línea de acción de cuidado alternativo de tipo residencial o familiar, la familia de acogida o el director de la residencia podrá voluntariamente renunciar al pago ofrecido por el Servicio si así lo expresa por escrito en el momento de suscribir el convenio.
+30% del valor
 
-Los montos y valores a los que hacen alusión los incisos primero y segundo de este artículo serán revisados anualmente en la Ley de Presupuestos del Sector Público, considerando la propuesta que realice la Subsecretaría de la Niñez y teniendo en cuenta la disponibilidad presupuestaria y las recomendaciones del Consejo de Expertos.
+unitario y por niño
 
-Los colaboradores acreditados deberán rendir cuenta de los recursos que reciben por parte del Servicio y que se usen en capacitaciones de personal, debiendo informar su duración, el número de participantes y las instituciones que las realicen. En ningún caso las capacitaciones a las que se refiere este artículo podrán ser realizadas por personas que sean parte o trabajen en el colaborador acreditado.
+atendido, en la
+
+parte variable de
+
+los mismos.
+
+4) Programas.
+
+a) Programa de Por población 3 a 5 USS
+
+prevención. atendida con valor mensuales.
+
+unitario.
+
+b) Programa de Por sistema 3 USS mensuales a
+
+fortalecimiento combinado. todo evento y 10
+
+familiar. Por niño atendido a USS por niño
+
+todo evento y un egresado
+
+adicional por niño favorablemente.
+
+egresado
+
+favorablemente.
+
+c) Programa de Por proyecto. - Hasta 200 USS
+
+promoción. por programa a
+
+nivel local.
+
+- Hasta 2.000 USS
+
+por programa a
+
+nivel regional.
+
+- Hasta 20.000
+
+USS por programa
+
+a nivel nacional.
+
+d) Programa de Por niño atendido. Valor base a
+
+medidas de determinar en el
+
+reinserción para rango entre 0,5 y
+
+infractores de 7,99 USS
+
+ley penal en mensuales.
+
+general.
+
+e) Programa de Por niño atendido. 8 a 12 USS
+
+libertad mensuales.
+
+asistida.
+
+f) Programa de Por población Valor base a
+
+protección en atendida con valor determinar en el
+
+general. unitario. rango entre 0,5 a
+
+8,99 USS
+
+mensuales.
+
+g) Programas de Por niño atendido. 9 a 15 USS
+
+protección mensuales.
+
+especializados.
+
+h) Programa de Por niño atendido. 6,5 a 9 USS
+
+familias de mensuales.
+
+acogida.
+
+i) Programa de Por proyecto. Hasta 2.000 USS.
+
+emergencia.
 
 #### Artículo 31
 
-Las autoridades del Servicio darán un trato igualitario a todos los colaboradores acreditados, resguardando siempre la transparencia de los procedimientos empleados. Queda prohibida toda arbitrariedad al determinar los montos de subvención que serán ofrecidos en cada llamado a licitación, y al escoger el proyecto seleccionado para recibir en definitiva la subvención.
+Las autoridades del SENAME darán un trato igualitario a todos los colaboradores acreditados, resguardando siempre la transparencia de los procedimientos empleados. Queda prohibida toda arbitrariedad al determinar los montos de subvención que serán ofrecidos en cada llamado a licitación, y al escoger el proyecto seleccionado para recibir en definitiva la subvención.
 
 #### Artículo 32
 
-Derogado.
+La Unidad de Subvención del SENAME tendrá un valor de $10.000.
+
+No obstante, el valor nominal de la USS se reajustará en el mes de enero de cada año, en el porcentaje de variación que haya experimentado el Indice de Precios al Consumidor durante el año precedente.
 
 #### Artículo 33
 
-El reglamento especificará las modalidades que estarán comprendidas en cada línea de acción, el valor base correspondiente a ellas, las particularidades de sus formas de pago y los procedimientos para la rendición de los recursos transferidos y los comprometidos por el colaborador acreditado si fuere el caso.
+El reglamento especificará las modalidades que estarán comprendidas en cada línea de acción, el valor base correspondiente a ellas, las particularidades de sus formas de pago y los procedimientos para la rendición de los recursos transferidos.
 
 #### Artículo 34
 
-El Servicio podrá destinar hasta el 2% de los recursos con que cuente anualmente en su presupuesto de programas de la línea de acción del numeral 3) del artículo 3°, a premiar con un bono de desempeño, por los resultados alcanzados en base a indicadores y evidencia definidos en el reglamento, a los colaboradores acreditados que ejecuten dicha línea de acción.
+El SENAME podrá destinar hasta el 2% de los recursos con que cuente anualmente en su presupuesto de programas a premiar con un bono de desempeño, por la calidad de la atención y los resultados alcanzados, a los colaboradores acreditados que ejecuten la Línea de Acción Programas.
 
-El bono de desempeño se adjudicará y pagará a los colaboradores anualmente y deberá ser destinado a mejorar la calidad, eficiencia y efectividad de los programas implementados. El reglamento determinará la forma en que procederá su asignación.
+El bono de desempeño se adjudicará y pagará a los colaboradores anualmente y deberá ser destinado a los fines propios del colaborador. El reglamento determinará la forma en que procederá su asignación.
+
+Estarán excluidos de este beneficio los programas a que se refiere el artículo 16 de la presente ley.
 
 #### Artículo 35
 
-Los aportes financieros del Estado que perciban los colaboradores acreditados del Servicio y las donaciones y otros ingresos que los mismos reciban o generen no estarán afectos a ningún tributo de la ley sobre Impuesto a la Renta en cuanto sean utilizadas para el desarrollo de las líneas de acción establecidas en esta ley.
+La subvención que perciban los colaboradores acreditados del SENAME y las donaciones y otros ingresos que los mismos reciban o generen no estarán afectos a ningún tributo de la ley sobre Impuesto a la Renta en cuanto sean utilizadas para el desarrollo de las líneas de acción establecidas en esta ley.
 
 ### Párrafo 2º
 
-De la evaluación, fiscalización y la supervisión
+De las evaluaciones
 
 #### Artículo 36
 
-La evaluación, fiscalización y la supervisión de los convenios se dirigirá a verificar:
+La evaluación de los convenios se dirigirá a verificar:
 
 1) El respeto, la promoción y la protección de los derechos de los niños, niñas y adolescentes, y de sus familias.
 
@@ -566,15 +586,15 @@ El colaborador acreditado no podrá recibir nuevos fondos mientras no haya cumpl
 
 #### Artículo 36 bis
 
-Como consecuencia de la evaluación a que se refiere el artículo precedente, el Servicio podrá emitir instrucciones particulares a los colaboradores acreditados, indicando las deficiencias a corregir, con la finalidad de que el organismo adopte las medidas que correspondan dentro del plazo que determinará el Servicio, el que no podrá superar los noventa días, pudiendo prorrogarse por una sola vez y por el mismo plazo, en caso de existir razones fundadas. Excepcionalmente, y sólo en los casos en los que la naturaleza de las instrucciones que se ordena cumplir lo exija, podrá otorgarse fundadamente un plazo superior para su cumplimiento.
+Como consecuencia de la evaluación a que se refiere el artículo precedente, el SENAME podrá emitir instrucciones particulares a los colaboradores acreditados, indicando las deficiencias a corregir, con la finalidad de que el organismo adopte las medidas que correspondan dentro del plazo que determinará el Servicio, el que no podrá superar los noventa días, pudiendo prorrogarse por una sola vez y por el mismo plazo, en caso de existir razones fundadas. Excepcionalmente, y sólo en los casos en los que la naturaleza de las instrucciones que se ordena cumplir lo exija, podrá otorgarse fundadamente un plazo superior para su cumplimiento.
 
 El retardo injustificado en el cumplimiento de las instrucciones será sancionado de conformidad con lo dispuesto en el artículo 37.
 
-Lo anterior se entiende sin perjuicio de la adopción por parte del Servicio de las demás acciones que contemple la normativa vigente.
+Lo anterior se entiende sin perjuicio de la adopción por parte del SENAME de las demás acciones que contemple la normativa vigente.
 
 #### Artículo 37
 
-Además de la facultad consagrada en el artículo anterior, el Servicio podrá poner término anticipado o modificar los convenios en cualquiera de las siguientes situaciones:
+Además de la facultad consagrada en el artículo anterior, el SENAME podrá poner término anticipado o modificar los convenios en cualquiera de las siguientes situaciones:
 
 a) Cuando los objetivos no sean cumplidos, o los resultados no sean alcanzados en el grado acordado como mínimamente satisfactorio, o cuando los derechos de los niños, niñas o adolescentes no estén siendo debidamente respetados.
 
@@ -584,7 +604,7 @@ c) Cuando se dé alguno de los presupuestos establecidos en los artículos 16 y 
 
 d) Cuando el personal de los colaboradores acreditados que contraten para la ejecución del respectivo convenio figure en el registro de personas con prohibición para trabajar con menores de edad o en el registro de condenados por actos de violencia intrafamiliar establecido en la ley N° 20.066; o haya sido condenado por crimen o simple delito que, por su naturaleza, ponga de manifiesto la inconveniencia de encomendarles la atención directa de niños, niñas o adolescentes.
 
-En estos y todos aquellos casos en que sea procedente, los colaboradores podrán reclamar de las resoluciones del Servicio, conforme a lo dispuesto en la ley Nº 19.880.
+En estos y todos aquellos casos en que sea procedente, los colaboradores podrán reclamar de las resoluciones del SENAME, conforme a lo dispuesto en la ley Nº 19.880.
 
 El término anticipado de los convenios será obligatorio si durante su ejecución se producen vulneraciones graves a los derechos fundamentales de alguno de los niños, niñas o adolescentes atribuibles a la responsabilidad del organismo colaborador en los términos establecidos en el número 6) del artículo 2 de esta ley, conforme a lo determinado en una sentencia judicial.
 
@@ -602,7 +622,7 @@ Las referencias que se efectúen en diferentes cuerpos legales a las Institucion
 
 #### Artículo 40
 
-No será aplicable al Servicio la limitación establecida en el inciso segundo del artículo 9º de la ley Nº 18.834 cuando deba asumir alguna de las tareas establecidas en el artículo 3º Nº 4 del decreto ley Nº 2.465, de 1979, que fija el texto de la ley orgánica del Servicio. La contratación adicional de personal deberá ser debidamente autorizada por la Dirección de Presupuestos del Ministerio de Hacienda. Este personal no constituirá dotación del Servicio y el gasto que demande su contratación será financiado con redistribución de fondos de su presupuesto.
+No será aplicable al SENAME la limitación establecida en el inciso segundo del artículo 9º de la ley Nº 18.834 cuando deba asumir alguna de las tareas establecidas en el artículo 3º Nº 4 del decreto ley Nº 2.465, de 1979, que fija el texto de la ley orgánica del SENAME. La contratación adicional de personal deberá ser debidamente autorizada por la Dirección de Presupuestos del Ministerio de Hacienda. Este personal no constituirá dotación del Servicio y el gasto que demande su contratación será financiado con redistribución de fondos de su presupuesto.
 
 Asimismo, los directores regionales podrán asignar funciones directivas y delegar atribuciones de esa naturaleza en los funcionarios contratados en las administraciones directas.
 
