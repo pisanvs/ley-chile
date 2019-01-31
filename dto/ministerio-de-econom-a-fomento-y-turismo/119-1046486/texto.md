@@ -24,7 +24,7 @@ Desígnense como integrantes de la Comisión Nacional de Acuicultura, en calidad
 
 a) Arturo Bernardo Clement Díaz, en representación de Asociación de la Industria del Salmón de Chile A.G. (SALMONCHILE).
 
-b) Juan Cristóbal Thompson Santos, en representación de Asociación de Industriales Pesqueros y Cultivadores Marinos A.G. (ASIPEC).
+b) Keyla Lissette Majluf Rivera, en representación de Asociación de Industriales Pesqueros y Cultivadores Marinos A.G. (ASIPEC).
 
 c) Eugenio Yokota Beueret, RUT Nº 6.856.865-K, domiciliado en Avenida Brasil 710, casilla 126, en representación de Calbuco Asociación de Mitilicultores de Calbuco.
 
