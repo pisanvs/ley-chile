@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 1.320 EXENTO, DE 31 DE DICIEMBRE DE 2018
+
+Por el presente decreto exento se rescilia de forma parcial el comodato otorgado por el Ministerio de Educación, en favor de la "Universidad", en virtud del convenio de fecha 21 de diciembre de 2017, celebrado entre las mismas partes y aprobado por decreto Nº 512, de 2017, del Ministerio de Educación, respecto del inmueble ubicado en calle Almirante Barroso Nº 23, comuna de Santiago, Región Metropolitana de Santiago, bien raíz de dominio fiscal inscrito a fojas 14.752, Nº 16.143, en el Registro de Propiedad del año 1963, del Conservador de Bienes Raíces de Santiago, que incide en la cláusula quinta del referido convenio, en lo relativo al comodato de la propiedad raíz individualizada, con el objeto de volver la tenencia del inmueble al Fisco de Chile.-
+
+León Paul Castro, Subsecretario de Educación (S).
