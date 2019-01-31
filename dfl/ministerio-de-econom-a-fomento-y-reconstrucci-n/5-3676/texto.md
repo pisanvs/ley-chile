@@ -464,7 +464,7 @@ c) Subdirector de Acuicultura;
 
 d) Subdirector de Pesquerías;
 
-e) Subdirector de Comercio Exterior:
+e) Subdirector de Inocuidad y Certificación:
 
 f) Subdirector Jurídico;
 
@@ -660,13 +660,13 @@ n) Desempeñar las funciones que el Director Nacional le delegue.
 
 #### Artículo 29
 
-C.- Del Subdirector de Comercio Exterior dependerán los siguientes departamentos:
+C.- Del Subdirector de Inocuidad y Certificación dependerán los siguientes departamentos:
 
 a) Departamento de Gestión de Programas de Fiscalización de Procesamiento y Comercialización, y
 
 b) Departamento de Regulaciones Comerciales y Sanitarias.
 
-Al Subdirector de Comercio Exterior le corresponderá:
+Al Subdirector de Inocuidad y Certificación le corresponderá:
 
 a) Asesorar al Director Nacional y demás órganos del Servicio en materias técnicas, estratégicas y de políticas asociadas a la inocuidad de los productos pesqueros y acuícolas de importación y exportación;
 
@@ -674,7 +674,7 @@ b) Proponer al Director Nacional el plan anual de fiscalización de requisitos r
 
 c) Proponer al Director Nacional acciones y estrategias tendientes a hacer más efectivas las actividades orientadas a aumentar el cumplimiento de la normativa asociada al comercio de productos pesqueros y acuícolas;
 
-d) Coordinar técnicamente a los departamentos del Servicio que ejecutan funciones en materia de comercio exterior y comercio de productos pesqueros elaborados;
+d) Coordinar técnicamente a los departamentos del Servicio que ejecutan funciones en materia de inocuidad y certificación y comercio de productos pesqueros elaborados;
 
 e) Proponer al Director Nacional los procedimientos de fiscalización a los que se sujetarán las Direcciones Regionales en las materias de su competencia;
 
@@ -684,7 +684,7 @@ g) Evaluar la gestión y grado de cumplimiento de las Direcciones Regionales en 
 
 h) Proponer al Director Nacional los sistemas de control y demás normas que, conforme a la legislación vigente, corresponda dictar al Servicio, en el ámbito de su competencia;
 
-i) Presentar al Director Nacional, para que éste ejerza la facultad a que se refiere la letra a) del artículo 28, propuestas de normas para la aplicación y fiscalización de las leyes y reglamentos sobre comercio exterior y comercialización de productos pesqueros conforme a su competencia;
+i) Presentar al Director Nacional, para que éste ejerza la facultad a que se refiere la letra a) del artículo 28, propuestas de normas para la aplicación y fiscalización de las leyes y reglamentos sobre inocuidad y certificación y comercialización de productos pesqueros conforme a su competencia;
 
 j) Otorgar los certificados sanitarios oficiales de productos hidrobiológicos, cuando ello sea una obligación establecida en instrumentos jurídicos suscritos entre el Estado de Chile o sus organismos y otros Estados u organismos estatales extranjeros, y
 
@@ -940,9 +940,11 @@ c) Implementar las acciones de control y vigilancia y denunciar a través de las
 
 d) Apoyar, coordinar y evaluar las acciones de control y vigilancia en materia pesquera, realizadas a nivel regional;
 
-e) Coordinar con otras instituciones planes y programas de fiscalización que permitan, a través de las oficinas regionales, asegurar el cumplimiento de la normativa pesquera, y
+e) Coordinar con otras instituciones planes y programas de fiscalización que permitan, a través de las oficinas regionales, asegurar el cumplimiento de la normativa pesquera;
 
-f) Operar y administrar el Centro de Monitoreo y Control de Naves Pesqueras.
+f) Operar y administrar el Centro de Monitoreo y Control de Naves Pesqueras, y
+
+g) Coordinar el sistema de certificación de la información del desembarque, sea que el Servicio realice esta labor directamente o mediante la contratación de entidades auditoras acreditadas en los casos que la ley lo autorice.
 
 #### Artículo 32
 
@@ -1002,7 +1004,7 @@ K.- Corresponderá al Departamento de Regulaciones Comerciales y Sanitarias:
 
 a) Analizar normas y requisitos sanitarios y comerciales internacionales aplicables a los productos pesqueros de exportación y coordinar su implementación a nivel institucional y sectorial, cuando corresponda;
 
-b) Gestionar y coordinar las relaciones técnicas y asesorar a la Subdirección de Comercio Exterior en las instancias de comunicación con las autoridades competentes, nacionales o extranjeras, en materias sanitarias en el marco de control de las exportaciones de productos pesqueros;
+b) Gestionar y coordinar las relaciones técnicas y asesorar a la Subdirección de Inocuidad y Certificación en las instancias de comunicación con las autoridades competentes, nacionales o extranjeras, en materias sanitarias en el marco de control de las exportaciones de productos pesqueros;
 
 c) Evaluar y definir criterios técnicos del Departamento en aspectos relacionados con normas y acuerdos internacionales en materias sanitarias, y
 

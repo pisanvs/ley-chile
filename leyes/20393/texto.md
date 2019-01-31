@@ -1,6 +1,6 @@
 LEY NÚM. 20.393
 
-ESTABLECE LA RESPONSABILIDAD PENAL DE LAS PERSONAS JURÍDICAS EN LOS DELITOS DE LAVADO DE ACTIVOS, FINANCIAMIENTO DEL TERRORISMO Y DELITOS DE COHECHO QUE INDICA
+ESTABLECE LA RESPONSABILIDAD PENAL DE LAS PERSONAS JURÍDICAS EN LOS DELITOS QUE INDICA.
 
 Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
 
@@ -12,7 +12,7 @@ Apruébase la siguiente ley sobre responsabilidad penal de las personas jurídic
 
 #### Artículo 1°
 
-Contenido de la ley. La presente ley regula la responsabilidad penal de las personas jurídicas respecto de los delitos previstos en el artículo 27 de la ley Nº19.913, en el artículo 8° de la ley Nº18.314 y en los artículos 240, 250, 251 bis, 287 bis, 287 ter, 456 bis A y 470, numerales 1° y 11, del Código Penal; el procedimiento para la investigación y establecimiento de dicha responsabilidad penal, la determinación de las sanciones procedentes y la ejecución de éstas.
+Contenido de la ley. La presente ley regula la responsabilidad penal de las personas jurídicas respecto de los delitos previstos en los artículos 136, 139, 139 bis y 139 ter de la Ley General de Pesca y Acuicultura, en el artículo 27 de la ley Nº 19.913, en el artículo 8° de la ley Nº18.314 y en los artículos 240, 250, 251 bis, 287 bis, 287 ter, 456 bis A y 470, numerales 1° y 11, del Código Penal; el procedimiento para la investigación y establecimiento de dicha responsabilidad penal, la determinación de las sanciones procedentes y la ejecución de éstas.
 
 En lo no previsto por esta ley serán aplicables, supletoriamente, las disposiciones contenidas en el Libro I del Código Penal y el Código Procesal Penal y en las leyes especiales señaladas en el inciso anterior, en lo que resultare pertinente.
 
@@ -246,7 +246,7 @@ En estos casos siempre se aplicarán como accesorias las penas mencionadas en el
 
 Determinación legal de la pena aplicable al delito. A los delitos sancionados en los artículos 240, 250, incisos segundo y tercero, 287 bis, 287 ter, 456 bis A y 470, numeral 1° y párrafos primero y segundo del numeral 11 del Código Penal, y en el artículo 8° de la ley Nº 18.314, se les aplicarán las penas previstas en esta ley para los simples delitos, de conformidad a lo dispuesto en el artículo anterior.
 
-A los delitos contemplados en el artículo 27 de la ley N° 19.913 y en los artículos 250, incisos cuarto y quinto, 251 bis y 470, numeral 11, párrafo tercero, del Código Penal, les serán aplicables las penas de crímenes, según lo dispuesto en el artículo precedente.
+A los delitos contemplados en los artículos 136, 139, 139 bis y 139 ter de la Ley General de Pesca y Acuicultura, en el artículo 27 de la ley N° 19.913 y en los artículos 250, incisos cuarto y quinto, 251 bis y 470, numeral 11, párrafo tercero, del Código Penal, les serán aplicables las penas de crímenes, según lo dispuesto en el artículo precedente.
 
 Inciso suprimido.
 

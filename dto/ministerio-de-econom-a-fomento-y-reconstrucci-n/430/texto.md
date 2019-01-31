@@ -620,215 +620,37 @@ DE LOS PLANES DE MANEJO
 
 #### Artículo 8°
 
-Para la
+Para la administración y manejo de las pesquerías que tengan su acceso cerrado, así como las pesquerías declaradas en régimen de recuperación y desarrollo incipiente, la Subsecretaría deberá establecer un plan de manejo, el que deberá contener, a lo menos, los siguientes aspectos:
 
-administración y manejo de las
+a) Antecedentes generales, tales como el área de aplicación, recursos involucrados, áreas o caladeros de pesca de las flotas que capturan dicho recurso y caracterización de los actores tanto artesanales como industriales y del mercado.
 
-pesquerías que tengan su acceso
+b) Objetivos, metas y plazos para mantener o llevar la pesquería al rendimiento máximo sostenible de los recursos involucrados en el plan.
 
-cerrado, así como las pesquerías
+c) Estrategias para alcanzar los objetivos y metas planteados, las que podrán contener:
 
-declaradas en régimen de recuperación
+i) Las medidas de conservación y administración que deberán adoptarse de conformidad a lo establecido en esta ley, y
 
-y desarrollo incipiente, la
+ii) Acuerdos para resolver la interacción entre los diferentes sectores pesqueros involucrados en la pesquería.
 
-Subsecretaría deberá establecer un
+d) Criterios de evaluación del cumplimiento de los objetivos y estrategias establecidos.
 
-plan de manejo, el que deberá
+e) Estrategias de contingencia para abordar las variables que pueden afectar la pesquería.
 
-contener, a lo menos, los siguientes
+f) Requerimientos de investigación y de fiscalización.
 
-aspectos:
+g) Cualquier otra materia que se considere de interés para el cumplimiento del objetivo del plan.
 
-a) Antecedentes generales, tales
+Para la elaboración de la propuesta, implementación, evaluación y adecuación, si correspondiere, del plan de manejo, la Subsecretaría constituirá un Comité de Manejo que tendrá el carácter de asesor y será presidido por el funcionario que el Subsecretario designe al efecto. Dicho Comité deberá estar integrado por no menos de dos ni más de siete representantes de los
 
-como el área de aplicación, recursos
+pescadores artesanales inscritos en la pesquería involucrada, debiendo provenir de regiones distintas en caso que haya más de una involucrada; tres representantes del sector pesquero industrial que cuenten con algún título regulado en la ley sobre dicha pesquería, debiendo provenir de regiones o unidades de pesquería distintas en caso que haya más de una involucrada; un representante de las plantas de proceso de dicho recurso; y un representante del Servicio. Un reglamento determinará la forma de designación de los integrantes de dicho Comité.
 
-involucrados, áreas o caladeros de
+El Comité de Manejo deberá establecer el período en el cual se evaluará dicho plan, el que no podrá exceder de cinco años de su formulación.
 
-pesca de las flotas que capturan
+La propuesta de plan de manejo deberá ser consultada al Comité Científico Técnico correspondiente, quien deberá pronunciarse en el plazo de dos meses de recibida. El Comité de Manejo recibirá la respuesta del Comité Científico y modificará la propuesta, si corresponde. La Subsecretaría aprobará el plan mediante resolución, y sus disposiciones tendrán carácter de obligatorio para todos los actores y embarcaciones regulados por esta ley que participan de la actividad.
 
-dicho recurso y caracterización de
+En el plan de manejo se podrá considerar un procedimiento de certificación de la información de desembarque a que se refiere el artículo 63 de esta ley, para aquellas pesquerías que no contemplen un sistema obligatorio. En tales
 
-los actores tanto artesanales como
-
-industriales y del mercado.
-
-b) Objetivos, metas y plazos
-
-para mantener o llevar la pesquería
-
-al rendimiento máximo sostenible
-
-de los recursos involucrados en
-
-el plan.
-
-c) Estrategias para alcanzar los
-
-objetivos y metas planteados, las
-
-que podrán contener:
-
-i) Las medidas de conservación
-
-y administración que deberán
-
-adoptarse de conformidad a lo
-
-establecido en esta ley, y
-
-ii) Acuerdos para resolver la
-
-interacción entre los diferentes
-
-sectores pesqueros involucrados
-
-en la pesquería.
-
-d) Criterios de evaluación del
-
-cumplimiento de los objetivos y
-
-estrategias establecidos.
-
-e) Estrategias de contingencia
-
-para abordar las variables que
-
-pueden afectar la pesquería.
-
-f) Requerimientos de
-
-investigación y de fiscalización.
-
-g) Cualquier otra materia que
-
-se considere de interés para el
-
-cumplimiento del objetivo del
-
-plan.
-
-Para la elaboración de la
-
-propuesta, implementación,
-
-evaluación y adecuación, si
-
-correspondiere, del plan de manejo,
-
-la Subsecretaría constituirá un
-
-Comité de Manejo que tendrá el
-
-carácter de asesor y será presidido
-
-por el funcionario que el
-
-Subsecretario designe al efecto.
-
-Dicho Comité deberá estar
-
-integrado por no menos de dos
-
-ni más de siete representantes de los
-
-pescadores artesanales inscritos en
-
-la pesquería involucrada, debiendo
-
-provenir de regiones distintas en
-
-caso que haya más de una
-
-involucrada; tres representantes
-
-del sector pesquero industrial
-
-que cuenten con algún título
-
-regulado en la ley sobre dicha
-
-pesquería, debiendo provenir de
-
-regiones o unidades de pesquería
-
-distintas en caso que haya más de
-
-una involucrada; un representante
-
-de las plantas de proceso de dicho
-
-recurso; y un representante del
-
-Servicio. Un reglamento determinará
-
-la forma de designación de los
-
-integrantes de dicho Comité.
-
-El Comité de Manejo deberá
-
-establecer el período en el cual se
-
-evaluará dicho plan, el que no
-
-podrá exceder de cinco años de
-
-su formulación.
-
-La propuesta de plan de manejo
-
-deberá ser consultada al Comité
-
-Científico Técnico correspondiente,
-
-quien deberá pronunciarse en el plazo
-
-de dos meses de recibida. El Comité de
-
-Manejo recibirá la respuesta del Comité
-
-Científico y modificará la propuesta,
-
-si corresponde. La Subsecretaría
-
-aprobará el plan mediante resolución,
-
-y sus disposiciones tendrán carácter
-
-de obligatorio para todos los actores
-
-y embarcaciones regulados por
-
-esta ley que participan de la
-
-actividad.
-
-En el plan de manejo se podrá
-
-considerar un procedimiento de
-
-certificación de la información de
-
-desembarque a que se refiere el
-
-#### Artículo 63
-
-de esta ley, para
-
-aquellas pesquerías que no contemplen
-
-un sistema obligatorio, el cual será
-
-efectuado conforme a las reglas
-
-establecidas en el artículo 64 E y
-
-será obligatorio para todos los
-
-participantes de la pesquería.
+casos, la Subsecretaría podrá disponer la certificación en la resolución que aprueba el plan de manejo. La certificación así establecida será obligatoria para todos los participantes de la pesquería y se regirá por las disposiciones del artículo 64 E.
 
 #### Artículo 9°
 
@@ -836,289 +658,33 @@ Derogado.
 
 #### Artículo 9º bis
 
-Para la administración
+Para la administración y manejo de una o más pesquerías de recursos bentónicos de invertebrados y algas, la Subsecretaría podrá establecer un plan de manejo aplicable a todo o parte de una región o regiones, el que deberá contener las menciones y se implementará de conformidad a las reglas establecidas en el artículo 8º.
 
-y manejo de una o más pesquerías
+No obstante lo anterior, en la formulación de estos planes de manejo se deberá determinar los pescadores artesanales involucrados en la o las pesquerías que lo integren. En los casos en que éste sea aplicable sólo a una parte de la región o regiones, participarán los pescadores artesanales inscritos en la pesquería que cumplan con los criterios de participación establecidos en el plan, entre los cuales deberá considerarse el haber efectuado operaciones extractivas en el área de aplicación del plan. Sólo podrán continuar operando en el área quienes cumplan con los requisitos de participación y operación establecidos en el plan. Al menos cada tres años se evaluará el esfuerzo pesquero aplicado al área, pudiendo la Subsecretaría, mediante resolución fundada, determinar el ingreso de nuevos pescadores artesanales, siempre que ello no afecte la sustentabilidad de la pesquería.
 
-de recursos bentónicos de
-
-invertebrados y algas, la
-
-Subsecretaría podrá establecer
-
-un plan de manejo aplicable a
-
-todo o parte de una región o
-
-regiones, el que deberá
-
-contener las menciones y
-
-se implementará de conformidad
-
-a las reglas establecidas en
-
-el artículo 8º.
-
-No obstante lo anterior,
-
-en la formulación de estos
-
-planes de manejo se deberá
-
-determinar los pescadores
-
-artesanales involucrados en
-
-la o las pesquerías que lo
-
-integren. En los casos en
-
-que éste sea aplicable sólo
-
-a una parte de la región o
-
-regiones, participarán los
-
-pescadores artesanales inscritos
-
-en la pesquería que cumplan con
-
-los criterios de participación
-
-establecidos en el plan, entre
-
-los cuales deberá considerarse
-
-el haber efectuado operaciones
-
-extractivas en el área de
-
-aplicación del plan. Sólo
-
-podrán continuar operando
-
-en el área quienes cumplan
-
-con los requisitos de
-
-participación y operación
-
-establecidos en el plan.
-
-Al menos cada tres años
-
-se evaluará el esfuerzo
-
-pesquero aplicado al área,
-
-pudiendo la Subsecretaría,
-
-mediante resolución fundada,
-
-determinar el ingreso de
-
-nuevos pescadores artesanales,
-
-siempre que ello no afecte la
-
-sustentabilidad de la pesquería.
-
-Además de las medidas de
-
-conservación y administración
-
-contempladas en esta ley, en
-
-los planes de manejo a que
-
-se refiere este artículo se
-
-podrán establecer por resolución
-
-del Subsecretario las siguientes medidas:
+Además de las medidas de conservación y administración contempladas en esta ley, en los planes de manejo a que se refiere este artículo se podrán establecer por resolución del Subsecretario las siguientes medidas:
 
 a) Rotación de áreas de pesca.
 
-b) Criterio y limitación de la
+b) Criterio y limitación de la extracción.
 
-extracción.
+c) Traslocación y repoblación de recursos bentónicos.
 
-c) Traslocación y repoblación
+d) Técnicas de extracción o cosecha.
 
-de recursos bentónicos.
+e) Instalación de arrecifess artificiales, de conformidad con los requisitos y características establecidas en el reglamento.
 
-d) Técnicas de extracción o
-
-cosecha.
-
-e) Instalación de arrecifes
-
-artificiales, de conformidad
-
-con los requisitos y
-
-características establecidas
-
-en el reglamento.
-
-f) Buenas prácticas,
-
-sustentabilidad y
-
-recuperación de
-
-ecosistemas.
+f) Buenas prácticas, sustentabilidad y recuperación de ecosistemas.
 
 g) Programas de educación y capacitación.
 
-En el plan de manejo se
+En el plan de manejo se podrá considerar un procedimiento de certificación de la información de desembarque a que se refiere el artículo 63 de esta ley, el cual será efectuado conforme al artículo 64 E. La certificación de desembarques será obligatoria para todos los pescadores artesanales que participen en el plan de manejo. Los requisitos para la certificación serán establecidos por el Servicio.
 
-podrá considerar un
+Para la elaboración de la propuesta, implementación, evaluación y adecuación si correspondiere del plan de manejo, la Subsecretaría constituirá un Comité de Manejo que tendrá el carácter de asesora y será presidida por el funcionario que el Subsecretario designe al efecto. Dicho Comité deberá estar integrado por no menos de dos ni más de siete representantes de los pescadores artesanales inscritos en la o las pesquerías de que se trate, así como un representante de las plantas de proceso, un representante de la Dirección General del Territorio Marítimo y Marina Mercante Nacional y un representante del Servicio.
 
-procedimiento de certificación
+La propuesta de plan de manejo será sometida a consulta pública a través del sitio de dominio electrónico de la Subsecretaría, mediante mensaje radial y publicación en extracto en un diario de circulación regional. Se podrán formular observaciones dentro del plazo de un mes contado de la fecha de publicación en el sitio de dominio electrónico. Recibidas las observaciones, la Subsecretaría evaluará la pertinencia de reformular la propuesta y dará pública respuesta a las observaciones planteadas, aprobando el plan de manejo mediante resolución.
 
-de la información de desembarque
-
-a que se refiere el artículo 63
-
-de esta ley, el cual será
-
-efectuado, previa licitación,
-
-por entidades auditoras externas.
-
-La certificación de desembarques
-
-será obligatoria para todos los
-
-pescadores artesanales que
-
-participen en el plan de manejo.
-
-Los requisitos para la
-
-certificación serán establecidos
-
-por el Servicio, asimismo, la
-
-entidad que realice la
-
-certificación deberá ser
-
-evaluada anualmente por aquel
-
-y los resultados de dicha
-
-evaluación serán públicos.
-
-Para la elaboración de la
-
-propuesta, implementación,
-
-evaluación y adecuación si
-
-correspondiere del plan de
-
-manejo, la Subsecretaría
-
-constituirá un Comité de
-
-Manejo que tendrá el
-
-carácter de asesora y
-
-será presidida por el
-
-funcionario que el
-
-Subsecretario designe
-
-al efecto. Dicho Comité
-
-deberá estar integrado
-
-por no menos de dos
-
-ni más de siete
-
-representantes de
-
-los pescadores artesanales
-
-inscritos en la o las
-
-pesquerías de que se
-
-trate, así como un
-
-representante de las
-
-plantas de proceso, un
-
-representante de la
-
-Dirección General del
-
-Territorio Marítimo y
-
-Marina Mercante Nacional
-
-y un representante del
-
-Servicio.
-
-La propuesta de plan de
-
-manejo será sometida a
-
-consulta pública a través
-
-del sitio de dominio
-
-electrónico de la Subsecretaría,
-
-mediante mensaje radial y
-
-publicación en extracto en
-
-un diario de circulación regional.
-
-Se podrán formular observaciones
-
-dentro del plazo de un mes
-
-contado de la fecha de
-
-publicación en el sitio de
-
-dominio electrónico. Recibidas
-
-las observaciones, la
-
-Subsecretaría evaluará la
-
-pertinencia de reformular
-
-la propuesta y dará pública
-
-respuesta a las observaciones
-
-planteadas, aprobando el plan
-
-de manejo mediante resolución.
-
-Una vez aprobado el plan de
-
-manejo será obligatorio para
-
-todos los pescadores artesanales,
-
-así como las embarcaciones,
-
-incluidas las transportadoras y
-
-las plantas de proceso.
+Una vez aprobado el plan de manejo será obligatorio para todos los pescadores artesanales, así como las embarcaciones, incluidas las transportadoras y las plantas de proceso.
 
 #### Artículo 9°
 
@@ -2500,11 +2066,23 @@ captura o a las cuotas individuales o
 
 colectivas asignadas.
 
+Las lanchas transportadoras deberán
+
+llevar a bordo una bitácora
+
+electrónica y dar cumplimiento a la
+
+obligación señalada en la letra b)
+
+del inciso anterior, de conformidad
+
+a las condiciones y oportunidad que
+
+señale el reglamento.
+
 La misma obligación de la letra
 
-b) deberán cumplir las lanchas
-
-transportadoras, los recolectores de
+b) deberán cumplir los recolectores de
 
 orilla, buzos, buzos apnea y
 
@@ -2554,9 +2132,9 @@ cosecha, situación sanitaria, origen
 
 y destino de los ejemplares.
 
-Toda la información de captura,
+Toda captura, desembarque,
 
-desembarque, abastecimiento y
+abastecimiento y
 
 comercialización de recursos
 
@@ -2606,95 +2184,27 @@ Los armadores pesqueros industriales o artesanales deberán informar, en los té
 
 #### Artículo 63 quáter
 
-Sólo se
+Sólo se podrán desembarcar recursos hidrobiológicos en los puntos o puertos de desembarque que el Servicio autorice mediante resolución fundada, la que podrá designarlos por pesquerías o grupo de pesquerías.
 
-podrán desembarcar recursos
+Para otorgar esta autorización, el Servicio deberá tener en cuenta lo siguiente:
 
-hidrobiológicos en los puntos o
+a) La forma en cómo se desarrollan las actividades pesqueras extractivas con el objeto de no interferir sustantivamente en éstas, teniendo en consideración las características del lugar de desembarque, el tipo de naves o embarcaciones que las realizan así como los horarios y las condiciones naturales de la operación pesquera.
 
-puertos de desembarque que el
+b) Los medios necesarios para el efectivo control de los desembarques.
 
-Servicio autorice mediante
+c) Las características sanitarias de la infraestructura de apoyo al desembarque del lugar a autorizar, de forma que sean apropiadas para realizar esta actividad.
 
-resolución.
+d) El cumplimiento de los titulares del punto o puerto de desembarque de las condiciones del decreto de concesión marítima y de la normativa pesquera.
 
-Para otorgar esta autorización,
-
-el Servicio deberá tener en cuenta lo
-
-siguiente:
-
-a) La forma en cómo se
-
-desarrollan las actividades pesqueras
-
-extractivas con el objeto de no
-
-interferir sustantivamente en éstas,
-
-teniendo en consideración las
-
-características del lugar de
-
-desembarque, el tipo de naves o
-
-embarcaciones que las realizan así
-
-como los horarios y las condiciones
-
-naturales de la operación pesquera.
-
-b) Los medios necesarios para
-
-el efectivo control de los
-
-desembarques.
-
-c) Las características
-
-sanitarias de la infraestructura de
-
-apoyo al desembarque del lugar a
-
-autorizar, de forma que sean
-
-apropiadas para realizar esta
-
-actividad.
-
-d) El cumplimiento de los
-
-titulares del punto o puerto de
-
-desembarque de las condiciones del
-
-decreto de concesión marítima y de
-
-la normativa pesquera.
-
-El incumplimiento de
-
-cualesquiera de las obligaciones y
-
-condiciones establecidas por el
-
-Servicio, respecto de los puntos o
-
-puertos de desembarque por éste
-
-autorizados, hará incurrir al
-
-infractor en las sanciones que al
-
-efecto se prevén en el artículo
-
-113 D de esta ley.
+El incumplimiento de cualesquiera de las obligaciones y condiciones establecidas por el Servicio, respecto de los puntos o puertos de desembarque por éste autorizados, hará incurrir al infractor en las sanciones que al efecto se prevén en el artículo 113 D de esta ley.
 
 #### Artículo 64
 
-El reglamento establecerá las normas para asegurar informes adecuados de los armadores industriales o artesanales, a fin de facilitar el seguimiento de las capturas en los procesos de transformación y comercialización.
+El reglamento establecerá las normas para asegurar declaraciones adecuadas de los armadores industriales y artesanales, de los titulares de plantas de procesamiento y de quienes realicen actividades de elaboración o comercialización de recursos hidrobiológicos y sus productos, para asegurar el seguimiento de las capturas en los procesos posteriores de transformación, transporte y comercialización. El Servicio, por resolución fundada, establecerá los procedimientos específicos por pesquería que deberán cumplirse para dar cuenta del origen, traslado, comercialización, ubicación y destino de las capturas y sus productos derivados.
 
 Asimismo, este reglamento incluirá las disposiciones de la legislación marítima sobre identificación de naves y embarcaciones, según su categoría pesquera y respecto a las unidades de pesquería.
+
+La acreditación del peso de los desembarques y de los productos de la pesca en su caso se efectuará mediante el sistema de pesaje que establezca el Servicio, el que deberá habilitarlo de conformidad con lo dispuesto en el artículo 122. No obstante lo anterior, la habilitación del sistema de pesaje y el pago de las licencias que proceda por su uso serán de cargo de quien los solicite.
 
 #### Artículo 64
 
@@ -2734,9 +2244,9 @@ La Subsecretaría de Pesca podrá requerir la información procesada que suminis
 
 #### Artículo 64
 
-D.- La información que se obtenga mediante el sistema tendrá el carácter de reservada. Su destrucción, sustracción o divulgación será sancionada con las penas señaladas en los artículos 242 o 247 del Código Penal, según corresponda.
+D.- La información emanada del sistema de posicionamiento automático será pública y deberá ser actualizada mensualmente y publicada en el sitio electrónico del Servicio Nacional de Pesca y Acuicultura. El que maliciosamente destruya, inutilice o altere el sistema de posicionamiento automático o la información contenida en él será sancionado con la pena de presidio menor en sus grados mínimo a medio.
 
-La información que reciba el sistema, certificada por la Dirección General del Territorio Marítimo o por el Servicio Nacional de Pesca, en su caso, tendrá el carácter de instrumento público y constituirá plena prueba para acreditar la operación en faenas de pesca de una nave en una área determinada. La operación de una nave con resultados de captura sin mantener en funcionamiento el sistema constituirá una presunción fundada de las infracciones establecidas en las letras c) y e) del artículo 110 de esta ley y, en su caso, para imputarle lo capturado a su cuota individual o a la del área correspondiente, según sea el caso.
+La información que reciba el sistema, certificada por la Dirección General del Territorio Marítimo o por el Servicio Nacional de Pesca, en su caso, tendrá el carácter de instrumento público y constituirá plena .prueba para acreditar la operación en faenas de pesca de una nave en una área determinada. La operación de una nave con resultados de captura sin mantener en funcionamiento el sistema constituirá una presunción fundada de las infracciones establecidas en las letras c) y e) del artículo 110 de esta ley y, en su caso, para imputarle lo capturado a su cuota individual o a la del área correspondiente, según sea el caso.
 
 Ante la falla del sistema de posicionamiento automático instalado a bordo, se informará de inmediato a la autoridad marítima de tal circunstancia. Si la falla no es evidenciada a bordo, la autoridad marítima informará a la nave sobre el hecho tan pronto como sea detectada por su propia estación monitora.
 
@@ -2750,279 +2260,35 @@ El cumplimiento de las acciones ordenadas en el inciso precedente podrá conside
 
 #### Artículo 64
 
-E.- Los titulares
+E.- Los titulares de cualquier instrumento que autorice a la extracción de la fracción industrial de la cuota global o de las autorizaciones de pesca, así como los armadores artesanales de embarcaciones de una eslora igual o superior a 12 metros, los armadores artesanales de embarcaciones inscritas en pesquerías pelágicas con el arte de cerco, cualquiera sea su eslora, y los titulares de embarcaciones transportadoras deberán entregar al Servicio la información de desembarque por viaje de pesca a que se refiere el artículo 63 de esta ley, sometiéndose al procedimiento de certificación establecido por el Servicio.
 
-de cualquier instrumento que autorice
+Para otorgar el certificado, se deberán pesar los desembarques o productos de la pesca en su caso, a menos que el Servicio fundadamente, mediante resolución, la exceptúe por la aplicación de una metodología equivalente. El sistema de pesaje utilizado deberá estar habilitado por el Servicio.
 
-a la extracción de la fracción
+La forma, requisitos y condiciones de la certificación y del pesaje, así como la periodicidad, lugar, forma de pago y demás aspectos operativos del sistema, serán establecidos por el Servicio mediante resolución.
 
-industrial de la cuota global o de
+Las tarifas por la certificación deberán ser pagadas por los titulares del instrumento que autorice la extracción de la fracción industrial, cualquiera sea el título, así como por los armadores artesanales de embarcaciones pelágicas de 12 o más metros de eslora, los titulares de las embarcaciones transportadoras o por los titulares de las plantas de procesamiento, cuando así se determine, y en todo caso dichas plantas pagarán la certificación de las embarcaciones artesanales de menos de 12 metros de eslora que las abastezcan. Las tarifas se fijarán según el tipo de pesquería y área, serán establecidas en moneda de curso legal por tonelada de recurso, materia prima o producto desembarcado, según corresponda, pudiendo contemplarse aranceles diferenciados en consideración a la especie, cantidad, horario y ubicación geográfica del desembarque, y serán fijadas por decreto del Ministerio, el que deberá ser visado por la Dirección de Presupuestos previo informe del Servicio. Este decreto indicará los casos en que la tarifa por certificación deberá ser pagada anticipadamente y aquéllos en que deberá ser pagada por la planta de procesamiento, dependiendo de la pesquería y área. Las tarifas fijadas se pagarán, en la forma y condiciones indicadas en el decreto que las fije, ante la Tesorería General de la República, la que podrá proceder a su ejecución y cobro de conformidad con las reglas generales.
 
-las autorizaciones de pesca, así como
+El Servicio determinará los procedimientos de habilitación y control de los sistemas de pesaje utilizados para la certificación del desembarque, de conformidad con lo dispuesto en el artículo 122, así como la verificación de los parámetros metrológicos e inspección de su funcionamiento y uso.
 
-los armadores artesanales de
+En los casos en que se pretenda establecer la certificación en un plan de manejo o en la extensión de operaciones de embarcaciones mayores a 12 metros de eslora dentro de la primera milla marina o en la extensión de operaciones a la región contigua, conforme lo disponen los artículos 8, 9 bis, 47 bis y 50, respectivamente, o en la extensión de operaciones de que trata el artículo 5 de la ley Nº 20.632, la implementación de la certificación se deberá coordinar con el Servicio, con una anticipación de al menos seis meses antes de la aprobación del plan de manejo o del acto administrativo que proceda. En estos casos, el Servicio podrá contratar a entidades auditoras acreditadas para realizar dicha certificación, conforme a lo dispuesto por el artículo 64 F. En todos estos casos las condiciones de otorgamiento del certificado estarán sometidas a las condiciones establecidas para el pesaje.
 
-embarcaciones de una eslora igual o
+El incumplimiento del pago de la certificación del desembarque constituirá una causal de suspensión del zarpe de la embarcación cuya carga devengó el pago, la que será aplicada por la Dirección General del Territorio Marítimo y de la Marina Mercante, excepto en el caso de las embarcaciones artesanales de una eslora inferior a doce metros, evento en el cual se suspenderá la operación de la planta de procesamiento respectiva. Asimismo, se suspenderá el ejercicio de los derechos derivados de cuotas asignadas a cualquier título, sea industrial o artesanal, que hubieren dado origen a la certificación adeudada, lo que será aplicado por la Subsecretaría. En los casos en que se haya dispuesto el pago por los titulares de las plantas de procesamiento y se haya verificado el incumplimiento, se suspenderá la actividad de la planta hasta que se acredite el pago de la certificación adeudada, quedando prohibido el abastecimiento de recursos hidrobiológicos y sus productos a ésta y, por tanto, la prohibición de entrega de desembarques y de recepción de abastecimiento, lo que deberá ser verificado por el Servicio.
 
-superior a 12 metros y los titulares
-
-de embarcaciones transportadoras
-
-deberán entregar al Servicio la
-
-información de desembarque por
-
-viaje de pesca a que se refiere el
-
-#### Artículo 63
-
-de esta ley, certificada
-
-por una entidad auditora
-
-acreditada por el Servicio.
-
-Para otorgar el certificado, se
-
-deberán pesar los desembarques o
-
-productos de la pesca en su caso, a
-
-menos que el Servicio fundadamente,
-
-mediante resolución, la exceptúe por
-
-la aplicación de una metodología
-
-equivalente. El sistema de pesaje
-
-utilizado deberá estar habilitado por
-
-el Servicio.
-
-La forma, requisitos y
-
-condiciones de la certificación y
-
-acreditación de las entidades
-
-auditoras y del pesaje, así como la
-
-periodicidad, lugar, forma de pago
-
-y demás aspectos operativos del
-
-sistema, serán establecidos por el
-
-Servicio mediante resolución. El
-
-Servicio deberá dar cumplimiento a
-
-los mecanismos de la ley N° 19.886,
-
-en lo que resulte pertinente, para
-
-efectos de determinar a la empresa
-
-autorizada para operar en cada zona.
-
-La empresa que resulte como
-
-adjudicataria de este proceso en cada
-
-zona será la que, cumpliendo con los
-
-requerimientos exigidos en las bases
-
-de licitación, ofrezca las mejores
-
-condiciones para el ejercicio de sus
-
-labores.
-
-Las tarifas máximas por los servicios
-
-de certificación que deberán ser pagadas
-
-por los armadores o, en su caso, por
-
-los titulares de las embarcaciones
-
-transportadoras serán establecidas en
-
-cierta cantidad de la respectiva moneda
-
-de curso legal por tonelada de recurso
-
-o materia prima desembarcada, pudiendo
-
-contemplarse aranceles diferenciados
-
-en consideración a la especie,
-
-cantidad, horario y ubicación
-
-geográfica del desembarque, y
-
-serán fijadas en la resolución
-
-del Servicio que resuelva la
-
-contratación de la certificación.
-
-Las tarifas referidas serán pagadas
-
-a la entidad auditora a través del
-
-Servicio. Para estos efectos, la
-
-Dirección Regional del Servicio
-
-correspondiente al lugar en el
-
-cual se presten los servicios
-
-de certificación, recibirá los
-
-fondos que se perciban por el
-
-pago que efectúen los titulares
-
-y armadores de estos servicios.
-
-Dichos fondos serán administrados
-
-en forma extrapresupuestaria
-
-utilizando las cuentas
-
-complementarias abiertas para
-
-dicho efecto.
-
-En caso de no pago, la entidad
-
-auditora podrá suspender la
-
-certificación, previa autorización
-
-del Servicio. El plazo que tendrán
-
-los titulares y armadores para
-
-pagar por los servicios de
-
-certificación será el fijado en la
-
-resolución del Servicio. Asimismo,
-
-para los efectos de lo dispuesto en
-
-la letra b) del artículo 5° de ley
-
-N° 19.983, el Servicio certificará, a
-
-solicitud de la entidad auditora, el
-
-hecho de haber transcurrido el
-
-respectivo plazo sin que el armador
-
-haya consignado en la cuenta
-
-dispuesta para dicho efecto los
-
-fondos necesarios para cubrir el
-
-pago de que se trate. El Servicio no
-
-tendrá responsabilidad alguna
-
-respecto de los pagos adeudados por
-
-parte de los titulares y armadores a
-
-las entidades auditoras.
-
-El certificador que certifique
-
-un hecho falso o inexistente o el
-
-que haga una utilización maliciosa
-
-de la certificación de desembarques
-
-será sancionado con las penas
-
-establecidas en los artículos 194 ó
-
-196 del Código Penal, según
-
-corresponda. Para todos los efectos,
-
-se entenderá que los certificados
-
-constituyen instrumento público.
-
-Las entidades auditoras serán
-
-fiscalizadas por el Servicio,
-
-debiendo, entre otros, efectuar
-
-directamente, o a través de terceros,
-
-auditorías para evaluar el desempeño
-
-de las entidades auditoras. Los
-
-resultados de estas auditorías
-
-deberán publicarse en el sitio de
-
-dominio electrónico de este Servicio.
+Para efectos de lo señalado en el inciso anterior, el Servicio solicitará a la Tesorería General de la República un informe que acredite el pago de la certificación de desembarque. Con el mérito de tales informes, y dentro de los cinco días hábiles desde su recepción, el Servicio dictará una resolución que señalará las deudas vigentes por no pago de la certificación y procederá a la suspensión de zarpe de la embarcación, la suspensión de los derechos derivados de cuotas asignadas y la suspensión de las actividades de las plantas de procesamiento, según corresponda. Lo anterior no obstará a la facultad de la Tesorería General de la República de iniciar los procedimientos de cobro de los montos adeudados y que resulten procedentes. Salvo en los casos en que conforme a la ley se hubiere establecido la certificación por entidades auditoras, la ejecución de la deuda por certificación de desembarque será efectuada por la Tesorería General de la República, conforme a las reglas generales de cobro ejecutivo contenidas en el Código Tributario.
 
 #### Artículo 64
 
-F.- La habilitación
+F.- La forma, requisitos y condiciones de la certificación y acreditación de las entidades auditoras, y la periodicidad, lugar, forma de pago y demás aspectos operativos del sistema serán establecidos por el Servicio mediante resolución. La contratación de la empresa autorizada para operar en cada zona se regirá por lo dispuesto en la ley Nº 19.886 y su reglamento. Se deberá adjudicar el contrato del proceso de certificación en una zona determinada a la empresa que, cumpliendo con los requerimientos exigidos en las bases de licitación, ofrezca las mejores condiciones para el ejercicio de las labores de certificación objeto de la respectiva licitación.
 
-y control de los sistemas de pesaje
+Las tarifas máximas por los servicios de certificación que deberán ser pagadas por los armadores o, en su caso, por los titulares de las embarcaciones transportadoras o por los titulares de las plantas de procesamiento, según corresponda, dependiendo del tipo de pesquería y área, de conformidad con el artículo 64 E, serán establecidas en moneda de curso legal por tonelada de recurso, materia prima o producto desembarcado, según corresponda, pudiendo contemplarse aranceles diferenciados en consideración a la especie, cantidad, horario y ubicación geográfica del desembarque, y serán fijadas en la resolución del Servicio que resuelva la contratación de la certificación. Las tarifas referidas serán pagadas a la entidad auditora a través del Servicio. Para estos efectos, la Dirección Regional del Servicio correspondiente al lugar en el cual se presten los servicios de certificación recibirá los fondos que se perciban por el pago que efectúen los titulares y armadores de estos servicios. Dichos fondos serán administrados en forma extrapresupuestaria utilizando las cuentas complementarias abiertas para dicho efecto.
 
-utilizados para la certificación del
+En caso de no pago, la entidad certificadora podrá, previa autorización del Servicio, suspender la certificación. En tales casos procederá la suspensión del zarpe de la embarcación, la suspensión de los derechos derivados de cuotas asignadas o la suspensión de las actividades de la planta de procesamiento, según corresponda. Para tales efectos el Servicio incluirá en la resolución de que trata el inciso anterior las deudas originadas en la certificación de la información de desembarque realizada por entidades auditoras.
 
-desembarque a que se refiere el
+El plazo que tendrán quienes deban pagar por los servicios de certificación será el fijado en la resolución del Servicio que resuelva la contratación de la certificación. Asimismo, para los efectos de lo dispuesto en la letra b) del artículo 5 de ley Nº 19.983, el Servicio, a solicitud de la entidad certificadora, certificará el hecho de haber transcurrido el respectivo plazo sin que se haya consignado en la cuenta dispuesta para dicho efecto los fondos necesarios para cubrir el pago de que se trate. El Servicio no tendrá responsabilidad alguna respecto de los pagos adeudados por parte de los titulares y armadores a las entidades auditoras.
 
-artículo anterior, corresponderá al
+El que certifique un hecho falso o inexistente o haga una utilización maliciosa de la certificación de desembarques será sancionado con la pena de presidio menor en su grado máximo.
 
-Servicio, así como la verificación de
-
-los parámetros metrológicos e
-
-inspección de su funcionamiento y uso.
-
-El Servicio establecerá un
-
-procedimiento de habilitación y
-
-control de los sistemas de pesaje y
-
-un período de calibración y
-
-verificación de los parámetros
-
-metrológicos de operación del
-
-sistema. El Servicio podrá
-
-suspender o caducar la habilitación
-
-del sistema de pesaje cuando los
-
-parámetros metrológicos están
-
-fuera de los márgenes establecidos
-
-o hayan sido adulterados.
+Las entidades certificadoras serán auditadas por el Servicio, el que deberá efectuar, directamente o a través de terceros, auditorías para evaluar su desempeño. Los resultados de estas auditorías deberán publicarse en el sitio electrónico del Servicio o hayan sido adulterados.
 
 #### Artículo 64
 
@@ -3034,15 +2300,15 @@ H.- El Servicio a objeto de efectuar el control de cuota global de captura de un
 
 #### Artículo 64
 
-I.- Los armadores de naves pesqueras a que se refiere el artículo 64 B y los armadores artesanales respecto de sus embarcaciones que tengan una eslora igual o superior a 15 metros deberán instalar a bordo y mantener en funcionamiento, durante todo el viaje de pesca, un dispositivo de registro de imágenes que permita detectar y registrar toda acción de descarte que pueda ocurrir a bordo.
+I.- Los armadores de naves pesqueras a que se refiere el artículo 64 B y los armadores artesanales respecto de sus embarcaciones que tengan una eslora igual o superior a 15 metros deberán instalar a bordo y mantener en funcionamiento, durante todo el viaje de pesca, un dispositivo de registro de imágenes que permita detectar y registrar toda acción de descarte y toda acción que constituya pesca ilegal, conforme lo establece el número 72 del artículo 2, que pueda ocurrir a bordo. A la misma obligación quedará sometida la persona natural o jurídica propietaria de un artefacto naval o quien lo explote a cualquier título, que sea utilizado para la descarga de recursos hidrobiológicos, tales como pontones, plataformas fijas o flotantes. Para estos efectos, el propietario o quien explote el artefacto naval deberá inscribirlo ante el Servicio.
 
-El Servicio Nacional de Pesca deberá requerir la entrega de la información registrada desde las naves pesqueras, en ejercicio de su función fiscalizadora.
+El Servicio Nacional de Pesca deberá requerir la entrega de la información registrada desde las naves pesqueras y desde los artefactos navales, en ejercicio de su función fiscalizadora.
 
-La instalación y mantención del dispositivo de registro de imágenes serán de cargo del armador. Asimismo, la recopilación y procesamiento de las imágenes podrá efectuarse por el Servicio directamente o encargándolo a entidades externas. En este último caso, serán también de cargo del armador.
+La instalación y mantención del dispositivo de registro de imágenes serán de cargo del armador o del propietario o de quien explote el artefacto naval, según conste en la inscripción realizada ante el Servicio. Asimismo, la recopilación y procesamiento de las imágenes podrá efectuarse por el Servicio directamente o encargándolo a entidades externas. En este último caso, serán también de cargo del armador o del propietario o de quien explote el artefacto naval, según conste en la inscripción realizada ante el Servicio.
 
 Este sistema deberá guardar relación en sus costos de instalación y operación con los que signifiquen los objetivos de protección de los recursos hidrobiológicos respectivos.
 
-La forma, requisitos y condiciones de aplicación de las exigencias establecidas en este artículo, así como los resguardos necesarios que eviten la manipulación e interferencia del funcionamiento de los dispositivos, serán determinados en el reglamento, pudiendo éste distinguir por pesquería, tipo de nave y arte de pesca. El Servicio acreditará, directamente o por intermedio de entidades externas, el cumplimiento de los requisitos establecidos en el reglamento.
+La forma, requisitos y condiciones de aplicación de las exigencias establecidas en este artículo, así como los resguardos necesarios que eviten la manipulación e interferencia del funcionamiento de los dispositivos, serán determinados en el reglamento, pudiendo éste distinguir por pesquería, tipo de nave o artefacto naval y arte de pesca. El Servicio acreditará, directamente o por intermedio de entidades externas, el cumplimiento de los requisitos establecidos en el reglamento.
 
 La Subsecretaría de Pesca podrá requerir la información de que trata este artículo para fines de administración y manejo de los recursos hidrobiológicos.
 
@@ -3056,21 +2322,9 @@ La información que genere el dispositivo de registro de imágenes, certificada 
 
 #### Artículo 65
 
-Los armadores,
+Los armadores, transportistas, elaboradores, comercializadores y distribuidores deberán portar junto con los productos, los documentos que acrediten el origen legal de los recursos hidrobiológicos y sus productos derivados.
 
-transportistas, elaboradores,
-
-comercializadores y distribuidores
-
-deberán portar junto con los
-
-productos, los documentos que
-
-acrediten el origen legal de los
-
-recursos hidrobiológicos y sus
-
-productos derivados.
+Las personas que elaboren productos de cualquier naturaleza utilizando como materia prima recursos hidrobiológicos o partes de ellos, y quienes comercialicen, por cuenta propia o ajena, recursos hidrobiológicos o partes de ellos o productos derivados de ellos, deberán inscribirse en el registro que llevará el Servicio. No deberán inscribirse los restaurantes ni las cocinerías de mercados locales o caletas, las pescaderías ni otros locales de venta al por menor, salvo los supermercados, ni los que elaboren o comercialicen recursos o derivados para la mera subsistencia propia y de su familia, los que, sin embargo, igualmente quedarán sujetos a la fiscalización del Servicio.
 
 #### Artículo 66
 
@@ -3938,161 +3192,33 @@ sanciones que para casos especiales establezca esta ley.
 
 A.- Para los efectos de la presente ley, se entenderá por reincidencia la reiteración de cualquiera de las infracciones a las normas de la presente ley y sus reglamentos, o de las medidas de administración pesquera, cometidas dentro del plazo de dos años, contado desde la fecha en que haya quedado ejecutoriada la sentencia condenatoria. En caso de reincidencia, las sanciones pecuniarias y el período de clausura se duplicarán, salvo disposición en contrario.
 
+#### Artículo 108
+
+B.- Cuando la infracción se refiera a productos derivados de recursos hidrobiológicos, la multa deberá calcularse en base a la cantidad de recursos hidrobiológicos requeridos para su elaboración. Para tales efectos, se considerará el rendimiento productivo del recurso que corresponda para la línea de proceso respectiva, establecido por resolución del Servicio y que estuviera vigente a la fecha de la infracción. En el caso de que no se encuentre fijado el rendimiento productivo en los términos indicados, o no se pueda determinar el recurso hidrobiológico objeto de la infracción, se estará al menor rendimiento productivo que haya sido fijado respecto de los demás productos.
+
 #### Artículo 109
 
-De las infracciones
+De las infracciones serán responsables:
 
-serán responsables:
+a) De las infracciones a las prohibiciones de captura o extracción o desembarque de especies hidrobiológicas, y realización de operaciones de pesca sin resultado de captura, responderá el armador pesquero industrial o el armador pesquero artesanal y el capitán o patrón de la nave con la cual se cometa la infracción.
 
-a) De las infracciones a las
+b) De las infracciones a las prohibiciones de transporte responderán solidariamente el titular del vehículo inscrito en el registro de vehículos motorizados o en el registro de naves que lleva la autoridad marítima y el conductor, capitán o patrón de la nave, según corresponda. En los casos en que se acredite la intervención de un empresario de transporte, al tenor de lo dispuesto en el inciso final del artículo 166 del Código de Comercio, será solidariamente responsable de las infracciones correspondientes.
 
-prohibiciones de captura o extracción
+c) De las infracciones a las prohibiciones de comercialización responderá la persona natural o jurídica que ejerce la actividad comercial, al tenor de lo dispuesto en el artículo 7° del Código de Comercio.
 
-o desembarque de especies
+d) De las infracciones a las prohibiciones de posesión y tenencia responderá el poseedor o mero tenedor. El porte de los recursos hidrobiológicos y los productos derivados de éstos en medios de transporte privados, o que son conducidos como parte del equipaje del conductor o de personas que viajan como pasajeros en el transporte público, constituye, para estos efectos, tenencia.
 
-hidrobiológicas, y realización de
+e) De las infracciones a las prohibiciones de transformación responderá la persona natural o jurídica titular de la inscripción que la habilita para ejercer la actividad. A falta de ésta, responderá la persona natural o jurídica que incurra en la infracción.
 
-operaciones de pesca sin resultado de
+f) De las infracciones a las prohibiciones de almacenamiento responderá la persona natural o jurídica que ejerce la actividad de depósito de mercancías, entendiendo por tal el almacenamiento, guarda, conservación, manejo y distribución de los bienes o mercancías que se encomiendan a su custodia. El almacenamiento en lugares cuyo objetivo especial no es el depósito de acuerdo a lo señalado precedentemente, constituye, para estos efectos, tenencia.
 
-captura, responderá el armador
+g) Si una infracción ha sido cometida por dos o más personas, cada una de ellas será solidariamente responsable del pago de la multa respectiva.
 
-pesquero industrial o el armador
-
-pesquero artesanal y el capitán o
-
-patrón de la nave con la cual se
-
-cometa la infracción.
-
-b) De las infracciones a las
-
-prohibiciones de transporte
-
-responderá el empresario de
-
-transporte, al tenor de lo dispuesto
-
-en el inciso final del artículo 166
-
-del Código de Comercio.
-
-c) De las infracciones a las
-
-prohibiciones de comercialización
-
-responderá la persona natural o
-
-jurídica que ejerce la actividad
-
-comercial, al tenor de lo dispuesto
-
-en el artículo 7° del Código de
-
-Comercio.
-
-d) De las infracciones a las
-
-prohibiciones de posesión y tenencia
-
-responderá el poseedor o mero
-
-tenedor. El porte de los recursos
-
-hidrobiológicos y los productos
-
-derivados de éstos en medios de
-
-transporte privados, o que son
-
-conducidos como parte del equipaje
-
-del conductor o de personas que
-
-viajan como pasajeros en el
-
-transporte público, constituye, para
-
-estos efectos, tenencia.
-
-e) De las infracciones a las
-
-prohibiciones de transformación
-
-responderá la persona natural o
-
-jurídica titular de la inscripción
-
-que la habilita para ejercer la
-
-actividad. A falta de ésta, responderá
-
-la persona natural o jurídica que
-
-incurra en la infracción.
-
-f) De las infracciones a las
-
-prohibiciones de almacenamiento
-
-responderá la persona natural o
-
-jurídica que ejerce la actividad de
-
-depósito de mercancías, entendiendo
-
-por tal el almacenamiento, guarda,
-
-conservación, manejo y distribución
-
-de los bienes o mercancías que se
-
-encomiendan a su custodia. El
-
-almacenamiento en lugares cuyo
-
-objetivo especial no es el depósito
-
-de acuerdo a lo señalado
-
-precedentemente, constituye, para
-
-estos efectos, tenencia.
-
-g) Si una infracción ha sido
-
-cometida por dos o más personas, cada
-
-una de ellas será solidariamente
-
-responsable del pago de la multa
-
-respectiva.
-
-h) Si la infracción es cometida
-
-por una persona jurídica, junto a
-
-ella será solidariamente responsable,
-
-en el ámbito civil y administrativo,
-
-su representante legal, a menos que
-
-constare su falta de participación o
-
-su oposición al hecho constitutivo
-
-de infracción, no obstante cualquier
-
-limitación establecida en los
-
-estatutos o actos constitutivos de la
-
-sociedad, corporación o fundación.
+h) Si la infracción es cometida por una persona jurídica, junto a ella será solidariamente responsable, en el ámbito civil y administrativo, su representante legal, a menos que constare su falta de participación o su oposición al hecho constitutivo de infracción, no obstante cualquier limitación establecida en los estatutos o actos constitutivos de la sociedad, corporación o fundación.
 
 #### Artículo 110
 
-Serán sancionados con multa de tres a cuatro veces el resultado de la multiplicación del valor de sanción de la especie respectiva, vigente a la fecha de la denuncia, por la cantidad de recursos hidrobiológicos objeto de la infracción, reducida a toneladas de peso físico, y con el comiso de las especies hidrobiológicas y de las artes y aparejos de pesca, o equipo y traje de buceo, según corresponda, con que se hubiere cometido la infracción, los siguientes hechos:
+Serán sancionados con multa de una a cuatro veces el resultado de la multiplicación del valor de sanción de la especie respectiva, vigente a la fecha de la denuncia, por la cantidad de recursos hidrobiológicos objeto de la infracción, reducida a toneladas de peso físico, y con el comiso de las especies hidrobiológicas y de las artes y aparejos de pesca, o equipo y traje de buceo, según corresponda, con que se hubiere cometido la infracción, los siguientes hechos:
 
 a) Informar capturas de especies hidrobiológicas mayores que las reales, en la presentación de los informes de captura a que se refiere el artículo 63. La sanción se aplicará sobre el exceso de la captura informada.
 
@@ -4104,115 +3230,31 @@ d) Capturar especies hidrobiológicas sin la autorización o permiso correspondi
 
 e) Capturar especies hidrobiológicas sin estar inscritos en el registro pesquero artesanal o en contravención a lo establecido en la respectiva inscripción.
 
-f) Capturar especies hidrobiológicas
-
-en contravención a lo dispuesto en
-
-las letras c) y d) del artículo 3º
+f) Capturar especies hidrobiológicas en contravención a lo dispuesto en las letras c) y d) del artículo 3º
 
 y en la letra c) del artículo 48.
 
-g) Capturar especies hidrobiológicas
+g) Capturar especies hidrobiológicas en el área de reserva de la pesca artesanal, sin contar con la autorización establecida en los artículos 47 y 47 bis.
 
-en el área de reserva de la pesca
+h) Capturar en alta mar con naves que enarbolen el pabellón chileno, infringiendo las normas de los tratados o convenciones internacionales ratificados por Chile y que se encuentran vigentes, salvo en los casos de pesquerías transzonales y altamente migratorias, en que se sancionará según lo previsto en el artículo 40 D y Párrafo 4° del Título IX.
 
-artesanal, sin contar con la
+i) Capturar especies hidrobiológicas con una nave, con infracción a las normas sobre funcionamiento del sistema de posicionamiento automático en el mar.
 
-autorización establecida en los
+j) Capturar especies protegidas por convenios internacionales de los cuales Chile es parte, siempre que se haya decretado la prohibición de captura temporal o permanente.
 
-artículos 47 y 47 bis.
+k) Capturar especies hidrobiológicas bajo la talla mínima de extracción establecida y en exceso al margen de tolerancia autorizado por cada especie. La sanción será aplicable sólo sobre el exceso mencionado.
 
-h) Capturar en alta mar con naves
+La cantidad de recursos bajo talla se podrá determinar mediante un sistema de muestreo, cuyo procedimiento se establecerá mediante resolución del Servicio Nacional de Pesca y Acuicultura.
 
-que enarbolen el pabellón chileno,
+l) Capturar especies hidrobiológicas con artes o aparejos de pesca prohibidos o en contravención a las regulaciones establecidas en el artículo 4° de esta ley.
 
-infringiendo las normas de los
+m) Capturar una especie hidrobiológica en calidad de fauna acompañante en una proporción superior a la establecida en el decreto supremo correspondiente. La sanción será aplicable sólo sobre el exceso mencionado.
 
-tratados o convenciones
+En el caso de las conductas descritas en las letras e), k), l) y m) de este artículo, podrá aplicarse la pena de amonestación, la que será impuesta por el juez que conozca del proceso, debiendo considerar al efecto el beneficio económico obtenido, si procede, la capacidad económica del infractor, la gravedad de la conducta y las consecuencias del hecho. En ningún caso la amonestación procederá más de dos veces respecto del mismo infractor.
 
-internacionales ratificados por
+Con todo, si el infractor que fuere denunciado por alguna de las conductas descritas en los literales citados en el inciso anterior se allana a la denuncia, el tribunal aplicará la multa que proceda, rebajada en el veinte por ciento.
 
-Chile y que se encuentran vigentes,
-
-salvo en los casos de pesquerías
-
-transzonales y altamente migratorias,
-
-en que se sancionará según lo
-
-previsto en el artículo 40 D
-
-y Párrafo 4° del Título IX.
-
-i) Capturar especies hidrobiológicas
-
-con una nave, con infracción a las
-
-normas sobre funcionamiento del
-
-sistema de posicionamiento automático
-
-en el mar.
-
-j) Capturar especies protegidas
-
-por convenios internacionales de los
-
-cuales Chile es parte, siempre que se
-
-haya decretado la prohibición de
-
-captura temporal o permanente.
-
-k) Capturar especies
-
-hidrobiológicas bajo la talla mínima
-
-de extracción establecida y en
-
-exceso al margen de tolerancia
-
-autorizado por cada especie. La
-
-sanción será aplicable sólo sobre el
-
-exceso mencionado.
-
-La cantidad de recursos bajo
-
-talla se podrá determinar mediante un
-
-sistema de muestreo, cuyo
-
-procedimiento se establecerá mediante
-
-resolución del Servicio Nacional de
-
-Pesca y Acuicultura.
-
-l) Capturar especies
-
-hidrobiológicas con artes o aparejos
-
-de pesca prohibidos o en
-
-contravención a las regulaciones
-
-establecidas en el artículo 4° de esta ley.
-
-m) Capturar una especie
-
-hidrobiológica en calidad de fauna
-
-acompañante en una proporción
-
-superior a la establecida en el
-
-decreto supremo correspondiente.
-
-La sanción será aplicable sólo sobre
-
-el exceso mencionado.
+Quedarán exentos de responsabilidad infraccional quienes realicen exclusivamente pesca de subsistencia.
 
 > **Nota.** NOTA: El Art. 1º transitorio de la LEY 19521, publicada el 23.10.1997, dispuso que las modificaciones introducidas al presente artículo rigen a contar de sesenta días después de su publicación en el Diario Oficial.
 
@@ -4305,6 +3347,38 @@ D.- Serán sancionados con multa de 30 a 500 unidades tributarias mensuales el a
 #### Artículo 114
 
 Será sancionada con multa equivalente a media unidad tributaria mensual por cada tonelada de registro grueso de la nave o embarcación pesquera infractora, la realización de actividades pesqueras extractivas con artes o aparejos de pesca prohibidos sin resultado de captura, ya sea en relación a las áreas de pesca o a la selectividad de ellos. Si no se usaren naves o embarcaciones pesqueras, la sanción será una multa de 3 a 300 unidades tributarias mensuales. En caso de reincidencia, la sanción se duplicará.
+
+#### Artículo 114
+
+A.- El que procese, elabore o comercialice recursos hidrobiológicos o productos derivados de ellos, sin estar inscrito en el registro que lleva el Servicio en los casos que corresponda, será sancionado con multa de 2 a 100 unidades tributarias mensuales. El Servicio dispondrá el cierre transitorio del establecimiento mientras se regulariza la inscripción.
+
+#### Artículo 114
+
+B.- El que procese, elabore o almacene recursos hidrobiológicos o productos derivados de ellos respecto de los que no se acredite su origen legal, y que correspondan a recursos hidrobiológicos en plena explotación, según el informe anual de la Subsecretaría a que se refiere el artículo 4 A, será sancionado con una multa compuesta por un monto fijo ascendente a un mínimo de 5 y a un máximo de 2.000 unidades tributarias mensuales, y un monto variable entre una a tres veces el resultado de la multiplicación del valor sanción de la especie respectiva, vigente a la fecha de la denuncia, por la cantidad de recursos hidrobiológicos objeto de la infracción, reducida a toneladas de peso físico. En la determinación del monto fijo de la multa deberá considerarse especialmente la capacidad económica del denunciado y el beneficio económico que podría haberse obtenido con motivo de la infracción.
+
+En el caso de que las conductas señaladas se cometan respecto de los recursos hidrobiológicos o de sus productos derivados que no se encuentran en plena explotación, colapsados ni sobreexplotados, según el informe anual de la Subsecretaría a que se refiere el artículo 4 A, serán sancionados con una multa equivalente a una o dos veces el resultado de la multiplicación del valor sanción de la especie respectiva, vigente a la fecha de la denuncia, por la cantidad de recursos hidrobiológicos objeto de la infracción, reducida a toneladas de peso físico. En los casos de que trata este artículo procederá siempre el comiso de los recursos hidrobiológicos y de los productos derivados de éstos que hayan sido objeto de la infracción.
+
+#### Artículo 114
+
+C.- El que comercialice recursos hidrobiológicos o productos derivados de ellos, sin acreditar el origen legal de los mismos, y se encuentre inscrito en el registro que lleva el Servicio conforme al artículo 65, quedará sometido a las mismas sanciones a que se refiere el artículo 114 B respecto de los recursos hidrobiológicos y sus productos allí indicados. En el caso de los comercializadores que no deban inscribirse en el mismo registro, atendida la excepción señalada en el artículo 65, quedarán sometidos a las mismas sanciones a que se refiere el artículo 114 B, con excepción del monto fijo de la multa. En este caso procederá siempre el comiso de los recursos hidrobiológicos y de los productos derivados de éstos que hayan sido objeto de la infracción.
+
+#### Artículo 114
+
+D.- La falta de acreditación del origen legal de los recursos hidrobiológicos o de sus productos de que tratan los artículos 114 B y 114 C en un procedimiento de fiscalización facultará al Servicio para disponer el cierre transitorio inmediato del establecimiento respectivo y la suspensión de la actividad en ellos, lo que en ningún caso podrá exceder de diez días hábiles. Dentro de ese plazo, el Servicio deberá presentar la denuncia respectiva al tribunal competente. Previo al cumplimiento del plazo, la medida de cierre sólo podrá ser levantada por el tribunal en el procedimiento iniciado al efecto.
+
+En todo evento, los funcionarios del Servicio podrán solicitar el auxilio de la fuerza pública.
+
+#### Artículo 114
+
+E.- El que tenga en su poder, a cualquier título, recursos hidrobiológicos de que trata el artículo 114 B y no acredite su origen legal, conociendo o no pudiendo menos que conocer el origen ilegal de unos u otros, será sancionado con una multa equivalente a multiplicar hasta dos veces el valor sanción de la especie respectiva, vigente a la fecha de la denuncia, por la cantidad de recursos hidrobiológicos objeto de la infracción, reducida a toneladas de peso físico. En este caso procederá siempre el comiso de los recursos hidrobiológicos y de los productos derivados de éstos que hayan sido objeto de la infracción.
+
+#### Artículo 114
+
+F.- En todo caso las multas aplicables a las infracciones previstas en los artículos 114 B, 114 C y 114 E no podrán exceder en conjunto de la multa mayor que la ley asigne al autor de dichas infracciones.
+
+#### Artículo 114
+
+G.- En los casos de reincidencia de las infracciones a que se refieren los artículos 114 B, 114 C y 114 E, las sanciones se triplicarán. Si se sanciona la tercera infracción en el plazo de cinco años, contado desde la fecha en que haya quedado ejecutoriada la sentencia condenatoria recaída sobre la primera infracción, se cancelará la inscripción de la planta elaboradora o comercializadora por el plazo de tres años. Durante este plazo, ni el titular ni los socios integrantes de la persona jurídica sancionada, en los casos que proceda, podrán inscribirse en el registro directamente o a través de otra persona jurídica.
 
 #### Artículo 115
 
@@ -4420,45 +3494,13 @@ La suspensión de operaciones se aplicará de conformidad al procedimiento previ
 
 #### Artículo 119
 
-Será sancionado
+El que transporte, posea, sea mero tenedor, almacene o comercialice especies hidrobiológicas bajo la talla mínima establecida o recursos hidrobiológicos vedados o extraídos con infracción de la letra c) del artículo 3 o de la cuota establecida en virtud del régimen artesanal de extracción y los productos derivados de éstos, será sancionado con una multa equivalente al resultado de multiplicar hasta por dos veces el valor sanción de la especie respectiva, vigente a la fecha de la denuncia, por la cantidad de recursos hidrobiológicos objeto de la misma, reducidos a toneladas de peso físico, con el comiso de las especies hidrobiológicas y medios de trasporte utilizados, cuando corresponda, y, además, con la clausura del establecimiento o local en que se hubiere cometido la infracción, por un plazo no inferior a tres ni superior a treinta días.
 
-con multa de 30 a 300 unidades
+En los casos de reincidencia en las infracciones a que se refiere este artículo, se cancelará la inscripción en el registro de la planta elaboradora o comercializadora por el plazo de cinco años, sin que puedan inscribirse en él el titular ni los socios integrantes de la persona jurídica sancionada, en los casos que proceda, directamente o a través de otra persona jurídica, por el mismo plazo.
 
-tributarias mensuales, y el comiso de
+#### Artículo 119 bis
 
-las especies hidrobiológicas y
-
-medios de trasporte utilizados,
-
-cuando corresponda, y, además, con la
-
-clausura del establecimiento o local
-
-en que se hubiere cometido la
-
-infracción por un plazo no inferior a
-
-3 ni superior a 30 días, el
-
-transporte, posesión, tenencia,
-
-almacenamiento y comercialización de
-
-especies hidrobiológicas bajo la
-
-talla mínima establecida y recursos
-
-hidrobiológicos vedados, o extraídos
-
-con violación al artículo 3º, letra
-
-c), o a la cuota establecida en
-
-virtud del régimen artesanal de
-
-extracción, y los productos
-
-derivados de éstos.
+El que tenga la calidad de pescador artesanal o sea titular de una licencia transable de pesca, permiso extraordinario de pesca o de una autorización de pesca, y realice actividades extractivas en áreas de manejo y explotación de recursos bentónicos, sin ser titular de los derechos a que se refiere el inciso final del artículo 55 B y sea reincidente en el delito a que se refiere el artículo 139 bis, será sancionado con la suspensión por dos años de la inscripción en el registro pesquero artesanal o de los derechos derivados de la licencia, del permiso o de la autorización, respectivamente, y con la prohibición de zarpe de la embarcación utilizada, por el mismo plazo. Estas sanciones serán aplicables sin perjuicio de la persecución penal que corresponda por estas conductas.
 
 #### Artículo 120
 
@@ -4466,7 +3508,7 @@ Derogado
 
 #### Artículo 120
 
-A.- La extracción de recursos hidrobiológicos desde un área de manejo y explotación de recursos bentónicos, tanto por los asignatarios de dicha área como por terceros ajenos a la misma, en trasgresión a la normativa que rige tal medida de administración pesquera, será sancionada con multa de 30 a 100 unidades tributarias mensuales. En caso de reincidencia, la sanción se duplicará.
+A.- La extracción de recursos hidrobiológicos desde un área de manejo y explotación de recursos bentónicos,por los asignatarios de dicha área, en trasgresión a la normativa que rige tal medida de administración pesquera, será sancionada con multa de 30 a 100 unidades tributarias mensuales. En caso de reincidencia, la sanción se duplicará.
 
 #### Artículo 120
 
@@ -4506,7 +3548,7 @@ En el ejercicio de la función fiscalizadora de la actividad pesquera y de acuic
 
 En el ejercicio de la función fiscalizadora, el servicio estará facultado para:
 
-a) Inspeccionar y registrar inmuebles, establecimientos, centros de cultivo, centros de acopio, centros de faenamiento, viveros, centros de matanza, recintos, naves, aeronaves, trenes, vehículos, contenedores, cajas, embalajes, envases o elementos que hayan servido para cometer las infracciones, tales como artes y aparejos de pesca donde se produzcan, cultiven, elaboren, procesen, almacenen, distribuyan y comercialicen especies hidrobiológicas y sus productos derivados.
+a) Inspeccionar y registrar inmuebles, establecimientos, centros de cultivo, centros de acopio, centros de faenamiento, viveros, centros de matanza, recintos, muelles, zonas primarias aduaneras, naves, artefacto naval, aeronaves, trenes, vehículos, contenedores, cajas, embalajes, envases o elementos que hayan servido para cometer las infracciones, tales como artes y aparejos de pesca donde se produzcan, cultiven, elaboren, procesen, almacenen, distribuyan y comercialicen especies hidrobiológicas y sus productos derivados. La inspección y registro se someterá a los protocolos de bioseguridad que hayan sido fijados por el Servicio mediante resolución, los que deberán ser cumplidos por quienes estén a cargo de los espacios antes señalados.
 
 Asimismo, el Servicio podrá inspeccionar y registrar los establecimientos en que realicen sus funciones las personas inscritas en el registro a que se refiere la letra k) de este artículo, centros de experimentación u otros que importen, mantengan o utilicen, material biológico o patológico.
 
@@ -4526,17 +3568,17 @@ El reglamento determinará la forma y condiciones en que se harán efectivas las
 
 e) Registrar bodegas y centros de distribución y consumo, cuando se presuma fundadamente que en ellos se encuentran recursos o productos adquiridos con infracción a la normativa pesquera, o elementos que hayan servido para cometer dichas infracciones, tales como artes o aparejos de pesca.
 
-f) Requerir y examinar toda la documentación que se relacione con la actividad pesquera extractiva y de acuicultura, de elaboración y de comercialización que se fiscaliza, tales como libros, cuentas, archivos, facturas, guías de despacho y órdenes de embarque.
+f) Requerir y examinar toda la documentación que se relacione con la actividad pesquera extractiva y de acuicultura, de elaboración y de comercialización que se fiscaliza, tales como libros, cuentas, archivos, facturas, guías de despacho y órdenes de embarque. El Servicio fijará un plazo para dar cumplimiento al requerimiento, que no podrá exceder de quince días hábiles.
 
-g) Requerir de los fiscalizados, a través de sus gerentes, representantes legales o administradores, los antecedentes y aclaraciones que sean necesarias para dar cumplimiento a su cometido.
+g) Requerir de los fiscalizados, a través de sus gerentes, representantes legales o administradores, los antecedentes y aclaraciones que sean necesarias para dar cumplimiento a su cometido. El Servicio fijará un plazo para dar cumplimiento al requerimiento, que no podrá exceder de quince días hábiles.
 
-h) Requerir de los fiscalizados, bajo declaración jurada, informes extraordinarios de abastecimiento, existencia, traslado o cosecha, producción y declaraciones de stock de los recursos pesqueros o cultivados, elaborados y de los productos derivados de ellos, respecto de los centros de cultivo, de las plantas de procesamiento y transformación de recursos hidrobiológicos, centros de consumo y comercialización de los recursos hidrobiológicos.
+h) Requerir de los fiscalizados, bajo declaración jurada, informes extraordinarios de abastecimiento, existencia, traslado o cosecha, producción y declaraciones de stock de los recursos pesqueros o cultivados, elaborados y de los productos derivados de ellos, respecto de los centros de cultivo, de las plantas de procesamiento y transformación de recursos hidrobiológicos, centros de consumo y comercialización de los recursos hidrobiológicos. El Servicio fijará un plazo para dar cumplimiento al requerimiento, que no podrá exceder de quince días hábiles.
 
-i) Proceder a la colocación de sellos en containers, objetos, vehículos o lugares sujetos a fiscalización y que contengan o trasladen recursos o productos derivado de ellos.
+i) Proceder a la colocación de sellos en containers, objetos, vehículos o lugares sujetos a fiscalización y que contengan o trasladen recursos o productos derivado de ellos. Asimismo, exigir en el desembarque la colocación de etiquetas u otros elementos que permitan la identificación adecuada de los lotes de recursos hidrobiológicos, con el fin de realizar un apropiado seguimiento de las capturas en los procesos posteriores de procesamiento, transporte y comercialización. El Servicio establecerá por resolución la información y características técnicas que deberán constar en tales etiquetas y elementos.
 
-j) Registrar plantas de elaboración de productos alimenticios destinados a las especies hidrobiológicas y requerir, bajo declaración jurada, informes de producción, declaraciones de stock de productos elaborados y destino de los mismos.
+j) Registrar plantas de elaboración de productos alimenticios destinados a las especies hidrobiológicas o recintos destinados a su almacenamiento o distribución y requerir, bajo declaración jurada, informes de producción, declaraciones de stock de productos elaborados y destino de los mismos.
 
-k) Llevar un registro de las personas naturales o jurídicas acreditadas para elaborar los instrumentos de evaluación ambiental y sanitaria, así como las certificaciones de que trata esta ley o los reglamentos dictados conforme a ella. El reglamento establecerá los requisitos técnicos y financieros que deban cumplir, con el fin de velar por la calidad, confiabilidad e idoneidad de sus funciones, las normas relativas al cumplimiento de éstas y las garantías que deberán rendir para su correspondiente inscripción. Los inscritos en el registro tendrán la obligación de remitir al Servicio copia fidedigna de los instrumentos elaborados dentro del plazo de cinco días, contado desde su emisión.
+k) Llevar un registro de las personas naturales o jurídicas acreditadas para elaborar los instrumentos de evaluación ambiental y sanitaria, así como las certificaciones de que trata esta ley en los casos que corresponda, o los reglamentos dictados conforme a ella. El reglamento establecerá los requisitos técnicos y financieros que deban cumplir, con el fin de velar por la calidad, confiabilidad e idoneidad de sus funciones, las normas relativas al cumplimiento de éstas y las garantías que deberán rendir para su correspondiente inscripción. Los inscritos en el registro tendrán la obligación de remitir al Servicio copia fidedigna de los instrumentos elaborados dentro del plazo de cinco días, contado desde su emisión.
 
 El Servicio suspenderá del registro, hasta por un plazo de cinco años, a quienes pierdan uno o más de los requisitos establecidos para la inscripción. Asimismo, el Servicio suspenderá del registro, en los mismos términos antes señalados, a quienes incumplan con las obligaciones legales y reglamentarias, en los casos que el reglamento establezca.
 
@@ -4560,159 +3602,35 @@ n) Destruir el material biológico o patológico que, sin contar con la autoriza
 
 ñ) Disponer obligatoriamente los puntos de embarque y desembarque que deberán ser utilizados para el transporte de ejemplares, sean vivos o muertos, que provengan de centros de cultivo en que se haya producido una emergencia sanitaria, para evitar o disminuir en el mayor grado posible la diseminación del agente causal de la enfermedad de alto riesgo respectiva. El titular de los ejemplares deberá utilizar los puntos de embarque y desembarque señalados por el Servicio y asumirá los costos que de ello se deriven.
 
-o) Requerir a los órganos de
+o) Requerir a los órganos de la Administración del Estado la información y datos que sean necesarios para el cumplimiento de las funciones encomendadas en la presente ley.
 
-la Administración del Estado la
+p) Ordenar a los capitanes o patrones de naves o embarcaciones pesqueras la recalada obligatoria en el puerto más cercano de la operación de la nave, en el cual pueda descargar su captura, con el objeto de inspeccionar la nave, las artes y aparejos y la captura a bordo, cuando se presuma fundadamente el incumplimiento de medidas de administración de cuota, veda y tamaño mínimo legal. En el evento de oposición a la orden impartida, el funcionario del Servicio podrá solicitar el auxilio de la fuerza pública a la Autoridad Marítima, la cual podrá apresar la nave y conducirla a puerto.
 
-información y datos que sean necesarios
+q) En caso de emergencia sanitaria, determinar el lugar de disposición final de mortalidades y residuos que los titulares de centros de cultivo deberán utilizar, previo cumplimiento de los requisitos definidos por las autoridades competentes. El titular del centro de cultivo asumirá los costos que de la disposición final se derive.
 
-para el cumplimiento de las funciones
+r) Controlar la inocuidad de los productos pesqueros y de acuicultura de exportación y otorgar los certificados oficiales correspondientes, cuando así lo requieran los peticionarios.
 
-encomendadas en la presente ley.
+Las labores de inspección, muestreo, análisis y cobro de estos procedimientos, podrán ser encomendadas a las entidades que cumplan con los requisitos que fije el Reglamento.
 
-p) Ordenar a los capitanes o
+s) Requerir a aquellos armadores cuyas embarcaciones realizan viajes de pesca superiores a 5 días, información de la actividad pesquera, en relación tanto a las capturas diarias y acumuladas por especie como a la elaboración de productos por especie, en el caso de los buques factoría, conforme lo determine el Servicio mediante Resolución.
 
-patrones de naves o embarcaciones
+t) Designar certificadores oficiales para realizar labores de inspección, muestreo, análisis y certificación de la condición sanitaria requeridos por los programas sanitarios de vigilancia y control de enfermedades de alto riesgo dictados de conformidad con el reglamento a que se refiere el artículo 86, a costo de los titulares de los centros de cultivo, cuya labor deberá ser supervisada por laboratorios de referencia del Servicio. El incumplimiento de los procedimientos o de las metodologías de análisis así como la entrega de información fuera de plazo, incompleta o falsa, será causal de revocación de la designación.
 
-pesqueras la recalada obligatoria en
+u) Llevar un registro de personas que realizan, por cuenta propia o ajena, actividades de comercialización de recursos hidrobiológicos y de quienes elaboran productos que utilicen como materia prima productos hidrobiológicos, de conformidad con lo dispuesto en el artículo 65.
 
-el puerto más cercano de la operación
+v) Establecer por resolución, previo informe técnico, el rendimiento productivo de los recursos hidrobiológicos en la elaboración de harina y de otros productos derivados de dichos recursos.
 
-de la nave, en el cual pueda descargar
+w) Delegar, mediante convenio, labores de control del cumplimiento de la normativa pesquera y de acuicultura a otros órganos públicos, en los casos que no cuente con personal en determinados puntos del territorio.
 
-su captura, con el objeto de
+x) Habilitar y controlar los sistemas de pesaje y establecer un período de calibración y verificación de los parámetros metrológicos de operación del sistema. El Servicio determinará por resolución el sistema de pesaje que podrá ser utilizado y los requisitos que deberá cumplir para asegurar las condiciones de confianza, legitimidad y custodia de la información que impida su adulteración.
 
-inspeccionar la nave, las artes y
+La constatación del mal funcionamiento del sistema de pesaje en un procedimiento de fiscalización implicará la paralización inmediata de su utilización, sin perjuicio del inicio del procedimiento para determinar las causas y responsabilidades que corresponda. Sólo se podrá continuar con el uso del sistema de pesaje una vez que se acredite en el procedimiento correspondiente su correcto funcionamiento.
 
-aparejos y la captura a bordo, cuando
-
-se presuma fundadamente el
-
-incumplimiento de medidas de
-
-administración de cuota y tamaño
-
-mínimo legal. En el evento de
-
-oposición a la orden impartida, el
-
-funcionario del Servicio podrá
-
-solicitar el auxilio de la fuerza
-
-pública a la Autoridad Marítima, la
-
-cual podrá apresar la nave y
-
-conducirla a puerto.
-
-q) En caso de emergencia
-
-sanitaria, determinar el lugar de
-
-disposición final de mortalidades
-
-y residuos que los titulares de
-
-centros de cultivo deberán utilizar,
-
-previo cumplimiento de los requisitos
-
-definidos por las autoridades
-
-competentes. El titular del centro de
-
-cultivo asumirá los costos que de la
-
-disposición final se derive.
-
-r) Controlar la inocuidad de
-
-los productos pesqueros y de
-
-acuicultura de exportación y
-
-otorgar los certificados oficiales
-
-correspondientes, cuando así lo
-
-requieran los peticionarios.
-
-Las labores de inspección,
-
-muestreo, análisis y cobro de estos
-
-procedimientos, podrán ser
-
-encomendadas a las entidades que
-
-cumplan con los requisitos que fije
-
-el Reglamento.
-
-s) Requerir a aquellos armadores
-
-cuyas embarcaciones realizan viajes
-
-de pesca superiores a 5 días,
-
-información de la actividad pesquera,
-
-en relación tanto a las capturas
-
-diarias y acumuladas por especie
-
-como a la elaboración de productos
-
-por especie, en el caso de los buques
-
-factoría, conforme lo determine el
-
-Servicio mediante Resolución.
-
-t) Designar certificadores
-
-oficiales para realizar labores de
-
-inspección, muestreo, análisis y
-
-certificación de la condición
-
-sanitaria requeridos por los
-
-programas sanitarios de vigilancia
-
-y control de enfermedades de alto
-
-riesgo dictados de conformidad con
-
-el reglamento a que se refiere el
-
-#### Artículo 86
-
-, a costo de los titulares
-
-de los centros de cultivo, cuya labor
-
-deberá ser supervisada por
-
-laboratorios de referencia del
-
-Servicio. El incumplimiento de los
-
-procedimientos o de las
-
-metodologías de análisis así como
-
-la entrega de información fuera de
-
-plazo, incompleta o falsa, será
-
-causal de revocación de la
-
-designación.
+El Servicio podrá suspender o caducar la habilitación del sistema de pesaje cuando se verifique que los parámetros metrológicos están fuera de los márgenes establecidos.
 
 Para los efectos de lo dispuesto en la letra b) precedente, derógase el artículo 41° de la Ley N° 18.768.
+
+Para el ejercicio de sus funciones, el Servicio podrá disponer el uso de toda clase de medios tecnológicos, resguardando siempre los derechos y garantías de las personas asegurados en la Constitución, en los tratados internacionales ratificados y vigentes en Chile, y en las leyes, y establecer sistemas de turnos para organizar las labores de su personal.
 
 #### Artículo 122 bis
 
@@ -4776,47 +3694,21 @@ Las medidas para mejor resolver que estime del caso practicar, las decretará al
 
 La sentencia, una vez ejecutoriada, tendrá mérito ejecutivo y su cumplimiento se hará efectivo ante el mismo tribunal.
 
-8) Las resoluciones se
-
-notificarán por el estado diario,
-
-con excepción de la resolución que
-
-recibe la causa a prueba y la
-
-sentencia definitiva, las cuales
-
-deberán notificarse por cédula, de
-
-conformidad con lo dispuesto en los
-
-artículos 48, 49 y 53 del Código de
-
-Procedimiento Civil. Lo anterior es
-
-sin perjuicio de la facultad de las
-
-partes de solicitar al juez su
-
-notificación en forma electrónica o
-
-por cualquier otro medio que elijan
-
-para sí, y que el juez califique
-
-como expedito y eficaz.
+8) Las resoluciones se notificarán por el estado diario, con excepción de la resolución que recibe la causa a prueba y la sentencia definitiva, las cuales deberán notificarse por cédula, de conformidad con lo dispuesto en los artículos 48, 49 y 53 del Código de Procedimiento Civil. Lo anterior es sin perjuicio de la facultad de las partes de solicitar al juez su notificación en forma electrónica o por cualquier otro medio que elijan para sí, y que el juez califique como expedito y eficaz.
 
 9) Las multas aplicadas por los tribunales a que se refiere esta ley, deberán enterarse en la Tesorería Regional o Provincial correspondiente dentro del plazo de diez días. El Tesorero Regional o Provincial emitirá un recibo por duplicado, entregará un ejemplar al infractor y enviará otro al Juzgado a más tardar al día siguiente del pago. El secretario del tribunal agregará dicho recibo a los autos, dejando en ellos constancia del pago de la multa.
 
 Las multas y el producto de las subastas de los bienes decomisados se destinarán en el 50% a beneficio municipal de la comuna en la que o frente a cuyas costas se hubiere cometido la infracción y en el 50% a beneficio del Fondo de Fomento para la Pesca Artesanal.
 
+El Tribunal podrá, atendidas las circunstancias, autorizar al sancionado para pagar las multas por parcialidades.
+
 10) Si transcurrido el plazo a que se refiere el número anterior, no estuviere acreditado el pago de la multa, se despachará orden de arresto en contra del infractor. Si la infracción es cometida por personas jurídicas, la orden de arresto se despachará en contra de su representante legal, a menos que constare su falta de participación o su oposición al hecho constitutivo de infracción, no obstante cualquier limitación establecida en los estatutos o actos constitutivos de la sociedad, corporación o fundación.
 
-Despachada una orden de arresto, no podrá suspenderse o dejarse sin efecto, sino por orden del tribunal que la dictó, fundada en el pago de la multa.
+Despachada una orden de arresto, no podrá suspenderse o dejarse sin efecto, sino por orden del tribunal que la dictó, fundada en el pago de la multa o en la suscripción de un acuerdo de pago.
 
 El apremio a que se refieren los incisos anteriores será acumulativo; por consiguiente, por las primeras 30 unidades tributarias mensuales se aplicará un día de prisión por cada unidad tributaria mensual; si la multa fuere superior a 30 unidades tributarias mensuales y no excediere de 300 unidades tributarias mensuales, se aplicará un día de prisión por cada 5 unidades tributarias mensuales; y si excediere de 300 unidades tributarias mensuales, se aplicará un día de prisión por cada 10 unidades tributarias mensuales.
 
-Si el sentenciado no tuviere bienes para satisfacer la multa impuesta, sufrirá la pena de reclusión, regulándose un día por cada unidad tributaria mensual, sin que ella pueda exceder de seis meses.
+Si el sancionado no tuviere bienes para pagar la multa, podrá el tribunal imponer, por vía de sustitución, la sanción de prestación de servicios en beneficio de la comunidad. Para proceder a esta sustitución se requerirá el acuerdo del sancionado. En caso contrario, se suspenderá la actividad pesquera, de procesamiento, de comercialización u otra que el infractor realice conforme a esta ley, a razón de un día por cada unidad tributaria mensual de la multa que se le hubiere impuesto. Si el infractor no contare con registro para realizar la actividad se le aplicará la medida alternativa de reclusión nocturna, a razón de un día por cada unidad tributaria mensual de la multa que se le hubiere impuesto, con un máximo de seis meses.
 
 11) Para hacer efectivo el cumplimiento de la sanción y la práctica de las diligencias que decrete, el juez podrá requerir el auxilio de la fuerza pública, directamente del jefe de la unidad respectiva más inmediata al lugar en que deba cumplirse la resolución o diligencia, aun fuera de su territorio jurisdiccional.
 
@@ -4872,7 +3764,7 @@ Procederá de igual forma el Ministerio Público cuando se le denuncie la perpet
 
 Las especies hidrobiológicas, en su estado natural o procesadas, y los materiales biológicos o patológicos, objeto de la infracción, como también las artes y aparejos de pesca, equipo y traje de buceo, según corresponda, y medios de transporte utilizados al efecto, deberán ser incautados por los fiscalizadores que hayan constatado la infracción, los cuales podrán quedar en poder del denunciado en calidad de depositario provisional, bajo la responsabilidad legal del artículo 470, Nº 1, del Código Penal, mientras el juez competente determine su destino, o bien ser puestos en forma inmediata a disposición del tribunal conforme las facultades establecidas en el presente artículo, con excepción de los materiales biológicos o patológicos, respecto de los cuales, salvo los casos en que se haya procedido de conformidad con el artículo 122 letra n) de esta ley, el Servicio podrá inactivar o destruir estos productos, previa autorización judicial.
 
-Podrá el juez de la causa, tratándose de especies hidrobiológicas incautadas, en su estado natural o procesadas, y actuando como representante legal de su propietario, ordenar a un almacén general de depósito u otro establecimiento similar el bodegaje de ellas y su inmediata subasta por intermedio de un martillero público que designe al efecto. El producto de la subasta, luego de descontarse el valor de los servicios de bodegaje, martillo y otros proporcionados, deberá depositarse en la cuenta corriente del tribunal en garantía del pago de las multas que pudieren ser aplicadas.
+Podrá el juez de la causa, tratándose de especies hidrobiológicas incautadas, procesadas, y actuando como representante legal de su propietario, ordenar a un almacén general de depósito u otro establecimiento similar el bodegaje de ellas y su inmediata subasta por intermedio de un martillero público que designe al efecto. El producto de la subasta, luego de descontarse el valor de los servicios de bodegaje, martillo y otros proporcionados, deberá depositarse en la cuenta corriente del tribunal en garantía del pago de las multas que pudieren ser aplicadas.
 
 Si por las condiciones existentes no es posible decretar el inmediato almacenamiento y subasta, podrá el juez de la causa permitir el procesamiento de las especies hidrobiológicas incautadas, reteniendo el producto elaborado.
 
@@ -4880,45 +3772,11 @@ No obstante, el juez deberá ordenar la devolución de las especies hidrobiológ
 
 Se considerará como garantía suficiente para estos efectos una boleta bancaria de garantía, emitida a la vista y pagadera en Chile, por cualquier banco o institución financiera domiciliada en Chile, por dicho valor, expedida nominativamente al juzgado que conoce de la infracción, u otra forma de garantía similar que califique el juez de la causa.
 
-Sin perjuicio de lo anterior,
+Tratándose de recursos hidrobiológicos en su estado natural incautados, que se encuentren depositados en pozos o pontones y prontos a ser procesados, el juez de la causa podrá permitir su procesamiento, reteniendo el producto elaborado.
 
-tratándose de especies
+El juez deberá ordenar la devolución de las especies hidrobiológicas procesadas objeto de la infracción, y de las artes y aparejos de pesca, equipo y traje de buceo, y medios de transporte incautados al propietario, si éste constituye una garantía suficiente por el valor de lo incautado, considerando el valor de sanción correspondiente, la que quedará para responder por el pago de los gastos operacionales que generó la incautación. El remanente de la garantía, si lo hubiere, se aplicará al pago de las multas que se impongan en el procedimiento respectivo.
 
-hidrobiológicas o sus
-
-productos derivados,
-
-sujetos a las medidas
-
-de administración pesquera
-
-de veda, extraídos de
-
-parques marinos o reservas
-
-marinas, éstas deberán
-
-destinarse sólo a
-
-instituciones de
-
-beneficencia o similares,
-
-u ordenarse su destrucción.
-
-Si se hubiere dispuesto
-
-la donación de los mismos,
-
-la Autoridad Sanitaria
-
-competente deberá evaluar
-
-las condiciones de inocuidad
-
-alimentaria o aptitud para
-
-el consumo humano.
+Tratándose de especies hidrobiológicas en su estado natural, deberán destinarse sólo a instituciones de beneficencia o similares, u ordenarse su destrucción. Si se hubiere dispuesto la donación de los mismos, la Autoridad Sanitaria competente deberá evaluar las condiciones de inocuidad alimentaria o aptitud para el consumo humano.
 
 #### Artículo 130
 
@@ -5020,9 +3878,11 @@ Lo anterior es sin perjuicio del cumplimiento de las normas sobre seguridad mar�
 
 #### Artículo 136
 
-El que introdujere o mandare introducir en el mar, ríos, lagos o cualquier otro cuerpo de agua, agentes contaminantes químicos, biológicos o físicos que causen daño a los recursos hidrobiológicos, sin que previamente hayan sido neutralizados para evitar tales daños, será sancionado con multa de 50 a 3.000 unidades tributarias mensuales. Si procediere con dolo, además de la multa, la pena a aplicar será la de presidio menor en su grado mínimo.
+El que sin autorización, o contraviniendo sus condiciones o infringiendo la normativa aplicable introdujere o mandare introducir en el mar, ríos, lagos o cualquier otro cuerpo de agua, agentes contaminantes químicos, biológicos o físicos que causen daño a los recursos hidrobiológicos, será sancionado con presidio menor en su grado medio a máximo y multa de 100 a 10.000 unidades tributarias mensuales, sin perjuicio de las sanciones administrativas correspondientes.
 
-Si el responsable ejecuta medidas destinadas a reparar el daño causado y con ello se recupera el medio ambiente, el tribunal rebajará la multa hasta en un cincuenta por ciento, sin perjuicio de las indemnizaciones que corresponda.
+El que por imprudencia o mera negligencia ejecutare las conductas descritas en el inciso anterior será sancionado con presidio menor en su grado mínimo y multa de 50 a 5.000 unidades tributarias mensuales, sin perjuicio de las sanciones administrativas correspondientes.
+
+Si el responsable ejecuta medidas destinadas a evitar o reparar los daños, el tribunal podrá rebajar la pena privativa de libertad en un grado y la multa hasta en el cincuenta por ciento, sin perjuicio de las indemnizaciones que correspondan. En el caso del inciso segundo, podrá darse lugar a la suspensión condicional del procedimiento que sea procedente conforme al artículo 237 del Código Procesal Penal, siempre que se hayan adoptado las medidas indicadas y se haya pagado la multa.
 
 #### Artículo 136 bis
 
@@ -5052,59 +3912,49 @@ El que liberare especies hidrobiológicas exóticas desde centros de cultivo al 
 
 El capitán o patrón de la nave o embarcación pesquera con que se hubiesen cometido los delitos referidos en este título, sufrirá la pena accesoria de cancelación de su matrícula o título otorgado por la Dirección General del Territorio Marítimo y Marina Mercante.
 
+#### Artículo 138 bis
+
+La destrucción, inutilización o alteración del sistema de pesaje habilitado por el Servicio, así como de la información contenida en el mismo, el acceso a ella, su uso o apoderamiento indebidos, su destrucción o alteración, serán sancionados con presidio menor en sus grados mínimo a medio.
+
 #### Artículo 139
 
-El procesamiento, el apozamiento, la elaboración, la transformación y el almacenamiento de recursos hidrobiológicos vedados, así como también el almacenamiento de productos derivados de éstos, serán sancionados con multa de 3 a 4 veces el resultado de la multiplicación del valor de sanción de la especie respectiva, vigente a la fecha de la denuncia o querella, por la cantidad de producto o recurso hidrobiológico objeto de la infracción, reducida a toneladas de peso físico de recurso, y además con la clausura del establecimiento o local en que se hubiere cometido la infracción, hasta por un plazo de 30 días.
+El procesamiento, el apozamiento, la transformación, el transporte, la comercialización y el almacenamiento de recursos hidrobiológicos vedados, y la elaboración, comercialización y el almacenamiento de productos derivados de éstos, serán sancionados con presidio menor en sus grados mínimo a medio, sin perjuicio de las sanciones administrativas correspondientes.
 
-El gerente y el administrador del establecimiento industrial serán sancionados con la pena de presidio menor en su grado mínimo, y personalmente con una multa de 3 a 150 unidades tributarias mensuales.
-
-En caso de reincidencia en las infracciones de este artículo, las sanciones pecuniarias se duplicarán.
+Para determinar la pena se tendrá en consideración el volumen de los recursos hidrobiológicos producto de la conducta penalizada.
 
 #### Artículo 139 bis
 
-El que
+El que realice actividades extractivas en áreas de manejo y explotación de recursos bentónicos, sin ser titular de los derechos a que se refiere el inciso final del artículo 55 B, será sancionado con la pena de presidio menor en su grado mínimo a máximo. En caso que hubiere capturas, se impondrá el grado superior de la pena.
 
-extrajere o capturare por cualquier
+El tribunal ordenará el comiso de los equipos de buceo, de las embarcaciones y de los vehículos utilizados en la perpetración del delito.
 
-medio recursos hidrobiológicos
+Las sanciones previstas en este artículo se impondrán sin perjuicio de las sanciones administrativas que correspondan.
 
-provenientes de un área de manejo
+#### Artículo 139 ter
 
-y de explotación de recursos
+El que procese, elabore o almacene recursos hidrobiológicos o productos derivados de ellos, respecto de los cuales no acredite su origen legal, y que correspondan a recursos en estado de colapsado o sobreexplotado, según el informe anual de la Subsecretaría a que se refiere el artículo 4 A, será sancionado con la pena de presidio menor en su grado mínimo a máximo y multa de 20 a 2.000 unidades tributarias mensuales. La misma sanción se aplicará al que, teniendo la calidad de comercializador inscrito en el registro que lleva el Servicio conforme al artículo 65, comercialice recursos hidrobiológicos que se encuentren en estado de colapsado o sobreexplotado, o productos derivados de ellos, sin acreditar su origen legal.
 
-bentónicos, sin ser titular de los
+Si quien realiza la comercialización de los recursos hidrobiológicos que se encuentran en estado de colapsado o sobreexplotado o productos derivados de ellos es un comercializador que no tenga la obligación de estar inscrito en el registro que lleva el Servicio conforme al artículo 65, la sanción será pena de presidio menor en su grado mínimo y multa de 10 a 100 unidades tributarias mensuales. Con las mismas penas se sancionará al que tenga en su poder, a cualquier título, recursos hidrobiológicos o productos derivados de ellos de que trata este artículo, conociendo o no pudiendo menos que conocer el origen ilegal de unos u otros.
 
-derechos a que se refiere el inciso
-
-final del artículo 55 B de esta ley,
-
-será sancionado con las multas y
-
-penas establecidas para el delito de
-
-hurto, de conformidad con el artículo
-
-446 del Código Penal, según el valor
-
-de los recursos extraídos y, si
-
-tuviere la calidad de pescador
-
-artesanal, se suspenderá la
-
-inscripción artesanal por dos años.
-
-El tribunal ordenará el comiso
-
-de los equipos de buceo y de las
-
-embarcaciones utilizadas en la
-
-perpetración del delito.
+En todos los casos de que trata este artículo procederá el comiso de los recursos y de los productos derivados de éstos que hayan sido objeto del delito, y las sanciones administrativas que correspondan.
 
 #### Artículo 140
 
 En el caso de reincidencia en las infracciones a que se refiere el artículo 119 de la presente ley, las personas que resulten responsables serán sancionadas con la pena de presidio menor en su grado mínimo y las sanciones pecuniarias se duplicarán.
+
+#### Artículo 140 bis
+
+Se entenderá por pesca de subsistencia la actividad extractiva que se realiza sin artes de pesca o aparejos de pesca masivos y sin embarcaciones, o con embarcaciones de apoyo sin propulsión de hasta siete metros de eslora, cuyo resultado sea la cantidad necesaria para satisfacer el consumo de la persona que la realiza y el de su familia.
+
+También se considerará pesca de subsistencia la realizada por los pueblos originarios, en los mismos términos definidos en este artículo.
+
+La pesca de subsistencia se exceptuará de las medidas de administración de esta ley en los casos en que el acto administrativo respectivo así lo disponga y no estará sometida a la obligación de inscripción en el registro pesquero artesanal. En ningún caso podrá efectuarse pesca de subsistencia en áreas de manejo que estén asignadas a una organización de pescadores artesanales, por personas ajenas a dicha organización, sancionándose en tal caso la infracción de conformidad con el artículo 139 bis.
+
+No se sancionará a quien realice pesca de subsistencia. De igual manera no se sancionará cuando el remanente de la pesca de subsistencia no consumido por quien la realiza ni por su familia, sea comercializado por el primero, directamente al público o al comercializador que sea locatario de una feria libre, en la cantidad y condiciones que fije el reglamento.
+
+En ningún caso las plantas de procesamiento, elaboradores ni comercializadores, salvo los indicados en el inciso anterior, podrán adquirir pesca de subsistencia o abastecerse de ella.
+
+En la fiscalización del cumplimiento de esta ley deberá tenerse especialmente en cuenta al riesgo para la sustentabilidad de los recursos naturales.
 
 ## Título XI
 
@@ -5364,7 +4214,7 @@ b) Uno en la zona correspondiente a las Regiones III de Atacama y IV de Coquimbo
 
 c) Uno en la zona correspondiente a las Regiones V de Valparaíso, VI del Libertador Bernardo O'Higgins y VII del Maule e Islas Oceánicas, con sede en la comuna de Constitución.
 
-d) Uno en la zona correspondiente a la Región VIII del Biobío, con sede en la comuna de Talcahuano.
+d) Uno en la zona correspondiente a las Regiones XVI de Ñuble y VIII del Biobío, con sede en la comuna de Talcahuano.
 
 e) Uno en la zona correspondiente a las Regiones IX de La Araucanía y XIV de Los Ríos, con sede en la comuna de Valdivia.
 
@@ -5412,7 +4262,7 @@ En el Consejo Zonal de la III y IV Regiones, uno de ellos representará a los ar
 
 En el Consejo Zonal de la V, VI y VII Regiones e Islas Oceánicas, uno representará a los armadores industriales de la pesca pelágica; otro, a los armadores industriales de pesca demersal; otro, a los pequeños armadores industriales, y un cuarto, a los industriales de plantas procesadoras de productos pesqueros.
 
-En el Consejo Zonal de la VIII Región, uno representará a los armadores industriales de la pesca pelágica; otro a los armadores industriales de la pesca demersal; otro a los pequeños armadores industriales y, un cuarto a los industriales de plantas procesadoras de productos pesqueros.
+En el Consejo Zonal de las XVI y VIII Regiones, uno representará a los armadores industriales de la pesca pelágica; otro a los armadores industriales de la pesca demersal; otro a los pequeños armadores industriales y, un cuarto a los industriales de plantas procesadoras de productos pesqueros.
 
 En el Consejo Zonal de la IX y XIV Regiones, uno representará a los armadores industriales de la pesca pelágica; otro a los armadores industriales de la pesca demersal; otro a los pequeños armadores industriales; otro a los industriales de plantas procesadoras de productos pesqueros, y otro a los acuicultores.
 
