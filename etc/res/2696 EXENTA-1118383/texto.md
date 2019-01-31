@@ -32,8 +32,6 @@ Previamente las entidades desarrolladoras deberán ingresar los datos del proyec
 
 La cantidad de cupos de subsidio que se dispondrá para este llamado, es la que se señala a continuación:
 
-.
-
 3° Los proyectos habitacionales presentados, deberán cumplir como mínimo con las condiciones señaladas en el DS Nº 19 referido y considerar además lo siguiente:
 
 3.1. Oferta de viviendas del tramo intermedio:

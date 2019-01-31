@@ -30,8 +30,6 @@ Resolución:
 
 Y modifícase la resolución exenta Nº 2.696, de este Ministerio, de 2018, y su modificación, en el sentido de sustituir la tabla inserta en el resuelvo 2., por la siguiente, y conforme a ella, fíjase un nuevo número de cupos de subsidios por región para los proyectos seleccionados:
 
-.
-
 2. Apruébanse 124 proyectos seleccionados en el Llamado a Concurso para Proyectos de Integración Social y Territorial, dispuesto por el resuelvo 1. de la resolución exenta Nº 2.696 (V. y U.), de 2018, y su modificación, y recházanse 116 proyectos, presentados por las Entidades Desarrolladoras individualizadas en las nóminas que se acompañan. Una de las nóminas contendrá los proyectos rechazados por no cumplir con los mínimos esperados y otra, los proyectos rechazados por no alcanzar el puntaje mínimo establecido en el inciso tercero del artículo 12º del DS Nº 19 (V. y U.), de 2016; dichas nóminas forman parte integrante de la presente resolución.
 
 3. Dispóngase una lista de espera con los 53 proyectos que resultaron bajo la línea de corte regional, cuya vigencia será de 180 días, a partir de la total tramitación de la presente resolución, posterior a los cuales, los proyectos que se encuentren en dicha situación, serán eliminados del concurso definitivamente.
@@ -62,7 +60,7 @@ Si con posterioridad al proceso de apelaciones quedasen cupos disponibles, estos
 
 9. Si producto de la tramitación municipal del proyecto o de un error involuntario en la información ingresada al sistema informático Rukan, hubiere que efectuar ajustes que impliquen una reducción o aumento en la cantidad de viviendas que no superen el 10% del total aprobado, no se requerirá modificar la presente resolución y solo será necesaria la modificación del convenio correspondiente.
 
-10. Los montos asignados mediante la presente resolución, ascendentes a 9.997.098.- Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2018, del Programa de Integración Social y Territorial y del Sistema integrado de Subsidio Habitacional.
+10. Los montos asignados mediante la presente resolución, ascendentes a 11.431.446.- Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2018, del Programa de Integración Social y Territorial y del Sistema integrado de Subsidio Habitacional.
 
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
