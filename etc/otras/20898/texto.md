@@ -12,313 +12,213 @@ Regularización de Viviendas
 
 #### Artículo 1º
 
-Los propietarios de viviendas que no cuenten con recepción definitiva, total o parcial, emplazadas en áreas urbanas o rurales, podrán, dentro del plazo de siete años contado desde la publicación de esta ley, obtener los permisos de edificación y de recepción definitiva, siempre que las viviendas cumplan, además, los siguientes requisitos:
+Los propietarios de viviendas que no cuenten con recepción definitiva, total o parcial, emplazadas en áreas urbanas o rurales, podrán, dentro del plazo de seis años contado desde la publicación de esta ley, obtener los permisos de edificación y de recepción definitiva, siempre que las viviendas cumplan, además, los siguientes requisitos:
 
-1) Haber sido construidas antes
+1) Haber sido construidas antes de la publicación de
 
-de la publicación de esta ley.
+esta ley.
 
-2) No estar emplazadas en áreas
+2) No estar emplazadas en áreas de riesgo o
 
-de riesgo o protección, en
+protección, en terrenos declarados de utilidad
 
-terrenos declarados de utilidad
+pública o en bienes nacionales de uso público.
 
-pública o en bienes nacionales
+Tratándose de áreas urbanas, deberán estar
 
-de uso público. Tratándose de
+emplazadas en suelo que admita el uso residencial.
 
-áreas urbanas, deberán estar
+3) Tener un avalúo fiscal de hasta 1.000 unidades de
 
-emplazadas en suelo que
+fomento. El avalúo se acreditará con el
 
-admita el uso residencial.
+certificado otorgado por el Servicio de Impuestos
 
-3) Tener un avalúo fiscal de
+Internos.
 
-hasta 1.000 unidades de fomento.
+4) Tener una superficie cuyos recintos habitables,
 
-El avalúo se acreditará con el
+incluidos baños y cocina, no exceda de 90 metros
 
-certificado otorgado por el
+cuadrados.
 
-Servicio de Impuestos Internos.
+5) No tener, a la fecha de ingreso de la solicitud de
 
-4) Tener una superficie cuyos
+regularización, reclamaciones escritas pendientes
 
-recintos habitables, incluidos
+por incumplimiento de normas urbanísticas ante la
 
-baños y cocina, no exceda de
+dirección de obras municipales o el juzgado de
 
-90 metros cuadrados.
+policía local respectivo.
 
-5) No tener, a la fecha de
+6) Cumplir con las normas que se indican a
 
-ingreso de la solicitud de
+continuación, para garantizar la habitabilidad,
 
-regularización, reclamaciones
+seguridad y estabilidad de las viviendas, y con
 
-escritas pendientes por
+aquellas aplicables a las instalaciones interiores
 
-incumplimiento de normas
-
-urbanísticas ante la dirección
-
-de obras municipales o el
-
-juzgado de policía local
-
-respectivo.
-
-6) Cumplir con las normas que
-
-se indican a continuación,
-
-para garantizar la habitabilidad,
-
-seguridad y estabilidad de
-
-las viviendas, y con aquellas
-
-aplicables a las instalaciones
-
-interiores de electricidad,
-
-agua potable, alcantarillado y
+de electricidad, agua potable, alcantarillado y
 
 gas, que correspondan:
 
 MATERIA NORMAS DE HABITABILIDAD
 
-Altura La altura mínima de piso
+Altura La altura mínima de piso a cielo, medida en
 
-a cielo, medida en obra
+obra terminada, que debe ser de 2,30 metros,
 
-terminada, que debe ser
+podrá ser rebajada hasta 2,0 metros. La
 
-de 2,30 metros, podrá ser
+medida vertical mínima de obra terminada en
 
-rebajada hasta 2,0 metros.
+pasadas peatonales bajo vigas o instalaciones
 
-La medida vertical mínima
+horizontales de 2,0 metros podrá ser rebajada
 
-de obra terminada en pasadas
+hasta en un 10%.
 
-peatonales bajo vigas o
+Terminación El estándar de terminaciones no podrá ser
 
-instalaciones horizontales
+Interior inferior al definido en la Ordenanza General
 
-de 2,0 metros podrá ser
-
-rebajada hasta en un 10%.
-
-Terminación El estándar de terminaciones
-
-Interior no podrá ser inferior al
-
-definido en la Ordenanza
-
-General de Urbanismo y
-
-Construcciones para una obra
+de Urbanismo y Construcciones para una obra
 
 gruesa habitable.
 
-Ventilación Los locales habitables deberán
+Ventilación Los locales habitables deberán tener, al
 
-tener, al menos, una ventana
-
-que permita la entrada de
+menos, una ventana que permita la entrada de
 
 aire y luz del exterior.
 
-Sin embargo, se admitirán
+Sin embargo, se admitirán ventanas fijas
 
-ventanas fijas selladas siempre
+selladas siempre que se contemplen ductos de
 
-que se contemplen ductos de
+ventilación adecuados y que no se trate de
 
-ventilación adecuados y que
+dormitorios o recintos en los que se consulten
 
-no se trate de dormitorios
+artefactos de combustión de cualquier tipo.
 
-o recintos en los que se
+No obstante lo anterior, los baños, cocinas y
 
-consulten artefactos de
+lavaderos, cuando no contemplen ventana al
 
-combustión de cualquier tipo.
+exterior que permita la renovación de aire,
 
-No obstante lo anterior, los
+deberán ventilarse mediante un ducto,
 
-baños, cocinas y lavaderos,
+individual o colectivo, de sección libre no
 
-cuando no contemplen ventana
+interrumpida de, al menos, 0,16 m2;. La
 
-al exterior que permita la
+dimensión señalada podrá reducirse en caso
 
-renovación de aire, deberán
-
-ventilarse mediante un ducto,
-
-individual o colectivo, de
-
-sección libre no interrumpida
-
-de, al menos, 0,16 m2;. La
-
-dimensión señalada podrá
-
-reducirse en caso de
-
-contemplarse tiraje forzado.
+de contemplarse tiraje forzado.
 
 MATERIA NORMAS DE SEGURIDAD CONTRA INCENDIOS
 
-Resistencia Las viviendas aisladas,
+Resistencia Las viviendas aisladas, pareadas o continuas,
 
-al Fuego pareadas o continuas, de
+al Fuego de hasta dos pisos, cuya superficie edificada
 
-hasta dos pisos, cuya
+sea inferior o igual a 90 m2, tendrán una
 
-superficie edificada sea
+resistencia al fuego a lo menos F-15 en todos
 
-inferior o igual a 90 m2,
+sus elementos y componentes soportantes,
 
-tendrán una resistencia
+siempre que el muro de adosamiento o muro
 
-al fuego a lo menos F-15
+divisorio, según corresponda, cumpla con las
 
-en todos sus elementos y
+exigencias de muros divisorios entre unidades
 
-componentes soportantes,
+de la Ordenanza General de Urbanismo y
 
-siempre que el muro de
+Construcciones.
 
-adosamiento o muro
+Adosamientos Tratándose de edificaciones adosadas al
 
-divisorio, según corresponda,
+deslinde, el muro de adosamiento deberá
 
-cumpla con las exigencias
+llegar hasta la cubierta del cuerpo adosado
 
-de muros divisorios entre
+con resistencia al fuego F-60. Además, el
 
-unidades de la Ordenanza
+adosamiento deberá contemplar un sistema de
 
-General de Urbanismo
+evacuación de aguas lluvia que no afecte a
 
-y Construcciones.
-
-Adosamientos Tratándose de edificaciones
-
-adosadas al deslinde, el muro
-
-de adosamiento deberá llegar
-
-hastala cubierta del cuerpo
-
-adosado con resistencia al
-
-fuego F-60. Además, el
-
-adosamiento deberá contemplar
-
-un sistema de evacuación de
-
-aguas lluvia que no afecte
-
-a los predios vecinos.
+los predios vecinos.
 
 MATERIA NORMAS DE ESTABILIDAD
 
-Cálculo No se exigirá proyecto de
+Cálculo No se exigirá proyecto de cálculo
 
-Estructural cálculo estructural en los
+Estructural estructural en los casos que a
 
-casos que a continuación
+continuación se indica:
 
-se indica:
+a) Viviendas de estructura de madera, de un
 
-a) Viviendas de estructura de
+máximo de dos pisos, con entramados de
 
-madera, de un máximo de dos
+pisos de madera, cuyas habitaciones no
 
-pisos, con entramados de
-
-pisos de madera, cuyas
-
-habitaciones no tengan más
-
-de 3,0 metros de distancia
+tengan más de 3,0 metros de distancia
 
 entre apoyos.
 
-b) Viviendas de estructura de
+b) Viviendas de estructura de albañilería
 
-albañilería armada o
+armada o reforzada, o de hormigón armado,
 
-reforzada, o de hormigón
+de un máximo de un piso, cuyas
 
-armado, de un máximo de un
-
-piso, cuyas habitaciones no
-
-tengan más de 3,0 metros
+habitaciones no tengan más de 3,0 metros
 
 de distancia entre apoyos.
 
-c) Viviendas de estructura en
+c) Viviendas de estructura en primer piso
 
-primer piso de albañilería
+de albañilería armada o reforzada, o de
 
-armada o reforzada, o de
+hormigón armado, de un máximo de dos
 
-hormigón armado, de un
+pisos con entramados de pisos de madera,
 
-máximo de dos pisos con
+cuyas habitaciones no tengan más de
 
-entramados de pisos de
+3,0 metros de distancia entre apoyos,
 
-madera, cuyas habitaciones
-
-no tengan más de 3,0
-
-metros de distancia entre
-
-apoyos, siempre que la
-
-estructura del segundo
+siempre que la estructura del segundo
 
 piso sea liviana.
 
-En estos casos el profesional
+En estos casos el profesional competente
 
-competente deberá declarar
+deberá declarar que la obra reúne las
 
-que la obra reúne las
+condiciones de estabilidad, respecto del
 
-condiciones de estabilidad,
+tipo de construcción de que se trate, o que
 
-respecto del tipo de
+cumple con las condiciones mínimas de los
 
-construcción de que se trate,
+elementos de construcción no sometidos a
 
-o que cumple con las
+cálculo de estabilidad, exigidas en el
 
-condiciones mínimas de los
+Capítulo 6 del Título 5 de la Ordenanza
 
-elementos de construcción
+General de Urbanismo y Construcciones, que
 
-no sometidos a cálculo de
-
-estabilidad, exigidas en
-
-el Capítulo 6 del Título 5
-
-de la Ordenanza General de
-
-Urbanismo y Construcciones,
-
-que les sean aplicables.
+les sean aplicables.
 
 #### Artículo 2º
 
@@ -371,8 +271,6 @@ Las regularizaciones que se efectúen de conformidad al presente artículo pagar
 ## Título II
 
 Regularización de edificaciones destinadas a Microempresas Inofensivas o Equipamiento Social
-
-> **Nota.** El artículo 2º de la Ley 21.415, publicada el 04.02.2022, dispone renovar la vigencia de las disposiciones del presente Título II por el tiempo que reste hasta completar el plazo de siete años desde la publicación de esta ley.
 
 #### Artículo 4º
 
