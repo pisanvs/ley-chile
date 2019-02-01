@@ -56,17 +56,25 @@ Decreto:
 
 ELEMENTOS DE LA ESENCIA DE LA CONCESIÓN
 
-- Tipo de servicio : Radiodifusión Sonora en Frecuencia
+- Tipo de servicio : Radiodifusión Sonora en
+
+Frecuencia
 
 Modulada.
 
-- Zona de servicio : Localidad de Pichilemu, VI Región.
+- Zona de servicio : Localidad de Pichilemu,
 
-Superficie delimitada por una
+VI Región.
 
-intensidad de campo mayor o igual
+Superficie delimitada por
 
-que 54 dB (µV/m), referida al punto
+una intensidad de campo
+
+mayor o igual
+
+que 54 dB (µV/m), referida
+
+al punto
 
 de emisión de la señal.
 
@@ -100,7 +108,9 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Altura del centro de radiación : 28,59 m.
 
-- Pérdidas en cables, conectores y otros : 3,44 dB.
+- Pérdidas en cables, conectores
+
+y otros : 3,44 dB.
 
 - Diagrama de radiación horizontal de acuerdo a la siguiente tabla:
 
@@ -108,17 +118,21 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 UBICACIÓN DE LAS INSTALACIONES
 
-- Ubicación del Estudio Alternativo : Manuel Montt N° 198, comuna de
+- Ubicación del Estudio
+
+Alternativo : Manuel Montt N° 198, comuna de
 
 Curicó, VII Región.
 
-- Coordenadas Geográficas : 34º 58' 40" Latitud Sur.
+- Coordenadas Geográficas : 34º 58' 42" Latitud Sur.
 
-71º 14' 00" Longitud Oeste.
+71º 14' 08" Longitud Oeste.
 
 Datum PSAD56.
 
-- Ubicación del Estudio Principal, Planta : Cerro Potrero Ánimas s/n,
+- Ubicación del Estudio
+
+Principal, Planta : Cerro Potrero Ánimas s/n,
 
 Transmisora y Sistema Radiante comuna de Pichilemu, VI Región.
 
