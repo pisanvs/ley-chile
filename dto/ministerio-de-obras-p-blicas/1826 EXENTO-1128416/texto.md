@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1826 de 31 de diciembre de 2018, se modificó el numeral segundo del Decreto MOP (Exento) N° 1185 de 25 de noviembre de 2014, que ordenó la expropiación del Lote N° 27, en la parte que se refiere al rol de avalúo, según certificado de avalúo emitido por el Servicio de Impuestos Internos, quedando como a continuación se indica: LOTE 27, MORRISON ALARCON KAREM Y OTRAS, superficie 24,01 m2., rol de avalúo 476-19, Comuna de TOME. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
