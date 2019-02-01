@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6.832, de fecha 27 de diciembre de 2018, se ordenó la expropiación parcial, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 1 correspondiente al inmueble ubicado en Guanaqueros 3359 V Sur, Rol de Avalúo N° 8081-4, de la comuna de Pedro Aguirre Cerda, Región Metropolitana, de aparente dominio de Dir Deportes y Recreación, con una superficie aproximada de 2079,36 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Puch Cooperativa Ñuke Mapu". La Comisión de Peritos integrada por los señores Marcelo Valenzuela Pérez, Ingeniero Agrónomo; Nicolás Romero Morales, Ingeniero de Ejecución y Paz O'Ryan Cavagnaro, Arquitecto, mediante informe de fecha 26 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $422.988.748, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
