@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 5.968 de fecha 26 de noviembre de 2018, se ordenó la expropiación, conforme a las normas del decreto ley N° 2.186, de 1978, del denominarlo lote N° 9019-24, correspondiente al inmueble ubicado en Est. La Obra 3162 DP 34 B Volcán San José 2, Rol de Avalúo N° 9019-24, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Servicio de Vivienda y Urbanización, con una superficie aproximada de 46,07 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Habilitación de Terrenos Población Volcán San José II". La Comisión de Peritos integrada por los señores Armando Pinochet Landeros, Constructor Civil; Patricia Morales Rivera, Constructor Civil y Sonia Gallegos Blanch, Arquitecto, mediante Informe de fecha, fijó la indemnización provisional por causa de la referida expropiación en la suma de $18.888.700.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Director Serviu Metropolitano.
