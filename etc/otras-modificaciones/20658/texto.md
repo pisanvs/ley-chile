@@ -22,9 +22,9 @@ Tratándose de contribuyentes que al momento de acogerse a este beneficio no tuv
 
 Para estos efectos, los ingresos de cada mes se expresarán en unidades de fomento, según el valor de ésta en el mes respectivo, y se descontará el impuesto al valor agregado correspondiente a las ventas y servicios de cada período.
 
-Para determinar el monto de los ingresos y establecer el porcentaje de recuperación a que se tiene derecho, el contribuyente deberá sumar a sus ingresos los ingresos obtenidos por sus relacionados, sea que realicen o no la misma actividad. La determinación de los relacionados y de los ingresos que se sumarán se realizará conforme a lo establecido en los párrafos 3° al 6° del número 3 del artículo 34 de la Ley sobre Impuesto a la Renta, en su redacción vigente al 31 de diciembre de 2019.
+Para determinar el monto de los ingresos y establecer el porcentaje de recuperación a que se tiene derecho, el contribuyente deberá sumar a sus ingresos los ingresos obtenidos por sus relacionados, sea que realicen o no la misma actividad. La determinación de los relacionados y de los ingresos que se sumarán se realizará conforme a lo establecido en los párrafos 3° al 6° del número 3 del artículo 34 de la Ley sobre Impuesto a la Renta.
 
-Lo dispuesto en este artículo se aplicará al impuesto específico que se encuentre recargado en las facturas emitidas durante el período a que se refiere el inciso primero por las empresas distribuidoras o expendedoras del combustible.
+Lo dispuesto en este artículo se aplicará al impuesto específico que se encuentre recargado en las facturas emitidas durante el período a que se refiere el inciso primero por las empresas distribuidoras o expendedoras del combustible.".
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
