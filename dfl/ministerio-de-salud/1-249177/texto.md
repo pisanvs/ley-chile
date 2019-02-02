@@ -2206,7 +2206,7 @@ Las personas carentes de recursos o indigentes, tendrán derecho a recibir gratu
 
 #### Artículo 148
 
-Los trabajadores afiliados independientes, para tener derecho a las prestaciones médicas que proporciona el Régimen y a la atención en la modalidad de "libre elección", requerirán de un mínimo de seis meses de cotizaciones en los últimos doce meses anteriores a la fecha en que impetren el beneficio, continuas o discontinuas.
+Los trabajadores afiliados independientes a que se refiere el artículo 89 del decreto ley N° 3.500, de 1980, tendrán derecho a las prestaciones médicas que proporciona el Régimen y a la atención en la modalidad de "libre elección", a partir del día 1 de julio del año en que pagaron las cotizaciones mediante la declaración anual de impuesto a la renta respectiva y hasta el día 30 de junio del año siguiente a dicho pago. Los trabajadores independientes que no hayan pagado sus cotizaciones mediante la citada declaración requerirán un mínimo de seis meses de cotizaciones en los últimos doce meses anteriores a la fecha en que impetren el beneficio, continuas o discontinuas.
 
 ### Párrafo 2°
 
@@ -2226,6 +2226,8 @@ Tratándose de los trabajadores independientes a que se refiere el artículo 135
 
 4.- Estar al día en el pago de las cotizaciones. Se considerará al día al trabajador que hubiere pagado la cotización correspondiente al mes anterior a aquél en que se produzca la incapacidad.
 
+En el caso de los trabajadores independientes a que se refiere el artículo 89 del decreto ley N° 3.500, de 1980, se entenderán cumplidos los requisitos señalados en los numerales 2, 3 y 4 del inciso precedente, a partir del día 1 de julio del año en que se pagaron las cotizaciones y hasta el día 30 de junio del año siguiente a dicho pago.
+
 #### Artículo 150
 
 Las trabajadoras tendrán derecho al descanso de maternidad y demás beneficios previstos en el Libro II, Título II del Código del Trabajo, y al subsidio de maternidad, cuyo otorgamiento se regirá por las normas del Decreto con Fuerza de Ley N° 44, de 1978, del Ministerio del Trabajo y Previsión Social y de la Ley N° 18.418.
@@ -2238,9 +2240,7 @@ El trabajador requerirá el pago del subsidio por incapacidad laboral en el resp
 
 Si la licencia se otorga en virtud de una enfermedad que ocasiona una pérdida parcial de la capacidad laboral y por ende dispone un reposo parcial, el subsidio y la remuneración se calcularán en proporción al tiempo de reposo, debiendo el empleador pagar lo que corresponda al período de la jornada efectivamente trabajada.
 
-Tratándose de trabajadores independientes, el subsidio total o parcial se calculará en base al promedio de la renta mensual imponible, del subsidio, o de ambos, por los que hubieren cotizado en los últimos seis meses anteriores al mes en que se inicia la incapacidad laboral. En todo caso, el monto diario de los subsidios del inciso primero del artículo 195 y del inciso segundo del artículo 196, ambos del Código del Trabajo, y del artículo 2° de la ley N°18.867, no podrá exceder del equivalente a las rentas imponibles deducidas las cotizaciones para salud, los subsidios o ambos, por los cuales se hubiera cotizado en los tres meses anteriores al octavo mes calendario anterior al del inicio de la licencia, dividido por noventa, aumentado en el 100% de la variación experimentada por el Indice de Precios al Consumidor en el período comprendido por los ocho meses anteriores al mes precedente al del inicio de la licencia, e incrementado en un 10%. Los aludidos tres meses deberán estar comprendidos dentro de los seis meses inmediatamente anteriores al octavo mes calendario que precede al mes de inicio de la licencia.
-
-Si dentro de dicho período sólo se registraren uno o dos meses con rentas y/o subsidios, para determinar el límite del subsidio diario se dividirá por 30 ó 60 respectivamente.
+Tratándose de trabajadores independientes, el subsidio total o parcial se calculará en base al promedio de la renta mensual imponible, del subsidio, o de ambos, por los que hubieren cotizado en los últimos seis meses anteriores al mes en que se inicia la incapacidad laboral. Para el cálculo de los subsidios de los trabajadores independientes del artículo 89 del decreto ley N° 3.500, de 1980, generados por licencias otorgadas durante el período a que se refiere el inciso final del artículo 149, se deberá considerar además la renta imponible anual establecida en el inciso primero del artículo 90 del decreto ley N° 3.500, de 1980, dividida por doce. En todo caso, el monto diario de los subsidios del inciso primero del artículo 195 y del inciso segundo del artículo 196, ambos del Código del Trabajo, y del artículo 2° de la ley N°18.867, no podrá exceder del equivalente a las rentas imponibles deducidas las cotizaciones previsionales, los subsidios o ambos, por los cuales se hubiera cotizado en los tres meses anteriores al octavo mes calendario anterior al del inicio de la licencia, dividido por noventa, aumentado en el 100% de la variación experimentada por el Indice de Precios al Consumidor en el período comprendido por los ocho meses anteriores al mes precedente al del inicio de la licencia, e incrementado en un 10%. Los aludidos tres meses deberán estar comprendidos dentro de los seis meses inmediatamente anteriores al octavo mes calendario que precede al mes de inicio de la licencia. Si dentro de dicho período sólo se registraren uno o dos meses con rentas y/o subsidios, para determinar el límite del subsidio diario se dividirá por 30 ó 60 respectivamente.
 
 Con todo, tratándose de trabajadores independientes afiliados al Nuevo Sistema de Pensiones del Decreto Ley N° 3.500, de 1980, en el cálculo de los subsidios no podrán considerarse rentas mensuales que tengan una diferencia entre sí, superior al 25%. En el evento de existir esa diferencia o diferencias superiores se considerará en el mes o meses de que se trate, la renta efectiva limitada al 125% de la renta mensual menor del período respectivo.
 
@@ -2385,6 +2385,8 @@ No se considerarán ingresos para los efectos de esta Ley, aquéllos señalados 
 En el caso que ambos cónyuges sean afiliados, sus hijos y demás cargas de familia se considerarán pertenecientes al grupo que corresponda al cónyuge cuyo ingreso mensual sea más elevado, aunque el otro cónyuge perciba las respectivas asignaciones familiares.
 
 Corresponderá al Fondo Nacional de Salud determinar el ingreso mensual del beneficiario, para lo cual podrá exigir una declaración jurada de los beneficiarios, como asimismo, requerir de los empleadores, entidades de previsión y cualquier organismo de la Administración del Estado, las informaciones que estime pertinentes con ese objeto.
+
+En el caso de los trabajadores independientes a que se refiere el artículo 89 del decreto ley N° 3.500, de 1980, la renta mensual corresponderá al 80% del conjunto de las rentas brutas anuales gravadas por el artículo 42, N° 2º, de la Ley sobre Impuesto a la Renta divididas por doce. En el caso de los trabajadores independientes a que se refiere el inciso tercero del artículo 90 del referido decreto ley, la renta mensual corresponderá a aquella declarada ante la respectiva institución de salud previsional o del Fondo Nacional de Salud, según sea su afiliación.
 
 Si los ingresos del beneficiario experimentaren una variación que permitiera clasificarlo en un grupo diferente, deberá comunicar tal circunstancia al Fondo Nacional de Salud y éste lo reclasificará.
 
@@ -2980,7 +2982,7 @@ Sin perjuicio de lo anterior, las modificaciones de los beneficios contractuales
 
 Si el afiliado estimare que los planes ofrecidos no reúnen las condiciones de equivalencia indicadas en el inciso tercero, podrá recurrir ante la Superintendencia, la que resolverá en los términos señalados en el artículo 117 de esta Ley. Cuando el cotizante desahucie el contrato y transcurrido el plazo de antelación que corresponde, la terminación surtirá plenos efectos a contar del primer día del mes subsiguiente a la fecha de expiración de dicho plazo.
 
-Los beneficios contemplados para un mes estarán financiados por la cotización devengada en el mes inmediatamente anterior cualquiera sea la época en que la Institución perciba efectivamente la cotización.
+Los beneficios contemplados para un mes estarán financiados por la cotización devengada en el mes inmediatamente anterior cualquiera sea la época en que la Institución perciba efectivamente la cotización. En el caso de los trabajadores independientes del artículo 89 del decreto ley N° 3.500, de 1980, los beneficios contemplados para el período comprendido entre el día 1 de julio del año en que se pagaron las cotizaciones y el día 30 de junio del año siguiente a dicho pago estarán financiados por las cotizaciones a que se refiere el inciso primero del artículo 90 del decreto ley N° 3.500, de 1980, las que se pagarán anualmente de acuerdo a lo dispuesto en el artículo 92 F del citado decreto ley.
 
 En el evento que al día del término del contrato por desahucio el cotizante esté en situación de incapacidad laboral, el contrato se extenderá de pleno derecho hasta el último día del mes en que finalice la incapacidad y mientras no se declare la invalidez del cotizante.
 

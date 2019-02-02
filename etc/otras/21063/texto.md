@@ -36,9 +36,7 @@ La afiliación de un trabajador al Seguro se entenderá efectuada por el solo mi
 
 #### Artículo 3°
 
-Beneficiarios del Seguro. Son beneficiarios del Seguro, el padre y la madre trabajadores señalados en el artículo precedente, de un niño o niña mayor de un año y menor de cinco, quince o dieciocho años de edad, según corresponda, afectado o afectada por una condición grave de salud. También serán beneficiarios del Seguro el trabajador o la trabajadora que tenga a su cargo el cuidado personal de dicho niño o niña, otorgado por resolución judicial.
-
-Para efectos de la presente ley se entenderá por padre o madre a quienes define el inciso primero del artículo 34 del Código Civil.
+Beneficiarios del Seguro. Son beneficiarios del Seguro, el padre y la madre trabajadores señalados en el artículo precedente, de un niño o niña mayor de un año y menor de quince o dieciocho años de edad, según corresponda, afectado o afectada por una condición grave de salud. También serán beneficiarios del Seguro el trabajador o la trabajadora que tenga a su cargo el cuidado personal de dicho niño o niña, otorgado por resolución judicial.
 
 #### Artículo 4°
 
@@ -80,17 +78,13 @@ c) Fase o estado terminal de la vida.
 
 d) Accidente grave con riesgo de muerte o de secuela funcional grave y permanente.
 
-e) Enfermedad grave que requiera hospitalización en una unidad de cuidados intensivos o de tratamientos intermedios.
-
 En los casos de las letras a),
 
 - **b)** y
 
 - **c)** serán causantes del beneficio los niños y niñas mayores de un año y menores de dieciocho años de edad. En el caso de la letra
 
-- **d)** serán causantes del beneficio los niños y niñas mayores de un año y menores de quince años de edad. En el caso de la letra
-
-- **e)** serán causantes del beneficio los niños y niñas mayores de un año y menores de cinco años de edad.
+- **d)** serán causantes del beneficio los niños y niñas mayores de un año y menores de quince años de edad.
 
 #### Artículo 8°
 
@@ -142,17 +136,9 @@ b) Documento o certificado que acredite que el niño o niña se encuentra hospit
 
 c) Licencia médica extendida por el médico tratante.
 
-#### Artículo 11 bis
-
-Condiciones de acceso en caso de enfermedad grave. Las condiciones de acceso y acreditación en caso de enfermedad grave son las siguientes:
-
-a) Documento o certificado que acredite que el niño o niña se encuentra hospitalizado en una unidad de cuidados intensivos o de tratamientos intermedios o que, tras ello, está sujeto a un proceso de rehabilitación o a tratamientos en el domicilio.
-
-b) Licencia médica extendida por el médico tratante.
-
 #### Artículo 12
 
-Reglamentos de ejecución. Uno o más reglamentos conjuntos de los Ministerios de Salud y del Trabajo y Previsión Social, suscritos además por el Ministro o Ministra de Hacienda, fijarán las normas para la adecuada aplicación y acreditación de lo dispuesto en los artículos 8°, 9°, 10, 11 y 11 bis incluidas las normas relativas a la emisión de las licencias médicas y los demás antecedentes documentales.
+Reglamentos de ejecución. Uno o más reglamentos conjuntos de los Ministerios de Salud y del Trabajo y Previsión Social, suscritos además por el Ministro o Ministra de Hacienda, fijarán las normas para la adecuada aplicación y acreditación de lo dispuesto en los artículos 8°, 9°, 10 y 11, incluidas las normas relativas a la emisión de las licencias médicas y los demás antecedentes documentales.
 
 ## Título Segundo
 
@@ -166,7 +152,7 @@ De la licencia médica y el permiso
 
 Licencia médica. La licencia médica será otorgada al trabajador o trabajadora por el médico tratante del niño o niña y en ella deberá certificarse la ocurrencia de alguna de las condiciones graves de salud señaladas en el artículo 7°.
 
-La licencia médica se otorgará por períodos de hasta treinta días, salvo lo dispuesto en el inciso sexto del artículo siguiente, pudiendo ser prorrogada por períodos iguales, sea en forma continua o discontinua. Con todo, la suma de los días correspondientes a cada licencia no podrá exceder de los plazos máximos establecidos en el artículo siguiente. Tratándose de la contingencia establecida en la letra e) del artículo 7°, la licencia se otorgará por hasta quince días.
+La licencia médica se otorgará por períodos de hasta quince días, salvo lo dispuesto en el inciso sexto del artículo siguiente, pudiendo ser prorrogada por períodos iguales, sea en forma continua o discontinua. Con todo, la suma de los días correspondientes a cada licencia no podrá exceder de los plazos máximos establecidos en el artículo siguiente.
 
 En el caso de la contingencia señalada en la letra d) del artículo 7°, la licencia médica sólo podrá otorgarse a partir del día décimo primero de ocurrido el accidente.
 
@@ -174,41 +160,27 @@ El uso, extensión y control de las licencias médicas se regirá por el o los r
 
 #### Artículo 14
 
-Duración del permiso. El permiso para cada trabajador o trabajadora en caso de cáncer tendrá una duración de hasta ciento ochenta días, por cada hijo o hija afectado por esa condición grave de salud, dentro de un período de doce meses, contados desde el inicio de la primera licencia médica. El permiso podrá ser usado por dos períodos continuos respecto del mismo diagnóstico. En dicho caso, el permiso durante el segundo período no podrá superar los noventa días.
+Duración del permiso. El permiso para cada trabajador o trabajadora en caso de cáncer tendrá una duración de hasta noventa días, por cada hijo o hija afectado por esa condición grave de salud, dentro de un período de doce meses, contados desde el inicio de la primera licencia médica. El permiso podrá ser usado por hasta dos períodos continuos respecto del mismo diagnóstico.
 
-El permiso para cada trabajador o trabajadora en caso de trasplante de órgano sólido y de progenitores hematopoyéticos tendrá una duración de hasta ciento ochenta días, por cada hijo o hija afectado por esa condición grave de salud, respecto del mismo diagnóstico, contados desde el inicio de la primera licencia médica.
+El permiso para cada trabajador o trabajadora en caso de trasplante de órgano sólido y de progenitores hematopoyéticos tendrá una duración de hasta noventa días, por cada hijo o hija afectado por esa condición grave de salud, respecto del mismo diagnóstico, contados desde el inicio de la primera licencia médica.
 
 El permiso para cada trabajador o trabajadora en los casos de fase o estado terminal de la vida durará hasta producido el deceso del hijo o hija.
 
 El permiso para cada trabajador o trabajadora por accidente grave tendrá una duración máxima de hasta cuarenta y cinco días, en relación al evento que lo generó, por cada hijo o hija afectado por esa condición grave de salud, contados desde el inicio de la primera licencia médica.
 
-El permiso para cada trabajador o trabajadora por enfermedad grave tendrá una duración máxima de hasta quince días, en relación al evento que lo generó, por cada hijo o hija afectado por esa condición grave de salud, contados desde el inicio de la primera licencia médica otorgada en cumplimiento a las condiciones de acceso dispuestas en el artículo 11 bis.
-
 Si el padre y la madre son trabajadores con derecho al Seguro podrán hacer uso del permiso conjunta o separadamente, según ellos lo determinen.
 
-Los permisos establecidos en este artículo podrán usarse por media jornada en aquellos casos en que el médico tratante prescriba que la atención, el acompañamiento o el cuidado personal del hijo o hija pueda efectuarse bajo esta modalidad. Para efectos del cálculo de la duración del permiso se entenderá que las licencias médicas otorgadas por media jornada equivalen a medio día. Las licencias médicas por media jornada en los casos de cáncer, trasplante de órgano sólido y fase o estado terminal de la vida podrán tener una duración de hasta sesenta días cada una de ellas.
+Los permisos establecidos en este artículo podrán usarse por media jornada en aquellos casos en que el médico tratante prescriba que la atención, el acompañamiento o el cuidado personal del hijo o hija pueda efectuarse bajo esta modalidad. Para efectos del cálculo de la duración del permiso se entenderá que las licencias médicas otorgadas por media jornada equivalen a medio día. Las licencias médicas por media jornada en los casos de cáncer, trasplante de órgano sólido y fase o estado terminal de la vida podrán tener una duración de hasta treinta días cada una de ellas.
 
-Si la autoridad declara estado de excepción constitucional de catástrofe, en caso de calamidad pública, o una alerta sanitaria con ocasión de una epidemia o pandemia a causa de una enfermedad contagiosa, incluidas sus prórrogas, la Superintendencia de Seguridad Social, mediante una resolución exenta, podrá aumentar hasta en noventa días la duración del permiso, respecto de las contingencias establecidas en las letras a), b), c) y d) del artículo 7°. Para dicho efecto, la Superintendencia deberá considerar las directrices emanadas de la respectiva autoridad sanitaria y la disponibilidad de recursos del Fondo creado por los artículos 23 y siguientes, y validar que éstos resultan suficientes para cubrir el aumento de días determinado sin comprometer su sustentabilidad, de conformidad con lo establecido en el artículo 40.
-
-Al término de cada aumento realizado mediante resolución exenta por la Superintendencia de Seguridad Social en los casos descritos en el inciso anterior, se realizará un estudio de sustentabilidad del Fondo, conforme a lo dispuesto en el artículo 41, que contemple los montos utilizados, estadísticas de uso de las licencias por las personas beneficiarias y los impactos económicos de la medida. Si esta obligación coincide con la establecida en el artículo 41, deberán analizarse específicamente los impactos de aumentar la duración del permiso en el respectivo estudio actuarial.
-
-Las personas beneficiarias del permiso otorgado con motivo de las contingencias establecidas en las letras a), b),
-
-- **c)** y
-
-- **d)** del artículo 7°, cuando éste se destine al acompañamiento del niño o niña en tratamiento activo, lo que deberá certificarse por el respectivo médico tratante, gozarán de fuero laboral durante el permiso y ciento ochenta días después de expirada la última licencia médica emitida para dicho tratamiento, aplicándose lo dispuesto en el artículo 174 del Código del Trabajo. Con todo, una vez concluido el tratamiento activo, respecto de las licencias médicas otorgadas como consecuencia de controles de seguimiento del niño o niña y por la contingencia establecida en la letra
-
-- **e)** del artículo 7°, se aplicará lo dispuesto en el inciso tercero del artículo 161 del Código del Trabajo. En el caso de los trabajadores contratados por obra o faena determinada o bien por un plazo fijo, el fuero terminará de pleno derecho concluida la obra o faena para la que fue contratado o bien una vez concluido el plazo del contrato, respectivamente.
-
-Una norma de carácter general emitida por la Superintendencia de Seguridad Social, previa consulta de la Subsecretaría de Salud Pública, establecerá la forma de emisión y las condiciones que deben reunir las licencias para hacer efectiva la distinción referida en el inciso anterior.
+Durante el goce del permiso que regula esta ley se aplicará lo dispuesto en el inciso tercero del artículo 161 del Código del Trabajo.
 
 #### Artículo 15
 
-Reglas especiales para el uso del permiso. Cuando ambos padres sean trabajadores con derecho a las prestaciones del Seguro, cualquiera de ellos podrá traspasar al otro la totalidad del permiso que le corresponde, respecto de los casos establecidos en las letras a),
+Reglas especiales para el uso del permiso. Cuando ambos padres sean trabajadores con derecho a las prestaciones del Seguro, cualquiera de ellos podrá traspasar al otro la totalidad del permiso que le corresponde, respecto de los casos establecidos en las letras
 
-- **b)** y
+- **a)** y
 
-- **e)** del artículo 7°. Para los casos señalados en la letra
+- **b)** del artículo 7°. Para los casos señalados en la letra
 
 - **d)** del artículo 7°, sólo se podrá traspasar hasta dos tercios del período total del permiso.
 
@@ -218,13 +190,7 @@ La decisión de traspaso del permiso deberá ser comunicada a la o al empleador 
 
 Cuando opere el traspaso del permiso, el subsidio a que dé lugar se calculará sobre la base de las remuneraciones, rentas o subsidios que correspondan al padre o madre que haga uso efectivo del permiso de conformidad a las normas dispuestas en los artículos 16 y siguientes de esta ley.
 
-En caso de fallecimiento de uno de los progenitores, quien sobreviva tendrá derecho a usar la totalidad de los días de permiso que le hubiera correspondido al difunto. Asimismo, una persona progenitora podrá hacer uso de los días de permiso que le hubiera correspondido a la otra persona progenitora, si esta última se encuentra ausente. Para efectos de esta ley se entenderá por ausencia cuando el niño o niña carece del cuidado y protección por parte de uno de sus progenitores como consecuencia del abandono del hogar, o no se encuentra determinada la filiación respecto de una persona progenitora.
-
-Los progenitores condenados por delitos de violencia intrafamiliar conforme a lo dispuesto en la ley N° 20.066, y cuando la víctima tenga la calidad de cónyuge o una relación de convivencia respecto del autor o autora; o la conducta afecte al padre o madre de un hijo o hija en común o directamente a estos últimos, o una persona sujeta a su cuidado personal, se entenderán ausentes por el solo ministerio de la ley y no podrán hacer uso de los días de permiso, los que, en su caso, podrán ser usados por el otro progenitor o tercero habilitado para el ejercicio de este derecho.
-
-Para efectos de determinar y certificar las condiciones antes indicadas, definir los presupuestos contemplados en el inciso quinto y regular la procedencia del traspaso del permiso, el Ministerio del Trabajo y Previsión Social, a través de un decreto, suscrito también por el Ministerio de Hacienda, impartirá las instrucciones que regulen el ejercicio de estos derechos.
-
-Solo el tercero, distinto al padre o la madre, que por resolución judicial tenga el cuidado personal del niño o niña, tendrá derecho a usar los días que conforme a la ley le corresponden. Además, si tiene el cuidado personal exclusivo tendrá derecho a los días que hubieran correspondido a uno de los progenitores que, cumpliendo con los requisitos habilitantes, fallece o se encuentra ausente.
+Cuando el cuidado personal del niño o niña lo tenga un tercero distinto del padre o la madre, otorgado por resolución judicial, sólo éste podrá hacer uso del permiso, en los mismos términos que habría correspondido al padre o madre.
 
 Párrafo segundo
 
@@ -232,7 +198,7 @@ Del subsidio
 
 #### Artículo 16
 
-Subsidio. El trabajador o trabajadora que haga uso del permiso establecido en el artículo 14 tendrá derecho al pago de un subsidio con cargo al Seguro por todo el período de duración del permiso, si cumple con los requisitos de afiliación y cotización regulados en esta ley. Para los efectos del devengo y pago del subsidio, no será aplicable lo dispuesto en el artículo 14 del decreto con fuerza de ley N° 44, de 1978, del Ministerio del Trabajo y Previsión Social.
+Subsidio. El trabajador o trabajadora que haga uso del permiso establecido en el artículo 14 tendrá derecho al pago de un subsidio con cargo al Seguro por todo el período de duración del permiso, si cumple con los requisitos de afiliación y cotización regulados en esta ley.
 
 El monto diario del subsidio de los trabajadores dependientes se calculará sobre la base del promedio de las remuneraciones netas y de los subsidios por incapacidad de origen común, laboral o maternal, o bien de este Seguro, percibidos en los últimos tres meses calendarios anteriores más próximos al inicio del permiso.
 
@@ -274,13 +240,13 @@ En todo lo no regulado expresamente en este Párrafo se aplicará supletoriament
 
 #### Artículo 21
 
-Proceso de calificación. La calificación médica corresponderá a la Comisión de Medicina Preventiva e Invalidez respectiva o al Departamento de Coordinación Nacional de las Comisiones de Medicina Preventiva e Invalidez, dependiente de la Subsecretaría de Salud Pública, de acuerdo a las instrucciones que imparta esta última.
+Proceso de calificación. La calificación médica corresponderá a la Comisión de Medicina Preventiva e Invalidez. Será competente para conocer de la calificación de la licencia médica la Comisión de Medicina Preventiva e Invalidez del lugar donde presta sus servicios el trabajador o la trabajadora o la del domicilio del trabajador o trabajadora independiente, en su caso.
 
-La Comisión de Medicina Preventiva e Invalidez o el Departamento de Coordinación Nacional de las Comisiones de Medicina Preventiva e Invalidez, en su caso, consultarán los requisitos de elegibilidad establecidos en los artículos 5° y 6° y el número de días autorizados al trabajador o trabajadora con cargo a este Seguro, de acuerdo al procedimiento y a los mecanismos de verificación que establezca la Superintendencia de Seguridad Social. Para tal efecto, la Superintendencia de Seguridad Social deberá contar con un sistema electrónico de consulta en línea.
+La Comisión de Medicina Preventiva e Invalidez consultará los requisitos de elegibilidad establecidos en los artículos 5° y 6° y el número de días autorizados al trabajador o trabajadora con cargo a este Seguro, de acuerdo al procedimiento y a los mecanismos de verificación que establezca la Superintendencia de Seguridad Social. Para tal efecto, la Superintendencia de Seguridad Social deberá contar con un sistema electrónico de consulta en línea.
 
-Para efectos de la calificación, se dispondrá del plazo de siete días hábiles para revisar la licencia médica y los demás antecedentes y para pronunciarse sobre la procedencia del permiso. Este plazo será prorrogable por siete días hábiles más. De no ser observada dentro de estos plazos, la licencia médica se entenderá aprobada.
+La Comisión de Medicina Preventiva e Invalidez dispondrá de un plazo de siete días hábiles para revisar la licencia médica y los demás antecedentes y pronunciarse sobre la procedencia del permiso. Este plazo será prorrogable por siete días hábiles más. De no ser observada dentro de estos plazos, la licencia médica se entenderá aprobada.
 
-La autorización o rechazo de la licencia médica será comunicada al trabajador o a la trabajadora y al empleador en forma electrónica. Las licencias médicas autorizadas deberán comunicarse también a la entidad pagadora y a la Superintendencia de Seguridad Social, en forma electrónica.
+La autorización o rechazo de la licencia médica será comunicada por la Comisión de Medicina Preventiva e Invalidez al trabajador o a la trabajadora y al empleador en forma electrónica. Las licencias médicas autorizadas deberán comunicarse también a la entidad pagadora y a la Superintendencia de Seguridad Social, en forma electrónica.
 
 #### Artículo 22
 
@@ -370,43 +336,81 @@ Cobro de cotizaciones. Corresponderá a la entidad recaudadora respectiva perseg
 
 A las cotizaciones del Seguro le serán aplicables las normas de la ley N° 17.322 y gozarán de los mismos privilegios y garantías que las otras cotizaciones previsionales.
 
-En relación a la aplicación de las multas en que incurran los empleadores conforme lo establece el artículo 22 a) de la ley N° 17.322, las sumas que se obtengan por dicho concepto se distribuirán en partes iguales entre el seguro de la ley N° 16.744 y el seguro de esta ley.
-
 Párrafo tercero
 
 De la administración financiera del Fondo
 
 #### Artículo 31
 
-Entero de los recursos al Fondo. Los ingresos recibidos serán depositados mensualmente en una cuenta única que será llevada por las Mutualidades de Empleadores y el Instituto de Seguridad Laboral dentro de los cinco días siguientes al vencimiento del plazo legal en que las entidades recaudadoras reciben las cotizaciones correspondientes, término que se prorrogará hasta el primer día hábil siguiente si dicho plazo expira en día sábado, domingo o festivo.
+Entero de los recursos al Fondo. Los ingresos recibidos por las entidades recaudadoras del Seguro serán depositados mensualmente en una cuenta única que será llevada por la entidad administradora del Fondo, dentro de los cinco días siguientes al vencimiento del plazo legal en que las entidades recaudadoras reciben las cotizaciones correspondientes, término que se prorrogará hasta el primer día hábil siguiente si dicho plazo expirare en día sábado, domingo o festivo.
 
 #### Artículo 32
 
-Administración financiera del Fondo. La administración financiera del Fondo estará a cargo de las Mutualidades de Empleadores y del Instituto de Seguridad Laboral, las que tendrán a su cargo la administración del Fondo, la inversión de sus recursos y los giros que se dispongan de conformidad con esta ley.
+Administración financiera del Fondo. La administración financiera del Fondo estará a cargo de una persona jurídica de derecho privado, constituida en la República de Chile, en adelante "la entidad administradora", que tendrá por objeto exclusivo la administración del Fondo, la inversión de sus recursos y los giros que se dispongan de conformidad con esta ley.
 
-Los gastos de administración del Fondo en que incurran las Mutualidades de Empleadores y el Instituto de Seguridad Laboral no podrán exceder, en cada año calendario, los montos a los que hace referencia el reglamento establecido en el artículo 39.
+La entidad administradora será determinada mediante licitación pública.
+
+El Ministro de Hacienda determinará si la administración financiera del fondo se realizará conforme a los incisos anteriores o por el Servicio de Tesorerías, en virtud de lo que disponga mediante decreto dictado bajo la fórmula "Por Orden del Presidente de la República". En caso que la administración financiera corresponda al Servicio de Tesorerías, la inversión de los recursos financieros se realizará de acuerdo a lo señalado en el artículo 12 de la ley N° 20.128. El Servicio de Tesorerías sólo realizará la administración financiera del fondo.
+
+Los gastos de administración del Fondo, en que incurra el Servicio de Tesorerías, serán descontados de los recursos del mismo y no podrán, en cada año calendario, exceder a los montos a los que hace referencia el Reglamento establecido en el artículo 39 del mismo cuerpo legal. El decreto señalado en el inciso tercero, establecerá las normas para la realización de los descuentos antes indicados, como también aquellas necesarias para la administración que realice el Servicio de Tesorerías.
 
 #### Artículo 33
 
-Derogado.
+Licitación y adjudicación del Fondo. La licitación y la adjudicación del servicio se regirán por las normas establecidas en la presente ley y las respectivas bases de licitación, las que serán aprobadas por resolución de la Superintendencia de Seguridad Social, previa aprobación del Ministerio de Hacienda.
+
+Las bases de licitación de la administración financiera del Fondo deberán contemplar, a lo menos, los requisitos de postulación; las garantías que deberán otorgar los oferentes; los criterios de idoneidad de las entidades postulantes; los criterios de adjudicación; la forma de determinación de la retribución por la administración del Fondo; las condiciones bajo las cuales la licitación se declararía desierta, las obligaciones que le corresponderán a la entidad que resulte adjudicada y la duración del contrato de administración, que en ningún caso podrá ser inferior a tres años ni superior a diez años.
+
+Podrán postular a esta licitación las personas jurídicas, nacionales o extranjeras, que cumplan con lo establecido en las bases de licitación.
+
+La Superintendencia de Seguridad Social efectuará un proceso de precalificación de los postulantes a la licitación con el fin de asegurar su idoneidad técnica, económica y financiera.
+
+Si no hubiere interesados en la licitación o ésta fuere declarada desierta deberá llamarse, dentro de los treinta días siguientes, a una nueva licitación pública. Dicho plazo se contará desde la fecha de la resolución que declara desierta la licitación. En este caso, la Superintendencia de Seguridad Social deberá resolver la administración transitoria del Fondo.
+
+La licitación se adjudicará evaluando las ofertas técnicamente aceptables atendiendo, a lo menos, a factores tales como el costo de administración y la calificación técnica para la prestación del servicio. La definición de estos factores y su forma de aplicación para adjudicar la prestación del servicio serán establecidas en las respectivas bases de licitación.
+
+La adjudicación será realizada a través de una resolución dictada por la Superintendencia de Seguridad Social con aprobación previa del Ministerio de Hacienda. Esta resolución será publicada en el Diario Oficial.
 
 #### Artículo 34
 
+Contrato de administración. La entidad adjudicataria estará obligada a constituir, en el plazo de sesenta días contado desde la publicación en el Diario Oficial de la resolución mencionada en el artículo anterior y con los requisitos que las bases de licitación establezcan, una sociedad comercial de nacionalidad chilena o agencia de la empresa extranjera constituida en Chile, con quien se celebrará el contrato de administración y su objeto exclusivo será el mencionado en el artículo 32.
+
+La entidad administradora será de duración indefinida y subsistirá hasta el cumplimiento del plazo de vigencia del contrato de administración respectivo.
+
+El contrato de administración será suscrito por la Superintendencia de Seguridad Social y aprobado por resolución de la misma Superintendencia. Se entenderán incorporadas al contrato las bases de licitación.
+
 Existirá separación patrimonial entre los recursos propios de la entidad administradora y los del Fondo. La entidad administradora no tendrá dominio sobre el patrimonio que constituye el Fondo y tampoco podrá darlo en garantía. Los bienes y derechos que componen el patrimonio del Fondo serán inembargables.
 
-La entidad administradora deberá asegurar la continuidad de la prestación del servicio en condiciones de absoluta normalidad y en forma ininterrumpida. El incumplimiento de esta obligación constituirá infracción grave de las obligaciones de la entidad administradora.
+Durante la vigencia del contrato, la entidad administradora deberá asegurar la continuidad de la prestación del servicio en condiciones de absoluta normalidad y en forma ininterrumpida. El incumplimiento de esta obligación constituirá infracción grave de las obligaciones de la entidad administradora.
 
-La entidad administradora podrá celebrar contratos de prestación de servicios con entidades externas, según lo que establezca una norma de carácter general de la Superintendencia de Seguridad Social.
+La entidad administradora podrá celebrar contratos de prestación de servicios con entidades externas, según lo que al respecto establezcan las bases de licitación y el contrato de administración del Fondo.
 
-La entidad administradora deberá presentar a la Superintendencia de Seguridad Social, a lo menos semestralmente, un informe que contendrá, respecto del período respectivo, los ingresos obtenidos, las cotizaciones enteradas, los egresos, la cartera de inversiones, la rentabilidad y los demás antecedentes que se establezcan en la norma de carácter general señalada anteriormente.
+La entidad administradora deberá presentar a la Superintendencia de Seguridad Social, a lo menos semestralmente, un informe que contendrá, respecto del período respectivo, los ingresos obtenidos, las cotizaciones enteradas, los egresos, la cartera de inversiones, la rentabilidad y los demás antecedentes que se establezcan en las bases de licitación.
 
 #### Artículo 35
 
-Derogado.
+Término del contrato de administración. El contrato de administración termina por las siguientes causales:
+
+a) Cumplimiento del plazo del contrato.
+
+b) Acuerdo entre la Superintendencia de Seguridad Social y la entidad que se adjudique la licitación.
+
+c) Infracción grave de las obligaciones que impone el contrato por parte de la entidad administradora.
+
+d) Insolvencia de la entidad administradora.
+
+e) Las que se estipulen en las bases de licitación.
+
+Para dar término al contrato de administración y proceder a su liquidación se requerirá previamente contar con la aprobación de la cuenta de liquidación por parte de la Superintendencia de Seguridad Social. Igual procedimiento se seguirá cuando se ponga término a la sociedad por haberse cumplido su objetivo.
+
+En caso de término anticipado del contrato, la Superintendencia de Seguridad Social deberá adoptar las providencias necesarias para dar continuidad operativa a la prestación de los servicios, debiendo convocar a una nueva licitación en el plazo máximo de sesenta días desde ocurrido el evento que dio origen al término del contrato.
 
 #### Artículo 36
 
-Derogado.
+Infracciones graves. La declaración de infracción grave de las obligaciones que impone el contrato por parte de la entidad administradora o de insolvencia de ésta corresponderá a la Superintendencia de Seguridad Social, a través de un procedimiento racional y justo, y deberá estar fundada en alguna de las causales establecidas en esta ley, en las bases de licitación o en el contrato de administración del Fondo.
+
+La Superintendencia de Seguridad Social deberá llamar a licitación pública en el plazo de sesenta días contado desde la declaración de la infracción grave o la insolvencia, con el objeto de seleccionar a la nueva entidad que se adjudicará la licitación.
+
+Producida alguna de las situaciones mencionadas en el inciso primero cesará la prestación del servicio de la entidad administradora. En este caso, la Superintendencia de Seguridad Social deberá adoptar todas las medidas necesarias para la continuidad operativa del servicio.
 
 #### Artículo 37
 
@@ -418,9 +422,17 @@ Las inversiones que se efectúen con recursos del Fondo tendrán como único obj
 
 #### Artículo 38
 
-Reglas de operación del Fondo. La contabilidad y la programación de los ingresos y egresos del Fondo se sujetarán a las reglas que al efecto establezca la Superintendencia de Seguridad Social mediante una norma de carácter general.
+Reglas de operación del Fondo. La contabilidad y la programación de los ingresos y egresos del Fondo se sujetarán a las siguientes reglas:
 
-Las Mutualidades de Empleadores y el Instituto de Seguridad Laboral, al cierre de cada mes, informarán a la Superintendencia de Seguridad Social los ingresos totales del Fondo, incluidas la información de las cotizaciones recibidas y los pagos efectuados. La información consolidada del Fondo será de carácter público y se difundirá a través del sitio web de las mencionadas entidades. Esta información también se publicará en el sitio web de la Superintendencia de Seguridad Social, cuando se encuentre aprobada por ella.
+a) Mensualmente cada una de las entidades recaudadoras, junto con el entero de los recursos, enviará a la entidad administradora del Fondo, la información detallada sobre los ingresos percibidos por concepto de este Seguro.
+
+b) Las entidades pagadoras informarán mensualmente a la entidad administradora del Fondo, los requerimientos estimados de recursos para los pagos que deberán efectuar por concepto de subsidios. Las entidades pagadoras que no remitan oportunamente los presupuestos y programas de egresos deberán solventar el pago de los subsidios con recursos propios, sin perjuicio de los ajustes que se realicen en los períodos posteriores. La entidad administradora del Fondo transferirá a las entidades pagadoras en forma anticipada los recursos solicitados para el pago de los subsidios.
+
+c) La Superintendencia de Seguridad Social determinará mediante una norma de carácter general las modalidades y procedimientos que se seguirán para la entrega de información por parte de las entidades recaudadoras y pagadoras, y la forma en que la entidad administradora del Fondo efectuará las transferencias de los recursos a las entidades pagadoras.
+
+d) Las entidades pagadoras deberán rendir mensualmente a la entidad administradora los recursos recibidos para el pago de los subsidios, de conformidad con las normas que fije la Superintendencia de Seguridad Social para estos efectos.
+
+e) La entidad administradora del Fondo, al cierre de cada mes, informará a la Superintendencia de Seguridad Social los ingresos totales del Fondo, incluidas la información de las cotizaciones recibidas y los pagos efectuados. La información consolidada del Fondo será de carácter público y se difundirá a través del sitio web de la entidad administradora. Esta información también se publicará en el sitio web de la Superintendencia de Seguridad Social, cuando se encuentre aprobada por ella.
 
 #### Artículo 39
 
@@ -429,8 +441,6 @@ Gastos de administración. Los gastos de administración de las instituciones y 
 Un reglamento del Ministerio del Trabajo y Previsión Social, suscrito por el Ministro o Ministra de Hacienda, establecerá los factores y los mecanismos para determinar la asignación de los gastos de administración del Seguro.
 
 Por resolución anual de la Superintendencia de Seguridad Social, visada por la Dirección de Presupuestos, se establecerán los montos asignados para los gastos de administración entre las instituciones y entidades participantes de la gestión, administración y fiscalización del Seguro.
-
-La administración y fiscalización del uso de los recursos a que se refiere este artículo, en que incurran las instituciones y entidades que participan en la gestión del Seguro, corresponderá a la Superintendencia de Seguridad Social, materias que serán reguladas por ésta a través de una norma de carácter general.
 
 #### Artículo 40
 
@@ -474,7 +484,7 @@ Sanciones por otorgamiento de certificaciones médicas sin fundamento. En caso q
 
 #### Artículo 46
 
-Sanciones por conflicto de interés y uso de información privilegiada. Se aplicarán las penas de presidio menor en su grado medio a presidio mayor en su grado mínimo, a los directores, gerentes, apoderados, liquidadores, operadores de mesa de dinero y trabajadores de la entidades administradoras del Fondo, que en razón de su cargo y posición y valiéndose de información privilegiada de aquella que trata el Título XXI de la ley N° 18.045:
+Sanciones por conflicto de interés y uso de información privilegiada. Se aplicarán las penas de presidio menor en su grado medio a presidio mayor en su grado mínimo, a los directores, gerentes, apoderados, liquidadores, operadores de mesa de dinero y trabajadores de la entidad administradora del Fondo, que en razón de su cargo y posición y valiéndose de información privilegiada de aquella que trata el Título XXI de la ley N° 18.045:
 
 a) Ejecuten un acto, por sí o por intermedio de otras personas, con el objeto de obtener un beneficio pecuniario para sí o para otros, mediante cualquier operación o transacción de valores de oferta pública.
 
@@ -528,11 +538,13 @@ A partir del 1 de diciembre de 2020, tendrá cobertura de este Seguro la conting
 
 #### Artículo tercero
 
-Derogado.
+Los artículos 31 y 37, ambos contenidos en el artículo primero de la presente ley, entrarán en vigencia dentro de los noventa días siguientes a la constitución de la entidad administradora del Fondo señalada en el Párrafo tercero del Título Tercero, también contemplado en el artículo primero de esta ley.
+
+En tanto se constituya e inicie sus operaciones la entidad administradora del Fondo, las funciones que señala el artículo 38 contenido en el artículo primero de la presente ley serán cumplidas por las entidades recaudadoras bajo las instrucciones que para este efecto les imparta la Superintendencia de Seguridad Social. Asimismo, respecto de las materias señaladas en los ya citados artículos 31 y 37 regirán las normas establecidas en el artículo 5 de la ley N° 21.010 y las instrucciones impartidas por la Superintendencia de Seguridad Social.
 
 #### Artículo cuarto
 
-Derogado.
+La primera licitación para la adjudicación del servicio de la entidad administradora del Fondo será convocada por la Superintendencia de Seguridad Social dentro de los seis meses siguientes a la entrada en vigencia de la presente ley.
 
 #### Artículo quinto
 
@@ -556,7 +568,7 @@ La regla contenida en el artículo 40, establecido en el artículo primero de la
 
 #### Artículo noveno
 
-El primer estudio actuarial señalado en el artículo 41, establecido en el artículo primero de la presente ley, deberá ser publicado dentro de los treinta y seis meses siguientes a la entrada en vigencia de esta ley.
+El primer estudio actuarial señalado en el artículo 41, establecido en el artículo primero de la presente ley, deberá ser publicado dentro de los veinticuatro meses siguientes a la entrada en vigencia de esta ley.
 
 #### Artículo décimo
 
