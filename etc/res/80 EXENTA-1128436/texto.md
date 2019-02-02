@@ -1,0 +1,3 @@
+RESOLUCIÓN Nº 80 EXENTA, DE FECHA 21.01.2019, QUE "APRUEBA PLAN ANUAL DE FISCALIZACIÓN 2019"
+
+Con fecha 21 de enero de 2019, la Superintendencia de Educación dictó resolución exenta Nº 80, que "Aprueba Plan Anual de Fiscalización 2019", la cual contiene instrucciones de planificación de las actividades de fiscalización para el año 2019 a los sostenedores de establecimientos educacionales reconocidos oficialmente y del nivel de educación parvularia que no cuentan con reconocimiento oficial o autorización de funcionamiento. La resolución referida comenzará a regir desde su publicación en extracto en el Diario Oficial y estará disponible íntegramente en la página web institucional www.supereduc.cl.
