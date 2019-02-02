@@ -26,7 +26,7 @@ b) Que la modificación de concesión solicitada no se encuentra entre aquellas 
 
 Decreto:
 
-1. Modifícase, la concesión de radiodifusión sonora en Frecuencia Modulada, para la localidad de Valparaíso, V Regi�n, señal distintiva XQB-41, otorgada mediante decreto supremo mencionado en la letra g) de los Vistos, cuyo titular es Sociedad Publieventos Limitada, RUT N° 77.134.420-8, con domicilio en Condell N° 731, comuna de San Felipe, V Región, en los términos que a continuación se indican.
+1. Modifícase, la concesión de radiodifusión sonora en Frecuencia Modulada, para la localidad de Valparaíso, V Región, señal distintiva XQB-41, otorgada mediante decreto supremo mencionado en la letra g) de los Vistos, cuyo titular es Sociedad Publieventos Limitada, RUT N° 77.134.420-8, con domicilio en Condell N° 731, comuna de San Felipe, V Región, en los términos que a continuación se indican.
 
 2. Apruébese la solicitud de modificación presentada por la concesionaria, junto con los antecedentes técnicos que le sirven de fundamento. La documentación respectiva quedará archivada en la Subsecretaría.
 
@@ -46,7 +46,7 @@ Datum WGS 84.
 
 Radioenlace Estudio-Planta:
 
-- Frecuencia : 352,8 MHz.
+- Frecuencia : 351,6 MHz.
 
 - Potencia : 10 Watts.
 
