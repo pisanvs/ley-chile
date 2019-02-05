@@ -1,0 +1,5 @@
+DESIGNA ADMINISTRADORES TITULAR Y SUPLENTE DEL CONVENIO DE COLABORACIÓN DE 1 DE ABRIL DE 2010 Y DEL CONTRATO DE COMODATO DE 03.01.2011, SUSCRITOS ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL INSTITUTO DE SEGURIDAD LABORAL RESPECTO DEL LOCAL DE PROPIEDAD DEL IPS UBICADO CALLE PRAT Nº 2, DE LA CIUDAD DE ANGOL, DE LA COMUNA TEMUCO, REGIÓN DE LA ARAUCANÍA
+
+Por resolución exenta I Nº 17, de 28 de diciembre de 2018, el Jefe del Departamento de Administración e Inmobiliaria designó Administradores Titular y Suplente para el Convenio de Colaboración de 1 de abril de 2010 y Contrato de Comodato suscrito el 3 de enero de 2011, entre el Instituto de Previsión Social y el Instituto de Seguridad Laboral, sobre el inmueble institucional ubicado en calle Prat Nº 2, de la comuna y ciudad de Angol, Región de la Araucanía.
+
+Santiago, 24 de enero de 2019.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
