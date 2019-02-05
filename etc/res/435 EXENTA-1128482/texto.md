@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL Nº 0504-0001-0100085076, DEL BANCO BILBAO VIZCAYA ARGENTARIA (CHILE), OFICINA PRINCIPAL, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL DEL INSTITUTO DE PREVISIÓN SOCIAL PROVIDENCIA, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta Nº 435, de 19 de noviembre de 2018, el Director Nacional del Instituto de Previsión Social delega la facultad de girar cheques, retirar talonarios, cartolas, cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, en funcionarios del Centro de Atención Previsional Integral IPS Providencia la facultad para operar la cuenta corriente "Giradora Local Nº 0504-0001-0100085076", abierta en la oficina principal del Banco Bilbao Vizcaya Argentaria (Chile), destinada al pago de beneficios previsionales y gastos de la Institución originados en el mencionado Centro de Atención.
+
+Santiago, 24 de enero de 2019.- Patricio Coronado Rojo, Director Nacional.
