@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "POLÍTICA DE PRIVACIDAD DE LA INFORMACIÓN Y DATOS PERSONALES CÓDIGO: POL-09"
+
+Por resolución exenta Nº 457, de 10 de diciembre de 2018, el Director Nacional del Instituto de Previsión Social, aprueba para el Instituto de Previsión Social el documento denominado "Política de Privacidad de la Información y Datos Personales Código: POL-09", cuyo objetivo es establecer directrices en el tratamiento de datos personales de los usuarios que, mediante los mecanismos establecidos, se registren o accedan como tales a los sitios web del Servicio, así como acercar a los ciudadanos a sus derechos en cuanto titulares de datos personales, además de incentivar y promover el buen uso de los recursos tecnológicos disponibles del Instituto de Previsión Social.
+
+Santiago, 24 de enero de 2019.- Patricio Coronado Rojo, Director Nacional.
