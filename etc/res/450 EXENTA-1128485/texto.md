@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO MODIFICACIÓN DE LA ESTRUCTURA ORGÁNICA INSTITUCIONAL"
+
+Por resolución exenta Nº 450, de 3 de diciembre de 2018, el Director Nacional del Instituto de Previsión Social aprueba para el Instituto de Previsión Social el documento denominado "Procedimiento Modificación de la Estructura Orgánica Institucional", cuyo objetivo es establecer las coordinaciones institucionales, revisiones, implementación y difusiones que deben realizarse, en el evento de que alguna Jefatura del Instituto de Previsión Social (IPS) requiera de parte del Director Nacional, la modificación de la estructura orgánica vigente de su respectiva área de dependencia.
+
+Santiago, 24 de enero de 2019.- Patricio Coronado Rojo, Director Nacional.
