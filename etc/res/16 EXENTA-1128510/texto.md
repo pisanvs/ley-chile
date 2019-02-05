@@ -1,0 +1,5 @@
+DESIGNA ADMINISTRADORES TITULAR Y SUPLENTE DEL CONVENIO DE COLABORACIÓN Y CONTRATO DE COMODATO, AMBOS SUSCRITOS EL 04.08.2009, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA ILUSTRE MUNICIPALIDAD DE LAUTARO RESPECTO DEL INMUEBLE DE PROPIEDAD DEL IPS UBICADO CALLE MANUEL RODRÍGUEZ ESQUINA BENJAMÍN TRUHÁN, DE LA POBLACIÓN LAUTARO DE LA COMUNA Y CIUDAD DE TEMUCO, REGIÓN DE LA ARAUCANÍA
+
+Por resolución exenta I Nº 16, de 28 de diciembre de 2018, el Jefe del Departamento de Administración e Inmobiliaria designó Administradores Titular y Suplente para el Convenio de Colaboración y Contrato de Comodato suscrito el 22 de octubre de 2009, entre el Instituto de Previsión Social y la ilustre Municipalidad de Lautaro, sobre el inmueble institucional ubicado en calle Manuel Rodríguez esquina Benjamín Truhán, de la comuna y ciudad de Temuco, Región de la Araucanía.
+
+Santiago, 24 de enero de 2019.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
