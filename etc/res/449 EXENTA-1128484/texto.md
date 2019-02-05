@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO DE OPERACIÓN Y ADMINISTRACIÓN DE LA INFRAESTRUCTURA TECNOLÓGICA DEL IPS"
+
+Por resolución exenta Nº 449, de 3 de diciembre de 2018, el Director Nacional del Instituto de Previsión Social aprueba para el Instituto de Previsión Social el documento denominado "Procedimiento de Operación y Administración de la Infraestructura Tecnológica del IPS", cuyo objetivo es establecer las directrices para mantener el control y la administración de la infraestructura tecnológica del Instituto de Previsión Social, con los correspondientes escalamientos tanto del IPS como de los proveedores de servicios, para la resolución efectiva de los requerimientos e incidentes, con el propósito de soportar la operación del negocio del IPS y sus niveles de servicio.
+
+Santiago, 24 de enero de 2019.- Patricio Coronado Rojo, Director Nacional.
