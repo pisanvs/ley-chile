@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN Nº 143 EXENTA, DE 14 DE MARZO DE 2017, QUE APROBÓ CONTRATO DE COMODATO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL CENTRO CULTURAL MISEX, SUSCRITO CON FECHA 27 DE FEBRERO DE 2017, EN EL SENTIDO QUE INDICA
+
+Por resolución exenta I Nº 20, de 28 de diciembre de 2018, el Jefe del Departamento de Administración e Inmobiliaria modificó la resolución exenta Nº 143 de 14 de marzo de 2017, y designó Administrador Suplente para el Contrato de Comodato suscrito el 27 de febrero de 2017, entre el Instituto de Previsión Social y el Centro Cultural Misex, sobre el inmueble institucional ubicado en calle Los Sauces Nº 25, de la Población Mirasol, de la comuna y ciudad de Puerto Montt, Región de Los Lagos.
+
+Santiago, 24 de enero de 2019.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
