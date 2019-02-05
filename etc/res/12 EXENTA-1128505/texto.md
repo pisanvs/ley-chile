@@ -1,0 +1,5 @@
+DESIGNA ADMINISTRADORES TITULAR Y SUPLENTE DEL CONTRATO DE COMODATO SUSCRITO EL 21.09.1999, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA DIRECCIÓN DEL TRABAJO, RESPECTO DEL INMUEBLE DE PROPIEDAD DEL IPS UBICADO CALLE PEDRO MONTT Nº 859/853/869, DE LA COMUNA DE PUNTA ARENAS
+
+Por resolución exenta I Nº 12, de 27 de diciembre de 2018, el Jefe del Departamento de Administración e Inmobiliaria designó Administradores Titular y Suplente para el Contrato de Comodato suscrito el 21 de septiembre de 1999, entre el Instituto de Previsión Social y la Dirección del Trabajo, sobre el inmueble institucional ubicado en calle Pedro Montt Nº 859/853/869, de la ciudad de Punta Arenas, Región de Magallanes y la Antártica Chilena.
+
+Santiago, 24 de enero de 2019.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
