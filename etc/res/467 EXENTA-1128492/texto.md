@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO DE OPERACIÓN Y ATENCIÓN DE REQUERIMIENTOS DE TELECOMUNICACIONES IPS"
+
+Por resolución exenta Nº 467, de 11 de diciembre de 2018, el Director Nacional del Instituto de Previsión Social aprueba para el Instituto de Previsión Social el documento denominado "Procedimiento de Operación y Atención de Requerimientos de Telecomunicaciones IPS", cuyo objetivo es establecer el procedimiento para el actual servicio de telecomunicaciones, para la atención de los requerimientos de los correspondientes escalamientos tanto del IPS como del proveedor de servicios, para la resolución efectiva de tareas operacionales y de eventos o incidentes, a fin de asegurar la continuidad operacional de la Institución.
+
+Santiago, 24 de enero de 2019.- Patricio Coronado Rojo, Director Nacional.
