@@ -1,0 +1,5 @@
+APRUEBA CONTRATO DE COMODATO SUSCRITO CON FECHA 16.11.2018, ENTRE LA SUPERINTENDENCIA DE INSOLVENCIA Y REEMPRENDIMIENTO Y EL INSTITUTO DE PREVISIÓN SOCIAL, RESPECTO DE LOS INMUEBLES DE SU PROPIEDAD UBICADOS EN LAS CIUDADES DE ARICA, CONCEPCIÓN, PUERTO MONTT Y PUNTA ARENAS QUE SE DETALLAN EN SU ANEXO
+
+Por resolución exenta I Nº 10, de 26 de diciembre de 2018, el Jefe del Departamento de Administración e Inmobiliaria aprobó el Contrato de Comodato suscrito el 16 de noviembre de 2018 entre el Instituto de Previsión Social y la Superintendencia de Insolvencia y Reemprendimiento, sobre los inmuebles institucionales ubicados en las ciudades de Arica, Concepción, Puerto Montt y Punta Arenas, según se detalla.
+
+Santiago, 24 de enero de 2019.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
