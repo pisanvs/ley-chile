@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO DE COLABORACIÓN SUSCRITO CON FECHA 22 DE NOVIEMBRE DE 2018, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA DIRECCIÓN GENERAL DE MOVILIZACIÓN NACIONAL
+
+Por resolución exenta Nº 454, de 7 de diciembre de 2018, el Director Nacional del Instituto de Previsión Social aprueba para el Instituto de Previsión Social el Convenio de Colaboración suscrito con fecha 22 de noviembre de 2018, entre el Instituto de Previsión Social y la Dirección General de Movilización Nacional, cuyo objetivo es generar una alianza para coordinar acciones de cooperación mutua en el cumplimiento de sus fines institucionales, que contribuyan al mejoramiento de las condiciones de cobertura, información y prestación de servicios del Estado para sus usuarios.
+
+Santiago, 24 de enero de 2019.- Patricio Coronado Rojo, Director Nacional.
