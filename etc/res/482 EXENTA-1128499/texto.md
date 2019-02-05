@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "MANUAL GESTIÓN DE COMPRAS", QUE REGULA LOS PROCESOS DE COMPRAS Y CONTRATACIONES DE BIENES Y SERVICIOS DE LA INSTITUCIÓN Y ESTABLECE LO QUE INDICA
+
+Por resolución exenta Nº 482, de 13 de diciembre de 2018, el Director Nacional del Instituto de Previsión Social aprueba para el Instituto de Previsión Social el documento denominado "Manual Gestión de Compras", cuyo objetivo es establecer la forma en que el IPS realiza los procesos de compras y contratación para el abastecimiento de bienes y servicios requeridos para su normal funcionamiento, en conformidad a las disposiciones de la ley Nº 19.886, que establece las Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios y su Reglamento, contenidos en el DS Nº 250, de 2004, del Ministerio de Hacienda, como asimismo, a las instrucciones, políticas y cartas circulares sobre la materia, señalando la documentación, coordinación, comunicación y los responsables de cada uno de los procesos de Gestión de Adquisiciones.
+
+Santiago, 24 de enero de 2019.- Patricio Coronado Rojo, Director Nacional.
