@@ -1,0 +1,5 @@
+DESIGNA ADMINISTRADORES TITULAR Y SUPLENTE DEL CONTRATO DE COMODATO SUSCRITO EL 24.08.1987, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA DIRECCIÓN GENERAL DE CRÉDITO PRENDARIO, RESPECTO INMUEBLE INSTITUCIONAL UBICADO EN CALLE PEDRO MONTT Nº 895, DE LA CIUDAD DE PUNTA ARENAS, REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA
+
+Por resolución exenta I Nº 11, de 27 de diciembre de 2018, el Jefe del Departamento de Administración e Inmobiliaria designó Administradores Titular y Suplente para el Contrato de Comodato suscrito el 24 de agosto de 1987, entre el Instituto de Previsión Social y la Dirección General de Crédito Prendario, sobre el inmueble institucional ubicado en calle Pedro Montt Nº 895, de la ciudad de Punta Arenas, Región de Magallanes y la Antártica Chilena.
+
+Santiago, 24 de enero de 2019.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
