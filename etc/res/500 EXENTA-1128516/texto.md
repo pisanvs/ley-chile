@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO SOBRE IMPUGNACIÓN DE PLANILLAS DE COTIZACIONES PREVISIONALES"
+
+Por resolución exenta Nº 500, de 28 de diciembre de 2018, el Director Nacional del Instituto de Previsión Social aprueba para el Instituto de Previsión Social el documento denominado "Procedimiento sobre Impugnación de Planillas de Cotizaciones Previsionales", cuyo objetivo es describir y uniformar el Proceso de Impugnación de planillas de cotizaciones previsionales de trabajadores, el cual actualmente es realizado tanto por los Centros de Atención Previsional Integral como por las unidades operativas del nivel central del Instituto de Previsión Social, utilizando para esto las herramientas que dispone el sistema denominado Core Agil.
+
+Santiago, 24 de enero de 2019.- Patricio Coronado Rojo, Director Nacional.
