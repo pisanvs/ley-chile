@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO SUPERVISIÓN PAGO PRESENCIAL RED MOVIL"
+
+Por resolución exenta Nº 487, de 20 de diciembre de 2018, el Director Nacional del Instituto de Previsión Social aprueba para el Instituto de Previsión Social el documento denominado "Procedimiento Supervisión Pago Presencial Red Móvil", cuyo objetivo es establecer el procedimiento de supervisión por parte del Instituto de Previsión Social del cumplimiento del contrato de "Servicios de Atención y Pago de Beneficios de Seguridad Social, Modalidad de Pago Presencial a través de Red Móvil", suscrito el 8 de noviembre de 2017, con la Caja de Compensación de Asignación Familiar Los Héroes (CCAF Los Héroes), aprobado por resolución Nº 19, de 22 de diciembre de 2017, tomada de razón por la Contraloría General de la República con fecha 19 de enero de 2019.
+
+Santiago, 24 de enero de 2019.- Patricio Coronado Rojo, Director Nacional.
