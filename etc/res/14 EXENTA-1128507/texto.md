@@ -1,0 +1,5 @@
+DESIGNA ADMINISTRADOR TITULAR Y SUPLENTE DEL CONTRATO DE COMODATO SUSCRITO CON FECHA 07.08.2008, CON LA DIRECCIÓN DEL TRABAJO, RECAÍDO SOBRE PARTE DEL INMUEBLE UBICADO EN CALLE FREIRE Nº 80, DE LA CIUDAD DE CHILE CHICO, REGIÓN DE AYSEN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO
+
+Por resolución exenta I Nº 14, de 27 de diciembre de 2018, el Jefe del Departamento de Administración e Inmobiliaria designó Administradores Titular y Suplente para el Contrato de Comodato suscrito el 7 de agosto de 2008, entre el Instituto de Previsión Social y la Dirección del Trabajo, sobre parte del inmueble institucional ubicado en calle Freire Nº 80, de la ciudad de Chile Chico, Región de Aysén del General Carlos Ibáñez del Campo.
+
+Santiago, 24 de enero de 2019.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
