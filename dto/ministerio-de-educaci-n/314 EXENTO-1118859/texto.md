@@ -80,7 +80,7 @@ Déjase sin efecto el decreto exento N° 1.002, de 13 de septiembre de 2013, de 
 
 #### Artículo 3°
 
-Lo dispuesto en los artículos precedentes regirá a contar del 31 de diciembre de 2018, con el objeto de permitir la finalización de los procesos académicos pendientes de los alumnos del Centro.
+Lo dispuesto en los artículos precedentes regirá a contar del 31 de agosto de 2019, con el objeto de permitir la finalización de los procesos académicos pendientes de los alumnos del Centro.
 
 #### Artículo 4°
 
