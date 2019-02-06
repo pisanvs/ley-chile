@@ -16,7 +16,7 @@ Decreto con fuerza de ley:
 
 #### Artículo 1
 
-A la presente ley quedarán sujetas todas las personas que como peatones, pasajeros o conductores de cualquiera clase de vehículos, usen o transiten por los caminos, calles y demás vías públicas, rurales o urbanas, caminos vecinales o particulares destinados al uso público, de todo el territorio de la República.
+A la presente ley quedarán sujetas todas las personas que como peatones, pasajeros o conductores de cualquiera clase de vehículos, usen o transiten por los caminos, calles, ciclovías y demás vías públicas, rurales o urbanas, caminos vecinales o particulares destinados al uso público, de todo el territorio de la República.
 
 Asimismo se aplicarán estas normas, en lo que fueren compatibles, en aparcamientos y edificios de estacionamiento y demás lugares de acceso público.
 
@@ -34,101 +34,113 @@ Para todos los efectos de esta ley, las palabras o frases que se indican a conti
 
 5) Berma: Faja lateral, pavimentada o no, adyacente a la calzada de un camino;
 
-6) Calzada: Parte de una vía destinada al uso de vehículos y animales;
+6) Bicicleta: Ciclo de dos ruedas cuyos pedales transmiten el movimiento a la rueda trasera, generalmente por medio de un plato, un piñón y una cadena;
 
-7) Camino: Vía rural destinada al uso de peatones, vehículos y animales;
+7) Calzada: Parte de una vía destinada al uso de vehículos y animales;
 
-8) Ciclovía o ciclopista: Espacio destinado al uso exclusivo de bicicletas y triciclos;
+8) Camino: Vía rural destinada al uso de peatones, vehículos y animales;
 
-9) Conductor: Toda persona que conduce, maneja o tiene control físico de un vehículo motorizado en la vía pública; que controla o maneja un vehículo remolcado por otro; o que dirige, maniobra o está a cargo del manejo directo de cualquier otro vehículo, de un animal de silla, de tiro o de arreo de animales;
+9) Ciclo: Vehículo no motorizado de una o más ruedas, propulsado exclusivamente por una o más personas situadas en él, tales como bicicletas y triciclos. También se considerarán ciclos aquellos vehículos de una o más ruedas que cuenten con un motor auxiliar eléctrico, de una potencia nominal continua máxima de 0,25 kilowatts, en los que la alimentación es reducida o interrumpida cuando el vehículo alcanza una velocidad máxima de 25 kilómetros por hora o antes si el ciclista termina de pedalear o propulsarlo, los que se considerarán para los efectos de esta ley como vehículos no motorizados;
 
-10) Cruce: La unión de una calle o camino con otros, aunque no los atraviese. Comprende todo el ancho de la calle o camino entre las líneas de edificación o deslindes en su caso;
+10) Ciclovía: Espacio destinado al uso exclusivo de bicicletas y otros ciclos, que puede estar segregada física o visualmente, según las características y clasificaciones que se definan mediante reglamento;
 
-11) Cruce de ferrocarriles: Intersección de una calle o camino con una vía férrea por la cual existe tráfico regular de trenes;
+11) Conductor: Toda persona que conduce, maneja o tiene control físico de un vehículo motorizado en la vía pública; que controla o maneja un vehículo remolcado por otro; o que dirige, maniobra o está a cargo del manejo directo de cualquier otro vehículo, de un animal de silla, de tiro o de arreo de animales;
 
-12) Cruce regulado: Aquel en que existe semáforo funcionando normalmente, excluyendo la intermitencia; o hay Carabinero dirigiendo el tránsito;
+12) Cruce: La unión de una calle o camino con otros, aunque no los atraviese. Comprende todo el ancho de la calle o camino entre las líneas de edificación o deslindes en su caso;
 
-13) Cuneta: En calles, el ángulo formado por la calzada y el plano vertical producido por diferencia de nivel entre calzada y acera. En los caminos, el foso lateral de poca profundidad;
+13) Cruce de ferrocarriles: Intersección de una calle o camino con una vía férrea por la cual existe tráfico regular de trenes;
 
-14) Chasis: Armazón del vehículo, que comprende el bastidor, ruedas, transmisión con o sin motor, excluida la carrocería y todos los accesorios necesarios para acomodar al conductor, pasajeros o carga;
+14) Cruce regulado: Aquel en que existe semáforo funcionando normalmente, excluyendo la intermitencia; o hay Carabinero dirigiendo el tránsito;
 
-15) Demarcación: Símbolo, palabra o marca de preferencia longitudinal o transversal, sobre la calzada para guía del tránsito de vehículos y peatones;
+15) Cuneta: En calles, el ángulo formado por la calzada y el plano vertical producido por diferencia de nivel entre calzada y acera. En los caminos, el foso lateral de poca profundidad;
 
-16) Derecho preferente de paso: Prerrogativa de un peatón o conductor de un vehículo para proseguir su marcha;
+16) Chasis: Armazón del vehículo, que comprende el bastidor, ruedas, transmisión con o sin motor, excluida la carrocería y todos los accesorios necesarios para acomodar al conductor, pasajeros o carga;
 
-17) Detención: Paralización a que obligan los dispositivos de señalización del tránsito o las órdenes de los funcionarios encargados de su regulación, como asimismo, la paralización breve de un vehículo para recibir o dejar pasajeros, pero sólo mientras dure esta maniobra;
+17) Demarcación: Símbolo, palabra o marca de preferencia longitudinal o transversal, sobre la calzada para guía del tránsito de vehículos y peatones;
 
-18) Eje de calzada: La línea longitudinal a la calzada, demarcada o imaginaria, que determinará las áreas con sentido de tránsito opuesto de la misma; al ser imaginaria, la división es en dos partes iguales;
+18) Derecho preferente de paso: Prerrogativa de un peatón o conductor de un vehículo para proseguir su marcha;
 
-19) Esquina: El vértice del ángulo que forman las líneas de edificación o deslinde convergentes, según sea el caso;
+19) Detención: Paralización a que obligan los dispositivos de señalización del tránsito o las órdenes de los funcionarios encargados de su regulación, como asimismo, la paralización breve de un vehículo para recibir o dejar pasajeros, pero sólo mientras dure esta maniobra;
 
-20) Estacionamiento o aparcamiento: Lugar permitido por la autoridad para estacionar;
+20) Eje de calzada: La línea longitudinal a la calzada, demarcada o imaginaria, que determinará las áreas con sentido de tránsito opuesto de la misma; al ser imaginaria, la división es en dos partes iguales;
 
-21) Estacionar: Paralizar un vehículo en la vía pública con o sin el conductor, por un período mayor que el necesario para dejar o recibir pasajeros;
+21) Esquina: El vértice del ángulo que forman las líneas de edificación o deslinde convergentes, según sea el caso;
 
-22) Guarda - cruzada: Encargado de la vigilancia de un cruce de ferrocarril;
+22) Estacionamiento o aparcamiento: Lugar permitido por la autoridad para estacionar;
 
-23) Homologación: Procedimiento mediante el cual se certifica que un modelo de vehículo motorizado cumple las normas técnicas vigentes emanadas del Ministerio de Transportes y Telecomunicaciones;
+23) Estacionar: Paralizar un vehículo en la vía pública con o sin el conductor, por un período mayor que el necesario para dejar o recibir pasajeros;
 
-24) Intersección: Área común de calzadas que se cruzan o convergen;
+24) Guarda - cruzada: Encargado de la vigilancia de un cruce de ferrocarril;
 
-25) Licencia de conductor: Documento que la autoridad competente otorga a una persona para conducir un vehículo;
+25) Homologación: Procedimiento mediante el cual se certifica que un modelo de vehículo motorizado cumple las normas técnicas vigentes emanadas del Ministerio de Transportes y Telecomunicaciones;
 
-26) Línea de detención de vehículos: La línea transversal a la calzada, demarcada o imaginaria, antes de una intersección o un paso para peatones, que no debe ser sobrepasada por los vehículos que deban detenerse. Si no estuviera demarcada, se entiende que está:
+26) Intersección: Área común de calzadas que se cruzan o convergen;
+
+27) Licencia de conductor: Documento que la autoridad competente otorga a una persona para conducir un vehículo motorizado o a tracción animal;
+
+28) Línea de detención de vehículos: La línea transversal a la calzada, demarcada o imaginaria, antes de una intersección o un paso para peatones, que no debe ser sobrepasada por los vehículos que deban detenerse. Si no estuviera demarcada, se entiende que está:
 
 a) en cruces regulados y pasos para peatones, a no menos de un metro antes de éstos, y
 
 b) en otros cruces, justo antes de la intersección;
 
-27) Línea de edificación: La formada por el deslinde de la propiedad con la acera;
+29) Línea de detención adelantada: Línea transversal a la calzada demarcada conforme al reglamento, antes de un cruce regulado con semáforo, que determina el inicio de la zona de espera especial para conductores de ciclos o motocicletas;
 
-28) Locomoción colectiva: El servicio remunerado de transporte de personas en vehículos destinados al uso público;
+30) Línea de edificación: La formada por el deslinde de la propiedad con la acera;
 
-29) Luz baja: Luz proyectada por los focos delanteros del vehículo en que el borde superior del haz luminoso es paralelo a la calzada y cuya potencia permite visualizar obstáculos a una distancia no inferior a 50 metros;
+31) Locomoción colectiva: El servicio remunerado de transporte de personas en vehículos destinados al uso público;
 
-30) Luz alta: Luz proyectada por los focos delanteros del vehículo en forma paralela a la calzada, cuya potencia permite visualizar obstáculos a una distancia no inferior a 150 metros;
+32) Luz baja: Luz proyectada por los focos delanteros del vehículo en que el borde superior del haz luminoso es paralelo a la calzada y cuya potencia permite visualizar obstáculos a una distancia no inferior a 50 metros;
 
-31) Luz de estacionamiento: Luz continua o intermitente que permite identificar un vehículo estacionado;
+33) Luz alta: Luz proyectada por los focos delanteros del vehículo en forma paralela a la calzada, cuya potencia permite visualizar obstáculos a una distancia no inferior a 150 metros;
 
-32) Padrón o permiso de circulación: Documento otorgado por la autoridad, destinado a individualizar al vehículo y a su dueño con el objeto de que pueda circular por las vías públicas;
+34) Luz de estacionamiento: Luz continua o intermitente que permite identificar un vehículo estacionado;
 
-33) Paso para peatones: La senda de seguridad en la calzada, señalizada conforme al reglamento. En cruces regulados no demarcados, corresponderá a la franja formada por la prolongación imaginaria de las aceras;
+35) Padrón o permiso de circulación: Documento otorgado por la autoridad, destinado a individualizar al vehículo y a su dueño con el objeto de que pueda circular por las vías públicas;
 
-34) Pista de circulación: Faja demarcada o imaginaria destinada al tránsito de una fila de vehículos;
+36) Paso para peatones: La senda de seguridad en la calzada, señalizada conforme al reglamento. En cruces regulados no demarcados, corresponderá a la franja formada por la prolongación imaginaria de las aceras;
 
-35) Pista de uso exclusivo: Espacio de la calzada debidamente señalizado, destinado únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente;
+37) Pista de circulación: Faja demarcada o imaginaria destinada al tránsito de una fila de vehículos;
 
-36) Placa patente: Distintivo que permite individualizar al vehículo;
+38) Pista de uso exclusivo: Espacio de la calzada debidamente señalizado, destinado únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente;
 
-37) Semáforo: Dispositivo luminoso mediante el cual se regula la circulación de vehículos y peatones;
+39) Placa patente: Distintivo que permite individualizar al vehículo;
 
-38) Señal de tránsito: Los dispositivos, signos y demarcaciones oficiales, de mensaje permanente o variable, instalados por la autoridad con el objetivo de regular, advertir o encauzar el tránsito;
+40) Semáforo: Dispositivo luminoso mediante el cual se regula la circulación de vehículos y peatones;
 
-39) Sobrepasar: Maniobra mediante la cual un vehículo pasa a otro u otros que circulan en el mismo sentido sin traspasar el eje de la calzada;
+41) Señal de tránsito: Los dispositivos, signos y demarcaciones oficiales, de mensaje permanente o variable, instalados por la autoridad con el objetivo de regular, advertir o encauzar el tránsito;
 
-40) Taxi: Automóvil destinado públicamente al transporte de personas;
+42) Sobrepasar: Maniobra mediante la cual un vehículo pasa a otro u otros que circulan en el mismo sentido sin traspasar el eje de la calzada;
 
-41) Tránsito: Desplazamiento de peatones, animales o vehículos por vías de uso público;
+43) Taxi: Automóvil destinado públicamente al transporte de personas;
 
-42) Vehículo: Medio con el cual, sobre el cual o por el cual toda persona u objeto puede ser transportado por una vía;
+44) Tránsito: Desplazamiento de peatones, animales o vehículos por vías de uso público;
 
-43) Vehículo de emergencia: El perteneciente a Carabineros de Chile e Investigaciones, al Cuerpo de Bomberos, a las brigadas forestales de la Corporación Nacional Forestal, a las Fuerzas Armadas y las ambulancias de las instituciones fiscales o de los establecimientos particulares que tengan el respectivo permiso otorgado por la autoridad competente;
+45) Triciclo motorizado de carga: Vehículo motorizado de tres ruedas destinado exclusivamente al transporte de carga. La capacidad de carga de estos vehículos no podrá superar los 300 kilogramos de peso.
 
-44) Vehículo de locomoción colectiva: Vehículo motorizado, destinado al uso público, para el transporte remunerado de personas, exceptuados los taxis que no efectúen servicio colectivo;
+46) Vehículo: Medio motorizado o no motorizado con el cual, sobre el cual o por el cual toda persona u objeto puede transportarse o ser transportado por una vía. Quedan excluidas de esta definición aquellas ayudas técnicas que permitan a personas con movilidad reducida o infantes, transportarse o ser transportados, tales como sillas de ruedas, motorizadas o no, coches para bebé y otros similares;
 
-45) Vehículo para el transporte escolar: Vehículo motorizado construido para transportar más de siete pasajeros sentados y destinado al transporte de escolares desde o hacia el colegio o relacionado con cualquiera otra actividad;
+47) Vehículo de emergencia: El perteneciente a Carabineros de Chile e Investigaciones, al Cuerpo de Bomberos, a las brigadas forestales de la Corporación Nacional Forestal, a las Fuerzas Armadas y las ambulancias de las instituciones fiscales o de los establecimientos particulares que tengan el respectivo permiso otorgado por la autoridad competente;
 
-46) Vehículo tranvía: Vehículo motorizado destinado al transporte público remunerado de pasajeros, que se desplaza en zonas urbanas exclusivamente a través de rieles sobre la vía.
+48) Vehículo de locomoción colectiva: Vehículo motorizado, destinado al uso público, para el transporte remunerado de personas, exceptuados los taxis que no efectúen servicio colectivo;
 
-47) Vía: Calle, camino u otro lugar destinado al tránsito;
+49) Vehículo para el transporte escolar: Vehículo motorizado construido para transportar más de siete pasajeros sentados y destinado al transporte de escolares desde o hacia el colegio o relacionado con cualquiera otra actividad;
 
-48) Vía de tránsito restringido: Aquella en que los conductores, los propietarios de los terrenos adyacentes u otras personas no tienen derecho a entrar o salir, sino por los lugares y bajo las condiciones fijadas por la autoridad competente;
+50) Vehículo tranvía: Vehículo motorizado destinado al transporte público remunerado de pasajeros, que se desplaza en zonas urbanas exclusivamente a través de rieles sobre la vía.
 
-49) Vía exclusiva: Calzada debidamente señalizada, destinada únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente;
+51) Vía: Calle, camino u otro lugar destinado al tránsito;
 
-50) Zona rural: Área geográfica que excluye las zonas urbanas, y
+52) Vía de tránsito restringido: Aquella en que los conductores, los propietarios de los terrenos adyacentes u otras personas no tienen derecho a entrar o salir, sino por los lugares y bajo las condiciones fijadas por la autoridad competente;
 
-51) Zona urbana: Área geográfica cuyos límites, para los efectos de esta ley, deben estar determinados y señalizados por las Municipalidades.
+53) Zona de espera especial: Área señalizada conforme al reglamento, que permite a los conductores de ciclos o motocicletas detenerse y reiniciar su marcha delante de otros vehículos motorizados, en un cruce regulado con semáforo;
+
+54) Zona de tránsito calmado: Vía o conjunto de vías emplazadas en zonas urbanas, definidas dentro de una determinada área geográfica, en las que a través de condiciones físicas u operacionales de las vías se establecen velocidades máximas de circulación inferiores a las establecidas en esta ley, pudiendo éstas ser de 40 kilómetros por hora, 30 kilómetros por hora o 20 kilómetros por hora;
+
+55) Vía exclusiva: Calzada debidamente señalizada, destinada únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente;
+
+56) Zona rural: Área geográfica que excluye las zonas urbanas, y
+
+57) Zona urbana: Área geográfica cuyos límites, para los efectos de esta ley, deben estar determinados y señalizados por las Municipalidades.
 
 #### Artículo 3
 
@@ -178,7 +190,7 @@ En uso de sus atribuciones el tribunal competente podrá exigir la presentación
 
 Los documentos antes indicados otorgados en el país, son instrumentos públicos.
 
-Se exceptúa de la exigencia establecida en el inciso primero de este artículo a los alumnos en práctica de las escuelas de conductores que, acompañados de un instructor habilitado, lo hagan en vehículos de la escuela.
+Se exceptúa de la exigencia establecida en el inciso primero de este artículo a los alumnos en práctica de las escuelas de conductores que, acompañados de un instructor habilitado, lo hagan en vehículos de la escuela, a los postulantes a licencia de conducir que se encuentren realizando el examen práctico acompañados de un funcionario municipal habilitado para tales efectos y a los conductores de 18 o más años de edad que conduzcan vehículos motorizados de tres ruedas, cuya velocidad máxima no supere los 30 kilómetros por hora.
 
 #### Artículo 6
 
@@ -188,13 +200,13 @@ Asimismo, tratándose de vehículos motorizados, deberán portar y entregar el c
 
 #### Artículo 7
 
-Se prohíbe al propietario o encargado de un vehículo facilitarlo a una persona que no posea licencia para conducirlo.
+Se prohíbe al propietario o encargado de un vehículo motorizado o a tracción animal facilitarlo a una persona que no posea licencia para conducirlo.
 
-Si se sorprendiere conduciendo un vehículo a quien no porte los documentos a que se refiere el artículo anterior, Carabineros podrá retirar el vehículo de circulación para ser puesto a disposición del tribunal competente, para la aplicación de las sanciones que correspondan. Si antes de enviarse el parte al respectivo tribunal, lo que no podrá ocurrir sino pasadas cuarenta y ocho horas, el conductor acredita ante Carabineros poseer la documentación adecuada y vigente, se le devolverá el vehículo, cursándose la infracción correspondiente.
+Si se sorprendiere conduciendo un vehículo motorizado o a tracción animal a quien no porte los documentos a que se refiere el artículo anterior, Carabineros podrá retirar el vehículo de circulación para ser puesto a disposición del tribunal competente, para la aplicación de las sanciones que correspondan. Si antes de enviarse el parte al respectivo tribunal, lo que no podrá ocurrir sino pasadas cuarenta y ocho horas, el conductor acredita ante Carabineros poseer la documentación adecuada y vigente, se le devolverá el vehículo, cursándose la infracción correspondiente.
 
 #### Artículo 8
 
-Los propietarios o encargados de vehículos no podrán celebrar actos o contratos que impliquen la conducción de esos vehículos por personas que no tengan una licencia vigente para conducir la clase de vehículo de que se trate.
+Los propietarios o encargados de vehículos motorizados y a tracción animal no podrán celebrar actos o contratos que impliquen la conducción de esos vehículos por personas que no tengan una licencia vigente para conducir la clase de vehículo de que se trate.
 
 Si la infracción a esta prohibición fuera cometida por personas o empresas dedicadas a dar en arrendamiento vehículos motorizados, serán sancionadas con la clausura del establecimiento, que no podrá ser inferior a siete días ni superior a quince. En caso de reincidencia, los plazos señalados se elevarán al doble y en caso de una tercera infracción, el Juez decretará la clausura definitiva del establecimiento.
 
@@ -268,7 +280,7 @@ Los postulantes a licencia de conductor deberán reunir los siguientes requisito
 
 1) Acreditar idoneidad moral, física y psíquica;
 
-2) Acreditar conocimientos teóricos y prácticos de conducción, así como de las disposiciones legales y reglamentarias que rigen al tránsito público;
+2) Acreditar conocimientos teóricos y prácticos de conducción, así como de las disposiciones legales y reglamentarias que rigen al tránsito público. Para la conducción de los triciclos motorizados de carga, los conocimientos teóricos se acreditarán mediante un examen simplificado, en los términos que lo establezca el reglamento respectivo del Ministerio de Transportes y Telecomunicaciones;
 
 3) Poseer cédula nacional de identidad o de extranjería vigentes, con letras o dígitos verificadores, y
 
@@ -304,7 +316,9 @@ LICENCIA NO PROFESIONAL CLASE C
 
 1.- Tener como mínimo 18 años de edad, y
 
-2.- Ser egresado de enseñanza básica.
+2.- Ser egresado de enseñanza básica. Este requisito no será exigible a quienes postulen a esta licencia para conducir triciclos motorizados de carga.
+
+El otorgamiento de la licencia Clase C para conducir triciclos motorizados de carga sólo habilitará para la conducción de este tipo de vehículos.
 
 LICENCIA ESPECIAL CLASE D
 
@@ -478,7 +492,7 @@ DE LA ENSEÑANZA DE LAS NORMAS DE TRÁNSITO Y DE LAS ESCUELAS DE CONDUCTORES
 
 #### Artículo 30
 
-El Ministerio de Educación deberá contemplar en los programas de los establecimientos de enseñanza básica y media del país, entre sus actividades oficiales y permanentes, la enseñanza de las disposiciones que regulan el tránsito, el uso de las vías públicas y los medios de transportes.
+El Ministerio de Educación deberá contemplar en los programas de los establecimientos de enseñanza básica y media del país, entre sus actividades oficiales y permanentes, la enseñanza de las disposiciones que regulan el tránsito, el uso de las vías públicas y los medios de transportes motorizados y no motorizados.
 
 §2. DE LAS ESCUELAS DE CONDUCTORES
 
@@ -486,11 +500,9 @@ El Ministerio de Educación deberá contemplar en los programas de los estableci
 
 #### Artículo 31
 
-Las Escuelas para Conductores podrán ser de clase A, para Conductores Profesionales y no profesionales, y, de Clase B, para postulantes de licencia no profesional, Clases B y C, o Especial Clase D.
+Las Escuelas para Conductores podrán ser de clase A, para Conductores Profesionales y no profesionales, y, de Clase B, para postulantes de licencia no profesional, de Clase C, o Especial Clase D o de varias a la vez.
 
-LEY Nº18.290
-
-Las Escuelas deberán impartir los conocimientos, destrezas y habilidades necesarias para la conducción de los vehículos motorizados a que se refiere la respectiva licencia.
+Las Escuelas deberán impartir los conocimientos, destrezas y habilidades necesarias para la conducción de los vehículos motorizados a que se refiere la respectiva licencia. Su enseñanza deberá promover el conocimiento, respeto y cuidado de los derechos y deberes de los peatones, ciclistas y conductores de otros ciclos.
 
 #### Artículo 32
 
@@ -856,6 +868,8 @@ No se podrá transportar materias peligrosas en vehículos de alquiler ni en los
 
 En los vehículos motorizados de carga no se podrá transportar personas en los espacios destinados a carga, cualquiera que sea la clase de vehículo, salvo en casos justificados, y adoptando las medidas de seguridad apropiadas.
 
+En ningún caso los vehículos motorizados de tres ruedas destinados al transporte de carga podrán transportar personas en los espacios destinados a carga.
+
 §3. DE LAS MEDIDAS DE SEGURIDAD
 
 (ARTS. 68 - 81)
@@ -958,13 +972,15 @@ El Ministerio de Transportes y Telecomunicaciones podrá determinar otras reglas
 
 Los vehículos motorizados deberán estar equipados, ajustados o carburados de modo que el motor no emita materiales o gases contaminantes en un índice superior a los permitidos.
 
+Quedarán exceptuados de lo dispuesto en el inciso anterior los vehículos pertenecientes a los Cuerpos de Bomberos.
+
 Cuando Carabineros constate técnicamente que un vehículo ha superado dichos índices, podrá retirarlo de la circulación, poniéndolo a disposición del tribunal competente en los lugares habilitados por las Municipalidades, de los cuales únicamente podrá retirarlo con autorización del Juez, que la otorgará con el objeto de que el infractor solucione el problema de contaminación denunciado. En estos casos se aplicará el Artículo 156 de esta Ley.
 
 El Juez podrá absolver al conductor que, denunciado por conducir un vehículo con emanación de gases, acreditare haber reparado el vehículo y subsanado la causa de la emanación a la fecha de su comparecencia al Tribunal, mediante certificado expedido por un establecimiento competente.
 
 #### Artículo 79
 
-Las motocicletas, motonetas, bicimotos, triciclos y bicicletas no podrán usarse para llevar mayor número de personas que aquél para el cual fueron diseñados y equipados. El acompañante deberá ir sentado a horcajadas.
+Ningún vehículo podrá usarse para llevar mayor número de personas que aquél para el cual fue diseñado o equipado. Tratándose de motocicletas, motonetas y bicimotos, el acompañante deberá ir sentado a horcajadas.
 
 #### Artículo 80
 
@@ -1106,6 +1122,8 @@ Las Municipalidades no otorgarán permisos de circulación a ningún vehículo m
 
 La revisión técnica que señala el inciso anterior comprenderá, en forma especial, los sistemas de dirección, frenos, luces, neumáticos y combustión interna.
 
+Sólo en el caso de los triciclos motorizados de carga, la revisión técnica consistirá en una inspección ocular de los elementos de seguridad del vehículo que el Ministerio de Transportes y Telecomunicaciones determine en el reglamento respectivo, los que se verificarán, de igual modo, en las correspondientes plantas.
+
 Dicho documento o el de homologación, en su caso, y el de gases, deberán portarse siempre en el vehículo y encontrarse vigentes.
 
 #### Artículo 90
@@ -1228,7 +1246,7 @@ Si la luz amarilla los sorprende tan próximos al cruce que ya no puedan detener
 
 Los peatones que enfrenten esta señal, deberán abstenerse de descender a la calzada y los que se encuentren en el paso para peatones tienen derecho a terminar el cruce.
 
-c) Luz roja: indica detención. Los vehículos que enfrenten esta señal deberán detenerse antes de la línea de detención y no deberán avanzar hasta que se encienda la luz verde.
+c) Luz roja: indica detención. Los vehículos que enfrenten esta señal deberán detenerse antes de la línea de detención o la línea de detención adelantada, en su caso, y no deberán avanzar hasta que se encienda la luz verde.
 
 Los peatones que enfrenten esta señal no deberán bajar a la calzada ni cruzarla.
 
@@ -1236,7 +1254,7 @@ Los peatones que enfrenten esta señal no deberán bajar a la calzada ni cruzarl
 
 a) Una luz roja intermitente indica "CEDA EL PASO".
 
-b) Dos luces rojas intermitentes en forma alternada, significan que los vehículos que las enfrenten no deben sobrepasar la línea de detención o, si no la hubiera, la vertical de la señal. Estas luces sólo podrán instalarse en cruces ferroviarios a nivel y para dar preferencia de paso a vehículos de bomberos o ambulancias que se incorporan a la vía.
+b) Dos luces rojas intermitentes en forma alternada, significan que los vehículos que las enfrenten no deben sobrepasar la línea de detención, la línea de detención adelantada, en su caso, o, si no las hubiera, la vertical de la señal. Estas luces sólo podrán instalarse en cruces ferroviarios a nivel y para dar preferencia de paso a vehículos de bomberos o ambulancias que se incorporan a la vía.
 
 c) Luz amarilla intermitente, advierte peligro.
 
@@ -1252,7 +1270,7 @@ La indicación de flecha verde intermitente tendrá el mismo significado que la 
 
 4.- Indicaciones para vehículos de transporte público:
 
-Tratándose de pistas segregadas destinadas exclusiva y permanentemente a la circulación de vehículos que prestan servicio de transporte público de pasajeros, los sem�foros podr�n ser diferentes y en ellos se podrá reemplazar el color verde por el blanco.
+Tratándose de pistas segregadas destinadas exclusiva y permanentemente a la circulación de vehículos que prestan servicio de transporte público de pasajeros, los semáforos podrán ser diferentes y en ellos se podrá reemplazar el color verde por el blanco.
 
 5.- Los semáforos destinados exclusivamente a los peatones o a los ciclistas se distinguirán por tener dibujado sobre la lente la figura de un peatón o de una bicicleta, según corresponda. Los colores tendrán el siguiente significado:
 
@@ -1318,6 +1336,8 @@ El Ministerio de Transportes y Telecomunicaciones podrá prohibir, por causa jus
 
 Sin perjuicio de lo anterior, Carabineros de Chile queda autorizado para adoptar, en forma transitoria, medidas que alteren el tránsito de vehículos o su estacionamiento en las vías públicas cuando circunstancias especiales lo hagan necesario.
 
+En todo caso, los vehículos de tres ruedas destinados al transporte de carga no podrán circular por autopistas y autovías.
+
 #### Artículo 114
 
 En los caminos públicos en que opere un sistema electrónico de cobro de tarifas o peajes, sólo podrán circular los vehículos que estén provistos de un dispositivo electrónico habilitado u otro sistema complementario que permitan su cobro. La infracción a esta prohibición será sancionada con una multa de una unidad tributaria mensual y para todos los efectos se entenderá como una infracción grave de conformidad al artículo 200 Nº 7 de la presente ley.
@@ -1332,7 +1352,7 @@ Ningún vehículo podrá ser conducido marcha atrás, salvo que esta maniobra se
 
 En las vías públicas, los vehículos deberán circular por la mitad derecha de la calzada, salvo en los siguientes casos:
 
-1.- Cuando se adelante o sobrepase a otro vehículo que va en el mismo sentido, bajo las reglas que rigen tal movimiento;
+1.- Cuando se adelante o sobrepase a otro vehículo motorizado que va en el mismo sentido, bajo las reglas que rigen tal movimiento;
 
 2.- Cuando el tránsito por la mitad derecha de una calzada esté impedido por construcciones, reparaciones u otros accidentes que alteren la normal circulación, y
 
@@ -1340,11 +1360,11 @@ En las vías públicas, los vehículos deberán circular por la mitad derecha de
 
 #### Artículo 117
 
-Ningún vehículo podrá circular a menor velocidad que la mínima fijada para la respectiva vía. En todo caso, los vehículos que, dentro de los límites fijados, circulen a una velocidad inferior a la máxima deberán hacerlo por su derecha.
+Ningún vehículo motorizado podrá circular a menor velocidad que la mínima fijada para la respectiva vía. En todo caso, los vehículos que, dentro de los límites fijados, circulen a una velocidad inferior a la máxima deberán hacerlo por su derecha.
 
 #### Artículo 118
 
-En caso de haber agua en la calzada, el conductor cuidará que ésta no moje la acera ni a los peatones.
+En caso de haber agua en la calzada, el conductor cuidará que ésta no moje la acera ni a los peatones o conductores de ciclos.
 
 #### Artículo 119
 
@@ -1354,17 +1374,25 @@ En las vías de doble tránsito, los vehículos que circulen en sentidos opuesto
 
 El conductor de un vehículo que adelante o sobrepase a otro, deberá hacerlo por la izquierda y a una distancia que garantice seguridad, y no volverá a tomar la pista de la derecha hasta que tenga distancia suficiente y segura delante del vehículo que acaba de adelantar o sobrepasar.
 
+En caso de que un vehículo motorizado adelante o sobrepase a bicicletas u otros ciclos, deberá mantener una distancia prudente respecto al ciclo de aproximadamente 1,50 metros, durante toda la maniobra.
+
 El conductor del vehículo que es adelantado o sobrepasado deberá ceder el paso en favor del que lo adelante o sobrepase y no deberá aumentar la velocidad hasta que éste complete la maniobra.
+
+En caso de que el vehículo adelantado sea un vehículo no motorizado, el conductor de éste deberá permitir la maniobra, acercándose al costado derecho o izquierdo de la pista, según corresponda.
 
 #### Artículo 121
 
 El conductor de un vehículo puede sobrepasar a otro, por la derecha, cuando sea posible efectuar este movimiento con absoluta seguridad y solamente en las condiciones siguientes:
 
-1.- Cuando el vehículo alcanzado esté efectuando o a punto de efectuar un viraje a la izquierda, y
+1.- Cuando el vehículo alcanzado esté efectuando o a punto de efectuar un viraje a la izquierda;
 
-2.- Cuando en vías urbanas existan tres o más pistas con el mismo sentido del tránsito.
+2.- Cuando en vías urbanas existan tres o más pistas con el mismo sentido del tránsito, y
+
+3.- Cuando se sobrepase a ciclos que circulen por la pista izquierda.
 
 En ningún caso podrá efectuarse esta maniobra fuera de la calzada.
+
+Adicionalmente, los conductores de ciclos, motocicletas o motonetas podrán sobrepasar por la misma pista a otros vehículos, por cualquiera de los costados de éstos, para alcanzar la línea de detención o la línea de detención adelantada, según corresponda. Esta maniobra deberá efectuarse a una velocidad moderada, tomando las precauciones necesarias para realizarla con seguridad y siempre que los vehículos a los que se sobrepase se encuentren detenidos.
 
 #### Artículo 122
 
@@ -1388,7 +1416,7 @@ Los vehículos que circulen por una zona de tránsito en rotación, como monumen
 
 En las calzadas que dispongan de dos o más pistas demarcadas se observarán las siguientes normas:
 
-1.- En el espacio demarcado para una pista, circularán los vehículos uno en pos de otro, cualquiera que sea su naturaleza o tamaño, y no deberán transitar en forma paralela o en doble fila dos o más vehículos, aunque su estructura reducida lo hiciere posible, como tampoco podrán pasarse unos a otros;
+1.- En el espacio demarcado para una pista, circularán los vehículos uno en pos de otro, cualquiera que sea su naturaleza o tamaño, y no deberán transitar en forma paralela o en doble fila dos o más vehículos, aunque su estructura reducida lo hiciere posible, como tampoco podrán pasarse unos a otros, sin perjuicio de lo dispuesto en el inciso final del artículo 121 y en el artículo 130;
 
 2.- El vehículo será conducido en forma tal que quede, por completo, dentro del espacio demarcado y sólo podrá salir de él siempre que tal movimiento pueda efectuarse a la pista adyacente y, en ningún caso, pasar ésta para entrar, de inmediato, a la siguiente.
 
@@ -1444,7 +1472,7 @@ DE LOS VIRAJES Y SEÑALES DE ADVERTENCIA
 
 #### Artículo 134
 
-El conductor de un vehículo que tenga el propósito de virar, carecerá de toda preferencia para ejecutar esta maniobra y deberá respetar el derecho preferente de paso que tengan, en estas circunstancias, los otros vehículos que circulen y los peatones en los pasos a ellos destinados, que estén o no demarcados.
+El conductor de un vehículo que tenga el propósito de virar, carecerá de toda preferencia para ejecutar esta maniobra y deberá respetar el derecho preferente de paso que tengan, en estas circunstancias, los otros vehículos que circulen, los ciclos que circulen en ciclovía y los peatones en los pasos a ellos destinados, que estén o no demarcados.
 
 En el caso que dos vehículos se aproximen a un cruce por distintas vías, con el propósito de virar ambos a su izquierda, el derecho preferente de paso de uno respecto al otro se regirá por la aplicación general de lo establecido en el artículo 139.
 
@@ -1452,13 +1480,15 @@ En el caso que dos vehículos se aproximen a un cruce por distintas vías, con e
 
 El conductor de un vehículo que tenga el propósito de virar en una intersección, lo hará como sigue:
 
-1.- Viraje a la derecha: la iniciación de un viraje a la derecha y el viraje mismo deberá hacerse tan cerca como sea posible de la cuneta de la mano derecha o del borde de la calzada. Con todo, en el caso de viraje a la derecha debidamente señalizado por un vehículo de carga articulado compuesto de camión tractor y semirremolque, o de camión y remolque, no regirá lo prevenido anteriormente, debiendo los demás conductores aguardar que dicho vehículo termine su maniobra;
+1.- Viraje a la derecha: la iniciación de un viraje a la derecha y el viraje mismo deberá hacerse tan cerca como sea posible de la cuneta de la mano derecha o del borde de la calzada, a menos que exista una ciclovía, en cuyo caso dicho viraje deberá hacerse lo más cerca del elemento segregador. Con todo, en el caso de viraje a la derecha debidamente señalizado por un vehículo de carga articulado compuesto de camión tractor y semirremolque, o de camión y remolque, no regirá lo prevenido anteriormente, debiendo los demás conductores aguardar que dicho vehículo termine su maniobra;
 
 2.- Viraje a la izquierda: para efectuar un viraje a la izquierda desde una vía de doble tránsito hacia otra vía de doble tránsito, el vehículo deberá aproximarse al costado derecho del eje o de la línea central de la vía por donde transita y, después de pasar la intersección, deberá entrar a la otra vía, tomando el lado derecho de su eje o de la línea central;
 
 3.- Para efectuar un viraje a la izquierda desde una vía de doble tránsito a una de tránsito en un solo sentido, el vehículo deberá tomar previamente el costado derecho del eje o de la línea central de la vía por donde se transita e ingresar a la pista más próxima a su viraje, y
 
 4.- El viraje a la izquierda desde una vía de tránsito en un solo sentido hacia otra de doble tránsito, deberá efectuarse de manera que el vehículo, una vez pasada la intersección, tome el costado derecho del eje o de la línea central de la vía de doble tránsito.
+
+En caso de congestión, los conductores procurarán mantener despejadas las intersecciones y deberán permitir, de forma alternada, el viraje de los vehículos que acceden a la vía.
 
 #### Artículo 136
 
@@ -1488,7 +1518,7 @@ Todas las señales de advertencia con el brazo, deberán hacerse por el conducto
 
 3.- Disminución de velocidad o detención, brazo extendido hacia abajo.
 
-Con todo, tratándose de bicimotos, triciclos, bicicletas y similares, la señalización de maniobra de viraje a la derecha podrá ser advertida con el brazo de ese lado extendido horizontalmente.
+Con todo, tratándose de bicimotos, triciclos, bicicletas y similares, la señalización de maniobra de viraje a la derecha podrá ser advertida con el brazo de ese lado extendido horizontalmente, pudiendo además utilizar un señalizador eléctrico adosado a su cuerpo.
 
 ## Título XI
 
@@ -1554,6 +1584,8 @@ Ninguna persona podrá conducir un vehículo a una velocidad mayor de la que sea
 
 En todo caso, la velocidad debe ser tal, que permita controlar el vehículo cuando sea necesario, para evitar accidentes.
 
+Con todo, el conductor del vehículo deberá siempre respetar los límites máximos de velocidad prescritos en el artículo siguiente.
+
 #### Artículo 145
 
 Cuando no existan los riesgos o circunstancias señaladas en los artículos anteriores, serán límites máximos de velocidad los siguientes:
@@ -1576,7 +1608,9 @@ Cuando no existan los riesgos o circunstancias señaladas en los artículos ante
 
 Las Municipalidades en las zonas urbanas y la Dirección de Vialidad en las zonas rurales, en casos excepcionales, por razones fundadas y previo estudio elaborado de acuerdo a los criterios que contemple el Manual de Señalización de Tránsito para la determinación de las velocidades mínimas o máximas, podrán aumentar o disminuir los límites de velocidad establecidos en esta ley, para una determinada vía o parte de ésta.
 
-Las modificaciones a que se refiere el inciso anterior deberán darse a conocer por medio de señales oficiales.
+Asimismo, las Municipalidades en las zonas urbanas, por razones fundadas, podrán establecer zonas de tránsito calmado en áreas residenciales o de alta concentración de comercio y servicios, entre otras.
+
+Estas modificaciones deberán contar con informe previo del Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial competente, y deberán darse a conocer por medio de señales oficiales.
 
 En Zona de Escuela, en horarios de entrada y salida de los alumnos, los vehículos no podrán circular a más de treinta kilómetros por hora.
 
@@ -1584,9 +1618,9 @@ El conductor que se aproxime a un vehículo de transporte escolar detenido con s
 
 #### Artículo 147
 
-No deberá conducirse un vehículo a una velocidad tan baja que impida el desplazamiento normal y adecuado de la circulación.
+No deberá conducirse un vehículo motorizado a una velocidad tan baja que impida el desplazamiento normal y adecuado de la circulación.
 
-La Dirección de Vialidad o las Municipalidades, podrán fijar velocidades mínimas, bajo las cuales ningún conductor podrá conducir su vehículo, cuando por estudios técnicos se establezca su necesidad para el normal y adecuado desplazamiento de la circulación.
+La Dirección de Vialidad o las Municipalidades, podrán fijar velocidades mínimas, bajo las cuales ningún conductor podrá conducir su vehículo motorizado, cuando por estudios técnicos se establezca su necesidad para el normal y adecuado desplazamiento de la circulación.
 
 ## Título XIII
 
@@ -1626,7 +1660,7 @@ Si la vía en que se estacione tuviere inclinación deberá dejarlo, además, co
 
 La detención en sitios no autorizados para estacionarse, se permitirá sólo por el tiempo mínimo necesario para tomar o dejar pasajeros.
 
-Se prohíbe al conductor abrir las puertas del vehículo antes de su completa detención, mantenerlas abiertas y descender o permitir el descenso, sin asegurarse previamente de que ello no implica entorpecimiento o peligro.
+Se prohíbe al conductor y pasajeros abrir las puertas del vehículo antes de su completa detención, mantenerlas abiertas y descender o permitir el descenso, sin asegurarse previamente de que ello no implica entorpecimiento o peligro.
 
 #### Artículo 154
 
@@ -1644,9 +1678,11 @@ Se prohíben las siguientes detenciones y estacionamientos:
 
 6.- En los puentes, túneles, estructuras elevadas y pasos bajo y sobre nivel de las vías públicas, en las cuestas, en las curvas de los caminos;
 
-7.- Dentro de un cruce, y
+7.- Dentro de un cruce;
 
-8.- En las calzadas o bermas de los caminos públicos de dos o más pistas de circulación en un mismo sentido.
+8.- En las calzadas o bermas de los caminos públicos de dos o más pistas de circulación en un mismo sentido, y
+
+9.- De vehículos motorizados en las ciclovías.
 
 #### Artículo 155
 
@@ -1744,7 +1780,7 @@ El tránsito de los peatones deberá hacerse de acuerdo con las normas siguiente
 
 2.- En aquellas vías públicas donde no haya acera, deberán hacerlo por las bermas o franjas laterales de la calzada y por el costado izquierdo de ellas, enfrentando los vehículos que circulen en sentido opuesto;
 
-3.- No podrán permanecer en las calzadas de las calles o caminos, ni saltar vallas peatonales ni pasar entre o sobre rejas u otros dispositivos existentes entre calzadas con tránsito opuesto;
+3.- No podrán permanecer en las calzadas de las calles, caminos o ciclovías, ni saltar vallas peatonales ni pasar entre o sobre rejas u otros dispositivos existentes entre calzadas con tránsito opuesto;
 
 4.- Cruzar las calzadas por los pasos para peatones o por los pasos a desnivel;
 
@@ -1820,7 +1856,7 @@ En los accidentes del tránsito, constituyen presunción de responsabilidad del 
 
 13.- Salirse de la pista de circulación o cortar u obstruir sorpresivamente la circulación reglamentaria de otro vehículo;
 
-14.- Detenerse o estacionarse en una curva, en la cima de una cuesta, en el interior de un túnel o sobre un puente y en la intersección de calles o caminos, o en contravención a lo dispuesto en el número 8 del artículo 154;
+14.- Detenerse o estacionarse en una curva, en la cima de una cuesta, en el interior de un túnel, en ciclovías o sobre un puente y en la intersección de calles o caminos, o en contravención a lo dispuesto en el número 8 del artículo 154;
 
 15.- No hacer el conductor, en forma oportuna, las señales reglamentarias;
 
@@ -1994,7 +2030,7 @@ Carabineros de Chile o Inspectores Municipales tomarán nota de todo desperfecto
 
 #### Artículo 189
 
-Las Municipalidades proporcionarán a Carabineros de Chile formularios de denuncias, boletas de recibos de contraventores y de especies retenidas.
+Las Municipalidades proporcionarán a Carabineros de Chile formularios de denuncias, boletas de recibos de contraventores y de especies retenidas, precisando el tipo de vehículo involucrado.
 
 ## Título XVII
 
@@ -2252,7 +2288,7 @@ Son infracciones o contravenciones gravísimas, las siguientes:
 
 1.- No detenerse ante la luz roja de las señales luminosas del tránsito, o ante la señal "PARE".
 
-2.- Conducir sin haber obtenido licencia de
+2.- Conducir un vehículo motorizado o a tracción animal sin haber obtenido licencia de
 
 conductor, sin perjuicio de lo dispuesto en el artículo 194.
 
@@ -2274,7 +2310,7 @@ Son infracciones o contravenciones graves las siguientes:
 
 4. Entregar el dueño o su tenedor un vehículo para que lo conduzca persona que no cumpla con los requisitos para conducir;
 
-5. Conducir un vehículo sin la placa patente;
+5. Conducir un vehículo sin la placa patente cuando ésta sea exigible conforme con lo dispuesto en el artículo 51;
 
 6. Desobedecer las señales u órdenes de tránsito de un integrante de Carabineros de Chile o las de un inspector fiscal en los procedimientos de fiscalización del transporte público y privado remunerado de pasajeros y transporte de carga;
 
@@ -2372,7 +2408,7 @@ Son infracciones o contravenciones menos graves, las siguientes:
 
 6. No respetar las prohibiciones establecidas en el artículo 137;
 
-7. Conducir un vehículo sin silenciador o con éste o el tubo de escape en malas condiciones, o con el tubo de salida antirreglamentario;
+7. Conducir un vehículo motorizado sin silenciador o con éste o el tubo de escape en malas condiciones, o con el tubo de salida antirreglamentario;
 
 8. No llevar los elementos señalados en los números 1, 2 y 3 del artículo 75;
 
@@ -2596,17 +2632,79 @@ Una institución privada y sin fines de lucro, que tenga dentro de sus objetivos
 
 Los vehículos motorizados antiguos o históricos deberán cumplir las normas especiales de emisión y estarán afectos a las restricciones de circulación que determine el reglamento. El Ministerio de Transportes y Telecomunicaciones les otorgará un certificado de revisión técnica y un distintivo especial, sin los cuales no podrán transitar.
 
+## Título XX
+
+DE LAS BICICLETAS Y OTROS CICLOS
+
+(ARTS. 221-224)
+
+#### Artículo 221
+
+El Ministerio de Transportes y Telecomunicaciones dictará un reglamento que regule las condiciones de gestión y seguridad de tránsito que deberán cumplir las ciclovías para su correcta operación. Se entenderá por condiciones de gestión y seguridad de tránsito, los requisitos de diseño y características técnicas con las que deberán planificarse, implementarse y mantenerse las ciclovías. Asimismo, dicho reglamento definirá las especificaciones técnicas de los elementos de seguridad para los ocupantes de ciclos, tales como casco, elementos reflectantes, frenos, luces y otros accesorios de seguridad de los ciclos.
+
+El Ministerio de Transportes y Telecomunicaciones, a través de sus secretarías regionales ministeriales, autorizará, mediante resolución, la operación de las ciclovías que cumplan los requisitos indicados en el reglamento señalado en el inciso anterior. Dicha resolución deberá indicar el nombre de la o las vías en que se ubicará la ciclovía, los tramos que ocupará, su emplazamiento, accesos y el sentido del tránsito que tendrá, entre otros aspectos que el reglamento señale.
+
+El Ministerio de Transportes y Telecomunicaciones podrá, además, establecer prohibiciones de circulación sobre las ciclovías para tipos específicos de ciclos, considerando sus dimensiones, estructura u otras similares que puedan afectar la correcta operación de las ciclovías, en los términos que señale el referido reglamento.
+
+#### Artículo 222
+
+Para la circulación en zonas urbanas los conductores de ciclos deberán respetar las siguientes reglas:
+
+a) Los ciclos deberán transitar por las ciclovías. A falta de éstas lo harán por la pista derecha de la calzada. Constituyen una excepción a la obligación de transitar por la pista derecha de la calzada, los siguientes casos:
+
+i. Los establecidos en los números 1 y 2 del artículo 116.
+
+ii. En vías unidireccionales, cuando exista una pista de uso exclusivo de buses ubicada al costado derecho de la calzada. En esta situación, los ciclos deberán circular por el costado izquierdo de la pista izquierda. Tratándose de vías bidireccionales, esta disposición se aplicará sólo en caso de existir bandejón central o mediana.
+
+iii. Cuando el ciclo deba virar a la izquierda, lo que deberá hacer de conformidad con las normas del Título X.
+
+b) Los ciclos podrán circular excepcionalmente por aceras adecuando su velocidad a la de los peatones, y respetando en todo momento la preferencia de éstos, cuando no exista una ciclovía y sólo en los siguientes casos:
+
+i. Tratándose de conductores menores de 14 años o adultos mayores.
+
+ii. Tratándose de personas que circulen con niños menores de 7 años.
+
+iii. Tratándose de personas con alguna discapacidad, como también aquéllas de movilidad reducida.
+
+iv. Aun existiendo una ciclovía, cuando las condiciones de ésta o de la calzada, o las condiciones climáticas hagan peligroso continuar.
+
+En el caso de que la circulación por la ciclovía o la calzada se vea imposibilitada, el conductor del ciclo podrá utilizar excepcionalmente la acera, respetando siempre la prioridad del peatón y los vehículos que ingresen a las edificaciones o emerjan de éstas. El desplazamiento deberá efectuarlo a velocidad de peatón, alejado de las edificaciones o cierres, y si el flujo peatonal es muy alto deberá descender del ciclo.
+
+c) En el caso de tener que utilizar un cruce peatonal, el conductor del ciclo deberá detenerse antes del mismo y atravesarlo a velocidad reducida, respetando siempre la prioridad del peatón, a velocidad de peatón y si el flujo peatonal es muy alto deberá descender del ciclo.
+
+d) Los peatones deberán cruzar las ciclovías por los lugares debidamente señalizados y no podrán permanecer ni caminar por ellas.
+
+#### Artículo 223
+
+Son deberes de los conductores de ciclos los siguientes:
+
+a) Conducir un ciclo atento a las condiciones del tránsito, sin utilizar elementos que dificulten sus sentidos de visión y audición.
+
+b) Conducir un ciclo equipado con al menos un sistema de freno que sea eficaz.
+
+c) En caso de transportar menores de 7 años, el conductor deberá ser mayor de edad.
+
+d) En caso de utilizar un sistema de remolque para el transporte de personas, animales o mercancías, el conductor deberá ser mayor de edad. En todo caso, dicho sistema deberá cumplir los estándares definidos por el Ministerio de Transportes y Telecomunicaciones.
+
+#### Artículo 224
+
+Las bicicletas deberán estacionarse preferentemente en los lugares habilitados para ello, dejando en todos los casos un espacio para la libre circulación de peatones.
+
+Queda prohibido aferrar por cualquier medio las bicicletas en zonas reservadas para carga y descarga en la calzada en el horario dedicado a dicha actividad, en zonas de estacionamiento para personas con discapacidad, en zonas de estacionamiento prohibido conforme señalización, en paradas de transporte público y en pasos de peatones.
+
+Los estacionamientos de bicicletas quedan única y exclusivamente reservados a este tipo de vehículo.
+
 TÍTULO FINAL
 
 DE LA VIGENCIA DE LA LEY
 
-(ARTS. 220-221)
+(ARTS. 225-226)
 
-#### Artículo 221
+#### Artículo 225
 
 La presente ley empezará a regir el 1º de enero de 1985. No obstante los incisos cuarto y quinto del artículo 22 regirán a contar del 1º de enero de 1986.
 
-#### Artículo 222
+#### Artículo 226
 
 Derógase a partir del 1º de enero de 1985, el decreto con fuerza de ley Nº 3.068, de 1964, Ordenanza General del Tránsito.
 
