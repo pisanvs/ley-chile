@@ -550,7 +550,7 @@ botrana (Lep: Tortricidae).
 
 . Palto (Persea americana).
 
-2. El material debe haber sido sometido a un tratamiento de desinfestación por inmersión contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, tipo de aplicación y dosis utilizadas.
+2. Previo al envío, el material debe haber sido sometido a un tratamiento de desinfestación contra insectos y ácaros por inmersión o aspersión, asegurando el mojamiento adecuado de todas las partes del material de reproducción regulado, incluida sus raíces si corresponde, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto utilizado, el tipo de aplicación y la dosis.
 
 3. Adicionalmente, el material deberá cumplir con los siguientes requisitos sanitarios que se verificarán en la inspección fitosanitaria en el Puerto de ingreso:
 
