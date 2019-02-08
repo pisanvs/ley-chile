@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 702 EXENTA, DE 27 DE DICIEMBRE DE 2018
+
+Por resolución exenta Nº 702 de 27 de diciembre de 2018, de la Secretaría Regional Ministerial de la Región del Biobío, se ha prorrogado el contrato de concesión para la operación de establecimientos que practiquen revisiones técnicas y/o verificación de emisión de contaminantes de vehículos motorizados en la Región del Biobío, celebrado con el concesionario TÜV Rheinland Andino S.A., aprobado por la resolución exenta Nº 316, de fecha 8 de noviembre de 2004 de la citada Secretaría Regional, hasta el día 31 de diciembre de 2019 o hasta que comiencen a operar todos o parte de los establecimientos concesionados en virtud de los llamados a licitación pública efectuados por el Ministerio de Transportes y Telecomunicaciones para esta Región, cualquiera que ocurra primero, y siempre que hubieren cesado las condiciones que motivan este acto administrativo.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío.
