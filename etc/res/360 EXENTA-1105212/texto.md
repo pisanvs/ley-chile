@@ -90,6 +90,8 @@ Sólo podrán ejecutarse aquellas obras de transmisión que no formen parte de l
 
 Se entenderá que una obra de transmisión es necesaria y urgente, siempre y cuando ésta se requiera para asegurar el abastecimiento de la demanda en el cortísimo plazo, entendiéndose por cortísimo plazo un máximo de 36 meses, dentro de los cuales deberán entrar en operación las obras cuya ejecución haya sido autorizada en conformidad al artículo 102º de la ley y a las normas de la presente resolución.
 
+También se considerarán como obras de transmisión necesarias y urgentes aquellas asociadas a la conexión de proyectos de generación, cuando éstos tengan permisos ambientales o sectoriales vigentes, se justifique fundadamente la urgencia de su materialización y cuando su ejecución implique una reducción de los costos de operación del sistema.
+
 Por su parte, la exclusión de una obra de transmisión del proceso de planificación se justificará por la ocurrencia de un hecho imprevisto que no se tuvo a la vista en la etapa de presentación de proyectos contemplada en dicho proceso.
 
 #### Artículo 5º
@@ -116,6 +118,8 @@ El pronunciamiento del Coordinador sobre el Informe deberá dar cuenta de los mo
 
 El procedimiento de autorización por parte de la Comisión para ejecutar la o las obra de transmisión, regulado en la presente resolución y en el artículo 102º de la ley, continuará únicamente cuando el Coordinador apruebe el Informe presentado por el solicitante. Para estos efectos, se entenderá que la aprobación del Informe por parte del Coordinador informada a la Comisión de acuerdo a este artículo, constituye la solicitud de autorización de ejecución de la o las obras respectivas.
 
+La Comisión deberá analizar y resolver la solicitud de autorización para ejecutar la o las obras de transmisión respectivas de acuerdo a los criterios de evaluación empleados en la planificación anual de los sistemas de transmisión vigentes.
+
 #### Artículo 7º
 
 La Comisión tendrá un plazo de quince días para resolver sobre la solicitud de autorización para ejecutar la o las obras de transmisión que se le haya presentado, pudiendo otorgarla o rechazarla fundadamente.
@@ -129,6 +133,8 @@ b) Descripción de la o las obras de transmisión a ejecutar;
 c) Plazo constructivo y de entrada en operación de la o las obras respectivas, y
 
 d) Garantías de fiel cumplimiento del cronograma de ejecución de obras y de las características técnicas de las mismas, en caso de corresponder.
+
+La autorización de la ejecución de la o las obras de transmisión contendrá, asimismo, el establecimiento del plazo dentro del cual el respectivo proyecto de generación o demanda deba ser declarado en construcción. Vencido dicho plazo sin que se hubiese declarado en construcción el proyecto, la autorización quedará sin efecto.
 
 #### Artículo 8º
 
