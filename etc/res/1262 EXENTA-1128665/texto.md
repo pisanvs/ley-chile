@@ -1,0 +1,5 @@
+INFORMA SELECCIÓN DE BENEFICIARIOS A POSTULACIÓN DEL LLAMADO DE MEJORAMIENTO DE CONDOMINIOS SOCIALES 2018
+
+La Secretaría Regional Ministerial de Los Lagos del Ministerio de Vivienda y Urbanismo, mediante resolución exenta Nº 1.262 (V. y U.), de fecha 28 de noviembre de 2018, y su modificación resolución exenta Nº 1.373 (V. y U.), de fecha 26 de diciembre de 2018, ha seleccionado a los beneficiarios de subsidios en el marco del Llamado Extraordinario 2018, para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su modalidad regulada por el Capítulo II, de la atención a Condominios de Viviendas Sociales pertenecientes a la Región de Los Lagos. La nómina de postulantes seleccionados se encuentra disponible a partir del mes de enero de 2019, en la página institucional del Serviu Región de Los Lagos, www.serviuloslagos.cl.-
+
+Secretario Regional Ministerial de Vivienda y Urbanismo Región de Los Lagos.
