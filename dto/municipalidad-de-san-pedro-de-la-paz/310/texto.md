@@ -56,6 +56,8 @@ ESTACIONAMIENTOS: Al interior del límite urbano de San Pedro de la Paz se estab
 
 .
 
+Para los efectos de calcular el estándar de estacionamientos según cantidad de personas, se aplicará el concepto de carga de ocupación definido en la Ordenanza General de Urbanismo y Construcciones.
+
 ## Título IV
 
 DISPOSICIONES GENERALES Y ESPECÍFICAS
@@ -108,7 +110,9 @@ NORMAS URBANÍSTICAS
 
 #### Artículo 8
 
-CUERPOS SALIENTES, MARQUESINAS Y PORTALES. Se permiten marquesinas y/o cuerpos salientes sobre el antejardín a una altura mínima de 3,5 m medidos desde el suelo natural, y su proyección no podrá exceder 1/3 del ancho del antejardín.
+CUERPOS SALIENTES, MARQUESINAS Y PORTALES. - Se permiten cuerpos salientes en 3 metros de altura y 1,8 de ancho sobre la línea oficial de conformidad a lo establecido en el artículo 2.7.1 de la Ordenanza General de Urbanismo y Construcciones.
+
+- Se permiten cuerpos salientes en 2,5 metros de altura sobre el antejardín, de conformidad a lo establecido en el artículo 2.7.11 de la Ordenanza General de Urbanismo y Construcciones.
 
 Los proyectos de edificación de más de 3 pisos de altura que se emplacen en ZM – 1 por calles Pedro Aguirre Cerda, Michimalonco, Costanera (Laguna Chica), Luis Acevedo, Los Canelos y Los Aromos, solo podrán tomar la línea oficial a partir de los 3 metros de altura, debiendo considerar en el primer nivel un portal de 3 metros de ancho, a modo de ensanche de la acera.
 
@@ -231,3 +235,9 @@ INSTALACIONES EN ESPACIO PÚBLICO
 Se permitirá colocar soportes de letreros publicitarios en el espacio de uso público destinado a vialidad, dando cumplimiento a lo establecido en el artículo 2.7.10 de la Ordenanza General de Urbanismo y Construcciones.
 
 San Pedro de la Paz, 24 de febrero de 2011.
+
+> **Nota.** El numeral 2 letra a) del Decreto 1067, M. de San Pedro de la Paz, publicado el 09.02.2019, modifica el artículo 4° de la presente norma, en el sentido de reemplazar y agregar en las filas de su cuadro, aquellas calles que el referido decreto señala.
+
+> **Nota.** NOTA 1 El numeral 2 letra b) del Decreto 1067, M. San Pedro de la Paz, publicado el 09.02.2019, modifica el artículo 5° de la presente norma, en el sentido de reemplazar, modificar o eliminar de su cuadro las filas que lo componen, en los términos que el citado decreto establece.
+
+> **Nota.** NOTA 2 El numeral 2 en sus letras d) a n) del Decreto 1067, M. San Pedro de la Paz, publicado el 09.02.2019, modifican en el artículo 12 de la presente norma, el cuadro respectivo a las zonas: ZM - 1, ZM - 2, ZM - 3, ZM - 4, ZH - 1, ZH - 5, ZH - 7, ZH - 10, ZE - 1, ZE - 2 y ZE - 3, en los términos que el citado decreto indica.
