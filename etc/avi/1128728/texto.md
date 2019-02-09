@@ -1,0 +1,67 @@
+FIJA VALOR DE LA UNIDAD DE FOMENTO Y DEL ÍNDICE VALOR PROMEDIO PARA LOS DÍAS COMPRENDIDOS ENTRE EL 10 DE FEBRERO DE 2019 Y 9 DE MARZO DE 2019
+
+El Banco Central de Chile, para los efectos previstos en el Capítulo II.B.3 "Sistemas de Reajustabilidad autorizados por el Banco Central de Chile (Acuerdo Nº 05-07-900105)" del Compendio de Normas Financieras, fija el valor de la "Unidad de Fomento" y del "Índice Valor Promedio" para los días comprendidos entre el 10 de febrero de 2019 y 9 de marzo de 2019, en las cantidades que a continuación se indican.
+
+Valores de UF e IVP
+
+PERÍODO DEL 10 DE FEBRERO 2019 AL 9 DE MARZO 2019
+
+FECHA UF IVP
+
+10-02-2019 27.539,20 28.758,47
+
+11-02-2019 27.540,19 28.759,85
+
+12-02-2019 27.541,17 28.761,24
+
+13-02-2019 27.542,15 28.762,63
+
+14-02-2019 27.543,14 28.764,01
+
+15-02-2019 27.544,12 28.765,40
+
+16-02-2019 27.545,10 28.766,79
+
+17-02-2019 27.546,09 28.768,18
+
+18-02-2019 27.547,07 28.769,56
+
+19-02-2019 27.548,05 28.770,95
+
+20-02-2019 27.549,04 28.772,34
+
+21-02-2019 27.550,02 28.773,73
+
+22-02-2019 27.551,00 28.775,11
+
+23-02-2019 27.551,99 28.776,50
+
+24-02-2019 27.552,97 28.777,89
+
+25-02-2019 27.553,95 28.779,28
+
+26-02-2019 27.554,94 28.780,66
+
+27-02-2019 27.555,92 28.782,05
+
+28-02-2019 27.556,90 28.783,44
+
+01-03-2019 27.557,89 28.784,83
+
+02-03-2019 27.558,87 28.786,22
+
+03-03-2019 27.559,85 28.787,60
+
+04-03-2019 27.560,84 28.788,99
+
+05-03-2019 27.561,82 28.790,38
+
+06-03-2019 27.562,81 28.791,77
+
+07-03-2019 27.563,79 28.793,16
+
+08-03-2019 27.564,77 28.794,55
+
+09-03-2019 27.565,76 28.795,94
+
+Santiago, 8 de febrero de 2019.- Juan Pablo Araya Marco, Ministro de Fe.
