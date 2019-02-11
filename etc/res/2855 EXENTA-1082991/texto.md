@@ -38,6 +38,8 @@ b) Tamaños y tipologías:
 
 .
 
+Por razones climáticas y para mejor orientación de los usuarios, los mini paneles para personas con discapacidad visual, podrán ser instalados en la estructura del refugio peatonal si las condiciones de estos lo permiten.
+
 c) Elementos que componen las señales:
 
 .
@@ -46,11 +48,11 @@ d) Especificaciones tipográficas:
 
 .
 
-c) Secuencia de llenado:
+e) Secuencia de llenado:
 
 .
 
-d) Mini panel-personas con discapacidad visual:
+f) Mini panel-personas con discapacidad visual:
 
 .
 
