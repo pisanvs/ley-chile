@@ -26,6 +26,8 @@ Resolución:
 
 2. Los recursos involucrados para la selección de postulantes, por región, provincia y comuna convocada, son los siguientes:
 
+.
+
 3. El número de proyectos seleccionados en cada región, provincia o comuna alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2, incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y ajustes que serán sancionadas mediante resolución.
 
 4. A las personas que se hayan inscrito con fecha anterior al 21 de junio de 2017, en proyectos que hayan ingresado hasta esa misma fecha, les serán exigibles las exigencias, requisitos, y condiciones de los llamados vigentes en la fecha del ingreso del proyecto respectivo al Banco de Postulaciones, si ello les resulta más favorable.
