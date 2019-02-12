@@ -68,7 +68,7 @@ De su integración
 
 Los miembros del Consejo serán nombrados por el Ministro de Educación, previa selección conforme al Sistema de Alta Dirección Pública.
 
-Los consejeros serán nombrados por un periodo de seis años, pudiendo ser designados por un nuevo periodo. La designación comenzará a regir desde la total tramitación del acto administrativo que apruebe su nombramiento y en todo caso no podrá extenderse más allá del respectivo sexenio en que deba producirse una nueva renovación parcial de consejeros de acuerdo a lo dispuesto en el artículo 34 de la ley N° 20.529.
+Los consejeros serán nombrados por un periodo de seis años, pudiendo ser designados por un nuevo período. En todo caso, la designación no podrá extenderse más allá del respectivo sexenio en que deba producirse una nueva renovación parcial de consejeros de acuerdo a lo dispuesto en el artículo 34 de la ley Nº 20.529.
 
 #### Artículo 4°
 
