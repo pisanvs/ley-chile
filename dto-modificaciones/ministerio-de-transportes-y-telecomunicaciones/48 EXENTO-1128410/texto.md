@@ -1,6 +1,6 @@
 MODIFICA CONCESIÓN DE RADIODIFUSIÓN SONORA EN FRECUENCIA MODULADA, PARA LA LOCALIDAD DE CAUQUENES
 
-Santiago, 3 de enero de 2018.- Con esta fecha se ha decretado lo que sigue:
+Santiago, 3 de enero de 2019.- Con esta fecha se ha decretado lo que sigue:
 
 Núm. 48 exento.
 
