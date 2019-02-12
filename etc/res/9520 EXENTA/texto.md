@@ -34,7 +34,7 @@ Resolución:
 
 3. No podrán presentar postulaciones al presente Llamado Entidades de Gestión Rural que, a la fecha de publicación de esta resolución en el Diario Oficial, no hayan ingresado a la evaluación del Serviu los proyectos habitacionales de dos o más expedientes correspondientes a llamados del año 2016 o 2017, o bien que presenten dos o más expedientes con prórrogas vencidas. Esta restricción rige para proyectos de cualquier modalidad y tipo de postulación individual o colectiva. Corresponderá a Serviu informar a más tardar al cierre del presente llamado, mediante Oficio dirigido al Jefe de la División de Política Habitacional, la nómina de Entidades de Gestión Rural que se encuentren inhabilitadas para postular por tales condiciones.
 
-4. Para todos los efectos a que haya lugar, se considerará como residencia del postulante el domicilio que se consigne en el Registro Social de Hogares. Los postulantes deberán encontrarse inscritos en dicho Registro y acreditar calificación socioeconómica en un tramo de hasta el 60%, información que deberá ser visualizada en la plataforma Rukan de este Ministerio. En la tipología Conjunto Habitacional, hasta un 20% de sus integrantes podrá acreditar un máximo de 80% de Calificación Socioeconómica, debiendo dichos postulantes informar a Serviu la fuente de cofinanciamiento de su vivienda, el que no podrá originarse a partir de un prorrateo del total de subsidios habitacionales a obtener entre quienes integran el grupo.
+4. Para todos los efectos a que haya lugar, se considerará como residencia del postulante el domicilio que se consigne en el Registro Social de Hogares. Los postulantes deberán encontrarse inscritos en dicho Registro y acreditar calificación socioeconómica en un tramo de hasta el 60%, información que deberá ser visualizada en la plataforma Rukan de este Ministerio. En la tipología Conjunto Habitacional, hasta un 20% de sus integrantes podrá acreditar un máximo de 80% de Calificación Socioeconómica, debiendo dichos postulantes informar a Serviu la fuente de cofinanciamiento de su vivienda, el que no podrá originarse a partir de un prorrateo del total de subsidios habitacionales a obtener entre quienes integran el grupo. El ahorro adicional y/o cofinanciamiento (aporte de tercero y/o crédito hipotecario), debe estar enterado al momento del ingreso del proyecto definitivo a Serviu. Sin perjuicio de lo anterior, Serviu verificará que la solución habitacional sea íntegramente financiada con el subsidio más el cofinanciamiento.
 
 5. Los expedientes que no alcancen a participar por no terminar el proceso de postulación, así como los expedientes que no resulten seleccionados en el presente Llamado, serán eliminados del Sistema Informático Rukan, y los expedientes físicos deberán serán devueltos por Serviu a las Entidades de Gestión Rural en un plazo no superior a 20 días hábiles posteriores a la emisión de la resolución de selección.
 
@@ -128,9 +128,7 @@ d) Acondicionamiento térmico y Eficiencia Energética: hasta 90 UF
 
 De los recursos disponibles
 
-28. Los recursos involucrados para la selección de postulantes al presente Llamado, ascienden a un total de 1.050.034 UF y su distribución regional, según tipología, será la siguiente:
-
-.
+28. Los recursos involucrados para la selección de postulantes al presente Llamado, ascienden a un total de 1.049.382,76 UF y su distribución regional, según tipología, será la siguiente:
 
 Los recursos indicados en el cuadro anterior, podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2018, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por tipología de proyecto y/o por región, de acuerdo a la necesidad de cada región.
 
