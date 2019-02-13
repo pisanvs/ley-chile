@@ -132,13 +132,11 @@ Podrá subrogar al Secretario para el desempeño de las funciones indicadas, el 
 
 ### Párrafo 2° — "Del Director Ejecutivo"
 
-#### Artículo 9°
+#### Artículo 9º
 
-El Comité tendrá un Director Ejecutivo, quien será designado por el Consejo Directivo, previa selección de candidatos por concurso público.
+El Comité tendrá un Director Ejecutivo, quien será designado por el Consejo Directivo, previa propuesta del Vicepresidente Ejecutivo de Corfo. Este último tendrá las facultades para dictar y celebrar los actos y contratos relacionados con su contratación, la modificación de su contrato de trabajo y su desvinculación.
 
-Los actos para la contratación, sus modificaciones y desvinculación del Director Ejecutivo del Comité, los celebrará o dictará el Vicepresidente Ejecutivo de Corfo.
-
-El Vicepresidente Ejecutivo de la Corporación, podrá designar uno o más subrogantes del Director Ejecutivo, quienes actuarán en su ausencia, con todas sus facultades, lo que no será necesario acreditar ante terceros.
+El Vicepresidente Ejecutivo de la Corporación podrá designar a uno o más subrogantes del Director Ejecutivo, quienes actuarán en su ausencia, con todas sus facultades, lo que no será necesario acreditar ante terceros.
 
 #### Artículo 10°
 
@@ -185,7 +183,5 @@ s. Proponer al Consejo Directivo, previa evaluación técnica, la aprobación o 
 t. Aprobar, o ratificar en su caso, la reasignación de recursos entre y dentro de las cuentas del presupuesto de las iniciativas adjudicadas, de acuerdo con los antecedentes que lo justifiquen y siempre que no contravenga lo dispuesto en el instrumento de financiamiento, previa solicitud del beneficiario o intermediario.
 
 u. Aprobar la prórroga del plazo de ejecución de las actividades de las iniciativas adjudicadas. Asimismo, aprobar la modificación de los calendarios de entrega de informes de avance y final, y de entrega de los recursos asociados a éstos, de conformidad con el instrumento de financiamiento del Comité, de oficio o previa solicitud fundada. Las prórrogas concedidas y los fundamentos de la decisión, deberán ser informadas al Consejo Directivo en una sesión posterior.
-
-El Vicepresidente Ejecutivo de Corfo podrá contratar por el Comité o designar a un funcionario de la Corporación, en calidad de Director Ejecutivo Interino, para que ejerza y cumpla las funciones señaladas en este artículo, en tanto el Consejo Directivo no designe al Director Ejecutivo en conformidad con lo dispuesto en el artículo anterior.
 
 Anótese, tómese razón y publíquese en el Diario Oficial.- Eduardo Bitrán Colodro, Vicepresidente Ejecutivo.- Pablo Lagos Puccio, Fiscal.
