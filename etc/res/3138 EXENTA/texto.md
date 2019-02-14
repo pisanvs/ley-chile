@@ -32,21 +32,27 @@ R e s u e l v o:
 
 - Laboratorios farmacéuticos de producción de medicamentos veterinarios.
 
-4. Quedan excluidos del requisito de habilitación los establecimientos elaboradores de productos industrializados de origen animal, que presenten sus monografías de proceso, cuyo análisis determine que no representan riesgo sanitario.
+- Establecimientos frigoríficos para carne y productos cárnicos, plantas de desposte.
+
+- Establecimientos productores de miel y huevos con cáscara para consumo humano.
+
+4. Quedan excluidos del requisito de habilitación los establecimientos elaboradores de productos industrializados de origen animal, que presenten sus monografías de proceso, cuyo análisis determine que no representan riesgo sanitario y los laboratorios de producción farmacéutica, que presenten sus memorias descriptivas de plantas y que hayan sido evaluadas satisfactoriamente por el Servicio.
 
 ### 5. Las habilitaciones:
 
-a) Se harán efectivas, mediante resolución por un plazo de dos años y podrán ser revocadas, si cambian las condiciones que le entregaron tal calidad.
+a) Se harán efectivas, mediante resolución por un plazo de dos años y podrán ser revocadas, si cambian las condiciones que le entregaron tal calidad. Para los laboratorios de producción farmacéutica, la habilitación tendrá una vigencia de cinco años.
 
 b) Podrán ser renovadas en una visita de supervisión, o bien podrá delegarse la renovación en las autoridades sanitarias locales.
 
 c) Podrán delegarse en la autoridad sanitaria del país de procedencia, cuando sus Servicios Veterinarios hayan sido previamente evaluados, reservándose el SAG el derecho a supervisar dichas habilitaciones.
 
+d) Una vez transcurrido el período de habilitación otorgado, el Servicio Veterinario deberá solicitar al SAG una visita de renovación de su habilitación. En caso contrario, los establecimientos serán desvinculados del listado oficial para exportar sus productos a Chile.
+
 ### 6. Los costos de las habilitaciones serán de cargo de los interesados
 
-7. Las habilitaciones serán reglamentadas por tipo de establecimiento y producto, de acuerdo al manual respectivo y a las exigencias sanitarias específicas.
+7. Las habilitaciones serán reguladas por resolución exenta del Servicio por tipo de establecimiento y producto, de acuerdo a las exigencias sanitarias específicas.
 
-8. Los establecimientos habilitados tendrán la obligación de reportar cualquier cambio sanitario o metodológico a las autoridades del SAG.
+8. Los establecimientos habilitados tendrán la obligación de reportar al SAG, mediante comunicación oficial de la respectiva autoridad sanitaria del país de origen, cualquier cambio sanitario, metodológico o estructural de los establecimientos.
 
 9. No serán aplicables las disposiciones establecidas en la presente resolución, a los cueros, de cualquier especie animal que hayan sido sometidos a algunos de los procesos siguientes:
 
