@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN EXENTA N° 10, DE 26.12.2018, DEL DEPARTAMENTO DE ADMINISTRACIÓN E INMOBILIARIA, QUE APROBÓ EL CONTRATO DE COMODATO SUSCRITO CON FECHA 16.11.2018, ENTRE LA SUPERINTENDENCIA DE INSOLVENCIA Y REEMPRENDIMIENTO Y EL INSTITUTO DE PREVISIÓN SOCIAL, RESPECTO DE LOS INMUEBLES DE SU PROPIEDAD UBICADOS EN LAS CIUDADES DE ARICA, CONCEPCIÓN, PUERTO MONTT Y PUNTA ARENAS QUE SE DETALLAN EN SU ANEXO, EN EL SENTIDO QUE INDICA
+
+Por resolución exenta I N° 2, de 29 de enero de 2019, el Jefe (S) del Departamento de Administración e Inmobiliaria, modifica la resolución exenta N° 10, de 26.12.2018, que aprobó el contrato de Comodato suscrito con fecha 16.11.2018, entre la Superintendencia de Insolvencia y Reemprendimiento y el Instituto de Previsión Social, respecto de los inmuebles de su propiedad ubicados en las ciudades de Arica, Concepción, Puerto Montt y Punta Arenas, que se detallan en su anexo, en el sentido que indica.
+
+Santiago, 7 de febrero de 2019.- Joaquín Sancho Daza, Jefe (S) Departamento Administración e Inmobiliaria.
