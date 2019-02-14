@@ -1,0 +1,5 @@
+SE APRUEBA EL "CONVENIO DE COLABORACIÓN", ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL SERVICIO DE VIVIENDA Y URBANIZACIÓN, REGIÓN DE TARAPACÁ
+
+Por resolución exenta N° 6, de 17 de enero de 2019, el Director Nacional del Instituto de Previsión Social, aprueba el "Convenio de Colaboración", entre el Instituto de Previsión Social y el Servicio de Vivienda y Urbanización, Región de Tarapacá, cuyo objetivo es autorizar al IPS para acceder a las bases de datos de los programas habitacionales del Ministerio de Vivienda y Urbanismo, para que en los Centros de Atención Previsional Integral del IPS en la Región de Tarapacá, sus funcionarios especialmente habilitados cumplan la labor de recibir a través del sistema Rukan las postulaciones a dicho programa realizadas por los interesados, sin perjuicio de otras tareas que ambas entidades determinen en el marco del mismo sistema y el presente convenio de colaboración, las que en su implementación se someterán a la regulación estipulada en este instrumento y en sus eventuales modificaciones, si éstas fueren necesarias.
+
+Santiago, 7 de febrero de 2019.- Patricio Coronado Rojo, Director Nacional.
