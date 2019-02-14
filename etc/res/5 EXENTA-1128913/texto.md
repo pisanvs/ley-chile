@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LAS LABORES DE "MOVILIZADOR PERMANENTE A BORDO DE NAVE Y EN FAENA EN PUERTO", DESARROLLADAS PARA EL EMPLEADOR "COMPAÑÍA DE SERVICIOS DE MOVILIZACIÓN LTDA."
+
+Por resolución exenta Nº 5, de 16 de enero de 2019, el Director Nacional del Instituto de Previsión Social, califica como Trabajo Pesado, las labores de "Movilizador Permanente a Bordo de Nave y en Faena en Puerto", desempeñadas para el empleador "Compañía de Servicios de Movilización Ltda.", e incorpórense al Listado Oficial de Actividades e Industrias Diversas calificadas como Trabajo Pesado, correspondiendo aplicar una rebaja de edad de 1x5 (un año por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez, con rebaja en la edad.
+
+Santiago, 7 de febrero de 2019.- Patricio Coronado Rojo, Director Nacional.
