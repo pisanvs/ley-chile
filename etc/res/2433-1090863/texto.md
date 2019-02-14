@@ -26,7 +26,7 @@ a. En materia de personal
 
 i. Autorizar destinaciones o cambios de funciones del personal dentro de la Región.
 
-ii. Autorizar trabajos extraordinarios a continuación de la jornada ordinaria, cuando hayan de cumplirse tareas impostergables, pudiendo compensarlo con descanso complementario y si ello no fuera posible por razones de buen servicio, aquellos serán compensados con un recargo en las remuneraciones.
+ii. Dictar resoluciones de habilitación de establecimientos de terceros países para exportar sus productos a Chile y resoluciones de eliminación o suspensión de los mismos establecimientos que incurran en incumplimientos que puedan generar un riesgo para la sanidad animal del país
 
 iii. Contratar, por resolución, a honorarios la prestación de servicios profesionales, técnicos, administrativos u otros.
 
