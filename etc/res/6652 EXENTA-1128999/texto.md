@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6652, de fecha 21 de diciembre de 2018, se ordenó la expropiación parcial, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 407, correspondiente al inmueble ubicado en Independencia 4543 Las Mercedes, Rol de Avalúo N° 2596-11, de la Comuna de Conchalí, Región Metropolitana, de aparente dominio de Díaz Requena Andrés Francisco y otr, con una superficie aproximada de 47,38 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores María Carolina Letelier Bopp, Arquitecto; Patricio Rivera Castro, Ingeniero en Ejecución y Gastón Bravo Hurtado, Ingeniero Civil, mediante Informe de fecha 20 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $24.777.850, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
