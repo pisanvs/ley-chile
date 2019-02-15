@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6.649, de fecha 21 de diciembre de 2018, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote N° 409 A, correspondiente al inmueble ubicado en Independencia 4747, rol de avalúo N° 2599-7, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Sandoval Guzmán Manuel Armando, con una superficie aproximada de 52,21 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del programa "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores María Carolina Letelier Bopp, arquitecto; Patricio Rivera Castro, ingeniero en ejecución y Gastón Bravo Hurtado, ingeniero civil, mediante informe de fecha 20 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $23.699.960, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
