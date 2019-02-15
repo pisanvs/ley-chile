@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6622, de fecha 21 de diciembre de 2018, se ordenó la expropiación parcial, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 381, correspondiente al inmueble ubicado en Independencia 4374, Rol de Avalúo N° 2533-10, de la Comuna de Conchalí, Región Metropolitana, de aparente dominio de Espinoza Querol Sandra del Carme, con una superficie aproximada de 120,64 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Andrés Risso Caamaño, Arquitecto; Patricia Zabala Contreras, Constructor Civil y Carmen Ríos Marcuello, Ingeniero Civil, mediante Informe de fecha 20 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $153.222.000, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
