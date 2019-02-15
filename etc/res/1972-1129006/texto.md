@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.972, de fecha 27 de diciembre de 2018, del Serviu Región de Coquimbo, se ordenó expropiar parcialmente por causa de utilidad pública, conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble denominado Lote A, en plano de expropiación, ubicado en Avenida Costanera s/n, de la comuna de Salamanca, que corresponde a parte del resto de un retazo de terreno de la Chacarilla ubicada en calle Pérez número 794 del pueblo de Salamanca, Rol de Avalúo N° 130-1, de aparente dominio de Claudina Escudero Silva y otros, inscripción aparente de Fojas 163 N° 142 del Registro de Propiedad del año 2017 y a Fojas 1278 N° 1138 del Registro de Propiedad del año 2017, en el Conservador de Bienes Raíces de Illapel, con una superficie aproximada de 1.554,47 metros cuadrados. Comisión de Peritos conformada por profesionales Marcia Aqueveque, Miguel Rubio y Alfredo Prieto, según informe de 10 de diciembre de 2018, fijó indemnización provisional en 209,85 Unidades de Fomento pagadera al contado, equivalentes a $5.784.682 al valor de la Unidad de Fomento del 31.12.2018.-
+
+Director (S) Serviu Región de Coquimbo.
