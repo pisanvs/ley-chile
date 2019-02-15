@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6.630, de fecha 21 de diciembre de 2018, se ordenó la expropiación parcial, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 454, correspondiente al inmueble ubicado en Independencia 5312 El Cortijo, Rol de Avalúo N° 6199-11, de la Comuna de Conchalí, Región Metropolitana, de aparente dominio de Medina Saavedra Edith del Carmen, con una superficie aproximada de 7,57 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Paulina Jadue Zaror, Arquitecto; Douglas Herrera Flores, Constructor Civil y Soledad Herrera Zúñiga, Ingeniero Civil, mediante Informe de fecha 20 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $52.220.216, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
