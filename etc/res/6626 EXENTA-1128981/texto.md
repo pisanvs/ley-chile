@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6.626, de fecha 21 de diciembre de 2018, se ordenó la expropiación parcial, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 468, correspondiente al inmueble ubicado en Independencia 5311; Rol de Avalúo N° 2862-5, de la Comuna de Conchalí, Región Metropolitana, de aparente dominio de Cassaigne Pérez Edgad Edmundo, con una superficie aproximada de 3,95 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Fernando Senerman Mandel, Arquitecto; Karine Acevedo Hinojosa, Constructor Civil y Álvaro Hernán Vergara Mejías, Ingeniero Civil Industrial, mediante Informe de fecha 20 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $16.606.600, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
