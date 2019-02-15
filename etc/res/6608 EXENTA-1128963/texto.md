@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 6.608, de fecha 21 de diciembre de 2018, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 398-A, correspondiente al inmueble ubicado en Av. Independencia 4600, Rol de Avalúo N° 2533-29, de la Comuna de Conchalí, Región Metropolitana, de aparente dominio de Matamala Rojas Rodolfo I., con una superficie aproximada de 396 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Francisca Arenas Stone, arquitecto; Yazmín Balboa Rojas, constructor civil y Sergio Jeremías Órdenes Salinas, ingeniero civil, mediante informe de fecha 20 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $134.730.000, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
