@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6.607, de fecha 21 de diciembre de 2018, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 399, correspondiente al inmueble ubicado en Independencia 4407, Rol de Avalúo N° 2532-8, de la Comuna de Conchalí, Región Metropolitana, de aparente dominio de Saavedra Valladares Juan, con una superficie aproximada de 48,6 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Francisca Arenas Stone, arquitecto; Yazmín Balboa Rojas, constructor civil y Sergio Jeremías Órdenes Salinas, ingeniero civil, mediante informe de fecha 20 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $14.969.000, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
