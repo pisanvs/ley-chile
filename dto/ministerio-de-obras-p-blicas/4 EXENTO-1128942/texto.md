@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 4 de 22 de enero de 2019, se tuvo por desistida la expropiación de los lotes de terreno Nºs 2, 4, 8-1 y 10, ordenada por Decretos MOP Nºs 3157, 3156, 3155 y 3154, todos de 4 de diciembre de 2012, para la obra "Ruta 66 - Camino de La Fruta. Sector 2: Variante Peumo - Las Cabras - El Manzano. Subtramo E", Región del Lib. Gral. Bdo. O'Higgins, comuna de Las Cabras en todos los casos. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7º y 32º del Decreto Ley Nº 2186, de 1978.
