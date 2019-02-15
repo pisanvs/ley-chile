@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6656, de fecha 21 de diciembre de 2018, se ordenó la expropiación parcial, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 403, correspondiente al inmueble ubicado en Independencia 4425 Las Mercedes, Rol de Avalúo N° 2532-12, de la Comuna de Conchalí, Región Metropolitana, de aparente dominio de Munoz Strange Jair y otro, con una superficie aproximada de 54,64 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Francisca Arenas Stone, Arquitecto; Yazmín Balboa Rojas, Constructor Civil y Sergio Jeremías Órdenes Salinas, Ingeniero Civil, mediante Informe de fecha 20 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $24.664.800, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.
+
+Director Serviu Metropolitano.
