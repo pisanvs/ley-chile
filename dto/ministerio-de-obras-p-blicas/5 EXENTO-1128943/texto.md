@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 5 de 22 de enero de 2019, se tuvo por desistida la expropiación de los lotes de terreno Nºs 25-1 y 32-1, ordenada por Decreto MOP Nº 721 de 7 de mayo de 2013, para la obra "Ruta 66 - Camino de La Fruta. Sector 1: Ruta 5 - Puente Peumo. Subtramo E'', Región del Lib. Gral. Bdo. O'Higgins, comuna de San Vicente en ambos casos. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7º y 32º del Decreto Ley Nº 2186, de 1978.
