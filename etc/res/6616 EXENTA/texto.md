@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6.616, de fecha 21 de diciembre de 2018, se ordenó la expropiación parcial, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 391, correspondiente al inmueble ubicado en Independencia 4482, Rol de Avalúo N° 2533-20, de la Comuna de Conchalí, Región Metropolitana, de aparente dominio de Ramírez Dours Pablo Genaro y otro, con una superficie aproximada de 39,18 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Andrés Risso Caamaño, arquitecto; Patricia Zabala Contreras, constructor civil y Carmen Ríos Marcuello, ingeniero civil, mediante informe de fecha 20 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $33.939.400, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
