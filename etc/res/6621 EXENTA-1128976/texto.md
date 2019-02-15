@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6621, de fecha 21 de diciembre de 2018, se ordenó la expropiación parcial, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 384, correspondiente al inmueble ubicado en Independencia 4398, Rol de Avalúo N° 2533-13, de la Comuna de Conchalí, Región Metropolitana, de aparente dominio de Hormazábal Correa Juan, con una superficie aproximada de 99,11 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por los señores Andrés Risso Caamaño, Arquitecto; Patricia Zabala Contreras, Constructor Civil y Carmen Ríos Marcuello, Ingeniero Civil, mediante Informe de fecha 20 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $49.182.800, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
