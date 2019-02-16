@@ -176,6 +176,8 @@ CHANCO:
 
 . El tramo urbano de la Ruta M-50, desde el límite urbano Norte hasta el límite urbano Sur, a través de San Ambrosio y Germán Riesco.
 
+. El tramo urbano de la Ruta M-446 (S/R), desde el límite urbano oriente hasta el límite urbano poniente.
+
 MOLINA:
 
 . El tramo urbano de la Ruta K-25, desde el límite urbano Norte hasta el límite urbano Sur, a través de Quechereguas, Av. Pastor Armando Garrido, Av. Poniente, Av. Sur, Quechereguas y Av. Cementerio.
