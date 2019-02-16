@@ -82,7 +82,7 @@ a- El Sistema Vial Urbano que interconecta las rutas 202 y 206 desde el límite 
 
 b- El tramo urbano de la Ruta 204, desde el límite urbano Norte hasta Av. Ramón Picarte, a través de Av. Nueva Circunvalación. Y su conexión al Norte con Av. Pedro Aguirre Cerda, a través de Av. Nueva Circunvalación y futuro puente.
 
-c- El Sistema Vial Urbano que interconecta las rutas S/R y T-350, desde el límite urbano Norte hasta el límite urbano Poniente, a través de Camino Cabo Blanco, Av. España, Manuel Agüero, Los Lingues y Ruta T-350.
+c- El sistema vial urbano que interconecta las Rutas 202, T-344 y T-350, a través de: Avenida España, Camino Cabo Blanco, Avenida Manuel H. Agüero, Avenida Los Lingues, Camino T-350, Calle Lord Cochrane, Calle De Castellar y Camino Costero, y Calle Antonio Duce, Calle Del Castillo y Calle Del Molino, hasta su intersección con Camino Costero.
 
 d- El tramo urbano de la Ruta T-340, desde el límite urbano Norte hasta Ruta T-350, a través de Ruta 340.
 
