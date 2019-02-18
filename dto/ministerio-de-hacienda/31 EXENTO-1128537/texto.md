@@ -20,6 +20,8 @@ Decreto:
 
 Reactualízanse en un 1,9% las cantidades expresadas en centavos de dólar de los Estados Unidos de Norteamérica que conforman las escalas contenidas en los artículos 23 y 34 N° 2, letra c) de la Ley sobre Impuesto a la Renta según la última actualización dispuesta por el decreto supremo N° 35, de fecha 30 de enero de 2018, del Ministerio de Hacienda, quedando dichas escalas con los siguientes tramos:
 
+a) Escala del artículo 23:
+
 1% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, no excede de 316,57 centavos de dólar por libra;
 
 2% si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 316,57 centavos de dólar por libra y no sobrepasa de 407,06 centavos de dólar por libra; y
