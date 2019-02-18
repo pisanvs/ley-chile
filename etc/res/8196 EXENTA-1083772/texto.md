@@ -24,7 +24,7 @@ a. Abeja melífera: insecto himenóptero perteneciente a la familia apidae, vive
 
 b. Actividad apícola: conjunto de manejos, tecnologías y acciones sistemáticas que permitan obtener y consumir los productos de la colmena.
 
-c. Apiario: conjunto de colmenas, pertenecientes a uno o varios apicultores, instaladas en un mismo asentamiento.
+c. Apiario: lugar donde se encuentra un conjunto de colmenas, que comparten una misma área de pecoreo, perteneciente a un apicultor, y que funciona como una unidad operativa básica de producción, independiente de su especialización.
 
 d. Apicultor: aquel que es dueño de colmenas y que desarrolla actividad apícola.
 
@@ -34,7 +34,7 @@ f. Formulario de Registro de Apicultores y Declaración de Apiarios: documento q
 
 g. Sistema de Información Pecuaria Oficial: corresponde a un Sistema de Información Oficial, de carácter nacional, en el cual se ingresan, almacenan y administran los registros del Programa de forma continua. La información se obtiene mediante formularios en papel o en funcionalidad electrónica.
 
-h. Trashumancia: movimiento de colmenas entre un apiario y otro.
+h. Trashumancia: movimiento de colmenas con fines productivos entre un apiario y otro, en una época y en un territorio determinado.
 
 2. Los apicultores deberán registrarse en cualquier oficina del Servicio declarando sus apiarios y colmenas, mediante el Formulario de Registro de Apicultores y Declaración de Apiarios, el cual, para esta especie, reemplazará al Formulario de Inscripción de Establecimientos (FIE).
 
@@ -46,8 +46,10 @@ h. Trashumancia: movimiento de colmenas entre un apiario y otro.
 
 3.3. El Servicio por razones sanitarias podrá registrar todos los apiarios que requiera identificar, debiendo completar el Formulario de Registro de Apicultores y Declaración de Apiarios sin la firma del apicultor.
 
-4. Los apicultores registrados deberán efectuar la declaración de existencia de sus apiarios en el mes de octubre de cada año, en cualquier oficina del Servicio, mediante formato papel o por medio de la funcionalidad electrónica del Sistema de Información Pecuaria Oficial.
+4. Los apicultores registrados deberán efectuar la declaración de existencia de sus apiarios en el mes de octubre de cada año, mediante formato papel en cualquier oficina del Servicio o por medio de la funcionalidad electrónica del Sistema de Información Pecuaria Oficial. No obstante, el apicultor deberá actualizar su declaración cada vez que incorpore o elimine un apiario, dentro del período de vigencia.
 
-5. Las infracciones a la presente resolución serán sancionadas según lo establecido en el DFL RRA Nº 16, de 1963, del Ministerio de Hacienda, de acuerdo al procedimiento establecido en la ley Nº 18.755.
+5. Aquellos apicultores que realicen servicio de polinización, deberán llevar un registro de control interna de todos los movimientos de sus colmenas, en el cual indique a lo menos: la identificación del o los apiarios de donde provienen las colmenas ocupadas para este servicio, región, comuna, localidad, fecha de inicio y fecha de término de la polinización. Este registro debe estar disponible cuando el Servicio lo requiera y debe tener información de a lo menos un año hacia atrás.
+
+6. Las infracciones a la presente resolución serán sancionadas según lo establecido en el DFL RRA Nº 16, de 1963, del Ministerio de Hacienda, de acuerdo al procedimiento establecido en la ley Nº 18.755.
 
 Anótese, comuníquese y publíquese.- Ángel Sartori Arellano, Director Nacional Servicio Agrícola y Ganadero.
