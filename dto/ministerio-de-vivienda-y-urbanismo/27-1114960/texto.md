@@ -1462,21 +1462,11 @@ TÍTULO FINAL
 
 <!-- parte:9885413 -->
 
-Derógase el DS N° 255 (V. y U.), de 2006, a partir de la fecha de publicación del primer llamado a postulación que se realice de conformidad a las normas del presente decreto.
-
-No obstante lo anterior, las disposiciones del DS N° 255 (V. y U.), de 2006, se mantendrán vigentes para los llamados y actuaciones efectuadas conforme a sus disposiciones, las que continuarán aplicándose hasta su total extinción.
-
-Sin embargo, las menciones que al DS N° 255 (V. y U.), de 2006, se contengan en otras disposiciones, decretos, oficios, circulares, instrucciones o cualquier otro instrumento, se entenderán referidas al presente Reglamento.
+Derogado.
 
 DISPOSICIONES TRANSITORIAS
 
-#### Artículo primero transitorio
-
-<!-- parte:9885415 -->
-
-Los proyectos calificados durante el último llamado efectuado en virtud de lo dispuesto en el DS N° 255 (V. y U.), de 2006, podrán mantener dicha calificación hasta por dos llamados que se realicen conforme a las normas del Reglamento que se aprueba por el presente decreto, salvo que el grupo organizado conjuntamente con el Prestador de Servicios de Asistencia Técnica o Entidad Patrocinante, desistan por escrito ante el Serviu respectivo de acogerse a este artículo. Los Tipos de Proyectos serán homologados a los correspondientes a este nuevo Reglamento y sus condiciones serán definidas por resolución del Ministro de Vivienda y Urbanismo.
-
-#### Artículo segundo transitorio
+#### Artículo único transitorio
 
 <!-- parte:9885416 -->
 
