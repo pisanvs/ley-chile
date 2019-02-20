@@ -984,6 +984,8 @@ ZAV-1 Area Verde, Seccional Costa Dorada
 
 ZAVP Area Verde Parque
 
+ZAVP-1
+
 ZHT Hotelería Turística
 
 ZHTA Zona turística, sin hotel.
@@ -2065,6 +2067,12 @@ H: Estacionamientos mínimos : 1/viv.
 Condiciones de Subdivisión Predial :
 
 A. Superficie predial mínima : 1.000 m2
+
+Polígono Modificación ZAVP-1
+
+Zona ZAVP-1 - Parque Comunal Punta Peñablanca y Leoncillo.
+
+NORMAS URBANÍSTICAS DE LA ZONA PARQUE COMUNAL PUNTA PEÑABLANCA Y LEONCILLO
 
 Zona AV-1 Zona de Areas Verdes Sec. Costa Dorada.
 
