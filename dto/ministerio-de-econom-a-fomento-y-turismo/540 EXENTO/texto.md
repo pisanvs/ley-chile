@@ -4,7 +4,7 @@ Núm. 540 exento.- Santiago, 27 de diciembre de 2018.
 
 Visto:
 
-Lo dispuesto en el DFL Nº 88, de 1953, del Ministerio de Hacienda; la ley Nº 21.053, Ley de Presupuestos del Sector Público del año 2019; ley Nº 17.374, que Crea al Instituto Nacional de Estadísticas; decreto Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
+Lo dispuesto en el DFL Nº 88, de 1953, del Ministerio de Hacienda; la ley Nº 21.053, Ley de Presupuestos del Sector Público del año 2018; ley Nº 17.374, que Crea al Instituto Nacional de Estadísticas; decreto Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
 
 Considerando:
 
