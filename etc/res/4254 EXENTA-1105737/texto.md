@@ -50,6 +50,8 @@ e) Efectuar la venta de anabólicos con fines de promoción del crecimiento (dis
 
 f) Efectuar la venta al detalle (total o parcial) de los anabólicos con fines de promoción del crecimiento, sólo a los predios autorizados por el Servicio, de acuerdo a la prescripción emitida por los médicos veterinarios, registrando la siguiente información: producto, presentación, número de unidades, número de serie, fecha de vencimiento, RUP del predio, RUN y nombre de la persona natural que retira los productos, número y fecha de guía de despacho o número y fecha de factura.
 
+g) El expendio de los anabólicos con fines de promoción del crecimiento deberá ser efectuado personalmente por el profesional que ejerza la dirección técnica del establecimiento, de acuerdo a lo dispuesto en el DS N° 25, de 2005, del Ministerio de Agricultura, que aprueba el reglamento de productos farmacéuticos de uso exclusivamente veterinario o la normativa que lo reemplace.
+
 3.3. Exigencias comunes para establecimientos importadores y de expendio:
 
 a) Emitir las guías de despacho o facturas en forma separada del resto de los medicamentos veterinarios y mantenerlas disponibles para la fiscalización del Servicio.
@@ -62,31 +64,35 @@ a) Realizar la inscripción como médico veterinario en el sitio web institucion
 
 b) Efectuar la prescripción de los anabólicos con fines de promoción del crecimiento sólo para aquellos predios autorizados por el Servicio, consignando la siguiente información: RUP del predio, producto y cantidad de dosis. La receta tendrá una validez limitada de 30 días corridos a partir de la fecha de emisión.
 
-c) La prescripción de sucesivas recetas para un mismo predio (RUP) debe ser emitida no antes de 30 días corridos posterior a la última compra.
+c) La prescripción de sucesivas recetas para un mismo predio (RUP) debe ser emitida no antes de 30 días corridos posterior a la última compra. No obstante, se podrá prescribir una nueva receta en un plazo menor al antes indicado, cuando el titular del predio cuente con autorización de la oficina SAG correspondiente a la ubicación del predio.
 
 d) La prescripción de anabólicos con fines de promoción del crecimiento, no debe superar la cantidad de bovinos presentes en el predio y registrados en Sistema de Información Pecuaria Oficial, al momento de la prescripción de la receta.
 
-5. El titular del predio interesado en usar anabólicos con fines de promoción del crecimiento, debe cumplir las siguientes obligaciones:
+5. El titular del predio interesado en comprar y usar anabólicos con fines de promoción del crecimiento, deberá estar autorizado previamente por el Servicio, para cuyo efecto deberá cumplir las siguientes exigencias:
 
-a) Presentar una solicitud de autorización para la compra y uso de anabólicos con fines de promoción del crecimiento, en la oficina sectorial SAG correspondiente a su jurisdicción o a través de su funcionalidad electrónica en el Sistema de Información Pecuaria Oficial.
+a) Presentar una solicitud de autorización para la compra y uso de anabólicos con fines de promoción del crecimiento, en la oficina sectorial SAG correspondiente a su jurisdicción.
 
 b) Poseer clave en el Sistema de Información Pecuaria Oficial.
 
-c) Mantener actualizado en el Sistema de Información Pecuaria Oficial todos los bovinos del predio, esto significa que los DIIO de los bovinos presentes en el predio debe coincidir con los registrados en el Sistema de Información Pecuaria Oficial, al momento de presentar la solicitud.
+c) Mantener actualizado en el Sistema de Información Pecuaria Oficial todos los bovinos del predio, esto significa que los DIIO de los bovinos presentes en el predio debe coincidir con los registrados en el Sistema de Información Pecuaria Oficial.
 
-d) Utilizar sólo Formulario de Movimiento Animal en modalidad electrónica para la salida de los animales del predio.
+d) Utilizar Formulario de Movimiento Animal en modalidad electrónica para la salida de los animales del predio. No obstante, excepcionalmente el Servicio podrá autorizar al titular de un predio el uso de Formularios de Movimiento Animal en soporte papel cuando no exista conectividad en el predio.
 
 e) Presentar una declaración jurada simple, indicando que se compromete a cumplir con las exigencias contenidas en la presente resolución y sus actualizaciones.
 
-6. Los predios autorizados por el Servicio para comprar y usar anabólicos con fines de promoción del crecimiento en bovinos, se identificarán de por vida en el Sistema de Información Pecuaria Oficial, como RUP uso anabólico y DIIO uso anabólico, información que podrá ser publicada por el Servicio.
+6. Los predios autorizados por el Servicio para comprar y usar anabólicos con fines de promoción del crecimiento en bovinos, se identificarán en el Sistema de Información Pecuaria Oficial como predio (RUP) uso anabólico, y los animales como animal bovino (DIIO), de por vida, información que podrá ser publicada por el Servicio.
 
-7. El titular del predio autorizado sólo debe usar anabólicos con fines de promoción del crecimiento registrados en el Servicio, bajo las condiciones de uso aprobadas y respetar los periodos de resguardo autorizados.
+7. El titular del predio autorizado sólo deberá usar anabólicos con fines de promoción del crecimiento registrados en el Servicio, bajo las condiciones de uso aprobadas, respetar los periodos de resguardo y cumplir con las demás exigencias en relación a la tenencia y uso de los medicamentos, establecidas en el DS N° 25, de 2005, que aprueba el reglamento de productos farmacéuticos de uso exclusivamente veterinario o en la normativa que lo reemplace.
 
-8. Aquellos predios que registren compras de anabólicos, desde el 1 de enero de 2016 hasta la entrada en vigencia de la presente Resolución, quedarán automáticamente registrados como RUP uso anabólico y DIIO uso anabólico en el Sistema de Información Pecuaria Oficial. El titular del predio sólo podrá realizar compras de anabólicos cumpliendo con las obligaciones señaladas en el numeral 5.
+Para garantizar el cumplimiento del periodo de resguardo y demostrar una correlación entre el producto comprado y las dosis aplicadas en el predio, el titular deberá mantener un registro en que se identifique por número de DIIO los animales bovinos a los cuales se les ha aplicado tratamiento, sea que estos se mantengan de manera individual o por lotes (grupos).
 
-9. Aquellos predios autorizados por el Servicio para compra y uso de anabólicos con fines de promoción del crecimiento, quedarán inhabilitados para solicitar la certificación de exportación de bovinos y sus productos a los mercados que exijan no uso de anabólicos con fines de promoción del crecimiento.
+8. Aquellos predios que registren compras de anabólicos, desde el 1 de enero de 2016 hasta la entrada en vigencia de la presente Resolución, quedarán identificados en el Sistema de Información Pecuaria Oficial como predio (RUP) uso anabólico y los animales como animal bovino (DIIO) uso anabólico. Los titulares de estos predios no podrán comprar y utilizar anabólicos en sus animales bovinos mientras no den cumplimiento a lo dispuesto en el numeral 5 de la presente resolución.
 
-10. El titular del predio podrá solicitar al Servicio dejar sin efecto su autorización para la compra y uso de anabólicos con fines de promoción del crecimiento cumpliendo los siguientes requisitos:
+9. El titular de un predio autorizado por el Servicio para comprar y usar anabólicos con fines de promoción del crecimiento en bovinos, mantendrá vigente la autorización mientras dé cumplimiento a las exigencias establecidas en las letras b), c) y d) del numeral 5, y numeral 7 de esta resolución. En caso de no dar cumplimiento el Servicio podrá dejar sin efecto la autorización otorgada, por el período de 1 año.
+
+10. Aquellos predios autorizados por el Servicio para compra y uso de anabólicos con fines de promoción del crecimiento, quedarán inhabilitados para solicitar la certificación de exportación de bovinos y sus productos a los mercados que exijan no uso de anabólicos con fines de promoción del crecimiento.
+
+11. El titular del predio podrá solicitar al Servicio dejar sin efecto su autorización para la compra y uso de anabólicos con fines de promoción del crecimiento cumpliendo los siguientes requisitos:
 
 a) Presentar una solicitud de retiro para compra y uso de anabólicos con fines de promoción del crecimiento, en la oficina sectorial SAG correspondiente a su jurisdicción.
 
@@ -96,20 +102,20 @@ c) No registrar compras de anabólicos con fines de promoción del crecimiento d
 
 d) Realizar una declaración jurada del titular ante notario, indicando que no registra saldo de anabólicos en su predio y que no utilizará anabólicos con fines de promoción del crecimiento en sus bovinos.
 
-11. El Servicio determinará las acciones adicionales requeridas para aceptar o rechazar la solicitud mencionada en el numeral 10 y procederá a eliminar la condición RUP uso anabólico y DIIO uso anabólico en el Sistema de Información Pecuaria Oficial, si corresponde.
+12. El Servicio determinará las acciones adicionales requeridas para aceptar la solicitud mencionada en el numeral 11. Una vez aceptada la solicitud se eliminará del Sistema de Información Pecuaria Oficial la condición de predio (RUP) uso anabólico, pero los animales registrados en él hasta ese momento, se mantendrán como usadores de anabólicos de por vida. Los nuevos nacimientos y nuevos ingresos no quedarán registrados en el Sistema como animales bovinos (DIIO) usadores de anabólicos.
 
-12. El Servicio certificará bovinos y sus productos de predios que no hayan utilizado anabólicos con fines de promoción del crecimiento, posterior a 6 meses desde la entrada en vigencia de la presente resolución.
+13. El Servicio certificará bovinos y sus productos de predios que no hayan utilizado anabólicos con fines de promoción del crecimiento, posterior a 6 meses desde la entrada en vigencia de la presente resolución.
 
-13. Prohíbese el uso de anabólicos con fines de promoción del crecimiento en bovinos que se crían en la Región de Magallanes y Antártica Chilena y en los Planteles de Animales Bajo Certificación Oficial, PABCO.
+14. Prohíbese el uso de anabólicos con fines de promoción del crecimiento en bovinos que se crían en la Región de Magallanes y Antártica Chilena y en los Planteles de Animales Bajo Certificación Oficial, PABCO Bovino.
 
-14. Prohíbese el movimiento de bovinos con DIIO uso anabólico hacia la Región de Magallanes y Antártica Chilena y a los Planteles de Animales Bajo Certificación Oficial, PABCO.
+15. Prohíbese el movimiento de bovinos con DIIO uso anabólico hacia la Región de Magallanes y Antártica Chilena y a los Planteles de Animales Bajo Certificación Oficial, PABCO Bovino.
 
-15. Si un predio bovino utiliza anabólicos con fines de promoción del crecimiento y no está autorizado por el Servicio, éste será identificado en el Sistema de Información Pecuaria Oficial como RUP uso anabólico y DIIO uso anabólico.
+16. Si se detecta que el titular de un predio bovino compra o utiliza anabólicos con fines de promoción del crecimiento sin estar previamente autorizado por el Servicio, el predio será identificado en el Sistema de Información Pecuaria Oficial como predio RUP uso anabólico y cada animal presente en él como animal bovino (DIIO) uso anabólico de por vida, sin perjuicio de las sanciones que proceda aplicar.
 
-16. Cualquier infracción a las disposiciones de la presente resolución, se sancionará de acuerdo a lo dispuesto en el DFL RRA N°16, de 1963, del Ministerio de Hacienda, sobre Sanidad y Protección Animal, y conforme al procedimiento establecido en la Ley Nº 18.755, Orgánica del Servicio Agrícola y Ganadero.
+17. Cualquier infracción a las disposiciones de la presente resolución, se sancionará de acuerdo a lo dispuesto en el DFL RRA N°16, de 1963, del Ministerio de Hacienda, sobre Sanidad y Protección Animal, y conforme al procedimiento establecido en la Ley Nº 18.755, Orgánica del Servicio Agrícola y Ganadero.
 
-17. Lo dispuesto en la presente resolución comenzará a regir 30 días corridos con posterioridad a su publicación en el Diario Oficial.
+18. Lo dispuesto en la presente resolución comenzará a regir 30 días corridos con posterioridad a su publicación en el Diario Oficial.
 
-18. Derógase la resolución de este Servicio N° 19, de 2017, que deroga resolución N° 6.972, de 2013, y establece prohibición que indica.
+19. Derógase la resolución de este Servicio N° 19, de 2017, que deroga resolución N° 6.972, de 2013, y establece prohibición que indica.
 
 Anótese, notifíquese y publíquese.- Óscar Humberto Camacho Inostroza, Director Nacional (S), Servicio Agrícola y Ganadero.
