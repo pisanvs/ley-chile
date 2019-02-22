@@ -28,19 +28,19 @@ Resuelvo:
 
 2.- Prohíbase la circulación de todo tipo de vehículos motorizados en Ruta G-455 (Embalse El Yeso), en los sentidos de tránsito (subida-bajada) y horarios que se indican en el siguiente cuadro:
 
-Sentido Horario
+SENTIDO HORARIO
 
-Subida 06:00 a 14:00 horas
+Subida 15:00 a 21:00 horas
 
-Bajada 15:00 a 21:00 horas
+Bajada 06:00 a 14:00 horas
 
 3.- Prohíbase la circulación de todo tipo de vehículos motorizados en Ruta G-355 (Camino a Lagunillas) en los sentidos de tránsito (subida-bajada) y horarios que se indican en el siguiente cuadro:
 
-Sentido Horario
+SENTIDO HORARIO
 
-Subida 06:00 a 14:00 horas
+Subida 15:00 a 21:00 horas
 
-Bajada 15:00 a 21:00 horas
+Bajada 06:00 a 14:00 horas
 
 4.- Podrán circular excepcionalmente en las vías señaladas, durante el período y horarios señalados en las prohibiciones anteriores, los vehículos de emergencia, los destinados o autorizados por la Dirección de Vialidad y el municipio de San José de Maipo, para cumplir funciones en dichas rutas; los pertenecientes a recintos o establecimientos, debidamente autorizados, situados en dichas rutas y, los correspondientes a residentes.
 
