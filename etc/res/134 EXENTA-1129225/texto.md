@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 134 EXENTA, DE 29 DE ENERO DE 2019
+
+Por resolución exenta Nº 134, de 29 de enero de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Libertador General Bernardo O'Higgins, se autorizó el funcionamiento del Terminal No Urbano para servicios de locomoción colectiva prestado mediante buses, ubicado en calle Pacífico Marín Nº 67, Paniahue, de la comuna de Santa Cruz, Región del Libertador General Bernardo O'Higgins, cuya propiedad corresponde a la Sociedad Inmobiliaria e Inversiones R y T Ltda. El recinto señalado precedentemente deberá dar cumplimiento a lo establecido en el decreto exento alcaldicio Nº 1.242, de 3 de diciembre de 2008, de la I. Municipalidad de Santa Cruz, que aprobó la Ordenanza Municipal de Terminales de Locomoción Colectiva No Urbana. Manténgase el presente documento en lugar visible en el terminal, para cuando sea requerido por las autoridades competentes.-
+
+Hans González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Libertador General Bernardo O'Higgins.
