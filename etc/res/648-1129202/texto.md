@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO SUPLENTE EN TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE SANTIAGO
+
+Por Resolución SII Nº 648, de 18 febrero de 2019, se designó a don Rodrigo Andrés Valdés Molina, RUT Nº 10.335.838-8, como Secretario Suplente en el Tribunal Especial de Alzada de los Bienes Raíces de la segunda serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Santiago.
