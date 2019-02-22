@@ -132,7 +132,7 @@ Acceso => Ruta 148 y O 50-Bonilla-Rotonda Bonilla-
 
 J.M. García-C. Henríquez-Terminal.
 
-c) Terminal Tur Bus de Chiguayante
+c) Terminal Tur Bus de
 
 Salida => Terminal-O'Higgins-P. Valdivia-A. Prat-
 
@@ -208,7 +208,7 @@ Acceso => Ruta 150-Rotonda Bonilla-J.M. García-C.
 
 Henríquez-Terminal.
 
-c) Terminal Tur Bus de Chiguayante
+c) Terminal Tur Bus de
 
 Salida => Terminal-O'Higgins-P. Valdivia-A. Prat-
 
@@ -224,25 +224,21 @@ Cruz-A. Prat-P. Valdivia-O'Higgins-
 
 Terminal.
 
-d) Terminal Jota Ewert y recintos habilitados
+d) Terminal Jota Ewert y recintos habilitados sector
 
-sector Ejército.
+Ejército.
 
-Salida => Terminal/recintos habilitados - M.
+Salida => Terminal/recintos habilitados - M. Rodríguez
 
-Rodríguez - Serrano - Chacabuco -
+- Av. Padre Hurtado - Av. Chacabuco - Av. Roosevelt -
 
-Roosevelt - Irarrázaval - Rotonda
+Av. San Juan Bosco - Rotonda Bonilla - Ruta 150.
 
-Bonilla - Ruta 150.
+Acceso => Ruta 150 - Rotonda Bonilla - Av. San Juan
 
-Acceso => Ruta 150 - Rotonda Bonilla -
+Bosco - Av. Los Carrera - Colo Colo - M. Rodríguez -
 
-Irarrázaval - Los Carrera - Colo
-
-Colo - M. Rodríguez - Terminal/
-
-recintos habilitados.
+Terminal/recintos habilitados.
 
 e) Recinto Habilitado de Vega Monumental
 
