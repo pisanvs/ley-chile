@@ -58,7 +58,7 @@ c) Asignación por Fallecimiento: Se concederá por fallecimiento del afiliado o
 
 En caso de fallecimiento del afiliado, esta ayuda se prestará en el siguiente orden de precedencia:
 
-1. Al cónyuge sobreviviente;
+1. Al cónyuge o conviviente civil sobreviviente;
 
 2. A sus hijos;
 
@@ -76,6 +76,8 @@ f) Asignación por Vacaciones: Se otorgará una vez al año, siempre que existan
 
 g) Ayudas Escolares: Bienestar podrá otorgar ayudas escolares especiales al afiliado o a cualquiera de sus cargas familiares acreditadas, que se encuentren realizando estudios de educación diferencial o trastorno de aprendizaje en establecimientos estatales o reconocidos por el Estado, y que acrediten una situación socioeconómica deficitaria, calificada por un Asistente Social de la Institución.
 
+h) Asignación por Acuerdo de Unión Civil: se concederá una asignación a cada afiliado que contraiga el Acuerdo de Unión Civil. Si ambos contrayentes fueran afiliados, se concederá la asignación a cada uno de ellos.
+
 #### Artículo 5º
 
 El Servicio podrá adquirir a través de la Dirección de Previsión de Carabineros de Chile, bienes o mercaderías para venderlas a sus afiliados, en las condiciones y plazos que determine el Consejo Administrativo.
@@ -90,7 +92,7 @@ De los préstamos
 
 #### Artículo 7º
 
-El Servicio podrá otorgar préstamos reajustables a sus afiliados, cuando sus recursos lo permitan, hasta por los montos máximos que fije anualmente el Consejo, debiendo servirse la respectiva deuda en un plazo no mayor a 10 meses, fundado en las causales que se indican a continuación:
+El Servicio podrá otorgar préstamos noreajustables a sus afiliados, cuando sus recursos lo permitan, hasta por los montos máximos que fije anualmente el Consejo, debiendo servirse la respectiva deuda en un plazo no mayor a 10 meses, fundado en las causales que se indican a continuación:
 
 a) Préstamos Médicos: Se podrán otorgar como complemento de los beneficios de orden médico y dental que se concede a los afiliados.
 
@@ -102,7 +104,7 @@ d) Préstamos por Nacimiento: Se podrá otorgar un préstamo para atender los ga
 
 e) Préstamos Personales: Se podrán otorgar con el objeto de propender al mejoramiento de las condiciones familiares de los afiliados.
 
-f) Préstamos de Auxilio: Se podrá otorgar ante problemas socioeconómicos graves y otras causas justificadas, calificadas por el Consejo Administrativo, previo informe del Servicio Social de la Institución.
+f) Préstamos de auxilio: se podrá otorgar para apoyar al funcionario ante problemas socioeconómicos graves para mejorar su calidad de vida
 
 g) Préstamo por Fallecimiento: Se podrá otorgar ante el fallecimiento de parientes que tengan la calidad de carga familiar reconocida o parentesco directo, tales como padres, cónyuge, hijos y hermanos.
 
@@ -142,7 +144,7 @@ Bienestar administrará todos los servicios dependientes, quedando facultado el 
 
 #### Artículo 13º
 
-El Servicio podrá, cuando sus recursos económicos lo permitan, financiar y organizar la celebración de Fiestas Patrias, de Navidad y de Año Nuevo, para los afiliados y sus causantes de asignación familiar.
+El Servicio podrá, cuando sus recursos económicos lo permitan, financiar y organizar la celebración de Fiestas Patrias, de Navidad y de Año Nuevo, para los afiliados y sus causantes de asignación familiar. Los afiliados que deseen asistir a la fiesta de Navidad acompañados de familiares distintos a sus cargas familiares reconocidas, deberán pagar los costos asociados a la incorporación de dichos acompañantes, por no ser estos últimos beneficiarios del Servicio de Bienestar
 
 ## Título III
 
@@ -176,7 +178,7 @@ Los suplentes reemplazarán a los titulares de acuerdo al orden que resulte de l
 
 El Consejo sesionará ordinariamente cada tres meses y extraordinariamente cuando proceda en conformidad al Reglamento General. En las sesiones extraordinarias sólo podrán tratarse las materias determinadas en la convocatoria o en el acuerdo que las origine.
 
-Las citaciones a las sesiones del Consejo, las hará el Jefe del Servicio de Bienestar; para las sesiones ordinarias, mediante comunicación interna que enviará a las dependencias en que presten servicios sus integrantes y tratándose de sesiones extraordinarias, se comunicará por el medio más rápido (fax, email, teléfono, etc.), con un mínimo de 24 horas a la fecha de su realización. En ambas citaciones se indicará el día, lugar, hora y objeto de la reunión.
+Las citaciones a las sesiones del Consejo, las hará el Jefe del Servicio de Bienestar; para las sesiones ordinarias y extraordinarias, mediante correo electrónico que se enviarán a las direcciones de correo de los integrantes, con un mínimo de 24 horas antes a la fecha de su realización. En ambos casos, se indicará el día, lugar, hora y objeto de la reunión.
 
 ## Título IV
 
