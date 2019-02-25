@@ -36,6 +36,10 @@ Declárase Monumento Nacional en la categoría de Monumento Histórico al "Paso 
 
 El área protegida tiene una superficie aproximada de 3.764.588,65 mts. 2, como se grafica en el polígono con las letras A-B-C-D-E-A, del plano adjunto, que forma parte del presente decreto y cuyos límites son los siguientes:
 
+.
+
+> **Nota.** El artículo 1° del decreto 7, Cultura, publicado el 25.02.2019, modifica la presente norma en el sentido de indicar que el nuevo sitio abarca una superficie total de 5.123.849 metros cuadrados (512,38 hectáreas), como se grafica en el plano N° 006-2018.
+
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Nicolás Eyzaguirre Guzmán, Ministro de Educación.
 
 Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Valentina Karina Quiroga Canahuate, Subsecretaria de Educación.
