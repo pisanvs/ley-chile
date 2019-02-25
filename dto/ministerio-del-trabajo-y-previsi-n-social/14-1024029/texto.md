@@ -10,11 +10,9 @@ Considerando:
 
 Decreto:
 
-1.- El Programa Bono de Capacitación para Micro y Pequeños Empresarios, considera acciones de capacitación que permitan mejorar la competitividad y la productividad de las Micro y Pequeñas Empresas a través de una capacitación focalizada y práctica para sus dueños, socios y/o representantes legales.
+1.- El Programa Bono de Capacitación para Micro y Pequeños Empresarios considera la ejecución de acciones que permitan a los dueños, socios, representantes legales y trabajadores de micro y pequeñas empresas, a través de la capacitación, mejorar las competencias y la competitividad de sus empresas, entendiéndose por tales las definidas en la ley N° 20.416, que fija normas especiales para las Empresas de Menor Tamaño.
 
-Entendiéndose por tales empresas, las definidas en la ley Nº 20.416, que establece la categoría en que se encuentran las empresas de menor tamaño. Este programa será gestionado por el Servicio Nacional de Capacitación y Empleo, en adelante "SENCE", conforme a sus procedimientos propios y a la línea de acción que se detalla a continuación.
-
-2.- El programa consiste en la entrega de un bono de capacitación al dueño, socios y/o representantes legales de las microempresas y pequeñas empresas, en adelante "beneficiarios".
+2.- El Programa consiste en la entrega de un bono de capacitación a los beneficiarios definidos en el numeral 5 del presente decreto.
 
 El bono podrá financiar total o parcialmente acciones de capacitación a elección del beneficiario.
 
@@ -26,29 +24,31 @@ Este bono de capacitación podrá ser compatible con otros beneficios que entreg
 
 a) Programa de capacitación: Se podrá contratar acciones de capacitación mediante metodologías presenciales, semipresenciales y/o e-learning, o a través de una combinación de ellas. Los componentes del programa podrán contemplar entre otros, orientación, acompañamiento y apoyo técnico. El número de horas de los cursos y la distribución regional de éstos, serán determinados por instrucciones generales dictadas por el Director Nacional de SENCE.
 
-b) El SENCE financiará del valor de la acción de capacitación hasta la suma de $400.000.- (cuatrocientos mil pesos) por beneficiario. Excepcionalmente se podrá establecer un mayor valor por acción de capacitación, previa autorización por resolución fundada del Director Nacional, el que no podrá ser superior a $500.000.- (quinientos mil pesos).
+b) El Sence financiará el valor de la acción de capacitación hasta la suma de $600.000 (seiscientos mil pesos) por beneficiario.
 
-c) El curso de capacitación a elegir por el beneficiario deberá ser impartido por Organismos Técnicos de Capacitación inscritos en el registro que lleva al efecto SENCE.
+c) La ejecución de este Programa podrá realizarse por medio de personas jurídicas que, de acuerdo con el artículo 12 de la ley N° 19.518, pueden ser Organismos Técnicos de Capacitación, sin que sea necesario que las Universidades, Institutos Profesionales y Centros de Formación Técnica se registren en los términos establecidos en los artículos 19 y 21 de la ley indicada.
 
-El SENCE pagará a los Organismos Técnicos de Capacitación, de acuerdo a los parámetros que se establezcan en las instrucciones generales dictadas por el Director Nacional.
+El Sence pagará a los organismos ejecutores de acuerdo con las condiciones que al efecto se establezcan en instrucciones generales dictadas por el Director Nacional.
 
 d) Podrá contemplar los beneficios establecidos en el artículo 70 de la ley Nº 19.518.
 
-4.- Con el objeto de propender a la pertinencia y calidad de los cursos que sean elegidos por los beneficiarios del Bono de Capacitación, SENCE pondrá a disposición de los mismos, un conjunto de Organismos Técnicos de Capacitación, los cuales deberán estar inscritos en el Registro Nacional establecido en el artículo 19 de la ley Nº 19.518, pudiendo ser elegibles cursos de capacitación que se ofrezcan al público en general y cuenten con código SENCE vigente para el curso en cuestión. Además, con el objeto de ampliar la oferta de cursos elegibles, el SENCE podrá recurrir, para seleccionar a los Organismos Técnicos de Capacitación, a lo establecido en la ley Nº 19.886 de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios.
+4.- Sence para la ejecución del programa, pondrá a disposición de los beneficiarios un listado de organismos ejecutores y cursos. Para la selección de organismos ejecutores y cursos, el Sence podrá recurrir a los procedimientos de concurso o licitación pública, regulados en la ley N° 19.886 o en otras leyes.
 
-Dentro de la oferta se deberá contemplar un 20% para cursos de Seguridad Laboral.
+Dentro de la oferta se podrá contemplar un 20% para cursos de Seguridad Laboral.
 
-5.- Serán beneficiarios del Programa Bono de Capacitación para Micro y Pequeños Empresarios:
-
-Los dueños, socios y/o representantes legales de Micro y Pequeñas Empresas, según lo establecido por la ley Nº 20.416 que fija normas especiales para las Empresas de Menor Tamaño, que tengan iniciación de actividades ya sea como persona natural o jurídica.
+5.- Serán beneficiarios del Programa Bono de Capacitación para Micro y Pequeños Empresarios, los dueños, socios, representantes legales y trabajadores de Micro y Pequeñas Empresas, según lo establecido por la ley N° 20.416, que fija normas especiales para las Empresas de Menor Tamaño.
 
 6.- De acuerdo con lo establecido en el artículo 85 Nº 5 de la ley 19.518, el Director Nacional del SENCE está facultado para "Celebrar los actos y contratos, impartir las instrucciones de carácter general y obligatorio, así como adoptar todas las resoluciones y providencias que sean necesarias para el cumplimento de los fines del Servicio y su buena marcha administrativa". En uso de las facultades señaladas, el Director Nacional dictará al efecto una o más instrucciones de carácter general aprobadas por resolución, fijando los procedimientos a seguir, forma de postulación, tipo de subsidios y selección de los beneficiarios del programa, dando cumplimento a lo mandatado y requisitos establecidos en el presente decreto.
 
 7.- Corresponderá al SENCE la verificación de los requisitos de las personas para postular al bono de capacitación.
 
-8.- El SENCE, mediante resolución del Director Nacional, aprobará un plan de fiscalización y de auditoría interna con el objeto de controlar la correcta ejecución de este programa, lo anterior sin perjuicio de las acciones de supervigilancia, auditoría o control que pudiere implementar directamente la Subsecretaría del Trabajo, según determine la autoridad.
+8.- El Sence realizará auditorías internas al Programa, verificando su correcta ejecución, de acuerdo con lo estipulado en el presente decreto y en las instrucciones que serán dictadas al efecto por el Director. Asimismo, el Sence realizará las fiscalizaciones pertinentes para verificar el cumplimiento de la normativa señalada en el presente decreto y en las instrucciones que el Director Nacional del Sence dicte al efecto, de acuerdo con el plan anual de fiscalización del mismo.
 
-9.- El Programa se financiará con cargo a los recursos consultados en la asignación 15-05-01-24- 01-004 del presupuesto del Servicio Nacional de Capacitación y Empleo para el año 2011. Los montos destinados a la asignación señalada se transferirán una vez que esté totalmente tramitado el presente decreto.
+Los organismos ejecutores deberán adoptar las medidas conducentes a permitir el libre acceso de los auditores del Sence sin restricciones, prestando la colaboración que se requiera en este sentido.
+
+El Sence supervisará el cumplimiento de los requisitos contemplados para el desarrollo del programa, con el objeto de controlar su correcta ejecución. Lo anterior, sin perjuicio de las acciones de supervigilancia, auditoría o control que pudiera implementar directamente la Subsecretaría del Trabajo, según determine el Subsecretario del Trabajo.
+
+9.- El Programa se financiará con cargo a los recursos consultados en la respectiva asignación que establezca anualmente la Ley de Presupuestos para el Sector Público.
 
 Anótese, tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Evelyn Matthei Fornet, Ministra del Trabajo y Previsión Social.
 
