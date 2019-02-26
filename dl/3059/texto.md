@@ -32,13 +32,15 @@ Las disposiciones de esta ley se aplicarán, a falta de norma expresa, a las emp
 
 ## Título II
 
-De las Reservas de Carga
+Del Cabotaje y de las Reservas de Carga
 
 #### Artículo 3°
 
-El cabotaje queda reservado a las naves chilenas. Se entenderá por tal el transporte marítimo, fluvial o lacustre de pasajeros y de carga entre puntos del territorio nacional, y entre éstos y artefactos navales instalados en el mar territorial o en la zona económica exclusiva.
+El cabotaje queda reservado a las naves chilenas, con las excepciones que señala esta ley. Se entenderá por tal el transporte marítimo, fluvial o lacustre de carga entre puntos del territorio nacional, y entre éstos y artefactos navales instalados en el mar territorial o en la zona económica exclusiva.
 
-Las naves mercantes extranjeras podrán participar en el cabotaje cuando se trate de volúmenes de carga superiores a 900 toneladas, previa licitación pública efectuada por el usuario, convocada con la debida anticipación. En este caso y para el solo efecto de la adjudicación de la licitación, las ofertas con naves mercantes extranjeras se incrementarán en un porcentaje similar al de la tasa general del arancel aduanero, de acuerdo con el procedimiento que señale el Reglamento.
+Se entenderá por cabotaje de pasajeros, el transporte marítimo, fluvial o lacustre de pasajeros, cuyo origen y destino sean puntos del territorio nacional y entre éstos y artefactos navales instalados en el mar territorial o en la zona económica exclusiva. Las naves de pasajeros extranjeras podrán participar en el cabotaje marítimo entre puertos, siempre y cuando su capacidad de transporte sea igual o superior a 400 pasajeros, cuenten con capacidad de pernoctación a bordo y tengan como función el transporte de pasajeros con fines turísticos. La exigencia relativa a que el cabotaje de pasajeros por naves extranjeras deba desarrollarse solamente entre puertos no será aplicable a las recaladas de dichas naves en el Archipiélago Juan Fernández y en Isla de Pascua.
+
+Las naves mercantes extranjeras podrán participar en el cabotaje definido en el inciso primero, cuando se trate de volúmenes de carga superiores a 900 toneladas, previa licitación pública efectuada por el usuario, convocada con la debida anticipación. En este caso y para el solo efecto de la adjudicación de la licitación, las ofertas con naves mercantes extranjeras se incrementarán en un porcentaje similar al de la tasa general del arancel aduanero, de acuerdo con el procedimiento que señale el Reglamento.
 
 La adjudicación de embarques de cargas mediante el proceso de licitación señalado en el inciso anterior, podrá ser reclamada por los navieros chilenos que participaron en la licitación dentro del plazo de tres días hábiles, contado desde la fecha de su adjudicación ante la Comisión mencionada en el artículo siguiente, la que deberá resolver en su sesión inmediatamente posterior a la fecha del reclamo, sea aquélla ordinaria o extraordinaria. Transcurridos 30 días contados desde la fecha del reclamo sin que medie un pronunciamiento de la Comisión, la adjudicación de la licitación se entenderá aprobada.
 
