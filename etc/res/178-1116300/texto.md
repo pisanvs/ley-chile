@@ -66,7 +66,7 @@ El Centro de Formación Técnica deberá enviar a Corfo los datos de identificac
 
 Podrán postular al Programa de Subsidio para Becas de Excelencia Académica, los egresados de la enseñanza media y alumnos que hubieren cursado, a lo menos, un semestre académico en el Centro de Formación Técnica, con buen rendimiento académico y nivel socioeconómico que amerite el otorgamiento de la subvención, en ambos casos.
 
-2.1.2. Número de Beneficiados, Requisitos y Selección
+2.1.2. Número de Beneficiados, Requisitos y Selección.
 
 El Programa de Subsidio para Becas de Excelencia Académica considera hasta 290 subvenciones por semestre académico, que podrán beneficiar indistintamente a nuevos alumnos que ingresen al Centro de Formación Técnica y a alumnos regulares que postulen a este Programa u obtengan la renovación del beneficio.
 
@@ -74,7 +74,7 @@ Corfo, a partir del año 2018 y hasta el año 2020, sólo financiará los subsid
 
 .
 
-Es condición para la asignación de este beneficio, poseer un promedio de notas de la enseñanza media igual o superior a 5,0 y un nivel socioeconómico que amerite el otorgamiento de la subvención. Tratándose de alumnos regulares que se encuentren cursando carrera, deberán haber obtenido en el semestre anterior una calificación general igual o superior a 4,5, en una escala de 1 a 7, y satisfacer las demás exigencias contenidas en el numeral 2.1.5., así como acreditar las condiciones socioeconómicas señaladas.
+Es condición para la asignación de este beneficio, poseer un promedio de notas de la enseñanza media igual o superior a 5,0.- y un nivel socioeconómico que amerite el otorgamiento de la subvención. Tratándose de alumnos regulares que se encuentren cursando carrera, deberán haber obtenido en el semestre anterior una calificación general igual o superior a 4,5.-, en una escala de 1 a 7, y satisfacer las demás exigencias contenidas en el numeral 2.1.5., así como acreditar las condiciones socioeconómicas señaladas.
 
 Con el objeto de determinar los puntajes finales de postulación, estos factores serán ponderados según pauta definida por el Centro de Formación Técnica, la que deberá ser aprobada por Corfo.
 
