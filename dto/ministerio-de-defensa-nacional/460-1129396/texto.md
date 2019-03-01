@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 460, de 10 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Compañía Pesquera Camanchaca S.A., RUT 93.711.000-6, cuarta renovación de concesión marítima menor, con vencimiento 31 de diciembre de 2023, sobre un sector de Porción de agua de Mar, en el lugar denominado Bahía de Tomé, comuna de Tomé, provincia de Concepción, Región del Biobío, la que fue tramitada con el SIABC Nº 39958. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 36º 37' 15,50" S - 72º 57' 37,71" O. El objeto consiste en mantener fondeada una boya para amarre de naves de hasta 456,6 TGR. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Lirquén. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Lirquén, 18 de febrero de 2019.- Carlos Martínez Rojas, Capitán de Corbeta LT, Capitán de Puerto de Lirquén.
