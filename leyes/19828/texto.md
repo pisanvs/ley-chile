@@ -16,6 +16,8 @@ Las disposiciones de la presente ley tienen por objeto establecer la creación d
 
 Para todos los efectos legales, llámase adulto mayor a toda persona que ha cumplido sesenta años.
 
+Denomínase adulto mayor de la cuarta edad a quien ha cumplido ochenta años.
+
 ## Título II
 
 Del Servicio Nacional del Adulto Mayor.
