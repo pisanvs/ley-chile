@@ -922,7 +922,7 @@ No podrá hacerse uso del aparato sonoro de un vehículo en el interior, al entr
 
 Los vehículos motorizados según tipo y clase estarán provistos, además, de los siguientes elementos:
 
-1.- Vidrios de seguridad que permitan una perfecta visibilidad desde y hacia el interior del vehículo. Prohíbense los vidrios oscuros o polarizados, salvo los que se contemplen en el Reglamento.
+1.- Vidrios de seguridad que permitan una perfecta visibilidad desde y hacia el interior del vehículo. Podrá contar con vidrios oscuros o polarizados que cumplan con los factores de transmisión regular de la luz u otras cualidades ópticas, y las certificaciones, establecidas en el reglamento.
 
 Prohíbese la colocación en ellos de cualquier objeto que impida la plena visual;
 
