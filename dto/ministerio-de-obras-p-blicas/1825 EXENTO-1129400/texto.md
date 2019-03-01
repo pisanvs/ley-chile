@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. N° 1825, de 31 de diciembre de 2018, se desistió de la expropiación de los lotes N°s 7-B, 17, 18, 19, 20, 21, 23 y 50, los cuales fueron expropiados mediante Decretos MOP. (Exentos) N°s 1.177, 1.186, 1.256, 1.265 y 1.313, de 4, 14 y 16 de noviembre de 2016, de la obra "Mejoramiento Ruta 7: Sector Cruce Ruta 240 Villa Ortega, Comuna de Coyhaique, Región de Aysén del General Carlos Ibáñez del Campo.
