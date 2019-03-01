@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 1823, de 31 de diciembre de 2018, se modificó el numeral segundo del Decreto Exento MOP. Nº468, de 08 de junio de 2017, quedando de la siguiente forma: lotes Nºs 7-A, 7-C, 7-D, 8-A y 8-B, ubicados en la comuna de Puerto Varas, figuran a nombre de OYARZUN OLAVARRIA RUPERTO, según rol de avalúo 1154-248, superficies 3.272 m2., 2.244 m2., 2.931 m2, 1.391 m2. y 805 m2.
