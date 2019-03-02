@@ -22,7 +22,7 @@ Decreto:
 
 1. Declárase camino público en el Área Urbana Metropolitana y en el Área Restringida o Excluida al Desarrollo Urbano, establecidas en el Plan Regulador Metropolitano de Santiago (PRMS), aprobado por resolución Nº 20 de 1994 y sus posteriores modificaciones, del Gobierno Regional Metropolitano, la vía que a continuación se señala, en los tramos que se indica:
 
-- Camino Lo Boza, (M 8N) carretera de acceso al Gran Santiago, entre Ruta 70 Av. Américo Vespucio (M14N), enlace incluido y Camino Lampa (M9N), enlace incluido (enlace Las Cruces), comuna de Pudahuel.
+. El sistema vial urbano que interconecta las rutas G-16 y 70 con el Sistema Oriente Poniente, desde el límite urbano norte hasta el Sistema Oriente Poniente; a través de: Camino Lampa/Camino Lo Boza y Condell (E8N).
 
 2. Las vías declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, Plan Regulador Metropolitano de Santiago y Planes Reguladores Comunales o Seccionales, según corresponda.
 
