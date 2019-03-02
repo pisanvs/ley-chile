@@ -130,6 +130,56 @@ Para efectos de la determinación de los cargos señalados en el artículo 2º, 
 
 Los ingresos tarifarios señalados en el artículo 9º serán calculados y asignados a los generadores en proporción a sus retiros de energía y potencia destinados a usuarios finales en los correspondientes balances de transferencias de energía y potencia. Dichos generadores deberán traspasar los montos totales por conceptos de ingresos tarifarios reales de cada segmento y sistema a los propietarios de las instalaciones de transmisión del respectivo segmento, a prorrata del V.A.T.T. de dichas instalaciones.
 
+#### Artículo 10º bis
+
+En caso de que se produzcan ingresos tarifarios reales por tramo en los sistemas de transmisión que superen los niveles normales referenciales y que se originen por un retraso en la entrada en operación de obras de expansión de instalaciones de transmisión respecto de las fechas establecidas en los decretos de expansión respectivos o por la indisponibilidad producida en instalaciones de transmisión nacional o zonal durante el primer año de operación, el Coordinador deberá efectuar una reasignación de la componente de ingresos tarifarios reales que corresponda, conforme a lo señalado en los artículos siguientes.
+
+#### Artículo 10º ter
+
+Una instalación se considerará indisponible dentro de su primer año de operación cuando el Coordinador no pueda disponer de esta. Una instalación de transmisión no se considerará indisponible en aquellos casos en que la instalación se encuentre bajo mantenimiento programado por el Coordinador para realizar tareas de mantenimiento preventivo, en los tiempos que dichas tareas se hayan programado, o por causas atribuibles a terceros, de acuerdo a lo que determine el Coordinador.
+
+Asimismo, a efectos de lo establecido en la presente resolución, una instalación de transmisión no se considerará indisponible cuando su desconexión se produce u origina debido a la ocurrencia de una falla o evento en una instalación del sistema que no pertenece al conjunto de equipos propios de la instalación en cuestión.
+
+#### Artículo 10º quáter
+
+A efectos de lo señalado en el artículo anterior, una vez verificada alguna de las situaciones de retraso o indisponibilidad, el Coordinador deberá:
+
+a. Identificar las instalaciones de transmisión que presenten ingresos tarifarios reales en niveles superiores a los niveles referenciales debido a la ocurrencia de una de las situaciones señaladas;
+
+b. Cuantificar y diferenciar los montos de ingresos tarifarios reales atribuibles a operación normal referencial respecto de los verificados en la operación real, distinguiendo la componente del ingreso tarifario real asignable al peaje de transmisión y la componente asignable a congestión. La componente del ingreso tarifario real asignable al peaje de transmisión corresponderá al nivel normal referencial de éste; y,
+
+c. Asignar los montos de la componente de congestión a las empresas generadoras que hayan realizado retiros de energía destinados a usuarios finales o inyecciones, en tanto éstas se hayan visto afectadas negativamente en sus balances de transferencias de energía a raíz de las situaciones producidas, en la proporción que corresponda a dicha afectación.
+
+A efectos de verificar que la componente de congestión de los ingresos tarifarios reales es atribuible a la ocurrencia de una situación de retraso o indisponibilidad en los términos definidos en la presente resolución, el Coordinador podrá realizar estudios y análisis de sensibilidad, según sea el caso.
+
+#### Artículo 10º
+
+quinquies.- El Coordinador establecerá, mensualmente, los períodos en que se hayan producido retrasos o indisponibilidades de instalaciones de transmisión. En dichos períodos, se deberán calcular los niveles normales referenciales de ingresos tarifarios de los tramos que hayan presentado desacoples en la operación real del sistema atribuibles al retraso o indisponibilidad de una instalación.
+
+A estos efectos, se entenderá que existe desacople en un tramo cuando, la diferencia de costos marginales en sus extremos no resulte, exclusivamente, de las pérdidas de transmisión en dicho tramo.
+
+Serán niveles normales referenciales para cada tramo los ingresos tarifarios que determine el Coordinador, ponderando el costo marginal en uno de sus extremos por el duplo de las pérdidas medias de operación del tramo. El cálculo deberá efectuarse en la misma resolución temporal que utilice el Coordinador para la determinación de las transferencias económicas de energía. Los ingresos tarifarios así calculados corresponderán a los ingresos tarifarios normales referenciales.
+
+El monto total a asignar a las empresas generadoras afectadas corresponderá a la diferencia entre el total de todos los ingresos tarifarios reales y el total de todos los ingresos tarifarios normales referenciales, para los tramos afectados, según lo señalado en el presente artículo.
+
+#### Artículo 10º
+
+sexies.- El Coordinador calculará, para los tramos afectados, en cada período que se hayan superado los niveles normales referenciales de ingresos tarifarios reales, la afectación de cada empresa generadora que efectúe inyecciones o retiros de energía para el suministro a clientes no sujetos a regulación de precios o empresas concesionarias de servicio público de distribución.
+
+#### Artículo 10º
+
+septies.- La afectación negativa de cada empresa generadora se determinará en base a la diferencia entre sus inyecciones menos sus retiros, en las barras cuyo costo marginal fue menor por efecto del desacople, conforme a lo señalado en el artículo 10º quinquies de la presente resolución, en el período en que el Coordinador efectúa los balances de transferencias económicas. En aquellos casos en que el costo marginal haya sido superior por efectos del desacople, la afectación negativa de una empresa generadora se medirá en base a la diferencia entre sus retiros menos sus inyecciones, en las barras cuyo costo marginal fue mayor por efecto del desacople.
+
+#### Artículo 10º
+
+octies.- El monto total a asignar, de acuerdo a lo indicado en el artículo 10º quinquies de la presente resolución, deberá ser asignado a las empresas generadoras en proporción a su afectación negativa, considerando el período completo en el que se efectúe el balance de transferencias económicas respectivo.
+
+#### Artículo 10º
+
+nonies.- A efectos del cálculo a que se refiere el artículo 10º septies de la presente resolución, se deberán excluir las inyecciones fuera del orden económico por razones de seguridad u otra causa, así como también las inyecciones de centrales generadoras que se encuentren valorizadas bajo los mecanismos de estabilización de precios a que hace referencia el artículo 149º de la ley.
+
+Asimismo, en aquellos casos en que el costo marginal haya sido mayor por efectos del desacople, de acuerdo a lo definido en el artículo 10º quinquies, no se considerarán las inyecciones de las centrales cuyo costo variable de operación sea superior al costo marginal considerado para la determinación de los niveles normales referenciales de ingresos tarifarios, referido a la barra correspondiente.
+
 #### Artículo 11º
 
 En aquellos tramos en que la recaudación de los ingresos tarifarios reales resulte mayor al valor anual de la transmisión por tramo, la diferencia deberá ser acumulada para la facturación del período siguiente.
