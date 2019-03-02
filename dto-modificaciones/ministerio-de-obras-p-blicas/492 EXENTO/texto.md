@@ -52,6 +52,8 @@ BUIN
 
 . El tramo urbano de la Ruta G-505, desde zona urbana centro-oriente hasta el límite urbano sur, a través Avenidas Javiera Carrera y Francisco Javier Krugger.
 
+. El tramo urbano de la Ruta G-490, desde la Ruta 5 hasta la Ruta G-46; a través de: Estadio, Carlos Condell, Bernardo O'Higgins, Balmaceda, Camino a Maipo, Clemente Díaz, Bellavista y Camino a Maipo.
+
 CHAMPA
 
 . El tramo urbano de la Ruta G-54, desde límite urbano oriente hasta el límite urbano poniente, a través Avenida Darío Pavez o Camino Champa-Melipilla (T63S).
