@@ -226,13 +226,13 @@ Además, los Presidentes de los Subcomités deberán reportar al Consejo Directi
 
 ### Párrafo 4º — "Del Director Ejecutivo y Subdirectores Ejecutivos"
 
-#### Artículo 9º
+#### Artículo 9°
 
-El Comité tendrá un Director Ejecutivo, el que será designado por el Consejo Directivo a propuesta del Vicepresidente Ejecutivo de Corfo.
+El Comité tendrá un Director Ejecutivo, función que será asumida por quien ejerza el cargo de "Subgerente de Transformación Digital" de la Corporación.
 
-Los actos para la contratación, sus modificaciones y desvinculación del Director Ejecutivo del Comité, los celebrará o dictará el Vicepresidente Ejecutivo de la Corporación.
+Además, el Comité contará con tres Subdirectores Ejecutivos, uno de ellos a cargo de la Subdirección de Salud, el otro a cargo de la Subdirección de Construcción, y el tercero a cargo de la Subdirección de Digitalización Industrial y Manufactura Avanzada, los que, a su vez, se relacionarán y deberán ejercer las facultades señaladas más adelante, respecto del Subcomité Salud, Subcomité de Construcción, y Subcomité de Digitalización Industrial y Manufactura Avanzada, respectivamente. Los Subdirectores Ejecutivos serán contratados por el Director Ejecutivo, en acuerdo con cada Subcomité.
 
-Además, el Comité contará con tres Subdirectores Ejecutivos, uno de ellos a cargo de la Subdirección de Salud, el otro a cargo de la Subdirección de Construcción y el tercero a cargo de la Subdirección de Digitalización Industrial y Manufactura Avanzada, los que, a su vez, se relacionarán y deberán ejercer las facultades señaladas más adelante, respecto del Subcomité Salud, de Construcción y de Digitalización Industrial, respectivamente. Los Subdirectores Ejecutivos serán contratados por el Director Ejecutivo, en acuerdo con cada Subcomité.
+El Vicepresidente Ejecutivo de la Corporación podrá designar a uno o más subrogantes del Director Ejecutivo, quienes actuarán en su ausencia, con todas sus facultades, lo que no será necesario acreditar ante terceros
 
 #### Artículo 10º
 
@@ -264,7 +264,7 @@ l) Contratar al personal profesional, técnico y administrativo que se considere
 
 m) Ejercer las demás funciones y cumplir los otros deberes que el Consejo Directivo del Comité, o el Consejo de la Corporación o el Vicepresidente Ejecutivo de Corfo, estimen conveniente asignarle.
 
-El Vicepresidente Ejecutivo de Corfo podrá contratar por el Comité o designar a un funcionario de la Corporación, en calidad de Director Ejecutivo interino, para que ejerza y cumpla las funciones señaladas en este artículo.
+En caso de vacancia del cargo de "Subgerente de Transformación Digital" de la Corporación, que ejerza el cargo de Director Ejecutivo del Comité, el Vicepresidente Ejecutivo de Corfo podrá contratar o designar a un funcionario de la Corporación o del Comité, en calidad de Director Ejecutivo interino, para que ejerza y cumpla las funciones señaladas en este artículo.
 
 #### Artículo 11º
 
