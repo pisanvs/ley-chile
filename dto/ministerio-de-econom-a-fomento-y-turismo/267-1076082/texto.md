@@ -36,7 +36,7 @@ Créase el "Escritorio Empresa", en adelante el "Escritorio", cuyo objetivo ser�
 
 Junto con lo anterior, este Escritorio, a través de una plataforma tecnológica accesible a través de medios electrónicos, en adelante la "Plataforma", contendrá información, servicios y trámites que ofrezcan organismos privados de interés público para que las empresas señaladas en el inciso anterior puedan realizar sus consultas, operaciones, inversiones o planes de negocio.
 
-El responsable de la implementación y operación del Escritorio será la Corporación de Fomento de la Producción, en adelante "CORFO".
+El responsable de la implementación y operación del Escritorio será la el Ministerio Secretaría General de la Presidencia, en adelante 'Segpres'.
 
 #### Artículo 2º
 
@@ -66,9 +66,9 @@ Para efectos de lo dispuesto en este decreto, se entenderá que son organismos p
 
 Los Órganos de la Administración del Estado podrán adscribirse al Escritorio y a la Plataforma, con el fin de facilitar que los diferentes trámites y servicios que cada uno presta puedan ser provistos a través de los medios electrónicos que dispondrá la Plataforma.
 
-Cada órgano deberá elaborar y acordar con CORFO un Plan para proveer los servicios y trámites que prestará a través de esta Plataforma.
+Cada órgano deberá elaborar y acordar con Segpres un Plan para proveer los servicios y trámites que prestará a través de esta Plataforma.
 
-Los órganos privados de interés públicos señalados en el artículo 2º Nº1 del presente decreto podrán adscribirse al Escritorio y a la Plataforma, facilitando que los diferentes trámites y servicios que presten puedan ser provistos a través de los medios electrónicos que dispondrá la Plataforma, conforme a lo que acuerden con CORFO.
+Los órganos privados de interés públicos señalados en el artículo 2º Nº1 del presente decreto podrán adscribirse al Escritorio y a la Plataforma, facilitando que los diferentes trámites y servicios que presten puedan ser provistos a través de los medios electrónicos que dispondrá la Plataforma, conforme a lo que acuerden con Segpres.
 
 #### Artículo 4º
 
@@ -76,7 +76,7 @@ El Ministerio de Economía, Fomento y Turismo, mediante decreto supremo, fijará
 
 #### Artículo 5º
 
-Para la implementación y gestión del Escritorio y de la Plataforma, CORFO tendrá las siguientes funciones, facultades y obligaciones:
+Para la implementación y gestión del Escritorio y de la Plataforma, Segpres tendrá las siguientes funciones, facultades y obligaciones:
 
 1. Destinar el personal, recursos y presupuesto necesario para cumplir con la adecuada implementación, operación y mantenimiento de la Plataforma, para lo cual podrá celebrar un convenio de transferencia de recursos con el Ministerio de Economía, Fomento y Turismo.
 
@@ -84,7 +84,7 @@ Para la implementación y gestión del Escritorio y de la Plataforma, CORFO tend
 
 3. Proponer al Ministerio de Economía, Fomento y Turismo un plan de diseño e implementación del Escritorio, tanto a nivel técnico, organizacional y presupuestario, pudiendo incorporar modificaciones al mismo cuando lo considere necesario.
 
-4. Suscribir con los Órganos de la Administración del Estado y entidades privadas que presten servicios de interés público convenios de cooperación para que se incorporen al Escritorio o a la Plataforma según corresponda. Estos convenios podrán eventualmente incluir el financiamiento parcial por parte de CORFO para adelantar la incorporación de estas entidades a la Plataforma.
+4. Suscribir con los Órganos de la Administración del Estado y entidades privadas que presten servicios de interés público convenios de cooperación para que se incorporen al Escritorio o a la Plataforma según corresponda. Estos convenios podrán eventualmente incluir el financiamiento parcial por parte de Segpres para adelantar la incorporación de estas entidades a la Plataforma.
 
 5. Proveer los más altos estándares de disponibilidad, uso e interoperabilidad del Escritorio y de la Plataforma, tanto a nivel técnico, estructural y organizativo.
 
@@ -96,7 +96,7 @@ Para la implementación y gestión del Escritorio y de la Plataforma, CORFO tend
 
 #### Artículo 6º
 
-CORFO será responsable de elaborar un plan de diseño e implementación del Escritorio, conforme a lo dispuesto en los artículos precedentes, así como de realizar su monitoreo y evaluación cuando se encuentre en operación, instruyendo los procesos y procedimientos de mejora continua que sean necesarios. Conforme a ello, CORFO podrá:
+Segpres será responsable de elaborar un plan de diseño e implementación del Escritorio, conforme a lo dispuesto en los artículos precedentes, así como de realizar su monitoreo y evaluación cuando se encuentre en operación, instruyendo los procesos y procedimientos de mejora continua que sean necesarios. Conforme a ello, CORFO podrá:
 
 a) Establecer el marco tecnológico y los requerimientos que los servicios deberán considerar para presentar sus planes de incorporación a la Plataforma.
 
@@ -104,23 +104,7 @@ b) Formular las observaciones y sugerencias a los planes presentados por los ser
 
 #### Artículo 7º
 
-El Ministerio de Economía, Fomento y Turismo, en conjunto con CORFO, convocarán a dos Consejos Consultivos asesores, integrados por representantes de organismos públicos y privados, los que tendrán por objeto colaborar en el diseño, monitoreo, evaluación y mejoramiento continuo de la Plataforma. Estos Consejos tendrán carácter consultivo, a instancias del Ministro de Economía, Fomento y Turismo y ejercerán sus funciones "ad-honorem".
-
-La integración de los consejos señalados en el inciso anterior será la siguiente:
-
-1. Consejo del Sector Público:
-
-a) Un representante del Ministerio de Economía, Fomento y Turismo;
-
-b) Un representante del Ministerio de Hacienda;
-
-c) Un representante del Ministerio Secretaría General de la Presidencia;
-
-d) Un representante de la Asociación Chilena de Municipalidades;
-
-e) Ocho Directores Nacionales de los principales Servicios Públicos que prestan servicios y trámites a empresas.
-
-2. Consejo del Sector Privado, el que se integrará por doce representantes de las principales asociaciones gremiales del país, para lo cual se deberá observar que al menos 6 mayoritariamente representen a las Empresas de Menor Tamaño.
+Eliminado
 
 DISPOSICIONES VARIAS:
 
@@ -144,11 +128,11 @@ transitorio: La propuesta de implementación del plan de trabajo señalado en el
 
 #### Artículo 3º
 
-transitorio: Los directores de servicio que integrarán el Consejo del Sector Público señalado en el número 1 del inciso segundo del artículo 8º, serán definidos por resolución del Ministro de Economía, Fomento y Turismo.
+Para todos los efectos legales, Segpres subrogará a Corfo en todos los derechos y obligaciones que Corfo pudiera haber contraído con órganos de Administración del Estado, y/o con órganos privados de interés público, en convenio suscritos para acordar su ingreso al Escritorio y a la Plataforma.
 
 #### Artículo 4º
 
-transitorio: Los integrantes del Consejo del Sector Privado señalado en el número 2 del inciso segundo del artículo 8º, serán definidos por resolución del Ministro de Economía, Fomento y Turismo.
+transitorio: Eliminado
 
 Anótese, comuníquese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Luis Felipe Céspedes Cifuentes, Ministro de Economía, Fomento y Turismo
 
