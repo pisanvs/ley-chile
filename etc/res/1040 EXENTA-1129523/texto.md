@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 1.040 EXENTA, DE 17 DE DICIEMBRE DE 2018
+
+Por resolución exenta N° 1.040, de fecha 17 de diciembre de 2018, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de la Araucanía, se autorizó el funcionamiento del terminal no urbano para servicios de locomoción colectiva prestado mediante buses, ubicado en calle Manuel Antonio Matta N° 1335, en la comuna de Lautaro, Región de la Araucanía, cuya propiedad corresponde a la I. Municipalidad de Lautaro. El responsable del funcionamiento del Terminal será la I. Municipalidad de Lautaro. El encargado de la administración del terminal será la Dirección de Tránsito Municipal, quien deberá dar cumplimiento a lo establecido en la Ordenanza N° 01, de fecha 22 de octubre de 2018, de la Ilustre Municipalidad de Lautaro.-
+
+Luis Calderón Ramírez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía.
