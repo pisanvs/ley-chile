@@ -882,6 +882,10 @@ Pelargonium graveolens, Xylella fastidiosa
 
 Pelargonium hortorum
 
+Phoenix dactylifera Palm lethal
+
+yellowing phytoplasma
+
 Zigopelatum Cymbium mosaic virus
 
 brachypetalum Odontoglossum ringspot virus
@@ -974,6 +978,8 @@ Fuchsia spp. (Fucsia) Saintpaulia spp. (Violeta
 
 africana)
 
+Gazania splendens
+
 Gerbera spp. (Gerbera) Spathiphyllum spp.
 
 (Espatifilum)
@@ -1001,6 +1007,8 @@ aethiopica (Cala)
 Impatiens spp.
 
 (Alegría del Hogar)
+
+Kalmia latifolia
 
 Agastache spp. Otocanthus spp.
 
