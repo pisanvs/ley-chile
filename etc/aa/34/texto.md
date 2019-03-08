@@ -16,15 +16,15 @@ AUTO ACORDADO QUE REGLAMENTA EL PROCEDIMIENTO PARA OBTENER LA DECLARACION PREVIA
 
 1°.- La solicitud se presentará ante la Corte Suprema dentro del plazo de seis meses, contados desde que quede ejecutoriada la sentencia absolutoria o el auto de sobreseimiento, dictados en la causa, cumpliendo con las exigencias de la Ley 18.120, sobre comparecencia, y deberá ser acompañada, según el caso, con alguno o algunos de los siguientes antecedentes:
 
-a) Copia autorizada de la sentencia absolutoria expedida en favor del solicitante, con sus notificaciones y certificado de encontrarse ejecutoriada;
+a) Copia autorizada o registro de la sentencia absolutoria expedida en favor del solicitante, con sus notificaciones y certificado de encontrarse ejecutoriada;
 
-b) Copia autorizada del auto de sobreseimiento definitivo dictado en la causa, ya sea total o parcial, y en el último caso, con copia de las notificaciones del procesado a quien se refiera y certificado de encontrarse ejecutoriado;
+b) Copia autorizada o registro del auto de sobreseimiento definitivo dictado en la causa, ya sea total o parcial;
 
-c) Copia autorizada del auto de procesamiento, dictado contra la persona a quien favorece el auto de sobreseimiento total o parcial a que se ha hecho referencia, con sus notificaciones;
+c) Copia autorizada o registro del auto de procesamiento, dictado en contra de la persona a quien favorece el auto de sobreseimiento total o parcial a que se ha hecho referencia, con sus notificaciones;
 
-d) Copia autorizada de la sentencia condenatoria de cualquier instancia expedida contra quien presenta la solicitud, con sus notificaciones y constancia autorizada de haber sido apelada o remitida en consulta;
+d) Copia autorizada o registro de la sentencia condenatoria de cualquier instancia expedida contra quien presenta la solicitud, sus notificaciones y constancia autorizada de haber sido apelada o remitida en consulta;
 
-e) Copia autorizada de la sentencia absolutoria dictada en virtud de la apelación o consulta a que se refiere el número anterior o de algún recurso deducido para ante la Corte Suprema, con sus notificaciones y certificado de encontrarse ejecutoriado;
+e) Copia autorizada o registro de la sentencia absolutoria dictada en virtud de la apelación o consulta a que se refiere el número anterior o de algún recurso deducido para ante la Corte Suprema, sus notificaciones y certificado de encontrarse ejecutoriado.
 
 2°.- La solicitud que no cumpla con las exigencias señaladas en el numeral precedente, será declarada inadmisible, de plano, por el Presidente del Tribunal.
 
