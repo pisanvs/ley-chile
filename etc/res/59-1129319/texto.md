@@ -14,7 +14,7 @@ Visto:
 
 Resuelvo:
 
-1º Créase la Circunscripción Electoral denominada "Los Loros" en la comuna de Tierra Amarilla, provincia de Tierra Amarilla, Región de Atacama, cuyo territorio jurisdiccional será: al Norte, desde la intersección del límite de la comuna de Copiapó con la Ruta C-411 siguiendo por esta hasta intersectar con la localidad de Nantoco, para luego continuar en dirección sur por la Ruta C-35 y siguiendo por la Ruta C-401 prologando su extensión hasta el límite comunal con Copiapó y su intersección con el límite internacional con la República Argentina; al Sur, límite con la comuna Alto del Carmen; al Este, límite internacional con la República Argentina y, al Oeste, límite con las comunas de Vallenar y Copiapó.
+1º Créase la Circunscripción Electoral denominada "Los Loros" en la comuna de Copiapó, provincia de Tierra Amarilla, Región de Atacama, cuyo territorio jurisdiccional será: al Norte, desde la intersección del límite de la comuna de Copiapó con la Ruta C-411 siguiendo por esta hasta intersectar con la localidad de Nantoco, para luego continuar en dirección sur por la Ruta C-35 y siguiendo por la Ruta C-401 prologando su extensión hasta el límite comunal con Copiapó y su intersección con el límite internacional con la República Argentina; al Sur, límite con la comuna Alto del Carmen; al Este, límite internacional con la República Argentina y, al Oeste, límite con las comunas de Vallenar y Copiapó.
 
 2º Modifícase el territorio jurisdiccional de la Circunscripción Electoral Tierra Amarilla, en el sentido que el territorio de dicha circunscripción será el actual excepto al asignado a la nueva Circunscripción Electoral Los Loros.
 
