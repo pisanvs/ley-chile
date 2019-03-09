@@ -28,27 +28,35 @@ Asígnase para uso del Sr. Secretario Regional Ministerial de Economía, Fomento
 
 #### Artículo segundo
 
-Asígnanse al vehículo individualizado precedentemente, los siguientes conductores:
+Asígnase al vehículo individualizado precedentemente los siguientes conductores:
 
-. Jorge Fuenzalida Berríos, cédula de identidad N° 10.837.675-9.
+1. Jorge Fuenzalida Berríos, cédula de identidad N° 10.837.675-9.
 
-. Mauricio Chanalet Jeria, cédula de identidad N° 15.360.165-8.
+2. Mauricio Chanalet Jeria, cédula de identidad N° 15.360.165-8.
 
-. Marco Polo Cisternas, cédula de identidad N° 9.432.314-2.
+3. Roberto del Carmen Rivera Martínez, cédula de identidad N° 8.122.972-4.
 
-Los conductores previamente indicados deberán rendir caución, de acuerdo a lo establecido en el artículo 7° del decreto ley N° 799, de 1974, del Ministerio del Interior.
+4. Valerio Silva González, cédula de identidad N° 9.902.826-2.
+
+5. Mario Matamala Molina, cédula de identidad N° 7.629.680-4
+
+Los conductores previamente singularizados deben rendir caución, de acuerdo a lo establecido en el artículo 7° del decreto ley N° 799, de 1974, del Ministerio del Interior.
 
 #### Artículo tercero
 
 El vehículo individualizado previamente deberá ser guardado, una vez finalizada la jornada de trabajo, en alguno de los siguientes recintos:
 
-a) Estacionamiento institucional, ubicado en Avenida Libertador General Bernardo O'Higgins N° 1449, en el box que la Subsecretaría estime conveniente, comuna y ciudad de Santiago.
+a) Estacionamiento institucional, ubicado en Avenida Libertador Bernardo O'Higgins N° 1449, en el box que la Subsecretaría estime conveniente, comuna y ciudad de Santiago.
 
-b) Domicilio conductor Jorge Fuenzalida Berríos, ubicado en calle Curalaba N° 488, Villa Ciudad Jardín, comuna de Maipú, ciudad de Santiago.
+b) Domicilio conductor Jorge Fuenzalida Berríos, ubicado en calle Curalaba N° 488, Villa Ciudad Jardín, comuna de Maipú, Santiago.
 
-c) Domicilio conductor Mauricio Chanalet Jeria, ubicado en calle Venezuela N° 449, comuna de Recoleta, ciudad de Santiago.
+c) Domicilio conductor Mauricio Chanalet Jeria, ubicado en Venezuela N° 449, comuna de Recoleta, Santiago.
 
-d) Domicilio conductor Marco Polo Cisternas, ubicado en calle Las Lilas N° 995, Villa Jardín, comuna de Lo Prado, ciudad de Santiago.
+d) Domicilio conductor Roberto Rivera Martínez, ubicado en Pasaje Santa Ema N° 2136, Villa Santa Magdalena 2, La Pintana, Santiago.
+
+e) Domicilio conductor Valerio Silva González, ubicado en calle Lo Encalada N° 1961, Villa Canadá, comuna de Ñuñoa, Santiago.
+
+f) Domicilio conductor Mario Matamala Molina, ubicado en calle Víctor Manuel N° 1442, Santiago.
 
 Los conductores podrán estacionar el vehículo en su domicilio solamente cuando se encuentren autorizados por su jefatura directa.
 
