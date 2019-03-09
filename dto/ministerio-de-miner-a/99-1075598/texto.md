@@ -172,11 +172,11 @@ Requisitos y Financiamiento del Curso Homologado de Inducción Básica
 
 Requisitos Mínimos del Curso Homologado de Inducción Básica. Sin perjuicio de los contenidos que defina el Director, previa propuesta de la Comisión Asesora, el Curso Homologado de Inducción Básica deberá contemplar una metodología que facilite a los asistentes la comprensión de las materias de cada módulo, considerando además de la teoría, aspectos visuales como fotografías y videos y ejercicios interactivos.
 
-El Curso Homologado de Inducción Básica deberá ser efectuado de manera presencial. Con todo, el Director, en casos debidamente justificados, podrá autorizar que sea efectuado a distancia por medios virtuales. La asistencia presencial o virtual requerida será de un cien por ciento.
+El Curso Homologado de Inducción Básica podrá ser impartido tanto de manera presencial como a distancia por medios virtuales. La asistencia presencial o virtual requerida será de un cien por ciento.
 
-El curso deberá incluir, al menos, una evaluación para asegurar la comprensión y aprendizaje. La aprobación del curso sólo se otorgará cuando se obtenga un mínimo de un setenta y cinco por ciento de respuestas correctas. En el evento que se realizaren dos o más evaluaciones, la aprobación del curso se otorgará cuando el promedio de éstas sea igual o superior al setenta y cinto por ciento (75%) de la evaluación máxima respectiva.
+El curso deberá incluir, al menos, una evaluación presencial para asegurar la comprensión y aprendizaje. La aprobación del curso sólo se otorgará cuando se obtenga un mínimo de un setenta y cinco por ciento de respuestas correctas. En el evento que se realizaren dos o más evaluaciones, la aprobación del curso se otorgará cuando el promedio de éstas sea igual o superior al setenta y cinto por ciento (75%) de la evaluación máxima respectiva.
 
-La duración del Curso Homologado de Inducción Básica tendrá una duración mínima de dieciséis horas cronológicas. Tratándose de un curso virtual debidamente autorizado por el Servicio, podrá tener una duración mínima de doce horas.
+La duración del Curso Homologado de Inducción Básica dictado en sus modalidades presencial y virtual tendrá una duración mínima de ocho horas cronológicas.
 
 A los Expertos en Prevención de Riesgos que así lo acrediten, no les será exigible la realización de este curso.
 
@@ -230,7 +230,7 @@ Diseño del Curso Homologado de Inducción Básica. El diseño del Curso Homolog
 
 #### Artículo 12
 
-Instructores de las Entidades Calificadoras: Los Instructores de cada Entidad Calificadora, que dicten el Curso Homologado de Inducción Básica, deberán ser Expertos en Prevención de Riesgos.
+Instructores de las Entidades Calificadoras: Cada Entidad Calificadora que dicte el Curso Homologado de Inducción Básica, deberá contar con Expertos en Prevención de Riesgos y podrá adicionar relatores relacionados al ámbito de la seguridad y salud ocupacional.
 
 #### Artículo 13
 
@@ -288,9 +288,11 @@ d) Registro de asistencia y calificaciones del curso.
 
 #### Artículo 17
 
-Emisión de Certificados. El Servicio tendrá un plazo de 5 días hábiles, contados desde la recepción del Informe de Calificación, para pronunciarse sobre el mismo y, en caso de aprobarlo, para emitir el Certificado de Aprobación respectivo.
+Acreditación de Aprobación. Desde la aprobación del curso por parte del Postulante, la Entidad Calificadora extenderá un Informe de Calificación y entregará al Postulante un Diploma de Aprobación, timbrado y firmado por el representante legal de la misma.
 
-El certificado se otorgará sin costo y el Servicio podrá utilizar medios electrónicos para su emisión, los que deberán suscribirse de conformidad a la ley Nº19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de dichas firmas.
+El Servicio, por su parte, tendrá un plazo de 5 días hábiles, contados desde la recepción del Informe de Calificación emitido por la Entidad Calificadora, para pronunciarse sobre el mismo y, en caso de aprobarlo, emitirá el Certificado de Aprobación respectivo.
+
+Los certificados de aprobación se otorgarán sin costo y podrán utilizarse medios electrónicos para su emisión, los que deberán suscribirse de conformidad a la ley N° 19.799, sobre Documentos Electrónicos, Firma Electrónica y Servicios de Certificación de dichas firmas.
 
 #### Artículo 18
 
@@ -310,7 +312,9 @@ f) Fecha y firma del Director Nacional.
 
 #### Artículo 19
 
-Efectos del Certificado. El Certificado de Aprobación debidamente aprobado y emitido, será el documento único y exclusivo, intransferible e intransmisible, y necesario para acreditar en aquellas faenas mineras que se acojan al presente Reglamento mediante la solicitud de inscripción en el respectivo listado, que el postulante ha cursado satisfactoriamente un Curso Homologado de Inducción Básica.
+Efectos de la Aprobación. El Diploma de Aprobación acreditará que un Postulante ha cursado satisfactoriamente el Curso Homologado de Inducción Básica y se encuentra a la espera del otorgamiento de un Certificado de Aprobación por parte del Servicio. La Empresa Minera que haya solicitado a un Postulante realizar un Curso Homologado de Inducción Básica, deberá autorizar el ingreso y permanencia en sus Faenas Mineras a todo Postulante que presente este Diploma, a la espera de la emisión del Certificado Sernageomin por el Servicio, sin perjuicio de lo señalado en el artículo 22, inciso segundo.
+
+El Certificado de Aprobación será el documento único y exclusivo, intransferible e intransmisible, y necesario para acreditar, en todas aquellas Faenas Mineras que se acojan al presente Reglamento, que el Postulante ha cursado satisfactoriamente un Curso Homologado de Inducción Básica.
 
 #### Artículo 20
 
@@ -322,15 +326,17 @@ Renovación del Certificado. Los certificados que hubieren perdido su vigencia, 
 
 #### Artículo 22
 
-Reconocimiento del Curso Homologado de Inducción Básica impartido por las Entidades Calificadoras. Las Empresas Mineras inscritas en el Listado de Empresas Mineras que llevará el Servicio para estos efectos, tendrán la obligación de reconocer los Certificados de Aprobación vigentes y permitir a sus titulares el acceso a la faena minera por este concepto.
+Reconocimiento del Curso Homologado de Inducción Básica impartido por las Entidades Calificadoras. La Empresa Minera inscrita en el Listado de Empresas Mineras, no puede exigir un nuevo Curso Homologado de Inducción Básica a un Postulante que exhiba un Certificado de Aprobación vigente y válidamente otorgado conforme al presente Reglamento.
 
-En el evento que la Empresa Minera inscrita no permita el ingreso a una faena o le exija la realización de un nuevo Curso de Inducción Básica a un postulante que, cumpliendo con todos los requisitos legales y contractuales, porte y exhiba su Certificado de Aprobación vigente y válidamente otorgado conforme al presente Reglamento, será sancionada conforme a lo dispuesto en los artículos 590 y siguientes del Reglamento de Seguridad Minera.
+Sin perjuicio de lo señalado en el inciso anterior, la Empresa Minera solo podrá negar el acceso a su faena si existieren capacitaciones específicas de la empresa por realizar que se justifiquen en relación con las condiciones particulares de la faena, en conformidad a lo dispuesto en el artículo 31 del Reglamento de Seguridad Minera. Esta circunstancia deberá ser previamente informada por la Empresa Minera al Postulante.
+
+> **Nota.** El numeral 5° del artículo 1° del Decreto 78, Minería, publicado el 09.03.2019, dispone reemplazar el inciso segundo del presente artículo, sin embargo, sustituye íntegramente su texto.
 
 #### Artículo 23
 
 Inscripción. Las Empresas Mineras desde la entrada en vigencia del presente Reglamento, podrán inscribirse en el Listado de Empresas Mineras.
 
-Podrá dejarse sin efecto la inscripción en el Listado mediante resolución del Servicio, previa solicitud de la Empresa Minera, en la cual deberá expresar los fundamentos de la misma.
+Podrá dejarse sin efecto la inscripción en el Listado de Empresas Mineras, previa solicitud de una Empresa Minera, sin necesidad de expresión de causa. El Servicio deberá proceder a lo requerido, dentro del plazo de 5 días hábiles.
 
 #### Artículo 24
 
@@ -343,8 +349,6 @@ FISCALIZACIÓN
 #### Artículo 25
 
 Fiscalización. La fiscalización del cumplimiento de lo dispuesto en el presente Reglamento corresponderá al Servicio.
-
-Las contravenciones al Reglamento y a las resoluciones que al efecto se dispongan, en que incurran las Empresas Mineras, los Contratistas, Subcontratistas y/o las Empresas Proveedoras de Servicios para la Minería, serán sancionadas conforme a la ley.
 
 ## Título VI
 
