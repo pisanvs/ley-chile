@@ -1,0 +1,7 @@
+MODIFICA Y COMPLEMENTA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "ELEMENT POWER CHILE S.A."
+
+Mediante decreto exento Nº 69, de 15 de febrero de 2019, el Ministerio de Bienes Nacionales dispuso la modificación y complementación del decreto (exento) Nº 1.208, de 21 de octubre de 2013, del Ministerio de Bienes Nacionales, que otorgó a la sociedad "Element Power Chile S.A.", la concesión onerosa del inmueble fiscal ubicado a 30 kilómetros al sureste de la ciudad de Calama, comuna de Calama, provincia de El Loa, Región de Antofagasta, para ejecutar y desarrollar proyecto de Energía Renovable no Convencional, en el sentido que la concesión se otorga por un plazo de 35 años y que el proyecto se deberá construir en el plazo máximo e improrrogable de 10 años, contado desde la fecha de suscripción del contrato de concesión. Otras modificaciones en el decreto referido.
+
+La escritura pública modificatoria del contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del presente extracto. Los decretos con sus textos íntegros se encuentran disponibles en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Martín Aro Greene, Jefe División Jurídica (S).
