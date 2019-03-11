@@ -38,13 +38,11 @@ Fíjese la siguiente norma técnica para el uso de la banda de frecuencias de 70
 
 Acogiendo la recomendación de la Comisión Interamericana de Telecomunicaciones (CITEL) a través de su Comité Consultivo Permanente II, respecto a que las Administraciones de CITEL, que planeen utilizar la banda de 698 a 806 MHz para servicios móviles de banda ancha, consideren para dicho segmento la adopción de una de las opciones de canalización contenidas en la respectiva recomendación de la UIT, establécese la siguiente canalización para el uso de la banda de frecuencias de 700 MHz, que corresponde a la canalización adoptada por la Telecomunidad Asia-Pacífico (APT):
 
-Las bandas de frecuencias 698 - 703 MHz y 803 - 806 MHz serán destinadas a bandas de guarda.
-
-Las bandas 703 - 713 y 758 - 768 MHz quedarán reservadas, para su uso total o parcial, por parte del Estado para atender las necesidades de protección pública y socorro en caso de catástrofe o emergencia. La asignación de frecuencias de dichas bandas quedará sujeta al resultado de los estudios y medidas de compatibilidad con el servicio de radiodifusión televisiva digital que emplea la banda de frecuencias adyacente.
+La banda de frecuencias 803 - 806 MHz será destinada a banda de guarda.
 
 #### Artículo 2º
 
-Las autorizaciones para el uso de frecuencias de esta canalización se otorgarán mediante concesiones, las que serán asignadas mediante concurso público, excepto en el caso señalado en el inciso final del artículo 1° de la presente norma. La zona de servicio de cada concesión podrá abarcar todo el territorio nacional.
+Las autorizaciones para el uso de frecuencias de esta canalización se otorgarán mediante concesiones, las que serán asignadas mediante concurso público. La zona de servicio de cada concesión podrá abarcar todo el territorio nacional.
 
 #### Artículo 3º
 
