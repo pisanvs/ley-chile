@@ -40,33 +40,33 @@ v. Realizar un seguimiento a las políticas analizadas por la Comisión e implem
 
 El Presidente de la República, a través del Ministro de Economía, Fomento y Turismo y el Ministro de Hacienda, podrá encargar, en cualquier momento a la Comisión, el estudio, análisis y formulación de propuestas en áreas o temas específicos relacionados con políticas de estímulo y desarrollo de la productividad en el país.
 
-#### Artículo 3º
+#### Artículo 3°
 
 La Comisión estará integrada por los siguientes miembros:
 
-a) Joseph Rafael Ramos Quiñones, RUT 14.698.893-8, quien ejercerá como Presidente de la Comisión.
+a) Raphael Bergoeing Vela, RUT 9.838.812-5, quien ejercerá como Presidente de la Comisión.
 
-b) Carlos Álvarez Voullieme, RUT 8.970.274-7.
+b) Joseph Rafael Ramos Quiñones, RUT 14.698.893-8.
 
-c) Raphael Bergoeing Vela, RUT 9.838.812-5.
+c) Vesna Mandakovic Pizarro, RUT 13.507.570-1.
 
-d) Andrea Butelmann Peisajoff, RUT 6.383.159-K.
+d) Verónica Mies Moreno, RUT 10.715.198-2.
 
-e) Fernando Carmona Alert, RUT 13.496.999-7.
+e) Juan Cristóbal Marshall Silva, RUT 13.892.894-2.
 
-f) Rosanna María Assunta Costa Costa, RUT 7.234.724-2.
+f) María Aurora Olave Lacamara, RUT 13.441.915-6.
 
-g) Claudio Armando Muñoz Zúñiga, RUT 9.618.122-1.
+g) Marcelo Andrés Soto Ulloa, RUT 10.197.919-9.
 
-h) María Soledad Ovando Green, RUT 10.243.837-K
+h) Sergio Urzúa Soza, RUT 13.254.910-9.
 
-i) En calidad de representante del Ministerio de Economía, Juan Cristóbal Marshall Silva, RUT 13.892.894-2.
+i) Un representante del Ministerio de Hacienda.
 
-j) En calidad de representante del Ministerio de Hacienda, Claudio Edmundo Soto Gamboa RUT 7.981.443-1.
+j) Un representante del Ministerio de Economía, Fomento y Turismo.
 
 Las personas designadas en las letras a), b), c), d), e), f), g), h) durarán en sus cargos tres años, pudiendo ser renovado su nombramiento por una sola vez, mediante resolución conjunta del Ministro de Economía, Fomento y Turismo y del Ministro de Hacienda. En caso de renuncia, ausencia o impedimento permanente para ejercer sus funciones, deberán ser reemplazados, por personas que reúnan la calidad de representante del sector privado, representante de la Academia, empresas públicas o expertos en políticas públicas, mediante resolución conjunta del Ministro de Economía, Fomento y Turismo y del Ministro de Hacienda.
 
-Las personas designadas en las letras i) y j) integrarán la Comisión solo con derecho a voz. En caso de renuncia, ausencia o impedimento permanente para ejercer sus funciones, serán reemplazados por resolución ministerial del Ministro de Economía, Fomento y Turismo y el Ministro de Hacienda respectivamente.
+Los representantes de los Ministerios señalados en las letras i) y j) integrarán la Comisión sólo con derecho a voz y serán designados por resolución del Ministro de Hacienda o del Ministro de Economía, Fomento y Turismo, según corresponda. En caso de renuncia, ausencia o impedimento permanente para ejercer sus funciones, serán reemplazados por resolución del Ministro respectivo.
 
 La Comisión podrá solicitar, en calidad de invitados, la participación de funcionarios de la Administración del Estado, así como de personalidades de reconocida competencia en materia de productividad. Asimismo, podrá invitar a representantes del sector privado y la sociedad civil, si así lo estimare conveniente, quienes podrán participar con derecho a voz.
 
