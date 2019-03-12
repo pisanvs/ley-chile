@@ -24,7 +24,11 @@ Resuelvo:
 
 ### 1. DEL COMITÉ Y SU ADMINISTRACIÓN
 
-1.1. Créase un Comité con el nombre de "Comité de Seguros del Agro", que podrá usar el nombre de "Agroseguros", que tendrá por objeto desarrollar, promover, difundir y administrar herramientas para la gestión de los riesgos de la actividad silvoagropecuaria que enfrentan los productores del agro, dentro de la política de aseguramiento que impulsa para el sector el Ministerio de Agricultura, así como otras entidades públicas y privadas y, dentro de sus competencias, administrar los programas de subsidios y/o apoyo que los anteriores determinen o convengan en establecer para el cofinanciamiento de las primas de seguros y demás instrumentos de cobertura, contra pérdidas o daños ocasionados a las producciones agrícolas, pecuarias o forestales, así como a las instalaciones y/o sistemas productivos asociados a dichas producciones, derivadas de fenómenos climáticos, eventos de la naturaleza, accidentes y enfermedades del ganado; como también frente a las fluctuaciones de precios de productos agrícolas, tipo de cambio asociado a los mismos, y demás eventualidades de caso fortuito que puedan causar la pérdida o deterioro de los objetos asegurados, contratados por productores agrícolas, pecuarios y/o forestales, en adelante indistintamente "productores del agro", con compañías de seguros e instituciones intermediadoras de contratos de cobertura de precios y/o de tipo de cambio.
+1.1 Créase un Comité con el nombre de "Agroseguros", que tendrá por objeto desarrollar, promover, difundir y administrar herramientas para la gestión de los riesgos de la actividad silvoagropecuaria que enfrentan los productores del agro, dentro de la política de aseguramiento que impulsa para el sector el Ministerio de Agricultura, así como otras entidades públicas y privadas. Para el desarrollo de este objeto, el Comité se encontrará facultado para:
+
+a. Administrar los programas de subsidios y/o apoyo que el Ministerio de Agricultura, así como otras entidades públicas y privadas, determinen o convengan en establecer para el cofinanciamiento de las primas de seguros y demás instrumentos de cobertura, contra pérdidas o daños ocasionados a las producciones agrícolas, pecuarias o forestales, así como a las instalaciones y/o sistemas productivos asociados a dichas producciones, derivadas de fenómenos climáticos, eventos de la naturaleza, accidentes y enfermedades del ganado, como también frente a las fluctuaciones de precios de productos agrícolas, tipo de cambio asociado a los mismos, y demás eventualidades de caso fortuito que puedan causar la pérdida o deterioro de los objetos asegurados, contratados por productores agrícolas, pecuarios y/o forestales, en adelante, indistintamente, "productores del agro", con compañías de seguros e instituciones intermediadoras de contratos de cobertura de precios y/o de tipo de cambio.
+
+b. Contratar pólizas y fórmulas contractuales de seguro agrícola catastrófico, en calidad de tomador, asegurado o beneficiario, y para destinar las eventuales indemnizaciones a productores del agro.
 
 1.2. Este Comité será de aquellos a que se refiere el inciso tercero del artículo 7º del decreto con fuerza de ley Nº 211, de 1960.
 
@@ -32,7 +36,7 @@ Para cumplir con los fines señalados en el número 1.1. anterior, el Comité te
 
 a. Desarrollar, promover y difundir los seguros y demás contratos de cobertura de riesgos para el agro, el programa de subsidio general impulsado por el Ministerio de Agricultura, así como los programas de subsidio y/o apoyo complementarios o independientes impulsados por otras entidades públicas y privadas para el cofinanciamiento de las primas, y capacitar sobre el uso de los mismos, sea que dichas actividades las ejecute directamente Agroseguros, en coordinación con otras entidades, o mediante la contratación remunerada de terceros, dentro del ámbito de sus competencias.
 
-b. Establecer las políticas y normas reglamentarias para el otorgamiento del Subsidio General.
+b. Establecer las políticas, criterios y procedimientos para la contratación de seguros catastróficos y para el otorgamiento del Subsidio General.
 
 c. Determinar los procedimientos y controles internos para la operación del seguro, contratos de cobertura y otorgamiento del subsidio general.
 
@@ -40,9 +44,13 @@ d. Aprobar las pólizas, contratos de cobertura, compañías de seguros e instit
 
 e. Fiscalizar y evaluar la ejecución del programa.
 
-f. Realizar, sea por sí solo y/o en colaboración con entidades públicas y privadas, estudios y actividades destinadas a extender el desarrollo y la mejor utilización de instrumentos de gestión de riesgos para el sector productivo en los ámbitos agrícola, pecuario y forestal.
+f. Contratar pólizas y fórmulas de seguro agrícola catastrófico, bajo la modalidad de seguros por índices y/o daño, actuando, en este caso, como tomador, asegurado o beneficiario.
 
-g. Autorizar la celebración de convenios con entidades públicas y privadas, para desarrollar programas de subsidios y/o apoyo complementarios o independientes al subsidio general, para el cofinanciamiento de las primas de seguros y demás instrumentos de cobertura para el sector productivo de los ámbitos agrícola, pecuario y forestal, y administrar los recursos destinados a dicho fin.
+g. Destinar las eventuales indemnizaciones de seguro agrícola catastrófico a productores del agro, domiciliados en un área o zona rural determinada
+
+h. Realizar, sea por sí solo y/o en colaboración con entidades públicas y privadas, estudios y actividades destinadas a extender el desarrollo y la mejor utilización de instrumentos de gestión de riesgos para el sector productivo en los ámbitos agrícola, pecuario y forestal.
+
+i. Autorizar la celebración de convenios con entidades públicas y privadas, para desarrollar programas de seguro catastrófico, de subsidios y/o apoyo complementarios o independientes al subsidio general, para el cofinanciamiento de las primas de seguros y demás instrumentos de cobertura para el sector productivo de los ámbitos agrícola, pecuario y forestal, y administrar los recursos destinados a dicho fin.
 
 1.3. El Comité estará dirigido por un Consejo Directivo de cinco integrantes, entre los cuales habrá un Presidente.
 
@@ -64,19 +72,21 @@ a. Establecer la estructura técnica y administrativa del Comité;
 
 b. Definir las líneas de desarrollo preferente del Comité;
 
-c. Establecer las Zonas Beneficiarias del subsidio general y aprobar las respectivas Normas de Suscripción de materias asegurables;
+c. Establecer las Zonas Beneficiarias de seguro agrícola catastrófico, en conformidad con la letra g. del numeral 1.2, así como del subsidio general, y, para ambos casos, aprobar las respectivas Normas de Suscripción de materias asegurables.
 
-d. Aprobar las pólizas y contratos de cobertura factibles de ser cofinanciados con apoyo estatal;
+d. Aprobar las pólizas y contratos de cobertura factibles de ser financiados y cofinanciados con apoyo estatal;
 
-e. Aprobar las solicitudes de subsidio que presenten los beneficiarios del programa;
+e. Aprobar áreas o zonas agrícolas factibles de amparar bajo la modalidad de seguro agrícola catastrófico, así como los criterios para conformar las nóminas de productores del agro, habitantes rurales, correspondientes a las señaladas áreas o zonas agrícolas, potenciales beneficiarios de esta modalidad de seguro.
 
-f. Aprobar programas de subsidio complementario y/o independiente del subsidio general, así como el marco, términos y condiciones para el otorgamiento del beneficio o apoyo complementario y/o independiente;
+f. Aprobar las solicitudes de subsidio que presenten los beneficiarios del programa, y aprobar la nómina de beneficiarios destinatarios de la indemnización recibida por el Comité, en virtud del seguro catastrófico contratado por éste;
 
-g. Acordar todos los actos, contratos y operaciones que sean conducentes al cumplimiento de sus fines, facultades que deberá ejercer en conformidad con las disposiciones legales y reglamentarias aplicables a la Corporación;
+g. Aprobar programas de subsidio complementario y/o independiente del subsidio general, así como el marco, términos y condiciones para el otorgamiento del beneficio o apoyo complementario y/o independiente;
 
-h. Fijar y aprobar las normas relacionadas con el otorgamiento del Subsidio General, estableciendo los eventuales beneficiarios, las operaciones que podrán acogerse a él, las compañías de seguros o instituciones intermediadoras que podrán participar en el Programa y los requisitos que deberán cumplir y el monto total de subsidio a otorgar, según materia asegurada o cubierta;
+h. Acordar todos los actos, contratos y operaciones que sean conducentes al cumplimiento de sus fines, facultades que deberá ejercer en conformidad con las disposiciones legales y reglamentarias aplicables a la Corporación;
 
-i. Proponer eventuales modificaciones a las normas de funcionamiento del Comité de Seguros del Agro - Agroseguros.
+i. Fijar y aprobar las normas relacionadas con el otorgamiento del Subsidio General, estableciendo los eventuales beneficiarios, las operaciones que podrán acogerse a él, las compañías de seguros o instituciones intermediadoras que podrán participar en el Programa y los requisitos que deberán cumplir y el monto total de subsidio a otorgar, según materia asegurada o cubierta;
+
+j. Proponer eventuales modificaciones a las normas de funcionamiento del Agroseguros.
 
 1.5. Son atribuciones del Presidente del Consejo Directivo:
 
@@ -102,7 +112,9 @@ b. Firmar recibos y otorgar finiquitos y cancelaciones; celebrar contratos de ma
 
 c. Abrir y cerrar cuentas corrientes bancarias, girar en ellas, efectuar depósitos, retirar talonarios; dar orden de no pago, girar, endosar, cobrar, protestar y cancelar cheques; girar, endosar, descontar, depositar, revalidar, prorrogar, protestar y cancelar letras de cambio, pagarés y cualquier otro documento bancario o mercantil; reconocer o impugnar saldos y solicitar o autorizar cargos en dichas cuentas y, en general, efectuar todas las operaciones que son de común ocurrencia en el orden bancario. Todas las operaciones del orden bancario deberán llevar, para su validez, la firma del Director Ejecutivo, siempre en conjunto con la de otro empleado del Comité que designe al efecto su Consejo Directivo;
 
-d. Celebrar los convenios con entidades públicas y privadas, autorizados por el Consejo Directivo en virtud de lo señalado en la letra g) del numeral 1.2, anterior; pudiendo establecer mediante resoluciones las normas que estime conveniente para los programas de subsidio y/o apoyo complementarios o independientes impulsados por otras entidades públicas y privadas, fijando en éstas los requisitos exigibles a los beneficiarios, las compañías aseguradoras, y las operaciones y demás condiciones y exigencias que sean procedentes;
+d. Celebrar los convenios con entidades públicas y privadas, autorizados por el Consejo Directivo, en virtud de lo señalado en la letra i) del numeral 1.2 anterior.
+
+En ejercicio de esta facultad podrá establecer, mediante acto administrativo, las normas que estime convenientes para los programas de subsidio y/o apoyo complementarios o independientes impulsados por otras entidades públicas y privadas, fijando en éstos los requisitos exigibles a los beneficiarios, las compañías aseguradoras, y las operaciones y las demás condiciones y exigencias que sean procedentes; así como establecer y determinar los procedimientos que resulten necesarios y pertinentes para la implementación del seguro catastrófico, incluida la forma en que se transferirán los recursos de las eventuales indemnizaciones percibidas por el Comité a los beneficiarios seleccionados por el Consejo Directivo;
 
 e. Aprobar el Reglamento, y sus modificaciones, para el otorgamiento del Subsidio General, en conformidad con las normas aprobadas por el Consejo Directivo, según lo establecido en el numeral 1.4 anterior, regulando los demás elementos y procedimientos que resulten necesarios para la operación del instrumento;
 
