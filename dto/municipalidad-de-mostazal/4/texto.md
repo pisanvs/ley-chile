@@ -156,9 +156,13 @@ A.- Créanse los cargos que se señalan:
 
 Planta Cargo Grado N° Cargos
 
-Directivos Director de Tránsito y Transporte Público 6° 1
+Directivos Director de Tránsito
 
-Director de Medio Ambiente, Aseo y Ornato 6° 1
+y Transporte Público 6° 1
+
+Director de Medio Ambiente,
+
+Aseo y Ornato 6° 1
 
 Profesionales Profesional 8° 1
 
@@ -192,41 +196,75 @@ TOTAL 36
 
 B.- Suprímanse el/los cargos que se indican:
 
-Planta Cargo Grado N° Cargos
+Planta Cargo Grado Nº Cargos
 
 Técnicos Técnico 17° 1
 
-Administrativos Administrativo 18° 1
+Administrativos Administrativo 18º 1
+
+Auxiliares Auxiliar 18º 4
+
+TOTAL 6 "
 
 C.- Modifícanse los grados de los cargos que se indican:
 
-Planta Cargo Actual Grado N°
+Planta Cargo Grado Grado Nº Cargos
 
-Grado Modificado Cargos
+Actual Modificado
 
 Alcaldes Alcalde 6° 4° 1
 
-Directivos Juez de Policía Local 8° 6° 1
+Directivos Juez de Policía
 
-Administrador Municipal 8° 6° 1
+Local 8° 6° 1
 
-Secretario Municipal 8° 6° 1
+Administrador
 
-Secretario Comunal de Planificación 8° 6° 1
+Municipal 8° 6° 1
 
-Director de Desarrollo Comunitario 8° 6° 1
+Secretario
 
-Director de Administración y Finanzas 8° 6° 1
+Municipal 8° 6° 1
 
-Director de Control 8° 6° 1
+Secretario Comunal
 
-Director de Obras Municipales 8° 6° 1
+de Planificación 8° 6° 1
 
-Director de Seguridad Pública 8° 6° 1
+Director de
 
-Profesionales Profesional Secretario Abogado 8° 6° 1
+Desarrollo
 
-Juzgado de Policía Local 10° 7° 1
+Comunitario 8° 6° 1
+
+Director de
+
+Administración
+
+y Finanzas 8° 6° 1
+
+Director de
+
+Control 8° 6° 1
+
+Director de Obras
+
+Municipales 8° 6° 1
+
+Director de
+
+Seguridad
+
+Pública 8° 6° 1
+
+Profesionales Profesional
+
+Secretario
+
+Abogado 10º 7º 1 "
+
+Juzgado de Policía
+
+Local
 
 #### Artículo 3
 
@@ -236,29 +274,55 @@ Planta Cargo Grado N° Cargos
 
 Alcaldes Alcalde 4° 1
 
-Directivos Juez de Policía Local 6° 1
+Directivos Juez de Policía
 
-Administrador Municipal 6° 1
+Local 6° 1
 
-Secretario Municipal 6° 1
+Administrador
 
-Secretario Comunal de Planificación 6° 1
+Municipal 6° 1
 
-Director de Desarrollo Comunitario 6° 1
+Secretario
 
-Director de Administración y Finanzas 6° 1
+Municipal 6° 1
+
+Secretario Comunal
+
+de Planificación 6° 1
+
+Director de
+
+Desarrollo Comunitario 6° 1
+
+Director de
+
+Administración y
+
+Finanzas 6° 1
 
 Director de Control 6° 1
 
-Director de Obras Municipales 6° 1
+Director de Obras
 
-Director de Seguridad Pública 6° 1
+Municipales 6° 1
 
-Director de Tránsito y Transporte Público 6° 1
+Director de Seguridad
 
-Director de Medio Ambiente, Aseo y Ornato 6° 1
+Pública 6° 1
 
-Profesionales Profesional Secretario Abogado Juzgado de 7° 1
+Director de Tránsito y
+
+Transporte Público 6° 1
+
+Director de Medio
+
+Ambiente, Aseo y
+
+Ornato 6° 1
+
+Profesionales Profesional Secretario
+
+Abogado Juzgado de 7° 1
 
 Policía Local
 
@@ -320,43 +384,85 @@ Establézcanse los siguientes requisitos específicos para el desempeño de los 
 
 Planta Cargo Grado Requisitos
 
-Directivos Director de Obras Municipales 6° Establecido en el Art. 8° numeral 1, letra
+Directivos Director de
 
-a) de la Ley 18.883.
+Obras
 
-Director de Tránsito y 6° Título de Ingeniero en Tránsito,
+Municipales 6° Establecido en el
 
-Transporte Público Geógrafo, Ingeniero Civil Industrial,
+#### Artículo 8°
 
-Ingeniero Civil.
+numeral 1,
 
-Director de Medio 6° Título de Ingeniero de Medio Ambiente,
+letra a) de la
 
-Ambiente, Aseo y Ornato Ingeniero Agrónomo, Ingeniero Forestal,
+Ley 18.883.
 
-Ingeniero Civil Industrial, Ingeniero
+Director de
 
-Civil Bioquímico, Ingeniero en Recursos
+Tránsito y 6° Título de
 
-Naturales, Arquitecto, Ingeniero
+Transporte Ingeniero en
 
-Paisajista, Constructor Civil o Ingeniero
+Público Tránsito, Geógrafo,
 
-en Construcción.
+Ingeniero Civil
 
-Profesionales Secretario Abogado 7° Requiere título de Abogado, habilitado
+Industrial, Ingeniero
 
-Juzgado de Policía Local para el Juzgado de Policía Local
+Civil.
 
-ejercicio de la profesión y experiencia en
+Director de
 
-labores propias del Juzgado de Policía
+Medio 6° Título de Ingeniero de Medio Ambiente,
+
+Ambiente, de Medio Ambiente,
+
+Aseo y Ingeniero Agrónomo,
+
+Ornato Ingeniero Forestal,
+
+Ingeniero Civil
+
+Industrial, Ingeniero
+
+Civil Bioquímico, Ingeniero
+
+en Recursos Naturales,
+
+Arquitecto, Ingeniero
+
+Paisajista, Constructor
+
+Civil o Ingeniero en
+
+Construcción.
+
+Profesionales Secretario
+
+Abogado 7° Requiere título de Abogado,
+
+Juzgado de habilitado para el
+
+Policía Juzgado de Policía
+
+Local Local ejercicio de la
+
+profesión y experiencia
+
+en labores propias del
+
+Juzgado de Policía
 
 Local.
 
-Profesional 10° Un grado 10° requiere título profesional
+Profesional 10° Un grado 10° requiere
 
-de Arquitecto, Constructor Civil o
+título profesional
+
+de Arquitecto,
+
+Constructor Civil o
 
 Ingeniero Constructor.
 
