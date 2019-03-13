@@ -76,4 +76,6 @@ Postulación Familias
 
 6. Publíquese un extracto de la presente resolución en el Diario Oficial, por parte de la Seremi Regional y, de acuerdo a lo establecido en el artículo 27 del DS 255, Serviu deberá publicar en al menos un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de postulantes y proyectos beneficiados, de acuerdo al resuelvo Nº 3 de la presente resolución.
 
+> **Nota.** Los numerales 1° y 2° de la Resolución 169 Exenta, Vivienda, publicada el 13.03.2019, modifican la presente norma en el sentido de reemplazar el RUT del conjunto habitacional Los Conquistadores copropiedad E, código de grupo de Condominio Pablo Neruda Copropiedad 1312-1314 y Copropiedad 295-300, respectivamente, de la manera que la citada norma indica.
+
 Anótese, notifíquese y publíquese.- Francisco Ravanal González, Secretario Regional Ministerial de Vivienda y Urbanismo Región del Libertador General Bernardo O'Higgins.
