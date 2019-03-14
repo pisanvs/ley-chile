@@ -836,9 +836,9 @@ Se eximen de presentar dicho certificado las calderas nuevas que usanexclusivame
 
 #### Artículo 37
 
-La Superintendencia del Medio Ambiente conformará un registro de calderas de uso residencial, que servirá para mejorar las herramientas de gestión ambiental, tales como el inventario de emisiones de la zona saturada. Para lo anterior, los propietarios de toda caldera nueva o existente, que utilicen biomasa como combustible para fines de calefacción y de uso residencial en una vivienda, que están fuera del ámbito de aplicación del decreto supremo Nº 10 del 2013, del Ministerio de Salud, "Reglamento de Calderas, Autoclaves y Equipos que utilizan Vapor de Agua", deberán entregar a la Superintendencia del Medio Ambiente la siguiente información: Horas de operación en el año, consumo y tipo de combustible y una copia de la ficha técnica que acompaña la caldera.
+La Seremi del Medio Ambiente conformará un registro de calderas de uso residencial, que servirá para mejorar las herramientas de gestión ambiental, tales como el inventario de emisiones de la zona saturada. Para lo anterior, los propietarios de toda caldera nueva o existente, que utilicen biomasa como combustible para fines de calefacción y de uso residencial en una vivienda, que están fuera del ámbito de aplicación del decreto supremo Nº 10 del 2013, del Ministerio de Salud, "Reglamento de Calderas, Autoclaves y Equipos que utilizan Vapor de Agua", deberán entregar a la Superintendencia del Medio Ambiente la siguiente información: Horas de operación en el año, consumo y tipo de combustible y una copia de la ficha técnica que acompaña la caldera.
 
-La Superintendencia del Medio Ambiente establecerá en el plazo de tres meses, contados desde la publicación en el Diario Oficial del presente decreto, la resolución que informará sobre el procedimiento, plazos y condiciones para registrar la caldera. La Superintendencia del Medio Ambiente generará un reporte anual, que enviará a la SEREMI del Medio Ambiente.
+La Seremi del Medio Ambiente dispondrá de un plazo de tres meses contados desde la publicación en el Diario Oficial del DS N° 90, de 22 de octubre de 2018, del Ministerio del Medio Ambiente, para dictar la resolución que informará sobre el procedimiento, plazos y condiciones para registrar la caldera.
 
 #### Artículo 38
 
