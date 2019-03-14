@@ -1,0 +1,7 @@
+NOTIFICA RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO "MEJORA DEL DESEMPEÑO AMBIENTAL Y AMPLIACIÓN PLANTEL DE CERDOS SANTA JOSEFINA"
+
+De conformidad con lo dispuesto en el artículo 95º e inciso final del artículo 91º DS (MMA) Nº 40/2013 (Reglamento del SEIA), se comunica a toda persona natural y jurídica que hubiera presentado observaciones durante el proceso de participación ciudadana de la Declaración de Impacto Ambiental del Proyecto "Mejora del Desempeño Ambiental y Ampliación Plantel de Cerdos Santa Josefina", sometido al Sistema de Evaluación de Impacto Ambiental por su Titular, Agrícola Veneto Ltda., que por resolución exenta Nº 17/2019, de fecha 4 de marzo de 2019, la Comisión de Evaluación de la Región de Ñuble, calificó desfavorablemente el proyecto singularizado. Estas personas naturales y jurídicas disponen de un plazo de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Director Ejecutivo del Servicio de Evaluación Ambiental, de conformidad a lo dispuesto en los artículos 20º ley Nº 19.300 sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Ñuble, ubicadas en Vegas de Saldías 645, Chillán, en horario de atención entre las 08:30 a 13:30 horas, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web www.sea.gob.cl.-
+
+Sebastián Cruz Azócar, Secretario (S) Comisión de Evaluación Región de Ñuble.
