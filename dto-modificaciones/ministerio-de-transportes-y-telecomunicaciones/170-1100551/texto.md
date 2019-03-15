@@ -84,7 +84,7 @@ FÍSICAS:
 
 - Medidas de Seguridad del Documento:
 
-* Papel de seguridad tipo Bond (hilado) con gramaje ? 106 y ? 120 gr. por metro cuadrado, respectivamente;
+* Papel de seguridad tipo Bond (hilado) con gramaje >=; 106 y ≤ 120 gr. por metro cuadrado, respectivamente;
 
 . Fibras de seguridad visibles sólo bajo luz ultravioleta;
 
