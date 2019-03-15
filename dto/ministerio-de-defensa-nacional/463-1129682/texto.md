@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 463, de 10.Dic.2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a nombre de Werner Michael Koch Muñoz, C.I. 6.994.831-6, segunda renovación de concesión marítima menor, con vencimiento 31.Dic.2023, sobre sectores de playa, fondo de río y porción de agua, en lugar denominado Ribera Este del Río Calle Calle, comuna y provincia de Valdivia, Región de Los Ríos, con una superficie total de 243,45 m2, la que fue tramitada con el SIABC Nº 34395. A modo referencial se señala la siguiente coordenada geográfica vértice L, Lat 39º48'36,4758" S; Log 73º14'48,3750 W, datum DWG 84. El objeto y las obras, consiste en continuar amparando un embarcadero fijo sobre pilotes de madera y caseta para la venta de boletos; y el emplazamiento de un embarcadero flotante. Los antecedentes de la concesión se encuentran a disposición del público en la Capitanía de Puerto de Valdivia. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Jorge Risco Sabioncello, Capitán de Corbeta LT, Capitán de Puerto de Valdivia.
