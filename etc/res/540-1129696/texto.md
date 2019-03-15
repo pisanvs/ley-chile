@@ -1,0 +1,3 @@
+NOTIFICACIONES
+
+Mediante resolución N° 540 de 28 de febrero de 2019, el Serviu Región de Los Lagos, rectificó la resolución exenta N° 3396 de 23 de octubre de 2018, que dispuso la expropiación del lote N° 2 del Proyecto "Mejoramiento Avenida República, comuna de Osorno", modificando el rol de avalúo del inmueble expropiado y la individualización de la aparente propietaria, quedando en definitiva el rol de avalúo N° 2205-39 de la comuna de Osorno, y su aparente propietaria Valenzuela Rudloff Adriana.
