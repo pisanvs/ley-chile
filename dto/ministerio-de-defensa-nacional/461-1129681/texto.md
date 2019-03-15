@@ -1,0 +1,5 @@
+MODIFICACIÓN NO SUSTANCIAL DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 461, de fecha 10 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Alimex S.A., RUT 96.938.200-8, modificación no sustancial de la concesión marítima menor otorgada mediante decreto supremo N° 933, de 30 de diciembre de 2016, con vencimiento al 30 de junio de 2022. La modificación requerida consiste en la modificación del plazo de término de obras. Los sectores requeridos corresponden a Playa y Fondo de Mar, ubicados en el lugar denominado Sector Escuadrón Barrio Industrial, comuna de Coronel, Provincia de Concepción, Región del Biobío. Las obras consisten en instalar y operar una cañería aductora de agua de mar y un emisario submarino; el nuevo plazo contemplado para su ejecución se extenderá hasta el mes de enero del año 2020. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Coronel. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Coronel, 28 de febrero de 2019.- Rodrigo Testón Nahuelhuil, Capitán de Fragata LT, Capitán de Puerto de Coronel.
