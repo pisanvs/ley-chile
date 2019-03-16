@@ -180,7 +180,7 @@ Dentro de esta línea de financiamiento, existe una categoría de proyectos de e
 
 . Proyectos de Implementación Comunitaria: Corresponde a aquellos destinados a la adquisición de artículos, materiales y utensilios, necesarios para la realización de una actividad determinada; no tienen una vida útil prolongada. El objetivo de dichos proyectos, es contribuir al desarrollo organizacional, y a la cohesión social de los beneficiarios. Los montos a postular tendrán un mínimo de $300.000.- y un máximo de $1.000.000.- cuyo plazo máximo de ejecución y de presentación de la rendición de cuentas, es de 3 meses contados desde la transferencia de recursos o depósito del cheque en la cuenta bancaria a nombre de la Organización.
 
-. Proyectos de Infraestructura Social y Comunitaria: Corresponde a proyectos destinados principalmente a la construcción, mejoramiento, ampliación, reparación y/o mantención de bienes inmuebles, espacios públicos (incluye implementación), centros de salud municipales, postas rurales y estaciones médico rurales (ver desglose en tipología), proyectos destinados a conjuntos habitacionales, sujetos a copropiedad inmobiliaria - de conformidad a la ley 19.537, proyectos que contemplen el mejoramiento o ampliación de un sistema de agua potable rural (APR), Construcción de cierres perimetrales en viviendas sociales básicas, Proyectos de mantención, mejoramiento o implementación de salas cunas, jardines infantiles, colegios municipalizados y colegios pertenecientes a fundaciones o corporaciones.
+. Proyectos de Infraestructura Social y Comunitaria: Corresponde a proyectos destinados principalmente a la construcción, mejoramiento, ampliación, reparación y/o mantención de bienes inmuebles, espacios públicos (incluye implementación), centros de salud municipales, postas rurales y estaciones médico-rurales (ver desglose en tipología), proyectos destinados a conjuntos habitacionales, sujetos a copropiedad inmobiliaria - de conformidad a la ley 19.537, proyectos que contemplen el mejoramiento o ampliación de un sistema de agua potable rural (APR), proyectos de mantención, mejoramiento o implementación de salas cuna, jardines infantiles, colegios municipalizados y colegios pertenecientes a fundaciones o corporaciones.
 
 En cuanto al monto de financiamiento de los proyectos de infraestructura que se podrán solicitar al Fondo Social, se debe distinguir:
 
@@ -188,7 +188,7 @@ En cuanto al monto de financiamiento de los proyectos de infraestructura que se 
 
 - Para proyectos de mejoramiento, reparación o ampliación de obras existentes, donde también se incluyen los cierres perimetrales se podrá solicitar un monto mínimo de $2.000.000.- y un máximo de $15.000.000.-
 
-Importante: No se aceptarán proyectos por compra de materiales de construcción y bienes inmuebles. Todos los proyectos postulados a Infraestructura deberán ser por obra vendida. El plazo máximo de ejecución del proyecto y de presentación de la rendición de cuentas, corresponde a un máximo de 10 meses contados desde la transferencia de los recursos o depósito del cheque en la cuenta bancaria a nombre de la organización.
+Importante: No se aceptarán proyectos por compra de materiales de construcción y bienes inmuebles. Todos los proyectos postulados a Infraestructura deberán ser por obra vendida. El plazo máximo de ejecución del proyecto y de presentación de la rendición de cuentas, corresponde a un máximo de 9 meses contados desde la transferencia de los recursos o depósito del cheque en la cuenta bancaria a nombre de la organización.
 
 Glosario básico para proyectos de Infraestructura:
 
@@ -1059,6 +1059,10 @@ Importante: Se recuerda a las organizaciones que todo proyecto que involucre Per
 6.5.3 ANTICIPOS MONETARIOS A LOS CONTRATISTAS
 
 Las Organizaciones podrán efectuar anticipos de dinero a los contratistas, sin embargo, estos deberán quedar especificados previamente en el contrato de obra. El anticipo se ejecutará con posterioridad a la firma del contrato.
+
+> **Nota.** El numeral 3° del artículo primero de la Resolución 1142 Exenta, Interior, publicada el 16.3.2019, modifica el cuadro cuadro 4.1, de la manera que la citada norma indica.
+
+> **Nota.** NOTA 1 El numeral 4° del artículo primero de la Resolución 1142 Exenta, Interior, publicada el 16.3.2019, modifica el cuadro cuadro 4.2.1, de la manera que la citada norma indica.
 
 Anótese y publíquese.- Por orden del Presidente de la República, Rodrigo Ubilla Mackenney, Subsecretario del Interior.
 
