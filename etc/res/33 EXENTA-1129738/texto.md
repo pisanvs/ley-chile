@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO DEUDAS HIPOTECARIAS Y ESCRITURACIÓN"
+
+Por resolución exenta Nº 33, de 1 de febrero de 2019, el Director Nacional del Instituto de Previsión Social aprobó el documento denominado "Procedimiento Deudas Hipotecarias y Escrituración", cuyo objetivo es establecer el procedimiento de los procesos que dan cuenta del registro de los créditos hipotecarios otorgados a los imponentes de las ex Cajas de Previsión, hoy fusionadas en el Instituto de Previsión Social. Asimismo, los procesos de control de la deuda hipotecaria, administración de la cartera hipotecaria y las cuentas corrientes anexas (seguros de desgravamen, seguros de incendio, gastos notariales y contribuciones) propias del IPS y las provenientes de créditos cedidos a la ex Asociación Nacional de Ahorro y Préstamo (ANAP).
+
+Santiago, 11 de marzo de 2019.- Patricio Coronado Rojo, Director Nacional.
