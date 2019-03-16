@@ -228,6 +228,8 @@ Los estacionamientos se regirán, en general, por lo dispuesto en la OGUC y para
 
 Cuando en una edificación se contemplen distintas actividades establecidas en las tablas anteriores del presente artículo, se sumará la exigencia de estacionamientos que se genere por cada actividad en forma copulativa.
 
+> **Nota.** La letra b) del numeral II del Decreto 784 Exento, M. de Linares, publicado el 16.03.2019, modifica la presente norma en el sentido de reemplazar el Nº de Estacionamientos en los usos indicados, de la manera que la citada norma indica.
+
 #### Artículo 8
 
 PROPORCIÓN DE ÁREAS VERDES.
@@ -279,6 +281,8 @@ Los inmuebles de conservación histórica, en conformidad a lo que establece la 
 .
 
 Las normas urbanísticas a aplicar en las ampliaciones, reparaciones, alteraciones u obras menores que se realicen a estos inmuebles, corresponden a los de la zona del PRCL en que se encuentran
+
+> **Nota.** NOTA 1 La letra c del numeral II del Decreto 784 Exento, M. de Linares, publicado el 16.03.2019, modifica la presente norma en el sentido de introducir cambios en la Zona Z-1, Z-2, Z-4, Z-6, Z-8, Z-10, de la manera que la citada norma indica.
 
 #### Artículo 12
 
