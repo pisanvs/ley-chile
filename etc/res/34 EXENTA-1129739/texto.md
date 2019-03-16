@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LA ACTIVIDAD DE "TÉCNICO PARAMÉDICO" DESARROLLADA PARA EL EMPLEADOR HOSPITAL CLAUDIO VICUÑA, DE LA CIUDAD DE SAN ANTONIO, REGIÓN DE VALPARAÍSO
+
+Por resolución exenta Nº 34, de 13 de febrero de 2019, el Director Nacional (S) del Instituto de Previsión Social calificó como Trabajo Pesado la actividad "Técnico Paramédico, Servicio de Radiología", desarrollada para el empleador "Hospital Claudio Vicuña", incorporándola al Listado Oficial de Actividades e Industrias Diversas calificadas como trabajo pesado, correspondiendo aplicar una rebaja de edad de 1x5 (un año por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez con rebaja en la edad.
+
+Santiago, 11 de marzo de 2019.- Juan José Cárcamo Hemmelmann, Director Nacional (S).
