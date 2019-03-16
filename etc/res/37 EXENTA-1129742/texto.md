@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO REEMBOLSO DE FONDOS POR FALLECIMIENTO EX CAJA NACIONAL DE EMPLEADOS PÚBLICOS Y PERIODISTAS (CANAEMPU) Y EX CAJA DE PREVISIÓN DE EMPLEADOS PARTICULARES (EMPART)"
+
+Por resolución exenta Nº 37, de 14 de febrero de 2019, el Director Nacional (S) del Instituto de Previsión Social aprobó el documento denominado "Procedimiento Reembolso de Fondos por Fallecimiento ex Caja Nacional de Empleados Públicos y Periodistas (Canaempu) y ex Caja de Previsión de Empleados Particulares (Empart)", cuyo objetivo es establecer el procedimiento para el beneficio reembolso de fondos por fallecimiento de ex imponentes de la ex Caja Nacional de Empleados Públicos y Periodistas (Canaempu) y de la ex Caja de Previsión de Empleados Particulares (Empart).
+
+Santiago, 11 de marzo de 2019.- Juan José Cárcamo Hemmelmann, Director Nacional (S).
