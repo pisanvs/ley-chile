@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LA ACTIVIDAD DE "CONDUCTOR LOCOMOCIÓN COLECTIVA, TRANSPORTE DE PASAJEROS", DESARROLLADA PARA EL EMPLEADOR "MARIO LUIS MEDEL SÁNCHEZ"
+
+Por resolución exenta Nº 48, de 20 de febrero de 2019, la Directora Nacional (S) del Instituto de Previsión Social calificó como Trabajo Pesado la labor de "Conductor locomoción colectiva, transporte de pasajeros", desempeñada para el empleador "Mario Luis Medel Sánchez", incorporándola al Listado Oficial de Actividades e Industrias Diversas calificadas como trabajo pesado, correspondiendo aplicar una rebaja de edad de 1x5 (un año por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez con rebaja en la edad.
+
+Santiago, 11 de marzo de 2019.- María Soledad Ramírez Herrera, Directora Nacional (S).
