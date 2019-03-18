@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN RESUELVE SOLICITUD DE REALIZACIÓN DE PROCESO DE PARTICIPACIÓN CIUDADANA A LA DECLARACIÓN DE IMPACTO AMBIENTAL DEL PROYECTO "CIUDAD DEL PARQUE"
+
+De conformidad a lo dispuesto en el inciso 1 del artículo 30 bis de la ley Nº 19.300 y artículo Nº 94 inciso 3º del DS Nº 40/2012 MMA (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado solicitud de apertura de un proceso de participación ciudadana durante la evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Ciudad del Parque", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, Parque Alemán S.A., que por resolución exenta Nº 27, de fecha 31 de enero de 2019, el Servicio de Evaluación Ambiental de la Región del Biobío decreta la no realización de un proceso de participación ciudadana, por no concurrir los requisitos y exigencias legales a que se refiere el artículo 94 del Reglamento del SEIA para darle lugar al requerimiento. Estas personas, naturales o jurídicas, disponen de un plazo de 5 días, contados desde la presente notificación, para presentar recurso de reposición ante esta Dirección Regional.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA de Biobío, ubicadas en Lincoyán Nº145, Concepción, en horario de oficina. Además, podrá acceder a la resolución a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Directora Servicio de Evaluación Ambiental Región del Biobío.
