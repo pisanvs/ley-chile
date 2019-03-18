@@ -22,8 +22,6 @@ Resolución:
 
 2. Los recursos involucrados para la selección de postulantes, por región, provincia y comuna convocada, son los siguientes:
 
-.
-
 3. El número de proyectos seleccionados en cada región, provincia o comuna alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y ajustes que serán sancionadas mediante resolución.
 
 4. A las personas que se hayan inscrito con fecha anterior al 21 de junio de 2017, en proyectos que hayan ingresado hasta esa misma fecha, les serán exigibles las exigencias, requisitos y condiciones de los llamados vigentes en la fecha del ingreso del proyecto respectivo al Banco de Postulaciones, si ello les resulta más favorable. Igual tratamiento podrán tener los proyectos que hayan ingresado en el marco del llamado de la resolución exenta señalada en el visto d).
@@ -53,10 +51,6 @@ La complementación de los montos de subsidios por los aportes del Gobierno Regi
 11. Los proyectos que se hayan ingresado en el Banco de Postulaciones en el marco de llamados en condiciones de financiamiento especiales con anterioridad a la publicación en el Diario Oficial del DS N° 22 (V. y U.), de 2016, que modificó el DS N° 49 (V. y U.), de 2011, podrán participar en el presente llamado manteniendo las condiciones de financiamiento que le fueron aplicables al momento del ingreso, siempre que dichas condiciones no superen a las que se establecen en el presente llamado.
 
 12. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de proyectos seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional, o en el sitio web del Minvu.
-
-> **Nota.** El numeral 1° de la Resolución 3016 Exenta, Vivienda, publicada el 06.01.2020, modifica la presente norma en el sentido de reemplazar en la tabla inserta la fila de la Región de Los Lagos "Provincia de Llanquihue" y la fila "Total", por las que la citada norma indica.
-
-> **Nota.** NOTA 1 El numeral 1° de la Resolución 3136 Exenta, Vivienda, publicada el 08.01.2020, modifica la presente norma en el sentido de reemplazar en la tabla inserta la fila de la Región del Biobío "Provincias de Concepción y Biobío" y la fila "Total", por las que la citada norma indica.
 
 Anótese, publíquese y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
