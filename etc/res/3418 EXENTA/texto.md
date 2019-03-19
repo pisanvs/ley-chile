@@ -662,7 +662,7 @@ alternativa, que la partida proviene de un área o país libre de una plaga
 
 9. Las siguientes especies no requerirán declaraciones adicionales en el Certificado Fitosanitario para su ingreso al país:
 
-VER DIARIO OFICIAL DE 11.11.2002, PAGINA 4
+.
 
 10. Los géneros o especies no incluidas en esta resolución, así como el material de reproducción que presente modificaciones o manipulaciones genéticas requerirán para su ingreso de un permiso de importación específico para la especie y el origen, emitido por el Departamento de Protección Agrícola, en el que se establecerá las declaraciones adicionales y las condiciones de ingreso.
 
