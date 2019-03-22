@@ -10,7 +10,7 @@ Considerando:
 
 Resuelvo:
 
-Establécense los siguientes requisitos fitosanitarios de importación para plantas, estacas o ramillas de Prunus serrulata y Pyrus communis, y para estacas sin enraizar de Vitis candicans, V. champini, V. cinerea, V. riparia, V. rufotomentosa, V. rupestris y Vitis (=Muscadinia) rotundifolia, procedentes de Estados Unidos de Norteamérica:
+Establécense los siguientes requisitos fitosanitarios de importación para plantas, estacas o ramillas de Prunus serrulata y Pyrus communis, procedentes de Estados Unidos de Norteamérica:
 
 1. El envío deberá venir amparado por un Certificado Fitosanitario del USDA/APHIS, en el que consten las siguientes declaraciones adicionales:
 
@@ -80,11 +80,13 @@ higroscópicos, de acuerdo a normativa vigente.
 
 7. Para los Materiales Modificados Genéticamente por Biotecnología Moderna, el importador deberá declarar su condición genética y cumplir con las normativas del Servicio Agrícola y Ganadero, que establecen los requisitos para la internación e introducción al medio ambiente de estos materiales.
 
-8. Si los envíos están compuestos por híbridos interespecíficos que deriven de especies del género Vitis o Prunus, que estén reguladas en esta resolución u otra normativa vigente, deberán cumplir con las declaraciones adicionales y requisitos fitosanitarios correspondientes a cada especie parental.
+8. Si los envíos están compuestos por híbridos interespecíficos que deriven de especies del género Prunus, que estén reguladas en esta resolución u otra normativa vigente, deberán cumplir con las declaraciones adicionales y requisitos fitosanitarios correspondientes a cada especie parental.
 
 > **Nota.** El numeral 1., 1.1 de la Resolución 8389 Exenta, Agricultura, publicada el 13.12.2014, modifica la presente norma en el sentido de eliminar del resuelvo número 1.2, especie cerezo japonés (Prunus serrulata), la segunda viñeta, correspondiente a la declaración adicional establecida para la plaga Monilinia fructicola.
 
 > **Nota.** NOTA 1 El numeral 1.5 del número 1 de la Resolución 6718 Exenta, Agricultura, publicada el 11.11.2017, modifica la presente norma en el sentido de agregar en el resuelvo 1, en el punto 1.2., para la especie Peral (Pyrus communis) en Declaración Adicional una nueva sexta viñeta para la plaga Xylella fastidiosa.
+
+> **Nota.** NOTA 2 El numeral 10.2 del numero 10 de la Resolución 1742 Exenta, Agricultura, publicada el 22.03.2019, modifica la presente norma en el sentido de eliminar el subtítulo de "Vitis candicans, V. champini, V. cinerea, V. riparia, Vitis (=Muscadinia) rotundifolia, V. rufotomentosa, V. rupestris Estacas sin enraizar" con todos sus incisos.
 
 Disposición transitoria:
 
