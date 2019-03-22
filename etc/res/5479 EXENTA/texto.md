@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-Establécese las siguientes regulaciones de importación para plantas, estacas y ramillas de las siguientes especies: Vaccinium corymbosum, Corylus avellana, Punica granatum, Malus spp., Persea americana; para esquejes enraizados y sin enraizar de Fragaria x ananassa; y para estacas sin enraizar de Vitis vinifera, procedentes Estados Unidos de Norteamérica, a condición de cumplir en lo general con las resoluciones del Servicio Agrícola y Ganadero Nº 3.280 de 1999, que establece requisitos para el ingreso de material vegetal en régimen de Cuarentena de Post-Entrada, y Nº 2.863 de 2001 que la complementa, y en lo particular con lo que se establece en la presente resolución:
+Establécese las siguientes regulaciones de importación para plantas, estacas y ramillas de las siguientes especies: Vaccinium corymbosum, Corylus avellana, Punica granatum, Malus spp., Persea americana; para esquejes enraizados y sin enraizar de Fragaria x ananassa, procedentes Estados Unidos de Norteamérica, a condición de cumplir en lo general con las resoluciones del Servicio Agrícola y Ganadero Nº 3.280 de 1999, que establece requisitos para el ingreso de material vegetal en régimen de Cuarentena de Post-Entrada, y Nº 2.863 de 2001 que la complementa, y en lo particular con lo que se establece en la presente resolución:
 
 1. El material, deberá venir amparado por un Certificado Fitosanitario del Departamento de Agricultura de Estados Unidos (USDA/APHIS), en el que consten los siguientes requisitos y declaraciones adicionales:
 
@@ -420,132 +420,6 @@ reniformes,Radopholus similis, de acuerdo
 
 a análisis oficial de laboratorio.
 
-Vid * El material procede de plantas madres que
-
-han sido inspeccionadas durante el
-
-(Vitis último período de crecimiento activo
-
-vinifera) y analizadas utilizando indicadores
-
-Estacas sin adecuados o métodos equivalentes y
-
-enraizar encontradas libres de Peach rosette mosaic
-
-virus, indicando la técnica analítica
-
-utilizada en el diagnóstico de la plaga.
-
-. El material vegetal procede de plantas
-
-madres que fueron inspeccionadas y
-
-analizadas mediante (especificar
-
-técnica de diagnóstico) en el momento
-
-óptimo para la detección de la plaga,
-
-y encontradas libres de Xylella
-
-fastidiosa.
-
-* El material procede de plantas madres que
-
-han sido inspeccionadas durante el último
-
-período de crecimiento activo y
-
-encontradas libres de Guignardia bidwellii.
-
-* El lugar de producción fue oficialmente
-
-inspeccionado durante el último período
-
-de crecimiento activo y encontrado libre
-
-de Daktulosphaira(=Viteus)vitifoliae (Hem.
-
-Phylloxeridae).
-
-* El material se encuentra libre de los
-
-siguientes artrópodos:
-
-Aonidiella orientalis (Hem. Diaspididae)
-
-Brevipalpus lewisi (Ac. Tenuipalpidae)
-
-Ceroplastes rusci (Hem. Coccidae)
-
-Cnephasia longana(Lep. Tortricidae)
-
-Eotetranychus carpini (Ac. Tetranychidae)
-
-Eotetranychus willamettei (Ac. Tetranychidae)
-
-Eulecanium tiliae (Hem. Coccidae)
-
-Erythroneura spp. (Hem. Cicadellidae)
-
-Homalodisca coagulata (Hem. Cicadellidae)
-
-Maconellicoccus hirsutus(Hem. Pseudococcidae)
-
-Metcalfa pruinosa (Hem. Flattidae)
-
-Nipaecoccus nipae (Hem. Pseudococcidae)
-
-Planococcus ficus (Hem. Pseudococcidae)
-
-Pseudaulacaspis pentagona (Hem. Diaspididae)
-
-Scaphoideus titanicus (Hem. Cicadellidae)
-
-Tetranychus kanzawai (Ac. Tetranychidae)
-
-Tetranychus mcdanieli(Ac. Tetranychidae)
-
-Tetranychus neocaledonicus (Ac. Tetranychidae)
-
-Tetranychus pacificus (Ac. Tetranychidae)
-
-Tetranychus turkestani (Ac. Tetranychidae)
-
-Zeuzera pyrina (Lep. Cosiidae)
-
-- Si el material proviene de un lugar de
-
-producción y empaque dentro de un área no
-
-reglamentada por USDA/APHIS, para Lobesia
-
-botrana (Lep: Tortricidae), la declaración
-
-adicional indicará dicha condición,
-
-identificando el nombre del Condado y
-
-Estado de Estados Unidos; o
-
-- Si el material proviene de un lugar de
-
-producción y empaque dentro de un área
-
-reglamentada por USDA/APHIS para Lobesia
-
-botrana (Lep: Tortricidae), la declaración
-
-adicional indicará dicha condición,
-
-identificando el nombre del Condado y
-
-Estado de Estados Unidos y además indicará
-
-que el envío se encuentra libre de Lobesia
-
-botrana (Lep: Tortricidae).
-
 . Arándano (Vaccinium corymbosum)
 
 . Palto (Persea americana).
@@ -556,7 +430,7 @@ botrana (Lep: Tortricidae).
 
 * Libre de suelo y desprovisto de flores y restos de frutos.
 
-* Adicionalmente, los materiales de Malus spp., Persea americana, Punica granatum y Corylus avellana, deberán venir desprovistos de hojas y los de Vitis vinifera deberán venir libres de raíces y desprovisto de hojas.
+* Adicionalmente, los materiales de Malus spp., Persea americana, Punica granatum y Corylus avellana, deberán venir desprovistos de hojas.
 
 * Embalados en envases cerrados, resistentes a la manipulación y factibles de sellar.
 
