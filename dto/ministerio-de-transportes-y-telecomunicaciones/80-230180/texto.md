@@ -166,7 +166,7 @@ Asimismo, no se exigirá nómina de pasajeros a los vehículos que estén presta
 
 #### Artículo 16º
 
-El transporte privado remunerado de pasajeros sólo podrá prestarse con buses y/o minibuses. Para los efectos del presente reglamento, se consideran minibuses aquellos vehículos con capacidad igual o superior a 7 asientos e igual o inferior a 17 y que tienen un peso bruto vehicular igual o superior a 2.700 e inferior a 3.860 Kilogramos. Asimismo, se consideran buses aquellos vehículos con capacidad de 18 o más asientos y que tienen un peso bruto vehicular igual o superior a 3.860 Kilogramos, en ambos casos incluido el asiento del conductor.
+El transporte privado remunerado de pasajeros sólo podrá prestarse con buses y/o minibuses. Para los efectos del presente reglamento, se consideran minibuses aquellos vehículos con capacidad igual o superior a 7 asientos e igual o inferior a 17. Asimismo, se consideran buses aquellos vehículos con capacidad de 18 o más asientos, en ambos casos incluido el asiento del conductor. Los buses y minibuses que presten servicios de transporte privado remunerado de pasajeros deberán tener un peso bruto vehicular igual o superior a 2.700 Kilogramos.
 
 Asimismo, el transporte privado remunerado de pasajeros podrá prestarse con Station Wagon y vehículos que cuenten con tracción en las 4 ruedas, que tengan las siguientes características:
 
@@ -190,7 +190,7 @@ Asimismo, podrá prestarse servicios de transporte de turistas con vehículos de
 
 También, podrá prestarse transporte privado remunerado de pasajeros con Limusinas. Para los efectos del presente reglamento, se consideran Limusinas, aquellos vehículos que posean 4 o más puertas laterales; una distancia igual o superior a 3 metros, entre el eje delantero y el eje trasero, medido desde el centro de cada uno de ellos; y que cuentan con una cilindrada igual o superior a 2.500 c.c.
 
-Adicionalmente, para la prestación de servicios de transporte privado remunerado de pasajeros, no se podrán utilizar vehículos hechizos a que se refiere el artículo 43 de la ley 18.290. Asimismo, los buses tipo Pullman que se utilicen para prestar servicios de transporte privado remunerado de pasajeros, no podrán tener adaptaciones o modificaciones en su estructura, debiendo tratarse sólo de modelos estándar de fabricación.
+Adicionalmente, para la prestación de servicios de |transporte privado remunerado de pasajeros, no se podrán utilizar vehículos hechizos a que se refiere el artículo 43 de la ley 18.290. Asimismo, los buses tipo Pullman que se utilicen para prestar servicios de transporte privado remunerado de pasajeros, no podrán tener adaptaciones o modificaciones en su estructura, debiendo tratarse sólo de modelos estándar de fabricación.
 
 #### Artículo 17º
 
