@@ -1,0 +1,7 @@
+MODIFICA Y COMPLEMENTA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "FOTOVOLTAICA SOL DEL NORTE SpA"
+
+Mediante decreto exento Nº 104 de 15 de marzo de 2019, del Ministerio de Bienes Nacionales dispuso la modificación y complementación del decreto (exento) Nº 1.102 de 15 de noviembre de 2012, del Ministerio de Bienes Nacionales, que otorgó a la sociedad "Fotovoltaica Sol del Norte SpA", la concesión onerosa del inmueble fiscal ubicado en la Ruta B-241, frente a la Subestación Andes, comuna, provincia y Región de Antofagasta, para ejecutar y desarrollar proyecto de Energía Renovable no Convencional; en el sentido de disponer un nuevo plazo de 36 meses para el cumplimiento de la etapa de construcción del proyecto "Huerto Solar Sol del Norte", contado desde la fecha de publicación en el Diario Oficial del extracto del presente decreto.
+
+La escritura pública modificatoria del contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del presente extracto. Los decretos con sus textos íntegros se encuentran disponibles en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Martín Aro Greene, Jefe División Jurídica (S).
