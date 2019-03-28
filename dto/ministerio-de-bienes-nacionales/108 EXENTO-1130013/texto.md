@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE ÑUBLE, A LA "FUNDACIÓN EDUCACIONAL PARA EL DESARROLLO INTEGRAL DE LA NIÑEZ (INTEGRA)"
+
+Mediante decreto exento Nº E-108, de 5 de marzo de 2019, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Fundación Educacional para el Desarrollo Integral de la Niñez (Integra)", RUT Nº 70.574.900-0, el inmueble fiscal correspondiente al Sitio B, ubicado en calle 18 Septiembre N° 137, comuna de San Fabián, provincia de Ñuble, hoy provincia de Punilla, Región del Biobío, hoy Región de Ñuble; enrolado en el Servicio de Impuestos Internos con el Nº 21-5; inscrito a mayor cabida a nombre del Fisco a fojas 499 vta. Nº 522, del Registro de Propiedad del Conservador de Bienes Raíces de San Carlos, correspondiente al año 1969; singularizado en el Plano N° 08417-3853-C.U.; con una superficie de 740,13 m2. La Concesión se otorga por un plazo de 8 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para el funcionamiento de un Jardín Infantil. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza Extracto.-
+
+Martín Aro Greene, Jefe de División Jurídica (S).
