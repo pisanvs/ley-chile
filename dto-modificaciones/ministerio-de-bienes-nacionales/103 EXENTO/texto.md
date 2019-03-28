@@ -1,0 +1,7 @@
+MODIFICA Y COMPLEMENTA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE ARICA Y PARINACOTA, A "ARICA SOLAR GENERACIÓN 2 LIMITADA"
+
+Mediante decreto exento Nº 103, de 15 de marzo de 2019, del Ministerio de Bienes Nacionales dispuso la modificación y complementación del decreto (exento) Nº 185 de 22 de abril de 2016, del Ministerio de Bienes Nacionales, que otorgó a la sociedad "Arica Solar Generación 2 Limitada", la concesión onerosa del inmueble fiscal compuesto por los Lotes 1, 2 y 3 ubicados en Pampa María José, del lugar denominado Alto Higuarane, comuna y provincia de Arica, Región de Arica y Parinacota, para ejecutar y desarrollar proyecto de Energía Renovable No Convencional; en el sentido que el plazo de la concesión será de 35 años; la concesionaria se obligará a desarrollar y concluir las Etapas 1, 2 y 3 del proyecto en el plazo máximo e improrrogable de 10 años, contado desde la fecha de suscripción del contrato de concesión. Otras modificaciones en el decreto referido.
+
+La escritura pública modificatoria del contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del presente extracto. Los decretos con sus textos íntegros se encuentran disponibles en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Martín Aro Greene, Jefe División Jurídica (S).
