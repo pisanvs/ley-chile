@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO, AL "SERVICIO DE SALUD DE VIÑA DEL MAR - QUILLOTA"
+
+Mediante decreto exento Nº E-123, de 13 de marzo de 2019, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, al "Servicio de Salud de Viña del Mar - Quillota", RUT Nº 61.606.600-5, el inmueble fiscal ubicado calle Manuel Montt Nº 860, comuna y provincia de Petorca, Región de Valparaíso; enrolado en el Servicio de Impuestos Internos con el Rol Nº 10-1; inscrito a nombre del Fisco a fs. 48 N° 42 del Registro de Propiedad del Conservador de Bienes Raíces de Petorca, correspondiente al año 1863; singularizado en el Plano Nº 05404-8920-C.U.; con una superficie de 5.611,4 m². La Concesión se otorga por un plazo de 25 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para el funcionamiento del Hospital de Petorca, y efectuar las mantenciones y mejoras de sus instalaciones. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Martín Aro Greene, Jefe de División Jurídica (S).
