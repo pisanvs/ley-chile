@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE TARAPACÁ, A LA "FUNDACIÓN EDUCACIONAL PARA EL DESARROLLO INTEGRAL DE LA NIÑEZ (INTEGRA)"
+
+Mediante decreto exento Nº E-124, de 13 de marzo de 2019, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Fundación Educacional para el Desarrollo Integral de la Niñez (Integra)", RUT Nº 70.574.900-0, el inmueble fiscal ubicado en la Ruta A-690 S/Nº, Caleta Chanavayita, comuna y provincia de Iquique, Región de Tarapacá; enrolado en el Servicio de Impuestos Internos con el Nº 4326-1; inscrito a nombre del Fisco en inscripción global a fs. 1078 Nº 1747, del Registro de Propiedad del Conservador de Bienes Raíces de Iquique, correspondiente al año 2011; singularizado en el Plano N° 01101-2453-C.R.; con una superficie de 1.547,41 m2. La Concesión se otorga por un plazo de 8 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para el funcionamiento de un Jardín Infantil. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.Autoriza extracto.-
+
+Martín Aro Greene, Jefe de División Jurídica (S).
