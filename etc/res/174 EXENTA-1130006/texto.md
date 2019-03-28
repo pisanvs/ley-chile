@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 174 EXENTA, DE 25 DE FEBRERO DE 2019
+
+Por resolución exenta N° 174, de fecha 25 de febrero de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Coquimbo, se otorgó reconocimiento oficial a la Escuela de Conductores Profesionales o Clase A denominada "Sociedad de Conductores Certificados Limitada o Conducert Ltda.", de propiedad de la sociedad del mismo nombre, RUT 76.517.666-2, representada legalmente por don Jaime Parada Enero, RUN 7.444.065-7, para impartir cursos conducentes a la obtención de la licencia de conductor profesional Clase A-2, A3, A4 y A-5, en su sede ubicada en calle Santiago N° 380 y su taller mecánico en calle Independencia N° 676, ambos en la comuna de Ovalle.-
+
+Juan Fuentes Isla, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Coquimbo.
