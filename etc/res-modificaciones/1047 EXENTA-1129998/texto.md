@@ -1,0 +1,55 @@
+MODIFICA LOS REGISTROS SANITARIOS DE MEDICAMENTOS QUE CONTENGAN EL PRINCIPIO ACTIVO VALSARTÁN Y OTROS ANTAGONISTAS DE LOS RECEPTORES DE ANGIOTENSINA II (ARA II) E INSTRUYE AL DEPARTAMENTO AGENCIA NACIONAL DE MEDICAMENTOS, RESPECTO AL USO Y DISPOSICIÓN DE DICHOS PRODUCTOS
+
+Núm. 1.047 exenta.- Santiago, 18 de marzo de 2019.
+
+Vistos estos antecedentes:
+
+La providencia interna 285, de fecha 4 de febrero de 2019, de la Jefa (S) de Asesoría Jurídica; el memorándum 102, de fecha 1 de febrero de 2019, del Jefe (S) del Departamento Agencia Nacional de Medicamentos, y
+
+Considerando:
+
+Primero: Que, al tenor de lo establecido en el artículo 96 del Código Sanitario, el Instituto de Salud Pública de Chile es la autoridad encargada del control sanitario de los productos farmacéuticos y de los establecimientos del área y, además, de velar por el cumplimiento de las disposiciones que sobre la materia se contienen en dicho Código y sus reglamentos respectivos.
+
+Segundo: Que, en el mismo sentido, el numeral 3 de la letra b) del artículo 59 del decreto con fuerza de ley N° 1 de 2005, del Ministerio de Salud, radica en el Instituto la función de ejercer las actividades relativas al control de calidad de medicamentos, dentro de las cuales está la de controlar las condiciones de internación, exportación, fabricación, distribución, expendio y uso a cualquier título de esos productos.
+
+Tercero: Que, se ha tenido a la vista por parte del Instituto de Salud Pública de Chile la información difundida por las autoridades de medicamentos de los Estados Unidos, Food and Drug Administration (FDA) y la Agencia Española de Medicamentos y Productos Sanitarios (AEMPS), respecto al hallazgo de las impurezas N-nitrosodimetilamina (NDMA) y N-nitrosodietilamina (LADEA) en la materia prima de valsartán sintetizada por la empresa Zhejiang Huahai Pharmaceutical Co.,Ltd., China.
+
+Cuarto: Que, actualmente existen registros sanitarios vigentes para productos farmacéuticos que contienen Valsartán como materia prima activa elaborada por el fabricante señalado en la consideración que precede. En dicho contexto, se han instruido retiros por parte del Servicio para los lotes de Valsartán cuyo origen es de Zhejiang Huahai Pharmaceutical Co., Ltd., China. Asimismo, se han tenido a la vista antecedentes disponibles respecto a presencia de las impurezas señaladas en la síntesis de productos con materias primas de otros principios activos de la familia de antagonistas de los receptores de angiotensina II (ARA II).
+
+Quinto: Que, de lo anterior fluye evidencia del riesgo que puede generar la administración de NDMA y NDEA en forma prolongada en el tiempo a los pacientes, existiendo una justificada incertidumbre por la eventual presencia cualitativa de impurezas que -según se ha determinado- pueden generarse cuando se presentan sustancias químicas y condiciones de reacción específicas en el proceso de fabricación del principio activo del medicamento, y también pueden ser el resultado de la reutilización de materiales, como los disolventes.
+
+Sexto: Que, la información actualmente disponible por parte de la Food and Drug Administration (FDA) refiere límites aceptables de las impurezas NDMA y NDEA en medicamentos que contienen ARA II, por lo que fuerza al Instituto de Salud Pública a obrar conforme a su finalidad en aras de proteger la salud de la población y ejercer el control que por mandato legal debe llevar a cabo respecto de los productos farmacéuticos que, en lo que interesa a estos efectos, contengan los componentes que se han expuesto.
+
+Séptimo: Que, el artículo 99° del decreto supremo N° 3 de 2010, del Ministerio de Salud, dispone en su inciso segundo que una vez concluida la destinación aduanera y retirados los productos de los recintos de aduana, ellos quedarán depositados bajo la responsabilidad del consignatario, quien no podrá usar, consumir, vender, ceder o disponer de ellos a ningún título, sin obtener el visto bueno del Instituto otorgando su autorización de uso y disposición, negándola o fijando un período de seguridad para practicar los controles sanitarios correspondientes, tiempo durante el cual los productos no podrán ser utilizados ni distribuidos a ningún título.
+
+De esta manera, se colige que la autorización de uso y disposición, como parte de la importación de productos farmacéuticos y sus materias primas, ofrece una de las mejores oportunidades para el control de parámetros asociados a la detección y cuantificación de impurezas.
+
+Octavo: Que, por lo tanto, dada la conveniencia que al caso ofrece dicha herramienta, resulta pertinente que el Instituto adopte las medidas tendientes a asegurar que quienes importen productos farmacéuticos o materias primas que contengan el principio activo valsartán u otros antagonistas de los receptores de angiotensina II (ARA II), puedan acreditar la descripción del método mediante el cual se cuantificarán las impurezas.
+
+Noveno: Que, es necesario recordar que el artículo 174 del Reglamento de Productos Farmacéuticos dispone que toda persona natural o jurídica, que actúe como fabricante e importadora de productos farmacéuticos y materias primas, deberá adoptar un sistema de control de calidad que asegure el cumplimiento de las especificaciones de producción, de las materias primas y de producto terminado, a través de la realización de los análisis correspondientes. Dicha norma es armónica con lo dispuesto en el artículo 178 del mismo cuerpo reglamentario cuando prescribe que los requerimientos de calidad serán los establecidos en las especificaciones del producto y los métodos de control que se utilizarán serán los aprobados al otorgarse el respectivo registro sanitario o en sus modificaciones posteriores.
+
+Décimo: Que, precisamente respecto de aquellas modificaciones que puede sufrir un registro sanitario, el artículo 64 del decreto supremo Nº 3, de 2010, del Ministerio de Salud, indica que el Instituto podrá exigir, mediante resolución fundada, realizar o exigir que dentro de un plazo definido se realicen las modificaciones del registro que sean necesarias para garantizar la calidad, seguridad y eficacia en el uso de una o varias especialidades farmacéuticas, cuando mediante antecedentes emanados de la Organización Mundial de la Salud, de organismos o entidades nacionales, internacionales o extranjeras o de su propia investigación se forme la convicción que alguna de las condiciones de uso autorizadas presenta un riesgo en su seguridad y eficacia. De este modo, atendido lo expuesto en las consideraciones que preceden, se estima que concurre en la especie la hipótesis que hace imperiosa la modificación de ciertos registros sanitarios.
+
+Undécimo: Que, como corolario de lo hasta acá señalado, tomando en cuenta la facultad delegada que se contiene en la letra c) del artículo XXI de la resolución exenta N° 56 de 2019, de este Instituto, esta Directora (S) junto con modificar los registros sanitarios que contengan alguno de los principios activos que se indicarán, instruirá al Departamento Agencia Nacional de Medicamentos para que previo a otorgar el uso y disposición a dichos productos, evalúe la descripción del método mediante el cual se cuantificarán las impurezas, y
+
+Teniendo presente:
+
+Lo dispuesto en la Ley N° 18.575, Ley Orgánica Constitucional de Bases Generales de la Administración del Estado; lo que ha prescrito la Ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; lo que han señalado los artículos 59 letra b), 60 y 61 del decreto con fuerza de ley N° 1, de 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 2.763 y de las leyes N° 18.933 y N° 18.469; lo señalado en el decreto supremo 3, de 2010, del Ministerio de Salud; lo consignado en la resolución exenta N° 1600, de 2008, de la Contraloría General de la República; la resolución exenta N° 56 de 2019, de este Instituto, y las facultades que me confiere el decreto supremo N° 54, de 2018, del Ministerio de Salud, dicto la siguiente:
+
+Resolución:
+
+1.- Modifícanse los registros sanitarios de los productos farmacéuticos que contienen como principio activo valsartán, losartán, irbesartán, olmesartán, candesartán y telmisartán, incorporándose en todos y cada uno de ellos la obligatoriedad de acreditar el método mediante el cual se cuantificarán las impurezas N-nitrosodimetilamina (NDMA) y N-nitrosodietilamina (NDEA), determinándose como límites máximos de ellas, los que se establecen en la siguiente tabla:
+
+.
+
+2.- Determínase que en razón de lo señalado en el artículo 64 del decreto supremo N° 3 de 2010, del Ministerio de Salud, los titulares de los registros sanitarios de productos farmacéuticos que contienen valsartán, losartán, irbesartán, olmesartán, candesartán y telmisartán, deben enviar a este Instituto la descripción del método mediante el cual se cuantificarán las impurezas N-nitrosodimetilamina (NDMA) y N-nitrosodietilamina (NDEA), en un plazo de 30 días hábiles a contar de la fecha de la publicación de esta resolución en el Diario Oficial para los medicamentos y materias primas que contengan valsartán, y 90 días hábiles contados desde la misma fecha, para los medicamentos y materias primas que contengan losartán, irbesartán, olmesartán, candesartán y telmisartán.
+
+3.- Instrúyese al Departamento Agencia Nacional de Medicamentos, para que a través del Subdepartamento Control de Comercio Exterior, Estupefacientes y Psicotrópicos, resuelva el uso y disposición de los medicamentos y materias primas que contengan un ARA-II, previa evaluación favorable de la descripción del método mediante el cual se cuantificarán las impurezas N-nitrosodimetilamina (NDMA) y N-nitrosodietilamina (NDEA).
+
+4.- Establécese que para cada uno de los lotes, el Departamento Agencia Nacional de Medicamentos solo se pronunciará favorablemente respecto al uso y disposición de aquellos medicamentos y materias primas que presenten impurezas en niveles iguales o inferiores al límite señalado en la tabla del numeral 1 precedente, donde se establece el criterio de conformidad según el respectivo principio activo, debiendo denegar o fijar un periodo de seguridad para aquellas mercancías que incumplan estos parámetros o no acompañen los respectivos certificados.
+
+5.- Establécese que la fecha de inicio del control señalado para los productos y materias primas que contienen Valsartán deberá comenzar a regir al cabo de 30 días hábiles contados desde la fecha de la presente resolución y de 90 días hábiles para los demás principios activos indicados en la tabla.
+
+6.- Previénese que las medidas de control referidas en el presente acto no limitan en forma alguna las facultades del Instituto de Salud Pública de Chile para adoptar otras medidas de carácter sanitario conforme al mérito de los antecedentes que se tengan a la vista.
+
+Anótese, comuníquese y publíquese en la página web y en el Diario Oficial.- María Judith Mora Riquelme, Directora (S), Instituto de Salud Pública de Chile.
