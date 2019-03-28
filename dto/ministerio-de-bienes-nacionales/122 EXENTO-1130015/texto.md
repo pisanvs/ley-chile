@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE LA ARAUCANÍA, A LA "I. MUNICIPALIDAD DE LONCOCHE"
+
+Mediante decreto exento Nº E-122, de 13 de marzo de 2019, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "I. Municipalidad de Loncoche", RUT Nº 69.191.100-4, el inmueble fiscal ubicado en calle Pedro Montt Nº 450, comuna de Loncoche, provincia de Cautín, Región de la Araucanía; enrolado en el Servicio de Impuestos Internos con el Nº 90-7; inscripción a nombre del Fisco que rola a fs. 55 Nº 84, del Registro de Propiedad del Conservador de Bienes Raíces de Loncoche, correspondiente al año 1974; singularizado en el Plano Nº 09109-18.088-C.U.; con una superficie de 1.250 m2. La Concesión se otorga por un plazo de 15 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para seguir utilizándolo en el funcionamiento del Centro Integral del Adulto Mayor. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales. Autoriza extracto.-
+
+Martín Aro Greene, Jefe División Jurídica (S).
