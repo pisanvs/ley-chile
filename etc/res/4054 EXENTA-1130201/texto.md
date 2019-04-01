@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.054, 20 de diciembre de 2018, Serviu Región del Biobío, ordenó expropiación parcial de un inmueble ubicado en Pj. 2 Oriente 180 Esmeralda, Rol de Avalúo Nº 3513-2, de la comuna de Talcahuano, de aparente dominio de Teresa Espinoza Baeza, en 155,80 m2 de terreno y 203,78 m2 de edificación (edificación (a) de 166,30 m2 y edificación (b) de 37,48 m2), dentro de linderos señalados plano de expropiación plano S8R-32.968-3, para la ejecución del Proyecto "Construcción Corredor Transporte Público Colón: Perales - Alessandri", de la comuna de Talcahuano, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Victoria García Silvera, por arquitecto Andrés Tobar Beluzán y por arquitecto Alexander Boye Trenit, según informe de fecha 22.10.2018 y Acta Complementaria de fecha 27.11.2018, fijó monto provisional, más reajuste del artículo 5º del DL 2.186, en la suma de $83.008.094.-
+
+Director Serviu Región del Biobío.
