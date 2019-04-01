@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 4.146 del 27/12/2018, Serviu Región del Biobío. Ordenó expropiación total del inmueble ubicado en Colón 8207, rol de avalúo 3520-6 comuna de Hualpén, de aparente propietario Montero Mora Nancy Ivon y Otros. La superficie afecta a expropiación total de terreno es de 268,00 m2 y expropiación total de edificación de 241,13 m2, cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A del plano S8R-33410-2, son los siguientes: Norte: Tramo AB en 13,57 m con inmueble Rol 3520-5. Oriente: Tramo BC en 19,75 m con Inmueble Rol 3520-7. Sur: Tramo CD en 13,57 m con Pasaje Piloto. Poniente: Tramo DA en 19,75 m con Avenida Cristóbal Colón. Conforme artículo 51 ley 16.391 y DL 2.186. Comisión de Peritos integrada por el arquitecto don Leonardo Eugenio Fasce Casanueva, por el constructor civil don Juan Pablo Cuevas Castillo, y por el ingeniero agrónomo don Gonzalo Alejandro Sáez Lastra, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $64.661.016.-
+
+Director Serviu Región del Biobío.
