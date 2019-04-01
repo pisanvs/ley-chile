@@ -128,7 +128,7 @@ El Servicio de Bienestar podrá también otorgar a sus afiliados las ayudas de c
 
 a) Por matrimonio: Si ambos contrayentes son afiliados al Servicio, se otorgará este beneficio a cada uno de ellos.
 
-b) Por nacimiento: Se otorgará este beneficio por nacimiento de cada hijo. Si ambos padres fueren afiliados tendrá derecho al beneficio la madre.
+b) Por nacimiento: Se otorgará este beneficio por nacimiento de cada hijo y también en el caso de adopción. En esta última situación, el adoptante tendrá derecho a solicitar el beneficio a contar de la fecha de la inscripción que ordena la sentencia que constituye la adopción. Si ambos padres fueren afiliados, se otorgará este beneficio a cada uno de ellos.
 
 c) Por educación: Se otorgará al afiliado y sus causantes de asignación familiar que acrediten seguir cursos regulares de enseñanza prebásica, básica, media, vocacional, técnica especializada y superior en establecimientos educacionales del Estado o reconocidos por éste.
 
@@ -152,11 +152,13 @@ d) Por fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado 
 
 e) Por siniestro: se concederá una ayuda en caso que el afiliado sufra una grave pérdida de su bien raíz o muebles, ya sea por incendio, terremoto, inundaciones u otra catástrofe semejante. Si el siniestro afecta a dos funcionarios que sean a la vez cónyuges y afiliados al Servicio de Bienestar, la ayuda será otorgada a uno solo de ellos.
 
+f) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
+
 #### Artículo 9º bis
 
 El Servicio de Bienestar, si sus disponibilidades presupuestarias lo permiten, podrá bonificar o subsidiar pagos de primas por concepto de seguros colectivos de vida, incendios, enfermedades catastróficas u otros seguros colectivos que sean contratados a favor de los afiliados y/o de sus cargas familiares.
 
-El monto de la bonificación o subsidio que se podrá otorgar, de acuerdo a lo previsto en el inciso anterior, será fijado anualmente por el Consejo Administrativo, sin que pueda exceder de un ingreso mínimo mensual para efectos no remuneracionales por cada seguro contratado.
+El monto de la bonificación o subsidio que se podrá otorgar, de acuerdo a lo previsto en el inciso anterior, será fijado anualmente por el Consejo Administrativo.
 
 ### Párrafo 3º — Préstamos
 
@@ -168,7 +170,7 @@ a) Préstamos médicos y dentales: se otorgarán como complemento de las ayudas 
 
 b) Préstamos de auxilio: se otorgarán ante problemas económicos u otras causas justificadas que calificará el Consejo Administrativo.
 
-c) Préstamos habitacionales: se otorgarán para la ejecución de reparaciones menores de la vivienda propia y para postular a los subsidios estatales de carácter habitacional.
+c) Préstamos habitacionales: Se otorgarán para la ejecución de reparaciones y ampliación de la vivienda propia del afiliado o de dominio de la sociedad conyugal de la que el afiliado forme parte; para postular a los subsidios estatales de carácter habitacional y en complemento para financiar la adquisición de una vivienda propia o de dominio de la sociedad conyugal de la que el afiliado forme parte.
 
 El monto de estos préstamos, su reajustabilidad y su interés serán fijados anualmente por el Consejo Administrativo, en conformidad a lo previsto en la ley Nº 18.010.
 
@@ -182,15 +184,15 @@ Los préstamos se pagarán en cuotas sucesivas, las que se empezarán a desconta
 
 #### Artículo 13º
 
-Para solicitar un nuevo préstamo de aquellos señalados en las letras
+Para solicitar un nuevo préstamo, de aquellos señalados en el artículo 10, se debe cumplir con lo siguiente:
 
-- **b)** y
+1.- Letras a) y b): haber servido como mínimo el 75% de la deuda del préstamo anterior;
 
-- **c)** del artículo 10º, será necesario haber servido como mínimo el 75% de la deuda del préstamo anterior.
+2.- Letra c): deberá haber transcurrido a los menos 6 meses desde que se sirvió el préstamo anterior.
 
 #### Artículo 14º
 
-El monto de las cuotas mensuales que los afiliados deban pagar por concepto de las obligaciones que contraigan con el Servicio de Bienestar, no podrá exceder en conjunto del 25% de la remuneración imponible mensual para pensiones del afiliado, o de la pensión en su caso.
+El monto de las cuotas mensuales que los afiliados deban pagar por concepto de las obligaciones que contraigan con el Servicio de Bienestar, no podrá exceder en conjunto del 15% de la remuneración total del trabajador afiliado o del total de la pensión, en su caso.
 
 ### Párrafo 4º — Otros Beneficios
 
