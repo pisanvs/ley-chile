@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.060, 21 de diciembre de 2018, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Colón 8307 8335, Rol de Avalúo Nº 3521-3, de la comuna de Talcahuano, de aparente dominio de Navarrete Durán Nelson Iván, en 261,42 m2 de terreno y 84,39 m2 de edificación, dentro de linderos señalados plano de expropiación plano S8R-34.988, para la ejecución del Proyecto "Construcción Corredor Transporte Público Colón: Perales - Alessandri", de la comuna de Talcahuano, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Rubén Muñoz Vera, por arquitecto Rodrigo Escobar Fernández y por ingeniero civil Orlando Paredes Vásquez, según informe de fecha 15.11.2018, fijó monto provisional en la suma de $75.137.876.-
+
+Director Serviu Región del Biobío.
