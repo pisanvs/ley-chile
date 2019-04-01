@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 4.172 del 28 de diciembre de 2018, Serviu Región del Biobío ordenó expropiación parcial de inmueble ubicado en Av. Cristóbal Colón 7551, Club Hípico, Rol de Avalúo 3517-24, comuna de Talcahuano, de aparente dominio de Fund Centro de Educación y Cap D. La superficie afecta a expropiación, conforme a plano Nº S8R-33347-2, es de 355,14 m2 de terreno (Lote 2), para ejecución del proyecto "Construcción Corredor Transporte Público Colón: Perales - Alessandri", comuna de Talcahuano, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por arquitecto Marielva Inzunza Morales, por ingeniero constructor Luis Valenzuela Arroyo y por arquitecto Alexander Boye Trenit, según informe de fecha 10 de diciembre de 2018 que fijó monto provisional, en $56.346.534.-, pagadera de contado.-
+
+Director Serviu Región del Biobío.
