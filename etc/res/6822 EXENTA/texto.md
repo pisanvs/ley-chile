@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 6.822, de fecha 27 de diciembre de 2018, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 41, correspondiente al inmueble ubicado en Vicuna Mackenna 0381, Rol de Avalúo Nº 6268-41, de la comuna de La Granja, Región Metropolitana, de aparente dominio de Gómez Olivos Juan Manuel, con una superficie aproximada de 68,25 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Mejoramiento Puh Las Uvas y El Viento". La Comisión de Peritos integrada por los señores Juan Andrés Tepper Lavanderos, Ingeniero Civil; Juan Söhrens Péndola, Arquitecto y Miguel Fernández Cádiz, Constructor Civil, mediante Informe de fecha 26 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $41.737.850, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
