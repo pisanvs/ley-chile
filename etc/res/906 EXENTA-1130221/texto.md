@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Ex. N° 906 de fecha 22/03/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote N° 69-0, "el inmueble consistente en el Lote Uno de una superficie de 1.348,20 metros cuadrados, resultante de la subdivisión del predio de una hectárea que es parte de la Hijuela número 12 ubicada en el lugar denominado Puente Chispa de la ciudad de Temuco", Rol de avalúo 1360-34. La superficie a expropiar aproximada es de 165,22 metros cuadrados, de aparente dominio de Lidia del Carmen Cuevas Mariqueo. Comisión de Peritos integrada señores Mario Gutiérrez Truan, Arquitecto, don Claudio Romo Sanhueza, Arquitecto y don Arturo Cantos Oyarzún, Arquitecto, fijó monto de Indemnización Provisional en $104.349.376.- según Informe N° 69-0, de fecha 1 de marzo de 2019, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
