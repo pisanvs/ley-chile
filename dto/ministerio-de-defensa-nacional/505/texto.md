@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 505, de fecha 21 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Sra. Rosa del Rosario Fierro González, RUT: 9.008.965-K, concesión marítima menor, con vencimiento el 31 de diciembre del año 2023, sobre un sector de terreno de playa, en el lugar denominado Caleta Las Conchas, comuna de Los Vilos, provincia de Choapa, Región de Coquimbo, con una superficie total de 226,47 m², la que fue tramitada con el SIABC N° 34305. A modo referencial se señala la siguiente coordenada geográfica: Latitud: 31°54'42,59", Longitud: 71°31'05,14". El objeto consiste en operar comercialmente un restaurant de temporada. Las obras consisten en la construcción de la estructura necesaria para la habilitación de un restaurant y el plazo contemplado para su ejecución es de 50 días. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Los Vilos. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Carlos Vidal Olave, Suboficial L (RT), Capitán de Puerto de Los Vilos.
