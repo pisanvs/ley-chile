@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 4.144 del 27/12/2018, Serviu Región del Biobío ordenó expropiación parcial del ubicado en Colón 8785-B, rol de avalúo 3524-44 comuna de Hualpén, de aparente propietario Soza Orellana Ivan Abdon. La superficie afecta a expropiación parcial de terreno es de 190,80 m2 (Lote 68) y 0,00 m2 de edificación, cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A del plano S8R-33177-2, son los siguientes: Norte: Tramo AB en 13,63 m con inmueble Rol 3524-25. Oriente: Tramo BC en 14,00 m con resto Inmueble Rol 3524-44. Sur: Tramo CD en 13,63 m con Inmueble Rol 3524-23. Poniente: Tramo DA en 14,00 m con Av. Cristóbal Colón. Conforme artículo 51 ley 16.391 y DL 2.186. Comisión de Peritos integrada por los arquitectos don Rubén Carlos Muñoz Vera, don Rodrigo Alexis Escobar Fernández, y por el ingeniero civil don Orlando Javier Paredes Vásquez, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $41.665.631.-
+
+Director Serviu Región del Biobío.
