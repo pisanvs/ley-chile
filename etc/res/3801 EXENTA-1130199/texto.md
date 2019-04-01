@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 3.801 del 27/11/2018, Serviu Región del Biobío ordenó expropiación total del inmueble ubicado en Colón 6953, rol de avalúo 03510-00001 comuna de Talcahuano, de aparente propietario Arias Cabezas María. La superficie afecta a expropiación total de terreno es de 194,09 m2 (Lote 51) y 164,25 m2 de edificación (a,b*2 y c), cuyos linderos particulares, enmarcados en el polígono A-B-C-D-E-A del plano S8R-32960-2, son los siguientes: Norte: Tramo AB en 10,00 m con pasaje Uno Norte. Oriente: Tramo BC en 20,00 m con Inmueble Rol 3510-4. Sur: Tramo CD en 0,64 m con Inmueble Rol 3510-3. Tramo DE en 8,76 m con inmueble Rol 3510-2. Poniente: Tramo EA en 20,00 m con Av. Cristóbal Colón. Conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión de Peritos integrada por los arquitectos doña Victoria Eugenia García Silvera, don Andrés Javier Tobar Beluzán y don Alexander Theodor Boye Trenit, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $83.384.197.-
+
+Director Serviu Región del Biobío.
