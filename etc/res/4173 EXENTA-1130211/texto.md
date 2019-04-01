@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 4.173 del 28/12/2018, Serviu Región del Biobío ordenó expropiación total del ubicado en Colón 7285, rol de avalúo 3514-22 comuna de Talcahuano, de aparente propietario Riquelme Flores Mario A. La superficie afecta a expropiación total de terreno es de 208,25 m2 y expropiación total de edificación de 84,04 m2, cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A del plano S8R-32984-3, son los siguientes: Norte: Tramo AB en 17,00 m con inmueble Rol 3514-21. Oriente: Tramo BC en 13,50 m con Inmueble Rol 3514-25. Sur: Tramo CD en 17,10 m con Inmueble Rol 3514-3. Poniente: Tramo DA en 11,00 m con Av. Cristóbal Colón. Conforme artículo 51 ley 16.391 y DL 2.186. Comisión de Peritos integrada por la arquitecto doña Consuelo Loreto Zuloaga Sanhueza, por el constructor civil don Héctor Alejandro Peña Ríos, y por la arquitecto doña Paola Loreto Martínez Perucca, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $57.377.465.-
+
+Director Serviu Región del Biobío.
