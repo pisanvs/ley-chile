@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.226, 31 de diciembre de 2018, Serviu Región del Biobío, ordenó expropiación total de un inmueble ubicado en Colón 7033, Rol de Avalúo Nº 3511-3, de la comuna de Talcahuano, de aparente dominio de Parada Flores Domingo, en 204,00 m2 de terreno y 82,94 m2 de edificación, dentro de linderos señalados plano de expropiación plano S8R-34.410-2, para la ejecución del Proyecto "Construcción Corredor Transporte Público Colón: Perales - Alessandri", de la comuna de Talcahuano, conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecta Consuelo Zuloaga Sanhueza, por constructor civil Héctor Peña Ríos y por arquitecta Paola Martínez Perucca, según el Informe de Tasación, de fecha 30.10.2018 y Actas Complementarias, de fecha 17.12.2018 y de fecha 27.12.2018, de la Comisión de Peritos, fijó monto provisional, más reajuste del artículo 5º del DL 2.186, en la suma de $47.660.457.-
+
+Director Serviu Región del Biobío.
