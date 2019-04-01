@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.213, 31 de diciembre 2018, Serviu Región del Biobío ordenó expropiación Parcial de un inmueble ubicado en Colón 8657, Lote 1, Rol de Avalúo Nº 3524-6, comuna de Hualpén, de aparente dominio de Pérez Aragon Corina Soledad y otros. La superficie afecta a expropiación total es de 296,94 m2 de terreno (Lote 59) y expropiación total de edificaciones (a), (b) y (c) de una superficie de 251,29 m2, cuyos linderos particulares enmarcado según plano S8R-33413-2, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Marielva Consuelo Inzunza Morales, ingeniero constructor Luis Gonzalo Valenzuela Arroyo y por arquitecto Alexander Theodor Boye Trenit, según informe de fecha 10.12.2018, fijó monto provisional de indemnización en $94.870.401.-, pagadera de contado.-
+
+Director Serviu Región del Biobío.
