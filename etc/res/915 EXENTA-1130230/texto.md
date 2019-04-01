@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 915 de fecha 22/03/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes-El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 61-1, que corresponde al inmueble consistente en el Sitio Número Uno A, del plano de subdivisión, sitio que tiene una superficie aproximada de 2.103 metros cuadrados, ubicado en la prolongación de calle Luis Durand sin número, inmediato a Puente Chispa, de la ciudad de Temuco, Rol de avalúo 1360-75, comuna de Temuco. La superficie a expropiar aproximada es de 865,86 metros cuadrados, de aparente dominio de Sergio Artigas Allaire. Comisión de Peritos integrada señores Mario Gutiérrez Truan, Arquitecto, Claudio Romo Sanhueza, Arquitecto y Arturo Cantos Oyarzún, Arquitecto, fijó monto de Indemnización Provisional en $167.612.758, según Informe Nº 61-1 de fecha 01/03/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
