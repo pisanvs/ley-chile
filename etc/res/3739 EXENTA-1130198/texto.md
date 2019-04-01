@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 3.739 del 20 de noviembre de 2018, Serviu Región del Biobío ordenó expropiación Total de inmueble ubicado en Colón 7199 Esmeralda, Rol de Avalúo Nº 3513-10, comuna de Talcahuano, de aparente dominio de Hernández Cuni Nury de la Ascensión. La superficie afecta a expropiación, conforme a plano Nº S8R-32979-4, es de 756,22 m2 de terreno (Lote 70) y expropiación total de edificación (a) 173,82 m2, (b) 94,90 m2, (c) 10,56 m2 y (d) 20,28 m2, para ejecución del proyecto "Construcción Corredor Transporte Público Colón: Perales - Alessandri", comuna de Talcahuano, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por constructor civil Ítalo Renzo Zerga Arancibia, por constructor civil Luz Mariane Contreras Bravo y por arquitecto Pricilla Andrea Encalada Rueda, según informe de fecha 10 de septiembre de 2018 que fijó monto provisional, más reajuste Art. 5º DL 2.186, en $165.325.906.-, pagadera de contado.-
+
+Director Serviu Región del Biobío.
