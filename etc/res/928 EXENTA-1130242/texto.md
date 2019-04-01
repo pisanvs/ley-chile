@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 928 de fecha 22/03/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 82-0, "Lote C de una superficie de 550 metros cuadrados, resultante de la subdivisión de dos retazos de terrenos ubicados en el lugar Puente Chispa, departamento de Temuco, que forman parte de la hijuela Nº 12 de 18 hectáreas 37 áreas", Rol de avalúo 1360-23. La superficie a expropiar aproximada es de 56,58 metros cuadrados, de aparente dominio de Isidoro Raimundo Krausse Amar. Comisión de peritos integrada señores Alberto Arenas Pizarro, arquitecto, doña Marcela Melo Rodríguez, arquitecto y doña Constanza Mihoevic González, constructor civil, fijó monto de indemnización provisional en $45.834.280.- según informe Nº 82-0, de fecha 9 de marzo de 2019, pagadero contado.
+
+Director (S) Serviu Región de la Araucanía.
