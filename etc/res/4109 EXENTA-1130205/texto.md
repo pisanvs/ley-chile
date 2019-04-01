@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta N° 4.109 del 26/12/2018, Serviu Región del Biobío ordenó expropiación total del inmueble ubicado en Colón LT B 8381 Sector Club Hípico, rol de avalúo 03521-00024, comuna de Hualpén, de aparente propietario Aguilera Gavilan Juan y otro. La superficie afecta a expropiación total de terreno es de 187,05 m2 (Lote 38) y expropiación total de edificación de 99,31 m2 (a), cuyos linderos particulares, enmarcados en el polígono A-B-C-D-A del plano S8R-33345, son los siguientes: Norte: Tramo AB en 13,00 m con inmueble Rol 3521-7. Oriente: Tramo BC en 9,94 m con Inmueble Rol 3521-20. Suroriente: Tramo CD en 15,80 m con Pasaje 120. Poniente: Tramo DA en 19,04 m con Av. Cristóbal Colón. Conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión de Peritos integrada por los arquitectos don Andrés Javier Tobar Beluzán, doña Carolina del Pilar Zuloaga Sanhueza y doña Victoria Eugenia García Silvera, que fijó el monto de la indemnización provisional por la expropiación, en la suma de $37.565.461.-
+
+Director Serviu Región del Biobío.
