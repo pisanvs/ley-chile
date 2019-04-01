@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 4.055 del 20 de diciembre de 2018, Serviu Región del Biobío ordenó expropiación Total de inmueble ubicado en Colón 7007 Esmeralda, Rol de Avalúo Nº 3511-1, comuna de Talcahuano, de aparente dominio de Castro Alarcón Eduardo. La superficie afecta a expropiación, conforme a plano Nº S8R-32963-2, es de 340,00 m2 de terreno (Lote 54) y 224,92 m2 de edificación, para ejecución del proyecto "Construcción Corredor Transporte Público Colón: Perales - Alessandri", comuna de Talcahuano, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por arquitecto Consuelo Loreto Zuloaga Sanhueza, por arquitecto Héctor Alejandro Peña Ríos y arquitecto Paola Loreto Martínez Perucca, según informe de fecha 10 de noviembre de 2018 que fijó monto provisional, en $79.124.049.-, pagadera de contado.-
+
+Director Serviu Región del Biobío.
