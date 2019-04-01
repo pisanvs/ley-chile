@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.198, 31 de diciembre 2018, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Colón 7067, Rol de Avalúo Nº 3513-3, de la comuna de Talcahuano, de aparente dominio de Sanhueza Flores Inés, en 85,25 m2 de terreno, dentro de linderos señalados plano de expropiación plano S8R-34.410-2, para la ejecución del Proyecto "Construcción Corredor Transporte Público Colón: Perales - Alessandri", de la comuna de Talcahuano, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Juan Felipe King Domínguez, arquitecto Brogan Ulloa Pérez y constructor civil María Soledad Silva Hernández, según informe de fecha 26.10.2018 y Acta Complementaria de fecha 21.12.2018, fijó monto provisional, más reajuste del artículo 5º del DL 2.186, en la suma de $12.801.007.-
+
+Director Serviu Región del Biobío.
