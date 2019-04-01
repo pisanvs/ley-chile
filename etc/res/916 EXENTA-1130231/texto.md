@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Ex. Nº 916 de fecha 22/03/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 24-0, que corresponde a Inmueble consistente en el Lote Dos de una superficie de cinco mil ciento noventa y cuatro metros cuadrados, resultante de la subdivisión del inmueble ubicado en camino a Tromén, comuna de Temuco, de una superficie aproximada de tres coma diecisiete hectáreas, Rol de avalúo 3205-238, comuna de Temuco. La superficie a expropiar aproximada es de 1212,82 metros cuadrados, de aparente dominio de Berta del Carmen Cid Moraga y Sandy Lissette Vallejos Cid. Comisión de Peritos integrada señores Mario Gutiérrez Truan, Arquitecto, Claudio Romo Sanhueza, Arquitecto y Arturo Cantos Oyarzún, Arquitecto, fijó monto de Indemnización Provisional en $117.979.661, según Informe Nº 24-0 de fecha 01/03/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
