@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.211, 31 de diciembre 2018, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Colón 7225, Club Hípico, Rol de Avalúo Nº 3514-1, comuna de Hualpén, de aparente dominio de Inmobiliaria Jardines de Colón. La superficie afecta a expropiación total es de 506,2 m2 de terreno (Lote 71) y cuyos linderos particulares enmarcado según plano S8R-32980-3, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 Ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Juan Felipe King Domínguez, por arquitecto Brogan Cristopher Ulloa Pérez y constructor civil María Soledad Silva Hernández, según informe de fecha 26.10.2018, fijó monto provisional de indemnización en $83.919.695, más una suma de $335.679, por concepto de reajuste del artículo 5º del DL 2.186 de 1978, quedando un total de $84.255.374.-, pagadera de contado.-
+
+Director Serviu Región del Biobío.
