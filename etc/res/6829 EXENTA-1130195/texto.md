@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 6.829, de fecha 27 de diciembre de 2018, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 40, correspondiente al inmueble ubicado en Vicuna Mackenna 0379 Alberto Hurtado, Rol de Avalúo Nº 6268-40, de la comuna de La Granja, Región Metropolitana, de aparente dominio de Pino López Bernarda de Los Ángeles, con una superficie aproximada de 68,64 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Mejoramiento Puh Las Uvas y El Viento". La Comisión de Peritos integrada por los señores Claudio Castro Araya, Constructor Civil; Verónica Olivier Valdebenito, Arquitecto y Juan Armando Salas Urzúa, Ingeniero Civil Industrial, mediante Informe de fecha 26 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $34.362.301, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
