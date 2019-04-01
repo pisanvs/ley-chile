@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 910 de fecha 22/03/2019, conforme al artículo 51 ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes-El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 73-0, consistente en Resto no transferido de un retazo de terreno de 20 metros de frente por 55 metros de fondo, que forma parte de un predio de 61 metros de frente por 55 metros de fondo, de la hijuela signada con el número 12 del plano de hijuelación de 18 hectáreas 37 áreas, ubicado en el lugar Puente Chispa, de este departamento, Rol de avalúo 1360-29, comuna de Temuco. La superficie a expropiar aproximada es de 123,24 metros cuadrados, de aparente dominio de Constructora Reyger Limitada. Comisión de Peritos integrada señores Mario Gutiérrez Truan, Arquitecto, Claudio Romo Sanhueza, Arquitecto y Arturo Cantos Oyarzún, Arquitecto, fijó monto de Indemnización Provisional en $31.970.308, según Informe Nº 73-0 de fecha 01/03/2019, pagadero Contado.
+
+Director Serviu Región de la Araucanía.
