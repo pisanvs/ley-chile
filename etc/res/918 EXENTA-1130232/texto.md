@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Ex. Nº 918 de fecha 22/03/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 88-0 "El lote C en que se dividió la propiedad ubicada en calle Tromén sin número de esta ciudad, lugar situado en el predio denominado Duran, salida de Tromén de Temuco", Rol de avalúo 1360-18. La superficie a expropiar aproximada es de 52,10 metros cuadrados, de aparente dominio de José Mariman Millapan. Comisión de Peritos integrada señores Alberto Arenas Pizarro, arquitecto, doña Marcela Melo Rodríguez, arquitecto y doña Constanza Mihoevic González, constructor civil, fijó monto de Indemnización Provisional en $35.279.066.- según Informe Nº 88-0, de fecha 09 de marzo de 2019, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
