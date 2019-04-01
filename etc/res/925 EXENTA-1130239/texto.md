@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 925 de fecha 22/03/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 79-0, "Lote número dos en que se dividió la propiedad ubicada en camino Tromén sin número de esta ciudad", Rol de avalúo 1360-24. La superficie a expropiar aproximada es de: 53,50 metros cuadrados, de aparente dominio de Luis René Ramos Díaz. Comisión de peritos integrada señores Alberto Arenas Pizarro, arquitecto, doña Marcela Melo Rodríguez, arquitecto y doña Constanza Mihoevic González, constructor civil, fijó monto de indemnización provisional en $75.103.820.- según informe Nº 79-0, de fecha 9 de marzo de 2019, pagadero contado.-
+
+Director (S) Serviu Región de la Araucanía.
