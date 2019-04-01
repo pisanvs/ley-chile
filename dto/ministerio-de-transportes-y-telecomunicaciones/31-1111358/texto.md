@@ -32,8 +32,6 @@ Los Gobiernos Regionales estarán facultados para convocar a un proceso de renov
 
 El Programa consistirá en la renovación de vehículos inscritos en el Registro por otros nuevos.
 
-La administración del Programa se realizará en coordinación con el Ministerio de Transportes y Telecomunicaciones, en adelante el Ministerio, el que deberá colaborar y asesorar a los Gobiernos Regionales para su ejecución y fiscalización.
-
 Por cada región, el gasto anual que irrogue el Programa estará sujeto al monto máximo que el respectivo Gobierno Regional haya determinado asignar para su ejecución, con cargo a los recursos disponibles según lo establecido en la ley de presupuestos.
 
 El presente Reglamento del Programa de Renovación de Vehículos que prestan servicios de transporte escolar remunerado de pasajeros, será aplicable en lo pertinente, siempre y cuando sea reconocido en la partida presupuestaria de los Gobiernos Regionales en la Ley de Presupuesto que corresponda, no siendo necesario dictar uno nuevo cada vez que esta ley lo reconozca.
