@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.214, 31 de diciembre 2018, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Colón 8343, comuna de Hualpén, Rol de Avalúo Nº 3521-4, de aparente dominio de Caballero Catalán Armando Mauric. La superficie afecta a expropiación total es de 178,45 m2 de terreno (Lote 34) y expropiación total de edificación (a) es de 155,70 m2 y cuyos linderos particulares enmarcado según plano S8R-33810-4, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por constructor civil María Soledad Silva Hernández, por arquitecto Marielva Consuelo Inzunza Morales y por arquitecto Rodrigo Andrés Rosales Sáez, según informe de fecha 15.11.2018, fijó monto provisional de indemnización en $63.499.180.-, pagadera de contado.-
+
+Director Serviu Región del Biobío.
