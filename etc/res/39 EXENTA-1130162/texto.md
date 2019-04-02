@@ -1,0 +1,5 @@
+DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos N° 39, de 27 de marzo de 2019, que delega la facultad de absolver posiciones en representación del Servicio de Impuestos Internos, y de este Director, a don Claudio Quezada Carreño, RUT N° 15.840.218-1, profesional, contrata, grado 12° EUS, de la Subdirección de Administración, de la Dirección Nacional, del Servicio de Impuestos Internos, a efecto de que concurra al juicio substanciado ante el 1° Juzgado de Letras del Trabajo de Santiago, Causa RIT N° 0-3797-2018, caratulada "Cáceres/LIMCHILE S.A."
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de marzo de 2019.
