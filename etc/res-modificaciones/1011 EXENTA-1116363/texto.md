@@ -68,6 +68,8 @@ Debe decir:
 
 8. Publíquese, un extracto de la presente resolución en el Diario Oficial por parte de la Seremi Metropolitana V. y U. En tanto, Serviu Metropolitano mediante un aviso en al menos un periódico de circulación regional, pondrá en conocimiento de los postulantes el lugar y la fecha en que serán publicadas las nóminas de los proyectos y beneficiarios seleccionados, conforme al cuadro inserto en el resuelvo Nº 4. y 6., precedente, las que deberán contener a lo menos, la comuna, el Título y la modalidad de proyecto del cual se trate del DS Nº 255/2006, nombre de cada postulante con su respectiva Cédula Nacional de Identidad y/o rol de la unidad.
 
+> **Nota.** Los números 1 y 2 de la resolución 820 exenta, Vivienda, publicada el 03.04.2019, modifican, respectivamente, los cuadros contenidos en los números 1 y 5 de la presente norma, en el sentido de cambiar donde dice: sector I-J-K-L-I, por E-F-G-H-E.
+
 Anótese, comuníquese, publíquese y archívese.- Aldo Ramaciotti Fracchia, Secretario Ministerial Metropolitano de Vivienda y Urbanismo.
 
-.
+COPROPIEDAD SANTIAGO AMENGUAL A2 EFGHE, RUT 53324945-0
