@@ -142,11 +142,15 @@ d) No encontrarse formalizado por alguna de las conductas punibles establecidas 
 
 e) Tener condiciones físicas y psíquicas compatibles con las labores por desempeñar, especialmente en lo relativo al control de impulsos. Mediante certificado emitido por el facultativo correspondiente, se acreditará que los servicios de seguridad prestados por la persona no pondrán en riesgo su integridad física o la de terceros, aun potencialmente.
 
-f) No haber dejado de pertenecer a las Fuerzas Armadas, de Orden y Seguridad Pública y Gendarmería de Chile, producto de la aplicación de una medida disciplinaria,
+f) No haber dejado de pertenecer a las Fuerzas Armadas, a las de Orden y Seguridad o a Gendarmería de Chile, según sea el caso, donde hayan prestado servicios, por sanciones o medidas disciplinarias.
 
 g) Haber aprobado los cursos de capacitación que señale Carabineros de Chile, incluyéndose un curso sobre manipulación de armas.
 
 h) No haber sido sancionado conforme a la ley N° 19.327, de derechos y deberes en los espectáculos de fútbol profesional, y su reglamento.
+
+i) Manejar el idioma castellano.
+
+j) En caso de ser extranjero, contar con permanencia definitiva, de conformidad a lo dispuesto en el decreto ley N° 1.094, de 1975, y su reglamento.
 
 Las personas naturales que presten servicios de seguridad privada deberán acreditar el cumplimiento de los requisitos establecidos en el literal c) del inciso precedente mediante el correspondiente certificado de antecedentes expedido por el Servicio de Registro Civil e Identificación, y el requisito establecido en el literal d), a través de declaración jurada simple, la que deberá actualizarse anualmente.
 

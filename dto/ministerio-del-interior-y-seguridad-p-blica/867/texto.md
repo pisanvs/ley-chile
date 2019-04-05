@@ -70,15 +70,17 @@ Requisitos: Sin perjuicio de los requisitos que se señalen para el cumplimiento
 
 6. No encontrarse formalizado por alguna de las conductas punibles establecidas en el decreto supremo N° 400, del Ministerio de Defensa, de 1977, que fija texto refundido, coordinado y sistematizado de la ley N° 17.798, sobre control de armas; en la ley N° 20.000, que sustituye la ley N° 19.366, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas; en la ley N° 18.314, que determina conductas terroristas y fija su penalidad; en la ley N° 19.913, que crea la unidad de análisis financiero y modifica diversas disposiciones en materia de lavado y blanqueo de activos; en el decreto supremo N° 890, de 1975, del entonces Ministerio del Interior, que fija texto actualizado y refundido de la ley 12.927, sobre seguridad del Estado; en la ley N° 20.066, que establece ley de violencia intrafamiliar; u otras asociadas al crimen organizado que se encuentren tipificadas en otros cuerpos legales.
 
-7. No haber dejado de pertenecer a las Fuerzas Armadas, de Orden y Seguridad Pública y Gendarmería de Chile, producto de la aplicación de una medida disciplinaria.
+7. No haber dejado de pertenecer a las Fuerzas Armadas, a las de Orden y Seguridad o a Gendarmería de Chile, según sea el caso, donde hayan prestado servicios, por sanciones o medidas disciplinarias.
 
-8. No haber sido sancionado de acuerdo al decreto ley N° 3.607, de 1981, o sus reglamentos, de manera reiterada, en los dos últimos años. Se entenderá que el solicitante ha sido sancionado de manera reiterada, cuando registre dos sanciones en los últimos doce meses contados a la fecha de la solicitud de autorización.
+8. No haber ejercido funciones de control o fiscalización de las entidades, servicios o actuaciones de seguridad, vigilancia, ni de su personal o medios, como miembro de las Fuerzas Armadas o de Orden y Seguridad Pública en los últimos seis meses desde la solicitud de autorización.
 
-9. No haber ejercido funciones de control o fiscalización de las entidades, servicios o actuaciones de seguridad, vigilancia, ni de su personal o medios, como miembro de las Fuerzas Armadas o de Orden y Seguridad Pública en los últimos seis meses desde la solicitud de autorización.
+9. No haber sido sancionado conforme a la ley N° 19.327, de derechos y deberes en los espectáculos de fútbol profesional, y su reglamento.
 
-10. No haber sido sancionado conforme a la ley N° 19.327, de derechos y deberes en los espectáculos de fútbol profesional, y su reglamento.
+10. Aprobar los exámenes de los cursos de capacitación que correspondan, según lo exigido por la Autoridad Fiscalizadora en materias de Seguridad Privada correspondiente.
 
-11. Aprobar los exámenes de los cursos de capacitación que correspondan, según lo exigido por la Autoridad Fiscalizadora en materias de Seguridad Privada correspondiente.
+11. Manejar el idioma castellano.
+
+12. En caso de ser extranjero, contar con permanencia definitiva, de conformidad a lo dispuesto en el decreto ley N° 1.094, de 1975, y su reglamento.
 
 Las personas naturales que presten servicios personales de seguridad privada deberán acreditar el cumplimiento de los requisitos establecidos en los numerales 4 y 5 del inciso precedente mediante el correspondiente certificado de antecedentes expedido por el Servicio de Registro Civil e Identificación, y los requisitos establecidos en los numerales 6 y 8 a través de declaración jurada simple, la que deberá actualizarse anualmente.
 
@@ -184,7 +186,7 @@ b) Indicar en la parte superior delantera del lado derecho y en la parte superio
 
 El uniforme a que se refiere este artículo no podrá ser costeado por el trabajador, esto es, por la persona natural que bajo cualquier régimen laboral presta servicios de seguridad privada, tales como guardias de seguridad, nocheros, porteros o rondines. En consecuencia, el empleador no podrá exigir al trabajador que se proporcione el uniforme, ni tampoco deducir, retener o compensar, por este concepto, suma alguna de la remuneración del trabajador.
 
-No obstante lo señalado precedentemente, en los casos en que se estime conveniente debido a la actividad de seguridad desempeñada, la Autoridad Fiscalizadora en materia de Seguridad Privada, mediante resolución fundada, podrá autorizar la utilización parcial o la exención total del uso del uniforme.
+No obstante lo señalado precedentemente, en los casos en que se estime conveniente debido al servicio de seguridad que se presta o cuando los uniformes cumplan con el objeto de identificar mediante insignias, bordados o estampados, al personal de seguridad, a la empresa que provee dichos servicios y a la empresa a la cual se prestan los mismos, en términos similares a los precedentemente expuestos en el inciso primero del presente artículo y de conformidad a los criterios que contendrá el Manual Operativo en Materias de Seguridad Privada, la Autoridad Fiscalizadora en materia de Seguridad Privada, mediante resolución fundada, podrá autorizar la utilización parcial, la exención total del uso del uniforme o el uso de un uniforme distinto al indicado en este artículo, respecto de los cuales igualmente regirán las disposiciones contenidas en los incisos segundo y cuarto de este artículo.
 
 El control del cumplimiento de estas disposiciones lo efectuará la Autoridad Fiscalizadora en materia de Seguridad Privada respectiva.
 
@@ -194,19 +196,21 @@ Medidas adicionales de Seguridad: La Autoridad Fiscalizadora en materia de Segur
 
 1. Chaleco antibalas, que cumpla con las siguientes normas técnicas:
 
-a) Nivel de Amenaza: El chaleco deberá contar con una señal de impacto que no sea inferior a 40 mm.
+a) Nivel de Amenaza: El chaleco deberá contar con una señal de impacto que no sea superior a 40 mm.
 
 b) Seguro de Vida por 30 UF o su equivalente en dólares americanos: El fabricante deberá contar con un seguro de vida en caso que un chaleco antibalas no cumpla su función. Los proveedores deberán acreditar y declarar la póliza al comprador, además de adjuntar este documento a la entidad certificadora de que trata el literal siguiente.
 
-c) Entidad Certificadora: Los chalecos antibalas que utilicen los guardias de seguridad, deberán estar certificados por el Laboratorio de Resistencia Balística, del Instituto de Investigaciones y Control del Ejército de Chile (IDIC). Esta entidad certificadora, además llevará un registro de los elementos a ensayar y cantidad, tipo y resultado de los ensayos realizados.
+c) Entidad Certificadora: Los chalecos antibalas que utilicen los guardias de seguridad, deberán estar certificados de acuerdo a la normativa técnica de ensayo balístico NIJ 0101.04., por el Laboratorio de Resistencia Balística, del Instituto de Investigaciones y Control del Ejército de Chile (IDIC). Esta entidad certificadora, además llevará un registro de los elementos a ensayar y cantidad, tipo y resultado de los ensayos realizados. Este registro deberá ser comunicado cada 90 días corridos a la Zona de Seguridad Privada, Control de Armas y Explosivos, quienes lo distribuirán entre las autoridades fiscalizadoras de Seguridad Privada.
 
-d) Al momento de presentar el producto, el proveedor o fabricante deberá declarar el lote y la cantidad de unidades que lo componen (N° de serie), así como su material, cantidad y área de protección, ello permitirá mantener una trazabilidad del producto.
+d) Al momento de presentar el producto para su certificación, el proveedor o fabricante deberá declarar el lote y la cantidad de unidades que lo componen (N° de serie), así como su material, cantidad y área de protección, lo que permitirá mantener una trazabilidad del producto.
 
-2. Chaleco anticorte, que cumpla la normativa técnica norteamericana NIJ 0115.00, y cuyo proveedor y/o fabricante certifique el cumplimiento de la normativa técnica antes aludida, y declarare al momento de presentar el producto:
+2. Chaleco anticorte, que cumpla las siguientes normas técnicas:
 
-a) El lote y la cantidad de unidades que lo componen (el número de serie).
+a) Seguro de Vida por 30 UF o su equivalente en dólares americanos: El fabricante deberá contar con un seguro de vida en caso que un chaleco anticorte no cumpla su función. Los proveedores deberán acreditar y declarar la póliza al comprador, además de adjuntar este documento a la entidad certificadora de que trata el literal siguiente.
 
-b) El material, cantidad y área de protección del producto.
+b) Entidad Certificadora: Los chalecos anticortes que utilicen los guardias de seguridad, deberán estar certificados de acuerdo a la normativa técnica norteamericana NIJ 0115.00. La entidad certificadora correspondiente, además llevará un registro de los elementos a ensayar y cantidad, tipo y resultado de los ensayos realizados. Este registro deberá ser comunicado cada 90 días corridos a la Zona de Seguridad Privada, Control de Armas y Explosivos, quienes lo distribuirán entre las autoridades fiscalizadoras de Seguridad Privada.
+
+c) Al momento de presentar el producto para su certificación, el proveedor o fabricante deberá declarar el lote y la cantidad de unidades que lo componen (N° de serie), así como su material, cantidad y área de protección, lo que permitirá mantener una trazabilidad del producto.
 
 El fabricante deberá contar con un seguro de vida por 30 UF o su equivalente en dólares americanos en caso que un chaleco anticorte no cumpla su función.
 
@@ -252,7 +256,7 @@ Finalmente, se faculta a la Autoridad Fiscalizadora en materia de Seguridad Priv
 
 Artículo duodécimo. Solicitud y procedimiento de autorización: Las personas interesadas en constituirse como empresas de seguridad privada deberán presentar una solicitud ante la Autoridad Fiscalizadora en materia de Seguridad Privada correspondiente, la que además deberá cumplir con los requisitos aplicables señalados en el artículo anterior y con aquellos aplicables que establezcan el decreto N° 1.773, de 1994, del Ministerio del Interior, y el decreto N° 93, de 1985, del Ministerio de Defensa Nacional.
 
-La Autoridad Fiscalizadora en materia de Seguridad Privada correspondiente, deberá solicitar a la Zona de Seguridad Privada, Control de Armas y Explosivos de Carabineros de Chile, un informe técnico en que se pronuncie sobre la solicitud. El informe deberá ser remitido a la Autoridad Fiscalizadora en materia de Seguridad Privada correspondiente, dentro del plazo de diez días hábiles.
+La Autoridad Fiscalizadora en materia de Seguridad Privada correspondiente, deberá solicitar a la Prefectura de Seguridad Privada OS10, un informe técnico en que se pronuncie sobre la solicitud. El informe deberá ser remitido a la Autoridad Fiscalizadora en materia de Seguridad Privada correspondiente, dentro del plazo de diez días hábiles.
 
 Recibido el informe, la Autoridad Fiscalizadora en materia de Seguridad Privada correspondiente, deberá pronunciarse sobre la solicitud referida, dentro de los diez días hábiles siguientes, autorizándola o rechazándola mediante resolución fundada.
 
@@ -338,11 +342,15 @@ d) No encontrarse formalizado por alguna de las conductas punibles establecidas 
 
 e) Tener condiciones físicas y psíquicas compatibles con las labores por desempeñar, especialmente en lo relativo al control de impulsos. Mediante certificado emitido por el facultativo correspondiente, se acreditará que los servicios de seguridad prestados por la persona no pondrán en riesgo su integridad física o la de terceros, aun potencialmente.
 
-f) No haber dejado de pertenecer a las Fuerzas Armadas, de Orden y Seguridad Pública y Gendarmería de Chile, producto de la aplicación de una medida disciplinaria,
+f) No haber dejado de pertenecer a las Fuerzas Armadas, a las de Orden y Seguridad o a Gendarmería de Chile, según sea el caso, donde hayan prestado servicios, por sanciones o medidas disciplinarias.
 
 g) Haber aprobado los cursos de capacitación que señale Carabineros de Chile, incluyéndose un curso sobre manipulación de armas.
 
 h) No haber sido sancionado conforme a la ley N° 19.327, de derechos y deberes en los espectáculos de fútbol profesional, y su reglamento.
+
+i) Manejar el idioma castellano.
+
+j) En caso de ser extranjero, contar con permanencia definitiva, de conformidad a lo dispuesto en el decreto ley N° 1.094, de 1975, y su reglamento.
 
 Las personas naturales que presten servicios de seguridad privada deberán acreditar el cumplimiento de los requisitos establecidos en el literal c) del inciso precedente mediante el correspondiente certificado de antecedentes expedido por el Servicio de Registro Civil e Identificación, y el requisito establecido en el literal d), a través de declaración jurada simple, la que deberá actualizarse anualmente.
 
@@ -411,6 +419,10 @@ transitorio: El requisito que establece el numeral 3 del artículo quinto del T�
 #### Artículo cuarto
 
 transitorio: Las modificaciones dispuestas en los artículos sexto y octavo del presente decreto, sólo comenzarán a regir una vez que haya entrado en vigencia el cuerpo reglamentario contenido en el artículo primero de este decreto
+
+#### Artículo quinto
+
+transitorio: La obligación dispuesta en el inciso primero del artículo octavo del Reglamento que contiene el artículo primero del presente decreto, gozará de un período de seis meses de marcha blanca, contados desde el día 17 de marzo de 2019, durante los cuales la Autoridad Fiscalizadora ante la constatación de alguna infracción, pondrá en conocimiento del infractor dicha situación, con el objeto que ésta sea regularizada.
 
 Anótese, tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mahmud Aleuy Peña y Lillo, Ministro del Interior y Seguridad Pública (S).- José Antonio Gómez Urrutia, Ministro de Defensa Nacional.
 
