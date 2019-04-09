@@ -6422,8 +6422,6 @@ Corresponde a los valores publicados por el Banco Central de Chile conforme al i
 
 Además de los sistemas señalados en los literales precedentes, conforme a lo indicado en el Capítulo III.B.1 del Compendio de Normas Financieras del Banco Central de Chile, los bancos pueden aplicar el sistema de reajustabilidad previsto en el artículo 20 de la Ley N° 18.010, esto es, pactar operaciones expresadas en moneda extranjera, pagaderas por su equivalente en moneda chilena, según el tipo de cambio vendedor al día del pago.
 
-Debe tenerse presente también que en su oportunidad fue autorizada la adquisición, por parte de los bancos, de los créditos otorgados por la ex-ANAP, los que tienen su propio sistema de reajustabilidad. En el Anexo N° 3 de este Capítulo se indican los porcentajes que debieron aplicarse según ese sistema a contar del 31 de diciembre de 1990.
-
 Por otra parte, debe entenderse que las normas generales en materia de reajustes no impiden adquirir instrumentos expresados en Unidades Tributarias Mensuales u otro tipo de reajustabilidad distinta de las autorizadas para pactar operaciones, cuando se trate de Pagarés Reajustables de la Tesorería General de la República o Bonos de Reconocimiento o Complementos de Bonos de Reconocimiento emitidos por el Instituto de Previsión Social (ex INP).
 
 2.2.2. Operaciones pagaderas en moneda extranjera.
@@ -6462,7 +6460,7 @@ Este mismo procedimiento se seguirá en el caso de los días que sean declarados
 
 ### 4. Pagos anticipados
 
-El artículo 10 de la Ley N° 18.010, modificado por las Leyes N°s. 19.528 y 19.951, establece que los pagos anticipados de operaciones de crédito de dinero, serán convenidos libremente entre el acreedor y el deudor.
+El artículo 10 de la Ley N° 18.010, modificado por las Leyes N°s. 19.528, 19.951 y 20.715, establece que los pagos anticipados de operaciones de crédito de dinero, serán convenidos libremente entre el acreedor y el deudor.
 
 No obstante, para las operaciones de crédito de dinero cuyo importe no supere el equivalente de 5.000 unidades de fomento, esa ley le otorga a los deudores el derecho irrenunciable de anticipar su pago aun contra la voluntad del acreedor, siempre que se cumplan las siguientes condiciones:
 
@@ -6470,7 +6468,7 @@ a) Tratándose de operaciones no reajustables, que el deudor pague el capital qu
 
 b) Tratándose de operaciones reajustables, que el deudor pague el capital actualizado que se anticipa y los intereses pactados calculados hasta la fecha de pago efectivo, más la comisión de prepago. Dicha comisión no podrá exceder el valor de un mes y medio de intereses calculados sobre el capital que se prepaga.
 
-Con todo, en los casos en que el importe del pago anticipado sea inferior al 25% del saldo de la obligación, se requerirá siempre el consentimiento del acreedor para efectuarlo.
+Con todo, en los casos en que el importe del pago anticipado sea inferior al 20% del saldo de la obligación, se requerirá siempre el consentimiento del acreedor para efectuarlo.
 
 Estas disposiciones que permiten a los deudores pagar anticipadamente prescindiendo de la voluntad del acreedor, no se aplican cuando el deudor sea una institución fiscalizada por esta Superintendencia, el Fisco de Chile o el Banco Central de Chile.
 
@@ -6504,57 +6502,41 @@ Los montos de las cuotas que se determinen para pagar un crédito pactado con un
 
 Cuando la amortización efectiva de capital sea inferior a la prevista en las cuotas precalculadas y no se informe a los deudores en la fecha del pago parcial de sus créditos, el detalle del cálculo de los intereses cobrados, el capital amortizado y el saldo de lo adeudado, los bancos deberán enviar al domicilio que éstos tengan registrado, a lo menos cada seis meses a contar de la fecha de otorgamiento del respectivo crédito, la información correspondiente a los conceptos antes señalados, referida a cada uno de los pagos realizados.
 
-### 6. Interés corriente e interés máximo convencional
+### 6. Aplicación de la Tasa Máxima Convencional (TMC)
 
-6.1. Determinación del interés corriente e interés máximo convencional.
+En cumplimiento de las disposiciones contenidas en el artículo 6º de la Ley N° 18.010, esta Superintendencia publica durante la primera quincena de cada mes, en su página web y en el Diario Oficial, las tasas de interés corriente y las tasas de interés máximo convencional que rigen desde esa fecha hasta el día anterior a la próxima publicación, para los efectos establecidos en la ley.
 
-En cumplimiento de las disposiciones contenidas en el artículo 6° de la Ley N° 18.010, esta Superintendencia publica mensualmente, en el Diario Oficial, las tasas de interés corriente y las tasas de interés máximo convencional que rigen a partir de su fecha de publicación, para los efectos establecidos en la ley.
+Esas publicaciones consideran distintos tipos de tasas según las características de los créditos en cuanto a plazos, montos, moneda y reajustabilidad, contemplando tanto las distinciones que define la propia ley como aquellas que establece este Organismo.
 
-Esas publicaciones consideran distintos tipos de tasas según las características de los créditos en cuanto a plazos, montos, moneda y reajustabilidad.
+6.1. Operaciones sin límite de interés.
 
-6.2. Tasa máxima que se puede pactar en las operaciones de crédito de dinero.
+De acuerdo con el artículo 5° de la Ley 18.010, no quedan sujetas a un límite de interés las operaciones de crédito de dinero: i) que se pacten con instituciones o empresas bancarias o financieras, extranjeras o internacionales; ii) las que se pacten o expresen en moneda extranjera para operaciones de comercio exterior; iii) las efectuadas entre el Banco Central de Chile y las instituciones financieras; y, iv) aquellas en que el deudor sea un banco.
 
-De acuerdo con la ley, no puede estipularse un interés que exceda el interés máximo convencional, esto es, el interés corriente que corresponda, aumentado en un 50%, salvo que se trate de las siguientes operaciones que quedaron con libertad de intereses por la Ley N° 19.528: i) las que se pacten con instituciones o empresas bancarias o financieras extranjeras o internacionales; ii) las que se pacten o expresen en moneda extranjera para operaciones de comercio exterior; iii) las pactadas entre el Banco Central de Chile y los bancos; y, iv) todas aquellas en que el deudor sea un banco.
+6.2. Consideraciones relativas a la aplicación de la TMC.
 
-La tasa de interés máxima convencional aplicable será aquella que corresponda a la operación de que se trate, según lo indicado en la respectiva publicación de esta Superintendencia.
+La TMC a aplicar a cada operación, depende de las características del crédito en cuanto a su plazo, monto, moneda y reajustabilidad. Al respecto, se entiende que el tramo en U.F. que distingue las tasas publicadas por esta Superintendencia, guarda relación con el monto del crédito al momento de la convención y que el plazo de un crédito corresponde al lapso desde su otorgamiento hasta su vencimiento. Tratándose de créditos pagaderos en cuotas o parcialidades, la fecha de vencimiento es aquella en que debe efectuarse el último pago.
 
-Para determinar si el interés pactado supera o no el máximo convencional, la ley se remite al momento de la convención, sea que se trate de tasas fijas o variables.
+Se tendrá por no escrito todo pacto de intereses que exceda el máximo convencional, y en tal caso los intereses se reducirán al interés corriente que rija al momento de la convención o al momento en que se devenguen los intereses, según lo dispuesto en el artículo 8° de la Ley N° 18.010.
 
-6.2.1. Tasas fijas y tasas variables.
+6.2.1 TMC vigente al momento de la convención.
 
-En las operaciones con interés de tasa fija, no merece duda que los intereses correspondientes a una tasa numérica establecida en el momento de la convención, que no supere el interés máximo convencional vigente a la fecha del pacto para el tipo de operación de que se trate, pueden continuar cobrándose a la tasa pactada durante todo el período que comprenda la operación.
+En cumplimiento del artículo 6° de la Ley N° 18.010, no se puede estipular un interés que exceda el interés máximo convencional vigente al momento de la convención, sin perjuicio de lo indicado en el artículo 6° ter de la citada ley.
 
-En el caso de intereses pactados sobre la base de tasa variable, entendida por tal una tasa construida sobre un factor variable, v. gr.: interés corriente, interés máximo convencional, prime rate, libor, etc., sean o no recargados en uno o más puntos, la tasa resultante podrá mantenerse en el tiempo al igual que la tasa fija, siempre que al momento de la convención ella tampoco haya superado el interés máximo convencional. Es evidente, por ejemplo, que la tasa "interés máximo convencional más uno" nace ilícita.
+Por lo tanto, los intereses correspondientes a una tasa fija establecida al momento de la convención, que no supere el interés máximo convencional vigente a la fecha del pacto, para el tipo de operación de que se trate, pueden continuar cobrándose a la tasa pactada durante todo el período que comprenda la operación. Asimismo, en el caso de intereses pactados sobre la base de tasa variable, entendida por tal una tasa construida sobre un factor variable, v. gr.: interés corriente, interés máximo convencional, prime rate, libor, etc., sean o no recargados en uno o más puntos, la tasa resultante podrá mantenerse en el tiempo al igual que la tasa fija, siempre que al momento de la convención ella tampoco haya superado el interés máximo convencional. Es evidente, por ejemplo, que la tasa "interés máximo convencional más uno" nace ilícita.
 
-6.2.2. Tasa pactada para el período de mora.
+6.2.2. TMC en la utilización de líneas de crédito previamente pactadas y operaciones sin plazo de vencimiento.
 
-El límite equivalente a la tasa de interés máxima convencional rige también para las tasas que se pacten para el caso de mora.
-
-Asimismo, en concordancia con lo señalado en el numeral 6.2.1 precedente y con lo dispuesto en el artículo 16 de la Ley N° 18.010, para el período de mora es posible pactar la tasa de interés máxima convencional vigente en la fecha de la convención (tasa fija que, además, es conocida numéricamente al momento del pacto) o la que rija durante la mora (tasa variable).
-
-Si para el período de mora no se hubiere pactado en forma precisa la aplicación de la tasa de interés, en el sentido de referirse a la "máxima convencional" sin especificar si se trata de una tasa fija o de una variable (esto es, la que se encuentre vigente durante la convención o la que rija durante el período de mora), deberán cobrarse estos intereses de acuerdo con la tasa máxima convencional que rija durante el período de mora, siguiendo la norma que para un caso similar da el antes citado artículo 16. Se entiende, en este caso, que la tasa variable que rige durante el período de mora puede representar, según la duración de éste, más de una tasa numérica, debiendo utilizarse cada una de ellas para su respectivo lapso de vigencia dentro del período de mora.
-
-Por último, viene al caso recordar que si no se pacta tasa alguna para el período de mora ni se establece estipulación en contrario, corresponde cobrar el interés corriente para la operación de que se trate, desde la fecha del retardo y a las tasas que rijan durante ese retardo, de acuerdo con lo dispuesto en el mencionado artículo 16 de la Ley N° 18.010.
-
-6.2.3. Aplicación de las tasas para operaciones en moneda chilena no reajustable.
-
-Para establecer cuál es la tasa de interés máximo convencional que rige para las operaciones en moneda chilena no reajustable, de acuerdo con su plazo y monto, deberán seguirse las siguientes reglas:
-
-a) Operaciones sin plazo de vencimiento.
+La TMC que limita cada operación que se origine en la utilización de una línea de crédito, depende del monto y plazo de la línea previamente pactada que da origen al crédito. El monto expresado en U.F. corresponderá al de la fecha en que se inicia el devengo del crédito (no al monto fijo que resulta de aplicar el valorde la U.F. vigente al momento en que se pacta la línea). El plazo de una línea corresponde al tiempo total convenido para hacer uso de ella (no al que resta para su vencimiento). Si la línea tuviere un plazo indefinido, se entenderá que es de al menos 90 días para efectos de aplicar la TMC ("90 días o más").
 
 Al tratarse de pagarés a la vista u otras operaciones sin plazo de vencimiento, como es el caso, por ejemplo, de los sobregiros en cuenta corriente no pactados, debe considerarse la tasa de interés correspondiente a los créditos pagaderos a un plazo inferior a 90 días.
 
-b) Operaciones con vencimientos hasta 89 días y a 90 días o más.
+6.3. Tasa pactada para el período de mora.
 
-Cuando se pacte una operación de crédito de dinero en moneda chilena no reajustable, pagadero en su totalidad dentro de los 89 días siguientes a la operación, la tasa de interés no podrá exceder de la correspondiente tasa máxima vigente para las operaciones a menos de 90 días, sin perjuicio de lo señalado en la letra c) siguiente. Del mismo modo, cuando la totalidad del capital deba pagarse a 90 días o más, la tasa queda limitada por el respectivo interés máximo convencional fijado para ese plazo.
+De acuerdo con lo dispuesto en el artículo 16 de la Ley N° 18.010, si no se pacta tasa alguna para el período de mora ni se establece estipulación en contrario, corresponde cobrar el interés corriente para la operación de que se trate, desde la fecha del retardo y a las tasas que rijan durante ese retardo. Para las operaciones sujetas a la TMC, el límite equivalente a esa tasa rige también para los intereses que se pacten para el caso de mora.
 
-En el caso de operaciones pagaderas en cuotas, en las que una o más de ellas venzan dentro de los primeros 89 días de vigencia del crédito y otras después de ese plazo, se deberá calcular el plazo promedio ponderado del total del crédito, a fin de determinar si la tasa cobrada debe enmarcarse dentro del interés máximo convencional referido a operaciones hasta 89 días, o bien dentro del límite respectivo para operaciones a 90 días o más.
+La TMC aplicable para ese efecto, es la misma que corresponde al crédito de que se trate, según lo indicado en los numerales 6.2.1 y 6.2.2 precedentes, debiendo cobrarse esos intereses con una tasa variable que atienda la tasa máxima convencional que, en su respectivo lapso de vigencia según la duración de la mora, rija durante este período.
 
-El plazo promedio ponderado se obtendrá multiplicando el importe de cada cuota de amortización de capital por su plazo, expresado en días o meses, según las condiciones que se hubieren pactado. Luego se sumarán los productos obtenidos de esas multiplicaciones y el resultado de esa suma se dividirá por el importe total del préstamo. El cuociente que se obtenga indicará el plazo promedio ponderado del crédito, expresado en días o meses, según cual haya sido el factor utilizado. Para los fines de establecer este plazo, se considerarán solamente los vencimientos en que deba efectuarse una amortización de capital, no tomándose en cuenta, por consiguiente, los servicios de intereses que se hubieren pactado.
-
-c) Líneas de crédito y sobregiros pactados.
-
-La tasa máxima que se puede cobrar por los créditos que se originen por una línea de crédito previamente pactada, como asimismo por aquellos otorgados en la forma de sobregiros pactados en cuenta corriente, se establecerá en función del tiempo que se hubiere pactado para hacer uso de la línea o sobregirar la cuenta corriente, y del monto máximo autorizado.
+No obstante lo anterior, en el caso de los créditos tratados en el numeral 6.2.1, puede pactarse una tasa fija para todo el período de mora, que no supere la TMC vigente al momento de la convención. Sin embargo, si en ese caso no se pactara una tasa numérica (según la TMC vigente conocida) y solo se alude a la "tasa máxima convencional", los intereses deberán cobrarse entendiendo que se refiere a las que rijan durante el período de mora.
 
 7. Improcedencia del cargo de intereses por días adicionales al del vencimiento en descuentos de documentos.
 
@@ -6578,7 +6560,7 @@ por periodo operación Anual (360 días)
 
 b) La modalidad de cálculo de la tasa de interés tanto de las colocaciones como de las captaciones, debe ser claramente explicada, sobre todo en el caso de las primeras, en que el cobro de interés puede ser vencido o anticipado.
 
-c) En la información de las operaciones no reajustables deberán señalarse separadamente, cuando proceda, las tasas de operaciones hasta 89 días de las tasas para operaciones de 90 días o más. Cuando se trate de colocaciones, en estas últimas se distinguirá, a su vez, entre las operaciones no superiores a 200 U.F., las que exceden de 200 U.F. y no superen las 5.000 U.F. y las superiores al equivalente de 5.000 U.F.
+c) En la información de las operaciones no reajustables deberán señalarse separadamente, cuando proceda, las tasas de operaciones hasta 89 días de las tasas para operaciones de 90 días o más. Cuando se trate de colocaciones, en estas últimas se distinguirá, a su vez, entre las operaciones inferiores o iguales al equivalente de 50 U.F., inferiores o iguales al equivalente de 200 U.F. y superiores al equivalente de 50 U.F., las que exceden de 200 U.F. y no superen las 5.000 U.F. y las superiores al equivalente de 5.000 U.F.
 
 d) Los bancos pondrán especial cuidado en proporcionar al público la información de que se trata en forma clara y completa mediante la colocación de pizarras en lugares visibles y destacados, que contengan solamente esa información, de modo que ella sea fácilmente ubicable para todos.
 
@@ -6625,16 +6607,6 @@ k = Numero de días transcurridos en el semestre móvil correspondiente.
 (IPC)t-6 = Valor del Indice de Precios al Consumidor seis meses antes del mes precedente a aquel en que se determine el IVP.
 
 EI valor del Indice de Valor Promedio al 9 de enero de 1990, fue de $ 5.389,14.
-
-ANEXO N° 3
-
-Reajustes según el artículo 44 de la Ley N° 18.591 para los créditos adquiridos a la ex-ANAP
-
-De acuerdo lo dispuesto en el artículo 8° de la Ley N° 18.900, en relación con los artículos 60 y 77 de la Ley N° 16.807 y el artículo 44 de la Ley N° 18.591, le corresponde a esta Superintendencia disponer el reajuste que debe aplicarse a los créditos hipotecarios que los bancos adquirieron de la ex-Asociación Nacional de Ahorro y Préstamo.
-
-En cumplimiento de lo anterior, esta Superintendencia ha entregado los porcentajes de reajustabilidad que se indican a continuación, para ser aplicados a las amortizaciones y los saldos de aquellos créditos en las fechas que se señalan:
-
-.
 
 Capítulo 7-12 (Bancos)
 
