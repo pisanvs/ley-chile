@@ -22,7 +22,7 @@ I.- En relación con el personal de la Superintendencia del Medio Ambiente.
 
 2. Dictar la resolución que ordena la instrucción de investigaciones sumarias y sumarios administrativos y designar investigador, instructor o fiscal instructor, según corresponda.
 
-### 3. Ordenar comisiones de servicio
+3. Ordenar comisiones de servicio. En los casos en que los formularios de solicitud de cometidos funcionarios no hayan sido presentados con un plazo de 20 días corridos de antelación a la fecha de su inicio, la jefatura del Departamento de Administración y Finanzas deberá comprobar que en dicho formulario conste la justificación del incumplimiento del plazo señalado. Constatado aquello, la jefatura deberá visar el formulario, según lo indicado en la Instrucción Presidencial, contenida en el oficio Gab. Pres. Nº 2, de 4 de abril de 2018, o en aquella que la reemplace.
 
 ### 4. Ordenar cometidos funcionales, dentro del territorio nacional
 
