@@ -94,7 +94,7 @@ La información señalada se encontrará disponible a través de otros medios, i
 
 #### Artículo 7º
 
-El: Director Nacional del Servicio Agrícola y Ganadero realizará anualmente un proceso de Cuenta Pública Participativa, de forma presencial, con el objetivo de informar a la ciudadanía sobre la gestión realizada y recoger opiniones, comentarios, inquietudes y sugerencias sobre la misma, promoviendo el control ciudadano y la corresponsabilidad social. Este proceso se efectuará de forma desconcentrada, coordinado por el Ministerio de Agricultura a través de las Secretarías Regionales Ministeriales respectivas, durante el primer semestre del año siguiente al que se dará cuenta en el proceso.
+El Director Nacional del Servicio Agrícola y Ganadero realizará anualmente un proceso de Cuenta Pública Participativa, de forma presencial o virtual, con el objetivo de informar a la ciudadanía sobre la gestión realizada y recoger opiniones, comentarios, inquietudes y sugerencias sobre la misma, promoviendo el control ciudadano y la corresponsabilidad social.
 
 #### Artículo 8º
 
