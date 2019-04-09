@@ -1,0 +1,5 @@
+DELEGA FACULTAD DE AUTORIZAR PAGO DIFERIDO DE IMPUESTOS DE LA LEY DE LA RENTA EN FUNCIONARIOS QUE INDICA
+
+Con fecha 28 de marzo de 2019, se dictó resolución Nº Ex. 273, por el Director Regional de la V Dirección Regional Valparaíso, en virtud de lo dispuesto en el artículo 6º, letra B), Nº 7 del Código Tributario; en el artículo 20º de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo 1º del DFL Nº 7 del Ministerio de Hacienda de 1980; en el artículo 41 de la Ley Nº 18.575 de 1986 Ley Orgánica Constitucional de Bases Generales de la Administración del Estado y resolución exenta SII Nº 48 de fecha 28 de abril de 2006 del Sr. Director, se delega en los funcionarios que indica nominativamente la facultad de autorizar a los contribuyentes que lo soliciten, el pago diferido de los impuestos de la Ley de la Renta. Texto íntegro de este documento, será publicado en www.sii.cl, Transparencia Activa, Actos con efectos sobre Terceros, una vez publicado el presente extracto.-
+
+Sergio Flores Gutiérrez, Director Regional.
