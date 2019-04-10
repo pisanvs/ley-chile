@@ -1,0 +1,5 @@
+DELEGACIÓN DE FACULTADES PARA PAGO DIFERIDO
+
+Resolución ex. RCO3.00 N° 124 del 2 de abril de 2019, de la Dirección Regional de Copiapó del Servicio de Impuestos Internos, en virtud de lo dispuesto en el artículo 6°, letra B), N° 7 del Código Tributario; en el artículo 20° de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo 1° del DFL N° 7 del Ministerio de Hacienda de 1980; en el artículo 41 de la ley N° 18.575 de 1986 Ley Orgánica Constitucional de Bases Generales de la Administración del Estado y resolución exenta SII N° 48 de fecha 28 de abril de 2006 del Sr. Director, delega en los funcionarios que indica nominativamente la facultad de autorizar a los contribuyentes que lo soliciten, el pago diferido de los impuestos de la Ley de la Renta.-
+
+Claudio Figueroa Díaz, Director Regional.
