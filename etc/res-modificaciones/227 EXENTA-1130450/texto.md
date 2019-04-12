@@ -1,0 +1,5 @@
+MODIFICA LUGAR DE ENTREGA DE LAS OFERTAS TÉCNICAS Y ECONÓMICAS DEL PROCESO DE OTORGAMIENTO DE PERMISO DE OPERACIÓN PARA UN CASINO DE JUEGO EN LA COMUNA DE NATALES
+
+Por resolución exenta Nº 227, de 5 de abril de 2019, Superintendencia de Casinos de Juego modifica la resolución exenta Nº 809, de 2018, que declara formalmente abierto el proceso de otorgamiento de un permiso de operación para un casino de juego en comuna de Natales. Se fija nuevo lugar de entrega de ofertas técnicas y económicas fijada para el día lunes 6 de mayo de 2019, a las 10:00 hrs., trasladándose desde el Hotel Gran Palace, situado en calle Huérfanos Nº 1178, comuna de Santiago, a las dependencias de esta Superintendencia, ubicadas en calle Morandé 360, piso 4, comuna de Santiago.
+
+Santiago, 5 de abril de 2019.- Manuel Zárate Campos, Superintendente de Casinos de Juego (S).
