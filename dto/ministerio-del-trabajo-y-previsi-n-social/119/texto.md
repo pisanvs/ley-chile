@@ -174,6 +174,8 @@ Para solicitar los beneficios señalados en las letras a), b), c), d) y e) del a
 
 El Bienestar podrá celebrar y financiar la Navidad, para los afiliados y sus cargas familiares, siempre que sus recursos presupuestarios lo permitan.
 
+Asimismo, el Servicio de Bienestar entregará a sus afiliados y afiliadas un bono en dinero por concepto de vacaciones de invierno, el cual será entregado en el mes de julio de cada año, siempre que sus recursos presupuestarios lo permitan. Para acceder al beneficio anterior el afiliado deberá tener una antigüedad de cotización en el Servicio de Bienestar de a lo menos un mes.
+
 PARRAFO TERCERO {ARTS. 12-15}
 
 De los Préstamos
