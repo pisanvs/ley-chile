@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 66 de 21 de marzo de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 10 para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVÍ. SECTOR: SECTOR 1 (RUTA F-20). SUBSECTOR: PLAZA PEAJE - FIN CUESTA KM. 6.500,00 AL KM. 19.000,00, Región de Valparaíso, que figura a nombre de CASTRO VÁSQUEZ JUAN ESTEBAN, rol de avalúo 171-26, comuna de Nogales, superficie 109.571 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 483 de 24 de julio de 2018, integrada por Jessica Paola Cortés Rodríguez, Eduardo Alejandro Silva Aracena y Lorena Elizabeth Gajardo Alarcón, fijó con fecha 7 de septiembre de 2018, el valor provisional de la indemnización en la cantidad de $181.625.240 para el lote N° 10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+.
