@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 153 de 28 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 44, Rol de avalúo 195-296, Comuna de Puchuncaví, superficie 658 m2., para la obra MEJORAMIENTO RUTA F-190 S: VALLE ALEGRE-PUCHUNCAVÍ, COMUNA DE PUCHUNCAVÍ, PROVINCIA DE VALPARAÍSO, REGIÓN DE integrada por MARLENE TERESA RÍOS VALPARAÍSO. La comisión de peritos, MARCUELLO, SONIA CATALINA GALLEGOS BLANCH y JUAN ROBERTO HONORATO ERRAZURIZ, fijó el valor de tasación con fecha 01 de febrero de 2017, acordándose la indemnización con su propietaria MARÍA INÉS OLAVARRÍA ASTUDILLO, en la cantidad de $2.015.881.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
