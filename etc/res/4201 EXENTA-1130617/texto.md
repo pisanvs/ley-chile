@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4201, 31 de diciembre 2018, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Avenida Cristóbal Colón, Población José Dávila Rodríguez, sin rol de avalúo asignado (Lote 79), comuna de Hualpén, de propietario desconocido. La superficie afecta a expropiación total de Polígono (A-B-C-D-A) es de 446,34 m2 y Polígono (E-F-G-H-E) de 462,87 m2, cuyos linderos particulares enmarcados según plano S8R-37.798-1, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por ingeniero civil Orlando Paredes Vásquez, por arquitecto Andrés Tobar Beluzán y arquitecto Rodrigo Escobar Fernández, según informe de fecha 10.12.2018, fijó monto provisional de indemnización en $146.075.497.-, pagadero de contado.
+
+Director Serviu Región del Biobío.
