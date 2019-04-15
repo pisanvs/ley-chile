@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 119, de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 2-A, Rol de avalúo 130-11, Comuna de Los Sauces, superficie 1.284 m2., para la obra “REPOSICIÓN PUENTE REHUE Y ACCESOS, LOS SAUCES”, PROVINCIA DE MALLECO, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, CLAUDIO HERNÁN ANGULO SOTOMAYOR y PABLO ALEX MANSILLA ARAVENA, fijó el valor de tasación con fecha 09 de octubre de 2016, complementada por Acta de 15 de junio de 2017, acordándose indemnización con su propietario JUAN CLAUDIO DE LA CRUZ RODRÍGUEZ, en la cantidad total de $1.923.032.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
