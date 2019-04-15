@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo marítimo N° 477, de fecha 8 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Miguel Fundador González Araya, RUT 10.585.546-K, Concesión Marítima menor, con vencimiento el día 31 de diciembre de 2023, sobre un sector de playa y porción de agua de lago el lugar denominado Paula, comuna de Vichuquén, Provincia de Curicó, Región del Maule, con una superficie total de 29,35 m2, la que fue tramitada con el SIABC N° 40192. A modo referencial se señala la siguiente coordenada geográfica latitud 34°50'38.0590" S, longitud 72°03'21,6700" W, el objeto de la solicitud consiste en permitir la construcción y habilitación de un atracadero para naves menores a 25 TRG, y el plazo contemplado para su ejecución es de dos meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Constitución. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Juan Pablo Sánchez Baeza, Teniente 1° LT, Capitán de Puerto de Constitución.
