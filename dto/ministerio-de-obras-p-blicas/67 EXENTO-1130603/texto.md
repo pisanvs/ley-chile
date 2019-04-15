@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 67, de 21 de marzo de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1 para la obra: CONCESIÓN INTERNACIONAL RUTA 5, TRAMO: TALCA - CHILLÁN SECTOR: PASARELA PEATONAL Y PARADEROS CAMINO REAL KM. 300.000,00 AL KM. 300.700,00, Región del Maule, que figura a nombre de INVERSIONES BFBE LIMITADA, rol de avalúo 539-114 de la comuna de Linares, superficie 1.270 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 566 de 13 de septiembre de 2018, integrada por Jessica Paola Cortés Rodríguez, Marlene Teresa Ríos Marcuello y Viviana Angélica Fuentes Catalán, fijó con fecha 2 de octubre de 2018, el valor provisional de la indemnización en la cantidad de $7.316.000 para el lote N° 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+.
