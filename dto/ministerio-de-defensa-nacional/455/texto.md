@@ -1,0 +1,5 @@
+SOLICITUD DE RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo marítimo N° 455, de fecha 8 de noviembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Carmen Muñoz Barahona, RUT 7.818.744-1, primera renovación de Concesión Marítima menor, con vencimiento el día 31 de diciembre de 2020, sobre un sector de playa y fondo de lago el lugar denominado Punta del Barco, comuna de Vichuquén, Provincia de Curicó, Región del Maule, con una superficie total de 29,86 m2, la que fue tramitada con el SIABC N° 35236. A modo referencial se señala la siguiente coordenada geográfica latitud 34°47'39,6891" S, longitud 72°03'23,3877" W, el objeto consiste en continuar amparando el uso de las mejoras fiscales consistentes en un atracadero sobre pilotes, para naves menores a 25 TRG, y una rampa de hormigón. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Constitución. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Juan Pablo Sánchez Baeza, Teniente 1° LT, Capitán de Puerto de Constitución.
