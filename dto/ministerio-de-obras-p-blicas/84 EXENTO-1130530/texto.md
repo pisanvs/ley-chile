@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 84 de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 117-B1-1, Rol de avalúo 275-132, Comuna de San Javier, superficie 374 m2., para la obra CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M - CARRIZAL, TRAMO KM. 0,50000 AL KM. 17,34000, COMUNA DE SAN JAVIER, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZÁLEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 05 de febrero de 2018, acordándose la indemnización con su propietaria AIDÉ DEL CARMEN GONZÁLEZ ARÉVALO, en la cantidad de $5.023.050.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
