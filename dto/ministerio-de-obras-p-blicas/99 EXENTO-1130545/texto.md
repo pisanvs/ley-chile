@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 99, de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno N° s. 7-A y 7-C, Rol de avalúo 1168-143, Comuna de Ancud, superficies 76 y 147 m2., para la obra: MEJORAMIENTO RUTAS W-135-125, SECTOR: RAMPA CHACAO - LINAO, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por CHRISTIAN EMIL RAUCH YÁÑEZ, LEOPOLDO RAMÓN SCHUMACHER GUARDA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 06 de octubre de 2017, acordándose la indemnización con su propietario EDIN HUMBERTO VILLEGAS ARISMENDI, en la cantidad total de $2.079.619.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
