@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 86 de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 3, Rol de avalúo 3760-16 Comuna de San Pedro Atacama, superficie 1.207 m2., para la obra MEJORAMIENTO RUTA B-385 SECTOR BAQUEDANO - SALAR DE ATACAMA, COMUNA DE SAN PEDRO DE ATACAMA, PROVINCIA DE EL LOA, REGIÓN DE ANTOFAGASTA. La comisión de peritos, integrada por RODRIGO IVÁN CARBACHO AEDO, CAROLINA VERONICA O´BRIEN MOLINA y BÁRBARA ALEJANDRA PORTILLA CORTES, fijó el valor de tasación con fecha 27 de mayo de 2017, acordándose la indemnización con su propietario VICENTE CONZUE MORALES, en la cantidad de $3.020.721.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
