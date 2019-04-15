@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 79 de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terrenos 141 y 142, Rol de avalúo 1091-242, Comuna de Quillón, superficies 209 y 503 m2. respectivamente, para la obra REPOSICIÓN RUTA 148, SECTOR: CRUCE RUTA 5 - PUENTE QUEIME, COMUNA DE QUILLÓN, PROVINCIA DE ÑUBLE, REGIÓN DEL BIOBÍO, (Actual Provincia de Diguillín, Región de Ñuble). La comisión de peritos, integrada por ROXANA CECILIA ABARZÚA GAJARDO, ALEJANDRA LEONOR FIGUEROA GIRALT y GONZALO ANDRÉS SUAZO FIGUEROA, fijó el valor de tasación con fecha 26 de mayo de 2017, acordándose la indemnización con su propietaria AGRÍCOLA PHYTOCLONING LIMITADA, en la cantidad de $16.250.043.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
