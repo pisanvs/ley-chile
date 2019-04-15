@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 527, de 21 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a don Arcadio Arriagada Oyarzún, RUT: 6.503.601-0, segunda renovación, concesión marítima menor, con vencimiento al 31 de diciembre 2023, sobre un sector de playa en el lugar denominado Nalhuitad, Comuna de Chonchi, provincia de Chiloé, Región de Los Lagos, con una superficie de 800 m2, la que fue tramitada con el SIABC N° 40.273. A modo referencial se señalan deslindes: Norte: con playa, 20 mts (A-B en el plano); Sur: con playa, 20 mts (D-C), Este: con playa, 40 mts (B-C); Oeste: con línea de alta marea y playa 40 mts (A-D). El objeto consiste en un varadero para Reparación Embarcaciones menores del tipo artesanal. La obra existente consiste en varadero. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Castro.-
+
+Roque Núñez Cabrera, Capitán de Corbeta LT.
