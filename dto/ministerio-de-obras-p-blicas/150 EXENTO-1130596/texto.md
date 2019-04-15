@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 150, de 28 de marzo de 2019, y de conformidad a la facultad otorgada en el artículo 3° letra a), 10° letra c), 14° letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y el DFL MOP N° 206, de 1960, artículo 15 inciso 2° y 22° N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote N° 170, Rol de Avalúo 59-57, Comuna de San Fabián, superficie 493.498 m2., para la obra: CONCESIÓN DE LA OBRA PÚBLICA EMBALSE LA PUNILLA, PROVINCIA DE ÑUBLE, REGIÓN DEL BIOBÍO, ACTUAL PROVINCIA DE PUNILLA, REGIÓN DE ÑUBLE. La Comisión de Peritos integrada por ANDRÉS RAINER SCHULZ VILLANUEVA, PAULA SOLEDAD GONZÁLEZ ORTEGA y RAYEN ALEJANDRA GUZMAN THEODULOZ, fijó el valor de tasación con fecha 23 de mayo de 2018, acordándose la indemnización con su propietario PEDRO GONZÁLEZ BILUMILLA o PEDRO GONZÁLEZ VILUMILLA, en la cantidad de $419.389.360.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
