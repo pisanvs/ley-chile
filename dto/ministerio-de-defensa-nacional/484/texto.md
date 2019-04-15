@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto Supremo Nº 484, de fecha 19 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Sociedad Creamagia Producciones Limitada, 76.048.681-7, concesión marítima menor con vencimiento el 31 de diciembre del año 2023, sobre un sector de playa de mar, en el lugar denominado Sur de punta Pello, Estero Castro, comuna de Castro, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 144 m², la que fue tramitada con el SIABC Nº 36162. A modo referencial se señala la siguiente coordenada geográfica: 42º 29' 01,92", 73º 44' 05,59". El objeto consiste en amparar un atracadero flotante para embarcaciones de hasta 50 T.R.G. Las obras consisten en la construcción de un atracadero flotante y el plazo contemplado para su ejecución es de 60 días. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Castro. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Roque Núñez Cabrera, Capitán de Corbeta LT, Capitanía de Puerto de Castro.
