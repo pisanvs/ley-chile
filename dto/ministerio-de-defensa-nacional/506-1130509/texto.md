@@ -1,0 +1,9 @@
+RENOVACIÓN Y TRANSFERENCIA DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo N° 506, del 21 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la empresa Comercial y Servicios Sur Austral Limitada, RUT: 77.071.440-0, primera renovación de Concesión Marítima Mayor, con vencimiento el 31 de diciembre de 2028, sobre un sector de playa y fondo de mar, en el lugar denominado Bahía Chincui, sector Chinquihue Km. 12.5, comuna de Puerto Montt, provincia de Llanquihue, Región de Los Lagos, con una superficie total de 8.089,88 m2, la que fue tramitada con el SIABC N° 34.172 y autorizó su transferencia, tramitada con el SIABC N° 33.032, a la empresa Salmones Pacific Star S.A., sociedad chilena, RUT: 79.559.220-2, otorgada mediante decreto supremo N° 228, de fecha 23 de junio de 2005, con el objeto de continuar amparando la instalación de una explanada, para el depósito y resguardo de la carga en tránsito hacia los centros de cultivo, estacionamiento de vehículos, sala de máquinas y un muelle mecanizado para la operación de naves mayores de 50. T.R.G. A modo referencial se señalan las siguientes coordenadas geográficas: Lat.: 41°31'13.085" S - Long.: 73°02'33.744" W y Lat.: 41°31'15.441" S - Long.: 73°02'28.435" W.
+
+Las obras consisten en un relleno para una explanada, una sala de máquinas y un muelle mecanizado para la operación de naves mayores de 50 T.R.G.
+
+Los antecedentes del decreto referido se encuentran a disposición del público en la Capitanía de Puerto de Puerto Montt. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Felipe Jesús González Iturriaga, Capitán de Fragata LT, Capitán de Puerto de Puerto Montt.
