@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 69 de 21 de marzo de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 2 para la obra: CONCESIÓN INTERNACIONAL RUTA 5, TRAMO: TALCA - CHILLÁN SECTOR: PASARELA PEATONAL Y PARADEROS TALQUITA NORTE KM. 347.800,00 AL KM. 348.400,00, Región del Maule, que figura a nombre de SEPÚLVEDA ARAYA WALMIRIS A, rol de avalúo 839-170 de la comuna de Parral, superficie 244 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 607 de 17 de octubre de 2018, integrada por Eduardo Alejandro Silva Aracena, Valentina Andrea Chacaltana Sims y Maximiliano Cortés Caiozzi, fijó con fecha 26 de noviembre de 2018, el valor provisional de la indemnización en la cantidad de $616.200 para el lote N° 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+.
