@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución ex. Nº 1.093 de fecha 05/04/2019, conforme al artículo 48 y 62 Ley 19.880, de Serviu Región de la Araucanía, se ordenó la rectificación de la resolución ex. Nº3.792 de fecha 23 de Noviembre de 2018 de Serviu Araucanía, que dispuso la expropiación del Lote 01-A, por existir un error aritmético en su resuelvo Nº 2, por lo que corresponde que indique, en definitiva, lo siguiente: "Fíjese en la suma de $245.960.792.- (doscientos cuarenta y cinco millones novecientos sesenta mil setecientos noventa y dos pesos), el monto total de la indemnización provisional por la expropiación ordenada, suma que corresponde al monto fijado por la comisión de peritos designada al efecto, y la cual comprende el valor por terreno y construcciones expropiadas".
+
+Director Serviu Región de la Araucanía.
