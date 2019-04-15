@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 129, de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 11, Rol de avalúo 2006-161, Comuna de Melipilla, superficie 142 m2., para la obra “REPOSICIÓN PUENTES Y LOSAS PROVINCIAS DE MELIPILLA Y TALAGANTE PUENTE EL BAJO, PROVINCIA DE MELIPILLA, REGIÓN METROPOLITANA DE SANTIAGO. La comisión de peritos, integrada por DOUGLAS MAXIMILIANO HERRERA FLORES, NORMAN ESTANISLAO CALDERÓN PONTIGGIA y JAIME ROLANDO JURGENS BITTNER, fijó el valor de tasación con fecha 01 de septiembre de 2016, complementada por Acta de 02 de octubre de 2018, acordándose la indemnización con su propietaria ANA DEL CARMEN NÚÑEZ REYES, en la cantidad de $31.503.656.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
