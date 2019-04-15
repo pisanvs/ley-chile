@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Ex. Nº 1.094 de fecha 05/04/2019, conforme al artículo 51 ley 16.391, D. L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Andes, entre Av. Alemania y Valladolid, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 04-0, consistente en "Inmueble de cuarenta metros de frente por cincuenta metros de fondo, o sea, dos mil metros cuadrados de superficie, situado al poniente de la cancha de Los Pinos, hoy calle Andes quinientos seis", Rol de avalúo 1428-3, comuna de Temuco. La superficie a expropiar aproximada es de 517,85 metros cuadrados, de aparente dominio de Banco del Estado de Chile. Comisión de Peritos integrada señores Marcela Alejandra Melo Rodríguez, Arquitecto, Constanza Victoria Mihoevic González, Ingeniero Constructor y Mario Alberto Arenas Pizarro, Arquitecto, fijó monto de Indemnización Provisional en $637.319.374, según Informe Nº 04-0 de fecha 02/04/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
