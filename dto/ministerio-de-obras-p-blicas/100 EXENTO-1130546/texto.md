@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 100, de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 16, Rol de avalúo 2421-25, Comuna de Valdivia, superficie 180 m2., para la obra: MEJORAMIENTO RUTA 206 - TRES VENTANAS, PROVINCIA DE VALDIVIA, REGIÓN DE LOS RÍOS. La comisión de peritos, integrada por MARÍA ISABEL RÍOS MARCUELLO, NORMÁN ESTANISLADO CALDERÓN POINTIGGIA y PAULO DÍAZ VERGARA, fijó el valor de tasación con fecha 02 de febrero de 2018, acordándose la indemnización con su propietario MAURICIO LEONEL OSORIO JIMÉNEZ, en la cantidad total de $2.187.085.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
