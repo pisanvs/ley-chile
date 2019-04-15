@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 80 de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 4-A, Rol de avalúo 801-21, Comuna de Talca, superficie 536 m2., para la obra AMPLIACIÓN INTERCONEXIÓN VIAL CIRCUNVALACIÓN NORTE Y SUR EN TALCA, COMUNA DE TALCA, PROVINCIA DE TALCA, REGIÓN DEL MAULE. La comisión de peritos, integrada por ALICIA BÁRBARA FLORES PACHECO, PATRICIO ULISES DURAN MARCOS y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 09 de diciembre de 2017 complementado por acta de 31 de julio de 2018, acordándose la indemnización con sus propietarios ANDREA DE LOS ÁNGELES VALENZUELA ALBURQUENQUE Y OTROS, en la cantidad de $93.112.129.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
