@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.212, 31 de diciembre de 2018, Serviu Región del Biobío ordenó expropiación parcial de inmueble y total de edificaciones, ubicado en Colón 7325, Rol de avalúo N° 3514-18, comuna de Talcahuano, de aparente dominio de Marchant Escobar Herna Esterland y otros. La superficie afecta a expropiación parcial de terreno es de 252,21 m2 (Lote 77) y expropiación total de edificación (a) 46,47 m2 y (b) 48,84 m2, (c) 9,00 m2 y (d) 64,14 m2, total 168,45 m2, cuyos linderos particulares enmarcados según plano S8R-32.986-3, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 Ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Juan King Domínguez, por arquitecto Brogan Ulloa Pérez y constructor civil María Silva Hernández, según informe de fecha 29.11.2018, fijó monto provisional de indemnización en $65.329.978.-, pagadero de contado.
+
+Director Serviu Región del Biobío.
