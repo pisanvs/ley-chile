@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 8, de 30 de enero de 2019, se modificó el numeral primero del Decreto Exento MOP N° 1386, de 17 de octubre de 2018, en la parte que se refiere al kilometraje del lote N° 5, individualizado de la siguiente manera: N° 5, Km. 11,07072 al Km. 15,76170", aprueba plano y cuadro de expropiación y complementa el Informe de Tasación del lote N° 5, de fecha 13 de julio de 2018, con acta de fecha 07 de enero de 2019.
