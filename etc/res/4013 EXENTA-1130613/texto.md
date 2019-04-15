@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.013, de 17 de diciembre 2018, Serviu Región del Biobío ordenó expropiación parcial de inmueble y total de edificaciones, ubicado en Colón 8529 Prieto Cruz, rol de avalúo Nº 3524-1, comuna de Hualpén, de aparente dominio de Suc. Bartlo Caamaño. La superficie afecta a expropiación parcial de terreno es de 212,35 m2 (Lote 52) y expropiación total de edificación (a) 137,00 m2, cuyos linderos particulares enmarcado según plano S8R-37.632-1, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por constructor civil e ingeniero constructor María Silva Hernández, por arquitecto Marielva Inzunza Morales y arquitecto Rodrigo Rosales Sáez, según informe de fecha 15.11.2018, fijó monto provisional de indemnización en $55.127.143.-, pagadero de contado.
+
+Director Serviu Región del Biobío.
