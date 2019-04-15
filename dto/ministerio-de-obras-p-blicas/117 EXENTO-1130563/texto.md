@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 117 de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 41-B, Rol de avalúo 1157-580, Comuna de Bulnes, superficie 314 m2., para la obra REPOSICIÓN RUTA 148, SECTOR: CRUCE RUTA 5 - PUENTE QUEIME, COMUNA DE BULNES, PROVINCIA DE ÑUBLE, REGIÓN DEL BIOBÍO, (Actual Región de Ñuble). La comisión de peritos, integrada por ROXANA CECILIA ABARZÚA GAJARDO, ALEJANDRA LEONOR FIGUEROA GIRALT y GONZALO ANDRÉS SUAZO FIGUEROA, fijó el valor de tasación con fecha 01 de septiembre de 2017, acordándose la indemnización con su propietaria ERIKA DEL CARMEN CONCHA BAYER, en la cantidad de $1.749.466.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
