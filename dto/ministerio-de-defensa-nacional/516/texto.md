@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N°516, de 21 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Esteban Andrés Chamorro Ampuero, RUT 8.677.990-0, Primera renovación de Concesión Marítima Menor, con vencimiento 31 de diciembre de 2023, sobre un sector de Playa y Porción de Agua, en el lugar denominado Rauco, comuna de Chonchi, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 178 m2, la que fue tramitada con el SIABC N°40.075. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): Vértice A, Latitud S 42°31'35,72", Longitud W 73°47'53,03". El objeto consiste en continuar amparando la instalación existente de un atracadero para embarcaciones menores y la movilización de personas hacia vivienda particular. Las obras existentes consisten en un Atracadero Flotante. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Castro. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Roque Núñez Cabrera, Capitán de Corbeta LT.
