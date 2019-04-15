@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 78, de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 152, Rol de avalúo 2210-371, Comuna de Hualaihue, superficie 1.407 m2., para la obra: MEJORAMIENTO RUTA 7 SECTOR: HORNOPIREN - PICHANCO, PROVINCIA DE PALENA, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y CARMEN PILAR RÍOS MARCUELLO, fijó el valor de tasación con fecha 27 de abril de 2017, acordándose la indemnización con su propietario JOSÉ CELEDONIO MALDONADO MALDONADO, en la cantidad total de $55.078.664.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
