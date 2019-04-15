@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 151, de 28 de marzo de 2019, y de conformidad a la facultad otorgada en el artículo 3° letra a), 10° letra c), 14° letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y el DFL MOP N° 206, de 1960, artículo 15 inciso 2° y 22° N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote N° 23-2, Rol de Avalúo 15009-659, Comuna de San Pedro de la Paz, superficie 46.000 m2., para la obra CONCESIÓN VIAL PUENTE INDUSTRIAL SECTOR D: ZONA DE AMORTIGUACIÓN, COMUNA DE SAN PEDRO DE LA PAZ, PROVINCIA DE CONCEPCIÓN, REGIÓN DEL BIOBÍO. La Comisión de Peritos integrada por RODRIGO ALEXIS ESCOBAR FERNÁNDEZ, MARCELO GABRIEL OYARZO SALDÍAS e INÉS ELENA OTÁROLA CASTILLO, fijó el valor de tasación con fecha 31 de enero de 2018, acordándose la indemnización con su propietaria MYRNA JULIA GONZÁLEZ ÁLVAREZ, en la cantidad de $378.564.288.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.-
+
+Fiscalía MOP.
