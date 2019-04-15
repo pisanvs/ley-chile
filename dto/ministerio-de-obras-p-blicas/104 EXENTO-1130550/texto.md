@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 104, de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 130-B, Rol de avalúo 61-243, Comuna de Lampa, superficie 161 m2., para la obra: REPOSICIÓN PAVIMENTO RUTA G-150: PANAMERICANA - LAMPA, PROVINCIA DE CHACABUCO, REGIÓN METROPOLITANA DE SANTIAGO. La comisión de peritos, integrada por DOUGLAS MAXIMILIANO HERRERA FLORES, NORMAN ESTANISLAO CALDERÓN PONTIGGIA y CAROLINA ALEJANDRA BRITO RAMOS, fijó el valor de tasación con fecha 13 de febrero de 2018, acordándose la indemnización con sus propietarios DANIEL ALEX CANCINO SALFATE Y OTRA, en la cantidad de $5.769.761.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
