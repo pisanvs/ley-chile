@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 134, de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 4, Rol de avalúo 2211-683, Comuna de Hualaihue, superficie 276 m2., para la obra: MEJORAMIENTO RUTA 7, SECTOR PUENTE CISNE - PICHICOLO, PROVINCIA DE PALENA, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por CARLOS EUGENIO MERA SANTIBÁÑEZ, ENRIQUE EDGARDO HOELCK ALTMANN y JUAN CELESTINO GIOVANNINI MANSILLA, fijó el valor de tasación con fecha 17 de junio de 2016, acordándose la indemnización con su propietario ARTEMIO EDILIO SOTO SUBIABRE, en la cantidad total de $961.830-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
