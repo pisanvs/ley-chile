@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.215, 31 de diciembre 2018, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Colón 7281, Rol de avalúo N° 3514-21, comuna de Talcahuano, de aparente dominio de Seguel Alarcón María A. La superficie afecta a expropiación total de terreno es de 187 m2 (Lote 74) y total de edificación (a) 82,80 m2 y (b) 14,40 m2, total 97,20 m2, cuyos linderos particulares enmarcado según plano S8R-32.983-3, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 Ley N° 16.391 y D.L. N° 2.186. Comisión Peritos integrada por constructor civil Juan Cuevas Castillo, por constructor civil María Silva Hernández y arquitecto Priscilla Encalada Rueda, según informe de fecha 29.11.2018, fijó monto provisional de indemnización en $46.248.586.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
