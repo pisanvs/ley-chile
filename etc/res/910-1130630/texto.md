@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 910 de 28 de marzo de 2019, el Serviu Región de Los Lagos ordenó expropiación lote terreno N° 97 para la ejecución Proyecto "Mejoramiento Avenida Presidente Ibáñez de la ciudad de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Vargas Parra Elia, rol de avalúo según SII N° 1018-32, comuna de Puerto Montt, superficie 253,24 metros cuadrados. La comisión de peritos integrada por los Srs. Leopoldo Schumacher G., Edgardo Hoelck A. y Nelson Turra T., designados por resolución exenta N° 3538 de 7 de noviembre de 2018, fijó con fecha 20 de noviembre de 2018 el valor provisional de la indemnización en la suma de $135.897.900. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del decreto ley N° 2186.
+
+Director Serviu Región de Los Lagos.
