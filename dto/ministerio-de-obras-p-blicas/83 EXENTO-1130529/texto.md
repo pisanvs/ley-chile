@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 83, de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 2, Rol de avalúo 307-696, Comuna de Freire, superficie 1.054 m2., para la obra “CAMINO QUEPE - ZANJA, SECTOR KM. 0,00000 A KM. 0,8800”, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por MARÍA SOLEDAD NÚÑEZ ARROYO, PATRICIO FERNANDO CASAGRANDE ULLOA y EVALDO ROBERTO CONTRERAS ROA, fijó el valor de tasación con fecha 08 de noviembre de 2011, complementada por Acta de 02 de marzo de 2016, acordándose la indemnización con su propietario BERNARDO SEGUNDO RAIN LARA, en la cantidad total de $2.625.422.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
