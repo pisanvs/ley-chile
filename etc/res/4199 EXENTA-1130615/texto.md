@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.199, 31 de diciembre 2018, Serviu Región del Biobío ordenó expropiación total de inmueble, ubicado en Colón 8207, Lan Chile, rol de avalúo N° 3521-10, comuna de Hualpén, de aparente dominio de Riffo Inostroza Miriam A. y otros. La superficie afecta a expropiación total de terreno es de 268,00 m2 (Lote 29) y expropiación total de edificación (a) 82,54 m2, cuyos linderos particulares enmarcado según plano S8R-33.407-2, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 Ley N° 16.391 y D.L. N° 2.186. Comisión Peritos integrada por arquitecto Leonardo Fasce Casanueva, por constructor civil Juan Cuevas Castillo e ingeniero agrónomo Gonzalo Sáez Lastra, según informe de fecha 15.11.2018, fijó monto provisional de indemnización en $71.145.699.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
