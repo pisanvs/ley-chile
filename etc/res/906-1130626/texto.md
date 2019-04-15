@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 906 de 28 de marzo de 2019, el Serviu Región de Los Lagos ordenó expropiación lote terreno N° 92 para la ejecución Proyecto "Mejoramiento Avenida Presidente Ibáñez de la ciudad de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Mansilla Uribe Pablo Moisés, rol de avalúo según SII N° 1018-7, comuna de Puerto Montt, superficie 82,73 metros cuadrados. La comisión de peritos integrada por los Srs. Leopoldo Schumacher G., Edgardo Hoelck A. y Nelson Turra T., designados por resolución exenta N° 3538 de 7 de noviembre de 2018, fijó con fecha 20 de noviembre de 2018 el valor provisional de la indemnización en la suma de $50.340.500. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del decreto ley N° 2186.
+
+Director Serviu Región de Los Lagos.
