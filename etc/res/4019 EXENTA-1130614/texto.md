@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.019, 18 de diciembre de 2018, Serviu Región del Biobío ordenó expropiación parcial de inmueble y total de edificaciones, ubicado en Colón 8709 LT 2, rol de avalúo Nº 3524-32, comuna de Hualpén, de aparente dominio de Arriagada Seguel Lisandro. La superficie afecta a expropiación parcial de terreno es de 388,71 m2 (Lote 62) y expropiación total de edificación (a) 19,58 m2 y (b) 34,02 m2, total 53,60 m2, cuyos linderos particulares enmarcado según plano S8R-33.414-1, para la ejecución de las obras del proyecto denominado "Construcción Corredor Transporte Público Colón: Perales-Alessandri", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Rubén Muñoz Vera, por arquitecto Rodrigo Escobar Fernández e ingeniero civil Orlando Paredes Vásquez, según informe de fecha 15.11.2018, fijó monto provisional de indemnización en $82.458.549.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
