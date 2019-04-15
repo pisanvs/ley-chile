@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 90, de 26 de marzo de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 44, Rol de avalúo 295-53, Comuna de Frutillar, superficie 651 m2., para la obra: MEJORAMIENTO CBI RUTA V-155, FRUTILLAR BAJO (F. PAV) - QUILANTO, FRUTILLAR, PROVINCIA DE LLANQUIHUE, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por NORMAN ESTANISLAO CALDERÓN PONTIGGIA, SONIA CATALINA GALLEGOS BLANCH y CHRISTIAN EMIL RAUCH YÁÑEZ, fijó el valor de tasación con fecha 21 de julio de 2016, acordándose la indemnización con su propietario MARCELO EDUARDO KLOCKER SALAS, en la cantidad total de $8.750.858-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
