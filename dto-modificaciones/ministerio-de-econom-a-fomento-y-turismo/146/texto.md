@@ -48,9 +48,9 @@ Modifíquese el decreto Nº 45, de 22 de marzo de 2013, del Ministerio de Econom
 
 "d) La constitución y migración de Sociedad Colectiva Comercial, contemplada en los Párrafos 1 a 7, ambos inclusive, del Título VII del Libro II del Código de Comercio, de la Sociedad en Comandita Simple, contemplada en los Párrafos 10 y 11 del Título VII del Libro II del Código de Comercio, y de la Sociedad en Comandita por Acciones, establecida en los Párrafos 10 y 12 del Título VII del Libro II del Código de Comercio, a contar del primer día hábil del nonagésimo primer mes contado desde la entrada en vigencia de la Ley;
 
-e) La constitución y migración de la Sociedad Anónima Cerrada, establecida en la ley Nº 18.046, a contar del primer día hábil del septuagésimo noveno mes contado desde la entrada en vigencia de la ley; y
+e) La constitución y migración de la Sociedad Anónima Cerrada, establecida en la ley Nº 18.046, a contar del primer día hábil del septuagésimo sexto mes contado desde la entrada en vigencia de la ley; y
 
-f) La constitución y migración de la Sociedad Anónima de Garantía Recíproca, regulada por la ley Nº 20.179, a contar del primer día hábil del septuagésimo noveno mes contado desde la entrada en vigencia de la Ley.".
+f) La constitución y migración de la Sociedad Anónima de Garantía Recíproca, regulada por la ley Nº 20.179, a contar del primer día hábil del septuagésimo sexto mes contado desde la entrada en vigencia de la ley.".
 
 #### Artículo segundo
 
