@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "MANUAL INTEGRADO DE GESTIÓN DE LICENCIAS MÉDICAS DE FUNCIONARIAS Y FUNCIONARIOS DEL INSTITUTO DE PREVISIÓN SOCIAL"
+
+Por resolución exenta Nº 101, de 28 de marzo de 2019, el Director Nacional del Instituto de Previsión Social, aprobó el documento, "Manual Integrado de Gestión de Licencias Médicas de Funcionarias y Funcionarios del Instituto de Previsión Social", aprobado por la División Jurídica con fecha 13 de marzo de 2019, cuyo objetivo es establecer y formalizar el proceso de tramitación, gestión de cobro y recuperación de Subsidios por Incapacidad Laboral de Licencias Médicas, a fin de uniformar las actividades que deben realizar cada uno de las/os responsables del proceso.
+
+Santiago, 9 de abril de 2019.- Patricio Coronado Rojo, Director Nacional.
