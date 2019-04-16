@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "MANUAL DE PROCEDIMIENTOS DE GESTIÓN DE PROYECTOS INSTITUCIONALES"
+
+Por resolución exenta Nº 102, de 28 de marzo de 2019, el Director Nacional del Instituto de Previsión Social, aprobó el documento "Manual de Procedimientos de Gestión de Proyectos Institucionales", aprobado por la División Jurídica con fecha 20 de marzo de 2019, cuyo objetivo es dar a conocer los procesos y procedimientos que sirven de base para la gestión de los proyectos que forman parte del Plan Director del IPS, basado en el Modelo Operacional Objetivo (MOO) implementado por la Oficina de Gestión de Proyectos del Instituto, o PMO Institucional (del inglés Project Management Office).
+
+Santiago, 9 de abril de 2019.- Patricio Coronado Rojo, Director Nacional.
