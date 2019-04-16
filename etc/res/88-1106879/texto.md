@@ -74,8 +74,6 @@ Cuando un PTI sea administrado directamente por Corfo, la selección y contratac
 
 Asociados/as: Se trata de una o más personas, naturales o jurídicas, públicas o privadas, con o sin fines de lucro, que concurren cofinanciando el proyecto. Además, podrán concurrir en este rol, órganos de la Administración del Estado, Gobiernos Regionales y Municipalidades.
 
-El aporte que realicen los Asociados no será considerado como parte del aporte de Corfo, aun cuando la Corporación administre esos recursos en cuentas extrapresupuestarias, complementarias o cuentas representativas de movimientos financieros no presupuestarios.
-
 Participantes: Son las entidades, tanto públicas como privadas, que darán pertinencia al proyecto, que conformen y/o interaccionen en el ámbito de acción del PTI, y cuya participación en las acciones de difusión y coordinación se estime crítica por Corfo para la ejecución del proyecto.
 
 La calificación, de una entidad pública o privada, como Participante de un PTI, deberá ser realizada por Corfo en forma previa a su incorporación al proyecto, ya sea en la Etapa de Validación Estratégica o durante la Etapa de Ejecución del proyecto.
@@ -105,8 +103,6 @@ La Etapa de Ejecución será ejecutada conforme se indique en el proyecto aproba
 6.- MONTO DE FINANCIAMIENTO Y COFINANCIAMIENTO.
 
 Los montos máximos por cada Etapa son:
-
-Para la ejecución de las Etapas, Corfo aportará un financiamiento y/o cofinanciamiento por los montos máximos que se señalan a continuación, sin considerar en el cálculo de esos topes los recursos aportados para estos efectos por personas de derecho público, incluidos los órganos de la Administración del Estado, que Corfo administre en cuentas extrapresupuestarias, complementarias o cuentas representativas de movimientos financieros no presupuestarios, según lo dispuesto en la normativa o autorizaciones que corresponda.
 
 El financiamiento total de Corfo para la Etapa de Validación Estratégica, no podrá exceder de $20.000.000.- (veinte millones de pesos).
 
