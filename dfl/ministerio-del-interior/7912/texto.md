@@ -30,7 +30,7 @@ El Presidente de la República ejercerá el gobierno y administración del Estad
 
 7° Economía, Fomento y Turismo;
 
-8° Planificación;
+8° Desarrollo Social y Familia;
 
 9° Educación;
 
