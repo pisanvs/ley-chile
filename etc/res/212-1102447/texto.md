@@ -102,6 +102,8 @@ a) Asociados/as: Son una o más personas naturales o personas jurídicas privada
 
 Su participación será aprobada por el Comité de Asignación de Fondos - CAF de acuerdo a los antecedentes que demuestre(n) técnicamente que éste(os) representa(n) al sector y/o plataforma habilitante; su trayectoria institucional y la coherencia de su participación y su nivel de compromiso, respecto de las acciones y objetivos específicos del Proyecto.
 
+El aporte que realicen los Asociados no será considerado como parte del aporte de Corfo, aun cuando la Corporación administre esos recursos en cuentas extrapresupuestarias, complementarias o cuentas representativas de movimientos financieros no presupuestarios.
+
 b) Intermediarios: Sus funciones serán aquellas señaladas en el numeral 8, así como implementar todas las acciones necesarias para cumplir las actividades y objetivos del Proyecto. Podrán, además, concurrir en el proyecto efectuando aportes valorados y/o pecuniarios.
 
 ### 5. EQUIPO DE TRABAJO DEL PROYECTO
@@ -194,19 +196,7 @@ No podrán ser recomendados Agentes Operadores Intermediarios o Entidades Gestor
 
 ### 9. MONTO DE FINANCIAMIENTO Y/O COFINANCIAMIENTO DE CORFO
 
-Para la ejecución de las Etapas, Corfo aportará un financiamiento y/o cofinanciamiento por hasta los montos máximos que a continuación se señalan:
-
-a) Etapa de Diagnóstico y Hoja de Ruta: Para los Proyectos Estratégicos Regionales, Corfo financiará hasta $160.000.000.- (ciento sesenta millones de pesos); y, para los Proyectos Estratégicos Nacionales y Mesoregionales será de hasta $200.000.000.- (doscientos millones de pesos).
-
-b) Etapa de Validación: Para los Proyectos Estratégicos Nacionales, Mesoregionales y Regionales, Corfo financiará hasta $30.000.000.- (treinta millones de pesos).
-
-c) Etapa de Implementación: Corfo cofinanciará cada Etapa de 3 años, con un total de hasta $580.000.
-
-- **000.-** (quinientos ochenta millones de pesos), para los Proyectos Estratégicos Regionales; hasta $770.000.
-
-- **000.-** (setecientos setenta millones de pesos), para los Proyectos Estratégicos Mesoregionales; y hasta $1.050.000.
-
-- **000.-** (mil cincuenta millones de pesos), para los Proyectos Estratégicos Nacionales.
+Para la ejecución de las Etapas, Corfo aportará un financiamiento y/o cofinanciamiento hasta por los montos máximos que se señalan a continuación, sin considerar en el cálculo de esos topes, los recursos aportados para estos efectos por personas de derecho público, incluidos los órganos de la Administración del Estado, que Corfo administre en cuentas extrapresupuestarias, complementarias o cuentas representativas de movimientos financieros no presupuestarios, según lo dispuesto en la normativa o autorizaciones que corresponda.
 
 El cofinanciamiento de Corfo para la Primera Etapa de Implementación, será de hasta un 95% (noventa y cinco por ciento); para la Segunda Etapa de Implementación, será de hasta un 80% (ochenta por ciento); y para la Tercera Etapa de Implementación será de hasta un 70% (setenta por ciento).
 
