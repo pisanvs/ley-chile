@@ -442,6 +442,14 @@ naves y traslado de
 
 desperdicios.
 
+24. Complejo Permanente Paso de personas,
+
+Portuario y todo tipo de
+
+Mejillones operaciones
+
+aduaneras.
+
 E. SUJETOS A LA JURISDICCION DE LA ADUANA DE CHAÑARAL:
 
 Punto Habilitado Habilitación Operaciones aduaneras
