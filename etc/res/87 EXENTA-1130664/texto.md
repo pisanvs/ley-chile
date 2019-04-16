@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LA ACTIVIDAD DE "TÉCNICO MECÁNICO", DESARROLLADA PARA EL EMPLEADOR "PESQUERA GUANAYE S.A."
+
+Por resolución exenta Nº 87, de 19 de marzo de 2019, el Director Nacional del Instituto de Previsión Social, aprobó la solicitud presentada por don Walter Iván Vega Tavilo, para calificar como Trabajo Pesado la labor de "Técnico Mecánico", desempeñada para el empleador "Pesquera Guanaye S.A.", durante el periodo comprendido entre el 01.06.1982 al 30.06.1984, e incorpórese al Listado Oficial de Actividades e Industrias Diversas calificadas como Trabajo Pesado, correspondiendo aplicar una rebaja de edad de 1x5 (un año por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez, con rebaja en la edad.
+
+Santiago, 9 de abril de 2019.- Patricio Coronado Rojo, Director Nacional.
