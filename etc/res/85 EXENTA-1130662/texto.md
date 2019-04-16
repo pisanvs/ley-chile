@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL Nº 91500018301, DEL BANCO DEL ESTADO DE CHILE, SUCURSAL PUERTO NATALES, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL DEL INSTITUTO DE PREVISIÓN SOCIAL DE PUERTO NATALES, EN LOS FUNCIONARIOS QUE SE INDICA
+
+Por resolución exenta Nº 85, de 19 de marzo de 2019, el Director Nacional del Instituto de Previsión Social delega la facultad de girar cheques, retirar talonarios, cartolas, cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, para efectos de operar la cuenta corriente denominada "Giradora Local Nº 91500018301", abierta en la Oficina Principal del Banco del Estado de Chile, y que opera en la Sucursal Puerto Natales, destinada al pago de beneficios previsionales y gastos del Centro de Atención Previsional Integral IPS Puerto Natales.
+
+Santiago, 9 de abril de 2019.- Patricio Coronado Rojo, Director Nacional.
