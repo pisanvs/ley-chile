@@ -1,0 +1,5 @@
+SE APRUEBA EL CONTRATO DE ARRENDAMIENTO SUSCRITO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA CONSTRUCTORA CUEVAS Y PURCELL S.A., SOBRE EL INMUEBLE QUE INDICA
+
+Por resolución exenta I Nº 7, de 8 de marzo de 2019, el Jefe del Departamento de Administración e Inmobiliaria del Instituto de Previsión Social, aprueba el contrato de arrendamiento suscrito con fecha 28.01.2019, con la Constructora Cuevas y Purcell S.A., recaído sobre los Lotes eriazos Nº 9 y 10, de la Manzana 1, indicados en el Plano de Subdivisión Nº 26342 de fecha 15 de noviembre de 1982, que rolan inscritos a fojas 56584 Nº 85607, del Registro de Propiedad del año 2014 del Conservador de Bienes Raíces de Santiago, y que se encuentran ubicados en Avenida General San Martín sin número, en la comuna de Colina, Región Metropolitana, de propiedad de este Instituto.
+
+Santiago, 9 de abril de 2019.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
