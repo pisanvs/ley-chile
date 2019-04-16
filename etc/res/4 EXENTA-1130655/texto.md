@@ -1,0 +1,5 @@
+APRUEBA CONTRATO DE COMODATO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL INSTITUTO DE SEGURIDAD LABORAL, RESPECTO DEL INMUEBLE DE PROPIEDAD DEL INSTITUTO DE PREVISIÓN SOCIAL, UBICADO EN CALLE SANTO DOMINGO Nº 481 B DE LA COMUNA DE PUENTE ALTO, CIUDAD DE SANTIAGO, REGIÓN METROPOLITANA
+
+Por resolución exenta I Nº 4, de 11 de febrero de 2019, el Jefe del Departamento de Administración e Inmobiliaria del Instituto de Previsión Social, aprobó el documento "Contrato de Comodato", suscrito con fecha 30 de enero de 2019, entre el Instituto de Previsión Social y el Instituto de Seguridad Laboral, por medio del cual este Instituto entrega en Comodato a aquella entidad, el inmueble institucional de su propiedad ubicado en calle Santo Domingo Nº 481 B, de la comuna de Puente Alto, ciudad de Santiago, Región Metropolitana.
+
+Santiago, 9 de abril de 2019.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
