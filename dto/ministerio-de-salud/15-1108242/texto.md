@@ -116,7 +116,7 @@ ii) Los profesionales funcionarios señalados en el artículo 2° que entre el 1
 
 (d) Cuarto a Octavo proceso de postulación se asignarán 400, 450, 500, 500 y 500 cupos respectivamente, junto con los adicionales que puedan existir disponibles conforme al inciso segundo del artículo 5°. Durante los años 2019 al 2023 se desarrollará el cuarto al octavo proceso de postulación respectivamente. A dichos procesos se deberá postular entre el primer día hábil del mes de agosto y el último día hábil del mes de septiembre del año calendario, partiendo en agosto del año 2019, pudiendo participar de cada proceso:
 
-i) Los profesionales funcionarios señalados en el artículo 2° que cumplan entre 60 y 69 años de edad si son mujeres, y entre 65 y 69 años de edad si son hombres, entre el 1 de enero y el 31 de diciembre del año siguiente a la postulación.
+i) Los profesionales funcionarios señalados en el artículo 2° que cumplan entre 60 y 69 años de edad si son mujeres, y entre 65 y 69 años de edad si son hombres, entre el 1 de enero y el 31 de diciembre del año de la postulación.
 
 ii) Los profesionales funcionarios señalados en el artículo 2° que hayan obtenido la pensión de invalidez que establece el decreto ley N° 3.500, de 1980, entre el 1 de julio de 2014 y el 31 de agosto del año de postulación y que dentro de los 3 años siguientes a la obtención de la pensión de invalidez, hayan cumplido o cumplan 60 años de edad en el caso de las mujeres y 65 años de edad en el caso de los hombres.
 
