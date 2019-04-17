@@ -342,7 +342,7 @@ c) Ser soltero;
 
 d) Haber cumplido con la Ley de Reclutamiento;
 
-e) Estatura mínima 1,70 metros, sin calzado;
+e) Estatura mínima sin calzado, 1,55 metros las Aspirantes a Oficiales Femeninas, y 1,65 metros, los Aspirantes a Oficiales del Escalafón Masculino;
 
 f) No encontrarse declarado reo, ni haber sido condenado por resolución ejecutoriada en crimen o simple delito, ni delitos políticos, o suspendido por Sumario Administrativo;
 
