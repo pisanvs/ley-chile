@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 3, DE 2019, DICTADA EN CONJUNTO POR EL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES Y EL MINISTERIO DE HACIENDA
+
+Por resolución Nº 3, de 17 de enero de 2019, dictada en conjunto por el Ministerio de Transportes y Telecomunicaciones y el Ministerio de Hacienda, tomada de razón con alcance por la Contraloría General de la República, se aprobó la modificación al Contrato de Prestación de los Servicios Complementarios de Administración Financiera de los Recursos del Sistema de Transporte Público de Pasajeros de Santiago, suscrito entre el Ministerio de Transportes y Telecomunicaciones, y el Administrador Financiero de Transantiago S.A. Texto íntegro de la resolución, y su alcance se encuentra en la página web www.dtpm.cl.-
+
+Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
