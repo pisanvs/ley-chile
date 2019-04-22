@@ -30,25 +30,13 @@ Considerando:
 
 Decreto:
 
-1.- Califícase como establecimientos urbanos de desempeño difícil, para el período comprendido entre los años 2017 a 2019, ambos incluidos, a los establecimientos urbanos de atención primaria de salud municipal que se señalan a continuación. Sus dotaciones suman 454.960 horas semanales, lo que constituye el 24,98% del total de horas semanales de la dotación urbana nacional, ascendente a 1.821.289 horas semanales. Ellos darán derecho a la asignación correspondiente, en los porcentajes que a continuación se indica:
+1. Califícase como establecimientos urbanos de desempeño difícil, para el período comprendido entre los años 2017 a 2019, ambos incluidos, a los establecimientos urbanos de atención primaria de salud municipal que se señalan a continuación. Sus dotaciones suman 454.960 horas semanales, lo que constituye el 24,98% del total de horas semanales de la dotación urbana nacional, ascendente a 1.821.289 horas semanales. Ellos darán derecho a la asignación correspondiente, en los porcentajes que a continuación se indican:
 
-A.- Primer Tramo, 15% de Asignación de Desempeño Difícil: 1,47% del total nacional
+A.- Primer Tramo, 15% de Asignación de Desempeño Difícil: 2,23% del total nacional de horas semanales de dotación urbana correspondiente a 40.666 horas semanales.
 
-de horas semanales de dotación urbana correspondiente a 26.780 horas semanales.
+B.- Segundo Tramo, 10% de Asignación de Desempeño Difícil: 2,52% del total nacional de horas semanales de dotación urbana correspondiente a 45.966 horas semanales.
 
-.
-
-B.- Segundo Tramo, 10% de Asignación de Desempeño Difícil: 1,92% del total
-
-nacional de horas semanales de dotación urbana correspondiente a 34.985 horas semanales.
-
-.
-
-C.- Tercer Tramo, 5% de Asignación de Desempeño Difícil: 21,59% del total nacional
-
-de horas semanales de dotación urbana correspondiente a 393.195 horas semanales.
-
-.
+C.- Tercer Tramo, 5% de Asignación de Desempeño Difícil: 20,22% del total nacional de horas semanales de dotación urbana correspondiente a 368.328 horas semanales.
 
 2.- Concédese una asignación de Desempeño Difícil de 15% al personal que labora en los Servicios de Atención Primaria de Urgencia Urbanos, que se señalan, en las comunas que se indica, correspondiente a 74.870 horas semanales nacionales que representan el 2,82% del total nacional de la dotación de horas semanales del país.
 
