@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 19, de fecha 14 de enero de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se revocó el programa de enseñanza de la Escuela de Conductores No Profesional o Clase "B" "Instituto Autoescuela Concepción Limitada", RUT Nº 77.651.730-5, representada legalmente por doña Javiera Contreras Vivallos, para impartir cursos conducentes a la obtención de Licencias de Conductor Clase "B", en la sede ubicada en calle O'Higgins Nº 1232, comuna de Concepción, Región del Biobío, cuya aprobación fue otorgada a través de la resolución exenta Nº 212, de fecha 6 de noviembre de 2003, de esta Secretaría Regional Ministerial.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío.
