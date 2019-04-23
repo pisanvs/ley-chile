@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE ANTOFAGASTA, A "GUSTAVO IVÁN PALLAUTA SERVICIOS ELECTROMECÁNICOS Y GRÚAS E.I.R.L."
+
+Mediante decreto exento N° E-158, de 2 de abril de 2019, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita a "Gustavo Iván Pallauta Servicios Electromecánicos y Grúas E.I.R.L.", RUT N° 76.353.777-3, el inmueble fiscal signado como Sitio 11-B de la Manzana C-1, ubicado en Barrio Industrial, sector Puerto Seco, comuna Calama, provincia de El Loa, Región de Antofagasta; enrolado en el Servicio de Impuestos Internos con el N° 5303-14; amparado por inscripción global a nombre del Fisco a fs. 49 vta. Nº 57, del Registro de Propiedad del Conservador de Bienes Raíces de El Loa - Calama, correspondiente al año 1928; singularizado en el Plano Nº 02201-6.913-C.U.; de una superficie de 1.960,19 m². La Concesión se otorga por un plazo de 20 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 102.
+
+La Concesión se otorga para destinar el inmueble a un proyecto productivo denominado "Servicios de Mecánica y Electricidad a Equipos y Maquinaria, Servicios de Grúas para Traslado de Camiones y Vehículos". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial del extracto del decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Martín Aro Greene, Jefe de División Jurídica (S).
