@@ -98,13 +98,15 @@ d. Otras especies no contempladas inicialmente y que como resultado del Análisi
 
 6. Durante el período de cuarentena el Servicio realizará la verificación fitosanitaria de las plagas reglamentadas, a través de inspecciones, muestreos y pruebas en forma permanente, desarrollando técnicas de diagnóstico adecuadas y manteniendo las condiciones de aislamiento y resguardo (Cuarentena Absoluta y de Filtro) o verificando el cumplimiento de éstas (Cuarentena Predial, de Centros e in vitro), según corresponda, durante todo este período.
 
-7. El ingreso de los materiales vegetales que deban cumplir con Cuarentena Posentrada será autorizado previamente y en cada oportunidad a través de la resolución que autoriza Cuarentena Posentrada. Para tal efecto el importador deberá presentar la solicitud respectiva en las Oficinas del Servicio, según corresponda, registrando la información necesaria puntualizada más adelante, en los formatos definidos por el Servicio.
+7. El ingreso de los materiales vegetales que deban cumplir con Cuarentena de Posentrada será autorizado previamente y en cada oportunidad a través de la Resolución que Autoriza Cuarentena Posentrada. Para tal efecto, el importador deberá presentar la solicitud en la Oficina del Servicio correspondiente, indicando en forma clara, precisa y verídica, toda la información requerida en los formatos vigentes.
 
 8. El material vegetal ingresado bajo Cuarentena Posentrada deberá cumplir su período de cuarentena en una Estación Cuarentenaria, emplazada en un lugar definido y aprobado, ambos por el Servicio, y establecido en la resolución que autoriza Cuarentena Posentrada.
 
-9. La resolución que autoriza Cuarentena Posentrada especificará: Nivel de cuarentena; nombre del Importador, Contraparte Técnica y Operadores de cuarentena o Personal de Laboratorio; punto de ingreso; país de origen; uso propuesto; proveedor; especie, variedad y/o clon; tipo y detalle de la cantidad de material; ubicación, identificación y tipo de Estación Cuarentenaria; condiciones adicionales de aislamiento y resguardo (utilización de cortavientos, sistema de drenaje, entre otros), de manejo y/o de normativa nacional vigente (mesones elevados, contenedores de primer uso, tratamiento de sustratos, conducción bajo el sistema oficial de Certificación de Plantas Frutales, entre otros); vigencia del documento (de 90 días corridos para Cuarentena Absoluta y 120 días corridos para el resto de los niveles de cuarentena), y otras que el Servicio considere. Además, hará referencia a los requisitos fitosanitarios, declaraciones adicionales y tratamientos fitosanitarios definidos para la especie, vía y origen, en la resolución que establece requisitos fitosanitarios y declaraciones adicionales.
+9. La resolución que autoriza la Cuarentena de Posentrada especificará la siguiente información: nombre del importador, nombre de la empresa que presta el servicio de cuarentena, si corresponde, nivel de cuarentena, tipo de Estación Cuarentenaria, punto de ingreso, país de origen, uso propuesto, proveedor, especie, nombre de la variedad y/o clon, tipo y cantidad del material vegetal, identificación y ubicación del lugar de cuarentena, y otras condiciones adicionales de excepción que el Servicio considere relevantes de establecer.
 
-10. Cada resolución que autoriza Cuarentena Posentrada amparará a un único origen, proveedor y envío. En cada Estación Cuarentenaria (equivalente a cubículo en la ECA) sólo podrá establecerse la totalidad de material proveniente de una única resolución que autoriza Cuarentena Posentrada y de un único envío. Para el caso de materiales establecidos en Cuarentena in vitro en laboratorio, se podrá autorizar el ingreso de más de un envío a esta dependencia, siempre que se mantengan separados e identificados de otros envíos.
+10. Cada resolución que Autoriza Cuarentena Posentrada amparará a un único origen, proveedor y envío. Se permitirá mantener dentro de una misma estación cuarentenaria, material vegetal amparado por diferentes autorizaciones, incluso si éstas provienen de distintos proveedores del mismo país de origen, o de diferentes países, siempre que los requisitos fitosanitarios sean los mismos y la diferencia en las fechas de ingreso entre los envíos no supere los 60 días corridos referidos al establecimiento del primer material ingresado a la cuarentena y la cantidad total de plantas no supere la capacidad de la Estación Cuarentenaria. Los materiales amparados por diferentes autorizaciones deberán permanecer identificados y separados unos de otros durante todo el periodo que dure la cuarentena.
+
+Las posibles medidas fitosanitarias que se determine tomar ante la presencia de plagas cuarentenarias o de incumplimientos detectados durante el periodo de cuarentena, podrán ser aplicadas, previo análisis de cada caso particular, sobre todo el material que se encuentre dentro de la Estación Cuarentenaria, independientemente de que se trate de material vegetal amparado por diferentes autorizaciones.
 
 11. Es responsabilidad del importador contar con la resolución que autoriza Cuarentena Posentrada previo a que la autoridad fitosanitaria competente del país de origen emita el certificado fitosanitario respectivo.
 
@@ -128,7 +130,7 @@ Para el caso de los materiales establecidos en la ECA del Servicio sólo se requ
 
 Todos los envíos deberán estar identificados con una señalética en, a lo menos, las 2 caras de mayor dimensión de cada una de las unidades de empaque que conforman el envío, las que deben cubrir a lo menos el 20% de la superficie. Esta deberá indicar en letras destacadas en color rojo: Cuarentena Material Vegetal, SAG.
 
-18. La internación del material vegetal que deba cumplir Cuarentena Posentrada, sólo se realizará por el punto de ingreso autorizado, presentando la resolución que autoriza Cuarentena Posentrada. En este lugar el Servicio procederá a:
+18. La internación del material vegetal que deba cumplir Cuarentena de Posentrada, solo podrá realizarse en el Aeropuerto Internacional Arturo Merino Benítez, presentando la resolución que Autoriza Cuarentena Posentrada. En este lugar el Servicio procederá a:
 
 a. Verificación documental e inspección física de la totalidad del envío, evaluando el Servicio el nivel de inspección que aplicará dependiendo de la factibilidad técnica y económica, instancia en la cual se podrán tomar muestras a objeto de ser remitidas para su determinación a laboratorios del Servicio. En esta inspección se incluirá el material de embalaje.
 
@@ -137,6 +139,8 @@ b. Si durante la inspección del envío por parte del Servicio, en el Punto de I
 c. Si se detecta una plaga ausente del país y no listada dentro de las Plagas Cuarentenarias para Chile se procederá a tomar una medida de emergencia, la cual podrá considerar almacenamiento temporal en la ECA del Servicio u otra medida fitosanitaria que el Servicio estime conveniente, de acuerdo a la naturaleza de la plaga. Paralelamente se definirá el estatus de la plaga a través del resultado del Análisis de Riesgo de Plagas, adoptándose las medidas fitosanitarias definitivas y consecuentes con el tipo de plaga individualizada.
 
 d. Si en el punto de ingreso se comprueba que la variedad ingresada no corresponde a la establecida en la resolución que autoriza Cuarentena Posentrada, se inmovilizará el envío y se podrá emitir una resolución modificatoria, previa presentación de una nueva solicitud por parte del Importador, siempre que no se exceda la capacidad de la Estación Cuarentenaria autorizada.
+
+Se podrá autorizar el ingreso del material vegetal por un punto de ingreso distinto al Aeropuerto Internacional Arturo Merino Benítez, previo análisis por parte del Servicio para cada caso, tomando en consideración las condiciones de infraestructura y resguardo para la inspección de material de alto riesgo fitosanitario, y siempre y cuando se justifiquen plenamente los motivos para ello.
 
 19. El material rechazado será retenido por la oficina SAG del punto de ingreso y documentado por un Acta de Rechazo, en la cual se establecerá un plazo no mayor a 48 horas para que la Contraparte Técnica decida si reembarca o destruye el envío. Vencido este plazo el Servicio procederá a la destrucción del envío con cargo al Importador.
 
@@ -197,5 +201,9 @@ b. Nº 2.863, de 2001, que establece normas sobre Cuarentena de Posentrada para 
 c. Nº 1.492, de 2013, que establece los requisitos para ingreso de material vegetal a Cuarentena Posentrada y deroga resoluciones Nos 3.280, de 1999, 2.863, de 2001 y 531, de 1992, y
 
 d. Nº 531, de 1992, que aprueba convenio sobre internación y manejo de germoplasma con fines de experimentación SAG - INIA.
+
+33. Los documentos aduaneros relacionados con la importación de material vegetal de propagación que deba cumplir con cuarentena de posentrada, deberán señalar en forma clara y explícita la denominación de la variedad (nombre de la variedad.
+
+34. Si la variedad se encuentra protegida en el país, el importador deberá presentar ante el SAG la documentación correspondiente que acredite la autorización del obtentor o de su representante, previo al término de las restricciones cuarentenarias.
 
 Anótese, comuníquese y publíquese.- Aníbal Ariztía Reyes, Director Nacional.
