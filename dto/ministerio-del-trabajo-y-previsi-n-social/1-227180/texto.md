@@ -80,6 +80,10 @@ g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones vo
 
 h) Con los demás bienes o recursos que el Servicio de Bienestar obtenga a cualquier título.
 
+i) Con aportes extraordinarios de sus afiliados en servicio activo y jubilados, monto que fijará anualmente el Consejo Administrativo en conformidad a las normas legales y reglamentarias que regulan la materia.
+
+j) Con el aporte mensual de sus afiliados jornada parcial en servicio activo, de hasta el 2% de sus remuneraciones imponibles para pensiones de su grado equivalente en jornada completa, porcentaje que fijará anualmente el Consejo Administrativo.
+
 #### Artículo 7º
 
 Los fondos del Servicio de Bienestar serán depositados en cuentas corrientes bancarias y contra ellas podrán girar conjuntamente el Jefe del Servicio de Bienestar y el funcionario designado como cajero del mismo.
@@ -154,9 +158,13 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente o
 
 d) Educación: Se concederá una asignación de escolaridad siempre que las disponibilidades presupuestarias lo permitan, por un monto único al afiliado o a una carga familiar suya que se encuentre cursando estudios regulares en los niveles pre-básico, básico, medio, técnico o de educación superior, en algún establecimiento del Estado o reconocido por éste;
 
-e) Ayuda médica: Se podrá otorgar una ayuda, por una sola vez al año, al afiliado o carga familiar, que contraiga una enfermedad grave que requiera de tratamiento de alto costo, calificado como tal por el Consejo Administrativo, y
+e) Ayuda médica: Se podrá otorgar una ayuda, por una sola vez al año, al afiliado o carga familiar, que contraiga una enfermedad grave que requiera de tratamiento de alto costo, calificado como tal por el Consejo Administrativo.
 
 f) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio de Bienestar por concepto de préstamos que éste le hubiere otorgado.
+
+g) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el acuerdo de unión civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio.
+
+h) Asignación de Catástrofe: Se otorgará, siempre que exista disponibilidad presupuestaria a los afiliados que lo soliciten, a causa de daño sufrido en su patrimonio con ocasión de incendios, movimientos sísmicos, inundaciones u otro tipo de siniestro, calificada por el Consejo Administrativo previo informe del Jefe de Bienestar.
 
 El monto de las ayudas contempladas en las letras a), b), c), d) y e), será determinado por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29, del Reglamento General.
 
@@ -172,7 +180,7 @@ El Bienestar podrá financiar con cargo a sus propios recursos, de acuerdo con s
 
 #### Artículo 11º
 
-El Servicio de Bienestar previo acuerdo del Consejo Administrativo, podrá concurrir al financiamiento de la celebración de Navidad de sus afiliados, siempre que sus recursos lo permitan.
+El Servicio de Bienestar previo acuerdo del Consejo Administrativo, podrá concurrir al financiamiento de la celebración de Navidad de sus afiliados y/o del aniversario del Servicio de Bienestar; siempre que sus recursos lo permitan.
 
 Párrafo Tercero
 
@@ -184,7 +192,7 @@ El Servicio de Bienestar podrá conceder los préstamos no reajustables que a co
 
 a) Préstamos Médicos: Se otorgarán como complemento de las ayudas económicas a que se refiere el artículo 8º de este reglamento;
 
-b) Préstamos de Auxilio: Se otorgarán por problemas económicos y otras causas justificadas, calificadas por la Asistente Social del Personal;
+b) Préstamos de Auxilio: Se otorgarán por problemas económicos y otras causas justificadas, calificadas por el Jefe del Servicio de Bienestar;
 
 c) Préstamos Escolares: Se otorgarán una vez al año y estarán orientados a solventar gastos de matrícula, útiles y vestuario escolar de los hijos estudiantes que sean cargas familiares o bien para los propios afiliados;
 
