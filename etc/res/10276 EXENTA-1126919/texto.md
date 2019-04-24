@@ -148,7 +148,7 @@ El porcentaje de restitución se calculará con 2 decimales.
 
 15. Las condiciones del llamado dispuesto por la presente resolución podrán aplicarse a proyectos beneficiados en virtud del llamado dispuesto por la resolución exenta N° 9.865 (V. y U.), de 2017, por ser más favorables para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos, y siempre y cuando no hayan firmado aún el Convenio al que se refiere los numerales 7.1 y 7.2 de la presente resolución.
 
-16. Se establece que el monto de los recursos que se destinarán para el subsidio directo en el presente llamado, conforme a las disposiciones del DS N° 1, será de 45.000 UF.
+16. Se establece que el monto de los recursos que se destinarán para el subsidio directo en el presente llamado, conforme a las disposiciones del DS N° 1, será de 33.379 UF.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
