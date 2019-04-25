@@ -1,0 +1,5 @@
+DELEGA FACULTAD QUE INDICA EN EL FUNCIONARIO QUE SE INDIVIDUALIZA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos N° 47, de 18 de abril de 2019, que delega la facultad de absolver posiciones en representación del Servicio de Impuestos Internos, y de este Director, a don Luis Vera Ruiz, RUT N° 9.330.438-1, directivo, grado 8, planta, Jefe del Departamento de Administración, de la IX Dirección Regional de Temuco, a efecto de que concurra al juicio substanciado ante el Juez de Letras del Trabajo, del Primer Juzgado de Letras de Angol, Causa RIT M-3-2019, caratulada "Antoine/Aseo Industrial Andrea Sepúlveda Bartsch E.I.R.L.".
+
+El texto íntegro de este instructivo está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de abril de 2019.
