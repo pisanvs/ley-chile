@@ -384,6 +384,14 @@ Para obtener el pago, los sostenedores de los establecimientos educacionales sub
 
 Mediante decreto anual del Ministerio de Educación, expedido en el mes de enero, se establecerá el número máximo de alumnos beneficiados, distribución regional, plazo de postulación y los antecedentes que deban acompañar para justificar la solicitud, todo lo anterior de acuerdo con las normas técnicas y administrativas vigentes para la educación especial diferencial.
 
+#### Artículo 9 ter
+
+<!-- parte:10017960 -->
+
+Los locales anexos de establecimientos educacionales que funcionen como aulas hospitalarias; aquellas dependientes de recintos hospitalarios; las escuelas cárceles y los establecimientos que funcionen en un recinto del Servicio Nacional de Menores percibirán una subvención educacional mensual de acuerdo a las reglas establecidas en el artículo 13. Con todo, esta subvención mensual no podrá ser inferior a 61,10443 U.S.E., más el incremento al que se refiere el artículo 11 en caso de corresponder.
+
+El Ministerio de Educación, mediante resolución que deberá ser visada por la Dirección de Presupuestos, determinará anualmente la nómina de estos establecimientos.
+
 #### Artículo 10
 
 <!-- parte:8602445 -->

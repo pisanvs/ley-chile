@@ -180,6 +180,8 @@ El Centro deberá realizar, de manera directa o mediante la colaboración de uni
 
 Asimismo, el Centro ejecutará acciones de formación continua para los docentes, conforme a las necesidades de estos formuladas por las comunidades educativas a través de sus directores o sostenedores, y ofrecerá orientaciones y apoyo al trabajo de aprendizaje profesional colaborativo que se desarrolle en los establecimientos educacionales.
 
+Con todo, en la oferta de cursos y programas impartidos, se podrán considerar todos los niveles de educación regular considerados en el decreto supremo N°2, de 2010, del Ministerio de Educación, y en el caso de la educación de nivel parvulario esta formación podrá otorgarse además al personal técnico que desarrolla funciones de aula.
+
 #### Artículo 12 quáter
 
 <!-- parte:9693609 -->
@@ -1717,6 +1719,8 @@ Un reglamento, que deberá dictarse en el plazo de 120 días contados desde la f
 Asimismo el reglamento establecerá los procedimientos para interponer los recursos contemplados en la ley, que les permitan a los profesionales de la educación ejercer su derecho a recurrir respecto de los resultados de su evaluación.
 
 Podrán eximirse del proceso de evaluación docente establecido en los incisos anteriores, los profesionales de la educación a quienes les falten tres años o menos para cumplir la edad legal para jubilar, siempre que presenten la renuncia anticipada e irrevocable a su cargo, la que se hará efectiva al cumplirse la edad legal de jubilación por el sólo ministerio de la ley. En todo caso, estos profesionales tendrán derecho a la indemnización establecida en el artículo 73 y quedarán sujetos a lo prescrito en el artículo 74.
+
+Aquellos profesionales de la educación que se encuentren reconocidos en los tramos experto I o II, en el Sistema de Desarrollo Profesional Docente, estarán exceptuados de la evaluación de desempeño docente a que se refiere este artículo.
 
 #### Artículo 70 bis
 
