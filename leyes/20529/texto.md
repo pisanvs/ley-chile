@@ -254,7 +254,7 @@ La ordenación se realizará anualmente y considerará el grado de cumplimiento 
 
 La Agencia, según lo dispuesto en el artículo anterior, determinará el modo en que técnicamente se ponderarán los estándares de aprendizaje y los otros indicadores de calidad educativa para efectos de efectuar la ordenación. Con todo, la ponderación de los estándares de aprendizaje no podrá ser inferior al 67% del total.
 
-Sin embargo, en el caso de establecimientos educacionales con un número insuficiente de alumnos que rindan las mediciones, y que no permita obtener resultados válidos, el Ministerio de Educación establecerá la metodología que permita una ordenación pertinente, considerando, entre otros factores, un número mayor de mediciones consecutivas que para el resto de los establecimientos educacionales, tanto para los estándares de aprendizaje como para los otros indicadores de la calidad educativa. Dicha metodología será aprobada por decreto supremo del Ministerio de Educación.
+Sin embargo, en el caso de establecimientos educacionales con un número insuficiente de alumnos que rindan las mediciones, y que no permita obtener resultados válidos, el Ministerio de Educación establecerá una metodología especial de evaluación que permita una ordenación pertinente, considerando, entre otros factores, un número mayor de mediciones consecutivas que para el resto de los establecimientos educacionales, tanto para los estándares de aprendizaje como para los otros indicadores de la calidad educativa los cuales deberán ser pertinentes y válidos para estos establecimientos, teniendo por objeto su apoyo y mejora. Dicha metodología será aprobada por decreto supremo del Ministerio de Educación.
 
 Los establecimientos educacionales que impartan educación básica y media serán ordenados por cada nivel en forma independiente. La Agencia y los sostenedores de dichos establecimientos educacionales deberán informar acerca de la categoría en que fueron ordenados en cada nivel educacional a los miembros de la comunidad educativa.
 
@@ -958,9 +958,17 @@ Del administrador provisional
 
 #### Artículo 87
 
-La Superintendencia, mediante resolución fundada, podrá nombrar un administrador provisional para que asuma las funciones que competen al sostenedor de un establecimiento educacional subvencionado o que reciba aportes del Estado, con el objeto de asegurar el adecuado funcionamiento de dicho establecimiento y la continuidad del servicio educativo.
+La Superintendencia, mediante resolución fundada, podrá nombrar un administrador provisional para que asuma las funciones que competen al sostenedor de un establecimiento educacional subvencionado o que reciba aportes del Estado, cuando exista riesgo de afectar la continuidad del servicio educativo y con su nombramiento se pueda asegurar el adecuado funcionamiento del establecimiento y la continuidad de dicho servicio.
 
-El administrador provisional durará en su cargo sólo hasta el término del año escolar en curso, salvo lo establecido en el inciso segundo del artículo 94.
+El administrador provisional durará en su cargo hasta el término del año laboral docente en curso. Si se mantienen las condiciones que dieron origen a su nombramiento, este plazo podrá prorrogarse hasta por un periodo adicional, sin perjuicio de lo establecido en el inciso segundo del artículo 94.
+
+#### Artículo 87 bis
+
+Sin perjuicio de lo señalado en el artículo anterior, en casos graves y calificados, el administrador provisional podrá asumir las funciones que competen al sostenedor, de conformidad con lo establecido en el artículo 92, respecto de los establecimientos educacionales bajo su dependencia.
+
+Se entenderá que concurre esta circunstancia cuando el sostenedor no pueda mantener en funcionamiento los establecimientos educacionales bajo su dependencia ni garantizar, a la vez, el desarrollo normal del año escolar en dichos establecimientos. Asimismo, se entenderá que concurre esta circunstancia cuando, existiendo atraso en el pago de las remuneraciones o de las cotizaciones previsionales o de salud del personal del establecimiento, en los términos señalados en la letra d) del artículo 89, el sostenedor no pueda garantizar el pago de alguna de estas prestaciones en el mes subsiguiente a aquél en que se verifique la infracción.
+
+Sin perjuicio de lo anterior, conjuntamente con el nombramiento del administrador provisional, se deberán poner a disposición del Ministerio Público, de la Contraloría General de la República y del Consejo de Defensa del Estado, todos los antecedentes de que se disponga respecto de la situación del sostenedor, con la finalidad de que dichos órganos persigan las responsabilidades civiles, penales y administrativas que correspondan.
 
 #### Artículo 88
 
@@ -975,6 +983,8 @@ c) Los administradores de bienes del sostenedor.
 Sin perjuicio de lo anterior, regirán respecto de estas personas las inhabilidades de los artículos 54 y siguientes del decreto con fuerza de ley Nº 1-19.653, del Ministerio Secretaría General de la Presidencia, de 2001, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
 
 En el caso de las personas jurídicas, las incompatibilidades mencionadas en este artículo serán aplicables a sus representantes legales y administradores.
+
+Si se nombra a un administrador provisional para dos o más establecimientos educacionales de un mismo sostenedor, deberá preferirse a una persona jurídica disponible del registro que acredite mantener a su disposición un equipo de profesionales calificados que colabore en su gestión.
 
 #### Artículo 89
 
@@ -1000,25 +1010,51 @@ El nombramiento del administrador provisional será una atribución privativa e 
 
 #### Artículo 90
 
-Al asumir sus funciones el administrador provisional levantará un acta que dé cuenta del estado administrativo y financiero del establecimiento educacional, que será entregada a la Superintendencia.
+El administrador provisional quedará sometido desde que aceptare el cargo a un régimen especial de fiscalización y rendición de cuentas que deberá ser fijado por el Superintendente mediante resolución fundada. De la misma forma, la Superintendencia podrá fijar criterios diferenciadores para el uso de las subvenciones y aportes señalados en la ley N° 20.248.
 
-Además, dentro de los veinte días siguientes a su nombramiento, deberá presentar un plan de trabajo, que deberá ser aprobado por el Superintendente.
+Mientras dure su administración, los procedimientos sancionatorios originados por hechos ocurridos con anterioridad a su nombramiento se dirigirán en contra del sostenedor. Lo mismo ocurrirá en aquellos procedimientos en que la ejecución de la sanción se encuentre pendiente de ser aplicada por el Ministerio de Educación. En el evento de que se trate de sanciones de tipo pecuniario, deberán ser pagadas a la Tesorería General de la República, dentro del plazo de diez días, contados desde que dicha sanción se encuentre firme. Transcurrido este plazo sin que el sostenedor las haya pagado, el Ministerio de Educación oficiará a dicho organismo para que inicie el procedimiento de cobro respectivo.
 
-El administrador provisional deberá presentar informes trimestrales de avance de su gestión y dar cuenta documentada de ella al Superintendente al término de sus funciones.
+El administrador provisional deberá proporcionar todos los antecedentes que el sostenedor requiera para una adecuada defensa en los casos a que se refiere el inciso anterior.
 
-Una vez que dichos informes hayan sido aprobados por la Superintendencia, ellos serán incorporados a un registro de carácter público, de conformidad a lo dispuesto en el reglamento a que hace referencia el artículo 97.
+Dentro de los quince días siguientes a la aceptación del cargo, el administrador provisional levantará un acta que dé cuenta del estado administrativo y financiero del establecimiento educacional que será entregada a la Superintendencia.
+
+Asimismo, en los veinte días siguientes a dicha aceptación, deberá presentar un plan de trabajo, que deberá ser aprobado por el Superintendente.
+
+El administrador provisional deberá presentar informes trimestrales de avance de su gestión tanto a la Dirección Regional de la Superintendencia de Educación como a la Secretaría Regional Ministerial de Educación respectiva, y dar cuenta documentada de ella al Superintendente al término de sus funciones.
+
+Una vez aprobados por la Superintendencia, dichos informes serán incorporados a un registro de carácter público, de conformidad a lo dispuesto en el reglamento a que hace referencia el artículo 97.
 
 El administrador provisional responderá de la culpa leve en su administración.
 
+Una vez nombrado, el administrador provisional deberá realizar una declaración de intereses y patrimonio, en los términos que indica la ley N° 20.880.
+
+En caso de incumplimiento de estas obligaciones, el Superintendente podrá disponer la eliminación del administrador provisional del registro señalado en el artículo 97, sin perjuicio de las demás responsabilidades que le correspondan.
+
 #### Artículo 91
 
-Desde la fecha de designación del administrador provisional el sostenedor del establecimiento será sustituido por éste para todos los efectos legales, quedando inhabilitado para percibir la subvención educacional.
+Desde la fecha de designación del administrador provisional el sostenedor del establecimiento quedará inhabilitado para efectos de su administración, así como para percibir la subvención educacional.
 
-Sin perjuicio de lo anterior, el sostenedor será responsable de todas las obligaciones que se hubieren generado en virtud del funcionamiento del establecimiento educacional con antelación a la designación del administrador provisional.
+El sostenedor será responsable de todas las obligaciones que se hubieren generado en virtud del funcionamiento del establecimiento educacional con antelación a la designación del administrador provisional.
 
-El nombramiento de administrador provisional procederá sin perjuicio de hacer efectiva la garantía establecida en el artículo 56 del decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998.
+Para garantizar una adecuada gestión del administrador provisional, el sostenedor deberá cumplir con las siguientes obligaciones:
 
-Mientras dure la administración provisional de un establecimiento específico, excepcionalmente y por resolución fundada del Ministerio de Educación con la visación del Ministro de Hacienda, se podrán dejar sin efecto las retenciones de pago adoptadas por aplicación de lo previsto en el inciso segundo del artículo 54 del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 2, del mismo Ministerio, de 1996, sobre Subvención del Estado a Establecimientos Educacionales; del artículo 69 de la presente ley, o en razón de otras medidas de carácter administrativo que hayan tenido por objeto la disminución o no pago de la subvención escolar.
+a) Reintegrar, en la cuenta corriente señalada en la letra c) del artículo 92, los montos que el administrador deba pagar por obligaciones generadas con anterioridad a su nombramiento y que se devenguen o ejecuten en su administración, especialmente aquellos que digan relación con el pago de remuneraciones y cotizaciones previsionales. Asimismo, deberá depositar los saldos o excedentes de dichos aportes que no hayan sido ejecutados a la fecha de su nombramiento, según lo determinado por la Superintendencia de Educación.
+
+b) No podrá celebrar actos o contratos sobre el local escolar o el mobiliario de los establecimientos educacionales sujetos a administración provisional que puedan impedir el adecuado funcionamiento del servicio educativo.
+
+c) Poner a disposición del administrador provisional todos los bienes, muebles e inmuebles, donde funcionen el o los establecimientos educacionales sujetos a esta medida.
+
+d) Proporcionar al administrador provisional toda la información necesaria, especialmente laboral y financiera, que esté bajo su responsabilidad, para una adecuada gestión. Lo anterior, deberá ir acompañado de un informe detallado, en los primeros diez días contados desde asumidas las funciones por el administrador provisional.
+
+Mientras dure su administración, los recursos que reciba el administrador provisional y los bienes que administre no podrán ser objeto de medida judicial alguna que derive de las obligaciones señaladas en el inciso segundo de este artículo.
+
+Si el sostenedor se negare a entregar los inmuebles de los establecimientos educacionales sujetos a esta medida, o éste cerrare intempestivamente dichos locales, el administrador provisional podrá solicitar el auxilio de la fuerza pública para tomar posesión de ellos.
+
+El incumplimiento de las obligaciones establecidas en este artículo por parte del sostenedor se entenderá como infracción grave para los efectos del artículo 76 y soportará personalmente sus efectos, incluyendo el pago de multas. En los casos que existan hechos que puedan revestir carácter de delitos, la Superintendencia podrá enviar los antecedentes el Ministerio Público para los fines a que haya lugar.
+
+El nombramiento de administrador provisional procederá sin perjuicio de hacer efectiva la garantía establecida en el artículo 56 del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
+
+Mientras dure la administración provisional, excepcionalmente y por resolución fundada, el Ministerio de Educación o la Superintendencia de Educación, según corresponda, podrán dejar sin efecto las retenciones de pago adoptadas por aplicación del artículo 7 de la ley N° 19.609, del artículo 69 de la presente ley, o en razón de otras medidas de carácter administrativo que hayan tenido por objeto la disminución o no pago de la subvención escolar.
 
 #### Artículo 92
 
@@ -1028,13 +1064,19 @@ Sin perjuicio de lo dispuesto en el inciso anterior, el administrador provisiona
 
 a) Asumir la representación legal del establecimiento. Esta representación legal lo faculta, expresamente, para ejercer la titularidad de las acciones administrativas, civiles y/o penales para perseguir la responsabilidad, en su caso, de los administradores y/o sostenedores.
 
-b) Asegurar la continuidad escolar y procurar la disponibilidad de matrícula para los alumnos del establecimiento, de conformidad a lo establecido en esta ley.
+b) Procurar la disponibilidad de matrícula para los alumnos del establecimiento, en el caso de renovación de su nombramiento de conformidad a lo establecido en el inciso final del artículo 87, informando periódicamente a los miembros de la comunidad escolar la situación general del establecimiento.
 
-c) Percibir y administrar los recursos de que trata el decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998, la ley N° 20.248 , otros aportes regulares que entregue el Estado, así como los que pudiere disponer la ley de Presupuestos del Sector Público para asegurar la continuidad del servicio educacional del establecimiento correspondiente, solamente hasta el término del año escolar respectivo, siempre que concurran las siguientes circunstancias: i) que los aportes regulares que deba recibir no sean suficientes para financiar las remuneraciones del personal docente y asistentes de la educación, el pago de suministros básicos y demás gastos indispensables para su funcionamiento; ii) que los hechos que originaron el nombramiento del administrador provisional se produzcan durante el transcurso del año escolar respectivo, y iii) que dichos recursos se destinen íntegramente al pago relacionado con los gastos señalados en el numeral i) precedente.
+c) Percibir y administrar los recursos de que trata el decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998, la ley N° 20.248 , otros aportes regulares que entregue el Estado, así como los que pudiere disponer la ley de Presupuestos del Sector Público para asegurar la continuidad del servicio educacional del establecimiento correspondiente, siempre que concurran las siguientes circunstancias: i) que los aportes regulares que deba recibir no sean suficientes para financiar las remuneraciones del personal docente y asistentes de la educación, el pago de suministros básicos y demás gastos indispensables para su funcionamiento; ii) que los hechos que originaron el nombramiento del administrador provisional se produzcan durante el transcurso del año escolar respectivo, y iii) que dichos recursos se destinen íntegramente al pago relacionado con los gastos señalados en el numeral i) precedente.
+
+Para estos efectos, el administrador provisional deberá abrir una cuenta corriente fiscal, en la que el Ministerio de Educación depositará estos recursos. También deberá acompañar una boleta de garantía, póliza de seguro u otra caución previamente calificada por la Superintendencia
 
 d) Pagar las obligaciones derivadas del servicio educacional desde el momento que asume sus funciones, con el límite de los recursos que reciba para su gestión, de acuerdo a las prioridades que establezca y procurando el buen desempeño del establecimiento educacional.
 
+Podrá solucionar obligaciones generadas con anterioridad a su nombramiento, cuando digan relación con el pago de remuneraciones y cotizaciones previsionales del personal del establecimiento educacional o servicios básicos y cuente con recursos adicionales provenientes del sostenedor u otros dispuestos para tal efecto.
+
 e) Poner término a la relación laboral del personal del establecimiento educacional.
+
+El administrador provisional será responsable únicamente de la dotación docente y de los asistentes de la educación que trabajen en los establecimientos educacionales que queden bajo su gestión.
 
 f) Constituir prenda sobre los bienes del establecimiento, cuando sea estrictamente necesario para garantizar el buen funcionamiento del establecimiento.
 
@@ -1042,17 +1084,19 @@ g) Devolver la administración de los bienes al sostenedor al término de su ges
 
 h) Coordinar, en caso de pérdida definitiva del reconocimiento oficial del Estado por parte del establecimiento educacional, la reubicación de los y las estudiantes en conjunto con la Secretaría Regional Ministerial de Educación correspondiente, y adoptar todas las medidas necesarias para asegurar su derecho a la educación.
 
+i) Convenir con el Ministerio de Educación u otros órganos de la Administración del Estado, así como con entidades privadas sin fines de lucro, la realización de acciones específicas o de prestación de servicios, que le permitan cumplir sus funciones u obtener recursos adicionales.
+
 Las facultades del administrador provisional serán indelegables.
 
 #### Artículo 93
 
 El nombramiento de un administrador provisional, en el caso de la letra a) del artículo 89, podrá tener por objeto hacer efectiva la revocación del reconocimiento oficial del establecimiento, siempre que existan establecimientos cercanos que impartan el mismo nivel educativo, ordenados en una categoría superior.
 
-Para proceder a revocar el reconocimiento oficial de un establecimiento el administrador provisional deberá dar continuidad al servicio educativo por el período que reste hasta el término del año escolar, procurando asegurar la matrícula disponible a los alumnos para el año escolar siguiente en otros establecimientos educacionales.
+Para proceder a revocar el reconocimiento oficial de un establecimiento el administrador provisional deberá dar continuidad al servicio educativo por el período que reste hasta el término del año laboral docente, procurando asegurar la matrícula disponible a los alumnos para el año escolar siguiente en otros establecimientos educacionales.
 
 #### Artículo 94
 
-El administrador provisional tendrá facultades para reestructurar un establecimiento educacional que se encuentre en las condiciones que establece el artículo 89, letra a), siempre que se trate de establecimientos educacionales administrados por municipalidades, sea directamente o por sus corporaciones municipales, o administrados por otras entidades creadas por ley, y no existan establecimientos cercanos que impartan el mismo nivel educativo, ordenados en mejor categoría y que cuenten con vacantes.
+El administrador provisional tendrá facultades para reestructurar un establecimiento educacional que se encuentre en las condiciones que establece el artículo 89, letra a), siempre que se trate de establecimientos educacionales subvencionados o que reciban aportes del Estado, o administrados por otras entidades creadas por ley, y no existan establecimientos cercanos que impartan el mismo nivel educativo, ordenados en mejor categoría y que cuenten con vacantes.
 
 En el caso de la reestructuración a que se refiere el inciso anterior, el administrador provisional se hará cargo de las obligaciones legales hasta la entrega del establecimiento educacional a la municipalidad o corporación respectiva, o a la entidad creada por ley que corresponda, la que deberá materializarse dentro del plazo de tres años, contado desde la fecha de su nombramiento.
 
@@ -1076,7 +1120,11 @@ Dicho registro deberá estar siempre abierto para el ingreso.
 
 #### Artículo 98
 
-Los honorarios del administrador provisional serán pagados con cargo a la subvención que le corresponda recibir al establecimiento, conforme a la ley. En la parte no cubierta por estos recursos, serán de cargo de la Superintendencia.
+Los honorarios del administrador provisional serán pagados con cargo al presupuesto de la Superintendencia de Educación.
+
+#### Artículo 98 bis
+
+La Superintendencia de Educación, mediante instrucciones de carácter general, regulará lo dispuesto en este párrafo.
 
 ### Párrafo 7º
 
@@ -1746,7 +1794,7 @@ cuarto.- Facúltase al Presidente de la República para que, mediante uno o más
 
 #### Artículo decimo
 
-quinto.- Los establecimientos que imparten educación parvularia, que reciben aportes del Estado y que no cuentan con el reconocimiento oficial de éste, tendrán un plazo de ocho años a contar de la entrada en vigencia de esta ley para obtener tal reconocimiento. Transcurrido ese plazo, los establecimientos educacionales de educación parvularia que no cuenten con dicho reconocimiento no podrán recibir recursos del Estado para la prestación del servicio educativo.".
+quinto.- Los establecimientos que imparten educación parvularia, que reciben aportes del Estado y que no cuentan con el reconocimiento oficial de éste, tendrán plazo hasta el 31 de diciembre del año 2022 para obtener tal reconocimiento. Transcurrido ese plazo, los establecimientos educacionales de educación parvularia que no cuenten con dicho reconocimiento no podrán recibir recursos del Estado para la prestación del servicio educativo.".
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

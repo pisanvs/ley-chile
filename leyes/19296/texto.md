@@ -20,7 +20,7 @@ Esta ley no se aplicará, sin embargo, a las Fuerzas Armadas, a las Fuerzas de O
 
 #### Artículo 2°
 
-Estas asociaciones tendrán carácter nacional, regional, provincial o comunal, según fuere la estructura jurídica del servicio, repartición, institución o ministerio en que se constituyeren, términos que en esta ley serán usados indistintamente.
+Estas asociaciones tendrán carácter nacional, regional, provincial, comunal o local, según fuere la estructura jurídica del servicio, repartición, institución o ministerio en que se constituyeren, términos que en esta ley serán usados indistintamente.
 
 No obstante, las asociaciones de funcionarios de las reparticiones que tengan estructura jurídica nacional, podrán tener como base la organización de sus funcionarios de la respectiva institución en la región, las que se deberán constituir conforme a las disposiciones contenídas en el Capítulo II de esta ley.
 

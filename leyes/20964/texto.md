@@ -182,6 +182,10 @@ Si el funcionario fallece entre la fecha de su postulación para acceder a los b
 
 El reglamento que trata este artículo deberá dictarse dentro de los noventa días siguientes a la fecha de publicación de la presente ley.
 
+#### Artículo 15
+
+No obstante lo establecido en el inciso primero del artículo 6, el trabajador podrá solicitar que se ponga término a la relación laboral por causas justificadas tales como enfermedad grave u otras, desde el momento en que se le notifique la resolución que lo determine como beneficiario. Caso en el cual, el empleador deberá informar de dicha situación al Ministerio de Educación, el que por su parte deberá determinar la fecha en que se pagarán los beneficios correspondientes a la bonificación por retiro voluntario. Durante el período entre que se pone término a la relación laboral y el pago efectivo de la bonificación, el trabajador no percibirá remuneración alguna.
+
 DISPOSICIONES TRANSITORIAS
 
 #### Artículo primero

@@ -64,6 +64,8 @@ Serán clasificados en la categoría profesional aquellos asistentes de la educa
 
 Para ser clasificado en la categoría profesional se requerirá estar en posesión de un título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por éste.
 
+Los profesionales que trabajan con emisión de diagnósticos a los alumnos de los establecimientos educacionales deberán tener un mínimo de 3.200 horas de formación presencial.
+
 #### Artículo 7
 
 Serán clasificados en la categoría técnica aquellos asistentes de la educación que desempeñen funciones, dentro o fuera del aula, tareas de apoyo al proceso educativo o desarrollo de labores de administración y otras para cuyo ejercicio se requiera contar con un título técnico.
@@ -410,7 +412,7 @@ Los asistentes de la educación tendrán derecho a que se respeten las funciones
 
 Asimismo, el director del establecimiento educacional podrá, excepcionalmente, encomendar labores determinadas, distintas de las estipuladas en el contrato, a uno o más asistentes de la educación para permitir la normal prestación del servicio educacional o para facilitar el desarrollo de actividades extracurriculares, siempre y cuando estas labores correspondan a la misma categoría de asistentes de la educación en la que se encuentra contratado, correspondan exclusivamente a funciones propias del servicio educacional y se deban ejecutar dentro de la jornada ordinaria de trabajo.
 
-Excepcionalmente, ante la ausencia transitoria de un docente, los asistentes de la educación profesionales podrán ser destinados a cubrir una determinada clase, con el propósito de mantener el correcto funcionamiento de los establecimientos educacionales.
+Excepcionalmente, ante la ausencia transitoria de un docente, los asistentes de la educación profesionales preferentemente psicopedagogos podrán ser destinados a cubrir una determinada clase, con el propósito de mantener el correcto funcionamiento de los establecimientos educacionales.
 
 Con todo, en ningún caso a los asistentes de la educación se les podrá encomendar labores que pongan en riesgo su integridad física. La infracción a esta norma será considerada grave para los efectos establecidos en el artículo 73 de la ley N° 20.529, sin perjuicio de la responsabilidad civil o penal que pudiera configurarse.
 
@@ -430,9 +432,9 @@ El empleador deberá proporcionar a los asistentes de la educación una infraest
 
 Los asistentes de la educación gozarán de feriado por el período de interrupción de las actividades escolares entre los meses de enero y febrero o el que medie entre el término del año escolar y el comienzo del siguiente, así como durante la interrupción de las actividades académicas en la época invernal de cada año. Durante dichas interrupciones, podrán ser convocados a cumplir actividades de capacitación, hasta por un período de tres semanas consecutivas.
 
-Sin perjuicio del inciso anterior, aquellos asistentes de la educación que desarrollen labores esenciales para asegurar la correcta prestación del servicio educacional al inicio del año escolar, las que incluirán, a lo menos, aquellas de reparación, mantención, aseo y seguridad del establecimiento educacional, así como aquellas que determine mediante acto fundado el Director Ejecutivo, sólo tendrán derecho por cada año calendario, a un feriado de quince días hábiles para los asistentes con menos de quince años de servicio, de veinte días hábiles para los asistentes con quince o más años de servicio y menos de veinte, y de veinticinco días hábiles para los asistentes con veinte o más años de servicio. Los asistentes de la educación a que se refiere este inciso, que residan en las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Aysén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena, y en las provincias de Chiloé y Palena de la Región de Los Lagos, y en las comunas de Isla de Pascua y Juan Fernández, tendrán derecho a gozar de su feriado aumentado en cinco días hábiles.
+Sin perjuicio del inciso anterior, aquellos asistentes de la educación que desarrollen labores esenciales para asegurar la correcta prestación del servicio educacional al inicio del año escolar, las que incluirán, a lo menos, aquellas de reparación, mantención, aseo y seguridad del establecimiento educacional, así como aquellas que determine mediante acto fundado el Director Ejecutivo, podrán ser llamados a cumplir con dichas tareas, en cuyo caso se les compensará en cualquier otra época del año los días trabajados.
 
-Para efectos del inciso inmediatamente precedente, no se considerarán como días hábiles los días sábado y se computarán los años trabajados como dependiente, en cualquier calidad jurídica, sea en el sector público o privado.
+Con todo, se podrá fijar como fecha de término del feriado estival, cinco días hábiles previos al inicio del año escolar.
 
 Para el caso del personal de los jardines infantiles financiados por la Junta Nacional de Jardines Infantiles vía transferencia de fondos, la capacitación se realizará preferentemente durante el mes de enero.
 
@@ -592,6 +594,14 @@ A fin de reconocer la esencial labor de los asistentes de la educación en el pr
 
 El mayor gasto fiscal que irrogue la aplicación de esta ley durante su primer año presupuestario de vigencia se financiará con cargo al presupuesto del Ministerio de Educación y, en lo que faltare, con cargo a la Partida Presupuestaria Tesoro Público. En los años siguientes los recursos se consultarán en la Ley de Presupuestos respectiva.
 
+#### Artículo 56
+
+Las disposiciones del Párrafo 1° del Título III de la presente ley se aplicarán a los asistentes de la educación que prestan servicios en educación parvularia, básica y media, en establecimientos particulares subvencionados regidos conforme al decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998.
+
+Lo dispuesto en el inciso anterior se aplicará también a los asistentes de la educación que prestan servicios en educación parvularia, básica y media, en establecimientos educacionales regidos por el decreto ley N° 3.166, del Ministerio de Educación Pública, de 1980.
+
+La facultad establecida en el inciso segundo del artículo 41, para estos casos, será ejercida por el director de cada establecimiento educacional.
+
 DISPOSICIONES TRANSITORIAS
 
 #### Artículo primero
@@ -610,8 +620,6 @@ Lo dispuesto en el artículo 12 no será aplicable a los procesos de reclutamien
 
 Sin perjuicio de lo señalado en el artículo 3 de la presente ley, los asistentes de la educación que sean traspasados a un servicio local no perderán sus derechos adquiridos y tendrán derecho a conservar las cláusulas del instrumento colectivo al que se encuentren afectos, según lo dispuesto en el artículo 325 del Código del Trabajo.
 
-En el caso de los establecimientos educacionales regidos por el decreto ley Nº 3.166, de 1980, las disposiciones de la presente ley comenzarán a aplicarse al personal asistente de la educación que en ellos se desempeña, a partir de la fecha en que los establecimientos educacionales que correspondan a su territorio sean traspasados al Servicio Local de Educación Pública, con excepción de las normas señaladas en el inciso anterior, que se les aplicarán cuando correspondan, en la oportunidad que el mismo inciso señala.
-
 Con el objeto de cumplir con lo dispuesto en el inciso primero, las corporaciones municipales deberán remitir al Ministerio de Educación los instrumentos colectivos que se encontraren vigentes con una anticipación de, al menos, seis meses antes de la entrada en funcionamiento del servicio local al cual deban traspasar el servicio educacional.
 
 #### Artículo cuarto
@@ -622,9 +630,11 @@ No obstante lo señalado en el inciso anterior, a los asistentes de la educació
 
 a) Desde la publicación de la presente ley, el artículo 42 y los numerales 2) y 3) del artículo 52.
 
-b) A partir del 1 de enero del año 2019, el Párrafo 2° del Título I y los artículos 13, 14, 39 y 41, inciso primero.
+b) A partir del 1 de enero del año 2019, el Párrafo 2° del Título I y los artículos 13, 14, 39 y 41. Respecto a lo establecido en el inciso segundo del artículo 41, el llamado a cumplir labores esenciales requerirá el acuerdo del trabajador.
 
 c) A contar de la fecha señalada en el artículo séptimo transitorio de la presente ley, el artículo 50.
+
+En el caso de los establecimientos educacionales regidos por el decreto ley Nº 3.166, del Ministerio de Educación Pública, de 1980, las disposiciones de la presente ley comenzarán a aplicarse al personal asistente de la educación que en ellos se desempeña, a partir de la fecha en que los establecimientos educacionales que correspondan a su territorio sean traspasados al Servicio Local de Educación Pública, con excepción de las normas señaladas en el inciso anterior, que se les aplicarán cuando correspondan.
 
 #### Artículo quinto
 

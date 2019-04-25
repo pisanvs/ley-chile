@@ -30,7 +30,7 @@ El monto del aguinaldo será de $54.
 
 #### Artículo 3
 
-El aguinaldo que otorga el artículo anterior corresponderá, asimismo, en los términos que establece dicha disposición, a los trabajadores de las universidades que reciben aporte fiscal directo de acuerdo con el artículo 2 del decreto con fuerza de ley Nº 4, de 1981, del Ministerio de Educación, y a los trabajadores de sectores de la Administración del Estado que hayan sido traspasados a las municipalidades, siempre que tengan alguna de dichas calidades a la fecha de publicación de esta ley.
+El aguinaldo que otorga el artículo anterior corresponderá, asimismo, en los términos que establece dicha disposición, a los trabajadores de las universidades que reciben aporte fiscal directo de acuerdo con el artículo 2 del decreto con fuerza de ley Nº 4, de 1981, del Ministerio de Educación, y a los trabajadores de sectores de la Administración del Estado que hayan sido traspasados a las municipalidades, siempre que tengan alguna de dichas calidades a la fecha de publicación de esta ley; y a los trabajadores de los Servicios Locales de Educación Pública, incluidos los profesionales de la educación y los asistentes de la educación que se desempeñen en establecimientos educacionales de dependencia de dichos Servicios.
 
 #### Artículo 4
 
