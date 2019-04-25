@@ -1,0 +1,5 @@
+DELEGA FACULTAD DE AUTORIZAR PAGO DIFERIDO DE IMPUESTOS DE LA LEY DE LA RENTA EN FUNCIONARIOS QUE INDICA
+
+Con fecha 18.04.2019, se dictó la resolución exenta Nº 490 por el Director Regional de la Dirección Regional Metropolitana Santiago Centro del Servicio de Impuestos Internos, en virtud de lo dispuesto en el artículo 6, letra B Nº 7 del Código Tributario; en el artículo 20 de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el artículo 1 del DFL Nº 7, del Ministerio de Hacienda, de 1980; en el artículo 41 de la ley Nº 18.575, de 1986, Ley Orgánica de Bases Generales de la Administración del Estado, y resolución exenta SII Nº 48, de fecha 28 de abril de 2006, del Director, que delega en funcionarios que indica nominativamente la facultad de autorizar a los contribuyentes que lo soliciten, el pago diferido de impuestos de la Ley de la Renta. Texto íntegro de este documento está publicado en www.sii.cl.-
+
+Claudio Rodríguez González, Director Regional.
