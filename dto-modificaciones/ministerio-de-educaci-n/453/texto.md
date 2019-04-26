@@ -24,7 +24,7 @@ Decreto:
 
 #### Artículo único
 
-Modifícase el artículo transitorio del decreto N° 352, de 2008, del Ministerio de Educación, que reglamenta el ejercicio de la función docente, en el siguiente sentido:
+Modifícase el artículo transitorio del decreto N° 352, de 2003, del Ministerio de Educación, que reglamenta el ejercicio de la función docente, en el siguiente sentido:
 
 Reemplázase la frase "31 de diciembre de 2018", por la siguiente: "28 de febrero de 2021".
 
