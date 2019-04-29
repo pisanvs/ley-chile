@@ -118,59 +118,67 @@ Si durante el período de aplicación del plan operacional de gestión de episod
 
 Las referidas vías exclusivas funcionarán sólo mientras persista la declaración ambiental correspondiente, de lunes a viernes, excepto festivos.
 
-Sin perjuicio de lo anterior, el Secretario Regional, en la misma resolución que disponga la restricción vehicular que corresponda, según último dígito de placa patente, durante los aludidos episodios de preemergencia y emergencia ambiental, podrá disponer que sólo parte de las vías y tramos indicados en el cuadro anterior, funcionen como vías exclusivas, como asimismo, podrá asignarles horarios de funcionamiento distintos a los establecidos.
+Sin perjuicio de lo anterior, el Secretario Regional, en la misma resolución que disponga la restricción vehicular que corresponda, según último dígito de placa patente, durante el aludido episodio de emergencia ambiental, podrá disponer que sólo parte de las vías y tramos indicados en el cuadro anterior, funcionen como vías exclusivas, como asimismo, podrá asignarles horarios de funcionamiento distintos a los establecidos.
 
-2.- Los vehículos que podrán circular por estas
+2.- Los vehículos que podrán circular por estas vías exclusivas serán los siguientes:
 
-vías exclusivas serán los siguientes:
+a) Buses de servicios de transporte público
 
-a) Buses de servicios de transporte público urbano
+urbano de pasajeros;
 
-de pasajeros;
+b) Taxis en cualquiera de sus modalidades,
 
-b) Taxis en cualquiera de sus modalidades, incluida
+incluida la submodalidad de taxi ejecutivo;
 
-la submodalidad de taxi ejecutivo;
+c) Buses de servicios rurales de
 
-c) Buses de servicios rurales de transporte público
+transporte público de pasajeros, cuyo
 
-de pasajeros, cuyo ruteo incluya algún tramo de
+ruteo incluya algún tramo de las vías
 
-las vías exclusivas señaladas, de acuerdo a lo
+exclusivas señaladas, de acuerdo a lo
 
-dispuesto en la resolución exenta Nº 81/2001, de
+dispuesto en la resolución exenta
 
-esta Secretaría Regional Ministerial;
+Nº 81/2001, de esta Secretaría
 
-d) Buses de servicios interurbanos de transporte
+Regional Ministerial;
 
-público de pasajeros, cuyo ruteo incluya algún
+d) Buses de servicios interurbanos
 
-tramo de las vías exclusivas señaladas, de
+de transporte público de pasajeros,
 
-acuerdo a lo dispuesto en la resolución exenta
+cuyo ruteo incluya algún
+
+tramo de las vías exclusivas
+
+señaladas, de acuerdo a lo dispuesto
+
+en la resolución exenta
 
 Nº 82/2001, de esta Secretaría Regional
 
 Ministerial;
 
-e) Vehículos de emergencia, del Programa de
+e) Vehículos de emergencia, del
 
-Fiscalización de la Subsecretaría de Transportes
+Programa de Fiscalización de la
 
-y de los municipios, destinados a cumplir
+Subsecretaría de Transportes
 
-funciones de seguridad ciudadana, debidamente
+y de los municipios, destinados
+
+a cumplir funciones de seguridad
+
+ciudadana, debidamente
 
 identificados como tales;
 
-f) Vehículos de transporte remunerado de escolares;
+f) Vehículos de transporte
 
-g) Vehículos importados de conformidad con el
+remunerado de escolares;
 
-#### Artículo 48
-
-de la ley Nº 20.422.
+g) Vehículos importados de conformidad con el artículo 48 de la ley Nº 20.422.
 
 h) Vehículos que circulen por Av. Santa Rosa
 
@@ -186,21 +194,75 @@ de Transporte Público Av. Santa Rosa Sector
 
 Alameda - A.Vespucio" y por el concesionario
 
-de dicha obra para labores de mantención de las
+de dicha obra para labores de
 
-vías señaladas; siempre que éstos se encuentren
+mantención de las vías señaladas;
+
+siempre que éstos se encuentren
 
 debidamente identificados como tales.
 
 i) Vehículos que con ocasión de programas,
 
-estudios o actividades que se realicen en todo
+estudios o actividades que se realicen
 
-o parte de dichas vías o que se relacionen
+en todo o parte de dichas vías o que
 
-directamente con el uso de aquellas, deban
+se relacionen directamente con el
 
-necesariamente circular por las mismas.
+uso de aquellas, deban
+
+necesariamente circular por las
+
+mismas.
+
+j) Vehículos asignados a las autoridades
+
+señaladas en el inciso tercero del
+
+#### Artículo 3º
+
+del DL Nº 799, de 1974,
+
+para ser usados en actividades propias
+
+del cargo y, aquellos vehículos que
+
+escolten a los primeros por motivos
+
+de seguridad, cuando corresponda.
+
+Para acreditar la condición de los
+
+señalados vehículos las instituciones
+
+a las cuales pertenezcan dichas
+
+autoridades deberán remitir a esta
+
+Secretaría Regional una nómina con
+
+el detalle de dichos vehículos,
+
+la que deberá renovarse cada vez
+
+que exista una modificación
+
+de la misma.
+
+k) vehículos destinados o
+
+autorizados exclusivamente por
+
+las municipalidades para realizar
+
+labores de aseo de bienes
+
+nacionales de uso público
+
+y/o extracción y transporte
+
+de residuos sólidos domiciliarios.
 
 Tratándose de las letras g) e i)
 
