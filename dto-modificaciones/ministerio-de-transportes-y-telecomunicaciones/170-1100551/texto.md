@@ -20,9 +20,9 @@ Modifíquese el decreto supremo Nº 23, de 2000, del Ministerio de Transportes y
 
 1º Agréguese en el inciso primero del artículo 1º a continuación del punto aparte (.) que pasa a ser punto seguido (.) lo siguiente: "Asimismo, la licencia de conducir y ficha resumen llevarán la información correspondiente a la entidad que confeccione la licencia para conducir.".
 
-2º.- Agréguese el siguiente inciso segundo al artículo 1º: "El folio, que corresponderá a una codificación alfa numérica, será entregado por el respectivo municipio que se encuentre autorizado para otorgar licencias de conducir a la entidad encargada de su confección. La forma en que se asignará esta codificación será establecida por el Ministerio de Transportes y Telecomunicaciones mediante resolución.".
+2º.- Agréguese el siguiente inciso segundo al artículo 1°: El folio corresponderá a una codificación alfa numérica correlativa impresa en el formulario para la gestión de licencia y plástico respectivo, generada por la entidad.
 
-3º.- Agréguese el siguiente inciso tercero al artículo 1º: "El folio antes descrito deberá venir impreso en el formulario para gestión de licencia de conductor.".
+3º.- Agréguese el siguiente inciso tercero al artículo 1º: "El folio antes descrito deberá venir impreso en el formulario para gestión de licencia de conductor y en el plástico que se utilice para la plastificación.".
 
 4º.- Reemplácese, en el inciso primero del artículo 2º, la expresión "la Casa de Moneda de Chile" por la frase "las respectivas entidades".
 
@@ -30,17 +30,13 @@ Modifíquese el decreto supremo Nº 23, de 2000, del Ministerio de Transportes y
 
 "El aludido anexo contendrá las especificaciones mínimas con las que deberá confeccionarse la licencia de conducir.".
 
-6º.- Agréguense los siguientes incisos segundo y tercero al artículo 4º:
-
-"La fecha de primer otorgamiento deberá coincidir con aquella en la que se obtuvo la primera licencia Clase B, cuando corresponda.".
-
-"Cuando se trate de duplicados, la observación correspondiente se imprimirá en forma destacada, con la misma tipografía utilizando negrita y mayúsculas.".
+6º.- Eliminado.
 
 7º.- Elimínese el inciso segundo del artículo 5º.
 
-8º.- Reemplácese, en la letra b) del inciso tercero del artículo 5º la oración "con la forma del Escudo Nacional o similar que funcione como medida de seguridad" por "con la forma que determine el Ministerio de Transportes y Telecomunicaciones".
+8º.- Eliminado.
 
-9º.- Reemplácese, el último inciso del artículo 5º, por el siguiente: "Las respectivas entidades deberán incorporar a lo menos dos tipos distintos de medidas de seguridad, adicionales a aquellas señaladas en el formulario para gestión de licencia, las cuales deberán contar con elementos de seguridad visibles sólo con lupa, luz especial u otro mecanismo similar; y ser previamente aprobadas por el Ministerio de Transportes y Telecomunicaciones.".
+9º.- Reemplácese, el último inciso del artículo 5º, por el siguiente: "Las respectivas entidades deberán incorporar a lo menos dos tipos distintos de medidas de seguridad, adicionales a aquellas señaladas en el formulario para gestión de licencia, las cuales deberán contar con elementos de seguridad visibles sólo con lupa, luz especial u otro mecanismo similar.".
 
 10º.- Elimínese el artículo 6º, pasando los actuales artículos 7º, 8º y 9º a ser 6º, 7º y 8º respectivamente.
 
@@ -48,13 +44,7 @@ Modifíquese el decreto supremo Nº 23, de 2000, del Ministerio de Transportes y
 
 #### Artículo segundo
 
-Modifíquese el decreto supremo Nº 97, de 1984, del Ministerio de Transportes y Telecomunicaciones en el sentido de incorporar el siguiente artículo 2º bis:
-
-#### Artículo 2º bis
-
-Del mismo modo, para obtener la autorización a que se refiere el artículo 1º, así como para mantener dicha autorización, los llamados o los tratos directos que efectúen las I. Municipalidades deberán sujetarse al formato de bases de licitación o de términos de referencia, según corresponda, para la confección de licencias de conductor que establezca, mediante resolución el Ministerio de Transportes y Telecomunicaciones.
-
-Una vez que, acorde a los formatos antes indicados, se haya determinado la entidad que confeccionará el documento, el Ministerio de Transportes y Telecomunicaciones entregará a aquella, en forma previa a la suscripción del respectivo contrato, el entramado de seguridad conforme al cual deberá confeccionarse el formulario para la gestión de licencia de conductor."
+Eliminado.
 
 #### Artículo tercero
 

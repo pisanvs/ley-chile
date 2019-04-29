@@ -12,15 +12,9 @@ D e c r e t o:
 
 #### Artículo 1º
 
-El formulario para gestión de licencia de conductor constará de dos partes, separables entre sí, que serán: la licencia propiamente tal que portarán los conductores y la ficha resumen del proceso de otorgamiento de la licencia. La licencia de conducir y la ficha resumen llevarán número de foliación y código de barras común. Asimismo, la licencia de conducir y ficha resumen llevarán la información correspondiente a la entidad que confeccione la licencia para conducir.
+El formulario para gestión de licencia de conductor constará de tres partes, separables entre sí, que serán: la ficha de comunicación al Registro Nacional de Conductores, la licencia propiamente tal que portarán los conductores y la ficha resumen del proceso de otorgamiento de la licencia. Ficha de comunicación, licencia de conducir y ficha resumen llevarán número de foliación y código de barras común. Asimismo, la licencia de conducir y ficha resumen llevarán la información correspondiente a la entidad que confeccione la licencia para conducir.
 
-La licencia de conductor que establece el decreto con fuerza de ley N° 1, de 2007, del Ministerio de Transportes y Telecomunicaciones y del Ministerio de Justicia, que fija texto refundido, coordinado y sistematizado de la Ley de Tránsito, será impresa en papel de seguridad y plastificada en un plástico de seguridad conforme a las disposiciones del presente Reglamento.
-
-En adición, una versión digital de la licencia podrá ser visualizada en un aplicativo que disponga el Ministerio de Transportes y Telecomunicaciones, el cual deberá consultar la información desde el Registro Nacional de Conductores de Vehículos Motorizados, administrado por el Servicio de Registro Civil e Identificación, en la forma dispuesta por el Ministerio de Transportes y Telecomunicaciones, conforme a lo previsto en el inciso final del artículo 24 de la Ley de Tránsito.
-
-La licencia de conducir llevará la información correspondiente a la entidad que confeccione la licencia para conducir.
-
-El folio corresponderá a una codificación alfa numérica correlativa impresa en el formulario para la gestión de licencia y plástico respectivo, generada por la entidad. Este folio se constituirá de máximo 3 caracteres o letras seguido de 10 números correlativos.
+El folio corresponderá a una codificación alfa numérica correlativa impresa en el formulario para la gestión de licencia y plástico respectivo, generada por la entidad.
 
 El folio antes descrito deberá venir impreso en el formulario para gestión de licencia de conductor y en el plástico que se utilice para la plastificación.
 
@@ -28,7 +22,7 @@ El folio antes descrito deberá venir impreso en el formulario para gestión de 
 
 El documento a que se refiere el artículo anterior será confeccionado por las respectivas entidades, en papel de seguridad, con materiales de impresión afectos a reacciones químicas.
 
-El formulario en referencia será de 27.9 cm. de alto por 21.6 cm. de ancho, con prepicados vertical y horizontal que permitan desprender entre sí la licencia y la ficha resumen.
+El formulario en referencia será de 27.9 cm. de alto por 21.6 cm. de ancho, con prepicados vertical y horizontal que permitan desprender entre sí la ficha de comunicación, la licencia y la ficha resumen.
 
 #### Artículo 3º
 
@@ -40,7 +34,7 @@ El aludido anexo contendrá las especificaciones mínimas con las que deberá co
 
 #### Artículo 4º
 
-En la tabla dispuesta en el reverso del documento de licencia de conductor se dispondrán las fechas de primer otorgamiento, actual otorgamiento y próximo control para cada clase de licencia que posea el conductor.
+La fecha de control corresponderá a aquella que se fije para el próximo control de su titular. Cuando se trate de la obtención de una nueva clase o del control de licencia se deberá indicar la fecha del último control.
 
 #### Artículo 5º
 
@@ -52,63 +46,55 @@ El plástico que se utilice en la plastificación del documento licencia de cond
 
 a) Será foliado con el mismo número del documento, lo que lo transforma en parte de él.
 
-b) Llevará embozado una figura equivalente a una impresión ópticamente variable u holograma con la forma que determine el Ministerio de Transportes y Telecomunicaciones.
+b) Llevará una o más figuras equivalentes a una impresión ópticamente variable u holograma con la forma que determine el Ministerio de Transportes y Telecomunicaciones.
 
 c) En caso de desprendimiento, el plástico ocupado deberá cumplir con la cualidad de quedar inutilizado, al igual que el documento.
+
+Las respectivas entidades deberán incorporar a lo menos dos tipos distintos de medidas de seguridad, adicionales a aquellas señaladas en el formulario para gestión de licencia, las cuales deberán contar con elementos de seguridad visibles sólo con lupa, luz especial u otro mecanismo similar.
 
 > **Nota.** El N° 1 del artículo único del decreto 124, Transportes, publicado el 29.04.2019, dispuso la eliminación del N° 8 del Art. primero del Decreto 170, el que modifica la letra b) del inciso tercero del presente artículo.
 
 #### Artículo 6º
 
-Los tipos de restricciones que pueden tener las licencias de conductor de conformidad a la Ley de Tránsito y al Decreto Supremo N° 170, de 1985, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, que establece el "Reglamento para el otorgamiento de Licencias de Conductor", deberán ser indicadas en el documento licencia de conductor de la manera que determine el Ministerio de Transportes y Telecomunicaciones, mediante resolución.
+Los tipos de restricciones que pueden tener las licencias de conductor de conformidad a la Ley de Tránsito y al D.S. Nº 170/85 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, deberán ser indicadas en el documento licencia de conductor de la manera que determine el Ministerio de Transportes y Telecomunicaciones, mediante resolución.
 
-#### Artículo 6° bis
+#### Artículo 7º
 
-El aplicativo al que hace referencia el artículo 1° deberá mostrar la información indicada en el artículo 6° ter del presente decreto, previo ingreso y validación de la persona que tuviere licencia, en la forma que el Ministerio de Transportes y Telecomunicaciones determine.
-
-La información consultada a través del aplicativo solo podrá almacenarse por un máximo 24 horas seguidas. Vencido este plazo, deberá consultarse la información nuevamente. Todo proceso de consulta de información deberá considerar medidas técnicas de encriptación.
-
-El Ministerio de Transportes y Telecomunicaciones determinará las medidas de seguridad informáticas con las que deberá contar el aplicativo. Sin perjuicio de ello, estas medidas deberán tratar, a lo menos, los siguientes puntos: Algoritmos de encriptación y criptografía, capas de seguridad, manejo de usuarios y tokens y prohibición de obtener capturas de pantalla en cualquier dispositivo móvil. Adicionalmente, esta resolución indicará las referencias técnicas de construcción del código de respuesta rápida (QR code).
-
-#### Artículo 6° ter
-
-La información a mostrar por el aplicativo consistirá en, al menos: la imagen de la licencia de conductor física por ambos lados, código de respuesta rápida dinámico e información sobre el documento impreso respecto de su estado y vigencia de acuerdo a la información que provea el Registro Nacional de Conductores de Vehículos Motorizados.
-
-#### Artículo 7
-
-Eliminado.
+El presente decreto comenzará a regir a partir del 1 de junio de 2000, sin perjuicio de lo dispuesto en las disposiciones transitorias.
 
 #### Artículo 8º
 
 Derógase el D.S. Nº 123/84 del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes a partir de la entrada en vigencia del presente decreto.
 
-Disposiciones transitorias (T).- Eliminado.
+Disposiciones transitorias
 
-#### Artículo 1
+#### Artículo 1º
 
-(T).- Eliminado.
+Se faculta a los Directores de Tránsito y Transporte Público de las Municipalidades, autorizadas para otorgar licencias de conductor, para seguir ocupando los formularios actualmente vigentes hasta agotar existencias y en ningún caso más allá del 30 de junio de 2001. Cuando se otorgue una licencia profesional A-1, A-2, A- 3, A-4 o A-5, ocupando los formularios antiguos, se deberá estampar a continuación de la clase correspondiente, en forma mecánica, computacional o con un timbre, en el anverso del documento, la expresión ''Ley Nº19.495''.
 
-#### Artículo 2
+#### Artículo 2º
 
-(T).- Eliminado.
+Las licencias reconocidas en virtud del artículo 2º transitorio de la ley Nº19.495, deberán indicar sólo la clase que corresponda, sin timbre ni expresión de ninguna especie.
 
-#### Artículo 3
+#### Artículo 3º
 
-(T).- Eliminado.
+Lo señalado en los artículos anteriores, se aplicará también, según corresponda, a las licencias de conductor que se otorguen conforme al formulario establecido por el decreto supremo Nº23/2000, del Ministerio de Transportes y Telecomunicaciones.
 
-#### Artículo 4
+#### Artículo 4º
 
-(T).- Eliminado.
+Las personas que sean titulares de licencias de conducir clase A-1 o A-2, obtenidas y/o renovadas durante la vigencia del decreto supremo Nº 23/2000 del Ministerio de Transportes y Telecomunicaciones y la fecha de publicación del presente decreto, podrán requerir de la Municipalidad respectiva, a costa del solicitante, el reemplazo del documento, el que en ningún caso podrá llevar impresa la expresión ''Profesional'', ''Prof.'', ''No profesional'' o ''No prof.''.
 
-#### Artículo 5
+#### Artículo 5°
 
-(T).- Eliminado.
+Cuando se efectúe el control de una licencia profesional Clase A-2, cuyo conductor cumpla con el requisito de encontrarse en posesión de la misma por a lo menos dos años, deberá estamparse en el anverso del documento licencia de conductor, en forma mecánica, computacional o con un timbre, a continuación de la expresión ‘ley N° 19.495', la expresión ‘ley N°21.114'.
 
 Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- José Andrés Wallis Garcés, Ministro de Transportes y Telecomunicaciones Subrogante.
 
 Lo que transcribo para su conocimiento.- Saluda a Ud., Patricia Muñoz Villela, Jefe Depto. Administrativo.
 
-CARACTERÍSTICAS FÍSICAS:
+CARACTERÍSTICAS ESPECÍFICAS DEL DOCUMENTO LICENCIA DE CONDUCTOR
+
+FÍSICAS:
 
 - Dimensiones de la tarjeta: 50 mm. de alto por 80 mm. de ancho.
 
@@ -116,140 +102,98 @@ CARACTERÍSTICAS FÍSICAS:
 
 - Medidas de Seguridad del Documento:
 
-* Papel de seguridad tipo Bond (hilado) con gramaje = 106 y = 120 gr. por metro cuadrado, respectivamente;
+. Papel de seguridad tipo Bond (hilado) con gramaje >=; 106 y ≤ 120 gr. por metro cuadrado, respectivamente;
 
-* Fibras de seguridad visibles sólo bajo luz ultravioleta (es decir, no deberá contener fibras de seguridad visibles bajo luz natural ni otro tipo de elementos que no sean mencionados en este decreto);
+. Fibras de seguridad visibles sólo bajo luz ultravioleta;
 
-* Marcas de agua que identifique a la Entidad encargada de la confección de las licencias (entidad proveedora);
+. Marcas de agua que identifique a la Entidad encargada de la confección de las licencias.
 
-* Fondo de seguridad con diseños de entramado de seguridad visible a simple vista por cualquier persona y con elementos visibles sólo con lupa y luz ultravioleta;
+* Fondo de seguridad con diseños de seguridad visible a simple vista por cualquier persona y con elementos visibles sólo con lupa, luz especial u otro mecanismo similar, a determinar por la Entidad encargada de la confección de las licencias;
 
 * Marco y viñeta guilloche, a determinar por la Entidad encargada de la confección de las licencias;
 
 * Todos los textos y dibujos deberán estar impresos en base a tinta de seguridad;
 
-* Micro impresión con la expresión "República de Chile" acompañado de un pictograma de estrella al inicio de la frase. La micro impresión en su conjunto (estrella más expresión) debe ser repetida siete veces y debe finalizar con un pictograma de estrella. Este pictograma de estrella está centrado a la altura de la letra "R" y es la misma que se usa dentro de la versión pluma de la Bandera nacional de la República de Chile;
-
-* Espacio cuadrado, en el anverso de la licencia, de 1.65 cm de ancho por 1.65 cm de alto sobre el cual la Municipalidad que otorga la licencia imprimirá un código de respuesta rápida (este último campo medirá 1,4 cm de ancho por 1,4 cm de alto);
-
-* Espacio rectangular, de alto 3.8 cm y ancho 2.8 cm, sobre el cual la Municipalidad que otorga la licencia imprimirá la fotografía de la persona conductora, con un rectángulo sobrepuesto de medidas 3.04 cm de ancho y 0.26 cm de alto, sobre el cual la Municipalidad imprimirá el texto "R.U.N." y el Rol Único Nacional correspondiente a la persona conductora;
+* Micro impresión que dirá "República de Chile";
 
 * El plástico que se proveerá para la termolaminación del documento tendrá las siguientes medidas de seguridad:
 
 . Será foliado en el lado derecho, en dirección vertical, en sentido de abajo hacia arriba, con el mismo Folio del documento lo que lo transforma en parte de la especie;
 
-. En la misma cara, llevará embozado una figura equivalente a una impresión ópticamente variable u holograma con la forma que determine el Ministerio de Transportes y Telecomunicaciones, y
+. Llevará una o más figuras equivalentes a una impresión ópticamente variable u holograma con la forma que determine el Ministerio de Transportes y Telecomunicaciones, y
 
 . En caso de desprendimiento, el plástico ocupado deberá cumplir con la cualidad de quedar inutilizado, al igual que el documento.
 
-La Licencia de Conductor en papel deberá ser termolaminada en la Municipalidad que otorgue el documento, dejando el holograma y el número de folio como parte del anverso del documento en su conjunto.
+- Color del documento licencia de conductor, Pantone Solid Uncoated:
 
-- Color del documento licencia de conductor:
+* Fondo: 614 U o 614 U con porcentaje de opacidad a criterio de la Entidad encargada de la confección de las licencias;
 
-* Los colores de la licencia de conductor pertenecen al sistema Pantone Solid Uncoated:
+* Diseños de seguridad:
 
-. Color de fondo: 656 U sin porcentaje de opacidad.
+. 485 U
 
-. Color de ilustraciones (Huemules, Luna y Araucarias) y rectángulo de fondo del campo "Restricciones/Observaciones": 277 U sin porcentaje de opacidad.
+. 3975 U
 
-* Diseños de seguridad, Pantone Solid Uncoated:
+. Black
 
-. Los trazos de color 485 U, vigentes anteriormente, deben pasar a ser de color 745 U;
+- Color textos: Pantone Solid Uncoated, color Black.
 
-. Los trazos de color 3975 U, vigentes anteriormente, deben pasar a ser de color 545 U;
+- Color borde rectángulo inferior del anverso del documento: Pantone Solid Uncoated, color Black. Grosor de línea: 0.5 puntos.
 
-. Black U.
-
-* Color textos, gráficas (líneas, tablas), pictogramas de vehículos de la tabla del reverso de la licencia y de estrella que aparece en Micro impresión: Pantone Solid Uncoated, color Black U:
-
-. Grosor trazo versión pluma de la Bandera nacional de la República de Chile: 0.25 puntos.
-
-. Grosor trazo Rectángulo fotografía: 0.2 puntos.
-
-. Grosor trazos exteriores tabla del reverso: 0.4 puntos.
-
-. Grosor trazos interiores tabla del reverso: 0.19 puntos.
-
-. Grosor trazo línea que indica doblez de la licencia: 0.09 puntos.
-
-- Los siguientes son espacios libres de entramado de seguridad, de otros elementos visibles sólo con lupa y luz ultravioleta y otros, como fibras visibles bajo luz ultravioleta:
-
-* Espacio cuadrado, en el anverso de la licencia, de 1.65 cm de ancho por 1.65 cm de alto, sobre el cual la Municipalidad que otorga la licencia imprimirá un código de respuesta rápida. Color de fondo: Blanco CMYK.
-
-* Espacio, ubicado en la esquina inferior izquierda del anverso del documento, de alto 3.8 cm y ancho 2.8 cm, que posee un rectángulo sobrepuesto de 3.04 cm de ancho y 0.26 cm de alto, y sobre el cual la Municipalidad que otorga la licencia imprimirá la fotografía de la persona conductora y al RUN de ella. Color de fondo: Blanco CMYK.
-
-* Ilustraciones (Huemules, Luna y Araucarias) y rectángulo de fondo del campo "Restricciones/Observaciones".
+- Color relleno de rectángulos superiores del anverso del documento: Pantone Solid Uncoated 614 U o 614 U con porcentaje de opacidad a criterio de la Entidad encargada de la confección de las licencias, mismo color del Fondo del documento.
 
 - Tamaños y fuentes tipográficas utilizadas:
 
-Anverso Licencia:
+* Texto "LICENCIA DE CONDUCTOR": Times, bold, tamaño 9 puntos, espaciado -20, escala vertical 95%.
 
-* Texto "REPÚBLICA DE CHILE": Centhury Gothic, Bold, tamaño 8.72 puntos. Kerning auto. Tracking: 300. Escala vertical: 95%.
+* Texto "REPÚBLICA DE CHILE": Times, bold, tamaño 9 puntos, espaciado 65, escala vertical 79%.
 
-* Texto "LICENCIA DE CONDUCTOR": Centhury Gothic, Regular, tamaño 6.8 puntos. Kerning auto. Tracking: 296. Escala vertical: 75%.
+* Textos "CLASE", "N° DE LICENCIA", "MUNICIPALIDAD", "NOMBRES", "APELLIDOS", "DIRECCIÓN", "FECHA ÚLTIMO CONTROL" y "FECHA DE CONTROL": Times, itálica, tamaño 4 puntos, espaciado -31, escala vertical 127%.
 
-* Textos "RUN", "APELLIDOS", "NOMBRES", "MUNICIPALIDAD", "DIRECCIÓN", "RESTRICCIONES/OBSERVACIONES": Centhury Gothic, Bold, tamaño 4 puntos. En mayúsculas. Kerning auto. Tracking: 0. Escala vertical: 103%.
+* Texto "RESTRICCIONES": Times, regular, tamaño 9 puntos, espaciado 7, escala vertical 92%.
 
-* Texto micro impresión "República de Chile", que va bajo la fotografía de la persona conductora: Centhury Gothic, Regular, tamaño 0.92 puntos. Kerning auto. Tracking: 100. Escala vertical: 100%.
+* Textos "DIRECTOR DE TRÁNSITO" y "PRIMER OTORGAMIENTO": Arial, regular, tamaño 4 puntos, espaciado 38.
 
-Reverso Licencia:
+* Texto "FIRMA DEL CONDUCTOR": Arial, regular, tamaño 4 puntos, espaciado 65.
 
-* Textos de la tabla "CLASE", "PRIMER OTORGAMIENTO", "ACTUAL OTORGAMIENTO" y "PRÓXIMO CONTROL": Franklin Gothic Book, Regular, tamaño 5 puntos. En mayúsculas. Kerning auto. Tracking 0. Escala vertical 100%. Textos centrados en cada celda.
+* Texto con el nombre de la Entidad (Nombre Proveedor): Arial, regular, tamaño 2.5 puntos, espaciado 39, escala vertical 93%. Folio: Courier New, itálica, tamaño 9 puntos, espaciado 97, escala vertical 73%.
 
-* Textos de la tabla "C, B, A4, A5, A2*, A1, A2, A3, A1*, D, E, F": Franklin Gothic Demi, Regular, tamaño 7 puntos. Kerning auto. Tracking 0. Escala vertical 100%. Alineadas a la izquierda.
-
-* Texto al costado derecho exterior de la tabla: "La imagen representa al vehículo de mayor capacidad que habilita la clase": Franklin Gothic Book, Regular, tamaño 3.5 puntos. Kerning auto. Tracking 0. Escala vertical 100%. Disposición vertical escrito desde abajo hacia arriba.
-
-* Folio: Courier New, Regular, tamaño 10 puntos. Kerning auto. Tracking 0. Escala vertical 100%. Alineado al borde superior de la licencia. Disposición vertical escrito desde abajo hacia arriba.
-
-* Texto al costado derecho del reverso de la licencia, que llevara escrito el nombre de la Entidad Proveedora del Formulario para Gestión de Licencia: "Courier New, Regular, tamaño 4.5 puntos. Tipo Versalitas (todas iguales, sin altas). Kerning auto. Tracking 0. Escala vertical 100%. Alineado al borde superior de la licencia. Disposición vertical escrito desde abajo hacia arriba.
-
-* Texto fuera de la tabla y bajo ella, en el extremo inferior derecho del documento: "C.V.": Franklin Gothic Book, Regular, tamaño 4. Kerning auto. Tracking 0. Escala vertical 100%. Alineado a la izquierda.
-
-- Tamaño de fotografía: Las fotografías para la licencia de conductor, serán nítidas, a color, con fondo de color blanc o y deben tener una resolución mínima de 300 dpi con, al menos, 24 bit de profundidad de color. En el caso que el postulante o conductor deba usar lentes para conducir, en la fotografía deberá figurar con dichos elementos. Las especificaciones relativas a fotografías digitales para la licencia de conductor, soporte fotográfico y dispositivo para obtener dicha fotografía digital serán determinadas a través del instructivo que emita al efecto el Ministerio de Transportes y Telecomunicaciones, de acuerdo al artículo 10° del decreto supremo N° 97, de 1984, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, que establece el "Reglamento para obtener Autorización de Otorgar Licencias de Conductor".
+- Tamaño de foto: Las fotografías para la licencia de conductor y ficha resumen, serán del tipo carnet, nítidas, a color, con fondo de color blanco, de 40 mm. de alto por 30 mm. de ancho, con nombres y apellidos de la persona, y número de su cédula de identidad. En el caso que el postulante o conductor debe usar lentes para conducir, en la fotografía deberá figurar con dichos elementos.
 
 - Las medidas de cotas y de holograma se especifican en la hoja 2 del Anexo.
 
-- La información variable (correspondiente a cada conductora o conductor) del Formulario para Gestión de Licencia debe ser impresa usando la opción "Tamaño real" o similar de la impresora que corresponda, con el fin de calzar correctamente los datos con el formulario.
-
 CONTENIDO:
 
-Anverso Licencia:
+Anverso:
 
-- Al extremo superior izquierdo, la versión pluma de la Bandera nacional de la República de Chile.
+- El costado izquierdo superior, espacio destinado a fotografía del conductor;
 
-- Al centro superior, el título REPÚBLICA DE CHILE y el subtítulo LICENCIA DE CONDUCTOR.
+- Borde superior en forma destacada dirá "LICENCIA DE CONDUCTOR", debajo y centrado "REPÚBLICA DE CHILE";
 
-- Al extremo superior derecho, el código de respuesta rápida de medidas 1,4 cm de alto por 1,4 cm de ancho, que será parte de la información variable que corresponda a cada conductor o conductora y que será impreso por la Municipalidad al momento de otorgar la licencia. La entidad proveedora debe dejar esta zona en color Blanco CMYK y libre de entramado de seguridad, de otros elementos visibles sólo con lupa y luz ultravioleta y otros, como fibras visibles bajo luz ultravioleta.
+- Habrá una primera franja con el texto "CLASE" y el espacio para anotación correspondiente;
 
-- Al margen izquierdo, una fotografía a color del conductor o conductora, cruzada de manera horizontal con el Rol Único Nacional correspondiente. La entidad proveedora debe dejar parte de esta zona en color Blanco CMYK y libre de entramado de seguridad, de otros elementos visibles sólo con lupa y luz ultravioleta y otros, como fibras visibles bajo luz ultravioleta. Por el contrario, la porción inferior del rectángulo destinado a la fotografía, bajo el rectángulo sobrepuesto, debe contener entramado de seguridad y otros elementos como fibras visibles bajo ultravioleta.
+- Habrá una segunda franja con el texto "N° DE LICENCIA" y el espacio para anotación correspondiente;
 
-- Al lado derecho de dicha fotografía, y en orden descendente, Rol Único Nacional, los apellidos y nombres de la persona conductora, Municipalidad que ha otorgado la licencia, dirección y restricciones/observaciones correspondientes a la persona conductora.
+- Habrá una tercera franja con el texto "MUNICIPALIDAD" y el espacio para anotación correspondiente;
 
-- En el fondo, en el costado derecho, contendrá pictogramas de una Araucaria, dos Huemules y una Luna.
+- Habrá una cuarta franja con el texto "NOMBRES" y el espacio para anotación correspondiente;
 
-Reverso Licencia:
+- Habrá una quinta franja con el texto "APELLIDOS" y el espacio para anotación correspondiente;
 
-- Una tabla de 13 filas y 4 columnas principales, la primera de ellas, subdividida en dos columnas secundarias.
+- Habrá una sexta franja con el texto "DIRECCIÓN" y el espacio para anotación correspondiente;
 
-- La primera columna principal tendrá por título "Clase". Las siguientes celdas de la primera columna secundaria, contendrá la escritura correspondiente a las clases C, B, A4, A5, A2 de la ley 18.290 en su texto original, A1, A2, A3, A1 de la Ley 18.290 en su texto original, D, E y F.
+- Habrá una séptima franja con el texto "FECHA ÚLTIMO CONTROL" y el espacio para anotación correspondiente;
 
-- La frase "de la ley 18.290 en su tex to original" será expresada mediante un asterisco (*).
+- Habrá una octava franja con el texto "FECHA DE CONTROL" y el espacio para anotación correspondiente;
 
-- La segunda columna secundaria tendrá un pictograma representativo de cada clase mencionada anteriormente.
+Reverso:
 
-- La segunda columna principal tendrá por título "Primer otorgamiento". Sus respectivas celdas serán impresas en la Municipalidad con la información correspondiente a cada clase de licencia que posea la persona conductora.
+- Al centro del borde superior y en forma destacada, habrá una franja con el texto "RESTRICCIONES" y un espacio suficiente para describirlas.
 
-- La tercera columna principal tendrá por título "Actual otorgamiento". Sus respectivas celdas serán impresas en la Municipalidad con la información correspondiente a cada clase de licencia que posea la persona conductora.
+- En el costado superior derecho irá el Código de Barras y el número de folio.
 
-- La cuarta columna principal tendrá por título "Próximo control". Sus respectivas celdas serán impresas en la Municipalidad con la información correspondiente a cada clase de licencia que posea la persona conductora.
+- Habrá una franja en el borde inferior que llevará los textos "DIRECTOR DE TRÁNSITO" y "FIRMA DEL CONDUCTOR".
 
-- Al costado derecho exterior de la tabla, llevará el texto en vertical escrito desde abajo hacia arriba: "La imagen representa el vehículo de mayor capacidad que habilita la clase.".
+- En el borde inferior izquierdo habrá un texto que diga "PRIMER OTORGAMIENTO" y el espacio para la anotación correspondiente.
 
-- Fuera de la tabla y bajo ella, en el extremo inferior izquierdo del documento, éste llevará el texto: "C.V.:" y, a continuación, el código de verificación de la firma electrónica del(la) Director(a) de Tránsito o Jefe(a) de Licencias que hubiere otorgado la licencia de conductor.
-
-- Al costado derecho del reverso de la licencia llevará el folio del documento.
-
-- Al lado derecho del folio y al costado derecho del reverso de la licencia, llevará escrito el nombre de la Entidad Proveedora del Formulario para Gestión de Licencia.
-
-- En el fondo, en el costado derecho, contendrá un pictograma de una Araucaria.
+- Al costado derecho, en dirección vertical y en sentido de arriba hacia abajo, irá el nombre de la entidad proveedora del documento.

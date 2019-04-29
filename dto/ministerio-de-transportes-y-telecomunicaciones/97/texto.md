@@ -14,6 +14,10 @@ Para obtener la autorización a que se refiere el artículo anterior, las I. Mun
 
 El Gabinete Técnico a que se refiere el inciso precedente, deberá mantener en servicio los instrumentos y equipos que establecen los artículos 5° y 7° de este decreto y para ello deberá ubicarse en un local o dependencia compatible con la función a realizar. Por su parte, el Departamento deberá contar con los que se indican en los artículos 8° y 9° de este decreto.
 
+#### Artículo 2º bis
+
+Eliminado.
+
 #### Artículo 3°
 
 Las Municipalidades que se autorice para otorgar licencias de conductor, de acuerdo a las normas de la Ley de Tránsito, lo harán a través de su Departamento de Tránsito y Transporte Público. Deberán someterse para ello a las pautas generales de los artículos que siguen y a los instructivos que emita el Ministerio de Transportes y Telecomunicaciones, de acuerdo al artículo 10° de este decreto.
