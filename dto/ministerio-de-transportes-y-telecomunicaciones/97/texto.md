@@ -18,6 +18,12 @@ Para obtener la autorización a que se refiere el artículo anterior, las I. Mun
 
 El Gabinete Técnico a que se refiere el inciso precedente, deberá mantener en servicio los instrumentos y equipos que establecen los artículos 5° y 7° de este decreto y para ello deberá ubicarse en un local o dependencia compatible con la función a realizar. Por su parte, el Departamento deberá contar con los que se indican en los artículos 8° y 9° de este decreto.
 
+#### Artículo 2º bis
+
+<!-- parte:9775271 -->
+
+Eliminado.
+
 #### Artículo 3°
 
 <!-- parte:7137510 -->
