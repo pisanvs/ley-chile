@@ -178,7 +178,7 @@ h) Durante los días de preemergencia, no se podrán realizar faenas de excavaci
 
 #### Artículo 14
 
-En el caso de establecimientos de almacenamiento que produjeren emanaciones dañinas o desagradables para los vecinos, se fijará un plazo para el retiro, que no podrá ser inferior a un año.
+En el caso de establecimientos de almacenamiento que produjeren emanaciones dañinas o desagradables para los vecinos, se estará a lo dispuesto por el artículo 84 del Código Sanitario.
 
 #### Artículo 15
 
@@ -272,29 +272,7 @@ Cualquier persona que arroje sustancias, basuras, desperdicios u otros objetos s
 
 #### Artículo 26
 
-Tanto los vertidos al alcantarillado como a cauces naturales o artificiales, que no cumplan cualquiera de las limitaciones o prohibiciones de la normativa legal vigente, darán lugar a que el municipio formule la denuncia ante el Juzgado de Policía Local, cuando ello afecte de cualquier manera, el ecosistema, la flora y la fauna, las napas subterráneas, y/o la integridad paisajística de Huasco, sus playas, ríos y humedales.
-
-El Juez de Policía Local deberá ponderar la gravedad de la afectación en relación con el desarrollo comunitario de la comuna y estará facultado para imponer al infractor, multas que ascenderán desde 10 UTM en caso de faltas menos graves; 100 UTM faltas graves; y 1.000 UTM, en caso de faltas gravísimas.
-
-Se considerarán gravísimas, las faltas derivadas de vertimientos no autorizados sectorialmente, y que contengan elementos tóxicos para la flora y la fauna y que se arrojen en suelos afectando o amenazando las napas subterráneas, el mar o los ríos, siempre que su volumen sea superior al que haya sido autorizado, o que no contando con una autorización ejecute vertimientos superiores a media tonelada métrica.
-
-En caso de vertimientos no autorizados y cuyos vertimientos sean de entre un cuarto de tonelada métrica y media tonelada métrica, se considerará falta grave.
-
-Se considerará leve, todo vertimiento no autorizado e inferior a los rangos anteriores.
-
-Sin perjuicio de lo anterior, y aun cuando exista una autorización sectorial para efectuar cualquier clase de vertimientos en cauces naturales y/o artificiales, previo a efectuar los vertimientos autorizados, se deberá cancelar a beneficio municipal, un derecho especial mínimo de 100 UTM, anuales, pagadas semestralmente.
-
-El valor del derecho aumentará en la proporción de dos millonésimos de UTM por cada tonelada métrica que se vierta en cualquier cauce natural o artificial en los límites de la comuna.
-
-En diciembre de cada año, quien ejecute vertimientos autorizados de manera continua, deberá informar a la DOM, la cantidad de vertimientos estimados y los lugares físicos en que ello se ejecutará, a fin de que proceda al cálculo anual y entregue los valores semestrales a pago.
-
-En caso de no entregar la información de toneladas métricas de vertimiento, el DOM podrá efectuar el cálculo en base a lo que se haya informado a otros servicios para la obtención de los permisos sectoriales.
-
-En caso de vertimientos autorizados discontinuos, se deberá cancelar por cada vez el mínimo o lo que corresponda al equivalente de material, conforme a lo dispuesto a los incisos sexto y séptimo de este artículo.
-
-Este derecho especial se aplicará a beneficio municipal y se enterará en arcas municipales para efectos de soportar la gestión de pasivos ambientales, fomento del turismo, la pesca artesanal, y el desarrollo local de la comuna.
-
-Lo anterior a fin de conciliar el interés local, con las autorizaciones sectoriales y las normas consagradas en Tratados de Derechos Internacionales ratificados y vigentes en Chile, y la normativa interna sobre la materia, especialmente lo dispuesto por el Convenio Sobre Prevención de la Contaminación del Mar por Vertimiento de Desechos y Otras Materias, con sus Anexos I, II y III, del Año 1972, que fue ratificado en el año 1977, el artículo 2 del Reglamento para el control de la contaminación acuática, promulgado el año 1992 por el Ministerio de Defensa Nacional, el Convenio para la Protección del Medioambiente y la Zona Costera del Pacífico Sudeste del año 1981.
+Derogado.
 
 #### Artículo 27
 
@@ -380,7 +358,7 @@ Asimismo, se prohíbe depositar o eliminar escombros en los bienes nacionales de
 
 #### Artículo 33
 
-Se prohíbe arrojar y almacenar basuras y desperdicios de cualquier tipo en predios particulares, sin autorización expresa de la municipalidad y de la Secretaría Regional Ministerial de Salud.
+El Municipio podrá denunciar a la Autoridad Sanitaria el almacenamiento de basuras y desperdicios de cualquier tipo en predios particulares, para los efectos de la aplicación del artículo 80 del Código Sanitario.
 
 #### Artículo 34
 
@@ -460,9 +438,7 @@ La colocación en la vía pública de los receptáculos que contienen los residu
 
 #### Artículo 47
 
-La municipalidad o la empresa contratada por ella retirará como máximo un volumen equivalente a un tambor de 60 litros / día-residuo por predio o establecimiento comercial e industrial, siempre que en este último caso no sea sanitariamente objetable.
-
-Ningún particular podrá dedicarse al transporte o aprovechamiento de residuos sólidos domiciliarios sin previa autorización de la municipalidad, respetando la normativa vigente y asegurando el cumplimiento de las condiciones sanitarias.
+La Municipalidad, por sí, o a través de la empresa contratada por ella o en asociación con otros municipios, velará por el cumplimiento del retiro de un máximo de volumen equivalente a un tambor de 60 litros/día-residuo por predio o establecimiento comercial e industrial, siempre que en este último caso no sea sanitariamente objetable conforme a la ley. El municipio fomentará la existencia de convenios con sistemas de gestión y recicladores de base.
 
 #### Artículo 48
 
@@ -606,11 +582,7 @@ El municipio podrá informar a la Superintendencia del Medio Ambiente y la Serem
 
 #### Artículo 72
 
-Los funcionarios municipales podrán realizar inspecciones ingresando a instalaciones, locales, recintos u otros, estando los propietarios, usuarios, poseedores o meros tenedores de las mismas, obligados a permitir su acceso, siempre que la inspección tenga por objeto asegurar el cumplimiento de lo prescrito en la presente Ordenanza.
-
-Las inspecciones se realizarán, en todo caso, respetando el derecho a la honra, la intimidad de las personas y los trabajadores de dichos establecimientos, y el derecho de propiedad, por lo que dichas inspecciones deberán coordinarse previamente con el dueño del establecimiento, y solo en caso de existir antecedentes de incumplimientos flagrantes a la normativa ambiental, podrán desarrollarse de manera inmediata y sin previo aviso.
-
-En caso de negativa en otorgar acceso a los inspectores municipales, se podrá solicitar el auxilio de Fuerza Pública para ingresar a ejecutar la inspección.
+Los funcionarios municipales podrán realizar las instalaciones, locales, recintos u otros, para los efectos de fiscalizar el cumplimiento de la presente Ordenanza. Las inspecciones se realizarán, en todo caso, respetando el derecho a la honra, la intimidad de las personas y los trabajadores de dichos establecimientos, y el derecho de inspecciones en propiedad, por lo que dichas inspecciones deberán coordinarse previamente con el dueño del establecimiento, y solo en caso de existir antecedentes de incumplimientos flagrantes a la normativa ambiental, podrán desarrollarse de manera inmediata y sin previo aviso. En este último caso, de flagrancia, y existiendo una negativa injustificada en otorgar acceso a los inspectores municipales, se podrá acudir, previa autorización judicial, con auxilio de Fuerza Pública para los efectos de ingreso e inspección.
 
 #### Artículo 73
 
