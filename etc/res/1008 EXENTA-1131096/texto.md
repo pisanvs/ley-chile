@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.145, 27 de diciembre 2018, y resolución exenta Nº 1.008, 3 de abril de 2019, que rectifica la anterior, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Avenida Cristóbal Colón 8185 Lt A, rol de avalúo Nº 3520-4, de la comuna de Hualpén, de aparente dominio de Inmobiliaria Integral WW Limitada, en 253,00 m2 de terreno, dentro de linderos señalados plano de expropiación plano S8R-33.276-3, para la ejecución del Proyecto "Construcción Corredor Transporte Público Colón: Perales - Alessandri", de la comuna de Talcahuano, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por la arquitecto Marielva Inzunza Morales, por el ingeniero constructor Luis Gonzalo Valenzuela Arroyo y por el arquitecto Alexander Boye Trenit, según el Informe de Tasación, de fecha 10.12.2018, fijó monto provisional, en la suma de $40.265.221.-
+
+Director Serviu Región del Biobío.
