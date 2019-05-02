@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 174, de 03 de abril de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e), y 105º del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206, de 1960, se expropiaron los lotes de terreno Nºs. 42-A y 42-B, para la obra: "MEJORAMIENTO CAMINO ITROPULLI - SAN PEDRO, RUTAS T-695 Y T-699", que figuran a nombre de VERGARA ASENJO GERARDO ENRIQUE y MOLINA GALLARDO FRANCISCA DEL CARME, roles de avalúo 555-17 y 555-338, Comuna de PAILLACO, REGIÓN DE LOS RÍOS, superficies 3.166 m2 y 856 m2. respectivamente. La Comisión de Peritos integrada por MARIA SOLEDAD NÚÑEZ ARROYO, YASCHALA MARIBEL YÁÑEZ RIFFO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 16 de septiembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $9.794.100.- para el lote Nº42-A y $2.916.900.-, para el lote Nº42-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
