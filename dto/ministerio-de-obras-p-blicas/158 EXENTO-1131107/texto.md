@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 158 de 3 de abril de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 13 para la obra: RELICITACION CONCESIÓN CAMINO NOGALES - PUCHUNCAVÍ, SECTOR: SECTOR 1 (RUTA F-20), SUBSECTOR: RUTA 5 NORTE - PLAZA PEAJE, KM 0.000,00 AL KM 6.500,00, Región de Valparaíso, que figura a nombre de ARANCIBIA FERNANDEZ EDUARDO, rol de avalúo 1171-53, comuna de Nogales, superficie 2.642 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 659 de 29 de noviembre de 2018, integrada por María Cristina Camus Palacios, Valeria Francisca Madariaga Tordecilla y Claudio Gonzalo Durán Massardo, fijó con fecha 11 de enero de 2019, el valor provisional de la indemnización en la cantidad de $53.350.360 para el lote N° 13. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
