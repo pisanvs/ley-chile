@@ -1,0 +1,3 @@
+NOTIFICACIÓN
+
+Mediante resolución Nº 1.095 de 12 de abril de 2019, el Serviu Región de los Lagos, rectificó la resolución exenta Nº 3.616 de 13 de noviembre de 2018, que dispuso la expropiación del lote Nº 9 del Proyecto "Mejoramiento Interconexión Alerce-Puerto Montt, Senda Central-Avda. Austral, Puerto Montt, aprobando la resolución rectificatoria el "Informe de tasación modificado" de 25 de octubre de 2018, y fijándose el monto de la indemnización expropiatoria en la suma de $131.895.100.
