@@ -176,11 +176,15 @@ c) De las infracciones:
 
 10°- A los artículos 5°, 6°, 10° y 12° de la ley N° 5.172, 13 de Diciembre de 1933, sobre Espectáculos Públicos Diversiones y Carreras;
 
-11° A la ley N° 13.937, de 1 de Junio de 1960, sobre letrero con nombre de las calles en los inmuebles o sitios eriazos que hagan esquina;
+11°- A la ley N° 13.937, de 1 de Junio de 1960, sobre letrero con nombre de las calles en los inmuebles o sitios eriazos que hagan esquina;
 
-12° A la ley N° 4.023, de 12 de Junio de 1924, sobre guía de libre tránsito, y
+12°- A la ley N° 4.023, de 12 de Junio de 1924, sobre guía de libre tránsito;
 
-13°- Al decreto con fuerza de ley 34, de 1931, sobre pesca y su reglamento.
+13°- Al decreto con fuerza de ley 34, de 1931, sobre pesca y su reglamento;
+
+14°- A la ley que prohíbe la entrega de bolsas plásticas de comercio, y
+
+15º- A la ley que establece medidas de protección a la lactancia materna y su ejercicio.
 
 > **Nota.** El artículo transitorio de la LEY 19925, publicada el 19.01.2004, dispone que la modificación al presente artículo entrará en vigencia gradualmente para las Regiones V, VI, VIII, X y Metropolitana de Santiago, de conformidad a lo dispuesto en el artículo 7º transitorio de la ley 19665, aplicándose entretanto las disposiciones legales existentes.
 

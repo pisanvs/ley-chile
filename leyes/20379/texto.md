@@ -118,6 +118,8 @@ Un reglamento dictado por el aludido Ministerio y suscrito, además, por los Min
 
 El programa eje del subsistema en referencia será el de "Apoyo al Desarrollo Biosicosocial", que consiste en el acompañamiento y seguimiento personalizado a la trayectoria del desarrollo de los infantes que cumplan los requisitos señalados en el inciso primero del artículo 9º, el que será ejecutado por el Ministerio de Salud.
 
+Se dará especial relevancia al fomento, protección y apoyo intersectorial a la lactancia materna exclusiva, idealmente hasta los seis meses de edad de infantes lactantes, y su continuación a lo menos hasta los dos años de edad complementada con otros alimentos. Se extiende la protección a los procesos de obtención de leche materna distintos del amamantamiento directo, especialmente en lo que respecta a la higiene, inocuidad y seguridad en su extracción, manipulación, conservación y entrega a los lactantes. Se deberán coordinar las políticas públicas necesarias para tal efecto, con especial énfasis en las áreas pública y privada de educación y salud.
+
 #### Artículo 12
 
 "Chile Crece Contigo" garantizará las siguientes prestaciones para los niños y niñas que presentan situaciones de vulnerabilidad:

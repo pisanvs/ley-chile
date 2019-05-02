@@ -16,6 +16,10 @@ Esta ley tiene por objeto promover hábitos y estilos de vida saludables para me
 
 Para efectos de esta ley, se entenderá por hábitos y estilos de vida saludables, aquellos que propenden y promueven una alimentación saludable, el desarrollo de actividad física, la vida familiar y las actividades al aire libre, como también aquellas conductas y acciones que tengan por finalidad contribuir a prevenir, disminuir o revertir los factores y conductas de riesgo asociados a las enfermedades no transmisibles.
 
+Para todos los efectos se entenderá que la lactancia con leche materna o lactancia materna es el medio óptimo e ideal para asegurar la alimentación saludable de lactantes, hasta los seis meses de manera exclusiva y hasta los dos años de edad en forma complementaria, y constituye la forma más eficiente de protección integral de la salud de madres e infantes lactantes.
+
+El Estado y la sociedad civil promoverán, protegerán y apoyarán la lactancia materna de conformidad con lo dispuesto en el inciso anterior.
+
 #### Artículo 2°
 
 Los órganos de la Administración del Estado con competencia en materias vinculadas a promover hábitos y estilos de vida saludables procurarán incorporar en sus políticas, planes y programas, medidas que tengan por finalidad informar, educar y fomentar la prevención de los factores y conductas de riesgo asociadas a las enfermedades no transmisibles, derivadas de hábitos y estilos de vida no saludables.

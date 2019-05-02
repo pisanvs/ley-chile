@@ -152,11 +152,21 @@ La tuición del Estado comprenderá la higiene y asistencia social, tanto de la 
 
 La atención de la mujer y del niño durante los períodos a que se refiere el artículo anterior será gratuita para los indigentes en todos los establecimientos del Servicio Nacional de Salud, conforme lo determine el Reglamento.
 
-#### Artículo 18°
+#### Artículo 18
 
-La leche de la madre es de propiedad exclusiva de su hijo y, en consecuencia, está obligada a amamantarlo por sí misma, salvo que por indicación médica se resuelva lo contrario.
+Es derecho preferente del hijo ser amamantado directamente por su madre, salvo que por indicación médica o decisión de la madre se resuelva lo contrario.
 
-La madre no podrá amamantar niños ajenos mientras el propio lo requiera, a menos que medie autorización médica.
+La leche materna tiene como uso prioritario la alimentación en beneficio del o de los lactantes que sean sus hijos biológicos.
+
+Sin perjuicio de lo anterior, todas las madres podrán donar voluntariamente su leche para el uso o beneficio de los recién nacidos que no tengan posibilidad de ser alimentados por su propia madre o, en los casos en que pudiendo serlo, la leche producida por la madre constituya un riesgo para la salud del lactante. Pero no podrán ser donantes aquellas madres cuya condición ponga en riesgo la integridad e inocuidad de la leche que ha de ser donada.
+
+En ningún caso la donación de leche materna se realizará de forma directa del pecho de la mujer donante a la boca del lactante.
+
+Además, las madres podrán donar su leche materna para uso en programas de estudio, docencia e investigación en universidades, instituciones educacionales e instituciones públicas, las que no podrán hacer uso comercial de sus resultados.
+
+Las donaciones de las que trata este artículo serán gratuitas y no les serán aplicables las disposiciones de los artículos 1137 a 1146 del Código Civil. Asimismo, será nulo, y de ningún valor, el acto o contrato que contenga la promesa de alguna donación de la que trata este artículo.
+
+Las donaciones de las que trata este artículo no podrán causar detrimento alguno al hijo biológico de la madre donante.
 
 #### Artículo 19°
 
