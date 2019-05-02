@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº167, de 03 de abril de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 1, para la obra: CONSTRUCCIÓN NUDO VIAL AVENIDA FREI - RUTA 9, que figura a nombre de INVERSIONES SHARP E HIJOS LIMITADA, rol de avalúo 5030-8, Comuna de PUNTA ARENAS, REGION DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, superficie 1.639 m2. La Comisión de Peritos integrada por RODRIGO JAIME FERNÁNDEZ DUBROCK, WALTER GASTON OJEDA AGUILAR y JOSÉ LUIS SUBIABRE AGUILAR, mediante informe de tasación de 21 de mayo de 2018, fijó el monto de la indemnización provisional en la cantidad de $62.016.482, para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
