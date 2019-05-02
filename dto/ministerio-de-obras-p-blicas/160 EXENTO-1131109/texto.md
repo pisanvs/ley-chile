@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 160 de 3 de abril de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 2 para la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO: TALCA - CHILLAN. SECTOR: CALLE DE SERVICIO ESCUELA BULI ORIENTE KM. 366.340,00 AL KM. 367.080,00, Región del Biobío, actual Región de Ñuble, que figura a nombre de SUC. SOTO SOTO FELICITO, rol de avalúo 43-47 de la comuna de Ñiquén, superficie 3.341 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 480 de 24 de julio de 2018, integrada por Juan Pablo Contreras Mallea, Jaime Rolando Jurgens Bittner y Carmen Gloria Gatica Villarroel, fijó con fecha 3 de septiembre de 2018, el valor provisional de la indemnización en la cantidad de $5.988.425 para el lote N° 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
