@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº165, de 03 de abril de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 20-A y 21-A, para la obra: MEJORAMIENTO RUTA R-444 LOS SAUCES LUMACO POR LAS ROZAS, que figura a nombre de HUIRCAMAN MORALES CRONELIO, rol de avalúo 212-56, Comuna de LUMACO, REGION DE LA ARAUCANIA, superficies 906 y 98 m2 respectivamente. La Comisión de Peritos integrada por PABLO ALEJANDRO SEPULVEDA GOMEZ, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 06 de septiembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $3.489.820 para el lote Nº20-A, y $474.160 para el lote Nº21-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
