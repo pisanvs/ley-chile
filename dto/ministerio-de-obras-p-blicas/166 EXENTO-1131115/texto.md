@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 166, de 03 de abril de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105° del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y D.F.L. M.O.P. N°206, de 1960, se expropió el lote de terreno N° 62-A, para la obra "Mejoramiento Ruta T-85, Varios Tramos en Lago Ranco-Calcurrupe", que figura a nombre de INVERSIONES RTB S.A., rol de avalúo 62-87, Comuna de Lago Ranco, Región de Los Ríos, superficie 1.276 m2. La Comisión de Peritos integrada por Patricio Fernando Casagrande Ulloa, Karin Alicia Ernst Elizalde y María Soledad Núñez Arroyo, mediante informe de tasación de 12 de septiembre de 2014, complementada por acta de fecha 15 de junio de 2017, fijó el monto de la indemnización provisional en la cantidad de $3.438.960.- para el lote N° 62-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
