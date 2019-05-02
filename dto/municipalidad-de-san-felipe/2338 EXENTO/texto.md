@@ -1,0 +1,5 @@
+DISPONE EXPROPIACIÓN DE INMUEBLE
+
+Por decreto alcaldicio exento N° 2.338, de fecha 10 de abril de 2019, y en base a la facultad otorgada por el artículo 33 de la ley N° 18.695 y los artículos 2° y 4º del DL Nº 2.186, de 1978, la Ilustre Municipalidad de San Felipe dispuso la expropiación del inmueble denominado lote 011b, de una superficie aproximada de 452,74 m², que forma parte de otro de mayor extensión ubicado en la comuna de San Felipe, calle Tacna Sur s/n, que figura a nombre de Sociedad Inmobiliaria San Bartolomé S.A., RUT N° 99.579.780-1; inscrito a fs. 2168 Nº 2.227 en el Registro de Propiedad de 2015 del Conservador de Bienes Raíces de San Felipe, Rol de avalúo Nº 223-21 de la comuna de San Felipe. La comisión de peritos nombrada por decreto alcaldicio N° 940, de fecha 7 de febrero de 2019, fijó con fecha 6 de marzo de 2019 el valor provisional de la indemnización en la cantidad de $15.892.532.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del DL Nº 2.186, de 1978.-
+
+Ema García Iturrieta, Secretario Municipal, I. Municipalidad de San Felipe.
