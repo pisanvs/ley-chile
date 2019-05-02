@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº168, de 03 de abril de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP Nº206 de 1960, se expropiaron los lotes de terreno N°s.1, 2 y 3, para la obra: MEJORAMIENTO RUTA T-60 S: CRUCE RUTA 206-TRES VENTANAS, que figura a nombre de SOBARZO MEDINA OMAR M Y OTROS, roles de avalúo 2420-25, Comuna de VALDIVIA, REGION DE LOS RIOS, superficies 33, 3.557 y 71 m2 respectivamente. La Comisión de Peritos integrada por MARÍA ISABEL RÍOS MARCUELLO, NORMAN ESTANISLAO CALDERON PONTIGGIA y PAULO DIAZ VERGARA, mediante informe de tasación de 02 de febrero de 2018, fijó el monto de la indemnización provisional en la cantidad de $168.300 para el lote Nº1, $19.935.700 para el lote Nº2, y $630.600 para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
