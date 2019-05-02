@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 524 de fecha 21 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Mainstream Chile S.A., Sociedad Chilena, RUT 77.424.630-4, primera renovación de Concesión Marítima Menor, con vencimiento 31 de diciembre 2028, sobre un sector de Playa, en el lugar denominado Linlinao, comuna de Chonchi, provincia de Chiloé, Región de Los Lagos, con una superficie total de 287.93 m², la cual fue tramitada con el SIABC N° 40.411. A modo referencial se señala la siguiente coordenada geográfica: Latitud S 42°34'29,49", Longitud W 73°45'32,93. El objeto consiste en amparar un atracadero flotante. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Castro. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Roque Núñez Cabrera, Capitán de Corbeta LT, Capitán de Puerto de Castro.
