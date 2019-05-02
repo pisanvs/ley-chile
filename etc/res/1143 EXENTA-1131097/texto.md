@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.143, de fecha 16 de abril de 2019, que rectifica la resolución exenta 3.533 de 6 de noviembre de 2018, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en Monte Águila, comuna de Cabrero, de aparente dominio de Suc. Castillo Briones Rosalba, publicada el 15 de noviembre de 2018 en Diario Oficial y diario La Tribuna de Los Ángeles, en dicho extracto se indicó erróneamente en el resuelvo primero la superficie a expropiar, en circunstancias que la superficie correcta es de 35,13 m2 expropiación parcial de terreno y 20,13 m2 expropiación total de edificación, para la ejecución del proyecto "Construcción Ciclovía Ruta 060 Cabrero - Monteaguila", de la comuna de Cabrero, en el resto rige el extracto publicado en la fecha antedicha.
+
+Director Serviu Región del Biobío.
