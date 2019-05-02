@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 161 de 3 de abril de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 153-2 para la obra: CAMINO INTERNACIONAL RUTA 60 CH. SECTOR 1: KM. 0.000,00 AL KM. 53.779,50. TRAMO 2: KM. 19.500,00 AL KM. 46.100,00 - ATRAVIESO N° 11, EL PIDÉN, Región de Valparaíso, que figura a nombre de AGRICOLA PANQUEHUE LIMITADA, rol de avalúo 53-1, comuna de Panquehue, superficie 50 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 705 de 18 de diciembre de 2018, integrada por Patricio Desiderio Aranda Rivillo, Jesús Fernando Díaz Pasmiño y Loreto Isabel Hernández Ríos, fijó con fecha 23 de enero de 2019, el valor provisional de la indemnización en la cantidad de $840.000 para el lote N° 153-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
