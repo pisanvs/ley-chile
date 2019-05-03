@@ -1,0 +1,39 @@
+NOMBRA A PERSONA QUE INDICA, EN EL CARGO DE DIRECTOR NACIONAL DEL SERVICIO MÉDICO LEGAL
+
+Núm. 1.051.- Santiago, 11 de diciembre de 2018.
+
+Vistos:
+
+Estos antecedentes y lo dispuesto en el artículo 32 Nº 10 de la Constitución Política de la República de Chile, cuyo texto fue refundido, coordinado y sistematizado en el decreto Nº 100, de 2005, del Ministerio Secretaría General de la Presidencia; en la Ley Nº 19.882, que Regula Nueva Política de Personal a los Funcionarios Públicos que indica; en la Ley Nº 20.065 Modernización, Regulación Orgánica y Planta del Personal del Servicio Médico Legal; el DFL Nº 29, de 2004, del Ministerio de Hacienda, que Fija el Texto Refundido, Coordinado y Sistematizado de la Ley Nº 18.834, sobre Estatuto Administrativo; en el DFL Nº 3, de 2016, del Ministerio de Justicia y Derechos Humanos, que Fija el Texto Refundido, Coordinado y Sistematizado de la Ley Orgánica del Ministerio de Justicia y Derechos Humanos; en el decreto supremo Nº 1.597, de 1980, del Ministerio de Justicia, Reglamento Orgánico del Ministerio de Justicia; en el DFL Nº 43, de 2003, del Ministerio de Hacienda, que Determina para los Servicios Públicos que indica, Dependientes o Relacionados con el Ministerio de Justicia, los Cargos que Tendrán la Calidad de Altos Directivos Públicos; en la resolución Nº 726, de 5 de junio de 2018, del Subdirector de Alta Dirección Pública de la Dirección Nacional del Servicio Civil, que Convoca a proceso de selección público y abierto, de amplia difusión, para proveer el cargo de Director/a Nacional del Servicio Médico Legal, que corresponde al primer nivel jerárquico; en la resolución exenta Nº 854, de 18 de junio de 2018, del Subdirector de Alta Dirección Pública de la Dirección Nacional del Servicio Civil, que Decide Ampliación de Convocatorias de los Procesos de Selección Públicos, Abiertos y de Amplia Difusión, para Proveer los Cargos de: 1) Ministro/a Titular Abogado/a del Segundo Tribunal Ambiental de Santiago; 2) Ministro/a Suplente Licenciado en Ciencias del Segundo Tribunal Ambiental de Santiago; 3) Director/a Nacional del Servicio Nacional de Pesca y Acuicultura; 4) Director/a Nacional del Servicio Médico Legal; 5) Director/a Nacional de la Oficina de Estudios y Políticas Agrarias; 6) Director/a Regional de Tarapacá del Servicio Nacional de Turismo; 7) Director/a Regional Metropolitano del Servicio Nacional de Turismo; 8) Director/a Regional Metropolitano del Servicio Nacional de la Discapacidad; 9) Director/a de Hospital de Urgencia Asistencia Pública del Servicio de Salud Metropolitano Central; 10) Director/a Regional de Valparaíso del Servicio Agrícola y Ganadero; 11) Director/a Regional de la Araucanía del Servicio Agrícola y Ganadero; y 12) Jefe/a del Departamento de Administración de Educación Municipal de la Municipalidad de Machalí; en el oficio Ord, Nº 5071, de 2017, que Informa vacancia del cargo de Director/a Nacional del Servicio Médico Legal y en el oficio Ord. Nº 1756, de 12 de marzo de 2018, que informa sobre vacancia en cargos de primer nivel jerárquico adscritos al sistema de Alta Dirección Pública e informa plazo para envío de perfiles de cargos actualizados, ambos del Ministerio de Justicia y Derechos Humanos; en el oficio Reservado Nº 83, de 14 de agosto de 2018, del Presidente del Consejo de Alta Dirección Pública, que Remite Nómina de Candidatos/as Propuestos/as por el Consejo de Alta Dirección Pública; en el oficio de Gabinete Presidencial Nº 1915, de 9 de noviembre de 2018, que comunica al Presidente del Consejo de la Alta Dirección Pública la decisión de S.E. el Presidente de la República de seleccionar a don Jorge Alfonso Rubio Kinast en el Cargo de Director Nacional del Servicio Médico Legal, y en las resoluciones Nº 1.600 de 2008 y Nº 10 de 2017, ambas de la Contraloría General de la República.
+
+Considerando:
+
+1. Que, de acuerdo a lo dispuesto en el decreto con fuerza de ley Nº 43, de 2003, del Ministerio de Hacienda, el cargo de Director Nacional del Servicio Médico Legal corresponde a aquellos que se le otorgan la calidad de Altos Directivos Públicos.
+
+2. Que, mediante oficio ordinario Nº 5071, de 2017, del Ministerio de Justicia y Derechos Humanos, se informó al Director Nacional del Servicio Civil, la vacancia del cargo de Director Nacional del Servicio Médico Legal.
+
+3. Que, mediante oficio ordinario Nº 1756, de 2018, del Ministerio de Justicia y Derechos Humanos, se solicitó a la Dirección Nacional del Servicio Civil iniciar los procesos de selección de los cargos de Director Nacional del Servicio de Registro Civil e Identificación y Director Nacional del Servicio Médico Legal.
+
+4. Que, con fecha 5 de junio de 2018, a través de la resolución exenta Nº 726, del Subdirector de Alta Dirección Pública de la Dirección Nacional del Servicio Civil, se convocó al proceso de selección público y abierto, de amplia difusión, para proveer el cargo de Director/a Nacional del Servicio Médico Legal, que corresponde al primer nivel jerárquico.
+
+5. Que, mediante la resolución exenta Nº 854, de junio de 2018, del Subdirector de Alta Dirección Pública de la Dirección Nacional del Servicio Civil, se decidió la ampliación de convocatorias de los procesos de selección públicos, abiertos y de amplia difusión, para proveer los cargos, dentro de los cuales el Nº 4 correspondía al cargo de Director/a Nacional del Servicio Médico Legal, extendiendo dicho proceso hasta el día lunes 18 de junio de 2018.
+
+6. Que, a través del oficio reservado Nº 83, de 14 de agosto de 2018, el Presidente del Consejo de Alta Dirección Pública remite nómina de candidatos/as propuestos/as por el Consejo de Alta Dirección Pública, a S.E. Presidente de la República.
+
+7. Que, a través del oficio Gab. Pres. Nº 1.15, de 9 de noviembre de 2018, el Presidente de la República le comunicó al Presidente del Consejo de la Alta Dirección Pública sobre la decisión de seleccionar a don Jorge Alfonso Rubio Kinast en el Cargo de Director Nacional del Servicio Médico Legal.
+
+Decreto:
+
+1. Nómbrase, a contar del día 26 de noviembre de 2018, a don Jorge Alfonso Rubio Kinast, RUN Nº 5.598.775-0, en el cargo de Director Nacional del Servicio Médico Legal, grado 2º de la EUS de ese Servicio.
+
+2. En conformidad a lo dispuesto en el artículo quincuagésimo séptimo de la ley Nº 19.882, el presente nombramiento se extenderá por un plazo de tres años contados desde la fecha señalada en el numeral 1 anterior sin perjuicio de la facultad de renovar o poner término al período de nombramiento, en conformidad a lo previsto en la citada norma.
+
+3. El señor Rubio tendrá derecho a percibir los beneficios establecidos en el Estatuto Administrativo, que correspondan. Asimismo, tendrá derecho a una asignación de Alta Dirección Pública, en conformidad a lo dispuesto en el artículo sexagésimo quinto de la ley Nº 19.882, cuyo porcentaje ha sido fijado en 95%, conforme así se indica en el decreto supremo Nº 1.468, de 2006, del Ministerio de Hacienda.
+
+4. Por razones impostergables de buen servicio, el señor Rubio deberá asumir sus funciones en la fecha señalada en el numeral 1, sin esperar la total tramitación del presente decreto.
+
+5. Impútese el gasto correspondiente a la partida 10, capítulo 03, programa 01, subtítulo 21, ítem 01 Gastos en Personal de Planta del Presupuesto del Servicio Médico Legal.
+
+Anótese, tómese razón, notifíquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Hernán Larraín Fernández, Ministro de Justicia y Derechos Humanos.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Ma. Loreto González Lazo, Subsecretaria de Justicia (S).
