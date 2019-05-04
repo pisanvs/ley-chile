@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 210, de fecha 20 de marzo de 2019, de esta Secretaría Regional Ministerial, se aprobaron los planes y programas conducentes a la obtención de licencias de conductor no profesionales o clase B, a la escuela de conductores "Escmag Ltda.", cuya propietaria es la Sociedad Escuela de Conductores Magallanes Limitada, RUT Nº 76.961.386-2, y Representantes Legales son don Claudio Alejandro Guerra Martínez, RUN Nº 15.310.608-8 y doña Marcela de Lourdes Almonacid Pérez, RUN Nº 15.309.810-7. La escuela de conductores tendrá como director a don Claudio Alejandro Guerra Martínez, y su sede estará ubicada en calle Eberhard Nº 298, ciudad de Puerto Natales, comuna de Natales. Las horas pedagógicas autorizadas a la referida Escuela son 8 (ocho) teóricas, 12 (doce) prácticas, con un total de 20 (veinte) horas pedagógicas.-
+
+Marco Antonio Mella Bórquez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Magallanes y la Antártica Chilena.
