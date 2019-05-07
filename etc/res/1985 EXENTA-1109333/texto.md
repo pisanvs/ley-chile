@@ -28,9 +28,9 @@ Fíjese la siguiente norma técnica de equipos de alcance reducido.
 
 #### Artículo 1°
 
-Los equipos que empleen ondas radioeléctricas y que cumplan con los requisitos que a continuación se detallan no necesitarán autorización para su uso:
+Los equipos que empleen ondas radioeléctricas y que cumplan con los requisitos que a continuación se detallan solo necesitarán certificación para su uso, sin perjuicio que sean parte de un proyecto técnico de concesión o permiso:
 
-a) Transceptores portátiles que operen en las bandas de frecuencias 26.960 a 27.410 kHz; 40,66 a 40,70 MHz; 433,05 a 434,79 MHz; 462,540 a 462,740 MHz; 467,550 a 467,725 MHz; 902 a 928 MHz; 2.400 a 2.483,5 MHz; 5.725 a 5.875 MHz o en las frecuencias 49,830; 49,845; 49,860; 49,875 y 49,890 MHz, y que cumplan los siguientes requisitos:
+a) Transceptores portátiles que operen en las bandas de frecuencias 26.960 a 27.410 kHz; 40,66 a 40,70 MHz; 433,05 a 434,79 MHz; 462,540 a 462,740 MHz; 467,550 a 467,725 MHz; o en las frecuencias 49,830; 49,845; 49,860; 49,875 y 49,890 MHz, y que cumplan los siguientes requisitos:
 
 a.1) Los equipos que operen en la banda de 26.960 a 27.410 kHz deben usar como frecuencia portadora uno o más de los 40 canales asignados al Servicio de Banda Local, según lo establecido en la respectiva norma técnica.
 
@@ -40,8 +40,6 @@ a.2) La frecuencia portadora debe mantenerse dentro de la tolerancia de ± 0,01%
 
 a.3) Todas las emisiones fuera de banda, incluidas las bandas laterales producidas por la modulación, deberán ser reducidas, a lo menos, en 20 dB, con respecto al nivel de la portadora sin modulación.
 
-Las emisiones radiadas fuera de las bandas 902 a 928 MHz, 2.400 a 2.483,5 MHz y 5.725 a 5.875 MHz, excepto para las armónicas, deberán cumplir con la menor atenuación que resulte entre 50 dB bajo el nivel de la fundamental y un límite de intensidad de campo de 500 µV/m a una distancia de 3 metros. Para las armónicas, la intensidad de campo de las emisiones a una distancia de 3 metros no deberá exceder 500 µV/m.
-
 a.4) La antena consistirá en un elemento simple y su base estará permanentemente adherida al gabinete del equipo.
 
 a.5) La potencia de los equipos que operen en la banda de frecuencias 26.960 a 27.410 kHz o en las frecuencias 49,830; 49,845; 49,860; 49,875 y 49,890 MHz, en corriente continua, suministrada a la etapa final de radiofrecuencia del equipo, no será superior a 100 mW, alternativamente y en el caso de no ser posible la determinación de la potencia en la forma antes señalada, se medirá la potencia consumida por el equipo, la cual no podrá ser superior a 130 mW, en cualquier condición de modulación.
@@ -49,8 +47,6 @@ a.5) La potencia de los equipos que operen en la banda de frecuencias 26.960 a 2
 La potencia máxima radiada de los equipos que operen en las bandas 40,66 a 40,70 MHz y 433,05 a 434,79 MHz no deberá exceder 10 mW.
 
 La potencia máxima radiada de los equipos que operen en las bandas 462,540 a 462,740 MHz y 467,550 a 467,725 MHz no deberá exceder 500 mW y, además, los equipos no deberán poseer la capacidad de incremento de su potencia de transmisión a un valor superior al indicado.
-
-En las bandas de frecuencias 902 a 928 MHz, 2.400 a 2.483,5 MHz y 5.725 a 5.875 MHz, la intensidad de campo de las emisiones de la frecuencia fundamental, a una distancia de 3 metros, no deberá exceder 50 mV/m. La intensidad de campo máxima de cualquier emisión no deberá exceder los límites promedios, antes señalados, en más de 20 dB bajo cualquier condición de modulación.
 
 b) Controles remotos que operen en las siguientes frecuencias o bandas de frecuencias con una intensidad de campo eléctrico o potencia máxima radiada que no exceda los valores que se indican a continuación:
 
@@ -116,13 +112,13 @@ d.5) Las emisiones entre 10 kHz y 50 kHz considerados a ambos lados de la frecue
 
 d.6) La antena consistirá en un elemento simple y su base deberá estar permanentemente adherida a los respectivos equipos.
 
-d.7) Los equipos deben cumplir con las normas de homologación correspondientes.
-
-d.8) Además de las frecuencias o bandas de frecuencias antes señaladas, los teléfonos inalámbricos podrán operar en las bandas 2.400 a 2.483,5 MHz y 5.725 a 5.850 MHz, si cumplen con lo establecido para el uso de las citadas bandas en la letra j.1) del presente artículo. Los teléfonos inalámbricos también podrán operar en la banda de frecuencias 1.920 a 1.930 MHz si emplean técnicas de selección dinámica de canales y una potencia máxima de transmisión de 22 dBm. Lo anterior, sin perjuicio del cumplimiento de lo establecido en d.1), d.6) y d.7).
+d.7) Además de las frecuencias o bandas de frecuencias antes señaladas, los teléfonos inalámbricos podrán operar en las bandas 2.400 a 2.483,5 MHz y 5.725 a 5.850 MHz, si cumplen con lo establecido para el uso de las citadas bandas en la letra j.1) del presente artículo. Los teléfonos inalámbricos también podrán operar en la banda de frecuencias 1.920 a 1.930 MHz si emplean técnicas de selección dinámica de canales y una potencia máxima de transmisión de 22 dBm. Lo anterior, sin perjuicio del cumplimiento de lo establecido en d.1), d.6) y d.7).
 
 e) Equipos para identificación por radiofrecuencia (RFID) que operen en las siguientes bandas de frecuencias con una intensidad de campo eléctrico que no exceda los valores que se indican a continuación:
 
 Bandas de frecuencias Intensidad de campo eléctrico
+
+o potencia radiada
 
 119 a 135 kHz 20 µV/m a 300 metros
 
@@ -134,7 +130,11 @@ Bandas de frecuencias Intensidad de campo eléctrico
 
 2.400 a 2.483,5 MHz 50 mV/m a 3 metros
 
-Además de las bandas de frecuencias antes señaladas, los equipos RFID podrán operar en la banda 915 a 928 MHz, si cumplen con lo establecido en la letra j.3), y en las bandas 913 a 919 MHz y/o 925 a 928 MHz, si cumplen con lo dispuesto en la letra j.4) del presente artículo.
+915 - 928 MHz 500 mW
+
+913 - 919 MHz 1 W
+
+925 - 928 MHz 1 W
 
 f) Radioalarmas que operen en alguna de las siguientes frecuencias: 915; 2.450; 5.800; 10.525 y 24.125 MHz y que cumplan con los requisitos que se indican a continuación:
 
@@ -158,9 +158,7 @@ f.2) La emisión de energía en RF, en la frecuencia fundamental no podrá exced
 
 f.3) Las emisiones espúreas de estos equipos, deberán estar 50 dB bajo el nivel de la fundamental.
 
-f.4) Alternativamente, a los requisitos señalados en los puntos f.1) a f.3), se aceptarán radioalarmas que operen en cualquier frecuencia, sujetos al requerimiento de que la intensidad de campo en la frecuencia fundamental, no exceda de
-
-15 µV/m a una distancia de λ/2π
+f.4) Alternativamente, a los requisitos señalados en los puntos f.1) a f.3), se aceptarán radioalarmas que operen en cualquier frecuencia, sujetos al requerimiento de que la intensidad de campo en la frecuencia fundamental, no exceda de 15 µV/m a una distancia de λ/2π
 
 g) Sistemas de Comunicaciones de Implantación Médica (MICS) que operen en la banda de frecuencias de 401 a 406 MHz con una potencia máxima radiada de 25 µW, un ancho de banda máximo de 300 kHz y que utilicen las técnicas de reducción de la interferencia indicadas en el Anexo 1 de la Recomendación UIT-R RS.1346, de la Unión Internacional de Telecomunicaciones, para la protección de su funcionamiento, ante las atribuciones de carácter primario que operen en la citada banda de frecuencias.
 
@@ -188,7 +186,7 @@ j) Otros equipos que cumplan con lo que se establece a continuación:
 
 j.1) Operen en las bandas de frecuencias 2.400 a 2.483,5 MHz; 5.250 a 5.350 MHz; 5.470 a 5.725 MHz y 5.725 a 5.850 MHz, con una potencia máxima radiada de 1 W y con técnicas de espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 10 MHz y permitan la compartición de frecuencias.
 
-También podrán operar en la banda de frecuencias 5.150 a 5.250 MHz, con una potencia máxima radiada de 200 mW y una densidad de potencia máxima radiada que no exceda 10 mW/MHz en cualquier banda de 1 MHz. Además, los equipos deberán emplear alguna de las técnicas de compartición de frecuencias antes señaladas. La operación de los equipos estará restringida al interior de recintos cerrados (casas, edificios, oficinas, fábricas, almacenes, etc.).
+También podrán operar en la banda de frecuencias 5.150 a 5.250 MHz, con una potencia máxima radiada de 250 mW y una densidad de potencia máxima radiada que no exceda 10 mW/MHz en cualquier banda de 1 MHz. Además, los equipos deberán emplear alguna de las técnicas de compartición de frecuencias antes señaladas. La operación de los equipos estará restringida al interior de recintos cerrados (casas, edificios, oficinas, fábricas, almacenes, etc.).
 
 Los equipos que cumplan con las características señaladas en el presente literal, también podrán ser empleados para la provisión de conectividad a internet con fines no comerciales. No obstante lo anterior, los equipos de radiocomunicaciones empleados para los mismos fines antes señalados que no cumplan con lo establecido en este literal, deberán contar con la autorización correspondiente, conforme a lo establecido en las normas técnicas que regulan el uso de las respectivas bandas de frecuencias.
 
@@ -198,17 +196,27 @@ Frecuencias o bandas Intensidad de campo eléctrico
 
 de frecuencias o potencia
 
-9 a 490 kHz 2.400/f (kHz) µV/m a 300 metros
+9 a 490 kHz 2.400/f (kHz) µV/m
 
-525 a 1.705 kHz 15 μV/m a λ/2π metros
+a 300 metros
 
-1.705 a 4.500 kHz 100 µV/m a 30 metros
+525 a 1.705 kHz 15 μV/m a λ/2π
 
-4.500 kHz a 30 MHz 30 µV/m a 30 metros
+metros
+
+1.705 a 4.500 kHz 100 µV/m a 30
+
+metros
+
+4.500 kHz a 30 MHz 30 µV/m a 30
+
+metros
 
 88 a 108 MHz 50 nW
 
-49,82 a 49,89 MHz 10 mV/m a 3 metros
+49,82 a 49,89 MHz 10 mV/m a
+
+3 metros
 
 218 a 222 MHz 45 mW
 
@@ -237,8 +245,6 @@ de frecuencias o potencia
 Los equipos que operen en la banda de 1.920 a 1.930 MHz deberán emplear técnicas de selección dinámica de canales.
 
 La banda de 17,1 a 17,3 GHz estará destinada para aplicaciones de monitoreo remoto de desplazamientos de estructuras y/o tierra, mediante el empleo de radares terrestres de apertura sintética (GBSAR: Ground Based Synthetic Aperture Radar) que empleen mecanismos que permitan la coexistencia con otros sistemas de radar que operen en la misma banda.
-
-También podrá emplearse, para aplicaciones inductivas, la banda 7.400 a 8.800 kHz con una intensidad de campo que no exceda 9 DbµA/m a 10 metros.
 
 j.3) Operen, en la banda de 915 a 928 MHz, con una potencia máxima radiada de 500 mW con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que permitan compartir frecuencias.
 
@@ -284,6 +290,28 @@ j.9) Operen en aplicaciones de sistemas de radar sensor de nivel, en ubicaciones
 
 j.10) Operen en aplicaciones de telemetría, monitoreo y/o control, en la banda 169,4 a 169,475 MHz, con una potencia máxima radiada de 500 mW.
 
+k) Internet de las Cosas (IoT): Dispositivos que empleen una o más de las siguientes bandas de frecuencias y límites de potencia, en la comunicación de sensores, actuadores, nodos y otros equipamientos de comunicaciones entre dispositivos del ámbito IoT. Dichos dispositivos deberán emplear mecanismos de compartición de frecuencias y no tendrán protección contra interferencias mutuas ni las provenientes de terceros autorizados.
+
+Banda de Frecuencias Potencia Máxima
+
+(MHz) Radiada
+
+433,05 - 434,79 10 mW
+
+868,175 - 868,375 25 mW
+
+915 - 928 500 mW
+
+2.400 - 2.483,5 1 W
+
+5.250 - 5.350 1 W
+
+5.470 - 5.725 1 W
+
+5.725 - 5.850 1 W
+
+Sin perjuicio del empleo de frecuencias y potencias de los dispositivos IoT señaladas en la tabla precedente, también se podrán emplear dispositivos IoT certificados bajo las características de aplicaciones RFID, indicadas en el literal e) del presente artículo.
+
 #### Artículo 2°
 
 Los importadores o fabricantes de cualquiera de los equipos antes señalados, previo a venderlos o cederlos a terceros a cualquier título, deberán obtener, de la Subsecretaría de Telecomunicaciones la que a su vez podrá aceptar las certificaciones de otras Administraciones de Telecomunicaciones con las cuales se haya suscrito un acuerdo de reconocimiento mutuo, un certificado que acredite que el o los equipos cumplen con las características técnicas señaladas en la presente resolución y, por lo tanto, su uso no requiere de autorización.
@@ -307,6 +335,10 @@ El incumplimiento de lo dispuesto por la presente resolución, será sancionado 
 #### Artículo 5°
 
 Derógase la resolución exenta N° 755, de 2005, de la Subsecretaría de Telecomunicaciones, y sus modificaciones. Asimismo, cualquier referencia que otra norma efectúe a la resolución exenta N° 755, debe entenderse hecha a la presente resolución.
+
+#### Artículo 6º
+
+Los laboratorios que realicen las pruebas y elaboren los reportes (test reports) presentados en las solicitudes de certificación deberán poseer al menos dos acreditaciones internacionales, de modo de asegurar calidad y objetividad de las mediciones. Dichas acreditaciones deberán estar estampadas en una o más hojas de los reportes que acompañan la documentación presentada al momento de solicitar la respectiva certificación.
 
 Anótese y publíquese en el Diario Oficial.- Rodrigo Ramírez Pino, Subsecretario de Telecomunicaciones,
 
