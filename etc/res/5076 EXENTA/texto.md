@@ -26,9 +26,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, señalándose los bienios que corresponda a los profesionales de la educación que se desempeñan como director de establecimientos educacionales o como jefe de Departamento de Administración de Educación Municipal, que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "JefeDAEMyDirectores2016_REX5076_2017.pdf FIRMADO" almacenado en pendrive, caratulado "Directores", inserto en caja de plástico con el nombre "Asimilación Directores 2016", el que se entiende formar parte integrante del presente acto administrativo.
-
-> **Nota.** El artículo primero de la Resolución 10617 Exenta, Educación, publicada el 25.09.2025, actualiza el listado a que se refiere el presente artículo por la nómina contenida en el archivo con firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, bajo el nombre del archivo PDF "241105_JefeDAEM_202410 FIRMADA", almacenado en el pendrive adjunto a la citada resolución, caratulado "Modificación Rex 5.076/2017 Asimil. Directores2016", el que se entiende formar parte integrante del mencionado acto administrativo.
+Asígnanse los tramos del desarrollo profesional docente, establecidos en el Título III del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación, a los profesionales de la educación que se desempeñan en las respectivas dotaciones docentes como Jefes de Administración de Educación Municipal y Directores de Educación Municipal, que se encuentran individualizados en el listado contenido en el disco compacto denominado "Actualización Rex. Nº 5076 - 2017 abril - 2019", serie C3117JH0216820LH, refrendado mediante la firma electrónica de la Jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, el que forma parte de la presente resolución.
 
 #### Artículo segundo
 
