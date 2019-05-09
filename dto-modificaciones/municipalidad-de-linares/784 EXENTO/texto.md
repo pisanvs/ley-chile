@@ -72,8 +72,6 @@ Donde dice:
 
 . Reemplácese el cuadro de Normas de Subdivisión y Edificación para la Zona Z-1 por el siguiente:
 
-.
-
 ZONA: Z-2
 
 Donde dice:
@@ -125,7 +123,5 @@ Donde dice:
 .
 
 III. Publíquese en el Diario Oficial el presente decreto alcaldicio por la Dirección de Relaciones Públicas y en la página web de la Municipalidad por la Dirección de Informática.
-
-> **Nota.** El decreto 836 Exenta, M. de Linares, publicado el 06.03.2019, modifica la presente norma en el sentido de reemplazar el cuadro de Normas de Subdivisión y Edificación para la Zona Z-1, sin embargo en su texto ya existe la modificación indicada.
 
 Comuníquese, transcríbase y archívese.- Mario Meza Vásquez, Alcalde.- Carmen Alicia Avaria Ramírez, Secretaria Municipal.
