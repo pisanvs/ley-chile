@@ -58,21 +58,25 @@ Usuario : Vehículo de respaldo señora Ministra.
 
 Vehículo de reemplazo o respaldo del Sr. Subsecretario de Agricultura
 
-Tipo vehículo : Station Wagon
+Vehículo : Station Wagon
 
 Marca : Hyundai
 
-Modelo : Tucson GLS 2.7
+Modelo : Santa Fe CRDI 5P 4x4 2.2 AT
 
-Color : Plateado
+N° Motor : D4HBJU885044
 
-Año : 2008
+Año : 2019
 
-Nº motor : G6BA6546672
+Chassis : KMHS381CDKU121770
 
-Nº chasis : KMHJN81DP7U594102
+Color : Gris Grafito
 
-Patente : BLJJ 55-5
+Patente : LB SF. 56-5
+
+Asignado : Gabinete Sr/a Subsecretario/a
+
+Ciudad : Santiago.
 
 Vehículo en comodato del Servicio Agrícola y Ganadero en la Subsecretaría de Agricultura, resolución Nº 2.208, de 2007, de esa institución
 
@@ -91,6 +95,14 @@ Nº motor : G4JP4068773
 Nº chasis : KMHEM41BP4A075724
 
 Patente : YN-4897-0
+
+> **Nota.** El Nº 1 del Decreto 650 exento, Agricultura, publicado el 20.01.2011, modificó la presente norma en el sentido de eliminar el automóvil que la citada norma indica.
+
+> **Nota.** NOTA 1 El numeral 2 del Decreto 718 Exento, Agricultura, publicado el 03.02.2012, modifica la presente norma, en el sentido de dejar sin efecto las autorizaciones al vehículo Station Wagon, patente BL JJ 55-5 de la Subsecretaría de Agricultura y del vehículo del Servicio Agrícola y Ganadero, patente YN-4897-0, contenidas en el presente Decreto.
+
+> **Nota.** NOTA 2 El numeral 1 del Decreto 330 Exento, Agricultura, publicado el 28.02.2014, modifica la presente norma en el sentido de establecer que la fecha de término de la autorización otorgada por este decreto, será el 10 de marzo de 2014.
+
+> **Nota.** NOTA 3 El numeral 1 del Decreto 74 Exento, Agricultura, publicado el 14.04.2014, modifica la presente norma en el sentido de establecer que el término de la autorización otorgada por este decreto, será hasta que se den de baja los vehículos de conformidad a derecho.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Marigen Hornkohl Venegas, Ministra de Agricultura.- Edmundo Pérez Yoma, Ministro del Interior.
 
