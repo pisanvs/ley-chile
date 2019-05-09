@@ -64,7 +64,7 @@ El Sistema de Pensiones establecido en la Ley se basa en la capitalización indi
 
 #### Artículo 4°
 
-El trabajador dependiente debe comunicar a su empleador el nombre de la Administradora en que se encuentre incorporado o de la que decida incorporarse , dentro de los treinta días siguientes al inicio de sus labores. Si no lo hiciere, el empleador enterará las cotizaciones en el Fondo Tipo 1 de la Administradora que tenga mayor número de trabajadores afiliados dentro de su empresa, sin perjuicio de lo señalado en el inciso siguiente. En el caso de los trabajadores independientes a que se refiere el párrafo 3. del Título II, se entenderá que éstos se afilian al sistema y se incorporan a una Administradora a partir del mes en que realicen el primer pago provisional de cotizaciones. Si el trabajador independiente no hubiere realizado pagos provisionales, se entenderá que su afiliación ocurre en la fecha a la que corresponden las primeras rentas del inciso primero del artículo 90 de la ley, según lo que establezca una norma de carácter general de la Superintendencia.
+El trabajador dependiente debe comunicar a su empleador el nombre de la Administradora en que se encuentre incorporado o de la que decida incorporarse , dentro de los treinta días siguientes al inicio de sus labores. Si no lo hiciere, el empleador enterará las cotizaciones en el Fondo Tipo 1 de la Administradora que tenga mayor número de trabajadores afiliados dentro de su empresa, sin perjuicio de lo señalado en el inciso siguiente. En el caso de los trabajadores independientes a que se refieren los párrafos 2. y 3. del Título II, se entenderá que éstos se afilian al sistema y se incorporan a una Administradora a partir del mes en que realicen el primer pago voluntario de cotizaciones. Si el trabajador independiente no hubiere realizado pagos voluntarios, se entenderá que su afiliación ocurre en la fecha a la que corresponden las primeras rentas del inciso primero del artículo 90 de la ley, según lo que establezca una norma de carácter general de la Superintendencia.
 
 Las personas que se afilien al Sistema, deberán incorporarse a la Administradora adjudicataria de la licitación a que se refiere el Título XV de la ley y permanecer en ella hasta el término del período de permanencia que se establezca en las bases de dicha licitación.
 
@@ -136,11 +136,11 @@ Para ejercer la opción a que se refiere el inciso anterior, el trabajador deber
 
 Los depósitos convenidos no tendrán límite, serán de cargo de los empleadores y deberán constar en contratos escritos celebrados entre el empleador y el trabajador. Los contratos deberán ponerse en conocimiento de la Administradora en que se encuentre incorporado el trabajador, con una anticipación de 30 días a la fecha en que deba efectuarse el único o primer depósito, de haberse convenido más de uno.
 
-### 2. De las Cotizaciones de Afiliados Independientes No Obligados a Cotizar
+### 2. De las Cotizaciones voluntarias de Afiliados Independientes
 
-#### Artículo 11º
+#### Artículo 11°
 
-Los trabajadores independientes no obligados a cotizar, esto es, aquellos a que se refiere el inciso tercero del artículo 90 de la ley, deberán enterar las cotizaciones correspondientes a las rentas imponibles que mensualmente declaren, dentro de los 10 primeros días del mes siguiente al cual correspondan dichas rentas. Este plazo se extenderá hasta el día 13 de cada mes, aun cuando éste fuere día sábado, domingo o festivo, en el caso que la declaración y el pago de cotizaciones sea realizada por el trabajador a través de un medio electrónico. Con todo, las cotizaciones que no fueren enteradas dentro de dichos plazos por estos trabajadores independientes, podrán efectuarse hasta el último día del mes calendario siguiente a aquél en que se devengaron dichas rentas.
+Los trabajadores independientes que coticen voluntariamente, de acuerdo a lo establecido en los incisos tercero y cuarto, del artículo 90 y en el inciso cuarto del artículo 92, de la ley, deberán enterar las cotizaciones correspondientes a las rentas imponibles que mensualmente declaren hasta el último día del mes calendario siguiente a aquél en que se devengaron dichas rentas.
 
 Queda prohibido a las administradoras recibir las cotizaciones de tales afiliados independientes que no fueren enteradas dentro de los plazos señalados en el inciso anterior.
 
@@ -148,7 +148,7 @@ Queda prohibido a las administradoras recibir las cotizaciones de tales afiliado
 
 #### Artículo 11
 
-A.- Los trabajadores independientes obligados a cotizar, esto es, aquellos que obtienen rentas de las señaladas en el inciso primero del artículo 90 de la ley, podrán efectuar pagos provisionales mensuales, los que se pagarán en los mismos plazos y condiciones establecidos en el artículo anterior.
+A.- Los trabajadores independientes obligados a cotizar, esto es, aquellos que obtienen rentas de las señaladas en el inciso primero del artículo 90 de la ley, estarán afectos a las cotizaciones que se establecen en el Título III de la ley y a un siete por ciento destinado a financiar prestaciones de salud, las que se pagarán de acuerdo a lo establecido en el artículo 92 F de la ley. Además, estos trabajadores están afectos a la cotización a que se refieren las leyes N° 16.744 y N° 21.063.
 
 El afiliado independiente mayor de sesenta y cinco años de edad si es hombre, o mayor de sesenta, si es mujer, o aquel que estuviere acogido a pensión de vejez o invalidez total, y continuare trabajando, deberá efectuar la cotización para salud y estará exento de la obligación de cotizar establecida en el Título III de la ley.
 
@@ -158,273 +158,107 @@ El afiliado independiente acogido a pensión de invalidez parcial y aquel que se
 
 B.- El Servicio de Impuestos Internos verificará anualmente el monto de las cotizaciones obligatorias que se establecen en el Título III de la ley y aquella destinada a financiar prestaciones de salud, a que se encuentran afectos los trabajadores independientes que perciban rentas del inciso primero del artículo 90 de la ley, debiendo considerar lo siguiente:
 
-1. La renta imponible de los trabajadores
+1. La renta imponible de los trabajadores independientes será anual y corresponderá al 80% del conjunto de rentas brutas gravadas en el artículo 42 Nº 2 de la ley sobre Impuesto a la Renta, obtenidas por el trabajador independiente en el año calendario anterior a la declaración anual de impuesto a la renta, reajustada en el porcentaje de variación experimentada por el índice de Precios al Consumidor entre el último día del mes que antecede al de la percepción de la renta y el último día del mes de noviembre del año respectivo, sin que se consideren deducciones de gastos presuntos ni efectivos, ni rebajas de ningún tipo.
 
-independientes será anual y corresponderá al 80%
+2. La renta imponible anual antes señalada no podrá ser inferior a cuatro ingresos mínimos mensuales establecidos para los trabajadores de 18 años de edad y hasta 65 años de edad, ni superior al producto de multiplicar 12 por el límite máximo imponible mensual establecido en el artículo 16 de la ley, ambos vigentes al 31 de diciembre del año al que corresponden tales rentas. El valor de la unidad de fomento necesaria para calcular el equivalente en pesos del límite máximo imponible anual deberá corresponder al vigente a la fecha antes mencionada.
 
-del conjunto de rentas brutas gravadas en el
+Los trabajadores independientes que perciban una renta imponible anual, de acuerdo a lo señalado en el número 1. precedente, inferior a cuatro ingresos mínimos mensuales señalado en el inciso anterior, estarán exentos de la obligación de cotizar.
 
-#### Artículo 42
+Si un trabajador hubiere percibido simultáneamente rentas del inciso primero del artículo 90 de la ley y remuneraciones de uno o más empleadores, éstas se sumarán para efectos de aplicar el límite máximo anual imponible, de acuerdo a lo que determine una norma de carácter general de la Superintendencia.
 
-Nº 2 de la ley sobre Impuesto a la
+3. La cotización obligatoria anual para pensiones corresponderá a la renta imponible anual de los trabajadores independientes a que se refieren los números 1. y 2. anteriores, multiplicada por la tasa de cotización.
 
-Renta, obtenidas por el trabajador independiente
+Se entiende por tasa de cotización a la suma de la tasa de cotización del 10 por ciento para pensiones, la comisión destinada al financiamiento de la administradora y la cotización destinada al financiamiento del seguro de invalidez y sobrevivencia, a que se refieren los incisos primero y segundo del artículo 17 de la ley.
 
-en el año calendario anterior a la declaración
+La tasa de cotización destinada al financiamiento del seguro de invalidez y sobrevivencia será aquella vigente al mes de diciembre del año calendario al que correspondan las rentas declaradas.
 
-anual de impuesto a la renta, reajustada en el
+Por su parte, la comisión destinada al financiamiento de la Administradora será aquella que se define en el artículo 11 K siguiente.
 
-porcentaje de variación experimentada por el
+4. La cotización obligatoria anual de salud corresponderá a la renta imponible de los trabajadores independientes a que se refieren los números 1. y 2. anteriores, multiplicada por la tasa de cotización del 7%.
 
-índice de Precios al Consumidor entre el último
-
-día del mes que antecede al de la percepción de
-
-la renta y el último día del mes de noviembre
-
-del año respectivo, sin que se consideren
-
-deducciones de gastos presuntos ni efectivos,
-
-ni rebajas de ningún tipo.
-
-2. La renta imponible anual antes señalada no podrá
-
-ser inferior a un ingreso mínimo mensual
-
-establecido para los trabajadores de 18 años de
-
-edad y hasta 65 años de edad, ni superior al
-
-producto de multiplicar 12 por el límite máximo
-
-imponible mensual establecido en el artículo 16
-
-de la ley, ambos vigentes al 31 de diciembre del
-
-año al que corresponden tales rentas. El valor
-
-de la unidad de fomento necesaria para calcular
-
-el equivalente en pesos del límite máximo
-
-imponible anual deberá corresponder al vigente
-
-a la fecha antes mencionada.
-
-Los trabajadores independientes que perciban una
-
-renta imponible anual, de acuerdo a lo señalado
-
-en el número 1. precedente, inferior al ingreso
-
-mínimo mensual señalado en el inciso anterior,
-
-estarán exentos de la obligación de cotizar.
-
-Si un trabajador hubiere percibido
-
-simultáneamente rentas del inciso primero del
-
-#### Artículo 90
-
-de la ley y remuneraciones de uno
-
-o más empleadores, éstas se sumarán para
-
-efectos de aplicar el límite máximo
-
-anual imponible, de acuerdo a lo que determine
-
-una norma de carácter general de la
-
-Superintendencia.
-
-3. La cotización obligatoria anual para pensiones
-
-corresponderá a la renta imponible anual de los
-
-trabajadores independientes a que se refieren los
-
-números 1. y 2. anteriores, multiplicada por la
-
-tasa de cotización.
-
-Se entiende por tasa de cotización a la suma
-
-de la tasa de cotización del 10 por ciento
-
-para pensiones, la comisión destinada al
-
-financiamiento de la administradora y la
-
-cotización destinada al financiamiento del
-
-seguro de invalidez y sobrevivencia, a que
-
-se refieren los incisos primero y segundo
-
-del artículo 17 de la ley.
-
-La tasa de cotización destinada al
-
-financiamiento del seguro de invalidez y
-
-sobrevivencia será aquella vigente al mes
-
-de diciembre del año calendario al que
-
-correspondan las rentas declaradas.
-
-Por su parte, la comisión destinada al
-
-financiamiento de la Administradora será
-
-aquella que se define en el artículo
-
-11 L siguiente.
-
-4. La cotización obligatoria anual de salud
-
-corresponderá a la renta imponible de los
-
-trabajadores independientes a que se refieren
-
-los números 1. y 2. anteriores, multiplicada
-
-por la tasa de cotización del 7%.
-
-Adicionalmente, el Servicio de Impuestos Internos determinará anualmente el pago de las cotizaciones del Seguro Social contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales contemplado en la ley Nº 16.744, según lo dispuesto en el artículo 88 de la ley Nº 20.255 y su respectivo reglamento.
+Adicionalmente, el Servicio de Impuestos Internos determinará anualmente el pago de las cotizaciones del Seguro Social contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales contemplado en la ley Nº 16.744, según lo dispuesto en el artículo 88 de la ley Nº 20.255 y su respectivo reglamento y el pago de la cotización para el seguro de acompañamiento de niños y niñas de la ley N° 21.063.
 
 #### Artículo 11
 
-C.- Las Administradoras de Fondos de Pensiones deberán remitir al Servicio de Impuestos Internos a más tardar el último día del mes de febrero de cada año, de acuerdo a lo que se establezca en norma de carácter general conjunta de la Superintendencia y el Servicio de Impuestos Internos, la siguiente información:
+C.- Las Administradoras de Fondos de Pensiones deberán remitir al Servicio de Impuestos Internos a más tardar el último día hábil del mes de febrero de cada año, de acuerdo a lo que se establezca en norma de carácter general conjunta de la Superintendencia y el Servicio de Impuestos Internos, la siguiente información:
 
-a) El monto de los pagos provisionales y
+a) El monto de las cotizaciones obligatorias declaradas y pagadas, y declaradas y no pagadas por el o los empleadores, durante todo el año calendario anterior, de sus afiliados.
 
-cotizaciones efectuados en el año
+b) Los montos pendientes de pago de los saldos por cotizar positivos de años anteriores, correspondientes a la cotización obligatoria para pensiones, esto es, aquella destinada a la cuenta de capitalización individual, más la comisión destinada al financiamiento de la Administradora de acuerdo a lo señalado en el inciso tercero del artículo 29 de la ley.
 
-calendario anterior, por sus
+c) La nómina de todos sus afiliados activos y pensionados, señalando además del RUT, el tipo de pensión que reciben, cuando corresponda.
 
-afiliados en calidad de trabajadores
+d) El valor promedio de su comisión, de acuerdo a lo señalado en el artículo 11 K siguiente.
 
-independientes.
+Adicionalmente, las administradoras adjudicatarias de la licitación para la administración de cuentas de capitalización individual, a que se refiere el Título XV de la ley, deberán comunicar su calidad de tal al Servicio de Impuestos Internos, en la forma que establezca la Superintendencia. En el evento de producirse cualquiera de los casos establecidos en el inciso segundo del artículo 164 de la ley, la Superintendencia informará al Servicio de Impuestos Internos, a más tardar el último día hábil del mes de febrero de cada año, la o las administradoras que tuvieron la calidad de asignataria de los afiliados independientes nuevos en el año calendario anterior al mes del informe y las fechas entre las cuales la o las mencionadas administradoras tuvieron la calidad referida.
 
-b) El monto de las cotizaciones obligatorias
-
-declaradas y pagadas, y declaradas y
-
-no pagadas por el o los empleadores,
-
-durante todo el año calendario anterior,
-
-de sus afiliados.
-
-c) Los montos pendientes de pago de los saldos
-
-por cotizar positivos de años anteriores,
-
-correspondientes a la cotización obligatoria
-
-para pensiones, esto es, aquella destinada a
-
-la cuenta de capitalización individual, más
-
-la comisión destinada al financiamiento de la
-
-Administradora de acuerdo a lo señalado en el
-
-#### Artículo 28
-
-de la ley.
-
-d) La nómina de todos sus afiliados activos
-
-y pensionados, señalando además del RUT,
-
-el tipo de pensión que reciben, cuando
-
-corresponda.
-
-e) El valor promedio de su comisión, de
-
-acuerdo a lo señalado en el artículo
-
-11 L siguiente.
-
-Adicionalmente, las administradoras adjudicatarias de la licitación para la administración de cuentas de capitalización individual, a que se refiere el Título XV de la ley, deberán comunicar su calidad de tal al Servicio de Impuestos Internos, en la forma que establezca la Superintendencia.
+Asimismo, las administradoras deberán comunicar por escrito a la Tesorería General de la República, la identificación de la cuenta corriente bancaria que será utilizada para enterar las cotizaciones obligatorias con cargo a las cantidades señaladas en el numeral i) del artículo 92 F de la ley.
 
 #### Artículo 11
 
 D.- El Servicio de Impuestos Internos determinará, con ocasión del proceso de declaración anual de impuesto a la renta, el monto efectivo que el trabajador independiente debe cotizar para pensiones por su renta imponible anual señalada en el artículo 11 B.
 
-También deberá calcular el saldo por cotizar, que corresponderá a la diferencia entre el monto efectivo que el trabajador independiente debe cotizar para pensiones mencionado en el inciso anterior y la suma de sus cotizaciones como trabajador independiente y los pagos provisionales, realizados durante el año calendario anterior. Estos serán reajustados en el porcentaje de variación experimentada por el Índice de Precios al Consumidor entre el último día del mes que antecede al pago y el último día del mes de noviembre del año respectivo.
+#### Artículo 11
+
+E.- El Servicio de Impuestos Internos determinará, con ocasión del proceso de declaración anual de impuesto a la renta, el monto efectivo que el trabajador independiente debe cotizar a la Institución de Salud Previsional o al Fondo Nacional de Salud, por su renta imponible anual señalada en el artículo 11 B.
 
 #### Artículo 11
 
-E.- El Servicio de Impuestos Internos determinará, con ocasión del proceso de declaración anual de impuesto a la renta, el monto efectivo que el trabajador independiente afiliado a Fonasa debe cotizar por su renta imponible anual señalada en el artículo 11 B.
-
-También deberá calcular el saldo de las cotizaciones para salud, que corresponderá a la diferencia entre el monto efectivo mencionado en el inciso anterior y los pagos mensuales de cotizaciones para salud enterados por el trabajador independiente en el Fondo Nacional de Salud durante el año calendario anterior. Para estos efectos, los pagos mensuales de cotizaciones se reajustarán en el porcentaje de variación experimentada por el Índice de Precios al Consumidor entre el último día del mes que antecede al pago y el último día del mes de noviembre del año respectivo.
-
-#### Artículo 11
-
-F.- El Servicio de Impuestos Internos deberá calcular la diferencia positiva o negativa entre los saldos por cotizar positivos a que se refieren los artículos 11 D y 11 E anteriores, y el monto de las cotizaciones que se enterarán de acuerdo a lo establecido en el numeral iii) del artículo 92 F de la ley.
-
-La diferencia positiva o saldo neto por cotizar se pagará de acuerdo al siguiente orden de prelación:
+F.- El Servicio de Impuestos Internos deberá calcular el monto de las cotizaciones que se deben enterar de conformidad a lo establecido en el numeral i) del artículo 92 F de la ley, las que se pagarán de acuerdo al siguiente orden de prelación:
 
 a) Cotización destinada al financiamiento del seguro a que se refiere el artículo 59 de la ley.
 
 b) Cotización del Seguro Social contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales contemplado en la ley N° 16.744.
 
-c) Cotización obligatoria para pensión, esto es, aquella destinada a la cuenta de capitalización individual, más la cotización destinada al financiamiento de la Administradora de acuerdo a lo señalado en el artículo 28 de la ley.
+c) Cotización para el seguro de acompañamiento de niños y niñas de la ley N° 21.063.
 
-d) Saldos insolutos pendientes de las cotizaciones de años anteriores, a que se refiere la letra c) precedente.
+d) Cotización de salud.
 
-e) Cotización de salud.
+e) Cotización obligatoria para pensión, esto es, aquella destinada a la cuenta de capitalización individual, más la cotización destinada al financiamiento de la Administradora que se señala en el inciso tercero del artículo 29 de la ley, a prorrata.
 
-Los saldos netos por cotizar señalados en el inciso segundo, serán informados por el Servicio de Impuestos Internos al trabajador, al cierre del proceso de declaración anual de impuesto a la renta.
+f) Saldos insolutos pendientes de las cotizaciones de pensiones de años anteriores, a que se refiere la letra e) precedente.
+
+Si quedaren saldos netos o pendientes por cotizar, una vez aplicado el procedimiento a que se refiere el inciso anterior, éstos serán informados por el Servicio de Impuestos Internos al trabajador, al cierre del proceso de declaración anual de impuesto a la renta.
 
 #### Artículo 11
 
-G.- El Servicio de Impuestos Internos comunicará a la Tesorería General de la República, a más tardar el último día hábil del mes de marzo, las cotizaciones de pensiones enteradas por cada trabajador independiente a través de pagos provisionales de cotizaciones, y el nombre de la Administradora de Fondos de Pensiones donde el trabajador deberá pagar sus cotizaciones. El Servicio de Impuestos Internos también informará a la Tesorería General de la República y a la Administradora en la que se encuentra afiliado el trabajador independiente, en el proceso de renta masiva de cada año, la individualización de los trabajadores independientes obligados a cotizar, la tasa de cotización, los montos efectivos que los trabajadores independientes debieron cotizar, los saldos por cotizar, el monto de las cotizaciones por enterar de acuerdo a lo establecido en el numeral iii) del artículo 92 F de la ley, los saldos netos por cotizar y la fecha de la primera información de renta disponible en el Servicio de Impuestos Internos de los trabajadores independientes no afiliados al Sistema de Pensiones, de acuerdo a lo que disponga una norma de carácter general conjunta de la Superintendencia y el Servicio de Impuestos Internos. Asimismo, comunicará la información respecto del Sistema Único de Prestaciones Familiares, de acuerdo lo establezca el Reglamento indicado en el artículo 11 H.
+G.- El Servicio de Impuestos Internos comunicará a la Tesorería General de la República, a más tardar el último día hábil del mes de marzo, el nombre de la Administradora de Fondos de Pensiones donde el trabajador deberá pagar sus cotizaciones. El Servicio de Impuestos Internos también informará a la Tesorería General de la República y a la Administradora en la que se encuentra afiliado el trabajador independiente, en el proceso de renta masiva de cada año, la individualización de los trabajadores independientes obligados a cotizar, la tasa de cotización, los montos efectivos que los trabajadores independientes debieron cotizar, el monto de las cotizaciones por enterar con cargo a las cantidades establecidas en el numeral i) del artículo 92 F de la ley, los saldos netos o pendientes por cotizar y la fecha de la primera información de renta disponible en el Servicio de Impuestos Internos de los trabajadores independientes no afiliados al Sistema de Pensiones, de acuerdo a lo que disponga una norma de carácter general conjunta de la Superintendencia, el Servicio de Impuestos Internos y la Tesorería General de la República.
 
 Si un trabajador independiente no figurare en las nóminas de afiliados a que se refiere el artículo 11 C anterior, ni tampoco en las nóminas de trabajadores afiliados al IPS, Dipreca o Capredena, el Servicio de Impuestos Internos deberá comunicar a la Tesorería General de la República y a la Administradora de Fondos de Pensiones adjudicataria o asignataria de la licitación a que se refiere el Título XV de la ley, que el trabajador no se encuentra afiliado al Sistema de Pensiones y que, por tanto, corresponde el entero de sus cotizaciones en dicha administradora, según lo que establezca una norma de carácter general de la Superintendencia.
 
 #### Artículo 11
 
-H.- El Servicio de Impuestos Internos informará los beneficios del Sistema Único de Prestaciones Familiares para su compensación, con el monto de las cotizaciones previsionales que les corresponda realizar a los trabajadores independientes a que se refiere el inciso primero del artículo 89 de la ley y su respectivo reglamento.
+H.- Mediante normas conjuntas de las Superintendencias de Pensiones, de Salud, de Seguridad Social, del Fondo Nacional de Salud, el Servicio de Impuestos Internos y la Tesorería General de la República, se establecerá el plazo en que este último organismo enterará, una vez recibida la información remitida por el Servicio de Impuestos Internos y de acuerdo a lo establecido en el numeral i) del artículo 92 F de la ley, las cotizaciones del Título III de la ley y las destinadas a financiar las prestaciones de salud, en la Administradora de Fondos de Pensiones y en la Institución de Salud Previsional o en el Fondo Nacional de Salud, respectivamente. En todo caso, dicho plazo será anual para el depósito en la cuenta de capitalización individual de trabajador independiente y mensual para las demás instituciones de seguridad social. Para ello, la Tesorería General de la República efectuará uno o más depósitos o transferencias electrónicas de fondos a la Administradora correspondiente y a la Institución de Salud Previsional o a Fonasa, según corresponda, por los recursos correspondientes a las respectivas cotizaciones, junto con el detalle de los trabajadores a los cuales pertenecen dichos recursos.
+
+La Tesorería General de la República deberá comunicar a las administradoras, instituciones de salud previsional y Fonasa, la individualización de los trabajadores independientes obligados a cotizar, su domicilio, la tasa de cotización, los montos efectivos que dichos trabajadores debieron cotizar, el monto de las cotizaciones que se enteran de acuerdo a lo establecido en el numeral i) del artículo 92 F de la ley, los saldos netos o pendientes por cotizar y la fecha de la primera renta declarada por los trabajadores independientes no afiliados al Sistema de Pensiones.
+
+La Superintendencia de Pensiones y la Superintendencia de Salud establecerán, mediante norma de carácter general conjunta, el plazo para que el afiliado realice directamente el pago del saldo neto o pendiente por cotizar de las cotizaciones obligatorias para pensiones y salud, respectivamente. Además, la Superintendencia de Pensiones establecerá mediante norma de carácter general la información que deberá ser remitida por las Administradoras de Fondos de Pensiones al Instituto de Previsión Social para los efectos de la aplicación de lo dispuesto en el artículo 92 H de la ley.
 
 #### Artículo 11
 
-I.- La Tesorería enterará, de acuerdo a lo establecido en el numeral iii) del artículo 92 F de la ley, las cotizaciones del Título III de la ley y las destinadas a financiar las prestaciones de salud, en la Administradora de Fondos de Pensiones y en el Fondo Nacional de Salud, respectivamente. Para ello, transferirá los recursos a la Administradora correspondiente y a Fonasa, junto con el detalle de los trabajadores a los cuales pertenecen los recursos.
+I.- En caso de verificarse inconsistencias en la declaración anual de impuesto a la renta de un trabajador independiente, por diferencias existentes entre la información proporcionada por el propio contribuyente y aquella informada por terceros (agentes retenedores), el Servicio de Impuestos Internos deberá considerar en sus cálculos de la renta imponible señalada en el número 1 del artículo 11 B, exclusivamente la información proporcionada por el propio trabajador en su declaración anual de impuesto a la renta.
 
-La Tesorería General de la República deberá comunicar a las administradoras y Fonasa la individualización de los trabajadores independientes obligados a cotizar, su domicilio, la tasa de cotización, los montos efectivos que dichos trabajadores debieron cotizar, los saldos por cotizar, el monto de las cotizaciones que se enteran de acuerdo a lo establecido en el numeral iii) del artículo 92 F de la ley, los saldos netos por cotizar y la fecha de la primera renta declarada por los trabajadores independientes no afiliados al Sistema de Pensiones.
+Si posteriormente se establece la existencia de diferencias que modifican los elementos que han servido de base para determinar los montos informados a la Tesorería General de la República de acuerdo al artículo 11 G, el Servicio de Impuestos Internos deberá rehacer los cálculos correspondientes y comunicar nuevamente la información a la Tesorería General de la República. A su vez, esta entidad deberá comunicar a las administradoras, instituciones de salud previsional y a Fonasa, en un plazo de 30 días contado desde la nueva notificación del Servicio de Impuestos Internos, el monto de las cotizaciones de pensiones y salud que debieron pagarse y el monto efectivamente enterado, para que procedan al cobro de las cotizaciones adeudadas, cuando corresponda. De igual manera se deberá proceder en el caso de las declaraciones de renta presentadas fuera de plazo ante el Servicio de Impuestos Internos.
 
-La Superintendencia establecerá, mediante norma de carácter general, el plazo para que el afiliado realice directamente el pago del saldo neto por cotizar, de las cotizaciones obligatorias para pensiones, y la información que deberá ser remitida por las Administradoras de Fondos de Pensiones al Instituto de Previsión Social para los efectos de la aplicación de lo dispuesto en el artículo 92 H de la ley.
-
-#### Artículo 11
-
-J.- En caso de verificarse inconsistencias en la declaración anual de impuesto a la renta de un trabajador independiente, por diferencias existentes entre la información proporcionada por el propio contribuyente y aquella informada por terceros (agentes retenedores), el Servicio de Impuestos Internos deberá considerar en sus cálculos de la renta imponible señalada en el número 1 del artículo 11 B, exclusivamente la información proporcionada por el propio trabajador en su declaración anual de impuesto a la renta.
-
-Si posteriormente se establece la existencia de diferencias que modifican los elementos que han servido de base para determinar los montos informados a la Tesorería General de la República de acuerdo al artículo 11 G, el Servicio de Impuestos Internos deberá rehacer los cálculos correspondientes y comunicar nuevamente la información a la Tesorería General de la República. A su vez, esta entidad deberá comunicar a las administradoras y a Fonasa, en un plazo de 30 días contado desde la nueva notificación del Servicio de Impuestos Internos, el monto de las cotizaciones de pensiones y salud que debieron pagarse y el monto efectivamente enterado, para que procedan al cobro de las cotizaciones adeudadas, cuando corresponda. De igual manera se deberá proceder en el caso de las declaraciones de renta presentadas fuera de plazo ante el Servicio de Impuestos Internos.
-
-En caso que las diferencias detectadas impliquen una eventual devolución de cotizaciones previsionales, el trabajador independiente podrá solicitar su devolución en la respectiva administradora.
+En caso que las diferencias detectadas impliquen una eventual devolución de cotizaciones previsionales, el trabajador independiente podrá solicitar su devolución en la respectiva administradora, institución de salud previsional y Fonasa, según sea el caso.
 
 Tratándose de contribuyentes que, estando o no obligados a hacerlo, no presentaren su declaración anual de impuesto a la renta, el Servicio de Impuestos Internos deberá efectuar el cálculo de las cotizaciones adeudadas, utilizando para ello la información de que disponga, esto es, información propia del contribuyente y/o aquella proporcionada por terceros (agentes retenedores). Esta información será comunicada en la forma establecida en el artículo 11 G en la fecha en que se encuentre disponible para su remisión.
 
 #### Artículo 11
 
-K.- Se mantendrá la obligación del pago de las cotizaciones obligatorias por parte de los trabajadores independientes, cuando existan retenciones que no hayan sido enteradas en arcas fiscales por los agentes retenedores.
+J.- Se mantendrá la obligación del pago de las cotizaciones obligatorias por parte de los trabajadores independientes, cuando existan retenciones que no hayan sido enteradas en arcas fiscales por los agentes retenedores.
 
 #### Artículo 11
 
-L.- Las cotizaciones obligatorias del trabajador independiente darán derecho a la Administradora de Fondos de Pensiones que reciba dichas cotizaciones a cobrar una comisión, la que corresponderá al porcentaje promedio simple de las comisiones que la administradora a la que pertenece el afiliado hubiere cobrado en el año anterior al pago de dichas cotizaciones. Si la Administradora tuviere menos de 12 meses de operación en el año al que corresponden las rentas, el promedio simple antes referido se deberá calcular sólo con los meses en que aquella tuvo operaciones.
-
-Los pagos provisionales de cotizaciones que efectúe un trabajador independiente, darán derecho al cobro de comisiones a aquella administradora en la que se realice el pago.
+K.- Las cotizaciones obligatorias del trabajador independiente darán derecho a la Administradora de Fondos de Pensiones que reciba dichas cotizaciones a cobrar una comisión, la que corresponderá al porcentaje promedio simple de las comisiones que la administradora a la que pertenece el afiliado hubiere cobrado en el año anterior al pago de dichas cotizaciones. Si la Administradora tuviere menos de 12 meses de operación en el año al que corresponden las rentas, el promedio simple antes referido se deberá calcular sólo con los meses en que aquella tuvo operaciones.
 
 #### Artículo 11
 
 L.- El trabajador independiente que hubiere pagado sus cotizaciones obligatorias tendrá cobertura del seguro de invalidez y sobrevivencia desde el primero de mayo del año en que se declaren las rentas y hasta el último día del mes que corresponda, de acuerdo a lo estipulado en el artículo 92 E de la ley. De igual manera, estarán cubiertos por el seguro de invalidez y sobrevivencia aquellos trabajadores independientes que realicen pagos provisionales de cotizaciones en el mes anterior al siniestro.
+
+#### Artículo 11
+
+M.- En caso que el trabajador independiente a que se refiere el artículo 89 de la ley, perciba subsidio por incapacidad laboral en el año anterior a la declaración de impuestos respectiva, la institución administradora del régimen de salud deberá sumar a la renta imponible anual informada por el Servicio de Impuestos Internos, el monto de los subsidios percibidos por el referido trabajador en su calidad de independiente, por las rentas del artículo 42 N° 2 de la ley sobre Impuesto a la Renta, en el mencionado año, cuyo resultado se dividirá por doce, para efectos de establecer la base de cálculo para determinar las prestaciones que le corresponden.
 
 ### 4. De las Cotizaciones de Afiliados Voluntarios
 
@@ -1491,6 +1325,22 @@ transitorio: La obligación de información a que se refiere la letra c) del art
 Asimismo, el orden de prelación para el pago de las cotizaciones previsionales señalado en el artículo 11 F de este Reglamento, comenzará a regir para la Operación Renta 2017. El pago de las cotizaciones previsionales que en la Operación Renta 2016 deba hacerse de conformidad con lo establecido en el numeral iii) del inciso primero del artículo 92 F de la ley se efectuará de acuerdo al orden de prelación señalado en el artículo 92 G de la citada ley, vigente a la fecha de publicación de la ley N° 20.894.
 
 Con todo, los saldos insolutos que adeuden los trabajadores independientes a que se refiere el artículo 89, por las rentas señaladas en el inciso primero del artículo 90, ambos de la ley, luego de las reliquidaciones efectuadas en las Operaciones Renta 2013, 2014 y 2015 y sus reajustes, intereses y multas, no se pagarán según el mecanismo establecido en el artículo 11 F del presente Reglamento, en conformidad a lo establecido en el inciso final del artículo segundo transitorio de la ley N° 20.894.
+
+#### Artículo 11°
+
+transitorio: Los pagos de cotizaciones mensuales que hayan sido realizados durante el año 2018, por los trabajadores independientes a que se refiere el artículo 89 de la ley, para los distintos regímenes de seguridad social señalados en el Título III de la ley y en el inciso primero del artículo cuarto transitorio de la ley N° 21.133, se imputarán a las cotizaciones de seguridad social que estén obligados a pagar estos trabajadores en el proceso de declaración de impuesto a la renta correspondiente al año tributario 2019, según corresponda. Por tanto, la información que deben proporcionar las distintas entidades previsionales para la determinación de la obligación previsional para el año tributario 2019 de los citados trabajadores independientes y la imputación de los referidos pagos a las respectivas cotizaciones, se regirán por las disposiciones vigentes en este reglamento con anterioridad a la publicación de las modificaciones realizadas a éste, en conformidad a la ley N° 21.133.
+
+#### Artículo 12°
+
+transitorio: Las modificaciones introducidas al artículo 11 M de este reglamento, que pasa a ser artículo 11 L, entrarán en vigencia el 1 de julio de 2020. Por tanto, la cobertura del seguro de invalidez y sobrevivencia para los trabajadores independientes a que se refiere el artículo 89 de la ley, que hubieren pagado sus cotizaciones en el proceso de declaración de impuesto a la renta correspondientes a los años tributarios 2019 y 2020, se calculará de acuerdo a las disposiciones vigentes en este reglamento con anterioridad a la publicación de las modificaciones realizadas a éste, en conformidad a la ley N° 21.133. A su vez, los referidos trabajadores que hubieren pagado sus cotizaciones en el proceso de declaración de impuesto a la renta correspondiente al año tributario 2021, tendrán una cobertura de dicho seguro desde el día 1 de mayo del año 2021 hasta el día 30 de junio del año 2022.
+
+#### Artículo 13°
+
+transitorio: Los trabajadores independientes a que se refiere el artículo 89 de la ley que, al 1 de enero de 2018, tengan 55 años o más, en el caso de los hombres, o 50 años o más, en el caso de las mujeres, no estarán obligados a efectuar las cotizaciones del Título III del decreto ley N° 3.500, de 1980, el siete por ciento destinado a financiar prestaciones de salud, la cotización del seguro social de la ley N° 16.744 y la cotización para el seguro de acompañamiento de niños y niñas de la ley N° 21.063. Sin perjuicio de lo anterior, dichos trabajadores independientes podrán efectuar voluntariamente pagos mensuales de cotizaciones de acuerdo a lo establecido en el artículo 11 de este reglamento.
+
+#### Artículo 14°
+
+transitorio: En caso que los trabajadores independientes que perciben rentas del inciso primero del artículo 90 de la ley que opten por la alternativa que establece el artículo segundo transitorio de la ley N° 21.133, para los efectos del pago de los subsidios por incapacidad laboral a que tuvieren derecho, la renta imponible de estos trabajadores será la establecida en los números 1 y 2 del artículo 11 B del presente reglamento, multiplicada por 5%, 17%, 27%, 37%, 47%, 57%, 70%, 80%, 90% y 100%, según sea el año tributario 2019 y siguientes respectivamente.
 
 2.- Derógase el Decreto Supremo N° 100 de 1988, modificado por el D.S. N° 144, del mismo año, ambos del Ministerio del Trabajo y Previsión Social, Subsecretaría del Previsión Social.
 
