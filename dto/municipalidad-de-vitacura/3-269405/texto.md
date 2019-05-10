@@ -1732,13 +1732,7 @@ En las áreas verdes de uso público no incorporadas al Sistema Metropolitano de
 
 #### Artículo 27
 
-Las edificaciones que generan una cuota igual o superior a 15 unidades de estacionamientos, sólo podrán construirse en lotes que tengan acceso vehicular a una calle de un ancho mínimo igual o superior a 15 m. entre Líneas Oficiales, o a dos o más calles de un ancho mínimo igual o superior a 10 m. entre Líneas Oficiales cada una, salvo las excepciones indicadas bajo los cuadros de las Áreas de Edificación (1).
-
-______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/450, D.O. 13.03.06. (Modificación Nº 12)
+Derogado.
 
 #### Artículo 28
 
@@ -1778,109 +1772,43 @@ Derogado (1).
 
 #### Artículo 35
 
-Los estacionamientos se regirán por lo señalado en la Ordenanza General de Urbanismo y Construcciones, por las normas y estándares establecidos en el Plan Regulador Metropolitano de Santiago y por las siguientes disposiciones:
+Estacionamientos
 
-1.- ESTÁNDAR MÍNIMO DE ESTACIONAMIENTOS.
+Todo edificio que se construya en el territorio comunal, sea de obras nuevas, ampliaciones, alteraciones, reconstrucciones, cambios de destino total o parcial y otros, se regirá por lo señalado en la Ordenanza General de Urbanismo y Construcciones y deberá cumplir con las normas y estándares mínimos de estacionamiento señaladas en el presente artículo.
 
-a) Se calculará de acuerdo a la definición de superficie útil establecida en la Ordenanza General de Urbanismo y Construcciones: suma de la superficie edificada de las unidades que conforman un edificio, calculada hasta el eje de los muros o líneas divisorias entre ellas y la superficie común. En los casos de edificaciones constituidas por unidades funcionales (acogidas o no a la Ley de Copropiedad Inmobiliaria), se descontará previamente la superficie común destinada a circulaciones, bodegas e instalaciones como salas de máquinas, recintos de medidores, botaderos y receptores de basura.
+La dotación mínima de estacionamientos se calculará de acuerdo a la definición de superficie edificada de la Ordenanza General de Urbanismo y Construcciones, salvo en los casos de edificaciones constituidas por unidades funcionales (acogidas o no a la Ley de Copropiedad Inmobiliaria) en que se calculará en referencia a la definición de superficie útil de dicha Ordenanza.
 
-b) Las clases y actividades que a continuación se mencionan deben contemplar el número de estacionamientos que en cada caso se señala.
+.
 
-Cuando de la aplicación de la norma o estándar resulten cifras fraccionarias, éstas se aproximarán al entero superior.
+C.- Estacionamientos para buses, camiones o similares
 
-c) En predios que combinen actividades de diversa exigencia en cuanto al número de estacionamientos, el total corresponderá a la suma de las exigencias aplicables a cada una de ellas.
+Las edificaciones destinadas a hospedaje, supermercados, mercados, grandes tiendas, centros comerciales de todo tamaño y agrupaciones comerciales de más de 500 m2 útiles edificados, deberán disponer adicionalmente de estacionamientos para buses, camiones o similares, según los siguientes tramos de superficie útil construida:
 
-d) Los cambios de destino deberán cumplir con los estacionamientos exigidos en el presente Artículo. En cualquier caso, todo cambio de destino deberá contemplar un mínimo de 3 estacionamientos.
+.
 
-e) Los supermercados, mercados, grandes tiendas, centros comerciales de todo tamaño y agrupaciones comerciales de más de 500 m2. útiles edificados, deberán disponer adicionalmente de estacionamientos para buses, camiones o similares, según los siguientes tramos de superficie útil construida:
+D.- Estacionamientos para personas con discapacidad
 
-Hasta 1000 m2. 1 estacionamiento de 30 m2.
+De la dotación de estacionamientos que deba proyectarse, deberán habilitarse para el uso de personas con discapacidad, los estacionamientos resultantes de la aplicación de la siguiente tabla, con un mínimo de un estacionamiento, salvo que se trate de viviendas unifamiliares o cambio de destino de las mismas.
 
-1000 a 3000 m2. 2 estacionamientos de 30 m2. c/u
+.
 
-3000 a 6000 m2. 3 estacionamientos de 30 m2. c/u
+E.- Estacionamientos para bicicletas
 
-6000 a 12000 m2. 4 estacionamientos de 30 m2. c/u
+Todos los edificios que se proyecten con una carga de ocupación superior a 50 personas deberán incluir, como mínimo 1 estacionamiento para bicicletas por cada 2 estacionamientos para automóviles que contemple el proyecto, cumpliendo los requisitos de diseño y emplazamiento señalados en la Ordenanza General de Urbanismo y Construcciones.
 
-Más de 12000 m2. 5 estacionamientos de 30 m2. c/u
+Todos los proyectos podrán disminuir la dotación mínima de estacionamientos de automóviles exigida, hasta en un tercio de la cuota definida, a razón de un estacionamiento de automóviles por cada 3 estacionamientos de bicicletas adicionales.
 
-f) Los recintos destinados exclusivamente a celebración de culto, deberán disponer de los estacionamientos indicados en la tabla; con excepción de los recintos destinados a oficinas, salas de reunión u otros destinos anexos, los cuales se regirán por lo establecido para cada uno de ellos en esta Ordenanza. Para estos efectos, se podrá destinar hasta un 30% del antejardín para estacionamiento, siempre que dicho antejardín tenga un fondo igual o superior a 20 m.
+F.- Normas sobre Estacionamientos
 
-g) Los recintos destinados a la educación pre-escolar, básica y media de más de 100 alumnos, deberán disponer, adicionalmente, de un recinto de estacionamiento para uso de los vehículos de transporte escolar, con una capacidad de 1 estacionamiento por cada 30 alumnos.
+a) En predios que combinen actividades de diversa exigencia en cuanto al número de estacionamientos, el total corresponderá a la suma de las exigencias aplicables a cada una de ellas.
 
-h) La dotación mínima de estacionamientos para visitas, tanto estándar como para discapacitados, exigidos por esta ordenanza y por la Ordenanza General de Urbanismo y Construcciones, no podrán venderse ni asignarse y deberán mantenerse disponibles para el uso público. Estos estacionamientos podrán ubicarse en el antejardín hasta en un tercio de su frente.
+b) En edificios de vivienda de 4 pisos o más los estacionamientos de visita no podrán ubicarse en el antejardín, salvo aquellos destinados a bicicletas. La dotación mínima de estacionamientos para visitas, tanto estándar como para discapacitados, exigidos por esta Ordenanza y por la Ordenanza General de Urbanismo y Construcciones, serán comunes, no podrán venderse ni asignarse y deberán mantenerse disponibles para el uso público.
 
-i) Los proyectos deberán contar con la aprobación de un Estudio de Impacto sobre el Sistema de Transporte Urbano (EISTU), si corresponde, en conformidad con lo dispuesto por la Ley General de Urbanismo y Construcciones. Al efecto, se deberá utilizar la metodología aprobada por Resolución Exenta Nº 2.379, del Ministerio de Vivienda y Urbanismo, de fecha 10 de julio de 2003, publicada en el Diario Oficial del 08 de septiembre de 2003, previo a la obtención del permiso de obras y al inicio de la construcción.(1)
+c) Los proyectos deberán contar con accesos vehiculares definidos y directos a las zonas de estacionamiento desde la calzada vehicular principal, calzadas secundarias o pistas segregadas según sea el caso. Dichos accesos deberán ubicarse conforme a lo indicado en la Ordenanza General de Urbanismo y Construcciones.
 
-______________________________
+d) Los accesos y salidas de los estacionamientos deberán consultar un tramo nivelado con el antejardín y la vereda dentro del predio, que respete como mínimo la franja inexcavada de antejardín establecida en el artículo 21 de la Ordenanza Local y no podrán modificar las características peatonales de la acera, interrumpir su continuidad, disminuir su ancho, bajar su nivel o colocar pavimentos diferentes a los existentes o proyectados para el espacio público, en conformidad a lo indicado en la Ordenanza General de Urbanismo y Construcciones en lo que a personas con discapacidad se refiere. Toda solución vehicular deberá resolverse al interior de la Línea Oficial, y no podrá utilizar el espacio público como área de maniobras.
 
-(1) Modificado por Decreto Alcaldicio secc 1ª Nº
-
-3/3.084, D.O. 22.12..07 (Modificación Nº 19)
-
-Cuadro 4: Estacionamientos en Usos Residenciales
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 14
-
-Cuadro 5: Estacionamientos en Usos de Equipamiento
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 14
-
-2.- DIMENSIONAMIENTO Y CIRCULACIONES.
-
-a) Las dimensiones libres mínimas de un espacio de estacionamiento serán de 5 m. de largo, 2,5 m. de ancho y 2 m. de altura bajo viga.
-
-Las dimensiones libres mínimas de un espacio de estacionamiento para vehículos de transporte escolar serán de 6,00 m. de largo, 3,00 m. de ancho y 4,00 m. de altura bajo viga.
-
-b) Los estacionamientos deberán desarrollarse en un plano horizontal, aceptándose una pendiente máxima de 10 %. Cada estacionamiento deberá tener libre acceso y salida, salvo que se disponga de áreas de retorno. No obstante, se permitirá disponer de estacionamientos dobles, hasta en un 30 % del total exigido, debiendo consultarse un área de maniobra que asegure una fácil operación.
-
-c) Los anchos mínimos de rampas y pasillos de circulación de los estacionamientos cuyo ángulo en relación al pasillo sea inferior a 90º, se regirán por la siguiente tabla:
-
-45° 30° 0°
-
-Ancho mínimo de pasillo 4 m. 3,3 m. 3 m.
-
-d) Los anchos mínimos de rampas y pasillos de circulación de los estacionamientos cuyo ángulo en relación al pasillo sea de 90º, se regirán por la siguiente tabla:
-
-N° estacionamientos Hasta De 51 Más
-
-50 a 100 de 100
-
-Rampa 5 m. 5,5 m. 6 m.
-
-Pasillo de uso privado 5 m. 5,5 m. 6 m.
-
-Pasillo de uso público 6 m. 6 m. 6 m.
-
-- En los puntos de giro en 180º, las rampas o pasillos deben considerar un ojo de al menos 6 m. de diámetro.
-
-- En rampas o pasillos de acceso o salida, con un sólo sentido de circulación, su ancho podrá reducirse hasta un mínimo de 3,5 m.
-
-- La pendiente de rampas se medirá en el punto más desfavorable.
-
-- Para estacionamientos en superficie producto de cambio de destino de una vivienda existente, se autoriza un ancho de 3 m. en los accesos y pasillos de circulación.
-
-3.- NORMAS SOBRE LOS ACCESOS.
-
-Todo proyecto presentado a la Dirección de Obras para su aprobación, deberá presentar obligatoriamente un plano de solución vehicular a nivel de primer piso que incluya el espacio público frente a la propiedad hasta el eje de la calzada.
-
-a) Los proyectos deberán contar con accesos vehiculares definidos y directos a las zonas de estacionamiento desde la vía. Dichos accesos deberán ubicarse conforme a lo indicado en el Artículo 2.4.4., numeral 4, de la Ordenanza General de Urbanismo y Construcciones.
-
-b) Dichos puntos estarán constituidos por un solo rebaje de solera de 6 m. ó 2 de 3,5 m. para cada predio. La distancia entre dos rebajes no podrá ser menor a 5 m. para un mismo predio.
-
-No se permite superar estas medidas de rebaje de solera en accesos en predios contiguos.
-
-c) Las zonas de estacionamiento en terreno natural o primer piso, deberán contar con arborización, con un diseño a definir por los proyectistas en conjunto con la Dirección de Obras Municipal o las unidades correspondientes, con un estándar mínimo de un árbol por cada dos estacionamientos proyectados.
-
-d) Los accesos y salidas de los estacionamientos deberán consultar un tramo horizontal, dentro del predio, de un largo no inferior a 5 m, y no podrán modificar las características peatonales de la acera, interrumpir su continuidad, disminuir su ancho, bajar su nivel o colocar pavimentos diferentes a los aprobados por la Dirección de Obras Municipales, en conformidad a lo indicado en el Artículo 2.2.8. de la Ordenanza General de Urbanismo y Construcciones en lo que a desplazamiento de personas con discapacidad se refiere.
-
-e) Toda solución vehicular deberá resolverse al interior de la Línea Oficial, y no podrá utilizar el espacio público como área de maniobras.
-
-f) No podrán eliminarse ni reemplazarse los árboles existentes en el espacio público sin la autorización de la Dirección de Aseo y Ornato, según lo establece la 'Ordenanza de Aseo y Ornato' comunal. De ser imprescindible la remoción de un ejemplar, deberá ser repuesto obligatoriamente con la especie, en el eje y con el distanciamiento correspondiente a la calle en que se encuentra, de acuerdo al 'Plan Maestro de Arborización de la Comuna' de la misma Dirección comunal.
-
-g) Todo edificio acogido a normas de densificación deberá tener su ingreso por áreas de edificación de igual o mayor grado de densificación. Se exceptúan los proyectos que justifiquen técnicamente la conveniencia de ubicar en otra forma sus ingresos mediante un estudio de accesos aprobado por la Dirección de Tránsito.
-
-h) Los proyectos que contemplen 10 o más unidades de estacionamiento no podrán generar accesos vehiculares por vías de un ancho inferior a 10 m. ni por una calle ciega (fondo de saco). Se exceptúan los proyectos que justifiquen técnicamente mediante un estudio de accesos la conveniencia de ubicar allí sus ingresos, siempre que cuenten con autorización expresa del Director de Obras Municipales.
+e) Aquellos estacionamientos y sus accesos que contemplen plantación o reposición de especies vegetales en la vía pública o en áreas afectas a utilidad pública, deberán realizarse en conformidad al Plano de Detalle respectivo (si lo hubiera) y de acuerdo a las exigencias establecidas en la Ordenanza de la Dirección de Medioambiente, Aseo y Ornato vigente.
 
 CAPÍTULO IV: Zonificación y Normas Específicas
 
@@ -3812,191 +3740,53 @@ CAPÍTULO V: Vialidad
 
 #### Artículo 44
 
-La Vialidad estructurante del Área Urbana Comunal regida por el presente Plano Regulador, está constituida por el conjunto de Avenidas, Calles y Caminos existentes o proyectadas, que corresponde a las señaladas como tales en los cuadros de Vialidad de la presente Ordenanza.
+Vialidad afecta a declaratoria de utilidad pública
+
+Los terrenos destinados a circulaciones afectas a declaratorias a utilidad pública de conformidad al artículo 59 de la Ley General de Urbanismo y Construcciones, incluyendo aquellas definidas por el Sistema Vial Metropolitano, en el área de aplicación de la presente Ordenanza, son las siguientes:
+
+.
 
 #### Artículo 45
 
-La Vialidad Local existente está conformada por el conjunto de Calles y Avenidas no incluidas como Expresas, Troncales o Colectoras. Sus anchos, perfiles geométricos, así como el resto de las características de estas vías, son las definidas mediante seccionales y/o proyectos de loteo según corresponda, todas las cuales privilegiarán el uso peatonal de estas áreas conforme a las disposiciones calles-vereda, contenidas en el volumen 3 "Recomendaciones para el Diseño de Elementos de Infraestructura Vial Urbana", del "Manual de Vialidad Urbana" aprobado por D.S. Nº. 12 MINVU de 1984.
+La Vialidad del Área Urbana Comunal regida por el presente Plan Regulador, está constituida por el conjunto de avenidas, calles y caminos existentes o proyectados, que conforman el Sistema Vial Metropolitano, clasificados como Vías Expresas y Troncales por el Plan Regulador Metropolitano de Santiago y aquellas que conforman el Sistema Vial Comunal, clasificadas por el Plan Regulador Comunal como Vías Colectoras, Locales y Pasajes, señaladas como tales en la presente Ordenanza.
 
-_______________________________
+La Vialidad Estructurante regida por el presente Plan Regulador está constituida por el conjunto de avenidas y calles existentes o proyectadas expresamente señaladas como vías expresas, troncales y colectoras según los cuadros siguientes de la presente Ordenanza.
 
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
+Sobre los Cuadros detallados en los próximos artículos, aplica la siguiente simbología:
 
-3/2253, D.O. 08.09.04. (Modificación Nº 7)
+..
 
 #### Artículo 46
 
-Los estudios de Tránsito que evalúen el impacto sobre la vialidad circundante a que se refiere el Artículo 2.4.3. de la Ordenanza General de Urbanismo y Construcciones, Estudios de Impacto sobre la Estructura Urbanística y Ambiental del Barrio a que se refiere los Artículos 4.5.4., 4.8.6. y 4.13.2., de la misma Ordenanza General, así como los estudios que sea necesario efectuar de acuerdo a lo establecido en la Ordenanza del Plan Regulador Metropolitano de Santiago, Título 7º, Capítulo 7.1, Artículo 7.1.5., deben considerar como ámbito del estudio, además de los aspectos técnicos y urbanísticos involucrados, la relación con la red vial metropolitana hasta el nivel de vías Expresas o Troncales.
+Los cuadros a continuación detallan los listados que recogen la clasificación de las vías expresas y troncales pertenecientes al Sistema Vial Metropolitano, en el área de aplicación de la presente Ordenanza, estableciéndoles como Vialidad Estructurante.
+
+I.- VIALIDAD METROPOLITANA
+
+I.1.- Vialidad Expresa del Sistema Vial Metropolitano (Vialidad Estructurante)
+
+.
+
+I.2.- Vialidad Troncal del Sistema Vial Metropolitano (Vialidad Estructurante)
+
+..
 
 #### Artículo 47
 
-El listado de las vías Expresas, Troncales, Colectoras, así como Locales pertenecientes a la Red Vial Básica Comunal y aquellas que presentan modificaciones o redefiniciones tanto a su situación actual como proyectada; separada por su nivel de influencia en Vías Metropolitanas y Vías Comunales en el área de aplicación de la presente Ordenanza, es el siguiente:
+Los cuadros a continuación detallan los listados que recogen la clasificación de las vías colectoras pertenecientes al Sistema Vial Comunal, en el área de aplicación de la presente Ordenanza, estableciéndolas como Vialidad Estructurante.
 
-Cuadro 64: Nomenclatura de vías
+II.- VIALIDAD COMUNAL
 
-Nomenclatura: Definición
+Vías II.1.- Vialidad Colectora del Sistema Vial Comunal (Vialidad Estructurante)
 
-E Distancia entre Líneas Oficiales aprobada con
+.
 
-anterioridad al PRCV-93. Puede estar o no
+#### Artículo 47 bis
 
-materializada
+El Cuadro a continuación detalla el listado que recoge las vías que se clasifican como locales asimilándolas acorde a lo dispuesto en el artículo 2.3.1 de la OGUC, pertenecientes al Sistema Vial Comunal, en el área de aplicación de la presente Ordenanza.
 
-P Proyecto o ensanche de perfil oficial en PRCV-93
+.
 
-PV Proyecto o mejoramiento vial
-
-Var Perfil variable asimétrico concordante con
-
-aprobaciones anteriores
-
-MT Modificación de trazado
-
-* Vialidad Comunal Estructurante
-
-** Vías de enlace
-
-NOTA Las vías con distancias de su eje al Norte, Sur,
-
-Oriente y Poniente corresponden a aquellas que
-
-en su trazado varían de orientación, razón por
-
-la cual se deberá considerar en cada caso la
-
-orientación correspondiente
-
-I.- Vialidad Metropolitana
-
-1.- Sistema Vial Metropolitano
-
-1.1.- Carreteras de Acceso al Gran Santiago
-
-Vías Expresas
-
-Cuadro 65: Vías Expresas del Sistema Vial Metropolitano
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 27
-
-Vías Troncales
-
-Cuadro 66: Vías Troncales del Sistema Vial Metropolitano
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 27
-
-1.2.- Anillo de Circunvalación de las Comunas Periféricas
-
-Vías Troncales
-
-Cuadro 67: Vías Troncales del Sistema Vial Metropolitano, Circunvalación
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 27
-
-2.- Sistema Vial Intercomunal
-
-2.1.- Vías Intercomunales Principales
-
-Vías Troncales
-
-Cuadro 68: Vías Troncales del Sistema Vial Intercomunal
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 27
-
-2.2.- Vías Intercomunales
-
-Vías Colectoras
-
-Cuadro 69: Vías Colectoras del Sistema Vial Intercomunal
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 27
-
-(*) Reserva de faja vial en el subsuelo.
-
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/932, D.O. 23.04.03. (Modificación Nº 3)
-
-(2) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/204, D.O.26.01.07. (Modificación Nº 16)
-
-Vías Locales
-
-Cuadro 70: Vías Locales del Sistema Vial Intercomunal
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 27
-
-II Vialidad Comunal
-
-1.- Sistema Vial Comunal
-
-Vías Colectoras
-
-Cuadro 71: Vías Colectoras del Sistema Vial Comunal
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 28
-
-Vías Locales
-
-Cuadro 72: Vías Locales del Sistema Vial Comunal
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 28
-
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/2057, D.O.05.09.05. (Modificación Nº 9)
-
-(2) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/201, D.O.30.01.06. (Modificación Nº 13)
-
-(3) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/180, D.O. 31.01.06. (Modificación Nº 8)
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 28
-
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/931, D.O.23.04.03. (Modificación Nº 2)
-
-(2) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/204, D.O.26.01.07. (Modificación. Nº 16)
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 28
-
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/932, D.O.23.04.03. (Modificación Nº 3)
-
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA
-
-_______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/3.084, D.O. 22.12.07. (Modificación Nº 19)
-
-(2) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/1447, D.O.07.06.06. (Modificación Nº 15)
-
-(3) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/611, D.O.22.03.06. (Modificación Nº 8)
-
-(4) Modificado por Decreto Alcaldicio sección 1ª Nº
-
-3/932, D.O.23.04.03. (Modificación Nº 3)
+Todas las vías del Sistema Vial Comunal no clasificadas en los cuadros de los artículos precedentes que miden menos de 11 m. de ancho, se clasifican como Pasaje. En caso que estas vialidades presenten anchos variables, para estos efectos se considerará el ancho menor.
 
 CAPÍTULO VI: PUBLICIDAD
 
