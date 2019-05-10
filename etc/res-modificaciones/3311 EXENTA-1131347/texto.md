@@ -1,0 +1,7 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución N° 3.311, de 21 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Modifícase la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.020, del 11 de mayo de 2009, del Ministerio de Defensa Nacional, Subsecretaría de Marina, cuya transferencia fue inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría para las Fuerzas Armadas a Fs. 6 vta., N° 12, año 2010, modificada por resoluciones exentas 5.810, del 10 de agosto de 2011, N° 8.724, del 26 de septiembre de 2012 y N° 11.561, del 4 de diciembre de 2012, todas de la Subsecretaría para las Fuerzas Armadas, a nombre de su actual titular Salmones Blumar S.A., sociedad chilena, RUT. 76.653.690-5, con domicilio en Av. Juan Soler Manfredini 11, Of. 1202, Puerto Montt, en el sentido que la concesionaria debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 2.432, del 9 de agosto de 2016, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el N° 4 de la parte resolutiva del acto administrativo que otorgó la concesión de acuicultura.
+
+Santiago, 22 de abril de 2019.- Por orden del Subsecretario para las Fuerzas Armadas, Cristián García-Huidobro C., Jefe División Jurídica, Subsecretaría para las Fuerzas Armadas.
