@@ -14,6 +14,8 @@ Resuelvo:
 
 1.- Determínense, para las ciudades de Copiapó y Vallenar, de la Región de Atacama, los valores mínimos a partir de los cuales los siguientes tipos de proyectos podrán presentar el Informe Vial Básico (IVB), aludido en el resuelvo Nº 3, de la resolución exenta Nº 511/2012, del Ministerio de Transportes y Telecomunicaciones:
 
+.
+
 En el caso de proyectos que tienen más de un tipo de uso, se utilizará el más restrictivo.
 
 2.- Tratándose de proyectos de infraestructura que modifiquen las características físicas/operacionales de las vías que integran la Red Vial Básica, ya sea construcción, extensión, reducción y ampliación, podrán presentar el IVB para la aprobación de esta Secretaría Regional Ministerial.
