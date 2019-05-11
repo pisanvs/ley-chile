@@ -26,7 +26,7 @@ Afiliación y Procedimiento de Registro
 
 Para los efectos de este reglamento, los trabajadores independientes se entenderán afiliados al Instituto de Seguridad Laboral, salvo que se adhieran a alguna Mutualidad de Empleadores. En todo caso, la adhesión a las referidas Mutualidades se regirá conforme a lo establecido en sus estatutos orgánicos.
 
-Con todo, los trabajadores independientes de los artículos 88 y 89 de la ley N° 20.255 deberán registrarse en un organismo administrador de la ley N° 16.744, previo a efectuar su primera cotización.
+Con todo, los trabajadores independientes de los artículos 88 y 89 de la ley N° 20.255 deberán registrarse en un organismo administrador de la ley N° 16.744, previo a efectuar su primera cotización anual o mensual, según corresponda.
 
 Para estos efectos, se deberá utilizar el formulario de registro que se indica en el artículo 4°.
 
@@ -62,8 +62,6 @@ El trabajador independiente deberá acreditar la ocurrencia de un accidente a ca
 
 Constituyen también accidentes del trabajo los ocurridos en el trayecto directo, de ida o regreso, entre la habitación y el lugar de trabajo, y aquellos que ocurran en el trayecto directo entre dos lugares de trabajo, cuando se dirija desde su lugar de trabajo como independiente a su lugar de trabajo como dependiente o viceversa.
 
-Para acreditar la ocurrencia de los accidentes indicados, el trabajador independiente deberá suscribir o acompañar, a lo menos, una declaración circunstanciada y presentar todos los demás medios de prueba con que cuente. Le corresponderá asimismo otorgar al organismo administrador todas las facilidades para la verificación del origen y circunstancias del accidente.
-
 #### Artículo 6°
 
 El trabajador independiente podrá acreditar ante el respectivo organismo administrador el carácter profesional de alguna enfermedad que no estuviera enumerada en la lista contenida en el decreto supremo N° 109, de 1968, del Ministerio del Trabajo y Previsión Social, y que hubiera contraído como consecuencia directa de su trabajo.
@@ -74,23 +72,31 @@ Prestaciones Médicas y Económicas
 
 #### Artículo 7°
 
-Para tener derecho a las prestaciones de la ley N° 16.744, los trabajadores independientes deberán estar registrados en un organismo administrador, usando el formulario señalado en el artículo 4°, con anterioridad al accidente o al diagnóstico de la enfermedad. Además, deberán:
+Para tener derecho a las prestaciones de la ley N° 16.744, los trabajadores independientes deberán estar registrados en un organismo administrador, usando el formulario señalado en el artículo 4°, con anterioridad al accidente o al diagnóstico de la enfermedad. En el caso de los trabajadores que conforme a lo señalado en el penúltimo inciso del artículo 88 de la ley N° 20.255, se entiendan afiliados al Instituto de Seguridad Laboral, éstos se considerarán registrados ante dicho organismo administrador, para efectos de acceder a las referidas prestaciones, a partir del 1° de julio del año en que se pagaron las cotizaciones hasta el 30 de junio del año siguiente, sin perjuicio de la obligación del Instituto de Seguridad Laboral de realizar el registro en los términos del artículo 4°. En todo caso, el trabajador podrá en cualquier momento adherirse a otro Organismo Administrador y deberán traspasarse las cotizaciones restantes a dicho organismo.
 
-a) Haber enterado la cotización correspondiente al mes anteprecedente a aquél en que ocurrió el accidente o tuvo lugar el diagnóstico de la enfermedad profesional, o
+Además, los trabajadores independientes del artículo 89 de la ley N° 20.255, deberán:
 
-b) Haber pagado, a lo menos, seis cotizaciones, continuas o discontinuas, en los últimos doce meses anteriores a los mencionados siniestros, sea que aquéllas se hayan realizado en virtud de su calidad de trabajador independiente o dependiente.
+a) Haber enterado la cotización correspondiente al mes anteprecedente a aquél en que ocurrió el accidente o tuvo lugar el diagnóstico de la enfermedad, o haber pagado, a lo menos, seis cotizaciones, continuas o discontinuas, en los últimos doce meses anteriores a los mencionados siniestros, sea que aquéllas se hayan realizado en virtud de su calidad de trabajador independiente o dependiente; y
 
-Con todo, si se tratare de su primera afiliación al Seguro Social de la ley N° 16.744 en calidad de independiente, durante los tres primeros meses posteriores a su registro, accederán a las prestaciones del referido Seguro Social siempre que hubieren pagado, a lo menos, las cotizaciones del mes en que ocurrió el accidente o se diagnosticó la enfermedad de que se trate, y que dicho registro fuere previo a las contingencias ya señaladas.
+b) Haber pagado las cotizaciones para pensión y para salud, durante los mismos periodos señalados en el literal precedente.
 
-Adicionalmente, el trabajador independiente indicado en el artículo 89 de la ley N° 20.255 deberá haber pagado también sus cotizaciones para pensión y para salud.
+Con todo, si se tratare de su primera afiliación al Seguro Social de la ley N° 16.744 en calidad de independiente, durante los tres primeros meses posteriores a su registro, los trabajadores indicados en el artículo 89 de la ley N° 20.255 accederán a las prestaciones del referido Seguro Social siempre que hubieren pagado, a lo menos, las cotizaciones del mes en que ocurrió el accidente o se diagnosticó la enfermedad de que se trate, y que dicho registro fuere previo a las contingencias ya señaladas.
 
 #### Artículo 8°
 
 El trabajador independiente sólo recibirá las prestaciones médicas o económicas que establece el Seguro Social de la ley N° 16.744 si, a la fecha del accidente o del diagnóstico de la enfermedad, cumple las exigencias establecidas en el artículo precedente.
 
-No obstante, aun cuando el trabajador independiente del artículo 88 de la ley N° 20.255 no haya pagado sus cotizaciones de conformidad con lo prescrito en el inciso tercero de dicho artículo o si habiéndolas enterado, éstas son menores a las que corresponderían conforme a la renta imponible anual del inciso primero del artículo 90 del decreto ley N° 3.500, de 1980, determinada con los ingresos del respectivo año calendario, al practicarse la respectiva reliquidación, se concederán o reliquidarán los subsidios por incapacidad temporal, indemnizaciones o pensiones que le hubieren correspondido.
+La base de cálculo para determinar las prestaciones económicas a las que tengan derecho los trabajadores independientes del artículo 88 de la ley N° 20.255, corresponderá a la renta imponible anual a que se refiere el inciso primero del artículo 90 del decreto ley Nº 3.500, de 1980, dividida por doce. Si dicho trabajador hubiere cotizado mensualmente, en virtud de lo dispuesto en el inciso cuarto del artículo 90 del decreto ley N° 3.500, de 1980, para efectos de incrementar la base de cálculo durante el año en que se encontrare cubierto, estas rentas se adicionarán a la renta imponible anual y la suma total se dividirá por doce. En todo caso, el monto mensual de la renta utilizada para calcular los beneficios no podrá exceder el límite máximo establecido en el artículo 16 del referido decreto ley N° 3.500, de 1980.
 
-Para efectos de lo dispuesto en el inciso precedente, se deberán considerar las cotizaciones que la Tesorería General de la República hubiere enterado en el respectivo organismo administrador, con cargo a las cantidades retenidas o pagadas en conformidad a lo establecido en los artículos 84, 88 y 89 de la Ley sobre Impuesto a la Renta y, si dichos recursos fueren insuficientes, con el pago que además efectúe el trabajador para cubrir el saldo. Lo anterior, de acuerdo con lo establecido en el artículo 92 F del decreto ley N° 3.500, de 1980.
+En caso que el trabajador independiente a que se refiere el artículo 88 de la ley N° 20.255 hubiere percibido subsidio por incapacidad laboral durante el año calendario en el que obtuvo las rentas, en virtud de las cuales se determinó su renta imponible anual, el organismo administrador deberá sumar a la renta imponible anual el monto de los subsidios por incapacidad laboral percibidos por el trabajador independiente en el mencionado año, cuyo resultado se dividirá por doce, para efectos de establecer la base de cálculo del subsidio por incapacidad laboral a que tenga derecho.
+
+Para la determinación de la base de cálculo de las indemnizaciones y pensiones del seguro de la ley N° 16.744, el organismo administrador deberá dividir la renta imponible anual por el número de meses en que el trabajador independiente del artículo 88 de la ley N° 20.255 obtuvo renta, excluyendo aquellos meses en que hubiere percibido subsidio por incapacidad laboral y no hubiere percibido rentas.
+
+#### Artículo 8° bis
+
+La base de cálculo de los subsidios por incapacidad laboral de los trabajadores independientes que cotizan voluntariamente de forma mensual, en virtud de lo dispuesto en el inciso tercero del artículo 90 y en el inciso cuarto del artículo 92, del decreto ley N° 3.500, de 1980, corresponderá al promedio de la renta mensual imponible, del subsidio o de ambos, por los que hubieren cotizado en los últimos seis meses anteriores al mes en que se inicia la incapacidad laboral.
+
+Para la determinación de la base de cálculo de las indemnizaciones y pensiones que se concedan a los trabajadores independientes señalados en el inciso precedente, se estará a lo dispuesto en el artículo 26 de la ley N° 16.744.
 
 ## Título Quinto
 
@@ -120,11 +126,13 @@ c) Excepcionalmente, el accidentado puede ser atendido en primera instancia en u
 
 d) Para que el trabajador independiente pueda ser trasladado a un centro asistencial de su organismo administrador o a aquél con el cual éste tenga convenio, deberá contar con la autorización por escrito del médico que actuará por encargo del organismo administrador.
 
+e) Corresponderá a la Superintendencia de Seguridad Social impartir las instrucciones necesarias para la correcta aplicación del procedimiento de calificación de accidentes del trabajo y de trayecto sufridos por trabajadores independientes.
+
 #### Artículo 11
 
 En caso de enfermedad profesional deberá aplicarse el siguiente procedimiento:
 
-a) Si un trabajador independiente considera que padece una enfermedad o presenta síntomas que presumiblemente tienen un origen profesional, deberá realizar la correspondiente 'Denuncia Individual de Enfermedad Profesional' (DIEP) al momento de requerir su atención en el establecimiento asistencial del respectivo organismo administrador, en donde se le deberán realizar los exámenes y procedimientos que sean necesarios para establecer el origen común o profesional de la enfermedad. El trabajador deberá guardar una copia de la DIEP.
+a) Si un trabajador independiente considera que padece una enfermedad o presenta síntomas que presumiblemente tienen un origen profesional, deberá realizar la correspondiente 'Denuncia Individual de Enfermedad Profesional' (DIEP) al momento de requerir su atención en el establecimiento asistencial del respectivo organismo administrador, en donde se le deberán realizar los exámenes y procedimientos que sean necesarios para establecer el origen común o profesional de la enfermedad, conforme a las instrucciones impartidas por la Superintendencia de Seguridad Social. El trabajador deberá guardar una copia de la DIEP.
 
 b) En el caso que el trabajador independiente no hubiere realizado la denuncia, ésta deberá ser efectuada por su derecho-habientes o por el médico tratante. Sin perjuicio de lo señalado, cualquier persona que haya tenido conocimiento de los hechos podrá hacer la denuncia.
 
@@ -154,33 +162,27 @@ De las Cotizaciones
 
 #### Artículo 13
 
-Los trabajadores independientes de los artículos 88 y 89 de la ley N° 20.255, deben efectuar, mensualmente, en el organismo administrador del Seguro Social de la Ley N° 16.744, a que se encuentren afectos, la cotización básica contemplada en la letra a) del artículo 15 de la ley N° 16.744, la cotización adicional diferenciada que corresponda en los términos previstos en los artículos 15 y 16 de la ley N° 16.744 y en sus respectivos reglamentos, y la cotización extraordinaria establecida por el artículo sexto transitorio de la ley N° 19.578.
+Los trabajadores independientes de los artículos 88 y 89 de la ley N° 20.255, deben efectuar, anual o mensualmente, según corresponda, en el organismo administrador del Seguro Social de la Ley N° 16.744, a que se encuentren afectos, la cotización básica contemplada en la letra a) del artículo 15 de la ley N° 16.744, la cotización adicional diferenciada que corresponda en los términos previstos en los artículos 15 y 16 de la ley N° 16.744 y en sus respectivos reglamentos, y la cotización extraordinaria establecida por el artículo sexto transitorio de la ley N° 19.578.
 
-Las cotizaciones de los trabajadores independientes del artículo 88 de la ley N° 20.255, se calcularán sobre la base de la renta que declaren mensualmente. Estos trabajadores podrán enterar sus cotizaciones de la ley N° 16.744, de forma independiente del pago de sus cotizaciones para pensiones y salud respecto de un mismo mes.
+Las cotizaciones de los trabajadores independientes del artículo 88 de la ley N° 20.255, se calcularán sobre la base de la renta establecida en los incisos primero y segundo del artículo 90 del decreto ley N° 3.500, de 1980 y se pagarán anualmente con cargo a las cantidades retenidas o pagadas en conformidad a los artículos 74 N° 2, 84 letra b), 88 y 89 de la Ley sobre Impuesto a la Renta, de acuerdo a la prelación señalada en el artículo 92 G del citado decreto ley. Además, estos trabajadores podrán cotizar mensualmente, conforme a lo dispuesto en los artículos 90 y 92 del decreto ley N° 3.500, de 1980.
 
-Sin perjuicio de lo dispuesto en el inciso segundo, se practicará una reliquidación entre las rentas por las cuales los trabajadores independientes del artículo 88 de la ley N° 20.255 cotizaron mensualmente en un año y la renta imponible anual señalada en el inciso primero del artículo 90 del decreto ley N° 3.500, de 1980, determinada con los ingresos de dicho año. En el evento que estos trabajadores no hayan cotizado mensualmente o si, efectuada la reliquidación, existieran rentas imponibles por las cuales no cotizaron, se procederá a su pago con cargo a las cantidades retenidas o pagadas en conformidad a lo establecido en los artículos 84, 88 y 89 de la Ley sobre Impuesto a la Renta, de acuerdo a la prelación señalada en el artículo 92 G del citado decreto ley. Si dichos recursos no alcanzaren para pagar las cotizaciones que debieron enterarse, el saldo adeudado podrá ser pagado directamente por el trabajador. Lo anterior, de conformidad con el artículo 92 F del decreto ley en referencia.
+Durante el mes de febrero de cada año, la Superintendencia de Seguridad Social informará al Servicio de Impuestos Internos, el organismo administrador al que los trabajadores independientes se encontraban afiliados al 31 de diciembre del año anterior y la tasa de cotización adicional que corresponda.
 
-En el caso de los trabajadores independientes del artículo 89 de la ley N° 20.255, las cotizaciones se calcularán sobre la base de la misma renta por la cual efectúan sus cotizaciones para pensiones.
+Si el trabajador independiente a que se refiere el inciso segundo efectúa cotizaciones mensuales, conforme a lo dispuesto en el inciso cuarto del artículo 90 del decreto ley N° 3.500, de 1980, la renta mensual imponible por la que cotice no podrá ser inferior a la diferencia entre un ingreso mínimo mensual y la renta imponible anual a que se refiere el inciso primero del citado artículo 90, dividida por doce. Asimismo, la suma de la renta imponible por la que cotice mensualmente y la renta imponible anual dividida por doce, no podrá exceder el límite máximo establecido en el artículo 16 del referido decreto ley Nº 3.500, de 1980, vigente al 31 de diciembre del año al que corresponde la renta imponible anual. El valor de la unidad de fomento necesaria para calcular el equivalente en pesos del límite máximo imponible, será el vigente a dicha fecha.
 
-La renta mensual imponible de los trabajadores independientes de los artículos 88 y 89 de la ley N° 20.255, para efectos del Seguro Social de la ley N° 16.744, no podrá ser inferior a un ingreso mínimo mensual ni superior al límite máximo imponible que resulte de la aplicación del artículo 16 del decreto ley N° 3.500, de 1980.
+En el caso de los trabajadores independientes del artículo 89 de la ley N° 20.255, las cotizaciones se calcularán sobre la base de la misma renta por la cual efectúan sus cotizaciones para pensiones y no podrá ser inferior a un ingreso mínimo mensual ni superior al límite máximo imponible que resulte de la aplicación del artículo 16 del decreto ley N° 3.500, de 1980.
 
-Las cotizaciones de la ley N° 16.744 no se considerarán renta para los efectos de la Ley sobre Impuesto a la Renta.
+Las cotizaciones de la ley N° 16.744 tendrán el carácter de previsionales y no se considerarán renta para los efectos de la Ley sobre Impuesto a la Renta.
 
 #### Artículo 14
 
 La cotización adicional diferenciada a que se refiere la letra b) del artículo 15 de la ley N° 16.744 será la establecida en el decreto supremo N° 110, de 1968, del Ministerio del Trabajo y Previsión Social, según la actividad que desarrolle el trabajador independiente y, si desarrolla dos o más, por aquélla que sea la principal.
 
-Para los efectos de la determinación de la tasa de cotización adicional diferenciada, los socios de sociedades de personas, socios de sociedades en comandita por acciones, empresarios individuales y directores de sociedades en general, que se desempeñen como trabajadores independientes en la respectiva sociedad o empresa, se considerarán como trabajadores de esta última.
-
-INCISO FINAL SUPRIMIDO.
-
 #### Artículo 15
 
-Las cotizaciones que establece la ley N° 16.744 y el artículo sexto transitorio de la ley N° 19.578, deberán pagarse mensualmente ante el organismo administrador del Seguro Social contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales a que se encontrare afecto el respectivo trabajador, hasta el último día hábil del mes calendario siguiente a aquél a que corresponde la renta. No procede que los trabajadores independientes coticen por meses atrasados, ni efectúen declaraciones sin pago. Ello, sin perjuicio de lo dispuesto en el inciso tercero del artículo 13.
+Los trabajadores del artículo 89 de la ley Nº 20.255, deberán pagar mensualmente las cotizaciones que establece la ley Nº 16.744 y el artículo sexto transitorio de la ley N° 19.578, ante el organismo administrador del Seguro Social contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales a que se encontrare afecto, hasta el último día hábil del mes calendario siguiente a aquél a que corresponde la renta. No procede que los referidos trabajadores independientes coticen por meses atrasados, ni efectúen declaraciones sin pago.
 
 Los organismos administradores del Seguro de la ley N° 16.744, tienen prohibido recibir fuera de plazo las cotizaciones de los afiliados independientes voluntarios a que alude el artículo 89 de la ley N° 20.255.
-
-Para efectos del pago de las cotizaciones, los socios de sociedades de personas, socios de sociedades en comandita por acciones, empresarios individuales y directores de sociedades en general, que se desempeñen como trabajadores independientes en la respectiva sociedad o empresa, se incorporarán como un trabajador más en la planilla de la empresa.
 
 #### Artículo 16
 
@@ -200,7 +202,7 @@ El trabajador independiente deberá declarar, al momento de registrarse en una M
 
 Será obligación de los trabajadores independientes implementar todas las medidas de higiene y seguridad en el trabajo que le prescriba su organismo administrador o las respectivas entidades fiscalizadoras del Seguro Social de la ley N° 16.744.
 
-Sin perjuicio de lo anterior, el organismo administrador podrá aplicarle a los trabajadores independientes afiliados que no implementen las medidas de higiene y seguridad que les prescriban, la multa establecida en el artículo 80 de la ley N° 16.744, como asimismo los recargos en la cotización adicional que procedan, de acuerdo con lo dispuesto en el decreto supremo N° 67, de 1999, del Ministerio del Trabajo y Previsión Social, sin perjuicio de las facultades de los demás organismos competentes.
+Sin perjuicio de lo anterior, el organismo administrador deberá aplicarle a los trabajadores independientes afiliados que no implementen las medidas de higiene y seguridad que les prescriban, la multa establecida en el artículo 80 de la ley N° 16.744, como asimismo los recargos en la cotización adicional que procedan, de acuerdo con lo dispuesto en el decreto supremo N° 67, de 1999, del Ministerio del Trabajo y Previsión Social, sin perjuicio de las facultades de los demás organismos competentes.
 
 #### Artículo 19
 
@@ -220,7 +222,7 @@ En todo lo que no sea contrario a lo dispuesto en los artículos 88, 89, trigés
 
 #### Artículo Primero
 
-A contar del 1° de octubre de 2008 a los trabajadores independientes afiliados a regímenes de pensiones administrados por el Instituto de Previsión Social, que se encuentren afectos al Seguro Social de la ley N° 16.744, les serán aplicables las normas establecidas en los incisos segundo, cuarto y noveno del artículo 88 de la ley N° 20.255. En todo caso, la base imponible y el límite mínimo y máximo para el pago de cotizaciones de que se trata, se regirá por lo dispuesto en el artículo 1° de la ley N° 18.095.
+A contar del 1° de octubre de 2008 a los trabajadores independientes afiliados a regímenes de pensiones administrados por el Instituto de Previsión Social, que se encuentren afectos al Seguro Social de la ley N° 16.744, les serán aplicables las normas establecidas en el inciso segundo del artículo 88 y en los incisos tercero y quinto del artículo 89 de la ley N° 20.255. En todo caso, la base imponible y el límite mínimo y máximo para el pago de cotizaciones de que se trata, se regirá por lo dispuesto en el artículo 1° de la ley N° 18.095.
 
 #### Artículo Segundo
 
