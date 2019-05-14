@@ -1,0 +1,5 @@
+APRUEBA TÉRMINO DE CONTRATO DE COMODATO ENTRE LA SUPERINTENDENCIA DE SEGURIDAD SOCIAL Y EL INSTITUTO DE PREVISIÓN SOCIAL, RESPECTO DE LA OFICINA N° 1111, DEL INMUEBLE INSTITUCIONAL UBICADO EN CALLE HUÉRFANOS N° 886, DE LA COMUNA Y CIUDAD DE SANTIAGO
+
+Por resolución exenta I N° 9, de 2 de abril de 2019, el Jefe del Departamento de Administración e Inmobiliaria del Instituto de Previsión Social, aprobó el documento "Término de Contrato de Comodato", suscrito con fecha 15 de marzo de 2019, entre este Instituto de Previsión Social, representado por dicha jefatura, conforme a sus facultades delegadas y la Superintendencia de Seguridad Social, mediante el cual las partes acuerdan poner término al Contrato de Comodato, de 1 de septiembre de 1997, aprobado por resolución exenta N° 443, de 1997.
+
+Santiago, 8 de mayo de 2019.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
