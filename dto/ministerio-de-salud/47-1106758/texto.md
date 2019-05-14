@@ -162,9 +162,15 @@ La Jefatura Superior del nivel nacional convocará a la elección de los Represe
 
 DISPOSICIONES TRANSITORIAS
 
-#### Artículo 1°
+#### Artículo 1º
 
-transitorio.- La primera aplicación del presente decreto será excepcionalmente desde el 1 de diciembre del año que entra en vigencia el presente Reglamento, al 30 de septiembre del año siguiente, debiendo emitirse por única vez una Calificación que contemple 10 meses de duración.
+transitorio.- La primera aplicación del presente decreto será excepcionalmente desde el 1 de diciembre del año que entre en vigencia el reglamento, al 31 de octubre del año siguiente, debiendo emitirse una calificación que contempla 11 meses de duración.
+
+De esta forma, la precalificación del primer período se efectuará dentro de los 15 días hábiles siguientes al vencimiento de los 11 meses y la Calificación se efectuará por las Juntas Calificadoras dentro de los 20 días hábiles siguientes al vencimiento del período de precalificación.
+
+Asimismo, la segunda aplicación del presente decreto será excepcionalmente desde el 1 de noviembre del año siguiente al de publicación de este decreto al 30 de septiembre, debiendo emitirse por una calificación que contempla 11 meses de duración.
+
+Esta precalificación se efectuará dentro de los 15 días hábiles siguientes al vencimiento de los 11 meses y la Calificación se efectuará por las Juntas Calificadoras dentro de los 20 días hábiles siguientes al vencimiento del período de precalificación.
 
 #### Artículo 2°
 
