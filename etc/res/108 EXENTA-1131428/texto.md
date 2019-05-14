@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO DE COLABORACIÓN ENTRE EL MINISTERIO DE RELACIONES EXTERIORES Y EL INSTITUTO DE PREVISIÓN SOCIAL, SOBRE MATERIA QUE INDICA Y DEJA SIN EFECTO RESOLUCIONES EXENTAS QUE SEÑALA
+
+Por resolución exenta N° 108, de 2 de abril de 2019, el Director Nacional del Instituto de Previsión Social, aprobó el Convenio de Colaboración entre el Ministerio de Relaciones Exteriores y el Instituto de Previsión Social, suscrito con fecha 26 de noviembre de 2018 y aprobado por la División Jurídica con fecha 23 de noviembre de 2018, cuyo objetivo es entregar un servicio a los usuarios interesados que residan en el extranjero, en materias relativas a consultas o solicitudes de beneficios previsionales derivados de la afiliación a las ex Cajas de Previsión del antiguo régimen previsional y de las leyes especiales de reparación, administradas por este Servicio.
+
+Santiago, 8 de mayo de 2019.- Patricio Coronado Rojo, Director Nacional.
