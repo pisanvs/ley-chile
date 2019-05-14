@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO DE RECLUTAMIENTO Y SELECCIÓN", VERSIÓN N° 7 Y DEJA SIN EFECTO RESOLUCIÓN N° 113 EXENTA, DE 24.02.2017
+
+Por resolución exenta N° 144, de 22 de abril de 2019, el Director Nacional del Instituto de Previsión Social, aprobó para el Instituto de Previsión Social, el documento denominado "Procedimiento de Reclutamiento y Selección", versión N° 7, que se adjunta como parte integrante de la presente resolución exenta, aprobado por la División Jurídica con fecha 3 de abril de 2019, cuyo objetivo es describir los procedimientos utilizados en los procesos de reclutamiento y selección de personal, apegándose a los principios de igualdad en la postulación, transparencia, objetividad y no discriminación, a fin de escoger a la candidata o candidato más idóneo para proveer un determinado cargo o desempeñar una determinada función.
+
+Santiago, 8 de mayo de 2019.- Patricio Coronado Rojo, Director Nacional.
