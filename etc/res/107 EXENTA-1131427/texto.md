@@ -1,0 +1,5 @@
+SE CEDE EL INMUEBLE INSTITUCIONAL UBICADO EN CALLE REUMEN N° 01875, DEPARTAMENTO 52, BLOCK L, SECTOR COVIEFI, DE LA COMUNA Y REGIÓN DE ANTOFAGASTA, A FUNCIONARIO QUE INDICA
+
+Por resolución exenta N° 107, de 2 de abril de 2019, el Director Nacional del Instituto de Previsión Social, cedió al funcionario don Sergio Ariel Luna Gallardo, el inmueble institucional ubicado en calle Reumen N° 01875, Departamento 52, Block L, Sector Coviefi, de la comuna y Región de Antofagasta, de conformidad con lo dispuesto en el inciso segundo del artículo 91°, del Estatuto Administrativo, derecho que entrará en vigencia, a contar de la fecha de la total tramitación de dicha resolución y una vez suscrita por el funcionario la respectiva Acta de Entrega.
+
+Santiago, 8 de mayo de 2019.- Patricio Coronado Rojo, Director Nacional.
