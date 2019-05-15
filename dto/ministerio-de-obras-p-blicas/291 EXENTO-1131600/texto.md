@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 291, de 29 de abril de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N° 206 de 1960, se expropiaron los lotes de terreno N°s. 5, 6, 7 y 8, para la obra: REPOSICION PUENTE DUQUECO, que figuran a nombre de FORESTAL MININCO S A, roles de avalúo 530-48, Comuna de QUILLECO, REGIÓN DEL BIOBÍO, superficies 254, 3.393, 100 y 104 m2 respectivamente. La Comisión de Peritos integrada por CONSUELO LORETO ZULOAGA SANHUEZA, GONZALO ANDRÉS SUAZO FIGUEROA y MARIA PAMELA MAC-GUIRE ACEVEDO, mediante informe de tasación de 05 de noviembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $370.111 para el lote N° 5, $10.128.886 para el lote N° 6, $173.568 para el lote N° 7, y $152.469 para el lote N° 8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
