@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 259, de 25 de abril de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e), y 105° del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N° 206, de 1960, se expropiaron los lotes de terreno N°s. 83 y 88, para la obra: "Mejoramiento Camino Maquehue - Zanja, Padre Las Casas, Tramo II - III Km. 0,00000 - Km. 19,59300", que figuran a nombre de LLANCAVIL QUINCHAO MARÍA ROSARIO y QUINCHAO QUINTREQUEO MARCELINA, roles de avalúo 3212-589 y 3212-600, Comuna de Padre Las Casas, Región de La Araucanía, superficies 86 m2 y 128 m2. respectivamente. La Comisión de Peritos integrada por Evaldo Roberto Contreras Roa, Yaschala Maribel Yáñez Riffo y Fernando Luis Contreras Hennings, mediante informe de tasación de 21 de julio de 2014, fijó el monto de la indemnización provisional en la cantidad de $575.100.-, para el lote N° 83 y $1.605.100.-, para el lote N° 88. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
