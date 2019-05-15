@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 223 de 22 de abril de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 5, Rol de avalúo 313-65, Comuna de Laja, superficie 80 m2., para la obra MEJORAMIENTO RUTA Q-20, SECTOR MARÍA DOLORES - PUENTE PERALES, COMUNA DE LAJA, LOS ÁNGELES, PROVINCIA Y REGIÓN DEL BIOBÍO. La comisión de peritos, integrada por VALESKA CAROLINA ALÉ GOÑI, ROXANA CECILIA ABARZÚA GAJARDO y VÍCTOR MARCELO SOTO TRONCOSO, fijó el valor de tasación con fecha 12 de noviembre de 2018, acordándose la indemnización con su propietaria ANA ROSA SAAVEDRA INOSTROZA, en la cantidad de $144.200.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
