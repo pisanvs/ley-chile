@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 254, de 25 de abril de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del DFL MOP Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 134, 136 y 139, para la obra: MEJORAMIENTO TORO BAYO-CURIÑANCO EN RUTA T-340, que figura a nombre de NANCO IMIHUALA MARÍA MARIANELA, NANCO NANCO RÓMULO y NANCO NANCO RÓMULO, roles de avalúo 2456-543, 2456-163 y 2456-163, Comuna de VALDIVIA, REGIÓN DE LOS RÍOS, superficies 1.320, 398 y 1.444 m2. respectivamente. La Comisión de Peritos integrada por CARMEN PILAR RÍOS MARCUELLO, LORETO ISABEL HERNÁNDEZ RÍOS y DORY GISELA DONOSO SALGADO, mediante informe de tasación de 29 de junio de 2017, fijó el monto de la indemnización provisional en la cantidad de $11.816.800 para el lote N° 134, $3.910.600 para el lote N° 136, y $14.006.800 para el lote N° 139. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.,186, de 1978.
+
+.
