@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 257, de 25 de abril de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N° 206 de 1960, se expropiaron los lotes de terreno N°s. 42, 43 y 44, para la obra: MEJORAMIENTO PAVIMENTO RUTA G-814 LEYDA - CUNCUMEN, que figuran a nombre de AGRICOLA LA ARBOLEDA LIMITADA, rol de avalúo 9053-63, Comuna de SAN ANTONIO, REGION DE VALPARAÍSO, superficies 405, 440 y 9.035 m2. respectivamente. La Comisión de Peritos integrada por LORETO ISABEL HERNANDEZ RIOS, JAIME ROLANDO JURGENS BITTNER y ROBERTO LUIS SEBASTIÁN HERNÁNDEZ, mediante informe de tasación de 21 de julio de 2018, fijó el monto de la indemnización provisional en la cantidad de $2.630.000, para el lote N° 42, $2.862.500, para el lote N° 43 y $67.119.500, para el lote N° 44. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
