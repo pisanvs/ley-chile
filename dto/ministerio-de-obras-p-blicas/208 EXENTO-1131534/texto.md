@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 208 de 22 de abril de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 2 y 3, Rol de avalúo 557-527, Comuna de Linares, superficies 1.080 y 1.855 m2. respectivamente, para la obra CONSERVACIÓN RED VIAL MAULE (2015-2016-2017), PUENTE LA RECOVA, RUTA L-45, COMUNAS DE LONGAVÍ Y LINARES, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por ALICIA BÁRBARA FLORES PACHECO, PATRICIO ULISES DURÁN MARCOS y PAULA SOLEDAD GONZÁLEZ ORTEGA, fijó el valor de tasación con fecha 21 de febrero de 2018 complementados por acta de 10 de octubre de 2018, acordándose la indemnización con su propietario CHRISTIAN EVANJELISTA LÓPEZ CASTRO, en la cantidad de $25.552.978.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
