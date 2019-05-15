@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 265, de 25 de abril de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e), y 105° del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 174, para la obra "Mejoramiento Rutas S-464 y S-488: Almagro -Barros Arana", que figura a nombre de COMUNIDAD PAINEMILLA, rol de avalúo SIN ROL, Comuna de Teodoro Schmidt, Región de La Araucanía, superficie 1.426 m2. La Comisión de Peritos integrada por Elena Pilar Fristz Agüero, Paula Andrea Lagos Carrasco y Evaldo Roberto Contreras Roa, mediante informe de tasación de 27 de julio de 2015, complementada por acta de fecha 7 de diciembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $1.719.900.- para el lote N° 174. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
