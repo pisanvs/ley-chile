@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 241 de 25 de abril de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 45 para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVÍ. SECTOR: SECTOR 1 (RUTA F-20). SUBSECTOR: RUTA 5 NORTE - PLAZA PEAJE KM 0.000,00 AL KM 6.500,00, Región de Valparaíso, que figura a nombre de CHAHUAN MISLEH OMAR FARAH, rol de avalúo 171-668, comuna de Nogales, superficie 841 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 654 de 28 de noviembre de 2018, integrada por Claudia Eugenia Marzullo García, Omar Ignacio Gómez Figueroa y Angélica Yanett Seura Rojas, fijó con fecha 17 de enero de 2019, el valor provisional de la indemnización en la cantidad de $5.911.300 para el lote N° 45. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
