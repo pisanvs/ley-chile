@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 253, de 25 de abril de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del DFL MOP Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 11, 12 y 13, para la obra: MEJORAMIENTO CAMINO ROMERAL-EMBALSE EL YESO G-455, PR CORDILLERA, que figura a nombre de BUSTAMANTE GAVRILOVICS LUZ MONIC, rol de avalúo 501-3, Comuna de SAN JOSE DE MAIPO, REGIÓN METROPOLITANA DE SANTIAGO, superficies 2.951, 2.774 y 3.119 m2. respectivamente. La Comisión de Peritos integrada por DOUGLAS MAXIMILIANO HERRERA FLORES, NORMAN ESTANISLAO CALDERÓN PONTIGGIA y NÉSTOR ÁLVARO ABELLO RODRÍGUEZ, mediante informe de tasación de 04 de diciembre de 2015, fijó el monto de la indemnización provisional en la cantidad de $1.230.400 para el lote N° 11, $3.564.600 para el lote N° 12, y $1.292.600 para el lote N° 13. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+.
