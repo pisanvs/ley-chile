@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 1.448 de fecha 07/05/2019, conforme al artículo 51 ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento calle Braulio Arenas entre Los Músicos y Pedro de Valdivia, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 04-1, inmueble consistente a la Hijuela Nº 23 de 7,32 hectáreas, ubicado en el lugar Coihueco, comuna de Temuco, de la ex reducción indígena encabezada por Calvun Llanquihuén", Rol de avalúo 3205-106. La superficie a expropiar aproximada es de 645,21 metros cuadrados, de aparente dominio de Inmobiliaria Altos de Pedro de Valdivia S.A. Comisión de Peritos integrada señores Mario Gutiérrez Truan, arquitecto, don Claudio Romo Sanhueza, arquitecto y don Arturo Cantos Oyarzún, arquitecto, fijó monto de Indemnización Provisional en $6.234.318.- según Informe Nº 04-1, de fecha 18 de abril de 2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
