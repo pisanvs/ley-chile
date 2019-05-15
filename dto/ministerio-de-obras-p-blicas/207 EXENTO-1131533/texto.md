@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 207 de 22 de abril de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 7, Rol de avalúo 2021-103, Comuna de Melipilla, superficie 430 m2., para la obra REPOSICIÓN PUENTES Y LOSAS PROVINCIAS DE MELIPILLA Y TALAGANTE PUENTE EL DIBUJO 3, COMUNA Y PROVINCIA DE MELIPILLA, REGIÓN METROPOLITANA DE SANTIAGO. La comisión de peritos, integrada por DOUGLAS MAXIMILIANO HERRERA FLORES, NORMAN ESTANISLAO CALDERÓN PONTIGGIA y NÉSTOR ÁLVARO ABELLO RODRÍGUEZ, fijó el valor de tasación con fecha 05 de septiembre de 2016, acordándose la indemnización con sus propietarios MANUEL JESÚS PÉREZ SOTO Y OTROS, en la cantidad de $2.465.342.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
