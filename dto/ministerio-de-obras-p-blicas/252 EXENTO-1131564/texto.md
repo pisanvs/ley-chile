@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 252, de 25 de abril de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del DFL MOP Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 3-A y 3-B, para la obra: CONSERVACIÓN DE SEGURIDAD VIAL EN RUTAS DE LA RED VIAL X, XIV, XV, PISTA DESCELERACIÓN ACCESO PURULÓN, que figura a nombre de ÁLVAREZ JARA ALBERTO CARLOS y RODRÍGUEZ SANDOVAL PATRICIO IVÁN, roles de avalúo 219-17 y 219-22, Comuna de LANCO, REGIÓN DE LOS RÍOS, superficies 728 y 448 m2. respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YÁÑEZ RIFFO, MARÍA SOLEDAD NÚÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 05 de enero de 2018, fijó el monto de la indemnización provisional en la cantidad de $4.791.700 para el lote N° 3-A, y $2.699.300 para el lote N° 3-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+.
