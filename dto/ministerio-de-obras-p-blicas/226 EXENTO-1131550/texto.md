@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 226 de 25 de abril de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e), Art. 13 Ley N° 18.916 de 1990 y 105 del DFL MOP N° 850 de 1997, se expropiaron las plantaciones y especies forestales emplazadas en 1.618,80 m2. del lote de terreno N° 20, Rol de avalúo 2234-210, Comuna de Osorno, para la obra NORMALIZACIÓN ÁREA LIBRE DE OBSTÁCULOS AD. CAÑAL BAJO DE OSORNO, COMUNA Y PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por DORY GISELA DONOSO SALGADO, NICOLÁS ALEJANDRO ALARCÓN SÁNCHEZ y MARCELO GABRIEL OYARZO SALDÍAS, fijó el valor de tasación de las plantaciones y especies forestales con fecha 3 de julio de 2018, acordándose la indemnización con su propietario EDUARDO VÍCTOR SCHILLING SAINT-JEAN, en la cantidad de $4.630.278.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
