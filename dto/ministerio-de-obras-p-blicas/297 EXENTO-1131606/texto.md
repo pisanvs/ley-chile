@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 297, de 30 de abril de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N° 206 de 1960, se expropiaron los lotes de terreno N°s. 67 y 68, para la obra: REPOSICION PAVIMENTO RUTA 215-CH. SECTOR: LAS LUMAS - ENTRELAGOS, que figuran a nombre de NEFIODOW ZEHR META Y OTRO, rol de avalúo 2257-17, Comuna de PUYEHUE, REGION DE LOS LAGOS, superficies 622 y 94 m2. respectivamente. La Comisión de Peritos integrada por ENRIQUE EDGARDO HOELCK ALTMANN, NELSON BERNARDO TURRA TURRA y JUAN CELESTINO GIOVANNINI MANSILLA, mediante informe de tasación de 02 de noviembre de 2016, fijó el monto de la indemnización provisional en la cantidad de $10.574.000, para el lote N° 67 y $2.078.000, para el lote N° 68. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
