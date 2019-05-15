@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 294 de 29 de abril de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y el DFL MOP N° 206, de 1960, se expropió el lote de terreno 1, Rol de avalúo 288-11, Comuna de Los Vilos, superficie 421 m2., para la obra PROYECTO DE AGUA POTABLE RURAL QUILIMARI, COMUNA DE LOS VILOS, PROVINCIA DE CHOAPA, REGIÓN DE COQUIMBO. La comisión de peritos, integrada por MIGUEL ÁNGEL RUIZ VALENZUELA, ANA ROSA DEL CARMEN SILVA GIL y PABLO JAVIER FLORES SALINAS, fijó el valor de tasación con fecha 14 de junio de 2018, acordándose la indemnización con su propietaria ELSA BUSTAMANTE LÓPEZ, en la cantidad de $6.095.901.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
