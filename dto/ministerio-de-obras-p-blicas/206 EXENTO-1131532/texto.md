@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 206 de 22 de abril de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 138, Rol de avalúo 314-21, Comuna de Quillón, superficie 122 m2., para la obra REPOSICIÓN RUTA 148, SECTOR: CRUCE RUTA 5 - PUENTE QUEIME, COMUNA DE QUILLÓN, BULNES, PROVINCIA DE DIGUILLÍN, REGIÓN DE ÑUBLE (Antes Provincia de Ñuble, Región del Biobío). La comisión de peritos, integrada por VALESKA CAROLINA ALÉ GOÑI, MARÍA PAMELA MAC-GUIRE ACEVEDO y VALERIA DEL CARMEN MARDONEZ LEMA, fijó el valor de tasación con fecha 24 de abril de 2017 complementado por acta de 31 de agosto de 2018, acordándose la indemnización con su propietaria MÓNICA DEL CARMEN LAVADO GARRIDO, en la cantidad de $4.989.265.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
