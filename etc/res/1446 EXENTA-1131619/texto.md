@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 1.446 de fecha 07/05/2019, conforme al artículo 51 ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento calle Braulio Arenas entre los Músicos y Av. Pedro de Valdivia, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 06-1, que corresponde a Propiedad consistente en el Lote Nº 1, de una superficie de 13,79 hectáreas, resultante de la subdivisión de la hijuela Nº 1 de 16 hectáreas más o menos, ubicada en el lugar "Puente Chispa" e hijuela Nº 2, de 3 hectáreas más o menos, ubicada en el lugar "El Mirador" o "Puente Chispa" de esta comuna, Rol de avalúo 3205-187, comuna de Temuco. La superficie a expropiar aproximada es de 1109,44 metros cuadrados, de aparente dominio de Peter Federico Spielberg Riffo. Comisión de Peritos integrada señores Mario Gutiérrez Truan, arquitecto, Claudio Romo Sanhueza, arquitecto, y Arturo Cantos Oyarzún, arquitecto, fijó monto de Indemnización Provisional en $50.536.785 según Informe Nº 06-1 de fecha 18/04/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
