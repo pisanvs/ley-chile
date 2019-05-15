@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 243 de 25 de abril de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 14 para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVÍ. SECTOR: SECTOR 1 (RUTA F-20). SUBSECTOR: RUTA 5 NORTE - PLAZA PEAJE KM 0.000,00 AL KM 6.500,00, Región de Valparaíso, que figura a nombre de CISTERNAS VALENCIA ANTONIO EDUAR, rol de avalúo 1171-52, comuna de Nogales, superficie 2.701 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 659 de 29 de noviembre de 2018, integrada por María Cristina Camus Palacios, Claudio Gonzalo Durán Massardo y Valeria Francisca Madariaga Tordecilla, fijó con fecha 11 de enero de 2019, el valor provisional de la indemnización en la cantidad de $15.199.800 para el lote N° 14. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+.
