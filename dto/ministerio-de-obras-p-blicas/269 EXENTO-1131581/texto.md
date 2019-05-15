@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 269 de 25 de abril de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 5, 5-A, 7 y 8, Rol de avalúo 577-479, Comuna de Saavedra, superficies 835, 239, 734 y 50 m2., respectivamente, para la obra “RUTA LAFKENCHE, KM. 8,20000 al KM. 14,00000”, COMUNA DE SAAVEDRA, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por YASCHALA MARIBEL YÁÑEZ RIFFO, PABLO ALEJANDRO SEPÚLVEDA GÓMEZ y RAMÓN LUIS MARÍN FRANZ, fijó el valor de tasación con fechas 10 de diciembre de 2014 y 27 de abril de 2017, acordándose la indemnización con sus propietarios CÉSAR ANDRÉS PICHIÑUAL POLO Y OTROS, en la cantidad de $6.145.487.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
