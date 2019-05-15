@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 501, del 21 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Julia Elizabeth Varas Manterola, RUN N° 6.202.112-8, Primera Renovación con modificación de concesión marítima menor, con vencimiento al 31 de diciembre de 2023, sobre un sector de terreno de playa, en el lugar denominado Balneario Hornitos, comuna de Mejillones, provincia y Región de Antofagasta, con una superficie total de 510,87 m², que fue tramitada con el SIABC N° 40.159. A modo referencial señala las siguientes coordenadas geográficas: A: 22°55'01,93" - 70°17'22,47", D: 22°55'02,58" - 70°17'22,86". El objeto consiste en una Casa habitación y kiosco. Las obras existentes consisten en una Casa habitación y kiosco. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Mejillones. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Ricardo Cáceres Avello, Capitán de Corbeta LT, Capitán de Puerto Mejillones.
