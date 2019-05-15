@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 211 de 22 de abril de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 76, Rol de avalúo 529-305, Comuna de La Unión, superficie 207 m2., para la obra MEJORAMIENTO CBI RUTA T-780 S: CRUCE RUTA 210 LA UNIÓN - CUDICO, COMUNA DE LA UNIÓN, PROVINCIA DE RANCO, REGIÓN DE LOS RÍOS. La comisión de peritos, integrada por YASCHALA MARIBEL YÁÑEZ RIFFO, MARÍA SOLEDAD NÚÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, fijó el valor de tasación con fecha 20 de diciembre de 2017, acordándose la indemnización con su propietario ERICH ARNOLDO OJEDA ROSAS, en la cantidad de $1.827.919.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
