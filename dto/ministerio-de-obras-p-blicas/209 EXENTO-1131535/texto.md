@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 209 de 22 de abril de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 4, Rol de avalúo 58-79, Comuna de San Esteban, superficie 1.541 m2., para la obra CONSTRUCCIÓN PUENTE EL MEDIO EN RUTA E-769, COMUNA DE SANTA MARÍA, SAN ESTEBAN, PROVINCIA DE SAN FELIPE, LOS ANDES, REGIÓN DE VALPARAÍSO. La comisión de peritos, integrada por EDUARDO ALEJANDRO SILVA ARACENA, LUIS HUMBERTO TOLEDO FUENZALIDA y CARMEN PILAR RÍOS MARCUELLO, fijó el valor de tasación con fecha 24 de junio de 2016, acordándose la indemnización con sus propietarios MARIO HERNÁN CORDERO MUÑOZ Y OTROS, en la cantidad de $8.424.855.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
