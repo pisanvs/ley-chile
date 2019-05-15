@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo número 459 de fecha 10 de diciembre del 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Congelados y Conservas Fitz Roy S.A., rol único tributario número 96.949.830-8, primera renovación de concesión marítima menor, con vencimiento el día 31 de diciembre del año 2023, sobre un sector de Porción de Agua en el lugar denominado La Vega, comuna de Calbuco, provincia de Llanquihue, Región de Los Lagos, la que fue tramitada con el SIABC número 39.082. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): Latitud S 41º46'49,77'. Longitud W 73º07'50,30.- El objeto es continuar amparando la instalación de tres boyarines para demarcación de un emisario submarino. Las obras consisten en la instalación de tres boyarines. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Calbuco. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Jonathan Dimter Muñoz, Capitán de Corbeta LT, Capitán de Puerto de Calbuco.
