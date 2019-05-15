@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 255, de 25 de abril de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del DFL MOP Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 60, para la obra: MEJORAMIENTO TORO BAYO-CURIÑANCO EN RUTA T-340, que figura a nombre de MARÍN FARFÁN HÉCTOR GONZALO, rol de avalúo 2438-126, Comuna de VALDIVIA, REGIÓN DE LOS RÍOS, superficie 28 m2. La Comisión de Peritos integrada por YASCHALA MARIBEL YÁÑEZ RIFFO, MARÍA SOLEDAD NÚÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 28 de julio de 2017, fijó el monto de la indemnización provisional en la cantidad de $433.200 para el lote N° 60. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+.
