@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.816, de fecha 17 de abril de 2019, de la subdirección de Administración y Finanzas del Serviu Metropolitano, se deja sin efecto resolución exenta Nº 7.767, de fecha 26 de diciembre de 2017, de la subdirección de Administración y Finanzas del Serviu Metropolitano, que dispuso la expropiación del inmueble ubicado en Av. Cinco Poniente 555 PC 4 LT 2 El Esfuerzo, Rol de Avalúo Nº 1045-222, de la comuna de Maipú, individualizado en el Plano de Expropiación como Lote Nº T-2, de aparente dominio de Banco Internacional monto de la indemnización a pagar la suma de $2.175.673.185, por no resultar indispensable para la materialización del Proyecto denominado "Proyecto Terminales de Locomoción Colectiva", por no ser en definitiva necesaria dicha expropiación para la adquisición del inmueble antes individualizado.-
+
+Director Serviu Metropolitano.
