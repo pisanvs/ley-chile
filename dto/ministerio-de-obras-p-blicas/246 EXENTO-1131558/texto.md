@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 246 de 25 de abril de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 43-1 para la obra: AUTOPISTA SANTIAGO - SAN ANTONIO. SECTOR: TERCERAS PISTAS SANTIAGO - TALAGANTE. TRAMO: KM 19.300,00 A KM 39.100,00, Región Metropolitana de Santiago, que figura a nombre de GÓMEZ GALLO CARLOS ROBERTO, rol de avalúo 507-643, comuna de Talagante, superficie 742 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 20 de 7 de febrero de 2019, integrada por Claudia Eugenia Marzullo García, Sergio Jeremías Órdenes Salinas y Rayén Alejandra Guzmán Theoduloz, fijó con fecha 25 de febrero de 2019, el valor provisional de la indemnización en la cantidad de $15.506.400 para el lote N° 43-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2.186, de 1978.
+
+.
