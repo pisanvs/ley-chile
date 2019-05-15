@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 1.447 de fecha 07/05/2019, conforme al artículo 51 ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento calle Braulio Arenas entre Los Músicos y Pedro de Valdivia, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 01-1, "Inmueble Consistente en el Lote Número Dos, de una superficie de ocho coma cincuenta hectáreas, que forma parte de la subdivisión del resto de la Hijuela número veinte, hijuela doce e Hijuela veintiuno y retazo de terreno, todas ubicadas en el lugar Coihueco, de este Departamento", Rol de avalúo 3205-231 y 3205-232. La superficie a expropiar aproximada es de 1341,26 metros cuadrados, de aparente dominio de Bolívar Llanquihuén Sagredo. Comisión de Peritos integrada señores Mario Gutiérrez Truan, arquitecto, don Claudio Romo Sanhueza, arquitecto y don Arturo Cantos Oyarzún, arquitecto, fijó monto de Indemnización Provisional en $133.106.847.- según Informe Nº 01-1 A, de fecha 16 de abril de 2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
