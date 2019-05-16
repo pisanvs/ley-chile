@@ -1,0 +1,5 @@
+RESOLUCIÓN EXENTA QUE IMPARTE INSTRUCCIONES AL DIRECTOR REGIONAL DE LA XIII DIRECCIÓN REGIONAL METROPOLITANA SANTIAGO CENTRO, PARA DELEGAR EN EL JEFE DE LA UNIDAD DE ÑUÑOA LAS FACULTADES QUE INDICA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 61, del 9 de mayo de 2019, que imparte instrucciones al Director Regional de la XIII Dirección Regional Metropolitana, Santiago Centro, para delegar en el jefe de la Unidad de Ñuñoa, de su dependencia, la potestad de aplicar las sanciones administrativas respecto de las denuncias, no reclamadas, cursadas por las infracciones tributarias previstas en los artículos 109 y 97 Nºs. 3, 6, 7, 10, 15, 16, 17, 19, 20 y 21, ambos del Código Tributario, como asimismo, conceder las condonaciones que se soliciten respecto de las sanciones que corresponda aplicar, siempre que se cumplan las condiciones establecidas en las resoluciones e instrucciones dictadas al efecto.
+
+El texto íntegro de esta resolución exenta está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de mayo de 2019.
