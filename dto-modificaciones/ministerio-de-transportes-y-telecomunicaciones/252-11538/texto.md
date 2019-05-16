@@ -694,9 +694,9 @@ Concepción
 
 Talcahuano
 
-39,065 Cruce Nº1 Ramal San Rosendo- Talcahuano
+39,065 Cruce Nº1 Ramal San Rosendo-
 
-Variante
+Variante Talcahuano
 
 Hualqui -
 
@@ -758,13 +758,17 @@ ELIMINADO
 
 2,821 Panamericana Ramal Temuco/Carahue
 
-24,635 Circunvalación Ramal Antilhue/Valdivia
+24,635 Circunvalación Ramal Antilhue/
 
 Valdivia
 
-27,280 Collico Ramal Antilhue/Valdivia
+27,280 Collico Ramal Antilhue/
 
-13,360 Intersección Ramal Alameda-San
+Valdivia
+
+13,360 Intersección Ramal Alameda-
+
+San
 
 Calle Tres Antonio
 
@@ -776,7 +780,9 @@ Camino Melipilla
 
 Curanilahue
 
-23,080 Volcán Villarrica Sub Ramal Concepción-
+23,080 Volcán Villarrica Sub
+
+Ramal Concepción-
 
 Curanilahue
 
@@ -1242,53 +1248,29 @@ Montt L.C.S.
 
 ELIMINADO
 
-6,914 Chagres Ramal Llay Llay/
+6,914 Chagres Ramal Llay Llay/Los Andes
 
-Los Andes
+19,464 Panquehue Ramal Llay Llay/Los Andes
 
-19,464 Panquehue Ramal Llay Llay/
+30,815 El Puente Ramal Llay Llay/Los Andes
 
-Los Andes
+31,618 Dardignac Ramal Llay Llay/Los Andes
 
-30,815 El Puente Ramal Llay Llay/
+32,023 12 Febrero Ramal Llay Llay/Los Andes
 
-Los Andes
+37,000 Curimón Ramal Llay Llay/Los Andes
 
-31,618 Dardignac Ramal Llay Llay/
+40,510 El Bosque Ramal Llay Llay/Los Andes
 
-Los Andes
+41,795 San Rafael Ramal Llay Llay/Los Andes
 
-32,023 12 Febrero Ramal Llay Llay/
+42,000 La Tortilla Ramal Llay Llay/Los Andes
 
-Los Andes
+44,980 La Junta Ramal Llay Llay/Los Andes
 
-37,000 Curimón Ramal Llay Llay/
+45,900 Cementerio Ramal Llay Llay/Los Andes
 
-Los Andes
-
-40,510 El Bosque Ramal Llay Llay/
-
-Los Andes
-
-41,795 San Rafael Ramal Llay Llay/
-
-Los Andes
-
-42,000 La Tortilla Ramal Llay Llay/
-
-Los Andes
-
-44,980 La Junta Ramal Llay Llay/
-
-Los Andes
-
-45,900 Cementerio Ramal Llay Llay/
-
-Los Andes
-
-1,100 Hnos. Clark Ramal Los Andes/
-
-Río Blanco
+1,100 Hnos. Clark Ramal Los Andes/Río Blanco
 
 ELIMINADO
 
@@ -1366,71 +1348,39 @@ ELIMINADO
 
 ELIMINADO
 
-1,915 El Mirador Ramal Talca/
+1,915 El Mirador Ramal Talca/Constitución
 
-Constitución
+8,535 Unihue Ramal Talca/Constitución
 
-8,535 Unihue Ramal Talca/
+12,890 Colín Ramal Talca/Constitución
 
-Constitución
+14,900 Perales Ramal Talca/Constitución
 
-12,890 Colín Ramal Talca/
+27,280 Sin Nombre Ramal Talca/Constitución
 
-Constitución
+33,850 Sin Nombre Ramal Talca/Constitución
 
-14,900 Perales Ramal Talca/
+87,580 Sin Nombre Ramal Talca/Constitución
 
-Constitución
-
-27,280 Sin Nombre Ramal Talca/
-
-Constitución
-
-33,850 Sin Nombre Ramal Talca/
-
-Constitución
-
-87,580 Sin Nombre Ramal Talca/
-
-Constitución
-
-87,950 Sin Nombre Ramal Talca/
-
-Constitución
+87,950 Sin Nombre Ramal Talca/Constitución
 
 88,400 Constitución Ramal Talca/Constitución
 
-1,030 Sin Nombre R. Rucapequén/
+1,030 Sin Nombre R. Rucapequén/Concepción
 
-Concepción
+2,110 Sin Nombre R. Rucapequén/Concepción
 
-2,110 Sin Nombre R. Rucapequén/
+9,790 Colliguay R. Rucapequén/Concepción
 
-Concepción
+11,680 Sin Nombre R. Rucapequén/Concepción
 
-9,790 Colliguay R. Rucapequén/
+12,905 Sin Nombre R. Rucapequén/Concepción
 
-Concepción
+15,170 Sin Nombre R. Rucapequén/Concepción
 
-11,680 Sin Nombre R. Rucapequén/
+16,950 Sin Nombre R. Rucapequén/Concepción
 
-Concepción
-
-12,905 Sin Nombre R. Rucapequén/
-
-Concepción
-
-15,170 Sin Nombre R. Rucapequén/
-
-Concepción
-
-16,950 Sin Nombre R. Rucapequén/
-
-Concepción
-
-19,100 Nueva Aldea R. Rucapequén/
-
-Concepción
+19,100 Nueva Aldea R. Rucapequén/Concepción
 
 28,370 ELIMINADO
 
@@ -1640,9 +1590,11 @@ Curanilagüe
 
 Curanilahue Curanilagüe
 
-80,936 Colico R. Concepción/
+80,936 Colico
 
-Curanilahue Curanilagüe
+Curanilahue R. Concepción/
+
+Curanilagüe
 
 ELIMINADO
 
@@ -1676,23 +1628,27 @@ ELIMINADO
 
 Sta. Bárbara
 
-0,230 Sin Nombre R. Coigüe/Nacimiento
+0,230 Sin Nombre R. Coigüe/
 
-2,060 Sin Nombre R. Coigüe/Nacimiento
+Nacimiento
 
-5,040 Sin Nombre R. Coigüe/Nacimiento
+2,060 Sin Nombre R. Coigüe/
+
+Nacimiento
+
+5,040 Sin Nombre R. Coigüe/
+
+Nacimiento
 
 6,600 Est. Coigüe
 
-Norte Ramal Coigüe/Mulchén
+Norte Ramal Coigüe/
+
+Mulchén
 
 ELIMINADO
 
 41,500 Mulchén Oriente Ramal Coigüe/Mulchén
-
-ELIMINADO
-
-143,000 Sin Nombre Ramal Los Sauces/Lebu
 
 ELIMINADO
 
@@ -1706,11 +1662,17 @@ ELIMINADO
 
 52,897 Panguipulli Ramal a Panguipulli
 
-0,480 Antilhue Ramal Antilhue/Valdivia
+0,480 Antilhue Ramal Antilhue/
 
-1,193 Circ. Antilhue Ramal Antilhue/Valdivia
+Valdivia
 
-4,210 Sin Nombre Ramal Antilhue/Valdivia
+1,193 Circ. Antilhue Ramal Antilhue/
+
+Valdivia
+
+4,210 Sin Nombre Ramal Antilhue/
+
+Valdivia
 
 5,230 Chincuín Ramal Antilhue -
 
