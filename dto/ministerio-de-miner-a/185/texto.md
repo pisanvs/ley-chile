@@ -82,15 +82,11 @@ De las normas de calidad del aire
 
 #### Artículo 4°
 
-Con el objeto de proteger la salud de la población, la Comisión Interministerial podrá proponer al Ministerio de Salud que establezca concentraciones ambientales máximas permisibles para anhídrido sulfuroso y aplicables en todo el territorio nacional. Con tal objeto, se establecen las normas primarias de calidad del aire para:
-
-Anhídrido sulfuroso: Ochenta microgramos por metro cúbico normal (80 ug/Nm3) como concentración media aritmética anual, y trescientos sesenta y cinco microgramos por metro cúbico normal (365 ug/Nm3) como concentración media aritmética diaria.
+Derogado.
 
 #### Artículo 5°
 
-La Comisión Interministerial establecida en el Título VII, podrá proponer al Ministerio de Salud, una norma primaria de calidad del aire para el elemento arsénico en todo el país, de acuerdo a lo establecido en el Artículo 8° transitorio de este Decreto.
-
-Esta norma, así como los procedimientos para su medición, serán establecidos por Decreto Supremo del Ministerio del Salud.
+Derogado.
 
 #### Artículo 6°
 
@@ -98,55 +94,39 @@ Derogado.
 
 #### Artículo 7°
 
-Con el objetivo establecido en el Artículo precedent la Comisión Interministerial establecida en el Título VII de este Decreto, podrá proponer al Ministerio de Agricultura normas secundarias de calidad ambiental para material particulado sedimentable que regirá en áreas con actividad silvoagropecuaria o recursos naturales renovables que considerará:
-
-a) Material particulado sedimentable en su concentración máxima permisible, y
-
-b) La concentración de elementos químicos en el material particulado sedimentable como concentracíón máxima permisible.
-
-Esta norma, la localización de su aplicación y los procedimientos para su medición, serán establecidos por Decreto Supremo del Ministerio de Agricultura.
+Derogado.
 
 ## Título III
 
-De las zonas de calidad de aire
+De las zonas de calidad de aire Derogado.
 
 #### Artículo 8°
 
-Para los efectos de la aplicación de este Decreto, el territorio nacional se clasificará conforme a las concentraciones ambientales de anhídrido sulfuroso o de material particulado en las siguientes zonas: Saturada, Latente, No Saturada y No Clasificada.
-
-La Comisión Interministerial establecida en el Título VII, podrá proponer la clasificación y modificación de clasificación de una zona a los Ministerios de Salud o de Agricultura, según corresponda. Esta clasificación o modificación de clasificación se hará mediante Decreto del Ministerio que corresponda y solamente regirá para administrar, controlar y fiscalizar la calidad del aire, con el propósito de proteger la salud de la población y las explotaciones silvo-agropecuarias y sin que signifique modificar la división administrativa del país ni la competencia de sus autoridades.
+Derogado.
 
 #### Artículo 9°
 
-Será zona saturada por anhídrido sulfuroso aquella en que se en que se sobrepasen las normas de calidad del aire de anhídrido sulfuroso en conformidad al Título II del presente Decreto.
-
-Asimismo será zona saturada por material particulado aquella en que se sobrepasen las normas de calidad del aire para material particulado en conformidad al Título II del presente Decreto.
-
-Se considerará sobrepasada la norma de calidad del aire cuando la concentración ambiental de anhídrido sulfuroso, detectada por cualquier estación de muestreo localizada en la zona correspondiente en la cual sea pertinente la aplicación de las normas de calidad del aire, exceda una de las concentraciones ya referidas.
+Derogado
 
 #### Artículo 10°
 
-Será zona latente por anhídrido sulfuroso aquella donde la medición de la concentración ambiental de anhídrido sulfuroso se sitúe en el intervalo 80-100% del valor de las normas de calidad del aire que sea pertinente aplicar a dicha zona, en conformidad al Título II del presente Decreto.
-
-Asimismo será zona latente por material particulado aquella zona donde la medición de la concentración ambiental de material particulado se sitúe en el intervalo definido en el inciso anterior.
+Derogado.
 
 #### Artículo 11°
 
-Será zona no saturada por anhídrido sulfuroso aquella zona donde la medición de la concentración ambiental de anhídrido sulfuroso se sitúe en el intervalo 0-80% del valor de las normas de calidad del aire descritas en el Título II, que se apliquen a dicha zona.
-
-Asimismo será zona saturada por material particulado aquella donde la medición de la concentración ambiental de material particulado se sitúe en el intervalo definido en el inciso anterior.
+Derogado.
 
 #### Artículo 12°
 
-Será zona saturada natural por anhídrido sulfuroso o por material particulado aquella zona donde la medición de las concentraciones ambientales de anhídrido sulfuroso o material particulado respectivamente, sobresasen las normas de calidad del aire establecidas por este Decreto y su valor no sea consecuencia de emisiones originadas por la actividad humana.
+Derogado.
 
 #### Artículo 13°
 
-Las zonas no clasificadas serán aquellas donde no se dispone de información certificada para su clasificación.
+Derogado.
 
 #### Artículo 14°
 
-Las zonas de clasificación de calidad del aire se determinan por menciones certificadas por los Servicios, realizados mediante estaciones meteorológicas y equipos de detección de anhídrido sulfuroso y de material particulado.
+Derogado.
 
 ## Título IV
 
@@ -158,19 +138,11 @@ Todos los establecimientos regulados que estén en funcionamiento o deseen insta
 
 #### Artículo 16°
 
-Todos los establecimientos regulados que estén en funcionamiento o deseen instalarse o reanudar operaciones o modificar sus instalaciones y que estén localizados en zona saturada, deberán cumplir las siguientes disposiciones:
-
-a) En el caso que una zona saturada es impactada por las emisiones de sólo un establecimiento regulado, éste deberá reducir sus niveles de emisión en forma que establece el Artículo 17° de este Decreto, con el objetivo que cumpla con las normas de calidad de aire que se apliquen a dicha zona, en el punto de máximo impacto.
-
-b) Si la zona saturada es impactada por las emisiones de más de un establecimiento regulado, éstos deberán reducir sus emisiones, hasta cumplir con las normas de calidad del aire que se apliquen a dicha zona, en el punto de máximo impacto. Las reducciones se harán en forma proporcional a su contribución a las concentraciones ambientales medidas en dicha zona, o en la proporción que ellos libremente acuerden. En este último caso, deberá dejarse constancia de la proporción acordada ante los Servicios. Si no se cumple esta disposición, debido a falta de acuerdo entre las partes, los Servicios deberán establecer las metas de reducción para los establecimientos involucrados y éstos deberán presentar Planes de Descontaminación de acuerdo a lo estipulado en el Título VI.
-
-c) Si la zona saturada es impactada simultáneamente por las emisiones de establecimientos regulados y por otras fuentes emisoras de modo tal que las primeras no puedan cumplir, po sí solas, con las normas de calidad del aire en el punto de máximo impacto, descritas en el Título II que se apliquen a dicha zona, la autoridad competente deberá establecer planes específicos de descontaminación para la zona en coordinación con los Servicios.
-
-En la Región Metropolitana, el plan de descontaminación a que se refiere la letra c) precedente podrá ser propuesto por la Comisión Especial de Descontaminación de la Región Metropolitana, creada el 18 de abril de 1990 por D.S. N° 349, del Ministerio del Interior.
+Derogado.
 
 #### Artículo 17°
 
-Los establecimientos regulados localizados en zonas saturadas, deberán realizar Planes de Descontaminación de acuerdo al Título VI de este Decreto, en un plazo máximo de 6 meses a contar de la fecha de publicación del Decreto que declare la zona como saturada. El propósito de estos planes será la reducción de emisiones para cumplir con lo señalado en el Artículo precedente, en un plazo que se determinará de acuerdo al procedimiento prescrito en el artículo 27° del presente Decreto.
+Derogado.
 
 #### Artículo 18°
 
@@ -178,65 +150,7 @@ Sin perjuicio de lo mencionado en los Artículos 16° y 17°, todos los establec
 
 #### Artículo 19°
 
-Los establecimientos regulados en funcionamiento localizados en zonas saturadas deberán, además disponer de un Plan de Acción Operacional para ser aplicado en caso de episodios críticos. En estos casos, deberán poner en conocimiento inmediato del Servicio de Salud correspondiente, las concentraciones horarias de anhídrido sulfuroso cuando alcancen los siguientes niveles en las zonas representativas de la población, en especial los sectores que incluyen los hospitales y los establecimientos educacionales, para que se apliquen las medidas de precaución que se recomiendan:
-
-Concentración
-
-horaria (ppm) Situación Medidas de precaución
-
-------------------------------------------------------
-
-0,75 Aviso de Ancianos y personas con
-
-alerta enfermedades cardíacas
-
-y respiratorias deberán
-
-permanecer en sus casas.
-
-En ellas se deberán
-
-cerrar puertas y ventanas.
-
-1,00 Aviso de
-
-advertencia Adicionalmente a lo
-
-anterior los escolares
-
-deberán suspender las
-
-clases de gimnasia y
-
-las actividades en el
-
-exterior.
-
-1,5 Aviso de
-
-emergencia Adicionalmente a lo
-
-anterior, todas las
-
-personas deben
-
-permanecer en sus
-
-casas minimizando
-
-las actividades
-
-físicas, desplazándose
-
-sólo para concurrir
-
-a su trabajo o por
-
-razones de fuerza
-
-mayor.
-
-------------------------------------------------------
+Derogado.
 
 #### Artículo 20°
 
@@ -288,7 +202,7 @@ i) Un informe que permita estimar las probables consecuencias de tipo ambiental 
 
 La evaluación del informe técnico a que se refieren los Artículos precedentes se realizará de acuerdo al siguiente procedimiento:
 
-a) Análisis del informe técnico por parte del Servicio de Salud, y por el Servicio Agrícola Ganadero cuando corresponda, los que para tal efecto podrán solicitar la opinión de la Comisión Regional del Medio Ambiente, establecida por D.S. N° 240, de 1990, del Ministerio de Bienes Nacionales y además, si estimaran procedente, de la Comisión Interministerial de Calidad del Aire, a que se refiere el Título VII, con el objeto de elaborar el informe de evaluación respectivo.
+a) Derogada.
 
 b) En el caso que el nuevo establecimiento esté en una zona clasificada como latente, no saturada o no clasificada, el objetivo de la evaluación será verificar que se han proyectado las medidas necesarias para garantizar el cumplimiento de las normas de calidad del aire aplicables a la zona, considerando las emisiones que incorpora el nuevo establecimiento conjuntamente con la totalidad de las emisiones que la afectan al momento de la presentación de la solicitud de evaluación.
 
@@ -296,73 +210,33 @@ En el caso que el nuevo establecimiento esté en una zona clasificada como satur
 
 c) La emisión del informe de evaluación se realizará en el plazo de ciento veinte días, contado desde su recepción. Este informe deberá contener las conclusiones del Servicio de Salud y del Servicio Agrícola Ganadero, cuando corresponda, respecto al cumplimiento del objetivo establecido en la letra b) precedente, y de los eventuales requisitos de salubridad pública y de monitoreo los cuales se debiera condicionar su funcionamiento.
 
-## Título VI
-
-De los planes de descontaminación
+## Título VI — Derogado
 
 #### Artículo 26°
 
-El Plan de Descontaminación a que se refiere el Artículo 17° deberá contemplar:
-
-a) El informe técnico a que se refiere el artículo 24°.
-
-b) Las medidas, costos y plazos necesarios para cumplir con los artículos 16° y 17°. Para ello se deberá entregar una proyección de las emisiones anuales, en el corto y largo plazo, los equipos de captación que se proyecta instalar y su impacto probable sobre las concentraciones ambientales de anhídrido sulfuroso y de material particulado.
-
-En el caso que la zona se encuentre impactada por las emisiones de más de un establecimiento regulado, éstos podrán presentar el Plan de Descontaminación en forma conjunta.
+Derogado.
 
 #### Artículo 27°
 
-La evaluación del Plan de Descontaminación a que se refiere el Artículo 17° se realizará de acuerdo al siguiente procedimiento.
+Derogado.
 
-a) Presentación del Plan al Intendente Regional para su análisis.
-
-b) Para tal efecto se podrá solicitar informes a los Servicios, a la Comisión Regional del Medio Ambiente y a la Comisión Interministerial de Calidad del Aire.
-
-c) El objetivo del informe será analizar si los plazos propuestos son compatibles con las políticas nacionales y regionales económicas, sociales y ambientales.
-
-d) El Intendente remitirá el Plan y los informes al Presidente de la República para su análisis y resolución.
-
-e) El Presidente de la República, en el caso que lo estime conveniente, aprobará el Plan respectivo mediante Decreto Supremo.
-
-El procedimiento se realizará en un plazo de ciento veinte días, contados desde su recepción por el Intendente Regional. Los plazos indicados en el Plan regirán a partir de la fecha de publicación del Decreto respectivo que lo autoriza.
-
-## Título VII
-
-De la Comisión Interministerial de Calidad del Aire
+## Título VII — Derogado
 
 #### Artículo 28°
 
-Con el fin de asesorar al Presidente de la República en el cumplimiento de las obligaciones establecidas en este Decreto, se crea la Comisión Interministerial de Calidad del Aire, la que estará formada por los Ministros de Agricultura, Economía, Minería y Salud, la que actuará como Sub-Comité de Ministros de la Comisión Nacional del Medio Ambiente.
-
-La Comisión Interministerial de Calidad del Aire contará con una Secretaría Técnica, cuya función será la de asesorar al Subcomité de Ministros en el cumplimiento de las tareas establecidas en el Artículo 30° de este Decreto. Esta Secretaría estará radicada en el Ministerio que se determine mediante Decreto Supremo del Ministerio de Minería, el que llevará la firma de los Ministros de Agricultura, Economía y Salud. Para tal efecto se tendrá en consideración la proposición que acuerde el Subcomité de Ministros en su primera sesión.
+Derogado.
 
 #### Artículo 29°
 
-La Comisión tendrá como órgano de consulta y análisis a un Grupo Técnico constituido por el Jefe del Departamento de Programas sobre el Medio Ambiente del Ministerio de Salud, el Director de la División de Protección de los recursos Naturales Renovables del Servicio Agrícola y Ganadero del Ministerio de Agricultura, el Jefe del Departamento Técnico del Ministerio de Minería, el Jefe del Departamento de Política Comercial e Industrial del Ministerio de Economía y por el Secretario Técnico de la Comisión Nacional del Medio Ambiente, o por quienes los respectivos Ministros designen.
-
-La Secretaría Técnica deberá sesionar al menos mensualmente con el Grupo Técnico debiendo levantar actas de lo tratado en dichas sesiones.
+Derogado.
 
 #### Artículo 30°
 
-Corresponderá a la Comisión Interministerial:
-
-a) Proponer la clasificación y la modificación de la clasificación de una zona de acuerdo a la calidad del aire;
-
-b) Estudiar y evaluar las áreas donde deben establecerse normas de calidad del aire y proponerlas a los Ministerios con atribuciones en esta materia;
-
-c) Evaluar y recomendar la aprobación de los planes de descontaminación a que se refieren los artículos 16°, 17°, y el Título VI;
-
-d) Proponer medidas de coordinación con los establecimientos regulados y los Servicios para realizar mediciones de calidad del aire en las localidades que se requiera;
-
-e) Analizar los informes a que se refieren los artículos 23°, 24° y 25°, que presenten los establecimientos regulados;
-
-f) Proponer el plazo dentro del cual los establecimientos regulados deberán cumplir con lo dispuesto en este Decreto;
-
-g) Proponer normas, acciones, estudios y, en general, ampliamente, cualquier mecanismo o iniciativa procedente a juicio de la Comisión y destinadas al cumplimiento de las finalidades propias del presente Decreto.
+Derogado.
 
 #### Artículo 31°
 
-La Comisión Interministerial se constituirá en el plazo de treinta días, contados desde la publicación de este Decreto y adoptará los procedimientos propios de su funcionamiento.
+Derogado.
 
 ## Título VIII
 
@@ -370,13 +244,7 @@ De la Fiscalización de la calidad del aire
 
 #### Artículo 32°
 
-Para los efectos del cumplimiento de este Decreto, corresponderá a los Servicios definidos en el Artículo 3° letra o), lo siguiente:
-
-a) Fiscalizar la calidad del aire, en el territorio nacional, con el objeto de que se cumpla con las normas de calidad del aire establecidas por la autoridad competente.
-
-b) Fiscalizar las redes de monitoreo que los establecimientos regulados instalen para el cumplimiento de este Decreto, en cuanto a su buen funcionamiento y el correcto registro de los datos.
-
-c) Fiscalizar el cumplimiento de los Planes de Descontaminación a que se refiere el Artículo 17° y Título Vi del presente Decreto, en cuanto a los plazos y niveles de emisión anuales de anhídrido sulfuroso y material particulado.
+Derogado.
 
 #### Artículo 33°
 
@@ -396,39 +264,7 @@ El sistema de monitoreo deberá estar plenamente instalado y en operación en el
 
 #### Artículo 35°
 
-Para efectos del monitoreo de la calidad del aire, se considerarán válidas las mediciones de concentraciones que:
-
-a) Utilicen los siguientes métodos de referencia:
-
-- Para anhídrido sulfuroso: Método colorimétrico de la pararrosanilina y detección instrumental basada en fluorescencia ultravioleta;
-
-- Otros métodos equivalente aprobados por los Servicios.
-
-b) Para anhídrido sulfuroso, se ejecuten a lo menos durante el tiempo correspondienre al período de referencia, es decir: Intervalo de tiempo Número mínimo de
-
-observaciones/promedios
-
--------------------------------------------------------
-
-1-hr (promedio) 50 minutos
-
-24-hr (Promedio) 20 observaciones horarias
-
-Promedio mensual 24 promedios diarios
-
-Promedio trimestral 3 promedios mensuales
-
-consecutivos
-
-Promedio anual 10 promedios mensuales con
-
-al menos 2 promedios
-
-mensuales por trimestre
-
-c) Cumplan a satisfacción los requerimientos para instalación, calibración y operación de los equipos de muestreo y análisis, aprobados por los Servicios.
-
-d) Otros requerimientos establecidos aprobados por los Servicios.
+Derogado.
 
 ## Título IX
 
