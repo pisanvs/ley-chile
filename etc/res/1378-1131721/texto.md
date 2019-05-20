@@ -1,0 +1,9 @@
+DISOLUCIÓN DE LA SOCIEDAD ADMINISTRADORA DE LA OBLIGACIÓN SUBORDINADA SAOS S.A.
+
+Certifico que por resolución Nº 1.378, de Santiago, 13 de mayo de 2019, se constató la disolución de la "Sociedad Administradora de la Obligación Subordinada SAOS S.A.", acorde al artículo 27, en relación con el inciso sexto del artículo 26, ambos de la ley Nº 19.396, a consecuencia de la extinción del saldo total de la obligación subordinada con el Banco Central de Chile, de que da cuenta la escritura pública de recibo de pago, alzamiento de prenda y finiquito de fecha 30 de abril de 2019, otorgada en la Notaría de Santiago de don René Benavente Cash. Lo anterior, según se consignó en el acta de la sesión de Directorio de Sociedad Administradora de la Obligación Subordinada SAOS S.A. Número 12 E, celebrada el 2 de mayo de 2019, y que fuera reducida a escritura pública con esa misma fecha ante el citado Ministro de Fe.
+
+Extracto:
+
+En sesión de Directorio de la Sociedad Administradora de la Obligación Subordinada SAOS S.A. Número 12 E, celebrada en Santiago el día 2 de mayo de 2019, cuya acta fue reducida a escritura pública con esa misma fecha en la Notaría de Santiago de don René Benavente Cash, se consignó el hecho de la disolución de la Sociedad Administradora de la Obligación Subordinada SAOS S.A. por el solo ministerio de la ley, de conformidad a lo dispuesto en el inciso sexto del artículo 26 de la ley Nº 19.396, a consecuencia del pago efectuado del saldo total de la obligación subordinada al Banco Central de Chile, según da testimonio la escritura pública de recibo de pago, alzamiento de prenda y finiquito otorgada ante el citado Ministro de Fe con fecha 30 de abril de 2019.-
+
+Mario Farren Risopatrón, Superintendente de Bancos e Instituciones Financieras.
