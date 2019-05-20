@@ -1,0 +1,9 @@
+DISOLUCIÓN DE SOCIEDAD MATRIZ DEL BANCO DE CHILE S.A., "SM-CHILE S.A."
+
+Certifico que por resolución Nº 1.379, de Santiago 13 de mayo de 2019, se constató la disolución de la Sociedad Matriz del Banco de Chile S.A., "SM-Chile S.A.", acorde con el inciso sexto del artículo 26 de la ley Nº 19.396, a consecuencia de la extinción del saldo total de la obligación subordinada con el Banco Central de Chile, de que da cuenta la escritura pública de recibo de pago, alzamiento de prenda y finiquito de fecha 30 de abril de 2019, otorgada en la Notaría de Santiago de don René Benavente Cash. Lo anterior, según se consignó en el acta de la sesión de Directorio SM-35-E, de la Sociedad Matriz del Banco de Chile S.A. celebrada el 2 de mayo de 2019 y que fue reducida a escritura pública con igual fecha ante el citado Ministro de Fe.
+
+Extracto:
+
+En sesión de Directorio de Sociedad Matriz del Banco de Chile S.A. SM-35-E, celebrada en Santiago el día 2 de mayo de 2019, cuya acta fue reducida a escritura pública con esa misma fecha en la Notaría de don René Benavente Cash, se consignó el hecho de la disolución de la Sociedad Matriz del Banco de Chile S.A. por el solo ministerio de la ley, de conformidad al inciso sexto del artículo 26 de la ley Nº 19.396, a consecuencia del pago del saldo total de la obligación subordinada efectuado al Banco Central de Chile por su filial "Sociedad Administradora de la Obligación Subordinada SAOS S.A.", según da testimonio la escritura pública de recibo de pago, alzamiento de prenda y finiquito otorgada por el Banco Central de Chile ante el citado Ministro de Fe, con fecha 30 de abril de 2019.-
+
+Mario Farren Risopatrón, Superintendente de Bancos e Instituciones Financieras.
