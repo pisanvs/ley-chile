@@ -1,0 +1,5 @@
+MODIFICA PUNTO Nº 4.1 DE CIRCULAR Nº 12, DE 18 DE MARZO DE 1987, RESPECTO DE REQUISITO PARA HACER USO DEL BENEFICIO CONTENIDO EN EL ART. 29, DE LA LEY Nº 18.591
+
+Extracto de circular del Servicio de Impuestos Internos Nº 23, de 16 de mayo de 2019, que modifica instrucciones contenidas en el Nº 4.1, de circular Nº 12, de 18 de marzo de 1987, relativo a requisito para hacer uso del beneficio contenido en el Art. 29º, de la ley Nº 18.591. Con esta modificación, se permite que los contribuyentes que desean acceder al beneficio acrediten el requisito relativo a que los impuestos que se desea recuperar hayan sido declarados y enterados en arcas fiscales oportunamente, con el comprobante de pago, en caso de haber suscrito, por los impuestos que se solicita recuperar, un Convenio de Pago con la Tesorería General de la República.
+
+El texto íntegro de esta circular está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en mayo de 2019.
