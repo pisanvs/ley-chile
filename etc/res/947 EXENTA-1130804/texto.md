@@ -20,7 +20,7 @@ Resolución:
 
 a) Postulación presencial: el postulante deberá acudir a las oficinas que el Serviu dispondrá para dichos fines, pudiendo ser incluso oficinas de otras reparticiones públicas.
 
-La postulación se realizará en días hábiles, a partir del día 6 de mayo hasta el día 17 de mayo de 2019, ambas fechas inclusive. Las postulaciones presenciales que no sean ingresadas al sistema informático, podrán digitarse en diferido, para lo cual se entregará un comprobante de recepción de los antecedentes al postulante, comprobante que en ningún caso implicará que se trata de una postulación hábil. La fecha máxima para la digitación de postulaciones en diferido será hasta el 24 de mayo de 2019, inclusive.
+La postulación se realizará en días hábiles, a partir del día 6 de mayo hasta el día 17 de mayo de 2019, ambas fechas inclusive. Las postulaciones presenciales que no sean ingresadas al sistema informático, podrán digitarse en diferido, para lo cual se entregará un comprobante de recepción de los antecedentes al postulante, comprobante que en ningún caso implicará que se trata de una postulación hábil. La fecha máxima para la digitación de postulaciones en diferido será hasta el 31 de mayo de 2019, inclusive.
 
 b) Postulaciones a través de medios electrónicos: Las personas que postulen en forma individual vía internet, a través de los medios electrónicos que se establezcan al efecto, deberán contar con la clave única entregada por el Servicio de Registro Civil e Identificación, y la información ingresada y registrada en el sistema será válida para todos los efectos de la postulación y del proceso de selección.
 
@@ -28,7 +28,7 @@ La postulación se realizará entre los días 5 y 16 de mayo de 2019, ambas fech
 
 Los beneficiarios que hayan realizado su postulación por esta vía, deberán entregar al Serviu respectivo, para obtener el certificado de subsidio correspondiente, los documentos exigibles para la postulación presencial, establecidos en el artículo 3 del DS N° 49 (V. y U.), de 2011.
 
-4. El Serviu deberá asegurar la coherencia entre lo señalado en el sistema informático y la documentación que acompañe la postulación, cuando corresponda, incluyendo los casos en que éstas sean recepcionadas por entidades externas y se presente acreditación manual de alguna de las condiciones que otorgan puntaje para la selección. En este sentido, el sistema informático estará disponible para edición hasta el 31 de mayo de 2019.
+4. El Serviu deberá asegurar la coherencia entre lo señalado en el sistema informático y la documentación que acompañe la postulación, cuando corresponda, incluyendo los casos en que éstas sean recepcionadas por entidades externas y se presente acreditación manual de alguna de las condiciones que otorgan puntaje para la selección. En este sentido, el sistema informático estará disponible para edición hasta el 7 de junio de 2019.
 
 5. Los recursos dispuestos para la selección de postulantes, por Región del país, son los siguientes:
 
