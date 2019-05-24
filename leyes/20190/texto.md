@@ -1166,7 +1166,7 @@ El derecho real de prenda se adquirirá, probará y conservará por la inscripci
 
 En caso de bienes sujetos a inscripción obligatoria en algún otro registro, la prenda será inoponible a terceros, mientras no se anote una referencia del contrato de prenda al margen de la inscripción correspondiente.
 
-Sin embargo, el derecho de prenda no será oponible contra el tercero que adquiera el bien empeñado por venta al detalle en una fábrica, feria, bolsa de productos agropecuarios, casa de martillo, tienda, almacén u otros establecimientos análogos en que se vendan cosas muebles de la misma naturaleza.
+Sin embargo, el derecho de prenda no será oponible contra el tercero que adquiera el bien empeñado por venta al detalle en una fábrica, feria, bolsa de productos, casa de martillo, tienda, almacén u otros establecimientos análogos en que se vendan cosas muebles de la misma naturaleza.
 
 #### Artículo 26
 
@@ -1176,7 +1176,19 @@ No obstante, de oficio o a requerimiento de cualquier interesado y dentro de un 
 
 #### Artículo 27
 
-El deudor prendario tendrá derecho a exigir a su acreedor que suscriba el acto de alzamiento a que se refiere el artículo 2° de esta ley, efectuado que sea el pago íntegro de las obligaciones caucionadas. Si el acreedor prendario se negare, el deudor podrá solicitar judicialmente su alzamiento de conformidad con el procedimiento prescrito en el Título IV, Párrafo 2° del Libro III del Código de Procedimiento Civil.
+El acreedor de una o más obligaciones caucionadas con una prenda sin desplazamiento que opere como garantía específica estará obligado a otorgar la escritura pública o el instrumento privado autorizado y debidamente protocolizado en el registro del mismo notario que lo autorizó, correspondiente al alzamiento de la referida prenda y de los demás gravámenes y prohibiciones que se hayan constituido al efecto, una vez extinguidas totalmente la o las obligaciones caucionadas por dicha prenda, dentro de un plazo que no podrá exceder de cuarenta y cinco días, contado desde la extinción total de la deuda. De tal circunstancia y de la realización de los señalados trámites, el acreedor prendario deberá informar por escrito al deudor, a través de cualquier medio físico o tecnológico idóneo, al último domicilio registrado por el deudor con el acreedor, dentro de los treinta días siguientes de practicada la cancelación en el Registro de Prendas sin Desplazamiento. Los comprobantes de pago emitidos por el proveedor de un crédito caucionado con una prenda sin desplazamiento que opere como garantía específica, correspondientes a las tres últimas cuotas pactadas, harán presumir el pago íntegro del crédito caucionado con dicha garantía, debiendo seguirse respecto del alzamiento y cancelación de ésta lo dispuesto precedentemente.
+
+En el caso de créditos caucionados con una prenda sin desplazamiento que opere como garantía general, una vez pagadas íntegramente las deudas garantizadas, tanto en calidad de deudor principal como en calidad de avalista, fiador o codeudor solidario respecto de las cuales dicha caución subsista, el proveedor deberá informar por escrito al deudor tal circunstancia, en el plazo de hasta veinte días corridos, a través de cualquier medio físico o tecnológico idóneo, al último domicilio registrado por el deudor con el proveedor, de conformidad a lo dispuesto en el Título IV del decreto supremo Nº 43, de 2012, del Ministerio de Economía, Fomento y Turismo, que contiene el Reglamento sobre Información al Consumidor de Créditos de Consumo. Efectuada dicha comunicación por parte del proveedor, el deudor podrá requerir, por cualquier medio físico o tecnológico idóneo, el otorgamiento de la escritura pública o instrumento privado autorizado y debidamente protocolizado en el registro del mismo notario que lo autorizó, correspondiente al alzamiento de la referida prenda y de los demás gravámenes y prohibiciones que se hayan constituido al efecto, y su ingreso para inscripción en el Registro respectivo, gestiones que serán de cargo y costo del proveedor y que éste deberá efectuar dentro de un plazo que no podrá exceder de cuarenta y cinco días, contado desde la solicitud del deudor. El acreedor prendario deberá informar por escrito al deudor, por cualquier medio físico o tecnológico idóneo, al último domicilio registrado por el deudor con el acreedor, del alzamiento y cancelación de la prenda sin desplazamiento y de todo otro gravamen o prohibición constituido en su favor, dentro de los treinta días siguientes de practicada la respectiva cancelación en el Registro de Prendas sin Desplazamiento.
+
+Si no existieren obligaciones pendientes para con el acreedor prendario, el deudor no estará obligado a mantener en favor de éste la vigencia de una prenda sin desplazamiento que opere como garantía general ni de otros gravámenes o prohibiciones ya constituidos para los efectos de obtener un nuevo crédito, y podrá en todo momento, y sin esperar la comunicación del proveedor de que trata el inciso precedente, solicitar el respectivo alzamiento por cualquier medio físico o tecnológico idóneo, el cual se efectuará en la misma forma y plazo previstos en dicho inciso. Sin perjuicio de lo anterior, el deudor podrá conservar la vigencia de esta garantía general y los demás gravámenes y prohibiciones asociados, a su sola voluntad.
+
+Los alzamientos de prendas sin desplazamiento y cualquier otro gravamen o prohibición constituidos en favor de un proveedor de servicios financieros podrán efectuarse por el titular o beneficiario de las mismas de forma masiva. Para tales efectos, bastará otorgar una escritura pública o instrumento privado autorizado y debidamente protocolizado en el registro del mismo notario que lo autorizó, que contenga un listado o nómina de gravámenes o prohibiciones, individualizando los bienes pignorados y su número de inscripción en el Registro de Prendas sin Desplazamiento, sea que tales gravámenes o prohibiciones se refieran a uno o más deudores. En caso de que una o más de las solicitudes no pudieran cursarse, dicha situación no impedirá la tramitación de las restantes, y el o los deudores interesados podrán resolver las insuficiencias o errores que fundaron el rechazo a la inscripción de los alzamientos y concluir su tramitación. La cancelación de los gravámenes o prohibiciones inscritos en el Registro de Prendas sin Desplazamiento deberá ser practicada por el Servicio de Registro Civil e Identificación dentro de un plazo que no podrá exceder de diez días contado desde el ingreso del respectivo instrumento a dicho Servicio.
+
+Los notarios no podrán oponerse a autorizar las escrituras públicas o instrumentos privados que hayan de protocolizar en su registro, donde consten los alzamientos de prenda sin desplazamiento de forma masiva, sin perjuicio de percibir los correspondientes honorarios determinados de acuerdo a la ley Nº 16.250.
+
+Si el acreedor prendario se negare a efectuar los respectivos alzamientos de conformidad al presente artículo, el deudor podrá solicitar judicialmente tales alzamientos de acuerdo con el procedimiento establecido en el Párrafo 2 del Título IV del Libro Tercero del Código de Procedimiento Civil, sin perjuicio de las sanciones e indemnizaciones y los procedimientos de reclamación que procedan de conformidad a la ley Nº19.496.
+
+Lo dispuesto en los incisos precedentes se aplicará a los cesionarios de los créditos prendarios, cuando proceda.
 
 ## Título V
 
@@ -1668,15 +1680,17 @@ Establécense las siguientes normas para incentivar la inversión en capital de 
 
 1.- Norma para los fondos de inversión.
 
-Para los efectos de lo dispuesto en la Ley sobre Impuesto a la Renta contenida en el artículo 1º del decreto ley Nº 824, de 1974, se considerarán ingresos no constitutivos de renta los ingresos percibidos por los aportantes de fondos de inversión que cumplan con los requisitos de este número, originados en el mayor valor obtenido por el fondo de inversión respectivo en la enajenación de las acciones que se indican, en aquella parte que exceda del producto de multiplicar el valor de adquisición reajustado de las respectivas acciones, por el factor resultante de elevar 1,0003 a una potencia igual al número de días transcurridos entre la fecha de adquisición de las acciones y la de su enajenación.
+Para los efectos de lo dispuesto en la Ley sobre Impuesto a la Renta contenida en el artículo 1º del decreto ley Nº 824, de 1974, se considerarán ingresos no constitutivos de renta los ingresos percibidos por los aportantes de fondos de inversión que cumplan con los requisitos de este número, originados en el mayor valor obtenido por el fondo de inversión respectivo en la enajenación de las acciones que se indican, en aquella parte que exceda del producto de multiplicar el valor de adquisición de las respectivas acciones, por el valor del Índice de Precios Selectivo de Acciones de la Bolsa de Comercio de Santiago al momento de la enajenación de las acciones dividido por el valor de dicho índice al momento de su adquisición. En caso de no contarse con información acerca del valor del mencionado índice, la Superintendencia de Valores y Seguros deberá determinar un indicador de rentabilidad de mercado que lo reemplace para efectos del cálculo de la fórmula anterior.
 
-Sólo podrán acogerse a lo dispuesto en este artículo el mayor valor obtenido en la enajenación de acciones emitidas por sociedades anónimas cerradas o sociedades por acciones que cumplan con los siguientes requisitos:
+Sólo podrán acogerse a lo dispuesto en este artículo el mayor valor obtenido en la enajenación de acciones que cumplan con los siguientes requisitos:
 
-(i) Que su enajenación se verifique después de transcurridos a lo menos veinticuatro meses de haberlas adquirido.
+(i) Que al momento de efectuar la inversión, se trate de acciones emitidas por sociedades anónimas cerradas o sociedades por acciones que no coticen sus acciones en Bolsa.
 
-(ii) Que al momento de efectuar la enajenación, el monto invertido por el fondo de inversión en la sociedad cuyas acciones se enajenan no supere el 40% del total de aportes pagados por los aportantes al fondo.
+(ii) Que su enajenación se verifique después de transcurridos a lo menos veinticuatro meses de haberlas adquirido.
 
-(iii) Que el adquirente de las acciones y sus socios o accionistas, en el caso de ser sociedades, o sus partícipes, en el caso de ser un fondo, no se encuentren relacionados, en los términos del artículo 100 de la ley Nº 18.045, con el fondo de inversión enajenante, sus aportantes o su sociedad administradora, ni con los accionistas de ésta.
+(iii)Que al momento de efectuar la enajenación, el monto invertido por el fondo de inversión en la sociedad cuyas acciones se enajenan no supere el 40% del total del activo del fondo.
+
+(iv) Que el adquirente de las acciones y sus socios o accionistas, en el caso de ser sociedades, o sus partícipes, en el caso de ser un fondo, no se encuentren relacionados, en los términos del artículo 100 de la ley Nº 18.045, con el fondo de inversión enajenante, sus aportantes o su sociedad administradora, ni con los accionistas de ésta.
 
 Para calificar a esta franquicia, los fondos de inversión deberán incorporar en su reglamento interno los requerimientos y obligaciones establecidas en este número.
 
@@ -1686,7 +1700,7 @@ La totalidad de los activos del fondo de inversión, sin considerar las reservas
 
 (ii) No hayan alcanzado un volumen anual de ingresos por ventas o servicios, excluido el Impuesto al Valor Agregado que hubiere afectado dichas operaciones, que supere en cualquier ejercicio comercial las 400.000 unidades de fomento, según su valor al término del año respectivo.
 
-(iii) No tengan utilidades tributables retenidas que, debidamente reajustadas, excedan del equivalente al 20% del monto de su capital pagado, también reajustado.
+(iii) No tengan utilidades pendientes de tributación que, debidamente reajustadas, excedan del equivalente al 20% del monto de su capital pagado, también reajustado.
 
 (iv) No formen parte de ningún grupo empresarial incluido en la nómina publicada por la Superintendencia de Valores y Seguros en conformidad a lo dispuesto en el Título XV de la ley Nº 18.045.
 
@@ -1694,11 +1708,11 @@ En todo momento las sociedades en que estén invertidos los fondos no podrán te
 
 Además de dar cumplimiento a su reglamento interno, para la procedencia de esta franquicia los fondos de inversión deberán cumplir los siguientes requisitos:
 
-(i) El monto de la inversión máxima a realizar por el fondo de inversión en una misma sociedad no podrá superar, al momento de efectuar cada inversión, el 40% del total de aportes pagados por los aportantes al fondo, debiéndose regularizar cualquier exceso de inversión que se produzca, sea por la vía de aumentar el capital pagado o de reducir el monto invertido, dentro del plazo máximo de 24 meses, salvo el caso de la primera inversión, que podrá regularizarse hasta en 36 meses.
+(i) El monto de la inversión máxima a realizar por el fondo de inversión en una misma sociedad no podrá superar, al momento de efectuar cada inversión, el 40% del total del activo del fondo, debiéndose regularizar cualquier exceso de inversión que se produzca, sea por la vía de aumentar el capital pagado o de reducir el monto invertido, dentro del plazo máximo de 24 meses, salvo el caso de la primera inversión, que podrá regularizarse hasta en 36 meses.
 
 (ii) Transcurrido un año de la primera inversión realizada por el fondo, ningún partícipe podrá poseer más del 20% del total de cuotas del fondo, ya sea en forma individual o en conjunto con otras personas con las cuales mantenga un acuerdo de actuación conjunta, según dicho concepto está definido en el artículo 98 de la ley Nº 18.045, salvo que se trate de un aportante que califique como inversionista institucional de acuerdo a lo establecido en la letra f) del artículo 4º bis de la ley Nº 18.045.
 
-(iii) Ser un fondo fiscalizado por la Superintendencia de Valores y Seguros.
+(iii) Ser un fondo fiscalizado por la Superintendencia de Valores y Seguros o que la administradora del fondo se encuentre registrada en ella.
 
 El resultado obtenido por el fondo de inversión en aquellas inversiones distintas de las permitidas en este artículo, no podrá acogerse a la franquicia prevista en este número, pero podrán considerarse en el cálculo de los límites de inversión requeridos para que el resultado obtenido por el fondo de inversión en sus restantes inversiones pueda beneficiarse del tratamiento tributario previsto en este artículo.
 
