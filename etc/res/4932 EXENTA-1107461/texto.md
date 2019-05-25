@@ -26,7 +26,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Fíjase la nómina de los profesionales de la educación del sector municipal que ejercieron el derecho establecido en el artículo quinto transitorio de la ley Nº 20.903, la que, a fin de asegurar la confidencialidad de los datos en esta contenida y dar cumplimiento a lo establecido en la ley Nº 19.628, se encuentra en un documento de formato portátil, con firma electrónica avanzada del Jefe del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, en adelante "el Centro", almacenado en disco versátil digital que se acompaña, número de serie DVD-R 130109-S2, firmado por el Jefe del Centro, el que para todos los efectos legales forma parte integrante de la presente resolución.
+Fíjase la nómina de los profesionales de la educación del sector municipal, que ejercieron el derecho establecido en el artículo quinto transitorio de la ley N° 20.903, los que se encuentran individualizados en el listado contenido en el disco compacto denominado "Actualización Rex. 4932-2017, abril de 2019", número de serie B3117JH0218347LH, refrendado mediante la firma electrónica de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, el que forma parte de la presente resolución.
 
 #### Artículo segundo
 
@@ -34,7 +34,7 @@ Establécese que los profesionales de la educación individualizados en dicha n�
 
 #### Artículo tercero
 
-Custódiese el disco versátil digital que contiene la nómina de los profesionales de la educación de que trata el artículo primero de la presente resolución exenta, número de serie DVD-R 130109-S2, por el Jefe del Centro.
+Para asegurar la confidencialidad de la nómina a que se refiere el artículo primero de esta resolución, y con el objeto de dar cumplimiento a las obligaciones establecidas en la ley N° 19.628 sobre Protección de la Vida Privada, se resguardará el disco compacto ya individualizado, mediante la custodia ejercida por el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas de esta Secretaría de Estado.
 
 #### Artículo cuarto
 
