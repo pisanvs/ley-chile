@@ -418,6 +418,18 @@ QUINTERO
 
 . El sistema vial urbano que interconecta la Ruta E-30-F con la Ruta F-190, a través de vía troncal VT-1q y vía troncal VT-11q (ex Ruta F-240).
 
+Hijuelas
+
+. El tramo urbano de la Ruta F-301-E, desde el límite urbano poniente hasta el límite urbano oriente, a través de Av. Manuel Rodríguez.
+
+Limache
+
+. El sistema vial urbano que interconecta las Rutas F-62 y F-590, desde el límite urbano poniente hasta el límite urbano oriente, a través de calle Mercedes, calle Hernán Cortés y Avda. Eastman.
+
+Olmué
+
+. El sistema vial urbano que interconecta las Rutas F-590 y F-660, desde el límite urbano poniente hasta el límite urbano sur, a través de Av. Eastman, calle Colegio y Av. Narváez.
+
 5º Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
 > **Nota.** El numeral 2° del Decreto 1522 Exento, Obras Públicas, publicado el 29.07.2011, complementa la presente norma en el sentido de incorporar como camino público en la Quinta Región de Valparaíso las siguientes calles o avenidas: El tramo urbano de la Ruta E-765 (La Florida - Las Vizcachas) comprendido entre el cruce de esta vía con la Ruta E-85 (San Felipe - Los Andes) y el límite urbano Oriente de la ciudad de San Esteban.
