@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 3.333, de 7 de mayo de 2019, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Nueva San Bernardo Ltda.", de propiedad de sociedad "Escuela de Conductores Nueva San Bernardo Limitada", RUT N° 76.939.009-K, cuya representante legal y directora es la señora María Teresa Olguín Gálvez, RUT N° 13.489.614-0, y está ubicada en Covadonga N° 680, oficinas 2 y 3, comuna de San Bernardo. Horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y doce horas prácticas, con un total de veinte horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
