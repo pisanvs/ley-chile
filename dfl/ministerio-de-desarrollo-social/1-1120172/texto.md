@@ -140,7 +140,7 @@ La expresión "validados", utilizada en los párrafos precedentes de este artíc
 
 Traspásese, sin solución de continuidad, desde la Subsecretaría de Servicios Sociales a la Subsecretaría de la Niñez, a contar de la fecha de iniciación de actividades establecida en el artículo 5º, a 4 funcionarios asimilados a la planta de profesionales que se desempeñen en la Unidad de la Niñez de la Subsecretaría de Servicios Sociales.
 
-Además, a contar del 1 de enero de 2019, traspásese, sin solución de continuidad, desde la Subsecretaría de Servicios Sociales a la Subsecretaría de la Niñez, a un funcionario titular de un cargo de planta profesional y a 14 funcionarios asimilados a la planta de profesionales que se desempeñen en el Subsistema de Protección Integral a la Infancia Chile Crece Contigo creado por la ley Nº 20.379.
+Además, a contar del 1 de enero de 2019, traspásese, sin solución de continuidad, desde la Subsecretaría de Servicios Sociales a la Subsecretaría de la Niñez, a 9 funcionarios asimilados a la planta de profesionales que se desempeñen en el Subsistema de Protección Integral a la Infancia Chile Crece Contigo creado por la ley Nº 20.379.
 
 A contar de la fecha del traspaso se suprimirá por el solo ministerio de la ley en la planta de personal de la Subsecretaría de Servicios Sociales, el cargo de planta que se traspase. Desde esa misma data se rebajará la dotación máxima de personal de la Subsecretaría antes señalada en el mismo número de cargos que se traspasen a la Subsecretaría de la Niñez. Conjuntamente con el traspaso de personal se transferirán desde la Subsecretaría de Servicios Sociales los recursos presupuestarios liberados por dicho traspaso.
 
