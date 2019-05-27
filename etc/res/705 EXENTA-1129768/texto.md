@@ -40,7 +40,7 @@ Se podrán disminuir los recursos del presente llamado o aumentarlos con cargo a
 
 ### 3. El proceso del llamado comprenderá las siguientes etapas:
 
-3.1 Gestión de la demanda con municipios, organizaciones comunitarias y vecinos. Esta tarea estará a cargo de la Seremi respectiva, la que deberá excluir cités que presenten condiciones de alto hacinamiento por subarriendo, en la vivienda existente o en construcciones o subdivisiones precarias o irregulares.
+3.1 Gestión de la demanda con municipios, organizaciones comunitarias y vecinos. Esta tarea estará a cargo de la Seremi respectiva.
 
 3.2 Invitación a los PSAT a trabajar con las familias que en la etapa anterior hayan expresado su interés en participar en este llamado.
 
@@ -71,6 +71,8 @@ Se podrán disminuir los recursos del presente llamado o aumentarlos con cargo a
 5. Las condiciones especiales que se establecen para este llamado son las siguientes:
 
 5.1 Para este llamado se entenderán como Viviendas Objeto del Programa, los cités, entendiéndose como tales al tipo de construcción colectiva compuesta de una agrupación de casas pequeñas de fachada continua, en torno a un espacio público (por ejemplo, pasaje ciego, o escalera en caso de emplazarse en cerros) de acceso común para las viviendas, las que pueden plantearse en uno o varios niveles (incluso en forma escalonada). Las casas podrán pertenecer a uno o más propietarios.
+
+Se excluirán de este llamado los Cités que presenten hacinamiento crítico, por subarriendo, en la vivienda existente o en construcciones o subdivisiones precarias o irregulares. Hacinamiento crítico según el índice del Ministerio de Desarrollo Social (5 y más personas por dormitorio).
 
 El inmueble original deberá tener principalmente destino habitacional y cumplir con alguna de las siguientes condiciones:
 
@@ -132,7 +134,7 @@ b) Adjuntar un certificado de informaciones previas vigente, emitido por la DOM 
 
 c) Adjuntar carta de adhesión con un mínimo del 80%, en la cual los postulantes declaren estar de acuerdo con el tipo de proyecto que se realizará. Dada la complejidad de los proyectos sanitarios, se exigirá una adhesión del 100% de los postulantes y que la carta mencione el compromiso por parte de los postulantes de dar las facilidades y permisos necesarios para la ejecución de los trabajos. Los porcentajes indicados son respecto al total de las unidades de cada uno de los cités. Estos porcentajes se podrán rebajar según lo contemplado en el punto 5.3.
 
-d) Previo al ingreso del proyecto al Serviu, se deberá ingresar en la Seremi para su aprobación, un expediente donde queda registrada la situación del cité. La aprobación del expediente por parte de la Seremi será condición indispensable para la calificación y selección del proyecto. Dicho expediente debe contener los siguientes antecedentes:
+d) Al momento de hacer ingreso del proyecto en Serviu, se deberá ingresar en la Seremi a modo informativo, un expediente donde quede registrada la situación de las viviendas; dicho expediente debe contener los siguientes antecedentes:
 
 ### 1. N° total de viviendas, separada en uso habitacional y otros
 
@@ -146,7 +148,7 @@ d) Previo al ingreso del proyecto al Serviu, se deberá ingresar en la Seremi pa
 
 6. Copia de carta de adhesión señalada en la letra c) del presente resuelvo, según formato a entregar por la Seremi respectiva.
 
-7. Informe del PSAT que certifica, acorde a lo indicado en el resuelvo 3.1, que el cité no presenta condiciones de alto hacinamiento por subarriendo, en la vivienda existente o en construcciones o subdivisiones precarias o irregulares. La veracidad de esta información será constatada en terreno por la Seremi.
+7. Informe del PSAT que certifica, acorde a lo indicado en el resuelvo 5.1, que el cité no presenta condiciones de hacinamiento crítico por subarriendo, en la vivienda existente o en construcciones o subdivisiones precarias o irregulares.
 
 5.9 El Plan de Habilitación Social de los proyectos deberá cumplir además de lo establecido en el DS N° 255 (V. y U.), de 2006, con los siguientes contenidos adicionales:
 
