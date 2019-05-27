@@ -22,11 +22,11 @@ Considerando:
 
 Resolución:
 
-1. Llámase a postulación en condiciones especiales a familias residentes en viviendas Antiguas y/o Patrimoniales, sean estas últimas monumentos históricos, inmuebles de conservación histórica, o emplazadas en zonas típicas o en zonas de conservación histórica de las regiones de Coquimbo, Valparaíso y Metropolitana, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título II Mejoramiento de la Vivienda, letras b.1) y b.2) del artículo 5° del DS. N° 255 (V. y U.) de 2006, destinados a proyectos de Seguridad de la Vivienda y Habitabilidad de la Vivienda, respectivamente
+1. Llámase a postulación en condiciones especiales a familias residentes en Viviendas Patrimoniales, sean éstas monumentos históricos, inmuebles de conservación histórica, o emplazadas en zonas típicas o en zonas de conservación histórica, de las regiones de Coquimbo, Valparaíso y Metropolitana, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título II Mejoramiento de la Vivienda, letras b.1) y b.2) del artículo 5º del DS Nº 255 (V. y U.) de 2006, destinados a proyectos de Seguridad de la Vivienda y Habitabilidad de la Vivienda, respectivamente.
 
-Este llamado contempla una primera selección para las regiones de Coquimbo, Valparaíso y Metropolitana la que se realizará el día 18 de octubre de 2019 y en la cual podrán postular los proyectos que cuenten con certificado de calificación a esa fecha y para las regiones de Coquimbo y Valparaíso se establece una segunda selección, para el día 12 de diciembre de 2019, donde podrán postular los proyectos calificados a esa fecha.
+Este llamado contempla 1 selección, la que se realizará el día 2 de septiembre de 2019 y en la cual podrán postular los proyectos que cuenten con certificado de calificación a esa fecha.
 
-2. La postulación a este llamado se podrá realizar en forma colectiva o individual.
+2. La postulación a este llamado se podrá realizar en forma grupal o individual.
 
 ### 3. El proceso del llamado comprenderá las siguientes etapas:
 
@@ -36,7 +36,7 @@ Será responsabilidad del Serviu respectivo, no incluir viviendas que presenten 
 
 3.2 Invitación a los Prestadores de Servicios de Asistencia Técnica (PSAT) a trabajar con las familias que hayan expresado su interés en participar en este llamado.
 
-3.3 Los PSAT desarrollarán los proyectos de acuerdo a los requerimientos técnicos, constructivos y patrimoniales de las viviendas de las familias a atender. Los proyectos cuidarán especialmente de mantener el valor patrimonial de la vivienda aun cuando ésta no esté resguardada por un Instrumento de Planificación Territorial o por un Decreto del Consejo de Monumentos Nacionales.
+3.3 Los PSAT desarrollarán los proyectos de acuerdo a los requerimientos técnicos, constructivos y patrimoniales de las viviendas de las familias a atender. Los proyectos cuidarán especialmente de mantener el valor patrimonial de la vivienda.
 
 3.4 Ingreso de proyectos al Servicio de Vivienda y Urbanización (Serviu) respectivo considerando las factibilidades del área técnica, jurídica, social y administrativa.
 
@@ -54,9 +54,11 @@ Será responsabilidad del Serviu respectivo, no incluir viviendas que presenten 
 
 4.5 De lo dispuesto en los artículos 16, letra d), y 21, letra e) referidos a que la vivienda sea Objeto del Programa.
 
-4.6 De lo establecido en el artículo 28, referente a los factores de puntaje.
+4.6 De los antecedentes generales para postular a cualquier título exigidos en el artículo 21 en sus letras a) y b) referidos a la carátula de postulación y letra ll) referida a la nómina de contratos.
 
-4.7 De lo establecido en el artículo 32, sobre el otorgamiento de un Certificado de Subsidio y del artículo 37, sobre la presentación de un Certificado de Subsidio y/o su endoso para efectuar los pagos.
+4.7 De lo establecido en el artículo 28, referente a los factores de puntaje.
+
+4.8 De lo establecido en el artículo 32, sobre el otorgamiento de un Certificado de Subsidio y del artículo 37, sobre la presentación de un Certificado de Subsidio y/o su endoso para efectuar los pagos.
 
 5. Los recursos totales comprometidos por cada región para este Llamado Especial se detallan en el cuadro siguiente, que incluyen el monto del subsidio y la asistencia técnica respectiva:
 
@@ -70,13 +72,9 @@ Se podrá disminuir los recursos del presente llamado o aumentarlos con cargo a 
 
 6. Las condiciones especiales que se establecen para este llamado son las siguientes:
 
-6.1 Se entenderán como Viviendas Objeto del Programa:
+6.1 Se entenderán como Viviendas Objeto del Programa: Las Viviendas Patrimoniales que tengan la calidad de monumentos históricos o inmuebles de conservación histórica, o emplazadas en Zonas Típicas o Zonas de Conservación Histórica, con destino principalmente habitacional, las que pueden estar estructuradas en madera y adobillo, sistema de quincha, sistema pilar y viga con envolvente de tapial, albañilería en adobe, albañilería de ladrillo y tabiquería de madera con adobillo, cimientos de piedra, entre otros sistemas constructivos de similares características.
 
-a) Las Viviendas Patrimoniales que tengan la calidad de monumentos históricos o inmuebles de conservación histórica, o emplazadas en Zonas Típicas o Zonas de Conservación Histórica, con destino principalmente habitacional, las que pueden estar estructuradas en madera y adobillo, sistema de quincha, sistema pilar y viga con envolvente de tapial, albañilería en adobe, albañilería de ladrillo y tabiquería de madera con adobillo, cimientos de piedra, entre otros sistemas constructivos de similares características.
-
-b) Las Viviendas Antiguas, es decir, las construidas con anterioridad a la Ley General de Urbanismo y Construcciones DFL N° 345, de 1931, el que entró en vigencia el 6 de febrero del año 1936.
-
-Se excluirán de este llamado las viviendas que presenten hacinamiento crítico, por subarriendo, en la vivienda existente o en construcciones o subdivisiones precarias o irregulares. Hacinamiento crítico según el índice del Ministerio de Desarrollo Social (5 y más personas por dormitorio).
+Se excluirán de este llamado las viviendas patrimoniales que presenten hacinamiento crítico, por subarriendo, en la vivienda existente o en construcciones o subdivisiones precarias o irregulares. Hacinamiento crítico según el índice del Ministerio de Desarrollo Social (5 y más personas por dormitorio).
 
 6.2 Podrán postular propietarios o tenedores legítimos de las viviendas entre los que se entenderán arrendatarios, comodatarios, usufructuarios u otros, o sus cónyuges, debiendo presentar solamente una postulación por vivienda, y podrán acreditar la tenencia del inmueble según lo indicado a continuación:
 
@@ -92,13 +90,13 @@ c) Otros tenedores legítimos: copia del título que acredite tal calidad y auto
 
 6.3 Se deberá acreditar en los inmuebles las siguientes condiciones:
 
-a) Acreditar la condición habitacional mediante certificado emitido por la Dirección de Obras Municipales correspondiente o mediante certificado de Avalúo Fiscal que indique el destino del inmueble.
+a) Acreditar la condición habitacional mediante certificado emitido por la Dirección de Obras Municipales correspondiente.
 
-b) Para las viviendas antiguas, la fecha de construcción podrá ser acreditada mediante las siguientes formas: a través de la DOM quienes podrán acreditar que fue construida con anterioridad a la Ley General de Urbanismo y Construcciones (DFL N° 345 de 1931, del Ministerio del Interior), la cual entró en vigencia en el año 1936, o presentando el plano de empresa sanitaria que corresponda, y en caso de que no exista se debe presentar un plano visado por la DOM de la Municipalidad correspondiente. El Serviu podrá eximir de este requisito si no lo estima pertinente para la intervención.
+b) Presentar el plano de empresa sanitaria que corresponda, en caso de que no exista debe presentar plano visado por la DOM de la Municipalidad correspondiente. Serviu podrá eximir de este requisito si no lo estima pertinente para la intervención.
 
 6.4 Cuando el inmueble esté emplazado en una Zona de Conservación Histórica o haya sido reconocido como Inmueble de Conservación Histórica, deberá contar al momento de la calificación del proyecto con la autorización de la Seremi de Vivienda y Urbanismo, según las disposiciones del artículo 60 de la Ley General de Urbanismo y Construcciones y, cuando el inmueble esté emplazado en una Zona Típica, deberá contar con la autorización del Consejo de Monumentos Nacionales, según las disposiciones vigentes.
 
-6.5 Tratándose de postulaciones colectiva se deberá acompañar copia del acta de asamblea en donde conste el acuerdo que apruebe el proyecto de reparación de las obras, la prestación de asistencia técnica y la contratación de las obras, debidamente protocolizada en una notaría, también se deberá acreditar la vigencia de la personalidad jurídica del grupo postulante.
+6.5 Para la postulación grupal podrán concurrir todos los postulantes a celebrar los contratos de prestación de asistencia técnica y el de reparación de las obras, o actuar a través de un mandatario común. En este último caso, se deberá acompañar copia del acta en donde conste el acuerdo que apruebe el proyecto de reparación de las obras, la prestación de asistencia técnica y la contratación de las obras, debidamente protocolizada en una notaría. Si el grupo de postulantes cuenta con personalidad jurídica se deberá adjuntar los documentos anteriormente mencionados debidamente autorizados por el funcionario competente o protocolizado ante un notario. También se deberá acreditar la vigencia de la personalidad jurídica del grupo organizado y la composición de la directiva.
 
 6.6 La carpeta del Proyecto de Mejoramiento de la Vivienda deberá cumplir además de lo establecido en el DS Nº 255 (V. y U.) de 2006, con los siguientes contenidos adicionales:
 
@@ -106,7 +104,7 @@ a) Informe diagnóstico del deterioro existente en la vivienda, firmado por un p
 
 Adjuntar un certificado de informaciones previas vigente, emitido por la DOM correspondiente, respecto de cada inmueble.
 
-Adjuntar informe del PSAT que certifica, acorde a lo indicado en el resuelvo 6.1, que las viviendas no presentan condiciones de hacinamiento crítico por subarriendo, en la vivienda existente o en construcciones o subdivisiones precarias o irregulares. La veracidad de esta información podrá ser constatada en terreno por el Serviu.
+Adjuntar informe del PSAT que certifica, acorde a lo indicado en el resuelvo 6.1, que las viviendas patrimoniales no presentan condiciones de hacinamiento crítico por subarriendo, en la vivienda existente o en construcciones o subdivisiones precarias o irregulares. La veracidad de esta información podrá ser constatada en terreno por el Serviu.
 
 b) Al momento de hacer ingreso del proyecto en Serviu, se deberá ingresar en la Seremi a modo informativo, un expediente donde quede registrado la situación de las viviendas; dicho expediente debe contener los siguientes antecedentes:
 
@@ -144,7 +142,7 @@ Las obras deberán priorizarse en función del Diagnóstico Técnico Constructiv
 
 En el caso de existir contrato de arrendamiento, todas las intervenciones prioritarias para este llamado se considerarán reparaciones indispensables no locativas.
 
-Normativa Aplicable: Para el diseño y ejecución de obras de intervención en viviendas construidas en tierra cruda, se aplicarán las normas y orientaciones vigentes:
+Normativa Aplicable: Para el diseño y ejecución de obras de intervención en viviendas patrimoniales construidas en tierra cruda, se aplicarán las normas y orientaciones vigentes:
 
 a) Norma Chilena NCh 3332:2013. Estructuras - Intervención de construcciones patrimoniales de tierra cruda - Requisitos del proyecto estructural.
 
@@ -176,7 +174,7 @@ Tabla Nº 1 - Montos máximos de Incrementos.
 
 9. Aportes adicionales: Se podrá complementar el monto del subsidio, con aportes adicionales destinados a potenciar el proyecto, lo cual se considerará como factor de puntaje según lo dispuesto en la presente resolución. En el caso que el aporte sea municipal se deberá acreditar mediante copia del acuerdo del Concejo Municipal, el que deberá enterarse en un plazo máximo de 45 días corridos contados desde la fecha de la Resolución de selección.
 
-El aporte adicional debe realizarse mediante depósito a plazo, el que debe contar con las siguientes características: emitido a nombre del Serviu respectivo o del representante legal del grupo, expresado en UF, renovable cada 90 días, reajustable y que sea endosable. Dicho instrumento se debe ingresar junto con el proyecto.
+El aporte adicional debe realizarse mediante depósito a plazo, el que debe contar con las siguientes características: emitido a nombre del Serviu respectivo, expresado en UF, renovable cada 90 días, reajustable y que sea endosable. Dicho instrumento se debe ingresar junto con el proyecto.
 
 10. El ahorro mínimo exigido podrá efectuarse en una cuenta de ahorro individual para cada uno de los postulantes o bien en un depósito a plazo equivalente al total del ahorro de los integrantes del grupo. Estos depósitos a plazo tendrán las características señaladas en el resuelvo anterior. Cuando el ahorro se acredite mediante libreta de ahorro o cuando el ahorro se complete de manera colectiva y/o con aportes de terceros, deberá enterarse hasta el último día hábil anterior a la postulación. Ambas modalidades deben ser acreditadas junto con los demás antecedentes del proyecto. Los montos requeridos se establecen en la siguiente tabla:
 
@@ -184,15 +182,13 @@ Tabla Nº 2 - Montos de Ahorro según superficie de la vivienda.
 
 .
 
-Las familias de la Región de Coquimbo que cuenten con ficha de damnificado como consecuencia del sismo acontecido el día 19 de enero del presente año, se eximirán del ahorro señalado en la tabla precedente.
-
 11. Para el presente Llamado se considerarán como factores de puntaje los siguientes:
 
 Tabla Nº 3 - Factores de Puntaje.
 
 .
 
-12. Podrán actuar como PSAT las municipalidades y los PSAT públicos o privados que tengan convenio marco vigente.
+12. Podrá actuar como PSAT toda municipalidad que tenga convenio marco vigente, o PSAT públicos o privados. Los PSAT no municipales deberán acreditar mediante una carta que cuentan con el patrocinio de la municipalidad respectiva o de la Seremi respectiva.
 
 13. La Seremi deberá verificar que el PSAT se encuentre activo y vigente en los Registros Técnicos de la institución al momento de la selección.
 
