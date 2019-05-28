@@ -76,7 +76,7 @@ vii) El monto de la garantía de seriedad de la oferta respecto de cada lote a s
 
 i) Indicación de las fechas en las que se podrán presentar las ofertas económicas y antecedentes de cada uno de los interesados.
 
-ii) Para la modalidad de sobre cerrado, se deberá indicar el día y hora, en el que se procederá a la apertura de sobres de antecedentes y ofertas económicas de la subasta, indicando la unidad de pesquería correspondiente.
+ii) Para la modalidad de sobre cerrado, se deberá indicar el día y hora en el que se procederá a la apertura de sobres de antecedentes administrativos y el día y hora en que se procederá a la apertura de sobres de ofertas económicas de la subasta, indicando la unidad de pesquería correspondiente. En ningún caso los actos de apertura señalados, se efectuarán en un mismo día.
 
 iii) Para la modalidad de subasta electrónica, se deberá indicar fecha y hora de inicio y fecha y hora de término de la subasta, en el cual los interesados deberán presentar sus ofertas económicas. Podrá indicarse también un cronograma de actividades previas a ser efectuadas en relación a la necesaria familiarización de los interesados con la plataforma tecnológica a utilizar.
 
@@ -124,6 +124,10 @@ iii) Acreditar encontrarse inscrito en el registro que lleva el Servicio para re
 
 iv) Entregar la o las garantías de seriedad de la oferta. Estas garantías permitirán participar en la subasta de uno o más lotes de conformidad con lo señalado en el inciso 2º del artículo 10 del presente reglamento.
 
+v) Acompañar una declaración jurada ante notario u otro ministro de fe en que quede constancia que la persona natural o jurídica que participa no tiene relación directa o a través de terceras personas con otros participantes de la subasta como filial, matriz, coligada o coligante.
+
+Para estos efectos se dará a estos términos el significado que se indica en los artículos 86 y 87 de la ley Nº 18.046, sobre Sociedades Anónimas, aun cuando la entidad correspondiente sea cualquier otra especie de sociedad o entidad jurídica.
+
 La o las garantías de seriedad que hicieron posible la adjudicación no habilitarán para nuevas posturas.
 
 Estos antecedentes, en el caso de subasta presencial, deberán ser presentados en las oficinas de la Subsecretaría que señalen las bases, hasta las 14:00 horas del día hábil anterior al de la subasta.
@@ -132,7 +136,7 @@ En el caso de subasta no presencial los antecedentes deberán presentarse conjun
 
 #### Artículo 10
 
-La garantía de seriedad de la oferta podrá consistir en un monto en dinero efectivo, vale vista bancario o boleta bancaria de garantía pagadera a la vista, emitidos por un banco establecido en Chile a nombre de la Subsecretaría, con vigencia de a lo menos 60 días corridos contados desde la fecha de la subasta.
+La garantía de seriedad de la oferta podrá consistir en un vale vista bancario, boleta bancaria de garantía pagadera a la vista o póliza de seguro con cláusula de ejecución inmediata y sin liquidador, emitidos por un banco o compañía de seguros establecido en Chile a nombre de la Subsecretaría de Pesca y Acuicultura, con vigencia de a lo menos 60 días, contados desde la fecha de la subasta.
 
 En caso que un interesado no se adjudique un determinado lote, podrá utilizar la misma garantía de seriedad de la oferta para participar en la subasta de otro lote, siempre que el monto de la garantía sea suficiente para poder realizar esta nueva oferta.
 
@@ -176,13 +180,23 @@ En el caso de la subasta no presencial, cuando ésta se realice por medios tecno
 
 #### Artículo 15
 
-Ninguna persona podrá adjudicarse un porcentaje superior al 50% del total a subastar, ya sea directamente o a través de terceras personas naturales o jurídicas con las que se relacione como filial, matriz, coligada o coligante. Para tales efectos se dará a estos términos el significado que se indica en los artículos 86 y 87 de la Ley Nº 18.046, sobre Sociedades Anónimas, aún cuando la entidad correspondiente sea cualquier otra especie de sociedad o entidad jurídica.
+Ninguna persona podrá adjudicarse un porcentaje superior al 40% del total a subastar, ya sea directamente o a través de terceras personas naturales o jurídicas con las que se relacione como filial, matriz, coligada o coligante. Para tales efectos se dará a estos términos el significado que se indica en los artículos 86 y 87 de la Ley Nº 18.046, sobre Sociedades Anónimas, aún cuando la entidad correspondiente sea cualquier otra especie de sociedad o entidad jurídica.
 
 Cada adjudicatario recibirá el día de la subasta un comprobante por cada lote adjudicado, el que será reemplazado por una copia de resolución en la que se individualizará al adjudicatario, el lote adjudicado, y el porcentaje de la cuota de reserva para consumo humano que tendrá derecho a extraer anualmente.
 
+#### Artículo 15 bis
+
+Se declarará desierto un lote en caso que no se presenten ofertas o las presentadas no estén sobre el precio mínimo a que hace referencia el artículo 5º del presente Reglamento.
+
+En dicho caso, se procederá por una única vez, dentro del plazo de 30 días, contados desde la realización de ésta, a una nueva subasta por el lote o lotes declarados desiertos, en la que no regirá la restricción del precio mínimo a que alude el inciso final del artículo 5º del presente Reglamento.
+
+No obstante lo anterior, se aplicará a la subasta a que alude el inciso anterior la limitante del artículo 15 de este Reglamento, la que para estos efectos se entenderá referida a la totalidad de la cuota subastada para reserva de consumo humano.
+
+En caso que no se adjudique este lote en la nueva subasta o no se realice el pago de la primera anualidad, la cuota correspondiente a dicho lote acrecerá a la cuota global de captura.
+
 #### Artículo 16
 
-El monto total expresado en UTM de cada oferta adjudicada se dividirá en tres anualidades iguales. Los pagos se efectuarán anticipadamente en el mes de julio y diciembre de cada año. No obstante, el primero de estos pagos deberá efectuarse de conformidad con lo dispuesto en los artículos siguientes.
+El monto total expresado en UTM de cada oferta adjudicada se dividirá en tres anualidades iguales. Los pagos se efectuarán en el mes de julio de cada año calendario. No obstante, el primero de estos pagos deberá efectuarse de conformidad con lo dispuesto en los artículos siguientes.
 
 #### Artículo 17
 
@@ -192,11 +206,19 @@ Recibida por la Subsecretaría copia auténtica del comprobante de pago de la pr
 
 #### Artículo 18
 
-El adjudicatario que no diere cumplimiento a la obligación de pago de la primera anualidad a que se refiere el artículo anterior, se entenderá por este solo hecho como desistido de su oferta y se hará efectiva la garantía de seriedad de la oferta. En tal caso la cuota correspondiente a dicho lote se subastará nuevamente por una única vez dentro del plazo de 30 días, contados desde la certificación del hecho de no pago, en la cual no podrá participar la empresa de menor tamaño que haya incumplido. En caso que no se adjudique este lote en la nueva subasta o no se realice el pago de alguna anualidad, la cuota correspondiente a dicho lote acrecerá a la cuota remanente de captura.
+El adjudicatario que no diera cumplimiento a la obligación de pago de la primera anualidad a que se refiere el artículo 17, se entenderá por este solo hecho como desistido de su oferta y se hará efectiva la garantía de seriedad de la oferta.
 
-En caso que el adjudicatario no pague la segunda o tercera anualidad a que se refiere el artículo 16 de este reglamento, se dejará sin efecto la respectiva adjudicación y se subastará nuevamente el respectivo lote por el plazo que quede de dicha adjudicación por una única vez dentro del plazo de 30 días, contados desde que se deje sin efecto dicha adjudicación. En dicha subasta no podrá participar la empresa de menor tamaño que haya incumplido. En caso que no se adjudique este lote en la nueva subasta o no se realice el pago de alguna anualidad, la cuota correspondiente a dicho lote acrecerá a la cuota remanente de captura.
+Producido el desistimiento señalado en el inciso anterior, se procederá a una nueva subasta, por única vez, respecto de ese lote, dentro del plazo de 30 días, contados desde la realización de ésta o de la certificación de no pago en su caso.
 
-En caso que existan lotes que no hayan sido adjudicados en la subasta, se procederá por una única vez, dentro del plazo de 30 días contados desde la realización de ésta, a realizar una nueva subasta en la cual no regirá la limitación del porcentaje que los lotes a subastar deben representar de la cuota de reserva para consumo humano señalada en el artículo 5º, ni la restricción del inciso primero del artículo 15, ambos de este Reglamento. En esta nueva subasta los lotes no subastados acrecerán a la cuota remanente de captura.
+En caso que el adjudicatario no pague alguna de las anualidades a que se refiere el artículo 16 de este Reglamento, la Subsecretaría deberá certificar esta circunstancia y con este mérito dejar sin efecto la respectiva resolución y deberá proceder a subastar nuevamente el respectivo lote por el plazo que quede, por única vez dentro del plazo de 30 días contado desde que se deje sin efecto dicho acto administrativo.
+
+Las subastas señaladas en los incisos anteriores se denominarán de reasignación y en éstas no podrán participar los adjudicatarios cuyo incumplimiento haya dado lugar a las nuevas licitaciones.
+
+Sólo se procederá a una subasta de reasignación por cada lote, en la que no regirá la restricción del precio mínimo a que alude el inciso final del artículo 5° del presente Reglamento.
+
+No obstante lo anterior, se aplicará a la subasta a que alude el inciso anterior, la limitante del artículo 15 de este Reglamento, la que para estos efectos se entenderá referida a la totalidad de la cuota subastada para reserva de consumo humano.
+
+En caso que no se adjudiquen estos lotes en las subastas de reasignación o no se realice el pago de la primera anualidad relativa a las mismas, la cuota correspondiente a dichos lotes acrecerá a la cuota global de captura.
 
 #### Artículo 19
 
