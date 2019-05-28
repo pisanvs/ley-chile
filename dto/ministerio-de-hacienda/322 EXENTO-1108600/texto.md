@@ -16,7 +16,7 @@ Que, atendido lo anterior y en ejercicio de mis atribuciones,
 
 Decreto:
 
-Apruébase la siguiente obra específica, de naturaleza pública, que puede financiarse con donaciones susceptibles de acogerse a los beneficios tributarios a que se refiere la ley Nº 20.444:
+Apruébase la siguiente obra específica, de naturaleza privada, que puede financiarse con donaciones susceptibles de acogerse a los beneficios tributarios a que se refiere la ley Nº 20.444:
 
 Anótese y publíquese.- Por orden de la Presidenta de la República, Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Mario Fernández Baeza, Ministro del Interior y Seguridad Pública.
 
