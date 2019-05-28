@@ -602,15 +602,21 @@ Se podrán financiar aquellos gastos realizados en Chile, relativos a servicios 
 
 - Gastos asociados a la gestión de derechos de autor y conexos de autores chilenos.
 
+- Gastos de Postproducción: edición, corrección de color, postproducción de sonido, doblaje, efectos especiales, foley (recreación de sonidos), entre otros. La Gerencia de Redes y Competitividad determinará los gastos relevantes para determinar el cálculo y otorgamiento del subsidio definitivo.
+
 Se excluyen los costos de desarrollo, entre los que se encuentran el desarrollo de historias y guiones; los costos de contratación del equipo técnico y artístico extranjero que tienen mayor injerencia en la dirección creativa de la obra audiovisual, tales como el guionista, el director, el productor y honorarios de los actores principales extranjeros (Above the line) entre otros.
 
 Cofinanciamiento y tope máximo
 
 El incentivo no podrá exceder del 30% de los gastos calificados realizados por la empresa beneficiaria en Chile con un tope de hasta US$3 millones (tres millones de dólares de Norteamérica).
 
+El porcentaje de cofinanciamiento para la ejecución de cada proyecto será decisión del Comité de Asignación de Fondos –CAF–. El porcentaje de cofinanciamiento que en definitiva se otorgue por ese Comité, estará sujeto a los méritos técnicos y económicos del proyecto y a la disponibilidad presupuestaria de recursos de Corfo.
+
+El monto total del subsidio que en definitiva se pague, será determinado previa rendición de cuentas que presente el beneficiario y el costo total del proyecto que acredite, sobre el cual se aplicará ese porcentaje.
+
 Monto mínimo de inversión
 
-Las producciones que postulen a este Programa deberán efectuar un gasto mínimo en Chile de US$2 millones (dos millones de dólares de Norteamérica) netos.
+Las producciones que postulen a este Programa deberán efectuar un gasto mínimo en Chile de US$ 1 millón (un millón de dólares de Norteamérica) netos.
 
 ---------------------------------------
 
@@ -702,39 +708,53 @@ En el caso que la postulación sea admisible, la garantía de seriedad de la pro
 
 V.4. EVALUACIÓN DEL PROGRAMA.
 
-La evaluación de los proyectos se realizará de conformidad con criterios y factores de evaluación, a los que se asignará un puntaje de 1 a 7.
-
-Para ser propuestos con recomendación de aprobación al Comité de Asignación de Fondos, los proyectos deberán obtener una calificación final igual o superior a 4.
-
-Estos criterios de evaluación se analizarán de forma integral, con el objeto de determinar la factibilidad técnica y financiera del proyecto y su correspondencia con los objetivos estratégicos del Programa.
-
 Los criterios y la ponderación que cada criterio de evaluación tendrá en la nota final será la que se señala a continuación:
 
-a) Criterios asociados a la experiencia y reconocimiento del postulante (30% de la nota final):
+a) Criterios asociados a la experiencia y reconocimiento del postulante (30% de la nota final)¹:
 
-a1) Experiencia y reconocimiento internacional de la empresa productora o empresas coejecutoras (20%).
+a1) Experiencia y reconocimiento internacional de la empresa productora y/o empresas coejecutoras, si corresponde (20%)².
 
-a2) Experiencia y reconocimiento internacional del Productor(a) (10%).
+a2) Experiencia y reconocimiento internacional del (la) Productor(a) (10%).
 
 b) Criterios asociados al proyecto (30% de la nota final):
 
-b1) Plan de Producción (15%)
+b1) Plan de Producción (10%).
 
-b2) Plan de Distribución y Marketing (8%)
+b2) Coherencia de Carta Gantt (5%).
 
-b3) Coherencia del plan ejecutivo (7%).
+b3) Estrategia preliminar de Distribución y Marketing (10%).
+
+b3) Acuerdo de Distribución y Marketing (5%).
 
 c) Criterios asociados al potencial de impactos en la industria o industrias relacionadas (40% de la nota final):
 
-c1) Estructura de gasto del plan maestro de contratación de servicios (20%).
+c1) Estructura de gasto de contratación de servicios audiovisuales (20%).
 
-c2) Nivel de capacidades locales consideradas en actividades creativas (5%).
+c2) Empleo contratado en Chile (5%)³.
 
-c3) Generación de empleo (5%).
+------------------------------------------------------
 
-c4) Contribución al aumento de exportaciones (5%).
+(¹) En el caso de postulación asociativa, se evaluará el promedio porcentual de cartera de proyectos internacionales.
 
-c5) Aporte escénico a la promoción de la imagen país (5%).
+(²) En el caso que la empresa no presente una coejecutora local en la postulación, se redistribuirá la ponderación de este ítem a la calificación de la empresa productora internacional.
+
+(³) El empleo a generar no necesariamente puede ser contratado por la productora internacional, sino que puede ser contratado por la productora local u otra empresa que se designe para estos efectos.
+
+c3) Nivel de capacidades locales consideradas en actividades creativas (10%).
+
+c4) Aporte escénico a la promoción de la imagen país (5%).
+
+Para la evaluación se asignará un puntaje de 1 a 5.
+
+Para ser propuestos con recomendación de aprobación al Comité de Asignación de Fondos, los proyectos deberán obtener una calificación final igual o superior a 3.
+
+Estos criterios de evaluación se analizarán de forma integral, con el objeto de determinar la factibilidad técnica y financiera del proyecto y su correspondencia con los objetivos estratégicos del Programa.
+
+Con los resultados de la evaluación se confeccionará un ranking de los proyectos que hayan llegado a esta instancia.
+
+La aprobación de los proyectos por el CAF se realizará en base a la evaluación obtenida por éstos y a los recursos disponibles para su financiamiento. Si los fondos no fueren suficientes para otorgar cofinanciamiento a todos los proyectos presentados al CAF, se elaborará una lista de espera de los proyectos según la nota final obtenida, siempre que ésta fuere igual o superior a 3. Esta lista de espera operará en el caso que el beneficiario de uno o más de los proyectos adjudicados, desistiere del subsidio, o no acreditare, en el plazo otorgado por el CAF, al menos, el 50% del cofinanciamiento del proyecto al momento de la formalización del contrato con el Agente Operador Intermediario o Corfo, según correspondiere a la forma de administración. En tal evento, se informará a el o a los postulantes de la lista de espera, en el orden de su ubicación, para conocer su voluntad de aceptar o rechazar el subsidio e iniciar los trámites que correspondan.
+
+Si al último proyecto beneficiado, en atención a los recursos disponibles, no se le asignare el subsidio solicitado o necesario para la ejecución del proyecto, éste podrá rechazarlo. En caso de rechazar este ofrecimiento, se procederá con la lista de espera en los términos señalados en el párrafo anterior.
 
 V .5. APROBACIÓN DEL PROGRAMA
 
@@ -751,6 +771,10 @@ V.6. CELEBRACIÓN DEL CONTRATO DE SUBSIDIO
 El contrato de subsidio se celebrará entre Corfo y la empresa beneficiaria, una vez definido el subsidio.
 
 En el evento de agenciarse a un AOI, el contrato se celebrará entre el Agente Operador Intermediario y la empresa beneficiaria, en cuyo caso se aplicarán las normas contenidas en el numeral V.7 siguiente.
+
+Si se contemplare la contratación de una empresa nacional para que preste los servicios de producción en Chile a la empresa beneficiaria, la beneficiaria deberá presentar el contrato celebrado entre ambas partes, antes de celebrar el con Corfo o el Agente Operador Intermediario, según corresponda. Si no lo presentare hasta esa oportunidad, la empresa beneficiaria deberá contratar esos servicios previa licitación".
+
+Asimismo, antes de la celebración del contrato de subsidio antes referido deberá acreditar, al menos, el 50% de su compromiso de cofinanciamiento al proyecto. El saldo deberá ser acreditado a Corfo o al Agente Operador Intermediario, según corresponda, dentro de los 3 meses siguientes a la firma del contrato.
 
 El contrato a celebrarse con Corfo deberá contemplar, a lo menos, objeto, monto, plazo de vigencia, individualización del documento de garantía, el derecho de supervisión de Corfo respecto de las actividades y la obligación para la beneficiaria de entregar a Corfo, si ésta lo requiere, información periódica que le permita efectuar un adecuado control del avance del proyecto.
 
@@ -774,7 +798,7 @@ Corfo transferirá los recursos aprobados para la ejecución de las actividades 
 
 El AOI deberá constituir garantía en conformidad a las normas que rigen a los operadores intermediarios de Corfo. Con todo, la garantía podrá ser constituida por el AOI o un tercero.
 
-Sin perjuicio de lo anterior, el AOI podrá imputar a gastos del Programa los costos financieros de la garantía constituida.
+El AOI podrá rendir como gastos operacionales del Programa los costos financieros de la garantía otorgada por él o por terceros.
 
 El AOI podrá, bajo su responsabilidad, anticipar recursos del subsidio al beneficiario, solicitando la constitución u otorgamiento de las garantías que estime adecuadas.
 
