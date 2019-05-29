@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 178 EXENTA, DE FECHA 16.05.2019
+
+En cumplimiento de lo dispuesto en la resolución exenta del Servicio de Impuestos Internos N°134 de 23/11/2011, el Director Regional de la Décima Dirección Regional Puerto Montt ha dictado la resolución exenta N°178 de fecha 16/05/2019 delegando las facultades establecidas en el resolutivo primero de la resolución N°810 de fecha 23/11/2016, para que en caso de impedimento o inhabilidad de la profesional abogado Johana Chaura Leichtle, dichas facultades serán ejercidas por el funcionario planta directivo Hugo Figueroa Jara. Para que en caso de impedimento o inhabilidad del funcionario referido, dichas facultades serán ejercidas por la profesional abogado Andrea Bravo López. Para que en caso de impedimento o inhabilidad del funcionario referido, dichas facultades serán ejercidas por la profesional abogado Marianela Triviño Tellez.-
+
+Cristián Gómez Castillo, Director Regional, Dirección Regional Puerto Montt.
