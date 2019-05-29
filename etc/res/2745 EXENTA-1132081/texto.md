@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 2.745, de fecha 15 de abril de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se modifica la resolución exenta N° 766, de 5 de noviembre de 1985, del Ministerio de Transportes y Telecomunicaciones, que aprueba programa de enseñanza para obtención de licencia de conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Automóvil Club de Chile Limitada", RUT N° 77.323.230-K, en el sentido de agregar en las sedes del número 1 del resuelvo, la sede ubicada en Manuel Rodríguez N° 15, comuna de Santiago, y en el sentido de incorporar como director de esta última, al señor Henry Ojeda Berríos.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago.
