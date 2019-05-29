@@ -1,0 +1,13 @@
+MODIFICA AUTO ACORDADO SOBRE SESIONES ORDINARIAS Y HORARIOS DE AUDIENCIA Y DE ATENCIÓN DE PÚBLICO
+
+En Santiago, a catorce de mayo de dos mil diecinueve, se reúne en sesión especialmente convocada al efecto el Pleno del Tribunal Constitucional, bajo la presidencia del Ministro señor Iván Aróstica Maldonado, y con la asistencia de los Ministros señores Gonzalo García Pino, Domingo Hernández Emparanza y Juan José Romero Guzmán, de la Ministra señora María Luisa Brahm Barril, de los Ministros señores Cristián Letelier Aguilar, Nelson Pozo Silva y José Ignacio Vásquez Márquez, de la Ministra señora María Pía Silva Gallinato y del Ministro señor Miguel Ángel Fernández González, con la finalidad de modificar el auto acordado sobre sesiones ordinarias y horarios de audiencia y de atención de público de fecha 11 de noviembre de 2009, modificado por el auto acordado de 5 de octubre de 2010, de conformidad a lo previsto en los artículos 19, inciso segundo, y 29 de la Ley N° 17.997, Orgánica Constitucional del Tribunal Constitucional, cuyo texto refundido, coordinado y sistematizado se encuentra contenido en el decreto con fuerza de ley N° 5, de 2010, del Ministerio Secretaría General de la Presidencia, y al acuerdo adoptado en sesión de Pleno de esta fecha, en la siguiente forma:
+
+Primero.- Reemplazar la frase "El Tribunal Constitucional celebrará sus sesiones ordinarias de Pleno los días martes y jueves a las 10:30 horas.", contenida en el artículo primero del Auto Acordado sobre sesiones ordinarias y horarios de audiencia y de atención al público, por la siguiente: "El Tribunal Constitucional celebrará sus sesiones ordinarias de Pleno los días martes, miércoles y jueves a las 9:00 horas.".
+
+Segundo.- Que dicha modificación entrará en vigencia a partir de su publicación en el Diario Oficial.
+
+Publíquese en el Diario Oficial, comuníquese por medio de un aviso en un lugar visible del Tribunal y en la página web institucional.
+
+Para constancia, se extiende la presente acta que firman las señoras y señores Ministros, y el Secretario Subrogante que autoriza.
+
+Iván Aróstica Maldonado, Presidente.- Gonzalo García Pino.- Domingo Hernández Emparanza.- Juan José Romero Guzmán.- María Luisa Brahm Barril.- Cristián Letelier Aguilar.- Nelson Pozo Silva.- José Ignacio Vásquez Márquez.- María Pía Silva Gallinato.- Miguel Ángel Fernández González.- José Francisco Leyton Jiménez, Secretario (S).
