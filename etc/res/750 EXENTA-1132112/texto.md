@@ -1,0 +1,11 @@
+EXTRACTO
+
+Por resolución exenta Nº 750 de fecha 9 de mayo de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Libertador General Bernardo O'Higgins, se modificó el resuelvo Nº 1 de la resolución exenta Nº 291 de fecha 24 de abril de 2018, de esta Secretaría Regional, que aprobó los planes y programas de la Escuela de Conductores Profesionales "Saint Paul, Christian Favio Duque Romero E.I.R.L", cuyo nombre de fantasía es "Activa Conducción, Escuela de Conductores Profesionales E.I.R.L", de propiedad de la empresa individual del mismo nombre, RUT: 76.586.602-2, en el sentido de incorporar a continuación de la expresión "para impartir curso conducente a la obtención de licencia profesional clase A2" la expresión "A3 y A4".
+
+A su vez, también se modificó el resuelvo Nº 1 de la resolución exenta Nº 292, de fecha 24 de abril de 2018, de esta Secretaría Regional, que otorgó reconocimiento oficial a la Escuela de Conductores Profesionales, "Saint Paul, Christian Favio Duque Romero E.I.R.L", cuyo nombre de fantasía es "Activa Conducción, Escuela de Conductores Profesionales E.I.R.L", de propiedad de la empresa individual del mismo nombre, RUT: 76.586.602-2, en el sentido de incorporar a continuación de la expresión "para impartir cursos conducentes a la obtención de licencia de conductor profesional clase A2" la expresión "A3 y A4".
+
+Asimismo, se modificó el resuelvo Nº 1 de la resolución exenta Nº 292, de fecha 24 de abril de 2018, de esta Secretaría Regional, que otorgó reconocimiento oficial a la Escuela de Conductores Profesionales, "Saint Paul, Christian Favio Duque Romero E.I.R.L", cuyo nombre de fantasía es "Activa Conducción, Escuela de Conductores Profesionales E.I.R.L", de propiedad de la empresa individual del mismo nombre, RUT: 76.586.602-2, en el sentido de incorporar a continuación del domicilio "calle Manso Velasco Nº 858" la expresión "y Avenida Bernardo O'Higgins Nº129, todos de la comuna de San Fernando".
+
+En todo lo no modificado, continúan vigentes las resoluciones exentas Nºs. 291 y 292, ambas de fecha 24 de abril de 2018, de esta Secretaría Regional.-
+
+Hans González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
