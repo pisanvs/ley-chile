@@ -2100,9 +2100,13 @@ Los vehículos y especies que se encuentren en las situaciones descritas serán 
 
 La municipalidad de la comuna en donde transita el vehículo que sea retirado de circulación, por sí o a través de terceros, deberá descargar la basura, desechos o residuos y los trasladará hasta los rellenos sanitarios autorizados. El infractor, sea éste el propietario del vehículo, motorizado o no motorizado, el que encargue o realice, deberá pagar la multa correspondiente y los costos asociados al traslado y disposición de la basura, desechos o residuos en que incurra la municipalidad. El vehículo que sea retirado de circulación en conformidad con el inciso precedente sólo será devuelto al propietario contra entrega del comprobante de pago de las multas respectivas y de los costos asociados al traslado y disposición de la basura, desechos o residuos.
 
-Las municipalidades dictarán una ordenanza que regule las autorizaciones para transportar basura, desechos, escombros o residuos de cualquier tipo, estableciendo los requisitos y el procedimiento para conceder dicha autorización y la obligación de portarla en el vehículo, en los casos que corresponda. El transporte señalado se regirá por lo dispuesto en la ordenanza municipal correspondiente a la comuna donde se genera la basura, desechos, escombros o residuos. Lo anterior es sin perjuicio de las demás exigencias y autorizaciones que se requieran, en conformidad a la normativa vigente.
+El transporte de los elementos indicados en los incisos anteriores se regirá, en lo referente a los horarios, vías y demás reglas de tránsito que regulen dicho traslado, por lo dispuesto en la ordenanza municipal correspondiente a la comuna en donde aquéllos son generados.
+
+No obstante lo preceptuado en el inciso anterior, con el objetivo de poder verificar si el depósito de dichos elementos se realizará en un establecimiento habilitado para ello, a los transportistas de carga sólo se les exigirá que cuenten con el documento tributario pertinente que acredite el origen y destino de su recorrido.
 
 Asimismo, en el caso de las instituciones del Estado y municipalidades, ellas deberán exigir a los vehículos recolectores de residuos domiciliarios y de residuos sólidos inertes la respectiva autorización del director del área de la institución que dé cuenta de la existencia del contrato de disposición final en el cual se indique que el destino último de los desechos será un relleno sanitario o un vertedero legalmente autorizado.
+
+Lo dispuesto en este artículo no regirá para el caso del retiro de residuos sanitarios u otros que requieran de una autorización o permiso especial, o cuyo transporte esté sujeto a una regulación específica.
 
 #### Artículo 192 ter
 
