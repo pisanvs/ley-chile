@@ -436,11 +436,11 @@ La inauguración y la clausura del año académico tendrán carácter ceremonial
 
 La clausura incluirá la cuenta anual del Director, el juramento de los alumnos que hayan aprobado el curso y la distribución de premios y diplomas que corresponda a los cursos terminados durante dicho año académico.
 
-Del examen de admisión a la Academia Diplomática
+Del concurso de admisión a la Academia Diplomática
 
 #### Artículo 37°
 
-El Examen de Admisión para ingresar como alumno del Curso de Formación de la Academia Diplomática se realizará cuando las necesidades del servicio lo requieran, previo llamado a concurso de antecedentes y oposición. Las bases de cada concurso deberán informar los requisitos de postulación, las etapas del concurso y la ponderación de cada una de éstas.
+El Concurso de Admisión para ingresar como alumno del Curso de Formación de la Academia Diplomática se realizará cuando las necesidades del servicio lo requieran, previo llamado a concurso de antecedentes y oposición. Las bases de cada concurso deberán informar los requisitos de postulación, las etapas del concurso y la ponderación de cada una de éstas.
 
 #### Artículo 38°
 
@@ -460,19 +460,15 @@ Los antecedentes presentados por los postulantes serán considerados por una Com
 
 #### Artículo 40°
 
-El examen de admisión comprenderá una entrevista personal y pruebas escritas y orales sobre las materias señaladas en los incisos segundo y tercero del Artículo 41°.
+El Concurso de Admisión comprenderá una serie de etapas, en las cuales se realizarán exámenes y pruebas escritas; exámenes y pruebas orales; una entrevista personal; una evaluación psico-laboral; evaluaciones de idioma, entre otras.
 
-#### Artículo 41°
+Las Bases del Concurso de admisión describirán el detalle de las etapas del proceso.
 
-Los postulantes se someterán a las pruebas psicológicas que se determinen, cuyos resultados serán considerados en la evaluación final.
-
-Las pruebas considerarán un examen de materias generales, el que será rendido en las ciudades que determine el Director de la Academia.
-
-Las pruebas escritas y orales mencionadas en el artículo 40° podrán comprender las siguientes materias:
+Los exámenes y pruebas escritas y orales podrán comprender las siguientes materias:
 
 a) Idiomas;
 
-b) Cultura general;
+b) Cultura General;
 
 c) Economía y Comercio Internacional;
 
@@ -482,19 +478,25 @@ e) Derecho Internacional Público;
 
 f) Historia y Geografía de Chile;
 
-g) Historia Universal y
+g) Historia Universal;
 
-h) Geografía Mundial.
+h) Geografía Mundial; y,
 
-Las pruebas de idiomas incluirán obligatoriamente el inglés y podrán considerar un segundo idioma de importancia cultural y divulgación amplia.
+i) Administración Pública.
 
-Los ochenta postulantes que alcancen las más altas notas en el examen de materias generales, serán seleccionados para rendir las pruebas restantes del examen de admisión. Si un postulante seleccionado renuncia o no se presenta a continuar en el mismo, la lista de seleccionados correrá a partir del lugar que ocupaba dicho postulante pasando los restantes convocados a ubicarse en el lugar inmediatamente anterior en la lista hasta completar ochenta seleccionados.
+#### Artículo 41°
 
-El nuevo seleccionado deberá rendir todas las pruebas escritas y orales que comprenda el examen de admisión.
+En una primera etapa el Concurso de Admisión contendrá una prueba de materias generales, la cual será rendida por todas las personas que cumplan las exigencias definidas en las Bases del Concurso de Admisión y en las ciudades que determine el Director de la Academia. Las 90 personas que obtengan los mejores puntajes de esta prueba continuarán en el proceso de admisión.
+
+En la segunda etapa, las 90 personas que obtengan los mejores puntajes de la prueba de materias generales rendirán una evaluación psico-laboral. Las 45 personas que obtengan los mejores resultados de dicha evaluación continuarán en el proceso de admisión.
+
+En la tercera etapa, las 45 personas que obtengan los mejores puntajes en la evaluación psico-laboral deberán rendir un examen escrito de conocimientos, examen oral de conocimientos, evaluación de inglés y una entrevista personal. Además, podrán incorporarse otro tipo de evaluaciones las cuales deben haber sido informadas en las Bases del Concurso de Admisión.
+
+Las Bases del Concurso de Admisión informarán la cantidad máxima de postulantes aceptados.
 
 #### Artículo 42°
 
-Las pruebas de evaluación psicológica a que se refiere el inciso primero del artículo 41° serán tomadas por profesionales en la materia. La entrevista personal y las pruebas escritas y orales que comprende el examen de admisión mencionado en dicho artículo estarán a cargo de comisiones especiales designadas por el Director de la Academia, en consulta con el Ministro, el Subsecretario de Relaciones Exteriores y el Consejo Asesor.
+Las pruebas de evaluación psico-laboral a que se refiere el artículo 41º serán efectuadas por profesionales en la materia. La entrevista personal y las pruebas y exámenes escritos y orales que comprende el Concurso de Admisión estarán a cargo de comisiones especiales designadas por el Director de la Academia, en consulta con el Ministro de Relaciones Exteriores y el Subsecretario de Relaciones Exteriores.
 
 #### Artículo 43°
 
@@ -512,7 +514,7 @@ Ingresarán a la Academia Diplomática los postulantes que obtengan los primeros
 
 #### Artículo 46°
 
-Los postulantes que resulten aprobados en el Examen de Admisión serán contratados con asimilación al grado 16° de la E.U.S., durante el tiempo que duren sus estudios en la Academia Diplomática.
+Los postulantes que resulten aprobados en el Examen de Admisión serán contratados con asimilación al grado 14º de la EUS, durante el tiempo que duren sus estudios en la Academia Diplomática.
 
 Esta contratación será válida, como máximo, hasta el 31 de diciembre de cada año y podrá ser renovada.
 
