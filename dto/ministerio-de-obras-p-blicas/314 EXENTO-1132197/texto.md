@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 314, de 14 de mayo de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 22-A, para la obra "Camino Mejoramiento Ruta L-45, Sector Escuela Llepo - El Peñasco, Tramo kilómetro 13,10000 a km. 20,13700", que figura a nombre de ROMÁN GÉLVEZ FLAVIO MARCIO HUMBERTO, rol de avalúo 557-39, Comuna de Linares, Región del Maule, superficie 932 m2. La Comisión de Peritos integrada por PAULA SOLEDAD GONZÁLEZ ORTEGA, ALICIA BÁRBARA FLORES PACHECO y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de septiembre de 2015, complementada por acta de fecha 19 de diciembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $2.601.600.- para el lote N° 22-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
