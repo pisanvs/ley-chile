@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 1.615 de fecha 24/05/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento calle Braulio Arenas entre Los Músicos y Av. Pedro de Valdivia, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Propiedad consistente en los Lotes 4-AB, de una superficie de 3.557,50 metros cuadrados; y el Lote 4-BB, de una superficie de 1.470 metros cuadrados, ambos predios forman un solo todo con una superficie total de 5.027,50 metros cuadrados, Rol de avalúo 3205-150, comuna de Temuco. La superficie a expropiar aproximada es de 303,77 metros cuadrados, de aparente dominio de Sucesión de Isabel Victoria Schmidt Serrano, formada por Klaus Osvaldo Barril Schmidt y Marcelo Rodolfo Barril Schmidt. Comisión de Peritos integrada señores Mario Gutiérrez Truan, arquitecto, Claudio Romo Sanhueza, arquitecto, y Arturo Cantos Oyarzún, arquitecto, fijó monto de Indemnización Provisional en $3.935.167 según Informe N° 07-0 de fecha 18/04/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
