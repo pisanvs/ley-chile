@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 1.614, de fecha 24/05/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012, de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento calle Braulio Arenas entre Los Músicos y Av. Pedro de Valdivia, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote N° 05-1, que corresponde a Inmueble consistente en el Lote 1-B, de aproximadamente 0,614 hectáreas, resultante de la subdivisión del Lote 1 de 13,79 hectáreas, y este de un inmueble mayor ubicado en el lugar Puente Chispa, comuna de Temuco, Rol de avalúo 3205-207, comuna de Temuco. La superficie a expropiar aproximada es de 603,61 metros cuadrados, de aparente dominio de Inmobiliaria e Inversiones El Carmen Cajón S.A. Comisión de Peritos integrada señores Mario Gutiérrez Truan, arquitecto, Claudio Romo Sanhueza, arquitecto, y Arturo Cantos Oyarzún, arquitecto, fijó monto de Indemnización Provisional en $75.299.257 según Informe N° 05-1 de fecha 18/04/2019, pagadero Contado.
+
+Director Serviu Región de la Araucanía.
