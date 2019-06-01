@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 307 de 14 de mayo de 2019, se modificaron los Decretos Exentos MOP Nº s 67, 68, 69, 70, 71, 72, 73, 74 y 75, todos de 21 de marzo de 2019, de la obra Concesión Internacional Ruta 5, Tramo Talca - Chillán, Regiones del Maule y Ñuble, antes Región del Biobío, en el sentido de señalar que, en el numeral sexto de los Decretos modificados, donde dice Asignación Presupuestaria "08 31 02 003", debe decir "03 01 31 02 003". En todo lo no modificado se mantienen plenamente vigentes los Decretos Exentos MOP Nº s 67, 68, 69, 70, 71, 72, 73, 74 y 75, todos de 21 de marzo de 2019. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
