@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 337, de 22 de mayo de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del DFL MOP Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 1, para la obra: PLANTA DE TRATAMIENTO Y ACCESO DEL SISTEMA APR "MANZANAL BAJO", que figura a nombre de CARVAJAL GALLARDO FERMÍN ALBERTO Y, rol de avalúo 253-30, Comuna de PURÉN, REGIÓN DE LA ARAUCANÍA, superficie 400 m2. La Comisión de Peritos integrada por PATRICIA ANGÉLICA MORALES RIVERA, EVALDO ROBERTO CONTRERAS ROA y VÍCTOR MARCELO SOTO TRONCOSO, mediante informe de tasación de 22 de mayo de 2018, fijó el monto de la indemnización provisional en la cantidad de $401.500 para el lote N° 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
