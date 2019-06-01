@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 343, de 22 de mayo de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 154-A y 155-A, Rol de avalúo 629-25, Comuna de Teodoro Schmidt, superficies 1.739 y 2.867 m2., para la obra: MEJORAMIENTO RUTAS S-464 Y S-488: ALMAGRO - BARROS ARANA, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por ELENA PILAR FRITZ AGÜERO, PAULA ANDREA LAGOS CARRASCO y EVALDO ROBERTO CONTRERAS ROA, fijó el valor de tasación con fecha 27 de diciembre de 2017, acordándose la indemnización con sus propietarios VÍCTOR HUGO ÁLVAREZ LATORRE Y OTROS, en la cantidad total de $10.902.590.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
