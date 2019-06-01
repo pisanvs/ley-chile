@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 340 de 22 de mayo de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 2 y 4, Rol de avalúo 51-82, Comuna de Punitaqui, superficies 2.195 y 1.128 m2. respectivamente, para la obra MEJORAMIENTO RUTA D-605, SECTOR PUNITAQUI - MANQUEHUA, COMUNA DE PUNITAQUI, PROVINCIA DE LIMARÍ, REGIÓN DE COQUIMBO. La comisión de peritos, integrada por LUIS FELIPE MUÑOZ CARVAJAL, VIVIANA DE LOS ÁNGELES FRÍAS GONZÁLEZ y MAURICIO ANDRÉS ANDUEZA PÉREZ, fijó el valor de tasación con fecha 21 de junio de 2018, acordándose la indemnización con su propietario LUIS ARTURO SOLER PIRACES, en la cantidad de $9.299.711.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
