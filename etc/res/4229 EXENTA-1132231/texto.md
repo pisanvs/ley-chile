@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 4.229, 31 de diciembre 2018, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en Curva Loyola, Rol de Avalúo N° 728-1, comuna de Lota, de aparente dominio de Fisco Dirección General de Carabineros se encuentra afecto a expropiación parcial para la ejecución de las obras del proyecto vial denominado "Mejoramiento Red Centro de Lota y Vialidad Asociada" de la comuna de Lota. La superficie afecta a expropiación parcial es de 238,06 m2 de terreno y cuyos linderos particulares, enmarcados en los siguientes polígonos, según plano S8R-36.154-1, conforme artículo 51 ley N° 16.391 y DL. N° 2.186. Comisión Peritos integrada por arquitecto Rubén Muñoz Vera, por la arquitecto Nataly Zúñiga Castillo y por la arquitecto Cecilia Carrasco Verdugo, según informe de fecha 12.11.2018, fijó monto provisional de indemnización más reajustes del artículo 5° del D.L. N° 2.186 en $25.678.599.-, pagadera de contado.
+
+Director (S) Serviu Región del Biobío.
