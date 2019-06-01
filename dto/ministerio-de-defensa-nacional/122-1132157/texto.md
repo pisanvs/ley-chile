@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 122, de fecha 6 de marzo de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Fibra Óptica Austral S.A., RUT 76.847.445-1, concesión marítima menor, con vencimiento el 30 de junio de 2024, sobre un sector de Terreno de Playa, en el lugar denominado Caleta Godoy, comuna de Maullín, provincia de Llanquihue, Región de Los Lagos, con una superficie total de 1,316,60 m2, la que fue tramitada con el SIABC Nº 40,792. A modo referencial se señala la siguiente coordenada geográfica: Lat. 41º34'13,97" S.; Long. 73º43'08.99" W. El objeto consiste en permitir la instalación y operación de un cable de fibra óptica. Las obras consisten en la instalación de un cable de fibra óptica, y el plazo contemplado para su ejecución es de 5 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Maullín. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Raúl Valverde Bórquez, Teniente 1° LT.
