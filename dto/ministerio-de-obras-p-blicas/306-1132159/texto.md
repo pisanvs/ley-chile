@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 306, de 14 de mayo de 2019, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP Nº 792, de 23 de julio de 2018, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº 2-A, expropiado con motivo de la obra: "Reposición Puente Botalcura en Ruta K-260" Sector Pencahue - Boltacura, Tramo KM. 32,43200 a KM 46,88619, Comuna de Pencahue, Región del Maule. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 04 de mayo de 2012, ascendente a la cantidad $1.653.000, para el lote N° 2-A.
