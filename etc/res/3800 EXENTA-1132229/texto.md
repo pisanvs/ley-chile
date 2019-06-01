@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 3800 del 27 de noviembre de 2018, Serviu Región del Biobío ordenó expropiación total de inmueble ubicado en calle Estero El Manco 3149 A DP 07, del piso 1, Rol de Avalúo 04065-00071 comuna de Coronel, de aparente dominio de Osorio Osorio Leonor del Tránsito. La superficie de edificación afecta a expropiación, conforme a plano Nº S8R 37571, es de 43,5 m2, corresponde a 42,63 m2 de superficie útil y 0,87 m2 de superficie de uso común; la superficie de terreno expropiado, sobre el total de los derechos cuotativos comunes, corresponden a 43,2084375 m2 y equivalen al 3,125% del total de la propiedad común de 1382,67 m2 (lote 6), para la ejecución de la obra Ampliación y Alteración de departamentos de Mártires del Carbón, comuna de Coronel, conforme artículo 51 ley 16.391 y DL 2186. Comisión Peritos integrada por constructor civil María Soledad Silva Hernández, arquitecto Claudia Eugenia Marzullo García e ingeniero civil Orlando Javier Paredes Vásquez, según informe de fecha 3 de octubre de 2018 que fijó monto provisional, más reajuste art. 5º DL 2186, en $9.991.562.-, pagadera de contado.
+
+Director Serviu Región del Biobío.
