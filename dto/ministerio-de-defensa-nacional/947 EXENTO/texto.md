@@ -1,0 +1,5 @@
+DESTINACIÓN MARÍTIMA
+
+Decreto supremo exento N° 947, de fecha 19 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, Armada de Chile, Dirección General de los Servicios de la Armada, RUT N° 61.102.003-1, un sector de porción de agua en el lugar denominado Bahía San Vicente, Puerto de San Vicente, comuna de Talcahuano, provincia de Concepción, Región del Biobío, una porción de agua necesaria para mantener fondeada una boya luminosa, la que fue tramitada con el SIABC N° 36.728. A modo referencial se señalan las siguientes coordenadas geográficas: Vértice 1: Lt. 36°44'10,3"S Lg. 73°09'14,0"W. El objeto es amparar la instalación de una señalización marítima, consistente en una boya luminosa para el apoyo a la navegación. Los antecedentes se encuentran a disposición del público en la Capitanía de Puerto de San Vicente. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Cristián Ortega Valdivia, Capitán de Fragata LT, Capitán de Puerto de San Vicente.
