@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 331 de 14 de mayo de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió los lotes de terreno Nº 3 y Nº 4 para la obra: CONCESIÓN INTERNACIONAL RUTA 5. TRAMO: TALCA - CHILLAN. SECTOR: PROLONGACIÓN C.S LAS INDUSTRIAS PONIENTE KM. 249.900,00 AL KM. 250.600,00, Región del Maule, que figuran a nombre de GASCO GLP S A en los dos casos, ambos con rol de avalúo 3707-68 de la comuna de Talca, superficies 127 m2 y 176 m2, respectivamente. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 9 de 14 de enero de 2019, integrada por María Isabel de Jesús Ríos Marcuello, Claudio Alejandro García Schlie y Paula Soledad González Ortega, fijó con fecha 19 de febrero de 2019, el valor provisional de las indemnizaciones en las cantidades de $7.366.000 para el lote N° 3 y $10.555.000 para el lote N° 4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
