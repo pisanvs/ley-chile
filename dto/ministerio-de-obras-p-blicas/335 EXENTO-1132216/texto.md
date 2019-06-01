@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 335, de 22 de mayo de 2019, y de conformidad a la facultad otorgada en el artículo 3° letra a), 10° letra c), 14° letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y el DFL MOP N° 206, de 1960, artículo 15 inciso 2° y 22° N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote N° 2-2, Rol de Avalúo 136-243, Comuna de Paine, superficie 1.203 m2., para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: SANTIAGO - TALCA SECTOR: TERCERAS PISTAS Y NUEVA PLAZA DE PEAJE ANGOSTURA KM. 50.880,00 - KM. 58.240,00, PROVINCIA DE MAIPO, REGIÓN METROPOLITANA DE SANTIAGO. La Comisión de Peritos integrada por MARLENE TERESA RÍOS MARCUELLO, PAULINA LORENA JADUE ZAROR y ANDRÉS RAINER SCHULZ VILLANUEVA, fijó el valor de tasación con fecha 25 de octubre de 2018, acordándose la indemnización con sus propietarios MARCELO EDUARDO POBLETE ASTETE Y OTRAS, en la cantidad de $9.000.711.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
