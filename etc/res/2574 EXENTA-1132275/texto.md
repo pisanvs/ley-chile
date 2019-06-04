@@ -1,0 +1,9 @@
+CERTIFICADO Nº 204
+
+Certifico: Que por escritura pública de fecha 6 de diciembre de 2018, otorgada en la Cuadragésima Quinta Notaría de Santiago de don René Benavente Cash, domiciliado en calle Huérfanos número novecientos setenta y nueve, comuna de Santiago, se redujo el acta de la junta extraordinaria de accionistas de Principal Administradora General de Fondos S.A., celebrada el 23 de noviembre de 2018, ante el Notario Titular; que por escritura pública de fecha 25 de marzo de 2019, otorgada en la Notaría antes señalada, se redujo el acta de la junta extraordinaria de accionistas de la sociedad antes citada, celebrada con fecha 15 marzo de 2019; y que por escritura pública otorgada con fecha 9 de abril de 2019 en la Notaría ya indicada, se modificó el acta de la referida junta extraordinaria de accionistas de fecha 15 de marzo de 2019.
+
+Que por resolución exenta Nº 2.574, de fecha 6 mayo de 2019, de esta Comisión para el Mercado Financiero, se aprobó la reforma de estatutos de Principal Administradora General de Fondos S.A., consistente en:
+
+Aumentar el capital social de $16.857.333.694 dividido en 52.185.781.270 acciones nominativas, de una sola serie y sin valor nominal, cantidad que se encuentra íntegramente suscrita y pagada, a la suma de $20.657.333.694 dividido en 125.299.940.944 acciones nominativas, de una sola serie y sin valor nominal, mediante la emisión de 73.114.159.674 acciones de pago por un monto de $3.800.000.000, las que deberán encontrarse suscritas y pagadas dentro del plazo de tres años a contar del día 23 de noviembre de 2018. Se modifican al efecto el artículo tercero y el artículo primero transitorio. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 6 de mayo de 2019.- Gerardo Bravo Riquelme, Secretario General.
