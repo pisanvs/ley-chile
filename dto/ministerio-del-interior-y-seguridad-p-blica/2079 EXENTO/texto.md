@@ -12,46 +12,6 @@ Decreto:
 
 Autorízase la circulación en días sábados en la tarde, domingos y festivos, exentos del uso de Disco Fiscal, a los vehículos que se individualizan, propiedad del Ministerio Público y asignados al uso de los Fiscales Regionales de la I Región de Tarapacá, de la VI Región del Libertador General Bernardo O'Higgins y de la Región Metropolitana Centro Norte, conforme lo dispuesto en los artículos 1º y 3º del decreto ley Nº 799, de 1974:
 
-Fiscalía Regional I Región de Tarapacá
-
-Vehículo : Automóvil
-
-Marca : Toyota
-
-Modelo : Camry 2.5
-
-Año : 2012
-
-Motor : 2AR-0641667
-
-Chasis : JTNBF4FK7 C3010157
-
-Color : Plateado Metálico
-
-I.N.R.V.M. : DWCX. 89-6
-
-Placa única : DWCX. 89.
-
-Fiscalía Regional VI Región del Libertador Bernardo O'Higgins
-
-Vehículo : Automóvil
-
-Marca : Subaru
-
-Modelo : All New Legacy 2.5I AWD
-
-Año : 2012
-
-Motor : E451046
-
-Chasis : JF1BM9L92BG025213
-
-Color : Plateado Acero
-
-I.N.R.V.M. : DTXH.39-1
-
-Placa única : DTXH.39.
-
 Fiscal Regional Metropolitano Centro Norte
 
 Vehículo : Automóvil
@@ -71,6 +31,8 @@ Color : Gris Grafito
 I.N.R.V.M. : DYCW. 71-6
 
 Placa única : DYCW. 71.
+
+> **Nota.** El artículo quinto del Decreto 668 Exento, Interior, publicado el 04.06.2019, modifica la presente norma en el sentido que el vehículo asignado al uso del Fiscal Regional Metropolitano Centro Norte fue redestinado al uso del Fiscal Regional de la Región del Maule.
 
 #### Artículo segundo
 

@@ -12,26 +12,6 @@ Decreto:
 
 Autorízase conforme lo dispuesto en los artículos 1º y 3º del DL. Nº 799, de 1974, la circulación en días sábados en la tarde, domingos y festivos exentos de la obligación de uso del Disco Fiscal a los vehículos que se individualizan, asignados al señor Fiscal Nacional del Ministerio Público y Fiscales Regionales de la II Región de Antofagasta y VII Región del Maule.
 
-FISCAL NACIONAL:
-
-Vehículo : Automóvil
-
-Marca : Volvo
-
-Modelo : S80 D5 AWD
-
-Año : 2011
-
-Motor : 946763
-
-Chasis : YV1AS 7056B1145720
-
-Color : Azul Caspiado
-
-I.N.R.V.M. : DBXP.48-9
-
-Placa única : DBXP.48
-
 FISCAL REGIONAL II REGIÓN DE ANTOFAGASTA:
 
 Derogado.
