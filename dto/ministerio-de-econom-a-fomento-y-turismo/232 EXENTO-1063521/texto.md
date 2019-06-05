@@ -20,7 +20,7 @@ Decreto:
 
 Asígnense para uso de las Secretarías Regionales Ministeriales de Economía que se señalan, los vehículos que se indican:
 
-1. Tipo de vehículo: Camioneta; marca: Chevrolet; modelo: Luv D-Max CC 3.0D; Nº motor: 584389; Nº chassis: 8GGTFSK968A16770; color: Blanco; año: 2008; Placa única: BHRZ.56-5.
+1. Tipo de vehículo: Station Wagon; marca: Hyundai; modelo: Tucson GL 2.0; Nº de motor: G4NAFU574877; Nº de chasis: KMHJT81EDFU081987; color: Negro; año: 2016; Placa única: HSXX.75-0.
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de Arica y Parinacota.
 
@@ -36,7 +36,7 @@ Asignado a: Secretaría Regional Ministerial de Economía de la Región de Antof
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de Atacama.
 
-5. Tipo de vehículo: Camioneta; marca: Chevrolet; modelo: Luv D-Max CC 3.0D WT HR; Nº motor: 578279; chassis: 8GGTFRK898A168458; color: Blanco; año: 2008; Placa única: BLJG.87-0.
+5. Tipo de vehículo: Station Wagon; marca: Ford; modelo: Ecosport 1.6; Nº de motor: MVJAG8561746; Nº de chasis: 9BFZB55NXG8561746; color: Blanco; año: 2016; Placa única: HRYZ.25-8.
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de Coquimbo.
 
@@ -44,7 +44,7 @@ Asignado a: Secretaría Regional Ministerial de Economía de la Región de Coqui
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de Valparaíso.
 
-7. Tipo de vehículo: vehículo; marca: Samsung; modelo: SM3 1.6 Sedán SE 3; Nº motor: QG16174843; Nº chassis: KNMC4C2HM8P689106; color: Azul petróleo; año: 2008; Placa única: BGVV.28-6.
+7. Tipo de vehículo: Station Wagon; marca: Ford; modelo: Ecosport 1.6; Nº de motor: MVJAG8559814; Nº de chasis: 9BFZB55N2G8559814; color: Blanco; año: 2016; Placa única: HRRV.87-K.
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región del Libertador General Bernardo O'Higgins.
 
@@ -52,13 +52,13 @@ Asignado a: Secretaría Regional Ministerial de Economía de la Región del Libe
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región del Maule.
 
-9. Tipo de vehículo: Camioneta; marca: Chevrolet; modelo: Luv D-Max CC 3.0D WT HR; Nº motor 604258; Nº chassis: 8GGTFRK878A168460; color: Blanco; año: 2008; Placa única: BLJG.88-9.
+9. Tipo de vehículo: Station Wagon; marca: Ford; modelo: Ecosport 1.6; Nº de motor: MVJAG8561748; Nº de chasis: 9BFZB55N3G8561748; color: Blanco; año: 2016; Placa única: HRRV.88-8.
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región del Biobío.
 
-10. Tipo de vehículo: Camioneta; marca: Chevrolet; modelo: Luv D-Max CC 3.0D WT HR; Nº motor: 604256; Nº de chassis: 8GGTFRK808A168462; color: Blanco; año: 2008; Placa única: BLJG.89-7.
+10. Tipo de vehículo: Station Wagon; marca: Hyundai; modelo: Tucson GL 2.0; Nº de motor: G4NAFU593089; Nº de chasis: KMHJT81EDFU097698; color: Rojo; año: 2016; Placa única: HSXX.78-5.
 
-Asignado a: Secretaría Regional Ministerial de Economía de la Región de la Araucanía.
+Asignado a: Secretaría Regional Ministerial de Economía de la Región de La Araucanía.
 
 11. Tipo de vehículo: Station Wagon; marca: Hyundai; modelo: New Tucson GL 2.0 CC Aut 4WD; Nº de motor: D4HACU734778; Nº de chassis: KMHJT81VDDU668558; color: Blanco; año: 2013; Placa única: FKWC.10-4.
 
