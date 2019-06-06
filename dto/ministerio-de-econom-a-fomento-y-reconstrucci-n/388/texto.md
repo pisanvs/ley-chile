@@ -22,85 +22,105 @@ La sustitución de embarcaciones artesanales y el procedimiento de reemplazo de 
 
 Para efectos de este reglamento, las embarcaciones artesanales se clasifican en cuatro clases, en el siguiente orden ascendente según su capacidad extractiva:
 
-a) Primera clase: embarcación artesanal, con o sin
+a) Primera clase: embarcación artesanal,
 
-cubierta completa, con o sin motor de
+con o sin cubierta completa,
 
-propulsión, de una eslora total de hasta 8
+con o sin motor de propulsión, de
 
-metros y capacidad de bodega de hasta 5 metros
+una eslora total de hasta 8
 
-cúbicos;
+metros y capacidad de bodega de
 
-b) Segunda clase: embarcación artesanal, con o sin
+hasta 5 metros cúbicos;
 
-cubierta completa, con motor de propulsión, de
+b) Segunda clase: embarcación
 
-una eslora total mayor de 8 metros y de hasta 12
+artesanal, con o sin cubierta
 
-metros y capacidad de bodega de hasta 15 metros
+completa, con motor de propulsión,
 
-cúbicos;
+de una eslora total mayor de
 
-c) Tercera clase: embarcación artesanal, con
+8 metros y de hasta 12 metros y
 
-cubierta completa y motor de propulsión, de una
+capacidad de bodega de hasta
 
-eslora total mayor de 12 metros y de hasta 15
+25 metros cúbicos;
 
-metros y capacidad de bodega de hasta 45 metros
+c) Tercera clase: embarcación artesanal,
 
-cúbicos;
+con cubierta completa y motor de
 
-d) Cuarta clase: embarcación artesanal, con
+propulsión, de una eslora total mayor
 
-cubierta completa y motor de propulsión, de una
+de 12 metros y de hasta 15 metros y
 
-eslora total mayor de 15 metros y de hasta 18
+capacidad de bodega de
 
-metros y capacidad de bodega de hasta 80 metros
+hasta 50 metros cúbicos;
 
-cúbicos.
+d) Cuarta clase: embarcación artesanal,
+
+con cubierta completa y motor de
+
+propulsión, de una eslora total mayor
+
+de 15 metros y de hasta 18
+
+metros y capacidad de bodega de hasta
+
+80 metros cúbicos.
 
 Sin perjuicio de lo señalado en el inciso anterior, en consideración a su esfuerzo pesquero, las embarcaciones artesanales que no tengan inscritos los artes de pesca cerco y/o arrastre, en aquellos casos de excepción contemplados en la normativa vigente, se clasificarán en las siguientes tres clases, según su eslora y capacidad de bodega.
 
-a) Primera clase: embarcación artesanal, con o sin
+a) Primera clase: embarcación artesanal,
 
-cubierta completa, con o sin motor de
+con o sin cubierta completa, con o
 
-propulsión, de una eslora total de hasta 12
+sin motor de propulsión, de una
 
-metros y capacidad de bodega de hasta 15 metros
+eslora total de hasta 12 metros
 
-cúbicos. Tratándose de embarcaciones de hasta 8
+y capacidad de bodega de hasta
 
-metros de eslora podrán tener una bodega de
+25 metros cúbicos. Tratándose
+
+de embarcaciones de hasta 8 metros
+
+de eslora podrán tener una bodega de
 
 hasta 5 metros cúbicos y en caso de
 
-embarcaciones superiores a 8 metros, éstas
+embarcaciones superiores a 8 metros,
 
-deberán tener motor de propulsión;
+éstas deberán tener motor de
 
-b) Segunda clase: embarcación artesanal, con o sin
+propulsión;
 
-cubierta completa, con motor de propulsión, de
+b) Segunda clase: embarcación artesanal,
 
-una eslora total mayor de 12 metros y de hasta
+con o sin cubierta completa, con
 
-15 metros y capacidad de bodega de hasta 45
+motor de propulsión, de una eslora
 
-metros cúbicos;
+total mayor de 12 metros y de
 
-c) Tercera clase: embarcación artesanal, con o sin
+hasta 15 metros y capacidad de bodega
 
-cubierta completa, con motor de propulsión, de
+de hasta 50 metros cúbicos;
 
-una eslora total mayor de 15 metros y de hasta
+c) Tercera clase: embarcación artesanal,
 
-18 metros y capacidad de bodega de hasta 80
+con o sin cubierta completa, con motor
 
-metros cúbicos.
+de propulsión, de una eslora total
+
+mayor de 15 metros y de hasta
+
+18 metros y capacidad de bodega de
+
+hasta 80 metros cúbicos.
 
 No obstante lo indicado en los incisos precedentes, exceptúese del requerimiento de capacidad de bodega a aquellas embarcaciones artesanales que operen exclusivamente recursos bentónicos.
 
