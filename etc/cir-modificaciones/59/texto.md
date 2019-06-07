@@ -1,0 +1,7 @@
+INTRODUCE MODIFICACIONES A LA CIRCULAR UAF N° 49, DE 2012
+
+Extracto de circular N° 59, de 24 de mayo de 2019, de la Unidad de Análisis Financiero, que señala:
+
+En uso de las facultades legales establecidas en la letra f) del artículo 2 de la ley N° 19.913, la Unidad de Análisis Financiero imparte instrucciones modificatorias de la circular UAF N° 49, de 3 de diciembre de 2012, las que modifican el Título III, sobre la Debida Diligencia y Conocimiento del Cliente (DDC), estableciendo tanto la oportunidad en la aplicación de medidas de DDC, así como la información a requerir a los clientes y la obligación de revisión de tales antecedentes, la aplicación de DDC continua y gestión del riesgo; el Título V, relativo a las transferencias electrónicas de fondos, precisando sus alcances, estableciendo un umbral para su aplicación y detallando la información a recopilar por operación; y el Título IX, que trata sobre los países y jurisdicciones de riesgo, estableciendo la ejecución de medidas de DDC reforzada respecto de transacciones realizadas con países o jurisdicciones bajo proceso de seguimiento de GAFI y la aplicación de contramedidas, además de la obligación de guardar especial observancia con países o jurisdicciones con régimen fiscal preferente, según listado publicado por el Servicio de Impuestos Internos.
+
+El texto íntegro de esta circular está publicado en la página web de la Unidad de Análisis Financiero (www.uaf.cl).
