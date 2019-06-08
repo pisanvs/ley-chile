@@ -22,6 +22,8 @@ Decreto:
 
 1.- Autorízase la circulación en días y horas inhábiles, esto es, los días sábado por la tarde, domingo y festivos, de los vehículos de propiedad del Ministerio, de la Subsecretaría de Salud Pública y de la Subsecretaría de Redes Asistenciales, y de aquellos vehículos asignados a las Secretarías Regionales Ministeriales de Salud, que a continuación se detallan:
 
+.
+
 2.- Autorízase la liberación de la exigencia contemplada en el artículo 3° del DL 799, de 1974, a los vehículos anteriormente señalados, de la obligación de llevar distintivo oficial.
 
 3.- Autorízase la circulación en horario inhábil y los días sábado por la tarde, domingo y festivos, de dos vehículos adicionales, que a continuación se individualizan, para ser utilizados como apoyo a las autoridades, o bien, reemplazo en caso de reparaciones, preemergencias o emergencias ambientales, situaciones en las cuales no se requerirá que luzcan el distintivo oficial:
