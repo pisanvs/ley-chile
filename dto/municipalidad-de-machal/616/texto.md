@@ -1261,5 +1261,3 @@ VER DIARIO OFICIAL DE 05.12.2007, PÁGINA 15.
 > **Nota.** NOTA 3 El Decreto 788, M. de Machalí, publicado el 20.06.2018, modifica la presente norma en lo relativo al Articulo 4.1-69 Zona ZE-1 y sus condiciones especiales tal como la norma citada lo indica.
 
 > **Nota.** NOTA 4 El numeral 2° del Decreto 380, M. de Machali, publicado el 14.03.2019, modifica la presente norma en lo relativo al artículo 5.1-84 Edificaciones de Valor Urbanístico y Cultural en las Zonas ZCH, de la manera que la citada norma indica.
-
-> **Nota.** NOTA 5 El numeral 1º del Decreto 1684, M. de Machalí, publicado el 09.12.2021, aprueba la modificación Nº 13 del Plan Regulador Comunal de Machalí y Coya 2007, correspondiente al "Trazado Vial Monseñor Escrivá de Balaguer, Tramo Avenida San Juan - Camino Aris", estableciendo el texto modificado en el numeral 2º de la citada norma. Asimismo, el numeral 3º de dicho decreto aprueba el plano M13PRC-Mach_1 que contiene la modificación.
