@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "EXTRACCIÓN DE ÁRIDOS EN RÍO ITATA"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que mediante resolución exenta N° 42, de fecha 5 de junio de 2019, el Director Regional del Servicio de Evaluación Ambiental de la Región de Ñuble ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Extracción de Áridos en Río Itata", cuyo proponente es Maquinaria y Transporte Aninat Limitada.
+
+El Proyecto se sitúa en la Región de Ñuble y se localiza en 3 comunas, la primera cuña de extracción se encuentra en la ribera poniente del Río Itata que corresponde a la comuna de Quillón, la segunda cuña de extracción se encuentra en la ribera oriente del Río Itata que corresponde a la comuna de Bulnes (ambas comunas de la provincia de Diguillín) y por último la instalación de faenas se encuentra en la comuna de Ránquil, distante a 7,1 km. (en la provincia de Itata). El proyecto consiste en la extracción y procesamiento de material pétreo proveniente del cauce del río Itata, considerando una extracción de 500.000 m3 en una vida útil de 11 años.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS N° 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Ñuble, ubicadas en calle Vega de Saldías 645, Chillán, en horario de atención entre las 8:30 a 13:30, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web www.sea.gob.cl.-
+
+Pedro Navarrete Ugarte, Director Regional Servicio de Evaluación Ambiental Región de Ñuble.
