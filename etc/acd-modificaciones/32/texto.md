@@ -24,9 +24,13 @@ b) Comisión: a la Comisión Clasificadora de Riesgo.
 
 c) Administradoras: a las Administradoras de Fondos
 
-de Pensiones.
+de Pensiones y a la Administradora de Fondos
 
-d) Fondos: a los Fondos de Pensiones.
+de Cesantía.
+
+d) Fondos: a los Fondos de Pensiones y a los Fondos de
+
+Cesantía.
 
 e) Certificados Negociables: a los certificados
 
@@ -52,23 +56,37 @@ vencer y no renovarse el plazo de duración del
 
 fondo.
 
-h) Títulos Representativos de Índices Accionarios,
+h) Títulos Representativos de Índices Accionarios o Índices
 
-Índices de Renta Fija o Índices de Commodities: a
+de Renta Fija: a los instrumentos negociables
 
-los instrumentos negociables representativos de
+representativos de participación en la propiedad de una
 
-participación en la propiedad de una cartera de
+cartera de acciones de empresas o de bonos,
 
-acciones de empresas, de bonos o de commodities,
+respectivamente, cuyo objetivo es obtener retornos
 
-respectivamente, cuyo objetivo es obtener
+similares a los de determinados índices accionarios o
 
-retornos similares a los de determinados índices
+índices de renta fija, según sea el caso, antes de
 
-accionarios, índices de renta fija o índices de
+gastos.
 
-commodities, según sea el caso, antes de gastos.
+i) Gestor de activos alternativos: a la entidad
+
+administradora involucrada en las inversiones en los
+
+activos alternativos específicos, tales como advisor,
+
+sponsor o general partner del vehículo de inversión, o
+
+a la matriz de dicha entidad.
+
+j) Activos alternativos específicos: a capital privado,
+
+deuda privada, inversiones inmobiliarias e
+
+infraestructura.
 
 ## Título I
 
@@ -134,7 +152,7 @@ Las acciones emitidas por empresas y entidades bancarias extranjeras y los certi
 
 Para los efectos del artículo anterior, el riesgo país se evaluará en función de la clasificación de riesgo que tenga el país donde esté situada la bolsa de valores en la cual se encuentren inscritas las acciones o los certificados negociables, y los Fondos puedan transarlos. Las bolsas deberán estar localizadas en países que cuenten con una clasificación de riesgo soberano vigente igual o superior a la Categoría AA establecida en el inciso primero del artículo 105 del DL 3.500, de 1980, respecto de instrumentos de deuda de largo plazo, considerando para ello las equivalencias establecidas en el artículo 3 anterior.
 
-Sin perjuicio de lo anterior, también podrán considerarse aquellas bolsas que se encuentran localizadas en países que tengan clasificación de riesgo soberano igual o superior a la Categoría BBB, conforme a las equivalencias y forma de determinación antedichas, sujeto a que la bolsa de que se trate se encuentre establecida en una jurisdicción incluida dentro de los "Mercados Reconocidos" por la Superintendencia de Valores y Seguros, para efectos del listado a que se refiere la letra d) de la Sección III de su Norma de Carácter General Nº 352 o la norma que la reemplace o sustituya, y solo en tanto se mantenga en dicho listado.
+Sin perjuicio de lo anterior, también podrán considerarse aquellas bolsas que se encuentran localizadas en países que tengan clasificación de riesgo soberano igual o superior a la Categoría BBB, conforme a las equivalencias y forma de determinación antedichas, sujeto a que la bolsa de que se trate se encuentre establecida en una jurisdicción incluida dentro de los "Mercados Reconocidos" por la Comisión para el Mercado Financiero, para efectos del listado a que se refiere la letra d) de la Sección III de su Norma de Carácter General Nº 352 o la norma que la reemplace o sustituya, y solo en tanto se mantenga en dicho listado.
 
 La clasificación de riesgo soberano exigida deberá haber sido otorgada por, al menos, dos de las entidades clasificadoras internacionales indicadas en el artículo 2 de este Acuerdo, considerándose para estos efectos la categoría de más alto riesgo que cualquier entidad clasificadora hubiere asignado al país respectivo.
 
@@ -154,7 +172,7 @@ En los casos calificados en que la bolsa de valores no cumpla con las condicione
 
 Los factores adicionales serán una combinación de elementos cualitativos y cuantitativos que proporcionen información adicional a la contenida en la clasificación determinada de acuerdo a las normas antes señaladas.
 
-Los factores adicionales se considerarán adversos cuando se cuente con antecedentes que permitan concluir que existe una gran incertidumbre respecto del emisor o de sus títulos.
+Los factores adicionales se considerarán adversos cuando se cuente con antecedentes que permitan concluir que existen elementos negativos, actuales o potenciales, respecto del emisor o de sus títulos.
 
 #### Artículo 11
 
@@ -216,13 +234,15 @@ Las características del fondo mutuo o de inversión se aprobarán cuando el fon
 
 En el caso de los fondos mutuos, la liquidez del instrumento en los correspondientes mercados secundarios se aprobará en consideración, entre otros aspectos, a la regulación aplicable al fondo relativa a liquidez y dispersión de la propiedad de sus cuotas; a la periodicidad de rescate de sus cuotas; a la frecuencia y características que tenga la determinación del valor de rescate de sus cuotas; a la liquidez de su cartera de inversión; a su política de liquidación de activos; a las características de la facultad de la sociedad administradora para suspender el rescate de las cuotas en resguardo del interés de los aportantes; a la dispersión de la propiedad de las cuotas entre los aportantes; a las características de los aportantes; a que el fondo cuente con al menos 5 aportantes no vinculados entre sí ni con la sociedad administradora o entidades relacionadas; a la facultad de los aportantes para intercambiar cuotas entre fondos y a la difusión en medios públicos de carácter internacional del precio de rescate de sus cuotas.
 
+La dispersión de la propiedad de las cuotas entre los aportantes se evaluará de forma tal que ningún aportante podrá concentrar más del 25% del total de las cuotas de un fondo. Sin perjuicio de lo anterior, en casos excepcionales considerando la liquidez de los activos en que invierte directamente el fondo, la Comisión podrá aprobar fondos que presenten concentraciones superiores. Para efectos de la evaluación, los fondos administrados por una misma sociedad administradora se considerarán como un solo aportante.
+
 Con relación a las cuotas emitidas por los fondos de inversión, su liquidez se aprobará en virtud de la inscripción y transacción de las mismas en una bolsa de valores que deberá cumplir con las condiciones establecidas en el Capítulo 1 del presente Título.
 
 #### Artículo 21
 
 Los factores adicionales serán una combinación de elementos cualitativos y cuantitativos que proporcionen información adicional a la contenida en la clasificación determinada de acuerdo a las normas antes señaladas.
 
-Los factores adicionales se considerarán adversos cuando se cuente con antecedentes que permitan concluir que existe una gran incertidumbre respecto del Fondo o de sus cuotas.
+Los factores adicionales se considerarán adversos cuando se cuente con antecedentes que permitan concluir que existen elementos negativos, actuales o potenciales, respecto del Fondo o de sus cuotas.
 
 #### Artículo 22
 
@@ -234,14 +254,90 @@ Superintendencia de Pensiones
 
 #### Artículo 23
 
-Los otros instrumentos de oferta pública, cuyos emisores sean fiscalizados por la Superintendencia de Valores y Seguros o la Superintendencia de Bancos e Instituciones Financieras, que autorice la Superintendencia de Pensiones, previo informe favorable del Banco Central de Chile, cuyos riesgos sean asimilables a los de cuotas de fondos mutuos o de inversión extranjeros, se aprobarán, previa solicitud de la Superintendencia de Pensiones, en consideración a que éstos cumplan los requisitos establecidos para dichos instrumentos en el Capítulo 2 anterior, salvo en lo que respecta al monto mínimo de activos administrados por cuenta de terceros por la sociedad administradora, su matriz o grupo al que pertenece, en cuyo caso no se exigirá un monto predeterminado, quedando sujeto a evaluación caso a caso en conjunto con las restantes variables.
+Los otros instrumentos de oferta pública, cuyos emisores sean fiscalizados por la Comisión para el Mercado Financiero o la, que autorice la Superintendencia de Pensiones, previo informe favorable del Banco Central de Chile, cuyos riesgos sean asimilables a los de cuotas de fondos mutuos o de inversión extranjeros, se aprobarán, previa solicitud de la Superintendencia de Pensiones, en consideración a que éstos cumplan los requisitos establecidos para dichos instrumentos en el Capítulo 2 anterior, salvo en lo que respecta al monto mínimo de activos administrados por cuenta de terceros por la sociedad administradora, su matriz o grupo al que pertenece, en cuyo caso no se exigirá un monto predeterminado, quedando sujeto a evaluación caso a caso en conjunto con las restantes variables.
 
 4.- Títulos Representativos de Índices
 
 #### Artículo 24
 
-Los títulos representativos de índices accionarios, índices de renta fija o índices de commodities extranjeros serán asimilados a cuotas de fondos de inversión extranjeros, se aprobarán cuando cumplan los requisitos exigidos a dichos instrumentos en el Capítulo 2 anterior. Sin perjuicio de lo anterior, los índices accionarios, índices de renta fija e índices de commodities deberán corresponder a aquellos elaborados por bolsas de valores extranjeras o entidades extranjeras, con vasta experiencia y reconocido prestigio en esta materia, que estén reguladas por una autoridad fiscalizadora formal y que se encuentren radicadas en países con clasificación de riesgo igual o superior a Categoría AA, de acuerdo con lo establecido en el artículo 3 anterior, considerando la clasificación de mayor riesgo asignada, por al menos dos de las entidades clasificadoras internacionalmente reconocidas, señaladas en el artículo 2 anterior.
+Los títulos representativos de índices accionarios o índices de renta fija extranjeros serán asimilados a cuotas de fondos de inversión extranjeros, se aprobarán cuando cumplan los requisitos exigidos a dichos instrumentos en el Capítulo 2 anterior. Sin perjuicio de lo anterior, los índices accionarios e índices de renta fija deberán corresponder a aquellos elaborados por bolsas de valores extranjeras o entidades extranjeras, con vasta experiencia y reconocido prestigio en esta materia, que estén reguladas por una autoridad fiscalizadora formal y que se encuentren radicadas en países con clasificación de riesgo igual o superior a Categoría AA, de acuerdo con lo establecido en el artículo 3 anterior, considerando la clasificación de mayor riesgo asignada, por al menos dos de las entidades clasificadoras internacionalmente reconocidas, señaladas en el artículo 2 anterior.
 
 Sin perjuicio de lo anterior, y sólo en casos excepcionales, la Comisión podrá aprobar la clasificación de riesgo del país donde esté radicada la bolsa de valores o la entidad que elabora el índice, cuando ésta sea inferior a Categoría AA, y sea igual o superior a Categoría BBB, considerando al efecto su clasificación de riesgo país, ponderada en conjunto con otros factores relevantes a considerar, en particular la fortaleza y estabilidad de su marco institucional.
+
+## Título III
+
+De la Aprobación de los instrumentos, operaciones y contratos representativos de activos alternativos específicos extranjeros
+
+#### Artículo 25
+
+Los vehículos para llevar a cabo inversión en activos de capital privado extranjeros, incluyendo activos de capital asociados a los sectores infraestructura e inmobiliario, entre otros, así como los vehículos para llevar a cabo inversión en deuda privada extranjera, incluyendo deuda asociada a los sectores infraestructura e inmobiliario, entre otros, y las operaciones de coinversión en capital y deuda privada en el extranjero, incluyendo activos de capital y deuda asociados a los sectores infraestructura e inmobiliario, entre otros, se aprobarán por la Comisión previa solicitud de una Administradora, en consideración a las características del gestor de activos alternativos. Para tales efectos, se considerará el riesgo país, las características de los sistemas institucionales de regulación, fiscalización y sanción, su experiencia en la administración de los activos alternativos específicos y la existencia de factores adicionales.
+
+#### Artículo 26
+
+Los gestores de las inversiones deberán corresponder a entidades que se encuentren reguladas y supervisadas por las correspondientes autoridades del mercado de valores y/o financiero de algún Estado, cuyos títulos de deuda de largo plazo se encuentren clasificados por al menos dos empresas clasificadoras internacionales de las indicadas en el artículo 2 de este Acuerdo, y cuya clasificación de mayor riesgo en moneda extranjera sea al menos igual a la Categoría AA. Sin perjuicio de lo anterior, también se considerarán los Estados cuyos títulos de deuda de largo plazo posean una clasificación igual o superior a BBB, siempre que la jurisdicción se encuentre incluida dentro de los "Mercados Reconocidos" por la Comisión para el Mercado Financiero, para efectos del listado a que se refiere la letra d) de la sección III de su Norma de Carácter General Nº 352 o la norma que la reemplace o sustituya, y solo en tanto se mantenga en dicho listado.
+
+#### Artículo 27
+
+Para aprobar a un gestor como administrador de inversiones en activos alternativos, se evaluarán a satisfacción de la Comisión los sistemas institucionales de regulación, fiscalización y sanción que existan en el respectivo país.
+
+#### Artículo 28
+
+La experiencia del gestor se aprobará en la medida que éste, su matriz o el grupo al que pertenece, cuente con al menos diez años de experiencia en la administración de capital privado, deuda privada, inversiones inmobiliarias o en infraestructura, según cual sea el activo específico de que se trate. Asimismo, el gestor deberá acreditar y mantener en todo momento, desde la fecha de solicitud de la aprobación, un monto mínimo de US$5.000 millones en activos administrados en el activo específico, incluyendo los montos disponibles comprometidos.
+
+#### Artículo 29
+
+Los factores adicionales serán una combinación de elementos cualitativos y cuantitativos que proporcionen información adicional a la contenida en la evaluación determinada de acuerdo a las normas antes señaladas.
+
+Los factores adicionales se considerarán adversos cuando se cuente con antecedentes que permitan concluir que existen elementos negativos, actuales o potenciales, respecto del gestor.
+
+#### Artículo 30
+
+Los vehículos y operaciones para llevar a cabo inversión en activos alternativos, señalados en el artículo 25 anterior, se aprobarán cuando del análisis de los requisitos contemplados en este Título III se determine que el gestor de ellos cumple con dichas condiciones, y no existan factores adicionales adversos. En caso contrario, los vehículos y operaciones del gestor serán rechazados o desaprobados.
+
+#### Artículo 31
+
+Para solicitar la aprobación de los vehículos y operaciones de un gestor, la Administradora deberá enviar una carta en la cual identifique adecuadamente al gestor y la clase de activo alternativo específico para la cual está solicitando su aprobación, y adjuntar los antecedentes del gestor necesarios para evaluar los requerimientos antes señalados. Estos antecedentes serán recabados a través de un Formulario de Solicitud de Aprobación, el que deberá incluir una declaración de compromiso del gestor para aportar en forma permanente todos los antecedentes requeridos para su evaluación.
+
+#### Artículo 32
+
+El gestor aprobado deberá actualizar anualmente los antecedentes entregados, conforme a lo establecido en su declaración de compromiso, en el mes en que fue aprobado o en una fecha definida de común acuerdo con la Comisión. Adicionalmente, el gestor deberá enviar una solicitud para mantener su aprobación, suscrita por una Administradora, cuando el último día hábil del mes anterior a la fecha de actualización anual indicada, no existiere inversión de los Fondos chilenos en vehículos u operaciones de coinversión administrados por él.
+
+## Título IV
+
+De la Aprobación de las Entidades Contrapartes de Operaciones con Instrumentos Derivados
+
+#### Artículo 33
+
+Las operaciones con instrumentos derivados considerarán contratos de opciones, futuros, forwards y swaps las que deberán cumplir con las condiciones establecidas en el Régimen de Inversión y las normas emitidas por la Superintendencia de Pensiones. Los indicados contratos deberán tener como contraparte a cámaras de compensación o bancos, según corresponda, aprobados por la Comisión.
+
+#### Artículo 34
+
+Las cámaras de compensación se aprobarán en virtud de los sistemas institucionales de regulación, fiscalización y sanción sobre la cámara de compensación por parte de la autoridad reguladora pertinente. Adicionalmente, se evaluarán los esquemas de autorregulación y los requisitos exigidos por la cámara de compensación a las contrapartes para celebrar contratos de opciones y futuros, así como los sistemas de regulación, fiscalización y sanción de la cámara de compensación sobre las contrapartes.
+
+Se evaluará asimismo, la experiencia y solvencia de la cámara de compensación en consideración a su historia, patrimonio, accionistas, volumen de contratos intermediados, tipo de contratos ofrecidos, activos objeto de los mismos, tipo de resguardos ante incumplimiento de contrato por las contrapartes, y grado de cumplimiento de contratos por parte de la cámara de compensación.
+
+#### Artículo 35
+
+Los bancos extranjeros se aprobarán como contraparte de los Fondos en los contratos de derivados a largo plazo, en consideración a que su clasificación de riesgo de largo plazo sea igual o superior a Categoría A, de acuerdo a lo establecido en el artículo 3 anterior.
+
+Se entenderá por clasificación de riesgo de largo plazo del emisor a la clasificación de mayor riesgo en moneda extranjera que haya sido asignada, por al menos dos de las entidades clasificadoras internacionales indicadas en el artículo 2, a sus depósitos a largo plazo, a su deuda senior a largo plazo y como contraparte.
+
+Asimismo, los bancos extranjeros se aprobarán como contraparte de los Fondos en los contratos de derivados a corto plazo, cuando la clasificación de mayor riesgo asignada, por al menos dos de las entidades clasificadoras internacionales de las indicadas en el artículo 2, de sus depósitos a corto plazo en moneda extranjera sea al menos igual a Nivel 1, según lo establecido en el artículo 5 anterior.
+
+Sin perjuicio de lo anterior, se aprobarán excepcionalmente los bancos extranjeros como contraparte de los Fondos en los contratos de derivados a corto plazo, cuando la clasificación de mayor riesgo asignada, por al menos dos de las entidades clasificadoras internacionales de las indicadas en el artículo 2, de sus depósitos a corto plazo en moneda extranjera sea al menos igual a Nivel 2 y su clasificación de riesgo de largo plazo sea igual o superior a Categoría A, de acuerdo a lo establecido en el artículo 3 anterior.
+
+De igual forma y en casos calificados por la Comisión se considerará sólo una clasificación de riesgo de largo o corto plazo, siempre que el banco extranjero acredite lo siguiente:
+
+1) Un indicador de cobertura de capital igual o superior a 12%, según los criterios del Banco Internacional de Pagos.
+
+2) Una vasta experiencia, participación de mercado relevante y reconocida reputación en el mercado de opciones, forwards y swaps.
+
+3) Contar con mecanismos que garanticen a las contrapartes el cumplimiento de los contratos de opciones, forwards y swaps, en la forma y plazos pactados.
+
+4) Haber implementado y operado por largo tiempo procedimientos para seleccionar contrapartes y cautelar el cumplimiento de sus obligaciones.
+
+#### Artículo 36
+
+Los bancos constituidos legalmente en Chile o autorizados para funcionar en el país, podrán ser contraparte de los Fondos en los contratos de forwards y swaps a largo y corto plazo, cuando sus depósitos a largo y corto plazo cuenten con dos clasificaciones de riesgo al menos iguales o superiores a Categoría AA- y Nivel 1, respectivamente, asignadas por diferentes entidades clasificadoras de riesgo a que se refiere el artículo 71 de la Ley Nº 18.045 de Mercado de Valores, considerando las clasificaciones de mayor riesgo asignadas a cada tipo de instrumento.
 
 Santiago, 23 de diciembre de 2008.- Raúl Arismendi González, Secretario.
