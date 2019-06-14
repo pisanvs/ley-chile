@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL Nº0504-0315-0100005460, DEL BANCO SCOTIABANK EX - BBVA (CHILE), SUCURSAL LA SERENA, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL LA SERENA DEL INSTITUTO DE PREVISIÓN SOCIAL, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta Nº 169, de 26 de abril de 2019, el Director Nacional del Instituto de Previsión Social, delega la facultad de girar cheques, retirar talonarios, cartolas, cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, en funcionarios del Centro de Atención Previsional Integral IPS La Serena la facultad para operar la cuenta corriente "Giradora Local Nº 0504-0315-0100005460", abierta en la sucursal La Serena del Banco Scotiabank ex BBVA (Chile), destinada al pago de beneficios previsionales y gastos de la Institución originados en el mencionado Centro de Atención.
+
+Santiago, 7 de junio de 2019.- Patricio Coronado Rojo, Director Nacional.
