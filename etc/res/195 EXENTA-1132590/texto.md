@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO SUSCRITO POR EL INSTITUTO DE PREVISIÓN SOCIAL CON LE MANS DESARROLLO COMPAÑÍA DE SEGUROS DE VIDA S.A. EN QUIEBRA, CON FECHA 3 DE ENERO DE 2019, PARA EL PAGO RENTAS VITALICIAS PREVISIONALES CON GARANTÍA ESTATAL POR QUIEBRA
+
+Por resolución exenta Nº 195, de 30 de mayo de 2019, el Director Nacional del Instituto de Previsión Social, aprueba para el Instituto de Previsión Social, el Convenio entre el Instituto de Previsión Social y Le Mans Desarrollo Compañía de Seguros de Vida S.A. en Quiebra para el Pago de Rentas Vitalicias Previsionales con Garantía Estatal por Quiebra, suscrito con fecha 3 de enero de 2019, entre el Instituto de Previsión Social y Le Mans Desarrollo Compañía de Seguros de Vida S.A. en Quiebra, cuyo objetivo es financiar y administrar los pagos de las Rentas Vitalicias desde el 1 de marzo del presente año hasta la extinción de las respectivas Pólizas de Seguro, de conformidad con los recursos que se dispongan para tal efecto en la respectiva Ley de Presupuestos del Sector Público.
+
+Santiago, 7 de junio de 2019.- Patricio Coronado Rojo, Director Nacional.
