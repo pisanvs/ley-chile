@@ -1,0 +1,5 @@
+APRUEBA EL "CONVENIO DE ADHESIÓN CUSTODIA CENTRALIZADA DE BONOS DE RECONOCIMIENTO DE AFILIADOS ACTIVOS INMOVILIZADOS", Y SU ANEXO "SITIO INTERNET DCV", SUSCRITOS ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL DEPÓSITO CENTRAL DE VALORES S.A., DEPÓSITO DE VALORES
+
+Por resolución exenta Nº 176, de 15 de mayo de 2019, el Director Nacional del Instituto de Previsión Social, aprueba para el Instituto de Previsión Social, el Convenio de Adhesión Custodia Centralizada de Bonos de Reconocimiento de Afiliados Activos Inmovilizados, suscrito con fecha 24 de abril de 2019, entre el Instituto de Previsión Social y Depósito Central de Valores S.A., cuyo objetivo es la regulación del Servicio de Custodia Centralizada de Bonos de Reconocimiento de Afiliados Activos en su modalidad inmovilizada.
+
+Santiago, 7 de junio de 2019.- Patricio Coronado Rojo, Director Nacional.
