@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº364, de 27 de mayo de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 64, para la obra: REPOSICION RUTA 148 SECTOR: CRUCE RUTA 5 - PUENTE QUEIME, que figura a nombre de SOCIEDAD DE INVERSIONES CAYUMANQUI, rol de avalúo 1157-369, Comuna de BULNES, REGION DE ÑUBLE, superficie 340 m2. La Comisión de Peritos integrada por VALESKA CAROLINA ALÉ GOÑI, MARIA PAMELA MAC-GUIRE ACEVEDO y VALERIA DEL CARMEN MARDONEZ LEMA, mediante informe de tasación de 20 de octubre de 2016, complementada por actas de 03 de noviembre de 2017 y 18 de julio de 2018, fijó el monto de la indemnización provisional en la cantidad de $1.247.780 para el lote Nº64. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
