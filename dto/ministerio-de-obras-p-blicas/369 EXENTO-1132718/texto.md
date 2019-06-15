@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº369, de 27 de mayo de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.6, 7, 8 y 10, para la obra: MEJORAMIENTO RUTA 7 SUR. SECTOR: EL MANZANO-COCHRANE, que figuran a nombre de GANADERA RIO NEFF LIMITADA, rol de avalúo 201-22, Comuna de COCHRANE, REGION DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficies 9.602, 381, 1.620 y 5.215 m2. respectivamente. La Comisión de Peritos integrada por PATRICIO JAVIER EUSEBIO BOPP LATHAM, JAVIER ANDRÉS DOMINGUEZ CONCHA y ALFREDO ANTONIO MAYORGA ENNATARRIAGA, mediante informe de tasación de 01 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $1.457.400, para el lote Nº6, $53.340, para el lote Nº7, $226.800, para el lote Nº8 y $851.300, para el lote Nº10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
