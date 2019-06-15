@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 372, de 27 de mayo de 2019, se modificó el numeral segundo del Decreto Exento MOP. Nº495, de 27 de julio de 2016, quedando como a continuación se indica: lote Nº6, ubicado en la comuna de Melipilla, que figura a nombre de ALICIA DEL PILAR AGUILERA BUSTOS Y OTROS, S/R, superficie 49 m2. Compleméntese el informe de tasación emitido el 12 de diciembre de 2014, con acta emanada de la Jefa Subdepto. Expropiaciones DRVMS de fecha 30 de agosto de 2018.
