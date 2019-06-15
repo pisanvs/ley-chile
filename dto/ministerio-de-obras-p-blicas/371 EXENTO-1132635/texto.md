@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. N° 371, de 27 de mayo de 2019, se modificó el numeral segundo del Decreto Exento MOP. N° 496, de 27 de julio de 2016, quedando como a continuación se indica: lote N° 8, ubicado en la comuna de Melipilla, que figura a nombre de LETELIER ZULOAGA ROBERTO SANTIAG, Rol de Avalúo 2087-737, superficie 395 m2. Compleméntese el informe de tasación emitido el 12 de diciembre de 2014, con acta emanada de la Jefa Subdepto. Expropiaciones DRVMS de fecha 05 de abril de 2018.
