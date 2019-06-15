@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 360 de 27 de mayo de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 7 para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVI. SECTOR: SECTOR 1 (RUTA F-20). SUBSECTOR: RUTA 5 NORTE - PLAZA PEAJE KM 0.000,00 AL KM 6.500,00, Región de Valparaíso, que figura a nombre de OLIVARES CISTERNAS EDUARDO, rol de avalúo 171-50, comuna de Nogales, superficie 14.253 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 658 de 29 de noviembre de 2018, integrada por Pamela Andrea Campos López, Valentina Andrea Chacaltana Sims y Loreto Isabel Hernández Ríos, fijó con fecha 11 de enero de 2019, el valor provisional de la indemnizacion en la cantidad de $90.936.000 para el lote Nº 7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
