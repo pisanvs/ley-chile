@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 387, de 29 de mayo de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 3 y 8, Rol de avalúo 620-2 (lote 2) y 620-3 (lote 8), Comuna de Nueva Imperial, superficies 1.897 y 2.988 m2., para la obra: MEJORAMIENTO RUTAS S-464 Y S-488: ALMAGRO - BARROS ARANA, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por YASCHALA MARIBEL YAÑEZ RIFFO, PABLO ALEJANDRO SEPÚLVEDA GÓMEZ y EVALDO ROBERTO CONTRERAS ROA, fijó el valor de tasación con fecha 09 de julio de 2015, complementada por Acta de 05 de septiembre de 2017, acordándose la indemnización con su propietaria INVERSIONES MORA Y COMPAÑÍA LIMITADA, en la cantidad total de $12.363.090.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
