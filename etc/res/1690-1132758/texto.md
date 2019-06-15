@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 1.690 de 4 de junio de 2019, el Serviu Región de Los Lagos ordenó expropiación lote terreno Nº 103 para la ejecución Proyecto "Mejoramiento Avenida Presidente Ibáñez de la ciudad de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de González Muñoz Elba, rol de avalúo según SII Nº 1350-10, comuna de Puerto Montt, superficie 3,68 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher G., Enrique Hoelck A. y Raúl Palma L., designados por resolución exenta Nº 1.046 de 5 de abril de 2019, fijó con fecha 29 de abril de 2019 el valor provisional de la indemnización en la suma de $1.442.500. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7º del decreto ley Nº 2.186.-
+
+Director Serviu Región de Los Lagos.
