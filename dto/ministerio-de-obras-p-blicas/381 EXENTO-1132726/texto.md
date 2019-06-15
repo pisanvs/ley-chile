@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº381, de 29 de mayo de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 43 y 44, para la obra: MEJORAMIENTO RUTA 1-45 SECTOR PUENTE NEGRO - LA RUFINA, que figuran a nombre de FUENTES CORNEJO AMBROSIO DEL CAR Y, rol de avalúo 412-29, Comuna de SAN FERNANDO, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 310 y 340 m2 respectivamente. La Comisión de Peritos integrada por ANDRES RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRIQUEZ y MARLENE TERESA RIOS MARCUELLO, mediante informe de tasación de 25 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $2.136.000 para el lote Nº43, y $2.326.000 para el lote Nº44. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
