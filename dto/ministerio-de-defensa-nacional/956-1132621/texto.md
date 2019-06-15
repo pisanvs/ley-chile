@@ -1,0 +1,5 @@
+RENOVACIÓN DE DESTINACIÓN
+
+Decreto supremo Nº 956, de fecha 21 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Ministerio de Economía, Fomento y Turismo, RUT 60.701.002-1, Subsecretaría de Pesca y Acuicultura, para el Servicio Nacional de Pesca y Acuicultura, Segunda Renovación de Destinación Marítima, con vencimiento el 31 de diciembre de 2033, sobre un sector de Fondo de Mar y Porción de Agua, en el lugar denominado Piedra Negra, comuna de Los Muermos, Provincia de Llanquihue, Región de Los Lagos, con una superficie total de 1.481.700 m², la que fue tramitada con el SIABC Nº 40.191. A modo referencial se señala la siguiente coordenada geográfica: Lat. 41º31'47,90" S.; Long. 73º47'38,21" W. El objeto consiste en continuar operando un Área de Manejo y Explotación de Recursos Bentónicos. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Maullín. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Raúl Valverde Bórquez, Teniente 1° LT.
