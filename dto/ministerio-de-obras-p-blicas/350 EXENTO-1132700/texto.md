@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº350, de 22 de mayo de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.24, 25, 27, 29 y 31, para la obra: MEJORAMIENTO PAVIMENTO RUTA G-814 LEYDA - CUNCUMEN, que figuran a nombre de AGRICOLA ROBLEDAL DOS LIMITADA, roles de avalúo 9053-85, Comuna de SAN ANTONIO, REGION DE VALPARAÍSO, superficies 3.037, 1.227, 2.766, 571 y 1.026 m2. respectivamente. La Comisión de Peritos integrada por BERNARDO LUIS VERA MANDAKOVIC, CARMEN PILAR RIOS MARCUELLO y MARCELO GABRIEL OYARZO SALDIAS, mediante informe de tasación de 21 de abril de 2018, fijó el monto de la indemnización provisional en la cantidad de $12.610.900, para el lote Nº24, $6.779.900, para el lote Nº25, $20.016.200, para el lote Nº27, $7.287.200, para el lote Nº29, y $9.604.200, para el lote Nº31. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
