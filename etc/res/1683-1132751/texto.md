@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 1.683, de 4 de junio de 2019, el Serviu Región de Los Lagos ordenó expropiación lote terreno N° 104 para la ejecución Proyecto "Mejoramiento Avenida Presidente Ibáñez de la ciudad de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Sociedad Constructora Puerto Oct, Rol de avalúo según SII N° 1030-9, comuna de Puerto Montt, superficie 10,84 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher G., Enrique Hoelck A. y Raúl Palma L., designados por resolución exenta N° 1046 de 5 de abril de 2019, fijó con fecha 29 de abril de 2019 el valor provisional de la indemnización en la suma de $3.685.600. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del decreto ley N° 2186.
+
+Director Serviu Región de Los Lagos.
