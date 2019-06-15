@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº349, de 22 de mayo de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 30, para la obra: MEJORAMIENTO RUTAS W-135-125. SECTOR: RAMPA CHACAO-LINAO, que figura a nombre de VILLEGAS HERRERA YESSICA PILAR, rol de avalúo 1167-25, Comuna de ANCUD, REGION DE LOS LAGOS, superficie 36 m2. La Comisión de Peritos integrada por CHRISTIAN EMIL RAUCH YAÑEZ, LEOPOLDO RAMON SCHUMACHER GUARDA y JUAN SAMUEL BARRIENTOS BAHAMONDE, mediante informe de tasación de 10 de junio de 2015, fijó el monto de la indemnización provisional en la cantidad de $90.000, para el lote Nº30. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
