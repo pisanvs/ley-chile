@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.324, de fecha 17 de mayo de 2019, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 9051-14, correspondiente al inmueble ubicado en Est El Canelo 3245 Dp 12 B Volcán Sn José 2, Rol de Avalúo Nº 9051-14, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Espinoza Palma Miguel A, con una superficie aproximada de 46,07 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Plan Integral de Rehabilitación Urbana Bajos de Mena y Reconversión del Polígono El Volcán II comuna de Puente Alto". La Comisión de Peritos integrada por los señores Fernando Merino De La Cerda, Arquitecto; Patricia Zavala Contreras, Constructor Civil y Victoria Blanco Costa, Arquitecto, mediante Informe de fecha 30 de noviembre de 2011, fijó la indemnización provisional por causa de la referida expropiación en la suma de $12.661.968.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
