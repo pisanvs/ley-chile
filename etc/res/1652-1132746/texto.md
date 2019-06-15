@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 1.652 de 31 de mayo de 2019, el Serviu Región de Los Lagos ordenó expropiación lote terreno N° 11k para la ejecución Proyecto "Mejoramiento Interconexión Alerce-Puerto Montt, Senda Central-Avda. Austral", comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Hernández Álvarez José Luis, rol de avalúo según SII N° 2214-34, comuna de Puerto Montt, superficie 1.098,54 metros cuadrados. La comisión de peritos integrada por los Srs. Leopoldo Schumacher G., Enrique Hoelck A. y Juan Barrientos B., designados por resolución exenta N° 1.411 de 14 de mayo de 2019, fijó con fecha 22 de mayo de 2018 el valor provisional de la indemnización en la suma de $6.041.970. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del decreto ley N° 2.186.-
+
+Director Serviu Región de Los Lagos.
