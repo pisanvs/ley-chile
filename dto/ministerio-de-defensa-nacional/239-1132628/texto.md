@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+El decreto supremo N° 239 de fecha 8 de agosto de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Sra. Rosa Jarpa Recabal, RUN. 4.015.921-5, primera renovación de la concesión marítima menor, con vencimiento el 30 de junio de 2023, sobre un sector de playa, en un lugar denominado Playa Principal, comuna de El Quisco, Provincia de San Antonio, Región de Valparaíso, con una superficie total de 65 m2, la que fue tramitada con el SIABC N° 34399. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta concesión marítima, en el sector otorgado, es continuar destinando la mejora fiscal (kiosco) para el expendio de bebidas analcohólicas, confites, helados y golosinas. La mejora fiscal, corresponde a una edificación de un piso, de estructura soportante de albalería con terminaciones corrientes adecuadas a su destino de kiosco de playa, en buen estado de conservación y con una superficie edificada de 40,32 m2. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Algarrobo. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Algarrobo, 27 de mayo de 2019.- David López Stancic, Capitán de Corbeta LT.
