@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº378, de 27 de mayo de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 51-B, 63-A y 86-D, para la obra: REPOSICION RUTA A - 133, SECTOR EL BUITRE - LAS MAITAS, que figura a nombre de CHONG SOTOMAYOR EDUARDO, AVACA DIAZ EDUARDO GREGORIO y FUMEY CORDOVA CONSTANTINO F, roles de avalúo 3410-211, 3412-6 y 3420-41, Comuna de ARICA, REGION ARICA Y PARINACOTA, superficies 754, 1.457 y 127 m2 respectivamente. La Comisión de Peritos integrada por ANGELICA YANETT SEURA ROJAS, PATRICIA ANGELICA MORALES RIVERA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 29 de julio de 2016, fijó el monto de la indemnización provisional en la cantidad de $102.430.000 para el lote Nº51-B, $87.296.000 para el lote Nº63-A, y $30.060.000 para el lote Nº86-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
