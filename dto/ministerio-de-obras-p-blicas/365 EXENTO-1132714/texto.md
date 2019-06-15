@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº365, de 27 de mayo de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 12, para la obra: MEJORAMIENTO RUTA D-605, SECTOR PUNITAQUI - MANQUEHUA, que figura a nombre de MINERA ALTOS DE PUNITAQUI LTDA, rol de avalúo 47-16, Comuna de PUNITAQUI, REGION DE COQUIMBO, superficie 635 m2. La Comisión de Peritos integrada por LUIS FELIPE MUÑOZ CARVAJAL, VIVIANA DE LOS ANGELES FRIAS GONZÁLEZ y MAURICIO ANDRES ANDUEZA PEREZ, mediante informe de tasación de 21 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $1.983.000, para el lote Nº12. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
