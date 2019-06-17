@@ -964,13 +964,13 @@ c. Control de partes y trazabilidad.
 
 (2) Atribuciones.
 
-(i) Desempeñarse como responsable del control de calidad de un centro de mantenimiento aeronáutico (organización de mantenimiento) o como responsable del control de la aeronavegabilidad continuada de una empresa aérea. Esta atribución se puede ejercer respecto de helicópteros cuyo peso máximo de despegue certificado sea igual o inferior a 3.175 kg;
+(i) Desempeñarse como responsable del control de calidad de un centro de mantenimiento aeronáutico (organización de mantenimiento) o como responsable del control de la aeronavegabilidad continuada de una empresa aérea. Esta atribución se puede ejercer respecto de helicópteros cuyo peso máximo de despegue certificado sea igual o inferior a 5.700 kg.;
 
 (ii) Certificar con su firma la conformidad de mantenimiento de trabajos efectuados por los mecánicos de mantenimiento, habilitados en Ala Rotatoria;
 
-(iii) Certificar con su firma la conformidad de mantenimiento y el retorno al servicio de helicópteros cuyo peso máximo de despegue certificado sea igual o inferior a 3.175 kg;
+(iii) Certificar con su firma la conformidad de mantenimiento y el retorno al servicio de helicópteros cuyo peso máximo de despegue certificado sea igual o inferior a 5.700 kg.;
 
-(iv) Certificar con su firma la conformidad de mantenimiento y el retorno al servicio de helicópteros de peso máximo de despegue certificado superior a 3.175 kg. sólo en trabajos de mantenimiento menor; y
+(iv) Certificar con su firma la conformidad de mantenimiento y el retorno al servicio de helicópteros de peso máximo de despegue certificado sea igual o inferior a 5.700 kg.; y
 
 (v) Certificar con su firma la conformidad de mantenimiento y el retorno al servicio de aeronaves de Ala Rotatoria con motor recíproco construido o armado por aficionados.
 
