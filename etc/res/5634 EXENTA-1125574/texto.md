@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Compleméntase la resolución DV (exenta) Nº 439 de 2017, incorporando caminos de uso público de las Provincias de Osorno y Llanquihue, quedando identificados según se indica a continuación: ARTICULO - Compleméntase la resolución DV (exenta) Nº 439 de 2017, incorporando caminos de uso público de las Provincias de Osorno y Llanquihue, quedando identificados según se indica a continuación :
+1.- Compleméntase la resolución DV (exenta) Nº 439 de 2017, incorporando caminos de uso público de las Provincias de Osorno y Llanquihue, quedando identificados según se indica a continuación: ARTICULO - Compleméntase la resolución DV (exenta) Nº 439 de 2017, incorporando caminos de uso público de las Provincias de Osorno y Llanquihue, quedando identificados según se indica a continuación:
 
 .
 
@@ -31,15 +31,5 @@ Resuelvo:
 3.- Corríjase la identificación de los siguientes caminos de la Provincia de Llanquihue, por cuanto se han hecho precisiones respecto del levantamiento y longitud de la Ruta 7 en la Región de Los Lagos, y que modifica la longitud total, km de inicio y/o km de término de estos, de acuerdo al siguiente detalle:
 
 4.- Exclúyase de esta asignación de Roles y Nombres a todos aquellos caminos o tramos de caminos incluidos en el punto Nº 1, Nº 2 y Nº 3 de esta resolución, que se encuentren dentro de los límites urbanos vigentes declarados por los instrumentos de planificación territorial que corresponda y que no hayan sido declarados como camino público en zona urbana, de acuerdo a lo estipulado en el Art. Nº 24 del DFL MOP Nº 850 de 1997.
-
-> **Nota.** El N° 1 de la Resolución 181 Exenta, Obras Públicas, publicada el 13.04.2021, complementa la presente norma, en el sentido de incorporar caminos de uso público de las provincias de Osorno, Palena y Chiloé, quedando identificados según se indica en la tabla inserta de la citada norma.
-
-> **Nota.** NOTA 1 El Nº 2 de la Resolución 1197 Exenta, Obras Públicas, publicada el 08.06.2022, complementa la presente resolución, asignando rol a caminos de uso público de las Provincias de Chiloé, Osorno y Palena de la Región de Los Lagos, de acuerdo con el listado que se detalla en la tabla inserta de la citada norma.
-
-> **Nota.** NOTA 2 El Nº 1 de la Resolución 1253 Exenta, Obras Públicas, publicada el 20.06.2022, complementa la presente resolución, asignando rol a caminos de uso público de las Provincias de Chiloé, Osorno y Palena de la Región de Los Lagos, de acuerdo con el listado que se detalla en la tabla inserta de la citada norma.
-
-> **Nota.** NOTA 3 El Nº 1 de la Resolución 2400 Exenta, Obras Públicas, publicada el 21.09.2024, complementa la presente resolución, asignando rol a caminos de uso público de las Provincias de Chiloé de la Región de Los Lagos, de acuerdo con el listado que se detalla en la tabla inserta de la citada norma.
-
-> **Nota.** NOTA 4 El numeral 1 de la Resolución 1690 Exenta, Obras Públicas, publicada el 09.07.2025 complementa la presente norma asignando rol a camino de uso público de la Provincia de Llanquihue de la Región de Los Lagos, de acuerdo a la tabla inserta de la citada norma.
 
 Anótese, comuníquese y publíquese.- Walter Brüning Maldonado, Director Nacional de Vialidad.
