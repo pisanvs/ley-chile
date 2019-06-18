@@ -1,0 +1,7 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 1.024, de 11 de abril de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1. Modifícase la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 537, del 2 de marzo de 2009, del Ministerio de Defensa Nacional, Subsecretaría de Marina, cuya ampliación de plazo para iniciar actividades fue otorgada por resolución exenta 11.607, del 7 de diciembre de 2012, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, transferencia inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría para las Fuerzas Armadas a fojas 306, N°611, del 10 de diciembre de 2012 e inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría de Pesca y Acuicultura, bajo el N° 875, del 29 de enero de 2015, a nombre de su actual titular Cermaq Chile S.A., sociedad chilena, RUT 79.784.980-4, con domicilio en Avenida Diego Portales 2000, piso 10, Puerto Montt, en el sentido que la concesionaria debe dar cumplimiento al nuevo proyecto técnico aprobado por resolución exenta 2.779, de 23 de agosto de 2017, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, entendiéndose modificado el N°4, de la parte resolutiva del acto administrativo que otorgó la concesión de acuicultura.
+
+Santiago, 6 de mayo de 2019.- Por orden del Subsecretario para las Fuerzas Armadas, Cristián García-Huidobro C., Jefe División Jurídica.
