@@ -50,17 +50,15 @@ Resolución:
 
 3. Distribúyase, la presente resolución a todas aquellas Entidades Patrocinantes con Convenio Vigente a través de Oficio para que tomen conocimiento de los plazos de esta postulación.
 
-4. Infórmese, según el resuelvo N° 7, que todas las copropiedades que fueron certificadas en el año 2018 y 2019, con fecha anterior a la publicación del presente llamado, deberán ser certificadas con las condiciones establecidas en la resolución Ex. N° 1.115. Ante esto se solicitarán los siguientes antecedentes actualizados que deberán entregar a esta Seremi:
+4. Infórmese, según el resuelvo Nº 7, que todas las copropiedades que fueron certificadas en el año 2018 y 2019, con fecha anterior a la publicación del presente llamado, deberán ser certificadas con las condiciones establecidas en la resolución Ex. Nº 1.115. Ante esto se solicitarán los siguientes antecedentes actualizados que deberán entregar a esta Seremi:
 
 a) Ficha de presentación de la copropiedad.
 
-b) Carta de Adhesión Vecinal, que representen a lo menos 60% de las unidades de la copropiedad postulante.
+b) Ficha Diagnóstico de Deterioro Físico y Urbano, acogerse a los resuelvos 21 y 22 del llamado.
 
-c) Ficha Diagnóstico de Deterioro Físico y Urbano, acogerse a los resuelvos 21 y 22 del llamado.
+c) Ficha Diagnóstico Socio Jurídico.
 
-d) Ficha Diagnóstico Socio Jurídico.
-
-e) Copia Autorizada de la Inscripción del Reglamento de Conservador de Bienes Raíces.
+d) Copia Autorizada de la Inscripción del Reglamento de Conservador de Bienes Raíces.
 
 5. La presente resolución exenta no irroga gastos al Presupuesto vigente de esta Secretaría Regional Ministerial de Vivienda y Urbanismo Región del Libertador Bernardo O'Higgins.
 
