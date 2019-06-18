@@ -1,4 +1,4 @@
-APRUEBA REGLAMENTO DEL SUBDEPARTAMENTO DE BIENESTAR DEL SERVICIO AGRICOLA Y GANADERO
+APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DEL SERVICIO AGRICOLA Y GANADERO
 
 Núm. 81.- Santiago, 12 de septiembre de 1997.- Vistos: Lo dispuesto en artículo 134 de la Ley Nº 11.764; artículo 24 de la Ley 16.395; el artículo único de la Ley 17.538; el artículo 4º transitorio de la Ley Nº 19.147; el Decreto Supremo Nº 28, de 27 de enero de 1994, del Ministerio del Trabajo y Previsión Social, y la facultad que me confiere el artículo 32, Nº 8 de la Constitución Política de la República de Chile;
 
@@ -6,7 +6,7 @@ D e c r e t o:
 
 1.- Derógase el Reglamento del Departamento de Bienestar del Servicio Agrícola y Ganadero, aprobado por el D.S. Nº 253, del 31 de octubre de 1969, y sus modificaciones posteriores, del Ministerio del Trabajo y Previsión Social.
 
-2.- Apruébase el siguiente Reglamento para el Subdepartamento de Bienestar del Servicio Agrícola y Ganadero.
+2.- Apruébase el siguiente Reglamento para el Servicio de Bienestar del Servicio Agrícola y Ganadero.
 
 T I T U L O I
 
@@ -14,7 +14,7 @@ De la Naturaleza Jurídica
 
 #### Artículo 1º
 
-El Subdepartamento de Bienestar del Servicio Agrícola y Ganadero, en adelante el Servicio Bienestar, tendrá por objeto proporcionar atención asistencial, médica, social, cultural y económica a los afiliados y a sus cargas familiares. Dentro de esta labor, propenderá al mejoramiento de las condiciones de vida y trabajo de los empleados, proporcionándoles la ayuda, subsidios, préstamos y, en general, las mayores ventajas posibles en la medida que se lo permitan sus recursos económicos, de acuerdo con las normas que se establecen en el presente Reglamento.
+El Servicio de Bienestar del Servicio Agrícola y Ganadero, tendrá por objeto proporcionar atención asistencial, médica, social, cultural y económica a los afiliados y a sus cargas familiares. Dentro de esta labor, propenderá al mejoramiento de las condiciones de vida y trabajo de los empleados, proporcionándoles la ayuda, subsidios, préstamos y, en general, las mayores ventajas posibles en la medida que se lo permitan sus recursos económicos, de acuerdo con las normas que se establecen en el presente Reglamento.
 
 El Servicio de Bienestar se regirá por el artículo 134 de la Ley Nº 11.764, la Ley Nº 17.538, el artículo 24 de la Ley Nº 16.395, el Decreto Supremo Nº 28, de 1994, del Ministerio del Trabajo y Previsión Social, en adelante el Reglamento General y por el presente Reglamento.
 
@@ -24,7 +24,7 @@ De la Afiliación y Desafiliación
 
 #### Artículo 2º
 
-Para ingresar al Servicio de Bienestar, será necesario tener la calidad de empleado de planta o a contrata, o haber jubilado teniendo alguna de dichas calidades del Servicio Agrícola y Ganadero, en adelante SAG, de la Subsecretaría de Agricultura, en adelante la Subsecretaría, o de la Oficina de Estudios y Políticas Agrarias, en adelante Odepa.
+Para ingresar al Servicio de Bienestar, será necesario ser funcionario público, o haber jubilado teniendo esa calidad, del Servicio Agrícola y Ganadero, de la Subsecretaría de Agricultura y de la Oficina de Estudios y Políticas Agrarias.
 
 T I T U L O III
 
@@ -32,7 +32,7 @@ De la Administración
 
 #### Artículo 3º
 
-La Administración superior, orientación y vigilancia del Servicio de Bienestar le corresponderá a un Consejo Administrativo integrado por:
+El Consejo Administrativo tendrá la administración superior del Servicio de Bienestar y su función será su orientación y vigilancia. Estará integrado por:
 
 a) El Director Nacional del SAG, o la persona que éste designe, quien lo presidirá;
 
@@ -42,7 +42,7 @@ c) El Director Nacional de Odepa;
 
 d) Un funcionario de la Subsecretaría de Agricultura designado por el Sr. Ministro de Agricultura, y;
 
-e) Cuatro representantes de los afiliados tomando en consideración a éstos como una totalidad y designándose uno de ellos de acuerdo a lo dispuesto en el inciso 3º del artículo 18 del Reglamento General.
+e) Cuatro representantes de los afiliados y designándose uno de ellos de acuerdo a lo dispuesto en el inciso 3 del artículo 18° del Reglamento General.
 
 #### Artículo 4º
 
@@ -100,7 +100,7 @@ El afiliado podrá solicitar para sí y sus cargas familiares la totalidad de lo
 
 #### Artículo 10º
 
-El Servicio de Bienestar bonificará a los afiliados y sus cargas familiares la prestación de los siguientes beneficios de carácter médico, en la medida que sus recursos presupuestarios lo permitan:
+El Servicio de Bienestar podrá bonificar a los afiliados y sus cargas familiares con cargo a sus recursos o a través de la contratación de seguros, la prestación de los siguientes beneficios de carácter médico, en la medida que sus recursos presupuestarios lo permitan:
 
 a) Consultas Médicas, consultas médicas domiciliarias, interconsultas y juntas médicas;
 
@@ -134,15 +134,19 @@ n) Atenciones obstétricas;
 
 o) Insumos necesarios para el otorgamiento de las prestaciones de las letras b), d), g), h), i), j) y m) precedentes.
 
+Para otorgar los beneficios o bonificaciones, el Servicio, dependiendo de su capacidad presupuestaria, podrá contratar Seguros de vida, seguros suplementarios o complementarios de salud y/o de cobertura dental, a través de compañías de seguros, y además podrá incluir seguros que cubran enfermedades de alto costo.
+
+De acuerdo a la disponibilidad presupuestaria, el Consejo Administrativo determinará anualmente el monto máximo de bonificación para prestaciones de salud por afiliado y los valores referenciales aplicables.
+
 #### Artículo 11º
 
-El Servicio de Bienestar, de acuerdo a sus disponibilidades presupuestarias podrá otorgar los siguientes subsidios, por los siguientes conceptos:
+El Servicio de Bienestar, de acuerdo a sus disponibilidades presupuestarias podrá otorgar los siguientes beneficios, por los siguientes conceptos:
 
-a) Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo del afiliado. Si ambos padres estuvieren afiliados al Servicio de Bienestar, se otorgará esta ayuda a cada uno de ellos;
+a) Nacimiento o Adopción: Se concederá una ayuda por el nacimiento o adopción legal de cada hijo del afiliado. Si ambos padres estuviesen afiliados al Servicio de Bienestar, se otorgará esta ayuda a cada uno de ellos;
 
 b) Matrimonio: Se concederá por el matrimonio del afiliado. Si ambos contrayentes fueren afiliados, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
 
-c) Escolaridad: Se concederá esta ayuda a los afiliados y cargas familiares que se encuentren cursando estudios regulares en los niveles de básico, medio, técnico o de educación superior en algún establecimiento del Estado o reconocido por éste. En los casos de educación técnica o superior se considerará un mínimo de cuatro semestres de duración;
+c) Escolaridad: Se concederá esta ayuda a los afiliados y cargas familiares que se encuentren cursando estudios regulares en los niveles de Pre-Kínder, Kínder, Básico, Medio, Técnico o de Educación Superior en algún establecimiento del Estado o reconocido por éste. En los casos de educación técnica o superior se considerará un mínimo de cuatro semestres de duración. Las asignaciones de escolaridad podrán concederse una vez al año;
 
 d) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar. En estos dos últimos casos si ambos padres fueren afiliados, sólo uno podrá solicitar esta ayuda. En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
@@ -162,7 +166,11 @@ de Bienestar, para tales efectos por el afiliado;
 
 del funeral.
 
-Para tener derecho a percibir las ayudas indicadas en las letras a), b), c) y d) se requerirá una afiliación mínima de 4 meses.
+e) Acuerdo de Unión Civil: Se concederá una ayuda a los afiliados que celebren el Acuerdo de Unión Civil. Si ambos estuvieran afiliados al Servicio, cada uno de ellos tendrá derecho a este beneficio
+
+Para acceder a los beneficios que entrega el Servicio de Bienestar, se requiere una antigüedad mínima de afiliación de 4 meses.
+
+Los montos de los beneficios otorgados por este Servicio serán determinados cada año por el Consejo Administrativo de Bienestar
 
 #### Artículo 12º
 
@@ -172,7 +180,7 @@ a) Préstamos Asistenciales: Se otorgarán con la finalidad de complementar el p
 
 b) Préstamos de Emergencia: Se otorgarán con la finalidad de cubrir necesidades socioeconómicas apremiantes, o por otra causa justificada.
 
-c) Préstamos Habitacionales: Se otorgarán con la finalidad de ahorro para adquirir vivienda, sitio o terreno; para la construcción, ampliación o reparación de la vivienda y urbanización de las mismas.
+c) Préstamos Habitacionales: Se otorgarán únicamente con la finalidad de ahorro para adquirir vivienda, sitio o terreno; para la construcción, ampliación o reparación de la vivienda y urbanización de las mismas.
 
 Este beneficio podrá complementarse con la transferencia a título gratuito de especies o materiales de construcción que Bienestar reciba o adquiera.
 
@@ -186,21 +194,29 @@ Las referidas cuotas serán descontadas a partir del mes siguiente al del otorga
 
 Los préstamos a que se refiere este artículo devengarán los intereses y reajustes que serán determinados anualmente por el Consejo Administrativo de conformidad a las disposiciones contenidas en la Ley Nº 18.010.
 
-Para conceder un préstamo será requisito indispensable la constitución de la garantía de codeudores solidarios que sean funcionarios de planta o a contrata de la Institución y afiliados al Servicio de Bienestar y de otras garantías que determine el Consejo Administrativo.
+Para conceder un préstamo será requisito indispensable la constitución de una garantía, consistente en establecer dos codeudores solidarios que sean funcionarios de la Institución y afiliados al Servicio de Bienestar.
 
 Los préstamos indicados en el presente artículo se concederán de inmediato, una vez aprobada la solicitud de afiliación respectiva.
 
+En caso de verificarse morosidad en el pago de los créditos, y de conformidad a lo establecido en las condiciones señaladas en el Formulario de Solicitud de Crédito y/o contrato respectivo, el Servicio de Bienestar seguirá el siguiente procedimiento para practicar la cobranza de las deudas:
+
+1.- El Jefe del Servicio de Bienestar, una vez constatado el incumplimiento de una o más cuotas de pago, iniciará el procedimiento de cobranza de los préstamos, desde el mes subsiguiente a aquel en que el afiliado debió enterar la cuota correspondiente. La cobranza se notificará mediante carta dirigida al deudor principal, con copia a los codeudores solidarios, estableciendo en ella el plazo para efectuar el pago de la deuda. Dicha carta y su copia deberán ser remitidas a sus domicilios particulares. Las notificaciones por carta certificada se entenderán practicadas a contar del tercer día hábil siguiente a su recepción en la oficina de correos que corresponda.
+
+2.- En caso que el titular de la deuda no efectúe el pago solicitado dentro de los 30 días corridos siguientes a la notificación de la carta de cobranza, el Servicio de Bienestar estará facultado para proceder a ejecutar el descuento de las cuotas adeudadas de las liquidaciones de remuneraciones de los codeudores solidarios, a partir del mes siguiente. La proporción de dichos descuentos será la que se haya establecido en las condiciones del crédito en el Formulario de Solicitud y/o contrato, que en ningún caso podrá exceder los límites legales.
+
+El Jefe del Servicio de Bienestar deberá informar periódicamente al Consejo Administrativo respecto de los préstamos que se encuentren morosos.
+
 #### Artículo 13º
 
-El Servicio de Bienestar propenderá al desarrollo social, cultural y deportivo - recreativo de los afiliados. Para este fin podrá administrar y subvencionar, en la medida que sus medios económicos lo permitan, actividades sociales, vacacionales, recreativas, culturales, educacionales, artísticas y deportivas destinadas a proporcionar mejores condiciones de vida a sus afiliados y familiares. Asimismo podrá administrar Cabañas, Casas de Huéspedes, Economatos, Clínicas Dentales y Policlínicos en que presten atención los profesionales y auxiliares que se estime conveniente y con los cuales se celebren convenios de acuerdo a normas que establezca el Consejo Administrativo, y de acuerdo a disponibilidades presupuestarias. Asimismo, el Servicio de Bienestar podrá celebrar convenios de tipo asistencial, comercial, social, con Compañías de Seguros, Instituciones de Salud, y otros que permitan satisfacer necesidades de sus afiliados. Además el Servicio de Bienestar podrá financiar con cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias, y contratar seguros de vida para sus afiliados, seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
+El Servicio de Bienestar propenderá al desarrollo social, cultural y deportivo-recreativo de los afiliados. Para este fin podrá administrar y subvencionar, en la medida que sus medios económicos lo permitan, actividades sociales, vacacionales, recreativas, culturales, educacionales, artísticas y deportivas destinadas a proporcionar mejores condiciones de vida a sus afiliados y sus familias. En virtud de ello y siempre que los recursos presupuestarios lo permitan, podrá otorgar a sus afiliados y afiliadas regalos con ocasión de la celebración de fiestas patrias, celebración de año nuevo, día de la secretaria, día del padre, día de la madre, día del niño, día internacional de la mujer y aniversario de la institución, celebrar y financiar un evento con motivo de Navidad para los afiliados y sus cargas familiares, otorgar becas de estudio para sus afiliados y/o sus cargas legales, entre otras prestaciones de carácter universal.
 
 #### Artículo 14º
 
-Los afiliados no podrán adquirir compromisos en el Servicio de Bienestar que le signifiquen descuentos superiores al 50% de su remuneración mensual imponible para pensiones o de su pensión de jubilación, según corresponda. Se exceptúan de esta norma los préstamos asistenciales y de emergencia referidos en el artículo 12 letras a) y b) respectivamente.
+El Servicio de Bienestar podrá administrar centros vacacionales, cabañas y casas de huéspedes, y otras dependencias que sean de propiedad del Servicio Agrícola y Ganadero, cuya administración le sea entregada. Asimismo, el Servicio de Bienestar podrá celebrar convenios de tipo asistencial, comercial, social, con compañías de seguros, instituciones de salud y otros que permitan satisfacer necesidades de sus afiliados y sus cargas familiares.
 
 #### Artículo 15º
 
-El Servicio de Bienestar podrá celebrar y financiar la Navidad para los afiliados y sus cargas familiares siempre que sus recursos presupuestarios lo permitan.
+Los afiliados no podrán adquirir compromisos en el Servicio de Bienestar que signifiquen descuentos superiores al 15% de su remuneración mensual imponible para pensiones o de su pensión de jubilación, según corresponda. Se exceptúa de esta norma el aporte al Servicio de Bienestar.
 
 T I T U L O VI
 
