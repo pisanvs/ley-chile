@@ -168,47 +168,47 @@ Tanto la forma, como el contenido específico y los procedimientos destinados al
 
 Los Factores de Calificación
 
-#### Artículo 14°
+#### Artículo 14º
 
 La evaluación del desempeño de los/as funcionarios/as del Instituto de Previsión Social se realizará ponderando para el funcionario sujeto de la evaluación cada uno de los factores y subfactores que se indican, por medio de notas que tendrán los siguientes valores, indicadores y conceptos:
 
 Factor 1: Cumplimiento de Metas Individuales
 
-Se refiere al nivel e integridad en el cumplimiento de los compromisos de desempeño individual que el/la funcionario/a asumió en el Formulario de Cumplimiento de Meta Individual, determinados en conformidad con los Párrafos 2° y 3° precedentes.
+Se refiere al nivel e integridad en el cumplimiento de los compromisos de desempeño individual que el/la funcionario/a asumió en el Formulario de Cumplimiento de Meta Individual, determinados en conformidad con los Párrafos 2º y 3º precedentes.
 
 Lo anterior, con el guarismo, concepto y descripción que se indica a continuación:
 
 La determinación del puntaje del Factor 1 Cumplimiento de Metas Individuales, se obtendrá del promedio simple de las notas asignadas a la meta o metas comprometidas con el/la funcionario/a, multiplicada por el coeficiente 10.
 
-Este factor tiene asignado un valor de un 50% del total del puntaje final asignado al funcionario/a.
+Este factor tiene asignado un valor de un 30% del total del puntaje final asignado al funcionario/a.
 
 Factor 2: Características y Habilidades Personales
 
 Este factor mide aquellas habilidades personales funcionarias que contribuyen tanto al logro de las metas individuales como al logro de los objetivos estratégicos del equipo de trabajo y del Servicio.
 
-El Factor 2: Características y Habilidades Personales se evaluará en una escala de 1 a 4, por los siguientes subfactores, a través de las notas y conceptos que se describen a continuación:
+El Factor 2: Características y Habilidades Personales, se evaluará en una escala de 4 a 7, por los siguientes subfactores, a través de las notas y conceptos que se describen a continuación:
 
 La determinación del puntaje final del Factor 2: Características y Habilidades Personales, se obtendrá de la suma de cada uno de los resultados que deriven de multiplicar la nota asignada a cada subfactor por el coeficiente fijado a cada una de las siguientes agrupaciones de familias de cargos:
 
-- Jefaturas: Incorpora cargos Directivos (cargos de Director/a Nacional, Subdirector/a, Jefe/a de División y Director/a Regional), Jefaturas de Departamento, Jefaturas de Subdepartamento, Jefaturas Centro de Atención Previsional Integral y Jefaturas de Unidad, entre otros.
+. Jefaturas/Supervisores(as): Incorpora cargos Directivos (cargos de Director/a Nacional, Subdirector/a, Jefe/a de División y Director/a Regional), Jefaturas de Departamento, Jefaturas de Subdepartamento, Jefaturas Centro de Atención Previsional Integral, Jefaturas de Unidad y Supervisores(as), entre otros.
 
-- Supervisores(as)/Coordinadores(as): Incorpora cargos de Supervisores/as que tienen como labor principal verificar el cumplimiento de tareas y/o requisitos en el desempeño de la función de otros; y Coordinadores/as propiamente tales, cargos que tienen como labor principal la coordinación de personas o equipos de manera permanente, sin tener necesariamente una relación jerárquica con el equipo coordinado. Toman decisiones sobre aspectos operativos y de ejecución de las tareas diarias.
+. Coordinadores(as): Incorpora cargos que tienen como labor principal la coordinación de personas o equipos de trabajo en forma permanente, sin tener necesariamente una relación jerárquica con el equipo coordinado. Toman decisiones sobre aspectos operativos y de ejecución de las tareas diarias.
 
-- Analistas: Incorpora cargos que tienen como labor principal recoger datos, analizar y generar información, propuestas y alternativas de solución o mejora, sobre tareas complejas, no predecibles, donde no existen procedimientos mecánicos (estándar) de solución.
+. Analistas: Incorpora cargos que tienen como labor principal recoger datos, analizar y generar información, propuestas y alternativas de solución o mejora, sobre tareas complejas, no predecibles, donde no existen procedimientos mecánicos (estándar) de solución.
 
-- Ejecutivos/as de Atención: Incorpora cargos que tienen como labor principal la atención directa y permanente de clientes externos. Respaldan datos e información requerida sólo para su puesto de trabajo.
+. Ejecutivos/as de Atención: Incorpora cargos que tienen como labor principal la atención directa y permanente de clientes externos. Respaldan datos e información requerida sólo para su puesto de trabajo.
 
-- Asistentes: Incorpora cargos que tienen como labor principal respaldar, administrar y actualizar información generada por otros. Realizan tareas repetitivas y de baja complejidad, en las cuales existen procedimientos establecidos y conocidos (protocolos y/o instructivos).
+. Asistentes: Incorpora cargos que tienen como labor principal respaldar, administrar y actualizar información generada por otros. Realizan tareas repetitivas y de baja complejidad, en las cuales existen procedimientos establecidos y conocidos (protocolos y/o instructivos).
 
-- Auxiliares: Incorpora cargos que tienen como labor principal prestar apoyo en actividades de mantención y traslado de distintos bienes y prestación de servicios.
+. Auxiliares: Incorpora cargos que tienen como labor principal prestar apoyo en actividades de mantención y traslado de distintos bienes y prestación de servicios.
 
-Los coeficientes por los que deberá multiplicarse la nota asignada a cada subfactor del Factor 2: Características y Habilidades Personales para obtener el respectivo puntaje, serán los siguientes:
+Los coeficientes por los que deberá multiplicarse la nota asignada a cada subfactor del Factor 2: Características y Habilidades Personales, para obtener el respectivo puntaje, serán los siguientes:
 
-El Factor 2: Características y Habilidades Personales, tiene establecido un valor de 50% del total del puntaje final asignado al/la funcionario/a.
+El Factor 2: Características y Habilidades Personales, tiene establecido un valor de 70% del total del puntaje final asignado al/la funcionario/a.
 
 #### Artículo 15°
 
-El puntaje final que determinará la lista de asignación del/la funcionario/a, se obtendrá de la sumatoria del puntaje final del Factor 1 Cumplimiento de Metas Individuales multiplicado por 0,5 y del puntaje final del Factor 2 Características y Habilidades Personales multiplicado por 0,5, de acuerdo a la ponderación de cada uno de los subfactores de acuerdo con el artículo anterior.
+El puntaje final que determinará la lista de asignación del/la funcionario/a, se obtendrá de la sumatoria del puntaje final del Factor 1: Cumplimiento de Metas Individuales, multiplicado por 0,3 y del puntaje final del Factor 2: Características y Habilidades Personales, multiplicado por 0,7, de acuerdo a la ponderación de cada uno de los subfactores de acuerdo con el artículo anterior.
 
 #### Artículo 16°
 
@@ -295,8 +295,6 @@ DISPOSICIONES TRANSITORIAS
 El primer período de calificación que se efectúe conforme al presente Reglamento, se iniciará el 1° de septiembre del respectivo año, para concluir el 31 de marzo del año subsiguiente, debiendo emitirse un informe adicional de Autoevaluación e Informe de Desempeño por el período comprendido entre el 1° de septiembre del año en que entre en vigencia el presente Reglamento y el 31 de marzo del año siguiente.
 
 En el primer período de calificación, el Cumplimiento de Meta Individual a que alude el artículo 9°, deberá ser suscrito durante el mes de septiembre del año en que entre en vigencia el presente Reglamento y contemplar un período de cumplimiento que debe extenderse hasta el 31 de marzo del año subsiguiente.
-
-El valor o peso establecido del informe de calificación, sólo para el primer y segundo período de calificación, estará basado en un 30% para Factor 1: Cumplimiento de Metas Individuales y de un 70% para el Factor 2: Características y Habilidades Personales.
 
 #### Artículo segundo
 
