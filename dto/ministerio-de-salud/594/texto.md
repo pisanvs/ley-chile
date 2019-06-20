@@ -216,7 +216,11 @@ Cuando la naturaleza del trabajo implique contacto con sustancias tóxicas o cau
 
 #### Artículo 22
 
-En los lugares de trabajo donde laboren hombres y mujeres deberán existir servicios higiénicos independientes y separados. Será responsabilidad del empleador mantenerlos protegidos del ingreso de vectores de interés sanitario, y del buen estado de funcionamiento y limpieza de sus artefactos.
+En los lugares de trabajo donde laboren hombres y mujeres deberán existir servicios higiénicos independientes y separados.
+
+Será responsabilidad del empleador mantener el o los servicios higiénicos protegidos del ingreso de vectores de interés sanitario. Asimismo, deberá asegurar su buen estado de funcionamiento y limpieza de sus artefactos, así como disponer, en su interior, de jabón líquido para la limpieza de manos, de sistemas higiénicos desechables para el secado de manos y papel higiénico en cantidad suficiente. Los servicios higiénicos deberán contar con un sistema de ventilación natural o artificial.
+
+Sin perjuicio de lo dispuesto en el inciso primero, cuando el número total de trabajadores y trabajadoras sea de diez o menos, el empleador podrá habilitar un servicio higiénico de uso universal para hombres y mujeres, el que deberá contar con cierre interior y cumplir con las exigencias dispuestas en el inciso precedente.
 
 #### Artículo 23
 
