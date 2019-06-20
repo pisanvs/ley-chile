@@ -1,0 +1,9 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 1.048 del 18 de abril de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Universidad de Atacama, autónoma, RUT N° 71.236.700-8, con domicilio en Avenida Copayapu 485, Copiapó, para incorporar a las especies ya autorizadas el recurso hidrobiológico Trucha Arcoiris (Oncorhynchus Mikiss), requerida mediante solicitud 216032008, del 14 de diciembre de 2016, en la concesión de acuicultura de terreno de playa, otorgada por resolución 1.589, del 14 de octubre de 2002, del Ministerio de Defensa Nacional, Subsecretaría de Marina, modificada por resolución exenta 2.779, del 4 de abril de 2012, inscrita en el Registro de Concesiones de Acuicultura de la Subsecretaría de Pesca y Acuicultura a nombre de su actual titular, bajo el N° 1.477, del 14 de diciembre de 2015, rectificada por resolución exenta 2.008, del 8 de abril de 2016, modificada por resolución 3.177, del 5 de diciembre de 2016, ambas del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas, ubicada en Bahía Inglesa, al Sureste de Punta Fernández, comuna de Caldera, provincia de Copiapó, Región de Atacama.
+
+2.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 2.428, del 4 de diciembre de 2001, del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificada por resolución exenta 323, del 3 de febrero de 2012, por resolución exenta 2.646, del 26 de agosto de 2016 y por resolución exenta 4.230, del 14 de diciembre de 2017, todas del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura.
+
+Santiago, 10 de mayo de 2019.- Por orden del Subsecretario para las Fuerzas Armadas, Cristián García-Huidobro C., Jefe División Jurídica.
