@@ -46,6 +46,10 @@ Vistos:
 
 21. Lo dispuesto en la resolución Nº 1.600 de 2008, de la Contraloría General de la República.
 
+a. La resolución exenta Nº 734, de fecha 15 de marzo de 2019, del Ministerio de Vivienda y Urbanismo, que llama a postulación para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su modalidad regulada por el Capítulo II, de la atención a Condominios de Viviendas Sociales para las regiones que allí se indican, para proyectos calificados por Serviu, entre marzo y diciembre de 2018, particularmente el resuelvo 14, último párrafo;
+
+b. La resolución exenta Nº 3.751, de fecha 31 de diciembre de 2018, y sus modificaciones, de la Seremi Región Metropolitana que dispone asignación de recursos para la Región Metropolitana, que se destinarán al financiamiento de subsidios para el desarrollo de proyectos del Programa del Patrimonio Familiar en su modalidad regulada por el Capítulo Segundo de la atención a Condominios de Vivienda Social.
+
 Considerando:
 
 1. Que Serviu Región Metropolitana calificó favorablemente todas las factibilidades de 186 proyectos ingresados para la postulación del año 2018;
@@ -76,7 +80,7 @@ Debe decir:
 
 3. Compleméntanse las nóminas de postulantes seleccionados de acuerdo al resuelvo 1., de la resolución exenta Nº 3.751 (V. y U.) de 31 de diciembre de 2018, para el otorgamiento de subsidios habitacionales correspondientes al mes de octubre de 2018, en concordancia con lo dispuesto en el resuelvo 1. de la presente resolución. Estas nóminas se adjuntan y se entenderán forman parte de la presente resolución.
 
-4. Modifícase en lo pertinente la nómina de postulantes seleccionados de acuerdo al resuelvo 1., de la resolución exenta Nº 3.751 (V. y U.) de 31 de diciembre de 2018, para el otorgamiento de subsidios habitacionales correspondientes al mes de octubre de 2017, en concordancia con lo dispuesto en el resuelvo 2. de la presente Resolución. Esta nómina se adjunta y se entenderá forma parte de la presente Resolución.
+4. Modifícase en lo pertinente la nómina de postulantes seleccionados de acuerdo al Resuelvo 1., de la resolución exenta Nº 3.751 (V. y U.), de 31 de diciembre de 2018, para el otorgamiento de subsidios habitacionales correspondientes al mes de octubre de 2018, en concordancia con lo dispuesto en el Resuelvo 2. de la presente resolución. Esta nómina se adjunta y se entenderá forma parte de la presente resolución.
 
 5. Compleméntase el número de postulantes seleccionados en la Región Metropolitana de acuerdo al resuelvo 4., de la resolución exenta Nº 3.751 (V. y U.) de 31 de diciembre de 2018, según se indica en la tabla que a continuación se inserta:
 
@@ -92,7 +96,7 @@ Postulación Comunidad de Copropietarios
 
 .
 
-7. Impútese el total de 26.288,00 unidades de fomento asignadas por la presente resolución, a los recursos autorizados a la Región Metropolitana a través de circular Nº 1, de la Subsecretaría (V. y U.), del 22 de enero de 2019, que fija programa habitacional correspondiente al año 2019, entre ellos, el Programa de Protección del Patrimonio Familiar del año 2018 dispuesto para la atención de Condominios Sociales.
+7. a. Impútese el total de 26.546,00 Unidades de Fomento asignadas por la presente resolución, a los recursos autorizados a la Región Metropolitana a través de circular Nº 01 y sus modificaciones, de la Subsecretaría (V. y U.), del 22 de enero de 2019, que fija programa habitacional correspondiente al año 2019, entre ellos, el Programa de Protección del Patrimonio Familiar del año 2019 dispuesto para la atención de Condominios Sociales y la resolución exenta Nº 734, de fecha 15 de marzo de 2019, del Ministerio de Vivienda y Urbanismo, que llama a postulación para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su modalidad regulada por el Capítulo II, de la atención a Condominios de Viviendas Sociales para las regiones que allí se indican, para proyectos calificados por Serviu, entre marzo y diciembre de 2018.
 
 8. Establécese que la resolución exenta Nº 3.751 (V. y U.) de 31 de diciembre de 2018, de esta Secretaría Ministerial, se mantendrá vigente en todo lo que no ha sido modificado por la presente resolución.
 
