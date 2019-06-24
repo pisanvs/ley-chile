@@ -44,12 +44,6 @@ lineatella (Lep.: Gelechiidae).
 
 . El envío ha sido sometido a un tratamiento
 
-fitosanitario para el control de Drosophila
-
-suzukii (Dip.: Drosophilidae).
-
-. El envío ha sido sometido a un tratamiento
-
 fitosanitario para el control de Epiphyas
 
 postvittana (Lep.: Tortricidae), en el caso que
@@ -102,12 +96,6 @@ lineatella (Lep.: Gelechiidae).
 
 . El envío ha sido sometido a un tratamiento
 
-fitosanitario para el control de Drosophila
-
-suzukii (Dip.: Drosophilidae).
-
-. El envío ha sido sometido a un tratamiento
-
 fitosanitario para el control de Epiphyas
 
 postvittana (Lep.: Tortricidae), en el caso que
@@ -124,13 +112,19 @@ permite que sea sometido a un tratamiento de
 
 fumigación con bromuro de metilo en Chile.
 
-3. Para frutos frescos para consumo de carozos, objeto de la presente resolución, se aceptará cualquiera de los siguientes tratamientos de acuerdo a las plagas señaladas a continuación. Las especificaciones del tratamiento realizado deberán estar indicadas en la sección correspondiente del Certificado Fitosanitario:
+3. Para frutos frescos de durazno, nectarín, ciruela japonesa, ciruela europea, damasco y cereza se aceptará el siguiente tratamiento de fumigación con bromuro de metilo para Epiphyas postvittana (Lep.: Tortricidae), el que deberá ser realizado en origen o en destino. Las especificaciones del tratamiento realizado deberán estar indicadas en la sección correspondiente del Certificado Fitosanitario:
 
-3.1 Para frutos frescos de durazno, nectarín, ciruela japonesa, ciruela europea, damasco y cereza se aceptará el siguiente tratamiento de fumigación con bromuro de metilo para Drosophila suzukii (Dip.: Drosophilidae) y Epiphyas postvittana (Lep.: Tortricidae), el que deberá ser realizado en origen o en destino.
+Temperatura (ºC) Rango de dosis (gr/m3) Tiempo de exposición (hr)
 
-3.2 Para frutos frescos de durazno, nectarín, ciruela japonesa y ciruela europea se aceptará el siguiente tratamiento de frío para Drosophila suzukii (Dip.: Drosophilidae), el que deberá ser realizado en tránsito o en origen según el siguiente esquema:
+> 22 32 2
 
-3.3 Finalizado el tratamiento, debe asegurarse que el envío mantenga el resguardo de posibles reinfestaciones en todo momento hasta su despacho a Chile.
+17 - 22 40 2
+
+12 - 17 48 2
+
+6 - 12 64 2
+
+Finalizado el tratamiento, debe asegurarse que el envío mantenga el resguardo de posibles reinfestaciones en todo momento hasta su despacho a Chile.
 
 4. Los envíos de durazno, nectarín, ciruela japonesa, ciruela europea y damasco deberán provenir de predios registrados y verificados oficialmente, que cumplen con el programa de control de Anarsia lineatella. Además, deberán provenir de empacadoras previamente registradas por USDA/APHIS.
 
