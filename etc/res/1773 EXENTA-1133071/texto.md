@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 1.773, de 4 de junio de 2019, de esta Secretaría Regional, se otorgó reconocimiento oficial a la escuela de conductores profesionales o clase A, denominada Organismo Técnico de Capacitación y Escuela de Conductores Profesionales Sencap Sociedad de Responsabilidad Limitada, representada legalmente por don Mario Mateluna Vergara, para impartir los cursos conducentes a la obtención de las licencias de conductor profesional clases A3. La Escuela de Conductores estará ubicada en calle Condell N° 1190, piso 9, oficina 93, comuna de Valparaíso; su taller mecánico estará ubicado en pasaje Don Bosco N° 88, comuna de Valparaíso, y su estacionamiento y circuito privado estarán ubicados en calle Segunda del Sur N° 215, Placilla de Peñuelas, Valparaíso.-
+
+José Emilio Guzmán Cepeda, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
