@@ -1146,13 +1146,15 @@ Internacional y todo tipo de
 
 El Tepual operaciones aduaneras.
 
-5. Aeródromo Permanente Paso de personas
+5. Paso Permanente Paso de personas y
 
-Balmaceda y todo tipo de
+Internacional todo tipo de operaciones
 
-operaciones
+Vicente aduaneras.
 
-aduaneras
+Pérez
+
+Rosales
 
 6.Paso Vuriloche Temporal Paso de personas y
 
