@@ -1,0 +1,9 @@
+ESTABLECE NÓMINA DE ESPECIES OBJETIVO Y SU FAUNA ACOMPAÑANTE SOMETIDAS A LOS ARTÍCULOS 7ºA, 7ºB Y 7ºC DE LA LEY GENERAL DE PESCA Y ACUICULTURA PARA PESQUERÍA ARTESANAL E INDUSTRIAL DE SARDINA COMÚN Y ANCHOVETA, AÑO 2019
+
+Por resolución exenta Nº 2.186, de 19 de junio de 2019, de esta Subsecretaría, establécese la nómina de especies objetivo y de fauna acompañante para la pesquería industrial y artesanal de Sardina común y Anchoveta en sus unidades de pesquería, comprendidas en el área marítima de la Región de Valparaíso a la Región de Los Lagos, que se encuentran sometidas a un Plan de Reducción del Descarte y la Captura de Pesca Incidental autorizado mediante resolución exenta Nº 2.463 de 2017, de conformidad con los artículos 7ºA.-, 7ºB.- y 7ºC.- de la Ley General de Pesca y Acuicultura, año 2019.
+
+Para los efectos antes señalados la nómina se divide en cuatro categorías de especies objetivo (Tabla 1); fauna acompañante sujeta a cuotas globales anuales de captura (CGA); Licencia Transable de Pesca (LTP); Régimen Artesanal de Extracción (RAE); Cuota Regional (CR); Cuota Fuera de la Unidad de Pesquería (FUP) o Veda (V), según corresponda, para la flota industrial (Ind) y artesanal (Art) (Tabla 2); fauna acompañante no administrada bajo cuotas globales anuales de captura (Tabla 3) y pesca incidental (Tabla 4), distinguiendo en cada tabla las especies que tienen prohibición de descarte y especies cuya devolución es obligatoria, según se detallan en la resolución extractada.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 19 de junio de 2019.- Eduardo Riquelme Portilla, Subsecretario de Pesca y Acuicultura.
