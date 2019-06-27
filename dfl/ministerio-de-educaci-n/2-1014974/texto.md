@@ -56,7 +56,7 @@ i) Flexibilidad. El sistema debe permitir la adecuación del proceso a la divers
 
 j) Transparencia. La información desagregada del conjunto del sistema educativo, incluyendo los ingresos y gastos y los resultados académicos, debe estar a disposición de los ciudadanos, a nivel de establecimiento, comuna, provincia, región y país.
 
-k) Integración e inclusión. El sistema propenderá a eliminar todas las formas de discriminación arbitraria que impidan el aprendizaje y la participación de los y las estudiantes.
+k) Integración e inclusión. El sistema propenderá a eliminar todas las formas de discriminación arbitraria que impidan el aprendizaje y la participación de los y las estudiantes, y posibilitará la integración de quienes tengan necesidades educativas especiales.
 
 Asimismo, el sistema propiciará que los establecimientos educativos sean un lugar de encuentro entre los y las estudiantes de distintas condiciones socioeconómicas, culturales, étnicas, de género, de nacionalidad o de religión.
 
@@ -175,6 +175,12 @@ Del mismo modo, durante la vigencia del respectivo año escolar o académico, no
 El no pago de los compromisos contraídos por el alumno o por el padre o apoderado no podrá servir de fundamento para la aplicación de ningún tipo de sanción a los alumnos durante el año escolar y nunca podrá servir de fundamento para la retención de su documentación académica, sin perjuicio del ejercicio de otros derechos por parte del sostenedor o de la institución educacional, en particular, los referidos al cobro de arancel o matrícula, o ambos, que el padre o apoderado hubiere comprometido.
 
 En los establecimientos reconocidos oficialmente por el Estado, el rendimiento escolar del alumno, no será obstáculo para la renovación de su matrícula.
+
+En ningún caso se podrá condicionar la incorporación, la asistencia y la permanencia de los y las estudiantes a que consuman algún tipo de medicamento para tratar trastornos de conducta, tales como el trastorno por déficit atencional e hiperactividad. El establecimiento deberá otorgar todos los apoyos necesarios para asegurar la plena inclusión de los y las estudiantes.
+
+Los establecimientos propiciarán iniciativas de apoyo biopsicosociales y de atención diferenciada, tanto en las actividades curriculares como extracurriculares, facilitando ambientes de aprendizaje que permitan atender las necesidades educativas especiales y, de este modo, promover el desarrollo de habilidades emocionales y sociales. Estas habilidades pueden ser introducidas, entre otras disciplinas o metodologías, por medio de prácticas deportivas o contemplativas, tales como meditación, yoga, mindfulness, taichi, danza o expresiones artísticas, destinadas tanto al favorecimiento del rendimiento académico, como al bienestar e integración de los y las estudiantes, en consideración a las diversas capacidades que posean y a la etapa del aprendizaje en que se encuentren.
+
+En aquellos casos en que exista prescripción médica de un especialista y con estricto cumplimiento de los protocolos del Ministerio de Salud, el establecimiento deberá otorgar todos los apoyos necesarios para asegurar la plena inclusión de los y las estudiantes.
 
 Sin embargo, en los establecimientos reconocidos oficialmente por el Estado, los alumnos tendrán derecho a repetir curso en un mismo establecimiento a lo menos en una oportunidad en la educación básica y en una oportunidad en la educación media, sin que por esa causal les sea cancelada o no renovada su matrícula.
 
