@@ -96,53 +96,7 @@ ley Nº 19.664.
 
 3º.- Jefe Departamento de Recursos Físicos
 
-a).- En el ámbito de la Dirección de
-
-Servicio como unidad presupuestaria,
-
-y por montos totales y/o
-
-parciales, iguales o menores a
-
-300 UTM, comprar, vender y permutar
-
-toda clase de servicios asistenciales,
-
-servicios no asistenciales y bienes
-
-muebles, ceder y adquirir derechos
-
-sobre los mismos, incluyendo los
-
-valores mobiliarios, fijando precios,
-
-formas de pago y de entrega y
-
-toda clase de condiciones y modalidades:
-
-percibir o pagar precio, recibir o
-
-entregar la cosa adquirida y ejecutar
-
-todos los derechos que al comprador y
-
-al vendedor otorgan las leyes;
-
-convenir pactos accesorios, como el de
-
-retroventa y otros similares.
-
-Se incluye en esta facultad el calificar,
-
-mediante resolución fundada, casos de
-
-emergencia, urgencia o imprevisto que
-
-autoricen el trato o contratación
-
-directa, de conformidad a la ley
-
-Nº 19.886 y su Reglamento.
+a).- Eliminado.
 
 b).- Ejecutar y celebrar toda clase de
 
