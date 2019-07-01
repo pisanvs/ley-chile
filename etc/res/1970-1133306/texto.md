@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 1.970, de fecha 21/06/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012, de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 49-0, consistente en Lote B, de una superficie de cinco mil setecientos veinticuatro metros cuadrados, resultante de la subdivisión de un Lote de terreno compuesto de seis hectáreas que a su vez forma parte de la Hijuela número dieciocho de once hectáreas sesenta y nueve áreas ubicada en el lugar Puente Chispa, de este departamento. Comuna de Temuco, Rol de Avalúo 3205-125. La superficie a expropiar aproximada es de 457,68 metros cuadrados, de aparente dominio de Pablo Erich Jacobi Baumann. Comisión de Peritos integrada señores Alberto Arenas Pizarro, Arquitecto; Marcela Melo Rodríguez, Arquitecto y Constanza Mihoevic González, Ingeniero Constructor, fijó monto de Indemnización Provisional en $51.068.069, según Informe N° 49-0, de fecha 16/06/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
