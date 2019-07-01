@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución ex. N° 1.965 de fecha 21/06/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote N° 44-0, consistente en "Lote número Siete, hoy Calle Luis Durand número 03120, de una superficie de 1.537,20 metros cuadrados, del plano de Loteo Mirador del Valle, de la ciudad de Temuco", Rol de Avalúo 4015-7, comuna de Temuco. La superficie a expropiar aproximada es de 223,39 metros cuadrados, de aparente dominio de Empresa de Servicios de Ingeniería Eléctrica, Telecomunicaciones e Industriales Limitada. Comisión de Peritos integrada por Alberto Arenas Pizarro, Arquitecto, Constanza Mihoevic González, Ingeniero Constructor y Marcela Melo Rodríguez, Arquitecto, fijó monto de Indemnización Provisional en $26.543.763, según Informe N° 44-0 de fecha 16/06/2019, pagadero contado.
+
+Director Serviu Región de la Araucanía.
