@@ -212,6 +212,10 @@ Juglans regia Cherry leaf roll
 
 (Nogal) virus (CLRV)
 
+Juglans microcarpa Xylella fastidiosa
+
+Cherry leaf roll virus
+
 Litchi chinensis Sin Declaración Adicional
 
 (Litchi)
