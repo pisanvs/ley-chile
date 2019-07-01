@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.862, de fecha 18 de junio de 2019, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 113, correspondiente al inmueble ubicado en Fundo Santa Elvira Lt 15, Rol de Avalúo Nº 2898-28, de la comuna de Cerro Navia, Región Metropolitana, de aparente dominio de Guzmán Nieto María Hortensia, con una superficie aproximada de 694,33 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Costanera Sur Poniente Etapa 2 Tramo Walker Martínez y Américo Vespucio". La Comisión de Peritos integrada por los señores Ingrid Von Osten Yáñez, Ingeniero Civil; Eric Ehrenfeld Allera, Arquitecto y Gastón Bianchi Aqueveque, Constructor Civil, mediante Informe de fecha 12 de noviembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $79.781.994, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
