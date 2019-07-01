@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.866, de fecha 18 de junio de 2019, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 108-4, correspondiente al inmueble ubicado en Mar de Chile 1860 LT T 1 Los Lagos III, Rol de Avalúo Nº 3084-5, de la comuna de Cerro Navia, Región Metropolitana, de aparente dominio de Arzobispado de Santiago, con una superficie aproximada de 4,56 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Costanera Sur Poniente Etapa 2 Tramo Walker Martínez y Américo Vespucio". La Comisión de Peritos integrada por los señores Ingrid von Osten Yáñez, Ingeniero Civil; Eric Ehrenfeld Allera, Arquitecto y Gastón Bianchi Aqueveque, Constructor Civil, mediante Informe de fecha 12 de noviembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $856.239, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
