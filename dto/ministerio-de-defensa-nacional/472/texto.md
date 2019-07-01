@@ -1,0 +1,7 @@
+TRANSFERENCIA DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 472, del 11 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Yasna Marcela Daza Lois, RUN: 13.013.398-3, transferencia total de concesión marítima menor, con vencimiento el 30 de junio de 2019, sobre un sector de terreno de playa y uso de mejora fiscal, en el lugar denominado Caleta Abtao, Balneario Juan López, Manzana 4, Sitio Nº 6, Comuna de Antofagasta, provincia de Antofagasta, Región de Antofagasta, con una superficie total de 164,88 m², la que fue tramitada con el SIABC Nº 40291. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta concesión marítima en el sector otorgado, es continuar amparando una cabaña de veraneo familiar compuesta por mejoras fiscales correspondientes a una construcción de madera, radier y muro de contención, y una mejora particular consistente a una construcción de albañilería. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Antofagasta. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Julián Aguirre Perocarpi, Capitán de Corbeta LT, Capitán de Puerto de Antofagasta.
