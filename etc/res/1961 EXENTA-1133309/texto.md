@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución ex. N° 1.961 de fecha 21/06/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación parcial del inmueble denominado Lote N° 157-0, consistente en "Inmueble correspondiente al sitio número 66 resultante de la subdivisión de la propiedad ubicada en calle Pedro de Valdivia de Temuco, camino a Chol Chol", Rol de Avalúo 2875-06, comuna de Temuco. La superficie a expropiar aproximada es de 98,42 metros cuadrados, de aparente dominio de Agustina del Carmen Morán Sepúlveda. Comisión de Peritos integrada por Mario Gutiérrez Truan, Arquitecto, Claudio Romo Sanhueza, Arquitecto, y Arturo Cantos Oyarzún, Arquitecto, fijó monto de Indemnización Provisional en $51.346.006 según Informe N° 157-0 de fecha 20/06/2019, pagadero contado.
+
+Director Serviu Región de la Araucanía.
