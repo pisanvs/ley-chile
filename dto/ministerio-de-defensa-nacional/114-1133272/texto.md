@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+El decreto supremo N° 114, de fecha 25 de febrero de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Sra. María de los Ángeles Arriaza Ledesma, RUN 9.064.104-2, Cuarta Renovación de la Concesión Marítima Menor, con vencimiento el 31 de diciembre de 2023, sobre un sector de playa, en un lugar denominado Playa Chépica A, comuna de El Tabo, Provincia de San Antonio, Región de Valparaíso, con una superficie total de 98 m2, la que fue tramitada con el SIABC N° 36498. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto de esta concesión marítima, en el sector otorgado, es continuar amparando y usufructuando la construcción existente de un establecimiento comercial compuesto por kiosco playa, restaurante, baños públicos, terraza para instalación de mesas y sillas, venta de artículos de playa y arriendo de quitasoles y sillas. Se incluye terraza en segundo piso con instalaciones de mesa y sillas. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Algarrobo. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Algarrobo, 5 de junio de 2019.- David López Stancic, Capitán de Corbeta LT.
