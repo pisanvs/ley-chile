@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 1.967, de fecha 21/06/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote N° 46-0, "propiedad ubicada calle Luis Duran número 03057 de la ciudad de Temuco, y que consiste en el inmueble ubicado en el lugar Coihueco, de la comuna de Temuco, de una superficie aproximada de 21.875,40 metros cuadrados", Rol de Avalúo 3205-127. La superficie a expropiar aproximada es de 818,56 metros cuadrados, de aparente dominio de Sociedad Inmobiliaria y Constructora Nueva Providencia Limitada. Comisión de Peritos integrada señores Alberto Arenas Pizarro, Arquitecto: doña Marcela Melo Rodríguez, arquitecto y doña Constanza Mihoevic González, constructor civil, fijó monto de Indemnización Provisional en $117.569.166.- según Informe N° 46-0, de fecha 16 de junio de 2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
