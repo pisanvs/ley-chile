@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 391 de 19 de junio de 2019, se dejó sin efecto los numerales 3°, 4º, 5º y 6º, del Decreto Exento MOP. 804 de 23 de julio de 2018, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº 3, expropiado con motivo de la obra: "Camino Ruta 5 Norte, Tramo Santiago - Los Vilos Sector: Km. 84.540,00 al Km. 86.620,00 Enlace Llay-Llay", Comuna de Llay-Llay, Región de Valparaíso. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 21 de agosto de 2017, ascendente a la cantidad $13.839.800.-, para el lote Nº3.
