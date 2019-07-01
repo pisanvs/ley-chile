@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución ex. N° 1.974 de fecha 21/06/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote N° 54-0, consistente en "Inmueble ubicado en el camino Tromén sin número, Población Temuco, actualmente Calle Luis Durand número 02485, de esta ciudad, de una superficie aproximada de dos mil cuatrocientos veinte metros cuadrados", Rol de Avalúo 3205-123, comuna de Temuco. La superficie a expropiar aproximada es de 223,15 metros cuadrados, de aparente dominio de Hugo Enrique Morales Figueroa. Comisión de Peritos integrada por Alberto Arenas Pizarro, Arquitecto, Constanza Mihoevic González, Ingeniero Constructor y Marcela Melo Rodríguez, Arquitecto, fijó monto de Indemnización Provisional en $58.859.143, según Informe N° 54-0 de fecha 16/06/2019, pagadero contado.
+
+Director Serviu Región de la Araucanía.
