@@ -1,0 +1,5 @@
+OTORGA CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 124, de fecha 6 de marzo de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Remolcadores Ultratug Limitada, RUT 78.558.840-1, concesión marítima menor, con vencimiento el 30 de junio del año 2024, sobre un sector de porción de agua, en el lugar denominado Estrecho de Magallanes, Primera Angostura al noroeste de Punta Delgada, comuna de San Gregorio, Provincia de Magallanes, Región de Magallanes y de la Antártica Chilena, con una superficie total de 4 m2, la que fue tramitada en el SIABC N° 36.768. A modo referencial se señala la siguiente coordenada geográfica: Latitud 52°26'41,29" S, Longitud 69°32' 17,06" W. El objeto consiste en regularizar y mantener una boya para el amarre de naves de hasta 100 TRG y permitir el amarre de la lancha estación de prácticos. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Punta Delgada. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+14 de junio de 2019.- Mario Urrutia Iturra, Suboficial Mayor, Capitán de Puerto de Punta Delgada.
