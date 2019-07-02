@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL "CONSTRUCCIÓN Y OPERACIÓN DE UN SISTEMA DE TRATAMIENTO BIOLÓGICO DE RILES"
+
+De conformidad a lo dispuesto en el artículo 95 e inciso final del artículo 91 del DS N° 40/2012 del Ministerio del Medio Ambiente (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental de la DIA del proyecto "Construcción y Operación de un Sistema de Tratamiento Biológico de Riles", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, SIM Obras Civiles y Transportes SpA, que por resolución exenta N° 118, de fecha 12 de junio de 2019, la Comisión de Evaluación de la Región del Biobío calificó favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días hábiles, contados desde la presente notificación, para presentar recurso de reclamación ante el Director Ejecutivo del Servicio de Evaluación Ambiental, de conformidad al artículo 20 de la ley N° 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en horarios de oficina, en las oficinas de la Dirección Regional del SEA de Biobío, ubicadas en Lincoyán N° 145, Concepción, en la Ilustre Municipalidad de Hualqui, ubicada en calle Freire 351, comuna de Hualqui. Además, podrá accederse a la resolución indicada, a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Secretaria Comisión de Evaluación Región del Biobío.
