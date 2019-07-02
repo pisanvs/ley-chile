@@ -74,21 +74,21 @@ Se entenderá que participan en las sesiones del Consejo Directivo, en Pleno o e
 
 #### Artículo 5º
 
-Serán atribuciones del Consejo Directivo sesionando en Pleno:
+Serán atribuciones del Consejo Directivo, sesionando en Pleno:
 
-a) Proponer al Vicepresidente Ejecutivo de la Corporación la adopción de planes o políticas destinadas a la promoción del desarrollo y la innovación tecnológica en la respectiva región.
+a) Proponer al Vicepresidente Ejecutivo de la Corporación, la adopción de planes o políticas destinadas a la promoción del desarrollo y la innovación tecnológica en la respectiva región.
 
-b) Proponer la aprobación y adopción de convenios de colaboración o programación entre el Gobierno Regional, CORFO y otras entidades u órganos de la Administración del Estado con competencias relacionadas con las de este Comité, que faculten a la Corporación para ello, en conformidad con el ordenamiento jurídico.
+b) Autorizar la celebración de convenios de colaboración y de cooperación con entidades, públicas y privadas, nacionales y extranjeras, que comprometan aportes de dinero por parte del Comité; o convenios de programación entre el Gobierno Regional, Corfo y otras entidades u órganos de la Administración del Estado con competencias relacionadas con las de este Comité, que faculten a la Corporación para ello, en conformidad con el ordenamiento jurídico.
 
 c) Resolver fundadamente las solicitudes de asignación de recursos a proyectos, programas o acciones específicas de apoyo al emprendimiento, innovación y competitividad, cuya naturaleza, fines, magnitud o impacto, aconsejen su revisión en Pleno.
 
-d) Autorizar para disponer del presupuesto anual del Comité.
+d) Aprobar la distribución, entre los distintos instrumentos, de los recursos disponibles para transferencias corrientes en el presupuesto del Comité.
 
-e) Supervisar y evaluar la implementación de sus distintos planes o políticas. Para estos efectos, podrá proponer estrategias y acciones específicas como la contratación de consultorías y auditorías externas, entre otras.
+e) Supervisar y evaluar la implementación de sus distintos planes o políticas. Para estos efectos, podrá proponer estrategias y acciones específicas, como la contratación de consultorías y auditorías externas, entre otras.
 
-f) Fijar la organización del Comité, creando Subdirecciones de Áreas de Negocios, adicionales a las de Fomento MIPYME e Innovación y Emprendimiento, y las Subdirecciones Sectoriales que estime convenientes para el correcto funcionamiento del Comité.
+f) Fijar la organización del Comité, creando Subdirecciones de Áreas de Negocios, adicionales a las de Fomento Mipyme e Innovación y Emprendimiento, y las Subdirecciones Sectoriales que estime convenientes para el correcto funcionamiento del Comité.
 
-g) Determinar la creación de Subcomités, de carácter permanente o especial, junto con su integración y consejero a quien corresponderá la presidencia.
+g) Determinar la creación de Subcomités, de carácter permanente o especial, junto con su integración y Consejero a quien corresponderá la presidencia.
 
 #### Artículo 6º
 
@@ -194,9 +194,9 @@ f) Determinar el Subcomité, permanente o especial, que conocerá y resolverá a
 
 g) Efectuar las compras de bienes y contratación de servicios, conforme a la ley Nº 19.886 y su Reglamento. Dentro de esta facultad, y sólo a modo ejemplar, podrá aprobar bases de licitación pública o privada, aprobar tratos directos, adjudicar procesos o recurrir a contratación a través de Convenios Marcos en el portal www.mercadopublico.cl, dictar todo tipo de resoluciones, y aprobar y celebrar los contratos pertinentes.
 
-i) Celebrar convenios de colaboración y de cooperación con entidades públicas y privadas, nacionales y extranjeras, sus modificaciones y dictar las resoluciones que los aprueben. El Director Ejecutivo podrá, además, instruir al personal a su cargo para el seguimiento de los mismos.
+i) Celebrar convenios de colaboración y de cooperación con entidades, públicas y privadas, nacionales y extranjeras, sus modificaciones, y dictar las resoluciones que los aprueben. Si en virtud del convenio se comprometiere aporte de dinero por el Comité, su celebración deberá ser autorizada por el Consejo Directivo. El Director Ejecutivo podrá, además, instruir al personal a su cargo para el seguimiento de los mismos.
 
-j) Gestionar financiamiento ante organismos nacionales o internacionales para la ejecución de programas relacionados con el objeto del Comité, y disponer la participación en convocatorias y concursos para este efecto, como también ordenar concurrir a programas en conjunto con otras entidades, públicas o privadas, nacionales e internacionales.
+j) Gestionar financiamiento ante organismos, nacionales o internacionales, para la ejecución de programas relacionados con el objeto del Comité, y disponer la participación en convocatorias y concursos para este efecto, como también ordenar concurrir a programas en conjunto con otras entidades, públicas o privadas, nacionales e internacionales. Si la obtención del financiamiento comprometiere aporte de dinero por el Comité, su celebración deberá ser autorizada por el Consejo Directivo.
 
 k) Aprobar o rechazar los informes finales o de término anticipado de los proyectos y convenios de subsidio, comunicando a los interesados lo resuelto.
 
@@ -214,7 +214,9 @@ q) Rectificar los errores de hecho de que puedan adolecer los acuerdos del Conse
 
 r) Resolver fundadamente el término anticipado de los proyectos, por causas imputables o no al beneficiario.
 
-s) Contratar al personal profesional, técnico y administrativo que se considere necesario para ejecutar las actividades del Comité, e informar al Consejo del mismo de estas contrataciones. Sin perjuicio de lo establecido por el artículo 9 del decreto ley Nº 1.953, de 1977, por el artículo 62 de la ley Nº 18.482, y en la resolución conjunta Nº 5, de 2005, modificada por la resolución conjunta Nº 138, de 2007 ambas de los Ministerios de Economía, Fomento y Reconstrucción y de Hacienda, y por la resolución conjunta Nº 2, de 2014, de los Ministerios de Economía, Fomento y Turismo y de Hacienda, sus modificaciones o el texto que las reemplace, los trabajadores dependientes que se contraten en uso de esta atribución tendrán carácter de particulares, rigiéndose por el Código del Trabajo y leyes complementarias, en los términos establecidos por la Contraloría General de la República en esta materia. Dentro de esta facultad, el Director Ejecutivo podrá disponer y contratar para los funcionarios del Comité, la capacitación que estime necesaria, como también dictar los actos relativos a temas laborales y de seguridad social. Dicha facultad comprende, y sin que la enumeración sea taxativa, la de dictar los actos relativos a permisos con goce de remuneraciones, feriado legal, destinaciones, reconocimiento de asignación familiar, beneficio de sala cuna y disponer su respectivo reembolso, permiso paternal, permiso por fallecimiento de un familiar, cometidos funcionarios, comisiones de servicios, aprobación de licencias médicas, licencias maternales, y permiso post natal parental.
+s) Contratar y finiquitar al personal profesional, técnico y administrativo que se considere necesario para ejecutar las actividades del Comité. Sin perjuicio de lo establecido en el artículo 9º del decreto ley Nº 1.953, de 1977, en el artículo 62º de la ley Nº 18.482, y en la resolución conjunta Nº 5, de 2005, modificada por las resoluciones Nº 138, de 2007 y Nº 2, de 2014, todas de los Ministerios de Economía, Fomento y Reconstrucción -hoy de Economía, Fomento y Turismo- y de Hacienda, sus modificaciones o el texto que las remplace, los trabajadores dependientes que se contraten en uso de esta atribución tendrán el carácter de particulares, rigiéndose por el Código del Trabajo y leyes complementarias, en los términos establecidos por la Contraloría General de la República en esta materia. Dentro de esta facultad, el Director Ejecutivo podrá disponer y contratar para los funcionarios del Comité la capacitación que estime necesaria, como también dictar los actos relativos a temas laborales y de seguridad social. Dicha facultad comprende, y sin que la enumeración sea taxativa, la de dictar los actos relativos a permisos con goce de remuneraciones, feriado legal, destinaciones, reconocimiento de asignación familiar, beneficio de sala cuna y disponer su respectivo reembolso, permiso paternal, permiso por fallecimiento de un familiar, cometidos funcionarios, comisiones de servicios, aprobación de licencias médicas, licencias maternales, y permiso postnatal parental.
+
+Si el término de la relación laboral diere origen a pagos que deban imputarse al Subtítulo 23, del presupuesto de Corfo, éste deberá ser autorizado por el Vicepresidente Ejecutivo de la Corporación, antes de la notificación del término del contrato de trabajo al funcionario.
 
 t) Contratar sobre la base de honorarios a nacionales y extranjeros, en los términos establecidos en el artículo 11 de la ley Nº 18.834, y en las respectivas Leyes de Presupuestos.
 
