@@ -64,7 +64,9 @@ b) Dos designados por el Ministerio de Hacienda.
 
 c) Uno designado por el Ministro de Economía, Fomento y Turismo.
 
-d) Tres designados por el Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción, de los cuales dos de ellos podrán ser propuestos, uno por el Ministro de Minería y el otro por el Ministro de Transportes y Telecomunicaciones.
+d) El Vicepresidente Ejecutivo de Corfo, o un representante de éste, designado por él.
+
+e) Dos designados por el Vicepresidente Ejecutivo de Corfo, los que podrán ser propuestos, uno por el Ministro de Minería, y el otro por el Ministro de Transportes y Telecomunicaciones
 
 B) El Consejo Directivo tendrá un Vicepresidente que será elegido por el Consejo Directivo de entre sus integrantes titulares, con el voto favorable de, a lo menos, seis miembros, y reemplazará al Presidente con sus mismas facultades y deberes en caso de ausencia o impedimento de éste, circunstancia que no será necesario acreditar ante terceros.
 
