@@ -18,25 +18,7 @@ Nombre de la
 
 Institución : Centro de Formación Técnica Santo Tomás.
 
-Organizador : Sociedad Centro de Formación Técnica
-
-Santo Tomás Limitada, pudiendo abreviarse
-
-la expresión "Limitada" por "Ltda." y
-
-pudiendo utilizar además los nombres de
-
-fantasía "Centro Nacional de Estudios
-
-Paramédicos y Agropecuarios Propam Ltda.",
-
-"CFT Santo Tomás Limitada", "Centro de
-
-Formación Técnica Santo Tomás Ltda",
-
-"CFT Santo Tomás Ltda", "Propam",
-
-"Propam Ltda." y "Propam Limitada".
+Organizador : Corporación Centro de Formación Técnica Santo Tomás
 
 Representante
 
