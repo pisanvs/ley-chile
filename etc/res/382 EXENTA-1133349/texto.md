@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN EXENTA N° 382 - 4 DE ABRIL DE 2017
+
+Por resolución exenta N° 382, de 4 de abril de 2017, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos modificó la resolución exenta N° 461, de 12 de mayo de 2010, modificada por la resolución exenta N° 216, de 3 de marzo de 2016, que autoriza el funcionamiento del Terminal de Taxis Colectivos Urbanos, ubicado en avenida Volcán Puntiagudo N° 375, de la ciudad de Puerto Montt, de propiedad de Sociedad Inmobiliaria y Administradora Cinco Líneas S.A., RUT 96.970.440-4, agregando en el Resuelvo N° 3 de la resolución exenta N° 461, de 12 de mayo de 2010, la Línea N° 33-A dentro de las líneas usuarias de taxis colectivos urbanos.-
+
+Gonzalo Reyes Lobos, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos Subrogante.
