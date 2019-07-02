@@ -1,0 +1,3 @@
+RESOLUCIÓN EXENTA N° 398, DE 20 JUNIO DE 2019, QUE ACTUALIZA REGISTRO DE CORREOS ELECTRÓNICOS DE SOSTENEDORES DE LA SUPERINTENDENCIA DE EDUCACIÓN AÑO 2019
+
+Con fecha 20 de junio de 2019, la Superintendencia de Educación dictó resolución exenta N° 398, que "Actualiza registro de correos electrónicos de sostenedores de la Superintendencia de Educación año 2019". Dicho registro ha sido actualizado conforme a la siguiente nueva fuente de información: Declaración del Sostenedor 2018. Dicha resolución estará disponible para la comunidad en la página web institucional www.supereduc.cl.
