@@ -90,7 +90,7 @@ Lo anterior, de conformidad con lo señalado en los convenios que previamente se
 
 #### Artículo 5°
 
-Los efectos de este decreto tendrán vigencia hasta el día 30 de junio de 2019, sin perjuicio de la facultad de disponer su término anticipado o su prórroga, si las condiciones así lo ameritan, según corresponda. Sin perjuicio de lo anterior, dispóngase que sus efectos terminarán anticipadamente respecto de aquellas áreas, localidades o comunas que las Seremi de Salud de las regiones de Los Lagos y Aysén, mediante resolución, declaren que se encuentran libres de Marea Roja.
+Los efectos de este decreto tendrán vigencia hasta el día 30 de abril de 2020, sin perjuicio de la facultad de disponer su término anticipado o su prórroga, si las condiciones así lo ameritan, según corresponda. Sin perjuicio de lo anterior, dispóngase que sus efectos terminarán anticipadamente respecto de aquellas áreas, localidades o comunas que las Seremi de Salud de las regiones de Los Lagos y Aysén, mediante resolución, declaren que se encuentran libres de Marea Roja.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Emilio Santelices Cuevas, Ministro de Salud.
 
