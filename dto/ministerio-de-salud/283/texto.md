@@ -84,7 +84,9 @@ e) Depósito transitorio de basura;
 
 f) Sector para guardar insumos e instrumental.
 
-Las salas de procedimiento que se encuentren anexas a consultas de profesionales que cuenten con menos de 3 boxes de atención individual, no requerirán la separación de los baños para público y para personal ni la distinción por sexos, pudiendo servir el baño, además, como lugar de vestuario.
+Las salas de procedimiento que se encuentren anexas a consultas de profesionales que cuenten con hasta 4 boxes de atención individual, no requerirán la separación de los baños para público y para personal, ni la distinción por sexos, pudiendo servir el baño, además, como lugar de vestuario.
+
+Sin perjuicio de lo anterior, en relación a los servicios higiénicos, las salas de procedimiento deberán cumplir con lo establecido en el decreto Nº 594, de 1999, del Ministerio de Salud, reglamento sobre condiciones sanitarias y ambientales básicas en los lugares de trabajo.
 
 #### Artículo 10º
 
