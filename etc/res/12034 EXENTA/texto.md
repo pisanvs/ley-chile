@@ -20,7 +20,7 @@ Resolución:
 
 1º.- Delégase en calidad de titular a D. María Soledad Mena Noriega, Jefa de la División de Comercialización del Fondo Nacional de Salud, la facultad de representar al Director del Fondo Nacional de Salud en la Comisión de Adquisiciones de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, Cenabast.
 
-2º.- En caso de ausencia o impedimento legal de la funcionaria señalada en el resuelvo anterior, delégase en calidad de suplente a D. Nancy Dawson Reveco, Jefa del Departamento de Gestión Comercial, la facultad de representar al Director del Fondo Nacional de Salud en la Comisión de Adquisiciones de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, Cenabast.
+2º.- En caso de ausencia o impedimento legal de la funcionaria señalada en el resuelvo anterior, delégase en calidad de suplente a don Rolando Leyton Torres, funcionario a contrata, profesional, grado 5° E.U.S., Jefe del Departamento Gestión Comercial Sistema Nacional de Servicios de Salud, la facultad de representar al Director del Fondo Nacional de Salud en la Comisión de Adquisiciones de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, Cenabast.
 
 3º.- Déjase sin efecto la resolución exenta 4A/Nº 8, de fecha 24 de abril de 2018, del Fondo Nacional de Salud.
 
