@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, AL "CLUB HÍPICO Y TRADICIONES PATAGÓNICAS DEL BAKER"
+
+Mediante decreto exento N° E-255, de 11 de junio de 2019, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, al "Club Hípico y Tradiciones Patagónicas del Baker", RUT N° 65.440.830-0, el inmueble fiscal correspondiente a los Lotes N° 6 y N° 7, ubicados en el Sector Chacras de Cochrane, comuna de Cochrane, provincia de Capitán Prat, Región de Aysén del General Carlos Ibáñez del Campo; amparado por inscripción global a nombre del Fisco que rola a fs. 2 vta., N° 2, del Registro de Propiedad del Conservador de Bienes Raíces de Cochrane, correspondiente al año 1980; singularizado en el Plano N° XI-4-460-C.R., agregado bajo el N° 121 en el Registro de Propiedad del año 2013, del Conservador de Bienes Raíces de Cochrane; con una superficie total de 8,57 ha. La Concesión se otorga por un plazo de 10 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La concesión se otorga para destinar el inmueble para el funcionamiento de su programa de actividades culturales, consistentes en jineteadas, carreras a la chilena, veradas, entre otras, debiendo mantener habilitadas y en perfecto estado todas las dependencias necesarias para el desarrollo de sus fines. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefa División Jurídica.
