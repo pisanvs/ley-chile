@@ -24,7 +24,7 @@ Resolución:
 
 1. Llámase a postulación en condiciones especiales a familias residentes en Viviendas Patrimoniales, sean éstas monumentos históricos, inmuebles de conservación histórica, o emplazadas en zonas típicas o en zonas de conservación histórica, de las regiones de Coquimbo, Valparaíso y Metropolitana, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título II Mejoramiento de la Vivienda, letras b.1) y b.2) del artículo 5º del DS Nº 255 (V. y U.) de 2006, destinados a proyectos de Seguridad de la Vivienda y Habitabilidad de la Vivienda, respectivamente.
 
-Este llamado contempla 1 selección, la que se realizará el día 2 de septiembre de 2019 y en la cual podrán postular los proyectos que cuenten con certificado de calificación a esa fecha.
+Este llamado contempla 1 selección, la que se realizará el día 18 de octubre de 2019 y en la cual podrán postular los proyectos que cuenten con certificado de calificación a esa fecha.
 
 2. La postulación a este llamado se podrá realizar en forma grupal o individual.
 
@@ -181,6 +181,8 @@ El aporte adicional debe realizarse mediante depósito a plazo, el que debe cont
 Tabla Nº 2 - Montos de Ahorro según superficie de la vivienda.
 
 .
+
+Las familias de la Región de Coquimbo que cuenten con ficha de damnificado como consecuencia del sismo acontecido el día 19 de enero del presente año, se eximirán del ahorro señalado en la tabla precedente.
 
 11. Para el presente Llamado se considerarán como factores de puntaje los siguientes:
 
