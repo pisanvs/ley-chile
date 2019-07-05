@@ -560,8 +560,6 @@ PUNTAJES ASOCIADOS A LOS NIVELES DE APRENDIZAJE
 
 DE HISTORIA, GEOGRAFÍA Y CIENCIAS SOCIALES 8º BÁSICO
 
-> **Nota.** El artículo 1° del Decreto 158, Educación, publicado el 18.03.2022, modifca la presente norma en el sentido de actualizar los Estándares de Aprendizaje para el 8° año de enseñanza básica, de Matemática y Lectura, en la forma que citada norma indica.
-
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Harald Beyer Burgos, Ministro de Educación.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Fernando Rojas Ochagavía, Subsecretario de Educación.
