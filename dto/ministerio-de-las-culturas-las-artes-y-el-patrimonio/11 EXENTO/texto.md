@@ -22,7 +22,7 @@ Fíjase la calidad de primer subrogante del Subsecretario de las Culturas y las 
 
 #### Artículo 2º
 
-Fíjase la calidad de primer subrogante del Subsecretario del Patrimonio Cultural en la persona que ejerza el cargo de Subsecretario de las Culturas y las Artes de este Ministerio.
+Fíjase como primer subrogante del Subsecretario del Patrimonio Cultural en la persona que ejerza la jefatura de la División de Patrimonio Cultural y en ausencia de este último, como segundo subrogante, en la persona que ejerza la jefatura del Departamento de Gestión de Proyectos Patrimoniales, ambos de dicha Subsecretaría.
 
 #### Artículo 3º
 
