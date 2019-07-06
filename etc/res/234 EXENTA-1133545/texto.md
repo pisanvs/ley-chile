@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 234 EXENTA, DE 27 DE MAYO DE 2019
+
+Por resolución exenta Nº 234, de 27 de mayo de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se aprobaron los planes y programas de la Escuela de Conductores Profesionales denominada "Servicios de Capacitación Nogal Chile SpA", de propiedad de la Sociedad del mismo nombre, RUT Nº 76.440.444-0, representada legalmente por Francisco Navarro Ruiz, cédula de identidad Nº 7.165.191-6, para impartir cursos conducentes a la obtención de licencias de conductor profesional clases A2, A3, A4 y A-5, en su sede ubicada en calle Orompello Nº 730, 2º piso, de la comuna de Concepción.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
