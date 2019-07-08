@@ -1,0 +1,37 @@
+FIJA NÚMERO MÁXIMO DE VARIANTES EN TRAZADO TRONCAL DE LA COMUNA DE TOMÉ Y MODIFICA RESOLUCIÓN N° 1 EXENTA, DE 1992, DE LA SECRETARÍA REGIONAL MINISTERIAL DE TRANSPORTES Y TELECOMUNICACIONES DE LA REGIÓN DEL BIOBÍO, EN EL SENTIDO QUE INDICA
+
+Núm. 241 exenta.- Concepción, 4 de junio de 2019.
+
+Visto:
+
+Lo dispuesto en el artículo 85° del DFL N° 1, de los Ministerios de Justicia y de Transportes y Telecomunicaciones, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito N° 18.290; el artículo 9° del DS N° 212/92 del Ministerio de Transportes y Telecomunicaciones; la resolución exenta N° 1, de 6 de enero de 1992, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío; el oficio N° 209, de fecha 24 de enero de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío; el Informe Técnico del Área de Transporte Público Regional de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, de fecha 18 de marzo de 2019; la carta s/n, recepcionada en esta Secretaría Regional el 5 de febrero de 2019, de la empresa Buses Ruta Los Tilos S.A.; la carta s/n de la empresa Nueva Los Tilos Ltda., de fecha 1 de febrero de 2019; la carta s/n, recepcionada en esta Secretaría Regional Ministerial con fecha 7 de febrero de 2019, de la empresa Ruta Costa S.A.; el oficio N° 823, de fecha 21 de marzo de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío; la resolución 1.600, de 2008, de la Contraloría General de la República, y demás normativa aplicable.
+
+Considerando:
+
+1° Que, se han realizado reuniones de trabajo en el marco de ordenamiento de transporte público urbano de la comuna de Tomé, en las cuales han participado profesionales de esta Secretaría Regional Ministerial y representantes legales de las líneas de buses urbanos de la comuna, en específico con la empresa Nueva Los Tilos Ltda. y Ruta Los Tilos S.A., empresas que representan el 87% de la flota total inscrita en el Registro Nacional de Servicios de Transporte Público.
+
+2° Que, sobre la base de dichas reuniones de trabajo y el estudio efectuado sobre el comportamiento y condiciones de operación de los Servicios de Transporte Público de Pasajeros prestado con buses en las vías urbanas de la comuna de Tomé, profesionales del Área de Transporte Público Regional de esta Secretaría Regional Ministerial han generado un informe técnico, de fecha 18 de marzo de 2019, según el cual resulta necesario e indispensable establecer condiciones de operación y coberturas adecuadas respecto de los servicios de transporte público de pasajeros urbanos prestados con buses en la comuna de Tomé y satisfacer de mejor manera la necesidad actual de los usuarios, por lo que se propone establecer para estos servicios un 50% de coincidencia de los trazados variantes respecto del trazado troncal y fijar en 3 el número de variantes máximas para cada recorrido troncal para los buses que prestan servicios urbanos en las vías de la comuna de Tomé.
+
+3° Que, mediante oficio N° 209, de fecha 24 de enero de 2019, esta Secretaría Regional solicita un pronunciamiento a los servicios de locomoción colectiva urbana de la comuna de Tomé, respecto de la propuesta de reducción al porcentaje de coincidencia para la creación de variantes de un 70% a un 50%, limitando a 3 las variantes máximas por servicio troncal en la comuna de Tomé.
+
+4° Que, mediante carta s/n, de la empresa Buses Ruta Los Tilos S.A., recepcionada por esta Subsecretaría con fecha 5 de febrero de 2019, y a través de carta s/n de empresa Nueva Los Tilos Ltda., de fecha 1 de febrero de 2019, ambas entidades informan su opinión favorable a lo indicado en oficio N° 209, ya citado, y señalan su conformidad para disminuir el porcentaje de coincidencia de un servicio variante respecto de su trazado troncal de los servicios de locomoción colectiva desde un 70% a un 50%, así como también establecer el número máximo de variantes por trazado troncal en 3 para los servicios de locomoción colectiva de buses en la comuna de Tomé. Lo anterior con la finalidad de limitar la posibilidad de que la flota de un servicio pueda distribuirse de manera ineficiente en nuevos recorridos que no cumplan con la frecuencia adecuada.
+
+5° Que, mediante carta s/n, recepcionada en esta Secretaría Regional con fecha 7 de febrero de 2019, la empresa Ruta Costa S.A. ha manifestado su opinión desfavorable para disminuir el porcentaje de coincidencia de un 70% a un 50%, así como también para establecer el número máximo de variantes por trazado troncal en 3, señalando en su argumentación que Tomé cuenta con la totalidad de los sectores con locomoción colectiva, y que si se requiriera ampliar los recorridos seria aún más necesario un alto porcentaje de coincidencia.
+
+6° Que, sin perjuicio de lo indicado por Ruta Costa S.A., es necesario considerar que existen sectores de Tomé urbano que aún no cuentan con transporte público de buses, como lo es, por ejemplo, el sector de Punta de Parra.
+
+7° Que, resulta imperioso mejorar la cobertura del transporte público urbano en la comuna de Tomé, sin crear nuevos servicios, sino que aumentando las posibilidades de los que existen para realizar variantes desde su troncal, para lo cual es necesario reducir el porcentaje de coincidencia entre troncal y variante que actualmente asciende a un 70%, conforme a la resolución exenta N° 1, de 1992, y sus modificaciones citadas en el Visto, a un 50% y, además, regular el número máximo de variantes que pueden ser autorizadas para los servicios de transporte público urbano prestado mediante buses que utilizan las vías de dichas ciudades, concluyéndose del informe técnico que el máximo de variantes para cada trazado troncal debe ser 3, lo anterior, con el objeto también de evitar disgregación de los vehículos de los servicios en demasiadas variantes que en definitiva impliquen una disminución de la frecuencias que sean contraria a un adecuado servicio.
+
+Resuelvo:
+
+1° Fíjase en tres (3) el número máximo de variantes para cada trazado troncal para los buses que prestan servicios urbanos en las vías de la comuna de Tomé.
+
+2° Modifícase la resolución exenta N° 1, de 6 de enero de 1992, de esta Secretaría Regional, citada en el visto, en el sentido de agregar a continuación del último párrafo del resuelvo único, el siguiente párrafo nuevo:
+
+"Respecto a los servicios de buses que presten servicios en las vías de la comuna de Tomé, se fija en 50%, como mínimo, la coincidencia entre el trazado variante y el trazado troncal".
+
+3° Los servicios urbanos señalados precedentemente que a la fecha de la presente resolución cuenten con un número superior de variantes por troncal, deberán ajustarse a lo dispuesto en el numeral 1 anterior, dentro de un plazo de un (1) año a contar de la fecha de publicación de la presente resolución.
+
+Anótese y publíquese en el Diario Oficial.- Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
+
+Lo que transcribo para su conocimiento.- Saluda a Ud., Mónica Wityk Peluchonneau, Jefe División Administración y Finanzas.
