@@ -8,4 +8,6 @@ Respecto a los servicios de taxis colectivos que presten servicios en las vías 
 
 Respecto a los servicios de buses y taxis colectivo que presten servicios en las vías de las comunas de Chillán y Chillán Viejo, se fija en 50%, como mínimo, la coincidencia entre el trazado variante y el trazado troncal.
 
+Respecto a los servicios de buses que presten servicios en las vías de la comuna de Tomé, se fija en 50%, como mínimo, la coincidencia entre el trazado variante y el trazado troncal.
+
 Anótese y publíquese.- Mauricio Leiva Chamorro, Secretario Regional Ministerial Transportes y Telecomunicaciones, VIII Región del Bío Bío.
