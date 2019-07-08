@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 199, de fecha 7 de mayo de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se revocó el programa de enseñanza de la Escuela de Conductores No Profesional o Clase B "Alejandro Lagos Mora y Compañía Ltda." o "Autoescuela Vía - Ahlamo Ltda.", representada legalmente por don Alejandro Hernán Lagos Mora, para impartir cursos conducentes a la obtención de Licencias de Conductor Clase "B", en la sede ubicada en calle Colo Colo Nº 85, comuna de Concepción, Región del Biobío, cuya aprobación fue otorgada a través de la resolución exenta Nº 1.392, de fecha 31 de agosto de 1995, del Ministerio de Transportes y Telecomunicaciones.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío.
