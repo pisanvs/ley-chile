@@ -8,7 +8,7 @@ Lo dispuesto en el artículo 90º, inciso segundo, del Código Sanitario, aproba
 
 Considerando:
 
-1. Que, se ha solicitado a este Ministerio la autorización para la comercialización de productos de tabaco de la marca Del Abuelo, en sus variantes Chocolate, Vainilla, Natural, Mint y Coffe (bolsas de tabaco picado de 40 gramos), todas ellas comercializadas por la empresa Comercial Dacaf SpA, RUT Nº 76.085.679-9.
+1. Que, se ha solicitado a este Ministerio la autorización para la comercialización de productos de tabaco de la marca Del Abuelo, en sus variantes Chocolate, Vainilla, Natural, Mint y Coffe (bolsas de tabaco picado de 40 gramos), todas ellas comercializadas por la empresa Comercial Dacaf SpA, RUT Nº 76.085.679-7.
 
 2. Que, evaluados los antecedentes aportados por dicha empresa y evacuado el informe técnico pertinente por parte de la Oficina de Tabaco de la División de Políticas Públicas Saludables y Promoción del Ministerio de Salud, se ha considerado que la solicitud en análisis es favorable.
 
