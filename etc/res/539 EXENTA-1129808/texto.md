@@ -8,7 +8,7 @@ Lo dispuesto en el artículo 90º, inciso segundo, del Código Sanitario, aproba
 
 Considerando:
 
-1. Que, se ha solicitado a este Ministerio la autorización para la comercialización de productos de tabaco de la marca Pall Mall, en sus variantes Virginia (bolsa de 35 gramos de tabaco picado) comercializada por la empresa British American Tobacco Chile S.A., RUT Nº 88.502.900-0.
+1. Que, se ha solicitado a este Ministerio la autorización para la comercialización de productos de tabaco de la marca Pall Mall, en sus variantes Virginia (bolsa de 30 gramos de tabaco picado) comercializada por la empresa BAT Chile S.A., RUT Nº 88.502.900-0.
 
 2. Que, evaluados los antecedentes aportados por dicha empresa y evacuado el informe técnico pertinente por parte de la Oficina de Tabaco de la División de Políticas Públicas Saludables y Promoción del Ministerio de Salud, se ha considerado que la solicitud en análisis es favorable.
 
@@ -20,7 +20,7 @@ Considerando:
 
 Resolución:
 
-1. Autorízase a la empresa British American Tobacco Chile S.A. para la comercialización en el país de los productos de tabaco de la marca Pall Mall, en el formato y variante señalada en la presente resolución, por cuanto se da cumplimiento a lo dispuesto en la normativa vigente.
+1. Autorízase a la empresa BAT Chile S.A. para la comercialización en el país de los productos de tabaco de la marca Pall Mall, en el formato y variante señalada en la presente resolución, por cuanto se da cumplimiento a lo dispuesto en la normativa vigente.
 
 Anótese y publíquese.- Emilio Santelices Cuevas, Ministro de Salud.
 
