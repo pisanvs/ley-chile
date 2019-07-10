@@ -2698,7 +2698,7 @@ El Ministerio de Vivienda y Urbanismo, mediante resolución, aprobará la metodo
 
 A la solicitud de permiso de edificación de los proyectos a que se refiere el inciso primero se deberá acompañar un Estudio de Impacto sobre el Sistema de Transporte Urbano, suscrito por un profesional especialista y aprobado por la Unidad de Tránsito y Transporte Públicos de la correspondiente Municipalidad o por la respectiva Secretaría Regional Ministerial de Transportes y Telecomunicaciones, según corresponda, de acuerdo a la metodología.
 
-La Dirección de Obras Municipales, de acuerdo al resultado del Estudio de Impacto sobre el Sistema de Transporte Urbano, establecerá las adecuaciones que el propietario deberá efectuar en la vialidad afectada por el proyecto, cuyo cumplimiento se hará exigible a la recepción definitiva de la edificación.
+La Dirección de Obras Municipales, de acuerdo al resultado del Estudio de Impacto sobre el Sistema de Transporte Urbano, establecerá las mitigaciones que el propietario deberá efectuar en la vialidad afectada por el proyecto. Asimismo, no podrán cursar la recepción definitiva del proyecto sin que el interesado acredite la ejecución de las medidas de mitigación correspondientes, o el otorgamiento de una caución que las garantice, previa autorización de la Seremi Regional de Transportes y Telecomunicaciones, de conformidad a lo dispuesto en el artículo 173 de la Ley General de Urbanismo y Construcciones, en la resolución de aprobación del Estudio de Impacto sobre el Sistema de Transporte Urbano o del Informe Vial Básico, según corresponda.
 
 > **Nota.** El presente artículo fue modificado por el Decreto 1, Vivienda, publicado el 01.02.2003, norma que fue declarada inconstitucional por Sentencia publicada en el Diario Oficial de 21.04.2003, por lo que no se encuentran incorporadas en el presente texto.
 
@@ -9956,6 +9956,10 @@ En todo lo que no aparezca expresamente regulado en el presente Título, las viv
 
 - Infraestructura sanitaria: La etapa inicial, que forma parte de un proyecto de vivienda social, constituida por una unidad sanitaria consistente en cocina y un baño con inodoro, lavamanos y ducha, emplazada en un sitio de una superficie mínima de 100 metros cuadrados si corresponde a un proyecto de vivienda en un piso, o de 60 metros cuadrados si corresponde a un proyecto de vivienda en dos o más pisos.
 
+- Informe de potencial urbano: análisis fundado, efectuado a partir de los elementos de diagnóstico referidos en el artículo 6.6.4. de esta Ordenanza, que sirve de antecedente para el establecimiento de beneficios de normas urbanísticas a los predios ubicados dentro en un determinado polígono, que se destinen a la construcción de proyectos de viviendas integradas.
+
+- Proyecto de viviendas integradas: proyecto residencial que induce o colabora a mejorar los niveles de integración social urbana debido a que está conformado por viviendas destinadas a beneficiarios de los programas habitacionales del Estado o que contempla el porcentaje mínimo de tales viviendas requerido para ser calificado como tal, conforme a lo establecido en el artículo 6.6.1. de esta Ordenanza.
+
 #### Artículo 6
 
 1.3. A la infraestructura sanitaria definida en el artículo anterior, por constituir obras que forman parte de un proyecto de vivienda económica de tipo social, le serán aplicables las normas del D.F.L. Nº 2, de 1959, y las del presente Título referidas a las viviendas sociales.
@@ -10285,6 +10289,142 @@ Los sistemas o clases de edificación que hayan adoptado o aprobado la ex Corpor
 #### Artículo 6
 
 5.4. Derogado.
+
+## Capítulo 6
+
+De los proyectos de viviendas integradas
+
+#### Artículo 6
+
+6.1. El Ministerio de Vivienda y Urbanismo, mediante resolución fundada, podrá establecer beneficios de normas urbanísticas a predios ubicados en determinados polígonos, en los que se construyan proyectos de viviendas integradas, los que para efectos de este Capítulo corresponden a:
+
+1. Proyectos destinados preferentemente a familias que se encuentran en situación de vulnerabilidad y que postulan de manera colectiva al Fondo Solidario de Elección de Vivienda, reglamentado en el decreto supremo N° 49, de 2011, del Ministerio de Vivienda y Urbanismo, o en el instrumento que lo modifique o reemplace.
+
+2. Proyectos que postulan al Programa de Integración Social y Territorial reglamentado en el decreto supremo N° 19, de 2016, del Ministerio de Vivienda y Urbanismo, o en el instrumento que lo modifique o reemplace. En tal caso, los proyectos deberán cumplir los porcentajes de viviendas para familias vulnerables y para familias de sectores medios establecidos como requisito para la postulación a dicho programa.
+
+3. Proyectos no incluidos en los numerales anteriores, pero que contemplan viviendas destinadas a la aplicación de subsidios habitacionales. En tal caso, para ser considerado un proyecto de viviendas integradas se deberá dar cumplimiento al porcentaje mínimo de viviendas para familias con subsidio que establezca la resolución que apruebe los beneficios de normas urbanísticas, la que también determinará los programas habitacionales que podrían aplicarse y, eventualmente, la distribución de tales viviendas entre dichos programas. Con todo, la resolución deberá establecer que al menos el 20% de las viviendas del proyecto deberán estar destinadas a familias beneficiarias de subsidio, de las cuales al menos la mitad deberá corresponder a familias ubicadas en el tramo del 40% más vulnerable de la población, conforme a la información del Registro Social de Hogares o del instrumento de caracterización socioeconómica aplicable.
+
+Sin perjuicio de lo señalado en los numerales precedentes, tratándose de sectores con un porcentaje superior al 60% de familias ubicadas en el tramo del 40% más vulnerable de la población, la resolución que apruebe los beneficios de normas urbanísticas podrá establecer un porcentaje máximo de viviendas destinadas a familias ubicadas en dicho tramo.
+
+#### Artículo 6
+
+6.2. Las resoluciones que establezcan beneficios de normas urbanísticas para proyectos de viviendas integradas determinarán, mediante la delimitación de un polígono, los predios que podrían acogerse a tales beneficios. Dicho polígono será definido en función de:
+
+1. Estaciones de un servicio de transporte público mayor que opere en forma totalmente segregada del tránsito vehicular, tales como las utilizadas por sistemas de metro, ferrocarril urbano o suburbano u otros modos similares, sea que se trate de estaciones existentes, que se encuentren en la etapa de ejecución de obras o que estén recomendadas satisfactoriamente en el Sistema Nacional de Inversiones para la etapa de ejecución de obras y cuenten con presupuesto asignado para ello.
+
+Podrán formar parte del polígono y, por tanto, ser objeto de beneficios de normas urbanísticas, aquellos predios cuyo acceso se encuentre ubicado a una distancia máxima de recorrido peatonal respecto de alguno de los accesos a la estación, distancia que será determinada en la resolución que apruebe el establecimiento de tales beneficios, en función del respectivo informe de potencial urbano. Con todo, tal distancia no podrá ser superior a 700 metros.
+
+2. Ejes estructurantes del sistema de transporte público mayor, correspondientes a vías que concentren una oferta significativa de transporte público, atendiendo a criterios como la cantidad de servicios en operación; la existencia de líneas de metro, trenes, tranvías o similares; la existencia de infraestructura especializada o prioridad de circulación para el transporte público mediante buses, tales como vías segregadas, pistas solo bus o vías exclusivas; u otras condiciones de operación y utilización de tales vías, relacionadas con el sistema de transporte público mayor.
+
+Podrán formar parte del polígono y, por tanto, ser objeto de beneficios de normas urbanísticas, aquellos predios cuyo acceso se encuentre ubicado en los mencionados ejes estructurantes o a una distancia máxima de recorrido peatonal respecto de los mismos, distancia que será determinada en la resolución que apruebe el establecimiento de tales beneficios, en función del respectivo informe de potencial urbano. Con todo, tal distancia no podrá ser superior a 500 metros.
+
+Los antecedentes de la oferta de servicios de transporte público mayor existente serán proporcionados por la Secretaría Regional Ministerial de Transportes y Telecomunicaciones correspondiente, previa solicitud efectuada por la Secretaría Regional Ministerial de Vivienda y Urbanismo o por la División de Desarrollo Urbano, según corresponda, la que deberá realizarse con referencia a un sector específico.
+
+A partir de los antecedentes recibidos, el informe de potencial urbano a que se refiere el artículo 6.6.4. deberá dar cuenta que la vía analizada corresponde a un eje estructurante del sistema de transporte público mayor.
+
+3. Sectores urbanos en los que se concentren todos o algunos de los siguientes equipamientos o espacios de uso público:
+
+a) Establecimiento educacional destinado a los niveles de educación básica o media.
+
+b) Establecimiento de salud que forme parte de la Red Asistencial del respectivo Servicio de Salud.
+
+c) Equipamiento comercial, de escala mediana o mayor. Esta clase de equipamiento deberá corresponder a destinos referidos a la compraventa de mercaderías diversas, tales como centros o locales comerciales, supermercados o mercados.
+
+d) Equipamiento de clase servicios, de escala mediana o mayor, sean públicos o privados, que presten un servicio de interés público, tales como oficinas públicas, notarías, instituciones de salud previsional, administradoras de fondos de pensiones, compañías de seguros, correos, centros de pago, bancos, financieras o servicios artesanales, entre otros.
+
+e) Equipamiento deportivo o de cultura, de escala mediana o mayor.
+
+f) Parque o área verde de uso público consolidada, de una superficie igual o superior a 5.000 metros cuadrados.
+
+Podrán formar parte del polígono y, por tanto, ser objeto de beneficios de normas urbanísticas, aquellos predios cuyo acceso se encuentre ubicado a una distancia máxima de 500 metros de recorrido peatonal respecto de, a lo menos, el acceso a cuatro de los mencionados equipamientos o espacios de uso público. Además, el acceso de los referidos predios deberá estar ubicado a una distancia máxima de 500 metros de recorrido peatonal respecto de un paradero de transporte público para buses, taxibuses, taxis colectivos u otro sistema público o a una distancia máxima de 700 metros del mismo tipo de recorrido, respecto de una estación de metro, ferrocarril urbano o suburbano u otro modo de transporte público mayor que opere en forma totalmente segregada del tránsito vehicular. Con todo, podrá admitirse que una de las cinco distancias máximas antes referidas exceda los 500 o 700 metros, respectivamente, siempre que sea inferior a 1.000 metros.
+
+Se entenderá cumplido el requisito de existencia de los equipamientos y espacios de uso público a que se refieren las letras a), b), e) y f) del párrafo primero de este numeral en la medida que exista una inversión pública con permiso, en ejecución o recomendada satisfactoriamente en el Sistema Nacional de Inversiones para la etapa de ejecución de obras y cuente con presupuesto asignado para ello, que asegure su entrada en funcionamiento dentro de un plazo no mayor a dos años.
+
+Se entenderá cumplido el requisito de existencia de los equipamientos a que se refieren las letras c) y d) del párrafo primero de este numeral en caso que exista un área continua de locales comerciales y de oficinas que presten servicios de interés público, de escala menor y básica, cuya carga de ocupación sumada sea equivalente a la de un equipamiento comercial o de clase servicios de escala mediana o mayor, respectivamente.
+
+#### Artículo 6
+
+6.3. Los beneficios para proyectos de viviendas integradas que podrán aprobarse mediante resolución ministerial corresponderán a porcentajes o parámetros que incrementen la densidad habitacional y/o la capacidad máxima de edificación de los predios ubicados dentro en un determinado polígono, respecto de todas o algunas de las siguientes normas urbanísticas aplicables:
+
+1. Coeficiente de constructibilidad;
+
+2. Coeficiente de ocupación de suelo o de los pisos superiores;
+
+3. Densidad máxima;
+
+4. Altura máxima de edificación;
+
+5. Superficie de subdivisión predial mínima;
+
+6. Dotación de estacionamientos; y
+
+7. Rasantes, solo en aquellos casos en que el ángulo máximo señalado en el plan regulador sea inferior al establecido en el artículo 2.6.3. de esta ordenanza. Los parámetros o incrementos que se propongan no podrán superar los ángulos máximos establecidos para cada región en el mencionado artículo.
+
+#### Artículo 6
+
+6.4. Las propuestas para el establecimiento de beneficios de normas urbanísticas a predios ubicados dentro en un determinado polígono deberán ser remitidas al Ministerio de Vivienda y Urbanismo por parte de sus Secretarías Regionales, las que podrán formularlas de oficio o a solicitud de alguna Municipalidad o del Gobierno Regional respectivo. Excepcionalmente, la División de Desarrollo Urbano del Ministerio podrá elaborar propuestas para el establecimiento de beneficios de normas urbanísticas a predios ubicados en polígonos definidos en función de las estaciones o de los ejes estructurantes señalados en los numerales 1 y 2 del inciso primero del artículo 6.6.2. de esta ordenanza.
+
+En caso que Municipalidades o Gobiernos Regionales presenten solicitudes para el establecimiento de beneficios de normas urbanísticas a predios ubicados dentro en un determinado polígono, la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo deberá evaluar la pertinencia de elaborar una propuesta específica y dar respuesta al órgano solicitante dentro del plazo de 20 días hábiles contados desde su ingreso oficial.
+
+Las propuestas deberán contar con un informe de potencial urbano del sector en el que eventualmente podrían establecerse los beneficios, elaborado por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo o por la División de Desarrollo Urbano, según sea el caso. Este informe deberá ser presentado en el formato tipo que apruebe el Ministerio de Vivienda y Urbanismo mediante resolución, y deberá incluir los siguientes elementos de diagnóstico:
+
+1. Las normas urbanísticas aplicables en dicho sector, conforme a lo establecido en los Instrumentos de Planificación Territorial vigentes, o bien, a lo dispuesto en el artículo 28 quinquies de la Ley General de Urbanismo y Construcciones, si se trata de territorios sin planificación comunal o seccional. En atención a las normas urbanísticas aplicables, el informe de potencial urbano deberá estimar el número de habitantes por hectárea o densidad bruta admitida en el sector.
+
+2. Caracterización general de la realidad urbanística y edificatoria existente en el sector, en lo que respecta a:
+
+a) La clasificación de las vías existentes;
+
+b) La individualización de los parques, áreas verdes y equipamientos públicos existentes en el sector o que se encuentren en la situación referida en el penúltimo inciso del artículo 6.6.2.;
+
+c) La conformación predial predominante en el sector, precisando la superficie predial promedio; y
+
+d) La altura promedio de las edificaciones existentes en el sector.
+
+3. Identificación de los servicios de transporte público que operan en el sector o cuya futura operación esté programada, en atención a lo señalado en el artículo 6.6.2. de esta ordenanza. La Secretaría Regional Ministerial de Vivienda y Urbanismo o la División de Desarrollo Urbano, según corresponda, solicitará a la respectiva Secretaría Regional Ministerial de Transportes y Telecomunicaciones los antecedentes necesarios para elaborar el diagnóstico del sector, conforme a lo establecido en el formato tipo del informe.
+
+4. Otros antecedentes requeridos por el Ministerio de Vivienda y Urbanismo en la resolución que apruebe el formato tipo del informe de potencial urbano, relacionados con la acreditación de que el sector reúne las características necesarias para otorgar beneficios de normas urbanísticas a los predios ubicados dentro en un determinado polígono, que se destinen a la construcción de proyectos de viviendas integradas.
+
+A partir de los elementos de diagnóstico, el informe de potencial urbano deberá dar cuenta que el sector analizado presenta un nivel de densificación y/o de aprovechamiento de los bienes públicos urbanos disponibles que permitiría una mayor carga y, a partir de ello, efectuar una estimación del número de habitantes por hectárea o densidad bruta que podría admitirse en el sector, como resultado de la aplicación de beneficios de normas urbanísticas para proyectos de viviendas integradas.
+
+Dicha estimación de la densidad bruta admisible deberá considerar criterios de densificación equilibrada, lo que implica resguardar que las vialidades, espacios públicos, servicios de transporte público o equipamientos considerados como bienes públicos urbanos relevantes del sector sean capaces de absorber ese mayor número de habitantes por hectárea, sin afectar el acceso a tales bienes públicos urbanos por parte de quienes actualmente allí habitan.
+
+La densidad bruta admisible que se indique en el informe de potencial urbano servirá como parámetro o límite para la determinación del eventual incremento en la densidad habitacional y/o en la capacidad máxima de edificación que podrían tener los predios como consecuencia del establecimiento de beneficios de normas urbanísticas. Con todo, la referida densidad bruta admisible en el sector en caso alguno podrá superar los siguientes límites:
+
+- **a)** 800 hab/ha, tratándose de polígonos definidos en función del numeral 1 del artículo 6.6.2. de esta ordenanza;
+
+- **b)** 600 hab/ha, tratándose de polígonos definidos en función del numeral 2 del referido artículo; y
+
+- **c)** 400 hab/ha, tratándose de polígonos definidos en función del numeral 3 del mismo artículo.
+
+Para efectos de lo señalado en los tres incisos precedentes, la Secretaría Regional Ministerial de Vivienda y Urbanismo o la División de Desarrollo Urbano, según corresponda, podrá considerar los antecedentes contenidos en la memoria explicativa y demás documentos que conforman el respectivo plan regulador; los datos incluidos en el Sistema de Indicadores y Estándares del Desarrollo Urbano (Siedu), administrado por el Instituto Nacional de Estadísticas; o la información requerida a otros órganos de la Administración del Estado, conforme a lo establecido en los artículos 37, 37 bis y 38 de la ley N° 19.880; entre otros antecedentes.
+
+Tomando en consideración las conclusiones del informe de potencial urbano, la propuesta deberá especificar los beneficios de normas urbanísticas que se estima pertinente establecer y los predios que podrían acogerse a éstos, delimitando el correspondiente polígono y precisando, respecto de los proyectos indicados en el numeral 3 del artículo 6.6.1., el o los porcentajes de viviendas destinadas a beneficiarios de los programas habitacionales del Estado que serían exigibles a los proyectos como condición para acceder a tales beneficios y, eventualmente, la distribución que debería hacerse de tales viviendas entre los distintos programas habitacionales aplicables. En caso de proyectos que contemplen recepciones definitivas parciales, cada sección de la obra que se habilite deberá dar cumplimiento a los referidos porcentajes y a las exigencias de distribución de las viviendas, si las hubiere.
+
+#### Artículo 6
+
+6.5. La propuesta formulada por la Secretaría Regional Ministerial de Vivienda y Urbanismo o por la División de Desarrollo Urbano, en su caso, será remitida en consulta a la o las municipalidades en cuyo territorio comunal se encuentren emplazados los predios que conformarían el polígono y que serían objeto de los beneficios. El alcalde y el concejo municipal tendrán un plazo de 60 días, contados desde su recepción, para formular observaciones, plazo que podrá ser prorrogado por una sola vez y por hasta 30 días adicionales, previa solicitud del alcalde o del concejo municipal.
+
+Si vencido dicho plazo o su prórroga, las municipalidades no han presentado observaciones, la propuesta será remitida al Ministro, para su eventual aprobación mediante resolución fundada. En caso que los municipios presentaren observaciones, la Secretaría Regional Ministerial o la División de Desarrollo Urbano, según corresponda, tendrá un plazo de 30 días para analizarlas y, eventualmente, modificar la propuesta, remitiendo al Ministro la propuesta definitiva para su aprobación o rechazo mediante resolución fundada.
+
+El Ministerio de Vivienda y Urbanismo publicará en el Diario Oficial y en el sitio electrónico institucional las resoluciones que aprueben el establecimiento de beneficios de normas urbanísticas para predios ubicados dentro en un determinado polígono, que se destinen a la construcción de proyectos de viviendas integradas.
+
+#### Artículo 6
+
+6.6. La resolución que apruebe el establecimiento de beneficios de normas urbanísticas establecerá su plazo de vigencia, el que no podrá ser inferior a cinco ni superior a diez años, contados desde la publicación de ésta en el Diario Oficial, sin perjuicio de la facultad del Ministerio de Vivienda y Urbanismo de revisar los beneficios en el tiempo intermedio y dejarlos sin efecto por resolución fundada o modificarlos mediante el procedimiento establecido en los artículos precedentes.
+
+#### Artículo 6
+
+6.7. Los beneficios de normas urbanísticas referidos en los artículos precedentes no podrán aplicarse conjunta o adicionalmente a los establecidos en otras normas legales o reglamentarias. El titular de un proyecto de viviendas integradas que decide acogerse a otros beneficios, como los conferidos por fusión de terrenos o por tener la calidad de conjunto armónico, renuncia a la posibilidad de hacer uso, en dicho proyecto, de los beneficios de normas urbanísticas referidos en este Capítulo.
+
+Los titulares de proyectos de viviendas integradas que decidan acogerse a los beneficios de normas urbanísticas referidos en los artículos precedentes, deberán indicarlo expresamente en las solicitudes que presenten ante las Direcciones de Obras Municipales. Por su parte, las referidas reparticiones municipales deberán consignar, en los respectivos permisos y recepciones que emitan, que el proyecto se ha acogido a los mencionados beneficios.
+
+#### Artículo 6
+
+6.8. La cantidad de viviendas destinadas a beneficiarios de programas habitacionales del Estado que cada proyecto deberá contemplar se calculará tomando como base el número total de viviendas del proyecto. Si de la aplicación de los cálculos señalados resulta una fracción de unidad de vivienda, se aplicará lo dispuesto en el inciso segundo del artículo 1.4.8. de esta ordenanza.
+
+Las viviendas referidas en el inciso precedente deberán cumplir con las condiciones mínimas y con las prohibiciones y limitaciones establecidas en el reglamento del programa habitacional correspondiente. Tales viviendas deberán singularizarse en las solicitudes y aprobaciones que correspondan, en el permiso de edificación y en la recepción municipal respectiva, estableciéndose en estos documentos la cantidad y unidades de viviendas específicas que quedarán bajo dicha condición.
+
+Respecto a las viviendas a que se refiere el artículo 184 bis de la Ley General de Urbanismo y Construcciones, las escrituras públicas de compraventa mediante las cuales éstas se transfieran por primera vez deberán dejar constancia que el adquirente es beneficiario del programa habitacional del Estado que corresponda, con el objeto de verificar el cumplimiento de lo establecido en dicho artículo.
 
 #### Artículo SEGUNDO
 
