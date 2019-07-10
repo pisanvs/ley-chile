@@ -30,19 +30,33 @@ Decreto:
 
 Primer subrogante:
 
-Nombre : Mónica Marcela Varas Castillo
+Nombre : Antonella Loreto Gilbert Bacciarini
 
-RUN : 10.116.332-6
+RUN : 10.742.315-K
+
+Estamento : Directivo
+
+Grado : 6º EUS
+
+Función : Directora Regional Metropolitana
+
+ADP : Segundo Nivel Jerárquico.
+
+Segundo subrogante:
+
+Nombre : Alejandro Andrés Layseca Astudillo
+
+RUN : 12.584.084-1
 
 Estamento : Directivo
 
 Grado : 7º EUS
 
-Función : Jefa Departamento de Becas
+Función : Jefe Departamento Jurídico
 
-ADP : Segundo Nivel Jerárquico
+ADP : Segundo Nivel Jerárquico.
 
-Segundo subrogante:
+Tercero subrogante:
 
 Nombre : Andrea Cristina Lulión Valdés
 
@@ -53,20 +67,6 @@ Estamento : Directivo
 Grado : 7º EUS
 
 Función : Jefa Departamento de Procesos de Compras y Licitaciones
-
-ADP : Segundo Nivel Jerárquico
-
-Tercer subrogante:
-
-Nombre : Jorge Alejandro Arias Horn
-
-RUN : 8.277.408-4
-
-Estamento : Directivo
-
-Grado : 7º EUS
-
-Función : Director Regional de la Araucanía
 
 ADP : Segundo Nivel Jerárquico.
 
