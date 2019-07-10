@@ -8,25 +8,25 @@ Decreto:
 
 Autorízase la circulación en días hábiles y en días sábados, domingos y festivos, sin sujeción a jornada ordinaria de trabajo, del siguiente vehículo:
 
-Tipo de vehículo : Station Wagon.
+Vehículo : Station Wagon
 
-Marca : Nissan.
+Marca : Nissan
 
-Modelo : X Trail 2.5 Aut.
+Modelo : X-Trail S CVT (XL 802.1)
 
-Color : Plateado.
+Nº Motor : QR25099463B
 
-Año : 2014.
+Año : 2012
 
-Nº de Motor : QR2573034B.
+Chassis : JN1TANT31Z0100380
 
-Patente : GFCJ 68-1.
+Color : Plateado
 
-Chassis : JN1TAN31EW752554.
+Patente : DR PC 12-7
 
-Asignado : Secretaría Regional Ministerial de Agricultura de la VII Región del
+Asignado : Secretaría Regional Ministerial de Agricultura del Maule
 
-Maule, ciudad de Talca.
+Ciudad : Talca.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Ricardo Ariztía de Castro, Ministro de Agricultura (S).- Andrés Chadwick Piñera, Ministro del Interior y Seguridad Pública.
 
