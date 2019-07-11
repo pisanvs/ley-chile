@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL ESTUDIO DE IMPACTO AMBIENTAL "CRIANZA Y ENGORDA DE SALMÓNIDOS EN ESTANQUES EN TIERRA"
+
+De conformidad a lo dispuesto en el inciso final del artículo 61 del DS 40/12 MMA (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Crianza y Engorda de Salmónidos en Estanques en Tierra", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, BordeMar Tumbes SpA, que por resolución exenta Nº 121, de fecha 17 de junio de 2019, la Comisión de Evaluación de la Región del Biobío calificó favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Comité de Ministros, de conformidad al artículo 30 bis inciso quinto de la ley Nº 20.417, que modificó la ley Nº 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA de Biobío, ubicada en Lincoyán Nº145, Concepción, en la Ilustre Municipalidad de Talcahuano, ubicada en Sargento Aldea 250, comuna de Talcahuano, en horarios de oficina. Además, podrá acceder a la resolución a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Secretaria Comisión de Evaluación Región del Biobío.
