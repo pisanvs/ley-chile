@@ -32,9 +32,9 @@ c) Profilaxis: administración de un medicamento a un animal o grupo de animales
 
 a. Se debe indicar uso con fines de tratamiento o metafiláctico.
 
-b. Sólo se utilizarán con fines metafilácticos cuando el riesgo de propagación de una infección o de una enfermedad infecciosa en el grupo de animales sea elevado y no se disponga de alternativas adecuadas.
+b) Sólo se utilizarán con fines metafilácticos cuando el riesgo de propagación de una infección o de una enfermedad infecciosa en el grupo de animales sea elevado y no se disponga de alternativas adecuadas.
 
-c. No se utilizarán con fines profilácticos salvo en casos excepcionales, para ser administrados a un animal determinado o a un número limitado de animales cuando el riesgo de infección o de enfermedad infecciosa sea muy elevado y las consecuencias puedan ser graves.
+c) No se utilizarán con fines profilácticos salvo en casos excepcionales, para ser administrados a un animal determinado o a un número limitado de animales cuando el riesgo de infección o de enfermedad infecciosa sea muy elevado y las consecuencias puedan ser graves.
 
 d) El uso distinto de lo autorizado o uso extra etiqueta debe limitarse y restringirse a aquellos casos en los que no existan otras opciones de sustitución. Dicha utilización debe ser conforme a lo dispuesto en los artículos 66 bis, 66 ter y 66 quáter del Reglamento de productos farmacéuticos de uso exclusivamente veterinario.
 
