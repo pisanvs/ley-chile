@@ -1,0 +1,5 @@
+APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO GENERACIÓN NÓMINA 1° PAGO", VERSIÓN N° 2
+
+Por resolución exenta N° 220, de 24 de junio de 2019, el Director Nacional del Instituto de Previsión Social, aprueba para el Instituto de Previsión Social, el documento denominado "Procedimiento Generación Nómina 1° pago", cuyo objetivo es procesar las nóminas de pago de los beneficios previsionales otorgados por las ex Cajas de Previsión y del ex Servicio de Seguro Social; Leyes de Exonerados y de Reparación (Valech y Rettig), que son recepcionadas desde el área de producción de la División Informática IPS como "Nóminas de Primer Pago", validadas por el IPS, y enviadas a las entidades pagadoras, quienes deberán generar y emitir las liquidaciones y órdenes de pago, que correspondan a los beneficios otorgados, para que sean retirados en los CAPRI personalmente por los titulares o por el tercero que debidamente lo represente.
+
+Santiago, 8 de julio de 2019.- Patricio Coronado Rojo, Director Nacional.
