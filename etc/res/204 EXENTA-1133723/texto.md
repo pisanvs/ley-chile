@@ -1,0 +1,5 @@
+APRUEBA MODIFICACIÓN DE CONVENIO DE TRANSFERENCIA DE RECURSOS PROGRAMA "BONOS ARTÍCULO 2° TRANSITORIO LEY N° 19.949", SUSCRITO CON FECHA 13.02.2019, ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL MINISTERIO DE DESARROLLO SOCIAL
+
+Por resolución exenta N° 204, de 5 de junio de 2019, el Director Nacional del Instituto de Previsión Social, aprueba la Modificación del Convenio de Transferencia de Recursos - Programa "Bonos Artículo 2° Transitorio, Ley N° 19.949", suscrito entre el Instituto de Previsión Social y el Ministerio de Desarrollo Social, cuya finalidad es reemplazar en la Cláusula Cuarta del Convenio principal, aprobado por la resolución exenta N° 292, de 21 de junio de 2016, del Instituto de Previsión Social, denominada "Del Financiamiento y Administración", el párrafo segundo, y asimismo, incorporar en dicha cláusula los párrafos tercero y cuarto, pasando el actual párrafo tercero a ser quinto y final.
+
+Santiago, 8 de julio de 2019.- Patricio Coronado Rojo, Director Nacional.
