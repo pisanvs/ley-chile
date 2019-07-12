@@ -1,0 +1,5 @@
+SE INDIVIDUALIZA AL JEFE DE GABINETE DEL INSTITUTO DE PREVISIÓN SOCIAL COMO SUJETO PASIVO DE LA LEY N° 20.730, QUE REGULA EL LOBBY Y LA GESTIÓN DE INTERESES PARTICULARES ANTE AUTORIDADES Y FUNCIONARIOS, DESIGNA ASISTENTE TÉCNICO Y DEJA SIN EFECTO RESOLUCIÓN EXENTA QUE INDICA, SOBRE LA MATERIA
+
+Por resolución exenta N° 224, de 27 de junio de 2019, el Director Nacional del Instituto de Previsión Social, individualiza al Jefe de Gabinete del Instituto de Previsión Social, como sujeto pasivo de la ley N° 20.730, de conformidad con lo establecido en el artículo 3° inciso 2° de la ley N° 20.730, reglamentada por el decreto N° 71, de 2014, del Ministerio Secretaría General de la Presidencia y designa como Asistente Técnico del Jefe de Gabinete del Instituto de Previsión Social, a funcionaria que indica.
+
+Santiago, 8 de julio de 2019.- Patricio Coronado Rojo, Director Nacional.
