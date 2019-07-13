@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 181, de fecha 30 de abril de 2019, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores denominada Sociedad Araneda Canales Limitada, con nombre de fantasía Escuela de Conductores Newen Antü Limitada, cuyos representantes legales son don Jorge Arturo Araneda Bustos y doña Odra Alexandra Canales Fierro, quienes representarán conjuntamente a la sociedad. La Escuela de Conductores tendrá como Director a don Frederick Renato Sanhueza Alvial, y su sede estará ubicada en calle Pedro de Valdivia esquina Libertad s/n, comuna de Los Álamos, Región del Biobío. Las horas pedagógicas autorizadas a la referida Escuela son 12 teóricas, y 12 prácticas, con un total de 24 horas pedagógicas.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
