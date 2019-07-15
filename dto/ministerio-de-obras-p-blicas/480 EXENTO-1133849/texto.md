@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 480 de 28 de junio de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 4, Rol de avalúo 2202-315, Comuna de Chillán Viejo, superficie 607 m2., para la obra CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: TALCA - CHILLÁN SECTOR: REGULARIZACIÓN PARADEROS Y PASARELA LOS COLIHUES NORTE KM. 410.200,00 AL KM. 410.900,00, COMUNA DE CHILLÁN VIEJO, PROVINCIA DE DIGUILLÍN, REGIÓN DE ÑUBLE. La comisión de peritos, integrada por JUAN PABLO CONTRERAS MALLEA, CARMEN GLORIA GATICA VILLARROEL y JAIME ROLANDO JURGENS BITTNER, fijó el valor de tasación con fecha 12 de septiembre de 2018, acordándose la indemnización con su propietario ALEJANDRO SEGUNDO BRAVO CASTILLO, en la cantidad de $14.635.017.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
