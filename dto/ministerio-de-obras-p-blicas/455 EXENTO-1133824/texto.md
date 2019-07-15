@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 455 de 26 de junio de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 63-A, Rol de avalúo 180-13, Comuna de Dalcahue, superficie 139 m2., para la obra MEJORAMIENTO RUTA W-195 SECTOR: QUEMCHI - PUCHAURAN TRAMO: KM. 0,00000 A KM. 28,63090, COMUNAS DE QUEMCHI Y DALCAHUE, PROVINCIA DE CHILOÉ REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por NORMAN ESTANISLAO CALDERÓN PONTIGGIA, PATRICIO FERNANDO CASAGRANDE ULLOA y SONIA CATALINA GALLEGOS BLANCH, fijó el valor de tasación con fecha 2 de octubre de 2017, acordándose la indemnización con su propietaria JUANA ROSA AYAQUINTUY PÉREZ, en la cantidad de $726.324.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
