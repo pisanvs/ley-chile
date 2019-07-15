@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 479 de 28 de junio de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 1, Rol de avalúo 504-249, Comuna de Linares, superficie 3.249 m2., para la obra CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: TALCA - CHILLÁN SECTOR: MEJORAMIENTO DE SEGURIDAD VIAL ENLACE LINARES KM. 300.800,00 AL KM. 301.200,00, COMUNA DE LINARES, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por CAMILO JOSÉ JARA BRAVO, PABLO ALEX MANSILLA ARAVENA y CONSTANZA CAMILA VÁSQUEZ MUÑOZ, fijó el valor de tasación con fecha 10 de septiembre de 2018, acordándose la indemnización con su propietaria ÁRIDOS LONGAVÍ LIMITADA, en la cantidad de $55.546.512.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
