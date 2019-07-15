@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 424, de 19 de junio de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropiaron los lotes de terreno N°s. 141, 142, 144 y 145, para la obra: "Mejoramiento Rutas S/Rol, T-981-U S: Crucero-Entrelagos", que figuran a nombre de EMPRESA DE FERROCARRILES DEL ESTADO, rol de avalúo SIN ROL, Comuna de Río Bueno, Región de Los Ríos, superficies 10 m2., 15 m2., 193 m2. y 711 m2. respectivamente. La Comisión de Peritos integrada por Patricio Fernando Casagrande Ulloa, Yaschala Maribel Yáñez Riffo y María Soledad Núñez Arroyo, mediante informe de tasación de 3 de junio de 2014, fijó el monto de la indemnización provisional en la cantidad de $47.500.-, para el lote N° 141, $79.400.-, para el lote N° 142, $323.700.-, para el lote N° 144, y $639.900.- para el lote N° 145. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
