@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 454 de 26 de junio de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 2, Rol de avalúo 101-128, Comuna de Pinto, superficie 370 m2., para la obra REPOSICIÓN PUENTE PINTO, RUTA N-51 COIHUECO-PINTO, PROV. DE ÑUBLE, COMUNA DE PINTO, COIHUECO, PROVINCIA DE ÑUBLE, REGIÓN DEL BIOBÍO. (Actual Comuna de Pinto, Provincia de Diguillín, Región de Ñuble). La comisión de peritos, integrada por ROXANA CECILIA ABARZÚA GAJARDO, RICARDO PEDRO CONRADO ECHEVERRÍA HOHMANN y CONSUELO LORETO ZULOAGA SANHUEZA, fijó el valor de tasación con fecha 2 de agosto de 2016, acordándose la indemnización con su propietaria MARÍA NELLY JIMÉNEZ SALAZAR, en la cantidad de $57.936.971.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
