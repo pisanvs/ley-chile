@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "PARQUE FOTOVOLTAICO LAJA"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta Nº 98, de fecha 4 de julio de 2019, la Directora Regional del Servicio de Evaluación Ambiental de la Región del Biobío ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley Nº 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Parque Fotovoltaico Laja", cuyo proponente es Andina Solar 10 SpA.
+
+El Proyecto se sitúa a cuatro (4) kilómetros de la ciudad de Laja y a unos treinta (30) kilómetros de la ciudad de Los Ángeles, a un costado de la ruta Q-250, en un predio con una superficie de 23,4 ha. Su ubicación permite la conexión a una línea de distribución existente, evitando el impacto por la construcción de una nueva línea, a su vez es óptima por los índices de radiación solar existentes en el área de emplazamiento y las condiciones climáticas que permiten obtener energía directa del sol en casi todas las épocas del año.
+
+El proyecto consiste en la instalación y operación de una planta solar fotovoltaica que contará con una salida nominal basada en la capacidad de los inversores para obtener 9 MW en el punto de interconexión con un factor de potencia de 0,95. La capacidad de la planta es de 10,79 MW y empleará 29176 módulos multicristalinos nominales de 370 watts.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto, según lo dispuesto en el artículo 95 del DS Nº 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicada en calle Lincoyán 145, Concepción, en horario de atención entre las 8:30 a 13:30 horas, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Directora Regional, Servicio de Evaluación Ambiental Región del Biobío.
