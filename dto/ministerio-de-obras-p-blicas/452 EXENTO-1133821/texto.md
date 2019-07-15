@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 452 de 26 de junio de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 4, Rol de avalúo 1505-66, Comuna de Los Ángeles, superficie 70 m2., para la obra MEJORAMIENTO RUTA Q-20, SECTOR MARÍA DOLORES - PUENTE PERALES, COMUNA DE LAJA, LOS ÁNGELES, PROVINCIA DEL BIOBÍO, REGIÓN DEL BIOBÍO. La comisión de peritos, integrada por VALESKA CAROLINA ALÉ GOÑI, ROXANA CECILIA ABARZÚA GAJARDO y VÍCTOR MARCELO SOTO TRONCOSO, fijó el valor de tasación con fecha 12 de noviembre de 2018, acordándose la indemnización con su propietaria JULIA ODETT REBOLLEDO PINO, en la cantidad de $172.350.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
