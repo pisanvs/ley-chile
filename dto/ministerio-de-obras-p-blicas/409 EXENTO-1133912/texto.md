@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 409 de 19 de junio de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 2 para la obra: "CAMINO: RUTA 5 NORTE. TRAMO: SANTIAGO -LOS VILOS. SECTOR: KM. 84.540,00 AL KM. 86.620,00. ENLACE LLAY-LLAY, Región de Valparaíso, que figura a nombre de ZUNIGA YANEZ MARÍA NELLY Y OTRS, rol de avalúo 152-505, comuna de Llay Llay, superficie 11 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 390 de 26 de julio de 2017, integrada por Paulina Lorena Jadue Zaror, Cristián Andrés Cáceres Vargas y Rayén Alejandra Guzmán Theoduloz, fijó con fecha 21 de agosto de 2017, el valor provisional de la indemnización en la cantidad de $202.000 para el lote N° 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
