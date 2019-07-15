@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 473 de 26 de junio de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 73, 76, 78, 79, 81, 84 y 86, Rol de avalúo 2216-21, Comuna de Osorno, superficies 1.904, 226, 201, 176, 1.147, 2.406 y 576 m2. respectivamente, para - INTERSECCIÓN RUTA U-52, COMUNA Y PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, CARMEN PILAR RÍOS MARCUELLO y ANDRÉS ECHEVERRÍA CAMPO, fijó el valor de tasación con fechas 16 de octubre de 2017 (lotes 73, 76, 78, 79 y 81) y 20 de octubre de 2017 (lotes 84 y 86), acordándose la indemnización con su propietario GUSTAVO REINALDO KARLE SOMMER, en la cantidad de $40.292.243.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
