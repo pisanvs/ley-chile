@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 478 de 28 de junio de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c) y 14° letra e) del DFL MOP N° 850, de 1997 que fijó el texto actualizado de la Ley N° 15.840 y DFL MOP N° 206 de 1960; artículo 10 de la Ley N° 18.772, se expropió para la EMPRESA DE TRANSPORTE DE PASAJEROS METRO S.A., el lote de terreno 17EL2, necesario para la obra: PROYECTO EXTENSIÓN LÍNEA 2, SECTOR: AVDA. PADRE ALBERTO HURTADO, COMUNA DE EL BOSQUE, PROVINCIA DE SANTIAGO, REGIÓN METROPOLITANA DE SANTIAGO, que figura a nombre de AGUAS ANDINAS S.A., rol de avalúo 15178-2, comuna de El Bosque, Región Metropolitana de Santiago, superficie 912,07 m2. La comisión de peritos, integrada por CARLOS ALBERTO MONTECINOS GALLEGILLOS, ANDRÉS ANÍBAL RISSO CAAMAÑO y PATRICIO ANTONIO RIVERA CAMPOS, fijó el valor de tasación con fecha 6 de agosto de 2018, acordándose la indemnización con su propietaria AGUAS ANDINAS S.A., en la cantidad de $161.127.668.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
