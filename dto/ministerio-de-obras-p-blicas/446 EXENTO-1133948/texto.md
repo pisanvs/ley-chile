@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 446, de 19 de junio de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 39 y 40, para la obra: REPOSICIÓN RUTA 181-CH CURACAUTÍN - MALALCAHUELLO, que figura a nombre de TASCON GONZÁLEZ RICARDO PASCUAL y EMPRESA DE FERROCARRILES DEL ESTADO, roles de avalúo 206-73 y 90213-1, Comuna de CURACAUTÍN, REGIÓN DE LA ARAUCANÍA, superficies 743 y 130 m2. respectivamente. La Comisión de Peritos integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 9 de julio de 2018, fijó el monto de la indemnización provisional en la cantidad de $6.312.500 para el lote N° 39, y $1.185.000 para el lote N° 40. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
