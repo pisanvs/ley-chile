@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 492 de 28 de junio de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 95, Rol de avalúo 26-75, Comuna de Río Claro, superficie 11 m2., para la obra CAMINO REPOSICIÓN PAV. RUTA K-25, SECTOR MOLINA - LOS ROBLES, TRAMO KILÓMETRO 0,90000 A KM. 14,66293, COMUNAS MOLINA - RÍO CLARO, PROVINCIAS CURICÓ - TALCA, REGIÓN DEL MAULE. La comisión de peritos, integrada por ALICIA BÁRBARA FLORES PACHECO, PATRICIO ULISES DURÁN MARCOS y ANDREA PAOLA YÁÑEZ CAMPOS, fijó el valor de tasación con fecha 09 de agosto de 2013, acordándose la indemnización con su propietario ROBERTO ALEJANDRO GUTIÉRREZ SUAREZ, en la cantidad de $449.350.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
