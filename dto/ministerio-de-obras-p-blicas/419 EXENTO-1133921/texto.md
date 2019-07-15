@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 419, de 19 de junio de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 175 y 180, para la obra: REPOSICIÓN PAVIMENTO RUTA U-40, SECTOR: OSORNO - INTERSECCIÓN RUTA U-52, que figuran a nombre de FOLLER MOLINA LUIS ALBERTO, rol de avalúo 2217-309, Comuna de SAN JUAN DE LA COSTA, REGIÓN DE LOS LAGOS, superficies 154 y 97 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y CARMEN PILAR RÍOS MARCUELLO, mediante informe de tasación de 4 de mayo de 2018, fijó el monto de la indemnización provisional en la cantidad de $2.888.600, para el lote N° 175 y $1.851.600, para el lote N° 180. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
