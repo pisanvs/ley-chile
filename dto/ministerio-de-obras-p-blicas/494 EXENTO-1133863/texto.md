@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 494 de 28 de junio de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 29, 31, 33 y 38, Rol de avalúo 154-2, Comuna de Cochamó, superficies 275, 251, 380 y 554 m2. respectivamente, para la obra MEJORAMIENTO RUTA V-69, SECTOR RALÚN - COCHAMÓ, COMUNA DE COCHAMÓ, COMUNA DE COCHAMÓ Y PUERTO VARAS, PROVINCIA DE LLANQUIHUE, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por NORMAN ESTANISLAO CALDERÓN PONTIGGIA, SONIA CATALINA GALLEGOS BLANCH e INGRID BEATRIZ CONTRERAS NEIRA, fijó el valor de tasación con fechas 22 de julio de 2016 complementado por acta de 2 de agosto de 2018 (lote 29) y 5 de julio de 2018 (lotes 31, 33 y 38), acordándose la indemnización con su propietario LIBORIO SEGUNDO BARRÍA SEPÚLVEDA Y OTROS, en la cantidad de $1.575.804.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
