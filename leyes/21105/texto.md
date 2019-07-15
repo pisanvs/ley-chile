@@ -84,7 +84,9 @@ p) Colaborar con otros organismos del sector público en el diseño y análisis 
 
 q) Promover el acceso abierto a los resultados generados por la investigación financiada con recursos públicos.
 
-r) Las demás funciones que la ley le encomiende.
+r) Proponer al Presidente de la República las áreas con valor científico y de investigación para la observación astronómica, las que serán declaradas por decreto supremo expedido por el Ministerio, que deberá ser suscrito, además, por el Ministro del Medio Ambiente.
+
+s) Las demás funciones que la ley le encomiende.
 
 #### Artículo 5°
 

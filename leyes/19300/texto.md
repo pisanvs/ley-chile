@@ -26,7 +26,7 @@ b) Conservación del Patrimonio Ambiental: el uso y aprovechamiento racionales o
 
 c) Contaminación: la presencia en el ambiente de sustancias, elementos, energía o combinación de ellos, en concentraciones o concentraciones y permanencia superiores o inferiores, según corresponda, a las establecidas en la legislación vigente;
 
-d) Contaminante: todo elemento, compuesto, sustancia, derivado químico o biológico, energía, radiación, vibración, ruido, o una combinación de ellos, cuya presencia en el ambiente, en ciertos niveles, concentraciones o períodos de tiempo, pueda constituir un riesgo a la salud de las personas, a la calidad de vida de la población, a la preservación de la naturaleza o a la conservación del patrimonio ambiental;
+d) Contaminante: todo elemento, compuesto, sustancia, derivado químico o biológico, energía, radiación, vibración, ruido, luminosidad artificial o una combinación de ellos, cuya presencia en el ambiente, en ciertos niveles, concentraciones o períodos de tiempo, pueda constituir un riesgo a la salud de las personas, a la calidad de vida de la población, a la preservación de la naturaleza o a la conservación del patrimonio ambiental;
 
 e) Daño Ambiental: toda pérdida, disminución, detrimento o menoscabo significativo inferido al medio ambiente o a uno o más de sus componentes;
 
@@ -226,7 +226,7 @@ b) Efectos adversos significativos sobre la cantidad y calidad de los recursos n
 
 c) Reasentamiento de comunidades humanas, o alteración significativa de los sistemas de vida y costumbres de grupos humanos;
 
-d) Localización en o próxima a poblaciones, recursos y áreas protegidas, sitios prioritarios para la conservación, humedales protegidos y glaciares, susceptibles de ser afectados, así como el valor ambiental del territorio en que se pretende emplazar;
+d) Localización en o próxima a poblaciones, recursos y áreas protegidas, sitios prioritarios para la conservación, humedales protegidos, glaciares y áreas con valor para la observación astronómica con fines de investigación científica, susceptibles de ser afectados, así como el valor ambiental del territorio en que se pretende emplazar;
 
 e) Alteración significativa, en términos de magnitud o duración, del valor paisajístico o turístico de una zona, y
 
