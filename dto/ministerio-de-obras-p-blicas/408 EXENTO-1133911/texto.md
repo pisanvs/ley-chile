@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 408 de 19 de junio de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 15 para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVÍ. SECTOR: SECTOR 1 (RUTA F-20). SUBSECTOR: RUTA 5 NORTE - PLAZA PEAJE KM. 0.000,00 AL KM. 6.500,00, Región de Valparaíso, que figura a nombre de CABELLO ANDRADE ANA LUCÍA, rol de avalúo 1171-51 de la comuna de Nogales, superficie 959 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 659 de 29 de noviembre de 2018, integrada por María Cristina Camus Palacios, Claudio Gonzalo Durán Massardo y Valeria Francisca Madariaga Tordecilla, fijó con fecha 11 de enero de 2019, el valor provisional de la indemnización en la cantidad de $5.090.700 para el lote N° 15. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
