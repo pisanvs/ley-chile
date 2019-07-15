@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 393, de 19 de junio de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N° 206 de 1960, lo señalado en el artículo 12° de la Ley N° 18.777, se expropió para ESVAL S.A., el lote de terreno N° 8, para la obra: ESTANQUE CANTERA BAJO Y ALIMENTADORAS, que figura a nombre de INVERSIONES TVA LIMITADA, rol de avalúo 804-1, Comuna de VILLA ALEMANA, REGIÓN DE VALPARAÍSO, superficie 1.786,8 m2. La Comisión de Peritos integrada por ÁLVARO DEL CARMEN VERDEJO VIDAL, ARCHIBALD HUGHES MONTEALEGRE y ISMAEL ALLENDES MARÍN, mediante informe de tasación de 20 de noviembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $40.286.980, para el lote N° 8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
