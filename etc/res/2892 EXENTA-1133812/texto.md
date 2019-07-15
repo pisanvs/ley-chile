@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 2.892, de fecha 19 de junio de 2019, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186, de 1978, del denominado Lote Nº 1, correspondiente al inmueble ubicado en Av. 18 Septiembre 777, Rol de Avalúo Nº 40-34, de la comuna de Paine, Región Metropolitana, de aparente dominio de Lobos Correa Luis Armando y otros, con una superficie aproximada de 3.000 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Construcción Apertura y Pavimentación Calle Benito del Villar de Paine". La Comisión de Peritos integrada por los señores Patricia Angélica Morales Rivera, Constructor Civil; Vilma Espinoza Zapatel, Ingeniero Civil, y Solange Alejandra Lagos Díaz, Arquitecto, mediante informe de fecha 11 de diciembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $441.669.000.-, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Director Serviu Metropolitano.
