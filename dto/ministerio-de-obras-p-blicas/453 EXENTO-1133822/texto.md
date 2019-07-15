@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 453 de 26 de junio de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 8, Rol de avalúo 2274-423, Comuna de Osorno, superficie 15 m2., para la obra CONSERVACIÓN RED VIAL LOS LAGOS (2015-2016-2017), PUENTE EPPLE, COMUNA Y PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por NORMAN ESTANISLAO CALDERÓN PONTIGGIA, SONIA CATALINA GALLEGOS BLANCH e INGRID BEATRIZ CONTRERAS NEIRA, fijó el valor de tasación con fecha 11 de julio de 2016, acordándose la indemnización con su propietario RENÉ ORLANDO MUÑOZ CARRASCO, en la cantidad de $732.678.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
