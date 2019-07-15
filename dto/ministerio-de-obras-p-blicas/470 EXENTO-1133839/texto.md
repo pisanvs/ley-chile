@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 470 de 26 de junio de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 118, Rol de avalúo 2217-959, Comuna de Osorno, superficie 266 m2., para la obra REPOSICIÓN PAVIMENTO RUTA U-40, SECTOR: OSORNO - INTERSECCIÓN RUTA U-52, COMUNA Y PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y CARMEN PILAR RÍOS MARCUELLO, fijó el valor de tasación con fecha 20 de noviembre de 2017, acordándose la indemnización con su propietario LUIS ALFONSO DELGADO AGÜERO, en la cantidad de $2.868.227.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
