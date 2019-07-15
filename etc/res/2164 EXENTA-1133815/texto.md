@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.164 de fecha 05/07/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 33-0," Inmueble rural ubicado en Coihueco, de este departamento, comuna de Temuco, provincia de Cautín, Región Novena que tiene una superficie de 0,14 Hás. (cero hectáreas catorce áreas), según plano IX-2-3669-SR", Rol de avalúo: 3205-130. La superficie a expropiar aproximada es de: 529,76 metros cuadrados, de aparente dominio de Alicia Currín Gaminao. Comisión de peritos integrada señores Claudio Alejandro Romo Sanhueza, Arturo Cantos Oyarzún y Mario Benjamín Gutiérrez Truan, fijó monto de indemnización provisional en $176.538.101.- según informe Nº 33-0, de fecha 4 de julio de 2019, pagadero contado.
+
+Director Serviu Región de la Araucanía.
