@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 441, de 19 de junio de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 77, 79 y 80, para la obra: MEJORAMIENTO RUTA 201-CH SECTOR: PELLAIFA - LIQUIÑE, REGIÓN LOS RÍOS, que figura a nombre de PAINEGUIR REINAHUEL FABIÁN MAURI, MELINAO HUICHAMAN VENANCIO y MELINAO HUICHAMAN VENANCIO, roles de avalúo 245-97, 245-130 y 245-130, Comuna de PANGUIPULLI, REGIÓN DE LOS RÍOS, superficies 63, 842 y 225 m2. respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YÁÑEZ RIFFO, MARÍA SOLEDAD NÚÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 2 de febrero de 2018, fijó el monto de la indemnización provisional en la cantidad de $672.900 para el lote N° 77, $7.871.700 para el lote N° 79, y $1.181.250 para el lote N° 80. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
