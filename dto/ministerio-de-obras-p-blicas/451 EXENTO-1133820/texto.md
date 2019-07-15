@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 451 de 26 de junio de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno B-1, Rol de avalúo 2456-845, Comuna de Valdivia, superficie 2.882,82 m2., para la obra MEJORAMIENTO CALETA PESCADORES BONIFACIO, COMUNA DE VALDIVIA, PROVINCIA DE VALDIVIA, REGIÓN DE LOS RÍOS. La comisión de peritos, integrada por NORMAN ESTANISLAO CALDERÓN PONTIGGIA, MARÍA JOSÉ FREIRE ALLENDES y GUSTAVO LACRAMPE HOLTHEUER, fijó el valor de tasación con fecha 22 de noviembre de 2017, acordándose la indemnización con su propietario ROBERTO LEONEL QUINAN PAILLALEF, en la cantidad de $18.318.559.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
