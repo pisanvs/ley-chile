@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.167, de fecha 05/07/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote Nº 37-0, consistente en propiedad rural ubicada en el lugar Coihueco, camino a Tromén a inmediaciones de esta ciudad, de una cabida de cero coma noventa y cinco áreas. (Rectificación: Por resolución de fecha 5 de abril del año 2001 dictada por el Segundo Juzgado Civil de Mayor Cuantía de Temuco, Causa Rol 9526 se ordenó consignar que la superficie del predio es de 0,95 hectáreas), Rol de avalúo: 3205-129 y 3205-38. La superficie a expropiar aproximada es de: 878,48 metros cuadrados, de aparente dominio de Margen Selva Lemp Paredes. Comisión de peritos integrada señores Claudio Alejandro Romo Sanhueza, Arturo Cantos Oyarzún y Mario Benjamín Gutiérrez Truán, fijó monto de indemnización provisional en $128.348.646.- según informe Nº 37-0, de fecha 4 de julio de 2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
