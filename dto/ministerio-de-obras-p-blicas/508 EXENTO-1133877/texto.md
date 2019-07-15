@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 508 de 28 de junio de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropiaron los lotes de terreno 39, 40 y 41, Rol de avalúo 2213-171, Comuna de Hualaihue, superficies 212, 150 y 754 m2. respectivamente, para la obra MEJORAMIENTO RUTA 7. SECTOR: PUENTE PUÑON - PUENTE CISNE, COMUNA DE HUALAIHUE, PROVINCIA DE PALENA, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por NELSON BERNARDO TURRA TURRA, JUAN SAMUEL BARRIENTOS BAHAMONDE y LEOPOLDO RAMÓN SCHUMACHER GUARDA, fijó el valor de tasación con fecha 25 de agosto de 2013, acordándose la indemnización con su propietaria JULIANA DÍAZ, en la cantidad de $689.599.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
