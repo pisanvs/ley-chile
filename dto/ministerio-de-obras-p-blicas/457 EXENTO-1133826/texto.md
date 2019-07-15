@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 457 de 26 de junio de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 156, Rol de avalúo 156-60, Comuna de Quemchi, superficie 282 m2., para la obra MEJORAMIENTO RUTA W-175, SECTOR: LINAO - QUEMCHI, COMUNA DE QUEMCHI, ANCUD, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y CARMEN PILAR RIOS MARCUELLO, fijó el valor de tasación con fecha 10 de julio de 2017, acordándose la indemnización con su propietario CARLOS EDUARDO SOTO PAREDES, en la cantidad de $2.977.644.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
