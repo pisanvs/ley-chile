@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 423, de 19 de junio de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 26 y 28, para la obra: MEJORAMIENTO RUTA F-190 S: VALLE ALEGRE-PUCHUNCAVÍ, que figuran a nombre de ACEVEDO BRUNA MARÍA Y OTROS, roles de avalúo 195-1 y 195-1, Comuna de PUCHUNCAVÍ, REGIÓN DE VALPARAÍSO, superficies 1.180 y 120 m2. respectivamente. La Comisión de Peritos integrada por YAZMÍN MERCEDES BALBOA ROJAS, HERMAN EDGARDO FIGUEROA ZÚÑIGA y PEDRO IGNACIO ZEGERS RIESCO, mediante informe de tasación de 21 de abril de 2017, fijó el monto de la indemnización provisional en la cantidad de $4.884.687, para el lote N° 26 y $532.000, para el lote N° 28. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
