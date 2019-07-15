@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 437, de 19 de junio de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP N° 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 49-B, para la obra "Reposición Pav. Ruta M-50, Sector Chanco - Constitución", Tramo III Pellines - Cruce Viñales, kilómetro 78,36200 a km. 100,90000, que figura a nombre de VALDÉS FAUNDES EMILIO ENRIQUE, rol de avalúo 466-26, Comuna de Constitución, Región del Maule, superficie 108 m2. La Comisión de Peritos integrada por PAULA SOLEDAD GONZÁLEZ ORTEGA, RODRIGO ANTONIO SILVA LAZO y PATRICIO ULISES DURÁN MARCOS, mediante informe de tasación de 15 de diciembre de 2014, fijó el monto de la indemnización provisional en la cantidad de $2.000.900.- para el lote N° 49-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
