@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE LA ARAUCANÍA, A DON EUGENIO RODRIGO BENAVENTE HORMAZÁBAL
+
+Mediante decreto exento Nº E-294, de 21 de junio de 2019, el Ministerio de Bienes Nacionales otorgó en concesión onerosa directa, a don Eugenio Rodrigo Benavente Hormazábal, RUT Nº 10.587.588-6, el inmueble fiscal ubicado en el Parque Nacional Villarrica, en el sector de Puesco-Las Avutardas, comuna de Curarrehue, provincia de Cautín, Región de la Araucanía, enrolado en el Servicio de Impuestos Internos bajo el Rol Nº 168-19; amparado por la inscripción fiscal en mayor cabida a nombre del Fisco que rola a fs. 2518 Nº 2036 del Registro de Propiedad correspondiente al año 2010, del Conservador de Bienes Raíces de Pucón; singularizado en el Plano Nº 09104-18.178-C.R.; de una superficie total de terreno de 1,52 Ha. La Concesión se otorga por un plazo de 10 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la Concesión del inmueble será de UF 180 al valor vigente que ésta tenga a la fecha de su pago efectivo, que se devengará por cada año contractual, desde el primer al quinto año de concesión. Desde el sexto al décimo año de vigencia de la concesión, la renta será equivalente a UF 250.
+
+La Concesión se otorga para la administración del Camping Las Avutardas y al desarrollo del proyecto complementario. El contrato de concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefa División Jurídica.
