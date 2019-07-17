@@ -48,6 +48,16 @@ AERONAVE DE PASAJEROS
 
 Toda aeronave que transporta a alguna persona, aparte de la tripulación, algún empleado del explotador que vuela por razones de trabajo, algún representante autorizado de la DGAC o alguna persona que acompañe a un envío.
 
+APROBACIÓN
+
+Autorización otorgada por la DGAC:
+
+a) Para transportar las mercancías peligrosas prohibidas en aeronaves de pasajeros o de carga, cuando las Instrucciones Técnicas se establece que dichas mercancías pueden trasportarse con una aprobación; o bien.
+
+b) Para otros fines especificados en las Instrucciones Técnicas.
+
+Si no hay referencia específica en las Instrucciones Técnicas para permitir el otorgamiento de una aprobación, se podrá pedir una dispensa a la DGAC.
+
 ARTÍCULO EXPLOSIVO
 
 Todo artículo que contiene una o más sustancias explosivas.
@@ -64,29 +74,29 @@ BULTO
 
 El producto final de la operación de empacado, que comprende el embalaje en sí y su contenido preparado en forma idónea para el transporte.
 
-DENOMINACIÓN DE ARTÍCULO EXPE-DIDO
+DENOMINACIÓN DE ARTÍCULO EXPEDIDO
 
 Nombre del artículo o sustancia peligrosa utilizado, en todos los documentos y notificaciones de expedición, y en los bultos.
 
 DISPENSA
 
-Autorización de la DGAC, que exime a quien lo solicite, de lo previsto en alguna disposición de este Reglamento.
+Toda autorización, que no sea una aprobación, otorgada por la DGAC que exime de lo previsto en las Instrucciones Técnicas o de lo previsto en este Reglamento.
 
 DISPOSITIVO DE CARGA UNITARIZADA
 
-Toda variedad de contenedor de carga, contenedor de aeronave, paleta de aeronave con red sobre un iglú (no se incluyen en esta definición los sobre embalajes).
+Toda variedad de contenedor de carga, contenedor de aeronave, paleta de aeronave con red o paleta de aeronave con red sobre un iglú (no se incluyen en esta definición los sobre embalajes).
 
 EMBALAJES
 
 Los receptáculos y demás componentes o materiales necesarios para que el receptáculo sea idóneo a su función de contención y permita satisfacer las condiciones de embalaje previstas en el presente Reglamento.
 
-EMBALAR
-
-El arte y operación mediante la cual se empaquetan artículos o sustancias en envoltura, se colocan dentro de embalajes o bien se resguardan de alguna otra manera.
-
 ENVÍO
 
 Uno o más bultos de mercancías peligrosas que un explotador acepta de un expedidor de una sola vez y en un mismo sitio, recibido en un lote y despachado a un mismo consignatario y dirección.
+
+ESTADO DE DESTINO
+
+El Estado en cuyo territorio se ha de descargar finalmente el envío transportado por una aeronave.
 
 ESTADO DEL EXPLOTADOR
 
@@ -94,7 +104,7 @@ El Estado donde radica la sede comercial del Explotador, o en su defecto, en el 
 
 ESTADO DE ORIGEN
 
-El Estado en cuyo territorio se cargó inicialmente la mercancía a bordo de alguna aeronave.
+El Estado en cuyo territorio se ha de cargar inicialmente el envío en una aeronave..
 
 EXCEPCIÓN
 
@@ -107,10 +117,6 @@ Es la persona que utiliza la aeronave por cuenta propia con o sin fines de lucro
 INCIDENTE IMPUTABLE A MERCANCÍAS PELIGROSAS
 
 Toda ocurrencia atribuible al transporte aéreo de mercancías peligrosas y relacionadas con él - que no constituye un accidente imputable a mercancías peligrosas y que no tiene que producirse necesariamente a bordo de alguna aeronave - que ocasiona lesiones a algunas personas, daños a la propiedad, medio ambiente, incendio, ruptura, derramamiento, fugas de fluidos, radiación o cualquiera otra manifestación de que se ha vulnerado la integridad de algún embalaje. También se considera incidente imputable a mercancías peligrosas, toda ocurrencia relacionada con el transporte de mercancías peligrosas que pueda haber puesto en peligro a la aeronave o a sus ocupantes.
-
-INCOMPATIBLE
-
-Se describen así aquellas mercancías peligrosas que, de mezclarse, podrían generar, peligrosamente, calor o gases, o producir alguna sustancia corrosiva.
 
 LESIÓN GRAVE
 
@@ -142,11 +148,15 @@ MUESTRAS PARA DIAGNÓSTICO (DIAGNOSTIC SPECIMENS)
 
 Cualquier materia animal o humana que incluya entre otras cosas, excreciones, secreciones, sangre y sus componentes, tejidos y fluidos de tejidos, que se envían para su diagnóstico con exclusión de los animales infectados.
 
-NÚMERO DE LA ONU
+NÚMERO ONU
 
-Número de cuatro dígitos asignado por el Comité de Expertos en transporte de mercaderías peligrosas, de las Naciones Unidas, que sirven para reconocer las diversas sustancias o determinado grupo de ellas.
+Número de cuatro dígitos asignado por el Comité de Expertos en transporte de mercaderías peligrosas, y en el Sistema Globalmente Armonizado de Clasificación y Etiquetado de Productos Químicos de las Naciones Unidas, que sirven para reconocer los diversos objetos o sustancias o un determinado grupo de objetos o sustancias.
 
 NÚMERO ID: Número de identificación provisional para los productos que no se ha asignado un número ONU.
+
+OPERADOR POSTAL DESIGNADO
+
+De acuerdo a lo establecido en el decreto N° 394, de 1957, del Ministerio del Interior, en relación al DFL-10, de 1981, del Ministerio de Transportes y Telecomunicaciones, la Empresa Correos de Chile, fue designada oficialmente por Estado como miembro de la Unión Postal Universal (UPU) para operar los servicios postales y cumplir con las correspondientes obligaciones derivadas de las actas del Convenio de la UPU en su territorio.
 
 PILOTO AL MANDO
 
@@ -154,11 +164,9 @@ Piloto designado por el explotador en cada operación aérea, para estar al mand
 
 SOBRE EMBALAJE
 
-Embalaje utilizado por un expedidor único que contenga uno o más bultos y constituya una unidad para facilitar su manipulación y estiba;
+Embalaje utilizado por un expedidor único que contenga uno o más bultos y constituya una |unidad para facilitar su manipulación y estiba;
 
 no se incluyen en esta definición los dispositivos de carga unitarizada.
-
-SUSTANCIA EXPLOSIVA: Toda sustancia (o mezcla de sustancia) sólida o líquida que de manera espontánea, por reacción química, puede desprender gases a una temperatura, a una presión y a una velocidad tales que causen daños en torno a ella; en esta definición entran las sustancias pirotécnicas aún cuando no desprendan gases. No se incluyen aquellas sustancias que de si no son explosivas, pero que pueden engendrar una atmósfera explosiva de gas, vapor o polvo.
 
 ## Capítulo 2
 
@@ -190,19 +198,35 @@ Además, incluirá antecedentes respecto de la clase, tipo, cantidad, procedenci
 
 2.1.4 Toda mercancía peligrosa que ingrese a los Aeródromos y se desplace en su interior para ser transportada, será controlada por la autoridad aeroportuaria. Para este efecto, deberá permanecer separada de otro tipo de carga para su rápida identificación. Dicha mercancía deberá permanecer el menor tiempo posible en los recintos aeroportuarios, debiendo contar previamente con toda la documentación tramitada.
 
-2.1.5 Los pasajeros y el personal de vuelo no podrán transportar mercancías peligrosas en su persona, equipaje de mano o equipaje facturado, a menos que se cumpla con lo establecido en el párrafo 2.2.
+2.1.5 Los pasajeros y el personal de vuelo no podrán transportar mercancías peligrosas en su persona, equipaje de mano o equipaje de bodega, a menos que se cumpla con lo establecido en el párrafo 2.2.
 
 2.2 "INSTRUCCIONES TÉCNICAS" SOBRE MERCANCÍAS PELIGROSAS
 
 Todas las operaciones de transporte por vía aérea de mercancías peligrosas clasificadas de acuerdo a lo prescrito en este Reglamento, deberán ceñirse a las disposiciones de detalle, contenidas en el documento OACI 9284-AN/905 "Instrucciones Técnicas para el Transporte sin Riesgo de Mercancías Peligrosas por Vía Aérea y su Suplemento" - en adelante "Instrucciones Técnicas" - sancionado por el Consejo de la Organización de Aviación Civil Internacional, adoptado y aprobado por la Dirección General de Aeronáutica Civil.
 
+2.2.2. La DGAC informará a la OACI las dificultades encontradas en la aplicación de las Instrucciones Técnicas y sugerirá las modificaciones que convendría introducir en las mismas
+
 2.3 EXCEPCIONES
 
 2.3.1 Los artículos y sustancias que deberían clasificarse como mercancías peligrosas, pero que, de conformidad con los requisitos de aeronavegabilidad y con los reglamentos de operación pertinentes o con los fines especializados que se determinen en las "Instrucciones Técnicas", sea preciso llevar a bordo de las aeronaves, por ser necesario para la operación de ésta, estarán exceptuadas de las disposiciones de este Reglamento.
 
-2.3.2 Cuando alguna aeronave lleve artículos y sustancias que sirvan para reponer a las descritas en 2.3.1, se transportarán de conformidad con lo previsto en el presente Reglamento, salvo que las "Instrucciones Técnicas" indiquen que se puede hacer de alguna otra manera.
+2.3.2 Cuando alguna aeronave lleve artículos y sustancias que sirvan para reponer a las descritas en 2.3.1 o que se hayan quitado para sustituirlos, se transportarán de conformidad con lo previsto en el presente Reglamento, salvo que las "Instrucciones Técnicas" indiquen que se puede hacer de alguna otra manera.
 
-2.3.3 Los artículos y sustancias clasificados como mercancías peligrosas, destinados exclusivamente para uso personal de los pasajeros y miembros de la tripulación, se considerarán exceptuados de lo previsto en el presente Reglamento, y podrán transportarse en las condiciones que sobre el particular establecen las "Instrucciones Técnicas".
+2.3.3 Los artículos y sustancias transportados por los pasajeros y miembros de la tripulación, se considerarán exceptuados de lo previsto en el presente Reglamento, y podrán transportarse en las condiciones que sobre el particular establecen las "Instrucciones Técnicas".
+
+2.4 NOTIFICACIÓN DE DISCREPANCIAS RESPECTO A LAS INSTRUCCIONES TÉCNICAS.
+
+2.4.1 La DGAC notificará a la OACI toda discrepancia que difiera de lo previsto en las Instrucciones Técnicas.
+
+2.4.2 El explotador de aeronaves deberá informar a la DGAC cuando adopte condiciones más restrictivas que las especificadas en las Instrucciones Técnicas, para notificar a la OACI las discrepancias de ese explotador.".
+
+2.5 TRANSPORTE DE SUPERFICIE.
+
+Se adoptarán las medidas para permitir que las mercancías peligrosas destinadas a su transporte por vía aérea y preparadas con arreglo a las Instrucciones Técnicas de la OACI sean aceptadas para su transporte por medios de superficie hacia y desde los aeródromos.
+
+2.6 AUTORIDAD AERONÁUTICA.
+
+La Dirección General de Aeronáutica Civil (DGAC) será la responsable de fiscalizar el cumplimiento del presente Reglamento.
 
 ## Capítulo 3
 
@@ -318,9 +342,11 @@ El transporte de mercancías peligrosas por vía aérea está prohibido, salvo q
 
 4.2 MERCANCÍAS PELIGROSAS CUYO TRANSPORTE POR VÍA AÉREA ESTÁ PROHIBIDO, SALVO DISPENSA
 
-El transporte de las mercancías peligrosas que se describen a continuación, está prohibido en las aeronaves, salvo dispensa de la Dirección General de Aeronáutica Civil según lo previsto en 2.1, o a menos que en las disposiciones de las "Instrucciones Técnicas" se indique que se pueden transportar con autorización extendida por el Estado de origen:
+El transporte de las mercancías peligrosas que se describen a continuación, está prohibido en las aeronaves, salvo dispensa de la Dirección General de Aeronáutica Civil según lo previsto en 2.1, o a menos que en las disposiciones de las "Instrucciones Técnicas" se indique que se pueden transportar con aprobación otorgada por el Estado de origen:
 
-a) Los artículos y sustancias cuyo transporte figura como prohibido en las "Instrucciones Técnicas", en circunstancias normales; y b) Los animales vivos infectados
+a) Las mercancías peligrosas cuyo transporte figura como prohibido en las "Instrucciones Técnicas", en circunstancias normales; y
+
+b) Los animales vivos infectados
 
 4.3 MERCANCÍAS PELIGROSAS CUYO TRANSPORTE POR VÍA AÉREA ESTÁ PROHIBIDO
 
@@ -346,7 +372,7 @@ h) Los líquidos radiactivos que sean pirofóricos.
 
 i) Los sólidos inflamables y los peróxidos orgánicos que, previo ensayo, tengan propiedades explosivas y que estén embalados de tal forma que el procedimiento de clasificación requiera colocar la etiqueta correspondiente a los explosivos como riesgo subsidiario.
 
-4.4 El explotador deberá informar a los pasajeros sobre las mercancías peligrosas que se encuentran prohibidas de transportar en el equipaje de mano, facturado o consigo mismo.
+4.4 El explotador deberá informar a los pasajeros sobre las mercancías peligrosas que se encuentran prohibidas de transportar en el equipaje de mano, de bodega o consigo mismo.
 
 4.5 El transporte de sustancias infecciosas requiere que el expedidor previamente coordine con el explotador la confirmación del consignatario, respecto a la importación o exportación legal de la sustancia. Esta información debe ser proporcionada por el explotador a la autoridad aeronáutica.
 
@@ -376,19 +402,17 @@ especificaciones de las "Instrucciones Técnicas" con respecto a su material y c
 
 5.2.5 Los embalajes con la función básica de retener un líquido, serán capaces de resistir sin fugas las presiones estipuladas en las "Instrucciones Técnicas".
 
-5.2.6 Los embalajes interiores se embalarán, afianzarán o protegerán contra choques, para impedir su rotura o derrame y controlar su movimiento dentro del embalaje o sobre embalaje, en las condiciones normales de transporte aéreo. El material de relleno y absorbente no deberá reaccionar peligrosamente con el contenido de los recipientes.
+5.2.6 Los embalajes interiores se embalarán, afianzarán o protegerán contra choques, para impedir su rotura o derrame y controlar su movimiento dentro del embalaje o sobre embalaje, en las condiciones normales de transporte aéreo. El material de relleno y absorbente no deberá reaccionar peligrosamente con el contenido de los embalajes.
 
-5.2.7 Ningún recipiente se utilizará de nuevo antes de que haya sido inspeccionado y se compruebe que está exento de corrosión u otros daños.
+5.2.7 Ningún embalaje se utilizará de nuevo antes de que haya sido inspeccionado y se compruebe que está exento de corrosión u otros daños.
 
 Cuando vuelva a utilizarse un recipiente, se tomarán todas las medidas necesarias para impedir la contaminación de nuevos contenidos.
 
-5.2.8 Si, debido a la naturaleza del contenido de su anterior uso, los recipientes vacíos que no se hayan limpiado pueden entrañar algún riesgo, se cerrarán herméticamente y se tratarán según el riesgo que entrañen.
+5.2.8 Si, debido a la naturaleza del contenido de su anterior uso, los embalajes vacíos que no se hayan limpiado pueden entrañar algún riesgo, se cerrarán herméticamente y se tratarán según el riesgo que entrañen.
 
 5.2.9 No estará adherida a la parte exterior de los bultos ninguna sustancia peligrosa en cantidades que puedan causar daños.
 
-5.3 TAMAÑO DE LOS BULTOS
-
-A reserva de lo previsto en las "Instrucciones Técnicas", los bultos serán de un tamaño tal que permita poner en ellos las etiquetas y marcas necesarias para facilitar su identificación.
+5.3 Eliminado.
 
 5.4 CERTIFICACIÓN DE EMBALAJES
 
@@ -414,7 +438,7 @@ El expedidor verificará que las marcas y etiquetas que se coloquen en cada bult
 
 6.2.1 A menos que las "Instrucciones Técnicas" indiquen lo contrario, todo bulto de mercancías peligrosas llevará las etiquetas apropiadas, de conformidad con lo previsto en dichas Instrucciones.
 
-6.2.2 Se permitirá el uso de otras etiquetas, siempre que no puedan confundirse con las etiquetas exigidas por este reglamento, debido a su color, diseño o formato.
+6.2.2 Eliminado.
 
 6.3 MARCAS
 
@@ -434,11 +458,9 @@ OBLIGACIONES DEL EXPEDIDOR
 
 7.1.1 Antes de que una persona entregue algún bulto o sobre embalaje que contenga mercancías peligrosas para transportarlas en aeronaves, se cerciorará de que el transporte por vía aérea de esas mercancías no esté prohibido y de que estén correctamente clasificadas, embaladas, marcadas, etiquetadas y acompañadas del correspondiente documento de transporte de mercancías peligrosas debidamente ejecutado, tal cual prevén este Reglamento y las "Instrucciones Técnicas".
 
-7.1.2 Para el transporte de muestras para
+7.1.2 Eliminado.
 
-diagnóstico se deberá presentar la documentación médica del hospital o clínica, certificando que la sustancia no contiene agentes patógenos que la hagan clasificable como sustancia infecciosa.
-
-7.2 EMBARQUE DE MERCANCÍAS PELIGROSAS
+7.2 DOCUMENTO DE TRANSPORTE DE MERCANCÍAS PELIGROSAS
 
 7.2.1 El expedidor que entrega mercancías
 
@@ -456,6 +478,8 @@ e) Las Autorizaciones que corresponda emitir a otras autoridades, acorde al tipo
 
 f) Documento que acredita las pruebas de ensayo de los embalajes, cuando sea requerido.
 
+7.2.1 bis A menos que en las Instrucciones Técnicas se indique de otro modo, quien entregue mercancías peligrosas para su transporte por vía aérea llenará, firmará y proporcionará al explotador un documento de transporte de mercancías peligrosas que contendrá los datos requeridos en aquellas Instrucciones.
+
 7.2.2 El documento de transporte irá acompañado de una declaración firmada por quien entregue mercancías peligrosas para transportar, indicando que dichas mercancía se han descrito total y correctamente por su denominación y que están clasificadas, embaladas, marcadas, etiquetadas y debidamente acondicionadas para su transporte por vía aérea, de conformidad con las disposiciones pertinentes.
 
 7.3 IDIOMAS UTILIZADOS
@@ -464,9 +488,7 @@ En Chile y para las rutas nacionales, el documento de transporte de mercancías 
 
 ## Capítulo 8
 
-OBLIGACIONES DEL EXPLOTADOR AL ACEPTAR EL ENVÍO DE
-
-MERCANCÍAS PELIGROSAS
+OBLIGACIONES DEL EXPLOTADOR
 
 8.1 ACEPTACIÓN DE MERCANCÍAS PARA TRANSPORTAR
 
@@ -500,15 +522,17 @@ b) Hoja de datos de seguridad del producto, y c) Otras autorizaciones, según co
 
 Para la aceptación el explotador preparará y utilizará una lista de verificación que le sirva de ayuda para ceñirse a lo dispuesto en 8.1.
 
-8.3 AVERÍAS O PÉRDIDAS
+8.3 INSPECCIÓN PARA AVERIGUAR SI SE HAN PRODUCIDO AVERÍAS O PÉRDIDAS
 
-8.3.1 Los bultos y sobre embalajes que contengan mercancías peligrosas y los contenedores de carga que encierren materiales radiactivos, se inspeccionarán por personal con las competencias y equipos necesarios, para averiguar si se han producido fugas o averías antes de estibarlos en una aeronave o en un dispositivo de carga unitarizada y confirmada una pérdida o avería en dichas mercancías, no serán estibadas en aeronave alguna.
+8.3.1 Los bultos y sobre embalajes que contengan mercancías peligrosas y los contenedores de carga que contengan materiales radiactivos, se inspeccionarán por personal con las competencias y equipos necesarios, para averiguar si se han producido fugas o averías antes de estibarlos en una aeronave o en un dispositivo de carga unitarizada y confirmada una pérdida o avería en dichas mercancías, no serán estibadas en aeronave alguna.
 
-8.3.2 No se estibará a bordo de ninguna aeronave, dispositivo de carga unitarizada alguno, a menos que se haya inspeccionado previamente y comprobado que no hay trazas de pérdidas o averías que puedan afectar las mercancías peligrosas que contenga dicha carga.
+8.3.2 No se estibará a bordo de ninguna aeronave, dispositivo de carga unitarizada alguno, a menos que se haya inspeccionado previamente y comprobado que no hay trazas de pérdidas o averías que puedan afectar las mercancías peligrosas que
+
+contenga dicha carga.
 
 8.3.3 Cuando algún bulto de mercancías peligrosas cargado a bordo de una aeronave tenga averías o pérdidas, el explotador lo descargará de la aeronave, o de ser necesario, hará lo conducente para que se encargue de ello el organismo competente según la mercancía que se trate. Luego se cerciorará de que el resto del envío se halle en buenas condiciones para su transporte por vía aérea y que no haya quedado contaminado ningún otro bulto.
 
-8.3.4 Los bultos o sobre embalajes que contengan mercancías peligrosas y los contenedores de carga que encierren materiales radiactivos se inspeccionarán para detectar signos de averías o pérdidas al descargarlos de la aeronave o dispositivo de carga unitarizada.
+8.3.4 Los bultos o sobre embalajes que contengan mercancías peligrosas y los contenedores de carga que contengan materiales radiactivos se inspeccionarán para detectar signos de averías o pérdidas al descargarlos de la aeronave o dispositivo de carga unitarizada.
 
 Si se comprueba que se han producido averías o pérdidas, se inspeccionará la zona en que se habían estibado en la aeronave las mercancías peligrosas o el dispositivo de carga unitarizada, para averiguar si se han producido daños o contaminación.
 
@@ -518,7 +542,7 @@ No se estibarán mercancías peligrosas en la cabina de ninguna aeronave ocupada
 
 8.5 ELIMINACIÓN DE LA CONTAMINACIÓN
 
-8.5.1 Se eliminará sin demora toda contaminación que se encuentre en una aeronave o recinto aeronáutico como resultado de las pérdidas o averías sufridas por mercancías peligrosas, teniendo como marco regulador de aquello la ley de bases generales del medio ambiente, Ley Nº19.300.
+8.5.1 Se eliminará sin demora toda contaminación peligrosa que se encuentre en una aeronave o recinto aeronáutico como resultado de las pérdidas o averías sufridas por mercancías peligrosas, teniendo como marco regulador de aquello la ley de bases generales del medio ambiente, Ley Nº19.300.
 
 8.5.2 Toda aeronave que haya quedado contaminada por materiales radiactivos se retirará inmediatamente de servicio y no se reintegrará a él antes de que el nivel de radiación de toda superficie accesible y la contaminación radiactivo transitoria sean inferiores a los valores especificados en las "Instrucciones Técnicas".
 
@@ -536,9 +560,9 @@ peligrosas capaces de reaccionar entre sí en forma riesgosa, no se estibarán e
 
 Cuando se carguen en una aeronave mercancías peligrosas supeditadas a las disposiciones aquí descritas, el explotador las protegerá para evitar que se averíen. Asimismo, el explotador tiene que sujetarlas a bordo de modo tal que no puedan moverse en vuelo alterando la posición en que se hayan colocado los bultos. Los bultos que contengan sustancias radiactivas se afianzarán debidamente para satisfacer, en todo momento, los requisitos de separación previstos en 8.6.3.
 
-8.8 ESTIBA A BORDO DE LAS AERONAVES DE CARGA
+8.8 CARGA A BORDO DE LAS AERONAVES DE CARGA
 
-A reserva de lo previsto en las "Instrucciones Técnicas", los bultos de mercancías peligrosas que lleven la etiqueta "Exclusivamente en aeronaves de carga", se estibarán de modo tal que algún miembro de la tripulación o alguna º persona autorizada pueda verlos, manipularlos y cuando su tamaño y peso lo permitan, separarlos en vuelo de las otras mercancías estibadas a bordo, siempre y cuando no afecten en alguna forma la seguridad operacional del vuelo.
+Los bultos de mercancías peligrosas que lleven la etiqueta "Exclusivamente en aeronaves de carga" se cargarán de conformidad con las disposiciones que figuran en las Instrucciones Técnicas.
 
 8.9 CARGA Y ESTIBA
 
@@ -590,17 +614,17 @@ Todo explotador facilitará, en su manual de operaciones, información apropiada
 
 9.4 INFORMACIÓN PARA LOS PASAJEROS
 
-9.4.1 Todo explotador tiene que cerciorarse de que la información se difunda de manera tal que los pasajeros sepan qué clase de mercancía les está prohibido transportar a bordo de las aeronaves, tanto en equipaje facturado como en equipaje de mano.
+9.4.1 Todo explotador tiene que cerciorarse de que la información se difunda de manera tal que los pasajeros sepan qué clase de mercancía les está prohibido transportar a bordo de las aeronaves, tanto en equipaje de bodega como en equipaje de mano.
 
 9.4.2 Como mínimo, esta información tiene que consistir en un aviso colocado prominentemente en cada puesto aeroportuario en que el explotador venda pasajes, facture el equipaje y tenga recintos de espera para los pasajeros de embarque
 
 9.5 INFORMACIÓN PARA TERCEROS
 
-Los explotadores, expedidores y demás entidades involucradas en el transporte de mercancías peligrosas por vía aérea, facilitarán a su personal información apropiada que le permita desempeñar su cometido en lo relativo al transporte de mercancías peligrosas, y facilitarán, asimismo, instrucciones acerca de las medidas que haya que adoptar en el caso de que surjan situaciones de emergencia en las que se vean envueltas mercancías peligrosas.
+Los explotadores, expedidores y demás entidades involucradas en el transporte de mercancías peligrosas por vía aérea, facilitarán a su personal información apropiada que le permita desempeñar su cometido en lo relativo al transporte de mercancías peligrosas, y facilitarán, asimismo, instrucciones acerca de las medidas que haya que adoptar en el caso de que surjan situaciones de emergencia en las que intervengan mercancías peligrosas.
 
 9.6 INFORMACIÓN DEL PILOTO AL MANDO PARA LA ADMINISTRACIÓN AEROPORTUARIA
 
-De presentarse en vuelo alguna situación de emergencia, el piloto al mando deberá informar a la dependencia apropiada de los Servicios de Tránsito Aéreo, para que ésta a su vez lo transmita a la Administración Aeroportuaria, de la presencia de mercancías peligrosas a bordo.
+De presentarse en vuelo alguna situación de emergencia, el piloto al mando deberá informar a la dependencia apropiada de los Servicios de Tránsito Aéreo, tan pronto la situación lo permita, para que ésta a su vez lo transmita a la Administración Aeroportuaria, de la presencia de mercancías peligrosas a bordo de la aeronave, según lo dispuesto en las Instrucciones Técnicas.
 
 De permitirlo la situación, esta información deberá ser lo más completa posible respecto de la identificación del producto, los riesgos, cantidad y ubicación de dichas mercancías.
 
@@ -626,19 +650,19 @@ Aeronáutica Civil.
 
 ## Capítulo 10
 
-CAPACITACIÓN E INSPECCIÓN
+PROGRAMAS DE INSTRUCCIÓN
 
-10.1 CAPACITACIÓN Y ENTRENAMIENTO
+10.1 Establecimiento de programas de instrucción
 
-Las empresas aéreas y explotadores de aeronaves establecerán y actualizarán programas de capacitación sobre mercancías peligrosas, de conformidad con lo prescrito en las
+Se establecerán y mantendrán programas de instrucción inicial y de repaso sobre mercancías peligrosas, de conformidad con lo prescrito en las Instrucciones Técnicas.
 
-"Instrucciones Técnicas", los que deberán ser sometidos a la consideración de la Dirección General de Aeronáutica Civil para su aprobación.
+10.2 APROBACIÓN DE LOS PROGRAMAS DE INSTRUCCIÓN
 
-El personal que se desempeñe en alguna instancia de manejo de mercancías peligrosas debe contar con la instrucción correspondiente a su determinado nivel de desempeño.
+Los explotadores de aeronaves con Certificado de Operador Aéreo Chileno deberán contar con un programa de instrucción de mercancías peligrosas aprobado por la DGAC. Los explotadores de aeronaves con Certificado de Operador Aéreo extranjero deberán acreditar ante la DGAC la aprobación de un programa de instrucción en mercancías peligrosas por parte del Estado del Operador.
 
-10.2 SISTEMA DE INSPECCIÓN
+10.2.2 El operador postal designado deberá contar con un programa de instrucción de mercancías peligrosas aprobado por la DGAC.
 
-La Dirección General de Aeronáutica Civil instituirá los procedimientos necesarios para la inspección y vigilancia, que sean aplicables al transporte de mercancías peligrosas por vía aérea.
+10.2.3 Las entidades que tengan responsabilidades en el manejo de mercancías peligrosas deberán contar con un programa de instrucción de mercancías peligrosas aprobado por la DGAC.
 
 ## Capítulo 11
 
@@ -647,6 +671,8 @@ INFORMACIÓN SOBRE ACCIDENTES E INCIDENTES IMPUTABLES AL TRANSPORTE DE MERCANCÍ
 11.1 Con el objeto de prevenir la repetición de accidentes e incidentes imputables al transporte aéreo de mercancías peligrosas, la Dirección General de Aeronáutica Civil, cuando sea necesario, instituirá procedimientos que permitan investigar y recopilar datos sobre los accidentes e incidentes de esa índole, que ocurran en el territorio nacional o extranjero cuando los vuelos se hayan iniciado o tengan como término el territorio nacional. Los informes de esos accidentes e incidentes se redactarán de conformidad con las disposiciones detalladas pertinentes contenidas en las Instrucciones Técnicas.
 
 11.2 Con el objeto de prevenir la repetición de accidentes e incidentes imputables al transporte de mercancías peligrosas, la Dirección General de Aeronáutica Civil podrá instituir procedimientos que permitan investigar y recopilar datos sobre los accidentes e incidentes de esa índole que ocurran en el territorio nacional, en circunstancias distintas de las descritas en 11.1. Los informes de esos accidentes e incidentes deberán redactarse de conformidad con las disposiciones detalladas pertinentes contenidas en las "Instrucciones Técnicas".
+
+11.3 Con objeto de prevenir hallazgos en la carga de mercancías peligrosas no declaradas o mal declaradas, la Dirección General de Aeronáutica Civil instituirá procedimientos para investigar y recopilar datos sobre los hallazgos de esa índole que ocurran en territorio nacional y que sean imputables al transporte de mercancías peligrosas que se haya iniciado en o vaya a otro Estado. Los informes de estos casos se prepararán de conformidad con las disposiciones detalladas pertinentes contenidas en las Instrucciones Técnicas.
 
 ## Capítulo 12
 
@@ -664,11 +690,15 @@ VERIFICACIÓN DE CUMPLIMIENTO
 
 12.1.5 Los pasajeros que transporten artículos explosivos sin contar con la debida autorización o que no cumplan lo exigido en las "Instrucciones Técnicas", serán puestos a disposición del organismo policial más cercano.
 
-12.1.6 El transporte de material radiactivo deberá cumplir las disposiciones legales y reglamentarias específicas, debiendo contar con la autorización de diseño del bulto, emitida por la Comisión Chilena de Energía Nuclear (COCHEN) o por una empresa certificada por dicho organismo. La DGAC podrá fiscalizar este transporte y verificar que el índice de transporte y de actividad específica del material se encuentren de acuerdo a lo señalado en las "Instrucciones Técnicas".
+12.1.6 El transporte de material radiactivo deberá cumplir las disposiciones legales y reglamentarias específicas, debiendo contar con la autorización de diseño del bulto, emitida por la Comisión Chilena de Energía Nuclear (CCHEN) o por una empresa certificada por dicho organismo. La DGAC podrá fiscalizar este transporte y verificar que el índice de transporte y de actividad específica del material se encuentren de acuerdo a lo señalado en las "Instrucciones Técnicas".
 
 12.2 INFRACCIONES Y SANCIONES
 
 La Dirección General de Aeronáutica Civil sancionará las infracciones a la normativa aeronáutica relacionadas con el tratamiento inadecuado de las materias de Mercancías Peligrosas, según lo estipulado en el Código Aeronáutico de la República de Chile.
+
+12.3 MERCANCÍAS PELIGROSAS ENVIADAS POR CORREO
+
+Los procedimientos del Operador Postal Designado para regular la introducción de mercancías peligrosas en el correo para transporte por vía aérea deberán ser aprobados por la DGAC.
 
 ## Capítulo 13
 
@@ -689,6 +719,10 @@ MERCANCÍAS PELIGROSAS
 13.2.2 La DGAC al tomar conocimiento de un accidente o incidente imputable a mercancías peligrosas solicitará todos los antecedentes de transporte con el objeto de supervisar en conjunto con el personal especializado el procedimiento utilizado por el explotador, las empresas de servicios, de correos o courier, para solucionar el accidente o incidente, interviniendo en caso que le sea solicitado o sea evidente que el problema no podrá ser superado por éstas.
 
 13.2.3 La DGAC establecerá los procedimientos que definan las acciones para enfrentar los accidentes e incidentes imputables a mercancías peligrosas.
+
+CAPÍTULO 14. DISPOSICIONES RELATIVAS A LA SEGURIDAD DE LAS MERCANCÍAS PELIGROSAS
+
+La DGAC establecerá medidas de seguridad de las mercancías peligrosas aplicables a los expedidores, explotadores y terceros que participen en el transporte de mercancías peligrosas por vía aérea, conforme al Reglamento sobre Seguridad y Protección de la Aviación Civil contra Actos de Interferencia Ilícita, decreto supremo N° 68 de 2008, del Ministerio de Defensa Nacional.
 
 #### Artículo segundo
 
