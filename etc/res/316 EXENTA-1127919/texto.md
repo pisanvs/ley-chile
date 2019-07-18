@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de todo tipo de vehículos motorizados a calzada completa, en la ruta C-440, desde kilómetro 38.970 hasta kilómetro 65.991, comuna de Huasco, hasta el 30 de junio de 2019.
+1. Prohíbase la circulación de todo tipo de vehículos motorizados a calzada completa, en la ruta C-440, desde kilómetro 38.970 hasta kilómetro 65.991, comuna de Huasco, hasta el 30 de septiembre de 2019.
 
 2. Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia y aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia o estacionamiento habitual ubicado en dicho tramo.
 
