@@ -1,0 +1,7 @@
+IMPARTE INSTRUCCIONES PARA LA APLICACIÓN Y REVISIÓN DE LA SOBRETASA QUE GRAVA A LOS BIENES RAÍCES NO AGRÍCOLAS AFECTOS A IMPUESTO TERRITORIAL, UBICADOS EN ÁREAS URBANAS, CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS O POZOS LASTREROS, SEÑALADA EN EL ARTÍCULO 8° DE LA LEY N° 17.235, SOBRE IMPUESTO TERRITORIAL, MODIFICADO POR LA LEY N° 21.078, SOBRE TRANSPARENCIA DEL MERCADO DEL SUELO E IMPUESTO AL AUMENTO DE VALOR POR AMPLIACIÓN DEL LÍMITE URBANO
+
+Extracto de circular del Servicio de Impuestos Internos N° 31, del 12 de julio de 2019, que imparte instrucciones relacionadas con la aplicación del artículo 8° de la ley N° 17.235.
+
+En atención a la entrada en vigencia de la ley N° 21.078, sobre transparencia del mercado del suelo e impuesto al aumento de valor por ampliación del límite urbano, publicada en el Diario Oficial de fecha 15.02.2018, que modificó el artículo 8° de la ley N° 17.235, sobre Impuesto Territorial, la presente circular instruye sobre la aplicación de la sobretasa que grava a los bienes raíces no agrícolas afectos a impuesto territorial, ubicados en áreas urbanas, correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, a partir del período 2019.
+
+El texto íntegro de esta circular está publicado en el sitio web del Servicio de Impuestos Internos (sii.cl) y, además, aparecerá en el Boletín del SII en julio de 2019.
