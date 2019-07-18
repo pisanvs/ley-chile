@@ -1144,6 +1144,10 @@ Cuando la pena señalada al delito sea compuesta, se estará a la privativa de l
 
 Las reglas precedentes se entienden sin perjuicio de las prescripciones de corto tiempo que establece este Código para delitos determinados.
 
+#### Artículo 94 bis
+
+No prescribirá la acción penal respecto de los crímenes y simples delitos descritos y sancionados en los artículos 141, inciso final, y 142, inciso final, ambos en relación con la violación; los artículos 150 B y 150 E, ambos en relación con los artículos 361, 362 y 365 bis; los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter; el artículo 411 quáter en relación con la explotación sexual; y el artículo 433, N° 1, en relación con la violación, cuando al momento de la perpetración del hecho la víctima fuere menor de edad.
+
 #### Artículo 95
 
 El término de la prescripción empieza a correr desde el día en que se hubiere cometido el delito.
@@ -3252,7 +3256,7 @@ No se puede proceder por causa de los delitos previstos en los artículos 361 a 
 
 Si la persona ofendida no pudiere libremente hacer por sí misma la denuncia, ni tuviere representante legal, o si, teniéndolo, estuviere imposibilitado o implicado en el delito, podrá procederse de oficio por el Ministerio Público, que también estará facultado para deducir las acciones civiles a que se refiere el artículo 370. Sin perjuicio de lo anterior, cualquier persona que tome conocimiento del hecho podrá denunciarlo.
 
-Con todo, tratándose de víctimas menores de edad, se estará a lo dispuesto en el inciso segundo del artículo 53 del Código Procesal Penal.
+Con todo, tratándose de víctimas menores de edad, se estará a lo dispuesto en el artículo 369 quinquies de este Código y en el inciso segundo del artículo 53 del Código Procesal Penal.
 
 En caso de que un cónyuge o conviviente cometa alguno de los delitos establecidos en los párrafos 5 y 6 de este Título en contra de aquél con quien hace vida común, se podrá poner término al proceso a requerimiento del ofendido, a menos que el juez, por motivos fundados, no acepte.
 
@@ -3272,7 +3276,13 @@ Los agentes encubiertos, el secreto de sus actuaciones, registros o documentos y
 
 #### Artículo 369 quáter
 
-En los delitos previstos en los dos párrafos anteriores, el plazo de prescripción de la acción penal empezará a correr para el menor de edad que haya sido víctima, al momento que cumpla 18 años.
+Suprimido.
+
+#### Artículo 369
+
+quinquies.
+
+Tratándose de los delitos establecidos en los artículos 141, inciso final, y 142, inciso final, ambos en relación con la violación; los artículos 150 B y 150 E, ambos en relación con los artículos 361, 362 y 365 bis; los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter; el artículo 411 quáter en relación con la explotación sexual; y el artículo 433, N° 1, en relación con la violación, perpetrados en contra de una víctima menor de edad, se considerarán delitos de acción pública previa instancia particular y se regirán por lo dispuesto en el artículo 54 del Código Procesal Penal desde que el ofendido por el delito haya cumplido los dieciocho años de edad, si no se ha ejercido antes la acción penal.
 
 #### Artículo 370
 
