@@ -12,11 +12,7 @@ Que por razones de buen servicio, se hace necesario establecer el orden de subro
 
 Decreto:
 
-1. Establécese el orden de subrogación del cargo de Secretario Ejecutivo de la Comisión Nacional de Riego, el que quedará como sigue:
-
-Primer Subrogante: Jefe de la División Jurídica, Directivo grado 4º EUR.
-
-Segundo Subrogante: Jefe de Departamento de Fomento al Riego, Directivo grado 4º EUR.
+### 1. Deja sin efecto
 
 2. Déjase sin efecto el decreto exento Nº 193, de 2012, del Ministerio de Agricultura.
 
