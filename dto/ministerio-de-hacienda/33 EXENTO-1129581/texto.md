@@ -10,13 +10,13 @@ Considerando:
 
 1. Que, se recibió en esta Secretaría de Estado la solicitud del Gerente General de Espacio Riesco, razón social: "Centro de Convenciones Santiago S.A,", RUT. Nº 96.946.650-3, a objeto que la "Feria Salón Look Santiago" sea declarada internacional.
 
-2. Que, el solicitante indica en su presentación que en asociación con la Institución Ferial de Madrid - Ifema, organizarán entre los días 15 y 17 de junio de 2019, la Feria Salón Look Santiago, evento referente para el sector de la belleza, la imagen y la estética integral.
+2. Que, el solicitante indica en su presentación que en asociación con la Institución Ferial de Madrid - Ifema, organizarán entre los días 22 y 24 de noviembre de 2019, la Feria Salón Look Santiago, evento referente para el sector de la belleza, la imagen y la estética integral.
 
 3. Que, el mencionado evento cumple con los requisitos establecidos en las disposiciones normativas indicadas en el presente acto administrativo, de manera que es procedente acceder a la solicitud del interesado.
 
 Decreto:
 
-1. Declárese internacional a la "Feria Salón Look Santiago", organizada por el "Centro de Convenciones Santiago S.A.", RUT. Nº 96.946.650-3, a realizarse entre los días 15 y 17 de junio de 2019, ambas fechas inclusive, en el recinto Espacio Riesco de la comuna de Huechuraba, ciudad de Santiago, Región Metropolitana.
+1. Declárese internacional a la "Feria Salón Look Santiago", organizada por el "Centro de Convenciones Santiago S.A.", RUT. Nº 96.946.650-3, a realizarse entre los días 22 y 24 de noviembre de 2019, ambas fechas inclusive, en el recinto Espacio Riesco de la comuna de Huechuraba, ciudad de Santiago, Región Metropolitana.
 
 2. Habilítese como Recinto Ferial para el desarrollo del mencionado evento, el recinto Espacio Riesco, ubicado en Avenida El Salto Nº 5000, en la comuna de Huechuraba, ciudad de Santiago, Región Metropolitana, cuyos deslindes son los siguientes:
 
