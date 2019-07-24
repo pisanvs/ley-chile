@@ -102,9 +102,9 @@ y Sistema Radiante : Algarrobo s/n, Cuncumén, comuna de
 
 Salamanca, Región de Coquimbo.
 
-- Coordenadas Geográficas : 31°53'47'' Latitud Sur.
+- Coordenadas Geográficas : 31°53'50'' Latitud Sur.
 
-70°37'26'' Longitud Oeste.
+70°37'46'' Longitud Oeste.
 
 Datum WGS84
 
