@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE DESISTIMIENTO DEL PROCEDIMIENTO DE EVALUACIÓN AMBIENTAL DEL PROYECTO "CENTRAL NUEVA ERA"
+
+De conformidad con lo dispuesto en el artículo 4 de la ley 19.300, que busca facilitar la participación ciudadana, permitiendo el acceso a la información ambiental, se comunica que, por carta recibida con fecha 28 de junio de 2019, el señor Cristian Antonio N�ñez Riveros, en representación de Enap Refinerías S.A., manifestó su voluntad de desistirse del procedimiento de evaluación ambiental del Estudio de Impacto Ambiental (EIA) del proyecto "Central Nueva Era". Considerando que el artículo 14 de la ley N° 19.880, en su inciso tercero, dispone que: "En los casos de prescripción, renuncia del derecho, abandono del procedimiento o desistimiento de la solicitud, así como la desaparición sobreviniente del objeto del procedimiento, la resolución consistirá en la declaración de la circunstancia que concurra en cada caso, con indicación de los hechos producidos y las normas aplicables"; que, el artículo 40 de la ley N° 19.880, en su inciso primero, dispone que: "Pondrán término al procedimiento la resolución final, el desistimiento, la declaración de abandono y la renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico"; que, el artículo 42 de la ley N° 19.880, dispone que: "Todo interesado podrá desistirse de su solicitud o, cuando ello no esté prohibido por el ordenamiento jurídico, renunciar a sus derechos"; y que, la referida solicitud ha sido presentada por el titular del proyecto, de forma oportuna ante el órgano competente, se informa que mediante resolución exenta N° 198, de fecha 28 de junio de 2019, la Directora Subrogante Regional del Servicio de Evaluación Ambiental (SEA) de la Región de Valparaíso, ha resuelto tener por desistido EIA del proyecto "Central Nueva Era", presentado por el señor Cristian Antonio Núñez Riveros, en representación de Enap Refinerías S.A., poniéndose término al procedimiento de evaluación ambiental del mismo.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en:
+
+. Dirección Regional del SEA, ubicada en calle Prat 827, oficina 301, Valparaíso.
+
+. Sitio web www.sea.gob.cl.
+
+Esther Parodi Muñoz, Directora Regional (S) Servicio de Evaluación Ambiental Región de Valparaíso.
