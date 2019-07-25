@@ -182,6 +182,8 @@ Primero: El presente reglamento comenzará a regir el 1 de septiembre siguiente 
 
 Segundo: Déjase sin efecto el decreto supremo Nº 1.049, de 1999, del Ministerio de Relaciones Exteriores, que aprobó el Reglamento Especial de Calificaciones del Personal de la Dirección General de Relaciones Económicas Internacionales, a contar de la fecha en que quede completamente evaluado el período de calificación en ejecución al momento de entrar en vigor el presente reglamento.
 
+Tercero: Una vez suprimida la Dirección General de Relaciones Económicas Internacionales, el presente Reglamento será aplicable a la Subsecretaría de Relaciones Económicas Internacionales y a la Dirección General de Promoción de Exportaciones, en lo que a cada órgano corresponda, en su calidad de sucesoras y continuadoras legales de aquélla, en virtud de lo establecido en el artículo 61° de la Ley N° 21.080.
+
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República de Chile.- Heraldo Muñoz Valenzuela, Ministro de Relaciones Exteriores de Chile.
 
 Lo que transcribo a Us. para su conocimiento.- Ricardo G. Rojas, Director General Administrativo.
