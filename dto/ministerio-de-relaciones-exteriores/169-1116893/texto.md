@@ -38,13 +38,13 @@ Créase el Comité Para el Plan de Acción Nacional de Derechos Humanos y Empres
 
 El Comité estará integrado por representantes de los siguientes Ministerios:
 
-a) Ministerio de Relaciones Exteriores, quien presidirá el Comité.
+a) Ministerio de Justicia y Derechos Humanos, quien presidirá el Comité.
 
-b) Ministerio de Economía, Fomento y Turismo.
+b) Ministerio de Relaciones Exteriores.
 
-c) Ministerio de Desarrollo Social.
+c) Ministerio de Economía, Fomento y Turismo.
 
-d) Ministerio de Justicia y Derechos Humanos.
+d) Ministerio de Desarrollo Social.
 
 e) Ministerio del Trabajo y Previsión Social.
 
@@ -72,11 +72,11 @@ c) Proponer al Presidente o Presidenta de la República recomendaciones e instan
 
 #### Artículo 4°
 
-El Comité tendrá una Secretaría Ejecutiva radicada en la Subsecretaría de Relaciones Exteriores.
+El Comité tendrá una Secretaría Ejecutiva radicada en la Subsecretaría de Derechos Humanos.
 
 #### Artículo 5°
 
-La Subsecretaría de Relaciones Exteriores proporcionará el apoyo técnico y administrativo que sea necesario para el adecuado funcionamiento del Comité y su Secretaría Ejecutiva.
+La Subsecretaría de Derechos Humanos proporcionará el apoyo técnico y administrativo que sea necesario para el adecuado funcionamiento del Comité y su Secretaría Ejecutiva.
 
 #### Artículo 6°
 
