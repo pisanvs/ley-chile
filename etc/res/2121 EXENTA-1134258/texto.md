@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN
+
+Por resolución exenta Nº 2.121, de 10 de julio de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se aprobó Contrato Ad-Referéndum de Concesión 2, adjudicado mediante resolución Nº 3.262, de 2018, del mismo origen, para operar una planta revisora clase A en la comuna de Valparaíso, una planta revisora clase B en la comuna de Quintero y una unidad móvil, en la Región de Valparaíso, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso y el concesionario "Revisiones Técnicas King Ltda.", con vigencia de diez años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+José Emilio Guzmán Cepeda, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Valparaíso.
