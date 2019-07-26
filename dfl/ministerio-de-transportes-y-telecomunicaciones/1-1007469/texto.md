@@ -590,7 +590,11 @@ La inscripción de un vehículo se efectuará al otorgarse la patente única. Lo
 
 En él se anotarán también todas las alteraciones en los vehículos que los hagan cambiar su naturaleza, sus características esenciales, o que los identifican, como asimismo su abandono, destrucción o su desarmaduría total o parcial o la cancelación de la inscripción a solicitud del propietario. Para estos efectos su propietario estará obligado a dar cuenta del hecho de que se trate al Registro. En su caso, deberá cancelarse la inscripción y retirarse las patentes del vehículo.
 
-Asimismo, deberá anotarse la denuncia por la sustracción de un vehículo motorizado a requerimiento de una autoridad policial o judicial, o de su propietario en ciertos casos, en la forma y condiciones que determine el reglamento.
+Asimismo, deberá anotarse la denuncia por la apropiación de un vehículo motorizado, especificando si ha sido objeto de robo o hurto, a requerimiento de la autoridad policial, judicial o del Ministerio Público. Si se tratare de un robo, el registro especificará si se ejerció sobre su legítimo tenedor alguna de las conductas descritas en el artículo 439 del Código Penal.
+
+La denuncia deberá ser incorporada dentro de las cuatro horas siguientes de efectuado el requerimiento a que se refiere el inciso precedente. La referida anotación deberá constar en los certificados de inscripciones y anotaciones vigentes del vehículo respectivo.
+
+La información sobre las denuncias incorporadas al Registro de Vehículos Motorizados se encontrará permanentemente a disposición del público, en las páginas web institucionales de Carabineros de Chile, de la Policía de Investigaciones de Chile y del Ministerio Público, especificando, entre otros datos, la placa patente única, el número de motor, número de chasis, color, año y las circunstancias en que fue apropiado.
 
 #### Artículo 40
 
@@ -734,9 +738,11 @@ El certificado de inscripción deberá contener, a lo menos, las siguientes indi
 
 4. Marca, año, modelo del vehículo y los números de fábrica que lo identifiquen;
 
-5. Fecha de emisión del certificado de inscripción, y
+5. Fecha de emisión del certificado de inscripción;
 
-6. Fecha en que se practicó la inscripción, así como la fecha del cambio del propietario, si lo hubiere.
+6. Fecha en que se practicó la inscripción, así como la fecha del cambio del propietario, si lo hubiere, y
+
+7. La anotación sobre denuncias por la apropiación de vehículos a que se refiere el artículo 39.
 
 El certificado de inscripción de los camiones y tractocamiones cuyo peso bruto vehicular sea igual o superior a 3.860 kilogramos, deberá contener además las siguientes menciones:
 
@@ -2074,7 +2080,11 @@ e) Conduzca, a sabiendas, un vehículo con placa patente ocultada o alterada o u
 
 f) Certifique, indebida o falsamente, conocimientos, habilidades, prácticas de conducción o realización de cursos de conducir que permitan obtener una licencia de conductor;
 
-g) Otorgue un certificado de revisión técnica sin haber practicado realmente la revisión o que contenga afirmaciones de hechos relevantes contrarios a la verdad; detente formularios para extenderlos, sin tener título para ello; falsifique un certificado de revisión técnica o de emisión de gases, permiso de circulación o certificado de seguro obligatorio.
+g) Otorgue un certificado de revisión técnica sin haber practicado realmente la revisión o que contenga afirmaciones de hechos relevantes contrarios a la verdad; detente formularios para extenderlos, sin tener título para ello; falsifique un certificado de revisión técnica o de emisión de gases, permiso de circulación o certificado de seguro obligatorio;
+
+h) Conduzca, a sabiendas, un vehículo motorizado con el número de chasis adulterado o borrado, e
+
+i) Adultere o borre el número de chasis de un vehículo motorizado.
 
 El que adultere un certificado de revisión técnica o de emisión de gases, permiso de circulación o certificado de seguro obligatorio o utilice a sabiendas uno falsificado o adulterado, será sancionado con la pena señalada en el artículo 490, Nº 2, del Código Penal.
 
