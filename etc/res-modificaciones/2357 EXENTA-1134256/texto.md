@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN Nº 2.008 EXENTA, DE 2017, DE ESTA SUBSECRETARÍA
+
+Por resolución exenta Nº 2.357, de 28 de junio de 2019, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº 2.008, de 2017, que autorizó a Ecogestión Ambiental Limitada, para efectuar una pesca de investigación, de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Solicitud de Pesca de Investigación para Flora y Fauna Acuática en Cuerpos y Cursos de Aguas Continentales del Territorio Nacional", en el sentido de ampliar la vigencia del estudio en 12 meses adicionales contados desde el vencimiento del plazo de la resolución original. El texto íntegro de la presente resolución se publicará en el sitio de dominio electrónico de la Subsecretaría de Pesca y Acuicultura.
+
+Valparaíso, 28 de junio de 2019.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura (S).
