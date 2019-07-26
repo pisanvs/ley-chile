@@ -14,7 +14,7 @@ Decreto:
 
 .
 
-Superficie de terreno aproximada a expropiar: 40.661,927 metros cuadrados.
+Superficie de terreno aproximada a expropiar: 99.682,977 metros cuadrados.
 
 2º.- El presente decreto se publicará en el Diario Oficial y en un periódico de la provincia de Santiago, si lo hubiere.
 
