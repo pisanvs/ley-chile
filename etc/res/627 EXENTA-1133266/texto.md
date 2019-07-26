@@ -42,6 +42,8 @@ Resuelvo:
 
 - Vehículos motorizados que transporten sustancias peligrosas, desde las 00:00 hrs. del día lunes 1 de julio y hasta las 12:00 hrs. del miércoles 3 de julio, en la Ruta 5 (entre la Región de Atacama por el norte y el límite norte de la Provincia de Choapa por el sur), Ruta 43, Ruta 51, Ruta D-201 y Ruta CH-41.
 
+- Los vehículos motorizados que transportan sustancias peligrosas, podrán circular en horario nocturno de 00:00 a 5:00 horas los días lunes 1° y martes 2 de julio de 2019.
+
 5º.- La Dirección de Vialidad del Ministerio de Obras Públicas deberá instalar señalización de tránsito que corresponda en los lugares preestablecidos por la Mesa Técnica de Infraestructura, Abastecimiento y Transportes en las Rutas 201 y 41CH, conforme al manual de Señalización del Ministerio de Transportes y Telecomunicaciones.
 
 6º.- Podrán circular excepcionalmente en los tramos señalados los vehículos de carga que operen en transporte de desechos sólidos, desechos de baños químicos, los vehículos de la Dirección de Vialidad, los que deban trabajar en habilitar terrenos de puntos de avistamiento oficiales del eclipse, de abastecimiento de combustibles, de víveres y de emergencias.
