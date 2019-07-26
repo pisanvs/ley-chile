@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN
+
+Por resolución exenta Nº 2.120, de 10 de julio de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, se aprobó Contrato Ad-Referéndum de Concesión 10, adjudicado mediante resolución Nº 3.263, de 2018, del mismo origen, para operar una planta revisora clase B en la comuna de Valparaíso y una planta revisora clase B en la comuna de Viña del Mar, en la Región de Valparaíso, suscrito entre el Ministerio de Transportes y Telecomunicaciones, a través del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso y el concesionario "Revicentro Valparaíso SpA", con vigencia de diez años contados desde la publicación del presente extracto en el Diario Oficial.-
+
+José Emilio Guzmán Cepeda, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
