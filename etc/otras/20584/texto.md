@@ -68,6 +68,46 @@ Un reglamento expedido por el Ministerio de Salud establecerá las normas para d
 
 ### Párrafo 3º
 
+Del derecho a la atención preferente
+
+#### Artículo 5° bis
+
+Toda persona mayor de 60 años, como también toda persona en situación de discapacidad, tendrá derecho a ser atendida preferente y oportunamente por cualquier prestador de acciones de salud, con el fin de facilitar su acceso a dichas acciones, sin perjuicio de la priorización que corresponda aplicar según la condición de salud de emergencia o urgencia de los pacientes, de acuerdo al protocolo respectivo.
+
+Esta atención preferente y oportuna consistirá, al momento del ingreso del paciente, en la adopción por el prestador de las siguientes medidas:
+
+### I. Si se tratare de una consulta de salud:
+
+a) En la entrega de número para la solicitud de día y hora de atención.
+
+b) En la asignación de día y hora para la atención.
+
+c) En la asignación prioritaria para la consulta de salud de urgencia.
+
+Si en la consulta el médico o profesional de salud considera necesario que el paciente sea evaluado por un médico especialista, generando una interconsulta, deberá ser priorizada de la misma manera indicada en el inciso anterior.
+
+### II. Si se tratare de la prescripción y dispensación de medicamentos:
+
+a) En la emisión y gestión de la receta médica respectiva.
+
+b) En la entrega de número para la dispensación de medicamentos en la farmacia.
+
+c) En la dispensación de medicamentos en la farmacia.
+
+### III. Si se tratare de toma de exámenes o procedimientos médicos más complejos:
+
+a) En la entrega de número para la solicitud de día y hora para su realización.
+
+b) En la asignación de día y hora para su realización.
+
+c) En la posterior asignación prioritaria para la realización de exámenes o procedimientos médicos más complejos.
+
+#### Artículo 5° ter
+
+El prestador de acciones de salud deberá consignar con caracteres legibles, en un lugar visible y de fácil acceso del recinto en que se desempeña, el texto de este derecho a la atención preferente y oportuna.
+
+### Párrafo 4º
+
 Del derecho a tener compañía y asistencia espiritual
 
 #### Artículo 6º
@@ -80,7 +120,7 @@ Asimismo, toda persona que lo solicite tiene derecho a recibir, oportunamente y 
 
 En aquellos territorios con alta concentración de población indígena, los prestadores institucionales públicos deberán asegurar el derecho de las personas pertenecientes a los pueblos originarios a recibir una atención de salud con pertinencia cultural, lo cual se expresará en la aplicación de un modelo de salud intercultural validado ante las comunidades indígenas, el cual deberá contener, a lo menos, el reconocimiento, protección y fortalecimiento de los conocimientos y las prácticas de los sistemas de sanación de los pueblos originarios; la existencia de facilitadores interculturales y señalización en idioma español y del pueblo originario que corresponda al territorio, y el derecho a recibir asistencia religiosa propia de su cultura.
 
-### Párrafo 4º
+### Párrafo 5º
 
 Del derecho de información
 
@@ -134,7 +174,7 @@ Toda persona podrá solicitar, en cualquier momento de su tratamiento, un inform
 
 Asimismo, toda persona tendrá derecho a que se le extienda un certificado que acredite su estado de salud y licencia médica si corresponde, cuando su exigencia se establezca por una disposición legal o reglamentaria, o cuando lo solicite para fines particulares. El referido certificado será emitido, de preferencia, por el profesional que trató al paciente que lo solicita.
 
-### Párrafo 5º
+### Párrafo 6º
 
 De la reserva de la información contenida en la ficha clínica
 
@@ -164,7 +204,7 @@ e) Al Instituto de Salud Pública, en el ejercicio de sus facultades.
 
 Las instituciones y personas indicadas precedentemente adoptarán las providencias necesarias para asegurar la reserva de la identidad del titular las fichas clínicas a las que accedan, de los datos médicos, genéticos u otros de carácter sensible contenidos en ellas y para que toda esta información sea utilizada exclusivamente para los fines para los cuales fue requerida.
 
-### Párrafo 6º
+### Párrafo 7º
 
 De la autonomía de las personas en su atención de salud
 
@@ -232,7 +272,7 @@ Mediante un reglamento expedido a través del Ministerio de Salud se establecer�
 
 Dichos comités deberán existir al menos en los siguientes establecimientos, siempre que presten atención cerrada: autogestionados en red, experimentales, de alta complejidad e institutos de especialidad.
 
-### Párrafo 7º
+### Párrafo 8º
 
 De la protección de la autonomía de las personas que participan en una investigación científica
 
@@ -244,7 +284,7 @@ Toda persona deberá ser informada y tendrá derecho a elegir su incorporación 
 
 Mediante un reglamento expedido por el Ministerio de Salud, en los términos de la ley Nº20.120, se establecerán las normas necesarias para regular los requisitos de los protocolos de investigación y los procedimientos administrativos y normas sobre constitución, funcionamiento y financiamiento de comités para la evaluación ético-científica; para la aprobación de protocolos y para la acreditación de los comités por parte de la Autoridad Sanitaria; la declaración y efectos sobre conflictos de interés de investigadores, autoridades y miembros de comités y, en general, las demás normas necesarias para la adecuada protección de los derechos de las personas respecto de la investigación científica biomédica.
 
-### Párrafo 8º
+### Párrafo 9º
 
 De los derechos de las personas con discapacidad psíquica o intelectual
 
@@ -364,7 +404,7 @@ En contra de las acciones efectuadas por los prestadores institucionales e indiv
 
 Las acciones ante las Cortes de Apelaciones se tramitarán de acuerdo a las normas del recurso establecido en el artículo 20 de la Constitución Política de la República.
 
-### Párrafo 9º
+### Párrafo 10º
 
 De la participación de las personas usuarias
 
@@ -376,7 +416,7 @@ Por medio del Ministerio de Salud, con consulta a las instancias de participaci�
 
 Al reglamentar la existencia de comités de ética que atiendan las consultas de las personas que consideren necesaria la evaluación de un caso desde el punto de vista ético clínico, se deberá asegurar la participación de los usuarios en dichos comités. En el caso de los prestadores institucionales, serán éstos los que provean los medios para que sus usuarios accedan a un comité de ética, si así lo requirieren. Los prestadores individuales darán a conocer a las personas el comité de ética al cual estuvieren adscritos. Los Servicios de Salud deberán disponer de, al menos, un comité de ética, al cual se entenderán adscritos los prestadores privados individuales de su territorio, en caso de no estarlo a algún otro.
 
-### Párrafo l — 0º
+### Párrafo 11º
 
 De los medicamentos e insumos
 
