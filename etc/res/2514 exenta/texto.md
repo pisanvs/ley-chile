@@ -20,9 +20,9 @@ Decreto:
 
 1.- Desígnase, a contar de esta fecha, a las personas que se indican, como subrogantes del/de la Subsecretario/a de Derechos Humanos, en el caso de la ausencia o impedimento del titular:
 
-1er Subrogante: Quien sirva en calidad de titular, el cargo de Jefe/a de la División de Protección, Planta, Directivo, Grado 3° de la EUS, de la Subsecretaría de Derechos Humanos, del Ministerio de Justicia y Derechos Humanos.
+1er Subrogante: Quien sirva en calidad de titular, el cargo de Jefe/a de la División de Promoción, Planta, Directivo, grado 3º de la EUS de la Subsecretaría de Derechos Humanos, del Ministerio de Justicia y Derechos Humanos.
 
-2do Subrogante: Quien sirva en calidad de titular, el cargo de Jefe/a de la División de Promoción, Planta, Directivo, Grado 3° de la EUS, de la Subsecretaría de Derechos Humanos, del Ministerio de Justicia y Derechos Humanos.
+2do Subrogante: Quien sirva en calidad de titular, el cargo de Jefe/a de la División de Protección, Planta, Directivo, grado 3º de la EUS de la Subsecretaría de Derechos Humanos, del Ministerio de Justicia y Derechos Humanos.
 
 3er Subrogante: Quien sirva en calidad de titular, en el cargo de Jefe/a de la División de Administración y Finanzas, Planta, Directivo, Grado 3° de la EUS, de la Subsecretaría de Derechos Humanos, del Ministerio.
 
