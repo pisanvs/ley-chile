@@ -3050,8 +3050,6 @@ L3/4. Espacio privado: zonas de uso de suelo.
 
 L4/4. Áreas, zonas e inmuebles protegidos.
 
-En estas zonas el coeficiente de ocupación de suelo será de 0,40 y se autorizarán construcciones de hasta 5 pisos de altura.
-
 Las ZEMoI se enumeran en el cuadro 24 siguiente:
 
 .
@@ -3068,9 +3066,23 @@ L3/4. Espacio privado: zonas de usos de suelo.
 
 L4/4. Áreas, zonas e inmuebles protegidos.
 
-En estas zonas el coeficiente de ocupación de suelo será de 0,40 y se autorizarán construcciones de hasta 5 pisos de altura.
-
 Las ZIM se enumeran en el cuadro 25 siguiente:»
+
+.
+
+#### Artículo 5
+
+6.03. Normas de subdivisión y edificación ZEMoI y ZIM
+
+Las normas de subdivisión y edificación para las ZEMoI y ZIM son aquellas contenidas en el cuadro a continuación:
+
+.
+
+#### Artículo 5
+
+6.04. Normas de uso de suelo ZEMoI y ZIM
+
+Las actividades específicas permitidas o prohibidas para las ZEMoI y ZIM se consignan en el cuadro a continuación:
 
 .
 
@@ -3434,7 +3446,7 @@ Sólo una vez verificado por la Dirección de Obras el cumplimiento de estos req
 
 ## Título 7
 
-DE LA DENSIDAD
+DENSIDAD Y ESCALAS DE EQUIPAMIENTO
 
 ## Capítulo 7.1.
 
@@ -3473,6 +3485,18 @@ La equivalencia de la densidad residencial en habitantes según el número y tam
 residenciales.
 
 La densidad o intensidad máxima en los usos no residenciales estará limitada, sólo por los metros cuadrados totales autorizados a construir por unidad de superficie, conforme lo permite la definición de "densidad" del Art. 1.1.2. de la OGUC. Esto, no obstante las exigencias de impacto vial, estacionamientos y otros que correspondan.
+
+CAPÍTULO 7.2 NORMAS SOBRE ESCALAS DE EQUIPAMIENTO
+
+#### Artículo 7
+
+2.01. Escalas de equipamiento
+
+Conforme a lo dispuesto en la OGUC, en el último inciso de su artículo 2.1.36, las escalas de equipamiento básico, menor y mediano se entenderán siempre admitidas en los siguientes casos:
+
+. En los predios que se emplacen en Zonas de Interés Metropolitano (ZIM) y en Zonas de Equipamiento Metropolitano o Intercomunal (ZEMoI).
+
+. En los predios que enfrenten las vías locales o de servicio ubicadas en el sector delimitado por las calles Andrés Bello, Nueva Tobalaba, Nueva Providencia, Tobalaba, José Antonio Soffia, Hernando de Aguirre, San Pío X, Los Leones, Coronel, Suecia, Lota, Ricardo Lyon, Jorge Isaacs, Guardia Vieja, Barcelona, Pedro de Valdivia, Alfredo Barros Errázuriz, Carlos Antúnez, Dr. Luis Middleton, Antonio Varas, Nueva Providencia, Huelén y Andrés Bello.
 
 ## Título 8
 
@@ -3568,4 +3592,6 @@ Jaime Márquez Rojas.- Arquitecto, Asesor Urbanista.
 
 > **Nota.** NOTA 4 El numeral 2.9 del numero 2 del Decreto 2009 M. DE PROVIDENCIA , publicado el 06.12.2016 modifica la presente norma en el sentido de incorporar en el cuadro 32, en la fila correspondiente al tipo de equipamiento clase servicios, al final de la lista de las actividades prohibidas, un guion nuevo con la actividad «estacionamientos»
 
-> **Nota.** NOTA 5 Los numerales 2.10, 2.11, 2.12 del numero 2 del Decreto 2009 M. DE PROVIDENCIA , publicado el 06.12.2016 modifica la presente norma en el sentido deeliminar en el cuadro 35, en la fila correspondiente al tipo de equipamiento clase culto y cultura, en el cuarto guion de la casilla correspondiente a las actividades permitidas, la actividad «canales de televisión», incorporar en el cuadro 35, en la fila correspondiente al tipo de equipamiento clase culto y cultura, en el recuadro correspondiente a las actividades prohibidas, «Edificaciones o locales destinados a: - canales de televisión»
+> **Nota.** NOTA 5 Los numerales 2.10, 2.11, 2.12 del numero 2 del Decreto 2009 M. DE PROVIDENCIA , publicado el 06.12.2016 modifica la presente norma en el sentido de eliminar en el cuadro 35, en la fila correspondiente al tipo de equipamiento clase culto y cultura, en el cuarto guion de la casilla correspondiente a las actividades permitidas, la actividad «canales de televisión», incorporar en el cuadro 35, en la fila correspondiente al tipo de equipamiento clase culto y cultura, en el recuadro correspondiente a las actividades prohibidas, «Edificaciones o locales destinados a: - canales de televisión»
+
+> **Nota.** NOTA 6 El numeral 1.1, 1.2, 1.3, 1.5, 1.7 Y 1.8 del numero 1 del artículo único del Decreto 1039 Exento, Municipalidad de Providencia, publicado 27.07.2019, introduce cambios a los cuadros de los artículos 2.3.03, 5.2.02, 5.2.04, 5.6.01, 6.2.17, 6.2.18 respectivamente en el sentido de incorporar, añadir y modificar las imagenes de la manera que la citada norma indica.
