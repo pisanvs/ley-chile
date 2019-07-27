@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 184 EXENTA, DE 17 DE JULIO DE 2019
+
+Mediante resolución exenta Nº 184, de fecha 17 de julio de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Atacama, se aprobó el Gabinete Técnico a la I. Municipalidad de Alto del Carmen y se autorizó a la Municipalidad antes citada, para otorgar Licencias de Conductor de acuerdo a lo señalado en el DFL Nº 1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que fija el texto refundido, coordinado y sistematizado de la Ley de Tránsito Nº 18.290 y sus reglamentos. La I. Municipalidad de Alto del Carmen deberá suspender el otorgamiento de Licencias de Conductor en el evento de faltarle alguno de los requisitos que hicieron posible la presente autorización.-
+
+Vittorio Ghiglino Bianchi, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Atacama.
