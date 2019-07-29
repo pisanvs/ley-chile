@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) "APLICACIÓN DE ECONOMÍA CIRCULAR A TRAVÉS DE CO-PROCESAMIENTO EN PLANTA TENO DE CBB", CUYO PROPONENTE ES "BÍO BÍO CEMENTOS S.A."
+
+Con fecha 23 de julio de 2019, se dictó la resolución exenta Nº 95/2019 del Director Regional del SEA de la Región del Maule, que resuelve dar inicio al proceso de participación ciudadana en la evaluación ambiental de la DIA "Aplicación de economía circular a través de Co-procesamiento en planta Teno de CBB", cuyo proponente es "Bío Bío Cementos S.A." y que se pretende desarrollar en la comuna de Teno, al interior de la Planta Bío Bío Cementos S.A., ubicada en la Ruta 5 Sur, en el kilómetro 173,6. El plazo legal para efectuar observaciones al proyecto e ingresarlas al Servicio de Evaluación Ambiental Región del Maule (Dos Oriente 946 - Talca), será de 20 días hábiles y se contará desde la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través de la plataforma electrónica del Servicio de Evaluación Ambiental (www.sea.gob.cl).-
+
+René Alejandro Christen Fernández, Director Regional del Servicio de Evaluación Ambiental Región del Maule.
