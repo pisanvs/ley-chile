@@ -56,7 +56,7 @@ Requisitos documentales para las instalaciones de generación y transmisión. Pa
 
 a) Resolución de Calificación Ambiental favorable, emitida por la autoridad ambiental competente, tratándose de proyectos susceptibles de causar impacto ambiental y que deban someterse al sistema de evaluación de impacto ambiental, conforme a lo dispuesto en el artículo 10 de la Ley N° 19.300 y en el artículo 3 del decreto supremo N° 40, de 2012, del Ministerio del Medio Ambiente, que aprueba el reglamento del sistema de evaluación de impacto ambiental;
 
-b) Permiso de construcción aprobado por la Dirección de Obras Municipal que corresponda para el proyecto, en caso de ser procedente;
+b) Informe Favorable para la Construcción otorgado por la autoridad competente, en caso de ser procedente;
 
 c) Órdenes de compra del correspondiente equipamiento eléctrico o electromagnético para la generación, transporte o transformación de electricidad y los documentos de recepción y aceptación de cada orden de compra por el respectivo proveedor;
 
