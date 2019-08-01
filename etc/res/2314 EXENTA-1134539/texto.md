@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.314, de fecha 19/07/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 29-0, consistente en "propiedad ubicada en Coihueco, de esta comuna, de una superficie de cero coma sesenta y dos hectáreas, el que formaba parte de un predio de mayor extensión", Rol de avalúo 3205-77, comuna de Temuco. La superficie a expropiar aproximada es de 394,50 metros cuadrados, de aparente dominio de Ingrid María Brooks Huillipan. Comisión de Peritos integrada por Alberto Arenas Pizarro, Arquitecto, Constanza Mihoevic González, Ingeniero Constructor y Marcela Melo Rodríguez, Arquitecto, fijó monto de indemnización provisional en $46.122.511, según informe Nº 29-0 de fecha 05/07/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
