@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº568, de 08 de julio de 2019, y en base a la facultad otorgada por el articulo 3º letra a), 10º letra c), 14º letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 11, 19 y 21, para la obra: REPOSICION PUENTE ESPERANZA EN RUTA G-68., que figura a nombre de TAGLE ERRAZURIZ MAGDALENA, SUC SOTO ARAYA y VILLALOBOS LOBOS LUCY ANGELICA, roles de avalúo 334-121, 311-10 y 311-992, Comuna de PADRE HURTADO, REGION METROPOLITANA, superficies 4.256, 160 y 44 m2 respectivamente. La Comisión de Peritos integrada por JESUS FERNANDO DIAZ PASMIÑO, ANGELICA YANETT SEURA ROJAS y JUAN ANDRES TEPPER LAVANDEROS, mediante informe de tasación de 15 de abril de 2018, fijó el monto de la indemnización provisional en la cantidad de $53.387.600 para el lote Nº11, $2.622.000 para el lote Nº19, y $616.000 para el lote Nº21. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
