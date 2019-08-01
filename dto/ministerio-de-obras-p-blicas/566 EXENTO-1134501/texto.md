@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°566, de 08 de julio de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 1, para la obra: MEJORAMIENTO RUTA 243 CH, SECTOR CALLE VICTORIA-ESCUELA AGRICOLA, que figura a nombre de DIR GRAL DE DEP Y RECREACION, rol de avalúo 1005-10, Comuna de COYHAIQUE, REGION DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficie 440 m2. La Comisión de Peritos integrada por JUAN ANTONIO FUENTES MANCILLA, PAULO ANDRÉS DIAZ VERGARA y PATRICIO JAVIER EUSEBIO BOPP LATHAM, mediante informe de tasación de 10 de julio de 2018, fijó el monto de la indemnización provisional en la cantidad de $52.800.000, para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
