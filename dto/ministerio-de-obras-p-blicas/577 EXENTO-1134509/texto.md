@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº577, de 08 de julio de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 89-B, para la obra: REPOSICION PAVIMENTO RUTA G-150: PANAMERICANA-LAMPA, que figura a nombre de INMOBILIARIA Y COMERCIAL LOS ESPINO, rol de avalúo 872-119, Comuna de LAMPA, REGION METROPOLITANA DE SANTIAGO, superficie 2.992 m2. La Comisión de Peritos integrada por DOUGLAS MAXIMILIANO HERRERA FLORES, NORMAN ESTANISLAO CALDERON PONTIGGIA y CAROLINA ALEJANDRA BRITO RAMOS, mediante informe de tasación de 18 de mayo de 2016, fijó el monto de la indemnización provisional en la cantidad de $243.158.000 para el lote Nº89-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
