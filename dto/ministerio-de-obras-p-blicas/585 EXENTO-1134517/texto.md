@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº585, de 08 de julio de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 6, 7, 8, 9 y 10, para la obra: REPOSICION PUENTE ESPERANZA EN RUTA G-68., que figuran a nombre de TAGLE ERRAZURIZ MAGDALENA, roles de avalúo 334-121, Comuna de PADRE HURTADO, REGION METROPOLITANA, superficies 1.337, 1.395, 35, 2.551 y 2.597 m2 respectivamente. La Comisión de Peritos integrada por JESUS FERNANDO DIAZ PASMIÑO, ANGELICA YANETT SEURA ROJAS y JUAN ANDRES TEPPER LAVANDEROS, mediante informe de tasación de 15 de abril de 2018, fijó el monto de la indemnización provisional en la cantidad de $21.124.600 para el lote Nº6, $22.041.000 para el lote Nº7, $553.000 para el lote Nº8, $40.305.800 para el lote Nº9, y $39.733.600 para el lote Nº10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
