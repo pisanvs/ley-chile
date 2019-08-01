@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.316 de fecha 19/07/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 31-0, consistente en "inmueble rural ubicado en camino a Tromén, comuna de Temuco, provincia de Cautín, Región Novena que tiene una superficie aproximada de una hectárea catorce áreas según plano N° IX-2-3650-SR", Rol de avalúo 3205-37, comuna de Temuco. La superficie a expropiar aproximada es de 919,56 metros cuadrados, de aparente dominio de María Isabel Quidel Candia. Comisión de Peritos integrada por Alberto Arenas Pizarro, Arquitecto, Constanza Mihoevic González, Ingeniero Constructor y Marcela Melo Rodríguez, Arquitecto, fijó monto de Indemnización Provisional en $104.494.243, según Informe Nº 31-0 de fecha 05/07/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
