@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 1.205 de fecha 5 de julio de 2019, del Serviu IV Región de Coquimbo, se modificó resolución exenta Nº 1.017 de fecha 18/12/2014 del Serviu Región de Coquimbo, que ordenó expropiación de Lote 32, del plano de expropiación, en el sentido de señalar en resuelvo Nº 1 de dicha resolución que los deslindes de dicho lote son los que se pasan a señalar: Norte: en tramo A-B de 414,802 con resto de la propiedad; Oriente: en tramo B-C de 5,695 metros con propiedad de Ferrocarriles del Estado canal de regadío de por medio; Sur: en tramo C-D de 413,250 con Rol 961-08 (lote 31); Poniente: en tramo D-A de 5,136 metros con camino interior Hortensia Bustamante, y no como se indicó en dicho acto. En todo lo demás no modificado se entiende plenamente vigente resolución rectificada.-
+
+Óscar Gutiérrez Seguel, Director Serviu Región de Coquimbo.
