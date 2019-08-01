@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.322, de fecha 19/07/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012, de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 30-1, consistente en "Inmueble ubicado en el lugar Avenida Luis Durand número 03375, comuna de Temuco, Provincia de Cautín, Región de la Araucanía, de una superficie aproximada de 1,39 hectáreas", Rol de avalúo 6052-3, comuna de Temuco. La superficie a expropiar aproximada es de 49,89 metros cuadrados, de aparente dominio de don Raúl del Carmen Suárez Gacitúa. Comisión de Peritos integrada por Constanza Miohevic González, Ingeniero Constructor, Alberto Arenas Pizarro, Arquitecto y Marcela Melo Rodríguez, Arquitecto, fijó monto de Indemnización Provisional en $10.962.871, según Informe Nº 30-1, de fecha 05/07/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
