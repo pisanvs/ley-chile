@@ -70,15 +70,25 @@ Otórganse a la Secretaría Regional Ministerial de Salud de la Región de Los L
 
 7°.- Difundir las medidas sanitarias que fueren pertinentes en medios de comunicación masivos.
 
-#### Artículo 3°
+#### Artículo 3º
+
+Otórganse al Director del Instituto de Salud Pública de Chile facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
+
+1. Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requiera desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
+
+2. Efectuar la adquisición directa de bienes, servicios o equipamiento que sean necesarios para el manejo de esta urgencia, la cual, de acuerdo a lo establecido en el artículo 8º letra c) de la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministros y Prestación de Servicios, quedará liberada de los procedimientos de licitación, sin perjuicio de su publicación posterior en el portal www.mercadopublico.cl.
+
+3. Disponer la realización de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en los artículos 66 y 70 de la ley Nº 18.834, cuyo texto actualizado, refundido y coordinado fue fijado por el DFL Nº 29, de 2004, del Ministerio de Hacienda, que aprueba el Estatuto Administrativo.
+
+#### Artículo 4°
 
 Los servicios públicos y demás organismos de la Administración del Estado, en el ámbito de sus respectivas competencias, y otras entidades públicas o privadas deberán proporcionar la colaboración y ejecutar las acciones que les sean requeridas por la Secretaría Regional Ministerial de Salud de la Región de Los Lagos, para el cumplimiento de las facultades extraordinarias que se han dispuesto en el presente acto y las demás acciones que dichas autoridades estimen necesarias para enfrentar esta emergencia.
 
 Lo anterior, de conformidad con lo señalado en los convenios que previamente se hayan celebrado o corresponda celebrar con las entidades privadas, en los casos que la prestación de sus servicios sea necesaria.
 
-#### Artículo 4°
+#### Artículo 5°
 
-Los efectos de este decreto tendrán vigencia hasta el 31 de julio de 2019, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
+Los efectos de este decreto tendrán vigencia hasta el 31 de agosto de 2019, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que éstas no mejoren.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Jaime Mañalich Muxi, Ministro de Salud.
 
