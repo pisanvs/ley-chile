@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.297, de fecha 19/07/2017, conforme al artículo 48 y 62 ley 19.880, de Serviu Región de la Araucanía, se prescribió la rectificación de la resolución Ex. Nº 1.971, de fecha 21 de junio de 2019, de Serviu Araucanía, que ordenó la expropiación parcial del Lote 51-0, en el sentido que por un error de referencia se señaló en su resuelvo Nº 1, lo siguiente: "Superficie aproximada total a expropiar: 122,16 metros cuadrados", correspondiendo decir, en definitiva, que: "Superficie aproximada total a expropiar: 181,03 metros cuadrados". A consecuencia de la modificación de la superficie a expropiar, se ordenó asimismo la modificación de los resuelvos Nos 2 y 3 de la resolución indicada, en el sentido que donde se fija el monto de la indemnización provisional por expropiación, debe decir: $59.316.054.- (cincuenta y nueve millones trescientos dieciséis mil cincuenta y cuatro pesos), y no como se indicó.-
+
+Director Serviu Región de la Araucanía.
