@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.313, de fecha 19/07/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012, de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 28-0, consistente en "Un retazo de terreno de una superficie aproximada de diez mil treinta y dos metros cuadrados, que forma parte de un predio de aproximadamente ocho hectáreas ubicado en el lugar Puente Chispa de la comuna de Temuco", Rol de avalúo 3206-51, comuna de Temuco. La superficie a expropiar aproximada es de 206,81 metros cuadrados, de aparente dominio de don José Antonio Pedraja García. Comisión de Peritos integrada por Constanza Miohevic González, Ingeniero Constructor, Alberto Arenas Pizarro, Arquitecto y Marcela Melo Rodríguez, Arquitecto, fijó monto de Indemnización Provisional en $24.963.512, según Informe Nº 28-0, de fecha 05/07/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
