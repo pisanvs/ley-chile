@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 563, de 08 de julio de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y D.F.L. M.O.P Nº206, de 1960, se expropió el lote de terreno Nº 51, para la obra "MEJORAMIENTO CAMINO ITROPULLI - SAN PEDRO, RUTAS T-695 Y T-699", que figura a nombre de ALVAREZ JARAMILLO CARLOS FAURO, rol de avalúo 555-9, Comuna de PAILLACO, REGIÓN DE LOS RÍOS, superficie 1.186 m2. La Comisión de Peritos integrada por MARIA SOLEDAD NÚÑEZ ARROYO, YASCHALA MARIBEL YÁÑEZ RIFFO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 20 de abril de 2015, fijó el monto de la indemnización provisional en la cantidad de $4.539.500.- para el lote Nº 51. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
