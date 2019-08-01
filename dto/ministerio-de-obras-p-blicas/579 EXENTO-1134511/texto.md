@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº579, de 08 de julio de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 15, 16 y 17, para la obra: MEJORAMIENTO RUTA S-75, SECTOR COLICO - CABURGUA NORTE, que figura a nombre de MARINA DE CAMPO S.A, roles de avalúo 1319-288, lote Nº15 y 1319-1, lotes Nº 16 y 17, Comuna de CUNCO, REGION DE LA ARAUCANIA, superficies 1.619, 9.936 y 1.900 m2 respectivamente. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 12 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $21.047.000 para el lote Nº15, $136.158.000 para el lote Nº16, y $39.900.000 para el lote Nº17. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
