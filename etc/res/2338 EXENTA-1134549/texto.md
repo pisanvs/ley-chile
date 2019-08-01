@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.338 de fecha 22/07/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 41-0, consistente en "lote Once de una superficie de 1.761,40 metros cuadrados del loteo Mirador del Valle, ubicado en el lugar Puente Chispa, Tromén, que corresponde a la dirección de calle Luis Durand 03140 de la comuna de Temuco", Rol de avalúo 4015-11, comuna de Temuco. La superficie a expropiar aproximada es de 19,14 metros cuadrados, de aparente dominio de Dayanna Yodette Navarrete Painemal. Comisión de Peritos integrada por Claudio Alejandro Romo Sanhueza, Arquitecto, Arturo Cantos Oyarzún, Arquitecto y Mario Benjamín Gutierrez Truán, Arquitecto, fijó monto de Indemnización Provisional en $3.544.880, según Informe Nº 41-0 de fecha 04/07/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
