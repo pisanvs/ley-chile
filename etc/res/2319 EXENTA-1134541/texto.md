@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.319 de fecha 19/07/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Nº 40-0, consistente en "inmueble de una superficie de dos mil seiscientos uno coma sesenta metros cuadrados, ubicado en el lugar Puente Chispa, provincia de Cautín, compuesto por dos lotes" (compuesto por dos lotes número uno y número cuatro), Rol de avalúo 1357-1, comuna de Temuco. La superficie a expropiar aproximada es de 195,94 metros cuadrados, de aparente dominio de Carlos Alberto Arévalo Valdebenito. Comisión de Peritos integrada por Claudio Alejandro Romo Sanhueza, Arquitecto, Arturo Cantos Oyarzún, Arquitecto y Mario Benjamín Gutiérrez Truán, Arquitecto, fijó monto de indemnización provisional en $24.381.284.-, según informe Nº 40-0 de fecha 04/07/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
