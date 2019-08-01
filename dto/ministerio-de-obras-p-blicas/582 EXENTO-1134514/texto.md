@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°582, de 08 de julio de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno Nºs.1, 2 y 3, para la obra: CONSERVACION RED VIAL BIO BIO (2015-2016-2017), SECTOR PUENTE PAJONAL, que figura a nombre de ESCUELA G-10 SANTA TRINIDAD, BUSTOS ULLOA EDIL A y BUSTOS ULLOA EDIL A, roles de avalúo 316-145, 316-39 y 316-39, Comuna de QUIRIHUE, REGIÓN DE ÑUBLE, superficies 73, 140 y 259 m2 respectivamente. La Comisión de Peritos integrada por VALESKA CAROLINA ALÉ GOÑI, ROXANA CECILIA ABARZÚA GAJARDO y VICTOR MARCELO SOTO TRONCOSO, mediante informe de tasación de 09 de septiembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $57.086 para el lote N°1, $115.900 para el lote N°2, y $177.415 para el lote N°3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
