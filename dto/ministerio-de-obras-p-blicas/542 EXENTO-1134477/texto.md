@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 542 de 8 de julio de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 100 para la obra: RELICITACION CONCESIÓN CAMINO NOGALES - PUCHUNCAVI. SECTOR: SECTOR 1 (RUTA F-20). SUBSECTOR: PLAZA PEAJE - FIN CUESTA. TRAMO: KM 6.500,00 AL KM 19.000,00, Región de Valparaíso, que figura a nombre de FERNANDEZ TOBAR ADRIANA DEL CARM Y, rol de avalúo 169-8, comuna de Puchuncaví, superficie 6.583 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 699 de 17 de diciembre de 2018, integrada por Claudia Paola Montes Cancino, Verónica Paz Olivier Valdebenito y Marlene Teresa Ríos Marcuello, fijó con fecha 17 de enero de 2019, el valor provisional de la indemnización en la cantidad de $13.673.000 para el lote Nº 100. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
