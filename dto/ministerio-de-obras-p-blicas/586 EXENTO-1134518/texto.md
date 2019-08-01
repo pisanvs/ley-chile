@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°586, de 08 de julio de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP N°206 de 1960, se expropiaron los lotes de terreno N°s.143, 144 y 148, para la obra: REPOSICION PAVIMENTO RUTA U-40, SECTOR: OSORNO - INTERSECCION RUTA U-52, que figuran a nombre de MORA SAGREDO LIDIA AURORA, AGUAS DEUMACAN WILMA MARIBEL y AGRICOLA Y FORESTAL HUEMPELEO LI, roles de avalúo 8002-1, 2217-144 y 2217-805, Comuna de OSORNO, REGION DE LOS LAGOS, superficies 389, 270 y 314 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y CARMEN PILAR RIOS MARCUELLO, mediante informe de tasación de 09 de mayo de 2018, fijó el monto de la indemnización provisional en la cantidad de $5.681.061, para el lote N°143, $1.117.905, para el lote N°144 y $1.669.000, para el lote N°148. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
