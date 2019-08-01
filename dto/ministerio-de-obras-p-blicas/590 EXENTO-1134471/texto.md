@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 590, de 23 de julio de 2019, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº 1469, de 24 de octubre de 2018, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº 75-A, expropiado con motivo de la obra: "Reposición Ruta 148, Sector: Cruce Ruta 5 - Puente Queime", Comuna de Bulnes, Provincia de Diguillín, Región de Ñuble, antes Región del Biobío. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 03 de noviembre de 2017, ascendente a la cantidad $7.403.295.-, para el lote Nº75-A.
