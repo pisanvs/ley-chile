@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbase, desde el 9 de julio de 2018 hasta el 30 de julio de 2019, la circulación de todo tipo de vehículos motorizados en Ruta G-45 Camino Padre Hurtado, sector Cuesta Chada, entre Km 37.500 y Km 41.012, comuna de Paine.
+1.- Prohíbase, desde el 9 de julio de 2018 hasta el 31 de agosto de 2019, la circulación de todo tipo de vehículos motorizados en Ruta G-45 Camino Padre Hurtado, sector Cuesta Chada, entre Km 37.500 y Km 41.012, comuna de Paine.
 
 Podrán circular excepcionalmente en el tramo señalado, los vehículos de emergencia, los destinados a cumplir funciones en las obras relacionadas con el proyecto "Mejoramiento Ruta G-45, Camino Padre Hurtado, Sector Cuesta Chada" y, aquellos vehículos que requieran ingresar o egresar desde su lugar de residencia.
 
