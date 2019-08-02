@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 4.348 EXENTA, DE 7 DE JUNIO DE 2019
+
+Por resolución exenta Nº 4.348, de fecha 7 de junio de 2019, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana, se modificó resolución exenta Nº 4.641, de 17 de julio de 2018, de misma Secretaría Regional Ministerial, que aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Santa Ana SpA", cuyo nombre de fantasía es "Santa Ana SpA", RUT Nº 76.803.273-4, ubicada en Avenida Américo Vespucio Nº 2740, comuna de Conchalí, sólo en sentido de aprobar cambio de Director de dicha sede, siendo ésta la señora Mariela del Pilar Martínez Cid, RUT Nº 10.445.701-0. En todo lo no modificado, se mantienen íntegramente vigentes las demás estipulaciones aprobadas por resolución exenta Nº 4.641, de 17 de julio de 2018, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago.
