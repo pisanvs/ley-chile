@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 1.259, de 1 de febrero de 2019, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Kairos", de propiedad de la sociedad "Alezthier SpA", RUT Nº 76.795.331-3, cuyo representante legal es el señor René Michael Andree González Alezthier. La Escuela de Conductores tendrá como Director a Alonso Esteban Palma Ramírez, RUT Nº 17.188.858-1 y está ubicada en Pedro de Oña Nº 071, comuna de Ñuñoa. Horas pedagógicas autorizadas a la referida Escuela son nueve horas teóricas y trece horas prácticas, con un total de veintidós horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
