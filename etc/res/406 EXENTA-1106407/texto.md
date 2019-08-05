@@ -248,6 +248,70 @@ La vida útil de los bienes de la concesión corresponderá a la definida en el 
 
 Todos los antecedentes de ingresos, inversiones y costos que se utilicen en los cálculos que se señalan en esta resolución deberán estar expresados en pesos chilenos al 31 de diciembre del año anterior al que se informa y no deben incluir el Impuesto al Valor Agregado. Los valores en dólares deberán ajustarse al tipo de cambio promedio de cada mes y posteriormente, hacer el ajuste de dichos valores en moneda nacional a la fecha anteriormente indicada.
 
+## Título IV
+
+DE LA ENTRADA EN OPERACIÓN DE UNA NUEVA ZONA DE CONCESIÓN
+
+Capítulo 1. Aspectos Generales
+
+#### Artículo 35
+
+En el caso de la entrada en operación de una nueva zona de concesión, el primer chequeo de rentabilidad se efectuará durante el año calendario siguiente al año de inicio de la operación, en caso que este período de operación, durante el primer año, supere los seis meses, considerando la rentabilidad económica obtenida durante dicho período. En este caso, la rentabilidad económica del período que se obtenga de aplicar la metodología señalada en los artículos 16 y siguientes del Título III de la presente resolución, deberá ser ajustada a su equivalente anual utilizando una tasa compuesta, a efectos de obtener una rentabilidad anual que sea comparable a la rentabilidad económica máxima establecida en el inciso siguiente. En caso que el período de operación durante el primer año no supere los seis meses, el primer chequeo de rentabilidad se efectuará en el año subsiguiente al de inicio de operación, considerando únicamente la rentabilidad del año calendario siguiente al de inicio de operación.
+
+La rentabilidad económica máxima para el primer chequeo de rentabilidad corresponderá a tres puntos porcentuales sobre la tasa de costo de capital a que se refiere el artículo 32 de la Ley y será calculada para el año correspondiente de conformidad a lo dispuesto en el artículo 38 de la presente resolución.
+
+Para efectos de determinar si durante el segundo chequeo de rentabilidad en esta nueva Zona de Concesión se excedió la tasa máxima de rentabilidad permitida, se considerará el promedio de las rentabilidades obtenidas durante el primer y segundo chequeo de rentabilidad, promedio que no deberá superar los tres puntos porcentuales sobre el promedio simple de los últimos dos años de la tasa de costo de capital definida en el artículo 32 de la ley y calculada para los años correspondientes de conformidad a lo dispuesto en el artículo 38 de la presente resolución.
+
+Lo dispuesto en los incisos anteriores no aplicará a aquellas nuevas zonas geográficas especificadas en uno o más decretos de concesión de Servicio Público de Distribución de Gas de Red, ubicadas en una zona de concesión existente de la misma Empresa Concesionaria sujeta al régimen de libertad tarifaria con límite máximo de rentabilidad.
+
+A los efectos de dar cumplimiento a lo dispuesto en el presente artículo, la Superintendencia deberá informar a la Comisión la entrada en operación de una nueva Zona de Concesión.
+
+Capítulo 2. De la metodología para la determinación de la tasa de rentabilidad económica anual de la empresa concesionaria por zona de concesión
+
+#### Artículo 36
+
+En el caso de la entrada en operación de una nueva zona de concesión, cuyo período de operación durante el primer año supere los seis meses, la rentabilidad económica de dicho período se determinará como aquella tasa de actualización que permite un flujo neto igual a cero a los bienes de propiedad de la Empresa Concesionaria en la nueva zona de concesión, que sean necesarios para prestar el Servicio Público de Distribución de Gas, incluyendo los Servicios Afines que correspondan. El flujo neto corresponderá a la diferencia entre los ingresos de explotación del período de operación y la suma de los costos de explotación de dicho período, de inversión y los impuestos a las utilidades, de acuerdo a la siguiente expresión:
+
+.
+
+Donde:
+
+. FN: Flujo Neto.
+
+. I: Ingresos de explotación.
+
+. C: Costos de explotación.
+
+. PVNR: Proporción de los costos de inversión asociados al período de operación.
+
+. IMP: Impuestos a las utilidades.
+
+Para lo anterior, se considerarán los costos de explotación y de inversión de la empresa real corregida de acuerdo a criterios de eficiencia y estándares similares aplicables a otras empresas de servicio público. Para estos efectos, se considerará la información proporcionada por la respectiva Empresa Concesionaria a la Comisión, de conformidad a lo dispuesto en el artículo 8 de la presente resolución.
+
+La proporción de los costos de inversión eficientes asociados al período de operación corresponderá a la inversión de la empresa real corregida en virtud de lo dispuesto en el inciso anterior, multiplicada por un factor de proporcionalidad del período de operación, cuyo valor es equivalente al factor de anualidad considerando la vida útil amplificada por el cociente entre doce y el número de meses del período de operación durante el primer año.
+
+La tasa de rentabilidad anual de la Empresa Concesionaria en la nueva zona de concesión para el primer año de operación corresponderá a la rentabilidad obtenida para el período de operación, de acuerdo a lo establecido en el presente artículo, ajustada a su equivalente anual utilizando una tasa compuesta.
+
+Capítulo 3. Del informe técnico cuatrienal de VNR
+
+#### Artículo 37
+
+En caso que una Empresa Concesionaria nueva comience sus operaciones o se restituya al régimen de libertad tarifaria con límite de rentabilidad durante el período de vigencia del Informe cuatrienal a que se refiere el Título II de la resolución exenta CNE N° 396 de 2017, la Comisión emitirá un informe en el que se establecerán los bienes eficientes, su vida útil, el VNR con sus fórmulas de indexación y los indicadores de eficiencia para la actividad de distribución de gas que sean aplicables a dicha Empresa Concesionaria para su chequeo de rentabilidad por zona de concesión, los que, en todo caso, regirán hasta el siguiente estudio cuatrienal.
+
+A efectos de elaborar el referido informe, la Comisión deberá seguir el mismo procedimiento y metodología establecida en la resolución exenta CNE N° 396 de 2017 para la elaboración del Informe Técnico Cuatrienal de VNR, emitiendo un informe técnico preliminar para la Zona de Concesión que corresponda, antes del 15 de agosto del año que corresponda de conformidad al artículo 35 de la presente resolución, o del año calendario siguiente de la notificación del informe que ordene poner término al régimen de fijación tarifaria, de conformidad a lo dispuesto en los incisos quinto y sexto del artículo 31 de la ley.
+
+La respectiva Empresa Concesionaria podrá observar y eventualmente discrepar el informe técnico en los términos dispuestos en la presente resolución.
+
+En el caso de la entrada en operación de una nueva zona de concesión durante el cuatrienio.
+
+Capítulo 4. Actualización de la tasa de costo de capital
+
+#### Artículo 38
+
+En caso de la entrada en operación de una nueva zona de concesión durante el cuatrienio de vigencia de la resolución a la que se refiere el artículo 17° de la resolución exenta CNE N° 117 de 2017, modificada por la resolución exenta CNE N° 209 de 2017, los componentes a que se refieren los literales a) a c) del artículo 14 de la referida resolución CNE N° 117 serán aquellos contenidos en la resolución señalada en el referido artículo 17. Por su parte, tratándose del factor individual de la tasa de costo de capital asociado a esta nueva Zona de Concesión será determinado por la Comisión en el informe preliminar referido al primer chequeo de rentabilidad al que se refiere el Artículo 35 de la presente resolución. La determinación de dicho factor quedará sujeto a las observaciones y a la resolución de discrepancias del Panel referidos en los artículos 12 y 13 de la presente resolución, respectivamente, manteniéndose su valor resultante hasta la entrada en vigencia del nuevo informe cuatrienal de tasa de costo de capital a que se refiere el artículo 17° de la resolución exenta CNE N° 117 de 2017.
+
+Con ocasión del informe al que se refiere el artículo 14 de la presente resolución, la Comisión deberá fijar las tasas de costo de capital de la Empresa Concesionaria para la nueva zona de concesión aplicables al año calendario para el que se está realizando el chequeo de rentabilidad y para el año siguiente, considerando para ello el factor individual por zona de concesión, determinado de conformidad a lo dispuesto en el inciso precedente, el valor del premio por riesgo de mercado y el valor del riesgo sistemático establecidos en el respectivo Informe Técnico de Tasa de Costo de Capital cuatrienal que fija la tasa de costo de capital vigente, y el valor de la tasa libre de riesgo contenida en la actualización señalada en el artículo 19 de la resolución exenta CNE N° 117 de 2017, según corresponda.
+
 Disposiciones Transitorias
 
 #### Artículo primero
@@ -277,6 +341,10 @@ transitorio: Sin perjuicio de lo estipulado en el artículo 28 de la presente re
 El año de entrada en operación de las redes y los demás bienes asociados a estas expansiones se determinará a partir de lo informado por las empresas concesionarias en el Sistema de Contabilidad Regulatoria. Para efectos de verificar la antigüedad de los bienes informados con entrada en operación entre el año 2002 y el año 2016, la Comisión considerará la auditoría externa independiente acompañada por las concesionarias en virtud de lo exigido en la resolución exenta CNE Nº 78, de 9 de febrero de 2017, que fija procedimiento de entrega de información por parte de las empresas concesionarias de servicio público de gas de red sujetas a chequeo anual de rentabilidad, en conformidad a lo dispuesto en la ley Nº 20.999 de 2017. En todo caso, la Comisión podrá revisar y corregir la información entregada en caso que ésta resulte incorrecta o inconsistente, especialmente en el caso de bienes respecto de los cuales el año informado corresponda a una renovación en lugar del año de entrada en operación de las expansiones.
 
 Para efectos de lo anterior, el VNR de costos de servidumbres y derechos asociados a redes de distribución determinados en el Informe Técnico Cuatrienal a que se refiere el artículo 33 bis de la ley se asignará para cada concesionaria en proporción a la longitud total de las redes, por zona de concesión y tipo de red, correspondiente a cada año, salvo cuando este valor sea posible de extraer de la documentación de respaldo entregada por la concesionaria para los valores efectivamente pagados.
+
+#### Artículo sexto
+
+transitorio: En caso de la entrada en operación de una nueva Zona de Concesión durante el cuatrienio correspondiente a los años 2018 a 2021, los componentes a que se refieren los literales a) a c) del artículo 14 de la resolución CNE N° 117 de 2017 serán aquellos contenidos en la resolución exenta N° 426, de 2017, de la Comisión Nacional de Energía. Por su parte, tratándose del factor individual de la tasa de costo de capital asociado a esta nueva zona de concesión, éste será determinado por la Comisión en el informe preliminar referido al primer chequeo de rentabilidad al que se refiere el Artículo 35 de la presente resolución, de conformidad a las normas contenidas en la resolución exenta CNE N° 117, de 15 de marzo de 2017, publicada en el Diario Oficial con fecha 21 de marzo de 2017, y sus modificaciones.
 
 #### Artículo segundo
 
