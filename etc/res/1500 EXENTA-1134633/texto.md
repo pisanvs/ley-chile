@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 1.500, de fecha 11 de febrero de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se otorgó reconocimiento oficial a la Escuela de Conductores Profesionales "Escuela de Conductores Profesionales ICP Chile SpA", cuyo nombre de fantasía es "ICP Chile SpA", RUT N° 76.819.989-2, de propiedad de la sociedad del mismo nombre, representada legalmente por el señor Luis Fernández Quinteros, para impartir los cursos conducentes a la obtención de las licencias de conductor profesional clases A-1, A-2 y A-4, en sede ubicada en Nueva de Lyon N° 0124, oficina 502, comuna de Providencia, y taller mecánico ubicado en Arrieta Cañas N° 5726, comuna de La Reina.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
