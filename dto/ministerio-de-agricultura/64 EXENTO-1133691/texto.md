@@ -12,13 +12,7 @@ Que, por razones de buen servicio, se hace necesario establecer el orden de subr
 
 Decreto:
 
-1. Establécese el orden de subrogación del cargo de Director Nacional de la Oficina de Estudios y Políticas Agrarias, el que quedará como sigue:
-
-1°) Jefe del Departamento de Análisis de Mercado y Política Sectorial de Odepa.
-
-2°) Jefe del Departamento de Recursos Institucionales de Odepa.
-
-3°) Jefe del Departamento de Computación e Informática de Odepa.
+### 1. Derogado
 
 2. Déjase sin efecto el decreto exento N° 21, de 2016, del Ministerio de Agricultura.
 
