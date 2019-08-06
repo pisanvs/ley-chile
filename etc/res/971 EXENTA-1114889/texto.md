@@ -32,6 +32,8 @@ Resuelvo:
 
 3. Los productos del origen, indicados en el resuelvo N° 2, que ingresen en tránsito; consolidados, sellados y que no requieren de una desconsolidación en los puntos de ingreso o de salida habilitados en Chile, no se les exigirá el cumplimiento de la presente resolución.
 
+Para el caso de partes y piezas de vehículos usados y los vehículos usados que se importen para fines especiales de exhibición, competición, recreación o para fines particulares y los vehículos usados, de origen Estados Unidos de Norteamérica, que sean importados por un tercer país y que permanezcan por un tiempo mínimo de 6 meses en dicho país, previo a su reexportación a Chile, sólo tendrán como requisito una inspección a su llegada al país
+
 4. Los tratamientos detallados en el resuelvo N° 5 de esta resolución, deben ser efectuados en el país de origen, por empresas autorizadas por el Servicio de Inspección de Plantas y Animales del Departamento de Agricultura de Estados Unidos (USDA/APHIS) o por empresas autorizadas por organismos federales o estatales competentes en la materia de tratamiento con plaguicidas, lo que se podrá acreditar mediante su registro en un listado oficial de empresas autorizadas de USDA/APHIS o por el organismo federal o estatal que se indique, debiendo este último ser previamente verificado por el Servicio.
 
 La empresa deberá acreditar la realización del tratamiento mediante la emisión de un certificado de tratamiento, en original, el cual debe contener al menos la siguiente información:
@@ -46,23 +48,21 @@ La empresa deberá acreditar la realización del tratamiento mediante la emisió
 
 - Tratamiento al cual fue sometido, indicando el nombre del plaguicida aplicado y dosis. Cuando se trate de una fumigación, también se debe consignar la temperatura mínima del proceso y tiempo de exposición.
 
-5. Los tratamientos, dependiendo del producto internado, deberán ser realizados de acuerdo a las siguientes especificaciones técnicas:
+5. Los tratamientos, dependiendo del producto a importar, deberán ser realizados de acuerdo a las siguientes especificaciones técnicas:
 
-a) Tratamiento con insecticidas piretroides en la dosis y concentración recomendadas en la etiqueta del plaguicida. Este tratamiento se encuentra autorizado sólo para vehículos usados y partes y piezas de vehículos usados.
+a) Tratamiento con insecticidas piretroides en la dosis y concentración recomendadas en la etiqueta del plaguicida. Este tratamiento se encuentra autorizado sólo para vehículos usados o partes y piezas de éstos.
 
-Las aplicaciones de piretroides se realizarán en forma interna y externa del vehículo, con equipos de termoniebla, nebulización u otros que el Servicio considere técnicamente adecuados.
+Las aplicaciones de piretroides se realizarán en la parte interna y externa del vehículo, con equipos de termoniebla, nebulización u otros que el Servicio considere técnicamente adecuados.
 
-b) Tratamientos de fumigación con bromuro de Metilo y Fosfina.
+b) Tratamientos de fumigación.
 
-Estos tratamientos se encuentran autorizados para vehículos usados (incluidas las partes y piezas de estos vehículos), siendo responsabilidad del aplicador como del interesado verificar la factibilidad de idoneidad de aplicación en los mismos, ropa y artículos de vestuario usados, calzado usado y juguetes usados.
+Estos tratamientos se encuentran autorizados para vehículos usados, ropa y artículos de vestuario usados, calzado usado y juguetes usados, siendo responsabilidad del aplicador y del interesado verificar la factibilidad de aplicación en los mismos, sin dañar el producto.
 
-Se debe tener presente que al realizar el tratamiento con Bromuro de Metilo, los productos no pueden estar constituidos entre otros por caucho, aluminio, cobre, latón, productos con alto contenido en grasa y aquellos derivados del petróleo.
+Se debe tener presente que, al realizar el tratamiento con bromuro de metilo, los productos no pueden estar constituidos, entre otros, por caucho, aluminio, cobre, latón, productos con alto contenido en grasa y aquellos derivados del petróleo.
 
-Se debe tener presente que al realizar el tratamiento con Fosfina, los productos no pueden contener, entre otros, materiales de cobre, bronce, oro, plata, o estar impregnadas con sales de cobre por su reacción con la Fosfina.
+Se debe tener presente que, al realizar el tratamiento con fosfina, los productos no pueden contener, entre otros, materiales de cobre, bronce, oro, plata, o estar impregnados con sales de cobre por su reacción con la fosfina.
 
-En aquellos productos o partes de productos que no pudieran ser tratados con Bromuro de Metilo o Fosfina, se deberá aplicar el tratamiento dispuesto en el literal a) del presente numeral.
-
-b.1.Fumigación con bromuro de Metilo
+b.1 Fumigación con Bromuro de Metilo.
 
 .
 
@@ -70,7 +70,19 @@ b.2 Fumigación con Fosfina
 
 .
 
-c) Otros tratamientos definidos por el Servicio.
+b.3 Fumigación con Floruro de Sulfurilo
+
+.
+
+(Fuente: Control del Chinche Apestoso Marrón Marmorado (BMSB) del Departamento de Agricultura y Recursos Hídricos de Australia)
+
+La temperatura de tratamiento de Floruro de Sulfurilo deberá ser superior a 5ºC medida en ambiente.
+
+c) Tratamiento de calor en cámara u otras instalaciones aptas para realizar este tipo de tratamientos, hasta alcanzar una temperatura ambiente de al menos 50ºC durante un período mínimo de 20 minutos.
+
+Se debe tener presente que, al realizar un tratamiento con calor, los productos no debieran contener combustibles, aceites o hidrocarburos debido a que existe un riesgo de inflamación de éstos.
+
+El Servicio podrá autorizar la aplicación de otro tipo de tratamiento, una vez que se ha evaluado la eficacia del mismo.
 
 6. Los productos señalados en esta resolución, serán sometidos a una inspección fitosanitaria a su arribo al país, en el punto habilitado, en recintos considerados como zona primaria o bien, en algún recinto especialmente habilitado para ello, en conformidad con los requisitos definidos por el Servicio. El traslado a estos lugares deberá realizarse asegurando el resguardo del producto, previa autorización del Servicio Nacional de Aduanas.
 
@@ -84,7 +96,7 @@ Los tratamientos fitosanitarios ordenados por el Servicio, en puntos habilitados
 
 Los productos tratados serán sometidos a una nueva inspección fitosanitaria.
 
-7. Los productos que arriben a este país sin tratamiento, tratados por empresas que no se encuentren autorizadas por USDA/APHIS o por el organismo federal o estatal competente, o bien, se compruebe que un certificado de tratamiento es fraudulento, serán rechazados.
+7. "Los productos que arriben al país, con un certificado de tratamiento fraudulento, serán rechazados.
 
 8. Será causal de rechazo del envío si existe imposibilidad de aplicar un tratamiento fitosanitario en Chile o por negativa del importador a la ejecución del tratamiento. En estos casos, el producto deberá ser rechazado y rembarcado al país de origen o redestinado a otro mercado, en cumplimiento con los plazos definidos por el Servicio. Ante la intercepción de Halyomorpha halys en productos y orígenes distintos a los establecidos en el resuelvo N° 2, serán aplicables las medidas fitosanitarias establecidas en la presente resolución, en el caso de que fueren factibles de aplicar, u otras que el Servicio determine.
 
@@ -96,7 +108,7 @@ Es de responsabilidad del importador informarse sobre la factibilidad de aplicac
 
 11. Deróguense las siguientes resoluciones N° 6.319, de 2013, N° 6.466, de 2017, y N° 682, de 2018.
 
-12. Único transitorio. Excepcionalmente, se podrá permitir el ingreso de los productos que se encuentren inmovilizados o rechazados en distintos puntos habilitados, o que se transporten en naves que zarpen previamente a la entrada en vigencia de la presente resolución, siempre y cuando sean sometidos a inspección y vengan amparados por un certificado de tratamiento, en original, que indique la información mínima señalada en el resuelvo N° 4, aun cuando la empresa de tratamiento no éste autorizada por USDA/APHIS o un organismo federal o estatal competente en la materia.
+12. Para los productos que arriben al país sin tratamiento o para productos tratados por empresas que no se encuentren autorizadas por USDA/APHIS o por el organismo federal o estatal competente, el Jefe de la División de Protección Agrícola y Forestal podrá autorizar la ejecución de un tratamiento mediante la emisión de una resolución exenta caso a caso, siempre y cuando el embalaje o la forma de presentación de la mercancía permitan su realización, en conformidad con lo descrito en el resuelvo 6 de la resolución Nº 971 de 2018.
 
 En la eventualidad que los productos a que se refieren el párrafo anterior, arriben al país sin certificado de tratamiento, el Servicio podrá autorizar de forma excepcional la aplicación de un tratamiento, siempre y cuando existan las condiciones para realizarlo, y el material de embalaje permita acciones de tratamiento de fumigación; en caso contrario, el producto será rechazado. Lo mismo aplicará en caso que se intercepte Halyomorpha halys viva, otros artrópodos vivos u otro incumplimiento.
 
