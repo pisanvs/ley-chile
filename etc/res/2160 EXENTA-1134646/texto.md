@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.160 EXENTA, DE 19 DE MARZO DE 2019
+
+Por resolución exenta Nº 2.160, de 19 de marzo de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modificó resolución exenta Nº 1.941, de 21 de abril de 2016, de la misma Secretaría Regional Ministerial, que aprueba el programa de enseñanza de la Escuela de Conductores No Profesionales o Clase B "Astudillo y Blanco Limitada" o "Colón Ltda.", RUT Nº 76.573.920-9, ubicada en Avenida Balmaceda Nº 461, comuna de San Bernardo, sólo en sentido de aprobar cambio de Director de dicha sede, siendo este el señor Nicolás Blanco Castro, RUT Nº 22.121.231-2. En todo lo no modificado, se mantienen íntegramente vigentes las demás estipulaciones aprobadas por resolución exenta Nº 1.941, de 21 de abril de 2016, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago.
