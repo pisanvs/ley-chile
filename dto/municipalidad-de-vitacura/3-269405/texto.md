@@ -1570,7 +1570,7 @@ La aprobación de proyectos de urbanización producto de los proyectos de loteo 
 
 Los antejardines mínimos no establecidos en los planos de loteo y/o seccionales, ni en las disposiciones que se fijan sobre esta materia para las diferentes Áreas de Edificación, serán de 5 m. para los predios que enfrentan calles, y de 3 m. para los predios que enfrentan pasajes y/o áreas verdes sin una vía pública de por medio.
 
-Sin perjuicio de los antejardines fijados en los cuadros de edificación del artículo 41, para todos los proyectos de reparaciones, alteraciones, obras menores en la construcción existente y/o ampliaciones en edificaciones acogidas a los cuadros sin densificación del artículo 41, los interesados podrán mantener la aplicación del antejardín existente, cuando este sea menor que el antejardín fijado por dichos cuadros, excepto en las propiedades en vías afectas a utilidad pública, en las cuales se aplicarán siempre los antejardines de los cuadros citados.
+Sin perjuicio de los antejardines fijados en los cuadros de edificación del artículo 41, para todos los proyectos de reparaciones, alteraciones, obras menores en la construcción existente y/o ampliaciones, los interesados podrán mantener la aplicación del antejardín existente, cuando este sea menor que el antejardín fijado por dichos cuadros, excepto en las propiedades en vías afectas a utilidad pública, en las cuales se aplicarán siempre los antejardines de los cuadros citados.
 
 #### Artículo 9
 
@@ -1626,29 +1626,11 @@ Los cierros en esquina, deberán formar ochavos según lo previsto en la Ordenan
 
 #### Artículo 14
 
-Los proyectos de edificación que se propongan en terrenos originados en la fusión de dos o más predios en uno, tendrán derecho al beneficio establecido en el Artículo 63 de la Ley General de Urbanismo y Construcciones.
+Derogado.
 
 #### Artículo 15
 
-En terrenos de superficie menor que la exigida en los Cuadros de Edificación del Artículo 41 de esta Ordenanza, se podrá aprobar proyectos de edificación en las siguientes condiciones: (1)
-
-a) Si se trata de proyectos no acogidos a los Cuadros de Densificación del Artículo 41, se aprobarán cumpliendo con las demás normas del cuadro correspondiente
-
-b) Si se trata de proyectos acogidos a los Cuadros de Densificación del Artículo 41, se aprobarán sólo en el caso de calificar como 'Predio Remanente Aislado'.
-
-'Predio Remanente Aislado' es aquel sitio que, además de no cumplir con la superficie predial mínima exigida, está rodeado por edificaciones de 4 pisos o más o por algún Uso de Suelo Equipamiento especial N°1 Comunal (U-Ee1), en todos los predios colindantes. Si esta condición no se cumple por uno y sólo uno de los deslindes del sitio, igualmente se considerará que es 'Predio Remanente Aislado' si dicho deslinde común tiene 28 m. ó menos de extensión.
-
-En estos casos, se permitirá un antejardín igual al establecido para los proyectos sin densificación, se admitirá la construcción de departamentos de uso residencial en primer piso y, sin perjuicio de lo dispuesto en el Artículo 20, se permitirá hasta dos recogimientos sucesivos a partir de los planos de fachada aunque ellos disten menos de 8m. del medianero, siendo aplicable un distanciamiento mínimo de 5 m hasta una altura de 15 m. Sobre esta altura, se agregará un distanciamiento de 1 m. por cada piso adicional.
-
-En todo lo demás, se deberá cumplir con las normas de densificación del Área de Edificación correspondiente.
-
-Para los predios ubicados en Área de Edificación Aislada alta Nº 2 (E-Aa2), que no define subdivisión mínima del predio ni altura máxima, se utilizará, sólo para este efecto, la subdivisión mínima y la altura máxima correspondiente al Área de Edificación Aislada alta Nº 1 (E-Aa1).
-
-______________________________
-
-(1) Modificado por Decreto Alcaldicio sección 1ª
-
-Nº 3/427, D.O.17.03.06. (Modificación Nº 14)
+Derogado.
 
 #### Artículo 16
 
@@ -1656,7 +1638,7 @@ Los edificios deberán respetar en sus deslindes y a partir de los ejes de las c
 
 #### Artículo 17
 
-Cuando el fondo o el frente de un lote no permita desarrollar edificaciones, los distanciamientos mínimos a los medianeros se podrán disminuir en una razón de 1 m. por cada 2 pisos menos de la altura máxima definida para cada sector, sin poder en ningún caso disminuir los distanciamientos mínimos fijados por la Ordenanza General de Urbanismo y Construcciones en el Capítulo 6 del Título 2.
+Derogado.
 
 #### Artículo 18
 
@@ -1684,7 +1666,7 @@ b) En un predio no esquina que enfrente calles de distinto ancho, se deberá con
 
 #### Artículo 20
 
-Sin perjuicio de los distanciamientos definidos para cada Área de Edificación, las edificaciones cuyos planos de fachadas, incluyendo balcones, jardineras y salientes, se distancien un mínimo de 8 m. de los medianeros, podrán, a partir de ese distanciamiento, realizar un máximo de 3 recogimientos sucesivos a partir de la línea de fachada, hasta alcanzar la altura máxima.
+En los casos en que el distanciamiento definido para cada Área de Edificación se defina mediante una fórmula, la distancia se aplicará de manera uniforme en función de la altura total de la edificación, estableciendo así el distanciamiento mínimo a aplicar en todo el plano de fachada y no de manera diferenciada por piso, con el fin de evitar recogimientos, exceptuando lo indicado en el Artículo 23 de la Ordenanza del Plan Regulador Comunal." Junto a lo anterior, el inciso primero pasa a ser el inciso segundo.
 
 #### Artículo 21
 
@@ -1723,8 +1705,6 @@ En el área reglamentada como antejardín sólo se autoriza las construcciones d
 En estos casos, las superficies edificadas se considerarán para el cálculo de ocupación de suelo y constructibilidad máxima.
 
 Los elementos construidos sobre los antejardines no podrán ocupar más del 30% de la superficie de éstos, ni podrán tener una fachada de una extensión mayor al 20% del frente del predio.
-
-En estas áreas, no se permite exhibir ni vender productos, y ninguna clase de bienes y servicios sujetos a comercialización.
 
 #### Artículo 26
 
@@ -1830,7 +1810,7 @@ NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 15
 
 Cuadro 7: Áreas de Edificación
 
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 15
+.
 
 Cuadro 8: Zonas de Usos de Suelo
 
@@ -3399,6 +3379,8 @@ aprobado por el Asesor Urbanista.
 d) El propietario deberá soterrar los cables aéreos
 
 existentes en el frente del predio.
+
+> **Nota.** Los numerales 1.2.7, 1.2.8 y 1.2.9 del numero 1.2 del artículo único del Decreto 125, Municipalidad de Vitacura, publicado el 06.08.2019, modifica la presente norma en el sentido de introducir cambios en los cuadros de la presente norma, los que por restricciones técnicas no han sido actualizados.
 
 #### Artículo 42
 
