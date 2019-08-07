@@ -202,6 +202,60 @@ software que utilizará el SIT; y
 
 g) Manual de uso del SIT.
 
+5. En los casos en que se desee utilizar el Simulador de Inmersión Total (SIT) para la realización de un curso ocasional en un domicilio distinto al señalado en la resolución de reconocimiento oficial, un Informe Técnico que incluya los antecedentes técnicos y otros documentos, que demuestren la factibilidad de trasladar y operar el SIT en recintos móviles que a lo menos cuenten con un habitáculo cerrado tipo contenedor, describiendo a lo menos las siguientes características:
+
+a) El sistema de anclaje y amortiguación del
+
+SIT al piso del habitáculo cerrado, que
+
+asegure óptimas condiciones de los
+
+componentes internos del simulador para
+
+la operación y traslado.
+
+b) Plano o diagrama que incluya las
+
+dimensiones (ancho, alto y largo en
+
+unidades métricas) del habitáculo cerrado,
+
+que permitan la correcta funcionalidad
+
+de la operación y movimiento de la
+
+plataforma del simulador, así como
+
+también el desplazamiento del alumno e
+
+instructor en el espacio. Este plano o
+
+diagrama debe incluir el espacio entre
+
+la torre de visualización, la plataforma
+
+del simulador y el puesto del instructor.
+
+c) Descripción y diagramas de la conexión
+
+eléctrica, capacidad mínima según el
+
+consumo del equipo, y del sistema
+
+automático (con conexión a tierra).
+
+d) Descripción de las condiciones de
+
+hermeticidad y sellado del habitáculo
+
+cerrado, a fin de evitar condensación
+
+interna y humedad.
+
+e) Descripción del piso del habitáculo
+
+cerrado, respecto a aislación eléctrica.
+
 #### Artículo 3°
 
 En un plazo no superior a 10 hábiles, contado desde la fecha de recepción de la solicitud anterior, el Centro emitirá un pronunciamiento respecto del cumplimiento de los requisitos señalados en el decreto supremo N° 126, de 2012, del Ministerio de Transportes y Telecomunicaciones.
