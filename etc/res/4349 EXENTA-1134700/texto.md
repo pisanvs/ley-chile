@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 4.349 EXENTA, DE 7 DE JUNIO DE 2019
+
+Por resolución exenta N° 4.349, de fecha 7 de junio de 2019, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana de Santiago, se modificó resolución exenta N° 921, de 17 de diciembre de 2002, de misma Secretaría Regional Ministerial de Transportes y Telecomunicaciones, que otorgó reconocimiento oficial a Escuela de Conductores Profesionales "ABC Escuela de Conductores Limitada", RUT N° 77.651.130-7, ubicada en Blas Cañas N° 477, comuna de Santiago, sólo en sentido de incorporar en su resuelvo, a continuación del punto aparte, que pasa a ser coma, ", y taller mecánico ubicado en Bellavista N° 0213, comuna de Providencia.". En todo lo no modificado se mantienen íntegramente vigentes demás estipulaciones aprobadas por resolución exenta N° 921, de 17 de diciembre de 2002, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago.
