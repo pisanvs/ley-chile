@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 2.233 EXENTA, DE 22 DE MARZO DE 2019
+
+Por resolución exenta N° 2.233, de fecha 22 de marzo de 2019, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana, se modificó resolución exenta N° 4.173, de 19 de agosto de 2015, de misma Secretaría Regional Ministerial, que aprueba nueva sede La Florida de la Escuela de Conductores No Profesionales o Clase B "Automóvil Club de Chile Limitada", RUT N° 77.323.230-K, ubicada en Avenida La Florida N° 10149, comuna de La Florida, sólo en el sentido de incorporar el Director de dicha sede, siendo este el señor Henry William Ojeda Berríos, RUT N° 13.709.929-2. En todo lo no modificado, se mantienen íntegramente vigentes las demás estipulaciones aprobadas por resolución exenta N° 4.173, de 19 de agosto de 2015, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago.
