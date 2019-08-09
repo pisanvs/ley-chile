@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 7.519 EXENTA, DE 26 DE NOVIEMBRE DE 2018
+
+Por resolución exenta N° 7.519, de 26 de noviembre de 2018, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Comercializadora de Bienes y Servicios Marcat SpA", de propiedad de la sociedad "Comercializadora de Bienes y Servicios Marcat SpA", cuyo nombre de fantasía es "Marcat SpA", RUT N° 76.885.712-1, cuya representante legal es la señora Nidia Antonia Alonso Catalán. La Escuela de Conductores tendrá como Director a Carlos Alejandro Fernández Flores, RUT N° 7.555.692-6, está ubicada en Avenida Francisco Bilbao N° 2996, comuna de Providencia. Horas pedagógicas autorizadas a la referida Escuela son nueve horas teóricas y trece horas prácticas, con un total de veintidós horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
