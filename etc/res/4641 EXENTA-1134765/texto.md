@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 4.641 EXENTA, DE 17 DE JULIO DE 2018
+
+Por resolución exenta Nº 4.641, de 17 de julio de 2018, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Santa Ana SpA", de propiedad de la sociedad "Escuela de Conductores Santa Ana SpA", cuyo nombre de fantasía es "Santa Ana SpA", RUT N° 76.803.273-4, cuyo representante legal es la señora Mariela del Pilar Martínez Cid. La Escuela de Conductores tendrá como Director a Marcial Alejandro Toledo Araya, y está ubicada en Avenida Américo Vespucio N° 2740, comuna de Conchalí. Horas pedagógicas autorizadas a la referida Escuela son diez horas teóricas y doce horas prácticas, con un total de veintidós horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
