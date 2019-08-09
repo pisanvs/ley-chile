@@ -32,7 +32,7 @@ Los porcentajes señalados en el presente resuelvo, para la postulación o para 
 
 3. Las personas que resulten seleccionadas en el presente llamado, pertenecientes al Registro de Familias del Programa de Campamentos y/o que ocupan terrenos en un Campamento del Catastro, ambos registros de este Ministerio, deberán desarmar la mediagua o habitación construida en dichos terrenos. Estos terrenos de ningún modo podrán ser traspasados, cedidos ni arrendados a otras personas, debiendo quedar desocupados desde el momento de la entrega de la vivienda del proyecto habitacional o cuando la persona beneficiada aplique, si corresponde, los Gastos de Traslado Transitorio, a los que se refiere la resolución exenta Nº 4.017 (V. y U.), de fecha 28 de junio de 2016, que aprueba el Manual de Procedimientos para Aplicación de Gastos de Traslados Transitorios y Subsidios de Albergues Transitorios, del Programa Campamentos. Si la persona beneficiada no cumple con lo señalado en este resuelvo, el Serviu respectivo deberá iniciar las acciones contempladas en el artículo 61, del D.S. Nº 49 (V. y U.), de 2011, referidas a las infracciones de personas postulantes y beneficiadas y se podrá cursar el reemplazo de la persona beneficiada en el proyecto.
 
-4. Los recursos destinados a nivel nacional para la selección de beneficiarios alcanzarán los siguientes montos para las regiones señaladas a continuación:
+4. Los recursos destinados a nivel nacional para la selección de las personas postulantes son los señalados en la siguiente tabla:
 
 .
 
