@@ -64,6 +64,8 @@ conectores y otros) : 0,7dB.
 
 - Largo cable alimentador : 22 metros.
 
+- Potencia máxima del Transmisor: 25 Watts.
+
 - Arreglo de Antenas:
 
 - Diagrama de radiación horizontal, de acuerdo a la siguiente tabla:
