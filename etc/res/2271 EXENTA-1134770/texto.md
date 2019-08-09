@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 2.271, de fecha 23 de julio de 2019, de esta Secretaría Regional, se dispuso la puesta en marcha definitiva de la Planta Revisora clase AB Código AB0537, con tres (3) líneas de revisión tipo L (livianas) y una (1) línea de revisión tipo P (pesada), ubicada en calle San Rafael s/n°, Lote A de la comuna de Los Andes, Región de Valparaíso, correspondiente a la concesión cuatro (4), de responsabilidad del concesionario "Moody International Holdings Chile Ltda.", a contar del día 24 de julio de 2019. El concesionario deberá ejecutar las medidas de mitigación establecidas en el Informe Vial Básico, aprobado por esta Secretaría Regional Ministerial mediante oficio N°1908, de 26 de octubre de 2018, en el plazo máximo cinco meses contados desde la publicación del presente extracto en el Diario Oficial.-
+
+José Emilio Guzmán Cepeda, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso.
