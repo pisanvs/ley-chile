@@ -72,6 +72,10 @@ Tocopilla Cobija
 
 Caleta Buena (Los Chinos)
 
+Huachán
+
+Indígena
+
 Punta Atala
 
 Tocopilla
@@ -105,6 +109,8 @@ El Cisne
 Barranquilla
 
 Maldonado
+
+Torres del Inca
 
 Totoral Bajo
 
@@ -166,7 +172,9 @@ El Apolillado
 
 Playa Chica de La Herradura
 
-Limarí Talcaruca
+Limarí El Sauce
+
+Talcaruca
 
 Limarí
 
