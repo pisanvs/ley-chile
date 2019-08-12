@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "LTE LOS ÁNGELES SUR-DUQUECO"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N°40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta N° 113 de fecha 24 de julio de 2019, la Directora Regional del Servicio de Evaluación Ambiental de la Región del Biobío, ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "LTE Los Ángeles Sur-Duqueco", cuyo proponente es Wpd Duqueco S.p.A.
+
+El proyecto considera la construcción y operación de una Subestación Eléctrica y una Línea de Transmisión Eléctrica de 1x66 kV de aproximadamente 4,4 kilómetros de longitud. Comprende una superficie de 8,5 há, la subestación Los Ángeles Sur se encuentra a aproximadamente 3,9 kilómetros al suroeste de la ciudad de Los Ángeles, al oeste de la ruta Panamericana Sur (Ruta 5); la línea continua en dirección Este por aproximadamente 4,4 kilómetros hasta llegar a la Subestación Duqueco (existente). La LTE considera 27 torres que sostendrán el tendido eléctrico, la torre N°27 es una torre ya existente de propiedad de CGE.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto, según lo dispuesto en el artículo 95 del DS N° 40/2012 y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicada en calle Lincoyán 145, Concepción, en horario de atención entre las 8:30 a 13:30 horas, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Directora Regional, Servicio de Evaluación Ambiental Región del Biobío.
