@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO SUSCRITO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y DIRECCIÓN NACIONAL DEL SERVICIO CIVIL, SOBRE MATERIAS QUE INDICA
+
+Por resolución exenta N° 233, de 9 de julio de 2019, el Director Nacional del Instituto de Previsión Social, aprobó el Convenio entre la Dirección Nacional del Servicio Civil y el Instituto de Previsión Social, suscrito con fecha 18 de junio de 2019 y aprobado por la División Jurídica con fecha 5 de julio de 2019, cuyo objeto consistirá en que este Instituto realice las gestiones correspondientes ante la Dirección de Presupuesto, para efectos de la transferencia al Servicio Civil de los recursos que se indican, con el objeto de ejecutar la capacitación en las materias que se señalan, que se indican en su cláusula segunda.
+
+Santiago, 6 de agosto de 2019.- Patricio Coronado Rojo, Director Nacional.
