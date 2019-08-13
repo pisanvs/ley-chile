@@ -1,0 +1,5 @@
+APRUEBA TÉRMINO DE CONTRATO DE COMODATO ENTRE EL SERVICIO NACIONAL DEL ADULTO MAYOR Y EL INSTITUTO DE PREVISIÓN SOCIAL, RESPECTO DEL INMUEBLE INSTITUCIONAL UBICADO EN CALLE SUCRE N° 311, COMUNA Y REGIÓN DE ANTOFAGASTA
+
+Por resolución exenta I N° 30, de 25 de julio de 2019, el Jefe Departamento Administración e Inmobiliaria del Instituto de Previsión Social, aprobó el documento "Término de Contrato de Comodato", suscrito con fecha 18 de junio de 2019, entre este Instituto y el Servicio Nacional del Adulto Mayor, mediante el cual las partes acuerdan poner término al Contrato de Comodato, aprobado mediante resolución exenta N° 1.308, de 4 de octubre de 2006, de la Dirección Nacional del ex INP, actual Instituto de Previsión Social, sólo respecto a la parte del inmueble institucional ubicado en calle Sucre N° 311, ciudad y Región de Antofagasta.
+
+Santiago, 6 de agosto de 2019.- Jorge Villegas Leiva, Jefe Departamento Administración e Inmobiliaria.
