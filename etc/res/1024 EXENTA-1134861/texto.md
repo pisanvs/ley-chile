@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 1.024, de fecha 22 de julio de 2019, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores denominada Saint Paul, Christian Favio Duque Romero E.I.R.L., de nombre de fantasía "Activa Conducción", cuyo propietario es Christian Favio Duque Romero. La Escuela de Conductores tendrá como Director a Paul Axel Duque Retamales, y su sede estará ubicada en Avenida Bernardo O'Higgins Nº 505, piso 2, comuna de San Fernando. Las horas pedagógicas autorizadas a la referida Escuela son 9 horas teóricas y 13 horas prácticas, con un total de 22 horas pedagógicas.-
+
+Hans González González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Libertador General Bernardo O'Higgins.
