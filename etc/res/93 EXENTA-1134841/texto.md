@@ -1,0 +1,5 @@
+DETERMINA CONTRIBUYENTE OBLIGADO A APLICAR A LOS BIENES O PRODUCTOS, SUS ENVASES, PAQUETES O ENVOLTORIOS, EL SISTEMA DE MARCACIÓN ESTABLECIDO EN EL ARTÍCULO 60 QUINQUIES DEL CÓDIGO TRIBUTARIO Y 13 BIS DEL DL Nº 828, DE 1974, E INDICA EMPRESA CON LA CUAL EL CONTRIBUYENTE OBLIGADO DEBERÁ CONTRATAR, CON EL OBJETO DE IMPLEMENTAR EL SISTEMA DE TRAZABILIDAD FISCAL
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 93 del 7 de agosto de 2019 que "Determina contribuyente obligado a aplicar a los bienes o productos, sus envases, paquetes o envoltorios, el sistema de marcación establecido en el artículo 60 quinquies del Código Tributario y 13 bis del DL Nº 828, de 1974, e indica empresa con la cual el contribuyente obligado deberá contratar, con el objeto de implementar el Sistema de Trazabilidad Fiscal".
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl).
