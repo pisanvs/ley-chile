@@ -1268,8 +1268,6 @@ Tabla 13: Coeficientes Indexación Obras de Ampliación de Transmisión Zonal
 
 .
 
-> **Nota.** El literal a) del numeral 3.1.1. del artículo primero del Decreto 200 Exento, Energía, publicado el 04.11.2022, reemplaza la obra de expansión descrita en el numeral 2.4.18 de la presente norma, por aquellas descritas en los numerales 1.5 del Sistema de Transmisión Nacional, y 2.4.7 y 2.4.8, ambas del Sistema E del citado decreto, en términos de su título, descripción, fecha de entrada en operación, valor de inversión referencial y condiciones para su licitación y adjudicación.
-
 #### Artículo segundo
 
 Las obras de ampliación que trata el artículo primero del presente decreto, deberán ser licitadas por el Coordinador, en conformidad a lo dispuesto en el artículo 95º de la Ley y a lo siguiente:
