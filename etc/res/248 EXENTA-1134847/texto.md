@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LA ACTIVIDAD DE "TÉCNICO DE GENERADOR DE VAPOR (OPERADOR DE CALDERA)", DESARROLLADA PARA EL EMPLEADOR "HOSPITAL DE QUELLÓN"
+
+Por resolución exenta N° 248, de 22 de julio de 2019, el Director Nacional del Instituto de Previsión Social, calificó como Trabajo Pesado la labor de "Técnico de Generador de Vapor (Operador de Caldera)", desarrollada entre el 01.11.1987 y el 20.08.1995, para el empleador "Hospital de Quellón". Dispuso su incorporación al Listado Oficial de Actividades e Industrias Diversas Calificadas como Trabajo Pesado, correspondiendo aplicar una rebaja de edad de 1X5 (un año por cada cinco años de labores pesadas), beneficio que permite impetrar jubilación por vejez, con rebaja en la edad.
+
+Santiago, 6 de agosto de 2019.- Patricio Coronado Rojo, Director Nacional.
