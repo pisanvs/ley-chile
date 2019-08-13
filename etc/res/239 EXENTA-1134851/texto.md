@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LA LABOR DE "AUXILIAR DE SERVICIOS DE EMERGENCIA", EJECUTADA PARA EL EMPLEADOR "HOSPITAL HIGUERAS DE TALCAHUANO"
+
+Por resolución exenta N° 239, de 11 de julio de 2019, el Director Nacional del Instituto de Previsión Social, calificó como Trabajo Pesado la labor de "Auxiliar de Servicios de Emergencia", desarrollada para el empleador "Hospital Higueras de Talcahuano", durante el periodo comprendido entre el 1 de julio de 1993 al 20 de agosto de 1995, y dispuso su incorporación al Listado Oficial de Actividades e Industrias Diversas Calificadas como Trabajo Pesado, correspondiendo aplicar una rebaja de edad de 1X5 (un año por cada cinco años de labores pesadas), beneficio que permite impetrar jubilación por vejez, con rebaja en la edad.
+
+Santiago, 2 de agosto de 2019.- Patricio Coronado Rojo, Director Nacional.
