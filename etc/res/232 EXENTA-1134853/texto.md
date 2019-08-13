@@ -1,0 +1,5 @@
+SE APRUEBA EL TÉRMINO DE COMÚN ACUERDO A CONVENIO DE COLABORACIÓN SUSCRITO EL 13.11.2008, ENTRE EL SERVICIO DE BIENESTAR DEL INSTITUTO DE PREVISIÓN SOCIAL Y LA EDITORIAL UNIVERSITARIA, APROBADO POR RESOLUCIÓN N° 2.256 EXENTA, DE 26.12.2008, DEL INSTITUTO DE PREVISIÓN SOCIAL
+
+Por resolución exenta N° 232, de 9 de julio de 2019, el Director Nacional del Instituto de Previsión Social, aprobó el documento "Término de Común Acuerdo a Convenio de Colaboración", suscrito el 26 de junio de 2019, entre el Instituto de Previsión Social y la Editorial Universitaria, por el cual las partes ponen término al Convenio de Colaboración de 13 de noviembre de 2008, aprobado por la resolución exenta N° 2.256, de 26 de diciembre de 2008, del ex Instituto de Normalización Previsional, actual Instituto de Previsión Social.
+
+Santiago, 6 de agosto de 2019.- Patricio Coronado Rojo, Director Nacional.
