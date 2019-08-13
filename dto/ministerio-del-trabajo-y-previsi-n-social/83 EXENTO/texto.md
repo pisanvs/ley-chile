@@ -124,7 +124,7 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente o
 
 i) A la persona designada expresamente para tales efectos por el afiliado;
 
-ii) Al cónyuge sobreviviente;
+ii) Al cónyuge sobreviviente o al conviviente civil sobreviviente;
 
 iii) A los hijos;
 
@@ -144,17 +144,13 @@ h) Culturales: podrá organizar y financiar, siempre que sus recursos lo permita
 
 i) Vacaciones: se concederá una asignación de vacaciones una vez al año. Para gozar de este beneficio, el afiliado deberá tener derecho a vacaciones y hacer uso efectivo de las mismas.
 
-El monto de las ayudas contempladas en el número 2 letras a), b), c), d), e), f), g),
+j) Acuerdo de Unión Civil: se concederá una asignación a los afiliados que celebren el Acuerdo de Unión Civil, por una sola vez. Si ambos contrayentes estuvieran afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio;
 
-- **h)** e
+El monto de ayudas contempladas en las letras a), b), c), d), e), f), g), h), i) y j), del Nº 2 será determinado por el Consejo Administrativo, conforme a lo señalado en la letra g), del Artículo 29º, del Reglamento General.
 
-- **i)** será determinado por el Consejo Administrativo conforme a lo señalado en la letra
+#### Artículo 11º
 
-- **g)** del artículo 29 del Reglamento General.
-
-#### Artículo 11
-
-Para solicitar los beneficios señalados en las letras a), b), c), d) y e) del número 2 del artículo 10, el beneficiario deberá presentar una solicitud de ayuda acompañada del certificado respectivo emitido por la Oficina de Registro Civil e Identificación y/o el establecimiento educacional, según corresponda.
+Para solicitar los beneficios señalados en las letras a), b), c), d), e), y j) del Nº 2, del Artículo 10º, el beneficiario deberá presentar una solicitud de ayuda acompañada del certificado respectivo, emitido por la Oficina de Registro Civil e Identificación y/o el establecimiento educacional, según corresponda.
 
 #### Artículo 12
 
