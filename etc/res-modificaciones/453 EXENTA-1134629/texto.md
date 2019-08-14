@@ -98,7 +98,7 @@ A efectos de elaborar el referido informe, la Comisión deberá seguir el mismo 
 
 La respectiva Empresa Concesionaria podrá observar y eventualmente discrepar el informe técnico en los términos dispuestos en la presente resolución.
 
-En el caso de la entrada en operación de una nueva zona de concesión durante el cuatrienio.
+En el caso de la entrada en operación de una nueva zona de concesión durante el cuatrienio respectivo, aplicarán las mismas disposiciones establecidas en el presente artículo.
 
 Capítulo 4. Actualización de la tasa de costo de capital
 
