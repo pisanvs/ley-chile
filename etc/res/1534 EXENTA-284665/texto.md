@@ -26,7 +26,7 @@ Fíjase la siguiente norma técnica que establece la numeración para servicios 
 
 #### Artículo 1°
 
-Para efectos de la aplicación de la presente norma, se entenderá que un servicio de emergencia es un servicio telefónico que se presta a la comunidad, sin fines de lucro y que tiene por finalidad salvaguardar la vida y los bienes de las personas. En caso de que la institución proveedora del servicio de emergencia lo desee, podrá utilizar, además, mensajería de texto y multimedial.
+Para efectos de la aplicación de la presente norma, se entenderá que un servicio de emergencia es un servicio telefónico que se presta a la comunidad, sin fines de lucro y que tiene por finalidad salvaguardar la vida y los bienes de las personas. En este sentido, la institución que reciba este tipo de comunicaciones deberá efectuar acciones concretas e inmediatas para afrontar la emergencia y, de esta manera, anticipar y facilitar las labores de las instituciones que tienen como fin la atención de estas mismas (Carabineros, Policía de Investigaciones, Bomberos, Ambulancias, etc.), excluyéndose de esta forma la simple desviación de estos llamados a dichas instituciones. En caso que el proveedor del servicio de emergencia lo desee podrá utilizar, además, mensajería de texto y multimedial.
 
 #### Artículo 2°
 
@@ -42,7 +42,7 @@ La solicitud deberá contener, a lo menos, la siguiente información:
 
 a) Identificación de la Institución que proveerá el servicio de emergencia.
 
-b) Descripción del servicio de emergencia que se prestará.
+b) Descripción del servicio de emergencia que se prestará, señalando las acciones concretas que se realizarán luego de recibir la llamada de emergencia.
 
 c) Designación de zona(s) primaria(s) o parte de ella(s) que atenderá el servicio de emergencia, indicando el lugar donde la Institución recibirá las llamadas del servicio de emergencia, según el caso.
 
@@ -1189,5 +1189,133 @@ emergencia ciudadana
 que ocurran en dicha
 
 comuna.
+
+1463 Fono Emergencia La recepción de llamadas
+
+San Pedro de atendidas por operadores
+
+la Paz e la Unidad de Departamento
+
+de Seguridad, Convivencia
+
+y Protección Ciudadana de
+
+la Ilustre Municipalidad de
+
+San Pedro de la Paz,
+
+respecto De situaciones de
+
+seguridad y/o emergencia
+
+ciudadana que ocurran en
+
+dicha comuna.
+
+1464 Fono Emergencia La recepción de llamadas
+
+Lo Prado atendidas por operadores
+
+de la Dirección de
+
+Seguridad Pública y
+
+Protección Civil de
+
+la Ilustre Municipalidad
+
+de Lo Prado, respecto de
+
+situaciones de seguridad
+
+y/o emergencia ciudadana
+
+que ocurran en dicha
+
+comuna.
+
+1465 Fono Emergencia La recepción de llamadas
+
+Algarrobo atendidas por operadores
+
+de la Unidad de Seguridad
+
+Ciudadana de la Ilustre
+
+Municipalidad de Algarrobo,
+
+respecto de situaciones de
+
+seguridad y/o emergencia
+
+ciudadana que ocurran en
+
+dicha comuna.
+
+1467 Fono Emergencia La recepción de llamadas
+
+Pedro Aguirre Cerda atendidas por operadores
+
+del Área de Emergencias y
+
+Seguridad Pública de la
+
+Ilustre Municipalidad
+
+de Pedro Aguirre Cerda,
+
+respecto de situaciones de
+
+seguridad y/o emergencia
+
+ciudadana que ocurran
+
+en dicha comuna.
+
+1468 Fono Emergencia La recepción de llamadas
+
+Colina tendidas por operadores
+
+de la Central de Cámaras
+
+Colina de la Ilustre
+
+Municipalidad de Colina,
+
+respecto de situaciones
+
+de seguridad y/o emergencia
+
+ciudadana que ocurran en
+
+dicha comuna.
+
+1515 Fono emergencia El servicio tiene por
+
+"Línea libre" de objeto entregar a todos
+
+la Subsecretaría de los niños, niñas y adolescentes
+
+la Niñez atención telefónica de
+
+ayuda profesional
+
+en donde sean escuchados
+
+y puedan recibir orientación
+
+ante sus problemas y
+
+vulneraciones, respetando
+
+permanentemente su
+
+confidencialidad.
+
+La cobertura será el
+
+territorio nacional, excepto
+
+en la Región de Atacama.
 
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
