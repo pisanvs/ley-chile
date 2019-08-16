@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 651 de 26 de julio de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 12-B y 12-C, Rol de avalúo 2211-378, Comuna de Hualaihue, superficies 323 y 39 m2. respectivamente, para la obra MEJORAMIENTO RUTA 7, SECTOR PUENTE CISNE - PICHICOLO, COMUNA DE HUALAIHUE, PROVINCIA DE PALENA, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 09 de octubre de 2017, acordándose la indemnización con su propietario FELIPE ESTEBAN VERA ÁLVAREZ, en la cantidad de $539.163.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
