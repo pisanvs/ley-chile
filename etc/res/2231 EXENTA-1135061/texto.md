@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.231, del 31 de julio de 2019, Serviu Región del Biobío ordenó expropiación parcial de inmueble ubicado en Zona Industrial Embarque, Rol de Avalúo 1650-2, comuna de Lota, de aparente dominio de Corporación de Fomento de la Producción. La superficie afecta a expropiación total es de 287,33 m2 de terreno conforme a plano de expropiación S8R 38313-2, para la ejecución de la obra Megaproyecto CNT Lota Green, comuna de Lota, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por arquitecto Rubén Carlos Muñoz Neira, por arquitecto Guillermo Orlando Villafañe Feres y por arquitecto Marielva Consuelo Inzunza Morales, según informe de fecha 16.05.2019, que fijó monto provisional en $2.740.554.- más una suma de $17.814.-, por concepto de reajuste del artículo 5º del DL 2.186, de 1978, que dan la cifra de $2.758.368.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
