@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.607, de 4 de junio de 2019, Serviu Región del Biobío ordenó expropiación parcial de inmueble ubicado en calle Lautaro 201, Rol de avalúo 127-1, comuna de Lota, de aparente dominio de Fuentealba Silva José y otros. La superficie afecta a expropiación parcial es de 11,97 m2 de superficie de terreno y 61,9 m2 total de edificación, para la ejecución de la obra Mejoramiento Red Centro Lota Vialidad Asociada, comuna de Lota, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por arquitecto María Irene Carrasco Verdugo, arquitecto Rubén Carlos Muñoz Vera y arquitecto Nataly Alejandra Zúñiga Castillo, según informe de fecha 12.11.2018, que fijó monto provisional en $4.469.940.- más una suma de $35.760.- por concepto de reajuste del artículo 5 del DL 2.186, de 1978, que da un total de $4.505.700.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
