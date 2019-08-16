@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 624 de 26 de julio de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1 para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: TALCA - CHILLÁN, SECTOR: C.S. ORIENTE TALQUITA NORTE - LOS PEQUENES, KM. 348.040,00 AL KM. 349.100,00, Región del Maule, que figura a nombre de VILCHES VASQUEZ GILBERTO, rol de avalúo 839-187 de la comuna de Parral, superficie 3.609 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 620 de 30 de octubre de 2018, integrada por María Isabel de Jesús Ríos Marcuello, Claudio Alejandro García Schlie y Paula Soledad González Ortega, fijó con fecha 29 de noviembre de 2018, el valor provisional de la indemnización en la cantidad de $14.169.400 para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
