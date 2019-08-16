@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 629 de 26 de julio de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, Art. 15 inciso 2° y 22 N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropiaron los lotes de terreno 52-1 y 52-2, Rol de avalúo 109-26, Comuna de Quilicura, superficies 350 y 68 m2. respectivamente, para la obra SISTEMA NORTE - SUR CONEXIÓN TÚNEL RENCA - VESPUCIO NORTE, COMUNA DE QUILICURA, PROVINCIA DE SANTIAGO, REGIÓN METROPOLITANA DE SANTIAGO. La comisión de peritos, integrada por SOLANGE ALEJANDRA LAGOS DIAZ, ANGELICA YANETT SEURA ROJAS y PAOLA ANDREA DOMINGO PORCELLA, fijó el valor de tasación con fecha 16 de noviembre de 2018, acordándose la indemnización con su propietario BANCO DE CRÉDITO E INVERSIONES, en la cantidad de $165.717.763.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
