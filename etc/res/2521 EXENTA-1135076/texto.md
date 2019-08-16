@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.521 de fecha 07/08/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 20-A, consistente en inmueble rural consistente en un retazo de cuatro hectáreas ubicado en el lugar Puente La Chispa a inmediaciones de Temuco, comuna de Temuco, Rol de avalúo: 3205-46 (Rol Matriz). La superficie a expropiar aproximada es de 82,01 metros cuadrados, de aparente dominio de David Rodolfo Figueroa Spielberg. Comisión de Peritos integrada señores Claudio Alejandro Romo Sanhueza, Arturo Cantos Oyarzún y Mario Benjamín Gutiérrez Truán, fijó monto de Indemnización Provisional en $6.716.908.-, según Informe Nº 20-A de fecha 02/08/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
