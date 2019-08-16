@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 625 de 26 de julio de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 5 para la obra: AUTOPISTA SANTIAGO - SAN ANTONIO SECTOR: MEJ. C.S. PASO SUPERIOR TEGUALDA, TRAMO: KM. 41.120,00 AL KM. 42.000,00, Región Metropolitana de Santiago, que figura a nombre de GRANJA EL RANCHO SA, rol de avalúo 523-441 de la comuna de Talagante, superficie 788 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 87 de 30 de abril de 2019, integrada por Maximiliano Cortés Caiozzi, Nicolás Alejandro Alarcón Sánchez y Andrés Rainer Schulz Villanueva, fijó con fecha 13 de junio de 2019, el valor provisional de la indemnización en la cantidad de $19.857.500 para el lote N° 5. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
