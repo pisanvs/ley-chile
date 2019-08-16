@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 1.848, 1 de julio 2019, Serviu Región del Biobío ordenó expropiación total de un inmueble ubicado en calle Gral Carlos Prat 1290, Camilo Olavarri, rol de avalúo Nº 709-10, comuna de Coronel, de aparente dominio de Neira Canales Rebeca Rosa, en una superficie de 1554,84 m2 de terreno y 139,21 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-34.056-1, para la ejecución de las obras del proyecto "Corredor de Transporte Público Coronel: Laboreos - P. Aguirre", de la comuna de Coronel, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por arquitecto Rodrigo Escobar Fernández, arquitecto Consuelo Zuloaga Sanhueza y arquitecto Patricia Palacios González, según informe de fecha 13 de mayo 2019, fijó monto provisional indemnización más reajuste del artículo 5º del DL 2.186 de 1978 en $76.128.012, pagadera de contado.-
+
+Director Serviu Región del Biobío.
