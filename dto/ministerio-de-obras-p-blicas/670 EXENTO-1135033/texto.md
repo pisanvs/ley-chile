@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 670 de 26 de julio de 2019, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 252 y 255, Rol de avalúo 526-6, Comuna de San Clemente, superficies 107 y 446 m2. respectivamente, para la obra MEJORAMIENTO RUTA K-705, SECTOR CR. RUTA K-715 - VILCHES ALTO, TRAMO KILÓMETRO 11,70000 A KM. 27,23000; COMUNA DE SAN CLEMENTE, PROVINCIA DE TALCA, REGIÓN DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURÁN MARCOS, RODRIGO ANTONIO SILVA LAZO y PAULA SOLEDAD GONZÁLEZ ORTEGA, fijó el valor de tasación con fecha 12 de marzo de 2015 complementados por acta de 10 de diciembre de 2018, acordándose la indemnización con su propietaria SIERRAS DE VILCHES S.A., en la cantidad de $12.603.561.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
