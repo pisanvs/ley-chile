@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 642 de 26 de julio de 2019, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 47, Rol de avalúo 249-24, Comuna de San Fernando, superficie 765 m2., para la obra MEJORAMIENTO CAMINO BASICO INTERMEDIO H-721, I-111 PELEQUEN-POLONIA, COMUNA DE SAN FERNANDO, PROVINCIA DE COLCHAGUA, REGION DEL LIBERTADOR GENERAL BERNARDO O’HIGGINS. La comisión de peritos, integrada por ANDRES RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRIQUEZ y MARLENE TERESA RIOS MARCUELLO, fijó el valor de tasación cor fecha 09 de febrero de 2017, acordándose la indemnización cor su propietaria MARÍA ELENA LYON VALVERDE, en la cantidad de $7.213.267.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º de Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
