@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 650 de 26 de julio de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 15, Rol de avalúo 3420-99, Comuna de Arica, superficie 69 m2., para la obra REPOSICIÓN RUTA A-27, SAN MIGUEL AZAPA KM. 12,000 AL KM 32,000, COMUNA DE ARICA, PROVINCIA DE ARICA, REGION DE ARICA Y PARINACOTA. La comisión de peritos, integrada por ANGELICA YANETT SEURA ROJAS, PATRICIA ANGELICA MORALES RIVERA y PABLO ALEX MANSILLA ARAVENA, fijó el valor de tasación con fecha 23 de septiembre de 2016, acordándose la indemnización con su propietaria MIRIAM DEL CARMEN RÍOS CONTRERAS, en la cantidad de $4.954.860.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
