@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº617, de 23 de julio de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.202, 208, 210 y 211, para la obra: REPOSICION PAVIMENTO RUTA U-40, SECTOR: OSORNO - INTERSECCION RUTA U-52, que figuran a nombre de BOSQUES CAUTIN S.A., roles de avalúo 2217-668, Comuna de SAN JUAN DE LA COSTA, REGION DE LOS LAGOS, superficies 1.038, 240, 136 y 137 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y CARMEN PILAR RIOS MARCUELLO, mediante informe de tasación de 07 de septiembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $6.443.500, para el lote Nº202, $4.724.230, para el lote Nº208, $1.666.170, para el lote Nº210 y $594.600, para el lote Nº211. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
