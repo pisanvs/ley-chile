@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº705, de 26 de julio de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.11 y 12, para la obra: CONSTRUCCION SEGUNDO ACCESO A SAN JOSE DE LA MARIQUINA, que figura a nombre de IROUME ARRAU ANDRES BERNARDO y AWE ESPINOZA JAQUELINE, roles de avalúo 376-121 y 376-3, Comuna de MARIQUINA, REGION DE LOS RIOS, superficies 330 y 19.800 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YAÑEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de 09 de noviembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $4.093.610 para el lote Nº11, y $146.024.950 para el lote Nº12. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
