@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 630 de 26 de julio de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 42 para la obra: CONCESIÓN VIAL PUENTE INDUSTRIAL, SECTOR C: RUTA ENTRE RIBERA SUR RIO BIOBÍO - ENLACE LOS BATROS, Región del Biobío, que figura a nombre de SOCIEDAD INMOBILIARIA EMIFARO LTDA, rol de avalúo 15008-158 de la comuna de San Pedro de la Paz, superficie 3.521 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 12 de 1º de febrero de 2019, integrada por Carlos Alberto Montecinos Galleguillos, Gabriel Antonio Pantoja Rivera y Cristian Andrés Cáceres Vargas, fijó con fecha 4 de marzo de 2019, el valor provisional de la indemnización en la cantidad de $469.795.000 para el lote Nº 42. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
