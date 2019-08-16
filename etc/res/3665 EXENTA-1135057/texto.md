@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.665, de fecha 1 de agosto de 2019, se ordenó la expropiación parcial, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N° 108-3, correspondiente al inmueble ubicado en Mar de Chile 1793, Rol de Avalúo Nº 2962-12, de la Comuna de Cerro Navia, Región Metropolitana, de aparente dominio de Serviu, con una superficie aproximada de 4,02 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Costanera Sur Poniente Etapa 2 Tramo Walker Martínez y Américo Vespucio". La Comisión de Peritos integrada por los señores Ingrid Von Osten Yáñez, Ingeniero Civil; Eric Ehrenfeld Allera, Arquitecto y Gastón Bianchi Aqueveque, Constructor Civil, mediante Informe de fecha 12 de noviembre de 2018, fijó la indemnización provisional por causa de la referida expropiación en la suma de $664.240, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
