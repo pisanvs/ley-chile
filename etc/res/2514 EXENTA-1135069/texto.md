@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 2.514 de fecha 07/08/2019, conforme al artículo 51 ley 16.391, DL. 2.186/1978 y DS. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes -El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote N° 13-0, consistente en "Lote número Seis de una superficie de 15.684,80 metros cuadrados, resultante de la subdivisión del resto del predio El Mirador, situado en el lugar Lircay, camino Temuco a Tromén, comuna de Temuco", Rol de avalúo 4101-21, comuna de Temuco. La superficie a expropiar aproximada es de 628,96 metros cuadrados, de aparente dominio de Betty Alicia Fonseca Riquelme. Comisión de Peritos integrada por Mario Gutiérrez Truan, Arquitecto, Arturo Cantos Oyarzún, Arquitecto y Claudio Romo Sanhueza, Arquitecto, fijó monto de Indemnización Provisional en $52.114.038, según Informe N° 13-0 de fecha 02/08/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
