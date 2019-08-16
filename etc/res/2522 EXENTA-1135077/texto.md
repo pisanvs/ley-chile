@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.522 de fecha 07/08/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes - El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 22-0, consistente en Lote número 7 guión A de una superficie de 5100 metros cuadrados que forma parte de un predio de mayor extensión denominado La Granja ubicado en el lugar Puente Chispa de esta comuna, comuna de Temuco, Rol de avalúo: 3205-154. La superficie a expropiar aproximada es de 1.236,13 metros cuadrados, de aparente dominio de Luis Edgardo Muñoz Saavedra. Comisión de Peritos integrada señores Claudio Alejandro Romo Sanhueza, Arturo Cantos Oyarzún y Mario Benjamín Gutiérrez Truán, fijó monto de Indemnización Provisional en $101.843.399.-, según Informe Nº 22-0 de fecha 02/08/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
