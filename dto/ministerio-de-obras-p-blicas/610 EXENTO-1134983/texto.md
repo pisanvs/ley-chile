@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 610 de 23 de julio de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 33 para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVI. SECTOR: SECTOR 1 (RUTA F-20). SUBSECTOR: PLAZA PEAJE - FIN CUESTA. KM 6.500,00 AL KM 19.000,00, Región de Valparaíso, comuna de Puchuncaví, inscrito a nombre de JUAN MANUEL FERNANDEZ TORRES Y OTROS, conforme inscripción dominio fojas 1.656 número 1.847, registro año 1990, CBR Quillota, superficie 617 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 65 de 5 de abril de 2019, integrada por Víctor Marcelo Soto Troncoso, Handy Ghislaine Campos Sepúlveda y Jessica Paola Cortés Rodríguez, fijó con fecha 13 de mayo de 2019, el valor provisional de la indemnización en la cantidad de $922.230 para el lote N° 33. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
