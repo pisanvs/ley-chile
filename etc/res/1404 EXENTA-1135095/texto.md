@@ -1,0 +1,5 @@
+EXTRACTO DE RES. Nº 1.404 EX. - 17 DE JULIO DE 2019
+
+Por resolución exenta Nº 1.404, de 17 de julio de 2019, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Los Lagos, modificó la resolución exenta Nº 461, de 12 de mayo de 2010, modificada por la resolución exenta Nº 216 de 3 de marzo de 2016 y por la resolución exenta Nº 382 de 4 de abril de 2017, que autoriza el funcionamiento del Terminal de Taxis Colectivos Urbanos ubicado en avenida Volcán Puntiagudo Nº 375, de la ciudad de Puerto Montt, de propiedad de Sociedad Inmobiliaria y Administradora Cinco Líneas S.A., RUT 96.970.440-4, agregándose la Línea Nº 212 dentro de las demás líneas usuarias de taxis colectivos urbanos.-
+
+Nicolás Céspedes Morales, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos Subrogante.
