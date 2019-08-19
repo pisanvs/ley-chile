@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 186 EXENTA, DE 8 DE ENERO DE 2019
+
+Por resolución exenta Nº 186, de fecha 8 de enero de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se modificó resolución exenta Nº 15, de 6 de enero de 2010, de la misma Secretaría Regional Ministerial, en el sentido de reemplazar en ella la razón social y nombre de fantasía de la Escuela de Conductores No Profesionales o Clase B "Instituto de Capacitación Escuela de Conductores Iván Alberto Aravena Peralta E.I.R.L." o "Instituto de Capacitación San Juan", por "Escuela Nacional de Conductores y Capacitación y Compañía Limitada", y el representante legal, por "Eder Abraham Escobedo Audala". En todo lo no modificado, se mantienen íntegramente vigentes las demás estipulaciones aprobadas por la resolución exenta Nº 15, de 6 de enero de 2010, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago.
