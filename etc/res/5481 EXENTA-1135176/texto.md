@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 5.481 EXENTA, DE 29 DE JULIO DE 2019
+
+Por resolución exenta Nº 5.481, de fecha 29 de julio de 2019, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana de Santiago, se modifica la resolución exenta Nº 163, de 4 de marzo de 1999, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones, en el sentido de reconocer nueva sede y taller mecánico de Escuela de Conductores Profesionales "Escuela de Conductores Automóvil Club de Chile Limitada", ubicados en Manuel Rodríguez Nº 15, comuna de Santiago y Gaspar Orense Nº 648, comuna de Quinta Normal, respectivamente. En todo lo no modificado, se mantienen íntegramente vigentes demás estipulaciones aprobadas por resolución exenta N° 163 de Secretaría Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago.
