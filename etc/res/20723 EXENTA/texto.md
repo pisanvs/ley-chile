@@ -16,27 +16,7 @@ Considerando:
 
 Resuelvo:
 
-1° A efecto de cumplir con eficiencia y eficacia las facultades que la ley y el reglamento otorgan al Jefe Superior de la Institución en lo relativo a habilitaciones, resoluciones de controversias y cumplimiento de disposiciones bajo competencia de esta Superintendencia, y en aras de una mayor celeridad resolutiva, delégase la facultad de firmar en el Jefe de la Unidad de Normas y Estudios, con la fórmula por orden del Superintendente, las atribuciones que serán ejercidas específicamente mediante los siguientes actos:
-
-1. Actos que autorizan a Organismos de Certificación, Organismos de Inspección y Laboratorios de Ensayos para operar en el sistema de certificación de acuerdo al artículo 14 del DS N° 298/2005, del Ministerio de Economía, Fomento y Reconstrucción, instituido por el artículo 3° N° 14 de la Ley N° 18.410.
-
-2. Actos que autorizan a Organismos de Certificación de los mencionados en el punto anterior para operar con Laboratorios de ensayos u Organismos de inspección de acuerdo al artículo 18 del DS N° 298/2005, del Ministerio de Economía, Fomento y Reconstrucción.
-
-3. Actos que autorizan a Organismos de Inspección y Laboratorios de Ensayos mencionados en el punto uno para operar con infraestructura, instrumentos o equipos de terceros de acuerdo al artículo 18 del DS N° 298/2005, del Ministerio de Economía, Fomento y Reconstrucción.
-
-4. Actos que reconocen certificados extranjeros para efectos del sistema especial del artículo 5° del DS N° 298/2005, del Ministerio de Economía, Fomento y Reconstrucción, de acuerdo al artículo 21 del mismo cuerpo normativo.
-
-5. Actos que autorizan la comercialización de artefactos cuando no se encuentran autorizados Organismos de Certificación ni Laboratorios de Ensayos operativos para aplicar los protocolos vigentes, de acuerdo al artículo 9 del DS N° 298/2005, del Ministerio de Economía, Fomento y Reconstrucción.
-
-6. Actos que autorizan a Organismos de Certificación y Laboratorios de Ensayos para evaluar la conformidad con los estándares exigibles a los colectores solares térmicos y depósitos acumuladores que se verán beneficiados por la franquicia tributaria por la instalación de sistemas solares térmicos, instituida la ley N° 20.365, modificada por la ley N° 20.897.
-
-7. Actos que autorizan la incorporación al registro de colectores solares térmicos y depósitos acumuladores a los artefactos que se verán beneficiados por la franquicia tributaria por la instalación de sistemas solares térmicos, instituida la ley N° 20.365, modificada por la ley N° 20.897.
-
-8. Actos que autorizan a Laboratorios de Ensayos para la evaluación de la conformidad de productos eléctricos de alumbrado de exteriores en materia de contaminación lumínica, entre otros, luminarias y proyectores de área, de acuerdo a la regulación establecida por el DS N° 43/2012 emitido por el Ministerio del Medio Ambiente.
-
-9. Actos que autorizan a Organismos de Certificación y Laboratorios de Ensayos para evaluar la conformidad de los artefactos para combustión a leña y otros productos dendroenergéticos, de acuerdo al DS N° 39/2011, modificado por el DS N° 46/2013, ambos del Ministerio del Medio Ambiente, especialmente en materia de emisión de material particulado, en relación con la ley N° 20.586.
-
-10. Actos que habilitan a profesionales, cuando corresponda, para participar en las actividades de evaluación de la conformidad para las cuales han sido autorizadas las entidades mencionadas en los puntos anteriores.
+1° Derogado.
 
 2° Del mismo modo, delégase la facultad de firmar en el Jefe de la División de Ingeniería de Electricidad, con la fórmula por orden del Superintendente, las atribuciones que serán ejercidas específicamente mediante los siguientes actos:
 
