@@ -16012,6 +16012,20 @@ Son requisitos esenciales de la inscripción de una defunción, la fecha del fal
 
 ## Título V
 
+CATASTRO DE MORTINATOS
+
+#### Artículo 50 bis
+
+Créase un catastro nacional, especial y de carácter voluntario, en el cual se inscribirá a los mortinatos.
+
+La inscripción a que se refiere el inciso anterior deberá contener la individualización del mortinato mediante la asignación de un nombre propio, seguido del o los apellidos que el solicitante señale, y del sexo de la criatura, si éste fuere determinado o determinable. Asimismo, el catastro podrá contener la individualización de la persona gestante, y del progenitor, si éste lo autoriza.
+
+Para la inscripción de que trata este artículo será necesario contar con el certificado médico de defunción y estadística de mortalidad fetal.
+
+En estos casos, el otorgamiento de la licencia o pase de inhumación se sujetará a las formalidades prescritas por los artículos 46 y 47, en lo que fueren aplicables.
+
+## Título VI
+
 MEDIDAS QUE FAVORECEN LA CONSTITUCION LEGAL DE LA FAMILIA
 
 #### Artículo 51
