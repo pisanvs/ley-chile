@@ -1,32 +1,32 @@
-APRUEBA ESTRATEGIA DE FOMENTO Y PROMOCIÓN DE LA INVERSIÓN EXTRANJERA
+APRUEBA MODIFICACIONES A ESTRATEGIA DE FOMENTO Y PROMOCIÓN DE LA INVERSIÓN EXTRANJERA
 
-Núm. 56.- Santiago, 11 de abril de 2017.
+Núm. 40.- Santiago, 26 de marzo de 2019.
 
 Vistos:
 
-Lo dispuesto en el artículo 32 N° 6 de la Constitución Política de la República, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo N° 100, de 2005, del Ministerio Secretaría General de la Presidencia; en el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fijó el texto refundido, coordinado y sistematizado de la ley N° 18.575, de Bases Generales de la Administración del Estado; en los artículos 10 y 11 de la Ley N° 20.848, que Establece el Marco para la Inversión Extranjera Directa en Chile y Crea la Institucionalidad Respectiva; en el decreto supremo afecto N° 98, de 2016, del Ministerio de Economía, Fomento y Turismo; y, en la resolución N° 1.600, de 2008, de la Contraloría General de la República.
+Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo Nº 100, de 2005, del Ministerio Secretaría General de la Presidencia; en el decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, de Bases Generales de la Administración del Estado; en los artículos 10 y 11 de la ley Nº 20.848, que establece el marco para la inversión extranjera directa en Chile y crea la institucionalidad respectiva; y, en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
 
 Considerando:
 
-1. Que, la Ley N° 20.848, de 2016, del Ministerio de Hacienda, establece el Marco para la Inversión Extranjera Directa en Chile y Crea la Institucionalidad Respectiva.
+1.- Que se ha recibido la propuesta del Comité de Ministros creado por la ley Nº 20.848, aprobada en sesión de fecha 16 de octubre de 2018, a través del Acuerdo Nº 1, para modificar la Estrategia de Fomento y Promoción de la Inversión Extranjera, en adelante "la Estrategia", aprobada por decreto supremo Nº 56, de 11 de abril de 2017, del Ministerio de Economía, Fomento y Turismo, publicado en el Diario Oficial de 30 de septiembre de 2017.
 
-2. Que, conforme a lo dispuesto en el artículo 10 de Ia ley antes aludida, corresponderá al Presidente de Ia República establecer una estrategia de fomento y promoción de la inversión extranjera, a través de un decreto supremo.
+2.- Que el Comité de Ministros propone modificar la Estrategia en el sentido de cambiar en su Capítulo IX, la designación de países específicos para el establecimiento de los Agregados de Inversión, por las macro regiones de América del Norte, Asia, Europa y China, otorgándole al mismo comité la atribución de decidir la localización específica de los agregados más adecuada a las circunstancias político-económicas imperantes en el momento.
 
-3. Que, en virtud del artículo 12 de la Ley citada anteriormente, se crea el Comité de Ministros, cuyo objeto será asesorar al Presidente de la República en las materias vinculadas al fomento y promoción de la inversión extranjera.
+3.- Que la propuesta, asimismo, se refiere a materias que el artículo 10 de la ley Nº 20.848 ordena abarcar a la estrategia de fomento.
 
-4. Que, se ha recibido la propuesta del Comité de Ministros para el Fomento y Promoción de la Inversión Extranjera, aprobada en sesión de fecha 27 de abril de 2016, a través del Acuerdo N° 1.
-
-5. Que, dicha propuesta se adecua a los propósitos que tuvo el supremo Gobierno al establecer el marco para la inversión extranjera directa en el país, a fin de lograr inversión de calidad con proactividad de la Agencia gubernamental creada al efecto. de manera de atraer dichas inversiones al país, mejorando el crecimiento, empleo y la productividad.
-
-6. Que la propuesta, asimismo, se refiere a cada una de las áreas que el artículo 10 de la Ley N° 20.848 ordena abarcar a la estrategia de fomento.
+4.- Que, en consecuencia, corresponde dictar el decreto que apruebe la modificación propuesta por el Comité de Ministros para el Fomento y Promoción de la Inversión Extranjera,
 
 Decreto:
 
-#### Artículo 1°
+#### Artículo 1º
 
-Apruébese la Estrategia de Fomento y Promoción de la Inversión Extranjera, cuyo texto es el siguiente:
+Elimínase, en el inciso final del Capítulo IX de la Estrategia aprobada por el decreto supremo Nº 56, de 11 de abril de 2017, del Ministerio de Economía, Fomento y Turismo, publicado en el Diario Oficial el 30 de septiembre de 2017, todo lo que se encuentra a continuación de la frase "se ha propuesto que los agregados de inversión se destinen a" y reemplázase por lo siguiente: "las macro regiones de América del Norte, Asia, Europa y China. El Comité de Ministros para el Fomento y Promoción de la Inversión Extranjera determinará la localización específica más adecuada a las circunstancias político-económicas imperantes en el momento.".
 
-AGENCIA DE PROMOCIÓN DE LA INVERSIÓN EXTRANJERA
+#### Artículo 2º
+
+Déjase constancia que el siguiente es el texto oficial de la Estrategia de Fomento y Promoción de la Inversión Extranjera:
+
+"AGENCIA DE PROMOCIÓN DE LA INVERSIÓN EXTRANJERA
 
 Estrategia de Fomento y Promoción de la Inversión Extranjera Directa
 
@@ -100,7 +100,7 @@ Muchos gobiernos, tanto a nivel nacional como local, han reconocido el impacto p
 
 1.1. Diagnóstico de la posición competitiva de Chile
 
-A nivel internacional, se han sintetizado consensos importantes sobre las mejores prácticas y recomendaciones provenientes de la experiencia comparada, que constituyen un marco adecuado para el diseño e implementación de políticas de fomento y promoción de la inversión extranjera directa. Entre éstos se encuentran diversas publicaciones del Banco Mundial, la OCDE y la UNCTAD. Desde los años 90 hasta ahora, Chile fue capaz de atraer una gran cantidad de inversión extranjera. En ese contexto, la promoción de inversiones que se desarrolló fue consistente con una política de fomento marcadamente horizontal, muy exitosa en su momento. Sin embargo, es necesario llevar nuestra política de desarrollo productivo a una nueva fase que se apoya firmemente en los importantes logros alcanzados en las dos décadas anteriores. Esta política de fomento debe incorporar una racionalidad selectiva, guiada por la superación de brechas específicas y la solución de fallas de mercado determinadas.
+A nivel internacional, se han sintetizado consensos importantes sobre las mejores prácticas y recomendaciones provenientes de la experiencia comparada, que constituyen un marco adecuado para el diseño e implementación de políticas de fomento y promoción de la inversión extranjera directa. Entre éstos se encuentran diversas publicaciones del Banco Mundial, la Ocde y la Unctad. Desde los años 90 hasta ahora, Chile fue capaz de atraer una gran cantidad de inversión extranjera. En ese contexto, la promoción de inversiones que se desarrolló fue consistente con una política de fomento marcadamente horizontal, muy exitosa en su momento. Sin embargo, es necesario llevar nuestra política de desarrollo productivo a una nueva fase que se apoya firmemente en los importantes logros alcanzados en las dos décadas anteriores. Esta política de fomento debe incorporar una racionalidad selectiva, guiada por la superación de brechas específicas y la solución de fallas de mercado determinadas.
 
 La Agencia de Promoción de la Inversión Extranjera (anteriormente Comité de Inversiones Extranjeras) ha acumulado un conocimiento único en Chile sobre la promoción del país como destino de inversiones. A lo largo de los años, esta institución incorporó paulatinamente la experiencia internacional en la materia, a través de asesorías y capacitaciones con los principales expertos mundiales en el área. De igual forma, a la propia experiencia en labores de promoción de IED se sumó el estudio comprehensivo de la literatura especializada y de casos de éxito y fracaso.
 
@@ -112,7 +112,7 @@ Durante las dos últimas décadas, los flujos de IED que ingresan hacia Chile cr
 
 .
 
-Cuadro 1: IED y PIB en Latinoamérica y el Caribe en 2014 en millones de dólares corrientes. Fuente: UNCTAD.
+Cuadro 1: IED y PIB en Latinoamérica y el Caribe en 2014 en millones de dólares corrientes. Fuente: Unctad.
 
 .
 
@@ -122,23 +122,23 @@ La figura 1 muestra la evolución de la llegada de inversión extranjera directa
 
 La figura 2 muestra otra dimensión de la llegada de capitales. El financiamiento de los proyectos de IED vía deuda con empresas relacionadas se ha tornado cada vez más común, al mismo tiempo que la reinversión de utilidades ha perdido participación relativa. Esto refleja una preferencia relativamente reciente de las compañías por ingresar su inversión mediante préstamos directos a sus filiales.
 
-1.2 La promoción de IED en Chile hasta ahora
+1.2. La promoción de IED en Chile hasta ahora
 
-Hasta la promulgación del nuevo marco legal para el fomento y la promoción de la inversión extranjera (Ley 20.848), el enfoque de Chile para la atracción de IED ha sido más bien pasivo, basado en informar a la comunidad internacional los principales atributos que ofrece el país como destino para la llegada de inversión. Correctamente, se ha destacado su consolidación democrática, marco institucional transparente y no discriminatorio para el ingreso de capitales extranjeros y estabilidad macroeconómica, además de la suscripción de un número importante de acuerdos comerciales bilaterales y multilaterales, que dan acceso preferencial a las empresas exportadoras a los principales y más dinámicos mercados de consumo a nivel mundial y que protegen recíprocamente a la inversión extranjera.
+Hasta la promulgación del nuevo marco legal para el fomento y la promoción de la inversión extranjera (ley 20.848), el enfoque de Chile para la atracción de IED ha sido más bien pasivo, basado en informar a la comunidad internacional los principales atributos que ofrece el país como destino para la llegada de inversión. Correctamente, se ha destacado su consolidación democrática, marco institucional transparente y no discriminatorio para el ingreso de capitales extranjeros y estabilidad macroeconómica, además de la suscripción de un número importante de acuerdos comerciales bilaterales y multilaterales, que dan acceso preferencial a las empresas exportadoras a los principales y más dinámicos mercados de consumo a nivel mundial y que protegen recíprocamente a la inversión extranjera.
 
-Suplementando los pilares anteriores nuestro país contó, desde la década de los cincuenta, con un Estatuto de protección y fomento de la IED, comenzando con el decreto con fuerza de ley N° 427, de 1953, el DFL 258, de 1960 y el decreto ley 600, de 1974.
+Suplementando los pilares anteriores nuestro país contó, desde la década de los cincuenta, con un Estatuto de protección y fomento de la IED, comenzando con el decreto con fuerza de ley Nº 427, de 1953, el DFL 258, de 1960 y el decreto ley 600, de 1974.
 
 El DL 600 constituyó un régimen especial y voluntario de ingreso de capitales extranjeros al país, alternativo al mecanismo general de transferencia de capitales contenido en el Capítulo XIV del Compendio de Normas de Cambios Internacionales del Banco Central de Chile (Capítulo XIV), de carácter administrativo y de registro de la inversión extranjera. El DL 600 entregó, a través de la celebración de contratos entre los inversionistas extranjeros y el Estado de Chile, una serie de beneficios y/o garantías especiales, que se pueden resumir en:
 
-i. Acceso al mercado cambiario formal;
+i. Acceso al mercado cambiario formal.
 
-ii. Libre transferencia al exterior del capital una vez transcurrido un año desde la fecha de su respectivo ingreso y de las utilidades líquidas que éstos originen en cualquier momento;
+ii. Libre transferencia al exterior del capital una vez transcurrido un año desde la fecha de su respectivo ingreso y de las utilidades líquidas que éstos originen en cualquier momento.
 
 iii. Exención de toda contribución, impuesto o gravamen a los recursos netos obtenidos de la liquidación del capital, hasta por el monto de inversión autorizado.
 
 iv. Invariabilidad a una tasa de 42%, renunciable por una vez, de la carga impositiva efectiva total a la renta a la que estará sujeto el inversionista extranjero, por un plazo de 10 años contados desde la puesta en marcha de la respectiva inversión.
 
-v. Invariabilidad del régimen arancelario y del IVA, y exención de éste último para la internación de bienes de capital no disponibles en Chile (beneficio extendido también a inversionistas nacionales);
+v. Invariabilidad del régimen arancelario y del IVA, y exención de este último para la internación de bienes de capital no disponibles en Chile (beneficio extendido también a inversionistas nacionales).
 
 vi. Posibilidad de solicitar al Comité de Inversiones Extranjeras que se elimine la discriminación contenida en normas jurídicas que se consideren de esa forma, dentro del plazo de un año desde la dictación de estas últimas.
 
@@ -154,7 +154,7 @@ El nuevo marco legal para la inversión extranjera reconoce el cambio estructura
 
 ### II. Posicionamiento de nuestro país como centro de negocios e inversiones internacionales y plataforma global de acceso a otros mercados
 
-Para que Chile se pueda posicionar como centro de negocios e inversiones internacionales y como plataforma global de acceso a otros mercados, se requiere que la Agencia de Promoción de Inversiones, lleve a cabo las siguientes acciones:
+Para que Chile se pueda posicionar como centro de negocios e inversiones internacionales y como plataforma global de acceso a otros mercados, se requiere que la Agencia de Promoción de Inversiones lleve a cabo las siguientes acciones:
 
 2.1 La experiencia internacional demuestra que los esfuerzos y actividades dirigidos hacia la promoción de la inversión, deben alinearse de forma tal de influir de la manera más efectiva posible en la toma de decisiones de las empresas objetivo. En ese sentido, para atraer a empresas multinacionales con potencial de invertir en el país, se requiere comenzar con la construcción y fortalecimiento de la imagen del país como un destino llamativo para hacer negocios.
 
@@ -164,7 +164,7 @@ Al momento de buscar proactivamente empresas extranjeras, es necesario identific
 
 La práctica internacional establece que una Agencia de Promoción de Inversiones Extranjeras tiene dos audiencias que es necesario distinguir y separar. Por un lado, están sus stakeholders internos: actores económicos, políticos y sociales con los que se relaciona, y por otro, se encuentran los potenciales inversionistas extranjeros que conforman su audiencia externa.
 
-La audiencia interna: posicionamiento de lnvestChile y de la importancia de la IED dentro del país
+La audiencia interna: posicionamiento de InvestChile y de la importancia de la IED dentro del país
 
 Una política exitosa de atracción de inversiones no puede ser implementada sin un amplio apoyo y comprensión de la comunidad en su conjunto. El conocimiento público de la importancia de las acciones de la Agencia de Promoción de la Inversión Extranjera es crucial para la permanencia y relevancia de esta política pública en el largo plazo. Adicionalmente, el estudio de casos de éxito internacionales hace evidente la necesidad de que los actores relevantes refuercen de manera coherente el relato desarrollado por la agencia, para lo cual es imprescindible establecer una cultura de "equipo Chile", que involucre tanto a instituciones públicas como al sector privado. Los stakeholders internos deben ser invitados a comprometerse y ser "parte de un equipo", con el fin de que se transformen en un apoyo efectivo a la hora de convencer a los potenciales inversionistas que prospectan el país como destino de inversiones.
 
@@ -254,10 +254,6 @@ En términos prácticos y a modo de ejemplo, las agencias de promoción de inver
 
 Las experiencias exitosas de promoción de la inversión como motor de desarrollo económico, tienen como característica fundamental una focalización precisa en determinados tipos de proyectos productivos. Dado que el fomento de la inversión requiere recursos fiscales escasos, éstos deben asignarse de modo tal que tengan el mayor impacto posible. Cuando se trata de promoción de inversión extranjera directa, tanto la literatura especializada(1) como las mejores prácticas a nivel internacional coinciden en que las empresas buscan invertir en distintos países de acuerdo a cuatro clases de motivaciones, cuyo discernimiento es fundamental para concentrar adecuadamente los esfuerzos en la materia. Entender estas motivaciones es clave para distinguir en qué casos es conveniente promover activamente la inversión extranjera, puesto que algunos tipos de inversiones tienen un alto retorno privado pero insuficientes externalidades positivas que justifiquen su fomento.
 
-----------------------------------------------
-
-(1) Estos elementos están descritos en detalle en el informe preparado por la OCDE "STRENGTHENING Chile's Investment Promotion Strategy" de 2015.
-
 1. Búsqueda de Recursos:
 
 Los proyectos de inversión extranjera más comunes en Chile han sido históricamente los relacionados con la extracción de recursos naturales, como el salitre en su momento, y el cobre hasta la actualidad. Este tipo de inversión tiene una motivación evidente: existe un recurso natural valioso localizado en cierta zona geográfica y se requiere necesariamente llevar la inversión a ésta para explotarlo. Del stock de inversión extranjera directa en Chile, el 40% corresponde al sector de la minería.
@@ -270,9 +266,13 @@ Otros buscan suplir falencias en dichos ámbitos mediante la entrega de benefici
 
 Algunos proyectos de inversión extranjera directa tienen como motivación primordial el abastecimiento de un mercado atractivo, cuando existen barreras para hacerlo mediante la exportación directa. En este caso, las empresas se instalan en un país para producir un bien o servicio que será comercializado en el mismo. Evidentemente, la variable clave para inversiones motivadas por la búsqueda de mercados es el tamaño de la economía en relación a las economías de escala propias de la tecnología productiva del bien o servicio en cuestión. Países con una gran población y/o alto PIB per capita suelen atraer este tipo de IED (Brasil, EEUU, Europa Occidental y Japón son algunos ejemplos).
 
-Si bien el tamaño de la economía chilena es suficiente para que se observe inversión extranjera en algunos sectores como servicios de comunicaciones y financieros, no contamos con un mercado de gran tamaño que sea capaz de atraer por si mismo a las empresas, como en el caso cercano de Brasil. Las cifras muestran que el 37% del stock de IED en Chile se concentra en el sector servicios destinados casi exclusivamente al mercado interno.
+Si bien el tamaño de la economía chilena es suficiente para que se observe inversión extranjera en algunos sectores como servicios de comunicaciones y financieros, no contamos con un mercado de gran tamaño que sea capaz de atraer por sí mismo a las empresas, como en el caso cercano de Brasil. Las cifras muestran que el 37% del stock de IED en Chile se concentra en el sector servicios destinados casi exclusivamente al mercado interno.
 
 Si bien Chile tiene un atractivo bastante acotado para atraer inversiones que buscan grandes mercados internos, vale la pena destacar las virtudes de este tipo de operaciones, por las que se las considera de alta calidad. La inversión que busca un mercado interno de gran tamaño puede ser una fuente importante de puestos de trabajo, particularmente de mayor calificación en los casos en que se materializan en el sector de servicios. Por ello, la inversión motivada por la búsqueda de mercados suele ser más inclusiva que aquella destinada a la explotación de recursos. Dentro de los otros beneficios característicos de este tipo de inversión destacan la inserción en la economía local de mejores prácticas y estándares de gestión, conocimiento y tecnología. Las mejoras de calidad de los bienes locales y servicios pueden tener un efecto acumulativo, mejorando así el clima general de inversión y la competitividad del país.
+
+---------------------------------------------------
+
+(1) Estos elementos están descritos en detalle en el informe preparado por la OCDE "STRENGTHENING Chile's Investment Promotion Strategy" de 2015.
 
 3. Búsqueda de control de activos:
 
@@ -290,7 +290,7 @@ La figura 3 muestra la distribución del stock de inversión extranjera en Chile
 
 .
 
-Figura 3: Stock de lED en Chile por sector. Datos a 2014, excluye no asignados por el Banco Central. Fuente: Banco Central de Chile.
+Figura 3: Stock de IED en Chile por sector. Datos a 2014, excluye no asignados por el Banco Central. Fuente: Banco Central de Chile.
 
 Chile cuenta con un clima económico propicio para la inversión y una alta capacidad para agregar valor en la producción de bienes y servicios a través de la promoción de la inversión extranjera de calidad. Tal como en el pasado se promocionó la inversión extranjera en general, en línea con la política de fomento horizontal y neutral, la política de promoción de IED que se propone en esta estrategia es consistente con la mirada actual de desarrollo productivo, enfocado en las brechas detectadas que guían la definición de las líneas de acción y metas de mediano y largo plazo para la agencia.
 
@@ -300,7 +300,7 @@ Es importante tomar en cuenta que la inversión motivada por la búsqueda de efi
 
 Si bien la mejora continua del clima de inversión es fundamental para maximizar los beneficios de la inversión extranjera directa, no es suficiente por sí misma para atraer y retener inversionistas motivados por la búsqueda de eficiencia o mercados. La experiencia de los países exitosos en esta materia muestra que un buen clima de negocios debe ser complementado con una cultura de apoyo y servicio a los inversionistas. Debe existir además la capacidad de alcanzar y persuadir al tipo de compañías que se desea atraer.
 
-Una implicancia básica de lo anterior es que el fomento y la promoción de la inversión extranjera directa debe ser un ejercicio eminentemente focalizado y económicamente racional. Los esfuerzos para promocionar inversiones que busquen mercados o eficiencia deben concentrarse en determinados sectores y artícularse en torno a:
+Una implicancia básica de lo anterior es que el fomento y la promoción de la inversión extranjera directa debe ser un ejercicio eminentemente focalizado y económicamente racional. Los esfuerzos para promocionar inversiones que busquen mercados o eficiencia deben concentrarse en determinados sectores y articularse en torno a:
 
 . Identificar aquellos sectores con alto potencial para atraer inversión extranjera directa;
 
@@ -318,11 +318,11 @@ Definición Estratégica 3: Por las razones expuestas anteriormente, se consider
 
 ### IV. La promoción de inversión extranjera directa como herramienta de desarrollo
 
-A nivel internacional, el fomento y la promoción de la inversión extranjera directa han formado parte fundamental de diversas experiencias exitosas de desarrollo productivo. Países, regiones y ciudades de diversos grados de desarrollo como Hong-Kong, Bogotá, Irlanda o Singapur implementaron agencias de promoción de inversiones consideradas hoy entre las mejores del mundo. En todos estos casos, estas agencias han sido parte integral de un esfuerzo que trasciende la mera publicidad de las bondades de su economía como destino de inversión. Para ser relevantes, las API deben entenderse como ejecutoras de un componente importante de la política económica de los países e insertarse coherentemente en la estrategia de desarrollo, en la que necesariamente intervienen muchas otras reparticiones públicas y actores privados.
+A nivel internacional, el fomento y la promoción de la inversión extranjera directa han formado parte fundamental de diversas experiencias exitosas de desarrollo productivo. Países, regiones y ciudades de diversos grados de desarrollo como Hong-Kong, Bogot�, Irlanda o Singapur implementaron agencias de promoción de inversiones consideradas hoy entre las mejores del mundo. En todos estos casos, estas agencias han sido parte integral de un esfuerzo que trasciende la mera publicidad de las bondades de su economía como destino de inversión. Para ser relevantes, las API deben entenderse como ejecutoras de un componente importante de la política económica de los países e insertarse coherentemente en la estrategia de desarrollo, en la que necesariamente intervienen muchas otras reparticiones públicas y actores privados.
 
-A nivel institucional, Chile cuenta con un esquema que concentra en la Corporación de Fomento de la Producción (CORFO) los principales elementos de su política de desarrollo. Es ésta la institución que diseña, implementa y gestiona la mayor parte de los instrumentos de fomento productivo y cuenta con una larga experiencia en la materia y una importante presencia regional. Por ello, es natural y eficiente que las acciones de la agencia para promover la IED se realicen en plena sintonía, no sólo con los objetivos estratégicos de desarrollo del país, sino también en términos operativos con CORFO.
+A nivel institucional, Chile cuenta con un esquema que concentra en la Corporación de Fomento de la Producción (Corfo) los principales elementos de su política de desarrollo. Es ésta la institución que diseña, implementa y gestiona la mayor parte de los instrumentos de fomento productivo y cuenta con una larga experiencia en la materia y una importante presencia regional. Por ello, es natural y eficiente que las acciones de la agencia para promover la IED se realicen en plena sintonía, no sólo con los objetivos estratégicos de desarrollo del país, sino también en términos operativos con Corfo.
 
-Parte importante de la oferta y propuesta de valor que la agencia realice a los inversionistas extranjeros será el eventual apoyo estatal a través de los instrumentos de fomento. Por ello la agencia sintetizará la disponibilidad de estos instrumentos al momento de contactarse con el inversionista, coordinará la interacción de éste con CORFO y lo asistirá en su proceso de postulación a los distintos programas para los que sea elegible.
+Parte importante de la oferta y propuesta de valor que la agencia realice a los inversionistas extranjeros será el eventual apoyo estatal a través de los instrumentos de fomento. Por ello la agencia sintetizará la disponibilidad de estos instrumentos al momento de contactarse con el inversionista, coordinará la interacción de éste con Corfo y lo asistirá en su proceso de postulación a los distintos programas para los que sea elegible.
 
 La inserción de Chile en la intensa competencia por inversiones en búsqueda de eficiencia involucra costos y beneficios tanto directos como indirectos, los que deben ser cuidadosamente estudiados para un riguroso diseño y evaluación de las actividades y medidas que emanarán de la presente estrategia.
 
@@ -330,13 +330,13 @@ Algunas distinciones importantes
 
 1. Inversión Extranjera Directa versus Inversión Extranjera de Cartera
 
-Sin perjuicio de lo indicado en el artículo N° 2 de la ley N° 20.848, que establece Marco para la Inversión Extranjera Directa en Chile y Crea la Institucionalidad Respectiva, la Inversión Extranjera es considerada directa cuando un inversionista extranjero tiene injerencia en las decisiones de la empresa receptora de dicha inversión. Por su parte, la inversión de cartera es aquella en que el aporte de capital del inversionista extranjero es menor, de modo que no influye directamente en las políticas de la empresa receptora. El consenso internacional consiste en considerar un límite de 10% del derecho a voto de las acciones de la sociedad, o de un porcentaje equivalente de participación en el capital social; a partir del cual se considera una inversión como directa.
+Sin perjuicio de lo indicado en el artículo Nº 2 de la ley Nº 20.848, que establece Marco para la Inversión Extranjera Directa en Chile y Crea la Institucionalidad Respectiva, la Inversión Extranjera es considerada directa cuando un inversionista extranjero tiene injerencia en las decisiones de la empresa receptora de dicha inversión. Por su parte, la inversión de cartera es aquella en que el aporte de capital del inversionista extranjero es menor, de modo que no influye directamente en las políticas de la empresa receptora. El consenso internacional consiste en considerar un límite de 10% del derecho a voto de las acciones de la sociedad, o de un porcentaje equivalente de participación en el capital social; a partir del cual se considera una inversión como directa.
 
 Además, se debe distinguir la IED con otros tipos de presencia de empresas extranjeras en el país, como son las franquicias o la instalación de oficinas comerciales; las que, sin embargo, pueden ser un paso previo a la materialización de inversión directa.
 
 2. Inversión en proyectos nuevos o expansiones de inversión versus fusiones y adquisiciones
 
-Sin perjuicio de lo establecido en el artículo N° 2 de la ley N° 20.848 antes aludido, para efectos de contabilidad nacional, se considera que toda transferencia de capital internacional en que un extranjero posee al menos el 10% de los derechos sociales o poder de voto de una empresa chilena consiste en un movimiento de inversión extranjera directa. Si bien esta definición es técnicamente correcta, se debe tener en cuenta que las cifras de IED publicadas por los organismos oficiales incluyen no sólo proyectos de inversión nuevos o expansiones de otros existentes -lo cual contribuye a la formación bruta de capital fijo- sino también comprende situaciones como la adquisición de empresas nacionales por parte de extranjeros, que involucran sólo un cambio en la estructura de propiedad, donde el aumento en la inversión extranjera es exactamente compensado por una desinversión nacional. Las cifras oficiales de IED suelen ser excesivamente volátiles, debido en parte a que cambios en las estructuras de propiedad o decisiones financieras de las empresas extranjeras pueden afectar las cuentas externas sin que se produzca alteración alguna en la inversión real.
+Sin perjuicio de lo establecido en el artículo Nº 2 de la ley Nº 20.848 antes aludido, para efectos de contabilidad nacional, se considera que toda transferencia de capital internacional en que un extranjero posee al menos el 10% de los derechos sociales o poder de voto de una empresa chilena consiste en un movimiento de inversión extranjera directa. Si bien esta definición es técnicamente correcta, se debe tener en cuenta que las cifras de IED publicadas por los organismos oficiales incluyen no sólo proyectos de inversión nuevos o expansiones de otros existentes -lo cual contribuye a la formación bruta de capital fijo- sino también comprende situaciones como la adquisición de empresas nacionales por parte de extranjeros, que involucran sólo un cambio en la estructura de propiedad, donde el aumento en la inversión extranjera es exactamente compensado por una desinversión nacional. Las cifras oficiales de IED suelen ser excesivamente volátiles, debido en parte a que cambios en las estructuras de propiedad o decisiones financieras de las empresas extranjeras pueden afectar las cuentas externas sin que se produzca alteración alguna en la inversión real.
 
 Debido a que los beneficios económicos y sociales que genera la adquisición por parte de extranjeros de una empresa nacional son muy limitados, este tipo de inversión extranjera no debe ser promovida activamente por el Estado.
 
@@ -344,7 +344,7 @@ Definición Estratégica 4: El fomento y la promoción deben focalizarse exclusi
 
 Definición Estratégica 5: El fomento y la promoción deben focalizarse exclusivamente en proyectos nuevos o expansiones de inversión. Las adquisiciones de empresas nacionales por parte de extranjeros sólo deben ser relevantes si existen posibilidades concretas de que éstas generen una expansión considerable de la inversión asociada.
 
-Definición Estratégica 6: La política de fomento y promoción de la inversión extranjera es esencialmente selectiva. Esta focalización debe ser congruente con la realizada por el Ministerio de Economía a través de CORFO y sus programas estratégicos.
+Definición Estratégica 6: La política de fomento y promoción de la inversión extranjera es esencialmente selectiva. Esta focalización debe ser congruente con la realizada por el Ministerio de Economía a través de Corfo y sus programas estratégicos.
 
 Definición Estratégica 7: La Agencia de Promoción de la Inversión Extranjera debe transformarse en un actor fundamental de la discusión sobre las diferentes medidas que pueden mejorar el clima de inversión en el país.
 
@@ -354,13 +354,13 @@ Definición Estratégica 8: La medida de evaluación de la Agencia de Promoción
 
 Tal como se explicó anteriormente, la promoción de la inversión extranjera directa es una política eminentemente selectiva. Las acciones de la Agencia de Promoción de la Inversión Extranjera deben por tanto focalizarse en sectores y actividades económicas con el máximo potencial para aprovechar y amplificar los beneficios de la IED.
 
-Dentro de ese contexto, se han identificado los sectores prioritarios a los que se abocará la agencia. Sin perjuicio de lo anterior, la Agencia de Promoción de la Inversión Extranjera promocionará y apoyará proyectos específicos de otros sectores en que se cumplan Ios criterios de inversión de calidad.
+Dentro de ese contexto, se han identificado los sectores prioritarios a los que se abocará la agencia. Sin perjuicio de lo anterior, la Agencia de Promoción de la Inversión Extranjera promocionará y apoyará proyectos específicos de otros sectores en que se cumplan los criterios de inversión de calidad.
 
 Los criterios de acuerdo a los cuales se han evaluado y clasificado los sectores son los siguientes:
 
-1. Potencial de contribuir a los objetivos de desarrollo económico y social de Chile,
+1. Potencial de contribuir a los objetivos de desarrollo económico y social de Chile.
 
-2. Sofisticación del sector - potencial de la IED para traer mejores tecnologías y acceder a mejores mercados,
+2. Sofisticación del sector - potencial de la IED para traer mejores tecnologías y acceder a mejores mercados.
 
 3. Relación valor / peso - ¿son los productos del sector poco sensibles a los costos de transporte y son exportables?
 
@@ -384,11 +384,15 @@ Los criterios de acuerdo a los cuales se han evaluado y clasificado los sectores
 
 13. Grado de desarrollo del sector en el país - ¿está el país establecido en el sector y existen oportunidades de cerrar brechas en la cadena de valor local?
 
-De acuerdo a estos criterios, se ha establecido que serán sectores prioritarios2:
+De acuerdo a estos criterios, se ha establecido que serán sectores prioritarios(2):
 
 1. Proveedores y servicios para una minería virtuosa.
 
 De todos los grandes sectores productivos, la minería extractiva, principalmente de cobre, es el único en el que Chile tiene una presencia de liderazgo a nivel mundial. Es por ello que existe un enorme potencial de desarrollo en torno a dicha industria. En minería, los esfuerzos de promoción deben enfocarse en las actividades anexas a la minería extractiva, puesto que las compañías extranjeras potenciales ya están en el país, desarrollando al máximo el potencial del sector. Es la provisión de servicios a la minería el sector en que existen brechas y la posibilidad de incrementar el potencial exportador de Chile.
+
+------------------------------------------------
+
+(2) El anexo 2 detalla la puntuación de los sectores.
 
 En particular, existen oportunidades de inversión extranjera en i) La transición de explotación desde Rajo Abierto a Minería Subterránea a gran escala ii) Desarrollo de operaciones autónomas integradas iii) Minimización del consumo energético e hídrico iv) Tratamiento de concentrados complejos y v) retratamiento de relaves y explotación de elementos de tierras raras.
 
@@ -396,13 +400,9 @@ También existen oportunidades en servicios y provisión de insumos en el sector
 
 2. Industria alimentaria sofisticada.
 
-Chile cuenta con grandes ventajas competitivas en los sectores agropecuario y acuícola. Actualmente, nuestro país es líder mundial en exportaciones de diversas variedades de fruta fresca y otros alimentos no procesados, por lo que existe la oportunidad de contar con una oferta de productos y servicios más sofisticada. Para ello, la Agencia de Promoción de la Inversión Extranjera trabajará en colaboración con otras agencias, entre ellas CORFO y sus programas estratégicos y de incentivos a la inversión, atrayendo y expandiendo inversiones de empresas extranjeras que puedan incrementar el conocimiento tecnológico y las capacidades de gestión en la industria.
+Chile cuenta con grandes ventajas competitivas en los sectores agropecuario y acuícola. Actualmente, nuestro país es líder mundial en exportaciones de diversas variedades de fruta fresca y otros alimentos no procesados, por lo que existe la oportunidad de contar con una oferta de productos y servicios más sofisticada. Para ello, la Agencia de Promoción de la Inversión Extranjera trabajará en colaboración con otras agencias, entre ellas Corfo y sus programas estratégicos y de incentivos a la inversión, atrayendo y expandiendo inversiones de empresas extranjeras que puedan incrementar el conocimiento tecnológico y las capacidades de gestión en la industria.
 
 En particular, existen oportunidades de inversión extranjera en optimización de los procesos productivos primarios a partir de la incorporación de tecnología en monitoreo para la agricultura inteligente y acuicultura sustentable, i) en tecnología para la transformación de materia prima y generación de alimentos sofisticados, con especial énfasis en colorantes naturales, ingredientes y alimentos funcionales y saludables, ii) soluciones en envases y embalajes altamente tecnológicas y amigables con el medio ambiente en vidrio, cartón y plástico que nos permitan llegar a los principales mercados de exportación y, iii) en investigación, desarrollo e innovación en la líneas anteriormente presentadas.
-
--------------------------------------------
-
-(2) El anexo 2 detalla la puntuación de los sectores
 
 3. Turismo sustentable.
 
@@ -424,7 +424,7 @@ De la evaluación de los sectores posibles, se destaca el potencial de la indust
 
 Una labor fundamental de toda agencia de promoción de inversiones es contribuir a un clima favorable para la inversión. En la literatura y práctica internacional, esta función se conoce como policy advocacy. Esto requiere abogar, por una parte, por mejoras normativas y regulatorias que incrementen la competitividad de la economía, de modo que ésta sea capaz de atraer y retener el tipo de inversión extranjera que genera mayores beneficios para el país. Por otra parte, la agencia debe detectar obstáculos para la inversión extranjera provenientes de disposiciones legales o reglamentarias que favorecen al inversionista local por sobre el extranjero. Un activo fundamental que Chile construyó durante las últimas décadas es su fortaleza institucional, la que debe ser cuidada y profundizada, especialmente en un contexto en que otros países mejoran sus instituciones y la competencia por atraer inversión extranjera de calidad se intensifica. La Agencia de Promoción de la Inversión Extranjera se encuentra en una posición inmejorable para detectar posibilidades de mejorar el clima de inversión y, a través del Comité de Ministros, proponer soluciones de carácter global en esta materia. La agencia presentará los diagnósticos y posibles soluciones al Comité de Ministros, de modo que éste se encargue de canalizar y coordinar los esfuerzos tendientes a lograr soluciones efectivas a las falencias detectadas. Por último, la agencia deberá canalizar las inquietudes de las empresas extranjeras en casos en que sean tratadas injustamente por alguna repartición o funcionario público.
 
-La ley 20.848 mandata a la nueva agencia para realizar este tipo de actividades y, al mismo tiempo, señala que el comité de ministros le encomendará, entre otros, estudios sobre la posición competitiva del país. Estos estudios involucrarán crucialmente comparaciones internacionales sobre los costos y ventajas de localizar negocios en el país, los instrumentos de fomento disponibles para la inversión extranjera y las distintas normativas que impactan el atractivo del país como destino de inversiones.
+La ley 20.848 mandata a la nueva agencia para realizar este tipo de actividades y, al mismo tiempo, señala que el Comité de Ministros le encomendará, entre otros, estudios sobre la posición competitiva del país. Estos estudios involucrarán crucialmente comparaciones internacionales sobre los costos y ventajas de localizar negocios en el país, los instrumentos de fomento disponibles para la inversión extranjera y las distintas normativas que impactan el atractivo del país como destino de inversiones.
 
 A modo de guía, las funciones que típicamente llevan a cabo las agencias de promoción de inversiones en esta materia incluyen:
 
@@ -434,7 +434,7 @@ A modo de guía, las funciones que típicamente llevan a cabo las agencias de pr
 
 . Análisis de las brechas de infraestructura que impiden el desarrollo del potencial productivo y exportador de los sectores priorizados, con recomendaciones y trabajo conjunto hacia su superación.
 
-. Estudios comparativos de benchmarking de los incentivos ofrecidos por Chile (por ejemplo a través de CORFO) con respecto a los principales competidores.
+. Estudios comparativos de benchmarking de los incentivos ofrecidos por Chile (por ejemplo a través de Corfo) con respecto a los principales competidores.
 
 . Análisis de las cadenas logísticas de modo de generar recomendaciones para mejorar la oferta de soluciones que Chile ofrece a los inversionistas.
 
@@ -470,7 +470,7 @@ El nuevo marco legal que rige a la agencia faculta a su Director para convocar u
 
 La participación de los privados es fundamental para una promoción de inversiones efectiva, particularmente en los esfuerzos de construcción de imagen, atracción de nuevas inversiones y etapas de pre-inversión. Esto, porque entrega una señal potente de coordinación entre los actores relevantes y refuerza la cultura de "equipo Chile" a la hora de salir al mundo. En ese sentido, cabe resaltar que en este consejo está determinada por ley la presencia de la Subsecretaría de Desarrollo Regional, entendida la importancia de los actores regionales para la promoción efectiva de la IED.
 
-Definición Estratégica 10: Establecer alianzas con las entidades públicas y privadas es clave. Las acciones de la agencia son eminentemente de carácter coordinador. Por ello, es fundamental actuar en concordancia con CORFO, ProChile, la Fundación Imagen de Chile y los distintos ministerios involucrados. Por otra parte, es necesario expandir y profundizar los acuerdos de cooperación con el sector privado, sin el cual no es posible realizar una promoción efectiva.
+Definición Estratégica 10: Establecer alianzas con las entidades públicas y privadas es clave. Las acciones de la agencia son eminentemente de carácter coordinador. Por ello, es fundamental actuar en concordancia con Corfo, ProChile, la Fundación Imagen de Chile y los distintos ministerios involucrados. Por otra parte, es necesario expandir y profundizar los acuerdos de cooperación con el sector privado, sin el cual no es posible realizar una promoción efectiva.
 
 ### IX. Presencia de la Agencia de Promoción de la Inversión Extranjera en el exterior
 
@@ -488,7 +488,7 @@ Para determinar qué localizaciones son más convenientes para la destinación d
 
 3. Potencial para transferir tecnologías clave - Algunos países cuentan con mayores capacidades tecnológicas que podrían ser implementadas en sectores clave de la economía chilena, como la minería o la industria alimentaria.
 
-4. Motivación para encadenarse e interactuar con empresas locales de menor tamaño: Las distintas culturas organizacionales y sus estrategias de penetración en los mercados de las empresas extranjeras deben tenerse en cuenta a la hora de destinar a los agregados de inversión.
+4. Motivación para encadenarse e interactuar con empresas locales de menor tamaño - Las distintas culturas organizacionales y sus estrategias de penetración en los mercados de las empresas extranjeras deben tenerse en cuenta a la hora de destinar a los agregados de inversión.
 
 5. Inversiones en países similares a Chile - Las motivaciones para invertir en el exterior son diversas, y en algunos casos pueden implicar una especialización en ciertos tipos de mercados por parte de las empresas. La Agencia de Promoción de la Inversión Extranjera debe tener en cuenta este aspecto, de modo de enfocar los esfuerzos de promoción en los países con mayores posibilidades de éxito.
 
@@ -512,10 +512,6 @@ Adicionalmente, es necesario contar con un plan comercial que guíe la ejecució
 
 Algunas de las acciones de comunicación y marketing incluyen:
 
-------------------------------------------
-
-(3) Este plan se describe en detalle en los informes realizados por la consultora GDP Global durante 2015, en el proyecto "Consultoría Estratégica Comercial: Prospección de Proyectos de IED e Identificación de Potenciales Inversionistas".
-
 . Eventos específicos: organización y participación en foros de inversión, roadshows, misiones sectoriales, ferias, conferencias, visitas a empresas y todo tipo de actividades que apunten a posicionar a Chile como un lugar atractivo para invertir;
 
 . Plan de medios y relación con la prensa;
@@ -530,25 +526,27 @@ En un ambiente de competencia global para la atracción de IED, influir sobre lo
 
 Las empresas e inversionistas extranjeros generalmente se enfrentan a un proceso de decisión en el que se evalúa una multiplicidad de factores. Las compañías, en primera instancia, buscan, recopilan y analizan información de oportunidades a nivel internacional. Luego, reducen sus opciones en función del análisis de factores relevantes para la empresa y selecciona los países que cumplen los criterios definidos. Más adelante, analizan con datos más detallados los destinos elegidos y determinan cuáles son los más atractivos. Con esa información se construye una "lista corta" de posibles países para la expansión de sus proyectos de inversión, en la mayoría de los casos sujeta a una visita a terreno de la empresa extranjera. Finalmente, una vez determinada la localización, la compañía evalúa detalladamente las ventajas del lugar y se toma la decisión de ubicación del proyecto.
 
-En esta etapa, InvestChile buscará influir positivamente en el proyecto de decisión de empresas extranjeras que estén prospectando un proyecto de inversión internacional. Esto se hará mediante la entrega de servicios especializados para esta fase, que serán detallados más adelante e incluyen: la entrega de información relevante para la evaluación de proyectos, asesoría sectorial especializada, asistencia en las potenciales visitas a terreno que se efectúan en el país, generación de contactos a nivel público y privado y, según sea el caso, financiamiento de estudios de pre-inversión a través de CORFO.
+En esta etapa, InvestChile buscará influir positivamente en el proyecto de decisión de empresas extranjeras que estén prospectando un proyecto de inversión internacional. Esto se hará mediante la entrega de servicios especializados para esta fase, que serán detallados más adelante e incluyen: la entrega de información relevante para la evaluación de proyectos, asesoría sectorial especializada, asistencia en las potenciales visitas a terreno que se efectúan en el país, generación de contactos a nivel público y privado y, según sea el caso, financiamiento de estudios de pre-inversión a través de Corfo.
+
+---------------------------------------------------
+
+(3) Este plan se describe en detalle en los informes realizados por la consultora GDP Global durante 2015, en el proyecto "Consultoría Estratégica Comercial: Prospección de Proyectos de IED e Identificación de Potenciales Inversionistas".
 
 Etapa 3: Puesta en Marcha (Landing).
 
 Una vez que la empresa ha tomado la decisión de ejecutar un proyecto de inversión en el país, la Agencia de Promoción de la Inversión Extranjera debe entregar apoyo para que su llegada y puesta en marcha sea rápida y efectiva. En esta etapa, la agencia proveerá servicios específicos entre los cuales se incluye la asesoría para la instalación de empresas y la gestión de inquietudes y consultas ante organismos públicos.
 
-Además, estará a disposición de las compañías todo el set de instrumentos de fomento e incentivos que ofrece CORFO.
+Además, estará a disposición de las compañías todo el set de instrumentos de fomento e incentivos que ofrece Corfo.
 
 Etapa 4: Post-Establecimiento (Aftercare).
 
-Tal como se mencionó anteriormente, los países con experiencias exitosas en la atracción de IED han puesto especial énfasis en las empresas ya establecidas, fomentando la retención de inversiones e incentivando su expansión hacia nuevos proyectos. En este sentido, la Agencia de Promoción de la Inversión Extranjera apoyará activamente a las empresas extranjeras presentes en el país que pertenezcan a los sectores establecidos como prioritarios, promoviendo y fomentando las reinversiones y gestionando inquietudes ante organismos públicos en temas que puedan constituir una barrera para el desarrollo de nuevas inversiones, y/o un riesgo para su permanencia en Chile.
+Tal como se mencionó anteriormente, los países con experiencias exitosas en la atracción de IED han puesto especial énfasis en las empresas ya establecidas, fomentando la retención de inversiones e incentivando su expansión hacia nuevos proyectos. En este sentido, la Agencia de Promoción de la Inversión Extranjera apoyará activamente a las empresas extranjeras presentes en el país que pertenezcan a los sectores establecidos como prioritarios, promoviendo y fomentando las reinversiones y gestionando inquietudes ante organismos públicos en temas que puedan constituir una barrera para el desarrollo de nuevas inversiones y/o un riesgo para su permanencia en Chile.
 
 Al igual que el caso de la atracción proactiva de nuevas inversiones, la Agencia de Promoción de la Inversión Extranjera pondrá especial cuidado en atender a las empresas establecidas en Chile identificadas como "clientes prioritarios". Con estas empresas se instituirá un relacionamiento proactivo, directo y continuo, haciendo seguimiento de sus planes de inversión y entendiendo con anticipación potenciales barreras para futuros proyectos. Las empresas serán priorizadas en función de criterios asociados a su relevancia, tamaño, potencial de reinversión, impacto en la generación de empleo y aporte a la sofisticación de la economía nacional.
 
 Servicios e Instrumentos de la Agencia de Promoción de la Inversión Extranjera: Programa para una mejor inversión
 
-Los servicios e instrumentos ofrecidos por la Agencia de Promoción de la Inversión Extranjera responderán a las necesidades de las empresas extranjeras en cada una de las etapas del ciclo de inversión y representa una oferta consolidada de servicios e incentivos -propios y de diferentes organismos públicos del país- que fomenten la inversión extranjera.
-
-En el caso de servicios e incentivos ofrecidos por otros organismos, la Agencia de Promoción de la Inversión Extranjera tiene un rol coordinador interinstitucional.
+Los servicios e instrumentos ofrecidos por la Agencia de Promoción de la Inversión Extranjera responderán a las necesidades de las empresas extranjeras en cada una de las etapas del ciclo de inversión y representa una oferta consolidada de servicios e incentivos -propios y de diferentes organismos públicos del país- que fomenten la inversión extranjera. En el caso de servicios e incentivos ofrecidos por otros organismos, la Agencia de Promoción de la Inversión Extranjera tiene un rol coordinador interinstitucional.
 
 Asimismo, se ha considerado necesario ofrecer por parte de la Agencia de Promoción de la Inversión Extranjera, como parte de los servicios e instrumentos, aquellos mecanismos que contribuyan a la facilitación de la colaboración entre inversionistas extranjeros y empresas nacionales, para el desarrollo y ampliación de actividades productivas en el país, en algunas de las etapas del ciclo de inversión.
 
@@ -564,7 +562,7 @@ Con este servicio, la Agencia de Promoción de la Inversión Extranjera busca co
 
 Asesorías sectoriales especializadas:
 
-Es una atención personalizada que busca entregar a los inversionistas información específica respecto a un sector económico. Esta entrega de información incluye las características principales del sector/ sub-sector, los principales actores, oportunidades, tamaño de mercado, cifras asociadas y aclaración de dudas específicas. La Agencia de Promoción de la Inversión Extranjera podrá hacer el vínculo entre la empresa y actores públicos y privados para una entrega de información más especializada.
+Es una atención personalizada que busca entregar a los inversionistas información específica respecto a un sector económico. Esta entrega de información incluye las características principales del sector/sub-sector, los principales actores, oportunidades, tamaño de mercado, cifras asociadas y aclaración de dudas específicas. La Agencia de Promoción de la Inversión Extranjera podrá hacer el vínculo entre la empresa y actores públicos y privados para una entrega de información más especializada.
 
 Información estadística:
 
@@ -576,7 +574,7 @@ Es un servicio de acompañamiento personalizado, destinado a que inversionistas 
 
 La entrega de este servicio es clave, dado que puede influir positivamente en la decisión de inversión.
 
-El papel de la agencia es proponer destinos a visitar, gestionar reuniones con actores relevantes del sector público y privado y acompañar al inversionista en la totalidad de su visita. Además, se considera que la agencia financie ítems con el fin de reflejar su interés y compromiso con la realización del proyecto, dentro de los cuales se encuentran alojamiento, traslados, intérpretes, y comidas. La evidencia internacional muestra que este servicio tiene alto impacto en la decisión de localizar proyectos en un país determinado.
+El papel de la agencia es proponer destinos a visitar, gestionar reuniones con actores relevantes del sector público y privado y acompañar al inversionista en la totalidad de su visita. Además, se considera que la agencia financie ítems con el fin de reflejar su interés y compromiso con la realización del proyecto, dentro de los cuales se encuentran alojamiento, traslados, intérpretes y comidas. La evidencia internacional muestra que este servicio tiene alto impacto en la decisión de localizar proyectos en un país determinado.
 
 Agenda de reuniones:
 
@@ -588,7 +586,7 @@ Es una atención personalizada que busca entregar a los inversionistas informaci
 
 Incentivos disponibles a nivel nacional y regional:
 
-Es relevante para la decisión y desarrollo de los proyectos de inversión que las compañías extranjeras conozcan los beneficios, instrumentos e incentivos presentes en las distintas instituciones del Estado, especialmente en CORFO. El rol de la Agencia de Promoción de la Inversión Extranjera será presentar los instrumentos disponibles, vincular a los inversionistas con la contraparte relevante y hacer seguimiento en la postulación a estos instrumentos. Entre los más destacados para el fomento de inversiones extranjeras se encuentran: el programa de apoyo a proyectos estratégicos (PRAP), la Iniciativa de Fomento Integrado (IFI), la Ley I+D, los subsidios para la innovación y la Ley de Zonas Extremas. Por supuesto, esta oferta abarcará todos los instrumentos de fomento que eventualmente se implementen en el futuro.
+Es relevante para la decisión y desarrollo de los proyectos de inversión que las compañías extranjeras conozcan los beneficios, instrumentos e incentivos presentes en las distintas instituciones del Estado, especialmente en Corfo. El rol de la Agencia de Promoción de la Inversión Extranjera será presentar los instrumentos disponibles, vincular a los inversionistas con la contraparte relevante y hacer seguimiento en la postulación a estos instrumentos. Entre los más destacados para el fomento de inversiones extranjeras se encuentran: el programa de apoyo a proyectos estratégicos (PRAP), la Iniciativa de Fomento Integrado (IFI), la Ley I+D, los subsidios para la innovación y la Ley de Zonas Extremas. Por supuesto, esta oferta abarcará todos los instrumentos de fomento que eventualmente se implementen en el futuro.
 
 Asesoría para la instalación de la empresa:
 
@@ -600,12 +598,16 @@ Gestión de inquietudes y consultas ante organismos públicos:
 
 Es un servicio de gestión de inquietudes que pueden estar relacionadas con: tramitación de permisos, problemas de infraestructura, apoyo en búsqueda de proveedores y diferentes temas administrativos. La agencia desarrollará también procesos de intermediación con instituciones públicas en caso de detectar problemas que puedan resultar en barreras a la inversión o de una inquietud detectada en varias empresas o proyectos de inversión.
 
-Para la buena realización de esos servicios, la Agencia de Promoción de la Inversión Extranjera tendrá la facultad de efectuar gastos y pagos a agentes, en Chile y al exterior asociados a iniciativas cuyo objetivo sea difundir, informar, promocionar, coordinar y ejecutar toda acción tendiente a aumentar el ingreso de capitales extranjeros al país. Todos los servicios deberán efectuarse a través de procedimientos internos, los cuales serán determinados por el jefe del servicio, por resolución interna.
+Para la buena realización de esos servicios, la Agencia de Promoción de la Inversión Extranjera tendrá la facultad de efectuar gastos y pagos a agentes en Chile y al exterior asociados a iniciativas cuyo objetivo sea difundir, informar, promocionar, coordinar y ejecutar toda acción tendiente a aumentar el ingreso de capitales extranjeros al país. Todos los servicios deberán efectuarse a través de procedimientos internos, los cuales serán determinados por el jefe del servicio, por resolución interna.
 
-#### Artículo 2°
+#### Artículo 3º
 
-Déjese sin efecto el decreto supremo afecto N° 98, de 11 de julio de 2016, del Ministerio de Economía, Fomento y Turismo, que Aprueba Estrategia de Fomento y Promoción de la Inversión Extranjera, sin tramitar.
+Déjase sin efecto el decreto supremo Nº 153, de 4 de diciembre de 2018, del Ministerio de Economía, Fomento y Turismo, que Aprueba Modificaciones a Estrategia de Fomento y Promoción de la Inversión Extranjera, sin tramitar.
 
-Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Luis Felipe Céspedes Cifuentes, Ministro de Economía, Fomento y Turismo.- Heraldo Muñoz Valenzuela, Ministro de Relaciones Exteriores.- Rodrigo Valdés Pulido, Ministro de Hacienda.- Alberto Undurraga Vicuña, Ministro de Obras Públicas.- Carlos Furche Guajardo, Ministro de Agricultura.- Aurora Williams Baussa, Ministra de Minería.- Andrés Rebolledo Smitmans, Ministro de Energía.
+#### Artículo 4º
 
-Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Alejandra Dagnino Elissetche, Subsecretaria de Economía y Empresas de Menor Tamaño (S).
+Déjase constancia que las presentes modificaciones entrarán en vigencia una vez publicadas en el Diario Oficial.
+
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Ignacio Guerrero Toro, Ministro de Economía, Fomento y Turismo (S).- Roberto Ampuero Espinoza, Ministro de Relaciones Exteriores.- Felipe Larraín Bascuñán, Ministro de Hacienda.- Juan Andrés Fontaine, Ministro de Obras Públicas.- Antonio Walker Prieto, Ministro de Agricultura.- Baldo Prokurica Prokurica, Ministro de Minería.- Susana Jiménez Schuster, Ministra de Energía.
+
+Lo que transcribe, para su conocimiento.- Saluda atentamente a usted, Felipe Commentz Silva, Subsecretario de Economía y Empresas de Menor Tamaño (S).
