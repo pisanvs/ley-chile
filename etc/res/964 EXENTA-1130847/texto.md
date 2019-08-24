@@ -130,13 +130,15 @@ c) Proyecto de Ampliación en Viviendas de igual o menos de 40 metros cuadrados.
 
 4. Los montos para el primer proceso de selección de este llamado son los que se señalan en los siguientes cuadros:
 
-* De los recursos destinados a Xilófagos en la regiones IV y VIII se definirá un llamado específico para esta problemática
+.
 
-** De los recursos asignados a la Región del Biobío en el cuadro precedente, se deberá destinar en las selecciones de este llamado como mínimo un 20%, para atender a la Provincia de Arauco.
+* De los recursos asignados a la Región del Biobío en el cuadro precedente, se deberá destinar en las selecciones de este llamado como mínimo un 20%, para atender a la Provincia de Arauco.
 
-* En PDA se consideran todos sus recursos.
+.
 
-- El monto para los proyectos de Acondicionamiento Térmico para zonas con Planes de Descontaminación Atmosférica vigente, considera la mayor cantidad de recursos para esta línea de eficiencia energética, y este monto será en principio el total que se colocará en el año, por lo que si tras la selección sobran recursos estos se aplicarán a la segunda o tercera selección de este llamado.
+* En PDA se consideran todos sus recursos
+
+- El monto para los proyectos de Acondicionamiento Térmico para zonas con Planes de Descontaminación Atmosférica vigente, considera la mayor cantidad de recursos para esta línea de eficiencia energética, y este monto será en principio el total que se pondrá a disposición en el año, por lo que, si tras la selección sobran recursos, estos se aplicarán a la segunda o tercera selección de este llamado."
 
 4.1 El primer proceso de selección de este llamado se abocará a los proyectos que quedaron hábiles no seleccionados en los últimos procesos de postulación de los llamados de estas líneas del año 2018, pudiendo estos proyectos postular en las mismas condiciones que fueron calificados en esos procesos. Si quedaran recursos en el primer proceso de selección, como consecuencia de que no se postulen todos los proyectos hábiles no seleccionados, el saldo de recursos podrá aplicarse en el segundo proceso de selección donde sí se aceptarán proyectos con observaciones de esas últimas postulaciones 2018, y además proyectos nuevos.
 
@@ -408,6 +410,8 @@ b) Las familias que pertenezcan al tramo que va entre el 60% y el 70% según la 
 
 a) Las comunas involucradas y de los montos de subsidio según tipo de proyecto de este llamado, por cada región, serán los indicados en la tabla inserta a continuación:
 
+.
+
 * En casos de Viviendas con Pisos Ventilados, estos montos se podrán aumentar en 40 UF.
 
 ** En casos de Viviendas de Postulantes Adultos Mayores, siempre podrá aplicarse el monto máximo de Incremento por Complejidad Técnica, previo informe y autorización del Serviu.
@@ -422,7 +426,7 @@ b) Para efectos de una correcta interpretación de la tabla precedente, deberán
 
 - Subsidio Base:
 
-Corresponde al monto de subsidio mínimo que se otorgará por cada beneficiario según la región a la que pertenezca (los montos de las regiones de Maule, Biobío y Araucanía se han incrementado, dado que los proyectos deben implementar la segunda etapa del plan, interviniendo además ventanas y puertas).
+Corresponde al monto de subsidio mínimo que se otorgará por cada beneficiario según la región a la que pertenezca (los montos de las regiones de Maule, Ñuble, Araucanía, Los Ríos y Los Lagos se han incrementado, dado que los proyectos deben implementar la segunda etapa del plan, interviniendo además ventanas y puertas).
 
 - Incremento por Complejidad Técnica:
 
@@ -520,7 +524,7 @@ Se realizará en conformidad a lo dispuesto en la reglamentación vigente. No ob
 
 18.4.6 Autorízase a los Serviu de las regiones que participan elaborando este tipo de proyectos, a utilizar los recursos de Asistencia Técnica en caso que dichos Servicios regionales deban asumir las referidas labores, según lo dispuesto en la resolución exenta Nº 8.312, de (V. y U), año 2013.
 
-18.5 El proyecto de Acondicionamiento Térmico para zonas con Planes de Descontaminación Atmosférica elaborado por el PSAT deberá considerar que la vivienda, una vez intervenida, dé cumplimiento a todas las exigencias contenidas en los Planes de Descontaminación Atmosférica a que se refieren los decretos citados en los Vistos 5, 6, 7, 8 y 9 de esta resolución. En caso de los Planes de Descontaminación de Talca, Maule, Chillán, Chillán Viejo y Temuco y Padre Las Casas, deberán contemplar la aplicación del estándar de transmitancia térmica de la envolvente señalado para la segunda etapa del Acondicionamiento Térmico de viviendas existentes. En el caso de los proyectos para el Plan de Descontaminación de Osorno, para la primera selección sólo podrán participar los proyectos que sean repostulados porque quedaron en estado Hábil no Seleccionado en el llamado 2018, y a ellos no les será exigible cambiar su proyecto, no obstante en la segunda selección los proyectos deberán contemplar la aplicación del estándar de transmitancia térmica de la envolvente señalado para la segunda etapa del Acondicionamiento de viviendas existentes. En el caso de proyectos para el Plan de Descontaminación de Valdivia, deberán subir su estándar a lo señalado para segunda etapa en la última selección. Además, en todos los casos, se deberán considerar también los criterios de cálculo que el Minvu defina para estos efectos, a través de la División Técnica de Estudios y Fomento Habitacional. Respecto del cumplimiento del estándar de transmitancia en las ventanas, en la segunda etapa de los Planes de Descontaminación de Chillán, Chillán Viejo y Temuco y Padre Las Casas, las alternativas técnicas deben ser presentadas por los PSAT a los Serviu y ellos evaluar su pertinencia, previa evaluación técnica.
+18.5 El proyecto de Acondicionamiento Térmico para zonas con Planes de Descontaminación Atmosférica elaborado por el PSAT deberá considerar que la vivienda, una vez intervenida, dé cumplimiento a todas las exigencias contenidas en los Planes de Descontaminación Atmosférica a que se refieren los decretos citados en los Vistos 5, 6, 7, 8 y 9 de esta resolución. En caso de los Planes de Descontaminación de Talca, Maule, Chillán, Chillán Viejo y Temuco y Padre Las Casas, deberán contemplar la aplicación del estándar de transmitancia térmica de la envolvente señalado para la segunda etapa del Acondicionamiento Térmico de viviendas existentes. En el caso de los proyectos para el Plan de Descontaminación de Osorno, para la primera selección sólo podrán participar los proyectos que sean repostulados porque quedaron en estado Hábil no Seleccionado en el llamado 2018, y a ellos no les será exigible cambiar su proyecto, no obstante en la segunda selección los proyectos deberán contemplar la aplicación del estándar de transmitancia térmica de la envolvente señalado para la segunda etapa del Acondicionamiento de viviendas existentes. En el caso de proyectos para el Plan de Descontaminación de Valdivia, deberán subir su estándar a lo señalado para la segunda etapa desde la segunda selección. Además, en todos los casos, se deberán considerar también los criterios de cálculo que el Minvu defina para estos efectos, a través de la División Técnica de Estudios y Fomento Habitacional. Respecto del cumplimiento del estándar de transmitancia en las ventanas, en la segunda etapa de los Planes de Descontaminación de Chillán, Chillán Viejo y Temuco y Padre Las Casas, las alternativas técnicas deben ser presentadas por los PSAT a los Serviu y ellos evaluar su pertinencia, previa evaluación técnica.
 
 18.6 En el caso de la Región del Libertador General Bernardo O'Higgins, cuyo Plan, citado en el Visto 4 de esta resolución, no contempla exigencias específicas para viviendas existentes, estas serán las que se definan en esta resolución.
 
@@ -589,6 +593,8 @@ En las postulaciones colectivas se aceptará que el 60% de los integrantes cumpl
 28. La resolución que aprueba las nóminas de los postulantes seleccionados y sus respectivos proyectos se aprobarán mediante resoluciones exentas del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial. La difusión de dichas nóminas se realizará por el Serviu respectivo en los términos previstos en el DS Nº 255 (V. y U.), de 2006. Los resultados serán publicados además en la página web del Minvu.
 
 > **Nota.** El numeral 1 de la Resolución 1284 Exenta, Vivienda, publicada el 05.06.2019, modifica el cuadro inserto en el resuelvo 3 de la presente norma, en el sentido de reemplazar, en la fila Nº 1, en la columna "Fecha de Selección" los guarismos "24-05-2019" por "06-06-2019".
+
+> **Nota.** NOTA 1 Los numerales 1.1.1 y 1.1.2 del numeral 1.1 del numero 1 Vivienda, publicada el 24.08.2019, modifican la tabla inserta resuelvo 3 en el sentido de reemplazar en la columna Proyectos a seleccionar, del número 3 por lo siguiente: "a) Proyectos S.S.T.T., Fotovoltaicos y de Acondicionamiento Térmico Regular y PDA., y en la fila Nº 2, en la columna "Fecha de selección" del cuadro adjunto, los guarismos "30-08-2019" por "13-09-2019".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
