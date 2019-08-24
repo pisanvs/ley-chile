@@ -38,75 +38,77 @@ Decreto:
 
 La actividad de corta y cosecha del musgo perteneciente a la especie Sphagnum magellanicum deberá dar cumplimiento a las reglas establecidas en el presente decreto.
 
-Exceptuánse de la aplicación de estas normas aquellos proyectos o actividades que ingresen al Sistema de Evaluación de Impacto Ambiental (SEIA); los que digan relación con las áreas silvestres protegidas, y los que se refieran a bienes regulados por la ley Nº 20.283.
+Exceptuánse de la aplicación de estas normas aquellos proyectos o actividades que ingresen al Sistema de Evaluación de Impacto Ambiental (SEIA); los que digan relación con las áreas silvestres protegidas, y los que se refieran a bienes regulados por la ley Nº 20.283, sobre recuperación del bosque nativo y fomento forestal.
 
 #### Artículo 2º
 
 Al momento del corte y cosecha, y con el objeto de asegurar la regeneración natural del musgo Sphagnum magellanicum, deberá cumplirse con las siguientes condiciones:
 
-a. La corta del musgo deberá realizarse en forma manual o mediante horquetas u otra herramienta de similar característica, de modo que el largo de la hebra cosechada no supere los 15 centímetros y, asegurando en todo caso, que el residuo del musgo que permanezca sea de al menos 5 centímetros sobre el nivel del agua.
+a. La corta del musgo deberá realizarse en forma manual o mediante horquetas u otra herramienta de similar característica, asegurando en todo caso, que el residuo del musgo que permanezca sea de al menos 5 centímetros de musgo vivo.
+
+Se entenderá como musgo vivo, para estos efectos, aquella porción de la hebra del musgo que haya quedado adherida al sustrato, como resultado de una cosecha, presentando apariencia similar a la porción viva del musgo extraído.
 
 b. No se utilizará maquinaria pesada o herramientas que compacten el musgo Sphagnum magellanicum.
 
 c. El área donde se encuentra el musgo Sphagnum magellanicum no deberá ser drenada.
 
-d. Se deberá asegurar que en cada paño permanezca al menos un 30% de cobertura del musgo sin cosechar. Se entenderá como paño aquel polígono cuya superficie contiene presencia continua del musgo Sphagnum magellanicum.
+d. Se deberá asegurar que en cada área a intervenir con presencia de musgo Sphagnum magellanicum, permanezca al menos un 30% de cobertura del musgo sin cosechar, porcentaje que deberá ser distribuido en la totalidad del área a intervenir.
 
-e. El 70% del paño a intervenir deberá ser subdividido delimitando áreas de cosecha en un número mínimo tal, que la primera área cosechada vuelva a ser intervenida, bajo condición de que, habiéndose cumplido el requisito del Artículo 5º, hayan transcurrido a lo menos 12 años, tratándose de las regiones de Los Ríos y Los Lagos, y 85 años, tratándose de las regiones de Aysén del General Carlos Ibáñez del Campo y de Magallanes y de la Antártica Chilena.
+Se entenderá como área a intervenir, aquella superficie de terreno con presencia continua o discontinua de musgo Sphagnum magellanicum.
 
-Durante la ejecución del plan de cosecha, las áreas de cosecha deberán ser manejadas de manera tal de dejar el área de cosecha adyacente a la que se está cosechando, sin intervenir.
+e. En el 70% del área a intervenir, se deberá trabajar de tal manera que permita que el musgo recupere su crecimiento y sea posible nuevamente su cosecha, cumpliendo siempre con lo señalado en el literal a) de este artículo y en el artículo 5° de este instrumento.
 
 #### Artículo 3°
 
-La persona natural o jurídica que realice las actividades señaladas en el Artículo 1° del presente decreto, deberá presentar a la Dirección Regional del Servicio Agrícola y Ganadero para su autorización, mediante resolución, un plan de cosecha del musgo, que incluya los siguientes antecedentes e información:
+El dueño del predio, el recolector o la persona autorizada para realizar la extracción del musgo Sphagnum magellanicum deberá realizar un curso de prácticas sustentables de recolección y de elaboración de planes de cosecha, realizado por el Servicio Agrícola y Ganadero. El Servicio deberá llevar un registro de las personas que hayan aprobado dicho curso, debiendo entregar una certificación que así lo acredite.".
 
-a) Copia auténtica y vigente del título que acredite su dominio sobre el predio en que se realizarán las actividades ya descritas, y de no ser el propietario, la escritura pública o el instrumento privado autorizado ante Notario Público en que conste la autorización del propietario del predio, sea a título de arrendamiento o comodato u otro documento que acredite el derecho de uso y goce sobre el predio.
+El Servicio Agrícola y Ganadero promoverá acciones de colaboración con los diversos actores de la cadena comercial y otros servicios públicos, para la implementación de los cursos de prácticas sustentables de recolección, de elaboración de planes de cosecha y para la protección del musgo Sphagnum magellanicum.
 
-b) Plano en papel y digital en formato Shape o KML (Keyhole Markup Language), georeferenciado en Datum WGS 84 y sistema de coordenadas UTM (Universal Transversal de Mercator) o geográfica, con la siguiente información:
+#### Artículo 4°
 
-i. Punto de ubicación del o de los accesos al predio;
+La persona certificada en conformidad con el artículo 3° del presente decreto, previo al inicio de la cosecha correspondiente, deberá presentar un plan de cosecha ante el Servicio Agrícola y Ganadero.
 
-ii. Superficie de cada polígono con presencia continua de musgo Sphagnum magellanicum, de acuerdo a lo indicado en el Artículo 2º, letra d, señalando la superficie a cosechar y el 30% que no se cosechará;
+Los planes de cosecha deberán referirse a la siguiente información:
 
-iii. Identificar las áreas de cosecha para cada paño de musgo Sphagnum magellanicum que se propone intervenir en el plan de cosecha, de acuerdo a lo indicado en el Artículo 2º, letra e.
+a) Mención del título que acredite el dominio sobre el predio en que se realizarán las actividades de cosecha, y de no ser el propietario, el instrumento en que conste la autorización del propietario del predio, sea a título de arrendamiento o comodato u otro que acredite el derecho de uso y goce sobre el predio.
 
-c) Fecha, etapas y duración de las actividades de cosecha de musgo Sphagnum magellanicum en el predio y paños identificados, conforme a los literales a) y b).
+b) Ubicación, rol del predio y los accesos al mismo.
 
-d) Método de extracción y tipo de herramientas y equipos que serán utilizados, que aseguren la no compactación del musgo existente en el predio, conforme a lo señalado en el Artículo 2º, literal b).
+c) La superficie del área a intervenir, de acuerdo con lo indicado en el artículo 2°, letra d), señalando la superficie a cosechar y el 30% que no se cosechará.
 
-e) Altura de corte del musgo que permita asegurar la regeneración del musgo presente en el área a intervenir, conforme a lo señalado en el Artículo 2º.
+d) Fecha estimada de inicio y duración de actividades de cosecha del musgo.
 
-f) Registro del nivel freático (agua) de la turbera en la que se encuentra el musgo Sphagnum magellanicum que se propone cosechar, medido un año antes de la fecha en que se propone comenzar la ejecución del plan de cosecha.
+e) Método de extracción y tipo de herramientas y equipos que serán utilizados, que aseguren la no compactación del musgo existente en el predio, conforme a lo señalado en el artículo 2°, literal b).
 
-Toda solicitud referida a la autorización o modificación del plan de cosecha del musgo deberá ser presentada, con sus antecedentes, a la Dirección Regional respectiva del Servicio Agrícola y Ganadero. Será aplicable a este respecto lo establecido en el artículo 59º de la ley Nº 19.880.
+Los planes de cosecha podrán elaborarse acorde los formularios que el Servicio Agrícola y Ganadero disponga al efecto.
 
-#### Artículo 4º
+#### Artículo 5°
 
-Al finalizar cada etapa de cosecha, la persona natural o jurídica que presentó el plan a la Dirección Regional del Servicio Agrícola y Ganadero correspondiente, deberá acompañar en relación con dicho plan un informe de cumplimiento por cada etapa, indicando peso cosechado o seco, y destino, el cual será aprobado o rechazado por la Dirección Regional del Servicio Agrícola y Ganadero.
+El área intervenida podrá ser nuevamente cosechada solo cuando el residuo del musgo que permanezca sea de al menos 5 centímetros de musgo vivo y una vez cumplidas las condiciones establecidas en el respectivo plan de cosecha.
 
-#### Artículo 5º
+#### Artículo 6°
 
-El área intervenida no deberá ser nuevamente cosechada hasta que el musgo Sphagnum magellanicum recupere la altura que tenía al momento de la autorización del plan de cosecha.
+El Servicio Agrícola y Ganadero deberá llevar una lista actualizada de los planes de cosecha de musgo Sphagnum magellanicum presentados por personas acreditadas en conformidad con el artículo 3°, con detalle de los predios de cada región.
 
-#### Artículo 6º
+#### Artículo 7°
 
-El Servicio Agrícola y Ganadero deberá llevar una lista actualizada de los predios de cada región respecto de los cuales se haya autorizado planes de cosecha de musgo Sphagnum magellanicum, y asimismo consignará el peso cosechado o seco y su destino. A su vez, en esta lista, el Servicio Agrícola y Ganadero consignará, el punto de salida y peso de Sphagnum magellanicum que se exporte.
-
-#### Artículo 7º
-
-Los intermediarios y empresas exportadoras deberán acreditar que el Sphagnum magellanicum que comercializan, exportan, o que se encuentre en su posesión, fue obtenido o adquirido de personas naturales o jurídicas que cuenten con planes de cosecha aprobados por el Servicio Agrícola y Ganadero.
+Los intermediarios, exportadores, y comercializadores que envasen y/o distribuyan el musgo Sphagnum magellanicum para su venta al por mayor o al consumidor, deberán acreditar ante fiscalización del Servicio que el musgo que comercializan, exportan, o que se encuentre en su posesión, provenga de predios que cuenten con un plan de cosecha registrado en el Servicio. Para tal efecto, se deberán entregar copia del plan de cosecha presentado ante Servicio.
 
 #### Artículo 8º
 
 El incumplimiento de las disposiciones establecidas en el presente decreto será sancionado por el Servicio Agrícola y Ganadero, conforme las normas contenidas en la ley N° 18.755.
 
+Las disposiciones del presente decreto deberán ser revisadas cada 5 años, según criterios de eficacia y de eficiencia en su aplicación, debiendo considerar los cambios de condiciones ambientales y los resultados de las investigaciones científicas sobre la materia, para asegurar el uso sustentable del recurso.
+
 #### Artículo primero
 
-transitorio . El requisito contemplado en la letra f) del artículo 3º, referido al plan de cosecha del musgo, se aplicará una vez transcurrido el plazo de un año, contado desde la entrada en vigencia del presente decreto.
+transitorio. Las personas naturales o jurídicas que comercialicen o exporten Sphagnum magellanicum deberán declarar a la Dirección Regional del SAG correspondiente, las existencias de musgo que mantengan acopiadas en sus bodegas, provenientes de cosechas anteriores a la publicación del presente decreto en el Diario Oficial.
+
+Esta declaración deberá realizarse durante los seis meses siguientes a la publicación del presente decreto en el Diario Oficial.
 
 #### Artículo segundo
 
-transitorio. El presente decreto entrará en vigencia dieciocho meses después de su publicación en el Diario Oficial.
+transitorio. Los artículos 3°, 4°, 5°, 6° y 7° del presente decreto entrarán en vigencia veinticuatro meses después de su publicación en el Diario Oficial.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República, Carlos Furche G., Ministro de Agricultura.
 
