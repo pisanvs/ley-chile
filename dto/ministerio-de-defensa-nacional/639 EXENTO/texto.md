@@ -50,14 +50,6 @@ El Comandante del Comando Conjunto Norte recibirá las solicitudes de colaboraci
 
 El presente decreto tendrá una duración de seis meses, a contar de la fecha de su promulgación.
 
-> **Nota.** El Decreto 1315 Exento, Defensa, publicado el 09.01.2020, amplía la vigencia de la presente norma por el plazo de un año a contar de la fecha de la publicación del citado decreto.
-
-> **Nota.** NOTA 1 El Decreto 1013 Exento, Defensa, publicado el 19.12.2020, amplía la vigencia de la presente norma por el plazo de un año a contar de la fecha de la publicación del citado decreto.
-
-> **Nota.** NOTA 2 El Decreto 863 Exento, Defensa, publicado el 22.12.2021, amplía la vigencia de la presente norma por el plazo de un año a contar de la fecha de la publicación del citado decreto.
-
-> **Nota.** NOTA 3 El Decreto 577 Exento, Defensa, publicado el 20.12.2022, amplía la vigencia de la presente norma por el plazo de un año a contar de la fecha de la publicación del citado decreto.
-
 Anótese, Publíquese y Archívese. Por orden del Presidente de la República. Alberto Espina Otero, Ministro de Defensa Nacional.
 
 Lo que se transcribe para su conocimiento.- Juan Francisco Galli Basili, Subsecretario para las Fuerzas Armadas.
