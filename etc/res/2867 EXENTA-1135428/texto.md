@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta N° 2.867, de fecha 27 de abril de 2017, de esta Secretaría Regional, se aprobó el programa de enseñanza conducente a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores "Escuela de Conductores San Francisco S.F. Limitada", cuyo nombre de fantasía es "San Francisco S.F. Ltda.", RUT N° 76.538.627-6, cuyo representante legal es el señor Juan Patricio Sánchez Gutiérrez y director el señor Jorge Eduardo Vidal Zúñiga, su sede estará ubicada en Lucas Pacheco N° 661, comuna de Talagante. Las horas pedagógicas autorizadas a la referida Escuela son doce horas teóricas y trece horas prácticas, con un total de veinticinco horas pedagógicas.-
+
+Matías Salazar Zegers, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
