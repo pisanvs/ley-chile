@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 5.373, de 23 de julio de 2019, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "ACC Talagante SpA", RUT Nº 76.897.996-0, cuyo representante legal es el señor Rodolfo Hevia Rodríguez, RUT. Nº 15.317.128-9, y su director es el señor Marcial Toledo Araya, RUT Nº 10.686.616-3, ubicada en Balmaceda Nº 710, local 5, comuna de Talagante. Horas pedagógicas autorizadas a la referida Escuela son diez horas teóricas y doce prácticas, con un total de veintidós horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
