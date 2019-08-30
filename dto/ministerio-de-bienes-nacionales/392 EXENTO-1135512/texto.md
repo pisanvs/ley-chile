@@ -1,0 +1,9 @@
+ADJUDICA EN PROPUESTA PÚBLICA CONCESIÓN ONEROSA DE INMUEBLES FISCALES EN LA REGIÓN DE ARICA Y PARINACOTA, A "COLBÚN S.A."
+
+Mediante decreto exento N° 392, de 21 de agosto de 2019, el Ministerio de Bienes Nacionales adjudicó en propuesta pública Concesión Onerosa, a "Colbún S.A.", RUT N° 96.505.760-9, de los inmuebles fiscales signados como Lote "A", Lote "B" y Lote "I", Pampa Camarones, comuna de Camarones, provincia de Arica, Región de Arica y Parinacota; enrolados en el Servicio de Impuestos Internos con los Nos 03490-3, 03490-4, 03490-11, respectivamente; amparados por inscripción global a nombre del Fisco que rola a fojas 25 vta. N° 60, del Registro de Propiedad del Conservador de Bienes Raíces de Arica, correspondiente al año 1935; singularizados en el Plano N° 15102-2506-C.R.; con unas superficies de 304,63 ha. el Lote "A", 304,63 ha. el Lote "B", y de 350,00 ha. el Lote "I". La Concesión se otorga por un plazo de 40 años, contados desde la fecha de suscripción de la respectiva escritura pública de concesión. La renta anual de la Concesión para el Período de Estudios y Construcción serán de UF 402,61 para el lote A, UF 402,61 para el lote B y de UF 462,01 para el lote I; y para el Período de Operación serán los mismos antes señalados, más la Renta Variable Anual aplicable a cada lote.
+
+La Concesión se otorga para ejecutar proyectos de Energía Renovable No Convencional (ERNC). El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefa de División Jurídica.
