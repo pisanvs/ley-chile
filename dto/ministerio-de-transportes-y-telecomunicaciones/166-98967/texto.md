@@ -50,17 +50,23 @@ D e c r e t o:
 
 Elementos de la Esencia de la Concesión
 
-- Tipo de servicio :Radiodifusión sonora en frecuencia
+- Tipo de servicio :Radiodifusión sonora
+
+en frecuencia
 
 modulada.
 
 - Zona de servicio :Localidad de Curacaví.
 
-Superficie delimitada por una
+Superficie delimitada
 
-intensidad de campo mayor o igual
+por una intensidad de
 
-que 54 dB(uV/m), referida al punto
+campo mayor o igual
+
+que 54 dB(uV/m),
+
+referida al punto
 
 de emisión de la señal.
 
@@ -106,13 +112,15 @@ Ubicación de la Radioemisora
 
 planta transmisora y
 
-sistema radiante :Calle Ambrosio O'Higgins Nº1784,
+sistema radiante :Calle Ambrosio O'Higgins
 
-Curacaví, Región Metropolitana.
+Nº1784, Curacaví, Región
 
-- Coordenadas Geográficas :33°24'07" Latitud Sur
+Metropolitana.
 
-71°07'54" Longitud Oeste.
+- Coordenadas Geográficas :33°24'16" Latitud Sur
+
+71°07'52" Longitud Oeste.
 
 4.- Es obligación de la concesionaria el conocimiento y cumplimiento de las disposiciones de la ley, reglamentos, normas técnicas y sus modificaciones, en lo que le sean aplicables.
 
