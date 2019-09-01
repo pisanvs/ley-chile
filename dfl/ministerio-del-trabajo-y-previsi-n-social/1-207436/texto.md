@@ -572,6 +572,44 @@ C. Las partes podrán pactar alternativas de distribución de jornada. En este c
 
 D. Para los efectos del cálculo de la indemnización que pudiere corresponderle al trabajador al momento del término de sus servicios, se entenderá por última remuneración el promedio de las remuneraciones percibidas por el trabajador durante la vigencia de su contrato o de los últimos once años del mismo. Para este fin, cada una de las remuneraciones que abarque el período de cálculo deberá ser reajustada por la variación experimentada por el índice de precios al consumidor, entre el mes anterior al pago de la remuneración respectiva y el mes anterior al término del contrato. Con todo, si la indemnización que le correspondiere por aplicación del artículo 163 fuere superior, se le aplicará ésta.
 
+#### Artículo 40 bis
+
+E.- Sin perjuicio de lo dispuesto en los artículos anteriores, las partes podrán acordar una jornada parcial alternativa de trabajo y descansos para estudiantes trabajadores, de conformidad con las reglas precedentes y las siguientes reglas especiales:
+
+a) Se entenderá para estos efectos como estudiante trabajador a toda persona que tenga entre 18 y 24 años de edad inclusive, que se encuentre cursando estudios regulares o en proceso de titulación en una institución de educación superior universitaria, profesional o técnica reconocida por el Estado o en entidades ejecutoras de programas de nivelación de estudios.
+
+b) La calidad de alumno regular o en proceso de titulación deberá acreditarse dentro del plazo para hacer constar por escrito el contrato de trabajo, en conformidad a lo dispuesto en el artículo 9, mediante certificado emitido por la institución educacional respectiva. Ésta tendrá la obligación de emitir el certificado para dicho fin, de manera gratuita, dentro del plazo de tres días hábiles de solicitado, sin que pueda excusarse de ello ni aun por encontrarse el estudiante en mora o por cualquier otro motivo. El certificado deberá anexarse al contrato individual de trabajo, se considerará como parte integrante del mismo y deberá mantenerse en un registro especial que, para estos efectos, llevará el empleador. Igual certificación deberá acompañarse cada seis meses, mientras subsista la relación laboral.
+
+c) En caso de que el estudiante trabajador deje de cumplir con los requisitos señalados en la letra a), se aplicarán las normas generales de este Código.
+
+Con todo, el estudiante trabajador deberá informar de inmediato al empleador sobre los cambios en su calidad de estudiante.
+
+d) Tratándose de estudiantes trabajadores, la jornada ordinaria diaria será continua. Con todo, las partes podrán pactar sólo una interrupción diaria, la que en ningún caso podrá afectar el derecho a colación del cual goza el trabajador. La interrupción deberá ser concordante con el horario académico lectivo vigente del estudiante y se justificará anexando éste en el respectivo contrato de trabajo.
+
+Entre el inicio y el término de la jornada diaria no podrán transcurrir más de doce horas, sumados los períodos trabajados, en jornada ordinaria y extraordinaria, más la interrupción señalada en el párrafo anterior. Las horas efectivamente trabajadas no podrán ser superiores a diez horas diarias.
+
+Lo anterior, sin perjuicio de lo establecido en el inciso quinto del artículo 34 bis, en lo que corresponda.
+
+De conformidad con lo dispuesto en la ley N° 16.744, y tratándose de estudiantes trabajadores regidos por la presente jornada, se entenderá que son accidentes del trabajo los ocurridos en el trayecto directo, de ida o regreso, entre el establecimiento educacional y el lugar de trabajo.
+
+e) El estudiante trabajador tendrá derecho a un permiso sin goce de remuneración con ocasión de rendir sus exámenes académicos. Para ejercer este derecho, el estudiante trabajador deberá informar al empleador, por escrito, con al menos siete días corridos de anticipación, la forma en que hará uso del permiso para efectos de rendir dichos exámenes.
+
+f) Durante los períodos en los que el estudiante trabajador se encuentre en receso por vacaciones académicas, las partes podrán acordar por escrito alguna de las siguientes alternativas:
+
+i. Mantener la prestación de servicios de acuerdo a las disposiciones del presente artículo.
+
+ii. Suspender el contrato de trabajo. En este caso, se entenderá vigente la relación laboral, pero suspendida la obligación del trabajador de prestar servicios y la obligación del empleador de pagar cualquier remuneración que tenga su origen en el contrato de trabajo, salvo aquellas devengadas con anterioridad a la suspensión.
+
+iii. Pactar una jornada de trabajo ordinaria.
+
+g) Los estudiantes trabajadores que sean beneficiarios del régimen de prestaciones de salud conforme a lo dispuesto en las letras b) y c) del artículo 136 del decreto con fuerza de ley N° 1, de 2005, del Ministerio de Salud, que fija texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469, podrán optar por:
+
+i. Adquirir la calidad de cotizantes del régimen de prestaciones de salud conforme a la letra a) del artículo 135 del decreto con fuerza de ley antes indicado, en cuyo caso el empleador deberá enterar las cotizaciones de salud del estudiante trabajador conforme a las reglas generales.
+
+ii. Mantener la calidad de beneficiario con aporte en la institución de salud previsional en la cual sea carga. En este caso, el empleador deberá enterar las cotizaciones de salud del estudiante trabajador a la institución de salud previsional respectiva, conforme a lo dispuesto en el inciso tercero del artículo 202 del decreto con fuerza de ley antes indicado. La institución de salud previsional deberá reconocer y mantener la calidad de beneficiario con aporte del estudiante trabajador.
+
+h) No podrán pactar esta jornada de trabajo especial aquellas empresas que durante el año calendario anterior registren accidentes graves o fatales en los que el empleador hubiere sido condenado por culpa o negligencia.
+
 ## Capítulo V
 
 DE LAS REMUNERACIONES
@@ -1915,6 +1953,52 @@ L.- Si los Roles de Vuelo implicaren la prestación de servicios durante días f
 M.- Las trabajadoras cuyos contratos se rijan por este Capítulo, al retomar sus funciones después de hacer uso de su permiso de maternidad, gozarán de los derechos de alimentación en los términos del Título II del Libro II de este Código. Para ello, se deberán pactar individual o colectivamente con ocho trabajadoras o más, las condiciones de trabajo que permitan ejercer dichos derechos hasta que el menor cumpla dos años, pudiendo con ello variarse las alternativas que señala el artículo 206 de este Código incluyendo el lapso de una hora consignado en dicha disposición. El empleador podrá hacer extensivas las condiciones pactadas colectivamente a las trabajadoras que se integren a la empresa con posterioridad a dicho acuerdo.
 
 En ningún caso las alternativas que se pacten, en uno u otro evento, podrán implicar una disminución de las remuneraciones de la trabajadora.
+
+## Capítulo VIII
+
+Del contrato de los teleoperadores
+
+#### Artículo 152 quáter
+
+Se regirán por las normas del presente Capítulo los contratos de trabajo cuyo objeto sea la prestación de servicios para contactar o ser contactados con terceros, sea por la vía telefónica, medios telemáticos, aplicación de tecnología digital o cualquier otro medio electrónico, para la atención, información o asesoramiento de soporte técnico, comerciales o administrativos, venta o promoción de productos o servicios, en un lugar habilitado por el empleador, denominado centro de contacto o llamadas.
+
+#### Artículo 152 quáter
+
+A.- El contrato de los trabajadores regidos por este Capítulo deberá contener las estipulaciones que señala el artículo 10.
+
+Todas las operaciones por las cuales el trabajador perciba remuneraciones fijas o variables deberán ser acordadas por las partes y estar contenidas en el contrato de trabajo. Las remuneraciones variables deberán construirse sobre la base de parámetros individuales, objetivos y verificables, sin perjuicio de las metas colectivas que se puedan pactar. No se podrá imponer al trabajador el cumplimiento de metas, servicios o tareas que no reúnan tales condiciones, ni aun bajo promesa de la entrega de bonos o premios especiales. Tampoco se podrán efectuar descuentos arbitrarios o perjudicar cualquier clase de calificación del trabajador por el incumplimiento de obligaciones objetivas que no se encuentren acordadas en conformidad a este inciso.
+
+Toda modificación de la remuneración variable y de su base de cálculo deberá quedar establecida en un anexo al contrato de trabajo, la que empezará a regir al mes siguiente de suscrito dicho anexo.
+
+Para la aplicación de lo dispuesto en el inciso tercero del artículo 54 bis, el empleador deberá detallar en la respectiva liquidación de remuneraciones, todas y cada una de las operaciones por las que el trabajador percibe remuneraciones fijas y variables, en especial las horas de conexión o el número de contactos efectuados, las ventas de productos tangibles o intangibles y el detalle de cualquier acción que, estando consignada en el contrato de trabajo, deba ser remunerada conforme a la ley.
+
+#### Artículo 152 quáter
+
+B.- Las empresas que desarrollen sus procesos conforme lo señalado en el numeral 2 del inciso primero del artículo 38 deberán fijar los turnos respectivos con a lo menos una semana de anticipación, de manera que comenzarán a regir en la semana o período siguiente. Se entenderán exceptuados aquellos trabajadores que sean contratados expresamente para desempeñarse en horario nocturno.
+
+#### Artículo 152 quáter
+
+C.- Los trabajadores de un centro de contacto o llamadas que estén sujetos a conexión continua tendrán derecho a una interrupción de diez segundos entre cada atención. Asimismo, tendrán derecho a descansos en la jornada de trabajo por un total de treinta minutos durante el día, los que serán planificados en acuerdo con el empleador. Estos descansos no podrán acordarse en fracciones inferiores a diez minutos ni por la totalidad de su duración.
+
+Las interrupciones y descansos señalados en el inciso anterior, así como aquellos destinados para que los trabajadores acudan a los servicios higiénicos, no podrán significar en ningún caso un menoscabo a sus remuneraciones y se considerarán trabajados para todos los efectos legales.
+
+Lo anterior, sin perjuicio del derecho a colación consagrado en el artículo 34.
+
+#### Artículo 152 quáter
+
+D.- Las claves para la utilización de los sistemas de conexión constituyen una herramienta de trabajo, siendo secretas y personales del trabajador de un centro de contacto o llamadas. Cualquier contravención a lo anterior se sujetará a las normas del procedimiento de tutela de derechos fundamentales regulado en el Párrafo 6° del Capítulo II del Título I del Libro V de este Código.
+
+#### Artículo 152 quáter
+
+E.- Un reglamento conjunto de los Ministerios de Salud y del Trabajo y Previsión Social establecerá las condiciones ambientales, de seguridad y salud en el trabajo que deberán cumplir los establecimientos destinados a prestar servicios como centros de contacto o llamadas.
+
+#### Artículo 152 quáter
+
+F.- Los trabajadores de un centro de contacto o llamadas, que lleven seis meses prestando servicios al empleador de forma continua, tendrán derecho a realizarse exámenes médicos preventivos anuales cuyo objetivo será detectar de forma temprana enfermedades profesionales asociadas a la actividad en la cual se desempeñan. Dichos exámenes médicos serán efectuados por el respectivo organismo administrador del seguro de accidentes del trabajo y enfermedades profesionales de la ley N° 16.744.
+
+Un reglamento dictado por el Ministerio del Trabajo y Previsión Social determinará las condiciones físicas y ergonómicas en que deberán prestar servicios los trabajadores regidos por este Capítulo, así como los exámenes preventivos que deberán realizarse periódicamente.
+
+El tiempo que el trabajador emplee en la realización de los exámenes señalados en el inciso anterior será considerado como trabajado para todos los efectos legales. Asimismo, el empleador deberá pagar el valor de los pasajes por el transporte que deba utilizar el trabajador para concurrir al centro asistencial donde se le efectuarán los exámenes.
 
 ## Título III
 
@@ -5014,7 +5098,7 @@ Iquique, con tres jueces,con competencia sobre la comuna de Iquique;
 
 b) Segunda Región de Antofagasta:
 
-Antofagasta, con cuatro jueces, con competencia sobre las comunas de Antofagasta y Sierra Gorda; Calama, con dos jueces, con competencia en las comunas de la provincia de El Loa;
+Antofagasta, con cinco jueces, con competencia sobre las comunas de Antofagasta y Sierra Gorda; Calama, con dos jueces, con competencia en las comunas de la provincia de El Loa;
 
 c) Tercera Región, de Atacama:
 
@@ -5022,7 +5106,7 @@ Copiapó, con dos jueces, con competencia sobre las comunas de Copiapó y Tierra
 
 d) Cuarta Región, de Coquimbo:
 
-La Serena, con tres jueces, con competencia sobre las comunas de Coquimbo, La Serena y La Higuera;
+La Serena, con cuatro jueces, con competencia sobre las comunas de Coquimbo, La Serena y La Higuera;
 
 e) Quinta Región, de Valparaíso:
 
@@ -5034,13 +5118,13 @@ Rancagua, con cuatro jueces, con competencia sobre las comunas de Rancagua, Gran
 
 g) Séptima Región, del Maule:
 
-Curicó, con dos jueces, con competencia sobre las comunas de Curicó, Teno, Romeral y Rauco, y
+Curicó, con dos jueces, con competencia sobre las comunas de Curicó, Teno, Romeral y Rauco,
 
-Talca, con dos jueces, con competencia sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;
+y Talca, con tres jueces, con competencia sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;
 
 h) Octava Región, del Bío-Bío:
 
-Concepción, con cinco jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén, Los Ángeles, con dos Jueces, con competencia en las comunas de Los Ángeles, Quilleco y Antuco;
+Concepción, con seis jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz, Chiguayante, Talcahuano y Hualpén, Los Ángeles, con dos Jueces, con competencia en las comunas de Los Ángeles, Quilleco y Antuco;
 
 i) Novena Región, de la Araucanía:
 
@@ -5056,7 +5140,7 @@ l) Décimo Segunda Región, de Magallanes y Antártica Chilena:
 
 Punta Arenas, con un juez, con competencia sobre las comunas de la provincia de Magallanes;
 
-m) Santiago, con treinta y ocho jueces, agrupados en dos juzgados, con diecinueve jueces cada uno, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
+m) Santiago con treinta y ocho jueces, agrupados en dos juzgados, con diecinueve jueces cada uno, con competencia sobre la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
 
 San Miguel con cuatro jueces, con competencia sobre las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda y Lo Espejo;
 
