@@ -1018,21 +1018,21 @@ A.- Vuelos Nacionales
 
 1.- Aeródromos de Primera Categoría:
 
-$ 6.074, por pasajero
+$ 5.516, por pasajero
 
 2.- Aeródromos de Segunda Categoría:
 
-$ 4.630, por pasajero
+$ 4.205, por pasajero
 
 3.- Aeródromos de Tercera Categoría:
 
 Exentos.
 
-Sin perjuicio de lo anterior, los pasajeros que se embarquen en vuelos nacionales, con destino a aeropuertos o aeródromos ubicados hasta 270 Kms., en línea recta, del punto de salida, pagarán un derecho de embarque de $ 2.399.
+Sin perjuicio de lo anterior, los pasajeros que se embarquen en vuelos nacionales, con destino a aeropuertos o aeródromos ubicados hasta 270 Kms., en línea recta, del punto de salida, pagarán un derecho de embarque de $ 2.178.
 
 B.- Vuelos Internacionales
 
-1.- En todos los Aeropuertos, los pasajeros con destino a puntos situados a más de 500 kilómetros del Aeropuerto de embarque, pagarán US$ 26
+1.- En todos los Aeropuertos, los pasajeros con destino a puntos situados a más de 500 kilómetros del Aeropuerto de embarque, pagarán US$ 25
 
 2.- En todos los Aeropuertos, los pasajeros con destino a puntos situados hasta 500 kilómetros del Aeropuerto de embarque pagarán el equivalente al derecho de embarque de primera categoría en vuelos nacionales.
 
