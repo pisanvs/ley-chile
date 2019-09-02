@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 698, de 26 de julio de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e) y 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 89-A, para la obra "Construcción Ruta 7, Sector Pichanco - Santa Bárbara, Tramo Caleta Gonzalo - Sta. Bárbara, que figura a nombre de CARIMONEY CARBUYAHUE JOSE L, rol de avalúo 203-187, Comuna de CHAITÉN, Región de Los Lagos, superficie 3.130 m2. La Comisión de Peritos integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, JUAN SAMUEL BARRIENTOS BAHAMONDE y CHRISTIAN EMIL RAUCH YÁÑEZ, mediante informe de tasación de 20 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $5.634.000.- para el lote N° 89-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
