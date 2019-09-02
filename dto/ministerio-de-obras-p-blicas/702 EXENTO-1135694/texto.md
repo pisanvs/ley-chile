@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 702, de 26 de julio de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 37, 38, 39 y 40, para la obra: MEJORAMIENTO RUTA I-45 SECTOR PUENTE NEGRO - LA RUFINA, que figuran a nombre de INVERSIONES K.P. SPA., rol de avalúo 412-23, Comuna de SAN FERNANDO, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O’HIGGINS, superficies 1.345, 336, 325 y 299 m2. respectivamente. La Comisión de Peritos integrada por ANDRÉS RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRÍQUEZ y MARLENE TERESA RÍOS MARCUELLO, mediante informe de tasación de 25 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $9.043.000 para el lote N° 37, $2.317.000 para el lote N° 38, $3.207.000 para el lote N° 39, y $2.786.000 para el lote N° 40. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
