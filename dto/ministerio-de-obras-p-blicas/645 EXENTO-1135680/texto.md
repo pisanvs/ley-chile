@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 645, de 26 de julio de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 224 y 226, para la obra: REPOSICIÓN RUTA 148 SECTOR: CRUCE RUTA 5 - PUENTE QUEIME, que figura a nombre de GASTÓN BELTRÁN HARISMENDY SHELLY AG y GASTÓN BELTRÁN HARISMENDY SHELLY AG, roles de avalúo 1092-172 y 1092-170, Comuna de QUILLÓN, REGIÓN DE ÑUBLE, superficies 90 y 89 m2. respectivamente. La Comisión de Peritos integrada por ROXANA CECILIA ABARZÚA GAJARDO, DANIEL AARÓN HEBER CHANDÍA MARÍN y GONZALO ANDRÉS SUAZO FIGUEROA, mediante informe de tasación de 14 de septiembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $3.434.050 para el lote N° 224, y $2.107.060 para el lote N° 226. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
