@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 695, de 26 de julio de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e) y 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 181-B-1, para la obra "Mejoramiento Ruta V-815, Tramo: Bif. Ilque-Cruce Ruta V-85", que figura a nombre de BRAVO GUTIÉRREZ IRENE DEL CARMEN Y, rol de avalúo 173-96, Comuna de CALBUCO, Región de Los Lagos, superficie 52 m2. La Comisión de Peritos integrada por NELSON BERNARDO TURRA TURRA, CHRISTIAN EMIL RAUCH YÁÑEZ y NELSON FABIÁN IGOR FLORES, mediante informe de tasación de 30 de septiembre de 2016, fijó el monto de la indemnización provisional en la cantidad de $156.000.- para el lote N° 181-B-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
