@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 724 de 9 de agosto de 2019, se tuvo por desistida la expropiación del lote de terreno N° 4, ordenada por Decreto Exento MOP Nº 873 de 8 de agosto de 2017, para la obra "Camino Ruta 5 Norte. Tramo Santiago - Los Vilos Pasarela Km. 110.000,00 al Km. 110.700,00", Región de Valparaíso. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7° y 32° del Decreto Ley Nº 2186, de 1978.
