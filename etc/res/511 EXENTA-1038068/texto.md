@@ -244,139 +244,69 @@ fecha de despacho por carta certificada del oficio
 
 del Secretario Regional requiriéndolo.
 
-3.- Respecto al Informe Vial Básico de proyectos que inciden en modificaciones a las características físicas/operacionales de vías que integran la Red Vial Básica:
+3.- Respecto al Informe Vial Básico de proyectos que produzcan modificaciones a las características físicas u operacionales de las vías que integran la Red Vial Básica:
 
-De acuerdo con lo establecido en el decreto supremo N° 83, de 1985, citado en el Visto, se entenderán modificadas las condiciones operacionales para vías urbanas pertenecientes a la Red Vial Básica de la ciudad, cuando se comprometa la operación de vehículos y/o peatones, así como los proyectos de construcción de nuevas vías que incidan en la Red Vial Básica, los que deberán contar con la aprobación del Secretario Regional Ministerial de Transportes y Telecomunicaciones que corresponda. Para tal efecto, el Ministerio de Transportes y Telecomunicaciones impartirá las instrucciones de carácter general.
+3.1. De la pertinencia del Informe Vial Básico.
 
-Tratándose de los proyectos mencionados, será el Secretario(a) Regional competente, por resolución exenta, quien determinará los valores mínimos, a partir de los cuales dichos proyectos podrán contar con un Informe Vial Básico.
+De acuerdo con lo establecido en el decreto supremo Nº 83, de 1985, "cualquier modificación a las características físicas u operacionales de las vías que integren la red vial básica de una ciudad o conglomerado de ciudades, que comprometan la operación de vehículos y/o peatones, así como los proyectos de construcción de nuevas vías que incidan en la Red Vial Básica, deberán contar con la aprobación del Secretario Regional Ministerial de Transportes y Telecomunicaciones que corresponda. Para tal efecto, el Ministerio de Transportes y Telecomunicaciones impartirá las instrucciones de carácter general".
 
-El citado Informe Vial Básico deberá especificar lo siguiente:
+Se considerará que un proyecto compromete la operación de vehículos y/o peatones si cumple copulativamente con los requisitos de localización y de valores mínimos que se detallan a continuación:
 
-- Información general del proyecto:
+a) Requisito de localización: Que al menos uno de sus accesos, de ingreso y/o egreso, se ubique frente a una vía perteneciente a la Red Vial Básica de la ciudad en que se emplaza el proyecto.
 
-¡ Ubicación (dirección, comuna) especificando
+b) Requisito de valores mínimos: Que se igualen o superen los valores mínimos, según tipo de proyecto y unidad de referencia, que hayan sido definidos por resolución exenta del Secretario Regional Ministerial competente.
 
-categoría de la vía de la Red Vial Básica sobre
+3.2 Del contenido del Informe Vial Básico.
 
-la que serán emplazados cada uno de sus accesos.
+a) Información general del proyecto, adjuntando la ficha dispuesta en el Anexo I.
 
-¡ Superficie construida neta.
+b) Área de influencia del proyecto.
 
-¡ Superficie total del terreno.
+Corresponde a la zona en la que se deben analizar y mitigar, mediante las correspondientes medidas de mitigación aplicables, los impactos relevantes que se producirían en el sistema de movilidad local como consecuencia de la puesta en operación del proyecto.
 
-¡ Cálculo de estacionamientos (Se debe estimar la
+El área de influencia estará determinada por el espacio público contiguo al predio en que pretende emplazarse el proyecto, y por los tramos de vías que conectan cada uno de los accesos (entrada y salida) del proyecto con la primera intersección con otra vía principal, incluyendo la superficie ocupada por tales intersecciones. El área de influencia deberá presentarse en un esquema gráfico, tal como el ejemplo señalado en el Anexo II.
 
-demanda real de estacionamientos asociada al
+En el plano o esquema gráfico del área de influencia se deberán especificar los siguientes elementos:
 
-proyecto).
+i) Los accesos del proyecto, tanto vehiculares como peatonales y de ciclistas, incluyendo la parte de la calzada o de la acera requerida al efecto, precisando si a través de éstos puede efectuarse la entrada al proyecto, la salida del mismo o ambas.
 
-¡ Indicar, si corresponde, la existencia de cruces
+ii) Las afectaciones a utilidad pública contempladas en el instrumento de planificación territorial para ensanche o apertura de vías, en aquella parte que graven al predio en que se emplazará el proyecto.
 
-ferroviarios a nivel asociados a la operación
+iii) Los tramos de vías, en su ancho entre líneas oficiales, que enfrenten el predio, y los que conecten los accesos del proyecto con la primera intersección con otra vía principal, incluyendo la superficie ocupada por tales intersecciones. Excepcionalmente, cuando en la situación actual no exista intersección a menos de 500 metros respecto del acceso del proyecto, el área de influencia quedará reducida a esa distancia.
 
-del proyecto (dentro de su área de influencia) y
+c) Informe
 
-antecedentes de su estado de regularización y
+El informe deberá incluir al menos los siguientes aspectos:
 
-habilitación.
+i) La descripción de las rutas de ingreso y egreso del proyecto (rutas vehiculares, peatonales y de ciclistas).
 
-¡ Incorporar, si corresponde, lista de chequeo de
+ii) El análisis de los movimientos y posibles conflictos entre modos (vehículo y peatón, vehículo y ciclista, peatón y ciclista, entre otros) que se den en el área de influencia.
 
-la Conaset.
+iii) Las medidas de mitigación que se deben ejecutar para minimizar los conflictos en el área de influencia, siendo éstos del tipo: instalación o reposición de señalización, reforzamiento de la demarcación vial, instalación de vallas peatonales, demarcación de pasos peatonales, demarcación y señalización de ciclovías, si corresponde. Se debe adjuntar un plano con la situación proyectada.
 
-¡ Información de acuerdo a características
+La certificación de la correcta ejecución de dichas obras corresponderá a las Direcciones de Tránsito y Transporte Público Municipal o, en su defecto, al Departamento Municipal encargado.".
 
-regionales (cruces ferroviarios, entre otros).
+3.3 De la consulta de pertinencia de realizar un Informe Vial Básico.
 
-- Área de influencia del proyecto:
+El titular de un proyecto de construcción podrá consultar al Secretario Regional Ministerial de Transportes y Telecomunicaciones respectivo, si su proyecto debe elaborar un Informe Vial Básico.
 
-¡ Todas las vías que enfrentan el (los) acceso(s)
+La Secretaría Regional tendrá un plazo máximo de diez días hábiles, contados desde el ingreso del requerimiento respectivo, para emitir dicho pronunciamiento, el cual deberá acompañarse conjuntamente con los antecedentes exigidos para la obtención del permiso de edificación contenidos en la Ordenanza General de Urbanismo y Construcciones.
 
-al proyecto, con un máximo de 4 intersecciones
+Además, si así lo solicitare el titular, las mitigaciones establecidas en el Informe Vial Básico podrán garantizarse, previa autorización de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones, conforme lo dispone el artículo 173 de la ley Nº 20.958, a efectos de obtener la recepción definitiva por parte de la respectiva Dirección de Obras Municipales.
 
-en el entorno del proyecto.
+3.4 De la revisión de un Informe Vial Básico.
 
-- Mediciones (cuando la Seremitt lo estime necesario
+Una vez realizado el ingreso de un Informe Vial Básico, el Secretario Regional Ministerial de Transportes y Telecomunicaciones respectivo tendrá un plazo máximo de cuarenta y cinco días corridos para aprobar, observar o rechazar el informe mediante oficio fundado, previa consulta a las Direcciones de Obras Municipales, de Tránsito y Transporte Público del municipio correspondiente y a los demás órganos públicos que, conforme a la naturaleza del proyecto, sean competentes en las materias específicas a evaluar en cada proyecto.
 
-para el proyecto):
+El Secretario Regional deberá, a su vez, informar a los órganos consultados, que dispondrán de un plazo máximo de veinte días corridos, contados desde la recepción del oficio, para remitir las observaciones o pronunciamiento que corresponda. Vencido dicho plazo, el Secretario Regional, con o sin los informes requeridos a los órganos consultados, podrá pronunciarse directamente sobre el Informe Vial Básico.
 
-¡ Flujos vehiculares y peatonales medidos en el
+En el caso que el Secretario Regional formule observaciones al Informe Vial Básico, el titular del proyecto tendrá un plazo máximo de treinta días corridos para presentar el informe corregido en la misma Secretaría Regional, contados desde la notificación de la comunicación respectiva, la que podrá realizarse mediante correo electrónico si el solicitante así lo ha manifestado en su solicitud.
 
-área de influencia del proyecto.
+Vencido este plazo sin que se hubiere ingresado el informe corregido, el Secretario Regional emitirá una resolución del rechazando el informe por no haberse subsanado las observaciones dentro de plazo. En contra de la resolución que rechaza el informe, el titular del proyecto podrá interponer los recursos que establece la ley Nº 19.880, que establece las Bases de los Procedimientos Administrativos, que resulten procedentes.
 
-¡ Cálculo de los parámetros de distancias mínimas
+El titular podrá siempre ingresar un nuevo Informe Vial Básico, para comenzar un nuevo proceso de revisión, si el anterior fuere rechazado.
 
-dq y d2, según el Manual de Vialidad Urbana-
-
-Recomendaciones para el Diseño de Elementos de
-
-Infraestructura Vial Urbana Redevu, vigente.
-
-- Esquemas:
-
-¡ Diseño geométrico del o de los accesos (escala
-
-1:500), de acuerdo a normativa Serviu o MOP,
-
-según corresponda;
-
-¡ Plan de Señalización y Demarcación ajustado a
-
-las especificaciones técnicas definidas en el
-
-Manual de Señalización de Tránsito vigente, en
-
-una escala 1:500. Se deben mostrar claramente
-
-las distancias mínimas dq y d2.
-
-- Certificado de informaciones previas vigente
-
-emitido por la Dirección de Obras Municipales;
-
-- Definición de la oferta vial, características de la
-
-vialidad del área de influencia, cruces
-
-ferroviarios, entre otros;
-
-- Rutas de ingreso y egreso propuestas para los
-
-usuarios del proyecto (flujos vehiculares y
-
-peatonales), indicando porcentajes de distribución
-
-de cada una de ellas;
-
-- Movimientos vehiculares generados en cada una de
-
-las intersecciones que forman parte del área de
-
-influencia del proyecto, y accesos;
-
-- Propuesta de medidas de gestión, tales como:
-
-accesibilidad y dispositivos para peatones, pistas
-
-de acceso a vehículos, disposición de sitios para
-
-el transporte público, señalización y demarcación
-
-adecuada para minimizar los riesgos de accidentes,
-
-facilidades para ciclistas, facilidades para
-
-usuarios vulnerables, y mejoramiento de pavimentos
-
-u otras que permitan mitigar adecuadamente los
-
-impactos en la Red Vial Básica generados por el
-
-proyecto.
-
-La certificación de la correcta ejecución de dichas obras, corresponderá a las Direcciones de Tránsito y Transporte Público Municipal o en su defecto al Departamento Municipal, encargado de las materias de tránsito.
-
-Para la revisión del Informe Vial Básico, el Secretario(a) Regional competente podrá invitar a participar a los organismos relacionados que estime, según sea el caso.
+Sin perjuicio de que los plazos definidos son de días corridos, cuando el último día de un plazo sea inhábil se entenderá prorrogado al primer día hábil siguiente.
 
 Anótese y publíquese.- Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
 
