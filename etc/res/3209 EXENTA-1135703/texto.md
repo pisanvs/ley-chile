@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.209, de fecha 10 de julio de 2019, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8210-22, correspondiente al inmueble ubicado en PJ Amasijo 01675 Dp 32, Rol de Avalúo Nº 8210-22, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Montenegro Castro Marcela del Ro, con una superficie aproximada de 47,23 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación de Terrenos, Población Marta Brunet, Etapa A". La Comisión de Peritos integrada por los señores Angélica Seura Rojas, arquitecto; Andrés Echeverría Campo, ingeniero agrónomo y Carmen Alarcón Montecinos, Ingeniero Constructor, mediante Informe de fecha 17 de junio de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $20.953.619, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
