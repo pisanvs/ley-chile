@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 689, de 26 de julio de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 113, para la obra "Mejoramiento Ruta K-705, sector Cr. Ruta K-715 - Vilches Alto", tramo kilómetro 11,70000 a Km. 27,23000, que figura a nombre de SOTO LORCA MYRIAM FERNANDA, rol de avalúo 166-2, Comuna de San Clemente, Región del Maule, superficie 182 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURÁN MARCOS, RODRIGO ANTONIO SILVA LAZO y PAULA SOLEDAD GONZÁLEZ ORTEGA, mediante informe de tasación de 15 de octubre de 2014, fijó el monto de la indemnización provisional en la cantidad de $3.730.998.- para el lote N° 113. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
