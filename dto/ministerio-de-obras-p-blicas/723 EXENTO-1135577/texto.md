@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 723 de 9 de agosto de 2019, se tuvo por desistida la expropiación del lote de terreno N° 15, ordenada por Decreto MOP Nº 2082 de 31 de octubre de 2002, para la obra "Proyecto Sistema Américo Vespucio Norte. Ruta 78. Av. El Salto. Sector 1: Avenida El Salto - Avenida Pedro Fontova", Región Metropolitana de Santiago. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7° y 32° del Decreto Ley Nº 2186, de 1978.
