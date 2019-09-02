@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 207 de fecha 6 de mayo de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Sindicato de Trabajadores Independientes Pescadores Artesanales de Caleta Quintay, RUT 72.237.200-K, concesión marítima menor con vencimiento el 30 de junio 2024, sobre un sector de playa de mar en el lugar denominado Caleta Quintay, comuna de Casablanca, provincia y Región de Valparaíso, con una superficie total de 915,746 m2, la que fue tramitada con el SIABC N° 36.729. A modo referencial se señala la siguiente coordenada geográfica: 33°11'37,15", 71°41'59,24". El objeto consiste en amparar la operación de un varadero sin construcción, en un sector de playa de mar para el varado de embarcaciones menores. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Valparaíso. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Daniel González Salinas, Capitán de Fragata LT, Capitán de Puerto de Valparaíso.
