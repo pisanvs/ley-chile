@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.718, de fecha 23/08/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Luis Durand entre Av. Andes El Carmen, Temuco", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 08-0, individualizado como Lote Número 4 de una superficie de 8.000 metros cuadrados, resultante de la subdivisión del resto del predio El Mirador, situado en el lugar Lircay, camino Temuco a Tromén, comuna de Temuco. Comuna de Temuco, Rol de Avalúo 4101-19. La superficie a expropiar aproximada es de 541,75 metros cuadrados, de aparente dominio de Marco Antonio de Améstica Oliveros. Comisión de Peritos integrada por señores Constanza Victoria Hilda Miohevic González, Ingeniero Constructor, Alberto Arenas Pizarro, Arquitecto y Marcela Alejandra Melo Rodríguez, Arquitecto, fijó monto de Indemnización Provisional en $83.487.277.- según Informe Nº 08-0, de fecha 02/08/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
