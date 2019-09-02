@@ -44,7 +44,7 @@ Decreto:
 
 #### Artículo 1
 
-Determínase que el aporte estatal a que se refiere el artículo 49 de la ley N° 19.378, que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2° letra c) y en el artículo 3°, por el período comprendido entre los meses de enero a diciembre del año 2018, ambos meses inclusive, asciende hasta la suma de $1.024.363.628.904 (Un billón veinticuatro mil trescientos sesenta y tres millones seiscientos veintiocho mil novecientos cuatro pesos).
+Determínase que el aporte estatal a que se refiere el artículo 49 de la ley N° 19.378, que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2° letra c) y en el artículo 3°, por el período comprendido entre los meses de enero a diciembre del año 2018, ambos meses inclusive, asciende hasta la suma de $1.027.384.896.673 (Un billón veintisiete mil trescientos ochenta y cuatro millones ochocientos noventa y seis mil seiscientos setenta y tres pesos).
 
 #### Artículo 2
 
@@ -56,7 +56,7 @@ Los directores de Servicio de Salud deberán notificar a la entidad administrado
 
 El monto del aporte estatal se determina aplicando a un aporte general y básico, los criterios de incremento o rebaja según corresponda, señalados en el artículo 49 de la ley N° 19.378 en la proporción y forma que a continuación se indican:
 
-a) Aporte básico unitario homogéneo. Corresponde al per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna, que corresponde a $5.940 (cinco mil novecientos cuarenta pesos).
+a) Aporte básico unitario homogéneo. Corresponde al per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna, que corresponde a $6.106 (Seis mil ciento seis pesos).
 
 b) Incremento del per cápita basal. El per cápita basal se incrementará en base a los siguientes criterios:
 
