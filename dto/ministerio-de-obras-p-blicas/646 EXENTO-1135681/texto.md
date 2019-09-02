@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 646, de 26 de julio de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e) y 105 del DFL MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 59-A, para la obra "Camino Reposición Ruta 215-CH, Sector Bif. Aeropuerto Carlos Hott - Cruce Las Lumas, Tramo Km. 3,99292 al Km. 21,80000", que figura a nombre de IDEVAC SPA, rol de avalúo 5200-1, Comuna de Osorno, Región de Los Lagos, superficie 32 m2. La Comisión de Peritos integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, JUAN SAMUEL BARRIENTOS BAHAMONDE y JUAN CELESTINO GIOVANNINI MANSILLA, mediante informe de tasación de 10 de febrero de 2015, fijó el monto de la indemnización provisional en la cantidad de $296.000.- para el lote N° 59-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
