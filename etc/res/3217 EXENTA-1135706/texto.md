@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.217, de fecha 10 de julio de 2019, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 8210-13, correspondiente al inmueble ubicado en PJ Amasijo 01675 Dp 11, Rol de Avalúo Nº 8210-13, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Lobos Sandoval Dayana Solange, con una superficie aproximada de 47,23 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación de Terrenos, Población Marta Brunet, Etapa A". La Comisión de Peritos integrada por los señores Fernando Merino de la Cerda, arquitecto; Andrés Echeverría Campo, ingeniero agrónomo y Carmen Alarcón Montecinos, ingeniero constructor, mediante informe de fecha 17 de junio de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.372.019, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
