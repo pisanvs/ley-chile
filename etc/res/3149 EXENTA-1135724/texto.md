@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.149, de fecha 8 de julio del 2019, se ordenó la expropiación total, conforme a las normas del decreto ley N° 2.186, de 1978, del denominado Lote N° 8210-01, correspondiente al inmueble ubicado en Aguas Abajo 3855 D11, Rol de Avalúo N° 8210-01, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Copeva Ltda., con una superficie aproximada de 46,28 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Habilitación de Terrenos, Población Marta Brunet, Etapa A". La Comisión de Peritos integrada por los señores Hugo Radebach Escares, Arquitecto; Luisa Aracena Hernández, Constructor Civil y Marcelo Valenzuela Pérez, Ingeniero Agrónomo, mediante Informe de fecha 17 de junio de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.006.622, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186, de 1978.-
+
+Director Serviu Metropolitano.
