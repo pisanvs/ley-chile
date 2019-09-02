@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 710, de 02 de agosto de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 78-B, para la obra: MEJORAMIENTO RUTA 7 SECTOR: HORNOPIRÉN-PICHANCO, que figura a nombre de JACOB RABI FELIPE NICOLAS, rol de avalúo 2210-219, Comuna de HUALAIHUE, REGIÓN DE LOS LAGOS, superficie 1.102 m2. La Comisión de Peritos integrada por CARLOS EUGENIO MERA SANTIBÁÑEZ, ENRIQUE EDGARDO HOELCK ALTMANN y JUAN CELESTINO GIOVANNINI MANSILLA, mediante informe de tasación de 04 de julio de 2016, fijó el monto de la indemnización provisional en la cantidad de $873.886, para el lote N° 78-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
