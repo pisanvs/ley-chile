@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 719 de 9 de agosto de 2019, se tuvo por desistida la expropiación del lote de terreno N° 97, ordenada por Decreto Exento MOP Nº 1248 de 29 de junio de 2012, para la obra "Ruta 66 - Camino de La Fruta. Sector 4: Crucero Las Arañas - Las Brisas de Santo Domingo. Subtramo B - Calzada Simple", Región Metropolitana de Santiago. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7° y 32° del Decreto Ley Nº 2186, de 1978.
