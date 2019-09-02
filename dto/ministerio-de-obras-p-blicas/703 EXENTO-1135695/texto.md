@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 703, de 26 de julio de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N° 206, de 1960, se expropiaron los lotes de terreno N°s. 241 y 242, para la obra: "Mejoramiento Ruta K-705, sector Cr. Ruta K-715 - Vilches Alto" tramo kilómetro 11,70000 a Km. 27,23000, que figuran a nombre de PICON GALVES GUILLERMO Y OTRA, rol de avalúo 167-127, Comuna de San Clemente, Región del Maule, superficies 69 m2. y 140 m2. respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURÁN MARCOS, RODRIGO ANTONIO SILVA LAZO y PAULA SOLEDAD GONZÁLEZ ORTEGA, mediante informe de tasación de 12 de marzo de 2015, fijaron el monto de la indemnización provisional en la cantidad de $973.576.-, para el lote N° 241 y $1.843.560.-, para el lote N° 242. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
