@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 4.159, de fecha de 3 de junio de 2019, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Pedro Aguirre Cerda", RUT Nº 15.541.437-5, cuya propietaria es la señora Lilian Malvina Quijada Ossa y su director es el señor José Luis Flores González, RUT Nº 15.464.411-3, ubicada en Avenida Carlos Valdovinos Nº 2553, comuna de Pedro Aguirre Cerda. Horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y doce horas prácticas, con un total de veinte horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
