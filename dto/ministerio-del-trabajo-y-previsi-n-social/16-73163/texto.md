@@ -1,12 +1,12 @@
-APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DE SECRETARIA Y ADMINISTRACION GENERAL DEL MINISTERIO DE JUSTICIA
+APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DE SECRETARIA Y ADMINISTRACION GENERAL DEL MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS
 
 Núm. 16.- Santiago, febrero 27 de 1997.- Visto: Lo dispuesto en la leyes Nº 11.764, artículo 134; 16.395, artículo 24; 17.538 artículo único; en el Decreto Supremo Nº 28, de 27 de enero de 1994, del Ministerio del Trabajo y Previsión Social y en el artículo 32 Nº 8 de la Constitución Política de la República de Chile,
 
 D e c r e t o
 
-1.- Derógase el D.S. Nº 12 del 19 de enero de 1981 del Ministerio del Trabajo y Previsión Social, que aprobó el reglamento del Servicio de Bienestar del Ministerio de Justicia.
+1.- Derógase el D.S. Nº 12 del 19 de enero de 1981 del Ministerio del Trabajo y Previsión Social, que aprobó el reglamento del Servicio de Bienestar del Ministerio de Justicia y Derechos Humanos.
 
-2.- Apruébase el siguiente Reglamento del Servicio de Bienestar de la Secretaría y Administración General del Ministerio de Justicia.
+2.- Apruébase el siguiente Reglamento del Servicio de Bienestar de la Secretaría y Administración General del Ministerio de Justicia y Derechos Humanos.
 
 T I T U L O I
 
@@ -14,7 +14,9 @@ De la Naturaleza Jurídica
 
 #### Artículo 1º
 
-El Servicio de Bienestar de la Secretaría y Administración General del Ministerio de Justicia, en adelante el Servicio de Bienestar, se regirá además de las normas contenidas en este Decreto Supremo, por las disposiciones prescritas en los Vistos de este Reglamento y especialmente por las establecidas en el D.S. Nº 28, de 1994, del Ministerio del Trabajo y Previsión Social, en adelante el Reglamento General.
+El Servicio de Bienestar del Ministerio de Justicia y Derechos Humanos, en adelante el Servicio de Bienestar, se regirá además de las normas contenidas en este Decreto Supremo, por las disposiciones prescritas en los Vistos de este Reglamento y especialmente por las establecidas en el D.S. Nº 28, de 1994, del Ministerio del Trabajo y Previsión Social, en adelante el Reglamento General.
+
+Podrán afiliarse al Servicio de Bienestar, las personas que tengan la calidad de funcionarios de planta o contrata, de la Subsecretaría de Justicia o de la Subsecretaría de Derechos Humanos, previo procedimiento de afiliación de conformidad al Reglamento General y demás normas que fueren aplicables
 
 T I T U L O II
 
@@ -28,7 +30,7 @@ El Servicio de Bienestar otorgará a sus afiliados y cargas familiares, en la me
 
 El Servicio de Bienestar otorgará también a sus afiliados y sus cargas familiares, ayudas de carácter social las que se indican a continuación, de acuerdo a las siguientes modalidades y causales:
 
-a) Matrimonio: Se otorgará esta ayuda por una sola vez. Si ambos contrayentes fueran afiliados se otorgará el beneficio a cada uno de ellos.
+a) Matrimonio o Acuerdo de Unión Civil: Se otorgará esta ayuda por una sola vez. Si ambos contrayentes fueran afiliados se otorgará el beneficio a cada uno de ellos.
 
 b) Nacimiento: Si ambos padres estuvieran afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
 
@@ -40,7 +42,7 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente o
 
 1º A la persona designada expresamente para tales efectos por el afiliado;
 
-2º Al cónyuge sobreviviente;
+2º Al cónyuge o conviviente civil sobreviviente;
 
 3º A los hijos, cualquiera sea su naturaleza;
 
@@ -94,11 +96,15 @@ Del Consejo Administrativo
 
 El Servicio de Bienestar será administrado por un Consejo Administrativo integrado por:
 
-a) El Subsecretario de Justicia, o la persona que éste designe, quien lo presidirá;
+a) El/la Subsecretario/a de Justicia, o la persona que éste designe, quien lo presidirá;
 
-b) El Jefe de la División Defensa Social;
+b) El/la Subsecretario/a de Derechos Humanos, o la persona que éste/a designe".
 
-c) El Jefe del Departamento Administrativo, y d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios cuando proceda, en conformidad a lo establecido en el inciso 3º del artículo 18 del Reglamento General.
+c) El Jefe de la División Defensa Social;
+
+d) El Jefe del Departamento Administrativo de la Subsecretaría de Justicia, y
+
+e) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios cuando proceda, en conformidad a lo establecido en el inciso 3º del artículo 18 del Reglamento General.
 
 #### Artículo 7º
 
@@ -110,7 +116,7 @@ Los representantes titulares y suplentes de los afiliados en el Consejo Administ
 
 #### Artículo 8º
 
-Para ser elegido representante de los afiliados se requiere, además de los requisitos indicados en el artículo 20 del Reglamento General, ser afiliado al Servicio de Bienestar con una antigüedad no inferior a dos años y no ser integrante del escalafón directivo de la planta del Ministerio de Justicia.
+Para ser elegido representante de los afiliados se requiere, además de los requisitos indicados en el artículo 20 del Reglamento General, ser afiliado al Servicio de Bienestar con una antigüedad no inferior a dos años y no ser integrante del escalafón directivo de la planta del Ministerio de Justicia y Derechos Humanos.
 
 #### Artículo 9º
 
@@ -134,61 +140,31 @@ Del Jefe del Servicio de Bienestar
 
 Sin perjuicio de lo establecido en el artículo 31 del Reglamento General, el Jefe del Servicio de Bienestar, deberá además, determinar la documentación que tendrán que presentar los afiliados para la obtención de cualquier beneficio del Servicio de Bienestar, a fin de estudiar el mérito de los antecedentes e informar acerca de su procedencia al Consejo Administrativo.
 
-T I T U L O IV Del Financiamiento, Presupuesto y Control de Cuentas Art. 12º.- El Servicio de Bienestar obtendrá su financiamiento a través de los siguientes recursos: a) Con una cuota de incorporación que deberán pagar
+T I T U L O IV
 
-los afiliados por una sola vez, de hasta el 5% de su
+Del Financiamiento, Presupuesto y Control de Cuentas
 
-remuneración mensual imponible para pensiones o de su
+#### Artículo 12º
 
-pensión de jubilación, porcentaje que fijará anualmente
+El Servicio de Bienestar obtendrá su financiamiento a través de los siguientes recursos:
 
-el Consejo Administrativo;
+a) Con una cuota de incorporación que deberán pagar los afiliados por una sola vez, de hasta el 5% de su remuneración mensual imponible para pensiones o de su pensión de jubilación, porcentaje que fijará anualmente el Consejo Administrativo;
 
-b) Con los aportes que anualmente se consulten en
+b) Con los aportes que anualmente se consulten en el presupuesto tanto de la Subsecretaría de Justicia como de la Subsecretaría de Derechos Humanos, y que éstas aportarán conforme a las reglas legales, reglamentarias y estatutarias vigentes;
 
-el presupuesto de la Subsecretaría de Justicia y que
+c) Con el aporte mensual de sus afiliados en servicio activo de hasta el 5% de sus remuneraciones imponibles para pensiones, porcentaje que fijará anualmente el Consejo Administrativo;
 
-ésta aportará conforme a las normas legales,
+d) Con el aporte mensual de sus afiliados jubilados de hasta el 5% de sus pensiones que fijará anualmente el Consejo Administrativo, más la cantidad correspondiente al aporte institucional que será de su cargo;
 
-reglamentarias y estatutarias vigentes;
+e) Con los intereses de los préstamos que otorgue el Servicio de Bienestar a sus afiliados;
 
-c) Con el aporte mensual de sus afiliados en
+f) Con las comisiones que perciba en virtud de convenios que celebre con terceros para el otorgamiento de beneficios a los afiliados;
 
-servicio activo de hasta el 5% de sus remuneraciones
+g) Con los aportes o cuotas extraordinarias de los afiliados activos, acordados por la mayoría del Consejo Administrativo.
 
-imponibles para pensiones, porcentaje que fijará
+h) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias; e
 
-anualmente el Consejo Administrativo;
-
-d) Con el aporte mensual de sus afiliados jubilados
-
-de hasta el 5% de sus pensiones que fijará anualmente el
-
-Consejo Administrativo, más la cantidad correspondiente
-
-al aporte institucional que será de su cargo;
-
-e) Con los intereses de los préstamos que otorgue
-
-el Servicio de Bienestar a sus afiliados;
-
-f) Con las comisiones que perciba en virtud de
-
-convenios que celebre con terceros para el otorgamiento
-
-de beneficios a los afiliados;
-
-g) Con los aportes o cuotas extraordinarias de los
-
-afiliados activos, acordados por la mayoría del Consejo
-
-Administrativo. h) Con las sumas provenientes de herencias,
-
-legados, donaciones y erogaciones voluntarias; e
-
-i) Con los demás bienes o recursos que el Servicio
-
-obtenga a cualquier título.
+i) Con los demás bienes o recursos que el Servicio obtenga a cualquier título.
 
 #### Artículo 13º
 
