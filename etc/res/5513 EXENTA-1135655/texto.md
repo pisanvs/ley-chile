@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 5.513, de fecha 1 de agosto de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica la resolución exenta Nº 5.057, de 24 de octubre de 2012, que aprueba programa de enseñanza para obtención de licencia de conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Godoy y Ureta Limitada" representada legalmente por Pedro Alberto Godoy Ureta, ubicada en Av. Concha y Toro Nº 625, Local 19, comuna de Puente Alto, en el sentido de autorizar una sede adicional, ubicada en Camino Melipilla Nº 16850, Local 5, de la comuna de Maipú, cuyo director es Víctor Antonio Monsalve Orellana.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago.
