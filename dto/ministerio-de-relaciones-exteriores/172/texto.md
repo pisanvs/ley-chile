@@ -1984,7 +1984,9 @@ A su ingreso al país los turistas serán premunidos de una "Tarjeta de Turismo"
 
 3.- No obstante, el turista que sea nacional de un país con el cual Chile no mantenga relaciones diplomáticas, así como los nacionales de otros países que en casos especiales el Ministerio determine, deberán estar premunidos de pasaporte, debidamente registrado en la Oficina Consular Chilena, con las respectivas visaciones de los Estados en tránsito obligado para su retorno o de ingreso a otro. Deberán, asimismo, portar pasajes de regreso a su país o a otro con respecto al cual tenga autorización de entrada.
 
-En estos casos, y a menos que el Ministerio imparta otras instrucciones, el funcionario consular estampará un "Visto en el Consulado", previa autorización del Ministerio. Esta actuación es gratuita y se anotará en el Libro General de Actuaciones, dándosele la numeración general correlativa, la cual se consignará en el Visto colocado en el pasaporte.
+En estos casos, y a menos que el Ministerio imparta otras instrucciones, el funcionario consular estampará un "Visto en el Consulado" u otorgará Visto de Turismo Electrónico, previa autorización del Ministerio. Esta actuación es gratuita y se anotará en el Libro General de Actuaciones, dándosele la numeración general correlativa, la cual se consignará en el Visto colocado en el pasaporte.
+
+La certificación electrónica señalada en el inciso precedente, deberá contener los mismos datos que figuran en el estampado del "Visto en el Consulado", debiendo contar con elementos que otorguen plena seguridad, especialmente aquellos que permitan la validación de documentos electrónicos. El Cónsul respectivo podrá otorgar certificación electrónica en los casos en que el volumen de las solicitudes u otras consideraciones análogas así lo aconsejen o en que el Ministerio de Relaciones Exteriores así lo instruya.
 
 Sin la exigencia de fotografía, impresión digital ni de certificados médicos, policial y de antecedentes, aunque sí la firma del recurrente, se confeccionarán en triplicado cédulas consulares.
 
