@@ -20,7 +20,7 @@ Resuelvo:
 
 2º.- Los certificados de las revisiones técnicas que se realizan para automóviles particulares, camionetas, station wagons y otros similares, de acuerdo al calendario del artículo 7 del decreto supremo Nº 156 de 1990, según el último dígito de la patente única del vehículo, en adelante "Certificados Clase B", serán rectangulares de 9 cm de ancho por 5 cm de alto.
 
-En el anverso del documento, en un primer recuadro, se indicará el título "Certificado de Revisión Técnica", la fecha de revisión y su numeración correlativa; en un segundo recuadro, bajo la fecha de revisión, deberá identificarse la concesión, dirección, código y teléfono de la planta revisora; bajo el segundo recuadro se incluirán 2 espacios, el primero, donde se indicará la placa patente única del vehículo y a su derecha, en el segundo, el resultado de la revisión y timbre de la planta revisora. En otro recuadro, ubicado bajo el número correlativo, deberá imprimirse el código QR en 2,5 cm x 2,5 cm y en los recuadros inferiores la firma digital y la vigencia de certificado, según se señala en la siguiente figura:
+En el anverso del documento, en un primer recuadro, se indicará el título "Certificado de Revisión Técnica", la fecha de revisión y su numeración correlativa; en un segundo recuadro, bajo la fecha de revisión, deberá identificarse la concesión, dirección, código y teléfono de la planta revisora; bajo el segundo recuadro se incluirán 2 espacios, el primero, donde se indicará la placa patente única del vehículo y a su derecha, en el segundo, el resultado de la revisión y timbre de la planta revisora. En otro recuadro, ubicado bajo el número correlativo, deberá imprimirse el código QR en 2,5 cm x 2,5 cm y en los recuadros inferiores la firma electrónica avanzada y la vigencia de certificado, según se señala en la siguiente figura:
 
 .
 
@@ -53,5 +53,7 @@ En el recuadro superior del distintivo se indicará el título "Revisión Técni
 La fuente tipográfica para el texto será Arial mayúscula tamaño 10, con excepción del título "Revisión Técnica", y la consignación de la placa patente y la vigencia de la revisión que deberá ir en negrilla, tamaño 16, mientras que el tipo de servicio deberá consignarse en negrilla, tamaño 14.
 
 7º.- La marca gráfica PRT deberá insertarse en color como fondo en los Certificados de Revisión Técnica, de Verificación de Emisiones y distintivos cuando corresponda, y deberá sujetarse a las indicaciones dispuestas en el Manual de Imagen Corporativa.
+
+> **Nota.** La letra b del artículo único de la Resolución 2283 Exenta, Transportes, publicada el 03.09.2019, modifican la presente norma en el sentido de reemplazar en la figura correspondiente al anverso del documento cuyas imágenes se muestran en el resuelvo 2º, y en las de los documentos cuyas imágenes aparecen en los resuelvos 4º y 5º, la expresión "Firmado Digitalmente por" por "Firma Electrónica Avanzada".
 
 Anótese y publíquese.- Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones. Lo que transcribo para su conocimiento.- Saluda a Ud., Mónica Wityk Peluchonneau, Jefe División Administración y Finanzas.
