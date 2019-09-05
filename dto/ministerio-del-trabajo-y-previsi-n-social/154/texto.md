@@ -30,11 +30,13 @@ La Administración del Servicio de Bienestar corresponderá a un Consejo Adminis
 
 a) El Rector o la persona que éste designe, quien lo presidirá;
 
-b) El Director de Administración;
+b) El Director de Recursos Humanos;
 
-c) El Director de Finanzas, y
+c) El Director de Finanzas y Administración o bien por el Director de Administración y Presupuesto, según designación del Rector;
 
 d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso tercero del artículo 18° del Reglamento General.
+
+Los miembros del Consejo Administrativo indicados en las letras b) y c), serán reemplazados en caso de ausencia o impedimento, por los funcionarios a quienes corresponda subrogarlos en sus respectivos cargos. En el mismo evento, los representantes de los afiliados serán reemplazados por los suplentes.
 
 #### Artículo 4°
 
@@ -50,19 +52,21 @@ Para ser elegido representante de los afiliados se requiere, además de los requ
 
 El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias. En las sesiones extraordinarias sólo podrán tratarse las materias determinadas en la convocatoria o en el acuerdo que las origine.
 
-Las sesiones ordinarias se celebrarán mensualmente en el día y hora que fije el Consejo Administrativo. Las extraordinarias, cada vez que las convoque el Presidente, de oficio o a petición escrita de la mayoría de los miembros en ejercicio del Consejo Administrativo o por acuerdo de éste.
+Las sesiones ordinarias se celebrarán a lo menos cada tres meses en el día y hora que fije el Consejo Administrativo. Las extraordinarias, cada vez que las convoque el Presidente, de oficio o a petición escrita de la mayoría de los miembros en ejercicio del Consejo Administrativo o por acuerdo de éste.
 
 #### Artículo 7°
 
 Las citaciones a las sesiones ordinarias y extraordinarias del Consejo Administrativo las efectuará el Secretario del mismo, por escrito, con una anterioridad a lo menos de tres días a la fecha de celebración de dichas sesiones e incluirá la tabla a desarrollar.
 
+La comparecencia a sesión de los miembros del Consejo Administrativo será considerada como comisión de servicios para todos los efectos. Si fuere necesario el desplazamiento físico del funcionario para comparecer, deberá dictarse la correspondiente resolución y efectuar el pago de viáticos, si procediere y siendo de cargo del respectivo Centro de Costo al que pertenece.
+
 #### Artículo 8°
 
 El Consejo Administrativo, además de las funciones señaladas en el artículo 29°, del Reglamento General, tendrá las siguientes:
 
-a) informar a la Superioridad de la Institución los requerimientos de infraestructura y bienes que, en general, sean necesarios para el uso y funcionamiento del Servicio de Bienestar, y
+a) informar a la autoridad superior de la Institución los requerimientos de infraestructura y bienes que, en general, sean necesarios para el uso y funcionamiento del Servicio de Bienestar, y
 
-b) fijar anualmente la tasa de interés que devengarán los préstamos que otorgue el Servicio de Bienestar, ajustándose a la Ley N° 18.010.
+b) Fijar anualmente la tasa de interés que devengarán los préstamos que otorgue el Servicio de Bienestar, ajustándose a las normas vigentes en materia de operaciones de crédito de dinero y a las disposiciones que la Superintendencia de Seguridad Social disponga sobre la materia.
 
 ## Título III
 
@@ -74,11 +78,11 @@ El Servicio de Bienestar obtendrá su financiamiento a través de los siguientes
 
 a) Las sumas que anualmente se consulten en el presupuesto de la Universidad del Bío-Bío para el Servicio de Bienestar y que ésta aportará conforme a las normas legales, reglamentarias y estatutarias vigentes;
 
-b) Con la cuota de incorporación de hasta el 4% de la remuneración mensual imponible para pensiones de los afiliados, que fijará anualmente el Consejo Administrativo para quienes soliciten su afiliación al Servicio de Bienestar. No estará afecto a esta cuota de incorporación el personal jubilado que se afilie por primera vez.
+b) Con la cuota de incorporación de hasta el 4% de la remuneración mensual imponible para pensiones de los afiliados o del monto de su pensión (en caso de ser jubilado), que fijará anualmente el Consejo Administrativo para quienes soliciten su afiliación al Servicio de Bienestar;
 
-c) Con el aporte mensual de sus afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones, que fijará el Consejo Administrativo;
+c) Con el aporte mensual de sus afiliados en servicio activo de hasta el 3% de sus remuneraciones imponibles para pensiones, que fijará el Consejo Administrativo;
 
-d) Con el aporte mensual de sus afiliados jubilados de hasta el 2% de sus pensiones que fijará el Consejo Administrativo, más la cantidad correspondiente al aporte institucional, la cual será de cargo del afiliado jubilado;
+d) Con el aporte mensual de sus afiliados jubilados de hasta el 3% de sus pensiones que fijará el Consejo Administrativo, más la cantidad correspondiente al aporte institucional, la cual será de cargo del afiliado jubilado;
 
 e) Con los intereses de los préstamos que otorga el Servicio de Bienestar a sus afiliados;
 
@@ -92,9 +96,9 @@ i) Con los demás bienes o recursos que el Servicio de Bienestar obtenga a cualq
 
 #### Artículo 10°
 
-Los fondos del Servicio de Bienestar serán depositados en cuentas corrientes bancarias o de inversión y deberán girarse bajo las firmas conjuntas del Jefe del Servicio de Bienestar y el funcionario que designe el Rector de la Universidad del Bío-Bío.
+Los fondos del Servicio de Bienestar serán depositados en cuentas corrientes bancarias o de inversión y deberán girarse, en la Sede Concepción, bajo las firmas conjuntas del Jefe del Departamento de Bienestar del Personal y el funcionario que el Rector de la Universidad nombre al efecto y, en la Sede Chillán, bajo las firmas conjuntas del Jefe de Sección de Bienestar del Personal y del funcionario que el Rector designe.
 
-En ausencia o impedimento de los giradores mencionados en el inciso primero, éstos serán reemplazados por los funcionarios que el Rector de la Universidad del Bío-Bío haya designado en calidad de suplentes.
+En ausencia o impedimento de los giradores mencionados en el inciso primero, éstos serán reemplazados por los funcionarios que el Rector de la Universidad haya designado en calidad de suplentes para cada Sede.
 
 En todo caso los depósitos en cuentas de inversión deberán ajustarse a lo prescrito en el artículo 36° de la Ley 18.267.
 
@@ -108,7 +112,7 @@ Atención Médica
 
 #### Artículo 11°
 
-El Servicio de Bienestar podrá otorgar, en la medida que sus recursos lo permitan, ayudas de carácter médico a sus afiliados y sus cargas familiares, por los siguientes conceptos:
+El Servicio de Bienestar podrá otorgar, en la medida que sus recursos lo permitan, ayudas de carácter médico a sus afiliados y sus cargas familiares reconocidas en la institución, por los siguientes conceptos:
 
 a) Consulta médica, consulta médica domiciliaria, interconsulta y junta médica;
 
@@ -158,39 +162,37 @@ a) Asignación de Matrimonio: Se otorgará una ayuda cuando el afiliado contraig
 
 Si ambos contrayentes fueran afiliados, se otorgará este beneficio a cada uno de ellos;
 
-b) Asignación de Nacimiento: Se pagará por nacimiento de cada hijo del afiliado comprobado con los documentos públicos respectivos.
+b) Asignación de Acuerdo de Unión Civil (AUC): Se otorgará una ayuda cuando el afiliado celebre un Acuerdo de Unión Civil (AUC) en conformidad a las normas de la ley Nº 20.830 y así lo acredite con el certificado original correspondiente. Si ambos contrayentes fueran afiliados, se otorgará este beneficio a cada uno de ellos;
+
+c) Asignación de Nacimiento: Se pagará por nacimiento de cada hijo del afiliado comprobado con los documentos públicos respectivos.
 
 Si ambos padres fueran afiliados, esta asignación se pagará a la persona que lo registre como carga familiar en la Universidad;
 
-c) Asignación de Fallecimiento: Se concederá una ayuda por fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
+d) Asignación de Fallecimiento: Se concederá una ayuda por fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
+
+Si ambos padres son afiliados, el subsidio de fallecimiento en caso de mortinato o de fallecimiento del hijo menor de un año, que no hubiere sido aún reconocido como carga familiar, lo percibirá uno de ellos;
 
 En caso de fallecimiento del afiliado esta ayuda se otorgará en el siguiente orden de precedencia:
 
-1° A la persona designada expresamente para tales efectos por el afiliado;
+1. A la persona designada expresamente para tales efectos por el afiliado;
 
-2° Al cónyuge sobreviviente;
+2. Al cónyuge o conviviente civil sobreviviente;
 
-3° A los hijos legítimos;
+3. A los otros herederos del causante;
 
-4° A los hijos naturales;
+4. A la persona que acredite haber efectuado los gastos del funeral.
 
-5° A los padres legítimos;
+e) Ayuda de Escolaridad: Se concederá una asignación de escolaridad siempre que las disponibilidades presupuestarias lo permitan, a los afiliados por sus hijos cargas familiares reconocidas en la institución, que se encuentren cursando estudios regulares en los niveles prebásico (Prekinder y Kinder), básico, medio, diferencial, técnico o de educación superior, en establecimientos del Estado o reconocidos por este.
 
-6° A los padres naturales;
+La misma ayuda establecida en el párrafo precedente podrá ser otorgada al afiliado que se encuentre estudiando en alguno de los establecimientos educacionales del Estado o reconocidos por este.
 
-7° A la persona que acredite haber efectuado los gastos del funeral.
+Este beneficio se asignará una vez al año, y el Consejo Administrativo determinará anualmente el tope y procedimientos operativos que sean recomendables para implementar el beneficio.
 
-d) Ayuda de Escolaridad: Se concederá una asignación de escolaridad siempre que las disponibilidades presupuestarias lo permitan, a los afiliados por sus hijos cargas familiares, que se encuentren cursando estudios regulares en los niveles prebásico, básico, medio, diferencial, técnico o de educación superior, en establecimientos del Estado o reconocidos por éste.
+f) Ayuda Médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificado como tal por el Jefe del Servicio de Bienestar, previo informe socio-económico del Trabajador Social del Servicio de Bienestar, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el artículo 11º;
 
-La misma ayuda establecida en el párrafo precedente podrá ser otorgada al afiliado que se encuentre estudiando en alguno de los establecimientos educacionales del Estado o reconocidos por éste.
+g) Ayuda Social: Se otorgará al afiliado una ayuda de carácter económico, frente a situaciones calificadas de extrema necesidad y urgencia que afecten a este o a su núcleo familiar, situación que debe ser debidamente ponderada por el Jefe del Servicio de Bienestar, previo informe socioeconómico del Trabajador Social del Servicio de Bienestar, y
 
-Este beneficio se asignará sólo una vez al año, y el Consejo Administrativo determinará anualmente los requisitos, las modalidades y procedimientos operativos que sean recomendables para implementar el beneficio;
-
-e) Ayuda Médica: en caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificado como tal por el Jefe del Servicio de Bienestar, previo informe socio-económico de la Asistente Social del Servicio de Bienestar, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el artículo 11°;
-
-f) Ayuda Social: Se otorgará al afiliado una ayuda de carácter económico, frente a situaciones calificadas de extrema necesidad y urgencia que afecten a éste o a su núcleo familiar, situación que debe ser debidamente ponderada por el Jefe del Servicio de Bienestar, previo informe socio-económico de la Asistente Social del Servicio de Bienestar, y
-
-g) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio de Bienestar por concepto de préstamos que éste le hubiese otorgado.
+h) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio de Bienestar por concepto de préstamos que este le hubiese otorgado
 
 El monto de las ayudas contempladas en las letras a), b), c), d),
 
@@ -204,23 +206,27 @@ PARRAFO TERCERO
 
 De los Préstamos
 
-#### Artículo 13°
+#### Artículo 13º
 
 El Servicio de Bienestar podrá proporcionar a sus afiliados, cuando las disponibilidades financieras lo permitan, los préstamos no reajustables que a continuación se señalan:
 
-a) Préstamos de Auxilio: El Servicio de Bienestar podrá conceder a sus afiliados, préstamos de auxilio para atender cualquier tipo de necesidad económica;
+a) Préstamos de Auxilio: El Servicio de Bienestar podrá conceder a sus afiliados, préstamos de auxilio para atender cualquier tipo de necesidad económica.
 
-b) Préstamos Educacionales: El Servicio de Bienestar podrá conceder a sus afiliados por sus cargas familiares que cursen estudios de Enseñanza Básica, Media, Técnica o Superior, préstamos educacionales, los que estarán orientados a solventar gastos de matrícula, útiles y vestuario escolar, y
+b) Préstamos Educacionales: El Servicio de Bienestar podrá conceder a sus afiliados para él o sus cargas familiares reconocidas en la institución que cursen estudios de Enseñanza Básica, Media, Técnica o Superior, préstamos educacionales, los que estarán orientados a solventar gastos de matrícula y aranceles mensuales.
 
-c) Préstamos Médicos: Se otorgarán como complemento de las ayudas de carácter médico a que se refiere el artículo 11° del presente Reglamento.
+c) Préstamos Médicos: El Servicio de Bienestar podrá conceder a sus afiliados para él o sus cargas familiares reconocidas en la institución, como complemento de las ayudas de carácter médico a que se refiere el artículo 11º del presente Reglamento, prestamos médicos; para ello deberá presentar fotocopias de programas médicos, pre-facturas, órdenes y presupuestos de: exámenes médicos, órtesis, prótesis, audífonos, receta por medicamentos, u otros equivalentes que acrediten dichos gastos.
 
-Los montos máximos que se otorgarán por cada tipo de préstamo, los plazos de amortización de los mismos y su tasa de interés, serán determinados anualmente por el Consejo Administrativo, de conformidad a las disposiciones contenidas en la Ley N° 18.010.
+d) Préstamos Dentales: El Servicio de Bienestar podrá conceder a sus afiliados/as para él o sus cargas familiares reconocidas en la institución, como complemento de las ayudas de carácter médico a que se refiere el artículo 11º del presente Reglamento, préstamos Dentales; para ello deberá presentar fotocopias de programas, pre-facturas, órdenes, presupuestos del tratamiento dental, u otros equivalentes que acrediten dichos gastos.
+
+e) Préstamos Habitacionales: El Servicio de Bienestar podrá conceder a sus afiliados/as, préstamos habitacionales para fines de reparación y ampliación de viviendas y otros fines habitacionales (complementar ahorro para subsidio habitacional, entre otros).
+
+Los montos máximos que se otorgarán por cada tipo de préstamo, los plazos de amortización de los mismos y su tasa de interés, serán determinados anualmente por el Consejo Administrativo, de conformidad a las normas vigentes en materia de operaciones de crédito de dinero y a las disposiciones que la Superintendencia de Seguridad Social disponga sobre la materia.
 
 Los préstamos por plazos menores o iguales a 30 días se concederán sin interés.
 
 Para el otorgamiento de todo beneficio reembolsable, será requisito previo la constitución de la garantía de a lo menos un codeudor solidario que esté en servicio activo en la Universidad del Bío-Bío y que sea afiliado al Servicio de Bienestar.
 
-No obstante lo dispuesto en el inciso anterior las solicitudes de préstamo de un monto inferior o igual a 3 U.F. podrán eximirse de la presentación de codeudor solidario.
+No obstante lo dispuesto en el inciso anterior, las solicitudes de préstamo de un monto inferior o igual a 3 UF podrán eximirse de la presentación de codeudor solidario.
 
 ### Párrafo C — UARTO
 
@@ -234,19 +240,21 @@ a) Organización y financiamiento de la celebración de la Fiesta de Navidad en 
 
 El Consejo Administrativo determinará anualmente el monto de recursos que se destinarán para estos efectos;
 
-b) Fomento, organización y financiamiento de programas de acción social que contribuyan, directa o indirectamente, a satisfacer las necesidades culturales, educativas, de capacitación personal, recreativas, deportivas y sociales de los afiliados y sus cargas familiares. El Consejo Administrativo determinará anualmente el monto de los recursos que se destinarán para estos efectos, y
+b) Fomento, organización y financiamiento de programas de acción social que contribuyan al mejoramiento de la calidad de vida, directa o indirectamente, a satisfacer las necesidades culturales, educativas, de capacitación personal, recreativas, deportivas y sociales de los afiliados y sus cargas familiares reconocidas por la institución, como Talleres, Viajes, Ferias, Vacaciones de Invierno y Verano para los hijos cargas familiares de los afiliados, despedida Socios Jubilados, celebraciones Socios Jubilados y el monto de los recursos que se destinarán para estos efectos, y
 
-c) Organización y/o financiamiento de la celebración de las festividades aniversarias de la Institución, del Servicio de Bienestar, Año Nuevo y Fiestas Patrias. El Consejo Administrativo determinará anualmente el monto de los recursos que se destinarán para estos efectos.
+c) Organización y/o financiamiento de la celebración de las festividades Aniversarios de la Institución, del Servicio de Bienestar, Año Nuevo, Fiestas Patrias, Día de la Madre, Día del Padre, Día del Niño, en beneficio de los afiliados del Servicio de Bienestar.
+
+El Consejo Administrativo determinará anualmente el monto de los recursos que se destinarán para cada uno de los efectos previstos en las letras a), b) y c) precedentes.
 
 @
 
 #### Artículo 15°
 
-El Servicio de Bienestar, por medio de sus Asistentes Sociales, podrá:
+El Servicio de Bienestar, por medio de sus Trabajadores Sociales, podrá:
 
 a) Otorgar asistencia personalizada de carácter educativo, social, biosíquica y/o familiar, a los afiliados que teniendo problemas o necesidades en esas áreas, requieran de atención profesional a su respecto.
 
-Los mecanismos a utilizar para lograr los mejores resultados en los aspectos indicados podrán consistir en visitas domiciliarias, informes sociales, entrevistas, seguimientos de casos, fichas individualizadas y, en fin, todas las técnicas profesionales que cada caso aconseje, y
+Los mecanismos a utilizar para lograr los mejores resultados en los aspectos indicados podrán consistir en visitas domiciliarias, informes sociales, entrevistas, seguimientos de casos, fichas individualizadas y, en general, todas las técnicas profesionales que cada caso aconseje, y
 
 b) Desarrollar acciones tendientes a informar a los afiliados sobre la legislación de carácter social vigente en el país, con el objeto de que éstos puedan usar en su beneficio los derechos que de ella emanen.
 
@@ -254,7 +262,7 @@ b) Desarrollar acciones tendientes a informar a los afiliados sobre la legislaci
 
 #### Artículo 15 bis
 
-El Servicio de Bienestar podrá contratar y financiar, con cargo a sus propios recursos y de acuerdo a sus disponibilidades presupuestarias, seguros de vida para sus afiliados y seguros de salud, a fin de solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
+El Servicio de Bienestar podrá contratar y financiar, con cargo a sus propios recursos y de acuerdo a sus disponibilidades presupuestarias, seguros de vida para sus afiliados y seguros de salud, a fin de solventar los gastos de salud de sus afiliados y/o cargas familiares reconocidas en la institución no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
 
 ## Título V
 
