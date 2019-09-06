@@ -66,6 +66,8 @@ t) Dictación de actos administrativos que dispongan órdenes de pago y reembols
 
 u) Dictación de actos administrativos que reconozcan y dispongan el pago de asignación profesional u otros beneficios remuneratorios al personal de la Agencia.
 
+v) Dictación de actos administrativos que autorizan jornadas de trabajo del personal de la Agencia.
+
 La facultad de dictar actos administrativos antes indicados comprende la de modificarlos, complementarlos, regularizarlos y dejarlos sin efecto.
 
 2. En la Jefatura del Departamento de Gestión y Desarrollo de las Personas, o en quien la subrogue, las facultades de:
@@ -105,6 +107,8 @@ a) Emitir y firmar los documentos necesarios para dar respuesta a las solicitude
 b) Emitir y firmar los oficios necesarios para el ingreso, reingreso y retiro de actos administrativos de la Agencia desde la Contraloría General de la República.
 
 4. En las Jefaturas de División, Departamento y Unidad que tengan personal a cargo o quienes las reemplacen, la facultad de aprobar permisos administrativos interferiados que solicite el personal a su cargo.
+
+5. En las Jefaturas de División o quien las reemplace, la facultad de resolver descargos, a través del medio que determine el Servicio, y dictar actos administrativos que apliquen multas por incumplimiento de obligaciones contractuales, a los proveedores con los cuales la Agencia ha contratado adquisición de bienes y/o la prestación de servicios.
 
 2º El Secretario Ejecutivo, en su calidad de delegante, no podrá ejercer la competencia delegada sin haber previamente revocado la presente delegación, mediante la correspondiente resolución.
 
