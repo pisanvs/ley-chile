@@ -8,7 +8,7 @@ Lo dispuesto en el artículo 90°, inciso segundo, del Código Sanitario, aproba
 
 Considerando:
 
-1. Que, se ha solicitado a este Ministerio la autorización para la comercialización de productos de tabaco de la marca Lucky Strike, en su variante Lucky Strike Wilde Xtend (cajetilla de 20 cigarrillos), comercializada por la empresa Bat Chile S.A., RUT N° 88.502.900-0.
+1. Que, se ha solicitado a este Ministerio la autorización para la comercialización de productos de tabaco de la marca Lucky Strike, en su variante Lucky Strike Wild Extend (cajetilla de 20 cigarrillos), comercializada por la empresa Bat Chile S.A., RUT N° 88.502.900-0.
 
 2. Que, evaluados los antecedentes aportados por dicha empresa y evacuado el informe técnico pertinente por parte de la Oficina de Tabaco de la División de Políticas Públicas Saludables y Promoción del Ministerio de Salud, se ha considerado que la solicitud en análisis es favorable.
 
