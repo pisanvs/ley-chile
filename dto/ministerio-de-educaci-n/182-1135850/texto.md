@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 182, 05.06.2019 DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto se modifican los convenios suscritos con la Fundación para la Promoción de la Educación y la Cultura, con la Corporación Educacional de Asimet y con la Fundación de Solidaridad Romanos XII, cuyo objeto fue delegar la administración de los establecimientos educacionales "Liceo Comercial de los Andes", RBD 1.195; "Liceo Industrial Chileno Alemán", RBD 9.063; "Liceo Técnico de San Miguel", RBD 9.581; "Liceo Politécnico de San Joaquín", RBD 9.408; "Liceo Industrial de Santiago", RBD 8.814; y, "Liceo Industrial de Recoleta", RBD 10.397, cuyos convenios fueron aprobados, respectivamente, mediante el decreto N° 420, de 2003; el decreto N° 422, de 2003; el decreto N° 280, de 2002; el decreto N° 109, de 2007; el decreto N° 421, de 2003, y el decreto N° 108, de 2007, y sus correspondientes modificaciones, todos del Ministerio de Educación.
+
+Santiago, 5 de junio de 2019.- Raúl Figueroa Salas, Subsecretario de Educación.
