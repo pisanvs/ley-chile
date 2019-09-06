@@ -96,7 +96,11 @@ Postulación Comunidad de Copropietarios
 
 .
 
-7. a. Impútese el total de 26.546,00 Unidades de Fomento asignadas por la presente resolución, a los recursos autorizados a la Región Metropolitana a través de circular Nº 01 y sus modificaciones, de la Subsecretaría (V. y U.), del 22 de enero de 2019, que fija programa habitacional correspondiente al año 2019, entre ellos, el Programa de Protección del Patrimonio Familiar del año 2019 dispuesto para la atención de Condominios Sociales y la resolución exenta Nº 734, de fecha 15 de marzo de 2019, del Ministerio de Vivienda y Urbanismo, que llama a postulación para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su modalidad regulada por el Capítulo II, de la atención a Condominios de Viviendas Sociales para las regiones que allí se indican, para proyectos calificados por Serviu, entre marzo y diciembre de 2018.
+7. Impútese el total de 26.546,00 Unidades de Fomento asignadas por la presente resolución, desglosados de la siguiente forma:
+
+a. 24.734,00 Unidades de Fomento asignadas por la presente resolución, a los recursos autorizados a la Región Metropolitana a través de circular Nº 1 y sus modificaciones, de la Subsecretaría (V. y U.), del 22 de enero de 2019, que fija programa habitacional correspondiente al año 2019, entre ellos, el Programa de Protección del Patrimonio Familiar del año 2019 dispuesto para la atención de Condominios Sociales y lo contemplado en el resuelvo 14; de la resolución exenta Nº 734, de fecha 15 de marzo de 2019, del Ministerio de Vivienda y Urbanismo, que llama a postulación para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su modalidad regulada por el Capítulo II, de la atención a Condominios de Viviendas Sociales para las regiones que allí se indican, para proyectos calificados por Serviu, entre marzo y diciembre de 2018.
+
+b. 1.812,00 Unidades de Fomento asignadas por la presente resolución al presupuesto general de los recursos autorizados a la Región Metropolitana a través de circular Nº 1 y sus modificaciones, de la Subsecretaría (V. y U.), del 22 de enero de 2019, que fija programa habitacional correspondiente al año 2019, entre ellos, el Programa de Protección del Patrimonio Familiar del año 2019 dispuesto para la atención de Condominios Sociales.
 
 8. Establécese que la resolución exenta Nº 3.751 (V. y U.) de 31 de diciembre de 2018, de esta Secretaría Ministerial, se mantendrá vigente en todo lo que no ha sido modificado por la presente resolución.
 
