@@ -1,0 +1,81 @@
+AUTORIZA LA EXTRACCIÓN DESDE EL TERRITORIO NACIONAL DE LAS MUESTRAS ARQUEOLÓGICAS QUE INDICA
+
+Núm. 18 exento.- Santiago, 26 de agosto de 2019.
+
+Vistos:
+
+Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile; la ley Nº 17.288 sobre Monumentos Nacionales; el artículo 43 de la ley Nº 16.441 que crea el Departamento de Isla de Pascua; el decreto supremo Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia que faculta a los Ministros de Estado a firmar "Por orden del Presidente de la República"; el decreto supremo Nº 16, de 2018, del Ministerio Secretaría General de la Presidencia que modifica decreto supremo Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia, de la forma que indica y deroga decreto supremo Nº 329, de 1997, del Ministerio de Educación; la resolución Nº 7, de 2019, de la Contraloría General de la República; el Acta de la Sesión Ordinaria de fecha 13 de marzo de 2019; el Acta de la Sesión Ordinaria de fecha 10 de abril de 2019, del Consejo de Monumentos Nacionales; el oficio Ord. Nº 368, del 08.08.2019, del Subsecretario del Patrimonio Cultural; el oficio Ord. Nº 771, del 17.07.2019, del Director Nacional (S) de Servicio Nacional del Patrimonio Cultural y Vicepresidente Ejecutivo del Consejo de Monumentos Nacionales; el oficio Ord. Nº 2.976, del 01.07.2019, de la Secretaria (S) del Consejo de Monumentos Nacionales; el memorandum Nº 71 de la Secretaría Técnica del Patrimonio Rapa Nui del 21.11.2018, donde consta la solicitud del arqueólogo Sr. Burkhard Vogt (Ingreso CMN Nº 7.673 del 23.11.2018); el correo electrónico del investigador Sr. Bernardo Arriaza, del 28.12.2018 (Ingreso CMN Nº 8.516 del 31.12.2018); la carta de la investigadora Sra. Vivien Standen, del 01.02.2019 (Ingreso CMN Nº 661 del 01.02.2019); la carta de la arqueóloga Sra. Camila Alday, del 21.01.2019 (Ingreso CMN Nº 711 del 04.02.2019); la carta del arqueólogo Sr. Francisco Garrido, del 22.03.2019 (Ingreso CMN Nº 1.687 del 22.03.2019); la carta del arqueólogo Sr. Francisco Gallardo, del 25.03.2019 (Ingreso CMN Nº 1.730 del 25.03.2019) y la carta de la antropóloga física Sra. Francisca Santana, del 25.03.2019 (Ingreso CMN Nº 1.734 del 25.03.2019).
+
+Considerando:
+
+1.- Que, el Sr. Burkhard Vogt, arqueólogo del Instituto Arqueológico Alemán, mediante memorándum Nº 71 de la Secretaría Técnica del Patrimonio Rapa Nui del 21.11.2018, solicitó autorización para enviar 134 muestras arqueológicas al extranjero en el marco del proyecto de investigación "Quebrada Vaipu", comuna de Isla de Pascua, Región de Valparaíso. El Consejo de Monumentos Nacionales, en sesión ordinaria del 10.04.2019, se pronunció favorablemente sobre la salida de 9 muestras de sedimento, 44 muestras de microfósiles, 8 muestras de agua, 16 muestras de flotación y 63 muestras de carbón del sitio arqueológico Ava Ranga Uka a Toroke, para su traslado al laboratorio de la Universidad de Otago, Nueva Zelanda, para ser sometidas a análisis destructivos de fitolitos, almidones, diatomeas y antracológicos; y al laboratorio AMS Cologne en Colonia, Alemania, para análisis de radiocarbono.
+
+2.- Que, el Sr. Bernando Arriaza, investigador del Instituto de Alta Investigación de la Universidad de Tarapacá, mediante correo electrónico del 28.12.2018, solicitó permiso para enviar 6 muestras de arcilla provenientes de restos humanos de los sitios arqueológicos "Maderas Enco", "Playa Miller 8", "Morro 1" y "Maestranza Chinchorro", depositados en el Laboratorio de Bioarqueología del Instituto de Alta Investigación de la Universidad de Tarapacá, en el marco del proyecto Fondecyt Nº 1170120 "Bioarqueología de lo invisible: desentrañando la historia de los contaminantes naturales que pudieron haber afectado a las antiguas poblaciones chilenas", a cargo del solicitante. El Consejo de Monumentos Nacionales, en sesión ordinaria del 13.03.2019, se pronunció favorablemente sobre la salida de 6 muestras de arcilla para su traslado a la Universidad Autónoma Metropolitana de México, donde serán analizadas con técnicas de identificación física, de nanodifracción y microscopía electrónica.
+
+3.- Que, la Sra. Vivien Standen, jefa de laboratorio de Antropología Física, Museo Arqueológico San Miguel de Azapa, mediante carta del 01.02.2019, solicitó autorización para enviar al extranjero 100 muestras arqueológicas correspondientes a esmalte dental, tejido blando, fragmentos óseos y fragmentos de pelo humano, en el marco de los proyectos Fondecyt Nº 1171708 y Nº 1170120. El Consejo de Monumentos Nacionales, en sesión ordinaria del 13.03.2019, se pronunció favorablemente sobre el envío al extranjero de 94 muestras bioantropológicas, 3 muestras de fibra vegetal y 3 muestras zooarqueológicas provenientes de 19 colecciones arqueológicas (Azapa 140, Azapa 11, Azapa 14, Azapa 70, Azapa 71, Azapa 6, Azapa 8, Playa Miller 7, Playa Miller 4, Playa Miller 3, Azapa 115, Azapa 75, Azapa 75D, Azapa 76, Camarones 15A, Camarones 15D, Chinchorro 4), depositadas actualmente en el Museo Arqueológico San Miguel de Azapa, para su traslado a Estados Unidos, donde 68 de éstas serán sometidas a análisis destructivos de isótopos de estroncio en el Department of Geological Sciences, University of Norther Carolina. Las otras 32 muestras serán sometidas a análisis destructivos de 14C en el laboratorio Beta Analytic, también en Estados Unidos.
+
+4.- Que, la Sra. Camila Alday, arqueóloga y actual estudiante de Doctorado de la Universidad de Cambridge, mediante carta del 21.01.2019, solicitó autorización para enviar 288 muestras arqueológicas al extranjero en el marco de su proyecto de doctorado. El Consejo de Monumentos Nacionales, en sesión ordinaria del 13.03.2019, acordó pronunciarse a favor del envío al extranjero de 288 muestras de restos de fibra vegetal de los sitios arqueológicos de la Región de Arica y Parinacota (Morro 1, Morro 1-6; Camarones 14 y Chinchorro-Uhle) y de la Región de Tarapacá (Pampa Ramadita 5 y Quebrada Mani 32), resguardadas actualmente en dependencias de la Universidad de Tarapacá de Arica y en el Museo Nacional de Historia Natural de Santiago, para su traslado al McDonald Institute en Cambridge, Inglaterra, donde serán sometidas a análisis destructivos de microscopía de luz y microscopio de barrido para identificar las plantas utilizadas en la tecnología prehispánica en el marco del proyecto de tesis doctoral en la Universidad de Cambridge.
+
+5.- Que, el Sr. Francisco Garrido, arqueólogo, mediante carta del 22.03.2019, solicitó permiso para enviar 31 muestras de restos óseos bioantropológicos y arqueofaunísticos al extranjero en el marco del proyecto Fondecyt Nº 11170010: "Dinámicas sociales en provincias imperiales: expansión Inca y respuesta de agentes locales en el Valle de Copiapó". El Consejo de Monumentos Nacionales, en sesión ordinaria del 10.04.2019, acordó pronunciarse a favor de la salida del país de 31 muestras de restos óseos bioantropológicos y arqueofaunísticos de las colecciones del Museo Nacional de Historia Natural de Santiago y el Museo Regional de Atacama para su traslado al Radiocarbon Dating Laboratory, Estados Unidos, donde serán sometidas a análisis destructivos de radiocarbono e isótopos.
+
+6.- Que, el Sr. Francisco Gallardo, arqueólogo del Centro Interdisciplinario de Estudios Interculturales e Indígenas, mediante carta del 25.03.2019, solicitó permiso para enviar 26 muestras arqueológicas al extranjero en el marco del proyecto Fondecyt Nº 1160045: "La frontera interior: Intercambios e Interculturalidad en el oasis de Quillagua (Periodo Formativo, norte de Chile)", Región de Tarapacá. El Consejo de Monumentos Nacionales, en sesión ordinaria del 10.04.2019, acordó pronunciarse a favor de la salida del país de 26 muestras arqueobotánicas, de carbón, residuos de pipa y fibras textiles para su traslado al laboratorio Beta Analytic, Estados Unidos, donde serán sometidas a análisis destructivos de radiocarbono.
+
+7.- Que, la Sra. Francisca Santana, antropóloga física, mediante carta del 25.03.2019, solicitó permiso para enviar muestras arqueológicas y bioantropológicas al extranjero en el marco del proyecto de Postdoctorado Fondecyt Nº3180317 (2018-2020): "Agro-Pastoral Practices in the Atacama Desert: Change, Intensification and their Impact on Human", Región de Tarapacá. El Consejo de Monumentos Nacionales, en sesión ordinaria del 10.04.2019, acordó pronunciarse a favor de la salida del país de 23 muestras de restos arqueobotánicos, textiles, zooarqueológicos y bioantropológicos para su traslado a los laboratorios del Center for Stable Isotopes de la Universidad de Nuevo México, en Albuquerque, Estados Unidos, donde serán sometidas a análisis de isótopos estables de aminoácidos de carbono y nitrógeno.
+
+8.- Que, el Consejo de Monumentos Nacionales, en sesiones ordinarias de 13.03.2019 y 10.04.2019, respecto de las autorizaciones señaladas y otorgadas en los puntos que preceden, acordó solicitar la dictación del respectivo decreto supremo al Ministerio de las Culturas, las Artes y el Patrimonio.
+
+9.- Que, la Contraloría General de la República, basada en el artículo 43 de la ley 16.441 y la ley 21.045, emitió el Dictamen Nº 30.280 del 06.12.2018, a través del cual ha señalado que, para la extracción desde el territorio nacional de muestras arqueológicas al extranjero para fines científicos, se requiere de un decreto emitido por el Ministerio de las Culturas, las Artes y el Patrimonio.
+
+10.- Que, el decreto Nº 16 de 2018, del Ministerio Secretaría General de la Presidencia, delega la facultad del artículo 43 de la ley Nº 16.441 en el Ministro de las Culturas, las Artes y el Patrimonio, modificando al efecto el decreto supremo Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia.
+
+Decreto:
+
+#### Artículo 1º
+
+Autorízase la extracción desde el territorio nacional a contar de la fecha de publicación del presente decreto, de 9 muestras de sedimento, 44 muestras de microfósiles, 8 muestras de agua, 16 muestras de flotación y 63 muestras de carbón del sitio arqueológico Ava Ranga Uka a Toroke, para su traslado al laboratorio de la universidad de Otago, Nueva Zelanda, para ser sometidas a análisis destructivos de fitolitos, almidones, diatomeas y antracológicos; y al laboratorio AMS Cologne en Colonia, Alemania, para análisis de radiocarbono. La referida extracción fue solicitada por el arqueólogo Sr. Burkhard Vogt, en el marco del proyecto de investigación "Quebrada Vaipu", Isla de Pascua, Valparaíso.
+
+Las muestras cuya salida se autoriza, son las que a continuación se individualizan:
+
+#### Artículo 2º
+
+Autorízase la extracción desde el territorio nacional a contar de la fecha de publicación del presente decreto, de 6 muestras de arcilla para su traslado a la Universidad Autónoma Metropolitana de México, donde serán analizadas con técnicas de identificación física, de nanodifracción y microscopía electrónica. La referida extracción fue solicitada por el investigador Sr. Bernardo Arriaza, en el marco del proyecto Fondecyt Nº 1170120 "Bioarqueología de lo invisible: desentrañando la historia de los contaminantes naturales que pudieron haber afectado a las antiguas poblaciones chilenas".
+
+Las muestras cuya salida se autoriza, son las que a continuación se individualizan:
+
+#### Artículo 3º
+
+Autorízase la extracción desde el territorio nacional a contar de la fecha de publicación del presente decreto, de 94 muestras bioantropológicas, 3 muestras de fibra vegetal y 3 muestras zooarqueológicas provenientes de 19 colecciones arqueológicas (Azapa 140, Azapa 11, Azapa 14, Azapa 70, Azapa 71, Azapa 6, Azapa 8, Playa Miller 7, Playa Miller 4, Playa Miller 3, Azapa 115, Azapa 75, Azapa 75D, Azapa 76, Camarones 15A, Camarones 15D, Chinchorro 4), depositadas actualmente en el Museo Arqueológico San Miguel de Azapa, para su traslado a Estados Unidos, donde 68 de éstas serán sometidas a análisis destructivos de isótopos de estroncio en el Department of Geological Sciences, University of Norther Carolina; y 32 muestras serán sometidas a análisis destructivos de 14C en el laboratorio Beta Analytic, también en Estados Unidos. La referida extracción fue solicitada por la investigadora Sra. Vivien Standen, en el marco de los proyectos Fondecyt Nº 1171708 y Nº1170120.
+
+Las muestras cuya salida se autoriza, son las que a continuación se individualizan:
+
+#### Artículo 4º
+
+Autorízase la extracción desde el territorio nacional a contar de la fecha de publicación del presente decreto, de 288 muestras de restos de fibra vegetal de los sitios arqueológicos de la Región de Arica y Parinacota (Morro 1, Morro 1-6; Camarones 14 y Chinchorro-Uhle) y de la Región de Tarapacá (Pampa Ramadita 5 y Quebrada Mani 32), resguardadas actualmente en dependencias de la Universidad de Tarapacá de Arica y en el Museo Nacional de Historia Natural de Santiago, para su traslado al McDonald Institute en Cambridge, Inglaterra, donde serán sometidas a análisis destructivos de microscopía de luz y microscopio de barrido para identificar las plantas utilizadas en la tecnología prehispánica. La referida extracción fue solicitada por la arqueóloga Sra. Camila Alday en el marco del proyecto de su tesis doctoral en la Universidad de Cambridge.
+
+Las muestras cuya salida se autoriza, son las que a continuación se individualizan:
+
+#### Artículo 5º
+
+Autorízase la extracción desde el territorio nacional a contar de la fecha de publicación del presente decreto, de 31 muestras de restos óseos bioantropológicos y arqueofaunísticos de las colecciones del Museo Nacional de Historia Natural de Santiago y el Museo Regional de Atacama para su traslado al Radiocarbon Dating Laboratory, Estados Unidos, donde serán sometidas a análisis destructivos de radiocarbono e isótopos. La referida extracción fue solicitada por el arqueólogo Sr. Francisco Garrido, en el marco del proyecto Fondecyt Nº 11170010: "Dinámicas sociales en provincias imperiales: Expansión inca y respuesta de agentes locales en el Valle de Copiapó".
+
+Las muestras cuya salida se autoriza, son las que a continuación se individualizan:
+
+#### Artículo 6º
+
+Autorízase la extracción desde el territorio nacional a contar de la fecha de publicación del presente decreto, de 26 muestras arqueobotánicas, de carbón, residuos de pipa y fibras textiles para su traslado al laboratorio Beta Analytic, Estados Unidos, donde serán sometidas a análisis destructivos de radiocarbono. La referida extracción fue solicitada por el arqueólogo Sr. Francisco Gallardo en el marco del proyecto Fondecyt Nº 1160045: "La frontera interior: Intercambios e Interculturalidad en el oasis de Quillagua (Periodo Formativo, norte de Chile)", Región de Tarapacá.
+
+Las muestras cuya salida se autoriza, son las que a continuación se individualizan:
+
+#### Artículo 7º
+
+Autorízase la extracción desde el territorio nacional a contar de la fecha de publicación del presente decreto, de 23 muestras de restos arqueobotánicos, textiles, zooarqueológicos y bioantropológicos para su traslado a los laboratorios del Center for Stable Isotopes de la Universidad de Nuevo México, en Albuquerque, Estados Unidos, donde serán sometidas a análisis de isótopos estables de aminoácidos de carbono y nitrógeno. La referida extracción fue solicitada por la antropóloga física Sra. Francisca Santana en el marco del proyecto de Postdoctorado Fondecyt Nº3180317 (2018-2020): "Agro-Pastoral Practicas in the Atacama Desert: Change, Intensification and their Impact on Human", Región de Tarapacá.
+
+Las muestras cuya salida se autoriza, son las que a continuación se individualizan:
+
+#### Artículo 8º
+
+Adóptense todas las medidas pertinentes para su embalaje y transporte, según correspondiere, de todas las muestras, cuya salida se autoriza por este acto administrativo, las que serán de cargo de cada investigador.
+
+Anótese y publíquese.- Por orden del Presidente de la República, Consuelo Valdés Chadwick, Ministra de las Culturas, las Artes y el Patrimonio.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Emilio de la Cerda Errázuriz, Subsecretario del Patrimonio Cultural.
