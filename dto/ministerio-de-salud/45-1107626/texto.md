@@ -714,7 +714,7 @@ DISPOSICIONES TRANSITORIAS
 
 #### Artículo transitorio
 
-Los establecimientos o centros que otorgan prestaciones de hemodiálisis y peritoneodiálisis que se encuentren autorizados a la fecha de publicación del presente decreto en el Diario Oficial, tendrán el plazo de 2 años, a contar de esa misma fecha, para dar cumplimiento a las exigencias que en él se contienen.
+Los establecimientos o centros que otorgan prestaciones de hemodiálisis y peritoneodiálisis que se encuentren autorizados a la fecha de publicación del presente decreto en el Diario Oficial, deberán dar cumplimiento a las exigencias que en él se contienen a contar del 31 de diciembre del año 2022.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Carmen Castillo Taucher, Ministra de Salud.
 
