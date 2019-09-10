@@ -86,13 +86,15 @@ La operación de los Proyectos deberá ajustarse a las instrucciones que imparta
 
 Etapa de selección de los beneficiarios/as, de las empresas consultoras y mejora del plan de trabajo: El financiamiento del Comité no podrá exceder de $150.000.- (ciento cincuenta mil pesos) por beneficiario/a seleccionado/a.
 
-Etapa de Desarrollo: El cofinanciamiento no podrá exceder el 85% del costo total de esta Etapa, con un tope máximo por beneficiario/a de $3.500.000.- (tres millones quinientos mil pesos).
+Etapa de Desarrollo: El cofinanciamiento del Comité no podrá exceder el 85% del costo total de esta Etapa, con un tope máximo por beneficiario/a de $3.500.000.- (tres millones quinientos mil pesos).
 
-El cofinanciamiento destinado al proyecto de inversión no podrá exceder los $2.000.000.- (dos millones de pesos) y $1.500.000.- (un millón quinientos mil pesos) para Acciones de Gestión Empresarial.
+El cofinanciamiento destinado al proyecto de inversión no podrá exceder los $3.300.000.- (tres millones trescientos mil pesos).
 
-Será requisito previo para efectuar el Proyecto de Inversión que el/la emprendedor/a haya hecho inicio de actividades en primera categoría del impuesto a la renta ante el Servicio de Impuestos Internos.
+Asimismo, el plan de trabajo para implementar un negocio deberá contemplar obligatoriamente Acciones de Gestión Empresarial, esto es, de asistencia técnica, asesorías en gestión, capacitación, acciones de marketing y/o formalización.
 
-El plan de trabajo para implementar un negocio deberá contemplar obligatoriamente Acciones de Gestión Empresarial, esto es, de asistencia técnica, asesorías en gestión, capacitación, acciones de marketing y/o formalización.
+De los recursos adjudicados por el Comité, para el financiamiento de estas Acciones, el beneficiario deberá contemplar un monto mínimo de $200.000.- (doscientos mil pesos), para acciones de marketing, y un máximo de $500.000.- (quinientos mil pesos), para las demás Acciones de Gestión Empresarial.
+
+Será requisito previo al inicio de la ejecución del Plan de Trabajo que el/la emprendedor/a haya iniciado actividades ante el Servicio de Impuestos Internos en una actividad gravada con el impuesto de primera categoría de la Ley de Impuesto a la Renta (DL 824, de 1974).
 
 ### 7. COSTO DE ADMINISTRACIÓN
 
