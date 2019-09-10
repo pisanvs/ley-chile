@@ -394,6 +394,8 @@ Central
 
 004 Integros Ley N° 19.030
 
+100 Administradora del Fondo para Bonificación por Retiro.
+
 999 Otros
 
 09 APORTE FISCAL
@@ -903,6 +905,8 @@ Cuidado del Niño
 006 Subsidio de Cesantía
 
 012 Aporte Familiar Permanente de marzo
+
+013 Garantía Estatal Artículo 82 DL Nº 3.500
 
 03 Prestaciones Sociales del
 
@@ -1733,6 +1737,8 @@ de Impuestos
 003 Fondos en Administración en Banco Central
 
 004 Integros Ley N° 19.030
+
+100 Administradora del Fondo para Bonificación por Retiro
 
 999 Otros
 
@@ -4152,6 +4158,8 @@ del Niño
 
 006 Subsidio de Cesantía
 
+013 Garantía Estatal Artículo 82 DL Nº 3.500
+
 03 PRESTACIONES SOCIALES DEL EMPLEADOR
 
 Corresponde a cualquier beneficio de
@@ -5438,6 +5446,8 @@ Ley N ° 18.695
 
 Municipal
 
+055 Bono de Modernización Ley Nº 21.132
+
 999 Otras Asignaciones
 
 002 Aportes del Empleador
@@ -5605,6 +5615,8 @@ Exterior
 042 Asignación de Atención Primaria
 
 Municipal
+
+055 Bono de Modernización Ley Nº 21.132
 
 999 Otras Asignaciones
 
