@@ -98,7 +98,7 @@ Desígnanse a los siguientes funcionarios a contrata quienes podrán ejercer las
 
 13.- Cristian Manfredo Sanhueza Paredes, Encargado del Subdepartamento de Desarrollo y Explotación de Sistemas, del Departamento de Tecnologías de Información y Comunicaciones, funcionario a contrata asimilado a grado 7 E.F. de la planta profesional, respecto de los funcionarios que se desempeñan en el Subdepartamento de Desarrollo y Explotación de Sistemas.
 
-14.- Cristóbal Alejandro Jara Nilsson, Jefe de Gabinete, funcionario a contrata asimilado a grado 5 E.F. de la planta profesional, respecto de los funcionarios que se desempeñan en Dirección Nacional y todos aquellos cuyo superior jerárquico directo sea el Director Nacional.
+14.- Carolina Sepúlveda Valenzuela, Jefa de Gabinete, funcionaria a contrata asimilada a Grado 5° E.F. de la planta profesional, respecto de los funcionarios que se desempeñan en la Dirección Nacional y todos aquellos cuyo superior jerárquico directo sea la Directora Nacional.
 
 #### Artículo tercero
 
