@@ -64,23 +64,35 @@ VI. Para el envío de la información señalada en los puntos números 4 y 5 el 
 
 VII. El listado de excedentes que fueron comunicados para el pago automático, mediante planilla señalada en el punto 4, deberán ser bloqueados en el sistema OCP, de manera automática al momento de extraer el listado, debiendo asignar el estado "PAGADO", con el fin de evitar duplicidad de pago, en el caso que el usuario se presente en la Unidad de Crédito o requiera su pago por la página web (excedentes.dicrep.cl).
 
-VIII. Las unidades de crédito verán reflejado en su cierre diario de operaciones las solicitudes de pago automático de excedentes con el fin de no afectar su cuadratura y cierre diario, por lo que se deberán contabilizar estas transacciones de la siguiente manera por parte del Contador UC y Contador DG, según corresponda y se detalla:
+VIII. Las unidades de crédito verán reflejado en su cierre diario de operaciones las solicitudes de pago electrónico automático con el fin de no afectar su cuadratura y cierre diario. Por lo que se deberán contabilizar estas transacciones de la siguiente manera por parte del Contador UC y Contador DG, según corresponda y se detalla:
 
-a. Asiento contable en Unidad de Crédito
+a. Asiento por otorgamiento de Fondos desde la Dirección General a Unidad de Crédito.
 
-"Saldo adeudado a empeñante=$XXXXX
+11901 Remesas Otorgadas $1.000
 
-Intermediación de Fondos= $XXX
+11102 Banco Estado $1.000
 
-Glosa= Excedentes Automáticos solicitados por pago de transferencia"
+Glosa: Traspaso Dirección General - Pago de excedentes Automáticos remate N°XX - Unidad XX
 
-b. Asiento contable en la Dirección General
+Observaciones: Cuenta corriente 235580 Banco Estado
 
-"Intermediación de Fondos= $XXX
+b. Asiento automático por otorgamiento de Fondos de Fondos a la Unidad de Crédito desde Dirección General.
 
-Banco= $XXX
+11902 Intermediación de Fondos $1.000
 
-Glosa= Depósito de excedentes Remate Nº XX- Unidad XX"
+21901 Remesas Recibidas $1.000
+
+Glosa: Traspaso Dirección General - Pago de excedentes Automáticos remate N°XX - Unidad XX
+
+Observaciones: Asiento debe ser confirmado por Unidad de Crédito en sus registros contables
+
+c. Asiento por percibimiento y cuadratura de saldos por usuarios de la Unidad de Crédito. Asiento (manual) en la Unidad
+
+2140101 Saldos Adeudados a empeñantes $1.000
+
+11902 Intermediación de Fondos $1.000
+
+Glosa: Pago de excedentes Automáticos remate N°XX - Unidad XX
 
 IX. El Departamento de Contabilidad de la Dirección General tendrá un plazo máximo de 5 días hábiles para realizar el pago efectivo a los usuarios que hayan entregado los datos de su cuenta bancaria por parte del empeñante, en la forma dispuesta por la resolución exenta N° 322 de 06.07.2018, y no habiendo sido solicitados los excedentes de manera presencial en la respectiva Unidad de Crédito o mediante el sitio web excedentes.dicrep.cl.
 
@@ -93,6 +105,36 @@ XI. Si el estado de excedente es PAGADO, el Contador de la UC deberá adjuntar l
 a. Comunicar a la Unidad de Crédito el rechazo de la transferencia, en el listado de usuarios solicitados. En este correo deberá copiar al Subdepartamento de Informática a fin de volver a activar dichos excedentes en el sistema OCP y dejarlos nuevamente disponibles para ser cobrados de manera presencial o solicitados por la página web institucional a una cuenta RUT de Banco Estado. Posteriormente, será el contador de la UC el responsable de supervisar que dichas acciones se concreten en el sistema OCP.
 
 b. Deberá comunicar a través de correo electrónico creado para este fin, al usuario indicando que la transferencia fue rechazada por la razón que el banco exponga y que sus excedentes deberán ser retirados de manera presencial o bien solicitados por la página web excedentes.dicrep.cl a una cuenta RUT del Banco Estado.
+
+Además, si el estado de pago de los excedentes es "RECHAZADO", se deberá realizar las siguientes contabilizaciones:
+
+i) Asiento reintegra fondos rechazados desde Unidad de Crédito a Dirección General.
+
+11901 Remesas Otorgadas $500
+
+11902 Intermediación de $500
+
+Glosa: Rechazos de pago de excedentes automáticos remate N°XX- Unidad XX
+
+Observaciones: En la cuenta bancaria otorgante se deberá ingresar la Intermediación de fondos de la unidad y en Cuenta Bancaria receptora se deberá utilizar cuenta Corriente Banco Estado 235580 (cuenta de origen de los Fondos que son devueltos a Dirección General).
+
+ii) Asiento generado automáticamente por reintegro de fondos rechazados desde Unidad de Crédito a Dirección General
+
+11102 Banco Estado $500
+
+21901 Remesas Recibidas $500
+
+Glosa: Rechazos de pago de excedentes automáticos remate N°XX - Unidad XX
+
+iii) Asiento para abono de cuenta Saldo Adeudados a Empeñantes, por fondos rechazados y no pagados
+
+11902 Intermediación de Fondos $500
+
+2140101 Saldos Adeudados a empeñantes $500
+
+Glosa: Rechazos de Pago de excedentes Automáticos remate N°XX- Unidad XX
+
+Observaciones: Este asiento debe considerar en SIGFE 2.0 como un movimiento Depósitos a Terceros
 
 XIII. El plazo máximo en que debe ser informado al usuario respecto del pago automático de excedentes o rechazo de este, es de 15 días hábiles, una vez realizado el remate. El Encargado de la Dirección General será el responsable del cumplimiento de la entrega de esta información en el plazo establecido.
 
