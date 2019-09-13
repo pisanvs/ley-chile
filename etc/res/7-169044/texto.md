@@ -220,6 +220,8 @@ En los sitios esquina los cierros deberán formar ochavos no inferiores a 4 m. E
 
 > **Nota.** El N° 1 del artículo único del Decreto 306, Municipalidad de San Joaquín, publicado el 04.03.2014, ordena intercalar en el inciso cuarto de la presente norma, luego de "serán aplicables a las zonas Z 13, Z 13A, Z14, Z14A, Z14B", lo siguiente: "Z15, Z16 y Z16 A", frase que no se encuentra en este texto, por lo que no ha sido posible construir el texto actualizado de la misma.
 
+> **Nota.** NOTA 1 El N° 1 del artículo único del anexo del Decreto 1203, Municipalidad de San Joaquín, publicado el 28.05.2016, ordena intercalar en el inciso cuarto de la presente norma, luego de "serán aplicables a las zonas Z 13, Z 13A,", el guarismo: "Z13 B," frase que no se encuentra en este texto, por lo que no ha sido posible construir el texto actualizado de la misma.
+
 #### Artículo 11
 
 En los edificios sujetos al sistema de agrupamiento continuo, la altura será la que se indica para cada zona, medida en la misma forma que establece el Nº3, del inciso 2º, del artículo 2.6.2. de la Ordenanza General de la Ley General de Urbanismo y Construcciones, para los adosamientos.
@@ -227,6 +229,8 @@ En los edificios sujetos al sistema de agrupamiento continuo, la altura será la
 Sobre la edificación continua se permitirá construcción aislada a excepción de las zonas Z15, Z16 y Z16-A donde no se admitirá edificación aislada sobre la continua.
 
 Sin perjuicio del cumplimiento de otras disposiciones de esta Ordenanza, la edificación continua no podrá tener una profundidad mayor al 70% de la longitud del deslinde común.
+
+> **Nota.** El numeral 2° del articulo único del anexo del Decreto 1203, Municipalidad de San Joaquín, publicado el 28.05.2016, ordena intercalar en el inciso a. Inciso cuarto, luego de "Serán aplicables a las zonas Z13, Z13A,", el guarismo: "Z13 B", b. Inciso sexto Altura de Edificación, luego de "Edificación aislada y pareada: Según lo dispuesto en Art. 2.6.3 de la Ordenanza General de Urbanismo y Construcciones" la siguiente locución: "a excepción de las zonas para las cuales se fija una altura máxima permitida para la edificación aislada y pareada.", c. Inciso séptimo luego de "Edificación continua: Según lo dispuesto en Art. 2.6.3 de la Ordenanza General de Urbanismo y Construcciones" la siguiente locución: "a excepción de las zonas para las cuales se fija una altura máxima permitida para la edificación continua.", frases que no se encuentra en este texto, por lo que no ha sido posible construir el texto actualizado de la misma.
 
 #### Artículo 12
 
@@ -243,6 +247,8 @@ En las zonas Z-7 y Z-8, no serán exigibles los antejardines para las edificacio
 > **Nota.** El numeral 1 letras a y b del Artículo 1 de la Enmienda al Plan Regulador de San Joaquín, anexado en el Decreto 1696, Municipalidad de San Joaquín, publicado el 11.11.2011, modifica la presente norma, en el sentido de eliminar la exigencia de antejardín en la zona Z.3, para el área correspondiente a la Población Lautaro y aumentar en un 21,4% el coeficiente de ocupación de suelo en la zona Z.3, para el área correspondiente a la Población Lautaro.
 
 > **Nota.** NOTA 1 El N° 3 del Artículo único del Decreto 306, Municipalidad de San Joaquín, publicado el 04.03.2014, agrega a la presente norma lo siguiente: "Z15, Z16 y Z16 A".
+
+> **Nota.** NOTA 2 El N° 3 del artículo único del anexo del Decreto 1203, Municipalidad de San Joaquín, publicado el 28.05.2016, ordena intercalar en el inciso cuarto de la presente norma, luego de "serán aplicables a las zonas Z13, Z13A,", el guarismo: "Z13 B," frase que no se encuentra en este texto, por lo que no ha sido posible construir el texto actualizado de la misma.
 
 #### Artículo 13
 
@@ -667,6 +673,10 @@ Construcciones.
 Densidad bruta mínima : 68 hab/há.
 
 Densidad bruta máxima : 450 hab/há.
+
+ZONA Z-1A RESIDENCIAL
+
+.
 
 ZONA Z-2 RESIDENCIAL
 
@@ -2513,6 +2523,8 @@ De acuerdo a lo dispuesto en el artículo 33 de la Ley Orgánica Constitucional 
 > **Nota.** NOTA 1 El Nº 1 del Artículo Único de la Modificación al Plan Regulador de San Joaquín, anexado en el Decreto 1206, Municipalidad de San Joaquín, publicado el 16.12.2009, modifica la presente norma en el sentido de prorrogar por 5 años la afectación a utilidad pública de los tramos de las vías del territorio comunal señaladas en dicha norma.
 
 > **Nota.** NOTA 2 El Nº 4 del Artículo Único de la Modificación al Plan Regulador de San Joaquín, anexado en el Decreto 1206, Municipalidad de San Joaquín, publicado el 16.12.2009, modifica la presente norma en el sentido de reemplazar en el cuadro de vialidad señalado en el presente artículo los tramos que en dicha norma se indican.
+
+> **Nota.** NOTA 3 El N° 1 del artículo único del Decreto 352 y su norma complementaria, M. de San Joaquín, publicado el 10.03.2016, modifica el presente artículo en el sentido de agregar tramos de vía que indica.
 
 ## Capítulo VI
 
