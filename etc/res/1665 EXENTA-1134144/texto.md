@@ -1,4 +1,4 @@
-LLAMADO A POSTULACIÓN EN CONDICIONES ESPECIALES PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE MEJORAMIENTO DE VIVIENDAS Y BARRIOS, CAPÍTULO III, PROYECTOS PARA CONDOMINIOS DE VIVIENDAS ECONÓMICAS, PARA LAS REGIONES DE ANTOFAGASTA, ATACAMA, VALPARAÍSO, LOS RÍOS Y METROPOLITANA
+LLAMADO A POSTULACIÓN EN CONDICIONES ESPECIALES PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE MEJORAMIENTO DE VIVIENDAS Y BARRIOS, CAPÍTULO III, PROYECTOS PARA CONDOMINIOS DE VIVIENDAS ECONÓMICAS, PARA LAS REGIONES DE ANTOFAGASTA, VALPARAÍSO, LOS RÍOS Y METROPOLITANA
 
 Santiago, 18 de julio de 2019.- Hoy se resolvió lo que sigue:
 
@@ -34,7 +34,7 @@ b) Que las obras de reparación, normalización, mejoramiento y/o ampliación a 
 
 Resolución:
 
-1. Llámase a postulación para el otorgamiento de subsidios correspondientes al Capítulo Tercero: Proyectos para Condominios de Viviendas, del Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.), de 2016, a Condominios de Viviendas Económicas calificados como objeto de atención del programa, según lo establecido en el Artículo 4º, Condominios Objeto del Programa, letra b), del citado reglamento, que se encuentren emplazados en las regiones de Antofagasta, Atacama, Valparaíso, Los Ríos y Metropolitana, y consideren obras correspondientes a Mejoramiento de Bienes Comunes y/o Ampliación de la Vivienda en Copropiedad.
+1. Llámase a postulación para el otorgamiento de subsidios correspondientes al Capítulo Tercero: Proyectos para Condominios de Viviendas, del Programa de Mejoramiento de Viviendas y Barrios, regulado por el DS Nº 27 (V. y U.), de 2016, a Condominios de Viviendas Económicas calificados como objeto de atención del programa, según lo establecido en el Artículo 4º, Condominios Objeto del Programa, letra b), del citado reglamento, que se encuentren emplazados en las regiones de Antofagasta, Valparaíso, Los Ríos y Metropolitana, y consideren obras correspondientes a Mejoramiento de Bienes Comunes y/o Ampliación de la Vivienda en Copropiedad.
 
 2. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado, serán los siguientes:
 
@@ -43,6 +43,8 @@ Resolución:
 Adicionalmente, de acuerdo a la facultad establecida en el Artículo 24 del D.S. Nº 27 (V. y U.), de 2016, mediante el Sistema informático de Certificación de Copropiedades dispuesto por el Ministerio de Vivienda y Urbanismo, se solicitarán antecedentes dirigidos a identificar las características generales del conjunto habitacional y la copropiedad; el diagnóstico físico constructivo, a fin de establecer los niveles de deterioro existentes en los bienes comunes y el diagnóstico socio-jurídico, que tiene por objeto identificar la existencia de los órganos de administración de la copropiedad y las características organizativas entre copropietarios y residentes.
 
 Las certificaciones otorgadas según lo establecido mediante la resolución Nº 3.326 (V. y U.), de fecha 1 de junio de 2018, se considerarán válidas para el presente llamado siempre que los antecedentes sean ingresados en el Sistema informático de Certificación de Copropiedades dispuesto por el Ministerio de Vivienda y Urbanismo.
+
+Si por caso fortuito o de fuerza mayor, debidamente justificado, el plano señalado en el artículo 89, numeral 2, letra b. no se encontrara en el archivo, excepcionalmente se podrá acompañar un plano visado por el Director de Obras Municipales. De presentarse expedientes de copropiedades pertenecientes al mismo Conjunto Habitacional, se podrá adjuntar una sola copia de este documento, singularizando cada una de las copropiedades representadas.
 
 4. En atención al Artículo 27, numeral 1, del DS Nº 27 (V. y U.), de 2016, los antecedentes de los postulantes y del proyecto que serán requeridos al momento de ingresar las postulaciones al Sistema Informático de Postulación de Proyectos, dispuesto por el Ministerio de Vivienda y Urbanismo, serán los siguientes:
 
@@ -68,6 +70,8 @@ j) Identificación de la cantidad de recursos requeridos mediante subsidio, con 
 
 5. A fin de complementar y especificar los contenidos de la Carpeta del Proyecto establecidos de modo general en el Artículo 27, numeral 3, del DS Nº 27 (V. y U.), de 2016, se incorpora el anexo "Contenidos Presentación de Proyectos a Serviu", donde se detallan los requisitos de presentación para proyectos de Mejoramiento de Bienes Comunes y/o Ampliación de la Vivienda en Copropiedad.
 
+Tratándose de ahorros acreditados mediante depósitos a plazo, éstos deberán ser emitidos hasta el día hábil anterior a la fecha de presentación de proyectos a Serviu definida en el resuelvo 2, a diferencia de las cuentas de ahorro, que deben cumplir con el plazo establecido en el artículo 15 del DS Nº 27 (V. y U.), de 2016.
+
 6. Los proyectos presentados a Serviu que contengan partidas de Acondicionamiento Térmico y/o Iluminación Fotovoltaica, deberán satisfacer las exigencias contenidas en las resoluciones que norman los estándares técnicos para los referidos tipos de obras, citadas en los Visto 4 y 5 del presente llamado.
 
 7. En atención a lo dispuesto en el Artículo 3 del DS Nº 27 (V. y U.), de 2016, en el marco del presente llamado, se establece lo siguiente:
@@ -81,6 +85,18 @@ b) El proceso de Revisión y Calificación de Proyectos descrito en el Artículo
 Los factores regionales de selección, correspondientes al 40% de la ponderación, deberán ser establecidos mediante resolución del Seremi, en el plazo indicado en el resuelvo 2º de la presente resolución.
 
 9. Los recursos disponibles para efectuar la selección de proyectos serán los siguientes:
+
+Regiones Monto (UF)
+
+Antofagasta 15.000
+
+Valparaíso 40.000
+
+Los Ríos 11.500
+
+Región Metropolitana 143.417
+
+Total 209.917
 
 La Subsecretaría de Vivienda y Urbanismo, mediante resoluciones, podrá reasignar estos recursos entre regiones a fin de garantizar la completa asignación de los subsidios del presente llamado.
 
@@ -113,6 +129,8 @@ g. Planos de las obras a realizar. h. Archivo Fotográfico Digital. i. Permiso d
 l. Informe de Eficiencia Energética, si corresponde.
 
 m. Proyecto de especialidades, cuando corresponda.
+
+n. Visación del proyecto por una entidad de certificación de ascensores con inscripción vigente en los registros del Ministerio de Vivienda y Urbanismo, cuando corresponda.
 
 b) Antecedentes para Revisión de Aspectos Administrativos:
 
