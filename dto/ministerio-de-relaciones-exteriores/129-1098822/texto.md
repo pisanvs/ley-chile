@@ -629,3 +629,63 @@ En fe de lo cual los signatarios, debidamente autorizados al efecto, han firmado
 Hecho en duplicado en Santiago, el 25 de mayo de 2015, en idiomas español, chino e inglés, todos los textos siendo igualmente auténticos. En caso de divergencia en la interpretación, el texto en ingles prevalecerá.
 
 Por el Gobierno de la República de Chile.- Por el Gobierno de la República Popular China.
+
+TRADUCCIÓN
+
+I-355/15
+
+Minuta de Acuerdo
+
+La cuarta ronda de negociaciones del Convenio entre el Gobierno de la República Popular China y el Gobierno de la República de Chile para Eliminar la Doble Imposición y para Prevenir la Evasión y la Elusión Fiscal en relación con los Impuestos a la Renta tuvo lugar en Beijing, China, entre el 16 y el 21 de abril de 2015.
+
+La delegación china estuvo presidida por el Sr. Liao Tizhong, Director General del Departamento Internacional de Tributación de la Administración Tributaria del Estado, en tanto que la delegación chilena estuvo presidida por la Sra. Liselott Kana, Jefa de Tributación Internacional del Servicio de Impuestos Internos. Una lista con los nombres de los miembros de las delegaciones se adjunta como Anexo I.
+
+Las negociaciones fueron conducidas en una atmósfera cordial y amistosa, de mutuo entendimiento, lo que dio como resultado un acuerdo en todos los temas. Una copia del texto rubricado del Convenio se adjunta como Anexo II.
+
+Durante las negociaciones, la delegación chilena explicó su legislación interna, la cual se adjunta como Anexo III.
+
+Durante las negociaciones, las delegaciones explicaron las diferentes formas de tributación de la enajenación indirecta de acciones u otros derechos. En el caso de Chile, la expresión "representen el capital de una sociedad" en el artículo 13 del Convenio, incluye propiedad indirecta en los artículos 10 y 58 N°3 de la Ley sobre Impuesto a la Renta. En el caso de China, se aplica el artículo 47 de la Ley de Impuesto a la Renta de la Empresa.
+
+Con respecto a los "fondos de pensiones" en el número 4 del Protocolo, es parte de la política tributaria de Chile incluir los fondos de pensiones como beneficiarios de un tratado tributario. Es política tributaria de China, a la fecha en que el Convenio se negocia, que usualmente los "fondos de pensiones" no estén incluidos en el Convenio como residentes con derecho a los beneficios del Convenio. Si China cambia esa política, las autoridades competentes se consultarán.
+
+Hecho en duplicado, en Beijing, el 21 de abril de 2015.
+
+Por la Delegación de la República Popular China: Sr. Liao Tizhong, Director General Departamento de Tributación Internacional, Administración Tributaria del Estado, China.
+
+Por la Delegación de la República de Chile: Sra. Liselott Kana, Jefa de Tributación Internacional, Servicio de Impuestos Internos, Chile.
+
+Transcrito por: Ana Ahumada A., Res. N°44 de fecha 10 de agosto de 1981.
+
+Santiago, Chile, a 19 de agosto de 2015.
+
+Alejandra Vergara Zapata, Traductora.
+
+TRADUCCIÓN
+
+I-356/15
+
+Minuta de Acuerdo
+
+La cuarta ronda de negociaciones del Convenio entre el Gobierno de la República Popular China y el Gobierno de la República de Chile para Eliminar la Doble Imposición y para Prevenir la Evasión y la Elusión Fiscal en relación con los Impuestos a la Renta tuvo lugar en Beijing, China, entre el 16 y el 21 de abril de 2015.
+
+La delegación china estuvo presidida por el Sr. Liao Tizhong, Director General del Departamento Internacional de Tributación de la Administración Tributaria del Estado, en tanto que la delegación chilena estuvo presidida por la Sra. Liselott Kana, Jefa de Tributación Internacional del Servicio de Impuestos Internos. Una lista con los nombres de los miembros de las delegaciones se adjunta como Anexo I.
+
+Las negociaciones fueron conducidas en una atmósfera cordial y amistosa, de mutuo entendimiento, lo que dio como resultado un acuerdo en todos los temas. Una copia del texto rubricado del Convenio se adjuntó como Anexo II de la Minuta de Acuerdo, suscrita por ambas delegaciones el 21 de abril de 2015, en Beijing.
+
+Durante las negociaciones, la delegación chilena explicó su legislación interna, la cual se adjunta como Anexo III a la Minuta de Acuerdo indicada arriba.
+
+Durante las negociaciones, las delegaciones explicaron las diferentes formas de tributación de la enajenación indirecta de acciones u otros derechos. En el caso de Chile, la expresión "representen el capital de una sociedad" en el artículo 13 del Convenio, incluye propiedad indirecta en los artículos 10 y 58 N° 3 de la Ley sobre Impuesto a la Renta. En el caso de China, se aplica el artículo 47 de la Ley de Impuesto a la Renta de la Empresa.
+
+Después de la reunión en Beijing, las delegaciones intercambiaron opiniones y concluyeron que el Convenio requería algunos cambios menores; por lo tanto se preparó y rubricó un nuevo texto. Una copia del nuevo texto del Convenio se adjunta como Anexo I. Esta Minuta de Acuerdo se firma conjuntamente con el acuerdo final respecto del nuevo texto que será rubricado por las delegaciones.
+
+Con respecto a los "fondos de pensiones" en el número 4 del protocolo del texto del Convenio que se adjuntó como Anexo II de la Minuta de Acuerdo suscrita por ambas delegaciones en Beijing el 21 de abril de 2015, y que corresponde al número 5 del texto que se adjunta como Anexo I de esta Minuta, es parte de la política tributaria de Chile incluir los fondos de pensiones como beneficiarios de un tratado tributario. Es política tributaria de China, a la fecha en que el Convenio se negocia, que usualmente los "fondos de pensiones" no estén incluidos en el Convenio como residentes con derecho a los beneficios del Convenio. Si China cambia esa política, las autoridades competentes se consultarán.
+
+Hecho en Beijing, China, y en Santiago, Chile, el 11 de mayo de 2015.
+
+Por la Delegación de la República Popular China: Sr. Liao Tizhong, Director General Departamento de Tributación Internacional, Administración Tributaria del Estado, China.
+
+Por la Delegación de la República de Chile: p.p. Sra. Liselott Kana, Jefa de Tributación Internacional, Servicio de Impuestos Internos, Chile.
+
+Transcrito por: Ana Ahumada A., Res. N° 44, de fecha 10 de agosto de 1981.
+
+Santiago, Chile, a 19 de agosto de 2015.
