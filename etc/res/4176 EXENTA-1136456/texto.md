@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.176, de fecha 28 de agosto de 2019, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº TER-S2, correspondiente al inmueble ubicado en Cam. Interior Acceso 0980 LT 4 B, Rol de Avalúo Nº 4421-39, de la comuna de San Bernardo, Región Metropolitana, de aparente dominio de Inmobiliaria AT Ltda., con una superficie aproximada de 1577,67 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Expropiaciones Inmuebles Destinados a Terminales de Locomoción Colectiva". La Comisión de Peritos integrada por los señores Mufida Abuawad Elias, Arquitecto; Leonardo Bastías Tessada, Constructor Civil y Juan Söhrens Péndola, Arquitecto, mediante Informe de fecha 26 de agosto de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $216.273.974, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
