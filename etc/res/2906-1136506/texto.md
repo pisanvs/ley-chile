@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.906 de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 177 Inmueble ubicado en la calle Colchane, número 0700, Villa Colchane, comuna de Temuco, de una superficie aproximada de 242,78 metros cuadrados, comuna de Temuco, Rol de avalúo 5029-6. La superficie a expropiar aproximada es de 242,78 metros cuadrados, de aparente dominio de María Yolanda Álvarez Novoa. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $90.064.661 según Informe Nº 177 de fecha 04/09/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
