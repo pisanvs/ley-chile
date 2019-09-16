@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº819, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.14-A y 14-B, para la obra: MEJORAMIENTO CAMINO BASICO INTERMEDIO H-721, I-111 PELEQUEN-POLONIA, que figura a nombre de VERGARA REBOLLEDO TEOFILO REINALDO y MIRAVALLES LTDA., roles de avalúo 277-51 y 355-168, Comuna de SAN FERNANDO, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O’HIGGINS, superficies 3.663 y 1.230 m2 respectivamente. La Comisión de Peritos integrada por ANDRES RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRIQUEZ y MARLENE TERESA RÍOS MARCUELLO, mediante informe de tasación de 09 de enero de 2019, fijó el monto de la indemnización provisional en la cantidad de $26.917.900 para el lote N°14-A, y $13.843.650 para el lote N°14-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
