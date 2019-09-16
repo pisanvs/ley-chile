@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 879, de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, Art. 15 inciso 2° y 22 N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote de terreno 2, Rol de avalúo 1328-275, Comuna de San Carlos, superficie 475 m2., para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: TALCA - CHILLÁN SECTOR: PASARELA Y PARADEROS SECTOR CHORRILLOS KM. 389.200,00 AL KM. 389.900,00, COMUNA DE SAN CARLOS, PROVINCIA DE PUNILLA, REGIÓN DE ÑUBLE (antes BioBio). La comisión de peritos, integrada por JUAN PABLO CONTRERAS MALLEA, CARMEN GLORIA GATICA VILLARROEL y JAIME ROLANDO JURGENS BITTNER, fijó el valor de tasación con fecha 11 de septiembre de 2018, acordándose la indemnización con su propietario JOSÉ ARMANDO CANDIA AEDO, en la cantidad de $1.417.282.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
