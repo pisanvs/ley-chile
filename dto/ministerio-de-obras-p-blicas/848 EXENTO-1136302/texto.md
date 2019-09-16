@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº848, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 70, para la obra: MEJORAMIENTO RUTA I-45 SECTOR PUENTE NEGRO - LA RUFINA, que figura a nombre de INVERSIONES LA AMALITA LIMITADA, rol de avalúo 412-663, Comuna de SAN FERNANDO, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O’HIGGINS, superficie 1.180 m2. La Comisión de Peritos integrada por ANDRES RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRIQUEZ y MARLENE TERESA RÍOS MARCUELLO, mediante informe de tasación de 31 de octubre de 2018, fijó el monto de la indemnización provisional en la cantidad de $42.891.327 para el lote N°70. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
