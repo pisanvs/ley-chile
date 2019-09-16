@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.930, de fecha 06/09/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012, de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación del inmueble denominado Lote Nº 81-1, consistente en "Terreno ubicado en calle Pedro de Valdivia cero novecientos uno de esta ciudad, Población Lanín, con una superficie de mil novecientos veintidós metros cuadrados", Rol de avalúo 2590-01, comuna de Temuco. La superficie a expropiar aproximada es de 29,76 metros cuadrados, de aparente dominio de Fisco de Chile. Comisión de Peritos designada al efecto, fijó monto de indemnización provisional en $11.026.304, según Informe Nº 81-1, de fecha 04/09/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
