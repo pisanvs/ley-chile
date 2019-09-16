@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº846, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 26-A, para la obra: REPOSICION RUTA 11 CH, S: ARICA TAMBO QUEMADO KM 36-60, que figura a nombre de DAVELSBERG MARAGANO WILFRID, rol de avalúo 3200-4, Comuna de ARICA, REGION DE ARICA Y PARINACOTA, superficie 4.701 m2. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y DIEGO ANDRES ROZAS GALLARDO, mediante informe de tasación de 04 de diciembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $27.615.800 para el lote Nº26-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
