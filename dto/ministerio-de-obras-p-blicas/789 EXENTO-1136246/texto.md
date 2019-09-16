@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 789 de 26 de agosto de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1 para la obra: ACCESO NORTE A CONCEPCIÓN, SECTOR: TRECACURA - AGUA AMARILLA, KM. 50.060,00 A KM. 59.500,00, Región del Bio Bío, comuna de Tomé, inscrito a nombre de FORESTAL ARAUCO S.A., conforme inscripción dominio fojas 500 vuelta número 186, registro año 2004, CBR Tomé, superficie 5.373 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 93 de 13 de mayo de 2019, integrada por Patricia Angélica Morales Rivera, Gabriel Antonio Pantoja Rivera y Dory Gisela Donoso Salgado, fijó con fecha 14 de junio de 2019, el valor provisional de la indemnización en la cantidad de $5.791.717 para el lote N° 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
