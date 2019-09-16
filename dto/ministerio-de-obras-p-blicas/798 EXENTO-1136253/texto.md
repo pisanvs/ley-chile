@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 798, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e), y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N°206, de 1960, se expropió el lote de terreno N° 10, para la obra "MEJORAMIENTO CAMINO BASICO INTERMEDIO 2da FAJA EL VOLCAN", que figura a nombre de ARRIAGADA AVILES RICARDO, rol de avalúo 309-3, Comuna de Villarrica, Región de La Araucanía, superficie 468 m2. La Comisión de Peritos integrada por EVALDO CONTRERAS ROA, YASCHALA MARIBEL YAÑEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de 25 de mayo de 2017, fijó el monto de la indemnización provisional en la cantidad de $3.305.000.- para el lote N° 10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
