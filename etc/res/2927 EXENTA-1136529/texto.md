@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.927 de fecha 06/09/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación parcial del inmueble denominado Lote Nº 175-0, consistente en "Propiedad consistente en el Lote número uno, de una superficie de veintitrés mil ochocientos cincuenta y cinco coma veinticinco metros cuadrados, polígono G, B, S, T, U, B, A’, B’, C’, O, N, M, L, R, I, H, G, resultante de la subdivisión de un inmueble de mayor extensión de tres coma noventa hectáreas de superficie, ubicado en Avenida Pedro de Valdivia, lugar Coihueco, de esta ciudad", Rol de avalúo no registra, comuna de Temuco. La superficie a expropiar aproximada es de 13,53 metros cuadrados, de aparente dominio de Fisco de Chile. Comisión de Peritos designada al efecto, fijó monto de indemnización provisional en $4.894.220, según informe Nº 175-0 de fecha 04/09/2019, pagadero contado.
+
+Director Serviu Región de la Araucanía.
