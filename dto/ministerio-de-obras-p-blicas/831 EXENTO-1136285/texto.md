@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº831, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105 del D.F.L. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 31-C y 34, para la obra: MEJORAMIENTO RUTA R-444 LOS SAUCES LUMACO POR LAS ROZAS , que figura a nombre de HUIRCAMAN TORRES PEDRO Y OTROS y OSCAR NECULPAN, roles de avalúo 212-70 y SIN ROL, Comuna de LUMACO, REGION DE LA ARUCANIA, superficies 830 y 269 m2 respectivamente. La Comisión de Peritos integrada por PABLO ALEJANDRO SEPULVEDA GOMEZ, EVALDO ROBERTO CONTRERAS ROA y YASCHALA MARIBEL YAÑEZ RIFFO, mediante informe de tasación de 06 de septiembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $877.400 para el lote Nº31-C, y $1.749.480 para el lote Nº34. La indemnización se pagará al contado, La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
