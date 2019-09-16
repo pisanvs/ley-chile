@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº849, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 1-A y 30-B, para la obra: MEJORAMIENTO CBI RUTA T-350 S: NIEBLA-LOS MOLINOS, que figura a nombre de NANCO AVILA NOLBERTA y GARAY LIENCURA HERMINDA DORIS, roles de avalúo 2455-6 y 2456-153, Comuna de VALDIVIA, REGION DE LOS RÍOS, superficies 25 y 264 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 12 de noviembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $506.750 para el lote Nº1-A, y $14.658.800 para el lote Nº30-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
