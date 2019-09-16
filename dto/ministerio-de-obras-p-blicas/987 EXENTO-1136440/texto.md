@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 987 de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 12-C, Rol de avalúo 161-684, Comuna de Yerbas Buenas, superficie 183 m2., para la obra MEJORAMIENTO RUTA L-31, SECTOR LA FLORESTA-QUERI, COMUNAS DE COLBUN Y YERBAS BUENAS, PROVINCIA DE LINARES, REGION DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 29 de marzo de 2019, acordándose la indemnización con su propietario EDUARDO ANTONIO VIVANCO ARAVENA, en la cantidad de $1.387.085.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
