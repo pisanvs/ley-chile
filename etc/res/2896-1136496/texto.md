@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.896 de fecha 06/09/19, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y D. S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", SERVIU Región de la Araucanía ordenó la expropiación de parte del Lote Nº 190, individualizado como Producto de la subdivisión del lote Nº 6, ubicado en esta comuna, camino de Temuco a Chol Chol, e inscrito a fojas 5590 Nº 6299 del Registro de Propiedad del Conservador de Bienes Raíces de Temuco del año 1992, surgió entre otros el denominado "Lote 1-5 ubicado en Avenida Pedro de Valdivia Nº 02369 de 197,29 metros cuadrados". Comuna de Temuco, Rol de avalúo 5034-21. La superficie a expropiar aproximada es de 197,29 metros cuadrados, de aparente dominio de don José Guillermo Monsalves Alvarado. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $133.078.902, según Informe Nº 190.0 de fecha 04/09/2019, pagadero Contado.
+
+Director SERVIU Región de la Araucanía.
