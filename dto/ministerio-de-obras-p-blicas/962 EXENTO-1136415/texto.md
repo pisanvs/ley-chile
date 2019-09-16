@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 962 de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 217 y 217-A, Rol de avalúo 208-3, Comuna de Limache, superficies 621 y 246 m2. respectivamente, para la obra REPOSICION PUENTE LO CHAPARRO EN RUTA F-10-G, COMUNA DE LIMACHE, PROVINCIA DE MARGA MARGA, REGION DE VALPARAISO. La comisión de peritos, integrada por CLAUDIA PAOLA ARELLANO GÓMEZ, ENRIQUE ANDRÉS RAMOS GUZMÁN y LUIS PABLO PADILLA VERGARA, fijó el valor de tasación con fechas 30 de junio de 2016 el lote 217 y 20 de marzo de 2017 el lote 217-A, acordándose la indemnización con su propietaria AGRÍCOLA E INVERSIONES QUEIROLO LIMITADA, en la cantidad de $8.582.616.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
