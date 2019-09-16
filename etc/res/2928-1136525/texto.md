@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.928 de fecha 06/09/19, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", SERVIU Región de la Araucanía ordenó la expropiación de parte del Lote Nº 224-0, individualizado como Inmueble del lugar Villa Los Laureles, Avenida Pedro de Valdivia cero dos mil novecientos cuarenta, de una superficie aproximada de ciento ochenta y cinco coma sesenta y dos metros cuadrados, que corresponde al sitio uno de la manzana tres. Comuna de Temuco, Rol de avalúo 5053-12. La superficie a expropiar aproximada es de 5,33 metros cuadrados, de aparente dominio de don Rolando Chigualaf Curiche. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $3.517.868 según Informe Nº 224-0 de fecha 04/09/2019, pagadero Contado.
+
+Director SERVIU Región de la Araucanía.
