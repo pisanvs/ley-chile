@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 2.893, de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 185, consistente en Inmueble consiste en sitio y casa ubicado en Temuco, calle Charaña N° 0570, Temuco, y que corresponde al sitio N° 11 del sector B del plano de loteo de la propiedad. Comuna de Temuco, Rol de avalúo 5031-107. La superficie a expropiar aproximada es de 217,22 metros cuadrados, de aparente dominio de doña Ilze Erita Arellano Cabrera. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $62.515.321, según Informe N° 185-0 de fecha 04/09/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
