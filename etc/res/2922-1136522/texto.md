@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.922, de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012, de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 221-0, individualizado como lugar, camino a Chol Chol kilómetro 4, de la comuna de Temuco, Provincia de Cautín, Región de la Araucanía. Comuna de Temuco, Rol de avalúo 3201-55. La superficie a expropiar aproximada es de 1.216,87 metros cuadrados, de aparente dominio de don Mateo Huaiqueo Buchacura. Comisión de Peritos designada al efecto, fijó monto de indemnización provisional en $118.232.356, según Informe Nº 221-0, de fecha 04/09/2019, pagadero contado.
+
+Director Serviu Región de la Araucanía.
