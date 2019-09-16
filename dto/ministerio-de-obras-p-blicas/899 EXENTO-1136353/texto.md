@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 899 de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 189-B, Rol de avalúo 3718-3, Comuna de Talca, superficie 1.839 m2., para la obra CAMINO AMPLIACIÓN REPOSICIÓN RUTA 115-CH, SECTOR TALCA – SAN CLEMENTE, TRAMO I TALCA – VARIANTE SAN CLEMENTE, KILÓMETRO 0,00000 A KM. 13,92941, COMUNA TALCA – SAN CLEMENTE, PROVINCIA DE TALCA, REGIÓN DEL MAULE. La comisión de peritos, integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y RODRIGO ALEXIS ESCOBAR FERNANDEZ, fijó el valor de tasación con fecha 20 de julio de 2018, acordándose la indemnización con su propietario CARLOS EUGENIO SEPULVEDA GESSWEIN, en la cantidad de $20.073.053.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
