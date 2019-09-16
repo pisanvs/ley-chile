@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 995, de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 2, Rol de avalúo 1239-112, Comuna de Ancud, superficie 2.652 m2., para la obra: REPOSICIÓN PUENTE QUILO EN RUTA W-20, COMUNA DE ANCUD, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y CARMEN PILAR RÍOS MARCUELLO, fijó el valor de tasación con fecha 09 de marzo de 2018, acordándose la indemnización con sus propietarios SANTIAGO DEL CARMEN SEGURA HERNÁNDEZ Y OTRO, en la cantidad total de $7.333.048.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
