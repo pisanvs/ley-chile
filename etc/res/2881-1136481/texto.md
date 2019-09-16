@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 2.881, de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 210-0, consistente en Propiedad ubicada en Temuco, calle Pedro de Valdivia número cero dos mil ochocientos cinco, que corresponde al sitio número doscientos ocho del conjunto habitacional Villa Arquenco. Comuna de Temuco, Rol de avalúo 5067-55. La superficie a expropiar aproximada es de 12,82 metros cuadrados, de aparente dominio de don Luis Ronny Carrasco Contreras. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $46.385.605, según Informe N° 210-0 de fecha 04/09/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
