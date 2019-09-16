@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.180, de fecha 28 de agosto de 2019, se ordenó la expropiación Total, conforme a las normas del decreto Ley Nº 2.186 de 1978, del denominado Lote NºTER-P6, correspondiente al inmueble ubicado en Los Naranjos 0175 ST 770 Casas Viejas, Rol de Avalúo N° 4548-8, de la Comuna de Puente Alto, Región Metropolitana, de aparente dominio de Inmobiliaria Costa Azul S.A., con una superficie aproximada de 970 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Expropiaciones Inmuebles Destinados a Terminales de Locomoción Colectiva". La Comisión de Peritos integrada por los señores Juan Sóhrens Péndola, Arquitecto; Karine Acevedo Hinojosa, Constructor Civil y Mónica Conejeros Rudloff, Ingeniero Agrónomo, mediante Informe de fecha 26 de agosto de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $108.365.647, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
