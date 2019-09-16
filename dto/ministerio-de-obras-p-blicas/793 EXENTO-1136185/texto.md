@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 793, de 26 de agosto de 2019, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº562, de 28 de junio de 2018, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización de los lotes de terreno Nºs 1 y 2, expropiados con motivo de la obra: "Reposición Puente Gómez N°3 en Ruta V-86 Comuna de Puerto Montt", Región de Los Lagos. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 10 de agosto de 2015, ascendente a las cantidades $170.800, para el lote N°1 y $90.000, para el lote N°2.
