@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 4.185, de fecha 28 de agosto de 2019, se ordenó la expropiación Total, conforme a las normas del decreto ley N° 2.186 de 1978, del denominado Lote N°TER-Q4, correspondiente al inmueble ubicado en Antillanca 361, Rol de Avalúo N° 1001-18, de la Comuna de Quilicura, Región Metropolitana, de aparente dominio de Cia Petróleos de Chile Copec S.A., con una superficie aproximada de 4098,55 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Expropiaciones Inmuebles Destinados a Terminales de Locomoción Colectiva". La Comisión de Peritos integrada por los señores Gustavo Picero García, Arquitecto; Jesús Díaz Pasmiño, Ingeniero Civil y Mufida Abuawad Elias, Arquitecto, mediante Informe de fecha 26 de agosto de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $618.270.700, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2.186 de 1978.-
+
+Director Serviu Metropolitano.
