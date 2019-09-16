@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº803, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e), y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 233, para la obra: REPOSICION PUENTES EN RUTA G-16: CHICAUMA, VENTARRON, EL ATAJO, LOS QUILOS, EL NARANJO, EL ESCORIAL Y RUNGUE., que figura a nombre de ASOCIACION DE CANALISTAS DEL EMBALSE RUNGUE, inscripción de fs.33808, Nº50980, CBR SANTIAGO, AÑO 2014, Comuna de TIL TIL, REGION METROPOLITANA DE SANTIAGO, superficie 2.141 m2. La Comisión de Peritos integrada por DOUGLAS MAXIMILIANO HERRERA FLORES, NORMAN ESTANISLAO CALDERON PONTIGGIA y NESTOR ALVARO ABELLO RODRIGUEZ, mediante informe de tasación de 16 de mayo de 2018, fijó el monto de la indemnización provisional en la cantidad de $7.973.500 para el lote Nº233. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
