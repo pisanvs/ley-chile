@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº830, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 213 y 214, para la obra: MEJORAMIENTO Y CONSTRUCCIÓN RUTA CORRAL-VALDIVIA(PENÍNSULA SN.RAMON), que figura a nombre de MORALES HUICHAMAN MARIA ORIANA y MORALES HUICHAMAN MARIA, roles de avalúo 80-164 y 80-163, Comuna de CORRAL, REGION DE LOS RIOS, superficies 4.403 y 2.266 m2 respectivamente. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERON PONTIGGIA, PAULO DIAZ VERGARA y MARIA ISABEL RIOS MARCUELLO, mediante informe de tasación de 14 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $11.831.450 para el lote Nº213, y $8.059.340 para el lote Nº214. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
