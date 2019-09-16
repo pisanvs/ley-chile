@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 2.916 de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 181, consistente en Inmueble ubicado pasaje Los Tamarugos número 02310, que corresponde al sitio número Uno del plano de loteo Villa Pampa de la ciudad de Temuco, Comuna de Temuco, Rol de avalúo 5031-104. La superficie a expropiar aproximada es de 216,63 metros cuadrados, de aparente dominio de don Ramos Eduardo Acuña Ortiz. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $56.696.513, según Informe N° 181-0 de fecha 04/09/2019, pagadero contado.
+
+Director Serviu Región de la Araucanía.
