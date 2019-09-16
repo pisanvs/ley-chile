@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.894 de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 187, consistente en inmueble ubicado en Avenida Pedro de Valdivia Nº 02345 de la comuna de Temuco, que corresponde al sitio Nº 12 del sector A del plano, de una superficie de 174,25 metros cuadrados. Comuna de Temuco, Rol de avalúo 05031-100. La superficie a expropiar aproximada es de 174,25 metros cuadrados, de aparente dominio de doña Olly Emilia Hetz Juárez. Comisión de Peritos designada al efecto, fijó monto de indemnización provisional en $54.446.211, según informe Nº 187-0 de fecha 04/09/2019, pagadero contado.
+
+Director Serviu Región de la Araucanía.
