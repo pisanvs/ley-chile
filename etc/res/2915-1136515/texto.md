@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 2.915, de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012, de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 182, consistente en el inmueble consiste en sitio y casa ubicado en Temuco, pasaje Los Tamarugos N° 02325, de la comuna de Temuco, y que corresponde al sitio N° 5 del sector B del plano de loteo de la hijuela Dos Hectáreas veintiséis áreas, ubicada en el lugar Colico de la comuna y departamento de Temuco. Comuna de Temuco, Rol de avalúo 5031-105. La superficie a expropiar aproximada es de 174,44 metros cuadrados, de aparente dominio de don Luis Humberto Castillo Gallardo. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $70.908.772, según Informe N° 182-0 de fecha 04/09/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
