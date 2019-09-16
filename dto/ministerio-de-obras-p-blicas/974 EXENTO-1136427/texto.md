@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 974, de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 40, Rol de avalúo 1516-446, Comuna de Combarbalá, superficie 359 m2., para la obra MEJORAMIENTO RUTA D-605, SECTOR PUNITAQUI-MANQUEHUA, COMUNA DE COMBARBALA, PUNITAQUI, PROVINCIA DE LIMARI, REGION DE COQUIMBO. La comisión de peritos, integrada por LUIS FELIPE MUÑOZ CARVAJAL, VALERIA FRANCISCA MADARIAGA TORDECILLA y PABLO JAVIER FLORES SALINAS, fijó el valor de tasación con fecha 21 de junio de 2018, complementado por acta de 6 de agosto de 2019, acordándose la indemnización con su propietaria Clara Ercira Alfaro Carvajal, en la cantidad de $11.563.690.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.-
+
+Fiscalía MOP.
