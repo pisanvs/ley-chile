@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 889 de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 63, Rol de avalúo 61-43, Comuna de Placilla, superficie 13.266 m2., para la obra AMPLIACIÓN REPOSICIÓN RUTA 90, SECTOR CRUCE I-860 MANANTIALES – ACCESO A PLACILLA, COMUNA DE PLACILLA, PROVINCIA DE COLCHAGUA, REGION DEL LIBERTADOR GENERAL BERNARDO O´HIGGINS. La comisión de peritos, integrada por ANDRES RAINER SCHULZ VILLANUEVA, ROBERT GERARD MICHAEL HILLARD JORQUERA y ALEJANDRO GREGORIO PADILLA HENRIQUEZ, fijó el valor de tasación con fecha 09 de marzo de 2018, acordándose la indemnización con su propietaria AGRÍCOLA CASAGRANDE SPA, en la cantidad de $122.043.435.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
