@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 801, de 26 de agosto de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. N°206, de 1960, se expropió el lote de terreno N° 62, para la obra "Reposición Pav. Ruta M-50, sector Chanco - Constitución", Tramo III Pellines - Cruce Viñales, kilómetro 78,36200 a km. 100,90000, que figura a nombre de DUMONT ANDRADES JULIO ENRIQUE Y OTR, rol de avalúo 900-30, Comuna de Constitución, Región del Maule, superficie 87 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURÁN MARCOS, RODRIGO ANTONIO SILVA LAZO y PAULA SOLEDAD GONZÁLEZ ORTEGA, mediante informe de tasación de 12 de septiembre de 2014, fijó el monto de la indemnización provisional en la cantidad de $1.726.117.- para el lote N° 62. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
