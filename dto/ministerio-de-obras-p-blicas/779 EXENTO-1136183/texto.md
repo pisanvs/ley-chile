@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 779, de 26 de agosto de 2019, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº 139, de 26 de marzo de 2019, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº 176, expropiado con motivo de la obra: "Reposición Ruta 148, Sector: Cruce Ruta 5 - Puente Queime", Comuna de Quillón, Provincia de Diguillín, Región de Ñuble, Antes Región del Biobío. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 03 de junio de 2017, ascendente a la cantidad $490.056.-, para el lote Nº176.
