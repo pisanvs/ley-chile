@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 975, de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 91-D, Rol de avalúo 166-41, Comuna de Chonchi, superficie 422 m2., para la obra: CONSTRUCCIÓN BY PASS CASTRO EN CHILOÉ, COMUNAS DE CASTRO Y CHONCHI, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y CARMEN PILAR RÍOS MARCUELLO, fijó el valor de tasación con fecha 05 de enero de 2018, acordándose la indemnización con su propietario ANTONIO CHAURA MIRANDA, en la cantidad total de $6.543.459.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
