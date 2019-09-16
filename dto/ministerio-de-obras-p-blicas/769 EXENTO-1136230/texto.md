@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 769, de 09 de agosto de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. N°206, de 1960, se expropió el lote de terreno N° 42, para la obra "Mejoramiento Ruta K-705, sector Cr. Ruta K-715 - Vilches Alto", tramo kilómetro 11,70000 a Km. 27,23000, que figura a nombre de SUC IGNACIO AYALA AYALA, rol de avalúo 168-29, Comuna de San Clemente, Región del Maule, superficie 748 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURÁN MARCOS, RODRIGO ANTONIO SILVA LAZO y PAULA SOLEDAD GONZÁLEZ ORTEGA, mediante informe de tasación de 23 de julio de 2014, , fijó el monto de la indemnización provisional en la cantidad de $8.859.236.- para el lote N° 42. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
