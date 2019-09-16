@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.888 de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 170-0 Propiedad consistente en el sitio y casa ubicada en calle/pasaje Pedro de Valdivia Nº 02151 de la Villa Andina, de la comuna de Temuco, Rol de avalúo 0500-62. La superficie a expropiar aproximada es de 0,85 metros cuadrados, de aparente dominio de Agustina del Carmen Morán Sepúlveda. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $209.001, según Informe Nº 170.0 de fecha 04/09/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
