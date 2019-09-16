@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 880, de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y el DFL MOP N° 206, de 1960, se expropió el lote de terreno 1, Rol de avalúo 711-34, Comuna de Chol Chol, superficie 1.421 m2., para la obra: SISTEMA DE AGUA POTABLE RURAL PIHUICHEN, COMUNA DE CHOL CHOL, PROVINCIA DE CAUTÍN, REGION DE LA ARAUCANIA. La comisión de peritos, integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, RAMÓN LUIS MARIN FRANZ y CONSTANZA CAMILA VASQUEZ MUÑOZ, fijó el valor de tasación con fecha 21 de marzo de 2019, acordándose la indemnización con su propietaria MARÍA LUISA PAINEL LLANCANAO, en la cantidad de $3.904.167.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
