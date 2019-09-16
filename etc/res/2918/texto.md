@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución N° 2.918, de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012, de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote N° 188, consistente en Inmueble consiste en sitio y casa ubicado en calle Pedro de Valdivia N° 02355 de la comuna de Temuco y que corresponde al sitio N° 13, del sector A del plano de loteo de la propiedad. Comuna de Temuco, Rol de avalúo 5031-101. La superficie a expropiar aproximada es de 171,54 metros cuadrados, de aparente dominio de don Hugo Hernán Barrales Sandoval. Comisión de Peritos designada al efecto, fijó monto de indemnización provisional en $61.775.955, según Informe N° 188-0, de fecha 04/09/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
