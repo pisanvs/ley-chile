@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 933, de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 73-C, Rol de avalúo 1204-151, Comuna de Castro, superficie 778 m2., para la obra: CONSTRUCCIÓN BY PASS CASTRO EN CHILOÉ, COMUNA DE CASTRO, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRÉS ECHEVERRÍA CAMPO y CARMEN PILAR RÍOS MARCUELLO, fijó el valor de tasación con fecha 10 de julio de 2017, acordándose la indemnización con sus propietarios NELSON DANIEL DEL ROSARIO OYARZÚN TORRES Y OTROS, en la cantidad total de $2.008.782.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
