@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 990, de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 162-A y 162-B1, Rol de avalúo 2238-178, Comuna de Osorno, superficies 12 y 299 m2., para la obra: CAMINO REPOSICIÓN RUTA 215-CH, SECTOR BIFURCACIÓN AEROPUERTO CARLOS HOTT – CRUCE LAS LUMAS, TRAMO KM. 3,99292 AL KM. 21,80000, PROVINCIA DE OSORNO, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por LEOPOLDO SCHUMACHER GUARDA, JUAN SAMUEL BARRIENTOS BAHAMONDE y JUAN CELESTINO GIOVANNINI MANSILLA, fijó el valor de tasación con fecha 28 de diciembre de 2012 (lote 162-A) y con fecha 18 de marzo de 2015 (lote 162-B1), complementados por Actas de 26 de junio de 2015, acordándose la indemnización con su propietario JUAN CARLOS GÓMEZ RUIZ, en la cantidad total de $3.683.453.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
