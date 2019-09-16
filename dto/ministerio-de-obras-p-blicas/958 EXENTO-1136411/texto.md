@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 958 de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 40, Rol de avalúo 2244-79, Comuna de Puyehue, superficie 71 m2., para la obra REPOSICION PAVIMENTO RUTA 215-CH, SECTOR: LAS LUMAS - ENTRE LAGOS, COMUNA DE PUYEHUE, PROVINCIA DE OSORNO, REGION DE LOS LAGOS. La comisión de peritos, integrada por ENRIQUE EDGARDO HOELCK ALTMANN, NELSON BERNARDO TURRA TURRA y JUAN CELESTINO GIOVANNINI MANSILLA, fijó el valor de tasación con fecha 24 de marzo de 2016, acordándose la indemnización con su propietario JOSÉ ORLANDO ESCOBAR BURGOS, en la cantidad de $582.740.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
