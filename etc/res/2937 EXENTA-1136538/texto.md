@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.937, de fecha 06/09/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012, de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación del inmueble denominado Lote Nº 198-0, consistente en "Inmueble ubicado en Avenida Pedro de Valdivia número 02350 de la ciudad de Temuco", Rol de avalúo 05037-00022, comuna de Temuco. La superficie a expropiar aproximada es de 171,17 metros cuadrados, de aparente dominio de Iglesia Metodista Pentecostal de Chile. Comisión de Peritos designada al efecto, fijó monto de indemnización provisional en $24.271.055, según Informe Nº 198-0, de fecha 04/09/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
