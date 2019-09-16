@@ -1,0 +1,5 @@
+EXTRACTO
+
+Conforme DS Nº 200, de fecha 6 de mayo de 2019, del Ministerio de Defensa Nacional, Isabel Margarita Urzúa Millán, chilena, RUN 6.521.712-0, soltera, factor de comercio, domiciliada Tamarindos Nº 38, Concón, concesionaria marítima menor, segunda renovación, SIABC Nº 36.438 de 31 agosto 2016, Sector de Playa, ubicada Sector Costa Brava, comuna Concón, provincia y Región Valparaíso, superficie 25 mts. cuadrados. Continuar usufructuando y amparando construcción de cañería aductora agua mar 16 m2 y caseta de piedra que guarnece motobomba 9 m2, para dar baños calientes de mar en centro turístico en propiedad de concesionaria. Antecedentes solicitud Carpeta Capitanía de Puerto Valparaíso a disposición del público. Visación de Capitanía de Puerto de Valparaíso.-
+
+Daniel González Salinas, Capitán de Fragata LT, Capitán de Puerto de Valparaíso.
