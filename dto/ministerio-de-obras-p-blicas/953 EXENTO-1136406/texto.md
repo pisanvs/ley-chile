@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 953 de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 9, 10, 11 y 12, Rol de avalúo 212-129, Comuna de Santa Bárbara, superficies 4.953, 4.448, 820 y 797 m2. respectivamente, para la obra REPOSICION PUENTE DUQUECO, COMUNA DE SANTA BARBARA, QUILLECO, PROVINCIA DE BIOBÍO, REGIÓN DEL BIOBÍO. La comisión de peritos, integrada por CONSUELO LORETO ZULOAGA SANHUEZA, GONZALO ANDRÉS SUAZO FIGUEROA y MARIA PAMELA MAC-GUIRE ACEVEDO, fijó el valor de tasación con fecha 05 de noviembre de 2018, acordándose la indemnización con su propietaria INVERSIONES LAS LOICAS LIMITADA, en la cantidad de $22.898.535.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
