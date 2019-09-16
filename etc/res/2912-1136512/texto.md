@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.912 de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 163-0 y 164-0 "Sitios números veintinueve y treinta del plano de Loteo de un predio ubicado en la calle Pedro de Valdivia, camino de Temuco a Chol-Chol, formado por los lotes B. C. y D., de acuerdo al plano archivado en este Conservador bajo el número treinta y cuatro en el año mil novecientos ochenta y uno, comuna de Temuco, Rol de avalúo 2873-01 y 2873-2. La superficie a expropiar aproximada es de 135,55 metros cuadrados, de aparente dominio de Domingo Huente Huete. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $83.819.165, según Informe Nº 163-0 y 164-0 de fecha 04/09/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
