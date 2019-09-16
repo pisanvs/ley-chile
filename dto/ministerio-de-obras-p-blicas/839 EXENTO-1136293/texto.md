@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº839, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 10 y 11, para la obra: MEJORAMIENTO TORO BAYO-CURIÑANCO EN RUTA T-340, que figura a nombre de INVERSIONES LIBRA G LTDA, rol de avalúo 2435-57, Comuna de VALDIVIA, REGION DE LOS RÍOS, superficies 144 y 178 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 20 de julio de 2017, fijó el monto de la indemnización provisional en la cantidad de $7.484.400 para el lote Nº10, y $9.199.800 para el lote Nº11. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
