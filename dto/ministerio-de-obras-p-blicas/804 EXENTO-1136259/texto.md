@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº804, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra e), 14º letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 136, para la obra: REPOSICION PAVIMENTO RUTA G-150: PANAMERICANA-LAMPA, que figura a nombre de COM AGUA POTABLE RURAL NVO PORVENIR, rol de avalúo 62-783, Comuna de LAMPA, REGIÓN METROPOLITANA DE SANTIAGO, superficie 72 m2. La Comisión de Peritos integrada por DOUGLAS MAXIMILIANO HERRERA FLORES, NORMAN ESTANISLAO CALDERON PONTIGGIA y CAROLINA ALEJANDRA BRITO RAMOS, mediante informe de tasación de 18 de mayo de 2016, fijó el monto de la indemnización provisional en la cantidad de $6.027.500 para el lote Nº136. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
