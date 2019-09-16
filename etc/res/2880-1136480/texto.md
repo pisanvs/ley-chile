@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.880 de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 209-1, consistente en Propiedad ubicada en pasaje Trayén número cero seiscientos setenta y cinco, que corresponde al sitio número doscientos setenta y siete, del loteo Villa Arquenco II Etapa, de esta ciudad. Comuna de Temuco, Rol de avalúo 5060-7. La superficie a expropiar aproximada es de 62,17 metros cuadrados, de aparente dominio de doña Roderlinda del Carmen Calderón Galdames. Comisión de Peritos designada al efecto, fijó monto de indemnización provisional en $42.200.502, según informe Nº 209-1 de fecha 04/09/2019, pagadero contado.
+
+Director Serviu Región de la Araucanía.
