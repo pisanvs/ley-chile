@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.908 de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 179 del sitio número Uno-A de una superficie aproximada de 243,4 metros cuadrados, resultante de la subdivisión del inmueble ubicado en el lugar Colico, comuna de Temuco, Rol de avalúo 5029-3. La superficie a expropiar aproximada es de 200,38 metros cuadrados, de aparente dominio de Juan René Escobar Riquelme. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $21.469.129.- según Informe Nº 179 de fecha 04/09/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
