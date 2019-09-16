@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 850, de 26 de agosto de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. N°206, de 1960, se expropió el lote de terreno N° 181-A, para la obra "CAMINO AMPLIACIÓN REPOSICIÓN RUTA 115-CH, SECTOR TALCA - SAN CLEMENTE, TRAMO I TALCA - VARIANTE SAN CLEMENTE KILOMETRO 0,00000 A KM 13,92941", que figura a nombre de MOYA CONTRERAS MARIA JOVITA, rol de avalúo 3825-8, Comuna de TALCA, REGIÓN DEL MAULE, superficie 11 m2. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMÁN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y RODRIGO ALEXIS ESCOBAR FERNANDEZ, mediante informe de tasación de 09 de noviembre de 2016, fijó el monto de la indemnización provisional en la cantidad de $86.625.- para el lote N° 181-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
