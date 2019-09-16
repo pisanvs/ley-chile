@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 968 de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 8-D, Rol de avalúo 177-262, Comuna de Casablanca, superficie 127 m2., para la obra MEJORAMIENTO RUTA F-50, SECTOR LO OROZCO-QUILPUE, TRAMO 1: KM. 0,00000 A KM. 11,90000, COMUNA DE CASABLANCA, PROVINCIA DE VALPARAÍSO, REGIÓN DE VALPARAÍSO. La comisión de peritos, integrada por ORLANDO FARIÑA VÁSQUEZ, IRMA ELIANA DÍAZ RIVEROS y NORMAN CALDERÓN PONTIGGIA, fijó el valor de tasación con fecha 25 de octubre de 2016, acordándose la indemnización con su propietaria Lorena del Carmen Ugalde Lobos, en la cantidad de $2.018.277.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
