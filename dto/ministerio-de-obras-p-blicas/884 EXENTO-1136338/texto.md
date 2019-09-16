@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP Exento N° 884, de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el Art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 47, Rol de avalúo 1171-72, Comuna de Ancud, superficie 481 m2., para la obra: MEJORAMIENTO RUTAS W-135-125, SECTOR: RAMPA CHACAO - LINAO, COMUNA DE ANCUD, PROVINCIA DE CHILOÉ, REGIÓN DE LOS LAGOS. La comisión de peritos, integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, JUAN SAMUEL BARRIENTOS BAHAMONDE y CHRISTIAN EMIL RAUCH YÁÑEZ, fijó el valor de tasación con fecha 12 de junio de 2015, complementada por Acta de 08 de marzo de 2019, acordándose la indemnización con su propietaria LUCY DEL CARMEN CÁRCAMO MILLÁN, en la cantidad total de $2.308.570.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
