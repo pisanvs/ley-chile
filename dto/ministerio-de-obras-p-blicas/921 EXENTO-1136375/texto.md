@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 921 de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 15 y 16, Rol de avalúo 105-31, Comuna de Coihueco, superficies 542 y 278 m2. respectivamente, para la obra MEJORAMIENTO RUTA N-51 Y N-47, SECTOR COIHUECO – PINTO, COMUNA DE COIHUECO, PROVINCIA DE ÑUBLE, REGIÓN DEL BIOBÍO. ACTUAL PROVINCIA DE PUNILLA, REGIÓN DE ÑUBLE. La comisión de peritos, integrada por ROXANA CECILIA ABARZÚA GAJARDO, GONZALO ANDRÉS SUAZO FIGUEROA y MARIA PAMELA MAC-GUIRE ACEVEDO, fijó el valor de tasación con fecha 03 de noviembre de 2017, acordándose la indemnización con su propietario CARLOS ALBERTO FERRADA SEPULVEDA, en la cantidad de $8.381.727.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
