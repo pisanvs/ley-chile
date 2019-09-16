@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº809, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 172, 173 y 174, para la obra: MEJORAMIENTO Y CONSTRUCCIÓN RUTA CORRAL-VALDIVIA(PENÍNSULA SN.RAMON), que figura a nombre de INMOBILIARIA LUIS VASQUEZ EMPRES, roles de avalúo 102-23, 102-19 y 102-20, Comuna de CORRAL, REGION DE LOS RÍOS, superficies 21.602, 1.482 y 1.580 m2 respectivamente. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERON PONTIGGIA, PAULO DIAZ VERGARA y MARIA ISABEL RIOS MARCUELLO, mediante informe de tasación de 14 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $97.369.790 para el lote N°172, $2.741.700 para el lote N°173, y $6.236.000 para el lote N°174. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
