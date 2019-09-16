@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.931 de fecha 06/09/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Inmueble rural ubicado en Coihueco, comuna de Temuco, provincia de Cautín, Novena Región, Rol de avalúo 3205133, comuna de Temuco. La superficie a expropiar aproximada es de 1.341,97 metros cuadrados, de aparente dominio de María Justina Pino Lavado; José Ruperto Pino Lavado; María Mercedes Pino Lavado; Ángel Egidio Pino Lavado; Juana Cruz Pino Lavado; Eduardo Humberto Pino Lavado; Mireya del Carmen Pino Lavado; Magdalena del Rosario Pino Lavado; Regina Luz Pino Lavado; Hernán Pelayo Pino Lavado; Luis Reinaldo Pino Lavado; María José Muñoz Reyes; Patricia del Carmen Tapia Pino; Ricardo Esteban Pino Aravena y Marianela de los Ángeles Pino Aravena. Comisión de Peritos fijó monto de Indemnización Provisional en $86.818.371 según Informe Nº 02-0 de fecha 04/09/2019, pagadero Contado.-
+
+Director Serviu Región de la Araucanía.
