@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 894, de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 27, 28, 28-A y 29, Rol de avalúo 2464-4, Comuna de Valdivia, superficies 2.909, 3.270, 994 y 2.319 m2., para la obra: MEJORAMIENTO CBI STA. ELVIRA – EL ARENAL – SAN JAVIER, TRAMO 2, COMUNA Y PROVINCIA DE VALDIVIA, REGIÓN DE LOS RÍOS. La comisión de peritos, integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YAÑEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, fijó el valor de tasación con fecha 16 de septiembre de 2016 (lotes 27, 28 y 29) y con fecha 18 de julio de 2018 (lote 28-A), acordándose la indemnización con su propietaria SOCIEDAD COMERCIAL E INVERSIONES HOLZ S.A., en la cantidad total de $106.541.677.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
