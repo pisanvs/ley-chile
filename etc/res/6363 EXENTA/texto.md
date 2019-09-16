@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 6.363, de 4 de septiembre de 2019, Serviu Región de Valparaíso, dispuesto expropiación conforme al artículo 51 ley 16.391 y decreto ley 2.186, de 1978, del inmueble signado como lote 19, en el plano "Proyecto de Expropiaciones DRS-P N° 12192" Lámina 19 de 22, comuna de San Felipe, para la Ejecución del Proyecto "Circunvalación San Felipe Tramo G: Michimalongo; Entre Calles 12 de Febrero y Circunvalación Oriente, Comuna de San Felipe" Presunto dominio de Isabel Olmedo Chacón y Otros, Rol avalúo 139-64. Comisión Tasadora integrada por Jorge Humberto Olguín de la Oceja; Felipa Andrea Fischer Collado y Andrea Alejandra Olguín de la Oceja, según informe de 2018, fijó monto indemnización provisional en $34.969.048.- que será pagada al contado.-
+
+Director Serviu.
