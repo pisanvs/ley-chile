@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento Nº 964, de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 9, 10 y 11-A, Rol de avalúo 1383-23, Comuna de Angol, superficies 137, 643 y 22 m2., para la obra: MEJORAMIENTO CBI RUTA R-150-P, ANGOL - PARQUE NACIONAL NAHUELBUTA, COMUNA DE ANGOL, PROVINCIA DE MALLECO, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por PABLO ALEX MANSILLA ARAVENA, ELENA PILAR FRITZ AGÜERO y DORY GISELA DONOSO SALGADO, fijó el valor de tasación con fecha 28 de abril de 2017 (lotes 9 y 10) y con fecha 25 de junio de 2018 (lote 11-A), acordándose la indemnización con sus propietarias FRANCISCA JAVIERA JARPA SERRA Y OTRAS, en la cantidad total de $3.133.772.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
