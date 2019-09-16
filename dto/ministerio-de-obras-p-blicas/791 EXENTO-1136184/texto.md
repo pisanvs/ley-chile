@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 791 de 26 de agosto de 2019, se tuvo por desistida la expropiación del lote de terreno Nº 23, ordenada por Decreto Exento MOP Nº 489 de 26 de mayo de 2003, para la obra "Proyecto Sistema Américo Vespucio Sur. Ruta 78 - Av. Grecia. Sector 1 Av. General Velásquez - Ruta 78", Región Metropolitana de Santiago, comuna de Cerrillos. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7º y 32º del Decreto Ley Nº 2186, de 1978.
