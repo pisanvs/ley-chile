@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº749, de 09 de agosto de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 60, para la obra: "CONSTRUCCIÓN CAMINO RUTA W-807, SECTOR: PTE. NEGRO - PTE. AQUELLAS", COMUNA DE CHAITÉN, PROVINCIA DE PALENA, REGIÓN DE LOS LAGOS, que figura a nombre de SOTO SOTO PABLO GILBERTO, rol de avalúo 202-257, Comuna de CHAITEN, REGION DE LOS LAGOS, superficie 2.956 m2. La Comisión de Peritos integrada por CARLOS EUGENIO MERA SANTIBAÑEZ, ENRIQUE EDGARDO HOELCK ALTMANN y JUAN CELESTINO GIOVANNINI MANSILLA, mediante informe de tasación de 10 de enero de 2017, fijó el monto de la indemnización provisional en la cantidad de $1.343.200, para el lote Nº60. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
