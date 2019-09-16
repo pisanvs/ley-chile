@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 192 de fecha 29 de abril de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Aguas Claras S.A., RUT Nº 96.509.550-0, segunda renovación de concesión marítima menor, con vencimiento el 31 de diciembre de 2023, sobre un sector playa y fondo de mar, en el lugar denominado La Vega, comuna de Calbuco, provincia de Llanquihue, Región de Los Lagos, con una superficie total de 61,836 m2, la que fue tramitada con el SIABC Nº 35.274. A modo referencial se señala la siguiente coordenada geográfica: Latitud (S) 41º 47'11,46"; Longitud (W) 73º 08' 09,59". El objeto consiste en continuar amparando y usufructuando la instalación de una cañería de desagüe para la evacuación de las aguas de proceso. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Calbuco. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Jonathan Dimter Muñoz, Capitán de Corbeta LT, Capitán de Puerto Calbuco.
