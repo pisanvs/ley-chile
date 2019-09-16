@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº741, de 09 de agosto de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105º del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 26, 27, 28, 29 y 30, para la obra: REPOSICION RUTAS T-47 Y T-45: CHOSHUENCO-RIÑIHUE, que figura a nombre de LUKSBURG FOUNDATION, rol de avalúo 207-8, , Comuna de PANGUIPULLI, REGION DE LOS RÍOS, superficies 7.802, 166, 142, 1.298 y 6.833 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 23 de octubre de 2017, fijó el monto de la indemnización provisional en la cantidad de $16.722.700 para el lote Nº26, $290.500 para el lote Nº27, $1.065.300 para el lote Nº28, $6.534.200 para el lote Nº29, y $15.029.050 para el lote Nº30. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
