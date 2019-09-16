@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 2.934 de fecha 06/09/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación del inmueble denominado Lote Nº 207, consistente en "Hijuela Nº5 de 3,33 hectáreas de superficie del plano divisorio del predio encabezado por don Huete Rucan del lugar Ralum Coyam, comuna de Temuco", Rol de avalúo 3201-60, comuna de Temuco. La superficie a expropiar aproximada es de 1.384,59 metros cuadrados, de aparente dominio de Luis Segundo Curihual Nahuel, Antonio Eduardo Curihual Nahuel, Ricardo Curihual Nahuel, Víctor Ricardo Curihual Nahuel, Herminio Curihual Nahuel, Sergio Curihual Nahuel, Armando Curihual Nahuel y Juan Antonio Curihual Nahuel. Comisión de Peritos designada al efecto, fijó monto de indemnización provisional en $973.861.354, según informe Nº 207 de fecha 04/09/2019, pagadero contado.
+
+Director Serviu Región de la Araucanía.
