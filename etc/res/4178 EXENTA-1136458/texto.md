@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.178, de fecha 28 de agosto de 2019, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº TER-H3, correspondiente al inmueble ubicado en Av. El Salto 4651, Rol de Avalúo Nº 6049-5, de la Comuna de Huechuraba, Región Metropolitana, de aparente dominio de Banco de Crédito e Inversiones, con una superficie aproximada de 17000 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Expropiaciones Inmuebles Destinados a Terminales de Locomoción Colectiva". La Comisión de Peritos integrada por los señores Mónica Conejeros Rudloff, Ingeniero Agrónomo; Sergio Jeremías Ordenes Salinas, Ingeniero Civil y Karine Acevedo Hinojosa, Constructor Civil, mediante Informe de fecha 26 de agosto de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $4.978.713.210, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
