@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 902 de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 12-G, 12-H, 12-I, 12-J y 12-K, Rol de avalúo 641-279, Comuna de Molina, superficies 95, 568, 219, 313 y 258 m2. respectivamente, para la obra MEJORAMIENTO RUTA K-275, SECTOR LAS TRANCAS-PARQUE INGLES, COMUNA DE MOLINA Y RIO CLARO, PROVINCIA DE CURICO Y TALCA, REGION DEL MAULE. La comisión de peritos, integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, fijó el valor de tasación con fecha 09 de diciembre de 2017, acordándose la indemnización con sus propietarios GUILLERMO EMILIANO GONZÁLEZ VALDÉS Y OTRO, en la cantidad de $7.955.483.-suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
