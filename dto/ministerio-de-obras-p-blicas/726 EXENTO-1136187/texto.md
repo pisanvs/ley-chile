@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº726, de 09 de agosto de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno B, para la obra: DISEÑO CONSTRUCCION EMBALSE VALLE HERMOSO RIO PAMA, que figura a nombre de SOCIEDAD AGRICOLA EL PORVENIR S A, rol de avalúo 543-1, Comuna de COMBARBALA, REGION DE COQUIMBO, superficie 490.200 m2. La Comisión de Peritos integrada por ANDRES ANIBAL RISSO CAAMAÑO, MIGUEL JUAN FERNANDEZ CADIZ y ANDRES ECHEVERRIA CAMPO, mediante informe de tasación de 10 de junio de 2019, fijó el monto de la indemnización provisional en la cantidad de $93.138.000, para el lote B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
