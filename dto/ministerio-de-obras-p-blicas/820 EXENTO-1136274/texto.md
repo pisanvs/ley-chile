@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 820, de 26 de agosto de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. N°206, de 1960, se expropió el lote de terreno N° 110-B, para la obra "MEJORAMIENTO RUTA K-705, SECTOR CR. RUTA K-715 - VILCHES ALTO", TRAMO KILÓMETRO 11,70000 A KM. 27,23000, que figura a nombre de SOTO LORCA MYRIAM FERNANDA, rol de avalúo 166-2, Comuna de SAN CLEMENTE, REGIÓN DEL MAULE, superficie 38 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURÁN MARCOS, RODRIGO ANTONIO SILVA LAZO y PAULA SOLEDAD GONZÁLEZ ORTEGA, mediante informe de tasación de 30 de abril de 2016, fijó el monto de la indemnización provisional en la cantidad de $880.378.- para el lote N° 110-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
