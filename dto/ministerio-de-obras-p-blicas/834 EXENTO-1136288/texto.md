@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 834, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e), y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N°206, de 1960, se expropió el lote de terreno N° 82-B, para la obra "MEJORAMIENTO RUTA S - 70 S: POCOYAN - PUENTE PEULE", que figura a nombre de ESCALONA VARGAS JORGE ERNESTO Y OTR, rol de avalúo 206-15, Comuna de Toltén, Región de La Araucanía, superficie 277 m2. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDRE ULLOA, YASCHALA MARIBEL YAÑEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de 01 de marzo de 2019, complementada por acta de 08 de mayo de 2019, fijó el monto de la indemnización provisional en la cantidad de $517.990.- para el lote N° 82-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
