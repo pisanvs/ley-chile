@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.942 de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 151 "El inmueble ubicado en la población San Eugenio de esta ciudad, que corresponde a la manzana número dos, sitio uno de una superficie aproximada de doscientos doce coma cero metros cuadrados aproximadamente, de la comuna de Temuco". Rol de Avalúo: 2877-06. La superficie a expropiar aproximada es de 212,00 metros cuadrados, ambos de aparente dominio de Orlanda Alicia Poblete Moreno. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $40.000.000.- según Informe Nº 151 de fecha 04/09/2019, pagadero contado.-
+
+Director Serviu Región de la Araucanía.
