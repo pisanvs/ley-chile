@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 948 de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 77, 80, 82, 83, 85 y 87, Rol de avalúo 2216-20, Comuna de Osorno, superficies 91, 132, 613, 1.076, 963 y 124 m2. respectivamente, para la obra REPOSICION PAVIMENTO RUTA U-40, SECTOR: OSORNO - INTERSECCION RUTA U-52, COMUNA DE OSORNO, PROVINCIA DE OSORNO, REGION DE LOS LAGOS. La comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, CARMEN PILAR RIOS MARCUELLO y ANDRES ECHEVERRIA CAMPO, fijó el valor de tasación con fecha 02 de octubre de 2017 para los lotes 77, 80 y 82 y con fecha 20 de octubre de 2017 para los lotes 83, 85 y 87, acordándose la indemnización con su propietario EDUARDO GUILLERMO KARLE SOMMER, en la cantidad de $32.416.541.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
