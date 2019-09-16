@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 842, de 26 de agosto de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL. MOP. N°206, de 1960, se expropió el lote de terreno N° 9-A-2, para la obra "Construcción Rta 7.S: Pichanco - Sta. Bárbara (Expropiación Varios Tramos)", Tramo Huinay - Leptepú", que figura a nombre de AGRICOLA GANADERA Y FORESTAL ALERCE, rol de avalúo 2210-87, Comuna de HUALAIHUE, Región de Los Lagos, superficie 100.625 m2. La Comisión de Peritos integrada por NELSON BERNARDO TURRA TURRA, JUAN CELESTINO GIOVANNINI MANSILLA y LEOPOLDO RAMÓN SCHUMACHER GUARDA, mediante informe de tasación de 30 de septiembre de 2015, fijó el monto de la indemnización provisional en la cantidad de $40.250.000.- para el lote N° 9-A-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
