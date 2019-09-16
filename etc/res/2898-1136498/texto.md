@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.898, de fecha 06/09/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Pedro de Valdivia entre Av. El Orbital y Prieto Norte", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 202-0, consistente en Inmueble ubicado en calle Ranilhue número 02530, Villa Zaragoza, de la ciudad de Temuco. Comuna de Temuco, Rol de avalúo 05035-00044. La superficie a expropiar aproximada es de 31,15 metros cuadrados, de aparente dominio de doña Adelina Flor Muñoz Velásquez. Comisión de Peritos designada al efecto fijó monto de Indemnización Provisional en $8.666.566, según Informe Nº 202-0 de fecha 04/09/2019, pagadero contado.
+
+Director Serviu Región de la Araucanía.
