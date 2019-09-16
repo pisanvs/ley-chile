@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 881 de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropió el lote de terreno 5, Rol de avalúo 382-220, Comuna de Lampa, superficie 363 m2., para la obra REPOSICION PAVIMENTO RUTA G-150: PANAMERICANA – LAMPA, COMUNA DE LAMPA, PROVINCIA DE CHACABUCO, REGIÓN METROPOLITANA DE SANTIAGO. La comisión de peritos, integrada por DOUGLAS MAXIMILIANO HERRERA FLORES, NORMAN ESTANISLAO CALDERON PONTIGGIA y CAROLINA ALEJANDRA BRITO RAMOS, fijó el valor de tasación con fecha 18 de mayo de 2016 complementado por acta de 24 de abril de 2017, acordándose la indemnización con su propietaria SOCIEDAD MULTIACEROS S.A., en la cantidad de $25.280.668.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
