@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. Exento N° 900, de 30 de agosto de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, se expropiaron los lotes de terreno 77-A y 77-B, Rol de avalúo 208-329, Comuna de Curacautín, superficies 10 y 267 m2., para la obra: MEJORAMIENTO RUTA R-925 – S CURACAUTÍN – CONGUILLIO S: HUEÑIVALES – CAPTREN, COMUNA DE CURACAUTÍN, PROVINCIA DE MALLECO, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, YASCHALA MARIBEL YAÑEZ RIFFO y MARÍA SOLEDAD NÚÑEZ ARROYO, fijó el valor de tasación con fecha 23 de noviembre de 2018, acordándose la indemnización con su propietaria LUCINDA GLADYS RAMÍREZ MOTRAN, en la cantidad total de $1.966.990.-, suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
