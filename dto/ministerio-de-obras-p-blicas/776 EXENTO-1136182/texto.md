@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. Nº 776, de 13 de agosto de 2019, se desistió de la expropiación del lote N°14, el cual fue expropiado mediante Decreto MOP. (Exento) N°473, de 30 de junio de 2015, el cual no considera la utilización del lote mencionado, en la obra: "Mejoramiento Ruta F-50, Sector Lo Orozco – Quilpué, Tramo 1: Km. 0,00000 a Km. 11,90000", Comuna de Casablanca, Región de Valparaíso.
