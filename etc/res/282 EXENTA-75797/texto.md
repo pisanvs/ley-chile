@@ -12,7 +12,7 @@ R e s u e l v o:
 
 a) Acceso desde Los Ángeles:
 
-Ruta Q-70. Av. Julio Hemmelmann - Aníbal Pinto - General Freire - Jorge Montt - Bernardo O'Higgins - Villa Alegre - Av. La Cruz - San Martín - Pedro Aguirre Cerda - Av. Julio Hemmelmann - Ramón Castillo - Bartolomé Sepúlveda - José Zavala Ríos - Av. Julio Hemmelmann - Terminal.
+Ruta 156 - Av. Estación - Manuel Bustos - Hernán Merino - Av. Julio Hemmelmann - Aníbal Pinto - Errázuriz - Av. La Cruz - San Martín - Pedro Aguirre Cerda - Av. Julio Hemmelmann - Ramón Castillo - Bartolomé Sepúlveda - José Zavala Ríos - Av. Julio Hemmelmann - Terminal.
 
 b) Salida hacia Los Ángeles:
 
