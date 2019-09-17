@@ -414,7 +414,7 @@ transitorio: Los requisitos que establecen las letras a) y b) del nuevo artícul
 
 #### Artículo tercero
 
-transitorio: El requisito que establece el numeral 3 del artículo quinto del Título I. De las Personas Naturales que Prestan Servicios en Materia de Seguridad Privada del Reglamento que aprueba este decreto, no será exigible a aquellas personas naturales que prestan servicios en materia de seguridad privada y que a la época de su publicación, se encuentran autorizados para ejercer sus funciones.
+transitorio: El requisito que establece el numeral 3 del artículo quinto del Título I. De las Personas Naturales que Prestan Servicios en Materia de Seguridad Privada del Reglamento que aprueba este decreto, será exigible para las personas naturales que prestan servicios en materia de seguridad privada, a contar del día 5 de abril del año 2022.
 
 #### Artículo cuarto
 
