@@ -982,7 +982,9 @@ Melipilla, respecto de
 
 situaciones de emergencia
 
-que ocurran en dicha comuna.
+que ocurran en dicha
+
+comuna.
 
 1453 Fono Emergencia La recepción de llamadas
 
@@ -1006,7 +1008,9 @@ Panguipulli atendidas por personal del
 
 Seguridad Pública de la
 
-Municipalidad de Panguipulli,
+Municipalidad de
+
+Panguipulli,
 
 respecto de situaciones de
 
@@ -1018,9 +1022,9 @@ dicha comuna.
 
 Servicio Nacional para orientación a víctimas
 
-de la Mujer y la de violencia contra la mujer
+de la Mujer y la de violencia contra la
 
-Equidad de Género difundido por el
+Equidad de Género mujer difundido por el
 
 Servicio Nacional de la
 
@@ -1032,9 +1036,9 @@ Género, a nivel nacional.
 
 Miguel atendidas por personal de
 
-la Corporación Municipal de
+la Corporación Municipal
 
-San Miguel, respecto de
+de San Miguel, respecto de
 
 situaciones de emergencia
 
@@ -1058,13 +1062,17 @@ que ocurran en dicho parque.
 
 1457 Fono Emergencia La recepción de llamadas
 
-La Serena atendidas por personal de la
+La Serena atendidas por personal de
 
-Sala Espejo de la Central de
+la Sala Espejo de la
 
-Cámaras de Televigilancia de
+Central de Cámaras de
 
-la Municipalidad de La Serena,
+Televigilancia de
+
+la Municipalidad de La
+
+Serena,
 
 respecto de situaciones de
 
@@ -1076,19 +1084,23 @@ dicha comuna.
 
 Metro de Santiago atendidas por personal del
 
-Centro Integrado de Control
+Centro Integrado de
 
-de la Empresa de Transportes
+Control de la Empresa
+
+de Transportes
 
 de Pasajeros Metro S.A.,
 
-respecto de situaciones que
+respecto de situaciones
 
-revistan carácter de abusos
+que revistan carácter
 
-deshonestos al interior de
+de abusos deshonestos
 
-la red del Metro de Santiago,
+al interior de la red
+
+del Metro de Santiago,
 
 en la Región Metropolitana
 
@@ -1216,13 +1228,15 @@ dicha comuna.
 
 Lo Prado atendidas por operadores
 
-de la Dirección de
+de la Departamento de
 
-Seguridad Pública y
+Seguridad, Convivencia
 
-Protección Civil de
+y Protección Ciudadana
 
-la Ilustre Municipalidad
+de la Ilustre
+
+Municipalidad
 
 de Lo Prado, respecto de
 
@@ -1284,7 +1298,9 @@ Municipalidad de Colina,
 
 respecto de situaciones
 
-de seguridad y/o emergencia
+de seguridad y/o
+
+emergencia
 
 ciudadana que ocurran en
 
@@ -1294,15 +1310,19 @@ dicha comuna.
 
 "Línea libre" de objeto entregar a todos
 
-la Subsecretaría de los niños, niñas y adolescentes
+la Subsecretaría de los niños, niñas y
 
-la Niñez atención telefónica de
+la Niñez adolescentes
+
+atención telefónica de
 
 ayuda profesional
 
 en donde sean escuchados
 
-y puedan recibir orientación
+y puedan recibir
+
+orientación
 
 ante sus problemas y
 
@@ -1314,8 +1334,50 @@ confidencialidad.
 
 La cobertura será el
 
-territorio nacional, excepto
+territorio nacional,
 
-en la Región de Atacama.
+excepto en la Región
+
+de Atacama.
+
+1469 Fono Emergencia La recepción de llamadas
+
+Independencia atendidas en la Sala
+
+Remota de Televigilancia
+
+y Comunicaciones,
+
+dependiente de la oficina
+
+de Seguridad Pública de
+
+la Ilustre Municipalidad
+
+de Independencia,
+
+respecto de situaciones
+
+de seguridad y/o
+
+emergencia ciudadana que
+
+ocurran en dicha
+
+comuna. De esta manera,
+
+las llamadas serán
+
+canalizadas por medio
+
+del despliegue de
+
+vehículos de seguridad
+
+municipal hacia el
+
+lugar de la emergencia
+
+requerida.
 
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
