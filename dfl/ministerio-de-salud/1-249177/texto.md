@@ -2750,9 +2750,7 @@ Las cotizaciones para salud que se pacten de conformidad a esta Ley, gozarán de
 
 #### Artículo 188
 
-Toda vez que se produjeren excedentes de la cotización legal en relación con el precio de las Garantías Explícitas en Salud y el precio del plan convenido, en los
-
-términos a que se refiere el inciso siguiente, esos excedentes serán de propiedad del afiliado, inembargables e incrementarán una cuenta corriente individual que la Institución deberá abrir a favor del afiliado, aumentando la masa hereditaria en el evento de fallecimiento. El afiliado sólo podrá renunciar a ellos para destinarlos a financiar los beneficios adicionales tanto de los contratos que se celebren conforme al artículo 200 de esta ley, como de los contratos individuales compensados y de aquellos otros contratos que señale la Superintendencia de Salud mediante norma de carácter general.
+Toda vez que se produjeren excedentes de la cotización legal en relación con el precio de las Garantías Explícitas en Salud y el precio del plan convenido, en los términos a que se refiere el inciso siguiente, esos excedentes serán de propiedad del afiliado, inembargables e incrementarán una cuenta corriente individual que la Institución deberá abrir a favor del afiliado, aumentando la masa hereditaria en el evento de fallecimiento. El afiliado sólo podrá renunciar a ellos para destinarlos a financiar los beneficios adicionales tanto de los contratos que se celebren conforme al artículo 200 de esta ley, como de los contratos individuales compensados y de aquellos otros contratos que señale la Superintendencia de Salud mediante norma de carácter general.
 
 Cualquier estipulación en contrario a lo señalado, establecida en el contrato de salud previsional, se tendrá por no escrita.
 
@@ -2778,6 +2776,10 @@ préstamos de salud que la Institución de Salud Previsional le hubiese otorgado
 
 En cualquier momento, el afiliado podrá resolver el destino de los excedentes de su cuenta corriente, de acuerdo al inciso precedente.
 
+Con todo, anualmente la Institución de Salud Previsional deberá devolver al afiliado el saldo acumulado en su cuenta individual de excedentes que no haya sido requerido para alguno de los fines indicados en el inciso cuarto, monto que se pagará en la forma que señale la Superintendencia de Salud mediante norma de carácter general.
+
+Para ello, cada Institución de Salud Previsional deberá habilitar un sistema en línea que permita a los afiliados verificar sus excedentes y determinar su uso y destino libremente, entre todas las alternativas descritas en este artículo. Cada afiliado podrá siempre optar por el prestador con el cual hará uso de sus excedentes, sin que la Institución de Salud Previsional pueda limitar o restringir esa decisión. Los prestadores tendrán derecho a recibir en línea el pago de estas prestaciones, con cargo al saldo disponible que cada afiliado posea en su cuenta individual de excedentes.
+
 Al momento de celebrarse el contrato de salud, el monto de los excedentes a destinar a la cuenta corriente individual no podrá ser superior al 10% de la cotización legal para salud, calculada sobre el monto promedio de los últimos tres meses de la remuneración, renta o pensión según sea el caso, sin perjuicio del tope legal establecido. En caso de que en las sucesivas adecuaciones anuales, el monto de los excedentes a destinar a la cuenta corriente individual superen el referido 10%, la ISAPRE estará obligada a ofrecer al afiliado un plan de salud alternativo cuyo precio más se aproxime al plan actualmente convenido; en ningún caso, el afiliado estará obligado a suscribir el plan de salud lternativo. Con todo, la totalidad de los excedentes siempre incrementará la cuenta corriente individual del usuario.
 
 Los fondos acumulados en la cuenta corriente se reajustarán de acuerdo a la variación que experimente el Indice de Precios al Consumidor y devengarán el interés promedio pagado por los bancos en operaciones reajustables de no
@@ -2794,7 +2796,9 @@ En el evento en que se ponga
 
 término al contrato de salud y el interesado se incorpore a otra ISAPRE, deberán traspasarse dichos fondos a la respectiva Institución de Salud Previsional. Si el interesado decide, a partir de ese momento, efectuar sus cotizaciones en el Fondo Nacional de Salud, los haberes existentes a su favor deberán ser traspasados a dicho fondo.
 
-> **Nota.** El artículo transitorio de la LEY 20317, publicada el 24.01.2009, dispone que las modificaciones que introduce a la presente norma, entrarán en vigencia el primer día del mes subsiguiente a su publicación.NOTA 1: El Nº 6 de la letra A) del artículo único de la LEY 20317, publicada el 24.01.2009, ordena sustituir el guarismo "60" por "tres meses", olvidando suprimir la palabra "días" que se encontraba después del "60".
+> **Nota.** El artículo transitorio de la LEY 20317, publicada el 24.01.2009, dispone que las modificaciones que introduce a la presente norma, entrarán en vigencia el primer día del mes subsiguiente a su publicación.
+
+> **Nota.** NOTA 1 El Nº 6 de la letra A) del artículo único de la LEY 20317, publicada el 24.01.2009, ordena sustituir el guarismo "60" por "tres meses", omitiendo suprimir la palabra "días" que se encontraba después del "60".
 
 ### Párrafo 4°
 
