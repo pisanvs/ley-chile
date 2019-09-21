@@ -1,0 +1,5 @@
+SE APRUEBA DOCUMENTO "MANDATO PARA LA REALIZACIÓN DE UN PROCEDIMIENTO DE ADQUISICIÓN QUE PROVEA EL SERVICIO DE TELEFONÍA MÓVIL Y BANDA ANCHA MÓVIL DE INSTITUTO DE PREVISIÓN SOCIAL A DIRECCIÓN DE COMPRAS Y CONTRATACIÓN PÚBLICA", SUSCRITO ENTRE DICHAS INSTITUCIONES
+
+Por resolución exenta N° 267, de 1 de agosto de 2019, el Director Nacional del Instituto de Previsión Social, aprueba el documento "Mandato para la Realización de un Procedimiento de Adquisición que provea el Servicio de Telefonía Móvil y Banda Ancha Móvil de Instituto de Previsión Social a Dirección de Compras y Contratación Pública, por medio del cual este Instituto encomienda a la Dirección ChileCompra efectuar el/los procedimiento/s licitatorio/s que sean necesarios, para que en su nombre y representación licite y adjudique el servicio de telefonía móvil y banda ancha móvil, en los términos que se indican.
+
+Santiago, 9 de septiembre de 2019.- Patricio Coronado Rojo.
