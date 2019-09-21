@@ -1,0 +1,5 @@
+SE ACTUALIZAN MATERIAS QUE SE INDICAN SOBRE TRANSPARENCIA ACTIVA LEY N° 20.285, AFECTAS A PUBLICACIÓN EN EL PORTAL TRANSPARENCIA DEL INSTITUTO DE PREVISIÓN SOCIAL, Y RESPONSABILIDADES CORRELATIVAS DE JEFATURAS Y DE ENCARGADOS QUE INDICA, Y DEJA SIN EFECTO RESOLUCIÓN QUE SEÑALA
+
+Por resolución exenta N° 272, de 12 de agosto de 2019, el Director Nacional del Instituto de Previsión Social, Dispuso que las Jefaturas que se individualizan, tendrán la responsabilidad de proporcionar al Departamento Secretaría General y Transparencia, dentro de los cinco primeros días hábiles de cada mes, la información de su competencia que la Institución debe publicar como Transparencia Activa en los sitios electrónicos al efecto, acompañando los respaldos correspondientes.
+
+Santiago, 9 de septiembre de 2019.- Patricio Coronado Rojo.
