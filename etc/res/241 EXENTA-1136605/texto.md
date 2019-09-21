@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL N° 0504-0315-0100005436, DEL BANCO SCOTIABANK EX-BBVA (CHILE), SUCURSAL COQUIMBO, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL COQUIMBO DEL INSTITUTO DE PREVISIÓN SOCIAL, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta N° 241, de 12 de julio de 2019, el Director Nacional del Instituto de Previsión Social, delega la facultad de girar cheques, retirar talonarios, retirar cartolas, retirar cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, para operar la cuenta corriente denominada Giradora Local N° 0504-0315-0100005436, destinada al pago de beneficios previsionales y gastos del Instituto de Previsión Social, que este organismo mantiene en la Oficina Principal del Banco Scotiabank, Sucursal Coquimbo, en los funcionarios que indica.
+
+Santiago, 9 de septiembre de 2019.- Patricio Coronado Rojo.
