@@ -1,0 +1,5 @@
+SE APRUEBA "MODIFICACIÓN A CONTRATO DE COMODATO", ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL INSTITUTO DE SEGURIDAD LABORAL, RESPECTO DEL INMUEBLE UBICADO EN CALLE SAN PABLO N° 2461, DE SANTIAGO
+
+Por resolución exenta I N° 39, de 16 de agosto de 2019, el Jefe del Departamento de Administración e Inmobiliaria del Instituto de Previsión Social, aprueba el documento "Modificación a Contrato de Comodato", suscrito con fecha 30 de julio de 2019, entre el Instituto de Previsión Social y el Instituto de Seguridad Laboral, que modifica el contrato de comodato, en el sentido de ampliar la superficie dada en comodato del segundo piso del inmueble institucional ubicado en calle San Pablo N° 2461, de la ciudad de Santiago, enterando una superficie total de 816 metros cuadrados.
+
+Santiago, 9 de septiembre de 2019.- Jorge Villegas Leiva.
