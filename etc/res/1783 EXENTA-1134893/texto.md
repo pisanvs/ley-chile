@@ -1,4 +1,4 @@
-LLAMA A POSTULACIÓN EXTRAORDINARIA PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR EN SU TÍTULO II, MEJORAMIENTO DE LA VIVIENDA, REGULADO POR EL DS Nº 255 (V. Y U.), DE 2006, DESTINADA A LA ATENCIÓN DE LOS AFECTADOS CON DAÑO REPARABLE MODERADO Y DAÑO REPARABLE MAYOR, PRODUCTO DEL SISMO EN TONGOY EN ENERO DEL PRESENTE AÑO, EN LA REGIÓN DE COQUIMBO
+LLAMA A POSTULACIÓN EXTRAORDINARIA PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR EN SU TÍTULO II, MEJORAMIENTO DE LA VIVIENDA, REGULADO POR EL DS Nº 255 (V. Y U.), DE 2006, DESTINADA A LA ATENCIÓN DE LOS AFECTADOS CON DAÑO REPARABLE MODERADO Y DAÑO REPARABLE MAYOR, PRODUCTO DEL SISMO EN ENERO DEL PRESENTE AÑO, EN LA REGIÓN DE COQUIMBO
 
 Santiago, 8 de agosto de 2019.- Hoy se resolvió lo que sigue:
 
@@ -12,13 +12,13 @@ b) La resolución exenta N° 152 (V. y U.), de fecha 10 de enero de 2019, y su m
 
 Considerando:
 
-La urgente necesidad de atender a las familias de la comuna de Tongoy, cuyas viviendas resultaron afectadas por el sismo de enero de 2019, con Daño Reparable Moderado y Daño Reparable Mayor según la clasificación establecida en la Ficha de Catastro de este Ministerio, dicto la siguiente
+La urgente necesidad de atender a las familias de la Región de Coquimbo, cuyas viviendas resultaron afectadas por el sismo de enero de 2019, con Daño Reparable Moderado y Daño Reparable Mayor, según la clasificación establecida en la Ficha de Catastro de este Ministerio, dicto la siguiente
 
 Resolución:
 
-1. Llámese a postulación extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar, regulado por el DS Nº 255 (V. y U.), de 2006, en su Título II, Mejoramiento de la Vivienda, para la reparación de viviendas afectadas por el sismo ocurrido en enero del año 2019, en la comuna de Tongoy.
+1. Llámese a postulación extraordinaria de proyectos del Programa de Protección del Patrimonio Familiar, regulado por el DS Nº 255 (V. y U.), de 2006, en su Título II, Mejoramiento de la Vivienda, para la reparación de viviendas afectadas por el sismo ocurrido en enero del año 2019, en la Región de Coquimbo.
 
-2. Solo podrán participar en este llamado extraordinario los afectados por el sismo del 19 de enero de 2019, en la comuna de Tongoy, que cuenten con informes técnicos aprobados por Serviu de la Región de Coquimbo.
+2. Solo podrán participar en este llamado extraordinario los afectados por el sismo del 19 de enero de 2019, en la Región de Coquimbo, que cuenten con informes técnicos aprobados por Serviu de esa Región.
 
 3. Las selecciones se efectuarán quincenalmente a partir de la fecha de publicación de la presente resolución y hasta el día 30 de octubre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la Región.
 
@@ -26,7 +26,7 @@ Resolución:
 
 ### 5. La postulación a este llamado se deberá realizar en forma individual
 
-6. Se consideran como viviendas objeto de atención de este llamado, todas aquellas que presentan Daño Reparable Moderado y Daño Reparable Mayor, debido al sismo ocurrido en enero del año 2019, emplazadas en la comuna de Tongoy.
+6. Se consideran como viviendas objeto de atención de este llamado, todas aquellas que presentan Daño Reparable Moderado y Daño Reparable Mayor, debido al sismo ocurrido en enero del año 2019, emplazadas en la Región de Coquimbo.
 
 7. Los recursos que se destinarán para la selección de los proyectos presentados para el presente llamado corresponden a 82.463 UF. El número de proyectos seleccionados alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, incluidos los servicios de asistencia técnica que correspondan.
 
