@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL N° 12700044023, DEL BANCO DEL ESTADO DE CHILE SUCURSAL COQUIMBO, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL COQUIMBO DEL INSTITUTO DE PREVISIÓN SOCIAL, EN LOS FUNCIONARIOS QUE SE INDICAN
+
+Por resolución exenta N° 257, de 29 de julio de 2019, el Director Nacional del Instituto de Previsión Social, delega la facultad de girar cheques, retirar talonarios, cartolas, cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, para efectos de operar la cuenta corriente denominada Giradora Local N° 12700044023, del Centro de Atención Previsional Integral IPS Coquimbo, abierta en la Oficina Principal del Banco del Estado de Chile, y que opera en su Sucursal Coquimbo, en los funcionarios que indica.
+
+Santiago, 9 de septiembre de 2019.- Patricio Coronado Rojo.
