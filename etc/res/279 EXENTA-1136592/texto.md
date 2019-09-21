@@ -1,0 +1,5 @@
+SE CALIFICA COMO TRABAJO PESADO, LAS LABORES DE "OPERADOR GRÚA HORQUILLA" Y "CONDUCTOR CAMIÓN RECOLECTOR BASURA INDUSTRIAL", EJECUTADAS PARA LOS EMPLEADORES QUE INDICA
+
+Por resolución exenta N° 279, de 21 de agosto de 2019, el Director Nacional del Instituto de Previsión Social, aprueba la solicitud presentada por don Carlos Godoy Duque, para calificar como Trabajo Pesado la labor de: "Operador Grúa Horquilla", ejecutada para los empleadores "Embotelladora Andina S.A." e "Importadora Dimeiggs S.A." y la labor de "Conductor Camión Recolector Basura Industrial", desarrollada para el empleador "Servilimp S.A.", correspondiendo aplicar una rebaja de edad de 1X5 (un año por cada cinco años de labores pesadas), beneficio que le permite impetrar su jubilación por vejez, con rebaja en la edad.
+
+Santiago, 9 de septiembre de 2019.- Patricio Coronado Rojo.
