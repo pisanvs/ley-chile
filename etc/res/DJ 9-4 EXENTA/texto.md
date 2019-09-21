@@ -46,13 +46,13 @@ bis: El proceso de acreditación se realizará a través de medios electrónicos
 
 Para incorporarse al proceso de acreditación las instituciones deberán presentar los siguientes antecedentes:
 
-i. Solicitud de Incorporación al proceso firmada por el representante legal de la institución o por quien esté habilitado para este efecto, debiendo así acreditarlo y que, en todo caso, deberá ser la misma persona facultada para firmar el convenio con la CNA, indicando posibles fechas de realización de la visita de la evaluación externa, acorde al artículo 14º de este Reglamento. Dicha solicitud debe indicar:
+i. Solicitud de Incorporación al proceso firmada por el representante legal de la institución o por quien esté habilitado para este efecto, debiendo así acreditarlo, indicando posibles fechas de realización de la visita de la evaluación externa, acorde al artículo 14º de este Reglamento. Dicha solicitud debe indicar:
 
 a. Áreas a acreditar.
 
 b. Sedes con que cuenta la institución.
 
-ii. Ficha Institucional Introductoria y sus respectivos anexos, cuyo formato se encuentra disponible en el sitio web institucional de la CNA: www.cnachile.cl.
+ii. Ficha Institucional de Datos y sus respectivos anexos, cuyo formato se encuentra disponible en el sitio web institucional de la CNA: www.cnachile.cl.
 
 iii. Informe de Autoevaluación, documento que deberá ser elaborado conforme a los términos establecidos en la Guía para la Evaluación Interna disponible en el sitio web de la CNA .
 
@@ -68,7 +68,7 @@ Entregados los antecedentes a satisfacción de la CNA, se dictará una resoluci�
 
 #### Artículo séptimo
 
-Tan pronto se dicte la resolución que apruebe el inicio del proceso de acreditación, se firmará un Convenio entre la CNA y la institución. Dicho documento da cuenta de las condiciones contractuales del proceso, y será enviado al representante legal de la institución para su firma, debiendo remitirse suscrito en un plazo máximo de 30 días hábiles. Asimismo, la institución deberá suscribir, a través de su representante legal, el convenio de pago de arancel y la declaración jurada simple de veracidad de los antecedentes que entregue a la CNA, según formato que ésta adjuntará al referido Convenio.
+La resolución que apruebe el inicio del proceso de acreditación dará cuenta de las condiciones particulares de éste. La institución deberá suscribir el documento Compromiso Pago de Arancel, el cual será enviado al representante legal para su firma, debiendo remitirse suscrito en un plazo máximo de 15 días hábiles.
 
 ### III. SOBRE EL PROCESO DE EVALUACIÓN EXTERNA
 
@@ -132,11 +132,13 @@ noveno: Dentro de los 30 días hábiles siguientes al término de la visita, el 
 
 Artículo vigésimo: El Informe de Autoevaluación, el Informe de Evaluación Externa, el Informe Financiero, las Observaciones de la Institución, y otros antecedentes que sean utilizados para corroborar, verificar o complementar la información proporcionada por la institución, ingresarán a sesión del pleno de la Comisión. El Presidente del Comité de pares efectuará una relatoría en base a los antecedentes mencionados, refiriéndose en particular a las áreas en que la institución se somete a proceso. Finalmente el Pleno de la Comisión, basado en la ponderación de la totalidad de los antecedentes, emitirá el juicio de acreditación correspondiente.
 
-Artículo vigésimo primero: Dentro de los 30 días hábiles siguientes a la adopción de la decisión, la institución será notificada de la resolución administrativa que contiene los fundamentos del juicio adoptado. Dicha notificación se efectuará por carta certificada o personalmente, de acuerdo a lo dispuesto en el artículo 46º de la ley Nº 19.880. Las decisiones de acreditación que adopte la Comisión son públicas y se encuentran informadas en el sitio web institucional.
+Artículo vigésimo primero: Dentro de los 30 días hábiles siguientes a la adopción de la decisión, la institución será notificada de la resolución administrativa que contiene los fundamentos del juicio adoptado. Dicha notificación se efectuará de acuerdo a lo dispuesto en el artículo 46° de la ley N° 19.880. Las decisiones de acreditación que adopte la Comisión son públicas y se encuentran informadas en el sitio web institucional.
 
-Artículo vigésimo segundo: La institución podrá interponer un recurso de reposición respecto de la decisión acreditación, en el plazo de cinco días hábiles contados desde la notificación de la resolución que contenga dicha decisión, de acuerdo a lo establecido en el artículo 59º de la ley Nº 19.880 y en la circular Nº 21 de la CNA, que regula la tramitación de dicho recurso. La Comisión dispondrá de un plazo de 30 días hábiles para pronunciarse sobre la reposición.
+Las instituciones que cuenten con convenio de tramitación electrónica suscrito con la CNA, y manifiesten su voluntad de notificarse de las resoluciones de acreditación a través de las direcciones de correo electrónico declaradas, se entenderán notificadas al día hábil siguiente del envío de la información de que el referido acto administrativo se encuentra disponible en la plataforma de tramitación electrónica. Para tales efectos, las resoluciones de acreditación contarán con firma electrónica avanzada.
 
-Artículo vigésimo tercero: Las reposiciones deberán venir suscritas por la misma persona que firmó el Convenio con la CNA y expresar de manera precisa los aspectos impugnados y fundamentar claramente sus objeciones en base a antecedentes que el pleno de la Comisión no haya tenido a la vista al momento de resolver. En todo caso, dichos antecedentes deberán ser de fecha anterior o coetánea al proceso de acreditación, considerando como límite la visita de evaluación externa. La Secretaría Ejecutiva deberá informar a la Comisión sobre las solicitudes que no cumplan con estas condiciones.
+Artículo vigésimo segundo: Acorde al artículo 59 de la ley 19.880, y a las instrucciones dictadas por la CNA al efecto, la institución podrá interponer un recurso de reposición respecto de la decisión de acreditación, en el plazo de 5 días hábiles contados desde la notificación de la resolución que contenga dicha decisión. La Comisión dispondrá de un plazo de 30 días hábiles para pronunciarse sobre la reposición.
+
+Artículo vigésimo tercero: Las reposiciones deberán venir suscritas por el representante legal o de persona especialmente facultada para ello y expresar de manera precisa los aspectos impugnados y fundamentar claramente sus objeciones en base a antecedentes que el pleno de la Comisión no haya tenido a la vista al momento de resolver. En todo caso, dichos antecedentes deberán ser de fecha anterior o coetánea al proceso de acreditación, considerando como límite la visita de evaluación externa. La Secretaría Ejecutiva deberá informar a la Comisión sobre las solicitudes que no cumplan con estas condiciones.
 
 Artículo vigésimo cuarto: Sólo en caso de ser rechazada la acreditación, las instituciones podrán apelar ante el Consejo Nacional de Educación, dentro del plazo de 15 días hábiles, contados desde la fecha en que se notifica la resolución que se impugna, en conformidad a lo dispuesto en el artículo 23º de la ley Nº 20.129.
 
