@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL N° 2500136785, DEL BANCO DEL ESTADO DE CHILE, SUCURSAL ANTOFAGASTA, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL ANTOFAGASTA, DEL INSTITUTO DE PREVISIÓN SOCIAL ANTOFAGASTA, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta N° 237, de 10 de julio de 2019, el Director Nacional del Instituto de Previsión Social, delega la facultad de girar cheques, retirar talonarios, cartolas, cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, para efectos de operar la cuenta corriente denominada Giradora Local N° 2500136785, del Banco del Estado de Chile, destinada al pago de beneficios previsionales y gastos del Centro de Atención Previsional Integral IPS Antofagasta, en los funcionarios que indica.
+
+Santiago, 9 de septiembre de 2019.- Patricio Coronado Rojo.
