@@ -1,0 +1,5 @@
+DELEGA FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL N° 0504-0315-0100005991, DEL BANCO SCOTIABANK EX - BBVA (CHILE), SUCURSAL OVALLE, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL DEL INSTITUTO DE PREVISIÓN SOCIAL DE OVALLE, EN LOS FUNCIONARIOS QUE INDICA
+
+Por resolución exenta N° 255, de 29 de julio de 2019, el Director Nacional del Instituto de Previsión Social, delega la facultad de girar cheques, retirar talonarios, cartolas, cheques protestados y documentos desde la casilla, dar órdenes de no pago y efectuar la ratificación y publicación de los documentos en caso de pérdida, hurto o robo de un cheque o talonarios de cheques, para efectos de operar la cuenta corriente denominada Giradora Local N° 0504-0315-0100005991, abierta en la Oficina Principal del Banco Scotiabank, y que opera en su Sucursal Ovalle, destinada al pago de beneficios previsionales y gastos del Centro de Atención Previsional Integral Capri IPS Ovalle, en los funcionarios que indica.
+
+Santiago, 9 de septiembre de 2019.- Patricio Coronado Rojo.
