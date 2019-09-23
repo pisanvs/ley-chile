@@ -1,0 +1,33 @@
+NOMBRA PRESIDENTES TITULARES Y SUPLENTES EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE LA SERENA Y DEJA SIN EFECTO NOMBRAMIENTOS ANTERIORES
+
+Núm. 251 exento.- Santiago, 9 de septiembre de 2019.
+
+Vistos:
+
+Lo dispuesto en el DFL Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija texto refundido, coordinado y sistematizado de la ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en el artículo 121 del Código Tributario; en el número 25, párrafo VI, del artículo primero del decreto supremo Nº 19, de 22 de enero de 2001, del Ministerio Secretaría General de la Presidencia; en los decretos supremos Nos 359, de 6 de marzo de 2014, y 1.377, de 28 de septiembre de 2015, ambos del Ministerio de Hacienda; en el decreto supremo Nº 415, 11 de marzo de 2018, del Ministerio de Hacienda; en los Acuerdos Nos 68 y 69, de 22 de julio de 2019, de la Ilustrísima Corte de Apelaciones de La Serena; en los oficios UDP Nos 425 y 429, ambos de 24 de julio de 2019, y del Presidente de la Ilustrísima Corte de Apelaciones de La Serena; en el oficio ordinario Nº 1.582, de 5 de agosto de 2019, del Jefe de Gabinete del Subsecretario de Hacienda; en el oficio Nº 147, de 6 de agosto de 2019, del Jefe del Departamento Jurídico de la IV Dirección Regional de La Serena del Servicio de Impuestos Internos; en el oficio ordinario Nº 2.252, de 30 de agosto de 2019, del Director Nacional del Servicio de Impuestos Internos; y, en la resolución Nº 6, de 2019, de la Contraloría General de la República.
+
+Considerando:
+
+1. Que, a través del oficio UDP Nº 425, de 24 de julio de 2019, del Presidente de la Ilustrísima Corte de Apelaciones de La Serena, se transcribió y comunicó el Acuerdo Nº 68, adoptado el 22 de julio de 2019, por la Iltma. Corte de Apelaciones de La Serena, en Pleno, en cuya virtud se decidió modificar la designación de los Ministros de la Corte antedicha, para integrar el Tribunal de Alzada de Bienes Raíces de la Primera Serie, correspondiente a dicha jurisdicción, indicándose en la transcripción del acta respectiva su nueva composición.
+
+2. Que, a su vez, mediante el oficio UDP Nº 429, de 24 de julio de 2019, del Presidente de la Ilustrísima Corte de Apelaciones de La Serena, se comunicó el Acuerdo Nº 69, adoptado el 22 de julio de 2019, por la Iltma. Corte de Apelaciones de La Serena, en cuya virtud se decidió modificar la designación de los Ministros de la Corte antedicha, para integrar el Tribunal de Alzada de Bienes Raíces de la Segunda Serie, correspondiente a dicha jurisdicción, indicándose en la transcripción del acta respectiva su nueva composición.
+
+3. Que, por medio del oficio Nº 147, de 6 de agosto de 2019, del Jefe del Departamento Jurídico de la IV Dirección Regional de La Serena del Servicio de Impuestos Internos, se remitieron los antecedentes individualizados en los considerandos precedentes al Subdirector Jurídico de la Dirección Nacional del Servicio de Impuestos Internos, junto a copia autorizada de las cédulas de identidad de los Sres. Ministros interinos de la Iltma. Corte de Apelaciones de La Serena, designados para integrar los Tribunales Especiales de Alzada; y, declaración jurada de no encontrarse afectos a las causales de inhabilidad previstas en el artículo 54 de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, de los mismos.
+
+4. Que, a través del oficio ordinario Nº 2.252, de 30 de agosto de 2019, el Director Nacional del Servicio de Impuestos Internos, comunicó al Sr. Ministro de Hacienda, la necesidad de efectuar el nombramiento de los Presidentes Titulares y Suplentes en los Tribunales Especiales de Alzada de los Bienes Raíces de la Primera y Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena, y remitió los antecedentes individualizados en los considerandos precedentes.
+
+5. Que, en atención a los antecedentes expuestos, corresponde proceder a la dictación del acto administrativo que apruebe la nueva composición del tribunal en cuestión.
+
+Decreto:
+
+1. Déjanse sin efecto, en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena, las designaciones recaídas en los Ministros Sres. Jaime Franco Ugarte, RUT Nº 5.567.981-9, como Presidente Titular, y Humberto Mondaca Díaz, RUT Nº 4.324.128-1, como Presidente Suplente, efectuadas, respectivamente, por el decreto supremo Nº 1.377, de 2015, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 26 de noviembre de 2015.
+
+2. Nómbrase, en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena, a los Ministros interinos Sres. Jorge Sergio Corrales Sinsay, RUT Nº 5.078.667-6, como Presidente Titular, y Miguel Antonio Montenegro Rossi, RUT Nº 5.460.632-K, como Presidente Suplente, mientras permanezcan en sus cargos.
+
+3. Déjanse sin efecto, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena, las designaciones recaídas en los Ministros Sres. Humberto Mondaca Díaz, RUT Nº 4.324.128-1, como Presidente Titular y Jaime Franco Ugarte, RUT Nº 5.567.981-9, como Presidente Suplente, efectuadas, respectivamente, por el decreto supremo Nº 359, de 2014, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 17 de abril de 2014, y el decreto supremo Nº 1.377, de 2015, del Ministerio de Hacienda, publicado en el Diario Oficial de fecha 26 de noviembre de 2015.
+
+4. Nómbrase, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de La Serena, a los Ministros interinos Sres. Miguel Antonio Montenegro Rossi, RUT Nº 5.460.632-K, como Presidente Titular, y Jorge Sergio Corrales Sinsay, RUT Nº 5.078.667-6, como Presidente Suplente, mientras permanezcan en sus cargos.
+
+Anótese, regístrese y publíquese.- Por orden del Presidente de la República, Francisco Moreno Guzmán, Ministro de Hacienda (S).
+
+Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Francisco Matte Risopatrón, Jefe de Gabinete Ministerio de Hacienda.
