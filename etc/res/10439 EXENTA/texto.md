@@ -20,13 +20,9 @@ Considerando:
 
 Resolución:
 
-1. Apruébanse las nóminas de seleccionados para el otorgamiento de subsidios habitacionales correspondientes al tercer proceso de postulación del Llamado Nacional en condiciones especiales para proyectos del Título II, Mejoramiento de la Vivienda, del Programa de Protección del Patrimonio Familiar, destinados a Proyectos de Obras de Innovación de Eficiencia Energética, de Acondicionamiento Térmico de Viviendas, tanto en su línea general, como en el marco de los Planes de Descontaminación Atmosférica, efectuado por resolución exenta Nº 1.484 (V. y U.), de 2018, y sus modificaciones. Estas nóminas se adjuntan y se comprenderán como parte integrante de esta resolución. Además, f�jase el número de postulantes seleccionados por Región, según se indica en la siguiente tabla:
-
-.
+1. Apruébanse las nóminas de seleccionados para el otorgamiento de subsidios habitacionales correspondientes al tercer proceso de postulación del Llamado Nacional en condiciones especiales para proyectos del Título II, Mejoramiento de la Vivienda, del Programa de Protección del Patrimonio Familiar, destinados a Proyectos de Obras de Innovación de Eficiencia Energética, de Acondicionamiento Térmico de Viviendas, tanto en su línea general, como en el marco de los Planes de Descontaminación Atmosférica, efectuado por resolución exenta Nº 1.484 (V. y U.), de 2018, y sus modificaciones. Estas nóminas se adjuntan y se comprenderán como parte integrante de esta resolución. Además, fíjase el número de postulantes seleccionados por Región, según se indica en la siguiente tabla:
 
 2. Comprométanse los recursos disponibles para el tercer proceso de postulación del Llamado Nacional en condiciones especiales para proyectos del Título II, Mejoramiento de la Vivienda, del Programa de Protección del Patrimonio Familiar, del año 2018, destinados a Proyectos de Obras de Innovación de Eficiencia Energética y de Acondicionamiento Térmico de Viviendas, los que se destinarán al financiamiento de los subsidios y al pago de los servicios de Asistencia Técnica, según la distribución por título y por región, señalada en el siguiente cuadro:
-
-.
 
 3. Publíquese la presente resolución en Diario Oficial y en un periódico de circulación regional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 1. de esta resolución, las que deberán contener, a lo menos, la comuna, el Título del cual se trate, el nombre de cada postulante, con su respectiva cédula de identidad, y el puntaje obtenido por el grupo o persona.
 
