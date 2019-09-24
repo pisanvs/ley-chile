@@ -70,6 +70,8 @@ a) Utilizar trampas para detección y monitoreo de acuerdo a lo determinado por 
 
 b) Utilizar emisores de feromonas para la confusión sexual de acuerdo a lo establecido por el SAG en la Estrategia Programa Nacional de Lobesia botrana.
 
+El SAG podrá autorizar el control de la plaga en predios menores a 4 hectáreas a través de la utilización de emisores de feromonas para la confusión sexual, sin perjuicio de lo anterior, si se evidencia disminución de la eficacia en el control de la plaga a través de esta herramienta de control, el Servicio podrá solicitar medidas de control adicionales, en la misma generación o generación siguiente, en base a la aplicación de plaguicidas autorizados para el control de Lobesia botrana o alguna medida de carácter cultural, previo análisis realizado en forma regional.
+
 c) Aplicar plaguicidas, autorizados por el Servicio, en la forma y frecuencias informadas y aprobadas por el SAG.
 
 d) Realizar otras medidas de carácter cultural o educativo, tales como manejo y descarga de fruta remanente y de los desechos de arranque de flores, inflorescencias y frutos, entre otras medidas que el SAG establezca.
@@ -107,6 +109,8 @@ Los productores de las especies afectas al control obligatorio deberán dar avis
 15. Los propietarios, arrendatarios o tenedores de los predios dentro del área reglamentada por Lobesia botrana deberán inscribirse en el sistema informático en operación del Servicio denominado SRA (Sistema de Registro Agrícola) y entregar información relacionada con especies, variedades y superficies asociadas a éstas.
 
 16. La vigilancia de Lobesia botrana a través de trampas de feromonas por parte de instituciones diferentes al SAG o empresas privadas, solo podrá realizarse en el marco de estudio científico, el cual deberá ser previamente aprobado por el SAG mediante resolución exenta o ante el requerimiento de algún protocolo de trabajo o certificación de países recibidores de fruta fresca, el cual requiera de una red de trampas adicional al que tiene el PNLb.
+
+El monitoreo de Lobesia botrana a través de trampas de feromonas y prospecciones podrá realizarse por parte de instituciones diferentes al SAG, tales como empresas privadas o productores, si están previamente aprobadas por el SAG mediante resolución exenta, realizan registro de las capturas bajo las condiciones determinadas por el PNLb y mantienen la obligación de la entrega completa de los registros al SAG.
 
 17. Los fabricantes de cebos específicos para el monitoreo de Lobesia botrana o sus empresas representantes en el territorio nacional, solo podrán vender este tipo de productos al SAG. La excepción a este punto lo constituye lo descrito en el numeral 16 de la presente resolución.
 
