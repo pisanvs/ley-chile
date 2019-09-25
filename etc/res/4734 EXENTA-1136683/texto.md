@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 4.734 EXENTA, DE 13.09.2019, DE LA SUBSECRETARÍA DE EDUCACIÓN PARVULARIA
+
+Por la presente resolución exenta se aprueba el Marco para la Buena Enseñanza de Educación Parvularia, propuesta que fuera aprobada en sesión ordinaria de 10 de julio de 2019, por Acuerdo Nº 079/2019 del Consejo Nacional de Educación. Este tiene por objeto fortalecer el ejercicio ético profesional y generar las mejores oportunidades de aprendizaje de todos los niños y las niñas desde los primeros meses de vida hasta el ingreso a la Educación Básica, siendo un referente que oriente a los/as educadores de párvulos respecto de la reflexión y la práctica pedagógica que deben desarrollar como profesionales de la educación para la mejora continua de su quehacer, estableciendo los desempeños que se espera de ellos en su labor educativa.-
+
+María José Castro Rojas, Subsecretaria de Educación Parvularia.
