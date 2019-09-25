@@ -18,13 +18,13 @@ Decreto:
 
 I.- Establécese que el cargo de Secretario(a) Regional Ministerial de Bienes Nacionales de la IX Región de La Araucanía, grado 5º EUR, para el caso de ausencia o impedimento de éste, será subrogado a contar de la fecha del presente decreto exento en el siguiente orden:
 
-1.- Susana de la Fuente Melivilu, RUT N° 8.022.859-7, actual Profesional de Planta, grado 6 EUR.
+1.- Eileen Karin Herdener Becker, RUT Nº 13.113.100-3, actual Profesional a Contrata con función directiva, asimilada a grado 9 EUR.
 
-2.- Ana María Schulthess Bravo, RUT N° 7.469.845-K, actual Profesional de Planta, grado 7 EUR.
+2.- Ana María Schulthess Bravo, RUT Nº 7.469.845-K, actual Profesional de Planta, grado 7 EUR.
 
-3.- Secretario(a) Regional Ministerial de Gobierno, Región de La Araucanía.
+3.- Secretario(a) Regional Ministerial de Salud, Región de la Araucanía.
 
-4.- Secretario(a) Regional Ministerial de Justicia y Derechos Humanos, Región de La Araucanía.
+4.- Secretario(a) Regional Ministerial de Gobierno, Región de la Araucanía.
 
 III.- Por razones impostergables de buen servicio, los funcionarios(as) que ocupan los cargos señalados en los numerales 1 al 4 del presente decreto, según el orden de prelación establecido, asumirán de inmediato sus funciones sin esperar total tramitación del mismo, en caso de producirse algún impedimento, por cualquier motivo, para que el (la) Secretario(a) Regional Ministerial titular desempeñe su cargo.
 
