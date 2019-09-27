@@ -24,13 +24,13 @@ Decreto:
 
 #### Artículo primero
 
-Desígnase al Ministro de Economía, Fomento y Turismo para que en mi representación participe de la formación y constitución de una persona jurídica de derecho privado sin fines de lucro a que se refiere el Título XXXIII del Libro Primero del Código Civil, cuyo objeto principal sea adquirir, procesar y almacenar en medios digitales los conjuntos de datos generados por instituciones de carácter público o privado y que por su volumen, naturaleza y complejidad requieren una curaduría, exploración, visualización y análisis que faciliten la disponibilidad de dichos datos para fines del desarrollo de la ciencia, tecnología, innovación, conocimiento y sus aplicaciones en la economía.
+Desígnase al Ministro de Economía, Fomento y Turismo y al Ministro de Ciencia, Tecnología, Conocimiento e Innovación, para que en mi representación participen de la formación y constitución de una persona jurídica de derecho privado sin fines de lucro a que se refiere el Título XXXIII del Libro Primero del Código Civil, cuyo objeto principal sea adquirir, procesar y almacenar en medios digitales los conjuntos de datos generados por instituciones de carácter público o privado y que por su volumen, naturaleza y complejidad requieren una curaduría, exploración, visualización y análisis que faciliten la disponibilidad de dichos datos para fines del desarrollo de la ciencia, tecnología, innovación, conocimiento y sus aplicaciones en la economía.
 
 En la realización de su objeto, la persona jurídica que se constituya deberá dar estricto cumplimiento a lo dispuesto en la ley N° 17.336 de Propiedad Industrial, al DFL N° 3, de 2006, del Ministerio de Economía, Fomento y Turismo, que fija texto refundido, coordinado y sistematizado de la Ley de Propiedad Industrial, sus respectivos reglamentos, a la ley N°19.628, sobre protección de la vida privada y los requerimientos de confidencialidad que correspondan.
 
 #### Artículo segundo
 
-Autorízase al Ministro de Economía, Fomento y Turismo a participar, en mi representación, en el órgano de dirección de la persona jurídica de derecho privado sin fines de lucro que se constituya, así como, eventualmente, en su modificación, retiro, disolución, extinción y liquidación, con arreglo a sus estatutos.
+Autorízase al Ministro de Economía, Fomento y Turismo y al Ministro de Ciencia, Tecnología, Conocimiento e Innovación a participar, en mi representación, en el órgano de dirección de la persona jurídica de derecho privado sin fines de lucro que se constituya, así como, eventualmente, en su modificación, retiro, disolución, extinción y liquidación, con arreglo a sus estatutos.
 
 #### Artículo tercero
 
