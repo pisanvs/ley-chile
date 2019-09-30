@@ -30,7 +30,7 @@ NORMAS DE COMPETENCIA Y DEFINICIONES
 
 Los plazos de días contenidos en la Ley General de Urbanismo y Construcciones y en esta Ordenanza, en que no se indique expresamente que se trata de plazos de días hábiles, son de días corridos. Con todo, siempre que el último día de un plazo sea inhábil se entenderá prorrogado al primer día hábil siguiente.
 
-Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones que la presente Ordenanza requiera. Para este fin podrá consultar a las asociaciones gremiales e instituciones ligadas al ámbito del urbanismo y la construcción, llevando un registro de su participación en esta materia.
+Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones que la presente Ordenanza requiera. Para este fin podrá consultar a las asociaciones gremiales, entre ellas, la que represente a los Directores de Obras Municipales, e instituciones ligadas al ámbito del urbanismo y la construcción, llevando un registro de su participación en esta materia.
 
 #### Artículo 1
 
@@ -55,6 +55,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 «Arcada, Arquería»: conjunto o serie de arcos de una construcción.
 
 «Area de extensión urbana»: superficie del territorio ubicada al interior del límite urbano, destinada al crecimiento urbano proyectado por el plan regulador intercomunal.
+
+"Área libre": Superficie del predio restante una vez aplicado el coeficiente de ocupación de suelo.
 
 «Area rural»: territorio ubicado fuera del límite urbano.
 
@@ -152,7 +154,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Diseño universal»: la actividad por la que se conciben o proyectan, desde el origen, entornos, procesos, bienes, productos, servicios, objetos, instrumentos, dispositivos o herramientas de forma que puedan ser utilizados por todas las personas o en su mayor extensión posible.
 
-«Distanciamiento»: distancia horizontal mínima entre un deslinde y el punto más cercano de una edificación.".
+«Distanciamiento»: distancia mínima horizontal entre el deslinde del predio y el punto más cercano de la edificación, sin contar los elementos de techumbre en volado, aleros, vigas, jardineras o marquesinas.
 
 «Ducto» (Shaft) : conducto técnico generalmente destinado a contener las instalaciones de un edificio.
 
@@ -218,7 +220,7 @@ a 100 personas.
 
 «Estudio de seguridad»: evaluación de las condiciones de seguridad que ofrece una construcción o un proyecto de construcción a sus posibles ocupantes, suscrito por un profesional competente.
 
-«Fachada»: cualquiera de los paramentos exteriores de un edificio.
+«Fachada»: cualquiera de los paramentos exteriores de un edificio.".
 
 «Fachada con vano»: paramento exterior de una edificación, desde el suelo natural hasta su punto más alto, que incluye entrantes y salientes, tales como puertas, ventanas, bow-windows, balcones, terrazas, azoteas, loggias, escaleras y pasillos exteriores, salvo que los vanos se ubiquen a una altura superior a 1,8 m con respecto al nivel interior del piso que sirven.
 
@@ -284,7 +286,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Norma oficial»: DEROGADO.
 
-«Norma técnica»: la que elabora el Instituto Nacional de Normalización (INN).
+«Norma técnica»: la que elabora el Instituto Nacional de Normalización (INN).".
 
 «Norma Técnica Oficial»: la elaborada por el Instituto Nacional de Normalización, aprobada por decreto supremo.
 
@@ -376,7 +378,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 "Registro de la Ley Nº 20.296": el Registro Nacional de Instaladores, Mantenedores y Certificadores de Ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, creado por la ley Nº 20.296.
 
-"Registro de Proyectos Inmobiliarios" : Registro público y electrónico, contemplado en el artículo 7° quáter de la ley N° 18.168, implementado y mantenido por la Subsecretaría de Telecomunicaciones en su página web, para efectos de la inscripción de los proyectos inmobiliarios.
+"Registro de Proyectos Inmobiliarios": Registro público y electrónico, contemplado en el artículo 7° quáter de la ley N° 18.168, implementado y mantenido por la Subsecretaría de Telecomunicaciones en su página web, para efectos de la inscripción de los proyectos inmobiliarios.
 
 «Rehabilitación de un inmueble»: recuperación o puesta en valor de una construcción, mediante obras y modificaciones que, sin desvirtuar sus condiciones originales, mejoran sus cualidades funcionales, estéticas, estructurales, de habitabilidad o de confort.
 
@@ -398,7 +400,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Sector»: DEROGADO.
 
-«Símbolo Internacional de Accesibilidad (SIA)»: "Símbolo gráfico conforme a la NCh 3180, con silla de ruedas en blanco sobre un fondo azul, Pantone 294C.
+«Símbolo Internacional de Accesibilidad (SIA)»: Símbolo gráfico conforme a la NCh 3180, con silla de ruedas en blanco sobre un fondo azul, Pantone 294C.
 
 «Sistema automático de extinción de incendio»: conjunto formado por dispositivos y equipos capaces de detectar y descargar, en forma automática, un agente extintor de fuego en un área de incendio.
 
@@ -493,6 +495,8 @@ Las definiciones de los vocablos contenidos en este artículo prevalecerán sobr
 #### Artículo 1
 
 1.3. Las solicitudes de aprobaciones o permisos presentadas ante las Direcciones de Obras Municipales serán evaluadas y resueltas conforme a las normas vigentes en la fecha de su ingreso.
+
+Los permisos, aprobaciones y autorizaciones emitidas por los Directores de Obras Municipales gozan de una presunción de legalidad, de imperio y exigibilidad frente a sus destinatarios, desde su entrada en vigencia, en conformidad al inciso final del artículo 3 de la Ley 19.880 que establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado
 
 Tratándose de normas técnicas de instalaciones o de urbanización, deberán ser evaluadas y resueltas por los organismos competentes de conformidad a las normas vigentes en la fecha de ingreso de la solicitud del permiso respectivo ante la Dirección de Obras Municipales.
 
@@ -1320,81 +1324,7 @@ cada caso.
 
 2. Estudio de Factibilidad, para ampliar o dotar de agua potable y alcantarillado de aguas servidas y de aguas lluvias cuando corresponda, en relación con el crecimiento urbano proyectado.
 
-3. Ordenanza Local, que fijará las normas urbanísticas propias de este nivel de planificación territorial, relativas a:
-
-a) El límite urbano de sus centros poblados.
-
-b) Las vías estructurantes de la comuna en
-
-relación a las vías colectoras y de
-
-servicio, con sus respectivos anchos
-
-mínimos, líneas de edificación y franjas
-
-sujetas a expropiación; como asimismo, los
-
-anchos de las vías expresas y troncales si
-
-éstas hubieran sido definidas en la
-
-planificación regional o intercomunal en
-
-su caso.
-
-c) Zonificación o definición de subzonas en
-
-que se dividirá la comuna, en base a
-
-algunas de las siguientes normas
-
-urbanísticas: usos de suelo, sistemas de
-
-agrupamiento de las edificaciones,
-
-coeficientes de constructibilidad,
-
-coeficientes de ocupación de suelo o de
-
-los pisos superiores, alturas máximas de
-
-edificación, adosamientos,
-
-distanciamientos mínimos a los medianeros,
-
-antejardines, ochavos y rasantes;
-
-superficie de subdivisión predial mínima;
-
-densidades máximas, alturas de cierros,
-
-exigencias de estacionamientos según
-
-destino de las edificaciones; áreas de
-
-riesgo o de protección, señalando las
-
-condiciones o prevenciones que se deberán
-
-cumplir en cada caso, conforme a los
-
-artículos 2.1.17. y 2.1.18. de este mismo
-
-Capítulo.
-
-d) Zonas o inmuebles de conservación
-
-histórica, Zonas Típicas y Monumentos
-
-Nacionales, con sus respectivas reglas
-
-urbanísticas especiales.
-
-e) Exigencias de plantaciones y obras de
-
-ornato en las áreas afectas a declaración
-
-de utilidad pública.
+3. Ordenanza Local, que contendrá las disposiciones reglamentarias pertinentes a este nivel de planificación territorial.
 
 4. Planos, que expresen gráficamente los contenidos de la Ordenanza Local, a escala 1:20.000, 1:10.000, 1:5.000, 1:2.500 o a escalas adecuadas a las respectivas temáticas. Deberán también graficar con precisión los límites de los espacios públicos de la comuna y de las áreas que se propone declarar afectas a utilidad pública.
 
@@ -1403,6 +1333,52 @@ No obstante lo dispuesto en el inciso segundo del artículo 2.1.9., los Planes R
 Los planos que conformen el Plan Regulador Comunal, sus modificaciones o enmiendas, deberán llevar la firma del Alcalde, del Asesor Urbanista y del arquitecto director del estudio.
 
 Los estudios o trabajos complementarios a la formulación del Plan deberán ser suscritos por los profesionales especialistas que los hubieren elaborado.
+
+#### Artículo 2
+
+1.10. bis: La Planificación Urbana Comunal regulará el desarrollo físico de las áreas urbanas, a través de un Plan Regulador Comunal, cuyas disposiciones se referirán a los siguientes aspectos urbanísticos:
+
+a) El límite urbano de los centros poblados.
+
+b) La red vial del área urbana de la comuna.
+
+Las vías colectoras, de servicio, locales y pasajes con sus respectivos anchos de acuerdo a los criterios definidos en los artículos 2.3.2. y 2.3.3. de esta Ordenanza;
+
+La asimilación de las vías existentes, de conformidad con el inciso segundo del artículo 2.3.1. de esta Ordenanza;
+
+Las vías expresas y troncales, cuando estas hubieren sido definidas en la planificación intercomunal o metropolitana, sin perjuicio de lo señalado en el artículo 28 de la Ley General de Urbanismo y Construcciones y artículo 2.1.3. de esta Ordenanza.
+
+c) Terrenos destinados a circulaciones, plazas y parques, incluidos sus ensanches, de conformidad a lo dispuesto en el artículo 59° de la Ley General de Urbanismo y Construcciones.
+
+d) Zonas o inmuebles de conservación histórica, Zonas Típicas y Monumentos Nacionales, con sus respectivas reglas urbanísticas especiales.
+
+e) Exigencias de plantaciones y obras de ornato en las áreas afectas a declaración de utilidad pública.
+
+f) Zonificación en que se dividirá la comuna, la que podrá desagregarse, a su vez, a nivel de subzonas, sectores o una porción específica del territorio, en base a algunas de las siguientes normas urbanísticas: usos de suelo, sistemas de agrupamiento de las edificaciones, coeficientes de constructibilidad, coeficientes de ocupación de suelo o de los pisos superiores, alturas máximas de edificación, adosamientos, distanciamientos mínimos a los medianeros, antejardines, ochavos y rasantes; superficie de subdivisión predial mínima; densidades máximas, exigencias de estacionamiento según destino de las edificaciones; áreas de riesgo o de protección, señalando las condiciones o prevenciones que se deberán cumplir en cada caso, conforme a los artículos 2.1.17. y 2.1.18. de este mismo Capítulo.
+
+g) Disposiciones relacionadas con los siguientes aspectos urbanísticos, conforme a la normativa legal vigente:
+
+- Alturas de cierros hacia el espacio público, y porcentajes de transparencia de los mismos en el caso de las propiedades abandonadas.
+
+- Exigencias de distintos usos de suelo y destinos de una misma zona, subzona, sector o porción específica del territorio.
+
+- Los espacios públicos del territorio del plan, en particular, sus características referidas, entre otros aspectos, a arborización, vegetación, iluminación externa, aceras y bandejones, los cuales, si fuere necesario, podrán ser fijados con exactitud a través de planos de detalle.
+
+- Determinación de los sectores vinculados con monumentos nacionales, inmuebles o zonas de conservación histórica, el agrupamiento de los edificios y las características arquitectónicas de los proyectos a realizarse, los cuales, si fuere el caso, podrán ser fijados con exactitud a través de planos de detalle.
+
+Asimismo, podrá exigir la adopción de una determinada morfología o un particular estilo arquitectónico de las fachadas en ciertos sectores, el agrupamiento de los edificios y las características arquitectónicas de los proyectos a realizarse, los cuales, si fuere el caso, podrán ser fijados con exactitud a través de planos de detalle.
+
+En los dos últimos casos, dichas características estarán referidas al área libre, antejardín, tipos de agrupamiento conforme a los destinos del proyecto, frente predial mínimo, tratamiento de fachadas, cubiertas, azoteas, mansardas, instalaciones subterráneas, portales y marquesinas, entre otros.
+
+El instrumento podrá definir la aplicación de las distintas normas y disposiciones supeditándolas entre sí.
+
+De acuerdo a lo dispuesto en el artículo 184 de la Ley General de Urbanismo y Construcciones, los planes reguladores comunales podrán otorgar incentivos en las normas urbanísticas, aplicadas en todo o parte de su territorio, condicionados al desarrollo de espacios públicos o al mejoramiento de los ya existentes, a la materialización, reparación o mejoramiento de equipamientos públicos, a la instalación o incorporación de obras de arte en el espacio público, o al cumplimiento de otras condiciones que induzcan o colaboren en el mejoramiento de los niveles de integración social y sustentabilidad urbana.
+
+Conforme a lo señalado, los planes reguladores comunales podrán establecer los incentivos con el objeto de fomentar la apertura de espacios privados al uso o tránsito público; la inclusión de medidas que propicien el cuidado del medio ambiente o eficiencia energética. Asimismo, podrán establecer normas que fomenten un determinado uso de suelo, destino y/o sistema de agrupamiento con el objeto de favorecer la cohesión territorial.
+
+El cumplimiento de las condiciones anteriores será requisito para la recepción de los proyectos, aplicándoseles lo dispuesto en el artículo 173 de la Ley General de Urbanismo y Construcciones.
+
+El Plan Regulador Comunal deberá precisar el territorio en que dichos incentivos sean aplicables. La aprobación de un plan con estos incentivos dejará sin aplicación en dicho territorio los artículos 63°, 107°, 108° y 109° de la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 2
 
