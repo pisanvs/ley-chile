@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.488, de fecha 16 de septiembre del 2019, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº101, correspondiente al inmueble ubicado en Huelén 2084 V Resbalon, Rol de Avalúo Nº 2896-17, de la comuna de Cerro Navia, Región Metropolitana, de aparente dominio de Lobos Gómez Héctor Eugenio y otro, con una superficie aproximada de 704 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Construcción Costanera Sur Poniente entre Balmaceda y Vespucio". La Comisión de Peritos integrada por los señores Claudio Castro Araya, constructor civil; Felipe Valdés González, ingeniero agrónomo y señora Javiera Villafañe Hormazábal, arquitecto, mediante informe de fecha 10 de septiembre de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $38.859.918, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
