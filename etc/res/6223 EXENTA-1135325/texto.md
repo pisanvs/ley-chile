@@ -60,19 +60,61 @@ c. El SAG autorizará mediante resolución exenta, el uso especial de los plagui
 
 5. Las medidas fitosanitarias que deberá realizar el propietario, tenedor o arrendatario, en lugar de producción positivo, según la condición y que serán de cargo de estos, son:
 
-5.1. Sitios de producción positivos con presencia de la plaga (inspección o trampeo):
+5.1 Sitios de producción positivos con presencia de la plaga (inspección o trampeo)
 
 . Inmovilizar las plantas ubicadas en el sitio de producción.
 
-. Realizar tratamiento de sanitización de contenedores, herramientas, maquinarias, infraestructura (nave y/o invernadero) y tratamiento de sustratos, de acuerdo a métodos físicos, solarización, pulverización u otro que aseguren sean letales para la plaga.
+. Realizar tratamiento de sanitización de contenedores, herramientas, maquinarias, infraestructura (nave y/o invernadero) y tratamiento de sustratos, de acuerdo a métodos físicos, solarización (solo en verano), o aplicación de plaguicidas u otro que aseguren sean letales para la plaga.
 
-5.1.1. Con especies botánicas hospedantes de la plaga:
+5.1.1. Con especies botánicas positivas a O. sacchari:
 
-. Eliminar mediante quema o trozado y entierro a un mínimo de 1 m. de profundidad con cal, todas las plantas positivas y otros hospedantes ubicados en el mismo sitio de producción.
+. Eliminación inmediata mediante trozado y entierro a un mínimo de 1 m. de profundidad con cal, o quema (previa autorización de Conaf), de todas las plantas positivas y plantas restantes de la misma especie botánica, ubicadas en el sitio de producción.
 
-. Trasladar el material para su destrucción, con medidas de bioseguridad, evitando la dispersión de la plaga y sustracción eventual de plantas.
+. Aplicación de plaguicidas autorizados con resolución de uso especial a las plantas, previo a la destrucción; y en la fosa, antes del enterramiento.
 
-5.1.2. Con especies botánicas no hospedantes de la plaga:
+. Realizar las actividades descritas, en el mismo sitio de producción positivo.
+
+. Trasladar el material, plantas y sustratos de especies positivas, para su destrucción, con medidas de bioseguridad, evitando la dispersión de la plaga y sustracción eventual de plantas.
+
+. Las macetas o contenedores de estas especies deberán ser desinfectadas.
+
+5.1.2. Con especies botánicas negativas a O. sacchari:
+
+. Se deberá realizar una cuarentena, para aquellas especies botánicas cuyas plantas, luego de la inspección primaria se encuentran negativas pero, por ser especies hospedantes y compartir el mismo sitio de producción positivo, son sospechosas de estar infestadas.
+
+. Si al inicio, al final o durante el transcurso del periodo de cuarentena se detecta un ejemplar vivo o muerto de O. sacchari se destruye todo el material de la especie bospedante positiva, ubicado en el sitio de producción.
+
+. La cuarentena debe cumplir con los siguientes requisitos, los cuales se analizarán caso a caso:
+
+° Periodo de cuarentena: Dependerá de la infraestructura del sitio de producción y su capacidad para regular temperaturas y humedad.
+
+° Infraestructura de cuarentena: Deberá realizarse en condiciones de confinamiento que aseguren medidas de bioseguridad. No trasladar insumos ni maquinarias a otras naves.
+
+° Inspección: Deberán ser inspeccionados oficial e intensivamente por el SAG en 2 oportunidades, al inicio y al final de la cuarentena, según el porcentaje determinado del tamaño del lote.
+
+La inspección debe incluir:
+
+- Recorrido completo inicial y el marcaje de plantas que deberán ser inspeccionadas.
+
+- Descalce completo de plantas con sintomatología y/o asintomáticas.
+
+- Búsqueda de larvas o pupas en sustrato, entre raíces y al interior de la planta, siendo este muestreo destructivo.
+
+- Disponer de personal del vivero para asistencia en labores propias de la inspección del SAG y la infraestructura necesaria (mesón, luminaria, entre otros) al interior del sitio de producción.
+
+- El costo de inspección del SAG, será a cargo del productor, según disponibilidad por parte del SAG Regional, para realizar un calendario de inspección.
+
+- Cada ciclo de inspección se realizará en un tiempo máximo de 1 mes.
+
+° Programa de aplicación de plaguicidas autorizados:
+
+- Durante toda la cuarentena y según periodo de protección de los plaguicidas (foliar cada 7-14 días).
+
+- Aplicaciones: al sustrato, maceta por maceta, y foliar (aplicación crepuscular-nocturna para el control de adultos).
+
+- Nº de aplicaciones según plaguicidas autorizados escogidos (revisar resoluciones caso a caso).
+
+5.1.3. Con especies botánicas no hospedantes de la plaga:
 
 . Especies no hospedantes deberán ser sometidas a tratamiento con plaguicidas que cuenten con autorización de uso especial, para el control de polillas de Opogona en estado adulto, para prevenir posible contaminación.
 
@@ -90,9 +132,9 @@ c. El SAG autorizará mediante resolución exenta, el uso especial de los plagui
 
 . Especies no hospedantes, ubicadas en sitios de producción negativos no se encontrarán sujetas a medidas fitosanitarias, permitiéndose su movilización.
 
-5.3. Monitorear mediante inspección visual e instalación de trampas de feromonas específicas para la plaga en forma permanente, tanto en el o los sitios de producción positivos como en todos aquellos que tengan hospedantes de la plaga. Instalar 4 trampas/ha, manteniendo una distancia entre trampas de 50 metros y de la trampa a la orilla de 25 metros. Las frecuencias del servicio de trampeo son: revisión cada 15 días y cambio de feromona, una vez al mes.
+5.3. Monitorear mediante inspección visual e instalación de trampas de feromonas específicas para la plaga en forma permanente, tanto en el o los sitios de producción positivos como en todos aquellos que tengan hospedantes de la plaga. Instalar 4 trampas/ha, o proporcional según las dimensiones de cada sitio de producción (nave o invernadero) manteniendo una distancia entre trampas de 50 metros y de la trampa a la orilla de 25 metros. Las frecuencias del servicio de trampeo son: revisión cada 15 días y cambio de feromona, una vez al mes.
 
-5.4. Se considera libre de la plaga luego de al menos 3 ciclos de vida en invernadero, o al menos 4 meses según condiciones agroclimatológicas. Si en el transcurso de este periodo, se obtiene un positivo (detección de estado inmaduro o adulto), se aplicarán las medidas indicadas anteriormente.
+5.4. Se considera libre de la plaga luego de al menos 3 ciclos de vida en invernadero, o al menos 6 meses según condiciones agroclimatológicas. Si en el transcurso de este periodo, se obtiene un positivo (detección de estado inmaduro o adulto), se aplicarán las medidas indicadas anteriormente.
 
 5.5. Registrar toda la información relacionada en cuaderno de campo.
 
