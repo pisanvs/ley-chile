@@ -1,0 +1,3 @@
+RESOLUCIÓN D.G.A. Nº 562 EXENTA, DE 3 DE ABRIL DE 2019, QUE INFORMA DISPONIBILIDAD DE RECURSOS HÍDRICOS SUBTERRÁNEOS EN LOS SECTORES EN QUE SE DIVIDE EL ACUÍFERO DEL SALAR DE ATACAMA AL DÍA 25 DE AGOSTO DE 2014
+
+Se establece que al día 25 de agosto de 2014 los sectores acuíferos A1, A2, A, B1, C1, C, N1 y N del Salar de Atacama, presentaban recarga suficiente para satisfacer la demanda de aguas subterráneas comprometida al día 20 de julio de 2014, permitiendo nuevas solicitudes de derechos de aprovechamiento hasta copar los volúmenes totales anuales establecidos en la Tabla 1 del Informe Técnico DARH Nº 234, de 2014, señalada en el considerando Nº 4 de la presente resolución extractada.
