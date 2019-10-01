@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN METROPOLITANA, A LA "IGLESIA CRISTIANA PENTECOSTAL DE CHILE"
+
+Mediante decreto exento Nº E-461, de 13 de septiembre de 2019, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Iglesia Cristiana Pentecostal de Chile", RUT Nº 65.624.760-6, el inmueble fiscal ubicado en esquina Sur-Poniente del Pasaje Juan Espina con Pasaje Diego García, Población La Portada, comuna de San Bernardo, provincia de Maipo, Región Metropolitana; enrolado en el Servicio de Impuestos Internos con el Nº 5578-23; inscrito a nombre del Fisco a fs. 8831 Nº 4280 del Registro de Propiedad del Conservador de Bienes Raíces de San Bernardo, correspondiente al año 1997; singularizado en el Plano Nº 13401-8903-C.U.; con una superficie de 312,5 m2. La Concesión se otorga por un plazo de 15 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble al funcionamiento de la Iglesia Cristiana Pentecostal de Chile, debiendo mantenerlo habilitado y en perfecto estado, todas las dependencias necesarias para el cumplimiento de sus funciones, siendo de su cargo todos los pagos por concepto de servicios y contribuciones correspondientes. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Francisca Navarro Barriga, Jefa de División Jurídica.
