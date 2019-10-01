@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 4.489, de fecha 16 de septiembre de 2019, se ordenó la expropiación total, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado lote Nº103, correspondiente al inmueble ubicado en Costanera Sur 7725 Rivera Sur Mapocho, Rol de Avalúo Nº 2897-9, de la Comuna de Cerro Navia, Región Metropolitana, de aparente dominio de Loeweinstein Goldschmidt Hilda, con una superficie aproximada de 4599,13 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Construcción Costanera Sur Poniente entre Balmaceda y Vespucio". La Comisión de Peritos integrada por los señores Claudio Castro Araya, constructor civil; Felipe Valdés González, ingeniero agrónomo y señora Javiera Villafañe Hormazábal, arquitecto, mediante informe de fecha 10 de septiembre de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $162.796.713, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley Nº 2.186 de 1978.-
+
+Director Serviu Metropolitano.
