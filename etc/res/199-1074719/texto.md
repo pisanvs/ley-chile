@@ -134,7 +134,7 @@ La Secretaría Ejecutiva tendrá las siguientes funciones o atribuciones:
 
 4. Preparar y proponer al Ministro de Economía, Fomento y Turismo, los Convenios que se deban celebrar con el fin de materializar las inversiones estratégicas definidas por el Comité.
 
-5. Realizar, seguimiento y monitoreo de los Convenios, programas y proyectos financiados por el Fondo y proveer de información a los encargados de realizar evaluaciones en el sector público, adoptando las medidas necesarias para garantizar la transparencia tanto en la asignación como en el uso de los recursos.
+5. Realizar el seguimiento y monitoreo de los convenios, programas y proyectos financiados por el Fondo y proveer de información a los encargados de realizar evaluaciones en el sector público, adoptando las medidas necesarias para garantizar la transparencia tanto en la asignación como en el uso de los recursos. Esta obligación será asumida directamente por los organismos ejecutores en aquellos casos en que se acuerde el término anticipado de los convenios de desempeño, debiendo, estos últimos, velar por el término de las actividades y la verificación del cumplimiento de los objetivos, indicadores y metas que se encuentren pendientes de ejecución, y mantener dicha información a disposición de las entidades que realicen evaluaciones en el sector público.
 
 6. Proponer al Comité, normativas o documentos metodológicos que faciliten y hagan más eficiente el funcionamiento del Fondo.
 
@@ -244,7 +244,7 @@ El Comité asignará los recursos del Fondo a proyectos que hayan sido aprobados
 
 #### Artículo 12
 
-La Secretaría Ejecutiva elaborará de manera anual un informe con las actividades realizadas, los programas y proyectos financiados y las evaluaciones y seguimiento de estas mismas sin perjuicio de poder definir acciones complementarias que permitan garantizar la trasparencia y efectividad del uso de los recursos contenidos en el Fondo.
+Eliminado.
 
 #### Artículo 13
 
