@@ -1,4 +1,4 @@
-LLAMADO 2019 A POSTULACIÓN PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR EN LA MODALIDAD REGULADA POR SU CAPÍTULO SEGUNDO, DE LA ATENCIÓN A CONDOMINIOS DE VIVIENDAS SOCIALES, PARA LAS REGIONES DE VALPARAÍSO, LIBERTADOR GENERAL BERNARDO O'HIGGINS, MAULE, BIOBÍO, ARAUCANÍA Y METROPOLITANA. FIJA CONDICIONES PARA SU APLICACIÓN, EL MONTO DE RECURSOS DISPONIBLES Y SU FORMA DE DISTRIBUCIÓN PARA CADA REGIÓN
+LLAMADO 2019 A POSTULACIÓN PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR EN LA MODALIDAD REGULADA POR SU CAPÍTULO SEGUNDO, DE LA ATENCIÓN A CONDOMINIOS DE VIVIENDAS SOCIALES, PARA LAS REGIONES DE ARICA Y PARINACOTA, DE ANTOFAGASTA, DE ATACAMA,DE VALPARAÍSO, LIBERTADOR GENERAL BERNARDO O'HIGGINS, DE MAULE, DE ÑUBLE, DEL BIOBÍO, DE ARAUCANÍA DE LOS RÍOS Y DE LOS LAGOS Y METROPOLITANA DE SANTIAGO. FIJA CONDICIONES PARA SU APLICACIÓN, EL MONTO DE RECURSOS DISPONIBLES Y SU FORMA DE DISTRIBUCIÓN PARA CADA REGIÓN
 
 Santiago, 15 de mayo de 2019.- Hoy se resolvió lo que sigue:
 
@@ -32,7 +32,7 @@ b) Que las intervenciones a realizar en los condominios configuran situaciones d
 
 Resolución:
 
-1. Llámese a postulación a los Condominios de Viviendas Sociales emplazados en las regiones de Valparaíso, del Libertador General Bernardo O'Higgins, del Maule, del Biobío, de la Araucanía y Metropolitana de Santiago, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y las áreas comunes de la copropiedad; del Título II Mejoramiento de la Vivienda, letras b. 4) y b. 5) del artículo 5° del DS N° 255 (V. y U.), de 2006, destinados al desarrollo de proyectos de Mejoramiento de Bienes Comunes Edificados y Obras de Innovaciones de Eficiencia Energética y Acondicionamiento Térmico, incluyendo las redes de servicio, y del Título III correspondientes a Ampliación de la Vivienda.
+1. Llámese a postulación a los Condominios de Viviendas Sociales emplazados en las regiones de Arica y Parinacota, de Antofagasta, de Atacama, de Valparaíso, del Libertador General Bernardo O'Higgins, de Maule, de Ñuble, del Biobío, de Araucanía, de Los Ríos y de Los Lagos y Metropolitana de Santiago, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y las áreas comunes de la copropiedad; del Título II Mejoramiento de la Vivienda, letras b. 4) y b. 5) del artículo 5° del DS N° 255 (V. y U.), de 2006, destinados al desarrollo de proyectos de Mejoramiento de Bienes Comunes Edificados y Obras de Innovaciones de Eficiencia Energética y Acondicionamiento Térmico, incluyendo las redes de servicio, y del Título III correspondientes a Ampliación de la Vivienda.
 
 ### 2. Podrán postular al presente llamado proyectos en:
 
@@ -164,13 +164,15 @@ En el caso de los proyectos que ingresen a Serviu en la modalidad de Subsidio a 
 
 A partir del mes de julio de 2019, el Ministro de Vivienda y Urbanismo, mediante resoluciones, podrá reasignar estos recursos entre regiones a fin de garantizar la completa asignación de los subsidios del presente llamado.
 
-18. Considerando los recursos establecidos en el resuelvo 17 precedente, previo a la selección las Seremi deberán identificar separadamente, mediante resolución, los montos que serán destinados a la selección de a) Condominios Sociales que conforman la demanda general del programa y de b) Condominios Sociales insertos en conjuntos habitacionales que, en virtud de las resoluciones exentas citadas en el Visto 4 de la presente resolución, se encuentran en los barrios seleccionados por el Programa de Recuperación de Barrios para el período 2014-2018.
+Las Seremi Minvu determinarán, mediante resolución, la cantidad de recursos a emplear en cada proceso de selección considerado en el presente llamado. Sin perjuicio de lo anterior, toda vez que existieren saldos derivados del primer proceso de selección, éstos podrán emplearse en la segunda selección. Asimismo, las Seremi Minvu podrán establecer condiciones complementarias para determinar aquellas copropiedades habilitadas para digitar su postulación en el Sistema Informático dispuesto por el Minvu en el segundo proceso de selección.
+
+18. Considerando los recursos establecidos en el resuelvo 17 de la presente resolución, previo a la selección las Seremi deberán identificar separadamente, mediante resolución, los montos que serán destinados a la selección de a) Condominios Sociales que conforman la demanda general del programa y de b) Condominios Sociales insertos en conjuntos habitacionales que se encuentran en los barrios seleccionados por el Programa de Recuperación de Barrios, mediante resolución, a partir de 2014.
 
 19. Los factores de prelación deberán ser aplicados por una Comisión Evaluadora que convocará el Secretario Regional Ministerial, integrada por a lo menos 2 profesionales representantes de la Seremi y 2 profesionales representantes del Serviu respectivo, en base a los factores descritos a continuación:
 
 .
 
-Los factores regionales de prelación deberán ser establecidos mediante resolución del Seremi, hasta el día 31 de mayo de 2019, en el caso del primer proceso de selección, y hasta el 13 de septiembre de 2019, tratándose del segundo proceso de selección.
+Los factores regionales de prelación, deberán ser establecidos mediante resolución del Seremi, hasta el día 31 de mayo de 2019, en el caso del primer proceso de selección, y hasta el 25 de octubre de 2019, tratándose del segundo proceso de selección.
 
 En el caso de las regiones de Valparaíso, Biobío y Metropolitana, el puntaje que resulte tras aplicar los factores de prelación a las copropiedades que se encuentren al interior de los polígonos identificados en el Anexo 2, de la presente resolución, deberá ser multiplicado por 1,2.
 
