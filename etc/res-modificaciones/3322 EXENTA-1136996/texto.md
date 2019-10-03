@@ -1,16 +1,16 @@
-MODIFICA RESOLUCIÓN Nº 441, DE 2019, DE ESTA SUBSECRETARÍA DE ESTADO, EN EL SENTIDO QUE SE INDICA
+MODIFICA RESOLUCIÓN N° 1.996, DE 2019, DE ESTA SUBSECRETARÍA DE ESTADO, EN EL SENTIDO QUE SE INDICA
 
-Núm. 1.996 exenta.- Santiago, 20 de junio de 2019.
+Núm. 3.322 exenta.- Santiago, 27 de septiembre de 2019.
 
 Visto:
 
-Lo dispuesto en la ley Nº 19.880; en el decreto ley Nº 799, de 1979, sobre disposiciones que regulan uso y circulación de vehículos estatales y sus modificaciones; en el oficio circular Nº 26, de 2003, de los Ministerios de Hacienda e Interior; en la resolución administrativa exenta Nº 441, de 2019, de esta procedencia, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija normas sobre exención de trámite de Toma de Razón.
+Lo dispuesto en la ley N° 19.880; en el decreto ley N° 799, de 1979, sobre disposiciones que regulan uso y circulación de vehículos estatales y sus modificaciones: en el oficio circular N° 26, de 2003, de los Ministerios de Hacienda e Interior; en la resolución administrativa exenta N° 1.996, de 2019, de esta procedencia, y en las resoluciones N°s 7 y 8, ambas de 2019, de la Contraloría General de la República.
 
 Considerando:
 
-1. Que, mediante memorándum Nº 470028919, de 16 de junio de 2019, emanado de la Encargada del Departamento Administrativo de la Subsecretaría de Economía y Empresas de Menor Tamaño, solicito modificar la resolución administrativa exenta Nº 441, de 2019, de esta procedencia.
+1. Que, mediante memorándum N° 470038019, de 6 de agosto de 2019, emanado de la Encargada (S) del Departamento Administrativo de la Subsecretaría de Economía y Empresas de Menor Tamaño, solicito modificar la resolución administrativa exenta N° 1.996, de 2019, de esta procedencia.
 
-2. Que, lo anteriormente expuesto fue requerido con el objeto de reasignar vehículos fiscales tanto al Ministro de Economía, Fomento y Turismo como al Subsecretario de Economía y Empresas de Menor Tamaño, asimismo de actualizar la nómina de conductores, recinto de estacionamiento y asignar conductores a los vehículos que se reasignarán a las autoridades individualizadas.
+2. Que, lo anteriormente expuesto, fue requerido con el objeto de reasignar vehículos fiscales tanto al Subsecretario de Economía y Empresas de Menor Tamaño como a la Unidad de Servicios Generales indicando la nómina de conductores, recinto de estacionamiento y asignar conductores a los vehículos que se reasignarán a la autoridad y a la unidad individualizada.
 
 3. Que, se hace necesario dictar el presente acto administrativo a fin de modificar la resolución indicada precedentemente.
 
@@ -18,9 +18,9 @@ Resuelvo:
 
 #### Artículo primero
 
-Modifícase la resolución administrativa exenta Nº 441, de 2019, de esta Subsecretaría, en los siguientes términos:
+Modifícase la resolución administrativa exenta N° 1.996, de 2019, de esta Subsecretaría, en los siguientes términos:
 
-1. Reemplácense los artículos segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno y décimo, por los siguientes:
+1. Reemplácense los artículos segundo, tercero, cuarto, quinto, sexto, noveno y décimo, por los nuevos artículos que a continuación se indican:
 
 #### Artículo segundo
 
@@ -89,6 +89,8 @@ e) Domicilio conductor Mario Matamala Molina, ubicado en calle Víctor Manuel N�
 f) Domicilio conductor Roberto del Carmen Rivera Martínez, ubicado en Llico N° 399, comuna San Joaquín, Santiago.
 
 Los conductores podrán estacionar el vehículo en su domicilio solamente cuando se encuentren autorizados por su jefatura directa.
+
+En lo no modificado expresamente manténgase íntegramente lo dispuesto en la resolución N° 1.996. de 2019, de esta Subsecretaría de Estado.
 
 Anótese, comuníquese y publíquese.- Ignacio Guerrero Toro, Subsecretario de Economía y Empresas de Menor Tamaño.
 
