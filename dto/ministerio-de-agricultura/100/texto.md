@@ -16,7 +16,23 @@ Que el artículo 11° del decreto ley N° 3.557, de 1980, obliga a los particula
 
 Decreto:
 
-1.- Prohíbese el uso del fuego para la quema de rastrojos, de ramas y materiales leñosos, de especies vegetales consideradas perjudiciales y, en general, para cualquier quema de vegetación viva o muerta que se encuentre en los terrenos agrícolas, ganaderos o de aptitud preferentemente forestal, desde el 15 de marzo al 31 de agosto de cada año, en todas las provincias de la Región Metropolitana de Santiago, y entre el 1º de mayo al 31 de agosto de cada año, en la provincia de Cachapoal de la Región del Libertador General Bernardo O'Higgins.
+1.- Prohíbase el uso del fuego para la quema de rastrojos, de ramas y materiales leñosos, de especies vegetales consideradas perjudiciales y, en general, para cualquier quema de vegetación viva o muerta que se encuentre en los terrenos agrícolas, ganaderos o de aptitud preferentemente forestal, entre el 1º de mayo al 31 de agosto de cada año, en la provincia de Cachapoal de la Región del Libertador General Bernardo O'Higgins, y de acuerdo al siguiente cronograma, para todas las provincias de la Región Metropolitana de Santiago:
+
+Período Entrada en vigencia
+
+15 de marzo al Desde la entrada en
+
+30 de septiembre vigencia del decreto
+
+que lo establece
+
+1 de marzo al A contar del 24 de
+
+31 de octubre noviembre de 2022
+
+1 de enero al A contar del 24 de
+
+31 de diciembre noviembre de 2026
 
 2.- Prohíbese, en todo el territorio nacional, la quema de neumáticos u otros elementos contaminantes para la agricultura como práctica para prevenir o evitar los efectos de las heladas.
 
