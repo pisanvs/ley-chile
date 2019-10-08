@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 3.441 EXENTA, DE 23 DE SEPTIEMBRE DE 2019
+
+Mediante resolución exenta Nº 3.441 de 23 de septiembre de 2019, el Servicio Nacional de Capacitación y Empleo, declara el cese a contar del 21 de septiembre de 2019, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Marcela Alejandra Ledesma Figueroa OTEC Empresa Individual de Responsabilidad Limitada (Marcela Alejandra Ledesma Figueroa OTEC )", RUT 76.617.919-3 contenida en la resolución exenta Nº 5.321 de 25 de noviembre de 2016, por cuanto dejó de cumplir con el requisito establecido en el Nº 2, del Art. 21 de la Ley 19.518.
+
+Santiago, 23 de septiembre de 2019.- Orlando Mancilla Vásquez, Jefe del Departamento de Desarrollo y Regulación de Mercado (S), Servicio Nacional de Capacitación y Empleo.
