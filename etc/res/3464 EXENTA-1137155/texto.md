@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN 3.464 EXENTA, DE 24 DE SEPTIEMBRE DE 2019
+
+Mediante resolución exenta Nº 3.464, de 24 de septiembre de 2019, el Servicio Nacional de Capacitación y Empleo, declara el cese a contar del 6 de septiembre de 2019, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Universidad Metropolitana de Ciencias de la Educación (Universidad Metropolitana de Ciencias de la Educación)", RUT 60.910.047-8, contenida en la resolución exenta Nº 203, de 15 de enero de 2014, por cuanto dejó de cumplir con el requisito establecido en el Nº 2, del Art. 21 de la ley 19.518.
+
+Santiago, 24 de septiembre de 2019.- Orlando Mancilla Vásquez, Jefe del Departamento de Desarrollo y Regulación de Mercado (S), Servicio Nacional de Capacitación y Empleo.
