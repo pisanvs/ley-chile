@@ -238,7 +238,7 @@ DISPOSICIONES TRANSITORIAS
 
 #### Artículo único
 
-El reglamento contenido en el artículo primero del presente decreto entrará en vigencia a partir del 10 de enero del año siguiente al de su publicación en el Diario Oficial.
+El reglamento contenido en el artículo primero del presente decreto entrará en vigencia a partir del 1° de enero del año siguiente al de su publicación en el Diario Oficial.
 
 Anótese, tómese razón, regístrese, comuníquese y publíquese en el Diario Oficial y los Boletines Oficiales del Ejército, Armada y Fuerza Aérea de Chile.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Alberto Espina Otero, Ministro de Defensa Nacional.
 
