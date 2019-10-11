@@ -22,7 +22,7 @@ Decreto:
 
 .
 
-Superficie aproximada total a expropiar: 318,8 metros cuadrados.
+Superficie aproximada total a expropiar: 406,39 metros cuadrados.
 
 2°. El presente decreto será publicado en el Diario Oficial y en un periódico de la provincia de Cachapoal, de la Región del Libertador Bernardo O'Higgins, si lo hubiere.
 
