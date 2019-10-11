@@ -1,0 +1,41 @@
+SUPRIME LA OFICINA DEL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN DE RECINTO Y ANEXA TERRITORIO DE SU COMPETENCIA A LA CIRCUNSCRIPCIÓN DE PINTO, COMUNA DEL MISMO NOMBRE, REGIÓN DE ÑUBLE
+
+Santiago, 2 de octubre de 2019.- Hoy se resolvió lo que sigue:
+
+Núm. 352 exenta.
+
+Vistos:
+
+Lo dispuesto, en el DFL N° 1/19.653, de 13 de diciembre de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley N° 19.880, que Establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; lo dispuesto en las letras c) y t) del artículo 7°, artículos 21° y 22° todos de la ley N° 19.477, Orgánica del Servicio de Registro Civil e Identificación; en el memorándum N° 249, de 27 de marzo de 2019, del Director Regional de la Región de Ñuble; memorándum SDO N° 501, de 27 de mayo de 2019; en el Ord. N° 482, de 31 de mayo de 2019, del Director Nacional del Servicio Registro Civil e Identificación; Ord. N° 987, de 10 de julio de 2019, del Director Nacional del Instituto Nacional de Estadísticas; en lo establecido en la resolución N° 7, de 29 de marzo de 2019, que Fija Normas sobre Exención del Trámite de Toma de Razón de la Contraloría General de la República; y,
+
+Considerando:
+
+1. Lo informado por el Director Regional de Ñuble a través del memorándum DR N° 249, de 27 de marzo de 2019; el oficio DR N° 341, de 7 de mayo de 2019, en que se informó al Alcalde de la I. Municipalidad de Pinto que no es posible de mantener la apertura de dos Oficinas en la comuna; y, la carta de restitución del inmueble por parte del arrendador de la Oficina de Recinto, que concedió un plazo de entrega de la propiedad de seis meses a contar del 11 de enero de 2019.
+
+2. Que, la Oficina de Recinto del Servicio, se encuentra ubicada a 19,6 kilómetros de la Oficina Pinto que es cabecera comunal y cuyas actuales condiciones territoriales de conectividad, transporte y comunicación entre ambas localidades, han mejorado sustancialmente, lo que se advierte en sus condiciones de oferta, calidad y periodicidad, facilitando con ello el traslado de sus habitantes hacia los distintos puntos de la zona.
+
+3. Que, el análisis estadístico de las actuaciones correspondientes a las Oficinas de Recinto y Pinto ha permitido establecer que éstas han presentado cifras decrecientes en la Oficina de Recinto, lo que se ha evidenciado durante los últimos tres años, representando un 5.43% del total de las atenciones de la comuna, absorbiendo la Oficina de Pinto el 94,57% de las actuaciones durante el mismo período. Que, el título que habilitaba al Servicio para tener emplazadas sus dependencias en la localidad de Recinto, es un contrato de arrendamiento cuya vigencia se extendió hasta el mes de enero de 2019, estableciéndose un plazo perentorio para efectuar la entrega del mismo lo que se verificó el 22 de mayo de 2019, fecha en que se entregó formalmente el inmueble.
+
+4. Que, las circunstancias enunciadas precedentemente, sumadas al imperativo legal que obliga al Director Nacional a dirigir, organizar, coordinar y administrar el Servicio, tomando las decisiones que estime necesarias para su buena marcha, dentro de los cuales se incluye la eficiente administración de los recursos humanos y económicos, y en uso de las facultades que la ley me confiere,
+
+Resuelvo:
+
+1. Suprímese, a contar del 30 de junio de 2019, la Oficina del Servicio de Registro Civil e Identificación de Recinto, situada en la comuna de Pinto, Región de Ñuble, anexándose aquella a la Circunscripción de la Oficina del Servicio de Registro Civil e Identificación de esta última, encontrándose con competencia para realizar todas las actuaciones y requerimientos de los(as) usuarios(as) de la localidad de Recinto.
+
+2. Que, los nuevos límites de la Circunscripción de Pinto corresponden a los de la homónima comuna, determinados en el artículo 8° letra A número 66 del DFL N° 3-18.715, de 1989, del Ministerio del Interior.
+
+3. Fíjanse, los nuevos límites de la Circunscripción correspondiente a la Oficina de Pinto, según información proporcionada por el Instituto Nacional de Estadísticas, en la forma que se indica a continuación:
+
+Norte: el río Chillán, desde el lindero oriente del predio El Olivar (rol 151-12) hasta su origen; la línea de cumbres de los Nevados de Chillán, desde el origen del río Chillán hasta la cumbre del volcán Chillán; y la línea de cumbres que limita por el poniente y sur la hoya del Río Ñuble, desde el volcán Chillán hasta el límite con Argentina.
+
+Este: el límite con Argentina, desde la línea de cumbres que limita por el sur la hoya del río Ñuble hasta el Portezuelo Cajón Nuevo.
+
+Sur: el camino de Portezuelo Cajón Nuevo, desde dicho Portezuelo, sobre el límite con Argentina, hasta el paralelo astronómico del origen del río Polcura; el citado paralelo astronómico, desde el camino del Portezuelo Cajón Nuevo hasta el origen del río Polcura; el río Polcura, desde su origen, en la laguna Béjar, hasta la desembocadura del estero Blanquillo; el estero Blanquillo, desde su desembocadura en el río Polcura hasta su origen; la línea recta, desde el origen del estero Blanquillo hasta el cerro Negro; la línea de cumbres que limita por el norte las hoyas de los ríos Cangrejo o Infiernillo, Trilaleo y Dañicalqui, desde el cerro Negro hasta la línea de cumbres que limita por el poniente la hoya del río Diguillín; la línea de cumbres que limita por el poniente la hoya del río Diguillín, desde la línea de cumbres que limita por el norte las hoyas de los esteros Cangrejo o Infiernillo, Trilaleo y Dañicalqui hasta el cerro Las Yeguas, pasando por las cotas 1.726, 1.702 y 1.553 de la carta 1:50.000 del Instituto Geográfico Militar; el meridiano astronómico del cerro Las Yeguas, desde dicho cerro hasta el río Diguillín; el río Diguillín, desde el meridiano astronómico del cerro Las Yeguas hasta el lindero sur del predio Trellencas (rol 635-25); el lindero sur y oriente del predio Trellencas, desde el río Diguillín hasta el estero Lluanco; el estero Lluanco, desde el lindero oriente del predio Trellencas hasta el lindero oriente del predio San Antonio (rol 635-38); el lindero oriente y sur del predio San Antonio, desde el estero Lluanco hasta el lindero entre los predios Las Cruces (rol 873-3) y San Ramón (rol 635-21); el lindero entre los predios antes mencionados, desde el lindero sur del predio San Antonio hasta el río Larqui; y el río Larqui, desde el lindero entre los predios Las Cruces y San Ramón hasta el lindero oriente del predio Lluanco (rol 460-166).
+
+Oeste: el lindero oriente de los predios Lluanco (rol 460-166) y Lluaco 66 (rol 3460-246), desde el río Larqui hasta el estero Pichilluanco; el estero Pichilluanco, desde el lindero oriente del predio Lluanco (rol 3460-246) hasta el lindero poniente del predio Boyén (rol 359-25); la línea de linderos que limita por el poniente los predios Boyén (rol 359-25), El Maitén (rol 151-73), Recreo de Pincura (rol 151-37) y La Piedra de Pincura (rol 359-96), desde el estero de Pichilluanco hasta el lindero norte del citado predio La Piedra de Pincura; el lindero norte del predio La Piedra de Pincura, desde su lindero poniente hasta el lindero sur del predio Lautaro (rol 151-16); el lindero sur y oriente del predio Lautaro, desde el lindero norte del predio La Piedra de Pincura hasta el lindero entre los predios Las Flores (rol 151-70) y Santa Marta (rol 151-17); el lindero entre los predios Las Flores y Santa Marta, desde el lindero oriente del predio Lautaro hasta el camino de Chillán a Pinto; el camino de Chillán a Pinto, desde lindero entre los predios Las Flores y Santa Marta hasta el lindero oriente del predio Olivar (rol 151-12); y el lindero oriente del predio Olivar, desde el camino de Chillán a Pinto hasta el río Chillán.
+
+4. Trasládense, los registros de la Oficina que se suprime, previo inventario, a la Oficina de Registro Civil e Identificación de Pinto, comuna que recibe el mismo nombre, Región de Ñuble.
+
+Anótese y publíquese.- Jorge Álvarez Vásquez, Director Nacional.
+
+Lo que transcribo a Ud. para su conocimiento y demás fines.- Jorge Núñez Silva, Jefe Departamento de Gestión y Desarrollo de las Personas.
