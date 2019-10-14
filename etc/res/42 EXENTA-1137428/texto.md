@@ -1,0 +1,5 @@
+APRUEBA CONTRATO DE COMODATO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL MINISTERIO SECRETARÍA GENERAL DE LA PRESIDENCIA, RESPECTO DE LAS OFICINAS Nº 909 Y Nº 1116, DE PROPIEDAD DEL INSTITUTO DE PREVISIÓN SOCIAL, UBICADAS EN CALLE HUÉRFANOS Nº 886, DE LA COMUNA Y CIUDAD DE SANTIAGO, REGIÓN METROPOLITANA
+
+Por resolución exenta Nº I-42, de 12 de septiembre de 2019, el Jefe del Departamento Administración e Inmobiliaria del Instituto de Previsión Social, aprobó el documento "Contrato de Comodato", suscrito con fecha 5 de septiembre de 2019, entre el Instituto de Previsión Social y el Ministerio Secretaría General de la Presidencia, por medio del cual este Instituto entrega en Comodato a aquella entidad, las oficinas Nº 909 y Nº 1116 de su propiedad, ubicadas en calle Huérfanos Nº 886, de la comuna y ciudad de Santiago, Región Metropolitana, que se detalla en la Cláusula Tercera del mismo.
+
+Santiago, 7 de octubre de 2019.- Joaquín Sancho Daza, Jefe (S) Departamento Administración e Inmobiliaria.
