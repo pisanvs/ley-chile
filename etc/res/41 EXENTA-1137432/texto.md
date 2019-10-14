@@ -1,0 +1,5 @@
+APRUEBA TÉRMINO DE CONTRATO DE ARRENDAMIENTO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y LA EMPRESA CONSTRUCTORA CUEVAS Y PURCELL S.A., RESPECTO DEL INMUEBLE INSTITUCIONAL UBICADO EN AVENIDA GENERAL SAN MARTÍN SIN NÚMERO, COMUNA DE COLINA, REGIÓN METROPOLITANA
+
+Por resolución exenta I - Nº 41, de 4 de septiembre de 2019, el Jefe del Departamento Administración e Inmobiliaria del Instituto de Previsión Social, aprobó el documento "Término Contrato de Arrendamiento", suscrito con fecha 7 de agosto de 2019, entre este Instituto y la empresa Constructora Cuevas y Purcell S.A., mediante el cual las partes acuerdan poner término al Contrato de Arrendamiento, aprobado mediante resolución exenta I Nº 7, de 8 de marzo de 2019, respecto del inmueble institucional ubicado en Avenida General San Martín sin número, lotes Nº 9 y Nº 10 de la manzana 1, comuna de Colina.
+
+Santiago, 7 de octubre de 2019.- Joaquín Sancho Daza, Jefe (S) Departamento Administración e Inmobiliaria.
