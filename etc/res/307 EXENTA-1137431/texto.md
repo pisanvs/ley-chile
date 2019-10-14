@@ -1,0 +1,5 @@
+DESIGNA FUNCIONARIAS QUE INDICA, COMO CONTRAPARTE TÉCNICA EN EL DESARROLLO DEL PROYECTO "RED LAZO MIGRANTE", EN EL MARCO DE LA CONVOCATORIA "ACELERADORA CHILEINCLUYE", INICIATIVA DE LA FUNDACIÓN PRICEWATERHOUSE COOPERS
+
+Por resolución exenta Nº 307, de 4 de septiembre de 2019, el Director Nacional del Instituto de Previsión Social, designó, como contraparte técnica en el desarrollo del proyecto "Red Lazo Migrante", en el marco de la convocatoria "Aceleradora Chileincluye", iniciativa de la Fundación Pricewaterhouse Coopers, a las funcionarias doña Laura Morgado Ruiz, dependiente de la Subdirección de Servicios al Cliente y como suplente a doña Ingeborg Fehrmann Cisternas, de la División Planificación y Desarrollo, quienes tendrán como función la elaboración de la propuesta e implementación de acciones de coordinación y capacitación, destinadas a facilitar la incorporación de personas migrantes al mercado laboral y acceso a beneficios de seguridad social de este Instituto.
+
+Santiago, 7 de octubre de 2019.- Patricio Coronado Rojo, Director Nacional.
