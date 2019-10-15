@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1059, de 09 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.66, 71 y 73, para la obra: MEJORAMIENTO CBI RUTA T-780 S: CRUCE RUTA 210 LA UNION - CUDICO, que figura a nombre de ROSAS PHILIPPI HERTA ORIANA, ANCAO MORA CECILIA HAYDEE y ANCAO MORA CECILIA HAYDEE, roles de avalúo 529-472, 529-393 y 529-393, Comuna de LA UNIÓN, REGION de LOS RIOS, superficies 111, 111 y 15 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 20 de diciembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $834.600 para el lote N°66, $771.600 para el lote N°71, y $172.500 para el lote N°73. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
