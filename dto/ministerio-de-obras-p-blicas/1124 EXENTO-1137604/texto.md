@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1124 de 30 de septiembre de 2019, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropiaron los lotes de terreno 107 y 108, Rol de avalúo 622-16, superficies 3.233 y 2.603 m2. respectivamente, Comuna de Nueva Imperial, para la obra MEJORAMIENTO RUTAS S-464 Y S-488: ALMAGRO - BARROS ARANA, COMUNAS DE NUEVA IMPERIAL Y TEODORO SCHMIDT, PROVINCIA DE CAUTÍN, REGIÓN DE LA ARAUCANÍA. La comisión de peritos, integrada por PABLO ALEX MANSILLA ARAVENA y CLAUDIO HERNAN ANGULO SOTOMAYOR y HANDY GHISLAINE CAMPOS SEPULVEDA, fijó el valor de tasación con fecha 13 de julio de 2015, acordándose la indemnización con su propietaria CARMEN LUZ NAVARRETE SUAREZ, en la cantidad de $7.749.192.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
