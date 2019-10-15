@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1077, de 16 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 54, 57 y 58, para la obra: REPOSICION PAVIMENTO RUTA U-40, SECTOR: OSORNO - INTERSECCION RUTA U-52, que figuran a nombre de MONTESINOS WITTIG GASTON MAURICI Y, roles de avalúo 2208-95, Comuna de OSORNO, REGION DE LOS LAGOS, superficies 1.394, 759 y 559 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, CARMEN PILAR RÍOS MARCUELLO y ANDRES ECHEVERRIA CAMPO, mediante informe de tasación de 02 de octubre de 2017, fijó el monto de la indemnización provisional en la cantidad de $7.749.000, para el lote N°54, $2.656.500, para el lote N°57 y $1.988.000, para el lote N°58. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
