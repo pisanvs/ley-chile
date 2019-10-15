@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Ex. N° 3.224 de fecha 7/10/2019, conforme al artículo 62 ley 19.880, de Serviu Región de la Araucanía, se ordenó la rectificación de la Resolución Ex. N°2940, de fecha 06 de septiembre de 2019, de Serviu Araucanía, que dispuso la expropiación del Lote 196-0, en el sentido que por un error involuntario en su Resuelvo N° 1, donde se individualiza el inmueble a expropiar, se señaló lo siguiente: "Dirección: Inmueble ubicado en calle Pedro de Valdivia número 02445 de la ciudad de Temuco", correspondiendo expresar correctamente, en definitiva, que: "Dirección: Lote Número dos, de una superficie aproximada de quinientos cuarenta metros cuadrados, resultante de la subdivisión del Lote Número Seis, de una superficie aproximada de cinco mil doscientos sesenta metros cuadrados, ubicado en la comuna de Temuco camino de Temuco a Chol Chol".-
+
+Director Serviu Región de la Araucanía.
