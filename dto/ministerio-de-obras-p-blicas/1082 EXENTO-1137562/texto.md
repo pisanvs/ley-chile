@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 1082, de 16 de septiembre de 2019 y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e) y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP N°206, de 1960 , se expropió el lote de terreno N° 88-A, para la obra "MEJORAMIENTO RUTA F-50, SECTOR LO OROZCO - QUILPUE, TRAMO 2: KM. 11,90000 A KM. 17,57835", que figura a nombre de AGRICOLA EL PEQUEN SOCIEDAD ANONIMA, rol de avalúo 3457-23, Comuna de Quilpué, Región de Valparaíso, superficie 61 m2. La Comisión de Peritos integrada por ORLANDO ANTONIO FARIÑA VÁSQUEZ, ROBERTO LUIS SEBASTIAN HERNÁNDEZ y MARLENE TERESA RÍOS MARCUELLO, mediante informe de tasación de 24 de septiembre de 2013, fijaron el monto de la indemnización provisional en la cantidad de $251.930.- para el lote N° 88-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
