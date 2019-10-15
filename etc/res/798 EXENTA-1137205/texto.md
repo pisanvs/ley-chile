@@ -1,4 +1,4 @@
-LLAMADO REGIONAL 2019 A POSTULACIÓN PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR EN LA MODALIDAD REGULADA POR SU CAPÍTULO SEGUNDO, DE LA ATENCIÓN A CONDOMINIOS DE VIVIENDAS SOCIALES, PARA LA REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
+LLAMADO REGIONAL EN CONDICIONES ESPECIALES AÑO 2019, A POSTULACIÓN PARA EL DESARROLLO DE PROYECTOS DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR EN LA MODALIDAD REGULADA POR SU CAPÍTULO SEGUNDO, DE LA ATENCIÓN A CONDOMINIOS DE VIVIENDAS SOCIALES, PARA LA REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
 
 Núm. 798 exenta.- Rancagua, 2 de octubre de 2019.
 
@@ -54,11 +54,13 @@ Resolución:
 
 1. Llámese a postulación a los Condominios de Viviendas Sociales emplazados en la Región del Libertador General Bernardo O'Higgins, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título I: Equipamiento Comunitario y/o Mejoramiento del Entorno, destinados a reparar, mantener y/o mejorar el equipamiento comunitario y las áreas comunes de la copropiedad; y al Título II Mejoramiento de la Vivienda, letras b.4) y b.5) del artículo 5° del DS N° 255 (V. y U.), de 2006, destinados al desarrollo de proyectos de Mejoramiento de Bienes Comunes Edificados y Obras de Innovaciones de Eficiencia Energética y Acondicionamiento Térmico.
 
-### 2. Podrán postular al presente llamado proyectos en:
+2.- Podrán postular al presente llamado los condominios que cumplan con los siguientes requisitos:
 
-a) Condominios Sociales que presenten deterioro físico y posean una antigüedad superior a 5 años, contados desde la fecha del Acta de Recepción de Obras emitido por la Dirección de Obras Municipales respectiva.
+a) Condominios Sociales, donde al menos una de las copropiedades que lo conforman, cuenten con intervenciones parciales previas, en el marco de los llamados de Condominios Sociales, a fin de mantener la homogeneidad de las intervenciones.
 
-b) Condominios Sociales que hayan sido beneficiados por llamados extraordinarios para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su modalidad regulada por el Capítulo II, de la atención a Condominios de Viviendas Sociales, sólo en aquellos proyectos y partidas que no fueron intervenidas anteriormente por el Programa.
+b) Condominios Sociales que cumplan con la letra a) y que posean una antigüedad superior a 5 años, contados desde la fecha del Acta de Recepción de Obras emitido por la Dirección de Obras Municipales respectiva.
+
+c) Condominios Sociales que cumplan con la letra a) y que hayan sido beneficiados por llamados extraordinarios para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su modalidad regulada por el Capítulo II, de la atención a Condominios de Viviendas Sociales, sólo en aquellos proyectos y partidas que no fueron intervenidas anteriormente por el Programa.
 
 3. Este llamado contempla las siguientes modalidades de postulación a subsidios:
 
@@ -280,7 +282,7 @@ b) Copropiedades seleccionadas por segunda vez o posterior:
 
 En caso de implementarse obras de acondicionamiento térmico y/o eficiencia energética, el PSAT deberá desarrollar actividades de capacitación específicas en torno a dichos elementos, para residentes e integrantes del Comité de Administración.
 
-31. La Seremi, en coordinación con el Serviu, tendrá la facultad de conocer y verificar todos los procedimientos realizados por los PSAT en el marco del presente llamado, pudiendo requerir documentación, proyectos, modificaciones de proyecto y/o contrato, así como todos los antecedentes necesarios para velar por la correcta implementación del Programa. Asimismo, podrá generar las orientaciones generales y/o específicas necesarias, dirigidas a propiciar una adecuada implementación regional del Programa.
+31. La Seremi, en coordinaci�n con el Serviu, tendrá la facultad de conocer y verificar todos los procedimientos realizados por los PSAT en el marco del presente llamado, pudiendo requerir documentación, proyectos, modificaciones de proyecto y/o contrato, así como todos los antecedentes necesarios para velar por la correcta implementación del Programa. Asimismo, podrá generar las orientaciones generales y/o específicas necesarias, dirigidas a propiciar una adecuada implementación regional del Programa.
 
 32. En el caso de copropiedades seleccionadas, conformadas por 24 unidades o menos, que pertenezcan a un mismo conjunto habitacional y tengan contrato con la misma PSAT y Constructora; el Serviu podrá autorizar la agrupación de dichas copropiedades en un proyecto, a fin de establecer el inicio, avance, inspección y pago de obras de manera común, siempre que no se exceda de un total de 100 viviendas. Asimismo, de resultar pertinente, el Serviu podrá autorizar la realización conjunta de las actividades descritas en las letras a) i. y b) i. del resuelvo 30 de esta resolución.
 
