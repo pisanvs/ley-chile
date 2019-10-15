@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Ex. N° 3.223 de fecha 7/10/2019, conforme al artículo 62 ley 19.880, de Serviu Región de la Araucanía, se ordenó la rectificación de la Resolución Ex. N° 2.939 de fecha 06 de Septiembre de 2019 de Serviu Araucanía, que dispuso la expropiación del Lote 197-0, en el sentido que por un error involuntario en su Resuelvo N° 1, en que se individualiza el inmueble a expropiar, se señaló lo siguiente: "Dirección: Inmueble ubicado en calle Mallín s/n de la ciudad de Temuco", correspondiendo decir, en definitiva, que: "Dirección: El lote para equipamiento comunitario de cuatrocientos cincuenta y tres metros coma cero cero metros cuadrados, resultante de la subdivisión de la propiedad ubicada en esta ciudad, y corresponde al lote Cinco, y éste a su vez de la subdivisión de varios predios rústicos que se encuentran interconectados entre sí, de una superficie de dieciocho coma cincuenta y seis hectáreas".
+
+Director Serviu Región de la Araucanía.
