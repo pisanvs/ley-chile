@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 1115, de 16 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e), y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y D.F.L. M.O.P N°206, de 1960, se expropió el lote de terreno N° 46-F, para la obra "Mejoramiento Ruta Interlagos T-835, T-905 Sector Cayurruca - Trapi - Crucero", que figura a nombre de VERA SOBARZO JUAN, rol de avalúo EN TRAMITE, Comuna de RIO BUENO, Región de Los Ríos, superficie 90 m2. La Comisión de Peritos integrada por MARIA SOLEDAD NUNEZ ARROYO, PATRICIO FERNANDO CASAGRANDE ULLOA y YASCHALA MARIBEL YÁÑEZ RIFFO, mediante informe de tasación de 05 de junio de 2014, fijó el monto de la indemnización provisional en la cantidad de $484.200.- para el lote N° 46-F. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
