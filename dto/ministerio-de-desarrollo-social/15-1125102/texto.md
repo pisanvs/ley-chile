@@ -54,6 +54,8 @@ Tercero.- El Panel estará constituido por las siguientes personas:
 
 7) Marcela Cecilia Perticara Torilo, RUN 14.758.597-7.
 
+8) Pablo Alberto González Soto, RUN 9.530.801-5.
+
 Las personas designadas desempeñarán sus funciones ad honorem, a título personal, sin comprometer a las instituciones, órganos o entidades de las que formen parte y no podrán ser reemplazadas en caso de ausencia o impedimento en el ejercicio de sus funciones salvo expresa designación por medio de la dictación del acto administrativo correspondiente.
 
 En la primera sesión los integrantes del Panel establecerán un acuerdo para su funcionamiento el que será informado al Ministerio de acuerdo lo dispuesto en la letra b) del artículo siguiente.
