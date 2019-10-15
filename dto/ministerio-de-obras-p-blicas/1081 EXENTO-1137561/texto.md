@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1081, de 16 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.106-A y 108-A, para la obra: MEJORAMIENTO RUTA K-275, SECTOR LAS TRANCAS-PARQUE INGLES, que figuran a nombre de PARDO ESPINOZA MARCELO ANTONIO, roles de avalúo 164-185 para el lote 106-A y 27-77 para el lote 108-A, Comuna de RIO CLARO, REGION DEL MAULE, superficies 2.184 y 1.974 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 06 de julio de 2018, fijó el monto de la indemnización provisional en la cantidad de $26.929.400 para el lote N°106-A, y $23.546.100 para el lote N°108-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
