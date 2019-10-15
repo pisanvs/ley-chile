@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 1043, de 09 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e), y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y D.F.L. M.O.P N°206, de 1960, se expropió el lote de terreno N° 28-A, para la obra "Mejoramiento Rutas S/Rol, T-981-U S: Crucero-Entrelagos", que figura a nombre de SOCIEDAD AGRICOLA Y GANADERA E, rol de avalúo 523-10, Comuna de Rio Bueno, Región de Los Ríos, superficie 343 m2. La Comisión de Peritos integrada por Patricio Fernando Casagrande Ulloa, Yaschala Maribel Yáñez Riffo y María Soledad Núñez Arroyo, mediante informe de tasación de 7 de diciembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $841.910.- para el lote N° 28-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
