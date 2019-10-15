@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1040, de 09 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.136-A1, 136-A2, 136-A3 y 136-A4, para la obra: MEJORAMIENTO RUTA K-275, SECTOR LAS TRANCAS-PARQUE INGLES, que figuran a nombre de CAMPOS JORQUERA VERONICA, rol de avalúo 27-366, Comuna de RIO CLARO, REGIÓN DEL MAULE, superficies 162, 1.418, 519 y 82 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 06 de julio de 2018, fijó el monto de la indemnización provisional en la cantidad de $833.700 para el lote N°136-A1, $11.393.100 para el lote N°136-A2, $3.574.050 para el lote N°136-A3, y $408.900 para el lote N°136-A4. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
