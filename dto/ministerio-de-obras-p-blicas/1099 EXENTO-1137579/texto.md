@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1099, de 16 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 12, para la obra: REPOSICION PUENTE ESPERANZA EN RUTA G-68., que figura a nombre de MARIN VARAS GUILLERMO RICARDO, rol de avalúo 311-1, Comuna de PADRE HURTADO, REGION METROPOLITANA DE SANTIAGO, superficie 10.163 m2. La Comisión de Peritos integrada por JESUS FERNANDO DIAZ PASMIÑO, ANGELICA YANETT SEURA ROJAS y JUAN ANDRES TEPPER LAVANDEROS, mediante informe de tasación de 15 de abril de 2018, fijó el monto de la indemnización provisional en la cantidad de $177.272.367 para el lote N°12. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
