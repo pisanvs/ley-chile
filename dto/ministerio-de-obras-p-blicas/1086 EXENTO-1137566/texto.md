@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1086, de 16 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 33, para la obra: MEJORAMIENTO RUTA 201-CH SECTOR: PELLAIFA - LIQUIÑE, REGIÓN LOS RÍOS, que figura a nombre de ORTIZ MARTINEZ LUIS ALBERTO, rol de avalúo 197-233, Comuna de PANGUIPULLI, REGION DE LOS RÍOS, superficie 105 m2. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 29 de enero de 2018, fijó el monto de la indemnización provisional en la cantidad de $1.423.500 para el lote N°33. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
