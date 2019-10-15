@@ -1,0 +1,5 @@
+MODIFICACIÓN DE DECRETO SUPREMO
+
+Decreto supremo Nº 270, de 10 de julio de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, que modifica decreto supremo Nº 102, de 2009, modificado por decreto supremo Nº 443, de 2013, que otorgó a Emisario Coronel S.A., RUT 76.441.870-0, concesión marítima mayor con vencimiento al 31 de diciembre de 2019, sobre un sector de terreno de playa y playa, en el lugar denominado Lo Rojas, comuna de Coronel, Provincia de Concepción, Región del Biobío. Dicha modificación dispone reemplazar en el párrafo 6, letra g) de la parte dispositiva, la frase "dentro de los 12 meses posteriores a la fecha de inicio" por la frase "el 31 de diciembre de 2019 o antes de esa fecha". A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 37º 01'27,11 - 73º09'38,30. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Coronel. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.- Coronel, 9 de septiembre de 2019.-
+
+Rodrigo Testón Nahuelhuil, Capitán de Fragata LT, Capitán de Puerto de Coronel.
