@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.139, del 22 de julio de 2019, Serviu Región del Biobío ordenó expropiación Parcial de inmueble ubicado en calle Cam Colcura, Rol de Avalúo 220-1, comuna de Lota, de aparente dominio de Cisterna Medina Eduardo Alexis. La superficie afecta a expropiación parcial es de 25,18 m2 de terreno, para la ejecución de la obra Mejoramiento Red Centro Lota Vialidad Asociada, comuna de Lota, conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por arquitecto María Irene Carrasco Verdugo, arquitecto Rubén Carlos Muñoz Vera y arquitecto Nataly Alejandra Zúñiga Castillo, según informe de fecha 12.11.2018, que fijó monto provisional en $4.084.576.- más una suma de $57.184.- por concepto de reajuste del artículo 5 del DL 2.186, de 1978, que da un total de $4.141.760.-, pagadero de contado.-
+
+Director Serviu Región del Biobío.
