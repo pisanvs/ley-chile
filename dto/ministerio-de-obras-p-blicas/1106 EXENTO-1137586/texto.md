@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1106, de 16 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 13-A, para la obra: MEJORAMIENTO CBI RUTA I-120 KM 0.0 AL 14.7,LA ESTRELLA Y LITUECHE, que figura a nombre de OYARZUN ESTAY CRISTIAN Y OTROS, rol de avalúo 41-1, Comuna de LA ESTRELLA, REGION DEL LIBERTADOR GENERAL BERNARDO O’HIGGINS, superficie 313 m2. La Comisión de Peritos integrada por ANDRES RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRIQUEZ y MARLENE TERESA RIOS MARCUELLO, mediante informe de tasación de 28 de febrero de 2018, fijó el monto de la indemnización provisional en la cantidad de $3.958.650 para el lote N°13-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
