@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1033, de 09 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.1, 2 y 3, para la obra: REPOSICION PUENTE LINICH Y SOCO, VILLA BOLDO -TOLTEN, que figura a nombre de HENRIQUE SANDOVAL JUAN ENRIQUE, rol de avalúo 204-28, Comuna de TOLTEN, REGION DE LA ARAUCANIA, superficies 678, 865 y 920 m2 respectivamente. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YAÑEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de 17 de julio de 2018, fijó el monto de la indemnización provisional en la cantidad de $4.907.100 para el lote N°1, $1.703.800 para el lote N°2, y $3.197.980 para el lote N°3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
