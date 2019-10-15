@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1128 de 30 de septiembre de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. N° 850 de 1997, Art. 15 inciso 2° y 22 N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote de terreno 3, Rol de avalúo 43-114, Comuna de Ñiquen, superficie 989 m2., para la obra CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: TALCA – CHILLÁN SECTOR: CALLE DE SERVICIO ESCUELA BULI ORIENTE KM. 366.340,00 AL KM. 367.080,00, COMUNA DE ÑIQUEN, PROVINCIA DE ÑUBLE, REGIÓN DEL BIOBÍO. ACTUAL PROVINCIA DE PUNILLA, REGIÓN DE ÑUBLE. La comisión de peritos, integrada por JUAN PABLO CONTRERAS MALLEA, CARMEN GLORIA GATICA VILLARROEL y JAIME ROLANDO JURGENS BITTNER, fijó el valor de tasación con fecha 03 de septiembre de 2018, acordándose la indemnización con sus propietarios FRESIA DE LOURDES SOTO FUENTES Y OTROS, en la cantidad de $1.624.841.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscalía MOP.
