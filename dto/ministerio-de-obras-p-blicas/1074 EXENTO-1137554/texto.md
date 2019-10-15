@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº1074, de 16 de septiembre de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e) y 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. N°206, de 1960, se expropiaron los lotes de terreno N°s. 18, 20 y 22, para la obra: "MEJORAMIENTO RUTA R - 925 - S CURACAUTIN - CONGUILLIO S: HUEÑIVALES - CAPTREN", que figuran a nombre de INVERSIONES SANTA SOFIA S A, rol de avalúo 211-8, Comuna de Curacautín, Región de La Araucanía, superficies 249 m2, 511 m2 y 1.137 m2. respectivamente. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YAÑEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de 22 de diciembre de 2015, fijó el monto de la indemnización provisional en la cantidad de $685.780.-, para el lote N°18, $1.408.020.-, para el lote N°20 y $3.905.160.-, para el lote N°22. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
