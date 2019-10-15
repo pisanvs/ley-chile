@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº 1119 de 30 de septiembre de 2019, y de conformidad con la facultad otorgada en el art. 3º letra a), 10 letra c), 14 letra e) y 105 del DFL MOP. Nº 850 de 1997, se expropió el lote de terreno 1, Rol de avalúo 218-129, Comuna de Monte Patria, superficie 227,94 m2., para la obra SISTEMA DE AGUA POTABLE RURAL PANGUESILLO, COMUNA DE MONTE PATRIA, PROVINCIA DE LIMARI, REGIÓN DE COQUIMBO. La comisión de peritos, integrada por MIGUEL ANGEL RUIZ VALENZUELA, PABLO JAVIER FLORES SALINAS y ANA ROSA DEL CARMEN SILVA GIL, fijó el valor de tasación con fecha 11 de julio de 2017, acordándose la indemnización con su propietario GLEN GALVARINO ALFARO MUÑOZ, en la cantidad de $1.568.421.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
