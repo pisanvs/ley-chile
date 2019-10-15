@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 1015, de 09 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e), y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL MOP N°206, de 1960, se expropió el lote de terreno N° 39, para la obra "MEJORAMIENTO RUTA R - 925 - S CURACAUTIN - CONGUILLIO S: HUEÑIVALES - CAPTREN", que figura a nombre de NAVARRETE SANDOVAL MARIA CRISTIN, rol de avalúo 208-361, Comuna de Curacautín, Región de La Araucanía, superficie 423 m2. La Comisión de Peritos integrada por EVALDO ROBERTO CONTRERAS ROA, YASCHALA MARIBEL YAÑEZ RIFFO y MARIA SOLEDAD NUÑEZ ARROYO, mediante informe de tasación de 29 de junio de 2017, fijó el monto de la indemnización provisional en la cantidad de $803.700.- para el lote N° 39. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
