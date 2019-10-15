@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1044, de 09 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e), y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 32-A y 32-B, para la obra: MEJORAMIENTO CBI STA ELVIRA - EL ARENAL - SAN JAVIER, TRAMO 2, que figuran a nombre de BARRA ORTEGA MARIA Y OTRO, rol de avalúo 2464-6, Comuna de VALDIVIA, REGION DE LOS RIOS, superficies 99 y 2.841 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 18 de julio de 2018, fijó el monto de la indemnización provisional en la cantidad de $757.350 para el lote N°32-A, y $21.733.650 para el lote N°32-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
