@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1052, de 09 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 109, para la obra: REPOSICION PAVIMENTO RUTA 215-CH. SECTOR: LAS LUMAS - ENTRELAGOS, que figura a nombre de SOC ASTETE MARTINEZ Y CIA LTDA, rol de avalúo 50-2, Comuna de PUYEHUE, REGION DE LOS LAGOS, superficie 315 m2. La Comisión de Peritos integrada por LEOPOLDO RAMON SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA y JUAN CELESTINO GIOVANNINI MANSILLA, mediante informe de tasación de 31 de julio de 2017, fijó el monto de la indemnización provisional en la cantidad de $8.793.000, para el lote N°109. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
