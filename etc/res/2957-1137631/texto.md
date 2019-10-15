@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 2.957 de 26 de septiembre de 2019, el Serviu Región de Los Lagos ordenó expropiación lote terreno N° 113 para la ejecución Proyecto "Mejoramiento Avenida Presidente Ibáñez de la ciudad de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Rentas Cerro Talami Limitada, rol de avalúo según SII N° 246-1, comuna de Puerto Montt, superficie 786,57 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher G., Enrique Hoelck A. y Raúl Palma L., designados por resolución exenta N° 1046 de 5 de abril de 2019, fijó con fecha 29 de abril de 2019 el valor provisional de la indemnización en la suma de $495.266.450. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del decreto ley N° 2186.-
+
+Directora (S) Serviu Región de Los Lagos.
