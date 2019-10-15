@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 255, de fecha 6 junio 2019, el Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a don Francisco Raúl Carrasco Carrasco, RUN Nº 6.463.988-9, segunda renovación de concesión marítima menor, con vencimiento el 30 junio de 2027, sobre un sector playa, en el lugar denominado Avenida del Mar, comuna de La Serena, provincia de Elqui, Región de Coquimbo, con una superficie total de 450 m², la que fue tramitada con el SIABC Nº 36.304. A modo referencial, se señalan los siguientes deslindes: Al Norte con la playa, en 25 m; al Sur con la playa en 25 m; al Este con la playa en 18 m y al Oeste con la playa en 18 m. El objeto consiste en continuar amparando la construcción existente de un local comercial denominado "Velamar". Las obras existentes consisten en una construcción de madera calidad media. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Coquimbo. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+René Moraga Espinoza, Capitán de Corbeta LT, Capitán de Puerto de Coquimbo.
