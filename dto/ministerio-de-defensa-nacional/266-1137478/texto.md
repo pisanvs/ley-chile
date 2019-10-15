@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 266, de 10 de julio de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Servicios y Asesorías Marítimas y Terrestres Limitada, RUT Nº 77.157.320-7, concesión marítima menor, con vencimiento 31 de diciembre de 2023, sobre un sector de Playa de mar, en el lugar denominado Bahía Lotilla, comuna de Lota, provincia de Concepción, Región de Biobío, con una superficie total de 2.690,59 m2, la que fue tramitada con el SIABC Nº 26.137. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 37º 04' 46,41" S - 73º 09' 52,90" W. El objeto consiste en permitir la instalación de un varadero para naves menores y el plazo contemplado para su ejecución es de cuarenta y ocho meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Coronel. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Rodrigo Testón Nahuelhuil, Capitán de Fragata LT, Capitán de Puerto de Coronel.
