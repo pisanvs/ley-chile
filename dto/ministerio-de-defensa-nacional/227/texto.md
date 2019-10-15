@@ -1,0 +1,7 @@
+TRANSFERENCIA DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo Nº 227, de fecha 23 de mayo de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, correspondiente al SIABC Nº 35293, se autorizó transferencia de Concesión Marítima Mayor a Astilleros y Maestranza Skorpios S.A., RUT 96.776.910-K, otorgada mediante decreto supremo Nº 193, de fecha 7 de marzo de 2014, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, sobre un sector de Terreno de Playa, con el objeto de amparar la instalación de una infraestructura para la construcción y mantención de naves, la cual constituye una ampliación de las instalaciones del astillero de propiedad del concesionario y se encuentra ubicado en el lugar denominado camino Chinquihue Km. 6, ribera Norte Canal Tenglo, comuna de Puerto Montt, provincia de Llanquihue, Región de Los Lagos, con vencimiento al 31 de diciembre del año 2035. Las obras existentes corresponden a ampliación de astillero y la concesión abarca una superficie total de 6.453,40 m2.
+
+Los antecedentes del decreto referido se encuentran a disposición del público en la Capitanía Puerto de Puerto Montt. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Felipe Jesús González Iturriaga, Capitán de Fragata LT, Capitán de Puerto de Puerto Montt.
