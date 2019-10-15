@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 1021, de 09 de septiembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10° letra c), 14º letra e), y 105° del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y D.F.L. M.O.P N°206, de 1960, se expropió el lote de terreno N° 10, para la obra "MEJORAMIENTO CBI LAGO RANCO - QUILLAICO", que figura a nombre de EDWING RUPERTO RETTIG GONZALEZ, rol de avalúo EN TRAMITE, Comuna de LAGO RANCO, REGIÓN DE LOS RÍOS, superficie 51 m2. La Comisión de Peritos integrada por Patricio Fernando Casagrande Ulloa, Yáschala Maribel Yáñez Riffo y María Soledad Núñez Arroyo, mediante informe de tasación de 06 de marzo de 2015, complementado por acta de fecha 14 de enero de 2016, fijó el monto de la indemnización provisional en la cantidad de $688.600.- para el lote N° 10. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
