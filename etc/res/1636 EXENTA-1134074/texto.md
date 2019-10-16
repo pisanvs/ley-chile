@@ -36,7 +36,7 @@ Resolución:
 
 Primer cierre de Llamado 28 de agosto de 2019
 
-Segundo cierre de Llamado 30 de diciembre del 2019
+Segundo cierre de Llamado 29 de noviembre de 2019
 
 2. Podrán participar familias residentes de localidades rurales o urbanas con menos de 5 mil habitantes, de acuerdo a los datos del Censo de Población y Vivienda del año 2002, condición que se verificará a partir del domicilio acreditado en el Registro Social de Hogares, y siempre que cuenten con asesoría otorgada por Entidades de Gestión Rural con Convenio Regional de Asistencia Técnica vigente. Para efectos del presente Llamado, podrán presentar postulaciones de familias que residan en la Región de Ñuble las Entidades de Gestión Rural que tengan Convenio Marco Regional vigente con la Seremi de la Región del Biobío.
 
@@ -156,17 +156,17 @@ d) Acondicionamiento térmico y Eficiencia Energética: hasta 120 UF.
 
 De los recursos disponibles
 
-26. Los recursos involucrados para la selección de postulantes al presente Llamado, ascienden a un total de 2.590.948,334 UF, y su distribución regional, según tipología, será la siguiente:
+26. Los recursos involucrados para la selección de postulantes al presente llamado, ascienden a un total de 1.196.771 UF y su distribución regional, según tipología será la siguiente:
 
 .
+
+Los recursos indicados en el cuadro anterior, podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2019, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por tipología de proyecto y/o por región, de acuerdo a la necesidad de cada región.
 
 27. El número de postulantes seleccionados en cada región será determinado de acuerdo a la cantidad de subsidios susceptibles de financiar con los recursos indicados en el resuelvo anterior, incluidos los respectivos servicios de asistencia técnica y fiscalización técnica de obras.
 
 28. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación nacional y en el sitio web del Minvu y del Serviu o de la Seremi Minvu respectiva.
 
 29. En atención a lo establecido en el inciso segundo del artículo 45 del DS Nº 10 (V. y U.) de 2015, las resoluciones del Serviu que acojan reclamos a los resultados de la selección, fundadas en errores no imputables a los postulantes o Entidades de Gestión Rural, deberán indicar expresamente la razón por la cual se acoge la reclamación y los antecedentes que respaldan dicha argumentación. La resolución deberá ser emitida en un plazo no superior a 15 días hábiles contados desde la publicación de la resolución de selección, citada en el resuelvo precedente.
-
-> **Nota.** El N° 1 y N° 3 de la Resolución 1747 Exenta, Vivienda, publicada el 14.12.2020, modifican el presente resuelvo en el sentido de corregir los montos de imputación omitidos por región y tipología en el cuadro incorporado por la modificación realizada por el N° 1 de la resolución 618 exenta, Vivienda, publicada el 09.04.2020. No obstante, los cambios no se incorporan en el presente texto actualizado debido a que este resuelvo fue reemplazado en su totalidad, incluido su cuadro, por el N° 1 de la Resolución 864 Exenta, Vivienda, publicada el 08.06.2020.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 

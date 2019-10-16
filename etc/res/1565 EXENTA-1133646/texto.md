@@ -36,7 +36,7 @@ Resolución:
 
 Primer cierre de Llamado 22 de Agosto del 2019
 
-Segundo cierre de Llamado 20 de diciembre del 2019
+Segundo cierre de Llamado 22 de noviembre de 2019
 
 2. Podrán participar familias residentes de localidades rurales o urbanas con menos de 5 mil habitantes, de acuerdo a los datos demográficos que consigna el Censo de Población y Vivienda del año 2002, y siempre que cuenten con asesoría otorgada por Entidades de Gestión Rural con Convenio Regional de Asistencia Técnica vigente. Para efectos del presente Llamado podrán presentar postulaciones de familias que residan en la Región de Ñuble las Entidades de Gestión Rural que tengan Convenio Marco Regional vigente con la Seremi de la Región del Biobío.
 
@@ -381,8 +381,6 @@ El puntaje correspondiente al ámbito Intersectorialidad, se asignará a cada po
 25. Corresponderá a cada Serviu generar un procedimiento que permita cautelar el cumplimiento de las condiciones establecidas en la presente resolución, en especial en relación a las restricciones y requisitos referidos a los artículos 6º, 10º, 23º, 25º, 26º, 27º y 34º del D.S. Nº 10 (V. y U.) de 2015.
 
 26. Los recursos involucrados para la selección ascienden a un total de 1.190.292 U.F. y su distribución regional, según modalidad o tipología, será la siguiente:
-
-.
 
 Los recursos indicados en el cuadro anterior podrán disminuir o aumentar con cargo a los recursos asignados para el Programa de Habitabilidad Rural del año 2019, por resolución del Ministro de Vivienda y Urbanismo, como también podrá determinarse su redistribución por tipología de proyecto y/o por región, de acuerdo a la necesidad de cada región.
 
