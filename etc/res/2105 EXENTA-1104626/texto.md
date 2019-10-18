@@ -38,7 +38,7 @@ Primero: Modifíquese, resolución exenta Nº 2.544, de fecha 15 de junio de 201
 
 <!-- parte:9809613 -->
 
-Segundo: Compleméntese y agréguese al final del punto primero de la parte resolutiva de la resolución exenta Nº 2.544, de fecha 15 de junio de 2016, donde dice: Deléganse, las facultades especificadas en el numeral siguiente, en los funcionarios y en la forma que a continuación se indica; debe decir: "Don Rafael Alejandro Santander Cabello, cédula nacional de identidad Nº 12.863.893-8, contrata, grado 5º EUS profesional Químico Farmacéutico, Jefe Departamento de Acción Sanitaria.- En ausencia del titular corresponderá asumir dichas funciones y facultades a don Cristian Muñoz Acuña, RUT 7.837.914-6; Grado 7, de Profesión Médico Veterinario".
+Segundo: Compleméntese y agréguese al final del punto primero de la parte resolutiva de la resolución exenta Nº 2.544, de fecha 15 de junio de 2016, donde dice: Deléganse, las facultades especificadas en el numeral siguiente, en los funcionarios y en la forma que a continuación se indica; debe decir: "Don Ricardo Rodríguez Herrera, RUN 7.122.375-2, grado 5, de Profesión Médico Veterinario, Jefe Departamento de Acción Sanitaria..- En ausencia del titular corresponderá asumir dichas funciones y facultades a don Cristian Muñoz Acuña, RUT 7.837.914-6; Grado 7, de Profesión Médico Veterinario.
 
 #### Artículo tercero
 
