@@ -190,7 +190,7 @@ Primero: Se acogen las solicitudes de las siguientes empresas o corporaciones po
 
 . Aguas Manquehue S.A.
 
-. BBC S.A.
+. BCC S.A.
 
 . Empresa de Servicios Sanitarios de Los Lagos S.A.
 
@@ -272,7 +272,7 @@ Primero: Se acogen las solicitudes de las siguientes empresas o corporaciones po
 
 . Sistema de Transmisión del Sur S.A.
 
-. Empresas Casco S.A.
+. Empresas Gasco S.A.
 
 . Gas Sur S.A.
 
@@ -284,7 +284,7 @@ Primero: Se acogen las solicitudes de las siguientes empresas o corporaciones po
 
 . Sociedad GNL Mejillones S.A.
 
-. Sociedad GNL Quintero S.A.
+. GNL Quintero S.A.
 
 . Andes Operaciones y Servicios S.A.
 
@@ -299,8 +299,6 @@ Primero: Se acogen las solicitudes de las siguientes empresas o corporaciones po
 . Centro de Diálisis Osmodial Ltda.
 
 . Centro Renal S.p.A.
-
-. Diálisis Colina S.A.
 
 . Nephrocare Chile S.A.
 
