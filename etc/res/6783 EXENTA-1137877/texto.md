@@ -1,0 +1,9 @@
+CERTIFICADO Nº 464
+
+Certifico: Que por escritura pública de fecha 9 de mayo de 2019, otorgada en la Trigésimo Cuarta Notaría de Santiago de don Eduardo Diez Morello, domiciliado en calle Luis Thayer Ojeda Nº 359, comuna de Providencia, se redujo el acta de la junta extraordinaria de accionistas de Capital Advisors Administradora General de Fondos S.A., celebrada el 26 de abril de 2019; la que fue rectificada por escritura pública de fecha 26 de agosto de 2019, otorgada en la Quinta Notaría de Santiago de don Patricio Raby Benavente, domiciliado en calle Gertrudis Echeñique Nº 30, oficina 32, comuna de Las Condes, a la que fue reducida el acta de la junta extraordinaria de accionistas de esa misma sociedad, celebrada el 20 de agosto de 2019.
+
+Que por resolución exenta Nº 6.783, de fecha 26 de septiembre de 2019, de esta Comisión para el Mercado Financiero, se aprobó la reforma de estatutos de Capital Advisors Administradora General de Fondos S.A., consistente en:
+
+Aumentar el capital social de $300.000.000 dividido en 12.000 acciones nominativas, sin valor nominal, todas de la misma serie, íntegramente suscrito y pagado, a la suma de $410.000.000 dividido en 14.000 acciones nominativas, sin valor nominal, todas de la misma serie, mediante la emisión de 2.000 acciones de pago, nominativas, sin valor nominal, todas de la misma serie, por un monto de $110.000.000, las que deberán suscribirse y pagarse dentro del plazo de tres años a contar del día 26 de abril de 2019. Se modifican al efecto el artículo quinto y el artículo primero transitorio. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 26 de septiembre de 2019.- Por orden del Consejo de la Comisión para el Mercado Financiero, Gerardo Bravo Riquelme, Secretario General.
