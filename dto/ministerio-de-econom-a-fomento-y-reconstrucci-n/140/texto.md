@@ -32,6 +32,14 @@ Durante el período de veda biológica fijado en el artículo 1° prohíbese la 
 
 Sin perjuicio de lo establecido en los artículos precedentes, autorízase el desembarque de Merluza del sur como fauna acompañante en la pesca dirigida a otros peces demersales, en un porcentaje máximo de un 1%, medido en peso, de la captura total de la especie objetivo obtenida en cada viaje de pesca.
 
+#### Artículo 3º bis
+
+<!-- parte:10063773 -->
+
+No obstante lo establecido en los artículos anteriores, durante el período de veda biológica, autorízase el desembarque del recurso Merluza del sur (Merluccius australis), en calidad de fauna acompañante, en la pesca industrial dirigida otros recursos, en un porcentaje máximo de un 4% medido en peso, en relación a la captura total, con un límite de 10 toneladas de Merluza del sur por viaje de pesca.
+
+Con todo, durante la vigencia de la veda sólo se podrá extraer un máximo de 30 toneladas totales por la flota industrial.
+
 #### Artículo 4°
 
 <!-- parte:8272042 -->
