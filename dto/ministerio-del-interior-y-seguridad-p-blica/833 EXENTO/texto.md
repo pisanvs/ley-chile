@@ -628,6 +628,24 @@ I.N.R.V.M. YY.4048-6
 
 Patente YY.4048
 
+35. Vehículo : Station Wagon
+
+Marca : Hyundai
+
+Modelo : Tucson TL CDRI E6 2.0 Aut.
+
+Año : 2019
+
+Motor : D4HAJU805985
+
+Chasis : KMHJ281ABKU798328
+
+Color : Gris Grafito
+
+I.N.R.V.M. : LJFH.22-6
+
+Patente : LJFH.22.
+
 #### Artículo segundo
 
 Autorízase la circulación en horario inhábil y en días sábado en la tarde, domingo y festivos, a los vehículos dados en comodato y asignados a la Presidencia de la República, que se individualizan a continuación:
