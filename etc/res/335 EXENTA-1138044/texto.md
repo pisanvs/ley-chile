@@ -28,6 +28,10 @@ Resuelvo:
 
 Concédese de oficio una ampliación de los plazos fatales, asociados a procedimientos administrativos llevados adelante ante este Servicio que venzan el día lunes 21 o martes 22 de octubre de 2019, de dos días hábiles adicionales, esto es, hasta el día miércoles 23 de octubre y jueves 24 de octubre, respectivamente, conforme lo dispuesto en el artículo 26º de la ley Nº 19.880, de 2003, que establece Bases de los Procedimientos Administrativos que Rigen los Actos de los Órganos de la Administración del Estado.
 
+Se agrega que todos los plazos fatales vigentes de la totalidad de las solicitudes administrativas seguidas ante este Instituto, que venzan los días miércoles 23, jueves 24 y viernes 25 de octubre de 2019, se amplían en tres días hábiles adicionales, conforme lo dispuesto en el artículo 26º de la ley Nº 19.880, de 2003, que establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado.
+
+Se deja constancia que la ampliación adicional del inciso anterior, también rige para los plazos ya ampliados por aplicación del artículo primero original de la resolución exenta Nº 335, de 2019, que por este acto se modifica. De esta manera y a modo ejemplar, los plazos que vencían el lunes 21 y martes 22 y que pasaron a vencer el 23 y 24 de octubre, ahora vencerán el 28 y 29 de octubre, respectivamente.
+
 #### Artículo segundo
 
 Déjase constancia que, respecto de los procedimientos contenciosos, en aquellas actuaciones cuyo plazo fatal venza los días lunes 21 o martes 22 de octubre de 2019, podrán las partes alegar entorpecimiento de acuerdo a las normas generales que rigen dichos procedimientos.
