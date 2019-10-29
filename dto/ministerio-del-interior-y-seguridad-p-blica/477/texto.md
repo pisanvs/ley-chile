@@ -26,7 +26,7 @@ Declárase estado de excepción constitucional de emergencia, como zona afectada
 
 <!-- parte:10064099 -->
 
-Desígnese como Jefe de la Defensa Nacional en la zona señalada en el artículo anterior al General de Brigada Aérea (A), señor Joaquín Morales Burotto, cédula nacional de identidad N° 10.224.478-8.
+Desígnese como Jefe de la Defensa Nacional en la zona señalada en el artículo anterior al General de Brigada, señor Joaquín Morales Burotto, cédula nacional de identidad N° 10.224.478-8.
 
 #### Artículo tercero
 
