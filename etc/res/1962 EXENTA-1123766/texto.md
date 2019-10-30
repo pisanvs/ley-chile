@@ -32,6 +32,8 @@ Destínense las siguientes bandas de frecuencias para radioenlaces de servicio f
 
 .
 
+> **Nota.** El numeral 1° del artículo único de la Resolución 2119 Exenta, Transportes, publicada el 30.10.2019, modifica la presente norma en el sentido de reemplazar en la tabla donde dice "38.438", debe decir "39.438".
+
 #### Artículo 2°
 
 La autorización de los respectivos canales se realizará previa presentación de solicitud de otorgamiento o modificación de concesión o permiso de servicio limitado, según corresponda.
