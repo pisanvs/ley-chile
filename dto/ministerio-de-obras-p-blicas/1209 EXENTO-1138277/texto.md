@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1209, de 14 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 93, 94, 95 y 96, para la obra: CONSERVACION SANEAMIENTO RUTA A-23, SECTOR: CORONEL ALCÉRRECA - HUMAPALCA, que figura a nombre de BLAS MAMANI GENARO AURELIO Y OTROS, rol de avalúo 3510-25, Comuna de GENERAL LAGOS, REGION DE ARICA Y PARINACOTA, superficies 1.091, 72, 2.573 y 221 m2 respectivamente. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y DIEGO ANDRES ROZAS GALLARDO, mediante informe de tasación de 31 de mayo de 2019, fijó el monto de la indemnización provisional en la cantidad de $381.850 para el lote N°93, $25.200 para el lote N°94, $900.550 para el lote N°95, y $77.350 para el lote N°96. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
