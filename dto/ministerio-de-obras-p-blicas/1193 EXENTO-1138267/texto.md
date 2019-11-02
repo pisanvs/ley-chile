@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1193, de 14 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N° 206 de 1960, se expropiaron los lotes de terreno N°s.110-A y 110-B, para la obra: REPOSICION RUTA A-133, SECTOR EL BUITRE - LAS MAITAS, que figura a nombre de ORELLANA VALENZUELA BARBARA y CESPEDES YANEZ ORFELINA DEL CARM Y, roles de avalúo 3420-444 y 3420-27, Comuna de ARICA, REGION DE ARICA Y PARINACOTA, superficies 52 y 875 m2 respectivamente. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y DIEGO ANDRES ROZAS GALLARDO, mediante informe de tasación de 05 de enero de 2019, fijó el monto de la indemnización provisional en la cantidad de $3.892.000 para el lote N° 110-A, y $45.307.500 para el lote N° 110-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
