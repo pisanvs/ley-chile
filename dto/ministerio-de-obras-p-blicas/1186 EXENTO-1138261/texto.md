@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1186, de 14 de octubre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 73, 74 y 75, para la obra: MEJORAMIENTO RUTA W-175 SECTOR: LINAO - QUEMCHI, que figuran a nombre de HERNANDEZ BUSTAMANTE NADIA YANNE, roles de avalúo 157-73, Comuna de QUEMCHI, REGION DE LOS LAGOS, superficies 1.592, 1.048 y 1.027 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y CARMEN PILAR RIOS MARCUELLO, mediante informe de tasación de 07 de octubre de 2016, fijó el monto de la indemnización provisional en la cantidad de $7.698.300, para el lote Nº73, $6.373.164, para el lote Nº74 y $4.478.925, para el lote Nº75. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
