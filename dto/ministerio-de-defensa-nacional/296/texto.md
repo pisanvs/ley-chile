@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo Nº 296, de 2 de agosto de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Celulosa Arauco y Constitución S.A., RUT 93.458.000-1, concesión marítima mayor, con vencimiento 31 de diciembre de 2034, sobre sector de playa y fondo de río, en el lugar denominado Piedra del Lobo y Mellico, Río Maule, comuna de Constitución, Provincia de Talca, Región del Maule, con una superficie total de 705,19 m², la que fue tramitada con el SIABC Nº 40248. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en amparar las obras de captación e impulsión de agua del Río Maule, desde el nuevo punto de captación hasta la sentina existente. Las obras consisten en la excavación y relleno de una zanja en playa y fondo del río Maule; instalación de una campana de aducción y tuberías HDPE en zanja excavada; construcción de una cámara (sentina) en hormigón armado; montaje electromecánico de bombas sumergibles de aspiración de agua al interior de sentina; canalización eléctrica soterrada y conexión a sentina existente, y el plazo contemplado para su ejecución es de 12 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Constitución. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Juan Pablo Sánchez Baeza, Capitán de Corbeta LT, Capitán de Puerto de Constitución.
