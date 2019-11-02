@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1199, de 14 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.4-C, 5-B y 7-B, para la obra: MEJORAMIENTO RUTA O-846, SECTOR EL LAUREL - LOTA, que todos figuran a nombre de FORESTAL ARAUCO S.A., roles de avalúo 1201-1, para los lotes 4-C y 5-B y 1202-9 para el lote 7-B, Comuna de LOTA, REGION DEL BIOBÍO, superficies 14.699, 5.644 y 629 m2 respectivamente. La Comisión de Peritos integrada por VALESKA CAROLINA ALÉ GOÑI, GONZALO ANDRÉS MELO SAÉZ y DORY GISELA DONOSO SALGADO, mediante informe de tasación de 03 de septiembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $38.270.125 para el lote N°4-C, $19.798.716 para el lote N°5-B, y $2.540.411 para el lote N°7-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
