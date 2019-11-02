@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1229, de 14 de octubre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e), y 105º del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 221, 222 y 223, para la obra: MEJORAMIENTO Y CONSTRUCCIÓN RUTA CORRAL-VALDIVIA (PENÍNSULA SN.RAMON), que figura a nombre de I. MUNICIPALIDAD DE CORRAL, SANHUEZA OPORTO DIONISIO e I. MUNICIPALIDAD DE CORRAL, roles de avalúo 80-157, 80-171 y 80-157, Comuna de CORRAL, REGION DE LOS RIOS, superficies 2.822, 282 y 27 m2 respectivamente. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERON PONTIGGIA, PAULO DIAZ VERGARA y MARIA ISABEL RIOS MARCUELLO, mediante informe de tasación de 14 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $44.151.200 para el lote N°221, $51.093.000 para el lote Nº222, y $1.525.500 para el lote N°223. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
