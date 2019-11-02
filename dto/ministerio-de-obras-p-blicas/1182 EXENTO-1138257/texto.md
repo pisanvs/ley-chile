@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1182, de 14 de octubre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.79-A y 79-B, para la obra: MEJORAMIENTO RUTA W-195 SECTOR: QUEMCHI - PUCHAURAN TRAMO: KM. 0,00000 A KM. 28,63090, que figuran a nombre de BAHAMONDE BAHAMONDE IRMA DEL CARMEN Y ARROYO BAHAMONDE JUAN FCO, roles de avalúo 171-61 y 171-48, Comuna de DALCAHUE, REGION DE LOS LAGOS, superficies 305 m2. y 678 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y CARMEN PILAR RIOS MARCUELLO, mediante informe de tasación de 03 de enero de 2018, fijó el monto de la indemnización provisional en la cantidad de $1.703.680, para el lote Nº79-A y $2.058.200, para el lote Nº79-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
