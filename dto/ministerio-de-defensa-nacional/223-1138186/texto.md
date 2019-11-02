@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 223, de fecha 23 de mayo de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Pedro Enrique Roig Alonso, RUN: 4.603.461-9, segunda renovación de concesión marítima menor, con vencimiento 31 de diciembre de 2027, sobre un sector de playa, en el lugar denominado Playa Las Gaviotas, comuna de Coquimbo, provincia de Elqui, Región de Coquimbo, con una superficie total de 375 m2, la que fue tramitada con el SIABC Nº 34869. A modo referencial se señalan los siguientes deslindes: Al Noroeste: Con playa en 25 Mts.; Al Noreste: Con playa en 15 Mts.; Al Sureste: Con línea de más alta marea, en 25 Mts., y al Suroeste con playa en 15 Mts.
+
+El objeto consiste en continuar amparando la construcción existente de un local comercial denominado "Pub Playa Paraíso", las obras existentes consisten en edificación de un piso, estructura de construcción de madera, de una superficie de 360 m2. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Coquimbo. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Coquimbo, 30 de septiembre de 2019.- René Moraga Espinoza, Capitán de Corbeta LT, Capitán de Puerto de Coquimbo.
