@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1171, de 14 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° 17, para la obra: MEJORAMIENTO RUTA N-51 Y N-47, SECTOR COIHUECO - PINTO, que figura a nombre de SUC LAGOS CARRASCO VICTOR RAMON, rol de avalúo 101-97, Comuna de COIHUECO, REGION DE ÑUBLE, superficie 436 m2. La Comisión de Peritos integrada por ROXANA CECILIA ABARZUA GAJARDO, GONZALO ANDRÉS SUAZO FIGUEROA y MARIA PAMELA MAC-GUIRE ACEVEDO, mediante informe de tasación de 03 de noviembre de 2017, complementada por acta de 19 de Julio de 2018, fijó el monto de la indemnización provisional en la cantidad de $3.820.624 para el lote N°17. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
