@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1155, de 14 de octubre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs. 265, 266, 267 y 268, para la obra: REPOSICION PAVIMENTO RUTA U-40, SECTOR: OSORNO - INTERSECCION RUTA U-52, que figuran a nombre de FORESTAL ANCHILE LTDA, roles de avalúo 2218-54, Comuna de SAN JUAN DE LA COSTA, REGION DE LOS LAGOS, superficies 995, 653, 640 y 196 m2. respectivamente. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y CARMEN PILAR RIOS MARCUELLO, mediante informe de tasación de 19 de enero de 2019, fijó el monto de la indemnización provisional en la cantidad de $1.273.750, para el lote Nº265, $2.612.400, para el lote Nº266, $1.724.000, para el lote Nº267 y $1.466.800, para el lote Nº268. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
