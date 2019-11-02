@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1184, de 14 de octubre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 106, para la obra: MEJORAMIENTO RUTA W-175 SECTOR: LINAO - QUEMCHI, que figura a nombre de LOBOS MARIN CARLOS ABEL, rol de avalúo 163-61, Comuna de QUEMCHI, REGION DE LOS LAGOS, superficie 33 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, ANDRES ECHEVERRIA CAMPO y CARMEN PILAR RIOS MARCUELLO, mediante informe de tasación de 21 de junio de 2017, fijó el monto de la indemnización provisional en la cantidad de $867.300, para el lote Nº106. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
