@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1156, de 14 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105° del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 46 y 49, para la obra: CONSTRUCCION MEJOR. RUTA 201-CH SECTOR: COÑARIPE - PELLAIFA, que figura a nombre de CATRIAN RAYEMPAN JUANA y CATRILAF PUNONANCO PASCUAL, roles de avalúo 220-44 y 220-49, Comuna de PANGUIPULLI, REGION DE LOS RIOS, superficies 161 y 3.032 m2 respectivamente. La Comisión de Peritos integrada por ANGELICA YANETT SEURA ROJAS, JUAN PABLO CONTRERAS MALLEA y OMAR IGNACIO GÓMEZ FIGUEROA, mediante informe de tasación de 20 de octubre de 2016, fijó el monto de la indemnización provisional en la cantidad de $1.674.000 para el lote N°46, y $35.233.750 para el lote N°49. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
