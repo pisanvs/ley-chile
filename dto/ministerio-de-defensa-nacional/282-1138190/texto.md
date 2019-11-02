@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 282, de fecha 17 de julio de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Empresa Pesquera Apiao S.A., RUT 84.764.200-9, concesión marítima menor con vencimiento el 31 de diciembre 2023, sobre un sector de playa y porción de agua en el lugar denominado Rilan, comuna de Castro, provincia de Chiloé, Región de Los Lagos, con una superficie total de 557.094 m2, la que fue tramitada con el SIABC Nº33.498. A modo referencial se señala la siguiente coordenada geográfica: Latitud 42º31'51,34" S, Longitud 73º38'13,55" W. El objeto consiste en regularizar y operando un atracadero flotante y un patio de maniobras que prestan apoyo al centro de cultivo que la empresa opera en la zona. Las obras instaladas corresponden un atracadero flotante. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Castro. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Roque Núñez Cabrera, Capitán de Corbeta LT, Capitán de Puerto de Castro.
