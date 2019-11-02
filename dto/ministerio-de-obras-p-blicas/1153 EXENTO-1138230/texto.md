@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1153, de 14 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N° 206 de 1960, se expropió el lote de terreno N° 8, para la obra: MEJORAMIENTO ROTONDA PAMPINO EN IQUIQUE, que figura a nombre de SHELL CHILE S A C E I, rol de avalúo 464-2, Comuna de IQUIQUE, REGION DE TARAPACÁ, superficie 1.836 m2. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, NORMAN ESTANISLAO CALDERON PONTIGGIA y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 29 de septiembre de 2014, fijó el monto de la indemnización provisional en la cantidad de $805.593.360 para el lote N° 8. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
