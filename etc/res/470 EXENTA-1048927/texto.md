@@ -166,37 +166,37 @@ Décimo segundo: Delégase en el Jefe de la División Gerencia del Fondo de Desa
 
 3. Oficios que aprueben la pertinencia técnica de las rendiciones por transferencias efectuadas en el marco del Fondo de Desarrollo de las Telecomunicaciones.
 
-### 4. Eliminado
+4. 4. Certificados de pago de subsidios asociados a concursos públicos realizados al amparo del Fondo de Desarrollo de las Telecomunicaciones, cuyo monto de subsidio no supere los $160.000.000.- (ciento sesenta millones de pesos)".
 
 5. Oficios conductores de los certificados de pago de subsidio asociados a concursos públicos o licitaciones realizadas al amparo del Fondo de Desarrollo de las Telecomunicaciones.
 
 Décimo tercero: Delégase en el Jefe de la División Administración y Finanzas, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
-1. Resoluciones que autorizan financiamiento y asistencia a cursos y/o talleres de capacitación de los funcionarios y del personal a honorarios de la Subtel, en atención al Plan Anual de Capacitación y/o a requerimiento del Jefe de la División respectiva. Lo anterior se resolverá en función del presupuesto asignado a cada División y con conocimiento del Jefe del Departamento de Gestión de Personas y del Jefe del Departamento de Finanzas.
+1. Resoluciones que autorizan, modifican o dejan sin efecto financiamiento y asistencia a cursos y/o talleres de capacitación de los funcionarios y del personal a honorarios de la Subtel, en atención al Plan Anual de Capacitación y/o a requerimiento del Jefe de la División respectiva. Lo anterior se resolverá en función del presupuesto asignado a cada División y con conocimiento del Jefe del Departamento de Gestión de Personas y del Jefe del Departamento de Finanzas.
 
 2. Oficios que solicitan la inscripción, ante la Dirección de Presupuestos del Ministerio de Hacienda, de los funcionarios responsables de efectuar la tramitación de la solicitud bono post laboral.
 
 3. "Certificado de expertise para los efectos establecidos en el artículo 11 de la ley N° 18.834, sobre Estatuto Administrativo.
 
-4. Resoluciones que autorizan la realización de trabajos extraordinarios con derecho a descanso o pago, siempre que hayan sido debidamente autorizados por la jefatura pertinente y que exista disponibilidad presupuestaria.
+4. Resoluciones que autorizan, modifican o dejan sin efecto la realización de trabajos extraordinarios con derecho a descanso o pago, siempre que hayan sido debidamente autorizados por la jefatura pertinente y que exista disponibilidad presupuestaria.
 
 5. "Resoluciones que otorgan el beneficio de co-financiamiento y sus modificaciones.
 
 6. Resoluciones que aprueban, modifican o dejan sin efecto las Políticas de Seguridad de la Información y procedimientos relacionados.
 
-7. Resoluciones que establecen dependencia de los funcionarios de la Subsecretaría y las que la modifiquen.
+7. Resoluciones que establecen dependencia de los funcionarios de la Subsecretaría y las que la modifiquen, o la dejen sin efecto.
 
-8. Resoluciones que autoricen o modifiquen la acumulación de feriados a funcionarios de la Subsecretaría, debidamente autorizados por la jefatura pertinente en el sistema de personal.
+8. Resoluciones que autoricen o modifiquen la acumulación de feriados a funcionarios de la Subsecretaría, debidamente autorizados por la jefatura pertinente en el sistema de personal, o la dejen sin efecto.
 
-9. Resoluciones que determinen descuentos por atrasos e inasistencias de los funcionarios de la Subsecretaría. Lo anterior se resolverá sobre la base de la información proporcionada por el Departamento de Gestión de Personas y el Departamento de Finanzas.
+9. Resoluciones que autoricen, modifiquen o dejen sin efecto que determinen descuentos por atrasos e inasistencias de los funcionarios de la Subsecretaría. Lo anterior se resolverá sobre la base de la información proporcionada por el Departamento de Gestión de Personas y el Departamento de Finanzas.
 
-10. Oficios de tramitación y/o término de fianzas de fidelidad funcionaria, respecto de los funcionarios y los contratados a honorarios de la Subsecretaría que hayan sido requeridos por la División respectiva.
+10. Oficios de tramitación y/o término de fianzas de fidelidad funcionaria, respecto de los funcionarios de la Subsecretaría que hayan sido requeridos por la División respectiva.
 
 11. Resoluciones exentas de llamado a licitación pública y aprobación de Bases, para el suministro de bienes muebles y/o la contratación de servicios, cuyo monto sea igual o superior a 50 unidades tributarias mensuales y con un tope de 100 unidades tributarias mensuales; aprueben las respuestas a las consultas realizadas por los oferentes en las licitaciones descritas; Resoluciones exentas que adjudiquen o declaren desierta las licitaciones públicas señaladas; Órdenes de compras y Resoluciones exentas que autoricen el gasto en bienes muebles y/o prestación de servicios, por montos iguales o superiores a 50 y con tope de 100 unidades tributarias mensuales, sin fraccionar las partidas que se adquieran en uso de esta delegación y las Resoluciones exentas que modifiquen a las anteriores.
 
 12. Resoluciones fundadas que autoricen la procedencia de licitación privada o del trato o contratación directa, junto con sus respectivos Términos de Referencia, para el suministro de bienes muebles y/o la prestación de servicios, cuyo monto sea igual o superior a 50 unidades tributarias mensuales y con un tope de 100 unidades tributarias mensuales y las resoluciones que modifiquen a las anteriores.
 
-13. Resoluciones que disponen el pago de la bonificación por retiro contemplada en el Título II de la ley Nº 19.882 y de la bonificación adicional prevista en la ley N° 20.948 y sus modificaciones.
+13. Resoluciones que verifican los requisitos para acceder a los beneficios establecidos en la ley Nº 20.948, las que disponen el pago de la bonificación por retiro contemplada en el Título II de la ley Nº 19.882, de la bonificación adicional prevista en la ley Nº 20.948 y del bono post laboral establecido en la ley Nº 20.305, y las que las modifique o dejen sin efecto.
 
 ### 14. Oficios que informan ejecución en avisaje y publicaciones
 
@@ -218,19 +218,23 @@ Décimo tercero: Delégase en el Jefe de la División Administración y Finanzas
 
 23. Aprobar las solicitudes del personal del Gabinete de la Subsecretaría de Telecomunicaciones, sean planta, contratas u honorarios, derivadas a través del Sistema de Personal y Remuneraciones, consistentes en Solicitud de Feriados; Solicitud de Permisos Administrativos Con Goce; Solicitud de Justificación Horaria; Solicitud de Uso de Horas a Compensar; Solicitud de Comisión de Servicio Nacional; Solicitud de Trabajo Extraordinario; Solicitud Informe Mensual Honorarios; Solicitud de Permiso Interferiado; Solicitud de Permiso Fallecimiento Hijos o Cónyuges; Solicitud de Permiso Fallecimiento Hijos en Gestación o Padres; Solicitud de Permiso Por Nacimiento Hijo(a).
 
+24. Resoluciones que aprueben, modifiquen o deje sin efecto cobertura de Jardines Infantiles para funcionarias/os de la Subsecretaría.
+
+25. Resoluciones que aprueben, modifiquen o dejen sin efecto descuentos por concepto de capacitación de contratados a honorarios.
+
 Décimo tercero bis: Delégase en el Jefe de la División Administración y Finanzas la facultad de comparecer y absolver posiciones en nombre y representación de la Subsecretaría de Telecomunicaciones en los procedimientos que se sigan ante la jurisdicción laboral.
 
 Décimo cuarto: Delégase en el Jefe del Departamento Gestión de Personas, la facultad de suscribir bajo la fórmula "Por orden del Subsecretario de Telecomunicaciones", los documentos relativos a las materias que a continuación se señalan:
 
-1. Resoluciones de reconocimiento a las funcionarias del derecho de disponer de al menos una hora al día, para dar alimento a sus hijos menores de dos años, de acuerdo a lo contemplado en el artículo 206 del Código del Trabajo.
+1. Resoluciones de reconocimiento a las funcionarias del derecho de disponer de al menos una hora al día, para dar alimento a sus hijos menores de dos años, de acuerdo a lo contemplado en el artículo 206 del Código del Trabajo, y las que las modifiquen o dejen sin efecto.
 
-2. Resoluciones que conceden, modifican y regularizan el derecho de asignación de antigüedad para los funcionarios de la Subsecretaría.
+2. Resoluciones que conceden, modifican y regularizan el derecho de asignación de antigüedad para los funcionarios de la Subsecretaría, y las que las dejen sin efecto.
 
-### 3. Resoluciones que reconocen el derecho de asignación familiar o maternal
+3. Resoluciones que reconocen el derecho de asignación familiar o maternal, y las que las modifiquen o dejen sin efecto.
 
-### 4. Resoluciones que reconocen el beneficio de bono de escolaridad
+4. Resoluciones que reconocen el beneficio de bono de escolaridad, y las que las modifiquen o dejen sin efecto.
 
-5. Resoluciones que conceden el derecho a licencia médica, incluidas las relativas al pre y post natal.
+5. Resoluciones que conceden el derecho a licencia médica, incluidas las relativas al pre y post natal, y las que las modifiquen o dejen sin efecto.
 
 ### 6. Resoluciones que reconocen el derecho a sala cuna y/o jardín infantil
 
@@ -240,15 +244,15 @@ Décimo cuarto: Delégase en el Jefe del Departamento Gestión de Personas, la f
 
 9. Oficios dirigidos a la Agencia de Cooperación Internacional que remiten antecedentes de funcionarios para postular a becas, previa aceptación de ésta por parte de la autoridad mediante patrocinio institucional.
 
-10. Resoluciones que autoricen cometidos y comisiones de servicio dentro del territorio nacional a funcionarios y a personas contratadas a honorarios de la División respectiva, con o sin derecho a viático, según corresponda, en atención a la disponibilidad presupuestaria correspondiente y que han sido debidamente autorizados por la jefatura pertinente en el sistema de personal vigente.
+10. Resoluciones que autoricen cometidos y comisiones de servicio dentro del territorio nacional a funcionarios y a personas contratadas a honorarios de la División respectiva, con o sin derecho a viático, según corresponda, en atención a la disponibilidad presupuestaria correspondiente y que han sido debidamente autorizados por la jefatura pertinente en el sistema de personal vigente, y las que las modifiquen o dejen sin efecto.
 
 11. Resoluciones relativas al horario al que están circunscritos los funcionarios de la Subsecretaría de Telecomunicaciones y aquellas que, en casos especiales, autoricen un horario especial de trabajo, de conformidad con la normativa vigente.
 
-12. Resoluciones de otorgamiento (concesión), reconocimiento o modificación de permisos por concepto de feriados y de permisos administrativos con goce de remuneraciones de los funcionarios de Subtel y que han sido debidamente autorizados por la jefatura pertinente en el sistema de personal vigente.
+12. Resoluciones de otorgamiento (concesión), reconocimiento o modificación de permisos por concepto de feriados y de permisos administrativos con goce de remuneraciones de los funcionarios de Subtel y que han sido debidamente autorizados por la jefatura pertinente en el sistema de personal vigente, y las que las dejen sin efecto.
 
-13. Resoluciones que autoricen permisos de día hábil entre dos feriados que hayan sido debidamente autorizados por la jefatura pertinente en el sistema de personal.
+13. Resoluciones que autoricen permisos de día hábil entre dos feriados que hayan sido debidamente autorizados por la jefatura pertinente en el sistema de personal, y las que las modifiquen o dejen sin efecto.
 
-14. Resoluciones que autoricen permisos laborales por fallecimiento de un hijo, aún en período de gestación, del cónyuge, del padre o la madre del trabajador, y permiso paternal por nacimiento o adopción de un hijo.
+14. Resoluciones que autoricen permisos laborales por fallecimiento de un hijo, aún en período de gestación, del cónyuge, del padre o la madre del trabajador, y permiso paternal por nacimiento o adopción de un hijo, y las que las modifiquen o dejen sin efecto.
 
 15. Notificación al personal a contrata, a través de cualquier medio de comunicación escrito, sobre la prórroga de la contratación, conforme al artículo 10 DFL (H) Nº 29 de 2004.
 
