@@ -24,9 +24,11 @@ Fíjase el siguiente Procedimiento para la Aplicación Práctica del Programa Co
 
 5. Todos los proyectos deberán postular y concursar a la etapa de Diseño, la que será financiada en su totalidad por el presupuesto sectorial del MINVU.
 
+Sin embargo, podrán postular en forma directa a la etapa de Ejecución, proyectos con diseño terminado, cuyo monto no supere las 6.000 UF. Estos proyectos deberán cumplir con las exigencias indicadas en la resolución exenta que llama a Concurso y en el Instructivo a que se refiere el numeral 2 precedente. Estos proyectos corresponden a lo definido por el Sistema Nacional de Inversiones (SNI) como Iniciativas de Conservación de Infraestructura Pública.
+
 6. Una vez concluido y aprobado el Diseño del proyecto, este ingresará a su etapa de Ejecución manteniendo su calidad de proyecto seleccionado en el programa, sin concursar nuevamente, cumpliendo los requisitos que establezca el Sistema Nacional de Inversiones. El financiamiento para la ejecución de la obra estará compuesto por el presupuesto sectorial MINVU y el aporte municipal establecido en el anexo Nº 1 de esta Resolución. Estos proyectos serán prioritarios en el programa presupuestario del año vigente o siguiente.
 
-Los aportes mínimos que corresponden a cada municipio se han definido en función de los Ingresos Propios Permanentes (SINIM 2014), la tasa de pobreza por ingresos según comunas (CASEN 2013) y el número de habitantes por comuna (Censo 2012).
+Los aportes mínimos que corresponden a cada municipio se han definido en función de los Ingresos Propios Permanentes (Sistema Nacional de Información Municipal - SINIM 2017), y el número de habitantes por comuna (Censo 2017).
 
 También podrán concurrir al financiamiento del proyecto otras entidades con su aporte parcial o total.
 
@@ -370,13 +372,15 @@ de 500 metros medidos desde el perímetro del
 
 proyecto.
 
-l) Nivel de pobreza predominante dentro del área de
+l) Capacidad de inversión urbana del Municipio,
 
-influencia del proyecto (datos encuesta CASEN),
+de acuerdo a los Ingresos Propios Permanentes
 
-medido como % de población pobre o indigente con
+per Cápita de la comuna, en relación a la
 
-respecto a la población total.
+región respectiva, según Censo 2017, e
+
+Ingresos Propios Permanentes del SINIM 2017.
 
 m) Índice de áreas verdes de la comuna, entendida
 
@@ -448,9 +452,9 @@ C. Índice de Áreas Verdes de la Comuna:
 
 Puntaje asociado a la superficie de área verde por habitante existente en la comuna, que se asigna de acuerdo a la siguiente tabla:
 
-D. Focalización Socioeconómica de la Población Beneficiada:
+D. FOCALIZACIÓN SOCIOECONÓMICA DE LA POBLACIÓN BENEFICIADA:
 
-Puntaje asociado al nivel socioeconómico de la población beneficiada, de acuerdo a la Tasa de Pobreza e Indigencia comunal establecida por Mideso (Encuesta CASEN 2013).
+Puntaje asociado al nivel socioeconómico de la comuna, de acuerdo a los Ingresos Propios Permanentes per Cápita de la comuna, en relación a la región respectiva, según Censo 2017, e Ingresos Propios Permanentes del SINIM 2017:
 
 .
 
@@ -458,17 +462,21 @@ El puntaje por focalización comunal para todas las comunas del país se incluye
 
 E. DIAGNOSTICO:
 
-Puntaje que establece una escala para determinar en qué medida la propuesta de diseño responde a un diagnóstico de necesidades de la comuna y al entorno existente. Se basa en el promedio de tres puntajes parciales: Sustentabilidad, Localización Patrimonial y Participación Ciudadana, según se describe a continuación:
+Puntaje que establece una escala para determinar en qué medida la propuesta de diseño responde a un diagnóstico de necesidades de la comuna y al entorno existente. Se basa en el promedio de tres puntajes parciales: Sustentabilidad, Pertenencia al Plan Urbano Integral y Participación Ciudadana, según se describe a continuación:
+
+.
+
+Si el proyecto está incluido en una o más de las alternativas del Plan Urbano Integral obtendrá 23 puntos. En caso que no esté incluido en ninguno de los planes señalados, el puntaje por este factor será 0 punto.
 
 El puntaje por Sustentabilidad corresponderá al promedio aritmético de los puntajes obtenidos en a), b), c) y d).
 
-El puntaje del factor Diseño corresponderá al promedio aritmético del puntaje obtenido entre Sustentabilidad, Localización Patrimonial y Participación Ciudadana, expresado en números enteros (0,5 se aproxima a 1 y 0,49 se aproxima a 0).
+El puntaje del factor DISEÑO corresponderá al promedio aritmético del puntaje obtenido entre Sustentabilidad, Pertenencia al Plan Urbano Integral y Participación Ciudadana, expresado en números enteros (0,5 se aproxima a 1 y 0,49 se aproxima a 0).
 
-F. Pertenencia a Plan Urbano Integral:
+F. LOCALIZACIÓN PATRIMONIAL:
 
-Si el proyecto está incluido en alguna o en más de una de las siguientes alternativas de Plan obtendrá 23 puntos. En caso que no esté incluido en ninguno de los planes señalados el puntaje por este factor será 0 punto.
+Si el proyecto está incluido en una de las alternativas de Localización señaladas, se le asignará el puntaje correspondiente. En caso contrario, el puntaje por este factor será 0 punto.
 
-El puntaje final de postulación será la sumatoria de los puntajes parciales obtenidos en cada uno de los factores de A a F.
+.
 
 ### III. DEL PROYECTO
 
@@ -592,21 +600,23 @@ En todo caso, el convenio debe ser aprobado por el Concejo Municipal.
 
 23. En caso de declaración de Zonas Afectadas por Catástrofe conforme a la Ley Nº16.282, las comunas respectivas quedarán eximidas de concurrir con los aportes correspondientes a aquellos proyectos que se encuentren en programas de inversión sectorial vigentes, sean estos de arrastre o nuevos. Este beneficio regirá mientras se mantenga vigente dicha declaración.
 
-ANEXO Nº 1
+ANEXO N° 1
 
 APORTES MUNICIPALES PROGRAMA ESPACIOS PÚBLICOS
 
-El numeral 22 de esta resolución indica que el aporte municipal mínimo corresponderá al porcentaje indicado en la siguiente tabla:
+Los aportes municipales mínimos a que alude el numeral 22 de la resolución 1.596 (V. y U.), de 2013, ya mencionada, corresponderán al porcentaje indicado en la siguiente tabla, conforme a los criterios señalados en su numeral 6.
 
-..
+.
 
-ANEXO Nº2
+ANEXO N° 2
 
 PUNTAJES POR FOCALIZACIÓN COMUNAL PROGRAMA ESPACIOS PÚBLICOS
 
-El numeral 12 de esta resolución indica que el puntaje de calificación referido al nivel socioeconómico de la comuna se otorgará según lo indicado en la siguiente tabla:
+El numeral 12, letra D. de la resolución que Fija Procedimiento para Aplicación Práctica del Programa de Espacios Públicos, establece que el puntaje de calificación referido a la capacidad de inversión urbana de la comuna se otorgará según lo indicado en la siguiente tabla, de acuerdo a los Ingresos Propios Permanentes per Cápita de la comuna en relación a la región respectiva, según Censo 2017 e Ingresos Propios Permanentes del Sistema Nacional de Indicadores Municipales 2017:
 
 ..
+
+.
 
 #### Artículo 2º
 
