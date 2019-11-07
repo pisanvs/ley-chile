@@ -84,12 +84,6 @@ NÓMINA DE PROYECTOS ELEGIBLES EN LISTA DE ESPERA 2º CIERRE REGIONES: ARICA Y P
 
 11. Los montos asignados mediante la presente resolución, ascendentes a 9.498.012.- unidades de fomento, se imputarán a los recursos autorizados, para el año 2019, del Programa de Integración Social y Territorial y del Sistema Integrado de Subsidio Habitacional.
 
-> **Nota.** La resolución 2544 Exenta, Vivienda, publicada el 16.11.2019, modifican la presente norma en el sentido de otorgar un nuevo plazo de 9 días corridos, a partir de la fecha de la citada resolución, para que las Entidades Desarrolladoras presenten al Serviu respectivo sus observaciones o reclamos al resultado de la selección del Segundo Cierre año 2019 del Programa de Integración Social y Territorial
-
-> **Nota.** NOTA 1 Los numerales 1 y 2 de la Resolución 368 Exenta, Vivienda, publicada el 18.03.2020, modifican la presente norma en el sentido de eliminar los proyectos que la citada norma indica, asimismo incorporar a la nómina de proyectos seleccionados elegibles que forman parte de la Lista de Espera.
-
-> **Nota.** NOTA 2 El numeral 1° de la Resolución 880 Exenta, Vivienda, publicada el 08-06-2020, modifican la presente norma en el sentido de eliminar los proyectos que la citada norma indica.
-
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo (S).
 
 Lo que transcribo para su conocimiento.- Erwin Navarrete Saldivia, Subsecretario de Vivienda y Urbanismo (S).
