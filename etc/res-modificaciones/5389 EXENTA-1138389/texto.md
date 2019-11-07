@@ -1,0 +1,49 @@
+MODIFICA RESOLUCIÓN Nº 2.961 EXENTA, DE 2019, DEL MINISTERIO DE EDUCACIÓN, QUE RECONOCE PARA EL AÑO 2019, A LOS ALUMNOS INTEGRADOS BENEFICIARIOS DE LA SUBVENCIÓN DE EDUCACIÓN ESPECIAL DIFERENCIAL Y/O DE NECESIDADES EDUCATIVAS ESPECIALES DE CARÁCTER TRANSITORIO ESTABLECIDAS POR EL DECRETO CON FUERZA DE LEY Nº 2, DE 1998, DEL MINISTERIO DE EDUCACIÓN
+
+Núm. 5.389 exenta.- Santiago, 25 de octubre de 2019.
+
+Visto:
+
+Lo dispuesto en la ley Nº 18.956, que reestructura el Ministerio de Educación Pública; en la ley Nº 20.422, que establece normas sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad; en el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 2, de 1996, sobre Subvención del Estado a Establecimientos Educacionales; en el decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de ley Nº 20.370, con las normas no derogadas en el decreto con fuerza de ley Nº 1, de 2005; en los decretos Nos 8.144, de 1980; 1º, de 1998; 161, de 2006; 170, de 2009; y 83 de 2015, todos del Ministerio de Educación; en las resoluciones exentas Nº 2.961 y Nº 3.851, ambas de 2019, del Ministerio de Educación; en el oficio ordinario Nº 05/1.818, de fecha 7 de octubre de 2019, del Jefe de la División de Educación General, del Ministerio de Educación; y en las resoluciones exentas Nº 7 y Nº 8, ambas de 2019, de la Contraloría General de la República;
+
+Considerando:
+
+1. Que, es deber del Estado ofrecer en igualdad de condiciones, las mejores opciones educativas a los niños, niñas y jóvenes con discapacidad;
+
+2. Que, la resolución exenta Nº 2.961, de 14 de junio de 2019, reconoció para el año 2019, a los alumnos integrados beneficiarios de la subvención de educación especial diferencial y/o de necesidades educativas especiales de carácter transitorio establecidas por el artículo 9º del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación;
+
+3. Que, la resolución exenta Nº 3.851, de 1 de agosto de 2019, modificó la resolución exenta Nº 2.961 antes indicada, incorporando como beneficiarios de esta subvención a los alumnos que cumplían con los requisitos para ello, pero que no habían sido contemplados inicialmente;
+
+4. Que, el Jefe de la División de Educación General del Ministerio de Educación, a través de su oficio ordinario Nº 05/1.818, de 7 de octubre de 2019, solicita nuevamente incorporar de conformidad a lo dispuesto en los artículos 94 y 97, ambos del decreto Nº 170, de 2009, como beneficiarios de esta subvención a los alumnos y alumnas que cumplen con los requisitos establecidos en la ley pero que sin embargo, no fueron contemplados en las resoluciones anteriores debido a situaciones imprevistas y se proceda a complementar la resolución señalada en el considerando 2º, de esta resolución.
+
+Resuelvo:
+
+#### Artículo 1º
+
+Reconózcase para el año 2019 a los alumnos que asisten a establecimientos educacionales con Programas de Integración Escolar, que serán beneficiarios de la subvención de educación especial diferencial y/o necesidades educativas especiales de carácter transitorio, de acuerdo a lo dispuesto en el artículo 9º del decreto con fuerza de ley Nº 2, de 1998, que no fueron contemplados inicialmente y que se encuentran individualizados en listado contenido en el archivo, denominado "Copia de Copia de 3REX_PIE rl", versión documento Excel, contenido en el disco compacto (CD) "Listado de estudiantes PIE Solicita complementar REX Nº 2961/2019 Exp. Nº 50010/2019 División de Educación General", con firma electrónica avanzada del Jefe de la División de Educación General del Ministerio de Educación que se acompaña en anexo y que forma parte integrante de la presente resolución, para todos los efectos legales.
+
+#### Artículo 2º
+
+Modifícase la resolución exenta Nº 2.961, de 2019, modificada por la resolución exenta Nº 3.851, de 1 de agosto de 2019, ambas del Ministerio de Educación, en el siguiente sentido: reemplázase en su artículo 1º, la frase: "que se encuentran individualizados en listado "1º REX POSTULADOS PERÍODO REGULAR 2019", versión documento Excel, contenido en el disco compacto (CD) 1 REX POSTULADOS PIE EXP. Nº 25413/2019 del Jefe de la División de Educación General y en el listado contenido en el archivo con firma electrónica avanzada del Jefe de la División de Educación General, denominado "COMPLEMENTO_1º_REX_PIE con firma", versión documento Excel, contenido en el disco compacto (CD) "COMPLEMENTA REX Nº 2961, PIE 2019 EXP. Nº 29712/2019", que se acompaña en anexo y que forma parte integrante de la presente resolución, para todos los efectos legales". Por la siguiente: "que se encuentran individualizados en listado "1º REX POSTULADOS PERÍODO REGULAR 2019", versión documento Excel, contenido en el disco compacto (CD) "1 REX POSTULADOS PIE EXP. Nº 25413/2019" del Jefe de la División de Educación General; en el listado contenido en el archivo con firma electrónica avanzada del Jefe de la División de Educación General, denominado "COMPLEMENTO_1º_REX_PIE con firma", versión documento Excel, contenido en el disco compacto (CD) "COMPLEMENTA REX Nº 2961, PIE 2019 EXP. Nº 29712/2019" y en el listado contenido en el archivo, denominado "Copia de Copia de 3REX_PIE rl", versión documento Excel, contenido en el disco compacto (CD) "Listado de estudiantes PIE Solicita complementar REX Nº 2961/2019 Exp. Nº 50010/2019 División de Educación General", con firma electrónica avanzada del Jefe de la División de Educación General del Ministerio de Educación que se acompaña en anexo y que forma parte integrante de la presente resolución.
+
+#### Artículo 3º
+
+Sin perjuicio de lo dispuesto en los artículos anteriores, el Ministerio de Educación tomará las medidas necesarias para asegurar la confidencialidad de la calidad de alumno con necesidades educativas especiales, de acuerdo a lo señalado en la ley Nº 19.628, sobre protección de la vida privada o protección de datos de carácter personal.
+
+#### Artículo 4º
+
+Infórmese al sostenedor del establecimiento educacional, la nómina de alumnos con necesidades educativas especiales que se encuentran matriculados en dicho establecimiento.
+
+#### Artículo 5º
+
+En todo lo no modificado por el presente acto, continúa vigente la resolución exenta Nº 2.961, de 14 de junio de 2019, del Ministerio de Educación.
+
+#### Artículo 6º
+
+Archívese una copia del presente acto administrativo conjuntamente con la resolución exenta Nº 2.961, de 14 de junio de 2019, del Ministerio de Educación.
+
+#### Artículo 7º
+
+Publíquese el presente acto administrativo íntegramente en el Diario Oficial, de conformidad a la ley Nº 19.880, por razones de economía, eficiencia y buen servicio.
+
+Anótese, notifíquese y publíquese.- Raúl Figueroa Salas, Subsecretario de Educación.
