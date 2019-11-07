@@ -910,6 +910,10 @@ Transitorio: Durante el año 2018 la recepción de postulaciones municipales en 
 
 transitorio: Durante el año 2019 la recepción de postulaciones municipales en el Servicio de Vivienda y Urbanización para participar en el 29º Proceso de Selección de Proyectos tendrá como fecha de cierre el día martes 15 de octubre.
 
+#### Artículo 18°
+
+transitorio: Durante el año 2019 la recepción de postulaciones municipales en la Secretaría Regional Ministerial de Vivienda y Urbanismo para participar en el 29° Proceso de Selección de Proyectos tendrá como fecha de cierre el día viernes 15 de noviembre de la presente anualidad.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
