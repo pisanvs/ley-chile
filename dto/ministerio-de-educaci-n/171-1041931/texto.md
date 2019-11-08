@@ -58,7 +58,7 @@ REQUISITOS DE POSTULACIÓN
 
 Los requisitos para postular a los recursos del Fondo de Equipamiento Científico Tecnológico serán los siguientes:
 
-i) Tratarse de Universidades que se encuentren acreditadas por la Comisión Nacional de Acreditación a la fecha de postulación del concurso;
+i) Tratarse de Universidades que se encuentren acreditadas por la Comisión Nacional de Acreditación a la fecha del concurso, o Instituciones que desarrollen actividades de investigación con personalidad jurídica sin fines de lucro, con a lo menos 3 años de antigüedad;
 
 ii) Acreditar fehacientemente que desarrollan actividades de investigación, conforme a los medios de verificación que se soliciten en las bases de concurso;
 
