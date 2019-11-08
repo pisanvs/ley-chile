@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº 595 EXENTA, DE 8 DE OCTUBRE DE 2019, QUE APRUEBA LAS BASES DEL PROGRAMA PILOTO DE FISCALIZACIÓN DE SISTEMAS DE REGISTRO DE ASISTENCIA DIGITAL DE ESTUDIANTES - AÑO 2019
+
+Con fecha 8 de octubre de 2019, la Superintendencia de Educación dictó la resolución exenta Nº 595, que "Aprueba las Bases del Programa Piloto de Fiscalización de Sistemas de Registro de Asistencia Digital de Estudiantes - año 2019", el cual se incorpora al Plan Anual de Fiscalización 2019, con el fin de verificar el funcionamiento de estos sistemas y, en particular, si estos entregan la información necesaria para fiscalizar el cumplimiento de las obligaciones relacionadas a la Toma y Declaración de asistencia por parte de los establecimientos educacionales. La ejecución del programa se informará con anterioridad a los sostenedores que participen. Esta resolución estará disponible para la comunidad en la página web institucional www.supereduc.cl.-
+
+Mauricio Irarrázabal Cerpa, Fiscal Superintendencia de Educación.
