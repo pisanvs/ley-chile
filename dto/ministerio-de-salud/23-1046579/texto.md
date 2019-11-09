@@ -12,7 +12,7 @@ Decreto:
 
 Créase la Comisión Nacional de Protección de los Derechos de las Personas con Enfermedades Mentales, cuya función principal será velar por la protección de los derechos de las personas con discapacidad psíquica o intelectual, asumiendo su defensa en lo que respecta a la atención de salud que les es entregada por los prestadores públicos o privados, ya sea en las modalidades de atención comunitaria, ambulatoria, hospitalaria o de urgencia.
 
-La Comisión Nacional tendrá su sede en el gabinete ministerial, contará con una secretaría ejecutiva, que coordinará su funcionamiento y cumplirá los acuerdos que aquella adopte. La secretaría ejecutiva estará conformada por el personal que al efecto le asigne el Ministerio.
+La Comisión Nacional tendrá su sede en el gabinete de la Subsecretaría de Salud Pública, contará con una secretaría ejecutiva, que coordinará su funcionamiento y cumplirá los acuerdos que aquella adopte. La secretaría ejecutiva estará conformada por el personal que al efecto le asigne el Ministerio.
 
 Corresponderá a esta Comisión aprobar, a propuesta de su secretaría ejecutiva, la reglamentación interna que la regirá, la que determinará las cuestiones operativas relacionadas con su funcionamiento, tales como periodicidad de sus sesiones, quórum de funcionamiento y aprobación de acuerdos y otros.
 
