@@ -24,15 +24,17 @@ II De las Especies
 
 #### Artículo 4º
 
-Las especies que podrán ser autorizadas por la Municipalidad para instalarse en los frontis de las propiedades particulares serán las siguientes:
+Las especies que podrán ser autorizadas por la Municipalidad para instalarse en los frontis de las propiedades particulares en orden preferencial serán las siguientes:
 
-a) Crespón, nombre científico, Lagerstroemia indica.
+a. Cítricos naranjos o limones.
 
-b) Arce japonés, nombre científico, Acer japonicum.
+b. Crespón.
 
-c) Liquidámbar, nombre científico, Liquidambar styraciflua L.
+c. Arce japonés.
 
-d) Maitén, nombre científico, Maytenus boaria
+d. Liquidámbar.
+
+e. Maitén.
 
 #### Artículo 5º
 
