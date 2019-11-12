@@ -52,11 +52,11 @@ Las carpetas ingresadas a Serviu, una vez habilitada la postulación, además de
 
 El proceso de Revisión y Calificación de los Proyectos, contemplará una instancia de observaciones, en virtud de la cual el Serviu, comunicará a la Entidad Patrocinante las inconformidades detectadas y la fecha en que deberá reingresarse el proyecto subsanado. Asimismo, podrá solicitar antecedentes que a su juicio sean necesarios para validar la postulación. Si persistieren inconformidades tras el reingreso, Serviu deberá excluir dicho proyecto del proceso de selección.
 
-Para calcular la proyección de reajuste de los aportes adicionales expresados en pesos una vez ingresados al Serviu los antecedentes señalados, se aplicará el valor de la UF correspondiente al último día hábil del mes de junio de 2020, conforme lo indicado en el artículo 20 del DS Nº 27 (V. y U.), de 2016.
-
 5. Los Criterios Regionales de Selección, deberán estar establecidos mediante resolución del Seremi a más tardar al 23 de agosto de 2019.
 
 6. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado serán los siguientes:
+
+.
 
 7. Los recursos disponibles para efectuar la selección de proyectos, que incluyen el monto del subsidio más la asistencia técnica respectiva, serán los siguientes:
 
@@ -64,7 +64,7 @@ Con estos montos se definirá el número de postulantes que deberán presentar l
 
 Si una vez concluido el proceso señalado quedaren recursos disponibles, mediante resoluciones que el Ministro de Vivienda y Urbanismo dicte al efecto, se podrán redistribuir los recursos señalados en la tabla precedente total o parcialmente.
 
-8. Si los aportes adicionales son efectuados por municipalidades, se deberá presentar el Acta del Concejo Municipal en que conste la aprobación de destinar dichos recursos al proyecto en caso de resultar seleccionado, el que deberá ser presentado a Serviu antes del inicio de obras.
+8. Si los aportes adicionales son efectuados por municipalidades, se deberá presentar el Acta del Concejo Municipal en que conste la aprobación de destinar dichos recursos al proyecto en caso de resultar seleccionado, el que deberá ser enterado hasta 45 días corridos desde la fecha de selección.
 
 9. Los proyectos de Construcción de Edificaciones Comunitarias, podrán postular presentando anteproyecto aprobado por la DOM. La Entidad Patrocinante dispondrá de 60 días corridos, contados desde la fecha de la publicación en el Diario Oficial de la resolución de selección, para presentar al Serviu el Permiso de Edificación correspondiente e iniciar obras.
 
@@ -72,13 +72,9 @@ Si una vez concluido el proceso señalado quedaren recursos disponibles, mediant
 
 11. La inscripción en el Conservador de Bienes Raíces de la prohibición de gravar y enajenar la propiedad, señalada en el artículo 67 del DS Nº 27 (V. y U.), de 2016, deberá constituirse durante la ejecución del proyecto, requiriéndose para el pago final del subsidio.
 
-12. Delégase en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo de las regiones del Biobío y Metropolitana la facultad de seleccionar, mediante resolución, en atención al financiamiento disponible y a los factores señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
+12. Delégase en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo la facultad de seleccionar, mediante resolución, en atención al financiamiento disponible y a los factores señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
 
 13. Los subsidios que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para las Regiones de Valparaíso, del Biobío, de Aysén del General Carlos Ibáñez del Campo y Metropolitana, del Programa regulado por el DS Nº 27 (V. y U.), de 2016, para el año 2019.
-
-> **Nota.** La letra a) de la Resolución 114 Exenta, Vivienda, publicada el 24.02.2021, modifica la presente norma en el sentido de reemplazar la Región Metropolitana en la tabla inserta en el numeral 7 por la que la citada norma indica.
-
-> **Nota.** NOTA 1 La letra a) del numeral 1 de la Resolución 613 Exenta, Vivienda, publicada el 03.06.2021, modifica el cuadro inserto en el numeral 7 de la presente norma en el sentido de reemplazar la Región Metropolitana de la manera que la citada resolución indica.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
