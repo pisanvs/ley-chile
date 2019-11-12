@@ -1,0 +1,13 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "PLANTEL FUNDO PACHINGO DE AVÍCOLA SANTA ELVIRA"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que mediante resolución exenta Nº 78, de fecha 4 de noviembre de 2019, la Directora Regional del Servicio de Evaluación Ambiental de la Región de Coquimbo ha resuelto dar inicio a un proceso de Participación Ciudadana, por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley Nº 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del proyecto denominado "Plantel Fundo Pachingo de Avícola Santa Elvira".
+
+El proyecto se ubica en la localidad de Pachingo, comuna de Ovalle, provincia del Limarí, en la Región de Coquimbo, y su objetivo es construir y operar un plantel de aves de Avícola Santa Elvira, en la localidad de Pachingo, comuna de Ovalle, para la producción de huevos de gallinas.
+
+Este centro productor de huevos de gallinas estará habilitado para 402.000 aves en cría-recría, 1.170.000 aves de postura, distribuidos en 3 galpones de cría-recría para 129.000 aves cada uno, 9 galpones de postura de 125.00 cada uno, 1 galpón de recría de aves libres para 15.000 aves y 3 galpones de postura de gallinas libres para 15.000 aves cada uno, junto con las instalaciones anexas necesarias para dar cumplimiento a la legislación vigente y estándar de calidad de producción de huevos. El proyecto involucra junto con la cría-recría de aves, postura y empaquetamiento, manejo de residuos, como sistema integrado de trabajo.
+
+Cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS Nº 40/2012 dentro del plazo de 20 días hábiles, contados a partir de la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada más los antecedentes del proceso de evaluación pueden ser conocidos en las oficinas de la Dirección Regional del SEA Coquimbo, ubicadas en calle Eduardo de la Barra Nº 205, La Serena, o accederse a ella a través del sitio web www.sea.gob.cl.-
+
+Claudia Martínez Guajardo, Directora Regional Servicio de Evaluación Ambiental, Secretaria Comisión de Evaluación Región de Coquimbo.
