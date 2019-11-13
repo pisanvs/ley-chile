@@ -40,7 +40,7 @@ d) Lo dispuesto por el artículo 117 de la Ley General de Urbanismo y Construcci
 
 Decreto:
 
-1. Postérganse en la Zona "C" del Plan Regulador Comunal de Santiago de 1990, Barrio Buzeta, vigente para la comuna de Cerrillos, por el plazo de tres meses, los Permisos de Edificación de proyectos con sistema de agrupación continua con edificación aislada por sobre la altura máxima de continuidad que, su Ocupación del Suelo sea superior al 60%, su altura de continuidad sea superior a 12 metros, sus rasantes sean superiores a 60º, su estacionamiento para vivienda en Edificios Colectivos y/o acogidos a la Ley de Copropiedad Inmobiliaria, sea inferior a 2 por cada vivienda.
+1. Postérganse en la Zona "C" del Plan Regulador Comunal de Santiago de 1990, Barrio Buzeta, vigente para la comuna de Cerrillos, por el plazo de tres meses, los Permisos de Edificación de proyectos con sistema de agrupación continua con edificación aislada por sobre la altura máxima de continuidad que, su Ocupación del Suelo sea superior al 60%, su altura de continuidad sea superior a 12 metros, sus rasantes sean superiores a 60º, su estacionamiento para vivienda en Edificios Colectivos y/o acogidos a la Ley de Copropiedad Inmobiliaria, sea inferior a uno (1) por cada dos (2) viviendas.
 
 2. La normativa de la Enmienda Nº1 en etapa de aprobación, que justifica este decreto alcaldicio de postergación de permisos de edificación, se enmarca dentro de los márgenes normativos establecidos en los artículos Nº 45 de la Ley General de Urbanismo y Construcciones y 2.1.11 y 2.1.13 de la Ordenanza General de Urbanismo y Construcciones.
 
