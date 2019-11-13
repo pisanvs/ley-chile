@@ -1,0 +1,81 @@
+REVOCA RECONOCIMIENTO OFICIAL Y ELIMINA DE REGISTRO DE CENTROS DE FORMACIÓN TÉCNICA A LA INSTITUCIÓN QUE SE INDICA
+
+Núm. 1.255 exento.- Santiago, 7 de noviembre de 2019.
+
+Considerando:
+
+Que, el Centro de Formación Técnica Andrés Bello de la ciudad de Temuco, ha sido autorizado a funcionar en virtud de las normas contenidas en el DFL N° 24 de 1981, mediante decreto exento N° 216, de 20 de diciembre de 1982, modificado por decreto exento N° 202, de 18 de noviembre de 1983, y decreto exento N° 179, de 21 de abril de 1993, todos de Educación e inscrito en el Registro correspondiente con el N° 65;
+
+Que, de acuerdo a lo dispuesto en el artículo 112 del DFL N° 2 de 2009, publicado en el Diario Oficial el 2 de julio de 2010, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370, Ley General de Educación, con las normas no derogadas del DFL N° 1 de 2005, se considera de pleno derecho reconocido oficialmente;
+
+Que, bajo el sistema de supervisión ante el Ministerio de Educación, la institución obtuvo la aprobación para impartir las carreras técnicas de: Administración de Empresas, Computación, Secretariado Ejecutivo y Electrónica, mediante resolución exenta N° 712, de 12 de abril de 1983; Secretariado Ejecutivo con mención en Operación de Terminales y Microcomputadores, mediante resolución exenta N° 2.351, de 20 de agosto de 1985, modificada por resolución exenta N° 1.230, de 23 de mayo de 1986; Contabilidad General con mención en Administración y Finanzas, mediante resolución exenta N° 1.213, de 9 de junio de 1987, todas de Educación;
+
+Que, mediante decreto exento N° 5.555, de 21 de diciembre de 2000, de Educación, el Centro de Formación Técnica Andrés Bello obtuvo la plena autonomía, en virtud de la Ley N° 18.962, Orgánica Constitucional de Enseñanza;
+
+Que, en virtud de la plena autonomía el Centro de Formación Técnica Andrés Bello amplió su funcionamiento de la institución con el ofrecimiento de nuevas carreras técnicas en la casa central de Temuco, a saber: Asistente Jurídico, Prevención de Riesgos, Secretariado Ejecutivo Inglés Computacional, Técnico de Nivel Superior en Arquitectura y Diseño, Técnico de Nivel Superior en Educación Parvularia y Primer Ciclo Básico, Técnico de Nivel Superior en Gestión de Sistemas Informáticos y Conectividad (modificada por Técnico de Nivel Superior en Informática y Conectividad de Redes), Técnico de Nivel Superior en Turismo, Técnico en Construcción Civil y Técnico en Trabajo Social;
+
+Que, en el año 2008, el Centro de Formación Técnica abrió una sede en la ciudad de Angol, impartiendo las siguientes carreras técnicas de nivel superior: Asistente Jurídico, Contabilidad General, Gestión de Negocios Turísticos, Prevención de Riesgos, Secretariado Gerencial, Técnico de Nivel Superior en Arquitectura (modificada por Técnico de Nivel Superior en Arquitectura y Diseño), Técnico de Nivel Superior en Enfermería, Técnico de Nivel Superior en Gestión de Sistemas Informáticos y Conectividad (modificada por Técnico de Nivel Superior en Informática y Conectividad de Redes), Técnico de Nivel Superior en Podología, Técnico en Construcción Civil y Técnico en Trabajo Social;
+
+Que, el Centro de Formación Técnica Andrés Bello se acreditó en los años 2006, 2008, 2010 y 2013. Sin embargo, en 2016 se presentó nuevamente al proceso de acreditación, culminando con la no acreditación por parte de la Comisión Nacional de Acreditación, decisión refrendada por el Consejo Nacional de Educación, mediante el Acuerdo N° 9, de 1 de febrero de 2017;
+
+Que, con fecha 1 de octubre de 2018, la División de Educación Superior recibió Carta de Rectoría N° 03/2018, de fecha 25 de septiembre de 2018, del representante legal y Rector del Centro de Formación Técnica Andrés Bello de Temuco, y acompaña Carta de Rectoría N° 02 de 2018, dirigida a la Sra. Ministra de Educación, en la cual presenta una reseña de la institución, comunica su decisión institucional de iniciar un cierre voluntario del CFT y elaborar un plan de cierre progresivo de la entidad y fundamenta las razones de dicha determinación, junto a señalar su compromiso de terminar las actividades académicas de los actuales alumnos en proceso;
+
+Que, asimismo informa que, evaluados los antecedentes relacionados con el Centro de Formación Técnica Andrés Bello, en particular la continuidad de su funcionamiento, informa que para el año 2018, no matriculará alumnos nuevos en la Sede de Angol y para la casa central de Temuco, no matriculará alumnos nuevos a contar del año 2019, con lo cual iniciaría su proceso de cierre progresivo de la institución, con el compromiso formal de terminar con la formación de los estudiantes en proceso hasta su titulación. Durante el año 2020, la cohorte 2018 iniciaría su proceso de titulación, para lo cual arrendaría las dependencias requeridas para finalizar con dicho proceso;
+
+Que, la solicitud de cierre de la institución se fundamenta en motivos de carácter jurídico-legal inciertos, además de la no acreditación el año 2017 por la Comisión Nacional de Acreditación -CNA-, tomando con posterioridad la decisión de cierre del Centro de Formación Técnica;
+
+Que, en cumplimiento de lo dispuesto en el artículo 81, del DFL N° 2, de 2009, de Educación, el Ministerio de Educación mediante Ord. N° 06/4626, de 4 de diciembre de 2018, solicitó al Consejo Nacional de Educación, el acuerdo adoptado por mayoría de sus miembros en sesión convocada para ese solo efecto, escuchada la entidad afectada, para resolver la solicitud de cierre voluntario y revocación del reconocimiento oficial del Centro de Formación Técnica Andrés Bello;
+
+Que, mediante oficio N° 682, de 20 de diciembre de 2018, el Consejo Nacional de Educación solicitó a la institución un informe sobre dicha solicitud, haciendo hincapié especialmente en aquellos aspectos nuevos que se hubieren verificado en el tiempo que media entre su presentación al Ministerio de Educación y la fecha en que emitiera su informe, lo cual fue reiterado por el Consejo Nacional de Educación mediante oficio ordinario N° 112, de 14 de febrero de 2019, cuya respuesta fue recibida con fecha 1 de abril de 2019, mediante oficio REC N° 01/2019;
+
+Que, los criterios de evaluación para procesos de cierre, contenidos en la resolución N° 94, de 26 de abril de 2017, del Consejo Nacional de Educación, son aplicados con énfasis diferenciados conforme al alcance institucional, de sede o carrera del proceso, y el carácter voluntario o no del proceso. Además, tratándose de instituciones autónomas, como en este caso, se utilizan como aspectos a considerar, en lo pertinente, para el análisis y pronunciamiento del Consejo. Lo anterior tiene como foco evaluar los aspectos que sean claves para desarrollar un proceso de cierre razonable que vele por la continuidad y finalización de estudios de los alumnos y que vele por sus derechos;
+
+Que, de conformidad con lo señalado en el considerando anterior, el Consejo Nacional de Educación pudo constatar que la información proporcionada por la institución ha sido suficiente y se ha presentado en forma adecuada a un plan de cierre. Sin embargo, no se acompañó información precisa sobre el número de matriculados, de titulados ni de la progresión académica de sus estudiantes;
+
+Que, respecto de las proyecciones de titulación, la institución informó que, conforme a la proyección del avance curricular de los estudiantes, se considera que el plazo de cierre del Centro de Formación Técnica será el 30 de diciembre de 2020;
+
+Que, respecto a la reincorporación de alumnos antiguos, el Centro informó que se formalizó un procedimiento basado en el Reglamento Académico para el reingreso de estudiantes egresados con procesos de título pendiente, con el objeto de que puedan obtener su título. De la misma forma, se establecieron mecanismos de tutoría y exámenes de gracia, para aquellos estudiantes con módulos de formación pendientes, con el objeto de regularizar su situación académica y finalizar sus procesos de título;
+
+Que, en relación a la situación del personal, el Centro de Formación Técnica informó que se estableció la dotación de personal directivo, administrativo y de servicios que asegurase el normal funcionamiento institucional, procediendo a la desvinculación del personal, que de acuerdo con la nueva realidad institucional no era requerido y a la adaptación de los manuales de funciones. Agregó que, se ha velado por el fiel cumplimiento de las debidas obligaciones laborales y previsionales en cumplimiento con las disposiciones legales vigentes;
+
+Que, respecto de la infraestructura y equipamiento, la institución informó que en diciembre de 2018 proyectó el número de estudiantes a matricularse en casa central para el año lectivo 2019, considerando las potenciales reincorporaciones, con el objeto de determinar tanto la infraestructura como el equipamiento requerido. Es así, como se procedió arrendar la casa central a la Universidad Aconcagua, reservándose las dependencias y equipamiento necesario para su óptimo desarrollo de la labor formativa y de gestión;
+
+Que, respecto de la Sede de Angol, el Centro proyectó un máximo de 15 estudiantes en proceso regular, los que culminan sus estudios el primer semestre de 2019, y 220 estudiantes en proceso de titulación, los que sólo requieren sala de reuniones. Es por ello, que se procedió a poner en venta las dependencias. De concretarse la venta antes de diciembre de 2019, fecha en la cual culminan todas las actividades académicas, incluidas las ceremonias de titulación, se procedería al arrendamiento de un espacio físico que permita dar término a los procesos académicos y administrativos;
+
+Que, en cuanto a la sustentabilidad financiera, el Centro informó que no existen deudas pendientes de ninguna naturaleza, sean de corto, mediano o largo plazo, por lo que su infraestructura y equipamiento son de su absoluta propiedad, por lo cual no habría ningún riesgo de entrar en falencia de pago de sus compromisos financieros. Agrega que, se elaboraron presupuestos proyectados, por lo que se tiene certeza de contar con los recursos financieros suficientes para operar eficiente y sustentablemente hasta la fecha planificada de cierre institucional;
+
+Que, en relación con la difusión del cierre, el Centro informa que desde el mes de agosto de 2018 se sostuvieron reuniones presenciales con la comunidad del Centro de Formación Técnica, tanto estudiantes, directivos, docentes y personal de apoyo, de las sedes de Temuco y Angol, con el objeto de informar el cierre progresivo, sus alcances y plazos estipulados. Además, en el mes de septiembre de 2018, se envió a todos los parlamentarios de la región una carta informativa sobre la decisión de cierre institucional y se sostuvo reuniones con el Intendente y Seremi de la Región de la Araucanía, así como con el Alcalde de la comuna de Angol;
+
+Que, junto con ello, el 30 de enero de 2019, el Centro publicó en la web institucional un informativo invitando a los alumnos con procesos pendientes para culminar sus estudios y obtener su título. Por último, en el mes de febrero de 2019, se comunicó por medio de Radio Araucana y Punto 7, para la comuna de Temuco y alrededores, la decisión del cierre institucional, invitando a aquellos estudiantes con situaciones académicas pendientes a regularizar dichas situaciones. Lo mismo para la comuna de Angol, a través de la Radio Monte Carlo y Radio Onda Latina;
+
+Que, dada la expresa manifestación de voluntad de cierre del Centro de Formación Técnica Andrés Bello, y el análisis de los documentos que se han tenido a la vista junto con los demás antecedentes de la institución, a juicio del Consejo Nacional de Educación, se ha dado pleno cumplimiento a la obligación legal de escuchar a la entidad afectada por la revocación, según lo dispuesto en el artículo 81 del DFL N° 2, de 2009, de Educación;
+
+Que, todo lo expuesto en los considerandos que conforman el cuerpo de este decreto constituyen a juicio del Consejo Nacional de Educación antecedentes suficientes para tener por constituidas las causales para revocar el reconocimiento oficial establecido en el artículo 81, letras a) y d) del DFL N° 2 de 2009, de Educación, dado que la entidad ha manifestado expresamente su decisión de no perseverar en los fines propios de la institución y, en consecuencia, de no continuar otorgando títulos técnicos de nivel superior, manifestando su conformidad con la solicitud de cierre y revocación del reconocimiento oficial del Centro de Formación Técnica Andrés Bello, lo que fue informado mediante oficio N° 317/2019, de 24 de junio de 2019, del Consejo Nacional de Educación;
+
+Que, en virtud de la ley N° 21.091 y de acuerdo a lo dispuesto en artículo 81 del DFL N° 2, de 2009, de Educación, publicado en el Diario Oficial el 2 de julio de 2010, que fija texto refundido, coordinado y sistematizado de la Ley N° 20.370, Ley General de Educación, con las normas no derogadas del DFL N° 1, de 2005, procede dictar el acto administrativo correspondiente.
+
+Visto:
+
+Lo dispuesto en el artículo 81 del DFL N° 2 de 2009, de Educación, publicado en el Diario Oficial el 2 de julio de 2010, que Fija Texto Refundido, Coordinado y Sistematizado de la Ley N° 20.370, Ley General de Educación, con las normas no derogadas del DFL N° 1 de 2005; en la ley N° 21.091, sobre Educación Superior; en el DFL N° 3 de 2019, del Ministerio de Educación, que fija planta y establece otras materias de la Subsecretaría de Educación Superior; en el DS N° 19, de 2001, del Ministerio Secretaría General de la Presidencia; en el decreto exento N° 216, de 20 de diciembre de 1982, modificado por decreto exento N° 202, de 18 de noviembre de 1983, y N° 179, de 21 de abril de 1993, todos de Educación; en el oficio N° 317/2019, de 24 de junio de 2019, la resolución exenta N° 176, de 14 de junio de 2019 y el Acuerdo N° 061/2019, de 22 de mayo de 2019, todos del Consejo Nacional de Educación; y en la resolución N° 7, de 2019, de la Contraloría General de la República.
+
+Decreto:
+
+#### Artículo 1°
+
+Revócase el reconocimiento oficial del Centro de Formación Técnica Andrés Bello organizado por la Sociedad Haroldo Fuentealba Espinoza y Otro Limitada, y elimínase a dicho Centro del Registro correspondiente en que se encuentra inscrito con el N° 65, ubicado en calle Las Heras N° 538, de la ciudad de Temuco.
+
+#### Artículo 2°
+
+Deróganse los decretos exentos N° 216, de 20 de diciembre de 1982, modificado por decreto exento N° 202, de 18 de noviembre de 1983, y decreto exento N° 179, de 21 de abril de 1993, todos de Educación, que autorizaron el funcionamiento de la institución y, las resoluciones exentas N° 712, de 12 de abril de 1983; N° 2.351, de 20 de agosto de 1985; N° 1.230, de 23 de mayo de 1986; N° 394, de 2 de marzo de 1987; N° 1.213, de 9 de junio de 1987; y decretos exentos N° 427, de 28 de diciembre de 1990; N° 176, de 16 de junio de 1992; N° 465, de 21 de abril de 1997; N° 1.110, de 23 de diciembre de 1998; N° 144, de 9 de junio de 1999; todos de Educación, que aprobaron los planes y programas de estudios de las carreras técnicas de nivel superior para la institución, y el decreto exento N° 5.555, de 21 de diciembre de 2000, de Educación, que declara la plena autonomía del Centro de Formación Técnica Andrés Bello.
+
+#### Artículo 3°
+
+Lo dispuesto en los artículos precedentes regirá a contar del 31 de diciembre de 2020, con el objeto de permitir la finalización de los procesos académicos pendientes de los alumnos del Centro.
+
+#### Artículo 4°
+
+El Ministerio de Educación arbitrará las medidas pertinentes que permitan custodiar la seguridad e integridad de los registros académicos de los alumnos del Centro de Formación Técnica Andrés Bello y su posterior entrega a esta Secretaría de Estado.
+
+Anótese y publíquese en el Diario Oficial con cargo al Ministerio de Educación.- Por orden del Presidente de la República, Marcela Cubillos Sigall, Ministra de Educación.
+
+Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Juan Eduardo Vargas Duhart, Subsecretario de Educación Superior.
