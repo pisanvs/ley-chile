@@ -14,7 +14,7 @@ Decreto:
 
 #### Artículo 1º
 
-El objetivo del Programa de Transversalidad Educativa es garantizar la implementación integral del currículo en los niveles de enseñanza prebásica, básica y media, para lo cual deberá generar las orientaciones y estrategias necesarias y adecuadas para el cumplimiento de dicho fin.
+El objetivo del Programa de Transversalidad Educativa es garantizar la implementación integral del currículum en los niveles de enseñanza parvularia, básica y media, y sus modalidades, y que ese proceso contribuya a la formación y desarrollo integral de los estudiantes, mediante la generación de estrategias, actividades y acciones necesarias para el cumplimiento de dicho fin.
 
 #### Artículo 2º
 
@@ -24,29 +24,35 @@ El Ministerio de Educación, a través del Programa de Transversalidad Educativa
 
 El Programa comprende la siguiente línea de acción:
 
-a.- Difusión e implementación de la política de formación integral, entendida como el conjunto de orientaciones y estrategias que apuntan al desarrollo personal y social de los estudiantes, concordada con todo el sistema educativo. Para esto se llevarán a cabo un conjunto de acciones destinadas a consensuar y articular la demanda de formación integral a nivel de sistema educativo. La implementación de esta línea de acción comprenderá las siguientes actividades:
+a.- Elaboración e implementación de estrategias que apunten al desarrollo personal y social de los estudiantes.
 
-1. La promoción, difusión y sensibilización en torno a contenidos y prácticas de la transversalidad educativa.
+Para esto se llevarán a cabo un conjunto de actividades y acciones destinadas a realizar la formación integral de los estudiantes a nivel del sistema educativo. La implementación de esta línea de acción comprenderá las siguientes actividades:
 
-2. La elaboración, diseño, impresión y adquisición del material de apoyo para la implementación de la Política de Formación Integral.
+1. La promoción y comunicación de contenidos y prácticas de la transversalidad educativa a los establecimientos educacionales.
 
-3. La generación de orientaciones destinadas a apoyar, desarrollar e implementar la educación medio ambiental, la enseñanza de temáticas relacionadas con el desarrollo sustentable, la formación ciudadana, la participación de actores, la motricidad y la psicomotricidad en el sistema educativo, para contribuir a la formación integral de los estudiantes.
+2. La elaboración, diseño, adquisición, impresión, y distribución del material de apoyo para la implementación de la transversalidad educativa y políticas de formación integral, así como la realización de publicaciones y avisaje en torno a su contenido.
+
+3. La generación de orientaciones y acciones destinadas a apoyar, desarrollar y/o implementar la enseñanza de temáticas relacionadas con el desarrollo sustentable y el cuidado del medio ambiente, la formación y participación ciudadana, la educación en derechos humanos y la seguridad escolar, para contribuir a la formación integral de los estudiantes.
+
+4. La elaboración y difusión de orientaciones en educación sexual, afectividad y/o género, que sean apropiadas y pertinentes a la edad y grado de desarrollo de sus receptores, y acordes al proyecto educativo, convicciones y creencias sostenidas por los establecimientos, en conjunto con los centros de padres y apoderados.
 
 #### Artículo 4º
 
-Para la implementación de la línea de acción definida en el artículo precedente se podrán utilizar los recursos contemplados en la asignación presupuestaria en las siguientes acciones específicas:
+Para la implementación de la línea de acción definida en el artículo precedente se podrán utilizar los recursos contemplados en la asignación presupuestaria en el financiamiento de las siguientes acciones específicas:
 
-1. Jornadas con diversos actores del sistema educativo a lo largo del territorio nacional, para la sensibilización, difusión e implementación integral del currículo.
+1. Realización de jornadas, seminarios, coloquios, mesas redondas, y similares, con diversos actores del sistema educativo, sean instituciones públicas o privadas, a lo largo del territorio nacional.
 
-2. Reuniones de trabajo con instituciones, organismos públicos y privados que se relacionen con la Política de Formación Integral.
+2. Elaboración, diseño, adquisición e/o impresión de recursos educativos.
 
-3. Adquisición, elaboración, diseño e impresión de recursos educativos que permitan la implementación integral del currículo.
+3. Distribución, transporte, bodegaje y embalaje de recursos educativos.
 
-4. Distribuir, transportar, contratar bodegaje y embalaje de recursos educativos que permitan la implementación integral del currículo.
+4. Contratación de servicios de elaboración de estudios, sean con personas naturales y/o jurídicas, con el objeto de dar cumplimiento a la línea de acción definida en el artículo 3º.
 
-5. Contratar servicios para la elaboración de estudios a personas naturales y/o jurídicas, con el objeto de dar cumplimiento a la línea de acción definida en el artículo 3º.
+5. Contratación de servicios de asesorías, asistencia técnica y demás necesarios para el desarrollo y ejecución del Programa regulado por el presente reglamento.
 
-6. Contratar servicios de asesorías, asistencia técnica y servicios necesarios para el desarrollo y gestión del Programa.
+6. Contratación de servicios de difusión y/o divulgación de servicios, programas, productos, proyectos, campañas o beneficios, ante el público objetivo relativo a las actividades del artículo 3º, incluyendo avisaje o publicidad.
+
+7. La distribución de recursos mediante la realización de concursos, incentivando y premiando la innovación pedagógica escolar en temáticas de transversalidad educativa.
 
 #### Artículo 5º
 
@@ -54,7 +60,7 @@ El desarrollo de las actividades del Prograrna comprenderá todos aquellos actos
 
 #### Artículo 6º
 
-Los gastos que genere la implementación a que se refiere el presente decreto se imputarán a la Partida 09, Capítulo 01, Programa 03, Subtítulo 24, Ítem 03, Asignación 612, Glosa Nº 08, de la ley Nº 20.481, de Presupuestos del Sector Público para el año 2011.
+Los gastos que genere la implementación a que se refiere el presente decreto se imputarán a la Partida 09, Capítulo 01, Programa 03, Subtítulo 24, Ítem 03, Asignación 903, Glosa Nº 11 y 13, de la ley Nº 21.125, de Presupuestos del Sector Público para el año 2019.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Joaquín Lavín Infante, Ministro de Educación.
 
