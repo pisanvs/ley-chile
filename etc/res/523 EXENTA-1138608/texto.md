@@ -1,0 +1,5 @@
+ACLARA Y COMPLEMENTA RESOLUCIÓN NÚMERO 5, DE 1984, QUE FIJA LAS VÍAS DE ACCESO QUE SE INDICAN A LAS PLAYAS DE MAR EN LA PROVINCIA DE CARDENAL CARO
+
+Por resolución exenta N° 523, de 28 de octubre de 2019, de la Secretaría Regional Ministerial de Bienes Nacionales, Región del Libertador General Bernardo O'Higgins, se aclaró y complementó la resolución N° 5, de 1984, que fija las vías de acceso que se indican a las playas de mar en la provincia de Cardenal Caro. Esta resolución Aclara y Complementa el uso de las vías, agregando a su tránsito peatonal, el de ciclos y el de vehículos motorizados, según el decreto con fuerza de ley N° 1, de 2009, y la ley 18.280 sobre el tránsito. Como consecuencia, la mencionada resolución exenta forma parte integrante, de la plenamente vigente resolución N° 5 más arriba citada. El texto íntegro de la resolución que en este extracto se da a conocer, se publicará en los sitios de dominio electrónico, del Ministerio de Bienes Nacionales.-
+
+Christian Villegas Gárate, Secretario Regional Ministerial de Bienes Nacionales, Región del Libertador General Bernardo O'Higgins.
