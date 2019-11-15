@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1298 de 24 de octubre de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, Art. 15 inciso 2° y 22 N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote de terreno 166, Rol de avalúo 161-13, Comuna de Puchuncaví, superficie 1.220 m2., para la obra RELICITACIÓN CONCESIÓN CAMINO NOGALES – PUCHUNCAVÍ SECTOR: SECTOR 1 (RUTA F-20) SUBSECTOR: PLAZA PEAJE - FIN CUESTA, TRAMO: KM. 6.500,00 AL KM. 19.000,00, COMUNA DE PUCHUNCAVI, PROVINCIA DE VALPARAISO, REGIÓN DE VALPARAISO. La comisión de peritos, integrada por MAXIMILIANO CORTÉS CAIOZZI, PATRICIO DESIDERIO ARANDA RIVILLO y VALENTINA ANDREA CHACALTANA SIMS, fijó el valor de tasación con fecha 12 de marzo de 2019, acordándose la indemnización con sus propietarios ROSSANA DEL PILAR LANIO CISTERNAS Y OTROS, en la cantidad de $5.287.013.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscalía MOP.
