@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1282, de 24 de octubre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs 39 y 41, para la obra: MEJORAMIENTO CAMINO BASICO INTERMEDIO H-721, I-111 PELEQUEN-POLONIA, que figura a nombre de OLGUIN CUEVAS ERNESTO PATRICIO y MANRIQUEZ CONTRERAS JUAN SEGUNDO, roles de avalúo 249-13 y 249-1, Comuna de SAN FERNANDO, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 52 y 45 m2 respectivamente. La Comisión de Peritos integrada por ANDRES RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRIQUEZ y MARLENE TERESA RÍOS MARCUELLO, mediante informe de tasación de 09 de febrero de 2017, fijó el monto de la indemnización provisional en la cantidad de $3.381.009 para el lote Nº39, y $2.134.940 para el lote Nº41. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
