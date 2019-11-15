@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.553 de fecha 06/11/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Inmueble consistente en sitio y casa habitación de dos pisos, ubicada en Avenida Huequén, denominada luego Dillman Bullock, y hoy Avenida O'Higgins número dos mil doscientos veintiuno. Con una cabida de veinticinco metros de frente por cien metros de fondo, de ciudad y comuna de Angol, provincia de Malleco, Novena Región de la Araucanía, Rol de avalúo 800-14, comuna de Angol. La superficie a expropiar aproximada es de 262,09 metros cuadrados, de aparente dominio de Tatiana del Carmen Serra Conus. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $73.556.476 según Informe N° 35-0 de fecha 25/10/2019, pagadero contado.-
+
+Director (S) Serviu, Región de la Araucanía.
