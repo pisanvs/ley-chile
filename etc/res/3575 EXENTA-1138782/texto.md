@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.575 de fecha 06/11/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote Uno A, resultante de la subdivisión del inmueble denominado Lote número Uno de la ciudad y comuna de Angol, provincia de Malleco, Novena Región, Rol de avalúo 1461-94, comuna de Angol. La superficie a expropiar aproximada es de 14,64 metros cuadrados, de aparente dominio de Raimundo Fara Nazal Nazal. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $4.108.767 según Informe N° 38-0 de fecha 25/10/2019, pagadero contado.-
+
+Director (S) Serviu, Región de la Araucanía.
