@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 229, de 23 de mayo de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Ilustre Municipalidad de Calbuco, RUT 69.220.600-2, concesión marítima menor, con vencimiento 31 de diciembre del año 2027, sobre un sector de Terreno de Playa, en el lugar denominado Sector de Pargua, comuna de Calbuco, Provincia de Llanquihue, Región de Los Lagos, con una superficie total de 4.156,8 m2, la que fue tramitada con el SIABC Nº 38.636. A modo referencial, se señala la(s) siguiente(s) coordenada(s) geográfica(s): 41º47'37,32"S - 73º27'44,35"W. El objeto consiste en permitir la habilitación y uso de un centro deportivo recreacional para la comunidad y el plazo contemplado para su ejecución es de 12 meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Calbuco.- El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Jonathan Dimter Muñoz, Capitán de Corbeta (LT), Capitán de Puerto de Calbuco.
