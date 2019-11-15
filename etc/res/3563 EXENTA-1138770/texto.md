@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3563 de fecha 06/11/2019, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de la Araucanía, ordenó la expropiación parcial del bien raíz denominado Avenida O'Higgins Nº1315, de la Ciudad de Angol, Rol de avalúo 1461-107, comuna de Angol. La superficie a expropiar aproximada es de 130,55 metros cuadrados, de aparente dominio de Rolando Lagos Araneda. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $36.639.314 según Informe Nº 51-0 de fecha 25/10/2019, pagadero Contado.
+
+Directo r(S) Serviu Región de La Araucanía.
