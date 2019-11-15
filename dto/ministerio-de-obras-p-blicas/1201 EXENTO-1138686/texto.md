@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1201, de 14 de octubre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 35, para la obra: REPOSICION PAVIMENTO RUTA 215-CH. SECTOR: LAS LUMAS - ENTRELAGOS, que figura a nombre de CARDENAS ARIAS MARCELO ISRAEL, rol de avalúo 2244-14, Comuna de PUYEHUE, REGION DE LOS LAGOS, superficie 197 m2. La Comisión de Peritos integrada por ENRIQUE EDGARDO HOELCK ALTMANN, NELSON BERNARDO TURRA TURRA y JUAN CELESTINO GIOVANNINI MANSILLA, mediante informe de tasación de 24 de marzo de 2016, fijó el monto de la indemnización provisional en la cantidad de $669.800 para el lote Nº35. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
