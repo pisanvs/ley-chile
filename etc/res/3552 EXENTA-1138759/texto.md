@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3552 de fecha 06/11/2019, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de La Araucanía, ordenó la expropiación parcial del bien raíz denominado Inmueble signado como Lote Dos del plano de loteo y subdivisión del inmueble ubicado en la Avenida Dillman Bullock sin número de esta ciudad, Rol de avalúo 1461-95, comuna de Angol. La superficie a expropiar aproximada es de 25,10 metros cuadrados, de aparente dominio Adriana Rosa Araneda Leyton. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $7.044.403 según Informe Nº 36-0 de fecha 25/10/2019, pagadero Contado.
+
+Director (S) Serviu Región de La Araucanía.
