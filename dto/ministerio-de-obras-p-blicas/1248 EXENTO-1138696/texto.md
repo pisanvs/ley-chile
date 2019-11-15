@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1248, de 24 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 94, 95, 97 y 102, para la obra: MEJORAMIENTO Y CONSTRUCCION CAMINO COSTERO NORTE SECTOR BOYERUCA CRUCE RUTA J-60, que figuran a nombre de AGRICOLA SAN JUAN DOS LIMITADA, rol de avalúo 150-2, Comuna de VICHUQUEN, REGION DEL MAULE, superficies 1.875, 2.315, 2.254 y 1.921 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $3.523.750 para el lote N°94, $4.124.390 para el lote N° 95, $2.732.324 para el lote N° 97, y $3.033.226 para el lote N° 102. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley N° 2.186, de 1978.
+
+.
