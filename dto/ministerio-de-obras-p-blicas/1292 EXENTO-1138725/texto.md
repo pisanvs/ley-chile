@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1292 de 24 de octubre de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, Art. 15 inciso 2° y 22 N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote de terreno 30, Rol de avalúo 503-11, Comuna de Talagante, superficie 538 m2., para la obra AUTOPISTA SANTIAGO - SAN ANTONIO SECTOR: TERCERAS PISTAS SANTIAGO – TALAGANTE TRAMO: KM. 19.300,00 A KM. 39.100,00, COMUNA DE TALAGANTE, PROVINCIA DE TALAGANTE, REGIÓN METROPOLITANA DE SANTIAGO. La comisión de peritos, integrada por CLAUDIA EUGENIA MARZULLO GARCIA, ALFONSO ANDRÉS SANTINI RIVERA y RAYEN ALEJANDRA GUZMAN THEODULOZ, fijó el valor de tasación con fecha 03 de septiembre de 2018, acordándose la indemnización con sus propietarios MÓNICA MAGDALENA MARIN MORALES Y OTRO, en la cantidad de $10.348.253.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscalía MOP.
