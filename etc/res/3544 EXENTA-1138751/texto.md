@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.544 de fecha 06/11/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dilman Bullock, Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Avenida Dillman Bullock, Lote N°1, de la ciudad de Angol, Rol de avalúo 324-80, comuna de Angol. La superficie a expropiar aproximada es de 131,83 metros cuadrados, de aparente dominio Sucesión quedada al fallecimiento de don Segundo López Huenchunao y de doña Marta del Carmen Monsálvez Bravo, formada por sus hijas Marta Deyanira Loyda y Rayen Millaray, ambas de apellidos López Monsálvez. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $36.998.551 según Informe N° 47-0 de fecha 25/10/2019, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
