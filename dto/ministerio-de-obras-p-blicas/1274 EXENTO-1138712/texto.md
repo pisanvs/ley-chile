@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1274, de 24 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 126 y 131-A, para la obra: MEJORAMIENTO RUTA K-275, SECTOR LAS TRANCAS-PARQUE INGLES, que figuran a nombre de LUTHI DE VINCENTI HUGO WILLY, rol de avalúo 27-21, Comuna de RIO CLARO, REGION DEL MAULE, superficies 95 y 94 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 09 de diciembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $541.700 para el lote N° 126, y $502.840 para el lote N° 131-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley N° 2.186, de 1978.
+
+.
