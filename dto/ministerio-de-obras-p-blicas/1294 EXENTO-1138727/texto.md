@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1294 de 24 de octubre de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, Art. 15 inciso 2° y 22 N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropió el lote de terreno 4, Rol de avalúo 539-45, Comuna de Linares, superficie 129 m2., para la obra CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: TALCA – CHILLÁN SECTOR: PASARELA PEATONAL Y PARADEROS CAMINO REAL KM. 300.000,00 AL KM. 300.700,00, COMUNA DE LINARES, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por JESSICA PAOLA CORTÉS RODRÍGUEZ, MARLENE TERESA RIOS MARCUELLO y VIVIANA ANGELICA FUENTES CATALAN, fijó el valor de tasación con fecha 02 de octubre de 2018, acordándose la indemnización con su propietario HERNAN GUILLERMO ARÍS ROJAS, en la cantidad de $4.441.305.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscalía MOP.
