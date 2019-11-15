@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 3.020 de fecha 22 de octubre de 2019 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Pdte. Ibáñez 1190, Rol N° 311-15 comuna Linares, superficie 37,01 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Freire Valdés Renán Antonio Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil y Pedro Pablo Cruz Weston, Arquitecto; según informe de tasación evacuado con fecha 10 de julio de 2019, fijó monto provisional indemnización en $14.852.000.- monto que conforme a lo dispuesto en el artículo 5° del DL 2.186 de 1978 fue reajustado a la suma de $14.911.410.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
