@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.573 de fecha 06/11/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote 15-0 consistente en Avenida Huequen N° 2179, comuna de Angol, Rol de avalúo 800-024, comuna de Angol. La superficie a expropiar aproximada es de 148,71 metros cuadrados, de aparente dominio de Flor María Morales Medina. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $54.072.057, según Informe N° 15-0 de fecha 25/10/2019, pagadero contado.-
+
+Director (S) Serviu, Región de la Araucanía.
