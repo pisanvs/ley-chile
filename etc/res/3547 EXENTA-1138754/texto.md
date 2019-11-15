@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.547 de fecha 06/11/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Casa y sitio ubicado en Avenida Huequen de la comuna de Angol, Provincia de Malleco, Novena Región, Rol de avalúo 800-9, comuna de Angol. La superficie a expropiar aproximada es de 191,71 metros cuadrados, de aparente dominio de Nicolás Feliciano Villalobos Urra. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $53.804.082 según Informe N° 43-0 de fecha 25/10/219, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
