@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1.297 de 24 de octubre de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, Art. 15 inciso 2° y 22 N° 1 del Decreto N° 900 de 31 de octubre de 1996, se expropiaron los lotes de terreno 4 y 5, Rol de avalúo 85-29, Comuna de Villa Alegre, superficies 69 y 104 m2. respectivamente, para la obra CONCESIÓN INTERNACIONAL RUTA 5 TRAMO: TALCA – CHILLÁN SECTOR: PASARELA PEATONAL Y PARADEROS PUTAGAN SUR KM. 292.300,00 AL KM. 292.900,00, COMUNA DE VILLA ALEGRE, PROVINCIA DE LINARES, REGIÓN DEL MAULE. La comisión de peritos, integrada por JESSICA PAOLA CORTÉS RODRÍGUEZ, MARLENE TERESA RIOS MARCUELLO y VIVIANA ANGÉLICA FUENTES CATALÁN, fijó el valor de tasación con fecha 16 de noviembre de 2018, acordándose la indemnización con su propietaria MARIA MAGDALENA GALAZ ROJAS, en la cantidad de $2.847.953.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscalía MOP.
