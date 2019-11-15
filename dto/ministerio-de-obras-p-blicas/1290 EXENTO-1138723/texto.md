@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1.290 de 24 de octubre de 2019, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno 2-A, Rol de avalúo 484-60, Comuna de Loncoche, superficie 611 m2., para la obra SISTEMA DE AGUA POTABLE RURAL SAN RAMÓN, COMUNA DE LONCOCHE, PROVINCIA DE CAUTÍN, REGION DE LA ARAUCANIA. La comisión de peritos, integrada por MARÍA SOLEDAD NUÑEZ ARROYO, YASCHALA MARIBEL YAÑEZ RIFFO y FERNANDO LUIS CONTRERAS HENNINGS, fijó el valor de tasación con fecha 26 de septiembre de 2018, acordándose la indemnización con su propietario ENRIQUE HUICHICOI COLIMAN, en la cantidad de $7.208.486.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2.186, de 1978.
+
+Fiscalía MOP.
