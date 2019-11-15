@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1133 de 14 de octubre de 2019, se modificó el Decreto Exento MOP Nº 4791 de 31 de octubre de 2000, de la obra ALCANTARILLADO DE TALCAHUANO POBLACIÓN LAS CANCHAS, COMUNA DE TALCAHUANO, REGIÓN DEL BIOBÍO, en el sentido de señalar que se aprueba la modificación efectuada a los planos y cuadro de expropiación y el numeral segundo del Decreto Nº1133 de 14 de octubre de 2019, en lo que respecta al nombre del propietario y rol de avalúo del lote Nº 1, quedando como CIFUENTES GALLARDO MARIA EUGENIA, Rol de Avalúo 1423-18 de la comuna de Talcahuano. En todo lo no modificado se mantiene plenamente vigente el Decreto Exento MOP Nº 4791 de 31 de octubre de 2000.
