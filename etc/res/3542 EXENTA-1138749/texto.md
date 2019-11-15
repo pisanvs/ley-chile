@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3542 de fecha 06/11/2019, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de La Araucanía, ordenó la expropiación parcial del bien raíz denominado Avenida Dillman Bullock Nº 1101 de la Ciudad de Angol, Rol de avalúo 324-82, comuna de Angol. La superficie a expropiar aproximada es de 340,20 metros cuadrados, de aparente dominio de Sociedad Comercial Biobío Autos Limitada. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $95.478.321 según Informe Nº 49-0 de fecha 25/10/2019, pagadero contado.
+
+Director(S) Serviu Región de La Araucana.
