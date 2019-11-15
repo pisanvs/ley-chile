@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por decreto MOP (exento) N° 1279, de 24 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropiaron los lotes de terreno N°s. 29 y 35, para la obra: MEJORAMIENTO CAMINO BÁSICO INTERMEDIO H-721, I-111 PELEQUÉN-POLONIA, que figura a nombre de VARGAS DÍAZ RAFAEL LUIS y OLGUÍN CANTILLANA CARMEN GLORIA, roles de avalúo 277-170 y 277-327, Comuna de SAN FERNANDO, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 170 y 54 m2 respectivamente. La Comisión de Peritos integrada por ANDRES RAINER SCHULZ VILLANUEVA, ALEJANDRO GREGORIO PADILLA HENRÍQUEZ y MARLENE TERESA RÍOS MARCUELLO, mediante informe de tasación de 09 de febrero de 2017, fijó el monto de la indemnización provisional en la cantidad de $3.475.668 para el lote N° 29, y $1.233.894 para el lote N° 35. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
