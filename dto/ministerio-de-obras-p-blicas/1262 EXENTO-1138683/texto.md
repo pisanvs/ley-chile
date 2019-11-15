@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. N° 1262, de 24 de octubre de 2019, se modificó el numeral segundo del Decreto Exento MOP. N°339, de 22 de mayo de 2019, quedando de la siguiente forma: lotes N°s 11, 12, 13 y 15, ubicados en la comuna de Quillota, figuran a nombre de MAC KELLAR JARAQUEMADA RICARDO, SUC. PEDRO, SUC. MAC KELLER JARAQUEMADA PEDRO Y SUC. MAC KELLAR JARAQUEMADA PEDRO, según roles de avalúo 329-126, 329-125, 329-124 y 329-123, superficies 1.251 m2., 957 m2., 873 m2, y 994 m2.
