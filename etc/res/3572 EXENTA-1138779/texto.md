@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.572 de fecha 06/11/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del Lote 17-0 consistente en la propiedad ubicada en Pablo Neruda N° 2135, comuna de Angol, Rol de avalúo 800-26, comuna de Angol. La superficie a expropiar aproximada es de 153,83 metros cuadrados, de aparente dominio de Ghissela Mónica María Jara Leonelli. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $55.961.348, según Informe N° 17-0 de fecha 25/10/2019, pagadero contado.-
+
+Director (S) Serviu, Región de la Araucanía.
