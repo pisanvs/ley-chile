@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.019 de fecha 22 de octubre de 2019 de Serviu Región del Maule, ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en Avda. Pdte. Ibáñez 1194, Rol Nº 311-16 comuna Linares, superficie 49,85 metros cuadrados de terreno, deslindes según plano expropiaciones, propietario aparente Novoa Alarcón Héctor y otros Comisión integrada por peritos Patricio Ulises Durán Marcos, Arquitecto; Rodrigo Antonio Silva Lazo, Constructor Civil y Pedro Pablo Cruz Weston, Arquitecto; según informe de tasación evacuado con fecha 10 de julio de 2019, fijó monto provisional indemnización en $17.440.000.- monto que conforme a lo dispuesto en el artículo 5° del DL 2.186 de 1978 fue reajustado a la suma de $17.509.760.- pagados al contado.-
+
+Claudio Daneck Muñoz, Director (S) Serviu Región del Maule.
