@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1.267, de 24 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105° del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N°206 de 1960, se expropió el lote de terreno N° 45, para la obra: CONSTRUCCION MEJOR. RUTA 201-CH SECTOR: COÑARIPE - PELLAIFA, que figura a nombre de HONEYMAN PALACIOS PHILIP HUGH WILLI, rol de avalúo 245-360, Comuna de PANGUIPULLI, REGION DE LOS RÍOS, superficie 146 m2. La Comisión de Peritos integrada por ANGELICA YANETT SEURA ROJAS, JUAN PABLO CONTRERAS MALLEA y OMAR IGNACIO GÓMEZ FIGUEROA, mediante informe de tasación de 20 de octubre de 2016, fijó el monto de la indemnización provisional en la cantidad de $1.553.000 para el lote N° 45. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley N° 2.186, de 1978.
+
+.
