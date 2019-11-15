@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.576 de fecha 06/11/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote B del resto de la parcela número 6 del ex fundo Los Rieles, en que se ha subdividido, Rol de avalúo 1461-102, comuna de Angol. La superficie a expropiar aproximada es de 160,80 metros cuadrados, de aparente dominio de Óscar Alberto Medina Marín. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $45.129.083 según Informe N° 44-0 de fecha 25/10/2019, pagadero Contado.
+
+Director(s) Serviu Región de la Araucanía.
