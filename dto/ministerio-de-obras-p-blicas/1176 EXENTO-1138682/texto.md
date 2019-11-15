@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP. N° 1176, de 14 de octubre de 2019, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°964, de 30 de agosto de 2018, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°33-D, expropiado con motivo de la obra: "Construcción By Pass Castro en Chiloé", Comuna de Castro, Región de Los Lagos. Consígnese judicialmente el monto provisional de la indemnización fijada mediante tasación de 03 de junio de 2016, complementada por acta de 09 de junio de 2017, ascendente a la cantidad de $2.705.679, para el lote N°33-D.
