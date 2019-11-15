@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución ex. Nº 3.546 de fecha 06/11/2019, conforme al artículo 51 ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Casa y Sitio ubicado Avenida Dillman Bullock, Quinta Los Pinos, de la Ciudad de Angol, Rol de avalúo 800-2, comuna de Angol. La superficie a expropiar aproximada es de 365,14 metros cuadrados, de aparente dominio de Irma Eliana Luna Jara. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $102.477.819 según Informe Nº 45-0 de fecha 25/10/2019, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
