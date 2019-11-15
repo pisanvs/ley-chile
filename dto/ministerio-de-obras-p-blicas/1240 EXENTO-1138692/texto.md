@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1240, de 24 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105, del DFL MOP N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N°206 de 1960, se expropió el lote de terreno N° 36, para la obra: MEJORAMIENTO CAMINO IGNAO-VIVANCO-TRAPI, que figura a nombre de SOCIEDAD AGRICOLA TRAPI LIMITADA, rol de avalúo 520-12, Comuna de RIO BUENO, REGION DE LOS RÍOS, superficie 139 m2. La Comisión de Peritos integrada por MARLENE TERESA RIOS MARCUELLO, CARMEN PILAR RIOS MARCUELLO y JUAN ANDRES TEPPER LAVANDEROS, mediante informe de tasación de 23 de mayo de 2018, fijó el monto de la indemnización provisional en la cantidad de $1.702.850 para el lote N° 36. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley N° 2.186, de 1978.
+
+.
