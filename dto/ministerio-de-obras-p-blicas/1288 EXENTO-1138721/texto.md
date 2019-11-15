@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1288, de 24 de octubre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº 2, para la obra "Construcción Hospital Bi Provincial Quillota Petorca", que figura a nombre de MUNOZ SEPULVEDA FRANCISCO JAVIER, rol de avalúo 328-10, Comuna de Quillota, Región de Valparaíso, superficie 466 m2. La Comisión de Peritos integrada por IRMA DIAZ RIVEROS, CLAUDIA ARELLANO GÓMEZ y MARÍA ISABEL RÍOS MARCUELLO, mediante informe de tasación de 03 de marzo de 2018, fijó el monto de la indemnización provisional en la cantidad de $134.711.200.- para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
