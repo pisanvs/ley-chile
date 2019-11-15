@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por Resolución Ex. Nº 3.548 de fecha 06/11/2019, conforme al artículo 51 ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote número Uno ubicado en Avenida Huequen, hoy Avenida Dillman Bullock de la ciudad de Angol, Rol de avalúo 800-10, comuna de Angol. La superficie a expropiar aproximada es de 181,46 metros cuadrados, de aparente dominio de María Luisa Jara Villalobos. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzun, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $50.927.384 según Informe Nº 42-0 de fecha 25/10/2019, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
