@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. Nº 3556 de fecha 06/11/2019, conforme al artículo 51 Ley 16.391, D.L. 2.186/1978 y D.S. 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de La Araucanía, ordenó la expropiación parcial del bien raíz denominado Inmueble ubicado en ex Parcela Santa Ida de la comuna de Angol, Provincia de Malleco, Novena Región, Rol de avalúo 1461-100, comuna de Angol. La superficie a expropiar aproximada es de 583,44 metros cuadrados, de aparente dominio de Víctor Joel Illanes Badilla. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $163.744.478 según Informe Nº 32-0 de fecha 25/10/2019, pagadero Contado.
+
+Director (S) Serviu Región de La Araucanía.
