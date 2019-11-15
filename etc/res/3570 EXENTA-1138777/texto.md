@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Ex. N° 3.570 de fecha 06/11/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Gestión Vial Avenida O'Higgins y Dillman Bullock, Angol", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Vivienda consistente en casa y sitio ubicada en Avenida Libertador Bernardo O'Higgins número dos mil veintiuno de esta ciudad, Rol de avalúo 800-12, comuna de Angol. La superficie a expropiar aproximada es de 192,11 metros cuadrados, de aparente dominio de Paula Raquel Cornejo Garrido. Comisión de Peritos integrada por don Arturo Osvaldo Cantos Oyarzún, don Mario Benjamín Gutiérrez Truan y doña Constanza Victoria Hilda Mihoevic González, fijó monto de Indemnización Provisional en $53.916.344 según Informe N° 39-0 de fecha 25/10/2019, pagadero Contado.-
+
+Director (S) Serviu Región de la Araucanía.
