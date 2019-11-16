@@ -36,7 +36,7 @@ Resolución:
 
 Primer cierre de Llamado 22 de Agosto del 2019
 
-Segundo cierre de Llamado 22 de noviembre de 2019
+Segundo cierre de Llamado 20 de diciembre del 2019
 
 2. Podrán participar familias residentes de localidades rurales o urbanas con menos de 5 mil habitantes, de acuerdo a los datos demográficos que consigna el Censo de Población y Vivienda del año 2002, y siempre que cuenten con asesoría otorgada por Entidades de Gestión Rural con Convenio Regional de Asistencia Técnica vigente. Para efectos del presente Llamado podrán presentar postulaciones de familias que residan en la Región de Ñuble las Entidades de Gestión Rural que tengan Convenio Marco Regional vigente con la Seremi de la Región del Biobío.
 
