@@ -1240,7 +1240,7 @@ Corresponderá a la autoridad sanitaria fiscalizar el funcionamiento de estos es
 
 Sólo en los establecimientos de óptica podrán fabricarse lentes con fuerza dióptrica de acuerdo con las prescripciones que se ordenen en la receta correspondiente.
 
-Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas emitidas por profesionales en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente. En ninguno de estos establecimientos estará permitida la instalación de consultas médicas o de tecnólogos médicos.
+Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas emitidas por profesionales en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente.
 
 Autorízase la fabricación, venta y entrega, sin receta, de lentes con fuerza dióptrica sólo esférica e igual en ambos ojos, sin rectificación de astigmatismo, destinados a corregir problemas de presbicia.
 
