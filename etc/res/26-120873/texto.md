@@ -30,6 +30,18 @@ Resolución:
 
 > **Nota.** NOTA 6 El artículo 1º del Decreto 4, M. de Santiago, publicado el 14.01.2014, introduce diversas modificaciones al Plan Regulador Comunal de Santiago, establecido en la presente norma y sus modificaciones posteriores, respecto a Sector Nº 5 Matta - Franklin, de la manera que la citada norma indica. Por restricciones técnicas no se ha podido construir, temporalmente, su texto actualizado.
 
+> **Nota.** NOTA 7 El numeral 3º del Decreto 138, Municipalidad de Santiago, publicado el 01.02.2016, introduce diversas modificaciones al Plan Regulador Comunal de Santiago, establecido en la presente norma y sus modificaciones posteriores, respecto a Sector 6 Club Hípico-Parque O'Higgins, de la manera que la citada norma indica. Por restricciones técnicas no se ha podido construir, temporalmente, su texto actualizado.
+
+> **Nota.** NOTA 8 El Artículo 1 del Decreto 4491, Municipalidad de Santiago, publicado el 31.05.2018, introduce diversas modificaciones al Plan Regulador Comunal de Santiago, establecido en la presente norma y sus modificaciones posteriores. Por restricciones técnicas no se ha podido construir, temporalmente, su texto actualizado.
+
+> **Nota.** NOTA 9 El Artículo 1 del Decreto 5952, Municipalidad de Santiago, publicado el 13.07.2018, introduce diversas modificaciones al Plan Regulador Comunal de Santiago, establecido en la presente norma y sus modificaciones posteriores. Por restricciones técnicas no se ha podido construir, temporalmente, su texto actualizado.
+
+> **Nota.** NOTA 10 El artículo 2° del Decreto 14529, M. de Pedro Cerda, publicado el 10.11.2018, modifica la presenten norma en el sentido de sustituir del cuadro "Estándares de Estacionamiento Vehicular" según Uso de Suelo, sustituyéndolo por el que la citada norma indica.
+
+> **Nota.** NOTA 11 El Decreto 5274, Municipalidad de Santiago, publicado el 12.06.2019, introduce diversas modificaciones al Plan Regulador Comunal de Santiago, establecido en la presente norma y sus modificaciones posteriores. Por restricciones técnicas no se ha podido construir, temporalmente, su texto actualizado.
+
+> **Nota.** NOTA 12 Los artículos 2°, 3° y 4° del Decreto 1335 Exento, M. de Cerrillos, publicado el 19.11.2019, introduce diversas modificaciones al Plan Regulador Comunal de Santiago, establecido en la presente norma y sus modificaciones posteriores. Por restricciones técnicas no se ha podido construir, temporalmente, su texto actualizado.
+
 #### Artículo 1°
 
 Apruébase el nuevo Plan Regulador Comunal de Santiago, en conformidad a lo indicado en la Memoria Explicativa, Ordenanza Local de Edificación, Estudio de Factibilidad de Servicios, y Plano P.R.S. 01 y Plano P.R.S.
@@ -770,7 +782,7 @@ En las zonas que se permita la construcción continua hasta una altura determina
 
 El Director de Obras podrá autorizar una variación de la altura de las edificaciones hasta en un 10% de la establecida por el Plan Regulador Comunal de Santiago, cuando sea necesario resolver problemas técnicos del proyecto.
 
-La altura total de las edificaciones aisladas, aisladas sobre continua y/o pareadas, estará limitada solamente por la aplicación de las rasantes a que se refiere el Artículo 2.6.3 de la Ordenanza General de Urbanismo y Construcciones. Las edificaciones continuas deberán cumplir con la altura establecida para cada zona, en esta Ordenanza. En pasajes existentes de un ancho inferior o igual a 8 m. entre líneas oficiales, se permitirá una altura máxima de continuidad de 7 m. En calles y pasajes existentes de un ancho inferior a 15 m., entre líneas oficiales, se permitirá una altura máxima de continuidad igual al ancho de la vía. Para las situaciones de predio en esquina, prevalecerá la altura máxima que establezca la calle o pasaje de mayor ancho.
+La altura total de las edificaciones aisladas, aisladas sobre continua y/o pareadas, estará limitada solamente por la aplicación de las rasantes a que se refiere el Artículo 2.6.3 de la Ordenanza General de Urbanismo y Construcciones. Las edificaciones continuas deberán cumplir con la altura establecida para cada zona, en esta Ordenanza. En pasajes existentes de un ancho inferior o igual a 8 m. entre líneas oficiales, se permitirá una altura máxima de continuidad de 7 m. En calles y pasajes existentes de un ancho inferior a 15 m., entre líneas oficiales, se permitirá una altura máxima de continuidad igual a 12 m. Para las situaciones de predio en esquina, prevalecerá la altura máxima que establezca la calle o pasaje de mayor ancho.
 
 Para los casos de calles y pasajes ya constituidos, la altura máxima de continuidad será la predominante.
 
@@ -1027,6 +1039,10 @@ VER DIARIO OFICIAL DE 30.01.2003, PAGINAS 21 - 25
 > **Nota.** NOTA 12 El 3.2 del numeral 3º del Decreto 3202, Municipalidad de Santiago, publicado el 30.10.2015, modifica el texto de la Ordenanza Local del Plan Regulador Comunal de Santiago, reemplazando la denominación "PRS - 02D" por "PRS - 02E"
 
 > **Nota.** NOTA 13 El 3.3.1, 3.3.2 del 3.3 del numeral 3º del Decreto 3202, Municipalidad de Santiago, publicado el 30.10.2015, modifica el cuadro de Monumentos Históricos y elimina en el listado de Inmuebles de Conservación Histórica las líneas 023 y 939.
+
+> **Nota.** NOTA 17 El Decreto 3344, de la Municipalidad de Santiago, publicado el 24.04.2018, modifica el listado de Inmuebles de Conservación Histórica, eliminando la línea 949.
+
+> **Nota.** NOTA 18 El Decreto 3345, de la Municipalidad de Santiago, publicado el 24.04.2018, modifica el listado de Inmuebles de Conservación Histórica, eliminando la línea 636.
 
 CAPITULO IV Zonificación, usos del suelo y normas especificas PARRAFO 1° Zonificación
 
