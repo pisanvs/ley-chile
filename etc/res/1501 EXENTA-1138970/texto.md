@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 1.501, de fecha 11 de febrero de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se modifica la resolución exenta Nº 1.259, de 11 de junio de 2009, que aprueba programa de enseñanza para obtención de licencia de conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Godoy Cordillera", representada por la propietaria la señora Marta de las Mercedes Carvacho Quintanilla, ubicada en Avenida Gabriela N° 1725, comuna de Puente Alto, en el sentido de autorizar una sede adicional ubicada en Avenida San Carlos N° 01813, casa 137, comuna de Puente Alto, cuyo director es don Eduardo Godoy Carvacho.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana de Santiago.
