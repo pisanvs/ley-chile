@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 543 EXENTA, DE 16 DE OCTUBRE DE 2019
+
+Mediante resolución exenta N° 543, de fecha 16 de octubre de 2019, de esta Secretaría Regional Ministerial, se modificó resoluciones exentas N° 534, 535, de 2004, y N° 25, de 2018, todas de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones Región del Maule, que aprobaron Planes y Programas y Otorgaron Reconocimiento Oficial a Escuela de Conductores Profesionales denominada "Palermo M&G Ltda.", de propiedad de la "Sociedad de Desarrollo Empresarial y Consultores de Estudio Limitada - Instituto de Capacitación Palermo M&G", RUT 77.502.970-6, para impartir cursos conducentes a la obtención de licencias de conductor clases A2, A3, A4 y A5, en el sentido autorizar su funcionamiento, en una sede adicional, en el domicilio ubicado en calle Antonio Varas N° 725, y su taller mecánico en Avenida Luis Manríquez N° 2488, respectivamente, ambas de la comuna de Cauquenes.-
+
+Carlos Palacios Maldonado, Secretario y Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
