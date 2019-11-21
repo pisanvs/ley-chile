@@ -984,11 +984,11 @@ La Comisión designará de entre los integrantes señalados en las letras a), b)
 
 La Comisión Nacional de Acreditación podrá funcionar en pleno o en salas. En este último caso, la primera sala estará integrada por dos de los comisionados a que se refiere la letra
 
-- **a)** y dos de la letra b), el comisionado de la letra c), y por uno de los representantes de los estudiantes a que se refiere la letra e). La segunda sala se integrará por los restantes comisionados. La sala en que no participe el Presidente de la Comisión será presidida por el Vicepresidente. Sin perjuicio de lo anterior, será la Comisión en pleno la que deberá adoptar acuerdos respecto de la acreditación institucional de las instituciones de educación superior y sobre las materias señaladas en las letras
+- **a)** y dos de la letra b), el comisionado de la letra c), y por uno de los representantes de los estudiantes a que se refiere la letra e). La segunda sala se integrará por los restantes comisionados. La sala en que no participe el Presidente de la Comisión será presidida por el Vicepresidente. Sin perjuicio de lo anterior, será la Comisión en pleno la que deberá adoptar acuerdos sobre las materias señaladas en las letras
 
 - **a)** y
 
-- **b)** del artículo 8. En contra de las decisiones que adopte cada una de las salas sólo se podrá interponer el recurso de reposición, sin perjuicio de la apelación regulada en la presente ley.
+- **b)** del artículo 8. No obstante lo señalado precedentemente, la acreditación de las carreras y programas de estudio de pre y postgrado que impartan la Instituciones de Educación Superior autónomas podrá ser resuelta en sala. En contra de las decisiones que adopte cada una de las salas sólo se podrá interponer el recurso de reposición, sin perjuicio de la apelación regulada en la presente ley.
 
 La Comisión, tanto para su funcionamiento en sala como en pleno, requerirá de la mayoría de sus integrantes para sesionar y sus acuerdos se adoptarán por mayoría absoluta de sus miembros en ejercicio. En caso de producirse un empate, corresponderá al Presidente o Vicepresidente, cuando corresponda, el voto dirimente para resolver la materia. La Comisión deberá celebrar, como mínimo, cuatro sesiones al mes. Con todo, los acuerdos relativos a los procesos de acreditación institucional deberán contar con los votos de al menos tres de los comisionados señalados en las letras
 
@@ -1412,7 +1412,9 @@ c) Reemplázase en el inciso final la frase: "de evaluación" por "y estándares
 
 #### Artículo 27 quáter
 
-La acreditación de las carreras y programas referidos en el artículo 27 será otorgada por la Comisión Nacional de Acreditación. Con todo, para efectos del financiamiento de dichas acreditaciones, se procederá de conformidad a lo dispuesto en el artículo 14.".
+La acreditación de las carreras y programas referidos en el artículo 27 será otorgada por la Comisión Nacional de Acreditación. Con todo, para efectos del financiamiento de dichas acreditaciones, se procederá de conformidad a lo dispuesto en el artículo 14.
+
+La decisión de acreditación adoptada por la Comisión Nacional de Acreditación será apelable ante el Consejo Nacional de Educación dentro del plazo de quince días hábiles, a contar de la fecha de la notificación de la decisión recurrida. El Consejo tendrá el plazo de treinta días hábiles para resolver. Lo anterior se entiende sin perjuicio de la interposición del recurso de reposición ante la misma Comisión.".
 
 35) Modifícase el artículo 27 quinquies en el siguiente sentido:
 
@@ -1451,6 +1453,8 @@ También podrán ser efectuadas por entidades evaluadoras de reconocido prestigi
 La Comisión asignará, según un procedimiento transparente y públicamente conocido, a los pares o entidades evaluadoras que realizarán la respectiva evaluación externa resguardando especialmente que no existan conflictos de intereses.
 
 Con todo, la decisión de acreditación de estas carreras será siempre adoptada por la Comisión, la cual deberá basarse en criterios y estándares específicos, que deberá dictar de conformidad a lo establecido en el artículo 18. Los aranceles que cobrará la Comisión por el desarrollo de estos procesos se regirán por el artículo 14.
+
+La decisión de acreditación adoptada por la Comisión Nacional de Acreditación será apelable ante el Consejo Nacional de Educación dentro del plazo de quince días hábiles, a contar de la fecha de la notificación de la decisión recurrida. El Consejo tendrá el plazo de treinta días hábiles para resolver. Lo anterior se entiende sin perjuicio de la interposición del recurso de reposición ante la misma Comisión.
 
 Un reglamento de la Comisión Nacional de Acreditación, previa consulta al Comité de Coordinación señalado en el artículo 3°, regulará lo establecido en el presente artículo, especialmente lo referido a la autorización y supervisión de las entidades evaluadoras y los mecanismos de resolución de conflictos de intereses.".
 
@@ -2234,15 +2238,19 @@ Artículo vigésimo.- El Comité de Coordinación a que se refiere el artículo 
 
 A más tardar dentro de seis meses de constituido el Comité, deberá establecerse el primer Plan de Coordinación para el Mejoramiento de la Calidad de la Educación Superior del que trata la letra d) del artículo 4 de la ley N° 20.129.
 
-Artículo vigésimo primero.- Los numerales 15, 16, 17, 18, 21, 23, 24 y 27 del artículo 81 de la presente ley, que modifica la ley N° 20.129 entrarán en vigencia a contar del 1 de enero del 2020.
+Artículo vigésimo primero.- Los numerales 15, en lo relativo a la obligatoriedad de la acreditación, 17, 21, 23, en cuanto a la acreditación basada en niveles, 24 y 27 del artículo 81 de esta ley, que modifica la ley Nº 20.129, entrarán en vigencia a contar del 1 de enero de 2020.
+
+Los numerales 15, en cuanto a la integralidad y muestra intencionada, 16 y 18 entrarán en vigencia junto con los nuevos criterios y estándares, según lo dispuesto en el inciso cuarto del artículo vigésimo segundo transitorio.
 
 Por su parte, las disposiciones del artículo 81 de la presente ley que modifican el capítulo III de la ley N° 20.129 entrarán en vigencia una vez que inicie su funcionamiento la Subsecretaría de Educación Superior de conformidad con el artículo sexto transitorio.
 
-Artículo vigésimo segundo.- La Comisión Nacional de Acreditación deberá elaborar una primera propuesta de los criterios y estándares de los que trata el nuevo artículo 18 de la ley N° 20.129 que se entregará al Comité Coordinador dentro del plazo de tres meses contado desde la fecha en que el Comité se haya constituido.
+Artículo vigésimo segundo.- La Comisión Nacional de Acreditación deberá elaborar una primera propuesta de los criterios y estándares de los que trata el nuevo artículo 18 de la ley N° 20.129 que se entregará al Comité Coordinador, para su opinión, dentro del plazo de tres meses contado desde la fecha en que el Comité se haya constituido.
 
 Para estos efectos, la Comisión Nacional de Acreditación deberá iniciar el proceso de consulta del que trata el inciso segundo del nuevo artículo 18 de la ley N° 20.129 dentro del plazo de ocho meses de publicada esta ley.
 
-Con todo, dichos criterios y estándares de calidad deberán estar aprobados y publicados antes del 1 de enero del año 2020.
+Con todo, dichos criterios y estándares de calidad deberán estar aprobados y publicados antes del 30 de septiembre del año 2020.
+
+Los nuevos criterios y estándares de calidad sólo serán aplicables a aquellos procesos de acreditación iniciados una vez trascurridos veinticuatro meses desde la fecha de su publicación. A los procesos iniciados con anterioridad se aplicarán las pautas y dimensiones de evaluación vigentes a la fecha de entrada en vigor de esta ley.
 
 Artículo vigésimo tercero.- La obligación de las instituciones de educación superior autónomas de estar acreditadas institucionalmente, de conformidad con lo establecido en el nuevo artículo 15 de la ley N° 20.129, entrará en vigencia a partir del 1 de enero del año 2020.
 
@@ -2250,7 +2258,7 @@ Con todo, a aquellas instituciones de educación superior autónomas que no se e
 
 Las acreditaciones institucionales otorgadas por la Comisión Nacional de Acreditación con anterioridad al 1 de enero de 2020 mantendrán su vigencia por el plazo que fueron otorgadas y se entenderá, para todos los efectos legales, que dan cumplimiento a la obligación establecida en el inciso primero de este artículo.
 
-Artículo vigésimo cuarto.- La obligación de acreditar las carreras y programas de estudio conducentes al título profesional de médico cirujano y cirujano dentista, de conformidad con el numeral 31 del artículo 81 de esta ley, entrará en vigencia a partir del 1 de enero del año 2020.
+Artículo vigésimo cuarto.- La obligación de acreditar las carreras y programas de estudio conducentes al título profesional de médico cirujano y cirujano dentista y los programas de doctorado, de conformidad con los numerales 31 y 41 del artículo 81 de esta ley, respectivamente, entrará en vigencia a partir del 1 de enero del año 2020.
 
 Con todo, a aquellas carreras y programas que no se encontraren acreditados al 1 de enero del año 2020, no les será aplicable lo dispuesto en el nuevo artículo 27 quinquies de la ley N° 20.129 sino hasta la dictación de la resolución final que pone término al proceso de acreditación de dichas carreras y programas, de conformidad con lo dispuesto en el artículo vigésimo séptimo transitorio.
 
@@ -2258,7 +2266,7 @@ Aquellas carreras y programas de estudio a los que la Comisión Nacional de Acre
 
 Artículo vigésimo quinto.- Aquellas instituciones de educación superior no acreditadas a la fecha de publicación de la presente ley podrán iniciar procesos de acreditación institucional ante la Comisión Nacional de Acreditación sólo hasta el 31 de mayo de 2019. Por su parte, aquellas instituciones cuyas acreditaciones institucionales vencieren durante los años 2018 y 2019 podrán iniciar sus procedimientos de acreditación de conformidad con la normativa vigente.
 
-Asimismo, aquellas instituciones de educación superior que dicten carreras y programas de estudio conducentes al título profesional de médico cirujano y cirujano dentista no acreditadas a la fecha de publicación de la presente ley podrán iniciar sus procesos de acreditación ante la Comisión Nacional de Acreditación sólo hasta el 31 de mayo de 2019.
+Asimismo, aquellas instituciones de educación superior que dicten carreras y programas de estudio conducentes al título profesional de médico cirujano y cirujano dentista así como también programas de doctorado, no acreditadas a la fecha de publicación de la presente ley podrán iniciar sus procesos de acreditación ante la Comisión Nacional de Acreditación sólo hasta el 31 de mayo de 2019.
 
 Artículo vigésimo sexto.- La Comisión Nacional de Acreditación deberá notificar antes del 15 de enero de 2020 a aquellas instituciones de educación superior autónomas, cuyas acreditaciones institucionales vencieren durante dicho año, la fecha de inicio de sus respectivos procesos de acreditación institucional.
 
@@ -2266,7 +2274,7 @@ Asimismo, la Comisión notificará a aquellas universidades que impartan carrera
 
 Con todo, las acreditaciones institucionales y de carreras y programas de acreditación obligatoria que vencieren durante el año 2020 se entenderán, para todos los efectos legales, vigentes hasta la dictación de la resolución final que ponga término al proceso de acreditación institucional conforme al presente artículo.
 
-Artículo vigésimo séptimo.- Aquellas instituciones de educación superior autónomas y las carreras y programas de estudio conducentes al título profesional de médico cirujano y cirujano dentista no acreditadas o que no hubieren iniciado un proceso de acreditación con anterioridad al 31 de mayo del año 2019, se sujetarán a las siguientes reglas para el inicio de sus procesos de acreditación obligatoria:
+Artículo vigésimo séptimo.- Aquellas instituciones de educación superior autónomas y las carreras y programas de estudio conducentes al título profesional de médico cirujano y cirujano dentista así como también programas de doctorado, no acreditadas o que no hubieren iniciado un proceso de acreditación con anterioridad al 31 de mayo del año 2019, se sujetarán a las siguientes reglas para el inicio de sus procesos de acreditación obligatoria:
 
 1) La Comisión Nacional de Acreditación establecerá, a más tardar en el mes de junio de 2019, mediante un sistema aleatorio, las fechas de inicio de los procesos de acreditación.
 
@@ -2279,6 +2287,16 @@ Artículo vigésimo noveno.- En los procedimientos de acreditación instituciona
 Sin perjuicio de lo anterior, en todos los procesos de acreditación deberá evaluarse el cumplimiento de los criterios y estándares correspondientes a todas y cada una de las dimensiones señaladas en el inciso tercero del nuevo artículo 17 de la ley N° 20.129.
 
 Artículo trigésimo.- El nuevo artículo 30 de la ley N° 20.129, incorporado por el numeral 38) del artículo 81, entrará en vigencia a partir del 31 de diciembre de 2024.
+
+Artículo trigésimo bis.- Las carreras y programas de pregrado y los programas de postgrado correspondientes a magíster, especialidades médicas y odontológicas y otros niveles equivalentes que obedezcan a otra denominación, respecto de las cuales, a la fecha de entrada en vigencia de esta ley, las instituciones de Educación Superior ya hubiesen celebrado con las agencias acreditadoras los correspondientes contratos para efecto de los procesos de acreditación, y éstos hubiesen sido informados oportunamente por las respectivas agencias a la Comisión Nacional de Acreditación en virtud del mecanismo de supervisión correspondiente, continuarán con dicho proceso ante las agencias acreditadoras, hasta su término, el cual no podrá exceder del 31 de diciembre de 2019. Las decisiones de acreditación adoptadas en estos procesos mantendrán su vigencia por el plazo que sean otorgadas.
+
+Para los efectos señalados en el inciso anterior, hasta que concluyan estos procesos, la Comisión Nacional de Acreditación mantendrá sus facultades de supervisión sobre las agencias acreditadoras y éstas deberán cumplir sus obligaciones de conformidad a las normas vigentes al momento de su contratación.
+
+Artículo trigésimo ter.- Las instituciones de educación superior podrán apelar de las decisiones adoptadas por la Comisión Nacional de Acreditación o por una agencia acreditadora, según sea el caso, en los procesos de acreditación institucional y de carreras y programas de estudio de pregrado y postgrado, que se encontraban en curso a la fecha de entrada en vigencia de esta ley.
+
+Las decisiones de acreditación adoptadas por las agencias acreditadoras serán apelables ante la Comisión Nacional de Acreditación dentro del plazo de treinta días contado desde la fecha de comunicación de la decisión de acreditación recurrida. La Comisión se pronunciará, por resolución fundada, dentro del plazo de treinta días contado desde la fecha de presentación del recurso.
+
+Las decisiones de acreditación adoptadas por la Comisión Nacional de Acreditación serán apelables ante el Consejo Nacional de Educación dentro del plazo de quince días hábiles, a contar de la fecha de notificación de la decisión recurrida. El Consejo tendrá el plazo de treinta días hábiles para resolver. Lo anterior se entiende sin perjuicio de la interposición del recurso de reposición ante la misma Comisión.
 
 Artículo trigésimo primero.- Se entenderá que la Universidad de Aysén y la Universidad de O'Higgins, creadas mediante la ley N° 20.842, así como también los centros de formación técnica estatales creados mediante la ley N° 20.910, cumplen con la obligación señalada en el inciso primero del artículo 15 de la ley N° 20.129, incorporada por el numeral 15 del artículo 81 de esta ley, mientras den cumplimiento a lo dispuesto en el artículo cuarto transitorio de la ley N° 20.842, y el artículo tercero transitorio de la ley N° 20.910. Vencidos tales plazos, dichas instituciones deberán acreditarse de conformidad a lo dispuesto en la ley N° 20.129.
 

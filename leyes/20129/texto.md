@@ -126,11 +126,11 @@ La Comisión designará de entre los integrantes señalados en las letras a), b)
 
 La Comisión Nacional de Acreditación podrá funcionar en pleno o en salas. En este último caso, la primera sala estará integrada por dos de los comisionados a que se refiere la letra
 
-- **a)** y dos de la letra b), el comisionado de la letra c), y por uno de los representantes de los estudiantes a que se refiere la letra e). La segunda sala se integrará por los restantes comisionados. La sala en que no participe el Presidente de la Comisión será presidida por el Vicepresidente. Sin perjuicio de lo anterior, será la Comisión en pleno la que deberá adoptar acuerdos respecto de la acreditación institucional de las instituciones de educación superior y sobre las materias señaladas en las letras
+- **a)** y dos de la letra b), el comisionado de la letra c), y por uno de los representantes de los estudiantes a que se refiere la letra e). La segunda sala se integrará por los restantes comisionados. La sala en que no participe el Presidente de la Comisión será presidida por el Vicepresidente. Sin perjuicio de lo anterior, será la Comisión en pleno la que deberá adoptar acuerdos sobre las materias señaladas en las letras
 
 - **a)** y
 
-- **b)** del artículo 8. En contra de las decisiones que adopte cada una de las salas sólo se podrá interponer el recurso de reposición, sin perjuicio de la apelación regulada en la presente ley.
+- **b)** del artículo 8. No obstante lo señalado precedentemente, la acreditación de las carreras y programas de estudio de pre y postgrado que impartan la Instituciones de Educación Superior autónomas podrá ser resuelta en sala. En contra de las decisiones que adopte cada una de las salas sólo se podrá interponer el recurso de reposición, sin perjuicio de la apelación regulada en la presente ley.
 
 La Comisión, tanto para su funcionamiento en sala como en pleno, requerirá de la mayoría de sus integrantes para sesionar y sus acuerdos se adoptarán por mayoría absoluta de sus miembros en ejercicio. En caso de producirse un empate, corresponderá al Presidente o Vicepresidente, cuando corresponda, el voto dirimente para resolver la materia. La Comisión deberá celebrar, como mínimo, cuatro sesiones al mes. Con todo, los acuerdos relativos a los procesos de acreditación institucional deberán contar con los votos de al menos tres de los comisionados señalados en las letras
 
@@ -147,6 +147,8 @@ Los integrantes de la Comisión tendrán derecho a gozar de una dieta por sesió
 A los integrantes de la Comisión, salvo el caso del Presidente, no les serán aplicables las normas de la ley N° 19.882, salvo en lo relativo a su nombramiento, de conformidad a lo señalado en los incisos anteriores.
 
 Los comisionados deberán declarar intereses y patrimonio conforme a lo establecido en el capítulo 1° del título II de la ley N° 20.880.
+
+> **Nota.** El Art. 28 de la Ley 21105, publicada el 13.08.2018, dispuso la modificación de la letra f) del presente artículo. Sin embargo, la referida letra f) no se encuentra en este texto, por cuanto fue reemplazado completamente por el N° 7 del Art. 81 de la Ley 21091, publicada el 29.05.2018. De modo que no se pudo hacer la actualización.
 
 #### Artículo 8
 
@@ -442,7 +444,7 @@ En todo caso, y sin perjuicio de lo señalado en el artículo 21, la institució
 
 #### Artículo 23
 
-La institución de educación superior afectada por las decisiones que la Comisión adopte en conformidad con lo establecido en los dos artículos precedentes, podrá apelar ante el Consejo Nacional de Educación, dentro del plazo de quince días hábiles, salvo que se trate de una institución que se encuentre en supervisión por el mismo. Lo anterior, no obstará a la interposición del correspondiente reclamo ante la misma Comisión.
+La institución de educación superior afectada por las decisiones que la Comisión adopte en conformidad con lo establecido en los dos artículos precedentes, podrá apelar ante el Consejo Nacional de Educación, dentro del plazo de treinta días hábiles a contar de la notificación de la resolución recurrida, salvo que se trate de una institución que se encuentre en supervisión por el mismo. Lo anterior, no obstará a la interposición del correspondiente reclamo ante la misma Comisión.
 
 Admitida la apelación a tramitación, el Consejo solicitará informe a la Comisión la que deberá evacuarlo en un plazo de 10 días hábiles.
 
@@ -525,6 +527,8 @@ Con el propósito de promover la calidad de los programas de prosecución de est
 #### Artículo 27 quáter
 
 La acreditación de las carreras y programas referidos en el artículo 27 será otorgada por la Comisión Nacional de Acreditación. Con todo, para efectos del financiamiento de dichas acreditaciones, se procederá de conformidad a lo dispuesto en el artículo 14.
+
+La decisión de acreditación adoptada por la Comisión Nacional de Acreditación será apelable ante el Consejo Nacional de Educación dentro del plazo de quince días hábiles, a contar de la fecha de la notificación de la decisión recurrida. El Consejo tendrá el plazo de treinta días hábiles para resolver. Lo anterior se entiende sin perjuicio de la interposición del recurso de reposición ante la misma Comisión.
 
 #### Artículo 27
 
@@ -642,7 +646,7 @@ La acreditación de programas de postgrado y especialidades en el área de la sa
 
 En el caso en que un programa de los referidos en el inciso anterior no cumpla íntegramente con los criterios y estándares de calidad, pero presente, a juicio de la Comisión, según sea el caso, un nivel de cumplimiento aceptable de los mismos, podrá acreditársele bajo condición de que dé cumplimiento a las observaciones que surjan del proceso, dentro de los plazos que la Comisión fije. Si el nivel de cumplimiento de los criterios de evaluación no es aceptable, la Comisión no acreditará el respectivo programa.
 
-La acreditación de programas de postgrado se extenderá por un plazo de hasta 10 años, según el grado de cumplimiento de los criterios y estándares de calidad. Las instituciones de educación superior podrán, en caso de rechazo de una solicitud de acreditación de un programa de postgrado, apelar ante el Consejo Nacional de Educación, dentro del plazo de quince días hábiles a contar de la fecha de la notificación de la decisión recurrida. El Consejo tendrá un plazo de 30 días hábiles para resolver. Lo anterior, será sin perjuicio de la interposición del recurso de reposición ante la misma Comisión.
+La acreditación de programas de postgrado se extenderá por un plazo de hasta 10 años, según el grado de cumplimiento de los criterios y estándares de calidad. Las instituciones de educación superior podrán, en caso de rechazo de una solicitud de acreditación de un programa de postgrado, apelar ante el Consejo Nacional de Educación, dentro del plazo de treinta días hábiles a contar de la fecha de la notificación de la decisión recurrida. El Consejo tendrá un plazo de 30 días hábiles para resolver. Lo anterior, será sin perjuicio de la interposición del recurso de reposición ante la misma Comisión.
 
 ## Título V
 
@@ -674,35 +678,33 @@ Del Sistema Nacional de Información de la Educación Superior
 
 #### Artículo 49
 
-Corresponderá al Ministerio de Educación, a través de su División de Educación Superior, desarrollar y mantener un Sistema Nacional de Información de la Educación Superior, que contenga los antecedentes necesarios para la adecuada aplicación de las políticas públicas destinadas al sector de educación superior, para la gestión institucional y para la información pública de manera de lograr una amplia y completa transparencia académica, administrativa y contable de las instituciones de educación superior.
+Corresponderá al Ministerio de Educación, a través de la Subsecretaría de Educación Superior, desarrollar y mantener un Sistema Nacional de Información de la Educación Superior, que contenga los antecedentes necesarios para la adecuada aplicación de las políticas públicas destinadas al sector de educación superior, para la gestión institucional y para la información pública de manera de lograr una amplia y completa transparencia académica, administrativa y contable de las instituciones de educación superior.
 
 #### Artículo 50
 
-Para estos efectos, las instituciones de educación superior deberán recoger y proporcionar a la División de Educación Superior el conjunto básico de información que ésta determine, la que considerará, a lo menos, datos estadísticos relativos a alumnos, docentes, recursos, infraestructura y resultados del proceso académico, así como la relativa a la naturaleza jurídica de la institución; a su situación patrimonial y financiera y al balance anual debidamente auditado, y a la individualización de sus socios y directivos.
+Para estos efectos, las instituciones de educación superior deberán recoger y proporcionar a la Subsecretaría de Educación Superior el conjunto básico de información que ésta determine, la que considerará, a lo menos, datos relativos a alumnos, docentes, recursos, infraestructura y resultados del proceso académico, así como la relativa a la naturaleza jurídica de la institución y a la individualización de sus socios y directivos. Asimismo, deberán informar la apertura de nuevas sedes, carreras y programas.
+
+Corresponderá a la Subsecretaría validar y procesar la información proporcionada por las instituciones, cuando corresponda, y distribuirla anualmente a los distintos usuarios, de acuerdo a los procedimientos establecidos en el reglamento.
 
 Un reglamento del Ministerio de Educación determinará la información específica que se requerirá, así como las especificaciones técnicas de la misma.
 
 #### Artículo 51
 
-Corresponderá a la División de Educación Superior recoger la información proporcionada por las instituciones, validarla, procesarla cuando corresponda, y distribuirla anualmente a los distintos usuarios, de acuerdo a los procedimientos establecidos en el reglamento.
+El Sistema de Información contendrá los datos que remita la Superintendencia de Educación Superior y la Comisión Nacional de Acreditación. Para estos efectos, la obligación de recoger la información proporcionada por las instituciones, validarla, procesarla e incorporarla al Sistema Nacional de Información de la Educación Superior corresponderá a la Superintendencia de Educación Superior y a la Comisión Nacional de Acreditación, respectivamente.
+
+La coordinación de los órganos en la incorporación de la información al Sistema Nacional de Información corresponderá a la Subsecretaría de Educación Superior.
 
 #### Artículo 52
 
-La no entrega de la información requerida, la entrega incompleta de dicha información o la inexactitud de la misma, serán sancionadas por el Ministerio de Educación con alguna de las siguientes medidas:
-
-a) Amonestación por escrito, y
-
-b) Multa a beneficio fiscal por un monto equivalente en moneda de curso legal, al momento del pago efectivo, de hasta 100 unidades tributarias mensuales. En caso de reincidencia, se podrá duplicar la multa.
+Derogado
 
 #### Artículo 53
 
-En forma previa a la aplicación de una sanción, se notificará al afectado de los cargos que se formulan en su contra, para que presente sus descargos al Ministerio de Educación dentro del plazo de diez días, contado desde la notificación de los cargos.
-
-Aplicada una multa ésta deberá ser pagada, en la Tesorería Regional del domicilio del sancionado, dentro del término de diez días contado desde la notificación de la resolución respectiva.
+Derogado.
 
 #### Artículo 54
 
-Las notificaciones se harán personalmente o por carta certificada enviada al domicilio legal de la respectiva institución de educación superior. Las notificaciones por carta certificada se entenderán practicadas al quinto día de aquel en que sean expedidas, lo que deberá constar en un libro que llevará el Ministerio de Educación.
+Derogado.
 
 CAPITULO FINAL
 
