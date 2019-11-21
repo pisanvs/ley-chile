@@ -2908,13 +2908,15 @@ Capitán de la Marina Mercante
 
 Nacional,
 
-b.- Tener, a lo menos, 2 años de
+b.- Tener a lo menos 2 años de
 
-mando efectivo de naves mayores de
+mando efectivo de naves, uno de los
 
-1.000 toneladas de registro grueso o
+cuales debe ser en naves mayores de
 
-de desplazamiento,
+1.000 toneladas de registro grueso
+
+o de desplazamiento,
 
 c.- Que su retiro no se haya
 
@@ -8485,6 +8487,8 @@ quiere haber sido clasificado en
 Lista 1 todo el tiempo en el grado
 
 de Suboficial.
+
+> **Nota.** Las letras a y b del numeral 2° del decreto 171, Defensa, publicado el 21.11.2019, modifica la presente norma en el sentido de agregar y suprimir respectivamente cambios en la presente norma.
 
 #### Artículo 256º
 
