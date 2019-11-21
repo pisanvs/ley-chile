@@ -172,6 +172,8 @@ La destrucción, sustracción o revelación indebida de los datos recopilados po
 
 El observador científico no tendrá bajo ningún respecto el carácter de inspector, fiscalizador, ministro de fe, certificador o verificador de capturas, quedando limitadas sus funciones a las expresadas en este numeral.
 
+26 ter) Permiso especial de colecta o permiso especial: acto administrativo por el cual se otorga el derecho de uso y goce de porciones de mar y fondo para la instalación de colectores de semillas conforme a las condiciones establecidas en esta ley y su reglamento. En todo lo que no esté regulado por esta ley y en lo que resulte compatible con este régimen de permisos especiales, se aplicará lo dispuesto en el decreto con fuerza de ley Nº 340, de 1960, del Ministerio de Hacienda, y su reglamento.
+
 27) Permiso extraordinario de pesca: es el acto administrativo mediante el cual la Subsecretaría a través del procedimiento establecido en esta ley faculta a las personas adjudicatarias de cuotas individuales de captura para realizar actividades pesqueras extractivas, por el tiempo de vigencia del permiso, en pesquerías declaradas en los regímenes de plena explotación, o en pesquerías en desarrollo incipiente o en pesquerías en recuperación.
 
 28) Pesca artesanal: actividad pesquera extractiva realizada por personas naturales que, en forma personal, directa y habitual, trabajan como pescadores artesanales inscritos en el Registro Pesquero Artesanal, con o sin el empleo de una embarcación artesanal.
@@ -340,6 +342,8 @@ biológicos de referencia la biomasa al nivel del máximo rendimiento sostenible
 
 nivel del máximo rendimiento sostenible, u otro que el Comité Científico Técnico defina.
 
+72) Mitilicultura: Actividad de cultivo, cría, extracción o recolección de semillas de moluscos del grupo mitílidos, para su explotación económica. Que cuenten con título y/o autorización para su extracción y comercialización. A las personas que realizan esta actividad se les denomina mitilicultores.
+
 > **Nota.** La ley 19713, publicada el 25.01.2001, intercaló en el presente artículo el Nº 14 bis "Descarte", a continuación del Nº 14, referido a la "Conservación". Con posterioridad, la ley 20434, publicada el 08.04.2010, dispuso la supresión del Nº 10, con lo que pasaron los numerales 11 a 51 a ser 10 a 50 respectivamente, sin disponer acerca de reenumerar el referido 14 bis. No obstante lo anterior, se ha ubicado el citado Número después del 14 a fin de mantener una numeración correlativa.
 
 ## Título II
@@ -447,6 +451,8 @@ D.- La Subsecretaría mediante resolución, previo informe técnico y consulta a
 Prohíbense las actividades pesqueras extractivas con artes, aparejos y otros implementos de pesca, que afecten el fondo marino, en el mar territorial dentro de una franja de una milla marina, medida desde las líneas de base desde el límite norte de la República hasta el paralelo 41° 28,6' de latitud sur; y en las aguas interiores, en la forma que determine el reglamento, con excepción de la franja de mar de una milla marina medida desde la línea de más baja marea de la costa continental y alrededor de las islas.
 
 Esta prohibición regirá también en las bahías y dentro de las áreas que se delimiten con líneas imaginarias entre puntos notables de la costa mediante decreto supremo expedido por intermedio del Ministerio y previo informe técnico de la Subsecretaría.
+
+La especie Dosidicus gigas o jibia sólo podrá ser extraída utilizando potera o línea de mano como aparejo de pesca. Se prohíbe cualquier otro tipo de arte o aparejo de pesca. Los armadores que infrinjan el presente artículo serán sancionados con multa de 500 unidades tributarias mensuales y el comiso de las especies hidrobiológicas y de los productos derivados de éstas.
 
 Asimismo, en virtud del principio precautorio, tratándose de montes submarinos, no se permitirá la pesca de fondo, a menos que exista una investigación científica realizada de acuerdo al protocolo y reglamento a que se refiere el artículo 6° B, que demuestre que la actividad de pesca no genera efectos adversos sobre los ecosistemas marinos vulnerables presentes en el área.
 
@@ -1912,61 +1918,35 @@ T.- En el caso que un titular de licencia transable de pesca ceda, total o parci
 
 ### Párrafo 5°
 
-DEL FONDO DE FOMENTO PARA LA PESCA ARTESANAL
+DEL FONDO DE FOMENTO PARA LA PESCA ARTESANAL Derogado.
 
-#### Artículo 56
+#### Artículo 56°
 
-Créase el Fondo de Fomento para la Pesca Artesanal dependiente del Ministerio, cuyo destino será el fomentar y promover los siguientes aspectos:
+Derogado.
 
-a) El desarrollo de la infraestructura para la pesca artesanal.
+#### Artículo 57°
 
-b) La capacitación y asistencia técnica de los pescadores artesanales y sus organizaciones.
+Derogado.
 
-c) El repoblamiento de los recursos hidrobiológicos mayoritariamente explotados por los pescadores artesanales y el cultivo artificial de ellos.
+#### Artículo 58°
 
-d) La comercialización de los productos pesqueros y la administración de los centros de producción.
+Derogado.
 
-#### Artículo 57
+#### Artículo 59°
 
-La Subsecretaría deberá consultar anualmente en su presupuesto, recursos para financiar el fomento de la Pesca Artesanal que posibilite el cumplimiento de los fines previstos en la presente ley.
+Derogado.
 
-#### Artículo 58
+#### Artículo 60°
 
-El Fondo de Fomento para la Pesca Artesanal estará constituido principalmente por los aportes que se consulten en el presupuesto de la Subsecretaría de Pesca, por otros aportes y por la recaudación del 50% de las multas provenientes de la contravención a la presente Ley.
+Derogado.
 
-#### Artículo 59
+#### Artículo 61°
 
-El Fondo de Fomento de la Pesca Artesanal será administrado por el Consejo de Fomento de la pesca artesanal; estará presidido por el Director Nacional del Servicio y funcionará en las dependencias de dicho Servicio.
+Derogado.
 
-Además, estará integrado por:
+#### Artículo 62°
 
-a) El Director Ejecutivo del Instituto de Fomento Pesquero;
-
-b) El Director Nacional de Obras Portuarias;
-
-c) Un representante del Ministerio de Planificación y Cooperación;
-
-d) Un representante de la Subsecretaría de Pesca, y
-
-e) Tres representantes de los pescadores artesanales, que representen a los pescadores artesanales propiamente tales, a los mariscadores y a los cultivadores y algueros. Estos representantes deberán provenir de las siguientes macrozonas pesqueras del país: de la I a la IV Región; de la V a la IX Región e Islas Oceánicas, y de la XIV, la X, la XI y la XII Región. Durarán en sus cargos dos años, no podrán ser nuevamente designados y quienes los reemplacen deberán provenir de una región distinta, dentro de la macrozona respectiva.
-
-El reglamento determinará las normas de funcionamiento interno del Consejo, las formas de designación de los Consejeros señalados en la letra e), así como también los requisitos que deberán reunir dichos Consejeros.
-
-> **Nota.** El Artículo 13 de la LEY 20174, publicada el 05.04.2007, dispuso que las modificaciones introducidas en el presente artículo rigen a contar de 180 días después de su publicación.
-
-#### Artículo 60
-
-La Subsecretaría solicitará anualmente a los pescadores artesanales, a través de los Consejos Zonales de Pesca, y a los organismos encargados de las obras de infraestructura para la pesca artesanal, las sugerencias que estimen pertinentes para la elaboración del programa anual de inversión en infraestructura para la pesca artesanal. Igualmente, requerirá de sugerencias e información respecto de necesidades de capacitación, asistencia técnica, repoblamiento y cultivo de los recursos hidrobiológicos y comercialización de productos pesqueros, a los organismos pertinentes. Una vez completado dicho trámite, la Subsecretaría pondrá el programa anual a disposición del Consejo de Fomento de la Pesca Artesanal para su aprobación y el establecimiento de las prioridades anuales correspondientes. El programa anual priorizado será enviado a los Consejos Nacional y Zonales de Pesca para que, si lo estimaran conveniente, hagan llegar sus sugerencias en un plazo no superior a 20 días al Consejo de Fomento de la Pesca Artesanal.
-
-#### Artículo 61
-
-El Consejo de Fomento de la Pesca Artesanal efectuará la asignación de proyectos y programas que contenga el programa anual, la que deberá efectuarse a través de concurso público, de acuerdo a las normas que se establezcan en el reglamento. El mecanismo de asignación de los proyectos deberá considerar una mayor ponderación a aquellas instituciones regionales que participen en los concursos que se realicen en su zona. Asimismo, el mecanismo de asignación de los proyectos deberá considerar, en el caso de proyectos que compitan en una misma categoría, una mayor ponderación para aquellos que contemplen un cofinanciamiento por parte de los pescadores artesanales u organización de pescadores artesanales que los presentan.
-
-El estado de avance y los resultados finales de cada uno de los proyectos y programas realizados serán enviados por el Fondo de Fomento de la Pesca Artesanal a la Subsecretaría, los que, en conjunto, darán destino final a las obras y proyectos y se encargarán de difundir los programas de capacitación y asistencia técnica impartidos, a través de las organizaciones de pescadores artesanales. Será también labor conjunta de ambos organismos, la difusión de los programas de repoblamiento y el cultivo de los recursos hidrobiológicos y comercialización de productos pesqueros financiados a través de este Fondo.
-
-#### Artículo 62
-
-Por intermedio de la Subsecretaría, los Consejos Nacional y Zonales de Pesca tomarán conocimiento del resultado de los proyectos y programas ejecutados y realizarán las observaciones que estimen pertinentes. Estos resultados estarán disponibles para los usuarios a través de los Consejos precitados.
+Derogado.
 
 ## Título V
 
@@ -1974,205 +1954,27 @@ DISPOSICIONES COMUNES
 
 #### Artículo 63
 
-Los armadores
+Los armadores pesqueros, industriales o artesanales deberán informar al Servicio, sus capturas y desembarques por cada una de las naves o embarcaciones que utilicen, de conformidad a las siguientes reglas:
 
-pesqueros, industriales o artesanales
+a) Las capturas se deberán registrar e informar en la bitácora de pesca que cada armador deberá llevar a bordo. En el caso de los armadores industriales dicha bitácora será electrónica y deberá tener la capacidad de informar las capturas lance a lance. Un reglamento determinará la
 
-deberán informar al Servicio, sus
+información que deberá contener la bitácora, la que al menos comprenderá la captura por lance de pesca u otra forma de conformidad con la operación pesquera, la fecha y ubicación del lance de pesca. El Servicio determinará la oportunidad y condiciones de la entrega de la información de captura.
 
-capturas y desembarques por cada
+b) Los desembarques se deberán informar, en las condiciones y oportunidad que determine el reglamento, al momento que éste se produzca o al tiempo que el Servicio determine, ya sea en Chile o en el extranjero.
 
-una de las naves o embarcaciones
+c) En caso que existan diferencias entre la información de captura y desembarque, el Servicio deberá establecer un procedimiento y criterios técnicos mediante los cuales se resolverán las diferencias de captura y desembarque, debiendo considerar lo establecido en el plan de reducción de descarte o fauna acompañante. Todo aquello que exceda conforme al procedimiento anterior, será imputado a la cuota global de captura o a las cuotas individuales o colectivas asignadas.
 
-que utilicen, de conformidad a las
+Las lanchas transportadoras deberán llevar a bordo una bitácora electrónica y dar cumplimiento a la obligación señalada en la letra b) del inciso anterior, de conformidad a las condiciones y oportunidad que señale el reglamento.
 
-siguientes reglas:
+La misma obligación de la letra b) deberán cumplir los recolectores de orilla, buzos, buzos apnea y organizaciones de pescadores artesanales asignatarias de áreas de manejo, en las condiciones y oportunidad que determine el reglamento.
 
-a) Las capturas se deberán
+Los titulares de Plantas de Proceso o de transformación y las personas que realicen actividades de comercialización de recursos hidrobiológicos, deberán informar al Servicio el abastecimiento de recursos hidrobiológicos y de los productos finales derivados de ellos, en las condiciones y oportunidad que determine el reglamento.
 
-registrar e informar en la bitácora
+Los que realicen cualquier tipo de actividad de acuicultura y a cualquier título, así como quienes realicen colecta de semillas en virtud de los artículos 75 quáter y 75 quinquies, deberán informar conforme al reglamento, sobre las estructuras utilizadas en el cultivo, el abastecimiento, existencia, cosecha, situación sanitaria, origen y destino de los ejemplares.
 
-de pesca que cada armador deberá
+Toda captura, desembarque, abastecimiento y comercialización de recursos hidrobiológicos, a que se refieren los incisos anteriores deberá tener origen legal, entendiendo por tal, aquellos capturados o adquiridos, procesados o comercializados cumpliendo con la normativa pesquera nacional y los tratados internacionales vigentes en Chile. El procedimiento, condiciones y requisitos de la acreditación del origen legal de los recursos hidrobiológicos, serán establecidos mediante resolución del Servicio.
 
-llevar a bordo. En el caso de los
-
-armadores industriales dicha
-
-bitácora será electrónica y deberá
-
-tener la capacidad de informar las
-
-capturas lance a lance. Un
-
-reglamento determinará la
-
-información que deberá contener la
-
-bitácora, la que al menos
-
-comprenderá la captura por lance de
-
-pesca u otra forma de conformidad
-
-con la operación pesquera, la fecha
-
-y ubicación del lance de pesca. El
-
-Servicio determinará la oportunidad
-
-y condiciones de la entrega de la
-
-información de captura.
-
-b) Los desembarques se deberán
-
-informar, en las condiciones y
-
-oportunidad que determine el
-
-reglamento, al momento que éste se
-
-produzca o al tiempo que el Servicio
-
-determine, ya sea en Chile o en el
-
-extranjero.
-
-c) En caso que existan
-
-diferencias entre la información de
-
-captura y desembarque, el Servicio
-
-deberá establecer un procedimiento
-
-y criterios técnicos mediante los
-
-cuales se resolverán las diferencias
-
-de captura y desembarque, debiendo
-
-considerar lo establecido en el plan
-
-de reducción de descarte o fauna
-
-acompañante. Todo aquello que exceda
-
-conforme al procedimiento anterior,
-
-será imputado a la cuota global de
-
-captura o a las cuotas individuales o
-
-colectivas asignadas.
-
-Las lanchas transportadoras deberán
-
-llevar a bordo una bitácora
-
-electrónica y dar cumplimiento a la
-
-obligación señalada en la letra b)
-
-del inciso anterior, de conformidad
-
-a las condiciones y oportunidad que
-
-señale el reglamento.
-
-La misma obligación de la letra
-
-b) deberán cumplir los recolectores de
-
-orilla, buzos, buzos apnea y
-
-organizaciones de pescadores
-
-artesanales asignatarias de áreas de
-
-manejo, en las condiciones y
-
-oportunidad que determine el
-
-reglamento.
-
-Los titulares de Plantas de
-
-Proceso o de transformación y las
-
-personas que realicen actividades de
-
-comercialización de recursos
-
-hidrobiológicos, deberán informar al
-
-Servicio el abastecimiento de
-
-recursos hidrobiológicos y de los
-
-productos finales derivados de ellos,
-
-en las condiciones y oportunidad que
-
-determine el reglamento.
-
-Los que realicen cualquier tipo
-
-de actividad de acuicultura y a
-
-cualquier título, deberán informar
-
-conforme al reglamento, sobre las
-
-estructuras utilizadas en el cultivo,
-
-el abastecimiento, existencia,
-
-cosecha, situación sanitaria, origen
-
-y destino de los ejemplares.
-
-Toda captura, desembarque,
-
-abastecimiento y
-
-comercialización de recursos
-
-hidrobiológicos, a que se refieren
-
-los incisos anteriores deberá tener
-
-origen legal, entendiendo por tal,
-
-aquellos capturados o adquiridos,
-
-procesados o comercializados
-
-cumpliendo con la normativa
-
-pesquera nacional y los tratados
-
-internacionales vigentes en Chile.
-
-El procedimiento, condiciones y
-
-requisitos de la acreditación del
-
-origen legal de los recursos
-
-hidrobiológicos, serán establecidos
-
-mediante resolución del Servicio.
-
-La entrega de la información
-
-que conforme a este artículo deba
-
-realizarse, se hará de manera
-
-simple, completa, fidedigna y
-
-oportuna.
+La entrega de la información que conforme a este artículo deba realizarse, se hará de manera simple, completa, fidedigna y oportuna.
 
 #### Artículo 63 bis
 
@@ -2484,7 +2286,7 @@ El concesionario o el titular de una autorización responderá preferentemente c
 
 #### Artículo 74
 
-La concesión o autorización de porciones de agua y fondo otorgará por sí sola a su titular, el privilegio de uso exclusivo del fondo correspondiente al área en él proyectada verticalmente por la superficie de la porción de agua concedida.
+La concesión o autorización de porciones de agua y fondo otorgará por sí sola a su titular, el privilegio de uso exclusivo del fondo correspondiente al área en él proyectada verticalmente por la superficie de la porción de agua concedida y se constituirá por el solo ministerio de la ley una servidumbre que sólo permitirá extender los elementos de flotación y soporte de las estructuras y su fijación.
 
 Los titulares de autorizaciones de acuicultura tendrán, para los efectos de constituir las servidumbres necesarias para el desarrollo de sus actividades, los mismos derechos que otorga el Código de Aguas, a los titulares de derechos de aprovechamiento.
 
@@ -2500,7 +2302,65 @@ Ninguna persona natural o jurídica, ni personas vinculadas a ella en los térmi
 
 #### Artículo 75 ter
 
-El reglamento establecerá el procedimiento y las condiciones para la instalación de colectores de captación de semillas fuera de las concesiones de acuicultura y de las áreas de manejo y explotación de recursos bentónicos. Además, determinará las limitaciones de área que podrán ser establecidas por solicitante en cada sector, conforme a las cuales se asegurará un adecuado aprovechamiento de los sectores disponibles.
+Los permisos especiales de colecta se otorgarán conforme al procedimiento establecido en los artículos 75 quáter y 75 quinquies, salvo en el caso de la Región de Los Lagos, en que no se otorgarán permisos especiales de colecta conforme a las disposiciones de esta ley.
+
+#### Artículo 75 quáter
+
+Cada cinco años la Subsecretaría realizará una propuesta de áreas que serán destinadas a colecta de semillas, conforme a los antecedentes técnicos que correspondan.
+
+Para la fijación de áreas de colecta se consultará previamente a la autoridad marítima, a través de la Subsecretaría para las Fuerzas Armadas, acerca de la posible interferencia de las mismas con la libre navegación, y en caso de existir una zonificación del borde costero del litoral vigente, se deberá dar cumplimiento a los usos previstos en ella. El reglamento podrá prever una distancia entre áreas de colecta. No podrán ser propuestas como áreas de colecta sectores ya otorgados en concesión marítima, de acuicultura, declarada área de manejo disponible, destinación marítima o sujeta a otro tipo de afectación territorial, con excepción de aquellas áreas de colecta que estén vigentes a la fecha de entrada en vigor de esta ley. Para tales efectos, previamente a la presentación de la propuesta de áreas de colecta a la Comisión Regional de Uso del Borde Costero, la Subsecretaría excluirá de ella toda afectación territorial vigente, para lo cual requerirá, cuando sea procedente, la información que corresponda a los órganos competentes.
+
+La propuesta de áreas de colecta se publicará en el Diario Oficial y en un diario de circulación regional. En el plazo de un mes contado desde la última publicación, cualquier persona podrá formular observaciones a la propuesta, las que deberán ser respondidas en el plazo de quince días hábiles, contado de conformidad con lo establecido en el artículo 25 de la ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado.
+
+La propuesta resultante de las etapas anteriores se consultará a la Comisión Regional de Uso del Borde Costero, la que tendrá el plazo de un mes, contado desde el requerimiento, para emitir su pronunciamiento, vencido el cual se entenderá aprobada.
+
+Vencido el plazo a que se refiere el inciso anterior, deberá remitirse el informe técnico con la propuesta de áreas de colecta a la Subsecretaría para las Fuerzas Armadas, la que declarará el establecimiento de las áreas de colecta y las otorgará en destinación a la Subsecretaría. La destinación tendrá un plazo de diez años y podrá ser renovada.
+
+La Subsecretaría anualmente fijará, al interior de las áreas de colecta, los polígonos que serán asignados en la forma, periodicidad y condiciones que fije el reglamento, incluida la cantidad máxima de colectores por superficie. En ningún caso los polígonos podrán exceder de 6 hectáreas en el caso de semillas de mitílidos, ni de 20 hectáreas en el caso de semillas de pectínidos.
+
+Excepcionalmente, por motivos fundados en antecedentes técnicos nuevos, la Subsecretaría podrá modificar las áreas de colecta fijadas conforme al procedimiento previsto en este artículo.
+
+#### Artículo 75
+
+quinquies.- Podrán solicitarse permisos especiales de colecta un mes después del llamado público que se realice a través de la publicación de los polígonos en el sitio web de la Subsecretaría y no se admitirá la presentación de solicitudes antes de dicho plazo.
+
+En caso de existir dos o más solicitudes, se preferirá la que obtenga el mayor puntaje de la suma de las ponderaciones asignadas, conforme a las reglas que a continuación se señalan:
+
+a) Cercanía al polígono solicitado, lo que se acreditará conforme al reglamento. Se entenderá por cercanía la proximidad de la residencia de la persona natural o de los integrantes de la persona jurídica u organización, cuando corresponda y la cantidad de tiempo acreditado en dicha residencia.
+
+b) Tener asignadas, en permiso especial, 6 o más hectáreas de superficie en el caso de la colecta de semillas de mitílidos o 20 o más hectáreas en el caso de los pectínidos, cualquiera sea el número de polígonos de que sea titular.
+
+c) Otros elementos que sean fijados por el reglamento atendidas las condiciones geográficas del área respectiva.
+
+La solicitud de permiso especial de colecta será presentada a la Subsecretaría, la que verificará las condiciones señaladas en el reglamento y determinará la asignación que proceda conforme al reglamento en el caso de que sobre un mismo polígono recaiga más de una solicitud. Cumplido ese trámite, otorgará por resolución el permiso especial de colecta y será inscrito por el Servicio en el Registro Nacional de Acuicultura.
+
+Si un solicitante ha tenido permisos especiales para colecta en los últimos cinco años y no hubiere hecho retiro de los colectores en el momento que correspondía hacerlo o ha instalado un número mayor de colectores autorizados, no podrá adjudicarse nuevos permisos especiales por un plazo de cinco años.
+
+El reglamento determinará:
+
+i. Las limitaciones en superficie o número máximo de polígonos al que podrá acceder cada solicitante por comuna y región. Dichas limitaciones se aplicarán respecto del solicitante y de las personas naturales y jurídicas vinculadas al mismo en los términos señalados en el artículo 81 bis. Para estos efectos, se considerará la superficie de que sea titular el solicitante y las personas vinculadas a él, en los términos señalados en el artículo 81 bis. Esta limitación no será aplicable a los pescadores artesanales inscritos en el Registro Pesquero Artesanal ni a las personas vinculadas a ellos, pero en este último caso sólo respecto del pescador artesanal.
+
+ii. Las ponderaciones de puntaje a que se refiere este artículo, debiendo considerar las condiciones geográficas del área respectiva, entre otros aspectos.
+
+#### Artículo 75
+
+sexies.- Los permisos especiales se otorgarán por el plazo de la destinación y serán renovables sólo si se ha dado cumplimiento a las condiciones de ejercicio de la actividad y a las obligaciones incluidas en el acto de otorgamiento, siempre que no haya reincidido en infracciones contra la normativa ambiental o sanitaria durante su vigencia. La renovación del permiso especial estará supeditada a la vigencia de la destinación de que trata el artículo 75 quáter.
+
+Los derechos que otorga el permiso especial de colecta no serán susceptibles de transferencia, arriendo, cesión, ni acto jurídico alguno que implique el ejercicio de la actividad por parte de terceros distintos del titular. Estos permisos serán transmisibles, para lo cual la sucesión, mediante mandatario común, deberá presentar a la Subsecretaría, dentro del plazo de dos años de ocurrido el fallecimiento del causante, copia autorizada de la inscripción de la posesión efectiva en el Servicio de Registro Civil e Identificación. La Subsecretaría deberá otorgar un nuevo permiso a favor de los herederos, por el tiempo de duración que le reste al permiso especial, sin perjuicio de que los herederos puedan optar a su renovación conforme a las reglas generales.
+
+A los permisos especiales de colecta les serán aplicables las normas sobre patente única de acuicultura previstas en el artículo 84.
+
+Los permisos especiales de colecta se otorgarán sobre los polígonos que se hayan determinado y habilitarán el ejercicio de dicha actividad sólo durante las temporadas fijadas por la Subsecretaría conforme al reglamento, el que considerará las características del grupo de especies de que se trate y las condiciones oceanográficas de los sectores en que se fijen los polígonos para la colecta. En ningún caso los permisos podrán autorizar el ejercicio ininterrumpido de la actividad ni la engorda de los ejemplares objeto de dicha autorización.
+
+Los colectores deberán ser retirados al término de cada temporada. En el evento de constatarse que no han sido retirados se dejará sin efecto el permiso especial previa audiencia del titular, quien sólo podrá invocar fuerza mayor o caso fortuito como causal que impidió el cumplimiento del deber de retiro, caso en el cual se podrá autorizar la ampliación del plazo de retiro de los colectores, conforme a lo establecido en el reglamento. También será dejado sin efecto el permiso especial si se constata la instalación de colectores excediendo el número máximo por superficie. Contra la resolución que deje sin efecto el permiso sólo procederán los recursos de reposición y jerárquico en subsidio, los que deberán ser deducidos en el plazo de diez días hábiles, de conformidad con la ley Nº 19.880, contado desde la fecha de la resolución impugnada.
+
+Sólo podrá ejercerse la actividad de colecta de semillas a través de los permisos especiales de que trata esta ley y se prohíbe su ejercicio mediante permisos de escasa importancia, sin perjuicio de la colecta que se realice en áreas de manejo, espacios costeros marinos de pueblos originarios y concesiones de acuicultura conforme a sus regímenes específicos.
+
+El polígono cuyo permiso especial haya sido dejado sin efecto será asignado a otro titular, de acuerdo al mismo procedimiento antes señalado, a menos que la Subsecretaría determine un polígono diferente.
+
+En los casos en que, por algún evento de carácter medioambiental, sanitario, fuerza mayor o caso fortuito conforme a lo que señale el reglamento de esta ley, no exista o se presente una baja sustantiva de disponibilidad de semillas en los sectores en que hayan sido otorgados permisos especiales de colecta, se podrá prever para una o más temporadas en que dicho supuesto se concrete, polígonos temporales de colecta que serán determinados por la Subsecretaría. Dichos polígonos sólo podrán corresponder en número y superficie al total de permisos especiales afectados por los eventos antes indicados. Estos polígonos temporales serán objeto de permisos de escasa importancia y beneficiarán sólo a los titulares de permisos especiales afectados por los eventos indicados. En tal caso, sólo deberá pagarse la patente que corresponde por permiso especial, eximiéndose de pagar el derecho exigible en virtud de las disposiciones sobre permisos de escasa importancia. Si la situación de inexistencia o baja sustantiva de disponibilidad de semillas se prolonga por cinco años, la Subsecretaría deberá proceder a una revisión de las áreas de colecta y de los polígonos de permisos especiales y podrá reemplazarlos conforme al procedimiento establecido en el artículo 75 quáter. Se asignarán los nuevos polígonos a quienes tengan permisos especiales vigentes en los sectores que han dejado de ser objeto de colecta de semillas declarados por la Subsecretaría.
+
+Si por algún evento de carácter medioambiental que afecte una o algunas áreas de colecta, los titulares de permisos especiales de colecta han visto retrasado el inicio de la temporada o se ven impedidos de retirar los colectores por disposición de la autoridad, la Subsecretaría de Pesca y Acuicultura podrá otorgar, de oficio, una ampliación de plazo para el retiro de colectores desde las áreas de colecta que se hayan visto afectadas por el mencionado evento.
 
 ### Párrafo 2°
 
@@ -2532,7 +2392,7 @@ INCISO TERCERO SUPRIMIDO.
 
 Recibida la solicitud por la Subsecretaría, deberá verificarse si ella da cumplimiento a lo establecido en los artículos 87 y 88 de la presente ley y si el área se sobrepone, en forma total o parcial a una o más concesiones o autorizaciones de acuicultura ya otorgadas o a las solicitudes en trámite presentadas con anterioridad. Asimismo, deberá verificarse si la solicitud cumple con los requisitos de distancia con concesiones de acuicultura o solicitudes en trámite establecidos en los reglamentos.
 
-Si el área solicitada ya estuviere concedida o se sobrepone con la de otra solicitud en trámite, o la solicitud no cumple con los requisitos de distancia con concesiones otorgadas o con tres solicitudes previas en trámite en el sector, la Subsecretaría devolverá al solicitante los antecedentes, dictando una resolución denegatoria fundada al efecto; en los demás casos, se procederá de acuerdo a lo establecido en el reglamento.
+Si el área solicitada ya estuviere concedida o se sobrepone con la de otra solicitud en trámite, o la solicitud no cumple con los requisitos de distancia con concesiones otorgadas o con una solicitud previa en trámite en el sector con informe cartográfico favorable, la Subsecretaría devolverá al solicitante los antecedentes, dictando una resolución denegatoria fundada al efecto; en los demás casos, se procederá de acuerdo a lo establecido en el reglamento.
 
 Se publicarán los extractos de las resoluciones denegatorias en el Diario Oficial.
 
@@ -4526,237 +4386,33 @@ Corresponderá a la Armada Nacional y a la Subsecretaría llevar una relación d
 
 #### Artículo 173
 
-Créase el Fondo de Administración Pesquero en el Ministerio de Economía, Fomento y Reconstrucción, destinado a financiar:
+El presupuesto de la Subsecretaría de Pesca y Acuicultura deberá consultar anualmente recursos para financiar:
 
-a)Proyectos de investigación
+a) Eliminada.
 
-pesquera y de acuicultura.
+b) Eliminada.
 
-b) Programas de vigilancia,
+c) Eliminada.
 
-fiscalización y administración de
+d) Programa de reinserción laboral para ex trabajadores de la industria pesquera que hayan perdido su trabajo como consecuencia de la aplicación de esta ley y no imputable al trabajador, y becas de estudios para los hijos de dichos ex trabajadores durante el período que dure la reinserción y según las reglas que establece el reglamento. Ambos programas tendrán una vigencia de hasta tres años a contar de la entrada en vigencia de esta ley.
 
-las actividades pesqueras.
+e) Acciones de capacitación tanto para trabajadores que se encuentren contratados en la industria pesquera como para ex trabajadores de la industria pesquera que hayan perdido su trabajo como consecuencia de esta ley y no imputable al trabajador, las que se ejecutarán en conformidad a algunos de los programas señalados en el artículo 46 de la ley Nº 19.518.
 
-c) Programas y proyectos de
+Para estos fines se celebrarán convenios entre la Subsecretaría y el Servicio Nacional de Capacitación y Empleo, debiendo este último implementarlas priorizando a los trabajadores del sector industrial antes señalado. Además con cargo de este fondo se financiarán becas de estudios para los hijos de dichos ex trabajadores durante el período que dure el programa de capacitación y según las reglas que se establezcan en el reglamento.
 
-fomento y desarrollo a la pesca
+f) Programas de estudios técnicos de nivel superior destinados a trabajadores que se encuentren contratados en la industria pesquera y ex trabajadores de la industria pesquera que hayan perdido su trabajo como consecuencia de la aplicación de la ley y no imputable al trabajador, la que no podrá exceder de 4 semestres; para la realización de estudios técnicos de nivel superior y becas de estudios para los hijos de dichos ex trabajadores durante el período que dure el programa de estudios y según las reglas del reglamento.
 
-artesanal.
+g) Programas de apoyo social destinados a ex trabajadores de la industria pesquera extractiva o de procesamiento, que hayan perdido su trabajo como consecuencia de la aplicación de esta ley y por causal no imputable al trabajador, siempre que tengan más de 55 años de edad y 15 años de antigüedad en el sector, a lo menos, y que no sean beneficiarios de alguna pensión estatal o jubilación anticipada o por enfermedad, para lo cual se estará a la información que el Ministerio del Trabajo y Previsión Social proveerá a través de los servicios que corresponda. Estos beneficios no serán reembolsables y sólo se entregarán de forma anual, por un máximo de tres años, de acuerdo al procedimiento que establezca el reglamento, priorizándose en su entrega a aquellas personas que acrediten mayor vulnerabilidad social. En todo caso, este beneficio no podrá exceder de 40 unidades de fomento anual por cada trabajador beneficiario.
 
-d) Programa de reinserción
+h) Eliminada.
 
-laboral para ex trabajadores de la
+i) Eliminada.
 
-industria pesquera que hayan perdido
+j) Programas de recuperación de las pesquerías para pescadores artesanales, tripulantes de naves especiales y trabajadores de planta.
 
-su trabajo como consecuencia de la
+k) Proyectos y programas de fomento y desarrollo al cultivo y repoblamiento de algas dirigidos a titulares de concesiones de acuicultura que cuenten con el cultivo de algas dentro de su proyecto técnico aprobado por la Subsecretaría de Pesca y Acuicultura y que califiquen como micro o pequeña empresa, de conformidad con la ley N°20.416, y que tengan vinculación con la acuicultura o la pesca artesanal.
 
-aplicación de esta ley y no imputable
-
-al trabajador, y becas de estudios
-
-para los hijos de dichos ex
-
-trabajadores durante el período que
-
-dure la reinserción y según las
-
-reglas que establece el reglamento.
-
-Ambos programas tendrán una vigencia
-
-de hasta tres años a contar de la
-
-entrada en vigencia de esta ley.
-
-e) Acciones de capacitación
-
-tanto para trabajadores que se
-
-encuentren contratados en la
-
-industria pesquera como para ex
-
-trabajadores de la industria pesquera
-
-que hayan perdido su trabajo como
-
-consecuencia de esta ley y no
-
-imputable al trabajador, las que se
-
-ejecutarán en conformidad a
-
-algunos de los programas señalados en
-
-el artículo 46 de la ley Nº 19.518.
-
-Para estos fines se celebrarán
-
-convenios entre la Subsecretaría y el
-
-Servicio Nacional de Capacitación y
-
-Empleo, debiendo este último
-
-implementarlas priorizando a los
-
-trabajadores del sector industrial
-
-antes señalado. Además con cargo de
-
-este fondo se financiarán becas de
-
-estudios para los hijos de dichos ex
-
-trabajadores durante el período que
-
-dure el programa de capacitación y
-
-según las reglas que se establezcan
-
-en el reglamento.
-
-f) Programas de estudios
-
-técnicos de nivel superior destinados
-
-a trabajadores que se encuentren
-
-contratados en la industria pesquera
-
-y ex trabajadores de la industria
-
-pesquera que hayan perdido su trabajo
-
-como consecuencia de la aplicación de
-
-la ley y no imputable al trabajador,
-
-la que no podrá exceder de 4
-
-semestres; para la realización de
-
-estudios técnicos de nivel superior y
-
-becas de estudios para los hijos de
-
-dichos ex trabajadores durante el
-
-período que dure el programa de
-
-estudios y según las reglas del
-
-reglamento.
-
-g) Programas de apoyo social
-
-destinados a ex trabajadores de la
-
-industria pesquera extractiva o de
-
-procesamiento, que hayan perdido su
-
-trabajo como consecuencia de la
-
-aplicación de esta ley y por causal no
-
-imputable al trabajador, siempre que
-
-tengan más de 55 años de edad y 15
-
-años de antigüedad en el sector, a lo
-
-menos, y que no sean beneficiarios de
-
-alguna pensión estatal o jubilación
-
-anticipada o por enfermedad, para lo
-
-cual se estará a la información que
-
-el Ministerio del Trabajo y Previsión
-
-Social proveerá a través de los
-
-servicios que corresponda. Estos
-
-beneficios no serán reembolsables y
-
-sólo se entregarán de forma anual,
-
-por un máximo de tres años, de
-
-acuerdo al procedimiento que
-
-establezca el reglamento,
-
-priorizándose en su entrega a
-
-aquellas personas que acrediten mayor
-
-vulnerabilidad social. En todo caso,
-
-este beneficio no podrá exceder de 40
-
-unidades de fomento anual por cada
-
-trabajador beneficiario.
-
-h) Proyectos de investigación y
-
-restauración de hábitat para especies
-
-hidrobiológicas de importancia para
-
-la pesca recreativa y programas de
-
-promoción, difusión, administración,
-
-vigilancia y fiscalización para esta
-
-actividad.
-
-i) Programas o proyectos de
-
-promoción del consumo de recursos
-
-hidrobiológicos.
-
-j) Programas de recuperación de las
-
-pesquerías para pescadores
-
-artesanales, tripulantes de naves
-
-especiales y trabajadores de planta.
-
-k) Proyectos y programas de fomento y
-
-desarrollo al cultivo y repoblamiento de
-
-algas dirigidos a titulares de concesiones
-
-de acuicultura que cuenten con el cultivo
-
-de algas dentro de su proyecto técnico
-
-aprobado por la Subsecretaría de Pesca y
-
-Acuicultura y que califiquen como micro o
-
-pequeña empresa, de conformidad con la
-
-ley N°20.416, y que tengan vinculación con
-
-la acuicultura o la pesca artesanal.
-
-El Fondo será administrado por el Consejo de Administración Pesquera, integrado por el Ministro de Economía, Fomento y Reconstrucción, quien lo presidirá; el Ministro de Hacienda o un representante permanente designado por éste; el Ministro del Trabajo y Previsión Social o un representante permanente designado por éste; el Subsecretario de Pesca y el Director Nacional de Pesca.
-
-Los recursos que contemple este Fondo para cada año calendario deberán distribuirse para los objetivos que señala el inciso primero de este artículo, priorizándose los fines contenidos en las letras d) y e).
-
-Para la administración del Fondo, la Subsecretaría de Pesca proveerá los recursos necesarios, y designará un Director Ejecutivo.
+Incisos eliminados.
 
 El Fondo se financiará con cargo a rentas generales de la Nación.
 

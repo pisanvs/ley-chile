@@ -52,6 +52,26 @@ Modifícase el literal n) del artículo 142 de la ley Nº 18.892, General de Pes
 
 Suspéndese el ingreso y otorgamiento de solicitudes de concesiones de acuicultura, cualquiera sea la especie o grupo de especies a cultivar, con excepción de la acuicultura de pequeña escala sobre algas, en la X Región de Los Lagos, entre la fecha de la publicación de la presente ley en el Diario Oficial y el 8 de abril de 2020.
 
+Sin perjuicio de lo señalado precedentemente, podrán tramitarse y otorgarse en la Región de Los Lagos las solicitudes de concesión de acuicultura cuyo proyecto técnico no incluya peces, que se encuentren en alguno de los siguientes casos, manteniéndose suspendido el ingreso de las demás:
+
+a) Cuenten con proyecto técnico aprobado al 9 de febrero de 2013.
+
+b) Los cambios de proyectos técnicos de concesiones vigentes que no impliquen ampliación de área, salvo en el caso de solicitudes de ampliación de área de concesiones de acuicultura vigentes presentadas antes del 12 de abril de 2012.
+
+c) Hayan ingresado a trámite al Servicio Nacional de Pesca y Acuicultura al 12 de abril de 2012, cualquiera sea el grupo de especies a cultivar, salvo en el caso de los mitílidos y macroalgas.
+
+d) Tengan por objeto el grupo de especies mitílidos, sin que excedan de 6 hectáreas de superficie o en las que el solicitante haya ejercido la opción de reducir la superficie de su solicitud a 6 hectáreas, y hayan ingresado al Servicio Nacional de Pesca y Acuicultura hasta el 12 de abril de 2012.
+
+e) Tengan por objeto el cultivo de macroalgas y que se encuentren en alguno de los siguientes casos:
+
+i. Sean solicitudes de concesión cuya superficie total resultante de la sumatoria de todas las solicitudes en trámite y concesiones otorgadas al mismo titular sea igual o menor a 10 hectáreas.
+
+ii. Sean solicitudes de concesión ingresadas por organizaciones compuestas sólo por pescadores artesanales, cuya superficie total dividida por el número de socios sea igual o menor a 6 hectáreas. La superficie total corresponderá a la sumatoria de todas las solicitudes en trámite y concesiones otorgadas a la organización respectiva.
+
+Si en los casos mencionados en la letra e) el titular excede la superficie indicada en cada caso, deberá modificar la superficie de la o las solicitudes en trámite hasta la extensión que corresponda. En el caso de no realizar la adecuación de superficie, las solicitudes serán denegadas.
+
+Asimismo, podrán ingresarse y otorgarse las solicitudes de concesión de acuicultura que tengan por objeto el cultivo de macroalgas que cumplan con las limitaciones de superficie indicadas en la letra e). Para efectos de aplicar las limitaciones de superficie se considerará la superficie de que sea titular el solicitante y las personas vinculadas a él en los términos señalados en el artículo 81 bis de la Ley General de Pesca y Acuicultura. Esta limitación no será aplicable a las concesiones cuyos titulares sean pescadores artesanales inscritos en el Registro Pesquero Artesanal, ni a las personas vinculadas al pescador artesanal.
+
 #### Artículo 5º
 
 Vencido el plazo de 3 años contado desde la publicación de esta ley, perderán la preferencia para relocalizarse las concesiones que hayan quedado ubicadas en franjas de distancia obligatoria entre macro zonas. Asimismo, vencido el plazo de 4 años cantado desde la fecha de publicación de la presente ley, perderán la preferencia para relocalizarse las concesiones que hayan quedado ubicadas en las aguas marítimas de parques nacionales.

@@ -248,7 +248,7 @@ El plazo de cincuenta y cuatro meses, a que se refiere el artículo 84 de la Ley
 
 #### Artículo tercero
 
-La obligación del Servicio Nacional de Pesca, a que se refiere el artículo 122 bis de la Ley General de Pesca y Acuicultura, de elaborar los informes ambientales para los centros de cultivo cuyo proyecto técnico no comprenda salmónidos, se iniciará a partir del 1 de enero de 2015.
+Derogado.
 
 #### Artículo cuarto
 
