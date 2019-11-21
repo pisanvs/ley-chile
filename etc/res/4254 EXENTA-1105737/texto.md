@@ -86,7 +86,9 @@ e) Presentar una declaración jurada simple, indicando que se compromete a cumpl
 
 Para garantizar el cumplimiento del periodo de resguardo y demostrar una correlación entre el producto comprado y las dosis aplicadas en el predio, el titular deberá mantener un registro en que se identifique por número de DIIO los animales bovinos a los cuales se les ha aplicado tratamiento, sea que estos se mantengan de manera individual o por lotes (grupos).
 
-8. Aquellos predios que registren compras de anabólicos, desde el 1 de enero de 2016 hasta la entrada en vigencia de la presente Resolución, quedarán identificados en el Sistema de Información Pecuaria Oficial como predio (RUP) uso anabólico y los animales como animal bovino (DIIO) uso anabólico. Los titulares de estos predios no podrán comprar y utilizar anabólicos en sus animales bovinos mientras no den cumplimiento a lo dispuesto en el numeral 5 de la presente resolución.
+8. Aquellos predios que registren compras de anabólicos, desde el 1 de enero de 2016 hasta el 30 de agosto de 2017 y que fueron identificados en el Sistema de Información Pecuaria Oficial como predio (RUP) uso anabólico y sus animales se marcaron como animal bovino (DIIO) uso anabólico de por vida, modificarán su condición a predio (RUP) no usador, siempre y cuando el titular no haya solicitado una autorización para comprar y usar anabólicos o una solicitud de retiro del sistema.
+
+Los animales señalados anteriormente mantendrán su condición de animal bovino (DIIO) uso anabólico de por vida. Los nuevos ingresos y nacimientos quedarán identificados en el Sistema de Información Pecuaria Oficial como animal bovino (DIIO) no uso anabólico.
 
 9. El titular de un predio autorizado por el Servicio para comprar y usar anabólicos con fines de promoción del crecimiento en bovinos, mantendrá vigente la autorización mientras dé cumplimiento a las exigencias establecidas en las letras b), c) y d) del numeral 5, y numeral 7 de esta resolución. En caso de no dar cumplimiento el Servicio podrá dejar sin efecto la autorización otorgada, por el período de 1 año.
 
@@ -100,7 +102,7 @@ b) Tener actualizados en el Sistema de Información Pecuaria Oficial todos los b
 
 c) No registrar compras de anabólicos con fines de promoción del crecimiento durante seis meses previos a la solicitud de retiro.
 
-d) Realizar una declaración jurada del titular ante notario, indicando que no registra saldo de anabólicos en su predio y que no utilizará anabólicos con fines de promoción del crecimiento en sus bovinos.
+d) Realizar una declaración jurada simple, indicando que no registra saldo de anabólicos en su predio y que no utilizará anabólicos con fines de promoción del crecimiento en sus bovinos.
 
 12. El Servicio determinará las acciones adicionales requeridas para aceptar la solicitud mencionada en el numeral 11. Una vez aceptada la solicitud se eliminará del Sistema de Información Pecuaria Oficial la condición de predio (RUP) uso anabólico, pero los animales registrados en él hasta ese momento, se mantendrán como usadores de anabólicos de por vida. Los nuevos nacimientos y nuevos ingresos no quedarán registrados en el Sistema como animales bovinos (DIIO) usadores de anabólicos.
 
@@ -110,7 +112,7 @@ d) Realizar una declaración jurada del titular ante notario, indicando que no r
 
 15. Prohíbese el movimiento de bovinos con DIIO uso anabólico hacia la Región de Magallanes y Antártica Chilena y a los Planteles de Animales Bajo Certificación Oficial, PABCO Bovino.
 
-16. Si se detecta que el titular de un predio bovino compra o utiliza anabólicos con fines de promoción del crecimiento sin estar previamente autorizado por el Servicio, el predio será identificado en el Sistema de Información Pecuaria Oficial como predio RUP uso anabólico y cada animal presente en él como animal bovino (DIIO) uso anabólico de por vida, sin perjuicio de las sanciones que proceda aplicar.
+16. Si se detecta que el titular de un predio bovino compra o utiliza anabólicos con fines de promoción del crecimiento sin estar previamente autorizado por el Servicio, todos sus animales declarados en el Sistema de Información Pecuaria Oficial hasta ese momento, serán identificados como animal bovino (DIIO) uso anabólico de por vida, sin perjuicio de las sanciones que proceda aplicar.
 
 17. Cualquier infracción a las disposiciones de la presente resolución, se sancionará de acuerdo a lo dispuesto en el DFL RRA N°16, de 1963, del Ministerio de Hacienda, sobre Sanidad y Protección Animal, y conforme al procedimiento establecido en la Ley Nº 18.755, Orgánica del Servicio Agrícola y Ganadero.
 
