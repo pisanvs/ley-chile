@@ -1,36 +1,42 @@
-CREA CONSEJO NACIONAL PARA LA IMPLEMENTACIÓN DE LA AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE
+REEMPLAZA EL TEXTO DEL DECRETO SUPREMO Nº 49, DE 2016, DEL MINISTERIO DE RELACIONES EXTERIORES, QUE CREA CONSEJO NACIONAL PARA LA IMPLEMENTACIÓN DE LA AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE
 
-Núm.49.- Santiago, 14 de abril de 2016.
+Núm. 67.- Santiago, 2 de mayo de 2019.
 
 Vistos:
 
-Lo dispuesto en los artículos 24 y 32 Nº 6 de la Constitución Política de la República; en el decreto con fuerza de ley Nº 1-19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el Texto Refundido, Coordinado y Sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en el decreto con fuerza de ley Nº 161, de 1978, del Ministerio de Relaciones Exteriores y en la resolución Nº 1600, de 2.008, de la Contraloría General de la República.
+Lo dispuesto en los artículos 24 y 32 Nº 6 de la Constitución Política de la República; en el decreto con fuerza de ley Nº 1-19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley Nº 21.080, que modifica diversos cuerpos legales con el objeto de modernizar el Ministerio de Relaciones Exteriores; el decreto supremo Nº 49, de 2016, del Ministerio de Relaciones Exteriores, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
 
 Considerando:
 
-1. Que la Asamblea General de la Organización de las Naciones Unidas aprobó la Agenda 2030 para el Desarrollo Sostenible, en adelante "la Agenda 2030", mediante resolución A/RES/70/1, de 25 de septiembre de 2015;
+1. Que la Asamblea General de la Organización de las Naciones Unidas aprobó la Agenda 2030 para el Desarrollo Sostenible, en adelante "la Agenda 2030", mediante resolución A/RES/70/1, de 25 de septiembre de 2015.
 
-2. Que es necesario establecer una instancia de implementación y seguimiento de la Agenda durante los próximos 15 años, la que incluye los Objetivos de Desarrollo Sostenible, en adelante "los ODS";
+2. Que la Agenda 2030 establece que su implementación requiere de una alianza revitalizada que aglutine a los gobiernos, el sector privado, la sociedad civil y el sistema de Naciones Unidas, entre otras instancias, para alcanzar los objetivos y metas propuestas.
 
-3. Que la definición de una instancia para el seguimiento de los ODS requerirá considerar la experiencia y conocimiento adquirido en la implementación de la Declaración del Milenio y los Objetivos de Desarrollo del Milenio (ODM), labor que ha estado radicada en el Ministerio de Desarrollo Social;
+3. Que, a través del decreto supremo Nº 49, de 2016, del Ministerio de Relaciones Exteriores, se creó el "Consejo Nacional para la Implementación de la Agenda 2030 para el Desarrollo Sostenible", en adelante "el Consejo", con el objeto de asesorar al Presidente/a de la República y servir de instancia de coordinación para la implementación y seguimiento de los Objetivos de Desarrollo Sostenible y de la Agenda 2030.
 
-4. Que la Agenda 2030 establece que su implementación requiere de una alianza revitalizada que aglutine a los gobiernos, el sector privado, la sociedad civil y el sistema de Naciones Unidas, entre otras instancias, para alcanzar los objetivos y metas propuestas.
+4. Que se ha estimado necesario establecer nuevas normas para el trabajo del Consejo, a fin de revitalizar sus funciones y facilitar su colaboración para la implementación de la Agenda 2030, incorporando al Ministerio Secretaría General de la Presidencia, precisando, con mayor claridad, sus funciones y estableciendo nuevas instancias de colaboración y participación para la consecución de los Objetivos de Desarrollo Sostenible.
 
 Decreto:
+
+#### Artículo único
+
+<!-- parte:10070237 -->
+
+Reemplázase el texto del decreto supremo Nº 49, de 2016, del Ministerio de Relaciones Exteriores, que Crea Consejo Nacional para la Implementación de la Agenda 2030 para el Desarrollo Sostenible, por el siguiente:
 
 ## Título I
 
 Del Consejo Nacional para la Implementación de la Agenda 2030 para el Desarrollo Sostenible
 
-#### Artículo 1º
+#### Artículo 1º (art. único)
 
-<!-- parte:10070414 -->
+<!-- parte:10070240 -->
 
 Créase el Consejo Nacional para la Implementación de la Agenda 2030 para el Desarrollo Sostenible, en adelante "el Consejo", que tendrá por objeto asesorar al Presidente/a de la República y servir de instancia de coordinación para la implementación y seguimiento de los Objetivos de Desarrollo Sostenible, en adelante "ODS", y de la Agenda 2030 para el Desarrollo Sostenible, en adelante "Agenda 2030".
 
-#### Artículo 2º
+#### Artículo 2º (art. único)
 
-<!-- parte:10070415 -->
+<!-- parte:10070241 -->
 
 El Consejo estará integrado por los Ministros y/o Ministras de las siguientes Secretarías de Estado:
 
@@ -44,9 +50,9 @@ d) Ministerio de Desarrollo Social y Familia.
 
 e) Ministerio del Medio Ambiente.
 
-#### Artículo 3º
+#### Artículo 3º (art. único)
 
-<!-- parte:10070416 -->
+<!-- parte:10070242 -->
 
 Las funciones del Consejo serán las siguientes:
 
@@ -58,9 +64,9 @@ c) Servir de instancia de coordinación con las entidades pertinentes, ya sean g
 
 d) Proponer al Presidente/a de la República una Estrategia de Implementación de la Agenda 2030 en el país.
 
-#### Artículo 4º
+#### Artículo 4º (art. único)
 
-<!-- parte:10070417 -->
+<!-- parte:10070243 -->
 
 Para su adecuado funcionamiento, el Consejo contará con:
 
@@ -78,15 +84,15 @@ Tanto los integrantes del Consejo, como los integrantes de las unidades preceden
 
 Normas Generales de Funcionamiento del Consejo
 
-#### Artículo 5º
+#### Artículo 5º (art. único)
 
-<!-- parte:10070419 -->
+<!-- parte:10070245 -->
 
 La Presidencia del Consejo tendrá dentro de sus funciones apoyar al Presidente/a de la República en la conducción de la relación de Chile con los organismos y en las instancias internacionales vinculadas a la coordinación, implementación y seguimiento de la Agenda 2030 en Naciones Unidas, con el propósito de presentar los informes nacionales, compartir experiencias y coordinar acciones con la comunidad internacional respecto de los progresos y desafíos en el logro de los ODS.
 
-#### Artículo 6º
+#### Artículo 6º (art. único)
 
-<!-- parte:10070420 -->
+<!-- parte:10070246 -->
 
 Los representantes titulares del Consejo serán los Ministros y/o Ministras correspondientes a cada una de las Secretarías de Estado que lo integran.
 
@@ -94,9 +100,9 @@ En ausencia del titular, podrán actuar como representantes suplentes, los respe
 
 El Consejo fijará las normas que regulen su funcionamiento.
 
-#### Artículo 7º
+#### Artículo 7º (art. único)
 
-<!-- parte:10070421 -->
+<!-- parte:10070247 -->
 
 El Consejo sesionará, al menos, una vez al año, citado por su Presidente.
 
@@ -104,21 +110,21 @@ Asimismo, cualquiera de sus miembros podrá solicitar al Presidente que cite a u
 
 El quórum mínimo para sesionar será de tres integrantes, no pudiendo estar ausentes en caso alguno la Presidencia ni la Secretaría Técnica.
 
-#### Artículo 8º
+#### Artículo 8º (art. único)
 
-<!-- parte:10070422 -->
+<!-- parte:10070248 -->
 
 Los acuerdos del Consejo se adoptarán por la unanimidad de sus integrantes presentes, los que, en todo caso, no revestirán una naturaleza ejecutiva, como tampoco abordarán aspectos no previstos en los artículos 3º y 6º del presente decreto.
 
-#### Artículo 9º
+#### Artículo 9º (art. único)
 
-<!-- parte:10070423 -->
+<!-- parte:10070249 -->
 
 El Consejo podrá emplear diversos mecanismos de participación ciudadana, tales como diálogos participativos, consultas web o consultas a grupos de población específicos, entre otros, que resulten pertinentes.
 
-#### Artículo 10
+#### Artículo 10 (art. único)
 
-<!-- parte:10070424 -->
+<!-- parte:10070250 -->
 
 El Ministerio de Relaciones Exteriores prestará el apoyo técnico y administrativo que sea necesario para el adecuado funcionamiento del Consejo.
 
@@ -126,25 +132,25 @@ El Ministerio de Relaciones Exteriores prestará el apoyo técnico y administrat
 
 Del Grupo Intersectorial
 
-#### Artículo 11
+#### Artículo 11 (art. único)
 
-<!-- parte:10070426 -->
+<!-- parte:10070252 -->
 
 El Grupo Intersectorial estará encargado de asesorar el proceso de ejecución de las acciones definidas en la Estrategia de Implementación de la Agenda 2030, señalada en el literal d) del artículo 3º.
 
 El Grupo Intersectorial se relacionará con la Red Nacional Agenda 2030, acorde a lo previsto en el Titulo VI del presente decreto.
 
-#### Artículo 12
+#### Artículo 12 (art. único)
 
-<!-- parte:10070427 -->
+<!-- parte:10070253 -->
 
 Los representantes titulares del Grupo Intersectorial serán los subsecretarios y/o subsecretarias correspondientes a cada una de las Secretarías de Estado que integran el Consejo. En caso de los ministerios que tengan más de una Subsecretaría, el Ministro o Ministra respectivo designará a uno de ellos como representante titular.
 
 En ausencia de los titulares, podrán actuar como representantes suplentes, los respectivos subrogantes, conforme a las normas de subrogación que resulten aplicables, y con sus mismos derechos.
 
-#### Artículo 13
+#### Artículo 13 (art. único)
 
-<!-- parte:10070428 -->
+<!-- parte:10070254 -->
 
 El Grupo Intersectorial sesionará, al menos, dos veces al año, de acuerdo a los propios requerimientos del Consejo.
 
@@ -152,9 +158,9 @@ El Grupo Intersectorial sesionará, al menos, dos veces al año, de acuerdo a lo
 
 De la Secretaría Técnica
 
-#### Artículo 14
+#### Artículo 14 (art. único)
 
-<!-- parte:10070430 -->
+<!-- parte:10070256 -->
 
 La Secretaría Técnica del Consejo estará radicada en la Subsecretaría de Evaluación Social del Ministerio de Desarrollo Social y Familia, que tendrá las siguientes funciones:
 
@@ -170,9 +176,9 @@ e) Coordinar la labor de los grupos de trabajo.
 
 f) Llevar el registro de las actas y de los demás documentos que hayan sido necesarios para el desempeño de las funciones del Consejo.
 
-#### Artículo 15
+#### Artículo 15 (art. único)
 
-<!-- parte:10070431 -->
+<!-- parte:10070257 -->
 
 La Secretaría Técnica será el organismo responsable de preparar las actas de las sesiones del Consejo. Estas actas deberán contener, al menos, lo siguiente:
 
@@ -188,9 +194,9 @@ La Secretaría Técnica será el organismo responsable de preparar las actas de 
 
 De los Grupos de Trabajo
 
-#### Artículo 16
+#### Artículo 16 (art. único)
 
-<!-- parte:10070433 -->
+<!-- parte:10070259 -->
 
 Existirán los siguientes grupos de trabajo, para un mejor desarrollo de las funciones del Consejo para la implementación de la Agenda 2030:
 
@@ -202,15 +208,15 @@ c) Ambiental, que será coordinado por el Ministerio del Medio Ambiente.
 
 d) Técnico sectorial de indicadores, el cual estará compuesto, a lo menos, por un representante de cada una de las siguientes instituciones: Ministerio de Relaciones Exteriores, Ministerio de Economía, Fomento y Turismo, Ministerio de Desarrollo Social y Familia, Ministerio del Medio Ambiente e Instituto Nacional de Estadísticas, los que serán designados a través del acto administrativo correspondiente del Ministro o Director Nacional respectivo, según corresponda. Este grupo de trabajo tendrá por objeto el levantamiento de la información estadística con los insumos aportados por las instituciones que forman parte de la Red Nacional Agenda 2030, que permitan generar el seguimiento del avance de indicadores.
 
-#### Artículo 17
+#### Artículo 17 (art. único)
 
-<!-- parte:10070434 -->
+<!-- parte:10070260 -->
 
 Sin perjuicio de lo previsto en el artículo anterior, el Consejo y/o el Grupo Intersectorial podrán crear nuevos grupos de trabajo, los que tendrán por objeto el estudio de los avances y cumplimientos de los ODS.
 
-#### Artículo 18
+#### Artículo 18 (art. único)
 
-<!-- parte:10070435 -->
+<!-- parte:10070261 -->
 
 Los grupos de trabajo podrán establecer las formas de trabajo que estimen pertinentes para el desarrollo de sus tareas, de acuerdo a la metodología de implementación definida por la Secretaría Técnica.
 
@@ -218,9 +224,9 @@ Asimismo, deberán designar entre sus miembros a un secretario de actas, lo que 
 
 El registro de las actas de las sesiones de los grupos de trabajo señalados en los artículos 16 y 17, será de cargo de los secretarios de actas mencionados en el inciso anterior, los que deberán remitir copia de éstas a la Secretaría Técnica. Las actas del presente inciso deberán contener, como mínimo, los mismos requisitos indicados en el artículo 15.
 
-#### Artículo 19
+#### Artículo 19 (art. único)
 
-<!-- parte:10070436 -->
+<!-- parte:10070262 -->
 
 Los grupos de trabajo podrán invitar a participar en ellas a miembros de la Red Nacional Agenda 2030 a que se refiere el Título VI y/o a la sociedad civil, académicos, expertos, organizaciones no gubernamentales, entidades privadas y otros actores relevantes.
 
@@ -228,15 +234,15 @@ Los grupos de trabajo podrán invitar a participar en ellas a miembros de la Red
 
 De la Red Nacional Agenda 2030
 
-#### Artículo 20
+#### Artículo 20 (art. único)
 
-<!-- parte:10070438 -->
+<!-- parte:10070264 -->
 
 La Red Nacional Agenda 2030 estará compuesta por contrapartes pertenecientes a cada ministerio, subsecretarías, servicios públicos, órganos autónomos y demás órganos del Estado que tengan relación con la implementación de la Agenda 2030, quienes serán invitados a participar por la Secretaría Técnica del Consejo, con el objetivo de establecer puntos de enlace y comunicación con el Consejo, el Grupo Intersectorial y/o la Secretaría Técnica.
 
-#### Artículo 21
+#### Artículo 21 (art. único)
 
-<!-- parte:10070439 -->
+<!-- parte:10070265 -->
 
 El Ministerio Secretaría General de la Presidencia, dentro del ámbito de su competencia, estará a cargo de la coordinación interministerial para la implementación de la Agenda 2030 y de las propuestas de priorización según el Programa de Gobierno.
 
@@ -244,23 +250,23 @@ El Ministerio Secretaría General de la Presidencia, dentro del ámbito de su co
 
 Otras Instancias de Participación
 
-#### Artículo 22
+#### Artículo 22 (art. único)
 
-<!-- parte:10070441 -->
+<!-- parte:10070267 -->
 
 El Ministerio de Relaciones Exteriores, en el ejercicio de sus atribuciones legales y dentro de la esfera de su competencia, colaborará con el Presidente/a de la República en la coordinación de la relación del Gobierno de Chile con organizaciones internacionales y otros Estados vinculados a la implementación y seguimiento de la Agenda 2030.
 
 Lo anterior es sin perjuicio que los órganos de la Administración del Estado, dentro del ámbito de sus competencias, puedan suscribir convenios interinstitucionales de carácter internacional con esas entidades, en los términos previstos en el artículo 35 de la ley Nº 21.080.
 
-#### Artículo 23
+#### Artículo 23 (art. único)
 
-<!-- parte:10070442 -->
+<!-- parte:10070268 -->
 
 Los Ministerios que forman parte del Consejo podrán, en el marco de sus competencias legales, suscribir convenios con instituciones públicas o privadas con objeto de contar con colaboración técnica para la implementación y seguimiento de la Agenda 2030.
 
-#### Artículo 24
+#### Artículo 24 (art. único)
 
-<!-- parte:10070443 -->
+<!-- parte:10070269 -->
 
 De acuerdo a las posibilidades presupuestarias de los ministerios miembros del Consejo, y según las normas legales y/o administrativas vigentes, se podrán implementar actividades de difusión y/o capacitación, así como realizar o encomendar los estudios necesarios, tanto a nivel internacional, nacional o local, según las necesidades del mismo.
 
@@ -268,12 +274,12 @@ De acuerdo a las posibilidades presupuestarias de los ministerios miembros del C
 
 Asesoría Técnica
 
-#### Artículo 25
+#### Artículo 25 (art. único)
 
-<!-- parte:10070445 -->
+<!-- parte:10070271 -->
 
 Para el desarrollo de las funciones del Consejo, Grupo Intersectorial y la Secretaría Técnica, se contará con la asesoría del Instituto Nacional de Estadísticas, el cual colaborará con la adaptación y definición de criterios para la elaboración de indicadores de monitoreo de los ODS.
 
-Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Heraldo Muñoz Valenzuela, Ministro de Relaciones Exteriores.- Luis Felipe Céspedes Cifuentes, Ministro de Economía, Fomento y Turismo.- Marcos Barraza Gómez, Ministro de Desarrollo Social.- Pablo Badenier Martinez, Ministro del Medio Ambiente.
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Roberto Ampuero Espinoza, Ministro de Relaciones Exteriores.- Gonzalo Blumel Mac-Iver, Ministro Secretario General de la Presidencia.- José Ramón Valente Vias, Ministro de Economía, Fomento y Turismo.- Alfredo Moreno Charme, Ministro de Desarrollo Social y Familia.- Carolina Schmidt Zaldívar, Ministra del Medio Ambiente.
 
-Lo que transcribo a US. para su conocimiento.- Gustavo Ayares Ossandón, Embajador, Director General Administrativo.
+Lo que transcribo a Us. para su conocimiento.- José Avaria Garibaldi, Director General Administrativo.
