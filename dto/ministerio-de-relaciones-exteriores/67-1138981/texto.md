@@ -1,22 +1,26 @@
-CREA CONSEJO NACIONAL PARA LA IMPLEMENTACIÓN DE LA AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE
+REEMPLAZA EL TEXTO DEL DECRETO SUPREMO Nº 49, DE 2016, DEL MINISTERIO DE RELACIONES EXTERIORES, QUE CREA CONSEJO NACIONAL PARA LA IMPLEMENTACIÓN DE LA AGENDA 2030 PARA EL DESARROLLO SOSTENIBLE
 
-Núm.49.- Santiago, 14 de abril de 2016.
+Núm. 67.- Santiago, 2 de mayo de 2019.
 
 Vistos:
 
-Lo dispuesto en los artículos 24 y 32 Nº 6 de la Constitución Política de la República; en el decreto con fuerza de ley Nº 1-19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el Texto Refundido, Coordinado y Sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en el decreto con fuerza de ley Nº 161, de 1978, del Ministerio de Relaciones Exteriores y en la resolución Nº 1600, de 2.008, de la Contraloría General de la República.
+Lo dispuesto en los artículos 24 y 32 Nº 6 de la Constitución Política de la República; en el decreto con fuerza de ley Nº 1-19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley Nº 21.080, que modifica diversos cuerpos legales con el objeto de modernizar el Ministerio de Relaciones Exteriores; el decreto supremo Nº 49, de 2016, del Ministerio de Relaciones Exteriores, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
 
 Considerando:
 
-1. Que la Asamblea General de la Organización de las Naciones Unidas aprobó la Agenda 2030 para el Desarrollo Sostenible, en adelante "la Agenda 2030", mediante resolución A/RES/70/1, de 25 de septiembre de 2015;
+1. Que la Asamblea General de la Organización de las Naciones Unidas aprobó la Agenda 2030 para el Desarrollo Sostenible, en adelante "la Agenda 2030", mediante resolución A/RES/70/1, de 25 de septiembre de 2015.
 
-2. Que es necesario establecer una instancia de implementación y seguimiento de la Agenda durante los próximos 15 años, la que incluye los Objetivos de Desarrollo Sostenible, en adelante "los ODS";
+2. Que la Agenda 2030 establece que su implementación requiere de una alianza revitalizada que aglutine a los gobiernos, el sector privado, la sociedad civil y el sistema de Naciones Unidas, entre otras instancias, para alcanzar los objetivos y metas propuestas.
 
-3. Que la definición de una instancia para el seguimiento de los ODS requerirá considerar la experiencia y conocimiento adquirido en la implementación de la Declaración del Milenio y los Objetivos de Desarrollo del Milenio (ODM), labor que ha estado radicada en el Ministerio de Desarrollo Social;
+3. Que, a través del decreto supremo Nº 49, de 2016, del Ministerio de Relaciones Exteriores, se creó el "Consejo Nacional para la Implementación de la Agenda 2030 para el Desarrollo Sostenible", en adelante "el Consejo", con el objeto de asesorar al Presidente/a de la República y servir de instancia de coordinación para la implementación y seguimiento de los Objetivos de Desarrollo Sostenible y de la Agenda 2030.
 
-4. Que la Agenda 2030 establece que su implementación requiere de una alianza revitalizada que aglutine a los gobiernos, el sector privado, la sociedad civil y el sistema de Naciones Unidas, entre otras instancias, para alcanzar los objetivos y metas propuestas.
+4. Que se ha estimado necesario establecer nuevas normas para el trabajo del Consejo, a fin de revitalizar sus funciones y facilitar su colaboración para la implementación de la Agenda 2030, incorporando al Ministerio Secretaría General de la Presidencia, precisando, con mayor claridad, sus funciones y estableciendo nuevas instancias de colaboración y participación para la consecución de los Objetivos de Desarrollo Sostenible.
 
 Decreto:
+
+#### Artículo único
+
+Reemplázase el texto del decreto supremo Nº 49, de 2016, del Ministerio de Relaciones Exteriores, que Crea Consejo Nacional para la Implementación de la Agenda 2030 para el Desarrollo Sostenible, por el siguiente:
 
 ## Título I
 
@@ -224,6 +228,6 @@ Asesoría Técnica
 
 Para el desarrollo de las funciones del Consejo, Grupo Intersectorial y la Secretaría Técnica, se contará con la asesoría del Instituto Nacional de Estadísticas, el cual colaborará con la adaptación y definición de criterios para la elaboración de indicadores de monitoreo de los ODS.
 
-Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Heraldo Muñoz Valenzuela, Ministro de Relaciones Exteriores.- Luis Felipe Céspedes Cifuentes, Ministro de Economía, Fomento y Turismo.- Marcos Barraza Gómez, Ministro de Desarrollo Social.- Pablo Badenier Martinez, Ministro del Medio Ambiente.
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Roberto Ampuero Espinoza, Ministro de Relaciones Exteriores.- Gonzalo Blumel Mac-Iver, Ministro Secretario General de la Presidencia.- José Ramón Valente Vias, Ministro de Economía, Fomento y Turismo.- Alfredo Moreno Charme, Ministro de Desarrollo Social y Familia.- Carolina Schmidt Zaldívar, Ministra del Medio Ambiente.
 
-Lo que transcribo a US. para su conocimiento.- Gustavo Ayares Ossandón, Embajador, Director General Administrativo.
+Lo que transcribo a Us. para su conocimiento.- José Avaria Garibaldi, Director General Administrativo.
