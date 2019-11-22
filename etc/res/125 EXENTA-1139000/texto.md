@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) "PLANTA FOTOVOLTAICA TORINO SOLAR", CUYO PROPONENTE ES "TORINO SOLAR SpA"
+
+Con fecha 29 de octubre de 2019, se dictó la resolución exenta Nº 125/2019 del Director Regional del SEA de la Región del Maule, que resuelve dar inicio al proceso de participación ciudadana en la evaluación ambiental de la DIA del proyecto "Planta Fotovoltaica Torino Solar", cuyo proponente es "Torino Solar SpA" y que se pretende desarrollar en la comuna de Teno, ubicándose al lado poniente de la Ruta 5 Sur, aproximadamente a 900 metros al sur de la entrada a Cementos Bío Bío. El plazo legal para efectuar observaciones al proyecto en la plataforma electrónica www.sea.gob.cl del Servicio de Evaluación Ambiental, Región del Maule o ingresarlas a la oficina regional ubicada en calle Dos Oriente 946, Talca, será de 20 días hábiles y se contará desde la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través de la plataforma electrónica del Servicio de Evaluación Ambiental (www.sea.gob.cl).-
+
+René Alejandro Christen Fernández, Director Regional del Servicio de Evaluación Ambiental Región del Maule.
