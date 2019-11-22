@@ -254,6 +254,8 @@ EMPRESAS DE SERVICIOS
 
 6. Agrícola y Servicios Isla de Pascua Limitada - Sasipa Ltda.
 
+7. Fondo de Infraestructura S.A.
+
 EMPRESAS PRODUCTIVAS
 
 1. Empresa Nacional del Carbón S.A. - Enacar S.A.
