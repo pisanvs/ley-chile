@@ -1,0 +1,5 @@
+APRUEBA EL "CONVENIO ESPECÍFICO DE COLABORACIÓN" SUSCRITO ENTRE LA SUBSECRETARÍA DE PREVISIÓN SOCIAL Y EL INSTITUTO DE PREVISIÓN SOCIAL
+
+Por resolución exenta N° 341, de 3 de octubre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba para el Instituto de Previsión Social, el Convenio Específico de Colaboración, suscrito con fecha 26 de agosto de 2019, entre la Subsecretaría de Previsión Social y el Instituto de Previsión Social, cuyo objetivo es proporcionar al Instituto información asociada a las cuentas individuales de un conjunto acotado de personas, participantes de talleres de difusión de sus derechos previsionales, para efectos de generar y mantener una base de datos actualizada, como material de consulta y análisis en la realización del Programa Social y/o elaboraciones de índole similar, asociados a la temática previsional y de seguridad social.
+
+Santiago, 12 de noviembre de 2019.- Patricio Coronado Rojo, Director Nacional.
