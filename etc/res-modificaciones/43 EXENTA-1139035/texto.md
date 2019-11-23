@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN N° 501 EXENTA, DE 15 DE OCTUBRE DE 2013, QUE DESIGNÓ ADMINISTRADORES TITULAR Y SUPLENTE DE CONTRATO DE COMODATO QUE SE INDICA, SUSCRITO ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL INSTITUTO DE SEGURIDAD LABORAL
+
+Por resolución exenta I N° 43, de 9 de octubre de 2019, el Jefe (S) del Departamento de Administración e Inmobiliaria, modificó el resuelvo N° 1 de la resolución exenta N° 501, de 15 de octubre de 2013, y designó Administrador Titular y Suplente para el Contrato de Comodato suscrito el 3 de enero de 2011, mediante resolución exenta N° 189, de 27 de abril de 2011, entre el Instituto de Previsión Social y el Instituto de Seguridad Laboral, sobre el inmueble institucional ubicado en calle Pedro Montt N° 895/869/853, de la comuna de Punta Arenas, Región de Magallanes y de la Antártica Chilena.
+
+Santiago, 12 de noviembre de 2019.- Joaquín Sancho Daza, Jefe (S) Departamento Administración e Inmobiliaria.
