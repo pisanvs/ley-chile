@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO GESTIÓN DE FELICITACIONES, SUGERENCIAS Y RECLAMOS PARA LOS CANALES DE ATENCIÓN", VERSIÓN 02
+
+Por resolución exenta N° 349, de 10 de octubre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba para el Instituto de Previsión Social, documento denominado "Procedimiento Gestión de Felicitaciones, Sugerencias y Reclamos para los Canales de Atención", Versión 02, cuyo objetivo es definir un sistema de gestión de sugerencias, felicitaciones y reclamos que se ajuste al actual Modelo de Atención del IPS considerando los perfiles que existen a nivel de los canales de atención, sean estos canal presencial, canal digital o canal remoto.
+
+Santiago, 12 de noviembre de 2019.- Patricio Coronado Rojo, Director Nacional.
