@@ -30,6 +30,8 @@ Resolución:
 
 3.- Publíquese la presente resolución en el Diario Oficial y en un periódico de circulación regional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al resuelvo número 1. de esta resolución, las que deberán contener, a lo menos, la comuna, el Título del cual se trate, el nombre de cada postulante, con su respectiva cédula de identidad, y el puntaje obtenido por el grupo o persona.
 
+> **Nota.** El numeral 1.1 del número 1 de la Resolución 2605 Exenta, Vivienda, publicada el 26.11.2019, modifica la tabla inserta en el resuelvo 1, que fija el número de postulantes seleccionados por región, en el cuarto proceso de selección, en el sentido de disminuir un beneficiario de la Región de Aysén, quedando con 259, y disminuir el total, dejándolo en 2.399.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner,Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
