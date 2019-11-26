@@ -22,7 +22,7 @@ Resolución:
 
 2. Sólo podrán participar en este llamado extraordinario los afectados por dichos temporales de las comunas de Arica, Putre y Camarones de la Región de Arica y Parinacota; de todas las comunas de la Región de Tarapacá; y de las comunas de Calama y San Pedro de Atacama de la Región de Antofagasta.
 
-3. Las selecciones podrán efectuarse a partir de la fecha de publicación de la presente resolución y hasta el día 30 de octubre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para las regiones de este llamado, y podrán seleccionarse los proyectos que cuenten con informes técnicos aprobados por el Serviu respectivo, al último día hábil de cada mes.
+3. Las selecciones podrán efectuarse a partir de la fecha de publicación de la presente resolución y hasta el día 29 de noviembre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para las regiones de este llamado, y podrán seleccionarse los proyectos que cuenten con informes técnicos aprobados por el Serviu respectivo, al último día hábil de cada mes.
 
 4. La calidad de afectados se acreditará mediante la inscripción en el Registro de Damnificados del Minvu, y la postulación a este llamado se deberá realizar en forma individual.
 
@@ -30,7 +30,15 @@ Resolución:
 
 6. Los recursos que se destinarán para la selección de los proyectos presentados para el presente llamado, se distribuirán regionalmente según el cuadro que se agrega a continuación, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución del Ministerio de Vivienda y Urbanismo:
 
-.
+Región Total UF
+
+Arica y Parinacota 5.200
+
+Tarapacá 20.000
+
+Antofagasta 4.100
+
+Total 29.300
 
 El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, incluidos los servicios de asistencia técnica que correspondan.
 
