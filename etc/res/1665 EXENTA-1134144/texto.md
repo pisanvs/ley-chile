@@ -38,6 +38,8 @@ Resolución:
 
 2. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado, serán los siguientes:
 
+.
+
 3. La condición de Condominio objeto de atención del programa, será acreditada por la Seremi Minvu correspondiente, en atención a los requisitos señalados en el artículo 89, numeral 2, del DS Nº 27 (V. y U.), de 2016.
 
 Adicionalmente, de acuerdo a la facultad establecida en el Artículo 24 del D.S. Nº 27 (V. y U.), de 2016, mediante el Sistema informático de Certificación de Copropiedades dispuesto por el Ministerio de Vivienda y Urbanismo, se solicitarán antecedentes dirigidos a identificar las características generales del conjunto habitacional y la copropiedad; el diagnóstico físico constructivo, a fin de establecer los niveles de deterioro existentes en los bienes comunes y el diagnóstico socio-jurídico, que tiene por objeto identificar la existencia de los órganos de administración de la copropiedad y las características organizativas entre copropietarios y residentes.
