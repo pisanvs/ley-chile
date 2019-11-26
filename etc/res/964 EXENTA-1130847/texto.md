@@ -570,6 +570,24 @@ No obstante lo anterior, en aquellos casos en que el costo de la intervención d
 
 18.8 Establécese para el presente llamado, la aplicación de los siguientes puntajes especiales para este tipo de proyectos:
 
+18 bis En caso de proyectos del Título II de Mejoramiento de Vivienda, que consideren proyectos de Obras de Innovación de Eficiencia Energética que se destinen al recambio de calefactores a leña por un calefactor eficiente en la Vivienda en las comunas de Temuco y Padre Las Casas en el contexto del PDA de dichas comunas, se tendrán en consideración las siguientes condiciones:
+
+a) El monto máximo de subsidio para retirar el antiguo calefactor a leña, y la instalación del nuevo calefactor eficiente será de hasta 44 UF por familia, incluida la Asistencia Técnica.
+
+b) Este subsidio se postulará en conjunto con el subsidio de Acondicionamiento Térmico para el PDA de estas comunas que se describe en el punto 18 precedente, y los postulantes que resulten beneficiados con dicho subsidio obtendrán simultáneamente este subsidio, en caso sean beneficiarios hábiles para el recambio de calefactores, lo que se definirá mediante resolución regional. Para estos efectos se aplicará una ficha a cada postulante, entre otros anexos, por parte de la Entidad de Asistencia Técnica, lo que determinará si posee artefacto a leña en uso, y si decide aplicar el recambio una vez conocidas todas las variables.
+
+c) La obtención de un subsidio de este tipo en este llamado, no será impedimento para obtener otros subsidios del Título II del Programa de Protección del Patrimonio Familiar, incluso del mismo tipo de proyecto, siempre que no se trate del mismo tipo de obra. Además, las personas que hayan sido beneficiadas anteriormente con un subsidio de Mejoramiento de la Vivienda, u obras de eficiencia energética del Título II del Programa de Protección del Patrimonio Familiar, no tendrán impedimento para concursar y ser beneficiados en este llamado, siempre que no se trate del mismo tipo de obra, pudiendo postular por ejemplo a Colector Solar o Sistema Fotovoltaico.
+
+d) El Plan de Habilitación Social de los proyectos presentados deberá cumplir además de lo establecido en el DS Nº 255 (V. y U.), de 2006, con los siguientes contenidos adicionales:
+
+- Nociones básicas del funcionamiento del Calefactor y sus características.
+
+- Uso eficiente del calefactor.
+
+- Cuidado y mantención del calefactor, por medio de un catálogo que se les entregará a los beneficiarios.
+
+- Trazabilidad del equipo chatarrizado.
+
 19. Se considerarán como Viviendas Objeto del Programa para este llamado, las señaladas en el artículo 3 º del DS 255 (V. y U.), de 2006, conforme a los procedimientos establecidos en la letra e) del artículo 21, del reglamento ya señalado. Las viviendas en que el avalúo fiscal de sus construcciones, excluido el valor del terreno, sea igual o inferior a 350 Unidades de Fomento a la fecha de la presente resolución, lo acreditarán presentando el Certificado de Avalúo Fiscal Detallado de la propiedad, o el Certificado de Avalúo Fiscal Simple si el inmueble tiene destino habitacional y el monto total es inferior a 350 UF. Las viviendas cuyo avalúo fiscal total sea igual o inferior a 950 Unidades de Fomento, a la fecha de la presente resolución, lo acreditarán presentando el Certificado de Avalúo Fiscal Simple. Esto no se aplicará a las viviendas de las familias que postulan proyectos en zonas con Planes de Descontaminación Atmosférica vigente, pues estas se regirán por lo señalado en el punto 18 de esta resolución.
 
 20. No podrán participar en este llamado aquellos proyectos referidos al Capítulo Segundo del DS Nº 255 (V. y U.), de 2006, relativos a la atención a Condominios de Viviendas Sociales, ni en general inmuebles en Copropiedades Tipo A.
@@ -595,6 +613,8 @@ En las postulaciones colectivas se aceptará que el 60% de los integrantes cumpl
 > **Nota.** El numeral 1 de la Resolución 1284 Exenta, Vivienda, publicada el 05.06.2019, modifica el cuadro inserto en el resuelvo 3 de la presente norma, en el sentido de reemplazar, en la fila Nº 1, en la columna "Fecha de Selección" los guarismos "24-05-2019" por "06-06-2019".
 
 > **Nota.** NOTA 1 Los numerales 1.1.1 y 1.1.2 del numeral 1.1 del numero 1 Vivienda, publicada el 24.08.2019, modifican la tabla inserta resuelvo 3 en el sentido de reemplazar en la columna Proyectos a seleccionar, del número 3 por lo siguiente: "a) Proyectos S.S.T.T., Fotovoltaicos y de Acondicionamiento Térmico Regular y PDA., y en la fila Nº 2, en la columna "Fecha de selección" del cuadro adjunto, los guarismos "30-08-2019" por "13-09-2019".
+
+> **Nota.** NOTA 2 El numeral 1.1 del numero 1 de la Resolución 2599 Exenta, Vivienda modifica el cuadro inserto en el resuelvo 3 de la presente norma, en el sentido de reemplazar, en la fila Nº 1, en la columna "Fecha de Selección" los guarismos "29-11-2019" por "20-12-2019".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
