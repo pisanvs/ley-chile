@@ -166,6 +166,8 @@ Los proyectos que sean declarados inadmisibles serán devueltos a la respectiva 
 
 Cuadro Nº 8
 
+.
+
 * Podrán postular todos los proyectos que cuenten con calificación al 30 de octubre 2019.
 
 * No podrán ser calificados proyectos que no tengan enterado el ahorro mínimo.
