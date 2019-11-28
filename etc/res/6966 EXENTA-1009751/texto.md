@@ -34,9 +34,13 @@ Las bandas de frecuencias para el servicio serán las siguientes:
 
 Bandas de frecuencias Sentido de transmisión
 
-a) 3.700 - 4.200 MHz espacio - Tierra
+a) 3.700 - 3.750 MHz espacio - Tierra
 
-5.925 - 6.425 MHz Tierra - espacio
+5.925 - 5.975 MHz Tierra - espacio
+
+3.800 - 4.200 MHz espacio - Tierra
+
+6.025 - 6.425 MHz Tierra - espacio
 
 b) 10,70 - 11,7 GHz espacio - Tierra
 
