@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 336 EXENTA, DE 19 DE NOVIEMBRE DE 2019
+
+Por resolución exenta Nº 336, de fecha 19 de noviembre de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Atacama, se dispuso el cierre definitivo de las Plantas Revisoras AB0310, de la comuna de Copiapó, y AB0311, de la comuna de Vallenar, el día 29 de noviembre de 2019, debido a la caducidad del contrato de concesión suscrito entre Inspectorate Servicios de Inspección Chile Limitada, y el Ministerio de Transportes y Telecomunicaciones, representado por el Secretario Regional Ministerial de la Región de Atacama, caducidad declarada a firme, confirmada y materializada mediante resolución Nº 70, de 21 de febrero de 2019.-
+
+Vittorio Ghiglino Bianchi, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Atacama.
