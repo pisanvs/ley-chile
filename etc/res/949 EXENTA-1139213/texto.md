@@ -1,0 +1,53 @@
+DISPONE EL TÉRMINO DE LOS CONVENIOS REGIONALES DE ASISTENCIA TÉCNICA SUSCRITOS CON 6 ENTIDADES PATROCINANTES QUE INDICA; INSTRUYE TRASPASO DE PROYECTOS QUE INDICA, Y ORDENA PUBLICACIÓN EN EL DIARIO OFICIAL
+
+Núm. 949 exenta.- Concepción, 19 de noviembre de 2019.
+
+Vistos:
+
+1) La resolución exenta Nº 7, del 05.01.2017, que aprobó el Convenio Regional de Asistencia Técnica (CRAT), suscrito con fecha 06.12.2016 entre la Entidad Patrocinante "Ingeniería y Construcción Aguilera y Roa Limitada", nombre de fantasía "Constructora Monte Fe Limitada" y esta Secretaría Regional Ministerial.
+
+2) La resolución exenta Nº 14, del 06.01.2017, que aprobó el CRAT, suscrito con fecha 24.11.2016 entre la Entidad Patrocinante "Entidad Patrocinadora y Consultora Lorena del Pilar Toro Leiva Empresa Individual de Responsabilidad Limitada", nombre de fantasía "Nuevo Mundo E.I.R.L." y esta Secretaría Regional Ministerial.
+
+3) La resolución exenta Nº 332, del 28.03.2017, que aprobó el CRAT, suscrito con fecha 13.03.2017 entre la Entidad Patrocinante "Maurice André Dintrans Bauer" y esta Secretaría Regional Ministerial.
+
+4) La resolución exenta Nº 429, del 20.04.2017, que aprobó el CRAT, suscrito con fecha 03.03.2017 entre la Entidad Patrocinante "Sociedad Consultora, Gestión Inmobiliaria y Comercial Badilla y Muñoz Limitada", nombre de fantasía "VICMA Ltda." y esta Secretaría Regional Ministerial.
+
+5) La resolución exenta Nº 582, del 05.06.2017, que aprobó el CRAT, suscrito con fecha 11.05.2017 entre la Entidad Patrocinante "Empresa de Gestión Inmobiliaria San Martín Limitada", nombre de fantasía "Gestión Inmobiliaria San Martín Limitada" y esta Secretaría Regional Ministerial.
+
+6) La resolución exenta Nº 753, del 25.07.2017, que aprobó el CRAT, suscrito con fecha 22.05.2017 entre "Entidad Patrocinante Alexandra Lara Empresa Individual de Responsabilidad Limitada", antes, "Entidad Patrocinante Carolina Arias Empresa Individual de Responsabilidad Limitada", nombre de fantasía "Santa Catalina E.I.R.L." y esta Secretaría Regional Ministerial.
+
+7) Los Memorándums Nº 143 de fecha 06.05.2019, Nº 268 del 20.08.2019, complementados por el Nº 311, del 02.10.2019, todos del Departamento de Planes y Programas de Vivienda y Equipamiento de esta Seremi, que solicitan ponderar el término anticipado a sus Convenios Regionales, respecto de las referidas Entidades Patrocinantes "Ingeniería y Construcción Aguilera y Roa Limitada", "Entidad Patrocinadora y Consultora Lorena del Pilar Toro Leiva Empresa Individual de Responsabilidad Limitada", "Sociedad Consultora, Gestión Inmobiliaria y Comercial Badilla y Muñoz Limitada", "Empresa de Gestión Inmobiliaria San Martín Limitada", "Entidad Patrocinante Alexandra Lara Empresa Individual de Responsabilidad Limitada", y "Maurice André Dintrans Bauer", y respecto de esta última, además ponderar las acciones y omisiones incurridas por el PSAT, incluyendo la medida de acordar el traspaso de los proyectos y los servicios pendientes de éste, a otra Entidad con convenio vigente, o bien al Serviu Región del Biobío.
+
+8) El DFL Nº 1 del Ministerio Secretaría General de la Presidencia, de 2001, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de Administración del Estado; la ley Nº 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado; la resolución exenta Nº 5.081 (V. y U.) de 2016, que aprueba el formato del Convenio Regional de Asistencia Técnica para programas habitacionales; la resolución exenta Nº 6.433 (V. y U.) de 2016, que aprueba instrucciones para la aplicación del Convenio Regional de Asistencia Técnica para Programas Habitacionales; la resolución Nº 7 de la Contraloría General de la República, de 2019, que fija normas sobre exención de trámite de toma de razón; el DS Nº 397 (V. y U.), de 1976, Reglamento Orgánico de las Secretarías Regionales Ministeriales de Vivienda y Urbanismo; y el DS Nº 17 (V. y U.), de 2019, que designa Seremi de Vivienda y Urbanismo Región del Biobío.
+
+Considerando:
+
+1) Que, mediante los memorandums del Visto Nº 7, el Departamento de Planes y Programas de Vivienda y Equipamiento solicitó evaluar el término anticipado al Convenio Regional de Asistencia Técnica para las 6 Entidades Patrocinantes ya referidas, informando además que ninguna de aquellas ha solicitado la renovación del CRAT; no han dado cumplimiento a su obligación mensual de informar el estado de sus proyectos, instruido mediante oficio Ord. Nº 548, de esta seremi, de fecha 28.02.2018; no han renovado sus boletas bancarias de garantía con la anticipación prevista en el CRAT; y se ha constatado por profesionales de dicho Departamento que las Entidades no mantienen una oficina para la atención de público en el domicilio informado a esta seremi, por lo que su paradero es ignorado.
+
+2) Que, por oficios Ords. Nº 531, Nº 1.805, Nº 82, Nº 2.189 y Nº 1.820, todos del presente año, esta Seremi informó a las 5 Entidades "Ingeniería y Construcción Aguilera y Roa Limitada", "Entidad Patrocinadora y Consultora Lorena del Pilar Toro Leiva Empresa Individual de Responsabilidad Limitada", "Sociedad Consultora, Gestión Inmobiliaria y Comercial Badilla y Muñoz Limitada", "Empresa de Gestión Inmobiliaria San Martín Limitada", y "Entidad Patrocinante Alexandra Lara Empresa Individual de Responsabilidad Limitada", el vencimiento de la boleta bancaria de garantía, con antelación y solicitó su renovación sin que aquellas hayan dado cumplimiento a lo solicitado, ni hayan tomado contacto posterior con algún profesional de esta Secretaría, razón por la cual se tramitó el cobro de dichas garantías.
+
+3) Que, conforme a la cláusula décimo octava del CRAT vigente con las Entidades: "El presente Convenio tendrá una duración de dos años y será renovado tácita y automáticamente por períodos iguales y sucesivos". "Una vez concluido el primer período de dos años, cualquiera de las partes podrá manifestar su voluntad de poner término al presente Convenio mediante aviso por escrito a la otra parte con sesenta días corridos de anticipación a la fecha de término propuesta. En cualquier caso, el Convenio se entenderá vigente sólo respecto del cumplimiento de las obligaciones pendientes".
+
+4) Que, a la presente fecha, respecto de las 6 Entidades se ha cumplido el primer período de dos años de vigencia del CRAT.
+
+5) Que, en razón de lo expuesto, y de conformidad a los antecedentes tenidos a la vista y a lo establecido en los CRAT de las 6 Entidades Patrocinantes ya singularizadas, se ha estimado pertinente por la Seremi proceder al término de los mismos, en uso de la facultad referida.
+
+6) Que, dada la existencia de los proyectos de los Comités "Mejoramiento Villa El Bosque 2017-01" y "Ampliaciones Arauco 2017-02", ambos de la comuna de Arauco, a cargo de la Entidad/PSAT "Maurice André Dintrans Bauer", que no registran avance de obra efectivo, resulta evidente que aquella no se encuentra en condiciones de concluir las operaciones pendientes, debiendo el Serviu Región del Biobío adoptar las medidas para permitir la ejecución de las obras de los citados grupos, por lo que conforme a lo establecido en la cláusula décimo octava, inciso final del CRAT suscrito con dicha Entidad, el Serviu en acuerdo con la Seremi, podrá traspasar los proyectos y los servicios pendientes a otra Entidad con convenio vigente, o bien hacerse cargo directamente de estos proyectos.
+
+7) Que, finalmente, es menester dejar constancia de que se ignora el domicilio de las 6 Entidades Patrocinantes/PSAT en cuestión, toda vez que, previamente, de acuerdo a lo informado por el Departamento de Planes y Programas de Vivienda y Equipamiento, se visitaron las oficinas en cada uno de los domicilios o direcciones registradas por aquellas, informándose, en cada caso, que dichas Entidades ya no tienen su domicilio en esas direcciones, por lo cual concurre el requisito previsto en el inciso 3º del artículo 45 de la ley Nº 19.880 para proceder a notificar este acto administrativo mediante su publicación en el Diario Oficial; por lo que dicto la siguiente
+
+Resolución:
+
+1) Termínanse los Convenios Regionales de Asistencia Técnica suscritos con las Entidades Patrocinantes/PSAT "Ingeniería y Construcción Aguilera y Roa Limitada", "Entidad Patrocinadora y Consultora Lorena del Pilar Toro Leiva Empresa Individual de Responsabilidad Limitada", "Sociedad Inmobiliaria San Martín Limitada", "Entidad Patrocinante Alexandra Lara Empresa Individual de Responsabilidad Limitada" y "Maurice André Dintrans Bauer", aprobados mediante las resoluciones exentas señaladas en los Vistos Nº 1 al Nº 6.
+
+2) Fíjase como fecha de término de los respectivos Convenios el día sexagésimo corrido, a contar de la fecha de publicación del presente acto administrativo.
+
+3) Instrúyase al Serviu Región del Biobío traspasar los proyectos de los Comités "Mejoramiento Villa El Bosque 2017-01" y "Ampliaciones Arauco 2017-02", ambos de la comuna de Arauco y a cargo de la Entidad/PSAT "Maurice André Dintrans Bauer", a otra Entidad con convenio vigente, debiendo ésta gestionar la nueva vigencia de los certificados de subsidios, si fuese procedente.
+
+4) Notifícase el presente acto administrativo a las Entidades Patrocinantes "Ingeniería y Construcción Aguilera y Roa Limitada", "Entidad Patrocinadora y Consultora Lorena del Pilar Toro Leiva Empresa Individual de Responsabilidad Limitada", "Sociedad Consultora, Gestión Inmobiliaria y Comercial Badilla y Muñoz Limitada", "Empresa de Gestión Inmobiliaria San Martín Limitada", "Entidad Patrocinante Alexandra Lara Empresa Individual de Responsabilidad Limitada" y "Maurice André Dintrans Bauer", mediante publicación en el Diario Oficial, conforme al inciso 3º del artículo 45 de la ley Nº 19.880.
+
+5) Respecto del presente acto, y de conformidad a lo dispuesto en el artículo 59 de la ley Nº 19.880, concédase a las referidas Entidades un plazo de cinco días hábiles para interponer el recurso de reposición y, en subsidio, el recurso jerárquico para ante el Sr. Ministro de Vivienda y Urbanismo.
+
+Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- James Argo Chávez, Secretario Regional Ministerial de Vivienda y Urbanismo Región del Biobío.
+
+Lo que transcribo a Ud. para su conocimiento y fines pertinentes.- Eduardo Canessa Díaz, Encargado Unidad de Administración, Ministro de Fe.
