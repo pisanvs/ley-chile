@@ -190,7 +190,7 @@ La consulta ciudadana es un mecanismo de participación ciudadana mediante el cu
 
 Procederá a propuesta del Alcalde con la aprobación de la mayoría absoluta del Concejo Municipal.
 
-Se convocará por intermedio de decreto alcaldicio, que deberá publicarse a lo menos treinta días corridos antes de la fecha de la consulta. El decreto deberá señalar con claridad el objeto de ésta, quiénes están convocados a participar, las materias objeto de consulta, la oportunidad y el lugar de su realización, y todos los demás antecedentes necesarios para el adecuado desarrollo de la consulta.
+Se convocará por intermedio de decreto alcaldicio, que deberá publicarse a lo menos 10 días corridos antes de la fecha de la consulta. El decreto deberá señalar con claridad el objeto de ésta, quienes están convocados a participar, las materias objeto de consulta, la oportunidad y el lugar de su realización, y todos los demás antecedentes necesarios para el adecuado desarrollo de la consulta.
 
 Para definir la convocatoria de la consulta se considerará el interés y la afectación de las personas respecto a la materia consultada o territorio afectado.
 
