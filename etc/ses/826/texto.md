@@ -444,15 +444,17 @@ Si un caballo ha sido importado con el fin de participar en una carrera determin
 
 <!-- parte:9024787 -->
 
-La inscripción con datos o documentos falsos, la suplantación de un caballo y todo engaño con que se pretenda sorprender la buena fe de la Oficina de Stud Book y Estadística, deberán ser sancionados por el Consejo Superior de la Hípica Nacional, previo informe de la Comisión de Stud Book y Estadística, con las siguientes penas:
+La inscripción con datos o documentos falsos, la suplantación de un caballo y todo engaño con que se pretenda sorprender la buena fe de la Oficina de Stud Book y Estadística, deberán ser sancionados por el Consejo Superior de la Hípica Nacional, previo informe de la Comisión de Stud Book y estadística, con las siguientes penas:
 
 a) Los caballos que hayan sido objeto de fraude, serán distanciados e inscritos en el Libro de Forfeits;
 
 b) Las personas que resultaren culpables, serán inscritas en el Libro de Forfeits;
 
-c) Las demás personas que aparecieren comprometidas en el hecho, serán castigadas con multa, que para estos efectos fijará el Consejo Superior de la Hípica Nacional, y
+c) Las demás personas que aparecieren comprometidas en el hecho, serán castigadas con multa, que para estos efectos fijará el Consejo Superior de la Hípica Nacional;
 
-d) Si el autor del fraude fuera propietario de caballos de carrera, se inscribirán en el Libro de Forfeits a todos los animales de su propiedad inscritos en el Stud Book de Chile. Mientras se halle pendiente la tramitación del proceso respectivo, no podrá traspasar o arrendar ninguno de los caballos de su propiedad o en los cuales tenga participación. Lo dispuesto precedentemente no obsta a que el Consejo Superior de la Hípica Nacional pueda actuar de oficio o por denuncia pública.
+d) Si el autor del fraude fuera propietario de caballos de carrera, se inscribirán en el Libro de Forfeits a todos los animales de su propiedad inscritos en el Stud Book de Chile. Mientras se halle pendiente la tramitación del proceso respectivo, no podrá traspasar o arrendar ninguno de los caballos de su propiedad o en los cuales tenga participación. Lo dispuesto precedentemente no obsta a que el Consejo Superior de la Hípica Nacional pueda actuar de oficio o por denuncia pública;
+
+e) El Directorio del Stud Book de Chile, previo informe de la Sección de Inspección de Criaderos, podrá eliminar del Registro de Haras y Criaderos a quienes hayan sido sorprendidos realizando inseminación artificial, clonación o doping genético. Posteriormente, deberá informar al Consejo Superior de la Hípica Nacional, quien determinará si se aplica la pena de Forfeit a él o los involucrados.
 
 #### Artículo 24
 
@@ -1268,7 +1270,7 @@ Ninguna persona podrá tener más de un seudónimo ni registrar dos colores dife
 
 <!-- parte:9024859 -->
 
-Si un propietario no hace uso de los colores o del seudónimo durante tres años consecutivos o al término de este plazo no los renueva, se considerarán por este solo hecho extinguidos.
+Si un propietario no hace uso de los colores o del seudónimo durante cinco años consecutivos o al término de este plazo no los renueva, se considerará por este solo hecho extinguido.
 
 #### Artículo 96
 
@@ -1402,9 +1404,7 @@ Sin perjuicio de las facultades que se le otorgan a la Comisión en el artículo
 
 <!-- parte:9024875 -->
 
-La Comisión de Patentes y Disciplina podrá rechazar de oficio las solicitudes presentadas, sin expresión de causa.
-
-Las solicitudes tramitadas y rechazadas por la Comisión de Patentes y Disciplina, no podrán ser consideradas nuevamente por ésta, hasta después de un año contado desde su rechazo.
+La Comisión de Patentes y Disciplina podrá rechazar de oficio las solicitudes presentadas, sin expresión de causa. Las solicitudes tramitadas y rechazadas por la Comisión de Patentes y Disciplina, no podrán ser consideradas nuevamente por ésta, hasta después de un año contado desde su rechazo. Este plazo será de tres años cuando el interesado sea sorprendido presentando información falsa o adulterada.
 
 #### Artículo 112
 
@@ -1432,7 +1432,7 @@ Quienes soliciten patente de preparador por primera vez, deberán cumplir con lo
 
 a) Ser mayor de edad;
 
-b) Haber cursado la enseñanza básica completa;
+b) Haber cursado la enseñanza media completa;
 
 c) Acreditar buenos antecedentes mediante el correspondiente certificado emanado del Gabinete Nacional de Identificación, sin perjuicio de la facultad que tendrá la Comisión para requerir mayor información de la autoridad correspondiente.
 
@@ -1450,7 +1450,7 @@ i) Presentar certificado de antecedentes de la conducta hípica observada por el
 
 j) Tener antecedentes comerciales intachables, lo que se acreditará con el correspondiente informe que al efecto deberá requerir la Comisión de Patentes y Disciplina.
 
-La Comisión de Patentes y Disciplina podrá otorgar patente de preparador a las personas que sin cumplir con algunos de los requisitos establecidos en las letras e) y g) del artículo anterior, ejerzan una profesión relacionada con el cuidado y atención de caballos de carrera o se encuentren inscritos en el Registro de Propietarios Autorizados con caballos en actividad, durante tres años consecutivos.
+La Comisión de Patentes y Disciplina podrá otorgar patente de preparador a las personas que sin cumplir con algunos de los requisitos establecidos en las letras b), e) y g) del párrafo anterior, ejerzan una profesión relacionada con el cuidado y atención de caballos de carrera o se encuentren inscritos en el Registro de Propietarios Autorizados con caballos en actividad, durante tres años consecutivos.
 
 #### Artículo 115
 
@@ -1718,7 +1718,7 @@ b) Firmar y cumplir los compromisos de monta que los preparadores deben entregar
 
 c) Usar en todas las carreras un casco de material sólido;
 
-d) Someterse a los controles de doping y medicamentación que determine la autoridad competente;
+d) Someterse a los controles de doping y medicamentación que determine la autoridad competente. Los hipódromos deberán establecer un control de doping y medicación para los jinetes que participen en las carreras públicas programadas por ellos, de acuerdo al reglamento que al efecto dictará cada hipódromo.
 
 e) Participar sólo en el número de carreras permitidas por el hipódromo respectivo para una misma reunión, las que en caso alguno podrán ser superior a diez, y
 
@@ -1836,7 +1836,7 @@ La Comisión de Patentes y Disciplina tendrá respecto de los capataces y cuidad
 
 Para que un preparador pueda solicitar por primera vez patente de capataz o de cuidador a un trabajador, éste deberá cumplir con los siguientes requisitos:
 
-a) Tener 14 años de edad a lo menos;
+a) Tener 18 años de edad a lo menos;
 
 b) Haber cursado o acreditar fehacientemente estar cursando como mínimo el sexto año de educación básica;
 
@@ -3004,13 +3004,13 @@ Las sanciones aplicables a las violaciones de este Título y su Reglamento, esta
 
 <!-- parte:9025048 -->
 
-La detección en una cuarta oportunidad de drogas con una sanción de Tipo B, dentro de un periodo de tres años desde la tercera vez, será sancionada con el retiro permanente de la patente de preparador.
+La detección en una cuarta oportunidad de drogas con una sanción de Tipo B dentro de un periodo de tres años desde la tercera vez, será sancionada con el doble de la suspensión y multa estipuladas para la 3ª vez.
 
 #### Artículo 285
 
 <!-- parte:9025049 -->
 
-Las sanciones aplicables a las violaciones de este Instrumento y su Reglamento, establecidas como Tipo C serán las siguientes:
+Las sanciones aplicables a las violaciones de este instrumento y su Reglamento, establecidas como Tipo C serán las siguientes:
 
 .
 
@@ -3018,7 +3018,7 @@ Las sanciones aplicables a las violaciones de este Instrumento y su Reglamento, 
 
 <!-- parte:9025050 -->
 
-La detección en una cuarta oportunidad de alguna droga con una sanción de Tipo C, dentro de un periodo de tres años desde la tercera vez, será sancionada con el doble de la suspensión estipulada en la tercera vez para el Tipo C y una multa de 240 UF.
+La detección en una cuarta oportunidad de drogas con una sanción de Tipo C dentro de un periodo de tres años desde la tercera vez, será sancionada con el doble de la suspensión y multa estipuladas para la 3ª vez.
 
 #### Artículo 287
 
@@ -3040,6 +3040,8 @@ El uso de Furosemida y Fenilbutazona en caballos fina sangre menores de tres añ
 
 No obstante, en aquellas carreras en que su uso se encuentre regulado, las sanciones establecidas para aquellas muestras con concentraciones superiores a las toleradas serán las siguientes:
 
+.
+
 #### Artículo 289
 
 <!-- parte:9025053 -->
@@ -3060,9 +3062,19 @@ El Hipódromo deberá adoptar todas las medidas necesarias para evitar que el Pr
 
 <!-- parte:9025055 -->
 
-El Preparador sancionado por doping, podrá designar un Preparador Asistente, pudiendo ser cualquier persona que al momento de la designación tenga patente vigente de Preparador o Capataz.
+El Preparador sancionado por doping deberá designar un Preparador Asistente, pudiendo ser cualquier persona que, al momento de la notificación de la infracción, tenga patente vigente de Preparador o Capataz. Dicha designación deberá hacerse dentro de los 30 días corridos siguientes a la notificación de la sanción por parte del Consejo Superior de la Hípica y la omisión de hacerlo implicará la cancelación de la Patente del Preparador Titular sancionado, la que sólo podrá solicitarse nuevamente una vez que haya transcurrido un año contado desde el cumplimiento de la sanción que se le impuso.
 
-Las sanciones en que este Preparador Asistente incurra, constituirán una reincidencia del Preparador Titular y serán también aplicadas en forma solidaria al "Preparador Asistente", el cual quedará imposibilitado de continuar subrogando al Preparador Titular. El Preparador Titular podrá continuar percibiendo los premios que le correspondan por la participación de sus ejemplares, lo que es sin perjuicio de los arreglos económicos que este último acuerde con el Preparador Asistente, los que deberán constar por escrito.
+En caso que el Preparador Asistente tenga patente de Capataz y resulte positivo en Control Doping en caballos bajo su responsabilidad como asistente, perderá su calidad de asistente, la cual no podrá ejercer mientras dure la suspensión del Preparador Titular, y se anotará en su hoja de vida, manteniendo su calidad de capataz. Las sanciones por doping en las que incurra el Capataz como asistente serán aplicadas al Preparador Titular, y constituirán una causal de reincidencia para este último. El Capataz designado como "Preparador Asistente" continuará percibiendo los porcentajes que le correspondan como Capataz, por la participación de los F.S. inscritos a su nombre. El periodo en que el Capataz se desempeña como "Preparador Asistente" se contará en su hoja de vida exclusivamente como "Capataz", y para obtener la Patente de Preparador deberá cumplir con todas las exigencias previstas en el Reglamento de Carreras de Chile, sin excepciones.
+
+En caso que el Preparador Asistente tenga patente de Preparador y resulte positivo en Control Doping con caballos bajo su responsabilidad como asistente, perderá su calidad de asistente, y el tiempo de suspensión y multa aplicables se dividirán en partes iguales entre el Preparador Titular y el Preparador Asistente, anotándose en ambas hojas de vida, y se computará para los efectos de reincidencias.
+
+Si la sanción correspondiera solamente a una multa, para que el Preparador Asistente designado pueda continuar asistiendo al Preparador Titular, ésta deberá ser pagada en el plazo de 5 días hábiles contados desde la notificación de la sanción respectiva.
+
+El Preparador Titular podrá continuar percibiendo los premios que le correspondan por la participación en carrera de sus ejemplares, lo que es sin perjuicio de los arreglos económicos que este último acuerde con el Preparador Asistente, los que deberán remitirse por escrito a los Hipódromos.
+
+En cualquier caso, el Preparador Titular será responsable del cumplimiento de las obligaciones laborales y previsionales con sus trabajadores.
+
+Las figuraciones de los ejemplares a cargo del "Preparador Asistente", serán contabilizadas a nombre del Preparador Titular.
 
 #### Artículo 292
 
