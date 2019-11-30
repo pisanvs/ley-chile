@@ -54,7 +54,7 @@ Decreto:
 
 #### Artículo 1º
 
-Declárase Alerta Sanitaria en las regiones de Tarapacá, Antofagasta, Valparaíso, Maule, Metropolitana y La Araucanía y a las provincias de Concepción en la Región del Biobío y de Llanquihue en la Región de Los Lagos, para enfrentar la emergencia de salud producida por las circunstancias señaladas en los considerandos del presente decreto.
+Declárase Alerta Sanitaria en las regiones de Tarapacá, Antofagasta, Coquimbo, Valparaíso, Maule, Metropolitana y la Araucanía y a las provincias de Concepción y Arauco en la Región del Biobío y de Llanquihue en la Región de Los Lagos, para enfrentar la emergencia de salud producida por las circunstancias señaladas en los considerandos del presente decreto.
 
 #### Artículo 2º
 
@@ -112,7 +112,7 @@ Otórgase a las Secretarías Regionales Ministeriales de Salud de las regiones s
 
 #### Artículo 4º
 
-Otórgase a los Servicios de Salud de Iquique, Antofagasta, Valparaíso - San Antonio, Viña del Mar - Quillota, Aconcagua, Maule, Concepción, Talcahuano, Araucanía Norte, Araucanía Sur, Reloncaví y Central, Sur, Sur - Oriente, Oriente, Norte y Occidente de la Región Metropolitana, facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
+Otórgase a los Servicios de Salud de Iquique, Antofagasta, Coquimbo, Valparaíso - San Antonio, Viña del Mar - Quillota, Aconcagua, Maule, Concepción, Talcahuano, Arauco, Araucanía Norte, Araucanía Sur, Reloncaví y Central, Sur, Sur - Oriente, Oriente, Norte y Occidente de la Región Metropolitana, facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
 
 1. Efectuar la contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requiera desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
@@ -208,7 +208,7 @@ Lo anterior, de conformidad con lo señalado en los convenios que previamente se
 
 #### Artículo 10º
 
-Los efectos de este decreto tendrán vigencia hasta el 1º de diciembre de 2019, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que estas no mejoren.
+Los efectos de este decreto tendrán vigencia hasta el 31 de diciembre de 2019, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que éstas no mejoren.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Jaime Mañalich Muxi, Ministro de Salud.
 
