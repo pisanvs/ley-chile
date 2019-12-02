@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP. Nº 1378 de 08 de noviembre de 2019, se modificó el numeral segundo del Decreto Exento MOP. Nº385 de 19 de mayo de 2017, en lo que respecta al rol de avalúo y nombre de propietario del lote Nº55, quedando como a continuación se indica: propietario según S.I.I. REBOLLEDO RAMIREZ MARIA RAQUEL, rol de avalúo 166-88 ubicado en la comuna de San Clemente, superficie 198 m2.
