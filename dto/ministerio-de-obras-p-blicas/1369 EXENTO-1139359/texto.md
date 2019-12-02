@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1369, de 08 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 2, para la obra: CONSERVACION RED VIAL MAULE (2015-2016-2017), PUENTE DOÑA TORIBIA, RUTA M-500, que figura a nombre de GAVILAN VALDEBENITO GASTON ENRIQUE, rol de avalúo 446-44, Comuna de CAUQUENES, REGION DEL MAULE, superficie 648 m2. La Comisión de Peritos integrada por ALICIA BARBARA FLORES PACHECO, PATRICIO ULISES DURAN MARCOS y PAULA SOLEDAD GONZALEZ ORTEGA, mediante informe de tasación de 09 de enero de 2018, fijó el monto de la indemnización provisional en la cantidad de $1.884.600 para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
