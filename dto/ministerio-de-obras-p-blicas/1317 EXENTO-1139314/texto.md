@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1317, de 30 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14 letra e) y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 107 y 108, para la obra: MEJORAMIENTO CAMINO 64D305 ALTOVALSOL - LAS ROJAS - PELICANA, que figuran a nombre de INVERSIONES AMANECER LTDA, roles de avalúo 414-16, Comuna de VICUÑA, REGION DE COQUIMBO, superficies 110 y 140 m2. respectivamente. La Comisión de Peritos integrada por PABLO JAVIER FLORES SALINAS, LUIS FELIPE MUÑOZ CARVAJAL y MAURICIO ANDRES ANDUEZA PEREZ, mediante informe de tasación de 14 de junio de 2019, fijó el monto de la indemnización provisional en la cantidad de $4.428.900 para el lote N°107 y $2.620.000, para el lote N°108. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el articulo 7° del Decreto Ley N° 2186, de 1978.
+
+.
