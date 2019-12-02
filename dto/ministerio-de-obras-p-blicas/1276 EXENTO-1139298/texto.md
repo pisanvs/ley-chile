@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 1276, de 24 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y del DFL. MOP. N°206, de 1960, se expropió el lote de terreno N° 20-K2, para la obra "Construcción Rta 7.S: Pichanco - Sta Barbara (Expropiación Varios Tramos", Tramo Huinay Leptepú", que figura a nombre de REHBEIN ZUNIGA INGRID MARLENE, rol de avalúo EN TRAMITE, Comuna de HUALAIHUE, Región de Los Lagos, superficie 1.107 m2. La Comisión de Peritos integrada por NELSON BERNARDO TURRA TURRA, JUAN CELESTINO GIOVANNINI MANSILLA y LEOPOLDO RAMÓN SCHUMACHER GUARDA, mediante informe de tasación de 21 de noviembre de 2017, fijó el monto de la indemnización provisional en la cantidad de $808.110.- para el lote N° 20-K2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
