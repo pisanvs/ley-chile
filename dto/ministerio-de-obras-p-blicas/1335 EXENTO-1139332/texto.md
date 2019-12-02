@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1335 de 30 de octubre de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 12-B para la obra: RELICITACION CONCESIÓN CAMINO NOGALES - PUCHUNCAVI. SECTOR: SECTOR 2 (BY PASS A RUTA F 30E). SUBSECTOR: BY PASS PUCHUNCAVI. TRAMO: KM 25.500,00 AL 33.000,00, Región de Valparaíso, que figura a nombre de AGRICOLA EL REFUGIO LTDA, rol de avalúo 192-3, comuna de Puchuncaví, superficie 140.816 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 250 de 8 de agosto de 2019, integrada por Gustavo Eduardo Picero García, Andrés Echeverría Campo y Mónica del Carmen Conejeros Rudloff, fijó con fecha 6 de septiembre de 2019, el valor provisional de las indemnizaciones en la cantidad de $1.516.780.200 para el lote N° 12-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
