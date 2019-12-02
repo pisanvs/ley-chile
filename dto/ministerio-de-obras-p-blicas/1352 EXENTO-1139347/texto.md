@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N° 1352, de 08 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s. 4 y 5, para la obra: CONCESIÓN INTERNACIONAL RUTA 5 TRAMO CHILLÁN - COLLIPULLI FACILIDADES PEATONALES SECTOR PIEDRA AMARILLA, que figuran a nombre de MARTINEZ ASSMANN RUTH ISABEL, rol de avalúo 601-239, Comuna de MULCHEN, REGIÓN DEL BIOBÍO, superficies 678 y 90 m2. respectivamente. La Comisión de Peritos integrada por VICTOR MARCELO SOTO TRONCOSO, JESSICA PAOLA CORTÉS RODRÍGUEZ y EDUARDO ALEJANDRO SILVA ARACENA, mediante informe de tasación de 27 de agosto de 2019, fijó el monto de la indemnización provisional en las cantidades de $933.400.- para el lote N°4 y $153.000.- para el lote N°5. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
