@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 3.422 de 19 de noviembre de 2019, el Serviu Región de Los Lagos ordenó expropiación lote terreno N° 116f para la ejecución Proyecto "Mejoramiento Avenida Presidente Ibáñez de la ciudad de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Manríquez Soto Denise del Pilar, rol de avalúo según SII N° 1350-37, comuna de Puerto Montt, superficie de 135,78 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher G., Enrique Hoelck A. y Raúl Palma L., designados por resolución exenta N° 1.046, de 5 de abril de 2019, fijó con fecha 29 de abril de 2019 el valor provisional de la indemnización en la suma de $206.292.100.- La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del decreto ley N° 2.186.-
+
+Director Serviu, Región de Los Lagos.
