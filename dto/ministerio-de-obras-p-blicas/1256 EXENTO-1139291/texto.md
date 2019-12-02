@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N° 1256, de 24 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N° 15.840 y del DFL MOP N° 206 de 1960, se expropió el lote de terreno N° 126, para la obra: REPOSICIÓN RUTA A-27, SECTOR LOTEO MONTALVO - SAN MIGUEL DE AZAPA, que figura a nombre de ASTRAIN DONOSO MARTA FRANCISCA Y OT, rol de avalúo 3420-360, Comuna de ARICA, REGIÓN DE ARICA Y PARINACOTA, superficie 174 m2. La Comisión de Peritos integrada por LUIS BERNARDO AGUILERA CABRERA, ANGÉLICA YANETT SEURA ROJAS y CLAUDIO ANDRÉS CONCHA GROSSI, mediante informe de tasación de 30 de octubre de 2013, fijó el monto de la indemnización provisional en la cantidad de $9.790.000 para el lote N° 126. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
