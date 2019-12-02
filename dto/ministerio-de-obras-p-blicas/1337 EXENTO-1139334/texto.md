@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1337 de 30 de octubre de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 3 para la obra: CONCESIÓN INTERNACIONAL RUTA 5. TRAMO CHILLAN - COLLIPULLI. FACILIDADES PEATONALES SECTOR PIEDRA AMARILLA, Región del Biobío, que figura a nombre de FORESTAL MININCO S.A, rol de avalúo 628-12 de la comuna de Mulchén, superficie 1.125 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 215 de 12 de julio de 2019, integrada por Jessica Paola Cortés Rodríguez, Eduardo Alejandro Silva Aracena y Víctor Marcelo Soto Troncoso, fijó con fecha 27 de agosto de 2019, el valor provisional de la indemnización en la cantidad de $1.912.500 para el lote Nº 3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
