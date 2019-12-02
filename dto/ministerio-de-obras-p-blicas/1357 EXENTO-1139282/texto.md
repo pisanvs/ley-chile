@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP. N° 1357 de 08 de noviembre de 2019, se modificó el numeral segundo del Decreto Exento MOP. N°761 de 25 de septiembre de 2014, en lo que respecta al rol de avalúo y nombre de propietario del lote N°85, quedando como a continuación se indica: propietario según S.I.I. OPAZO HERRERA MARIO DEL C., rol de avalúo 242-51, ubicado en la comuna de CHANCO, superficie 1.300 m2.
