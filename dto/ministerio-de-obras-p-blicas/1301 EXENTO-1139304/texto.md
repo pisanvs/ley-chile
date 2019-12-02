@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 1301, de 24 de octubre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e), y 105° del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y D.F.L. M.O.P N°206, de 1960, se expropió el lote de terreno N° 88-A, para la obra "Mejoramiento Rutas S/Rol, T-981-U S: Crucero-Entrelagos", que figura a nombre de SOCIEDAD AGRICOLA DELMEN LIMITAD, rol de avalúo 528-22, Comuna de Rio Bueno, Región de Los Ríos, superficie 595 m2. La Comisión de Peritos integrada por Patricio Fernando Casagrande Ulloa, Yaschala Maribel Yáñez Riffo y María Soledad Núñez Arroyo, mediante informe de tasación de 10 de diciembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $2.547.950.- para el lote N° 88-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
