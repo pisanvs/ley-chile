@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1381, de 20 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.1, 2, 3, para la obra: SISTEMA DE AGUA POTABLE RURAL LAS CANTERAS, que figura a nombre de PACHECO ESCALANTE VICTOR MANUEL, SOCIEDAD EL PORTEZUELO LTDA y TEODORO SELIS LAHSEN HEREDIA Y OTRO, roles de avalúo 592-2, 166-144 y 1097-04, Comuna de COLINA, REGIÓN METROPOLITANA, superficies 81, 200 y 118 m2 respectivamente. La Comisión de Peritos integrada por PATRICIO ANTONIO RIVERA CASTRO, ANDRES ECHEVERRIA CAMPO y ANDRES ANIBAL RISSO CAAMAÑO, mediante informe de tasación de 18 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $2.308.500 para el lote Nº1, $6.636.533 para el lote Nº2 y $12.442.000 para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
