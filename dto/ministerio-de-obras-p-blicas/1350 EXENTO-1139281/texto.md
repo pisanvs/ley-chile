@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decretos Exentos MOP. Nºs 1349 y 1350, ambos de 08 de noviembre de 2019, se desistió de la expropiación de los lotes Nºs. 3 y 28, los cuales fueron expropiados mediante Decretos MOP. (Exento) Nºs. 1690, de 16 de octubre de 2013 y 1853, de 30 de octubre de 2013, correspondiente a la obra "Construcción Entubamiento Canal Azapa", Comuna de Arica, Región de Arica y Parinacota, los cuales experimentaron un cambio de trazado.
