@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 5.061, de fecha 23 de octubre de 2019, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186, de 1978, del denominado Lote Nº TER-H5, correspondiente al inmueble ubicado en Av. Las Torres 1266 LT A 55 El Rosal, Rol de Avalúo Nº 3121-16, de la Comuna de Huechuraba, Región Metropolitana, de aparente dominio de Inversiones Mañio Ltda., con una superficie aproximada de 2.689,43 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Expropiaciones inmuebles destinados a Terminales de Locomoción Colectiva". La Comisión de Peritos integrada por los señores Karine Elke Acevedo Hinojosa, Constructor Civil; Juan Guillermo Söhrens Péndola, Arquitecto y Sergio Jeremías Órdenes Salinas, Ingeniero Civil, mediante Informe de fecha 15 de octubre de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $613.331.680.- que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Director Serviu Metropolitano.
