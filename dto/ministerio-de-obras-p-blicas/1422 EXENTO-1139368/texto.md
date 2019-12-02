@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1422, de 20 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL, MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs,1, 2-A, 2-B y 3, para la obra: MEJORAMIENTO RUTA B-241, EJE LICANCABUR, PASADA URBANA SAN PEDRO DE ATACAMA, que figura a nombre de SEGOVIA HENRIQUEZ ALICIA Y OTRA, rol de avalúo 3515-133, Comuna de SAN PEDRO DE ATACAMA, REGION DE ANTOFAGASTA, superficies 2.332, 847, 244 y 2.526 m2 respectivamente. La Comisión de Peritos integrada por RAYEN GUZMAN THEODULOZ, RODRIGO ESCOBAR FERNANDEZ y CARLOS ALBERTO MONTECINOS GALLEGUILLOS, mediante informe de tasación de 30 de junio de 2018, fijó el monto de la indemnización provisional en la cantidad de $96.552.082 para el lote Nº1, $37.330.497 para el lote Nº2-A, $13.254.714 para el lote Nº2-B, y $118.442.316 para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
