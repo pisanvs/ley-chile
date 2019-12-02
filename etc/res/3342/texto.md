@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 3.342 de 7 de noviembre de 2019, el Serviu Región de Los Lagos ordenó expropiación lote terreno Nº 20 para la ejecución Proyecto "Mejoramiento Avenida Ejército, Tramo Yuraszeck, Seminario, comuna de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Jiménez Jofré Marcelo y Otros, Rol de avalúo según SII Nº 750-9, comuna de Puerto Montt, superficie de 442,65 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher G., Enrique Hoelck A. y Raúl Palma L., designados por resolución exenta Nº 2897 de 17 de septiembre de 2019, fijó con fecha 15 de octubre de 2019 el valor provisional de la indemnización en la suma de $68.168.100. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7º del decreto Ley Nº 2186.
+
+Director Serviu Región de Los Lagos.
