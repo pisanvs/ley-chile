@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1333 de 30 de octubre de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 249-2A para la obra: CONCESIÓN PARA EL MEJORAMIENTO Y CONSERVACIÓN DE LA RUTA 43 DE LA REGIÓN DE COQUIMBO. TRAMO 1 RUTA 43: OVALLE - INICIO BY PASS PAN DE AZUCAR. KM. 5.880,00 A KM. 61.800,00, Región de Coquimbo, que figura a nombre de ARCE CERDA HECTOR DOMINGO, rol de avalúo 3156-37, comuna de Coquimbo, superficie 1.507 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 233 de 5 de agosto de 2019, integrada por Andrés Aníbal Risso Caamaño, Fabiola del Pilar Rojas Cortés y Felipe Antonio Suckel Figueroa, fijó con fecha 6 de septiembre de 2019, el valor provisional de las indemnizaciones en la cantidad de $8.915.500 para el lote Nº 249-2A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
