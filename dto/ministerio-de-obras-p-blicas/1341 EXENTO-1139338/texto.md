@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1341 de 30 de octubre de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 37-2 para la obra: CONCESIÓN VIAL PUENTE INDUSTRIAL. SECTOR A: ENLACE COSTANERA - RIBERA NORTE RIO BIO BIO, Región del Biobío, que figura a nombre de INMOBILIARIA LAS TEJAS LIMITDA, rol de avalúo 7021-1 de la comuna de Hualpén, superficie 31.999 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 225 de 24 de julio de 2019, integrada por Gabriel Antonio Pantoja Rivera, Carlos Alberto Montecinos Galleguillos y Cristián Andrés Cáceres Vargas, fijó con fecha 20 de agosto de 2019, el valor provisional de la indemnización en la cantidad de $947.406.500 para el lote N° 37-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
