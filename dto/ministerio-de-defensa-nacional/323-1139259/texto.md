@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 323, de 8 de agosto de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Pesquera Fiordo Austral S.A., RUT N° 76.041.492-1, concesión marítima menor, con vencimiento al 30 de junio de 2024, sobre un sector de Porción de Agua de Mar, en el lugar denominado Bahía Lotilla, comuna de Lota, Provincia de Concepción, Región del Biobío, con una superficie total de 480,00 m2, la que fue tramitada con el SIABC N° 29.023. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 37°06'04,03 S - 73°09'39,11 W. El objeto consiste en amparar la instalación y uso de un pontón bomba flotante para la descarga de pescado, de hasta 1.500 TRG. Las obras consisten en amparar la instalación y uso de un pontón bomba flotante y el plazo contemplado para su ejecución es de doce meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Lota.- El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Ignacio Cambiaso Ibarra, Capitán de Corbeta LT, Capitán de Puerto de Lota.
