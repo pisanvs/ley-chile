@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 1260, de 24 de octubre de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14° letra e), y 105° del D.F.L. M.O.P. N°850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206, de 1960, se expropiaron los lotes de terreno N°s. 62-A y 62-B, para la obra: Reposición Pav. T-85 S: Río Bueno - Cayurruca, que figuran a nombre de SANTIBANEZ VERGARA LUIS ALBERTO y PARRA FUENTEALBA GLADYS ESTER, roles de avalúo 501-134 y 501-161, Comuna de RIO BUENO, Región de Los Ríos, superficies 1.051 m2 y 510 m2. Respectivamente. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, MARIA ISABEL RÍOS MARCUELLO y MARÍA SOLEDAD NÚÑEZ ARROYO, mediante informe de tasación de 12 de junio de 2017, fijó el monto de la indemnización provisional en la cantidad de $6.350.100.- para el lote N°62-A y $3.469.500.- para el lote N°62-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto ley N° 2186, de 1978.
+
+.
