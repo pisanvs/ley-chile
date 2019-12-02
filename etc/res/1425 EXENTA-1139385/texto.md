@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.425, 8 noviembre 2019, Serviu Región Arica y Parinacota, ordenó expropiación total, conforme artículo 51 ley 16.391, inmueble rol avalúo Nº8065-43, de la población Cerro Chuño, Manzana A, Sitio 19, ubicada en pasaje Las Tacas Nº1698, de la comuna y provincia de Arica, de una superficie de 100,21 metros cuadrados, y 168 metros cuadrados de construcción, de aparente dominio de doña Gilda del Carmen Castro Bacian, individualizado en el plano archivado bajo el Nº58 en el Archivo de Planos y Documentos del Conservador de Bienes Raíces de Arica del año 2000. Comisión integrada por peritos Sergio Carrasco Cruzat, Mario Zamorano Villablanca y Manuel Fuentes Marambio, todos Arquitectos, que fijó el monto de la indemnización provisional por la expropiación total, en la suma de $72.010.080.- La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.-
+
+Francisco Meza Hernández, Director Serviu Región Arica y Parinacota.
