@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1339 de 30 de octubre de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 21-A para la obra: RELICITACION CONCESIÓN CAMINO NOGALES - PUCHUNCAVI. SECTOR: SECTOR 1 (RUTA F-20). SUBSECTOR: RUTA 5 NORTE - PLAZA PEAJE. KM 0.000,00 AL KM 6.500,00, Región de Valparaíso, que figura a nombre de MENA MENA JUAN ROBERTO Y OTRO, rol de avalúo 171-192, comuna de Nogales, superficie 1.256 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 163 de 21 de junio de 2019, integrada por Valeria Francisca Madariaga Tordecilla, Carmen Pilar Ríos Marcuello y Ricardo Antonio Strickler Arellano, fijó con fecha 31 de julio de 2019, el valor provisional de las indemnizaciones en la cantidad de $49.824.000 para el lote Nº 21-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
