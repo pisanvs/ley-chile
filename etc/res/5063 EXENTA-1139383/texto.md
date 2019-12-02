@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 5.063, de fecha 23 de octubre de 2019, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186, de 1978, del denominado Lote Nº TER-P4, correspondiente al inmueble ubicado en E Cordero con Pie Andino LT B 2 Ex Fdo Peralillo, Rol de Avalúo Nº 3800-448, de la comuna de Puente Alto, Región Metropolitana, de aparente dominio de Servicio de Transporte de Person, con una superficie aproximada de 13.092,71 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Expropiaciones inmuebles destinados a Terminales de Locomoción Colectiva". La Comisión de Peritos integrada por los señores María Cristina Camus Palacios, Arquitecto; Andrés Echeverría Campo, Ingeniero Agrónomo y Leonardo Bastías Tessada, Constructor Civil, mediante Informe de fecha 15 de octubre de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $2.094.710.332.- que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Director Serviu Metropolitano.
