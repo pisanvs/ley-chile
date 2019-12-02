@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 1258, de 24 de octubre de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206, de 1960, se expropió el lote de terreno Nº 15, para la obra "CAMINO MEJORAMIENTO RUTA L-45, SECTOR ESCUELA LLEPO - EL PEÑASCO, TRAMO KILÓMETRO 13,10000 A KM. 20,13700", que figura a nombre de ESPINOZA ASTUDILLO MARIANA, rol de avalúo 557-318, Comuna de LINARES, REGIÓN DEL MAULE, superficie 181 m2. La Comisión de Peritos integrada por PAULA SOLEDAD GONZÁLEZ ORTEGA, ALICIA BARBARA FLORES PACHECO y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 14 de octubre de 2013, fijó el monto de la indemnización provisional en la cantidad de $168.800.- para el lote Nº 15. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
