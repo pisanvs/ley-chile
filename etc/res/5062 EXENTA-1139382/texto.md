@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 5.062, de fecha 23 de octubre de 2019, se ordenó la expropiación Total, conforme a las normas del decreto ley Nº 2.186, de 1978, del denominado Lote Nº TER-H4, correspondiente al inmueble ubicado en Av. A. Vespucio 761, P El Rosal, Rol de avalúo Nº 3120-134, de la Comuna de Huechuraba, Región Metropolitana, de aparente dominio de Lilian Hammer Krawczyk y otros, con una superficie aproximada de 3.243 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Programa "Expropiaciones inmuebles destinados a terminales de locomoción colectiva". La Comisión de Peritos integrada por los señores Karine Elke Acevedo Hinojosa, Constructor Civil; Juan Guillermo Söhrens Péndola, Arquitecto y Sergio Jeremías Órdenes Salinas, Ingeniero Civil, mediante Informe de fecha 15 de octubre de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $916.794.860.- que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2.186, de 1978.-
+
+Director Serviu Metropolitano.
