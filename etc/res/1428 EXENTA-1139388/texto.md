@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 1.428, 8 noviembre 2019, Serviu Región Arica y Parinacota, ordenó expropiación total, conforme artículo 51 ley 16.391, inmueble rol avalúo Nº8068-26, de la población Cerro Chuño, Sitio 8, ubicada en pasaje Ladislao Córdova Retamal Nº1726, de la comuna y provincia de Arica, de una superficie de 124,75 metros cuadrados, y 83,03 metros cuadrados de construcción, de aparente dominio de Alejo León Flores Tapia, individualizado en el plano archivado bajo el Nº59 en el Archivo de Planos y Documentos del Conservador de Bienes Raíces de Arica del año 2000. Comisión integrada por peritos Sergio Carrasco Cruzat, Mario Zamorano Villablanca y Manuel Fuentes Marambio, todos Arquitectos, que fijó el monto de la indemnización provisional por la expropiación total, en la suma de $34.666.850.- La indemnización provisional se pagará al contado. La publicación se efetúa conforme a lo dispuesto en el artículo 7 del decreto ley N° 2.186.-
+
+Francisco Meza Hernández, Director Serviu Región Arica y Parinacota.
