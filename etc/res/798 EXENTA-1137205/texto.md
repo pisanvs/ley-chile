@@ -110,6 +110,8 @@ Los expedientes deberán presentarse con la totalidad de los documentos señalad
 
 Los plazos correspondientes a cada hito del proceso de selección serán los siguientes:
 
+.
+
 Una vez terminada la fase de digitación, la Seremi realizará la selección de proyectos, en estricto orden de prelación de acuerdo a los factores establecidos en resuelvo N° 17 de la presente resolución, hasta enterar los recursos dispuestos para el proceso de selección.
 
 Una vez dictada la resolución de selección correspondiente, la Seremi deberá publicar un extracto de la resolución en el Diario Oficial. En tanto, Serviu, mediante un aviso en al menos un periódico de circulación regional, pondrá en conocimiento de los postulantes el lugar y la fecha en que serán publicadas las nóminas de los proyectos y beneficiarios seleccionados, conforme al artículo 27 del DS N° 255 (V. y U.), de 2006.
@@ -282,7 +284,7 @@ b) Copropiedades seleccionadas por segunda vez o posterior:
 
 En caso de implementarse obras de acondicionamiento térmico y/o eficiencia energética, el PSAT deberá desarrollar actividades de capacitación específicas en torno a dichos elementos, para residentes e integrantes del Comité de Administración.
 
-31. La Seremi, en coordinaci�n con el Serviu, tendrá la facultad de conocer y verificar todos los procedimientos realizados por los PSAT en el marco del presente llamado, pudiendo requerir documentación, proyectos, modificaciones de proyecto y/o contrato, así como todos los antecedentes necesarios para velar por la correcta implementación del Programa. Asimismo, podrá generar las orientaciones generales y/o específicas necesarias, dirigidas a propiciar una adecuada implementación regional del Programa.
+31. La Seremi, en coordinación con el Serviu, tendrá la facultad de conocer y verificar todos los procedimientos realizados por los PSAT en el marco del presente llamado, pudiendo requerir documentación, proyectos, modificaciones de proyecto y/o contrato, así como todos los antecedentes necesarios para velar por la correcta implementación del Programa. Asimismo, podrá generar las orientaciones generales y/o específicas necesarias, dirigidas a propiciar una adecuada implementación regional del Programa.
 
 32. En el caso de copropiedades seleccionadas, conformadas por 24 unidades o menos, que pertenezcan a un mismo conjunto habitacional y tengan contrato con la misma PSAT y Constructora; el Serviu podrá autorizar la agrupación de dichas copropiedades en un proyecto, a fin de establecer el inicio, avance, inspección y pago de obras de manera común, siempre que no se exceda de un total de 100 viviendas. Asimismo, de resultar pertinente, el Serviu podrá autorizar la realización conjunta de las actividades descritas en las letras a) i. y b) i. del resuelvo 30 de esta resolución.
 
