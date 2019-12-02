@@ -1,0 +1,7 @@
+SOLICITUD DE RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo de Marina 123, de fecha 6 de marzo de 2019, de Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se otorgó primera renovación de concesión marítima menor al señor Carlos Willi Arnold Albers Holzapfel, con vencimiento 31 de diciembre de 2023, sobre un sector de playa de lago y fondo de lago, en el lugar denominado Punta Huiña, comuna de Vichuquén, Provincia de Curicó, Región del Maule, con una superficie de 44,59 metros2. A modo referencial se señala la siguiente coordenada geográfica: Latitud 35º50'24,38"S, longitud 72º 02'27,14"W. El objeto de esta concesión marítima, sobre el sector otorgado, es continuar amparando la construcción existente de un atracadero sobre pilotes, para embarcaciones menores de 25 TRG., para brindar apoyo náutico a la propiedad.
+
+Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Constitución. El presente extracto se encuentra visado por la autoridad marítima antes señalada señor Juan Pablo Sánchez Baeza Teniente 1º LT, Capitán de Puerto de Constitución.-
+
+Juan Pablo Sánchez Baeza, Capitán de Corbeta LT, Capitán de Puerto de Constitución.
