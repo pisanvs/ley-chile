@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1331, de 30 de octubre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10 letra c), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº 7, para la obra "Construcción Hospital Bi Provincial Quillota Petorca", que figura a nombre de SEPULVEDA PINTO IVONNE, rol de avalúo 328-125, Comuna de Quillota, Región de Valparaíso, superficie 442 m2. La Comisión de Peritos integrada por IRMA DIAZ RIVEROS, CLAUDIA ARELLANO GÓMEZ y MARÍA ISABEL RÍOS MARCUELLO, mediante informe de tasación de 03 de marzo de 2018, fijó el monto de la indemnización provisional en la cantidad de $16.026.000.- para el lote Nº 7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscalía MOP.
