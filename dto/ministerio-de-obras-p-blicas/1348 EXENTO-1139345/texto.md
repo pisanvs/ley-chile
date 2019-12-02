@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº 1348, de 08 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10 letra c), 14º letra e) y 105º del DFL. MOP. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y del DFL MOP. Nº206, de 1960, se expropió el lote de terreno Nº 1, para la obra "Construcción Hospital Bi Provincial Quillota Petorca", que figura a nombre de INST HNOS MARISTAS ENSEÑANZA, rol de avalúo 328-15, Comuna de Quillota, Región de Valparaíso, superficie 1.612 m2. La Comisión de Peritos integrada por IRMA DIAZ RIVEROS, CLAUDIA ARELLANO GÓMEZ y MARÍA ISABEL RÍOS MARCUELLO, mediante informe de tasación de 03 de maro de 2018, complementada por acta de fecha 14 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $175.565.200.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
