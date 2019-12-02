@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1338 de 30 de octubre de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 80 para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVI. SECTOR: SECTOR 1 (RUTA F-20). SUBSECTOR: PLAZA PEAJE - FIN CUESTA. KM 6.500,00 AL KM 19.000,00, Región de Valparaíso, que figura a nombre de FERNANDEZ BRANTES JUAN JOSE, rol de avalúo 188-8, comuna de Puchuncaví, superficie 1.825 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 70 de 5 de abril de 2019, integrada por Mufida Viola Abuawad Elias, Dory Gisela Donoso Salgado y Carmen Andrea Alarcón Montecino, fijó con fecha 13 de mayo de 2019, el valor provisional de las indemnizaciones en la cantidad de $2.422.500 para el lote N° 80. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
