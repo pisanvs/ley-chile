@@ -1,0 +1,5 @@
+EXTRACTO
+
+Resolución exenta N° 4.695, de 21 de octubre de 2019, la Municipalidad de Frutillar ordenó expropiación lote terreno N° 3 para la ejecución Proyecto "Construcción Calle Nueva Nueve", comuna de Frutillar, Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Urzúa Winkler José Domingo Eduardo y otros, rol de avalúo según SII N° 243-9, comuna de Frutillar, superficie de 1.224,20 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher Guarda, Nelson Turra Turra y Juan Barrientos Bahamonde, designados por resolución exenta N° 2.932, del 9 de julio de 2019, fijó con fecha 9 de agosto de 2019 el valor provisional de la indemnización en la suma de $6.121.000.- La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del decreto de ley N° 2.186.-
+
+Alcalde de la Municipalidad de Frutillar.
