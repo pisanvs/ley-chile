@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1361, de 08 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14 letra e) y 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 2, para la obra: MEJORAMIENTO RUTA H-702 SECTOR LIMAHUE, que figura a nombre de NAVARRETE YANEZ JAIME LEONARDO, rol de avalúo 117-206, Comuna de MALLOA, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficie 350 m2. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y LORENA ELIZABETH GAJARDO ALARCON, mediante informe de tasación de 27 de junio de 2017, fijó el monto de la indemnización provisional en la cantidad de $10.197.000 para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº 2186, de 1978.
+
+.
