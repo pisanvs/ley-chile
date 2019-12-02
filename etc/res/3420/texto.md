@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución N° 3.420 de 19 de noviembre de 2019, el Serviu Región de Los Lagos ordenó expropiación lote terreno N° 116b para la ejecución Proyecto "Mejoramiento Avenida Presidente Ibáñez de la ciudad de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Soto Velásquez Ramón, rol de avalúo según SII N° 1350-24, comuna de Puerto Montt, superficie de 83,12 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher G., Enrique Hoelck A. y Raúl Palma L., designados por resolución exenta N° 1.046, de 5 de abril de 2019, fijó con fecha 29 de abril de 2019 el valor provisional de la indemnización en la suma de $33.262.400.- La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7° del decreto ley N° 2.186.-
+
+Director Serviu, Región de Los Lagos.
