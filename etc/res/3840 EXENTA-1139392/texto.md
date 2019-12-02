@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución ex. N° 3.840 de fecha 22/11/2019, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Avenida Andes entre Avenida Alemania y Valladolid, Temuco", Serviu Región de la Araucanía ordenó la expropiación parcial del bien raíz denominado Lote A de una superficie aproximada de 5.500 metros cuadrados, que corresponde a Avenida Los Andes número seiscientos veinte de la comuna de Temuco, Rol de avalúo 1428-7, comuna de Temuco. La superficie a expropiar aproximada es de 1.146,43 metros cuadrados, de aparente dominio de Corporación Educacional El Bosque. Comisión de Peritos integrada por Marcela Alejandra Melo Rodríguez, Oscar Alexis Nova Sepúlveda y Jorge Fernando Contreras Melo, fijó monto de Indemnización Provisional en $606.023.113 según Informe N° 02-1 de fecha 22/11/2019, pagadero contado.-
+
+Director (S) Serviu Región de la Araucanía.
