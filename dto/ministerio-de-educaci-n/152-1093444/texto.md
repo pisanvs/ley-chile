@@ -106,6 +106,8 @@ Los establecimientos que en virtud del artículo 22 del decreto N° 315, de 2010
 
 Asimismo el sostenedor que reduzca la matrícula del establecimiento, limitando el número de cupos totales de un determinado curso, deberá asegurar siempre la continuidad de todos los estudiantes que se encuentren matriculados en el curso precedente, indicando además, que en caso de liberarse cupos por cualquier causa, no generará nuevos cupos para efectos de la admisión del año siguiente, salvo que éste sea inferior al número de cupos totales que desea reducir, pudiendo en tal caso, completar hasta dicho número de cupos totales reportados para el curso respectivo mediante el proceso de admisión.
 
+En casos excepcionales, el Subsecretario de Educación podrá, mediante resolución fundada, otorgar un nuevo plazo para informar estructuras de cursos, debiendo siempre cumplir con los requisitos establecidos en el artículo 22 del decreto Nº 315, de 2010, del Ministerio de Educación para su autorización por la Secretaría Regional Ministerial de Educación respectiva. Las solicitudes que aumenten los cupos totales por la autorización de una nueva estructura de cursos posterior al reporte de cupos, podrán incorporar los nuevos cupos a la etapa que corresponda.
+
 #### Artículo 9º
 
 Cuando el sostenedor no reportase los cupos totales en la fecha que estipule el calendario de admisión para todos o alguno de los cursos de un determinado establecimiento, se entenderá que no cuenta con nuevas vacantes para el año escolar siguiente para dicho curso o cursos, estableciéndose los cupos para los estudiantes actualmente matriculados para el respectivo curso o cursos del año siguiente, con el fin de preservar la continuidad de sus estudios.
@@ -113,6 +115,8 @@ Cuando el sostenedor no reportase los cupos totales en la fecha que estipule el 
 #### Artículo 10
 
 Los establecimientos que impetren por primera vez la subvención o aportes regulares del Estado o aquellos que percibiendo dicho beneficio aumenten los cupos totales por aumento de su capacidad en virtud de una solicitud aprobada en los términos previstos en el decreto Nº 315, de 2010, del Ministerio de Educación, deberán contar con la aprobación de dicha solicitud hasta el último día inclusive del período de reporte de cupos que establezca el calendario de admisión para efectos de que sean incorporados al procedimiento de admisión regular de dicho año. Las solicitudes que aumenten los cupos totales por aumento de su capacidad y que fueren aprobadas con posterioridad a dicha fecha sólo podrán incorporar los nuevos cupos a la etapa que corresponda cuando cuenten con autorización fundada del Subsecretario de Educación.
+
+En casos excepcionales el Subsecretario de Educación podrá, mediante resolución fundada, otorgar un nuevo plazo para presentar solicitudes de aumento de capacidad, no siendo necesario dictar la resolución para incorporar los nuevos cupos a que se refiere el inciso anterior, bastando la autorización del aumento de capacidad por la respectiva Secretaría Regional Ministerial de Educación, cuando corresponda aprobarla.
 
 ### 3. De la información a los apoderados
 
