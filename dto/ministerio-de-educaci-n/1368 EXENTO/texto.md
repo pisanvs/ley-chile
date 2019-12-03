@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.368 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley N° 20.903, por el presente decreto exento se modifican los convenios suscritos entre el Ministerio de Educación y la Corporación Educacional de la Sociedad Nacional de Agricultura FG-SNA Educa, cuyo objeto fue delegar la administración de los establecimientos educacionales: "Liceo Agrícola Marta Martínez Cruz", RBD 3.327; "Liceo Agrícola de Chillán Darío Barrueto Molinet'', RBD 3.739; y "Liceo Agrícola el Huertón'', RBD 4.287, cuyos convenios fueron aprobados, respectivamente, mediante el decreto N° 5; decreto N° 6; y decreto N° 7, todos de 2014 y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
