@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 1.379 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto se modifican los convenios suscritos con la Universidad de Santiago de Chile, cuyo objeto fue delegar la administración de los establecimientos educacionales "Liceo Industrial de Angol", RBD 5.215; "Instituto Comercial Eliodoro Domínguez Domínguez", RBD 8.506; "Liceo Industrial de Nueva Imperial", RBD 6.584; "Liceo Industrial Presidente Pedro Aguirre Cerda", RBD 2.103; y "Liceo Experimental Artístico", RBD 8.511, cuyos convenios fueron aprobados, respectivamente, mediante el decreto Nº 555, de 2012; el decreto Nº 40, de 2012; el decreto Nº 554, de 2012; el decreto Nº 419, de 2003; y el decreto Nº 512, de 2017, y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
