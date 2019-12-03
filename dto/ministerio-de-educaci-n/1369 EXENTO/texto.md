@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.369 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley N° 20.903, por el presente decreto exento se modifican los convenios suscritos con la Universidad Tecnológica Metropolitana, cuyo objeto fue delegar la administración de los establecimientos educacionales: "Liceo Instituto Superior de Comercio Diego Portales", RBD 9.058; "Liceo Comercial Instituto Superior de Comercio de Chile", RBD 9.409 y "Liceo Comercial de Estación Central", RBD 9.866, cuyos convenios fueron aprobados, respectivamente, mediante el decreto N° 43, de 2012; el decreto N° 298, de 2003; y el decreto N° 297, de 2003, y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
