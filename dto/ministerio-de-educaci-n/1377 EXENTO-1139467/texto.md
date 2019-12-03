@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.377 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto exento se modifican los convenios suscritos con la Fundación Nacional del Comercio para la Educación-Comeduc, cuyo objeto fue delegar la administración de los establecimientos educacionales "Liceo Técnico Mabel Condemarín Grimberg", RBD 3.642; "Liceo Comercial Luis Correa Prieto", RBD 8.502; y "Liceo Técnico Clelia Clavel Dinator", RBD 8.502, cuyos convenios fueron aprobados, respectivamente, mediante el decreto N° 21, de 2009; el decreto N° 293, de 2002 y el decreto N° 296, de 2002; y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
