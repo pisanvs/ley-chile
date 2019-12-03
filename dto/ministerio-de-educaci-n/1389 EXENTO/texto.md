@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.389 EXENTO, DE 26 DE NOVIEMBRE DE 2019
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley Nº 20.903, por el presente decreto exento se modifican los convenios suscritos con la Corporación de Estudio, Capacitación y Empleo de la Cámara de la Producción y del Comercio de Concepción, cuyo objeto fue delegar la administración de los establecimientos educacionales: "Liceo Comercial Enrique Oyarzún Mondaca", RBD 4.534; "Liceo Industrial de Concepción", RBD 4.535; "Liceo Comercial Femenino de Concepción", RBD 4.536; "Liceo Industrial de Tomé", RBD 4.824, y "Liceo Industrial Fundación Federico W. Schwager", RBD 4.975, cuyos convenios fueron aprobados, respectivamente, mediante el decreto Nº 1.228, de 1996; el decreto Nº 1.227, de 1996; el decreto Nº 1.229, de 1996; el decreto Nº 1.226, de 1996, y el decreto Nº 1.225, de 1996, y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
