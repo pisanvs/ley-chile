@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N°1.376 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto exento se modifican los convenios suscritos con la Corporación Educacional de la Construcción, cuyo objeto fue delegar la administración de los establecimientos educacionales "Liceo Industrial Víctor Bezanilla Salinas", RBD 8.812; "Liceo Industrial Ernesto Pinto Lagarrigue", RBD 2.105; "Liceo Industrial de la Construcción Hernán Valenzuela Leyton", RBD 4.700, cuyos convenios fueron aprobados, respectivamente, mediante los decretos N° 1.171, de 1996; N° 284, de 2002; N° 1.170, de 1996; y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
