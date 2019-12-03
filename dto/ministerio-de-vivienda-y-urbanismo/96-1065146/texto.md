@@ -1,4 +1,4 @@
-CREA COMISIÓN ASESORA DE ESTUDIOS HABITACIONALES Y URBANOS
+CREA COMISIÓN ASESORA CENTRO DE ESTUDIOS DE CIUDAD Y TERRITORIO
 
 Santiago, 30 de junio de 2014.- Hoy se decretó lo que sigue:
 
@@ -6,7 +6,7 @@ Núm. 96.-Visto: La ley Nº 16.391; el decreto ley Nº 1.305, de 1975; el artíc
 
 Considerando:
 
-a) La creación de la Comisión Asesora de Estudios Habitacionales y Urbanos, a través del decreto Nº 195 (V. y U.), de 2008, el cual fue derogado mediante el decreto Nº 73 (V. y U.), de 2011.
+a) La creación de la Comisión Asesora Centro de Estudios de Ciudad y Territorio, a través del decreto Nº 195 (V. y U.), de 2008, el cual fue derogado mediante el decreto Nº 73 (V. y U.), de 2011.
 
 b) La necesidad de que exista nuevamente en la estructura del Ministerio de Vivienda y Urbanismo una comisión asesora encargada de proponer medidas para optimizar y potenciar la gestión de estudios en materias de vivienda y urbanismo, en el marco de las políticas y programas ministeriales vigentes,
 
@@ -14,11 +14,11 @@ Decreto:
 
 #### Artículo 1º
 
-Créase en el Ministerio de Vivienda y Urbanismo, la Comisión Asesora de Estudios Habitacionales y Urbanos, dependiente del Subsecretario de Vivienda y Urbanismo, que estará encargada de proponer mecanismos para la gestión y optimización de estudios en materias de vivienda y urbanismo.
+Créase en el Ministerio de Vivienda y Urbanismo, la Comisión Asesora Centro de Estudios de Ciudad y Territorio, dependiente del Subsecretario de Vivienda y Urbanismo, que estará encargada de proponer mecanismos para la gestión y optimización de estudios en materias de vivienda y urbanismo.
 
 #### Artículo 2º
 
-Corresponderá a la Comisión Asesora de Estudios Habitacionales y Urbanos el desarrollo de las siguientes labores:
+Corresponderá a la Comisión Asesora Centro de Estudios de Ciudad y Territorio el desarrollo de las siguientes labores:
 
 a) Asesorar al Subsecretario de Vivienda y Urbanismo en la formulación de la política nacional de estudios habitacionales y urbanos, como asimismo en la formulación de los planes y programas anuales asociados a dicha política, que deben ser sometidos a la aprobación del Ministro de Vivienda y Urbanismo.
 
@@ -30,11 +30,11 @@ d) Prestar asesoría para la recopilación, sistematización y difusión de esta
 
 #### Artículo 3º
 
-La Comisión Asesora de Estudios Habitacionales y Urbanos presentará sus recomendaciones e informes al Subsecretario de Vivienda y Urbanismo, y solicitará por su intermedio toda la información que requiera para cumplir su labor.
+La Comisión Comisión Asesora Centro de Estudios de Ciudad y Territorio presentará sus recomendaciones e informes al Subsecretario de Vivienda y Urbanismo, y solicitará por su intermedio toda la información que requiera para cumplir su labor.
 
 #### Artículo 4º
 
-La Comisión Asesora de Estudios Habitacionales y Urbanos estará integrada por los equipos y personas designadas mediante resoluciones del Subsecretario de Vivienda y Urbanismo.
+La Comisión Comisión Asesora Centro de Estudios de Ciudad y Territorio estará integrada por los equipos y personas designadas mediante resoluciones del Subsecretario de Vivienda y Urbanismo.
 
 Anótese, tómese razón, regístrese, notifíquese y publíquese.- Por orden de la Presidenta de la República, Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo.
 
