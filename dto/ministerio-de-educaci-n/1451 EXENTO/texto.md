@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.451 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto exento se modifican los convenios suscritos con la Corporación Educacional de la Sociedad Nacional de Agricultura FG SNA Educa, cuyo objeto fue delegar la administración de los establecimientos educacionales "Liceo Politécnico de Curacautín", RBD 5.343; "Liceo Industrial de Temuco" RBD 5.566; "Escuela Agrícola Vista Hermosa", RBD 7.578 y "Liceo Agrícola de la Patagonia", RBD 8.369; cuyos convenios fueron aprobados, respectivamente, mediante los decretos N° 570, de 2012; N° 556, de 2012; N° 8, de 2014 y N° 9, de 2014; y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
