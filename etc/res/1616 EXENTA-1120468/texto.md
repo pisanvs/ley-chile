@@ -20,7 +20,7 @@ Lo dispuesto en el decreto con fuerza de ley Nº 1, de 2005, del Ministerio de S
 
 Resolución:
 
-1.- Establécese la siguiente estructura orgánica del Instituto de Salud Pública de Chile: El Instituto de Salud Pública de Chile estará compuesto, en cuanto a su estructura, en una Dirección, que trabajará con 7 Unidades Asesoras, y 7 Departamentos.
+1.- Establécese la siguiente estructura orgánica del Instituto de Salud Pública de Chile: El Instituto de Salud Pública de Chile estará compuesto, en cuanto a su estructura, en una Dirección, que trabajará con 8 Unidades Asesoras, y 7 Departamentos.
 
 I.- De la Dirección del Instituto dependerán las siguientes Unidades Asesoras:
 
@@ -37,6 +37,8 @@ I.- De la Dirección del Instituto dependerán las siguientes Unidades Asesoras:
 ### 6. Comunicaciones e Imagen Institucional
 
 ### 7. Relaciones Internacionales
+
+### 8. Tecnología de la Información y las Comunicaciones
 
 II.- El Instituto de Salud Pública de Chile se conformará por los siguientes Departamentos:
 
@@ -306,15 +308,7 @@ c) Central de Energía.
 
 d) Proyectos e Infraestructura.
 
-8. Subdepartamento de Tecnología de la Información y Comunicaciones, compuesto de las siguientes secciones:
-
-a) Administración de Plataformas y Comunicaciones.
-
-b) Desarrollo, Soporte y Mantención de Sistemas.
-
-c) Control de Gestión y Planificación.
-
-9. Subdepartamento de Gestión Financiera, compuesto por las siguientes secciones:
+8. Subdepartamento de Gestión Financiera, compuesto por las siguientes secciones:
 
 a) Tesorería.
 
@@ -326,7 +320,7 @@ d) Presupuesto
 
 e) Administración de Bienes.
 
-10. Subdepartamento Atención a Clientes y Usuarios, compuesto de las siguientes Secciones y Oficinas:
+9. Subdepartamento Atención a Clientes y Usuarios, compuesto de las siguientes Secciones y Oficinas:
 
 a) Oficina de Informaciones, Reclamos y Sugerencias (OIRS).
 
