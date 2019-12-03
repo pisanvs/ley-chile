@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.367 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de los dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley N° 20.903, por el presente decreto exento se modifican los convenios suscritos con la Corporación Educacional de la Sociedad Nacional de Agricultura FG-SNA Educa, cuyo objeto fue delegar la administración de los establecimientos educacionales: "Liceo Agrícola El Carmen", RBD 2.485; "Liceo Agrícola Superior de Molina", (Ex A-16), RBD 2.865 y "Liceo Agrícola San José de Duao", RBD 3.127, cuyos convenios fueron aprobados, respectivamente, mediante el decreto N° 11, de 2014; el decreto N° 4, de 2014; y el decreto N° 3, de 2014, y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
