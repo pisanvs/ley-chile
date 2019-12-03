@@ -20,7 +20,7 @@ Resolución:
 
 2. Solo podrán participar en este llamado extraordinario los afectados por el sismo del 19 de enero de 2019, en la Región de Coquimbo, que cuenten con informes técnicos aprobados por Serviu de esa Región.
 
-3. Las selecciones se efectuarán quincenalmente a partir de la fecha de publicación de la presente resolución y hasta el día 30 de octubre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la Región.
+3. Las selecciones se efectuarán quincenalmente a partir de la fecha de publicación de la presente resolución y hasta el día 29 de noviembre del presente año, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la Región.
 
 4. La calidad de afectado se acreditará mediante la inscripción en el Registro de Damnificados del Minvu, y en él se considerarán solo las familias cuyos inmuebles hayan sido calificados con "Daño Reparable Moderado" y "Daño Reparable Mayor", tras la aplicación de la Ficha de Catastro correspondiente.
 
