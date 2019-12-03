@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 1.393 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley Nº 20.903, por el presente decreto exento se modifican los convenios suscritos con la Fundación Nacional del Comercio para la Educación - Comeduc, cuyo objeto fue delegar la administración de los establecimientos educacionales: "Instituto Comercial Padre Alberto Hurtado", RBD 9.694; "Liceo Técnico Clotario Blest Riffo", RBD 9.686; "Liceo Comercial Molina Lavín" (Ex B-76), RBD 9.982; "Liceo Instituto Tecnológico y Comercial Recoleta - Inteco", RBD 10.248; "Liceo Politécnico Juan Terrier Dailly", RBD 2.793, y "Liceo Comercial Joaquín Vera Morales", RBD 8.507, cuyos convenios fueron aprobados, respectivamente, mediante el decreto Nº 287, de 2002; el decreto Nº 222, de 2012; el decreto Nº 288, de 2002; el decreto Nº 289, de 2002; el decreto Nº 38, de 2012, y el decreto Nº 294, de 2002, y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
