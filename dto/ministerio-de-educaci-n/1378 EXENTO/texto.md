@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.378 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto exento se modifican los convenios suscritos con la Corporación Educacional de la Sociedad Nacional de la Agricultura FG SNA Educa, cuyo objeto fue delegar la administración de los establecimientos educacionales "Liceo Agrícola de Ovalle Tadeo Perry Barnes", RBD 772; "Liceo Agrícola de San Felipe", RBD 1.300; y "Liceo Industrial Guillermo Richards Cuevas", RBD 1.262, cuyos convenios fueron aprobados, respectivamente, mediante el decreto N° 1, de 2014; el decreto N° 10, de 2014 y el decreto N° 2, de 2014: y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
