@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO Nº 1.374 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto se modifican los convenios suscritos entre el Ministerio de Educación y la Universidad Tecnológica Metropolitana, cuyo objeto fue delegar la administración de los establecimientos educacionales: "Liceo Industrial de San Fernando", RBD 2.443, "Instituto Industrial Superior de Chillán", RBD 3.641, y "Liceo Técnico de Santiago Emilia Toro Balmaceda", RBD 8.505, cuyos convenios fueron aprobados, respectivamente, mediante el decreto Nº 1.295, de 1996, el decreto Nº 42, de 2012, y el decreto Nº 48, de 1997, y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
