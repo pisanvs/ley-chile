@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.450 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto se modifican los convenios suscritos entre el Ministerio de Educación y la Corporación de Capacitación y Educación Industrial y Minería, cuyo objeto fue delegar la administración de los establecimientos educacionales: "Liceo Instituto Politécnico Superior Egidio Rozzi Sachetti", RBD 3.163 y "Liceo Industrial y de Minas Ignacio Domeyko", RBD 8.813, cuyos convenios fueron aprobados, respectivamente, mediante el decreto N° 26, de 2009 y el decreto N° 282, de 2002 y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
