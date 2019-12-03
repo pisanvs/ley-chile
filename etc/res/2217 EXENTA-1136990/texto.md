@@ -28,7 +28,7 @@ Resolución:
 
 1. Llámese a postulación extraordinaria en condiciones especiales para el desarrollo de proyectos en su modalidad Título II, Mejoramiento de la Vivienda; y Título III Ampliación de la Vivienda, del Programa de Protección del Patrimonio Familiar regulado por el DS Nº 255 (V. y U.), de 2006, y sus modificaciones, destinados a la atención de las viviendas afectadas por plagas de xilófagos en la Región de Coquimbo.
 
-2. Sólo podrán postular a la respectiva selección de este llamado los proyectos de la Región de Coquimbo, que cuenten con certificados de calificación otorgados por Serviu Región de Coquimbo, antes de la fecha de cierre del proceso de postulación determinada para el día 8 de noviembre de 2019.
+2. Sólo podrán postular a la respectiva selección de este llamado los proyectos de la Región de Coquimbo, que cuenten con certificados de calificación otorgados por Serviu Región de Coquimbo, antes de la fecha de cierre del proceso de postulación determinada para el día 29 de noviembre del 2019.
 
 3. Las familias interesadas en participar de este llamado podrán postular a partir de la fecha de publicación de la presente resolución exenta y hasta el día 8 de noviembre del año en curso, ambas fechas inclusive, o hasta que se agoten los recursos disponibles para la Región de Coquimbo.
 
