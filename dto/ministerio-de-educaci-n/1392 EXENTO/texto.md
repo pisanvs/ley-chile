@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.392 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto exento se modifican los convenios suscritos con la Corporación de Capacitación y Empleo de la Sociedad de Fomento Fabril, cuyo objeto fue delegar la administración de los establecimientos educacionales "Liceo Industrial Benjamín Dávila Larraín", RBD 10.196; "Liceo Industrial Vicente Pérez Rosales", RBD 10.073; "Liceo Industrial Domingo Matte Pérez", RBD 9.981; "Liceo Industrial de Electrotecnia Ramón Barros Luco", RBD 9.860, y "Liceo Industrial Agustín Edwards Ross", RBD 9.579, cuyos convenios fueron aprobados, respectivamente, mediante los decretos N° 1.296, de 1996; N° 1.079, de 1996; N° 1.081, de 1.996; N° 1.078, de 1.996; N° 1.080, de 1.996; y sus correspondientes modificaciones, todos del Ministerio de Educación.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
