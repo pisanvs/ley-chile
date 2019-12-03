@@ -1,0 +1,5 @@
+EXTRACTO DE DECRETO N° 1.391 EXENTO, DE 26 DE NOVIEMBRE DE 2019, DEL MINISTERIO DE EDUCACIÓN
+
+En virtud de lo dispuesto en el inciso segundo del artículo cuadragésimo noveno transitorio de la ley 20.903, por el presente decreto se modifican los convenios suscritos entre el Ministerio de Educación y la Fundación Nacional del Comercio para la Educación-Comeduc, cuyo objeto fue delegar la administración de los establecimientos educacionales: "Liceo Comercial Vate Vicente Huidobro", RBD 9.584; "Liceo Comercial Gabriel González Videla", RBD 9.065; "Liceo Técnico José María Narbona Cortés", RBD 9.064; "Liceo Comercial de San Bernardo", RBD 10.541, e "Instituto Superior de Comercio Profesor Fernando Pérez Becerra", RBD 3.640, cuyos convenios fueron aprobados, respectivamente, mediante los decretos Nº 292, Nº 290, Nº 295 y Nº 291, todos de 2002, y el decreto Nº 24, de 2009, todos del Ministerio de Educación y sus correspondientes modificaciones.-
+
+Raúl Figueroa Salas, Subsecretario de Educación.
