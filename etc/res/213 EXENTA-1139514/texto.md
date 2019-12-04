@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "CENTRO DE MANEJO Y ELIMINACIÓN DE RESIDUOS, CORONEL"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta Nº 213, de fecha 26 de noviembre de 2019, la Directora (S) Regional del Servicio de Evaluación Ambiental de la Región del Biobío, ha resuelto dar inicio a un proceso de participación ciudadana por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley Nº 19.300, en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental del Proyecto: "Centro de Manejo y Eliminación de Residuos, Coronel", cuyo proponente es Cosemar S.A.
+
+El Proyecto se sitúa en la Región del Biobío, en la provincia de Concepción, comuna de Coronel. El proyecto tiene como objetivo materializar la instalación de un Centro de Tratamiento de Residuos, que incluye un "Sistema de Tratamiento de Residuos Industriales Líquidos (RILes)"; un "Centro para el Manejo y Esterilización de Residuos de Establecimientos de Atención de Salud (REAS)"; y un "Galpón RESPEL para el Manejo y Almacenamiento Transitorio de Residuos Peligrosos". La vida útil del proyecto será de 20 años.
+
+Para conocimiento de la comunidad, cualquier persona natural o jurídica podrá realizar observaciones al proyecto según lo dispuesto en el artículo 95 del DS Nº 40/2012, y tendrá un plazo legal para efectuarlas ante el Servicio de Evaluación Ambiental, de 20 días hábiles, contados a partir del día hábil siguiente de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicada en calle Lincoyán 145, Concepción, en horario de atención entre las 08:30 a 13:30, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web https://infofirma.sea.gob.cl/DocumentosSEA/MostrarDocumento?docld=58/61/254a22096238b920056ce923428c39647bfa.
+
+Marcela Isabel Núñez Rodríguez, Directora Regional (S), Servicio de Evaluación Ambiental, Región del Biobío.
