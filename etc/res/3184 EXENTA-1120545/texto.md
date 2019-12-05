@@ -30,9 +30,7 @@ Resuelvo:
 
 #### Artículo primero
 
-Asígnanse los tramos de desarrollo profesional docente establecido en el Título III del Estatuto Docente, señalándose los bienios que corresponda a los profesionales de la educación que rindieron el año 2017, los instrumentos de evaluación correspondientes, y que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, denominado "Tramitar_Reconocimiento2017_202403_LZ", almacenado en pendrive, caratulado "MOD 3184", el que se entiende formar parte integrante del presente acto administrativo.
-
-> **Nota.** El artículo primero de la Resolución 10398 Exenta, Educación, publicada el 08.09.2025, actualiza el listado a que se refiere el presente artículo por la nómina contenida en el archivo con firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, bajo el nombre del archivo PDF "Reconocimienfo2017_20240423 FIRMADA", almacenado en el pendrive adjunto a la citada resolución, caratulado "Modificación Rex 3184/2018 (PR2017)", el que forma parte integrante del mencionado acto administrativo.
+Asígnanse los tramos de desarrollo profesional docente establecidos en el Título III del DFL N° 1, de 1996, del Ministerio de Educación, Estatuto Docente, señalándose los años de experiencia profesional, los bienios y los resultados de los instrumentos, a los profesionales de la educación que durante el año 2017, rindieron los instrumentos de evaluación que les correspondía, y que se encuentran individualizados en la nómina contenida en el disco compacto denominado "Actualización REX N° 3.184-2018, julio de 2019", número de serie D3117JH0219193LH, refrendado mediante la firma electrónica de la Jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, el que forma parte de la presente resolución.
 
 #### Artículo segundo
 
@@ -40,7 +38,7 @@ Establézcase que lo señalado en el artículo precedente, entrará en vigencia 
 
 #### Artículo tercero
 
-Señálese la correspondencia al tramo inicial, según lo dispuesto en el inciso primero del artículo 19 C, o al tramo de acceso en atención al inciso tercero del artículo 19 F, ambos del Estatuto Docentes, a los profesionales de la educación que se encuentran individualizados en la nómina contenida en el archivo con la firma electrónica avanzada de la jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones pedagógicas, denominado "20231222_Regulaización_19_F.pdf 5", almacenado en pendrive, caratulado "MOD 3184", el que se entiende formar parte integrante del presente acto administrativo.
+Señálase la correspondencia al tramo inicial, según lo dispuesto en el inciso primero del artículo 19 C, o al tramo de acceso en atención al inciso tercero del artículo 19 F, ambos del Estatuto Docente, a los profesionales de la educación que se encuentran individualizados en archivo de formato portátil con firma digital almacenado en CD adjunto con número de serie "C3117JH0216365LH", firmado por la Jefa del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, que se acompaña y forma parte integrante de la presente resolución para todos los efectos legales.
 
 #### Artículo cuarto
 
