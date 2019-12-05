@@ -40,7 +40,7 @@ iii. Buzos inscritos en el Registro Pesquero Artesanal que los habilita para rea
 
 Resuelvo:
 
-1.- Modifíquese la resolución exenta Nº 1.132/2017 citada en Vistos, en el sentido de prorrogar su vigencia hasta el día 30 de noviembre del año 2019, sin perjuicio de que, en aquella fecha, este Director Regional puede determinar ampliación del plazo.
+1.- Modifíquese la resolución exenta Nº 1.132/2017 citada en Vistos, en el sentido de prorrogar su vigencia hasta el día 30 de noviembre del año 2020, sin perjuicio de que, en aquella fecha, este Director Regional puede determinar ampliación del plazo.
 
 2.- Déjese establecido, que en todo lo no modificado por el presente acto administrativo, rige plenamente la resolución exenta Nº 1.132/2017, publicada en el Diario Oficial con fecha 18 de octubre del año 2017.
 
