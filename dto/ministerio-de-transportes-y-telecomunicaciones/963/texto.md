@@ -76,7 +76,7 @@ de transmisiones : 60 días.
 
 - Potencia máxima : 50 watts.
 
-- Frecuencia : 97,7 MHz.
+- Frecuencia : 97,9 MHz.
 
 CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
