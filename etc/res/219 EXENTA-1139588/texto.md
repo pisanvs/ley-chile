@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL ESTUDIO DE IMPACTO AMBIENTAL "TERMINAL GNL PENCO - LIRQUÉN"
+
+De conformidad a lo dispuesto en el artículo 95 e inciso final del artículo 91 del DS (MA) N° 40/2013 (Reglamento del SEIA), se comunica a toda persona, natural o jurídica, que hubiera presentado observaciones durante la evaluación ambiental del EIA del proyecto "Terminal GNL Penco-Lirquén", sometido al Sistema de Evaluación de Impacto Ambiental por su titular, GNL Penco SpA, que por resolución exenta N° 219, de fecha 30 de octubre de 2019, la Comisión de Evaluación de la Región del Biobío calificó favorablemente el proyecto individualizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante Comité de Ministros, de conformidad al artículo 20 de la ley N° 19.300.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en horarios de oficina, en las oficinas de la Dirección Regional del SEA de Biobío, ubicadas en Lincoyán N°145, Concepción; en la Ilustre Municipalidad de Penco, ubicada en calle O'Higgins 500, comuna de Penco, y en la Ilustre Municipalidad de Talcahuano, ubicada en calle Sargento Aldea 250, comuna de Talcahuano. Además podrá accederse a la resolución indicada directamente a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Secretaria Comisión de Evaluación Región del Biobío.
