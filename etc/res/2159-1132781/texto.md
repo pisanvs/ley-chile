@@ -22,11 +22,13 @@ a) En materia de Régimen Artesanal de Extracción o RAE: Cesiones de toneladas 
 
 No quedarán comprendidas en la delegación las solicitudes de cesiones provenientes de titulares de licencias transables de pesca a armadores artesanales inscritos en la pesquería respectiva, previstas en el artículo 55 T de la LGPA, como tampoco las solicitudes de cesiones de los derechos de pesca provenientes de las licencias transables de pesca a que se refiere el artículo 30 de la misma ley, las que se mantendrán radicadas en la competencia exclusiva del Sr. Subsecretario de Pesca y Acuicultura.
 
-b) En materia de áreas de manejo y explotación de recursos bentónicos o AMERB: informes de seguimiento de AMERB, de conformidad con lo dispuesto en el artículo 55 D de la Ley General de Pesca y Acuicultura, y en el DS N° 355 de 1995, del actual Ministerio de Economía, Fomento y Turismo, y sus modificaciones.
+b) Eliminada.
 
 c) En materia de distribución temporal de las fracciones artesanales establecidas conforme lo establecido en los artículos 48 A y 55 I de la Ley General de Pesca y Acuicultura: adelantamiento de periodos de captura.
 
 2.- La delegación sólo podrá ejercerse dentro de las regiones que estén comprendidas dentro del ámbito de competencia territorial de cada Director Zonal de Pesca.
+
+La facultad de tramitar resoluciones de solicitudes de cesiones de toneladas de titulares de asignaciones RAE a un titular de Licencia Transable de Pesca (LTP) previstas en el artículo 55 N de la Ley General de Pesca y Acuicultura, corresponderá al Director Zonal de Pesca con competencia territorial en el domicilio registrado por el titular de la asignación RAE en el Registro Pesquero Artesanal.
 
 3.- Las resoluciones que se firmen conforme la facultad delegada en el numerando anterior, se hará bajo la fórmula "Por orden del Sr. Subsecretario de Pesca y Acuicultura".
 
