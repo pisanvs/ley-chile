@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 4.138 EXENTA, DE 27 DE NOVIEMBRE DE 2019
+
+Mediante resolución exenta N° 4.138, de 27 de noviembre de 2019, el Servicio Nacional de Capacitación y Empleo, declara el cese a contar del 23 de noviembre de 2019, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Servicios de Capacitación Jorge Delgado Varela Empresa Individual de Responsabilidad Limitada (Servicios de Capacitación Jorge Delgado Varela Empresa Individual de Responsabilidad Limitada)", RUT 76.118.066-5 contenida en la resolución exenta N° 10.808 de 17 de noviembre de 2011, por cuanto dejó de cumplir con el requisito establecido en el N° 2, del Art. 21 de la ley 19.518.
+
+Santiago, 27 de noviembre de 2019.- Orlando Mancilla Vásquez, Jefe del Departamento de Desarrollo y Regulación de Mercado (S), Servicio Nacional de Capacitación y Empleo.
