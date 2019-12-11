@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.374 EXENTA, DE 2019
+
+Por resolución exenta Nº 1.374, de 18 de noviembre de 2019, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de la Araucanía, se aprobó el Gabinete Técnico creado e instalado por la Ilustre Municipalidad de Renaico, de la provincia de Malleco, que tendrá su lugar de funcionamiento en calle Comercio s/n, comuna de Renaico. Y se autorizó a la Ilustre Municipalidad de Renaico, para otorgar Licencias de Conductor de acuerdo a lo señalado en el decreto con fuerza de ley Nº 1 de 29 de octubre de 2007, que fija texto refundido, coordinado y sistematizado de la Ley de Tránsito Nº18.290 y sus reglamentos. En todo caso, la I. Municipalidad precedentemente individualizada deberá suspender el otorgamiento de Licencias de Conductor, en el evento de faltarle alguno de los requisitos que hicieron posible la presente autorización.-
+
+Stephanie Caminondo Eyssautier, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía (S).
