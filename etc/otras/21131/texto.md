@@ -92,8 +92,6 @@ c) Agrégase, a continuación de la expresión "en papel.", la siguiente oració
 
 La presente ley, salvo las excepciones contempladas en los incisos siguientes, entrará en vigencia a partir del cuarto mes de publicada en el Diario Oficial.
 
-Las modificaciones introducidas en el inciso primero del artículo 2º de la ley Nº 19.983 entrarán en vigencia en el mes veinticinco de publicada la presente ley en el Diario Oficial y durante los veinticuatro primeros meses el plazo máximo de pago será de sesenta días corridos contado desde la recepción de la factura.
-
 Lo dispuesto en el nuevo artículo 2º quinquies de la misma ley entrará en vigencia un año después de la publicación de la presente ley en el Diario Oficial.
 
 Respecto de los Servicios de Salud señalados en el artículo 16 del decreto con fuerza de ley Nº 1, del Ministerio de Salud, promulgado el año 2005 y publicado el año 2006, y sus redes asistenciales correspondientes; de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud; y, de las municipalidades, las normas contenidas en los artículos 2º bis y siguientes que se incorporan en la ley Nº 19.983, se aplicarán a las facturas emitidas por empresas de menor tamaño, de conformidad a lo dispuesto en el artículo segundo de la ley Nº 20.416, recibidas a contar del primer día del vigésimo noveno mes de publicada la ley en el Diario Oficial. Luego de transcurridos doce meses desde dicha fecha, las normas referidas se aplicarán a las facturas emitidas, sin distinción de emisor.
