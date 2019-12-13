@@ -26,7 +26,7 @@ Apruébese el siguiente Reglamento de certificación de especialidades médicas 
 
 Para los efectos de este Reglamento, se entenderá por:
 
-a) Sistema de certificación: conjunto de reglas o principios que establecen la forma en que entidades autorizadas de conformidad a la ley y a este Reglamento, certifican competencias de los prestadores individuales, en las especialidades en áreas de la salud que son reconocidas en este decreto.
+a) Sistema de certificación: conjunto de reglas o principios que establecen la forma en que entidades autorizadas de conformidad a la ley y a este Reglamento, certifican competencias de los prestadores individuales, en las especialidades en áreas de la salud que son reconocidas en este decreto, y que renuevan tales certificaciones.
 
 b) Certificación: proceso en virtud del cual se reconoce que un prestador individual domina un cuerpo de conocimientos y/o experiencias relevantes en un determinado ámbito del trabajo asistencial, para el otorgamiento del correspondiente certificado.
 
@@ -37,6 +37,8 @@ d) Prestadores individuales de salud: las personas naturales que, de manera aut�
 e) Prestaciones de salud: atenciones, acciones o servicios de salud otorgados por un prestador individual a las personas.
 
 f) Entidades certificadoras: son aquellas autorizadas por el Ministerio de Salud, conforme a las regulaciones que este Reglamento establece, y las Universidades del Estado o reconocidas por éste, que cuenten con programas de formación o entrenamiento de las especialidades establecidas en este decreto, de conformidad con la normativa vigente.
+
+g) Renovación de la certificación: proceso en virtud del cual una Entidad Certificadora reconoce que un prestador individual de salud mantiene en forma actual el dominio sobre el cuerpo de conocimientos y experiencias relevantes de una determinada especialidad o subespecialidad respecto de la que ya tenía una certificación vigente de conformidad a la ley.
 
 #### Artículo 2°
 
@@ -230,7 +232,7 @@ la correspondiente certificación.
 
 #### Artículo 3°
 
-Corresponderá al Ministerio de Salud verificar el cumplimiento de los requisitos exigidos en el artículo siguiente para que las entidades públicas y privadas, nacionales o extranjeras, que deseen certificar todas o alguna de las especialidades señaladas, sean autorizadas como entidades certificadoras y para su registro en la Superintendencia de Salud, conforme a lo dispuesto en el artículo 9°.
+Corresponderá al Ministerio de Salud verificar el cumplimiento de los requisitos exigidos en el artículo siguiente para que las entidades públicas y privadas, nacionales o extranjeras, que deseen certificar todas o alguna de las especialidades señaladas, o su renovación, sean autorizadas al efecto como entidades certificadoras y para su registro en la Superintendencia de Salud, conforme a lo dispuesto en el artículo 9º.
 
 Para realizar esta función, el Ministerio contará con la asesoría de una Comisión Interministerial, integrada con personeros de los Ministerios de Salud y Educación, a la que corresponderá asesorar al Ministerio de Salud en la evaluación de los antecedentes que permitan demostrar si la entidad certificadora cumple las condiciones para ser autorizada y para incorporarse a dicho registro.
 
@@ -246,23 +248,23 @@ Las entidades certificadoras deberán acreditar o dar a conocer al Ministerio de
 
 que pretenden certificar.
 
-3. La instancia o cuerpo directivo responsable de
+3. La instancia o cuerpo directivo responsable
 
-emitir la certificación, integrado por
+de emitir la certificación, integrado por
 
 profesionales con experiencia en gestión de
 
-procedimientos de evaluación o certificación de
+procedimientos de evaluación o certificación
 
-antecedentes académicos o laborales o para
+de antecedentes académicos o laborales o para
 
 estructurar mecanismos destinados a la
 
-evaluación de los requisitos necesarios para la
+evaluación de los requisitos necesarios para
 
-certificación de las especialidades en el ámbito
+la certificación de las especialidades en el
 
-de la salud.
+ámbito de la salud.
 
 4. Un equipo de profesionales competentes
 
@@ -274,11 +276,11 @@ evaluadores colegiados, con experiencia en
 
 evaluación o certificación de antecedentes
 
-académicos o laborales, a cargo de efectuar los
+académicos o laborales, a cargo de efectuar
 
-estudios de antecedentes y las evaluaciones que
+los estudios de antecedentes y las
 
-correspondieren.
+evaluaciones que correspondieren.
 
 5. Descripción de un proceso transparente, público
 
@@ -286,27 +288,27 @@ e imparcial de certificación, que incluya la
 
 recepción de antecedentes, la evaluación de
 
-admisibilidad de ellos si procediere, estudio y
+admisibilidad de ellos si procediere, estudio
 
-análisis, instancias de decisión, profesionales
+y análisis, instancias de decisión,
 
-intervinientes, plazos, respeto debido al
+profesionales intervinientes, plazos,
 
-derecho a reconsideración, criterios y
+respeto debido al derecho a reconsideración,
 
 principios científico-técnicos aplicados y
 
-sustentados por la entidad, y demás que ella se
+criterios y sustentados por la entidad,
 
-autoimponga.
+y demás que ella se autoimponga.
 
-6. La estructura y solvencia administrativa que les
+6. La estructura y solvencia administrativa
 
-permita llevar a cabo los procesos de
+que les permita llevar a cabo los procesos de
 
 certificación.
 
-Cuando la entidad quisiere certificar especialidades distintas a aquellas para las que ha sido autorizada, deberá solicitar dicha autorización de conformidad a las normas precedentes.
+Cuando la entidad quisiere certificar o renovar tales certificaciones respecto de especialidades distintas a aquellas para las que ha sido autorizada, deberá solicitar dicha autorización de conformidad a las normas precedentes.
 
 Toda modificación en la propiedad de la entidad, en la composición de su directorio o en la de su equipo de profesionales deberá ser informada al Ministerio de Salud y a la Intendencia de Prestadores. Asimismo, las entidades deberán informar con una antelación de a lo menos un semestre, su decisión de disminuir el número de especialidades para las que han sido autorizadas, con el fin de que ello sea puesto en conocimiento de los postulantes interesados, bajo apercibimiento de no poder reasumir la misma certificación en los cinco años siguientes.
 
@@ -318,7 +320,7 @@ Corresponderá, sin perjuicio de lo previsto en los artículos 11 y 12 de este R
 
 #### Artículo 5°
 
-Sin perjuicio de lo establecido en el artículo anterior, las Universidades reconocidas por el Estado, estarán legalmente autorizadas para certificar las especialidades que este Reglamento establece, respecto de los alumnos que hayan cumplido y aprobado los programas de formación y entrenamiento ofrecidos por ellas, si los programas correspondientes se encuentran acreditados en conformidad con la normativa vigente.
+Sin perjuicio de lo establecido en el artículo anterior, las Universidades reconocidas por el Estado, estarán legalmente autorizadas para certificar las especialidades que este Reglamento establece, o de renovar tales certificaciones respecto de los alumnos que hayan cumplido y aprobado los programas de formación y entrenamiento ofrecidos por ellas, si los programas correspondientes se encuentran acreditados en conformidad con la normativa vigente.
 
 #### Artículo 6°
 
@@ -326,7 +328,7 @@ Corresponderá a las entidades autorizadas para emitir las certificaciones infor
 
 La entidad certificadora deberá mantener permanentemente a disposición de los interesados los antecedentes referidos en el inciso anterior, en el domicilio de la entidad y por medios informáticos de acceso público.
 
-Las entidades certificadoras fijarán y darán a conocer el período de vigencia de las certificaciones que otorguen, cuya duración no podrá ser inferior a cinco ni superior a diez años, plazo que establecerán de acuerdo a razones técnicas fundadas respecto de cada especialidad. Las certificaciones podrán ser renovadas en conformidad a los criterios que, al efecto, se determinen en un decreto supremo expedido a través del Ministerio de Salud.
+Las entidades certificadoras fijarán y darán a conocer el período de vigencia de las certificaciones que otorguen, cuya duración no podrá ser inferior a cinco ni superior a diez años, plazo que establecerán de acuerdo a razones técnicas fundadas respecto de cada especialidad. Las certificaciones podrán ser renovadas en conformidad a las normas y criterios que se establezcan por decreto supremo del Ministerio de Salud. En dicho decreto el Ministerio podrá establecer la gradualidad y plazos que sean necesarios para que las certificaciones de tales especialidades, en conformidad a las normas permanentes o transitorias, sean debidamente renovadas, entendiéndose prorrogadas la vigencia de tales certificaciones mientras duren tales plazos.
 
 #### Artículo 7°
 
@@ -442,11 +444,11 @@ Derogado.
 
 #### Artículo tercero
 
-Los reconocimientos de certificaciones de especialidades otorgados en virtud de las disposiciones transitorias contenidas en el decreto supremo Nº 57, de 2007, de los Ministerios de Salud y de Educación, mantendrán su vigencia hasta el día 31 de diciembre de 2019.
+Las certificaciones de especialidades y subespecialidades otorgadas en virtud de las disposiciones permanentes y transitorias de este reglamento y del decreto supremo Nº 57, de 2007, de los Ministerios de Salud y Educación, mantendrán su vigencia hasta el día 31 de diciembre de 2025 y, en todo caso, conservarán su validez y vigencia por los plazos que originalmente se le hubieren otorgado, si excedieren dicha fecha. Las certificaciones antedichas deberán ser renovadas según las normas y criterios que se dispongan en el decreto del Ministerio de Salud a que se refiere el inciso final del artículo 6º de este reglamento.
 
 #### Artículo cuarto
 
-Entre el 1 de enero de 2015 y el 31 de diciembre de 2019, quienes posean un título o grado académico de magíster o doctorado universitario, otorgado por una universidad reconocida oficialmente en Chile, relativo a alguna de las especialidades referidas en el artículo 2º de este Reglamento, tras cumplir un programa de formación y entrenamiento que no se encontrare acreditado de conformidad con la normativa vigente, podrán solicitar a la Superintendencia su inscripción en el registro de especialidades. Desde su inscripción en el antedicho registro, se tendrán por certificadas tales especialidades por el plazo de cinco años.
+Entre el 1 de enero de 2015 y el 31 de diciembre de 2025, quienes posean un título o grado académico de magíster o doctorado universitario, otorgado por una universidad reconocida oficialmente en Chile, relativo a alguna de las especialidades referidas en el artículo 2º de este Reglamento, tras cumplir un programa de formación y entrenamiento que no se encontrare acreditado de conformidad con la normativa vigente, podrán solicitar a la Superintendencia su inscripción en el registro de especialidades. Desde su inscripción en el antedicho registro, se tendrán por certificadas tales especialidades por el plazo de cinco años.
 
 Para que los profesionales indicados se acojan a lo establecido en el inciso anterior, deberán solicitar a la Superintendencia su incorporación en el registro de especialidades, presentando el original o copia autorizada del título o grado académico obtenido, o autorizándole a solicitar dicha información a la Universidad que corresponda. La Superintendencia deberá dejar expresa constancia en el mencionado registro del origen de este.
 
