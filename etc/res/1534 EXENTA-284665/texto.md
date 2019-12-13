@@ -1380,4 +1380,46 @@ lugar de la emergencia
 
 requerida.
 
+1480 Fono Emergencia La recepción de llamadas
+
+Linares atendidas por un operador
+
+(a)el Departamento de
+
+Seguridad Pública de la
+
+Ilustre Municipalidad de
+
+Linares, respecto de
+
+situaciones de seguridad
+
+y/o emergencia ciudadana
+
+que ocurran en dicha
+
+comuna. De esta manera,
+
+cuando sea necesario,
+
+las llamadas serán
+
+canalizadas por medio del
+
+envío oportuno de un
+
+móvil hacia el lugar de
+
+la emergencia y así
+
+resolverla o bien
+
+facilitando la labor de
+
+otros organismos de
+
+emergencia, por ejemplo,
+
+de Carabineros de Chile.
+
 > **Nota.** El Artículo 1 de la Resolución 1050 Exenta, Transportes, publicada el 06.04.2013, modifica la presente norma, en el sentido de agregar un nuevo Fono Emergencia Zapallar (1408). Sin embargo, la presente norma ya tenía un número para esa comuna (1405) que había sido incorporado por la Resolución 329, de 2013, que el artículo 2 de la citada Resolución 1050 Exenta dispone derogar. Asimismo, en el Considerando de la Resolución 1050 Exenta se advierte que el sentido de la modificación es cambiar el número, con lo que el antiguo no queda subsistente. Por esta razón, en el texto de esta actualización se ha dejado únicamente el Nº 1408.
