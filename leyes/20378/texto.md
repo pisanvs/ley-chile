@@ -84,7 +84,7 @@ Los Ministerios de Hacienda y de Transportes y Telecomunicaciones deberán reali
 
 A partir de la fecha de publicación de esta ley, cualquier modificación en los procedimientos de determinación de rebajas tarifarias del transporte público remunerado de pasajeros y,o en la población beneficiaria de estas rebajas u otras que importen variación de las normas aplicables a ellas, deberá contar con la autorización previa del Ministro de Hacienda. Asimismo, el acto administrativo que dé cuenta de ello, deberá igualmente llevar la firma del Ministro de Hacienda.
 
-Del mismo modo, cualquier convenio o contrato suscrito al amparo de esta ley, cuya validez o duración sea superior a tres años, contados desde su suscripción, deberá contar con la visación previa del Ministro de Hacienda.
+Del mismo modo, cualquier convenio o contrato suscrito al amparo de esta ley, cuya validez o duración sea superior a tres años, contados desde la total tramitación del acto administrativo que lo apruebe, deberá contar con la visación previa del Ministro de Hacienda.
 
 En todo caso, los procedimientos concursables, licitatorios o de contratación de concesión de vías, establecimiento de condiciones de operación, perímetros de exclusión u otra modalidad equivalente, y de entrega de los subsidios que deriven de la aplicación de esta ley, no constituirán actos onerosos de adquisición de bienes muebles o de servicios que se requieran para el desarrollo de las funciones de la Administración.
 
