@@ -1450,9 +1450,11 @@ b) Los fiscales y los demás empleados públicos, los delitos de que tomaren con
 
 c) Los jefes de puertos, aeropuertos, estaciones de trenes o buses o de otros medios de locomoción o de carga, los capitanes de naves o de aeronaves comerciales que naveguen en el mar territorial o en el espacio territorial, respectivamente, y los conductores de los trenes, buses u otros medios de transporte o carga, los delitos que se cometieren durante el viaje, en el recinto de una estación, puerto o aeropuerto o a bordo del buque o aeronave;
 
-d) Los jefes de establecimientos hospitalarios o de clínicas particulares y, en general, los profesionales en medicina, odontología, química, farmacia y de otras ramas relacionadas con la conservación o el restablecimiento de la salud, y los que ejercieren prestaciones auxiliares de ellas, que notaren en una persona o en un cadáver señales de envenenamiento o de otro delito, y
+d) Los jefes de establecimientos hospitalarios o de clínicas particulares y, en general, los profesionales en medicina, odontología, química, farmacia y de otras ramas relacionadas con la conservación o el restablecimiento de la salud, y los que ejercieren prestaciones auxiliares de ellas, que notaren en una persona o en un cadáver señales de envenenamiento o de otro delito;
 
-e) Los directores, inspectores y profesores de establecimientos educacionales de todo nivel, los delitos que afectaren a los alumnos o que hubieren tenido lugar en el establecimiento.
+e) Los directores, inspectores y profesores de establecimientos educacionales de todo nivel, los delitos que afectaren a los alumnos o que hubieren tenido lugar en el establecimiento, y
+
+f) Los jefes de establecimientos de salud, públicos o privados, y los sostenedores y directores de establecimientos educacionales, públicos o privados, respecto de los delitos perpetrados contra los profesionales y funcionarios de dichos establecimientos al interior de sus dependencias o mientras éstos se encontraren en el ejercicio de sus funciones o en razón, con motivo u ocasión de ellas. La misma obligación tendrán los directores de los Servicios Locales de Educación respecto de estos delitos, cuando ocurran en los establecimientos educacionales que formen parte del territorio de su competencia.
 
 La denuncia realizada por alguno de los obligados en este artículo eximirá al resto.
 
@@ -3556,11 +3558,13 @@ Tratándose de la situación contemplada en el inciso tercero del mismo artícul
 
 Pluralidad de sujetos. Si aparecieren implicados individuos que no gozaren de fuero, se seguirá adelante el procedimiento en relación con ellos.
 
-### Párrafo 2º — Gobernadores regionales, delegados presidenciales regionales o delegados presidenciales provinciales
+### Párrafo 2º — Delegados Presidenciales Regionales, Delegados Presidenciales Provinciales y Gobernadores Regionales
 
 #### Artículo 423
 
 Remisión a normas del Párrafo 1º. El procedimiento establecido en el Párrafo 1º de este Título es aplicable a los casos de desafuero de gobernadores regionales, delegados presidenciales regionales o delegados presidenciales provinciales, en lo que fuere pertinente.
+
+> **Nota.** El N° 2 del Art. 13 de la Ley 21073, publicada el 22.02.2018, dispuso la sustitución en el presente artículo de la expresión "de un intendente, de un gobernador o de un presidente de consejo regional" por "de un delegado presidencial regional, de un delegado presidencial provincial o de un gobernador regional", sin embargo la frase a sustituir no existe en este texto por cuanto fue reemplazada por la Ley 21074 publicada el 15.02.2018, por lo que no se pudo efectuar la modificación.
 
 ## Título V
 

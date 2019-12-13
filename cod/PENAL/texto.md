@@ -2756,9 +2756,15 @@ Para los efectos de este artículo se entiende por familia el cónyuge, los pari
 
 Las amenazas de un mal que no constituya delito hechas en la forma expresada en los números 1º o 2º del artículo anterior, serán castigadas con la pena de reclusión menor en sus grados mínimo a medio.
 
+#### Artículo 297
+
+BIS
+
+Cuando las amenazas se hicieren contra los profesionales y funcionarios de los establecimientos de salud, públicos o privados, o contra los profesionales, funcionarios y manipuladores de alimentos de establecimientos educacionales, públicos o privados, al interior de sus dependencias o mientras éstos se encontraren en el ejercicio de sus funciones o en razón, con motivo u ocasión de ellas, se impondrá el grado máximo o el máximum de las penas previstas en los dos artículos anteriores en sus respectivos casos.
+
 #### Artículo 298
 
-En los casos de los dos artículos precedentes se podrá condenar además al amenazador a dar caución de no ofender al amenazado, y en su defecto a la pena de sujeción a la vigilancia de la autoridad.
+En los casos de los tres artículos precedentes se podrá condenar además al amenazador a dar caución de no ofender al amenazado, y en su defecto a la pena de sujeción a la vigilancia de la autoridad.
 
 ### XII. De la evasión de los detenidos
 
@@ -3494,7 +3500,21 @@ Asimismo, si los hechos a que se refieren los artículos anteriores de este pár
 
 #### Artículo 401
 
-Las lesiones menos graves inferidas a guardadores, sacerdotes, maestros o personas constituidas en dignidad o autoridad pública, serán castigadas siempre con presidio o relegación menores en sus grados mínimos a medios.
+Las lesiones menos graves inferidas a guardadores, sacerdotes o personas constituidas en dignidad o autoridad pública, serán castigadas siempre con presidio o relegación menores en sus grados mínimos a medios.
+
+#### Artículo 401 bis
+
+Las lesiones inferidas a los profesionales y funcionarios de los establecimientos de salud, públicos o privados, o contra los profesionales, funcionarios y manipuladores de alimentos de establecimientos educacionales, públicos o privados, al interior de sus dependencias o mientras éstos se encontraren en el ejercicio de sus funciones o en razón, con motivo u ocasión de ellas, serán sancionadas:
+
+1. Con presidio mayor en sus grados mínimo a medio en los casos del número 1° del artículo 397.
+
+2. Con presidio menor en su grado máximo en los casos del número 2° del artículo 397.
+
+3. Con presidio menor en su grado medio en los casos del artículo 399.
+
+4. Con presidio menor en su grado mínimo si las lesiones que se causaren fueren leves.
+
+En los casos en que se maltratare corporalmente de manera relevante a las personas señaladas en el inciso anterior, la pena será de prisión en su grado máximo y multa de una a cuatro unidades tributarias mensuales.
 
 #### Artículo 402
 

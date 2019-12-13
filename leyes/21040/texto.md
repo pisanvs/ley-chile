@@ -320,7 +320,9 @@ q) Mantener un registro actualizado de los bienes inmuebles en que funcionan los
 
 r) Implementar y coordinar acciones tendientes a desarrollar diversas expresiones artísticas en los establecimientos educacionales, cuando ello sea pertinente de acuerdo al proyecto educativo institucional del establecimiento educacional respectivo.
 
-s) Ejercer las demás funciones y atribuciones que establezcan las leyes.
+s) Presentar querella respecto de los delitos perpetrados contra los profesionales y funcionarios de los establecimientos de su dependencia.
+
+t) Ejercer las demás funciones y atribuciones que establezcan las leyes.
 
 #### Artículo 19
 
