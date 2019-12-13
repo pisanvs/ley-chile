@@ -40,7 +40,7 @@ Para los servicios que hayan realizado su inscripción en el Registro Nacional d
 
 a. Lebu y Talcahuano la fecha de inicio de esta exigencia será el 31 de mayo de 2019.
 
-b. Arauco, Los Ángeles, Coronel y Tomé la fecha de inicio de esta exigencia será el 30 de noviembre de 2019.
+b. Arauco, Los Ángeles, Coronel y Tomé la fecha de inicio de esta exigencia será el 30 de noviembre de 2020.
 
 Los terminales serán al menos uno por cada servicio y del tipo "terminal de vehículos", señalado en el artículo 45 bis, del decreto supremo Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones y reglamentado respecto de su construcción en el decreto supremo Nº 47 de 1992, del Ministerio de Vivienda y Urbanismo.
 
