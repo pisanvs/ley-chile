@@ -18,7 +18,7 @@ c) Largo máximo, considerado entre los extremos anterior y posterior del vehíc
 
 c.1) Bus 13,20 m
 
-c.2) Bus articulado 18,00 m
+c.2) Bus articulado 19,00 m
 
 c.3) Camión 11,00 m
 
@@ -60,7 +60,7 @@ Las combinaciones tracto-camión con semirremolque especial para el transporte d
 
 No obstante lo señalado en la letra c.7) anterior, las combinaciones de vehículos formadas por más de tres unidades separables que excedan de 15,00 m de largo, requerirán de una autorización especial de la Dirección de Vialidad, para circular por las vías públicas.
 
-Excepcionalmente, sin perjuicio de lo dispuesto en la letra c.1), tratándose de buses pullman a que se refiere la resolución Nº 98, de 1986, de este Ministerio, cuyo largo exceda los 13,20 m sin superar los 14,00 m podrán circular por las vías públicas, salvo por aquellas que estén expresamente prohibidas por la Dirección de Vialidad del Ministerio de Obras Públicas.
+Excepcionalmente, sin perjuicio de lo dispuesto en la letra c.1), tratándose de buses pullman a que se refiere la resolución Nº 98, de 1986, de este Ministerio, cuyo largo exceda los 13,20 m sin superar los 14,00 m o los 15,00 m tratándose de buses distintos a los buses de dos pisos, entendiéndose como tales aquellos en que los espacios destinados a los viajeros están dispuestos, al menos en una parte, en dos niveles superpuestos, podrán circular por las vías públicas, salvo por aquellas que estén expresamente prohibidas por la Dirección de Vialidad del Ministerio de Obras Públicas.
 
 > **Nota.** EL Nº 2 de la Resolución 62, Transportes, publicada el 27.12.2001 dispuso que la modificación introducida a este artículo regirá después de ciento veinte días de su publicación.
 
