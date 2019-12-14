@@ -1,0 +1,57 @@
+APRUEBA PROTOCOLO PARA VALIDACIÓN, ASEGURAMIENTO Y CONTROL DE CALIDAD DE SISTEMAS DE MONITOREO CONTINUO DE EMISIONES "CEMS"
+
+Núm. 1.743 exenta.- Santiago, 6 de diciembre de 2019.
+
+Vistos:
+
+Lo dispuesto en el artículo segundo de la ley Nº 20.417, que fija el texto de la Ley Orgánica de la Superintendencia del Medio Ambiente; en el decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado; en la ley Nº 19.880, que establece las Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; en la ley Nº 19.300, sobre Bases Generales del Medio Ambiente; en el decreto supremo Nº 13, de 2011, del Ministerio del Medio Ambiente, que Establece Norma de Emisión para Centrales Termoeléctricas; en el decreto supremo Nº 28, de 2013, del Ministerio del Medio Ambiente, que Establece Norma de Emisión para Fundiciones de cobre y fuentes emisoras de arsénico; en el decreto supremo Nº 29, de 2013, del Ministerio del Medio Ambiente, que Establece Norma de Emisión para Incineración, Coincineración y Coprocesamiento y deroga decreto Nº 45, de 2007, del Ministerio Secretaría General de la Presidencia; en el decreto supremo Nº 37, de 2013, del Ministerio del Medio Ambiente, que Establece Norma de Emisión de compuestos TRS, generadores de olor, asociados a la fabricación de pulpa kraft o al sulfato, elaborada a partir de la revisión del decreto Nº 167, de 1999, Minsegpres, que establece norma de emisión para olores molestos (compuestos sulfuro de hidrógeno y mercaptanos: gases TRS) asociados a la fabricación de pulpa sulfatada; en los artículos 79 y siguientes de la ley Nº 18.834, que Aprueba Estatuto Administrativo; en la resolución exenta Nº 424, de 2017, de la Superintendencia del Medio Ambiente, que fija la estructura interna de la Superintendencia del Medio Ambiente; en la resolución exenta RA 119123/58/2017, de 2017, de la Superintendencia del Medio Ambiente, que renueva nombramiento en el cargo de alta dirección pública, 2º nivel que indica, a persona señalada; en el decreto Nº 31, de 2019, del Ministerio del Medio Ambiente, que nombra a don Cristóbal de la Maza Guzmán en el cargo de Superintendente del Medio Ambiente; y en la resolución Nº 7, de 2019, de la Contraloría General de la República, que fija normas sobre exención del trámite de Toma de Razón.
+
+Considerando:
+
+1. Que, la Superintendencia del Medio Ambiente es el servicio público creado para ejecutar, organizar y coordinar el seguimiento y fiscalización de las Resoluciones de Calificación Ambiental, de las medidas de los Planes de Prevención y/o de Descontaminación Atmosférica, del contenido de las Normas de Calidad Ambiental y Normas de Emisión, y de los Planes de Manejo, cuando corresponda, y de todos aquellos otros instrumentos de gestión ambiental que dispone la ley, así como imponer sanciones en caso que se constaten infracciones que sean de su competencia.
+
+2. La letra a) del artículo 3º de la Ley Orgánica de la Superintendencia del Medio Ambiente, que faculta a la Superintendencia del Medio Ambiente para fiscalizar el permanente cumplimiento de las normas, condiciones y medidas establecidas en las resoluciones de calificación ambiental, sobre la base de las inspecciones, controles, mediciones y análisis que se realicen de conformidad a lo establecido en dicha ley.
+
+3. La letra b) del artículo 3º, del mismo cuerpo normativo, dispone que la Superintendencia del Medio Ambiente debe velar por el cumplimiento de las medidas e instrumentos establecidos en los Planes de Prevención y/o de Descontaminación Ambiental, sobre la base de las inspecciones, controles, mediciones y análisis que se realicen de conformidad a lo establecido en dicha ley.
+
+4. Que, la letra ñ) del artículo 3º, de la misma norma, establece que a esta Superintendencia le corresponde impartir directrices técnicas de carácter general y obligatorio, definiendo los protocolos, procedimientos y métodos de análisis que los organismos fiscalizadores, las entidades acreditadas conforme a esta ley y, en su caso, los sujetos de fiscalización, deberán aplicar para el examen, control y medición del cumplimiento de las Normas de Calidad Ambiental y de Emisión.
+
+5. Que, el artículo 13 del decreto supremo Nº 13, de 2011, del Ministerio del Medio Ambiente, que Establece norma de emisión para centrales termoeléctricas, señala que la Superintendencia podrá definir los requerimientos mínimos de operación, control de calidad y aseguramiento de los datos del sistema de monitoreo continuo de emisiones, la información adicional, los formatos y medios correspondientes para la entrega de información.
+
+6. El artículo 16 del decreto supremo Nº 28, de 2013, del Ministerio del Medio Ambiente, que Establece norma de emisión para fundiciones de cobre y fuentes emisoras de arsénico, un informe anual que consolide la información del año calendario. Los contenidos y el formato de presentación del informe mensual y anual serán establecidos por la Superintendencia del Medio Ambiente.
+
+7. Lo dispuesto en el artículo 15 del decreto supremo Nº 29, de 2013, del Ministerio del Medio Ambiente, que Establece norma de emisión para incineración, coincineración y coprocesamiento y deroga decreto Nº 45, de 2007, del Ministerio Secretaría General de la Presidencia, señala que le corresponde el control y fiscalización de la norma a la Superintendencia del Medio Ambiente.
+
+8. Que, el decreto supremo Nº 37, de 2013, del Ministerio del Medio Ambiente, que Establece norma de emisión de compuestos TRS, generadores de olor, asociados a la fabricación de pulpa kraft o al sulfato, elaborada a partir de la revisión del decreto Nº 167, de 1999, Minsegpres, que establece norma de emisión para olores molestos (compuestos sulfuro de hidrógeno y mercaptanos: gases TRS) asociados a la fabricación de pulpa sulfatada, dispone en el inciso final del artículo 7º, que la Superintendencia podrá definir los requerimientos mínimos de operación, control de calidad y aseguramiento de los datos del sistema de monitoreo continuo de emisiones, la información adicional, los formatos y medios correspondientes para la entrega de información.
+
+9. Que, por su parte, la autoridad puede, tanto en las normas, condiciones y medidas dispuestas en una Resolución de Calificación Ambiental, como en el control de límites de emisión fijados en un Plan de Prevención y/o Descontaminación Atmosférica, establecer la obligación de realizar un monitoreo continuo de emisiones, a través de un Sistema de Monitoreo Continuo de Emisiones (CEMS).
+
+10. El oficio ordinario Nº 432, de 16 de febrero de 2018, de la Superintendencia del Medio Ambiente, dirigido al Ministerio del Medio Ambiente, en el cual se acompañó el documento técnico "Protocolo para validación, aseguramiento y control de calidad de sistemas de monitoreo continuo de emisiones CEMS" y "Protocolo para la aplicación de monitoreo con métodos alternativos en unidades generadoras afectas al D.S. 13/2011 MMA", con la finalidad de solicitar informe previo, en virtud del artículo 48 bis de la ley Nº 19.300, por tratarse de un acto administrativo para la ejecución o implementación de normas de emisión.
+
+11. El oficio ordinario Nº 182094, de 10 de mayo de 2018, del Ministerio del Medio Ambiente, dirigido a la Superintendencia del Medio Ambiente, por el cual, en virtud de lo dispuesto en el artículo 48 bis de la ley Nº 19.300, evacúa informe pronunciándose sobre documento técnico.
+
+12. El oficio ordinario Nº 437, de 6 de febrero de 2019, de la Superintendencia del Medio Ambiente, dirigido al Ministerio del Medio Ambiente, en el cual se acompañó el documento técnico "Protocolo para validación, aseguramiento y control de calidad de sistemas de monitoreo continuo de emisiones CEMS", con la finalidad de solicitar informe previo, en virtud del artículo 48 bis de la ley Nº 19.300, por tratarse de un acto administrativo para la ejecución o implementación de normas de emisión.
+
+13. El oficio ordinario Nº 191939, de 14 de mayo de 2019, del Ministerio del Medio Ambiente, dirigido a la Superintendencia del Medio Ambiente, por el cual, en virtud de lo dispuesto en el artículo 48 bis de la ley Nº 19.300, evacúa informe pronunciándose sobre documento técnico.
+
+14. Que, el sistema CEMS comprende el equipamiento total requerido para la determinación continua e ininterrumpida de la concentración de contaminantes, tales como material particulado, dióxido de azufre y óxidos de nitrógeno, y de otros parámetros de interés, tales como, flujo másico y/o volumétrico, humedad, etc., incluyendo el equipamiento para la adquisición y manejo de datos.
+
+15. Que, para la operatividad del monitoreo continuo, y a fin de garantizar la representatividad de los datos obtenidos, es necesario dar curso a un proceso de validación, el que considera ensayos de validación y avisos a la autoridad. Dichos ensayos tienen como finalidad comprobar que los resultados de las mediciones y análisis que realiza dicho equipo de monitoreo continuo, se encuentren dentro de rangos aceptables de desviación en relación a métodos de referencia oficiales.
+
+16. Que, para cumplir con la correcta aplicación y fiscalización de las Normas de Emisión, Resoluciones de Calificación Ambiental, Planes de Prevención y/o Descontaminación Atmosférica, que exijan la instalación de un CEMS, esta Superintendencia estima necesario uniformar la forma y modo en que se registrará el proceso de validación de los CEMS exigidos en estos instrumentos, así como la forma de reportar a este servicio.
+
+### 17. Que, en virtud de lo expuesto, se procede a resolver lo siguiente:
+
+Resuelvo:
+
+Primero. Aprobar el documento técnico denominado "Protocolo para Validación, Aseguramiento y Control de Calidad de Sistemas de Monitoreo Continuo de Emisiones "CEMS", cuyo texto íntegro se adjunta a la presente resolución, entendiéndose formar parte de la misma, al igual que sus respectivos anexos.
+
+Segundo. Destinatarios. Son destinatarios del presente protocolo todos aquellos titulares de fuentes emisoras afectas a una Norma de Emisión, a Planes de Prevención y/o Descontaminación Atmosférica, a Resoluciones de Calificación Ambiental, o a cualquier otro instrumento de carácter ambiental que disponga de la obligación de instalar un sistema de monitoreo continuo de emisiones (CEMS), así como reportar con dicho sistema.
+
+Tercero. Accesibilidad. El texto original del protocolo que se aprueba mediante la presente resolución será archivado en Oficina de Partes de la Superintendencia del Medio Ambiente, y estará disponible en la siguiente página web: http://snifa.sma.gob.cl/v2/Resolucion/Instruccion.
+
+Cuarto. Déjese sin efecto. A contar de la entrada en vigencia de esta resolución, se deja sin efecto resolución exenta Nº 57 de 22 de enero de 2013, resolución exenta Nº 339 de 4 de julio de 2014, resolución exenta Nº 583 de 3 de octubre de 2014, resolución exenta Nº 34 de 23 de enero de 2015, resolución exenta Nº 94 de 6 de febrero de 2015, resolución exenta Nº 627 de 12 de julio de 2016, todas dictadas por la Superintendencia del Medio Ambiente.
+
+Quinto. Vigencia. Esta resolución entrará en vigencia desde la fecha de su publicación en el Diario Oficial.
+
+Anótese, publíquese en el Diario Oficial y dese cumplimiento.- Cristóbal de la Maza Guzmán, Superintendente del Medio Ambiente.
