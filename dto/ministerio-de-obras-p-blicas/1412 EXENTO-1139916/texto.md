@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1412 de 20 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 161-Al para la obra: CONCESION DE LA OBRA PUBLICA, EMBALSE LA PUNILLA. AREA DE PROTECCION DEL HUEMUL, Región de Ñuble, que figura a nombre de SOC AGR EL ROBLE HUACHO LTDA, rol de avalúo 59-20 de la comuna de San Fabián, superficie 1.365.634 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 243 de 6 de agosto de 2019, modificada por Resolución Expropiaciones Fiscalía Exenta Nº 271 de 2 de septiembre de 2019, integrada por Handy Ghislaine Campos Sepúlveda, Sergio Jeremías Órdenes Salinas y Camilo José Jara Bravo, fijó con fecha 25 de septiembre de 2019, el valor provisional de la indemnización en la cantidad de $477.339.964 para el lote Nº 161-Al. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
