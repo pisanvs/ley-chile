@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1413 de 20 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 160-1 para la obra: CONCESION DE LA OBRA PUBLICA, EMBALSE LA PUNILLA. AREA DE PROTECCION DEL HUEMUL, Región de Ñuble, que figura a nombre de INMOBILIARIA E INVERSIONES KASTE, rol de avalúo 113-1 de la comuna de Coihueco, superficie 4.818.017 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 242 de 6 de agosto de 2019, integrada por Jesús Fernando Díaz Pasmiño, Claudia Eugenia Marzullo García y Dory Gisela Donoso Salgado, fijó con fecha 23 de septiembre de 2019, el valor provisional de la indemnización en la cantidad de $708.623.380 para el lote Nº 160-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
