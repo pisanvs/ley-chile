@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) Nº 1419, de 20 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14º letra e) y 105º del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206, de 1960, se expropió el lote de terreno Nº 296, para la obra "MEJORAMIENTO RUTA K-705, SECTOR CR. RUTA K-715 - VILCHES ALTO", TRAMO KILÓMETRO 11,70000 A KM. 27,23000, que figura a nombre de INMOBILIARIA INDEPENDENCIA SPA, rol de avalúo 166-221, Comuna de SAN CLEMENTE, REGIÓN DEL MAULE, superficie 43 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURÁN MARCOS, RODRIGO ANTONIO SILVA LAZO y PAULA SOLEDAD GONZÁLEZ ORTEGA, mediante informe de tasación de 24 de marzo de 2016, fijó el monto de la indemnización provisional en la cantidad de $709.140.- para el lote Nº 296. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
