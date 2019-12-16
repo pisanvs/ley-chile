@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1393 de 20 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 7 para la obra: AUTOPISTA SANTIAGO - SAN ANTONIO. SECTOR: C.S. NUEVA SAN GREGORIO - O'HIGGINS. TRAMO: KM. 50.620,00 AL KM. 51.700,00, Región Metropolitana de Santiago, que figura a nombre de ACUNA PAREDES ROLANDO ALBERTO, rol de avalúo 266-88, comuna de El Monte, superficie 1.826 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 182 de 8 de julio de 2019, integrada por Sergio Jeremías Órdenes Salinas, María Cristina Camus Palacios y Nicolás Alejandro Alarcón Sánchez, fijó con fecha 26 de agosto de 2019, el valor provisional de la indemnización en la cantidad de $31.286.900 para el lote N° 7. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
