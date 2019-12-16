@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1415 de 20 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 1-1 para la obra: AUTOPISTA SANTIAGO - SAN ANTONIO. SECTOR: RAMAL DE CONEXIÓN POMAIRE - SAN ANTONIO. TRAMO: KM. 61.600,00 AL KM. 62.300,00, Región Metropolitana de Santiago, que figura a nombre de SOCIEDAD DE INVERSIONES GRAZIOLI E, rol de avalúo 2087-6, comuna de Melipilla, superficie 614 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 234 de 5 de agosto de 2019, integrada por Andrés Aníbal Risso Caamaño, Jesús Fernando Díaz Pasmiño y Andrés Echeverría Campo, fijó con fecha 25 de septiembre de 2019, el valor provisional de la indemnización en la cantidad de $10.501.300 para el lote N° 1-1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
