@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1521, de 29 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.1, 2 y 3, para la obra: SISTEMA DE AGUA POTABLE RURAL BONIFACIO, que figura a nombre de MAYORGA NANGO CARMEN MAGALY Y OTROS, rol de avalúo 2456-188, Comuna de VALDIVIA, REGION DE LOS RÍOS, superficies 851,3, 867,8 y 25 m2 respectivamente. La Comisión de Peritos integrada por YASCHALA MARIBEL YAÑEZ RIFFO, MARIA SOLEDAD NUÑEZ ARROYO y PATRICIO FERNANDO CASAGRANDE ULLOA, mediante informe de tasación de 26 de junio de 2019, fijó el monto de la indemnización provisional en la cantidad de $2.977.290 para el lote Nº1, $3.208.740 para el lote Nº2, y $150.500 para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
