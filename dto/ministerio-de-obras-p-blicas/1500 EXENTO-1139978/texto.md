@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1500 de 29 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 158-2 para la obra: CONCESION DE LA OBRA PUBLICA, EMBALSE LA PUNILLA. AREA COMPENSACION DE LA BIODIVERSIDAD, Región de Ñuble, que figura a nombre de GONZALEZ DE LA FUENTE BERTA, rol de avalúo 113-2 de la comuna de Coihueco, superficie 892.882 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 241 de 6 de agosto de 2019, modificada por Resolución Expropiaciones Fiscalía Exenta N° 354 de 25 de noviembre de 2019, integrada por Inés Elena Otárola Castillo, Víctor Marcelo Soto Troncoso y Andrés Echeverría Campo, fijó con fecha 25 de septiembre de 2019, el valor provisional de la indemnización en la cantidad de $178.576.400 para el lote N° 158-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
