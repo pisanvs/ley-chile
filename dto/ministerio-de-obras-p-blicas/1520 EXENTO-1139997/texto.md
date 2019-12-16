@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1520, de 29 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 1, para la obra: SISTEMA DE AGUA POTABLE RURAL CHAURA, que figura a nombre de HUENUPAN HUIRIANO SANTA SARA Y OTRO, rol de avalúo 348-6, Comuna de VILLARRICA, REGION DE LA ARAUCANIA, superficie 3.175 m2. La Comisión de Peritos integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, HANDY GHISLAINE CAMPOS SEPULVEDA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 01 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $5.017.150 para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
