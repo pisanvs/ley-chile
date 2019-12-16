@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1479, de 29 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropiaron los lotes de terreno Nºs.2 y 12, para la obra: AMPLIACION RUTA H-27 CARRETERA EL COBRE, que figura a nombre de INMOBILIARIA SANTA SOFIA S A y TORO PARRA RICARDO HERNAN, roles de avalúo 1406-324 y 102-475, Comuna de RANCAGUA el lote 2 y MACHALI el lote 12, REGION DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, superficies 456 y 239 m2 respectivamente. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y PATRICIA VERONICA ZAVALA CONTRERAS, mediante informe de tasación de 22 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $69.911.500 para el lote Nº2, y $136.950.000 para el lote Nº12. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
