@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1456 de 20 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 19-2 para la obra: CONCESION VIAL PUENTE INDUSTRIAL. SECTOR C: RUTA ENTRE RIBERA SUR RIO BIO BIO - ENLACE LOS BATROS, Región del Bio Bío, que figura a nombre de SUC. MUNOZ RODRIGUEZ MARTA NOEMI, rol de avalúo 15009-202 de la comuna de San Pedro de la Paz, superficie 706 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 249 de 6 de agosto de 2019, integrada por Marcelo Gabriel Oyarzo Saldías, Handy Ghislaine Campos Sepúlveda y Patricia Cecilia Palacios González, fijó con fecha 12 de septiembre de 2019, el valor provisional de la indemnización en la cantidad de $9.089.000 para el lote N° 19-2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
