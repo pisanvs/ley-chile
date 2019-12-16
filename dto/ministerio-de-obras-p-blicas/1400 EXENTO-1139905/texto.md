@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1400 de 20 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 6 para la obra: CONCESIÓN INTERNACIONAL RUTA 5. TRAMO CHILLÁN - COLLIPULLI. FACILIDADES PEATONALES SECTOR LOS GUANACOS, Región del Bio Bío, que figura a nombre de COMUNIDAD SUC. HORACIO CONTRER, rol de avalúo 1509-286 de la comuna de Los Angeles, superficie 239 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 213 de 12 de julio de 2019, integrada por Paola Andrea Van de Wyngard Soto, Handy Ghislaine Campos Sepúlveda y Claudia Paola Montes Cancino, fijó con fecha 30 de agosto de 2019, el valor provisional de la indemnización en la cantidad de $478.000 para el lote Nº 6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
