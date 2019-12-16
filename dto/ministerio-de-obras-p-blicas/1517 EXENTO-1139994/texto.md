@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1517, de 29 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 2, para la obra: COLECTOR SOSA, TRAMO AVDA COLON, que figura a nombre de GONZALEZ GATICA PEDRO ANTONIO, rol de avalúo 1521-37, Comuna de TALCAHUANO, REGION DEL BIOBÍO, superficie 303 m2. La Comisión de Peritos integrada por PATRICIO ANTONIO RIVERA CASTRO, JUAN ANDRES TEPPER LAVANDEROS y ANDRES ANIBAL RISSO CAAMAÑO, mediante informe de tasación de 23 de marzo de 2019, fijó el monto de la indemnización provisional en la cantidad de $55.910.200 para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
