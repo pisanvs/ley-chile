@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1437, de 20 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15,840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.1 y 2, para la obra: CONSERVACION RED VIAL ARAUCANIA AÑO 2008, SECTOR MOLCO HUINCACARA , que figura a nombre de BANCALARI MOLINA ROBERTO Y OTROS, rol de avalúo 308-56, Comuna de VILLARRICA, REGION DE LA ARAUCANÍA, superficies 295 y 371 m2 respectivamente. La Comisión de Peritos integrada por CLAUDIO HERNÁN ANGULO SOTOMAYOR, EVALDO ROBERTO CONTRERAS ROA y PABLO ALEX MANSILLA ARAVENA, mediante informe de tasación de 06 de mayo de 2019, fijó el monto de la indemnización provisional en la cantidad de $3.244.000 para el lote N°1, y $3.322.000 para el lote N°2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
