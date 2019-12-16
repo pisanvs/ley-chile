@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) N°1432, de 20 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropiaron los lotes de terreno N°s.166 y 167, para la obra: MEJORAMIENTO RUTA 7 SUR, SECTOR MURTA - PUERTO TRANQUILO (ACCESO NORTE PUERTO TRANQUILO-ACCESO CAPILLA DEL MARMOL), que figuran a nombre de INVERSIONES LADO SUR LTDA, roles de avalúo 841-55, Comuna de RIO IBAÑEZ, REGION DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO, superficies 2.456 y 4.398 m2. respectivamente. La Comisión de Peritos integrada por SERGIO JEREMIAS ORDENES SALINAS, NICOLÁS ALEJANDRO ALARCÓN SANCHÉZ y HANDY CAMPOS SEPULVEDA, mediante informe de tasación de 01 de marzo de 2019, fijó el monto de la indemnización provisional en la cantidad de $761.200, para el lote N°166 y $160.258.600, para el lote N°167. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+.
