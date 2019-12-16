@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1513, de 29 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 2, para la obra: SISTEMA DE AGUA POTABLE RURAL LINCO ORIENTE-PONIENTE, SECTOR LATERAL 3-1, que figura a nombre de REBOLLEDO JUAN DE D, rol de avalúo 191-20, Comuna de COLLIPULLI, REGION DE LA ARAUCANÍA, superficie 3.180 m2. La Comisión de Peritos integrada por MARIA SOLEDAD NUÑEZ ARROYO, YASCHALA MARIBEL YAÑEZ RIFFO y ENEDINA DEL CARMEN CID RAMÍREZ, mediante informe de tasación de 26 de abril de 2019, fijó el monto de la indemnización provisional en la cantidad de $25.031.000 para el lote Nº2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
