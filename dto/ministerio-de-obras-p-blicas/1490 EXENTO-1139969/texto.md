@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1490, de 29 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 36-A, para la obra: MEJORAMIENTO RUTA L-31, SECTOR LA FLORESTA-QUERI, que figura a nombre de ESCALONA FUENTES EDITH Y OTROS, rol de avalúo 205-873, Comuna de COLBUN, REGION DEL MAULE, superficie 85 m2. La Comisión de Peritos integrada por PATRICIO ULISES DURAN MARCOS, PAULA SOLEDAD GONZALEZ ORTEGA y RODRIGO ANTONIO SILVA LAZO, mediante informe de tasación de 31 de enero de 2018, fijó el monto de la indemnización provisional en la cantidad de $534.200 para el lote Nº36-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
