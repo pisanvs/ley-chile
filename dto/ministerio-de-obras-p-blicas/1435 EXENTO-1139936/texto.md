@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto M.O.P. (Exento) N° 1435, de 20 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10 letra c), 14° letra e) y 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840 y del DFL MOP. N°206, de 1960, se expropió el lote de terreno N° 21-A, para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta Valeriano, Etapa I, Km. 37,80000 al Km. 44,06000", que figura a nombre de ADAOS SERICHE CLARA ALICIA, rol de avalúo 911-37, Comuna de ALTO DEL CARMEN, Región de Atacama, superficie 507 m2. La Comisión de Peritos integrada por XIMENA PEÑALOZA HERRERO, SERGIO BORDOLI VERGARA y NORMAN CALDERON PONTIGGIA, mediante informe de tasación de 12 de septiembre de 2007, complementada por acta de fecha 25 de septiembre de 2019, fijó el monto de la indemnización provisional en la cantidad de $2.161.250.- para el lote N° 21-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
