@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 340, de fecha 14 de agosto de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Corpesca S.A., RUT 96.893.820-7, concesión marítima menor con vencimiento al 31 de diciembre del año 2024, sobre un sector de playa, en el lugar denominado Sector Playa Los Gringos, comuna y provincia de Arica, Región de Arica y Parinacota, con una superficie total de 49,891 m2., la que fue tramitada con el SIABC Nº 35.852. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 18º30'27,08" - 70º19'05,28". El objeto consiste en amparar la instalación de un sistema de aducción compuesto por cuatro cañerías aductoras. El plazo contemplado para su ejecución es de doce meses, posteriores a su fecha de inicio. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Arica. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Carlos Opitz Bastías, Teniente Segundo LT.
