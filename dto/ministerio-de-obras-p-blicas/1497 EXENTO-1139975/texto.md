@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1497 de 29 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 18 para la obra: AUTOPISTA SANTIAGO - SAN ANTONIO. SECTOR: RUTA G-904 - SECTOR SAN JUAN Y LO GALLARDO. TRAMO: KM 11.285,00 A KM 15.508,00, Región de Valparaíso, que figura a nombre de YUNGE BARRERA OSCAR MIGUEL, rol de avalúo 9030-83, comuna de San Antonio, superficie 106 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 224 de 23 de julio de 2019, modificada por Resolución Expropiaciones Fiscalía Exenta N° 304 de 21 de octubre de 2019, integrada por Carolina Claudia Verdejo Díaz, Loreto Isabel Hernández Ríos y Claudia Carolina San Martín Farto, fijó con fecha 22 de agosto de 2019, el valor provisional de la indemnización en la cantidad de $27.149.953 para el lote N° 18. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
