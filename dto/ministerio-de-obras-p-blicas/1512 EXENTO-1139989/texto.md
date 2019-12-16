@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) N°1512, de 29 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3° letra a), 10° letra c), 14° letra e) y 105° del DFL. MOP. N°850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley N°15.840 y del DFL. MOP. N°206 de 1960, se expropió el lote de terreno N° A45, para la obra: CONSTRUCCION EMBALSE LAS PALMAS, que figura a nombre de OYANADEL OYANADEL MARIA VIOLETA, rol de avalúo 160-1, Comuna de PETORCA, REGION DE VALPARAÍSO, superficie 223.015 m2. La Comisión de Peritos integrada por CAROLINA CLAUDIA VERDEO DÍAZ, HANDY GHISLAINE CAMPOS SEPULVEDA y TATIANA YASMIN GUTIERREZ ORTIZ, mediante informe de tasación de 28 de octubre de 2019, fijó el monto de la indemnización provisional en la cantidad de $141.789.000 para el lote N°A45. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N°2186, de 1978.
+
+Fiscalía MOP.
