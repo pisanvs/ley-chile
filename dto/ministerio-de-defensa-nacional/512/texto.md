@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 512, de 21 de diciembre de 2018, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Juan José Fernández Vásquez, RUN Nº 4.791.371-3, y a Gustavo Holger Heinrich Bannach Sichtermann, RUN Nº 3.378.100-8, Primera Renovación de Concesión Marítima Menor, con vencimiento 31 de diciembre de 2023, sobre un sector de Terreno de Playa y Uso de Mejora Fiscal, en el lugar denominado Caleta Hornos, comuna de Mejillones, provincia y Región de Antofagasta, con una superficie total de 647,42 m2, la que fue tramitada con el SIABC Nº 34.633. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 22º54'57,34" S - 70º17'33,48" W. El objeto consiste en continuar amparando la construcción existente (mejora fiscal y particular), destinadas a una cabaña de veraneo familiar y bodega. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Mejillones. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Ricardo Cáceres Avello, Capitán de Corbeta LT., Capitán de Puerto de Mejillones.
