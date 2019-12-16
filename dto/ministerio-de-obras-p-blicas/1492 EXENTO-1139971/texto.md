@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP (Exento) Nº1492, de 29 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 1, para la obra: CONSERVACION GLOBAL MIXTA CAMINO RED VIAL VIII REGION 2015 - 2019, SECTOR RUTA Q-80 NEGRETE - COIHUE, que figura a nombre de SOC. AGR. Y FOR. DUNAS LTDA., rol de avalúo 70-257, Comuna de NEGRETE, REGION DEL BIOBÍO, superficie 5.233 m2. La Comisión de Peritos integrada por VALESKA CAROLINA ALÉ GOÑI, MARIA PAMELA MAC-GUIRE ACEVEDO y VALERIA DEL CARMEN MARDONEZ LEMA, mediante informe de tasación de 14 de noviembre de 2018, fijó el monto de la indemnización provisional en la cantidad de $33.025.909 para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
