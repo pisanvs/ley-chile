@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP. (Exento) Nº1426, de 20 de noviembre de 2019, y en base a la facultad otorgada por el artículo 3º letra a), 10º letra c), 14º letra e) y 105º del DFL. MOP. Nº850 de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº15.840 y del DFL. MOP. Nº206 de 1960, se expropió el lote de terreno Nº 77, para la obra: CONSERVACION SANEAMIENTO RUTA A-23, SECTOR CERRO TAAPACA-QUEBRADA DE ALLANE, que figura a nombre de COMUNIDAD JUAN DE DIOS ARANDA Y OTR, rol de avalúo 3810-124, Comuna de PUTRE, REGION DE ARICA Y PARINACOTA, superficie 990 m2. La Comisión de Peritos integrada por RAYEN ALEJANDRA GUZMAN THEODULOZ, CARLOS ALBERTO MONTECINOS GALLEGUILLOS y DIEGO ANDRES ROZAS GALLARDO, mediante informe de tasación de 31 de mayo de 2019, fijó el monto de la indemnización provisional en la cantidad de $346.500 para el lote Nº77. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscalía MOP.
