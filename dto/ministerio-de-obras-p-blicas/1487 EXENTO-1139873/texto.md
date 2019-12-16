@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP. N° 1487 de 29 de noviembre de 2019, se modificó el numeral segundo del Decreto Exento MOP. N°878 de 08 de agosto de 2018, en lo que respecta al rol de avalúo y nombre de propietario del lote N°170-B, quedando como a continuación se indica: propietario según SII, VERA GONZALES LOURDES MARIA Y OTRO rol de avalúo 2560-199 ubicado en la comuna de Melipilla, superficie 250 m2.
