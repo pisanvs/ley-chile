@@ -1,0 +1,23 @@
+NOTIFICACIÓN
+
+Por resolución exenta N° 2.797, de 9 de diciembre de 2019, de Serviu Región de Antofagasta, conforme el artículo 51 de la ley 16.391 y DL N° 2.186, de 1978, para desarrollar el proyecto "Plan Zona Norte de la Región de Antofagasta que se enmarca en la Política Ministerial de Vivienda y Urbanismo del periodo 2018-2022 y, cuyo énfasis se centra en la Ciudad, Territorio y Vivienda", se dispuso la expropiación de los siguientes inmuebles:
+
+f.1) Terreno descrito como Establecimiento Metalúrgico, conocido con el nombre de Pollock, ubicado en barrio La Caleta, que se encuentra en calle Pirque s/n y a 80 metros de calle Prat, con una superficie a expropiar de 6.448 metros cuadrados, sin Rol de avalúo, inscrito a fojas 269 N° 250, del año 2012, valorizado en su conjunto en UF 3.737, correspondiente a un monto total de $105.708.383.- (Ciento cinco millones setecientos ocho mil trescientos ochenta y tres pesos).
+
+f.2) Terreno descrito como Establecimiento Metalúrgico, conocido con el nombre de Pollock, ubicado en barrio La Caleta, con una superficie a expropiar de 7.840 metros cuadrados, Rol de avalúo N° 510-7, inscrito a fojas 130 N° 176, del año 1995, del Registro de Propiedad del Conservador de Bienes Raíces de Taltal, valorizado en su conjunto en UF 4.782, correspondiente a un monto total de $135.293.469.- (Ciento treinta y cinco millones doscientos noventa y tres mil cuatrocientos sesenta y nueve pesos).
+
+f.3) Terreno denominado como Lote B, ubicado en Avenida Manuel Antonio Matta N° 1800, con una superficie a expropiar de 101.650 metros cuadrados, Rol de avalúo N° 510-3, inscrito a fojas 84 N° 76, del año 2012, del Registro de Propiedad del Conservador de Bienes Raíces de Taltal, valorizado en su conjunto en UF 50.225, correspondiente a un monto total de $1.420.865.733.- (Mil cuatrocientos veinte millones ochocientos sesenta y cinco mil setecientos treinta y tres mil pesos).
+
+f.4) Terreno ubicado en calle Baquedano N° 1212, de la comuna de Tocopilla, con una superficie a expropiar de 352 metros cuadrados, Rol de avalúo N° 82-22, inscrito a fojas 471 N° 410, del año 1998, del Registro de Propiedad del Conservador de Bienes Raíces de Tocopilla, valorizado en su conjunto en UF 3.592, correspondiente a un monto total de $101.627.864.- (Ciento un millones seiscientos veintisiete mil ochocientos sesenta y cuatro pesos).
+
+f.5) Terreno ubicado en calle Baquedano N° 1208, de la comuna de Tocopilla, con una superficie a expropiar de 186 metros cuadrados, Rol de avalúo N° 82-21, inscrito a fojas 270 N° 256, del año 1999, del Registro de Propiedad del Conservador de Bienes Raíces de Tocopilla, valorizado en su conjunto en UF 2.049, correspondiente a un monto total de $57.971.286.- (Cincuenta y siete millones novecientos setenta y un mil doscientos ochenta y seis pesos).
+
+f.6) Terreno ubicado en calle Caleta Vieja s/n ST 1 y ST 2, de la manzana E, de la comuna de Tocopilla, con una superficie a expropiar de 3.570 metros cuadrados, Rol de avalúo N° 324-31, inscrito a fojas 122 N° 105, del año 1991, del Registro de Propiedad del Conservador de Bienes Raíces de Tocopilla, valorizado en su conjunto en UF 6.213, correspondiente a un monto total de $175.773.020.- (Ciento setenta y cinco millones setecientos setenta y tres mil veinte pesos).
+
+f.7) Terreno ubicado en calle Arturo Prat N° 1360-1370, de la comuna de Tocopilla, con una superficie a expropiar de 359 metros cuadrados, Rol de avalúo N° 82-4, inscrito a fojas 990 N° 828, del Registro de Propiedad del Conservador de Bienes Raíces de Tocopilla, del año 2009, valorizado en su conjunto en UF 8.631, correspondiente a un monto total de $244.173.019.- (Doscientos cuarenta y cuatro millones ciento setenta y tres mil diecinueve pesos).
+
+f.8) Terreno ubicado en calle Arturo Prat N° 1372-1384, de la comuna de Tocopilla, con una superficie a expropiar de 345 metros cuadrados, Rol de avalúo N° 82-20, inscrito a fojas 239 vta., N° 255 del Registro de Propiedad del Conservador de Bienes Raíces de Tocopilla, del año 1975, y fojas 144 N° 144 del mismo registro y año, valorizado en su conjunto en UF 5.227, correspondiente a un monto total de $147.864.043.- (Ciento cuarenta y siete millones ochocientos sesenta y cuatro mil cuarenta y tres pesos). Comisión de peritos designada por resolución exenta N° 2.767, del 5 de diciembre de 2019, integrada por los señores Carolina Verónica O'Brien Molina, Bárbara Portilla Cortés, Rodrigo Carbacho Aedo por informe presentado con fecha 9 de diciembre de 2019, se fijó monto provisional de indemnización para el propietario en la suma indicada anteriormente.
+
+Publicación se efectúa conforme lo dispuesto en artículo 7° del DL 2.186, de 1978.-
+
+Rodrigo Saavedra Burgos, Director Serviu Región de Antofagasta.
