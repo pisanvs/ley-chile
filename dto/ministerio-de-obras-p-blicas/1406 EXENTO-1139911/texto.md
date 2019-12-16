@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1406 de 20 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra c), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1 para la obra: CONCESIÓN INTERNACIONAL RUTA 5. TRAMO CHILLÁN - COLLIPULLI. PASARELA, PARADEROS E ILUMINACION, SECTOR LA MONA, Región del Bio Bío, que figura a nombre de VILLAR BREVIS HERNAN ALONSO, rol de avalúo 4800-15 de la comuna de Los Ángeles, superficie 231 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 228 de 5 de agosto de 2019, integrada por Verónica Paz Olivier Valdebenito, Marlene Teresa Ríos Marcuello y Paulina Andrea Pizarro Navarrete, fijó con fecha 16 de septiembre de 2019, el valor provisional de la indemnización en la cantidad de $508.200 para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
