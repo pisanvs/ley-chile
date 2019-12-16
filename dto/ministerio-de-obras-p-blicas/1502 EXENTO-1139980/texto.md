@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1502 de 29 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió los lotes de terreno N° 160-2 y N° 160-3 para la obra: CONCESION DE LA OBRA PUBLICA, EMBALSE LA PUNILLA. AREA COMPENSACION DE LA BIODIVERSIDAD, Región de Ñuble, que figuran a nombre de INMOBILIARIA E INVERSIONES KASTE en los dos casos, ambos con rol de avalúo 113-1 de la comuna de Coihueco, superficies 1.703.475 m2 y 332.187 m2, respectivamente. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 241 de 6 de agosto de 2019, integrada por Inés Elena Otárola Castillo, Víctor Marcelo Soto Troncoso y Andrés Echeverría Campo, fijó con fecha 25 de septiembre de 2019, el valor provisional de las indemnizaciones en las cantidades de $340.695.000 para el lote N° 160-2 y $66.437.400 para el lote N° 160-3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
