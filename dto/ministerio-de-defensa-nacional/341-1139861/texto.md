@@ -1,0 +1,5 @@
+MODIFICACIÓN DE DECRETO SUPREMO
+
+Decreto supremo Nº 341, de 14 de agosto de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, que modifica decreto supremo Nº 105, de 4 de abril de 1994, que otorgó a Corpesca S.A., RUT 96.893.820-7, primera renovación con modificación de concesión marítima, con vencimiento al 31 de diciembre de 2023, sobre un sector de terreno de playa, playa, fondo de mar y porción de agua, en el lugar denominado Caleta Quiane, Ensenada San Martín, comuna y provincia de Arica, Región de Arica y Parinacota. Dicha modificación dispone reemplazar los numerales primero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo y noveno, de la parte resolutiva del DS Nº 105, de 1994. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 18º31'12,49" - 70º19'09,03". Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Arica. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Carlos Opitz Bastías, Teniente Segundo LT.
