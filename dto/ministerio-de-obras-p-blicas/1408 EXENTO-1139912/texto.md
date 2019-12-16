@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 1408 de 20 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3º letra a), 10º letra e), 14 letra e) y 105 del DFL MOP Nº 850, de 1997, que fijó el texto actualizado de la ley Nº 15.840 y DFL MOP Nº 206, de 1960, se expropió el lote de terreno Nº 1 para la obra: CONCESIÓN INTERNACIONAL RUTA 5. TRAMO CHILLÁN - COLLIPULLI. FACILIDADES PEATONALES SECTOR COLLIPULLI, Región de la Araucanía, que figura a nombre de GONZALEZ BARRIGA MARIA M, rol de avalúo 185-53 de la comuna de Collipulli, superficie 122 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº 217 de 12 de julio de 2019, integrada por Jessica Paola Cortés Rodríguez, Eduardo Alejandro Silva Aracena y Víctor Marcelo Soto Troncoso, fijó con fecha 30 de agosto de 2019, el valor provisional de la indemnización en la cantidad de $3.009.700 para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+.
