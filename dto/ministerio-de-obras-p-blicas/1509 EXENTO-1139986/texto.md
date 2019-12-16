@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto Exento MOP N° 1509 de 29 de noviembre de 2019, y en base a la facultad otorgada por los artículos 3° letra a), 10° letra c), 14 letra e) y 105 del DFL MOP N° 850, de 1997, que fijó el texto actualizado de la ley N° 15.840 y DFL MOP N° 206, de 1960, se expropió el lote de terreno N° 43 para la obra: RELICITACIÓN CONCESIÓN CAMINO NOGALES - PUCHUNCAVI. SECTOR: SECTOR 2 (BY PASS A RUTA F 30E). SUBSECTOR: BY PASS PUCHUNCAVI. KM 25.500,00 AL KM 33.000,00, Región de Valparaíso, que figura a nombre de NUNEZ HERRERA ROLANDO SEGUNDO, rol de avalúo 74-72, comuna de Puchuncaví, superficie 80.080 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta N° 276 de 3 de septiembre de 2019, integrada por Gustavo Eduardo Picero García, Claudia Carolina San Martín Farto y Sergio Enrique Castillo Vega, fijó con fecha 9 de octubre de 2019, el valor provisional de la indemnización en la cantidad de $929.097.000 para el lote N° 43. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+.
