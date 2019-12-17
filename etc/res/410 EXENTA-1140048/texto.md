@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO IDENTIFICACIÓN DEL MARCO REGULATORIO IPS NCH3262:2012, NORMA CHILENA DE IGUALDAD DE GÉNERO Y CONCILIACIÓN DE VIDA LABORAL, FAMILIAR Y PERSONAL", VERSIÓN 01
+
+Por resolución exenta Nº 410, de 29 de noviembre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Procedimiento Identificación del Marco Regulatorio IPS NCh3262:2012, Norma Chilena de Igualdad de Género y Conciliación de Vida Laboral, Familiar y Personal", Versión 01, cuyo objetivo es establecer el mecanismo y las responsabilidades para la identificación, el acceso, la actualización y evaluación del grado de cumplimiento de los requisitos legales de Igualdad de Género y de Conciliación de la vida laboral, familiar y personal, aplicables al Instituto de Previsión Social (IPS).
+
+Santiago, 12 de diciembre de 2019.- Patricio Coronado Rojo, Director Nacional.
