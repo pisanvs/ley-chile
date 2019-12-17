@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO SINCRONIZACIÓN DE RELOJES EN EL INSTITUTO DE PREVISIÓN SOCIAL CÓDIGO: PRO-15", VERSIÓN Nº2
+
+Por resolución exenta Nº 384, de 25 de noviembre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba para el Instituto de Previsión Social, el documento denominado "Procedimiento Sincronización de Relojes en el Instituto de Previsión Social Código: PRO-15", cuyo objetivo es establecer un método de sincronización horaria, apuntando a una sola fuente de referencia. para los relojes de todos los sistemas, servidores y estaciones de trabajo de la red del Instituto de Previsión Social (IPS), que permita generar registros precisos y facilite su supervisión y gestión ante requerimientos.
+
+Santiago, 12 de diciembre de 2019.- Patricio Coronado Rojo, Director Nacional.
