@@ -24,9 +24,7 @@ Resolución:
 
 1. Llámase a postulación en condiciones especiales a familias residentes en viviendas Antiguas y/o Patrimoniales, sean estas últimas monumentos históricos, inmuebles de conservación histórica, o emplazadas en zonas típicas o en zonas de conservación histórica de las regiones de Coquimbo, Valparaíso y Metropolitana, para el otorgamiento de subsidios del Programa de Protección del Patrimonio Familiar correspondientes al Título II Mejoramiento de la Vivienda, letras b.1) y b.2) del artículo 5° del DS. N° 255 (V. y U.) de 2006, destinados a proyectos de Seguridad de la Vivienda y Habitabilidad de la Vivienda, respectivamente.
 
-Este llamado contempla una primera selección para las regiones de Coquimbo, Valparaíso y Metropolitana la que se realizará el día 18 de octubre de 2019 y en la cual podrán postular los proyectos que cuenten con certificado de calificación a esa fecha y para las regiones de Coquimbo y Valparaíso se establece una segunda selección, para el día 30 de noviembre de 2019, donde podrán postular los proyectos calificados a esa fecha.
-
-Este llamado contempla 1 selección, la que se realizará el día 18 de octubre de 2019 y en la cual podrán postular los proyectos que cuenten con certificado de calificación a esa fecha.
+Este llamado contempla una primera selección para las regiones de Coquimbo, Valparaíso y Metropolitana la que se realizará el día 18 de octubre de 2019 y en la cual podrán postular los proyectos que cuenten con certificado de calificación a esa fecha y para las regiones de Coquimbo y Valparaíso se establece una segunda selección, para el día 12 de diciembre de 2019, donde podrán postular los proyectos calificados a esa fecha.
 
 2. La postulación a este llamado se podrá realizar en forma colectiva o individual.
 
@@ -94,9 +92,9 @@ c) Otros tenedores legítimos: copia del título que acredite tal calidad y auto
 
 6.3 Se deberá acreditar en los inmuebles las siguientes condiciones:
 
-a) Acreditar la condición habitacional mediante certificado emitido por la Dirección de Obras Municipales correspondiente.
+a) Acreditar la condición habitacional mediante certificado emitido por la Dirección de Obras Municipales correspondiente o mediante certificado de Avalúo Fiscal que indique el destino del inmueble.
 
-b) Presentar el plano de empresa sanitaria que corresponda, en caso de que no exista debe presentar plano visado por la DOM de la Municipalidad correspondiente. Serviu podrá eximir de este requisito si no lo estima pertinente para la intervención.
+b) Para las viviendas antiguas, la fecha de construcción podrá ser acreditada mediante las siguientes formas: a través de la DOM quienes podrán acreditar que fue construida con anterioridad a la Ley General de Urbanismo y Construcciones (DFL N° 345 de 1931, del Ministerio del Interior), la cual entró en vigencia en el año 1936, o presentando el plano de empresa sanitaria que corresponda, y en caso de que no exista se debe presentar un plano visado por la DOM de la Municipalidad correspondiente. El Serviu podrá eximir de este requisito si no lo estima pertinente para la intervención.
 
 6.4 Cuando el inmueble esté emplazado en una Zona de Conservación Histórica o haya sido reconocido como Inmueble de Conservación Histórica, deberá contar al momento de la calificación del proyecto con la autorización de la Seremi de Vivienda y Urbanismo, según las disposiciones del artículo 60 de la Ley General de Urbanismo y Construcciones y, cuando el inmueble esté emplazado en una Zona Típica, deberá contar con la autorización del Consejo de Monumentos Nacionales, según las disposiciones vigentes.
 
