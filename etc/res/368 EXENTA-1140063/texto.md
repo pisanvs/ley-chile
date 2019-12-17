@@ -1,0 +1,5 @@
+SE APRUEBA CONVENIO DE COLABORACIÓN Y PRESTACIÓN DE SERVICIOS ENTRE EL INSTITUTO DE PREVISIÓN SOCIAL Y EL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN, SOBRE MATERIA QUE INDICA
+
+Por resolución exenta Nº 368, de 6 de noviembre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba el Convenio de Colaboración y Prestación de Servicios entre el Instituto de Previsión Social y Servicio de Registro Civil e Identificación, suscrito con fecha 23 de agosto de 2019, cuyo objetivo es proporcionar al Instituto de Previsión Social, bajo la modalidad de un servicio fuera de línea, denominado Servicio Batch, información registrada de los extranjeros, la que será utilizada como insumo para cruzar datos con las bases de beneficiarios que posee el Instituto y, de esta forma, analizar la situación previsional y de seguridad social de la población extranjera.
+
+Santiago, 12 de diciembre de 2019.- Patricio Coronado Rojo, Director Nacional.
