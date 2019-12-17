@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO DE DENUNCIA DE CONDUCTAS DE MALTRATO Y ACOSO LABORAL Y SEXUAL", VERSIÓN 2 Y DEJA SIN EFECTO RESOLUCIÓN EXENTA Nº 756, DE 24.12.2014, DICTADA SOBRE IGUAL MATERIA
+
+Por resolución exenta Nº 415, de 29 de noviembre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Procedimiento de Denuncia de Conductas de Maltrato y Acoso Laboral y Sexual", Versión 2, cuyo objetivo es establecer mecanismos que permitan a todas las personas, que trabajen en el IPS o para este, identificar conductas de maltrato acoso laboral y/o sexual investigarlas y posteriormente, de corresponder, sancionar aquellas denuncias que sean comprobadas por medio de un proceso sumarial y, adicionalmente, detectar factores de riesgos con el fin de prevenir la ocurrencia de este tipo de situaciones.
+
+Santiago, 12 de diciembre de 2019.- Patricio Coronado Rojo, Director Nacional.
