@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO SENSIBILIZACIÓN Y REGISTRO DE DENUNCIAS PARA PROVEEDORES DEL IPS EN EL MARCO DE LA NCH3262", VERSIÓN 01
+
+Por resolución exenta Nº 400, de 29 de noviembre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Procedimiento Sensibilización y Registro de Denuncias para Proveedores del IPS en el Marco de la NCh3262", versión 01, cuyo objetivo es establecer los mecanismos y responsabilidades para la difusión y sensibilización de la normativa legal e institucional que tenga relación con el Sistema de Gestión de Igualdad de Género y Conciliación de la Vida Laboral, Familiar y Personal, a las empresas contratistas que prestan servicios al IPS. Asimismo, el registro y gestión de eventos de acoso (laboral y sexual) y discriminación cuando esté involucrado un funcionario/a del IPS, ya sea como denunciante o denunciado/a y un/una trabajador/a de un Proveedor del IPS.
+
+Santiago, 12 de diciembre de 2019.- Patricio Coronado Rojo, Director Nacional.
