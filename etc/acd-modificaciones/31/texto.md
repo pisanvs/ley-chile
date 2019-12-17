@@ -44,7 +44,9 @@ En todo caso, la Comisión podrá aceptar que en el Reglamento se definan las ci
 
 #### Artículo 4
 
-El Reglamento debe establecer que los pasivos más los gravámenes y prohibiciones que mantenga el Fondo, no podrán exceder del 50% de su patrimonio. Sin perjuicio de lo anterior, este límite podrá llegar hasta 100% del patrimonio del Fondo, cuando se trate exclusivamente de la constitución de gravámenes y prohibiciones sobre las acciones o participación en sociedades que formen parte de su cartera de instrumentos. Para estos efectos, cuando un activo esté sujeto a gravamen o prohibición como garantía por una obligación del Fondo, se considerará el mayor valor de entre el activo afecto al gravamen o prohibición y la obligación garantizada.
+El Reglamento deberá establecer que los pasivos más los gravámenes y prohibiciones que mantenga el Fondo, no podrán exceder del 50% de su patrimonio. Sin perjuicio de lo anterior, este límite podrá llegar hasta 100% del patrimonio del Fondo, cuando se refiera exclusivamente a la constitución de gravámenes y prohibiciones sobre las acciones o participación en sociedades que formen parte de su cartera de instrumentos. Para estos efectos, cuando un activo esté sujeto a gravamen o prohibición como garantía por una obligación del Fondo, se considerará el mayor valor de entre el activo afecto al gravamen o prohibición y la obligación garantizada.
+
+No será exigible el límite de endeudamiento antes señalado, a aquellos Fondos que permitan en su Reglamento Interno inversiones en sociedades sobre las cuales posean el control directo, indirecto o por cualquier otro medio, los que deberán contar con al menos dos clasificaciones de riesgo de solvencia iguales o superiores a Categoría BBB, para lo cual se considerarán las clasificaciones de mayor riesgo asignadas.
 
 #### Artículo 5
 
@@ -182,7 +184,7 @@ Disposiciones Transitorias
 
 #### Artículo 1
 
-Los Fondos cuyas cuotas se encuentren aprobadas por la Comisión a la fecha de publicación de este Acuerdo y que requieran modificar su Reglamento, tendrán plazo hasta el 30 de abril de 2013 para realizar una Asamblea Extraordinaria de Aportantes o Reunión de Directorio, según corresponda, con el fin de ajustarse a los nuevos procedimientos de aprobación de cuotas establecidos mediante el presente Acuerdo.
+Los Fondos cuyas cuotas se encuentren aprobadas por la Comisión a la fecha de publicación de este Acuerdo, y que requieran modificar su Reglamento o contratar las clasificaciones de riesgo de solvencia requeridas, tendrán plazo hasta el 31 de mayo de 2020 para ajustarse al nuevo procedimiento de aprobación de cuotas establecido mediante el presente Acuerdo.
 
 En caso que transcurra este plazo y el Fondo no cumpla con las exigencias anteriormente señaladas, las cuotas serán desaprobadas.
 
