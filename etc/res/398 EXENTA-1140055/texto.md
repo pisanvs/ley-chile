@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO DE SENSIBILIZACIÓN, CAPACITACIÓN Y DIFUSIÓN EN SEGURIDAD DE LA INFORMACIÓN" CÓDIGO: PRO-14
+
+Por resolución exenta Nº 398, de 28 de noviembre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Procedimiento de Sensibilización, Capacitación y Difusión en Seguridad de la Información" Código: PRO-14", cuyo objetivo es entregar formación adecuada para crear conocimiento acerca de las políticas, procedimientos e instructivos organizacionales sobre Seguridad de la Información (pertinentes para su función laboral) a todo el funcionariado del IPS y, en donde sea pertinente, al personal a honorarios y externo.
+
+Santiago, 12 de diciembre de 2019.- Patricio Coronado Rojo, Director Nacional.
