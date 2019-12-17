@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO DE ESPECIFICACIÓN DE ENTORNOS DE DESARROLLO SEGURO DE SISTEMAS INFORMÁTICOS" CÓDIGO: PRO-11
+
+Por resolución exenta Nº 386, de 25 de noviembre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba para el Instituto de Previsión Social, el documento denominado "Procedimiento de Especificación de Entornos de Desarrollo Seguro de Sistemas informáticos" Código: PRO-11, cuyo objetivo es establecer y proteger adecuadamente los entornos de desarrollo seguro de los sistemas informáticos, para las labores de programación, pruebas e integración, que abarcan todo el ciclo de vida de desarrollo del o los sistemas informáticos del Instituto de Previsión Social.
+
+Santiago, 12 de diciembre de 2019.- Patricio Coronado Rojo, Director Nacional.
