@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "MANUAL DEL SISTEMA DE GESTIÓN DE IGUALDAD DE GÉNERO Y CONCILIACIÓN DE LA VIDA LABORAL, FAMILIAR Y PERSONAL BASADO EN NCH 3262-2012" VERSIÓN 1
+
+Por resolución exenta Nº 413, de 29 de noviembre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Manual del Sistema de Gestión de Igualdad de Género y Conciliación de la Vida Laboral, Familiar y Personal Basado en NCh 3262-2012" Versión 1, cuyo objetivo es establecer los lineamientos para mejorar las condiciones laborales de mujeres y hombres por medio de la aplicación de principios y prácticas de igualdad de género para efectos de detectar y eliminar conductas discriminatorias que estén dadas por las brechas de género existentes en los procesos en la cultura y en las relaciones internas de la organización, así como en la implementación de prácticas laborales que fomenten la conciliación de la vida laboral, familiar y personal bajo una lógica de corresponsabilidad.
+
+Santiago, 12 de diciembre de 2019.- Patricio Coronado Rojo, Director Nacional.
