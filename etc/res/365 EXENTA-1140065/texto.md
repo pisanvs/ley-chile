@@ -1,0 +1,7 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "MANUAL DE COBRANZA DE BENEFICIOS DE SEGURIDAD SOCIAL MAL CONCEDIDOS", VERSIÓN 3
+
+Por resolución exenta Nº 365, de 30 de octubre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba para el Instituto de Previsión Social, el documento denominado "Manual de Cobranza de Beneficios de Seguridad Social Mal Concedidos", Versión 3, cuyo objetivo es establecer los procedimientos administrativos que realizará el Subdepartamento de Cobranza Centralizada, dependiente del Departamento de Cobranza Institucional, de la Subdirección de Sistemas de Información y Administración, para gestionar la cobranza prejudicial y recuperar los cobros o pagos indebidos efectuados por beneficios mal concedidos y/o mal pagados por el Instituto de Previsión Social, IPS, para lograr el máximo de retorno de estas deudas, como también determinar aquellas que deberán judicializarse y en ambos casos señalar el procedimiento que se deberá cumplir, por las áreas involucradas, para solicitar la autorización para castigar contablemente una deuda de Seguridad Social, en los casos que corresponda, todo dentro del marco legal pertinente y de los plazos e instrucciones de los órganos Fiscalizadores.
+
+Santiago, 12 de diciembre de 2019.- Patricio Coronado Rojo, Director Nacional.
+
+Alexander Suárez Olivares, Jefe (S) Departamento Secretaría General y Transparencia, Instituto de Previsión Social.
