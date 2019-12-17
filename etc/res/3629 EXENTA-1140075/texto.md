@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 3.629 EXENTA, DE 2019, DICTADA POR EL MINISTERIO DE TRANSPORTES Y TELECOMUNICACIONES
+
+Por resolución exenta Nº 3.629, de 9 de diciembre de 2019, del Ministerio de Transportes y Telecomunicaciones, se llama a concurso para proveer servicios y se aprueban las bases de postulación al concurso para operar la Unidad de Negocios Nº 10, del Perímetro de Exclusión establecido en el Gran Valparaíso, cuyas condiciones de operación fueron aprobadas por resolución exenta Nº 1.745, de 2019, del Ministerio de Transportes y Telecomunicaciones. Copia íntegra de la resolución y de los plazos y fecha de postulación, pueden ser consultados directamente en www.dtpr.gob.cl, o en dependencias de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso, ubicada en calle Blanco Nº 1131, piso 4, Valparaíso.-
+
+Gloria Hutt Hesse, Ministra de Transportes y Telecomunicaciones.
