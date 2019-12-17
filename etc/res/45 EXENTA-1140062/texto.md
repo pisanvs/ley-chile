@@ -1,0 +1,5 @@
+APRUEBA MODIFICACIÓN DE CONTRATO DE ARRENDAMIENTO ENTRE TERESA MAGALI CATALÁN CUEVAS Y EL INSTITUTO DE PREVISIÓN SOCIAL, POR EL INMUEBLE UBICADO EN CALLE BERNARDO O'HIGGINS, Nº 598, COMUNA DE COCHRANE, REGIÓN DE AYSÉN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO
+
+Por resolución exenta I Nº 45, de 13 de noviembre de 2019, el Jefe del Departamento de Administración e Inmobiliaria, aprueba el documento "Modificación Contrato de Arrendamiento entre Teresa Magali Catalán Cuevas e Instituto de Previsión Social", suscrito con fecha 2 de octubre de 2019, respecto del Inmueble ubicado en calle Bernardo O'Higgins, Nº598, Comuna de Cochrane, Región de Aysén del General Carlos Ibáñez del Campo, propiedad de la primera, en el sentido de aumentar en la suma de cien mil pesos al canon de arriendo establecido en la Cláusula Tercera del contrato de la especie, aprobado por resolución exenta Nº 16, de 12 de abril de 2018, de la Dirección Regional IPS de la Región de Aysén del General Carlos Ibáñez del Campo.
+
+Santiago, 12 de diciembre de 2019.- Roberto Lagos Flores, Jefe Departamento Administración e Inmobiliaria.
