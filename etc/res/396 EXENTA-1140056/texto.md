@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO DE GESTIÓN DE ENTREGA DEL SERVICIO DE LOS PROVEEDORES CÓDIGO PRO-06", VERSIÓN 1
+
+Por resolución exenta Nº 396, de 28 de noviembre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Procedimiento de Gestión de Entrega del Servicio de los Proveedores Código PRO-06", cuyo objetivo es complementar el ámbito de acción y responsabilidades de la Administradora o del Administrador de Contrato, establecidos en el Procedimiento de Administración de Contratos de Bienes y Servicios, aprobado por resolución exenta Nº 484, de 18 de diciembre de 2018, junto con incorporar las funciones de la Jefatura de Proyecto para mantener un nivel acordado de seguridad de la información y entrega de servicios de Tecnologías de la Información y la Comunicación (TICS), conforme a los acuerdos con el proveedor.
+
+Santiago, 12 de diciembre de 2019.- Patricio Coronado Rojo, Director Nacional.
