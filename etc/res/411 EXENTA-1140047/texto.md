@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL, EL DOCUMENTO DENOMINADO "PROCEDIMIENTO TRATAMIENTO DE HALLAZGOS DEL SGIGC", VERSIÓN 01
+
+Por resolución exenta Nº 411, de 29 de noviembre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Procedimiento Tratamiento de Hallazgos del SGIGC", Versión 01, cuyo objetivo es describir la metodología para realizar la gestión de hallazgos, entendido esto como el análisis de causas básicas, la definición e implantación de acciones correctivas y preventivas y la verificación de su eficacia y eficiencia. Aplica también para los reclamos y detección de prácticas discriminatorias donde se vincula estrechamente con el "Procedimiento para el Tratamiento de Reclamos Relativos a Situaciones No Equitativas o Discriminatorias".
+
+Santiago, 12 de diciembre de 2019.- Patricio Coronado Rojo, Director Nacional.
