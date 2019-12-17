@@ -22,6 +22,8 @@ Resolución:
 
 2. Los recursos involucrados para la selección de postulantes por Región, son los siguientes:
 
+.
+
 3. El número de proyectos seleccionados en cada región, alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el resuelvo 2., incluidos sus respectivos servicios de asistencia técnica y fiscalización técnica de obras, pudiendo practicarse redistribuciones y ajustes que serán sancionadas mediante resolución.
 
 4. Establécese que todos los antecedentes de los postulantes, incluyendo la conformación del núcleo familiar y las condiciones de la vivienda habitada, serán consultados directamente del Registro Social de Hogares respectivo. Para efectos de determinar el puntaje para la selección, conforme el artículo 24, del DS N° 49 (V. y U.), de 2011, los postulantes que no cuenten con información de caracterización socioeconómica actualizada, no obtendrán puntaje por el factor respectivo.
