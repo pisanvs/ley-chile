@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) "PARQUE FOTOVOLTAICO GRAN TENO 200 MW", CUYO PROPONENTE ES "GR ALGARROBO SpA"
+
+Con fecha 10 de diciembre del 2019, se dictó la resolución exenta N° 149/2019 del Director Regional del SEA de la Región del Maule, que resuelve dar inicio al proceso de participación ciudadana en la evaluación ambiental de la DIA del proyecto "Parque Fotovoltaico Gran Teno 200 MW", cuyo proponente es "GR Algarrobo SpA" y que se pretende desarrollar en la comuna de Teno, ubicándose en la Ruta J-120 a 6,4 kilómetros al Sureste de la Plaza de Teno. El plazo legal para efectuar observaciones al proyecto en la plataforma electrónica www.sea.gob.cl del Servicio de Evaluación Ambiental, Región del Maule o ingresadas a la oficina regional ubicada en calle Dos Oriente 946, Talca, será de 20 días hábiles y se contará desde la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través de la plataforma electrónica del Servicio de Evaluación Ambiental (www.sea.gob.cl).-
+
+René Alejandro Christen Fernández, Director Regional del Servicio de Evaluación Ambiental, Región del Maule.
