@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) "NÚCLEO AGRICOVIAL"
+
+De conformidad a lo dispuesto en el artículo 95 e inciso final del artículo 91 del DS Nº 40/2012 del MMA (Reglamento del SEIA) se comunica a toda persona natural o jurídica que hubiera presentado observaciones durante la evaluación ambiental de la DIA del proyecto "Núcleo Agricovial", sometido al Sistema de Impacto Ambiental por su titular "Agricovial S.A.", que por resolución exenta Nº 269, de 9 diciembre de 2019, la Comisión de Evaluación de la Región del Maule calificó desfavorablemente el proyecto singularizado. Estas personas, naturales o jurídicas, disponen de un plazo de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Director Ejecutivo del Servicio de Evaluación Ambiental, de conformidad al artículo 30 bis de la ley 19.300.
+
+El texto íntegro de la resolución antes señalada, puede ser conocido en dependencias de la Dirección Regional del SEA Maule, ubicado en 2 Oriente Nº 946, Talca, en la Ilustre Municipalidad de Molina, ubicada en Yerbas Buenas Nº 1389, de Molina, y la Ilustre Municipalidad de Río Claro, ubicada en Casimiro Sepúlveda 1, Río Claro; así como también en el sitio web www.sea.gob.cl.-
+
+René Alejandro Christen Fernández, Director Regional del Servicio de Evaluación Ambiental Región del Maule.
