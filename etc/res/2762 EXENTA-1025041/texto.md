@@ -186,6 +186,42 @@ concluido éste, estos animales tendrán
 
 como único destino matadero.
 
+e) En caso de declararse emergencia agrícola y cualquier otra que haga indispensable mover animales desde zonas de control a zonas de erradicación, definidas en el proyecto de control y erradicación de Tuberculosis bovina, el Servicio podrá autorizar estos movimientos excepcionales de bovinos, siempre que tengan por destino un predio específico o un matadero, de acuerdo a las siguientes directrices:
+
+En el caso del traslado desde la Zona de control con destino a un predio especifico de la zona de erradicación, esto sólo se podrá realizar a un predio no clasificado o clasificado como infectado según lo establecido en el programa de control y erradicación de Tuberculosis bovina y se deberán cumplir las siguientes condiciones:
+
+i. El responsable de la venta de los animales deberá garantizar:
+
+1. Los animales deberán estar identificados individualmente con un DIIO e ingresados en el SIPECWEB con trazabilidad completa.
+
+2. Deberán tener disponible los RUP de los predios de origen de los animales.
+
+3. Deberán utilizar un Formulario de Movimiento Animal Electrónico el cual deberá ser impreso y contar con un timbre de autorización de la Oficina SAG de origen.
+
+4. Deberán informar al SAG de origen, indicando fecha de salida y arribo de los animales.
+
+5. Deberán informar a las Oficinas del Servicio Agrícola y Ganadero con jurisdicción en el destino de los animales, indicando fecha de arribo de los animales.
+
+ii. Comprador o destinatario de los animales en la zona de erradicación:
+
+1. Deberá informar en un plazo no mayor a 48 horas, la llegada de los animales a la oficina del SAG con jurisdicción en el predio de destino, entregando copia del FMA.
+
+2. Deberá realizar una Prueba Ano-Caudal (PAC), a los animales en un máximo de 5 días hábiles posteriores a la llegada de los animales y otro de seguimiento 60 días después de haberse realizado la primera prueba:
+
+a. Si todos los animales resultan negativos, el predio mantendrá su clasificación.
+
+b. En caso de presentar animales positivos, estos deberán ser destinados a matadero para establecer la clasificación de la condición del predio.
+
+3. Los animales autorizados para este traslado excepcional, sólo podrán tener destino final a matadero en su siguiente movimiento.
+
+iii. La oficina SAG de destino deberá verificar la llegada de los animales y realizar un seguimiento del cumplimiento de las condiciones autorizadas para este movimiento excepcional y verificar que los animales autorizados sólo podrán tener destino a matadero en su siguiente movimiento.
+
+iv. En el caso de clasificarse como Positivo a Tuberculosis bovina, todos los animales del predio quedarán con restricción de movimiento, sólo con destino a matadero o a remate con destino final a un matadero, según lo establecido en el proyecto de control y erradicación de Tuberculosis bovina
+
+v. Si uno o más bovinos son confirmados como positivos a Tuberculosis bovina, se deberán investigar los respectivos rebaños de origen, siguiendo los lineamientos del programa de control y erradicación antes indicado.
+
+vi. La resolución que autoriza, deberá contener el plazo y las zonas respecto de las cuales se autorizará el movimiento excepcional de los animales, dictada por el Director Regional.
+
 6. Facúltese a las Direcciones Regionales del Servicio para notificar a los propietarios o tenedores de los animales que se encuentren dentro de las zonas de Control Obligatorio, las medidas sanitarias que regula la presente resolución, su forma de implementación en la oportunidad o eficiencias necesarias, los plazos para su cumplimiento y el medio de notificación. El costo de la aplicación de las medidas sanitarias será de cargo de los afectados.
 
 7. Serán declarados animales enfermos de tuberculosis bovina aquellos que sean reactores a las pruebas tuberculínicas aplicadas bajo los procedimientos oficiales o en los cuales se haya aislado o se haya detectado presencia de Mycobacterium bovis, y por consiguiente el predio será considerado como infectado.
