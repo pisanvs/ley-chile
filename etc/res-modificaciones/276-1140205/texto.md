@@ -1,0 +1,49 @@
+MODIFICA RESOLUCIÓN Nº 199, DE 2014, DEL MINISTERIO DE ECONOMÍA, FOMENTO Y TURISMO, EN EL SENTIDO QUE INDICA
+
+Núm. 276.- Santiago, 14 de octubre de 2019.
+
+Visto:
+
+El artículo 36 de la Constitución Política de la República; el decreto con fuerza de ley Nº 1/19.653, de 2000, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de Administración del Estado; las leyes de presupuestos del sector público de los años 2015, 2016, 2017, 2018 y 2019; las resoluciones Nºs. 199, de 2014, y 146, de 2019, ambas del Ministerio de Economía, Fomento y Turismo; la resolución Nº 30, de 2015 y la resolución Nº 7, de 2019, ambas de la Contraloría General de la República.
+
+Considerando:
+
+1. Que, la ley Nº 20.798, de Presupuestos del Sector Público para el año 2015, en su Partida 50, Capítulo 01, Programa 03, Subtítulo 24, Ítem 03, Asignación 252, Glosa 23, creó el Fondo de Inversión Estratégica para el financiamiento de proyectos mediante convenios suscritos por el Ministerio de Economía, Fomento y Turismo con instituciones del sector público, disponiendo además que, mediante resolución del Ministerio de Economía, Fomento y Turismo, visada por el Ministerio de Hacienda, se establecerían los procedimientos de operación del Fondo de Inversión Estratégica, en adelante "FIE", incluyendo la conformación de un Comité para la definición de iniciativas, la priorización de proyectos, la determinación de los organismos ejecutores, rendiciones y devoluciones.
+
+2. Que, en cumplimiento de lo anterior, los artículos 4º y siguientes de la resolución ministerial afecta Nº 199, de 2014, que Establece Procedimientos de Operación de Fondo de Inversión Estratégica, del Ministerio de Economía, Fomento y Turismo, dispusieron la creación de un Comité de Inversiones Estratégicas encargado de aprobar los programas y proyectos beneficiarios del FIE, mientras que sus artículos 8º y siguientes, establecieron que el aludido Comité de Inversión Estratégica contaría con una Secretaría Ejecutiva como instancia encargada de "Realizar el seguimiento y monitoreo de los convenios, programas y proyectos financiados por el Fondo y proveer de información a los encargados de realizar evaluaciones en el sector público, adoptando las medidas necesarias para garantizar la transparencia tanto en la asignación como en el uso de los recursos" (artículo 9º, Nº 5).
+
+3. Que, los recursos destinados a financiar los programas, proyectos y acciones del FIE fueron contemplados desde el año 2016 en múltiples asignaciones nominativas del Programa 01, Subtítulo 24, Ítem 02 del presupuesto de la Subsecretaría de Economía y Empresas de Menor Tamaño, y a contar de esa misma anualidad, dicho programa presupuestario incluyó en el Subtítulo 24, Ítem 03, otra asignación nominativa especial, número 478, "Secretaría del Fondo de Inversión Estratégica", con recursos destinados a financiar todo tipo de gastos, incluyendo los de personal y bienes y servicios de consumo, permitiendo además costear la contratación de evaluadores expertos de los proyectos o programas del Fondo.
+
+4. Que, las leyes de presupuestos del sector público para los años 2017 y 2018 financiaron únicamente las cuotas de arrastre generadas en virtud de los convenios del FIE suscritos hasta el año 2016, y además, incluyeron los gastos de funcionamiento de la Secretaría Ejecutiva del FIE, pero la ley Nº 21.125, correspondiente a la presente anualidad, le puso término a dicho financiamiento al omitir la provisión recursos para estas dos tipologías de gastos.
+
+5. Que, atendido que aún existen proyectos financiados por el FIE que presentan actividades o indicadores pendientes de ejecución, este Ministerio dictó la resolución Nº 146, de 2019, por la cual modificó el número 5 del artículo 9º de la resolución Nº 199, de 2014, determinando que la función de realizar el seguimiento y monitoreo de los convenios, programas y proyectos financiados por el Fondo será asumida directamente por aquellos organismos públicos ejecutores que suscriban los acuerdos de término anticipado de los convenios de desempeño con este Ministerio, siendo dichas entidades los responsables de velar por el término de las actividades pendientes y la verificación del cumplimiento de los objetivos, indicadores y metas que aún falta por medir.
+
+6. Que, la aludida resolución Nº 146, de 2019, fue tomada de razón con un alcance por la Contraloría General de la República mediante el oficio Nº 25.245, de 23 de septiembre de 2019, el cual precisó que la suscripción de los acuerdos de términos anticipado no obsta a la obligación de este Ministerio como otorgante de continuar requiriendo a todo evento los informes mensuales y finales de rendición de cuentas a los organismos públicos receptores.
+
+7. Que, los programas y proyectos del FIE requieren contar con el cierre financiero como condición necesaria para proceder a su término anticipado, pues de acuerdo con la regulación de los correspondientes convenios de desempeño, los ejecutores deben rendir cuenta de la totalidad de los recursos transferidos por este Ministerio y reintegrar los saldos no ejecutados, no rendidos, observados o rechazados, de modo que en el artículo 1º de la parte resolutiva de este acto administrativo se precisará que no es necesario continuar exigiendo ni revisando las rendiciones de cuentas si es que se ha cumplido la circunstancia anterior.
+
+8. Que, por otro lado, el FIE fue concebido el año 2016 con la finalidad de proporcionar financiamiento a largo plazo para proyectos estratégicos de sectores y temáticas prioritarias que contribuyan al mejoramiento de la productividad, y en ese mismo sentido, algunos organismos públicos ejecutores han manifestado la necesidad de prorrogar el plazo de ejecución de determinados programas y proyectos para poder dar cumplimiento a los objetivos generales aprobados por el Comité de Inversiones Estratégicas en cada caso, sin alterar el monto total de su financiamiento ni la calidad técnica de estos.
+
+9. Que, el texto actualmente vigente del artículo 5º Nº 2 de la aludida resolución ministerial afecta Nº 199, de 2014, establece que al Comité de Inversiones Estratégicas le corresponde "Aprobar o rechazar las propuestas que le presente la Secretaría Ejecutiva para financiar total o parcialmente los programas o proyectos, que hubieren cumplido con las condiciones y procedimientos fijados. Sin perjuicio de ello, en los casos de postulaciones que se efectúen por concurso conforme al numeral I.2) del artículo 10, el Comité podrá establecer en el proceso respectivo condiciones especiales de adjudicación y/o formalización y/o de ejecución de los proyectos que se presenten a su aprobación".
+
+10. Que, esta Secretaría de Estado está realizando todas las gestiones necesarias para el cierre administrativo de aquellos programas y proyectos financiados por el FIE que se encuentran próximos a terminar, pero atendido que existen iniciativas que tienen un menor grado de avance en su ejecución, en estos últimos casos se ha estimado conveniente asignarles directamente a los organismos públicos ejecutores que suscriban los acuerdos de término anticipado de los convenios de desempeño con este Ministerio, la facultad excepcional de aprobar la prórroga del plazo de ejecución de las actividades de los proyectos y programas que aún se encuentran pendientes de cumplimiento, cuando resulte estrictamente necesario para alcanzar los objetivos de dichas iniciativas, sin aumentar el monto total de su financiamiento ni alterar su calidad técnica, con el fin de realizar una inversión eficaz y eficiente de los recursos públicos asignados a estas.
+
+11. Que, para lo anterior resulta necesario proceder a modificar los artículos 5º y 9º de la resolución Nº 199, de 2014, citada anteriormente, según se aprueba a continuación.
+
+Resuelvo:
+
+#### Artículo 1º
+
+Agrégase el siguiente inciso final al artículo 5º de la resolución Nº 199, de 2014, del Ministerio de Economía, Fomento y Turismo, que Establece Procedimientos de Operación del Fondo de Inversión Estratégica:
+
+"Los organismos públicos ejecutores que hayan acordado el término anticipado de los convenios de desempeño suscritos con el Ministerio de Economía, Fomento y Turismo, podrán prorrogar los plazos de los proyectos y programas que aún se encuentran pendientes de ejecución cuando ello resulte necesario para dar cumplimiento a sus objetivos y propósitos específicos, sin que puedan alterar las demás condiciones aprobadas por el Comité de Inversiones Estratégicas".
+
+#### Artículo 2º
+
+Agrégase el siguiente inciso segundo al número 5 del artículo 9º de la resolución Nº 199, de 2014, del Ministerio de Economía, Fomento y Turismo, que Establece Procedimientos de Operación del Fondo de Inversión Estratégica:
+
+"Los organismos ejecutores que hayan acordado el término anticipado de sus convenios de desempeño con el Ministerio de Economía, Fomento y Turismo, habiendo dado cumplimiento a las condiciones fijadas en dichos convenios en orden a haber entregado todos los informes de actividades que correspondían a la fecha del cierre, haber rendido cuenta detallada de los recursos transferidos en virtud de dichos convenios, y haber efectuado el reintegro del eventual saldo no ejecutado, no rendido, observado o rechazado, no tendrán la obligación de continuar remitiendo los informes de rendición de cuentas".
+
+Anótese, tómese razón y publíquese.- Juan Andrés Fontaine Talavera, Ministro de Economía, Fomento y Turismo.- Felipe Larraín Bascuñán, Ministro de Hacienda.
+
+Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Ignacio Guerrero Toro, Subsecretario de Economía y Empresas de Menor Tamaño.

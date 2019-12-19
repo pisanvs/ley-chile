@@ -100,6 +100,8 @@ Para efectos de lo señalado en la presente resolución, el Comité tendrá las 
 
 3. Sin perjuicio de las normas establecidas en el Título III de la presente resolución, el Comité deberá aprobar bases técnicas y administrativas que sirvan de sustento para llamados especiales, debiendo establecer, entre otros elementos, los objetivos, caracterización de los postulantes, criterios de evaluación y procedimientos aplicables, los cuales, en todo caso, deben cumplir con los objetivos establecidos en el artículo 3º precedente y con la Ley de Presupuestos respectiva.
 
+Los organismos públicos ejecutores que hayan acordado el término anticipado de los convenios de desempeño suscritos con el Ministerio de Economía, Fomento y Turismo, podrán prorrogar los plazos de los proyectos y programas que aún se encuentran pendientes de ejecución cuando ello resulte necesario para dar cumplimiento a sus objetivos y propósitos específicos, sin que puedan alterar las demás condiciones aprobadas por el Comité de Inversiones Estratégicas
+
 #### Artículo 6º
 
 El Comité será presidido por el Ministro de Economía, Fomento y Turismo. El Comité deberá acordar en su primera sesión, quien ejercerá la Presidencia del Comité en ausencia del Ministro de Economía, Fomento y Turismo.
@@ -135,6 +137,8 @@ La Secretaría Ejecutiva tendrá las siguientes funciones o atribuciones:
 4. Preparar y proponer al Ministro de Economía, Fomento y Turismo, los Convenios que se deban celebrar con el fin de materializar las inversiones estratégicas definidas por el Comité.
 
 5. Realizar el seguimiento y monitoreo de los convenios, programas y proyectos financiados por el Fondo y proveer de información a los encargados de realizar evaluaciones en el sector público, adoptando las medidas necesarias para garantizar la transparencia tanto en la asignación como en el uso de los recursos. Esta obligación será asumida directamente por los organismos ejecutores en aquellos casos en que se acuerde el término anticipado de los convenios de desempeño, debiendo, estos últimos, velar por el término de las actividades y la verificación del cumplimiento de los objetivos, indicadores y metas que se encuentren pendientes de ejecución, y mantener dicha información a disposición de las entidades que realicen evaluaciones en el sector público.
+
+Los organismos ejecutores que hayan acordado el término anticipado de sus convenios de desempeño con el Ministerio de Economía, Fomento y Turismo, habiendo dado cumplimiento a las condiciones fijadas en dichos convenios en orden a haber entregado todos los informes de actividades que correspondían a la fecha del cierre, haber rendido cuenta detallada de los recursos transferidos en virtud de dichos convenios, y haber efectuado el reintegro del eventual saldo no ejecutado, no rendido, observado o rechazado, no tendrán la obligación de continuar remitiendo los informes de rendición de cuentas.
 
 6. Proponer al Comité, normativas o documentos metodológicos que faciliten y hagan más eficiente el funcionamiento del Fondo.
 
