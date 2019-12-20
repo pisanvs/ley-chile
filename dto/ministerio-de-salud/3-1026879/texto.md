@@ -136,6 +136,10 @@ Este tipo de envases de medicamentos, además podrán ser fraccionados en farmac
 
 45) Importación: Es el acto mediante el cual un producto farmacéutico procedente del extranjero, ingresa, se interna y queda en condición de ser distribuido, cumpliendo con la normativa vigente.
 
+45 bis) Importación para consumo exclusivo del importador: Es el acto mediante el cual un producto farmacéutico procedente del extranjero, ingresa con el solo objeto de ser utilizado terapéuticamente por el importador.
+
+45 ter) Importador: Aquel que efectúa o a cuyo nombre se efectúa la importación.
+
 46) Impurezas: Cualquier componente que no está definido como constituyente de la materia prima o producto.
 
 47) Internación: Es el acto mediante el cual un producto farmacéutico procedente del extranjero, ingresa a un lugar de almacenamiento debidamente autorizado, en espera de la autorización para su distribución y uso.
@@ -380,17 +384,27 @@ Todo producto farmacéutico importado o fabricado en el país, para ser distribu
 
 #### Artículo 21º
 
-En forma excepcional, el Instituto podrá autorizar la venta o el uso provisional de determinados productos farmacéuticos sin registro sanitario, fundado en alguna de las siguientes causales, que se enuncian por vía ejemplar atendiendo las disposiciones del artículo 102º del Código Sanitario:
+En forma excepcional, el Instituto podrá autorizar la venta o el uso provisional de determinados productos farmacéuticos sin registro sanitario, fundado en alguna de las siguientes causales, que se enuncian por vía ejemplar atendiendo las disposiciones del artículo 99º del Código Sanitario:
 
-a) Epidemias o situaciones de emergencia, urgencia o catástrofe, que signifiquen grave riesgo para la salud o vida de los habitantes.
+a) Uso medicinal urgente derivado de situaciones de desabastecimiento o inaccesibilidad, que afecten a las personas, consideradas colectivamente.
 
-b) Cuando se trate de un producto farmacéutico que se requiera para un fin medicinal urgente, sin que exista una alternativa en el momento en que se requiera.
+b) Aquellos productos farmacéuticos para uso medicinal urgente importados para consumo exclusivo del importador.
 
 c) Tratándose de productos para ser utilizados en investigación científica o ensayos clínicos, previo informe favorable del o los comités de ética correspondiente, conforme a las normas sobre ensayos clínicos realizados en seres humanos, que apruebe el Ministerio de Salud.
 
+En el caso de las letras a) y b), la autorización referida en el presente artículo bastará para el uso de los productos farmacéuticos, sin ser requerido el trámite de internación dispuesto en el título IV del presente reglamento.
+
+#### Artículo 21
+
+A.- La autorización del Instituto a que se refieren los literales a) y b) del artículo anterior se hará mediante resolución fundada.
+
+Para dichos efectos, el Instituto podrá generar un listado de medicamentos pre aprobados para su importación en conformidad al artículo anterior. Formarán parte de dicho listado aquellos medicamentos en los que conste la autorización de comercialización por parte del país del que se importa.
+
+En el caso de la letra b) del artículo precedente, la cantidad máxima que podrá autorizarse será aquella que permita el tratamiento por seis meses.
+
 #### Artículo 22°
 
-Las solicitudes presentadas por los interesados, para la venta o uso provisional de productos farmacéuticos sin registro sanitario previo, fundadas en las letras a) y b) del artículo anterior se presentarán ante el Instituto, debiendo acreditarse la autorización otorgada por la autoridad sanitaria del país de procedencia o de fabricación según corresponda. En ambos casos las autorizaciones que se concedan a los interesados particulares, podrán requerirse por una segunda vez antes de seis meses, siempre que se presente la solicitud de registro sanitario o se aporten antecedentes que acrediten que la situación de emergencia, urgencia, catástrofe o uso medicinal urgente se ha mantenido y hacen meritorio su otorgamiento.
+Las solicitudes presentadas por los interesados, para la venta o uso provisional de productos farmacéuticos, fundadas en las letras a) y b) del artículo anterior se presentarán ante el Instituto, debiendo acreditarse , por cualquier medio, la autorización otorgada por la autoridad sanitaria del país de procedencia o de fabricación según corresponda y la prescripción de los productos farmacéuticos por un profesional habilitado, dejando constancia de la necesidad y duración del tratamiento. Estas autorizaciones podrán solicitarse por el interesado las veces que sean necesarias.
 
 #### Artículo 23°
 
@@ -398,15 +412,13 @@ Las solicitudes para el uso provisional en investigación científica o ensayo c
 
 #### Artículo 24°
 
-Conforme a los convenios de colaboración que sean celebrados entre el Instituto y las SEREMI de regiones que cuenten con aduanas fronterizas, realizados en conformidad a las disposiciones de la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, ley Nº 18.575, cuyo texto refundido, coordinado y sistematizado fue fijado por el D.F.L. Nº 1 de 2000 del Ministerio Secretaría General de la Presidencia, esta última autoridad podrá autorizar el uso provisional de productos farmacéuticos sin registro sanitario previo, cuando éstos se importen para uso individual, directamente por el interesado o su mandatario, siempre que estén prescritos por un profesional habilitado, que deje constancia de la necesidad y duración del tratamiento.
-
-Asimismo dicha autoridad sanitaria podrá autorizar la internación de medicamentos por parte de nacionales o extranjeros que los portan a su ingreso al país para un tratamiento por un periodo no superior a tres semanas, salvo que se trate de enfermedades crónicas u otros tratamientos, debidamente fundamentados y acreditados. Todo exceso será retenido y notificado para su posterior decomiso.
+Conforme a los convenios de colaboración que sean celebrados entre el Instituto y las SEREMI de regiones que cuenten con aduanas fronterizas, realizados en conformidad a las disposiciones de la Ley Orgánica Constitucional de Bases Generales de la Administración del Estado, ley Nº 18.575, cuyo texto refundido, coordinado y sistematizado fue fijado por el D.F.L. Nº 1 de 2000 del Ministerio Secretaría General de la Presidencia, esta última autoridad podrá autorizar la internación de medicamentos en las causales del artículo 21.
 
 La respectiva SEREMI deberá informar mensualmente al Instituto las autorizaciones concedidas en conformidad a este artículo.
 
 #### Artículo 25º
 
-Para los efectos de lo dispuesto en el artículo 102º del Código Sanitario, los preparados farmacéuticos contarán con un número de registro sanitario oficial, que será aquel que se incorpore en el Registro Oficial de Elaboración, el que se considerará como el registro oficial del Instituto de Salud Pública.
+Para los efectos de lo dispuesto en el artículo 99º del Código Sanitario, los preparados farmacéuticos contarán con un número de registro sanitario oficial, que será aquel que se incorpore en el Registro Oficial de Elaboración, el que se considerará como el registro oficial del Instituto de Salud Pública.
 
 #### Artículo 26º
 
@@ -2130,9 +2142,11 @@ La importación de una especialidad farmacéutica solamente podrá efectuarse cu
 
 #### Artículo 94º
 
-En forma excepcional una especialidad farmacéutica para ser importada como producto terminado por cualquier persona natural o jurídica, no requerirá de un nuevo registro sanitario para su importación y distribución por personas distintas de las que obtuvieron dicho registro, cuando se acredite, a través del certificado de registro, certificado de producto farmacéutico o autorización sanitaria o certificación oficial recomendada por la Organización Mundial de la Salud, otorgada por la autoridad sanitaria de acuerdo a lo establecido en el artículo 29º número 10, de este reglamento, indicando que el producto farmacéutico, además de tener idéntica fórmula, nombre genérico o denominación, proviene del mismo laboratorio productor y país de procedencia que la especialidad farmacéutica previamente registrada.
+En forma excepcional una especialidad farmacéutica para ser importada como producto terminado por cualquier persona natural o jurídica, no requerirá de un nuevo registro sanitario para su importación y distribución por personas distintas de las que obtuvieron dicho registro, cuando se acredite, mediante los documentos establecidos en el artículo 29º número 10 literal a.1 de este reglamento, que el producto farmacéutico, además de tener idéntica fórmula, nombre genérico o denominación, proviene del mismo laboratorio productor y país de procedencia que la especialidad farmacéutica previamente registrada.
 
 Una vez acreditado lo anterior, el Instituto autorizará mediante resolución, la importación por una cantidad determinada y autorizará su uso y disposición con el solo mérito de la autorización y los respectivos boletines correspondientes a los análisis practicados por un laboratorio de control de calidad a la o las partidas internadas.
+
+En caso que la importación se requiera para consumo exclusivo del importador, se estará a lo dispuesto en los artículos 21, 21 A y 22 del presente reglamento.
 
 PÁRRAFO SEGUNDO:
 
@@ -2142,9 +2156,15 @@ DE LA IMPORTACIÓN E INTERNACIÓN.
 
 La importación de las especialidades farmacéuticas podrá ser efectuada por los laboratorios farmacéuticos autorizados, farmacias, droguerías y depósitos de productos farmacéuticos y, en general, por cualquiera persona natural o jurídica, de acuerdo con las normas establecidas en la legislación vigente.
 
+Procederá la importación de medicamentos con o sin registro sanitario en Chile, para consumo exclusivo del importador, previa autorización del Instituto y siempre que estén prescritos por un profesional habilitado, que deje constancia de la necesidad y duración del tratamiento.
+
+En caso que la importación se requiera para consumo exclusivo del importador, se estará a lo dispuesto en los artículos 21, 21 A y 22 del presente reglamento.
+
 #### Artículo 96º
 
 Toda persona natural o jurídica podrá importar especialidades farmacéuticas, así como las materias primas destinadas a su elaboración. Sin perjuicio de lo anterior, para su internación al territorio nacional se requerirá disponer de un lugar debidamente autorizado para su almacenamiento, procesamiento o posterior distribución, tales como: laboratorios farmacéuticos, farmacias, droguerías y depósitos de productos farmacéuticos, según corresponda a la naturaleza y finalidad del material importado.
+
+El trámite de internación no será requerido en caso de importar especialidades farmacéuticas por las causales contempladas en el artículo 21 del presente reglamento.
 
 #### Artículo 97º
 
