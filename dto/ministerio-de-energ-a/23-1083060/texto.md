@@ -36,9 +36,11 @@ El presente reglamento establece las disposiciones aplicables a los sistemas el�
 
 #### Artículo 2º
 
-Cuando en un Sistema Mediano exista más de una empresa generadora, deberán operarse todas las instalaciones interconectadas en forma coordinada, de modo de garantizar el cumplimiento de los objetivos asociados a la operación de las instalaciones establecidos en el artículo 173º de la Ley.
+Cuando en un Sistema Mediano exista más de una empresa generadora, deberán operarse todas las instalaciones interconectadas en forma coordinada, conforme a la programación de la operación que realice el Coordinador Independiente del Sistema Eléctrico Nacional, al que se refiere el artículo 212º-1 y siguientes de la Ley, de acuerdo a la normativa vigente y de modo de garantizar el cumplimiento de los objetivos asociados a la operación de las instalaciones establecidos en el artículo 173º de la Ley.
 
 Para efectos del presente reglamento, se entenderá que en un Sistema Mediano existe más de una empresa generadora cuando en dicho sistema se encuentren operando dos o más empresas de distinta propiedad, y que no revistan entre ellas el carácter de personas relacionadas en los términos del Título XV de la ley Nº 18.045, sobre Mercados de Valores.
+
+Las empresas generadoras en Sistemas Medianos con más de una empresa generadora, deberán sujetarse a la programación de la operación que determine el Coordinador Independiente del Sistema Eléctrico Nacional, para lo cual deberán enviar toda la información que él requiera para ello, conforme a la normativa vigente.
 
 #### Artículo 3º
 
@@ -72,6 +74,8 @@ h) Plan de Expansión: Plan de expansión de las instalaciones de generación y 
 
 i) Superintendencia: Superintendencia de Electricidad y Combustibles.
 
+j) Coordinador: Coordinador Independiente del Sistema Eléctrico Nacional, al que se refiere el artículo 212º-1 y siguientes de la ley.
+
 ## Título II
 
 De la coordinación de los sistemas medianos
@@ -82,43 +86,29 @@ Funcionamiento, composición y obligaciones del comité coordinador
 
 #### Artículo 5º
 
-El Comité Coordinador deberá definir los criterios y políticas para la operación del conjunto de las instalaciones interconectadas de cada Sistema Mediano, de modo de preservar la seguridad del servicio en el sistema eléctrico y garantizar su operación más económica, de acuerdo a la normativa vigente, los que serán incorporados en las propuestas de procedimientos que le corresponde elaborar.
-
-Asimismo, corresponderá al Comité Coordinador administrar el respectivo Sistema Mediano, conforme a lo dispuesto en el presente reglamento.
+Derogado.
 
 #### Artículo 6º
 
 El Comité Coordinador de cada Sistema Mediano deberá constituirse dentro de los 15 días hábiles siguientes a la comunicación de interconexión de la unidad generadora de propiedad de una empresa distinta a la o las que se encuentren operando en el respectivo sistema y que no revistan entre ellas el carácter de personas relacionadas, de acuerdo a lo señalado en el inciso segundo del artículo 2º del presente reglamento. La comunicación de interconexión deberá efectuarse conforme a lo dispuesto en el artículo 28 del presente reglamento.
 
-Los integrantes deberán levantar un acta que dé cuenta de la constitución del Comité Coordinador y enviar una copia de la misma a la Comisión y a la Superintendencia, dentro de los 5 días hábiles siguientes.
+Los integrantes deberán levantar un acta que dé cuenta de la constitución del Comité Coordinador y enviar una copia de la misma a la Comisión, al Coordinador y a la Superintendencia, dentro de los 5 días hábiles siguientes.
 
 #### Artículo 7º
 
 El Comité Coordinador de cada Sistema Mediano realizará, al menos, las siguientes funciones:
 
-a) Elaborar propuesta de procedimiento para efectos del despacho de las unidades generadoras.
+a) Elaborar propuestas de procedimientos de operación y conexión de las instalaciones de transmisión para la operación del sistema al mínimo costo.
 
-b) Elaborar propuestas de procedimientos de operación y conexión de las instalaciones de transmisión para la operación del sistema al mínimo costo.
+b) Elaborar propuestas de procedimientos para efectos de la repartición de la recaudación por ventas de energía y potencia, conforme a lo dispuesto en el Capítulo 2 del Título IV del presente reglamento.
 
-c) Elaborar propuestas de procedimientos para efectos de planificar la operación de corto, mediano y largo plazo de cada Sistema Mediano.
+c) Repartir la recaudación por ventas de energía y potencia a clientes regulados, que resulte de la aplicación del procedimiento regulado en los artículos 32 a 35 del presente reglamento o del procedimiento acordado por todas las empresas de generación y transmisión que operen en el respectivo Sistema Mediano conforme al artículo 36, según corresponda.
 
-d) Elaborar propuestas de procedimientos para efectos de la repartición de la recaudación por ventas de energía y potencia, conforme a lo dispuesto en el Capítulo 2 del Título IV del presente reglamento.
+d) Elaborar los informes que solicite el Ministerio, la Comisión o la Superintendencia, dentro del ámbito de sus respectivas atribuciones y en los plazos que estos organismos determinen.
 
-e) Planificar la operación de corto plazo del Sistema Mediano respectivo, considerando su situación actual y la esperada para el mediano y largo plazo, debiendo además comunicarla a los integrantes para que éstos operen sus instalaciones de acuerdo a los programas resultantes.
+e) Informar a la Superintendencia, con copia a la Comisión, cualquier hecho o circunstancia que pueda constituir una infracción a la normativa eléctrica vigente por parte de los integrantes.
 
-f) Planificar la operación de mediano y largo plazo del Sistema Mediano respectivo.
-
-g) Verificar el cumplimiento de los programas de operación y del plan de mantenimiento preventivo anual, adoptando las medidas correctivas que se requieran.
-
-h) Coordinar el plan de mantenimiento preventivo anual de las instalaciones.
-
-i) Repartir la recaudación por ventas de energía y potencia a clientes regulados, que resulte de la aplicación del procedimiento regulado en los artículos 32 a 35 del presente reglamento o del procedimiento acordado por todas las empresas de generación y transmisión que operen en el respectivo Sistema Mediano conforme al artículo 36, según corresponda.
-
-j) Elaborar los informes que solicite el Ministerio, la Comisión o la Superintendencia, dentro del ámbito de sus respectivas atribuciones y en los plazos que estos organismos determinen.
-
-k) Informar a la Superintendencia, con copia a la Comisión, cualquier hecho o circunstancia que pueda constituir una infracción a la normativa eléctrica vigente por parte de los integrantes.
-
-l) Cumplir con la demás funciones y responsabilidades que la normativa vigente le encomiende.
+f) Cumplir con la demás funciones y responsabilidades que la normativa vigente le encomiende.
 
 #### Artículo 8º
 
@@ -146,7 +136,7 @@ Para el cumplimiento de sus funciones, el Comité Coordinador se apoyará en los
 
 El Comité Coordinador del Sistema Mediano respectivo, sesionará ordinariamente, al menos, dos veces al mes y extraordinariamente cada vez que lo solicite cualquiera de sus Integrantes.
 
-Lo dispuesto en el inciso precedente es sin perjuicio de las comunicaciones diarias que se requieran con el objeto de dar cumplimiento a lo señalado en los artículos 16 y 17 del presente reglamento.
+Lo dispuesto en el inciso precedente es sin perjuicio de las comunicaciones diarias que se requieran con el objeto de dar cumplimiento a lo señalado en el artículo 16º del presente reglamento.
 
 #### Artículo 13º
 
@@ -154,11 +144,31 @@ Para sesionar el Comité Coordinador requerirá la asistencia de la mayoría de 
 
 #### Artículo 14º
 
-Los propietarios, arrendatarios, usufructuarios o quienes exploten a cualquier título las instalaciones que operen interconectadas en el Sistema Mediano respectivo, deberán proporcionar toda la información que el Comité Coordinador les solicite para el correcto desarrollo de sus funciones, en la forma y oportunidad que éste señale.
+Los propietarios, arrendatarios, usufructuarios o quienes exploten a cualquier título las instalaciones que operen interconectadas en el Sistema Mediano respectivo, deberán proporcionar toda la información que el Coordinador y el Comité Coordinador les solicite para el correcto desarrollo de sus funciones, en la forma y oportunidad que éste señale.
 
 #### Artículo 15º
 
 Cada Integrante será responsable separadamente por el incumplimiento de las obligaciones establecidas en la ley, en el presente reglamento y en la normativa vigente que les sea aplicable.
+
+Capítulo 1 bis
+
+De la programación de la operación del Coordinador Independiente del Sistema Eléctrico Nacional.
+
+#### Artículo 15º bis
+
+El Coordinador deberá definir los criterios y políticas para la programación de la operación del conjunto de las instalaciones interconectadas de cada Sistema Mediano, de modo de preservar la seguridad del servicio en el sistema eléctrico y garantizar su operación más económica, de acuerdo a la normativa vigente.
+
+#### Artículo 15º ter
+
+El Coordinador deberá elaborar un informe con los programas diarios de operación del sistema eléctrico, de acuerdo a la normativa vigente.
+
+#### Artículo 15º quáter
+
+La información relativa a previsión de demandas de potencia y energía, tanto de corto como de mediano y largo plazo, así como su distribución geográfica, estacional, diaria y horaria, será elaborada por el Coordinador en la oportunidad y bajo la modalidad que determine la normativa correspondiente.
+
+#### Artículo 15º
+
+quinquies.- La información relativa a precios y calidades de combustible en unidades generadoras termoeléctricas será elaborada por el Coordinador, en la oportunidad y bajo la modalidad que determine la normativa correspondiente.
 
 ## Capítulo 2
 
@@ -168,31 +178,25 @@ Operación de las unidades generadoras y líneas de transporte
 
 La operación en tiempo real de las unidades generadoras y líneas de transporte pertenecientes a los Integrantes será efectuada independientemente por éstos, bajo su propia responsabilidad. No obstante, dicha operación deberá ceñirse a los programas y a la normativa que corresponda.
 
-Los Integrantes comunicarán al Comité Coordinador las desviaciones que se produzcan entre la operación real y la programada, quien adoptará las medidas correctivas que estime necesarias en la programación para el período siguiente.
+Los Integrantes comunicarán al Coordinador las desviaciones que se produzcan entre la operación real y la programada, quien adoptará las medidas correctivas que estime necesarias en la programación para el período siguiente.
 
-No obstante lo señalado anteriormente, los Integrantes podrán apartarse de la programación efectuada por el Comité Coordinador si ocurren situaciones imprevistas, tales como salidas de servicio intempestivas totales o parciales de unidades generadoras. En este caso, y mientras la programación de la operación no alcance a considerar la situación ocurrida, la operación de las unidades generadoras y líneas de transporte será coordinada directamente por los Integrantes, de acuerdo a los criterios que para estas ocasiones establezca la normativa vigente, los que deberán velar por preservar la seguridad de servicio en el sistema y garantizar la operación más económica para el conjunto de las instalaciones.
+No obstante lo señalado anteriormente, los Integrantes podrán apartarse de la programación efectuada por el Coordinador si ocurren situaciones imprevistas, tales como salidas de servicio intempestivas totales o parciales de unidades generadoras. En este caso, y mientras la programación de la operación no alcance a considerar la situación ocurrida, la operación de las unidades generadoras y líneas de transporte será coordinada directamente por los Integrantes, de acuerdo a los criterios que para estas ocasiones establezca la normativa vigente, los que deberán velar por preservar la seguridad de servicio en el sistema y garantizar la operación más económica para el conjunto de las instalaciones.
 
 #### Artículo 17º
 
-La programación de corto plazo de la operación de las unidades generadoras del sistema será efectuada diariamente por el Comité Coordinador e indicará la generación media horaria de las diversas unidades generadoras para cada una de las 24 horas del día siguiente. Esta programación de corto plazo se realizará efectuando los ajustes que sean necesarios a la programación de mediano plazo, la cual indicará la operación de las unidades generadoras en bloques de hora de igual demanda de días típicos de consumo. Los ajustes derivarán de estrategias para la operación de las unidades generadoras definidas al momento de efectuar la programación de mediano y largo plazo.
-
-La programación de mediano y largo plazo derivará de estudios de planificación de la operación definidos por el Comité Coordinador de cada Sistema Mediano que, preservando la seguridad de servicio instantánea del sistema, lleven a minimizar su costo total actualizado de operación y falla en el período de estudio establecido en la normativa correspondiente. La minimización de costos se efectuará para el conjunto de las instalaciones de generación y transporte del sistema, con independencia de la propiedad de dichas instalaciones.
-
-La programación de mediano plazo deberá ser efectuada por el Comité Coordinador, a lo menos, una vez a la semana y la de largo plazo, a lo menos, una vez al mes.
-
-La información que se utilice para efectuar la programación de la operación se ajustará a lo señalado en los artículos siguientes.
+Derogado.
 
 #### Artículo 18º
 
-La información relativa a estadísticas, características y estado de cada Sistema Mediano, tales como niveles en los embalses, stocks de combustible en centrales, caudales afluentes actuales e históricos en centrales hidroeléctricas, topología y características del sistema de transporte, operatividad y rendimiento de las unidades generadoras, y otras de similar naturaleza, será proporcionada por los Integrantes al Comité Coordinador, en la oportunidad y bajo la modalidad que determine la normativa correspondiente.
+La información relativa a estadísticas, características y estado de cada Sistema Mediano, tales como niveles en los embalses, stocks de combustible en centrales, caudales afluentes actuales e históricos en centrales hidroeléctricas, topología y características del sistema de transporte, operatividad y rendimiento de las unidades generadoras, y otras de similar naturaleza, será proporcionada por los Integrantes al Coordinador y al Comité Coordinador, en la oportunidad y bajo la modalidad que determine la normativa correspondiente.
 
 #### Artículo 19º
 
-La información relativa a previsión de demandas de potencia y energía, tanto de corto como de mediano y largo plazo, así como su distribución geográfica, estacional, diaria y horaria, será elaborada por el Comité Coordinador en la oportunidad y bajo la modalidad que determine la normativa correspondiente.
+Derogado.
 
 #### Artículo 20º
 
-La información relativa a precios y calidades de combustible en unidades generadoras termoeléctricas será elaborada por el Comité Coordinador, en la oportunidad y bajo la modalidad que determine la normativa correspondiente.
+Derogado.
 
 ## Capítulo 3
 
@@ -200,9 +204,7 @@ Informes que debe elaborar el Comité Coordinador
 
 #### Artículo 21º
 
-El Comité Coordinador deberá elaborar diariamente un informe con los programas diarios de operación del sistema eléctrico a que se refiere el artículo 17 del presente reglamento, así como con la operación real efectuada cada día.
-
-Asimismo, el Comité Coordinador deberá enviar semanalmente a la Comisión y a la Superintendencia un informe que contenga la operación real diaria, correspondiente a la semana inmediatamente anterior.
+El Comité Coordinador deberá enviar semanalmente a la Comisión, al Coordinador y a la Superintendencia un informe que contenga la operación real diaria, correspondiente a la semana inmediatamente anterior.
 
 #### Artículo 22º
 
@@ -212,9 +214,9 @@ a) Repartición de la recaudación por ventas de energía y potencia realizadas 
 
 b) Demandas de energía y potencia, ocurridas durante el último mes.
 
-c) Síntesis de las desviaciones más importantes entre la programación y la operación real de las unidades generadoras, y hechos relevantes ocurridos en la operación del sistema durante el último mes, tales como vertimientos en centrales hidroeléctricas y fallas de unidades generadoras.
+c) Suprimido.
 
-d) Programa de operación para los siguientes 12 meses, con un detalle de la estrategia de operación de los embalses si corresponde, y con la generación esperada mensual de cada unidad generadora.
+d) Suprimido.
 
 El informe señalado en el inciso precedente deberá ser enviado a la Comisión y a la Superintendencia dentro de los primeros 15 días del mes siguiente al que corresponda.
 
@@ -416,7 +418,7 @@ Reclamos y controversias
 
 Sin perjuicio de la facultad para resolver reclamos de la Superintendencia, conforme a lo dispuesto en el numeral 17 del artículo 3 de la Ley Nº 18.410, los Integrantes podrán presentar a la Superintendencia reclamos por controversias que se refieran a las siguientes materias originadas por la aplicación de este reglamento:
 
-a) Aplicación de las normas relativas al despacho de las unidades generadoras, repartición de la recaudación por ventas de energía y potencia, planificación de la operación de corto, mediano y largo plazo de cada Sistema Mediano y operación y conexión de las instalaciones de transmisión para la operación del sistema al mínimo costo.
+a) Aplicación de las normas relativas al despacho de las unidades generadoras, repartición de la recaudación por ventas de energía y potencia de cada Sistema Mediano y operación y conexión de las instalaciones de transmisión para la operación del sistema al mínimo costo.
 
 b) Determinación y valorización de las transferencias de electricidad entre los Integrantes.
 

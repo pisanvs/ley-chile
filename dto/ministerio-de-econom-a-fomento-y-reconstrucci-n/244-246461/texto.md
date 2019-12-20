@@ -272,11 +272,7 @@ Derogado
 
 #### Artículo 21º
 
-La interconexión de un PMGD a un sistema eléctrico deberá comunicarse conforme a lo dispuesto en el artículo 13 del decreto supremo Nº 291, de 2007, del Ministerio de Economía, Fomento y Reconstrucción, y sus modificaciones posteriores. Asimismo, la puesta en servicio de un PMGD deberá comunicarse a la Superintendencia, de acuerdo con lo establecido en el artículo 123º de la ley.
-
-Junto con lo anterior y previo a la entrada en operación de un PMGD, su propietario deberá informar a la Superintendencia el cumplimiento de los requisitos establecidos en la NTCO, de acuerdo a los procedimientos establecidos en ésta. Asimismo, para dicha época, el propietario del PMGD y la empresa distribuidora deberán haber suscrito el contrato de conexión y operación respectivo.
-
-La desconexión, retiro, modificación o cese de operaciones de un PMGD de un sistema eléctrico deberá ser comunicada conforme lo dispuesto en el artículo 13 precitado.
+Derogado.
 
 #### Artículo 22º
 
@@ -484,6 +480,102 @@ El propietario u operador de un PMGD podrá efectuar por sí mismo, o contratar 
 
 Sin perjuicio de la información señalada en el presente reglamento a entregar a los CDEC, para efectos de la planificación del sistema eléctrico, los propietarios u operadores de los PMGD deberán suministrar al CDEC respectivo y a la Comisión un informe anual sobre sus estadísticas y proyecciones de operación mensual para los siguientes 12 meses, durante el mes de diciembre del año anterior a la proyección.
 
+CAPÍTULO SEXTO
+
+DE LA DECLARACIÓN EN CONSTRUCCIÓN, PUESTA EN SERVICIO Y ENTRADA EN OPERACIÓN DE PMGD AL SISTEMA DE DISTRIBUCIÓN
+
+#### Artículo 46 bis
+
+Todo PMGD que se interconecte al sistema de distribución deberá previamente haber sido declarado en construcción por la Comisión.
+
+Para lo dispuesto en el párrafo precedente, los propietarios u operadores de PMGD, deberán presentar a la Comisión una solicitud de declaración en construcción de la instalación respectiva.
+
+#### Artículo 46 ter
+
+Para efectos de lo dispuesto en el artículo anterior, los titulares de las señaladas nuevas instalaciones deberán acompañar los siguientes antecedentes y/o documentos, según corresponda:
+
+a. Antecedentes que acrediten la constitución de la persona jurídica de que se trate, su vigencia y del representante legal de la misma;
+
+b. Nombre del proyecto y sus principales características, según el tipo de instalación de que se trate;
+
+c. Cronograma en el que se especifique la fecha estimada de interconexión y entrada en operación del proyecto, y las principales obras de construcción;
+
+d. Informe de criterios de conexión, de acuerdo a lo dispuesto en el presente reglamento;
+
+e. Resolución de Calificación Ambiental favorable, emitida por la autoridad ambiental competente, tratándose de proyectos susceptibles de causar impacto ambiental y que deban someterse al sistema de evaluación de impacto ambiental, conforme a lo dispuesto en el artículo 10 de la Ley Nº 19.300, sobre Bases Generales del Medio Ambiente y en el artículo 3 del Decreto Supremo Nº 40, de 2012, del Ministerio del Medio Ambiente, que Aprueba Reglamento del Sistema de Evaluación de Impacto Ambiental;
+
+f. Informe Favorable para la construcción otorgado por la autoridad competente, en caso de requerirse;
+
+g. Órdenes de compra del equipamiento eléctrico, electromagnético o electromecánico principal respecto del cual se solicita la declaración en construcción, junto con los documentos de recepción y aceptación por parte del respectivo proveedor;
+
+h. Título habilitante para usar el o los terrenos en los cuales se ubicarán o construirán las instalaciones del proyecto, sea en calidad de propietario, usufructuario, arrendatario, concesionario o titular de servidumbres, o el contrato de promesa relativo a la tenencia, uso, goce o disposición del terreno que lo habilite para desarrollar el proyecto;
+
+i. Información relativa a los costos de inversión del respectivo proyecto, según el formato que establezca la Comisión al efecto; y
+
+j. Declaración jurada sobre la veracidad y autenticidad de los antecedentes que respaldan la solicitud de declaración en construcción del respectivo proyecto, según el formato que establezca la Comisión al efecto.
+
+Los titulares de los proyectos deberán enviar a la Comisión los antecedentes asociados a la declaración en construcción en el formato que ésta determine.
+
+#### Artículo 46 quáter
+
+La entrega de información falsa, incompleta o manifiestamente errónea, por parte del solicitante, será sancionada por la Superintendencia de acuerdo a las normas establecidas en la Ley Nº 18.410, que Crea la Superintendencia de Electricidad y Combustibles.
+
+#### Artículo 46
+
+quinquies El titular de un proyecto declarado en construcción deberá informar a la Comisión el cumplimento del avance de la obra, de acuerdo al cronograma presentado. Asimismo, deberá informar toda modificación que altere el cumplimiento del cronograma originalmente informado en un plazo máximo de 15 días, contados desde su conocimiento.
+
+Sin perjuicio de lo dispuesto en el inciso precedente, la Comisión, en cualquier momento, podrá solicitar información adicional para verificar el estado de avance y/o el cumplimiento del cronograma presentado por el propietario u operador de la respectiva instalación.
+
+#### Artículo 46
+
+sexies La Comisión podrá revocar la declaración en construcción de una instalación cuando no se dé cumplimiento a los hitos o avances establecidos en el cronograma sin causa justificada, o se realicen cambios significativos al proyecto que impliquen una nueva declaración en construcción. Se entenderá por cambio significativo aquellas modificaciones relevantes al proyecto, tales como el aumento o disminución de la potencia instalada del proyecto o el cambio de tecnología de generación, entre otras modificaciones que pudiesen implicar un impacto relevante en el sistema eléctrico, en conformidad a la normativa vigente.
+
+Asimismo, la Comisión podrá revocar la declaración en construcción de una instalación cuando alguna de las autorizaciones, permisos, títulos, y demás antecedentes señalados en el artículo 46 ter del presente reglamento, sean revocados, caducados o dejen de tener vigencia, según corresponda.
+
+Las instalaciones cuya declaración en construcción haya sido revocada por la Comisión serán excluidas de la resolución que la Comisión dicte mensualmente para estos efectos, la que comunicará y actualizará el listado de proyectos en construcción.
+
+#### Artículo 46
+
+septies Una vez declarado en construcción por la Comisión, el titular del proyecto deberá dar aviso de la fecha de interconexión a la Comisión, al Coordinador y a la Superintendencia.
+
+El aviso de interconexión a que se refiere el presente artículo deberá ser efectuado, al menos, tres meses antes de la fecha de interconexión.
+
+#### Artículo 46
+
+octies La etapa de puesta en servicio de un PMGD es aquella que se inicia con la interconexión y energización del mismo, previa autorización del Coordinador y hasta el término de las respectivas pruebas.
+
+Sólo podrán iniciar su puesta en servicio aquellas instalaciones que hayan sido declaradas en construcción por la Comisión y que cuenten con la autorización del Coordinador para energizar dichas instalaciones. Desde el inicio de la puesta en servicio, los titulares o quien explote las respectivas instalaciones, adquieren la calidad de Coordinado.
+
+#### Artículo 46
+
+nonies De manera previa a la puesta en servicio de un proyecto, el interesado deberá acordar con el Coordinador un cronograma de puesta en servicio en el que se establecerán las actividades a realizar y los plazos asociados a dichas actividades. Asimismo el interesado deberá dar cumplimiento a las instrucciones del Coordinador, de la Empresa Distribuidora y de la Superintendencia en conformidad a la normativa vigente.
+
+#### Artículo 46
+
+decies Posterior a la interconexión y energización y una vez concluida la etapa de pruebas y verificado el total cumplimiento de los requisitos, el Coordinado de la respectiva instalación deberá enviar al Coordinador los antecedentes que permitan verificar el cumplimiento de los requisitos establecidos en los protocolos de prueba a los que se someten los PMGD a fin de verificar las condiciones de su conexión a la red, junto con una declaración jurada de fiel cumplimiento de la normativa vigente, en los formatos que establezca la normativa técnica, pudiendo el Coordinador verificar tal circunstancia. En caso de haber dado cumplimiento a los requisitos, el Coordinador emitirá su aprobación para la entrada en operación del respectivo proyecto, en los plazos que establezca la norma técnica respectiva.
+
+CAPÍTULO SÉPTIMO
+
+DEL RETIRO, MODIFICACIÓN Y DESCONEXIÓN DE PMGD
+
+#### Artículo 46
+
+undecies El retiro, modificación relevante, desconexión, o cese de operaciones sin que éste obedezca a fallas o mantenimientos programados, del PMGD y sus instalaciones, deberán comunicarse por escrito al Coordinador, la Comisión y la Superintendencia, con una antelación no inferior a 24 meses.
+
+Las modificaciones de instalaciones que no tengan el carácter de relevante, de acuerdo a la norma técnica, deberán ser comunicadas por escrito al Coordinador en un plazo no inferior a 30 días.
+
+#### Artículo 46
+
+duodecies La Comisión podrá prorrogar hasta por 12 meses el plazo establecido en el inciso primero del artículo anterior, en caso de determinar que el retiro, modificación, desconexión o cese de operaciones de una instalación del sistema puede generar riesgos para la seguridad del mismo, previo informe de seguridad del Coordinador.
+
+#### Artículo 46 ter
+
+decies En casos calificados y previo informe de seguridad del Coordinador, la Comisión, mediante resolución, podrá eximir a una empresa del cumplimiento de los plazos indicados en el artículo 46 undecies del presente reglamento.
+
+Para efectos de lo señalado en el inciso anterior, el Coordinador deberá informar anualmente a la Comisión aquellas instalaciones cuyo retiro o desconexión no signifiquen un riesgo para el sistema. La Comisión podrá eximir del cumplimiento del plazo a aquellas empresas cuyas instalaciones estén incluidas en el señalado informe.
+
+Los Coordinados cuyas instalaciones no sean parte del informe anual señalado en el inciso anterior, podrán solicitar a la Comisión la exención de plazo, indicando las causas del retiro, modificación relevante, desconexión, o cese de operaciones sin que éste obedezca a fallas o mantenimientos programados, y los motivos por los cuales no le es posible cumplir con los plazos establecidos en el artículo 46 undecies del presente reglamento. La Comisión dentro de los cinco días siguientes deberá solicitar al Coordinador el correspondiente informe de seguridad. El Coordinador deberá informar dentro del plazo que le señale la Comisión.
+
 ## Título III
 
 DE LOS PEQUEÑOS MEDIOS DE GENERACIÓN O "PMG"
@@ -498,9 +590,7 @@ De acuerdo a lo señalado en el Artículo 1° del presente reglamento, los PMG e
 
 #### Artículo 48º
 
-La interconexión de un PMG a un sistema eléctrico deberá comunicarse conforme a lo dispuesto en el artículo 13 del decreto supremo Nº 291, de 2007, del Ministerio de Economía, Fomento y Reconstrucción, y sus modificaciones posteriores. El CDEC podrá solicitar la información que estime pertinente respecto de las instalaciones del PMG, de acuerdo a los procedimientos y exigencias generales aplicables a las instalaciones de generación y transmisión del respectivo sistema. Asimismo, la puesta en servicio de un PMG deberá comunicarse a la Superintendencia, de acuerdo con lo establecido en el artículo 123º de la ley.
-
-La desconexión, retiro, modificación o cese de operaciones de un PMG de un sistema eléctrico deberá ser comunicada conforme lo dispuesto en el artículo 13 precitado.
+Derogado.
 
 CAPITULO SEGUNDO
 
