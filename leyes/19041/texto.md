@@ -162,11 +162,9 @@ Directivos: Grados 1B, 2, 3, 4 y 5 de la escala de sueldos del decreto ley Nº 2
 
 Profesionales: Grados 5, 6, 7, 8, 9, 10, 11, 12, 13 y 14 de la escala de sueldos del decreto ley Nº 249, de 1974, 52% de la asignación de fiscalización correspondiente a los grados 5, 6, 7, 8, 9, 10, 11, 12, 13 y 14, respectivamente.
 
-La Asignación para los cargos de Administrativos será respecto de los grados 9, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 y 23 de la escala de sueldos del decreto ley Nº 249, de 1974, de $ 132.012, $ 62.706,
+La Asignación para los cargos de Administrativos y Técnicos será respecto de los grados 9, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 y 23 de la escala de sueldos del decreto ley Nº 249, de 1974, de $ 132.012, $ 101.577, $ 81.305, $ 60.467, $ 52.324, $ 43.831, $ 41.913, $ 24.545, $ 35.204, $ 25.708, $ 15.503 y $ 21.116, respectivamente. Para los cargos de Auxiliares, dicha asignación será respecto de los grados 18, 19, 20, 21, 22, 23, 24 y 25 de la misma escala, de $ 41.913, $ 35.725, $ 35.204, $ 25.708, $ 24.865, $ 21.116, $ 23.750 y $ 20.774, respectivamente.
 
-$ 101.577, $ 81.305, $ 60.467, $ 52.324, $ 43.831,
-
-$ 41.913, $ 24.545, $ 35.204, $ 25.708, $ 15.503 y $ 21.116, respectivamente. Para los cargos de Auxiliares, dicha asignación será respecto de los grados 18, 19, 20, 21, 22, 23, 24 y 25 de la misma escala, de $ 41.913, $ 35.725, $ 35.204, $ 25.708, $ 24.865, $ 21.116, $ 23.750 y $ 20.774, respectivamente.
+La Asignación para los cargos de Administrativos y Técnicos será respecto de los grados 10, 11 y 12 de la escala de sueldos del decreto ley N° 249, de 1974, de $279.670, $261.375 y $248.928, respectivamente.
 
 > **Nota.** El artículo 1º transitorio de la LEY 19646, establece que sus disposiciones rigen a contar del 1º de enero de 1999.
 
@@ -202,7 +200,7 @@ El porcentaje de la asignación establecida en este artículo se aplicará sobre
 
 Esta asignación será pagada en cuatro cuotas, en los meses de abril, junio, septiembre y diciembre de cada año, a los funcionarios en servicio a la fecha de pago, sobre la base de las remuneraciones, excluidas las asignaciones de zona, que correspondan al primero, segundo, tercero y cuarto trimestre calendario, respectivamente. Los montos que los funcionarios perciban por este concepto, no serán considerados remuneraciones para ningún efecto legal y, en consecuencia, no serán imponibles. No obstante, para fines tributarios se considerarán rentas del N° 1 del artículo 42 de la Ley sobre Impuesto a la Renta, entendiéndose, para estos efectos, que la cantidad pagada en cada cuota se ha devengado por partes iguales en cada mes del trimestre calendario respectivo.
 
-INCISO ELIMINADO
+Con todo, la asignación establecida en este artículo no será pagada cuando los funcionarios se encuentren con permiso sin goce de remuneraciones.
 
 #### Artículo 13
 

@@ -1718,7 +1718,7 @@ a) Su monto se establecerá sobre la base de la remuneración básica mínima na
 
 b) La asignación establecida en este artículo se pagará en caso que la remuneración que percibe el profesional de la educación sea inferior a la remuneración y asignaciones señaladas en la letra a) precedente, y será equivalente a la diferencia entre ambos montos. Para estos efectos, la remuneración del profesional de la educación se determinará de acuerdo al promedio de los doce meses inmediatamente anteriores a la fecha en que se calcule la asignación, o de acuerdo a la remuneración pactada en el caso de profesionales de la educación que se incorporen a un establecimiento educacional.
 
-Esta asignación será de carácter mensual, imponible y tributable, no será base de cálculo de ninguna otra remuneración, y se absorberá por los aumentos de remuneraciones permanentes del profesional de la educación y por cualquier otro aumento de remuneraciones permanentes que establezca la ley.
+Esta asignación será de carácter mensual, imponible y tributable, no será base de cálculo de ninguna otra remuneración, a excepción de la asignación prevista en el artículo 3 de la ley Nº 20.905, y se absorberá por los aumentos de remuneraciones permanentes del profesional de la educación y por cualquier otro aumento de remuneraciones permanentes que establezca la ley.
 
 c) Con todo, esta asignación se calculará anualmente en los mismos términos señalados en las letras anteriores, así como cada vez que por aplicación del Sistema de Reconocimiento y Promoción del Desarrollo Profesional Docente, el profesional de la educación acceda a un nuevo tramo, y se reajustará en la misma oportunidad y porcentaje que se reajusten las remuneraciones del sector público.
 

@@ -358,7 +358,7 @@ El encasillamiento mediante el cual se proveerán los cargos que se creen en las
 
 4. Los trabajadores sólo podrán postular a cargos de la planta de personal del estamento correspondiente a las funciones que desempeñaban en el establecimiento y hasta el grado que les corresponda según la tabla del inciso primero del artículo segundo transitorio.
 
-Con todo, los trabajadores en cuestión sólo podrán postular a aquellos cargos respecto de los cuales posean una antigüedad en el establecimiento igual o superior a la menor antigüedad que registre el personal titular del Servicio de Salud Metropolitano Sur Oriente que se desempeñe en el correspondiente grado homologado, conforme a lo señalado en el párrafo anterior, y sólo una vez que se encuentren totalmente tramitados los actos administrativos de encasillamiento que corresponda dictar de conformidad a los decretos con fuerza de ley que fijen la planta de personal del Servicio de Salud Metropolitano Sur Oriente, en virtud de la ley Nº 20.972.
+Con todo, los concursos sólo podrán realizarse una vez que se encuentren totalmente tramitados los actos administrativos de encasillamiento que corresponda dictar de conformidad a los decretos con fuerza de ley que fijen la planta de personal del Servicio de Salud Metropolitano Sur Oriente, en virtud de la ley Nº 20.972.
 
 Para estos efectos, la antigüedad del postulante considerará el tiempo desempeñado en el establecimiento y en los Servicios de Salud del artículo 16 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud.
 
@@ -451,6 +451,8 @@ cuarto .- Los funcionarios encasillados o contratados asimilados a la planta del
 quinto.- A contar de la fecha del traspaso del establecimiento al Servicio de Salud Metropolitano Sur Oriente, de conformidad al artículo 1 de esta ley, el Director del Hospital Padre Alberto Hurtado pasará a pertenecer al segundo nivel jerárquico.
 
 A contar de la fecha a que se refiere el inciso anterior, el personal del establecimiento que se encuentre desempeñando cargos de Alta Dirección Pública, mantendrá su nombramiento y continuará rigiéndose por las normas vigentes a la fecha de su designación.
+
+Si el cargo de Director del Hospital Padre Alberto Hurtado quedare vacante por cualquier causal, entre la fecha del traspaso del establecimiento señalado en el artículo 1 de esta ley, y hasta el encasillamiento a que se refiere el inciso segundo del artículo 3 de esta ley, deberá proveerse mediante las normas del Sistema de Alta Dirección Pública. Asimismo, si el cargo de Director del Hospital Padre Alberto Hurtado no resultare provisto al término del proceso de encasillamiento, dicho cargo no se extinguirá.
 
 #### Artículo décimo
 

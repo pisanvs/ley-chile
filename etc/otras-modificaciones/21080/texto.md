@@ -1306,11 +1306,7 @@ Reemplázase en la letra c) del artículo 4 del decreto con fuerza de ley N° 24
 
 #### Artículo 66
 
-A los concursos públicos para la primera provisión de los cargos a que se refiere el artículo 1 transitorio de la ley N° 19.115, podrán postular quienes no reúnan el requisito de haber pertenecido a la Planta del Servicio Exterior por un plazo no inferior a seis años, contenido en dicha disposición, siempre que a su respecto se verifiquen las siguientes condiciones:
-
-1. Al cargo de la 3ª Categoría Exterior, podrán postular quienes hayan pertenecido a la Planta de Servicio Exterior por un plazo no inferior a un año y seis meses, entre los años 1972 y 1974.
-
-2. Al cargo de 4ª Categoría Exterior, podrán postular quienes hayan pertenecido a la Planta del Servicio Exterior por un plazo no inferior a seis meses, entre los años 1973 y 1974.
+Derogado.
 
 #### Artículo 67
 

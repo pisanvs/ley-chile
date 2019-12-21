@@ -144,8 +144,6 @@ La Comisión, tanto para su funcionamiento en sala como en pleno, requerirá de 
 
 Los integrantes de la Comisión tendrán derecho a gozar de una dieta por sesión a la que asistan, la que podrá ascender hasta 10 unidades tributarias mensuales con un máximo de 90 unidades tributarias mensuales por mes, conforme a las normas del reglamento interno de la Comisión. Esta asignación será incompatible con toda otra remuneración de carácter público para el personal regido por la ley N° 18.834.
 
-A los integrantes de la Comisión, salvo el caso del Presidente, no les serán aplicables las normas de la ley N° 19.882, salvo en lo relativo a su nombramiento, de conformidad a lo señalado en los incisos anteriores.
-
 Los comisionados deberán declarar intereses y patrimonio conforme a lo establecido en el capítulo 1° del título II de la ley N° 20.880.
 
 > **Nota.** El Art. 28 de la Ley 21105, publicada el 13.08.2018, dispuso la modificación de la letra f) del presente artículo. Sin embargo, la referida letra f) no se encuentra en este texto, por cuanto fue reemplazado completamente por el N° 7 del Art. 81 de la Ley 21091, publicada el 29.05.2018. De modo que no se pudo hacer la actualización.

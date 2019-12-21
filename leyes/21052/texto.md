@@ -92,7 +92,7 @@ Los establecimientos educacionales que, durante el año escolar 2017, hayan expe
 
 #### Artículo tercero
 
-Los propietarios de establecimientos regidos por el decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación, o de establecimientos de educación parvularia financiados con aportes regulares del Estado para su operación y funcionamiento, que no cuenten con permiso de edificación o que, contando con permiso de edificación, no han obtenido la recepción definitiva, emplazados en áreas urbanas o rurales, podrán, hasta el 31 de diciembre de 2019, obtener los permisos de edificación y de recepción simultánea, siempre que los establecimientos y/o sus ampliaciones cumplan los siguientes requisitos:
+Los propietarios de establecimientos regidos por el decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación, o de establecimientos de educación parvularia financiados con aportes regulares del Estado para su operación y funcionamiento, que no cuenten con permiso de edificación o que, contando con permiso de edificación, no han obtenido la recepción definitiva, emplazados en áreas urbanas o rurales, podrán, hasta el 31 de marzo de 2022, obtener los permisos de edificación y de recepción simultánea, siempre que los establecimientos y/o sus ampliaciones cumplan los siguientes requisitos:
 
 1. Haber sido construidos antes de la publicación de esta ley.
 

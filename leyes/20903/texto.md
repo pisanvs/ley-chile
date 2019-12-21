@@ -1498,11 +1498,11 @@ Si la carrera o programa no obtuviere la acreditación a que se refiere el incis
 
 Sin perjuicio de lo dispuesto en el artículo 10 del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación, tendrán la calidad de profesionales de la educación las personas que estén en posesión de un título de profesor o educador concedido por universidades de conformidad a las normas vigentes al momento de su otorgamiento.
 
-Artículo trigésimo sexto.- Los requisitos para la admisión universitaria establecidos en la letra b) del artículo 27 bis de la ley N°20.129, entrarán en vigencia el año 2023.
+Artículo trigésimo sexto.- Los requisitos para la admisión universitaria establecidos en la letra b) del artículo 27 bis de la ley N°20.129, entrarán en vigencia desde el proceso de admisión universitaria y matrícula del año 2026.
 
 Sin perjuicio de lo dispuesto en el inciso anterior, los referidos requisitos se aplicarán gradualmente en la forma que se señala en los incisos siguientes.
 
-Para el proceso de admisión universitaria del año 2017, deberá cumplirse con alguna de las siguientes exigencias:
+Para el proceso de admisión universitaria y matrícula del año 2017 a 2022, deberá cumplirse con alguna de las siguientes exigencias:
 
 i. Haber rendido la prueba de selección universitaria o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 50 o superior, teniendo en cuenta el promedio de las pruebas obligatorias.
 
@@ -1510,7 +1510,7 @@ ii. Tener un promedio de notas de la educación media dentro del 30% superior de
 
 iii. Haber realizado y aprobado un programa de preparación y acceso de estudiantes de enseñanza media para continuar estudios de pedagogía en la educación superior reconocido por el Ministerio de Educación y rendir la prueba de selección universitaria o el instrumento que la reemplace.
 
-Para el proceso de admisión universitaria del año 2020, se deberá cumplir alguno de los siguientes requisitos:
+Para los procesos de admisión universitaria y matrícula de los años 2023 a 2025, se deberá cumplir alguno de los siguientes requisitos:
 
 i. Haber rendido la prueba de selección universitaria o el instrumento que la reemplace, y obtener un rendimiento que lo ubique en el percentil 60 o superior, teniendo en cuenta el promedio de las pruebas obligatorias.
 
