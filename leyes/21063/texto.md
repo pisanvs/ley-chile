@@ -680,7 +680,7 @@ La regla contenida en el artículo 40, establecido en el artículo primero de la
 
 <!-- parte:9870371 -->
 
-El primer estudio actuarial señalado en el artículo 41, establecido en el artículo primero de la presente ley, deberá ser publicado dentro de los veinticuatro meses siguientes a la entrada en vigencia de esta ley.
+El primer estudio actuarial señalado en el artículo 41, establecido en el artículo primero de la presente ley, deberá ser publicado dentro de los treinta y seis meses siguientes a la entrada en vigencia de esta ley.
 
 #### Artículo décimo
 
