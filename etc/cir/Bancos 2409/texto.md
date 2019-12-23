@@ -19972,7 +19972,7 @@ h) Velar por que existan auditorías independientes al proceso de selección, co
 
 i) Asegurar que el proveedor realice periódicamente informes de auditoría interna o revisiones independientes de sus servicios, conforme con su estructura y el tamaño de su organización, debiendo compartir oportunamente con la institución los hallazgos que le sean pertinentes.
 
-j) Exigir a los proveedores de servicios que los procedimientos operacionales, administrativos y tecnológicos propios del servicio contratado, se encuentren debidamente documentados, actualizados y permanentemente a disposición para su revisión por parte de esta Superintendencia.
+j) Exigir a los proveedores de servicios que los procedimientos operacionales, administrativos y tecnológicos propios del servicio contratado, se encuentren debidamente documentados, actualizados y permanentemente a disposición para su revisión por parte de esta Comisión.
 
 k) Considerar los riesgos que provienen de las cadenas de servicios externalizados, lo que debe quedar reflejado en el contrato respectivo en forma previa, señalándose que en caso de subcontratación, la empresa subcontratada debe cumplir también con las condiciones pactadas entre la entidad y el proveedor de servicios inicial. Asimismo, deben quedar claramente establecidos en los respectivos contratos las responsabilidades y obligaciones que deben cumplir las empresas subcontratadas respecto del servicio externalizado por la entidad.
 
@@ -20032,21 +20032,19 @@ En el caso de procesamiento de documentación física, la entidad deberá contar
 
 ### 5. Riesgo país
 
-No se podrán externalizar servicios en jurisdicciones que no cuenten con calificación de riesgo país en grado de inversión. No obstante, sin perjuicio de la necesaria evaluación de los riesgos involucrados, las sucursales o filiales de entidades extranjeras podrán encargar la prestación de servicios a otras subsidiarias de la misma entidad que se encuentren situadas en países con una calificación distinta a grado de inversión, en actividades que no sean consideradas significativas o estratégicas.
-
-En el caso de entidades que mantengan servicios externalizados en países que pierdan su grado de inversión, deberán informar a esta Superintendencia sobre el efecto que este hecho produjo, o se estima que producirá, en la calidad e idoneidad de los servicios contratados.
+Sólo se podrá externalizar servicios en jurisdicciones que cuenten con calificación de riesgo país en grado de inversión y sus legislaciones cumplan con adecuados estándares internacionales en materia de protección y seguridad de datos personales. No obstante, el Directorio o la instancia que haga sus veces podrá excepcionar fundadamente el requisito de la calificación de riesgo país en grado de inversión, en la medida que el país en el que se externalizan los servicios cuente con leyes de protección y seguridad de datos personales adecuadas. Lo anterior, sin perjuicio de lo señalado en el número 2 letra i) del Título III y el número 1 letra b) del Título IV de este Capítulo.
 
 ### 6. Responsabilidad por la gestión
 
 La responsabilidad por la gestión global de los riesgos y funciones de control deberá mantenerla la entidad en el país. Lo anterior es sin perjuicio que en algunas entidades internacionales existan, para efectos de una administración consolidada de sus casas matrices, coordinaciones matriciales entre el personal establecido en el extranjero y personal local.
 
-Por otra parte, en cumplimiento de lo dispuesto en el Capítulo 20-8 de esta Recopilación, la institución deberá comunicar en forma inmediata a esta Superintendencia, cuando corresponda, los incidentes operacionales relevantes que afecten un servicio externalizado en el país o en el exterior.
+Por otra parte, en cumplimiento de lo dispuesto en el Capítulo 20-8 de esta Recopilación, la institución deberá comunicar a esta Comisión, en los términos definidos en dicho Capítulo, los incidentes operacionales relevantes que afecten un servicio externalizado en el país o en el exterior.
 
 ### 7. Acceso a la información por parte del supervisor
 
-La entidad contratante debe asegurarse que esta Superintendencia tenga acceso permanente, sea mediante visitas a las instalaciones de los proveedores de servicios o por vía remota, a todos los registros, datos e información que se procesen, mantengan y generen a través de un proveedor externo, ya sea establecido en el país o en el exterior.
+La entidad contratante debe asegurarse que esta Comisión tenga acceso permanente, sea mediante visitas a las instalaciones de los proveedores de servicios o por vía remota, a todos los registros, datos e información que se procesen, mantengan y generen a través de un proveedor externo, ya sea establecido en el país o en el exterior.
 
-Al tratarse de un proveedor de servicios establecido en el exterior, deberá prestarse especial atención a las restricciones legales del país anfitrión que pudieren impedir la visita de esta Superintendencia al proveedor o el acceso a la información y a los datos mencionados en el párrafo anterior. Asimismo, como parte de la gestión de riesgo, la entidad deberá incorporar dentro del análisis aquellos aspectos relacionados con los riesgos legales a la que se expone la información sujeta a secreto o reserva bancaria establecida en la Ley General de Bancos.
+Al tratarse de un proveedor de servicios establecido en el exterior, deberá prestarse especial atención a las restricciones legales del país anfitrión que pudieren impedir la visita de esta Comisión al proveedor o el acceso a la información y a los datos mencionados en el párrafo anterior. Asimismo, como parte de la gestión de riesgo, la entidad deberá incorporar dentro del análisis aquellos aspectos relacionados con los riesgos legales a la que se expone la información sujeta a secreto o reserva bancaria establecida en la Ley General de Bancos.
 
 ### IV. FACTORES A CONSIDERAR AL EXTERNALIZAR SERVICIOS DE PROCESAMIENTO DE DATOS
 
@@ -20060,7 +20058,7 @@ a) Servicios realizados en el país.
 
 Cuando el servicio de procesamiento de datos, total o parcial, se realice por una empresa situada en el país, la institución deberá comprobar que la infraestructura tecnológica y los sistemas que se utilizarán para la comunicación, almacenamiento y procesamiento de datos, ofrecen suficiente seguridad para resguardar permanentemente la continuidad del negocio, confidencialidad, integridad, exactitud y calidad de la información. Asimismo, deberá verificar que las condiciones del servicio garantizan la obtención oportuna de cualquier registro, dato o información que necesite, sea para sus propios fines o para
 
-cumplir con los requerimientos de las autoridades competentes, como es el caso de la información que en cualquier momento puede solicitarle esta Superintendencia.
+cumplir con los requerimientos de las autoridades competentes, como es el caso de la información que en cualquier momento puede solicitarle esta Comisión.
 
 En cuanto al Centro de Procesamiento de Datos de contingencia, éste deberá cumplir con condiciones de ubicación y distancia del Centro de Procesamiento de Datos principal, que garanticen la continuidad operacional.
 
@@ -20070,17 +20068,33 @@ En el caso que la entidad externalice servicios de procesamiento de datos fuera 
 
 Adicionalmente, la entidad debe disponer de los antecedentes del proyecto, del contrato de servicios y, en el caso de existir subcontratos con terceros, estos también deben ser incorporados.
 
-Para resguardar el adecuado funcionamiento del mercado financiero con todos sus participantes, incluidos los clientes, las instituciones que realicen en el exterior actividades consideradas significativas o estratégicas, deberán mantener a disposición de esta Superintendencia los antecedentes contenidos en el Anexo N° 2 de este Capítulo y cumplir las siguientes condiciones para la externalización de los servicios:
+Para resguardar el adecuado funcionamiento del mercado financiero con todos sus participantes, incluidos los clientes, las instituciones que realicen en el exterior actividades consideradas significativas o estratégicas, deberán mantener a disposición de esta Comisión los antecedentes contenidos en el Anexo N° 2 de este Capítulo y cumplir las siguientes condiciones para la externalización de los servicios:
 
 i) Se debe contar con un Centro de Procesamiento de Datos de contingencia ubicado en Chile y demostrar un tiempo de recuperación compatible con la criticidad del servicio externalizado. Asimismo, los tiempos de recuperación deberán ser evaluados por la entidad al menos una vez al año, tanto para los procesos transaccionales como Batch.
 
-ii)La institución debe efectuar el control y monitoreo del servicio externalizado en el Centro de Procesamiento de Datos en el exterior, especialmente, en los aspectos relacionados con la seguridad de la información, continuidad del negocio y condiciones de operación del centro de procesamiento. Dichas actividades deben estar debidamente fundamentadas de acuerdo a la gestión de riesgos realizada para el proveedor específico. Lo anterior, independientemente de las actividades propias de control y monitoreo que realice el proveedor del servicio.
+Para el caso de bancos que mantengan una adecuada gestión del riesgo operacional en la última evaluación realizada por esta Comisión, calificada de conformidad con lo establecido en el Capítulo 1-13 de esta Recopilación, el Directorio o la instancia que haga sus veces podrá excepcionar este requerimiento, cuando se asegure, por medio de un informe anual, que la entidad cumple entre otros aspectos con la adopción de las siguientes medidas preventivas:
+
+a) El tiempo de recuperación objetivo (RTO) debe ser aprobado por el directorio en función de un análisis de impacto (BIA) y de riesgo (RIA) que sea consistente con la criticidad del(os) servicio(s) externalizado(s). Lo anterior, debe ser evaluado y probado al menos anualmente.
+
+b) Que los sites de procesamiento de datos cumplan con un tiempo de disponibilidad de operación igual o superior a lo dispuesto en el Capítulo 20-9 de esta Recopilación.
+
+c) Que los sites se encuentran en ubicaciones distintas que mitiguen tanto el riesgo geográfico como los riesgos políticos.
+
+d) Que en términos de seguridad de la información los servicios externalizados se provean en un ambiente consistente con las políticas y estándares adoptados por la entidad.
+
+El informe mencionado deberá ser actualizado anualmente y realizado por una empresa independiente de reconocido prestigio y experiencia en la evaluación de este tipo de servicios.
+
+Consideraciones especiales
+
+En el caso de entidades bancarias que mantengan servicios externalizados en el exterior, bajo las condiciones señaladas en este literal, y que producto de una nueva evaluación sean calificados en la materia de riesgo operacional en una categoría de "Cumplimiento Insatisfactorio" o inferior, deberán informar a esta Comisión sobre las medidas específicas adicionales adoptadas para asegurar la adecuada operación de los servicios.
+
+Para aquellas entidades bancarias que no cuentan con una calificación de gestión en el ámbito del riesgo operacional, y que externalicen servicios en el exterior, le serán aplicables todas las medidas preventivas anteriormente señaladas, con excepción de la calificación en esta materia.
+
+ii) La institución debe efectuar el control y monitoreo del servicio externalizado, especialmente, en los aspectos relacionados con la seguridad de la información, continuidad del negocio y condiciones de operación del centro de procesamiento. Dichas actividades deben estar debidamente fundamentadas de acuerdo a la gestión de riesgos realizada para el proveedor específico. Lo anterior, independientemente de las actividades propias de control y monitoreo que realice el proveedor del servicio.
 
 ### 2. Proveedores externos de canales electrónicos
 
-Las instituciones que requieran contratar servicios externos necesarios para operar con corresponsalías, es decir, aquellos proporcionados por empresas que ponen a disposición canales electrónicos y mantienen acuerdos con establecimientos comerciales para la prestación de ciertos servicios financieros por mandato de la entidad, deberán contemplar, en lo que sea aplicable, los
-
-aspectos indicados en el Anexo N° 1 y mantener permanentemente a disposición de la Superintendencia, aquellos antecedentes señalados en el Anexo N° 3. Adicionalmente, la institución deberá de asegurarse del cumplimiento de lo establecido en el Capítulo 1-7 de esta Recopilación.
+Las instituciones que requieran contratar servicios externos necesarios para operar con corresponsalías, es decir, aquellos proporcionados por empresas que ponen a disposición canales electrónicos y mantienen acuerdos con establecimientos comerciales para la prestación de ciertos servicios financieros por mandato de la entidad, deberán contemplar, en lo que sea aplicable, los aspectos indicados en el Anexo N° 1 y mantener permanentemente a disposición de esta Comisión, aquellos antecedentes señalados en el Anexo N° 3. Adicionalmente, la institución deberá de asegurarse del cumplimiento de lo establecido en el Capítulo 1-7 de esta Recopilación.
 
 ### V. DILIGENCIA REFORZADA PARA SERVICIOS EN LA NUBE
 
@@ -20100,19 +20114,17 @@ c) Los contratos de externalización de servicios son celebrados directamente en
 
 d) La entidad cuenta con informes legales respecto de la regulación sobre privacidad y acceso a la información existentes en jurisdicciones donde se esté llevando a cabo el servicio, y ha evaluado la resolución de contingencias legales en las jurisdicciones en las que opere.
 
-e) La entidad se ha asegurado que el proveedor del servicio realiza informes de auditoría asociados a los servicios prestados y dichos informes se encuentran disponibles, para ser consultados en cualquier momento por la entidad contratante y la Superintendencia, en las materias que resulten pertinentes.
+e) La entidad se ha asegurado que el proveedor del servicio realiza informes de auditoría asociados a los servicios prestados y dichos informes se encuentran disponibles, para ser consultados en cualquier momento por la entidad contratante y esta Comisión, en las materias que resulten pertinentes.
 
 f) Verificar que el proveedor cuenta con adecuados mecanismos de seguridad, tanto físicos como lógicos, que permitan aislar los componentes de la infraestructura nube que la entidad comparte con otros clientes del proveedor, de manera de prevenir fugas de información o eventos que puedan afectar la confidencialidad e integridad de los datos de la entidad.
 
 g) Identificar los datos que por su naturaleza y sensibilidad deben contar con mecanismos fuertes de encriptación.
 
-### VI. REVISIONES DE ESTA SUPERINTENDENCIA
+### VI. REVISIONES DE ESTA COMISIÓN
 
-En sus visitas de inspección, esta Superintendencia examinará la gestión de riesgos que realiza la entidad sobre la externalización de servicios, como parte de las evaluaciones de que trata el Capítulo 1- 13 de esta Recopilación.
+En sus visitas de inspección, esta Comisión examinará la gestión de riesgos que realiza la entidad sobre la externalización de servicios, como parte de las evaluaciones de que trata el Capítulo 1- 13 de esta Recopilación.
 
-En el caso de incumplimientos a esta normativa, en especial por aquellas entidades que hayan externalizado en el exterior actividades significativas o estratégicas o que las exponga a riesgos operacionales relevantes, este Organismo podrá requerir que los servicios se realicen en el país, o sean ejecutados internamente por la entidad, según corresponda. En consideración a lo
-
-anterior, la entidad deberá mantener permanentemente actualizado un plan que posibilite cumplir con esos eventuales requerimientos.
+En el caso de incumplimientos a esta normativa, en especial por aquellas entidades que hayan externalizado en el exterior actividades significativas o estratégicas o que las exponga a riesgos operacionales relevantes, este Organismo podrá requerir que los servicios se realicen en el país, o sean ejecutados internamente por la entidad, según corresponda. En consideración a lo anterior, la entidad deberá mantener permanentemente actualizado un plan que posibilite cumplir con esos eventuales requerimientos.
 
 ANEXO N° 1
 
@@ -20134,7 +20146,7 @@ En el caso de que se contrate un servicio con una entidad relacionada, las condi
 
 La entidad debe asegurarse que el contrato defina claramente los derechos y obligaciones de ambas partes, conteniendo acuerdos de niveles claros y medibles de los servicios contratados, cláusulas de término anticipado de la relación contractual, así como también un método de fijación de precios adecuado para el contrato específico. En caso que se adquiera más de un servicio por un precio único, debe tenerse el detalle del cobro por cada uno de tales servicios.
 
-También se deben incluir cláusulas de continuidad del negocio y de seguridad de la información, especialmente aquella que se refiere a la propiedad y confidencialidad de la información, tanto propia como de sus clientes; restricciones sobre el uso de software; eliminación segura de los datos del cliente, cuando corresponda; además de establecer una autorización permanente que permita tanto a esta Superintendencia como a la entidad fiscalizada examinar in situ, o en forma remota, según se disponga, en cualquier momento, todos los aspectos relacionados con el servicio contratado.
+También se deben incluir cláusulas de continuidad del negocio y de seguridad de la información, especialmente aquella que se refiere a la propiedad y confidencialidad de la información, tanto propia como de sus clientes; restricciones sobre el uso de software; eliminación segura de los datos del cliente, cuando corresponda; además de establecer una autorización permanente que permita tanto a esta Comisión como a la entidad fiscalizada examinar in situ, o en forma remota, según se disponga, en cualquier momento, todos los aspectos relacionados con el servicio contratado.
 
 ### 4. Control permanente
 
@@ -20200,7 +20212,7 @@ ANEXO N° 3
 
 ANTECEDENTES SOBRE SERVICIOS RELACIONADOS CON CANALES ELECTRÓNICOS PARA OPERAR CON CORRESPONSALÍAS.
 
-Se deberá mantener permanentemente a disposición de la Superintendencia, según corresponda, los siguientes antecedentes debidamente actualizados:
+Se deberá mantener permanentemente a disposición de esta Comisión, según corresponda, los siguientes antecedentes debidamente actualizados:
 
 ### 1. Detalle de los productos ofrecidos a través de canales externos
 
