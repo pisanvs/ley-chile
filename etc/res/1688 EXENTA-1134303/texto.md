@@ -28,7 +28,7 @@ Resolución:
 
 1. Llámase a postulación extraordinaria en condiciones especiales a proyectos del Programa de Protección del Patrimonio Familiar en su Título II, Mejoramiento de la Vivienda, para la reparación de viviendas emplazadas en suelos salinos con riesgo de socavones ya atendidas anteriormente con subsidios de la etapa preventiva en la Región de Arica y Parinacota, conforme a las disposiciones del DS N° 255 (V. y U.), de 2006, y sus modificaciones.
 
-Las familias interesadas en participar de este llamado podrán postular a partir del día 14 de agosto del presente año hasta el último día hábil del mes de octubre del mismo año, siendo los procesos de selección mensuales, pudiendo participar en cada llamado los proyectos que cuenten con calificación al último día hábil de cada mes, siendo la primera selección el día 30 de agosto, la segunda selección el día 30 de septiembre y así sucesivamente, hasta el último día hábil del mes de octubre, o hasta que se agoten los recursos destinados al presente subsidio.
+Las familias interesadas en participar de este llamado podrán postular a partir del día 14 de agosto del presente año hasta el día viernes 13 de diciembre de 2019, siendo los procesos de selección mensuales, pudiendo participar en cada llamado los proyectos que cuenten con calificación al último día hábil del mes de agosto, septiembre, octubre, noviembre y hasta el día viernes 13 de diciembre de 2019, siendo la primera selección el día 30 de agosto, la segunda selección el día 30 de septiembre y así sucesivamente, hasta el día viernes 13 de diciembre de 2019, o hasta que se agoten los recursos destinados al presente llamado.
 
 2. La postulación a este llamado se podrá realizar en forma colectiva o individual.
 
@@ -52,7 +52,7 @@ En el caso de modificaciones de redes de alcantarillado se utilizará preferente
 
 Se podrá incrementar este subsidio con un subsidio para regularización que otorgará un incremento de hasta 20 UF adicionales para financiar las obras relacionadas con las adecuaciones constructivas exigidas por la DOM al momento de aprobar el permiso de edificación y recepcionar las obras.
 
-4. Se destinarán 30.000 Unidades de Fomento para la selección de los proyectos presentados en los concursos establecidos en el resuelvo número 1 de esta resolución exenta.
+4. Se destinarán 78.363 Unidades de Fomento para la selección de los proyectos presentados en los concursos establecidos en el resuelvo número 1 de esta resolución exenta.
 
 El número de proyectos seleccionados en la Región de Arica y Parinacota alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, incluidos los servicios de asistencia técnica que correspondan.
 
