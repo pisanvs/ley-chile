@@ -124,9 +124,9 @@ Otórgase al Director del Instituto de Salud Pública de Chile las siguientes fa
 
 Los servicios públicos y demás organismos de la Administración del Estado, en el ámbito de sus respectivas competencias, y otras entidades públicas o privadas deberán proporcionar la colaboración y ejecutar las acciones que les sean requeridas por las autoridades de salud mencionadas anteriormente para el cumplimiento de las facultades extraordinarias que se han dispuesto en el presente acto y las demás acciones que dichas autoridades estimen necesarias para enfrentar esta emergencia.
 
-#### Artículo 7°
+#### Artículo 7º
 
-Los efectos de este decreto tendrán vigencia hasta el 31 de diciembre de 2019, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten.
+Los efectos de este decreto tendrán vigencia hasta el 31 de mayo de 2020, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que éstas no mejoren.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Emilio Santelices Cuevas, Ministro de Salud.
 
