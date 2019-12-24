@@ -1,0 +1,7 @@
+NOTIFICA RESOLUCIÓN DE CALIFICACIÓN AMBIENTAL DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO "MEJORAMIENTO INTEGRAL DE LA GESTIÓN DE RESIDUOS PLANTA ECOBIO"
+
+De conformidad con lo dispuesto en el artículo 95° e inciso final del artículo 91° DS (MMA) N° 40/2013 (Reglamento del SEIA), se comunica a toda persona natural y jurídica que hubiera presentado observaciones durante el proceso de participación ciudadana de la Declaración de Impacto Ambiental del Proyecto "Mejoramiento Integral de la gestión de residuos Planta Ecobio", sometida al Sistema de Evaluación de Impacto Ambiental por su Titular, Ecobio SpA, que por resolución exenta N° 118/2019, de fecha 10 de diciembre de 2019, la Comisión de Evaluación de la Región de Ñuble, calificó favorablemente el proyecto singularizado. Estas personas naturales y jurídicas disponen de un plazo de 30 días, contados desde la presente notificación, para presentar recurso de reclamación ante el Director Ejecutivo del Servicio de Evaluación Ambiental, de conformidad a lo dispuesto en los artículos 20° ley N° 19.300 sobre Bases Generales del Medio Ambiente.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Ñuble, ubicada en Vegas de Saldías 645, Chillán, en horario de atención entre las 08:30 a 13:30 horas, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web www.sea.gob.cl.-
+
+Any Andrea Riveros Aliaga, Secretaria Comisión de Evaluación Región de Ñuble.
