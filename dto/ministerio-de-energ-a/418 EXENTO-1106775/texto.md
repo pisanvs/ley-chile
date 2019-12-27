@@ -1570,6 +1570,8 @@ El A.V.I. referencial del proyecto es de 715,7 miles de dólares, moneda de los 
 
 > **Nota.** NOTA El numeral 1° del artículo único del Decreto 111 Exento, Energía, publicado el 12.04.2018, modifica la presente norma en el sentido de reemplazar en la tabla 17 en el N° 28: a. En la columna "A.V.I. Referencial miles USD", la cifra "176,0" por "142,7"; y b. En la columna "C.O.M.A. Referencial miles USD", la cifra "27,9" por "22,6".
 
+> **Nota.** NOTA 1 El Decreto 167 Exento, Energía, publicado el 09.07.2019, aclara la frase "la fecha de adjudicación de la licitación respectiva" contenida en el presente artículo, a partir de la cual se contabiliza el plazo para la construcción y entrada en operación de las obras de ampliación y nuevas de las instalaciones de transmisión zonal de ejecución obligatoria, en el sentido de que se entenderá por aquella la fecha de la respectiva publicación en el Diario Oficial de los decretos a los que se refiere el artículo 96º de la Ley General de Servicios Eléctricos.
+
 #### Artículo 3
 
 Fíjase el siguiente listado de obras de nuevas, de instalaciones de transmisión zonal, de ejecución obligatoria, de acuerdo a los sistemas definidos en el decreto exento Nº 163, de fecha 14 de mayo de 2014, del Ministerio de Energía, según el siguiente detalle:
@@ -1991,6 +1993,8 @@ El proyecto incluye los respectivos paños de línea en las subestaciones mencio
 El Proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 60 meses siguientes a la fecha de adjudicación de la licitación respectiva.
 
 El A.V.I. referencial del proyecto es de 721,2 miles de dólares, moneda de los Estados Unidos de Norte América.
+
+> **Nota.** NOTA 2 El Decreto 167 Exento, Energía, publicado el 09.07.2019, aclara la frase "la fecha de adjudicación de la licitación respectiva" contenida en el presente artículo, a partir de la cual se contabiliza el plazo para la construcción y entrada en operación de las obras de ampliación y nuevas de las instalaciones de transmisión zonal de ejecución obligatoria, en el sentido de que se entenderá por aquella la fecha de la respectiva publicación en el Diario Oficial de los decretos a los que se refiere el artículo 96º de la Ley General de Servicios Eléctricos.
 
 #### Artículo 4
 
