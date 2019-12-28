@@ -57,3 +57,5 @@ ANEXO
 PROYECTO SELECCIONADO - LLAMADO EFECTUADO MEDIANTE RESOLUCIÓN EXENTA Nº 1.537 (V. Y U.), DE 2017 - SELECCIÓN MES DE ABRIL DE 2017
 
 .
+
+> **Nota.** La letra c del numeral 1° de la Resolución 2918 Exenta, Vivienda, publicada 28.12.2019, modifica la presente norma en el sentido de reemplazar en la fila correspondiente a la Región Metropolitana, proyecto "Villa Las Parcelas", código 121493, los montos que la citada norma indica
