@@ -28,7 +28,7 @@ Resolución:
 
 2. Los recursos que se destinarán para la selección de los proyectos presentados para el presente llamado corresponden a 7.200 UF. El número de proyectos seleccionados alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, incluidos los servicios de asistencia técnica que correspondan.
 
-3. Las postulaciones se efectuarán a partir de la fecha de publicación de la presente resolución y hasta el día 11 de diciembre del presente año, ambas fechas inclusive. Y se seleccionarán tantas familias como la cantidad de recursos que hayan disponibles para este llamado.
+3. Las postulaciones se efectuarán a partir de la fecha de publicación de la presente resolución y hasta el día 23 de diciembre del presente año, ambas fechas inclusive. Y se seleccionarán tantas familias como la cantidad de recursos que hayan disponibles para este llamado.
 
 4. Los Proyectos que se podrán presentar a este llamado, deberán corresponder a algunos de los tipos de obras del Título III, señalados en la letra c) del Artículo 5º del DS Nº 255 (V. y U.), no obstante, las viviendas tras ser intervenidas con este subsidio deberán alcanzar una superficie edificada mínima de 48 m2.
 
