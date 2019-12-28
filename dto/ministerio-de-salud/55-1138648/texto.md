@@ -208,7 +208,7 @@ Lo anterior, de conformidad con lo señalado en los convenios que previamente se
 
 #### Artículo 10º
 
-Los efectos de este decreto tendrán vigencia hasta el 31 de diciembre de 2019, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que éstas no mejoren.
+Los efectos de este decreto tendrán vigencia hasta el 31 de marzo de 2020, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que éstas no mejoren.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Jaime Mañalich Muxi, Ministro de Salud.
 

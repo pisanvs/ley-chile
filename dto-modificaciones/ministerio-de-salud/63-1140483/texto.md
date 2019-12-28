@@ -1,0 +1,67 @@
+MODIFICA DECRETO Nº 55, DE 2019, DEL MINISTERIO DE SALUD, QUE DECLARA ALERTA SANITARIA POR EL PERÍODO QUE SE SEÑALA Y OTORGA FACULTADES EXTRAORDINARIAS QUE INDICA
+
+Núm. 63.- Santiago, 24 de diciembre de 2019.
+
+Visto:
+
+Estos antecedentes; lo dispuesto en el artículo 19 Nº 9, 32 Nº 6 y 35 de la Constitución Política de la República; en los artículos 3, 9, 10, 36, 121 y 155 del Código Sanitario; en los artículos 1, 4, 7, 8, 9, 10, 12, 16, 31, 49, 57, 68 y 106 del decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979, y de las leyes Nº 18.933 y Nº 18.469; en el decreto supremo Nº 136, de 2004, Reglamento Orgánico del Ministerio de Salud; en el decreto Nº 55, de 2019, del Ministerio de Salud; en el artículo 10 de la ley Nº 10.336; en la resolución Nº 7, de 2019, de la Contraloría General de la República; y
+
+Considerando:
+
+1. Que, al Ministerio de Salud le compete ejercer la función que le corresponde al Estado de garantizar el libre e igualitario acceso a las acciones de promoción, protección y recuperación de la salud y de rehabilitación de la persona enferma; así como coordinar, controlar y, cuando corresponda, ejecutar tales acciones.
+
+2. Que, a esta Secretaría de Estado le corresponde ejercer la rectoría del sector salud y velar por la efectiva coordinación de las redes asistenciales, en todos sus niveles.
+
+3. Que, asimismo, esta Cartera debe efectuar la vigilancia en salud pública y evaluar la situación de salud de la población. En el ejercicio de esta función, le compete mantener un adecuado sistema de vigilancia epidemiológica y control de enfermedades transmisibles y no transmisibles, investigar los brotes de enfermedades y coordinar la aplicación de medidas de control.
+
+4. Que, también a esta Cartera le corresponde velar por que se eliminen o controlen todos los factores, elementos o agentes del medio ambiente que afecten la salud, la seguridad y el bienestar de la población.
+
+5. Que, por la razones que se indican en ese acto administrativo, este Ministerio dictó el decreto Nº 55 de 2019 que Declara Alerta Sanitaria en las Regiones de Tarapacá, Antofagasta, Valparaíso, Maule, Metropolitana y La Araucanía y en las provincias de Concepción, en la Región del BioBío, y de Llanquihue, en la Región de Los Lagos, a fin de dotar a las autoridades de esta Cartera y de los demás servicios públicos que conforman dicho sector, de facultades extraordinarias para prevenir y enfrentar las consecuencias sanitarias derivadas los acontecimientos descritos en dicho instrumento.
+
+6. Que, posteriormente, este Ministerio dictó el decreto Nº 59 de 2019, en el cual se incorporaron a la Alerta Sanitaria declarada por el citado decreto Nº 55 las regiones de Coquimbo y la Provincia de Arauco. Asimismo, se amplió la vigencia de la referida Alerta Sanitaria hasta el 31 de diciembre de 2019.
+
+7. Que, las circunstancias descritas en los decretos Nº 55 y N°59, ya señalados, han obligado a este Ministerio a poner en funcionamiento un Plan de Asistencia Médica y Social para Lesionados Graves. Dicha estrategia contempla prestaciones de salud y de rehabilitación que aseguren la mayor recuperación de sus funcionalidades iniciales. Para ello, es necesario un sistema de coordinación al interior del Ministerio de Salud y de éste con la red asistencial, instalando un equipo en cada Servicio de Salud de las zonas afectadas a cargo de estos pacientes, para contactarlos y priorizar sus atenciones médicas. Dicho programa incluye atenciones médicas integrales, rehabilitación estética, funcional y ocupacional, gestión de servicios de salud y ayuda social, acompañamiento sicológico individual y familiar.
+
+8. Que, sin perjuicio de lo anterior, entre el 18 de octubre y el 18 de diciembre de 2019 se han atendido 13.046 personas en los servicios de urgencia, de las cuales 641 requirieron de hospitalización, lo que representa un 5% del total. De dichas consultas, 392 han sido en la Región Metropolitana y 249 en regiones. Así, la tasa de hospitalización a nivel nacional ha sido de un 5%. Esto ha implicado un aumento en la carga de trabajo de la red asistencial.
+
+9. Que, de los 641 hospitalizados señalados precedentemente, 50 estuvieron en riesgo vital, lo que implica un 7,8% de todos los hospitalizados. Las causas de dicha situación se deben a TEC grave (23 pacientes), traumatismo por arma de fuego (11), politraumatismo (7), quemaduras (5), y heridas penetrantes con arma blanca u otros (4). En dichas situaciones, de no mediar una atención médica inmediata, el paciente pudo haber fallecido o quedado con alguna secuela. Para aquello, se requirió de soporte vital muy avanzado tales como diálisis, ventilación mecánica, neurocirugía, entre otros. El grupo etario más afectado por esta situación es aquel comprendido entre los 18 y 30 años.
+
+10. Que, sin perjuicio de lo señalado anteriormente, en la última quincena de octubre de 2019 hubo 6 personas que fallecieron después de haber ingresado a los centros asistenciales de la red pública, 3 por TEC grave y 3 por heridas de armas de fuego.
+
+11. Que, asimismo, al 18 de diciembre se atendieron 245 pacientes por lesiones oculares en la Unidad de Trauma Ocular del Hospital Salvador, 17 de ellos con pérdida de globo ocular, lo que requerirá prótesis y cuya visión no será recuperada. De las personas que han tenido traumatismos oculares, 198 ha sido por traumatismo ocular cerrado y 43 por traumatismo ocular abierto, mientras que de 4 de ellos no se tiene información. Asimismo, que de los posibles agentes que han causado los señalados traumatismos oculares según indica el dato de atención de urgencia, 150 de ellos se deben a perdigones, 33 a bombas lacrimógenas, 19 a balines, 13 a proyectiles, 10 a chorros de agua, 8 a golpes, 6 de origen desconocido, 5 a gas y 1 a piedra. Esto, asimismo, ha significado un aumento de un 77% de las notificaciones Auge Fonasa a nivel nacional por trauma ocular en el mes de octubre -en comparación al mismo mes el año anterior-, un aumento del 39% en noviembre y una disminución del 2% en la primera quincena del mes de diciembre. Esto ha significado un aumento anual (hasta el 15 de diciembre) de 1.728 en 2018 a 2.063 en 2019, lo que significa un incremento del 19% en relación al año anterior. Asimismo, las notificaciones a la Unidad de Trauma Ocular (UTO) del Hospital Salvador aumentaron un 93% en octubre en, relación al año pasado, un 42% en noviembre y una disminución del 10% en la primera quincena de diciembre. En suma, las notificaciones UTO aumentar un 22% este año, pasaron de 1.184 en 2018 a 1.444 en 2019.
+
+12. Que, en el contexto del considerando anterior, de las 245 atenciones, según datos del último control constatado en ficha clínica al momento de la revisión de datos, 81 pacientes quedaron con visión normal, 36 con visión casi normal, 27 con visión deficiente, 16 con ceguera legal, 36 con ceguera profunda, 17 con amaurosis, 17 con pérdida del globo ocular y 15 sin información. De los 52 pacientes que se encuentran en ceguera legal y profunda según criterio GES tienen programadas cirugías de implante de lente intraocular, vitrectomías y otras cirugías con la finalidad de mejorar su agudeza visual. Además, existen dos personas que han perdido la visión bilateralmente, que no se atendieron en la Red Pública de Salud. Asimismo, datos de la Sociedad Chilena de Oftalmología señalan que hay 88 casos adicionales de trauma ocular que se han registrado en otros centros de atención de los cuales se ha solicitado a su presidente la información con la finalidad de que estos sean tratados en el programa integral de recuperación ocular.
+
+13. Que, asimismo, en el contexto de la Alerta Sanitaria declarada por el decreto Nº 55, ya citado, se lanzó el Programa Integral de Recuperación Ocular, que busca recuperar el máximo las capacidades funcionales de las personas con daños oculares. Este programa contempla resolución médica y quirúrgica, rehabilitación estética y funcional, soporte y apoyo funcional, apoyo y tratamiento psicológico, asesoría y acompañamiento social por el tiempo que sea necesario. Los beneficiarios de este programa son derivados al Hospital del Salvador desde los otros Servicios de Salud. La atención es gratuita para el paciente, con costos estimados de hasta 8 millones de pesos por personas.
+
+14. Que, además, las atenciones de salud se han visto postergadas debido al aumento de la demanda en los servicios de urgencias y las dificultades que han tenido los pacientes y el personal de salud para acceder a los establecimientos de salud, así como las movilizaciones gremiales. Así, existen 13.800 cirugías no realizadas y 65 mil consultas de especialidad que debieron ser reagendadas, situación que tomará cerca de seis meses normalizar. Así, el monitoreo diario de pabellones en todo el sistema público de Chile indica que diariamente se efectúan 2.500 cirugías sin embargo el día 12 de noviembre se realizaron sólo 621 cirugías a nivel nacional, siendo este el peor día de todo el periodo antes mencionado.
+
+15. Que, esto ha significado, muchas veces, que los funcionarios de salud ajustaron sus turnos, implementando turnos de 24 horas para poder dar atención oportuna a los pacientes. Esto significó que se hicieran los cambios de turno temprano en la mañana, con el objeto que pudieran volver con seguridad a sus casas y, asimismo, desplazarse con seguridad hacia los establecimientos.
+
+16. Que, lo anterior, ha obligado a implementar un plan de recuperación de cirugías suspendidas. Este se inició en noviembre del presente año y culminará en mayo de 2020. Este plan conlleva la optimización del uso de los pabellones quirúrgicos, con ampliación de horarios de funcionamiento hasta las 19:00, incluyendo fines de semanas, y priorización de la tabla quirúrgica. Asimismo, en relación a las consultas de especialidad, se realizará un reagendamiento, extendiendo los horarios de atención hasta las 20:00 horas, además de la focalización del Hospital Digital en las atenciones de las especialidades médicas a través de la consulta remota, entrega de medicamentos hasta las 20:00 horas, operativos médicos para resolver atenciones, entre otras estrategias. Este plan contempla la realización de 2.600 cirugías mensuales adicionales a las ya programadas y 9.285 consultas mensuales de especialidad adicionales a las ya programadas.
+
+17. Que lo anterior debe efectuarse a la brevedad, toda vez que la situación debe estar regularizada antes de los meses de invierno, que es cuando históricamente la red asistencial de salud se ve más fuertemente demandada.
+
+18. Que, por otro lado, se han producido daños a la infraestructura de salud y su equipamiento avaluados estimativamente en $2.076.229.557 de pesos, producto de 29 establecimientos afectados. Estos se concentran en 7 hospitales (Padre Hurtado, San Pablo, Coquimbo, Andacollo, Chillán, Llay Llay, Puerto Montt, Temuco), 3 Centros de Salud Familiar (Coquimbo, San Carlos, Ercilla), 6 oficinas Compin (Antofagasta, La Serena, Viña del Mar, San Antonio, Santiago, Concepción), 2 sucursales de Fonasa (Recoleta, Maipú), 4 Samu -Sapu (Iquique, Viña del Mar, Hualpén, Tomé) el Centro Regulador Samu, oficinas administrativas de 3 Seremi (Región Metropolitana, Biobío, Magallanes) y 4 oficinas de Servicios de Salud (Antofagasta, Valparaíso, Maule, Magallanes). El más afectado ha sido el Hospital de Coquimbo donde se quemaron 10 consultas, 3 de la cuales eran de Odontología estaban completamente equipadas disponibles para ser entregadas para el uso de la población. En consecuencia, se requiere que el tiempo necesario para recuperar la infraestructura sea el más breve posible; así, esta Alerta Sanitaria entrega ayuda y flexibilidad a los directores de servicios y hospitales para reponer este daño.
+
+19. Que, la implementación de las medidas señaladas en los considerandos anteriores requiere de recursos físicos y humanos suficientes para cubrir las necesidades de regularización de cirugías y consultas médicas de especialidad, así como de todas aquellas prestaciones de salud en el contexto de los planes y programas de este Ministerio que se han visto retrasados, lo que no se logrará antes del término de la alerta sanitaria fijada para el día 31 de diciembre del presente año.
+
+20. Que, por lo dicho anteriormente, se hace necesario prorrogar la vigencia del decreto Nº 55 de 2019, a fin de que las autoridades de salud sigan contando con facultades extraordinarias para enfrentar, no solo la normalización de atenciones de salud suspendidas, sino también los graves efectos que las dificultades de desplazamiento siguen ocasionando en el sistema público de salud.
+
+21. Que, en mérito de los antecedentes expuestos y en uso de las facultades que confiere la ley,
+
+Decreto:
+
+#### Artículo 1º
+
+Modifícase el decreto Nº 55, de 13 de noviembre de 2019, de este Ministerio, en el siguiente sentido:
+
+1.- Sustitúyase el artículo 10º por el siguiente:
+
+#### Artículo 10º
+
+Los efectos de este decreto tendrán vigencia hasta el 31 de marzo de 2020, sin perjuicio de la facultad de poner término anticipado si las condiciones sanitarias así lo permiten o de prorrogarlo en caso de que éstas no mejoren".
+
+Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Paula Daza Narbona, Ministra de Salud (S).
+
+Transcribo para su conocimiento decreto Af. Nº 63 de 24-12-2019.- Saluda atentamente a Ud., Solana Terrazas M., Subsecretaria de Salud Pública (S).
