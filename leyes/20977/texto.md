@@ -28,7 +28,7 @@ TEXTO ÍNTEGRO Y ACTUALIZADO DE LA LEY N° 13.196
 
 #### Artículo 1º
 
-Derogado.
+El 10% del ingreso en moneda extranjera determinado por la venta al exterior de la producción de cobre, incluidos sus subproductos, de la Corporación Nacional del Cobre de Chile y el 10% del valor de los aportes en cobre al exterior que efectúe dicha Corporación, deberán ser depositados por el Banco Central de Chile en moneda dólar de los Estados Unidos de América, en la Tesorería General de la República, a beneficio fiscal.
 
 #### Artículo 2º
 

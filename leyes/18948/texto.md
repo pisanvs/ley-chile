@@ -108,6 +108,10 @@ Se exceptúan de lo anterior, los Oficiales del Servicio Religioso y los Oficial
 
 Los Empleados Civiles ingresarán a la planta como profesionales, técnicos o administrativos.
 
+El Personal de Planta de las Fuerzas Armadas que asuma un nuevo cargo como profesional del área de la salud, regido por la ley Nº 15.076, quedará afecto, con relación a esos nuevos servicios, al sistema previsional establecido en el decreto ley Nº 3.500, de 1980. En materia de salud, se regirá por el decreto con fuerza de ley Nº 1, de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979, y de las leyes Nº 18.933 y Nº 18.469, según corresponda. En materia de accidentes del trabajo y enfermedades profesionales, continuará afecto a las disposiciones contenidas en el decreto con fuerza de ley Nº 1, de 1997, del Ministerio de Defensa Nacional.
+
+Para los efectos de lo dispuesto en el inciso anterior, no será aplicable el artículo 2º de la ley Nº 18.458.
+
 #### Artículo 12
 
 El ingreso a la planta se hará en el último lugar del grado más bajo del escalafón respectivo, con excepción de los Empleados Civiles que sean nombrados para ocupar plazas que no formen escalafón.
@@ -712,25 +716,19 @@ De la Pensión de Retiro
 
 (79).- El personal tendrá derecho a pensión de retiro cuando acredite veinte o más años de servicios efectivos afectos al régimen de previsión que contempla este título.
 
-Para estos efectos serán servicios efectivos los prestados en cualquiera de las Instituciones de la Defensa Nacional en el ejercicio activo de sus respectivos empleos, afectos a la Caja de Previsión de la Defensa Nacional o a la Dirección de Previsión de Carabineros de Chile, o en las comisiones que el Presidente de la República les confíe, cuando ellas sean ajenas a las funciones de dichos empleos, como asimismo los correspondientes servicios efectivos afectos a los regímenes de los citados organismos previsionales, distintos de los anteriores, y los demás que determine la ley.
+Para estos efectos serán servicios efectivos los prestados en cualquiera de las Instituciones de la Defensa Nacional o de las Fuerzas de Orden y Seguridad Pública en el ejercicio activo de sus respectivos empleos, afectos a la Caja de Previsión de la Defensa Nacional o a la Dirección de Previsión de Carabineros de Chile, o en las comisiones que el Presidente de la República les confíe, cuando ellas sean ajenas a las funciones de dichos empleos, como asimismo los correspondientes servicios efectivos afectos a los regímenes de los citados organismos previsionales, distintos de los anteriores, y los demás que determine la ley.
 
-Asimismo, serán servicios efectivos el primer año de estudio en las Escuelas Institucionales de las Fuerzas Armadas aprobado con valer militar, respecto de quienes ingresen a dichas Escuelas sin haber hecho el Servicio Militar, los dos últimos años de estudios en las Escuelas Militar, Naval, de Aviación, de Servicio Femenino Militar, de Carabineros, de la Policía de Investigaciones, de las Escuelas de Ingenieros de la Armada y Pilotines, Escuela de Suboficiales, de Armas en el Ejército, la Escuela de Grumetes, la Escuela de Artesanos y otras en que funcionen cursos de Grumetes de la Armada y la Escuela de Especialidades de la Fuerza Aérea o el tiempo efectivo que durante ese lapso el alumno permanezca o haya permanecido en el respectivo establecimiento, y el tiempo servido como conscripto y aprendiz en las Fuerzas Armadas.
+Asimismo, serán servicios efectivos el primer año de estudio en las Escuelas Institucionales de las Fuerzas Armadas aprobado con valer militar, respecto de quienes ingresen a dichas Escuelas sin haber hecho el Servicio Militar, los dos últimos años de estudios en las Escuelas Militar, Naval, de Aviación, de Servicio Femenino Militar, de Carabineros, de la Policía de Investigaciones, de las Escuelas de Ingenieros de la Armada y Pilotines, Escuela de Suboficiales, de Armas en el Ejército, la Escuela de Grumetes, la Escuela de Artesanos y otras en que funcionen cursos de Grumetes de la Armada y la Escuela de Especialidades de la Fuerza Aérea o el tiempo efectivo que durante ese lapso el alumno permanezca o haya permanecido en el respectivo establecimiento, y el tiempo servido como conscripto y aprendiz en las Fuerzas Armadas, siempre que dichos periodos hayan sido cotizados en la Caja de Previsión de la Defensa Nacional o Dirección de Previsión de Carabineros, según corresponda.
 
-Se considerarán también servicios efectivos los dos últimos años o cuatro últimos semestres de estudios profesionales de los Oficiales de Justicia, Sanidad, Sanidad Dental, Veterinaria y del Servicio Religioso de los escalafones de las Fuerzas Armadas. Las imposiciones correspondientes serán de cargo de los interesados y se calcularán sobre el sueldo base del grado 14 de la escala de sueldos de las Fuerzas Armadas.
-
-El tiempo computable en las calidades mencionadas en los dos incisos anteriores no podrá exceder, en ningún caso, de tres años en total.
+El tiempo computable en las calidades mencionadas en el inciso anterior no podrá exceder, en ningún caso, de tres años en total.
 
 Igual carácter tendrá el tiempo servido por el personal de la reserva llamada al servicio para desempeño en la Institución, para lo cual deberá efectuar las imposiciones respectivas.
-
-Los Oficiales de los escalafones Prácticos e Inspectores de los Servicios Marítimos de la Armada tendrán derecho a computar los tiempos servidos en la Marina Mercante Nacional con anterioridad a su ingreso a la Armada, para enterar el mínimo de veinte años de servicios efectivos para tener derecho a gozar de pensión de retiro, siempre que hayan prestado un mínimo de cinco o diez años de servicios efectivos en esas calidades, respectivamente.
-
-Sin embargo, si alguno de los Oficiales de los Servicios Marítimos indicados en el inciso anterior fallece o sufre enfermedad profesional o invalidante de carácter permanente incompatible con el servicio, previamente calificada por la comisión de Sanidad de la Armada, no regirán los mínimos de cinco y diez años allí exigidos.
 
 En todo caso, el personal abonará los descuentos legales o traspasará los fondos correspondientes.
 
 #### Artículo 78
 
-(80).- Serán computables para el retiro todos los servicios prestados en cualquier organismo o institución de la Administración del Estado, siempre que no sean paralelos ni se hayan considerado en otra jubilación o retiro, y los reconocidos en virtud de la ley N° 10.986. Los servicios mencionados en este artículo no se computarán para completar los veinte años de servicios requeridos para impetrar pensión de retiro.
+(80).- Serán computables para el retiro todos los servicios prestados en cualquier organismo o institución de la Administración del Estado, siempre que no sean paralelos ni se hayan considerado en otra jubilación o retiro, y los reconocidos en virtud de la ley N° 10.986. Los servicios mencionados en este artículo no se computarán para completar los veinte años de servicios requeridos para impetrar pensión de retiro. Se considerarán también servicios computables, los dos últimos años o cuatro últimos semestres de estudios profesionales de los Oficiales de Justicia, Sanidad, Sanidad Dental, Veterinaria, Servicio Religioso, de los Escalafones de las Fuerzas Armadas. Las imposiciones correspondientes serán de cargo de los interesados y se calcularán sobre el sueldo base del grado 14 de la escala de sueldos de las Fuerzas Armadas.
 
 #### Artículo 79
 
@@ -738,7 +736,7 @@ En todo caso, el personal abonará los descuentos legales o traspasará los fond
 
 La fracción de año correspondiente a cada mes completo se computará a razón de un doce avo de treinta avo y la fracción de seis meses o más se computará como año completo. Asimismo, la pensión se computará con trienio cumplido, si al interesado le faltaren seis meses o menos para enterarlo al momento de hacer efectivo su retiro.
 
-La pensión de retiro del personal femenino con veinticinco años de servicios o veinte de servicios y cincuenta y cinco de edad, se calculará con un aumento de dos años, si son viudas, y de un año por cada hijo.
+La pensión de retiro del personal femenino con veinticinco años de servicios o veinte de servicios y cincuenta y cinco de edad, se calculará con un aumento de un año por cada hijo.
 
 #### Artículo 80
 
@@ -788,9 +786,9 @@ Las pensiones de inutilidad de segunda y tercera clases tienen el carácter de i
 
 (84).- Tendrán, asimismo, derecho a pensión de retiro los alumnos de las Escuelas Institucionales que no son personal de planta, el personal del servicio militar obligatorio y el personal de reserva llamado a servicio activo, que se inutilizaren como consecuencia de un accidente en actos de servicio, la que será siempre de cargo fiscal y se determinará sobre los sueldos de los siguientes empleos:
 
-a) Alumnos de las Escuelas Militar, Naval o de Aviación: Subtenientes: Aspirantes a Oficiales Femeninos de Línea: Subtenientes: Aspirantes a Oficiales Femeninos de los Servicios: Tenientes.
+a) Alumnos de las Escuelas Militar, Naval o de Aviación: Subtenientes.
 
-b) Reservistas llamados al Ejército, Armada y Fuerza Aérea: los grados o rentas de que estén en posesión conscriptos, aprendices, grumetes: C2°: Alumnas de la Escuela del Servicio Femenino Militar del Ejército Aspirantes a Clases: C2°.
+b) Reservistas llamados al Ejército, Armada y Fuerza Aérea: los grados o rentas de que estén en posesión conscriptos, aprendices, grumetes: C2°.
 
 #### Artículo 83
 
@@ -832,31 +830,41 @@ De la Pensión de Montepío
 
 Al montepío tienen derecho los siguientes asignatarios del causante:
 
-En primer grado, la viuda o, en su caso, el viudo que siendo inválido absoluto o mayor de sesenta y cinco años no perciba pensión o rentas de ninguna naturaleza.
+En primer grado, la viuda o el viudo.
 
-En segundo grado, los hijos legítimos y naturales.
+El o la cónyuge sobreviviente de un pensionado, para ser beneficiario de pensión de montepío, debe haber contraído matrimonio con el causante, a lo menos, con tres años de anterioridad a la fecha de su fallecimiento. Esta limitación no se aplicará si a la época del fallecimiento existieren hijos comunes o si la cónyuge se encontrare embarazada, o si el causante falleciere en acto determinado del servicio.
 
-En tercer grado, el padre legítimo inválido absoluto o mayor de sesenta y cinco años.
+En segundo grado, los hijos.
 
-En cuarto grado, la madre legítima viuda o natural, soltera o viuda.
+Los hijos e hijas, para ser beneficiarios de montepío, deberán ser solteros y cumplir uno de los siguientes requisitos:
 
-En quinto grado, las hermanas solteras huérfanas que carezcan de medios propios de vida iguales a una suma equivalente en ingresos mínimos a un sueldo vital y medio o más mensual de la Región Metropolitana de Santiago.
+a) Ser menores de 18 años de edad.
 
-A falta de viuda o viudo con derecho a montepío, suceden los hijos; a falta de éstos, el padre inválido absoluto o mayor de sesenta y cinco años; a falta de éste, la madre legítima viuda o natural, soltera o viuda, y a falta de ésta, las hermanas solteras huérfanas que carezcan de medios propios de vida iguales a una suma equivalente en ingresos mínimos a un sueldo vital y medio y más mensual, de la Región Metropolitana de Samtiago.
+b) Ser mayores de 18 años de edad y menores de 24, si son estudiantes de cursos regulares de enseñanza básica, media, técnica o superior. La calidad de estudiante deberá tenerla a la fecha del fallecimiento del causante o adquirirla antes de los 24 años de edad.
 
-Los asignatarios de los grados segundo, tercero, cuarto y quinto percibirán su pensión disminuída en un veinticinco por ciento.
+c) Ser inválido o incapaz absoluto, cualquiera sea su edad. Para estos efectos, la invalidez o incapacidad absoluta puede producirse después del fallecimiento del causante, pero antes de que cumplan las edades máximas establecidas en las letras a) o b) de este inciso, según corresponda.
 
-Si el causante dejare viuda o viudo con derecho a montepío e hijos legítimos de anteriores matrimonios o hijos naturales, la pensión se distribuirá entre aquélla, aquél y éstos, en la forma que se determine por resolución ministerial.
+La invalidez de los asignatarios de montepío será declarada como tal sólo cuando sea acreditada por la Comisión Médica o de Sanidad de la Institución a que pertenecía el causante.
 
-En las pensiones de montepío existirá el derecho de acrecer.
+En tercer grado, los padres, siempre que a la época del fallecimiento del imponente sean causantes de asignación familiar, reconocidos por el organismo competente.
 
-Para los efectos de este artículo, la madre legítima anulada de matrimonio y no vuelta a casar, será considerada como madre viuda.
+A falta de viuda o viudo, con derecho a montepío, sucederán los hijos; a falta de éstos, los padres causantes de asignación familiar.
 
-En el caso del personal soltero sin hijos que fallezca a consecuencia de un acto determinado del servicio, si el padre legítimo, en su caso, no pudiere gozar de montepío por no reunir las condiciones exigidas por la ley, le sucederá la madre legítima aún cuando estuviere casada con aquél. A falta de ésta, le sucederán los hermanos solteros huérfanos hasta los veintiún o ventitrés años si fueren estudiantes, a menos que acreditaren invalidez o incapacidad absoluta. En estos casos tendrá aplicación lo previsto en el inciso tercero.
+Los asignatarios de los grados segundo y tercero percibirán su pensión disminuida en un veinticinco por ciento.
 
-Concurriendo varias personas llamadas en el mismo grado, la pensión se dividirá entre ellas por partes iguales. No obstante, si entre estos asignatarios hubiere alguno afectado por una invalidez o incapacidad absoluta, podrá establecerse por resolución ministerial una forma especial de distribución.
+Si el causante dejare viuda o viudo con derecho a montepío e hijos de anteriores matrimonios o no matrimoniales, la pensión se distribuirá entre aquélla, aquél y éstos, en la siguiente forma:
 
-El personal que fallezca en servicio activo dará derecho a sus asignatarios de montepío a percibir, de acuerdo al grado de precedencia antes dicho, el sueldo y demás remuneraciones de que haya disfrutado hasta la fecha del cese respectivo, el que se expedirá inmediatamente después de otorgado el montepío o, a más tardar, dentro del plazo de 90 días. La resolución que otorga el montepío deberá dictarse dentro del plazo de seis meses contados desde la fecha del fallecimiento.
+a) Cada hijo de anteriores matrimonios o no matrimoniales recibirá la proporción de la pensión que le hubiese correspondido a la viuda o viudo, de no haber existido estos hijos, determinada como el cociente entre el 40% y el número total de asignatarios del segundo grado.
+
+b) La viuda o viudo recibirá el 100% de la pensión de montepío, a menos que existan hijos de anteriores matrimonios o no matrimoniales, en cuyo caso el porcentaje de la pensión de montepío que corresponda aplicar será determinado conforme a lo señalado en la letra a) precedente.
+
+En las pensiones de montepío existirá el derecho a acrecer.
+
+En el caso del personal soltero o divorciado, sin hijos, que fallezca a consecuencia de un acto determinado del servicio, tendrán derecho a montepío los padres.
+
+Concurriendo varias personas llamadas en el mismo grado, la pensión se dividirá entre ellas por partes iguales.
+
+El personal que fallezca en servicio activo dará derecho a sus asignatarios de montepío a percibir, de acuerdo al grado de precedencia antedicho, el sueldo y demás remuneraciones de que haya disfrutado hasta la fecha del cese respectivo, el que se expedirá de inmediato después de otorgado el montepío o a más tardar dentro de los noventa días siguientes. La resolución que otorgue el montepío deberá dictarse dentro del plazo de seis meses contados desde la fecha del fallecimiento.
 
 ### Párrafo 5°
 
@@ -884,59 +892,171 @@ El personal de reserva llamado al servicio activo no podrá obtener más de un d
 
 ## Título VI
 
-Del Régimen Presupuestario
+Del Financiamiento
 
 #### Artículo 93
 
-(96).- El presupuesto de las Fuerzas Armadas estará integrado por los recursos económicos que disponga la Ley de Presupuestos de la Nación como aporte fiscal e ingresos propios en moneda nacional o extranjera y por todos aquéllos otros recursos provenientes de otras leyes vigentes a la dictación de esta ley.
+El financiamiento de las Fuerzas Armadas estará integrado por los recursos económicos que disponga la Ley de Presupuestos del Sector Público como aporte fiscal e ingresos propios en moneda nacional o extranjera, y por los recursos que dispongan otras leyes.
+
+Los recursos económicos que se asignen en la Ley de Presupuestos del Sector Público se destinarán a financiar el desarrollo de las actividades generales de las Fuerzas Armadas y las capacidades estratégicas de la defensa. Para este último objetivo existirá, además, el mecanismo dispuesto en el Párrafo 2°.
+
+### Párrafo 1°
+
+Financiamiento de las Actividades Generales de las Fuerzas Armadas
 
 #### Artículo 94
 
-(97).- La Ley de Presupuestos de la Nación deberá consultar anualmente los recursos para el desarrollo de las actividades de las Fuerzas Armadas. Con tal objeto, los Comandantes en Jefe de las respectivas instituciones propondrán al Ministerio de Defensa Nacional sus necesidades presupuestarias, dentro del plazo y de acuerdo con las modalidades establecidas para el Sector Público.
+La Ley de Presupuestos del Sector Público deberá consultar anualmente los recursos para el desarrollo de las actividades generales de las Fuerzas Armadas. No son generales las actividades vinculadas a las capacidades estratégicas de la defensa que se describen en el Párrafo 2° de este Título.
 
-Con todo, el gasto que demande la ejecución de actividades provenientes de situaciones de excepción o extraordinarias, tales como actos electorales, conflictos externos o internos u otras no contempladas en la Ley de Presupuestos, será íntegramente financiado con aportes fiscales adicionales.
+Para el financiamiento de las actividades generales de las Fuerzas Armadas, los Comandantes en Jefe de las respectivas instituciones propondrán al Ministerio de Defensa Nacional sus necesidades presupuestarias, dentro del plazo y de acuerdo con las modalidades establecidas para el sector público. El Ministerio de Defensa Nacional oirá la opinión del Jefe del Estado Mayor Conjunto sobre las necesidades presupuestarias presentadas por los Comandantes en Jefe.
+
+Con todo, el gasto que demande la ejecución de actividades provenientes de situaciones especiales, tales como actos electorales, catástrofes naturales u otras no contempladas en la Ley de Presupuestos del Sector Público, será íntegramente financiado con aportes fiscales adicionales.
 
 #### Artículo 95
 
-(98).- El presupuesto, la contabilidad y la administración de fondos de cada una de las Instituciones que integran las Fuerzas Armadas, se ajustarán a la normativa que rige para la Administración Financiera del Estado, sin perjuicio de las excepciones legales vigentes a la fecha de dictación de esta ley. Con todo, los traspasos de los subtítulos respectivos, de un mismo capítulo, se harán por decreto supremo propuesto por los respectivos Comandantes en Jefe por intermedio del Ministro de Defensa Nacional.
+El presupuesto, la contabilidad y la administración de fondos para el desarrollo de las actividades generales de cada una de las instituciones que integran las Fuerzas Armadas, se ajustarán a las normas establecidas en el decreto ley N° 1.263, de 1975, sobre Administración Financiera del Estado, sin perjuicio de las excepciones legales vigentes.
 
 #### Artículo 96
 
-(99).- Sin perjuicio de los recursos que correspondan para gastos en personal, los que se reajustarán periódicamente conforme a las normas que regulan estas materias, la Ley de Presupuestos deberá asignar como mínimo para los demás gastos de las Fuerzas Armadas, un aporte en moneda nacional y extranjera no inferior al asignado en la Ley de Presupuestos aprobada y ejecutada para el año 1989, corregido el aporte en moneda nacional por el factor que resulte de dividir el valor del índice promedio de precios al consumidor del año en que rija la Ley de Presupuestos y el promedio del año 1989.
+La información del movimiento financiero y presupuestario referido en este Párrafo y que se proporcione a los organismos correspondientes, se ajustará a las normas establecidas en el decreto ley N° 1.263, de 1975, sobre Administración Financiera del Estado.
+
+La documentación respectiva será mantenida en cada institución y será revisada por la Contraloría General de la República, conforme a las normas legales vigentes.
+
+### Párrafo 2°
+
+Financiamiento de las Capacidades Estratégicas de la Defensa
 
 #### Artículo 97
 
-(100).- Las disposiciones contenidas en la ley N° 13.196 y sus modificaciones, mantendrán su vigencia.
+La política de defensa nacional, la política militar y las restantes políticas públicas del sector defensa a que se refiere el artículo 5°, letras a) y b), de la ley N° 20.424, Estatuto Orgánico del Ministerio de Defensa Nacional, serán la orientación superior para elaborar la planificación del desarrollo de la fuerza, la que tendrá una duración no inferior a ocho años, sin perjuicio de las modificaciones en el tiempo intermedio que puedan ser necesarias conforme a las finalidades de la defensa.
+
+De dicha planificación se derivará un plan cuatrienal de inversiones tendiente a lograr y sostener las capacidades estratégicas.
+
+Para lo señalado anteriormente existirá un mecanismo de financiamiento de inversión en material bélico e infraestructura asociada, y sus gastos de sostenimiento, el cual constará de lo siguiente:
+
+1. Un Fondo Plurianual para las Capacidades Estratégicas de la Defensa, y
+
+2. Un Fondo de Contingencia Estratégico.
 
 #### Artículo 98
 
-(101).- Los gastos reservados, cuyos montos serán fijados anualmente, no podrán ser inferiores a los decretados inicialmente para tal efecto en el año 1989, actualizados los gastos en moneda nacional por el factor que resulte de dividir el valor del índice promedio de precios al consumidor del año en que rija la Ley de Presupuestos y el promedio del año 1989. Dichos gastos serán fijados para cada Institución de las Fuerzas Armadas por decreto supremo expedido a través del Ministerio de Defensa Nacional y suscrito, además, por el Ministro de Hacienda, y tendrán la sola obligación de rendir cuenta en forma global y reservada, mediante Certificados de Buena Inversión.
+Créase el Fondo Plurianual para las Capacidades Estratégicas de la Defensa, que financiará la inversión en material bélico e infraestructura asociada, y sus gastos de sostenimiento que corresponda, en base a un programa de financiamiento de inversiones a cuatro años, que permita materializar la planificación del desarrollo de la fuerza derivada de la política de defensa nacional, establecida en el artículo anterior.
+
+La aplicación de los recursos del Fondo Plurianual para las Capacidades Estratégicas de la Defensa se contabilizará fuera de la Ley de Presupuestos del Sector Público, y el uso de sus recursos, ya sea en compras al contado o mediante operaciones a crédito, pago de cuotas al contado o servicio de los créditos, se dispondrá mediante decreto supremo reservado conjunto de los Ministerios de Defensa Nacional y de Hacienda, exento del trámite de toma de razón.
+
+El Fondo Plurianual para las Capacidades Estratégicas de la Defensa se mantendrá en una cuenta reservada especial del Servicio de Tesorerías. Sus recursos se invertirán en el mercado de capitales en conformidad a lo dispuesto en el inciso tercero del artículo 12 de la ley N° 20.128, sobre responsabilidad fiscal, y sus inversiones se informarán conforme lo disponga el Ministro de Hacienda en oficio reservado.
+
+La identificación específica de los gastos que se deriven del Fondo Plurianual para las Capacidades Estratégicas de la Defensa se aprobará por decreto supremo reservado conjunto de los Ministerios de Defensa Nacional y de Hacienda.
 
 #### Artículo 99
 
-(102).- Cuando se trate de gastos efectuados en material de uso bélico o en sus repuestos, deberá rendirse cuenta en forma reservada.
+Créase un Consejo del Fondo Plurianual para las Capacidades Estratégicas de la Defensa, en adelante el "Consejo".
+
+Las funciones del Consejo serán las siguientes:
+
+a) Elaborar y mantener actualizada una programación y control de los flujos financieros del Fondo de al menos cuatro años, considerando tanto los compromisos de pagos, como los ingresos a recibir del Fisco y las inversiones financieras.
+
+b) Informar los efectos financieros sobre la sustentabilidad del Fondo, de los compromisos a ser adquiridos en virtud del programa cuatrienal de inversiones establecido en el inciso segundo del artículo 100, a los Ministros de Defensa Nacional y de Hacienda.
+
+c) Informar los aportes y retiros del Fondo a los Ministros de Defensa Nacional y de Hacienda, e instruir las transferencias del Fondo, según corresponda.
+
+d) Elaborar reportes periódicos tanto de las inversiones financieras del Fondo como de las transferencias y los pagos realizados, según corresponda.
+
+Este Consejo estará integrado por cinco miembros:
+
+a) El Subsecretario de Defensa, como representante del Ministerio de Defensa Nacional, quien lo presidirá.
+
+b) El Subsecretario para las Fuerzas Armadas, como representante del Ministerio de Defensa Nacional.
+
+c) Un representante del Ministro de Defensa Nacional, designado por éste.
+
+d) Un representante del Ministro de Hacienda, designado por éste.
+
+e) Un representante del Presidente de la República, designado por éste.
+
+A los miembros del Consejo, que deberán ser funcionarios públicos, les serán aplicables las normas de probidad establecidas en la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses; en la ley Nº 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios, y especialmente las disposiciones del Título III de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado.
+
+No podrán desempeñarse como miembros del Consejo:
+
+a) Las personas que hubieren sido condenadas por delitos cometidos en ejercicio de la función pública, delitos tributarios, delitos contemplados en la ley Nº 18.045, de Mercado de Valores y, en general, por delitos contra la fe pública.
+
+b) Las personas que tuvieren dependencia de sustancias o drogas estupefacientes o sicotrópicas ilegales, a menos que justifiquen su consumo por un tratamiento médico.
+
+Si alguno de los miembros del Consejo hubiere sido acusado de alguno de los delitos señalados en la letra a) precedente, o por delitos que merezcan pena de crimen o simple delito, quedará suspendido de su cargo hasta que concluya el proceso por sentencia firme.
+
+La secretaría técnica del Consejo del Fondo Plurianual para las Capacidades Estratégicas de la Defensa estará a cargo de la Subsecretaría para las Fuerzas Armadas, y prestará el apoyo técnico y administrativo necesario para el adecuado funcionamiento del Consejo.
+
+Un reglamento establecerá las normas de integración y funcionamiento del Consejo. Además, determinará los mecanismos, procedimientos, modalidades y normas necesarias para la programación, control y sustentabilidad de los recursos del Fondo, así como la forma, detalle y periodicidad con que se informará sobre su ejecución. Este reglamento será emitido por el Ministerio de Defensa Nacional y suscrito, además, por el Ministro de Hacienda.
 
 #### Artículo 100
 
-(103).- La información del movimiento financiero y presupuestario que se proporcione a los organismos correspondientes se ajustará a las normas establecidas en la Ley de Administración Financiera del Estado.
+El Fondo Plurianual para las Capacidades Estratégicas de la Defensa estará constituido con los siguientes recursos:
 
-La documentación respectiva será mantenida en cada Institución, donde podrá ser revisada por los organismos pertinentes y por la Contraloría General de la República, según corresponda.
+1. Un monto equivalente al 55% del total de los recursos de la cuenta N° 9.154 – Ley N° 13.196, en la Tesorería General de la República, al 31 de diciembre del año 2017, que le sean traspasados en conformidad a la ley. Estos recursos serán enterados en una o más transferencias en moneda nacional o extranjera en un período de hasta cuarenta y ocho meses.
+
+2. Los que contemple la Ley de Presupuestos del Sector Público para cada año, considerando el programa cuatrienal de inversiones a que se refiere el inciso siguiente.
+
+3. Los intereses que devenguen las inversiones del Fondo.
+
+4. Los demás aportes que establezca la ley.
+
+Se derivará de la planificación del desarrollo de la fuerza un programa cuatrienal de inversiones en material bélico, infraestructura asociada y gasto de sostenimiento correspondiente, aprobado por el Ministerio de Defensa Nacional e informado a la Dirección de Presupuestos previo a lo dispuesto en el inciso tercero del artículo 101.
+
+Las inversiones de que trata este artículo se concretarán en proyectos evaluados y priorizados en conformidad con la ley N° 20.424, Estatuto Orgánico del Ministerio de Defensa Nacional, que serán identificados de manera compatible con el programa de inversiones señalado en el inciso precedente, las que se aprobarán mediante los decretos supremos establecidos en el inciso cuarto del artículo 98 del presente cuerpo legal.
+
+Por razones de seguridad de la Nación, estos decretos tendrán carácter reservado, serán ejecutados desde la fecha que en ellos se señale, estarán exentos del trámite de toma de razón y serán registrados reservadamente en el plazo establecido por la Contraloría General de la República. Sin perjuicio de ello, dicho órgano contralor podrá formular observaciones al referido decreto y, en caso de estimarlo procedente, ordenará la auditoría al efecto, remitiendo los antecedentes al Consejo de Defensa del Estado o al Ministerio Público, si correspondiere. Asimismo, el Ministro de Defensa Nacional deberá informar a la Cámara de Diputados y al Senado, con ocasión del cumplimiento de la obligación a que se refiere la letra f) del artículo 3 de la ley N° 20.424, Estatuto Orgánico del Ministerio de Defensa Nacional, de las observaciones formuladas por la Contraloría General de la República a estos decretos.
+
+> **Nota.** El artículo séptimo transitorio de la Ley 21174, publicada el 26.09.2019 establece que el número 2 del inciso primero del presente artículo, entrará en vigencia a partir del quinto año de la publicación de esta ley.
 
 #### Artículo 101
 
-(104).- Los actos, contratos o convenciones relativos a la adquisición, administración y enajenación de los bienes o servicios correspondientes a los fondos rotativos de abastecimiento de las Fuerzas Armadas, estarán exentos de todo impuesto, tributo o derecho, ya sean fiscales, aduaneros o municipales.
+Sin perjuicio de lo dispuesto en el artículo precedente, el aporte anual que la Ley de Presupuestos del Sector Público entere al Fondo Plurianual para las Capacidades Estratégicas de la Defensa contemplará un aporte basal que no podrá ser inferior al monto promedio de los aportes basales enterados a dicho fondo en el período de seis años inmediatamente anteriores al año en que se aprueba el aporte anual que se deba efectuar conforme al número 2 del artículo 100 correspondiente al cuarto año del programa cuatrienal de inversiones, de acuerdo al inciso cuarto del presente artículo.
+
+El aporte basal señalado en el inciso anterior será establecido mediante decreto supremo, por orden del Presidente de la República, que llevará las firmas de los Ministros de Defensa Nacional y de Hacienda.
+
+Durante el primer semestre de cada año, y previo al proceso de discusión presupuestaria de cada año, el Ministerio de Defensa Nacional deberá presentar ante las comisiones técnicas de cada cámara del Congreso Nacional la actualización del programa de inversiones a que se refiere el inciso segundo del artículo precedente. Con el objeto de mantener de un modo continuo en el tiempo una programación de financiamiento para un período de cuatro años, dicha presentación deberá explicitar los ajustes correspondientes al cuarto año, acorde con la planificación del desarrollo de la fuerza derivada de la política de defensa nacional. Por razones de seguridad de la Nación, las sesiones y los antecedentes considerados por las comisiones respectivas, para los efectos señalados en los incisos anteriores, serán secretas.
+
+La Ley de Presupuestos del Sector Público de cada año deberá contener la proyección del aporte anual que se deba efectuar conforme al número 2 del artículo 100 correspondiente al cuarto año del programa cuatrienal de inversiones, para su aprobación por el Congreso Nacional.
 
 #### Artículo 102
 
-(105).- De los gastos netamente militares calificados como tales en la Ley de Presupuestos, a proposición de los Comandantes en Jefe de cada Institución, que se efectúen dentro de sus respectivos Presupuestos de Gastos, tanto en moneda nacional como en moneda extranjera, deberá rendirse cuenta en forma reservada.
+Créase un Fondo de Contingencia Estratégico, destinado a financiar el material bélico e infraestructura asociada y sus gastos de sostenimiento para enfrentar situaciones de guerra externa o de crisis internacional que afecten gravemente la seguridad exterior de la República, sin perjuicio de lo establecido en el artículo 32, número 20, de la Constitución Política de la República. El Fondo también podrá ser usado para financiar el material bélico e infraestructura asociada destruidos o severamente dañados a consecuencia de situaciones de catástrofe. Todas las situaciones que menciona este inciso serán declaradas por el Presidente de la República mediante decreto supremo fundado, que llevará las firmas de los Ministros de Defensa Nacional y de Hacienda.
+
+Asimismo, el Fondo de Contingencia Estratégico podrá ser utilizado para anticipar recursos al Fondo Plurianual para las Capacidades Estratégicas de la Defensa cuando, por las características y disponibilidad, sea necesaria la adquisición de material bélico para mantener o desarrollar las capacidades estratégicas. Esta iniciativa de inversión deberá ser evaluada previamente conforme a lo dispuesto en el inciso tercero del artículo 100, y será autorizada por decreto supremo fundado y reservado conjunto de los Ministerios de Defensa Nacional y de Hacienda, exento del trámite de toma de razón. Dicha compra deberá informarse en sesión secreta a las comisiones técnicas de cada rama del Congreso Nacional, en términos generales, sin afectar la seguridad nacional ni la capacidad disuasiva de las Fuerzas Armadas. En estos casos, el Fondo se repondrá con los flujos contemplados para la compra de dicho material en la planificación financiera de los años siguientes.
+
+Un reglamento establecerá los mecanismos, procedimientos, modalidades y demás normas necesarias para la aplicación de los recursos de este Fondo, los que podrán contemplar aportes especiales al Fondo Plurianual señalado en el artículo 98. Este reglamento será aprobado por decreto supremo que llevará la firma de los Ministros de Defensa Nacional y de Hacienda. Con todo, los gastos que se deriven del Fondo se identificarán en decretos supremos reservados conjuntos de los Ministerios de Defensa Nacional y de Hacienda.
+
+El Fondo se mantendrá en una cuenta especial del Servicio de Tesorerías y sus recursos se invertirán conforme a lo dispuesto en los artículos 12 y 13 de la ley Nº 20.128, sobre responsabilidad fiscal.
 
 #### Artículo 103
 
-(106).- En lo no previsto en esta ley y en cuanto no fuere contrario a ella, regirán las disposiciones del Estatuto del Personal de las Fuerzas Armadas, como asimismo las demás normas legales y reglamentarias que le son aplicables.
+El Fondo de Contingencia Estratégico estará constituido y se incrementará con los siguientes recursos:
+
+1. Un aporte único y especial equivalente al 20% del total de los recursos de la cuenta N° 9.154 – Ley N° 13.196, en la Tesorería General de la República, al 31 de diciembre del año 2017, que le serán traspasados en conformidad a la ley.
+
+2. Los intereses que devenguen las inversiones del Fondo.
+
+3. Los demás aportes que establezca la ley.
 
 #### Artículo 104
 
-(107).- Esta ley regirá a contar desde el 30 de diciembre de 1989.
+El Ministro de Defensa Nacional deberá informar una vez al año, en sesión conjunta y secreta de las comisiones de Defensa Nacional de ambas cámaras del Congreso Nacional, sobre la forma en que se están materializando las capacidades estratégicas de la defensa definidas en la planificación del desarrollo de la fuerza y financiadas conforme a lo dispuesto en este párrafo.
+
+#### Artículo 105
+
+Por razones de seguridad de la Nación, la fiscalización y control que corresponda a la Contraloría General de la República sobre la inversión y gastos a que se refiere este párrafo, se harán en forma reservada. El Contralor General de la República establecerá el procedimiento para llevar a cabo dichas tareas. A dicho procedimiento estarán afectos todos los servicios, instituciones y unidades de las Fuerzas Armadas, así como cualquier otro órgano o servicio público de la Administración del Estado que intervenga en dicha inversión y gastos.
+
+### Párrafo 3°
+
+Otras Disposiciones
+
+#### Artículo 106
+
+Los actos, contratos o convenciones relativos a la adquisición, administración y enajenación de los bienes o servicios correspondientes a los fondos rotativos de abastecimiento de las Fuerzas Armadas estarán exentos de todo impuesto, tributo o derecho, ya sean fiscales, aduaneros o municipales.
+
+#### Artículo 107
+
+En lo no previsto en esta ley y en cuanto no fuere contrario a ella, regirán las disposiciones del Estatuto del Personal de las Fuerzas Armadas, como asimismo las demás normas legales y reglamentarias que le son aplicables.
 
 ARTICULOS TRANSITORIOS
 
