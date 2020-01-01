@@ -26,6 +26,14 @@ El Banco acreditará a su comitente el dinero que éste o un tercero entreguen c
 
 #### Artículo 3°
 
+El pago del crédito que se haya estipulado para la cuenta corriente bancaria será automático, con los abonos que se hagan a la cuenta corriente correspondiente, siempre y cuando no exista deuda vigente por créditos no estipulados.
+
+Sin perjuicio de lo anterior, también podrá realizarse el pago del crédito que se haya estipulado, mediante el depósito directo de abonos a dicho crédito que sea realizado por caja en las sucursales bancarias que corresponda o a través de las transferencias que el propio comitente determine realizar.
+
+De manera expresa y voluntaria, el comitente podrá instruir al Banco que el pago del crédito que se haya estipulado para su cuenta corriente bancaria no se realice de manera automática, en cuyo caso el pago se realizará mediante los mecanismos señalados en el inciso anterior. Esta instrucción podrá ser presentada después de la apertura de la cuenta corriente bancaria y en cualquier oportunidad en que ésta se mantenga activa, para lo cual el Banco deberá mantener a disposición de sus comitentes los sistemas presenciales y remotos necesarios para su instrucción. El comitente podrá cambiar la forma de pago elegida en cualquier oportunidad, la que se hará efectiva en el mes calendario siguiente a su instrucción.
+
+El cálculo de todos los cargos asociados al crédito que se haya estipulado para la cuenta corriente bancaria será el mismo, cualquiera sea la opción asumida por el cliente según este artículo.
+
 El Banco podrá permitir que su comitente gire en exceso del monto del crédito estipulado o de su haber en efectivo. En tal caso, los primeros abonos que en seguida se hagan a la cuenta se aplicarán de preferencia a extinguir el sobregiro.
 
 #### Artículo 4°
