@@ -280,59 +280,7 @@ Ley N° 15.076, 11 hrs/sem.
 
 #### Artículo 4°
 
-Fíjanse los siguientes requisitos específicos para el desempeño de los cargos que se mencionan:
-
-Planta Cargo Grado Requisitos
-
-______________________________________________________
-
-Directivos Director de Obras 8°
-
-Requerirá experiencia Municipales en Desarrollo
-
-Urbano.
-
-Director de Tránsito 8°
-
-y Transporte Públicos
-
-Requerirá Título de Ingeniero Civil.
-
-Profesionales Profesional 8°
-
-- Un cargo grado 8° requerirá Título de Abogado.
-
-Profesional 11°
-
-- Un cargo grado 11° requerirá alternativamente,
-
-Título de Contador Público o Contador Auditor.
-
-11°
-
-- Un cargo grado 11°, requerirá Título de Educadora
-
-de Párvulos.
-
-Profesional 12°
-
-- Un cargo grado 12° requerir Título de
-
-Bibliotecario.
-
-Técnicos Técnicos 17°
-
-- Un cargo grado 17°, requerir Título de Técnico
-
-Mécanico.
-
-- Un cargo grado 17° requerirá experiencia de a lo
-
-menos un año como Digitador Computacional.
-
-17° - Dos cargos
-
-grado 17°, requerir n Título de Técnico en Turismo.
+DEROGADO
 
 Anótese, tómese razón, regístrese, comuníquese y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Germán Correa Díaz, Ministro del Interior.- Eduardo Aninat Ureta, Ministro de Hacienda.
 
