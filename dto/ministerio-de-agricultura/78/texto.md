@@ -658,13 +658,15 @@ n. Glucano-Quitina, en dosis máxima de 100 g/hL
 
 19. Desacidificación de mostos mediante tratamiento con electro membranas.
 
-20. Reducción del contenido de azúcar de los mostos mediante el empleo de las siguientes técnicas:
+20. Reducción del contenido de azúcar de los mostos mediante el empleo de las siguientes técnicas o prácticas:
 
-a) Técnicas de membranas.
+a) Técnicas de Membrana
 
-b) Acoplamiento membranoso.
+b) Acoplamiento membranoso
 
-21. Durante la vinificación podrá utilizarse agua para lavado de equipos de molienda, disolver aditivos y rehidratar levaduras de fermentación. El volumen del mosto no podrá aumentar en más de 5% del volumen inicial.
+c) Agua para facilitar la fermentación de mostos con contenidos de sólidos solubles superiores a 23,5° Brix, bajo las condiciones y exigencias establecidas por el Servicio.
+
+21. Durante la vinificación podrá utilizarse agua para disolver aditivos y rehidratar levaduras de fermentación. El volumen del mosto no podrá aumentar en más de 2% del volumen inicial.
 
 #### Artículo 23º
 
@@ -792,7 +794,13 @@ b) Técnicas de membranas.
 
 c) Destilación.
 
-42. Durante la elaboración del vino podrá utilizarse agua para disolver aditivos y productos enológicos. El volumen después de todos los tratamientos no podrá aumentar en más del 2% del volumen de vino inicial.
+42. Durante la elaboración del vino podrá utilizarse agua para disolver aditivos y productos enológicos. El volumen después de todos los tratamientos no podrá aumentar en más del 1,5% del volumen de vino inicial.
+
+43. La adición de poliaspartato de potasio, con el fin de lograr la estabilización tartárica en vinos y vinos espumosos en dosis máxima de 10 g/hL.
+
+44. El empleo de glutatión en dosis máxima de 20 mg/L.
+
+45. El uso de fibras vegetales selectivas para reducir la cantidad de ocratoxina A y el número y cantidad de residuos de productos fitosanitarios en el vino, en dosis máxima de 1,5 kg/m2 de superficie de filtración.
 
 #### Artículo 24°
 
@@ -820,7 +828,7 @@ e) Los productos finales que contengan más de 2 microgramos por litro (µ/L) de
 
 Se considerarán vinos adulterados los siguientes:
 
-a) Aquellos que en su proceso de vinificación o de elaboración se les haya adicionado agua, salvo que ese elemento provenga de los actos autorizados y en las condiciones establecidas en los números 21 del artículo 22 y número 42 del artículo 23 de este Reglamento.
+a) Aquellos que en su proceso de vinificación o de elaboración se les haya adicionado agua, salvo que ese elemento provenga de los actos autorizados y en las condiciones establecidas en los números 20 y 21 del artículo 22° y número 42 del artículo 23° de este Reglamento.
 
 b) Los que tengan una suma alcohol-ácido inferior a 13,5.
 
