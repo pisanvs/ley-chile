@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 4.153, de fecha 16/12/19, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo al Proyecto "Mejoramiento Calle Alvarado entre Francisco Pizarro y Huichahue, Padre Las Casas", Serviu Región de la Araucanía ordenó la expropiación de parte del Lote Nº 02-0 Al, consistente en Lote número cuarenta y tres de una superficie de 21.139 metros cuadrados, resultante de la subdivisión de restos de la Hijuela número ocho de una superficie de 1,80 hectáreas del plano de la hijuelación de la ex comunidad Colimilla Burgos, ubicada en el lugar Llaihuallin, departamento de Temuco. Comuna de Padre Las Casas, Rol de avalúo 2076-72. La superficie a expropiar aproximada es de 1.300,90 metros cuadrados, de aparente dominio de doña Manuela del Carmen Llancamil Antivil. Comisión de Peritos designada al efecto, fijó monto de Indemnización Provisional en $93.857.952, según Informe Nº 02-0 A1 de fecha 13/12/2019, pagadero contado.-
+
+Director (S), Serviu Región de la Araucanía.
