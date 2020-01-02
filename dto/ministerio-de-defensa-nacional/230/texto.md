@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 230, de 23 de mayo de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Invermar S.A., RUT. N° 79.797.990-2, Primera Renovación con Modificación de Concesión Marítima Menor, con vencimiento 31 de diciembre de 2028, sobre un sector de Playa y Porción de Agua, en el lugar denominado Traiguén, Isla Quinchao, comuna de Quinchao, provincia de Chiloé, Región de Los Lagos, con una superficie total de 1.423,34 m2, la que fue tramitada con el SIABC N° 36.889. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 42°31'41,04" S - 73°24'59,42" W. El objeto consiste en continuar amparando la instalación de un atracadero flotante y un patio de trabajo. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Achao. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Christian Campos Antiguay, Sargento 1° L (SEG M), Capitán de Puerto de Achao.
