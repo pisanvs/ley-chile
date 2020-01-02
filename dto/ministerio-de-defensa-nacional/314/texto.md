@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto Supremo Nº 314, del 5 de agosto de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Roberto Andrés Walker Hitschfeld, RUT 8.865.424-2, concesión marítima menor, con vencimiento 31 de diciembre de 2024, sobre un sector de playa, fondo de lago y porción de agua en el lugar denominado Huenehue, comuna de Panguipulli, Provincia de Valdivia, Región de Los Ríos, con una superficie total de 4,165 m2, la que fue tramitada con el SIABC Nº38.443. A modo referencial se señalan las siguientes coordenadas geográficas: Latitud 39º37'50,22"S Longitud 72º13'11,78"W. Latitud 39º37'50,21"S Longitud 72º13'12,36" W. El objeto consiste en una cañería aductora y 2 boyas de amarre. Las obras consisten en construcción de una cañería aductora de agua y la instalación de dos boyas de amarre para naves menores que no excedan de 25 TRG y el plazo contemplado para su ejecución es de: ya ejecutado. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Panguipulli.
+
+El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Francisco Arias Larraín, Capitán de Corbeta LT.
