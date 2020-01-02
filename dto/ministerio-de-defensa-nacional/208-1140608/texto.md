@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 208, de 6 de mayo de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Señora Claudia Elena Rivas Salazar, RUN 11.684.552-0, concesión marítima menor, con vencimiento 31 de diciembre de 2023, sobre un sector de Terreno de Playa y Uso de Mejora Fiscal, en el lugar denominado Playa Blanca, comuna de Coronel, Provincia de Concepción, Región del Biobío, con una superficie total de 418,3 m2, la que fue tramitada con el SIABC Nº 33.862. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 37º 3' 41,80" S - 73º 8' 31,66 W. El objeto consiste en continuar amparando la instalación y uso de un Salón de Eventos Turísticos y Restaurante. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Coronel. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Coronel, 12 de noviembre de 2019.- Francisco Briones García, Teniente 1º LT.
