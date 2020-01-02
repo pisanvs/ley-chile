@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto (Exento) MOP. N° 1534 de 18 de diciembre de 2019, se modificó el numeral segundo del Decreto Exento MOP. N°676 de 29 de junio de 2017, en lo que respecta al rol de avalúo y nombre de propietario del lote N°107, quedando como a continuación se indica: propietario según SII, GUERRA ATENAS RODOLFO DEL CARMEN rol de avalúo 2023-775 ubicado en la comuna de Melipilla, superficie 17 m2.
