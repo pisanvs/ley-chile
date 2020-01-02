@@ -70,9 +70,11 @@ Planta transmisora
 
 II Región.
 
-- Coordenadas Geográficas : 23°37'01" Latitud Sur;
+- Coordenadas Geográficas : 23°34'53" Latitud Sur;
 
-70°21'19" Longitud Oeste.
+70°18'47" Longitud Oeste.
+
+datum WGS 84
 
 4. La publicación del presente decreto de modificación en el Diario Oficial, deberá efectuarse dentro del plazo de 30 días hábiles, contados desde la notificación del decreto al concesionario. La no publicación de éste dentro del plazo indicado, producirá la extinción de dicho acto administrativo por el solo ministerio de la ley sin necesidad de declaración alguna.
 
