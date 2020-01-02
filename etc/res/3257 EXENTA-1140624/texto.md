@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.257, 29 de noviembre 2019, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en calle Collao 1202 Puchacay Puchacay, Rol de Avalúo Nº 309-1, comuna de Concepción, de aparente dominio de Universidad del Bío Bío, en una superficie de 7.996,78 m2 de terreno (Polígono Nº 1 de 4.550,88 m2, Polígono Nº 2 de 3.237,56 m2 y Polígono Nº 3 de 208,34 m2) y 405,00 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-38.412-1, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por el arquitecto Juan Felipe King Domínguez, por la ingeniero forestal Dory Donoso Salgado y por el arquitecto Brogan Ulloa Pérez, según informe de fecha 9 de noviembre 2019, fijó monto provisional indemnización en $1.970.891.292, pagadera de contado.
+
+Director (S) Serviu Región del Biobío.
