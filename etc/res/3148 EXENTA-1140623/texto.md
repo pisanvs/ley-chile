@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.148, 18 de noviembre 2019, Serviu Región del Biobío ordenó desistimiento de expropiación total de inmueble ubicado en Estero El Manco 3038 A DP 34 piso 3, Rol de Avalúo Nº 4063-20, de la comuna de Coronel, de aparente dominio de Palma Pizarro Elsa del Carmen y Otros, la superficie afecta a expropiación total es de 43,189 m2 que corresponden a 42,42 m2 de superficie útil y 0,769 m2 de superficie de uso común en cuanto a construcción; y de terreno sobre el total de los derechos cuotativos comunes, corresponden a 37,34375 m2 de superficie equivalentes al 1,5625% sobre el total del condominio que es de 2390 m2 (Lote 5), cuyos deslindes particulares se indican en el plano de expropiación S8R-37.441, para la ejecución del Proyecto de Ampliación y Alteración de Departamentos y Blocks de Mártires del Carbón, comuna de Coronel.-
+
+Director Serviu Región del Biobío.
