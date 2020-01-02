@@ -1,0 +1,5 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 347, de 9 de septiembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Astilleros Chiloé S.A., RUT 76.016.405-4, concesión marítima menor, con vencimiento al 30 de junio del año 2024, sobre un sector de Playa de mar, en el lugar denominado Área Rural de Huitauque, sector Vilupulli, Canal Yal, comuna de Chonchi, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 2.670,186 m², la que fue tramitada con el SIABC N° 34.868. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): 42° 36'45,55" S-73°47"12,86" W. El objeto de esta concesión marítima es permitir la habilitación y uso de dos varaderos de tipo regional y de una rampa destinada a subir y bajar embarcaciones. El plazo contemplado para su ejecución es de doce meses. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Chonchi. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Daniel Ramírez Ruiz, Teniente 2° OM, Capitán de Puerto de Chonchi.
