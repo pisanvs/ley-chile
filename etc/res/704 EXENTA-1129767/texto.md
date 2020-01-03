@@ -44,7 +44,7 @@ Resolución:
 
 .
 
-7.- El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 220.713 UF correspondientes a 1.037 subsidios, que se distribuirán regionalmente según el cuadro que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución:
+7.- El monto total que se destinará al financiamiento del subsidio en el presente llamado, conforme a las disposiciones del DS Nº 52 (V. y U.), de 2013, será de hasta 221.139 UF correspondientes a 1.039 subsidios, que se distribuirán regionalmente según el cuadro que se presenta a continuación, pudiendo practicarse redistribuciones o modificaciones de recursos que serán sancionadas mediante resolución:
 
 .
 
