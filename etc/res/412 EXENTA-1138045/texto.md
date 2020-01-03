@@ -36,9 +36,9 @@ Primero: Fíjase el siguiente procedimiento de recepción y evaluación de solic
 
 2. Los datos a los que podrán acceder las Universidades, serán absolutamente innominados y los estrictamente necesarios para la investigación o estudio, y se accederá a éstos a través de un computador aislado seguro, bajo los controles técnicos que para estos efectos disponga la Subsecretaría de Evaluación Social, en adelante la "SES".
 
-3. La información que las Universidades sustraigan deberá cumplir con las condiciones que establezca la SES y ser de carácter indeterminada e indeterminable. Para estos efectos, la Subsecretaría tratará y revisará dicha información con objeto de verificar lo anterior.
+3. La información que las Universidades sustraigan deberá cumplir con las condiciones que establezca la SES y ser de carácter indeterminada e indeterminable. Para estos efectos, la Subsecretaría tratará y revisará dicha información con objeto de verificar lo anterior y, asimismo, las universidades serán responsables de cumplir con la guía de tratamiento de datos que les entregará la SES para este fin.
 
-4. A través de una página web que para estos efectos pondrá a disposición el MDSF, en lo sucesivo la "página web", se presentarán las solicitudes de las Universidades, y se publicarán los actos administrativos que se dicten durante este procedimiento; y los resultados de las investigaciones y/o estudios que realicen las Universidades, sin que ello signifique que los mismos representan la postura del MDSF al respecto.
+4. A través de una página web que para estos efectos pondrá a disposición el MDSF, en lo sucesivo la "página web", se presentarán las solicitudes de las Universidades, y se publicarán los actos administrativos que se dicten durante este procedimiento. Asimismo, podrán publicarse los resultados de las investigaciones y/o estudios que realicen las Universidades, sin que ello signifique que los mismos representan la postura del MDSF al respecto.
 
 ### II. Recepción de Solicitudes
 
@@ -114,7 +114,11 @@ f. Derecho de acceso del MDSF a la investigación o estudio.
 
 g. Causales de término anticipado del convenio.
 
-h. Los datos podrán ser usados sólo para fines del estudio y luego deben ser destruidos, lo que será certificado por escrito por la jefatura a cargo de la investigación.
+h. Que los datos podrán ser usados sólo para fines del estudio.
+
+i. La prohibición para el MDSF de utilizar las bases de datos que la universidad le entregue, para fines diversos al objeto del convenio, debiendo además destruirlas en los casos que proceda.
+
+j. La obligación para la universidad de cumplir con la Guía de Tratamiento de datos que les entregará la SES.
 
 ### IV. Vigencia
 
