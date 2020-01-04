@@ -174,15 +174,17 @@ Las vías de acceso y zonas de circulación que se encuentren dentro del recinto
 
 #### Artículo 24
 
-Los edificios e instalaciones deberán proyectarse de tal manera que las operaciones puedan realizarse en las debidas condiciones higiénicas y se garantice la fluidez del proceso de elaboración desde la llegada de la materia prima a los locales, hasta la obtención del producto terminado, asegurando además, condiciones de temperatura apropiadas para el proceso de elaboración y para el producto.
+Los edificios e instalaciones deberán proyectarse de tal manera que las operaciones puedan realizarse en las debidas condiciones higiénicas y se garantice la fluidez del proceso de elaboración desde la llegada de la materia prima a los locales hasta la obtención del producto terminado, asegurando además condiciones de temperatura apropiadas para el proceso de elaboración y para el producto.
 
-Los establecimientos destinados a la elaboración de alimentos deberán contar con las siguientes áreas:
+Los establecimientos de alimentos en que se mantengan o almacenen materias primas alimentarias, alimentos en proceso, alimentos terminados y envases de alimentos deberán diseñarse de tal forma que éstos estén protegidos de la contaminación y/o alteración.
 
-a) recepción, selección, limpieza y preparación de las materias primas;
+Los establecimientos destinados a la elaboración de alimentos, según las características del proceso, deberán contar con las siguientes áreas:
 
-b) producción;
+a) Recepción, selección, limpieza y preparación de las materias primas.
 
-c) almacenamiento de materias primas y del producto terminado.
+b) Producción.
+
+c) Almacenamiento de materias primas, envases, etiquetas, alimentos en proceso y del producto terminado.
 
 #### Artículo 25
 
@@ -332,7 +334,7 @@ Se prohíbe la mantención de plaguicidas u otras sustancias tóxicas que puedan
 
 #### Artículo 51
 
-No deberá almacenarse en la zona de manipulación de alimentos ninguna sustancia que pueda contaminar los alimentos ni depositarse ropas u objetos personales en las zonas de manipulación de alimentos.
+En las zonas de manipulación de alimentos se prohíbe almacenar sustancias que puedan contaminar los alimentos ni depositar o guardar en ellas ropa u otros objetos personales.
 
 ### Párrafo VI
 
@@ -356,7 +358,7 @@ El personal que manipule alimentos no deberá atender pagos del público, sea re
 
 #### Artículo 55
 
-El personal que manipula alimentos deberá lavarse y cepillarse siempre las manos antes de iniciar el trabajo, inmediatamente después de haber hecho uso de los servicios higiénicos, después de manipular material contaminado y todas las veces que sea necesario.
+El personal que manipula alimentos deberá lavarse siempre las manos cuando su nivel de limpieza pueda afectar la inocuidad de los alimentos, antes de iniciar el trabajo, inmediatamente después de haber hecho uso de los servicios higiénicos, después de manipular material contaminado y todas las veces que sea necesario.
 
 #### Artículo 56
 
@@ -390,7 +392,7 @@ En la elaboración sólo deberán utilizarse materias primas e ingredientes en b
 
 #### Artículo 62
 
-Las materias primas y los ingredientes almacenados en los locales del establecimiento deberán mantenerse en condiciones que eviten su deterioro y contaminación.
+Las materias primas, ingredientes, alimentos en proceso y envases almacenados en los locales del establecimiento deberán mantenerse en condiciones que eviten su deterioro y contaminación, considerando aspectos tales como: naturaleza del producto, infraestructura, características de los envases, tratamientos térmicos o de preservación a que serán sometidos.
 
 #### Artículo 63
 
@@ -447,6 +449,8 @@ El fraccionamiento y expendio de los alimentos señalados en el inciso anterior,
 Los productos alimenticios de venta a granel expuestos en vitrina deberán exhibir la identificación del fabricante o productor.
 
 En los establecimientos deberán mantenerse los antecedentes de origen y fechas de elaboración y vencimiento de los productos sujetos a este tipo de comercialización, de manera tal que, estén disponibles para la autoridad sanitaria cuando ésta lo requiera.
+
+El almacenamiento de alimentos en establecimientos destinados al expendio deberá realizarse de modo de mantener los productos protegidos de la contaminación y/o alteración conforme a las características de los alimentos que se expenden.
 
 #### Artículo 72
 
@@ -834,7 +838,11 @@ Para productos alimenticios deshidratados, que se consuman reconstituidos, la po
 
 34) Publicidad: Toda forma de promoción, comunicación, recomendación, propaganda, información o acción destinada a promover el consumo de un determinado producto.
 
+36) Vegetales pre-elaborados: frutas u hortalizas, combinadas o no, procesadas para su consumo de manera de mantenerlos organolépticamente frescos a través de operaciones como: remoción de partes no comestibles, picado, laminación, trituración, cubeteado, centrifugación, sanitización y envasado, a los que se les puede prolongar su vida útil a través de la disminución y control de la carga microbiológica y de las condiciones de envasado u otros procesos tecnológicos.
+
 > **Nota.** El artículo transitorio del DTO 57, Salud, publicado el 06.05.2005, dispone que las modificaciones a la presente norma entrarán en vigencia dieciocho meses después de su publicación.
+
+> **Nota.** NOTA 1 El numeral 1 del artículo 1 del Decreto 15, Salud, publicado el 02.08.2017, modifica el presente artículo en el sentido de incluir el numeral 36, sin embargo, no se encuentra en dicho texto el numeral 35, razón por la cual se ingresa a continuación del 34.
 
 #### Artículo 107
 
@@ -910,11 +918,11 @@ Además los productos importados deberán cumplir con todas las disposiciones de
 
 #### Artículo 109
 
-La información en el rótulo deberá estar en idioma castellano, pudiendo repetirse eventualmente en otro idioma. Los datos deberán señalarse con caracteres visibles, indelebles y fáciles de leer en circunstancias normales de compra y uso. No se permitirá sobreimpresión o cualquier modificación de la información contenida en el rótulo original, salvo autorización por escrito de la autoridad sanitaria, con las siguientes excepciones:
+La información en el rótulo deberá estar en idioma castellano, pudiendo repetirse eventualmente en otro idioma. Los datos deberán señalarse con caracteres visibles, indelebles y fáciles de leer en circunstancias normales de compra y uso. En el caso de envases transparentes, se prohíbe la colocación de información obligatoria en el reverso de la etiqueta adherida al envase. No se permitirá sobreimpresión o cualquier modificación de la información contenida en el rótulo original, salvo autorización por escrito de la autoridad sanitaria, con las siguientes excepciones:
 
-1) Los productos importados cuya rotulación esté en otro idioma o no cumpla con las exigencias del presente reglamento en lo que a rotulación se refiere;
+1) Los productos importados cuya rotulación esté en otro idioma o no cumpla con las exigencias del presente reglamento en lo que a rotulación se refiere.
 
-2) Los productos que utilicen la sobreimpresión o modificación de la información en el rótulo en conformidad a las disposiciones del artículo 120 bis del presente reglamento, incluyendo el ajuste de la información nutricional que debe declararse o eliminando información incompatible con dicho descriptor, cuando corresponda.
+2) Los productos que utilicen la sobreimpresión o modificación de la información en el rótulo en conformidad a las disposiciones del artículo 120 bis del presente reglamento, incluyendo el ajuste de la información nutricional que debe declararse o eliminando información incompatible con dicho descriptor, cuando corresponda
 
 #### Artículo 110
 
@@ -945,6 +953,22 @@ Estos alimentos o productos alimenticios no se podrán expender, comercializar, 
 La publicidad de estos alimentos que se efectúe por medios de comunicación masivos, deberá llevar un mensaje que promueva hábitos de vida saludable, cuyas características serán determinadas por decreto supremo del Ministerio de Salud dictado "por orden del Presidente de la República".
 
 Se exceptuarán de las disposiciones de este artículo, los alimentos o las mezclas de éstos, a los que no se les haya añadido azúcares, miel, jarabes, sodio o grasas saturadas.
+
+#### Artículo 110 ter
+
+Cuando a un alimento o producto alimenticio se le haya adicionado sodio, azúcares o grasas saturadas, y su contenido supere el valor establecido para estos nutrientes en la Tabla N° 1 del artículo 120 bis de este reglamento, o bien, cuando se le haya adicionado azúcares, miel, jarabes o grasas saturadas, y su contenido de energía supere el valor de energía establecido en esa misma tabla, no se podrá realizar ningún tipo de publicidad destinada a promover el consumo de ellos en todas las transmisiones de cine y televisión entre las 06:00 y las 22:00 horas.
+
+Se exceptúa de la medida señalada en el inciso anterior, la publicidad en todos los servicios de televisión y cine realizada durante la transmisión de eventos o espectáculos deportivos, culturales, artísticos o de beneficencia social, cuando cumplan los siguientes requisitos copulativos:
+
+a) Que la publicidad se encuentre acotada a la exhibición del nombre del producto o su marca.
+
+b) Que la publicidad no esté destinada o dirigida, directa o indirectamente a menores de 14 años.
+
+c) Que, el evento o espectáculo no sea organizado o financiado, exclusivamente, por la empresa interesada en la publicidad del producto o por sus coligadas o relacionadas.
+
+d) Que la publicidad no muestre situaciones de consumo que induzcan a este ni al producto promocionado, tales como: personas o personajes ingiriendo el producto o situaciones que enuncien o hagan inferir su ingesta.
+
+No se aplicarán las disposiciones de este artículo a los alimentos o mezclas de éstos a los que no se les haya añadido azúcares, miel, jarabes, sodio o grasas saturadas.
 
 #### Artículo 111
 
@@ -1187,6 +1211,8 @@ En la declaración de propiedades nutricionales de los alimentos no se podrán u
 Los descriptores: libre, bajo aporte, reducido y liviano en colesterol sólo podrán aplicarse a alimentos que sean libres de grasa trans (máximo 0,2 g de ácidos grasos trans por porción de consumo habitual) y que contengan por porción de consumo habitual máximo 2 g de grasa saturada.
 
 Los alimentos que usen los descriptores que a continuación se indican, deberán ceñirse a lo establecido en el artículo 113 de este reglamento:
+
+> **Nota.** El artículo 1 del Decreto 1, Salud, publicado el 13.07.2018 dispone reemplazar en el cuadro inserto en el presente artículo las secciones que establecen los descriptores nutricionales para "Vitaminas, Minerales, Fibra Dietética, Proteínas" y para "DHA / EPA / Omega 3 de Cadena Larga", junto con las condiciones requeridas para declarar tales descriptores, de la manera que la citada norma indica.
 
 #### Artículo 120 bis
 
@@ -1562,65 +1588,63 @@ Los elementos que se indican a continuación no podrán sobrepasar, en los alime
 
 Límite máximo
 
-(mg/kg de producto final)
+mg/kg de producto
 
-ARSENICO
+final
 
-Aceites y grasas comestibles 0,1
+AESENICO
 
-Mayonesa 0,3
+Aceites y grasas 0,1
 
-Azúcar blanca, dextrosa
+comestibles
 
-(anhidra, monohidrato
+Nota:
 
-y en polvo), jarabe de glucosa,
+No incluye la
 
-lactosa, fructosa 1,0
+mantequilla
 
-Azúcar en polvo 2,0
+Grasas y mezclas 0,1
 
-Moluscos, crustáceos y gastrópodos 2,0*
+de grasas para untar
 
-Pescados frescos, enfriados, congelados 1,0
+Nota:
 
-y en conserva
+No incluye la
 
-Jugos de frutas y hortalizas 0,2
+mantequilla
 
-Jugos concentrados de frutas 0,2 en el producto
+Sal 0,5
 
-reconstituido
+comestible
 
-Néctares de fruta 0,2
+Nota:
 
-Manteca de cacao, chocolate,
+Ver Párrafo II del
 
-dulce de manteca de cacao 0,5
+## Título XXIII
 
-Chocolate no edulcorado, chocolate
+Aguas minerales y aguas 0,01
 
-compuesto y relleno 1,0
+envasadas para bebida Nota:
 
-Cacao en polvo y mezclas secas
+expresado en mg/l
 
-de cacao y azúcar; cacao sin cáscara
+Arroz pulido 0,2
 
-ni germen, cacao en pasta; torta de
+Notas:
 
-prensado de cacao, polvillo de cacao
+Límite para arsénico
 
-(finos de cacao) 1,0
+Inorgánico
 
-Cereales, legumbres y leguminosas 0,5
+Solo será necesario determinar
 
-Sal comestible 0,5
+Arsénico inorgánico, si la
 
-Agua mineral de mesa 0,05
+medición de Arsénico Total
 
-Otros productos líquidos 0,12
-
-Otros productos sólidos 1,0
+superara este límite.
 
 CADMIO
 
@@ -1656,7 +1680,9 @@ Jugos concentrados de fruta 5,0 (1) en el
 
 producto
 
-reconstituido
+reconsti-
+
+tuido
 
 Néctares de fruta 5,0 (1)
 
@@ -1750,13 +1776,19 @@ Caseína ácida comestible 0,0
 
 Caseinatos comestibles 20,0 en productos
 
-deshidratados por
+por deshidra-
+
+tados
 
 pulverización
 
-50,0 en productos
+50,0 en
 
-deshidratados por
+productos
+
+deshidratados
+
+por
 
 cilindros
 
@@ -1772,7 +1804,9 @@ Jugos concentrados de fruta 15,0 (1) en el
 
 producto
 
-reconstituido
+reconsti
+
+tuido
 
 Néctares de fruta 15,0 (1)
 
@@ -1788,13 +1822,19 @@ Suero dulce en polvo y suero ácido
 
 en polvo, de calidad alimentaria 20,0 en productos
 
-deshidratados por
+deshidratados
 
-pulverización.
+por
+
+pulveriza-
+
+ción.
 
 50,0 en productos
 
-deshidratados por
+deshidrata-
+
+dos por
 
 cilindros
 
@@ -1802,23 +1842,7 @@ secadores
 
 Caseína de cuajo comestible 5,0
 
-MERCURIO
-
-Cereales, legumbres y leguminosas 0,05
-
-Conservas de pescados y mariscos 1,0
-
-Pescado fresco, enfriado y congelado:
-
-talla pequeña 0,5
-
-talla grande como tiburón y albacora 1,5
-
-Mariscos frescos 0,5
-
-Sal comestible 0,1
-
-Agua mineral de mesa 0,001
+.
 
 PLOMO
 
@@ -1854,7 +1878,9 @@ jarabe de glucosa, lactosa 2,0
 
 Fructosa 0,5
 
-Caldos y sopas 1,0 en producto seco
+Caldos y sopas 1,0 en producto
+
+seco
 
 0,5 en producto
 
@@ -1878,9 +1904,13 @@ excepto limón 0,3
 
 Jugo de limón 1,0
 
-Jugos concentrados de fruta 0,3 en el producto
+Jugos concentrados de fruta 0,3 en el
 
-reconstituido
+producto
+
+reconsti-
+
+tuido
 
 Néctares de fruta, excepto damasco,
 
@@ -1936,7 +1966,9 @@ Jugos concentrados de fruta 5,0 (1) en el
 
 producto
 
-reconstituido
+reconsti-
+
+tuido
 
 Néctares de fruta 5,0 (1)
 
@@ -2415,6 +2447,10 @@ si n es igual o menor que 4 unidades de muestra, el valor de los indicadores, re
 > **Nota.** NOTA 3 El numeral 21 del artículo 1 del Decreto 106, Salud, publicado el 23.04.2009 modifica el cuadro inserto en el presente artículo, en el sentido de eliminar el parámetro correspondiente a las enterobacteriaceas contenido en el punto 5.1 Harinas y Almidones.
 
 > **Nota.** NOTA 4 Los numerales 1 y 2 del artículo 1 del Decreto 21, Salud, publicado el 05.10.2013, modifican el cuadro inserto en el presente artículo, en el sentido de reemplazar los puntos 14.2 y 14.3, respectivamente, por aquellos que la citada norma indica.
+
+> **Nota.** NOTA 5 El numeral 2 del Artículo 1 del Decreto 15, Salud, publicado el 02.08.2017, modifica el cuadro inserto en el presente artículo, en el sentido de reemplazar el punto 14.2 e incorporar el 14.2.1 nuevo, de la manera que el citada norma indica. Asimismo, el numeral 3, reemplaza la Nota (*) contemplada al pie del punto 15.2 del referido cuadro, por la siguiente: "(*) Excepto con ingredientes fermentados o madurados con cultivos bacterianos y/o vegetales crudos de las tablas 14.1 y 14.2 del presente artículo."
+
+> **Nota.** NOTA 6 El numeral 2 del artículo 1 del Decreto 31, Salud, publicado el 28.10.2017, modifica el cuadro inserto en el presente artículo en el sentido de sustituir el punto 9.1 de la manera que la citada norma indica.
 
 ### Párrafo IV
 
@@ -5264,195 +5300,113 @@ De las fórmulas para lactantes
 
 #### Artículo 493
 
-Las fórmulas para lactantes son aquellos productos que satisfacen los requerimientos nutricionales de los lactantes, cuando la alimentación con leche materna no es posible o es insuficiente. Se entiende por lactantes a los niños no mayores de 12 meses de edad.
+Las fórmulas para lactantes son aquellos productos que satisfacen los requerimientos nutricionales de los lactantes, cuando la alimentación con leche materna no es posible o es insuficiente.
+
+Se entiende por lactantes a los niños que tengan hasta 12 meses de edad.
+
+La información y rotulación nutricional de estas fórmulas deberán expresarse por cada 100g o 100ml, según corresponda, y por cada 100 kilocalorías (kcal) utilizables del producto, así como por 100 ml del producto listo para el consumo, de acuerdo a las instrucciones indicadas por el fabricante. Además, deberá declararse la cantidad total de cada vitamina, mineral y cuando corresponda los "ingredientes opcionales" referidos en el artículo 495.
 
 #### Artículo 494
 
 Las fórmulas para lactantes se clasifican en:
 
-a) fórmula de iniciación es aquella que una vez reconstituida de acuerdo a las recomendaciones del fabricante está destinada a satisfacer todos los requerimientos nutricionales del lactante durante los primeros cuatro a seis meses de vida, aunque puede ser usada además de otros alimentos para lactantes hasta la edad de un año.
+a) fórmula de inicio: es el producto líquido o en polvo para reconstituir, especialmente fabricados para satisfacer por sí solo las necesidades nutricionales de los lactantes durante al menos los primeros seis meses de vida en reemplazo de la leche materna, cuando no sea posible o sea insuficiente la alimentación con ésta. Debe estar fabricada a base de leche de vaca o de otros animales, o de mezclas de la leche de éstos, o de otros ingredientes autorizados por este reglamento.
 
-Aquella fórmula de iniciación que se le introduzca alguna modificación en el contenido y composición de los nutrientes que la hagan más semejante a la leche materna se denominará fórmula de iniciación adaptada;
-
-La relación lactoalbúmina/caseína deberá tener una proporción mínima de 60:40% respectivamente.
-
-b) fórmula de continuación es aquella que forma parte de un esquema de alimentación mixto destinada al consumo de los lactantes de más de seis meses de edad.
+b) fórmula de continuación: es aquella que forma parte de un esquema de alimentación mixta destinada al consumo de los lactantes de más de seis meses hasta los 12 meses de edad.
 
 c) fórmulas para lactantes con necesidades nutricionales especiales, tales como, intolerancia a la lactosa, intolerancia al gluten, fenilcetonuria u otros problemas metabólicos. Éstas deberán indicar en el rótulo en forma clara y destacada la necesidad especial para la que debe emplearse, las propiedades específicas en que se basa y recomendaciones concretas y advertencias en relación a su consumo, si fuese necesario.
 
 #### Artículo 495
 
-La fórmula de iniciación reconstituida deberá presentar la siguiente composición básica:
+El producto debe haber sido elaborado exclusivamente por medios físicos y envasado de manera que se evite su alteración y contaminación en cualquier condición normal de manipulación, almacenamiento, distribución y venta.
 
-a) energía: mínimo 60 kcal/100 ml
+Asimismo, deberá estar fabricada a base de leche de vaca o de otros animales o de mezclas de leches de distintos animales o de otros ingredientes sobre los cuales se haya demostrado que son idóneos para la alimentación de los lactantes. Deberá estar científicamente demostrada la inocuidad, así como la idoneidad nutricional, para favorecer el crecimiento y el desarrollo de los lactantes. Estas fórmulas deberán ser libres de gluten.
 
-máximo 70 kcal/100 ml
+La fórmula de inicio reconstituida deberá presentar la siguiente composición:
 
-b) proteínas: mínimo 1,8 g/100 kcal
+a)
 
-máximo 3,0 g/100 kcal
+Energía mínimo máximo
 
-El índice químico de las proteínas presentes será equivalente, por lo menos, al 85% de las proteínas de referencia (leche humana). No obstante, para efectos de cálculo, podrán sumarse las concentraciones de metionina y cistina.
+60 kcal/100 ml 70 kcal/100 ml
 
-Contenido de aminoácidos de la leche humana
+b)
 
-c) lípidos: mínimo: 4,4 g/100 kcal
+Proteínas mínimo máximo
 
-máximo: 6,0 g/100 kcal
+1,8 g/100 kcal 3,0 g/100 kcal
 
--ácido linoleico: (en forma de linoleatos)
+Cuando las fórmulas a base de proteínas de la leche no hidrolizadas, contengan menos de 2 g de proteínas/100 kcal y, cuando las fórmulas para lactantes a base de proteínas hidrolizadas contengan menos de 2,25 g de proteínas/100 kcal, deberán mantener los antecedentes de las evaluaciones clínicas realizadas, disponibles para cuando la autoridad sanitaria los requiera.
 
-mínimo: 300 mg/100 kcal
+El valor mínimo de proteínas de 1,8 g/100kcal se aplica a las proteínas de la leche de vaca o de otros animales o mezcla de la leche de éstos. En las fórmulas a base de aislados de proteínas de soya, en cambio, se aplica un valor mínimo de 2,25 g/100 kcal.
 
-máximo: 1400 mg/100 kcal
+El cálculo del contenido de proteínas de la fórmula final preparada y lista para el consumo deberá basarse en N x 6,25, salvo que se proporcione una justificación científica para el uso de un factor de conversión diferente aplicable a un determinado producto.
 
-- ácido α linolénico:
+La fórmula debe contener una cantidad disponible de cada aminoácido esencial y semiesencial igual, al menos, a la que contiene la proteína de referencia, según se define en la Tabla Nº 1 del presente artículo. No obstante, a efectos de cálculo, las concentraciones de tirosina y fenilalanina pueden sumarse. Las concentraciones de metionina y cisteína pueden sumarse si la proporción es inferior a 2:1; si la proporción se sitúa entre 2:1 y 3:1, la idoneidad de la fórmula debe demostrarse por medio de ensayos clínicos.
 
-mínimo: 50 mg/100 kcal
+Podrán añadirse al preparado para lactantes aminoácidos aislados únicamente a fin de mejorar su valor nutritivo para los lactantes. Para mejorar la calidad de las proteínas, podrán añadirse aminoácidos esenciales y semiesenciales, pero sólo en las cantidades necesarias a tal efecto. Sólo podrán utilizarse las formas L de los aminoácidos.
 
-máximo: NE (No Especificado)
+Tabla Nº 1: Contenido de aminoácidos de la proteína de referencia de la leche humana*
 
-Proporción de ácido linoleico/ α linolénico
+.
 
-mínimo 5:1
+* Adaptado del Codex Stan 72, revisado en 2016.
 
-máximo 15:1
+c)
+
+.
 
 Se prohíbe la utilización de aceite de sésamo y aceite de algodón.
 
 Los ácidos láurico y mirístico en conjunto no deberán superar el 20% del contenido total de ácidos grasos.
 
-El contenido de ácidos grasos trans no deberá ser superior al 3% del contenido total de ácidos grasos.
+Los ácidos grasos trans solamente serán de origen lácteo. El contenido de ácidos grasos trans no deberá ser superior al 3% del contenido total de ácidos grasos.
 
 El contenido de ácido erúcico no deberá superar el 1% del contenido total de ácidos grasos.
 
-El contenido total de fosfolípidos no deberá superar los 300 mg/100 kcal.
+El contenido total de fosfolípidos no deberá superar los 300mg/100kcal.
 
-En los preparados para lactantes no se utilizarán aceites y grasas hidrogenadas comercialmente.
+No se podrán utilizar aceites o grasas hidrogenadas comercialmente.
 
-d) carbohidratos: mínimo: 9g/100 kcal
+d)
 
-máximo: 14g/100 kcal
+mínimo máximo
 
-e) sales minerales por cada 100 kcal utilizables:
+Carbohidratos disponibles 9 g/100 kcal 14 g/100 kcal
 
-Mín. Máx.
+La lactosa y los polímeros de glucosa deberán ser los carbohidratos preferentes para las fórmulas a base de proteínas de la leche de vaca y de proteínas hidrolizadas. Solo podrán añadirse almidones exentos de gluten precocidos o gelatinizados hasta un máximo de 30% del contenido total de carbohidratos y hasta un máximo de 2 g/100 ml de la fórmula reconstituida.
 
-Sodio (mg) 20 60
+Deberá evitarse el uso de sacarosa y fructosa: La sacarosa sólo se puede añadir a fórmulas para lactantes con base en proteínas hidrolizadas. Si se añade, el contenido de sacarosa no deberá exceder el 20% del contenido total de hidratos de carbono. Este agregado deberá señalarse en forma destacada en la cara principal del envase.
 
-Potasio (mg) 60 180
+e)
 
-Cloro (mg) 50 160
+.
 
-Calcio (mg) 50 140
+f)
 
-Fósforo (mg) 25 100
+.
 
-Magnesio (mg) 5 15
+g) Otras sustancias:
 
-Zinc (mg) 0,5 1,5
+Deberán añadirse las sustancias que se indican a continuación, en cuyo caso su contenido por 100 kcal en la fórmula lista para el consumo deberá estar entre los límites siguientes:
 
-Cobre (mcg) 35 120
+.
 
-Yodo (mcg) 10 60
+h) Ingredientes opcionales
 
-Manganeso (mcg) 1 100
+Se podrán adicionar los siguientes ingredientes opcionales de acuerdo a los límites de la siguiente tabla:
 
-Selenio (mcg) 1 9
+.
 
-relación calcio/fósforo 1:1 2:1
+Podrán añadirse otras sustancias que normalmente están presentes en la leche humana, para mejorar la calidad nutricional de las fórmulas. La idoneidad e inocuidad de estas sustancias deberán estar demostradas científicamente. La fórmula deberá contener las cantidades sobre la base de su presencia en la leche humana.
 
-En el caso de las fórmulas en que se haya agregado hierro, los límites aplicables serán los siguientes
-
-Mín. Máx.
-
-Hierro (mg) 0,45 3
-
-f) vitaminas por cada 100 kcal utilizables
-
-Mín. Máx.
-
-Vitamina A (mcg retinol) 60 180
-
-Vitamina D
-
-(mcg colecalciferol) 1 2,5
-
-Tiamina (mcg) 60 300
-
-Riboflavina (mcg) 80 500
-
-Nicotinamida
-
-(mcg niacina) 300 1500
-
-Ácido pantoténico (mcg) 400 2000
-
-Vitamina B6 (mcg) 35 175 los preparados
-
-deberán contener
-
-un mínimo de 15
-
-mcg de vitamina
-
-B6/g de proteína
-
-Biotina (mcg) 1,5 10
-
-Ácido fólico (mcg) 10 50
-
-Vitamina B12 (mcg) 0,1 1,5
-
-Vitamina C (mg) 10 70
-
-Vitamina K (mcg) 4 27
-
-Vitamina E (mg-tocoferol) 0,5 5 mg/g de ácidos
-
-grasos
-
-poliinsaturados
-
-expresados como
-
-ácido linoleico.
-
-En ningún caso
-
-será inferior a
-
-0,5 mg/100 kcal
-
-disponibles.
-
-g) Otras sustancias: por cada 100 kcal.
-
-Mín. Máx.
-
-Colina (mg) 7 50
-
-mioinositol (mg) 4 40
-
-L- carnitina (mg) 1,2 NE
-
-h) Ingredientes facultativos:
-
-Mín. Máx.
-
-h.1) Taurina (mg) por cada 100 kcal - 12
-
-h.2) Ac. Docosahexaenoico (% total de lípidos) - 0,5
-
-Cuando se use ácido Docosahexaenoico (DHA) (22:6-3) en los preparados para lactantes, el contenido de ácido araquidónico (20:4n-6) deberá alcanzar, por lo menos, la misma concentración que el DHA.
-
-Mín. Máx.
-
-h.3) Nucleótidos: mg/100 Kcal - 16
+Podrán emplearse únicamente cultivos que produzcan ácido láctico L (+).
 
 i) Aditivos
 
 Sólo se podrán usar los siguientes aditivos en las cantidades señaladas:
+
+.
 
 #### Artículo 496
 
@@ -5664,13 +5618,31 @@ j) Deberá informarse que el producto debe ser usado únicamente bajo indicació
 
 k) Deberá rotularse, además, la fecha de elaboración y la fecha de vencimiento e instrucciones sobre su correcta preparación y uso, así como su almacenamiento y conservación antes y después de abrir el envase.
 
+#### Artículo 497 bis
+
+Se prohíbe toda acción de publicidad de fórmulas de inicio y fórmulas de continuación hasta los 12 meses de edad, de las que trata el presente párrafo, tales como:
+
+- El ofrecimiento o entrega a título gratuito de productos o muestras de éstos.
+
+- La distribución de regalos o elementos publicitarios con el producto o asociado a la venta del mismo.
+
+- La realización de exhibiciones promocionales o degustaciones.
+
+- La realización de publicidad en medios de comunicación u otros soportes.
+
+- La utilización en el envase de imágenes o palabras que correspondan a publicidad.
+
+- La publicación de avisos, carteles o señaléticas que destaquen ofertas como promociones o reducciones en el precio, cupones de descuento, descuento en el precio según la cantidad de productos adquiridos u otras estrategias publicitarias similares.
+
+El profesional que requiera indicar estas fórmulas deberá garantizar que el usuario cuente con la información necesaria para seleccionar adecuadamente la fórmula respectiva, señalando en la prescripción solamente la expresión "Fórmula de inicio" o "Fórmula de continuación", sin indicar marcas comerciales específicas, y la edad del niño o niña que la recibirá.
+
 ### Párrafo III
 
 De las preparaciones comerciales de alimentos infantiles
 
 #### Artículo 498
 
-Preparaciones comerciales de alimentos infantiles son aquellas utilizadas preferentemente durante el período normal de destete y durante la adaptación de los lactantes y niños hasta los 36 meses de edad a la alimentación normal. Se preparan ya sea para ser administrados directamente, o bien, deshidratados para ser reconstituidos mediante dilución en agua. Estos alimentos pueden presentarse como sopas, guisos, postres y jugos.
+Preparaciones comerciales de alimentos infantiles son aquellas utilizadas durante el período de destete y adaptación de los niños a la alimentación sólida. Se preparan para ser administrados directamente, o bien, deshidratados para ser reconstituidos.
 
 #### Artículo 499
 
@@ -5686,89 +5658,69 @@ Los alimentos infantiles deshidratados, una vez reconstituidos serán parecidos 
 
 #### Artículo 501
 
-Estos alimentos infantiles deben prepararse principalmente a base de frutas, verduras, carnes, pescado y huevos y puede agregarse cereales, productos lácteos y materias grasas.
+Estos alimentos infantiles deben contener sustancias inocuas y adecuadas para la alimentación de los lactantes y niños pequeños hasta los 36 meses de edad.
+
+El producto y sus componentes no deberán haber sido tratados con radiaciones ionizantes.
 
 #### Artículo 502
 
-Estos alimentos deberán presentar la siguiente composición básica:
+Estos alimentos deberán presentar la siguiente composición:
 
-a) energía : mínimo 70 kcal/100 g con
+a) Proteínas
 
-excepción de los postres y
+El contenido de proteínas de los colados o picados deberá ser el correspondiente a la declaración de ingredientes en su rotulación, según las siguientes condiciones:
 
-jugos.
+a.1) Al menos 7g/100 kcal, cuando la carne, el pollo, el pescado u otra fuente de proteínas de origen animal, individualmente o en combinación, sean los únicos ingredientes mencionados en la denominación del producto. En estos productos, la carne, el pollo, el pescado u otra fuente de proteínas de origen animal deberán constituir en total, como mínimo tanto el 40% del peso total del producto, como el 25% del peso total de las fuentes de proteínas mencionadas.
 
-mínimo 60 kcal/100 g para
+a.2) Al menos 4g/100 kcal, cuando la carne, el pollo, el pescado u otra fuente de proteínas de origen animal, individualmente o en combinación, sean nombrados en primer lugar en la denominación del producto. En estos productos, la carne, el pollo, el pescado o la otra fuente de proteínas deberán constituir en total, como mínimo tanto el 10% del peso total del producto, como el 25% del peso total de las fuentes de proteínas mencionadas.
 
-colados y picados de
+a.3) Al menos 3g/100 kcal, cuando la carne, el pollo, el pescado u otra fuente de proteínas de origen animal, individualmente o en combinación, aparecen declarados, aunque no en primer lugar, en la denominación del producto. En estos productos, la carne, el pollo, el pescado o la otra fuente de proteínas de origen animal deberán constituir en total, como mínimo tanto el 8% del peso total del producto, como el 25% del peso total de las fuentes de proteínas mencionadas.
 
-verduras.
+a.4) Al menos 3g/100 kcal, cuando no menciona la carne, el pollo, el pescado u otra fuente de proteínas de origen animal en la denominación del producto.
 
-b) proteínas : mínimo 4,2 g/100 kcal ( en mezclas a
+En los casos en que los productos contengan menos proteínas que 3g/100 kcal, se considerarán bajos en proteínas, y deberá rotular de manera destacada, en la cara frontal del producto, una frase como se indica en la letra c) del artículo 505 de este reglamento.
 
-base de carnes y pescado )
+b) Materia grasa:
 
-: mínimo 2,8 g/100 kcal ( en mezclas a
+No deben utilizarse grasas y aceites parcialmente hidrogenados.
 
-base de verduras, hortalizas y
+c) Sodio: máximo 200 mg/100 g.
 
-cereales;
+No se permitirá la adición de sal (NaCl) a los productos de postre a base de frutas.
 
-c) materia grasa: Se prohíbe la utilización de aceite de sésamo y aceite de algodón. Los ácidos láurico y mirístico en conjunto no deberán superar el 20% del contenido total de ácidos grasos. El contenido de ácidos grasos trans no deberá ser superior al 3% del contenido total de ácidos grasos. El contenido de ácido erúcico no deberá superar el 1% del contenido total de ácidos grasos. El contenido total de fosfolípidos no deberá superar los 300mg/100kcal.
+d) Vitaminas y minerales: podrán agregarse vitaminas y minerales hasta los límites máximos establecidos en el artículo 495 del presente reglamento.
 
-d) sodio : máximo 10 meq/100 kcal
+e) Fibra dietética total: deberá ser la propia de los alimentos naturales utilizados como ingredientes del producto, y no deberá adicionarse fibra dietética con ingredientes artificiales.
 
-(230 mg/100 kcal).
-
-No se permitirá la adición de
-
-sal (NaCI) a los productos de
-
-postre a base de frutas.
-
-La cantidad de sodio
-
-provenientes de diferentes
-
-sales minerales quedarán
-
-dentro del límite establecido
-
-para sodio;
-
-e) vitaminas y sales
-
-minerales : podrá agregarse en conformidad con las listas
-
-de referencia del artículo 496 e) y f);
-
-f) fibra dietaria
-
-total : máximo 2,0 g/100 g de producto
-
-listo para el consumo.
+f) Carbohidratos disponibles: No deberán añadirse mono o disacáridos.
 
 #### Artículo 503
 
-Sólo se permitirá el uso de los siguientes aditivos, en la cantidad que se indica por 100 g del producto listo para el consumo:
+Sólo se permitirá el uso de los siguientes aditivos, en la cantidad que se indica por 100 g o 100 ml del producto listo para el consumo:
+
+..
 
 #### Artículo 504
 
-El contenido máximo de nitratos en este tipo de alimentos deberá ser inferior a 250 mg/kg expresado como nitratos.
+El producto deberá prepararse con especial cuidado, mediante buenas prácticas de fabricación, a fin de eliminar totalmente los residuos de los plaguicidas que pueden necesitarse para la producción, el almacenamiento o la elaboración de las materias primas o del ingrediente alimentario acabado o, si ello es técnicamente inevitable, reducirlos en la mayor medida posible.
+
+El producto no deberá contener residuos de hormonas ni de antibióticos determinados mediante métodos convenidos de análisis, y estará prácticamente exento de otros contaminantes y otras sustancias dañinas para la salud, especialmente, de sustancias farmacológicamente activas.
 
 #### Artículo 505
 
-Además de lo dispuesto para etiquetado general y para régimenes especiales las preparaciones comerciales de alimentos infantiles deberán indicar en su etiqueta lo siguiente:
+Además de lo dispuesto para etiquetado general y para regímenes especiales, las preparaciones comerciales de alimentos infantiles deberán indicar en su etiqueta lo siguiente:
 
-a) Para niños mayores de seis meses'';
+a) Su denominación de colado o picado, según las definiciones de este reglamento.
 
-b) fecha de elaboración y fecha de vencimiento;
+b) Se debe indicar la edad a partir de la cual podrá consumirse el producto, teniendo en cuenta su composición, textura y otras propiedades particulares. La edad indicada será, como mínimo, de seis meses para cualquier producto.
 
-c) instrucciones sobre su preparación y uso, así como su almacenamiento y conservación antes y después de abrir el envase.
+c) En los casos en que los productos contengan menos proteínas que 3g/100 kcal deberá indicar claramente y destacado en la cara frontal del envase la siguiente frase: "NO REEMPLAZA UNA COMIDA COMPLETA PARA UN NIÑO".
 
-En este tipo de productos, no deberán incorporarse en los rótulos ni publicidad de los mismos, declaraciones de propiedades saludables.
+d) En este tipo de productos, no deberán incorporarse en los rótulos ni publicidad de los mismos, declaraciones de propiedades saludables.
 
-Los alimentos infantiles no deberán formularse con hierbas o sus extractos u otros componentes que induzcan el sueño en los menores o con el propósito de reducir el meteorismo o dolores abdominales o hinchazón, ni otros fines terapéuticos
+#### Artículo 505 bis
+
+La información y rotulación nutricional de los alimentos comprendidos en este párrafo deberán expresarse por cada 100 g o 100 ml, según corresponda, y por cada porción del producto listo para el consumo. Además, opcionalmente, podrá expresarse por cada 100 kilocalorías (kcal) utilizables del producto
 
 ### Párrafo IV
 
@@ -5944,7 +5896,7 @@ Las harinas libres de gluten destinadas a la panificación, así como el pan lib
 
 #### Artículo 518
 
-El término "Libre de gluten" y el logo o símbolo de la espiga tachada, solo podrán utilizarse cuando el resultado del análisis de laboratorio del producto alimenticio no sobrepase 3 mg/kg de gluten de los cereales establecidos en el artículo 516, del producto listo para su entrega al consumidor final, de acuerdo a las técnicas analíticas que, para estos efectos, determine el Instituto de Salud Pública de Chile. La expresión "Libre de gluten" se rotulará en las proximidades del nombre del producto, con caracteres de buen realce, tamaño y visibilidad.
+El término "Libre de gluten" y el logo o símbolo de la espiga tachada, sólo podrán utilizarse cuando el resultado del análisis de laboratorio del producto alimenticio no sobrepase los 5 miligramos de gluten, de los cereales establecidos en el artículo 516, por kilogramo del producto listo para su entrega al consumidor final, de acuerdo a las técnicas analíticas que, para estos efectos, determine el Instituto de Salud Pública de Chile. La expresión "Libre de gluten" se rotulará en las proximidades del nombre del producto, con caracteres de buen realce, tamaño y visibilidad.
 
 ### Párrafo VII
 
