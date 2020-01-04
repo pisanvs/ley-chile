@@ -64,7 +64,7 @@ f) Conforme a la interpretación armónica de los Vistos y Considerandos precede
 
 Resolución:
 
-1). Llámese a contar de la fecha de publicación de la presente resolución en el Diario Oficial y hasta el día viernes 22 de noviembre de 2019 hasta las 13:30 horas, para Postulación Regional al Llamado del Programa de Integración Social y Territorial regulado por el DS N° 19 (V. y U.), de 2016, y autorízase la aplicación en los terrenos de propiedad de Serviu, Región del Libertador General Bernardo O'Higgins, que formarán parte del Proyecto Icónico de la Ciudad de Rancagua, que contempla un sistema constructivo en madera de alto estándar, para el primer Conjunto Habitacional de mediana altura en esta materialidad. En dicho periodo Serviu Región de O'Higgins procederá directamente a la recepción de los oferentes que estén interesados en ejecutar el proyecto.
+1). Llámese a contar de la fecha de publicación de la presente resolución en el Diario Oficial y hasta el día viernes 21 de febrero de 2020 hasta las 13:30 horas para Postulación Regional al Llamado del Programa de Integración Social y Territorial regulado por el DS Nº 19 (V. y U.), de 2016, y autorízase la aplicación en los terrenos de propiedad de Serviu, Región del Libertador General Bernardo O'Higgins, que formarán parte del Proyecto Icónico de la Ciudad de Rancagua, que contempla un sistema constructivo en madera de alto estándar, para el primer Conjunto Habitacional de mediana altura en esta materialidad. En dicho período Serviu, Región de O'Higgins procederá directamente a la recepción de los oferentes que estén interesados en ejecutar el proyecto.
 
 ### 2. Con Respecto al Material:
 
