@@ -1,0 +1,7 @@
+EXTRACTO DE RES. EX. N° 1.914, DE 2019
+
+Por resolución exenta N° 1.914, de 10 de diciembre de 2019, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Maule modificó la resolución exenta N° 104, del 31 de enero de 2013, que autoriza el funcionamiento del Terminal de Servicio de Locomoción Colectiva No Urbana, ubicado en calle General Barbosa s/n, Esquina Januario Espinoza, de Linares, modificando el nombre del propietario del terminal, de su arrendatario y el nombre del responsable y administrador del terminal. Dejándose establecido que el servicio funcionará bajo las siguientes condiciones:
+
+1.- Autorízase el funcionamiento del terminal de servicios de locomoción colectiva no urbana, prestado con buses rurales e interurbanos y taxis colectivos rurales, ubicado en General Barbosa s/n, esquina Januario Espinoza, de la ciudad de Linares, de propiedad de Renta Nacional Seguros de Vida S.A., y dado en arriendo a la sociedad Inmobiliaria Arquitectura y Construcciones S.A., quien explotará el terminal. Representada legalmente por el Sr. Ángel Serey Zúñiga, RUT N° 8.680.480-8, con domicilio en calle Januario Espinoza N° 848, ciudad de Linares, quien a su vez oficiará de administrador del recinto. En lo no modificado por el presente acto, continúa íntegramente vigente la citada resolución exenta N° 104, de 2013.-
+
+Carlos Palacios Maldonado, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
