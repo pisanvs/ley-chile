@@ -34,6 +34,8 @@ Resuelvo:
 
 1) Fíjense los siguientes porcentajes de participación en la "numeración asignada" para efectos del pago de la cuota que corresponda para financiar la inversión inicial en la que incurrió el Organismo Administrador de la Portabilidad (OAP), que cada concesionaria del servicio público telefónico y del mismo tipo debe aportar, de acuerdo al cuadro siguiente:
 
+.
+
 (*) Se han truncado los decimales de los valores de esta columna, y aproximado al entero inmediatamente superior.
 
 Anótese, comuníquese y publíquese en el Diario Oficial.- Pamela Gidi Masías, Subsecretaria de Telecomunicaciones.
