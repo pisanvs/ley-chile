@@ -62,6 +62,8 @@ Si con posterioridad al proceso de apelaciones quedasen cupos disponibles, estos
 
 10. Los montos asignados mediante la presente resolución, ascendentes a 11.431.446.- Unidades de Fomento, se imputarán a los recursos autorizados, para el año 2018, del Programa de Integración Social y Territorial y del Sistema integrado de Subsidio Habitacional.
 
+> **Nota.** El N° 2 de la Resolución 3141 Exenta, Vivienda, publicada el 08.01.2019, modifica el resuelvo 1 de la presente norma, en el sentido de sustituir su tabla, fijándose un nuevo número de cupos de subsidios en la Región de Los Lagos, "Otras Comunas", para los proyectos seleccionados, considerando un monto total de 11.208.698 UF, sin actualizar dicho monto en en el resuelvo N° 10 de la presente norma.
+
 Anótese, publíquese esta resolución en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
