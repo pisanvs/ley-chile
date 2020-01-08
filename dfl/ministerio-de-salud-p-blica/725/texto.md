@@ -812,7 +812,7 @@ Cuando lo requiera la debida protección de la salud pública, por decreto funda
 
 Sin perjuicio de lo dispuesto en el artículo 97, el Instituto de Salud Pública de Chile podrá autorizar provisionalmente la distribución, venta o expendio y uso de productos farmacéuticos sin previo registro, para ensayos clínicos u otro tipo de investigaciones científicas, como asimismo para usos medicinales urgentes derivados de situaciones de desabastecimiento o inaccesibilidad que puedan afectar a las personas consideradas individual o colectivamente. Con todo, no se podrá desarrollar un protocolo de investigación en medicamentos no registrados o para nuevos usos en medicamentos registrados sin un informe favorable del Comité Ético Científico que corresponda.
 
-Tratándose de situaciones como las descritas en el inciso anterior, relacionadas con medicamentos cuya disponibilidad sea esencial para el desarrollo de programas o planes de salud de interés público que se lleven a cabo en el Sistema Nacional de Servicios de Salud, la Central de Abastecimiento del Sistema Nacional de Servicios de Salud podrá solicitar ante el Instituto el registro sanitario provisional pertinente, el que no obstará a la libre comercialización del producto por parte de terceros.
+La Central de Abastecimiento del Sistema Nacional de Servicios de Salud podrá solicitar ante el Instituto el registro sanitario de productos farmacéuticos contemplados en planes, programas o acciones de salud que se lleven a cabo en dicho Sistema, así como de aquellos que sean necesarios para el cumplimiento de sus funciones y facultades. Dicho registro autorizará la distribución de los productos y no obstará a su libre comercialización por parte de terceros.
 
 #### Artículo 100
 
