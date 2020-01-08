@@ -42,13 +42,9 @@ c. Reemplázase en la tabla inserta en su Anexo Único, en la fila N° 1, corres
 
 2. Apruébase la nómina de proyectos seleccionados con su respectivo financiamiento total, para el otorgamiento de subsidios del Programa Habitacional Fondo Solidario de Elección de Vivienda en la alternativa de postulación colectiva, para proyectos de Construcción en Nuevos Terrenos, en la Región de Antofagasta, correspondiente al proceso de selección cuyo cierre de postulación se efectuó el día 10 de diciembre de 2019, del llamado efectuado por resolución exenta N° 2.220 (V. y U.), de 2019:
 
-.
-
 El detalle de los recursos comprometidos por concepto de subsidio base y subsidios complementarios para el proyecto seleccionado en el presente Resuelvo y que por este acto se asignan, se informa en la nómina que se adjunta como anexo y forma parte integrante de la presente resolución.
 
 3. El monto del subsidio asignado de conformidad con el cuadro del Resuelvo 2. de esta resolución comprende los siguientes montos por concepto de Servicios de Asistencia Técnica, de Labores de Fiscalización Técnica de Obra y pago de Aranceles al Conservador de Bienes Raíces:
-
-.
 
 Dichos montos fueron calculados conforme a la resolución exenta N° 1.875 (V. y U.), de 2015, mencionada en el visto d) de la presente resolución:
 
@@ -60,8 +56,12 @@ Mediante resolución del Director del Serviu respectivo, se determinarán los mo
 
 .
 
+> **Nota.** El literal c) del N° 1 de la Resolución 3134 Exenta, Vivienda, publicada el 08.01.2019, modifica el resuelvo 4 de la presente norma, en el sentido de reemplazar las filas correspondientes a "Región de Antofagasta" y "Total", sustituyéndose de "149 Unidades" por "179 Unidades".
+
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
 
 ..
+
+> **Nota.** NOTA 1 El literal d) del N° 1 de la Resolución 3134 Exenta, Vivienda, publicada el 08.01.2020, reemplaza en el presente Anexo Único, el número de 149 correspondiente a familias y viviendas por 179 en ambos casos.
