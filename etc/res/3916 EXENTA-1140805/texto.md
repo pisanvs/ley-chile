@@ -1,0 +1,7 @@
+DEJA SIN EFECTO LA SUSPENSIÓN TRANSITORIA DE LA INSCRIPCIÓN EN EL REGISTRO ARTESANAL, EN LA CATEGORÍA PESCADOR PROPIAMENTE TAL, A NIVEL NACIONAL, EN LAS PESQUERÍAS QUE SE INDICAN
+
+Por resolución exenta N° 3.916, de 26 de diciembre de 2019, de esta Subsecretaría, modifícanse las resoluciones exentas Nos 3.421, 3.556 y 3.558, de 2014, 2.337, 4.405 y 4.419, de 2017 y 1.714, de 2019, todas de esta Subsecretaría, en el sentido de dejar sin efecto la suspensión transitoria del acceso para la categoría pescador propiamente tal, en el Registro Pesquero Artesanal, de los recursos Pez espada Xiphias gladius, Reineta Brama australis, Sardina austral Sprattus fuegensis, Jibia Dosidicus gigas, Bacalao de profundidad Dissostichus eleginoides, solo en su unidad de pesquería ubicada al norte del paralelo 47° L.S., Centolla Lithodes santolla y Jaiba marmola Cancer edwardsi=Metacarcinus edwardsi, de conformidad con lo señalado en los considerados previos y lo dispuesto en los artículos 1° B.-,1° C.- y 50, de la Ley General de Pesca y Acuicultura.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 26 de diciembre de 2019.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura.
