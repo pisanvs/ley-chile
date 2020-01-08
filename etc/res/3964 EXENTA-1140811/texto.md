@@ -1,0 +1,7 @@
+SUSPENDE TRANSITORIAMENTE LA INSCRIPCIÓN EN EL REGISTRO ARTESANAL EN LA PESQUERÍA DEL RECURSO PEZ ESPADA POR PERIODO QUE SEÑALA
+
+Por resolución exenta N° 3.964, de 26 de diciembre de 2019, de esta Subsecretaría, suspéndase desde el 1 de enero de 2020 y hasta el 31 de diciembre de 2024, ambas fechas inclusive, la inscripción en los Registros Pesqueros Artesanales de las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso, Libertador General Bernardo O'Higgins, Maule, Ñuble, Biobío, la Araucanía, Los Ríos, Los Lagos, Aysén del General Carlos Ibáñez del Campo y Magallanes y la Antártica Chilena, en todas sus categorías, con excepción de la categoría de pescador artesanal propiamente tal (patrón o tripulante), sección de pesquería del recurso Pez espada, por haber alcanzado el estado de plena explotación en dichas áreas de pesca.
+
+Asimismo, suspéndase en las mismas áreas y por el mismo periodo antes señalado, la recepción de solicitudes y el otorgamiento de autorizaciones industriales, en relación a dicha pesquería. Las naves industriales autorizadas para operar en estas pesquerías quedarán afectas a lo establecido en el régimen de pesquerías declaradas en estado de plena explotación.
+
+Valparaíso, 26 de diciembre de 2019.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura.
