@@ -108,13 +108,11 @@ Corresponderá al Director Nacional de Aduanas establecer, mediante resolución,
 
 #### Artículo 12
 
-Las personas que se encuentren operando como entidades certificadoras ante el Servicio Nacional de Aduanas a la fecha de publicación del presente Reglamento deberán dar cumplimiento a lo establecido en éste, dentro del plazo de 72 meses contados desde la fecha de su publicación, el cual podrá ser prorrogado por un plazo adicional de hasta 6 meses.
+Las personas que se encuentren operando como entidades certificadoras ante el Servicio Nacional de Aduanas a la fecha de publicación del presente Reglamento deberán dar cumplimiento a lo establecido en éste, dentro del plazo de 36 meses contados desde la fecha de su publicación, el cual podrá ser prorrogado por un plazo adicional de hasta 6 meses.
 
-> **Nota.** La Resolución 3336 Exenta, Hacienda, publicada el 19.07.2019, modifica la presente norma en el sentido de prorrogar el plazo al que se refiere el presente artículo para cumplir con los requisitos que éste establece, por 2 meses a contar del 9 de julio de 2019, para las empresas indicadas en el Anexo de la citada norma.
+> **Nota.** La Resolución 3336 Exenta, Hacienda, publicada el 19.07.2019, modificas la presente norma en el sentido de prorrogar el plazo al que se refiere el presente artículo para cumplir con los requisitos que éste establece, por 2 meses a contar del 9 de julio de 2019, para las empresas indicadas en el Anexo de la citada norma.
 
-> **Nota.** NOTA 1 La Resolución 3337 Exenta, Hacienda, publicada el 19.07.2019, modifica la presente norma en el sentido de prorrogar el plazo al que se refiere el presente artículo para cumplir con los requisitos que éste establece, por 2 meses a contar del 9 de julio de 2019, para las empresas indicadas en el Anexo de la citada norma.
-
-> **Nota.** NOTA 2 La Resolución 2245 Exenta, Hacienda, publicada el 25.06.2024, modifica la presente norma en el sentido de prorrogar el plazo al que se refiere el presente artículo para cumplir con los requisitos que éste establece, por 6 meses a contar del 9 de julio de 2024, para las entidades certificadoras, habilitadas o registradas ante el Servicio Nacional de Aduanas.
+> **Nota.** NOTA 1 La Resolución 3337 Exenta, Hacienda, publicada el 19.07.2019, modificas la presente norma en el sentido de prorrogar el plazo al que se refiere el presente artículo para cumplir con los requisitos que éste establece, por 2 meses a contar del 9 de julio de 2019, para las empresas indicadas en el Anexo de la citada norma.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 
