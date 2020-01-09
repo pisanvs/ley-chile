@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 8.187, de 11 de diciembre de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprobaron los planes y programa de enseñanza conducentes a la obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Jorge Guillermo Schreiner Zollner Escuela de Conductores E.I.R.L.", de propiedad de la sociedad "Jorge Guillermo Schreiner Zollner Escuela de Conductores E.I.R.L.", cuyo representante legal es el señor Jorge Guillermo Schreiner Zollner, y su director, el señor Jonathan Esteban Medina Medina. La escuela estará ubicada en Camino Chicureo N° 847, comuna de Colina. Las horas pedagógicas autorizadas a la referida Escuela son diez horas teóricas y doce horas prácticas, con un total de veintidós horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
