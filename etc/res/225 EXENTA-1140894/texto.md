@@ -1,0 +1,11 @@
+NOTIFICA RESOLUCIÓN DE RECHAZO DE SOLICITUD DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO: "AMPLIACIÓN BODEGAS DE ALMACENAMIENTO"
+
+De conformidad con lo dispuesto en el artículo 94 del DS Nº 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que, mediante resolución exenta Nº 225, de fecha 18 de diciembre de 2019, la Directora Regional del Servicio de Evaluación Ambiental de la Región del Biobío, ha resuelto rechazar la solicitud de realización de un Proceso de Participación Ciudadana solicitada en el marco de la evaluación ambiental de la Declaración de Impacto Ambiental del proyecto "Ampliación Bodegas de Almacenamiento" cuyo titular es Proquiel Químicos Ltda.
+
+El proyecto tiene como objetivo ampliar sus operaciones en la sucursal de Coronel, ubicada en Avenida Océano Pacífico Nº 3636, Parque Industrial Coronel, Región del Biobío, donde actualmente opera con bodegas de productos peligrosos y no peligrosos. Se proyecta la ampliación y/o modificación de las bodegas existentes y la construcción de nuevos galpones para el almacenamiento de sustancias peligrosas y no peligrosas.
+
+La autoridad, ponderando los antecedentes disponibles, ha llegado a la convicción que no se reúnen los requisitos de carácter copulativo, exigidos por la norma que le permitan acceder a la petición de realizar un proceso de participación ciudadana en el marco de la evaluación ambiental de la DIA del proyecto. Lo anterior, pues el proyecto no corresponde a uno que genere cargas ambientales para las comunidades próximas.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA Biobío, ubicada en calle Lincoyán 145, Concepción, en horario de atención entre las 08:30 a 13:30 horas, en días hábiles de lunes a viernes, así como también podrá acceder a ella a través del sitio web www.sea.gob.cl.-
+
+Silvana Suanes Araneda, Directora Regional Servicio de Evaluación Ambiental Región del Biobío.
