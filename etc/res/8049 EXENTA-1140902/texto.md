@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 8.049, de fecha 6 de diciembre de 2019, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Condúcete", RUT Nº 14.163.514-K, cuya propietaria es la señora Tamara Daniela Cabello Vergara y su director es el señor Fabián Andrés Pinto Sepúlveda, RUT Nº 14.152.627-8, ubicada en Avenida Las Condes Nº 12255, local 40, Centro Comercial "Cantagallo", comuna de Las Condes. Horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y doce horas prácticas, con un total de veinte horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
