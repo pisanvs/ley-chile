@@ -1,0 +1,5 @@
+RESOLUCIÓN N° 5.882, DE 23.12.2019, DEL DIRECTOR NACIONAL DE ADUANAS, DEL SERVICIO NACIONAL DE ADUANAS
+
+Por la resolución exenta N° 5.882, de 23.12.2019, del Director Nacional de Aduanas, del Servicio Nacional de Aduanas, se dejó sin efecto la delegación de facultad de prorrogar la admisión temporal de vehículos amparados por pasavantes, otorgada al Jefe del Departamento Técnico, de la Dirección Regional de la Aduana de Iquique, contenida en el numeral 12, de la resolución exenta N° 3.829, de 18.08.2010, modificada por el numeral II, de la resolución exenta N° 4.882, de 05.09.2011, ambas del Director Nacional de Aduanas; y, se delegó tal facultad en el Director Regional de la Aduana de Iquique, incorporando un nuevo numeral 7.1, en la resolución exenta N° 3.829, de 18.08.2010, del Director Nacional de Aduanas.
+
+Valparaíso, 3 de enero de 2020.- Gustavo Poblete Morales, Director Nacional de Aduanas (S).
