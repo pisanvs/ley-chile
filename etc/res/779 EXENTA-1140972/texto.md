@@ -1,0 +1,3 @@
+RESOLUCIÓN Nº 779 EXENTA, DE FECHA 27.12.2019, QUE "APRUEBA PLAN ANUAL DE FISCALIZACIÓN 2020"
+
+Con fecha 27 de diciembre de 2019, la Superintendencia de Educación dictó la resolución exenta Nº 779, que "Aprueba Plan Anual de Fiscalización 2020", la cual contiene instrucciones de planificación de las actividades de fiscalización para el año 2020 a los sostenedores de establecimientos educacionales reconocidos oficialmente y del nivel de educación parvularia que no cuentan con reconocimiento oficial o autorización de funcionamiento. La resolución referida comenzará a regir desde su publicación en extracto en el Diario Oficial y estará disponible íntegramente en la página web institucional www.supereduc.cl.
