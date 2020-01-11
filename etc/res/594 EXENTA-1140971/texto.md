@@ -1,0 +1,3 @@
+EXTRACTO
+
+Con fecha 8 de octubre de 2019, la Superintendencia de Educación dictó la resolución exenta Nº 594, que modifica la resolución exenta Nº 860, de 2018, que "Aprueba la circular que imparte instrucciones sobre reglamentos internos de los establecimientos educacionales parvularios", ambas de la Superintendencia de Educación, en el punto ii) de su Anexo 5, sobre "Regulaciones sobre salidas pedagógicas", en los términos que indica. Esta resolución estará disponible íntegramente para la comunidad educativa en la página web institucional (www.supereduc.cl).
