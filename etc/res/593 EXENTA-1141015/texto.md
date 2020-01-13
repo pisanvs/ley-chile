@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta N° 593, de 18 de diciembre de 2019, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, se modifica resolución exenta N° 546, de 8 de noviembre de 2019, de esta Secretaría Regional Ministerial, en el sentido de modificar la razón social de la Escuela de Conductores, debiendo señalar "Conducción y Capacitación Soñez Compañía Limitada" y el nombre del representante legal del organismo, indicando al Sr. Ricardo Rodrigo Soñez Díaz, RUT N° 10.468.495-5. Considérese la presente resolución como parte integrante de la resolución exenta N° 546, de 8 de noviembre de 2019, de esta Secretaría Regional Ministerial, quedando firme dicha resolución en todo aquello que no haya sido modificado por la presente.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
