@@ -16,7 +16,7 @@ Considerando:
 
 Resuelvo:
 
-1. Prohíbase la circulación de los vehículos de transporte público urbano del tipo Taxi, que funcionan en las modalidades de Básico, Turismo y Colectivo Urbano, por las calles incluidas en la red vial básica de la ciudad de Arica, durante el período comprendido entre el 1 de julio de 2019 y 3 de julio de 2020, de acuerdo al último dígito de su placa patente única, según el siguiente calendario:
+Prohíbase la circulación de los vehículos de transporte público urbano del tipo taxi, que funcionan en las modalidades de colectivo urbano, por las calles incluidas en la red vial básica de la ciudad de Arica, durante el período comprendido entre el 1 de julio de 2019 y 3 de julio de 2020, de acuerdo al último dígito de su placa patente única, según el siguiente calendario:
 
 .
 
@@ -24,14 +24,8 @@ Resuelvo:
 
 3. Los representantes legales de cada servicio, por medio del certificado de viaje especial, regulado por la resolución exenta Nº 237, de 1992, podrán autorizar, en casos justificados, la circulación de vehículos en día de restricción sólo con destino a talleres mecánicos o plantas de revisión técnica, con la ruta debidamente identificada y sólo por un día en cada autorización, y portando un letrero que indique "Fuera de Servicio", ubicado en la parte inferior del parabrisas y al lado opuesto del conductor con vista hacia afuera del vehículo.
 
-4. Se exceptúan de la prohibición de circular, establecida en la presente resolución exenta, los vehículos que presten servicio en la modalidad de Taxis Básico y Taxis de Turismo, inscritos independientemente y que como agrupación, tengan autorización para utilizar y operar desde paraderos autorizados por la Ilustre Municipalidad de Arica y/o de la Concesionaria del Aeropuerto Chacalluta.
+4. La implementación práctica de la prohibición de circular vehículos, será sometida a evaluaciones técnicas periódicas que permitan su mejor y más eficaz control a fin de efectuar, si fuere pertinente, las correcciones que eventualmente resulten necesarias.
 
-5. Los interesados, propietarios de los vehículos Taxis Básico y Taxis Turismo, que deseen acogerse a esta excepción, deberán solicitar con anticipación dicha excepción y acreditar ante esta Secretaría Regional Ministerial que cumplen con la condición señalada en el Resuelvo 4 de la presente resolución, presentando documentos originales, en los que se consigne la placa patente única de los vehículos, el cual deberá estar vigente e indicar que tiene calzos de estacionamiento autorizados por la Ilustre Municipalidad de Arica y por la Sociedad Concesionaria del Aeropuerto Chacalluta, según corresponda.
-
-6. La excepción se hará efectiva mediante resolución exenta que emita esta Secretaría Regional Ministerial, la cual indicará en detalle los vehículos que se exceptúan y el periodo de vigencia de la misma, el cual tendrá una duración igual al periodo de la autorización que otorgue la Ilustre Municipalidad y/o la Concesionaria Aeropuerto Chacalluta, considerándose como fecha tope, la indicada en el Resuelvo Nº 1 de la presente resolución.
-
-7. La implementación práctica de la prohibición de circular vehículos, será sometida a evaluaciones técnicas periódicas que permitan su mejor y más eficaz control a fin de efectuar, si fuere pertinente, las correcciones que eventualmente resulten necesarias.
-
-8. Carabineros de Chile, inspectores fiscales y municipales, fiscalizarán el cumplimiento de la presente resolución.
+5. Carabineros de Chile, inspectores fiscales y municipales, fiscalizarán el cumplimiento de la presente resolución.
 
 Anótese, comuníquese y publíquese.- Mauricio Valencia Molina, Secretario Regional Ministerial de Transportes y Telecomunicaciones (S) Región de Arica y Parinacota.
