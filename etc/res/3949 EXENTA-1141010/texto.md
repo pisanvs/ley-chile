@@ -1,0 +1,7 @@
+AUTORIZA A DERIS S.A. PARA OPERAR NAVES QUE INDICA EN ÁREAS SEÑALADAS, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 12 TRANSITORIO DE LA LEY GENERAL DE PESCA Y ACUICULTURA, AÑO 2020
+
+Por resolución exenta N° 3.949, de 26 de diciembre de 2019, de esta Subsecretaría, autorízase a Deris S.A. para realizar operaciones pesqueras a contar del 1 de enero de 2020 y hasta el 31 de diciembre del mismo año, ambas fechas inclusive, con los barcos fábrica "Puerto Ballena", "Cabo de Hornos", "Puerto Toro" en el área marítima comprendida entre los paralelos 44°30' L.S. y 57° L.S.; con el barco fábrica "Diego Ramírez", en el área marítima comprendida entre los paralelos 44°30' L.S. y 47° L.S. y con los barcos fábricas "Puerto Williams" y "Antarctic Endeavour", en el área marítima comprendida entre los paralelos 47° L.S. y 57° L.S., sobre los recursos y con las obligaciones establecidas en sus respectivas autorizaciones.
+
+> **Nota.** La Resolución 2306 Exenta, Economía, publicada el 14.11.2020, deja sin efecto parcialmente la presente norma sólo en cuanto autorizó a Deris S.A., hoy Pesca Chile S.A., para continuar desarrollando actividades pesqueras extractivas con la nave "Puerto Williams".
+
+Valparaíso, 26 de diciembre de 2019.- Román Zelaya Ríos, Subsecretario de Pesca y Acuicultura.
