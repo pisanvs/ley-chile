@@ -36,7 +36,7 @@ Resolución:
 
 (*) Monto PHS se incorpora sólo en postulación colectiva.
 
-4. Al presente Llamado Especial podrán postular los proyectos de la Región de Magallanes y la Antártica Chilena, que cuenten con la correspondiente calificación otorgada por el Serviu XII Región, los que podrán ser postulados y seleccionados a partir de la fecha de esta resolución, hasta el 30 de noviembre de 2019. Se aceptará la postulación individual y colectiva.
+4. Al presente Llamado Especial podrán postular los proyectos de la Región de Magallanes y la Antártica Chilena, que cuenten con la correspondiente calificación otorgada por el Serviu XII Región, los que podrán ser postulados y seleccionados a partir de la fecha de esta resolución, hasta el día 11 del mes de diciembre del año 2019. Se aceptará la postulación individual y colectiva.
 
 5. Como Viviendas Objeto del Programa para este llamado se considerarán aquellas que cumplan con las siguientes condiciones:
 
