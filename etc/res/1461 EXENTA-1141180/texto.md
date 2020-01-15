@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1461 de fecha 24.12.2019, que modifica la resolución exenta Nº 1362 de 10 de diciembre de 2019, ambas de Serviu Región de Tarapacá, en el sentido de señalar que: el inmueble expropiado en su totalidad, corresponde al: Pasaje El Salitre Nº 994, departamento 14 del Bloque B, C.H Cerro Tarapacá I, Rol Avalúo 5152-4, de presunto dominio de Sucesión Tolaba Cisterna y otros, monto provisional de indemnización en $39.290.570.- pagadera contado.- El inmueble expropiado se encuentra en la comuna de Alto Hospicio, Conjunto Habitacional Cerro Tarapacá I y el monto de indemnización provisional fue fijado por la Comisión Tasadora integrada por los peritos señores Juan Tepper Lavanderos, ingeniero civil industrial, Gastón González Kemnis, constructor civil y Carmen Ríos Marcuello, ingeniero civil, según informe de tasación de fecha 23 de noviembre de 2019.-
+
+Director Serviu Región de Tarapacá.
