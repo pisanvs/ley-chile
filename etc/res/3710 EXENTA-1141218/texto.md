@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.710, 31 de diciembre 2019, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en El Maitén HJ2 LT B, Rol de Avalúo N° 1228-136, comuna de Cabrero, de aparente dominio de Luis Arturo Arroyo Arroyo, superficie de 69,65 m2 de terreno (Lote 61) y 0 m2 de edificación, linderos señalados plano de expropiación S8R-35.929-2, para la ejecución de las obras del proyecto "Construcción Ciclovía Ruta Q-60-0, Cabrero-Monteáguila", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por constructor civil Roxana Abarzúa Gajardo, ingeniero civil Carlos Montecinos Galleguillos y arquitecto Alberto Vallette Isla, según informe de fecha 09.12.2019, fijó monto provisional indemnización en $824.062.
+
+Director Serviu Región del Biobío.
