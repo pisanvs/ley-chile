@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.632, 26 de diciembre 2019, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en A. Bello 113 115, Rol de avalúo N° 37-1, comuna de Concepción, de aparente dominio de Inmobiliaria Nueva Espana SpA, superficie de 1.655,20 m2 de terreno y 1.486,43 m2 de edificación (1.474,20 m2 edificación a, 5,00 m2 edificación b y 7,23 m2 edificación c), dentro de polígono y linderos señalados plano de expropiación S8R-38.149-2, para la ejecución de las obras del proyecto "Mejoramiento Paso sobre Nivel Esmeralda y Vialidad Asociada, Concepción" comuna de Concepción", conforme artículo 51 ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por constructor civil María Soledad Silva Hernández, arquitecto Alexander Boye Trenit e ingeniero civil Orlando Paredes Vásquez, según informe de fecha 05.12.2019, fijó monto provisional indemnización en $1.087.002.385.
+
+Director (S) Serviu Región del Biobío.
