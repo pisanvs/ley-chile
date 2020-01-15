@@ -1,0 +1,7 @@
+OTORGAMIENTO DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 328, de 8 de agosto de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a la Ilustre Municipalidad de Curaco de Vélez, RUT 69.231.000-4, concesión marítima menor, con vencimiento el 30 de junio de 2029, sobre un sector de playa de uso natural de aves playeras migratorias, en el lugar denominado Bahía Curaco de Vélez, comuna de Curaco de Vélez, Provincia de Chiloé, Región de Los Lagos, con una superficie total de 153.215,054 m², la que fue tramitada con el SIABC Nº 36515. A modo referencial se señala la(s) siguiente(s) coordenada(s) geográfica(s): Vértice 1: Latitud (S) 42º26'17.98"; Longitud (W) 73º36'14,34". El objeto consiste en proporcionar una zona para el uso natural de las aves playeras migratorias y desarrollo de actividades de turismo de intereses especiales basado en la observación de naturaleza. Las obras a ejecutar consisten en la construcción de pasarelas, refugio y obras afín para la observación de aves migratorias. Estas obras proyectadas se deberán iniciar dentro de los 60 días siguientes a la fecha de suscripción del acta de entrega de la concesión marítima, quedando terminadas dentro de los 8 meses posteriores a su fecha de inicio.
+
+Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Achao. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.-
+
+Christian Campos Antiguay, Sargento 1º L (SEG M), Capitán de Puerto de Achao.
