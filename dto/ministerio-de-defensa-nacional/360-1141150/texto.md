@@ -1,0 +1,5 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo Nº 360 de fecha 17 de septiembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Orizon S.A., RUT 96.929.960-7, segunda renovación con modificación de concesión marítima mayor, con vencimiento el 31 de diciembre del año 2031, sobre un sector de playa y fondo de mar, en el lugar denominado Caleta Lo Rojas, comuna de Coronel, Provincia de Concepción, Región del Biobío, con una superficie total de 238 m2, trámite SIABC Nº 36.579. A modo referencia se señala la(s) siguiente(s) coordenada(s) geográfica(s): 37º01'35,36" S 73º09'44,53" W. El objeto de esta concesión marítima, en el sector otorgado, es continuar amparando la construcción existente de un embarcadero, con base de pilares metálicos y cubierta de madera, para el atraque de embarcaciones menores de la compañía. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Coronel. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Coronel, 19 de diciembre de 2019.- Francisco Briones García, Teniente 1º LT, Capitán de Puerto de Coronel.
