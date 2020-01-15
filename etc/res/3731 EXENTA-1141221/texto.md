@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.731, 31 de diciembre 2019, Serviu Región del Biobío ordenó expropiación parcial de un inmueble ubicado en calle Av. Collao 1602, Rol de Avalúo N° 309-740, comuna de Concepción, de aparente dominio de Fisco de Chile, en una superficie de 1.170,85 m2 de terreno y 48,00 m2 de edificación (expropiación total), dentro de polígono y linderos señalados plano de expropiación S8R-38.413-2, para la ejecución de las obras del proyecto "Mejoramiento Par Vial Collao/General Novoa, comuna de Concepción", conforme artículo 51 Ley N° 16.391 y D.L. N° 2.186. Comisión Peritos integrada por arquitecto Gabriel Melo Guiñez, arquitecto Carolina Zuloaga Sanhueza y arquitecto Paola Martínez Perucca, según informe de fecha 08 de noviembre 2019, fijó monto provisional indemnización en $289.175.189, más reajuste del artículo 5° del DL 2186 de 1978, que dan la cifra de $289.464.364, pagadera de contado.-
+
+Director (S) Serviu Región del Biobío.
