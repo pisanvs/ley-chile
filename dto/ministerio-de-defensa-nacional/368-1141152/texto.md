@@ -1,0 +1,5 @@
+MODIFICACIÓN NO SUSTANCIAL DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo N° 368, de fecha 17 de septiembre del 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Sras. Juana Medel Ayala, RUN N° 4.111.148-8; Margarita Nikiforos Medel, RUT 8.681.802-7; Efroziny Nikiforos Medel, RUN 9.728.196-3; Stamatios Nikiforos Medel, RUT 11.719.741-7, modificación no sustancial de la concesión marítima menor, otorgada mediante decreto supremo N° 368 de fecha 17 de septiembre de 2019, con vencimiento al 31 de diciembre de 2021. La modificación requerida consiste en modificación no sustancial rebaja de renta. El o los sectores requeridos corresponden a terreno de playa, y se encuentran ubicados en el lugar denominado Caleta Buena, comuna de Tocopilla, provincia de Tocopilla, II Región de Antofagasta. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Tocopilla. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+En Tocopilla, a 16 días del mes de diciembre.- Roberto Ascencio Matamala, Teniente Primero LT, Capitán de Puerto de Tocopilla.
