@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.712, 31 de diciembre 2019, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de edificación de un inmueble ubicado en Irarrázabal 497, Rol de Avalúo N° 351-14, comuna de Concepción, de aparente dominio de Valenzuela Iribarren Suc., superficie parcial afecta a expropiación de terreno es de 152,85 m2 (Lote 166) y expropiación total de edificación (a) 44,57 m2 + (b) 58,70 m2 + (c) 77,00 m2 + (d) 145,00 m2 + (e) 41,00 m2 = 366,27 m2, linderos señalados plano de expropiación S8R-38.451-1, para la ejecución de las obras del proyecto "Mejoramiento PAR Vial Collao-General Novoa", comuna de Concepción, conforme artículo 51 Ley N° 16.391 y D.L. N° 2.186. Comisión Peritos integrada por constructor civil María Soledad Silva Hernández, arquitecto Eduardo Riquelme Illanes y arquitecto Alexander Boye Trenit, según informe de fecha 05.12.2019, fijó monto provisional indemnización en $184.357.812.-
+
+Director Serviu Región del Biobío.
