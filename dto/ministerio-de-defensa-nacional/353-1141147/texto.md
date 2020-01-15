@@ -1,0 +1,7 @@
+MODIFICACIÓN
+
+Decreto supremo N° 353, del 9 de septiembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, Modificación para el Sindicato de Pescadores Artesanales, Buzos Mariscadores Trabajadores Independientes N°2 Bellavista de Antofagasta y el Sindicato de Trabajadores Independientes Pescadores, Buzos y Ramos Afines de la provincia de Antofagasta, RUT: 65.412.480-9 y 70.867.500-8, sobre un sector de terreno de playa, fondo mar y uso de mejora fiscal en el lugar denominado Caleta Antofagasta, Aníbal Pinto s/n, comuna de Antofagasta, provincia de Antofagasta, Región de Antofagasta, con una superficie total de 6.959,25 m2, la que fue tramitada con el SIABC N°30.807. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto consiste en amparar la construcción del proyecto "Es hacer uso de una infraestructura fiscal de apoyo de la pesca artesanal, compuesta por un atracadero, explanada de trabajo, edificio administrativo, casino de pescadores, boxes de guardado, vía de circulación, amparar actividades propias de la pesca artesanal, y la construcción de puestos de ventas y baños". Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Antofagasta. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Julián Aguirre Perocarpi, Capitán de Fragata LT, Capitán de Puerto de Antofagasta.
