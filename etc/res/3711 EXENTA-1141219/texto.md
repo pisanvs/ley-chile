@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 3.711, 31 de diciembre 2019, Serviu Región del Biobío ordenó expropiación total de la edificación de un inmueble ubicado en HJ María José, Rol de Avalúo N° 1228-58, comuna de Cabrero, de aparente dominio de Rojas Bobadilla Walter Manuel, superficie de 73,81 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-38.293-1, para la ejecución de las obras del proyecto "Construcción Ciclovía Ruta 0-60, Cabrero-Monteáguila", conforme artículo 51 Ley N° 16.391 y DL N° 2.186. Comisión Peritos integrada por arquitecto Alexander Boye Trenit, arquitecto Gabriel Melo Guiñez y arquitecto Claudia Rivera Salgado, según informe de fecha 14.08.2019, fijó monto provisional indemnización en $18.713.959, más una suma de $205.854, por concepto de reajuste del artículo 5° del DL 2.186 de 1978, que dan la cifra de $18.919.813.
+
+Director (S) Serviu Región del Biobío.
