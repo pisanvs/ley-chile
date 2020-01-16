@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 567, de fecha 4 de diciembre de 2019, de esta Secretaría Regional, se aprobaron los planes y programas conducentes a la obtención de Licencias de Conductor No Profesionales o Clase B, a la Escuela de Conductores denominada Molina & Díaz Servicios de Capacitación Limitada, de propiedad de la sociedad del mismo nombre, RUT Nº 76.291.821-8, con nombre de fantasía M & D Capacitación Ltda., cuyos representantes legales son doña Albertina Susana Díaz Pulido y don José Heriberto Molina Saavedra, quienes representarán indistintamente a la sociedad. La Escuela de Conductores tendrá como Director a don Juan Daniel Reyes Norambuena, y su sede estará ubicada en calle Villagrán Nº 901, de la ciudad de Los Ángeles, Región del Biobío. Las horas pedagógicas autorizadas a la referida Escuela son 12 teóricas y 13 prácticas, con un total de 25 horas pedagógicas.-
+
+Jaime Aravena Selman, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Biobío.
