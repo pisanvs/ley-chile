@@ -224,6 +224,8 @@ h) Respecto de los titulares de plantas de proceso y/o de transformación y las 
 
 > **Nota.** La letra a. del literal c) del artículo primero de la Resolución 2205 Exenta, Economía, publicada el 14.06.2018, dispone modificar la última fila del cuadro inserto en el presente artículo por aquella que la citada norma indica.
 
+> **Nota.** NOTA 1 El artículo primero de la Resolución 4293 Exento, Economía, publicada el 13.10.2018, modifica la presente norma en el sentido de agregar en el recuadro que establece plazo de incorporación, entre la fila de "Algas Pardas" y la fila de "Otros Recursos", lo siguiente, Centro de Distribución a Minoristas, comercializadoras de recursos y productos a expendio final y consumo minorista, Hasta el 1° de diciembre de 2018.
+
 #### Artículo tercero
 
 transitorio. Los plazos y mecanismos establecidos en la disposición transitoria precedente, serán válidos mientras no concurra alguna circunstancia fortuita o de fuerza mayor u otro evento no imputable, que impida la normal operación del Sistema.
