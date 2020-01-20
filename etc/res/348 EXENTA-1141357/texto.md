@@ -1,0 +1,31 @@
+RENUEVA LA ACREDITACIÓN DEL CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES DEL TRANSPORTE S.p.A. O CERTIFICADORA DEL TRANSPORTE S.p.A.
+
+Núm. 348 exenta.- Santiago, 27 de diciembre de 2019.
+
+Vistos:
+
+La Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo; el Reglamento de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, establecido por decreto supremo Nº 137 de 2008, del Ministerio del Trabajo y Previsión Social; el Reglamento que regula la Acreditación de Centros de Evaluación y Certificación de Competencias Laborales y la Habilitación de Evaluadores, aprobado por decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social; la resolución exenta Nº 1.068 de 2011, de la Subsecretaría del Trabajo, sobre aranceles del Sistema Nacional de Certificación de Competencias Laborales; la resolución exenta Nº 588, 2016, que acreditó al Centro de Evaluación y Certificación de Competencias Laborales del Transporte SpA, en adelante, indistintamente, Certificadora del Transporte SpA, como Centro de Evaluación y Certificación de Competencias Laborales, siendo ampliado su alcance por resolución exenta Nº 175 de 2018, y actualizado por resolución exenta Nº 250 de 2019, todas de esta Comisión; la resolución exenta Nº 312, 2019, que cierra el proceso de evaluación de la solicitud de renovación de acreditación presentada por la sociedad Centro de Evaluación y Certificación de Competencias Laborales del Transporte SpA; el acuerdo Nº 810 del órgano colegiado de esta Comisión, adoptado en la centésima décima cuarta sesión ordinaria de 16 de diciembre de 2019; el acta de compromiso de 20 de diciembre de 2019, suscrita por la sociedad Centro de Evaluación y Certificación de Competencias Laborales del Transporte S.p.A.; la resolución Nº 7 de 2019, de la Contraloría General de la República, que establece normas sobre Exención del trámite de Toma de Razón; y las facultades que me confiere el artículo 9º de la Ley Nº 20.267.
+
+Considerando:
+
+1. Que, a la Comisión del Sistema Nacional de Certificación de Competencias Laborales, en adelante la Comisión, servicio público creado por Ley Nº 20.267, le corresponde la facultad de acreditar la condición de Centro de Evaluación y Certificación de Competencias Laborales habilitado para emitir certificados de competencias laborales, la que se otorgará por un plazo de tres años, sin perjuicio de revocarla anticipadamente, en los casos previstos en la ley.
+
+2. Que, conforme a ello, mediante resolución exenta Nº 588, 2016, la Comisión acreditó a la sociedad Centro de Evaluación y Certificación de Competencias Laborales del Transporte S.p.A., como Centro de Evaluación y Certificación de Competencias Laborales, por el periodo comprendido entre el 28 de diciembre de 2016 al 28 de diciembre de 2019. Posteriormente, mediante resolución exenta Nº 175, 2018, la Comisión amplió el alcance del referido centro y mediante resolución exenta Nº 250, 2019, actualizó su alcance.
+
+3. Que, habiendo presentado una solicitud renovación de su acreditación para un nuevo periodo, se ha determinado que la sociedad Centro de Evaluación y Certificación de Competencias Laborales del Transporte S.p.A. cumple con los requisitos normativos para continuar efectuando procesos de evaluación y certificación en los sectores, subsectores y perfiles solicitados, conforme se da cuenta en la resolución exenta Nº 312, 2019, que cierra el proceso de evaluación de dicha solicitud.
+
+4. Que, mediante Acuerdo Nº 810 de 2019, adoptado en la centésima décima cuarta sesión ordinaria, de 16 de diciembre de 2019, el órgano colegiado de la Comisión resolvió renovar la acreditación a la solicitante, como Centro de Evaluación y Certificación de Competencias Laborales, por un nuevo período, desde el 29 de diciembre de 2019 hasta el 29 de diciembre de 2022, ambas fechas inclusive.
+
+5. Que, el mencionado Centro suscribió el 20 de diciembre de 2019, un Acta de Compromiso, en que se compromete a cumplir las obligaciones, compromisos, prohibiciones, restricciones e inhabilidades que la Ley Nº 20.267 y sus reglamentos establecen para asegurar la idoneidad, competencia e imparcialidad de los Centros de Evaluación y Certificación de Competencias Laborales.
+
+Resuelvo:
+
+1. Renuévese la acreditación de la sociedad Centro de Evaluación y Certificación de Competencias Laborales del Transporte S.p.A., RUT Nº 76.524.527-3, como Centro de Evaluación y Certificación de Competencias Laborales, con domicilio en la ciudad de Santiago, por el período comprendido entre el 29 de diciembre de 2019 hasta el 29 de diciembre de 2022, ambas fechas inclusive, para prestar sus servicios de evaluación y certificación de competencias laborales en los siguientes sectores, subsectores y perfiles ocupacionales: sector de Transporte y Logística, subsector de Transporte Terrestre, en los perfiles ocupacionales de Conductor de Carga General (P-4923-8332-001-V02), Conductor de Sustancias Peligrosas (P-4923-8332-002-V02), Conductor o Conductora de Taxi Colectivo (P-4921-8322-001-V01) y Conductor del Transantiago (P-4921-8331-001-V01); y en el subsector de Logística, en el perfil ocupacional de Operador de Grúa (P-5220-8343-002-V03).
+
+2. Páguese por parte del Centro el arancel correspondiente al primer año de mantención, dentro del plazo de 15 días hábiles contados desde la notificación de la presente resolución.
+
+3. Publíquese la presente resolución de renovación de acreditación en el Diario Oficial, sin perjuicio de las futuras modificaciones de códigos de los perfiles ocupacionales antes individualizados, las que no requerirán de una nueva publicación y se notificarán a través del Registro Nacional de Unidades de Competencias Laborales y del Registro Nacional de Centros de Evaluación y Certificación de Competencias Laborales.
+
+4. Ingrésese la nueva vigencia de la acreditación del Centro en el Registro de Centros de Evaluación y Certificación de Competencias Laborales, una vez que se acredite por parte de éste el pago del arancel y se publique esta resolución, en el Diario Oficial.
+
+Anótese, notifíquese y publíquese en el Diario Oficial.- Francisco Silva Bafalluy, Secretario Ejecutivo, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
