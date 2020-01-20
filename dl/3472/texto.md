@@ -10,7 +10,7 @@ Decreto ley:
 
 #### Artículo 1°
 
-Créase una persona jurídica de derecho público, de duración indefinida, con domicilio en la ciudad de Santiago, denominada "Fondo de Garantía para Pequeños Empresarios", en adelante "el Fondo", destinada a garantizar los créditos, las operaciones de leasing y otros mecanismos de financiamiento autorizados al efecto por la Superintendencia de Bancos e Instituciones Financieras, en adelante financiamiento o financiamientos, que las instituciones financieras públicas y privadas y el Servicio de Cooperación Técnica otorguen a los pequeños empresarios en la forma y condiciones señaladas en el presente decreto ley y en la reglamentación que dicte la Superintendencia de Bancos e Instituciones Financieras.
+Créase una persona jurídica de derecho público, de duración indefinida, con domicilio en la ciudad de Santiago, denominada "Fondo de Garantía para Pequeños y medianos Empresarios", en adelante "el Fondo", destinada a garantizar los créditos, las operaciones de leasing y otros mecanismos de financiamiento autorizados al efecto por la Superintendencia de Bancos e Instituciones Financieras, en adelante financiamiento o financiamientos, que las instituciones financieras públicas y privadas y el Servicio de Cooperación Técnica otorguen a los pequeños empresarios en la forma y condiciones señaladas en el presente decreto ley y en la reglamentación que dicte la Superintendencia de Bancos e Instituciones Financieras.
 
 El Fondo no podrá contratar personal.
 
@@ -36,13 +36,15 @@ g) Un aporte fiscal de 130.000.000 de dólares moneda de los Estados Unidos de A
 
 h) Un aporte fiscal de 50.000.000 de dólares, moneda de los Estados Unidos de América, o su equivalente en otras monedas extranjeras o en moneda nacional.
 
+i) Un aporte fiscal de 100.000.000 de dólares, moneda de los Estados Unidos de América, o su equivalente en otras monedas extranjeras o en moneda nacional.
+
 El Fondo estará facultado para invertir sus recursos en depósitos a plazo o en instrumentos financieros de fácil liquidez en la forma que lo determine el Banco Central de Chile.
 
 Un decreto supremo del Ministerio de Hacienda establecerá la proporción o parte del aporte fiscal señalado en la letra f) precedente que deberá mantenerse en moneda extranjera y la forma, instrumentos y proporción de éste que deberá invertirse en el exterior.
 
 #### Artículo 3°
 
-Podrán optar a la garantía del Fondo los pequeños empresarios cuyas ventas netas anuales no excedan de 25.000 unidades de fomento, y los exportadores cuyo monto exportado haya sido en los dos años calendarios anteriores, en promedio, de un valor FOB igual o inferior a US$16.700.000, reajustado anualmente en el porcentaje de variación que en el año precedente haya experimentado el índice de precios promedio relevante para el comercio exterior de Chile, según lo certifique el Banco Central de Chile, que tengan necesidades de capital de trabajo o proyectos de inversión.
+Podrán optar a la garantía del Fondo los pequeños y medianos empresarios cuyas ventas netas anuales no excedan de 100.000 unidades de fomento, y los exportadores cuyo monto exportado haya sido en los dos años calendarios anteriores, en promedio, de un valor FOB igual o inferior a US$16.700.000, reajustado anualmente en el porcentaje de variación que en el año precedente haya experimentado el índice de precios promedio relevante para el comercio exterior de Chile, según lo certifique el Banco Central de Chile, que tengan necesidades de capital de trabajo o proyectos de inversión.
 
 También podrán postular a la garantía del Fondo las personas jurídicas sin fines de lucro, las sociedades de personas y las organizaciones a que se refiere el artículo 2º de la ley Nº 18.450, para financiar proyectos de riego, de drenaje, de infraestructura productiva o equipamiento siempre que a lo menos las dos terceras partes de las personas naturales que las integren cumplan con los requisitos señalados en el inciso anterior.
 
@@ -50,9 +52,9 @@ La Superintendencia de Bancos e Instituciones Financieras reglamentará la forma
 
 #### Artículo 4°
 
-Los financiamientos que garantice el Fondo serán en moneda corriente, con excepción de aquellos destinados a pequeños empresarios que tengan por objeto el financiamiento de operaciones de exportación o importación, los cuales también podrán otorgarse en moneda extranjera. En todo caso, los financiamientos garantizados por el Fondo no podrán exceder en total, de 3.000 unidades de fomento, o su equivalente en moneda extranjera, para cada empresa. La Superintendencia de Bancos e Instituciones Financieras podrá, mediante una norma de carácter general, elevar el monto máximo de los financiamientos a los que se refiere este inciso, sujeto a las condiciones que establezca, los que en ningún caso podrán exceder de 5.000 unidades de fomento, o su equivalente en moneda extranjera.
+Los financiamientos que garantice el Fondo serán en moneda corriente, con excepción de aquellos destinados a pequeños y medianos empresarios que tengan por objeto el financiamiento de operaciones de exportación o importación, los cuales también podrán otorgarse en moneda extranjera. En todo caso, los financiamientos garantizados por el Fondo no podrán exceder en total, de 15.000 unidades de fomento, o su equivalente en moneda extranjera, para cada empresa.
 
-Con todo, el Fondo no podrá garantizar más del 80% del saldo deudor de cada financiamiento de hasta 3.000 unidades de fomento, ni más del 50% de dicho saldo respecto de cada financiamiento cuyo monto exceda de 3.000 unidades de fomento, o su equivalente en moneda extranjera, y no sobrepase las 5.000 unidades de fomento, o su equivalente en moneda extranjera.
+Con todo, el Fondo no podrá garantizar más del 80% del saldo deudor de cada financiamiento de hasta 5.000 unidades de fomento, o su equivalente en moneda extranjera, a las empresas cuyas ventas anuales no superen las 25.000 unidades de fomento, ni garantizar más del 50% del saldo deudor de cada financiamiento de hasta 15.000 unidades de fomento, o su equivalente en moneda extranjera, a las empresas cuyas ventas anuales superen las 25.000 unidades de fomento.
 
 Respecto de los exportadores a que se refiere la última parte del inciso primero del artículo anterior, el monto máximo del financiamiento a garantizar a cada exportador no podrá exceder la cantidad de dinero en moneda nacional o en moneda extranjera, equivalente a 5.000 Unidades de Fomento. Con todo, el Fondo no podrá garantizar más del 80% del saldo deudor de cada financiamiento.
 
@@ -72,7 +74,9 @@ El Fondo y con acuerdo de la Superintendencia de Bancos e Instituciones Financie
 
 El Fondo podrá caucionar obligaciones hasta por un monto que, en su conjunto, no exceda la relación que con respecto a su patrimonio determine la Superintendencia de Bancos e Instituciones Financieras.
 
-Corresponderá al Administrador del Fondo especificar, en las bases de cada licitación, las condiciones generales en que las instituciones participantes y los pequeños empresarios y exportadores podrán acceder a la garantía y hacer uso de los derechos de garantía licitados. En todo caso, en las bases se establecerá que los adjudicatarios no podrán destinar más del 50% del monto adjudicado a un solo sector económico, a las personas jurídicas y organizaciones a que se refiere el inciso segundo del artículo 3º, ni a los financiamientos cuyo monto fluctúe entre 3.000 y 5.000 unidades de fomento, o su equivalente en moneda extranjera.
+Corresponderá al Administrador del Fondo especificar, en las bases de cada licitación, las condiciones generales en que las instituciones participantes y los pequeños y medianos empresarios y exportadores podrán acceder a la garantía y hacer uso de los derechos de garantía licitados. En todo caso, en las bases se establecerá que los adjudicatarios no podrán destinar más del 50% del monto adjudicado a un solo sector económico, a las personas jurídicas y organizaciones a que se refiere el inciso segundo del artículo 3º.
+
+En las bases de licitación el administrador establecerá el porcentaje del total de garantías a licitar a empresas cuyas ventas anuales superen las 25.000 unidades de fomento, el que no podrá ser mayor al 50% del monto licitado.
 
 Con la o las instituciones adjudicatarias de la o las licitaciones a que se refiere el inciso segundo, el administrador deberá celebrar contratos en los cuales podrá establecerse el procedimiento para el otorgamiento de la garantía del Fondo, la forma de calificar si los créditos vencidos e impagos que se le presente a cobro cumplen con los requisitos para gozar de la garantía y en caso afirmativo la forma de reembolsar a la institución; la forma de invertir sus recursos en depósitos o instrumentos bancarios, y el procedimiento para la cobranza de los financiamientos pagados por el Fondo y las demás condiciones que determine la Superintendencia de Bancos e Instituciones Financieras.
 
@@ -110,8 +114,16 @@ Corresponderá a la Superintendencia de Bancos e Instituciones Financieras la fi
 
 El Fondo podrá, sujeto a las condiciones que establezca para estos efectos la Superintendencia de Bancos e Instituciones Financieras y previa autorización del Ministerio de Hacienda, contratar con instituciones públicas o privadas, nacionales o extranjeras, mecanismos de reafianzamiento o de seguro respecto de las garantías vigentes o las que otorgue en el futuro. Asimismo, podrá convenir y pagar comisiones o primas por los reafianzamientos o seguros contratados, con cargo a sus recursos, las que no podrán exceder de una proporción que determinará la Superintendencia de Bancos e Instituciones Financieras sobre el monto de las comisiones y el producto de las inversiones que perciba a que se refieren las letras b) y c) del artículo 2º.
 
-#### Artículo único
+#### Artículo primero
 
 transitorio.- Se faculta al Presidente de la República para poner a disposición del Fondo que se crea en este decreto ley el aporte a que se refiere la letra a) del artículo 2° con cargo a la Ley de Presupuesto vigente.
+
+#### Artículo segundo
+
+transitorio.- Autorízase para que, a contar del día siguiente a la fecha de publicación de la presente ley en el Diario Oficial y hasta el 31 de diciembre de 2020, ambas fechas incluidas, puedan acceder al Fondo de Garantía para los Pequeños y Medianos Empresarios las empresas cuyas ventas netas anuales no excedan de 350.000 unidades de fomento.
+
+Con todo, el mencionado Fondo no podrá garantizar a las empresas a que se refiere el inciso anterior más del 30% del saldo deudor de cada financiamiento de hasta 50.000 unidades de fomento, o su equivalente en moneda nacional o extranjera.
+
+Corresponderá al Administrador del Fondo especificar, en las bases de licitación, las condiciones generales en que las instituciones participantes y las empresas a que se refiere el inciso primero de este artículo podrán acceder a la garantía y hacer uso de los derechos de garantía licitados. En todo caso, en las bases se establecerá el porcentaje del total de garantías a licitar para empresas cuyas ventas anuales superen 100.000 unidades de fomento y no excedan de 350.000 unidades de fomento, el cual no podrá ser mayor al 30% del monto licitado.
 
 Regístrese en la Contraloría General de la República, publíquese en el Diario Oficial e insértese en la Recopilación Oficial de dicha Contraloría.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada.- CESAR MENDOZA DURAN, General Director de Carabineros.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea.- Alfonso Márquez de la Plata Yrarrázaval, Ministro de Agricultura.- Sergio de Castro Spikula, Ministro de Hacienda.
