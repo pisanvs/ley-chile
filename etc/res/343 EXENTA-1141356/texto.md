@@ -1,0 +1,33 @@
+AUTORIZA AMPLIACIÓN DEL ALCANCE DE LA ACREDITACIÓN DEL CENTRO DE EVALUACIÓN Y CERTIFICACIÓN DE COMPETENCIAS LABORALES SIMOC LIMITADA, A LOS PERFILES OCUPACIONALES QUE INDICA
+
+Núm. 343 exenta.- Santiago, 23 de diciembre de 2019.
+
+Visto:
+
+Lo dispuesto en la Ley Nº 20.267, que Crea el Sistema Nacional de Certificación de Competencias Laborales y Perfecciona el Estatuto de Capacitación y Empleo; la Ley Nº 19.880 de Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; el decreto supremo Nº 137 de 2008, del Ministerio del Trabajo y Previsión Social, sobre Reglamento que regula a esta Comisión; el decreto supremo Nº 29 de 2011, del Ministerio del Trabajo y Previsión Social, sobre Reglamento que regula la Acreditación de Centros de Evaluación y Certificación de Competencias Laborales y la Habilitación de Evaluadores; la resolución exenta Nº 1.068 de 2011, de la Subsecretaría del Trabajo, sobre aranceles del Sistema Nacional de Certificación de Competencias Laborales; la resolución exenta Nº 185 de 2016, modificada por la Nº 612, de 2016, ambas de esta Comisión, sobre Procedimiento de Ampliación de Alcance de Centros de Evaluación y Certificación de Competencias Laborales; la resolución exenta Nº 320, de 2018, de la Comisión del Sistema Nacional de Certificación de Competencias Laborales, que acreditó a la sociedad Simoc Limitada como Centro de Evaluación y Certificación de Competencias Laborales; la resolución exenta Nº 313, de 2019, de esta Comisión, que cerró la etapa de evaluación de la solicitud de ampliación de alcance presentada por dicho Centro; el acuerdo Nº 808 de 2019, adoptado en la centésima décima cuarta sesión ordinaria del órgano colegiado de esta Comisión, de 16 de diciembre de 2019; el Anexo de Acta de Compromiso de 23 de diciembre de 2019, suscrita por el Centro de Evaluación y Certificación de Competencias Laborales Simoc Limitada; la resolución Nº 7 de 2019, de la Contraloría General de la República; y las facultades que me confiere el artículo 9º de la Ley Nº 20.267.
+
+Considerando:
+
+1. Que, la Comisión del Sistema Nacional de Certificación de Competencias Laborales, en adelante la Comisión, es un servicio público funcionalmente descentralizado, con personalidad jurídica y patrimonio propio, cuya función es la implementación de las acciones reguladas en la Ley Nº 20.267.
+
+2. Que, mediante resolución exenta Nº 185, de 2016, modificada por la Nº 612 de 2016, la Comisión aprobó el Procedimiento de Ampliación de Alcance de los Centros de Evaluación y Certificación de Competencias Laborales acreditados en el Sistema Nacional de Certificación de Competencias Laborales.
+
+3. Que, conforme a ello, mediante resolución exenta Nº 320, de 2018, la Comisión acreditó a la sociedad Simoc Limitada como Centro de Evaluación y Certificación de Competencias Laborales, por un plazo de 3 años, esto es, desde el 16 de diciembre de 2018 hasta el 16 de diciembre de 2021.
+
+4. Que, habiendo presentado una solicitud de ampliación de alcance de su acreditación, se ha determinado que Simoc Limitada cumple con los requisitos normativos para efectuar procesos de evaluación y certificación en los sectores, subsectores y perfiles solicitados, conforme se da cuenta en la resolución exenta Nº 313, de 2019, que cierra el proceso de evaluación de dicha solicitud.
+
+5. Que, mediante acuerdo Nº 808, adoptado en su centésima décima cuarta sesión ordinaria, de 16 de diciembre de 2019, el órgano colegiado de esta Comisión resolvió autorizar la ampliación del alcance al Centro de Evaluación y Certificación de Competencias Laborales Simoc Limitada.
+
+6. Que, Simoc Limitada suscribió el 23 de diciembre de 2019, un Anexo de Acta de Compromiso en que se compromete a cumplir las obligaciones, compromisos, prohibiciones, restricciones e inhabilidades que la Ley Nº 20.267 y sus reglamentos establecen para asegurar la idoneidad, competencia e imparcialidad de los Centros de Evaluación y Certificación de Competencias Laborales.
+
+Resuelvo:
+
+1. Autorízase la ampliación del alcance de la acreditación del Centro de Evaluación y Certificación de Competencias Laborales Simoc Limitada, RUT Nº 76.232.112-2, para evaluar y certificar competencias laborales en el sector Construcción, subsector Montaje Industrial, los perfiles ocupacionales de Capataz Cañonero (P-3320-3122-002-V01), Capataz Eléctrico (P-3320-3123-002-V01), Capataz Estructurero (P-4390-3123-001-V01), Capataz Instrumentista (P-4390-3123-002-V01), Capataz Mecánico (P-3320-3122-004-V01), Maestro Mayor Eléctrico (P-3320-3123-001-V01), Maestro Mayor Estructurero (P-3320-3122-005-V01), Maestro Mayor Instrumentista (P-4390-8212-003-V01), Maestro Mayor Mecánico (P-3320-3122-003-V01), Maestro Primera Cañonero (P-3320-7126-002-V01), Maestro Primera Eléctrico (P-3320-7413-002-V01), Maestro Primera Estructurero (P-3320-7214-004-V01), Maestro Primera Instrumentista (P-4390-8212-002-V01), Maestro Primera Mecánico (P-3320-7214-002-V01), Maestro Segunda Cañonero (P-3320-7126-001-V01), Maestro Segunda Eléctrico (P-3320-7413-001-V01), Maestro Segunda Estructurero (P-3320-7214-003-V01), Maestro Segunda Instrumentista (P-4390-8212-001-V01), Maestro Segunda Mecánico (P-3320-7214-001-V01), Rigger en Alta (P-3320-7215-003-V01), Rigger en Media (P-3320-7215-002-V01) y Rigger en Baja (P-3320-7215-001-V01); subsector Instalaciones Eléctricas, de Gasfitería y Climatización, el perfil de Instalador Eléctrico Clase D (P-4322-7411-001-V02).
+
+2. Ingrésense los nuevos perfiles ocupacionales en los que se encuentra acreditado el Centro de Evaluación y Certificación de Competencias Laborales Simoc, RUT Nº 76.232.112-2, a la ficha que de éste se mantiene en el Registro Nacional de Centros de Evaluación y Certificación de Competencias Laborales.
+
+3. Publíquese la presente resolución en el Diario Oficial, sin perjuicio que las futuras modificaciones de los códigos de los perfiles ocupacionales antes señalados, se notificarán a través del Registro Nacional de Unidades de Competencias Laborales y del Registro Nacional de Centros de Evaluación y Certificación de Competencias Laborales, sin necesidad de una nueva publicación.
+
+4. Téngase presente que la ampliación de la acreditación concedida por el presente acto administrativo, tendrá vigencia desde su publicación en el Diario Oficial y durante el plazo que dure la acreditación del Centro.
+
+Anótese, notifíquese y publíquese en el Diario Oficial.- Francisco Silva Bafalluy, Secretario Ejecutivo, Comisión del Sistema Nacional de Certificación de Competencias Laborales.
