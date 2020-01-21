@@ -84,7 +84,7 @@ a) Intercálase, a continuación de la expresión "compra,", lo siguiente: "guí
 
 b) Reemplázase la frase "Las guías de despacho y las", por la palabra "Las".
 
-c) Agrégase, a continuación de la expresión "en papel.", la siguiente oración: "Los contribuyentes que sólo emitan documentos en papel podrán emitir guías de despacho que no importen ventas por este mismo medio.".
+c) Agréganse, a continuación de la expresión "en papel.", las siguientes oraciones: "En el caso del sector silvoagropecuario, de la pesca artesanal, y de la pequeña minería y pirquineros, las guías de despacho se podrán emitir, a elección del contribuyente, como documento electrónico o en papel. Adicionalmente, los contribuyentes que sólo emitan documentos en papel podrán emitir guías de despacho que no importen ventas por este mismo medio.".
 
 ## Artículos transitorios
 
