@@ -150,6 +150,16 @@ e.- En el marco del presente llamado, no podrán ser calificados aquellos proyec
 
 Cuadro Nº 7
 
+Variable Puntaje
+
+Postulantes mujeres jefas de hogar,
+
+en cuya familia exista una o más 1
+
+personas con discapacidad
+
+* Para efectos de la selección, esta variable sólo se aplicará en aquellos postulantes que hayan obtenido igual ponderación.
+
 15.- De la Selección:
 
 Los expedientes deberán ingresar a la Seremi de Vivienda y Urbanismo, con toda la información del check list respectivo, la ficha diagnóstica de admisibilidad de proyectos y levantamiento fotográfico total de la vivienda (interior y exterior).
