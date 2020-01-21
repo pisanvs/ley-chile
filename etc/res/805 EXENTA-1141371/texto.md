@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº 805 EXENTA, DE FECHA 30 DE DICIEMBRE DE 2019, DEL SUPERINTENDENTE DE EDUCACIÓN QUE "APRUEBA MANUAL DE CUENTAS PARA LA RENDICIÓN DE RECURSOS 2020"
+
+Con fecha 30 de diciembre de 2019, la Superintendencia de Educación dictó la resolución exenta Nº 805, que "aprueba Manual de Cuentas para la Rendición de Recursos 2020", como material de apoyo para los sostenedores, con el objeto de proporcionar la información necesaria para que puedan realizar el proceso de rendición de cuentas de manera oportuna, eficiente y correcta, en la plataforma que esta Superintendencia dispone anualmente para ello. Un ejemplar del Manual de Rendición de Cuentas correspondiente al año 2020 se encontrará disponible en el Portal de Transparencia Financiera de la Superintendencia de Educación (https://ptf.supereduc.cl). Asimismo, la resolución exenta Nº 805, de 2019, de la Superintendencia de Educación, estará disponible íntegramente para la comunidad educativa en la página web institucional (www.supereduc.cl).-
+
+Mauricio Irarrázabal Cerpa, Fiscal, Superintendencia de Educación.
