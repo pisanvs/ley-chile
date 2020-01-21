@@ -28,29 +28,29 @@ Decreto:
 
 Establézcase a contar de esta fecha, el siguiente orden de subrogación para el cargo de Director Ejecutivo del Servicio Local de Educación de Barrancas, para el caso que el titular del mismo no se encuentre desempeñando dichas funciones efectivamente, en el siguiente orden de precedencia:
 
-1.- Jefe de Administración y Finanzas, grado 5, del segundo nivel jerárquico.
+1.- Jefe de Apoyo Técnico Pedagógico, grado 5, del segundo nivel jerárquico.
 
-2.- Jefe de Apoyo Técnico Pedagógico, grado 5, del segundo nivel jerárquico.
+2.- Jefe de Planificación y Control de Gestión, grado 5, del segundo nivel jerárquico.
 
-3.- Jefe de Planificación y Control de Gestión, grado 5, del segundo nivel jerárquico.
+3.- Jefe de Administración y Finanzas, grado 5, del segundo nivel jerárquico.
 
 #### Artículo segundo
 
 Establézcase a contar de esta fecha, el siguiente orden de subrogación para el cargo de Director Ejecutivo del Servicio Local de Educación de Puerto Cordillera, para el caso que el titular del mismo no se encuentre desempeñando dichas funciones efectivamente, en el siguiente orden de precedencia:
 
-1.- Jefe de Administración y Finanzas, grado 5, del segundo nivel jerárquico.
+1.- Jefe de Apoyo Técnico Pedagógico, grado 5, del segundo nivel jerárquico.
 
-2.- Jefe de Apoyo Técnico Pedagógico, grado 5, del segundo nivel jerárquico.
+2.- Jefe de Planificación y Control de Gestión, grado 5, del segundo nivel jerárquico.
 
-3.- Jefe de Planificación y Control de Gestión, grado 5, del segundo nivel jerárquico.
+3.- Jefe de Administración y Finanzas, grado 5, del segundo nivel jerárquico.
 
 #### Artículo tercero
 
 Establézcase a contar de esta fecha, el siguiente orden de subrogación para el cargo de Director Ejecutivo del Servicio Local de Educación de Huasco, para el caso que el titular del mismo no se encuentre desempeñando dichas funciones efectivamente, en el siguiente orden de precedencia:
 
-1.- Jefe de Apoyo Técnico Pedagógico, grado 5, del segundo nivel jerárquico.
+1.- Jefe de Planificación y Control de Gestión, grado 5, del segundo nivel jerárquico.
 
-2.- Jefe de Planificación y Control de Gestión, grado 5, del segundo nivel jerárquico.
+2.- Jefe de Apoyo Técnico Pedagógico, grado 5, del segundo nivel jerárquico.
 
 3.- Jefe de Administración y Finanzas, grado 5, del segundo nivel jerárquico.
 
