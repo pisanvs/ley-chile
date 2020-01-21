@@ -120,6 +120,8 @@ Otórgase al Director del Instituto de Salud Pública de Chile las siguientes fa
 
 3º.- Disponer la realización de trabajos extraordinarios para el personal de su dependencia, de acuerdo a lo establecido en el artículo 9 de la ley Nº 19.104.
 
+4.- Autorizar, mediante resolución fundada, la venta o uso provisional de pesticidas de uso sanitario y doméstico, sin registro previo, de acuerdo a lo dispuesto en el artículo 18 del decreto supremo Nº 157, de 2005, del Ministerio de Salud.
+
 #### Artículo 6°
 
 Los servicios públicos y demás organismos de la Administración del Estado, en el ámbito de sus respectivas competencias, y otras entidades públicas o privadas deberán proporcionar la colaboración y ejecutar las acciones que les sean requeridas por las autoridades de salud mencionadas anteriormente para el cumplimiento de las facultades extraordinarias que se han dispuesto en el presente acto y las demás acciones que dichas autoridades estimen necesarias para enfrentar esta emergencia.
