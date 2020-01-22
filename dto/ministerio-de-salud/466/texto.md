@@ -1132,17 +1132,15 @@ Las infracciones a las disposiciones del presente reglamento serán sancionadas 
 
 ## Título IX
 
-Petitorio de Farmacia
+Petitorio Farmacéutico
 
 #### Artículo 92°
 
+Las farmacias, con exclusión de aquellas aludidas en el artículo 11, y los almacenes farmacéuticos deberán mantener en existencia, como mínimo, los medicamentos contenidos en el Petitorio Farmacéutico, aprobado para cada uno éstos mediante resolución del Ministro de Salud.
+
+#### Artículo 93°
+
 Derogado.
-
-#### Artículo 93
-
-Las farmacias, con exclusión de aquellas aludidas en el artículo 11, deberán mantener en existencia, como mínimo, los siguientes productos del Formulario Nacional de Medicamentos, los que constituirán su Petitorio:
-
-> **Nota.** El Nº 2 del Decreto 15, Salud, publicado el 08.05.2010, modifica la presente norma en el sentido de incorporar al Petitorio en el Grupo Nº 17 "Hormonas y otros medicamentos endocrinos y anticonceptivos", en el punto 17.03, "Anticonceptivos", a continuación de Levonorgestrel Comprimido 0.75 mg, lo siguiente: "Alternativa: Levonorgestrel Comprimido 1.5 mg.
 
 ## Título X
 
