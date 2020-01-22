@@ -1,0 +1,5 @@
+SE APRUEBA PARA EL INSTITUTO DE PREVISIÓN SOCIAL EL DOCUMENTO DENOMINADO "REPOSICIÓN CESES POR FALLECIMIENTO", VERSIÓN 2
+
+Por resolución exenta Nº 426, de 10 de diciembre de 2019, el Director Nacional del Instituto de Previsión Social, aprueba el documento denominado "Procedimiento Reposición Ceses por Fallecimiento", versión 2, cuyo objetivo es establecer el procedimiento para reactivar pensiones suspendidas por fallecimiento producto de un error en el ingreso al Sistema de Cese en el Centro de Atención Previsional Integral, CAPRI, iniciándose este subproceso con la recepción de la solicitud de reposición de la pensión desde el CAPRI y finalizando con el ingreso de la pensión a la Base de Pagos, despacho al CAPRI de la Liquidación de Pago Manual por el periodo adeudado y archivo de la documentación de respaldo en el expediente.
+
+Santiago, 15 de enero de 2020.- Patricio Coronado Rojo.
