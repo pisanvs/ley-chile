@@ -1,0 +1,7 @@
+MODIFICA RESOLUCIÓN Nº 157 EXENTA, DE 23 DE ABRIL DE 2019, QUE DELEGÓ FACULTAD PARA OPERAR CUENTA CORRIENTE GIRADORA LOCAL N° 0504-0001-0100085076, DEL BANCO SCOTIABANK EX - BBVA (CHILE), SUCURSAL PROVIDENCIA, ABIERTA PARA EL CENTRO DE ATENCIÓN PREVISIONAL INTEGRAL DEL INSTITUTO DE PREVISIÓN SOCIAL PROVIDENCIA, EN LOS FUNCIONARIOS QUE SEÑALA, EN EL SENTIDO QUE INDICA
+
+Por resolución exenta Nº 394, de 27 de noviembre de 2019, el Director Nacional del Instituto de Previsión Social, aprobó la modificación del Resuelvo Nº 1 de la resolución exenta Nº 157, de 23 de abril de 2019, mediante la cual esta Dirección Nacional delegó la facultad para operar la cuenta corriente giradora local Nº 0504-0001-0100085076, del Banco Scotiabank ex-BBVA (Chile), sucursal Providencia, abierta para el Centro de Atención Previsional Integral del Instituto de Previsión Social Providencia, en los funcionarios que en ese acto se indican, en el sentido de reemplazar el número de cédula de identidad de la funcionaria doña Claudia Dinamarca Flores, en los términos que indica.
+
+Santiago, 15 de enero de 2020.- Patricio Coronado Rojo.
+
+Alexander Suárez Olivares, Jefe (S) Departamento Secretaría General y Transparencia, Instituto de Previsión Social.
