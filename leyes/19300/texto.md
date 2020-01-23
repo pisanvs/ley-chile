@@ -210,11 +210,13 @@ n) Proyectos de explotación intensiva, cultivo, y plantas procesadoras de recur
 
 o) Proyectos de saneamiento ambiental, tales como sistemas de alcantarillado y agua potable, plantas de tratamiento de aguas o de residuos sólidos de origen domiciliario, rellenos sanitarios, emisarios submarinos, sistemas de tratamiento y disposición de residuos industriales líquidos o sólidos;
 
-p) Ejecución de obras, programas o actividades en parques nacionales, reservas nacionales, monumentos naturales, reservas de zonas vírgenes, santuarios de la naturaleza, parques marinos, reservas marinas o en cualesquiera otras áreas colocadas bajo protección oficial, en los casos en que la legislación respectiva lo permita;
+p) Ejecución de obras, programas o actividades en parques nacionales, reservas nacionales, monumentos naturales, reservas de zonas vírgenes, santuarios de la naturaleza, parques marinos, reservas marinas, humedales urbanos o en cualesquiera otras áreas colocadas bajo protección oficial, en los casos en que la legislación respectiva lo permita;
 
-q) Aplicación masiva de productos químicos en áreas urbanas o zonas rurales próximas a centros poblados o a cursos o masas de agua que puedan ser afectadas, y
+q) Aplicación masiva de productos químicos en áreas urbanas o zonas rurales próximas a centros poblados, humedales, o a cursos o masas de agua que puedan ser afectadas;
 
-r) Proyectos de desarrollo, cultivo o explotación, en las áreas mineras, agrícolas, forestales e hidrobiológicas que utilicen organismos genéticamente modificados con fines de producción y en áreas no confinadas. El reglamento podrá definir una lista de especies de organismos genéticamente modificados que, como consecuencia de su comprobado bajo riesgo ambiental, estarán excluidos de esta exigencia. El mismo reglamento establecerá el procedimiento para declarar áreas como libres de organismos genéticamente modificados.
+r) Proyectos de desarrollo, cultivo o explotación, en las áreas mineras, agrícolas, forestales e hidrobiológicas que utilicen organismos genéticamente modificados con fines de producción y en áreas no confinadas. El reglamento podrá definir una lista de especies de organismos genéticamente modificados que, como consecuencia de su comprobado bajo riesgo ambiental, estarán excluidos de esta exigencia. El mismo reglamento establecerá el procedimiento para declarar áreas como libres de organismos genéticamente modificados, y
+
+s) Ejecución de obras o actividades que puedan significar una alteración física o química a los componentes bióticos, a sus interacciones o a los flujos ecosistémicos de humedales que se encuentran total o parcialmente dentro del límite urbano, y que impliquen su relleno, drenaje, secado, extracción de caudales o de áridos, la alteración de la barra terminal, de la vegetación azonal hídrica y ripariana, la extracción de la cubierta vegetal de turberas o el deterioro, menoscabo, transformación o invasión de la flora y la fauna contenida dentro del humedal, indistintamente de su superficie.
 
 #### Artículo 11
 

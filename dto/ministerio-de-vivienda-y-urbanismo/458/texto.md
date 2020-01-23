@@ -40,9 +40,9 @@ Le corresponderá, igualmente, estudiar las modificaciones que requiera la Orden
 
 Para los efectos indicados, podrá oir a los respectivos Colegios Profesionales y asesorarse por los técnicos que estime conveniente.
 
-Le corresponderá, también, aprobar por decreto supremo las Normas Técnicas que confeccionare el Instituto Nacional de Normalización y los Reglamentos de Instalaciones Sanitarias de Agua Potable y Alcantarillado, y de Pavimentación.
+Le corresponderá, también, aprobar por decreto supremo las Normas Técnicas que confeccionare el Instituto Nacional de Normalización y las normas sobre pavimentación.
 
-Los decretos supremos mencionados en los dos últimos incisos precedentes, se dictarán por el Ministerio de Vivienda y Urbanismo, por orden del Presidente de la República.
+El decreto supremo mencionado en el inciso precedente se dictará por el Ministerio de Vivienda y Urbanismo, por orden del Presidente de la República.
 
 #### Artículo 4º
 
@@ -298,6 +298,108 @@ b) Se deberá realizar una o más audiencias públicas en los barrios o sectores
 
 c) Antes de su aprobación, se expondrán a la comunidad por un plazo de treinta días, vencido el cual los interesados podrán formular observaciones escritas y fundadas hasta por otros treinta días, aplicándoseles lo previsto en el artículo 43.
 
+PÁRRAFO PRELIMINAR.- Ámbitos de competencia y medidas de transparencia en la Planificación Urbana
+
+#### Artículo 28 quáter
+
+Estándares urbanísticos mínimos para los instrumentos de planificación urbana comunal. Los instrumentos de planificación urbana comunal deberán ajustarse, en su elaboración o modificación, a:
+
+a) La superficie, accesibilidad y tipos de áreas verdes por ocupantes o habitantes que señale la Ordenanza General.
+
+b) La superficie, accesibilidad y tipos de equipamientos por ocupantes o habitantes que señale la Ordenanza General.
+
+c) El mínimo de estacionamientos que estarán localizados en el interior del predio que determine la Ordenanza General, con las excepciones que esta misma establezca. Para el caso de viviendas, será uno por cada dos unidades, a menos que el propio instrumento contemple límites diferentes, sean inferiores o superiores, por razones de congestión o densidad, y sin perjuicio de respetar lo dispuesto en el artículo 8 de la ley N° 19.537, sobre copropiedad inmobiliaria. Tratándose de usos distintos del habitacional, se estará a lo que determine la Ordenanza General en función del destino e intensidad de ocupación.
+
+d) Una trama vial que incorpore circulaciones destinadas al uso público cuyas intersecciones no excedan de 200 metros lineales, con las excepciones que señale la Ordenanza General, para garantizar la continuidad del espacio público y la conectividad con la vialidad del sector.
+
+e) Los demás estándares que indique la Ordenanza General para garantizar el acceso equitativo a los bienes públicos urbanos.
+
+En los literales a) y b) se considerará la totalidad de ocupantes o habitantes que pueda llegar a tener la comuna como consecuencia de las disposiciones del instrumento o de su modificación.
+
+La Ordenanza, al reglamentar estos estándares, reconocerá las condiciones locales y de diversidad territorial.
+
+#### Artículo 28
+
+quinquies.- Normas urbanísticas supletorias para territorios sin planificación comunal o seccional. Las construcciones que se levanten en zonas urbanas que no estén normadas por un Plan Regulador Comunal o un Plan Seccional deberán ajustarse, mientras mantengan esta situación, a las siguientes disposiciones:
+
+a) No podrán superar la altura promedio de los edificios ya construidos en las manzanas edificadas, con un máximo de diez pisos. En caso de no haber edificación no podrán exceder de dos pisos, salvo que se trate de conjuntos habitacionales de viviendas sociales, los que podrán alcanzar cuatro pisos.
+
+b) No podrán superar la densidad promedio de la manzana en que se emplacen y, de no ser aplicable esta norma, la del promedio de las zonas contiguas que ya estén edificadas, salvo que se trate de conjuntos habitacionales de viviendas sociales.
+
+c) No podrán alterar el sistema de agrupamiento de las edificaciones, sus características arquitectónicas y volumétricas ni las líneas oficiales y de edificación del sector, debiendo adaptarse al entorno urbano en que se emplacen.
+
+d) Deberán dar continuidad a la trama vial existente.
+
+e) Deberán cumplir las demás normas urbanísticas supletorias que, para estos efectos y reconociendo las condiciones locales y de diversidad territorial, señale la Ordenanza General.
+
+Las normas precedentes se aplicarán también cuando se declare la nulidad total o parcial de un Plan Regulador Comunal o Seccional.
+
+Lo dispuesto en este artículo regirá sin perjuicio de las normas que respecto de las áreas de extensión urbana establezcan los Planes Reguladores Intercomunales.
+
+#### Artículo 28
+
+sexies.- Actualización de los instrumentos de planificación territorial. Los instrumentos de planificación territorial deberán actualizarse periódicamente en un plazo no mayor a diez años, conforme a las normas que disponga la Ordenanza General.
+
+#### Artículo 28
+
+septies.- Acceso a la información de los instrumentos de planificación territorial. Los actos administrativos que promulguen la aprobación o modificación de un instrumento de planificación territorial deberán publicarse en el sitio electrónico del organismo que los promulgue junto con la respectiva Ordenanza, y se informará de su disponibilidad en aquél mediante un aviso en un periódico de circulación local, regional o en una radio comunal o regional, según sea el caso, debiendo la autoridad que los promulgue informar de este hecho al Servicio de Impuestos Internos dentro de quinto día, indicando si involucran modificaciones de límites urbanos y en qué zonas. La memoria explicativa, los planos y la ordenanza correspondiente se archivarán en los Conservadores de Bienes Raíces respectivos, en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, en la respectiva secretaría regional de dicho ministerio y, cuando se trate de instrumentos de nivel comunal, en las municipalidades correspondientes.
+
+Estos documentos, junto con su memoria explicativa y el informe ambiental, deberán estar disponibles en el sitio electrónico del organismo que los promulgue conforme a lo dispuesto en el artículo 7 del artículo primero de la ley N° 20.285, sobre Acceso a la Información Pública. Asimismo, deberá publicarse en dicho sitio electrónico un resumen ejecutivo del instrumento de planificación que incluya su descripción y los principales efectos esperados, sin perjuicio de la difusión de otros resúmenes explicativos en lenguaje claro y simple.
+
+Con el objeto de facilitar el acceso a los textos y planos vigentes de los instrumentos de planificación territorial que hayan sido modificados, la autoridad facultada para promulgarlos podrá aprobar versiones actualizadas de los planos y fijar el texto refundido, coordinado y sistematizado de las ordenanzas, pudiendo introducirles los cambios de forma que sean indispensables, siempre que con ello no se altere, en caso alguno, su verdadero sentido y alcance. Los actos administrativos que promulguen estas versiones actualizadas estarán sujetos a toma de razón por parte de la Contraloría General de la República y no se someterán al procedimiento de evaluación ambiental estratégica.
+
+#### Artículo 28
+
+octies.- Imagen objetivo de los instrumentos de planificación territorial y consulta pública. El proceso de elaboración de los planes reguladores intercomunales o metropolitanos, de los planes reguladores comunales y de los planes seccionales, así como el relativo a sus modificaciones, deberá ser transparente y participativo, debiendo requerirse la opinión de los vecinos afectados y de los principales actores del territorio planificado. Con tal objetivo se debe contemplar, como paso previo a la elaboración del anteproyecto del plan, la formulación de una imagen objetivo del desarrollo urbano del territorio a planificar, conforme al siguiente procedimiento:
+
+1. El alcalde o el secretario regional ministerial de Vivienda y Urbanismo, según se trate de un instrumento de nivel comunal o intercomunal, formulará una propuesta de imagen objetivo del desarrollo urbano del territorio a planificar, la que se plasmará en un resumen ejecutivo que sintetizará, en un lenguaje claro y simple, el diagnóstico y sus fundamentos técnicos; los objetivos generales y los principales elementos del instrumento a elaborar; las alternativas de estructuración del territorio por las que se propone optar, y los cambios que provocarían respecto de la situación existente, apoyándose en uno o más planos que expresen gráficamente estos conceptos. En los casos en que se considere modificar el límite urbano, el resumen ejecutivo deberá señalarlo expresamente.
+
+2. El resumen ejecutivo y sus planos deberán ser aprobados por acuerdo del concejo municipal o consejo regional, según se trate de un instrumento de nivel comunal o intercomunal, dentro de los quince días siguientes a su recepción. Transcurrido este plazo sin un pronunciamiento expreso se entenderá que tanto el resumen ejecutivo como sus planos fueron aprobados. Una vez aprobados serán publicados en el sitio web de la municipalidad o de la secretaría regional ministerial de Vivienda y Urbanismo, según corresponda, y simultáneamente se expondrán a la comunidad en lugares visibles y de libre acceso al público pudiendo los interesados formular observaciones fundadas, por medios electrónicos o en soporte papel, hasta treinta días, prorrogables hasta cuarenta y cinco días después de publicado el resumen ejecutivo y sus respectivos planos. El órgano encargado deberá informar de todo lo anterior y de la fecha de realización de las audiencias públicas al consejo comunal de organizaciones de la sociedad civil, a las organizaciones de la sociedad civil, a los vecinos afectados y demás interesados que señale la ordenanza mediante carta certificada despachada al domicilio actualizado que se tenga de dichas organizaciones, a más tardar, el mismo día en que se publiquen el resumen ejecutivo y sus planos.
+
+3. Durante los primeros quince días del periodo de exposición deberán realizarse, además, dos o más audiencias públicas para presentar la imagen objetivo a la comunidad, debiendo invitarse al consejo comunal de organizaciones de la sociedad civil, a las organizaciones de la sociedad civil, a los vecinos afectados y demás interesados que señale la ordenanza. Tratándose de instrumentos del ámbito comunal deberá presentarse, además, ante el consejo comunal de organizaciones de la sociedad civil.
+
+4. El lugar y plazo de exposición y el lugar, fecha y hora de las audiencias públicas, así como la disponibilidad de los antecedentes en internet, deberán comunicarse previamente por medio de dos avisos publicados en semanas distintas, en algún diario de los de mayor circulación en la comuna o las comunas involucradas, mediante su exposición en lugares de afluencia de público como consultorios y colegios, a través de avisos radiales y en la forma de comunicación masiva más adecuada o habitual en la comuna o comunas objeto del plan.
+
+5. Terminado el periodo para realizar observaciones, la autoridad encargada de elaborar el plan deberá emitir un informe que sintetice todas las observaciones presentadas al Consejo Regional o Concejo Municipal, según corresponda, el que dentro de treinta días contados desde la recepción de dicho informe por la secretaría del órgano respectivo deberá acordar los términos en que se procederá a elaborar el anteproyecto de plan, siguiendo lo establecido para cada instrumento en los párrafos siguientes de este capítulo. El organismo competente deberá dar respuesta fundada a cada una de las observaciones realizadas, indicando si las acepta o las rechaza. Tanto el informe elaborado como el acuerdo adoptado deberán estar disponibles en el sitio electrónico de la autoridad encargada. En caso que este acuerdo considere una modificación del límite urbano, la misma autoridad deberá informar de este hecho al Servicio de Impuestos Internos, dentro de quinto día, señalando la zona considerada para estos efectos.
+
+6. Si el organismo competente para aprobar en definitiva el instrumento de planificación territorial rechaza o altera una propuesta de modificación del límite urbano contenida en el acuerdo a que se refiere el numeral precedente, conforme lo disponen la letra c) del artículo 36 de la ley N° 19.175, orgánica constitucional sobre Gobierno y Administración Regional, y el inciso octavo del artículo 43 de la Ley General de Urbanismo y Construcciones, la autoridad encargada de su elaboración deberá informar de este hecho a los consejos comunales de organizaciones de la sociedad civil, a las organizaciones de la sociedad civil, a los vecinos afectados y demás interesados que señale la ordenanza que hayan formulado observaciones fundadas, al Ministerio de Vivienda y Urbanismo para lo dispuesto en la letra b) del artículo 28 undecies de esta ley y al Servicio de Impuestos Internos identificando las zonas.
+
+Todas las publicaciones que señala este artículo deberán estar disponibles dentro de los mecanismos de participación ciudadana que exige el artículo 7 del artículo primero de la ley N° 20.285, sobre Acceso a la Información Pública.
+
+#### Artículo 28
+
+nonies.- Intervención de particulares en la elaboración y aprobación de los instrumentos de planificación territorial. Los particulares podrán proponer nuevos instrumentos de planificación territorial o modificaciones de los existentes solamente mediante presentaciones formales realizadas en ejercicio del derecho de petición consagrado en el numeral 14 del artículo 19 de la Constitución Política de la República. La autoridad que promueva un nuevo instrumento o una modificación del instrumento deberá mencionar expresamente las solicitudes planteadas por particulares que se relacionen directamente con su propuesta.
+
+Los particulares podrán acompañar antecedentes para fundamentar nuevos instrumentos de planificación territorial o sus modificaciones, siempre que en ellos se consigne con claridad quién los presenta, quién los elaboró y a qué título. Dichos antecedentes sólo podrán ser considerados por los órganos administrativos si se cumple con lo anterior y son aprobados por un órgano del Estado.
+
+La infracción de los deberes señalados en los incisos anteriores será considerada una grave vulneración del principio de probidad administrativa.
+
+#### Artículo 28
+
+decies.- Transparencia en el ejercicio de la potestad planificadora. La planificación urbana es una función pública cuyo objetivo es organizar y definir el uso del suelo y las demás normas urbanísticas de acuerdo con el interés general. Su ejercicio deberá:
+
+a) Ser fundado, señalando expresamente sus motivaciones y los objetivos específicos que persigue en cada caso, especialmente cuando se realicen cambios en las propuestas, anteproyectos o proyectos.
+
+b) Considerar información suficiente sobre la realidad existente y su evolución previsible.
+
+c) Ajustarse a los principios de sustentabilidad, cohesión territorial y eficiencia energética, procurando que el suelo se ocupe de manera eficiente y combine los usos en un contexto urbano seguro, saludable, accesible universalmente e integrado socialmente.
+
+d) Evitar la especulación y procurar la satisfacción de las necesidades de vivienda de la población.
+
+e) Ser consistente con los estudios técnicos referidos a movilidad urbana, infraestructura sanitaria y energética, riesgos y protección del patrimonio natural y cultural, entre otros, conforme establezca la Ordenanza General de Urbanismo y Construcciones, los que necesariamente deberán estar en coordinación con las políticas sectoriales asociadas a cada materia.
+
+#### Artículo 28
+
+undecies.- Observatorios del mercado del suelo urbano, de los instrumentos de planificación territorial y de los permisos. Para promover la transparencia del mercado del suelo, el Ministerio de Vivienda y Urbanismo mantendrá en un Portal Único de Información:
+
+a) Un observatorio del mercado del suelo urbano que informará de la evolución de precios por metro cuadrado de los bienes raíces a nivel nacional, regional, comunal y otras zonas geográficas específicas. Para estos efectos, el Servicio de Impuestos Internos pondrá a disposición del observatorio los montos y otros antecedentes necesarios para que pueda caracterizar los bienes raíces enajenados, informados en las Declaraciones sobre Enajenación e Inscripción de los Bienes Raíces, o la declaración que las reemplace, y que el Servicio recibe en el ejercicio de sus atribuciones, exceptuados aquellos datos que permitan individualizar a los predios, sus propietarios, poseedores u ocupantes. El Ministerio de Hacienda determinará, mediante una resolución exenta que también suscribirá el Ministro de Vivienda y Urbanismo, previa propuesta del Servicio de Impuestos Internos, las zonas geográficas específicas que se considerarán en el observatorio y la forma y oportunidad de entrega de dicha información, resguardando que el procedimiento no identifique o no permita identificar bienes raíces, propietarios, poseedores u ocupantes en particular, y cumpliendo las disposiciones de la Ley Orgánica del Servicio de Impuestos Internos, contenida en el decreto con fuerza de ley N° 7, de 1980, del Ministerio de Hacienda, y en el Código Tributario.
+
+b) Un sistema de información de los procesos de elaboración y aprobación de los instrumentos de planificación territorial, así como de sus modificaciones, el que deberá dar cuenta de manera sistematizada de toda la información disponible en los sitios electrónicos referidos en los artículos 28 septies y 28 octies. Para estos efectos, las municipalidades, los gobiernos regionales y demás órganos y servicios competentes deberán suministrar la información que señale la ordenanza de esta ley en la forma y plazos que allí se indiquen, con el objeto de poner a disposición del público la información referida de forma fácil y expedita.
+
+c) Un sistema de información sobre el estado de tramitación de los permisos de urbanización y de edificación en cada municipalidad, en la forma que determine la Ordenanza General, que también permitirá a las respectivas direcciones de obras municipales cumplir con los trámites que regula la presente ley de manera electrónica.
+
+La infracción de los deberes señalados en el inciso anterior será considerada una grave vulneración del principio de probidad administrativa.
+
 ### Párrafo 1° — .- De la Planificación Urbana Nacional
 
 #### Artículo 29°
@@ -346,19 +448,27 @@ b) Una Ordenanza, que contendrá las disposiciones reglamentarias pertinentes, y
 
 c) Los planos, que expresen gráficamente las disposiciones sobre zonificación general, equipamiento, relaciones viales, áreas de desarrollo prioritario, límites de extensión urbana, densidades, etc.
 
-Para los efectos de su aprobación, modificación y aplicación, estos documentos constituyen un sólo cuerpo legal.
+Para los efectos de su aprobación, modificación y aplicación, estos documentos constituirán un solo cuerpo normativo.
 
-#### Artículo 36°
+#### Artículo 36
 
-El Plan Regulador Intercomunal será confeccionado por la Secretaría Regional de Vivienda y Urbanismo, con consulta a las Municipalidades correspondientes e Instituciones Fiscales que se estime necesario, sin perjuicio de las normas especiales que se establezcan para el Area Metropolitana.
+El anteproyecto de Plan Regulador Intercomunal o Metropolitano, o sus modificaciones, será elaborado por la secretaría regional ministerial de Vivienda y Urbanismo, con consulta a las municipalidades correspondientes y a los organismos de la administración del Estado que sean necesarios, con el fin de resguardar una actuación pública coordinada sobre el territorio planificado. Este proceso se iniciará con la formulación y consulta de la imagen objetivo del instrumento, conforme a lo dispuesto en el artículo 28 octies de esta ley, y se ajustará a lo señalado en el inciso cuarto del artículo 7 bis de la ley N° 19.300, sobre Bases Generales del Medio Ambiente.
 
-Elaborado un Plan Regulador Intercomunal, las Municipalidades respectivas deberán pronunciarse sobre dicho Plan dentro de un plazo de 60 días, contados desde su conocimiento oficial, vencido el cual la falta de pronunciamiento será considerada como aprobación.
+De conformidad al inciso quinto del artículo 7 bis de la ley N° 19.300, sobre Bases Generales del Medio Ambiente, el anteproyecto de plan regulador que se elabore contendrá un informe ambiental, que será remitido al Ministerio del Medio Ambiente para sus observaciones. Posteriormente, ambos documentos, junto con un resumen ejecutivo que incluya su descripción y los principales efectos esperados, sin perjuicio de la difusión de otros resúmenes explicativos en lenguaje claro y simple, serán sometidos a un proceso de consulta pública conforme a lo dispuesto en los numerales 2, 3 y 4 del artículo 28 octies.
 
-Previa autorización de la Secretaría Regional correspondiente, un grupo de Municipalidades afectas a relaciones intercomunales podrán confeccionar directamente un Plan Regulador Intercomunal, el que deberá ser aprobada por dicha Secretaría, con consulta a los organismos fiscales que estime necesario, sin perjuicio de lo dispuesto en el artículo siguiente.
+En paralelo a la consulta pública se solicitará la opinión de las Municipalidades correspondientes, las que deberán pronunciarse sobre el anteproyecto dentro del plazo de treinta días, contado desde su conocimiento oficial, vencido el cual la falta de pronunciamiento será considerada como aprobación.
+
+Terminadas las consultas anteriores, la secretaría regional ministerial de Vivienda y Urbanismo elaborará un proyecto de Plan Regulador Intercomunal o Metropolitano y lo remitirá, junto al expediente completo, al gobierno regional para continuar su trámite de aprobación en conformidad a las disposiciones de su ley orgánica constitucional. En caso que el proyecto altere la propuesta de modificación del límite urbano contenida en el acuerdo a que se refiere el numeral 5 del artículo 28 octies, la misma autoridad informará de este hecho, dentro de quinto día, al Servicio de Impuestos Internos, señalando la zona afectada.
 
 #### Artículo 37
 
-Los Planes Reguladores Intercomunales o Metropolitanos serán aprobados por el consejo regional y promulgados por resolución del gobernador regional, y sus disposiciones serán obligatorias en la elaboración de los Planes Reguladores Comunales.
+Previa autorización de la secretaría regional ministerial de Vivienda y Urbanismo correspondiente, un grupo de municipalidades afectas a relaciones intercomunales podrán elaborar directamente un anteproyecto de Plan Regulador Intercomunal, el que deberá ser diseñado de acuerdo al procedimiento establecido en el artículo precedente y enviado a dicha secretaría para que verifique, dentro del plazo de sesenta días, si el instrumento propuesto se ajusta a esta ley y su ordenanza. Si el informe es favorable, la secretaría deberá remitirlo al gobierno regional para iniciar su trámite de aprobación en conformidad a las disposiciones de su ley orgánica constitucional.
+
+#### Artículo 37 bis
+
+Podrán aprobarse enmiendas a los planes reguladores intercomunales cuando se trate de modificaciones que no sean sustantivas y recaigan en disposiciones relativas al ámbito de competencia propio de estos instrumentos, dentro de los márgenes y de acuerdo al procedimiento simplificado que establezca la Ordenanza General, el que en todo caso deberá contemplar una consulta a las municipalidades correspondientes y un proceso de consulta pública.
+
+Tratándose de modificaciones en los trazados de las vías intercomunales, será necesario un informe favorable de la autoridad regional o metropolitana competente en materia urbanística.
 
 #### Artículo 38°
 
@@ -406,33 +516,33 @@ c) Una Ordenanza Local que contendrá las disposiciones reglamentarias pertinent
 
 d) Los planos, que expresan gráficamente las disposiciones sobre uso de suelo, zonificación, equipamiento, relaciones viales, líimite urbano, áreas prioritarias de desarrollo urbano, etc.
 
-Para los efectos de su aprobación, modificación y aplicación, estos documentos constituyen un solo cuerpo legal.
+Para los efectos de su aprobación, modificación y aplicación, estos documentos constituirán un solo cuerpo normativo.
 
 #### Artículo 43
 
-El procedimiento para la elaboración y aprobación de los planes reguladores comunales se regirá por lo dispuesto en los incisos siguientes.
+El anteproyecto de Plan Regulador Comunal o de sus modificaciones será diseñado por la municipalidad correspondiente, iniciándose este proceso con la formulación y consulta de su imagen objetivo, conforme lo dispone el artículo 28 octies de esta ley, y ajustándose a lo dispuesto en el inciso cuarto del artículo 7 bis de la ley N° 19.300, sobre Bases Generales del Medio Ambiente.
 
-El proyecto de plan regulador comunal será preparado por la municipalidad respectiva. Elaborado el proyecto, el concejo comunal, antes de iniciar su discusión, deberá:
+De conformidad al inciso quinto del artículo 7 bis de la ley N° 19.300, sobre Bases Generales del Medio Ambiente, el anteproyecto de plan regulador que se elabore contendrá un informe ambiental, que será remitido al Ministerio del Medio Ambiente para sus observaciones. Posteriormente, ambos documentos serán sometidos al siguiente proceso de participación ciudadana:
 
 1. Informar a los vecinos, especialmente a los afectados, acerca de las principales características del instrumento de planificación propuesto y de sus efectos, lo que se hará de acuerdo con lo que señale la Ordenanza General de Urbanismo y Construcciones.
 
-2. Realizar una o más audiencias públicas en los barrios o sectores más afectados para exponer el proyecto a la comunidad, en la forma indicada en la ley Orgánica Constitucional de Municipalidades.
+2. Realizar una o más audiencias públicas en los barrios o sectores más afectados para exponer el anteproyecto a la comunidad, en la forma indicada en la ley Orgánica Constitucional de Municipalidades.
 
-3. Consultar la opinión del consejo económico y social comunal, en sesión citada expresamente para este efecto.
+3. Consultar la opinión del consejo comunal de organizaciones de la sociedad civil, en sesión citada expresamente para este efecto.
 
-4. Exponer el proyecto a la comunidad, con posterioridad a la o las audiencias públicas, por un plazo de treinta días.
+4. Exponer el anteproyecto a la comunidad, con posterioridad a la o las audiencias públicas, por un plazo de treinta días.
 
-5. Vencido dicho plazo se consultará a la comunidad, por medio de una nueva audiencia pública, y al consejo económico y social comunal, en sesión convocada especialmente para este efecto. En dicha sesión deberá presentarse un informe que sintetice las observaciones recibidas.
+5. Vencido dicho plazo se consultará a la comunidad, por medio de una nueva audiencia pública, y al consejo comunal de organizaciones de la sociedad civil, en sesión convocada especialmente para este efecto. En dicha sesión deberá presentarse un informe que sintetice las observaciones recibidas. Tal consulta no será necesaria cuando el informe ambiental declare que el anteproyecto se ajusta al acuerdo del concejo municipal a que se refiere el número 5 del artículo 28 octies.
 
-6. Los interesados podrán formular, por escrito, las observaciones fundadas que estimen convenientes acerca del proyecto hasta quince días después de la audiencia pública a que se refiere el número anterior.
+6. Los interesados podrán formular, por escrito, las observaciones fundadas que estimen convenientes acerca del anteproyecto hasta treinta días después de la audiencia pública a que se refiere el número anterior o del vencimiento del plazo de exposición del anteproyecto a la comunidad, en su caso.
 
-El lugar y plazo de exposición del proyecto y el lugar, fecha y hora de las audiencias públicas deberán comunicarse previamente por medio de dos avisos publicados, en semanas distintas, en algún diario de los de mayor circulación en la comuna o mediante avisos radiales o en la forma de comunicación masiva más adecuada o habitual en la comuna.
+El lugar y plazo de exposición del anteproyecto y el lugar, fecha y hora de las audiencias públicas deberán comunicarse previamente por medio de dos avisos publicados, en semanas distintas, en algún diario de los de mayor circulación en la comuna o mediante avisos radiales o en la forma de comunicación masiva más adecuada o habitual en la comuna. Sin perjuicio de lo anterior, los documentos que integren el anteproyecto del instrumento de planificación territorial deberán estar disponibles en el sitio web municipal desde el inicio del proceso de participación ciudadana, junto con un resumen ejecutivo que incluya, en un lenguaje claro y simple, la descripción del instrumento de planificación y sus principales consecuencias.
 
-Cumplidos los trámites anteriores, el alcalde deberá presentar el proyecto para la aprobación del concejo comunal, junto con las observaciones que hayan hecho llegar los interesados, en un plazo no inferior a quince ni superior a treinta días, contado desde la audiencia pública indicada en el Nº 5.
+Cumplidos los trámites anteriores, el alcalde deberá presentar el anteproyecto para la aprobación del concejo comunal, junto con las observaciones que hayan hecho llegar los interesados, en un plazo no inferior a quince ni superior a treinta días, contado desde que venza el plazo para formular tales observaciones.
 
-El concejo deberá pronunciarse sobre las proposiciones que contenga el proyecto de plan regulador, analizando las observaciones recibidas y adoptando acuerdos respecto de cada una de las materias impugnadas. En caso de que aprobare modificaciones, deberá cautelar que éstas no impliquen nuevos gravámenes o afectaciones desconocidas por la comunidad. No podrá, en todo caso, pronunciarse sobre materias o disposiciones no contenidas en el aludido proyecto, salvo que el proyecto modificado se exponga nuevamente conforme a lo dispuesto en el inciso segundo.
+El concejo deberá pronunciarse sobre las proposiciones que contenga el anteproyecto de plan regulador, dentro de un plazo máximo de sesenta días analizando las observaciones recibidas y adoptando acuerdos respecto de cada una de las materias impugnadas; transcurrido el plazo anterior sin un pronunciamiento expreso, se entenderá que el proyecto fue aprobado. En caso de que aprobare modificaciones, deberá cautelar que éstas no impliquen nuevos gravámenes o afectaciones desconocidas por la comunidad. No podrá, en todo caso, pronunciarse sobre materias o disposiciones no contenidas en el aludido anteproyecto, salvo que el anteproyecto modificado se exponga nuevamente conforme a lo dispuesto en el inciso segundo.
 
-El proyecto aprobado será remitido, con todos sus antecedentes, a la secretaría regional ministerial de Vivienda y Urbanismo respectiva. Dicha secretaría ministerial dentro del plazo de sesenta días, contado desde su recepción, revisará el proyecto y emitirá un informe sobre sus aspectos técnicos.
+El proyecto aprobado será remitido, con todos sus antecedentes, a la secretaría regional ministerial de Vivienda y Urbanismo respectiva. Dicha secretaría ministerial dentro del plazo de sesenta días, contado desde su recepción, revisará el proyecto y emitirá un informe sobre sus aspectos técnicos. Si el proyecto altera la propuesta de modificación del límite urbano contenida en el acuerdo a que se refiere el numeral 5 del artículo 28 octies, el alcalde, junto con enviarlo a la secretaría regional ministerial respectiva, informará de este hecho al Ministerio de Vivienda y Urbanismo, dentro de quinto día, para lo dispuesto en la letra b) del artículo 28 undecies de esta ley, y al Servicio de Impuestos Internos, identificando la zona afectada, con copia al Concejo Municipal.
 
 Si la comuna está normada por un plan regulador metropolitano o intercomunal, el informe de la secretaría regional ministerial será remitido directamente al municipio, junto con el proyecto y sus antecedentes, con copia al gobierno regional. Si el informe es favorable, el proyecto de plan regulador o de plan seccional será promulgado por decreto alcaldicio.
 
@@ -444,8 +554,6 @@ El pronunciamiento del consejo regional se hará sobre la base del informe técn
 
 Aprobado el proyecto de plan regulador en la forma establecida en los tres incisos anteriores, será promulgado por resolución del intendente.
 
-Los actos administrativos que promulguen la aprobación o modificación de un instrumento de planificación territorial deberán publicarse en el Diario Oficial, junto con la respectiva ordenanza. Los planos y la ordenanza correspondiente se archivarán en los Conservadores de Bienes Raíces respectivos, en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo, en la secretaría regional del Ministerio de Vivienda y Urbanismo respectiva y en las municipalidades correspondientes.
-
 La Ordenanza General contemplará normas relativas a los "conjuntos armónicos de edificación", en base a los cuales se podrá autorizar excepciones a la Ordenanza Local del Plan Regulador Comunal.
 
 #### Artículo 44
@@ -454,21 +562,19 @@ El estudio y aprobación del Plan Regulador Comunal, así como sus revisiones, r
 
 #### Artículo 45
 
-Las modificaciones al Plan Regulador Comunal se sujetarán, en lo pertinente, al mismo procedimiento señalado en el inciso primero del artículo 43.
+Las modificaciones al Plan Regulador Comunal se sujetarán, en lo pertinente, al mismo procedimiento señalado en el artículo 43.
 
-Sin embargo, respecto de las enmiendas que incidan en las materias que se indican a continuación, las municipalidades podrán omitir el trámite previsto en la letra c) del inciso primero del artículo 43, y, en tal caso, las publicaciones que dispone la letra d) se entenderán referidas al acuerdo del Consejo de Desarrollo Comunal:
+Sin embargo, respecto de las enmiendas que incidan en las materias que se indican a continuación, las municipalidades aplicarán lo dispuesto en los numerales 1 al 6 del inciso segundo del artículo 43 y en los incisos tercero a quinto del mismo artículo y, una vez aprobadas tales enmiendas por el concejo, serán promulgadas por decreto alcaldicio:
 
 1.- Localización del equipamiento vecinal en los barrios o sectores;
 
-2.- Vialidad interna, dentro de los nuevos proyectos cuyos trazados no alteren los consultados en el Plano Regulador Comunal o Intercomunal, y
+2.- Ajustes en los trazados de los pasajes y de las vías locales o de servicio que tengan un informe favorable de la autoridad regional o metropolitana competente en materia urbanística, y
 
 3.- Disposiciones varias relativas a las condiciones de edificación y urbanización dentro de los márgenes que establezca la Ordenanza General de esta ley.
 
-Estas modificaciones no podrán ser contrarias a los preceptos de este cuerpo legal y sus reglamentos.
-
 #### Artículo 46
 
-En las comunas en que no exista Plan Regulador podrán estudiarse Planes Seccionales, los que se aprobarán conforme a lo prescrito en el inciso primero del artículo 43.
+En las comunas en que no exista Plan Regulador podrán estudiarse Planes Seccionales, los que se aprobarán conforme a lo prescrito en los artículos 28 octies y 43.
 
 #### Artículo 47
 
@@ -484,7 +590,7 @@ d) aquellos centros poblados de una comuna que la Secretaría Regional Ministeri
 
 #### Artículo 48
 
-Las Municipalidades confeccionarán o reactualizarán su Plan Regulador Comunal dentro de los plazos que fijare la Secretaría Regional Ministerial de Vivienda y Urbanismo, debiendo someterlo a su aprobación para los efectos de su vigencia. Si las Municipalidades no cumplieran con esta obligación dentro del plazo fijado, la Secretaría Regional Ministerial respectiva lo hará por cuenta de ellas. En este caso, la Municipalidad respectiva deberá modificar el presupuesto municipal para el año siguiente, creando la partida con cargo a cualquier ítem variable del mismo presupuesto, para atender el gasto correspondiente. Si así no lo hiciere, el Intendente Regional dispondrá la modificación que corresponda del presupuesto municipal.
+Derogado.
 
 #### Artículo 49°
 
@@ -578,6 +684,8 @@ El Plan Regulador señalará los terrenos que por su especial naturaleza y ubica
 
 Igualmente, el Plan Regulador señalará los inmuebles o zonas de conservación histórica, en cuyo caso los edificios existentes no podrán ser demolidos o refaccionados sin previa autorización de la Secretaría Regional de Vivienda y Urbanismo correspondiente.
 
+Todo instrumento de planificación territorial deberá incluir los humedales urbanos existentes en cada escala territorial en calidad de área de protección de valor natural, para efectos de establecer las condiciones bajo las que deberán otorgarse los permisos de urbanizaciones o construcciones que se desarrollen en ellos.
+
 #### Artículo 61°
 
 El cambio de uso del suelo se tramitará como modificación del Plan Regulador correspondiente.
@@ -598,7 +706,7 @@ Cuando resulten terrenos de 2.500 m2. o más, podrán acogerse a los beneficios 
 
 #### Artículo 64°
 
-En las áreas urbanas, los bienes nacionales de uso público que correspondan a terrenos de playa o riberas de mar, de ríos y de lagos navegables, se usarán en concordancia con lo dispuesto en el Plan Regulador y su Ordenanza Local. Las concesiones que la Dirección del Litoral otorgare sobre ellos requerirán el informe previo favorable de la Dirección de Obras Municipales respectiva.
+En las áreas urbanas, los bienes nacionales de uso público que correspondan a terrenos de playa o riberas de mar, de humedales de ríos y de lagos navegables, se usarán en concordancia con lo dispuesto en el Plan Regulador y su Ordenanza Local. Las concesiones que la Dirección del Litoral otorgare sobre ellos requerirán el informe previo favorable de la Dirección de Obras Municipales respectiva.
 
 ## Capítulo V
 
@@ -1380,8 +1488,6 @@ A las ampliaciones de viviendas a que se refiere el inciso primero del artículo
 
 Para urbanizar un terreno, el propietario del mismo deberá ejecutar, a su costa, el pavimento de las calles y pasajes, las plantaciones y obras de ornato, las instalaciones sanitarias y energéticas, con sus obras de alimentación y desagües de aguas servidas y de aguas lluvias, y las obras de defensa y de servicio del terreno.
 
-Sin embargo, cuando las obras que deban ejecutarse beneficien también a otros propietarios, el servicio respectivo determinará el pago proporcional que corresponda al propietario en estas obras, en la forma que determine la Ordenanza General.
-
 Las plantaciones y obras de ornato deberán ser aprobadas y recibidas por la Dirección de Obras Municipales respectiva.
 
 La Ordenanza General establecerá los estándares mínimos de obras de urbanización exigibles fuera del terreno propio, cuando se trate de proyectos desvinculados de la vialidad existente, para los efectos de su adecuada inserción urbana, o su conectividad cuando se trate de proyectos en el área rural conforme al artículo 55.
@@ -1814,7 +1920,7 @@ Las municipalidades podrán solicitar al gobierno regional la elaboración de es
 
 #### Artículo 177
 
-En las áreas metropolitanas o que estén incluidas en un plan regulador metropolitano o intercomunal las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones, con consulta a las municipalidades respectivas, elaborarán un proyecto de plan intercomunal de inversiones en infraestructura de movilidad y espacio público, análogo al previsto en el artículo precedente, pero que contendrá proyectos, obras y medidas incluidas en los instrumentos de planificación de nivel intercomunal o asociadas a éstos. El intendente someterá este proyecto a la aprobación de los alcaldes de las comunas incluidas en el área correspondiente. Obtenida la conformidad de la mayoría absoluta de aquellos, el plan será presentado al consejo regional y promulgado por el intendente luego de su aprobación, remitiendo copia a las municipalidades respectivas.
+En las áreas metropolitanas o que estén incluidas en un plan regulador metropolitano o intercomunal las secretarías regionales ministeriales de Vivienda y Urbanismo y de Transportes y Telecomunicaciones, con consulta a las municipalidades respectivas, elaborarán un proyecto de plan intercomunal de inversiones en infraestructura de movilidad y espacio público, análogo al previsto en el artículo precedente, pero que contendrá proyectos, obras y medidas incluidas en los instrumentos de planificación de nivel intercomunal o asociadas a éstos. El intendente someterá este proyecto a la aprobación de los alcaldes de las comunas incluidas en el área correspondiente. Obtenida la conformidad de la mayoría absoluta de aquellos, el plan será presentado al consejo regional y promulgado por el intendente luego de su aprobación, remitiendo copia a las municipalidades respectivas y publicándolo en el sitio electrónico del Gobierno Regional.
 
 #### Artículo 178
 
@@ -1868,7 +1974,7 @@ De la mitigación y los incentivos en los instrumentos de planificación territo
 
 #### Artículo 183
 
-Cuando los planes reguladores intercomunales establezcan nuevas áreas urbanas o de extensión urbana podrán determinar condiciones adicionales de urbanización y equipamiento para el desarrollo de los proyectos que se emplacen en ellas, incluyendo la ejecución de obras de urbanización fuera del terreno en que se ubica el proyecto, la ejecución de obras o medidas en el sistema de movilidad urbana o que mejoren los espacios públicos, la inclusión de tipos de vivienda o usos de suelo en sus proyectos, la materialización o mejoramiento de equipamientos públicos u otras medidas que promuevan la integración social, todo lo cual se determinará de acuerdo con un estudio de impacto urbano y las reglas que establezca la Ordenanza General.
+Cuando los planes reguladores intercomunales establezcan nuevas áreas urbanas o de extensión urbana podrán determinar condiciones adicionales de urbanización y equipamiento para el desarrollo de los proyectos que se emplacen en ellas, incluyendo la ejecución de obras de urbanización fuera del terreno en que se ubica el proyecto, la ejecución de obras o medidas en el sistema de movilidad urbana o que mejoren los espacios públicos, la inclusión de tipos de vivienda o usos de suelo en sus proyectos, la materialización o mejoramiento de equipamientos públicos u otras medidas que promuevan la integración social y la sustentabilidad urbana, todo lo cual se determinará de acuerdo con un estudio de impacto urbano y las reglas que establezca la Ordenanza General.
 
 El cumplimiento de las condiciones deberá garantizarse mediante cauciones que se ajusten a lo dispuesto en el artículo 173 y su incumplimiento acarreará, además de su cobro, la caducidad de las autorizaciones otorgadas y no ejecutadas.
 
@@ -1876,11 +1982,17 @@ En estos casos deberá considerarse el área de influencia total del proyecto pa
 
 #### Artículo 184
 
-Los planes reguladores comunales podrán otorgar incentivos en las normas urbanísticas aplicadas en todo o parte de su territorio condicionados al desarrollo de espacios públicos o al mejoramiento de los ya existentes, a la materialización, reparación o mejoramiento de equipamientos públicos, a la instalación o incorporación de obras de arte en el espacio público o al cumplimiento de otras condiciones que induzcan o colaboren en el mejoramiento de los niveles de integración social urbana.
+Los planes reguladores comunales podrán otorgar incentivos en las normas urbanísticas aplicadas en todo o parte de su territorio condicionados al desarrollo de espacios públicos o al mejoramiento de los ya existentes, a la materialización, reparación o mejoramiento de equipamientos públicos, a la instalación o incorporación de obras de arte en el espacio público o al cumplimiento de otras condiciones que induzcan o colaboren en el mejoramiento de los niveles de integración social y sustentabilidad urbana.
 
 El cumplimiento de las condiciones anteriores será requisito para la recepción de los proyectos, aplicándoseles lo dispuesto en el artículo 173.
 
 La aprobación de un plan con estos incentivos dejará sin aplicación en el territorio planificado los artículos 63, 107, 108 y 109 de esta ley.
+
+#### Artículo 184 bis
+
+Las viviendas sociales que resulten de la aplicación de los incentivos permitidos en los artículos precedentes o en otras normas se identificarán en los respectivos permisos de edificación y recepciones municipales, y sólo podrán ser adquiridas u ocupadas por personas que cumplan los requisitos relativos a los programas habitacionales específicos a que correspondan esas viviendas o los de los programas que los reemplacen.
+
+Dichas viviendas quedarán sujetas a la prohibición de ser transferidas a personas que no paguen total o parcialmente el precio con el subsidio referido al programa habitacional específico original, o al que lo reemplace.
 
 ## Capítulo V
 
