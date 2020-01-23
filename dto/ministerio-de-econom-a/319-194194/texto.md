@@ -684,6 +684,8 @@ q) Eliminado.
 
 En virtud de las actividades establecidas en las letras f) y l), los titulares de los centros de cultivo deberán informar mensualmente al Servicio la utilización de vacunas, antimicrobianos y de todo otro tipo de tratamientos terapéuticos. Asimismo, los titulares deberán informar, en la forma que establezcan los programas sanitarios antes señalados, los resultados de los tratamientos aplicados.
 
+El Servicio deberá dictar un programa sanitario para la vigilancia del desarrollo de resistencia a los antimicrobianos por parte de los agentes etiológicos de las enfermedades de alto riesgo que se determinen. Dicho programa deberá establecer las condiciones y oportunidad en que los titulares de los centros de cultivo deberán realizar los muestreos y análisis de sensibilidad de antimicrobianos, así como entregar información epidemiológica y las condiciones para realizar pruebas de laboratorio.
+
 #### Artículo 13º
 
 Los Programas Sanitarios Específicos comprenderán:
@@ -804,7 +806,7 @@ En base a los informes derivados de la aplicación de Programas Sanitarios Espec
 
 Esta zonificación comprenderá las siguientes categorías: zona, agrupación de concesiones o centro libre, en vigilancia o infectado, según corresponda, en función de la enfermedad, la extensión, ubicación y delimitación dependiendo del tipo de enfermedad, de su modo de propagación y de su distribución geográfica dentro del país.
 
-Se declarará una zona, agrupación de concesiones o compartimento o centro, libre de enfermedades de Lista 1 o de Lista 2 con programa sanitario específico cuando se cumpla alguno de los siguientes requisitos:
+Se declarará una zona, agrupación de concesiones o compartimento o centro, libre de enfermedades de Lista 1 o de Lista 2 con programa sanitario específico cuando se cumpla uno de los siguientes requisitos:
 
 a) ninguna de las especies susceptibles a la enfermedad se encuentra presente en el centro, compartimento, zona o agrupación de concesiones, para lo cual se deberá contar con antecedentes científicos;
 
@@ -812,13 +814,13 @@ b) se tiene conocimiento científico que el agente patógeno no puede sobrevivir
 
 c) los resultados obtenidos por al menos dos años conforme a un programa de vigilancia epidemiológica
 
-específica han sido negativos, estableciéndose la ausencia de la enfermedad y del agente patógeno; y,
+específica han sido negativos, estableciéndose la ausencia de la enfermedad y del agente patógeno,
 
-d) el centro de cultivo o la agrupación de concesiones ha sido clasificado de conformidad con el artículo 22 Ñ en bioseguridad alta;
+d) Eliminado.
 
 En cualquiera de los casos señalados en las letras precedentes, salvo en el caso de la letra a), se podrá además considerar que se han obtenido diagnósticos negativos a la enfermedad y al agente patógeno en peces silvestres en el área o cuenca del centro, compartimento, agrupación o zona en el plazo de dos años.
 
-Se declarará una zona, compartimento, agrupación de concesiones o centro en vigilancia de enfermedades de Lista 1 o de Lista 2 con programa sanitario específico cuando se cumplan algunos de los siguientes requisitos:
+Se declarará una zona, compartimento, agrupación de concesiones o centro en vigilancia de enfermedades de Lista 1 o de Lista 2 con programa sanitario específico cuando se cumplan uno de los siguientes requisitos:
 
 a) el centro o uno o más de los centros de la agrupación, compartimento o zona han eliminado los peces infectados o han sido tratados de acuerdo a un programa sanitario específico; o,
 
@@ -832,9 +834,31 @@ Hasta por el plazo de dos meses, podrá declararse un centro como sospechoso cua
 
 Los titulares de los centros de cultivo que se encuentren dentro de la zona de vigilancia que se hubiere determinado, podrán solicitar al Servicio la reducción de la misma, acompañando los antecedentes técnicos que la justifican. La resolución que establezca la reducción de la zona de vigilancia o su denegatoria deberá dictarse dentro del plazo de diez días, contado desde la fecha de presentación de la solicitud, la que será publicada en extracto en el Diario Oficial.
 
-#### Artículo 18 bis
+#### Artículo 18
 
-El Servicio podrá establecer medidas de manejo sanitario en áreas que presenten características epidemiológicas, oceanográficas, operativas o geográficas que justifiquen su manejo sanitario coordinado, en las que se establecerán medidas de operación armónicas para todos los centros.
+A. Los compartimentos deberán cumplir las siguientes condiciones mínimas para ser considerados como tales:
+
+a) El o los centros de cultivo que lo compongan deberán estar debidamente inscritos en el Registro Nacional de Acuicultura, y contar con las autorizaciones sectoriales que correspondan;
+
+b) Contar con elementos físicos que separen a la población en cultivo de las poblaciones de especies hidrobiológicas silvestres y de otros centros de cultivo que no sean parte del mismo compartimento;
+
+c) Contar con infraestructura necesaria que dé garantías de un buen manejo de la bioseguridad, conforme lo indique el programa sanitario correspondiente;
+
+d) Contar con el personal necesario e idóneo para dar garantías de una buena gestión de la bioseguridad, conforme lo disponga el programa sanitario respectivo;
+
+e) Contar con un plan de monitoreo sanitario que dé cuenta del estatus zoosanitario particular de una enfermedad o infección determinadas, dicho plan deberá ser complementario a las exigencias de los programas del Servicio; y,
+
+f) Documentar la separación epidemiológica y las características que sustentan el compartimento.
+
+El Servicio dictará un programa sanitario que detalle las exigencias particulares que sean requeridas, con el fin de garantizar el cumplimiento del estatus zoosanitario respecto del cual se solicite realizar zonificación, en atención a la enfermedad o agente etiológico que se trate. La solicitud deberá ser presentada ante el Servicio por el titular del o los centros de cultivo que requieran ser zonificados.
+
+El compartimento deberá autoabastecerse de nuevos ejemplares u obtenerlos de agrupaciones de concesiones, compartimentos, centros o zonas libres de enfermedades o agentes etiológicos de que se trate.
+
+Las pisciculturas que mantengan reproductores, que sean consideradas compartimentos libres o sean parte de un compartimento libre de enfermedades de alto riesgo de lista 2 con programa, se les exceptuarán de la exigencia de desinfección de efluentes, según lo señalado en el inciso final del artículo 23 Q.
+
+#### Artículo 18
+
+B. El Servicio podrá establecer medidas de manejo sanitario en áreas que presenten características epidemiológicas, oceanográficas, operativas o geográficas que justifiquen su manejo sanitario coordinado, en las que se establecerán medidas de operación armónicas para todos los centros.
 
 Dichas medidas serán establecidas previa ejecución de los estudios que funden la existencia de las características comunes señaladas en el inciso anterior.
 
@@ -842,9 +866,9 @@ Las medidas antes señaladas podrán ser establecidas para una o más regiones d
 
 En los casos en que el Servicio establezca una zonificación, deberá considerar las áreas en las que se hayan establecido las medidas de manejo sanitario a esa fecha, debiendo quedar éstas comprendidas en su totalidad dentro de la misma categoría de zona infectada, de vigilancia o libre.
 
-#### Artículo 18 ter
+#### Artículo 18
 
-En caso de brote, enfermedad o infección de enfermedades de Lista 1 o Lista 2 con programa sanitario específico de control y si así lo indica dicho programa, en uno o más centros de cultivo emplazados en lago, río, estuario o mar, se establecerá por resolución del Servicio como zona infectada un radio de 5 millas náuticas medido desde el punto medio del centro o centros afectados, sea que existan o no accidentes geográficos. Se declarará zona en vigilancia, un distancia de 5 millas náuticas medidas alrededor del perímetro del área infectada, sea que existan o no accidentes geográficos. El Servicio podrá considerar dentro del área infectada o de vigilancia la totalidad de una o más agrupaciones de concesiones, fundado en antecedentes epidemiológicos, oceanográficos, operativos o geográficos. En base a antecedentes oceanográficos y epidemiológicos fundados podrá establecerse como zona infectada o de vigilancia una distancia superior a la señalada.
+C. En caso de brote, enfermedad o infección de enfermedades de Lista 1 o Lista 2 con programa sanitario específico de control y si así lo indica dicho programa, en uno o más centros de cultivo emplazados en lago, río, estuario o mar, se establecerá por resolución del Servicio como zona infectada un radio de 5 millas náuticas medido desde el punto medio del centro o centros afectados, sea que existan o no accidentes geográficos. Se declarará zona en vigilancia, un distancia de 5 millas náuticas medidas alrededor del perímetro del área infectada, sea que existan o no accidentes geográficos. El Servicio podrá considerar dentro del área infectada o de vigilancia la totalidad de una o más agrupaciones de concesiones, fundado en antecedentes epidemiológicos, oceanográficos, operativos o geográficos. En base a antecedentes oceanográficos y epidemiológicos fundados podrá establecerse como zona infectada o de vigilancia una distancia superior a la señalada.
 
 #### Artículo 19º
 
@@ -864,7 +888,7 @@ Sólo podrán trasladarse equipos o estructuras que hayan tenido contacto direct
 
 La distancia entre los centros de cultivo integrantes de una agrupación de concesiones de acuicultura será de 1,5 millas náuticas. Esta distancia podrá exceptuarse para relocalizar concesiones de conformidad con el artículo 5º de la ley 20.434, en los casos y sometidas a las condiciones que a continuación se indican y sin perjuicio de efectuar la relocalización en las demás formas previstas en la ley:
 
-a) Relocalizaciones de las concesiones integrantes de una agrupación de concesiones que se hayan originado en una propuesta de ordenamiento formulada por la Subsecretaría, conforme a los antecedentes oceanográficos y sanitarios del área en cuestión que funde el nuevo posicionamiento de las concesiones. Dicha propuesta de ordenamiento consistirá en un conjunto de propuestas de relocalización individual para las concesiones integrantes de la agrupación, debiendo indicarse las coordenadas geográficas del sector en que se propone se relocalice cada concesión y fundando, conforme a antecedentes técnicos, los casos en que no se requiera relocalizar alguna concesión de la agrupación en particular. Los titulares que acepten la propuesta formulada, deberán ingresar a tramitación la relocalización individual correspondiente.
+a) Relocalizaciones, fusiones de concesiones o de fracciones de concesiones integrantes de una o más agrupaciones de concesiones que se hayan originado en una propuesta de ordenamiento formulada por la Subsecretaría, conforme a los antecedentes oceanográficos y sanitarios del área en cuestión que funde el nuevo posicionamiento de las concesiones. Dicha propuesta de ordenamiento consistirá en un conjunto de propuestas de relocalización individual para las concesiones integrantes de la agrupación o agrupaciones, según corresponda, debiendo indicarse las coordenadas geográficas del sector en que se propone se relocalice cada concesión y fundando, conforme a antecedentes técnicos, los casos en que no se requiera relocalizar alguna concesión de la agrupación o agrupaciones, según corresponda. Los titulares que acepten la propuesta formulada, deberán ingresar a tramitación la relocalización individual correspondiente.
 
 En ningún caso las concesiones podrán quedar a una distancia inferior a 200 metros.
 
@@ -880,7 +904,7 @@ iv. El desplazamiento no podrá realizarse para relocalizar concesiones o efectu
 
 #### Artículo 20 ter
 
-El sector que ha sido dejado libre por una concesión relocalizada en otro sector, no podrá volver a ser utilizado para relocalizar una concesión ni para una concesión nueva. Asimismo, para el cálculo de las distancias que deben cumplir las solicitudes de relocalización y las de solicitudes de concesión de acuicultura, se considerará que permanece ocupado el sitio que ha sido dejado libre por una concesión que ha sido relocalizada en otro sector.
+El sector que ha sido dejado libre por una concesión relocalizada en otro sector, no podrá volver a ser utilizado para relocalizar una concesión ni para una concesión nueva. Asimismo, para el cálculo de las distancias que deben cumplir las solicitudes de relocalización y las de solicitudes de concesión de acuicultura, se considerará que permanece ocupado el sitio que ha sido dejado libre por una concesión que ha sido relocalizada en otro sector. No serán aplicables las limitaciones de que trata este artículo en los casos en que las relocalizaciones se hayan originado en una propuesta de ordenamiento formulada por la Subsecretaría, conforme a los antecedentes oceanográficos y sanitarios del área en cuestión.
 
 ## Título VI
 
@@ -936,7 +960,7 @@ Para la realización de necropsias, cada centro de cultivo deberá disponer de u
 
 Cada centro de cultivo deberá contar con un sistema exclusivo de desnaturalización de mortalidad.
 
-Todo sistema de disposición final de mortalidad debe ubicarse en forma independiente de las jaulas. Podrán utilizar un sistema de ensilaje común, los centros de cultivo que integren una misma agrupación de concesiones ubicadas en lagos, que cuenten con una clasificación de bioseguridad alta, de conformidad con el artículo 22 Ñ y tengan el mismo titular.
+Todo sistema de disposición final de mortalidad debe ubicarse en forma independiente de las jaulas.
 
 Todos los centros de cultivo deberán tener planes de contingencia en caso de falla del sistema adoptado o la superación de biomasa a procesar diariamente.
 
@@ -1102,7 +1126,7 @@ N. Todos los equipos que sean empleados en las diversas actividades realizadas e
 
 #### Artículo 22
 
-Ñ. Los centros de cultivo serán clasificados según su nivel de bioseguridad. Una resolución de la Subsecretaría, previo informe técnico, fijará los elementos que el Servicio considerará para la clasificación de cada centro de cultivo, el puntaje y los rangos de la clasificación.
+Ñ. Los centros de cultivo de engorda serán clasificados según su nivel de bioseguridad, conforme lo señalado en el artículo 24 A, sin perjuicio de la clasificación de bioseguridad de las agrupaciones que se realice en virtud del Título XIV. Una resolución de la Subsecretaría, previo informe técnico, fijará los elementos que el Servicio considerará para la clasificación de cada centro de cultivo, el puntaje y los rangos de la clasificación.
 
 La clasificación de bioseguridad por cada centro de cultivo será efectuada por el Servicio conforme a la resolución antes señalada.
 
@@ -1314,7 +1338,7 @@ En el caso de existir mezcla de diferentes grupos o cepas productivas, se deber�
 
 Se deberá realizar la limpieza y desinfección de las estructuras del centro.
 
-Los centros emplazados en estuarios, ríos y lagos solo podrán smoltificar una especie por ciclo productivo, debiendo iniciarse a partir de ese momento el descanso sanitario de un mes, sin perjuicio del descanso coordinado a que se refiere el inciso 1º. La siembra de un ciclo productivo deberá realizarse en un plazo máximo de sesenta, setenta y cinco o noventa días corridos, dependiendo si el centro se encuentra clasificado en bioseguridad baja, media o alta, respectivamente, de conformidad con el procedimiento a que se refiere el artículo 22 Ñ. Vencido el período de siembra de un ciclo productivo, no será posible ingresar nuevos ejemplares al centro hasta que se hayan cumplido las etapas de cosecha, descanso y desinfección correspondientes a dicho ciclo.
+Los centros emplazados en estuarios, ríos y lagos solo podrán smoltificar una especie por ciclo productivo, debiendo iniciarse a partir de ese momento el descanso sanitario de un mes, sin perjuicio del descanso coordinado a que se refiere el inciso 1º. La siembra de un ciclo productivo deberá realizarse en un plazo máximo de sesenta días corridos. Vencido el período de siembra de un ciclo productivo, no será posible ingresar nuevos ejemplares al centro hasta que se hayan cumplido las etapas de cosecha, descanso y desinfección correspondientes a dicho ciclo.
 
 Inciso Eliminado.
 
@@ -1330,9 +1354,11 @@ Los centros de smoltificación emplazados en ríos, lagos y estuarios, sólo pod
 
 P. Las agrupaciones de concesiones que sean declaradas por la Subsecretaría conforme al artículo 2, Nº 52) de la ley, podrán comprender centros dedicados exclusivamente a la smoltificación de especies salmónidos.
 
-La distancia que deberán mantener los centros de smoltificación emplazados en ríos y estuarios respecto de centros de engorda y centros de acopio, será de 3 millas náuticas. La distancia entre centros de smoltificación integrantes de una agrupación de concesiones o entre centros que realicen smoltificación que no sean integrantes de una agrupación, deberá ser de 1,5 millas náuticas. Podrá autorizarse una distancia inferior a la señalada, por resolución de la Subsecretaría y previa aprobación de un estudio que demuestre con antecedentes oceanográficos y epidemiológicos que una distancia inferior no favorece la transmisión y diseminación de patógenos.
+La distancia que deberán mantener los centros de smoltificación emplazados en ríos y estuarios respecto de centros de engorda y centros de acopio, será de 3 millas náuticas. La distancia entre centros de smoltificación integrantes de una agrupación de concesiones o entre centros que realicen smoltificación que no sean integrantes de una agrupación, deberá ser de 1,5 millas náuticas. En los casos en que por el emplazamiento de las concesiones no sea posible mantener la distancia señalada, solo podrá operar el centro de smoltificación si su titular cuenta con un acuerdo firmado ante Notario Público con los titulares de los centros con los que no cumple la distancia, en que se obliguen a no operar en el período en que lo haga el centro de smoltificación. En el caso de las agrupaciones de concesiones dicho acuerdo deberá constar en el plan de manejo. Podrá autorizarse una distancia inferior a la señalada, por resolución de la Subsecretaría y previa aprobación de un estudio que demuestre con antecedentes oceanográficos y epidemiológicos que una distancia inferior no favorece la transmisión y diseminación de patógenos.
 
-La smoltificación en ríos, lagos y estuarios de ejemplares de las especies Salmón del atlántico Salmo salar, Trucha arcoíris Oncorhynchus mykiss, Salmón Coho Oncorynchus kisutch, Salmón rey o Chinook Oncorynchus tschawytscha, sólo podrá realizarse en zonas que hayan sido declaradas libres de enfermedades de alto riesgo sometidas a un programa sanitario específico de control por el Servicio, de acuerdo a las normas sobre zonificación previstas en el Título V de este reglamento.
+Se prohíbe la smoltificación en lagos de ejemplares de la especie Salmón del Atlántico Salmo salar, salvo en los casos de fuerza mayor debidamente calificada por el Servicio por resolución, el que podrá autorizar la mantención temporal en lagos de ejemplares de la especie indicada.
+
+La smoltificación en ríos, lagos y estuarios de ejemplares de las especies Trucha arcoíris Oncorhynchus mykiss, Salmón coho Oncorhynchus kisutch, Salmón rey o Chinook Oncorhynchus tschawytscha solo podrá realizarse en zonas que hayan sido declaradas libres de enfermedades de alto riesgo sometidas a un programa sanitario específico de control por el Servicio, de acuerdo a las normas sobre zonificación previstas en el Título V de este reglamento. A la misma condición queda sometida la smoltificación en ríos y estuarios de ejemplares de la especie Salmón del Atlántico Salmo salar.
 
 #### Artículo 23
 
@@ -1346,7 +1372,7 @@ En las pisciculturas de recirculación o con sistema mixto de cultivo, en caso q
 
 Las pisciculturas que reciban ejemplares o gametos desde pisciculturas que sean clasificadas en bioseguridad baja de conformidad con el artículo 22 Ñ, sólo podrán enviar los ejemplares hacia centros de engorda.
 
-Las pisciculturas que mantengan reproductores deberán contar con tratamiento de efluentes. Exceptúase de esta exigencia a las pisciculturas que toman y descargan agua de un mismo curso o cuerpo de agua que nace, corre y muere dentro de la misma heredad.
+Inciso Eliminado.
 
 ### Párrafo 8º
 
@@ -1388,7 +1414,7 @@ En virtud del desdoble que se realice conforme las condiciones indicadas en el i
 
 En los casos en que el titular del centro de cultivo requiera realizar desdobles en condiciones diferentes a las indicadas en los incisos anteriores, deberá requerir la autorización del Servicio. Con todo, las eliminaciones de ejemplares que se originen en estas autorizaciones serán consideradas pérdidas conforme a las reglas generales.
 
-El plan de siembra de los ejemplares, las dimensiones de las estructuras de cultivo y el sistema de cosecha a utilizar en el centro deberán ser comunicados a la Subsecretaría, el 15 de febrero o 16 de agosto según corresponda de acuerdo al semestre fijado para la determinación de la densidad de cultivo de la agrupación, conforme al inciso 2° del artículo 58 M, indicando las especies a sembrar, el número de ejemplares, la identificación de los centros de cultivo a operar, rango de inicio de siembra, número de peces que permanecen en cultivo, meses que restan para terminar el ciclo productivo en curso y deberá adjuntarse una declaración jurada que indique la especie, centro de origen y cantidad de alevines, smolt o juveniles que serán parte del período productivo. Esta información se entregará en un formulario que pondrá a disposición la Subsecretaría a través de su página web. Un mes antes de realizar la siembra efectiva del centro de cultivo, el titular deberá entregar al Servicio la información relativa a dicha siembra. Conforme a dicha información el Servicio revisará el estatus sanitario del centro, agrupación o zona y verificará el cumplimiento de los requisitos exigidos para la siembra por uno o más programas sanitarios específicos, cuando corresponda y que el número ejemplares a sembrar se encuentre dentro de lo autorizado por la resolución de calificación ambiental vigente para el centro de cultivo, cuando proceda. En el evento que de la revisión de los antecedentes se derive el incumplimiento de algunas de las condiciones para proceder a la siembra en el centro de cultivo respectivo, incluyendo las establecidas en las disposiciones del Título XIV del presente reglamento, en lo que corresponda. el Servicio deberá notificar esta circunstancia dentro del plazo de un mes desde la presentación quedando prohibida dicha actividad.
+El plan de siembra de los ejemplares, las dimensiones de las estructuras de cultivo y el sistema de cosecha a utilizar en el centro deberán ser comunicados a la Subsecretaría, el 15 de febrero o 16 de agosto según corresponda de acuerdo al semestre fijado para la determinación de la densidad de cultivo de la agrupación, conforme al inciso 2° del artículo 58 M, indicando las especies a sembrar, el número y peso promedio de los ejemplares, o registro de peso promedio más cercano al 31 de julio o 31 de enero de acuerdo a semestre de cálculo, peso promedio de cosecha de los ejemplares estimado por centro, la identificación de los centros de cultivo a operar, rango de inicio de siembra, número de peces que permanecen en cultivo, meses que restan para terminar el ciclo productivo en curso y deberá adjuntarse una declaración jurada que indique la especie, centro de origen y cantidad de alevines, smolt o juveniles que serán parte del período productivo. Esta información se entregará en un formulario que pondrá a disposición la Subsecretaría a través de su página web. Un mes antes de realizar la siembra efectiva del centro de cultivo, el titular deberá entregar al Servicio la información relativa a dicha siembra. Conforme a dicha información el Servicio revisará el estatus sanitario del centro, agrupación o zona y verificará el cumplimiento de los requisitos exigidos para la siembra por uno o más programas sanitarios específicos, cuando corresponda y que el número ejemplares a sembrar se encuentre dentro de lo autorizado por la resolución de calificación ambiental vigente para el centro de cultivo, cuando proceda. En el evento que de la revisión de los antecedentes se derive el incumplimiento de algunas de las condiciones para proceder a la siembra en el centro de cultivo respectivo, incluyendo las establecidas en las disposiciones del Título XIV del presente reglamento, en lo que corresponda. el Servicio deberá notificar esta circunstancia dentro del plazo de un mes desde la presentación quedando prohibida dicha actividad.
 
 El titular de la concesión deberá comunicar a la Subsecretaría el momento en que se inicie el último mes de cosecha del ciclo productivo en curso, para lo cual se dispondrá de un formulario en la página web de la Subsecretaría..
 
@@ -1419,6 +1445,8 @@ Por resolución de la Subsecretaría se establecerán los tramos de la clasifica
 Inciso Eliminado.
 
 No se aplicará la disminución de la siembra en el ciclo siguiente, en los casos en que el centro de cultivo afectado descanse voluntariamente en el período productivo inmediatamente siguiente a aquel que originó la disminución.
+
+Por resolución de la Subsecretaría se establecerá la forma de contabilizar las pérdidas de los centros de cultivo de engorda, su imputación y como serán consideradas dentro de la estadística de los centros de cultivo involucrados, cuando los titulares de los centros de cultivo afectados por situaciones de floraciones algales nocivas u otros eventos ambientales o sanitarios o de fuerza mayor, hayan debido realizar, previa autorización del servicio, la siembra de ejemplares en otros centros de cultivo distintos de aquellos en que se hubiera previsto la siembra originalmente o se haya debido realizar traslados.
 
 ## Título VII
 
@@ -1662,7 +1690,7 @@ c) El centro, compartimento, agrupación o zona infectada no puede despachar eje
 
 d) Un centro sospechoso no puede despachar ni recibir ejemplares hasta que sea definida su situación en una categoría de libre, en vigilancia o infectado, a excepción del transporte de cosecha viva la que deberá realizarse en embarcaciones que posean circuito cerrado de circulación de agua o que tengan método de desinfección de efluentes autorizados por el Servicio.".
 
-No obstante lo anterior, quedará prohibido el movimiento de especies hidrobiológicas vivas, desde centros evaluados con una bioseguridad baja hacia centros evaluados con una bioseguridad alta, de acuerdo a lo establecido en el artículo 22 Ñ.
+Inciso Eliminado.
 
 #### Artículo 49º
 
@@ -1786,7 +1814,7 @@ El Servicio fiscalizará la incorporación de antimicrobianos, antifúngicos, an
 
 Los tratamientos terapéuticos que consistan en sustancias antimicrobianas, antifúngicos y antiparasitarios aplicados a poblaciones de especies hidrobiológicas deberán estar avalados por la prescripción escrita de un médico veterinario. El uso de prescripciones médico veterinarias digitales deberá validarse previamente por el Servicio.
 
-La aplicación de los tratamientos terapéuticos requerirá un diagnóstico clínico previo realizado por el profesional respectivo. Asimismo, previo a la aplicación de antimicrobianos, deberán obtenerse muestras para la posterior confirmación del diagnóstico mediante análisis de laboratorios. La aplicación de antimicrobianos podrá realizarse encontrándose pendientes los resultados de los análisis. Cada tratamiento antimicrobiano deberá estar respaldado por la realización de un antibiograma o CIM. En cualquier caso el tratamiento deberá contar con el respaldo de análisis de laboratorio.
+La aplicación de los tratamientos terapéuticos requerirá un diagnóstico clínico previo realizado por el profesional respectivo. Asimismo, previo a la aplicación de antimicrobianos, deberán obtenerse muestras para la posterior confirmación del diagnóstico mediante análisis de laboratorios. La aplicación de antimicrobianos podrá realizarse encontrándose pendientes los resultados de los análisis. En cualquier caso el tratamiento deberá contar con el respaldo de análisis de laboratorio.
 
 Los productos farmacéuticos utilizados deberán administrarse según las indicaciones de la prescripción médico veterinaria, la que deberá ajustarse a la ley Nº18.755 y sus normas complementarias o la normativa que la reemplace.
 
@@ -1928,11 +1956,11 @@ Si por motivos que no pudieron preverse inicialmente, una actividad de experimen
 
 En todos los casos de actividades de experimentación a que se refieren los incisos anteriores, deberán entregarse a la Subsecretaría los resultados detallados de tales actividades, sea en informes de avance o en un informe final conforme se haya requerido al momento de autorizar la actividad respectiva conforme al artículo 67 ter de la ley.
 
-Deberá existir una distancia mínima de tres millas náuticas entre los vértices de las concesiones fronterizas de cada una de las agrupaciones, entendiendo por tales, aquéllas que se encuentran en el área periférica de la agrupación. La distancia de tres millas náuticas no será aplicable en los casos en que por condiciones oceanográficas o epidemiológicas no se justifique, lo que deberá estar fundado en estudios que demuestren que a menor distancia no existe riesgo sanitario de una agrupación de concesiones a otra. La solicitud deberá ser presentada por el o los titulares interesados, fundada en los estudios realizados, y deberá ser aprobada por resolución de la Subsecretaría, la que deberá determinar el área específica en que no procederá la aplicación de la distancia de tres millas náuticas y el fundamento de dicha medida. Dicha resolución se publicará en el Diario Oficial y no producirá efectos sino transcurrido un mes desde la publicación.
+Deberá existir una distancia mínima de tres millas náuticas entre los vértices de las concesiones fronterizas de cada una de las agrupaciones, entendiendo por tales, aquéllas que se encuentran en el área periférica de la agrupación. La distancia de tres millas náuticas no será aplicable en los casos en que por condiciones oceanográficas o epidemiológicas no se justifique, lo que deberá estar fundado en estudios que demuestren que a menor distancia no existe riesgo sanitario de una agrupación de concesiones a otra. La solicitud deberá ser presentada por el o los titulares interesados, fundada en los estudios realizados, y deberá ser aprobada por resolución de la Subsecretaría, la que deberá determinar el área específica en que no procederá la aplicación de la distancia de tres millas náuticas y el fundamento de dicha medida. Dicha resolución se publicará en el Diario Oficial y no producirá efectos sino transcurrido un mes desde la publicación. La distancia de tres millas náuticas de que trata de este inciso no será aplicable a las relocalizaciones que se originen en una propuesta de la Subsecretaría, conforme al artículo 20 bis.
 
 #### Artículo 58
 
-H. Las agrupaciones de concesiones serán sometidas a medidas sanitarias cuya mayor o menor exigencia dependerá del riesgo que sea determinado, conforme a la evaluación que se realice respecto de cada una de ellas. Para tales efectos, las agrupaciones serán sometidas a una clasificación de bioseguridad que considerará los elementos ambientales sanitarios y productivos de los centros integrantes de la agrupación que se indican en el artículo 58 Ñ, así como la clasificación individual efectuada de conformidad con el artículo 22 Ñ.
+H. Las agrupaciones de concesiones serán sometidas a medidas sanitarias cuya mayor o menor exigencia dependerá del riesgo que sea determinado, conforme a la evaluación que se realice respecto de cada una de ellas. Para tales efectos, las agrupaciones serán sometidas a una clasificación de bioseguridad que considerará los elementos ambientales sanitarios y productivos de los centros integrantes de la agrupación que se indican en el artículo 58 Ñ, así como la clasificación individual efectuada de conformidad con el artículo 24 A.
 
 INCISOS ELIMINADOS.
 
@@ -1986,9 +2014,9 @@ Cada agrupación de concesiones deberá designar un coordinador de la misma, y c
 
 #### Artículo 58
 
-J. El titular de una o más concesiones dentro de una agrupación de concesiones podrá suscribir un programa de manejo aplicable a todos sus centros de cultivo que se encuentren dentro de la misma agrupación, adoptando, por uno o más de un período productivo, el porcentaje de reducción de siembra individual cuya determinación se regirá por los artículos 59 a 64 de este reglamento.
+J. El titular podrá suscribir un programa de manejo para todos los centros de cultivo de que sea titular y que correspondan al mismo semestre de fijación de la densidad de cultivo, adoptando, por uno o más de un período productivo, el porcentaje de reducción de siembra individual cuya determinación se regirá por los artículos 59 a 64 de este reglamento.
 
-Podrá incorporarse además al programa de manejo individual la medida de aumento de hasta un 3% en el número de peces por período productivo, en el caso que su o sus centros de cultivo obtengan una clasificación de bioseguridad alta.
+Inciso Eliminado.
 
 El programa de manejo será suscrito por el titular mediante instrumento autorizado ante Notario y deberá ser aprobado por la Subsecretaría.
 
@@ -2062,7 +2090,7 @@ Inciso Eliminado.
 
 De conformidad con el artículo 71 B, el Servicio emitirá a partir del cuarto mes de iniciado el período productivo, trimestralmente, un reporte con la información ambiental y de pérdidas de los centros de cultivo integrantes de la agrupación.
 
-A partir de la clasificación de bioseguridad en alta, media o baja obtenida por la agrupación, se determinará una densidad de cultivo para la misma, expresada en kg/m³ y en el número máximo de ejemplares a ingresar a la agrupación de concesiones en el período productivo siguiente. No se podrá ingresar un mayor número de peces a la agrupación de concesiones a aquel que resulte de la fijación de la densidad, salvo lo indicado en el artículo 58 T inciso 1º.
+A partir de la clasificación de bioseguridad en alta, media o baja obtenida por la agrupación, se determinará una densidad de cultivo para la misma, expresada en kg/m³ y en el número máximo de ejemplares a ingresar a la agrupación de concesiones en el período productivo siguiente. El número máximo de ejemplares a sembrar en una agrupación de concesiones corresponderá a aquél que se haya fijado en la resolución respectiva. No se podrá ingresar un mayor número de peces a la agrupación de concesiones a aquel que resulte de la fijación de la densidad, salvo lo indicado en el artículo 58 T inciso 1º.
 
 #### Artículo 58
 
@@ -2108,7 +2136,7 @@ R. No se fijará densidad de cultivo por agrupación en el caso que las concesio
 
 Las concesiones nuevas entregadas por la Autoridad Marítima antes de seis meses del inicio del descanso coordinado, fijado para la agrupación, deberán hacer entrega de su plan de siembra de conformidad con el artículo 24 y quedarán sometidas a la densidad de cultivo que sea fijada para la agrupación respectiva. Las concesiones nuevas entregadas por la Autoridad Marítima en una fecha posterior a los seis meses antes del inicio del descanso coordinado, fijado para la agrupación o en una fecha posterior, sea del descanso o del período productivo, no se someterán a la densidad de cultivo de la misma sino a la que haya fijado la Subsecretaría para los centros de cultivo de engorda. Estas disposiciones no serán aplicables a las concesiones que hayan sido otorgadas en virtud de una relocalización.
 
-A la densidad de cultivo que hubiere fijado la Subsecretaría por resolución vigente para centros de engorda quedarán también sometidas las agrupaciones en que hayan operado menos del 10% de las concesiones integrantes de las mismas en los dos últimos períodos productivos y siempre que hayan obtenido una clasificación de bioseguridad alta, de conformidad con el artículo 24 A.
+Inciso Eliminado.
 
 #### Artículo 58
 
@@ -2138,9 +2166,9 @@ El Servicio deberá informar semestralmente a la Subsecretaría, acerca de los c
 
 En el caso que la excepción consista en el traslado de siembra a otro centro de cultivo de la misma agrupación, serán aplicables las condiciones indicadas en las letras b), c), e) y f) del inciso 2º de este artículo.
 
-El número máximo de peces a sembrar en una agrupación de concesiones corresponderá a la suma de ejemplares que consten en todas las declaraciones informadas por los titulares de los centros de cultivo de la agrupación de concesiones de acuerdo al artículo 24 del presente reglamento, descontado el número que corresponda por la reducción de siembra que haya sido aplicada de conformidad con el artículo 24 A.
+Inciso Eliminado.
 
-Si una vez fijada la densidad en forma definitiva, sea porque no hubo reclamación conforme al artículo 86 bis de la ley o ella hubiere sido resuelta, o bien al término de las siembras efectivas, no se hubiere alcanzado el número máximo de ejemplares a ingresar en la agrupación, se podrá solicitar la siembra de ejemplares en los centros de cultivo de la agrupación, respetando los descansos sanitarios coordinados, hasta completar el número máximo de ejemplares a ingresar.
+Si una vez fijada la densidad en forma definitiva, sea porque no hubo reclamación conforme al artículo 86 bis de la ley o ella hubiere sido resuelta, o bien al término de las siembras efectivas, no se hubiere alcanzado el número máximo de ejemplares a ingresar en la agrupación, se podrá solicitar la siembra de ejemplares en los centros de cultivo de la agrupación, respetando los descansos sanitarios coordinados, hasta completar el número máximo de ejemplares a ingresar. Solo podrán optar a esta última siembra, los titulares que se hayan sometido a la densidad de cultivo. Una resolución de la Subsecretaría determinará el procedimiento para asignar esta siembra.
 
 #### Artículo 58
 
@@ -2160,7 +2188,7 @@ Para los efectos del porcentaje de reducción de siembra se considerará titular
 
 Conforme al desempeño sanitario obtenido durante cada período productivo, la Subsecretaría elaborará la propuesta de porcentaje de reducción de siembra, lo que comprenderá el número total de ejemplares de peces que será posible ingresar a los centros de cultivo del mismo titular en el próximo período productivo, sea que se realicen uno o dos ciclos productivos. Cuando corresponda, dicho porcentaje se ajustará al término de cada período productivo para el próximo, conforme al desempeño sanitario obtenido durante aquel.
 
-En ningún caso será procedente el porcentaje de reducción de siembra individual cuando el promedio de pérdidas obtenidas por los centros de cultivo del mismo titular sea superior al 20%.
+Inciso Eliminado
 
 El porcentaje de reducción de siembra individual será determinado por la Subsecretaría considerando las variables que a continuación se indican en el período productivo inmediatamente anterior:
 
@@ -2168,19 +2196,23 @@ a) Pérdidas del o de los centros de cultivo del mismo titular, conforme a lo in
 
 b) Indicadores sanitarios de todos los centros de cultivo del mismo titular, asociados a una enfermedad o infección sometida a un programa específico de control, que se vean deteriorados en la medida en que aumentan los niveles de biomasa.
 
+c) Indicador de consumo de antibiótico para la producción de especies salmónidas en un período productivo.
+
 Una resolución de la Subsecretaría fijará los indicadores sanitarios que deberán ser considerados en el caso de la letra b) y la ponderación de las variables indicadas en las letras a) y b). La misma resolución establecerá los porcentajes de reducción de siembra individual que sean procedentes, conforme a la clasificación de bioseguridad del o de los centros de cultivo del mismo titular, según corresponda.
 
 El porcentaje de reducción de siembra se calculará sobre los abastecimientos inmediatamente anteriores al periodo productivo para el cual deba fijarse. Si la intención de siembra informada en la oportunidad que señala el artículo 24, es menor al abastecimiento anterior, el porcentaje de reducción de siembra corresponderá a la diferencia que entre ambos números resulte, la que se expresará en el porcentaje que tal diferencia represente respecto del abastecimiento anterior. En ningún caso el número de peces a sembrar que resulte de aplicar el porcentaje de reducción de siembra puede ser mayor al número de peces que el titular declare en la oportunidad que se señala en el artículo 24.
 
 #### Artículo 61
 
-La distribución del porcentaje de reducción de siembra individual en el caso que el titular tenga dos o más centros, podrá realizarse entre centros de la misma agrupación o de otra u otras agrupaciones, cualquiera sea la macrozona o región, todo lo cual deberá ser incorporado a un programa de manejo. En el caso que la distribución comprenda centros de distintas agrupaciones, la receptora deberá ser una de aquellas cuya densidad es fijada en el mismo semestre que la agrupación de origen.. En ningún caso dicha distribución podrá vulnerar, cuando corresponda, la operación máxima prevista para cada año en la resolución de calificación ambiental de cada uno de los centros de cultivo respectivos.
+La distribución del porcentaje de reducción de siembra individual en el caso que el titular tenga dos o más centros, podrá realizarse entre centros de la misma agrupación o de otra u otras agrupaciones, todo lo cual deberá ser incorporado a un programa de manejo. La distribución entre agrupaciones indicada podrá realizarse entre las regiones X y XI respecto de los centros de cultivo ubicados en tales regiones y entre las agrupaciones de la XII región respecto de los centros de cultivo ubicados en ella. En el caso que la distribución comprenda centros de distintas agrupaciones, la receptora deberá ser una de aquellas cuya densidad es fijada en el mismo semestre que la agrupación de origen.. En ningún caso dicha distribución podrá vulnerar, cuando corresponda, la operación máxima prevista para cada año en la resolución de calificación ambiental de cada uno de los centros de cultivo respectivos.
 
 No podrá incorporarse al programa de manejo un porcentaje de reducción de siembra menor al propuesto por la Subsecretaría que tenga el efecto de reemplazar la medida de densidad de cultivo de la agrupación aplicable al centro. En caso que el porcentaje de reducción de siembra sea mayor al propuesto por la Subsecretaría, será aprobado para el período productivo siguiente. Sin embargo, para el cálculo correspondiente al período productivo subsiguiente, será considerado el porcentaje que hubiere sido propuesto originalmente por la Subsecretaría y no el que finalmente se suscribió.
 
 Todos los centros de cultivo sometidos a un porcentaje de reducción de siembra individual, quedarán sometidos a la densidad de cultivo para centros de engorda establecida por resolución vigente del Servicio.
 
-Si al término del período productivo los centros de cultivo del mismo titular son clasificados en bioseguridad alta, el titular podrá aumentar hasta en un 3% el número de peces a sembrar en el período siguiente.
+Si al término del período productivo los centros de cultivo de un mismo titular han obtenido pérdidas iguales o inferiores al 14%, podrán aumentar el número de peces a sembrar en el período siguiente, de acuerdo a los indicadores y en los porcentajes que establezca la resolución a que se refiere el artículo 60, la que en ningún caso podrá considerar más de un 9%.
+
+En ningún caso será procedente el aumento del número de peces a sembrar en el periodo siguiente cuando el promedio de pérdidas obtenidas por los centros de cultivo del mismo titular sea superior al 14%".
 
 #### Artículo 61
 
@@ -2206,7 +2238,7 @@ En caso que el porcentaje de reducción de siembra se realice respecto de las mi
 
 Vencido el plazo de 7 días hábiles sin que se haya comunicado la opción por el porcentaje de reducción de siembra, los centros de cultivo del titular quedarán sometidos a la medida de densidad de cultivo por agrupación.
 
-En caso de haberse comunicado el ejercicio de la opción de sometimiento al porcentaje de reducción de siembra, la Subsecretaría verificará el cumplimiento de los requisitos que hacen procedente la medida y deberá emitir una nueva propuesta de densidad de cultivo para la agrupación de origen, indicando la aceptación o rechazo de la opción de porcentaje de reducción de siembra en el plazo de 10 días hábiles. En caso de rechazo, la Subsecretaría podrá remitir una contrapropuesta de porcentaje de reducción de siembra.
+En caso de haberse comunicado el ejercicio de la opción de sometimiento al porcentaje de reducción de siembra, la Subsecretaría verificará el cumplimiento de los requisitos que hacen procedente la medida, indicando la aceptación o rechazo de la opción de porcentaje de reducción de siembra en el plazo de 10 días hábiles. En caso de rechazo, la Subsecretaría podrá remitir una contrapropuesta de porcentaje de reducción de siembra.
 
 Solo en caso de aceptar la contrapropuesta y dentro del plazo de un mes contado desde la fecha de la propuesta original de densidad de cultivo, los titulares deberán presentar el programa de manejo definitivo en que incorporan el porcentaje de reducción de siembra, el que deberá ser aprobado o rechazado por la Subsecretaría en el plazo de 7 días hábiles.
 
@@ -2222,7 +2254,7 @@ De verificarse algunas de las condiciones indicadas en el inciso anterior, la re
 
 En los casos en que se aplique el porcentaje de reducción de siembra individual, no se aplicará la reducción de siembra prevista en el artículo 24 A para los centros de cultivo sometidos a dicho porcentaje.
 
-Todos los centros de cultivo de un titular dentro del mismo semestre deberán quedar sometidos a idéntico régimen, sea de densidad de cultivo o de porcentaje de reducción de siembra individual.
+Los centros de cultivo del mismo titular ubicados en las regiones de Los Lagos y de Aysén del General Carlos Ibáñez del Campo, dentro del mismo semestre, deberán quedar sometidos a idéntico régimen, sea de densidad de cultivo o de porcentaje de reducción de siembra individual, independientemente del régimen por el que opten para sus centros ubicados en la Región de Magallanes. Asimismo, el titular deberá optar por un solo régimen de densidad de cultivo o porcentaje de reducción de siembra para todos sus centros, ubicados en la Región de Magallanes y de la Antártica Chilena, dentro del mismo semestre.
 
 ## Título XV
 
@@ -2348,7 +2380,7 @@ B. El Servicio emitirá los siguientes informes:
 
 a) Informes semestrales en base a los análisis de los datos y resultados obtenidos a través de la aplicación de los programas sanitarios específicos, los que serán remitidos a la Subsecretaría;
 
-b) Informe anual sobre el uso de antimicrobianos a nivel nacional, el que deberá incluir un resumen de los antibiogramas o CIM efectuados durante el período; y,
+b) Informe anual sobre el uso de antimicrobianos a nivel nacional;
 
 c) Resumen semestral de los desoves de especies hidrobiológicas, las técnicas de diagnóstico utilizadas y sus resultados, conforme a la información entregada por los laboratorios de diagnóstico.
 

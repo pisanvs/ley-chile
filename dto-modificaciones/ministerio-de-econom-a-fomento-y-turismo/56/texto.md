@@ -1916,7 +1916,7 @@ b) dos años contados desde la publicación del presente decreto en el Diario Of
 
 Las mayores distancias entre las concesiones fronterizas de las agrupaciones de concesiones que se originen en el proceso de relocalización, deberán mantenerse sin que puedan relocalizarse otras concesiones ni otorgarse nuevas concesiones de peces en dichos espacios.
 
-La densidad de cultivo de las concesiones antes señaladas será la correspondiente a la agrupación de concesiones de la que son integrantes, de conformidad con el reglamento al que hace referencia el artículo 86 bis de la ley.
+La densidad de cultivo de las concesiones antes señaladas será la correspondiente a la agrupación de concesiones de la que son integrantes, de conformidad con el reglamento al que hace referencia el artículo 86 bis de la ley. No serán aplicables las limitaciones de distancia de que tratan los dos incisos anteriores en los casos en que las relocalizaciones se hayan originado en una propuesta de ordenamiento formulada por la Subsecretaría, conforme a los antecedentes oceanográficos, ambientales o sanitarios del área en cuestión.
 
 #### Artículo 11
 
