@@ -30,9 +30,9 @@ c. Comunicación de resultados de la fase de habilitación de las postulaciones:
 
 d. Presentación de los proyectos: desde el 29 de noviembre al 9 de diciembre de 2019.
 
-e. Revisión y Calificación de los proyectos: desde el 10 de diciembre de 2019 al 20 de enero de 2020. Hasta esta fecha se permitirá que se ingresen en Serviu los contratos de construcción y de asistencia técnica de los proyectos que estén en evaluación.
+e. Revisión y Calificación de los proyectos: desde el 10 de diciembre de 2019 al 10 de febrero de 2020. Hasta esta fecha se permitirá que se ingrese en Serviu los contratos de construcción y de asistencia técnica de los proyectos que estén en evaluación.
 
-f. A partir del 22 de enero de 2020 se iniciará el proceso de Selección de las postulaciones al presente llamado.
+f. A partir del 11 de febrero de 2020 se iniciará el proceso de Selección de las postulaciones al presente llamado.
 
 3. Los recursos disponibles para la selección de proyectos de este llamado, serán los siguientes montos por región.
 
