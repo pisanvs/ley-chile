@@ -110,120 +110,82 @@ La siguiente información también debe estar documentada en el Certificado Fito
 
 3. Adicionalmente el envío de fruta fresca de palta deberá cumplir con las siguientes medidas fitosanitarias que deberán ser verificadas por el inspector Senasa antes de emitir el Certificado Fitosanitario, según las especificaciones establecidas en el Plan de Trabajo para la Exportación de Frutos Frescos para Consumo de Palto (Persea americana) var. Hass desde los Departamentos de Moquegua, Tacna, Ica, Lima, La Libertad y Arequipa, de Perú, a Chile:
 
-3.1. El envío procede de un lugar
+3.1. El envío procede de un lugar de producción registrado,
 
-de producción registrado, que
+que fue inspeccionado durante el período de
 
-fue inspeccionado durante el
+crecimiento activo del fruto hasta antes de la
 
-período de crecimiento activo
+cosecha, encontrándose libre de Stenoma catenifer.
 
-del fruto hasta antes de la
+3.2. El envío fue inspeccionado y se encuentra libre de
 
-cosecha, encontrándose libre
+Ferrisia malvastra, Ferrisia virgata, Nipaecoccus
 
-de Stenoma catenifer.
-
-3.2. El envío fue inspeccionado y
-
-se encuentra libre de Ferrisia
-
-malvastra, Ferrisia virgata,
-
-Nipaecoccus nipae, Anastrepha spp.
-
-y Ceratitis capitata.
+nipae, Anastrepha spp. y Ceratitis capitata.
 
 4. Adicionalmente cada envío de frutos frescos para consumo de palta deberá cumplir con los siguientes requisitos fitosanitarios:
 
-4.1 El envío deberá encontrarse
+4.1 El envío deberá encontrarse libre de suelo.
 
-libre de suelo.
+4.2 Las paltas deberán haber sido cosechadas del árbol
 
-4.2 Las paltas deberán haber sido
+con un mínimo grado de madurez del 21,5 por ciento
 
-cosechadas del árbol con un
+de materia seca.
 
-mínimo grado de madurez del
+4.3 Las paltas deberán haber sido sometidas a un cepillado
 
-21,5 por ciento de materia seca.
+en la empacadora y limpiadas de todos los restos
 
-4.3 Las paltas deberán haber sido
+vegetales.
 
-sometidas a un cepillado en la
+4.4 El envío deberá venir en envases y material de
 
-empacadora y limpiadas de
+acomodación de primer uso, no permitiéndose el
 
-todos los restos vegetales.
+reenvase. Los envases deberán llevar la siguiente
 
-4.4 El envío deberá venir en envases
-
-y material de acomodación de primer
-
-uso, no permitiéndose el reenvase.
-
-Los envases deberán llevar la
-
-siguiente leyenda ubicada en la
-
-cara frontal de la caja:
+leyenda ubicada en la cara frontal de la caja:
 
 .
 
 (*) En el caso de Departamentos que cuentan con autorización en la totalidad de su territorio, se deberá especificar sólo la información del Departamento, mientras que para aquellos Departamentos que disponen de autorización a nivel de Provincias y Distritos, tendrá que especificarse la información completa de la unidad territorial de origen, eso significará detallar Departamento/Provincia o Departamento/Provincia/Distrito.
 
-4.5 El material de embalaje debe ser
+4.5 El material de embalaje debe ser adecuado para
 
-adecuado para eventuales acciones
+eventuales acciones de tratamientos cuarentenarios
 
-de tratamientos cuarentenarios en
+en los puntos de ingreso.
 
-los puntos de ingreso.
+4.6 Los medios de transporte (camión frigorífico o
 
-4.6 Los medios de transporte (camión
+encarpado, y contenedor) deberán venir sellados
 
-frigorífico o encarpado, y
+y/o precintados por la autoridad fitosanitaria
 
-contenedor) deberán venir sellados
+competente. En el caso que el transporte sea
 
-y/o precintados Por la autoridad
+vía aérea, los pallets deberán estar protegidos
 
-fitosanitaria competente. En el
+con malla tipo mosquitera o cubiertos por plástico
 
-caso que el transporte sea vía
+y contar con su sello o precinto en cada unidad.
 
-aérea, los pallets deberán estar
+4.7 La madera de los embalajes y pallets, como también
 
-protegidos con malla tipo
+la madera utilizada como material de acomodación,
 
-mosquitera o cubiertos por
+debe estar libre de corteza; debiendo además
 
-plástico y contar con su sello
+cumplir con las regulaciones cuarentenarias para
 
-o precinto en cada unidad.
-
-4.7 La madera de los embalajes y
-
-pallets, como también la madera
-
-utilizada como material de
-
-acomodación, debe estar libre
-
-de corteza; debiendo además
-
-cumplir con las regulaciones
-
-cuarentenarias para el ingreso
-
-de embalaje de madera.
+el ingreso de embalaje de madera.
 
 5. Los envíos serán inspeccionados a su arribo al país por los profesionales del Servicio Agrícola y Ganadero destacados en el punto de ingreso, quienes verificarán el cumplimiento de los requisitos y condiciones fitosanitarias, y con la documentación adjunta, resolverán su internación.
 
 6. Apruébase el "Plan de Trabajo para la Exportación de Frutos Frescos para Consumo de Palto (Persea americana), var. Hass desde los Departamentos de Moquegua, Tacna, Ica, Lima, La Libertad y Arequipa, de Perú, a Chile", acordado y suscrito por las autoridades fitosanitarias de ambos países.
 
 7. Elimínese de la resolución Nº 2.948, de 2010, que establece requisitos fitosanitarias de importación a frutos frescos para consumo de palta (Persea americana) procedentes de los departamentos del Perú que se indican, en el primer párrafo de la parte resolutiva "y Hass" y la frase "y de la variedad Hass procedente de los Departamentos de Ica, Lima y La Libertad,"; y del numeral 2.3 del mismo cuerpo normativo reemplácese la frase "cuando la fruta proviene de los Departamentos de Ica, Lima, Arequipa, y La Libertad", por la siguiente "cuando la fruta proviene del Departamento de Arequipa".
-
-> **Nota.** El Nº 1 de la Resolución 1987 Exenta, Agricultura, publicada el 11.04.2023, deja sin efecto, provisionalmente, la autorización otorgada por medio de la presente norma y sus modificaciones, al Departamento de Ancash, Perú, para realizar exportaciones de frutos frescos de palto (Persea americana) variedad Hass, a Chile.
 
 Anótese, comuníquese y publíquese.- Aníbal Ariztía Reyes, Director Nacional.
