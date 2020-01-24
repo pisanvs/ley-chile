@@ -1,0 +1,5 @@
+RESOLUCIÓN N° 803 EXENTA DE FECHA 30.12.2019, DEL SUPERINTENDENTE DE EDUCACIÓN, QUE APRUEBA CIRCULAR QUE INFORMA SOBRE PROCEDIMIENTO Y MEDIDAS ESPECIALES PARA LOS ESTABLECIMIENTOS EDUCACIONALES ORDENADOS EN CATEGORÍA DE DESEMPEÑO INSUFICIENTE
+
+Con fecha 30 de diciembre de 2019, la Superintendencia de Educación dictó la resolución exenta N° 803, que "Aprueba Circular que informa sobre procedimiento y medidas especiales para los establecimientos educacionales ordenados en categoría de desempeño insuficiente", la cual imparte instrucciones de carácter general acerca de los procedimientos y medidas especiales para los establecimientos educacionales ordenados en categorías de desempeño insuficiente, atendido el párrafo 5° del título II de la ley N° 20.529. Esta resolución estará disponible para la comunidad en la página web institucional www.supereduc.cl y en el Portal de Transparencia Institucional.-
+
+José Manuel Astorga Lanas, Fiscal (S), Superintendencia de Educación.
