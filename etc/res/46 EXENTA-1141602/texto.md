@@ -1,0 +1,33 @@
+PRORROGA EL PLAZO DE POSTERGACIÓN DE PERMISOS DE SUBDIVISIÓN, LOTEO O URBANIZACIÓN Y DE CONSTRUCCIONES, DISPUESTO POR EL DECRETO ALCALDICIO Nº 1.094, DE LA MUNICIPALIDAD DE CONCEPCIÓN, DE 2019
+
+Núm. 46 exenta.- Concepción, 20 de enero de 2020.
+
+Vistos:
+
+El DFL Nº 458, de 1975, Ley General de Urbanismo y Construcciones (en adelante, LGUC); el DS Nº 47 (V. y U.), de 1992, Ordenanza General de Urbanismo y Construcciones (en adelante, OGUC); la Ley Nº 19.880, que establece Bases de los Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado; la resolución Nº 7, de la Contraloría General de la República, de 2019, que fija normas sobre exención del trámite de toma de razón; el DS Nº 397 (V. y U.), de 1976, Reglamento Orgánico de las Secretarías Regionales Ministeriales de Vivienda y Urbanismo; el DS Nº 17 (V. y U.), de 2019, que nombra Secretario Regional Ministerial de Vivienda y Urbanismo de la Región del Biobío; y el decreto exento Nº 81 (V. y U.), de 2014, que deroga el decreto Nº 201 (V. y U.), de 2007, y fija orden de subrogación del cargo que indica.
+
+Considerando:
+
+1) Que, el inciso 1º del artículo 117 LGUC, prescribe: "Los permisos de subdivisión, loteo o urbanización predial y de construcciones podrán postergarse hasta por un plazo de tres meses, cuando el sector de ubicación del terreno esté afectado por estudios sobre modificaciones del Plan Regulador Intercomunal o comunal, aprobados por resolución del Alcalde. Esta postergación deberá ser informada previa y favorablemente por la Secretaría Regional correspondiente del Ministerio de la Vivienda y Urbanismo". Añade el inciso 2º de dicha norma: "En caso necesario, el citado plazo de tres meses podrá ser prorrogado hasta completar un máximo de doce meses. La prórroga se dispondrá por decreto supremo del Ministerio de Vivienda y Urbanismo dictado ‘por orden del Presidente de la República' o por resolución del Secretario Regional Ministerial de Vivienda y Urbanismo respectivo, según se trate de estudios sobre modificaciones de un Plan Regulador Intercomunal o de un Plan Regulador Comunal, en su caso. Tanto el decreto supremo como la resolución se publicarán en el Diario Oficial y en algún diario de los de mayor circulación en la comuna".
+
+2) Que, en la comuna de Concepción, se encuentra en desarrollo la "14° Modificación Plan Regulador Comunal de Concepción, Parque Comunal Tucapel Bajo-Paicaví", que afecta al sector en que se ubica el humedal Tucapel Bajo-Paicaví.
+
+3) Que, mediante nuestro oficio Ord. Nº 2.805, del 27.09.2019, esta Seremi informó previa y favorablemente la postergación de los permisos de subdivisión, loteo o urbanización predial y de construcciones, hasta por un plazo de tres meses, propuesta por la Municipalidad de Concepción respecto de las zonas CU1, HE3 y PE, sector humedal Tucapel Bajo-Paicaví, del Plan Regulador Comunal de Concepción, según polígono singularizado en plano AU-PRC-01, Lámina 01, de febrero de 2018.
+
+4) Que, la Municipalidad de Concepción, por el decreto alcaldicio Nº 1.094, del 03.10.2019, publicado en el Diario Oficial el 26.10.2019, postergó por el plazo de tres meses el otorgamiento de los permisos de subdivisión, loteo o urbanización predial y de construcciones, respecto de la referida zona.
+
+5) Que, mediante su oficio Ord. Nº 2.100, del 11.12.2019, la Municipalidad de Concepción solicitó a esta Seremi prorrogar, por 9 meses, el plazo de postergación de los permisos de subdivisión, loteo o urbanización predial y de construcciones, dispuesto por el decreto alcaldicio Nº 1.094, del 03.10.2019, explicando al efecto que si bien el inicio del proceso de aprobación de la "14° Modificación Plan Regulador Comunal de Concepción, Parque Comunal Tucapel Bajo-Paicaví", estaba previsto para el mes de octubre de 2019, la crisis nacional suscitada a contar del 18 de octubre de ese año llevó a la Municipalidad a suspender las actividades que implican convocatoria pública, como es el caso de las audiencias públicas previstas en el artículo 2.1.11. OGUC, a la espera del restablecimiento de las condiciones que permitan la realización de dichas audiencias. Agrega el oficio que, de no contarse con una prórroga del plazo en cuestión, "las alteraciones que podrían producirse producto de intervenciones en las áreas afectadas serían irreversibles, dada la alta vulnerabilidad del ecosistema comprometido", haciendo presente, por último, que esa zona ha sido declarada recientemente como "sitio prioritario para la Conservación del Medio Ambiente", por el Ministerio del Medio Ambiente.
+
+6) Que, el Departamento de Desarrollo Urbano e Infraestructura (DDUI), de esta Seremi, por medio de memorándum Nº 7, de fecha 15.01.2020, estimó procedente la prórroga solicitada, considerando la preocupación municipal por preservar el sector objeto de la postergación, a fin de consolidarlo mediante las normas concordantes con su valor ecológico, contenidas en el proyecto de modificación en trámite del Plan Regulador Comunal. Asimismo, se considera justificada la reprogramación de las actividades participativas del proceso de aprobación del proyecto, reguladas por el artículo 2.1.11. de la OGUC, las que fueron suspendidas a causa de la crisis nacional suscitada a partir del 18.10.2019. Siendo así, el plazo inicial de 3 meses de postergación resulta insuficiente para culminar el proceso de modificación del instrumento de planificación, por lo cual se requiere la prórroga de dicha postergación, por un período de 9 meses, para evitar posibles intervenciones que causen daño al ecosistema del área comprendida en la modificación del plan regulador.
+
+Por lo expuesto, procede dictar la siguiente,
+
+Resolución
+
+1) Prorrógase, a partir del 27.01.2020, por 9 meses o hasta la fecha de entrada en vigencia de la modificación del Plan Regulador Comunal de Concepción en trámite, siempre que no exceda de dicho lapso, el plazo de postergación de los permisos de subdivisión, loteo o urbanización predial y de construcciones, dispuesto por el decreto alcaldicio Nº 1.094, de la Municipalidad de Concepción, del 03.10.2019, publicado en el Diario Oficial el 26.10.2019, respecto de las zonas singularizadas en el considerando Nº 3 del presente acto administrativo.
+
+2) Publíquese el presente acto administrativo en el Diario Oficial y en el "Diario Concepción".
+
+Anótese, notifíquese, publíquese y archívese.- Miguel Ángel Hernández Aguayo, Secretario Regional Ministerial (S), Ministerio de Vivienda y Urbanismo Región del Biobío.
+
+Lo que transcribo a Ud. para su conocimiento y fines pertinentes.- Eduardo Canessa Díaz, Ministro de Fe.
