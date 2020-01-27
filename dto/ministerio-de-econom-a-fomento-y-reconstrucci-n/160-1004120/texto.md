@@ -1104,9 +1104,9 @@ d) Todas las otras líneas o tuberías deberán estar tapadas o taponadas.
 
 e) Se deberá notificar por escrito a la Superintendencia el cierre temporal del tanque.
 
-#### Artículo 111°
+#### Artículo 111º
 
-Todo tanque enterrado que deje de operar por más de un (1) año o que cumpla una antigüedad máxima de 30 años, contados desde la fecha de fabricación que consta en su placa de certificación, se deberá cerrar permanentemente o ser extraído del sitio de acuerdo a lo establecido en el presente reglamento.
+Los tanques enterrados que se encuentren fuera de servicio por más de un (1) año, se deberán cerrar permanentemente o extraerlos del sitio.
 
 #### Artículo 112º
 
@@ -2394,27 +2394,19 @@ La longitud de las mangueras de las unidades de suministro en instalaciones de a
 
 Sólo se permitirá el uso de pistolas automáticas con traba para apertura cuando el abastecimiento de CL sea efectuado exclusivamente por un empleado de la instalación.
 
-#### Artículo 262°
+#### Artículo 262º
 
 Estas instalaciones deberán disponer, en la isla de carga de CL, advertencias de seguridad, letreros o símbolos, con las siguientes leyendas:
 
-- "PROHIBIDO FUMAR".
+- "PROHIBIDO FUMAR"
 
-- "PARE EL MOTOR".
+- "PARE EL MOTOR"
 
-- "PROHIBIDO CARGAR COMBUSTIBLES A VEHÍCULOS DEL TRANSPORTE PÚBLICO CON PASAJEROS EN SU INTERIOR".
+- "PROHIBIDO CARGAR COMBUSTIBLES A VEHÍCULOS DEL TRANSPORTE PÚBLICO CON PASAJEROS EN SU INTERIOR"
 
-- "PROHIBIDO ABASTECER MOTOS CON PERSONAS SOBRE ÉSTAS".
+Adicionalmente, los establecimientos de tipo autoservicio deberán disponer en la isla de carguío la advertencia de seguridad con la leyenda: "NO UTILIZAR TELÉFONO CELULAR DURANTE EL AUTOSERVICIO".
 
-- "PROHIBIDO ABASTECER A ENVASES DE VIDRIO, FRÁGILES O BOTELLAS PLÁSTICAS".
-
-Adicionalmente, los establecimientos de tipo autoservicio deberán disponer en cada isla de carguío la advertencia de seguridad con la leyenda: "QUIEN REALICE LA CARGA DE COMBUSTIBLE AL VEHÍCULO, NO DEBERÁ UTILIZAR DISPOSITIVOS ELECTRÓNICOS PORTÁTILES DURANTE DICHA OPERACIÓN".
-
-Tales leyendas deberán estar dispuestas en un lugar destacado de la isla de abastecimiento de CL, con un tamaño de letra que permita su lectura a una distancia de 2 metros desde la posición del conductor del vehículo que está siendo abastecido y para el usuario que se encuentra frente a las unidades de suministro, y de un color que resalte del fondo en que está inscrita la leyenda.
-
-En la parte inferior de las leyendas antes señaladas, deberá incorporarse la siguiente leyenda: "Extracto del Art. 262" del decreto supremo N° 160, de 2008, del Ministerio de Economía, Fomento y Reconstrucción".
-
-Además, en estas instalaciones se deberán disponer letreros visibles que detallen la información señalada en las letras a) y b) del artículo 275° del presente reglamento.
+Tales leyendas deberán estar dispuestas en un lugar destacado de la isla de abastecimiento de CL, con un tamaño de letra que permita su lectura a una distancia de 2 metros desde la posición del conductor del vehículo que está siendo abastecido y para el usuario que se encuentra frente a las unidades de suministro y de un color que resalte del fondo en que está inscrita la leyenda.
 
 #### Artículo 263º
 
