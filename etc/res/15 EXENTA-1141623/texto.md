@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) "PLANTA PRODUCTIVA LICÁN ALIMENTOS", CUYO PROPONENTE ES "LICÁN ALIMENTOS S.A."
+
+Con fecha 20 de enero de 2020, se dictó la resolución exenta Nº 15/2020 del Director Regional del SEA (S) de la Región del Maule, que resuelve dar inicio al proceso de participación ciudadana en la evaluación ambiental de la DIA del proyecto "Planta productiva Licán Alimentos", cuyo proponente es "Licán Alimentos S.A." y que se pretende desarrollar en la comuna de Teno, al Norte de la Ruta J 310 (Camino "La Aurora"), parcela Nº 75 del Proyecto de Parcelación San Rafael, al oriente del Canal Endesa. El plazo legal para efectuar observaciones al proyecto en la plataforma electrónica www.sea.gob.cl del Servicio de Evaluación Ambiental, Región del Maule o ingresarlas a la oficina regional ubicada en calle Dos Oriente 946, Talca, será de 20 días hábiles y se contará desde la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través de la plataforma electrónica del Servicio de Evaluación Ambiental (www.sea.gob.cl).-
+
+Patricio Carrasco Tapia, Director Regional (S) del Servicio de Evaluación Ambiental, Región del Maule.
