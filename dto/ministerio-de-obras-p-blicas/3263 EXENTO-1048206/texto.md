@@ -46,6 +46,10 @@ PUERTO NATALES:
 
 4° Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
+PORVENIR
+
+. El sistema vial que interconecta la ruta Y-71 con la ruta Y-635, desde el límite urbano sur hasta el límite urbano oriente, a través de: Av. San Sebastián, Av. Santa María, Alberto Fuentes, Carlos Wood y Av. Baquedano.
+
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Loreto Silva Rojas, Ministra de Obras Públicas
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atte.a Ud., Patricia Contreras Alvarado, Subsecretaria de Obras Públicas Subrogante.
