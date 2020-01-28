@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DEL BIOBÍO, A LA "FUNDACIÓN EDUCACIONAL PARA EL DESARROLLO INTEGRAL DE LA NIÑEZ" (FUNDACIÓN INTEGRA)
+
+Mediante decreto exento N° E-15, de 7 de enero de 2020, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Fundación Educacional para el Desarrollo Integral de la Niñez", RUT N° 70.574.900-0, el inmueble fiscal ubicado en calle Matta N° 398, Sector Lota Bajo, comuna de Lota, provincia de Concepción, Región del Biobío; enrolado en el Servicio de Impuestos Internos con el N° 40-1; inscrito en mayor cabida a nombre del Fisco a fojas 127 vta. N° 167 del Registro de Propiedad del Conservador de Bienes Raíces de Lota, correspondiente al año 1982; singularizado en el Plano N° 08106-7463-C.U.; con una superficie de 1.014,43 m2. La Concesión se otorga por un plazo de 8 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble al uso del Jardín Infantil "Gabriela Mistral". El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Francisca Navarro Barriga, Jefa División Jurídica.
