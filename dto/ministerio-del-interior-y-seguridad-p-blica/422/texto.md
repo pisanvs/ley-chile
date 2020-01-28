@@ -56,7 +56,9 @@ Derógase el decreto supremo Nº 605, de 2004, del Ministerio del Interior, que 
 
 #### Artículo 5º
 
-El presente decreto entrará en vigencia transcurridos 60 días desde su publicación en el Diario Oficial.
+Los artículos 1º, 2º y 3º entrarán en vigencia el día 9 de mayo de 2020.
+
+El artículo 4º entrará en vigencia el 16 de diciembre de 2019.
 
 Anótese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Andrés Chadwick Piñera, Ministro del Interior y Seguridad Pública.- Teodoro Ribera Neumann, Ministro de Relaciones Exteriores.
 
