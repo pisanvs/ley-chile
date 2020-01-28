@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DEL BIOBÍO, A LA "EMPRESA PORTUARIA TALCAHUANO-SAN VICENTE"
+
+Mediante decreto exento N° E-10, de 6 de enero de 2020, el Ministerio de Bienes Nacionales otorgó en Concesión Gratuita, a la "Empresa Portuaria Talcahuano-San Vicente", RUT N° 61.960.300-1, el inmueble fiscal que corresponde al Lote 2, ubicado en San Vicente, Sector ex Fuerte Benavente, comuna de Talcahuano, provincia de Concepción, Región del Biobío; enrolado en el Servicio de Impuestos Internos con el N° 7019-48; inscrito en mayor cabida a nombre del Fisco a fojas 568 N° 891 del Registro de Propiedad del Conservador de Bienes Raíces de Talcahuano, correspondiente al año 1965; singularizado en el Plano N° 08110-22377-C.U.; con una superficie de 54.636,03 m2. La Concesión se otorga por un plazo de 41 años, contado desde la fecha de suscripción de la escritura pública de concesión.
+
+La Concesión se otorga para destinar el inmueble para las obras de ampliación del proyecto de recuperación post eventos del terremoto de 27 de febrero de 2010 del Puerto de Talcahuano. El contrato de Concesión deberá suscribirse dentro del plazo de 30 días, contado desde la fecha de la publicación en el Diario Oficial, del extracto del Decreto de Concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Francisca Navarro Barriga, Jefa División Jurídica.
