@@ -1,0 +1,7 @@
+NOTIFICACIÓN RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA DECLARACIÓN DE IMPACTO AMBIENTAL (DIA) "CENTRAL PINARES", CUYO PROPONENTE ES "ELÉCTRICA PINARES LTDA."
+
+Con fecha 23 de enero de 2020, se dictó la resolución exenta Nº 20/2020 del Director Regional del SEA (S) de la Región del Maule, que resuelve dar inicio al proceso de participación ciudadana en la evaluación ambiental de la DIA del proyecto "Central Pinares", cuyo proponente es "Eléctrica Pinares Ltda." y que se pretende desarrollar en la comuna de Constitución, en la Ruta L-30-M, camino que une Constitución con San Javier, en el km 10 desde Constitución, específicamente en la Parcela lote Nº 13, Rol 519-22. El plazo legal para efectuar observaciones al proyecto en la plataforma electrónica www.sea.gob.cl del Servicio de Evaluación Ambiental, Región del Maule o ingresarlas a la oficina regional ubicada en calle Dos Oriente 946, Talca, será de 20 días hábiles y se contará desde la fecha de la presente publicación.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido a través de la plataforma electrónica del Servicio de Evaluación Ambiental (www.sea.gob.cl.).-
+
+Patricio Carrasco Tapia, Director Regional (S) del Servicio de Evaluación Ambiental Región del Maule.
