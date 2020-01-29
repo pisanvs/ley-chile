@@ -42,7 +42,7 @@ Resolución:
 
 3. Apruébase el monto de los recursos asignados en la selección de la primera quincena del mes de agosto de 2019, del Llamado dispuesto por la resolución exenta N° 1.783 (V. y U.) de 2019, conforme al cuadro siguiente:
 
-4. El saldo de los recursos del presente Llamado para las próximas selecciones corresponderá a 78.364 UF.
+4. El saldo de los recursos del presente Llamado para las próximas selecciones corresponderá a 94.117 UF.
 
 5. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al Resuelvo 2 de esta resolución, las que deberán contener a lo menos, la comuna, el Título del Programa del cual se trate, y el nombre de cada postulante con su respectiva Cédula de Identidad.
 

@@ -28,7 +28,7 @@ Resolución:
 
 6. Se consideran como viviendas objeto de atención de este llamado, todas aquellas que presentan Daño Reparable Moderado y Daño Reparable Mayor, debido al sismo ocurrido en enero del año 2019, emplazadas en la Región de Coquimbo.
 
-7. Los recursos que se destinarán para la selección de los proyectos presentados para el presente llamado corresponden a 82.463 UF. El número de proyectos seleccionados alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, incluidos los servicios de asistencia técnica que correspondan.
+7. Los recursos que se destinarán para la selección de los proyectos presentados para el presente llamado corresponden a 98.216 UF. El número de proyectos seleccionados alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, incluidos los servicios de asistencia técnica que correspondan.
 
 Estos recursos se distribuirán por clase de daño según el número de postulantes para cada tipo de proyecto.
 
