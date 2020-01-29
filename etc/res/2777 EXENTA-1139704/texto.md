@@ -38,9 +38,9 @@ Resolución:
 
 .
 
-3. El saldo de los recursos del llamado a postulación extraordinaria para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su Título II, Mejoramiento de la Vivienda, regulado por el DS Nº 255 (V. y U.), de 2006, destinados a la atención de los afectados con Daño Reparable Moderado y Daño Reparable Mayor, producto del sismo ocurrido en enero del presente año, en la Región de Coquimbo, para las próximas selecciones corresponderá a 44.437 UF.
+4. El saldo de los recursos del llamado a postulación extraordinaria para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su Título II, Mejoramiento de la Vivienda, regulado por el DS Nº 255 (V. y U.), de 2006, destinados a la atención de los afectados con Daño Reparable Moderado y Daño Reparable Mayor, producto del sismo ocurrido en enero del presente año, en la Región de Coquimbo, para las próximas selecciones corresponderá a 60.190 UF.
 
-4. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al resuelvo 1 de esta resolución, las que deberán contener a lo menos el Título del Programa del cual se trate, y el nombre de cada postulante con su respectiva cédula de identidad.
+5. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al resuelvo 1 de esta resolución, las que deberán contener a lo menos el Título del Programa del cual se trate, y el nombre de cada postulante con su respectiva cédula de identidad.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 

@@ -32,7 +32,7 @@ Resolución:
 
 .
 
-4. El saldo de los recursos del llamado a postulación extraordinaria para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su Título II, Mejoramiento de la Vivienda, regulado por el DS N° 255 (V. y U.), de 2006, destinada a la atención de los afectados con Daño Reparable Moderado y Daño Reparable Mayor, producto del sismo ocurrido en enero del presente año, en la Región de Coquimbo, realizado por la resolución exenta N° 1.783 (V. y U.), de 2019, para las próximas selecciones corresponderá a 57.266 UF.
+4. El saldo de los recursos del llamado a postulación extraordinaria para el desarrollo de proyectos del Programa de Protección del Patrimonio Familiar en su Título II, Mejoramiento de la Vivienda, regulado por el DS N° 255 (V. y U.), de 2006, destinada a la atención de los afectados con Daño Reparable Moderado y Daño Reparable Mayor, producto del sismo ocurrido en enero del presente año, en la Región de Coquimbo, realizado por la resolución exenta N° 1.783 (V. y U.), de 2019, para las próximas selecciones corresponderá a 73.019 UF.
 
 5. Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que será publicada la nómina de los postulantes seleccionados y los respectivos proyectos, conforme al Resuelvo 1 de esta resolución, la que deberá contener a lo menos el Título del Programa del cual se trate, y el nombre de cada postulante con su respectiva Cédula de Identidad.
 
