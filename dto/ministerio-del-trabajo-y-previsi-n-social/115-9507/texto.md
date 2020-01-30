@@ -1,10 +1,10 @@
-APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DE LA SUPERINTENDENCIA DE QUIEBRAS
+APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DE LA SUPERINTENDENCIA DE INSOLVENCIA Y REEMPRENDIMIENTO
 
 Núm. 115.- Santiago, Agosto 14 de 1995.- Vistos: Lo dispuesto en las Leyes N°s. 11.764, artículo 134, 16.395, artículo 24, y 17.538, artículo único; y 18.469 y D.S. N° 28, de fecha 27 de Mayo de 1994, del Ministerio del Trabajo y Previsión Social, y la facultad que me confiere el artículo 32, N° 8, de la Constitución Política de la República de Chile,
 
 D e c r e t o :
 
-Apruébase el siguiente Reglamento para el Servicio de Bienestar de la Superintendencia de Quiebras
+Apruébase el siguiente Reglamento para el Servicio de Bienestar de la Superintendencia de Insolvencia y Reemprendimiento
 
 ## Título I
 
@@ -12,7 +12,7 @@ De la Naturaleza Jurídica y Objetivos
 
 #### Artículo 1°
 
-El Servicio de Bienestar de la Superintendencia de Quiebras, en adelante "El Servicio de Bienestar", se regirá por el artículo 134 de la Ley N° 11.764, el artículo 24 de la ley N° 16.395, la Ley N° 17.538, el D.S. N° 28, de 1994, del Ministerio del Trabajo y Previsión Social, en adelante "Reglamento General" y por el presente Reglamento.
+El Servicio de Bienestar de la Superintendencia de Insolvencia y Reemprendimiento, en adelante "El Servicio de Bienestar", se regirá por el artículo 134 de la Ley N° 11.764, el artículo 24 de la ley N° 16.395, la Ley N° 17.538, el D.S. N° 28, de 1994, del Ministerio del Trabajo y Previsión Social, en adelante "Reglamento General" y por el presente Reglamento.
 
 ## Título II
 
@@ -36,27 +36,23 @@ De los Subsidios y Becas
 
 El Servicio de Bienestar podrá otorgar, a sus afiliados, las siguientes ayudas en dinero o en especies no sujetas a restitución y por las causales que se indican:
 
-a) Subsidio por Matrimonio del afiliado: Si ambos contrayentes son afiliados, se otorgará este beneficio a cada uno de ellos;
+a) Subsidio por Matrimonio o suscripción de acuerdo de unión civil del afiliado. Si ambos contrayentes son afiliados, se otorgará este beneficio a cada uno de ellos;
 
-b) Subsidio por Nacimiento: Se otorgará este beneficio por nacimiento de cada hijo. Si ambos padres fueren afiliados, el beneficio lo percibirán los dos; en caso de nacimiento múltiple, se dará el subsidio por cada hijo, y
+b) Subsidio por Nacimiento: Se otorgará este beneficio por nacimiento de cada hijo. Si ambos padres fueren afiliados, el beneficio lo percibirán los dos; en caso de nacimiento múltiples, se dará el subsidio por cada hijo, y
 
-c) Subsidio por Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
+c) Subsidio por Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir el quinto mes de gestación y fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar. En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
-En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
-
-1. A la persona designada expresamente para tales efectos por el afiliado;
+1. A la persona designada expresadamente para tales efectos por el afiliado;
 
 2. Al cónyuge sobreviviente;
 
-3. A los hijos legítimos;
+3. Al conviviente civil;
 
-4. A los hijos naturales;
+4. A los hijos;
 
-5. A los padres legítimos;
+5. A la persona que acredite haber efectuado los gastos del funeral.
 
-6. A la persona que acredite haber efectuado los gastos del funeral.
-
-d) Subsidio por ayuda escolar: Se entregará una ayuda escolar anual a los afiliados y causantes de asignación familiar reconocidos por éstos, que cursen los niveles pre escolar de pre kinder y kinder, estudios básicos, medios, universitarios y técnico profesional en establecimientos reconocidos por el Ministerio de Educación.
+d) Subsidio por ayuda escolar: Se entregará una ayuda escolar anual a los afiliados y causante de asignación familiar reconocidos de éstos, que cursen los niveles pre escolar de pre kinder y kinder, estudios básicos, medios, universitarios y técnico profesional en establecimientos reconocidos por el Ministerio de Educación.
 
 #### Artículo 4°
 
@@ -64,7 +60,7 @@ Se podrán otorgar los siguientes beneficios a los afiliados o a cualquiera de s
 
 a) Beca escolar: El Servicio de Bienestar podrá otorgar beca escolar al afiliado o a cualquiera de sus cargas familiares acreditadas que se encuentre realizando estudios de educación diferencial, media, técnica especializada o superior en establecimientos estatales o reconocidos por el Estado y que acrediten buen rendimiento escolar conforme a la tabla que al efecto fijará anualmente el Consejo Administrativo y una situación económica aflictiva calificada por el Consejo Administrativo o por quién éste designe;
 
-b) Bono de alimentación: El Servicio de Bienestar podrá otorgar bonos de alimentación a los afiliados que acrediten una situación económica aflictiva calificada por el Consejo Administrativo o por quién éste designe;
+b) Bono de alimentación: El Servicio de Bienestar podrá otorgar bonos de alimentación a los afiliados y sus cargas familiares acreditadas que acrediten una situación económica aflictiva calificada por el Consejo Administrativo o por quién éste designe;
 
 c) Aporte especial: El Consejo Administrativo podrá conceder aportes especiales, por acuerdo de los dos tercios de sus miembros en casos calificados por el Consejo Administrativo o por quién éste designe tales como enfermedades graves, tratamientos y medicamentos de alto costo, prótesis, accidentes, incendios, sismos y otros de extrema necesidad, presentados por el Jefe de Bienestar.
 
@@ -102,7 +98,7 @@ Para optar a este tipo de préstamo será necesario un año de antigüedad en el
 
 El monto máximo de estos préstamos y el plazo de amortización se ajustarán a la tabla que para tal efecto fije anualmente el Consejo Administrativo, no pudiendo exceder, en todo caso, de 12 meses.
 
-Asimismo, la tasa de interés que devengarán y el mecanismo de reajustabilidad que se les aplicará, serán determinados anualmente por el Consejo Administrativo, antes del inicio de cada ejercicio financiero, en conformidad a lo dispuesto por la Ley N° 18.010.
+Asimismo, la tasa de interés que devengará será determinada anualmente por el Consejo Administrativo, antes del inicio de cada ejercicio financiero, en conformidad a lo dispuesto por la ley Nº 18.010. A los referidos préstamos no se les aplicará reajustabilidad.
 
 #### Artículo 7°
 
@@ -122,21 +118,23 @@ Para el cumplimiento de este objetivo, el Servicio de Bienestar podrá conceder 
 
 El Servicio de Bienestar podrá patrocinar, asesorar y financiar, en beneficio de los afiliados y de sus cargas familiares, actividades culturales tales como grupos folklóricos y de danza, formación de coros, organización de bibliotecas y actividades deportivas y recreativas en general.
 
+Con el mismo objeto señalado en el inciso anterior, se podrá realizar concursos para financiar proyectos destinados al beneficio de todos los afiliados, sin perjuicio del cumplimiento de los requisitos de los requisitos que se establezcan en las bases que rijan el concurso respectivo.
+
 #### Artículo 11°
 
-El Servicio de Bienestar podrá, cuando sus recursos financieros lo permitan, organizar y financiar la celebración de la Navidad, Aniversario de la Superintendencia de Quiebras y Fiestas Patrias.
+El Servicio de Bienestar podrá, cuando sus recursos financieros lo permitan, organizar y financiar la celebración del día de la mujer, día de la madre, día del padre, Fiestas Patrias, de Navidad, Aniversario de la Superintendencia, u otras que cumplen objetivos similares, dirigidas a todos sus afiliados.
 
 El Consejo Administrativo fijará el porcentaje del presupuesto que deberá destinarse para estos efectos.
 
 #### Artículo 12°
 
-El Servicio de Bienestar podrá poseer y/o administrar colonias, refugios, casas de huéspedes, casinos, jardines infantiles, policlínicos, postas dentales u otras instalaciones que sean destinadas al uso de sus beneficiarios, quedando expresamente excluida de dicha facultad la contratación de personal, que corresponderá a la Superintendencia de Quiebras.
+El Servicio de Bienestar podrá poseer y/o administrar colonias, refugios, casas de huéspedes, casinos, jardines infantiles, policlínicos, postas dentales u otras instalaciones que sean destinadas al uso de sus beneficiarios, quedando expresamente excluida de dicha facultad la contratación de personal, que corresponderá a la Superintendencia de Insolvencia y Reemprendimiento.
 
 #### Artículo 12º bis
 
-El Servicio de Bienestar estará facultado para celebrar, a través de la autoridad superior de la Superintendencia de Quiebras, convenios con otros Servicios de Bienestar u otras entidades que otorguen prestaciones de bienestar social u otras de seguridad social, tendientes a utilizar los centros recreativos o vacacionales que cualquiera de ellos posea o administre, ya sea mediante el intercambio de cupos para acceder a ellos, a través del arrendamiento de las instalaciones o mediante convenios de prestación de servicios, que favorezcan directamente a sus beneficiarios.
+El Servicio de Bienestar estará facultado para celebrar, a través de la autoridad superior de la Superintendencia de Insolvencia y Reemprendimiento, convenios con otros Servicios de Bienestar u otras entidades que otorguen prestaciones de bienestar social u otras de seguridad social, tendientes a utilizar los centros recreativos o vacacionales que cualquiera de ellos posea o administre, ya sea mediante el intercambio de cupos para acceder a ellos, a través del arrendamiento de las instalaciones o mediante convenios de prestación de servicios, que favorezcan directamente a sus beneficiarios.
 
-Asimismo, podrá celebrar, a través de la autoridad superior de la Superintendencia de Quiebras, convenios con empresas, destinados a obtener ventas al contado o a crédito de toda clase de bienes, mercaderías o servicios para satisfacer las necesidades de sus afiliados o con profesionales e instituciones del área de la salud y otras entidades, con el propósito de mejorar el nivel de atención y servicios que entreguen a sus afiliados, utilizando los procedimientos establecidos en la legislación vigente. Dichos convenios también podrán suscribirse con Servicios de Bienestar de otras instituciones públicas.
+Asimismo, podrá celebrar, a través de la autoridad superior de la Superintendencia de Insolvencia y Reemprendimiento, convenios con empresas, destinados a obtener ventas al contado o a crédito de toda clase de bienes, mercaderías o servicios para satisfacer las necesidades de sus afiliados o con profesionales e instituciones del área de la salud y otras entidades, con el propósito de mejorar el nivel de atención y servicios que entreguen a sus afiliados, utilizando los procedimientos establecidos en la legislación vigente. Dichos convenios también podrán suscribirse con Servicios de Bienestar de otras instituciones públicas.
 
 ## Título III — {ARTS. 13-15}
 
@@ -182,7 +180,7 @@ b) Con el aporte mensual de sus afiliados en servicio activo que no podrá exced
 
 c) Con el aporte mensual de sus afiliados jubilados que no exceda del 1,5% de sus pensiones más la cantidad del aporte Institucional que será de su cargo;
 
-d) Con la suma que anualmente se consulte conforme a lo dispuesto en la legislación vigente, en el presupuesto de la Superintendencia de Quiebras;
+d) Con la suma que anualmente se consulte conforme a lo dispuesto en la legislación vigente, en el presupuesto de la Superintendencia de Insolvencia y Reemprendimiento;
 
 e) Con los intereses generados por los préstamos concedidos a sus afiliados;
 
@@ -196,7 +194,7 @@ i) Con los demás bienes o recursos que obtenga por cualquier título.
 
 #### Artículo 17°
 
-Los fondos del Servicio de Bienestar se depositarán en una cuenta corriente bancaria subsidiaria de la Cuenta Unica Fiscal y separada de la cuenta corriente de la Institución. Contra ella podrán girar, conjuntamente, como titulares el Fiscal Nacional de Quiebras y el Jefe del Servicio de Bienestar y en ausencia de los anteriores, el Abogado Jefe del Departamento Jurídico y el Jefe del Departamento Financiero y de Administración, respectivamente.
+Los fondos del Servicio de Bienestar se depositarán en una cuenta corriente bancaria subsidiaria de la Cuenta Única Fiscal y separada de la cuenta corriente de la Institución. Contra ella podrán girar conjuntamente el Jefe del Servicio de Bienestar y el Jefe del Servicio de Bienestar y el Jefe del Departamento Financiero y de Administración. En caso de ausencia de cualquiera de estos funcionarios, la referida función podrá ser asumida por sus subrogantes.
 
 ## Título V — {ARTS. 18-20}
 
