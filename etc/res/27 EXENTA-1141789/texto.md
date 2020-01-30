@@ -1,0 +1,9 @@
+NOTIFICA RESOLUCIÓN DE INICIO DE PROCESO DE PARTICIPACIÓN CIUDADANA EN DECLARACIÓN DE IMPACTO AMBIENTAL PROYECTO "ACTUALIZACIÓN PROYECTO MINERO DIVISIÓN RADOMIRO TOMIC"
+
+De conformidad con lo dispuesto en el artículo 94 del DS N° 40/2012, del Ministerio del Medio Ambiente, Reglamento del Sistema de Evaluación de Impacto Ambiental, se comunica que mediante resolución exenta N° 27 de la Dirección Regional del Servicio de Evaluación Ambiental de Antofagasta, de fecha 24 de enero de 2020, se ha resuelto dar inicio a un proceso de participación ciudadana en el procedimiento de evaluación ambiental de la Declaración de Impacto Ambiental (DIA) del proyecto Actualización Proyecto Minero División Radomiro Tomic, Codelco Chile, División Radomiro Tomic, por un plazo de 20 días hábiles, de acuerdo a lo establecido en el artículo 30 bis de la ley N° 19.300. El proyecto contempla mantener la operación de la línea de hidrometalurgia y la explotación de Sulfuros Fase I, existentes desde el año 2023 hasta el año 2030.
+
+Cualquier persona, natural o jurídica, podrá formular observaciones al proyecto ante la Dirección Regional del SEA, ubicada en Avda. Croacia N° 0336, Antofagasta, o bien accediendo al portal www.sea.gob.cl. El plazo de 20 días hábiles para efectuar observaciones se contará a partir del día hábil siguiente a la última publicación de la notificación de la resolución que da inicio al proceso de Participación Ciudadana.
+
+El texto íntegro de la resolución antes individualizada puede ser conocido en las oficinas de la Dirección Regional del SEA, en la dirección antes señalada. Además puede acceder a dicha resolución a través del sitio web www.sea.gob.cl.-
+
+Ramón Guajardo Perines, Director Regional Servicio de Evaluación Ambiental Antofagasta.
