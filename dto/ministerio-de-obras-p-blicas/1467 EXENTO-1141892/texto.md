@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por Decreto MOP exento N° 1467, de 27 de noviembre de 2019, modificado por decreto MOP exento N° 4, de 17 de enero de 2020, y de conformidad con la facultad otorgada en el art. 3° letra a), 10 letra c), 14 letra e) y 105 del DFL MOP N° 850 de 1997, se expropió el lote de terreno N° 9, Rol de avalúo 328-104, comuna de Quillota, superficie 126 m2., para la obra CONSTRUCCIÓN HOSPITAL BI PROVINCIAL QUILLOTA PETORCA, COMUNA Y PROVINCIA DE QUILLOTA, REGIÓN DE VALPARAÍSO. La comisión de peritos, integrada por IRMA DÍAZ RIVEROS, CLAUDIA ARELLANO GÓMEZ Y MARÍA ISABEL RÍOS MARCUELLO, fijó el valor de tasación con fecha 3 de marzo de 2018, complementada por acta de 17 de octubre de 2019, acordándose la indemnización con su propietario FELIPE RAMÓN MERELLO LOZANO, en la cantidad de $2.776.183.- suma que se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del decreto ley N° 2186, de 1978.
+
+Fiscalía MOP.
