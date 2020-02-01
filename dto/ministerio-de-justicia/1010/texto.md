@@ -30,11 +30,9 @@ a) Pasaportes Ordinarios para chilenos, y b) Documentos de Viaje para Extranjero
 
 Los Pasaportes Ordinarios que expida el Servicio de Registro Civil e Identificación serán individuales.
 
-#### Artículo 5°
+#### Artículo 5º
 
-El pasaporte ordinario es válido por cinco años y a su vencimiento sólo podrá otorgarse uno nuevo válido por el mismo período.
-
-> **Nota.** NOTA 2 : El Artículo 3° del Decreto Supremo N° 26, del Ministerio de Justicia, publicado en el "Diario Oficial" de 19 de Abril de 1995, ordenó su vigencia a contar de 30 días después de su publicación en el Diario Oficial.
+El pasaporte ordinario es válido por diez años contados desde su fecha de emisión y a su vencimiento podrá otorgarse uno nuevo en caso de ser requerido, válido por el mismo período.
 
 #### Artículo 6°
 

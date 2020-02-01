@@ -1392,7 +1392,7 @@ Otorgamiento y Revalidación de Pasaportes Ordinarios
 
 Para la revalidación de los pasaportes extendidos en Chile o en el extranjero cuando el titular se encuentre fuera del país, bastará con la sola presentación del pasaporte que se revalida, sin perjuicio de que también se pueda solicitar la cédula de identidad.
 
-4. El pasaporte otorgado por los Cónsules es válido hasta por cinco años y a su vencimiento el funcionario consular podrá otorgar uno nuevo, por igual período, debiendo cobrar los derechos fijados en el Arancel Consular para la expedición de un pasaporte.
+4. El pasaporte otorgado por los Cónsules es válido hasta por diez años y a su vencimiento el funcionario podrá otorgar uno nuevo en caso de ser requerido, por igual período, debiendo cobrar los derechos fijados en el Arancel Consular para la expedición de pasaporte.
 
 5. Los funcionarios consulares otorgarán certificados, sin cobro de derechos, a los nacionales que les acrediten que, por causas sobrevinientes deben continuar viaje a un país no latinoamericano, sujeto al pago del "impuesto de viaje", a fin de que éstos pueden presentarlos, a su regreso a Chile, al Servicio de Impuestos Internos.
 
@@ -1407,10 +1407,6 @@ No se otorgará pasaporte a los ciudadanos chilenos que no comprueben necesitarl
 9. Los funcionarios consulares están facultados para recibir las declaraciones de los nacidos en territorio chileno para optar a la nacionalidad chilena, conforme al artículo 5°, N° 1, de la Constitución Política del Estado. Tal declaración de opción deben hacerla los interesados en el plazo fatal de un año, contado de la fecha en que el interesado cumpla 21 años.
 
 10. Los funcionarios consulares deben comunicar a la Dirección Consular y de Inmigración la nacionalización de chilenos en otros países, indicando las causas.
-
-> **Nota.** El artículo 4° del DTO 1010, Justicia, publicado el 17.11.1989, dispuso que la modificación introducida a este artículo, rige a contar de 30 días después de su publicación.
-
-> **Nota.** NOTA: 1 El Artículo 3° del DTO 26, Justicia, publicado el 19.04.1995, dispuso su vigencia a contar de 30 días después de su publicación.
 
 #### Artículo 57°
 
