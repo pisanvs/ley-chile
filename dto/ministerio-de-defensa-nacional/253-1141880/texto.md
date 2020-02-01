@@ -1,0 +1,11 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 253, de fecha 6 de junio de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Fundacion Almirante Carlos Condell, RUT N° 71.142.500-4, primera renovación de concesión marítima menor, con vencimiento el 31 de diciembre de 2023, sobre una porción de agua, en el lugar denominado Estero Ichuac, isla de Lemuy, Comuna de Puqueldón, Provincia de Chiloé, Región de Los Lagos, individualizada en la ubicación señalada en el plano 956/15-S, visado por la Autoridad Marítima de Castro. La porción de agua es la necesaria para mantener la instalación de una (1) boya para el amarre de naves menores de 50 TRG., cuyas coordenadas geográficas son las siguientes: Vértice 1 - Latitud (S) 42º36'55,93"; Longitud (W) 73º 44'01,50". El objeto de esta concesión marítima, en el sector otorgado, es continuar amparando la instalación de una boya existente para el amarre de naves menores de 50 TRG. La concesionaria deberá dar cumplimiento a las siguientes obligaciones:
+
+- **a)** No hacer llegar al mar en forma directa o indirecta energía, materias o sustancias nocivas, provenientes de sus instalaciones, conforme a las disposiciones contenidas en el DL Nº 2.222 del 21 de mayo de 1978 del Ministerio de Defensa Nacional y DS Nº 1 del 6 de enero de 1992, del Ministerio de Defensa Nacional, Subsecretaría de Marina, sin perjuicio de las exigencias ambientales establecidas en otros cuerpos legales que normen la materia.-
+
+- **b)** Permitir el uso de los elementos de amarre, atraque o fondeo por los buques y embarcaciones de la Armada en los términos del artículo 89 del DS Nº 9 de 2018 del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, que sustituye el Reglamento sobre Concesiones Marítimas.-
+
+- **c)** La concesionaria, en lo que respecta al orden, seguridad y disciplina, quedará sometida a las disposiciones del DS Nº 1.340 bis del 14 de junio de 1941, del Ministerio de Defensa Nacional, Subsecretaría de Marina, sobre la materia. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Chonchi. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Eugenio Bosque Lago, Capitán de Corbeta LT, Capitán de Puerto de Chonchi.
