@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº 2019/PA/09/0676 EXENTA, DE FECHA 17 DE DICIEMBRE DE 2019, QUE SOBRESEE PROCESO ADMINISTRATIVO
+
+La Superintendencia de Educación, por resolución exenta Nº 2019/PA/09/0676, de fecha 17 de diciembre de 2019, del Director Regional de la Superintendencia de Educación de la Región de la Araucanía, sobresee proceso administrativo al sostenedor Carmencita Elena Flores Dauros, RUT Nº 7.465.127-5, bajo cuya dependencia se encontraba el establecimiento educacional Escuela Particular Nº 142 Piren, RBD Nº 6392-4, de la comuna de Toltén. Resolviendo: 1. Sobreséase proceso administrativo ordenado instruir mediante resolución exenta Nº 2019/PA/09/434 de fecha 2 de octubre de 2019, de la encargada Regional de Fiscalización, a la sostenedora Carmencita Elena Flores Dauros, debido a que se autorizó la renuncia voluntaria al reconocimiento oficial del establecimiento a contar del 1 de julio del año escolar 2016. 2. Notifíquese la presente resolución. 3. Archívese.-
+
+Óscar Villar Brevis, Director Regional Superintendencia de Educación Región de la Araucanía.
