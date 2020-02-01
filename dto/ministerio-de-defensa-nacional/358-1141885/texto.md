@@ -1,0 +1,7 @@
+RENOVACIÓN DE CONCESIÓN MARÍTIMA MAYOR
+
+Decreto supremo Nº 358, de 17 de septiembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Salmones Tecmar S.A., RUT 79.809.870-5, primera renovación de concesión marítima mayor, con vencimiento 31 de diciembre de 2029, sobre un sector de playa, fondo de mar y porción de agua, en el lugar denominado Rauco, Estero Castro, comuna de Chonchi, provincia de Chiloé, Región de Los Lagos, con una superficie total de 2.399,22 m2, la que fue tramitada con el SIABC Nº 36437. A modo referencial se señala la siguiente coordenada geográfica: 42º32'28,53"S; 73º47'42,33"W (WGS-84). El objeto consiste en continuar amparando las instalaciones correspondientes a un pontón flotante, una cañería aductora de agua de mar y una cañería de desagüe, para la operación de una Piscicultura de smoltificación con sistema de recirculación de agua.
+
+Las obras existentes consisten en pontón flotante, cañería de aducción y cañería de desagüe. Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía Puerto de Castro. El presente extracto se encuentra visado por la capitanía puerto antes señalada.-
+
+Roque Núñez Cabrera, Capitán de Corbeta LT, Capitanía Puerto de Castro.
