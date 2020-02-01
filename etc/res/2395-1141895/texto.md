@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución Nº 2.395, de fecha 30 de diciembre de 2019, del Serviu Región de Coquimbo, se ordenó expropiar parcialmente por causa de utilidad pública, conforme al artículo 51 ley 16.391 y DL 2.186/78, el inmueble singularizado como Lote 19 en plano de expropiación, y que corresponde a la propiedad denominada Fundo Santa Julia Lote Packing 1, ubicado en 2 Oriente S/N, Ovalle, de la comuna de Ovalle, Rol de Avalúo Nº 634-21, de aparente dominio de la Inmobiliaria Valle Tuqui Ltda., inscripción aparente de Fojas 2626 Nº 1477 del Registro de Propiedad del año 1995, en el Conservador de Bienes Raíces de Ovalle, con una superficie expropiada aproximada de 4.695,002 metros cuadrados. Comisión de Peritos conformada por profesionales Marcia Aqueveque, Miguel Rubio y María Stack, según informe de 11 de diciembre de 2019 fijó indemnización provisional en 1.173,75 Unidades de Fomento pagadera al contado, equivalentes a $33.228.792.- al valor de la Unidad de Fomento del 31.12.2019.-
+
+Director (S) Serviu Región de Coquimbo.
