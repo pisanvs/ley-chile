@@ -146,7 +146,7 @@ El sostenedor acompañará a la solicitud de reconocimiento oficial una relació
 
 También se acompañará una relación del personal asistente de la educación suficiente para atender las necesidades propias del establecimiento educacional, considerando el nivel y modalidad de educación que imparta el establecimiento y la cantidad de alumnos y alumnas que atienda.
 
-Los docentes, los habilitados o autorizados conforme a la ley y el personal asistente de la educación que desempeñe funciones de carácter profesional, de paradocencia o de servicios auxiliares, deberán, además, poseer idoneidad moral, entendiéndose por tal no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicos o por la ley Nº 20.066 que sanciona la violencia intrafamiliar ni a la pena de inhabilitación establecida en el artículo 30 bis del Código Penal.
+Los docentes, los habilitados o autorizados conforme a la ley y el personal asistente de la educación que desempeñe funciones de carácter profesional, de paradocencia o de servicios auxiliares, deberán, además, poseer idoneidad moral, entendiéndose por tal no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicos o por la ley Nº 20.066 que sanciona la violencia intrafamiliar ni a la pena de inhabilitación establecida en el artículo 39 bis del Código Penal.
 
 #### Artículo 10
 

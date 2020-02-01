@@ -62,7 +62,7 @@ c) Agrégase un inciso tercero, pasando el tercero a ser cuarto:
 
 5. Agrégase en el artículo 9º, después del punto final que pasa a ser coma la siguiente frase:
 
-"ni a la pena de inhabilitación establecida en el artículo 30 bis del Código Penal".
+"ni a la pena de inhabilitación establecida en el artículo 39 bis del Código Penal".
 
 6. Modifícase el artículo 14 de la siguiente manera:
 
