@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por decreto exento MOP N° 5, de 17 de enero de 2020, se modificó el numeral segundo del decreto exento MOP N° 1461, de 24 de octubre de 2018, quedando de la siguiente forma: lote N° 6, ubicado en la comuna de Punitaqui, figura a nombre de CASTILLO CASTILLO LUIS MARIO, según rol de avalúo 52-20, superficies 3.323 m2. Compleméntese el informe de tasación emitido el 21 de junio de 2018, mediante acta emanada de la misma comisión de 3 de enero de 2019.
