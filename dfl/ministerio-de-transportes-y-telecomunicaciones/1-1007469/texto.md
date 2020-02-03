@@ -840,7 +840,7 @@ El remolque de vehículos motorizados deberá efectuarse en las condiciones que 
 
 #### Artículo 62
 
-Los vehículos deberán reunir las características técnicas de construcción, dimensiones y condiciones de seguridad, comodidad, presentación y mantenimiento que establezca el Ministerio de Transportes y Telecomunicaciones, y no podrán exceder los pesos máximos permitidos por el Ministerio de Obras Públicas.
+Los vehículos deberán reunir las características técnicas de construcción, dimensiones y condiciones de seguridad, comodidad, presentación y mantenimiento que establezca el Ministerio de Transportes y Telecomunicaciones, y no podrán exceder los pesos máximos permitidos por el Ministerio de Obras Públicas. En el caso específico de los vehículos pertenecientes a los Cuerpos de Bomberos, las características técnicas y pesos máximos permitidos deberán considerar a lo menos la necesidad de su adecuada y oportuna intervención en el auxilio de incendios y otros siniestros, sus especiales características funcionales y su flujo de circulación.
 
 No podrán transitar los vehículos que excedan los pesos máximos permitidos.
 
@@ -2372,7 +2372,7 @@ n o de frenos en condiciones deficientes;
 
 27. Conducir un vehículo con infracción de lo señalado en los artículos 62 o 65;
 
-28. Usar indebidamente estacionamientos exclusivos para personas con discapacidad;
+28. Estacionarse en, usar u ocupar estacionamientos exclusivos para personas con discapacidad, sin derecho a ello;
 
 29. Detener o estacionar un vehículo en doble fila, respecto a otro vehículo detenido o estacionado junto a la cuneta;
 
@@ -2410,7 +2410,7 @@ En los casos de las infracciones de los números 14, 16, 18, 21 y 24, si ellas f
 
 Son infracciones o contravenciones menos graves, las siguientes:
 
-1. Estacionar o detener un vehículo en lugares prohibidos sin perjuicio de lo establecido en los números 7, 29 y 39 del artículo anterior, o estacionar en un espacio destinado a vehículos para personas con discapacidad, sin derecho a ello;
+1. Estacionar o detener un vehículo en lugares prohibidos, sin perjuicio de lo establecido en los números 7, 28, 29 y 39 del artículo anterior;
 
 2. Infringir las normas del artículo 115;
 
