@@ -14,6 +14,8 @@ Disposiciones generales
 
 Son organizaciones deportivas profesionales aquellas constituidas en conformidad a esta ley, que tengan por objeto organizar, producir, comercializar y participar en espectáculos deportivos y que se encuentren incorporadas en el registro a que se refiere el artículo 2º de esta ley.
 
+Las organizaciones deportivas profesionales, en el ejercicio de sus funciones, deben promover el respeto irrestricto a las personas y, muy especialmente, deben adoptar el protocolo necesario para prevenir y sancionar las conductas de acoso sexual, abuso sexual, discriminación y maltrato, aprobado por el Ministerio del Deporte.
+
 Estas organizaciones tendrán por característica que sus jugadores sean remunerados y se encuentren sujetos a contratos de trabajo de deportistas profesionales.
 
 Se entenderá por espectáculo deportivo profesional aquél en que participen organizaciones deportivas profesionales con el objeto de obtener un beneficio pecuniario.
@@ -56,6 +58,8 @@ b) Presentar a la asociación o liga deportiva profesional correspondiente y a l
 
 c) Mantener, en el caso de las corporaciones y fundaciones, contabilidad separada para el o los Fondos de Deporte Profesional que administren, de lo que deberá informarse a la asociación o liga respectiva y a la Superintendencia de Valores y Seguros.
 
+d) Adoptar el protocolo a que se refiere el numeral 17 del artículo 2 de la ley N° 20.686, que crea el Ministerio del Deporte, y remitir trimestralmente un informe de su cumplimiento a la asociación o liga y al Instituto Nacional del Deporte.
+
 #### Artículo 7º
 
 Ninguna organización deportiva profesional podrá participar con más de un equipo de igual categoría en una competición deportiva de una misma asociación.
@@ -69,6 +73,8 @@ a) Estar al día en el pago de las obligaciones laborales y previsionales con su
 b) La existencia de cauciones personales, cuando corresponda, que aseguren el cumplimiento de las obligaciones asumidas por el Directorio, que excedan el presupuesto aprobado ante la correspondiente asociación deportiva profesional, y
 
 c) La existencia de uno o más Fondos de Deporte Profesional, cuando corresponda.
+
+d) El cumplimiento estricto del protocolo a que se refiere el numeral 17 del artículo 2 de la ley N° 20.686, que crea el Ministerio del Deporte.
 
 #### Artículo 9º
 
@@ -87,6 +93,8 @@ De igual modo, dichos estatutos determinarán la constitución, forma y funciona
 #### Artículo 12
 
 En los estatutos de toda organización deportiva profesional se establecerá la existencia de una Comisión de Ética o Tribunal de Honor y de una Comisión de Auditoría o Revisora de Cuentas. Quienes integren dichos órganos no podrán desempeñar cargos en el Directorio o en la Comisión de Deporte Profesional respectiva ni en otras sociedades relacionadas en que la organización deportiva tenga participación patrimonial.
+
+Los órganos que, de conformidad con la ley y los estatutos de cada organización deportiva profesional, tengan competencia para aprobar las reformas a sus estatutos serán competentes, a su vez, para adoptar el protocolo a que se refiere el numeral 17 del artículo 2 de la ley N° 20.686, que crea el Ministerio del Deporte. Este protocolo se entenderá incorporado a sus estatutos de pleno derecho una vez cumplidas todas las formalidades requeridas para tales reformas, y su adopción será requisito para acceder a los beneficios y franquicias contemplados en esta ley.
 
 Tratándose de sociedades anónimas deportivas profesionales, se aplicarán, además, a los miembros de su Directorio las incompatibilidades previstas en el Título IV de la ley Nº 18.046, sobre Sociedades Anónimas.
 

@@ -18,6 +18,8 @@ Es deber del Estado crear las condiciones necesarias para el ejercicio, fomento,
 
 El Estado promoverá las actividades anteriores a través de la prestación de servicios de fomento deportivo y de la asignación de recursos presupuestarios, distribuidos con criterios regionales y de equidad, de beneficio e impacto social directo, que faciliten el acceso de la población, especialmente niños, adultos mayores, personas en situación de discapacidad y jóvenes en edad escolar, a un mejor desarrollo físico y espiritual.
 
+En la protección y fomento del ejercicio y desarrollo de las actividades deportivas, el Estado buscará su realización como medio de desarrollo integral de las personas, orientadas a la integración social, al desarrollo comunitario, al cuidado o recuperación de su salud y a la recreación. En dicha protección y fomento se promoverá un trato digno entre las personas, con especial énfasis en la prevención y sanción de las conductas de acoso sexual, abuso sexual, discriminación y maltrato.
+
 #### Artículo 2 bis
 
 Se entiende por deporte adaptado para las personas en situación de discapacidad, aquella modalidad deportiva que se adecua a este grupo de personas, ajustando sus reglas o implementos para su desarrollo, así como aquellos deportes especialmente diseñados para ellos, con el fin de permitirles su práctica. Estas adecuaciones no deben implicar o conllevar la pérdida de la esencia misma del deporte.
@@ -91,6 +93,8 @@ b) Formación y perfeccionamiento de técnicos, entrenadores, jueces, administra
 c) Creación y desarrollo de centros de entrenamiento para el alto rendimiento deportivo de nivel nacional y regional.
 
 d) Desarrollo de productos para el apoyo de la práctica deportiva de las personas en situación de discapacidad, entendiendo por tales aquellos utilizados por o para personas en situación de discapacidad, destinados a facilitar la participación en deportes adaptados.
+
+e) Cumplimiento del protocolo elaborado por el Ministerio del Deporte para la prevención y sanción de las conductas de acoso sexual, abuso sexual, discriminación y maltrato en el deporte.
 
 Asimismo, el Instituto Nacional de Deportes de Chile podrá participar en la constitución, administración y desarrollo de Corporaciones para el Alto Rendimiento Deportivo, de conformidad con lo establecido en el artículo 13 de la presente ley, o podrá integrarse a las ya formadas.
 
@@ -492,6 +496,8 @@ Los primeros cargos de Auxiliares de los grados que se indican a continuación, 
 
 > **Nota.** NOTA 1: El artículo primero, Nº 2, del DFL 27, Hacienda, publicado el 02.10.2007, crea un cargo de Director Regional, grado 5, en la Planta de personal de Directivos, Cargos de Exclusiva Confianza, del Instituto del Servicio Nacional de Deportes de Chile.
 
+> **Nota.** NOTA 2 El artículo primero, Nº 2, del DFL 12, Hacienda, publicado el 09.07.2018, crea un cargo de Director Regional, grado 5°, en la Planta de personal de Directivos de Exclusiva Confianza, del Instituto del Servicio Nacional de Deportes de Chile.
+
 #### Artículo 29
 
 Para el ingreso y promoción en los cargos y plantas establecidos en el artículo precedente, deberán cumplirse los siguientes requisitos:
@@ -564,7 +570,9 @@ i) Comité Olímpico de Chile, formado por federaciones deportivas nacionales y 
 
 j) También serán organizaciones deportivas las corporaciones y fundaciones que consideren fines deportivos, las que podrán mantener su estructura fundacional sin necesidad de efectuar la adecuación a que se refiere el artículo 39 de la presente ley, en los casos en que el objeto de tales organizaciones se ajuste a lo prescrito en el inciso segundo de dicha norma. Del mismo modo, serán organizaciones deportivas las corporaciones y fundaciones con fines de fomento deportivo.
 
-Las organizaciones deportivas deberán respetar la posición religiosa y política de sus integrantes, quedándoles prohibido toda propaganda, campaña o acto proselitista de carácter político y religioso. Asimismo, aquellas organizaciones deportivas que se constituyan en conformidad a esta ley no podrán perseguir fines de lucro.
+Las organizaciones deportivas deberán respetar la posición religiosa y política de sus integrantes, quedándoles prohibido toda propaganda, campaña o acto proselitista de carácter político y religioso. Toda organización deportiva deberá adoptar las medidas necesarias para prevenir y sancionar todo tipo de acoso sexual, abuso sexual, discriminación y maltrato, que pudiere ocurrir entre sus trabajadores, dirigentes, entrenadores y deportistas, en conformidad a esta ley y demás cuerpos legales vigentes. Asimismo, aquellas organizaciones deportivas que se constituyan en conformidad a esta ley no podrán perseguir fines de lucro.
+
+Las organizaciones deportivas, en el momento de optar a cualquiera de los beneficios contemplados en la presente ley, deberán acreditar haber adoptado el protocolo elaborado por el Ministerio del Deporte para la prevención y sanción de las conductas de acoso sexual, abuso sexual, discriminación y maltrato.
 
 #### Artículo 33
 
@@ -589,6 +597,10 @@ Le corresponderá organizar la participación de los deportistas chilenos en los
 El comité señalado en el artículo anterior estará conformado por federaciones deportivas que se dediquen de manera exclusiva a la práctica del deporte adaptado en una disciplina deportiva, o por discapacidad. Del mismo modo, podrá estar integrado por federaciones deportivas que cuenten de manera inclusiva con deportistas con discapacidad, según sus estatutos.
 
 El símbolo, bandera, lema, emblema e himno del Comité Paralímpico Internacional, así como las denominaciones "Paralímpico", "Juegos Paralímpicos", "Juegos Parapanamericanos" y "Juegos Parasuramericanos" son de uso exclusivo del Comité Paralímpico de Chile, en el territorio nacional. De igual protección gozarán la denominación "Comité Paralímpico de Chile" y el emblema de esta organización.
+
+#### Artículo 33 quáter
+
+El Comité Olímpico de Chile y el Comité Paralímpico de Chile tienen el deber de promover el cumplimiento del protocolo elaborado por el Ministerio del Deporte para la prevención y sanción de las conductas de acoso sexual, abuso sexual, discriminación y maltrato.
 
 ### Párrafo 2º
 
@@ -669,6 +681,8 @@ Para acogerse a los beneficios de esta ley, toda organización deportiva, cualqu
 Para los efectos de lo dispuesto en el inciso anterior, las organizaciones deportivas que se hubieren constituido de acuerdo con otras normativas, podrán, además, adecuar sus estatutos a las disposiciones de esta ley según el procedimiento establecido en la norma en virtud de la cual se hubieren constituido. Efectuada la reforma de los estatutos, la organización respectiva deberá solicitar su inscripción en el registro de organizaciones deportivas establecido en esta ley, acompañando copia autorizada de los mismos.
 
 Un reglamento que se dictará mediante decreto supremo establecerá las normas sobre la constitución del directorio de las organizaciones deportivas, reforma de estatutos, derechos y obligaciones de sus miembros, registro de afiliados, asambleas, disolución y demás disposiciones relativas a la organización, atribuciones y funcionamiento de las organizaciones deportivas que se constituyan en conformidad a las normas de esta ley.
+
+La adopción del protocolo a que hace referencia el inciso final del artículo 32 deberá acordarse por los mismos órganos que tengan competencia para aprobar las reformas a sus estatutos en conformidad a esta ley, al respectivo reglamento y a los estatutos de cada organización deportiva, entendiéndose incorporados en ellos, de pleno derecho, una vez cumplidas todas las formalidades requeridas para tales reformas. Las organizaciones deportivas deberán difundirlos a través de sus órganos internos y ponerlos a disposición de todos sus integrantes en el plazo de sesenta días.
 
 #### Artículo 40
 
@@ -804,7 +818,7 @@ L.- Las Federaciones Deportivas Nacionales, cualquiera sea el número de sus soc
 
 #### Artículo 40
 
-M.- El Comité Nacional de Arbitraje Deportivo, en adelante el "Comité", es un organismo colegiado, adscrito al Comité Olímpico de Chile, que ejercerá la potestad disciplinaria sobre las Federaciones Deportivas Nacionales.
+M.- El Comité Nacional de Arbitraje Deportivo, en adelante el "Comité", es un organismo colegiado, adscrito al Comité Olímpico de Chile, que ejercerá la potestad disciplinaria sobre las Federaciones Deportivas Nacionales, y sobre todas las organizaciones deportivas en materia de sanción de las conductas de acoso sexual, abuso sexual, discriminación y maltrato, en conformidad a esta ley.
 
 Este Comité estará integrado por cinco miembros:
 
@@ -866,7 +880,23 @@ En el ejercicio de estas facultades el Comité podrá dejar sin efecto o modific
 
 4.- Resolver, en única instancia, de oficio o a petición de la parte afectada, las faltas señaladas en las letras a) y b) del número 3 precedente, si por cualquier causa la respectiva FDN no hubiere constituido su Tribunal de Honor o Comisión de Ética.
 
-La competencia del Comité se extenderá a las infracciones que se produzcan en competencias nacionales o internacionales reconocidas o autorizadas por una FDN.
+5.- Conocer de cualquier reclamación que se efectúe en contra de una organización deportiva por incumplimiento en materia de prevención y sanción de las conductas de acoso sexual, abuso sexual, discriminación y maltrato, en conformidad al protocolo elaborado para tales efectos por el Ministerio del Deporte.
+
+Se entenderá que existe incumplimiento de este deber, una vez que se acredite que la respectiva organización deportiva no adoptó una o más de las acciones contempladas en dicho protocolo para efectos de prevenir o sancionar alguna de las conductas señaladas.
+
+Para los efectos de esta ley se entenderá por:
+
+a) Conducta discriminatoria: Cualquiera que implique una discriminación arbitraria en los términos del artículo 2 de la ley N° 20.609, que establece medidas contra la discriminación.
+
+b) Maltrato: Cualquier manifestación de una conducta abusiva, especialmente los comportamientos, palabras, actos, gestos, escritos u omisiones que puedan atentar contra la dignidad o integridad física o psicológica de una persona.
+
+c) Acoso sexual: Cualquier conducta en que una persona realice, por cualquier medio, requerimientos de carácter sexual no consentidos por quien los recibe y que amenacen o perjudiquen su situación deportiva o sus oportunidades de competición.
+
+d) Abuso sexual: Conductas de acceso al cuerpo de otra persona que se realicen por cualquier medio, que no sean consentidas por quien las recibe, en los términos establecidos en los artículos 366 y 366 bis del Código Penal.
+
+En el ejercicio de esta facultad, el Comité Nacional de Arbitraje Deportivo, así como cualquier otra persona miembro de una organización deportiva regida por esta ley o por la ley N° 20.019, que regula las sociedades anónimas deportivas profesionales, tendrá la obligación de denunciar ante el Ministerio Público cualquier conducta de acoso sexual, abuso sexual, discriminación o maltrato que pudiere revestir caracteres de delito, de acuerdo a lo señalado en los artículos 173 y siguientes del Código Procesal Penal.
+
+La competencia del Comité se extenderá a las infracciones que se produzcan en competencias nacionales o internacionales reconocidas o autorizadas por una FDN, o por una organización deportiva cualquiera, en los casos del numeral 5 precedente.
 
 Los estatutos de las FDN y los de las asociaciones o clubes que las integren deberán contemplar expreso reconocimiento y adscripción a la potestad del Comité.
 
@@ -936,7 +966,7 @@ El Directorio de una organización deportiva que no dé cumplimiento a las resol
 
 #### Artículo 40
 
-T.- Las normas de este Párrafo no se aplicarán a la Federación de Fútbol de Chile ni a las organizaciones que la integran.
+T.- Las normas de este Párrafo no se aplicarán a la Federación de Fútbol de Chile ni a las organizaciones que la integran, salvo en lo relacionado con las funciones y atribuciones del Comité Nacional de Arbitraje Deportivo contenidas en el numeral 5 del artículo 40 P. Lo dispuesto precedentemente incluye a las organizaciones deportivas profesionales regidas por la ley N° 20.019.
 
 ## Título IV
 
