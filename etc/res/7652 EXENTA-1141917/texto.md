@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 7.652, de 15 de noviembre de 2019, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Escuela de Conducción y Capacitación Tanya Miriam Godoy González E.I.R.L.", de propiedad de la sociedad del mismo nombre, RUT Nº 76.917.515-6, cuya representante legal y directora es la señora Tanya Miriam Godoy González, RUT Nº 15.977.691-3, ubicada en San Ignacio de Loyola Nº 2865, comuna de San Miguel. Horas pedagógicas autorizadas a la referida Escuela son diez horas teóricas y trece prácticas, con un total de veintitrés horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
