@@ -1,0 +1,5 @@
+EXTRACTO
+
+Por resolución exenta Nº 8.050, de 6 de diciembre de 2019, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se aprueba programa de enseñanza para obtención de Licencia de Conductor Clase B, a Escuela de Conductores No Profesionales o Clase B "Instituto de Capacitación y Desarrollo Laboral San Jorge Limitada", de propiedad de la sociedad del mismo nombre, RUT Nº 76.682.695-4 cuyo representante legal es el señor Ignacio Marcelo Céspedes Escobar, RUT Nº 12.605.624-9, y su director el señor Raúl Enrique Lepe Rojo, RUT Nº 8.816.135-1, ubicada en Concha y Toro Nº 2271, comuna de Puente Alto. Horas pedagógicas autorizadas a la referida Escuela son ocho horas teóricas y trece horas prácticas, con un total de veintiuna horas pedagógicas.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
