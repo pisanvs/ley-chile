@@ -44,13 +44,17 @@ e) Recomendar medidas a los sectores público y privado para prevenir la comisi�
 
 f) Impartir instrucciones de aplicación general a las personas enumeradas en los artículos 3°, inciso primero, y 4°, inciso primero, para el adecuado cumplimiento de las obligaciones establecidas en el Párrafo 2º de este Título, pudiendo en cualquier momento verificar su ejecución.
 
-g) Intercambiar información con sus similares del extranjero. Para tal efecto, la Unidad deberá cerciorarse de que dicha información no será utilizada para fines diferentes y que la entidad solicitante operará con reciprocidad en caso que se le solicite información.
+g) Proporcionar a la Contraloría General de la República la información que requiera para fiscalizar la oportunidad, integridad y veracidad del contenido de la declaración de intereses y patrimonio, tanto respecto de los jefes de unidades operativas como de sus cónyuges o convivientes civiles, parientes establecidos en el artículo 4 de la ley Nº 19.863, y personas que tengan bajo tutela o curatela, para el cumplimiento de los fines de la referida ley.
 
-h) Analizar, a lo menos una vez al año, la información a que se refiere el artículo 5º de esta ley.
+Para dicho efecto, la Contraloría remitirá a la Unidad de Análisis Financiero una nómina con los jefes de las unidades operativas que requieren para su operación del uso de gastos reservados.
 
-i) Acceder, en la forma en que se convenga con el jefe superior de la entidad respectiva, a las informaciones y antecedentes existentes en las bases de datos de los organismos públicos que, con ocasión de la revisión de una operación sospechosa previamente reportada a la Unidad o detectada por ésta en ejercicio de sus atribuciones, resulten necesarios y conducentes para desarrollar o completar el análisis de dicha operación y a los que deba recabar de conformidad con la letra g) de este artículo. En el caso que algún antecedente se encuentre amparado por el secreto o reserva, se aplicará lo dispuesto en segundo párrafo del literal b) de este artículo.
+h) Intercambiar información con sus similares del extranjero. Para tal efecto, la Unidad deberá cerciorarse de que dicha información no será utilizada para fines diferentes y que la entidad solicitante operará con reciprocidad en caso que se le solicite información.
 
-j) Imponer las sanciones administrativas que establece esta ley.
+i) Analizar, a lo menos una vez al año, la información a que se refiere el artículo 5º de esta ley.
+
+j) Acceder, en la forma en que se convenga con el jefe superior de la entidad respectiva, a las informaciones y antecedentes existentes en las bases de datos de los organismos públicos que, con ocasión de la revisión de una operación sospechosa previamente reportada a la Unidad o detectada por ésta en ejercicio de sus atribuciones, resulten necesarios y conducentes para desarrollar o completar el análisis de dicha operación y a los que deba recabar de conformidad con la letra g) de este artículo. En el caso que algún antecedente se encuentre amparado por el secreto o reserva, se aplicará lo dispuesto en segundo párrafo del literal b) de este artículo.
+
+k) Imponer las sanciones administrativas que establece esta ley.
 
 Bajo ningún respecto la Unidad de Análisis Financiero podrá ejercer competencias propias del Ministerio Público o de los Tribunales de Justicia. Asimismo, sólo podrá utilizar la información que reciba para los propósitos establecidos en esta ley, no pudiendo en caso alguno darla a conocer o entregarla a organismos o servicios distintos del Ministerio Público.
 
