@@ -24,7 +24,7 @@ Resuelvo:
 
 #### Artículo 1°
 
-Determínanse para el año 2019 los siguientes alumnos en calidad de preferentes, que serán beneficiarios de la subvención escolar preferencial, de acuerdo a lo dispuesto en el artículo 2° bis y 14 bis de la ley N° 20.248 y que se encuentran individualizados en el listado contenido en el archivo con firma electrónica avanzada del Coordinador Nacional de Tecnología y del Jefe de la División de Educación General, del CD folio N° 01/2019, y que se acompaña en el anexo, que forma parte integrante de la presente resolución.
+Determínase para el año 2019 los siguientes alumnos en calidad de preferentes, que serán beneficiarios de la Subvención Escolar Preferencial, de acuerdo a lo dispuesto en el artículo 2° bis y 14 bis de la ley N° 20.248, y que se encuentran individualizados en el listado contenido en archivos excel denominado "Modificación Dic 2019. Preferentes 2019 20181026_142156_Fea" contenido en el disco compacto que cuenta con firma electrónica avanzada del Jefe de la División de Planificación y Presupuesto, que se acompañan en el anexo y que forman parte integrante de la presente resolución, para todos los efectos legales.
 
 #### Artículo 2°
 
