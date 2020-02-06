@@ -212,7 +212,7 @@ Para rendir los exámenes habilitantes establecidos en el artículo 17 I letra c
 
 a) Haber sido clasificado en lista 1 o 2, en el último período calificatorio ejecutoriado.
 
-b) Encontrarse cumpliendo el último año de permanencia mínima en el grado, conforme lo dispuesto en los artículos 33 y 34 del Estatuto del Personal.
+b) Encontrarse cumpliendo el último año de permanencia mínima en el grado, conforme lo dispuesto en los artículos 33 y 34 del Estatuto del Personal, salvo en el caso a que se refiere el artículo 35 de dicho Estatuto.
 
 #### Artículo 7º
 

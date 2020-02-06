@@ -84,7 +84,7 @@ De la Estructura Orgánica
 
 Gendarmería de Chile se organizará en una Dirección Nacional y Direcciones Regionales.
 
-La Dirección Nacional organizará su trabajo a través de la Subdirección de Administración y Finanzas, la Subdirección Técnica, la Subdirección Operativa y la Escuela de Gendarmería de Chile del General Manuel Bulnes Prieto, en adelante la Escuela de Gendarmería.
+La Dirección Nacional organizará su trabajo a través de la Subdirección de Administración y Finanzas, la Subdirección de Reinserción Social, la Subdirección Operativa y la Escuela de Gendarmería de Chile del General Manuel Bulnes Prieto, en adelante la Escuela de Gendarmería.
 
 En cada región del país existirá una Dirección Regional, a cargo de un Director Regional que será de la exclusiva confianza del Director Nacional. Las Direcciones Regionales organizarán su trabajo a través de las sedes que señale el reglamento orgánico que estará contenido en un decreto supremo expedido por medio del Ministerio de Justicia, el que deberá ser también suscrito por el Ministro de Hacienda.
 
@@ -160,6 +160,10 @@ d) Aquellos que afectaren gravemente la continuidad del Servicio, poniendo en ri
 
 25.- Ejercer las demás atribuciones que ésta u otras leyes le confieran.
 
+#### Artículo 6 bis
+
+Para efectos de lo dispuesto en el numeral 19 del artículo precedente, existirá una "Unidad de Defensa Funcionaria".
+
 #### Artículo 7°
 
 La Subdirección de Administración y Finanzas estará encargada de velar por la eficaz, eficiente y oportuna gestión de los recursos humanos, financieros y materiales de Gendarmería de Chile a objeto de lograr un adecuado funcionamiento de la Institución.
@@ -186,7 +190,7 @@ La Jefatura de esta Subdirección será asumida por el Subdirector de Administra
 
 #### Artículo 8°
 
-La Subdirección Técnica estará encargada de desarrollar los programas y proyectos institucionales tendientes a la reinserción social de las personas atendidas en los distintos sistemas, velando por el mejoramiento permanente del régimen penitenciario.
+La Subdirección de Reinserción Social estará encargada de desarrollar los programas y proyectos institucionales tendientes a la reinserción social de las personas atendidas en los distintos sistemas, velando por el mejoramiento permanente del régimen penitenciario.
 
 Esta Subdirección tendrá las siguientes funciones:
 
@@ -387,6 +391,20 @@ Los funcionarios que asistan a cursos de perfeccionamiento y especialización di
 #### Artículo 26
 
 Las resoluciones e instrucciones generales relacionadas con la administración de la Institución, deberán ser publicadas en el Boletín Oficial de Gendarmería de Chile.
+
+#### Artículo 27
+
+Se considerarán secretos los siguientes documentos, cuya publicidad afectare la seguridad del personal de Gendarmería de Chile o la seguridad de la Nación:
+
+1.- Los relativos a la identificación tanto de los funcionarios de las plantas como, en general, de otras dotaciones de su personal.
+
+2.- Los atinentes a planos o instalaciones de unidades penales u otras instalaciones de la institución y los planes de operación o de servicio de la misma, con sus respectivos antecedentes, considerando especialmente los horarios de ingreso y salidas de los funcionarios penitenciarios desde y hacia las unidades penales y los protocolos que traten sobre el traslado de personas privadas de libertad.
+
+3.- Los concernientes a las características de armas de fuego, partes y piezas de ellas, municiones, explosivos, sustancias químicas y demás efectos a que se refiere la ley N° 17.798 usados por Gendarmería de Chile.
+
+Con todo, la referida información deberá ser entregada siempre a requerimiento de la Cámara de Diputados, los tribunales de justicia, la Contraloría General de la República, el Ministerio Público, el Ministerio de Justicia y Derechos Humanos y la Dirección de Presupuestos, en el ejercicio de sus funciones.
+
+En el caso a que se refiere el inciso precedente, la información entregada mantendrá su carácter reservado para los funcionarios que accedan a ella con ocasión de los referidos requerimientos.
 
 ## Artículos transitorios
 

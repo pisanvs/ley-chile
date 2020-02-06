@@ -576,7 +576,7 @@ h) Cumplir, además, las exigencias que establezca el reglamento de la Escuela d
 
 Para ingresar a las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes será indispensable haber aprobado los cursos de formación de Aspirante a Oficial o Gendarme-Alumno, según corresponda, en la Escuela de Gendarmería.
 
-Los Aspirantes a Oficiales y los Gendarmes-Alumnos mientras realicen cursos de formación tendrán la calidad de becarios. Su dotación será fijada anualmente por medio de un decreto supremo del Ministerio de Justicia expedido bajo la fórmula "Por orden del Presidente de la República", el que también deberá ser suscrito por el Ministro de Hacienda.
+Los Aspirantes a Oficiales y los Gendarmes-Alumnos mientras realicen cursos de formación tendrán la calidad de becarios. Su dotación será fijada anualmente por medio de un decreto supremo del Ministerio de Justicia expedido bajo la fórmula "Por orden del Presidente de la República", el que también deberá ser suscrito por el Ministro de Hacienda, previo informe técnico elaborado por Gendarmería de Chile.
 
 Los aspirantes a Oficiales y Gendarmes-Alumnos, tendrán derecho a un estipendio mensual que anualmente consultará la ley de presupuestos, el que será equivalente al sueldo base de los grado 20° y 22° de la Escala Unica, respectivamente.
 
@@ -816,7 +816,11 @@ En el caso que los funcionarios a que se refiere este artículo, cesen en funcio
 
 #### Artículo 35°
 
-Derogado.
+Sin perjuicio de lo dispuesto en los artículos 33 y 34, de existir vacantes disponibles para materializar los ascensos, los funcionarios del grado inmediatamente inferior podrán ascender sin haber cumplido el requisito de tiempo mínimo de permanencia en el grado establecido en los artículos antes citados. Con todo, deberán haber cumplido al menos un año en el grado en que se encuentren para poder ascender, sin perjuicio de los demás requisitos legales establecidos para dicho propósito, según corresponda, velando Gendarmería de Chile por su oportuno cumplimiento.
+
+Lo dispuesto en el inciso anterior también resultará aplicable para los funcionarios afectos al artículo único transitorio del decreto con fuerza de ley N° 2, de 2010, del Ministerio de Justicia, que fija normas para la promoción de cargos en las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes.
+
+Lo dispuesto en el inciso primero no será aplicable a los funcionarios titulares de los cargos de Subteniente y Teniente Segundo, grados 16° y 14° de la EUS, respectivamente, de la Planta de Oficiales Penitenciarios, ni a los funcionarios titulares de los cargos de Gendarme y Gendarme Segundo, grados 26° y 24°, respectivamente de la Planta de Suboficiales y Gendarmes.
 
 #### Artículo 36°
 
