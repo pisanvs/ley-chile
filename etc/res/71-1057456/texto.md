@@ -134,17 +134,21 @@ Las operaciones con cobertura aprobadas respecto de un intermediario que haya pe
 
 Los intermediarios financieros deberán tener registrados y mantener actualizados en la Corporación los poderes de sus representantes autorizados para actuar frente a ella. No será necesario cumplir con esta exigencia si ha sido cumplida en otros programas de coberturas o subsidios contingentes, programas o líneas de refinanciamiento o intermediación financiera de Corfo. Las representaciones señaladas se mantienen vigentes y tienen una antigüedad inferior a 1 año.
 
-3.8. Cupos consolidados por intermediario financiero.
+3.8 Cupos Consolidados por Intermediario Financiero.
 
-Sin perjuicio de los límites de cobertura establecidos en el numeral 6º de este reglamento, el CEC podrá determinar el monto máximo de coberturas que cada uno de los intermediarios del programa podrá solicitar y mantener vigentes con Corfo, de conformidad con los siguientes criterios:
+Sin perjuicio de los límites de cobertura establecidos en el numeral 6º de este Reglamento, el CEC podrá determinar el monto máximo de coberturas que cada uno de los intermediarios del Programa podrá solicitar y mantener vigentes con Corfo, en base al nivel de exposición y/o riesgo que presente el intermediario financiero.
 
-a) Nivel de exposición consolidada del intermediario financiero, en los siguientes programas de cobertura de Corfo: "Programa de Cobertura para Reprogramación de Créditos", "Programa de Cobertura al Fomento del Comercio Exterior - Cobex" y "Programa de Cobertura a Préstamos de Bancos e Intermediarios Financieros - Fogain";
+Para estos efectos, el CEC podrá considerar alguno de los siguientes criterios:
 
-b) Nivel patrimonial consolidado del intermediario financiero y de las entidades relacionadas en propiedad, que operen como intermediarios en los programas de cobertura antes señalados;
+a) Exposición ante Corfo. Nivel de exposición consolidada del intermediario financiero en los siguientes programas de cobertura de Corfo: "Programa de Cobertura para Reprogramación de Créditos", "Programa de Cobertura al Fomento del Comercio Exterior - Cobex", y "Programa de Cobertura a Préstamos de Bancos e Intermediarios Financieros - Fogain";
 
-c) Nivel de riesgo consolidado del intermediario financiero y de las entidades relacionadas en propiedad, respecto de su participación como operadores en los programas de cobertura señalados en la letra a) anterior.
+b) Participación de Mercado. Nivel de participación de mercado -en colocaciones u otras variables relacionadas con la capacidad de colocación- del intermediario financiero, respecto de sus carteras de créditos desagregadas por segmento de negocio o agregadas, cuenten o no éstas con respaldo de algún programa de cobertura Corfo;
 
-d) Gestión operativa del intermediario financiero en el Programa, en el proceso de solicitud de pago de coberturas y en el proceso de informe sobre estado de juicios y recuperos.
+c) Riesgo. Nivel de riesgo del intermediario financiero, y de las entidades relacionadas en propiedad, respecto de sus carteras de créditos, desagregadas por segmento de negocio o agregadas, cuenten o no éstas con respaldo de algún programa de cobertura Corfo;
+
+d) Patrimonio. Nivel patrimonial del intermediario financiero, y de las entidades relacionadas en propiedad, que operen como intermediarios en los programas de cobertura de Corfo, o
+
+e) Desempeño. Gestión del intermediario financiero en este Programa, o en el conjunto de programas de cobertura Corfo, en sus procesos operativos, tales como rendiciones mensuales, pago de coberturas y recuperos.
 
 ### 4. Condiciones de las operaciones elegibles
 
