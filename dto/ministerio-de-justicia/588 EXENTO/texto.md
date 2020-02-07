@@ -72,6 +72,10 @@ Tendrán derecho, además, a cobrar $300.- por cada página de copia de inscripc
 
 Por la autorización de la matriz, copias y certificaciones, $500.
 
+8) El arancel para la gestión de cancelación de hipotecas, gravámenes y prohibiciones constituidos para garantizar el pago de un crédito hipotecario, así como las inscripciones que se practiquen de las garantías, gravámenes y prohibiciones que se constituyan en virtud del nuevo crédito hipotecario que se otorgue y que reemplace al vigente, corresponderá, para todos los conservadores de bienes raíces del país, al 50% de valor vigente a esta fecha de anotaciones presuntivas, inscripciones, protocolizaciones, agregación o archivo de documentos, cancelaciones, certificados, certificaciones, autorizaciones de matriz y copias.
+
+Respecto de estas operaciones, procederá el recargo establecido en el numeral primero letra a) del artículo 1° del texto que fija el Arancel de Conservadores de Bienes Raíces y de Comercio solo cuando el capital del nuevo crédito otorgado sea superior al capital del crédito inicial, en dicho caso, el recargo procederá únicamente sobre el monto del nuevo contrato de crédito que exceda al monto de crédito inicial, con el tope señalado en la referida norma.
+
 #### Artículo 2º
 
 Los aranceles que se fijan en el presente decreto son máximos.
