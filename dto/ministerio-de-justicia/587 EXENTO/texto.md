@@ -106,6 +106,12 @@ Por requerimiento de aceptación o pago de letras cuyo protesto no se efectúa, 
 
 23) Por la concurrencia al otorgamiento de un instrumento público o certificación de una firma fuera de su oficina, hasta $5.000.-, además de los derechos que correspondan al otorgamiento o certificación; y si ello ocurriere en horas comprendidas entre las 20:00 y las 08:00, o en día inhábil, el arancel será convencional.
 
+24) En el caso de escrituras públicas de constitución de hipotecas y otros gravámenes cuyo objeto sea garantizar el pago de un crédito hipotecario destinado al refinanciamiento de uno o más créditos de esta clase que existan con anterioridad, los notarios del país podrán cobrar, como máximo, en el ejercicio de los actos de su ministerio, sólo el 50% del arancel de escrituras públicas señalado en el numeral 1) y el 50% del arancel correspondiente a las diligencias anexas a la misma mencionadas en los numerales 2), 4), 5), 13), 14), 15), 17), 18) y 23), todas del decreto exento N° 587 de 1998.
+
+Para el cálculo del valor a pagar, se tomará en consideración el arancel vigente a la fecha de dictación del presente decreto exento.
+
+Respecto de estas operaciones, procederá el recargo establecido en el numeral primero del artículo 1° del texto que fija el Arancel de Notarios Públicos, sólo cuando el capital del nuevo crédito otorgado sea superior al capital del crédito inicial, en dicho caso, el recargo procederá únicamente sobre el monto del nuevo contrato de crédito que exceda al monto de crédito inicial, con el tope señalado en la referida norma.
+
 #### Artículo 2º
 
 Además de los derechos de otorgamiento, el Notario percibirá $300.- por cada página de escritura matriz.
