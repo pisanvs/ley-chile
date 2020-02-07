@@ -58,6 +58,8 @@ Alternativa Individual
 
 .
 
+> **Nota.** Las letras c y d del numeral 2 de la Resolución 205 Exenta, Vivienda, publicada el 07.02.2020, disponen reemplazar en la tabla inserta "Alternativa Colectiva", sus filas "Ñuble", "Biobío", "Araucanía" y "Total País'', y asimismo, en la tabla "Alternativa Individual", sus filas "Maule" y "Total País", por aquellas que, respectivamente la citada norma indica.
+
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Guillermo Rolando Vicente, Ministro de Vivienda y Urbanismo Subrogante.
 
 Lo que transcribo para su conocimiento.- Erwin Navarrete Saldivia, Subsecretario de Vivienda y Urbanismo (S).
