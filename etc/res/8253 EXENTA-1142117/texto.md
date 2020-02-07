@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 8.253 EXENTA, DE 18 DE DICIEMBRE DE 2019
+
+Por resolución exenta Nº 8.253, de fecha 18 de diciembre de 2019, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de Región Metropolitana, se modificó resolución exenta Nº 5.373, de 23 de julio de 2019, de misma Secretaría Regional Ministerial, que aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "ACC Talagante SpA", RUT Nº 76.897.996-0, ubicada en Balmaceda Nº 710, Local 5, comuna de Talagante, a contar de su total tramitación y sólo en sentido de aprobar la designación de Directora de dicha sede, siendo esta la señora Gabriela Andrea Salah Casadio, RUT Nº 16.013.959-5. En todo lo no modificado, se mantienen íntegramente vigentes las demás estipulaciones aprobadas por resolución exenta Nº 5.373, de 23 de julio de 2019, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana de Santiago.
