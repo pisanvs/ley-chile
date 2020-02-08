@@ -34,7 +34,7 @@ Considerando:
 
 13. El oficio ordinario N° 3781, de fecha 19 de diciembre de 2019, de la Superintendencia del Medio Ambiente, dirigido a la Comisión Chilena de Energía Nuclear, Consejo de Monumentos Nacionales, Corporación Nacional de Desarrollo Indígena, Corporación Nacional Forestal, Dirección General de Aguas, Dirección de Intereses Marítimos y Medio Ambiente Acuático, Servicio Agrícola y Ganadero, Servicio Nacional de Geología y Minería, Servicio Nacional de Pesca y Acuicultura, Subsecretaría de Salud Pública, Subsecretaría de Transportes, Dirección General de Aeronáutica Civil, Superintendencia de Servicios Sanitarios, Subsecretaría de Pesca y Acuicultura y Dirección Nacional de Vialidad, por medio del cual se informa de las reuniones de validación del Ciclo de Programación año 2020;
 
-14. Que, la resolución de calificación ambiental es un acto administrativo complejo, que recoge el resultado del proceso de evaluación de impacto ambiental de aquellas actividades o proyectos que, de conformidad a la ley N° 19.300, han cumplido dicho trámite con anterioridad a su ejecución. Ante la diversidad de impactos ambientales que existe entre cada uno de los proyectos ambientalmente evaluados, y que cuentan con una resolución de calificación ambiental, el número de actividades de fiscalización requeridas para cada unidad fiscalizable solo es determinable durante la etapa de planificación de la fiscalización, correspondiendo en todos estos casos al menos una actividad de fiscalización, pero, según la complejidad del proyecto y su estado operacional, pueden llegar a ser muchas más. Por esa razón, y en base a la experiencia acumulada durante estos años, para el periodo 2018 se ha trabajado en la programación de actividades de fiscalización de resoluciones de calificación ambiental en base a la categoría de unidad fiscalizable, para luego informar, al final del periodo de evaluación, el número de actividades efectivamente realizadas.
+14. Que, la resolución de calificación ambiental es un acto administrativo complejo, que recoge el resultado del proceso de evaluación de impacto ambiental de aquellas actividades o proyectos que, de conformidad a la ley Nº 19.300, han cumplido dicho trámite con anterioridad a su ejecución. Ante la diversidad de impactos ambientales que existe entre cada uno de los proyectos ambientalmente evaluados, y que cuentan con una resolución de calificación ambiental, el número de actividades de fiscalización requeridas para cada unidad fiscalizable solo es determinable durante la etapa de planificación de la fiscalización, correspondiendo en todos estos casos al menos una actividad de fiscalización, pero, según la complejidad del proyecto y su estado operacional, pueden llegar a ser muchas más. Por esa razón, y en base a la experiencia acumulada durante estos años, para el periodo 2020 se ha trabajado en la programación de actividades de fiscalización de resoluciones de calificación ambiental en base a la categoría de unidad fiscalizable, para luego informar, al final del periodo de evaluación, el número de actividades efectivamente realizadas.
 
 Resuelvo:
 
@@ -104,29 +104,31 @@ Sin perjuicio de lo anterior, para el año 2020 la Superintendencia relevará ad
 
 Organismos Sectoriales. Los organismos sectoriales que durante el año 2020 ejecutarán procesos de fiscalización en virtud de un subprograma de fiscalización ambiental de resolución de calificación ambiental, son los siguientes:
 
-. Consejo de Monumentos Nacionales
+. Consejo de Monumentos Nacionales.
 
-. Corporación Nacional de Desarrollo Indígena
+. Corporación Nacional de Desarrollo Indígena.
 
-. Corporación Nacional Forestal
+. Corporación Nacional Forestal.
 
-. Dirección General de Aguas
+. Dirección General de Aguas.
 
-. Dirección General del Territorio Marítimo y de Marina Mercante
+. Dirección General del Territorio Marítimo y de Marina Mercante.
 
-. Dirección de Vialidad
+. Dirección de Vialidad.
 
-. Servicio Nacional de Geología y Minería
+. Servicio Nacional de Geología y Minería.
 
-. Servicio Agrícola y Ganadero
+. Servicio Agrícola y Ganadero.
 
-. Servicio Nacional de Pesca y Acuicultura
+. Servicio Nacional de Pesca y Acuicultura.
 
-. Subsecretaría de Pesca y Acuicultura
+. Subsecretaría de Pesca y Acuicultura.
 
-. Subsecretaría de Salud Pública
+. Subsecretaría de Salud Pública.
 
 . Superintendencia de Servicios Sanitarios.
+
+. Subsecretaría de Transportes.
 
 #### Artículo sexto
 
@@ -156,7 +158,7 @@ Subprograma de fiscalización ambiental de resoluciones de calificación ambient
 
 #### Artículo décimo
 
-Subprograma de fiscalización ambiental de resoluciones de calificación ambiental de la Subsecretaría de Transportes. Durante el año 2020, la Subsecretaría de Transportes no realizará procesos de fiscalización ambiental programadas, sin perjuicio de aquellas que sean encomendadas respecto de denuncias admitidas a trámite por la Superintendencia o el examen de información de los reportes que sean ingresados al Sistema de Seguimiento Ambiental.
+Subprograma de fiscalización ambiental de resoluciones de calificación ambiental de la Superintendencia de Electricidad y Combustibles. Durante el año 2020, la Superintendencia de Electricidad y Combustibles no realizará procesos de fiscalización ambiental programadas, sin perjuicio de aquellas que sean encomendadas respecto de denuncias admitidas a trámite por la Superintendencia o el examen de información de los reportes que sean ingresados al Sistema de Seguimiento Ambiental.
 
 Artículo undécimo. Subprograma de fiscalización ambiental de resoluciones de calificación ambiental del Consejo de Monumentos Nacionales. Durante el año 2020, el Consejo de Monumentos Nacionales realizará los siguientes procesos de fiscalización ambiental, sobre la base de la asignación presupuestaria indicada:
 
