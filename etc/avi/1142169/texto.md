@@ -1,0 +1,69 @@
+FIJA VALOR DE LA UNIDAD DE FOMENTO Y DEL ÍNDICE VALOR PROMEDIO PARA LOS DÍAS COMPRENDIDOS ENTRE EL 10 DE FEBRERO DE 2020 Y 9 DE MARZO DE 2020
+
+El Banco Central de Chile, para los efectos previstos en el Capítulo II.B.3 "Sistemas de Reajustabilidad autorizados por el Banco Central de Chile (Acuerdo Nº 05-07-900105)" del Compendio de Normas Financieras, fija el valor de la "Unidad de Fomento" y del "Índice Valor Promedio" para los días comprendidos entre el 10 de febrero de 2020 y 9 de marzo de 2020, en las cantidades que a continuación se indican.
+
+Valores de U.F. e I.V.P.
+
+PERÍODO DEL 10 DE FEBRERO 2020 AL 9 DE MARZO 2020
+
+FECHA UF I.V.P.
+
+10-02-2020 28.352,33 29.522,12
+
+11-02-2020 28.358,18 29.525,06
+
+12-02-2020 28.364,03 29.527,99
+
+13-02-2020 28.369,88 29.530,93
+
+14-02-2020 28.375,73 29.533,86
+
+15-02-2020 28.381,59 29.536,79
+
+16-02-2020 28.387,44 29.539,73
+
+17-02-2020 28.393,30 29.542,67
+
+18-02-2020 28.399,15 29.545,60
+
+19-02-2020 28.405,01 29.548,54
+
+20-02-2020 28.410,87 29.551,47
+
+21-02-2020 28.416,73 29.554,41
+
+22-02-2020 28.422,60 29.557,35
+
+23-02-2020 28.428,46 29.560,28
+
+24-02-2020 28.434,32 29.563,22
+
+25-02-2020 28.440,19 29.566,16
+
+26-02-2020 28.446,06 29.569,10
+
+27-02-2020 28.451,93 29.572,04
+
+28-02-2020 28.457,80 29.574,97
+
+29-02-2020 28.463,67 29.577,91
+
+01-03-2020 28.469,54 29.580,85
+
+02-03-2020 28.475,41 29.583,79
+
+03-03-2020 28.481,29 29.586,73
+
+04-03-2020 28.487,16 29.589,67
+
+05-03-2020 28.493,04 29.592,61
+
+06-03-2020 28.498,92 29.595,55
+
+07-03-2020 28.504,80 29.598,49
+
+08-03-2020 28.510,68 29.601,43
+
+09-03-2020 28.516,56 29.604,38
+
+Santiago, 7 de febrero de 2020.- Mauricio Álvarez Montti, Ministro de Fe (S).
