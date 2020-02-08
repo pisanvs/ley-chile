@@ -152,6 +152,8 @@ Subprograma de fiscalización ambiental de Planes de Prevención y/o Descontamin
 
 Subprograma de fiscalización ambiental de Planes de Prevención y/o Descontaminación de la Subsecretaría de Salud Pública. Durante el año 2020, la Subsecretaría de Salud Pública ejecutará, por medio de la Secretaría Regional Ministerial de Salud respectiva, los siguientes procesos de fiscalización, sobre la base de la asignación presupuestaria indicada, respecto de aquellas medidas regulatorias sujetas a fiscalización y sanción de la Superintendencia.
 
+.
+
 Artículo undécimo. Subprograma de fiscalización ambiental de Planes de Prevención y/o Descontaminación del Servicio Nacional de Geología y Minería. Durante el año 2020, el Servicio Nacional de Geología y Minería ejecutará, los siguientes procesos de fiscalización ambiental, sobre la base de la asignación presupuestaria indicada, respecto de aquellas medidas regulatorias sujetas a fiscalización y sanción de la Superintendencia.
 
 Artículo duodécimo. Período de Gestión de Episodios Críticos. De conformidad a lo establecido en la letra g) del artículo 16 de la Losma, respecto de los Planes de Prevención y/o Descontaminación que contengan normas sobre gestión de episodios críticos, la Superintendencia podrá establecer otros programas y subprogramas de fiscalización ambiental.
