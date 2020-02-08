@@ -172,6 +172,8 @@ Subprograma de fiscalización ambiental de Planes de Prevención y/o Descontamin
 
 Subprograma de fiscalización ambiental de Planes de Prevención y/o Descontaminación de la Subsecretaría de Salud Pública. Durante el año 2020, la Subsecretaría de Salud Pública ejecutará, por medio de la Secretaría Regional Ministerial de Salud respectiva, los siguientes procesos de fiscalización, sobre la base de la asignación presupuestaria indicada, respecto de aquellas medidas regulatorias sujetas a fiscalización y sanción de la Superintendencia.
 
+.
+
 #### Artículo decimoprimero
 
 <!-- parte:10094342 -->
