@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 624 EXENTA, DE 27 DE ENERO DE 2020
+
+Mediante resolución exenta Nº 624, de 27 de enero de 2020, el Servicio Nacional de Capacitación y Empleo declara el ces a contar del 18 de enero de 2020, de la inscripción en el Registro Nacional de Organismos Técnicos de Capacitación de la entidad "Capacitación, Oportunidad, Acción Chile Ingeniería Interpersonal Limitada (Capacitación, Oportunidad, Acción Chile Ingeniería Interpersonal Limitada)", RUT 77.102.550-1, contenida en la resolución exenta Nº 2.913, de 3 de octubre de 2006, por cuanto dejó de cumplir con el requisito establecido en el Nº 2, del Art. 21 de la ley 19.518.
+
+Santiago, 27 de enero de 2020.- Rodrigo Valdivia Lefort, Jefe de Departamento de Desarrollo y Regulación de Mercado (S), Servicio Nacional de Capacitación y Empleo.
