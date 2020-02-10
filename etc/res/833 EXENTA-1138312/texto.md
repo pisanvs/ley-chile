@@ -30,9 +30,23 @@ d) Que la interpretación armónica de los Vistos y Considerandos precedentes de
 
 Resolución:
 
-1.- Establézcase, para el segundo cierre del llamado 2019 Res. Ex. Nº 1.115 de fecha 15 de mayo de 2019 de condominios de vivienda social, la siguiente distribución de recursos de acuerdo a lo indicado en el resuelvo Nº 1 letra d):
+1.- Establézcase, para el segundo cierre del Llamado 2019 res. Ex. N° 1.115 de fecha 15 de mayo de 2019 de condominios de vivienda social, la siguiente distribución de recursos de acuerdo a lo indicado en el resuelto N° 1, letra d):
 
-.
+Tipo de demanda de Condominios Sociales Monto (UF)
+
+Condominios Sociales que conforman la 59.200,00
+
+demanda general del programa
+
+Condominios Sociales insertos en 7.500,00
+
+conjuntos habitacionales que se
+
+encuentran en barrios seleccionados
+
+por el Programa de Recuperación
+
+de Barrios
 
 2.- Déjese presente que si el monto destinado para condominios sociales inserto en conjuntos habitacionales que se encuentren en barrios seleccionados por el Programa de Recuperación de Barrios no es utilizado o quedase un saldo disponible, este monto será transferido a los condominios sociales que conforman la demanda general del programa.
 
