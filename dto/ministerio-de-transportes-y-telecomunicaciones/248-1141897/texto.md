@@ -66,7 +66,9 @@ al punto de emisión de
 
 la señal.
 
-- Período de la concesión : 25 años.
+- Período de la : 25 años.
+
+concesión
 
 - Potencia : 1.000 W.
 
@@ -80,13 +82,19 @@ CARACTERÍSTICAS TÉCNICAS DE LAS INSTALACIONES
 
 - Desviación máxima : ±75 kHz.
 
-- Diagrama de Radiación : Omnidireccional.
+- Diagrama de : Omnidireccional.
 
-- Ganancia : 3,1 dBd de ganancia máxima.
+Radiación
+
+- Ganancia : 3,1 dBd de
+
+ganancia máxima.
 
 - Polarización : Circular.
 
-- Tipo de antenas : Anillo terminado en barras.
+- Tipo de antenas : Anillo terminado
+
+en barras.
 
 - Nº Antenas : 4.
 
@@ -106,6 +114,8 @@ UBICACIÓN DE LAS INSTALACIONES
 
 Planta Transmisora y
 
+73°
+
 Sistema Radiante : Aníbal Pinto N° 1664,
 
 comuna de Valdivia,
@@ -113,6 +123,10 @@ comuna de Valdivia,
 Región de Los Ríos.
 
 - Coordenadas Geográficas : 39° 49' 22" Latitud Sur.
+
+14' 23" Longitud Oeste.
+
+Datum WGS 84.
 
 4.- El presente decreto de renovación deberá publicarse en el Diario Oficial dentro del plazo de 30 días hábiles, contados desde que la Subsecretaría le notifique a la concesionaria que el decreto fue totalmente tramitado por la Contraloría General de la República. La no publicación de éste dentro del plazo indicado, producirá la extinción de la concesión por el solo ministerio de la ley.
 
