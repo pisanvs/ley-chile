@@ -1,4 +1,4 @@
-APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DEL PERSONAL DEL INSTITUTO DE DESARROLLO AGROPECUARIO. DEJA SIN EFECTO DECRETO 149, DE 1995
+APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DEL INSTITUTO DE DESARROLLO AGROPECUARIO. DEJA SIN EFECTO DECRETO 149, DE 1995
 
 Núm. 22 exento.- Santiago, 31 de enero de 2011.- Visto: Lo dispuesto en las leyes Nºs. 11.764, artículo 134; 16.395, artículo 24; 17.538, artículo único; en el DS Nº 28, de 1994; en el DS Nº 149, de 1995, ambos de la Subsecretaría de Previsión Social del Ministerio del Trabajo y Previsión Social, y la facultad que me confiere el artículo 32 Nº 6 de la Constitución Política de la República de Chile,
 
@@ -14,7 +14,7 @@ De la Naturaleza Jurídica
 
 #### Artículo 1º
 
-El Servicio de Bienestar del Instituto de Desarrollo Agropecuario, en adelante "El Servicio de Bienestar", tendrá por finalidad propender al mejoramiento de las condiciones de vida de sus afiliados y sus causantes de asignación familiar, proporcionándoles, en la medida que sus recursos lo permitan, ayuda social, médica, económica, recreativa y cultural, además de cooperar con el desarrollo integral de los mismos.
+El Servicio de Bienestar del Instituto de Desarrollo Agropecuario, en adelante "El Servicio de Bienestar" propenderá al mejoramiento de las condiciones de vida de sus afiliados y los causantes de asignación familiar, por medio de un Servicio de Bienestar integral y solidario, cuyo objetivo principal será proporcionar, en la medida que sus recursos lo permitan y dentro del marco legal: ayuda social, médica, económica, recreativa y cultural; además de cooperar con el desarrollo integral de los mismos.
 
 #### Artículo 2º
 
@@ -232,7 +232,7 @@ Las cuotas mensuales a pagar por los afiliados, originadas por préstamos o uso 
 
 En beneficio de los afiliados y/o cargas familiares, el Servicio de Bienestar podrá patrocinar, asesorar y financiar grupos y cursos no profesionales de actividades deportivas, recreativas y culturales, con entrega directa de recursos o mediante concursabilidad, según lo determine el Consejo Administrativo en reglamentación interna que garantice la transparencia de la asignación y uso del presupuesto para estos fines.
 
-Además, podrá colaborar en la organización y celebración de Fiestas Patrias, Cumpleaños y Navidad, en la medida que sus recursos financieros lo permitan, conforme al monto que anualmente destine el Consejo Administrativo para estos objetivos.
+Además, podrá colaborar en la organización y celebración de Fiestas Patrias, Cumpleaños, Navidad, Reconocimiento por años de Servicios, en la medida que sus recursos financieros lo permitan, conforme al monto que anualmente destine el Consejo Administrativo para estos objetivos.
 
 ## Título V
 
