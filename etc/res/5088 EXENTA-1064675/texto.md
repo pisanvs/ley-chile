@@ -62,11 +62,11 @@ Resuelvo:
 
 6.2. En predios positivos a Pissodes castaneus.
 
-6.2.1 Disponer que el material vegetal producto de desechos de podas, desechos de raleo, desechos de cosecha y restos de árboles volteados de especies hospedantes, sean destruidos en el predio mediante incineración o fumigación con Bromuro de Metilo, Fosfina o Fosfuro de Hidrógeno; o enterramiento bajo 80 cm de suelo, antes del 31 de agosto para podas, raleos o cosechas realizadas entre el 1 de enero y 30 de junio de cada año, o antes del 31 de diciembre para podas, raleos o cosechas realizadas entre el 1 de julio y 31 de diciembre de cada año.
+6.2.1 El propietario, arrendatario o tenedor de estos predios, deberá implementar el control biológico como una de las medidas de manejo fitosanitario de la plaga. Las medidas de manejo fitosanitario de la plaga deberán ser informadas al Servicio mediante el procedimiento que éste determine.
 
-6.2.2. Disponer que los rodales infestados sean mantenidos con mecanismos que impidan el ingreso de vehículos al rodal, excepto en aquellos que realizan labores para el manejo del predio o para la fiscalización de la normativa vigente.
+6.2.2. Eliminado.
 
-6.2.3. Prohibir la movilización, fuera del predio, de cualquier tipo de material vegetal con corteza (leña, trozas, madera, ramas) de especies hospedantes, sin la autorización expresa del SAG.
+6.2.3. Eliminado.
 
 6.2.4. Cualquier cambio de propiedad o mera tenencia del predio deberá ser comunicado de inmediato al SAG por el propietario, arrendatario o tenedor de éste.
 
@@ -74,9 +74,15 @@ Resuelvo:
 
 8. El propietario, arrendatario o tenedor de un predio, aserradero, industria u otro recinto que esté localizado dentro del área bajo cuarentena, desde el cual se realice movimiento de plantas, ramas, brotes, o madera con corteza en trozas (aserrables, debobinables, pulpables u otras) o madera simplemente aserrada con corteza (basas, cuartones, tablas, tablones, listones y lampazos), o leña con corteza de los géneros botánicos hospedantes de Pissodes castaneus, con destino al área en peligro, deberá contar con la autorización previa del Servicio, basada en el cumplimiento de la aplicación de una de estas alternativas:
 
-a) Para el caso de plantas para plantar, debe cumplir lo establecido en los puntos 6.1.3 y 6.1.4, debiendo verificarse por parte de inspectores del SAG la ausencia de la plaga en las plantas que se despachan al área en peligro.
+a) Para el caso de plantas para plantar, plantas madres, brotes o setos además de cumplir lo establecido en los puntos 6.1.3 y 6.1.4, debe verificarse, mediante muestreo realizado por parte de inspectores del SAG o a través del sistema de autorización de terceros, la ausencia de la plaga en los lotes de plantas que se despachan al área en peligro.
 
 b) Alguno de los tratamientos fitosanitarios señalados en el numeral 6.1.5 ó 6.1.6, los que deberán ser aplicados bajo la supervisión de inspectores del SAG o ser verificados por éstos.
+
+c) Que los predios de origen de las maderas presenten una baja prevalencia de la plaga (menos del 1% de los árboles con infestación reciente de Pissodes castaneus) y se encuentran localizados a menos de 2 km de los puntos donde se ha verificado el establecimiento de Eubazus semirugosus.
+
+d) Que los predios de origen de las maderas se haya liberado Eubazus semirugosus en los últimos dos años.
+
+e) Que se demuestre la presencia o el establecimiento de Eubazus semirugosus en el predio de origen de las maderas.
 
 9. Los medios de transporte que se utilicen en el traslado de plantas para plantar, plantas madres, setos, trozas y maderas (incluida la leña) de especies hospedantes de Pissodes castaneus provenientes del área bajo cuarentena, deberán cumplir con las medidas de resguardo establecidas por el SAG, lo cual deberá ser verificado por los dueños, arrendatarios o tenedores de los predios.
 
