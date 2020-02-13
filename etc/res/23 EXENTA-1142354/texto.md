@@ -1,0 +1,5 @@
+APRUEBA EL "CONVENIO DE COLABORACIÓN PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN", SUSCRITO ENTRE LA SUPERINTENDENCIA DE PENSIONES Y EL INSTITUTO DE PREVISIÓN SOCIAL
+
+Por resolución exenta N° 23, de 17 de enero de 2020, el Director Nacional del Instituto de Previsión Social, aprobó el "Convenio de Colaboración para la Prestación de Servicios de Atención", suscrito el 17 de diciembre de 2019, entre la Superintendencia de Pensiones y este Instituto, que tiene por objeto aplicar y coordinar recursos a fin de que en la Red de Canales de Atención del IPS, propia o de instituciones adheridas en el marco de ChileAtiende, se acoja a los usuarios actuales y potenciales de la Superintendencia, a fin de que puedan acceder a través de estos, a los productos, trámites y servicios.
+
+Santiago, 6 de febrero de 2020.- Patricio Coronado Rojo.
