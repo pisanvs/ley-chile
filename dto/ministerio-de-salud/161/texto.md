@@ -124,9 +124,11 @@ c) Aplicación de oxígeno y aspiración;
 
 d) Disponibilidad permanente de material e instrumental esterilizado;
 
-e) Medicamentos de urgencia; y
+e) Medicamentos de urgencia;
 
-f) Evacuación expedita de los pacientes y del personal, en caso de incendios u otras catástrofes.
+f) Evacuación expedita de los pacientes y del personal, en caso de incendios u otras catástrofes; y,
+
+g) Alimentación y Nutrición.
 
 #### Artículo 17°
 
@@ -166,9 +168,11 @@ c) Emitir las certificaciones de alcance médico sin perjuicio de las que otorgu
 
 d) El cumplimiento de las disposiciones sobre asepsia, antisepsia y demás normas técnicas aprobadas por el Ministerio de Salud con el objeto de prevenir infecciones intrahospitalarias;
 
-e) La supervisión de la higiene del personal y del establecimiento; y
+e) La supervisión de la higiene del personal y del establecimiento;
 
-f) Las relaciones con la autoridad sanitaria.
+f) Las relaciones con la autoridad sanitaria; y,
+
+g) El cumplimiento de las disposiciones sobre calidad e inocuidad de los Servicios de Alimentación y Nutrición.
 
 #### Artículo 20°
 
@@ -206,7 +210,7 @@ d) Laboratorio clínico, banco de sangre, radiología y demás unidades de apoyo
 
 e) Disposición de cadáveres, restos orgánicos y desechos biológicos;
 
-f) Control de alimentos;
+f) Servicios de Alimentación y Nutrición;
 
 g) Disposición de excretas y basuras; y
 
@@ -232,9 +236,11 @@ c) Manejo de ropa limpia y sucia;
 
 d) Almacenamiento de desechos, hasta su adecuada disposición;
 
-e) Servicios higiénicos para pacientes, visitantes y personal; y
+e) Servicios higiénicos para pacientes, visitantes y personal;
 
-f) Ejecución de exámenes o procedimientos especiales si corresponde.
+f) Ejecución de exámenes o procedimientos especiales si corresponde; y,
+
+g) Proporcionar alimentación y nutrición a los pacientes.
 
 #### Artículo 26°
 
@@ -408,9 +414,29 @@ La dotación de recursos de personal y de equipos e instrumentos de estos establ
 
 Estos establecimientos deberán disponer de un sistema que garantice atención de enfermería continua, con la debida supervisión de enfermera profesional durante las veinticuatro horas del día.
 
-#### Artículo 44°
+#### Artículo 44º
 
-En los establecimientos en que se atiendan a neonatos o lactantes menores a dos años de edad deberá existir una unidad encargada específicamente de la elaboración de regímenes lácteos, que se organizará y regirá por las normas técnicas aprobadas en la matería por el Ministerio de Salud.
+Estos establecimientos deberán contar con una unidad Servicio Dietético de Leche (SEDILE), una Central de Fórmulas Enterales (CEFE) y una unidad de Lactario, que se regirán por la norma técnica que emita el Ministro de Salud.
+
+El Servicio Dietético de Leche (SEDILE) es la unidad destinada a la preparación, envasado, conservación, esterilización y distribución de las fórmulas lácteas, que reciben los lactantes hospitalizados.
+
+La Central de Fórmulas Enterales (CEFE) es la unidad destinada a la preparación, envasado, conservación, esterilización y distribución de determinadas mezclas de macro y micronutrientes (fórmulas enterales) administradas al tubo digestivo, mediante sondas de alimentación o como suplementos orales, en pacientes pediátricos y también en adultos hospitalizados.
+
+Las unidades de Servicios Dietéticos de Leche (SEDILE) y Central de Fórmulas Enterales (CEFE), deben ser espacios físicos diseñados y destinados exclusivamente a la preparación, envasado, conservación, esterilización y distribución de las fórmulas lácteas y enterales, bajo estrictos estándares de calidad nutricional e inocuidad alimentaria.
+
+La unidad de Lactario, servirá de apoyo a la función clínica, cuyo objetivo es mantener la lactancia materna del lactante hospitalizado, proporcionando a la madre un lugar adecuado para la extracción segura e inocua de su leche. Debe ubicarse en los servicios de maternidad y pediatría hospitalaria para mantener la lactancia materna de aquellos niños o niñas que no pueden recibir leche directamente de su madre.
+
+Estas unidades deben contar con personal técnico en alimentación capacitado y al menos un profesional nutricionista que entre sus funciones dentro del establecimiento tendrá a cargo la organización y supervisión de estas unidades.
+
+#### Artículo 44º bis
+
+Estos establecimientos podrán tener un Banco de Leche Humana (BLH).
+
+Un Banco de Leche Humana es una unidad especializada donde la leche humana donada por madres aptas para tales fines debe ser recibida, clasificada, procesada, almacenada, pasteurizada y distribuida bajo las máximas medidas de calidad y seguridad microbiológica a pacientes prematuros o lactantes hospitalizados que no disponen de leche de su madre y que la requieran por indicación del profesional de salud competente.
+
+Los Bancos de Leche Humana (BLH), se organizarán y regirán por la respectiva norma técnica que emita el Ministerio de Salud.
+
+Esta unidad debe contar con personal técnico capacitado en alimentación y un profesional nutricionista que entre sus funciones dentro del establecimiento tendrá a cargo la organización y supervisión de esta unidad.
 
 #### Artículo 45°
 
