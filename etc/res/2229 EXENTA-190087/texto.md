@@ -24,9 +24,9 @@ R e s u e l v o:
 
 Se exceptúan de esta prohibición los agentes exóticos de control biológico, polinizantes, organismos con propósitos de investigación o de ornamentación, cuyas condiciones de ingreso se establecen en la presente resolución.
 
-2.- La autorización de ingreso al país de agentes exóticos de control biológico, polinizantes, excepto abejas melíferas, y los organismos para uso científico o de ornamentación, será otorgada al internador mediante la emisión de una resolución exenta del Departamento de Protección Agrícola del SAG y el Vº Bº del Departamento Protección Recursos Naturales Renovables, en la cual se detallarán los requisitos y las condiciones específicas de ingreso al país.
+2.- La autorización de ingreso al país de agentes exóticos de control biológico, polinizantes, excepto abejas melíferas y Bombus spp., y los organismos para uso científico o de ornamentación, será otorgada al internador mediante la emisión de una resolución exenta de la División de Protección Agrícola y Forestal del SAG en la que constará además el V°B° de la División de Protección Recursos Naturales Renovables y en la cual se detallará los requisitos y las condiciones específicas de ingreso al país.
 
-El ingreso de abejas melíferas (Apis mellifera) se realizará cumpliendo las exigencias sanitarias del Departamento Protección Pecuaria del SAG.
+El ingreso de abejas melíferas (Apis mellifera) y Abejorros (Bombus spp.) se realizará cumpliendo las exigencias sanitarias establecidas por las resoluciones correspondientes y las condiciones establecidas en la Ley de Caza.
 
 3.- El proceso de internación de agentes exóticos de control biológico, polinizantes y de organismos para uso científico o de ornamentación se iniciará con la presentación de una Solicitud de Internación, en la Oficina SAG correspondiente, en la cual se deberá detallar la información siguiente:
 
