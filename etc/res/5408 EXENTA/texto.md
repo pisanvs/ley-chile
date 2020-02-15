@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 5.408, de fecha 2 de diciembre de 2019, se ordenó la expropiación Parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 422, correspondiente al inmueble ubicado en Independencia 50437 El Carmen, Rol de Avalúo Nº 2777-15, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Lahsen Azar Alfredo Salem, con una superficie aproximada de 57,05 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por la señora María Carolina Letelier Bopp, arquitecto; señor Patricio Rivera Castro, ingeniero en ejecución y el señor Gastón Bravo Hurtado, ingeniero Civil, mediante Informe de fecha 3 de septiembre de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $50.699.100, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.
+
+Director Serviu Metropolitano.
