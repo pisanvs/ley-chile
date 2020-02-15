@@ -1,0 +1,3 @@
+EXTRACTO
+
+Por Decreto Exento MOP Nº 3 de 17 de enero de 2020, se tuvo por desistida la expropiación del lote de terreno Nº 1, ordenada por Decreto MOP Nº 1404 de 3 de noviembre de 2017, modificado por Decreto MOP Nº 518 de 20 de junio de 2018, para la obra "Camino Ruta 5 Norte, Tramo Santiago - Los Vilos, Sector: Km. 84.540,00 al Km. 86.620,00, Enlace Llay-Llay", Región de Valparaíso, comuna de Llay-Llay. La publicación se efectúa en cumplimiento a lo dispuesto en los artículos 7º y 32º del Decreto Ley Nº 2186, de 1978.
