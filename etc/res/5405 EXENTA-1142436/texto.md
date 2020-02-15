@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 5.405, de fecha 2 de diciembre de 2019, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186 de 1978, del denominado Lote Nº 421, correspondiente al inmueble ubicado en Independencia 4953 El Carmen, Rol de Avalúo Nº 2777-14, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Díaz Gautier Felipe Alfredo y otros, con una superficie aproximada de 56,29 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por la señora María Carolina Letelier Bopp, arquitecto; el señor Patricio Rivera Castro, ingeniero en ejecución, y el señor Gastón Bravo Hurtado, ingeniero civil, mediante informe de fecha 3 de septiembre de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $49.939.300, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186 de 1978.-
+
+Directora (S) Serviu Metropolitano.
