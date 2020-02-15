@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 979, de 29 de enero de 2020, Serviu Región de Valparaíso dispuso la rectificación de la resolución exenta Nº 6.253, de fecha 6 de noviembre de 2018, que dispuso la expropiación parcial del inmueble individualizado como Lote 4 en el Proyecto de Expropiaciones DRS-P Nº 12204 lámina 02 de 08, en el sentido de rectificar el resuelvo 1 de la resolución citada, indicando que el lote expropiado es el Lote 4 ubicado en Camino Cintura s/n Cerro Las Perdices, Valparaíso, Rol de Avalúo del Servicio de Impuestos Internos 2140-1, con una superficie a expropiar de 12,57 m2, de Presunto Propietario José Arriagada Solís, y un valor de indemnización de $1.495.751. En todo lo demás la resolución Nº 6.253, de fecha 6 de noviembre de 2018, sigue sin modificaciones y plenamente vigente.-
+
+Director (S) Serviu.
