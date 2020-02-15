@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 5.409, de fecha 2 de diciembre de 2019, se ordenó la expropiación parcial, conforme a las normas del decreto ley Nº 2.186, de 1978, del denominado Lote Nº 425, correspondiente al inmueble ubicado en Independencia 5061, El Carmen, Rol de avalúo Nº 2777-18, de la comuna de Conchalí, Región Metropolitana, de aparente dominio de Pérez López Héctor Enrique y otros, con una superficie aproximada de 65,26 metros cuadrados. Dicha expropiación resulta necesaria para la ejecución del Proyecto "Construcción Eje Movilidad Independencia". La Comisión de Peritos integrada por la señora Paulina Jadue Zaror, arquitecto; señora Soledad Herrera Zuñiga, ingeniero civil, y señora Ingrid Von Osten Yáñez, ingeniero civil, mediante Informe de fecha 3 de septiembre de 2019, fijó la indemnización provisional por causa de la referida expropiación en la suma de $22.992.012, que se pagará al contado. La presente publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Directora (S), Serviu Metropolitano.
