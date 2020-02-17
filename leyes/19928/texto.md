@@ -218,7 +218,35 @@ El juicio a que se procediere en aplicación del inciso precedente se tramitará
 
 Instáurase el 4 de octubre de cada año como el "Día de la Música y de los Músicos Chilenos".
 
+## Título V
+
+De los conciertos y eventos musicales masivos
+
 #### Artículo 16
+
+Para efectos de esta ley, se entenderá por conciertos y eventos musicales de carácter masivo a aquellos que planean congregar a más de seiscientas personas de público en un lugar con la capacidad e infraestructura para este fin, excluyéndose los festivales y celebraciones efectuadas por una municipalidad.
+
+#### Artículo 17
+
+Los conciertos y eventos musicales de carácter masivo que se presenten en Chile deberán cumplir los siguientes requisitos:
+
+a) En los casos de preventa de entradas dirigida a un público exclusivo o preferencial, por un tiempo determinado, solo podrá comercializarse por este medio un porcentaje no superior al 50 por ciento del total de entradas puestas a disposición para la venta.
+
+b) El recinto donde se realice el evento o concierto deberá contar con espacios reservados para personas en situación de discapacidad, ubicados en áreas que cuenten con visibilidad y comodidad adecuada.
+
+c) Los que se efectúen por artistas extranjeros acogidos al beneficio contemplado en el artículo 12, letra E, numeral 1, literal a) del decreto ley Nº 825, sobre Impuesto a las Ventas y Servicios, deberán contemplar la participación de al menos un telonero chileno, intentando promover el fomento de los talentos regionales cuando el evento se realice en una región distinta de la Metropolitana. Para efectos de esta ley, se entiende por telonero al artista o agrupación artística que ejecuta un acto, show o espectáculo musical como preámbulo o en forma accesoria a un espectáculo musical protagónico.
+
+Quien desee acogerse a este beneficio, programando la presencia de telonero chileno en los términos contenidos en este literal, no necesitará contar con el apoyo o patrocinio de la respectiva embajada o consulado de que es nacional el respectivo artista extranjero, ni acreditar que su presentación es parte de un programa de intercambio o extensión cultural de dicho Estado.
+
+d) Las empresas productoras de la organización serán responsables de la limpieza y aseo que deben ejecutarse después de realizado el espectáculo.
+
+El incumplimiento de las normas establecidas en las letras a), b) y d) de este artículo será sancionado con multa a beneficio fiscal de 50 a 100 unidades tributarias mensuales.
+
+## Título VI
+
+Disposiciones varias
+
+#### Artículo 18
 
 El Registro de la Propiedad Intelectual que recibe el depósito legal a que se refiere el artículo 75 de la ley Nº 17.336, sobre Propiedad Intelectual, entregará, a la Biblioteca Nacional, uno de los ejemplares de las obras musicales, impresos o grabados, para archivar, proteger, investigar, difundir y exhibir la producción musical nacional.
 
@@ -226,7 +254,7 @@ Dicha biblioteca podrá convenir con corporaciones o fundaciones de derecho priv
 
 En el caso de las obras depositadas en el Registro mencionado en el inciso primero, con anterioridad a la vigencia de la presente ley, la Biblioteca Nacional deberá adoptar los debidos resguardos para no afectar los fines de dicho Registro.
 
-#### Artículo 17
+#### Artículo 19
 
 Introdúcense las siguientes enmiendas en el artículo 75 de la ley Nº 17.336:
 
