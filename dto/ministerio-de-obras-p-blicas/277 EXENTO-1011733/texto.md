@@ -70,7 +70,9 @@ Ruta K-55, Cruce Ruta 115 CH - Cruce K-15.
 
 K-60 Talca - Curepto.
 
-K-630 Chacarillas - Unihue.
+Ruta 120, Cruce Ruta 5 (enlace Unihue) - Puente
+
+El Cajón (sector Culenar)
 
 L-11 Cruce Longitudinal - Colbún - Linares.
 
@@ -89,6 +91,22 @@ M-80-N Pueblo Hundido - Curanipe - Cobquecura,
 sector: Pueblo Hundido - Estero Tregualemu.
 
 S/R By Pass Oriente a Cauquenes, en Proyecto.
+
+J-65: Cruce Ruta 5 (Curicó Sur) - Quebrada Honda
+
+K-440: Cruce Ruta 5 (Alto Pangue) - Cruce K-60
+
+(Puente Río Claro)
+
+K-610: Cruce Ruta 120 (Talca) - Colín - Linares
+
+de Perales
+
+K-620: Cruce Ruta 5 (Puente Maule) - Cruce
+
+K-610 (Culenar)
+
+L-551: Cruce Ruta 5 (Longaví) - El Tránsito.
 
 Arco Oriente:
 
@@ -128,7 +146,7 @@ TALCA:
 
 . El tramo urbano de la Ruta 115-CH, desde su intersección con la Ruta 5, hasta el límite urbano Oriente, a través Av. San Miguel.
 
-. El sistema vial urbano que interconecta la Ruta 118 con la Ruta K-630, desde el límite urbano Norte hasta el límite urbano Sur, a través de Avenida Lircay, Avenida Circunvalación Río Claro, Avenida Ignacio Carrera Pinto, Avenida Colin.
+. El sistema vial urbano que interconecta la Ruta 118, con la Ruta 120, desde el límite urbano norte hasta el límite urbano sur; a través de: Avenida Lircay, Avenida Circunvalación Río Claro, Avenida Ignacio Carrera Pinto, Avenida Colín.
 
 . El tramo urbano de la Ruta K-60, desde el límite urbano Poniente hasta su intersección con la Avenida Circunvalación Río Claro, a través de Camino a Pencahue.
 
@@ -136,7 +154,9 @@ TALCA:
 
 . El tramo urbano de la Ruta K-511, desde la Ruta 5 a la Ruta K-55, a través de: Av. Batalla de Lircay y Av. San Valentín.
 
-El tramo urbano de la Ruta K-45, desde Ruta 5 hasta el límite urbano oriente.
+. El tramo urbano de la Ruta K-45, desde Ruta 5 hasta el límite urbano oriente.
+
+. El tramo urbano de la Ruta K-440, desde Camino a Pencahue hasta el límite urbano norte; a través de Av. Las Tinajas.
 
 CAUQUENES:
 
@@ -147,6 +167,10 @@ CURICÓ:
 . El tramo urbano de la Ruta 5, desde el límite urbano Norte hasta el límite urbano Sur, a través de Ruta 5 Sur.
 
 . El tramo urbano de la Ruta J-615, desde la Ruta 5 hasta el límite urbano oriente, a través de: Camino a Zapallar.
+
+. El tramo urbano de la Ruta J-65, desde Ruta 5 Sur hasta el límite urbano oriente; a través de calle Camino Los Niches.
+
+. El tramo urbano de la Ruta J-550, desde límite urbano norte hasta el límite urbano sur; a través de calle Curicó Sarmiento por El Boldo.
 
 LINARES:
 
@@ -191,6 +215,20 @@ PARRAL:
 PELLUHUE:
 
 . El sistema vial urbano que interconecta la Ruta M-80-N, desde el límite urbano Norte hasta el límite urbano Surponiente, a través de Abdón Fuentealba, Av. Condell y Las Brisas, Arturo Prat.
+
+Comalle (Teno)
+
+. El tramo urbano de la Ruta J-440, desde el límite urbano poniente hasta el límite urbano sur; a través de calle Barros Negros y calle Ruta J-440.
+
+San Javier
+
+. El sistema vial urbano que interconecta la Ruta L-131 con la Ruta L-115, desde el límite urbano sur hasta el límite urbano oriente; a través de: calle General Barbosa y calle Ignacio Carrera Pinto.
+
+Maule
+
+. El tramo urbano de la Ruta K-610, desde la Ruta 120 hasta el límite urbano sur-poniente; a través de Camino Los Patos y Avda. Colín Ruta K-610.
+
+. El tramo urbano de la ruta K-620, desde Ruta 120 hasta el límite urbano sur; a través de calle Ruta K-620.
 
 5º Las calles o avenidas declaradas caminos públicos en el presente decreto, sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
