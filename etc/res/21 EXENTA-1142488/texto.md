@@ -1,0 +1,3 @@
+DESIGNA SECRETARIOS TITULARES Y SUPLENTES EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE VALDIVIA
+
+Por resolución Ex. SII N° 21, del 11 de febrero de 2020, se designó a Sebastián Marcelo Cárdenas Zambrano, RUT: 15.294.828-K, en la calidad de Secretario Titular y a doña Verónica Martínez Silva, RUT: 11.846.607-1, en la calidad de Secretario Suplente, ambos en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con Jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Valdivia.
