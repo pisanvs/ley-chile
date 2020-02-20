@@ -152,6 +152,8 @@ El ejercicio transitorio de actividades lucrativas, estará grabado por los sigu
 
 .
 
+> **Nota.** El Decreto 1100 exento, Municipalidad de Vallenar, publicado el 17.04.2018, dispone modificar el cuadro inserto en los términos que la citada norma indica.
+
 #### Artículo 12
 
 <!-- parte:9803527 -->
@@ -257,6 +259,8 @@ Los derechos a pagar por el arriendo mensual de los locales del Mercado Municipa
 .
 
 Gastos generales: 10% sobre canon de arriendo.
+
+> **Nota.** El Decreto 525 Exento, M. de Vallenar, publicada el 29.06.2018, modifica los derechos a pagar por el arriendo mensual de los locales del mercado municipal contenidos en la tabla inserta en el articulo 19 de este Decreto.
 
 ### Párrafo 4º
 
@@ -382,17 +386,13 @@ DERECHOS MUNICIPALES RELATIVOS TRANSPORTE TRÁNSITO Y VEHÍCULO
 
 <!-- parte:9803555 -->
 
-Los permisos por estacionamiento reservado de Bienes Nacionales de uso público que sean autorizados por la Municipalidad, estarán gravados con los siguientes derechos:
-
-.
+Los permisos por estacionamiento reservado en bienes nacionales de uso público que sean autorizados por la Municipalidad, estarán gravados con los siguientes derechos:
 
 #### Artículo 31
 
 <!-- parte:9803556 -->
 
-Los derechos a cancelar por licencia de conducir son los siguientes:
-
-.
+Los derechos a cancelar por Licencia de Conducir son los siguientes:
 
 #### Artículo 32
 
@@ -400,15 +400,11 @@ Los derechos a cancelar por licencia de conducir son los siguientes:
 
 Los derechos a pagar por conceptos expresados a continuación, son los siguientes:
 
-.
-
 #### Artículo 33
 
 <!-- parte:9803558 -->
 
 Los servicios de bodegaje respecto de vehículos abandonados en la vía pública, mal estacionados o que entorpezcan el tránsito vehicular o peatonal, sin autorización y que sean retirados por tribunales, carabineros o inspectores municipales y que llegare a los recintos municipales, pagarán los siguientes derechos municipales, diario:
-
-.
 
 ## Título VI
 
