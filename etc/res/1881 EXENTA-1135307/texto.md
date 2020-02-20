@@ -56,8 +56,6 @@ El proceso de Revisión y Calificación de los Proyectos, contemplará una insta
 
 6. Los plazos correspondientes a los procesos y fases de postulación y selección de este llamado serán los siguientes:
 
-.
-
 7. Los recursos disponibles para efectuar la selección de proyectos, que incluyen el monto del subsidio más la asistencia técnica respectiva, serán los siguientes:
 
 Con estos montos se definirá el número de postulantes que deberán presentar las carpetas de sus proyectos al Serviu. Asimismo, tendrán que presentar sus carpetas, los postulantes de la lista de espera señalada en el segundo párrafo del numeral 2 del artículo 27 del DS Nº 27 (V. y U.), de 2016, que para este llamado será el total de los proyectos digitados.
@@ -72,7 +70,7 @@ Si una vez concluido el proceso señalado quedaren recursos disponibles, mediant
 
 11. La inscripción en el Conservador de Bienes Raíces de la prohibición de gravar y enajenar la propiedad, señalada en el artículo 67 del DS Nº 27 (V. y U.), de 2016, deberá constituirse durante la ejecución del proyecto, requiriéndose para el pago final del subsidio.
 
-12. Delégase en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo la facultad de seleccionar, mediante resolución, en atención al financiamiento disponible y a los factores señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
+12. Delégase en los Secretarios Regionales Ministeriales de Vivienda y Urbanismo de las regiones del Biobío y Metropolitana la facultad de seleccionar, mediante resolución, en atención al financiamiento disponible y a los factores señalados en el artículo 72, del DS Nº 27 (V. y U.), de 2016, aquellos proyectos que postulen al presente llamado y resulten calificados por Serviu.
 
 13. Los subsidios que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para las Regiones de Valparaíso, del Biobío, de Aysén del General Carlos Ibáñez del Campo y Metropolitana, del Programa regulado por el DS Nº 27 (V. y U.), de 2016, para el año 2019.
 
