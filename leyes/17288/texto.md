@@ -62,9 +62,11 @@ El Presidente de la República designará, cada tres años, a los miembros del C
 
 t) De un representante de asociaciones de barrios y zonas patrimoniales, nombrado de conformidad al reglamento;
 
-u) De un representante del Colegio de Arqueólogos de Chile, y
+u) De un representante del Colegio de Arqueólogos de Chile;
 
-v) Un representante del Servicio Nacional de Turismo.
+v) Un representante del Servicio Nacional de Turismo, y
+
+w) De un Paleontólogo designado por la Sociedad Paleontológica de Chile.
 
 Los consejeros que no sean funcionarios públicos tendrán derecho a percibir una dieta mensual equivalente a ocho unidades de fomento, siempre que asistan a lo menos a una sesión mensual, considerando tanto las sesiones ordinarias como las extraordinarias. Esta dieta será compatible con otros ingresos que perciba el consejero.
 
@@ -188,15 +190,17 @@ Los Intendentes y Gobernadores velarán por el buen estado de conservación de l
 
 ## Título V
 
-De los Monumentos Arqueológicos, de las Excavaciones
-
-e Investigaciones Científicas correspondientes.
+De los Monumentos Arqueológicos y Paleontológicos, de las Excavaciones e Investigaciones Científicas correspondientes.
 
 #### Artículo 21
 
 °- Por el solo ministerio de la ley, son Monumentos Arqueológicos de propiedad del Estado los lugares, ruinas, y yacimientos y piezas antropo-arqueológicas que existan sobre o bajo la superficie del territorio nacional.
 
 Para los efectos de la presente ley quedan comprendidas también las piezas paleontológicas y los lugares donde se hallaren.
+
+Se entenderá por pieza paleontológica todo ser orgánico fosilizado conservado a través de los tiempos geológicos formando parte de rocas sedimentarias.
+
+Se entenderá por yacimiento paleontológico o paleoantropológico todo lugar donde existan restos de fauna o flora fósiles y restos humanos o de la industria humana, de épocas geológicas pretéritas.
 
 #### Artículo 22°
 
