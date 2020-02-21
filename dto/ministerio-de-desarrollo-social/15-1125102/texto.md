@@ -1,4 +1,4 @@
-CREA COMISIÓN ASESORA MINISTERIAL DENOMINADA "PANEL DE EXPERTOS PARA LA ENCUESTA DE CARACTERIZACIÓN SOCIOECONÓMICA NACIONAL 2019"
+CREA COMISIÓN ASESORA MINISTERIAL DENOMINADA "PANEL DE EXPERTOS PARA LA ENCUESTA DE CARACTERIZACIÓN SOCIOECONÓMICA NACIONAL 2019-2020"
 
 Santiago, 9 de octubre de 2018.- Hoy se decretó lo que sigue:
 
@@ -22,7 +22,7 @@ Que, con el propósito de resguardar la calidad y eficacia de la "Encuesta Casen
 
 Decreto:
 
-Primero.- Créase la Comisión Asesora Ministerial denominada "Panel de Expertos para la Encuesta de Caracterización Socioeconómica Nacional 2019" en adelante e indistintamente "Panel", de carácter consultivo, cuya finalidad será acompañar y asesorar al Ministerio en el proceso de diseño, implementación, y evaluación de los resultados de la Encuesta Casen 2019 en adelante e indistintamente la "Encuesta", la cual comenzará su funcionamiento por razones de buen servicio a contar de la fecha de dictación del presente acto, sin esperar su total tramitación.
+Primero.- Créase la Comisión Asesora Ministerial denominada "Panel de Expertos para la Encuesta de Caracterización Socioeconómica Nacional 2019-2020" en adelante e indistintamente "Panel", de carácter consultivo, cuya finalidad será acompañar y asesorar al Ministerio en el proceso de diseño, implementación, y evaluación de los resultados de la Encuesta Casen 2019-2020 en adelante e indistintamente la "Encuesta", la cual comenzará su funcionamiento por razones de buen servicio a contar de la fecha de dictación del presente acto, sin esperar su total tramitación.
 
 Segundo.- En el cumplimiento de las funciones señaladas en el artículo primero, le corresponderán al "Panel" las siguientes tareas:
 
