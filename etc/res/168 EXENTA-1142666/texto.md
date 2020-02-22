@@ -1,0 +1,5 @@
+EXTRACTO
+
+Mediante resolución exenta Nº 168, de fecha 17 de enero de 2020, de esta Secretaría Regional, se aprueba Programa de Enseñanza correspondiente a los cursos conducentes a la obtención de las licencias clase B o no profesional a la Escuela de Conductores no profesional o Clase B denominada "Instituto de Capacitación y Escuela de Conductores C y C San Antonio Limitada", de propiedad de la sociedad del mismo nombre, pudiendo funcionar y actuar con el nombre de fantasía "Escuela de Conductores C y C San Antonio Limitada", representada legalmente por doña Claudia Yamili Aravena Cabeza, RUN Nº 13.767.969-8. Su lugar de funcionamiento será la sede ubicada en calle 3 Sur Nº 029, Barrancas, comuna de San Antonio. Las horas pedagógicas autorizadas a la referida Escuela son 9 horas teóricas, 12 horas prácticas, con un total de 21 horas pedagógicas.-
+
+José Emilio Guzmán Cepeda, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Valparaíso.
