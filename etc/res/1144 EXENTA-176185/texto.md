@@ -26,7 +26,7 @@ Fíjase la siguiente norma técnica para el servicio público de telefonía móv
 
 #### Artículo 1º
 
-Se destina las bandas 1.710 - 1.770 MHz y 2.110 - 2.170 MHz para el servicio público de telefonía móvil digital avanzado, en adelante el servicio.
+Se destina las bandas 1.710-1.755 MHz y 2.110-2.155 MHz para el servicio público de telefonía móvil digital avanzado, en adelante el servicio.
 
 > **Nota.** El Artículo único de la Resolución 4477 Exenta, Transportes, publicada el 21.08.2010, modifica la presente norma en el sentido de que las bandas de frecuencia regulada, también podrá ser empleadas para suministrar servicio público de telefonía local inalámbrica. Establece además que las concesionarias de servicio público de telefonía móvil interesadas en suministrar el citado servicio fijo, deberán solicitar nuevas concesiones sobre la misma banda de frecuencias autorizada.
 
@@ -34,7 +34,7 @@ Se destina las bandas 1.710 - 1.770 MHz y 2.110 - 2.170 MHz para el servicio pú
 
 La distribución de bandas de frecuencias es la siguiente:
 
-Quedará reservada también para este servicio las bandas 1.755 - 1.770 MHz y 2.155 - 2.170 MHz. La presente distribución de frecuencias no impide el uso de las frecuencias de las bandas de 800 y 1.900 MHz actualmente empleadas por las concesionarias de servicio público de telefonía móvil para ofrecer el presente servicio.
+La presente distribución de frecuencias no impide el uso de las frecuencias de las bandas de 800 y 1.900 MHz actualmente empleadas por las concesionarias de servicio público de telefonía móvil para ofrecer el presente servicio.
 
 #### Artículo 3º
 
