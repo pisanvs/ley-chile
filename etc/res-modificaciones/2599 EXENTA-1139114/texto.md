@@ -80,8 +80,6 @@ Nota: estos recursos podrán variar por el otorgamiento de asignaciones directas
 
 6. Publíquese la presente resolución en el Diario Oficial; y en un periódico de circulación regional en cada región del país, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al resuelvo número 3. de esta resolución, las que deberán contener a lo menos, la comuna, el título del cual se trate, el nombre de cada postulante con su respectiva cédula de identidad y el puntaje obtenido por el grupo o persona.
 
-> **Nota.** El N° 2 de la Resolución 456 Exenta, Vivienda, publicada el 11.05.2021, modifica la presente norma en el sentido de rectificar en el resuelvo 4° los montos de recursos regionales, respecto de la Región Metropolitana, por un monto de 165 UF más para el recuadro "UF ASBESTO", en los términos que la citada norma indica.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Cristián Monckeberg Bruner, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo.
