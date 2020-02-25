@@ -80,6 +80,8 @@ Nueva distribución de LTP'S clase "A" de Merluza de tres aletas, por licitació
 
 Merluza común IV Región al paralelo 41°28,6' L.S.
 
+.
+
 Nueva distribución de LTP'S clase "A" de Merluza común, por licitación de licencias clase B:
 
 .
