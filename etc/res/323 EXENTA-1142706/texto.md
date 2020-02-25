@@ -1,0 +1,9 @@
+ESTABLECE NÓMINA DE ESPECIES OBJETIVO Y DE FAUNA ACOMPAÑANTE SOMETIDAS A LOS ARTÍCULOS 7°A Y 7°C DE LA LEY GENERAL DE PESCA Y ACUICULTURA PARA LA PESQUERÍA DE BACALAO DE PROFUNDIDAD AL SUR DEL PARALELO 47° L.S., AÑO 2020
+
+Por resolución exenta N° 323, de 7 de febrero de 2020, de esta Subsecretaría, establécese la nómina de especies objetivo, de fauna acompañante y de pesca incidental para la flota industrial que opera con palangre en la unidad de pesquería de Bacalao de profundidad comprendida entre el paralelo 47° L.S. y el límite sur de la Zona Económica Exclusiva de la Región de Magallanes y la Antártica Chilena, que se encuentran sometidas a un Plan de Reducción del Descarte y de la Captura de Pesca Incidental, autorizado mediante resolución exenta N° 745 de 2018, de conformidad con los artículos 7° A.- y 7°C.- de la Ley General de Pesca y Acuicultura, año 2020.
+
+Para los efectos antes señalados, la nómina se divide en cuatro categorías de especie objetivo (Tabla 1); especies de fauna acompañante, sometidas a cuota global anual de captura (CGA), Licencia Transable de Pesca (LTP), cuota fuera de la unidad de pesquería (FUP), Veda (V) o al Plan de Acción Nacional para la Conservación de Tiburones (PANT), según corresponda (Tabla 2); especies de fauna acompañante no administradas bajo cuotas globales anuales de captura o sometidas al Plan de Acción Nacional para la Conservación de Tiburones (PANT) según corresponda (Tabla 3), y especies de pesca incidental (Tabla 4), según se detalla en la resolución extractada.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 7 de febrero de 2020.- José Pedro Núñez Barruel, Subsecretario de Pesca y Acuicultura (S).
