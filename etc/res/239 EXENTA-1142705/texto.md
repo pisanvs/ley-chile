@@ -1,0 +1,9 @@
+ESTABLECE NÓMINA DE ESPECIES OBJETIVO Y FAUNA ACOMPAÑANTE SOMETIDAS A LOS ARTÍCULOS 7ºA, 7ºB Y 7ºC DE LA LEY GENERAL DE PESCA Y ACUICULTURA PARA PESQUERÍA ARTESANAL E INDUSTRIAL DE ANCHOVETA, AÑO 2020
+
+Por resolución exenta Nº 239, de 6 de febrero de 2020, de esta Subsecretaría, establécese la nómina de especies objetivo, de fauna acompañante y de pesca incidental para la pesquería industrial y artesanal de Anchoveta en su unidad de pesquería, comprendida en el área marítima de las Regiones de Arica y Parinacota, Tarapacá y Antofagasta, que se encuentran sometidas a un Plan de Reducción del Descarte y la Captura de Pesca Incidental autorizado mediante resolución exenta Nº 1.625, de 2019, de conformidad con los Artículos 7º A, 7º B y 7º C de la Ley General de Pesca y Acuicultura, año 2020.
+
+Para los efectos antes señalados la nómina se divide en cuatro categorías de especies: objetivo (Tabla 1); fauna acompañante sujeta a cuotas globales anuales de captura (CGA), Licencia Transable de Pesca (LTP) o Régimen Artesanal de Extracción (RAE), según corresponda, para la flota industrial (Ind) o artesanal (Art) (Tabla 2); fauna acompañante no administrada con cuota global anual de captura o sometida al Plan de Acción Nacional para la Conservación de Tiburones (PANT) para las flotas industrial y artesanal (Tabla 3) y especies de pesca incidental (Tabla 4), distinguiendo en cada tabla las especies que tienen prohibición de descarte, especies cuyo descarte está autorizado y especies cuya devolución es obligatoria, según se detallan en la resolución extractada.
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y Acuicultura y del Servicio Nacional de Pesca y Acuicultura.
+
+Valparaíso, 6 de febrero de 2020.- José Pedro Núñez Barruel, Subsecretario de Pesca y Acuicultura (S).
