@@ -1,0 +1,43 @@
+DESIGNA DIRECTOR EJECUTIVO DEL SERVICIO LOCAL DE EDUCACIÓN PÚBLICA DE COLCHAGUA, DE CONFORMIDAD AL ARTÍCULO VEINTIUNO DE LA LEY N° 21.040
+
+Núm. 6.- Santiago, 9 de enero de 2020.
+
+Visto:
+
+Lo dispuesto en los artículos 24, 32 N° 10 y 35, de la Constitución Política de la República; en los artículos 4, 14 y 16 del DFL N° 29, de 2004, del Ministerio de Hacienda, que Fija Texto Refundido, Coordinado y Sistematizado de la ley N° 18.834, sobre Estatuto Administrativo; en la ley N° 18.956, que Reestructura el Ministerio de Educación Pública; en los artículos 16, 21 y 22 de la ley N° 21.040, que Crea el Sistema de Educación Pública; en el DFL N° 60, de 2018, que Fija Planta de Personal del Servicio Local de Educación Pública de Colchagua que comprende las comunas de San Fernando, Chimbarongo, Nancagua y Placilla y otras materias que indica; en el decreto N° 74, de 2018, que fija denominación, ámbito de competencia territorial, domicilio y calendario de instalación con las fechas en que iniciarán funciones los servicios locales de Educación Pública, que indica; en el decreto N° 1.256, de septiembre de 2019, del Ministerio de Hacienda, por el cual se fijan los porcentajes de asignación de Alta Dirección Pública para los cargos de Directores/as Ejecutivos/as de los Servicios Locales de Educación Pública Colchagua, que comprende las comunas de San Fernando, Chimbarongo, Nancagua y Placilla; de Llanquihue que comprende las comunas de Fresia, Frutillar, Los Muermos y Puerto Varas; y de Valparaíso, que comprende las comunas de Valparaíso y Juan Fernández, todos del primer nivel jerárquico; en la resolución exenta N° 1.164, de 2019, del Servicio Civil, que convoca a proceso de selección público y abierto, de amplia difusión, para proveer el cargo de Director/a Ejecutivo/a del Servicio Local de Educación Pública de Colchagua (concurso N°: 4835); en la resolución exenta N° 1.362, de 2019, del Servicio Civil, que decide ampliación de convocatorias de los procesos de selección públicos, abiertos y de amplia difusión para proveer los cargos de: 1) Director/a Ejecutivo/a del Servicio Local de Colchagua, que comprende las comunas de San Fernando, Chimbarongo, Nancagua y Placilla; 2) Director/a Ejecutivo/a del Servicio Local de Educación de Llanquihue, que comprende las comunas de Fresia, Frutillar, Los Muermos y Puerto Varas; 3) Director/a Regional de Coquimbo del Instituto de Previsión Social; 4) Director/a Regional de Araucanía del Instituto de Previsión Social; 5) Director/a Hospital de Curacaví del Servicio de Salud Metropolitano Occidente; 6) Director/a Atención Primaria del Servicio de Salud de Concepción; 7) Director/a Regional de Ñuble, Región del Maule, del Servicio Nacional de la Mujer y Equidad de Género; 8) Jefe/a Departamento de Administración de Educación Municipal de Coronel (concursos N°s: 4835, 4817, 4928, 4931, 4922, 4944, 4932 y 4905); en las órdenes de trabajo N° 364/2019 y N° 363/2019, ambas relativas al Convenio Marco Servicio de Búsqueda y Evaluación de Altos Directivos Públicos ID 2239-12-LP15; en el certificado de 31 de agosto de 2019, del Consejo de Alta Dirección Pública, por el que se certifica que el perfil de selección del cargo de Director/a Ejecutivo/a del Servicio Local de Educación, de la Dirección de Educación Pública, del Ministerio de Educación, correspondiente Colchagua, fue aprobado a través del acuerdo N° 6403, adoptado en la sesión ordinaria N° 1.315, de 25 de julio de 2019; en el certificado de fecha 11 de diciembre de 2019, del Consejo de Alta Dirección Pública, por el que se certifica que una vez concluido el proceso de selección destinado a proveer el cargo de Director/a del Servicio Local de Educación de Colchagua, del Ministerio de Educación y, habiéndose notificado de ello a los postulantes, no se presentó ninguna reclamación al respecto; oficio reservado N° 128, de 2019, del Consejo de Alta Dirección Pública, por el que se remite al Presidente del Comité Directivo Local del Servicio Local de Educación Pública de Colchagua que comprende las comunas de San Fernando, Chimbarongo, Nancagua y Placilla, la nómina de candidatos/as propuestos por ese Consejo para proveer el cargo de Director/a Ejecutivo del Servicio Local de Educación Pública de Colchagua; en el oficio reservado de fecha 25 de noviembre de 2019 del Presidente del Comité Directivo Local del aludido Servicio Local de Educación, por el que se remite al Presidente de la República la nómina de candidatos; en el Of. Gab. Pres. N° 1926, de 23 de diciembre 2019, de S.E. el Presidente de la República, que informa la elección de don Óscar Leonardo Fuentes Román como Director Ejecutivo del Servicio Local de Educación Pública de Colchagua y en la resolución N° 6, de 2019, de la Contraloría General de la República, que Fija Normas sobre Exención del Trámite de Toma de Razón de las Materias de Personal que Indica.
+
+Considerando:
+
+Que, la ley N° 21.040, estableció la creación de setenta Servicios Locales de Educación, los que se encargarán de proveer el servicio público educacional.
+
+Que, en virtud de lo anterior y, de conformidad a lo dispuesto en el artículo 16 de dicha ley, los Servicios Locales de Educación Pública son órganos públicos, funcional y territorialmente descentralizados, con personalidad jurídica y patrimonio propio, que se relacionan con el Presidente de la República a través del Ministerio de Educación Pública.
+
+Que, por medio del decreto N° 74, de 2018, del Ministerio de Educación, se fijó la denominación, ámbito de competencia territorial, domicilio y calendario de instalación con las fechas en que iniciarán sus funciones los Servicios Locales de Educación Pública que se indican, precisando que, el de Colchagua iniciaría sus funciones el día 2 de enero de 2020.
+
+Que, el artículo 21 de la ley N° 21.040, prescribe que la dirección y administración de cada Servicio Local estará a cargo de un Director Ejecutivo, quien será el jefe superior del servicio; el que será nombrado por el Presidente de la República, mediante el proceso de selección de altos directivos públicos previsto en el Párrafo 3° del Título VI de la ley N° 19.882 y las reglas especiales del artículo 27 referido.
+
+Que, mediante la resolución exenta N° 1.164, de 2019, del Servicio Civil, se convocó al proceso de selección público y abierto, de amplia difusión, para proveer el citado cargo (concurso N°: 4835).
+
+Que, posteriormente, a través de la resolución exenta N° 1.362, de 2019, el Servicio Civil decidió ampliar las convocatorias de los procesos de selección públicos, abiertos y de amplia difusión para proveer los cargos que indican, entre los cuales se encuentra el de Director/a Ejecutivo/a del Servicio Local de Educación Pública de Colchagua.
+
+Que, luego, mediante oficio reservado N° 128, de 2019, el Consejo de Alta Dirección Pública remite al Presidente del Comité Directivo Local del Servicio Local de Educación Pública de Colchagua, la nómina de candidatos/as propuestos por ese Consejo para proveer el cargo de Director/a Ejecutivo del Servicio Local de Educación Pública de Colchagua.
+
+Que, mediante oficio Gab. Pres. N° 1926, de 23 de diciembre de 2019, de S.E. el Presidente de la República, se informó a la Dirección Nacional del Servicio Civil la elección de don Óscar Leonardo Fuentes Román para asumir el cargo de Director Ejecutivo del Servicio Local de Educación Pública de Colchagua.
+
+Que, en virtud de lo expuesto y, de la normativa vigente al efecto, es preciso proceder a la dictación del presente acto administrativo que nombra a la persona señalada en el cargo de Director Ejecutivo del Servicio Local de Educación Pública de Colchagua.
+
+Decreto:
+
+I Desígnase, a contar del día 13 de enero de 2020 y por el plazo de seis años, a don Óscar Leonardo Fuentes Román, cédula nacional de identidad N° 7.240.502-1, como Director Ejecutivo del Servicio Local de Educación Pública de Colchagua.
+
+II Por razones impostergables de buen servicio, la persona que se nombra asumirá sus funciones en la fecha señalada, sin esperar la total tramitación del presente decreto.
+
+III La remuneración de la persona nombrada será la que corresponda al grado 4 de la Escala Única de Sueldos, de conformidad al DFL N° 60, de 2018, ya individualizado.
+
+IV Fíjase en 35% el porcentaje de asignación de Alta Dirección Pública para la persona nombrada en el presente decreto.
+
+V Impútese el gasto a la partida presupuestaria que al efecto corresponda.
+
+Anótese, tómese razón, regístrese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Marcela Cubillos Sigall, Ministra de Educación.
+
+Lo que transcribo a Ud. para su conocimiento.- Raúl Figueroa Salas, Subsecretario de Educación.
