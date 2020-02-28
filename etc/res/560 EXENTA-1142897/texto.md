@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 560 EXENTA, DE 21 DE ENERO DE 2020
+
+Por resolución exenta Nº 560, de 21 de enero de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se modifica la resolución exenta Nº 1.760, de 7 de mayo de 2012, de esta Secretaría Regional, en el sentido de reemplazar el resuelvo por el siguiente: "Otórgase Reconocimiento Oficial a la Escuela de Conductores Profesionales "Instituto de Gestión de Transporte SpA", cuyo nombre de fantasía es "IGT SpA", RUT Nº 76.130.549-2, representada legalmente por doña Rosa Blanca Palma Rodríguez, para impartir el curso conducente a la obtención de licencia de conductor profesional Clase A-3, en la sede ubicada en Calle Dieciocho Nº 182, comuna de Santiago, y en el taller mecánico ubicado en Ramón Subercaseaux Nº 3060, comuna de Estación Central". En todo lo no modificado, se mantiene íntegramente vigente la resolución exenta Nº 1.760, de 7 de mayo de 2012, de esta Secretaría Regional Ministerial.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
