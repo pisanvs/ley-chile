@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 589 EXENTA, DE 23 DE ENERO DE 2020
+
+Por resolución exenta Nº 589, de 23 de enero de 2020, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago, se modifica la resolución exenta Nº 2.791, de 25 de mayo de 2016, de esta Secretaría Regional, en el sentido de reemplazar el anterior domicilio de la Escuela de Conductores Profesionales "Corporación Nueva Ciaspo", ubicado en "Santo Domingo Nº 979, 3º piso, comuna de Santiago", por su actual domicilio, ubicado en "calle Dieciocho Nº 182, comuna de Santiago". En todo lo no modificado, se mantiene íntegramente vigente la resolución exenta Nº 2.791, de 25 de mayo de 2016, de esta Secretaría Regional Ministerial.-
+
+Eddy Roldán Cabrera, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana de Santiago.
