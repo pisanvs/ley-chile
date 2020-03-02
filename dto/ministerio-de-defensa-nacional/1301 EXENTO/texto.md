@@ -1,0 +1,9 @@
+OTORGAMIENTO DE DESTINACIÓN MARÍTIMA
+
+Decreto exento Nº 1.301, de 27 de diciembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, pone término a la Concesión Marítima Menor otorgada por DS Nº 710, de 2014, al Sindicato de Trabajadores Independientes, Pescadores Artesanales, Algueros y Acuicultores "San Francisco de Ilque", RUT 65.006.074-1, sobre un sector de playa, en el lugar denominado Bahía Ilque, Ilque Bajo, comuna de Puerto Montt, y otorga al Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca y Acuicultura, para el Servicio Nacional de Pesca y Acuicultura, domiciliado en calle Victoria Nº 2832, comuna de Valparaíso, RUT 60.701.002-1, Destinación Marítima, con vencimiento el 30 de junio de 2049, sobre un sector de playa, playa, porción de agua y fondo de mar en el lugar denominado Bahía Ilque, Ilque Bajo, comuna de Puerto Montt, provincia de Llanquihue, Región de Los Lagos, con una superficie total de 2.389,54 m, la que fue tramitada con el SIABC Nº 43.682. A modo referencial se señalan las siguientes coordenadas geográficas:
+
+El objeto es amparar actividades ligadas a la pesca artesanal, de acuerdo al artículo 4º de la ley Nº 21.027, las que contendrán en el Plan de Administración, aprobado en los términos del artículo 10 de la ley Nº 21.027.
+
+Los antecedentes de la solicitud se encuentran a disposición del púbico en la Capitanía Puerto de Puerto Montt. El presente extracto se encuentra visado por la Capitanía Puerto antes señalada.
+
+Puerto Montt, 23 de enero de 2020.- Felipe Jesús González Iturriaga, Capitán de Fragata LT, Capitán de Puerto de Puerto Montt.
