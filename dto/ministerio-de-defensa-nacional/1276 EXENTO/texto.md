@@ -1,0 +1,9 @@
+TÉRMINO CONCESIÓN MARÍTIMA MENOR Y OTORGAMIENTO DE DESTINACIÓN MARÍTIMA AL SERVICIO NACIONAL DE PESCA Y ACUICULTURA
+
+Decreto exento Nº 1.276 de fecha 24 de diciembre de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, pónese término, a expresa petición del concesionario, Sindicato de Trabajadores Independientes de Buzos Mariscadores y Asistentes de Buzos y Ramos Similares de la Caleta Camarones, RUT 65.290.520-K, a la concesión marítima menor otorgada por DS Nº 641, de 2011, del Ministerio de Defensa Nacional, Subsecretaria para las Fuerzas Armadas, en la comuna de Camarones, y destínase al Ministerio de Economía, Fomento y Turismo, Servicio Nacional de Pesca y Acuicultura, domiciliado en calle Victoria Nº 2832, comuna de Valparaíso, RUT Nº 60.701.002-1, sobre un sector de terreno de playa, terreno de playa artificial, fondo de mar y uso de mejora fiscal, con vencimiento el 30 de junio de 2049, en la comuna de Camarones, provincia de Arica, Región de Arica y Parinacota, con una superficie total de 990,64 m2, la que fue tramitada con el SIABC Nº 43.010. A modo referencial se señalan las siguientes coordenadas geográficas, las que se encuentran incluidas en el decreto:
+
+El objeto de la Destinación Marítima en el sector otorgado consiste en amparar actividades ligadas a la pesca artesanal, de acuerdo al artículo 4º de la Ley Nº 21.027, las que se contendrán en el Plan de Administración, aprobado en los términos del artículo 10 de la ley Nº 21.027.
+
+Los antecedentes de la solicitud se encuentran a disposición del público en la Capitanía de Puerto de Arica. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.
+
+Arica, 3 de febrero de 2020.- Jorge Vergara Moraga, Capitán de Corbeta LT, Capitán de Puerto de Arica.
