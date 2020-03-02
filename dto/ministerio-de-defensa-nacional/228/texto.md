@@ -1,0 +1,7 @@
+TRANSFERENCIA DE CONCESIÓN MARÍTIMA MENOR
+
+Decreto supremo Nº 228, de fecha 23 de mayo de 2019, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, correspondiente al SIABC Nº 41284, se autorizó transferencia de concesión marítima menor a Julio César Correa Morales, RUT Nº 10.245.919-9, otorgada mediante decreto supremo Nº 27, de fecha 11 de enero de 2019, del Ministerio de Defensa, Subsecretaría para las Fuerzas Armadas, sobre un sector de Terreno de Playa, con el objeto de hacer usufructo de la mejora fiscal existente, desarrollar un proyecto turístico, consistente en prestación de servcios de camping (Polígono A y B). Instalación de servicios básicos y módulo para venta de productos envasados y comida rápida (Polígono C) y se encuentra ubicada en el lugar denominado Pan de Azúcar, comuna de Chañaral, provincia de Chañaral, Región de Atacama, con vencimiento el 31 de diciembre de 2022. Las obras existentes corresponden a 6 quinchos de madera y totora, de construcción abierta, cocinería de madera con techo de totora, bodega y vestíbulo para personal y servicios higiénicos y la concesión abarca una superficie total de 1.477,22 m2.
+
+Los antecedentes del decreto referido se encuentran a disposición del público en la Capitanía de Puerto de Chañaral. El presente extracto se encuentra visado por la Capitanía de Puerto antes señalada.-
+
+Claudio Durán Roco, Sargento 1º L., Capitán de Puerto de Chañaral Subrogante.
