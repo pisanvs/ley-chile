@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 420 de 18 de febrero de 2020, el Serviu Región de Los Lagos ordenó expropiación lote terreno Nº 119 para la ejecución Proyecto "Mejoramiento Avenida Presidente Ibáñez VIII etapa de la ciudad de Puerto Montt", Provincia de Llanquihue, Región de Los Lagos, que figura a nombre de Soc de Rentas Falabella S.A., rol de avalúo según SII Nº 96-10, comuna de Puerto Montt, superficie de 907,34 metros cuadrados. La comisión de peritos integrada por los Sres. Leopoldo Schumacher G., Enrique Hoelck A. y Raúl Palma L., designados por resolución exenta N° 1046 de 5 de abril de 2019, fijó con fecha 29 de abril de 2019 el valor provisional de la indemnización en la suma de $418.683.500. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7º del decreto ley Nº 2.186.-
+
+Director Serviu Región de Los Lagos.
