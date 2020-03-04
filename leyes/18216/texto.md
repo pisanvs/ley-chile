@@ -22,7 +22,7 @@ e) Expulsión, en el caso señalado en el artículo 34.
 
 f) Prestación de servicios en beneficio de la comunidad.
 
-No procederá la facultad establecida en el inciso precedente ni la del artículo 33 de esta ley, tratándose de los autores de los delitos consumados previstos en los artículos 141, incisos tercero, cuarto y quinto; 142, 150 A, 150 B, 361, 362, 372 bis, 390 y 391 del Código Penal; en los artículos 8º, 9º, 10, 13, 14 y 14 D de la ley Nº17.798; o de los delitos o cuasidelitos que se cometan empleando alguna de las armas o elementos mencionados en las letras a), b), c), d) y e) del artículo 2º y en el artículo 3º de la citada ley Nº17.798, salvo en los casos en que en la determinación de la pena se hubiere considerado la circunstancia primera establecida en el artículo 11 del mismo Código.
+No procederá la facultad establecida en el inciso precedente ni la del artículo 33 de esta ley, tratándose de los autores de los delitos consumados previstos en los artículos 141, incisos tercero, cuarto y quinto; 142, 150 A, 150 B, 361, 362, 372 bis, 390, 390 bis, 390 ter y 391 del Código Penal; en los artículos 8º, 9º, 10, 13, 14 y 14 D de la ley Nº17.798; o de los delitos o cuasidelitos que se cometan empleando alguna de las armas o elementos mencionados en las letras a), b), c), d) y e) del artículo 2º y en el artículo 3º de la citada ley Nº17.798, salvo en los casos en que en la determinación de la pena se hubiere considerado la circunstancia primera establecida en el artículo 11 del mismo Código.
 
 En ningún caso podrá imponerse la pena establecida en la letra f) del inciso primero a los condenados por crímenes o simples delitos señalados por las leyes números 20.000, 19.366 y 18.403. No se aplicará ninguna de las penas sustitutivas contempladas en esta ley a las personas que hubieren sido condenadas con anterioridad por alguno de dichos crímenes o simples delitos en virtud de sentencia ejecutoriada, hayan cumplido o no efectivamente la condena, a menos que les hubiere sido reconocida la circunstancia atenuante prevista por el artículo 22 de la ley Nº 20.000.
 
@@ -228,7 +228,7 @@ La libertad vigilada intensiva podrá decretarse:
 
 a) Si la pena privativa o restrictiva de libertad que impusiere la sentencia fuere superior a tres años y no excediere de cinco, o
 
-b) Si se tratare de alguno de los delitos establecidos en los artículos 296, 297, 390, 391, 395, 396, 397, 398 o 399 del Código Penal, cometidos en el contexto de violencia intrafamiliar, y aquellos contemplados en los artículos 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter y 411 ter del mismo Código, y la pena privativa o restrictiva de libertad que se impusiere fuere superior a quinientos cuarenta días y no excediere de cinco años.
+b) Si se tratare de alguno de los delitos establecidos en los artículos 296, 297, 390, 390 bis, 390 ter, 391, 395, 396, 397, 398 o 399 del Código Penal, cometidos en el contexto de violencia intrafamiliar, y aquellos contemplados en los artículos 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter y 411 ter del mismo Código, y la pena privativa o restrictiva de libertad que se impusiere fuere superior a quinientos cuarenta días y no excediere de cinco años.
 
 En los casos previstos en las dos letras anteriores, deberán cumplirse, además, las condiciones indicadas en ambos numerales del inciso segundo del artículo anterior.
 
